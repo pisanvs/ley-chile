@@ -38,15 +38,15 @@ a) Referidas al ámbito de aplicación del DFL Nº 2, de 1998, del Ministerio de
 
 3.- Pagar la subvención de acuerdo a las formas indicadas en el DFL Nº 2 de 1998 del Ministerio de Educación y en el decreto supremo Nº 8.144 de 1980 del Ministerio de Educación.
 
-4.- Ordenar la retención total o parcial del pago de la subvención, en la oportunidad y forma indicada en el artículo 53 del DFL Nº 2 de 1998 del Ministerio de Educación.
+4.- DEROGADO.
 
 5.- Ordenar reintegros de acuerdo a lo establecido en el artículo 51 del DFL Nº 2 de 1998 del Ministerio de Educación, salvo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
 
-6.- Otorgar plazos para reintegrar y aplicar interés real de acuerdo a lo establecido en el DFL Nº 2 de 1998 del Ministerio de Educación y su Reglamento, salvo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
+6.- DEROGADO.
 
 7.- Retener el 3% de los recursos que corresponda percibir por subvención mensual y sus correspondientes incrementos, a los Departamentos de Administración Municipales y a las Corporaciones Municipales, de acuerdo a la forma y condiciones establecidas en el artículo 54 bis del DFL Nº 2 de 1998 del Ministerio de Educación.
 
-8.- Programar y practicar visitas periódicas a los establecimientos educacionales para verificar y fiscalizar el cumplimiento de las disposiciones del DFL Nº 2 de 1998 del Ministerio de Educación y del decreto supremo Nº 8.144 de 1980 del Ministerio de Educación.
+8.- DEROGADO.
 
 9.- Aplicar los descuentos por discrepancias y ejercer las facultades contempladas en el artículo 14 del DFL Nº 2 de 1998 del Ministerio de Educación y resolver los eventuales recursos de reposición que se presenten al respecto.
 
@@ -58,31 +58,29 @@ a) Referidas al ámbito de aplicación del DFL Nº 2, de 1998, del Ministerio de
 
 13.- Recibir, de acuerdo al artículo 24 del DFL Nº 2 de 1998 del Ministerio de Educación, la información de los establecimientos educacionales que no han dado a conocer a los padres y apoderados el sistema de exención de los cobros mensuales dentro del mes de agosto anterior.
 
-14.- Recibir, de acuerdo al artículo 26 del DFL Nº 2 de 1998 del Ministerio de Educación, la información respecto a los montos de cobros anuales de los establecimientos educacionales que funcionan bajo el régimen de Financiamiento Compartido, antes del 30 de octubre de cada año.
+14.- DEROGADO.
 
-15.- Recibir, de acuerdo al artículo 20 del decreto supremo Nº 8.144 de 1980 del Ministerio de Educación, copia del formulario suscrito por el apoderado, en el que se exprese la calidad de voluntario y el monto de los pagos que se compromete a efectuar por concepto de derechos de escolaridad.
+15.- DEROGADO.
 
-16.- Controlar, de acuerdo al artículo 43 del decreto supremo Nº 8.144 de 1980 del Ministerio de Educación, en los establecimientos educacionales la asistencia media efectiva por curso.
+16.- DEROGADO.
 
-17.- Sustanciar y resolver procesos administrativos en primera instancia y aplicar sanciones a los establecimientos educacionales por infracciones al DFL Nº 2 de 1998 del Ministerio de Educación y decreto supremo Nº 8.144 de 1980 del Ministerio de Educación. La presente delegación operará en las materias señaladas sólo respecto de aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que no den origen a la aceleración en la tramitación del proceso administrativo, o respecto de los códigos de observación que sí den origen a la aceleración en la tramitación del proceso administrativo, pero en el cual el sostenedor no manifieste formalmente su aceptación y allanamiento a los cargos imputados. Los códigos de observación del Sistema de Inspección del Ministerio de Educación son aquellos definidos mediante instructivo del Ministerio de Educación.
+17.- DEROGADO.
 
-18.- Recibir las denuncias del Ministerio de Educación o de otros organismos públicos relacionados, o dependientes de éste, respecto a las infracciones a la normativa educacional legal o reglamentaria en materia de subvenciones y de su competencia.
+18.- DEROGADO.
 
 19.- Recepcionar los recursos, con sus correspondientes medios probatorios, interpuestos respecto de los procesos administrativos sancionatorios relativos a las materias delegadas en los numerales precedentes, y pronunciarse respecto de su admisibilidad.
 
-20.- Resolver los recursos de reposición y solicitudes de aclaración que fueren procedentes, relativos a las materias delegadas en los numerales precedentes.
+20.- DEROGADO.
 
 b) Referidas al ámbito de aplicación del DFL Nº 2 de 2009 del Ministerio de Educación y al decreto supremo Nº 315 de 2010 del Ministerio de Educación:
 
-1.- Sustanciar y resolver procesos administrativos en primera instancia, de acuerdo a lo prescrito en el artículo 50 del DFL Nº 2 de 2009 del Ministerio de Educación y en el artículo 1º Transitorio del decreto supremo Nº 315, de 2010 del Ministerio de Educación, en caso de incumplimiento de lo dispuesto en los artículos 16, 32 ó 34 del DFL Nº 2, de 2009, del Ministerio Educación, en caso de pérdida de alguno de los requisitos para ser reconocido oficialmente o en caso de obtención de resultados educativos reiteradamente deficientes respecto de los estándares nacionales.
+1.- DEROGADO.
 
-La presente delegación operará en las materias señaladas sólo respecto de aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que no den origen a la aceleración en la tramitación del proceso administrativo, o respecto de los códigos de observación que sí den origen a la aceleración en la tramitación del proceso administrativo, pero en el cual el sostenedor no manifieste formalmente su aceptación y allanamiento a los cargos imputados. Los códigos de observación del Sistema de Inspección del Ministerio de Educación son aquellos definidos mediante instructivo del Ministerio de Educación.
-
-2.- Recibir las denuncias del Ministerio de Educación o de otros organismos públicos relacionados, o dependientes de éste, respecto a las infracciones a la normativa educacional legal o reglamentaria en materia de reconocimiento oficial y de su competencia e iniciar de oficio el procedimiento correspondiente, de acuerdo a lo prescrito en el artículo 50 del DFL Nº 2 de 2009 del Ministerio de Educación y en el artículo 1º Transitorio del decreto supremo Nº 315 de 2010 del Ministerio de Educación.
+2.- DEROGADO.
 
 3.- Recepcionar los recursos, con sus correspondientes medios probatorios, interpuestos respecto de los procesos administrativos sancionatorios relativos a las materias delegadas en los numerales precedentes, y pronunciarse respecto de su admisibilidad.
 
-4.- Resolver los recursos de reposición y solicitudes de aclaración que fueren procedentes, relativos a las materias delegadas en los numerales precedentes.
+4.- DEROGADO.
 
 c) Referidas al ámbito de materias administrativas del personal de la Unidad de Subvenciones de esta región:
 
@@ -94,37 +92,11 @@ c) Referidas al ámbito de materias administrativas del personal de la Unidad de
 
 4.- Autorizar el feriado legal correspondiente, de acuerdo a los artículos 104 y siguientes del DFL Nº 29 de 2004 del Ministerio de Hacienda.
 
+> **Nota.** El artículo único transitorio de la Resolución 2450 Exenta, Educación, publicada el 17.12.2012, mantiene la vigencia de la delegación efectuada por artículo uno letra a) Nº 19 y letra b) Nº 3, sólo respecto de los recursos interpuestos en contra de los procesos administrativos sancionatorios iniciados por infracción a la normativa educacional con anterioridad al día 1 de septiembre del año 2012.
+
 #### Artículo 2º
 
-Deléganse en los Jefes de Inspección de las provincias de Curicó, Talca, Linares y Cauquenes las siguientes facultades:
-
-a) Referidas al ámbito de aplicación del DFL Nº 2 de 1998 del Ministerio de Educación y al decreto supremo Nº 8.144 de 1980 del Ministerio de Educación:
-
-1.- Ordenar reintegros de acuerdo a lo establecido en el artículo 51 del DFL Nº 2 de 1998 del Ministerio de Educación, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
-
-2.- Otorgar plazos para reintegrar y aplicar interés real de acuerdo a lo establecido en el DFL Nº 2 de 1998 del Ministerio de Educación y su reglamento, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
-
-3.- Recepcionar las actas de fiscalización e informes/actas respecto a establecimientos educacionales que contengan observaciones referidas a infracciones a las normas que regulan el derecho a impetrar subvención.
-
-4.- Instruir procesos administrativos a los establecimientos educacionales que infrinjan el DFL Nº 2 de 1998 del Ministerio de Educación y decreto supremo Nº 8.144 de 1980 del Ministerio de Educación.
-
-5.- Sustanciar y aplicar sanciones en aquellos procesos administrativos a los establecimientos educacionales que infrinjan el DFL Nº 2 de 1998 del Ministerio de Educación y decreto supremo Nº 8.144, de 1980 del Ministerio de Educación, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación en cuya tramitación el sostenedor haya manifestado formalmente su aceptación y allanamiento a el o los cargos imputados.
-
-6.- Recepcionar los recursos que procedan de acuerdo a la normativa contra los procesos administrativos sancionatorios de subvenciones de su competencia, con sus correspondientes medios probatorios, y pronunciarse respecto de su admisibilidad.
-
-7.- Resolver los recursos de reposición y las solicitudes de aclaración que fueren procedentes, relativos a materias de subvenciones de su competencia delegada, de conformidad a las normas generales y especiales aplicables.
-
-b) Referidas al ámbito de aplicación del DFL Nº 2 de 2009 del Ministerio de Educación y al decreto supremo Nº 315 de 2010 del Ministerio de Educación:
-
-1.- Recepcionar las actas derivadas de una visita de fiscalización a establecimientos educacionales reconocidos oficialmente por el Estado.
-
-2.- Instruir los procesos administrativos, de acuerdo a lo prescrito en el artículo 50 del DFL Nº 2 de 2009, del Ministerio de Educación y en el artículo 1° Transitorio del decreto supremo Nº 315 de 2010 del Ministerio de Educación, en caso de incumplimiento de lo dispuesto en los artículos 16, 32 o 34 del DFL Nº 2 de 2009 del Ministerio de Educación, en caso de pérdida de alguno de los requisitos para ser reconocido oficialmente o en caso de obtención de resultados educativos reiteradamente deficientes respecto de los estándares nacionales.
-
-3.- Sustanciar y resolver procesos administrativos en primera instancia, de acuerdo a lo prescrito en el artículo 50 del DFL Nº 2 de 2009, del Ministerio de Educación y en el artículo 1º Transitorio del decreto supremo Nº 315 de 2010 del Ministerio de Educación, en caso de incumplimiento de lo dispuesto en los artículos 16, 32 o 34 del DFL Nº 2 de 2009 del Ministerio Educación, en caso de pérdida de alguno de los requisitos para ser reconocido oficialmente o en caso de obtención de resultados educativos reiteradamente deficientes respecto de los estándares nacionales. La presente delegación operará en las materias señaladas sólo respecto de aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que sí den origen a la aceleración en la tramitación del proceso administrativo y en el cual el sostenedor manifieste formalmente su aceptación y allanamiento a los cargos imputados. Los códigos de observación del Sistema de Inspección del Ministerio de Educación son aquellos definidos mediante instructivo del Ministerio de Educación.
-
-4.- Recepcionar los recursos, con sus correspondientes medios probatorios, interpuestos respecto de los procesos administrativos sancionatorios relativos a las materias delegadas en los numerales precedentes, y pronunciarse respecto de su admisibilidad.
-
-5.- Resolver los recursos de reposición y solicitudes de aclaración que fueren procedentes, relativos a las materias delegadas en los numerales precedentes.
+DEROGADO.
 
 #### Artículo 3º
 
