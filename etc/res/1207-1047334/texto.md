@@ -1,0 +1,3 @@
+CONCURSO CARGOS TITULARES DIRECTIVOS Y CLÍNICOS LEY Nº 15.076
+
+Descargar Descargar norma en pdf (PDF, 159 K)
