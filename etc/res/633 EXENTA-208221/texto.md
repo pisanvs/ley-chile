@@ -566,6 +566,10 @@ Cynara scolymus Sin Declaración Adicional
 
 (Alcachofa)
 
+Humulus lupulus Sin Declaración Adicional
+
+(Lúpulo)
+
 Ipomoea batatas Potato spindle tuber viroid
 
 (Camote) (PSTVd)
