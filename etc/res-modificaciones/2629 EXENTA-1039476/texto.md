@@ -6,7 +6,7 @@ Considerando:
 
 Que, la solicitud de las empresas referidas tiene sustento en la creciente importación efectuada durante el último tiempo de decodificadores de señal satelital capaces de captar tanto señales de libre recepción como aquellas emisiones de proveedores de contenidos de televisión sujeta a pago.
 
-Que, los aparatos decodificadores en cuestión cuentan con un software que posee un dispositivo descifrador que los hace aptos para desencriptar el contenido televisivo cifrado, siendo capaces entonces de interceptar las señales satelitales privadas que transmiten contenidos de televisión sujeta a pago, en forma gratuita, sin que exista autorización alguna de parte de los titulares de los derechos sobre estos contenidos.
+Que, algunos de los aparatos decodificadores en cuestión podrían contar con un software que posea un dispositivo descifrador que los hace aptos para desencriptar el contenido televisivo cifrado, siendo capaces entonces de interceptar las señales satelitales privadas que transmiten contenidos de televisión sujeta a pago.
 
 Que, de acuerdo a estos antecedentes, es razonable colegir que estos aparatos codificadores pueden eventualmente ser utilizados fraudulentamente con objeto de captar emisiones de operadores de televisión de pago, sin estar legalmente autorizados para usar dicho servicio, vulnerando así normas relativas a la propiedad intelectual.
 
@@ -24,7 +24,7 @@ Resolución:
 
 Agrégase al numeral 10.1, el literal t), cuyo texto es el siguiente:
 
-"Declaración jurada simple del importador en la cual conste que el aparato se trata de un decodificador FTA (Free To Air) que sólo permite la recepción de señales satelitales de libre recepción. En el evento que dicho aparato receptor permita a su vez decodificar emisiones de operadores de televisión pagada, el importador deberá acompañar una declaración jurada que indique tal característica o cualidad del decodificador, señalando además que cumple con la normativa sobre protección de derechos de propiedad intelectual".
+"Declaración jurada simple del importador en la cual conste que el aparato se trata de un decodificador FTA (Free To Air) que sólo permite la recepción de señales satelitales de libre recepción. En el evento que dicho aparato receptor permita a su vez decodificar emisiones de operadores de televisión pagada, el importador deberá acompañar una declaración jurada que indique tal característica o cualidad del decodificador, señalando además que cumple con la normativa sobre protección de derechos de propiedad intelectual, individualizando la empresa que le otorgó la licencia".
 
 II. Como consecuencia de lo anterior, reemplázase la hoja Cap. III-28-1, por la que se adjunta a la presente resolución.
 
