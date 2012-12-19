@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A COMPAÑÍA DE SEGUROS CORPVIDA S.A.
+
+Certifico: Que por resolución exenta Nº 458, de fecha 12 de diciembre de 2012, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Compañía de Seguros Corpvida S.A., acordada en junta extraordinaria de accionistas celebrada el 18 de octubre de 2012, reducida a escritura pública el 25 de octubre de 2012, en la Notaría de Santiago de don José Musalem Saffie, domiciliado en Huérfanos 770 piso 3.
+
+La reforma consiste en aumentar el capital social de $127.378.510.653, dividido en 681.495 acciones ordinarias, nominativas, misma serie, sin valor nominal, íntegramente suscrito y pagado, suma que incluye $4.781.291.545, correspondientes a la revalorización del capital propio al 31 de diciembre de 2011, a $151.303.510.653, dividido en 818.995 acciones, mediante la emisión de 137.500 acciones, por la suma de $23.925.000.000, a suscribir y pagar dentro del plazo de 30 días contado desde la fecha de la resolución antes indicada. Otros acuerdos que no son materia de extracto. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 12 de diciembre de 2012.- Carmen Undurraga Martínez, Secretaria General.
