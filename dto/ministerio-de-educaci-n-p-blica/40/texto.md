@@ -38,29 +38,11 @@ PROGRAMA DE ESTUDIO: El documento de carácter normativo que expone secuencialme
 
 #### Artículo 3°
 
-El Ministerio de Educación deberá presentar al Consejo Superior de Educación, la propuesta de planes y programas oficiales de estudio dentro de los plazos y fechas que aquí se señalan; la de los cursos 1° y 2° básicos, antes del 30 de junio de 1996; la de los cursos 3° y 4° básicos, antes del 30 de septiembre de 1996; la de 5° año básico, antes del 30 de junio de 1997 y la de los cursos restantes de la enseñanza básica, en cualquiera época del año 1997, los que deberán ser elaborados conforme a los objetivos Fundamentales y contenidos mínimos Obligatorios que se establecen en el presente decreto y que deberán adoptar los establecimientos educacionales que carezcan de ellos.
+Derogado.
 
 #### Artículo 4°
 
-Los planes y programas de estudio que los establecimientos educacionales elaboren, de acuerdo al régimen de los Objetivos Fundamentales y Contenidos mínimos Obligatorios, deberán comenzar a aplicarse gradualmente, a partir del año escolar 1997, según el siguiente calendario:
-
-Año escolar 1997: 1° y 2° año básico.
-
-Año escolar 1998: 3° y 4° año básico.
-
-Año escolar 1999: 5° año básico.
-
-Año escolar 2000: 6° año básico.
-
-Año escolar 2001: 7° año básico.
-
-Año escolar 2002: 8° año básico.
-
-Sin perjuicio de lo señalado en el inciso anterior, aquellos planes y programas de estudio que elaboren los establecimientos educacionales relativos a algunos de los cursos indicados en éste, y que sean aprobados por el Ministerio de Educación durante la vigencia de un determinado año escolar, sólo entrarán en vigencia a partir del año escolar siguiente, respetándose, en todo caso, la gradualidad para su aplicación, que se señala en este artículo.
-
-> **Nota.** El DTO 634, Educación, publicado el 16.03.1999, exceptuó de lo dispuesto en el presente artículo, el programa correspondiente al Subsector Idioma Extranjero- Inglés, pues la aplicación obligatoria de éste, en los cursos de 5º y 6º año básico (NB.3 y NB.4), se iniciará a partir del año 2001.
-
-> **Nota.** NOTA 1: El artículo 1º del DTO 170, Educación, publicado el 14.10.2005, exceptúa de lo dispuesto en la presente norma, el programa correspondiente al Subsector Idioma Extranjero - Inglés, debido a que la aplicación obligatoria de este Subsector, en los cursos de 5º a 8º año básico de las escuelas rurales del país, regirá a partir del año escolar 2008.
+Derogado.
 
 #### Artículo 5°
 
@@ -72,7 +54,7 @@ Derogado.
 
 #### Artículo 7°
 
-Aquellos establecimientos educacionales que no haya obtenido la aprobación de los planes y programas de estudio por parte del Ministerio de Educación o del Consejo Superior de Educación, en su caso, deberán aplicar obligatoriamente los planes y programas de estudio oficiales elaborados por el Ministerio de Educación, mientras no cuenten con la aprobación correspondiente de los nuevos planes y programas de estudio.
+Derogado.
 
 #### Artículo 8°
 
@@ -6475,3 +6457,5 @@ Los nuevos programas de Religión deberán ajustarse a la forma y criterios que 
 Las clases de Religión se regirán en todos los aspectos no considerados por las normas establecidas en el decreto supremo de educación Nº 924 de 1983.
 
 > **Nota.** El artículo 2º del DTO 232, Educación, dispone que los planes y programas de estudio de NB.1 y NB.2 (1º a 4º año básico) que elabore tanto el Ministerio de Educación como los establecimientos educacionales deberán ceñirse a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios aprobados precedentemente y se aplicarán a partir del año escolar 2004.
+
+> **Nota.** NOTA 1 El artículo 3° del Decreto 433, Educación, publicado el 19.12.2012, deroga las normas correspondientes a los sectores de Educación Física, Artes, Orientación y Tecnología, desde 1º hasta 6º año básico, contenidas en la presente norma.
