@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.240, de 11 de diciembre de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.139 de 2009, sólo en cuanto autorizó a Pesquera El Golfo S.A., hoy BLUMAR S.A., para realizar actividades pesqueras extractivas con una nave en construcción en el área marítima comprendida entre la V a VII y IX a X Regiones, sobre el recurso hidrobiológico Jibia o Calamar rojo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 11 de diciembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
