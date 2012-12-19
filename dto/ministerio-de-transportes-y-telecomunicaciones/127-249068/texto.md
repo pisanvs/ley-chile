@@ -1702,7 +1702,7 @@ Puede utilizarse control automático de potencia para aumentar la densidad de p.
 
 197. La banda 14 14,5 GHz puede ser utilizada, en el servicio fijo por satélite (Tierra espacio), para enlaces de conexión destinados al servicio de radiodifusión por satélite, a reserva de una coordinación con las otras redes del servicio fijo por satélite.
 
-198. En la banda 14-14,5 GHz, las estaciones terrenas situadas a bordo de barcos cuya p.i.r.e. sea mayor que 21 dBW deberán funcionar en las mismas condiciones que las estaciones terrenas a bordo de buques.
+198 En la banda 14 - 14,5 GHz, las estaciones terrenas situadas a bordo de barcos cuya p.i.r.e. sea mayor que 21 dBW deberán funcionar en las mismas condiciones que las estaciones terrenas a bordo de buques de acuerdo con lo dispuesto en la resolución 902 (CMR-03) de la UIT.
 
 199. La utilización de la banda 14,5 - 14,8 GHz por el servicio fijo por satélite (Tierra - espacio) está limitada a los enlaces de conexión para el servicio de radiodifusión por satélite.
 
@@ -1889,6 +1889,8 @@ En esta parte del espectro, todavía en gran parte inexplorada, los futuros trab
 > **Nota.** NOTA 2 El Nº 1 del Artículo Único del Decreto 156, Transportes, publicado el 05.04.2010, modifica la presente norma en el sentido de reemplazar en el Nº4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de las bandas de frecuencias que en dicha norma se indican.
 
 > **Nota.** NOTA 3 El Nº 1 del Artículo Único del Decreto 240, Transportes, publicado el 28.01.2011, modifica la presente norma en el sentido de reemplazar en el Nº4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de las bandas de frecuencias que en dicha norma se indican.
+
+> **Nota.** NOTA 4 El numeral 1 del Artículo Único del Decreto 141, Transportes, publicado el 19.12.2012, modifica la presente norma, en el sentido de reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
 
 Anótese, regístrese, tómese razón, publíquese en el Diario Oficial e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
 
