@@ -18,7 +18,7 @@ Teniendo presente: Lo dispuesto en la Ley Nº18.834, Estatuto Administrativo, el
 
 Resuelvo:
 
-1. Fíjase para el período comprendido entre los días 3 y 14 de diciembre de 2012, ambos incluidos, un nuevo avalúo por el gramo de oro de 18 ktes., utilizado en las Unidades de Crédito para el cálculo de los préstamos con garantía prendaria del rubro Alhajas, conforme a la siguiente tabla:
+1. Fíjase para el período comprendido entre los días 3 y 21 de diciembre de 2012, ambos incluidos, un nuevo avalúo por el gramo de oro de 18 ktes., utilizado en las Unidades de Crédito para el cálculo de los préstamos con garantía prendaria del rubro Alhajas, conforme a la siguiente tabla:
 
 .
 
