@@ -76,6 +76,8 @@ p) Unidad de pesquería de Langostino colorado Pleuroncodes monodon, en el área
 
 q) Unidades de pesquería de Sardina española Sardinops sagax y Anchoveta Engraulis ringens, en el área marítima de la XV, I y II Regiones, individualizadas en la letra q) del artículo 2º de la ley 19.713:
 
+.
+
 r) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XV, I y II Regiones, individualizada en la letra r) del artículo 2º de la ley 19.713:
 
 > **Nota.** El Artículo Nº 1 del Decreto Nº 425, Economía, publicado el 07.05.2012. modifica la presente norma en el sentido de que los límites correspondientes a la unidad de pesquería de Sardina común, en el área marítima comprendida entre la V y la X Regiones, individualizada en la letra e) del artículo 2º de la ley N° 19.713, son los que la propia norma indica.
