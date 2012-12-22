@@ -44,7 +44,7 @@ a) El país o la zona de procedencia está
 
 declarado oficialmente libre de Fiebre
 
-Aftosa sin vacunación, Peste Bovina,
+Aftosa (FA) con o sin vacunación,
 
 Fiebre del Valle del Rift, Dermatosis
 
@@ -52,7 +52,7 @@ Nodular Contagiosa y Pleuroneumonía
 
 Contagiosa Bovina ante la Organización
 
-Mundial de Sanidad Animal y esta
+Mundial de Sanidad Animal y ésta
 
 condición sanitaria ha sido evaluada
 
@@ -296,6 +296,32 @@ mamífera de acuerdo a los estándares
 
 oficiales del país.
 
+d) Si el país o zona es libre de FA con
+
+vacunación, se debe certificar que
+
+los animales no vacunados son
+
+negativos a las pruebas de detección
+
+de anticuerpos contra el virus de la
+
+Fiebre Aftosa realizadas después de 21
+
+días de la recolección del semen, o si
+
+los animales fueron vacunados, deben
+
+haber recibido a lo menos dos dosis de
+
+vacuna antiaftosa, acreditando que la
+
+última dosis se les administró no más
+
+allá de 12 meses ni menos de 30 días
+
+previos a la recolección del semen.
+
 1.2.4 DEL ANIMAL DONADOR
 
 a) Cumple con los requisitos descritos en
@@ -502,6 +528,30 @@ que deberá haber sido previamente
 
 evaluada favorablemente por Chile.
 
+f) Con respecto a Fiebre Aftosa con
+
+o sin vacunación, la autoridad
+
+competente del país de origen debe
+
+certificar al momento del embarque
+
+que los animales donantes no
+
+manifestaron ningún signo clínico
+
+de la enfermedad el día de la
+
+recolección del semen, ni durante los
+
+30 días posteriores, y permanecieron
+
+en ese país o zona durante por lo
+
+menos los 3 meses anteriores a la
+
+recolección del semen.
+
 1.2.5 DEL SEMEN
 
 a) El semen fue colectado, procesado y
@@ -532,17 +582,17 @@ y nitrógeno fresco no usado para ningún
 
 otro propósito.
 
-d) El semen, después de su recolección y
+d) El semen, después de su recolección
 
-hasta su despacho, fue conservado en
+y hasta su despacho, a lo menos por 30
 
-contenedores exclusivos para la
+días, fue conservado en contenedores
 
-exportación a Chile o con semen que
+exclusivos para la exportación a Chile
 
-cumple como mínimo las mismas
+o con semen que cumple como mínimo las
 
-exigencias que las que se deben
+mismas exigencias que las que se deben
 
 alcanzar para exportar a Chile; y
 
@@ -646,6 +696,22 @@ IPV/IBR, Leptospirosis, Paratuberculosis y
 
 Tricomoniasis.
 
+Con respecto a Fiebre Aftosa con o sin
+
+vacunación, se certifica que al momento del
+
+embarque los animales donantes no manifestaron
+
+ningún signo clínico de la enfermedad el día
+
+de la recolección del semen, ni durante los
+
+30 días posteriores, y permanecieron en ese
+
+país o zona durante por lo menos los 3
+
+meses anteriores a la recolección del semen.
+
 4.2 Los animales residentes del
 
 Centro...................... fueron sometidos al
@@ -704,6 +770,28 @@ Tabla de enfermedades por animal:
 
 Estas pruebas nos serán exigibles si el Servicio Veterinario Oficial certifica que el país o la zona está libre de la(s) enfermedad (es) señalada (s) precedentemente, condición que deberá haber sido previamente evaluada favorablemente por Chile.
 
+5.5 Si el país o zona es libre de FA con vacunación
+
+(tachar a) o b) según corresponda):
+
+a) Los animales no vacunados son negativos a
+
+las pruebas de detección de anticuerpos contra
+
+el virus de la Fiebre Aftosa realizadas después
+
+de 21 días de la recolección del semen, o
+
+b) Los animales vacunados, recibieron a lo
+
+menos dos dosis de vacuna antiaftosa, acreditando
+
+que la última dosis se les administró no más
+
+allá de 12 meses ni menos de 30 días previos
+
+a la recolección del semen.
+
 ### 6. DEL SEMEN
 
 6.1 El semen fue colectado, procesado y almacenado
@@ -730,19 +818,19 @@ utilizado frascos esterilizados y nitrógeno
 
 fresco no usado para ningún otro propósito.
 
-6.4 El semen, después de su recolección y hasta su
+6.4. El semen, después de su recolección y hasta
 
-despacho, fue conservado en contenedores
+su despacho, a lo menos por 30 días, fue
 
-exclusivos para la exportación a Chile o con
+conservado en contenedores exclusivos para la
 
-semen que cumple como mínimo las mismas
+exportación a Chile o con semen que cumple
 
-exigencias que las que se deben alcanzar para
+como mínimo las mismas exigencias que las que
 
-exportar a Chile; y separado de cualquier otro
+se deben alcanzar para exportar a Chile; y
 
-semen.
+separados de cualquier otro semen.
 
 1 Escribir en mayúscula y negrita
 
@@ -759,5 +847,7 @@ semen.
 7 Nombre y Apellidos del Veterinario Oficial en letras mayúsculas, con cargo.
 
 3. Deróganse las resoluciones N°s 1.259 de 1996, y 2.374 de 1997, del Servicio Agrícola y Ganadero.
+
+> **Nota.** El Número 5.1 del Número 5 de la Resolución 7371, Agricultura, publicada el 22.12.2012, modifica la presente resolución en el sentido de reemplazar el punto 1 de la sección IV del certificado sanitario por el siguiente: "... (Indicar país o zona de procedencia) está oficialmente libre de Fiebre Aftosa (FA) con o sin vacunación (tachar lo que no corresponda), Fiebre del Valle del Rift, Dermatosis Nodular Contagiosa y Pleuroneumonía Contagiosa Bovina.
 
 Anótese, comuníquese y publíquese.- Francisco Bahamonde Medina, Director Nacional Servicio Agrícola y Ganadero.
