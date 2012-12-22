@@ -8,15 +8,11 @@ Resolución:
 
 1º.- Llámase, hasta el 28 de diciembre de 2012, a postulación nacional en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, y del Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, en la alternativa de postulación colectiva con proyecto habitacional, para Proyectos de Integración Social, período en que los Serviu procederán directamente a la recepción de proyectos habitacionales y solicitudes de incorporación al proyecto e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
-Al momento de la postulación, deberán presentarse las nóminas de familias integrantes de los proyectos, debiendo corresponder a los siguientes porcentajes, que se calcularán considerando el total de viviendas del proyecto presentado:
+Al momento de la postulación, deberán presentarse las nóminas de familias integrantes de los proyectos, en formato proporcionado por el Serviu, debiendo corresponder a los siguientes porcentajes, que se calcularán considerando el total de viviendas del proyecto presentado:
 
-a) Como mínimo, un 20% de familias que hayan sido beneficiadas en llamados del DS Nº 49 (V. y U.), de 2011.
+a) Como mínimo un 20% y hasta un 40% de familias que hayan sido beneficiadas en llamados del DS Nº49 (V. y U.), de 2011, o que cuenten con Certificado de Grupo Organizado Hábil (CGOH) al 28 de diciembre de 2012 o que hayan sido beneficiadas con un subsidio para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero del DS Nº 174 (V. y U.), de 2005.
 
-Además del porcentaje mínimo obligatorio señalado en el inciso anterior, podrán incorporarse hasta un 20% de familias no asociadas a proyectos, que cuenten con Certificado de Grupo Organizado Hábil (CGOH) al 13 de septiembre de 2012.
-
-El porcentaje de familias que adquirirán viviendas correspondientes al DS Nº 49 referido, ya sean beneficiarias en llamados anteriores de este programa o que cuenten con CGOH, no podrá exceder del 40%.
-
-b) Como mínimo, un 20% de familias que hayan sido beneficiadas en llamados del DS Nº 1 (V. y U.), de 2011.
+b) Como mínimo, un 20% de familias que hayan sido beneficiadas en llamados del DS Nº 1 (V. y U.), de 2011, o con un subsidio del Capítulo Segundo del DS Nº 174 (V. y U.), de 2005, Programa Fondo Solidario de Vivienda II, que haya sido asignado de forma regular o extraordinaria.
 
 Además del porcentaje mínimo obligatorio señalado en el inciso anterior, podrán presentarse hasta un 60% de familias sin subsidio, correspondiente al DS Nº 1, las que deberán cumplir con los requisitos y condiciones señaladas para cada Título.
 
@@ -30,15 +26,17 @@ Además del porcentaje mínimo obligatorio señalado en el inciso anterior, podr
 
 En todo caso, para la aplicación de los subsidios deberá determinarse el valor real de pago que resulte de aplicar los montos correspondientes de acuerdo a la región y comuna de emplazamiento, según lo indicado en los artículos 4 y 7 del DS Nº 49 (V. y U.), de 2011 y en los artículos 64 y 67 del DS Nº 1 (V. y U.), de 2011, según corresponda.
 
+En el caso de la aplicación de subsidios para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero o del Programa Fondo Solidario de Vivienda II del Capítulo Segundo, del DS Nº 174 (V. y U.), de 2005, para el cálculo del monto de subsidio se estará a lo dispuesto en el artículo 4º transitorio del DS Nº 49 y al inciso tercero del artículo 75 del DS Nº 1, ambos de Vivienda y Urbanismo, de 2011.
+
 5º.- Para postular al llamado a que se refiere el número 1º de esta resolución, la entidad patrocinante deberá cumplir con:
 
 5.1.- Presentar un proyecto habitacional de hasta 300 viviendas, que cuente con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales respectiva, que incluya, al menos, los porcentajes mínimos de viviendas destinadas a cada reglamento señalados en el número 1º de la presente resolución.
 
 Al presentar el proyecto habitacional al Serviu, la entidad patrocinante deberá acompañar los antecedentes señalados en las letras a), b) y c) del artículo 48 del DS Nº 1 (V. y U.), de 2011.
 
-Si el proyecto no cuenta con permiso de edificación, la entidad patrocinante tendrá un plazo de 60 días para ingresar la solicitud del permiso de edificación a la Dirección de Obras Municipales correspondiente, lo que deberá comunicar al Serviu respectivo, haciendo llegar copia de la solicitud de ingreso. En caso contrario, la selección del proyecto quedará sin efecto.
+Si el permiso de edificación del proyecto está en trámite de modificación para cumplir con las condiciones y requisitos establecidos en el llamado especial dispuesto por esta resolución, se deberá presentar el permiso de edificación original, copia de la solicitud de ingreso de la modificación de dicho permiso en la Dirección de Obras Municipales y los nuevos planos correspondientes a esta modificación, firmados y timbrados por la empresa constructora.
 
-La entidad patrocinante tendrá un plazo máximo de dos años para la obtención de la recepción municipal de las obras, contados desde el otorgamiento del permiso de edificación.
+La entidad patrocinante tendrá un plazo máximo de dos años para la obtención de la recepción municipal de las obras, contados desde el otorgamiento del permiso de edificación o de modificación, en su caso. Si se postuló con permiso de edificación definitivo, el plazo de dos años regirá a partir de la resolución que sancione la selección del llamado.
 
 5.2.- Presentar la nómina de personas que adquirirán las viviendas del proyecto presentado, incluyendo su nombre completo y número de cédula de identidad, e identificando quiénes adquirirán las viviendas destinadas a cada Programa de Subsidio y Título cuando corresponda. La nómina podrá contener un número de personas inferior al número de viviendas que considera el proyecto habitacional presentado, no obstante lo cual deberá considerar, a lo menos, el número de personas que como mínimo adquirirán las viviendas destinadas a cada Programa de Subsidio, según los porcentajes indicados en el número 1º de esta resolución.
 
@@ -56,7 +54,19 @@ En caso de no presentar el Certificado de Preaprobación señalado, los postulan
 
 Al momento de postular, el interesado deberá entregar la autorización correspondiente para consultar al Servicio de Impuestos Internos u otra entidad, acerca de los ingresos del núcleo familiar declarado.
 
-5.3.- Presentar el formulario de incorporación al proyecto para cada una de las personas incluidas en la nómina citada en el párrafo anterior, en formato proporcionado por Minvu, declarando que conocen el proyecto y sus características.
+5.3.- Presentar el formulario de incorporación y adscripción al proyecto para cada una de las personas incluidas en la nómina citada en el párrafo anterior, en formato proporcionado por Minvu, declarando que conocen el proyecto y sus características.
+
+5.4. Las familias que hayan sido beneficiadas a través del DS Nº 49 (V. y U.), de 2011, o que cuenten con CGOH, podrán optar al subsidio a que se refiere la letra a) del artículo 7, de incentivo y premio al ahorro adicional, para lo cual deberán acreditar el ahorro adicional al 28 de diciembre de 2012. La Comisión Evaluadora a que se refiere el resuelvo 14 de esta resolución, calificará si procede la aplicación de este subsidio complementario, para lo cual se deberá adjuntar un presupuesto que considere la aplicación de este subsidio y otro que no lo considere.
+
+5.5. Al momento de la postulación, la Entidad Patrocinante entregará al Serviu los Certificados de Subsidio Habitacional de las familias que sean beneficiarias de subsidio, los que serán devueltos una vez concluido el proceso de selección. En caso que el proyecto resulte seleccionado, antes de la devolución, el Serviu consignará en el reverso del Certificado, a lo menos lo siguiente:
+
+- Que el subsidio debe ser aplicado a un Proyecto de Integración Social seleccionado conforme a la resolución exenta Nº 8.916 (V. y U.), de 2012;
+
+- El nombre del proyecto;
+
+- Entidad Patrocinante;
+
+- Región y comuna en que se desarrollará el proyecto
 
 6º.- Los proyectos habitacionales presentados deberán cumplir con lo siguiente:
 
@@ -104,17 +114,15 @@ La entidad patrocinante podrá construir un equipamiento mayor al exigido para e
 
 8º.- La entidad patrocinante deberá caucionar el fiel cumplimiento de la ejecución, término y venta de las viviendas a las familias incluidas en la nómina presentada, mediante boleta bancaria de garantía, expresada en Unidades de Fomento, extendida a favor del Serviu respectivo, a la vista, de plazo indefinido o por un plazo mínimo de 36 meses contados desde la fecha de aprobación del proyecto. La boleta de garantía deberá mantenerse vigente hasta que las familias incluidas en la nómina presentada junto al proyecto hayan aplicado el subsidio habitacional a la adquisición de una vivienda que forme parte del proyecto presentado, debiendo prorrogarse las veces que sea necesaria. Una vez cumplida esta condición, se procederá a la devolución de la boleta de garantía.
 
-El monto de la Boleta Bancaria de Garantía será de 2.000 Unidades de Fomento por proyecto, y deberá presentarse al Serviu en un plazo máximo de 10 días hábiles contados desde que éste comunique la aprobación del proyecto mediante carta certificada.
+El monto de la Boleta Bancaria de Garantía será de 500 unidades de fomento por proyecto, y deberá presentarse al Serviu en un plazo máximo de 10 días hábiles contados desde que éste comunique la aprobación del proyecto mediante carta certificada. En caso que la Entidad Patrocinante haya suscrito un Convenio Marco regional a que se refiere el inciso segundo del artículo 48 del DS Nº 49 (V. y U.), de 2011, el monto de la Boleta Bancaria de Garantía será de 200 unidades de fomento.
 
 En caso que no se cumpla con la ejecución, término y venta de las viviendas a las familias o que no se cumpla con lo establecido en esta resolución, el Serviu hará efectiva la boleta de garantía de fiel cumplimiento.
 
 9º.- La Pauta de Selección de Proyectos y Familias será la siguiente:
 
-.
-
 En caso que dos o más proyectos empaten en puntaje, se dará prioridad a proyecto que tenga el mayor promedio de ahorro, considerando para el cálculo el total de las familias presentadas asociadas al proyecto.
 
-10.- Los Certificados de Subsidio del DS Nº 1 (V. y U.), de 2011, y del DS Nº 49 (V. y U.), de 2011, se pagarán conforme a lo dispuesto en el artículo 33 del DS Nº 1 referido.
+10.- Los Certificados de Subsidio correspondientes al DS Nº 1 y al DS Nº 49, ambos de Vivienda y Urbanismo, de 2011; a los subsidios para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero o a los del Programa Fondo Solidario de Vivienda II del Capítulo Segundo, ambos del DS Nº 174 (V. y U.), de 2005, se pagarán conforme a lo dispuesto en el artículo 33 del DS Nº 1 (V. y U.), de 2011.
 
 No se consideran anticipos a cuenta del pago del subsidio, lo que es aplicable a ambos Programas de Subsidio.
 
