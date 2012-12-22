@@ -16,7 +16,7 @@ Resolución:
 
 2. Llámase a concurso para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda en todas las regiones del país, en la alternativa de postulación colectiva sin proyecto habitacional para grupos postulantes que cuenten con Certificado de Grupo Organizado Hábil hasta el día 31 de agosto, y hasta el día 7 de septiembre para el caso de grupos postulantes que cuenten con al menos un 60% de familias que formen parte del Catastro de Campamentos elaborado por el Ministerio de Vivienda y Urbanismo.
 
-3. Los recursos involucrados por región del país para la selección de los grupos postulantes en el concurso establecido en el Resuelvo precedente son los siguientes:
+3. Los recursos involucrados por región del país para NOTAla selección de los grupos postulantes en el concurso establecido en el Resuelvo precedente son los siguientes:
 
 4. El número de grupos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
