@@ -19224,15 +19224,7 @@ La responsabilidad por la gestión global de los riesgos y funciones de control 
 
 ### 1. Servicios que pueden prestar los bancos establecidos en el país
 
-Los bancos podrán prestar servicios, bajo las condiciones que se indican en el Capítulo 11-6 de esta Recopilación, a las siguientes empresas:
-
-- **a)** Empresas filiales o de apoyo al giro;
-
-- **b)** Sucursales y filiales en el exterior de que trata el Capítulo 11-7 y,
-
-- **c)** Empresas bancarias del país o del exterior, así como empresas establecidas en Chile, relacionadas por propiedad con la institución financiera prestadora del servicio, que desarrollen alguno de los giros autorizados en la letra
-
-- **a)** del artículo 70 de la Ley General de Bancos o el giro de asesoría previsional de conformidad con el artículo 173 del D.L. N° 3.500. En el caso de la prestación de servicios a bancos del exterior, se requerirá una autorización previa de esta Superintendencia.
+Los bancos podrán prestar servicios bajo las condiciones que se indican en el Capítulo 11-6 de esta Recopilación, a las siguientes empresas: a) Empresas filiales o de apoyo al giro; y, b) Sucursales y filiales en el exterior de que trata el Capítulo 11-7.
 
 ### 2. Servicios que pueden contratar las instituciones bancarias
 
