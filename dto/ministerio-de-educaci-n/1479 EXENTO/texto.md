@@ -26,13 +26,15 @@ Apruébanse los programas de estudio de 3º año básico para la asignatura de L
 
 <!-- parte:9265290 -->
 
-DEROGADO
+Apruébase el siguiente plan de estudio de 3º año básico para aquellos establecimientos reconocidos oficialmente por el Ministerio de Educación, que impartan la asignatura de Lengua Indígena y no se encuentren adscritos al régimen de Jornada Escolar Completa:
+
+.
 
 #### Artículo 3º
 
 <!-- parte:9265291 -->
 
-DEROGADO
+Apruébase el siguiente plan de estudio de 3º año básico para aquellos establecimientos reconocidos oficialmente por el Ministerio de Educación, que impartan la asignatura de Lengua Indígena y se encuentren adscritos al régimen de Jornada Escolar Completa:
 
 #### Artículo 4º
 
