@@ -52,6 +52,4 @@ Resolución:
 
 > **Nota.** NOTA 1 El numeral 1.1 de la Resolución 2119 Exenta, Vivienda, publicado el 28.12.2012, modifica la presente norma, modificada por resolución exenta Nº 1.046 de fecha 04.07.2012, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, en el sentido de fijar un plazo de 90 días corridos, para la postulación al llamado extraordinario de los Títulos I y II del DS Nº 255 (V. y U.) de 2006.
 
-> **Nota.** NOTA 2 El numeral 1.1 de la Resolución 623 Exenta, Vivienda, publicada el 12.04.2013, modifica la presente norma, en el sentido de fijar un plazo de 180 días corridos, para la postulación al llamado extraordinario de los Títulos I y II del DS Nº 255 (V. y U.) de 2006.
-
 Anótese, comuníquese, transcríbase y publíquese en un diario regional y en el Diario Oficial.- Enrique Matuschka Aycaguer, Secretario Regional Ministerial.
