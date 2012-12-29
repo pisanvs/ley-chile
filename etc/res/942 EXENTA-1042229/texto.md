@@ -60,23 +60,21 @@ De la integración
 
 #### Artículo 6º
 
-El Consejo estará integrado de manera pluralista, por los siguientes miembros:
+El Consejo estará integrado de preferencia, por los siguientes miembros:
 
-1. Un representante de la sociedad civil, designado por el Gerente de Desarrollo Empresarial de CORFO.
+a) Un representante de la Sociedad Civil.
 
-2. Un representante de la banca, designado por el Gerente Corporativo de CORFO.
+b) Un representante de las Universidades.
 
-3. Un representante de las universidades, designado por el Director Ejecutivo del Comité Innova Chile.
+c) Un representante de una asociación, corporación o cualquier otra entidad de la sociedad civil que apoye actividades empresariales o de desarrollo.
 
-4. Un representante de una asociación, corporación, fundación o cualquier otra entidad de la sociedad civil que apoye actividades empresariales o de desarrollo, designado por el Vicepresidente Ejecutivo de CORFO.
+d) Un representante del Vicepresidente Ejecutivo de CORFO.
 
-5. Un representante del Vicepresidente Ejecutivo de Corporación de Fomento de la Producción, designado por éste, a propuesta de la Gerencia Corporativa.
-
-Tales designaciones deberán indicar también a los suplentes respectivos. Los Consejeros suplentes reemplazarán a los titulares en caso de ausencia o impedimento de éstos, sin que sea necesario acreditar ante el Consejo o frente a terceros, la causa de dichas inhabilidades para la validez o eficacia de los acuerdos que se adopten.
+Tales designaciones, deberán indicar también a los suplentes respectivos. Los Consejeros suplentes reemplazarán a los titulares en caso de ausencia o impedimento temporal de éstos, sin que sea necesario acreditar ante el Consejo o frente a terceros, la causa o motivo de dichas inhabilidades para la validez o eficacia de los acuerdos que se adopten.
 
 #### Artículo 7º
 
-Sin perjuicio de lo anterior, el número de integrantes del Consejo podrá ampliarse por resolución fundada del Vicepresidente Ejecutivo.
+Sin perjuicio de lo anterior, la conformación de este Consejo podrá modificarse, ampliarse o reducirse, por resolución fundada del Vicepresidente Ejecutivo.
 
 #### Artículo 8º
 
