@@ -246,7 +246,7 @@ A partir de los estados en que cada unidad estuvo en operación e indisponible, 
 
 #### Artículo 26
 
-Además del control estadístico señalado en el artículo anterior, la DO deberá llevar un control estadístico de la disponibilidad de cualquier Insumo Principal suministrado desde redes o sistemas de transporte internacional como gasoductos o poliductos, para cada unidad generadora en forma independiente, en base al nivel diario de restricción.
+Además del control estadístico señalado en el artículo anterior, la DO deberá llevar un control estadístico de la disponibilidad de cualquier Insumo Principal utilizado por las unidades de generación térmica, para cada unidad generadora en forma independiente, en base al nivel diario de restricción.
 
 A partir de lo anterior, la DO establecerá el año de menor disponibilidad media anual a que se refiere el Artículo 29 y siguientes del presente reglamento, para cada unidad generadora en forma independiente.
 
@@ -266,7 +266,7 @@ En caso que un Insumo Principal de generación presente incertidumbre respecto d
 
 #### Artículo 29
 
-En caso que un Insumo Principal de generación sea suministrado desde redes o sistemas de transporte internacional como gasoductos o poliductos, la Potencia Inicial se determinará en base a la menor disponibilidad media anual observada, para los últimos 5 años anteriores al año de cálculo, para cada unidad generadora en forma independiente.
+En caso de unidades generadoras térmicas, la Potencia Inicial se determinará en base a la menor disponibilidad media anual observada para el Insumo Principal, para los últimos 5 años anteriores al año de cálculo, para cada unidad generadora en forma independiente.
 
 Para tal efecto, la DO deberá implementar un control estadístico de la disponibilidad de los insumos indicados en el inciso precedente, conforme a lo indicado en el Artículo 26 del presente reglamento.
 
@@ -286,7 +286,7 @@ A las unidades generadoras que estén afectas a la menor disponibilidad señalad
 
 #### Artículo 32
 
-Las unidades generadoras que se incorporen al sistema, y cuyo abastecimiento de su Insumo Principal se efectúa a través de redes de transporte internacionales como gasoductos o poliductos, serán representadas en el primer año de cálculo considerando una disponibilidad media anual para su Insumo Principal, igual al promedio de las disponibilidades medias anuales del Insumo Principal de las unidades existentes en el sistema, con características de abastecimiento similares a la unidad incorporada al sistema.
+Las unidades generadoras térmicas que se incorporen al sistema, serán representadas en el primer año de cálculo considerando una disponibilidad media anual para su Insumo Principal, igual al promedio de las disponibilidades medias anuales del Insumo Principal de las unidades existentes en el sistema, con características de abastecimiento similares a la unidad incorporada al sistema.
 
 Para los años siguientes, la disponibilidad media anual señalada se obtendrá reemplazando sucesivamente la información anual más antigua de las unidades existentes referidas, por la información de la disponibilidad media anual efectiva del Insumo Principal de la unidad generadora incorporada al sistema, manteniendo siempre un período de control de 5 años. A partir del quinto año de ingreso de una unidad generadora, se le aplicará lo indicado en el Artículo 29 de este reglamento.
 
@@ -294,7 +294,7 @@ El reconocimiento de la capacidad de respaldo de las unidades generadoras que se
 
 #### Artículo 33
 
-Aquellos insumos de generación que se transan en mercados internacionales y que tienen más de un origen, tales como los derivados del petróleo, carbón térmico, petcoke y gas natural licuado, deberán considerarse de amplia disponibilidad y que, por ende, no presentan incertidumbre respecto de su disponibilidad futura. En virtud de lo anterior, la Potencia Inicial de las unidades generadoras que utilicen alguno de los insumos antes indicados se considerará igual a su Potencia Máxima.
+DEROGADO.
 
 #### Artículo 34
 
@@ -340,7 +340,7 @@ A las unidades generadoras pertenecientes a centrales con capacidad de regulaci�
 
 #### Artículo 42
 
-Para determinar la Potencia Inicial de unidades generadoras que no poseen capacidad de regulación intra diaria, diaria o superior, determinada conforme a los artículos precedentes, pero que hacen uso de recursos hidroeléctricos de unidades generadoras con capacidad de regulación ubicadas aguas arriba, se les reconocerá capacidad de regulación en serie, por el porcentaje del caudal afluente equivalente que es aportado por las referidas centrales con capacidad de regulación.
+Para determinar la Potencia Inicial de unidades generadoras que hacen uso de recursos hidroeléctricos de unidades generadoras con capacidad de regulación ubicadas aguas arriba, se les reconocerá capacidad de regulación en serie, por el porcentaje del caudal afluente que es aportado por las referidas centrales con capacidad de regulación.
 
 #### Artículo 43
 
@@ -362,7 +362,7 @@ Si como resultado de la prorrata indicada en el artículo precedente, la Potenci
 
 #### Artículo 47
 
-A las unidades generadoras que se encuentren en serie hidráulica se les aplicarán los mismos procedimientos indicados en los artículos precedentes, correspondiéndoles como caudal regulado la Potencia Inicial de la unidad generadora respectiva que se encuentra aguas arriba, convertida a caudal afluente equivalente promedio anual.
+A las unidades generadoras que se encuentren en serie hidráulica se les aplicarán los mismos procedimientos indicados en los artículos precedentes, considerándoseles para la construcción de su caudal afluente, el aporte de los caudales efluentes de las unidades generadoras respectivas que se encuentren aguas arriba.
 
 #### Artículo 48
 
@@ -470,9 +470,9 @@ Cada DO deberá llevar un registro de la potencia promedio horaria de cada uno d
 
 #### Artículo 65
 
-A partir de la Demanda de Punta del sistema o subsistema, y para cada una de las horas que determinan la señalada Demanda de Punta, se deberá determinar el Retiro de Potencia que se debe asignar a cada generador.
+A partir del registro estipulado en el artículo precedente, el Retiro de Potencia que se debe asignar horariamente a cada generador será igual a la Demanda de Punta Equivalente de cada Cliente multiplicada por un factor único que iguale la suma de las Demandas de Punta Equivalentes de todos los clientes, a la Demanda de Punta a que hace referencia el artículo 13, letra b) para el sistema o subsistema, según corresponda.
 
-Dicho Retiro de Potencia será determinado como el promedio de la demanda de potencia horaria consumida durante las horas que determinan la Demanda de Punta del sistema o subsistema, según corresponda.
+Para estos efectos, la Demanda de Punta Equivalente de cada Cliente corresponderá al promedio de los 52 registros físicos máximos observados durante el período de control de punta que se establezca en el Decreto que fija los Precios de Nudo de Corto Plazo de acuerdo a lo establecido en el artículo 171º de la ley y se encuentre vigente a la fecha de realización del cálculo preliminar al que hace referencia el artículo 4º.
 
 CAPITULO 2: BALANCE FISICO DE INYECCIONES Y RETIROS
 
