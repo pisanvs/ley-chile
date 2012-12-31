@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Para los efectos de lo señalado en el artículo 37 letra B.- del Código Orgánico de Tribunales, el juzgado con asiento en la comuna de Chaitén, con jurisdicción sobre las comunas de Chaitén, Futaleufú y Palena, tendrá provisionalmente su asiento en la comuna de Futaleufú, durante el lapso que va desde la entrada en vigencia de esta ley al 31 de diciembre de 2014.
+Para los efectos de lo señalado en el artículo 37 letra B.- del Código Orgánico de Tribunales, el juzgado con asiento en la comuna de Chaitén, con jurisdicción sobre las comunas de Chaitén, Futaleufú y Palena, tendrá provisionalmente su asiento en la comuna de Futaleufú, durante el lapso que va desde la entrada en vigencia de esta ley al 31 de diciembre de 2012.
 
 Durante el plazo señalado en el inciso anterior, y para facilitar la aplicación expedita y oportuna de la justicia, el tribunal de Chaitén, con asiento en la comuna de Futaleufú, mediante su juez o su secretario se constituirá y funcionará, como mínimo, conforme la carga de trabajo lo requiera, una vez al mes en la localidad de Ayacara; y una vez por semana, en las comunas de Chaitén y Palena.
 
