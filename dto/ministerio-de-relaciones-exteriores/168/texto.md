@@ -62,7 +62,7 @@ a) Ser funcionario del Escalafón Directivo, Profesional y Técnico de la Direcc
 
 b) Contar con un año completo de servicios en la Dirección General o en alguno de los Servicios que de conformidad a su Ley Orgánica pasaron a formar parte de ella.
 
-No obstante lo anterior, respecto de los funcionarios que ingresen con posterioridad a la publicación del presente Reglamento, bastará que hayan permanecido seis meses en la Dirección General, siempre que se hubieren desempeñado por un período mínimo de un año en algún otro Servicio de la Administración del Estado;
+No obstante lo anterior, respecto de los funcionarios que ingresen con posterioridad a la publicación del presente reglamento, bastará que hayan permanecido un mes en el Ministerio de Relaciones Exteriores o en alguno de sus Servicios dependientes, siempre que además se hubieren desempeñado por un período mínimo de un año en algún organismo de la Administración del Estado.
 
 c) Sin perjuicio de lo señalado en las letras a) y b) precedentes, para ser designado jefe de una Oficina Comercial o en algún cargo de los Departamentos Económicos de las Misiones de Chile en el Exterior deberá además estar en posesión de un título profesional con estudios no inferiores a diez semestres académicos, otorgado por una Universidad del Estado o reconocida por éste, en alguno de los siguientes ámbitos: Ingeniería, Economía, Administración de Empresas, Ciencias Jurídicas y Sociales como, asimismo, haber obtenido previamente el grado Académico de Licenciado respectivo según lo prevé el Artículo 52º de la ley Nº18.962.
 
