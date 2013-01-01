@@ -170,6 +170,10 @@ k) Las demás que le confieren las leyes.
 
 > **Nota.** El artículo 122 de la LEY 18892, publicada el 23.12.1989, dispuso la derogación de las letras d) y g) de este artículo, a partir del 06.09.1991. El artículo 1° N° 151 de la LEY 19079, publicada el 06.09.1991 modificó el citado artículo 122 eliminando la referencia a estas letras.
 
+#### Artículo 17 bis
+
+La Subsecretaría, previo a proponer al Ministerio la dictación de normas legales y reglamentarias, así como las medidas de conservación y administración que sean establecidas por primera vez en una determinada pesquería, que incidan en la fiscalización, deberá solicitar un informe técnico al Servicio, el cual se pronunciará dentro del plazo de 10 días, respecto del alcance e impacto que la normativa propuesta implica para la fiscalización.
+
 #### Artículo 18°
 
 1. Corresponderá a la División de Administración Pesquera:
@@ -494,7 +498,9 @@ i) Administrar los establecimientos de cultivos que posea el servicio, pudiendo 
 
 j) Controlar la calidad sanitaria de los productos de importación que se destinen a usos alimenticios y medicinales de los recursos hidrobiológicos y certificar la conformidad de calidad de productos de exportación, de acuerdo con normas referidas a los mismos recursos, cuando ello sea una obligación establecida en instrumentos jurídicos suscritos entre el Estado de Chile o sus organismos y Estados u organismos estatales extranjeros. Podrá encomendar la labor de análisis a entidades públicas o privadas que cumplan con los requisitos que fije el reglamento, y
 
-k) Autorizar al Subdirector, Directores Regionales o a otros funcionarios para resolver sobre determinadas materias, o para hacer uso de algunas de sus atribuciones, bajo la fórmula "por orden del Director".
+k) Regular y administrar el sistema de servicios de certificación de desembarques y emitir los certificados que correspondan para los efectos de lo dispuesto en la letra b) del artículo 5° de la ley N° 19.983.
+
+l) Autorizar al Subdirector, Directores Regionales o a otros funcionarios para resolver sobre determinadas materias, o para hacer uso de algunas de sus atribuciones, bajo la fórmula "por orden del Director".
 
 > **Nota.** El artículo 41 de la LEY 18768, publicada el 29.12.1988, modificó este artículo. EL inciso final del artículo 122 del DTO 430, Economía, publicado el 21.01.1992, derogó el artículo 41 citado, en virtud de lo dispuesto en la letra b) del mismo artículo 122.
 
@@ -542,7 +548,9 @@ j) Coordinar programas de desarrollo de pesca deportiva.
 
 k) Representar al Servicio ante los organismos regionales, y ante los Tribunales de Justicia en las causas por infracciones y delitos a la normativa pesquera.
 
-l) Las demás funciones que le señalen las leyes y reglamentos.
+l) Recibir, dentro de la región respectiva, los fondos correspondientes al pago que efectúen los titulares y armadores a las entidades auditoras, por los servicios de certificación a los que se refiere la Ley General de Pesca y Acuicultura.
+
+m) Las demás funciones que le señalen las leyes y reglamentos.
 
 Cada Dirección Regional está a cargo de un Director Regional, y funcionará en cada una de las regiones establecidas en el Decreto Ley N° 575, de 1974.
 

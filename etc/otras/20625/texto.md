@@ -210,9 +210,11 @@ Introdúcense las siguientes enmiendas a la ley Nº 19.713:
 
 En el plazo máximo de dieciocho meses, contado desde la fecha de publicación de esta ley, deberá efectuarse un programa de investigación conforme a las disposiciones del artículo 7º A de la Ley General de Pesca y Acuicultura.
 
-En el plazo de dos años, contado desde la publicación de esta ley, se dictará el reglamento a que se refiere el artículo 64 E de la Ley General de Pesca y Acuicultura, el que considerará los resultados del programa de investigación mencionado en el artículo 7º A de dicho texto normativo.
+En el plazo de dos años, contado desde la publicación de esta ley, se dictará el reglamento a que se refiere el artículo 64 I de la Ley General de Pesca y Acuicultura, el que considerará los resultados del programa de investigación mencionado en el artículo 7º A de dicho texto normativo.
 
-Mientras no se dicte el reglamento a que alude el inciso anterior, quedarán suspendidas las obligaciones establecidas en los artículos 64 E y 64 F de la Ley General de Pesca y Acuicultura, así como la aplicación de las sanciones contenidas en el artículo 111 B del mencionado cuerpo legal.".
+Las obligaciones contenidas en los artículos 64 E y 64 F de la Ley General de Pesca y Acuicultura, que pasan a ser artículos 64 I y 64 J, serán exigibles para los armadores de embarcaciones artesanales de una eslora igual o superior a 15 metros, en el plazo de 3 años contado desde la publicación en el Diario Oficial del reglamento que regule tal actividad.
+
+Mientras no se dicte el reglamento a que alude el inciso anterior, quedarán suspendidas las obligaciones establecidas en los artículos 64 I y 64 J de la Ley General de Pesca y Acuicultura, así como la aplicación de las sanciones contenidas en el artículo 111 B del mencionado cuerpo legal.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
