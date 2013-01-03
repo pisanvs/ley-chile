@@ -20,19 +20,7 @@ Derógase, el artículo 2 del Decreto de Economía Nº 61 de 1991, que autorizó
 
 #### Artículo 2
 
-Asígnase, para uso privativo del Fiscal Nacional Económico, el vehículo que se señala:
-
-C/Vehículo Marca Motor P.Unica
-
-Modelo Año Chassis Color
-
-Automóvil Opel C18NZ NH 7995-2
-
-14439888
-
-Vectra 1.8 1995 WOLOOOO8 VerdeJungla
-
-ATGLE 7S5169763
+DEROGADO
 
 #### Artículo 3
 
