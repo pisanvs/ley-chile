@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.446, de 21 de diciembre de 2012, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 211123002, presentada por CONGELADOS PACÍFICO S.A., para instalar y operar un centro de cultivo ubicado en Paso Mackinlay, al suroeste de Punta Rosales, Isla Navarino, XII Región.
+
+Valparaíso, 21 de diciembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
