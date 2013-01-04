@@ -44,7 +44,7 @@ La presente Ordenanza del Plan Regulador Comunal de Carahue contiene disposicion
 
 #### Artículo 2
 
-La presente Ordenanza Local es de aplicación obligatoria en el área urbana delimitada por la línea poligonal que define el límite urbano y que se identifica mediante los puntos y tramos No. 1, 2, 3, 4, 5, 6, 7, 8, 9 y 1 que se describe en el Artículo 6 de la presente Ordenanza Local.
+La presente Ordenanza Local es de aplicación obligatoria en el área urbana delimitada por la línea poligonal que define el límite urbano y que se identifica mediante los puntos y tramos No. 1, 2, 2A, 2B, 8 y 9 que se describe en el Artículo 6 de la presente Ordenanza Local.
 
 #### Artículo 3
 
@@ -84,121 +84,7 @@ Damas con proyección al Norte
 
 del eje de calle Luis Cruz
 
-Martínez. 2-3 Proyección al norte
-
-del eje de calle
-
-Luis Cruz Martínez,
-
-entre los puntos 2
-
-y 3.
-
-3.- Intersección de la proyección
-
-al norte del eje de calle
-
-Luis Cruz Martínez con una
-
-paralela trazada 60 mts. al
-
-norte de calle San Martín. 3-4 Paralela trazada 60
-
-mts. al norte del
-
-eje de la calle San
-
-Martín, entre los
-
-puntos 3 y 4.
-
-4.- Intersección de una paralela
-
-trazada 60 mts. al norte de
-
-la calle San Martín con eje
-
-de fondo quebrada existente
-
-150 mts. al oriente del eje
-
-de calle Concepción. 4-5 Eje de fondo de
-
-quebrada, entre los
-
-puntos 4 y 5.
-
-5.- Intersección del eje de fondo
-
-de quebrada existente al
-
-norte de la ruta S-40 con una
-
-perpendicular al eje de dicha
-
-ruta, trazada 1.200 m. al
-
-Oriente del eje de Manuel
-
-Montt. 5-6 Línea recta
-
-imaginaria que
-
-une los puntos 5 y
-
-6.
-
-6.- Ubicado sobre la línea oficial
-
-del costado sur de la ruta
-
-S-40, a 1.200 m. del eje de
-
-Av. Manuel Montt. 6-7 Línea oficial
-
-costado sur
-
-oriente vía
-
-Intercomunal
-
-(propuesta), entre
-
-los puntos
-
-6 y 7; largo del
-
-tramo, 300 mts.
-
-7.- Intersección de la línea
-
-oficial del costado sur -
-
-oriente de la vía Intercomunal
-
-(propuesta), con la proyección
-
-al norte del eje de fondo de
-
-quebrada existente en el
-
-extremo sur - oriente de la
-
-ciudad 7-8 Eje de fondo de
-
-quebrada y
-
-sus proyecciones
-
-hacia el
-
-nort-poniente y sur
-
-respectivamente,
-
-entre los
-
-puntos 7 y 8.
+Martínez.
 
 8.- Intersección de una paralela
 
@@ -337,6 +223,8 @@ El Plan Regulador Comunal de Carahue comprende las siguientes áreas:
 - Areas de Extensión Urbana
 
 - Areas Especiales (áreas de restricción)
+
+- Áreas de riesgo, las que se grafican en el plano MPRC-02
 
 Los límites de estas áreas se grafican en el Plano PR-1.
 
@@ -566,13 +454,25 @@ Zona Z - 1 Zona ZR - 1
 
 Zona Z - 2 Zona ZR - 2
 
-Zona ZR - 3
+Zona Z - 3 Zona ZR - 3
 
-Zona ZR - 4
+Zona Z - 4 Zona ZR - 4
 
 Area de Extensión Zona ZR - 5
 
 Zona ZE - 1,
+
+Áreas de Riesgo
+
+Zona ZR-6: Zona propensa a avalancha, rodados y/o aluviones
+
+Zona ZR-7: Zona propensa a avalancha y aluviones
+
+Zona ZR-8: Zona propensa a avalanchas y rodados
+
+Zona ZR-9: Zona inundable o potencialmente inundable por ríos y esteros
+
+Zona ZR-10: Zona inundable o potencialmente inundable por quebradas
 
 #### Artículo 20
 
@@ -594,7 +494,7 @@ Sistema de agrupamiento: Aislado, pareado, continuo.
 
 Para los edificios de carácter industrial, se aplicará lo dispuesto en el artículo 110 de la Ordenanza General de Construcciones y Urbanización.
 
-Altura máxima de edificación: Para la edificación aislada y pareada se definirá por la aplicación de rasantes desde el nivel del terreno. Para la continuidad se establece una altura máxima de 14 metros; la profundidad del cuerpo continuo será de un 80% máximo. Por sobre la altura máxima, se permite la edificación aislada en este caso, la aplicación de las rasantes se hará a partir de la altura máxima de la edificación continua.
+Altura máxima de edificación: Para la edificación aislada y pareada se definirá por la aplicación de rasantes desde el nivel del terreno. Para la continuidad se establece una altura máxima de 7 metros; la profundidad del cuerpo continuo será de un 80% máximo. Por sobre la altura máxima, se permite la edificación aislada en este caso, la aplicación de las rasantes se hará a partir de la altura máxima de la edificación continua.
 
 Zona Z - 2
 
@@ -612,7 +512,7 @@ Sin perjuicio del porcentaje indicado, debe darse cumplimiento a las normas sobr
 
 Sistema de agrupamiento: Aislado, pareado, continuo.
 
-Altura máxima de edificación: Para la edificación aislada o pareada se definirá por la aplicación de rasantes desde el nivel del terreno. Para la continuidad se establece una altura máxima de 12 metros; no se permitirá la edificación aislada por sobre la continua; la profundidad del cuerpo continuo será 65% máximo; con respecto a predios de terceros deberán cumplirse las normas previstas para la edificación aislada
+Altura máxima de edificación: Para la edificación aislada o pareada se definirá por la aplicación de rasantes desde el nivel del terreno. Para la continuidad se establece una altura máxima de 7 metros; no se permitirá la edificación aislada por sobre la continua; la profundidad del cuerpo continuo será 65% máximo; con respecto a predios de terceros deberán cumplirse las normas previstas para la edificación aislada
 
 Zona ZE - 1
 
@@ -631,6 +531,10 @@ Sin perjuicio del porcentaje indicado, debe darse cumplimiento a las normas sobr
 Sistema de agrupamiento: Aislado, pareado, continuo.
 
 Altura máxima de edificación: Para la edificación aislada o pareada se definirá por la aplicación de rasantes desde el nivel del terreno. Para la continuidad se establece una altura máxima de 12 metros; no se permitirá la edificación aislada por sobre la continua; la profundidad del cuerpo continuo será 65Se máximo; con respecto a predios de terceros deberán cumplirse las normas previstas para la edificación aislada.
+
+Zona Z-3 Zona Residencial Mixta
+
+Zona Z-4 Zona Residencial Mixta
 
 Zona ZR - 1: De Protección de Alveos o cursos naturales de agua
 
@@ -665,6 +569,26 @@ Zona ZR - 5: De protección de los trazados ferroviarios.
 Corresponde a las franjas paralelas a ambos costados de la vía férrea, destinados a proteger el normal funcionamiento del servicio y evitar riesgos a la población, en conformidad a lo establecido en los artículos 34 y siguientes del Decreto Supremo No. 1.157 de 1931, del Ministerio de Fomento, publicado en el Diario Oficial del 16 de Septiembre de 1931 (Ley General de Ferrocarriles).
 
 Se establece un área de servicio de 10 metros de ancho a cada lado de la vía férrea, libre de toda construcción salvo la necesaria para atender los requerimientos de la vía tales como estación, andenes, garitas de vigilancia, vialidad, etc.
+
+Zona ZR-6 Zona propensa a avalanchas, rodados y/o aluviones
+
+Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los requisitos que establece la Ordenanza General de Urbanismo y Construcciones, serán las siguientes:
+
+Zona ZR-7 Zona propensa a avalanchas y aluviones
+
+Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los requisitos que establece la Ordenanza General de Urbanismo y Construcciones, serán las siguientes:
+
+Zona ZR-8 Zona propensa a avalanchas y rodados
+
+Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los requisitos que establece la Ordenanza General de Urbanismo y Construcciones, serán las siguientes:
+
+Zona ZR-9 Zona inundable o potencialmente inundable por ríos y esteros
+
+Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los requisitos que establece la Ordenanza General de Urbanismo y Construcciones, serán las siguientes:
+
+Zona ZR-10 Zona inundable o potencialmente inundable por quebradas
+
+Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los requisitos que establece la Ordenanza General de Urbanismo y Construcciones, serán las siguientes:
 
 ## Capítulo V
 
