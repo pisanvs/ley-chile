@@ -1,0 +1,927 @@
+ESTABLECE SANTUARIO DE LA NATURALEZA "CAMPO DUNAR DE LA PUNTA DE CONCÓN", DE LAS COMUNAS DE CONCÓN Y VIÑA DEL MAR, REGIÓN DE VALPARAÍSO
+
+Núm. 45.- Santiago, 26 de diciembre de 2012.- Vistos: Lo dispuesto en los artículos 19 Nº 8 y 32 Nº 6 de la Constitución Política de la República; en los artículos 70 letras b) e i), 71 letra c) y 73 inciso segundo, de la Ley 19.300, sobre Bases Generales del Medio Ambiente, y 31 de la Ley 17.288, sobre Monumentos Nacionales, todos ellos introducidos o modificados por la Ley 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente; el decreto supremo Nº 481, de 5 de agosto de 1993, del Ministerio de Educación, que declara Santuario de la Naturaleza dos sectores del Campo Dunar de la Punta de Concón, V Región de Valparaíso; el decreto supremo Nº 106, de 9 de marzo de 1994, del Ministerio de Educación, que modifica decreto supremo Nº 481, de 5 de agosto de 1993, de Educación, que declaró Santuario de la Naturaleza dos sectores del Campo Dunar de la Punta de Concón, V Región de Valparaíso; el decreto exento Nº 2.131, de 26 de diciembre de 2006, del Ministerio de Educación, que modifica el decreto exento de Educación Nº 106, de 1994, fijando nuevos límites del Santuario de la Naturaleza del Campo Dunar de la Punta de Concón, V Región de Valparaíso; la resolución exenta Nº 739, de 28 de marzo de 2007, de la Intendencia Regional de Valparaíso, que reconoce sitios de la Estrategia Regional de Biodiversidad, Región de Valparaíso; Oficio Ord. Nº 97, de 23 de enero de 2012, del Alcalde de la I. Municipalidad de Concón a la Ministra del Medio Ambiente, por el cual solicita ampliación del Santuario de la Naturaleza del Campo Dunar de Concón, Región de Valparaíso; y Oficio Ord. Nº 120727, de 15 de marzo de 2012, de la Ministra del Medio Ambiente al Alcalde de la I. Municipalidad de Concón, que responde al anterior; el Oficio Ord. Nº 980, de 19 de octubre de 2012 del Alcalde (S) de la I. Municipalidad de Concón a la Ministra del Medio Ambiente, al cual se adjunta solicitud de ampliación del Santuario de la Naturaleza del Campo Dunar de Concón, Región de Valparaíso; los Oficios Ord. N° 1.713, de 23 de abril de 2012 y Nº 5.227, de 18 de diciembre 2012, ambos del Secretario Ejecutivo del Consejo de Monumentos Nacionales a la Ministra del Medio Ambiente; el Oficio Ord. Nº 661, de 10 de diciembre de 2012, de la Seremi del Medio Ambiente de Valparaíso a la Ministra del Medio Ambiente; el Informe Técnico "Campo Dunar de la Punta de Concón" emitido por la Sección Áreas Protegidas de la División de Recursos Naturales, Residuos y Evaluación de Riesgo, del Ministerio del Medio Ambiente; y el Acuerdo N° 31, de 20 de diciembre de 2012, del Consejo de Ministros para la Sustentabilidad, que aprueba la propuesta de modificación y ampliación del Santuario de la Naturaleza "Campo Dunar de la Punta de Concón"; en la resolución N° 1.600, de 2008, de la Contraloría General de la República; y los demás antecedentes que constan en el expediente público.
+
+Considerando:
+
+1. Que, son santuarios de la naturaleza todos aquellos sitios terrestres o marinos que ofrezcan posibilidades especiales para estudios e investigaciones geológicas, paleontológicas, zoológicas, botánicas o de ecología, o que posean formaciones naturales, cuya conservación sea de interés para la ciencia o para el Estado;
+
+2. Que, por decreto supremo Nº 481, de 1993, del Ministerio de Educación, fue creado el Santuario de la Naturaleza del Campo Dunar de la Punta de Concón, cuyos deslindes fueron modificados con posterioridad por los decretos Nº 106, de 1994, y Nº 2.131, de 2006, del mismo Ministerio;
+
+3. Que, mediante resolución exenta Nº 739, de 2007, de la Intendencia Regional de Valparaíso, el Campo Dunar de Concón fue reconocido como sitio prioritario de primera prioridad para efectos de la Estrategia Regional de Biodiversidad de la Región de Valparaíso, aprobada en sesión Nº 12/2005 de la Comisión Regional del Medio Ambiente, celebrada con fecha 20 de junio de 2005;
+
+4. Que, con fecha 23 de enero de 2012, la I. Municipalidad de Concón presentó al Ministerio del Medio Ambiente la solicitud de ampliación del Santuario de la Naturaleza del Campo Dunar de la Punta de Concón, ante la cual el Ministerio del Medio Ambiente solicitó actualizar los antecedentes fundantes de la solicitud. Dicha actualización fue presentada por la I. Municipalidad con fecha 19 de octubre de 2012, por medio del informe técnico de la consultora Ecoestudios Ltda. Consultoría Medioambiental, la cual fue complementada mediante presentaciones de fechas 23 de noviembre y 14 de diciembre de 2012, de acuerdo con observaciones formuladas por el Ministerio del Medio Ambiente;
+
+5. Que, con la finalidad de complementar lo anterior, el Ministerio del Medio Ambiente solicitó un informe al Instituto de Ecología y Biodiversidad, a objeto de determinar la importancia de la diversidad biológica y el valor ecológico del ecosistema Campo Dunar Punta de Concón;
+
+6. Que, mediante acuerdo adoptado en la Sesión del Consejo de Monumentos Nacionales del 12 de diciembre de 2012, dicho Consejo se pronunció favorablemente a la propuesta de ampliación del Santuario de la Naturaleza "Campo Dunar de la Punta de Concón";
+
+7. Que, las áreas que se ha propuesto afectar adicionalmente como Santuario de la Naturaleza se encuentran ubicadas al interior de Sitio Prioritario para la Conservación de la Biodiversidad "Campo Dunar de Concón";
+
+8. Que, se reconoce por distintos informes técnicos la existencia en el área de un ecosistema extremadamente frágil, que cuenta con la mayor diversidad de flora y fauna del sistema dunar litoral de Chile, incluyendo especies de flora y fauna nativas y endémicas, algunas de ellas amenazadas, así como de comunidades vegetacionales que constituyen hábitat relevante para un conjunto de especies adicionales, que se relacionan entre sí, así como de patrimonio cultural relevante para la comunidad, todo ello sobre un sustrato de dunas pleistocénicas y holocénicas relictas que se encuentran actualmente estables, que además constituyen uno de los escasos remanentes de una biota altamente singular y característica de estos hábitat especiales; lo que sustenta el interés para la ciencia y para el Estado del área analizada;
+
+9. Que, la solicitud para la ampliación del Santuario de la Naturaleza "Campo Dunar de la Punta de Concón", presentada por la I. Municipalidad de Concón, contempla una propuesta de plan de manejo del área;
+
+10. Que, constan en el expediente respectivo, innumerables firmas de apoyo ciudadano expresando la voluntad de proteger el Santuario de la Naturaleza;
+
+11. Que, según los antecedentes tenidos a la vista, existen fundamentos suficientes para aprobar la propuesta de redelimitación y ampliación del Santuario de la Naturaleza del Campo Dunar de la Punta de Concón de acuerdo con el plano aportado por el Ministerio del Medio Ambiente que se adjunta al presente decreto; y
+
+12. Que, en sesión ordinaria de fecha 20 de diciembre de 2012, el Consejo de Ministros para la Sustentabilidad, acordó unánimemente proponer al Presidente de la República el establecimiento del Santuario de la Naturaleza denominado "Campo Dunar de la Punta de Concón", de acuerdo a la propuesta presentada por el Ministerio del Medio Ambiente.
+
+Decreto:
+
+#### Artículo 1º
+
+Derógase el Decreto Nº 481, de 5 de agosto de 1993, y sus modificaciones, introducidas por los decretos Nº 106, de 9 de marzo de 1994, y Nº 2.131 (exento), de 26 de diciembre de 2006, del Ministerio de Educación.
+
+#### Artículo 2°
+
+Establécese como Santuario de la Naturaleza el sitio denominado "Campo Dunar de la Punta de Concón", fijando su límite por un polígono cuyas coordenadas específicas, datum WGS84, proyección UTM, huso 19 sur, son las siguientes:
+
+Vértice Coordenada Coordenada
+
+Este Norte
+
+1 261.450,9177 6.352.625,3330
+
+2 261.442,1263 6.352.596,0010
+
+3 261.442,1619 6.352.593,8268
+
+4 261.441,7991 6.352.589,5713
+
+5 261.440,5683 6.352.582,1678
+
+6 261.438,9594 6.352.574,5231
+
+7 261.436,9825 6.352.567,0743
+
+8 261.435,2509 6.352.559,1329
+
+9 261.434,8682 6.352.556,5472
+
+10 261.434,7444 6.352.552,6985
+
+11 261.434,9122 6.352.550,0635
+
+12 261.435,4259 6.352.547,4116
+
+13 261.437,1576 6.352.542,5950
+
+14 261.437,9201 6.352.540,5362
+
+15 261.438,6025 6.352.531,7856
+
+16 261.438,8103 6.352.529,1326
+
+17 261.439,4611 6.352.525,4393
+
+18 261.440,0619 6.352.522,9198
+
+19 261.443,4218 6.352.515,1861
+
+20 261.443,9467 6.352.514,0367
+
+21 261.444,5528 6.352.511,7210
+
+22 261.445,2457 6.352.505,4096
+
+23 261.445,3913 6.352.501,9375
+
+24 261.445,3844 6.352.499,6768
+
+25 261.445,1928 6.352.497,3960
+
+26 261.444,1456 6.352.493,6630
+
+27 261.443,5793 6.352.491,7279
+
+28 261.442,1057 6.352.475,7987
+
+29 261.441,4413 6.352.469,3887
+
+30 261.440,8671 6.352.465,4476
+
+31 261.440,1595 6.352.462,3252
+
+32 261.438,9294 6.352.458,2516
+
+33 261.435,8027 6.352.450,7875
+
+34 261.441,7506 6.352.450,6867
+
+35 261.448,2803 6.352.450,2342
+
+36 261.454,6607 6.352.449,4804
+
+37 261.460,8229 6.352.448,4399
+
+38 261.466,5911 6.352.447,1502
+
+39 261.472,0258 6.352.445,6058
+
+40 261.477,0977 6.352.443,8151
+
+41 261.481,7897 6.352.441,7843
+
+42 261.486,0202 6.352.439,5588
+
+43 261.489,8620 6.352.437,1112
+
+44 261.493,3084 6.352.434,4457
+
+45 261.496,3549 6.352.431,5659
+
+46 261.498,9972 6.352.428,4762
+
+47 261.501,2338 6.352.425,1786
+
+48 261.503,0627 6.352.421,6761
+
+49 261.504,4826 6.352.417,9711
+
+50 261.504,7293 6.352.415,9171
+
+51 261.504,6461 6.352.414,0837
+
+52 261.504,1564 6.352.407,6687
+
+53 261.502,9552 6.352.401,3481
+
+54 261.501,0577 6.352.395,2006
+
+55 261.498,4873 6.352.389,3026
+
+56 261.495,2760 6.352.383,7276
+
+57 261.491,4639 6.352.378,5449
+
+58 261.487,0983 6.352.373,8191
+
+59 261.482,2335 6.352.369,6087
+
+60 261.474,1405 6.352.361,4117
+
+61 261.465,6208 6.352.353,6593
+
+62 261.456,6987 6.352.346,3734
+
+63 261.447,3998 6.352.339,5752
+
+64 261.437,7506 6.352.333,2839
+
+65 261.427,7789 6.352.327,5175
+
+66 261.426,8273 6.352.327,0333
+
+67 261.428,2030 6.352.323,3481
+
+68 261.428,9860 6.352.320,7516
+
+69 261.429,9489 6.352.315,5324
+
+70 261.431,5587 6.352.302,1886
+
+71 261.431,9504 6.352.299,3591
+
+72 261.432,1366 6.352.296,9284
+
+73 261.431,4680 6.352.285,4743
+
+74 261.431,2801 6.352.272,7050
+
+75 261.431,1857 6.352.267,0260
+
+76 261.431,0426 6.352.265,0914
+
+77 261.430,7785 6.352.263,3520
+
+78 261.428,7693 6.352.257,6730
+
+79 261.465,0412 6.352.258,2886
+
+80 261.501,3016 6.352.259,3914
+
+81 261.537,5439 6.352.260,9812
+
+82 261.573,7615 6.352.263,0577
+
+83 261.577,8419 6.352.263,8792
+
+84 261.582,9212 6.352.264,9018
+
+85 261.598,3661 6.352.268,1536
+
+86 261.614,6782 6.352.268,7467
+
+87 261.671,9619 6.352.273,0131
+
+88 261.698,5019 6.352.288,1157
+
+89 261.705,4430 6.352.291,1704
+
+90 261.716,1963 6.352.292,8749
+
+91 261.718,3777 6.352.294,3969
+
+92 261.720,2363 6.352.296,1131
+
+93 261.729,0400 6.352.303,9349
+
+94 261.729,0400 6.352.304,0407
+
+95 261.729,4922 6.352.304,8098
+
+96 261.730,0067 6.352.305,9448
+
+97 261.731,7494 6.352.309,5145
+
+98 261.733,4559 6.352.311,8739
+
+99 261.735,2491 6.352.313,9224
+
+100 261.735,3400 6.352.314,0305
+
+101 261.734,2967 6.352.315,6454
+
+102 261.733,0922 6.352.317,1440
+
+103 261.731,2639 6.352.318,9287
+
+104 261.729,2083 6.352.320,4460
+
+105 261.726,9642 6.352.321,6673
+
+106 261.724,5739 6.352.322,5696
+
+107 261.719,8924 6.352.322,8780
+
+108 261.715,3247 6.352.323,9494
+
+109 261.710,9943 6.352.325,7548
+
+110 261.707,2310 6.352.327,7919
+
+111 261.703,6665 6.352.330,1597
+
+112 261.700,3296 6.352.332,8388
+
+113 261.699,2743 6.352.335,9106
+
+114 261.698,4236 6.352.338,3866
+
+115 261.697,5703 6.352.342,5568
+
+116 261.697,2476 6.352.344,1337
+
+117 261.696,4413 6.352.349,4725
+
+118 261.695,1221 6.352.354,7081
+
+119 261.693,3023 6.352.359,7915
+
+120 261.690,9990 6.352.364,6749
+
+121 261.690,6627 6.352.365,2970
+
+122 261.691,2119 6.352.369,5382
+
+123 261.692,2316 6.352.373,3055
+
+124 261.693,7286 6.352.376,9097
+
+125 261.695,5181 6.352.380,0484
+
+126 261.697,6697 6.352.382,9508
+
+127 261.699,6495 6.352.385,0437
+
+128 261.700,1525 6.352.385,5755
+
+129 261.706,9988 6.352.392,4611
+
+130 261.714,1567 6.352.399,0223
+
+131 261.721,0969 6.352.404,8346
+
+132 261.721,5975 6.352.405,2693
+
+133 261.728,3255 6.352.411,1120
+
+134 261.733,2877 6.352.413,8987
+
+135 261.739,5379 6.352.417,9658
+
+136 261.746,1404 6.352.421,4318
+
+137 261.753,0376 6.352.424,2664
+
+138 261.756,1708 6.352.426,8611
+
+139 261.761,2949 6.352.431,5526
+
+140 261.761,3224 6.352.431,5778
+
+141 261.765,4554 6.352.435,3619
+
+142 261.768,0220 6.352.438,0058
+
+143 261.770,2544 6.352.440,7330
+
+144 261.771,0047 6.352.442,0220
+
+145 261.771,8473 6.352.444,1119
+
+146 261.777,4081 6.352.458,6250
+
+147 261.777,9693 6.352.461,1723
+
+148 261.778,1138 6.352.462,9463
+
+149 261.784,7235 6.352.463,3847
+
+150 261.791,4905 6.352.462,2133
+
+151 261.800,2616 6.352.461,5493
+
+152 261.807,8325 6.352.456,9776
+
+153 261.814,1721 6.352.457,4681
+
+154 261.819,3738 6.352.456,2190
+
+155 261.829,0381 6.352.455,2171
+
+156 261.833,8900 6.352.452,3590
+
+157 261.839,3094 6.352.448,3014
+
+158 261.841,2963 6.352.444,6331
+
+159 261.843,8841 6.352.442,2982
+
+160 261.847,3801 6.352.441,8284
+
+161 261.897,2371 6.352.439,4007
+
+162 261.897,1028 6.352.436,6427
+
+163 261.896,9756 6.352.434,0296
+
+164 261.896,1813 6.352.417,7182
+
+165 261.895,6262 6.352.406,3168
+
+166 261.895,6199 6.352.406,1890
+
+167 261.894,5737 6.352.384,7021
+
+168 261.894,5553 6.352.384,3240
+
+169 261.894,2507 6.352.378,0641
+
+170 261.894,1030 6.352.375,0287
+
+171 261.894,0958 6.352.374,8790
+
+172 261.892,9930 6.352.352,2394
+
+173 261.892,6962 6.352.346,1439
+
+174 261.890,7410 6.352.287,0150
+
+175 261.890,2020 6.352.270,7159
+
+176 261.890,1978 6.352.270,7168
+
+177 261.888,1636 6.352.209,1987
+
+178 261.887,6993 6.352.195,1650
+
+179 261.887,3644 6.352.136,0610
+
+180 261.888,3644 6.352.122,4811
+
+181 261.890,0070 6.352.111,8113
+
+182 261.890,5843 6.352.108,0610
+
+183 261.899,0743 6.352.073,9410
+
+184 261.909,2344 6.352.038,6211
+
+185 261.918,3744 6.352.005,1211
+
+186 261.918,3742 6.352.005,1510
+
+187 261.918,3823 6.352.005,1211
+
+188 261.930,3744 6.351.960,6211
+
+189 261.939,6208 6.351.928,3013
+
+190 261.939,6664 6.351.928,1417
+
+191 261.943,1342 6.351.916,0207
+
+192 261.943,3943 6.351.915,1111
+
+193 261.952,5666 6.351.881,9973
+
+194 261.960,7643 6.351.852,4011
+
+195 261.981,8644 6.351.779,4410
+
+196 261.984,8316 6.351.769,1366
+
+197 261.985,3148 6.351.767,4587
+
+198 261.985,4910 6.351.766,8464
+
+199 261.985,7654 6.351.765,8936
+
+200 261.985,2305 6.351.765,8576
+
+201 261.931,0805 6.351.762,2136
+
+202 261.910,2872 6.351.760,8144
+
+203 261.910,2264 6.351.760,8103
+
+204 261.830,1022 6.351.755,4184
+
+205 261.829,9890 6.351.755,4108
+
+206 261.806,9653 6.351.753,8614
+
+207 261.802,2235 6.351.753,5423
+
+208 261.800,0000 6.351.753,3927
+
+209 261.798,2939 6.351.753,2779
+
+210 261.792,3493 6.351.752,9033
+
+211 261.792,3445 6.351.752,9030
+
+212 261.789,7360 6.351.752,7386
+
+213 261.789,5979 6.351.752,7299
+
+214 261.750,2582 6.351.750,2507
+
+215 261.750,2486 6.351.750,2501
+
+216 261.737,0221 6.351.749,4165
+
+217 261.724,9104 6.351.748,6532
+
+218 261.711,2076 6.351.747,7897
+
+219 261.709,9239 6.351.749,9106
+
+220 261.708,1819 6.351.752,6629
+
+221 261.706,3112 6.351.755,1363
+
+222 261.701,2497 6.351.760,6996
+
+223 261.696,1739 6.351.766,2974
+
+224 261.691,8620 6.351.770,2469
+
+225 261.685,4522 6.351.776,5469
+
+226 261.664,8622 6.351.794,8869
+
+227 261.654,3122 6.351.804,5569
+
+228 261.653,6322 6.351.805,2169
+
+229 261.642,4122 6.351.815,7069
+
+230 261.637,7222 6.351.819,9869
+
+231 261.628,9322 6.351.826,2669
+
+232 261.620,8322 6.351.832,4969
+
+233 261.612,0622 6.351.839,0869
+
+234 261.603,6822 6.351.845,0369
+
+235 261.595,8922 6.351.852,1569
+
+236 261.588,8422 6.351.859,9869
+
+237 261.583,0222 6.351.867,1469
+
+238 261.573,0022 6.351.880,5569
+
+239 261.566,8522 6.351.888,6969
+
+240 261.566,5300 6.351.889,1053
+
+241 261.565,8422 6.351.889,9769
+
+242 261.560,6222 6.351.897,0969
+
+243 261.553,6922 6.351.905,7469
+
+244 261.547,0322 6.351.914,6569
+
+245 261.541,0022 6.351.923,6769
+
+246 261.536,7822 6.351.931,7369
+
+247 261.533,5222 6.351.939,5769
+
+248 261.530,4022 6.351.949,3269
+
+249 261.527,8622 6.351.961,8969
+
+250 261.524,6422 6.351.976,2669
+
+251 261.523,0422 6.351.988,0769
+
+252 261.520,5222 6.351.998,8869
+
+253 261.516,7322 6.352.010,7669
+
+254 261.513,4722 6.352.016,5969
+
+255 261.507,3522 6.352.025,1469
+
+256 261.500,1022 6.352.035,0469
+
+257 261.494,4822 6.352.041,5869
+
+258 261.487,8322 6.352.047,7369
+
+259 261.480,6122 6.352.052,9369
+
+260 261.476,3022 6.352.056,0569
+
+261 261.470,0422 6.352.060,2269
+
+262 261.464,7148 6.352.064,1244
+
+263 261.463,9322 6.352.064,6969
+
+264 261.458,0922 6.352.068,9169
+
+265 261.450,8422 6.352.073,4669
+
+266 261.445,7722 6.352.077,9469
+
+267 261.441,2522 6.352.082,5869
+
+268 261.435,3922 6.352.089,7669
+
+269 261.430,4722 6.352.098,6669
+
+270 261.427,2822 6.352.106,6269
+
+271 261.425,5722 6.352.116,8869
+
+272 261.424,2922 6.352.124,3869
+
+273 261.422,2522 6.352.132,3769
+
+274 261.420,8370 6.352.136,1284
+
+275 261.419,1022 6.352.140,7269
+
+276 261.415,4522 6.352.146,9069
+
+277 261.409,3622 6.352.154,4669
+
+278 261.402,8122 6.352.160,6569
+
+279 261.395,0322 6.352.166,9969
+
+280 261.386,7622 6.352.173,9169
+
+281 261.381,4722 6.352.179,9969
+
+282 261.373,9622 6.352.187,9769
+
+283 261.368,4822 6.352.193,7769
+
+284 261.363,7222 6.352.200,3769
+
+285 261.361,8244 6.352.203,5697
+
+286 261.358,1822 6.352.209,6969
+
+287 261.354,3922 6.352.216,1069
+
+288 261.349,8122 6.352.223,6969
+
+289 261.344,8022 6.352.232,1169
+
+290 261.341,7022 6.352.241,4369
+
+291 261.339,2822 6.352.252,3569
+
+292 261.337,8622 6.352.263,0269
+
+293 261.335,2022 6.352.279,1869
+
+294 261.333,8022 6.352.289,2469
+
+295 261.333,6807 6.352.296,9743
+
+296 261.333,6532 6.352.298,7247
+
+297 261.333,8122 6.352.305,8011
+
+298 261.335,8022 6.352.317,1911
+
+299 261.339,0622 6.352.326,7611
+
+300 261.343,5722 6.352.334,6411
+
+301 261.348,2083 6.352.343,6177
+
+302 261.348,5922 6.352.344,3611
+
+303 261.353,4822 6.352.357,1411
+
+304 261.355,8222 6.352.364,5611
+
+305 261.357,0022 6.352.370,6411
+
+306 261.358,3722 6.352.378,7511
+
+307 261.358,7922 6.352.388,4011
+
+308 261.358,7891 6.352.388,4348
+
+309 261.358,7922 6.352.388,5069
+
+310 261.358,0622 6.352.396,3569
+
+311 261.356,6924 6.352.409,7024
+
+312 261.358,5010 6.352.410,4460
+
+313 261.375,5058 6.352.417,4381
+
+314 261.405,6950 6.352.429,8513
+
+315 261.409,5706 6.352.431,4449
+
+316 261.409,5315 6.352.431,5346
+
+317 261.409,5706 6.352.431,5507
+
+318 261.402,4522 6.352.447,9054
+
+319 261.347,1858 6.352.423,4217
+
+320 261.333,0222 6.352.442,2969
+
+321 261.332,6891 6.352.442,9632
+
+322 261.328,5122 6.352.451,3169
+
+323 261.326,5523 6.352.460,5967
+
+324 261.326,5622 6.352.472,8611
+
+325 261.326,7022 6.352.481,0011
+
+326 261.327,4422 6.352.489,9711
+
+327 261.327,4414 6.352.490,0671
+
+328 261.327,4418 6.352.490,0769
+
+329 261.327,3827 6.352.497,1111
+
+330 261.327,3822 6.352.497,2169
+
+331 261.326,9024 6.352.502,4673
+
+332 261.326,6822 6.352.504,8769
+
+333 261.325,4522 6.352.511,7269
+
+334 261.323,8222 6.352.520,3869
+
+335 261.323,3737 6.352.522,6424
+
+336 261.322,8318 6.352.525,3671
+
+337 261.321,3622 6.352.532,7569
+
+338 261.320,4519 6.352.540,1969
+
+339 261.320,4126 6.352.546,1911
+
+340 261.320,7922 6.352.553,1311
+
+341 261.323,2422 6.352.559,8211
+
+342 261.325,5022 6.352.563,9811
+
+343 261.329,3022 6.352.568,8311
+
+344 261.333,1922 6.352.573,1511
+
+345 261.343,3522 6.352.580,4111
+
+346 261.348,6022 6.352.583,8411
+
+347 261.353,5622 6.352.586,4311
+
+348 261.359,0522 6.352.591,3911
+
+349 261.364,4722 6.352.597,8111
+
+350 261.369,6760 6.352.608,7594
+
+351 261.394,6375 6.352.599,8955
+
+352 261.394,6450 6.352.599,8942
+
+353 261.405,5720 6.352.638,3517
+
+354 261.405,5437 6.352.638,3580
+
+355 261.405,5720 6.352.638,4576
+
+356 261.379,9500 6.352.644,0910
+
+357 261.379,7254 6.352.649,6273
+
+358 261.381,0522 6.352.660,3811
+
+359 261.381,8522 6.352.669,8911
+
+360 261.382,1422 6.352.679,1711
+
+361 261.384,2322 6.352.688,7511
+
+362 261.385,7422 6.352.697,9411
+
+363 261.389,1822 6.352.709,8011
+
+364 261.391,9922 6.352.716,1711
+
+365 261.394,6022 6.352.720,6711
+
+366 261.398,9522 6.352.729,0811
+
+367 261.400,0839 6.352.731,3194
+
+368 261.402,5722 6.352.736,2411
+
+369 261.406,0822 6.352.741,4911
+
+370 261.409,9322 6.352.746,6811
+
+371 261.414,1922 6.352.750,9911
+
+372 261.419,4022 6.352.755,0411
+
+373 261.424,3604 6.352.758,2586
+
+374 261.425,0422 6.352.758,7011
+
+375 261.432,2322 6.352.761,6911
+
+376 261.441,9822 6.352.764,6311
+
+377 261.449,4422 6.352.766,3911
+
+378 261.459,1122 6.352.769,0711
+
+379 261.466,3022 6.352.771,6511
+
+380 261.472,6422 6.352.774,0811
+
+381 261.479,2422 6.352.777,7711
+
+382 261.484,4322 6.352.780,5611
+
+383 261.489,6522 6.352.784,0811
+
+384 261.494,6922 6.352.788,1511
+
+385 261.499,2122 6.352.792,4011
+
+386 261.500,7395 6.352.794,4629
+
+387 261.500,7433 6.352.794,4680
+
+388 261.503,5630 6.352.790,9007
+
+389 261.506,5699 6.352.787,0966
+
+390 261.508,5896 6.352.784,5413
+
+391 261.510,5689 6.352.782,0372
+
+392 261.512,6502 6.352.779,4041
+
+393 261.514,4324 6.352.777,1494
+
+394 261.516,1646 6.352.774,9579
+
+395 261.517,9512 6.352.772,6976
+
+396 261.519,8651 6.352.770,2762
+
+397 261.521,8000 6.352.767,8283
+
+398 261.523,5227 6.352.765,6488
+
+399 261.524,4743 6.352.764,4449
+
+400 261.525,3287 6.352.763,3640
+
+401 261.527,2634 6.352.760,9163
+
+402 261.528,8749 6.352.758,8775
+
+403 261.529,2185 6.352.758,4428
+
+404 261.531,1893 6.352.755,9494
+
+405 261.533,0347 6.352.753,6148
+
+406 261.533,9074 6.352.752,5108
+
+407 261.542,1838 6.352.742,0399
+
+408 261.544,2368 6.352.739,4426
+
+409 261.543,2226 6.352.738,4260
+
+410 261.539,7303 6.352.735,2528
+
+411 261.536,4600 6.352.732,6566
+
+412 261.531,8641 6.352.729,4784
+
+413 261.513,1152 6.352.720,2007
+
+414 261.509,3024 6.352.718,2378
+
+415 261.504,8345 6.352.715,0045
+
+416 261.494,0249 6.352.709,6016
+
+417 261.491,1837 6.352.707,9954
+
+418 261.485,8876 6.352.704,2242
+
+419 261.481,5689 6.352.700,4214
+
+420 261.480,2364 6.352.699,3453
+
+421 261.475,4841 6.352.696,9028
+
+422 261.474,1367 6.352.696,0758
+
+423 261.473,4100 6.352.695,4473
+
+424 261.470,7630 6.352.691,2957
+
+425 261.469,3719 6.352.688,8970
+
+426 261.467,5858 6.352.684,4705
+
+427 261.467,3527 6.352.683,8927
+
+428 261.466,0471 6.352.680,6572
+
+429 261.465,3218 6.352.678,8595
+
+430 261.464,2096 6.352.676,0049
+
+431 261.463,6280 6.352.674,2105
+
+432 261.463,5604 6.352.673,5070
+
+433 261.458,8449 6.352.649,0139
+
+434 261.455,5675 6.352.638,9684
+
+435 261.454,3761 6.352.634,0182
+
+436 261.453,5960 6.352.631,4749
+
+437 261.451,8129 6.352.627,2100
+
+438 261.450,9177 6.352.625,3330
+
+#### Artículo 3º
+
+En el plazo de un año a contar desde la publicación del presente decreto en el Diario Oficial, el Ministerio del Medio Ambiente propondrá a la Ilustre Municipalidad de Concón y a los propietarios de los predios comprendidos dentro de los límites del Santuario de la Naturaleza que aquí se establece, las bases para el manejo de éste, en las cuales se deberán contener las acciones concretas para hacer efectiva la conservación del área, los responsables de su ejecución, así como la zona de amortiguación propuesta.
+
+Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.- Harald Beyer Burgos, Ministro de Educación.
+
+Lo que transcribo a Ud. para su conocimiento.- Rodrigo Benítez Ureta, Subsecretario del Medio Ambiente (S).
