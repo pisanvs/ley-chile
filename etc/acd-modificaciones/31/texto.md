@@ -28,7 +28,7 @@ Reglamento: Reglamento Interno del Fondo.
 
 Las cuotas de los Fondos señalados en la letra h) del artículo 45 de la Ley, que puedan ser adquiridas con los recursos de los Fondos de Pensiones, podrán aprobarse por la Comisión, previa solicitud de una AFP, en consideración a las características de su Reglamento, los antecedentes aportados en los informes de clasificación de riesgo de sus cuotas, las características del fondo y factores adicionales.
 
-Para ello una AFP deberá solicitar la aprobación de las cuotas del Fondo mediante carta enviada a la Comisión, y adjuntar dos informes de clasificación de riesgo de las mismas elaborados por las Clasificadoras. Adicionalmente, deberá adjuntar una carta de la Administradora, en la cual se comprometa con la Comisión a mantener en forma continua e interrumpida la clasificación de riesgo de las cuotas durante el período de vigencia del Fondo, y a enviar en forma permanente copia de todos los antecedentes proporcionados a las Clasificadoras, aportantes y Superintendencia de Valores y Seguros, así como los remitidos por esta última a la Administradora respecto a ella y a los Fondos cuyas cuotas se encuentran aprobadas.
+Para ello una AFP deberá solicitar la aprobación de las cuotas del Fondo mediante carta enviada a la Comisión, y adjuntar dos informes de clasificación de riesgo de las mismas elaborados por las Clasificadoras. Adicionalmente, deberá adjuntar una carta de la Administradora, en la cual se comprometa con la Comisión a mantener en forma continua e ininterrumpida la clasificación de riesgo de las cuotas durante el período de vigencia del Fondo, y a enviar en forma permanente copia de todos los antecedentes proporcionados a las Clasificadoras, aportantes y Superintendencia de Valores y Seguros, así como los remitidos por esta última a la Administradora respecto a ella y a los Fondos cuyas cuotas se encuentran aprobadas.
 
 Una vez aprobadas las cuotas del Fondo, su Administradora deberá proporcionar a la Comisión copia de los antecedentes señalados en el inciso precedente, en la misma fecha en que sean enviados a o recibidos por sus respectivos destinatarios. Al cumplirse un año desde la fecha de presentación a la Comisión de la solicitud de aprobación de las cuotas de un Fondo, y ser éstas aprobadas, la Administradora podrá reducir a una las clasificaciones de riesgo contratadas, debiendo enviar anualmente, o en la oportunidad que la Comisión así lo solicite, un informe actualizado de clasificación de riesgo de las cuotas.
 
@@ -36,7 +36,9 @@ Una vez aprobadas las cuotas del Fondo, su Administradora deberá proporcionar a
 
 #### Artículo 3
 
-El Reglamento debe establecer en forma clara y precisa los objetivos del Fondo. Asimismo, debe contemplar las políticas de inversión a través de las cuales alcanzará tales objetivos, las que deberán considerar la inversión de a lo menos el 70% de sus activos en instrumentos objeto de inversión. Sin embargo, el Reglamento podrá establecer las circunstancias excepcionales en las cuales no sea aplicable el límite antes indicado.
+El Reglamento deberá establecer en forma clara y precisa los objetivos del Fondo. Como política de inversión el Reglamento debe contemplar que al menos el 70% de sus activos estará invertido, sea directa o indirectamente, en instrumentos que son objeto de inversión. Para efectos de este Acuerdo, se entenderá por inversión indirecta a la inversión en los subyacentes finales del Fondo.
+
+En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento al límite mínimo antes indicado.
 
 #### Artículo 4
 
@@ -44,11 +46,19 @@ El Reglamento debe establecer que los pasivos más los gravámenes y prohibicion
 
 #### Artículo 5
 
-El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo y de un Fondo de Inversión no podrá exceder del 25% y 45% de sus activos, respectivamente, en instrumentos emitidos o garantizados por entidades pertenecientes a un mismo grupo empresarial. Sin embargo, el Reglamento podrá definir las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento al límite antes indicado.
+El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo, en una entidad o grupo empresarial y sus personas relacionadas, no podrá exceder del 25% de sus activos.
+
+Para el caso de un Fondo de Inversión, deberá establecer que la inversión máxima, medida en forma directa e indirecta, en una entidad, grupo empresarial y sus personas relacionadas, bienes raíces, conjunto o complejo inmobiliario u otra clasificación que la Comisión estime adecuada en consideración de las características del Fondo, no podrá exceder del 45% de sus activos.
+
+Sin perjuicio de lo anterior, en casos excepcionales y considerando las características del Fondo, la Comisión podrá aceptar que en el Reglamento se permita exceder este límite sólo cuando se trate de inversiones directas en sociedades controladas exclusivamente por el mismo Fondo, y que éstas a su vez cumplan con el mencionado límite de diversificación a nivel de sus activos subyacentes.
+
+Adicionalmente, para Fondos de Inversión y Fondos Mutuos dirigidos a inversionistas calificados, en el caso que se trate de inversiones en instrumentos emitidos o garantizados por el Estado de Chile o por un Estado extranjero hasta su total extinción, se podrá exceder el límite señalado en los incisos primero y segundo de este artículo, siempre que la clasificación de la deuda soberana de mayor riesgo asignada de este último, por al menos dos de las entidades clasificadoras internacionales reconocidas, sea igual o superior a Categoría BBB, para los instrumentos de largo plazo emitidos por el Estado extranjero o su banco central, considerando lo establecido en los artículos 2 y 3 del Acuerdo Nº 32 de esta Comisión.
+
+En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento al límite antes indicado.
 
 #### Artículo 6
 
-El Reglamento debe establecer, según corresponda, la forma como se administran, al menos los siguientes conflictos de interés:
+El Reglamento del Fondo deberá establecer, al menos, la forma como se administran los siguientes conflictos de interés, sea que se trate de inversiones directas o indirectas:
 
 1) Conflictos entre Fondos de una misma
 
@@ -96,7 +106,7 @@ En el evento que el Reglamento no contemple expresamente alguno de los aspectos 
 
 #### Artículo 7
 
-El Reglamento debe establecer con claridad la política de valoración de las inversiones.
+El Reglamento deberá establecer con claridad la política de valoración de las inversiones, sean directas o indirectas.
 
 2.- Informes de Clasificación de Riesgo
 
@@ -112,6 +122,10 @@ c. Los resguardos adoptados por el Fondo y la Administradora para proteger a los
 
 d. La idoneidad y experiencia de la administración y propiedad de la Administradora en los tipos específicos de negocios que lleva a cabo el Fondo, así como los recursos que dispone para este efecto.
 
+e. El cumplimiento de los requisitos establecidos en los artículos 3, 4 y 5 de este Acuerdo.
+
+f. La política y procedimientos de valoración de las inversiones establecidas por la Administradora, sea adecuada y cumpla con la normativa vigente, y que a través de ellas se refleje razonablemente el valor de las inversiones.
+
 3.- Características del Fondo
 
 #### Artículo 9
@@ -121,6 +135,12 @@ El Fondo deberá contar con un monto mínimo de activos por el equivalente a US$
 #### Artículo 10
 
 El Fondo deberá contar con, al menos, 5 aportantes no relacionados entre sí ni con la Administradora. El número de aportantes se determinará según el último informe disponible que el Fondo haya presentado a la Superintendencia de Valores y Seguros.
+
+#### Artículo 10 bis
+
+En caso de incumplimiento de los requerimientos señalados en los artículos 3, 4 y 5 de este Acuerdo, la Administradora deberá informar a esta Comisión en el momento en que tome conocimiento del hecho y comunicar la forma y plazo en que será subsanado.
+
+La Comisión, en atención a las características del Fondo y del incumplimiento, podrá desaprobar las cuotas del Fondo.
 
 4.- Factores Adicionales
 
@@ -136,17 +156,17 @@ Los factores adicionales se considerarán adversos cuando se cuente con antecede
 
 Las cuotas de un Fondo se aprobarán en consideración a que su Reglamento satisfaga los requisitos establecidos en el número 1, a la calidad y suficiencia de los antecedentes aportados por los informes de clasificación de riesgo, al cumplimiento de lo dispuesto en el número 3 y a que no existan factores adicionales que sean considerados adversos. En caso contrario las cuotas serán rechazadas o desaprobadas, según corresponda. Lo anterior, sin perjuicio de la facultad de la Comisión de solicitar a la Administradora una segunda o tercera clasificación de riesgo de las cuotas del Fondo, según corresponda, en forma previa a tomar un acuerdo definitivo respecto a ellas.
 
+6.- Obligación de Informar
+
+#### Artículo 13
+
+Una vez aprobadas las cuotas del fondo será responsabilidad de su Administradora informar, oportuna y adecuadamente, a la Comisión de cualquier cambio o modificación del Reglamento Interno y de cualquier incumplimiento de los requerimientos establecidos en los artículos 3, 4, 5, 9 y 10 de este Acuerdo.
+
 Disposiciones Transitorias
 
 #### Artículo 1
 
-Los Fondos cuyas cuotas se encuentran aprobadas por la Comisión, tendrán plazo hasta el 30 de abril de 2010 para ajustarse a este nuevo procedimiento de aprobación. En caso que transcurra este plazo y la Administradora no cumpla con las exigencias anteriormente señaladas, las cuotas serán desaprobadas.
-
-Para efectos de verificar el cumplimiento de los requisitos a que se refieren los números 1 y 3 del presente Acuerdo, se considerarán los estados financieros del Fondo presentados a la Superintendencia de Valores y Seguros con información al 30 de junio de 2010.
-
-#### Artículo 2
-
-Los Fondos cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación de este acuerdo y que requieran modificar su Reglamento, tendrán plazo hasta el 30 de abril de 2010 para realizar una Asamblea Extraordinaria de Aportantes o Reunión de Directorio, según corresponda, con el fin de ajustarse a los nuevos procedimientos de aprobación de cuotas establecidos mediante el presente Acuerdo.
+Los Fondos cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación de este Acuerdo y que requieran modificar su Reglamento, tendrán plazo hasta el 30 de abril de 2013 para realizar una Asamblea Extraordinaria de Aportantes o Reunión de Directorio, según corresponda, con el fin de ajustarse a los nuevos procedimientos de aprobación de cuotas establecidos mediante el presente Acuerdo.
 
 En caso que transcurra este plazo y el Fondo no cumpla con las exigencias anteriormente señaladas, las cuotas serán desaprobadas.
 
