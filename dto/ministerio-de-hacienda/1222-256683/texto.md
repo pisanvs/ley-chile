@@ -12,7 +12,7 @@ Autorízase al Ministro de Hacienda, al Embajador de Chile en Alemania o al Enca
 
 #### Artículo segundo
 
-El préstamo estará destinado al financiamiento del Componente de Inversiones del Proyecto "Manejo Sustentable de Residuos Sólidos X Región", orientado a la implementación de sistemas intercomunales de manejo de residuos sólidos en tres provincias de la Región de Los Lagos.
+El préstamo estará destinado al financiamiento del Proyecto "Manejo Sustentable de Residuos Sólidos X y XIV Regiones", orientado a la implementación de sistemas intercomunales de manejo de residuos sólidos en las Regiones de Los Lagos y de Los Ríos.
 
 El Organismo Ejecutor del Programa será la Subsecretaría de Desarrollo Regional y Admininistrativo (SUBDERE).
 
@@ -26,13 +26,13 @@ Tramo I: EUR 9.612.918,81 Tramo II: EUR 19.225.837,62 Plazo total:
 
 Tramo I: no menor a 40 años.
 
-Tramo II: no menor a 10 años.
+Tramo II: no menor a 14 años
 
 Período de gracia:
 
 Tramo I: no menor a 10 años.
 
-Tramo II: no menor a 5 años.
+Tramo II: no o menor a 9 años.
 
 Amortización:
 
