@@ -20,7 +20,7 @@ Institúyese, en el Ministerio de Educación, el Premio al Mérito Funcionario "
 
 <!-- parte:6457555 -->
 
-El Premio al Mérito Funcionario se otorgará anualmente, en la segunda semana del mes de diciembre y consistirá en un diploma firmado por el Ministro de Educación, el Subsecretario de Educación y el Presidente de la Asociación Nacional de Funcionarios del Ministerio de Educación.
+El Premio al Mérito Funcionario se otorgará anualmente, y consistirá en un diploma firmado por el Ministro de Educación, el Subsecretario de Educación y el Presidente de la Asociación Nacional de Funcionarios del Ministerio de Educación.
 
 #### Artículo tercero
 
@@ -32,7 +32,7 @@ El otorgamiento del presente Premio deberá anotarse en la Hoja de Vida del resp
 
 <!-- parte:6457557 -->
 
-La postulación al presente Premio podrá presentarla cualquier persona de las señaladas en el artículo primero o institución vinculada a la Educación o a la Cultura entre los meses de septiembre y octubre de cada año.
+La postulación al presente Premio podrá presentarla cualquier persona de las señaladas en el artículo primero o institución vinculada a la Educación o a la Cultura, en los plazos establecidos en la convocatoria respectiva.
 
 #### Artículo quinto
 
