@@ -80,6 +80,8 @@ El proceso de Cuenta Pública Participativa, en cualquiera de las modalidades en
 
 Una vez presentada la cuenta ministerial anual, los Secretarios Regionales Ministeriales de Agricultura, deberán rendir Cuenta Pública Participativa Regional, para lo cual contarán con la participación y colaboración de los Directores de Servicios regionales sectoriales.
 
+A su vez, los Servicios dependientes del Ministerio de Agricultura podrán voluntariamente, realizar su propia cuenta pública, la que deberá realizarse necesariamente con posterioridad a la cuenta pública del Ministro de Agricultura.
+
 #### Artículo 5°
 
 Un resumen de la Cuenta Pública Participativa Ministerial será publicado en el sitio electrónico del Ministerio con anterioridad a la fecha en que se realice la cuenta. Este documento estará a disposición de toda la ciudadanía.
