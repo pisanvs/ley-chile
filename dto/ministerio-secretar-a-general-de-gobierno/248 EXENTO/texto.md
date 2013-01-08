@@ -70,19 +70,19 @@ Justicia, Región de la Araucanía).
 
 y Previsión Social, Región de la Araucanía).
 
-e) Región de Los Ríos:
+e) Región de Los Ríos
 
-### 1. Cristhian Cancino Gunckel (Seremi de Bienes
+1.- Iñaki Larraza Alberdi (Seremi de Transportes y
 
-Nacionales, Región de Los Ríos).
+Telecomunicaciones, Región de Los Ríos).
 
-### 2. Juan Enrique Hoffmann Flandes (Seremi de
+2.- Jorge Méndez Álvarez (Seremi de Trabajo y
 
-Agricultura, Región de Los Ríos).
+Previsión Social, Región de Los Ríos).
 
-### 3. Jorge Méndez Álvarez (Seremi del Trabajo,
+3.- Alejandro Paredes Zieballe (Seremi de
 
-Región de Los Ríos).
+Justicia, Región de Los Ríos).
 
 f) Región de Magallanes y Antártica Chilena
 
