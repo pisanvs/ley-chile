@@ -10,9 +10,15 @@ Normas Generales
 
 #### Artículo 1º
 
-- Autorízase a las municipalidades del país para otorgar prestaciones de bienestar a los funcionarios de planta y a contrata, al personal afecto a la ley Nº15.076, y a los regidos por el Código del Trabajo, por la ley Nº19.070 o por la ley Nº19.378, con desempeño permanente en la unidad municipal de servicios de salud, educación y demás incorporados a la gestión municipal, y a aquello que hayan jubilado en dichas calidades, con el objeto de propender al mejoramiento de las condiciones de vida del personal y sus cargas familiares y al desarrollo y perfeccionamiento social, económico y humano del mismo.
+- Autorízase a las municipalidades del país para otorgar prestaciones de bienestar a los funcionarios de planta y a contrata, al personal afecto a la ley Nº15.076, y a los regidos por el Código del Trabajo, por la ley Nº19.070 con desempeño permanente en la unidad municipal de servicios de educación, al personal regido por la ley Nº 19.378 y demás incorporados a la gestión municipal, y a aquello que hayan jubilado en dichas calidades, con el objeto de propender al mejoramiento de las condiciones de vida del personal y sus cargas familiares y al desarrollo y perfeccionamiento social, económico y humano del mismo.
 
-El personal que se desempeña en los establecimientos municipales de los servicios traspasados de salud y educación no estará afecto al sistema que crea la presente ley.
+El personal que se desempeña en los establecimientos municipales de los servicios traspasados de educación no estará afecto al sistema que crea la presente ley.
+
+Asimismo, cada entidad administradora regida por la ley Nº 19.378, podrá constituir un sistema propio de prestaciones de bienestar para los trabajadores que pertenecen a dicha entidad, dictándose al efecto su propio reglamento conforme al artículo 2º, y aplicándose en todo lo demás las normas de este cuerpo legal, salvo que se indique lo contrario.
+
+De constituirse sistemas de prestaciones de bienestar separados para una entidad administradora regida por la ley Nº 19.378, el aporte municipal deberá ser igual al que se otorga al sistema de prestaciones de bienestar vigente en la municipalidad respectiva; sin embargo, los beneficios que se contemplen en el reglamento deberán estar estrictamente ajustados a las disponibilidades presupuestarias de cada uno de los sistemas en forma independiente.
+
+Los servicios de bienestar constituidos conforme a esta ley podrán celebrar convenios entre sí, con la finalidad de otorgar determinados beneficios o actividades de bienestar social que, individualmente, no puedan proporcionar o resulten más onerosos; no obstante, no podrán traspasar entre ellos los aportes que efectúen tanto de los afiliados de cada sistema como de cada municipalidad.
 
 #### Artículo 2º
 
@@ -90,6 +96,8 @@ La administración general del servicio de bienestar corresponderá al Comité d
 
 La mitad de los integrantes de dicho Comité estará compuesta por representantes propuestos por el alcalde, con aprobación del concejo, y la otra mitad por representantes de la o las asociaciones de funcionarios existentes en el municipio. Si en el respectivo municipio hubiere más de una asociación de funcionarios, la representación de éstas en el comité, en la parte correspondiente, será proporcional al número de afiliados, conforme lo establezca el reglamento. De no existir asociación de funcionarios, los representantes del personal serán elegidos por la totalidad de los funcionarios adscritos al sistema de bienestar, en la forma que prescriba el mismo reglamento.
 
+En el caso de los servicios de bienestar constituidos separadamente por una entidad administradora regida por la ley Nº 19.378, los representantes propuestos por el alcalde deberán incorporar personal de dicha entidad. Respecto de la otra mitad de los integrantes del Comité, serán representantes de la o las asociaciones de funcionarios existentes en la entidad administradora o, en caso de no existir, serán elegidos por la totalidad de los funcionarios adscritos a dicho Servicio de Bienestar, conforme el inciso anterior y el reglamento.
+
 Los acuerdos que se adopten requerirán mayoría simple; en caso de empate, dirimirá el voto del presidente del Comité.
 
 Los integrantes del Comité en representación de los funcionarios durarán dos años en el cargo. No obstante, podrán ser removidos por decisión de la mayoría de los afiliados al sistema de bienestar.
@@ -100,7 +108,7 @@ El Comité de Bienestar, durante la última quincena del mes de septiembre, apro
 
 #### Artículo 11
 
-El jefe de la unidad de personal, o quien haga sus veces o quien el municipio determine, será el secretario del Comité de Bienestar y tendrá las siguientes funciones:
+El jefe de la unidad de personal, o quien haga sus veces o quien el municipio o la entidad administradora de atención primaria de salud, según corresponda, determine, será el secretario del Comité de Bienestar y tendrá las siguientes funciones:
 
 a) Ejecutar los acuerdos del Comité;
 
