@@ -1,6 +1,6 @@
 MODIFICA TARIFAS DE LA SOCIEDAD DE AUTORES NACIONALES DE TEATRO, CINE Y AUDIOVISUALES (ATN) POR ACUERDOS DE SU CONSEJO DIRECTIVO Nº 91/02, Nº 91/03 y Nº 91/04, EN SESIÓN DE 23 DE NOVIEMBRE DE 2012
 
-El Consejo Directivo de la Sociedad Chilena del Derecho de Autor acordó la siguiente modificación a las Tarifas Generales de la Sociedad, aprobadas en sesiones de fecha 28 de noviembre, 17 de diciembre de 2002 y 11 de marzo de 2003 y sus modificaciones posteriores:
+El Consejo Directivo de la Sociedad Chilena del Derecho de Autor de Teatro, Cine y Audiovisuales, acordó la siguiente modificación a las Tarifas Generales de la Sociedad, aprobadas en sesiones de fecha 28 de noviembre, 17 de diciembre de 2002 y 11 de marzo de 2003 y sus modificaciones posteriores:
 
 #### Artículo primero
 
