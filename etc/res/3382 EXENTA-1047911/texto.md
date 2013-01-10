@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.382, de 19 de diciembre de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 4.259 de 2009, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN, para efectuar una pesca de investigación, en el sentido de incluir en su numeral 4.-, el inciso tercero nuevo, señalado en la resolución extractada.
+
+Valparaíso, 19 de diciembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
