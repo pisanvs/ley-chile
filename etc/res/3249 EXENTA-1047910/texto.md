@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.249, de 11 de diciembre de 2012, de esta Subsecretaría, autorízase a PELANTARO BASILIO INOSTROZA CONCHA, para ampliar actividades pesqueras extractivas con la nave "Rodrigo Alejandro", en el área marítima correspondiente a la VIII Región, por fuera del área de reserva artesanal, con red de arrastre, donde podrá capturar los siguientes recursos hidrobiológicos: Bacaladillo o mote, Vinciguerria, Agujilla, Pampanito, Caballa, Cachurreta, Cojinoba del sur, Cojinoba moteada y Pejerrata.
+
+Valparaíso, 11 de diciembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
