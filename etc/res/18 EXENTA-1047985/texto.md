@@ -1,0 +1,3 @@
+Por resolución exenta N° 18, de 4 de enero de 2013, de esta Subsecretaría, recházanse las solicitudes números 210122002, 210106015 y 209121045, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS N° 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de enero de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
