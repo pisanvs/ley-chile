@@ -656,7 +656,7 @@ Los llamados a licitación serán públicos e internacionales y se efectuarán p
 
 a) Plazo para el llamado a licitación: a más tardar 30 días contados desde la publicación del presente decreto en el Diario Oficial.
 
-b) Plazo para la adjudicación: a más tardar 360 días contados desde el inicio del Proceso de Licitación.
+b) Plazo para la adjudicación: a más tardar 420 días contados desde el inicio del Proceso de Licitación.
 
 c) Plazo de inicio de las obras: a más tardar 30 días contados desde la publicación en el Diario Oficial del respectivo decreto de adjudicación que establece el artículo 97° de la ley.
 
