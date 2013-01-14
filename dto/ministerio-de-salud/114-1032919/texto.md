@@ -22,9 +22,9 @@ Decreto:
 
 Principios y disposiciones generales
 
-#### Artículo 1º
+#### Artículo 1°
 
-El presente Reglamento tiene como objeto establecer las normas que permitan complementar y desarrollar las disposiciones vigentes en la ley Nº 20.120, en materia de investigación científica biomédica en el ser humano, dentro del marco de la protección a su vida.
+El presente Reglamento tiene como objeto establecer las normas que permitan complementar y desarrollar las disposiciones vigentes en la ley N° 20.120 y las pertinentes de la ley N° 20.584, en materia de investigación científica biomédica en el ser humano y sus aplicaciones clínicas, dentro del marco de la protección a la vida, integridad física y psíquica del individuo y su diversidad e identidad genética.
 
 #### Artículo 2º
 
@@ -50,7 +50,7 @@ Se considera terapia génica en células somáticas, el proceso por el cual se i
 
 El cultivo de tejidos y órganos sólo procederá con fines diagnósticos, terapéuticos o de investigación científica, por parte de laboratorios clínicos o de salud pública autorizados en conformidad con el artículo 129 y el Título III del Libro Primero del Código Sanitario según corresponda; en ningún caso podrán destruirse embriones humanos para obtener las células troncales que den origen a dichos tejidos y órganos.
 
-Quienes conserven muestras o elementos biológicos con fines de investigación o tratamiento adoptarán las medidas necesarias para su seguridad y confidencialidad que sean suficientes para resguardar su correcto uso, debiendo destinarlos exclusivamente a los fines para los cuales fueron obtenidos.
+Quienes conserven muestras o elementos biológicos con fines de investigación, diagnóstico o tratamiento adoptarán las medidas necesarias para su seguridad y confidencialidad que sean suficientes para resguardar su correcto uso, debiendo destinarlos exclusivamente a los fines para los cuales fueron obtenidos.
 
 #### Artículo 7º
 
@@ -62,19 +62,21 @@ Corresponde al Instituto de Salud Pública autorizar el uso de medicamentos con 
 
 Para los efectos del presente Reglamento se entenderá por:
 
-a) Investigación científica biomédica en seres humanos: toda investigación realizada a través de la intervención o interacción con seres humanos, con el objetivo de mejorar la prevención, diagnóstico, tratamiento, manejo y rehabilitación de la salud de las personas o de incrementar el conocimiento biológico del ser humano. La investigación científica biomédica en seres humanos incluye el uso de material humano o de información disponible identificable;
+a) Investigación científica biomédica en seres humanos: toda investigación que implique una intervención física o psíquica o interacción con seres humanos, con el objetivo de mejorar la prevención, diagnóstico, tratamiento, manejo y rehabilitación de la salud de las personas o de incrementar el conocimiento biológico del ser humano. La investigación científica biomédica en seres humanos incluye el uso de material humano o de información disponible identificable;
 
 b) Patrocinador o promotor: individuo, institución, empresa u organización con domicilio y representante legal en Chile, que toma la iniciativa de realizar y de financiar una investigación biomédica en seres humanos y que asume las responsabilidades derivadas de la investigación establecidas por el ordenamiento jurídico vigente. Se entenderá, asimismo, como patrocinador a aquel individuo, institución, empresa u organización que sin financiar directamente la investigación biomédica de que se trate, ha realizado acciones concretas para conseguir el financiamiento;
+
+b.1) Organización de Investigación por Contrato (OIC; CRO): Persona natural o jurídica, comercial, académica o de otro tipo, contratada como intermediaria por el patrocinador, para realizar una o más de las labores y funciones del patrocinador relacionadas con el ensayo clínico.
 
 c) Investigador responsable: persona encargada de la conducción de una investigación biomédica en seres humanos en un sitio o establecimiento, y que asume las responsabilidades establecidas en este Reglamento, la ley Nº 20.120 y las demás señaladas por el ordenamiento jurídico vigente;
 
 d) Investigador principal: investigador escogido entre todos los investigadores responsables de un estudio multicéntrico para representar a éstos ante el Comité Ético Científico responsable;
 
-e) Establecimiento o sitio de investigación: lugar físico o espacio geográfico donde el investigador prevé contactar a los potenciales participantes de una investigación biomédica;
+e) Establecimiento o sitio de investigación: lugar físico o espacio geográfico donde el investigador prevé contactar a los potenciales participantes y/o donde se lleva a cabo la o las intervenciones que incluye.
 
 f) Director del establecimiento: persona que tiene a su cargo la administración superior, dirección, organización y el control del establecimiento donde se desarrolle la investigación;
 
-g) Investigación o estudio multicéntrico: investigación biomédica que involucra dos o más establecimientos o sitios de investigación.
+g) Investigación o estudio multicéntrico: investigación biomédica conducida de acuerdo a un mismo protocolo que involucra dos o más establecimientos o sitios de investigación.
 
 ## Título II
 
@@ -90,11 +92,17 @@ De la investigación
 
 #### Artículo 10
 
-Toda investigación científica a realizarse en el país deberá contar con la autorización expresa del o de los Directores de los establecimientos dentro de los cuales se efectúe, la que será evacuada dentro del plazo de 20 días hábiles, debiendo fundar su negativa en su caso, previo informe favorable del Comité Ético Científico ante el cual se presente y del Instituto de Salud Pública en los casos señalados en el artículo 102 inciso segundo del Código Sanitario.
+Toda investigación científica en seres humanos a realizarse en el país sólo podrá llevarse a cabo si cuenta con una revisión e informe favorable de un Comité Ético Científico acreditado por la Autoridad Sanitaria e independiente del equipo de investigación.
 
-Dicha autorización se entregará una vez acordados los términos en que se desarrollará la investigación por parte del patrocinador y su intermediario en su caso, y de los investigadores, responsable o principal que participen, según sea pertinente.
+En los casos de los estudios multicéntricos, la revisión científica y ética se realizará por un solo comité acreditado, debiendo ser complementada por una evaluación local relacionada con los investigadores e instituciones que participan en ese nivel para verificar la factibilidad del estudio en sus comunidades, incluyendo la infraestructura, el nivel de capacitación y las consideraciones éticas locales significativas.
 
-Todo evento adverso de carácter serio que se presente en el curso de la investigación, deberá ser informado por el investigador al Comité y al Director del establecimiento donde se lleva a cabo.
+#### Artículo 10 bis
+
+Toda investigación científica a realizarse en seres humanos deberá contar con la autorización expresa del o de los directores de los establecimientos dentro de los cuales se efectúe, la que será evacuada dentro del plazo de 20 días hábiles contados desde la evaluación conforme del Comité Ético Científico pertinente y del Instituto de Salud Pública en el caso del artículo 7°, inciso segundo; la negativa de esta autorización deberá ser fundada.
+
+Dicha autorización se hará efectiva una vez acordados los términos en que se desarrollará la investigación por parte del patrocinador y su intermediario en su caso, y de los investigadores, responsable o principal que participen, según sea pertinente.
+
+Todo evento adverso de carácter serio que se presente en el curso de la investigación, deberá ser informado con prontitud por el investigador responsable al Director del establecimiento donde se lleva a cabo la investigación y al Comité según corresponda.
 
 Párrafo Segundo
 
@@ -102,7 +110,7 @@ Del consentimiento libre e informado
 
 #### Artículo 11
 
-Toda investigación científica realizada con seres humanos deberá contar con el consentimiento previo, expreso, libre, informado y por escrito de la persona o, en su defecto, con el de aquel que deba suplir su voluntad en conformidad con la ley y en el caso de los niños menores de 18 y mayores de 12 se permitirá, en la medida de lo posible, su presencia al acto para conocer su opinión.
+Toda investigación científica realizada con seres humanos deberá contar con el consentimiento previo, expreso, libre, informado, personal y por escrito. En el caso de menores deberá velarse porque su participación en el estudio no vulnere sus derechos esenciales ni constituya un riesgo para su salud e integridad física y psíquica. La negativa del menor a participar o continuar en la investigación deberá ser respetada.
 
 El consentimiento deberá constar en un acta firmada por la persona que ha de consentir en la investigación, por el investigador responsable o principal, en su caso, y por el director del centro o establecimiento donde ella se llevará a cabo, quien, además, actuará como ministro de fe.
 
@@ -110,9 +118,9 @@ El director del centro o establecimiento podrá delegar la facultad de suscripci
 
 #### Artículo 12
 
-Se entiende por consentimiento informado la aquiescencia formalizada a través de un acta escrita, otorgada por la persona en quien se realizará la investigación o por su representante legal, en la cual se hace mención explícita al conocimiento que ésta tiene acerca de los aspectos esenciales de la investigación, en especial su finalidad, los beneficios y riesgos potenciales y los procedimientos o tratamientos alternativos.
+Se entiende por consentimiento informado la aquiescencia alcanzada a través de un proceso de comunicación y formalizada a través de un acta escrita, otorgada por la persona en quien se realizará la investigación o por su representante legal, en la cual se hace mención explícita al conocimiento que ésta tiene acerca de los aspectos esenciales de la investigación, en especial su finalidad, los beneficios y riesgos potenciales y los procedimientos o tratamientos alternativos.
 
-Cuando la investigación incluya el otorgamiento y prestaciones o acciones de salud a personas que padezcan enfermedades mentales, éstas podrán dar su consentimiento en la forma prevista en el decreto supremo Nº 570 de 1998, del Ministerio de Salud, que aprueba el Reglamento para la Internación de las Personas con Enfermedades Mentales y sobre los Establecimientos que la proporcionan.
+En relación a la investigación científica con sujetos con discapacidad psíquica o intelectual, se deberá tener en cuenta lo señalado en la ley N° 20.584 y su reglamentación pertinente, en cuanto corresponda.
 
 #### Artículo 13
 
@@ -134,7 +142,11 @@ De los Comités Ético Científicos (CEC)
 
 #### Artículo 16
 
-Los Comités Ético Científicos, en adelante los Comités, son entidades colegiadas, constituidas en instituciones públicas o privadas en conformidad a las normas establecidas en este Reglamento, que tienen por objeto esencial evaluar e informar los protocolos de las investigaciones científicas biomédicas que sean sometidas a su consideración. La autoridad superior de la entidad en la que se constituyen deberá velar por que sus integrantes tengan acceso a información científica y técnica de las materias relacionadas con ética e investigación biomédica y asegurar el apoyo de recursos necesarios para su debido funcionamiento, en términos de infraestructura e instalaciones que faciliten su trabajo, garanticen la confidencialidad de las materias tratadas así como proporcionar el personal de apoyo administrativo y logístico que ello conlleve de conformidad a la ley.
+Los Comités Ético Científicos, en adelante los Comités, son entidades colegiadas, constituidas en instituciones públicas o privadas en conformidad a las normas establecidas en este Reglamento, que tienen por responsabilidad esencial el proteger los derechos, la seguridad y el bienestar de los sujetos de investigación.
+
+Los Comités deberán ser acreditados por la Autoridad Sanitaria.
+
+Corresponde a la autoridad superior de la entidad en la que se constituyen velar por el acceso de sus integrantes a información científica y técnica de las materias relacionadas con ética e investigación biomédica y asegurar el apoyo de recursos necesarios para su debido funcionamiento, en términos de infraestructura e instalaciones que faciliten su trabajo, garanticen la confidencialidad de las materias tratadas así como de proporcionar el personal de apoyo administrativo y logístico que ello conlleve.
 
 #### Artículo 17
 
@@ -154,7 +166,7 @@ Funcionarán con arreglo al estatuto que internamente se apruebe, en el cual se 
 
 #### Artículo 18
 
-Serán atribuciones de los Comités Ético Científicos:
+Serán atribuciones de los Comités Ético Científicos acreditados:
 
 1) Evaluar los protocolos o proyectos de investigaciones científicas biomédicas que sean sometidas a su consideración.
 
@@ -163,6 +175,14 @@ Serán atribuciones de los Comités Ético Científicos:
 En el caso de que el informe sea favorable, su mérito será suficiente para que el estudio se pueda llevar a cabo en cualquier establecimiento, siempre y cuando cuente con la autorización del Director de éste, quien podrá denegar su realización en sus dependencias.
 
 En el caso de que la resolución del Comité sea desfavorable a la realización de la investigación o estudio, éste no podrá llevarse a cabo, a menos que sea reformulado para dar satisfacción a las objeciones planteadas.
+
+3) Observar el desarrollo de los protocolos en curso, con el fin de recomendar las modificaciones que pudieren ser necesarias para la protección de las personas que participan en la investigación.
+
+#### Artículo 18 bis
+
+El Comité deberá solicitar a cada uno de sus miembros una declaración de los intereses que pudieren afectar su participación con el fin de evitar conflictos de interés. En caso que algún miembro declare un conflicto de interés respecto al protocolo que será evaluado, deberá retirarse de su revisión.
+
+Asimismo, al momento que un investigador o grupo de investigadores presente a revisión a un Comité un proyecto de investigación deberá revelar ante el mismo, potenciales o aparentes conflictos de intereses.
 
 ## Título III
 
@@ -208,7 +228,7 @@ El Director del establecimiento es el responsable de dar cumplimiento a los acue
 
 #### Artículo 25
 
-Corresponderá al patrocinador, por sí o a través de su intermediario escoger investigadores idóneos con experiencia y calificación profesional acordes con el nivel de complejidad de la investigación y adoptar los resguardos que figuren en el protocolo de la investigación. En dicho protocolo deberán constar expresamente los resguardos necesarios para precaver, en términos plausibles, los eventos adversos que pudieren preverse o que sin ser previsibles causen daño a la persona.
+Corresponderá al patrocinador, por sí o a través de su intermediario escoger investigadores idóneos con experiencia y calificación profesional acordes con el nivel de complejidad de la investigación y adoptar los resguardos que figuren en el protocolo de la investigación. En dicho protocolo deberán constar expresamente los resguardos necesarios para precaver mediante los seguros y garantías que procedan, los eventos adversos que pudieren preverse o que sin ser previsibles causen daño a la persona.
 
 #### Artículo 26
 
