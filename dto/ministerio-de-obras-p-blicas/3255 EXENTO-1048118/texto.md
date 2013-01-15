@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº3255, de fecha 27 de diciembre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s. 1, 2 y 4-A, superficies 1.214, 964 y 843 m2., Rol Nº25-40, comuna de San Pedro, para la obra "REPOSICIÓN Y CONSTRUCCIÓN PUENTES EN SAN PEDRO – PIRQUE – LAMPA RM., VARIAS PROVINCIAS, REGIÓN METROPOLITANA – VADO MANZANITO DOS". La comisión de peritos, integrada por Néstor Abello Rodríguez, Douglas Herrera Flores y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 16 de septiembre de 2011, acordándose la indemnización con su propietario GERMÁN ANTONIO AYAR DÍAZ, en la cantidad de $12.025.365.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
