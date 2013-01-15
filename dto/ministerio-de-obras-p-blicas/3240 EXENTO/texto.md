@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3240 de 27 de diciembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº5, superficie 204 m2, rol de Avalúo Nº2235-6, comuna de Osorno, para la obra "REPOSICIÓN RUTA 215-CH, BIFURCACIÓN AEROPUERTO CARLOS HOTT- CRUCE LAS LUMAS, DESDE EL KM. 3,99292 A KM. 21,80000". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE Y JUAN CELESTINO GIOVANNINI MANSILLA, fijó el valor de tasación con fecha 8 de abril de 2011, acordándose la indemnización con su propietaria MARÍA SAFIRA ASCENCIO CORONA Y OTRA, en la cantidad de $979.128.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
