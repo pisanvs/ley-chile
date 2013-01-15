@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3239 de 27 de diciembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº3-A, superficie 58 m2, rol de Avalúo Nº1481-176, comuna de San Carlos, para la obra "REPOSICIÓN PTE. VERQUICO, RUTA N-200-M, SN. CARLOS – POCILLAS, SN. CARLOS", VIII Región. La Comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, VALESKA CAROLINA ALÉ GOÑI Y MARÍA ALEJANDRA GUTIÉRREZ FLORES, fijó el valor de tasación con fecha 6 de julio de 2012, acordándose la indemnización con su propietario don SERGIO DE JESÚS HARNÁNDEZ SANHUEZA, en la cantidad de $184.570.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
