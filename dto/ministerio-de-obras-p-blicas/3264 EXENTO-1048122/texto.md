@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº3264, de fecha 28 de diciembre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s. 30-M y 30-N, superficies 2.126 y 196 m2., Rol Nº925-63, comuna de Maipú, para la obra "CAMINO RUTA G-30, SECTOR CERRILLOS LONQUÉN". La comisión de peritos, integrada por Ramón Undurraga Montes, Juan Andrés Tepper Lavanderos y Victoria Adriana Blanco Costa, fijó el valor de tasación con fecha 21 de febrero de 2012, acordándose la indemnización con su propietario LABORATORIO BALLERINA LIMITADA, en la cantidad de $141.056.001.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
