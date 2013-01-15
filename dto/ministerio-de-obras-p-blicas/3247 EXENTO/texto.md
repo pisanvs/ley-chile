@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3247 de 27 de diciembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 94 y 97, superficies 74 y 577 m2, rol de Avalúo Nº178-45, comuna de Calbuco, para la obra "MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE – CRUCE RUTA V-85". La Comisión de peritos, integrada por NELSON BERNARDO TURRA TURRA, CHRISTIAN EMIL RAUCH YÁÑEZ Y NELSON FABIÁN IGOR FLORES, fijó el valor de tasación con fecha 5 de febrero de 2012, acordándose la indemnización con su propietario JUAN CARLOS MANCILLA BUSTAMANTE, en la cantidad de $1.370.409.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
