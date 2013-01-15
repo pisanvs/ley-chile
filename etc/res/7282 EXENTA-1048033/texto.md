@@ -1,0 +1,7 @@
+DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE INDICA Y ORDENA EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.282, de fecha 19 de diciembre de 2012, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 4327-22, correspondiente a parte del inmueble ubicado en La Hondonada 8313, La Hondonada, Rol de Avalúo Nº 4327-22, de la comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Henríquez Contreras Migue y Otro, con una superficie aproximada de 1.060,87 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto denominado "Plan de Intervención Urbano Habitacional Población Las Viñitas". La Comisión de Peritos integrada por Patricia Zavala Contreras, Constructor Civil; Victoria Blanco Costa, Arquitecto y Verónica Olivier Valdebenito, Arquitecto, mediante Informe de fecha 20 de noviembre de 2012, fijó la indemnización provisional por causa de la referida expropiación en la suma de $132.844.370, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora (S) Serviu Metropolitano.
