@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº3265, de fecha 28 de diciembre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº27-D, superficie 2.292 m2., Rol Nº915-26, comuna de Maipú, para la obra "CAMINO RUTA G-30, SECTOR CERRILLOS LONQUÉN". La comisión de peritos, integrada por Ramón Undurraga Montes, Juan Andrés Tepper Lavanderos y Victoria Adriana Blanco Costa, fijó el valor de tasación con fecha 25 de junio de 2012, acordándose la indemnización con su propietaria H.B. FULLER CHILE S.A., en la cantidad de $81.829.385.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
