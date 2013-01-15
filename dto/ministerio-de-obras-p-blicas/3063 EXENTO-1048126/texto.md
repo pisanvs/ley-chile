@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº3063, de 04 de diciembre de 2012, se modificó el Decreto Exento MOP. Nº1997, de 31 de agosto de 2012, que ordenó la expropiación del lote de terreno Nº55L6, en el sentido que se modificó el numeral 1°, en cuanto a que dicho lote se expropia para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A. y no para el Fisco como se indicó inicialmente.
+
+Fiscal del Ministerio de Obras Públicas.
