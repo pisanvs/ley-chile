@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3253 de 27 de diciembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 55 y 58, superficies 127 y 166 m2, rol de Avalúo Nº2237-50, comuna de Osorno, para la obra "CAMINO REPOSICIÓN RUTA 215-CH, SECTOR BIF. AEROPUERTO CARLOS HOTT – CRUCE LAS LUMAS, TRAMO KM. 3,99292 AL KM. 21,80000". La Comisión de peritos, integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, JUAN CELESTINO GIOVANNINI MANSILLA Y LEOPOLDO RAMÓN SCHUMACHER GUARDA, fijó el valor de tasación con fecha 15 de mayo de 2011, acordándose la indemnización con su propietaria CARMEN MARÍA GUARDA WILLER, en la cantidad de $997.818.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
