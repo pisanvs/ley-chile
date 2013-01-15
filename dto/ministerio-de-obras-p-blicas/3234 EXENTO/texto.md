@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3234, de 27 de diciembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 719 m2., Rol Nº326-35, Comuna de Mariquina, para la obra "CONSERVACIÓN PERIÓDICA PUENTE CALEL Y OCHOA, SECTOR PUENTE CALEL", Región de Los Ríos. La comisión de peritos integrada por Patricio Fernando Casagrande Ulloa, Norman Calderón Pontiggia y Soledad Nuñez Arroyo, fijó el valor de tasación con fecha 14 de septiembre de 2009, acordándose la indemnización con su propietario JOSÉ LUIS CARIMÁN CARIMÁN, en la cantidad de $830.969.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
