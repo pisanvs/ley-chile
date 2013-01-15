@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3248 de 27 de diciembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 4 y 5, superficies 1.441 y 592 m2, rol de Avalúo Nº2113-61, comuna de Puerto Montt, para la obra "MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE – CRUCE RUTA V-85". La Comisión de peritos, integrada por NELSON BERNARDO TURRA TURRA, CHRISTIAN EMIL RAUCH YÁÑEZ Y NELSON FABIÁN IGOR FLORES, fijó el valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietario CELEDONIO ALMONACID VIVAR, en la cantidad de $2.537.450.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
