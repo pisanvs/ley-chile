@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3241, de 27 de diciembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 26 y 28, superficies 1.146 y 22 m2., Rol Nº210-36, Comuna de Lebu, para la obra "MEJORAMIENTO RUTA P-40, SECTOR QUIAPO – MILLONHUE, PROV. DE ARAUCO", Región de Bío Bío. La comisión de peritos, integrada por Valeska Carolina Ale Goñi, Roxana Cecilia Abarzúa Gajardo y Adriana Katherina Fasce Casanueva, fijó el valor de tasación con fecha 09 de enero de 2012, acordándose la indemnización con su propietario JULIO CÉSAR CAAMAÑO GATICA, en la cantidad de $573.370.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
