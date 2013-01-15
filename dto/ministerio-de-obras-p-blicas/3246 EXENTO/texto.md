@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3246 de 27 de diciembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº23-A, superficie 224 m2, rol de Avalúo Nº158-43, comuna de Cochamó, para la obra "CAMINO PUELO PASO EL BOLSON, SECTOR LAGO TAGUA – TAGUA – LLANADA GRANDE, TRAMO KM. 12,530 AL KM. 32,500". La Comisión de peritos, integrada por JUAN CELESTINO GIOVANNINI MANSILLA, LEOPOLDO RAMÓN SCHUMACHER GUARDA Y ENRIQUE HOELCK ALTMANN, fijó el valor de tasación con fecha 8 de febrero de 2007, acordándose la indemnización con su propietario JOSÉ SELSO TELLEZ GUERRERO, en la cantidad de $377.761.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
