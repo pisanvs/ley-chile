@@ -1,0 +1,7 @@
+DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE INDICA Y ORDENA EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.594, de fecha 27 de diciembre de 2012, modificada por resolución exenta Nº 15, de fecha 7 de enero de 2013, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº 4551-02, correspondiente a el inmueble ubicado en G Velásquez Sublt N 9040 DP 205 PC 1 Vista Alegre, Rol de Avalúo Nº 4551-02, de la comuna de Lo Espejo, Región Metropolitana, de aparente dominio de Agroindustrial e Inmob Viscachas Lt, con una superficie aproximada de 21.433 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Erradicación de Campamentos, Lo Espejo 1, comuna de lo Espejo, Región Metropolitana". La Comisión de Peritos integrada por los señores Francisca Arenas Stone, arquitecto; Fernando Merino de la Cerda, arquitecto; y Víctor Araya Madariaga, ingeniero constructor, mediante Informe de fecha 4 de diciembre de 2012, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.544.350.600, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora (S) Serviu Metropolitano.
