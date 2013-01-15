@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº3238, de fecha 27 de diciembre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s. 3 y 3-A, superficies 694 y 95 m2., Rol Nº209-6, comuna de Alhue, para la obra "REPOSICIÓN PUENTE MACAL EN CAMINO EL ASIENTO, ROL G-682, ALHUE", Provincia de Melipilla, Región Metropolitana. La comisión de peritos, integrada por Néstor Abello Rodríguez, Norman Calderón Pontiggia y Douglas Herrera Flores, fijó el valor de tasación con fecha 16 de septiembre de 2011, acordándose la indemnización con sus propietarios PATRICIO ELEODORO PRIETO LIRA Y OTRO, en la cantidad de $1.389.778.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
