@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3257 de 27 de diciembre de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 1.000 m2, rol de Avalúo 211-5, comuna de Rengo, para la obra "AGUA POTABLE RURAL RINCONADA DE MALAMBO", IV Región. La Comisión de Peritos integrada por LORENA ELIZABETH GAJARDO ALARCÓN, PATRICIA VERÓNICA ZAVALA CONTRERAS Y LORETO HERNÁNDEZ RÍOS, fijó el valor de tasación con fecha 2 de julio de 2012, acordándose el valor de la indemnización con su propietaria, ISAURA MERCEDES ADRIANA NOGUEIRA PERAGALLO, en la cantidad de $5.994.940.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
