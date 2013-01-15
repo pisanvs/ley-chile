@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº3245, de fecha 27 de diciembre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº4-B, superficie 319 m2., Rol Nº25-259, comuna de San Pedro, para la obra "REPOSICIÓN Y CONSTRUCCIÓN PUENTES EN SAN PEDRO – PIRQUE – LAMPA RM., VARIAS PROVINCIAS, REGIÓN METROPOLITANA – VADO MANZANITO DOS". La comisión de peritos, integrada por Néstor Abello Rodríguez, Douglas Herrera Flores y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 16 de abril de 2011, acordándose la indemnización con su propietario JORGE DEL CARMEN MENESES FLORES, en la cantidad de $1.171.795.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
