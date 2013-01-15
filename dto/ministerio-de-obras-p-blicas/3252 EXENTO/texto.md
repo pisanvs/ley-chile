@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3252 de 27 de diciembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 1-B, 2 y 3, superficies 30, 326 y 445 m2, rol de Avalúo Nº135-58, comuna de Paine, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES VARIAS PROVINCIAS, REGIÓN METROPOLITANA, PUENTE CHADA". La Comisión de peritos, integrada por NESTOR ABELLO RODRÍGUEZ, DOUGLAS HERRERA FLORES Y MARCELA REDARD AYALA, fijó el valor de tasación con fechas 31 de agosto de 2011 y 8 de agosto de 2011, acordándose la indemnización con su propietario DELFÍN DEL TRÁNSITO AYALA SEPULVEDA, en la cantidad de $8.384.717.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
