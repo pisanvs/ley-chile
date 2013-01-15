@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº3233, de fecha 27 de diciembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropiaron los lotes de terreno N°s. 33 y 35, superficies 37 y 295 M2, rol Nº232-30, Comuna de Purén, para la obra "MEJORAMIENTO RUTA R-42, SECTOR PURÉN – LUMACO, KM. 1,80000 AL KM. 9,32000", Provincia de Malleco, IX Región. La Comisión de Peritos integrada por Enedina del Carmen Cid Ramírez, Paula Andrea Lagos Carrasco y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 16 de mayo de 2011, acordándose la indemnización con su propietario CLINALDO ALBERTO SEPÚLVEDA ROJAS, en la cantidad de $1.095.455.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
