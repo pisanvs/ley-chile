@@ -1,0 +1,3 @@
+En la edición N°40.435 de 15 de diciembre de 2012, se publicó extracto del Decreto MOP (Exento) N°2938 de 4 de diciembre de 2012, con error referido a la superficie a expropiar del lote de terreno N°3, dice: 27.977 m2, debiendo decir 271.977 m2, para la obra: DISEÑO DE OBRAS FLUVIALES RÍO ANDALIEN, ESTEROS NONGUÉN Y PALOMARES, Comuna de Penco, Provincia de Concepción, Región del Bio Bio.
+
+Fiscal del Ministerio de Obras Públicas.
