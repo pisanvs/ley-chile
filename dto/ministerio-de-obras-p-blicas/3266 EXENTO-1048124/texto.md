@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3266 de 28 de diciembre de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº7, superficie 6.200 m2, rol de Avalúo 372-172, comuna de Mariquina, para la obra "HABILITACIÓN SISTEMA PARA APROXIMACIONES DE PRECISIÓN ILS CATEGORÍA I EN EL AERÓDROMO PICHOY DE VALDIVIA", XIV Región. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, PATRICIO FERNANDO CASAGRANDE ULLOA Y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 30 de julio de 2012, acordándose el valor de la indemnización con su propietaria, SONIA JANETH ALVAREZ QUENA Y OTRAS, en la cantidad de $67.224.446.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
