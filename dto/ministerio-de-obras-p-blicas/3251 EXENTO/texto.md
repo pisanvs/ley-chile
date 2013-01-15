@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3251 de 27 de diciembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº89, superficie 501 m2, rol de Avalúo Nº178-6, comuna de Calbuco, para la obra "MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE – CRUCE RUTA V-85". La Comisión de peritos, integrada por NELSON BERNARDO TURRA TURRA, CHRISTIAN EMIL RAUCH YÁÑEZ Y NELSON FABIÁN IGOR FLORES, fijó el valor de tasación con fecha 5 de febrero de 2012, acordándose la indemnización con su propietario LUIS ALBERTO HERNÁNDEZ, en la cantidad de $1.037.009.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
