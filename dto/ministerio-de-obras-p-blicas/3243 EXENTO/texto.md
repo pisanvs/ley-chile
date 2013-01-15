@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3243, de 27 de diciembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 18 y 19, superficies 24 y 135 m2., Rol Nº210-43, Comuna de Lebu, para la obra "MEJORAMIENTO RUTA P-40, SECTOR QUIAPO – MILLON-HUE, PROV. DE ARAUCO", Región de Bío Bío. La comisión de peritos, integrada por Valeska Carolina Ale Goñi, Roxana Cecilia Abarzúa Gajardo y Adriana Katherina Fasce Casanueva, fijó el valor de tasación con fecha 09 de enero de 2012, acordándose la indemnización con su propietaria LORENA DE LOURDES VILLAGRA MOSQUEIRA, en la cantidad de $1.713.286.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
