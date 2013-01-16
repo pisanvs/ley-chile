@@ -1,0 +1,3 @@
+Por resolución exenta Nº 41, de 9 de enero de 2013, de esta Subsecretaría, rectifícanse las resoluciones exentas Nº 1.491 y Nº 2.601, ambas de 2012 y de esta Subsecretaría, que estableció la nómina definitiva de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refiere el artículo 3º de la ley Nº 20.560, en el sentido de modificar sus numerales 2, 8 y 12, de conformidad a lo indicado en resolución extractada.
+
+Valparaíso, 9 de enero de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
