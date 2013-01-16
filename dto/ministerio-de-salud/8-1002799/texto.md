@@ -172,6 +172,10 @@ De conformidad con lo dispuesto en el artículo primero transitorio de la ley 20
 
 Para el primer proceso de designación de la asociación administradora que tenga lugar, a que se refiere el artículo 3° de este reglamento, el Ministerio de Salud tendrá un plazo de diez días hábiles contados desde la fecha de publicación de este Reglamento.
 
+#### Artículo tercero
+
+En el examen tomado en el año 2012, para todos los fines previstos en el artículo 1º de la ley 20.261 durante el año 2013, se asignará a todos los médicos que lo rindieron, y aprobaron la sección práctica, un 51% en la sección teórica, cualquiera haya sido o fuere la calificación que haya resultado o resultare a su respecto por efecto de la aplicación de las normas permanentes de este reglamento.
+
 Anótese, tómese razón y publíquese.- EDMUNDO PÉREZ YOMA, Vicepresidente de la República.- Álvaro Erazo Latorre, Ministro de Salud.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cecilia Morales Veloso, Subsecretaria de Salud Pública Subrogante.
