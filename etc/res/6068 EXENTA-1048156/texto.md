@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 6.068 EXENTA, DE 2012
+
+Por resolución exenta N° 6.068, de fecha 11 de diciembre de 2012, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Escuela de Conductores Profesionales "Instituto Nacional de Conductores de Chile Limitada", cuyo nombre de fantasía es "Inacoch Ltda.", RUT Nº 77. 286.960-6, representada legalmente por el señor Santiago Martínez Perales, RUT Nº 3.989.439-4, y por el señor Ramón Martínez Perales, RUT Nº 4.756.994-K, para impartir el curso especial con simulador de inmersión total, conducente a la obtención de licencia de conductor profesional Clase A5, en San Pablo N° 1910, comuna de Santiago.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
