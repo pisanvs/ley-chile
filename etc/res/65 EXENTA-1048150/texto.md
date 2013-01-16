@@ -1,0 +1,3 @@
+Por resolución exenta Nº 65, de 10 de enero de 2013, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 439 de 2004, que autorizó a ALIMENTOS MARINOS S.A. para ampliar actividades pesqueras extractivas con la nave "Don Mauro", en el área marítima comprendida entre la V a VII y IX Regiones al paralelo 43º L.S., sobre el recurso hidrobiológico Jibia, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 10 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
