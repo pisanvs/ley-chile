@@ -22,8 +22,6 @@ D e c r e t o:
 
 5. Derógase el Rol G-155 y asígnase el Rol 73 al camino mencionado en el punto Nº4 precedente.
 
-> **Nota.** El numeral 1 del Decreto 143, Obras Públicas, publicado el 09.01.2023, modifica la presente norma en el sentido de indicar que el nombre del Camino San José - Lo Pinto, Rol Ruta 73, quedará identificado de la siguiente manera: - Ruta 73: Lo Pinto - San José.
-
 Anótese, tómese razón, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Juan Lobos Díaz, Subsecretario de Obras Públicas Subrogante.

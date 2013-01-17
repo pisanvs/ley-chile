@@ -10,7 +10,7 @@ Considerando: Las necesidades del Servicio referente a mantener actualizada la i
 
 Decreto:
 
-1.- Declárase Camino Nacional con carácter de Internacional el camino que une los sectores de Cerro Blanco (Ruta 5) y Casas de Chacabuco (Ruta 57-CH, Carretera San Martín).
+1.- DEROGADO.
 
 2.- Derógase el Rol G-13 al camino mencionado en el punto N° 1 precedente.
 
