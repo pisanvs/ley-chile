@@ -20,8 +20,6 @@ Resolución:
 
 3.- Los recursos asignados para la selección de los proyectos que postulen a los concursos a que se refiere el resuelvo 1 de esta resolución, corresponden a 862.500 UF, distribuidas por región de acuerdo al siguiente cuadro:
 
-.
-
 4.- Conforme a lo indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda una vez intervenida cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica definida en la resolución Nº 482 (V. y U.), de 1999. No obstante lo anterior se permitirá que postulen a este llamado viviendas que hayan obtenido su recepción definitiva con posterioridad al 5 de enero de 2007, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de esta norma y fueron recepcionadas con fecha posterior, o porque la Dirección de Obras Municipales mediante la aplicación de la ley Nº 20.251 hubiera regularizado el inmueble, no exigiéndole que cumpla con lo señalado en este artículo. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
 
 El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo). Solo se permitirá invertir un porcentaje menor del monto del subsidio al pago de los permisos y/o obras necesarias para la regularización de la vivienda. Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
@@ -54,19 +52,21 @@ ubicados en zonas térmicas más desfavorables:
 
 .
 
-b) Puntaje adicional por grado de cumplimiento de las
+b) Puntaje adicional por grado de cumplimiento de
 
-exigencias del artículo 4.1.10 de la Ordenanza
+las exigencias del artículo 4.1.10 de la
 
-General de Urbanismo y Construcciones, antes de la
+Ordenanza General de Urbanismo y
 
-intervención proyectada.
+Construcciones, antes de la intervención
+
+proyectada.
 
 .
 
-En caso que la vivienda no cumpla las exigencias en
+En caso que la vivienda no cumpla las exigencias
 
-más de un tipo de elemento se deben sumar los
+en más de un tipo de elemento se deben sumar los
 
 puntajes asignados a cada elemento a que no da
 
@@ -78,17 +78,19 @@ a) Puntaje adicional por diseño higrotérmico de la
 
 solución a incorporar en los elementos de muro y
 
-piso ventilado. Se otorgarán 30 puntos adicionales
+piso ventilado. Se otorgarán 30 puntos
 
-si la aislación térmica considerada es proyectada
+adicionales si la aislación térmica considerada
 
-por la cara exterior del elemento.
+es proyectada por la cara exterior del elemento.
 
-b) Puntaje adicional por mejoras al proyecto por sobre
+b) Puntaje adicional por mejoras al proyecto por
 
-lo establecido en el artículo 4.1.10 de la
+sobre lo establecido en el artículo 4.1.10
 
-Ordenanza General de Urbanismo y Construcciones:
+de la Ordenanza General de Urbanismo y
+
+Construcciones:
 
 .
 
@@ -96,11 +98,11 @@ En caso que la vivienda sea intervenida en más de
 
 un tipo de elemento por sobre las exigencias
 
-establecidas en la RT, se deben sumar los puntajes
+establecidas en la RT, se deben sumar los
 
-asignados a cada elemento, de acuerdo con la tabla
+puntajes asignados a cada elemento, de acuerdo
 
-anterior.
+con la tabla anterior.
 
 c) Ventanas: Priorización por cambio de ventana con
 
@@ -126,7 +128,9 @@ b).- Ventilación de la vivienda.
 
 c).- Calefacción.
 
-d).- Producción de vapor de agua al interior de la vivienda.
+d).- Producción de vapor de agua al interior
+
+de la vivienda.
 
 e).- Uso eficiente de la energía.
 
