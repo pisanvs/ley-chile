@@ -12,11 +12,7 @@ Que es necesario confirmar el rol de la Ruta 9.
 
 D e c r e t o:
 
-1.- Declárase Camino Nacional al camino público que se indica a continuación que forma parte de la Ruta 9, Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan, en su paso por ciudad de Punta Arenas, y que ocupa las siguientes vías:
-
-- La Avenida Presidente Carlos Ibáñez del Campo en toda su extensión, incluyendo la intersección con la Avenida Bulnes.
-
-- ELIMINADO
+1.- DEROGADO.
 
 2.- Confírmase el Rol Nº9 a la Ruta Paso Baguales-Puerto Natales-Punta Arenas-Fuerte Bulnes-San Juan.
 
