@@ -36,23 +36,23 @@ e) Coordinar su acción con la de otros organismos integrados por personas que t
 
 Administración
 
-#### Artículo 4°
+#### Artículo 4º
 
 El Bienestar será administrado por un Consejo Administrativo, que estará integrado por:
 
 a) El Director Ejecutivo de AGCI, personalmente o representado por la persona que él designe, quien lo presidirá;
 
-b) Un funcionario de AGCI designado por el Director Ejecutivo;
+b) Un profesional Abogado de planta o contrata de la Fiscalía de AGCI, designado por el Director Ejecutivo;
 
-c) Dos representantes de los afiliados, uno de los cuales será designado, cuando proceda, por la asociación de funcionarios que corresponda en virtud del inciso tercero del artículo 18 del Reglamento General.
+c) Dos representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios de AGCI, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero, del artículo 18º del Reglamento General de los Servicios de Bienestar.
 
-#### Artículo 5°
+#### Artículo 5º
 
-A los efectos de la elección de sus representantes, cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. Ello es sin perjuicio de lo señalado en la parte final de la letra c) del artículo precedente respecto de la atribución de la asociación de funcionarios para designar, en su caso, un representante titular y uno suplente.
+Para la elección de los representantes de los afiliados, los funcionarios votarán por una sola persona, de entre las que se hubieren inscrito en el mes anterior al de las elecciones, resultando electo en calidad titular la primera mayoría y en calidad de suplente la segunda.
 
-En el caso de los representantes elegidos por los afiliados, los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de las votaciones obtenidas.
+Cuando proceda, un representante titular y suplente de los afiliados será designado por la Asociación de Funcionarios de AGCI.
 
-Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán un año en sus funciones.
+El representante de los afiliados durará dos años en sus funciones o hasta que se resuelva la elección siguiente, pudiendo ser reelegidos por una vez.
 
 #### Artículo 6°
 
@@ -187,6 +187,10 @@ Cuando las posibilidades financieras y materiales del Bienestar lo permitan, el 
 5) Celebración de la Navidad, colaborando tanto en la organización de la propia celebración, cuanto en el financiamiento total o parcial de la misma y de los obsequios para los afiliados y los de sus hijos, cargas familiares, de hasta doce años.
 
 6) Entrega de un presente al afiliado con motivo de su cumpleaños.
+
+#### Artículo 11º bis
+
+El Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados y/o seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
 
 ## Título V
 
