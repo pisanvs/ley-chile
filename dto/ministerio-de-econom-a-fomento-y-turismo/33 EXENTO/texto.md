@@ -1,0 +1,5 @@
+Por decreto exento Nº 33, de 15 de enero de 2013, de este Ministerio, modifícase el artículo 1° del decreto exento Nº 1.967 de 2009, del Ministerio de Economía, Fomento y Reconstrucción, que estableció el Régimen Artesanal de Extracción en la X Región para el período 2010 - 2014, en las pesquerías de Anchoveta, Sardina común y Jurel, en el sentido de incorporar al listado de organizaciones sometidas a dicho Régimen a la ASOCIACIÓN GREMIAL DE ARMADORES Y PESCADORES CERQUEROS ARTESANALES DE ANCUD ASOGPESCA ANCUD A.G., Registro de Asociaciones Gremiales N° 4.266, y de la ASOCIACIÓN GREMIAL DE ARMADORES ARTESANALES ASOGFER A.G. Registro de Asociaciones Gremiales 310-10.
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 15 de enero de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
