@@ -1,0 +1,3 @@
+Por resolución exenta N° 106, de 14 de enero de 2013, de esta Subsecretaría, amplíase por doce meses, a contar del 31 de mayo de 2012, el plazo otorgado en el numeral 4° inciso 2° de la resolución exenta N° 1.334 de 2004, a CAMANCHACA PESCA CHILE S.A. para continuar desarrollando las actividades pesqueras extractivas con la nave "Yagan", en el área marítima comprendida entre la V a VII y IX a X Regiones, sobre Jibia en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 14 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
