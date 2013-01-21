@@ -62,7 +62,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de la Ar
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Los Lagos.
 
-12.- Tipo de Vehículo: Camioneta; Marca: Chevrolet; Modelo: Luv D-Max CC 4WD 3.0; Nº Motor 893695; Nº Chassis: MPATFS77HBT100039; Color: Blanco; Año: 2011; Placa Única: CWKS.39-3.
+12.- Tipo de Vehículo: Station Wagon; Marca: Suzuki; Modelo: Gran Nomade GLX Sport 4x4 2.4; N° Motor: J24B 1199993; N° de Chasis: JS3TD04V5D4101087; Color: Beige claro; año 2012, Placa única: DX VV 67-3.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Aysén del General Carlos Ibáñez del Campo.
 
