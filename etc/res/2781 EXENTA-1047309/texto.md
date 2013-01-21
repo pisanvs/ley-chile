@@ -14,6 +14,8 @@ Resuelvo:
 
 1º Fíjase el siguiente listado de países desde los cuales se podrán importar especies hidrobiológicas, ovas y/o gametos:
 
+.
+
 2º Sólo podrán importarse especies hidrobiológicas, ovas y/o gametos desde los países, zonas, compartimentos o centros de cultivo incorporados en el listado contenido en el numeral precedente.
 
 3º El presente listado se publicará en la página de dominio electrónico del Servicio (www.sernapesca.cl).
