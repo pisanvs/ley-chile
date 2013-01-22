@@ -40,14 +40,8 @@ c) Autorización de proyectos de sistemas de agua potable y alcantarillados part
 
 q) Autorización a predios agrícolas que cultiven hortalizas y frutas que crecen a ras de suelo para ser destinadas al consumo crudo en establecimientos de alimentos; y r) Autorización para traslado de cadáveres.
 
-3.- Delégase en don Mario Cornejo Ortega, RUT Nº8.964.708-8, la facultad de suscribir bajo la fórmula "Por Orden del Secretario Regional Ministerial de Salud de la Sexta Región", los documentos relativos a autorizaciones sanitarias, informes sanitarios y certificaciones, a llevarse a cabo en todas y cada una de las comunas que integran la provincia de Cardenal Caro, sobre las materias indicadas en todas las letras del numeral anterior, con la expresa exclusión de las atribuciones delegadas en las letras c),
+3.- Déjase establecido que en caso de ausencia o impedimento de los delegados éstos serán subrogados como a continuación se indica: Don Nelson Adrián Flores, RUN Nº 6.330.389-5, será subrogado en primer orden por doña Sandra Suárez, RUN Nº 6.262.509-0, en segundo orden, por don Víctor Peña Ahumada, RUN Nº 8.309.579-2 y, en tercer orden, por don Luis Yávar Riffo, RUN Nº 8.863.733-K.. Los subrogantes obrarán con todas y cada una de las facultades otorgadas a los delegados.
 
-- **o)** y
-
-- **q)** del mismo numeral ya indicado.
-
-4.- Déjase establecido que en caso de ausencia o impedimento de los delegados, éstos serán subrogados como a continuación se indica: don Nelson Adrián Flores, RUT Nº 6.330.389-5, será subrogado en primer orden por don Guillermo Carrasco Suazo, RUT Nº 8.253.029-0 y en segundo orden, por don Martín Moraga Yáñez, RUT Nº 6.689.158-5, Don Mario Cornejo será subrogado en primer orden por don Nelson Adrián Flores, RUT Nº 6.330.389-5 y en segundo orden por don Guillermo Carrasco Suazo, RUT Nº 8.253.029-0. Los subrogantes obrarán con todas y cada una de las facultades otorgadas a los delegados.
-
-5.- Déjase establecido que los documentos que suscriban los delegados y, en su caso, los subrogantes, en virtud de las atribuciones que se les confieren por la presente resolución, deberán llevar antes de sus firmas la glosa "Por Orden del Secretario Regional Ministerial de Salud, Sexta Región", y expresar, además, que se dictan en virtud de la presente resolución delegatoria, individualizándolo en su parte considerativa.
+4.- Déjase establecido que los documentos que suscriban los delegados y, en su caso, los subrogantes, en virtud de las atribuciones que se les confieren por la presente resolución, deberán llevar antes de sus firmas la glosa "Por Orden del Secretario Regional Ministerial de Salud, Sexta Región", y expresar, además, que se dictan en virtud de la presente resolución delegatoria, individualizándolo en su parte considerativa.
 
 Anótese, comuníquese y publíquese.- Genaro González Fierro, Secretario Regional Ministerial Salud Sexta Región.
