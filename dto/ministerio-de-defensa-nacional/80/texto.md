@@ -20,35 +20,33 @@ b) Velar porque en estas operaciones se dé cumplimiento a los compromisos inter
 
 c) Proponer al Ministro de Defensa Nacional o al Director General de Movilización Nacional, según Corresponda, una resolución fundada sobre cada solicitud de exportación, debiendo en ella tener presente los intereses de la política internacional del Supremo Gobierno.
 
-#### Artículo 2°
+#### Artículo 2º
 
 La Comisión estará integrada por:
 
-a) El Subsecretario de Guerra que la presidirá,
+a. El Subsecretario de Defensa, que la presidirá.
 
-b) El Subsecretario de Relaciones Exteriores,
+b. El Subsecretario para las Fuerzas Armadas.
 
-c) El Subsecretario de Marina,
+c. El Subsecretario de Relaciones Exteriores.
 
-d) El Subsecretario de Aviación,
+d. El Subjefe del Estado Mayor Conjunto.
 
-e) El Director General de Movilización Nacional,
+e. El Director General de Movilización Nacional.
 
-f) El Subjefe del Estado Mayor de la Defensa Nacional.
-
-Se desempeñará como Secretario de la Comisión, el Subjefe Militar de la Subsecretaría de Guerra.
+Se desempeñará como Secretario de la Comisión, un funcionario militar o civil que designe el Subsecretario de Defensa.
 
 #### Artículo 3°
 
 En el cumplimiento de su cometido la Comisión podrá requerir toda la información adicional que estime necesaria tanto a los solicitantes como a los organismos administrativos o técnicos que ella considere procedente.
 
-#### Artículo 4°
+#### Artículo 4º
 
-En caso de ausencia o impedimento temporal del Subsecretario de Guerra en su calidad de Presidente de la Comisión, que lo imposibilite para cumplir con las obligaciones de su cargo, será subrogado de conformidad al siguiente y sucesivo orden de precedencia:
+En caso de ausencia o impedimento temporal del Subsecretario de Defensa en su calidad de Presidente de la Comisión, que lo imposibilite para cumplir con las obligaciones de su cargo, será subrogado de conformidad al siguiente orden de precedencia:
 
-- Subsecretario de Marina.
+- Subsecretario para las Fuerzas Armadas.
 
-- Subsecretario de Aviación.
+- Subjefe del Estado Mayor Conjunto.
 
 #### Artículo 5°
 
