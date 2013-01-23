@@ -6,19 +6,13 @@ Considerando que la Empresa de los Ferrocarriles del Estado después de un proce
 
 Decreto:
 
-I) Modifícase el numeral 1) del decreto supremo (Hda.) Nº 1.745 de 2008, que autoriza a la Empresa de los Ferrocarriles del Estado para que contrate uno o más créditos externos y/o internos y otorga garantía del Estado, en los siguientes términos:
+I) DEROGADO.
 
-Donde Dice: US$88.500.000 (Ochenta y ocho millones quinientos mil dólares de los Estados Unidos de América).
-
-Debe Decir: US$108.500.000 (Ciento ocho millones quinientos mil dólares de los Estados Unidos de América).
-
-II) Reemplázase en el numeral 1) el texto "El objetivo del o los créditos es financiar el "Plan Trienal de Desarrollo 2008-2010", de la Empresa de los Ferrocarriles del Estado", por el siguiente:
-
-"El objetivo del o de los créditos es financiar el "Plan Trienal de Desarrollo 2008-2010", por un total de US$88.500.000 (Ochenta y ocho millones quinientos mil dólares de los Estados Unidos de América) y financiar déficits transitorios de caja por un total de US$20.000.000 (Veinte millones de dólares de los Estados Unidos de América) ambos de la Empresa de los Ferrocarriles del Estado.
+II) DEROGADO.
 
 III) Reemplázanse las letras a), b) y f) del numeral 2) del decreto supremo (Hda.) Nº 1.745 de 2008, que autoriza a la Empresa de los Ferrocarriles del Estado para que contrate uno o más créditos externos y/o internos y otorga garantía del Estado, por los siguientes:
 
-a) Monto: Hasta US$108.500.000 (Ciento ocho millones quinientos mil dólares de los Estados Unidos de América) o su equivalente en pesos o Unidades de Fomento.
+a) DEROGADO.
 
 b) Plazo Total del crédito: No menos de 5 años.
 
