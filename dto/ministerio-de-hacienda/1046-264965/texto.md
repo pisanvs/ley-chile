@@ -6,39 +6,55 @@ Decreto:
 
 1. Otórgase la Garantía del Estado a la operación u operaciones de créditos externos y/o internos que contrate la "Empresa de los Ferrocarriles del Estado" con uno o más bancos nacionales y/o internacionales hasta por la suma de US$160.000.000.- (Ciento sesenta millones de dólares de los Estados Unidos de América), o su equivalente en pesos o Unidades de Fomento, más los reajustes, intereses, comisiones y demás gastos que correspondan. La presente garantía se otorga de acuerdo a la autorización a la "Empresa de los Ferrocarriles del Estado", para que con motivo de reestructurar sus pasivos y financiar sus necesidades de capital de trabajo, contrate uno o más créditos externos y/o internos, entregada mediante decreto exento Nº653, de 2008, de los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción, según lo establecido en el artículo 11º de la ley Nº18.196, en el artículo 15º de la ley Nº18.382, en el artículo 44 del D.L. Nº1.263, de 1975, en la ley Nº19.847, y en el artículo 6º de la ley Nº 19.993, y teniendo presente el Convenio de Programación Nº4, de 2002, y sus modificaciones, celebrado entre la "Empresa de los Ferrocarriles del Estado" y el "Comité Sistema de Empresas de la Corporación de Fomento de la Producción".
 
-2. Las condiciones financieras de los créditos serán las siguientes: a) Monto : Hasta US$ 370.000.000 (Trescientos
+### 2. Las condiciones financieras de los créditos serán las siguientes:
 
-setenta millones de dólares de los
+a) Monto : Hasta US$370.000.000 (Trescientos
 
-Estados Unidos de América),
+setenta millones de dólares de
 
-dividido en dos tramos:
+los Estados Unidos de América),
 
-(i) Tramo uno, corresponde hasta
+dividido en dos o más tramos,
 
-US$34.000.000 (Treinta y cuatro
+cada uno de los cuales podrá
 
-millones de dólares de los Estados
+constar en uno o más contratos de
 
-Unidos de América), sin garantía
+crédito:
 
-del Estado de Chile.
+(i) Tramo uno, corresponde
 
-(ii) Tramo dos, corresponde hasta
+hasta US$33.000.000
 
-US$336.000.000 (Trescientos
+(Treinta y tres millones de
 
-treinta y seis millones de dólares
+dólares de los Estados
 
-de los Estados Unidos de América),
+Unidos de América), sin
 
-con la garantía soberana de la
+garantía del Estado de
 
-República de Chile por
+Chile; y
 
-US$160.000.000.- (Ciento sesenta
+(ii)Tramo dos, corresponde
 
-millones de dólares de los Estados
+hasta US$337.000.000
+
+(Trescientos treinta y
+
+siete millones de dólares
+
+de los Estados Unidos de
+
+América), con la garantía
+
+soberana de la República de
+
+Chile por US$160.000.000.-
+
+(Ciento sesenta millones de
+
+dólares de los Estados
 
 Unidos de América).
 
@@ -60,21 +76,51 @@ e) Intereses : Trimestrales o semestrales.
 
 f) Tasa de
 
-Interés : La suma de la tasa variable,
+Interés : Tasa fija o bien tasa variable
 
-determinada al momento de cada
+LIBOR USD 6 meses más un Margen
 
-utilización, indexada sobre Libor
+Aplicable que se determinará
 
-USD a 90 o 180 días más Margen
+dependiendo del nivel de los
 
-Aplicable, o su equivalente a tasa
+Credit Default Swaps de la
 
-fija calculada sobre los interest
+República de Chile a 10 años al
 
-rate swap correpondientes más
+momento de la firma del contrato
 
-Margen Aplicable.
+de crédito. En caso que se pacte
+
+que el crédito devengue intereses
+
+a tasa fija, podrá estipularse
+
+que en ciertas circunstancias
+
+derivadas de hechos de Empresa de
+
+los Ferrocarriles del Estado o de
+
+terceros, el crédito se
+
+transformará en un crédito a tasa
+
+variable. Adicionalmente, en esos
+
+casos la Empresa de los
+
+Ferrocarriles del Estado podrá
+
+obligarse a pagar a los
+
+acreedores los costos de quiebre
+
+en que hayan incurrido producto
+
+del cambio de tasa de interés
+
+fija a tasa de interés variable.
 
 g) Margen
 
@@ -156,11 +202,23 @@ Unidos de América) respecto al
 
 Tramo Dos señalado en la letra a).
 
-m) Prepago : Sí, en la fecha de vencimiento de
+m) Prepago : Para el Tramo uno, en la fecha de
 
-intereses, inclusive si éstos se
+vencimiento de intereses,
 
-capitalizan, sin costo adicional.
+inclusive si éstos se
+
+capitalizan, con o sin costo
+
+adicional.
+
+Para el Tramo dos, una vez al año
+
+a partir del cuarto año de la
+
+fecha de la firma del convenio de
+
+crédito, sin costo adicional.
 
 n) Período de
 
