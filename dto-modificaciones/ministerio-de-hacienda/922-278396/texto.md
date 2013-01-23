@@ -14,39 +14,53 @@ II. Reemplázase el numeral 2. del decreto supremo (Hacienda) Nº1.046, de 2007,
 
 ### 2. Las condiciones financieras de los créditos serán las siguientes:
 
-a) Monto : Hasta US$ 370.000.000 (Trescientos
+a) Monto : Hasta US$370.000.000 (Trescientos
 
-setenta millones de dólares de los
+setenta millones de dólares de
 
-Estados Unidos de América),
+los Estados Unidos de América),
 
-dividido en dos tramos:
+dividido en dos o más tramos,
 
-(i) Tramo uno, corresponde hasta
+cada uno de los cuales podrá
 
-US$34.000.000 (Treinta y cuatro
+constar en uno o más contratos de
 
-millones de dólares de los Estados
+crédito:
 
-Unidos de América), sin garantía
+(i) Tramo uno, corresponde
 
-del Estado de Chile.
+hasta US$33.000.000
 
-(ii) Tramo dos, corresponde hasta
+(Treinta y tres millones de
 
-US$336.000.000 (Trescientos
+dólares de los Estados
 
-treinta y seis millones de dólares
+Unidos de América), sin
 
-de los Estados Unidos de América),
+garantía del Estado de
 
-con la garantía soberana de la
+Chile; y
 
-República de Chile por
+(ii) Tramo dos, corresponde
 
-US$160.000.000.- (Ciento sesenta
+hasta US$337.000.000
 
-millones de dólares de los Estados
+(Trescientos treinta y
+
+siete millones de dólares
+
+de los Estados Unidos de
+
+América), con la garantía
+
+soberana de la República de
+
+Chile por US$160.000.000.-
+
+(Ciento sesenta millones de
+
+dólares de los Estados
 
 Unidos de América).
 
@@ -68,21 +82,51 @@ e) Intereses : Trimestrales o semestrales.
 
 f) Tasa de
 
-Interés : La suma de la tasa variable,
+Interés : Tasa fija o bien tasa variable
 
-determinada al momento de cada
+LIBOR USD 6 meses más un Margen
 
-utilización, indexada sobre Libor
+Aplicable que se determinará
 
-USD a 90 o 180 días más Margen
+dependiendo del nivel de los
 
-Aplicable, o su equivalente a tasa
+Credit Default Swaps de la
 
-fija calculada sobre los interest
+República de Chile a 10 años al
 
-rate swap correpondientes más
+momento de la firma del contrato
 
-Margen Aplicable.
+de crédito. En caso que se pacte
+
+que el crédito devengue intereses
+
+a tasa fija, podrá estipularse
+
+que en ciertas circunstancias
+
+derivadas de hechos de Empresa de
+
+los Ferrocarriles del Estado o de
+
+terceros, el crédito se
+
+transformará en un crédito a tasa
+
+variable. Adicionalmente, en esos
+
+casos la Empresa de los
+
+Ferrocarriles del Estado podrá
+
+obligarse a pagar a los
+
+acreedores los costos de quiebre
+
+en que hayan incurrido producto
+
+del cambio de tasa de interés
+
+fija a tasa de interés variable.
 
 g) Margen
 
@@ -164,11 +208,23 @@ Unidos de América) respecto al
 
 Tramo Dos señalado en la letra a).
 
-m) Prepago : Sí, en la fecha de vencimiento de
+m) Prepago : Para el Tramo uno, en la fecha de
 
-intereses, inclusive si éstos se
+vencimiento de intereses,
 
-capitalizan, sin costo adicional.
+inclusive si éstos se
+
+capitalizan, con o sin costo
+
+adicional.
+
+Para el Tramo dos, una vez al año
+
+a partir del cuarto año de la
+
+fecha de la firma del convenio de
+
+crédito, sin costo adicional
 
 n) Período de
 
