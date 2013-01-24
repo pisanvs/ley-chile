@@ -84,6 +84,8 @@ Las personas preseleccionadas en los llamados efectuados mediante las resolucion
 
 12. No se encontrarán impedidos de postular al presente llamado especial, los postulantes damnificados que tengan la calidad de familia unipersonal, aunque no cumplan con las condiciones señaladas en las letras a) a la f) del número 2 del artículo 6° del D.S. N° 174 (V. y U.), de 2010, siempre que acrediten ser propietarios de la vivienda que habitaban, certificada como inhabitable.
 
+En los proyectos específicos a desarrollar, se podrá utilizar parte de la estructura, elementos constructivos y/o instalaciones domiciliarias de la vivienda declarada como inhabitable por la Dirección de Obras Municipales respectiva, que sean posibles de recuperar, no siendo necesaria la demolición total del inmueble.
+
 13. No será impedimento para la postulación a este llamado especial, que el sitio en que se emplace la vivienda se encuentre gravado con hipoteca.
 
 14. El beneficiario del presente llamado se encontrará eximido del cumplimiento de los requisitos de constituir hipoteca y prohibición de enajenar a favor de SERVIU así como celebrar actos o contratos en conformidad a lo señalado en los artículos 1º y 55 del D.S. N° 174 (V. y U.), de 2005.
@@ -261,5 +263,7 @@ Cuando se obtenga el incremento a que se alude en este resuelvo, el valor de la 
 33. Los subsidios habitacionales que se otorguen conforme a esta Resolución se imputarán a los recursos dispuestos en la Resolución Exenta N° 8.816 (V. y U.), de 2010, para el Plan de Reconstrucción del Fondo Solidario de Vivienda.
 
 34. En el caso que familias seleccionadas, en la forma que indica la presente resolución, renuncien a su beneficio o que éste sea eliminado por otra causa, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la modalidad de autoconstrucción asistida, del Programa Fondo Solidario de Vivienda.
+
+35. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el Serviu, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
