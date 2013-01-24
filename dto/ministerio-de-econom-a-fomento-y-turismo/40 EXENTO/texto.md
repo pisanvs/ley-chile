@@ -1,0 +1,9 @@
+SUSPENDE TEMPORALMENTE VEDA EXTRACTIVA DEL RECURSO MACHA EN ÁREAS Y PERÍODO QUE INDICA Y ESTABLECE CUOTA DE CAPTURA QUE SEÑALA
+
+Por decreto exento Nº 40, de 7 de enero de 2013, de este Ministerio, se suspende vigencia veda extractiva para recurso macha, establecida por decreto exento Nº 1.668, de 2009, del actual Ministerio de Economía, Fomento y Turismo, entre la fecha de publicación del presente decreto de conformidad con la Ley General de Pesca y Acuicultura, y hasta 30 de junio de 2013, en área marítima correspondiente a Pucaihuen, comuna de Chaitén, comprendida entre los paralelos 43º19'02,27" Latitud Sur y 43º24'54,04" Latitud Sur, y en el área marítima correspondiente a Playa Cucao, comuna de Chonchi, comprendida entre los paralelos 43º19'03" Latitud Sur y los 43º24'54" Latitud Sur, ambas ubicadas en X Región.
+
+Asimismo, fíjase para período comprendido entre fecha de publicación del presente decreto de conformidad con la Ley General de Pesca y Acuicultura y hasta el 30 de junio de 2013, una cuota de 530 toneladas del recurso macha, a ser extraídas en área marítima correspondiente al sector de Pucaihuen, X Región, y una cuota de 540 toneladas del citado recurso macha, a ser extraídas en el área marítima correspondiente al sector de Playa Cucao, X Región, ambos sectores delimitados de conformidad a coordenadas geográficas individualizadas en artículo 1º y fraccionadas mensualmente de acuerdo a lo indicado en decreto extractado.
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura, y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 17 de enero de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
