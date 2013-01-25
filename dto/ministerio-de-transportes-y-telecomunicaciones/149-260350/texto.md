@@ -80,6 +80,22 @@ Los vehículos cuyos datos de marca y modelo no se encuentren en la nómina ante
 
 VER DIARIO OFICIAL DE 24.04.2007, PÁGINA 5.
 
+#### Artículo 5º Bis
+
+A contar de 6 meses de publicado en el Diario Oficial el DS Nº 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente, los límites máximos permitidos en la Región Metropolitana, serán los siguientes:
+
+#### Artículo 5º Ter
+
+A contar de 6 meses de publicado en el Diario Oficial el DS Nº 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente, los límites máximos permitidos en la Región Metropolitana, para los vehículos cuyos datos de marca y modelo no se encuentren en la nómina con los datos de la Inercia Equivalente por marca y modelo para la correcta aplicación de la norma, establecida por el Ministerio de Transportes y Telecomunicaciones, serán los siguientes:
+
+#### Artículo 5º Quáter
+
+Cuando entren en operación las concesiones de Plantas de Revisión Técnica en la Región Metropolitana posteriores a la publicación en el Diario Oficial del DS Nº 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente o a más tardar el día 1º de abril de 2015, los límites máximos permitidos en la Región Metropolitana, serán los siguientes:
+
+#### Artículo 5º
+
+Quinquies.- Cuando entren en operación las concesiones de Plantas de Revisión Técnica en la Región Metropolitana posteriores a la publicación en el Diario Oficial del DS Nº 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente o a más tardar el día 1º de abril de 2015, los límites máximos permitidos en la Región Metropolitana, de los vehículos cuyos datos de marca y modelo no se encuentren en la nómina con los datos de la Inercia Equivalente por marca y modelo para la correcta aplicación de la norma, establecida por el Ministerio de Transportes y Telecomunicaciones, serán los siguientes:
+
 ## Título Tercero
 
 Procedimientos de Medición y Control de los
@@ -94,7 +110,9 @@ Para efectuar la medición en cada Modo se colocará al vehículo sobre un dinam
 
 Para el Modo 5015, la velocidad de ensayo será de 24 km/hr (o 15 millas por hora) y la potencia de ensayo, en Horse Power (HP), se calculará a partir de la Inercia Equivalente (IE) del vehículo como:
 
-VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5 Para el Modo 2525, la velocidad de ensayo será de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calculará a partir de la Inercia Equivalente del vehículo como:
+VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5
+
+Para el Modo 2525, la velocidad de ensayo será de 40 km/hr (o 25 millas por hora) y la potencia de ensayo, en HP, se calculará a partir de la Inercia Equivalente del vehículo como:
 
 VER DIARIO OFICIAL DE 24.04.2007, PAGINA 5
 
@@ -103,6 +121,8 @@ Ambas potencias de ensayo se aplicarán al vehículo mediante un dinamómetro de
 En el caso de requerirse la aplicación de la Tabla Nº 6 se utilizarán las siguientes potencias de ensayo:
 
 VER DIARIO OFICIAL DE 24.04.2007, PÁGINA 5.
+
+> **Nota.** El N° 5 del Decreto 2, Medio Ambiente, publicado el 25.01.2013, modifica el presente artículo en el sentido de reemplazar en su inciso sexto las expresiones "Tabla 7" por "Tabla 15", sin embargo no ha sido posible efectuar dicha actualización en el texto por no coincidir la referida referencia.
 
 #### Artículo 7
 
