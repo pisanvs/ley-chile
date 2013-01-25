@@ -1,0 +1,3 @@
+Por resolución exenta Nº 166, de 17 de enero de 2013, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 1.316 de 2004, que autorizó a Pesquera Bío-Bío S.A., hoy CAMANCHACA PESCA SUR S.A. para realizar actividades pesqueras extractivas con la nave denominada "Duqueco" en el área marítima comprendida entre la III a VII y IX a X Regiones, sobre el recurso hidrobiológico Jibia o Calamar rojo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 17 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
