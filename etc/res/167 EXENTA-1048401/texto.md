@@ -1,0 +1,3 @@
+Por resolución exenta Nº 167, de 17 de enero de 2013, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.225 de 2005, sólo en cuanto autorizó a Compañía Pesquera Camanchaca S.A., hoy CAMANCHACA PESCA SUR S.A., para realizar actividades pesqueras extractivas con la nave denominada "María José" en el área marítima comprendida entre la V a VII y IX a X Regiones, sobre el recurso hidrobiológico Jibia o Calamar rojo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 17 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
