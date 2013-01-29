@@ -48,11 +48,11 @@ La Escarapela o Cucarda tiene azul turquí al centro, blanco la segunda faja y r
 
 El Estandarte Presidencial se forma con la Bandera Nacional y el Escudo de Armas de la República bordado sobre sus colores en el centro del paño.
 
-#### Artículo 2°
+#### Artículo 2º
 
-Con excepción de los días 21 de mayo y 18 y 19 de septiembre de cada año, en que deberá izarse obligatoriamente y al tope, ninguna persona ni reunión de personas podrá usar en público y enarbolar en los edificios públicos o particulares la Bandera Nacional sin la correspondiente autorización.
+Con excepción de los días 21 de mayo y 18 y 19 de septiembre de cada año, en que deberá izarse obligatoriamente y al tope, la Bandera Nacional podrá usarse o izarse sin autorización previa, cuidando siempre de resguardar el respeto de la misma y de observar las disposiciones de este reglamento.
 
-Los Intendentes y Gobernadores podrán ordenar o permitir el uso o izamiento al tope o a media asta de la Bandera Nacional en el territorio de su jurisdicción, con autorización previa del Ministerio del Interior, en aquellos casos en que haya motivo justificado, pudiendo hacerla extensiva al uso o colocación de los demás emblemas nacionales, sin perjuicio de lo establecido en el artículo 8° del presente decreto y del libre uso de la escarapela o cucarda.
+Los Intendentes y Gobernadores podrán ordenar o permitir el uso o izamiento a media asta de la Bandera Nacional en el territorio de su jurisdicción, con autorización previa del Ministerio del Interior y Seguridad Pública, en aquellos casos en que haya motivo justificado, pudiendo hacerla extensiva al uso o colocación de los demás emblemas nacionales o regionales, sin perjuicio de lo establecido en el artículo 8° del presente decreto y del libre uso de la escarapela o cucarda.
 
 #### Artículo 3°
 
@@ -99,6 +99,12 @@ El Estandarte Presidencial es exclusivo y se enarbolará sólo en el lugar en qu
 El izamiento del pabellón extranjero en las embajadas y sedes de los Consulados, se ajustará a lo establecido por las Convenciones de Viena, sobre Relaciones Diplomáticas y Consulares respectivamente.
 
 Sin embargo, las personas naturales o jurídicas extranjeras domiciliadas en el país, de naciones con las que Chile mantiene relaciones diplomáticas o consulares, podrán izar el pabellón de su país en las oportunidades establecidas en el artículo 2° del presente decreto, o cuando celebren su aniversario patrio, en cuyo caso deberá igualmente izarse la bandera chilena, dándose en todo cumplimiento a las formalidades dispuestas en el artículo 4°.
+
+#### Artículo 9° bis
+
+Con excepción de lo dispuesto en el artículo precedente, cuando se usen o icen conjuntamente con la Bandera Nacional, a las banderas o pabellones regionales se aplicarán las normas establecidas en el presente reglamento para los pabellones extranjeros.
+
+En los demás casos, las banderas o pabellones regionales se usarán o izarán en la forma dispuesta en el artículo 3°.
 
 #### Artículo 10°
 
