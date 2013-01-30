@@ -412,11 +412,11 @@ La presente Ordenanza del Plan Regulador Comunal de Collipulli (En adelante el P
 
 El Plan está formado por los siguientes documentos que constituyen un solo cuerpo legal:
 
-• Memoria Explicativa
+. Memoria Explicativa
 
-• La presente Ordenanza
+. La presente Ordenanza
 
-• Planos:
+. Planos:
 
 PRC - Collipulli Localidad de Collipulli - 09202-01
 
@@ -424,7 +424,7 @@ PRC - Collipulli Localidad de Mininco - 09202-02
 
 PRC - Collipulli Localidad de Villa Esperanza - 09202-03
 
-• Los Estudios de Factibilidad
+. Los Estudios de Factibilidad
 
 #### Artículo 1
 
@@ -686,7 +686,7 @@ La única actividad productiva que se puede instalar en cualquier zona en que es
 
 La clasificación en el tipo Actividad Productiva comprenderá las actividades de industria y las actividades de Impacto Similar que corresponden a talleres, grandes depósitos y bodegas industriales de acuerdo a las siguientes características:
 
-• Industria
+- Industria
 
 Se clasifica como actividad industrial aquellas instalaciones que obedecen a las definiciones de Edificio Industrial o Maestranza contenidas en la Ordenanza General de Urbanismo y Construcciones y que presentan alguna de las siguientes características:
 
@@ -694,7 +694,7 @@ Se clasifica como actividad industrial aquellas instalaciones que obedecen a las
 
 - Que, conforme a las clasificaciones del Ministerio de Economía, corresponda a una categoría superior a Micro Empresa de acuerdo a sus ventas anuales.
 
-• Instalaciones de Impacto Similar
+- Instalaciones de Impacto Similar
 
 Taller. Establecimiento que desarrolla actividades similares a la industria o parte de ellas, como montaje y reparaciones y que no se clasifica como industria. Se incluye en esta clasificación las panaderías o amasanderías que desempeñen actividades en horario nocturno y sean clasificadas de acuerdo a sus ventas anuales como Micro Empresa.
 
@@ -736,27 +736,27 @@ Las siguientes actividades deberán cumplir adicionalmente con las siguientes co
 
 Estacionamiento de Buses y Camiones:
 
-• Sólo podrán emplazarse en vías de ancho mínimo de 18 m.
+. Sólo podrán emplazarse en vías de ancho mínimo de 18 m.
 
-• Superficie mínima de terreno: 600 m²
+. Superficie mínima de terreno: 600 m²
 
-• Sistema de agrupamiento: Aislado
+. Sistema de agrupamiento: Aislado
 
 Terminales de Distribución Agropecuaria:
 
-• Deberá consultar un estacionamiento de 30 m², para camiones o similares por cada 200 m² edificados o 500 m² de recinto.
+. Deberá consultar un estacionamiento de 30 m², para camiones o similares por cada 200 m² edificados o 500 m² de recinto.
 
 Playas de Estacionamientos:
 
-• Sólo podrán emplazarse en vías de ancho mínimo de 15 m (en el caso de Collipulli) e igual o superior a 12 m. entre líneas oficiales para el resto de las localidades.
+. Sólo podrán emplazarse en vías de ancho mínimo de 15 m (en el caso de Collipulli) e igual o superior a 12 m. entre líneas oficiales para el resto de las localidades.
 
-• Tener superficie predial mínima de 1000 m².
+. Tener superficie predial mínima de 1000 m².
 
-• El diseño de los accesos y de los espacios interiores regirse por los criterios técnicos contenidos en el Manual de Vialidad Urbana (REDEVU), de acuerdo a lo señalado en el artículo 4.13.3 de la O.G.U. y C.
+. El diseño de los accesos y de los espacios interiores regirse por los criterios técnicos contenidos en el Manual de Vialidad Urbana (REDEVU), de acuerdo a lo señalado en el artículo 4.13.3 de la O.G.U. y C.
 
-• Sistema de Agrupamiento: Aislado
+. Sistema de Agrupamiento: Aislado
 
-• Superficie arborizada: 10 % del predio. El tipo y número de especies que se requiere plantar deberá contar con la autorización de la Dirección de Obras de la Municipalidad, y para obtener la recepción final que otorga la Dirección de Obras Municipales, será previo haber implementado esta exigencia.
+. Superficie arborizada: 10 % del predio. El tipo y número de especies que se requiere plantar deberá contar con la autorización de la Dirección de Obras de la Municipalidad, y para obtener la recepción final que otorga la Dirección de Obras Municipales, será previo haber implementado esta exigencia.
 
 #### Artículo 4
 
@@ -918,21 +918,23 @@ PRC - Collipulli Localidad de Villa Esperanza - 09202-03
 
 Zonas Consolidadas y de Extensión
 
-• Zonas Mixtas
+. Zonas Mixtas
 
-ZM - 1: Zona Mixta Centro
+ZM - 1 : Zona Mixta Centro
 
-ZM - 2: Zona Mixta Pericentro
+ZM - 2 : Zona Mixta Pericentro
 
-ZM - 3: Zona Mixta Trama Fundacional
+ZM - 2a: Zona Mixta Baja Intensidad de Uso
 
-ZM - 4: Zona Mixta del Ferrocarril
+ZM - 3 : Zona Mixta Trama Fundacional
 
-ZM - 5: Zona Mixta Mesetas Río Malleco
+ZM - 4 : Zona Mixta del Ferrocarril
 
-ZM - 6: Zona Mixta Ruta R - 22
+ZM - 5 : Zona Mixta Mesetas Río Malleco
 
-• Zonas Preferentemente Residenciales
+ZM - 6 : Zona Mixta Ruta R - 22
+
+. Zonas Preferentemente Residenciales
 
 ZH - 1: Zona Preferentemente Residencial en Densidad Media
 
@@ -942,7 +944,7 @@ ZH - 1a: Zona Condicionada Incendios Forestales
 
 ZH - 2a: Zona Condicionada Incendios Forestales
 
-• Zonas Industriales
+. Zonas Industriales
 
 ZI - 1: Zona Industrial Exclusiva de Actividades Productivas Molestas
 
@@ -950,13 +952,13 @@ ZI - 2: Zona Industrial de Actividades Productivas Inofensivas
 
 ZI - 3: Zona Industrial Condicionada de Actividades Productivas Molestas
 
-• Zonas de Equipamiento
+. Zonas de Equipamiento
 
 ZE - 1: Zona de Equipamiento Especial Cementerio
 
 ZE - 2: Zona de Equipamiento Deportivo
 
-• Zonas de Áreas Verdes y Esparcimiento
+. Zonas de Áreas Verdes y Esparcimiento
 
 ZAV - 1: Zona de Áreas Verdes Cerro Santa Lucía
 
@@ -966,19 +968,19 @@ ZAV - 3: Zona de Áreas Verdes de Plazas y Parques
 
 ZAV - 4: Zona de Playa Borde Río
 
-• Zonas de Conservación Histórica
+. Zonas de Conservación Histórica
 
 ZCH - 1: Inmuebles de Conservación Histórica
 
 Zonas Restringidas por Riesgo y Protección
 
-• Áreas Especiales
+. Áreas Especiales
 
 ZP - 1: Zona Borde Meseta
 
 ZP - 2: Zona de Manejo de Cauce
 
-• Áreas de Restricción
+. Áreas de Restricción
 
 De origen Natural
 
@@ -988,7 +990,7 @@ ZR - 2: Área de Riesgo por Inundación
 
 ZR - 3: Área de Resguardo en torno a Canales
 
-ZR - 4: Área de Riesgo por Procesos de Remoción en Masa
+ZR - 4: Área de Riesgo Propensa a Avalanchas, Rodados, Aluviones o Erosiones Acentuadas
 
 ZR - 5: Área de Restricción por Quebradas
 
@@ -1019,6 +1021,12 @@ VER DIARIO OFICIAL DE 02.07.2009, PAGINA 10.
 Condiciones Especiales:
 
 - Para el caso de la instalación de la actividad de Equipamiento de la clase comercio de centros de servicio automotor y estaciones de servicio, ésta podrá localizarse sólo en aquellos predios cuyo frente y acceso esté dado por la ruta R 22 Camino a Villa Esperanza, en la localidad de Mininco.
+
+#### Artículo 5
+
+2.2.1 Zona ZM - 2a: Zona Mixta Baja Intensidad de Uso
+
+Sub Zona ZM - 2a: Zona Mixta Baja Intensidad de Uso.
 
 #### Artículo 5
 
@@ -1348,7 +1356,7 @@ Usos de suelo prohibidos: Todos los no indicados como permitidos, en especial lo
 
 #### Artículo 5
 
-3.2.4. ZR - 4: Área de Riesgo por Procesos de Remoción en Masa
+3.2.4. ZR – 4: Área de Riesgo Propensa a Avalanchas, Rodados, Aluviones o Erosiones Acentuadas
 
 Corresponden aquellas áreas que presentan riesgo ante procesos de remoción en masa producto del manejo de variables como cobertura vegetal, grado de saturación del suelo, intensidad de las precipitaciones y por fenómenos sísmicos, además de la pendiente, características geomorfológicas del relieve, geología y tipos de material basal y superficial, grados de erosión y condiciones climáticas, entre las condiciones más relevantes.
 
@@ -1402,11 +1410,11 @@ En pendientes superiores a 45%, 20 m.
 
 Para que la superficie afectada sea rebajada y dependiendo del proyecto que se trate, la municipalidad podrá exigir la aprobación por parte de los organismos sectoriales competentes los estudios específicos referidos a:
 
-• Mecánica de suelos
+. Mecánica de suelos
 
-• Plan de manejo de corta y reforestación por obras civiles
+. Plan de manejo de corta y reforestación por obras civiles
 
-• Estudios de período de retorno de los cauces involucrados
+. Estudios de período de retorno de los cauces involucrados
 
 #### Artículo 5
 
