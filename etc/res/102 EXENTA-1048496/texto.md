@@ -1,0 +1,25 @@
+REGULA EL USO DE LA FIRMA ELECTRÓNICA PARA LOS INFORMES DE RESULTADOS DE LAS ENTIDADES DE ANÁLISIS Y MUESTREO DE PRODUCTOS PESQUEROS DE EXPORTACIÓN
+
+Núm. 102 exenta.- Valparaíso, 21 de enero de 2013.- Vistos: La ley Nº 19.880, que establece Bases de los Procedimientos Administrativos; la ley Nº 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha Firma; el DFL Nº 5, de 1983, y sus modificaciones, y el DS Nº 430, de 1991, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.892, Ley General de Pesca y Acuicultura, y sus modificaciones, ambos del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo; el artículo 52, del decreto Nº 181, que aprueba el Reglamento de la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma; las disposiciones contenidas en el DS Nº 83/2004, del Ministerio Secretaría General de la Presidencia, que aprueba Norma Técnica para órganos de la Administración del Estado sobre Seguridad y Confidencialidad de los documentos electrónicos; y la resolución exenta Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, en conformidad con lo dispuesto en el artículo 25, del DFL Nº 5, de 1983, del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, corresponde en general al Servicio Nacional de Pesca y Acuicultura ejecutar la política pesquera nacional y fiscalizar su cumplimiento y, en especial, velar por la debida aplicación de las normas legales y reglamentarias sobre pesca, caza marítima y demás formas de explotación de recursos hidrobiológicos.
+
+2. Que, asimismo, al Servicio Nacional de Pesca y Acuicultura le corresponde controlar la calidad sanitaria de los productos pesqueros de exportación, siendo el responsable de emitir la certificación sanitaria oficial, función que ejerce a través del Departamento de Sanidad Pesquera, conforme lo establecido en el artículo 32, Nº 4, letra a), del DFL Nº 5, de 1983, citado.
+
+3. Que el artículo 28, del DFL Nº 5, de 1983, citado, establece que al Director Nacional le corresponde especialmente dictar resoluciones para la aplicación y fiscalización de las leyes y reglamentos sobre pesca, caza marítima y demás formas de explotación de los recursos hidrobiológicos.
+
+4. Que, de acuerdo a lo dispuesto en el artículo 122 letra b), de la ley Nº 18.892, Ley General de Pesca y Acuicultura, y sus modificaciones, del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, las labores de inspección, muestreo y análisis pueden ser encomendadas a entidades privadas, las cuales emiten informes de resultados que son fiscalizados por el Servicio.
+
+5. Que los artículos 3º y 7º de la ley Nº 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha Firma, establecen como principio fundante, la equivalencia de soportes. De esta manera, los actos suscritos por medio de firma electrónica, serán válidos de la misma manera y producirán los mismos efectos que los expedidos por escrito y en soporte de papel.
+
+6. Que, de acuerdo a lo establecido en el artículo 52, del decreto Nº 181, que aprueba el Reglamento de la ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, del Ministerio de Economía, Fomento y Reconstrucción, actual Ministerio de Economía, Fomento y Turismo, las personas que se relacionen con la Administración del Estado por medios electrónicos, podrán utilizar firma electrónica, sin perjuicio de aquellos casos en que se haga necesaria la comprobación fehaciente de su identidad, en los cuales deberán emplear firma electrónica avanzada.
+
+Resuelvo:
+
+1. Se autoriza a aquellos fiscalizados que, voluntariamente, decidan presentar informes de resultados de Entidades de Análisis y Muestreo de productos pesqueros de exportación, por medios electrónicos, el uso de la firma electrónica personal y exclusiva, la que deberá ser avanzada y a través de un prestador acreditado de servicios de certificación, de conformidad con lo dispuesto en la ley Nº 19.799 y su Reglamento.
+
+2. Las Entidades de Análisis y Muestreo que decidan utilizar firma electrónica avanzada, previo a la presentación de los informes referidos en el número precedente, deberán enviar mediante correo electrónico dirigido al Departamento de Sanidad Pesquera de la Dirección Nacional del Servicio Nacional de Pesca y Acuicultura, una lista de las personas autorizadas para el uso de la firma, con todos los antecedentes adicionales que respalden esta autorización.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Juan Luis Ansoleaga Bengoechea, Director Nacional.
