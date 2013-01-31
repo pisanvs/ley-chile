@@ -124,6 +124,20 @@ De 701 y más personas Hasta 7 $195.000.-
 
 De 8 y más $220.000.-
 
+h.- Tarifas Restaurantes: las tarifas serán variables, en consideración a los metros de superficie del correspondiente establecimiento, conforme a la siguiente tabla:
+
+Superficie Tarifa
+
+mensual
+
+Hasta 50 mts. Cuadrados $50.000.-
+
+Sobre 50 mts. cuadrados y hasta
+
+100 mts. Cuadrados $75.000.-
+
+Más de 100 mts. Cuadrados $95.000.-
+
 2. Wurlitzers, sinfonolas o rockcolas digitales para uso comercial, operadas con pantallas para videos musicales o no:
 
 a) $20.500.- pesos mensuales por cada máquina que almacene hasta 1.000 fonogramas o videogramas musicales.
@@ -276,15 +290,19 @@ Sobre 501 mts. a 750 mts. cuadrados $30.000.-
 
 Más de 751 mts. cuadrados $50.000.-
 
-14. Establecimientos comerciales no comprendidos en los números precedentes: La comunicación al público de videos musicales en estos establecimientos estará afecta a una tarifa mensual variable de acuerdo a la superficie de los mismos, según la siguiente tabla:
+14.- Establecimientos comerciales no comprendidos en los números precedentes: La comunicación al público de videos musicales en estos establecimientos estará afecta a una tarifa mensual variable de acuerdo a la superficie de los mismos, según la siguiente tabla:
 
-Superficie Tarifa mensual
+Superficie Tarifa
 
-Hasta 500 mts. cuadrados $20.000.-
+mensual
 
-Sobre 501 mts. a 750 mts. cuadrados $30.000.-
+Hasta 100 mts. cuadrados $90.000.-
 
-Más de 751 mts. cuadrados $50.000.-
+Sobre 100 mts. cuadrados y hasta
+
+200 mts. cuadrados $150.000.-
+
+Más de 200 mts. cuadrados $190.000.-
 
 Las licencias correspondientes a cada una de las tarifas se encuentran a disposición de los usuarios en las oficinas de Profovi, ubicadas en: Antonio Varas Nº 2043, Providencia, Santiago.
 
