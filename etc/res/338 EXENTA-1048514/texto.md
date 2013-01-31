@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 338 EXENTA, DE 2012
+
+Por resolución exenta Nº 338, de 10 de octubre de 2012, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos, ubicado en Alonso de Ercilla Nº 2792, de la comuna de Chillán, provincia de Ñuble, Región del Biobío, de responsabilidad de la empresa Sociedad Anónima de Transportes y Servicios Los Volcanes Parque Lantaño, rol único tributario Nº 96.716.720-7. El tipo de terminal es un terminal clasificado en "Categoría C-100", conforme a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La capacidad máxima del terminal corresponde a 100 vehículos, ello de conformidad al artículo 4.13.8 del Capítulo 13 del DS 47/92, del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La flota de diseño del terminal referido equivale a 100 autos, de conformidad al artículo 45 del DS 212/92 del Ministerio de Transportes y Telecomunicaciones. Déjese constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxi colectivo urbano de la comuna de Chillán, cuyo responsable es la empresa Sociedad Anónima de Transportes y Servicios Los Volcanes Parque Lantaño, rol único tributario Nº 96.716.720-7, responsable de la Línea 16 de taxis colectivos con recorrido Troncal: Alonso de Ercilla - Los Puelches - Av. Brasil - Antártica Chilena; y también es responsable de la Línea 32 de taxis colectivos con recorrido Troncal: Alonso de Ercilla - Av. Chile - Av. O'Higgins - 20 de Agosto.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta un máximo de 100 vehículos, en conformidad al artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo.
+
+- **C)** El administrador del terminal será don Carlos Rubén Arias Berrocal, rol único tributario Nº 9.682.064-k, con domicilio en Alonso de Ercilla Nº 2792, de la comuna de Chillán. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+- Claudio Silva González, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región del Biobío.
