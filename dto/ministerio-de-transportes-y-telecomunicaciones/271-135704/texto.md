@@ -16,15 +16,21 @@ Y teniendo presente: Lo dispuesto en el artículo 13 Nº 21 del D.F.L. Nº 290 d
 
 D e c r e t o:
 
-1. Establécese como recinto portuario del Puerto de Punta Arenas, dependiente de la Empresa Portuaria de Chile, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en planos Nº PUQ-TC-9801, PUQ-TC-9802 y PUQ-TC-9803 de la Empresa Portuaria de Chile, protocolizados con fecha 11 de marzo de 1998, bajo los números 926, 927 y 925, respectivamente, en la Notaría de Valparaíso, de don Alfonso Díaz S.:
+1. Establécese como recinto portuario de la Empresa Portuaria Austral, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en planos Nº PUQ-TC-9801, PUQ-TC-9802 y PUQ-TC-9803 de la Empresa Portuaria de Chile, protocolizados con fecha 11 de marzo de 1998, bajo los números 926, 927 y 925, respectivamente, en la Notaría de Valparaíso, de don Alfonso Díaz S., y en el plano titulado "Modificación Recinto Portuario", de la Empresa Portuaria Austral, protocolizado con fecha 14 de junio de 2012 bajo el número 37, repertorio N° 1521-12, en la Notaría de Punta Arenas de don Edmundo Correa Paredes:
 
 Muelle Prat
 
-Norte: En línea quebrada continua, en tramo de ochenta y ocho metros con terrenos de la Confederación de Deportes de Punta Arenas, y novecientos cinco metros sobre el Estrecho de Magallanes (Puntos A-B-C). El tramo B-C sobre el mar, tiene una orientación S 49,95°E.
+Norte: En línea quebrada continua, en tramo de ochenta y ocho metros con terrenos de la Confederación de Deportes de Punta Arenas, y novecientos cinco metros sobre el Estrecho de Magallanes (Puntos A - B - B1). El tramo B-B1 sobre el mar, tiene una orientación S 49,95º E.
 
-Este: En línea recta de cuatrocientos treinta y siete metros cincuenta centímetros de longitud, sobre el Estrecho de Magallanes, tramo C-D, con una orientación S 39,15°O. Sur: En línea quebrada continua, en tramos de ochocientos cuarenta y ocho metros sobre el Estrecho de Magallanes, y noventa y cuatro metros cincuenta centímetros con el mar y playa (Puntos D-E-F). El tramo D-E sobre el mar, tiene una orientación N 49,95°O.
+Tramo M-M1 de veintiséis metros treinta y tres centímetros con franja afecta a utilidad pública.
 
-Oeste: En línea quebrada continua, en tramo de cuatrocientos sesenta y cinco metros con Av. B. O'Higgins (Puntos F-A).
+Este: En línea recta de cuatrocientos treinta y siete metros cincuenta centímetros de longitud, sobre el Estrecho de Magallanes, tramo B1-B2, con una orientación S 39,15º O.
+
+Sur: En línea quebrada continua, en tramos de ochocientos cuarenta y ocho metros sobre el Estrecho de Magallanes y ochenta y un metros dieciocho centímetros con el mar y playa. (Puntos B2-F-L). El tramo sobre el mar tiene una orientación N 49,95º O.
+
+Tramo N-N1 de veintiséis metros cincuenta y cinco centímetros con franja afecta a utilidad pública.
+
+Oeste: En línea quebrada continua, en tramos de doscientos sesenta y tres metros once centímetros (Punto L-M) con Avenida Costanera del Estrecho, tramo M1-N1 de veinticinco metros treinta y un centímetros con franja afecta a utilidad pública y tramo N-A de ciento setenta y dos metros treinta centímetros con Avenida Costanera del Estrecho
 
 Puerto Natales
 
