@@ -26,13 +26,13 @@ a) Región de Tarapacá
 
 3.- Marcos Gómez Barrera (Seremi del Trabajo y Previsión Social, Región de Tarapacá).
 
-b) Región de Antofagasta:
+b) Región de Antofagasta
 
-1.- Carlos Arenas Coronil (Seremi de Energía, Región de Antofagasta).
+1.- Christian Berndt Castiglione (Seremi de Bienes Nacionales, Región de Antofagasta).
 
-2.- Lorena Romero Santander (Seremi de Justicia, Región de Antofagasta).
+2.- Julio Calderón Martínez (Seremi de Vivienda y Urbanismo, Región de Antofagasta).
 
-3.- Rodrigo Mendiburu Zanabria (Seremi de Minería, Región de Antofagasta).
+3.- Rodolfo Gómez Acosta (Seremi de Obras Públicas, Región de Antofagasta).
 
 c) Región de Valparaíso:
 
