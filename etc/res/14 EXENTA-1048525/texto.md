@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 14, de fecha 7 de enero de 2013, se modifica resolución exenta Nº7.669 de fecha 26 de diciembre de 2011 y dispone la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 46, correspondiente a parte del inmueble ubicado en Los Alelíes 189 V. California, rol de avalúo Nº 1068-1, de la comuna de Lo Prado, Región Metropolitana, de aparente dominio de Gutiérrez Castro Washington Antonio con una superficie aproximada de 3,9 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto Vial denominado "Habilitación Corredor de Transporte Público Anillo Intermedio, Tramo I". La Comisión de Peritos integrada por los señores Ignacio Uriarte Herrera, Arquitecto; María Inés Márquez Gutiérrez, Ingeniero Civil; y Luisa Verónica Aracena Hernández, Constructor Civil, mediante informe de fecha 14 de abril de 2012, fijó la indemnización provisional por causa de la referida expropiación en la suma de $781.208, suma que se encuentra consignada en la cuenta corriente del 12º Juzgado Civil de Santiago en autos sobre consignación de fondos por expropiación caratulados Serviu Metropolitano, Rol V-223-2011. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
