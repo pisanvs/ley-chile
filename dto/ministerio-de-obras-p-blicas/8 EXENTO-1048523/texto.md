@@ -1,0 +1,3 @@
+Por Decreto MOP (EXENTO) N° 8 de 15 de enero de 2013, se dejó sin efecto el Decreto MOP N° 2268 de 11 de diciembre de 2009, que ordenó, la expropiación del lote N°5b, por no ser necesaria para la obra, por haberse constituido una servidumbre para la obra pública "Colector Interceptor Mapocho Segunda Etapa", comuna de Maipú, Provincia de Santiago, Región Metropolitana. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
