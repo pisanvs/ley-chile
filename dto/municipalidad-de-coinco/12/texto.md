@@ -1,0 +1,5 @@
+EXPROPIA PROPIEDADES QUE INDICA
+
+Por decreto alcaldicio Nº 12, del 3 de enero del año 2013, la I. Municipalidad de Coinco VI Región en base a la facultad otorgada por el Art. 63 Letra F ley 18.695 se expropia a causa de utilidad pública a: María Angélica Aránguiz Aguilera y Otros, propiedad ubicada en Libertador Bernardo O'Higgins Nº 1, cuya superficie total es de 253,82 mts², Comisión Peritos fija monto provisional de $6.363.345, rol de avalúo 3-13; Mario Sailer Milla propiedad ubicada en plaza Los Héroes Nº 95, cuya superficie total es de 1.077,53 mts², Comisión Peritos fija monto provisional de $21.978.570, rol de avalúo 3-14; Sucesión Mauro Carvacho Rencoret, propiedad ubicada plaza Los Héroes Nº 85, cuya superficie total es de 59,27 mts², Comisión Peritos fija monto provisional de $1.347.673, rol de avalúo 3-15, Fernando Abarca Abarca propiedad ubicada en Los Héroes de la Concepción Nº 70, cuya superficie total es de 1.44 mts², Comisión de Peritos fija monto provisional de $55.010, rol de avalúo 3-21. Indemnización se pagará al contado. Publicación efectuada cumplimiento Art. 7 DL 2.186, 1978.
+
+- Alejandro Aguirre Cuadra, Secretario Municipal.
