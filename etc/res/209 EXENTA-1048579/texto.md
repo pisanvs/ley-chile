@@ -1,0 +1,3 @@
+Por resolución exenta Nº 209, de 22 de enero de 2013, de esta Subsecretaría, amplíese por doce meses, a contar del 1º de octubre de 2012, el plazo otorgado por el numeral 4.- inciso 1º de la resolución exenta Nº 3.843, de 2010, para iniciar actividades pesqueras extractivas con la nave "Brisca" en el área marítima comprendida entre la XV a X Regiones, Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez Espada y su fauna acompañante, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 22 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
