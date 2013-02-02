@@ -1,0 +1,13 @@
+Por resolución exenta Nº 224, de 25 de enero de 2013, de esta Subsecretaría, la distribución de la fracción artesanal de la cuota global anual de captura de Anchoveta Engraulis ringens, Sardina común Strangomera bentincki y Jurel Trachurus murphyi, correspondiente a la XIV Región, sometida al régimen artesanal de extracción por organizaciones de pescadores artesanales, para el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2013, expresada en toneladas, se efectuará de la siguiente manera:
+
+A) Pesquería artesanal de Anchoveta:
+
+B) Pesquería artesanal de Sardina común:
+
+.
+
+C) Pesquería artesanal de Jurel:
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 25 de enero de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
