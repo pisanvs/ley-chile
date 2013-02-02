@@ -3978,7 +3978,9 @@ Se castigará con presidio mayor en cualquiera de sus grados:
 
 2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitación.
 
-3.º Al que incendiare bosques, mieses, pastos, montes, cierros o plantíos.
+3.º Al que incendiare bosques, mieses, pastos, montes, cierros, plantíos o formaciones xerofíticas de aquellas definidas en la ley Nº 20.283.
+
+4.º Al que fuera de los casos señalados en los números anteriores provoque un incendio que afectare gravemente las condiciones de vida animal o vegetal de un Área Silvestre Protegida.
 
 #### Artículo 477
 

@@ -150,17 +150,23 @@ El Reglamento fijará las funciones de guardería forestal que corresponda a dic
 
 La corta o destrucción de árboles y arbustos, en contravención a lo establecido en el artículo 5°, será sancionada con la pena de presidio menor en su grado mínimo a medio y multa de diez a veinte sueldos vitales mensuales.
 
-#### Artículo 22°
+#### Artículo 22
 
-El empleo del fuego, en contravención a las disposiciones de la presente ley y sus reglamentos y siempre que de ello no se haya seguido incendio, será castigado con presidio menor en cualquiera de sus grados y multas de seis a diez unidades tributarias mensuales.
+El empleo del fuego, en contravención a las disposiciones de la presente ley y sus reglamentos, y siempre que de ello no se haya seguido incendio, será castigado con presidio menor en sus grados mínimo a medio y multa de once a cincuenta unidades tributarias mensuales.
 
-El que rozare a fuego infringiendo las disposiciones legales y reglamentarias y a consecuencia de ello destruyere bosques, mieses, pastos, montes, cierros, plantíos, ganados, construcciones u otros bienes pertenecientes a terceros o afectare gravemente el patrimonio forestal del país, será castigado con presidio menor en su grado medio a máximo y con multa de once a veinte unidades tributarias mensuales.
+El que rozare a fuego infringiendo las disposiciones legales y reglamentarias y a consecuencia de ello destruyere bosques, mieses, pastos, montes, cierros, plantíos o formaciones xerofíticas de aquellas definidas en la ley Nº 20.283, ganado, construcciones u otros bienes pertenecientes a terceros o afectare gravemente el patrimonio forestal del país, será castigado con presidio menor en sus grados medio a máximo y multa de cincuenta a ciento cincuenta unidades tributarias mensuales.
 
-El que fuera de los casos contemplados en los incisos anteriores, por mera imprudencia o negligencia en el uso del fuego en zonas rurales, o en terrenos urbanos o semiurbanos destinados al uso público, provocare que cause daño en los bienes aludidos en el inciso segundo, sufrirá la pena de prisión en su grado máximo y multa de una a cuatro unidades tributarias mensuales.
+#### Artículo 22 bis
 
-Lo dispuesto en el presente artículo es sin perjuicio de la obligación de indemnizar los daños causados a terceros.
+Se prohíbe encender fuego o la utilización de fuentes de calor en las Áreas Silvestres Protegidas en todos aquellos lugares no autorizados y señalizados por la autoridad a cuyo cargo se encuentre la administración de las mismas.
 
-INCISO DEROGADO
+El incumplimiento de la prohibición referida en el inciso precedente hará incurrir a quien utilizare el fuego o cualquier fuente de calor en la pena de presidio menor en su grado mínimo a medio y multa de once a cincuenta unidades tributarias mensuales.
+
+#### Artículo 22 ter
+
+El que por mera imprudencia o negligencia en el uso del fuego u otras fuentes de calor en zonas rurales o en terrenos urbanos o semiurbanos destinados al uso público, provocare incendio que cause daño en los bienes a que alude el inciso segundo del artículo 22, sufrirá la pena de presidio menor en su grado medio a máximo y multa de cincuenta a ciento cincuenta unidades tributarias mensuales.
+
+Si el incendio se produjera en un Área Silvestre Protegida o se propagare a alguna de ellas, el responsable del uso del fuego u otras fuentes de calor en las zonas y terrenos a que alude el inciso anterior, sufrirá la pena de presidio menor en su grado máximo y multa de cien a doscientas unidades tributarias mensuales.
 
 #### Artículo 23°
 
