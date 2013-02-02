@@ -142,6 +142,14 @@ g) Regulación de las dimensiones y características de los aparejos de pesca de
 
 Con el objeto de asegurar una protección eficaz a las especies cuyo ciclo vital se desarrolle tanto en aguas terrestres como marítimas, las medidas de administración que se adopten a su respecto deberán establecerse con la debida coordinación de las autoridades correspondientes. Si en el sector de aguas terrestres han sido declaradas una o más áreas preferenciales, de conformidad con lo dispuesto en el Título IV de esta ley, las autoridades correspondientes deberán dictar para las demás áreas, en el más breve plazo, las medidas de administración que complementen las contempladas en el plan de manejo respectivo.
 
+#### Artículo 7º bis
+
+Medidas sanitarias y de bioseguridad. Con el objeto de evitar la introducción y propagación, de aislar la presencia o de propender a la erradicación de enfermedades de alto riesgo y de especies hidrobiológicas que constituyan o puedan constituir plagas de conformidad con el reglamento a que se refiere el artículo 86 de la Ley General de Pesca y Acuicultura, la Subsecretaría establecerá, cuando corresponda, la obligación de implementar una o más restricciones de uso o medidas de desinfección de aparejos de pesca recreativa, vestimenta, calzado, equipamiento y embarcaciones que se utilicen en dicha actividad o en otras actividades deportivas o recreacionales de carácter náutico que se realicen en los cuerpos y cursos de agua terrestre o en las áreas marítimas que determine mediante resolución fundada, de las previstas en el reglamento que al efecto dicte el Ministerio.
+
+Asimismo, el reglamento a que se refiere el inciso primero podrá establecer, con el mismo objeto precedentemente señalado, restricciones de uso, prohibiciones de ingreso y medidas de desinfección que se aplicarán al ingreso al país, respecto de los aparejos de pesca recreativa, señuelos y carnadas, vestimenta, calzado, equipamiento y embarcaciones que señale el mismo reglamento y que se utilicen en la actividad de pesca recreativa o en otras actividades deportivas o recreacionales náuticas que se realicen en los cursos y cuerpos de agua terrestre o en aguas marítimas.
+
+Las prohibiciones antes señaladas deberán fundarse en la circunstancia de que los implementos provengan de países afectados por enfermedades de alto riesgo o plagas.
+
 #### Artículo 8º
 
 Medidas de conservación de la Ley General de Pesca y Acuicultura. Sin perjuicio de lo dispuesto en el artículo anterior, en el ejercicio de la pesca recreativa deberán respetarse las prohibiciones y medidas de administración aplicables a la pesca extractiva, adoptadas en conformidad con lo dispuesto en la Ley General de Pesca y Acuicultura.
@@ -474,6 +482,8 @@ Construcción de un coto de pesca artificial. El Ministerio Secretaría General 
 
 Condiciones de ejercicio de la pesca recreativa en cotos de pesca. Las personas que desarrollen actividades de pesca recreativa en los cotos de pesca estarán exentas del cumplimiento de las condiciones generales establecidas en el Título II y de las medidas de administración adoptadas de acuerdo a lo dispuesto en el Título III de esta ley.
 
+Sin perjuicio de lo dispuesto en el inciso anterior, se aplicarán a la actividad de pesca recreativa que se realice en los cotos de pesca las medidas que se dicten de conformidad con el artículo 7° bis.
+
 #### Artículo 34
 
 Siembra y repoblación en cotos de pesca. La siembra o repoblación de especies hidrobiológicas en los cotos de pesca será autorizada por el Director Zonal, en la forma establecida en el artículo 11 de la presente ley.
@@ -649,6 +659,8 @@ d) Construir un coto de pesca sin cumplir con las medidas de protección al medi
 e) Realizar actividades de pesca recreativa en áreas preferenciales, sin el permiso especial a que se refiere el artículo 27.
 
 f) Realizar actividades de pesca recreativa en áreas preferenciales en contravención al plan de manejo vigente.
+
+g) Realizar cualquier tipo de actividad que introduzca en una cuenca especies hidrobiológicas que constituyan plagas, contraviniendo lo dispuesto en el artículo 7° bis.
 
 #### Artículo 51
 
