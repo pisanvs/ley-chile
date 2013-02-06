@@ -1,0 +1,3 @@
+Por resolución exenta Nº 259, de 31 de enero de 2013, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.318, modificada por resolución exenta Nº 2.825, ambas de 2003, que autorizó a Pesquera El Golfo S.A., hoy BLUMAR S.A., para ampliar actividades pesqueras extractivas con la nave "Bronco", respecto del recurso hidrobiológico Jibia en el área marítima comprendida entre la III a VII y IX a X Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 31 de enero de 2013. - Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
