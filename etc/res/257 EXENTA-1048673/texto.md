@@ -1,0 +1,3 @@
+Por resolución exenta Nº 257, de 31 de enero de 2013, de esta Subsecretaría, rectifícase la resolución exenta Nº 1.490 de 2012 y de esta Subsecretaría de Pesca y Acuicultura, que estableció la nómina definitiva de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refiere el artículo 3º de la Ley Nº 20.560, en el sentido de incorporar en su numeral 4.- a las personas indicadas en resolución extractada.
+
+Valparaíso, 31 de enero de 2013. - Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
