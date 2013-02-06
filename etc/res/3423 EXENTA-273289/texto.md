@@ -140,9 +140,9 @@ PP-TZ-003, estará determinada por la normativa de los programas oficiales del S
 
 19. Deróguese la resolución exenta N° 2862 de 2006, de la Dirección Nacional.
 
-20. Todos los bovinos y bubalinos nacidos a partir del 1 de enero del año 2013, deberán ser identificados con el Dispositivo de Identificación Individual Oficial (DIIO) con radiofrecuencia (RFID), antes de los 6 meses de vida o antes de su salida del establecimiento de origen (nacimiento).
+### 20. DEROGADO
 
-21. Todos los bovinos y bubalinos nacidos antes del 1 de enero del año 2013, deberán ser identificados con un Dispositivo de Identificación Individual Oficial (DIIO), antes del 1 de julio del año 2013.
+### 21. DEROGADO
 
 22. El Servicio sólo habilitará empresas proveedoras de DIIO con radiofrecuencia. Las empresas que ya han sido habilitadas como proveedoras, podrán solicitar sólo rangos para este tipo de DIIO.
 
