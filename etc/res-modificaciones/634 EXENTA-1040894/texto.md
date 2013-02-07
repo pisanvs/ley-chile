@@ -16,6 +16,8 @@ Resuelvo:
 
 1°. Modifícase la fecha de aplicación para el protocolo de ensayos para la certificación de Seguridad y Desempeño correspondiente al producto eléctrico aprobado mediante las resoluciones exentas N° 1.978, de 2010 y N° 2.160, de 2011, de acuerdo a la fecha que se señala a continuación:
 
+TABLA
+
 2°. Para poder comercializar en el país el producto eléctrico indicado en la Tabla anterior, los fabricantes, importadores y comercializadores de los mismos, deberán verificar el cumplimiento de los requerimientos de seguridad y desempeño, mediante la realización de los ensayos aprobados a través del protocolo de ensayos P.E. N° 5/10, de esta Superintendencia, según corresponda, con la certificación otorgada por algún Organismo de Certificación autorizado por SEC a partir de la fecha de aplicación antes señalada.
 
 Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
