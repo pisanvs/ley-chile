@@ -228,6 +228,16 @@ Para proceder a la adscripción de estas familias, el beneficiario deberá firma
 
 9. Tratándose de proyectos de construcción en sitio propio, cuando el beneficiario, con la autorización de la inspección técnica de obras y del Serviu, o el Serviu correspondiente, pongan término al contrato de construcción por causas no imputables al beneficiario y de común acuerdo Serviu y el beneficiario dispongan la contratación de una nueva empresa constructora, previamente seleccionada por dicho servicio para hacerse cargo de la terminación del proyecto, Serviu podrá, previo informe del Departamento Técnico, asignar un subsidio complementario por el monto necesario para la terminación de las obras. Esto deberá ser informado oportunamente a la División de Política Habitacional y al Comité de Reconstrucción del Ministerio de Vivienda y Urbanismo, para las operaciones de contabilidad y seguimiento de obras. Todo lo anterior sin perjuicio de perseguir las responsabilidades de quien corresponda.
 
+10. La Asistencia Técnica, Jurídica y Social también podrá ser desarrollada por una empresa constructora, que se encuentre inscrita en los registros regulados por el DS N° 127 (V. y U), de 1977, o en el DS N° 63 (V. y U.), de 1997, previa suscripción de Convenio Ad Referéndum con Serviu para estos fines, pudiendo la empresa percibir los honorarios correspondientes a las tareas indicadas en los artículos 2° y 6° de la resolución N° 533 (V. y U.), de 1997, así como también, los productos detallados en la Tabla de Actividades Extraordinarias asociada a proyectos patrimoniales, inserta en la presente resolución en el inciso 3° de la letra q) del Resuelvo 3. En este caso se autoriza al Serviu respectivo para realizar o contratar la Inspección Técnica de Obras correspondiente, de acuerdo al Programa Fondo Solidario de Vivienda, regulado por el DS N° 174 (V. y U.), de 2005.
+
+Para la aplicación de lo indicado en el inciso anterior, la elección de la empresa constructora que pueda desarrollar dicha asesoría,
+
+corresponderá al beneficiario o comité interesado, conforme la orientación que el Serviu le entregue acerca de la calificación, categoría y capacidad de la misma, según los registros y sistemas existentes.
+
+En el caso que parte de las funciones de Asistencia Técnica hayan sido desarrolladas previamente por alguna Entidad de Gestión Inmobiliaria Social o Prestador de Servicios de Asistencia Técnica, se pagará lo efectivamente ejecutado, siendo las actividades pendientes asumidas por la empresa constructora.
+
+En cuanto al Convenio Ad-Referéndum y el Contrato de Construcción a desarrollar para estos efectos, se faculta al Departamento Jurídico del Serviu para la formulación y elaboración de los respectivos formatos.
+
 > **Nota.** La letra e) del numeral 4 de la Resolución 4821 Exenta, Vivienda, publicada el 17.08.2011 modifica la presente norma en el sentido de reemplazar en la tabla inserta en la fila N° 13 por aquella que la norma indica.
 
 > **Nota.** NOTA 1 La letra a) del numeral 2 de la Resolución 3364 Exenta, Vivienda, publicada el 07.05.2012, modifica el inciso segundo de la letra o del numeral 3 de la presente norma, en el sentido de eliminar la frase que la citada norma indica, sin embargo, omitió eliminar la "," (coma) que antecede a la frase eliminada.
