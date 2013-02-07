@@ -32,7 +32,7 @@ Placa Única : BYPR.25-9
 
 #### Artículo segundo
 
-El vehículo señalado precedentemente deberá circular con el disco distintivo establecido en el artículo 3º del decreto ley Nº 799 de 1974.
+Derogado.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.- Edmundo Pérez Yoma, Ministro del Interior.
 
