@@ -22,8 +22,6 @@ Resolución:
 
 3. Los recursos involucrados para la selección de los proyectos postulantes en el concurso establecido en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
-.
-
 4. El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 5. No podrán participar en este llamado aquellos proyectos referidos al Título III, Ampliación de la Vivienda y a la letra b.5) del Título II del artículo 5° del DS Nº 255 (V. y U.), de 2006, relativos a Obras de Innovaciones de Eficiencia Energética.
