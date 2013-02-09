@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO DE SUJETO DE DERECHO DE IVA A PESQUERA Y ACUÍCOLA VITACHILE LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº77313014559 de fecha 28-01-2013, otorga a contar del 1º del mes siguiente al de esta publicación, al contribuyente Pesquera y Acuícola Vitachile Limitada RUT Nº 76.852.490-4, la calidad de Agente Retenedor del Impuesto al Valor Agregado, en la comercialización de especies hidrobiológicas, establecido en la resolución Ex. Nº 3.311, de 2000, de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1º de julio de 2000.
