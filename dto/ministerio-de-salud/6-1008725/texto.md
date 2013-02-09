@@ -388,7 +388,7 @@ Previa autorización de la autoridad sanitaria competente, los establecimientos 
 
 #### Artículo 33
 
-Los elementos cortopunzantes deberán eliminarse en contenedores rígidos resistentes a la rotura por acción del material contenido.
+Los elementos cortopunzantes deberán eliminarse en contenedores rígidos resistentes a la rotura por acción del material contenido. No obstante las agujas se podrán eliminar en el punto de generación directamente en equipos que la destruyan mediante pulverización o fundición.
 
 #### Artículo 34
 
