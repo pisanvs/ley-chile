@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.229 EXENTA, DE 2012
+
+Por resolución exenta Nº 6.229, de fecha 18 de diciembre de 2012, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Instituto de Gestión del Transporte SpA", cuyo nombre de fantasía es "IGT SpA", RUT Nº 76.130.549-2, representada legalmente por el señor Rafael Sotomayor Santa Cruz, para impartir el curso conducente a la obtención de licencia de conductor profesional Clase A3, en la sede de ésta ubicada en Corte Suprema Nº 195, comuna de Santiago, y taller mecánico ubicado en San Eugenio Nº 40, comuna de Ñuñoa.
+
+- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
