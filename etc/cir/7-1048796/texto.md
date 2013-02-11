@@ -1,0 +1,5 @@
+EXTRACTO DE CIRCULAR Nº 7, DEL 6 DE FEBRERO DE 2013, QUE IMPARTE INSTRUCCIONES RELATIVAS A APLICACIÓN DE AJUSTES AL AVALÚO DE TERRENO A CASOS PARTICULARES DE BIENES RAÍCES NO AGRÍCOLAS NO HABITACIONALES REAVALUADOS
+
+Por la presente circular se norma la aplicación excepcional de ajustes al avalúo del terreno de aquellos bienes raíces reavaluados conforme a lo dispuesto en la ley Nº 20.650, cuyos valores se encuentran definidos mediante resolución exenta SII Nº132, de 31/12/2012, que presentan características no consideradas en la determinación del valor del Área Homogénea correspondiente a su ubicación, por lo que no están registradas en la respectiva ficha descriptiva, como también por hechos o situaciones posteriores a la entrada en vigencia del reavalúo, siempre que afecten negativamente el valor del terreno.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet, www.sii.cl, y se incluirá en el Boletín del SII correspondiente al mes de febrero de 2013.
