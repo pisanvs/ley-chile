@@ -1,0 +1,3 @@
+Por resolución exenta Nº 291, de 1 de febrero de 2013, de esta Subsecretaría, modifícase la resolución exenta Nº 172, de 2012, de esta Subsecretaría que autorizó a la UNIVERSIDAD DE CONCEPCIÓN, para efectuar una pesca de investigación de prospección, de conformidad con los términos técnicos de referencia del proyecto denominado "Ecología y biología del Lobo marino común Otaria flavescens en el Santuario Islote Lobería de Cobquecura: fase 2012", en el sentido de ampliar su vigencia hasta el 23 de julio de 2013.
+
+Valparaíso, 1 de febrero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
