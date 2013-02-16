@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA A INVERSIONES LA CUMBRE LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77313014576 de fecha 28/01/2013, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Inversiones La Cumbre Limitada, RUT Nº 76.926.660-7, la calidad de Agente Retenedor del Impuesto al Valor Agregado, en la comercialización de venta de ganado vivo, establecido en la resolución Ex. Nº3.721 del 28.07.2000 de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1º de agosto de 2000.
