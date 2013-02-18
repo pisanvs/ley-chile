@@ -26,7 +26,19 @@ reconocidas oficialmente como
 
 libres de Xanthomonas
 
-axonopodis pv citri, o,
+axonopodis pv. citri, y
+
+Candidatus Liberibacter
+
+asiaticus, indicando el
+
+Estado/Condado de procedencia
+
+de las semillas en el
+
+Certificado Fitosanitario.
+
+O
 
 El envío ha sido sometido a un
 
@@ -42,11 +54,13 @@ hipoclorito de sodio (200 ppm)
 
 por 2 minutos, con un pH de
 
-6.0 a 7.5. Posteriormente
+6.0 a 7.5. Las semillas
 
-deben ser lavadas en agua y
+posteriormente deben ser
 
-secadas
+lavadas en agua y
+
+secadas.
 
 Corylus avellana La partida se encuentra libre
 
