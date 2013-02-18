@@ -26,7 +26,7 @@ reconocidas oficialmente como
 
 libres de Xanthomonas
 
-axonopodis pv citri, o, el
+axonopodis pv. citri, o el
 
 envío ha sido sometido a un
 
@@ -42,11 +42,25 @@ hipoclorito de sodio (200 ppm)
 
 por 2 minutos, con un pH de
 
-6.0 a 7.5. Posteriormente
+6.0 a 7.5. Las semillas
 
-deben ser lavadas en agua y
+posteriormente deben ser lavadas
 
-secadas
+en agua y secadas.
+
+El envío proviene de áreas
+
+reconocidas oficialmente como
+
+libres de Candidatus Liberibacter
+
+africanus, Candidatus
+
+Liberibacter americanus,
+
+Candidatus Liberibacter
+
+asiaticus, y Xylella fastidiosa.
 
 Corylus avellana La partida se encuentra libre
 
@@ -354,7 +368,7 @@ Tomato black ring virus y
 
 Peach rosette mosaic virus.
 
-2. Se aceptará como declaración adicional alternativa, que la partida proviene de un área o país libre de una plaga.
+2. Se aceptará como declaración adicional alternativa, que "La(s) plaga(s)(especificar plaga(s)) no está(n) presente(s) en (indicar país de origen)".
 
 3. Se considerará como tratamiento cuarentenario para el control de las plagas mencionadas, lo siguiente:
 
