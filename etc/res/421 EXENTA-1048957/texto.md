@@ -1,0 +1,3 @@
+Por resolución exenta Nº 421, de 13 de febrero de 2013, de esta Subsecretaría, recházanse las solicitudes Nº 210106014, 211101075, 211101077, 212031004, 211101082, 211101089, 210106006, 211101107, 211101108 y 211106016, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de febrero de 2013.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
