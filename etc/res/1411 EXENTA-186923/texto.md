@@ -24,9 +24,11 @@ mcdanieli, Tetranychus pacificus
 
 Platynota stultana (Lep. Tortricidae);
 
-Homalodisca
+Homalodisca coagulata, Erythroneura spp.
 
-coagulata, Erythroneura spp. (Hem. Cicadellidae).
+(Hem. Cicadellidae), Planococcus ficus
+
+(Hem. Pseudococcidae)
 
 ii) El envío ha sido sometido a un tratamiento
 
