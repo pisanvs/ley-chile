@@ -36,11 +36,11 @@ b) Región de Antofagasta
 
 c) Región de Valparaíso:
 
-1.- Tomás Ochoa Capelli (Seremi de Planificación, Región de Valparaíso).
+1. María de los Ángeles de la Paz Riveros (Seremi de Desarrollo Social, Región de Valparaíso).
 
-2.- María Isabel Ancarola Mery (Seremi de Justicia, Región de Valparaíso).
+### 2. María Isabel Ancarola Mery (Seremi de Justicia, Región de Valparaíso)
 
-3.- Paola La Rocca Mattar (Seremi de Bienes Nacionales, Región de Valparaíso).
+3. Paola La Rocca Mattar (Seremi de Bienes Nacionales, Región de Valparaíso).
 
 d) Región del Libertador General Bernardo O'Higgins
 
@@ -60,11 +60,11 @@ e) Región del Maule:
 
 f) Región del Biobío:
 
-1.- Alejandro Reyes Schwartz (Seremi del Trabajo y Previsión Social, Región del Biobío).
+1. Claudia Hurtado Espinoza (Seremi de Desarrollo Social, Región del Biobío).
 
-2.- María Pilar Gutiérrez Rivera (Seremi de Bienes Nacionales, Región del Biobío).
+### 2. Luis Ulloa Bellemans (Seremi de Minería, Región del Biobío)
 
-3.- Sergio Giacaman García (Seremi de Planificación, Región del Biobío).
+### 3. Claudio Silva González (Seremi de Transportes, Región del Biobío)
 
 g) Región de Los Lagos:
 
