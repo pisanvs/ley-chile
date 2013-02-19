@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 889 EXENTA, DE 2013
+
+Mediante resolución exenta Nº 889, de 8 de febrero de 2013, el Servicio Nacional de Capacitación y Empleo, resolución exenta Nº 6.543, de 19 de octubre de 2007, que autorizó a la entidad "Centro de Capacitación Estudio Munzenmayer Limitada (Mundo Capacita Limitada)", RUT 76.550.810-K, para actuar como Organismo Técnico de Capacitación de este Servicio Nacional. Modificada por resolución exenta Nº 3.538 de fecha 13 de abril de 2010, en el sentido de cambio de razón social, pasará a denominarse "Centro de Capacitación & Estudio Mundo Capacita Limitada (Mundo Capacita Limitada)", RUT 76.550.810-K, dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad antes señalada, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la ley 19.518.-
+
+Juan Bennett Urrutia, Director Nacional (PT).
