@@ -1,0 +1,3 @@
+Por resolución exenta Nº 420, de 13 de febrero de 2013, de esta Subsecretaría, recházanse las solicitudes números 211104003, 211122057 y 207101102, señaladas en la resolución extractada y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 13 de febrero de 2013.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
