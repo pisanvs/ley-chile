@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 882 EXENTA, DE 2013
+
+Mediante resolución exenta Nº 882, de 8 de febrero de 2013, el Servicio Nacional de Capacitación y Empleo dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "TWI Capacitación Limitada (TWI Capacitación Ltda.)", RUT 76.051.063-7, autorizada por resolución exenta Nº 1.408, de 29 de enero de 2010, de este Servicio Nacional para actuar como Organismo Técnico de Capacitación. Se modifica por resolución exenta Nº 13.487, de fecha 16 de diciembre de 2010, en el sentido que el Organismo Técnico de Capacitación antes aludido pasará a denominarse "Emprender Capacitación Limitada" (Emprender Ltda.), RUT 76.051.063-7; también se modifica la antes referida resolución exenta, en el sentido que el Representante Legal de la Sociedad será por el Directorio. Y modificada por resolución exenta Nº 6.798, de fecha 29 de julio de 2011, por cambio de Representante Legal.-
+
+Juan Bennett Urrutia, Director Nacional (PT).
