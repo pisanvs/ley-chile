@@ -34,10 +34,6 @@ Las Normas Técnicas que se aprueban a través del presente decreto, comenzarán
 
 > **Nota.** El numeral 3 del Decreto 31 Exento, Salud, publicado el 20.02.2013, ordena actualizar las Normas Técnicas Operativas de Certificación de las Especialidades y Subespecialidades Médicas y Odontológicas, incorporando a continuación de su texto actual un apartado titulado: "REQUISITOS ESPECÍFICOS DE POSTULACIÓN: DESCRIPCIÓN DE ASPECTOS TÉCNICOS Y CONOCIMIENTOS MÍNIMOS PARA LA CERTIFICACIÓN DE ESPECIALIDADES Y SUBESPECIALIDADES MÉDICAS Y ODONTOLÓGICAS", cuyo texto se adjunta a este decreto y se entiende parte integrante del mismo.
 
-> **Nota.** NOTA 1 El numeral 1 del Decreto 65 Exento, Salud, publicado el 03.03.2017, modifica la presente norma. Sin embargo, no se ha podido realizar la actualización por no encontrarse disponible su texto.
-
-> **Nota.** NOTA 2 El numeral 5° del Decreto 284 Exento, Salud, publicado el 11.12.2017, modifica la presente norma en el sentido de reemplazar el título "B.1.01 Cirugía y traumatología buco maxilofacial". Sin embargo, no se ha podido realizar la actualización por no encontrarse disponible su texto.
-
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 
 Transcribo para su conocimiento decreto exento Nº 489, de 28-12-2012.- Saluda atentamente a Ud., Jorge Díaz Anaiz, Subsecretario de Salud Pública.
