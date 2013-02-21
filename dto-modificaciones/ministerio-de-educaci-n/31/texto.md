@@ -1,6 +1,6 @@
 MODIFICA DECRETO Nº 80, DE 1983, EN EL SENTIDO DE AMPLIAR MONUMENTO HISTÓRICO "ACUEDUCTO DE AMOLANAS", UBICADO EN LA COMUNA DE TIERRA AMARILLA, PROVINCIA DE COPIAPÓ, REGIÓN DE ATACAMA
 
-Núm. 41.- Santiago, 18 de enero de 2013.- Considerando:
+Núm. 31.- Santiago, 18 de enero de 2013.- Considerando:
 
 Que, el Consejo de Monumentos Nacionales recibió la solicitud del Gobierno Regional de Atacama, para ampliar el monumento histórico "Acueducto de Amolanas" declarado como tal mediante el decreto supremo Nº 80, de 1983, de esta Secretaría de Estado, ubicado en la comuna de Tierra Amarilla, provincia de Copiapó, Región de Atacama;
 
