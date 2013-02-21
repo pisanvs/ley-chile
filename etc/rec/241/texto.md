@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.488, de 18 de febrero de 2013, se publicó decreto número 31, de fecha 18/01/2013, MODIFICA DECRETO Nº 80, DE 1983, EN EL SENTIDO DE AMPLIAR MONUMENTO HISTÓRICO "ACUEDUCTO DE AMOLANAS", UBICADO EN LA COMUNA DE TIERRA AMARILLA, PROVINCIA DE COPIAPÓ, REGIÓN DE ATACAMA, con el error que se salva a continuación: Cuerpo I, página dos, primera columna, primer párrafo, donde dice "... Núm. 41.- Santiago, 18 de enero de 2013 ..." debe decir: "... Núm. 31.- Santiago, 18 de enero de 2013 ...".
