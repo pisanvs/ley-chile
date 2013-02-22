@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.021 EXENTA, DE 2013
+
+Mediante resolución exenta Nº 1.021, de 13 de febrero de 2013, el Servicio Nacional de Capacitación y Empleo, la resolución exenta Nº 4.558, de 19 de diciembre de 2006, que autorizó a la entidad "Sociedad de Capacitación Equipo Cuatro S.A. (Equipo Cuatro Capacitación S.A.)", RUT 76.578.690-8, para actuar como Organismo Técnico de Capacitación de este Servicio Nacional. Modificada por resolución exenta Nº 5.892, de fecha 11 de agosto de 2009, en el sentido de cambio de razón social y nombre de fantasía, pasará a denominarse "Sociedad de Capacitación y Desarrollo S.A. (C&D S.A.)", RUT 76.578.690-8, dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad antes señalada, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del art. 21 de la ley 19.518.-
+
+Juan Bennett Urrutia, Director Nacional (PT).
