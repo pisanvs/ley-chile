@@ -790,7 +790,7 @@ Monasterio).
 
 #### Artículo 11º
 
-La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros..
+La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros.
 
 #### Artículo 12º
 
@@ -1992,6 +1992,8 @@ ZONA C "PUEBLO SAN ENRIQUE"
 
 ZONA D "LAS PUERTAS- SAN FRANCISCO"
 
+Zona E "Equipamiento Educacional"
+
 ZONA F "LA ERMITA DE SAN ANTONIO"
 
 ZONA G "CAJON RIO MAPOCHO"
@@ -2003,6 +2005,8 @@ ZONA I "EL ARRAYAN ALTO"
 ZONA J "LA DEHESA"
 
 ZONA K "LA DEHESA ALTA"
+
+Zona L "Circunvalación Vial"
 
 ZONA M "AVDA. LA DEHESA"
 
@@ -2044,7 +2048,7 @@ abiertos de ancho entre líneas oficiales inferior a 15 mts. y calzada menor a 7
 
 al Uso Residencial.
 
-(N7) Los equipamientos que enfrenten a la Circunvalación Vial, en las vías Camino Los Trapenses tramo Valle de la Unión - José Alcalde Délano y Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo, sólo podrán desarrollarse en sitios de mínimo 10.000 m2.
+(N7) ELIMINADA.
 
 ZONA A "PUEBLO LO BARNECHEA"
 
@@ -2872,6 +2876,26 @@ U. y C. U. y C.
 
 2. Todas las calles existentes de ancho menor a 15 mts. , quedan afectadas a un ensanche hasta completar 7.5 mts. a ambos costados tomados desde el eje de la calzada.
 
+Zona E "Equipamiento Educacional"
+
+Esta zona está constituida por los sitios numerados del I. al VIII. en el listado que se incluye a continuación, los que se grafican en el plano MPRC-LB-16.
+
+EQUIPAMIENTO DE EDUCACIÓN
+
+CONDICIONES DE USO DE SUELO
+
+a.) Usos Permitidos y Restringidos
+
+a.1 Equipamiento:
+
+Nota: Se permitirán todas aquellas actividades complementarias al destino educacional.
+
+b.) Usos Prohibidos
+
+Todos aquellos que no estén expresamente permitidos.
+
+CONDICIONES DE EDIFICACIÓN
+
 ZONA F "LA ERMITA DE SAN ANTONIO"
 
 CONDICIONES DE USO DE SUELO
@@ -3398,291 +3422,13 @@ Rasante y Distanciamiento O. Gral. de U. y C.
 
 Adosamiento No
 
-a.2.2) Equipamiento de Circunvalación
-
-Se podrá construir equipamiento en los sitios que enfrentan la Circunvalación Vial formada por las
-
-siguientes vías: - - Camino Los Trapenses: tramo José Alcalde Délano - Valle de la Unión (N7) y tramo Valle de la Unión - Av. Paseo Pie Andino, este último tramo según lo graficado en el plano MPRC-LB-04.
-
-- Av. Paseo Pie Andino, desde Camino Los Trapenses hasta calle El Rodeo.
-
-- El Rodeo, desde la Av. Paseo Pie Andino hasta José Alcalde Délano.
-
-- José Alcalde Délano, desde calle El Rodeo hasta Camino Los Trapenses.
-
-No podrán acogerse a los usos de suelo que más adelante se señalan los sitios que cumplan con las siguientes condiciones:
-
-- Se eximen de esta posibilidad aquellos sitios que, enfrentando la Circunvalación Vial indicada, se ubican en la vereda norte Avda. José Alcalde Délano entre el Estero Las Hualtatas y fondos de sitios de casas al poniente de la calle La Mañana y los sitios en la cuadra oriente de Camino Los Trapenses entre esquina Parque Las Pataguas a el límite norte del loteo Las Pataguas. El equipamiento permitido con frente a la Circunvalación Vial será de las siguientes clases y actividades, según los tramos que a continuación se indican:
-
-i) Camino Los Trapenses, tramo Valle de la Unión - Av. Paseo Pie Andino, según lo graficado en el plano MPRC-LB-04:
-
-Equipamiento
-
-Clase Actividad
-
-Educación Educación Media
-
-Educación Básica
-
-Jardines Infantiles
-
-Parvularios
-
-Culto Bibliotecas
-
-Cultura Salas de concierto
-
-Auditorios
-
-Teatros
-
-Casa de la Cultura
-
-Museos
-
-Social J. de Vecinos
-
-C. de Madres
-
-C. Sociales
-
-Seguridad Tenencias
-
-Retenes
-
-Bomberos
-
-Deportes Centros deportivos
-
-Piscinas
-
-Gimnasios
-
-Comercio (N4) Centros Comerciales
-
-Supermercados
-
-Locales comerciales
-
-Centros de Servicio Automotriz
-
-Locales de venta de combustibles
-
-líquidos Restaurantes
-
-Fuentes de soda
-
-Servicios (N4) Oficinas en general (abogados,
-
-dentistas, notarios, etc.)
-
-Bancos
-
-Correos
-
-Telégrafos
-
-Servicios de utilidad pública
-
-Lavanderías
-
-Peluquerías
-
-Costurerías y modas
-
-Servicios artesanales (reparación de
-
-objetos diversos)
-
-ii) Circunvalación Vial: Av. Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo; El Rodeo tramo Paseo Pie Andino - J.A. Délano; José Alcalde Délano tramo El Rodeo - Camino Los Trapenses, y Camino Los Trapenses, tramo José Alcalde Délano - Valle La Unión:
-
-El equipamiento permitido con frente a la Circunvalación Vial será de los siguientes tipos:
-
-Tipo Equipamiento
-
-Salud (N4) Clínicas
-
-Postas
-
-Consultorios
-
-Educación Universidades
-
-Liceos
-
-Academias
-
-Institutos
-
-Colegios
-
-Escuelas Básicas
-
-Jardines Infantiles
-
-Parvularios
-
-Culto Bibliotecas
-
-Cultura Salas de concierto
-
-Auditorios
-
-Teatros
-
-Casa de la Cultura
-
-Templos
-
-Parroquias
-
-Capillas
-
-Cines
-
-Museos
-
-Jardines botánicos
-
-Social J. de Vecinos
-
-C. de Madres
-
-C. Sociales
-
-Seguridad Comisarías
-
-Tenencias
-
-Retenes
-
-Bomberos
-
-Deportes Centros deportivos
-
-Piscinas
-
-Gimnasios
-
-Esparcimiento Juegos electrónicos
-
-Comercio (N4) Centros Comerciales
-
-Supermercados
-
-Grandes tiendas
-
-Locales comerciales
-
-Centros de servicio automotriz
-
-Locales de venta de combustibles
-
-líquidos
-
-Discotecas
-
-Restaurantes
-
-Hosterías
-
-Hoteles
-
-Fuentes de soda
-
-Servicios (N4) Municipio
-
-Oficinas en general, (abogados,
-
-dentistas, notarios, etc.)
-
-Bancos
-
-Correos
-
-Telégrafos
-
-Servicios de utilidad pública
-
-Lavanderías
-
-Peluquerías
-
-Gasfiterías
-
-Costurerías y modas
-
-Jardines de plantas
-
-Talleres menores Servicios artesanales CONDICIONES DE SUBDIVISION Y EDIFICACION
-
-USO DE SUELO EQUIPAMIENTO CIRCUNVALACION
-
-Superficie Predial Mínima 10.000 m2
-
-Frente Predial Mínimo 50 mts
-
-Antejardín Mínimo 5 mts
-
-Coeficiente de Ocupación
-
-de Suelo Máx. 0,6
-
-Coeficiente
-
-Constructibilidad Máxima 1,0
-
-Sistema de Agrupamiento Aislada
-
-Altura Máxima 20 mts (5 pisos)
-
-Rasante y Distanciamiento
-
-Con vivienda 45° y 17.50 mts
-
-Con equipamiento 60° y 7.50 mts
-
-Adosamiento sólo en
-
-deslinde con equipamiento O. Gral. de Urb.
-
-y Construcción
-
-Nota: Para efectos de aplicar rasante y distanciamiento en deslindes hacia sitios no construidos se considerará que éstos son de equipamiento hasta 100 mts medidos desde la línea oficial de la circunvalación.
-
-1.- La avenida de circunvalación vial definida en a.2.2) se encuentra identificada en el plano PRC-LB 1 Zonificación, con la demarcación de sus líneas oficiales.
-
-2.- Todo proyecto de loteo, subdivisión o urbanización y edificación en general que enfrente la Circunvalación Vial deberá relacionarse con ésta mediante calle de servicio separada de la principal por un bandejón de área verde de mínimo 2 mts de ancho.
-
-3.- Las construcciones destinadas a equipamiento no podrán disponer de accesos vehiculares y/o peatonales, por calles laterales o posteriores, debiendo en todos los casos respetar el antejardín de éstas y forestarlo. En el caso que se disponga de una vía lateral interior de salida hacia el frente del predio, se deberá impedir toda conexión con la vía residencial mediante un cierro y respetar el antejardín y forestarlo.
-
-4.- Los sitios que, enfrentando la Circunvalación Vial, no cumplan con la superficie ni el frente mínimo por estar limitados por vialidad y/o áreas verdes públicas, existentes o proyectadas en el instrumento de planificación comunal, podrán desarrollar proyectos de equipamiento si cumplen con las demás normas establecidas.
-
-5.- En los sitios de una o más hectáreas de superficie que enfrenten la Circunvalación Vial se podrá desarrollar proyectos de loteos y subdivisiones destinados a equipamientos, si el terreno total cumple con todas las normas establecidas y los sitios resultantes quedan destinados en forma exclusiva y permanente al uso de suelo de equipamiento según el cuadro del punto a.2.2) condición de subdivisión y edificación.
-
-6.- Igualmente, en un conjunto de sitios existentes, construidos, que alcancen una superficie total de una o más hectáreas y que enfrenten la Circunvalación Vial en no menos de 50 mts., se podrá desarrollar un proyecto total de equipamiento, empleando cambios de destino si fuere necesario, siempre que el proyecto total cumpla como conjunto con las normas generales establecidas.
-
-En este caso no será obligatoria la fusión de los sitios, pero cada uno de ellos quedará destinado en forma exclusiva y permanente al uso de suelo de equipamiento según el cuadro del punto a.2.2)
-
-7.- Los casos, establecidos en los puntos 4, 5 y 6 precedentes, podrán aplicarse simultáneamente y se regirán por las normas sobre subdivisión y edificación establecidas en el cuadro del punto a.2.2)
-
-8.- Queda expresamente prohibido en terrenos con uso de suelo residencial exclusivo, otros usos y actividades entre ellas, el desarrollo de actividades complementarias al uso de equipamiento tales como carga y descarga de materiales e insumos, disposición y acopio de materiales, insumos y residuos, patio de maniobras, instalación de elementos publicitarios y otros. Dichas actividades sólo podrán desarrollarse en sitios con uso de suelo equipamiento.
+a.2.2) ELIMINADO.
 
 a.3) Areas Verdes
 
 Todo proyecto de área verde deberá ser ejecutado por un profesional especialista y aceptado por la Dirección de Aseo y Ornato en forma previa a la autorización de la Dirección de Obras.
 
-a.4) Actividades productivas
-
-Se permiten las actividades productivas clasificadas como inofensivas por el Servicio de Salud correspondiente y previa autorización del Director de Obras Municipal (OGUC Art. 2.1.28, inciso 2º).
-
-Sin perjuicio de las normas del artículo 4.14.2, capítulo 14 del título 4 de la OGUC las actividades productivas declaradas inofensivas se asimilarán a las disposiciones establecidas para Equipamiento, clases comercio o servicios, cuando se acredite que no producirán molestias al vecindario.
-
-a.5) Infraestructura
-
-Se permite el uso de terminales de locomoción colectiva urbana categoría B con hasta 30 vehículos usuarios y 4 estacionamientos.
-
-a.6) Espacio Público (Artículo 2.1.30. , Capítulo 1, Título 2 OGUC)
+a.4) Espacio Público (Artículo 2.1.30. , Capítulo 1, Título 2 OGUC)
 
 b.) Usos Prohibidos
 
@@ -3731,6 +3477,76 @@ Densidad bruta máxima 19 h/h
 Rasante y distanciamiento O. Gral de U. y C.
 
 Adosamientos No
+
+Zona L "Circunvalación Vial"
+
+CONDICIONES DE USO DE SUELO
+
+a.) Usos permitidos y restringidos
+
+a.1) Residencial
+
+a.2) Equipamiento:
+
+El equipamiento permitido en la Circunvalación Vial será de las siguientes clases y actividades, según los tramos que a continuación se indican:
+
+i) Camino Los Trapenses, tramo Valle de la Unión – Av. Paseo Pie Andino:
+
+.
+
+ii) Av. Paseo Pie Andino tramo Camino Los Trapenses – El Rodeo; El Rodeo tramo Paseo Pie Andino – J.A. Délano; José Alcalde Délano tramo El Rodeo – Camino Los Trapenses; y Camino Los Trapenses, tramo José Alcalde Délano – Valle La Unión:
+
+.
+
+La Zona L "Circunvalación Vial" se encuentra graficada en el plano MPRC-LB-18.
+
+a.3) Áreas verdes
+
+a.4) Actividades productivas
+
+Se permiten las actividades productivas clasificadas como inofensivas por el Servicio de Salud correspondiente.
+
+a.5) Infraestructura
+
+Se permiten los terminales de locomoción colectiva urbana categoría B con hasta 30 vehículos usuarios y 4 estacionamientos.
+
+a.6) Espacio Público
+
+b.) Usos de Suelo Prohibidos
+
+Todos aquellos que no estén expresamente permitidos o que no cumplan con las exigencias establecidas para los usos restringidos. En forma explícita se prohíben las plantas de tratamiento de aguas servidas.
+
+CONDICIONES DE SUBDIVISIÓN
+
+La superficie predial mínima establecida en el siguiente cuadro, es una norma urbanística aplicable solo a los procesos de urbanización del suelo, relativos a los casos en que se solicite la subdivisión, loteo o división afecta de un determinado predio.
+
+.
+
+CONDICIONES DE EDIFICACIÓN
+
+.
+
+Sub-zona L1 "Densificación Circunvalación Vial"
+
+Corresponde al subsector residencial exclusivo dentro de la Circunvalación Vial, graficado en el Plano MPRC-LB-18.
+
+CONDICIONES DE USO DE SUELO
+
+a.) Usos Permitidos
+
+a.1) Residencial
+
+CONDICIONES DE SUBDIVISIÓN
+
+.
+
+CONDICIONES DE EDIFICACIÓN
+
+.
+
+b.) Usos de Suelo Prohibidos
+
+Todos aquellos que no estén expresamente permitidos o que no cumplan con las exigencias establecidas para los usos restringidos. En forma explícita se prohíbe el uso de suelo equipamiento.
 
 ZONA M "AVDA. LA DEHESA"
 
@@ -4057,3 +3873,5 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 > **Nota.** NOTA 8 El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
 
 > **Nota.** NOTA 9 La letra C) del Artículo Único del Nº 1 del Decreto 998, Municipalidad de Lo Barnechea, publicado el 09.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años las declaratorias de utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro del artículo 11º.
+
+> **Nota.** NOTA 10 La letra b) del artículo 2° del Decreto 314, M. de Lo Barnechea, publicado el 26.01.2013, reemplaza en el cuadro "Sistema Vial Comunal" del presente artículo las filas correspondientes a las vías L14 Comandante Malbec y L28 Robles, por las indicadas en la citada norma.
