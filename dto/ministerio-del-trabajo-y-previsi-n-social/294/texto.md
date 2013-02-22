@@ -88,6 +88,22 @@ Conductor : Juan Carlos Campos
 
 Placa Patente : YZ-6259
 
+Tipo : Station Wagon.
+
+Marca : Hyundai.
+
+Modelo : New Tucson GL 2.0.
+
+Nº motor : G4KDCU790636.
+
+Nº chassis : KMHJT81BADU541591.
+
+Año : 2013.
+
+Color : Plateado.
+
+Placa patente : FHGX-74.
+
 3) Jefe de División de Administración y Finanzas
 
 Tipo : Camioneta
