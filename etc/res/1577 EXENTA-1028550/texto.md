@@ -30,31 +30,35 @@ Las disposiciones establecidas en el presente Programa Sanitario Específico se 
 
 3. DEFINICIONES
 
-Para los efectos del presente programa, se entenderá por:
+Para los efectos del presente programa, se entenderá
+
+por:
 
 3.1. Anemia Infecciosa del Salmón (ISA): Enfermedad
 
-que afecta clínicamente al Salmón del Atlántico
+que afecta clínicamente al Salmón del
 
-(Salmo salar), causada por el virus de la Anemia
+Atlántico (Salmo salar), causada por el virus
 
-Infecciosa del Salmón (virus ISA), de la Familia
+de la Anemia Infecciosa del Salmón
 
-Orthomyxoviridae.
+(virus ISA), de la Familia Orthomyxoviridae.
 
 3.2. Agrupación de concesiones (AC): Conjunto de
 
 concesiones de acuicultura que se encuentran
 
-dentro de un área apta para el ejercicio de la
+dentro de un área apta para el ejercicio de
 
-acuicultura en un sector que presenta
+la acuicultura en un sector que presenta
 
-características epidemiológicas, oceanográficas,
+características epidemiológicas,
 
-operativas o geográficas que justifican su manejo
+oceanográficas, operativas o geográficas
 
-sanitario coordinado por grupo de especies
+que justifican su manejo sanitario
+
+coordinado por grupo de especies
 
 hidrobiológicas.
 
@@ -62,29 +66,33 @@ hidrobiológicas.
 
 enfermedad en una población de peces, que
 
-presenta signología clínica consistente con ISA.
+presenta signología clínica consistente con
 
-3.4. Caso confirmado: Centro de cultivo en que, con
+ISA.
 
-arreglo a lo dispuesto en el presente programa,
+3.4. Caso confirmado: Centro de cultivo en que,
 
-se confirma la presencia del virus en, al menos,
+con arreglo a lo dispuesto en el presente
 
-una jaula o unidad epidemiológica.
+programa, se confirma la presencia del
 
-3.5. Caso sospechoso: Centro de cultivo en que, con
-
-arreglo a lo dispuesto en el presente programa,
-
-se presume la presencia del virus o de la
-
-enfermedad en, al menos, una jaula o unidad
+virus en, al menos, una jaula o unidad
 
 epidemiológica.
 
-3.6. Centro de cultivo: Lugar e infraestructura donde
+3.5. Caso sospechoso: Centro de cultivo en que,
 
-se realiza actividad de acuicultura.
+con arreglo a lo dispuesto en el
+
+presente programa, se presume la presencia
+
+del virus o de la enfermedad en, al menos,
+
+una jaula o unidad epidemiológica.
+
+3.6. Centro de cultivo: Lugar e infraestructura
+
+donde se realiza actividad de acuicultura.
 
 3.7. Centro en riesgo: Centro en que no se ha
 
@@ -96,207 +104,273 @@ manifestación clínica de la enfermedad y se
 
 encuentra dentro de una zona infectada.
 
-3.8. Centro en vigilancia: Centro en el cual no se ha
+3.8. Centro en vigilancia: Centro en el cual no
 
-detectado, con arreglo a lo dispuesto en el
+se ha detectado, con arreglo a lo dispuesto
 
-presente programa, la presencia del virus ni
+en el presente programa, la presencia del
+
+virus ni manifestación clínica de la
+
+enfermedad y se encuentra dentro de una
+
+zona de vigilancia.
+
+También se consideran dentro de esta
+
+categoría, aquellos centros en que se
+
+establezca, tras un análisis epidemiológico,
+
+que presentan mayor riesgo a desarrollar
+
+la enfermedad.
+
+3.9. Centro libre: Centro de cultivo en el cual
+
+no se ha detectado, con arreglo a lo
+
+dispuesto en el presente programa, la
+
+presencia del virus ni
 
 manifestación clínica de la enfermedad y se
 
-encuentra dentro de una zona de vigilancia.
+ubica dentro de la zona libre.
 
-También se consideran dentro de esta categoría,
+3.10. Centro negativo: Centro de cultivo en el
 
-aquellos centros en que se establezca, tras un
+cual
 
-análisis epidemiológico, que presentan mayor
+no se ha detectado con arreglo a lo dispuesto
 
-riesgo a desarrollar la enfermedad.
+en el presente programa, la presencia del
 
-3.9. Centro libre: Centro de cultivo en el cual no se
+virus ISA ni manifestación clínica de la
 
-ha detectado, con arreglo a lo dispuesto en el
+enfermedad.
 
-presente programa, la presencia del virus ni
+3.11. Certificador de desinfección: Persona natural
 
-manifestación clínica de la enfermedad y se ubica
+o jurídica inscrita en el registro a que hace
 
-dentro de la zona libre.
+referencia el DS Nº 15, de 2011, del
 
-3.10. Certificador de desinfección: Persona natural o
+Ministerio de Economía, Fomento y Turismo,
 
-jurídica inscrita en el registro a que hace
+autorizada para realizar la evaluación
 
-referencia el DS Nº 15, de 2011, del Ministerio
+técnica de los procedimientos de
 
-de Economía, Fomento y Turismo, autorizada para
+desinfección.
 
-realizar la evaluación técnica de los
+3.12. Compartimento: Designa una o varias
 
-procedimientos de desinfección.
+pisciculturas con un mismo sistema de
 
-3.11. Cosecha: Extracción de peces desde un centro de
+gestión de la bioseguridad, que contienen una
 
-cultivo cuyo destino final es el sacrificio para
+población de peces con un estatus
 
-su posterior consumo humano.
+zoosanitario particular respecto del virus
 
-3.12. Eliminación: Extracción y sacrificio de peces
+ISA y la enfermedad, sujeta a las medidas
+
+de vigilancia y control, y que cumplen con
+
+las condiciones elementales de bioseguridad.
+
+3.13. Condiciones Elementales de Bioseguridad:
+
+Designa una serie de condiciones que se
+
+aplican a una enfermedad en particular y a una
+
+zona, y que se exigen para garantizar el nivel
+
+adecuado de seguridad sanitaria, por ejemplo:
+
+la declaración inmediata a la autoridad
+
+oficial, incluyendo la sospecha de la
+
+enfermedad y el agente causal y la
+
+implementación de un sistema de detección
+
+precoz.
+
+3.14. Cosecha: Extracción de peces desde un centro
+
+de cultivo cuyo destino final es el
+
+sacrificio para su posterior consumo humano.
+
+3.15. Eliminación: Extracción y sacrificio de peces
 
 cuyo proceso de cultivo normal se ve
 
-interrumpido, sin que estos animales continúen la
+interrumpido, sin que estos animales
 
-cadena conducente a su posterior consumo humano,
+continúen la cadena conducente a su posterior
 
-pudiendo, sin embargo, ser destinados a procesos
+consumo humano, pudiendo, sin embargo, ser
 
-de ensilaje, reducción u otro sistema de
+destinados a procesos de ensilaje, reducción
 
-disposición final.
+u otro sistema de disposición final.
 
-3.13. Especie susceptible: Especie hidrobiológica en la
+3.16. Especie susceptible: Especie hidrobiológica
 
-que la infección ha sido demostrada por casos
+en la que la infección ha sido demostrada
 
-naturales o por una exposición experimental al
+por casos naturales o por una exposición
 
-agente patógeno.
+experimental al agente patógeno.
 
-3.14. Virus ISA o virus: Virus de la Anemia Infecciosa
+3.17. Virus ISA o virus: Virus de la Anemia
 
-del Salmón.
+Infecciosa del Salmón.
 
-3.15. Wellboat abierto: Nave con operación abierta, que
+3.18. Wellboat abierto: Nave con operación abierta,
 
-transporta peces vivos con circulación permanente
+que transporta peces vivos con circulación
 
-de agua que, dependiendo de las condiciones
+permanente de agua que, dependiendo de las
 
-ambientales y fisiológicas del pez, utiliza tasas
+condiciones ambientales y fisiológicas del
 
-de recambio de su volumen total de agua de 3 a 8
+pez, utiliza tasas de recambio de su volumen
 
-veces por hora.
+total de agua de 3 a 8 veces por hora.
 
-3.16. Wellboat semi-cerrado: Nave con operación abierta
+3.19. Wellboat semi-cerrado: Nave con operación
 
-que cuenta con un sistema de tratamiento de las
+abierta que cuenta con un sistema de
 
-aguas destinado a eliminar patógenos, aprobado
+tratamiento de las aguas destinado a eliminar
 
-por el Servicio.
+patógenos, aprobado por el Servicio.
 
-3.17. Wellboat cerrado: Nave con operación cerrada que
+3.20. Wellboat cerrado: Nave con operación
 
-transporta peces vivos con recirculación de agua,
+cerrada que transporta peces vivos con
 
-sin realizar intercambio con el exterior.
+recirculación de agua, sin realizar
 
-3.18. OIE: Organización Mundial de Sanidad Animal.
+intercambio con el exterior.
 
-3.19. Piscicultura: Centro de cultivo instalado en
+3.21. OIE: Organización Mundial de Sanidad Animal.
+
+3.22. Piscicultura: Centro de cultivo instalado en
 
 terrenos de propiedad privada que utiliza
 
-derechos de aprovechamiento de aguas obtenidos de
+derechos de aprovechamiento de aguas
 
-conformidad con lo dispuesto en el Código de
+obtenidos de conformidad con lo dispuesto
 
-Aguas.
+en el Código de Aguas.
 
-3.20. Reproductores: Peces que han alcanzado su madurez
+3.23. Reproductores: Peces que han alcanzado su
 
-sexual, sea que provengan del mar para desove,
+madurez sexual, sea que provengan del mar
 
-fueron desovados en temporadas anteriores y
+para desove, fueron desovados en temporadas
 
-permanecieron en agua dulce o han estado siempre
+anteriores y permanecieron en agua dulce o
 
-en agua dulce.
+han estado siempre en agua dulce.
 
-3.21. RT-PCR: Técnica diagnóstica consistente en la
+3.24. RT-PCR: Técnica diagnóstica consistente en
 
 reacción en cadena de la polimerasa con
 
-transcripción reversa.
+la transcripción reversa.
 
-3.22. RT-PCR en tiempo real: Técnica diagnóstica
+3.25. RT-PCR en tiempo real: Técnica diagnóstica
 
 consistente en la reacción en cadena de la
 
 polimerasa con transcripción reversa cuyo
 
-producto es monitoreado en tiempo real mediante
+producto es monitoreado en tiempo real
 
-una sonda fluorogénica.
+mediante una sonda fluorogénica.
 
-3.23. RT-PCR específico para virus ISA HPR 0: Técnica
+3.26. RT-PCR específico para virus ISA HPR 0:
 
-de RT-PCR en tiempo real capaz de detectar
+Técnica de RT-PCR en tiempo real capaz de
 
-específicamente la variante HPR 0 del virus ISA.
+detectar específicamente la variante HPR 0
 
-3.24. Servicio o Sernapesca: Servicio Nacional de
+del virus ISA.
+
+3.27. Servicio o Sernapesca: Servicio Nacional de
 
 Pesca.
 
-3.25. Unidad epidemiológica, unidad o UE: Designa un
+3.28. Unidad epidemiológica, unidad o UE: Designa
 
-grupo de peces en una pisciculcura, con una
+un grupo de peces en una pisciculcura, con
 
-localización definida, que tienen en común el
+una localización definida, que tienen en
 
-mismo riesgo de exposición al virus. Ello puede
+común el mismo riesgo de exposición al
 
-deberse a que compartan el mismo medio acuático o
+virus. Ello puede deberse a que compartan
 
-a que las prácticas de gestión hacen probable que
+el mismo medio acuático o a que las
 
-un agente patógeno de un grupo de animales se
+prácticas de gestión hacen probable que un
 
-transmita rápidamente a otros.
+agente patógeno de un grupo de animales
 
-3.26. Zona infectada: Zona geográfica o hidrográfica en
+se transmita rápidamente a otros.
 
-la que se ha demostrado la presencia de virus
+3.29. Zona infectada: Zona geográfica o hidrográfica
 
-ISA, y que corresponde a casos confirmados otros
+en la que se ha demostrado la presencia de
 
-HPR.
+virus ISA, y que corresponde a casos
 
-3.27. Zona libre: Zona geográfica o hidrográfica en la
+confirmados otros HPR.
 
-cual se ha demostrado la ausencia de la
+3.30. Zona libre: Zona geográfica o hidrográfica
 
-enfermedad y del virus.
+en la cual se ha demostrado la ausencia
 
-3.28. Zona de vigilancia: Zona geográfica delimitada
+de la enfermedad y del virus.
 
-por el Servicio que se sujeta a medidas de
+3.31. Zona de vigilancia: Zona geográfica
 
-vigilancia o control rigurosas por encontrarse en
+delimitada por el Servicio que se sujeta
 
-el área aledaña a una zona infectada. También
+a medidas de vigilancia o control rigurosas
 
-serán clasificadas como tal aquellas zonas en las
+por encontrarse en el área aledaña a una
 
-que se encuentren centros relacionados
+zona infectada. También serán clasificadas
 
-epidemiológicamente con algún resultado positivo
+como tal aquellas zonas en las que se
 
-a ISA o bien aquella zona que rodea a un centro
+encuentren centros relacionados
+
+epidemiológicamente con algún resultado
+
+positivo a ISA o bien aquella
+
+zona que rodea a un centro
 
 sospechoso.
 
-3.29. Zonificación: Delimitación de zonas geográficas o
+3.32. Zonificación: Delimitación de zonas
 
-hidrográficas en función de la presencia de la
+geográficas o hidrográficas en función de la
 
-enfermedad Anemia Infecciosa del Salmón, ausencia
+presencia de la enfermedad Anemia Infecciosa
 
-de ésta y/o del virus.
+del Salmón, ausencia de ésta y/o del virus.
 
 4. FICHA TÉCNICA DE LA ENFERMEDAD
 
@@ -306,37 +380,39 @@ Virus de la familia Orthomyxoviridae.
 
 4.2. Resistencia a la Acción Física y Química.
 
-Temperatura: Inactivación del virus aislado a una
+Temperatura: Inactivación del virus aislado
 
-temperatura de 56ºC durante 5 minutos; el tejido
+a una temperatura de 56ºC durante 5 minutos;
 
-infeccioso homogeneizado se inactiva a una
+el tejido infeccioso homogeneizado se
 
-temperatura de 60ºC durante 5 minutos.
+inactiva a una temperatura de 60ºC durante
+
+5 minutos.
 
 pH: El virus aislado es sensible a pH < 5.0;
 
-el tejido infeccioso homogeneizado es sensible a
+el tejido infeccioso homogeneizado es
 
-pH < 4.0 durante 24 horas.
+sensible a pH < 4.0 durante 24 horas.
 
 4.3. Epidemiología.
 
 Contagiosa.
 
-La mortalidad diaria oscila entre 0,05% a >=
+La mortalidad diaria oscila entre 0,05%
 
-1% y la mortandad total oscila entre un 15% y un
+a >= 1% y la mortandad total oscila entre
 
-100% en jaulas infectadas.
+un 15% y un 100% en jaulas infectadas.
 
 4.4. Huéspedes.
 
 El Salmón del Atlántico (Salmo salar).
 
-El virus se multiplica en las truchas de mar
+El virus se multiplica en las truchas de
 
-(Salmo truta), en las truchas arco iris
+mar (Salmo truta), en las truchas arco iris
 
 (Oncorhynchus mykiss) y en los arenques del
 
@@ -366,17 +442,21 @@ infectados.
 
 Aguas residuales eliminadas por las plantas de
 
-proceso y por las industrias de transformación.
+proceso y por las industrias de
+
+transformación.
 
 4.7. Distribución Geográfica.
 
-La Anemia Infecciosa del Salmón fue inicialmente
+La Anemia Infecciosa del Salmón fue
 
-diagnosticada en Noruega en el año 1984.
+inicialmente diagnosticada en Noruega en el
 
-Posteriormente la enfermedad ha sido reportada en
+año 1984.
 
-Canadá (1996), Escocia (1998), Islas Faroe
+Posteriormente la enfermedad ha sido reportada
+
+en Canadá (1996), Escocia (1998), Islas Faroe
 
 (2000), Estados Unidos (2001) y Chile (2007).
 
@@ -388,27 +468,29 @@ Canadá (1996), Escocia (1998), Islas Faroe
 
 . Peces letárgicos.
 
-. Palidez de las branquias a causa de
+. Palidez de las branquias
 
-la anemia.
+a causa de la anemia.
 
-. Hemorragia en la cámara anterior
+. Hemorragia en la cámara
 
-del ojo.
+anterior del ojo.
 
 . Exoftalmia.
 
 . En la conducta de los peces
 
-infectados se aprecia letárgicos y
+infectados se aprecia
 
-orillamiento.
+letárgicos y orillamiento.
 
 . Distensión abdominal.
 
-. Hemorragias en piel, especialmente
+. Hemorragias en piel,
 
-en la zona abdominal.
+especialmente en la zona
+
+abdominal.
 
 4.8.2. Diagnóstico por lesiones
 
@@ -426,37 +508,41 @@ peritoneales y pericárdicas.
 
 peritoneo visceral y parietal.
 
-. Coloración rojo obscura, focal o
+. Coloración rojo obscura, focal
 
-difusa en el hígado. Puede
+o difusa en el hígado. Puede
 
 presentarse una delgada capa de
 
 fibrina en la superficie.
 
-. Coloración rojo obscura, apariencia
+. Coloración rojo obscura,
 
-exudativa y márgenes redondeados en
+apariencia exudativa y márgenes
 
-el bazo.
+redondeados en el bazo.
 
-. Coloración rojo obscura en la pared
+. Coloración rojo obscura en la
 
-intestinal en los sacos ciegos, sin
+pared intestinal en los sacos
 
-presencia de sangre en el lumen
+ciegos, sin presencia de sangre
 
-intestinal en los especímenes
+en el lumen intestinal en los
 
-frescos.
+especímenes frescos.
 
 . Coloración rojo obscura y
 
-apariencia exudativa en el riñón,
+apariencia exudativa en el
 
-acompañado de sangre y efusiones.
+riñón, acompañado de sangre
 
-4.8.3. Diagnóstico por pruebas de laboratorio:
+y efusiones.
+
+4.8.3. Diagnóstico por pruebas de
+
+laboratorio:
 
 Técnicas moleculares: Trascripción
 
@@ -476,19 +562,21 @@ El titular del centro de cultivo o quien éste
 
 designe, deberá notificar obligatoriamente al
 
-Servicio, de manera inmediata, tanto la sospecha
+Servicio, de manera inmediata, tanto la
 
-fundada de la presencia del virus ISA, como la
+sospecha fundada de la presencia del virus
 
-aparición de la enfermedad, conforme a lo
+ISA, como la aparición de la enfermedad,
 
-descrito en la ficha técnica de la enfermedad, de
+conforme a lo descrito en la ficha técnica
 
-signología clínica o anatomopatológica sugerente
+de la enfermedad, de signología clínica o
 
-de la presencia de la enfermedad y mortalidades
+anatomopatológica sugerente de la presencia
 
-asociadas, ya sea a partir de un informe médico
+de la enfermedad y mortalidades asociadas,
+
+ya sea a partir de un informe médico
 
 veterinario o del resultado positivo de un
 
@@ -496,35 +584,39 @@ laboratorio de diagnóstico. Dicha notificación
 
 deberá ser enviada por correo electrónico a
 
-notificacionisa@sernapesca.cl, o por la vía que
+notificacionisa@sernapesca.cl, o por la vía
 
-el Servicio determine.
+que el Servicio determine.
 
-Además, deberá enviar dentro de un plazo de 48
+Además, deberá enviar, al correo electrónico
 
-horas, contado desde la notificación, la Encuesta
+informacionisa@sernapesca.cl dentro de un
 
-Epidemiológica para Centros Sospechosos y
+plazo de 48 horas, contado desde la
 
-Confirmados que se encuentra disponible en
+notificación, la Encuesta Epidemiológica
 
-formato electrónico en la página web del
+para Centros Sospechosos y Confirmados que
 
-Servicio.
+se encuentra disponible en formato electrónico
+
+en la página web del Servicio.
 
 6.2. Laboratorio de diagnóstico y de referencia:
 
 En caso que un laboratorio de diagnóstico
 
-sospeche la ocurrencia o realice el diagnóstico
+sospeche la ocurrencia o realice el
 
-del virus de la Anemia Infecciosa del Salmón, en
+diagnóstico del virus de la Anemia
 
-base a exámenes clínicos o resultados de
+Infecciosa del Salmón, en base a exámenes
 
-laboratorio, tanto en el marco de los programas
+clínicos o resultados de laboratorio,
 
-oficiales, por requerimiento de las empresas de
+tanto en el marco de los programas oficiales,
+
+por requerimiento de las empresas de
 
 cultivo o por otro motivo, encontrándose o no
 
@@ -532,45 +624,49 @@ registrado por Sernapesca para realizar la
 
 determinación oficial, deberá notificar al
 
-Servicio de manera inmediata. Los informes de los
+Servicio de manera inmediata. Los informes de
 
-análisis de laboratorios positivos se deberán
+los análisis de laboratorios positivos se
 
-enviar al correo electrónico
+deberán enviar al correo electrónico
 
 diagnosticoISA@sernapesca.cl o ingresar en el
 
-sistema de manejo de información que el Servicio
+sistema de manejo de información que el
 
-determine.
+Servicio determine.
 
 6.3. Terceros:
 
-Sin perjuicio de lo señalado, cualquier persona
+Sin perjuicio de lo señalado, cualquier
 
-que cuente con antecedentes que permitan
+persona que cuente con antecedentes que
 
-sospechar de la presencia del virus ISA, como la
+permitan sospechar de la presencia del
 
-aparición de la enfermedad, mortalidades por
+virus ISA, como la aparición de la
 
-causa inexplicadas o de origen infeccioso, podrá
+enfermedad, mortalidades por causa
 
-notificarlo al Servicio al correo electrónico
+inexplicadas o de origen infeccioso,
 
-notificacionisa@sernapesca.cl o por otra vía que
+podrá notificarlo al Servicio al correo
 
-estime pertinente.
+electrónico notificacionisa@sernapesca.cl
+
+o por otra vía que estime pertinente.
 
 7. CRITERIOS PARA LA CLASIFICACIÓN DE CENTROS DE CULTIVO SOSPECHOSOS, CONFIRMADOS O EN BROTE
 
 7.1. Caso sospechoso:
 
-Se considerará como sospechoso del virus ISA a
+Se considerará como sospechoso del virus
 
-los centros de cultivo que cumplan, al menos, con
+ISA a los centros de cultivo que cumplan,
 
-una de las siguientes condiciones:
+al menos, con una de las siguientes
+
+condiciones:
 
 a) Presenten resultado de diagnóstico de
 
@@ -578,85 +674,85 @@ laboratorio positivo en muestras
 
 provenientes de uno o más peces de
 
-cualquiera de sus jaulas, en el caso de
+cualquiera de sus jaulas, en el caso
 
-centros ubicados en mar, lago o río, o de
+de centros ubicados en mar, lago o río,
 
-una unidad epidemiológica, en el caso de
+o de una unidad epidemiológica, en
 
-pisciculturas.
+el caso de pisciculturas.
 
-La muestra positiva deberá ser sometida a
+La muestra positiva deberá ser
 
-secuenciación de la región hipervariable
+sometida a secuenciación de la región
 
-del segmento 6 (HPR). En caso de no obtener
+hipervariable del segmento 6 (HPR). En
 
-resultados, la secuenciación se deberá
+caso de no obtener resultados, la
 
-realizar en las sucesivas muestras
+secuenciación se deberá realizar en
 
-positivas que se obtengan del centro.
+las sucesivas muestras positivas que
+
+se obtengan del centro.
 
 b) Presenten signología clínica o
 
 anatomopatológica compatible con la
 
-enfermedad en uno o más peces de cualquiera
+enfermedad en uno o más peces de
 
-de sus jaulas, en el caso de centros en
+cualquiera de sus jaulas, en el caso
 
-mar, lago o río, o de una unidad
+de centros en mar, lago o río, o de
 
-epidemiológica, en el caso de
+una unidad epidemiológica, en el
 
-pisciculturas.
+caso de pisciculturas.
 
-c) Hayan recibido peces vivos desde un centro
+c) Hayan recibido peces vivos desde un
 
-confirmado o sospechoso, en los casos en
+centro confirmado o sospechoso, en los
 
-que, conforme a la normativa, esté
+casos en que, conforme a la normativa,
 
-permitido ese traslado.
+esté permitido ese traslado.
 
-Los centros sospechosos que mantengan peces
+Los centros sospechosos que mantengan
 
-conservarán esta condición hasta que el
+peces conservarán esta condición hasta
 
-Servicio determine un cambio en su
+que el Servicio determine un cambio en
 
-situación, a la luz de los antecedentes del
+su situación, a la luz de los
 
-presente programa. Luego de 45 días sin
+antecedentes del presente
 
-detectarse nueva positividad al virus ISA
+programa. Luego de 45 días
 
-en los muestreos sucesivos, según lo
+sin detectarse nueva positividad al
 
-establecido en los numerales 8.10.5, 8.11.5
+virus ISA en los muestreos sucesivos,
 
-y 8.12.5 del presente programa, el centro
+según lo establecido en los numerales
 
-dejará la categoría de sospechoso y quedará
+8.10.5, 8.11.5 y 8.12.5 del presente
 
-en vigilancia, por al menos, 12 meses.
+programa, el centro dejará la
+
+categoría de sospechoso y quedará en
+
+vigilancia, por al menos, 12 meses.
 
 7.2. Caso confirmado:
 
-Se considerará como caso confirmado del virus ISA
+Se considerará como caso confirmado del virus
 
-a los centros de cultivo que presenten dos
+ISA a aquel centro de cultivo que presente
 
-resultados de diagnóstico de laboratorio
+dos resultados de diagnóstico de laboratorio
 
-positivos en muestreos diferentes, en una o más
-
-jaulas en centros ubicados en mar (engorda o
-
-esmoltificación), río, lago o unidades
-
-epidemiológicas, en el caso de pisciculturas.
+positivos en muestreos diferentes.
 
 Según los resultados que se obtengan de la
 
@@ -670,79 +766,109 @@ a) Confirmado HPR 0: Centro de cultivo sin
 
 signología clínica o anatomopatológica
 
-compatible, en el que, como resultado de la
+compatible, en el que, como resultado
 
-secuenciación de la región hipervariable
+de la secuenciación de la región
 
-del segmento 6 (HPR), se determina la
+hipervariable del segmento 6 (HPR), se
 
-presencia de una variante HPR 0 del virus
+determina la presencia de una variante
 
-ISA.
+HPR 0 del virus ISA.
 
 De no ser posible la secuenciación, se
 
-podrá realizar RT-PCR específico para virus
+podrá realizar RT-PCR específico para
 
-ISA HPR 0.
+virus ISA HPR 0. Sin perjuicio de lo
 
-b) Confirmado indeterminado: Centro de cultivo
+anterior, se deberá realizar en todos
 
-en el cual no se ha podido secuenciar la
+los muestreos sucesivos en los que
 
-región hipervariable del segmento 6 (HPR)
+resulten muestras positivas, la
 
-del virus. El centro se mantendrá en esta
+secuenciación de, al menos, una de
+
+ellas, seleccionando la muestra con
+
+un valor de CT más bajo.
+
+b) Confirmado indeterminado: Centro de
+
+cultivo en el cual no se ha podido
+
+secuenciar la región hipervariable
+
+del segmento 6 (HPR) del virus.
+
+El centro se mantendrá en esta
 
 categoría hasta que sea posible la
 
-secuenciación. No obstante, si
+secuenciación. De no ser posible
 
-transcurridos 3 meses contados desde la
+la secuenciación, se podrá realizar
 
-notificación, habiendo realizado al menos 6
+RT-PCR específico para virus ISA HPR
 
-muestreos, no ha sido posible secuenciar,
+0. Sin perjuicio de lo anterior, se
 
-se categorizará como confirmado otros HPR.
+deberá realizar en todos los muestreos
 
-c) Confirmado otros HPR: Centro de cultivo en
+sucesivos en los que resulten muestras
 
-el cual, como resultado de la secuenciación
+positivas, la secuenciación de,
 
-del segmento HPR, se determina la presencia
+al menos, una de ellas, seleccionando
+
+la muestra con un valor de CT más bajo.
+
+c) Confirmado otros HPR: Centro de cultivo
+
+en el cual, como resultado de la
+
+secuenciación del segmento HPR, se
+
+determina la presencia
 
 de una variante distinta a HPR 0.
 
 7.3. Brote:
 
-Centro de cultivo que presenta dos resultados de
+Centro de cultivo que presenta dos resultados
 
-diagnóstico positivos a virus ISA, en el cual,
+de diagnóstico positivos a virus ISA, en
 
-además, se ha confirmado otros HPR en al menos
+el cual, además, se ha confirmado otros
 
-una jaula en centros de mar (engorda o
+HPR en al menos una jaula en centros
 
-esmoltificación), lago, río o unidad
+de mar (engorda o esmoltificación), lago,
 
-epidemiológica en pisciculturas y presenta
+río o unidad epidemiológica en pisciculturas
 
-signología clínica consistente con ISA. Se
+y presenta signología clínica consistente
 
-distinguen dos categorías de brote:
+con ISA. Se distinguen dos categorías de
+
+brote:
 
 a) Jaula o unidad epidemiológica en brote:
 
-Centro de cultivo que presenta, al menos,
+Centro de cultivo que presenta, al
 
-una jaula o unidad epidemiológica en brote
+menos, una jaula o unidad
 
-y menos del 30% del total de jaulas o
+epidemiológica en brote y menos del
 
-unidades epidemiológicas pobladas, en esa
+30% del total de jaulas
 
-misma categoría simultáneamente.
+o unidades epidemiológicas
+
+pobladas, en esa misma categoría
+
+simultáneamente.
 
 b) Centro en brote: Centro de cultivo que
 
@@ -754,25 +880,27 @@ simultáneamente.
 
 8. VIGILANCIA DE LA ANEMIA INFECCIOSA DEL SALMÓN EN BASE AL RIESGO
 
-8.1. La Anemia Infecciosa del Salmón será objeto de
+8.1. La Anemia Infecciosa del Salmón será objeto
 
-vigilancia activa en base al riesgo,
+de vigilancia activa en base al riesgo,
 
-diferenciando por susceptibilidad de las especies
+diferenciando por susceptibilidad de las
 
-salmonídeas y otras especies hidrobiológicas y
+especies salmonídeas y otras especies
 
-considerando los antecedentes epidemiológicos del
+hidrobiológicas y considerando los
 
-centro y de las agrupaciones de concesiones. Ésta
+antecedentes epidemiológicos del centro
+
+y de las agrupaciones de concesiones. Ésta
 
 se realizará mediante la toma de muestras y
 
-posterior análisis, cuyo resultado dará lugar a
+posterior análisis, cuyo resultado dará lugar
 
-la clasificación de los centros en:
+a la clasificación de los centros en:
 
-. libres
+. libres negativosativos
 
 . en vigilancia
 
@@ -788,161 +916,195 @@ Asimismo, esta vigilancia permitirá la
 
 clasificación de las AC y zonas en:
 
-. libres
+. libres negativas
 
 . en vigilancia
 
 . infectadas
 
-8.2. Se realizarán inspecciones oficiales para evaluar
+8.2. Se realizarán inspecciones oficiales para
 
-la condición sanitaria de los centros, verificar
+evaluar la condición sanitaria de los
 
-los procedimientos de toma de muestra para
+centros, verificar los procedimientos de
 
-diagnóstico en laboratorios y evaluar in situ la
+toma de muestra para diagnóstico en
+
+laboratorios y evaluar in situ la
 
 presencia de signología clínica.
 
 De estimarse necesario, en casos tales como,
 
-aumento no explicado de la mortalidad, traslado
+aumento no explicado de la mortalidad,
 
-de peces desde centros positivos, cuando proceda
+traslado de peces desde centros positivos,
 
-conforme a la normativa, denuncias, u otros,
+cuando proceda conforme a la normativa,
 
-Sernapesca tomará muestras de verificación.
+denuncias, u otros, Sernapesca tomará muestras
+
+de verificación.
 
 8.3. El médico veterinario responsable del centro
 
-deberá notificar al Servicio de manera inmediata,
+deberá notificar al Servicio de manera
 
-el aumento de mortalidad en cualquier jaula o
+inmediata, el aumento de mortalidad en
 
-unidad epidemiológica que supere el 0,05% de
+cualquier jaula de centro de mar o estuario
 
-mortalidad diaria por 5 días consecutivos o un 2%
+con Salmón del Atlántico o unidad
 
-de mortalidad en un plazo inferior a 5 días,
+epidemiológica que supere el 0,05% de
 
-excluyendo la ocasionada por causas ambientales y
+mortalidad diaria por 5 días consecutivos
 
-depredadores, las cuales deberán estar
+o un 2% de mortalidad en un plazo inferior
 
-debidamente justificadas. En ambos casos, se
+a 5 días, excluyendo la ocasionada por
+
+causas ambientales y depredadores, las
+
+cuales deberán estar debidamente
+
+justificadas. En ambos casos, se
 
 deberá realizar un muestreo y análisis de los
 
-peces para determinar la presencia del virus ISA,
+peces para determinar la presencia del virus
 
-de acuerdo a lo indicado en el numeral 8.8., no
+ISA, de acuerdo a lo indicado en el numeral
 
-importando la signología clínica asociada.
+8.8., no importando la signología clínica
 
-8.4. Los titulares de centros de cultivo categorizados
+asociada. En caso de tener un diagnóstico
 
-como positivos al virus ISA (sospechoso,
+de laboratorio de otra enfermedad infecciosa
 
-confirmado, brote), deberán designar un médico
+y si el último análisis de ISAv tiene menos
 
-veterinario de contacto, quien será el
+de 30 días de antigüedad, no será necesario
 
-responsable de la comunicación oficial con el
+realizar un nuevo muestreo.
 
-Servicio, respecto del seguimiento de la
+8.4. Los titulares de centros de cultivo
 
-evolución sanitaria del centro, del envío de un
+categorizados como positivos al virus ISA
 
-informe sanitario semanal, en el formato
+(sospechoso, confirmado, brote) deberán
 
-disponible en la página web de Sernapesca, y de
+designar un médico veterinario de contacto e
 
-la entrega de cualquier información adicional que
+informar tal designación al Servicio. Dicho
 
-le sea requerida formalmente. Tal designación
+profesional será el responsable de la
 
-deberá ser comunicada al Servicio.
+comunicación oficial con el Servicio respecto
+
+del seguimiento de la evolución sanitaria del
+
+centro, del envío de un informe sanitario
+
+semanal, a excepción de los centros
+
+clasificados como confirmados HPR 0, en cuyo
+
+caso el informe será mensual, y de la entrega
+
+de cualquier información adicional que le sea
+
+requerida formalmente. Los informes antes
+
+referidos deberán ser enviados al correo
+
+informacionisa@sernapesca.cl.
 
 8.5. Para efectos de realizar los muestreos de
 
-vigilancia, el titular del centro de cultivo o el
+vigilancia, el titular del centro de cultivo
 
-médico veterinario responsable del mismo, deberán
+o el médico veterinario responsable del mismo,
 
-presentar o enviar vía correo electrónico, a la
+deberán presentar o enviar vía correo
 
-oficina de Sernapesca correspondiente a la
+electrónico, a la oficina de Sernapesca
 
-ubicación del centro, la solicitud de muestreo,
+correspondiente a la ubicación del centro,
 
-con una anticipación, de al menos, 3 días hábiles
+la solicitud de muestreo, con una anticipación,
+
+de al menos, 3 días hábiles
 
 a la fecha en que éstos se realizarán.
 
-8.6. En todos los casos, los peces seleccionados para
+8.6. En todos los casos, los peces seleccionados
 
-efectos del muestreo corresponderán a peces
+para efectos del muestreo corresponderán a
 
-orillados y/o mortalidad fresca del día. En el
+peces orillados y/o mortalidad fresca del
 
-evento que no se pueda completar el tamaño
+día. En el evento que no se pueda completar
 
-muestreal, se seleccionarán de los restantes,
+el tamaño muestreal, se seleccionarán de los
 
-peces al azar.
+restantes, peces al azar. En el caso de
 
-8.7. En los centros clasificados como confirmados, si
+centros de mar, río, estuario o lago, se
 
-todas sus jaulas o unidades epidemiológicas están
+deberán muestrear como mínimo 3 jaulas,
 
-positivas al virus ISA, no será necesario
+privilegiando las que presenten peces
 
-continuar con los muestreos. No obstante, si se
+orillados o mayor mortalidad.
 
-produce un aumento de la mortalidad en cualquier
+8.7. ELIMINADO.
 
-jaula o unidad epidemiológica que supere el 0,05%
+8.8. Los muestreos de los centros de cultivo
 
-de mortalidad diaria por 5 días consecutivos o un
+con Salmón del Atlántico deberán ser
 
-2% de mortalidad en menos de 5 días, se deberá
+realizados por un certificador de la condición
 
-realizar un muestreo de las jaulas o unidades
+sanitaria incorporado en el registro
 
-involucradas. Se deberá excluir la mortalidad por
+establecido de conformidad con lo
 
-causas ambientales y depredadores, las cuales
+dispuesto en el artículo 122 letra K de
 
-deberán estar debidamente justificadas.
+la Ley General de Pesca y Acuicultura.
 
-8.8. Los muestreos deberán ser realizados por un
+Sin perjuicio de lo anterior, en casos
 
-certificador de la condición sanitaria
+fundados el Servicio podrá autorizar a los
 
-incorporado en el registro establecido de
+veterinarios de los centros de cultivo
 
-conformidad con lo dispuesto en el artículo 122
+para realizar dichos muestreos, previo
 
-letra K de la Ley General de Pesca y Acuicultura.
-
-Sin perjuicio de lo anterior, en casos fundados
-
-el Servicio podrá autorizar a los veterinarios de
-
-los centros de cultivo para realizar dichos
-
-muestreos, previo análisis de los antecedentes
+análisis de los antecedentes
 
 correspondientes. En tales casos, el
 
-procedimiento de muestreo deberá ser supervisado
+procedimiento de muestreo deberá ser
 
-por un funcionario del Servicio. Por su parte,
+supervisado por un funcionario del
 
-las muestras deberán ser analizadas por un
+Servicio. En el caso de otras especies
 
-laboratorio de diagnóstico registrado por el
+susceptibles, el muestreo podrá ser
+
+realizado por el médico veterinario
+
+del centro de cultivo o por un
+
+certificador de la condición
+
+sanitaria. Por su parte, las muestras
+
+deberán ser analizadas por un laboratorio
+
+de diagnóstico registrado por el
 
 Servicio.
 
@@ -954,7 +1116,9 @@ condición, especie y los antecedentes
 
 epidemiológicos de la AC cuando corresponda,
 
-conforme lo descrito en los numerales siguientes.
+conforme lo descrito en los numerales
+
+siguientes.
 
 8.10. Vigilancia en pisciculturas.
 
@@ -966,27 +1130,35 @@ susceptibles, deberán definir e
 
 informar al Servicio, a través del
 
-formato disponible en su página web, la
+formato disponible en su página web,
 
-o las unidades epidemiológicas
+la o las unidades epidemiológicas
 
 identificadas en ellas, así como sus
 
 eventuales modificaciones, con la
 
-finalidad de determinar un esquema de
+finalidad de determinar un esquema
 
-muestreo representativo de la
+de muestreo representativo de la
 
-piscicultura. Éstas serán validadas por
+piscicultura. Tal solicitud deberá
 
-los inspectores del Servicio. En el
+ser enviada al correo electrónico
 
-evento que no se comunique a Sernapesca
+informacionisa@sernapesca.cl,
 
-tal información, se considerará, para
+debiendo ser validada por los
 
-efectos del presente programa, toda la
+inspectores del Servicio. En el
+
+evento que no se comunique a
+
+Sernapesca tal información, se
+
+considerará, para efectos del
+
+presente programa, toda la
 
 piscicultura como una unidad
 
@@ -1000,69 +1172,91 @@ susceptibles, a excepción del Salmón
 
 del Atlántico, deberán realizar
 
-muestreos y análisis semestrales para
+muestreos y análisis semestrales
 
-el virus ISA, considerando al menos 150
+para el virus ISA, considerando al
 
-peces por centro, distribuidos
+menos 150 peces por centro,
 
-homogéneamente entre las diferentes
+distribuidos homogéneamente entre
 
-especies y unidades epidemiológicas.
+las diferentes especies y unidades
 
-Aquellas que mantengan exclusivamente
+epidemiológicas.
 
-reproductores, el tamaño muestreal será
+Aquellas que mantengan
 
-de al menos 30 peces.
+exclusivamente reproductores,
 
-8.10.2. En el caso de pisciculturas con Salmón
+el tamaño muestreal será de
 
-del Atlántico, el muestreo deberá ser
+al menos 30 peces.
 
-realizado trimestralmente, considerando
+8.10.2. En el caso de pisciculturas con
 
-la extracción de al menos 150 peces
+Salmón del Atlántico, el muestreo
 
-distribuidos entre las diferentes
+deberá ser realizado trimestralmente,
 
-unidades epidemiológicas. Tratándose de
+considerando la extracción de al
 
-pisciculturas que mantengan
+menos 150 peces distribuidos entre
 
-exclusivamente reproductores se tomarán
+las diferentes unidades
 
-muestras de al menos 30 peces.
+epidemiológicas. Tratándose
 
-8.10.3. En las pisciculturas de reproducción de
+de pisciculturas que mantengan
 
-ciclo cerrado, es decir, aquellas que
+exclusivamente reproductores se
 
-no ingresan material biológico y no
+tomarán muestras de, al menos, 15
 
-tienen antecedentes, en los dos últimos
+peces durante el muestreo
 
-años, de positividad al virus ISA en
+trimestral. Los peces seleccionados
 
-los análisis de vigilancia y screening,
+deberán corresponder a grupos no
 
-se considerará la extracción, de al
+sometidos a screening y no deberán
 
-menos, 15 peces para fines de
+encontrarse en desove.
 
-vigilancia. La frecuencia de muestreo
+8.10.3. En las pisciculturas de reproducción
 
-será semestral, independiente de la
+de ciclo cerrado, es decir,
+
+aquellas que no ingresan material
+
+biológico y no tienen antecedentes,
+
+en los dos últimos años, de
+
+positividad al virus ISA en los
+
+análisis de vigilancia y
+
+screening, se considerará la
+
+extracción, de al menos, 15
+
+peces para fines de
+
+vigilancia. La frecuencia de
+
+muestreo será semestral,
+
+independiente de la
 
 especie en cultivo, y los peces a
 
-muestrear deberán distribuirse entre
+muestrear deberán distribuirse
 
-las diferentes especies, unidades
+entre las diferentes especies,
 
-epidemiológicas y estadios de
+unidades epidemiológicas y
 
-desarrollo.
+estadios de desarrollo.
 
 8.10.4. Cuando se trate de pisciculturas
 
@@ -1080,91 +1274,135 @@ Atlántico.
 
 sospechosas, se deberá realizar un
 
-muestreo oficial de todas sus unidades
+muestreo oficial de todas sus
 
-epidemiológicas, en un plazo máximo de
+unidades epidemiológicas, en un
 
-48 horas desde la notificación,
+plazo máximo de 48 horas desde
 
-considerando un mínimo de 150 peces
+la notificación, considerando un
 
-extraídos proporcionalmente de sus
+mínimo de 150 peces extraídos
 
-unidades, priorizando el Salmón del
+proporcionalmente de sus unidades,
+
+priorizando el Salmón del
 
 Atlántico. Aquellas unidades que no
 
-sean diagnosticadas como positivas al
+sean diagnosticadas como positivas
 
-virus ISA, deberán ser muestreadas y
+al virus ISA, deberán ser
 
-analizadas quincenalmente a fin de
+muestreadas y analizadas
 
-monitorear su condición respecto del
+quincenalmente a fin de
 
-virus. El tamaño muestreal deberá ser
+monitorear su condición respecto
 
-como mínimo de 150 peces, extraídos
+del virus. El tamaño muestreal
 
-proporcionalmente de las unidades
+deberá ser como mínimo de 150
 
-epidemiológicas, priorizando el Salmón
+peces, extraídos proporcionalmente
 
-del Atlántico. La frecuencia de
+de las unidades epidemiológicas,
 
-muestreo se mantendrá por un período de
+priorizando el Salmón del
 
-45 días, trascurridos los cuales, si no
+Atlántico. La frecuencia
 
-se detectan nuevos resultados positivos
+de muestreo se mantendrá por un
+
+período mínimo de 48 días,
+
+trascurridos los cuales, si no se
+
+detectan nuevos resultados positivos
 
 se retomará la frecuencia de muestreo
 
 de vigilancia.
 
-8.10.6. En el caso de pisciculturas confirmadas
+8.10.6. En el caso de pisciculturas
 
-HPR 0, las unidades epidemiológicas que
+confirmadas HPR 0, la o las
 
-no sean diagnosticadas como positivas
+unidades epidemiológicas deberán ser
 
-al virus ISA, deberán ser muestreadas y
+muestreadas y analizadas cada dos
 
-analizadas mensualmente a fin de
+meses a fin de monitorear su
 
-monitorear su condición respecto del
+condición respecto del virus. El
 
-virus. El tamaño muestreal deberá ser
+tamaño muestreal deberá ser
 
-como mínimo de 150 peces, extraídos
+como mínimo de 150 peces extraídos
 
 proporcionalmente de las unidades
 
-epidemiológicas, priorizando el Salmón
+epidemiológicas, priorizando el
 
-del Atlántico.
+Salmón del Atlántico. La
 
-8.10.7. En el caso de pisciculturas confirmadas
+piscicultura dejará esta
 
-otros HPR, las unidades epidemiológicas
+condición y retomará la frecuencia
 
-que no sean diagnosticadas como
+de muestreo de vigilancia,
 
-positivas al virus ISA, deberán ser
+si después de 6 meses no se
 
-muestreadas y analizadas quincenalmente
+presentan nuevos resultados
+
+positivos y los ejemplares de
+
+la o las UE positivas fueron
+
+trasladados.
+
+8.10.7. En el caso de pisciculturas
+
+confirmadas otros HPR, las unidades
+
+epidemiológicas que no sean
+
+diagnosticadas como positivas al
+
+virus ISA, deberán ser muestreadas
+
+y analizadas quincenalmente
 
 a fin de monitorear su condición
 
-respecto del virus. El tamaño muestreal
+respecto del virus. El tamaño
 
-deberá ser como mínimo de 150 peces,
+muestreal deberá ser como
 
-extraídos proporcionalmente de las
+mínimo de 150 peces, extraídos
 
-unidades epidemiológicas, priorizando
+proporcionalmente de las
 
-el Salmón del Atlántico.
+unidades epidemiológicas,
+
+priorizando el Salmón del
+
+Atlántico. La piscicultura dejará
+
+esta condición y retomará la
+
+frecuencia de muestreo de
+
+vigilancia, si después de 3 meses
+
+no se presentan nuevos resultados
+
+positivos y los ejemplares de la o
+
+las UE positivas fueron eliminados
+
+y/o cosechados.
 
 8.10.8. Las pisciculturas clasificadas en
 
@@ -1172,57 +1410,103 @@ riesgo que mantengan Salmón del
 
 Atlántico, deberán ser muestreadas y
 
-analizadas mensualmente. Tratándose de
+analizadas mensualmente. Tratándose
 
-pisciculturas con otras especies
+de pisciculturas con otras especies
 
-susceptibles, la frecuencia de muestreo
+susceptibles, la frecuencia de
 
-será trimestral. En ambos casos, el
+muestreo será semestral. En ambos
 
-tamaño muestreal deberá ser como mínimo
+casos, el tamaño muestreal deberá
 
-de 150 peces, extraídos
+ser como mínimo de 150 peces,
 
-proporcionalmente de las unidades
+extraídos proporcionalmente de
 
-epidemiológicas.
+las unidades epidemiológicas.
+
+8.10.9. En las pisciculturas de reproducción
+
+de ciclo cerrado, es decir, aquellas
+
+que no ingresan material biológico y
+
+no tienen antecedentes, en los dos
+
+últimos años, de positividad al
+
+virus ISA en los análisis de
+
+vigilancia y screening, se
+
+considerará la extracción de,
+
+al menos, 15 peces para fines de
+
+vigilancia.
+
+La frecuencia de muestreo será
+
+semestral independiente de la
+
+especie en cultivo, y los
+
+peces a muestrear deberán
+
+distribuirse entre
+
+las diferentes especies,
+
+unidades epidemiológicas y
+
+estadios de desarrollo.
 
 Resumen de la vigilancia del virus ISA en pisciculturas.
 
-8.11. Vigilancia en centros de lagos, ríos y mar que
+.
 
-realicen esmoltificación (estuarios).
+8.11. Vigilancia en centros de lagos, ríos y
+
+mar que realicen esmoltificación (estuarios).
 
 8.11.1. Todos los centros ubicados en lagos,
 
-ríos y mar que realicen esmoltificación
+ríos y mar que realicen
 
-y que mantengan especies salmónidas u
+esmoltificación y que mantengan
+
+especies salmónidas u
 
 otras especies susceptibles, a
 
 excepción del Salmón del Atlántico,
 
-deberán ser muestreados y analizados
+deberán ser muestreados y
 
-semestralmente para el virus ISA. Para
+analizados semestralmente para
 
-tal efecto, se tomarán al menos 150
+el virus ISA. Para tal efecto,
 
-peces por centro, distribuidos entre
+se tomarán al menos 150
 
-las diferentes especies y jaulas.
+peces por centro, distribuidos
 
-8.11.2. En el caso de centros con Salmón del
+entre las diferentes especies
 
-Atlántico, el muestreo se realizará
+y jaulas.
 
-trimestralmente, considerando la
+8.11.2. En el caso de centros con Salmón
 
-extracción de al menos 150 peces
+del Atlántico, el muestreo se
 
-distribuidos entre las diferentes
+realizará trimestralmente,
+
+considerando la extracción de al
+
+menos 150 peces distribuidos
+
+entre las diferentes
 
 jaulas.
 
@@ -1230,17 +1514,21 @@ jaulas.
 
 Atlántico, que hayan presentado
 
-positividad al virus ISA en el ciclo
+positividad al virus ISA y hayan
 
-productivo anterior, la frecuencia de
+sido clasificados como confirmados
 
-muestreo será cada dos meses,
+otros HPR o en brote en el ciclo
 
-considerando la extracción de al menos
+productivo anterior, la frecuencia
 
-150 peces distribuidos entre las
+de muestreo será cada dos meses,
 
-diferentes jaulas y estadios de
+considerando la extracción de al
+
+menos 150 peces distribuidos entre
+
+las diferentes jaulas y estadios de
 
 desarrollo.
 
@@ -1256,99 +1544,105 @@ riesgo, es decir, el Salmón del
 
 Atlántico.
 
-8.11.5. En el caso de centros sospechosos, se
+8.11.5. En el caso de centros sospechosos,
 
-deberá realizar un muestreo oficial de
+se deberá realizar un muestreo
 
-todas sus jaulas, en un plazo máximo de
+oficial de todas sus jaulas, en un
 
-48 horas contado desde la notificación,
+plazo máximo de 48 horas contado
 
-considerando un mínimo de 3 peces por
+desde la notificación, considerando
+
+un mínimo de 3 peces por
 
 jaula. Las jaulas que no sean
 
-diagnosticadas como positivas al virus
+diagnosticadas como positivas al
 
-ISA, deberán ser muestreadas y
+virus ISA, deberán ser
 
-analizadas quincenalmente a fin de
+muestreadas y analizadas
 
-monitorear su condición respecto del
+quincenalmente a fin de
 
-virus. El tamaño muestreal deberá ser
+monitorear su condición respecto
 
-como mínimo de 3 peces por jaula, con
+del virus. El tamaño muestreal
 
-un mínimo total de 30 peces por
+deberá ser como mínimo de 3
 
-especie. Esta frecuencia de muestreo se
-
-mantendrá por un período de 45 días,
-
-trascurridos los cuales, si no se
-
-detectan nuevos resultados positivos se
-
-retomará la frecuencia de muestreo de
-
-vigilancia.
-
-8.11.6. En el caso de centros confirmados HPR
-
-0, las jaulas que no sean
-
-diagnosticadas como positivas al virus
-
-ISA, deberán ser muestreadas y
-
-analizadas mensualmente a fin de
-
-monitorear su condición respecto del
-
-virus. El tamaño muestreal deberá ser
-
-como mínimo de 3 peces por jaula, con
+peces por jaula, con
 
 un mínimo total de 30 peces por
 
-especie.
+especie. Esta frecuencia de
+
+muestreo se mantendrá por un
+
+periodo mínimo de 48 días,
+
+trascurridos los cuales,
+
+si no se detectan nuevos resultados
+
+positivos se retomará la frecuencia
+
+de muestreo de vigilancia.
+
+8.11.6. Los centros confirmados HPR 0
+
+deberán ser muestreados y analizados
+
+cada dos meses a fin de monitorear
+
+su condición respecto del virus
+
+ISA, considerando la extracción de,
+
+al menos, 150 peces.
 
 8.11.7. En los centros de cultivo con jaulas
 
-confirmadas otros HPR, aquellas jaulas
+confirmadas otros HPR, aquellas
 
-que no hayan sido diagnosticadas como
+jaulas que no hayan sido
 
-positivas al virus ISA, deberán ser
+diagnosticadas como positivas al
 
-muestreadas y analizadas cada 15 días a
+virus ISA, deberán ser muestreadas
 
-fin de monitorear su condición respecto
+y analizadas cada 15 días a fin de
 
-del virus. El tamaño muestreal deberá
+monitorear su condición respecto
 
-ser como mínimo de 3 peces por jaula,
+del virus. El tamaño muestreal
 
-con un mínimo total de 30 peces por
+deberá ser como mínimo de 3 peces
 
-especie.
+por jaula, con un mínimo total de 30
 
-8.11.8. Los centros en vigilancia que mantengan
+peces por especie.
 
-Salmón del Atlántico, deberán ser
+8.11.8. Los centros en vigilancia que
 
-muestreados y analizados mensualmente.
+mantengan Salmón del Atlántico,
+
+deberán ser muestreados y
+
+analizados mensualmente.
 
 Tratándose de centros con otras
 
-especies susceptibles, la frecuencia de
+especies susceptibles, la
 
-muestreo será trimestral. En ambos
+frecuencia de muestreo será
 
-casos, el tamaño muestreal deberá ser
+semestral. En ambos casos, el tamaño
 
-como mínimo de 30 peces.
+muestreal deberá ser como
+
+mínimo de 30 peces.
 
 8.11.9. Los centros en riesgo que mantengan
 
@@ -1356,19 +1650,23 @@ Salmón del Atlántico, deberán ser
 
 muestreados y analizados
 
-quincenalmente. Tratándose de centros
+quincenalmente. Tratándose de
 
-con otras especies susceptibles, la
+centros con otras especies
 
-frecuencia de muestreo será cada 2
+susceptibles, la frecuencia de
 
-meses. En ambos casos, el tamaño
+muestreo será semestral. En
 
-muestreal deberá ser como mínimo de 30
+ambos casos, el tamaño
 
-peces.
+muestreal deberá ser como
 
-Resumen de vigilancia del virus ISA en centros ubicados en lagos, ríos y mar que realicen esmoltificación (estuarios)
+mínimo de 30 peces.
+
+Resumen de vigilancia del virus ISA en centros ubicados en lagos, ríos y estuarios.
+
+.
 
 8.12. Vigilancia en centros de mar que realicen
 
@@ -1376,25 +1674,33 @@ engorda.
 
 8.12.1. Los centros ubicados en mar que
 
-realicen engorda de especies salmónidas
+realicen engorda de especies
 
-u otras especies susceptibles, a
+salmónidas u otras especies
 
-excepción del Salmón del Atlántico,
+susceptibles, a excepción del
 
-deberán ser muestreados y analizados
+Salmón del Atlántico, deberán
 
-semestralmente para el virus ISA. Para
+ser muestreados y analizados
 
-tal efecto, se tomarán al menos 60
+semestralmente para el virus
 
-peces por centro, distribuidos entre
+ISA. Para tal efecto, se
 
-las diferentes especies y jaulas.
+tomarán al menos 60 peces por
 
-8.12.2. En el caso de centros con Salmón del
+centro, distribuidos entre
 
-Atlántico, el muestreo será realizado
+las diferentes especies y
+
+jaulas.
+
+8.12.2. En el caso de centros con
+
+Salmón del Atlántico, el
+
+muestreo será realizado
 
 trimestralmente, considerando la
 
@@ -1406,17 +1712,39 @@ jaulas.
 
 En los centros que mantengan
 
-exclusivamente reproductores se tomarán
+exclusivamente reproductores se
 
-muestras de al menos 15 peces.
+tomarán muestras de al menos
+
+15 peces.
+
+El primer muestreo se realizará 30
+
+días después de haber sembrado
+
+el último pez en el centro, para
+
+lo cual, una vez terminada la
+
+siembra, se deberá enviar un
+
+aviso a la oficina del Servicio
+
+correspondiente a la jurisdicción
+
+del centro.
 
 8.12.3. En los centros con Salmón del
 
-Atlántico, ubicados en agrupaciones de
+Atlántico, ubicados en agrupaciones
 
-concesiones que hayan presentado
+de concesiones que hayan presentado
 
-positividad al virus ISA en el ciclo
+positividad al virus ISA y hayan
+
+sido clasificados como confirmados
+
+otros HPR o en brote en el ciclo
 
 anterior, la frecuencia de muestreo
 
@@ -1430,163 +1758,197 @@ jaulas.
 
 8.12.4. Cuando se trate de centros
 
-multiespecies, la frecuencia de muestro
+multiespecies, la frecuencia de
 
-de vigilancia estará determinada por la
+muestro de vigilancia estará
 
-especie de mayor riesgo, es decir, el
+determinada por la especie de mayor
 
-Salmón del Atlántico.
+riesgo, es decir, el Salmón del
 
-8.12.5. En los centros sospechosos, se deberá
+Atlántico.
 
-realizar un muestreo oficial de todas
+8.12.5. En los centros sospechosos, se
 
-sus jaulas, en un plazo máximo de 48
+deberá realizar un muestreo oficial
 
-horas contado desde la notificación,
+de todas sus jaulas, en un plazo
 
-considerando un mínimo de 3 peces por
+máximo de 48 horas contado desde
+
+la notificación, considerando un
+
+mínimo de 3 peces por
 
 jaula. Aquellas jaulas que no sean
 
-diagnosticadas como positivas al virus
+diagnosticadas como positivas al
 
-ISA, deberán ser muestreadas y
+virus ISA, deberán ser muestreadas
 
-analizadas quincenalmente a fin de
+y analizadas quincenalmente a fin
 
-monitorear su condición respecto del
+de monitorear su condición respecto
 
-virus. El tamaño muestreal deberá ser
+del virus. El tamaño muestreal
 
-como mínimo de 3 peces por jaula, con
+deberá ser como mínimo de 3 peces
 
-un mínimo total de 30 peces por
+por jaula, con un mínimo total de
 
-especie. Esta frecuencia de muestreo se
+30 peces por especie. Esta
 
-mantendrá por un período de 45 días,
+frecuencia de muestreo se
 
-trascurridos los cuales, si no se
+mantendrá por un período mínimo
 
-detectan nuevos resultados positivos se
+de 48 días, trascurridos los cuales,
 
-retomará la frecuencia de muestreo de
+si no se detectan nuevos resultados
 
-vigilancia.
+positivos se retomará la frecuencia
 
-8.12.6. En los centros confirmados HPR 0, las
+de muestreo de vigilancia.
 
-jaulas que no sean diagnosticadas como
+8.12.6. Los centros confirmados HPR 0
 
-positivas al virus ISA, deberán ser
+deberán ser muestreados y analizados
 
-muestreadas y analizadas mensualmente a
+cada dos meses a fin de monitorear
 
-fin de monitorear su condición respecto
+su condición respecto del virus
 
-del virus. El tamaño muestreal deberá
+ISA, considerando la extracción de,
 
-ser como mínimo de 3 peces por jaula,
+al menos, 30 peces por especie. Se
 
-con un mínimo total de 30 peces por
+deberán muestrear como mínimo 3
 
-especie.
+jaulas, privilegiando las que
+
+presenten peces orillados o mayor
+
+mortalidad.
 
 8.12.7. En los centros de cultivo con jaulas
 
-confirmadas otros HPR, aquellas que no
+confirmadas otros HPR, aquellas que
 
-hayan sido diagnosticadas como
+no hayan sido diagnosticadas como
 
 positivas al virus ISA, deberán ser
 
-muestreadas y analizadas cada 15 días a
+muestreadas y analizadas cada 15
 
-fin de monitorear su condición respecto
+días a fin de monitorear su
 
-del virus. El tamaño muestreal deberá
+condición respecto del virus. El
 
-ser como mínimo de 3 peces por jaula,
+tamaño muestreal deberá ser
 
-con un mínimo total de 30 peces por
+como mínimo de 3 peces por
 
-especie.
+jaula, con un mínimo total de
 
-8.12.8. Los centros en vigilancia que mantengan
+30 peces por especie.
 
-Salmón del Atlántico, deberán ser
+8.12.8. Los centros en vigilancia que
 
-muestreados y analizados mensualmente.
+mantengan Salmón del Atlántico,
+
+deberán ser muestreados y
+
+analizados mensualmente.
 
 Tratándose de centros con otras
 
-especies susceptibles, la frecuencia de
+especies susceptibles, la
 
-muestreo será trimestral. En ambos
+frecuencia de muestreo será
 
-casos, el tamaño muestreal deberá ser
+semestral. En ambos
 
-como mínimo de 30 peces.
+casos, el tamaño muestreal deberá
 
-8.12.9. Los centros en riesgo que mantengan
+ser como mínimo de 30 peces.
 
-Salmón del Atlántico, deberán ser
+8.12.9. Los centros en riesgo que
 
-muestreados y analizados
+mantengan Salmón del Atlántico,
 
-quincenalmente. Tratándose de centros
+deberán ser muestreados y
 
-con otras especies susceptibles, la
+analizados
 
-frecuencia de muestreo será cada dos
+quincenalmente. Tratándose
 
-meses. En ambos casos, el tamaño
+de centros con otras especies
 
-muestreal deberá ser como mínimo de 30
+susceptibles, la frecuencia de
 
-peces.
+muestreo será
+
+semestral.
+
+En ambos casos, el tamaño
+
+muestreal deberá ser como mínimo de
+
+30 peces.
 
 Resumen de la vigilancia de virus ISA en centros ubicados en mar que realicen engorda
 
 8.13. Screening de reproductores.
 
-Se realizará un screening, al momento del desove,
+Se realizará un screening, al momento del
 
-a todos los padres de especies salmónidas, según
+desove, a todos los padres de especies
 
-lo establecido en las normas técnicas LABD NT1 y
+salmónidas, según lo establecido en las
 
-LABD NT2, disponibles en la página web del
+normas técnicas LABD NT1 y LABD NT2,
+
+disponibles en la página web del
 
 Servicio.
 
 8.14. Otras medidas.
 
-Sin perjuicio de las demás exigencias contenidas
+Sin perjuicio de las demás exigencias
 
-en el presente programa, los movimientos de peces
+contenidas en el presente programa,
 
-vivos o muertos (cosechas o eliminaciones),
+los movimientos de peces vivos o muertos
 
-gametos y ovas, de la especie Salmón del
+(cosechas o eliminaciones), gametos
+
+y ovas, de la especie Salmón del
 
 Atlántico, deberán estar respaldados por un
 
-análisis de laboratorio del virus ISA, realizado
+análisis de laboratorio del virus ISA,
 
-en el centro de cultivo de origen, cuya
+realizado en el centro de cultivo de origen,
 
-antigüedad no supere los 30 días. Para ello
+cuya antigüedad no supere los 30 días. Para
 
-deberá realizarse el muestreo de un mínimo de 30
+ello deberá realizarse el muestreo de un
 
-peces del grupo a trasladar. El movimiento de
+mínimo de 30 peces por UE en pisciculturas o
 
-gametos y ovas se respaldará por el resultado del
+jaulas en centros de mar, lago, río y estuario
 
-screening individual de los padres.
+a trasladar. En caso de pisciculturas que no
+
+tengan validadas UE el muestreo será de un
+
+mínimo de 30 peces por grupo a trasladar. El
+
+movimiento de gametos y ovas se respaldará
+
+por el resultado del screening individual de
+
+los padres.
 
 Se autorizará el traslado de gametos y ovas
 
@@ -1600,15 +1962,7 @@ una vez emitido por el laboratorio de
 
 diagnóstico.
 
-En el caso de otras especies susceptibles, los
-
-movimientos de peces vivos o muertos serán
-
-respaldados por los informes de resultado de la
-
-vigilancia, según la condición del centro de
-
-origen.
+ELIMINADO.
 
 8.15. Zonificación
 
@@ -1618,65 +1972,97 @@ origen.
 
 presencia del virus ISA ni
 
-manifestación clínica de la enfermedad
+manifestación clínica de la
 
-en los 2 últimos años.
+enfermedad en los 2 últimos años.
 
-La extensión de esta zona será definida
+La extensión de esta zona será
 
-por el Servicio conforme a los
+definida por el Servicio conforme
 
-resultados de la aplicación del
+a los resultados de la aplicación
 
-presente programa y sobre la base del
+del presente programa y sobre
 
-riesgo de diseminación de la enfermedad
+la base del riesgo de diseminación
 
-y del virus.
+de la enfermedad y del virus.
 
-8.15.2. Zona infectada.
+8.15.2. Compartimento libre.
+
+Una o más pisciculturas en las que
+
+no se ha detectado la presencia de
+
+virus ISA ni manifestación clínica
+
+de la enfermedad en los 2 últimos
+
+años, y en la cual se da
+
+cumplimiento a las condiciones
+
+elementales de bioseguridad
+
+establecidas por el Servicio
+
+en una norma técnica específica.
+
+Esta condición podrá ser modificada
+
+por cambios en las condiciones de
+
+bioseguridad establecidas.
+
+8.15.3. Zona infectada.
 
 Para efectos de este programa se
 
-considerará como zona infectada aquella
+considerará como zona infectada
 
-determinada por la detección de
+aquella determinada por la
 
-variantes otros HPR del virus ISA,
+detección de variantes otros HPR
 
-delimitada conforme se indica a
+del virus ISA, delimitada conforme
 
-continuación:
+se indica a continuación:
 
 a) Centros en mar.
 
 Se considerará como zona
 
-infectada aquella que rodea a un
+infectada aquella que rodea
 
-centro confirmado otros HPR. Esta
+a un centro confirmado otros
 
-área comprenderá un radio mínimo
+HPR. Esta área comprenderá un
 
-de 10 millas; su extensión será
+radio mínimo de 5 millas
 
-definida por el Servicio conforme
+náuticas; su extensión será
 
-a los resultados de este programa
+definida por el Servicio
 
-y sobre la base del riesgo de
+conforme a los resultados
 
-diseminación del virus y de la
+de este programa y sobre
 
-enfermedad. Para el
+la base del riesgo de
 
-establecimiento de esta zona se
+diseminación del virus y
 
-considerarán, entre otros,
+de la enfermedad. Para el
 
-factores de riesgo
+establecimiento de esta
 
-epidemiológicos y características
+zona se considerarán, entre
+
+otros, factores de riesgo
+
+epidemiológicos y
+
+características
 
 oceanográficas.
 
@@ -1684,47 +2070,61 @@ b) Pisciculturas.
 
 Se considerará como zona
 
-infectada la cuenca hidrográfica
+infectada la cuenca
 
-o parte de ella, en la cual se
+hidrográfica o parte de
+
+ella, en la cual se
 
 encuentre una piscicultura
 
-confirmada otros HPR. Además, se
+confirmada otros HPR. Además,
 
-considerará como tal, las
+se considerará como tal,
 
-unidades epidemiológicamente
+las unidades
 
-relacionadas de la piscicultura,
+epidemiológicamente
 
-así como otras instalaciones
+relacionadas de la
+
+piscicultura, así
+
+como otras instalaciones
 
 ubicadas aguas abajo que usen
 
 aguas superficiales.
 
-No obstante, no se generará una
+No obstante, no se generará
 
-zona infectada en aquellos casos
+una zona infectada en
 
-en que la piscicultura confirmada
+aquellos casos en que la
 
-otros HPR cuente con tratamiento
+piscicultura confirmada otros
 
-de desinfección de efluentes que
+HPR cuente con tratamiento de
 
-elimine el virus ISA.
+desinfección de efluentes
 
-Se excluirá de la zona infectada
+que elimine el virus ISA.
 
-a las pisciculturas ubicadas al
+Se excluirá de la zona
 
-interior de esa zona que tengan
+infectada a las
 
-un sistema de desinfección de sus
+pisciculturas ubicadas al
 
-afluentes para la eliminación del
+interior de esa zona que
+
+tengan un sistema de
+
+desinfección de sus
+
+afluentes para la
+
+eliminación del
 
 virus ISA y sus peces se
 
@@ -1736,25 +2136,31 @@ Se considerará como zona
 
 infectada todos los centros
 
-ubicados en un lago en el cual se
+ubicados en un lago en el
 
-haya detectado un centro
+cual se haya detectado un
 
-confirmado otros HPR, así como
+centro confirmado otros HPR,
 
-todas las instalaciones
+así como todas las
+
+instalaciones
 
 hidrobiológicamente conectadas
 
-que usen sus aguas como afluente.
+que usen sus aguas como
 
-Se excluirá de la zona infectada
+afluente.
 
-a las pisciculturas que cuenten
+Se excluirá de la zona
 
-con un sistema de desinfección de
+infectada a las pisciculturas
 
-sus afluentes para la eliminación
+que cuenten con un sistema de
+
+desinfección de sus afluentes
+
+para la eliminación
 
 del virus ISA y sus peces se
 
@@ -1762,63 +2168,77 @@ encuentren negativos.
 
 d) Otras consideraciones.
 
-La condición de zona infectada se
+La condición de zona
 
-mantendrá por un período de 3
+infectada se mantendrá por
 
-meses en los centros de mar, ríos
+un período de 3 meses
+
+en los centros de mar, ríos
 
 y lagos, y de 1 mes en las
 
-pisciculturas, contados desde la
+pisciculturas, contados
 
-desinfección completa del centro
+desde la desinfección
+
+completa del centro
 
 confirmado que le dio origen,
 
 efectuada tras haber sido
 
-eliminados y/o cosechados todos
+eliminados y/o cosechados
 
-los peces del centro o de la
+todos los peces del centro o
 
-unidad epidemiológica
+de la unidad epidemiológica
 
 involucrada. Transcurrido ese
 
-plazo, la zona pasará a zona de
+plazo, la zona pasará a zona
 
-vigilancia, por un período de al
+de vigilancia, por un período
 
-menos 2 años, trascurrido el
+de al menos 2 años,
 
-cual, podrá ser clasificado como
+trascurrido el cual, podrá
 
-zona libre.
+ser clasificado
 
-8.15.3. Zona de vigilancia.
+como zona libre.
 
-8.15.3.1. Es aquella área que rodea a
+8.15.4. Zona de vigilancia.
 
-la zona infectada en un
+8.15.4.1. Es aquella área que
 
-radio mínimo de 10 millas;
+rodea a la zona
 
-su extensión será definida
+infectada en un
 
-por el Servicio conforme a
+radio mínimo de 5 millas
+
+náuticas; su extensión
+
+será definida por el
+
+Servicio conforme a
 
 los resultados de este
 
-programa y sobre la base del
+programa y sobre la base
 
-riesgo de diseminación del
+del riesgo de
 
-virus y la enfermedad. Para
+diseminación del virus
 
-el establecimiento de esta
+y la enfermedad. Para
 
-zona se considerarán, entre
+el establecimiento de
+
+esta zona se
+
+considerarán, entre
 
 otros, factores de riesgo
 
@@ -1828,59 +2248,77 @@ características
 
 oceanográficas, número de
 
-centros activos en el área y
+centros activos en el
 
-frecuencia de movimientos.
+área y frecuencia
 
-8.15.3.2. El Servicio podrá
+de movimientos.
+
+8.15.4.2. El Servicio podrá
 
 establecer, con fines
 
 precautorios, zonas de
 
-vigilancia, aun cuando no se
+vigilancia, aun cuando
 
-haya detectado el virus, en
+no se haya detectado el
 
-caso que la situación
+virus, en caso
+
+que la situación
 
 epidemiológica así lo
 
 amerite.
 
-8.15.3.3. En áreas con varias zonas de
+8.15.4.3. En áreas con varias zonas
 
-vigilancia, el Servicio
+de vigilancia, el
 
-podrá definir una macrozona
+Servicio podrá definir
 
-de vigilancia, en la cual
+una macrozona de
 
-queden todas las zonas en
+vigilancia, en la cual
 
-vigilancia integradas.
+queden todas las zonas
 
-8.15.3.4. Los centros al interior de
+en vigilancia integradas.
 
-una zona de vigilancia se
+8.15.4.4. Los centros al interior
 
-considerarán en vigilancia.
+de una zona de
 
-Esta condición se mantendrá
+vigilancia se
 
-dependiendo de los cambios
+considerarán en
 
-en la situación
+vigilancia.
+
+Esta condición se
+
+mantendrá
+
+dependiendo de los
+
+cambios en la
+
+situación
 
 epidemiológica de la
 
-enfermedad, al menos por 2
+enfermedad, al menos
 
-años, luego del cambio de la
+por 2 años, luego del
+
+cambio de la
 
 condición de la zona
 
-infectada que le dio origen.
+infectada que le dio
+
+origen.
 
 9. MEDIDAS DE LIMPIEZA, DESINFECCIÓN Y BIOSEGURIDAD
 
@@ -1892,51 +2330,57 @@ Todos los centros de cultivo deberán tener los protocolos de limpieza, desinfec
 
 Deberá darse estricto cumplimiento a las medidas de control generales y, además, a las medidas específicas de control que para cada caso se establecen a continuación.
 
-10.1. Medidas de control generales aplicables a todo
+10.1. Medidas de control generales aplicables a
 
-centro
+todo centro
 
 10.1.1. Todo centro de cultivo que requiera
 
 trasladar peces vivos, muertos
 
-(eliminaciones, cosechas), gametos u
+(eliminaciones, cosechas), gametos
 
-ovas desde o hacia centros de cultivo
+u ovas desde o hacia centros de
 
-de especies salmónidas, deberá
+cultivo de especies salmónidas,
 
-solicitar en origen, previo al traslado
+deberá solicitar en origen,
 
-o movimiento, una autorización de
+previo al traslado o movimiento,
 
-carácter sanitario denominada
+una autorización de carácter
 
-"Certificado Sanitario de Movimiento",
+sanitario denominada "Certificado
+
+Sanitario de Movimiento",
 
 en la oficina del Servicio de la
 
-jurisdicción correspondiente al centro
+jurisdicción correspondiente al
 
-de cultivo de origen. Este mismo
+centro de cultivo de origen. Este
 
-certificado deberá ser solicitado en
+mismo certificado deberá ser
 
-caso de contingencia, cuando se trate
+solicitado en caso de contingencia,
 
-de mortalidad no sometida a un sistema
+cuando se trate de mortalidad no
 
-de manejo de los enunciados en el DS
+sometida a un sistema de manejo
+
+de los enunciados en el DS
 
 319, de 2001.
 
-10.1.2. El solicitante deberá presentar, con al
+10.1.2. El solicitante deberá presentar,
 
-menos 2 días hábiles de anticipación,
+con al menos 2 días hábiles de
 
-mediante el formulario diseñado al
+anticipación, mediante el
 
-efecto y disponible en la pagina web de
+formulario diseñado al efecto
+
+y disponible en la pagina web de
 
 Sernapesca, una solicitud de
 
@@ -1948,37 +2392,47 @@ fecha, hora, medio de transporte,
 
 origen y destino, especie, jaula o
 
-grupo a trasladar, análisis de
+grupo a trasladar vigente y ruta
 
-laboratorio de virus ISA vigente y ruta
+de navegación según corresponda. En
 
-de navegación según corresponda. Los
+el caso del Salmón del Atlántico se
 
-centros confirmados otros HPR y en
+deberá presentar el análisis de
 
-brote, deberán presentar esta solicitud
+laboratorio de virus ISA
+
+vigente. Los centros confirmados
+
+otros HPR y en brote, deberán
+
+presentar esta solicitud
 
 para el movimiento de equipos y
 
-materiales que tengan contacto directo
+materiales que tengan contacto
 
-con los peces.
+directo con los peces.
 
-10.1.3. El Servicio, previo análisis conforme
+10.1.3. El Servicio, previo análisis
 
-de los antecedentes antes descritos,
+conforme de los antecedentes
 
-autorizará el movimiento mediante la
+antes descritos, autorizará el
 
-emisión del "Certificado Sanitario de
+movimiento mediante la
 
-Movimiento", el que para todos los
+emisión del "Certificado
 
-efectos deberá acompañar el traslado y
+Sanitario de Movimiento", el
 
-estar disponible a requerimiento de los
+que para todos los efectos
 
-agentes fiscalizadores.
+deberá acompañar el traslado y
+
+estar disponible a requerimiento
+
+de los agentes fiscalizadores.
 
 10.1.4. En el centro de cultivo deberán
 
@@ -1992,149 +2446,85 @@ disposición del Servicio.
 
 10.1.5. Las empresas de cultivo deberán
 
-garantizar que los medios de transporte
+garantizar que los medios de
 
-cumplan con la ruta de navegación
+transporte cumplan con la ruta
 
-informada al Servicio. Para tal efecto,
+de navegación informada al
 
-deberán cumplir con lo establecido en
+Servicio. Para tal efecto, deberán
 
-la resolución exenta Nº 850, de 2011,
+cumplir con lo establecido en
 
-del Servicio Nacional de Pesca.
+la resolución exenta Nº 850, de ,
 
-10.1.6. Todos los centros de cultivo deberán
+2011 del Servicio Nacional
 
-tener un plan de contingencia para ser
+de Pesca.
 
-aplicado en casos de cosechas,
-
-eliminaciones y mortalidades masivas.
-
-Tal documento deberá estar en
-
-conocimiento de los operarios del
-
-centro y disponible para los
-
-funcionarios del Servicio.
-
-10.1.7. Las rutas de navegación establecidas
+10.1.6. Las rutas de navegación establecidas
 
 para el movimiento de peces vivos
 
-deberán ser evaluadas por el Servicio.
+deberán ser evaluadas por el
 
-10.1.8. Está prohibido el movimiento de peces
+Servicio.
 
-sin previa autorización del Servicio.
+10.1.7. Está prohibido el movimiento de
 
-10.1.9. La carga y descarga de recursos
+peces sin previa autorización
 
-hidrobiológicos, vivos o muertos, sus
-
-productos, alimento y redes utilizados
-
-en las actividades de cultivo de
-
-especies salmonideas, deberán
-
-realizarse en puntos de embarque y
-
-desembarque que garanticen la
-
-prevención del ingreso de patógenos y
-
-la diseminación de los mismos.
-
-El Servicio establecerá por resolución
-
-las condiciones generales de manejo
-
-sanitario que deberán cumplir estos
-
-lugares, que incluirán:
-
-. Áreas de carga y descarga,
-
-separadas o de uso exclusivo.
-
-. Zonas de transferencia que
-
-permitan una adecuada limpieza y
-
-desinfección.
-
-. Equipos y materiales para llevar a
-
-cabo los procedimientos de
-
-desinfección previstos en el
-
-programa sanitario de limpieza y
-
-desinfección.
-
-Además, deberán contar con un sistema
-
-de control verificable que asegure el
-
-cumplimiento de las condiciones
-
-generales de manejo sanitario
-
-requeridas, de acuerdo a lo señalado en
-
-la misma resolución.
-
-Para este efecto, el Servicio publicará
-
-en su sitio web institucional, una
-
-nómina de los puntos de embarque y
-
-desembarque que cumplan con las
-
-condiciones antes señaladas.
+del Servicio.
 
 10.2. Medidas específicas de control aplicables a
 
-centros en riesgo, sospechosos, confirmados o en
+centros en riesgo, sospechosos, confirmados
 
-brote.
+o en brote.
 
-10.2.1. El faenamiento y el procesamiento de
+10.2.1. El faenamiento y el procesamiento
 
-peces provenientes de centros de
+de peces provenientes de centros
 
-cultivo en riesgo, sospechosos,
+de cultivo en riesgo con
+
+Salmón del
+
+Atlántico, sospechosos,
 
 confirmados o en brote, sólo podrá
 
-realizarse en centros de faenamiento o
+realizarse en centros de
 
-plantas de proceso que cuenten con un
+faenamiento o plantas de
 
-sistema de desinfección de efluentes
+proceso que cuenten
 
-que garantice la inactivación del virus
+con un sistema de desinfección
+
+de efluentes que garantice la
+
+inactivación del virus
 
 ISA. Dichas plantas estarán
 
-incorporadas en un listado disponible
+incorporadas en un listado
 
-en la página web del Servicio.
+disponible en la página web
 
-10.2.2. La cosecha de centros en riesgo,
+del Servicio.
 
-sospechosos, confirmados o en brote,
+10.2.2. La cosecha de centros en riesgo con
 
-sólo podrá realizarse a través de las
+Salmón del Atlántico,
 
-opciones siguientes, previa
+sospechosos, confirmados otros HPR o
 
-autorización del Servicio:
+en brote, sólo podrá realizarse a
+
+través de las opciones siguientes,
+
+previa autorización del Servicio:
 
 a) Cosecha tipo canadiense
 
@@ -2142,15 +2532,21 @@ a) Cosecha tipo canadiense
 
 sistema que impida la caída de
 
-sangre y otros desechos al medio.
+sangre y otros desechos al
 
-b) Wellboats cerrados que realicen
+medio.
 
-bombeo directo a planta.
+b) Wellboats cerrados que
+
+realicen bombeo directo a
+
+planta.
 
 c) Wellboats con sistema de
 
-desinfección de los efluentes.
+desinfección de los
+
+efluentes.
 
 Excepcionalmente, el Servicio podrá
 
@@ -2162,71 +2558,55 @@ la situación sanitaria lo amerite,
 
 previa evaluación de la ruta de
 
-navegación y el cumplimiento de medidas
+navegación y el cumplimiento de
 
-de bioseguridad durante el
+medidas de bioseguridad durante el
 
 procedimiento. En estos casos, la
 
-salida de los peces desde el centro de
+salida de los peces desde el centro
 
-acopio deberá realizarse inmediatamente
+de acopio deberá realizarse
 
-después de la descarga.
+inmediatamente después de la
+
+descarga.
 
 Además, el Servicio podrá autorizar,
 
-previa inspección, otras modalidades de
+previa inspección, otras modalidades
 
-cosecha, siempre que se evite el
+de cosecha, siempre que se evite el
 
-derrame de sangre y otros desechos al
+derrame de sangre y otros desechos
 
-medio.
+al medio.
 
 10.2.3. Los peces que se encuentren
 
-evidentemente enfermos al momento de la
+evidentemente enfermos al momento
 
-cosecha, deberán ser apartados y
+de la cosecha, deberán ser
 
-destinados a mortalidad.
+apartados y destinados a
 
-10.2.4. Se prohibe el uso como carnada de peces
+mortalidad.
 
-o desechos de éstos, provenientes de
+10.2.4. Se prohibe el uso como carnada de
 
-centros de cultivo de salmónidos
+peces o desechos de éstos,
 
-clasificados en riesgo, sospechosos,
+provenientes de centros de cultivo
 
-confirmados o en brote.
+de salmónidos clasificados en riesgo
 
-10.2.5. Todos los equipos y materiales que
+con Salmón del Atlántico,
 
-tengan contacto con los peces deberán,
+sospechosos, confirmados o en brote.
 
-previo a su movimiento, ser limpiados y
+10.2.5. ELIMINADO.
 
-desinfectados. Se deberá llevar un
-
-registro de esta actividad en el centro
-
-de cultivo.
-
-10.2.6. El lavado y limpieza de las artes de
-
-cultivo deberá dar cumplimiento a las
-
-exigencias establecidas en el
-
-Reglamento de Medidas de Protección,
-
-Control y Erradicación de Enfermedades
-
-de Alto Riesgo para las Especies
-
-Hidrobiológicas.
+10.2.6. ELIMINADO.
 
 10.3. Medidas específicas de control aplicables a
 
@@ -2234,191 +2614,145 @@ pisciculturas sospechosas, confirmadas o en
 
 brote.
 
-10.3.1. Las pisciculturas sospechosas,
+10.3.1. Las pisciculturas confirmadas
 
-confirmadas o en brote, deberán
+indeterminadas, otros HPR o
 
-presentar, en la oficina de Sernapesca
+en brote, deberán
 
-de la jurisdicción correspondiente, en
+presentar, en la oficina de
 
-un plazo de 48 horas desde que el
+Sernapesca de la jurisdicción
+
+correspondiente, en un plazo
+
+de 48 horas desde que el
 
 Servicio haya notificado la
 
-clasificación del centro, un plan que
+clasificación del centro, un plan
 
-establezca los protocolos de
+que establezca los protocolos de
 
 eliminación y/o cosecha para las
 
 unidades que hayan definido. Estos
 
-planes estarán sujetos a modificaciones
+planes estarán sujetos a
 
-conforme la evaluación de la condición
+modificaciones conforme la
+
+evaluación de la condición
 
 sanitaria del centro.
 
-10.3.2. Las pisciculturas sospechosas no podrán
+10.3.2. Las pisciculturas sospechosas no
 
-trasladar peces hacia otros centros de
+podrán trasladar peces hacia
 
-cultivo, hasta haber confirmado o
+otros centros de cultivo,
 
-descartado la positividad al virus ISA.
+hasta haber confirmado o
+
+descartado la positividad al virus
+
+ISA.
 
 10.3.3. Pisciculturas confirmadas HPR 0.
 
-10.3.3.1. Los peces ubicados en
+10.3.3.1. La piscicultura que
 
-unidades epidemiológicas
+reciba peces provenientes de una UE
 
-positivas, podrán ser
-
-mantenidos en ellas siempre
-
-que se cuente con un sistema
-
-de desinfección de los
-
-efuentes que garantice la
-
-inactivación del virus.
-
-10.3.3.2. Sólo se permitirá el
-
-traslado de peces de UE
-
-positivas a pisciculturas
-
-que cuenten con un sistema
-
-de desinfección de los
-
-efuentes que garantice la
-
-inactivación del virus, el
-
-cual deberá ser verificable.
-
-10.3.3.3. La piscicultura que reciba
-
-peces provenientes de una UE
-
-confirmada HPR 0, quedará
+confirmada HPR 0 quedará
 
 categorizada en la misma
 
 condición.
 
-10.3.3.4. Está prohibido el movimiento
-
-de peces a zonas de mejor
-
-condición sanitaria en
-
-relación al virus ISA.
-
-Asimismo, está prohibido el
+10.3.3.2. Está prohibido el
 
 movimiento de peces desde
 
-pisciculturas confirmadas
+pisciculturas confirmadas HPR 0
 
-HPR 0 hacia centros ubicados
+hacia centros ubicados en
 
-en lagos.
+lagos. Esta restricción
 
-10.3.3.5. Las restricciones de
+sólo aplicará a las
 
-movimiento sólo se aplicarán
+UE positivas.
 
-a las UE positivas.
+10.3.4. Pisciculturas confirmadas
 
-10.3.3.6. Las UE confirmadas HPR 0
+otros HPR o en brote.
 
-deberán realizar un período
+10.3.4.1. La eliminación y/o
 
-de descanso de 7 días, que
+cosecha de las UE
 
-se iniciará una vez que se
+positivas, que son
+
+aquellas que tienen
+
+dos muestreos diferentes
+
+con resultados positivos
+
+y, al menos, uno
+
+secuenciado de una
+
+variante distinta a HPR
+
+0, o un muestreo
+
+positivo y
+
+signología clínica
+
+asociada a la
+
+enfermedad,
+
+se deberá iniciar en un
+
+plazo máximo de 3 días
+
+contado desde que
+
+Sernapesca notifique
+
+la condición del
+
+centro. Este
+
+procedimiento será total
+
+o parcial según la
+
+definición de las UE.
+
+10.3.4.2. Las UE deberán realizar
+
+un período de descanso
+
+de 7 días, el cual se
+
+iniciará una vez que se
 
 hayan eliminado y/o
 
-cosechado los peces y se
-
-haya realizado el
-
-procedimiento de
-
-desinfección. Éste deberá
-
-ser acreditado por un
-
-certificador de
-
-desinfección.
-
-10.3.3.7. En el caso de las
-
-pisciculturas de
-
-recirculación con UE
-
-positivas, el descanso y
-
-desinfección estará sujeto a
-
-la evaluación, por parte del
-
-Servicio, de los
-
-antecedentes aportados por
-
-la empresa respecto al
-
-funcionamiento del
-
-biofiltro.
-
-10.3.4. Pisciculturas confirmadas otros HPR o
-
-en brote.
-
-10.3.4.1. La eliminación y/o cosecha
-
-de las UE positivas se
-
-deberá iniciar en un plazo
-
-máximo de 3 días contado
-
-desde que Sernapesca
-
-notifique la condición del
-
-centro. Este procedimiento
-
-será total o parcial según
-
-la definición de las UE.
-
-10.3.4.2. Las UE deberán realizar un
-
-período de descanso de 7
-
-días, el cual se iniciará
-
-una vez que se hayan
-
-eliminado y/o cosechado los
+cosechado los
 
 peces de las UE
 
 involucradas, y se haya
 
-realizado el procedimiento
+realizado el
+
+procedimiento
 
 de desinfección. Tal
 
@@ -2438,37 +2772,89 @@ recirculación con UE
 
 positivas, el descanso y
 
-desinfección estará sujeto a
+desinfección estará
 
-la evaluación, por parte del
+sujeto a la evaluación,
+
+por parte del
 
 Servicio, de los
 
-antecedentes aportados por
+antecedentes aportados
 
-la empresa respecto al
+por la empresa respecto
 
-funcionamiento del
+al funcionamiento
 
-biofiltro.
+del biofiltro.
 
-10.3.4.4. No se podrán ingresar peces
+10.3.4.4. No se podrán ingresar
 
-hasta que las UE hayan
+peces hasta que las
 
-terminado su periodo de
+UE hayan terminado su
 
-descanso.
+periodo de descanso.
+
+10.3.5. Pisciculturas confirmadas
+
+indeterminadas.
+
+10.3.5.1. No podrán trasladar
+
+peces hacia otros
+
+centros de cultivo,
+
+hasta haber obtenido
+
+el resultado de la
+
+secuenciación o del
+
+RT-PCR específico para
+
+virus ISA HPR 0.
+
+10.3.5.2. Las UE deberán realizar
+
+un periodo de
+
+descanso de 7 días, el
+
+cual se iniciará una
+
+vez que se hayan eliminado
+
+y/o cosechado los
+
+peces de las UE
+
+involucradas, y se haya
+
+realizado el procedimiento
+
+de desinfección.
+
+Tal procedimiento deberá
+
+ser acreditado por
+
+un certificador de
+
+desinfección.
 
 10.4. Medidas específicas aplicables a los centros
 
-sospechosos, confirmados o en brote que realizan
+sospechosos, confirmados o en brote que
 
-esmoltificación en lagos, ríos y mar
+realizan esmoltificación en lagos, ríos y mar
 
 (estuarios).
 
-10.4.1. Los centros sospechosos, confirmados o
+10.4.1. Los centros confirmados
+
+indeterminados, otros HPR o
 
 en brote, deberán presentar en la
 
@@ -2476,31 +2862,33 @@ oficina de Sernapesca de la
 
 jurisdicción correspondiente, en un
 
-plazo de 48 horas contado desde que el
+plazo de 48 horas contado desde que
 
-Servicio haya notificado la
+el Servicio haya notificado la
 
-clasificación del centro, un plan que
+clasificación del centro, un plan
 
-establezca los protocolos de
+que establezca los protocolos de
 
-eliminación y/o cosecha para las jaulas
+eliminación y/o cosecha para las
 
-positivas. Estos planes estarán sujetos
+jaulas positivas. Estos planes
 
-a modificaciones conforme la evaluación
+estarán sujetos a modificaciones
 
-de la condición sanitaria del centro.
+conforme la evaluación de la
 
-10.4.2. Los centros sospechosos no podrán mover
+condición sanitaria del centro.
 
-peces hasta haber confirmado o
+10.4.2. Los centros sospechosos no podrán
 
-descartado la positividad al virus ISA,
+mover peces hasta haber confirmado o
 
-a menos que sean eliminados y/o
+descartado la positividad al virus
 
-cosechados.
+ISA, a menos que sean eliminados
+
+y/o cosechados.
 
 10.4.3. Centros confirmados HPR 0 e
 
@@ -2508,27 +2896,31 @@ indeterminados.
 
 10.4.3.1. Los centros de cultivo
 
-confirmados HPR 0 e
+confirmados
 
 indeterminados deberán
 
-descansar 3 meses, una vez
+descansar 3 meses, una
 
-que se haya realizado la
+vez que se haya
 
-eliminación y/o cosecha
+realizado la eliminación
 
-completa del centro.
+y/o cosecha completa
+
+del centro.
 
 10.4.3.2. Luego de eliminada y/o
 
 cosechada la última jaula
 
-del centro se deberá retirar
+del centro se deberá
 
-la totalidad de las redes y
+retirar la totalidad de
 
-ejecutar los procedimientos
+las redes y ejecutar
+
+los procedimientos
 
 de desinfección
 
@@ -2542,97 +2934,139 @@ certificador de
 
 desinfección.
 
-10.4.3.3. El proceso de desinfección
+10.4.3.3. El proceso de
 
-deberá iniciarse en un plazo
+desinfección
 
-máximo de 7 días de
+deberá iniciarse en un
 
-efectuada la eliminación y/o
+plazo máximo de 7 días de
 
-cosecha total del centro y
+efectuada la eliminación
 
-deberá culminar en un plazo
+y/o cosecha total del
 
-máximo de 21 días.
+centro y deberá culminar
 
-10.4.3.4. No se podrá ingresar Salmón
+en un plazo máximo
 
-del Atlántico hasta que el
+de 21 días.
 
-centro haya terminado su
+10.4.3.4. No se podrá ingresar
+
+Salmón del Atlántico
+
+hasta que el centro
+
+haya terminado su
 
 período de descanso de 3
 
-meses. En el caso de otros
+meses. En el caso de
 
-salmónidos, éstos podrán ser
+otros salmónidos,
 
-ingresados una vez cumplido
+éstos podrán ser
 
-1 mes de descanso.
+ingresados una vez
+
+cumplido 1 mes de
+
+descanso.
 
 10.4.4. Centros confirmados otros HPR o en
 
 Brote.
 
-10.4.4.1. La cosecha y/o eliminación
+10.4.4.1. La cosecha y/o
 
-de las jaulas de los centros
+eliminación de las
 
-clasificados como confirmado
+jaulas de los
 
-otros HPR o en brote, deberá
+centros clasificados como
 
-iniciarse en un plazo máximo
+confirmado otros HPR o en
 
-de 3 días contado desde que
+brote, que son aquellos
+
+que tienen dos muestreos
+
+diferentes con resultados
+
+positivos y, al menos,
+
+uno secuenciado de una
+
+variante distinta a HPR
+
+0, o un muestreo positivo
+
+y signología clínica
+
+asociada a la enfermedad,
+
+deberá iniciarse en
+
+un plazo máximo de 3
+
+días contado desde que
 
 Sernapesca notifique la
 
 condición del centro. La
 
-cosecha no podrá exceder el
+cosecha no podrá exceder
 
-período máximo de 15 días,
+el período máximo de 15
 
-en tanto la eliminación no
+días, en tanto la
 
-podrá prolongarse por más de
+eliminación no podrá
+
+prolongarse por más de
 
 7 días. En caso de
 
-encontrarse varias jaulas en
+encontrarse varias jaulas
 
-la condición de confirmada
+en la condición de
 
-otros HPR o en brote, se
+confirmada otros HPR
 
-deberá priorizar las jaulas
+o en brote, se
 
-con condición sanitaria más
+deberá priorizar las
+
+jaulas con condición
+
+sanitaria más
 
 deficiente.
 
 El Servicio, previa
 
-solicitud del titular del
+solicitud del titular
 
-centro, podrá ampliar, por
+del centro, podrá
 
-una sola vez, los plazos
+ampliar, por una sola
 
-antes establecidos, siempre
+vez, los plazos antes
+
+establecidos, siempre
 
 y cuando las condiciones
 
-operativas o climáticas no
+operativas o climáticas
 
-permitan cumplir con estas
+no permitan cumplir con
 
-medidas. Para tal efecto, se
+estas medidas. Para tal
 
-acompañará a la solicitud un
+efecto, se acompañará
+
+a la solicitud un
 
 informe que explique en
 
@@ -2640,11 +3074,13 @@ forma detallada la
 
 situación.
 
-10.4.4.2. Los centros que cumplan con
+10.4.4.2. Los centros que cumplan
 
-la condición establecida en
+con la condición
 
-el numeral 7.3. letra b) del
+establecida en el
+
+numeral 7.3. letra b) del
 
 presente programa, deberán
 
@@ -2654,11 +3090,13 @@ eliminación total del
 
 centro. En tal caso, se
 
-deberá dar cumplimiento a lo
+deberá dar cumplimiento
 
-dispuesto en el numeral
+a lo dispuesto en el
 
-10.4.1. precedente.
+numeral 10.4.1.
+
+precedente.
 
 10.4.4.3. Los centros de cultivo
 
@@ -2666,125 +3104,155 @@ deberán descansar 3 meses
 
 una vez que se haya
 
-realizado la eliminación y/o
+realizado la eliminación
 
-cosecha total del centro.
+y/o cosecha total del
+
+centro.
 
 10.4.4.4. Luego de cosechada y/o
 
-eliminada la última jaula
+eliminada la última
 
-del centro se deberá retirar
+jaula del centro se
 
-la totalidad de las redes y
+deberá retirar
 
-ejecutar los procedimientos
+la totalidad de las
+
+redes y ejecutar
+
+los procedimientos
 
 de desinfección
 
 correspondientes. Tal
 
-procedimiento deberá ser
+procedimiento deberá
 
-acreditado por un
+ser acreditado por un
 
 certificador de
 
 desinfección.
 
-10.4.4.5. El proceso de desinfección
+10.4.4.5. El proceso de
 
-deberá iniciarse en un plazo
+desinfección
 
-máximo de 7 días contado
+deberá iniciarse en un
+
+plazo máximo de
+
+7 días contado
 
 desde la cosecha y/o
 
-eliminación total del centro
+eliminación total del
 
-y deberá culminar en un
+centro y deberá
+
+culminar en un
 
 plazo máximo de 21 días.
 
-10.4.4.6. No se podrá ingresar Salmón
+10.4.4.6. No se podrá ingresar
 
-del Atlántico hasta que el
+Salmón del Atlántico
+
+hasta que el
 
 centro haya terminado su
 
 período de descanso de 3
 
-meses. En el caso de otros
+meses. En el caso de
 
-salmónidos, éstos podrán ser
+otros salmónidos, éstos
 
-ingresados una vez cumplido
+podrán ser ingresados una
 
-1 mes de descanso.
+vez cumplido 1 mes
+
+de descanso.
 
 10.4.4.7. Conforme a la dinámica
 
-sanitaria de la enfermedad,
+sanitaria de la
 
-el Servicio definirá los
+enfermedad,el
 
-puertos habilitados para el
+Servicio definirá los
 
-desembarque y descarga de
+puertos habilitados para
 
-las embarcaciones
+el desembarque y descarga
+
+de las embarcaciones
 
 provenientes de estos
 
-centros, los cuales deberán
+centros, los cuales
 
-cumplir con los requisitos
+deberán cumplir con
 
-de bioseguridad establecidos
+los requisitos de
+
+bioseguridad
+
+establecidos
 
 por resolución de
 
 Sernapesca.
 
-10.5. Medidas específicas aplicables a los centros de
+10.5. Medidas específicas aplicables a los centros
 
-engorda sospechosos, confirmados o en brote,
+de engorda sospechosos, confirmados o en
 
-ubicados en mar
+brote, ubicados en mar
 
-10.5.1. Los centros sospechosos, confirmados o
+10.5.1. Los centros confirmados
+
+indeterminados, otros HPR o
 
 en brote, deberán presentar en la
 
 oficina de Sernapesca de la
 
-jurisdicción correspondiente, en un
+jurisdicción correspondiente, en
 
-plazo de 48 horas desde que el Servicio
+un plazo de 48 horas desde que el
 
-haya notificado la clasificación del
+Servicio haya notificado la
 
-centro, un plan que establezca los
+clasificación del centro,
 
-protocolos de eliminación y/o cosecha
+un plan que establezca los
 
-para las jaulas positivas.
+protocolos de eliminación y/o
+
+cosechapara las jaulas positivas.
 
 Estos planes estarán sujetos a
 
-modificaciones conforme la evaluación
+modificaciones conforme la
 
-de la condición sanitaria del centro.
+evaluación de la condición
 
-10.5.2. Los centros sospechosos no podrán mover
+sanitaria del centro.
 
-peces hasta haber confirmado o
+10.5.2. Los centros sospechosos no podrán
 
-descartado la positividad al virus ISA,
+mover peces hasta haber confirmado
 
-a no ser que sean eliminados y/o
+o descartado la positividad al
 
-cosechados.
+virus ISA, a no ser que
+
+sean eliminados
+
+y/o cosechados.
 
 10.5.3. Centros confirmados HPR 0 e
 
@@ -2792,13 +3260,15 @@ indeterminados.
 
 10.5.3.1. Los centros de cultivo
 
-confirmados HPR 0 e
+confirmados
 
 indeterminados deberán
 
-descansar 3 meses, una vez
+descansar 3 meses, una
 
-que se haya realizado la
+vez que se haya
+
+realizado la
 
 eliminación y/o cosecha
 
@@ -2808,11 +3278,13 @@ completa del centro.
 
 eliminada la última jaula
 
-del centro se deberá retirar
+del centro se deberá
 
-la totalidad de las redes y
+retirar la totalidad de
 
-ejecutar los procedimientos
+las redes y ejecutar
+
+los procedimientos
 
 de desinfección
 
@@ -2826,59 +3298,93 @@ certificador de
 
 desinfección.
 
-10.5.3.3. El proceso de desinfección
+10.5.3.3. El proceso de
 
-deberá iniciarse en un plazo
+desinfección
 
-máximo de 7 días de
+deberá iniciarse en
 
-efectuada la cosecha y/o
+un plazo máximo de
 
-eliminación total del centro
+7 días de efectuada
 
-y deberá culminar en un
+la cosecha y/o
+
+eliminación total del
+
+centro y deberá
+
+culminar en un
 
 plazo máximo de 21 días.
 
-10.5.3.4. No se podrá ingresar Salmón
+10.5.3.4. No se podrá ingresar
 
-del Atlántico hasta que el
+Salmón del Atlántico
+
+hasta que el
 
 centro haya terminado su
 
 período de descanso de 3
 
-meses. En el caso de otros
+meses. En el caso de
 
-salmónidos, éstos podrán ser
+otros salmónidos, éstos
 
-ingresados una vez cumplido
+podrán ser ingresados
 
-1 mes de descanso.
+una vez cumplido 1 mes
+
+de descanso.
 
 10.5.4. Centros confirmados otros HPR y en
 
 brote.
 
-10.5.4.1. La cosecha y/o eliminación
+10.5.4.1. La cosecha y/o
 
-de las jaulas de los centros
+eliminación
 
-clasificados como
+de las jaulas de los
 
-confirmados otros HPR o en
+centros clasificados
 
-brote, deberá iniciarse en
+como confirmados
 
-un plazo máximo de 3 días
+otros HPR o
 
-contado desde que Sernapesca
+en brote, que son aquellos
 
-notifique la condición del
+que tienen dos muestreos
 
-centro. La cosecha no podrá
+diferentes con resultados
 
-exceder el período máximo de
+positivos y, al menos,
+
+uno secuenciado de una
+
+variante distinta a HPR
+
+0, o un muestreo positivo
+
+y signología clínica
+
+asociada a la enfermedad,
+
+deberá iniciarse en
+
+un plazo máximo de 3
+
+días contado desde que
+
+Sernapesca notifique la
+
+condición del centro. La
+
+cosecha no podrá exceder
+
+el período máximo de
 
 15 días, en tanto la
 
@@ -2886,7 +3392,9 @@ eliminación no podrá
 
 prolongarse por más de 7
 
-días. En caso de encontrarse
+días. En caso de
+
+encontrarse
 
 varias jaulas en la
 
@@ -2894,9 +3402,11 @@ condición de confirmada
 
 otros HPR o en brote, se
 
-deberá priorizar las jaulas
+deberá priorizar las
 
-con condición sanitaria más
+jaulas con condición
+
+sanitaria más
 
 deficiente.
 
@@ -2904,55 +3414,69 @@ El Servicio, previa
 
 solicitud del titular del
 
-centro, podrá ampliar, por
+centro, podrá ampliar,
 
-una sola vez, los plazos
+por una sola vez,
 
-antes establecidos, siempre
+los plazos antes
+
+establecidos, siempre
 
 y cuando las condiciones
 
-operativas o climáticas no
+operativas o climáticas
 
-permitan cumplir con esta
+no permitan cumplir con
 
-medida. Para tal efecto, se
+esta medida. Para tal
 
-acompañará a la solicitud un
+efecto, se
 
-informe que explique en
+acompañará a la
 
-forma detallada la
+solicitud un informe
+
+que explique en forma
+
+detallada la
 
 situación.
 
-10.5.4.2. Los centros que cumplan con
+10.5.4.2. Los centros que cumplan
 
-la condición establecida en
+con la condición
 
-el numeral 7.3. letra b) del
+establecida en
 
-presente programa, deberán
+el numeral 7.3. letra b)
 
-realizar la cosecha y/o
+del presente programa,
+
+deberán realizar la
+
+cosecha y/o
 
 eliminación total del
 
 centro. En tal caso, se
 
-deberá dar cumplimiento a lo
+deberá dar cumplimiento
 
-dispuesto en el numeral
+a lo dispuesto en
+
+el numeral
 
 10.5.1. precedente.
 
 10.5.4.3. Los centros de cultivo
 
-deberán descansar 3 meses
+deberán descansar 3
 
-una vez que se haya
+meses una vez que se
 
-realizado la eliminación y/o
+haya realizado
+
+la eliminación y/o
 
 cosecha total del centro.
 
@@ -2960,11 +3484,13 @@ cosecha total del centro.
 
 eliminada la última jaula
 
-del centro se deberá retirar
+del centro se deberá
 
-la totalidad de las redes y
+retirar la totalidad de
 
-ejecutar los procedimientos
+las redes y ejecutar
+
+los procedimientos
 
 de desinfección
 
@@ -2978,161 +3504,177 @@ certificador de
 
 desinfección.
 
-10.5.4.5. El proceso de desinfección
+10.5.4.5. El proceso de
 
-deberá iniciarse en un plazo
+desinfección
+
+deberá iniciarse en
+
+un plazo
 
 máximo de 7 días de
 
-efectuada la cosecha y/o
+efectuada la cosecha
 
-eliminación total del centro
+y/o eliminación total
 
-y deberá culminar en un
+del centro y deberá
+
+culminar en un
 
 plazo máximo de 21 días.
 
-10.5.4.6. No se podrá ingresar Salmón
+10.5.4.6. No se podrá ingresar
 
-del Atlántico hasta que el
+Salmón del Atlántico
 
-centro haya terminado su
+hasta que el centro
 
-período de descanso de 3
+haya terminado su
 
-meses. En el caso de otros
+período de descanso de
 
-salmónidos, éstos podrán ser
+3 meses. En el caso de
 
-ingresados una vez cumplido
+otros salmónidos,
 
-1 mes de descanso.
+éstos podrán ser
+
+ingresados una vez
+
+cumplido 1 mes de
+
+descanso.
 
 10.5.4.7. Conforme a la dinámica
 
-sanitaria de la enfermedad,
+sanitaria de la
 
-el Servicio definirá los
+enfermedad, el Servicio
 
-puertos habilitados para el
+definirá los puertos
 
-desembarque y descarga de
+habilitados para el
 
-las embarcaciones
+desembarque y descarga
+
+de las embarcaciones
 
 provenientes de estos
 
-centros, los cuales deberán
+centros, los cuales
 
-cumplir con los requisitos
+deberán cumplir con los
 
-de bioseguridad establecidos
+requisitos de
+
+bioseguridad
+
+establecidos
 
 por resolución de
 
 Sernapesca.
 
-10.6. Medidas específicas aplicables a los centros en
+10.6. Medidas específicas aplicables a los centros
 
-riesgo.
+en riesgo.
 
 No se podrá ingresar Salmón del Atlántico a los
 
-centros ubicados a 10 millas de un centro
+centros ubicados a 5 millas náuticas de un
 
-confirmado otros HPR hasta que el centro que
+centro confirmado otros HPR hasta que el
 
-generó la zona infectada haya concluido su
+centro que generó la zona infectada haya
 
-período de descanso de 3 meses.
+concluido su período de descanso de 3
+
+meses.
 
 10.7. Medidas específicas aplicables a los
 
 reproductores y su descendencia.
 
-10.7.1. Los centros confirmados otros HPR o en
+10.7.1. Los centros confirmados otros HPR,
 
-brote no podrán trasladar reproductores
+indeterminados o en brote no
+
+podrán trasladar reproductores
 
 a agua dulce.
 
-10.7.2. Los centros sospechosos o confirmados
+10.7.2. En el evento que del proceso de
 
-HPR 0 no podrán trasladar reproductores
+screening resulte algún pez
 
-a agua dulce, salvo que la piscicultura
+positivo al virus ISA, se
 
-de destino cuente con un sistema de
+deberán eliminar
 
-desinfección de los efluentes que
+todas las ovas provenientes de
 
-asegure la inactivación del virus ISA,
+los padres positivos y aquellas
 
-el cual deberá ser verificable.
+procedentes de padres negativos
 
-Posterior al traslado de los
-
-reproductores desde mar a agua dulce,
-
-deberá desinfectarse el agua que
-
-acompañe a éstos en su viaje a la
-
-piscicultura.
-
-10.7.3. En el evento que del proceso de
-
-screening resulte algún pez positivo al
-
-virus ISA, se deberán eliminar todas
-
-las ovas provenientes de los padres
-
-positivos y aquellas procedentes de
-
-padres negativos dispuestas en el mismo
+dispuestas en el mismo
 
 incubador que las primeras. La
 
 piscicultura quedará en vigilancia
 
-hasta que la descendencia de los peces
+hasta que la descendencia de los
 
-desovados el mismo día que el padre
+peces desovados el mismo día que
 
-positivo haya sido trasladada y se
+el padre positivo haya sido
 
-encuentre realizada la desinfección de
+trasladada y se encuentre
+
+realizada la desinfección de
 
 las UE y el descanso de 7 días.
 
-Los siguientes desoves que se realicen
+Los siguientes desoves que se
 
-en la piscicultura deberán ser
+realicen en la piscicultura
 
-comunicados al Servicio con 48 horas de
+en que producto
 
-anticipación.
+del resultado de la secuenciación
 
-10.7.4. Se deberá realizar una desinfección de
+sea clasificada otros HPR o
 
-las ovas de especies salmonideas, en
+indeterminada deberán ser
 
-sus etapas ova verde y ova con ojo,
+comunicados al Servicio con 48
 
-conforme lo dispuesto por el Servicio
+horas de anticipación.
 
-en la resolución Nº 65, de 2003, que
+10.7.3. Se deberá realizar una desinfección
 
-aprueba el Programa Sanitario General
+de las ovas de especies
 
-de Desinfección aplicable a la
+salmonideas, en sus etapas
 
-Producción de Peces.
+ova verde y ova con ojo, conforme
 
-10.8. Medidas específicas aplicables a las actividades
+lo dispuesto por el Servicio
 
-de experimentación y de investigación.
+en la resolución Nº 65, de 2003,
+
+que aprueba el Programa Sanitario
+
+General de Desinfección aplicable
+
+a la Producción de Peces.
+
+10.8. Medidas específicas aplicables a las
+
+actividades de experimentación y de
+
+investigación.
 
 10.8.1. Sin perjuicio de la inscripción que
 
@@ -3140,55 +3682,63 @@ proceda en el Registro Nacional de
 
 Acuicultura, las instalaciones que
 
-realicen actividades de experimentación
+realicen actividades de
 
-o de investigación con virus ISA
+experimentación o de investigación
 
-viable, deberán contar con una
+con virus ISA viable, deberán
 
-autorización expresa de Sernapesca, la
+contar con una autorización expresa
 
-que se otorgará en forma individual
+de Sernapesca, la que se otorgará
 
-para cada actividad. Para tal efecto,
+en forma individual para cada
+
+actividad. Para tal efecto,
 
 se deberá enviar al Servicio los
 
 antecedentes correspondientes,
 
-incluyendo procedimientos, protocolos,
+incluyendo procedimientos,
 
-medidas de bioseguridad, programa de
+protocolos, medidas de bioseguridad,
 
-actividades, origen del aislado del
+programa de actividades, origen
 
-virus a utilizar, número y origen de
+del aislado del virus a utilizar,
 
-los individuos.
+número y origen de los individuos.
 
 Además, las instalaciones deberán
 
-contar con un sistema de desinfección
+contar con un sistema de
 
-de los efluentes que asegure la
+desinfección de los efluentes que
 
-inactivación del virus, el cual deberá
+asegure la inactivación del virus,
 
-ser verificable.
+el cual deberá ser verificable.
 
 10.8.2. Al concluir la actividad de
 
-experimentación o de investigación, los
+experimentación o de investigación,
 
-peces utilizados deberán ser eliminados
+los peces utilizados deberán ser
 
-mediante un método previamente
+eliminados mediante un método
 
-autorizado por el Servicio. Además, se
+previamente autorizado por el
 
-deberá remitir a Sernapesca un informe
+Servicio.
 
-final que de cuenta del cumplimiento de
+Además, se deberá remitir
+
+a Sernapesca un informe
+
+final que de cuenta del
+
+cumplimiento de
 
 la programación de las actividades
 
@@ -3196,11 +3746,13 @@ autorizadas.
 
 10.9. Vacunación
 
-10.9.1. Se establecerá en un plazo máximo de 3
+10.9.1. Se establecerá en un plazo
 
-meses la vacunación obligatoria para el
+máximo de 3 meses la vacunación
 
-Salmón del Atlántico, cumpliendo el
+obligatoria para el Salmón
+
+del Atlántico, cumpliendo el
 
 protocolo o las especificaciones
 
@@ -3210,25 +3762,27 @@ laboratorios fabricantes. La
 
 aplicabilidad de tal medida estará
 
-sujeta al resultado de los estudios a
+sujeta al resultado de los estudios
 
-que se hace referencia en el numeral
+a que se hace referencia en el
 
-siguiente.
+numeral siguiente.
 
-10.9.2. Las vacunas a utilizar deberán contar
+10.9.2. Las vacunas a utilizar deberán
 
-con un estudio para evaluar su
+contar con un estudio para evaluar
 
-eficacia, según los protocolos que el
+su eficacia, según los protocolos
 
-Servicio establezca. Si alguna de las
+que el Servicio establezca. Si
 
-empresas fabricantes de vacunas no
+alguna de las empresas fabricantes
 
-cumple con este requisito, la misma no
+de vacunas no cumple con este
 
-formará parte del presente programa.
+requisito, la misma no formará
+
+parte del presente programa.
 
 #### Artículo segundo
 
