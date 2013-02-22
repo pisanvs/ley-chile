@@ -1,0 +1,3 @@
+Por resolución exenta N° 394, de 8 de febrero de 2013, de esta Subsecretaría, recházanse las solicitudes Nos 211101088, 212121014, 211122066, 210103030, 211101119, 211122054, 211101073, 211105029, 211101128 y 211104033, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de febrero de 2013.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
