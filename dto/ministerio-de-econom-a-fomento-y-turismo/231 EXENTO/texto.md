@@ -1,0 +1,3 @@
+Por decreto exento Nº 231, de 15 de febrero de 2013, de este Ministerio, modifícase el artículo 2º del decreto exento Nº 227, de 2012, del Ministerio de Economía, Fomento y Turismo, que estableció el Régimen Artesanal de Extracción en la VIII Región para el período 2012-2026, en las pesquerías de Anchoveta y Sardina común, en el sentido de incorporar al listado de organizaciones de pescadores artesanales sometidas a dicho Régimen al SINDICATO DE TRABAJADORES INDEPENDIENTES ARMADORES Y PESCADORES ARTESANALES BUZOS MARISCADORES, ALGUEROS ACUICULTORES Y ACTIVIDADES CONEXAS DE LA REGIÓN DEL BÍO BÍO (Pesca Bío Bío), Registro Sindical Único Nº 8050532.
+
+Valparaíso, 15 de febrero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
