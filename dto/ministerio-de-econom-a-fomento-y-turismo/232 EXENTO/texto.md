@@ -1,0 +1,5 @@
+Por decreto exento Nº 232, de 15 de febrero de 2013, de este Ministerio, modificase el artículo 1º del decreto exento Nº 191 de 2012, del Ministerio de Economía, Fomento y Turismo, que estableció el Régimen Artesanal de Extracción en la VII Región para el período 2012 - 2016, en las pesquerías de Anchoveta y Sardina común, en el sentido de incorporar al listado de organizaciones sometidas a dicho Régimen al SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES Y ASOCIADOS AGUA LIMPIA, Registro Sindical Único Nº07050118.
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 15 de febrero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
