@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.032 EXENTA, DE 2013
+
+Mediante resolución exenta Nº 1.032, de 13 de febrero de 2013, el Servicio Nacional de Capacitación y Empleo, resolución exenta Nº 2.580, de 20 de abril de 2007, que declara ajustado a los requisitos contemplados en los numerales 1º y 2º del artículo 21 de la ley Nº 19.518, al Organismo Técnico de Capacitación que indica "Retamal y Hernández Consultores Limitada (Octava Capacitación Ltda.)", RUT 77.422.330-4, modificada por resolución exenta Nº 8.689, de fecha 14 de septiembre de 2010, en el sentido de cambio de razón social y nombre de fantasía, pasará a denominarse "Sociedad Agencia de Cooperación y Capacitación para el Desarrollo Limitada (Fommenta Limitada)", RUT 77.422.330-4, rectificada por resolución exenta Nº 11.546, de fecha 11 de noviembre de 2010. Dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad antes señalada, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del art. 21 de la ley 19.518.-
+
+Juan Bennett Urrutia, Director Nacional (PT).
