@@ -12,11 +12,13 @@ c) La resolución exenta Nº 3.445 (V. y U.), de 2012, que llama a concurso en c
 
 Resolución:
 
-1. Modifícase el resuelvo 4 de la resolución exenta Nº 3.445 (V. y U.), de 2012, en el sentido de reemplazar el guarismo "162.009" por "160.316".
+1. Modifícase el resuelvo 4 de la resolución exenta Nº 3.445 (V. y U.), de 2012, en el sentido de reemplazar el guarismo "162.009" por "123.590."
 
 2. Apruébase la nómina de proyectos seleccionados y los recursos respectivos con Calificación Definitiva para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda para la Región del Biobío, que se incluyen en la siguiente tabla, correspondiente al concurso en condiciones especiales efectuado mediante la resolución exenta Nº 3.445 (V. y U.), de 2012:
 
 3. Los recursos comprometidos conforme al número 2 de la presente resolución, para los proyectos seleccionados correspondientes al concurso en condiciones especiales efectuado mediante la resolución exenta Nº 3.445 (V. y U.), de 2012, se imputarán a los recursos dispuestos para el año 2012, para el Programa Fondo Solidario de Vivienda de la Región del Biobío, según se detalla en el siguiente cuadro:
+
+> **Nota.** El numeral 2 de la Resolución 1024 Exenta, Vivienda, publicada el 23.02.2013, modifica la presente norma, en el sentido de asignar directamente un subsidio adicional a cada una de las familias que integran los proyectos "FSV Comité Habitacional Villa Los Castaños" y "Villa Los Castaños 2" de la comuna de Tucapel, Región del Biobío, según los montos que se indican en la tabla contenida en la citada norma.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
