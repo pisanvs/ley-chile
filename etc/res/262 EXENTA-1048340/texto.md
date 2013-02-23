@@ -34,7 +34,7 @@ Para efectos de la presente resolución, se entenderá por Unidad Mínima de Pos
 
 ### 2. Llamado
 
-Llámese a postulación al Programa de Recuperación de Condominios Sociales: Segunda Oportunidad, a las UMP, desde el 25 de enero y hasta el 22 de febrero de 2013, ambos días inclusive.
+Llámese a postulación al Programa de Recuperación de Condominios Sociales: Segunda Oportunidad, a las UMP, desde el 25 de enero y hasta el 1 de marzo de 2013., ambos días inclusive.
 
 ### 3. Condiciones de postulación
 
@@ -64,11 +64,11 @@ e) Comprobante que acredite que las cuentas de servicios domiciliarios de cada u
 
 ### 5. Procedimiento de postulación
 
-Los antecedentes de postulación deberán ser ingresados por el Delegado del Block/Nave en la oficina de partes del Serviu respectivo hasta las 12:00 hrs. del día 22 de febrero.
+Los antecedentes de postulación deberán ser ingresados por el Delegado del Block/Nave en la oficina de partes del Serviu respectivo hasta las 12:00 hrs. del día 1 de marzo.
 
-Una vez ingresados, el Serviu dispondrá hasta el 8 de marzo de 2013 para evaluar los antecedentes de postulación y verificar el cumplimiento de los requisitos del Programa. Durante ese plazo el Serviu podrá, en un sólo acto y mediante documento suscrito por su Director, realizar observaciones al Delegado del Block/Nave, quien dispondrá hasta el 15 de marzo de 2013 para subsanar dichas observaciones y reingresar los documentos que sean necesarios.
+Una vez ingresados, el Serviu dispondrá hasta el 15 de marzo de 2013 para evaluar los antecedentes de postulación y verificar el cumplimiento de los requisitos del Programa. Durante ese plazo, el Serviu podrá, en un solo acto y mediante documento suscrito por su Director, realizar observaciones al Delegado del Block/Nave, quien dispondrá hasta el 22 de marzo de 2013 para subsanar dichas observaciones y reingresar los documentos que sean necesarios.
 
-El resultado de la evaluación será informado por el Serviu a más tardar el 29 de marzo de 2013.
+El resultado de la evaluación será informado por el Serviu a más tardar el 5 de abril de 2013.
 
 ### 6. Criterios de evaluación
 
