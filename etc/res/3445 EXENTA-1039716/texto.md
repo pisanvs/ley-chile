@@ -136,7 +136,7 @@ v. Los proyectos de vivienda o edificaciones de las tipologías de Densificació
 
 w. Los proyectos de vivienda que se emplacen en áreas declaradas como Zonas con riesgo de inundación, recibirán un incremento del subsidio base de hasta 150 unidades de fomento siempre que incluyan medidas destinadas a mitigar los riesgos y/o efectos en cuestión. Mediante resoluciones fundadas de la Seremi de Vivienda y Urbanismo, se podrá establecer el perímetro de la zona con riesgo de inundación y las medidas de mitigación que deberán incluirse en los proyectos a presentar.
 
-4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán UF 160.316.
+4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán UF 123.590.
 
 El número de proyectos seleccionados y preseleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el párrafo anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
 
