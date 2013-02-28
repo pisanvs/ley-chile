@@ -28,7 +28,7 @@ i) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 939711, color b
 
 k) Camioneta Mitsubishi L200, doble cabina, año 2011, Nº de motor 4D56UCCK0194, color gris grafito mica, inscripción Registro Nacional de Vehículos Motorizados DCLD-77-7, patente DCLD-77-7, inventario 4-662-1, se destina a la Dirección de la XI Región del Instituto de Desarrollo Agropecuario.
 
-l) Camioneta Mazda BT-50, doble cabina, año 2011, Nº motor WLAT-1251636, color verde oscuro, inscripción Registro Nacional de Vehículos Motorizados DCRT.37-6, patente DCRT.37-6, inventario 4-656-1, se destina a la Dirección de la XII Región del Instituto de Desarrollo Agropecuario.
+l) Jeep Suzuki Gran Nomade GLX Sport, año 2009, Nº de Motor J20A-659730, color gris oscuro, Inscripción Registro Nacional de Vehículos Motorizados CCDS.34-7, Patente CCDS.34-7, Inventario 4-746-1, se destina a la Dirección de la Región de Magallanes y Antártica Chilena del Instituto de Desarrollo Agropecuario.
 
 o) Camioneta Mazda BT-50, doble cabina, año 2011, Nº motor WLAT-1262126, color plateado plata, inscripción Registro Nacional de Vehículos Motorizados DBZX.30-1, patente DBZX.30-1, inventario 4-661-1, se destina a la Dirección de la XV Región del Instituto de Desarrollo Agropecuario.
 
