@@ -1,0 +1,7 @@
+Por resolución exenta Nº 164, de 17 de enero de 2013, de esta Subsecretaría, modifícase la resolución exenta Nº 39, de 2013, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2012-12, denominado "Evaluación hidroacústica del reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2013", en el sentido que a continuación se indica:
+
+a) En el numeral 3.-, en el sentido de incorporar, realizando tareas de prospección acústica y de identificación de especies, sin resultado de captura en las Regiones IX y XIV, a la embarcación artesanal Azariel RPA Nº 950818, inscrita en el Registro Pesquero Artesanal de la VIII Región, sección de pesquerías de Anchoveta y Sardina común.
+
+b) En su numeral 6.-, en el sentido de exceptuar a la embarcación artesanal participante en la presente pesca de investigación del cumplimiento de las medidas de conservación establecidas en el DS Nº 408, de 1986, del actual Ministerio de Economía, Fomento y Turismo, y sus modificaciones posteriores, hasta el 31 de enero de 2012, inclusive.
+
+Valparaíso, 17 de enero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
