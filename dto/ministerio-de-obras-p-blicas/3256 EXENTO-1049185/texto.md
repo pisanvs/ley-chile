@@ -1,0 +1,3 @@
+Por Decreto Exento M.O.P. Nº3256, de 27 de diciembre de 2012, se modificó el numeral segundo del Decreto MOP. (Exento) Nº4191, de 25 de noviembre de 2011, a fin de individualizar correctamente el lote de terreno Nº21, ubicado en la comuna de Osorno, que figura a nombre de SOC COMERCIAL NAHUM CORREA LTDA, rol de avalúo 5680-5, superficie 1693 m2., complementando el informe de tasación emitido el 08 de abril de 2011, mediante acta emanada de la misma comisión el 17 de octubre de 2012, expropiado con motivo de la obra "Reposición Ruta 215-CH, Bifurcación Aeropuerto Carlos Hott - Cruce Las Lumas, desde el Km. 3,99292 al Km. 21,80000", Comuna de Osorno, Provincia de Osorno, X Región.
+
+Fiscal del Ministerio de Obras Públicas.
