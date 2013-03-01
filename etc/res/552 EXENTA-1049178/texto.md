@@ -1,0 +1,7 @@
+EXPROPIA DERECHOS CUOTATIVOS QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 552, de 21 de febrero de 2013, de Serviu Región del Maule, expropio derechos cuotativos que inciden en retazo de terreno ubicado en calle 10 Oriente B esquina 12 Norte C, Talca y que forma parte del inmueble en que se emplazaba el Conjunto Habitacional Dionisio Astaburuaga, especificado como Lote 1 en el plano de expropiaciones, de una superficie de 1.431,22 metros cuadrados de terreno, y cuyos deslindes particulares según plano de expropiaciones son los siguientes: Norte: con calle 12½ Norte C; Sur: con Pasaje 12½ Norte B; Oriente: con calle 10 Oriente B; y Poniente: con pasaje 10½ Oriente B (ex pasaje Las Amapolas). Comisión peritos integrada por Carlos Luis Vega Rivera, por el ingeniero civil industrial Patricio Fernando Casagrande Ulloa, y por el ingeniero civil Juan Eduardo Salazar León, por informe de fecha 14 de diciembre de 2012 tasó el inmueble en la suma de $47.230.260.-, por lo que el monto total a consignar por 1 derecho cuotativo expropiado es la suma de $1.586.937.- que será pagado de contado. Derecho a expropiar corresponde a Rol de avalúo 121027 comuna Talca, nombre propiedad Las Amapolas 2278 Dp 7 Astaburuaga, propietario aparente Palma Palma José Gabriel, porcentaje cuotativo que corresponde 3,36% y monto a pagar por el $1.586.937.-
+
+Clarisa Ayala Arenas, Directora Serviu Región del Maule.
