@@ -1,0 +1,3 @@
+Por resolución exenta Nº 374, de 8 de febrero de 2013, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA GENMAR LMTDA. para ampliar actividades pesqueras extractivas con la nave "Don Chelo I", en el área marítima ubicada en la VIII y en la XIV a X Regiones, por fuera del área de reserva artesanal, con arrastre, donde podrá capturar los siguientes recursos hidrobiológicos: Mictófido Triphoturus mexicanus, Mictófido Diogenichthys sp., Mictófido Ceratoscopelus sp., Mictófido Diaphus sp., Mictófido Gonichthys sp., Mictófido Gymnoscopelus sp., Mictófido Hygophum sp., Mictófido Lampadena sp., Mictófido Lampanyctus sp. y Mictófido Myctophum sp.
+
+Valparaíso, 8 de febrero de 2013.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
