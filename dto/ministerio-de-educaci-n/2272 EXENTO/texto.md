@@ -52,27 +52,45 @@ Los interesados en certificar estudios deberán inscribirse personalmente en la 
 
 Los menores de edad deberán ser inscritos personalmente por sus representantes legales o tutores, quienes serán responsables de la veracidad de la documentación entregada como antecedentes fundantes de la solicitud.
 
-II.- DE LA CONVALIDACION DE ESTUDIOS.
+II.- DE LA CONVALIDACIÓN DE ESTUDIOS.
 
 #### Artículo 5º
 
-Podrán convalidar estudios los chilenos y/o extranjeros que hayan realizado un nivel o curso en el extranjero, conforme lo dispuesto en los tratados o convenios suscritos por Chile y la normativa especial vigente sobre la materia.
+Podrán convalidar las personas que hubieren realizado estudios en el extranjero, equivalentes a la Educación General Básica o a la Educación Media, según lo estipulado en los Tratados o Convenios vigentes suscritos por Chile.
 
-Para solicitar la convalidación deberán presentar legalizados los siguientes documentos:
+Para ello, los y las solicitantes deberán presentar los documentos que a continuación se indican:
 
-a) Certificado de Nacimiento en el caso de menores de edad;
+a) Cédula de identidad o pasaporte original.
 
-b) Certificado de estudios del último curso aprobado en el extranjero en original;
+b) Certificados de estudios en original de los cursos de educación básica o media y diplomas, cuando corresponda, aprobados en el extranjero. El certificado o diploma del último curso aprobado deberá presentarse debidamente legalizado por:
 
-c) Certificado del último curso rendido en Chile, cuando proceda, y
+- El Ministerio de Educación o la autoridad
 
-d) Cédula de Identidad o pasaporte del interesado, y del padre o madre o apoderado, en el caso de los menores de edad.
+competente del país donde se realizaron
 
-De la misma manera, las personas que posean un título de nivel medio obtenido en el extranjero deberán presentar una solicitud acompañada por la documentación señalada en el inciso precedente, en el que el certificado de la letra b) se referirá a una concentración de notas de todos los cursos, además del título.
+los estudios;
+
+- El Ministerio de Relaciones Exteriores, y
+
+- La Embajada o Consulado de Chile en el
+
+respectivo país.
+
+Tratándose de los hijos de chilenos y de funcionarios internacionales debidamente acreditados, que hayan realizado estudios en colegios internacionales fuera del territorio nacional se les aceptará la legalización de los certificados de estudios, por la autoridad diplomática que corresponda destacada en el país en que realizaron los referidos estudios, en reemplazo de la legalización del Ministerio de Educación.
+
+c) Si se trata de certificados de estudios, extendidos en lengua extranjera, se solicitará al peticionario la traducción oficial.
+
+d) En el caso de hijos de chilenos, la nacionalidad de los padres deberá acreditarse con cédula de identidad o certificado de nacimiento.
 
 #### Artículo 6º
 
-La Unidad de Atención e Información Educacional procederá a practicar la convalidación de estudios, otorgando un certificado de estudios que señale los cursos convalidados. La convalidación se hará mediante el examen de legalidad de la documentación escolar presentada para acreditar el nivel de escolaridad que se solicita se reconozca. Lo anterior, de acuerdo con las orientaciones técnico-pedagógicas que entregue la División de Educación General.
+Mientras se realiza el proceso de Convalidación, y con el solo mérito del comprobante entregado por la Unidad del Ministerio de Educación encargada del procedimiento, los Departamentos Provinciales de Educación otorgarán una autorización de matrícula provisoria, para efectos de que el solicitante sea ubicado en el curso respectivo. El comprobante señalará los cursos del nivel a reconocer.
+
+Una vez finalizado el proceso de convalidación, la Unidad del Ministerio de Educación encargada de dicho procedimiento, entregará al solicitante un certificado que acredite el o los cursos del respectivo nivel realizado en el extranjero y que han sido reconocidos o convalidados.
+
+La entrega de documentación falsa o que carezca de cualquiera de las legalizaciones indicadas en el inciso primero, invalidará el proceso.
+
+El establecimiento educacional en donde se encuentra el o la estudiante con matrícula provisoria, procederá a otorgar matrícula definitiva, dejando registrado en el libro de clases el número de documento con que se otorgó el certificado de convalidación de estudios y los cursos convalidados.
 
 III.- DE LA VALIDACION DE ESTUDIOS PARA EDUCACION BASICA
 
