@@ -1,0 +1,3 @@
+Por resolución exenta Nº 380, de 8 de febrero de 2013, de esta Subsecretaría, autorízase a MARCELINO GONZÁLEZ SILVA para ampliar actividades pesqueras extractivas con la nave "Berta", en el área marítima comprendida entre la IV a IX Regiones, por fuera del área de reserva artesanal, con arrastre, donde podrá capturar los siguientes recursos hidrobiológicos: Mictófido Triphoturus mexicanus, Mictófido Diogenichthys sp., Mictófido Ceratoscopelus sp., Mictófido Diaphus sp., Mictófido Gonichthys sp., Mictófido Gymnoscopelus sp., Mictófido Hygophum sp., Mictófido Lampadena sp., Mictófido Lampanyctus sp. y Mictófido Myctophum sp.
+
+Valparaíso, 8 de febrero de 2013.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
