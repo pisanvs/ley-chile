@@ -1,0 +1,3 @@
+Por resolución exenta Nº 286, de 1 de febrero de 2013, de esta Subsecretaría, autorízase a PESQUERA ENFEMAR LTDA., para ampliar actividades pesqueras extractivas con la nave "Aquiles Pancho", en el área marítima correspondiente a la V Región, por fuera del área de reserva artesanal, con arrastre, el siguiente recurso hidrobiológico: Vinciguerria.
+
+Valparaíso, 1 de febrero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
