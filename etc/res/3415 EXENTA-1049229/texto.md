@@ -1,0 +1,23 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO GERMICIDAL SURFACE WIPES
+
+WR Núm. 3.415 exenta.- Santiago, 12 de febrero de 2013.- Visto estos antecedentes: La solicitud de determinación de régimen de control a aplicar y la documentación técnica adjunta a la presentación de Munnich Pharma Medical Ltda., respecto del producto Germicidal Surface Wipes; la recomendación de la Comisión de Régimen de Control Aplicable, acordada en sesión de fecha 27 de diciembre de 2012, de clasificar a este producto como pesticida de uso sanitario y doméstico, y
+
+Considerando: Primero: Que se señala que este producto contiene un 41,58% p/p de alcohol isopropílico, < 6,00% p/p de 2-butoxietanol y < 1,00% p/p de etilenglicol; Segundo: Que, de acuerdo a ficha del producto, que contiene datos técnicos y está en inglés, Coverage Plus Germicidal Surface Wipes es una tela no tejida, desechable, que contiene un desinfectante estable, formulado a pH bajo, y desodorante, diseñado para su uso en superficies duras, no porosas, tales como acero inoxidable, cubiertas postformadas, mesas, carros, cestas, mostradores, armarios y teléfono; Tercero: Que, a través de los memorandos MW Nos 3 y 4, ambos de fecha 13 de noviembre de 2012, del Subdepartamento Registro y Autorizaciones Sanitarias, se solicitó un informe al Subdepartamento Dispositivos Médicos y a la Unidad de Plaguicidas y Desinfectantes, respectivamente; Cuarto: Que al memorándum Nº 652, del 6 de diciembre de 2012, del Departamento Salud Ambiental, se adjuntó el informe Nº 4/12, de fecha 26 de noviembre de 2012, de la Unidad de Plaguicidas y Desinfectantes, del cual se debe destacar lo siguiente:
+
+- **a)** Este producto se encuentra registrado por la FDA como desinfectante y esterilizante de equipos, instalaciones, baños, cajas, superficies de acero, etc., no está indicado para desinfectar instrumentos que estén en contacto con seres humanos;
+
+- **b)** Existe un producto autorizado por este Instituto, como desinfectante de uso sanitario y doméstico, que tiene una concentración similar de alcohol isopropílico, el cual se encuentra orientado a la desinfección de superficies inanimadas;
+
+- **c)** Debido a que Germicidal Surface Wipes está destinado a la desinfección de superficies inanimadas, duras y no porosas, se concluye que él se debería clasificar como desinfectante de uso sanitario, por lo que debería regularse por las disposiciones del DS Nº 157, de 2005; Quinto: Que al memorándum Nº 63/12, de fecha 7 de diciembre de 2012, del Subdepartamento Dispositivos Médicos, se acompañó el informe requerido, en el cual se indica que, según la normativa nacional de dispositivos médicos, los desinfectantes se consideran dispositivos médicos cuando son utilizados directamente en otros dispositivos médicos, concluyéndose que, dadas las finalidades de uso de éste, no puede ser clasificado como dispositivo médico; Sexto: Que el uso general de este producto es para desinfección de superficies inanimadas, duras y no porosas, por lo que corresponde a un desinfectante de uso sanitario, clase de producto que forma parte del ámbito de los plaguicidas o pesticidas de uso sanitario y doméstico (artículo 2°, del decreto Nº 157, de 2005, del Ministerio de Salud), y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102° del Código Sanitario; en los artículos 8º y 9º del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, aprobado por el decreto N° 3, de 2010, del Ministerio de Salud; el artículo 59° letra b) del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta N° 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Germicidal Surface Wipes, solicitado por Munnich Pharma Medical Ltda., es el propio de los pesticidas de uso sanitario y doméstico.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento de Pesticidas de Uso Sanitario y Doméstico, decreto N° 157, de 2005, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 4° y siguientes, del decreto N° 157, de 2005, del Ministerio de Salud, se deberá solicitar su registro sanitario ante este Instituto.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Ximena González Frugone, Jefa Subdepartamento Registro y Autorizaciones Sanitarias (S).
