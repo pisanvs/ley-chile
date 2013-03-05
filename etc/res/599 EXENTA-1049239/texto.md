@@ -1,0 +1,3 @@
+Por resolución exenta Nº 599, de 27 de febrero de 2013, de esta Subsecretaría, rectifícase la resolución exenta Nº 1.491, de 2012 y de esta Subsecretaría, que estableció la nómina definitiva de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refiere el artículo 3º de la ley Nº 20.560, en el sentido de modificar sus numerales 8.-, 10.- y 12.- de conformidad a lo indicado en resolución extractada.
+
+Valparaíso, 27 de febrero de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
