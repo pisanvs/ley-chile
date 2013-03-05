@@ -1,0 +1,19 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO SOFT N SURE ANTISEPTIC HAND GEL
+
+RW Núm. 3.410 exenta.- Santiago, 12 de febrero de 2013.- Visto estos antecedentes: La solicitud de determinación de régimen de control a aplicar y la documentación técnica adjunta a la presentación de Munnich Pharma Medical Ltda., respecto del producto Soft N Sure Antiseptic Hand Gel; la recomendación de la Comisión de Régimen de Control Aplicable, acordada en sesión de fecha 27 de diciembre de 2012, de clasificar a este producto como medicamento, y
+
+Considerando: Primero: Que se señala que este gel contiene un 62% v/v de alcohol etílico (ingrediente antiséptico) y vitamina E (acondicionador de la piel que ayuda a darle suavidad); Segundo: Que, de acuerdo a ficha del producto, que está en inglés, él ha sido diseñado para su uso cuando las manos están físicamente limpias, pero con necesidad de descontaminación y como un complemento en el lavado de manos, como se indica en la Guía de los CDC para la higiene de las manos en ámbitos de atención médica; Tercero: Que, a través del memorando MW N° 1, de fecha 12 de noviembre de 2012, del Subdepartamento Registro y Autorizaciones Sanitarias, se solicitó un informe al Subdepartamento Dispositivos Médicos, el cual fue remitido con el memorándum Nº 63/12, de fecha 7 de diciembre de 2012, de ese subdepartamento; Cuarto: Que en el informe del Subdepartamento Dispositivos Médicos se indica que, según la normativa nacional de dispositivos médicos, los desinfectantes se consideran dispositivos médicos cuando son utilizados directamente en otros dispositivos médicos, concluyéndose que Soft N Sure Antiseptic Hand Gel no puede ser clasificado como dispositivo médico, porque él se aplica sobre las personas; Quinto: Que, como la finalidad de uso de Soft N Sure Antiseptic Hand Gel es para descontaminar o desinfectar las manos en ámbitos de atención médica, él corresponde a un medicamento, y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102° del Código Sanitario; en los artículos 8° y 9° del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, aprobado por el decreto N° 3, de 2010, del Ministerio de Salud; el artículo 59° letra b) del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979, y de las leyes N° 18.933 y N° 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta N° 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Soft N Sure Antiseptic Hand Gel, solicitado por Munnich Pharma Medical Ltda., es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto N° 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º, del decreto N° 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+4. Lo dispuesto en la presente resolución también será aplicable al resto de los productos que contengan el o los componentes declarados como propios de un producto farmacéutico (artículo 8º, del decreto Nº 3, de 2010).
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Ximena González Frugone, Jefa Subdepartamento Registro y Autorizaciones Sanitarias (S).
