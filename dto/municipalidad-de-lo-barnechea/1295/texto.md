@@ -2042,7 +2042,9 @@ RESTRICCIONES, CONDICIONES Y NOTAS
 
 Actividades Productivas en calles y pasajes cerrados y/o
 
-abiertos de ancho entre líneas oficiales inferior a 15 mts. y calzada menor a 7 mts. (N4) Los equipamientos que se desempeñen en uno o más locales diferentes deberán formar parte de un conjunto unitario de a lo menos 1.500 m² construidos.
+abiertos de ancho entre líneas oficiales inferior a 15 mts. y calzada menor a 7 mts.
+
+(N4) ELIMINADA.
 
 (N5) En la zona D, al oriente de la calle San José de la Sierra la rasante será de 46º y el distanciamiento de 20 metros, medidos desde el eje del deslinde con la Zona C2. (N6) Para el destino "Oficinas en general", se podrán utilizar las condiciones de edificación correspondientes
 
@@ -2366,7 +2368,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 800 m2 800 m2
+Superficie de Subdivisión
+
+Predial Mínima 800 m2 800 m2
 
 Frente Predial mínimo 16 mts 16 mts
 
@@ -2548,7 +2552,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 800 m2 800 m2
+Superficie de Subdivisión
+
+Predial Mínima 800 m2 800 m2
 
 Frente Predial mínimo 20 mts 20 mts
 
@@ -2634,7 +2640,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 350 m2 350 m2
+Superficie de Subdivisión
+
+Predial Mínima 350 m2 350 m2
 
 Frente Predial mínimo 15 mts. 15 mts.
 
@@ -2732,7 +2740,7 @@ Gimnasios
 
 Esparcimiento Casino
 
-Comercio (N4) Centros Comerciales
+Comercio Centros Comerciales
 
 Supermercados
 
@@ -2776,7 +2784,7 @@ Fuentes de Soda
 
 Salón de té
 
-Servicios (N4) Municipios
+Servicios Municipios
 
 Juzgados
 
@@ -2828,7 +2836,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 2.000 m2 2.000 m2
+Superficie de Subdivisión
+
+Predial Mínima 2.000 m2 2.000 m2
 
 Frente Predial mínimo 35 mts 35 mts
 
@@ -2872,9 +2882,9 @@ Adosamientos O. Gral de O. Gral de
 
 U. y C. U. y C.
 
-1. Aquellos terrenos que no cumplan con la superficie predial mínima de 2.000 m² y frente predial mínimo por no poder crecer al estar rodeados por espacios públicos (calles y/o áreas verdes), podrán acogerse al resto de las normas.
+1.- Aquellos terrenos que, por sus condiciones especiales, estén imposibilitados de cumplir con el tamaño mínimo predial, por estar limitados por vialidad o áreas verdes públicas o privadas, o estar rodeado por sitios consolidados con densificación, la superficie predial mínima será de 1.200 m² para todos los usos
 
-2. Todas las calles existentes de ancho menor a 15 mts. , quedan afectadas a un ensanche hasta completar 7.5 mts. a ambos costados tomados desde el eje de la calzada.
+2. ELIMINADO.
 
 Zona E "Equipamiento Educacional"
 
@@ -3014,7 +3024,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 60 m2 800 m2 Frente predial mínimo No 15 mts. Antejardín mínimo No No Coeficiente de ocupación de suelo 0,6 0,7
+Superficie de Subdivisión
+
+Predial Mínima 60 m2 800 m2 Frente predial mínimo No 15 mts. Antejardín mínimo No No Coeficiente de ocupación de suelo 0,6 0,7
 
 Coeficiente de
 
@@ -3138,7 +3150,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 4.000 m2 4.000 m2
+Superficie de Subdivisión
+
+Predial Mínima 4.000 m2 4.000 m2
 
 Frente predial mínimo 30 mts 30 mts
 
@@ -3192,7 +3206,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie predial mínima 2.000 m2
+Superficie de Subdivisión
+
+Predial Mínima 2.000 m2
 
 Frente Predial mínimo 20 mts
 
@@ -3226,7 +3242,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie predial mínima 4.000 m²
+Superficie de Subdivisión
+
+Predial Mínima 4.000 m²
 
 Frente Predial mínimo 30 mts
 
@@ -3260,7 +3278,9 @@ CONDICIONES DE SUBDIVISIÓN Y EDIFICACION
 
 Clase Actividad
 
-Superficie Predial Mínima 900 m2
+Superficie de Subdivisión
+
+Predial Mínima 900 m2
 
 Frente Predial Mínimo 18 mts
 
@@ -3294,69 +3314,11 @@ pisos.
 
 Adosamiento O. Gral. de U. y C.
 
-a.1.1) Condiciones de excepción
+a.1.1) Condiciones de excepción - Sub-Zona J1 "La Dehesa Antigua"
 
-En el área denominada "La Dehesa Antigua", cuyos límite generales (excluida la zona M,N y O del presente instrumento) son: Límite poniente del Pueblo de Lo Barnechea, Ejes de Avda. El Rodeo, Estero Las Hualtatas, Camino de la Villa, Camino Turístico Sur y calle Raúl Labbé, en tanto no se apruebe un Seccional de Renovación Urbana, se podrá:
+En el área denominada "La Dehesa Antigua", cuyos límites generales (excluidas las zonas M, N y O del presente instrumento) son: Límite poniente del Pueblo de Lo Barnechea, Ejes de Avda. El Rodeo, Estero Las Hualtatas, Camino de la Villa, Camino Turístico Sur y calle Raúl Labbé, se podrá:
 
-a.1.1.1) Autorizar subdivisiones de 480 m2 con uso residencial exclusivo y una vivienda por predio, bajo las siguientes condiciones:
-
-CONDICIONES DE SUBDIVISION Y EDIFICACION
-
-USO DE SUELO Residencial
-
-Superficie Predial Mínima 480 m2
-
-Frente Predial Mínimo 15 mts
-
-Antejardín Mínimo 5 mts
-
-Coeficiente de Ocupación de
-
-Suelo Máx. 0,4
-
-Coeficiente Constructibilidad
-
-Máxima 0,6
-
-Sistema de Agrupamiento Aislada
-
-Altura Máxima 10.50 mts (2 pisos)
-
-Densidad bruta máxima 92 h/h
-
-Rasante y Distanciamiento O. Gral. de U. y C.
-
-Adosamiento O. Gral. de U. y C.
-
-a.1.1.2) Edificar una altura máxima de 4 pisos (14 mts.) en sitios, existentes o fusionados, de superficie mínima 2.500 mts y con uso residencial exclusivo, bajo las siguientes condiciones:
-
-CONDICIONES DE SUBDIVISION Y EDIFICACION
-
-USO DE SUELO Residencial
-
-Superficie Predial Mínima 2.500 m2
-
-Frente Predial Mínimo 12 mts
-
-Antejardín Mínimo 5 mts
-
-Coeficiente de Ocupación de
-
-Suelo Máx. 0,25
-
-Coeficiente Constructibilidad
-
-Máxima 1,0
-
-Sistema de Agrupamiento Aislada
-
-Altura Máxima 14 mts (4 pisos)
-
-Densidad bruta máxima 304 h/h
-
-Rasante y Distanciamiento 60° y 6 mts
-
-Adosamiento No
+CONDICIONES DE EDIFICACIÓN
 
 a.2) Equipamiento:
 
@@ -3398,7 +3360,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO EQUIPAMIENTO
 
-Superficie Predial Mínima 900 m2
+Superficie de Subdivisión
+
+Predial Mínima 900 m2
 
 Frente Predial Mínimo 18 mts
 
@@ -3454,7 +3418,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie predial mínima 4.000 m2
+Superficie de Subdivisión
+
+Predial Mínima 4.000 m2
 
 Frente predial mínimo 30 mts
 
@@ -3624,9 +3590,9 @@ Piscinas
 
 Gimnasios
 
-Esparcimiento (N4) Juegos electrónicos
+Esparcimiento Juegos electrónicos
 
-Comercio (N4) Centros Comerciales
+Comercio Centros Comerciales
 
 Supermercados
 
@@ -3648,7 +3614,7 @@ Fuentes de soda
 
 Salón de té
 
-Servicios (N4) Municipios
+Servicios Municipios
 
 Telégrafos
 
@@ -3686,7 +3652,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 2000 m2 2.500 m2
+Superficie de Subdivisión
+
+Predial Mínima 2000 m2 2.500 m2
 
 Frente predial mínimo 40 mts 40 mts
 
@@ -3719,6 +3687,8 @@ U. y C. 60º y 10 mts
 Adosamientos O.G. de O.G. de
 
 U. y C. U. y C.
+
+1.- Aquellos terrenos que, por sus condiciones especiales, estén imposibilitados de cumplir con el tamaño mínimo predial, por estar limitados por vialidad o áreas verdes públicas o privadas, o estar rodeado por sitios consolidados con densificación, la superficie predial mínima será de 1.200 m² para todos los usos
 
 Todo loteo , subdivisión, urbanización y/o edificación
 
@@ -3792,7 +3762,9 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie predial mínima 2.500 m2 2.500 m2
+Superficie de Subdivisión
+
+Predial Mínima 2.500 m2 2.500 m2
 
 Frente predial mínimo 40 mts 40 mts
 
@@ -3875,3 +3847,5 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 > **Nota.** NOTA 9 La letra C) del Artículo Único del Nº 1 del Decreto 998, Municipalidad de Lo Barnechea, publicado el 09.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años las declaratorias de utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro del artículo 11º.
 
 > **Nota.** NOTA 10 La letra b) del artículo 2° del Decreto 314, M. de Lo Barnechea, publicado el 26.01.2013, reemplaza en el cuadro "Sistema Vial Comunal" del presente artículo las filas correspondientes a las vías L14 Comandante Malbec y L28 Robles, por las indicadas en la citada norma.
+
+> **Nota.** NOTA 11 La letra c) del artículo único del Decreto 912, Municipalidad de Lo Barnechea, publicado el 06.03.2013, modifica la presente norma en el sentido de suprimir el numeral 3 del punto a.2.2) de la Zona J. Sin embargo, el referido punto a.2.2 ha sido eliminado con anterioridad.
