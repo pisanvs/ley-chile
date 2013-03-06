@@ -70,7 +70,7 @@ Este Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias,
 
 a) Matrimonios: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
 
-b) Nacimientos: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
+b) Nacimientos: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo o adopción de un(a) hijo(a).
 
 Si ambos padres fuesen afiliados, el beneficio lo percibirá cada uno de ellos en forma independiente.
 
@@ -86,11 +86,11 @@ En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente or
 
 3.- A los hijos legítimos.
 
-4.- A los hijos naturales.
+3.- A los hijos;
 
-5.- A los padres legítimos.
+4.- A los padres
 
-6.- A la persona que acredite haber efectuado los gastos del funeral.
+5.- A la persona que acredite haber efectuado los gastos del funeral.
 
 También, se otorgará una ayuda para adquisición de nicho-
 
@@ -98,7 +98,7 @@ bóveda al funcionario afiliado que careciere de él y a sus cargas familiares r
 
 d) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviese pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado;
 
-e) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+e) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, al afiliado y cargas familiares que estudien regularmente en los niveles de enseñanza pre-básica, básica, media, técnica, diferencial, especializada y superior, de algún establecimiento del Estado o reconocido por éste. Se entenderá por niveles pre-básico: Nivel medio menor, nivel medio mayor, primer nivel de transición (pre-kínder) y segundo nivel de transacción (kínder).
 
 f) Becas de Estudio: Enseñanza Superior: El Servicio de Bienestar podrá otorgar Becas de Estudios a sus afiliados y a sus cargas familiares de acuerdo a disposición presupuestaria. Los requisitos para postular estarán establecidos en un Reglamento de Becas.
 
@@ -106,7 +106,7 @@ g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves 
 
 h) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones a que alude la norma citada en el artículo 7º.
 
-El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar, no pudiendo exceder de dos ingresos mínimos mensuales por ayuda.
+INCISO ELIMINADO.
 
 #### Artículo 9º
 
@@ -120,7 +120,7 @@ b) Préstamo personal: se otorgará para solventar
 
 gastos imprevistos. El monto no podrá exceder de
 
-5 ingresos mínimos mensuales por afiliado en cada
+10 ingresos mínimos mensuales por afiliado en cada
 
 año calendario y sólo se procederá a otorgarlo una vez al año.
 
@@ -144,17 +144,29 @@ La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado
 
 El reintegro de los préstamos señalados en el artículo 9º, deberá hacerse en cuotas mensuales, iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento.
 
-Los préstamos médicos, personales, y de auxilio serán servidos en un plazo de hasta 12 meses; los préstamos de auxilio concedidos con ocasión de un sismo u otra catástrofe, en el plazo de 30 meses; todos contado a partir del mes siguiente al de su otorgamiento.
+Los préstamos médicos, personales, y de auxilio serán servidos en un plazo de hasta 36 meses; los préstamos de auxilio concedidos con ocasión de un sismo u otra catástrofe, en el plazo de 36 meses; todos contado a partir del mes siguiente al de su otorgamiento.
+
+Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del afiliado, en cuyo caso los intereses correspondientes se devengarán hasta la fecha de los pagos respectivos.
+
+El Consejo Administrativo podrá otorgar meses de gracia para los descuentos de las cuotas de los Préstamos de Auxilio y Personales.
+
+Para solicitar un nuevo préstamo de aquellos señalados por las letras b) y c) del artículo 9º, será necesario haber servido como mínimo el 75% de la deuda por el mismo concepto.
 
 #### Artículo 13º
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar, no podrán, en ningún caso, exceder del 40% de su remuneración mensual imponible para pensiones, o de su pensión.
+Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar, no podrán, en ningún caso, exceder del 15% de su remuneración mensual imponible para pensiones, o de su pensión.
 
 #### Artículo 14º
 
 El Servicio de Bienestar, propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
 Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los Jardines Infantiles, Colonias de Vacaciones, Hogares Sociales, Casinos del Personal, Clubes Deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+
+Con este objeto, siempre que sus recursos lo permitan, podrá:
+
+a) Conceder ayudas a los Jardines Infantiles, Colonias de Vacaciones, Hogares Sociales, Casinos del Personal y Clubes Deportivos que beneficien directamente a sus afiliados.
+
+b) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, festividades navideñas, actividades vacacionales, encuentros folclóricos, festivales musicales y programas de información a los afiliados.
 
 #### Artículo 15º
 
@@ -188,7 +200,7 @@ imponibles para pensiones;
 
 c) Con el aporte mensual de los afiliados jubilados
 
-de hasta el 1% de sus pensiones, más la cantidad
+de hasta el 2% de sus pensiones, más la cantidad
 
 correspondiente de hasta el 50% del aporte
 
@@ -216,9 +228,45 @@ h) Con los excedentes que genere la administración
 
 de los servicios dependientes.
 
+Eventualmente y previa aprobación del Consejo
+
+Administrativo, parte de los fondos del
+
+Servicio de Bienestar podrán ser invertidos
+
+en instrumentos que otorguen rentabilidad,
+
+en conformidad con lo dispuesto en el artículo
+
+3º del decreto ley Nº 1.056, de 1975 y sus
+
+modificaciones posteriores, previa
+
+autorización del Ministerio de Hacienda y
+
+sólo respecto de los recursos provenientes
+
+de ventas de activos o excedentes estacionales
+
+de caja, conforme lo dispone el artículo 2º
+
+del decreto ley Nº 1.263, de 1975. Lo
+
+anterior, con la finalidad de obtener
+
+mayores recursos que permitan aumentar
+
+los fondos en beneficio de los afiliados/as.
+
+El monto de los fondos y la forma en que
+
+serán depositados será determinado por el
+
+Consejo Administrativo anualmente.
+
 #### Artículo 18º
 
-Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal y contra ella sólo podrán girar conjuntamente el Presidente del Consejo Administrativo y el Jefe del Servicio de Bienestar. En caso de ausencia o impedimento de estos giradores, serán reemplazados para estos efectos, el primero por el Jefe del Departamento de Finanzas o quien el Director de la Institución designe, y en ausencia de éste, por el Subdirector Médico del Servicio de Salud Valdivia; y el segundo, por el Jefe de Departamento de Recursos Humanos o por el funcionario que el Consejo Administrativo designe, y en ausencia de éste, por el Subdirector Administrativo del Servicio de Salud Valdivia.
+Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal y contra ella sólo podrán girar conjuntamente el Presidente del Consejo Administrativo y el Jefe del Servicio de Bienestar. En caso de ausencia o impedimento de estos giradores, serán reemplazados, para estos efectos, el primero por el Subdirector Administrativo del Hospital Base Valdivia o quien el Director de la Institución designe, y en ausencia de éste por el Subdirector Médico del Hospital Base Valdivia; y el segundo por el Jefe del Departamento de Recursos Humanos del Hospital Base Valdivia o por el funcionario que el Consejo Administrativo designe y en ausencia de éste, por el Jefe de Finanzas del Hospital Base Valdivia.
 
 T I T U L O VI
 
@@ -226,7 +274,7 @@ Disposiciones Generales
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar, a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar, a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar. Con todo y en forma excepcional, se podrá prescindir de los 3 meses de plazo, establecidos precedentemente, si así lo autoriza el Consejo Administrativo, en consideración a situaciones catastróficas de salud y/o social del afiliado.
 
 #### Artículo 20º
 
@@ -237,6 +285,8 @@ Corresponderá al Consejo Administrativo, determinar los procedimientos o docume
 El derecho a solicitar los beneficios que concede este Servicio de Bienestar, caducará a los 6 meses de transcurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
+
+Tratándose de la adopción de un menor, el plazo de caducidad del cobro del subsidio por nacimiento se contará desde la fecha de la inscripción de la sentencia que concede la adopción en el registro pertinente del Servicio de Registro Civil e Identificación.
 
 #### Artículo transitorio
 
