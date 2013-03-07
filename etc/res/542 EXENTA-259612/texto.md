@@ -10,15 +10,15 @@ a) Su dimensión será de 21 cm de ancho por 14 cm de alto.
 
 b) Su fondo deberá ser de color blanco y las letras de color negro, con excepción de los taxis de la provincia de San Felipe, la que deberá ser de color amarillo y las letras de color negro.
 
-c) La tarjeta deberá incluir nombre completo del conductor clase y Nº de Licencia de conductor.
+c) La tarjeta deberá incluir nombre completo del conductor, tipo de licencia y Placa Patente Única del vehículo.
 
-d) Fotografía a color del conductor tamaño 5x5 cm, donde figura nombre y RUT.
+d) Fotografía a color del conductor tamaño 5x5 cm, donde figure nombre completo .
 
 e) Nombre, dirección y teléfono de la Empresa o el propietario cuando corresponda.
 
 f) Número de Folio y pie de firma de quién corresponda responsabilizarse por la información entregada, cuestión que corresponderá en el caso de los taxis colectivos al responsable del servicio inscrito ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, y en las demás modalidades al propietario del vehículo.
 
-g) Deberá incluir el símbolo del Gobierno de Chile a color y el timbre de la Secretaría Ministerial de Transportes de la V Región de Valparaíso, de conformidad a Anexo.
+g) ELIMINADO.
 
 h) Llevará por Título: "Credencial de Conductor" según dimensiones del Anexo.
 
