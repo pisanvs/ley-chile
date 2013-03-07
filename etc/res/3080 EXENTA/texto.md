@@ -20,16 +20,6 @@ R e s u e l v o:
 
 Para propósitos de esta Resolución, las expresiones técnicas incluidas en ella corresponden a aquellas señaladas en la Norma de Medidas Fitosanitaria N° 5 de Abril de 2002, "Glosario de términos fitosanitarios" de la Convención Internacional de Protección Fitosanitaria (CIPF) de la Organización de Naciones Unidas para la Agricultura y Alimentación, FAO, y sus actualizaciones.
 
-#### Artículo primero bis
-
-<!-- parte:9910907 -->
-
-para los efectos de esta resolución se entenderá por:
-
-a) Hospedante: Toda especie capaz de sustentar una plaga específica u otro organismo bajo condiciones naturales.
-
-b) Artículo Reglamentado: Cualquier planta, producto vegetal, medio de transporte, contenedor,suelo y cualquier otro organismo, objeto o material capaz de albergar o dispersar plagas, que se considere que debe estar sujeto a medidas fitosanitarias.
-
 #### Artículo segundo
 
 <!-- parte:8428196 -->
@@ -58,7 +48,7 @@ La condición de las plagas bajo control oficial de erradicación , una vez logr
 
 <!-- parte:8428200 -->
 
-El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis, Globodera pallida y Phoma exigua var. foveata genera un área libre de plagas, cuya distribución y reglamentación se establece por las resoluciones específicas en esta materia.
+El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis y Globodera pallida genera un área libre de plagas, indicadas en el artículo vigésimo primero, y cuya reglamentación se regirá por las Resoluciones específicas en esta materia.
 
 #### Artículo séptimo
 
@@ -158,71 +148,17 @@ Todas las personas naturales o jurídicas que detecten plagas cuarentenarias lis
 
 <!-- parte:8428214 -->
 
-Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental y se encuentran relacionadas a los hospedante que indica:
+Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental:
 
-ÁCAROS
-
-INSECTOS
-
-COLEOPTERA
-
-DIPTERA
-
-HEMIPTERA
-
-HYMENOPTERA
-
-LEPIDOPTERA
-
-ORTHOPTERA
-
-THYSANOPTERA
-
-HONGOS Y CROMISTAS
-
-NEMATODOS
-
-MOLUSCOS
-
-BACTERIAS
-
-FITOPLASMAS Y SPIROPLASMAS
-
-VIRUS Y VIROIDES
-
-MALEZAS
-
-PLANTAS PARÁSITAS
+.
 
 #### Artículo vigésimo primero
 
 <!-- parte:8428215 -->
 
-Para conocer la distribución de plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación refiérase a las resoluciones generales y específicas de cada uno de los controles oficiales vigentes, las que se encuentran en la página web del SAG http://www.sag.cl/ambitos-de-accion/plagas- y-enfermedades.
-
 La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación:
 
-ÁCAROS
-
-INSECTOS
-
-COLEOPTERA
-
-HEMIPTERA
-
-HYMENOPTERA
-
-LEPIDOPTERA
-
-HONGOS Y CROMISTAS
-
-NEMATODOS
-
-BACTERIAS
-
-VIRUS Y VIROIDES
-
-> **Nota.** El numeral 7 de la Resolución 800 Exenta, Agricultura, publicada el 06.02.2025, dispone eliminar en el presente artículo, en la tabla referente al insecto Hemiptera, la fila que se señala la plaga Bagrada hilaris, polífaga: Brassicaceas y otras especies.
+.
 
 #### Artículo vigésimo segundo
 
