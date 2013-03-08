@@ -86,11 +86,51 @@ Requisitos: Los/as postulantes a las Becas Nacionales de Postgrado deberán cump
 
 a) Doctorado Nacional:
 
-i. Poseer el grado académico de Licenciado/a,
+i. Poseer el grado académico de
 
-otorgado por instituciones de educación
+Licenciado/a, otorgado por instituciones
 
-superior chilenas o extranjeras.
+de educación superior chilenas o
+
+extranjeras.
+
+No obstante lo anteriormente señalado,
+
+podrán postular en los concursos
+
+respectivos, quienes se encuentren en
+
+proceso de trámite de licenciatura y/o
+
+titulación profesional en una
+
+universidad chilena. En este último
+
+caso, esta situación deberá
+
+acreditarse mediante certificado
+
+expedido por la autoridad
+
+competente de la universidad de
+
+origen y la licenciatura y/o
+
+título profesional deberá
+
+presentarse antes de la fecha
+
+límite de firma del respectivo
+
+convenio. En caso que el
+
+adjudicatario no presente el
+
+mencionado documento en la fecha
+
+señalada, Conicyt dejará sin
+
+efecto la beca.
 
 ii. Encontrarse en proceso de postulación,
 
@@ -106,29 +146,65 @@ chilena.
 
 b) Magíster Nacional:
 
-i. Poseer el Grado Académico de
+i. Poseer el grado académico de
 
-Licenciado/a o un título profesional cuyo
+Licenciado/a o un título profesional
 
-nivel y contenido de estudios sean
+cuyo nivel y contenido de estudios
 
-equivalentes a los necesarios para
+sean equivalentes a los necesarios
 
-obtener el grado de licenciado, otorgados
+para obtener el grado de licenciado,
 
-por instituciones de educación superior
+otorgado por instituciones de
 
-chilenas o extranjeras.
+educación superior chilenas o
 
-ii. Encontrarse en proceso de postulación o
+extranjeras.
 
-admitido/a para iniciar estudios en un
+No obstante lo anteriormente señalado,
 
-programa de Magíster acreditado en
+podrán postular, quienes se encuentren
 
-conformidad con la ley Nº 20.129 en
+en proceso de obtención de licenciatura
 
-una universidad chilena.
+y/o título profesional en una universidad
+
+chilena o extranjera al momento de la
+
+postulación. En este último caso, esta
+
+situación deberá acreditarse mediante
+
+certificado expedido por la autoridad
+
+competente de la universidad de origen
+
+y la licenciatura y/o título profesional
+
+deberá presentarse antes de la fecha
+
+límite de firma del respectivo convenio.
+
+En caso que el adjudicatario no presente
+
+el mencionado documento en la fecha
+
+señalada, Conicyt dejará sin efecto
+
+la beca.
+
+ii. Encontrarse en proceso de postulación,
+
+admitido/a o tener la calidad de
+
+alumno/a regular en un programa de
+
+Magíster acreditado en conformidad
+
+con la ley Nº 20.129 e impartido
+
+por una universidad chilena.
 
 c) Magíster para Profesionales de la Educación:
 
@@ -302,7 +378,7 @@ No podrán ser beneficiarios/as de las Becas Nacionales:
 
 i. Aquellos/as que, al momento de la firma del convenio, tengan la calidad de beneficiario/a de otra beca con financiamiento del sector público para cursar el mismo programa de estudios o para obtener el mismo grado académico.
 
-ii. Aquellos que ya han sido beneficiarios de alguna beca con financiamiento del sector público para la obtención del mismo grado académico o superior.
+ii. Aquellos que ya han sido beneficiarios de alguna beca con financiamiento del sector público para la obtención del mismo grado académico o superior. No obstante, esta limitación no se extenderá a aquellos postulantes que hubieren recibido financiamiento parcial del sector público para el mismo programa durante el primer año académico, siempre y cuando no posean alguna de las incompatibilidades previstas en los puntos i y iii de este artículo.
 
 iii. Aquellos que a la fecha de firma del Convenio, mantengan compromisos pendientes o deudas actualmente exigibles con instituciones públicas derivadas de su situación de becario/a. Sin perjuicio de lo anterior, podrán ser beneficiarios quienes mantengan compromisos pendientes derivados de su condición de becario, de una beca administrada por Conicyt (a excepción de las becas reguladas por el artículo 27 de la ley Nº 19.595, el DFL Nº 1, de 1999, del Ministerio de Planificación y el DFL Nº 22, del Ministerio de Educación, de 1981), que sólo correspondan a periodos de retorno y/o retribución, previa autorización de esta última.
 
