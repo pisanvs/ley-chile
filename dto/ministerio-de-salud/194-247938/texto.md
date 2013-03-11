@@ -2314,7 +2314,7 @@ Solución inyectable
 
 Solución oral 10 mg/mL
 
-15.03 Diuréticos depletores de potasio
+15.03 Diuréticos ahorradores de potasio
 
 ESPIRONOLACTONA Comprimido o gragea 25 mg
 
