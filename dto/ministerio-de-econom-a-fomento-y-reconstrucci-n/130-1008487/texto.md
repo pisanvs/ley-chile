@@ -98,7 +98,7 @@ La evaluación de las organizaciones postulantes se realizará según criterios 
 
 #### Artículo 5º
 
-Las organizaciones postulantes al Premio serán evaluadas por un Jurado, nominado por ChileCalidad, constituido por personalidades de reconocido prestigio y experiencia en materias relativas a la gestión, ligadas a actividades empresariales y laborales, que garanticen criterios de objetividad, transparencia y ecuanimidad en el cumplimiento de sus funciones; y por comisiones técnicas, de acuerdo a lo que las bases de postulación establezcan para cada período.
+Las organizaciones postulantes al Premio serán evaluadas por un Jurado, nominado por la Corporación de Fomento de la Producción, constituido por personalidades de reconocido prestigio y experiencia en materias relativas a la gestión, ligadas a actividades empresariales y laborales, que garanticen criterios de objetividad, transparencia y ecuanimidad en el cumplimiento de sus funciones; y por comisiones técnicas, de acuerdo a lo que las bases de postulación establezcan para cada período.
 
 El discernimiento del Premio considerará a las organizaciones como un todo, lo que significa que en el proceso de participación en el proceso del Premio, habrán de participar todos sus integrantes: propietarios, ejecutivos y trabajadores (directamente y/o a través de sus organizaciones formales: sindicatos, asociaciones gremiales, comités paritarios de higiene y seguridad, delegados de personal, etc.); y, asimismo, dar cuenta de la relación con sus proveedores y clientes principales.
 
@@ -112,7 +112,7 @@ De esta manera, el Premio Nacional a la Calidad y a la Gestión de Excelencia se
 
 #### Artículo 7º
 
-El Premio será administrado por el Comité Centro Nacional de la Productividad y la Calidad de la Corporación de Fomento de la Producción, procurando que tenga amplia difusión en la comunidad empresarial, los servicios públicos y en toda la sociedad.
+El Premio será administrado por la Corporación de Fomento de la Producción, procurando que tenga amplia difusión en la comunidad empresarial, los servicios públicos y en toda la sociedad.
 
 II.- PREMIO PYME
 
@@ -148,25 +148,23 @@ factor competitivo clave.
 
 #### Artículo 11º
 
-El reconocimiento que otorgue el Premio PYME a la Gestión Competitiva se expresará en tres categorías de nivel de gestión: Oro, Plata y Bronce, cuyas condiciones de obtención quedarán establecidas en las bases de cada convocatoria del Premio que realice ChileCalidad.
+El reconocimiento que otorgue el Premio PYME a la Gestión Competitiva se expresará en tres categorías de nivel de gestión: Oro, Plata y Bronce, cuyas condiciones de obtención quedarán establecidas en las bases de cada convocatoria del Premio que realice la Corporación de Fomento de la Producción.
 
 #### Artículo 12º
 
-El Premio PYME Gestión Competitiva contará con un Jurado, nominado por ChileCalidad, constituido por personalidades de reconocido prestigio y experiencia en materias relativas a la gestión de empresas PYME, ligadas a actividades empresariales y laborales, que garanticen criterios de objetividad, transparencia y ecuanimidad en el cumplimiento de sus funciones.
+El Premio PYME Gestión Competitiva contará con un Jurado, nominado por la Corporación de Fomento de la Producción, constituido por personalidades de reconocido prestigio y experiencia en materias relativas a la gestión de empresas PYME, ligadas a actividades empresariales y laborales, que garanticen criterios de objetividad, transparencia y ecuanimidad en el cumplimiento de sus funciones.
 
 A dicho Jurado le corresponderá discernir, de entre las empresas postulantes, a los ganadores en las diversas categorías. Sus decisiones serán inapelables.
 
 #### Artículo 13º
 
-ChileCalidad aprobará las bases por las que ChileCalidad llame a convocatoria, dichas bases determinarán la información que deberán presentar las organizaciones que postulen al Premio Nacional a la Calidad y a la Gestión y las empresas que postulen al Premio PYME, estableciendo la forma en que se realizará el proceso de evaluación de las postulaciones.
+La Corporación de Fomento de la Producción aprobará las bases por las que la Corporación de Fomento de la Producción llame a convocatoria, dichas bases determinarán la información que deberán presentar las organizaciones que postulen al Premio Nacional a la Calidad y a la Gestión y las empresas que postulen al Premio PYME, estableciendo la forma en que se realizará el proceso de evaluación de las postulaciones.
+
+La Corporación de Fomento de la Producción podrá delegar la gestión y la administración de ambas distinciones, debiendo garantizar el debido cumplimiento de sus fines.
 
 #### Artículo segundo
 
-el Comité CORFO Centro Nacional de Productividad y la Calidad tendrá como misión promover un movimiento por la mejora continua y la innovación en la gestión de las organizaciones públicas y privadas del país, será la institución encargada de administrar el Premio Nacional a la Calidad y a la Gestión de Excelencia y el Premio PYME Gestión Competitiva.
-
-El Comité CORFO Centro Nacional de Productividad y la Calidad, además podrá administrar un sistema de sellos u otros reconocimientos públicos, que busquen incentivar y promover el uso voluntario de modelos de gestión en las organizaciones públicas y privadas, con y sin fines de lucro, de manera que les permita medir los niveles de gestión en que éstas se encuentran, promoviendo su mejora continua.
-
-Para lo anterior, el Comité Corfo ChileCalidad aprobará las bases administrativas que regulen cada proceso de acreditación que la Institución realice para la entrega de sellos de gestión de calidad y de excelencia a Instituciones.
+ELIMINADO.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jean-Jacques Duhart Saurel, Ministro de Economía, Fomento y Reconstrucción (S).
 
