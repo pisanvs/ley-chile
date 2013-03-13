@@ -8,7 +8,7 @@ Período I: Desde el 16 de enero al 30 de junio de 2013
 
 espinosa;
 
-. V Región: 108,5 toneladas de Raya volantín y 20 toneladas de Raya
+. V Región: 162,75 toneladas de Raya volantín y 30 toneladas de Raya
 
 espinosa;
 
@@ -26,7 +26,7 @@ Período II: Desde el 1 de julio al 30 de noviembre de 2013
 
 espinosa;
 
-. V Región: 108,5 toneladas de Raya volantín y 20 toneladas de Raya
+. V Región: 54,25 toneladas de Raya volantín y 10 toneladas de Raya
 
 espinosa;
 
