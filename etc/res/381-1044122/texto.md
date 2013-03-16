@@ -148,7 +148,7 @@ Además, representará judicialmente a la Corporación en todos los asuntos que 
 
 8) Arrendar cajas de seguridad, operar en ellas y poner término a su arrendamiento.
 
-9) Abrir, mantener y cerrar cuentas corrientes bancarias, girar en ellas, efectuar depósitos, retirar talonarios, dar órdenes de no pago, girar, endosar, cobrar, protestar y cancelar cheques; girar, endosar, descontar, depositar, revalidar, prorrogar, protestar y cancelar letras de cambio, pagarés o cualquier otro documento bancario o mercantil; reconocer o impugnar saldos y solicitar o autorizar cargos en dichas cuentas y, en general, efectuar todas las operaciones que son de común ocurrencia en el orden bancario. Todas las operaciones de orden bancario deberán llevar para su validez la firma del Director Ejecutivo, siempre en conjunto con la de otro empleado del Comité que designe al efecto su Consejo Directivo.
+9) Abrir, mantener y cerrar cuentas corrientes bancarias, girar en ellas, efectuar depósitos, retirar talonarios, dar órdenes de no pago, girar, endosar, cobrar, protestar y cancelar cheques; girar, endosar, descontar, depositar, revalidar, prorrogar, protestar y cancelar letras de cambio, pagarés o cualquier otro documento bancario o mercantil; reconocer o impugnar saldos y solicitar o autorizar cargos en dichas cuentas y, en general, efectuar todas las operaciones que son de común ocurrencia en el orden bancario. El Director Ejecutivo velará por sí o a través de un funcionario del Comité Sistema de Empresas – SEP, por la regularidad, veracidad, validez y correspondencia de las operaciones de orden bancario; asimismo, velará para que ellas lleven a lo menos la firma de dos o más trabajadores del Comité Sistema de Empresas - SEP, designados para tal efecto, por el Consejo de este Comité, mediante acuerdo.
 
 10) Cancelar créditos y alzar toda clase de garantías y prohibiciones.
 
@@ -156,9 +156,9 @@ Además, representará judicialmente a la Corporación en todos los asuntos que 
 
 12) Prorrogar fundadamente y por una vez contratos de asesorías y/o servicios, informando al Consejo Directivo.
 
-13) Celebrar contratos de asesorías y de prestación de servicios dentro del cumplimiento de los fines de este Comité, por un monto que en cada caso no supere las 310 unidades de fomento.
+13) Celebrar contratos de asesorías y de prestación de servicios dentro del cumplimiento de los fines de este Comité, por un monto que en cada caso no supere las 450 Unidades de Fomento.
 
-14) Celebrar contratos de arrendamiento respecto de bienes muebles o inmuebles, para desarrollar las actividades del Comité por un monto que en cada caso no supere las 310 unidades de fomento e informando al Consejo Directivo.
+14) Celebrar contratos de arrendamiento respecto de bienes muebles o inmuebles, para desarrollar las actividades del Comité por un monto que en cada caso no supere las 450 Unidades de Fomento e informando al Consejo Directivo.
 
 15) Autorizar y realizar gastos, dentro de los márgenes consultados en el presupuesto asignado, que tengan por objeto reparar los bienes muebles o inmuebles que utiliza el Comité.
 
