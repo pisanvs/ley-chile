@@ -22,17 +22,15 @@ El Serbidibam se regirá por el artículo 134 de la ley Nº 11.764, la ley Nº 1
 
 De la administración
 
-#### Artículo 2º
+#### Artículo 2°
 
-La Administración del Serbidibam corresponderá al Consejo Administrativo integrado por:
+La administración del Serbidibam corresponderá al Consejo Administrativo integrado por:
 
-a) El Director de la Dirección de Bibliotecas, Archivos y Museos, en adelante, la Dibam o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) Tres representantes de la Dirección de Bibliotecas, Archivos y Museos correspondientes al nivel de Jefe de Departamento o de la Planta de Directivos, designados por el Jefe Superior del Servicio, correspondiendo uno de éstos al Director(a) de la Dibam o a la persona que éste designe en su reemplazo, quien lo presidirá; y
 
-b) El Jefe del Departamento de Recursos Humanos;
+b) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de conformidad con lo establecido en el inciso tercero del artículo 18 del Reglamento General.
 
-c) El Subdirector de Administración y Finanzas; y d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
-
-El Jefe del Serbidibam actuará como Secretario del Consejo, con derecho a voz pero no a voto.
+El Jefe del Serbidibam actuará como Secretario del Consejo, con derecho a voz y sin derecho a voto.
 
 #### Artículo 3º
 
