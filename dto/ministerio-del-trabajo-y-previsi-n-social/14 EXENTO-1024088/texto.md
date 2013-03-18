@@ -188,6 +188,14 @@ Beneficios facultativos
 
 El Servicio de Bienestar podrá patrocinar, asesorar y financiar, si los recursos económicos así lo permitan, actividades educativas, culturales, artísticas, deportivas y recreativas en general. Como también, podrá celebrar y financiar la Fiesta de Navidad, en beneficio de sus afiliados y sus cargas familiares.
 
+#### Artículo 15 bis
+
+El Servicio de Bienestar podrá administrar servicios dependientes, tales como, Jardines Infantiles, Casinos, Complejos Deportivos, Casas de Veraneo, Casas de Huéspedes y todos aquellos espacios afines que le sean asignados, para el uso de sus afiliados.
+
+Para la administración de los servicios dependientes, el Servicio de Bienestar podrá destinar hasta el 10% del total de sus recursos financieros de acuerdo con sus disponibilidades presupuestarias y con acuerdo del Consejo Administrativo. Los excedentes que se produzcan en esta administración, podrán ser destinados a mejorar los establecimientos propiamente tal, abaratar el precio de éstos o al financiamiento del Servicio de Bienestar.
+
+Al efecto, podrá celebrar convenios con otras entidades, a objeto de producir el intercambio y ampliación de prestaciones que el Servicio de Bienestar pudiere ofrecer
+
 ## Título IV
 
 Disposiciones generales
