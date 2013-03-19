@@ -6,7 +6,7 @@ Considerando: 1.- Que en virtud del artículo 11 del D.S. Nº 22 de 2009, se est
 
 Resuelvo:
 
-1.- Dispónese, de acuerdo al informe técnico adjunto, que las siguientes estaciones de monitoreo correspondientes a la red GNL Quintero, como estaciones monitoras con representatividad de los recursos naturales (EMRRN), esto último para efectos de evaluar el cumplimiento de la norma de concentración ambiental de SO2 establecidas en el D.S. Nº 22, en el área circundante a la fuente fija GNL Quintero:
+1.- Dispónese, de acuerdo al informe técnico adjunto, que las siguientes estaciones de monitoreo correspondientes a la red CENTRO - Quintero, como estaciones monitoras con representatividad de los recursos naturales (EMRRN), esto último para efectos de evaluar el cumplimiento de la norma de concentración ambiental de SO2 establecidas en el D.S. Nº 22, en el área circundante a la fuente fija CENTRO - Quintero:
 
 .
 
