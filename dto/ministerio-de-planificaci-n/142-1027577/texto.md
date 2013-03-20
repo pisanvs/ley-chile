@@ -52,7 +52,7 @@ e) Asientos suficientes: Cantidad de asientos reservados para el uso preferente 
 
 f) Espacios suficientes: Zonas y/o rutas de fácil acceso a los espacios reservados para usuarios de sillas de ruedas, como son los accesos, pasillos y zonas de maniobra de silla de ruedas.
 
-g) Espacio reservado: Espacio al interior del medio de transporte, con dimensiones que permitan la ubicación y circulación de una silla de ruedas desde el acceso, y provisto de un sistema de sujeción para la seguridad de los usuarios de la misma.
+g) Espacio reservado: Espacio al interior del medio de transporte, con dimensiones que permitan la ubicación y circulación expedita de una silla de ruedas desde el acceso.
 
 #### Artículo 4º
 
@@ -148,9 +148,9 @@ Espacios Suficientes.- En, a lo menos, uno de los carros, para cualquier configu
 
 El espacio reservado al pasajero en silla de ruedas se indicará con el SIA que se contiene en el artículo 5º del presente reglamento, complementado con la leyenda "ESPACIO RESERVADO PARA PASAJEROS(AS) QUE VIAJAN EN SILLA DE RUEDAS", ubicado en un lugar visible del costado del vehículo.
 
-En el espacio reservado para pasajeros en silla de ruedas se instalará, en el lateral del vehículo, una barra horizontal a una altura comprendida entre 700 y 800 mm., separada a lo menos 40 mm., de la carrocería y de diámetro no superior a 40 mm.
+El espacio reservado para pasajeros en silla de ruedas contará con un pasamanos contiguo de diámetro no superior a 40 mm.
 
-El pasajero en silla de ruedas deberá posicionarse en la superficie mencionada, mirando hacia la parte trasera o delantera del vehículo, y paralelo al eje longitudinal de éste, nunca en posición transversal.
+El pasajero en silla de ruedas deberá posicionarse en la superficie mencionada, en sentido paralelo o perpendicular al eje longitudinal del coche.
 
 #### Artículo 17º
 
