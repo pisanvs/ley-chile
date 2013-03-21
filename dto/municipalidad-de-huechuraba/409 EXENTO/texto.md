@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO N° 409 EXENTO, DE 2013
+
+Núm. 409 exento.- Huechuraba, 14 de marzo de 2013.- Dispónese la postergación del otorgamiento de permisos de subdivisión, loteo, urbanización predial y de construcciones, por un plazo de tres meses, plazo que tendrá vigencia desde la publicación de este decreto en el Diario Oficial, a los terrenos ubicados en el sector oriente de la comuna, Condominio Bosques de la Pirámide frente a la calle Rinconada El Salto, actual zona ZH4 "Residencial (Rinconada)" de acuerdo al "Plano de Postergación de Permisos Sector Bosques de la Pirámide" de fecha enero de 2013.-
+
+> **Nota.** El Numeral Nº 1 de la Resolución 1370 Exenta, Vivienda, publicada el 21.06.2013, modifican la presente norma en el sentido de prorroga, por un plazo de tres meses, la postergación de permisos de subdivisión, loteo, urbanización predial y de construcciones, en los terrenos ubicados en la comuna de Huechuraba, en el sector oriente de la comuna, Condominio Bosques de la Pirámide frente a la calle Rinconada El Salto, actual zona ZH4 "Residencial (Rinconada)" de acuerdo al "Plano de Postergación de Permisos Sector Bosques de la Pirámide" de enero de 2013.
+
+Carlos Cuadrado Prats, Alcalde de Huechuraba.
