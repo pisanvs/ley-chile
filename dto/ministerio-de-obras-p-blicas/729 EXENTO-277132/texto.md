@@ -70,6 +70,8 @@ Acceso Sur a Santiago.
 
 Ruta G-45-H, Cruce Av. El Mariscal - Camino Padre Hurtado - Cuesta Chada.
 
+. Ruta G-251, Cruce G-21 - Valle Nevado.
+
 3º Declárense Caminos Públicos en el continuo urbano de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Metrópoli de Santiago:
@@ -175,6 +177,16 @@ El tramo urbano de la Ruta G-45-H, desde límite
 urbano norte hasta límite urbano sur, a través
 
 Camino Alto Jahuel (T62S).
+
+. MACRO ÁREA URBANA CENTROS DE NIEVE
+
+El tramo urbano de la vía que une la Ruta G-21
+
+con La Parva; a través de Camino El Colorado y
+
+Camino La Paloma, desde el inicio de la ex Ruta
+
+G-249 hasta el sector de la Quebrada Las Vegas.
 
 5º Las vías declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
