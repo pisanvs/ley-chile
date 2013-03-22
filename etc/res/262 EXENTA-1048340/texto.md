@@ -42,7 +42,7 @@ Podrán participar del presente llamado los UMP que acrediten, como mínimo, el 
 
 Excepcionalmente, se aceptarán postulaciones que no reúnan el porcentaje mínimo de postulación, siempre que cuenten con la adhesión de al menos el 85% de los propietarios. En este caso, la postulación se entenderá condicionada, esto es, sólo será considerada en la medida que, atendidas las postulaciones que cumplen con el porcentaje mínimo de adhesión, existiere disponibilidad presupuestaria para su atención.
 
-El porcentaje de acuerdo a que se refieren los párrafos anteriores se medirá según el total de propietarios que conforman la UMP, y se considerarán como "de acuerdo" aquellos que suscriban el Formulario de Inscripción del Programa, en adelante la "Inscripción" y la Escritura Pública de Adhesión al Programa y Mandato, en adelante la "Adhesión", según antecedentes especificados en el resuelvo 4 de la presente resolución. En el caso de los departamentos que, de acuerdo a la nómina de propietarios y ocupantes a que se refiere la letra a) del resuelvo 4, se encuentren ocupados por una persona distinta del propietario, tanto la Inscripción como la Adhesión deberán también estar suscritas por el ocupante; de lo contrario, el acuerdo del propietario no se considerará válido.
+El porcentaje de acuerdo a que se refieren los párrafos anteriores se medirá según el total de propietarios que conforman la UMP, y se considerarán como "de acuerdo" aquellos que suscriban el Formulario de Inscripción del Programa, en adelante la "Inscripción" y la Escritura Pública de Adhesión al Programa y Mandato, en adelante la "Adhesión", según antecedentes especificados en el resuelvo 4 de la presente resolución. En el caso de los departamentos que, de acuerdo a la nómina de propietarios y ocupantes a que se refiere la letra a) del resuelvo 4, se encuentren ocupados por una persona distinta del propietario, tanto la Inscripción como la Adhesión deberán también estar suscritas por el ocupante; de lo contrario, el acuerdo del propietario no se considerará válido. Excepcionalmente, los Serviu podrán aceptar ingresos en que la Inscripción y la Adhesión no hayan sido tramitadas ante notario. Estas postulaciones ingresarán como condicionadas, y las firmas ante notario pendientes deberán ser tramitadas, a más tardar, durante el período de subsanación de observaciones.
 
 De esta manera, el porcentaje de adhesión de las UMP se calculará de acuerdo a la siguiente fórmula:
 
@@ -60,15 +60,17 @@ c) Escritura Pública de Adhesión al Programa y Mandato, según formato que ser
 
 d) Certificado de avalúo fiscal de cada uno de los departamentos de la UMP; y
 
-e) Comprobante que acredite que las cuentas de servicios domiciliarios de cada uno de los departamentos de la UMP no mantienen deuda vigente, como por ejemplo la boleta cancelada correspondiente al último mes.
+e) Comprobante que acredite que las cuentas de servicios domiciliarios de cada uno de los departamentos de la UMP no mantienen deuda vigente, o documentación que acredite el estado actual de éstas. La obtención de los beneficios del presente Programa está condicionada al pago de las cuentas domiciliarias que se encuentren pendientes, por lo que las postulaciones que se presenten con deudas por servicios domiciliarios serán consideradas como condicionadas. El pago de las deudas por servicios domiciliarios es de responsabilidad de los propietarios de los departamentos respectivos, ya sea dentro del plazo de subsanación de observaciones, mediante la suscripción de un convenio de transferencia de deuda al nuevo domicilio con la empresa correspondiente, o en el contexto del proceso expropiatorio, a través de la concurrencia de la empresa prestadora del servicio. En este último caso, el monto de la deuda cobrado por la empresa prestadora del servicio será descontado de la indemnización por expropiación y, en consecuencia, del subsidio descrito en el punto 7.1. del resuelvo 7.
 
 ### 5. Procedimiento de postulación
 
-Los antecedentes de postulación deberán ser ingresados por el Delegado del Block/Nave en la oficina de partes del Serviu respectivo hasta las 12:00 hrs. del día 1 de marzo.
+Los antecedentes de postulación deberán ser ingresados por el Delegado del Block/Nave en la oficina de partes del Serviu respectivo hasta las 12:00 hrs., del día 1 de marzo.-
 
-Una vez ingresados, el Serviu dispondrá hasta el 15 de marzo de 2013 para evaluar los antecedentes de postulación y verificar el cumplimiento de los requisitos del Programa. Durante ese plazo, el Serviu podrá, en un solo acto y mediante documento suscrito por su Director, realizar observaciones al Delegado del Block/Nave, quien dispondrá hasta el 22 de marzo de 2013 para subsanar dichas observaciones y reingresar los documentos que sean necesarios.
+Una vez ingresados, el Serviu dispondrá hasta el 15 de marzo de 2013 para evaluar los antecedentes de postulación y verificar el cumplimiento de los requisitos del Programa. Durante ese plazo, el Serviu podrá, en un solo acto y mediante documento suscrito por su Director, realizar observaciones al Delegado del Block/Nave, quien dispondrá hasta el 28 de marzo de 2013 para subsanar dichas observaciones y reingresar los documentos que sean necesarios.
 
-El resultado de la evaluación será informado por el Serviu a más tardar el 5 de abril de 2013.
+Se informará el resultado de las preselecciones de UMP, el cual será informado por el Serviu a más tardar el 12 de abril de 2013.
+
+Para obtener la selección definitiva, se deberán presentar al Serviu la Inscripción y la Adhesión debidamente tramitadas ante notario y, en el caso de que se mantengan deudas de servicios domiciliarios, se necesitará contar con una declaración simple por parte del beneficiario de estar en conocimiento de la existencia y montos de estas deudas y de su obligación de pagarlas.
 
 ### 6. Criterios de evaluación
 
