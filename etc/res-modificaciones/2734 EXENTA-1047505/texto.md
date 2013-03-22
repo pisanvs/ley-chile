@@ -30,11 +30,11 @@ a) Almacenar y custodiar los bienes institucionales que necesiten ser conservado
 
 b) Realizar los despachos correspondientes a las ventas de bienes institucionales y de otros productos relacionados con el quehacer institucional.".
 
-5.- Agréganse al "Servicio de Bienestar" en el artículo cuarenta y cuatro de la resolución exenta Nº 335, los nuevos literales j) y k), con las funciones que a continuación se describen:
+5.- Agréganse al "Acción Social" en el artículo cuarenta y cuatro de la resolución exenta Nº 335, los nuevos literales i) y j), con las funciones que a continuación se describen:
 
-j) Efectuar el control y seguimiento de funcionarios con enfermedades crónicas: diabéticos, hipertensos e ingesta de alcohol.
+i) Efectuar el control y seguimiento de funcionarios con enfermedades crónicas: diabéticos, hipertensos e ingesta de alcohol.
 
-k) Proponer y ejecutar los programas de inmunizaciones del personal: Influenza, hepatitis.
+j) Proponer y ejecutar los programas de inmunizaciones del personal: Influenza, hepatitis.
 
 6.- Modifíquense en el texto de la resolución exenta Nº 335, del 25 de febrero de 2011, de este Instituto, las partes donde dice "Sección Atención de Pacientes" debe decir "Sección Recepción y Toma de Muestras".
 
