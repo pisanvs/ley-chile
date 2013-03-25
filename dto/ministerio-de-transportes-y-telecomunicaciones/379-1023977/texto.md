@@ -76,13 +76,15 @@ Para los efectos de este Reglamento, se entenderá por:
 
 Proceso de Portabilidad del Número Telefónico: Corresponde al conjunto de fases o etapas que permiten:
 
-a) A un suscriptor y/o usuario de una concesionaria de servicio público de telefonía local, móvil, o del mismo tipo, cambiarse a cualquier otra concesionaria de servicio público de telefonía local, móvil o del mismo tipo, manteniendo su número telefónico;
+a) A un suscriptor de una concesionaria de servicio público de telefonía local, sea de pre o post pago, cambiarse a otra concesionaria de servicio público de telefonía local, manteniendo su número telefónico, al interior de una zona primaria, o en definiciones geográficas distintas a las actualmente existentes siempre que la normativa vigente así lo permita;
 
-b) Eliminado
+b) A un suscriptor y a un usuario de una concesionaria de servicio público telefónico móvil, cambiarse a otra concesionaria de servicio público telefónico móvil que le provea el servicio, manteniendo su número;
 
 c) A un suministrador de servicios complementarios del servicio público telefónico cambiarse desde la red de la concesionaria a la que esté conectado, hacia la red de otra concesionaria, manteniendo su número;
 
-d) Eliminado.
+d) A un suscriptor o un usuario de una concesionaria de servicio público del mismo tipo que el servicio público telefónico, cambiarse desde la concesionaria que le provee el servicio del mismo tipo que el servicio público telefónico hacia otra concesionaria para que le provea dicho servicio del mismo tipo que el servicio público telefónico, o bien, hacia otra concesionaria que suministre el servicio público telefónico técnicamente compatible con el correspondiente servicio público del mismo tipo, y viceversa, manteniendo, en cualquiera de estos casos, su número telefónico. En todo caso, tratándose de usuarios o suscriptores del servicio público de voz sobre Internet, dichos suscriptores o usuarios sólo podrán portarse a otros concesionarios de servicio público de voz sobre Internet.
+
+Procederá igualmente la portabilidad numérica en casos distintos de los señalados en los literales precedentes, incluso entre distintos servicios, siempre que así lo permita la normativa aplicable a los mismos.
 
 Requirente: Suscriptor o usuario del servicio público telefónico local, móvil o del mismo tipo, que ejercita el derecho de solicitar la portabilidad del número, sea persona natural o jurídica.
 
@@ -102,41 +104,67 @@ Organismo Administrador de la Portabilidad (OAP): Persona jurídica que tiene a 
 
 a) Base de Datos de Administración de la Numeración Telefónica (BANT): Conjunto de información organizada de la que dispone el OAP con objeto de llevar adelante el proceso de portabilidad numérica. A partir de esta información, se generarán las siguientes tablas de información:
 
-. Tabla de Encaminamiento de Portabilidad (TEP): Conjunto de información necesaria
+. Tabla de Encaminamiento de Portabilidad
 
-para el correcto encaminamiento de todas las llamadas telefónicas, que el OAP
+(TEP): Conjunto de información necesaria
 
-actualiza diariamente y que pone a disposición de las concesionarias del
+para el correcto encaminamiento de todas
 
-servicio público telefónico local, móvil, del mismo tipo y portadores antes de la
+las llamadas telefónicas, que el OAP
+
+actualiza diariamente y que pone a
+
+disposición de las concesionarias del
+
+servicio público telefónico local, móvil,
+
+del mismo tipo y portadores antes de la
 
 Ventana de Cambio.
 
-. Tabla de Encaminamiento de Portabilidad Propia (TEPP): Conjunto de información
+. Tabla de Encaminamiento de Portabilidad
 
-necesaria para el correcto encaminamiento de todas las llamadas telefónicas que
+Propia (TEPP): Conjunto de información
 
-gestionan y administran directamente las concesionarias del servicio público
+necesaria para el correcto encaminamiento
 
-telefónico local, móvil, del mismo tipo y portadores, que corresponde a una copia de
+de todas las llamadas telefónicas que
 
-la TEP y cuya responsabilidad de actualización permanente recae en las
+gestionan y administran directamente las
+
+concesionarias del servicio público
+
+telefónico local, móvil, del mismo tipo y
+
+portadores, que corresponde a una copia de
+
+la TEP y cuya responsabilidad de
+
+actualización permanente recae en las
 
 mencionadas Proveedoras.
 
-. Tabla de Portabilidad Diaria (TPD): Conjunto de información que se almacena en
+. Tabla de Portabilidad Diaria (TPD):
 
-el OAP relacionada con todas las activaciones de solicitudes de
+Conjunto de información que se almacena en
 
-portabilidad realizadas por los requirentes durante el transcurso de un
+el OAP relacionada con todas las
 
-día. A partir de esta tabla se alimenta la TEP.
+activaciones de solicitudes de
+
+portabilidad realizadas por los
+
+requirentes durante el transcurso de un
+
+día. A partir de esta tabla se alimenta la
+
+TEP.
 
 b) Sistema de Gestión de la Portabilidad (SGP): Aplicación informática que lleva a cabo todo el proceso de administración, gestión y explotación de la portabilidad numérica a través de los diferentes módulos y cuyo responsable es el OAP. Esta aplicación debe estar disponible para todas las concesionarias de servicio público telefónico local, móvil y del mismo tipo. El SGP, de ser el caso, deberá integrarse a los sistemas de las concesionarias de servicio público telefónico local, móvil y del mismo tipo que dichas concesionarias hayan desarrollado para su interoperación con el mismo.
 
-Cuenta "al Día": Corresponde a la última Cuenta Única Telefónica o último documento de cobro emitido por un concesionario del servicio público telefónico o del mismo tipo y enviado al suscriptor o usuario, que ha sido pagado total o parcialmente, en aquella parte no impugnada en virtud del Reglamento de Reclamos en este segundo caso, o, en su defecto, aquel documento o comprobante que acredite dicho pago.
+Cuenta "al Día": Corresponde a la última Cuenta Única Telefónica o último documento de cobro emitido por un concesionario del servicio público telefónico o del mismo tipo, que, encontrándose vencido, ha sido pagado total o parcialmente, en aquella parte no impugnada en virtud del Reglamento de Reclamos en este segundo caso, o, en su defecto, aquel documento o comprobante que acredite dicho pago.
 
-Para encontrarse en dicha situación, el Requirente debe, al momento de activar la solicitud de portabilidad, haber pagado los Saldos Pendientes Facturados por la Proveedora Donante.
+Para encontrarse "al Día" en el pago de su última cuenta o documento de cobro, el Requirente debe, al momento de activar la solicitud de portabilidad, haber pagado los Saldos Pendientes Facturados que se encuentren vencidos, esto es, respecto de los cuales haya expirado el plazo establecido por la Proveedora Donante para su pago.
 
 Saldos Pendientes Facturados: Corresponde a los cargos asociados al servicio público telefónico o del mismo tipo que se encuentran facturados por la Proveedora Donante en la última Cuenta Única Telefónica o documento de cobro emitido y que no han sido pagados por el Requirente al momento de la activación de la solicitud de portabilidad. Dichos saldos podrán estar vencidos o no vencidos, según haya expirado o no el plazo establecido por la Proveedora Donante para su pago.
 
@@ -151,8 +179,6 @@ Blackout: Es el periodo de tiempo durante el cual el servicio público telefóni
 Número Portado: Número telefónico, cuya estructura se define en el Plan Técnico Fundamental de Numeración Telefónica y que ha sido objeto del Proceso de Portabilidad del Número Telefónico.
 
 Cualquier otro término no definido en este Reglamento tendrá el significado que al mismo se le atribuye en la normativa en el ámbito de las telecomunicaciones dictada por la Subsecretaría, en ejercicio de sus facultades.
-
-> **Nota.** El artículo 2° de la Resolución 440 Exenta, Transportes, publicada el 20.02.2026, indica que, en lo concerniente al proceso de portabilidad, la información sobre la Cuenta "al Día" debe estar actualizada dentro del plazo de 30 minutos contados desde que el Requirente efectuó el pago en línea, o dentro de dos horas si el pago fue realizado en forma presencial.
 
 ## Título II — - De los Aspectos Generales Relativos a la Portabilidad y del Ámbito de Aplicación
 
@@ -174,13 +200,11 @@ Asimismo, estas concesionarias deberán responder oportunamente a los requerimie
 
 b) Toda concesionaria del servicio público telefónico y del mismo tipo que origine una comunicación, tendrá la obligación de consultar la TEPP a fin de obtener la información necesaria para su encaminamiento, exceptuando las comunicaciones de larga distancia.
 
-c) Los portadores tendrán la obligación de consultar la TEPP a fin de obtener la información necesaria para encaminar correctamente las comunicaciones de larga distancia internacional originadas en el extranjero, hacia la red de destino.
+c) Los portadores tendrán la obligación de consultar la TEPP a fin de obtener la información necesaria para encaminar correctamente las comunicaciones de larga distancia nacional y las comunicaciones de larga distancia internacional originadas en el extranjero, hacia la red de destino.
 
 d) Para efectos del cumplimiento de la obligación de actualizar diariamente la TEPP, conducente al debido encaminamiento de las comunicaciones, cada Proveedora deberá mantener una conexión con la BANT.
 
 e) Las Proveedoras, deberán diariamente remitir al OAP a través del SGP, reportes detallados que den cuenta de las actividades directamente relacionadas con los procesos de portación, tales como activación y desactivación de servicio de números portados, reversiones y actualización de la TEPP, en cumplimiento de las obligaciones que se derivan del presente Reglamento y cuyo detalle deberá establecerse en las Bases de la licitación a que se convoque para la designación del OAP.
-
-> **Nota.** El artículo 1° de la Resolución 440 Exenta, Transportes, publicada el 20.02.2026, indica que las consultas que el SGP realice a la Proveedora Donante para efectos de validar la información necesaria para el proceso de portabilidad, señaladas en el presente artículo, deberán ser atendidas dentro del plazo de 30 segundos contados desde que el SGP realiza la consulta a la Proveedora Donante.
 
 #### Artículo 5°
 
@@ -190,7 +214,7 @@ Las eventuales responsabilidades por parte de las Proveedoras o el OAP, producto
 
 #### Artículo 6°
 
-Todo suscriptor o usuario que desee portar su número deberá requerir dicha facilidad a la Proveedora Receptora. Para este efecto, el Requirente deberá presentar su Cédula de Identidad e indicar a la Proveedora Receptora cuál es el o los números que requiere portar. Tratándose de personas jurídicas, deberá además acompañarse copia de la escritura o instrumento jurídico que, conforme a la naturaleza jurídica de la misma, dé cuenta de la personería de quien concurra solicitando la portabilidad en su nombre. En caso que la solicitud de portabilidad la efectúe una persona natural en representación de otra, bastará con que acompañe, junto a la copia de las Cédulas de Identidad respectivas, poder simple autorizándola a actuar en nombre del Requirente. Sin perjuicio de los documentos de identidad que acompañe el requirente o su representante, es responsabilidad de la Proveedora Receptora la adecuada verificación de su identidad.
+Todo suscriptor o usuario que desee portar su número deberá requerir dicha facilidad a la Proveedora Receptora. Para este efecto, el Requirente deberá presentar su Cédula de Identidad e indicar a la Proveedora Receptora cuál es el o los números que requiere portar. Tratándose de personas jurídicas, deberá además acompañarse copia de la escritura o instrumento jurídico que, conforme a la naturaleza jurídica de la misma, dé cuenta de la personería de quien concurra solicitando la portabilidad en su nombre. En caso que la solicitud de portabilidad la efectúe una persona natural en representación de otra, bastará con que acompañe, junto a la copia de las Cédulas de Identidad respectivas, poder simple autorizándola a actuar en nombre del Requirente.
 
 #### Artículo 7°
 
@@ -202,21 +226,21 @@ La Proveedora Receptora, antes de la activación de una solicitud de portabilida
 
 La Proveedora Receptora, antes de la activación de la solicitud de portabilidad a través del SGP, deberá constatar la condición de usuario de prepago del servicio público telefónico móvil o del mismo tipo declarada por el Requirente respecto de la Proveedora Donante, verificando a través del referido SGP que el o los números involucrados revisten tal carácter. Esta verificación se hará a través de los mecanismos informáticos disponibles del SGP.
 
-La Proveedora Receptora solicitará a través del SGP, el envío del CAP a el o los números respecto de los que se requiere la portabilidad. El código recibido deberá informarse por el Requirente a la Proveedora Receptora para que ésta lo incluya a través del SGP en la activación de la solicitud de portabilidad. El CAP tendrá una validez de 5 días corridos desde el momento de la solicitud de generación del mismo, vencido dicho plazo, el CAP caducará.
+Verificada la condición de prepago, la Proveedora Receptora solicitará a través del SGP, el envío del CAP a el o los números respecto de los que se requiere la portabilidad. El o los códigos recibidos, deberán informarse por el Requirente a la Proveedora Receptora para que ésta los incluya a través del SGP en la activación de la solicitud de portabilidad, con el objeto de poder iniciar el proceso. Si el Usuario por cualquier motivo no ingresara el CAP al proceso ya iniciado en el momento requerido, el CAP tendrá una validez de 24 horas desde el momento de la solicitud de generación del mismo y el usuario dentro de este periodo podrá continuar con el proceso. Vencido dicho plazo, el CAP caducará.
 
 #### Artículo 9°
 
 En el caso que el Requirente sea un Suscriptor de post pago del servicio público telefónico local, móvil o del mismo tipo, la Proveedora Receptora, deberá verificar –antes de la activación de la solicitud de portabilidad- la circunstancia de que el Requirente se encuentra "al Día" en el pago de su cuenta respecto de los números a portar. Para realizar esta constatación, la Proveedora Receptora realizará la consulta correspondiente a la Proveedora Donante a través del SGP, una vez recabada la autorización a que se refiere el inciso quinto del presente artículo.
 
-Cuando, producto de la consulta a la Proveedora Donante a través del SGP, aparezcan registrados Saldos Pendientes Facturados, se considerarán como válidamente pagados dichos saldos si el Requirente exhibe la correspondiente Cuenta 'al Día'. En este caso, la Proveedora Receptora deberá informar a la Proveedora Donante dicha circunstancia junto con la activación de la solicitud de portabilidad, enviada a través del SGP, dando cuenta del pago de tales saldos y el valor de éstos, y enviando en su oportunidad, el ejemplar o la copia digital de la cuenta, documento de cobro o comprobantes del pago correspondientes. En caso que, registrándose Saldos Pendientes Facturados, no se hayan exhibido los documentos acá señalados, no se dará curso a la portación.
+Cuando, producto de la consulta a la Proveedora Donante a través del SGP, aparezcan registrados Saldos Pendientes Facturados vencidos, se considerarán como válidamente pagados y no pendientes dichos saldos si el Requirente exhibe la correspondiente Cuenta "al Día". En este caso, la Proveedora Receptora deberá informar a la Proveedora Donante dicha circunstancia junto con la activación de la solicitud de portabilidad, enviada a través del SGP, dando cuenta del pago de tales saldos y el valor de éstos, y enviando en su oportunidad el ejemplar o la copia digital de la cuenta, documento de cobro o comprobantes del pago correspondientes. En caso que, registrándose Saldos Pendientes Facturados vencidos, no se haya exhibido la correspondiente Cuenta "al Día", no se dará curso a la portación.
 
-Sin perjuicio de lo anterior, las proveedoras involucradas podrán acordar mecanismos de recaudación, pago y/o novación de los Saldos Pendientes Facturados, de modo que la Proveedora Receptora pueda aceptar voluntariamente a un Requirente que no se encuentre "al Día" y activar la solicitud de portabilidad a través del SGP, en cuyo caso se entenderá que, de concretarse la correspondiente portación, será la Proveedora Receptora la que se hará cargo de los citados Saldos Pendientes Facturados, informando expresamente de ello tanto al Requirente como a la Proveedora Donante.
+Sin perjuicio de lo anterior, las proveedoras involucradas podrán acordar mecanismos de recaudación, pago y/o novación de los Saldos Pendientes Facturados vencidos, de modo que la Proveedora Receptora pueda aceptar voluntariamente a un Requirente que no se encuentre "al Día" y activar la solicitud de portabilidad a través del SGP, en cuyo caso se entenderá que, de concretarse la correspondiente portación, será la Proveedora Receptora la que se hará cargo de los citados Saldos Pendientes Facturados vencidos, informando expresamente de ello tanto al Requirente como a la Proveedora Donante.
 
-Cuando la Proveedora Receptora acepte hacerse cargo del Saldo Pendiente Facturado, deberá generarse, a través del SGP, una notificación que se remitirá a la Proveedora Donante al momento de activar la solicitud de portabilidad. Esta notificación deberá incluir el detalle del monto total aceptado, correspondiente a los Saldos Pendientes Facturados.
+Cuando la Proveedora Receptora acepte hacerse cargo del Saldo Pendiente Facturado vencido, deberá generarse, a través del SGP, una notificación que se remitirá a la Proveedora Donante al momento de activar la solicitud de portabilidad. Esta notificación deberá incluir el detalle del monto total aceptado, correspondiente a los Saldos Pendientes Facturados vencidos.
 
 Para efectos de lo previsto tanto en este artículo como en el anterior, al momento de requerir la portabilidad, el Requirente deberá autorizar a la Proveedora Receptora para que esta última solicite a la Proveedora Donante, a través del SGP y antes de la activación de la solicitud de portabilidad, aquella información que resulte estrictamente necesaria para realizar las verificaciones correspondientes que permitan activar la respectiva solicitud de portabilidad.
 
-Con todo, inmediatamente después del cierre diario de la TPD, el OAP efectuará una consulta a la Proveedora Donante, a través del SGP o a través de los sistemas que interoperen con éste, con el objeto de ratificar que el suscriptor cuya solicitud de portabilidad se haya activado durante el curso del día se encuentra efectivamente con su Cuenta "al Día". Si el Suscriptor de postpago no se encuentra con su Cuenta "al Día", el OAP deberá verificar en el SGP si la Proveedora Receptora ha declarado su conformidad en hacerse cargo de los Saldos Pendientes Facturados con sujeción al acuerdo de pago, compensación y/o novación a que se refiere el inciso tercero del presente artículo, o bien ha registrado que verificó la existencia de un comprobante de pago con los saldos solucionados e ingresó el documento correspondiente al sistema, en cuyos casos dará curso normal a la respectiva activación de la solicitud de portabilidad. De lo contrario, tales números no podrán ser objeto de portación, informando dicha circunstancia inmediatamente, a través del SGP, a la Proveedora Receptora, la que a su vez lo comunicará al Requirente. Aquellos números cuyos registros no resulten consistentes, serán eliminados de la TPD antes de la generación de la TEP.
+Con todo, inmediatamente después del cierre diario de la TPD, el OAP efectuará una consulta a la Proveedora Donante, a través del SGP o a través de los sistemas que interoperen con éste, con el objeto de ratificar que el suscriptor cuya solicitud de portabilidad se haya activado durante el curso del día se encuentra efectivamente con su Cuenta "al Día". Si el Suscriptor no se encuentra con su Cuenta "al Día", el OAP deberá verificar en el SGP si la Proveedora Receptora ha declarado su conformidad en hacerse cargo de los Saldos Pendientes Facturados vencidos con sujeción al acuerdo de pago, compensación y/o novación a que se refiere el inciso tercero del presente artículo, o bien ha registrado que verificó la existencia de un comprobante de pago con los saldos solucionados e ingresó el documento correspondiente al sistema, en cuyos casos dará curso normal a la respectiva activación de la solicitud de portabilidad. De lo contrario, tales números no podrán ser objeto de portación, informando dicha circunstancia inmediatamente, a través del SGP, a la Proveedora Receptora, la que a su vez lo comunicará al Requirente. Aquellos números cuyos registros no resulten consistentes, serán eliminados de la TPD antes de la generación de la TEP.
 
 #### Artículo 10°
 
@@ -268,7 +292,7 @@ portación.
 
 Proveedora Receptora de Saldos Pendientes
 
-Facturados de la Proveedora
+Facturados vencidos de la Proveedora
 
 Donante, en el caso de que dicha
 
@@ -280,7 +304,7 @@ Proveedora haya aceptado hacerse cargo de
 
 Proveedora Donante de Saldos Pendientes
 
-Facturados o de la Proveedora
+Facturados no vencidos o de la Proveedora
 
 Receptora cuando, de conformidad a lo
 
@@ -368,7 +392,7 @@ Toda la información antes señalada deberá quedar consignada en la respectiva 
 
 #### Artículo 12°
 
-En aquellos casos en que el Suscriptor de una concesionaria de servicio público telefónico local, requiera cambiarse a otra ubicación dentro de la red de la misma concesionaria, manteniendo su(s) número(s) telefónico(s), esta última procederá a ejecutar el cambio solicitado, manteniendo el número, en un plazo que no deberá ser superior al ofrecido a los requirentes que provienen de otra concesionaria.
+En aquellos casos en que el Suscriptor de una concesionaria de servicio público telefónico local, requiera cambiarse a otra ubicación al interior de una zona primaria, o en definiciones geográficas distintas a las actualmente existentes siempre que la normativa vigente así lo permita, dentro de la red de la misma concesionaria, manteniendo su(s) número(s) telefónico(s), esta última procederá a ejecutar el cambio solicitado, manteniendo el número, en un plazo que no deberá ser superior al ofrecido a los requirentes que provienen de otra concesionaria.
 
 #### Artículo 13°
 
@@ -384,7 +408,7 @@ b) La circunstancia que el RUT del Requirente esté asociado a servicios de dive
 
 También deberá informar al Requirente cuáles son las medidas que, en tales casos, éste debe adoptar para que sea posible dar curso definitivo al Proceso de Portabilidad.
 
-En los casos en que la Proveedora Receptora, habiendo ya dado inicio al Proceso de Portabilidad y durante el desarrollo del mismo, advierta que se encuentra imposibilitada para proveer el servicio que corresponda, dentro de los plazos establecidos para tal efecto, será de su responsabilidad y a su costo reponer al Suscriptor o Usuario a la situación anterior a la respectiva solicitud, sin perjuicio de las acciones que a éste le asistan por los eventuales perjuicios provocados con ello. En los casos en que el Proceso de Portabilidad ya se hubiera completado y la Proveedora Receptora detecte situaciones que afecten al suscriptor o usuario no imputables a estos últimos, ya sea relacionadas con el proceso de portabilidad o con las condiciones de prestación del servicio, aquélla gestionará con la Proveedora Donante la anulación de la portabilidad a solicitud del suscriptor o usuario, o informando de ello, según sea el caso. El SGP realizará la anulación una vez obtenida la conformidad de ambas proveedoras. Será responsabilidad de la Proveedora Receptora y de la Proveedora Donante restituir al suscriptor o usuario a las mismas condiciones técnicas y comerciales previas a la portabilidad.
+En los casos en que la Proveedora Receptora, habiendo ya dado inicio al Proceso de Portabilidad y durante el desarrollo del mismo, advierta que se encuentra imposibilitada para proveer el servicio que corresponda, dentro de los plazos establecidos para tal efecto, será de su responsabilidad y a su costo reponer al Suscriptor o Usuario a la situación anterior a la respectiva solicitud, sin perjuicio de las acciones que a éste le asistan por los eventuales perjuicios provocados con ello.
 
 #### Artículo 14°
 
@@ -462,7 +486,7 @@ Reglamento.
 
 Los documentos que se requiera reproducir y/o digitalizar para efectos del Proceso de Portabilidad, podrán acompañarse a la respectiva activación de la solicitud de portabilidad inmediatamente o dentro de un plazo no superior a 5 días corridos a contar de dicha activación, desde la Proveedora Receptora a la Proveedora Donante, a través del SGP.
 
-En los formularios o modelos de solicitudes de portabilidad de que disponga la Proveedora Receptora y que sean remitidos a la Proveedora Donante en su oportunidad, deberá constar de manera indubitada que el Requirente ha autorizado la realización de las consultas a que se refiere el presente artículo y que conciernen a datos personales suyos en poder de la Proveedora Donante. De lo contrario, la Proveedora Receptora será responsable de conformidad a la normativa de la especie. Para asegurar que se ha realizado la verificación de identidad del Requirente o de su Representante de ser el caso, la Proveedora Receptora deberá incluir en el SGP información que dé cuenta de las verificaciones de identidad que se hayan realizado por otros medios. Sin embargo, esto no exime de las obligaciones descritas en el presente artículo.
+En los formularios o modelos de solicitudes de portabilidad de que disponga la Proveedora Receptora y que sean remitidos a la Proveedora Donante en su oportunidad, deberá constar de manera indubitada que el Requirente ha autorizado la realización de las consultas a que se refiere el presente artículo y que conciernen a datos personales suyos en poder de la Proveedora Donante. De lo contrario, la Proveedora Receptora será responsable de conformidad a la normativa de la especie.
 
 #### Artículo 15°
 
@@ -476,37 +500,33 @@ La Proveedora Receptora activará los servicios derivados del contrato de sumini
 
 Las Proveedoras Donante y Receptora podrán acordar mecanismos de recaudación, pago y/o novación por parte de la Proveedora Receptora de los Saldos Pendientes no Facturados que tuviera el Requirente con la Proveedora Donante, los que la Proveedora Receptora incluirá en su Cuenta Única o documento de cobro correspondiente.
 
-La misma medida anterior podrá acordarse respecto de los Saldos Pendientes Facturados
+La misma medida anterior podrá acordarse respecto de los Saldos Pendientes Facturados no vencidos.
 
 #### Artículo 18°
 
-Los Saldos Pendientes Facturados y no Facturados sólo podrán referirse a los cargos correspondientes a los ítems 1 a 4 y 8 de las letras A) y B) del número 2.2. del artículo 2° del Reglamento de la Cuenta Única Telefónica, sea que el documento de cobro respectivo corresponda a la Cuenta Única Telefónica o sea que aquél corresponda a un documento diverso.
+Los Saldos Pendientes Facturados vencidos, los no vencidos y no Facturados sólo podrán referirse a los cargos correspondientes a los ítems 1 a 4 y 8 de las letras A) y B) del número 2.2. del artículo 2° del Reglamento de la Cuenta Única Telefónica, sea que el documento de cobro respectivo corresponda a la Cuenta Única Telefónica o sea que aquél corresponda a un documento diverso.
 
 ## Título IV — - De las Prohibiciones, Restricciones y Otros Aspectos Procedimentales
 
 #### Artículo 19°
 
-Con motivo del proceso de portabilidad, la Proveedora Donante y Receptora deberán ajustarse a las siguientes restricciones y obligaciones:
+Con motivo del proceso de portabilidad, la Proveedora Donante y Receptora deberán ajustarse a las siguientes restricciones:
 
 a) Los acuerdos relativos a los equipos terminales no podrán, en caso alguno, considerar su bloqueo o utilizar configuraciones técnicas que restrinjan su uso sólo a la red de la concesionaria que presta el servicio de la especie, en conformidad a la normativa técnica que la Subsecretaría de Telecomunicaciones dictará al efecto. Los mencionados acuerdos podrán suscribirse en la medida que concurra el consentimiento expreso y específico de los usuarios o suscriptores, y no podrán establecer condiciones que limiten la portación del número fuera de los casos previstos en la ley y el presente reglamento.
 
 b) La Proveedora Donante no podrá realizar ninguna gestión operativa o comercial que tenga por objeto la retención de un suscriptor o usuario, una vez iniciadas las acciones previas a la activación de una solicitud de portabilidad de acuerdo al artículo 8 y hasta la hora de cierre diario de la TPD según lo dispuesto en el artículo 15º del presente Reglamento.
 
-c) Las Proveedoras deberán incorporar en sus sitios web facilidades conducentes a favorecer la portabilidad, así como el término de los contratos respectivos.
-
 #### Artículo 20°
 
-Una vez activada una solicitud de portabilidad a través del SGP, no podrá iniciarse otro proceso para el mismo número dentro de los siguientes 120 días corridos. Para estos efectos, la Proveedora Receptora deberá verificar, a través del SGP y antes de la activación, la condición antes descrita. Esta restricción no aplica al caso de anulación de portabilidad al que se refiere el artículo 13.
+Una vez activada una solicitud de portabilidad a través del SGP, no podrá iniciarse otro proceso para el mismo número dentro de los siguientes 60 días corridos. Para estos efectos, la Proveedora Receptora deberá verificar, a través del SGP y antes de la activación, la condición antes descrita.
 
 #### Artículo 21°
 
-Sin perjuicio de lo establecido en el Artículo 13°, letra b), la portabilidad numérica se realizará sin restricciones, salvo las indicadas en el inciso siguiente, con independencia de la cantidad de números incluidos en la solicitud respectiva.
-
-Los suscriptores que contratan, sin haber mediado una portación previa, un servicio telefónico móvil con una determinada concesionaria respecto de un número determinado, podrán portar éste, a partir del día siguiente del vencimiento de la primera Cuenta Única Telefónica o documento de cobro. Asimismo, en el caso de los usuarios en modalidad de prepago, cuando no haya mediado portación, éstos no podrán portar su número dentro de un plazo de 30 días corridos contados a partir de la fecha de activación del equipo con su respectivo número en la red.
+Sin perjuicio de lo establecido en el Artículo 13°, letra b), la portabilidad numérica se realizará sin restricciones, con independencia de la cantidad de números incluidos en la solicitud respectiva.
 
 #### Artículo 22°
 
-Tratándose de aquellos cargos de larga distancia no facturados correspondientes al servicio telefónico de larga distancia internacional o cargos no facturados correspondientes a servicios complementarios y en caso que el portador o suministrador de servicios complementarios no tenga contratada la facilidad que permita su cobro a través de la Cuenta Única Telefónica con la Proveedora Receptora, aquéllos podrán contratar las facilidades que correspondan para permitir la inclusión de tales cargos en la Cuenta Única Telefónica correspondiente al siguiente o siguientes ciclo(s) de facturación, o bien efectuar su cobro directamente al Requirente.
+Tratándose de aquellos cargos de larga distancia no facturados correspondientes al servicio telefónico de larga distancia nacional o internacional o cargos no facturados correspondientes a servicios complementarios y en caso que el portador o suministrador de servicios complementarios no tenga contratada la facilidad que permita su cobro a través de la Cuenta Única Telefónica con la Proveedora Receptora, de conformidad al artículo 24° bis de la Ley aquéllos podrán contratar las facilidades que correspondan para permitir la inclusión de tales cargos en la Cuenta Única Telefónica correspondiente al siguiente o siguientes ciclo(s) de facturación, de acuerdo a lo previsto en el artículo 52° del Reglamento del Servicio Público Telefónico o bien efectuar su cobro directamente al Requirente.
 
 #### Artículo 23°
 
@@ -531,10 +551,6 @@ En el caso de los mensajes enviados desde el exterior, las Proveedoras Receptora
 #### Artículo 27°
 
 Cuando se solicite por el Suscriptor o Usuario del servicio público telefónico local, móvil o del mismo tipo el término del respectivo servicio o cuando dicho servicio termine por causas legales o normativas, y para efectos del tratamiento de el o los números portados en su oportunidad, la concesionaria que presta el servicio, iniciará los procesos de término del servicio respectivo que haya diseñado al efecto. Una vez concluidos dichos procesos, la Proveedora Receptora podrá ofrecer nuevamente el servicio correspondiente usando dichos números.
-
-#### Artículo 28
-
-Sin perjuicio de las obligaciones aquí establecidas, tanto las Proveedoras como el OAP, según establezcan las correspondientes bases de licitación en este caso, están obligados al cumplimiento de toda aquella normativa sectorial y extrasectorial concerniente a la seguridad de la información derivada de los procesos de portabilidad que obre en su poder, así también a adoptar las medidas de seguridad ante incidentes que puedan afectar las redes y sistemas involucrados.
 
 ## Título V — - Disposiciones Transitorias
 
