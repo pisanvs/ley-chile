@@ -20,6 +20,8 @@ Resolución:
 
 > **Nota.** El numeral 2 de la Resolución 1024 Exenta, Vivienda, publicada el 23.02.2013, modifica la presente norma, en el sentido de asignar directamente un subsidio adicional a cada una de las familias que integran los proyectos "FSV Comité Habitacional Villa Los Castaños" y "Villa Los Castaños 2" de la comuna de Tucapel, Región del Biobío, según los montos que se indican en la tabla contenida en la citada norma.
 
+> **Nota.** NOTA 1 El numeral 2 letra a) de la Resolución 1872 Exenta, Vivienda, publicada el 28.03.2013, modifica la presente norma, en el sentido de reemplazar en el Resuelvo 1 el guarismo "160.316" por "123.590.". Sin embargo, tal guarismo ya fue reemplazado con anterioridad.
+
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
