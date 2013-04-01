@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº301, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote Nº20, superficie 10.000 m2, rol Nº1162-76, Comuna de Ancud, para la obra "CONSTRUCCIÓN PUENTE SOBRE EL CANAL CHACAO Y ACCESOS" PROVINCIA DE CHILOÉ, REGION DE LOS LAGOS. La Comisión de Peritos integrada por Sonia Catalina Gallegos Blanch, Normán Estanislao Calderón Pontiggia y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 17 de octubre de 2012, acordándose la indemnización con su propietaria JUAN AMADO ALMONACID CÁRDENAS, en la cantidad de $44.834.059.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
