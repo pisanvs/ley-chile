@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº316, de fecha 28 de febrero de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropiaron el lote de terreno Nº2, superficie 3.898 m2, Rol Nº313-170, Comuna de Melipeuco, para la obra "PROYECTO DEFINITIVO PUENTE MEDINA, CAMINO VILLA GARCIA - CURACALCO, SECTOR KM. 0,00000 A KM. 0,66862", PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANÍA. La Comisión de Peritos integrada por María Soledad Núñez Arroyo, Patricio Fernando Casagrande Ulloa y Evaldo Roberto Contreras Roa, fijó el valor de tasación con fecha 14 de marzo de 2011, acordándose la indemnización con sus propietarios IRENE DEL CARMEN IBAÑEZ Y OTROS, en la cantidad de $5.248.912.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
