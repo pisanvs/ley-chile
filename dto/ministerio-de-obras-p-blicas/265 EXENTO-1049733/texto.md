@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº265, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº46, superficie 1.437 M2, rol Nº233-29, Comuna de Purén, para la obra "MEJORAMIENTO RUTA R-42, SECTOR PURÉN - LUMACO, KM. 1,80000 AL KM. 9,32000, COMUNAS DE PURÉN Y LUMACO, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La Comisión de Peritos integrada por Enedina del Carmen Cid Ramírez, Paula Andrea Lagos Carrasco y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 16 de mayo de 2011, acordándose la indemnización con su propietario CARLOS SAMUEL AGUILERA RIVAS, en la cantidad de $3.058.891.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
