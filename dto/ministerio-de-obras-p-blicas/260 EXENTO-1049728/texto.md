@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº260, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote Nº73, superficie 675 m2, rol Nº2116-126, Comuna de Puerto Montt, para la obra "MEJORAMIENTO RUTA V-815, TRAMO BIF. ILQUE - CRUCE RUTA V-85", PROVINCIA DE LLANQUIHUE, X REGION DE LOS LAGOS. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 05 de febrero de 2012, acordándose la indemnización con su propietario ANTONIO LEONEL ASENCIO OLAVARRÍA, en la cantidad de $2.437.943.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
