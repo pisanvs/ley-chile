@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº314, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº37, superficie 625 m2, rol Nº2320-13, Comuna de Temuco, para la obra "MEJORAMIENTO PASADAS URBANAS RUTA S-30-40 TEMUCO - CARAHUE, TRAMO LABRANZA, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA". La Comisión de Peritos integrada por Enrique Augusto Vallete de la Harpe, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo fijó el valor de tasación con fecha 20 de julio de 2011, acordándose la indemnización con su propietaria MARIELA DEL PILAR HERNÁNDEZ ILLANES, en la cantidad de $45.269.164.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
