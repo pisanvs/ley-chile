@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº294, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº23, superficie 301 m2., Rol Nº901-06, Comuna de Alto del Carmen, para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO - JUNTA DE VALERIANO, ETAPA II, (MALAGUÍN- LAS LOSAS)", PROVINCIA DE HUASCO, REGIÓN DE ATACAMA. La comisión de peritos, integrada por NORMAN CALDERÓN PONTIGGIA, CLAUDIO CONCHA GROSSI y PATRICIO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 25 de julio de 2011, acordándose la indemnización con su propietario MARTÍN RICARDO GAYTAN ARCOS, en la cantidad de $694.892.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
