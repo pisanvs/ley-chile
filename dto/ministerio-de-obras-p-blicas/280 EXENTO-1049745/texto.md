@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº280, de fecha 28 de febrero de 2013, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes N°s. 10-E, 10-F y 10-G, superficies 316, 332 y 169 m2., Rol de Avalúo Nº38-408, Comuna de Lolol, para la obra "MEJORAMIENTO RUTA I-70-J, SECTOR LOLOL - RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878", PROVINCIA DE COLCHAGUA, VI REGIÓN. La comisión de peritos, integrada por Manuel Díaz Farfan, Patricio Casagrande Ulloa y Orlando Fariña Vásquez, fijó el valor de tasación con fecha 20 de enero de 2010, acordándose la indemnización con su propietario JAIME HUMBERTO BECERRA URZÚA, en la cantidad de $1.210.394, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
