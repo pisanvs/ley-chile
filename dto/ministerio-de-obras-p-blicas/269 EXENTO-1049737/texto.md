@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº269, de 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº4, superficie 298 m2, Rol de Avalúo Nº161-89, Comuna de Arauco, para la obra "REPOSICIÓN PUENTE CONUMO Y ACCESOS EN RUTA P-24, PROVINCIA DE ARAUCO", REGIÓN DEL BIOBÍO. La comisión de peritos integrada por Roxana Cecilia Abarzúa Gajardo, Consuelo Loreto Zuloaga Sanhueza y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 14 de febrero de 2012, acordándose la indemnización con sus propietarios DANIELA BELÉN CRUZ VALENZUELA Y OTROS, en la cantidad de $10.904.668.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
