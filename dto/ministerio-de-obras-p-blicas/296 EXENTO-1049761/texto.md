@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº296, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº24, superficie 963 m2., Rol Nº109-81, Comuna El Carmen, para la obra "MEJORAMIENTO RUTA N-77, EL CARMEN - TREHUALEMU - LOS CASTAÑOS", PROVINCIA DE ÑUBLE, REGIÓN DE BIOBÍO. La comisión de peritos, integrada por Roxana Cecilia Abarzúa Gajardo, Adriana Katherina Fasce Casanueva y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 28 de marzo de 2012, acordándose la indemnización con su propietario LUIS FEDERICO SAN MARTÍN MONSALVE, en la cantidad de $2.161.690.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
