@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº270, de 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº5, superficie 374 m2, rol Nº203-57, Comuna de Hualqui, para la obra "REPOSICIÓN INFRAESTRUCTURA VIAL RUTA O-60 CHIGUAYANTE - HUALQUI PROVINCIA DE CONCEPCIÓN", REGIÓN DEL BIOBÍO. La comisión de peritos integrada por María Pamela Mac-Guire Acevedo, Roxana Cecilia Abarzúa Gajardo y Consuelo Loreto Zuloaga Sanhueza, fijó el valor de tasación con fecha 01 de diciembre de 2011, acordándose la indemnización con su propietario JUAN ROBERTO MORENO RIFFO, en la cantidad de $10.499.042.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
