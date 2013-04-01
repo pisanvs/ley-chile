@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº330, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote Nº125, superficie 540 m2, rol Nº181-39, Comuna de Calbuco, para la obra "MEJORAMIENTO RUTA V-815, TRAMO BIF. ILQUE - CRUCE RUTA V-85", PROVINCIA DE LLANQUIHUE, X REGION DE LOS LAGOS. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 26 de marzo de 2012, acordándose la indemnización con su propietaria JUAN ABEL MANSILLA MANSILLA, en la cantidad de $811.735.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
