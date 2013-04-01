@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº311, de fecha 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº38, superficie 1.188 m2., rol Nº421-57, Comuna de Illapel para la obra "REPOSICIÓN PAVIMENTO RUTA D-81, ILLAPEL -SALAMANCA, IV REGIÓN", PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO. La comisión de peritos integrada por José Antonio Valdés Herreros, Pablo Flores Salinas y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 29 de febrero de 2012, acordándose la indemnización con su propietario ESMERILDO DEL CARMEN GALLARDO LIBERON, en la cantidad de $1.643.666.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
