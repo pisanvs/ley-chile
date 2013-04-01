@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº321, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nos. 14 y 16, superficies 2.082 y 354 m2., Rol Nº210-73, Comuna de Lebu, para la obra "MEJORAMIENTO RUTA P-40, SECTOR QUIAPO - MILLONHUE, PROV. DE ARAUCO", REGIÓN DE BÍOBÍO. La comisión de peritos, integrada por Roxana Cecilia Abarzúa Gajardo, Adriana Katherina Fasce Casanueva y Valeska Carolina Ale Goñi, fijó el valor de tasación con fecha 09 de enero de 2012, acordándose la indemnización con su propietario LUIS HERIBERTO FIERRO VEGA, en la cantidad de $2.631.957.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
