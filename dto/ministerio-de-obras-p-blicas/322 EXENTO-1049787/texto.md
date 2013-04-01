@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº322, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº181 superficie 686 m2., Rol de avalúo 3912-2, Comuna de Quilpué para la obra, "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", PROVINCIA Y REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por Patricio Casagrande Ulloa, Claudio Bresky Layera y Andrés Echeverría Campo, fijó el valor de la tasación con fecha 9 de septiembre de 2009, acordándose la indemnización con su propietario GONZALO ANDRÉS MILLAN LABBE, en la cantidad de $3.451.455.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
