@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº271, de 28 de febrero de 2013, de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº6, superficie 695 m2, Rol de Avalúo Nº203-138, Comuna de Hualqui, para la obra "REPOSICIÓN INFRAESTRUCTURA VIAL RUTA O-60 CHIGUAYANTE - HUALQUI PROVINCIA DE CONCEPCIÓN", REGIÓN DEL BIOBÍO. La comisión de peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Juan Tepper Lavanderos, fijó el valor de tasación con fecha 01 de diciembre de 2011, acordándose la indemnización con su propietario MARIO ESTEBAN AGUAYO ARAYA, en la cantidad de $15.469.850.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
