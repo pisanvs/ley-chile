@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº273, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s. 225 226, superficies 406 y 33 m2., Rol de avalúo 3455-4, Comuna de Quilpué, para la obra, "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", PROVINCIA Y REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por Juan Pablo Navarro Rachow, Antonio Díaz Rozas y Claudia Arellano Gómez, fijó el valor de la tasación con fecha 19 de marzo de 2011, acordándose la indemnización con su propietario MARIANO GERMÁN GUTIÉRREZ GATO, en la cantidad de $25.216.542.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
