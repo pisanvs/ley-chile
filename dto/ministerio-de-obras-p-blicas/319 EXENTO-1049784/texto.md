@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº319, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote Nº128, superficie 1.081 m2., Rol de Avalúo Nº161-113, Comuna de Hualañé, para la obra "CAMINO MEJORAMIENTO RUTA J-70-I, SECTOR CRUCE RUTA J-60 (PARRONAL) - LÍMITE REGIONAL, TRAMO KM. 0,00000 A KM.20,07555, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos, integrada por Roberto Wilibaldo Herrera Leytón, Juan Eduardo Salazar León y Andrea Paola Yáñez Campos, fijó el valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietaria EUGENIA DEL CARMEN SILVA GONZÁLEZ, en la cantidad de $6.689.467.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
