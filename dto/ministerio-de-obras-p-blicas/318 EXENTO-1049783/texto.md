@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº318, de 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno N°7-A, superficie 25 m2, Rol de Avalúo Nº1246-108, Comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", PROVINCIA Y REGIÓN DE BIOBÍO. La comisión de peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Juan Tepper Lavanderos, fijó el valor de tasación con fecha 27 de agosto de 2012, acordándose la indemnización con su propietario SERGIO IVÁN VERA SANHUEZA, en la cantidad de $188.497: suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
