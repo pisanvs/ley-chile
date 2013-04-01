@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº287, de fecha 28 de febrero de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº19-C, superficie 9.794 m2, rol Nº202-182, Comuna de Chaitén, para la obra "CONSTRUCCIÓN CAMINO SANTA BÁRBARA- RÍO CAMAHUETO - CHANA, TRAMO KM. 0,01000 A KM. 15,51280", PROVINCIA DE PALENA, X REGIÓN. La Comisión de Peritos integrada por Juan Celestino Giovannini Mansilla, Carlos Eugenio Mera Santibáñez y Leopoldo Ramón Schumacher Guarda, fijó el valor de tasación con fecha 30 de septiembre de 2011, acordándose la indemnización con su propietario JOSÉ ALFONSO MAYORGA MAYORGA, en la cantidad de $2.349.709.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
