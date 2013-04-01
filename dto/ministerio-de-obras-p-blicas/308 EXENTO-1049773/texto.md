@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº308, de fecha 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº123, superficie 64 m2., rol Nº249-191, Comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA - QUELÉN BAJO", PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO. La comisión de peritos integrada por Víctor Vargas Reyes, Elisa Tapia Fernández y Juan Ibañez Palma, fijó el valor de tasación con fecha 05 de junio de 2011, acordándose la indemnización con su propietario JUAN MANUEL HERNÁNDEZ GÓMEZ, en la cantidad de $1.049.227.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
