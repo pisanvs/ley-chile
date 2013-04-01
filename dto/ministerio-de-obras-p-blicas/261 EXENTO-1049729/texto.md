@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº261, de fecha 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropiaron los lotes de terreno N°s. 55 y 58-A, superficies 1.796 y 9.332 m2., rol Nº252-9, Comuna de Salamanca, para la obra "REPOSICIÓN PAVIMENTO RUTA D-81, ILLAPEL - SALAMANCA, IV REGIÓN", PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO. La comisión de peritos integrada por José Antonio Valdés Herreros, Pablo Flores Salinas y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 29 de febrero y 24 de septiembre, ambas de 2012, acordándose la indemnización con su propietario JUAN LUIS DE LA JARA BARTHOLOMAUS, en la cantidad de $26.294.325.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
