@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.486, de fecha 15 de febrero de 2013, se publicó el extracto del Decreto Exento MOP Nº221, de 06 de febrero de 2013, con el error que salva a continuación: donde dice ".....el valor provisional de la indemnización en la cantidad de $1.55.707.000.- para el lote Nº89L3.-", debe decir, ".....el valor provisional de la indemnización en la cantidad de $155.707.000.- para el lote Nº89L3".
+
+Fiscal del Ministerio de Obras Públicas.
