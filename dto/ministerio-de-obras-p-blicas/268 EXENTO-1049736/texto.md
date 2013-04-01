@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº268, de fecha 28 de febrero de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropiaron los lotes de terreno N°s. 105 y 107, superficies 149 y 1.314 m2., rol Nº249-53, Comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA - QUELÉN BAJO", PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO. La comisión de peritos integrada por Víctor Vargas Reyes, Elisa Tapia Fernández y Juan Ibañez Palma, fijó el valor de tasación con fecha 05 de junio de 2011, acordándose la indemnización con sus propietarios ALFREDO LUIS POOLEY LISCOMBE Y OTRA, en la cantidad de $1.866.542.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
