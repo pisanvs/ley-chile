@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº283, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº8, superficie 114 m2., Rol Nº116-1, Comuna de San Pablo, para la obra "MEJORAMIENTO RUTA U-16, SECTOR BIF. QUILACAHUÍN - PUENTE MOMBERG, TRAMO KM. 12,50000 A KM. 22,30800", PROVINCIA DE OSORNO, X REGIÓN DE LOS LAGOS. La comisión de peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 6 de octubre de 2010, acordándose la indemnización con su propietario MANUEL ARISTIDES SEGUNDO CISTERNAS FIERRO, en la cantidad de $419.026.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
