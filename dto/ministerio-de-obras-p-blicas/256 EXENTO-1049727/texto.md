@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº256, de 20 de febrero de 2013, se dejó sin efecto los Decretos Exentos MOP N°s 2367 y 2366, de 23 de octubre de 2012, Nº2425 de 25 de octubre de 2012, N°s 2373, 2372, 2371, 2370 y 2368, de 23 de octubre de 2012, N°s 2426 y 2424 de 25 de octubre de 2012, N°s 2374, 2363, 2364, 2365 y 2369, de 23 de octubre de 2012, y N°s 2423 y 2427, de 25 de octubre de 2012, que ordenaban la expropiación de los lotes de terreno N°s 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 y 17, respectivamente, para la obra "Concesión Autopista Concepción Cabrero. Sector A 2: Cabrero Poniente - El Pino. Km 7.000,00 a Km. 58.000,00. Enlace Retorno Nº2".
+
+Fiscal del Ministerio de Obras Públicas.
