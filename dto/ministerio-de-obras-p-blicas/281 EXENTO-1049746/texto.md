@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº281, de 28 de febrero de 2013, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropiaron los lotes N°s. 61, 62 y 63, superficies 1.139, 33 y 43 m2, rol Nº2115-134, Comuna de Puerto Montt, para la obra "MEJORAMIENTO RUTA V-815, TRAMO BIF. ILQUE - CRUCE RUTA V-85", PROVINCIA DE LLANQUIHUE, X REGION DE LOS LAGOS. La Comisión de Peritos integrada por Nelson Bernardo Tuna Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 05 de diciembre de 2011, acordándose la indemnización con su propietario HUGO PASCUAL MANSILLA HERNÁNDEZ, en la cantidad de $3.709.764.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
