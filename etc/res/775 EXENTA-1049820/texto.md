@@ -1,0 +1,3 @@
+Por resolución exenta Nº 775, de 22 de marzo de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 211012001, 208106060, 210110018, 210122008, 21203005, señaladas en la resolución extractada y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de marzo de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
