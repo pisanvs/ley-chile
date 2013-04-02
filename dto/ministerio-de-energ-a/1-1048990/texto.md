@@ -276,8 +276,6 @@ Para la determinación de los montos afectos a reliquidación a que hace referen
 
 Los cálculos que realicen la DP y la Comisión en la aplicación de las reliquidaciones que correspondan de acuerdo a este número 4, deberán incluir el cálculo de los intereses y reajustes que procedan.
 
-> **Nota.** El Artículo Decimocuarto del Decreto 2T, Energía, publicado el 06.10.2014, modifica la presente norma en el sentido de actualizar la estructura tarifaria y los valores indicados, de acuerdo con la tabla contenida en el señalado artículo.
-
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Sergio del Campo Fayet, Ministro de Energía (S).
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
