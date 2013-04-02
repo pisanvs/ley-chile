@@ -1,0 +1,3 @@
+Por resolución exenta Nº 763, de 21 de marzo de 2013, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 1.859, de 2011, que autorizó a PESCA CHILE S.A., para ampliar actividades pesqueras extractivas con la nave "Puerto Williams", respecto del recurso hidrobiológico Jibia en el área marítima comprendida entre los paralelos 47° L.S. y 57° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 21 de marzo de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
