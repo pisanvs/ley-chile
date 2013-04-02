@@ -150,4 +150,6 @@ PP-TZ-003, estará determinada por la normativa de los programas oficiales del S
 
 24. Derógase la resolución exenta Nº 4.578 de 2012, de la Dirección Nacional del Servicio Agrícola y Ganadero.
 
+25. Todos los bovinos y bubalinos que se trasladen en el territorio nacional, deberán estar identificados con el Dispositivo de Identificación Individual Oficial (DIIO), el cual deberá estar previamente registrado en el sistema de información pecuaria del SAG, SIPECweb.
+
 Anótese, comuníquese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
