@@ -1,0 +1,3 @@
+Por resolución exenta Nº 766, de 21 de marzo de 2013, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.315, de 2011, sólo en cuanto autorizó a PESQUERA BÍO BÍO S.A., para ampliar actividades pesqueras extractivas con la nave en construcción "BEC 2563-07", respecto del recurso hidrobiológico Jibia en el área marítima comprendida entre la IV a IX Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 21 de marzo de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
