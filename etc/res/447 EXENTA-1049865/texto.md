@@ -1,0 +1,5 @@
+ACREDITA A "INDUPAN SERVICIOS LIMITADA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 447, de 14 de diciembre de 2012 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a "Indupan Servicios Limitada", RUT Nº 79.998.040-1, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Industria del Pan, según el siguiente detalle: en el Subsector Productos Alimenticios, en los perfiles ocupacionales de ayudante pastelero, maestro panificador, maestro pastelero, panificador y vendedor al mesón; en el Subsector Operación, en los perfiles ocupacionales de cajero de panadería/pastelería y repartidor. La acreditación se otorga por un plazo de tres años contados desde el 14 de diciembre de 2012, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
