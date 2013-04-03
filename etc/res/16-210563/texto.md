@@ -1586,8 +1586,6 @@ Las normas urbanísticas que aplicarán en esta zona cuando se cumpla con los re
 
 .
 
-> **Nota.** El numeral 2 del decreto 1489, M. de Villarica, publicado el 23.11.2018, rectifica la densidad bruta máxima introducida en el último inciso del presente artículo , en el sentido que para las Zonas ZE-5 y ZE-6 será aquella que regía hasta antes de su dictación y publicación en el Diario Oficial, esto es aquella general establecida en el Plan Regulador Comunal de Villarrica, publicado en el Diario Oficial de fecha 11 de junio de 1992 y sus modificaciones posteriores, excluida la modificación que por este acto administrativo se dejó sin efecto.
-
 CAPITULO V: VIALIDAD
 
 #### Artículo 24
