@@ -1,0 +1,5 @@
+ACREDITA A "ASOCIACIÓN DE EMPRESAS ELÉCTRICAS A.G." COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 446, de 14 de diciembre de 2012 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a "Asociación de Empresas Eléctricas A.G.", RUT Nº 70.022.920-3, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Gas/Electricidad, según el siguiente detalle: en el Subsector Mantenimiento Aéreo liviano, en los perfiles ocupacionales de ayudante liniero, encargado de brigada aérea liviana BT y maestro liniero; en el Subsector Medidas Eléctricas, en los perfiles ocupacionales de ayudante conductor, encargado medidas eléctricas y maestro de medidas eléctricas. La acreditación se otorga por un plazo de tres años contados desde el 14 de diciembre de 2012, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
