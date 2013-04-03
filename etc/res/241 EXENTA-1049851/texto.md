@@ -1,0 +1,5 @@
+Por resolución exenta Nº 241, de fecha 20 de febrero de 2013, de este Servicio, y conforme lo resuelto en las resoluciones exentas Nº 2.601, de 3 de octubre de 2012, y Nº 41, de 9 de enero de 2013, ambas de la Subsecretaría de Pesca y Acuicultura, en relación a la letra d) del inciso primero del artículo 1º de la ley Nº 20.560, se ordena la rectificación de las resoluciones exentas Nº 1.536, de 31 de agosto, y Nº 3.006, de 17 de diciembre, ambas de 2012 y de este origen, en el sentido de incorporar en la nómina de armadores artesanales y sus embarcaciones, correspondientes a las regiones VII, VIII y X, a quienes se agrega el recurso Reineta (Brama australis), con espinel y enmalle, las embarcaciones que allí individualiza, ordenando asimismo la modificación del Registro Pesquero Artesanal respecto de dichas inscripciones.
+
+El texto íntegro de la citada resolución se encuentra publicado con esta fecha en el dominio electrónico del Servicio Nacional de Pesca y Acuicultura y de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 28 de febrero de 2013.- Juan Luis Ansoleaga Bengoechea, Director Nacional.
