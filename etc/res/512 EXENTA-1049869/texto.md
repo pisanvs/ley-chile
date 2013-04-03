@@ -1,0 +1,5 @@
+ACREDITA A "CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES EMPRESAS DE MENOR TAMAÑO CCL-EMT SPA"
+
+Por resolución exenta Nº 512, de 28 de diciembre de 2012 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a "Centro de Evaluación y Certificación de Competencias Laborales Empresas de Menor Tamaño CCL-EMT SpA", RUT Nº 76.239.487-1, como Centro de Evaluación y Certificación de Competencias Laborales en el Sector Empresas de Menor Tamaño, Subsector Gestión, perfil ocupacional de Gestor Mype. La acreditación se otorga por un plazo de tres años contados desde el 28 de diciembre de 2012, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
