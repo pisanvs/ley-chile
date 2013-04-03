@@ -98,6 +98,8 @@ La Comisión para la Industria Alimentaria será presidida por el Ministro de Ag
 
 29. El Presidente de la Fundación Cinco al Día.
 
+30. Director Ejecutivo de la Agencia Chilena para la Calidad e Inocuidad Alimentaria, Achipia.
+
 Sin perjuicio de lo anterior, la Comisión podrá invitar a participar a otros funcionarios de la Administración del Estado, así como a personalidades de reconocida competencia de los ámbitos político, social, científico o académico, funcionarios públicos de alto nivel, expertos o personas, nacionales o extranjeras, de diversos sectores.
 
 #### Artículo 4º
