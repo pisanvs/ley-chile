@@ -1,0 +1,3 @@
+Por resolución exenta Nº 823, de 26 de marzo de 2013, de esta Subsecretaría, recházanse las solicitudes números 211151002, 208111695, 96106108, 211081060, 211101111, 211101081, 211101087, 211101085, 212031011, 212031008, 212031007, 212031005, 212031001, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 26 de marzo de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
