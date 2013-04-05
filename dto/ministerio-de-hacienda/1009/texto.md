@@ -60,37 +60,11 @@ Decreto:
 
 > **Nota.** NOTA 14 El artículo único del Decreto 1526, Hacienda, publicado el 27.12.2012 dispone que a contar del 24 de diciembre de 2012, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
 
-> **Nota.** NOTA 15 El artículo único del Decreto 1493, Hacienda, publicado el 13.01.2014, dispone que a contar del 24 de diciembre de 2013, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 16 El artículo único del Decreto 1609, Hacienda, publicado el 29.12.2014, dispone que a contar del 24 de diciembre de 2014, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 17 El artículo único del Decreto 1449, Hacienda, publicado el 24.12.2015, dispone que a contar del 24 de diciembre de 2015, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 18 El artículo único del Decreto 1403, Hacienda, publicado el 07.01.2017, dispone que a contar del 24 de diciembre de 2016, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 19 El artículo único del Decreto 1288, Hacienda, publicado el 08.11.2017, dispone que a contar del 24 de diciembre de 2017, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 20 El Decreto 1656, Hacienda, publicado el 15.01.2018, dispone que a contar del 24 de diciembre de 2018, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 21 El Decreto 1554, Hacienda, publicado el 18.12.2019, dispone que a contar del 24 de diciembre de 2019, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 22 El Decreto 2022, Hacienda, publicado el 24.04.2021, dispone que a contar del 24 de diciembre de 2020, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 23 El numeral 2 del Decreto 1009, Hacienda, publicado el 11.01.2022, dispone que a contar del 24 de diciembre de 2021, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 24 El numeral 2 del Decreto 2327, Hacienda, publicado el 28.01.2023, dispone que a contar del 24 de diciembre de 2022, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 25 El Decreto 1729, Hacienda, publicado el 16.01.2024, dispone que a contar del 24 de diciembre de 2023, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 26 El Decreto 1408, Hacienda, publicado el 04.01.2025, dispone que a contar del 24 de diciembre de 2024, se entenderán renovadas por un año las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
-> **Nota.** NOTA 27 El Decreto 1096, Hacienda, publicado el 13.11.2025, dispone que a contar del 24 de diciembre de 2025, se entenderán renovadas por un año, las disposiciones de este decreto y sus modificaciones, con las limitaciones que en la citada norma se expresan.
-
 1.- Autorízase a los organismos, instituciones y empresas del Estado comprendidas en el artículo 3° del decreto ley N° 2.349, de 1978, por el plazo de un año, contado desde la fecha del presente decreto, para que, en conformidad a las disposiciones del mencionado decreto ley puedan, en los contratos internacionales cuyo objeto principal diga relación con negocios u operaciones de carácter ecónomico o financiero, sujetar los mismos a derecho extranjero, someter el conocimiento de los diferendos que puedan suscitarse entre las partes a tribunales extranjeros, señalar domicilio fuera del país, designar mandatarios en el extranjero y renunciar a la inmunidad de jurisdicción y de ejecución que procediere.
 
 2.- Las autorizaciones precedentes se refieren a los contratos internacionales que celebren los organismos, instituciones y empresas aludidas en el artículo 1° con organismos, instituciones o empresas internacionales o extranjeras que tengan el centro principal de sus negocios en el extranjero, sobre asistencia técnica; arrendamiento; leasing; contratos de transporte o de fletamento de cualquier clase; suministro, compra o venta al exterior de materias primas,repuestos, equipos y bienes en general; compraventa de gas natural o de otros hidrocarburos para su transformación en otro u otros productos; operaciones en Mercados de Futuros y Opciones en Bolsas Oficiales Extranjeras o bajo la modalidad de principal a principal fuera de ellas; maquilas u otras formas de transformación de materias primas; adquisición, uso o disposición de licencias, marcas, patentes y otras formas de propiedad industrial o intelectual; sociedades y otros contratos, pactos o convenios complementarios entre los socios que se traduzcan en aportes de capital a empresas, como también de todos los contratos y pactos que requieran celebrar los socios entre sí, y los contratos que esas sociedades deseen celebrar con los organismos, instituciones o empresas mencionadas en el N° 1, que precede; almacenaje en aeropuertos o puertos marítimos o terrestres y otros negocios portuarios; como también sobre servicios personales que se presten en el extranjero.
 
-3.- Las autorizaciones otorgadas en el artículo 1°, siempre que se contrate con las instituciones, organismos y empresas extranjeras e internacionales señaladas en el artículo 2°, comprenden, asimismo, los contratos de créditos que celebren las siguientes NOTAinstituciones:
+3.- Las autorizaciones otorgadas en el artículo 1°, siempre que se contrate con las instituciones, organismos y empresas extranjeras e internacionales señaladas en el artículo 2°, comprenden, asimismo, los contratos de créditos que celebren las siguientes instituciones:
 
 - Corporación Nacional del Cobre de Chile
 
@@ -150,10 +124,6 @@ Católica de Chile.
 
 - Casa de Moneda de Chile S.A.
 
-- Empresa de Correos de Chile
-
-- Fondo de Infraestructura S.A.
-
 4.- Las autorizaciones otorgadas en el artículo 1°, cuando se contrate con las instituciones, empresas u organismos extranjeros o internacionales mencionados en el artículo 2°, se hacen extensivas a las cauciones solidarias y garantías que la Corporación de Fomento de la Producción otorgue a favor de terceros en los contratos a que se refiere este decreto y a las transacciones que celebre dicha Corporación. Las autorizaciones a que se refiere el N° 1 regirán para los contratos de sociedad y los pactos y convenios complementarios entre los socios, que la Corporación de Fomento de la Producción celebre para el desarrollo de proyectos en el país con participación mayoritaria de inversionistas extranjeros, así como también para los contratos que esas sociedades celebren con la citada Corporación.
 
 5.- Las autorizaciones a que se refiere el Nº 1 regirán respecto a la Empresa Nacional del Petróleo o una o más filiales suyas, para ejecutar todas las operaciones y celebrar todos los actos y contratos, civiles y comerciales, o de cualquiera naturaleza, relacionados directa e indirectamente con la exploración y explotación de yacimientos de hidrocarburos en el extranjero o con la refinación, transporte, almacenamiento, tratamiento, transformación, aprovechamiento, compra, venta, exportación, importación, construcción de obras e instalaciones, investigación, seguros, y en general, para el desarrollo de toda otra actividad que se relacione directa o indirectamente con los hidrocarburos, sus derivados o subproductos.
@@ -161,8 +131,6 @@ Católica de Chile.
 6.- Las autorizaciones a que se refiere el artículo 1º de este decreto, regirán y les serán aplicables al Fisco y a los servicios y demás instituciones que forman parte del Sector Público que, de acuerdo con el artículo 5º de la ley Nº 19.908, han sido autorizadas para celebrar contratos destinados a cubrir sus riesgos financieros, tales como, contratos de "swap", futuros o "forwards" de tipo de cambio o de tasa de interés, en relación con tales contratos sujetos al cuerpo legal precedentemente señalado y al decreto supremo Nº 880, de 2003, del Ministerio de Hacienda, en la medida que dichos contratos sean celebrados con contrapartes extranjeras o multilaterales o que tengan la sede principal de sus negocios fuera de Chile. Lo señalado en este artículo será también aplicable a los contratos o convenciones accesorias a los contratos de cobertura de riesgos ya indicados, contratos de garantía asociados a dichos contratos de cobertura y a todo acuerdo maestro o global destinado a reglamentar las relaciones entre partes contratantes de instrumentos de cobertura de riesgo.
 
 Asimismo, las autorizaciones a que se refiere el artículo 1º de este decreto regirán y le serán aplicables al Fisco cuando, de acuerdo con el artículo 12 de la ley Nº 20.128, se celebren contratos que digan relación con la inversión de los recursos fiscales a que se refiere el mencionado artículo, en la medida en que dichos contratos sean celebrados con contrapartes extranjeras o internacionales o que tengan la sede principal de sus negocios fuera de Chile.
-
-Las autorizaciones a que se refiere el artículo 1º de este decreto regirán y le serán aplicables al Fisco en los actos, contratos y documentos que digan relación con operaciones de endeudamiento, pago anticipado total o parcial de obligaciones contraídas en ejercicios anteriores, de contratación de coberturas de riesgos, así como aquellos contratos complementarios necesarios para la ejecución de dichas operaciones.
 
 7.- Las autorizaciones que se conceden por el presente decreto, en nada alteran lo dispuesto por el decreto ley N° 1.263, de 1975, y los decretos N°s. 742 y 743, de 1976, complementados por los oficios circulares N°s. 27, de 1977, y 39, de 1978, todos éstos del Ministerio de Hacienda.
 
