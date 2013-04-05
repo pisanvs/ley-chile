@@ -66,6 +66,10 @@ Salida:
 
 Elicura - San Martín - Egenau - A. Prat.
 
+Salida 2:
+
+Elicura - San Martín - Avenida La Piscina - Arturo Prat.
+
 ### 5. Servicios desde y hacia el sector Oriente (Camino a Popeta) Acceso:
 
 Ladrón de Guevara - A. Prat - Alonso de Ercilla -
