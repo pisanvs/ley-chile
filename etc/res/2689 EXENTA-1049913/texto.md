@@ -1,0 +1,7 @@
+DELEGA FACULTAD DE REQUERIR INFORMACIÓN A LAS MUNICIPALIDADES, EN LOS JEFES DE DEPARTAMENTO DE AVALUACIONES Y JEFES DE UNIDAD
+
+Mediante resolución ex. N° 2.689, de 25 de marzo de 2013, de la Dirección Regional de Concepción del Servicio de Impuestos Internos y en virtud de lo dispuesto en la letra c) del artículo 19 y en el artículo 20 del DFL N°7 de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos; lo establecido en el artículo 41 de la ley N° 18.575, sobre Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; lo previsto en los Nos. 5 y 7 de la letra B) del artículo 6° y artículos 83 y 87 del Código Tributario; lo dispuesto en la ley N° 17.235; lo preceptuado en la resolución N° 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón y lo dispuesto en resolución ex. SII N°35, del 22 de marzo de 2013, se ha resuelto delegar en el Jefe del Departamento de Avaluaciones de la VIII Dirección Regional y en los Jefes de las Unidades dependientes de la VIII Dirección Concepción, la facultad de requerir información a las municipalidades, según se expresa en la resolución cuyo extracto se publica.
+
+El texto íntegro de la resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl).-
+
+Teresa Conejeros Peña, Directora Regional.
