@@ -1,0 +1,13 @@
+ESCRITURA DE CONSTITUCIÓN PARTIDO "FUERZA SOLIDARIA"
+
+Por resolución O-N° 1.329, de fecha 3 de diciembre de 2012, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la ley Nº 18.603.
+
+Por escritura pública de fecha 8 de octubre de 2012, otorgada ante don Sergio Carmona Barrales, Notario Público de la Trigésima Sexta Notaría de Santiago, modificada por escritura pública de fecha 21 de noviembre de 2012, otorgada ante el mismo Notario Público, se constituyó el partido político denominado "Fuerza Solidaria". Su sigla es: FS; su lema es: "Familia, Vida y Justicia" y su símbolo es un árbol Araucaria estilizado con dos ramas de color verde, con las letras F S debajo de ellas, de color azul y rojo, respectivamente, todo en un fondo blanco.
+
+Declaración de Principios: "Aunar, en un organismo con sentido nacionalista valórico, patriótico e integrador, a todos quienes estén de acuerdo con sus principios. Contribuir al logro de los supremos intereses de la Patria y a su futuro desarrollo socioeconómico. Propender a la estabilidad política y democrática de la República de Chile, rechazando todo tipo de totalitarismo. Prestar toda la ayuda política necesaria a los pensionados y montepiadas y a sus familiares, para el logro de sus merecidas y justas aspiraciones, y a toda persona que el sistema no contempla específicamente, teniendo especial atención en la llamada tercera edad. Aspiramos a instaurar un Estado de sentido nacional, subsidiario, honesto y transparente y que garantice la seguridad exterior e interior. Reconocemos a la familia como la célula fundamental de la sociedad. Creemos en el respeto al medio ambiente. Será una preocupación permanente, en nuestra juventud, la formación de valores fuertes, basados en una sólida moral cristiana".
+
+Se designa como miembros de la Directiva Central provisional a que se refiere la ley, en los cargos que se indican, a las siguientes personas: presidente, Guillermo Luis Baltra Aedo; primer vicepresidente, Segundo Roberto Gaspar Ramo; segundo vicepresidente, Marco Javier Cerda Ojeda; secretario general, Luis Francisco Alomar Marchant; tesorero; María Cristina Rivera Vera. Se designa como miembros del Tribunal Supremo provisional a las siguientes personas: presidente, Alcibiades Jorge Eugenio Balmaceda Morales; vicepresidente, Jorge Eduardo Romero Campos; secretario; José Daniel Nieto Bernabeu; integrantes, Osvaldo Ramón Palacios Mery y Lisandro Alberto Contreras Radic.
+
+El domicilio común es calle Rafael Sotomayor número 32, comuna de Santiago.
+
+Juan Ignacio García Rodríguez, Director.
