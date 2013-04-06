@@ -6,6 +6,8 @@ Decreto:
 
 Determínase, de acuerdo al artículo segundo, incisos octavo y décimo, y al artículo sexto transitorio, ambos de la ley N° 20.493, que el número de semanas para calcular el precio de paridad de importación para el gas licuado de petróleo de consumo vehicular será de cuatro semanas, para los precios que se establezcan al menos durante las próximas cuatro semanas, a partir del día jueves 31 de enero de 2013.
 
+Determínase, de acuerdo al artículo segundo, incisos undécimo y duodécimo de la ley N° 20.493, que se entenderá por semana al período de siete días consecutivos que comience en un día lunes y termine en un día domingo, para efectos de calcular el precio de paridad de importación y el precio de referencia de todos los combustibles derivados del petróleo a los que se aplica la ley N° 20.493, para los precios que se establezcan a partir del día jueves 11 de abril de 2013.
+
 Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Julio Dittborn Cordua, Ministro de Hacienda (S).
 
 Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, Ramón Delpiano Ruiz-Tagle, Subsecretario de Hacienda Subrogante.
