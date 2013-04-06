@@ -130,8 +130,6 @@ El uso de suelo, normas urbanísticas de subdivisión, urbanización y construcc
 
 Normas de las zonas.
 
-> **Nota.** El artículo primero del Decreto 661 Exento, Municipalidad de Tirúa, publicado el 07.06.2017, modifica la presente norma en el sentido de sustituir el cuadro de normas urbanísticas de la ZONA HABITACIONAL ZH 3, y el cuadro de normas urbanísticas de la ZONA HABITACIONAL ZEQ 3 de la manera que la citada norma indica.
-
 ## Título VI
 
 Disposiciones transitorias
