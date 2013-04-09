@@ -22,8 +22,6 @@ Modifícase la resolución exenta Nº 8.793 (V. y U.), de 2010, en el siguiente 
 
 > **Nota.** El numeral 1 de la Resolución 2232 Exenta, Vivienda, publicada el 09.04.2013, modifica la tabla inserta en el resuelvo 1 de la presente norma, en el sentido de reemplazar la fila correspondiente al Proyecto "Comité Damnificados San Joaquín", de la comuna de Coronel, y la fila "Total", por aquellas que la citada norma indica.
 
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 6081 Exenta, Vivienda, publicada el 06.10.2014, modifica la tabla inserta en el resuelvo 1 de la presente norma, en el sentido de reemplazar la fila correspondiente al Proyecto "Comité Damnificados de Vivienda Las Rosas", de la comuna de Coronel, y la fila "Total", por aquellas que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
