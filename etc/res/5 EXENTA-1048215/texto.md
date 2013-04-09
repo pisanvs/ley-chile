@@ -50,7 +50,7 @@ n.- Instrumentos de Detección de Necesidades de Capacitación.
 
 Desígnanse a los siguientes funcionarios a contrata quienes podrán ejercer las funciones directivas detalladas en el artículo anterior, respecto de los funcionarios que en cada caso se señala:
 
-1.- Cristóbal Alejandro Jara Nilsson, Jefe de Gabinete del Director Nacional, funcionario a contrata asimilado a grado 12 EF de la planta profesional, respecto de los funcionarios que se desempeñan en la Dirección Nacional y todos aquellos cuyo superior jerárquico directo sea el Director Nacional.
+1.- Juan Cristóbal González Sepúlveda, Jefe de Gabinete del Director Nacional, funcionario a contrata asimilado a grado 5 E.F. de la planta profesional, respecto de los funcionarios que se desempeñan en la Dirección Nacional y todos aquellos cuyo superior jerárquico directo sea el Director Nacional.
 
 2.- María José García Caro, encargada de la Subdirección de Transferencia del Conocimiento, funcionaria a contrata asimilada a grado 6 E.F. de la planta profesional, respecto de los funcionarios que se desempeñan en la Subdirección de Transferencia del Conocimiento.
 
