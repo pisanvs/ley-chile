@@ -1,4 +1,4 @@
-EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, EFECTUADOS DURANTE EL AÑO 2012, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO Nº 49, DE 2011, A COMITÉ DON BOSCO, DE LA REGIÓN METROPOLITANA
+EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO Nº 49, DE 2011, A COMITÉ DON BOSCO, DE LA REGIÓN METROPOLITANA
 
 Santiago, 28 de junio de 2012.- Hoy se resolvió lo que sigue:
 
@@ -24,7 +24,7 @@ Resolución:
 
 Exímese de los siguientes requisitos de postulación contenidos en el DS Nº 49 (V. y U.), de 2011, a las personas integrantes del Comité de Allegados Don Bosco, de la Región Metropolitana:
 
-a) De la obligación de que los representantes legales del grupo organizado sean integrantes del grupo postulante, de acuerdo a lo establecido en el inciso segundo del artículo 19. Esta exención se aplicará para todos los llamados a concurso del año 2012.
+a) De la obligación de que los representantes legales del grupo organizado sean integrantes del grupo postulante, de acuerdo a lo establecido en el inciso segundo del artículo 19.
 
 b) De la obligación de que por cada persona jurídica se permitirá solo una postulación, de acuerdo a lo establecido en el inciso segundo del artículo 19.
 

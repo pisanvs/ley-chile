@@ -1,4 +1,4 @@
-EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, EFECTUADOS DURANTE EL AÑO 2012, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO N°49, DE 2011, A FAMILIAS DEL COMITÉ DE VIVIENDA "PROTECTORA", DEL COMITÉ DE VIVIENDA "VÍCTOR MANUEL", DEL COMITÉ DE VIVIENDA "LA ESPERANZA" Y DEL COMITÉ DE ALLEGADOS "LA BLANCA I", DE LA REGIÓN METROPOLITANA
+EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO N°49, DE 2011, A FAMILIAS DEL COMITÉ DE VIVIENDA "PROTECTORA", DEL COMITÉ DE VIVIENDA "VÍCTOR MANUEL", DEL COMITÉ DE VIVIENDA "LA ESPERANZA" Y DEL COMITÉ DE ALLEGADOS "LA BLANCA I", DE LA REGIÓN METROPOLITANA
 
 Santiago, 13 de julio de 2012.- Hoy se resolvió lo que sigue:
 
@@ -16,7 +16,7 @@ a) Que los Comités de Vivienda "Protectora", "Víctor Manuel", "La Esperanza" y
 
 Resolución:
 
-Exímese a los comités que se pasan a señalar, de cumplir con los requisitos que en cada caso se indican, exigidos por el DS 49 (V. y U.), de 2011, para poder postular en forma regular a los llamados que conforme a dicho Programa se efectúen durante el año 2012:
+Exímese a los comités que se pasan a señalar, de cumplir con los requisitos que en cada caso se indican, exigidos por el DS 49 (V. y U.), de 2011, para poder postular en forma regular a los llamados que se efectúen conforme a dicho Programa:
 
 1. A los Comités de Vivienda "Protectora", "Víctor Manuel" y "La Esperanza", todos de la Región Metropolitana, del requisito estipulado en la letra a) del inciso final del artículo 19 del DS 49 (V. y U.), de 2011, en lo relativo a que el grupo organizado deberá tener una antigüedad de a lo menos 1 año contado desde la fecha de su constitución legal, para poder postular en forma regular a los llamados que conforme a dicho Programa se efectúen durante el año 2012.
 

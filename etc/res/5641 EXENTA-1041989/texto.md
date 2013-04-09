@@ -1,4 +1,4 @@
-EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, EFECTUADOS DURANTE EL AÑO 2012, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO Nº 49, DE 2011, A FAMILIAS DEL GRUPO NUEVA ESPERANZA, DEL GRUPO CRECIENDO PARA EL FUTURO, DEL GRUPO CHORRILLOS, DEL GRUPO BRISAS DEL BOSQUE Y DEL COMITÉ DE ALLEGADOS EL CANELO DE LA REGIÓN METROPOLITANA
+EXIME DE REQUISITOS EN LOS LLAMADOS A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, DE ACUERDO AL ARTÍCULO 21 DEL DECRETO Nº 49, DE 2011, A FAMILIAS DEL GRUPO NUEVA ESPERANZA, DEL GRUPO CRECIENDO PARA EL FUTURO, DEL GRUPO CHORRILLOS, DEL GRUPO BRISAS DEL BOSQUE Y DEL COMITÉ DE ALLEGADOS EL CANELO DE LA REGIÓN METROPOLITANA
 
 Santiago, 12 de julio de 2012.- Hoy se resolvió lo que sigue:
 
@@ -24,7 +24,7 @@ e) Que el Comité de Allegados El Canelo se constituyó el año 2008 y fue integ
 
 Resolución:
 
-Exímese a las personas que se pasan a señalar, de cumplir con los requisitos que en cada caso se indican, exigidos por el DS 49 (V. y U.), de 2011, para poder postular en forma regular a los llamados que conforme a dicho Programa se efectúen durante el año 2012:
+Exímese a las personas que se pasan a señalar, de cumplir con los requisitos que en cada caso se indican, exigidos por el DS 49 (V. y U.), de 2011, para poder postular en forma regular a los llamados que se efectúen conforme a dicho Programa:
 
 1. A los integrantes del Grupo Nueva Esperanza de la Región Metropolitana, de cumplir con el requisito estipulado en la letra b) del artículo 19 del DS 49 (V. y U.), de 2011, en lo relativo a que a lo menos un 60% de los integrantes del grupo postulante debe tener una antigüedad de a lo menos un año formando parte de su persona jurídica;
 
