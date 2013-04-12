@@ -46,6 +46,8 @@ Tanto la afiliación como la desafiliación será de carácter voluntario y debe
 
 La afiliación, desafiliación y reafiliación operará desde la fecha de su aprobación por el Consejo Administrativo.
 
+Para el caso de los funcionarios en calidad de jubilados el no cumplimiento de tres cuotas mensuales consecutivas significará la desafiliación automática del Servicio de Bienestar, sin derecho a reincorporación
+
 T I T U L O IV
 
 De la administración
@@ -68,9 +70,13 @@ d) Tres representantes de los afiliados titulares y suplentes, dos elegidos en v
 
 Estos representantes durarán en sus cargos dos años, pudiendo ser reelegidos o designados por un máximo de dos períodos adicionales.
 
+Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20° del Reglamento General, no estar desempeñando funciones en el Servicio de Bienestar y tener una antigüedad como socio del Servicio de Bienestar de, a lo menos, 2 años.
+
+En caso de empate, será electo titular el funcionario de mayor antigüedad como afiliado del Servicio de Bienestar. Si ambos candidatos tuvieren la misma antigüedad como afiliados al Servicio de Bienestar, será electo el funcionario de mayor antigüedad en el Servicio de Salud Araucanía Sur
+
 #### Artículo 8º
 
-Las sesiones ordinarias del Consejo Administrativo a que se refiere el artículo 23º del Reglamento General se celebrarán, a lo menos, una vez al mes, sin perjuicio que se pueda celebrar sesiones extraordinarias si así se requiere. En ambos casos, las citaciones las hará por escrito el Jefe del Servicio de Bienestar, a petición del Presidente.
+Las sesiones ordinarias del Consejo Administrativo a que se refiere el artículo 23º del Reglamento General se celebrarán, a lo menos, una vez al mes, sin perjuicio que se pueda celebrar sesiones extraordinarias si así se requiere. En ambos casos, las citaciones las hará por escrito el Jefe del Servicio de Bienestar, con una antelación mínima de tres días para las sesiones ordinarias y de uno para las sesiones extraordinarias. El Consejo Administrativo podrá, si lo estima conveniente, invitar a sus sesiones a personas que por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
 
 #### Artículo 9º
 
@@ -112,7 +118,7 @@ a) Del aporte institucional que anualmente consulte en su Presupuesto el Servici
 
 b) Del aporte mensual de los afiliados en servicio activo de hasta un 2% de sus remuneraciones imponibles para pensiones.
 
-c) Del aporte mensual de los jubilados de hasta el 1% de sus pensiones.
+c) Del aporte mensual de los jubilados de hasta el 5% de sus pensiones, más el equivalente al aporte institucional, porcentajes que fijará anualmente el Consejo Administrativo.
 
 d) De la cuota de incorporación que deberán pagar los afiliados por una sola vez, al ingresar y cuyo monto será fijado anualmente por el Consejo Administrativo, no pudiendo exceder del 2% de sus remuneraciones imponibles para pensiones o de su pensión de jubilación.
 
@@ -146,7 +152,7 @@ a) Beneficios de asistencia Médica y Odontológica, de acuerdo a lo señalado e
 
 b) Asignación por Matrimonio: cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
-c) Asignación por Nacimiento: cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo. En el evento de ser ambos padres afiliados al Servicio de Bienestar, la asignación se entregará individualmente a cada uno de ellos.
+c) Asignación por Nacimiento: cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento o la adopción de un hijo. En el caso de adopción de un hijo/a, el plazo para presentar los documentos será de seis meses a contar de la fecha de entrega de tuición definitiva por el Juzgado de Familia correspondiente. En el evento de ser ambos padres afiliados al Servicio de Bienestar, la asignación se entregará individualmente a cada uno de ellos.
 
 d) Por Fallecimiento: se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
 
@@ -164,13 +170,19 @@ En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente or
 
 Por otra parte, las deudas que el afiliado fallecido tuviere con el Servicio de Bienestar, se entenderán condonadas automáticamente.
 
-e) Asignación de Escolaridad: el Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+e) Asignación de Escolaridad: el Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en los niveles de prebásica, básica, media, técnica especializada y superior, en algún establecimiento educacional del Estado o reconocido por éste.
+
+Se entenderá por niveles pre-básicos: pre-kinder y kinder.
+
+Se otorgará la misma asignación por magíster y estudios con grado académico.
 
 f) El Servicio de Bienestar podrá otorgar becas a los afiliados y a sus cargas familiares que sigan estudios en la enseñanza superior en establecimientos educacionales del Estado o reconocido por éste.
 
 Los requisitos para postular a este beneficio serán establecidos en su oportunidad, por el Consejo Administrativo.
 
 g) Asignación para recuperar parte de los graves daños ocasionados por catástrofes naturales o incendios, sufridos por el afiliado en sus enseres o vivienda. Estos hechos serán calificados por el Consejo Administrativo.
+
+h): Ayuda Médica: En caso de enfermedad grave o tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo 15° del Reglamento General.
 
 #### Artículo 18º
 
@@ -208,7 +220,7 @@ La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado
 
 #### Artículo 22º
 
-Las sumas que el afiliado debe cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las sumas que el afiliado debe cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda o el porcentaje que la ley determine.
 
 #### Artículo 23º
 
@@ -226,7 +238,9 @@ De la atención social, cultural y deportiva
 
 El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y cargas familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados. Así mismo podrá asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional y/o cultural que beneficien directamente a sus afiliados y cargas familiares.
+
+El Servicio de Bienestar podrá otorgar a sus afiliados/as regalos en ocasiones especiales tales como: cumpleaños, fiestas patrias, día del hospital, aniversarios, día del padre, día de la madre, día del niño/a, día de la mujer, día de las profesiones, reconocimiento de los afiliados destacados por su labor en el Servicio, reconocimiento al socio jubilado y otras que apruebe el Consejo Administrativo.
 
 #### Artículo 25º
 
