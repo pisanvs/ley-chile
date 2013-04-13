@@ -56,7 +56,7 @@ Del Jurado y de la evaluación de antecedentes
 
 #### Artículo 6°
 
-La Dirección Nacional, para efectos de discernir entre las respectivas instituciones participantes, convocará a un jurado que estará integrado por el Director Nacional del Servicio Civil, quien lo presidirá, el Subsecretario del Trabajo; el Subsecretario General de la Presidencia de la República; el Subsecretario de Hacienda; un representante de la entidad nacional que agrupe a las asociaciones de funcionarios de las instituciones participantes al premio que, según el número de afiliados posea mayor representatividad y, el Subdirector de Desarrollo de las Personas de la Dirección Nacional del Servicio Civil, quien se constituirá como su Secretario Ejecutivo. Asimismo, podrán integrar este jurado, dos expertos en materia de gestión pública y/o participación ciudadana, quienes serán designados por resolución fundada de la Dirección Nacional del Servicio Civil.
+La Dirección Nacional, para efectos de discernir entre las respectivas instituciones participantes, convocará a un jurado que estará integrado por el Director Nacional del Servicio Civil, quien lo presidirá, el Subsecretario del Trabajo; el Subsecretario General de la Presidencia de la República; el Subsecretario de Hacienda; un representante de la entidad nacional que agrupe a las asociaciones de funcionarios de las instituciones participantes al premio que, según el número de afiliados posea mayor representatividad y, el Subdirector de Desarrollo de las Personas de la Dirección Nacional del Servicio Civil, quien se constituirá como su Secretario Ejecutivo. Asimismo, podrán integrar este jurado, un máximo de tres expertos en materia de gestión pública, gestión de personas y/o participación ciudadana, quienes serán designados por resolución fundada de la Dirección Nacional del Servicio Civil.
 
 La convocatoria a este jurado se realizará mediante resolución de la Dirección Nacional del Servicio Civil.
 
@@ -74,13 +74,13 @@ Los acuerdos del Jurado se adoptarán por simple mayoría. En caso de empate, di
 
 Para efecto de seleccionar entre las instituciones participantes, aquellos que se hayan destacado por los resultados en su gestión, eficiencia institucional, productividad y calidad de los servicios proporcionados a sus usuarios, se deberán considerar los criterios generales de evaluación, que a continuación se indican:
 
-a) Cumplimiento de Compromisos Gubernamentales.
+a) Eficiencia y Productividad: Considera la evaluación del avance obtenido en aquellas iniciativas de gestión implementadas por los Servicios para mejorar la productividad de la institución y la eficiencia en el uso de los recursos, teniendo en cuenta la dotación del Servicio y su presupuesto anual.
 
-Comprende la evaluación de aquellos instrumentos de gestión, de aplicación general en los servicios públicos, que permitan obtener información del nivel de cumplimiento de los compromisos institucionales. Dentro de los instrumentos de gestión podrá considerarse la Programación Gubernamental, los Convenios de Desempeño Colectivo, manejo presupuestario (flexibilidad
+b) Calidad de Servicio: Considera la evaluación del avance en las iniciativas realizadas por las instituciones para mejorar la calidad en la prestación de sus servicios, la incorporación de la ciudadanía en ello, y la satisfacción de los usuarios finales.
 
-y/o ejecución presupuestaria), y de evaluación y control de gestión entre otros. b) Gestión de Usuarios. Considera la evaluación de las acciones realizadas por las instituciones, tendientes a que la prestación de sus servicios considere aspectos de calidad en la atención al usuario y la incorporación de la ciudadanía en la prestación y el mejoramiento de sus servicios.
+c) Gestión de Personas: Considera la evaluación de las iniciativas realizadas por los servicios para fortalecer el desarrollo y el desempeño de las personas, el perfeccionamiento de las políticas de gestión de personas, la implementación de buenas prácticas laborales y participación funcionaria.
 
-c) Gestión del Desarrollo de las Personas. Considera la evaluación de las acciones realizadas en los servicios, que tienen por objeto, entre otras materias, asegurar el desarrollo de buenas prácticas laborales, la participación funcionaria y el desarrollo de Políticas Institucionales de Recursos Humanos.
+En la evaluación de los criterios antes señalados, además del efecto de las iniciativas, se deberá considerar el avance en cada iniciativa respecto a años anteriores y la homogeneidad del avance en la implementación de las iniciativas teniendo en consideración parámetros funcionales o territoriales, o la combinación de ambos.
 
 #### Artículo 9°
 
