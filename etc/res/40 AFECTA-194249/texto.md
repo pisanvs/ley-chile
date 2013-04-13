@@ -62,8 +62,6 @@ Con los alcances precedentes se ha tomado razón de la resolución en comento. S
 
 Al señor Intendente Regional Gobierno Regional de Tarapacá Presente.
 
-PLAN SECCIONAL
-
 ALTO HOSPICIO-ALTO MOLLE
 
 ORDENANZA
@@ -540,9 +538,7 @@ Sobre el terreno correspondiente a antejardines de 5 m. a lo menos, podrán sobr
 
 ARTICULO N° 18 Cierros Exteriores e Interiores
 
-Los cierros exteriores tendrán altura máxima de 2 m., medidos desde el nivel de la solera de la calle que enfrentan, además deberán ser transparentes o de cerco vivo, en un 80% de su longitud, como mínimo.
-
-Se prohíbe agregar elementos que reduzcan su transparencia, su diseño será previamente aprobado por el Director de Obras Municipales.
+Las alturas máximas de cierro en la línea oficial de los predios será de 3 metros excepto, en la "Zona Z7 Industrial Exclusiva" artículo 64° de la Ordenanza Local en la cual será de 5 metros. No será exigible transparencia.
 
 Se mantiene la norma respecto a cierros en predios esquinas y demás incisos que al respecto establece la O. G. de U. y C.
 
@@ -730,19 +726,9 @@ ARTICULO N° 41
 
 Se establecen las siguientes condiciones sobre Estacionamientos.
 
-1.- Las Viviendas deberán disponer de estacionamientos conforme a la siguiente tabla:
+1.- estacionamientos exigidos para el uso de suelo vivienda o residencial: 1 estacionamiento por cada vivienda de hasta 140 m2 y 2 estacionamientos por cada vivienda de más de 140 m2.
 
-- Uno por Vivienda de menos de 70 m². útiles
-
-- Uno y medio por Vivienda de 70 m² hasta menos de 110 m². útiles
-
-- Dos por Vivienda de 110 m² hasta menos de 140 m². útiles
-
-- Dos y medio por vivienda de 140 m² hasta menos de 180 m². útiles
-
-- Tres por Vivienda de 180 m². útiles o mayores.
-
-Los destinos de comercio, servicios públicos, centros médicos o similares, ISAPRES, Administradoras de Fondos de Pensiones, Cajas de Compensación, Bancos, Notarías y demás de impacto similar, todos aquellos con atención de público, cualquiera sea su superficie, deberán disponer de un estacionamiento por cada 30 m². de superficie útil.
+Los usos de suelo Actividades Productivas y equipamiento deberán contemplar 1 estacionamiento por cada 39 m2 de superficie útil. Excepcionalmente el Asesor Urbanista podrá autorizar, previa solicitud fundada por parte del interesado, reducir esta exigencia para aquellos equipamientos que se ejecuten con aportes del estado.
 
 2.- Además de los estándares establecidos en el Plan Seccional, dentro del área de aplicación de la presente Ordenanza, deberán considerarse los siguientes estándares, de acuerdo al uso de suelo:
 
@@ -916,7 +902,7 @@ Z8 Zona Industrial Mixta. Alto Molle
 
 Z9 Zona Planta de Tratamiento de Aguas Servidas
 
-Z10 Zona Cementerio
+Z10 Zona Enmienda
 
 Z11 Zona Estación Ferroviaria
 
@@ -1694,7 +1680,7 @@ Z3 ZONA RESIDENCIAL EN DENSIDAD ALTA
 
 DENSIDADES HABITACIONALES
 
-- Densidad Neta Máxima 180 a 200 Hab/Há
+Densidad Bruta Máxima: 240 Hab/Ha.
 
 A.- USOS DE SUELO PERMITIDOS
 
@@ -1834,15 +1820,13 @@ ARTICULO N° 61
 
 Z4 ZONA RESIDENCIAL EN DENSIDAD MEDIA
 
-DENSIDADES HABITACIONALES
+Densidad Bruta Máxima:
 
-- Residencial en densidad
+. Residencial en densidad media : 192 Hab/Ha
 
-media 130 a 160 Hab/Há
+. Reglamento especial para Vivienda
 
-- Reglamento especial para
-
-Vivienda Económica 180 a 200 Hab/Há
+Económica : 240 Hab/Ha
 
 A.- USOS DE SUELO PERMITIDOS
 
@@ -2057,6 +2041,8 @@ ARTICULO N° 64
 Z7 ZONA INDUSTRIAL EXCLUSIVA
 
 A.- USOS DE SUELO PERMITIDOS
+
+Equipamientos clase: Salud sólo cementerios y crematorios, Científico, comercio, Culto y Cultura, Deporte, Educación: sólo Superior y Técnica, Esparcimiento, Seguridad, Servicios, Social y edificaciones y locales destinados al Hospedaje, definidos en el Artículo 2.1.25.- de la Ordenanza General de Urbanismo y Construcciones, que presten servicios comerciales adjuntos
 
 - Equipamiento de los siguientes tipos y escalas
 
@@ -2352,35 +2338,9 @@ C.2. Equipamiento
 
 ARTICULO N° 68
 
-Z10 ZONA DE CEMENTERIOS
+Z10 Zona Enmienda
 
-A.- USOS DE SUELO
-
-PERMITIDOS
-
-Exclusivo Cementerio
-
-B.- USOS DE SUELO
-
-PROHIBIDOS Todos aquellos no señalados
-
-como permitidos.
-
-C.- NORMAS ESPECIFICAS DE SUBDIVISION PREDIAL Y EDIFICACION
-
-C.1 Subdivisión Predial. No se permite.
-
-C.2 Las edificaciones serán solo las necesarias para un correcto servicio del Equipamiento; con una altura y superficie, adecuadamente mínimas.
-
-C.3 NORMAS TECNICAS
-
-- Los Cementerios que se instalen en el territorio del Plan, requerirán respecto de su emplazamiento de un informe previo favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo; además, de la autorización del Servicio Nacional de Salud y demás organismos competentes.
-
-- Los cierros exteriores tendrán altura máxima de 3 m., medida desde el nivel de la solera de la calle que enfrentan en la opción de Cementerio - Parque, deberán ser transparentes o de cerco vivo en un 80% de su longitud como mínimo. Sin perjuicio de lo establecido en el Artículo N° 18 de la presente Ordenanza. En la alternativa de un cementerio tradicional de nichos, mausoleos y otros se atendrá a las normas específicas de los organismos correspondientes.
-
-- Paralelamente, se deberá presentar un Proyecto de Forestación, que considere todo el perímetro del recinto, a modo de franja verde intermedia y zona de estacionamiento, debiendo dar cabida a lo menos a dos líneas de vehículos, con sus respectivas circulaciones. Dicho proyecto será revisado y aprobado por la Dirección de Obras Municipales.
-
-- Los Usos de Suelo en los predios vecinos se atendrán a lo dispuesto por las correspondientes normativas vigentes.
+Usos de Suelo Permitidos y normas urbanísticas asimilables al numeral C.2 Equipamiento de la zona Z3 del artículo 60° de la Ordenanza Local
 
 ARTICULO N° 69
 
@@ -2731,3 +2691,15 @@ Los perfiles geométricos viales, así como el ancho de sus calzadas, el diseño
 Iquique, noviembre del 2001.- Jorge Alejandro Soria Quiroga, Alcalde Municipalidad de Iquique.- María Angélica Vega Pinto, Secretaria Municipal.- Jorge Poblete Grez, Arquitecto Consultor Plan Regulador Comunal.
 
 > **Nota.** El Artículo 1º del Decreto 37, Vivienda, publicado el 04.02.2010, modifica la presente norma en el sentido de sustituir la normativa aplicable al terreno de propiedad de SERVIU Región de Tarapacá, delimitado por la línea poligonal A-B-C-D-E-F-A, ubicado frente a la Avenida Oriente esquina de calle Los Álamos, correspondiente a la zona "Z6 Zona de Equipamiento y Parque", por la que se indica en el artículo 2º del mismo Decreto 37 para la zona "Z3-1 Zona Residencial, en Densidad Alta", de conformidad a lo graficado en el Plano MPRCAHAM-1/2009, denominado "Modificación Plan Regulador Comunal Iquique sector Alto Hospicio-Alto Molle, Sector Las Parcelas (ex Parque Oriente)", confeccionado a escala 1:5000 por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá.
+
+> **Nota.** NOTA 1 El Artículo 2º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z2 Zona Residencial Mixta, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 Los Artículos 3 y 4 del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Zona Z3 Zona Residencial en Densidad Alta, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 3 Los Artículos 5 y 6 del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z4 Zona Residencial en Densidad Media, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 4 El Artículo 7º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z7 Zona Industrial Exclusiva, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 5 El Artículo 8º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z7-1 Zona Industrial Mixta El Boro, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 6 El Artículo 9º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z8 Zona Industrial Mixta Alto Molle, de la manera que la citada norma indica.
