@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº382 de 25 de marzo de 2013, se dejó sin efecto el Decreto MOP (Exento) N°3638 de 11 de noviembre de 2011, que ordena la expropiación del lote N°20, debido a que se celebró Convenio Ad Referéndum entre el Consorcio Inmobiliario Palom S.A. y la Dirección Regional de Obras Hidráulicas de la Región del Bío Bío, para la obra pública: Diseño de Obras Fluviales Río Andalien, Esteros Nonguén y Palomares, Comuna de Concepción, Provincia de Concepción, Región del Bío Bío. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
