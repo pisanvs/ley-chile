@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº394, de fecha 25 de marzo de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió para Aguas del Valle S.A. el lote de terreno Nº1, superficie 2.024,81 m2., rol Nº3929-2, Comuna de Coquimbo, para la obra "MEJORAMIENTO DEL SISTEMA DE AGUA POTABLE DE TIERRAS BLANCAS", PROVINCIA DE ELQUI, REGIÓN DE COQUIMBO. La comisión de peritos integrada por María Iris Marcich Moller, Juan Agustín Ibáñez Palma y Luis Jeffery Mercado, fijó el valor de tasación con fecha 03 de febrero de 2010, acordándose la indemnización con su propietario INMOBILIARIA SAN CARLOS LIMITADA, en la cantidad de $21.120.793.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
