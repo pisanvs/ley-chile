@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº393, de 25 de marzo de 2013, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°563, de 29 de marzo de 2012, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°13, expropiado con motivo de la obra: "Reposición Ruta 215-CH, Bifurcación Aeropuerto Carlos Hott - Cruce Las Lumas, desde el Km. 3,99292 al Km. 21,80000", Comuna de Osorno, X Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 08 de abril de 2011, en la suma de $4.440.000, para el lote N°13.
+
+Fiscal del Ministerio de Obras Públicas.
