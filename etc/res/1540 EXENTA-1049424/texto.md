@@ -100,23 +100,17 @@ El número de proyectos seleccionados en cada Región alcanzará hasta la cantid
 
 a los ya establecidos en el DS N° 255 (V. y U.),
 
-de 2006, para los proyectos de ampliación de una
+de 2006, para los proyectos de mejoramiento de
 
-vivienda que tengan por objeto acoger a un
+una vivienda. Las obras odrán ser, entre otras,
 
-Adulto Mayor o sea éste quien desee integrar a
+implementación de rampas de acceso, pasamanos,
 
-uno o más familiares en su vivienda. Las obras
+ampliación de vanos de puertas, adaptación de
 
-podrán ser, entre otras, implementación de
+baños, ajuste de altura de mobiliario
 
-rampas de acceso, pasamanos, ampliación de vanos
-
-de puertas, adaptación de baños, ajuste de
-
-altura de mobiliario (closet, artefactos,
-
-interruptores, etc.).
+(closet, artefactos, interruptores, etc.).
 
 3.2 Para definir los estándares de estas obras se
 
@@ -480,7 +474,7 @@ hasta un máximo de 30 integrantes, se les
 
 premiará con 30 puntos adicionales.
 
-5.6 La obtención de un Subsidio destinado a la instalación de sistemas solares térmicos a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar.
+5.6 La obtención de un subsidio destinado a la instalación de sistemas solares térmicos a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiados en este llamado, siempre que no se trate del mismo tipo de obras.
 
 5.7 El Plan de Habilitación Social de los proyectos presentados deberá cumplir además de lo establecido en el DS N° 255 (V. y U.), de 2006, con los siguientes contenidos adicionales:
 
