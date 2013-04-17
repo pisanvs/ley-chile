@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.416 EXENTA, DE 2013
+
+Por resolución exenta N° 1.416, de fecha 28 de marzo de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Ruta del Sol Limitada", nombre de fantasía "Academia de Conductores Ruta del Sol Ltda.", RUT Nº 76.235.091-2, representada legalmente por Daniela Cristina Ramírez Valenzuela, RUT Nº 13.057.069-0, y por Nelson Eduardo Parra Bastías, RUT Nº 12.514.729-1, siendo su Director, Claudio Antonio Terre Irarrázabal, RUT Nº 8.548.955-0, la que tendrá su lugar de funcionamiento en el local ubicado en Ricardo Ayala N° 181, comuna de Maipú.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
