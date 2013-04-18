@@ -1,20 +1,20 @@
-DELEGA LA REPRESENTACION DEL FISCO PARA LA INVERSION DE LOS RECURSOS FISCALES QUE INDICA, DESIGNA AL BANCO CENTRAL DE CHILE EN CARACTER DE AGENTE FISCAL, Y MODIFICA EL DECRETO Nº 1.009, DE 1978, DEL MINISTERIO DE HACIENDA
+MODIFICA DECRETO Nº 1.383, DE 2006
 
-Núm. 1.383.- Santiago, 11 de diciembre de 2006.- Vistos: Los artículos 32 número 6, 108 y 109 de la Constitución Política de la República de Chile; los Artículos 5º, 9º, 10 12 y artículos transitorios de la Ley Nº 20.128 (en adelante Ley de Responsabilidad Fiscal); los Artículos 3º, 27 y 37 del artículo primero de la Ley Nº 18.840 (en adelante, "Ley Orgánica Constitucional del Banco Central de Chile"); el Decreto Nº 1.009, de 1978, del Ministerio de Hacienda, el Decreto Nº 1.382, de 2006, del Ministerio de Hacienda, y el Decreto con Fuerza de Ley Nº 1 (en adelante el "DFL del FEES"), de 2006, del Ministerio de Hacienda, dicto el siguiente,
+Núm. 1.618.- Santiago, 6 de diciembre de 2012.- Vistos: El oficio Nº 9.814, de fecha 3 de diciembre de 2012, del Banco Central de Chile, referente a las funciones para la gestión de la Agencia Fiscal del Fondo de Estabilización Económica y Social y del Fondo de Reserva de Pensiones, y el decreto Nº 1.383, de 2006, del Ministerio de Hacienda, que delega la representación del Fisco para la inversión de los recursos fiscales que indica, designa al Banco Central de Chile en carácter de agente fiscal, y modifica el decreto Nº 1.009, de 1978, del Ministerio de Hacienda, y
+
+Considerando:
+
+1. Que, mediante el oficio mencionado en los Vistos, el Banco Central de Chile ha solicitado una modificación a la agencia fiscal referida al Fondo de Reserva de Pensiones (FRP) y al Fondo de Estabilización Económica y Social (FEES), que le fuera solicitada mediante el decreto Nº 1.383, de 2006, del Ministerio de Hacienda, y
+
+2. Que, para facilitar la lectura del texto resultante y la posterior ejecución de las modificaciones referidas, se ha considerado conveniente reemplazar íntegramente los artículos modificados del decreto mencionado en el Considerando anterior, que contienen la reglamentación de la agencia fiscal referida, dicto el siguiente
 
 Decreto:
 
-#### Artículo 1º
+#### Artículo primero
 
-Delégase en el Ministro de Hacienda la representación del Fisco de la República de Chile (en lo sucesivo, el "Fisco") para que, de conformidad con el Artículo 12 de la Ley sobre Responsabilidad Fiscal, disponga la administración de los recursos del Fondo de Reserva de Pensiones, del Fondo de Estabilización Económica y Social, y de los demás recursos fiscales provenientes de la venta de activos o de excedentes estacionales de la Cuenta Unica Fiscal (en lo sucesivo todos ellos referidos conjuntamente como los "recursos fiscales" y cada uno individualmente como "Tipo de recursos fiscales"); y en especial para la agencia fiscal individualizada en el presente Decreto.
+Introdúzcanse las siguientes modificaciones al decreto supremo Nº 1.383, de 2006, del Ministerio de Hacienda, que delega la representación del Fisco para la inversión de los recursos fiscales que indica, designa al Banco Central de Chile en carácter de Agente Fiscal, y modifica el decreto Nº 1.009, de 1978, del Ministerio de Hacienda:
 
-En uso de esta facultad, el Ministro de Hacienda, o quien éste designe, podrá efectuar el análisis y las negociaciones, fijar los términos y condiciones de las contrataciones o de las contrapartes, y realizar las demás actividades que sean necesarias para proceder a la oportuna e íntegra implementación y ejecución del objetivo indicado. El Ministro de Hacienda, o quien éste designe, instruirá al Tesorero General de la República, o a quien éste designe, que otorgue, ejecute o suscriba los actos, contratos, y operaciones que disponga al efecto y que realice los pagos o provisiones de gastos que procedan.
-
-#### Artículo 2º
-
-Delégase en el Tesorero General de la República, en lo sucesivo, el Tesorero, la representación del Fisco para que, de conformidad con el artículo 12 de la Ley sobre Responsabilidad Fiscal y con el artículo anterior de este Decreto, ejecute lo que el Ministro de Hacienda, o quien éste designe, dispongan respecto de la administración de los recursos fiscales; y en especial en la agencia fiscal individualizada en el presente Decreto.
-
-En uso de esta facultad, el Tesorero, o quien éste designe, podrá celebrar, otorgar, ejecutar o suscribir los actos, contratos y operaciones que sean necesarios para proceder a la oportuna e íntegra implementación y ejecución del objetivo indicado; así como pagar los intereses, comisiones, honorarios y gastos que procedan y efectuar las provisiones de fondos que se requieran.
+1.- Reemplázanse los artículos 3º a 7 por los siguientes:
 
 #### Artículo 3º
 
@@ -122,21 +122,7 @@ La contabilidad de los recursos fiscales y la preparación de estados financiero
 
 Sin perjuicio de lo anterior, la administración de los Recursos Fiscales Administrados por el Agente Fiscal tendrá como instancias de supervisión y control interno las que determine el Agente Fiscal en los términos que se establecen en su Ley Orgánica Constitucional.
 
-#### Artículo 8º
-
-El Banco Central, de conformidad con lo previsto por el artículo 66 de su Ley Orgánica Constitucional, mantendrá reserva respecto de las negociaciones, operaciones, actos o contratos realizados en virtud de la Agencia Fiscal, en los términos establecidos en dicha disposición legal.
-
-No obstante, de acuerdo a lo previsto en la norma legal citada, el Banco Central podrá publicar información agregada para fines estadísticos o bien proporcionar o hacer pública información a terceros sólo por instrucción explícita del Ministro de Hacienda o de quien éste designe.
-
-En todo caso, el Banco Central estará facultado para publicar un informe anual sobre su gestión de los Recursos Fiscales Administrados por el Agente Fiscal, que se referirá a las siguientes materias:
-
-- **a)** Los aspectos esenciales de las Directrices de Inversión;
-
-- **b)** Retornos absolutos y relativos;
-
-- **c)** Indicadores de riesgo; y
-
-- **d)** Costos de la Agencia Fiscal. Asimismo, podrá publicar los montos globales de los Recursos Fiscales Administrados por el Agente Fiscal, en los términos y condiciones que se establezcan en las Directrices de Ejecución.
+2.- Reemplázase el artículo 9º por el siguiente:
 
 #### Artículo 9º
 
@@ -158,51 +144,13 @@ Tratándose de los servicios señalados en las letras
 
 Las características y condiciones de los pagos correspondientes a la retribución señalada en este artículo serán determinadas por el Ministro de Hacienda al menos anualmente, a más tardar el 31 de octubre de cada año para el período de retribución siguiente, para lo cual el Agente Fiscal le deberá enviar su estimación de gastos y costos para el período de retribución siguiente con, al menos, noventa días corridos de anticipación a esa fecha. La modalidad de cobro de la retribución será mediante su deducción de los Recursos Fiscales Administrados por el Agente Fiscal o su cargo a los mismos, de acuerdo a lo señalado en la letra (f) del artículo 4º.
 
-#### Artículo 10
-
-Conforme al artículo 109 de la Constitución Política de la República en relación con artículo 27 de la Ley Orgánica Constitucional del Banco Central, el Agente Fiscal no puede otorgar ni otorgará garantía alguna en relación con la administración de recursos materia del decreto o de cualquier otra suma de dinero resultante o derivada de obligaciones contraídas por el Fisco conforme a la misma. Por lo anterior, en caso alguno lo dispuesto en este decreto podrá ser entendido o interpretado como una garantía del Banco Central de Chile para concurrir, en todo o en parte, al pago de dichos compromisos u obligaciones.
-
-#### Artículo 11
-
-El Banco Central responderá del desempeño de la Agencia Fiscal conforme a lo establecido en el presente decreto supremo y, en lo no previsto por éste, a las reglas de derecho aplicables según la legislación general.
+3.- Reemplázase el inciso primero del artículo 12 por el siguiente:
 
 #### Artículo 12
 
 La vigencia de esta Agencia Fiscal regirá a contar de su aceptación por parte del Banco Central de Chile y hasta que alguna de las partes manifieste su intención de ponerle término mediante comunicación escrita dirigida a la otra con una anticipación mínima de 60 días corridos a la fecha en que se haga efectivo dicho término.
 
-Lo anterior es sin perjuicio de la facultad del Banco Central para poner término en cualquier tiempo a la Agencia Fiscal en caso que Tesorería no adopte las medidas necesarias para subsanar el déficit de fondos necesarios para el oportuno e íntegro pago de las obligaciones contraídas conforme al encargo conferido, dentro del plazo de 10 días corridos contado desde la comunicación indicada en el párrafo final del artículo 4º letra (f) de este Decreto. Esta facultad podrá ser ejercida dentro del plazo de 30 días corridos contado desde el vencimiento del plazo de 10 días corridos antes señalado. Asimismo, el Ministro de Hacienda estará facultado para poner término en cualquier tiempo a la Agencia Fiscal en caso de así estimarlo procedente. Con todo, en ambos casos el Banco Central continuará como Agente Fiscal para el solo efecto de dar cumplimiento a las instrucciones que le imparta el Ministro de Hacienda o quien éste designe, para el traspaso o liquidación de las inversiones efectuadas con los Recursos Fiscales Administrados por el Agente Fiscal, así como para rendir la cuenta indicada en el Artículo siguiente.
-
-En todo caso, el Ministro de Hacienda y el Agente Fiscal podrán, de mutuo acuerdo, poner término a la Agencia Fiscal en cualquier momento, con efecto desde la fecha que determinen.
-
-#### Artículo 13
-
-El Banco Central rendirá la cuenta final correspondiente al desempeño de la Agencia Fiscal, dentro del plazo de 90 días corridos contado desde la fecha de conclusión de la administración de los Recursos Fiscales Administrados por el Agente Fiscal.
-
-La cuenta señalada se entenderá rendida, para todos los efectos legales y reglamentarios a que haya lugar, mediante la entrega al Ministro de Hacienda, de los siguientes documentos y antecedentes:
-
-(a) un registro completo del estado de movimientos y saldo de la o las cuentas corrientes, que comprenda los movimientos habidos desde el último informe periódico entregado y el saldo de dicho registro;
-
-(b) una copia del registro de las transacciones realizadas para la gestión de los Recursos Fiscales Administrados por el Agente Fiscal, a que se refiere la letra g) del artículo 4º de este decreto, que comprenda los movimientos habidos desde el último informe periódico entregado y el saldo de dicho registro;
-
-(c) un informe de cierre respecto de la evaluación y los resultados de la gestión encomendada que abarque el último período no informado aún conforme al Decreto y a las Directrices de Ejecución;
-
-(d) la transferencia a la o las cuentas corrientes o, en su defecto, a la cuenta corriente bancaria que designe por escrito Tesorería, de los recursos fiscales remanentes que permanecían invertidos en instrumentos a nombre del Fisco; salvo que el Ministro de Hacienda opte por que Tesorería mantenga dichas inversiones bajo su administración, en cuyo caso sólo se transferirán las inversiones cuando corresponda;
-
-(e) la revocación de sus poderes ante los Custodios y/o Administradores Externos contratados por el Agente Fiscal, en los casos en que corresponda; y
-
-(f) la información adicional que se requiriese de acuerdo a las Directrices de Ejecución.
-
-Por su parte, la Tesorería deberá entregar al Banco Central copia firmada o un recibo, según corresponda, de los documentos, antecedentes, recursos o instrumentos que reciba por estos conceptos, a partir de lo cual se entenderá que asume la administración de los recursos fiscales correspondientes. Asimismo, la Tesorería deberá pagar al Agente Fiscal, en los términos señalados en las correspondientes Directrices de Ejecución y con cargo a los recursos fiscales, cualquier gasto o costo pendiente de pago a la fecha de término de la Agencia, incluida la retribución a la que se refiere el Artículo 9º.
-
-La rendición de la cuenta señalada deberá ser aprobada o rechazada por el Ministro de Hacienda dentro del plazo de 30 días corridos contados desde la presentación de la misma. En caso que el Ministerio de Hacienda formulase observaciones a la cuenta rendida, el Banco Central deberá acompañar los documentos complementarios que sean solicitados dentro de los 30 días corridos desde la fecha de comunicación de tal solicitud. El Ministro de Hacienda, dentro del plazo de 15 días corridos contados desde la presentación de los documentos complementarios, deberá aprobar o rechazar la nueva rendición de cuenta, salvo que formularen nuevas observaciones, en cuyo caso el Banco Central deberá acompañar los documentos complementarios que sean solicitados dentro de los 15 días corridos desde la fecha de comunicación de tal solicitud. En este último caso, se repetirá este proceso hasta que las observaciones queden resueltas. Las observaciones que se hagan a dicha rendición de cuenta deberán fundarse en cuestiones pertinentes a las informaciones indicadas en este Artículo.
-
-Con todo, una vez transcurrido el último plazo señalado sin nuevas observaciones, dicha cuenta se entenderá aprobada para todos los efectos legales y reglamentarios a que haya lugar, cesando, a partir de ese momento, toda responsabilidad del Banco Central respecto de la Agencia Fiscal encomendada conforme al presente Decreto Supremo.
-
-#### Artículo 14
-
-Agrégase en el artículo 6º del decreto supremo Nº 1.009, de 1978, del Ministerio de Hacienda, el siguiente inciso segundo, nuevo:
-
-"Asimismo, las autorizaciones a que se refiere el artículo 1º de este decreto regirán y le serán aplicables al Fisco cuando, de acuerdo con el artículo 12 de la ley Nº 20.128, se celebren contratos que digan relación con la inversión de los recursos fiscales a que se refiere el mencionado artículo, en la medida en que dichos contratos sean celebrados con contrapartes extranjeras o internacionales o que tengan la sede principal de sus negocios fuera de Chile.".
+4.- Agrégase el siguiente artículo 15, nuevo:
 
 #### Artículo 15
 
@@ -242,6 +190,42 @@ Las Directrices de Ejecución deberán señalar expresamente en cada oportunidad
 
 La retribución del Agente Fiscal por el ejercicio de las funciones que se le encomienden en virtud de este artículo se regirá por lo previsto en el artículo 9º de este decreto, en lo que resulte aplicable.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Velasco Brañes, Ministro de Hacienda.
+#### Artículo segundo
 
-Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
+Las Directrices de Ejecución dictadas antes de la fecha de entrada en vigor de este decreto modificatorio permanecerán vigentes, en tanto no sean modificadas por el Ministro de Hacienda.
+
+Tratándose del Portafolio Gestionado Externo y hasta el 31 de diciembre de 2013, la Agencia Fiscal encomendada al Banco Central de Chile podrá contemplar también, en forma adicional a las funciones descritas en el artículo 15, una o más de las siguientes funciones, con sujeción a los términos de las Directrices de Ejecución vigentes y aquellas que pudieren dictarse antes de la fecha referida para tener aplicación exclusivamente durante dicho período:
+
+(i) Recabar del o de los administradores externos de los recursos fiscales un registro de las transacciones y demás operaciones realizadas por dichos administradores externos durante el período correspondiente, con la periodicidad y términos que se determine en las Directrices de Ejecución y conforme a los estándares que la industria normalmente aplica con respecto a inversiones en el mismo tipo de activos de que se trate;
+
+(ii) Efectuar la supervisión, el seguimiento y la evaluación del desempeño del o los administradores externos, conforme a las pautas y criterios de evaluación determinados en las Directrices de Ejecución;
+
+(iii) Informar al Ministro de Hacienda y al Tesorero, o a quien éstos designen, la posición diaria de las inversiones efectuadas con los recursos fiscales, en los términos que se establezcan en las respectivas Directrices de Ejecución; entregar al Ministro de Hacienda y al Tesorero reportes mensuales, trimestrales y anuales de la gestión del portafolio de recursos fiscales objeto de la Agencia Fiscal y la evaluación del desempeño de los administradores externos; y
+
+(iv) Desempeñar las funciones previstas en la letra (b) del artículo 4º del decreto supremo Nº 1.383, de 2006.
+
+En caso que, al 31 de diciembre de 2013, la o las Directrices de Ejecución no se ajusten a lo establecido en el artículo 15 del decreto supremo Nº 1.383, de 2006, a partir de esa fecha y en lo referente al Portafolio Gestionado Externo, el Agente Fiscal sólo cumplirá las funciones previstas en dicho artículo 15 y en los términos previstos en el mismo.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Julio Dittborn Cordua, Subsecretario de Hacienda.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto Nº 1.618, de 2012, del Ministerio de Hacienda
+
+Nº 21.372.- Santiago, 9 de abril de 2013.
+
+Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se modifica el decreto Nº 1.383, de 2006, de esa Secretaría de Estado -que, entre otras materias, delega la representación del Fisco para la inversión de los recursos fiscales que indica y designa al Banco Central de Chile en carácter de Agente Fiscal-, por encontrarse ajustado a derecho, pero cumple con hacer presente que lo dispuesto en la letra i) de su artículo 4º, sobre el carácter de rendición de cuentas que tendrán los informes a que se refiere ese literal, es sin perjuicio de lo prescrito por la resolución Nº 759, de 2003, que Fija Normas de Procedimiento sobre Rendición de Cuentas, de este origen.
+
+Con el alcance que antecede se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Hacienda
+
+Presente.
