@@ -876,7 +876,7 @@ la altura máxima será de 7 metros. Las
 
 edificaciones deberán cumplir con un
 
-distanciamiento mínimo a medianeros de 6 m.
+distanciamiento mínimo a medianeros de 4 m.
 
 b.5 Rasantes: 70°
 
@@ -954,7 +954,7 @@ una altura máxima de 10,5 metros. Las
 
 edificaciones deberán cumplir con un
 
-distanciamiento mínimo a medianeros de 6 m.
+distanciamiento mínimo a medianeros de 4 m.
 
 b.5 Rasantes: 70°
 
@@ -1451,6 +1451,44 @@ b.7 Arborización mínima al interior del predio:
 b.8 Estacionamientos: 2 por vivienda.
 
 b.9 Densidad máxima: 35 habitantes/hectárea.
+
+ZONA ZE 1 Normas especiales para lotes 13h, 13i, 13j, 13k, 13l, 13m, 13n, 13ñ, 13o y 13p del plano Nº V-7-396 SR catastro Huaso II, elaborado por el Ministerio de Bienes Nacionales con fecha octubre 1983. Las mismas normas se aplican para la porción del lote 13g que se localiza parcialmente en esta zona.
+
+b. Condiciones de subdivisión y edificación:
+
+b.2 Coeficiente de ocupación de suelo:
+
+Lotes con frente a Teniente Cruz Martínez Otras
+
+0.26 0.195
+
+b.3 Coeficiente de constructibilidad:
+
+Lotes con frente a Teniente Cruz Martínez Otras
+
+0,325 0,26
+
+b.4 Sistema de Agrupamiento, Alturas y
+
+Distanciamiento:
+
+Aislado con una altura máxima de 7 metros. Las
+
+edificaciones deberán cumplir con un
+
+distanciamiento mínimo a los medianeros de
+
+acuerdo a OGUC.
+
+b.6 Antejardín mínimo:
+
+Lotes con frente a Teniente Cruz Martínez Otras
+
+12 mts. 3 mts.
+
+b.9 Densidad máxima: 42 habitantes/hectárea
+
+El resto de las condiciones urbanísticas que rigen para estos lotes corresponden a las normas específicas de la Zona ZE 1
 
 ZONA ZE2
 
@@ -2370,7 +2408,7 @@ indicados precedentemente.
 
 b. CONDICIONES DE SUBDIVISION Y EDIFICACION:
 
-b.1 Superficie predial mínima: 3000 m2 con un
+b.1 Superficie predial mínima: 2100 m2 con un
 
 frente mínimo de 30 m.
 
@@ -2405,6 +2443,36 @@ Equipamiento Vivienda
 útil construida
 
 b.9 Densidad máxima: 120 habitantes/hectárea
+
+ZONA ZQ 3 Normas especiales para lotes 13a, 13b, 13c, 13d, 13e, 13f, 13q, l3r y l3s del plano Nº V-7-396 SR catastro Huaso II, elaborado por el Ministerio de Bienes Nacionales con fecha octubre 1983, que se localicen en esta zona. Las mismas normas se aplican para la porción del lote 13g que se localiza parcialmente en esta zona.
+
+b. CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN:
+
+b.2 Coeficiente de ocupación de suelo: 0,39
+
+b.3 Coeficiente de constructibilidad: 0,65
+
+b.4 Sistema de Agrupamiento, Alturas y
+
+Distanciamiento:
+
+Aislado con una altura máxima de 7 metros. Las
+
+edificaciones deberán cumplir con un
+
+distanciamiento mínimo a los medianeros de
+
+acuerdo a OGUC.
+
+b.6 Antejardín mínimo enfrentando Avenida Santa
+
+Teresita y Avenida Teniente Luis Cruz Martínez:
+
+8 metros. Lotes que enfrentan Callejón Vecinal 3
+
+metros.
+
+El resto de las condiciones urbanísticas que rigen para estos lotes corresponde a las normas específicas de la Zona ZQ 3
 
 ZONA ZI-1
 
