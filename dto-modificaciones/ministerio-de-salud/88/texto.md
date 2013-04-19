@@ -66,9 +66,9 @@ Los descriptores: libre, bajo aporte, reducido y liviano en colesterol sólo pod
 
 Los alimentos que usen los descriptores que a continuación se indican, deberán ceñirse a lo establecido en el artículo 113 de este reglamento:
 
-#### Artículo 2°
+#### Artículo 2º
 
-El presente decreto entrará en vigencia veinticuatro meses después de su publicación en el Diario Oficial.
+El presente decreto entrará en vigencia el 18 de octubre de 2013.
 
 #### Artículo Transitorio
 
