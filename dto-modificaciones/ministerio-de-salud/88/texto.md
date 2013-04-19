@@ -66,11 +66,11 @@ Los descriptores: libre, bajo aporte, reducido y liviano en colesterol sólo pod
 
 Los alimentos que usen los descriptores que a continuación se indican, deberán ceñirse a lo establecido en el artículo 113 de este reglamento:
 
-#### Artículo 2°
+#### Artículo 2º
 
 <!-- parte:9094282 -->
 
-El presente decreto entrará en vigencia veinticuatro meses después de su publicación en el Diario Oficial.
+El presente decreto entrará en vigencia el 18 de octubre de 2013.
 
 Artículo Transitorio: La autoridad sanitaria podrá, por resolución fundada, autorizar la comercialización de productos alimenticios que no cumplan las disposiciones de este decreto supremo en materia de rotulación, por un plazo máximo de hasta doce meses adicionales a la fecha de su entrada en vigor, siempre que la solicitud de prórroga ingrese a la correspondiente SEREMI antes del vencimiento de referido plazo de veinticuatro meses. Plazo que no será prorrogable.
 
