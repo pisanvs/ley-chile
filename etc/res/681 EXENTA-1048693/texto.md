@@ -4,7 +4,7 @@ Núm. 681 exenta.- Santiago, 31 de enero de 2013.- Vistos: El DS Nº 1 (V. y U.)
 
 Resolución:
 
-1°.- Llámase, hasta el 30 de abril de 2013, a postulación nacional en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, y del Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, en la alternativa de postulación colectiva con proyecto habitacional, para Proyectos de Integración Social, período en que los Serviu procederán directamente a la recepción de proyectos habitacionales y solicitudes de incorporación al proyecto e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
+1°.- Llámase, hasta el 31 de mayo de 2013, a postulación nacional en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, y del Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, en la alternativa de postulación colectiva con proyecto habitacional, para Proyectos de Integración Social, período en que los Serviu procederán directamente a la recepción de proyectos habitacionales y solicitudes de incorporación al proyecto e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
 Para la recepción de los proyectos habitacionales, no se exigirá que cuenten con Comprobante de Proyecto Ingresado ni que estén aprobados previamente antes de su presentación.
 
@@ -14,9 +14,9 @@ a) Como mínimo un 20% y hasta un 40% de familias que hayan sido
 
 beneficiadas en llamados del DS Nº49 (V. y U.), de 2011, o que
 
-cuenten con Certificado de Grupo Organizado Hábil (CGOH) al 31 de
+cuenten con Certificado de Grupo Organizado Hábil (CGOH) al 17 de
 
-diciembre de 2012 o que hayan sido beneficiadas con un subsidio para
+mayo de 2013 o que hayan sido beneficiadas con un subsidio para
 
 la adquisición de viviendas construidas conforme al Título XV del
 
@@ -468,6 +468,8 @@ En caso que no se cumpla con la ejecución, término y venta de las viviendas a 
 
 En caso que dos o más proyectos empaten en puntaje, se dará prioridad al proyecto que tenga el mayor promedio de ahorro, considerando para el cálculo el total de las familias presentadas asociadas al proyecto.
 
+De las condiciones obligatorias señaladas en la columna "Puntaje" de tabla precedente, el proyecto deberá cumplir con a lo menos tres de ellas.
+
 10.- Los Certificados de Subsidio correspondientes al DS Nº 1 y al DS Nº 49, ambos de Vivienda y Urbanismo, de 2011; a los subsidios para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero o a los del Programa Fondo Solidario de Vivienda II del Capítulo Segundo, ambos del DS Nº 174 (V. y U.), de 2005, se pagarán conforme a lo dispuesto en el artículo 33 del DS Nº 1 (V. y U.), de 2011.
 
 No se consideran anticipos a cuenta del pago del subsidio, lo que es aplicable a ambos Programas de Subsidio.
@@ -506,6 +508,6 @@ En caso de empate, se dirimirá conforme al procedimiento señalado en la Pauta 
 
 Con relación a la aprobación de los proyectos y nómina de familias seleccionadas asociadas al proyecto presentado, en cuanto a la publicación de resultados, se procederá conforme a lo señalado en el artículo 23 del DS N° 1 (V. y U.), de 2011.
 
-15.- Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 8.916 (V. y U.), de 2012, y que fueron aprobados técnicamente por la Comisión Evaluadora, pero que no cumplieron con los porcentajes mínimos de postulantes exigidos, tendrán plazo hasta el 30 de abril de 2013 para presentarlos, de una sola vez. Los postulantes presentados, en el caso del DS Nº 1 deberán ser beneficiarios de subsidio habitacional y en el caso de postulantes del DS Nº 49, contar con CGOH al 28 de diciembre de 2012.
+15.- Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 8.916 (V. y U.), de 2012, y que fueron aprobados técnicamente por la Comisión Evaluadora, pero que no cumplieron con los porcentajes mínimos de postulantes exigidos, tendrán plazo hasta el 31 de mayo de 2013 para presentarlos, de una sola vez. Los postulantes presentados, en el caso del DS Nº 1 deberán ser beneficiarios de subsidio habitacional y en el caso de postulantes del DS Nº 49, contar con CGOH al 17 de mayo de 2013.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
