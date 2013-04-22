@@ -6,14 +6,6 @@ D e c r e t o:
 
 1. Los vehículos a que se refieren los decretos supremos números 211, de 1991 y 54, de 1994, ambos del Ministerio de Transportes y Telecomunicaciones, que circulen en la Región Metropolitana y que hayan sido inscritos en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación con anterioridad al 1º de septiembre de 1992 o que estén dotados de motor diesel y cuyo año de fabricación sea 2004 o anterior, deberán aprobar un control cuatrimestral de emisión de contaminantes, de acuerdo al calendario siguiente:
 
-Ultimo dígito de la Meses en que corresponde
-
-patente única practicar el control de emisión
-
-de contaminantes
-
-0 enero, mayo y septiembre 1 abril, agosto y diciembre 2 mayo, septiembre y enero 3 junio, octubre y febrero 4 julio, noviembre y marzo 5 agosto, diciembre y abril 6 septiembre, enero y mayo 7 octubre, febrero y junio 8 noviembre, marzo y julio 9 diciembre, abril y agosto
-
 En el caso de vehículos homologados de acuerdo al procedimiento señalado en el decreto supremo Nº 54 de 1997, antes referido, la revisión cuatrimestral de gases, les será exigible conjuntamente con su primera revisión técnica.
 
 En todo caso, el Ministerio de Transporte y Telecomunicaciones podrá modificar la periodicidad y los calendarios de revisiones técnicas de este número, cuando las circunstancias lo hagan aconsejable; igualmente, podrá establecer controles adicionales de emisión de contaminantes.
