@@ -26,9 +26,11 @@ Apruébanse las modificaciones al recinto portuario del puerto de Talcahuano, de
 
 Modifícase el artículo 1 del decreto supremo Nº 44, de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que fija la delimitación del recinto portuario del puerto Talcahuano/San Vicente, en la siguiente forma:
 
-a) Sustitúyese el inciso primero por el siguiente: "Establécese como recinto portuario de la Empresa Portuaria Talcahuano San Vicente, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en planos Nº SVE-TC-9816, de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998 bajo el Nº 921 en la notaría de Valparaíso de don Alfonso Díaz S., y Nº TAL-RP-01-2010, de la Empresa Portuaria Talcahuano San Vicente, protocolizado con fecha 9 de diciembre de 2010 bajo el Nº 424, repertorio 2409/10, en la Notaría de Talcahuano de don Gastón Ariel Santibáñez Torres".
+a) Sustitúyese el inciso primero por el siguiente: "Establécese como recinto portuario de la Empresa Portuaria Talcahuano San Vicente, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en planos Nº SVE-TC-9816, de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998 bajo el Nº 921 en la notaría de Valparaíso de don Alfonso Díaz S., y Nº TAL-RP-01-2012, de la Empresa Portuaria Talcahuano San Vicente, protocolizado con fecha 26 de enero de 2012, bajo el Nº 33, repertorio 203/2012, en la Notaría de Talcahuano de don Gastón Ariel Santibáñez Torres".
 
 b) Sustitúyese el texto contenido entre los títulos "Puerto de Talcahuano" y "Puerto de San Vicente" por el siguiente:
+
+> **Nota.** El N° 2 del Decreto 165, Transportes, publicado el 22.04.2013, reemplaza diversos puntos de la letra b) de la presente norma.
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
