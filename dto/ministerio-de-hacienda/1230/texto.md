@@ -1098,17 +1098,13 @@ Internacional y todo tipo de
 
 El Tepual operaciones aduaneras.
 
-5.Paso Pérez Rosales Permanente Paso de personas y
+5. Aeródromo Permanente Paso de personas
 
-41º04'S operaciones de
+Balmaceda y todo tipo de
 
-71º49'W admisión y salida
+operaciones
 
-temporal de
-
-mercancías por
-
-turistas.
+aduaneras
 
 6.Paso Vuriloche Temporal Paso de personas y
 
@@ -1222,11 +1218,13 @@ Appeleg todo tipo de opera-
 
 71º33'W ciones aduaneras.
 
-5.Aeródromo Ocasional Paso de personas y
+5.Aeródromo Permanente Paso de personas
 
-Balmaceda todo tipo de opera-
+Balmaceda y todo tipo
 
-(Balmaceda) ciones aduaneras.
+de operaciones
+
+aduaneras
 
 6.Paso Huemules Permanente Paso de personas y
 
@@ -1306,11 +1304,11 @@ todo tipo de opera-
 
 ciones aduaneras.
 
-2. Puerto Cisnes Ocasional Paso de personas y
+2. Puerto Cisnes Permanente Paso de personas
 
-todo tipo de opera-
+y todo tipo de
 
-ciones aduaneras.
+operaciones aduaneras
 
 P. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUNTA ARENAS:
 
@@ -1604,15 +1602,15 @@ Cóndor en Argentina
 
 > **Nota.** NOTA 1: El Artículo único del DTO 13 Exento, Hacienda, publicado el 17.03.1999, agregó un nuevo punto habilitado al artículo 1º del decreto 294, incorporándose dicha modificación en el presente decreto.
 
-> **Nota.** NOTA 2: El DTO 86 EXENTO, Hacienda, publicado el08.04.1999 agregó un nuevo punto habilitado con el Nº 25 al presente artículo.
+> **Nota.** NOTA 2: El Decreto 86 EXENTO, Hacienda, publicado el 08.04.1999 agregó un nuevo punto habilitado con el Nº 25 al presente artículo.
 
-> **Nota.** NOTA 3: El artículo primero del DTO 151 exento, Hacienda, publicado el 21.06.1999, suprimió en el decreto 294 exento, Hacienda, Publicado el 22.09.1998 el Nº 13, modificación que se ha incorporado al presente texto.
+> **Nota.** NOTA 3: El artículo primero del Decreto 151 exento, Hacienda, publicado el 21.06.1999, suprimió en el decreto 294 exento, Hacienda, Publicado el 22.09.1998 el Nº 13, modificación que se ha incorporado al presente texto.
 
-> **Nota.** NOTA 4: El Art. segundo, del DTO 151 exento, Hacienda, publicado el 21.06.1999, modificó los numerales 5 y 6, letra N, del DTO 294, hacienda, publicado el 22.09.1998, en el sentido allí expresado, por lo que dicha modificación, debe entenderse incorporada al presente texto.
+> **Nota.** NOTA 4: El Art. segundo, del Decreto 151 exento, Hacienda, publicado el 21.06.1999, modificó los numerales 5 y 6, letra N, del Decreto 294, hacienda, publicado el 22.09.1998, en el sentido allí expresado, por lo que dicha modificación, debe entenderse incorporada al presente texto.
 
-> **Nota.** NOTA 5: El DTO 363 EXENTO, Hacienda, publicado el 16.12.1999 agregó un nuevo punto habilitado en la letra F con el Nº 18 al presente artículo.
+> **Nota.** NOTA 5: El Decreto 363 EXENTO, Hacienda, publicado el 16.12.1999 agregó un nuevo punto habilitado en la letra F con el Nº 18 al presente artículo.
 
-> **Nota.** NOTA 6: El DTO 565 Exento, Hacienda, publicado el 05.01.2004, modificó el artículo único del DTO 430 Exento, Hacienda, publicado el 21.08.2003, modificatorio de la presente norma, modificación que ha sido incorporada en el presente texto actualizado.
+> **Nota.** NOTA 6: El Decreto 565 Exento, Hacienda, publicado el 05.01.2004, modificó el artículo único del Decreto 430 Exento, Hacienda, publicado el 21.08.2003, modificatorio de la presente norma, modificación que ha sido incorporada en el presente texto actualizado.
 
 #### Artículo cuarto
 
