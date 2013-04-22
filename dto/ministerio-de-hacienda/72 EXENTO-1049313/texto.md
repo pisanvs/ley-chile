@@ -100,7 +100,7 @@ Arquitectos
 
 - Bruno Patricio Henríquez Barrera
 
-- Manuel Enrique Rojas Ramírez
+- Manuel Enrique Rojas Martínez
 
 - Marilú Ana Burgos Muñoz.
 
