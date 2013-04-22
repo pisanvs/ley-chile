@@ -16,15 +16,23 @@ Decreto:
 
 1.- Sustitúyese el número 5 de la letra N, del artículo 3º del decreto supremo de Hacienda Nº 1.230, del año 1989, por el siguiente:
 
-### 5. Aeródromo Balmaceda Permanente Paso de personas y todo tipo de
+### 5. Aeródromo Balmaceda Permanente Paso de personas
 
-operaciones aduaneras
+y todo tipo de
 
-2.- Sustitúyese el número 2 de la letra O, del artículo 3º del decreto supremo de Hacienda Nº 1.230, del año 1989, por el siguiente:
+operaciones
 
-### 2. Puerto Cisnes Permanente Paso de personas y todo tipo de
+aduaneras
 
-operaciones aduaneras
+2.- Sustitúyese el número 5 de la letra Ñ, del artículo 3º del decreto supremo Nº 1.230, del Ministerio de Hacienda, de 1989, por el siguiente:
+
+### 5. Aeródromo Balmaceda Permanente Paso de personas
+
+y todo tipo de
+
+operaciones
+
+aduaneras
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Julio Dittborn Cordua, Ministro de Hacienda (S).
 
