@@ -46,6 +46,12 @@ g) Promover la evaluación de nuevas y existentes tecnologías en salud en el á
 
 h) Desarrollar, implementar y mantener nuevas tecnologías de análisis informáticos en salud en el ámbito de acción del Instituto de Salud Pública.
 
+i) Revisar proyectos de investigación que se presenten que soliciten financiamiento interno o externo, que hayan sido previamente visados por la jefatura del respectivo Departamento;
+
+j) Llevar el registro y monitoreo de todos los estudios que se realicen en el Instituto, sea con financiamiento interno o externo.
+
+k) Ejercer las demás funciones que le encomiende la Dirección del Instituto.
+
 4. Incorpórese por la asesoría jurídica de este Instituto, el presente Departamento y sus funciones, en el texto refundido de la resolución exenta Nº335, de 25 de febrero de 2011.
 
 5.- La presente resolución comenzará a regir a contar del 1º de enero de 2012.
