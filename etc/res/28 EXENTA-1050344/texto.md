@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 28 EXENTA, DE 2013
+
+Por resolución exenta N° 28, del 29 de enero de 2013, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante vehículos taxis colectivos urbanos, ubicado en calle Luis Cruz Martínez N°528, de la comuna de Lota, provincia de Concepción, Región del Biobío, responsabilidad de la Empresa de Transportes Nueva Libertad S.A., rol único tributario N° 76.160.326-4, representada legalmente por don Luis Rigoberto Roa Ávila, RUT N° 6.103.805-1. El tipo de terminal es un terminal clasificado en "Categoría A-1" con capacidad de 37 vehículos, de acuerdo al artículo 45º bis del DS 212/92 del Ministerio de Transportes y Telecomunicaciones y a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxis colectivos urbanos, cuyo responsable es la Empresa de Transportes Nueva Libertad S.A., rol único tributario N° 76.160.326-4, responsable de la Línea 1 de la comuna de Lota, con recorrido Troncal: Abanico, Avenida La Paz, Aníbal Pinto, Luis Cruz Martínez; variante 1: Los Sauces, Avenida El Bosque, Aníbal Pinto, Abanico; variante 2: Calafquén, Condell, René Schneider, Ruta 160.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima de 37 vehículos, en conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+- **C)** El administrador del terminal será don Luis Rigoberto Roa Ávila, rol único tributario N° 6.103.805-1, con domicilio en calle Andalicán N°37, sector Playa Colcura, comuna de Lota. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.-
+
+Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
