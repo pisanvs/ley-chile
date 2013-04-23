@@ -862,7 +862,7 @@ Los concesionarios deberán realizar anualmente los balances que establezca la n
 
 El balance deberá incluir una verificación de los valores estimados, a través de un balance global en la hora de demanda máxima del sector de distribución, considerando las potencias ingresadas al sistema, las pérdidas de potencia y las potencias pagadas por todos quienes utilizan el sistema de distribución.
 
-Este cálculo deberá estar a disposición de cualquier empresa cuyo giro principal sea la comercialización, la producción, generación, transmisión o distribución de electricidad, y de cualquier consumidor final que se encuentre entre los casos señalados en el literal b) del artículo 283, y se informará en noviembre de cada año a la Superintendencia.
+INCISO DEROGADO.
 
 ### Párrafo 6 — . Cálculo del Monto de las Indemnizaciones y Peajes.
 
@@ -936,7 +936,7 @@ a) todas las líneas eléctricas de su propiedad que operen en tensiones superio
 
 b) todas las subestaciones e instalaciones que se utilicen para conectarse a las líneas indicadas, con su nombre, niveles de tensión y esquema. En el caso de transformadores con secundario en tensión superior a 400 Volts, se indicará su capacidad y la demanda máxima abastecida durante los últimos doce meses.
 
-La Superintendencia facilitará esta información a cualquier empresa cuyo giro principal sea la comercialización o la producción de electricidad, y a cualquier consumidor final que se encuentre entre los casos señalados en el literal b) del artículo 283.
+INCISO DEROGADO.
 
 La información anterior deberá ser actualizada en los períodos que fije la Superintendencia.
 
@@ -1788,15 +1788,11 @@ CAPITULO 2: CALIDAD DE SUMINISTRO
 
 #### Artículo 236
 
-En los sistemas eléctricos cuya potencia instalada supere los 1500 kW de capacidad de generación, en que se efectúe determinación de precios de nudo, la calidad de suministro exigida en cada una de las instalaciones de generación y de transmisión guardará estricta relación con la determinación del programa de obras de generación y transmisión, de mínimo costo total actualizado de abastecimiento, que se utiliza para la determinación de dichos precios.
+DEROGADO.
 
 #### Artículo 237
 
-Corresponderá a la Comisión llevar a efecto la simulación de la operación de cada sistema eléctrico, a fin de determinar el programa de obras a que se refiere el artículo anterior. Para este efecto, utilizará modelos matemáticos que reflejen la realidad con la mayor precisión posible. Salvo los casos en que la modelación del sistema incluya íntegra y exactamente las fallas intempestivas de los sistemas de transporte, para determinar el mínimo costo actualizado de abastecimiento, será necesario incluir en el programa de obras lo siguiente:
-
-a) En las instalaciones cuya falla intempestiva afecte significativamente la operación global, considerando la duración y la profundidad de la falla, se incluirán obras suficientes para cumplir con la calidad de servicio correspondiente a un criterio de seguridad de simple contingencia. Se entiende por simple contingencia, o ''n-1'', que ante la falla de un elemento del sistema de transmisión no se exceda las capacidades máximas de las instalaciones y que los voltajes permanezcan dentro de los rangos permitidos, bajo la hipótesis de que el resto del sistema no presenta fallas intempestivas, salvo aquellas que sean consecuencia directa de la falla del tramo mencionado. Para estos efectos, la condición normal de operación del resto del sistema debe considerar que partes de él puedan estar en mantenimiento conforme a los programas correspondientes. Para los efectos de este artículo, una norma técnica dictada por el Ministerio a proposición de la Comisión, determinará qué se entenderá por afectar significativamente la operación global y por condición normal de operación.
-
-b) En las instalaciones, se considerará una calidad de suministro conforme a lo dispuesto en los artículos 241 y siguientes y en las demás normas pertinentes.
+DEROGADO.
 
 #### Artículo 238
 
@@ -1908,9 +1904,7 @@ b) En todo punto de conexión a usuarios finales en tensiones iguales a media te
 
 c) En puntos de conexión a concesionarios de servicio público de distribución, la indisponibilidad aceptable en horas anuales será igual a la indisponibilidad aceptable de generación más la indisponibilidad aceptable de transmisión.
 
-La indisponibilidad aceptable de generación, será establecida por la Comisión con motivo del programa de obras a que se refiere el artículo 272 de este reglamento.
-
-La indisponibilidad aceptable de transmisión será la establecida por la Comisión para efectos del cálculo de factores de penalización, según se señala en el artículo 281.
+INCISO DEROGADO.
 
 Las interrupciones de suministro de duración inferior o igual a tres minutos, no deberán superar los límites que dictamine la norma técnica que al efecto establecerá el Ministerio, a proposición de la Comisión.
 
@@ -1994,23 +1988,17 @@ c) Si el producto de la potencia conectada del usuario, medida en megawatts y de
 
 #### Artículo 253
 
-Los precios máximos a que se refiere este Capítulo, serán calculados por la Comisión según los procedimientos que en cada caso se establecen, y fijados mediante decreto supremo del Ministerio, expedido bajo la fórmula ''por orden del Presidente de la República''.
-
-Sólo excepcionalmente se podrán fijar precios diferentes a los calculados por la Comisión, siempre que la Ley de Presupuestos del sector público autorice la compensación a que se refiere el inciso siguiente y considere los recursos presupuestarios pertinentes, a través de la creación de un ítem especial en la Partida Tesoro Público. En este caso, la fijación deberá efectuarse mediante decreto supremo fundado, dictado por el Presidente de la República, a través del Ministerio de Economía, Fomento y Reconstrucción, suscrito además, por el Ministro de Hacienda.
-
-En el evento de fijación excepcional a que se refiere el inciso anterior, el Fisco deberá compensar mensualmente a los concesionarios afectados, con cargo al ítem señalado, en un monto equivalente a la diferencia entre la facturación efectiva registrada en el respectivo mes y la que hubiere resultado en igual período, de haberse publicado los precios calculados por la Comisión.
-
-Esta compensación deberá efectuarse dentro del plazo de treinta días contado desde la presentación de los antecedentes ante el Ministerio, por parte de los afectados. En todo caso, si transcurridos sesenta días desde la presentación los concesionarios no recibieren la compensación, por el solo ministerio de la ley, serán aplicables retroactivamente las tarifas calculadas por la Comisión.
+DEROGADO.
 
 #### Artículo 254
 
-Las empresas eléctricas de generación y de transporte, sean o no concesionarias, que efectúen ventas sometidas a fijación de precios, tendrán siempre derecho a que la tarifa fijada por el Ministerio sea como mínimo la que resulte siguiendo el procedimiento de los artículos 282 y siguientes.
+INCISO DEROGADO.
 
 Los concesionarios de servicio público de distribución, que operen en sistemas eléctricos de capacidad instalada de generación superior a 1.500 kilowatts, tendrán siempre derecho a obtener con la tarifa fijada, una rentabilidad económica mínima, para el conjunto de todas las empresas que operen en dichos sistemas, igual a la tasa de actualización de 10% real anual menos cinco puntos, esto es, al 5% real anual. El procedimiento para calcular la rentabilidad económica será el establecido en el artículo 303.
 
 #### Artículo 255
 
-En caso que las empresas o concesionarios señalados en el artículo anterior consideren que las tarifas fijadas por el Ministerio causan perjuicio a sus legítimos derechos o intereses, podrán recurrir ante la justicia ordinaria, reclamando la indemnización que fuere procedente, conforme con las reglas generales aplicables a dicho tipo de demandas.
+DEROGADO.
 
 #### Artículo 256
 
@@ -2066,251 +2054,101 @@ DEROGADO
 
 ### Párrafo 3 — . Suministros de Empresas Generadoras a Empresas Distribuidoras y entre Empresas Distribuidoras
 
-#### Artículo 268
+#### Artículo 268°
 
-En sistemas eléctricos de tamaño superior a 1.500 kilowatts de capacidad instalada de generación, la Comisión deberá calcular los precios de nudo. Dichos precios serán los máximos aplicables a los suministros de electricidad que se efectúen a partir de instalaciones de generación-transporte a empresas eléctricas que no dispongan de generación propia, en la proporción en que estas últimas efectúen, a su vez, suministros sometidos a fijación de precios.
+(DEROGADO)
 
-En el caso de subestaciones primarias de distribución, para calcular el precio de nudo se deberán considerar como instalaciones de transporte aquellas necesarias para llegar hasta la barra de baja tensión de una subestación de distribución primaria, incluida.
+#### Artículo 269°
 
-#### Artículo 269
+(DEROGADO)
 
-Los precios de nudo deberán reflejar un promedio en el tiempo de los costos marginales de suministro a nivel de generación-transporte para usuarios permanentes de muy bajo riesgo.
+#### Artículo 270°
 
-Un usuario es permanente si, durante a lo menos 12 meses consecutivos, tiene un solo proveedor o, si teniendo varios proveedores, cada uno tiene porcentajes constantes de participación en el suministro horario.
+(DEROGADO)
 
-Los precios de nudo, por su naturaleza, están sujetos a fluctuaciones derivadas de situaciones coyunturales, como variaciones en la hidrología, en la demanda, en los precios de combustibles y otros.
+#### Artículo 271°
 
-#### Artículo 270
+(DEROGADO)
 
-Los precios de nudo que resulten de la aplicación de este reglamento deberán ser fijados semestralmente, en los meses de abril y octubre de cada año, de acuerdo con los plazos y etapas que al efecto establece la ley y este reglamento.
+#### Artículo 272°
 
-#### Artículo 271
+(DEROGADO)
 
-La Comisión deberá calcular los precios de nudo para todas las subestaciones de generación-transporte desde las cuales se efectúe el suministro.
+#### Artículo 273°
 
-La estructura de los precios de nudo tendrá dos componentes: precio de nudo de la energía y precio de nudo de la potencia de punta.
+(DEROGADO)
 
-El nivel de los precios de nudo definitivos resultará de la comparación entre los precios de nudo calculados por la Comisión, revisados si corresponde, con los precios aplicados por las empresas eléctricas a los consumos no sometidos a regulación de precios durante los seis meses anteriores a la fijación. Para estos efectos, los generadores informarán a la Comisión, los precios que han aplicado a todos sus clientes o consumidores no regulados, correspondientes a cada uno de los respectivos puntos de retiro de potencia y energía.
+#### Artículo 274°
 
-#### Artículo 272
+(DEROGADO)
 
-Para efectos de calcular los precios de nudo, la Comisión deberá establecer un programa de obras de generación y transmisión, que minimiza en el sistema eléctrico el costo total actualizado de abastecimiento, correspondiente a la suma de los costos esperados actualizados de inversión, operación y racionamiento durante los siguientes diez años, y que cumpla con lo señalado en los artículos 276 y 277.
+#### Artículo 275°
 
-Para la determinación del programa de obras de generación y transmisión, la Comisión deberá basarse en lo siguiente: a) Previsión de demandas de potencia de punta y energía del sistema eléctrico para los siguientes diez años. Para efectos de esta previsión de demanda y su distribución geográfica y estacional, la Comisión deberá basarse en encuestas a clientes, información estadística, expectativas de variables macroeconómicas, o cualquier otro antecedente relevante para tal efecto.
+(DEROGADO)
 
-Una vez al año, y junto con el Informe Técnico preliminar correspondiente a la fijación de abril, la Comisión deberá remitir a las empresas generadoras que operan en los sistemas coordinados por un CDEC, un estudio de proyección de demandas de energía y potencia para los próximos diez años.
+#### Artículo 276°
 
-Las proyecciones de demanda deberán establecerse desagregadas por barra del sistema eléctrico correspondiente, así como agregadas y referidas a la subestación donde se determina el precio básico de la energía. Esta proyección podrá ser revisada en la siguiente fijación de modo de incorporar la evolución del consumo observado el último semestre, así como cambios en las expectativas económicas.
+(DEROGADO)
 
-b) Instalaciones existentes, para las cuales la Comisión podrá solicitar todos los antecedentes técnicos, económicos, comerciales o ambientales que considere necesarios para la modelación del sistema.
+#### Artículo 277°
 
-c) Instalaciones en construcción al último día hábil del mes de enero o del mes de julio, según sea el caso.
+(DEROGADO)
 
-Se entenderán en construcción aquellas unidades generadoras, líneas de transporte y subestaciones eléctricas que hayan obtenido sus respectivos permisos de construcción de obras civiles, o bien, hayan dado orden de proceder para la fabricación y/o instalación del equipamiento eléctrico o electromagnético para la generación, producción, transporte o transformación de electricidad.
+#### Artículo 278°
 
-Las empresas propietarias de instalaciones que cumplan alguna de las condiciones del inciso anterior, deberán declararlas en construcción a la Comisión y al respectivo CDEC, dentro de los primeros quince días de obtenido el correspondiente permiso o dada la referida orden de proceder, adjuntando los antecedentes y documentos justificativos que correspondan, y sus plazos estimados de entrada en operaciones. Sin perjuicio de lo anterior, una vez declarada en construcción, la Comisión podrá solicitar aquellos antecedentes técnicos, económicos o comerciales que considere necesarios para caracterizar la o las instalaciones en construcción.
+(DEROGADO)
 
-Una vez efectuada la primera comunicación, mientras no finalice la construcción de las instalaciones y de no mediar expresa solicitud de la Comisión, la empresa propietaria deberá informar a la Comisión y al respectivo CDEC el estado de avance de las obras, hasta el último día hábil del mes de enero o del mes de julio, según sea el caso.
+#### Artículo 279°
 
-d) Instalaciones recomendadas por la Comisión, separándolas entre centrales generadoras e instalaciones de transmisión.
+(DEROGADO)
 
-Para efectos de evaluar distintas instalaciones a recomendar, la Comisión considerará los antecedentes técnicos, económicos, comerciales o ambientales que estime necesarios para la modelación del sistema. Asimismo, la Comisión podrá basarse en antecedentes aportados por empresas, información estadística o estudios propios.
+#### Artículo 280°
 
-#### Artículo 273
+(DEROGADO)
 
-El cálculo de precios de nudo deberá considerar la calidad de servicio exigida en este reglamento y las normas técnicas vigentes y el costo de falla, tanto a nivel de generación como a nivel de transporte.
+#### Artículo 281°
 
-Para estos efectos, la calidad de servicio a nivel de generación se considerará a través de la componente de racionamiento que se indica en el artículo 276.
+(DEROGADO)
 
-En relación al transporte, dicha consideración se hará a través del cálculo de los factores de penalización, y será exigible por los usuarios que efectúen compras a precio de nudo.
+#### Artículo 282°
 
-#### Artículo 274
+(DEROGADO)
 
-Para calcular los precios de nudo, la Comisión determinará el precio básico de la energía en una o más subestaciones de referencia, denominadas subestaciones básicas de energía. Ellas corresponderán a las subestaciones en las cuales se calcula el costo marginal esperado de energía del sistema.
+#### Artículo 283°
 
-INCISO DEROGADO
+(DEROGADO)
 
-#### Artículo 275
+#### Artículo 284°
 
-El precio básico de la energía se calculará en las subestaciones básicas de energía, mediante la siguiente expresión :
+(DEROGADO)
 
-en que:
+#### Artículo 285°
 
-- n corresponde a períodos de igual duración, que totalizan entre 24 y 48 meses.
+(DEROGADO)
 
-- T es la tasa equivalente para cada período, de igual duración, a un costo de capital anual de 10% real anual.
+#### Artículo 286°
 
-- CMGi es el costo marginal esperado de la energía en las subestaciones básicas de energía en el período "i".
+(DEROGADO)
 
-- Di es la demanda total esperada en el período i.
+#### Artículo 287°
 
-La Comisión, para tal efecto, deberá determinar la operación esperada del sistema eléctrico que minimiza la suma del costo actualizado de operación y de racionamiento, durante el período de estudio, considerando básicamente:
+(DEROGADO)
 
-a) Programa de obras definido en el artículo 272;
+#### Artículo 288°
 
-b) Previsión de demandas de potencia de punta y energía del sistema eléctrico, definido en el artículo 272;
+(DEROGADO)
 
-c) Información proporcionada por la correspondiente Dirección de Operación, al último día hábil del mes de febrero o del mes de agosto, según sea el caso, referente a los stocks de agua en los embalses, afluentes en régimen natural en centrales hidroeléctricas o cualquier otra estadística hidrológica representativa de las respectivas centrales, considerando como mínimo, una muestra de 40 años hidrológicos, de modo que siempre incluya los datos correspondientes al año hidrológico anterior al que precede a aquél en que se esté efectuando la fijación de precios de nudo, incluido el último pronóstico de deshielo, según corresponda.
+#### Artículo 289°
 
-Adicionalmente, la Comisión podrá establecer una metodología para efectos de considerar muestras estadísticas más representativas;
+(DEROGADO)
 
-d) Costos de operación de las instalaciones, incluidos los costos de combustibles y otros costos variables que la Comisión estime pertinentes, expresados a precios existentes en los meses que corresponda según la fijación semestral de que se trate.
+#### Artículo 290°
 
-Para efectos de determinar los costos variables, la Comisión podrá considerar la información disponible en el mercado o producto de sus propios estudios, respecto de los distintos componentes del costo de combustible, así como aquellas restricciones técnicas, económicas, comerciales y ambientales que existan. Para tal efecto, las empresas deberán entregar toda la información solicitada en la forma y oportunidad que la Comisión establezca;
+(DEROGADO)
 
-e) Costos de racionamiento;
+#### Artículo 291°
 
-f) Tasa de descuento de 10% real anual y
-
-g) Otros antecedentes que la Comisión estime necesarios para la modelación de la operación del sistema eléctrico.
-
-#### Artículo 276
-
-Se entiende por costo de racionamiento el costo por kilowatthora incurrido, en promedio, por los usuarios, al no disponer de energía, y tener que generarla con generadores de emergencia, si así conviniera.
-
-Para efectos del cálculo esperado del costo de racionamiento, la Comisión deberá utilizar diferentes valores según niveles de déficit de suministro y, además, calcular un valor único representativo de los déficits más frecuentes. Este valor único será utilizado para los efectos del cálculo del precio básico de la energía y constituirá el costo de racionamiento a considerar en el caso de dictación del decreto de racionamiento a que se refiere el artículo 99 bis de la ley.
-
-Para establecer la componente de racionamiento de mínimo costo total actualizado de abastecimiento se tomará en cuenta:
-
-a) En el caso de centrales generadoras, los niveles de operación bajo diferentes condiciones, como en casos de mantenimiento, falta de disponibilidad forzada del todo o de parte del equipamiento, hidrología si corresponde, y, en general, situaciones en que las características técnicas de la electricidad caen por debajo de los estándares a que se refieren los artículos 241 y siguientes; y
-
-b) En el caso de líneas de transporte y subestaciones, la indisponibilidad programable y forzada de las instalaciones y, en general, situaciones en que las características técnicas de la electricidad caen por debajo de los estándares a que se refieren los artículos 241 y siguientes.
-
-El costo de racionamiento según niveles de déficit de suministro será determinado por la Comisión. Cada cuatro años, la Comisión deberá revisar dicho valor de modo de recoger los cambios que en el período experimenten los principales factores de costo que lo componen, considerando un estudio que contratará con un consultor externo, conforme a las disposiciones legales, reglamentarias y administrativas pertinentes.
-
-#### Artículo 277
-
-La Comisión calculará el precio básico de la potencia en una o más subestaciones. Para este efecto, determinará el tipo de unidades generadoras más económicas para suministrar potencia adicional durante las horas de demanda máxima anual del sistema eléctrico.
-
-El precio básico de la potencia de punta será igual al costo marginal anual de incrementar la capacidad instalada del sistema eléctrico con este tipo de unidades, incrementado en un porcentaje igual al margen de reserva de potencia teórico del sistema eléctrico.
-
-En sistemas eléctricos con capacidad instalada superior a 100.000 kilowatts, el margen de reserva teórico se calculará a través de la siguiente expresión:
-
-MRT = ( 100 / DUPA ) - 100 en que :
-
-- MRT es margen de reserva teórico
-
-- DUPA es la disponibilidad anual en % de las unidades más económicas para suministrar potencia adicional durante las horas de demanda máxima anual del sistema eléctrico.
-
-En los sistemas señalados en el inciso anterior, la Comisión determinará los costos de inversión y costos fijos de operación de la unidad de punta. Este estudio se efectuará cada cuatro años, considerando un estudio que contratará con un consultor externo, conforme a las disposiciones legales, reglamentarias y administrativas pertinentes". Dentro del período de cuatro años señalado, el valor del costo de inversión y operación deberá indexarse en cada fijación de precios semestral mediante fórmulas que den cuenta del cambio en el valor de sus principales componentes de costo.
-
-En sistemas eléctricos con capacidad instalada de generación inferior o igual a 100.000 kilowatts, el margen de reserva teórico será calculado considerando además de la disponibilidad indicada, a través del programa de obras óptimo señalado en el artículo 272, los eventuales efectos de sobreinstalación asociados a sistemas pequeños de generación.
-
-#### Artículo 278
-
-En cada una de las subestaciones del sistema eléctrico, la Comisión calculará el precio de nudo de la energía multiplicando el precio básico de la energía por su factor de penalización de la energía.
-
-En cada una de las subestaciones del sistema eléctrico, la Comisión calculará el precio de nudo de la potencia multiplicando el precio básico de la potencia por su factor de penalización de la potencia.
-
-#### Artículo 279
-
-Para los efectos del cálculo de los precios de nudo, la Comisión clasificará las subestaciones en principales y secundarias, según el grado de detalle que utilice para establecer dichos factores de penalización. Las subestaciones básicas de energía se considerarán subestaciones principales. Cada una de las subestaciones secundarias se asimilará a una subestación principal para fines de cálculo del precio de nudo de la energía y, además, a la misma o a otra subestación principal, para fines de cálculo del precio de nudo de la potencia de punta.
-
-#### Artículo 280
-
-El factor de penalización de la energía tendrá valor unitario en las subestaciones principales en que se establece el precio básico de la energía.
-
-El factor de penalización de la potencia de punta será unitario en aquellas subestaciones principales en que se establece el precio de la potencia de punta.
-
-#### Artículo 281
-
-El cálculo de los factores de penalización de energía y de potencia de punta se efectuará considerando las pérdidas marginales de transmisión de energía y de potencia de punta, respectivamente, para el sistema de transmisión operando con un nivel de carga tal, que dicho sistema esté económicamente adaptado.
-
-Se entiende por sistema económicamente adaptado, el que permite producir electricidad al menor costo.
-
-Para los efectos de este artículo, la Comisión establecerá en la modelación del sistema, a lo menos, la desagregación topológica del sistema de transmisión y la distribución geográfica del consumo. Para lo anterior, la Comisión establecerá la forma, oportunidad y fuente de información.
-
-#### Artículo 282
-
-Dentro de los primeros quince días de marzo y septiembre de cada año, la Comisión deberá poner en conocimiento de las empresas de generación y transporte que efectúen ventas sometidas a fijación de precios, así como del CDEC del sistema eléctrico correspondiente, un informe técnico del cálculo de los precios de nudo según el procedimiento indicado en los artículos anteriores y que explicite y justifique:
-
-a) La previsión de demanda de potencia y energía del sistema eléctrico;
-
-b) El programa de obras de generación y transmisión, existentes y futuras;
-
-c) Los costos de combustibles, costos de racionamiento y otros costos variables de operación pertinentes;
-
-d) La tasa de descuento utilizada en los cálculos, igual al 10% real anual;
-
-e) Los valores resultantes para los precios de nudo y sus fórmulas de indexación, para los efectos del artículo 270. Las fórmulas de indexación deberán representar la dependencia de los precios de nudo, respecto de los principales índices cuyas fluctuaciones afectan su cálculo semestral. Podrán ser considerados para esos efectos, las variaciones en la hidrología, en los precios de combustibles, el tipo de cambio y otros que la Comisión establezca;
-
-f) Las simplificaciones adoptadas para la modelación del sistema eléctrico, y
-
-g) La calidad de servicio de las instalaciones de transporte que se haya utilizado para el cálculo de los factores de penalización a que se refiere el artículo anterior.
-
-Las empresas y los CDEC deberán comunicar a la Comisión, antes del 31 de Marzo y del 30 de Septiembre de cada año, respectivamente, su conformidad u observaciones a este informe técnico.
-
-#### Artículo 283
-
-Las empresas a que se refiere el artículo anterior deberán comunicar a la Comisión, en la forma y oportunidad que ella establezca, antes del 31 de Marzo y del 30 de Septiembre de cada año, la potencia, la energía, el punto de suministro correspondiente y el precio medio cobrado, desagregado mensualmente, por las ventas a precio libre efectuadas durante los últimos seis meses, a cada uno de los siguientes clientes:
-
-a) Las empresas distribuidoras que dispongan de generación propia;
-
-b) Los clientes que se encuentren en cualquiera de las siguientes circunstancias:
-
-b.1) Cuando se trate de servicio por menos de doce meses.
-
-b.2) Cuando se trate de calidades especiales de servicio, a que se refiere el artículo 229.
-
-b.3) Cuando el momento de carga del cliente respecto de la subestación de distribución primaria sea superior a 20 Megawatts-kilómetro.
-
-b.4) Cuando su potencia conectada sea superior a 2.000 kW.
-
-c) Las empresas distribuidoras que no dispongan de generación propia, en la proporción en que ellas efectúen suministros no sometidos a fijación de precios. En este caso estas empresas distribuidoras deberán informar a su respectivo suministrador, por punto de suministro y antes del 31 de Marzo y del 30 de Septiembre, la potencia y energía destinada a los suministros no sometidos a fijación de precios, y el precio medio cobrado por el suministrador, desagregado mensualmente durante los últimos seis meses.
-
-Para efectos de informar los precios medios cobrados, las empresas deberán atenerse a las facturaciones correspondientes al período señalado y las comunicaciones del literal c), según corresponda, las que constituirán su respaldo.
-
-Para efectos de informar los precios medios cobrados, las empresas deberán atenerse a las facturaciones correspondientes al período señalado, las que constituirán su respaldo.
-
-La misma información, con su documentación de respaldo, deberá ser enviada por las empresas a la Superintendencia antes del 31 de marzo y del 30 de septiembre de cada año, a fin de que esta entidad verifique el cumplimiento de las disposiciones legales pertinentes.
-
-#### Artículo 284
-
-Se entenderá por precio medio efectivo, el cuociente entre la suma de las facturaciones efectuadas por todos los suministros de energía y potencia no sometidos a regulación de precios, y el total de la energía asociada a estos suministros, ambas ocurridas en el período de seis meses que culmina con el mes anterior al de la fijación de los precios de nudo.
-
-Precio medio teórico es el cuociente entre la facturación teórica, que resulta de valorar a precio de nudo todos los suministros de potencia y energía no sometidos a regulación de precios, en sus respectivos puntos de suministro y nivel de tensión, y el total de la energía asociada a estos suministros, ambas en el período de seis meses que culmina con el mes anterior al de la fijación de precios de nudo.
-
-#### Artículo 285
-
-La Comisión deberá revisar el cálculo de los precios de nudo, aceptando o rechazando total o parcialmente, las observaciones recibidas conforme al artículo 282. En todo caso, los precios de nudo definitivos que determine no podrán diferir en más de 10% de los precios correspondientes a suministros no sometidos a fijación de precios, conforme al artículo siguiente.
-
-#### Artículo 286
-
-Para efectos de establecer el nivel de los precios de nudo definitivos, la Comisión seguirá el siguiente procedimiento:
-
-a) A partir del precio medio efectivo de cada suministro no sometido a fijación de precio, se calculará un promedio considerando como factor de ponderación la energía facturada correspondiente a cada suministro;
-
-b) A partir del precio medio teórico de cada suministro no sometido a fijación de precio, que resulta de aplicar los precios de nudo calculados, se calculará un promedio considerando como factor de ponderación la energía facturada correspondiente a cada suministro;
-
-c) Si el promedio de precios calculados según lo estipulado en la letra b) precedente, no difiere en más de diez por ciento del promedio calculado según lo estipulado en la letra a), los precios de nudo calculados serán aceptados como precios de nudo definitivos. En caso contrario, la Comisión deberá multiplicar todos los precios de nudo calculados, por un coeficiente único, de modo de alcanzar el límite más próximo, superior o inferior, de la banda de diez por ciento.
-
-#### Artículo 287
-
-Para los efectos del artículo anterior, la Comisión deberá incluir los valores asociados a la totalidad de las ventas efectuadas a precio libre en el sistema durante los seis meses anteriores, considerando potencia, energía, el punto de suministro correspondiente y el precio medio efectivo cobrado.
-
-La Comisión recabará esta información, de todas las empresas generadoras que operen en el respectivo sistema, en el mismo plazo señalado en los artículos 282 y 283, pudiendo solicitar a la Superintendencia, cuando sea necesario, que la requiera bajo apercibimiento.
-
-#### Artículo 288
-
-La Comisión deberá comunicar al Ministerio y a las empresas eléctricas que correspondan, antes del 15 de Abril y 15 de Octubre de cada año, los precios de nudo y su fórmula de indexación, conjuntamente con un informe técnico que deberá contener el informe de cálculo de los precios de nudo, las observaciones de las empresas, y las modificaciones posteriores que se hubieren producido de acuerdo con lo establecido en los artículos precedentes.
-
-#### Artículo 289
-
-Los precios de nudo y las fórmulas de indexación, calculados conforme al procedimiento establecido en los artículos anteriores, serán fijados mediante decreto del Ministerio, expedido bajo la fórmula ''Por orden del Presidente de la República''.
-
-#### Artículo 290
-
-El decreto que fije los precios de nudo y sus fórmulas de indexación será publicado en el Diario Oficial, a más tardar el 30 de abril y el 31 de octubre de cada año.
-
-Una vez vencido el período de vigencia de los precios de nudo y mientras no sean fijados los del período siguiente, ellos podrán ser reajustados por las empresas eléctricas de generación-transporte, en el mismo porcentaje de variación que experimente el Indice de Precios al consumidor a contar de esa fecha, previa publicación en un diario de circulación nacional, con quince días de anticipación a su aplicación.
-
-#### Artículo 291
-
-Si dentro del período de vigencia de los precios de nudo, el precio de la potencia de punta o de la energía que resulte de aplicar las fórmulas de indexación que se hayan determinado en la última fijación semestral, experimenta una variación acumulada superior a diez por ciento, dichos precios serán reajustados.
-
-En el evento anterior, dentro del plazo de quince días contados desde el último día del mes en que se registró dicha variación, la Comisión deberá calcular e informar a las empresas de generación-transporte los nuevos valores de los precios de nudo que resulten de aplicar la fórmula de indexación correspondiente.
-
-Las empresas que efectúen suministros desde instalaciones de generación-transporte podrán aplicar los precios reajustados conforme al inciso anterior, previa publicación de ellos en un diario de circulación nacional, con quince días de anticipación. Dentro del mismo plazo señalado en el inciso anterior, la empresa deberá informar a la Comisión y a la Superintendencia su decisión sobre la aplicación de los precios reajustados, la que en el caso de hacerse efectiva deberá incluir una copia de la referida publicación en donde deberá establecer explícitamente la fecha en la cual los precios comenzarán a regir.
+(DEROGADO)
 
 ### Párrafo 4 — . Normas sobre Racionamiento.
 
