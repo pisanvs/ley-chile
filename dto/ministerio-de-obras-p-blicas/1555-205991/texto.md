@@ -90,7 +90,9 @@ Metrópoli de Concepción:
 
 . Autopista Talcahuano - Concepción - Colón 1, Av. Alonso de Rivera - J.M. García, Autopista General Bonilla y Acceso a Concepción, desde el Nudo O'Higgins hasta el límite urbano Metropolitano Oriente de Concepción.
 
-. Av. Jorge Alessandri y Puente Juan Pablo II, desde Ruta Interportuaria hasta la Ruta 160.
+. La vialidad que conecta el acceso al puerto de San Vicente con la Ruta O-60 y con la Ruta 154, a través de: Av. La Marina, Juan Antonio Ríos, Gran Bretaña, Acceso Norte a Puente Nº 4, Las Golondrinas, Costanera Ribera Norte 1 y Costanera Ribera Norte 2 y la prolongación de Acceso Norte Puente Nº 4 hacia el Sur, a través de: Acceso Norte Puente Nº 4, Puente Nº 4 sobre río Biobío, Acceso Sur Puente Nº 4 y Ruta San Pedro - Coronel, esta última desde Acceso Sur Puente Nº 4 en sector Estero Los Batros hasta el
+
+Acceso a Michaihue.
 
 . Puente Llacolén, desde Arturo Prat hasta Pedro Aguirre Cerda.
 
