@@ -66,6 +66,8 @@ K-22 Lora - Puente Lautaro.
 
 K-40 San Rafael - Villa Prat.
 
+Ruta K-55, Cruce Ruta 115 CH - Cruce K-15.
+
 K-60 Talca - Curepto.
 
 K-630 Chacarillas - Unihue.
@@ -130,6 +132,8 @@ TALCA:
 
 . El tramo urbano de la Ruta K-60, desde el límite urbano Poniente hasta su intersección con la Avenida Circunvalación Río Claro, a través de Camino a Pencahue.
 
+. El Sistema Vial que interconecta la Ruta 5 con las Rutas K-55 y 115-CH, desde el límite urbano oriente hasta la Ruta 5, a través de: 21 Norte, Av. Las Rastras, Av. Puertas Negras y Av. Pehuenche Sur.
+
 CAUQUENES:
 
 . El sistema vial urbano que interconecta la Ruta 128 y la Ruta M-50, desde el límite urbano Oriente hasta el límite urbano Norte, a través de Camino a Parral, Maipú, Avenida Sótero del Río Gundián, Bombero Venegas, Luis Manríquez y Camino a Chanco.
@@ -138,13 +142,7 @@ CURICÓ:
 
 . El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Sur, a través de Ruta 5 Sur.
 
-LINARES:
-
-. El tramo urbano de la Ruta 125, desde el límite urbano Poniente hasta Arturo Prat, a través de Av. Aníbal León Bustos, Chorrillos y Av. Presidente Ibáñez.
-
-. El tramo urbano de la Ruta L-11, desde el límite urbano Oriente hasta Av. Presidente Ibáñez, a través de Arturo Prat.
-
-. El tramo urbano de la Ruta L-25, desde el límite urbano Norte hasta Av. Presidente Ibáñez, a través de Januario Espinoza.
+ELIMINADO
 
 4º Declárense Caminos Públicos en las áreas urbanas de las siguientes Ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
