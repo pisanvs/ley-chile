@@ -1,0 +1,5 @@
+POLÍTICA DE CONDONACIÓN DE INTERESES PENALES Y SANCIONES PECUNIARIAS RESPECTO DE INFRACCIONES QUE INDICA; CONDONACIÓN DE RECARGOS POR MORA EN EL PAGO DEL IMPUESTO TERRITORIAL Y SUPERVISIÓN DE LA CONCESIÓN DEL BENEFICIO. DEROGA CIRCULARES QUE SEÑALA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 21, del 19 de abril de 2013, que establece política de condonación de intereses y sanciones pecuniarias impuestas por infracciones a las obligaciones tributarias contempladas en el artículo 97 Nº 1 inciso 1º, Nº 2 y Nº 11 del Código Tributario; condonación de recargos por mora en el pago del Impuesto Territorial y supervisión de la concesión del beneficio. Deroga circulares 42 de 2006, 60 y 64, ambas de 2010.
+
+El texto íntegro de esta circular será publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2013.
