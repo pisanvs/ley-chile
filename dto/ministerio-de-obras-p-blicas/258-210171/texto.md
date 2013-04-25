@@ -134,6 +134,8 @@ Barros Arana:
 
 . El tramo urbano de la Ruta S-60, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de 4 Sur.
 
+. El tramo urbano de la Ruta S-488, desde Calle 4 Sur hasta el límite urbano norte, a través de calle 3 Oriente.
+
 Capitán Pastene:
 
 . El tramo urbano de la Ruta R-90-P, desde el límite urbano Sur hasta el límite urbano Oriente; a través de: Camino a Tirúa, Av. Circunvalación, Manuel Rodríguez y Camino a Lumaco.
@@ -188,7 +190,7 @@ General López:
 
 Hualpín
 
-El tramo urbano de la Ruta S-60, desde el límite urbano norte hasta el límite urbano sur, a través de Avenida Esperanza, calles Manuel Plaza, Alessandri, Prat y Camino a Toltén.
+. El tramo urbano de la Ruta S-60, desde el límite urbano norte hasta el límite urbano sur, a través de Avenida Esperanza, calles Manuel Plaza, el par vial conformado por las calles Alessandri y O'Higgins, Prat y Camino a Toltén.
 
 Labranza:
 
