@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A " EQUITAS CAPITAL MANAGEMENT S.A."
+
+Certifico: Que por resolución exenta N° 123, de 18 de abril de 2013, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Equitas Capital Management S.A.", acordada en junta extraordinaria de accionistas celebrada el 30 de enero de 2013, y reducida a escritura pública con la misma fecha, ante don Juan Francisco Álamos Ovejero, Notario Público Suplente de la Cuadragésima Quinta Notaría de Santiago de don René Benavente Cash, domiciliado en calle Huérfanos Nº 979, piso 7, comuna de Santiago, consistente en:
+
+Aumentar el capital social de $136.094.238.- dividido en 1.000 acciones ordinarias, nominativas, sin valor nominal, todas de la misma serie y valor, íntegramente suscrito y pagado, a $189.615.858.- dividido en 1.400 acciones ordinarias, nominativas, sin valor nominal, todas de la misma serie y valor, mediante la emisión de 400 acciones de pago nominativas, por un monto de $53.521.620, las que se suscribirán y pagarán en dinero efectivo dentro del plazo de tres años contado desde la fecha de la junta.
+
+Santiago, 18 de abril de 2013.- Carmen Undurraga Martínez, Secretaria General.
