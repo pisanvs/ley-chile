@@ -262,12 +262,6 @@ A los jardines infantiles que se encuentren en el caso establecido en el inciso 
 
 El valor párvulo-mes a utilizarse para los cálculos de los artículos precedentes, en relación a los niveles educacionales, es el que se indica en los siguientes cuadros:
 
-NIVEL SALA CUNA
-
-.
-
-NIVELES MEDIO MENOR, MEDIO MAYOR, TRANSICIÓN Y GRUPOS HETEROGÉNEOS
-
 Si el jardín infantil se encuentra ubicado en un sector rural, el valor párvulo-mes a pagar se incrementará por el factor que corresponda, de acuerdo al porcentaje de asistencia al respectivo jardín, de los párvulos por cada nivel, según la siguiente tabla:
 
 Porcentaje de asistencia de párvulos
