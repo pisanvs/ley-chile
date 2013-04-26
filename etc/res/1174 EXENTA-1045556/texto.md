@@ -42,7 +42,7 @@ p) Y toda otra función que le sea asignada por parte del Superintendente o de s
 
 3º En el ámbito de sus labores, a la funcionaria designada le corresponderá dirigir la Sección de Personal y en tal condición estará facultada para impartir órdenes al personal que se encuentre bajo su dependencia, como asimismo, para evaluar su desempeño a través de los informes pertinentes y hoja de precalificación o anotaciones de mérito o de demérito. Del mismo modo, deberá realizar la calificación de las solicitudes que dicho personal formule en materia de vacaciones o permisos administrativos, sin perjuicio de las prerrogativas que competan a otras jefaturas. Corresponderá también, la supervisión del cumplimiento de la jornada laboral de los funcionarios bajo su dependencia.
 
-4º Asimismo, se establece que en caso de ausencia por cualquier causa de la Sra. Claudia Romero Toledo, asume las funciones directivas el funcionario Mauricio Aranda Oyarce, RUT 11.637.703-9.
+4º Asimismo, se establece que en caso de ausencia por cualquier causa de la Sra. Claudia Romero Toledo, asume las funciones directivas el funcionario Rodrigo Ruz Araya, Jefe Subdepartamento de Finanzas, grado 8º EF.
 
 5º Derógase cualquier normativa anterior que se contraponga a esta.
 

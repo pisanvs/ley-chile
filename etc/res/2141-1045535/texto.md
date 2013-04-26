@@ -32,7 +32,7 @@ h) Actos o comunicaciones, escritos o electrónicos, que requieran la intervenci
 
 3º En el ámbito de sus labores, al funcionario designado le corresponderá dirigir la Unidad de Experiencia del Cliente y en tal condición estará facultado para impartir órdenes al personal que se encuentre bajo su dependencia, como asimismo, para evaluar su desempeño a través de los informes pertinentes y hoja de precalificación o anotaciones de mérito o de demérito. Del mismo modo, deberá realizar la calificación de las solicitudes que dicho personal formule en materia de vacaciones o permisos administrativos, sin perjuicio de las prerrogativas que competan a otras jefaturas. Corresponderá, también, la autorización del cumplimiento de la jornada laboral de los funcionarios bajo su dependencia.
 
-4º En caso de ausencia o impedimento del Jefe de la Unidad para cumplir sus funciones, dichas labores serán asumidas por el Sr. Guillermo Arriagada Navarro, RUT 13.250.307-9, funcionario a contrata asimilado al grado 8º del Escalafón de Profesionales.
+4º En caso de ausencia o impedimento del Jefe de la Unidad para cumplir sus funciones, dichas labores serán asumidas por el funcionario Julio Melero Martínez, Jefe Unidad de Gestión Centralizada de Reclamos, grado 8º EF.
 
 5º Lo dispuesto en la presente resolución regirá respecto de toda consulta, reclamo o presentación relativa a las funciones asignadas a la Unidad de Experiencia del Cliente, que por cualquier medio sean interpuestos ante la Superintendencia o bien que sean derivados por los Directores Regionales respectivos.
 
