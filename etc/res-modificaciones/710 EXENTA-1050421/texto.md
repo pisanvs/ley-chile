@@ -1,0 +1,21 @@
+MODIFICA FECHA DE APLICACIÓN DE LOS PROTOCOLOS DE ENSAYOS PARA LA CERTIFICACIÓN DE LOS PRODUCTOS ELÉCTRICOS LÁMPARAS HALÓGENAS DE USO EN ILUMINACIÓN GENERAL QUE INDICA
+
+Núm. 710 exenta.- Santiago, 25 de marzo de 2013.- Vistos: El DFL Nº 4/20.018, que fija el texto refundido, coordinado y sistematizado de la Ley General de Servicios Eléctricos, en materia de energía eléctrica; el artículo 3º Nº 14, de la Ley Nº 18.410, Orgánica de esta Superintendencia; el artículo 4º, letra i), del decreto ley Nº 2.224, de 1978, modificado por la ley Nº 20.402, que crea al Ministerio de Energía; el decreto supremo Nº 298, de 2005, del Ministerio de Economía, Fomento y Reconstrucción; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1º Que mediante resolución exenta Nº 3.623, de fecha 28.12.2011, se estableció que para poder comercializar en el país los productos eléctricos denominados Lámparas halógenas de tungsteno para uso doméstico y propósitos similares de iluminación general, los fabricantes, importadores y comercializadores de los mismos, deben verificar el cumplimiento de los requerimientos mediante la realización de los ensayos establecidos en los protocolos de ensayos PE Nº 5/15 (Seguridad) y PE Nº 5/15-2 (Eficiencia), respectivamente, ambos de fecha 20.12.2011, y disponer con la certificación otorgada por algún Organismo de Certificación autorizado por SEC, contemplado a partir del 01.04.2013.
+
+2º Que mediante correos electrónicos ingresados al Departamento de Productos de esta Superintendencia, de fechas entre el 14.03.2013 y el 15.03.2013, de los principales importadores y comercializadores de estos productos, se solicitó a esta Superintendencia considerar una prórroga en la aplicación de los nuevos protocolos de Seguridad y Eficiencia, hasta que se obtenga la acreditación y autorización de algún Organismo de Certificación y Laboratorio de Ensayos para estos efectos.
+
+3º Que mediante información obtenida por esta Superintendencia de los diferentes Organismos de Certificación y Laboratorios de Ensayos, se constata que a la fecha no se dispone de las acreditaciones correspondientes para poder solicitar la autorización de tales entidades para efectos de poder realizar la certificación de estos productos, cuya situación actual se detalla en el cuadro siguiente:
+
+3º Que, en virtud de lo expuesto en los Considerandos 2º y 3º de esta resolución y teniendo en cuenta que los tiempos necesarios que se requieren para que los Laboratorios de Ensayos se implementen con la infraestructura y el equipamiento necesario, obtengan la acreditación ante el INN u otro organismo de acreditación internacional, según lo requerido en el DS Nº 298/2005 del Ministerio de Economía, Fomento y Reconstrucción y finalmente los tiempos necesarios de estos últimos, para la realización de ensayos y evaluación de sus resultados, esta Superintendencia ha determinado aplazar por seis meses la fecha de aplicación de los Protocolos de Ensayos para los productos eléctricos Lámparas halógenas de tungsteno para uso doméstico y propósitos similares de iluminación general.
+
+Resuelvo:
+
+1º Modifícase la fecha de aplicación para los Protocolos de Ensayos para la Certificación de Seguridad y Eficiencia correspondiente a los productos eléctricos aprobados mediante la resolución exenta Nº 3.623, de 2011, de acuerdo a la fecha que se señala a continuación:
+
+2º Para poder comercializar en el país los productos eléctricos indicados en la Tabla anterior, los fabricantes, importadores y comercializadores de los mismos, deberán verificar el cumplimiento de los requerimientos de seguridad y desempeño, mediante la realización de los ensayos aprobados a través de los protocolos de ensayos PE Nº 5/15 y PE Nº 5/15-2, de esta Superintendencia, según corresponda, con la certificación otorgada por algún organismo de certificación autorizado para tal efecto por SEC, a partir de la fecha de aplicación antes señalada.
+
+Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
