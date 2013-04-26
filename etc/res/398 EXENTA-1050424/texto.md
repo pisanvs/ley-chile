@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 398 EXENTA, DE 2013
+
+Res. exenta Nº 398 Gobernación Provincial Valdivia 25/03/2013, fija acceso peatonal Playa Río Iñaque comuna Máfil, provincia Valdivia, Región de Los Ríos, por propiedad de Emilio Eduardo Paiva Mulenbrock, ubicada en Darío Salas Nº 700, comuna Máfil, fojas 598 Nº 686 Registro Propiedad 1995 Conservador Bienes Raíces Mariquina, pegada cerco divisorio con propiedad de María Paz Núñez Lara, ubicada en Darío Salas Nº 690 comuna Máfil, fojas 580 Nº 782 Registro Propiedad 2003 Conservador Bienes Raíces Mariquina, ingresando a la propiedad de ésta en el sector de construcción metálica del señor Paiva y volver a la propiedad de este último hasta Playa Río Iñaque, 1,50 metros de ancho y largo aproximado 174,85 metros, singularizado en Plano Nº 14.105.-2533 C.R. Ministerio Bienes Nacionales. Demás estipulaciones en texto de res. extractada.-
+
+Macarena Toledo Smith, Gobernadora Provincial Valdivia.
