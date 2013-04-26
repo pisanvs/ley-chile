@@ -18,8 +18,6 @@ Resuelvo:
 
 1º Apruébanse los protocolos de análisis y/o ensayos de seguridad y desempeño, para la certificación de los productos eléctricos que se señalan en la Tabla siguiente:
 
-.
-
 2º Los textos íntegros de los protocolos individualizados en la presente resolución, se encuentran en esta Superintendencia a disposición de los interesados, y pueden ser consultados en el sitio web www.sec.cl.
 
 3º Los fabricantes nacionales, importadores y comercializadores de los productos eléctricos señalados en la presente resolución, previo a su comercialización en el país, deberán contar con los respectivos certificados de aprobación de seguridad y desempeño, a partir de las fechas de aplicación, según lo indicado en la Tabla del Resuelvo 1º de la presente resolución.
