@@ -68,7 +68,7 @@ Este reglamento empezará a regir a contar de la fecha de su publicación en el 
 
 #### Artículo 13
 
-El cliente se obliga a cumplir las disposiciones relativas a envíos peligrosos establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada envío postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones de cada servicio, las que se detallan en www.correos.cl.
+El Cliente se obliga a cumplir las disposiciones relativas a envíos peligrosos establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada envío postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones generales y particulares de los servicios postales, las que se encuentran disponibles en la web www.correos.cl y/o en las sucursales de la Empresa de Correos de Chile.
 
 2.- Déjese sin efecto a contar de la fecha de entrada en vigencia del presente Reglamento, la resolución exenta Nº337 de 3 de agosto de 1999, de la Empresa de Correos de Chile.
 
