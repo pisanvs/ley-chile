@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.005, de 19 de abril de 2013, de esta Subsecretaría, recházase la solicitud número 204103059, señalada en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 19 de abril de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
