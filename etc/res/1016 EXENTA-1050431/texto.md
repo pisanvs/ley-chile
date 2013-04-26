@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.016, de 22 de abril de 2013, de esta Subsecretaría, rectifícase el extracto de la resolución exenta Nº 937, de 2013, que otorgó a BRACPESCA S.A. un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Langostino colorado, en el sentido de señalar en su extracto que el nombre del armador es Bracpesca S.A., y no el que allí se señala.
+
+Valparaíso, 22 de abril de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
