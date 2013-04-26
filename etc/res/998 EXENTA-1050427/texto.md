@@ -1,0 +1,3 @@
+Por resolución exenta Nº 998, de 19 de abril de 2013, de esta Subsecretaría, rectifícase el numeral 6.- de la resolución exenta Nº 1.491, de 2012 y de esta Subsecretaría, que estableció la nómina definitiva de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refiere el artículo 3º de la ley Nº 20.560, en el sentido de reemplazar la individualización hecha al armador artesanal de la embarcación Mamita Inés para el recurso Pez espada, III Región, de conformidad a lo indicado en resolución extractada.
+
+Valparaíso, 19 de abril de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
