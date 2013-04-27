@@ -86,9 +86,13 @@ El Servicio de Registro Civil e Identificación deberá proporcionar al Servicio
 
 El domicilio electoral es aquel situado dentro de Chile, con el cual la persona tiene un vínculo objetivo, sea porque reside habitual o temporalmente, ejerce su profesión u oficio o desarrolla sus estudios en él. En el caso de los chilenos que residen en el extranjero, dicho vínculo se considerará respecto del tiempo en que residieron en Chile o de su lugar de nacimiento.
 
+No se podrá declarar como domicilio electoral la oficina o sede de un candidato o partido político, salvo que quienes lo declaren tengan una relación de trabajador dependiente con dicho partido o candidato.
+
+Tratándose de una residencia temporal, el vínculo objetivo deberá corresponder a la condición de propiedad o arriendo superior a un año del bien raíz por parte del elector, o de su cónyuge, sus padres o sus hijos.
+
 Se tendrá como domicilio electoral el último domicilio declarado como tal ante el Servicio de Registro Civil e Identificación o ante el Servicio Electoral.
 
-Para efectos del registro automático de las personas referidas en los artículos 5° y 6°, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación o ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda. En caso que este último domicilio se encuentre ubicado en el extranjero, el domicilio electoral corresponderá al último domicilio en Chile informado al Servicio de Registro Civil e Identificación y, a falta de éste, al lugar de nacimiento en Chile.
+Para efectos del registro automático de las personas referidas en los artículos 5° y 6°, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación o ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda. En caso que este último domicilio se encuentre ubicado en el extranjero, el domicilio electoral corresponderá al último domicilio en Chile informado al Servicio de Registro Civil e Identificación y, a falta de éste, al lugar o comuna de nacimiento en Chile. En ningún caso procederá la inscripción de una persona sin domicilio electoral en Chile o comuna de nacimiento en Chile.
 
 #### Artículo 11
 
@@ -164,6 +168,10 @@ Dentro de los cinco primeros días de cada mes el Ministerio de Justicia deberá
 
 Los órganos, servicios y tribunales señalados en este Párrafo, así como cualquier otra repartición que deba aportar datos para la conformación y actualización del Registro Electoral, deberán proporcionar todos los antecedentes que para este solo efecto requiera el Servicio Electoral y, en ningún caso, podrán excluir información, calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
 
+#### Artículo 21 bis
+
+Sin perjuicio de lo dispuesto en los artículos anteriores, cualquier elector podrá solicitar al Servicio Electoral la actualización del Registro Electoral, para lo cual acompañará los antecedentes fundantes de su petición.
+
 #### Artículo 22
 
 Entre los ciento ochenta y los noventa días anteriores a una elección o plebiscito, el Servicio Electoral deberá informar a los electores que su derecho a sufragio ha sido suspendido o que han sido inhabilitados para votar en la siguiente elección, con indicación de la causa que dio origen a dicha suspensión o inhabilidad, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral.
@@ -176,11 +184,11 @@ De las modificaciones de los datos electorales
 
 El Servicio Electoral modificará los datos de las personas inscritas en el Registro Electoral, considerando las siguientes circunstancias:
 
-a) Las solicitudes de cambio de domicilio electoral y las actualizaciones de domicilio electoral realizadas al renovar los inscritos su cédula de identidad.
+a) Las solicitudes de cambio de domicilio electoral y las actualizaciones de domicilio electoral realizadas al renovar los inscritos su cédula de identidad o pasaporte.
 
 b) Las rectificaciones de inscripciones de nacimiento de los ciudadanos, con indicación de los datos originales que fueron objeto de la rectificación.
 
-c) Cualquier otro cambio en los datos señalados en el artículo 8° de esta ley.
+c) Cualquier otro cambio o solicitud de cambio en los datos señalados en el artículo 8°.
 
 #### Artículo 24
 
@@ -200,7 +208,7 @@ El Servicio Electoral podrá convenir con otros organismos públicos la recepci�
 
 #### Artículo 27
 
-Para todos los efectos legales se considerará como domicilio electoral el último declarado por el elector ante el Servicio de Registro Civil e Identificación o ante el Servicio Electoral.
+Sin perjuicio de lo señalado en el inciso tercero del artículo 10, el domicilio electoral será aquel que registre el Servicio Electoral.
 
 ### Párrafo 6°
 
@@ -244,7 +252,7 @@ Este Padrón se ordenará en forma alfabética y contendrá los nombres y apelli
 
 Junto con este Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará una Nómina Provisoria de Inhabilitados, que incluirá a las personas inscritas que se encuentren inhabilitadas para votar en la correspondiente elección o plebiscito, con indicación de la causal que dio lugar a dicha condición.
 
-El Padrón Electoral y la Nómina Provisoria de Inhabilitados son públicos, sólo en lo que se refiere a los datos señalados en el inciso tercero. Los partidos políticos podrán tener acceso y copia de ellos en medios magnéticos o digitales, no encriptados y procesables por software de general aplicación, debiendo pagar sólo los costos directos de la reproducción. Lo mismo se aplicará para los candidatos independientes, respecto de las circunscripciones electorales donde participan.
+El Padrón Electoral y la Nómina Provisoria de Inhabilitados son públicos, sólo en lo que se refiere a los datos señalados en el inciso tercero, debiendo los requirentes pagar únicamente los costos directos de la reproducción. Los partidos políticos recibirán del Servicio Electoral, dentro de los cinco días siguientes a su emisión, en forma gratuita, copia de ellos en medios magnéticos o digitales, no encriptados y procesables por software de general aplicación. Lo mismo se aplicará para los candidatos independientes, respecto de las circunscripciones electorales donde participen.
 
 Sólo las personas inhabilitadas podrán conocer, además, la respectiva causal que las inhabilita.
 
@@ -294,7 +302,9 @@ Cada elector podrá figurar sólo en un Padrón de Mesa y una vez en él.
 
 #### Artículo 37
 
-Veinte días antes de la elección o plebiscito, el Servicio Electoral en forma gratuita pondrá a disposición de los partidos que participan en la elección o plebiscito, un listado impreso de cada Padrón de Mesa, que contendrá los nombres, apellidos y número de rol único nacional de los electores. Igual información deberá entregarse a los candidatos independientes respecto de las circunscripciones electorales donde participan.
+Los partidos políticos podrán solicitar al Servicio Electoral, con al menos sesenta días de anticipación a una elección o plebiscito, un listado impreso de cada Padrón de Mesa, que contendrá los nombres, apellidos y número de rol único nacional de los electores. Los candidatos independientes podrán solicitar dicha información respecto de las circunscripciones electorales donde participen.
+
+El Servicio Electoral deberá entregar el referido listado con al menos veinte días de anticipación a una elección o plebiscito.
 
 ### Párrafo 2°
 
@@ -372,7 +382,7 @@ El Tribunal ordenará la incorporación del reclamante o electores afectados al 
 
 Las sentencias de los Tribunales Electorales Regionales serán apelables por el requirente o por el Servicio Electoral dentro del plazo de tres días, contado desde la fecha de su incorporación en el Estado Diario del respectivo Tribunal, ante el Tribunal Calificador de Elecciones, el cual deberá fallar dentro de un plazo de cinco días de presentada la apelación.
 
-Ejecutoriada la sentencia, el Tribunal, de oficio o a petición de parte, la comunicará inmediatamente al Servicio Electoral, el cual procederá a cumplirla sin más trámite.
+Ejecutoriada la sentencia, el Tribunal remitirá al Servicio Electoral, de oficio, copia fiel e íntegra de aquélla, la que deberá individualizar a los electores que se deban incorporar. El Servicio Electoral procederá a cumplirla sin más trámite, siempre que a la fecha de recepción faltaren, a lo menos, tres días para el vencimiento del plazo a que se refiere el inciso primero del artículo 33.
 
 #### Artículo 48
 
@@ -394,7 +404,7 @@ La resolución se expedirá dentro de los cinco días siguientes a la audiencia 
 
 Las sentencias de los Tribunales Electorales Regionales, serán apelables por el requirente, el o los afectados y el Servicio Electoral, dentro del plazo de tres días, contado desde la fecha de incorporación en el Estado Diario del Tribunal, ante el Tribunal Calificador de Elecciones, el cual deberá resolver la apelación dentro del plazo de cinco días.
 
-Ejecutoriada la sentencia que ordene la exclusión será notificada al Servicio Electoral para que efectúe la cancelación correspondiente.
+Ejecutoriada la sentencia, el Tribunal remitirá al Servicio Electoral, de oficio, copia fiel e íntegra de aquélla, la que deberá individualizar a los electores que se deban excluir. El Servicio Electoral procederá a cumplirla sin más trámite, siempre que a la fecha de recepción faltaren, a lo menos, tres días para el vencimiento del plazo a que se refiere el inciso primero del artículo 33.
 
 #### Artículo 49
 
@@ -442,7 +452,7 @@ Sufrirá la pena de reclusión menor en su grado mínimo y multa de una a tres u
 
 1.- El que, al momento de solicitar cambio de domicilio electoral o la acreditación del avecindamiento, suplantare a otra persona.
 
-2.- El que proporcionare datos falsos al solicitar cambio de domicilio electoral o la acreditación del avecindamiento.
+2.- El que, al declarar o actualizar domicilio electoral o la acreditación del avecindamiento, proporcione datos falsos o un domicilio electoral diferente de los permitidos en el artículo 10.
 
 3.- El que ocultare, sustrajere o destruyere una solicitud de cambio de domicilio o una solicitud de acreditación de avecindamiento o los antecedentes que la acompañan.
 
@@ -456,7 +466,7 @@ Sufrirá la pena de presidio menor en su grado medio, multa de diez a cincuenta 
 
 2.- El que maliciosamente modifique el domicilio electoral informado por los electores al recibir solicitudes de éstos o cuando lo informen al obtener o renovar su cédula de identidad.
 
-3.- El que incite u organice a electores para proporcionar datos falsos al solicitar cambio de domicilio electoral.
+3.- El que incite, promueva, solicite u organice a los electores, a modificar su domicilio electoral, declarando uno nuevo con datos falsos o diferente de los permitidos en el artículo 10.
 
 4.- El que comercialice los datos del Registro Electoral o Padrón Electoral.
 

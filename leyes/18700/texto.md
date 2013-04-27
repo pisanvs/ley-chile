@@ -78,11 +78,13 @@ Asimismo, en las declaraciones se indicarán los nombres, la cédula de identida
 
 #### Artículo 8°
 
-En el caso de candidaturas independientes la determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse una elección. En caso de disolución de la Cámara de Diputados, se hará dentro de los tres días siguientes a la publicación del decreto de convocatoria.
+En el caso de candidaturas independientes la determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse una elección.
 
 Si en el período transcurrido desde la anterior elección periódica de Diputados se hubiese modificado el territorio de alguna circunscripción senatorial o distrito, el Director considerará la votación emitida en los territorios agregados o desmembrados, según fuere el caso.
 
 Un ciudadano sólo podrá patrocinar por elección una declaración para Diputado, una para Senador y una para Presidente de la República. Si suscribiere más de una, sólo será válida la que se hubiere presentado primero al Director.
+
+El Servicio Electoral otorgará las facilidades para que las candidaturas independientes, en forma previa a la declaración de candidaturas, puedan revisar si sus patrocinantes son personas que tienen la condición de ciudadanos independientes.
 
 #### Artículo 9°
 
@@ -236,9 +238,7 @@ Habrá plantillas disponibles en la Oficina Electoral de cada recinto en que fun
 
 El Servicio Electoral hará publicar en diarios de circulación en cada circunscripción senatorial o distrito, en su caso, los facsímiles de las cédulas con las cuales se sufragará. La publicación se hará el quinto día anterior a la fecha en que se realice el acto eleccionario o plebiscitario. En estas publicaciones el Servicio señalará las características materiales con que se han confeccionado las plantillas a que se refiere el artículo anterior, indicando con toda precisión su espesor, la dimensión de las ranuras y los demás datos que permitan conocerlas.
 
-El Servicio Electoral entregará a los partidos políticos, a los pactos electorales y a los candidatos independientes, el número de facsímiles de las cédulas con las cuales se sufragará que determine el Servicio. La entrega se hará dentro del plazo señalado en el inciso anterior.
-
-INCISO ELIMINADO.
+El Servicio Electoral entregará a los partidos políticos, a los pactos electorales y a los candidatos independientes, el número de facsímiles de las cédulas con las cuales se sufragará que determine el Servicio. La entrega se hará al décimo quinto día anterior a la elección.
 
 ### Párrafo 6°
 
@@ -320,7 +320,7 @@ Las Mesas Receptoras de Sufragios tienen por finalidad recibir los votos que emi
 
 #### Artículo 37
 
-El Servicio Electoral podrá fusionar aquellas mesas receptoras de sufragios que tengan menos de ciento setenta y cinco electores habilitados para votar al momento de determinarse el Padrón Electoral, con una o más mesas receptoras de sufragio de la misma circunscripción electoral, con el objeto de que funcionen conjuntamente como si fueran una sola mesa, siempre que el resultado de dicha fusión no signifique que la mesa resultante supere el número de trescientos cincuenta electores habilitados para votar.
+El Servicio Electoral podrá fusionar mesas receptoras de sufragios de la misma circunscripción electoral, con el objeto de que funcionen conjuntamente, como si fueran una sola mesa, siempre que la mesa resultante no supere el número de cuatrocientos cincuenta electores.
 
 En este caso existirá un solo padrón de la mesa fusionada y se ordenará alfabéticamente.
 
@@ -368,7 +368,7 @@ En todo caso, las nóminas deberán encontrarse en el local donde se efectúe el
 
 El Secretario de la Junta Electoral publicará la nómina completa de los vocales designados para cada Mesa Receptora de la respectiva elección. Respecto de todos ellos se indicarán sólo los apellidos y sus dos primeros nombres, en un diario o periódico el vigésimo segundo día anterior a la elección o plebiscito o, si ese día no circulare el periódico en que deba publicarse, en la primera ocasión posterior a esa fecha en que esto ocurra, y fijará en su oficina una copia autorizada de ella a la vista del público.
 
-Dentro del mismo plazo, comunicará por carta certificada a los vocales su nombramiento, indicando la fecha, la hora y el lugar en que la misma funcionará y el nombre de los demás vocales. El encargado de la oficina de correos deberá otorgar recibo circunstanciado de los avisos que se entregaren.
+Dentro del mismo plazo, comunicará por carta certificada a los vocales su nombramiento, indicando la fecha, la hora y el lugar en que la misma funcionará y el nombre de los demás vocales y si le corresponde concurrir a la capacitación obligatoria que se señala en el artículo 49. El encargado de la oficina de correos deberá otorgar recibo circunstanciado de los avisos que se entregaren.
 
 #### Artículo 44
 
@@ -428,7 +428,9 @@ Los vocales de las Mesas Receptoras se reunirán para constituirse en el sitio q
 
 Dicho acto será presidido por el delegado de la Junta Electoral a que se refiere el artículo 54. El Servicio Electoral colaborará con este funcionario en todo lo que sea necesario para el mejor cumplimiento de estos cometidos.
 
-El Servicio Electoral dispondrá la capacitación de los vocales respecto de las funciones y atribuciones que deberán ejercer el día de la elección fomentando, especialmente, la aplicación de criterios objetivos y homogéneos en ellas. La asistencia a dicha capacitación será voluntaria.
+El Servicio Electoral dispondrá la capacitación de los vocales respecto de las funciones y atribuciones que deberán ejercer el día de la elección fomentando, especialmente, la aplicación de criterios objetivos y homogéneos en ellas. La asistencia a dicha capacitación será obligatoria respecto de aquellos vocales que ejerzan por primera vez dicha función. Esta capacitación no podrá ser inferior a una hora ni superior a dos. No procederá la capacitación de vocales en el caso de las elecciones primarias.
+
+A los nuevos vocales designados por las Juntas Electorales que, con ocasión de su primera elección en tal función, concurran a la capacitación señalada en el inciso anterior, se les incrementará el bono señalado en el artículo 47 bis en la suma de 0,22 unidades de fomento. Para tal efecto, el Servicio Electoral deberá remitir a la Tesorería General de la República una nómina que individualice a estos vocales en los términos del inciso final del artículo 47 bis.
 
 #### Artículo 50
 
@@ -450,11 +452,17 @@ De los Locales de Votación
 
 #### Artículo 52
 
-En la misma audiencia pública en que las Juntas Electorales designen los vocales de las Mesas Receptoras de Sufragios se procederá a continuación a determinar, para cada circunscripción electoral, los locales en que aquéllas funcionarán, pudiendo asignar un mismo local a dos o más circunscripciones, y los delegados a que se refiere el artículo 54.
+Con, a lo menos, sesenta días de anticipación a la elección o plebiscito, el Servicio Electoral determinará, para cada circunscripción electoral, los locales de votación en que funcionarán las mesas receptoras de sufragios.
 
-El Secretario de la Junta Electoral requerirá de la Comandancia de Guarnición respectiva, a lo menos con sesenta días de anticipación a la audiencia, un informe sobre los locales estatales o privados que sean más adecuados para el expedito funcionamiento de las Mesas, la instalación de cámaras secretas y la mantención del orden público. Sin perjuicio de su informe escrito, el jefe aludido podrá, personalmente o representado por quien él designe, asistir a la audiencia de la Junta y proponer otros locales. La asignación de las Mesas que corresponderán a cada local se hará tratando de mantener, en la medida que ello sea posible, la misma asignación de las elecciones anteriores.
+El Director Regional respectivo del Servicio Electoral requerirá de la Comandancia de Guarnición, a lo menos con sesenta días de anticipación a la determinación de los locales de votación, un informe sobre los locales o recintos, estatales o privados, que sean más adecuados para el expedito funcionamiento de las mesas, la instalación de cámaras secretas y la mantención del orden público.
 
-Producido el acuerdo de la Junta sobre los sitios donde deban funcionar las Mesas, éste no podrá reconsiderarse ni alterarse, salvo por causas debidamente calificadas por la Junta Electoral y previa aprobación del Servicio Electoral. Subsistirá el mismo acuerdo, tratándose del caso establecido en el inciso segundo del artículo 26 de la Constitución Política. Las Juntas Electorales publicarán la nómina de locales de votación en la misma forma y oportunidad señaladas en el artículo 43 y comunicarán al Gobernador Provincial, con a lo menos diez días de anticipación a la fecha de la elección, la lista de los locales estatales que hubieren designado, a fin de que los encargados de los mismos procuren los medios de atender a la debida instalación de cada Mesa. Igualmente se hará la respectiva comunicación a quien aparezca como propietario o responsable de los locales privados que hubieren sido puestos a disposición de ellas, previa concertación del acuerdo correspondiente que será suscrito por la Municipalidad respectiva. Copias de dichas nóminas se remitirán en el mismo plazo al Servicio Electoral y a las municipalidades que corresponda.
+El Servicio Electoral deberá preferir aquellos locales de carácter público en la medida que existan establecimientos suficientes para atender las necesidades para la instalación de las mesas de la circunscripción electoral que corresponda, considerando criterios de facilidad de acceso para los electores. A falta de éstos, podrá también determinar el uso de establecimientos de propiedad privada como locales de votación, siempre que correspondan a establecimientos educacionales y deportivos. También, si fuere necesario, el Servicio Electoral podrá disponer que bienes nacionales de uso público sean destinados como locales de votación, restringiéndose su acceso durante el tiempo en que se utilicen como tales, siempre que correspondan a parques de grandes dimensiones, que permitan ubicar en ellos un número significativo de mesas receptoras de sufragios.
+
+Determinados los locales de votación, estos no podrán reconsiderarse ni alterarse, salvo por causas debidamente calificadas por el Servicio Electoral. Subsistirá la designación, tratándose del caso establecido en el inciso segundo del artículo 26 de la Constitución Política.
+
+Los locales de votación, con el detalle de las mesas receptoras de sufragios que funcionarán en cada uno de ellos, serán informados a las Juntas Electorales correspondientes antes del trigésimo día anterior a la fecha de la elección o plebiscito. La Junta Electoral publicará la nómina de locales de votación en la misma forma y oportunidad señaladas en el artículo 43. En la misma audiencia pública en que las Juntas Electorales designen los vocales de las mesas receptoras de sufragios se procederá, a continuación, a designar para cada local de votación los delegados a que se refiere el artículo 54.
+
+El Servicio Electoral comunicará al Gobernador Provincial y al municipio respectivo, con a lo menos cincuenta días de anticipación a la fecha de la elección o plebiscito, la lista de los locales que hubiere designado a fin de que los encargados de los mismos procuren los medios de atender a la debida instalación de cada mesa. Igualmente, se hará la respectiva comunicación a los propietarios o responsables de los locales que se hubieren designado.
 
 #### Artículo 53
 
@@ -472,7 +480,7 @@ Podrá haber dos cámaras por cada Mesa Receptora.
 
 #### Artículo 54
 
-A partir de las catorce horas del segundo día anterior a la elección o plebiscito, en cada recinto de votación iniciará sus funciones una Oficina Electoral dependiente de la respectiva Junta Electoral, que estará a cargo de un Delegado que designará dicha Junta. Esta nominación, que se entenderá subsistente para el caso previsto en el inciso segundo del artículo 26 de la Constitución Política de la República, deberá recaer preferentemente en un Notario Público, Secretario de Juzgado de Letras o Secretario Abogado de Policía Local, Receptor Judicial, Auxiliar de la Administración de Justicia u otro ministro de fe. En ningún caso podrá recaer en funcionarios municipales o dependientes directa o indirectamente de Corporaciones Municipales. Estos delegados podrán hacerse asesorar por el personal necesario para el funcionamiento de la oficina, con cargo al Servicio Electoral y de acuerdo con las instrucciones que el Servicio imparta. Este personal percibirá un bono diario equivalente a media unidad de fomento.
+A partir de las nueve horas del segundo día anterior a la elección o plebiscito, en cada recinto de votación iniciará sus funciones una Oficina Electoral dependiente de la respectiva Junta Electoral, que estará a cargo de un Delegado que designará dicha Junta. Esta nominación, que se entenderá subsistente para el caso previsto en el inciso segundo del artículo 26 de la Constitución Política de la República, deberá recaer preferentemente en un Notario Público, Secretario de Juzgado de Letras o Secretario Abogado de Policía Local, Receptor Judicial, Auxiliar de la Administración de Justicia u otro ministro de fe. En ningún caso podrá recaer en funcionarios municipales o dependientes directa o indirectamente de Corporaciones Municipales. Estos delegados podrán hacerse asesorar por el personal necesario para el funcionamiento de la oficina, con cargo al Servicio Electoral y de acuerdo con las instrucciones que el Servicio imparta. Este personal percibirá un bono diario equivalente a media unidad de fomento.
 
 El Delegado tendrá derecho a un bono total equivalente a cinco unidades de fomento por todas las tareas realizadas con ocasión de las elecciones y plebiscitos que se realicen en un mismo acto electoral. Se considerará para estos efectos como otro acto electoral, la segunda votación realizada, conforme al inciso segundo del artículo 26 de la Constitución Política.
 
@@ -494,6 +502,8 @@ Corresponderá al Delegado de la Junta Electoral, sin perjuicio de las demás ta
 
 6) Requerir el auxilio de la fuerza encargada del orden público.
 
+7) Disponer, en el evento que sea necesario, el traslado de cédulas para la emisión de sufragios no utilizadas, desde las mesas donde sobren a aquellas mesas donde pudieren faltar. De lo anterior se dejará constancia en el acta de la mesa donde se retiran los sufragios, como en el acta de la mesa en que se agregan, indicando el número de serie de ellos.
+
 ### Párrafo 11°
 
 De los Utiles Electorales
@@ -508,7 +518,7 @@ Para cada Mesa Receptora deberá considerarse el siguiente material:
 
 2) Dos ejemplares de la cartilla de instrucciones para uso de la Mesa Receptora de Sufragios, que elaborará el Servicio Electoral.
 
-3) Las cédulas para la emisión de los sufragios en número igual al de los electores que deben sufragar, más un diez por ciento.
+3) Las cédulas para la emisión de los sufragios. Su número será determinado por el Servicio Electoral para cada mesa receptora, en función de la experiencia de abstención en elecciones similares anteriores.
 
 4) Cuatro lápices de grafito de color negro y dos lápices pasta de color azul.
 
@@ -574,7 +584,7 @@ En ningún caso las Mesas podrán integrarse pasadas las doce horas.
 
 Reunido el número necesario, sus miembros se instalarán y elegirán de entre ellos, si procediere, un Presidente, un Secretario y un Comisario. De inmediato el Comisario dará aviso al delegado de la Junta Electoral, indicando el nombre de los vocales presentes. Acto seguido, el Comisario requerirá la entrega de los útiles electorales, la que se certificará por escrito.
 
-Recibido el Padrón de Mesa y el paquete de útiles, los vocales procederán a abrir este último y a levantar acta de instalación en las hojas en blanco del Registro. En ella se dejará constancia de la hora de instalación, del nombre de los vocales asistentes e inasistentes, de los nombres de los apoderados con indicación del partido político o candidato independiente que representaren, de los útiles que se encontraren dentro del paquete con especificación detallada de ellos, y de la forma en que se encontraren los sellos que aseguran la inviolabilidad de la envoltura del paquete.
+Recibido el Padrón de Mesa y el paquete de útiles, los vocales procederán a abrir este último y a levantar acta de instalación. En ella se dejará constancia de la hora de instalación, el nombre de los vocales asistentes e inasistentes, de los nombres de los apoderados con indicación del partido político o candidato independiente que representaren, de los útiles que se encontraren dentro del paquete con especificación detallada de ellos, y de la forma en que se encontraren los sellos que aseguran la inviolabilidad de la envoltura del paquete.
 
 INCISO ELIMINADO.
 
@@ -608,7 +618,7 @@ En caso que opten por ser asistidas, las personas con discapacidad comunicarán 
 
 #### Artículo 62
 
-El elector chileno entregará al Presidente su cédula nacional de identidad o pasaporte. El elector extranjero su cédula de identidad para extranjeros. Dichos documentos deberán estar vigentes. Ningún certificado u otros documentos podrán reemplazar a los anteriores.
+El elector chileno entregará al Presidente su cédula nacional de identidad o pasaporte. El elector extranjero, su cédula de identidad para extranjeros. Ningún otro documento ni certificado podrá reemplazar a los anteriores. Los documentos señalados deberán estar vigentes. Se aceptarán también aquellos que hayan vencido dentro de los doce meses anteriores a la elección o plebiscito, para el solo efecto de identificar al elector.
 
 Una vez comprobada la identidad del elector, la vigencia de su cédula de identidad o de su pasaporte, y el hecho de estar habilitado para sufragar en la Mesa, el elector firmará en la línea que le corresponda en el Padrón Electoral de la Mesa o, si no pudiere hacerlo, estampará su huella dactilar del dedo pulgar derecho, o en su defecto cualquier otro dedo, de lo que el Presidente dejará constancia al lado de la huella. De la falta de este requisito se dejará constancia en el acta, aceptándose que el elector sufrague.
 
@@ -700,7 +710,9 @@ Las operaciones se practicarán por el Presidente, por el Secretario y demás vo
 
 #### Artículo 72
 
-Inmediatamente después de practicado cada escrutinio, y en el mismo lugar en que hubiere funcionado la Mesa Receptora, se levantarán actas del escrutinio, estampándose separadamente, en letras y en cifras, el número de sufragios que hubiere obtenido cada candidato o cada una de las proposiciones de la cédula para plebiscito, en su caso.
+Inmediatamente después de practicado el escrutinio, y en el mismo lugar en que hubiere funcionado la mesa receptora, se levantarán actas del escrutinio, estampándose en números la cantidad de firmas en el padrón correspondientes a los electores que emitieron su sufragio, la cantidad de talones y el total de sufragios emitidos encontrados en las urnas para cada tipo de elección. Además, se anotarán, en cifras y letras, el número de sufragios que hubiere obtenido cada candidato o cada una de las proposiciones de la cédula para plebiscito, en su caso; los votos nulos y los blancos.
+
+A continuación se procederá a sumar los votos anotados para todos los candidatos o proposiciones de plebiscito, más los votos nulos y blancos, anotando el resultado en cifras y letras en el total de votos señalado en el acta. La mesa deberá revisar que este total de votos sumados sea igual al número total de sufragios emitidos encontrados en las urnas estampado al inicio del acta. La mesa deberá cerciorarse de que no existan, en ninguno de los ejemplares del acta de escrutinio, diferencias o descuadraturas de los votos sumados y de los totales señalados anteriormente.
 
 Se dejará constancia de la hora inicial y final del escrutinio y de cualquier incidente o reclamación concerniente a la votación o escrutinio que deseen hacer constar los vocales y apoderados, sin que pueda eludirse por ningún motivo la anotación, bajo las penas que esta ley señala. Se dejará especial testimonio en el acta del cumplimiento de las exigencias del artículo 71.
 
@@ -756,11 +768,17 @@ El delegado deberá permanecer en el local de votación mientras queden útiles 
 
 La persona que disponga el Servicio Electoral se instalará en la Oficina Electoral del local de votación y procederá a recibir los ejemplares del acta señalados en el inciso sexto del artículo 72, cuyos datos procederá a incorporar al sistema computacional en la forma que disponga el Servicio Electoral, en conformidad al artículo 175 bis.
 
+Si las actas contuvieren errores, especialmente descuadraturas entre la suma real de los votos de cada candidato, los nulos y los blancos y los totales ingresados en las actas, se ingresarán igual al sistema los datos que existan, pero en este caso deberá indicarse por el sistema computacional como mesa descuadrada, según lo señalado en la letra g) del inciso quinto del artículo 175 bis.
+
+Adicionalmente, las personas referidas anteriormente procederán a efectuar una copia digitalizada o escaneada del acta de escrutinio, que se incorporará como respaldo al sistema computacional.
+
 Los apoderados acreditados ante la Oficina Electoral del Local de Votación podrán estar presentes y observar la recepción de las actas y el proceso de ingreso o transmisión de los datos que ellas contengan.
+
+Si en algún local de votación el Servicio Electoral no contare con las facilidades técnicas para la digitación y transmisión de datos de las actas de escrutinios y su incorporación a los sistemas computacionales, o existiendo éstos presentaren fallas o problemas, el Servicio Electoral podrá disponer el traslado de las actas a otro local de votación u oficina del Servicio para proceder a su incorporación.
 
 #### Artículo 77
 
-Dentro de las veinticuatro horas siguientes a la elección o plebiscito, el delegado de la Junta Electoral enviará por correo al Servicio Electoral todos los sobres y útiles recibidos, con excepción de los Registros Electorales, los que deberán ser entregados a las respectivas Juntas Electorales.
+Dentro de las veinticuatro horas siguientes a la elección o plebiscito, el delegado de la Junta Electoral enviará por correo al Servicio Electoral todos los sobres y útiles recibidos.
 
 El envío se hará en paquetes separados por cada Mesa Receptora, que indicarán en su cubierta la circunscripción y número de la Mesa a que corresponde. Asimismo, se dejará testimonio en la cubierta de cada uno de ellos de la hora de su recepción por la oficina de correos. El Jefe de ésta otorgará recibo de la entrega con expresión de la hora.
 
@@ -796,9 +814,9 @@ Habrá a lo menos un Colegio en cada localidad en que tenga su sede una Junta El
 
 #### Artículo 81
 
-Cada Colegio estará compuesto de seis miembros titulares e igual número de suplentes, designados por las respectivas Juntas Electorales, en conformidad a los artículos siguientes.
+Cada Colegio estará compuesto de diez miembros titulares e igual número de suplentes, designados por las respectivas Juntas Electorales, en conformidad a los artículos siguientes.
 
-Se designarán tres miembros con ocasión de la elección de diputados y senadores, y tres con ocasión de la elección de alcaldes y concejales. Podrá designarse un número superior si alguno de los designados para elecciones anteriores, que deba continuar ejerciendo esta función, se hubiese cambiado de Circunscripción Electoral a una que no deba escrutar el Colegio o hubiese perdido el derecho a sufragio.
+Se designarán cinco miembros con ocasión de la elección de diputados y senadores, y cinco con ocasión de la elección de alcaldes y concejales. Podrá designarse un número superior si alguno de los designados para elecciones anteriores, que deba continuar ejerciendo esta función, se hubiese cambiado de Circunscripción Electoral a una que no deba escrutar el Colegio o hubiese perdido el derecho a sufragio.
 
 No podrán ser designados como miembros de los Colegios Escrutadores las personas señaladas en el inciso primero del artículo 40, ni aquellas que hubiesen sido designadas como vocales de mesas receptoras de sufragios para la misma elección de que se trate.
 
@@ -810,7 +828,7 @@ Al efectuar esta selección, cada miembro de la Junta Electoral deberá preferir
 
 A continuación, la Junta Electoral procederá a confeccionar una nómina para cada Colegio Escrutador que le corresponda designar, en la que se asignará a cada uno de los nombres propuestos, ordenados alfabéticamente, un número correlativo del uno al sesenta.
 
-En sesión pública que se realizará en la oficina del Secretario, inmediatamente designados los vocales de las respectivas Mesas Receptoras de Sufragios, las Juntas Electorales efectuarán un sorteo de manera que los primeros seis números sirvan para individualizar, en cada nómina, a las personas que se desempeñarán como miembros de los Colegios Escrutadores, y los siguientes seis, en orden correlativo, a quienes deberán actuar como suplentes.
+En sesión pública que se realizará en la oficina del Secretario, inmediatamente designados los vocales de las respectivas Mesas Receptoras de Sufragios, las Juntas Electorales efectuarán un sorteo de manera que los primeros diez números sirvan para individualizar, en cada nómina, a las personas que se desempeñarán como miembros de los Colegios Escrutadores, y los siguientes diez, en orden correlativo, a quienes deberán actuar como suplentes.
 
 La Junta Electoral formará un libro con las nóminas alfabéticas firmadas por todos sus miembros, debidamente foliadas y con indicación del Colegio a que corresponda, el que se entenderá como parte integrante del acta del sorteo. Este libro será público y se mantendrá bajo la custodia del Secretario de la Junta Electoral.
 
@@ -858,9 +876,9 @@ Del Escrutinio por los Colegios
 
 #### Artículo 86
 
-A las catorce horas del día siguiente a la elección o plebiscito, el Colegio Escrutador se reunirá con, al menos, tres de sus miembros, en el lugar que hubiere designado la Junta Electoral correspondiente, bajo la presidencia provisional del Secretario del Colegio, nombrado de conformidad al artículo 84. Reunido el número requerido, se procederá a sortear de entre los miembros presentes un Presidente.
+A las catorce horas del día siguiente a la elección o plebiscito, el Colegio Escrutador se reunirá con, al menos, tres de sus miembros, en el lugar que hubiere designado la Junta Electoral correspondiente, bajo la presidencia provisional del Secretario del Colegio, nombrado de conformidad al artículo 84. Si a las 14:15 horas no se hubieren presentado al menos tres de sus miembros, el Secretario del colegio procederá a completar el número de tres miembros designando como tales a alguno de los delegados de la junta electoral que se señalan en el inciso siguiente. Constituido el colegio, los miembros originalmente designados podrán incorporarse, en orden de presentación, hasta completar el máximo de diez, sin que puedan reemplazar a los delegados designados y siempre que ello ocurra con anterioridad a las 15 horas. Del hecho de las incorporaciones y su hora se dejará constancia en el acta. Reunido el número requerido, se procederá a sortear de entre los miembros presentes un Presidente.
 
-Al inicio de la sesión, los delegados de las Juntas Electorales deberán entregar al Secretario los sobres sellados que contengan las actas de escrutinios de las Mesas Receptoras que hubieren funcionado en su respectivo local de votación. Éste se cerciorará del estado de los sellos y de las firmas y otorgará el recibo correspondiente, en original y copia. El Delegado conservará el original y la copia la remitirá al Secretario de la Junta Electoral.
+Al inicio de la sesión, y después de constituido el Colegio Escrutador, los delegados de las Juntas Electorales deberán entregar al Secretario los sobres sellados que contengan las actas de escrutinios de las Mesas Receptoras que hubieren funcionado en su respectivo local de votación. Éste se cerciorará del estado de los sellos y de las firmas y otorgará el recibo correspondiente, en original y copia. El Delegado conservará el original y la copia la remitirá al Secretario de la Junta Electoral.
 
 Inmediatamente, el Presidente declarará constituido el Colegio, levantándose un acta en que se dejará constancia de los siguientes hechos y circunstancias:
 
@@ -928,7 +946,7 @@ De los otros ejemplares del cuadro y del acta, uno se entregará al Presidente d
 
 El Presidente y el Secretario del Colegio remitirán el sobre al Director del Servicio Electoral y al presidente del Tribunal Calificador de Elecciones, respectivamente, por intermedio de la oficina de correos o por el medio más expedito de transporte, dentro de las dos horas siguientes al momento en que lo reciban. El jefe de la oficina de correos o el encargado del medio de transporte deberá otorgar recibo de la recepción, dejando constancia de la hora en que ésta se practique.
 
-Dentro de las veinticuatro horas siguientes al término del funcionamiento del Colegio, el Secretario hará entrega de los Registros que le hubieren sido proporcionados y del Libro de Actas, al Secretario de la Junta Electoral. En el mismo plazo, también enviará las actas de escrutinio de las Mesas Receptoras al Servicio Electoral.
+Dentro de las veinticuatro horas siguientes al término del funcionamiento del Colegio, el Secretario hará entrega del Libro de Actas, al Secretario de la Junta Electoral. En el mismo plazo, también enviará las actas de escrutinio de las Mesas Receptoras al Servicio Electoral.
 
 #### Artículo 92
 
@@ -954,7 +972,7 @@ El Servicio Electoral deberá dar a conocer los resultados de los escrutinios pr
 
 Para estos efectos, el Director del Servicio Electoral abrirá el sobre con el acta y cuadro que hubiere recibido del Presidente de cada Colegio Escrutador, comprobará la exactitud de dichos resultados con los contenidos en el sistema computacional, efectuará las correcciones que fueren necesarias para que los resultados del sistema computacional se ajusten al acta y cuadro, y procederá a liberar su información en los términos señalados en el inciso siguiente.
 
-Los partidos políticos que participan en la elección o plebiscito, los candidatos independientes en su caso, los medios de comunicación y el público en general, podrán acceder al sitio web que el Servicio Electoral disponga, a objeto de conocer los resultados de los Colegios Escrutadores. Los resultados deberán estar desplegados a nivel de Mesa Receptora de Sufragios, como a niveles agregados, de Colegio Escrutador, de comuna, provincia, región y país, como también de distrito y circunscripción senatorial.
+A los resultados de los colegios escrutadores les será aplicable lo dispuesto en los incisos cuarto, quinto y sexto del artículo 175 bis. Estos resultados deberán sustituir a los entregados en forma preliminar por el Servicio Electoral, en virtud de dicho artículo. Al realizar esta sustitución deberá señalarse, en sus informes y boletines, que son los resultados de los colegios escrutadores.
 
 Los partidos políticos y los candidatos independientes que participan en la elección o plebiscito, podrán también disponer de esos mismos resultados en medios magnéticos o digitales no encriptados para efectuar los procesos que estimen convenientes.
 
@@ -978,7 +996,7 @@ Cualquier elector podrá interponer reclamaciones de nulidad contra las eleccion
 
 - **e)** práctica de cohecho, de soborno o uso de fuerza y de violencia, y
 
-- **f)** La utilización de un Padrón Electoral incorrecto, que contenga omisiones de inscritos o electores con derecho a sufragio, inhabilidades mal aplicadas, errores en el domicilio electoral, en la correspondiente circunscripción electoral y en los demás datos del padrón.
+- **f)** la utilización de un Padrón Electoral diferente del que establece el artículo 33 de la ley N°18.556, y que fue sometido a los procesos de auditoría y reclamación señalados en el párrafo 2° del Título II y el Título III de dicha ley. No procederá en este caso la reclamación de nulidad por las circunstancias señaladas en los artículos 47 y 48 de ley N° 18.556.
 
 Las reclamaciones derivadas de los hechos anteriores sólo procederán si los mismos hubieren dado lugar a la elección de un candidato o de una opción distinta de las que habrían resultado si la manifestación de la voluntad electoral hubiere estado libre del vicio alegado.
 
@@ -1124,11 +1142,11 @@ De la Fuerza encargada del Orden Público
 
 Desde el segundo día anterior a un acto electoral o plebiscitario y hasta el término de las funciones de los Colegios Escrutadores, el resguardo del orden público corresponderá a las Fuerzas Armadas y a Carabineros.
 
-Los encargados del orden público se constituirán en los locales de votación a partir de las 14 horas del segundo día anterior a la elección o plebiscito.
+Los encargados del orden público se constituirán en los locales de votación a partir de las 9 horas del segundo día anterior a la elección o plebiscito.
 
 #### Artículo 111
 
-El Presidente de la República designará, con cuarenta días de anterioridad a la fecha de una elección, un oficial de Ejército, de la Armada, de la Fuerza Aérea o de Carabineros, que tendrá el mando de la fuerza encargada de la mantención del orden público en las localidades en que deban funcionar Mesas Receptoras de Sufragios y Colegios Escrutadores. Cuando se trate de un plebiscito, el jefe respectivo deberá designarse con a lo menos veinticinco días de anticipación a la celebración del acto plebiscitario. Dichos nombramientos se publicarán en el Diario Oficial, al día siguiente hábil de su designación. Para el caso previsto en el inciso segundo del artículo 26 de la Constitución Política, tales nombramientos se entenderán subsistentes.
+El Presidente de la República designará, con sesenta días de anterioridad a la fecha de una elección o plebiscito, a un oficial de Ejército, de la Armada, de la Fuerza Aérea o de Carabineros, que tendrá el mando de la fuerza encargada de la mantención del orden público en cada una de las regiones del país. Dichos nombramientos se publicarán en el Diario Oficial, al día siguiente hábil de su designación. Estos jefes de fuerza deberán designar con treinta días de anticipación a los oficiales de las Fuerzas Armadas y Carabineros que tendrán el mando de las fuerzas encargadas de la mantención del orden público en las localidades de sus respectivas regiones, en que deban funcionar mesas receptoras de sufragio o colegios escrutadores. Para el caso previsto en el inciso segundo del artículo 26 de la Constitución Política, tales nombramientos se entenderán subsistentes.
 
 Los jefes designados para el mando de las fuerzas, tendrán la responsabilidad directa del mantenimiento del orden público en las respectivas localidades y deberán cumplir con las obligaciones que les encomiende esta ley.
 
@@ -1136,7 +1154,7 @@ Los jefes designados para el mando de las fuerzas, tendrán la responsabilidad d
 
 El Ministerio del Interior, previa coordinación con el Ministerio de Defensa Nacional, deberá dictar disposiciones para el resguardo del orden público, las que deberán publicarse en el Diario Oficial con no menos de cinco días de anterioridad a la elección o plebiscito. Asimismo, el Ministerio de Defensa Nacional impartirá las instrucciones pertinentes a las fuerzas encargadas de mantener el orden público.
 
-Dichas disposiciones se anotarán en un Libro de Ordenes que llevará el jefe de las fuerzas de cada localidad, el cual estará a disposición de los candidatos, de sus apoderados y de los representantes de los partidos políticos, quienes podrán verificar personalmente el cumplimiento de las disposiciones y reclamar en cualquier momento ante dicho jefe de la falta de seguridad y garantías individuales que está obligado a mantener para los electores, pudiendo dejarse testimonio en el Libro, de los hechos que motivaren esos reclamos.
+Dichas disposiciones se anotarán en un Libro de Ordenes que llevará el jefe de las fuerzas de cada localidad y el jefe de fuerza regional, el cual estará a disposición de los candidatos, de sus apoderados y de los representantes de los partidos políticos, quienes podrán verificar personalmente el cumplimiento de las disposiciones y reclamar en cualquier momento ante dicho jefe de la falta de seguridad y garantías individuales que está obligado a mantener para los electores, pudiendo dejarse testimonio en el Libro, de los hechos que motivaren esos reclamos.
 
 #### Artículo 113
 
@@ -1264,7 +1282,7 @@ El funcionario del Poder Judicial, del Ministerio Público o de la Administraci�
 
 #### Artículo 131
 
-El que impidiere ejercer sus funciones a algún miembro de la Junta Electoral, Mesa Receptora, Colegio Escrutador o al delegado de aquélla, sufrirá la pena de presidio menor en su grado mínimo a medio. Igual pena sufrirá el que perturbare el orden en el recinto en que funcione una Junta, Mesa Receptora o Colegio Escrutador, o en sus alrededores, con el fin de impedir su funcionamiento.
+El que impidiere ejercer sus funciones a algún miembro de la Junta Electoral, Mesa Receptora, Colegio Escrutador o al delegado de aquélla, sufrirá la pena de presidio menor en su grado mínimo a medio. Igual pena sufrirá el que perturbare el orden en el recinto en que funcione una Junta, Mesa Receptora o Colegio Escrutador, o en sus alrededores, con el fin de impedir su funcionamiento, desde los diez días anteriores a la fecha de la elección o plebiscito.
 
 #### Artículo 132
 
@@ -1284,9 +1302,11 @@ Sufrirá la pena de reclusión menor en su grado mínimo el miembro de Mesas Rec
 
 7) Negarse a tomar nota en actas de cualquier circunstancia del acto eleccionario;
 
-8) Suspender abusivamente la recepción de votos o la realización del escrutinio, y
+8) Suspender abusivamente la recepción de votos o la realización del escrutinio;
 
-9) Impedir, obstaculizar o dificultar, maliciosamente, el ejercicio del derecho a sufragio de una persona con discapacidad.
+9) Impedir, obstaculizar o dificultar, maliciosamente, el ejercicio del derecho a sufragio de una persona con discapacidad, y
+
+10) Recibir sufragios antes de la hora indicada en el inciso primero del artículo 57 o declarar cerrada la votación antes de la hora señalada en el inciso primero del artículo 68.
 
 #### Artículo 133
 
@@ -1300,13 +1320,23 @@ El miembro de Mesas y Colegios Escrutadores y el delegado de la Junta Electoral 
 
 El que perdiere alguna de las especies señaladas en el inciso anterior sufrirá la pena de reclusión menor en sus grados mínimo a máximo.
 
+#### Artículo 134 bis
+
+Será sancionado con la pena de reclusión menor en sus grados mínimo a medio, el delegado de la Junta Electoral que incurriere en alguna de las siguientes conductas:
+
+1) Hacer entrega de los útiles electorales antes de la hora indicada en el inciso primero del artículo 57.
+
+2) No constituir las mesas disponiendo de los voluntarios a los que se refiere el inciso cuarto del artículo 57.
+
+3) Impedir que un apoderado ejerza sus funciones, conforme a lo establecido en esta ley, retirarle las carpetas o credenciales de identificación que se señalan en el artículo 162 o expulsarlo del local de votación.
+
 #### Artículo 135
 
-El empleado de empresas de transportes o de correos culpable de la pérdida o destrucción de documentos que le fueren entregados en cumplimiento de las normas de esta ley, sufrirá la pena de reclusión menor en su grado mínimo a máximo.
+El empleado de empresas de transportes o de correos culpable de la pérdida o destrucción de documentos que le fueren entregados en cumplimiento de las normas de esta ley, sufrirá la pena de reclusión menor en su grado mínimo a máximo. Igual pena sufrirán las personas que tengan responsabilidad en la entrega de los resultados, señaladas en el artículo 175 bis, que omitan el ingreso de los resultados a los sistemas informáticos, los alteren o los destruyan.
 
 #### Artículo 136
 
-Será castigado con presidio menor en su grado medio a presidio mayor en su grado mínimo:
+Será castigado con presidio menor en su grado medio a presidio mayor en su grado mínimo y multa de una a tres unidades tributarias mensuales:
 
 1) El que votare más de una vez en una misma elección o plebiscito;
 
@@ -1410,13 +1440,13 @@ Sólo procederá el indulto general o la amnistía en favor de los condenados o 
 
 #### Artículo 151
 
-Dentro de los treinta días siguientes a una elección o plebiscito, los Presidentes de las Juntas Electorales deberán formular denuncia en contra de los delegados de la misma y de los vocales de Mesas Receptoras de Sufragios que no hubieren concurrido a desempeñar sus funciones.
+Dentro de los treinta días siguientes a una elección o plebiscito, los Presidentes de las Juntas Electorales deberán formular denuncia en contra de los delegados de la misma, de los miembros de los colegios escrutadores y de los vocales de Mesas Receptoras de Sufragios que no hubieren concurrido a desempeñar sus funciones.
 
-Asimismo, deberán denunciar a los miembros de Mesas Receptoras y Colegios Escrutadores que incurrieren en las infracciones que se sancionan en los artículos 133 y 134.
+Asimismo, deberán denunciar a los miembros de Mesas Receptoras y Colegios Escrutadores que incurrieren en las infracciones que se sancionan en los artículos 133, 134 y 138.
 
 #### Artículo 152
 
-Los Presidentes de Mesas Receptoras y de Colegios Escrutadores, en su caso, deberán denunciar de inmediato a quienes incurrieren en las conductas que sancionan los artículos 137 y 138 de esta ley.
+Los Presidentes de Mesas Receptoras y de Colegios Escrutadores, en su caso, deberán denunciar de inmediato a quienes incurrieren en las conductas que sancionan los artículos 136 y 137 de esta ley.
 
 #### Artículo 153
 
@@ -1600,15 +1630,37 @@ Al efecto, el Tribunal Calificador de Elecciones pondrá los referidos resultado
 
 #### Artículo 175 bis
 
-Con objeto de mantener informada a la opinión pública del desarrollo de toda elección o plebiscito, el Servicio Electoral emitirá boletines y desplegará información en su sitio web, respecto de la instalación de las mesas de votación y sobre los resultados que se vayan produciendo, a medida que las mesas culminen su proceso de escrutinio.
+Con objeto de mantener informada a la opinión pública del desarrollo de toda elección o plebiscito, el Servicio Electoral emitirá boletines y desplegará información en su sitio web, respecto de la instalación de las mesas de votación y sobre los resultados que se vayan produciendo, a medida que las mesas culminen su proceso de escrutinio, los que tendrán el carácter de preliminares.
 
-Para estos efectos, el Servicio Electoral, en cada local de votación, acreditará una persona en la Oficina Electoral de dichos locales, que será responsable de recepcionar las copias del acta de las Mesas señalada en el inciso sexto del artículo 72, e incorporar los resultados al sistema computacional en los términos señalados en el artículo 76 bis.
+Para estos efectos, el Servicio Electoral, en cada local de votación, acreditará una persona, y a sus ayudantes técnicos, en la Oficina Electoral de dichos locales, que será responsable de recepcionar las copias del acta de las Mesas señalada en el inciso sexto del artículo 72, e incorporar los resultados al sistema computacional en los términos señalados en el artículo 76 bis. En la misma oficina, y con no más de siete días de anticipación a una elección o plebiscito, se podrán instalar las líneas telefónicas y aquellas necesarias para las comunicaciones que se utilizarán el día de dicha elección o plebiscito.
 
-Para el adecuado desempeño de este funcionario, las municipalidades deberán habilitar una instalación eléctrica en la Oficina Electoral del Local de Votación. Además, el Ministerio del Interior y Seguridad Pública, a través de las Intendencias y Gobernaciones respectivas, le otorgará las facilidades necesarias para asegurar el respaldo de los resultados y el traslado expedito de los mismos.
+Para el adecuado desempeño de las personas señaladas en el inciso anterior, las municipalidades deberán habilitar una instalación eléctrica en la Oficina Electoral del Local de Votación.
 
-Los partidos políticos que participan en la elección o plebiscito, los candidatos independientes en su caso, los medios de comunicación y el público en general, podrán acceder al sitio web que el Servicio Electoral disponga, a objeto de conocer los resultados de la elección, a medida que se vayan ingresando al sistema computacional conforme al artículo 76 bis. Los resultados deberán estar desplegados a nivel de Mesa Receptora de Sufragios, como a niveles agregados, de Colegio Escrutador, de comuna, circunscripción electoral, provincia, región y país, como también de distrito y circunscripción senatorial.
+Los partidos políticos que participan en la elección o plebiscito, los candidatos independientes en su caso, los medios de comunicación y el público en general, podrán acceder al sitio web que el Servicio Electoral disponga, a objeto de conocer los resultados de la elección, a medida que se vayan ingresando al sistema computacional conforme al artículo 76 bis.
+
+Los resultados deberán estar desplegados de la siguiente forma:
+
+a) A nivel de cada mesa receptora de sufragios, como a niveles agregados de circunscripción electoral, colegio escrutador, comuna, provincia, región y país, como también de distrito electoral y circunscripción senatorial.
+
+b) Respecto de cada candidato, se informará su número de identificación, su nombre, su partido político o su condición de independiente, el subpacto cuando corresponda y el pacto o lista a que pertenece, los votos obtenidos y el porcentaje que ellos representan.
+
+c) Se deberá informar también totales de votos y porcentajes de votación por cada partido político, subpacto si corresponde y por lista o pacto.
+
+d) Cuando el nivel de agregación sea superior al territorio electoral de los candidatos, se informarán los votos y el porcentaje de votación obtenido por cada partido político, subpacto, si corresponde, y por lista o pacto, como también el número total de candidatos presentados.
+
+e) En todos los niveles de agregación se señalará el número de mesas escrutadas respecto del total de mesas que correspondan al nivel de agregación.
+
+f) Los porcentajes de votación del candidato, partido, subpacto si corresponde y pacto o lista se calcularán sobre el total de votos válidos, excluyendo votos nulos y blancos.
+
+g) A nivel de mesa de votación, la condición de estar sus resultados descuadrados, esto es, que el total de la suma de los votos asignados a cada candidato en las actas, más los blancos y los nulos, no correspondan al número total de votantes que sufragaron en la mesa según se consigne en la misma acta. Por cada nivel de agregación, se deberá informar también la cantidad de mesas que, consideradas en los resultados, se encuentran descuadradas, permitiendo acceder a un detalle con la identificación de ellas.
+
+h) En el último informe de resultados preliminares entregado por el Servicio Electoral, se deberá informar para cada nivel de agregación, un detalle con la identificación de las mesas no escrutadas.
+
+i) A partir del porcentaje escrutado que determine el Servicio Electoral y siempre en el último informe de resultados preliminares entregado por éste, deberán indicarse los candidatos que pueden considerarse estimativamente electos de acuerdo a las reglas establecidas en la ley y el número de ellos en los niveles agregados.
 
 Los partidos políticos, los candidatos independientes que participan en la elección o plebiscito y los medios de comunicación que lo soliciten al Servicio Electoral podrán también acceder a esos mismos resultados en archivos magnéticos o digitales no encriptados para efectuar los procesos que estimen convenientes.
+
+Los partidos políticos y los candidatos independientes que participan en la elección podrán acceder y revisar, en el sitio web del Servicio Electoral, las copias digitalizadas o escaneadas de las actas de escrutinios, incorporadas al sistema computacional en virtud de lo señalado en inciso tercero del artículo 76 bis.
 
 El Presidente del Consejo del Servicio Electoral deberá emitir, en forma pública y solemne, boletines parciales y final con los resultados de la elección o plebiscito.
 
@@ -1832,13 +1884,15 @@ En las demás capitales de provincia, las Juntas se integrarán con el Defensor 
 
 Si hubiere más de uno de los funcionarios mencionados en los incisos precedentes, integrará la respectiva Junta el más antiguo de ellos en la categoría respectiva.
 
+Si no hubiere alguno de los funcionarios que desempeñen los cargos mencionados en los incisos precedentes, las Juntas se integrarán con cualquier funcionario auxiliar de la administración de justicia.
+
 Los miembros de las Juntas Electorales serán permanentes y conservarán ese carácter en tanto desempeñen la función pública requerida para su designación.
 
 #### Artículo 185
 
 Las Juntas Electorales que cree el Servicio Electoral de acuerdo con las normas del artículo 183 de esta ley se integrarán con el Defensor Público, un Notario y un Conservador de Bienes Raíces que tengan competencia en todo o parte del territorio jurisdiccional que se les asigne y, si hubiere más de uno de ellos, por los que tengan su oficio en la localidad en que tendrá su sede la respectiva Junta de acuerdo con su antigüedad en la categoría, excluidos los que deban integrar otras Juntas de conformidad con los incisos primero y segundo del artículo anterior.
 
-Si no hubiere alguno de los auxiliares de la administración de justicia señalados en el inciso anterior, la Junta Electoral se integrará con un Secretario del Juzgado de Letras, con otro Notario o con el Secretario Municipal de la Municipalidad que tenga asiento en la localidad sede de la Junta. Sin embargo, la falta de Conservador sólo podrá ser suplida por un Archivero Judicial o un Notario.
+Si no hubiere alguno de los funcionarios que desempeñen los cargos mencionados en el inciso precedente, las Juntas se integrarán con cualquier funcionario auxiliar de la administración de justicia.
 
 En estas Juntas actuará como Presidente el Defensor Público o, en su defecto, el miembro que designe el Servicio Electoral, y como Secretario, el Conservador de Bienes Raíces o, a falta de éste, el Archivero Judicial o el Notario que nomine el Servicio Electoral. La permanencia de sus miembros será la misma indicada en el inciso final del artículo 184.
 

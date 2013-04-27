@@ -1382,7 +1382,7 @@ Del escrutinio en las mesas receptoras de sufragio
 
 #### Artículo 117
 
-Las mesas receptoras de sufragio, en lo relativo a los resultados de la votación, sólo consignarán en el acta de escrutinio, como también en los formularios de acta y en las minutas de resultado, las votaciones individuales obtenidas por cada candidato, los votos nulos y los votos en blanco, dejándose constancia además del total de sufragios emitidos en la respectiva mesa.
+Derogado.
 
 #### Artículo 118
 
@@ -1444,7 +1444,9 @@ le corresponde elegir, se proclamará elegidos a todos los candidatos de la list
 
 Para determinar los candidatos elegidos en una lista que corresponda a un pacto electoral se procederá a sumar las preferencias de los candidatos incluidos en cada uno de los partidos o de los subpactos, según sea el caso.
 
-Posteriormente, se repetirá el procedimiento descrito en los artículos 122 y 123, considerando para estos efectos como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso.
+Posteriormente, se repetirá el procedimiento descrito en el artículo 122, considerando para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso, todo ello con el objeto de determinar el número de candidatos que elige cada integrante del pacto.
+
+Determinado el número que elige cada integrante del pacto electoral, se repetirá el procedimiento descrito en el artículo 123, para determinar quiénes son los candidatos electos de cada integrante del pacto, considerando también para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso. En el caso de un subpacto que incluya candidatos de uno o más partidos e independientes, los candidatos tendrán igual derecho de preferencia dentro del subpacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual.
 
 #### Artículo 125
 

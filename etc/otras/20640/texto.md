@@ -172,9 +172,9 @@ a) Sólo los afiliados al partido habilitados para ejercer el derecho a sufragio
 
 b) Sólo los afiliados al partido, e independiente sin afiliación política, habilitados para ejercer el derecho a sufragio, en el caso que el partido participe en forma individual.
 
-c) Sólo los afiliados a los partidos integrantes del pacto habilitados para ejercer el derecho a sufragio, en el caso de un pacto electoral.
+c) Sólo los afiliados al partido o a los partidos integrantes del pacto habilitados para ejercer el derecho a sufragio, en el caso de un pacto electoral.
 
-d) Sólo los afiliados a los partidos integrantes del pacto e independientes sin afiliación política habilitados para ejercer el derecho a sufragio, en el caso de un pacto electoral.
+d) Sólo los afiliados al partido o a los partidos integrantes del pacto e independientes sin afiliación política habilitados para ejercer el derecho a sufragio, en el caso de un pacto electoral.
 
 e) Todos los electores habilitados para sufragar.
 
@@ -182,39 +182,49 @@ En el caso de elecciones primarias para Presidente de la República en que exist
 
 #### Artículo 21
 
-El Servicio Electoral confeccionará el padrón electoral de cada mesa receptora de sufragios que contendrá a los electores habilitados para sufragar en cada elección primaria que cumplan con los requisitos necesarios para ejercer el derecho a sufragio, conforme a los antecedentes conocidos por dicho Servicio al sexagésimo día anterior a aquel que deba realizarse la elección primaria. Para estos efectos, no será aplicable lo dispuesto en los Títulos II y III de la ley N°18.556, Orgánica Constitucional de Inscripciones Electorales y Servicio Electoral.
+El Servicio Electoral confeccionará el padrón electoral de cada mesa receptora de sufragios que contendrá a los electores habilitados para sufragar en cada elección primaria que cumplan con los requisitos necesarios para ejercer el derecho a sufragio, conforme a los antecedentes conocidos por dicho Servicio al sexagésimo día anterior a aquel que deba realizarse la elección primaria. Para estos efectos, no será aplicable lo dispuesto en los Títulos II y III de la ley N°18.556, Orgánica Constitucional de Inscripciones Electorales y Servicio Electoral, salvo en lo que se refiere a la publicidad del padrón electoral que se otorgará mediante medios magnéticos y ordenado en forma alfabética, en conformidad a lo dispuesto en el inciso quinto del artículo 31 de dicha ley.
 
 El padrón electoral contendrá los nombres y apellidos de cada elector y su número de rol único nacional.
 
-Respecto de los electores habilitados para sufragar en las elecciones primarias, el padrón señalará las primarias de los partidos o pactos electorales en que pueda sufragar, según lo señalado en el artículo anterior. El padrón contemplará, además, un espacio para la firma y número de serie de la cédula, respecto de cada una de las primarias que se realicen en el territorio electoral al que corresponde la mesa receptora de sufragios.
+Respecto de los electores habilitados para sufragar en las elecciones primarias, el padrón señalará las primarias de los partidos o pactos en que puede sufragar, según lo señalado en el artículo anterior o, alternativamente, la cédula electoral que deba recibir de la mesa receptora para emitir su sufragio. El padrón contemplará además espacios para la firma del elector y para anotar el número de serie de la cédula que utilice, respecto de las elecciones de cada cargo que sea sometido a elecciones primarias.
 
 ### Párrafo 5°
 
-De las Cédulas Electorales y del Derecho a Sufragio de los Electores
+De las cédulas electorales, el acto electoral y el derecho a sufragio de los electores
 
 #### Artículo 22
 
-Para la elección primaria conjunta para la nominación de candidatos a los cargos de Presidente y de Parlamentarios, habrá cédulas electorales diferentes, existiendo una para la elección de Presidente de la República, y otra para la de Senadores y de Diputados.
+Para las elecciones primarias habrá cédulas electorales diferentes, según se trate de las elecciones primarias de Presidente de la República, Senadores, Diputados o Alcaldes.
 
-Existirá una cédula electoral diferente para cada elección primaria de un partido político o pacto electoral.
+Para cada cargo de Presidente de la República, Senador, Diputado y Alcalde existirán las siguientes cédulas electorales:
 
-Las cédulas electorales serán confeccionadas por el Servicio Electoral, en número suficiente para que puedan sufragar todos los electores indicados por los partidos políticos o pactos electorales en la norma señalada en el artículo 20.
+a) Existirá una cédula electoral diferente para cada primaria de un partido político o pacto electoral que contendrá sólo a los candidatos del partido o del pacto, la que deberá ser usada por los electores que se encuentren habilitados para sufragar sólo en esa primaria, según lo establezca el padrón electoral de la mesa receptora de sufragios.
 
-El orden de los candidatos y partidos políticos en la cédula y sus códigos de identificación serán determinados por el Servicio Electoral, mediante sorteo.
+b) Existirá otra cédula electoral para los electores habilitados para sufragar en más de una elección primaria para el mismo cargo, según lo establezca el padrón electoral de la mesa receptora de sufragios, la que contendrá todos los candidatos de dichas primarias.
+
+El Servicio Electoral deberá procurar que las cédulas electorales que se elaboren para las elecciones primarias de un mismo cargo sean similares en su aspecto exterior.
 
 #### Artículo 23
 
-Cuando, de acuerdo con el padrón electoral de la mesa receptora de sufragios, un elector se encuentre habilitado para sufragar en las elecciones primarias de más de un partido político o pacto electoral, deberá libremente elegir en cuál de ellas desea sufragar.
+Al presentarse el elector a sufragar recibirá de la mesa receptora las cédulas electorales para emitir su sufragio, de acuerdo a las primarias que se realicen en el territorio electoral que corresponda. El elector recibirá una cédula electoral para la elección primaria al cargo de Presidente de la República, una para la elección primaria al cargo de Senador, una para la elección primaria al cargo de Diputado y una para la elección primaria al cargo de Alcalde, en su caso.
 
-En virtud de lo dispuesto en el inciso anterior, el elector recibirá para emitir su sufragio una sola cédula electoral para la elección primaria para la nominación de candidatos al cargo de Presidente de la República; una sola para la elección primaria para la nominación de candidatos al cargo de Senador; una sola para la elección primaria para la nominación de candidatos al cargo de Diputado, y una para la elección primaria para la nominación de candidatos al cargo de Alcalde, siempre que estas elecciones primarias se realicen en la circunscripción electoral a que corresponde la mesa receptora de sufragios.
+Respecto de cada cargo el elector recibirá la cédula electoral según la elección primaria en que se encuentre habilitado para sufragar, conforme lo señale el padrón electoral de la mesa y que contendrá sólo los candidatos de dicha primaria. En el evento que un elector esté habilitado para sufragar en dos o más primarias para un mismo cargo conforme el padrón electoral de la mesa, recibirá de ella una sola cédula que contendrá, en este caso, todos los candidatos a dicho cargo de las primarias en que esté habilitado para sufragar.
+
+Los vocales de mesa deberán tomar los resguardos suficientes y necesarios para que el elector concurra solo a sufragar de conformidad al artículo 61 de la ley N°18.700, y que las cédulas entregadas a los electores para las primarias de cada cargo y los candidatos que contienen se mantengan en reserva y sean conocidas sólo por ellos, por los apoderados que integran la mesa y por quien eventualmente asista al elector y en ningún caso por otras personas y por los demás electores que esperan para sufragar.
+
+Los vocales de mesa, apoderados, delegados de la Junta Electoral y quienes presten funciones al Servicio Electoral deberán mantener reserva absoluta de los padrones electorales utilizados en las mesas de votación, donde consten las firmas de los electores de las elecciones primarias en que sufragaron. La infracción de este precepto dará lugar a la sanción contemplada en el artículo 142 de la ley N°18.700, aplicándose en estos casos los procedimientos judiciales señalados en el Párrafo 2° del Título VII de la ley N°18.700.
 
 #### Artículo 24
 
 En el caso de las elecciones primarias para la nominación de candidatos a los cargos de Presidente de la República, de Parlamentario y de Alcalde, el elector deberá sufragar marcando la preferencia por uno solo de los candidatos que aparecen en la cédula electoral.
 
+#### Artículo 24 bis
+
+El sufragio será personal, igualitario, secreto, informado y voluntario.
+
 ### Párrafo 6°
 
-Mesas Receptoras de Sufragios, Vocales de Mesa, Acto Electoral y Apoderados
+De las mesas receptoras de sufragio, vocales de mesa, apoderados y escrutinios
 
 #### Artículo 25
 
@@ -222,23 +232,37 @@ El Servicio Electoral determinará el número de mesas receptoras de sufragios y
 
 #### Artículo 26
 
-El Director del Servicio Electoral podrá aplicar la facultad señalada en el artículo 37 de la ley N°18.700, referente a reunir dos o más mesas receptoras de sufragios, en forma transitoria y sólo para las elecciones primarias, cuando así lo considere necesario en base a la experiencia relativa a la participación y concurrencia de electores a votar en otras elecciones primarias. Las mesas fusionadas podrán superar los 350 electores.
+El Director del Servicio Electoral podrá aplicar la facultad señalada en el artículo 37 de la ley N°18.700, referente a reunir dos o más mesas receptoras de sufragios, en forma transitoria y sólo para las elecciones primarias, cuando así lo considere necesario en base a la experiencia relativa a la participación y concurrencia de electores a votar en otras elecciones primarias. Las mesas fusionadas podrán superar los 450 electores.
 
 La determinación del número de mesas receptoras de sufragios se realizará el quincuagésimo día anterior al de la elección primaria.
 
 #### Artículo 27
 
-En las elecciones primarias las mesas estarán constituidas por tres vocales, sin perjuicio de que la mesa pueda funcionar con un mínimo de dos, que serán designados por la Junta Electoral respectiva, por medio de un sorteo, de entre aquellos que se hayan desempeñado como vocal en la última elección general, ya sea de parlamentarios o municipal.
-
-En el caso que se aplique lo señalado en el artículo anterior, la Junta Electoral procederá a elegir tres vocales por sorteo, de entre todos los que correspondan a las mesas que se reunieron en una sola.
+En el caso que se aplique lo señalado en el artículo anterior, la Junta Electoral procederá a elegir cinco vocales por sorteo, de entre todos los que correspondan a las mesas que se reunieron en una sola.
 
 #### Artículo 28
 
-El sufragio será personal, igualitario, secreto, informado y voluntario.
+Derogado.
 
 #### Artículo 29
 
 La facultad conferida a los partidos políticos para designar sedes y apoderados, contenida en los artículos 157 y 159 de la ley N°18.700, se entenderá también conferida a cada uno de los candidatos que participen en una elección primaria.
+
+#### Artículo 29 bis
+
+En los escrutinios, la mesa procederá a escrutar primero las primarias del cargo de Presidente de la República, después las de senadores y finalmente las de diputados, cuando corresponda.
+
+Respecto de cada cargo de Presidente de la República, senador, diputado o alcalde se procederá como sigue:
+
+a) El presidente contará el número de electores que hayan sufragado según las firmas en el padrón de la mesa y el número de talones correspondientes a las cédulas emitidas. Se abrirá la urna, se contarán las cédulas utilizadas y se firmarán al dorso por el presidente y por el secretario de la mesa. Si hubiere disconformidad entre el número de firmas, de talones y de cédulas, se dejará constancia en el acta, pero no obstará para que se escruten todas las cédulas que aparezcan emitidas.
+
+b) A continuación, el presidente y secretario de la mesa procederán a abrir las cédulas electorales y a separarlas por cada una de las elecciones primarias realizadas para el cargo. Respecto de las cédulas electorales que contengan los candidatos de más de una elección primaria, dicha separación se efectuará de acuerdo a la preferencia indicada por el elector en la propia cédula.
+
+c) Luego, se procederá a escrutar las diferentes primarias de acuerdo al orden numérico o alfabético otorgado a los partidos políticos y pactos electorales como códigos de identificación en el sorteo señalado en el inciso final del artículo 22. Para ello, separadamente por cada primaria, el presidente de la mesa dará lectura a viva voz de la preferencia que contienen las cédulas, y la calificación de ellas se hará conforme al número 5) del inciso primero del artículo 71 de la ley N°18.700.
+
+d) Para cada primaria de partido o pacto electoral se levantará un acta separada, conforme a lo señalado en el artículo 72 de la ley N°18.700.
+
+Para el despliegue de los escrutinios preliminares que dé a conocer el Servicio Electoral conforme al artículo 175 bis de la ley N°18.700 y para el de los Colegios Escrutadores señalados en el artículo 95 de la misma ley, se considerará a cada primaria de partido o pacto electoral como una elección separada.
 
 ### Párrafo 7°
 

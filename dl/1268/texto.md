@@ -14,7 +14,7 @@ Decreto Ley:
 
 #### Artículo 1°
 
-Las cédulas de indentidad que se otorguen a los chilenos con posterioridad a la fecha en que éstos hayan cumplido los cincuenta años, tendrán vigencia indefinida.
+Derogado.
 
 #### Artículo 2°
 
