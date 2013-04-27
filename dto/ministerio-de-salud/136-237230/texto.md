@@ -360,7 +360,7 @@ En este ámbito deberá coordinar, además, aquellas acciones de promoción o pr
 
 #### Artículo 34
 
-Sin perjuicio de las funciones enunciadas precedentemente, la Secretaría Regional Ministerial será la continuadora legal de las funciones médico administrativas que la ley encomendara al ex Servicio Nacional de Salud y al ex Servicio Médico Nacional de Empleados y que con posterioridad se desarrollaran por las Comisiones de Medicina Preventiva y de Invalidez (COMPIN) de los Servicios de Salud, por lo que le corresponderá organizar, bajo su dependencia directa y dentro del territorio regional correspondiente, el trabajo de dichas entidades.
+Sin perjuicio de las funciones enunciadas precedentemente, la Secretaría Regional Ministerial será la continuadora legal de las funciones médico administrativas que la ley encomendara al ex Servicio Nacional de Salud y al ex Servicio Médico Nacional de Empleados y que con posterioridad se desarrollaran por las Comisiones de Medicina Preventiva y de Invalidez (COMPIN) de los Servicios de Salud, por lo que le corresponderá organizar, bajo su dependencia directa, el trabajo de dichas entidades.
 
 Las COMPIN continuarán ejerciendo dentro de la estructura orgánica de la Secretaría Regional Ministerial, las mismas funciones que efectuaban como dependencias de los Servicios de Salud, conforme a las leyes y reglamentos especiales que se les asignaran.
 
@@ -444,13 +444,13 @@ De la Comisión de Medicina Preventiva e Invalidez
 
 #### Artículo 45
 
-En cada Secretaría Regional Ministerial de Salud se constituirá una Comisión de Medicina Preventiva e Invalidez o Compin, a la cual corresponderá desarrollar todas las funciones médico administrativas que la ley ha asignado al ex Servicio Nacional de Salud y al ex Servicio Médico Nacional de Empleados, así como aquellas que siendo de competencia de los Servicios de Salud, eran realizadas por las Comisiones de Medicina Preventiva e Invalidez de dichos Servicios, cuya continuidad de gestión deberán asumir.
+En cada Secretaría Regional Ministerial de Salud se constituirá una Comisión de Medicina Preventiva e Invalidez, o Compin, a la cual corresponderá desarrollar todas las funciones médico administrativas que la ley ha asignado al ex Servicio Nacional de Salud y al ex Servicio Médico Nacional de Empleados, así como aquellas que, siendo de competencia de los Servicios de Salud, eran realizadas por las Comisiones de Medicina Preventiva e Invalidez de dichos Servicios, cuya continuidad de gestión deberán asumir.
 
-Para el ejercicio de las atribuciones que la ley les asigna las Compin desarrollarán sus funciones a través de las dependencias que sean necesarias, conforme a la desconcentración territorial que se considere adecuada dentro de la región, debiendo considerarse comisiones provinciales en aquellas ciudades en las cuales la Secretaría Regional Ministerial posea una Oficina Provincial.
+Para el ejercicio de las funciones que la ley les asigna, las Compin se darán la organización interna que resulte adecuada para el eficaz cumplimiento de sus funciones. Para este efecto, podrán mantener oficinas en aquellos lugares del territorio que resulten necesarios, las que podrán actuar, según se determine, sólo como oficinas receptoras de licencias médicas o bien, como oficinas en las que éstas se tramitan y se dicta la resolución correspondiente a las mismas.
 
-Las Compin provinciales dependerán directamente de la Compin regional en lo que se refiere a los aspectos técnicos que deben tratar.
+Con el objeto de llevar a cabo la expedita y eficaz tramitación de las licencias médicas sometidas a su conocimiento, las Compin podrán, además, implementar los sistemas y tecnologías informáticas que resulten útiles a esta finalidad incluyendo la tramitación por esta vía de las licencias médicas y la recepción de la resolución de las mismas por parte del afectado.
 
-Las Unidades de Licencias Médicas situadas en los establecimientos asistenciales de los Servicios de Salud estarán sujetas a la tuición y supervisión técnica de las Compin Regional o Provincial, según corresponda, para los fines de dar cumplimiento a las funciones que les encomienda el Decreto Supremo N°3 de 1984 de este Ministerio, que reglamenta la materia, contarán con la colaboración de los profesionales del establecimiento y sus resoluciones podrán ser consultadas ante la comisión pertinente, a la que corresponderá la revisión de los antecedentes que se le proporcionen y la decisión que deba adoptarse sobre el particular
+Las Unidades de Licencias Médicas, situadas en los establecimientos asistenciales de los Servicios de Salud, estarán sujetas a la tuición y supervisión técnica de la Compin correspondiente para los fines de dar cumplimiento a las funciones que les encomienda el Reglamento de Autorización de Licencias Médicas por las Compin e Instituciones de Salud Previsional y cumplirán las funciones de oficina receptora de licencias médicas o de estudio y resolución de las mismas, según se les encomiende por resolución del Subsecretario de Salud Pública.
 
 #### Artículo 46
 

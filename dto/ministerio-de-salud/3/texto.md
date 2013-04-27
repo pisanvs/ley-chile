@@ -20,7 +20,7 @@ Para los efectos de este reglamento, se entiende por licencia médica el derecho
 
 Las normas de este reglamento serán aplicadas a la tramitación de todas las licencias médicas que den origen a los beneficios sobre protección del riesgo de enfermedad e incapacidad temporal reguladas en las leyes N°s. 6.174, 16.744, 18.469, 18.834, 18.458, 18.883, 19.070, 19.378 y Código del Trabajo, cuya autorización corresponda a las Compin y a las Instituciones de Salud Previsional, en adelante indistintamente ISAPRE.
 
-La tramitación y autorización de las licencias de los trabajadores dependientes no afiliados a una ISAPRE, corresponderá a la Compin en cuyo territorio quede ubicado el lugar de desempeño del trabajador.
+La recepción a trámite de las licencias de los trabajadores dependientes no afiliados a una Isapre, deberá efectuarse en las oficinas de la Compin en cuyo territorio quede ubicado el lugar de desempeño del trabajador.
 
 Si el trabajador presta servicios a dos o más empleadores, estando su lugar de desempeño ubicado en territorios correspondientes a distintas Compin, deberá obtener diferentes certificaciones de licencias para ser presentadas, en original, en cada una de esas Compin. Sin embargo, si la certificación no tiene por objeto el otorgamiento de una licencia o reposo, sino otros efectos o beneficios, ella deberá presentarse a la Compin en cuyo territorio se encuentre ubicado el lugar de trabajo en el que éste posea mayor antigüedad funcionaria o laboral; y si en todos ellos contara con la misma antigüedad, al Compin en cuyo territorio el interesado cumple una jornada de trabajo mayor.
 
@@ -32,17 +32,15 @@ Con todo, esas Mutualidades de Empleadores deberán proporcionar a la Compin que
 
 INCISO ELIMINADO
 
-#### Artículo 3°
+#### Artículo 3º
 
-Tratándose de trabajadores independientes, no afiliados a ISAPRE, el conocimiento y autorización de las licencias corresponderá a la Compin en cuyo territorio esté ubicado el domicilio de aquellos.
+La recepción a trámite de las licencias médicas de los trabajadores independientes, no afiliados a Isapre, deberá efectuarse en las oficinas de la Compin en cuyo territorio esté ubicado su domicilio.
 
 Si el trabajador independiente estuviere afiliado a una ISAPRE el conocimiento y autorización de la licencia corresponderá a la oficina de la ISAPRE del lugar en que se celebró el contrato, o bien, a la del domicilio del trabajador, a elección de este último.
 
 #### Artículo 4°
 
-Las licencias médicas de los trabajadores no afiliados a Isapre, serán autorizadas por la Compin o, en su caso, por las Unidades de Licencias Médicas, a que se refiere el artículo 45 del decreto supremo Nº 136, de 2004, del Ministerio de Salud, que aprueba el Reglamento Orgánico de esa Secretaría de Estado.
-
-INCISO ELIMINADO
+La notificación del pronunciamiento de autorización, rechazo o modificación de las licencias médicas será efectuada a través de la oficina de Compin que la recibió a tramitación, o a través del sistema informático que se implemente cuando el afectado así lo haya solicitado y haya proporcionado su dirección de correo electrónico para este efecto.
 
 ### II. DEL OTORGAMIENTO DE LAS LICENCIAS
 
@@ -134,17 +132,15 @@ Es competencia privativa la Unidad de Licencias Médicas de la Compin o de la IS
 
 DEROGADO
 
-#### Artículo 16°
+#### Artículo 16
 
-La Compin, la Unidad de Licencias Médicas o la ISAPRE, en su caso, podrán rechazar o aprobar las licencias médicas; reducir o ampliar el período de reposo solicitado o cambiarlo de total a parcial y viceversa. En caso de rechazo de una licencia, o de reducción o ampliación del plazo de reposo, la resolución o pronunciamiento respectivo se estampará en el mismo formulario de licencia y se dejará constancia de los fundamentos tenidos en vista para adoptar la medida.
+La Compin, la Unidad de Licencias Médicas o la Isapre, en su caso, podrán rechazar o aprobar las licencias médicas; reducir o ampliar el período de reposo solicitado o cambiarlo de total a parcial y viceversa. En todos estos casos se dejará constancia de la resolución o pronunciamiento respectivo, con los fundamentos tenidos a la vista para adoptar la medida, en el formulario digital o de papel de la respectiva licencia.
 
 #### Artículo 17°
 
 Autorizada la licencia o transcurridos los plazos que permitan tenerla por autorizada, ésta constituye un documento oficial que justifica la ausencia del trabajador a sus labores o la reducción de su jornada de trabajo, cuando corresponda, durante un determinado tiempo y puede o no dar derecho a percibir el subsidio o remuneración que proceda, según el caso.
 
 #### Artículo 18°
-
-La Unidad de Licencias Médicas resolverá acerca de todas las licencias médicas que aisladamente o en conjunto no excedan de 30 días y de licencias pre y post natales. Si el reposo concedido excede del plazo señalado, o la patología que le da origen requiere mayor estudio o antecedentes, deberá enviarlas a la Compin para su resolución, previo aviso al empleador y al trabajador. Una vez resuelta la licencia médica, la Compin la devolverá a la Unidad de Licencias Médicas.
 
 Las licencias por enfermedad de niño menor de un año se autorizarán por períodos de hasta siete días corridos, prorrogables por iguales lapsos. Cuando las licencias así prorrogadas sobrepasan de un total de treinta días corridos, el reposo posterior que se conceda podrá extenderse por todo el período que se estime necesario.
 
@@ -182,13 +178,9 @@ Las ISAPRE en la situación de afecciones que estimen irrecuperables, podrán so
 
 La Unidad de Licencias Médicas, la Compin y la ISAPRE, podrán dirigirse directamente a los trabajadores, a los profesionales que expidan las licencias, a los empleadores y a las entidades previsionales, en materias relacionadas con la autorización de las licencias médicas.
 
-#### Artículo 24°
+#### Artículo 24
 
-La Unidad de Licencias Médicas tendrá un plazo de tres días hábiles, contado desde la fecha de recepción, para pronunciarse sobre la licencia, el que podrá ampliarse por otro período igual, en caso que los antecedentes requieran estudio especial, dejándose constancia de esta circunstancia.
-
-Cuando, a juicio del facultativo que autoriza, sea necesario un nuevo examen del trabajador o solicitar informes o exámenes complementarios para pronunciarse sobre la licencia, el plazo se prorrogará por el lapso necesario para el cumplimiento de estas diligencias, decisión que deberá comunicarse al trabajador y al empleador; este plazo no podrá exceder de 30 días.
-
-La Compin tendrá un plazo de siete días hábiles para pronunciarse sobre las licencias, el que se contará desde la fecha en que el respectivo formulario se haya recepcionado en la secretaría de dicha Compin. Este plazo podrá ampliarse por otros siete días hábiles en caso que los antecedentes requieran estudio especial, dejándose constancia de ese hecho. Cuando a juicio de la Compin, sea necesario un nuevo examen del trabajador o solicitar informes o exámenes complementarios para pronunciarse sobre la licencia, el plazo se prorrogará por el lapso necesario para el cumplimiento de esas diligencias el que no podrá exceder de 60 días, decisión que deberá ser comunicada al trabajador y al empleador.
+La Compin y la Unidad de Licencias Médicas, en su caso, tendrán un plazo de siete días hábiles para pronunciarse sobre las licencias, el que se contará desde la fecha en que el respectivo formulario se reciba en su oficina. Este plazo podrá ampliarse por otros siete días hábiles en caso de que los antecedentes requieran estudio especial, dejándose constancia de este hecho. Cuando a juicio de la Compin o la Unidad de Licencias Médicas que está conociendo de la respectiva licencia, sea necesario un nuevo examen del trabajador o solicitar informes o exámenes complementarios para pronunciarse sobre la misma, el plazo se prorrogará por el lapso necesario para el cumplimiento de esas diligencias, el que no podrá exceder de 60 días, decisión que deberá ser comunicada al trabajador y al empleador.
 
 Las ISAPRE, en su caso, y previo el cumplimiento de lo dispuesto en el artículo 19 de este reglamento, deberán pronunciarse sobre las licencias médicas que les corresponda autorizar, dentro del plazo fatal de tres días hábiles, contados desde la fecha de presentación y recepción conforme en sus oficinas, de la respectiva licencia.
 
@@ -202,7 +194,7 @@ En el caso de las Isapre, corresponde a la Superintendencia de Salud fiscalizar 
 
 #### Artículo 26°
 
-El pronunciamiento de la Unidad de Licencias Médicas, de la Compin o de la ISAPRE, se estampará en el formulario de licencia bajo la firma del profesional respectivo, del presidente de la Compin o del profesional designado por la ISAPRE, según corresponda.
+El pronunciamiento de la Unidad de Licencias Médicas, de la Compin o de la ISAPRE, se estampará en el formulario digital o de papel de licencia bajo la firma del profesional respectivo, del presidente de la Compin o del profesional designado por la ISAPRE, según corresponda.
 
 #### Artículo 27°
 
@@ -222,7 +214,7 @@ COMPIN
 
 #### Artículo 29°
 
-Las licencias médicas serán autorizadas por la Compin y por la Unidad de Licencias Médicas, en los casos a que se refiere el artículo 18.
+Las licencias médicas serán autorizadas por la Compin y por la Unidad de Licencias Médicas.
 
 Además estas Compin conocerán siempre las licencias complementarias del descanso de maternidad establecidas en el artículo 196 del Código del Trabajo, que comprenden la licencia prenatal suplementaria, la licencia prenatal prorrogada y la licencia postnatal prolongada por enfermedad de la madre, así como de las prórrogas de licencias de medicina preventiva otorgadas conforme al artículo 7° transitorio del decreto supremo N° 369 de 1985, del Ministerio de Salud.
 
