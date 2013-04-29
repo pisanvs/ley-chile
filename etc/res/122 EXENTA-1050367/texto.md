@@ -1,6 +1,6 @@
 AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS A CRUZ BLANCA COMPAÑÍA DE SEGUROS DE VIDA S.A.
 
-Certifico: Que por escritura pública de fecha 10 de enero de 2013 y escritura pública complementaria de 11 de marzo de 2013, ambas otorgadas ante el Notario Público de Santiago don Eduardo Javier Diez Morello, con domicilio en Morandé Nº 243, Santiago; las sociedades "Cruz Blanca Salud S.A." e "Inversiones CBS SpA", ambas representadas por don Andrés Varas Green, ingeniero comercial y don Rodrigo Muñoz Muñoz, ingeniero comercial, todos domiciliados en calle Cerro Colorado Nº 5240, Torre II, oficina 11 B, Las Condes, constituyeron sociedad anónima denominada "Cruz Blanca Compañía de Seguros de Vida S.A.".
+Certifico: Que por escritura pública de fecha 10 de enero de 2013 y escritura pública complementaria de 11 de marzo de 2013, ambas otorgadas ante el Notario Público de Santiago don Eduardo Javier Diez Morello, con domicilio en Morandé Nº 243, Santiago; las sociedades "Cruz Blanca Salud S.A., RUT Nº 76.005.001-6" e "Inversiones CBS SpA, RUT N° 76.117.164-K", ambas representadas por don Andrés Varas Green, ingeniero comercial y don Rodrigo Muñoz Muñoz, ingeniero comercial, todos domiciliados en calle Cerro Colorado Nº 5240, Torre II, oficina 11 B, Las Condes, constituyeron sociedad anónima denominada "Cruz Blanca Compañía de Seguros de Vida S.A.".
 
 Que por resolución exenta N° 122, de 18 de abril de 2013, de la Superintendencia de Valores y Seguros, se autorizó su existencia y se aprobaron sus estatutos.
 
