@@ -2252,94 +2252,6 @@ El Gerente General de cada entidad deberá comunicar a esta Superintendencia los
 
 Las instrucciones del presente Capítulo deben ponerse en práctica a más tardar a contar del año 2004.
 
-CAPITULO 1-20 (Bancos)
-
-MATERIA:
-
-INTERESES Y COMISIONES. PRINCIPIOS Y CRITERIOS PARA LA APLICACION DE SU COBRO.
-
-1.- Principios generales.
-
-Los principios generales para la fijación de las tarifas por los productos o servicios bancarios, son los siguientes:
-
-a) Las instituciones disponen en general de libertad para fijar el monto de las comisiones e intereses que cobran por las operaciones y servicios bancarios, con las excepciones consignadas en la normativa, entre las que se incluyen: el límite a los intereses contemplado en la Ley 18.010; el límite a los gastos por cobranza extrajudicial contemplado en la Ley N° 19.659 que modificó la Ley del Consumidor; y las costas procesales y personales fijadas en juicio por un tribunal contra el deudor.
-
-b) Las instituciones deben ser plenamente transparentes frente a sus clientes. Las exigencias mínimas sobre información al público están contenidas en la Circular N°3.267 del 13 de abril de 2004 y en el Capítulo 18-14 de esta Recopilación Actualizada de Normas.
-
-c) Las comisiones y gastos que se cobren deben corresponder a servicios reales efectivamente acordados y prestados.
-
-d) El cliente debe ser informado de todos los costos por concepto de comisiones y gastos que se asocian al producto o servicio contratado. Asimismo, debe ser informado si determinados productos están asociados al producto principal (cuenta corriente, cuenta vista, tarjeta de crédito, etc.) a fin de que exprese su consentimiento explícito al contratarlo como es el caso, por ejemplo, de la línea de crédito asociada a la cuenta corriente.
-
-e) Los servicios de la esencia del producto como norma general, sólo podrán remunerarse por medio de la comisión de administración anual. A modo de ejemplo, tratándose de un producto que opera a través de giros y/o depósitos, el banco no podrá cobrar por dichos giros o depósitos una comisión distinta de la de administración anual, aun cuando esas operaciones se efectúen por medios electrónicos. Lo anterior, sin perjuicio de la segmentación de clientes que cada entidad resuelva efectuar, y su consecuente tarificación.
-
-Los servicios adicionales que faciliten las prestaciones de una cuenta corriente pueden ser remunerados con comisiones, siempre que ellos sean aceptados voluntariamente por el cliente y el cobro de esas comisiones se asocie a la mantención de los sistemas utilizados para proveer esos servicios y no a las transacciones.
-
-f) Cualquier aumento de las comisiones deberá contar con el consentimiento del cliente para ser aplicado. En todo caso, si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
-
-Lo indicado en la letra f) es sin perjuicio de lo dispuesto por el Banco Central de Chile en uso de sus facultades, en los Capítulos III.E.1, y III.E.4 de su Compendio de Normas Financieras, sobre cuentas de ahorro.
-
-2.- Operaciones de los bancos que generan el cobro de intereses o comisiones.
-
-En los bancos se distinguen en general, tres clases de operaciones:
-
-a) Operaciones pasivas: depósitos, captaciones en sus diversas modalidades, derivados, etc.
-
-b) Operaciones activas: préstamos, créditos en general, avales, boletas de garantía por los créditos que conllevan, derivados, etc.; y.
-
-c) Operaciones neutras, que son propiamente servicios: custodia, comisiones de confianza, mandatos, giros y transferencias de fondos, cobranzas, etc.
-
-Normalmente, las operaciones activas y pasivas generan intereses, ya sea a favor o en contra del banco, según corresponda a la naturaleza de la operación. La diferencia de las tasas de interés entre operaciones activas y pasivas son las que producen el diferencial o spread.
-
-Las operaciones neutras generan comisiones a favor del banco que las realiza.
-
-Existen operaciones que combinan el pago de intereses con el pago de comisiones. Una operación típica es la apertura y mantención de un crédito o línea de crédito a favor de un cliente, la que genera una comisión y luego intereses cuando el cliente utiliza efectivamente el crédito. En los préstamos hipotecarios con letras de crédito, existe también un cobro tanto de una así denominada comisión, como de intereses. En efecto, los intereses que el deudor paga al banco bajo ese concepto se descomponen en: los intereses que le corresponde recibir al tenedor de la letra de crédito y el interés que percibe el banco. Este interés recibe el nombre de comisión, aun cuando se devenga en forma conjunta con los intereses antes mencionados y es similar a éstos. Corresponde a lo que sería el diferencial o spread antes mencionado. En las demás operaciones de crédito se deben cobrar exclusivamente intereses, a menos que lleven asociado algún servicio adicional como, por ejemplo, en las aperturas de cartas de crédito documentarias, en que puede haber inicialmente el cobro de una comisión de apertura o de otro servicio, como una eventual prórroga, etc., vinculado a la carta de crédito, distinto al financiamiento propiamente tal.
-
-De lo expuesto debería quedar claro en qué operaciones o servicios se justifica jurídicamente el pago de intereses y en cuáles el pago de comisiones.
-
-3.- Operaciones que no causan comisiones.
-
-Cuando el banco, con motivo de una obligación legítimamente contraída, que corresponda a una operación, sea activa, pasiva o neutra, tiene que cumplir una gestión derivada directamente de ella y desea obtener una remuneración adicional por esa gestión o servicio, solamente puede cobrarla si se trata de una operación diferente y no de una que sea parte de la operación original o de una obligación que derive directamente de ella.
-
-Así, por ejemplo, en el caso de créditos que se encuentren vencidos y por los que se cobren los intereses de mora y los correspondientes gastos de cobranza, no es admisible que, además, se cobre una comisión por administración de un crédito vencido, como tampoco lo es el cobro por la emisión de certificados que den cuenta del pago de una deuda, por cuanto es una gestión que deriva directamente de una operación de crédito por la que se recibió la remuneración correspondiente.
-
-Otro caso evidente es el del banco acreedor de un cliente a quien éste le paga su crédito, le pide recibo y el alzamiento de su caución, hipoteca, prenda, etc. El banco, en este caso, está simplemente dando cuenta del término de la obligación y no está prestando ningún servicio adicional al cliente. Le podrá cobrar los gastos de escritura, inscripción o anotación, incluso los honorarios de su abogado, pero no se divisa que exista un motivo que justifique una comisión.
-
-Lo mismo sucede con el cobro de un depósito a plazo, cuando fallece el depositante. Aquí ni siquiera se justifica que el banco cobre gastos de abogado u otros, ya que el estudio que deba hacer de la sucesión del difunto sólo tiene por objeto su propia seguridad de pagar a quien corresponde.
-
-4.- Cobro de comisiones sobre cuentas corrientes.
-
-En las cuentas corrientes bancarias, como se indica en el Capítulo 2-2 de esta Recopilación Actualizada de Normas, se prevé el cobro de una comisión por su mantención (Art. 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques).
-
-Sin perjuicio de la comisión mencionada en el párrafo precedente, en los giros que efectúen los clientes de sus cuentas corrientes contra una línea de crédito, es claro que se puede cobrar comisión por la apertura de la línea, la que se realiza a pedido del cliente y en su beneficio. Esta comisión debe comprender períodos no inferiores a aquellos pactados para la vigencia de la línea, ya que el estudio que le significa al banco, así como la conducta y situación patrimonial del cliente no varían todos los días. En cambio no procede el cobro de una comisión por un sobregiro accidental en la cuenta corriente, no pactado previamente, causado sea por el pago de un cheque o por un cargo efectuado a ella.
-
-En general, tratándose de servicios propios del manejo de una cuenta corriente, no procederá el cobro de comisiones distintas a la comisión de administración anual como, por ejemplo, por efectuar depósitos y giros de cheques o por el uso de cualquier otro medio, incluidos los electrónicos; por la entrega del estado de saldo a que se refiere el artículo 40 de la Ley sobre Cuentas Corrientes Bancarias y Cheques; por la entrega de talonarios de cheques; por el número de cheques presentados a cobro, por las órdenes de no pago o por el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen. Para las demás operaciones que no sean propias o normales de la cuenta, las partes podrán pactarlos o excluirlos del producto contratado y su remuneración podrá ser pactada por cada evento, tales como la remisión de talonarios a domicilio.
-
-5.- Comisiones sobre tarjetas de crédito, de débito y de cajero automático.
-
-El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija pactada o aceptada por el cliente, considera todos los costos que son propios del servicio ofrecido.
-
-En caso de que el banco decida aumentar las comisiones que se encuentra cobrando, deberá solicitar el consentimiento del cliente al menos con dos meses de anticipación a la fecha en que desea aplicar las nuevas tarifas. En todo caso, si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
-
-No procede el cobro de comisiones distintas de la comisión de administración por los servicios asociados al uso de las tarjetas como instrumento de pago para la adquisición de bienes y servicios, como son las compras ya sea al contado o en cuotas, así como tampoco corresponde cobrar por el exceso en que incurra el titular de la tarjeta, respecto del cupo de crédito que tiene asignado ese instrumento.
-
-Lo indicado en este número no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
-
-6.- Gastos por otros conceptos ligados a operaciones bancarias.
-
-Los bancos podrán cobrar a sus clientes los gastos propios del cumplimiento de otros requisitos relacionados con las operaciones convenidas, tales como el costo de las escrituras de constitución e inscripción de hipotecas; gastos por impuestos de timbres y estampillas; gastos de corresponsal relacionados con cartas de crédito; cobranzas u otras operaciones; primas de seguro, cuando se haya especificado que éstos sean de cargo del cliente; así como aquellos indicados en el Capítulo 9-1 de esta Recopilación y los que se mencionen expresamente en otros Capítulos de la misma Recopilación.
-
-En cambio, no procede el cobro de gastos de franqueo o de despacho de la correspondencia relacionada con los servicios contratados, que regularmente debe enviar el banco a sus clientes como, por ejemplo, por el envío de la cartola de cuentas corrientes en las oportunidades en que normalmente se hace; por los estados de cuenta de las tarjetas de débito o de crédito; por los avisos de dividendo o de pago de cobranzas; etc.
-
-7.- Rol del Directorio.
-
-El Directorio del banco deberá fijar las orientaciones y políticas de la institución, para el cumplimiento de los principios y criterios enunciados en estas normas y establecer las instancias en las que se radicarán las responsabilidades atingentes a la debida observancia de ellas. Se entiende que es parte de las funciones del Directorio estar informado por parte del Comité de Auditoría del debido cumplimiento de las normas contenidas en este Capítulo.
-
-8.- Cumplimiento de estas normas.
-
-Los principios y las disposiciones señalados en este Capítulo deben cumplirse rigurosamente y entenderse, como norma general, que son aplicables a todos los productos y servicios ofrecidos por un banco y no solamente a aquellos que en algunos casos se citan a manera de ejemplo, salvo cuando las normas se refieren a uno específico, como es el caso de cuentas corrientes o de tarjetas de crédito, de débito y de cajero automático.
-
-De acuerdo con los principios que emanan de los números 1,2 y 3, los bancos sólo pueden efectuar cobros que correspondan a comisiones o intereses por los servicios prestados. Por consiguiente, no deben cobrar sumas por reembolso de gastos que son inherentes a la gestión del banco y de su interés, esto es, que son propios de las operaciones, como lo son los que se indican a título ejemplar, en el N° 3 antes mencionado y que no correspondan a recuperación de desembolsos realizados por cuenta del cliente.
-
 CAPITULO 2-1 (Bancos y Financieras)
 
 MATERIA:
@@ -2405,6 +2317,12 @@ Además, las obligaciones entre bancos del país deben computarse para los lími
 La información al público sobre las tasas de interés que se apliquen a las captaciones, se informarán según lo indicado en el Capítulo 7-1 de esta Recopilación.
 
 De acuerdo con lo señalado en el Capítulo 18-13 de esta Recopilación, los bancos no pueden ofrecer incentivo alguno por las captaciones o cualquiera otra operación que genere un pasivo, que no sea la rentabilidad que es propia de la operación.
+
+Los bancos deberán informar en sus oficinas y en su sitio web, las tarifas y otros cobros asociados a los diferentes productos y servicios de carácter masivo que ofrezcan, como son, entre otros las cuentas corrientes y sobregiros en éstas, depósitos a la vista o cuentas de ahorro.
+
+Para cada producto o servicio que se ofrece, debe especificarse claramente la tarifa vigente, oportunidad de cobro, las condiciones y costos asociados, de forma tal que el cliente pueda efectuar comparaciones entre los valores cobrados por las distintas instituciones. La información, debidamente actualizada, debe ser lo suficientemente clara, explícita y fácilmente comprensible para la clientela, de modo de evitar que sus textos puedan generar confusiones o interpretaciones incorrectas.
+
+En las oficinas o recintos en que puedan solicitarse los productos o servicios ofrecidos, la información deberá mantenerse a disposición de los interesados en folletos u hojas impresas. En el sitio web, deberá mostrarse en un espacio de fácil acceso, junto a la información sobre los productos o servicios afectos a los cobros.
 
 III.- OTRAS NORMAS SOBRE CAPTACIONES.
 
@@ -2740,19 +2658,11 @@ Cada vez que se realice un cargo a una cuenta corriente por cualquier causa dist
 
 ### 5. Cobro de comisiones a titulares de cuentas corrientes
 
-Los bancos que decidan cobrar comisiones por el manejo de cuentas corrientes, deberán atenerse a las siguientes instrucciones:
+El artículo 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques, prevé el cobro de una comisión por su mantención.
 
-a) Cada banco podrá fijar libremente, tanto la oportunidad en que aplicará el cobro de comisiones por la mantención de cuentas corrientes, como el monto que por ese concepto cobrará a los respectivos titulares de cuentas corrientes;
+No procede el cobro de comisiones distintas a aquella comisión cuando se trata de servicios propios del manejo de una cuenta corriente, como, por ejemplo, por efectuar depósitos y giros de cheques o por el uso de cualquier otro medio, incluidos los electrónicos; por la entrega del estado de saldo a que se refiere el artículo 40 de la Ley sobre Cuentas Corrientes Bancarias y Cheques; por la entrega de talonarios de cheques; por el número de cheques presentados a cobro, por las órdenes de no pago o por el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen. Para las demás operaciones que no sean propias o normales de la cuenta, las partes podrán pactarlos o excluirlos del producto contratado y su remuneración podrá ser pactada por cada evento, tales como la remisión de talonarios a domicilio.
 
-b) La comisión comprenderá todos los cobros necesarios para la mantención operativa de la cuenta corriente en sus distintas modalidades de uso. Para los efectos de dar una adecuada transparencia al público, los bancos deberán indicar los servicios comprendidos dentro de la señalada comisión de mantención, como se indica en la letra f) de este número;
-
-c) El banco deberá informar por escrito a cada cliente, a lo menos una vez al año, de las comisiones cobradas mensualmente por cada servicio que haya utilizado. La comunicación deberá ser auto-explicativa a fin de que haya completa claridad de cada concepto de cobro efectuado;
-
-d) El plan de cobro de comisiones que los bancos establezcan no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación;
-
-e) Para incrementar las comisiones el banco deberá contar con el consentimiento del titular de la cuenta corriente, el que deberá solicitarse al menos con dos meses de anticipación a la fecha en que el banco desea comenzar a aplicar las nuevas tarifas; y,
-
-f) Acorde con lo dispuesto en el Capítulo 18-14 de esta Recopilación la información que se entregue sobre la comisión que se cobre por la administración de cuentas corrientes debe especificar también los servicios que se incluyen en esa comisión, pudiendo contemplarse al respecto distintas combinaciones o composiciones de productos, recomendándose, en todo caso, establecer siempre un plan básico que incluya a lo menos los servicios esenciales inherentes al manejo de una cuenta corriente.
+En los giros que efectúen los clientes de sus cuentas corrientes contra una línea de crédito pactada asociada a la cuenta corriente, es claro que se puede cobrar comisión por la apertura de ella, la que se realiza a pedido del cliente y en su beneficio. Esta comisión debe comprender períodos no inferiores a aquellos pactados para la vigencia de la línea, ya que el estudio que le significa al banco, así como la conducta y situación patrimonial del cliente no varían todos los días. En cambio no procede el cobro de una comisión por un sobregiro accidental en la cuenta corriente, no pactado previamente, causado sea por el pago de un cheque o por un cargo efectuado a ella.
 
 ### 6. Pago de intereses en cuenta corriente
 
@@ -3474,17 +3384,13 @@ Entre las condiciones que constarán en el contrato, deberán incluirse las sigu
 
 a) La especificación de que se trata de una cuenta de ahorro con libreta o sin ella.
 
-b) La facultad del banco de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta.
+b) La condición de presentar la libreta para efectuar cualquier giro, en el caso de cuentas con libreta en que no se utilice un sistema automatizado.
 
-c) La manera en que el banco comunicará los cambios en el cobro de comisiones.
+c) Los procedimientos que debe seguir el titular en caso de extravío de la libreta o de pérdida de la tarjeta que permite el acceso al sistema automatizado al que se encuentre adscrita la cuenta de ahorro.
 
-d) La condición de presentar la libreta para efectuar cualquier giro, en el caso de cuentas con libreta en que no se utilice un sistema automatizado.
+d) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes o intereses, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista.
 
-e) Los procedimientos que debe seguir el titular en caso de extravío de la libreta o de pérdida de la tarjeta que permite el acceso al sistema automatizado al que se encuentre adscrita la cuenta de ahorro.
-
-f) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes o intereses, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista.
-
-g) La oportunidad en que se abonan los intereses y reajustes, cuando sea el caso, y la forma en que el banco comunicará los cambios en las tasas de interés.
+e) La oportunidad en que se abonan los intereses y reajustes, cuando sea el caso, y la forma en que el banco comunicará los cambios en las tasas de interés.
 
 3.2. Registro y verificación de los antecedentes básicos.
 
@@ -3662,17 +3568,7 @@ En todo caso, sólo podrá disminuirse la tasa de interés de un mes a otro, si 
 
 Los intereses se abonarán en la respectiva cuenta con la frecuencia y oportunidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
-### 10. Cobro de comisiones
-
-10.1. Sistema de cobro.
-
-Las comisiones que los bancos decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general, previamente fijadas y anunciadas de acuerdo a lo señalado en el numeral 14.2.2 de este Capítulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
-
-El monto de las comisiones y las condiciones para su cobro sólo se podrán cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto de la comisión, la modificación puede tener aplicación inmediata y la nueva comisión que se acuerde o la supresión de su cobro puede regir por lo que resta del trimestre calendario en que se produzca el cambio y, en todo caso, por el trimestre siguiente completo.
-
-Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que debe determinarse y expresarse en términos de trimestres calendario y se cargarán siempre el último día del mes en que finalice el período fijado.
-
-10.2. Cuentas con saldo inferior al monto de la comisión o sin saldo.
+### 10. Cobro de comisiones en cuentas con saldo inferior a su monto
 
 En caso de que el monto de la comisión fuere superior al saldo de una cuenta al momento en que corresponda cargarla, se podrá imputar a ella sólo un importe que no exceda al saldo que registre en la oportunidad, dado que las cuentas de ahorro no admiten sobregiros. La diferencia no recuperada por exceder el saldo de la cuenta, se podrá cargar posteriormente, una vez que la cuenta registre el saldo suficiente para ello. En caso contrario, el banco podrá cobrar directamente al titular la diferencia adeudada y proceder al cierre de la cuenta si esta se mantuviere inactiva, según lo previsto en los numerales 11 y 14.6 de este Capítulo.
 
@@ -3683,10 +3579,6 @@ En ningún caso se cobrarán comisiones correspondientes a períodos posteriores
 Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, aunque una cuenta de ahorro a plazo no tenga movimiento, se seguirán abonando a ella los intereses y, cuando corresponda, los reajustes.
 
 No podrá considerarse cerrada una cuenta de ahorro por el sólo hecho de haber quedado sin saldo, ya sea como consecuencia de haberse retirado la totalidad de los fondos depositados o por el cargo de comisiones.
-
-Lo anterior no obsta para que los bancos pongan término a una cuenta de ahorro, enviando un aviso al titular según lo instruido en el numeral 14.6 de estas normas o para que soliciten al titular, en cualquier momento, su conformidad para cerrar una cuenta.
-
-Al tratarse de una cuenta de ahorro a plazo, solamente se podrá poner término a la cuenta por la sola voluntad del banco, en la fecha en que corresponda abonar los intereses, cuando proceda. En consecuencia, para cerrar una cuenta con anterioridad a esa fecha, se requiere de una conformidad expresa del titular.
 
 El titular de una cuenta de ahorro a plazo que cierre voluntariamente su cuenta antes de la fecha en que corresponda abonar los reajustes o los intereses, sea por propia iniciativa o por otorgar su conformidad escrita a requerimiento del banco depositario, pierde el derecho a percibir los beneficios aún no abonados. Los bancos deberán advertir esa situación a la persona que desee cerrar su cuenta.
 
@@ -3724,10 +3616,6 @@ Igualmente deberá informarse del número de giros que se pueden realizar en cad
 
 Cuando el banco resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, deberá anunciar la nueva tasa con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir.
 
-Del mismo modo, si el banco resuelve aumentar las comisiones, anunciará las nuevas condiciones en un plazo no menor a diez días de anticipación al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
-
-Los anuncios de disminución de tasas de interés o aumentos de comisiones de que se trata, se harán a lo menos mediante un aviso en la página principal del sitio web del banco y en carteles destacados en los lugares de atención al público.
-
 14.3. Publicidad de cuentas de ahorro a plazo.
 
 Los bancos que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
@@ -3757,12 +3645,6 @@ c) Importe de cada partida, identificando el concepto por el cual se acreditó o
 d) Saldo inicial y final de la cuenta en el período informado.
 
 Si el banco calcula los intereses y/o reajustes, en su caso, sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
-
-14.6. Aviso de desahucio de una cuenta de ahorro.
-
-Los bancos que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, informándole de las razones que motivan esa medida, las que podrán omitirse en el caso de las cuentas de ahorro a la vista.
-
-En esa comunicación se le señalará al titular la oportunidad en que deberá retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
 
 ### 15. Garantía prendaria sobre saldo en cuenta de ahorro
 
@@ -4116,9 +3998,7 @@ a) El plan de cobro de comisiones que se establezca no podrá hacer discriminaci
 
 b) Los bancos que cobren comisiones por las cuentas a la vista deberán informar tal condición y la correspondiente tarifa, en los estados de cuenta que periódicamente deben enviar a los titulares de éstas o en un volante anexo a dichos estados. Igualmente, deberán darlas a conocer mediante avisos colocados en sus locales de atención de público, como también en su sitio web.
 
-c) Los aumentos de las tarifas de esas comisiones o las modificaciones que se hagan a las condiciones para su cobro que signifiquen un aumento de las comisiones vigentes, deberán contar con el consentimiento del respectivo titular, el que deberá solicitarse al menos con dos meses de anticipación a la fecha en que el banco desea aplicarlos. Si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
-
-d) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
+c) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
 
 2.7. Información al Público sobre pago de intereses.
 
@@ -4135,8 +4015,6 @@ Por otra parte, las instituciones que mantengan una página "web", deberán pres
 2.8. Desahucio o cierre de una cuenta.
 
 Las cuentas de depósito a la vista son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad.
-
-Para cerrar una cuenta por decisión unilateral del banco depositario, sea porque haya quedado sin saldo o por cualquier otra razón, deberá enviarse un aviso en tal sentido al titular informándole, cuando así corresponda, de la oportunidad en que deberá retirar el saldo que mantuviere.
 
 2.9. Envío periódico del estado de movimiento y saldos.
 
@@ -4165,14 +4043,6 @@ Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan suje
 Como es natural, a las cuentas de que trata este título les son aplicables todas las instrucciones generales que afectan a depósitos y captaciones, tales como las relativas al encaje, reserva técnica, prohibición de ofrecer otros beneficios apreciables en dinero a los titulares, distintos al pago de intereses en los casos que corresponda, etc.
 
 Por las razones expresadas en el Capítulo 2-4 de esta Recopilación para las cuentas de ahorro, también resulta aplicable para las "Cuentas a la vista" la recomendación de esta Superintendencia en orden a abstenerse de recibir su saldo en garantía, la que, en todo caso, no es válida para los efectos de los límites de crédito del artículo 84 de la Ley General de Bancos.
-
-2.12. Disposiciones transitorias.
-
-Para la aplicación de las nuevas normas introducidas al Compendio de Normas Financieras por Acuerdo N° 1457-04-090122 del Consejo del Banco Central de Chile, se dispone lo siguiente:
-
-Los bancos tendrán plazo hasta el 31 de mayo de 2009 para establecer, protocolizar e informar en el sitio web las Condiciones Generales para la Apertura de Cuentas a la Vista, como asimismo para operar con contratos que contengan todas las condiciones exigidas en el Capítulo III.B.1.1 del Compendio de Normas Financieras.
-
-Aquellos bancos que hayan utilizado firmas electrónicas para la apertura de cuentas vista, deberán ajustar todas las cuentas que hayan abierto bajo esa modalidad a las normas del Capítulo III.B.1.1, para lo cual dispondrán de un plazo hasta del 30 de diciembre de 2009. De acuerdo con lo indicado en la disposición transitoria de dicho Capítulo, el plan de ajuste que se establezca deberá ser informado a esta Superintendencia a más tardar el 22 de abril de 2009.
 
 ## Capítulo 2-8
 
@@ -6434,71 +6304,11 @@ c) Líneas de crédito y sobregiros pactados.
 
 La tasa máxima que se puede cobrar por los créditos que se originen por una línea de crédito previamente pactada, como asimismo por aquellos otorgados en la forma de sobregiros pactados en cuenta corriente, se establecerá en función del tiempo que se hubiere pactado para hacer uso de la línea o sobregirar la cuenta corriente, y del monto máximo autorizado.
 
-7. Recargo de los intereses pactados con comisiones u otros importes recibidos a cualquier título.
-
-7.1. Tasa efectiva de los créditos.
-
-7.1.1. Disposiciones generales.
-
-El texto del artículo 2° de la Ley N° 18.010 expresa lo que sigue:
-
-"En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital.
-
-En las operaciones de crédito reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado.
-
-En ningún caso, constituyen intereses las costas personales ni las procesales."
-
-De acuerdo con lo anterior, los bancos que otorguen créditos que contemplen el pago de importes adicionales a la sola devolución del capital más sus reajustes e intereses devengados, deberán determinar la tasa efectiva del crédito, considerando todos los pagos que el deudor debe realizar, incluyendo aquellos que se pudieren efectuar bajo la forma de comisiones o por otros conceptos, tales como gastos por obtención de informes comerciales, verificación de domicilio, gastos de tramitación u otros cargos que impliquen de hecho pagar un mayor precio por el dinero prestado.
-
-Quedan excluidos del cálculo de la tasa efectiva solamente los siguientes importes de cargo del deudor:
-
-a) Impuesto de timbres y estampillas.
-
-b) Gastos notariales.
-
-c) Gastos inherentes a bienes recibidos en garantía, esto es, los incurridos para la tasación de los bienes, los conducentes a la inscripción o registro de prendas o hipotecas, incluido el estudio de títulos y redacción de escrituras, y el pago de las primas de seguros sobre tales bienes.
-
-d) Pagos de primas de seguros de desgravamen y de cesantía, cuando sea el caso.
-
-La obligación de considerar las comisiones para calcular los intereses efectivos de un crédito, no comprende aquellas comisiones que los bancos cobren por actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero. En estos casos en que el banco no actúa sólo en calidad de prestamista, las comisiones no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido, sino una remuneración por un servicio que por su naturaleza puede estar ligado a un crédito. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositaría y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura y manejo de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos, y otros servicios propios de las entidades bancarias.
-
-7.1.2. Cálculo y aplicación de las tasas efectivas.
-
-La tasa efectiva del crédito debe obtenerse siempre considerando el interés de cobro vencido, incorporando todos los flujos relacionados con la operación.
-
-Para mayor claridad, se entregan los siguientes ejemplos en relación con las tasas y condiciones contractuales de los créditos:
-
-Ejemplo 1:
-
-Si se pacta un crédito por $100.000 con una tasa de un 2,0% mensual, pagadero en 12 cuotas mensuales de $9.456 cada una, y además el cobro de una comisión por $12.000 que se paga distribuida en cuotas iguales de $1.000 junto con cada cuota del crédito que consta en el instrumento, el crédito efectivo será de $100.000, con flujos fijos de $10.456, lo que determina una tasa efectiva del 3,7%.
-
-Ejemplo 2:
-
-Si se pacta un crédito por $112.000 con un 2,0% mensual de interés y pagadero en 12 cuotas mensuales de $10.591 cada una, que incluye una comisión por $12.000 que se descuenta al momento de otorgar el crédito, el crédito efectivo será de $100.000, con flujos equivalentes a las cuotas pactadas en el instrumento, lo que determina una tasa efectiva del 3,9%.
-
-La posibilidad de efectuar las operaciones en el caso de créditos sujetos al límite del interés máximo convencional, dependerá de la magnitud de su tasa efectiva, no pudiendo ésta en ningún caso superar el interés máximo convencional que sea aplicable.
-
-Las disposiciones relativas a la tasa efectiva de que se trata, se refieren sólo a aquellos casos en que un banco opta por pactar créditos cobrando importes adicionales a los que resultan de las condiciones contractuales relativas a la devolución del capital y el pago de reajustes e intereses. En esos casos, los bancos deberán considerar los valores efectivos para el cumplimiento del interés máximo convencional y para informar al público acerca de las tasas cobradas.
-
-La opción de cobrar aquellos importes adicionales es sin perjuicio de las normas que expresamente los impiden, como ocurre con los préstamos en letras de crédito o con los mutuos hipotecarios endosables, casos en que no procede cobrar al deudor otros conceptos que no sean los que se permiten en las respectivas instrucciones.
-
-7.2. Situación de los créditos de consumo en relación con la tasa efectiva y el cobro de importes adicionales.
-
-7.2.1. Cobros por prestación de servicios conexos.
-
-Cualquier servicio que se asocie a un préstamo de consumo u otros con características o finalidades similares, constituye solamente una modalidad para su otorgamiento y no un servicio bancario distinto, por lo que no procede excluir del cálculo de la tasa efectiva el cobro de comisiones al amparo de lo precisado en el último párrafo del numeral 7.1.1 de este título, salvo que se trate de comisiones por las líneas de crédito que cumplan las condiciones que en ese párrafo se mencionan expresamente.
-
-Las presentes instrucciones no comprenden los créditos de consumo que se originan en el uso de las tarjetas de crédito autorizadas por el Banco Central de Chile, las que, en materia de comisiones, se encuentran reguladas por sus propias normas.
-
-7.2.2. Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
-
-Cuando se trate de créditos de consumo u otros similares, además de las excepciones ya indicadas en el numeral 7.2.1 precedente, los bancos solamente podrán cobrar sin incorporar los respectivos importes al cálculo de los intereses efectivos de la operación, los conceptos señalados en las letras a), b) y c) del penúltimo párrafo del numeral 7.1.1.
-
-8. Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
+7. Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
 Para el cálculo de intereses de documentos descontados, es improcedente el cargo de días adicionales al vencimiento, aún tratándose de documentos descontados pagaderos fuera de la plaza asiento de la institución descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que la demora que esto supone para que la primera pueda disponer efectivamente de su valor, no es imputable, de ninguna manera, al beneficiario del descuento.
 
-### 10. Información al público
+### 8. Información al público
 
 Los bancos informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
 
@@ -6514,7 +6324,7 @@ por periodo operación Anual (360 días)
 
 8,5% 90 días 34,00%
 
-b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado, o en que debe indicarse la tasa efectiva del crédito según lo previsto en el numeral 7.1 de este título.
+b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado.
 
 c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 200 U.F., las que exceden de 200 U.F. y no superen las 5.000 U.F. y las superiores al equivalente de 5.000 U.F.
 
@@ -6522,9 +6332,9 @@ d) Los bancos pondrán especial cuidado en proporcionar al público la informaci
 
 Además, las instituciones deberán mantener a disposición del público un extracto con ejemplos de las modalidades de cobro de intereses, de tal manera que tanto los usuarios de créditos, como los depositantes e inversionistas puedan comparar sin dificultad las tasas de interés vigentes en el mercado.
 
-### 11. Información a esta Superintendencia de las tasas de interés cobradas
+### 9. Información a esta Superintendencia de las tasas de interés cobradas
 
-Para los efectos de la determinación del interés corriente, los bancos deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información. Al tratarse de operaciones en que debe calcularse la tasa efectiva según lo previsto en el N° 7 de este Capítulo, deberá informarse dicha tasa efectiva.
+Para los efectos de la determinación del interés corriente, los bancos deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
 
 ANEXO N° 1
 
@@ -6938,7 +6748,7 @@ Los emisores de tarjetas de crédito deberán suscribir o renovar con cada titul
 
 1) el plazo o condiciones de vigencia del contrato;
 
-2) el límite de crédito autorizado por el periodo contratado y la forma de proceder en caso de modificación, debiéndose establecer que las disminuciones a ese límite serán informadas por escrito al titular y que todo aumento sobre el monto original requerirá de su consentimiento, salvo que el incremento obedezca a una modalidad de aumento previamente pactada con el cliente;
+2) el límite de crédito autorizado por el periodo contratado;
 
 3) la fecha de emisión de estados de cuenta y de vencimiento de la respectiva obligación de pago del titular o usuario;
 
@@ -6988,27 +6798,7 @@ c) Identificación de la persona autorizada para su uso (titular de la tarjeta).
 
 5.- Sobre el cobro de comisiones y/o cargos e intereses.
 
-A fin de que los interesados puedan decidir informadamente respecto de las distintas marcas y clases de tarjetas de crédito que ofrecen las empresas emisoras, es necesario que, además de conocer los requisitos o condiciones para acceder a ellas, se les proporcione la suficiente información acerca de los costos que involucra cada una de ellas en términos de comisiones y/o cargos o intereses.
-
-Lo anterior exige que se especifiquen todos los cobros establecidos por estos conceptos, tanto por la mantención operativa de la tarjeta, como por las diferentes operaciones que se realicen a su amparo, de forma que los usuarios de tarjetas de crédito reciban adecuada información de los diversos costos por el uso de la tarjeta, y puedan distinguir claramente entre el costo del uso del crédito que otorgue la empresa emisora y los costos por mantener operativa la tarjeta como instrumento de pago.
-
-5.1.- Determinación y cobro de comisiones y/o cargos.
-
-Las comisiones y/o cargos constituirán todos los cobros necesarios para la mantención operativa de las tarjetas de crédito en sus distintas modalidades de uso. Cualquier modificación en el plan de cobros sólo podrá aplicarse con el consentimiento del titular, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él. El consentimiento del cliente se solicitará al menos con dos meses de anticipación a la fecha en que el emisor desea aplicar las nuevas tarifas. Si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
-
-Al tratarse de comisiones y/o cargos cobrados en forma anticipada, como lo puede ser una comisión por mantención, referida a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de poner término anticipadamente al contrato.
-
-Las comisiones y/o cargos no podrán determinarse como un porcentaje de las transacciones efectuadas y deberán responder a servicios efectivamente prestados a favor de los titulares de las tarjetas de crédito. En ningún caso podrán cobrarse importes adicionales a las comisiones y/o cargos, a título de gastos incurridos (como procesamiento de datos, envío de los estados de cuenta, renegociaciones o repactaciones, etc.), puesto que ellos no se efectúan por cuenta de los titulares de las tarjetas sino que corresponden a los costos necesarios para proveer los servicios ofrecidos por el emisor.
-
-Lo indicado en el párrafo anterior no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
-
-Si se efectuaren pagos anticipados de los créditos por el uso de las tarjetas, las empresas emisoras podrán cobrar por concepto de "comisión de prepago" una suma que no debe exceder lo estipulado en el inciso segundo del artículo 10 de la Ley N° 18.010.
-
-5.2.- Determinación y cobro de intereses.
-
 El estricto apego al cumplimiento de la tasa máxima convencional exige que los emisores no excedan la correspondiente tasa de interés según los diversos tramos o apertura de la tasa de interés corriente y máximo convencional, publicada por esta Superintendencia para el respectivo período. Para estos efectos, se debe considerar si las operaciones pactadas en moneda nacional no reajustable con pago de intereses están a menos de 90 días, a ese plazo o a más de 90 días. El plazo estará determinado por el número de días transcurridos entre la fecha de la operación que devenga intereses y la fecha de vencimiento de la última cuota pactada o por el plazo por el que se ha otorgado la línea que concede un crédito rotativo, según sea el caso, o la modalidad de uso del crédito otorgado.
-
-Para los fines de determinar la tasa de interés aplicada se computará como interés todo importe que se cobre por sobre las comisiones y/o cargos a que se refiere el numeral anterior, como asimismo toda imputación de cobro efectuada al titular de la tarjeta sin su conformidad o previa aceptación.
 
 6.- Pérdida, hurto, robo, falsificación o adulteración de la tarjeta.
 
@@ -7030,71 +6820,13 @@ El emisor podrá contratar un seguro por el mal uso que se le pueda dar a las ta
 
 Los bancos deben instruir a los usuarios acerca de las precauciones que deben tener en el manejo de sus tarjetas, así como de las principales normas que rigen su uso, como también del cuidado de mantener en reserva las claves personales que habilitan su acceso a cajeros automáticos.
 
-No menos importante son, en ese mismo sentido, las precauciones que deben observar los bancos para la colocación de esos instrumentos entre los probables interesados. Si bien una tarjeta de crédito no puede ser utilizada mientras no sea habilitada, no es recomendable que en las visitas que hagan los vendedores o promotores del producto a posibles clientes, lleven consigo las tarjetas ya impresas con los nombres de las personas a quienes se las ofrecerán, antes que éstas hayan resuelto aceptarlas, como tampoco que, en el marco de esas promociones se las envíen por correo. Esos procedimientos entrañan los inconvenientes de eventuales extravíos o robos de esos documentos, además de reacciones negativas de las personas a quienes se les ofrece el servicio y que no han dado su consentimiento para aceptarlo.
-
-10.- Información de tarifas y otros cobros.
-
-La información que se entregue a los interesados y usuarios de tarjetas de crédito relativa a los cobros asociados a la mantención y uso de esos instrumentos debe ser lo suficientemente completa, explícita y fácilmente comprensible de forma tal que el cliente pueda efectuar comparaciones entre los valores cobrados por los distintos emisores
-
-Para cada tipo de tarjeta que se ofrece, deben especificarse claramente las tarifas vigentes en cuanto a comisiones y/o cargos, intereses, oportunidad de cobro, las condiciones referidas a su aplicación y costos asociados, de forma tal que el cliente pueda efectuar comparaciones entre los valores cobrados por los distintos emisores.
-
-La información señalada debe mantenerse actualizada.
-
-10.1.- Información sobre cobro de comisiones y/o cargos.
-
-Los emisores y operadores de tarjetas de crédito, según corresponda, deberán proporcionar a los interesados una completa información relativa a las comisiones y/o cargos que aplican por ese servicio. Esa información debe comprender el o los conceptos por los cuales se cobra, la modalidad y periodicidad de los cobros y los correspondientes importes o tasas por cada uno de los conceptos afectos.
-
-Para solicitar el consentimiento de los titulares en caso de que el emisor desee aumentar las tarifas, se les entregará la misma relación en forma comparativa con las tarifas vigentes.
-
-10.2.- Información sobre cobro de intereses.
-
-Los usuarios de tarjetas de crédito deberán ser informados sobre las operaciones realizadas con tarjetas de crédito que estarán afectas al pago de intereses, (utilización de la línea de crédito; avances en efectivo; compra en cuotas con intereses; etc.). Asimismo, deberá informárseles el concepto por el cual se cobra, así como la tasa aplicable, la base de cálculo y el período que comprenden, de manera que el usuario pueda decidir su opción plenamente informado del costo de la operación que realiza o se propone realizar.
-
-La información correspondiente, deberá ser proporcionada a los clientes en el estado de cuenta que se les envía o en un anexo a este, o en las pizarras informativas instaladas en los locales del emisor.
-
-Cuando se hagan efectivos los cobros, deberá informarse en el respectivo estado de cuenta que se envía o en un anexo a este, el detalle de las operaciones sobre las cuales se cobra, la tasa aplicada y el período que cubre ese cobro.
-
-10.3.- Información en las oficinas de atención de público.
+10. - Información en las oficinas de atención de público.
 
 Los bancos que ofrezcan tarjetas de crédito al público, deberán mantener en las oficinas en que dispongan de ese servicio, una amplia información acerca de las marcas, tipo de tarjetas ofrecidas y requisitos para optar a ellas y sus principales características, así como de las comisiones y/o cargos a que están afectas, tanto en monto o tasa, como los conceptos por los cuales se cobra y la periodicidad de esos cobros.
 
 Asimismo, deberá proporcionarse información acerca de la tasa de interés vigente para las operaciones afectas al pago de intereses.
 
-10.4.- Información en sitio electrónico.
-
-La información a que se refieren los numerales precedentes deberá incorporarse a la página "web" del banco, de manera que el público pueda informarse fácil y ampliamente y comparar las distintas posibilidades que le ofrece el mercado, en relación a, por ejemplo, si las tarjetas son para el uso solamente dentro del país o internacionales; las líneas de crédito asociadas y las correspondientes tasas de interés; las comisiones y/o cargos que las afectan, incluidos concepto, tasas o importes y periodicidad de cobro; las operaciones sujetas al pago de intereses y tasas que se aplican, y los procedimientos y gastos de cobranza involucrados.
-
-10.5.- Gastos de cobranza.
-
-Los bancos que encarguen la cobranza de los créditos impagos a una empresa externa y traspasen a sus clientes los honorarios respectivos, deberán proporcionar a estos un documento en el que se indiquen los honorarios que se aplicarán, el período de vigencia de ellos, así como los días en que el crédito impago permanecerá en la empresa, antes de ser enviado a la cobranza externa.
-
-En los estados de cuenta que se envíen a los titulares deberá incluirse una leyenda destacada, en la que se informará que los pagos con retraso generarán un recargo por concepto de los gastos de cobranza en que se incurra, de acuerdo a lo dispuesto en la Ley N° 19.496.
-
-11.- Estados de cuenta para el titular de la tarjeta.
-
-El emisor deberá remitir al titular de la tarjeta de crédito, a lo menos una vez al mes, un estado de cuenta que deberá contener, como mínimo, la siguiente información:
-
-a) Nombre del titular y número de identificación de la cuenta.
-
-b) Fecha de emisión del estado de cuenta.
-
-c) Fecha de vencimiento y monto de pago.
-
-d) Detalle de las compras o usos de servicios, registrados en el período informado, que indique el nombre del establecimiento, la fecha y el monto.
-
-e) Avances otorgados (fecha y monto).
-
-f) Intereses (tasas, montos y períodos sobre el que se aplican), para el caso de créditos rotativos.
-
-g) Cobro por comisiones y/o cargos (concepto y monto).
-
-h) Pagos efectuados por el titular (fecha y monto).
-
-i) Saldo adeudado a la fecha y monto disponible.
-
-j) Tasa(s) de interés que rige(n) para el período siguiente. El estado de cuenta será enviado en papel o por correo electrónico, según lo indique por escrito el titular de la tarjeta.
-
-12.- Sanciones.
+11.- Sanciones.
 
 Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a los bancos en uso de la facultad que le confiere el artículo 19 de la Ley General de Bancos, en caso de incumplimiento grave o reiterado de las normas del Banco Central de Chile, de la presente normativa o de otras instrucciones que imparta esta Superintendencia, como asimismo cuando el sistema de tarjetas de crédito o su administración no se realice de acuerdo con sanas prácticas financieras, las entidades pueden ser sancionadas con la suspensión o revocación de la autorización para emitir tarjetas de crédito, previo informe favorable por parte del Banco Central de Chile.
 
@@ -7776,61 +7508,27 @@ Sólo si se cumplen esos requisitos podrá entenderse que la emisión de la bole
 
 ## Capítulo 8-12
 
-CARTAS DE GARANTÍA Y CARTAS DE RESGUARDO INTERFINANCIERAS. MOVILIDAD DE LAS GARANTÍAS.
+CARTAS DE RESGUARDO.
 
-### I. GENERALIDADES
+1.- Características de las Cartas de Resguardo.
 
-Las instituciones bancarias pueden emitir los documentos de que trata este Capítulo, para las finalidades que se señalan más adelante, indistintamente a favor de otras entidades bancarias o de las sociedades filiales de bancos.
+Las cartas de resguardo se dan, por lo general, para efectos de alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien que tengan su origen en un mandato de comisiones de confianza.
 
-### 1. Cartas de Garantía
-
-La carta de garantía interfinanciera es un documento que, como una variante de la boleta bancaria de garantía, se reconoce como un instrumento válido para caucionar obligaciones que un deudor tenga en una institución financiera distinta de aquella que la otorga.
-
-### 2. Cartas de Resguardo
-
-Las cartas de resguardo se dan, por lo general, para efectos de alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien que tengan su origen en un mandato de comisiones de confianza. No están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido.
-
-### II. CARTAS DE GARANTÍA INTERFINANCIERAS
-
-La aplicación de este instrumento estará limitada a garantizar a otra entidad financiera la obligación que un cliente mantenga con ella.
-
-### 1. Aplicaciones
-
-Los bancos podrán emitir estas cartas de garantía, sea que se encuentren respaldadas o no con garantías reales o personales del cliente por cuenta de quien son emitidas.
-
-En las cartas de garantía interfinancieras a que se refiere este N° 1 deberá establecerse una condición o plazo, que indicará la oportunidad en que se hará exigible el documento por parte del acreedor a cuyo favor se extienda. Al cumplirse dicho plazo o condición, el emisor deberá pagar la obligación a sumida, de inmediato y sin más trámite.
-
-### 2. Moneda y reajustabilidad
-
-Las cartas de garantía pueden expresarse en moneda chilena sin cláusula de reajustabilidad o reajustables sobre la base de algunos de los sistemas autorizados por el Banco Central de Chile en su Compendio de Normas Financieras o en moneda extranjera cuando se trate de garantizar una obligación en esa moneda.
-
-### 3. Menciones mínimas que debe contener
-
-Las cartas de garantía interfinancieras deberán contener como mínimo las siguientes menciones:
-
-- Nombre del deudor cuyos créditos se caucionan.
-
-- Tipo y monto de créditos garantizados.
-
-- Plazo de vigencia de la garantía o condiciones a que se sujeta.
-
-Sin perjuicio de lo anterior, los bancos podrán agregar la información adicional que estimen conveniente respecto de las condiciones de estas garantías.
-
-### 4. Aplicación de límites o márgenes legales o reglamentarios
-
-Los créditos contingentes que se originen por la emisión de cartas de garantía interfinancieras a que se refiere el N° 1 de este título, se computarán del mismo modo que aquellos que se otorgan para emitir las boletas de garantía de que trata el Capítulo 8-11 de esta Recopilación, para los efectos de las siguientes disposiciones:
-
-a) Márgenes de crédito del artículo 84 de la Ley General de Bancos; y,
-
-b) Ponderación por riesgo de los activos, según el artículo 67 de la misma ley y lo dispuesto en el Capítulo 12-1 de esta Recopilación.
-
-### III. CARTAS DE RESGUARDO
-
-Las cartas de resguardo que emitan los bancos para el alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien tengan su origen en un mandato de comisiones de confianza, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido, no están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos.
+Las cartas de resguardo que emitan los bancos para el alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien tengan su origen en un mandato de comisiones de confianza, no están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido,.
 
 En efecto, si se trata, por ejemplo, de la compraventa de un inmueble, en la que sea necesario que el banco otorgante del crédito comprometa su responsabilidad en beneficio de su cliente para que otra institución alce un gravamen que afecte al inmueble e impida perfeccionar la operación, no existe inconveniente para que pueda extender el documento de compromiso, toda vez que se trata de un acto indispensable para realizar la operación y que está aceptado por los usos normales, siendo similar a otro que es tradicional en nuestro medio, esto es, los "libros de instrucciones" de las notarías, que están fundados en la confianza más que en una estricta legalidad.
 
 Cualquier otro tipo de "carta de resguardo" que no reúna las características precedentemente indicadas, como es el caso de aquellas que extendían algunas instituciones financieras en que certificaban la concesión de un determinado crédito o se comprometían a pagar determinados bienes y obligaciones por cuenta de sus clientes con cargo a créditos que les cursarían al efecto, están prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están viciadas de nulidad.
+
+2.- Disposiciones sobre el traspaso garantías mediante el uso de Cartas de Resguardo.
+
+Cuando el deudor requiera el alzamiento de los gravámenes que existan sobre bienes que garantizan el crédito que se pagará anticipadamente, con la finalidad de entregarlos en garantía a otra entidad que refinancia la operación, la institución acreedora deberá dar curso o en su caso formular sus observaciones o reparos a la carta de resguardo que se emita para tales efectos, en un plazo no superior a 7 días hábiles bancarios, contados desde la fecha de su recepción.
+
+Cuando el banco acreedor reciba cartas de resguardo que corrijan totalmente los reparos de aquellas previamente observadas, dispondrá de un plazo máximo de 3 días hábiles bancarios, contados desde la fecha de recepción, para proceder a su aceptación.
+
+En caso de que el banco acreedor objetara el monto comprometido a pagar en la referida carta, deberá hacerlo indicando claramente en sus observaciones la suma exacta que exige para su aprobación y el motivo por el cual éste difiere del monto que indicó en el certificado emitido para la liquidación de la deuda.
+
+Una vez aceptada la carta de resguardo, el banco acreedor deberá otorgar la escritura de cancelación de la o las hipotecas, en el plazo de 15 días hábiles contado desde la fecha de ocurrido alguno de aquellos eventos, debiendo conservar los respaldos que acrediten que se informó al cliente de los procedimientos y costos involucrados. Cuando el alzamiento se formalice con una cláusula en el mutuo mediante el cual el banco que refinancia otorga el crédito, ese plazo se entenderá referido al tiempo para firmar la escritura, contado desde la fecha en que ella se encuentra disponible para la firma.
 
 CAPITULO 8-13. Derogado.
 
@@ -8685,8 +8383,6 @@ En los préstamos destinados a la adquisición o construcción de viviendas cuyo
 ### 3. Garantía hipotecaria
 
 La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda el 75 % del valor de tasación o del precio de venta del inmueble. Ese límite será de un 60 % cuando se trate de obligaciones pagaderas o expresadas en moneda extranjera, o reajustables por la variación del tipo de cambio de las monedas extranjeras que constituyen sistemas de reajustabilidad autorizados.
-
-En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata, salvo expresa solicitud del deudor.
 
 Si dos bancos participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
@@ -18772,20 +18468,6 @@ Los bancos deberán hacer llegar a la Superintendencia de Valores y Seguros la i
 
 Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse los datos específicos exigidos por esa Superintendencia, en las oportunidades y dentro de los plazos que para esos fines ha establecido.
 
-## Capítulo 18-12
-
-INFORMACIÓN A CLIENTES SOBRE COBRANZA EN EMPRESAS EXTERNAS.
-
-Los bancos que entreguen la cobranza de créditos morosos a empresas externas y traspasen a sus clientes la obligación de pagar los honorarios de estas últimas, deberán informar de la existencia y el monto de dichos honorarios a los solicitantes de créditos, en forma anticipada a la aprobación de los mismos.
-
-Con tal objeto, junto con la solicitud de crédito se deberá entregar al cliente un volante conteniendo la tabla de honorarios que se aplicará, el período de vigencia de ellos y la indicación del número de días hábiles en que el préstamo o la cuota permanecerá impago en la institución antes de ser enviado a cobranza externa. De igual forma, deberá comunicarse a los clientes cuando la tabla de honorarios sufra modificaciones. Además, la solicitud de crédito deberá contener una cláusula en la que el demandante del crédito declare haber recibido información detallada de los costos de cobranza que le afectarán en caso de atrasarse en el pago de sus obligaciones.
-
-Asimismo, en los locales en que se atienda a solicitantes de créditos de consumo, como también en aquellos habilitados para recibir pagos, incluidas las cajas auxiliares, se colocará un aviso destacado, indicándole al cliente que el pago con retraso puede acarrearle recargos por gestiones de cobranza realizadas por una empresa externa.
-
-Por último, en la chequera de pago, cuando ése sea el sistema utilizado, deberá incluirse una leyenda destacada recordando que los pagos con retraso generarán un recargo por concepto de gastos de cobranza.
-
-En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá al banco probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
-
 ## Capítulo 18-13
 
 INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
@@ -18811,64 +18493,6 @@ c) La entidad bancaria no podrá participar en la entrega de bienes o servicios 
 d) En las promociones que realicen las empresas bancarias y en cualquier información relativa a los incentivos ofrecidos que dirijan a sus clientes como al público en general, deberá señalarse en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole al banco intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
 e) El banco no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
-
-## Capítulo 18-14
-
-TRANSPARENCIA DE LA INFORMACIÓN AL PÚBLICO.
-
-### 1. Marco general
-
-El mayor acceso que amplios segmentos de la población han tenido a los productos financieros trae aparejada una creciente relevancia de la información que los bancos deben poner a disposición de los usuarios a fin de que puedan decidir sobre su contratación, teniendo el debido conocimiento de las características de los servicios que les son ofrecidos y el importe que deben pagar por ellos. Además, el importante dinamismo de la oferta de productos y la alta competitividad del sector bancario introducen elementos de mayor complejidad para el suministro de información idónea a los clientes actuales y potenciales
-
-de las entidades.
-
-Por otra parte, las normas sobre transparencia de mercado han ganado creciente importancia en el ámbito de la regulación de los bancos. En diversos países desarrollados, como asimismo en varios países con mercados financieros emergentes, su importancia ha llegado a situarse a la par con la que se otorga a la regulación prudencial de esas entidades.
-
-Conviene indicar que, si bien esta Superintendencia ha emitido normas que tratan de la materia, ha estimado necesario dar a conocer un marco regulador general sobre principios que dan cuenta de una debida transparencia, a fin de promover una mayor homogeneidad y claridad en la información que las entidades ponen a disposición de los usuarios de los servicios bancarios que facilite a estos la comparación de las diversas ofertas del mercado.
-
-Los factores arriba mencionados dan contenido a los siguientes objetivos de las normas dirigidas a la transparencia de la información proporcionada a los clientes y público en general por parte de los bancos:
-
-- Reducir asimetrías de información, proporcionando una adecuada difusión de aquella considerada suficiente para tomar decisiones fundadas.
-
-- Fomentar en adecuadas condiciones el acceso del público a los servicios financieros.
-
-- Asegurar el desarrollo de buenas prácticas comerciales.
-
-El logro de esos objetivos forma parte de la infraestructura de mercados informados y transparentes que, como tales, juegan un importante rol en la confianza del público en el sistema financiero y en la competencia entre los bancos.
-
-Las disposiciones contenidas en este Capítulo establecen los lineamientos generales y pautas mínimas que deben observar los bancos en la información que entreguen a su clientela y al público en general, para así alcanzar un nivel satisfactorio de transparencia bancaria.
-
-### 2. Calidad de la información
-
-Los bancos deben velar porque la información que suministran al mercado sobre los productos financieros permita que los usuarios tengan la posibilidad de adquirir un conocimiento cabal sobre la materia y así puedan tomar las decisiones que consideren más adecuadas sobre la utilización de los servicios que les son ofrecidos.
-
-Los clientes deben contar con la información suficiente respecto de la tarifa o precio (tasa de interés, comisiones, primas), condiciones y características relevantes de los productos y/o servicios que desean contratar, como también con aquella que les permita identificar claramente qué servicios y productos están comprendidos en cada cobro. Asimismo, deben ser informados sobre qué productos pueden o no ser otorgados de forma independiente y sobre cuales el cliente debería declarar su expreso consentimiento.
-
-La entrega de información debe ocurrir no sólo en el momento de la contratación de un producto y/o servicio, sino también durante todo el tiempo que dure la relación contractual de la institución financiera con el cliente.
-
-Entre las condiciones necesarias para que la entrega de información cumpla con la propiedad de transparencia, se pueden mencionar:
-
-a) Claridad. Una información es clara si permite al público en general comprender su significado. Para ese efecto se debe usar palabras simples y de común entendimiento.
-
-b) Debe ser completa, de manera que abarque todos los precios, condiciones y características relevantes relacionados con la contratación de un producto y/o servicio, de manera que el cliente pueda conocer el valor final de la prestación. No se cumple con esto último si faltan datos que permitan la realización de un cálculo relacionado.
-
-c) Debe ser relevante, esto es, que sea importante y necesaria para comprender el tema de que se trata en su cabal dimensión. Relevante implica especificar todos los aspectos necesarios para la toma de decisiones.
-
-d) Debe ser fiable, es decir, que sea una representación fiel de la realidad, que no contenga errores, ni que lleve a confusión o duda respecto de su veracidad.
-
-e) Debe ser comparable, de forma de poder cotejar productos similares ofrecidos por el mismo banco u otros. No será comparable si la forma en que la información se presenta impide o dificulta en forma importante la confrontación con otras opciones.
-
-Esta Superintendencia considera altamente conveniente que cada empresa tenga disponible un plan básico del respectivo producto con su correspondiente precio, a fin de permitir a los clientes su comparación con los similares que ofrezca la competencia.
-
-f) Debe ser oportuna en el sentido de estar presente en el momento de la toma de decisiones, es decir, que el cliente pueda conocer todas las condiciones con la debida antelación para celebrar un contrato.
-
-g) Debe ser de fácil acceso y gratuita a través de distintos medios tales como folletería y pizarras.
-
-### 3. Información a entregar a los clientes
-
-Los bancos deberán enviar a sus clientes una vez al año, un cuadro con la información completa acerca de las tarifas de las comisiones asociadas a los distintos productos y servicios contratados por éstos y los correspondientes montos efectivamente cobrados en el respectivo período de doce meses. La información que se entregue debe comprender todos los cobros realizados y los conceptos que los justifican, de modo que exista completa claridad sobre su procedencia.
-
-Podrá prescindirse del envío de la información anual a que se refiere el párrafo precedente cuando en los estados de cuenta periódicos ("cartolas"), sean éstos mensuales, trimestrales, anuales o con cualquiera otra frecuencia, que se entregan a los clientes, relativos a sus movimientos en cuentas corrientes, cuentas vista, cuentas de ahorro, uso de tarjetas de crédito u otros servicios o productos, se incluya la información suficientemente clara sobre las tarifas de comisiones a que está afecto el respectivo producto o servicio y los importes cobrados por ese concepto en el período informado.
 
 ## Capítulo 19-1
 
