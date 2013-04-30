@@ -164,23 +164,21 @@ d) Antigüedad
 
 20 puntos por cada postulación hábil en que no haya
 
-sido seleccionado el respectivo grupo
+sido seleccionado el respectivo postulante, en
 
-postulante, en llamados a concurso regulados por
+llamados a concurso regulados por el presente
 
-el presente reglamento u otros llamados a
-
-postulación habitacional efectuados por el Minvu
-
-destinados a la obtención de una vivienda.
+reglamento.
 
 El puntaje del grupo en cada factor, será el promedio de los puntajes que obtenga cada uno de los postulantes que componen dicho grupo. El puntaje total del grupo organizado será el correspondiente a la suma de cada uno de los factores señalados en las letras a), b), c) y d), precedentes.
 
-5. El presente llamado especial se regirá por lo dispuesto en el DS Nº 49 (V. y U.), de 2011, con excepción de los requisitos, condiciones y exigencias modificados por la presente resolución.
+5. Establécese que los grupos postulantes a los que se refiere el artículo 2º transitorio del DS Nº 49 (V. y U.), de 2011, podrán participar de este Llamado, aun cuando hayan superado el número de postulaciones hábiles factibles de realizar, según lo dispuesto en el citado artículo 2º transitorio.
 
-6. Para determinar el número de subsidios a financiar, se considerarán los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la Calificación Definitiva del proyecto y de la adscripción a éste por parte del grupo seleccionado.
+6. El presente llamado especial se regirá por lo dispuesto en el DS Nº 49 (V. y U.), de 2011, con excepción de los requisitos, condiciones y exigencias modificados por la presente resolución.
 
-7. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+7. Para determinar el número de subsidios a financiar, se considerarán los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la Calificación Definitiva del proyecto y de la adscripción a éste por parte del grupo seleccionado.
+
+8. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
