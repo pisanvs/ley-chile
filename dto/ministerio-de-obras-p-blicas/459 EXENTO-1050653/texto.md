@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 459, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terrenos N°s 32 y 32-A, superficies 81 y 5 m2 respectivamente, rol N° 1245-205, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", PROVINCIA Y REGIÓN DEL BIOBÍO. La Comisión de Peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Susana Conejeros Rudloff, fijó el valor de tasación con fecha 18 de octubre de 2009, acordándose la indemnización con su propietaria OLIVIA DEL CARMEN FIGUEROA DAROCH, en la cantidad de $17.944.858.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
