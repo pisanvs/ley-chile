@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 445, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N°s. 19 y 19-A, superficies 152 y 8 m2, rol N° 901-47, Comuna de Alto del Carmen, para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO - JUNTA DE VALERIANO, ETAPA II, (LAS LOSAS - EL CORRAL)", PROVINCIA DE HUASCO, Región de Atacama. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 25 de julio y 19 de diciembre, ambas de 2011, acordándose la indemnización con su propietaria ROSA ELVIRA BORDONES CARRIL, en la cantidad de $484.487.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
