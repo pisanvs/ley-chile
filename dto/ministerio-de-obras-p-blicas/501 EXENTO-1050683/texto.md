@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 501, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. N° 850 de 1997, se expropió el lote de terreno N° 7-B superficie 457 m2., Rol de avalúo 1445-110, Comuna de Zapallar para la obra, "MEJORAMIENTO RUTA E-46, SECTOR CRUCE LONGITUDINAL (CATAPILCO) - LA LAGUNA, TRAMO KM. 12,22000 KM. 19,06322, PROVINCIA DE PETORCA, V REGIÓN". La Comisión de Peritos integrada por Antonio Díaz Rosas, Roberto Luis Sebastián Hernández y Herman Edgardo Figueroa Zúñiga, fijó el valor de la tasación con fecha 24 de junio de 2011, acordándose la indemnización con su propietaria INMOBILIARIA SANTA BERTINA S.A., en la cantidad de $24.079.408.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
