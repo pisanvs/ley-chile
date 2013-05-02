@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 440, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 31, superficie 307 m2, rol N° 20-47, Comuna de Coinco, para la obra "REPOSICION PUENTE COINCO, COMUNAS DE COINCO Y DOÑIHUE SEXTA REGIÓN, KM. 0,00000 A KM. 2,50595, PROVINCIA DE CACHAPOAL, VI REGIÓN. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Oscar Navea Muñoz y María Isabel de Jesús Ríos Marcuello, fijó el valor de tasación con fecha 01 de agosto de 2011, acordándose la indemnización con su propietario MIGUEL SANDOVAL STRICKER, en la cantidad de $4.616.721.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
