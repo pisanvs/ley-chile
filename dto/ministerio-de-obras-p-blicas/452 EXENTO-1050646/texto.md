@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 452, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 1, superficie 38 m2, rol N° 325-156, comuna de Villarrica, para la obra "CAMINO CANCHA AVIACIÓN - RELÚN, SECTOR PUENTE COLLICO, TRAMO KM. 2,16000 AL KM. 2,89000", PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La Comisión de Peritos integrada por Paula Andrea Lagos Carrasco, Evaldo Roberto Contreras Roa y César Nolberto Campos Vergara, fijó el valor de tasación con fecha 12 de enero de 2012, acordándose la indemnización con su propietario RENÉ GESUALDO PINO PICHINAO, en la cantidad de $2.546.846.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
