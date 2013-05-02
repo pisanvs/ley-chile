@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 458, de 28 de marzo de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 1, superficie 230 m2, Rol de Avalúo N° 201-85, Comuna de Florida, para la obra "CONSERVACION RED VIAL REGIÓN DE BIOBÍO 2012 - 2014, SECTOR PUENTE LA ZANJA; PROVINCIA DE CONCEPCIÓN, REGIÓN DEL BIOBÍO. La comisión de peritos integrada por Roxana Cecilia Abarzúa Gajardo, Adriana Katherina Fasce Casanueva y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 11 de mayo de 2012, acordándose la indemnización con su propietario JOSÉ DOMINGO GONZÁLEZ BOUCHON, en la cantidad de $355.837.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
