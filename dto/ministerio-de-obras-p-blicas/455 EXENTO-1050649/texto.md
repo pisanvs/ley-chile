@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 455, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N°s 1 y 2, superficies 198,25 y 262,16 m2 respectivamente, rol N° 199-28, comuna de Panguipulli, para la obra "CONSERVACIÓN PUENTES SECO, VIEJO Y BLANCO SECTOR PUENTE SECO", CAMINO LIQUIÑE - PASO CARIRRIÑE, PROVINCIA DE VALDIVIA, XIV REGIÓN. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Nelson Bernardo Turra Turra, fijó el valor de tasación con fecha 27 de octubre de 2010, acordándose la indemnización con su propietario JOSÉ LUIS ROJEL VALENCIA, en la cantidad de $831.995.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
