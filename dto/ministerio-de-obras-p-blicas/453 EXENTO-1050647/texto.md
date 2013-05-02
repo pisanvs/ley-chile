@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 453, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 26, superficie 1.820 m2, rol N° 349-13, comuna de Villarrica, para la obra "CAMINO RUTA S-69, SECTOR PEDREGOSO - VILLARRICA TRAMO KM. 25,80000 A KM. 38,52500", PROVINCIA DE CAUTÍN, IX REGIÓN. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Enrique Vallette de la Harpe, fijó el valor de tasación con fecha 20 de marzo de 2007, acordándose la indemnización con su propietaria ANA ERCIRA MUÑOZ ARCE, en la cantidad de $6.510.592.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
