@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO N°395, DE 2013
+
+Expropiación: Por decreto alcaldicio N°395, de 1.04.2013, de la Municipalidad de San Pedro de la Paz, se dispuso expropiación total de inmueble ubicado en Los Claveles Nº30, Lote X 1, sector Huertos Familiares, Rol N°12.651-159, comuna de San Pedro de la Paz. Superficie aproximada: 793,375 m2. Deslindes: Norte, Lote X 2, en 27,50 m.; Sur, Avda. Pedro Aguirre Cerda, en 27,50 m.; Oriente, Lote X 5, en 28,85 m.; Poniente, calle Los Claveles, en 28,85 m. Aparente propietario Luis Antonio Martínez Muñoz, inscrito a su nombre a fs. 3656, Nº1766, Registro de Propiedad año 2008, Conservador Bienes Raíces San Pedro de la Paz. Indemnización provisional según tasación efectuada por Comisión de Peritos: $88.392.841.-
+
+Audito Retamal Lazo, Alcalde.- Jorge Cáceres Méndez, Secretario Municipal.- Carlos Muñoz Méndez, Director Jurídico.
