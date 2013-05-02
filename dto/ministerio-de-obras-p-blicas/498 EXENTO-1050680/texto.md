@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 498, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 10-D, superficie 294 m2, rol N° 38-406, Comuna de Lolol, para la obra "MEJORAMIENTO RUTA I-70-J, SECTOR LOLOL - RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878, PROVINCIA DE CACHAPOAL, VI REGIÓN. La Comisión de Peritos integrada por Manuel Díaz Farfán, Patricio Casagrande Ulloa y Orlando Fariña Vásquez, fijó el valor de tasación con fecha 20 de enero de 2010, acordándose la indemnización con su propietario RAÚL ESTEBAN BECERRA URZÚA, en la cantidad de $707.176.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
