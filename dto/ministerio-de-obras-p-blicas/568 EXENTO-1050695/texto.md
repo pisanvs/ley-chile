@@ -1,0 +1,3 @@
+Por Decreto Exento MOP N° 568, de 18 de abril de 2013, se dejó sin efecto el Decreto Exento MOP N° 2037, de 21 de septiembre de 2012, el cual ordenó la expropiación del lote N° 58L3, expropiado para la obra "PROYECTO LINEA 3 LA REINA - HUECHURABA, SECTOR: AV. INDEPENDENCIA".
+
+Fiscal del Ministerio de Obras Públicas.
