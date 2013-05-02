@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 444, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. N° 850 de 1997, se expropió el lote de terreno N° 185 superficie 26 m2., Rol de avalúo 3457-412, Comuna de Quilpué para la obra, "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", PROVINCIA Y REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por María Isabel Ríos Marcuello, Juan Pablo Navarro Rachow y Marcela Redard Ayala, fijó el valor de la tasación con fecha 10 de diciembre de 2010, acordándose la indemnización con su propietaria VIVIANA DEL CARMEN RUIZ CAROCA, en la cantidad de $554.756.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
