@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 456, de 28 de marzo de 2013, de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 3, superficie 276 m2, rol N° 2201-47, Comuna de Florida, para la obra "CONSERVACIÓN RED VIAL REGIÓN DE BIOBÍO 2012 - 2014, SECTOR PUENTE LA ZANJA", PROVINCIA DE CONCEPCIÓN, REGIÓN DEL BIOBÍO. La comisión de peritos integrada por Roxana Cecilia Abarzúa Gajardo, Adriana Katherina Fasce Casanueva y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 11 de mayo de 2012, acordándose la indemnización con sus propietaria ORIETTE LYDA SOTO ALAR, en la cantidad de $601.839.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
