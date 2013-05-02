@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 446, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 1, superficie 128 m2, rol N° 168-163, para la obra "CAMINO MEJORAMIENTO RUTA J-70-I, SECTOR CRUCE RUTA J-60 (PARRONAL) LÍMITE REGIONAL, TRAMO KM. 0,00000 A KM. 20,07555, COMUNA DE HUALAÑÉ, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE". La Comisión de Peritos integrada por Andrea Yáñez Campos, Juan Salazar León y Roberto Herrera Leyton , fijó el valor de tasación con fecha 17 de octubre de 2011, acordándose la indemnización con su propietaria JOVINA DEL CARMEN GUERRA CÉSPEDES, en la cantidad de $653.239.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
