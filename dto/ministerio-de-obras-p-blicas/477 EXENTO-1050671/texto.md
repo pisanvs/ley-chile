@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 477, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 6, superficie 202 m2, rol N° 139-56, comuna de Pucón, para la obra "CAMINO HUIFE BAJO - LEFINCUL, SECTOR PUENTE HUIFE BAJO, KM. 0,1, TRAMO KM. 0,00000 A KM. 0,25000 Y KM. 0,00000 A KM. 0,09500", PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La Comisión de Peritos integrada por Yaschala Maribel Yáñez Riffo, María Soledad Núñez Arroyo y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 9 de abril de 2009, acordándose la indemnización con su propietaria ORFELINA MILLAQUEO MILLAHUAL, en la cantidad de $419.695.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
