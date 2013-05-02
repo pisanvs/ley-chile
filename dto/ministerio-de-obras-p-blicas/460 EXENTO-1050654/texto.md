@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 460, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 1, superficie 274 m2, rol N° 1501-2, comuna de Los Ángeles, para la obra "CONSERVACIÓN RED VIAL REGIÓN DEL BIOBÍO 2012 - 2014, SECTOR PUENTE HUAQUI", PROVINCIA Y REGIÓN DEL BIOBÍO. La Comisión de Peritos integrada por Claudio Luigi Rosas Olate, Claudio Manuel Castro Gutiérrez y Susana Claudia Conejeros Rudloff, fijó el valor de tasación con fecha 3 de mayo de 2012, acordándose la indemnización con su propietario JUAN LUIS GUZMÁN ARROYO, en la cantidad de $185.007.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
