@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 480, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N°s 92 y 93, superficies 128 y 55 m2 respectivamente, rol N° 178-35, comuna de Calbuco, para la obra "MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE-CRUCE V-85", PROVINCIA DE LLANQUIHUE, X REGIÓN. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 05 de febrero de 2012, acordándose la indemnización con su propietaria LUZ MAGALI VARGAS ASENCIO Y OTROS, en la cantidad de $961.906.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
