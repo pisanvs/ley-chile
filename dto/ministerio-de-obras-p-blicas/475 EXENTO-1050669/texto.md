@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 475, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 16, superficie 414 m2, rol N° 1437-39, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000, COMUNA Y PROVINCIA DE LLANQUIHUE, X REGIÓN". La Comisión de Peritos integrada por Juan Samuel Barrientos Bahamonde, Juan Celestino Giovannini Mansilla y Christian Emil Rauch Yáñez, fijó el valor de tasación con fecha 4 de diciembre de 2009, acordándose la indemnización con su propietaria RAIDY MÓNICA WERNER VILLARROEL Y OTROS, en la cantidad de $1.103.881.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
