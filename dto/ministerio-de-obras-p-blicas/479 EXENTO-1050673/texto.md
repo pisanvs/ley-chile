@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 479, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 18, superficie 4.394 m2, rol N° 491-79, Comuna de Cauquenes, para la obra REPOSICIÓN RUTA 126 RUTA LOS CONQUISTADORES, SECTOR: CRUCE RUTA L-30-M - CRUCE RUTA 128, TRAMO: KM. 41,30000 A K. 58,80000, PROVINCIA DE CAUQUENES, REGIÓN DEL MAULE. La Comisión de Peritos integrada por Rodrigo Antonio Silva Lazo, Patricio Ulises Durán Marcos e Iván Maximiliano Correa Opazo, fijó el valor de tasación con fecha 23 de enero de 2012, acordándose la indemnización con su propietaria LIDIA DEL CARMEN YÁÑEZ VEGA, en la cantidad de $11.471.624.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
