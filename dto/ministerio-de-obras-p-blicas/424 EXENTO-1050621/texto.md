@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 424, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el art.105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 113, superficie 465 m2, rol N° 2238-55, comuna de Osorno, para la obra "CAMINO REPOSICIÓN RUTA 215-CH, SECTOR BIFURCACIÓN AEROPUERTO CARLOS HOTT - CRUCE LAS LUMAS, TRAMO KM. 3,99292 AL KM. 21,80000", PROVINCIA DE OSORNO, X REGIÓN. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 28 de febrero de 2012, acordándose la indemnización con su propietario LUIS ELEODORO GUZMÁN MOLINA, en la cantidad de $13.538.966.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
