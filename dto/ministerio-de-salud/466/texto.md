@@ -16,15 +16,15 @@ El presente reglamento establece las condiciones sanitarias en que debe efectuar
 
 #### Artículo 2°
 
-Corresponderá a los Servicios de Salud autorizar la instalación y el funcionamiento y el traslado de los establecimientos señalados, inspeccionarlos y velar porque ellos cumplan las disposiciones relativas a la materia que se contienen en el Código Sanitario, en este reglamento y en las normas técnicas que apruebe el Ministerio de Salud.
+Corresponderá a las Secretarías Regionales Ministeriales de Salud autorizar la instalación y el funcionamiento y el traslado de los establecimientos señalados, inspeccionarlos y velar porque ellos cumplan las disposiciones relativas a la materia que se contienen en el Código Sanitario, en este reglamento y en las normas técnicas que apruebe el Ministerio de Salud.
 
 #### Artículo 3°
 
-Dichas autorizaciones sólo podrán emitirse previa inspección del establecimiento y la solicitud de instalación, funcionamiento, o traslado deberán ser resueltas por el Servicio de Salud, correspondiente a su ubicación, dentro del plazo de quince días hábiles contados desde la fecha en que ellas se presenten.
+Dichas autorizaciones sólo podrán emitirse previa inspección del establecimiento y la solicitud de instalación, funcionamiento, o traslado deberán ser resueltas por la Secretaría Regional Ministerial de Salud, correspondiente a su ubicación, dentro del plazo de quince días hábiles contados desde la fecha en que ellas se presenten.
 
 El rechazo de la solicitud deberá ser fundado y se comunicará a la Subsecretaría del Ministerio de Salud.
 
-Asimismo, la Dirección del Servicio de Salud deberá informar por escrito a esa Subsecretaría las razones que hayan impedido resolver una solicitud dentro del plazo fijado en el inciso 1°.
+Asimismo, el Secretario Regional Ministerial de Salud deberá informar por escrito a esa Subsecretaría las razones que hayan impedido resolver una solicitud dentro del plazo fijado en el inciso 1°.
 
 #### Artículo 4°
 
@@ -40,7 +40,7 @@ En aquellas comunas en que no exista farmacia podrá autorizarse la instalación
 
 Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.
 
-En aquellas localidades en que no existan farmacias ni almacenes farmacéuticos, el Director del respectivo Servicio de Salud podrá autorizar la venta al público de productos farmacéuticos, de alimentos de uso médico, y de elementos de curación y de primeros auxilios por las farmacias o botiquines de los establecimientos asistenciales de la localidad.
+En aquellas localidades en que no existan farmacias ni almacenes farmacéuticos, el Secretario Regional Ministerial de Salud correspondiente podrá autorizar la venta al público de productos farmacéuticos, de alimentos de uso médico, y de elementos de curación y de primeros auxilios por las farmacias o botiquines de los establecimientos asistenciales de la localidad.
 
 Dicha venta deberá efectuarse en las condiciones que se indican en el artículo 32°.
 
@@ -78,11 +78,11 @@ Podrán instalarse farmacias móviles itinerantes, en las localidades y con la p
 
 Las farmacias podrán realizar bajo la responsabilidad de su Director Técnico, los análisis clínicos, químicos o bioquímicos u otros procedimientos que se determinen mediante resolución de la Subsecretaría de Salud.
 
-Para practicar exámenes de laboratorio no contemplados en el inciso anterior, deberán solicitar autorización específica al Servicio de Salud correspondiente, el que deberá comprobar las adecuadas condiciones de instalación de sus laboratorios.
+Para practicar exámenes de laboratorio no contemplados en el inciso anterior, deberán solicitar autorización específica al Secretaría Regional Ministerial de Salud correspondiente, el que deberá comprobar las adecuadas condiciones de instalación de sus laboratorios.
 
 #### Artículo 10°
 
-Para obtener la autorización de instalación y funcionamiento o traslado, el interesado deberá presentar al Servicio de Salud los siguientes documentos:
+Para obtener la autorización de instalación y funcionamiento o traslado, el interesado deberá presentar al Secretaría Regional Ministerial de Salud los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario o del representante legal según el caso, nombre del Director Técnico y la ubicación del establecimiento.
 
@@ -104,17 +104,17 @@ Las Farmacias pertenecientes a los establecimientos médico-asistenciales del se
 
 #### Artículo 12°
 
-Toda persona que adquiera una farmacia a cualquier título deberá comunicarlo por escrito al Servicio de Salud dentro del plazo de quince (15) días, acompañando los documentos a que se refiere el artículo 10° del presente título.
+Toda persona que adquiera una farmacia a cualquier título deberá comunicarlo por escrito al Secretaría Regional Ministerial de Salud dentro del plazo de quince (15) días, acompañando los documentos a que se refiere el artículo 10° del presente título.
 
-Cumplido lo anterior, el Servicio de Salud procederá a dictar la resolución modificatoria del dominio que así lo acredite.
+Cumplido lo anterior, la Secretaría Regional Ministerial de Salud procederá a dictar la resolución modificatoria del dominio que así lo acredite.
 
 #### Artículo 13°
 
-Todo propietario de Farmacia deberá comunicar por escrito al Servicio de Salud el traspaso o el cierre definitivo o temporal de su establecimiento, pero en este último caso sólo cuando afecte el programa semestral de turnos.
+Todo propietario de Farmacia deberá comunicar por escrito al Secretaría Regional Ministerial de Salud el traspaso o el cierre definitivo o temporal de su establecimiento, pero en este último caso sólo cuando afecte el programa semestral de turnos.
 
 En cualquiera de las referidas situaciones, exceptuando el cierre temporal, el interesado deberá solicitar la transferencia de los productos sujetos a control legal de acuerdo a la normativa reglamentaria vigente o, en su defecto, la autoridad sanitaria procederá a su decomiso; debiendo dejarse constancia de la solicitud, si se trata del traspaso del establecimiento, en la resolución modificatoria del dominio de la farmacia, que dicte el Servicio de Salud.
 
-Si la comunicación de cierre se funda en la ausencia temporal o definitiva del Director Técnico de la farmacia y en la localidad no hubiere otro establecimiento farmacéutico, el Servicio de Salud podrá autorizar la transformación de la farmacia en almacén farmacéutico bajo la dirección de un Práctico de Farmacia, limitado a las actividades que indica el presente reglamento.
+Si la comunicación de cierre se funda en la ausencia temporal o definitiva del Director Técnico de la farmacia y en la localidad no hubiere otro establecimiento farmacéutico, la Secretaría Regional Ministerial de Salud podrá autorizar la transformación de la farmacia en almacén farmacéutico bajo la dirección de un Práctico de Farmacia, limitado a las actividades que indica el presente reglamento.
 
 ### Párrafo II
 
@@ -174,7 +174,7 @@ Las farmacias deberán poseer los siguientes Registros Oficiales:
 
 - De reclamos.
 
-Estos registros serán foliados y deberán ser autorizados por el Servicio de Salud, o visados por el Instituto de Salud Pública de Chile, según corresponda, debiendo mantenerse y estar a disposición de los funcionarios del Servicio de Salud o Instituto de Salud Pública de Chile en todo momento y circunstancia.
+Estos registros serán foliados y deberán ser autorizados por la Secretaría Regional Ministerial de Salud, o visados por el Instituto de Salud Pública de Chile, según corresponda, debiendo mantenerse y estar a disposición de los funcionarios del Secretaría Regional Ministerial de Salud o Instituto de Salud Pública de Chile en todo momento y circunstancia.
 
 Las denuncias estampadas en el Libro de Reclamos que digan relación con calidad, seguridad y eficacia de los productos farmacéuticos que se expenden en la farmacia, así como la disponibilidad de aquellos considerados en el Petitorio Farmacéutico, en la forma como establece el artículo 93, deberán ser contestadas dentro de plazo máximo de 3 días por el Director Técnico del establecimiento con copia a la SEREMI de Salud correspondiente.
 
@@ -184,7 +184,7 @@ El Registro de recetas estará destinado a:
 
 a) DEROGADA;
 
-b) Registrar las visitas inspectivas que practiquen funcionarios del Servicio de Salud y las anotaciones y observaciones, si las hubiere, y
+b) Registrar las visitas inspectivas que practiquen funcionarios del Secretaría Regional Ministerial de Salud y las anotaciones y observaciones, si las hubiere, y
 
 c) Anotar por el Químico-Farmacéutico o Farmacéutico la fecha en que asume la Dirección Técnica del establecimiento y la de su término. Las mismas anotaciones hará el profesional que lo reemplace. Además, deberán dejar constancia de su horario de atención profesional y las ausencias transitorias que deba realizar.
 
@@ -256,25 +256,43 @@ En ausencia del Director Técnico, el propietario y el personal auxiliar, no pod
 
 El propietario y el Director Técnico del establecimiento responderán de la adquisición de los estupefacientes, productos psicotrópicos y otros sometidos a controles especiales, en la forma y condiciones que establezca la reglamentación correspondiente.
 
-#### Artículo 28°
+#### Artículo 28
 
-Se dará el calificativo de Auxiliar de Farmacia a toda persona que ingrese a una farmacia en calidad de tal, para desempeñarse bajo la supervisión del Director Técnico y cuente con la correspondiente inscripción en el Servicio de Salud, para lo cual debe cumplir con los siguientes requisitos:
+Se dará el calificativo de "Auxiliar de Farmacia" a la persona que cuente con autorización sanitaria para desempeñarse como tal bajo la supervisión del Director Técnico de la Farmacia, previa comprobación de sus aptitudes y cumplimiento de los siguientes requisitos:
 
-a) Haber rendido satisfactoriamente el 2° año de Enseñanza Media o estudios equivalentes, calificados por el Ministerio de Educación Pública;
+a) Haber rendido satisfactoriamente el 4º año de enseñanza media o estudios equivalentes, calificados por el Ministerio de Educación.
 
-b) Presentar certificado de antecedentes, y c) Suscribir un contrato de trabajo.
+b) Haber desempeñado labores de bodegaje, reposición y manejo de productos farmacéuticos en farmacia, a lo menos, durante un año, debiendo adjuntar una certificación emitida por el Químico-Farmacéutico o Farmacéutico, Director Técnico del establecimiento, que deje constancia de ello.
 
-#### Artículo 29°
+c) Rendir satisfactoriamente un examen de competencia ante la autoridad sanitaria, sobre las siguientes materias:
 
-El Servicio de Salud correspondiente inscribirá al Auxiliar de Farmacia en el registro respectivo y emitirá la certificación de la constancia de tal hecho.
+o Regulación sanitaria respecto de la distribución
 
-#### Artículo 30°
+y venta de productos farmacéuticos de uso humano.
 
-El interesado que presente algún documento falso o adulterado perderá su opción a adquirir la calidad de Auxiliar de Farmacia, lo que se declarará mediante un comunicado a todos los Servicios de Salud del país.
+o Condiciones adecuadas de almacenamiento y venta
 
-#### Artículo 31°
+de productos farmacéuticos.
 
-El Director del Servicio de Salud podrá, previo sumario sanitario cancelar la inscripción del Auxiliar de Farmacia, mediante resolución notificada al afectado y a su empleador, y que se comunicará a todos los Servicios de Salud del país.
+o Acción terapéutica y contraindicaciones de
+
+productos farmacéuticos, cuya condición de venta
+
+es directa.
+
+#### Artículo 29
+
+La examinación del postulante se llevará a efecto bajo el procedimiento señalado en el artículo 67 de este reglamento, debiendo, quien la requiera, elevar la respectiva solicitud al Secretario Regional Ministerial correspondiente, adjuntando los antecedentes señalados en el artículo precedente.
+
+La Secretaría Regional Ministerial de Salud correspondiente otorgará la autorización sanitaria al Auxiliar de Farmacia, si procediere, y emitirá la certificación de la constancia de tal hecho. Asimismo, dicha Secretaría llevará el registro respectivo y notificará a la Superintendencia de Salud, para los efectos de los registros relativos a prestadores individuales de salud, previstos en el decreto supremo Nº 16 de 2007, del Ministerio de Salud.
+
+#### Artículo 30
+
+El interesado que presente algún documento falso o adulterado perderá su opción a adquirir la calidad de Auxiliar de Farmacia, lo que se declarará mediante un comunicado a todas las Secretarías Regionales Ministeriales de Salud.
+
+#### Artículo 31
+
+El Secretario Regional Ministerial de Salud podrá, previo sumario sanitario, en el que se haya acreditado fehacientemente alguna infracción a la normativa sanitaria por parte de un Auxiliar de Farmacia, aplicar alguna de las sanciones a las que se refiere el Libro X del Código Sanitario. En el caso de la suspensión o cancelación de la autorización sanitaria de Auxiliar de Farmacia, la resolución que así lo establezca deberá ser notificada al afectado y a su empleador, y se comunicará a todas las Secretarías Regionales Ministeriales de Salud del país.
 
 ### Párrafo IV
 
@@ -350,17 +368,17 @@ Del Horario de Atención y Turnos
 
 #### Artículo 41°
 
-El horario de atención de la farmacia será determinado por su propietario, pudiendo comprender jornada diurna, nocturna y en días no hábiles y deberá comunicarse al Servicio de Salud y anunciarse al público mediante letrero colocado en lugar visible. No obstante, las farmacias deberán atender público en forma ininterrumpida mientras se encuentren de turno.
+El horario de atención de la farmacia será determinado por su propietario, pudiendo comprender jornada diurna, nocturna y en días no hábiles y deberá comunicarse al Secretaría Regional Ministerial de Salud y anunciarse al público mediante letrero colocado en lugar visible. No obstante, las farmacias deberán atender público en forma ininterrumpida mientras se encuentren de turno.
 
 Durante el horario nocturno las farmacias podrán atender público a través de una ventanilla.
 
-Sin perjuicio de lo anterior, el Servicio de Salud podrá autorizar el funcionamiento de Farmacias de Urgencia, las que deberán permanecer abiertas y atender público las 24 horas del día, durante todo el año. En este caso deberán contar con la presencia del Director Técnico, sin que la mera ausencia constituya infracción, si ha sido registrada en el Registro de recetas.
+Sin perjuicio de lo anterior, la Secretaría Regional Ministerial de Salud podrá autorizar el funcionamiento de Farmacias de Urgencia, las que deberán permanecer abiertas y atender público las 24 horas del día, durante todo el año. En este caso deberán contar con la presencia del Director Técnico, sin que la mera ausencia constituya infracción, si ha sido registrada en el Registro de recetas.
 
 Tratándose de las farmacias itinerantes, su horario de funcionamiento será determinado por su propietario, y autorizado por la Seremi competente, no pudiendo ser inferior a 4 horas en cada ubicación.
 
 #### Artículo 42°
 
-El Servicio de Salud fijará semestralmente los turnos de las farmacias de su territorio, los que serán obligatorios, sin perjuicio de lo dispuesto en el artículo 45°.
+La Secretaría Regional Ministerial de Salud fijará semestralmente los turnos de las farmacias de su territorio, los que serán obligatorios, sin perjuicio de lo dispuesto en el artículo 45°.
 
 Para estos efectos, dicho Servicio confeccionará antes del 30 de noviembre y del 30 de mayo de cada año, las nóminas de turnos que deberá cumplir semestralmente cada farmacia, con indicación de su nombre, ubicación, sector de la población que deberá atender y fechas en que le corresponderá cumplirlos.
 
@@ -368,7 +386,7 @@ Una copia de esta nómina deberá remitirse dentro de los primeros quince días 
 
 #### Artículo 43°
 
-El Servicio de Salud notificará a los Directores Técnicos de farmacias, de su territorio, personalmente o por carta certificada, los turnos que deberán cumplir en el semestre correspondiente.
+La Secretaría Regional Ministerial de Salud notificará a los Directores Técnicos de farmacias, de su territorio, personalmente o por carta certificada, los turnos que deberán cumplir en el semestre correspondiente.
 
 Esta notificación deberá efectuarse en la primera quincena de los meses de diciembre y junio de cada año.
 
@@ -378,7 +396,7 @@ Las farmacias deberán indicar su turno mediante un cartel, que se colocará en 
 
 #### Artículo 45°
 
-Ninguna farmacia podrá eximirse de los turnos fijados por el Servicio de Salud. No obstante, el Servicio podrá, en casos debidamente calificados, suspender el cumplimiento del turno por el tiempo que estime prudencial, designando en su reemplazo otra farmacia que lo haga.
+Ninguna farmacia podrá eximirse de los turnos fijados por la Secretaría Regional Ministerial de Salud. No obstante, el Servicio podrá, en casos debidamente calificados, suspender el cumplimiento del turno por el tiempo que estime prudencial, designando en su reemplazo otra farmacia que lo haga.
 
 Las farmacias móviles itinerantes quedan eximidas de la realización de turnos.
 
@@ -396,7 +414,7 @@ Las droguerías estarán facultadas para la distribución de muestras médicas d
 
 #### Artículo 47°
 
-Para obtener la autorización de funcionamiento, instalación o traslado, el interesado deberá presentar al Servicio de Salud los siguientes documentos:
+Para obtener la autorización de funcionamiento, instalación o traslado, el interesado deberá presentar al Secretaría Regional Ministerial de Salud los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario, o del representante legal según el caso, el nombre del Director Técnico y la ubicación del establecimiento;
 
@@ -406,7 +424,7 @@ c) Copia autorizada de los instrumentos legales que acrediten el dominio del est
 
 #### Artículo 48°
 
-Todo propietario de droguería deberá comunicar por escrito al Servicio de Salud correspondiente el cierre definitivo o temporal de su establecimiento.
+Todo propietario de droguería deberá comunicar por escrito al Secretaría Regional Ministerial de Salud correspondiente el cierre definitivo o temporal de su establecimiento.
 
 Si el cierre es definitivo por término de funciones, el interesado solicitará la transferencia de los productos estupefacientes y psicotrópicos, de acuerdo a las normas reglamentarias vigentes, o en su defecto la autoridad sanitaria procederá a su decomiso.
 
@@ -494,7 +512,7 @@ Todas las recetas que prescriban productos farmacéuticos indicados en el Títul
 
 #### Artículo 58°
 
-Para obtener la autorización de funcionamiento, instalación o traslado el interesado deberá presentar al correspondiente Servicio de Salud los siguientes documentos:
+Para obtener la autorización de funcionamiento, instalación o traslado el interesado deberá presentar a la correspondiente Secretaría Regional Ministerial de Salud los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario o representante legal según el caso, ubicación del establecimiento y nombre del Práctico de Farmacia;
 
@@ -516,7 +534,7 @@ El horario de atención de los almacenes farmacéuticos y almacenes farmacéutic
 
 Los almacenes farmacéuticos no estarán sometidos a los turnos obligatorios dispuestos para las farmacias.
 
-Sin embargo, en aquellas localidades en que no existan farmacias, el Servicio de Salud establecerá los turnos que considere adecuados para asegurar el abastecimiento de la población. En tales casos los turnos serán obligatorios para estos establecimientos, dando cumplimiento a las normas que sobre la materia, se establecen en el Párrafo V del Título II de este reglamento.
+Sin embargo, en aquellas localidades en que no existan farmacias, la Secretaría Regional Ministerial de Salud establecerá los turnos que considere adecuados para asegurar el abastecimiento de la población. En tales casos los turnos serán obligatorios para estos establecimientos, dando cumplimiento a las normas que sobre la materia, se establecen en el Párrafo V del Título II de este reglamento.
 
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
@@ -594,83 +612,49 @@ Las mismas responsabilidades descritas en el inciso precedente, serán asumidas 
 
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
-#### Artículo 66°
+#### Artículo 66
 
-Se denominará "Práctico de Farmacia" a la persona que cuente con la autorización sanitaria para dirigir un almacén farmacéutico o Almacén Farmacéutico Complementario, según sea el caso, previa comprobación de sus aptitudes y siempre que dé cumplimiento a los siguientes requisitos:
+Se denominará Práctico de Farmacia a aquel que cuente con autorización sanitaria para desempeñarse como Auxiliar de Farmacia, previo cumplimiento, además, de los siguientes requisitos:
 
-a) Presentar certificado de antecedentes vigente;
+a) Haberse desempeñado como auxiliar de farmacia por lo menos durante cinco años cronológicos anteriores, debiendo ser uno de ellos inmediatamente anterior a la solicitud de autorización, lo que se acreditará mediante certificación del Director Técnico de la o las farmacias en las que haya ejercido.
 
-b) No haber sido sancionado por infracciones al presente reglamento;
+b) Rendir satisfactoriamente un examen de competencia ante la autoridad sanitaria.
 
-c) Haber rendido satisfactoriamente el 4° año de enseñanza media o estudios equivalentes, calificados por el Ministerio de Educación Pública.
+Quienes cuenten con un título de Técnico de Farmacia de Nivel Superior, conferido por un establecimiento de educación superior del Estado, o reconocido por éste, podrán desempeñarse como Práctico de Farmacia, sin requerir de la autorización de que trata este artículo.
 
-d) Tener calidad de Auxiliar de Farmacia y haberse desempeñado como tal, a lo menos, durante cinco años en una Farmacia o, en el caso de quienes postulan a Prácticos de Farmacias para asumir la Dirección de un Almacén Farmacéutico Complementario, que acrediten cinco años de experiencia en establecimientos de dicha denominación o 3 años como auxiliar de farmacia y 2 años de experiencia en establecimientos de dicha denominación.
+#### Artículo 67
 
-e) Rendir satisfactoriamente un examen de competencia ante la autoridad sanitaria.
+El examen de competencia se rendirá ante una Comisión integrada por el Secretario Regional Ministerial o su representante, un profesional del área de la salud y un químico farmacéutico, preferentemente de su dependencia, que sean designados por él, los que se inhabilitarán, según corresponda, de conformidad a lo dispuesto en el artículo 12 de la ley 19.880.
 
-Una vez recibidos conforme estos antecedentes, la Dirección del Servicio de Salud respectivo comunicará al interesado, dentro del plazo de 30 días, la fecha y el lugar del examen referido en la letra e) del inciso anterior, el que deberá efectuarse dentro de los 60 días siguientes a la solicitud.
+#### Artículo 68
 
-Quienes cuenten con un título de Técnico de Farmacia de Nivel Superior, conferido por un establecimiento de educación superior del Estado o reconocido por éste, no necesitarán dar cumplimiento a los requisitos establecidos en las letras d) y e) del inciso anterior.
+Para someterse al examen de competencia, el interesado elevará una solicitud al Secretario Regional Ministerial, en la que se individualice y acredite como auxiliar de farmacia, acompañando certificación de esta última circunstancia y los demás antecedentes referidos en el artículo 66.
 
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
+#### Artículo 69
 
-#### Artículo 67°
+El examen versará sobre las siguientes materias:
 
-El examen de competencia se rendirá ante una comisión formada por los siguientes profesionales:
+a) Acciones farmacológicas, terapéuticas y reacciones adversas, indicaciones, interacciones y contraindicaciones de los productos farmacéuticos contenidos en el petitorio de los Almacenes Farmacéuticos.
 
-- El Director del Servicio de Salud correspondiente o su subrogante, quien la presidirá; - El Jefe de la Oficina de Registro y Control de Profesiones Médicas y Paramédicas del Servicio de Salud; - Un químico-farmacéutico de la dotación del Servicio de Salud, designado por su Director.
+b) Condiciones adecuadas de almacenamiento de los productos termolábiles y otros que requieran condiciones especiales de almacenamiento.
 
-Los integrantes de la comisión se inhabilitarán por la circunstancia de haber sido o ser actualmente empleador o jefe directo del interesado, procediéndose a su inmediato reemplazo por el funcionario de la especialidad que determine el Director del Servicio.
-
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
-
-#### Artículo 68°
-
-Para someterse al examen a que se refiere el artículo anterior, el interesado elevará una solicitud al Director del Servicio de Salud que corresponda, en la que se individualice con su nombre completo, número de cédula de identidad y gabinete que lo extendió, así como un certificado del Servicio de Salud que acredite su calidad de Auxiliar de Farmacia.
-
-Dicha solicitud deberá ser acompañada de los siguientes documentos:
-
-a) Certificado de antecedentes vigente;
-
-b) Certificado de nacimiento;
-
-c) Certificado de estudios otorgados por autoridad competente;
-
-d) Copia del contrato de trabajo suscrito entre el auxiliar y el propietario del establecimiento de Farmacia o del Almacén Farmacéutico Complementario, en su caso, en el que se acredite su período de desempeño como tal; e) SUPRIMIDO
-
-f) Dos fotografías tamaño carnet, con el número de
-
-éste.
-
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
-
-#### Artículo 69°
-
-El examen versará sobre las materias que a continuación se indican:
-
-a) Aritmética, en especial sobre el sistema métrico decimal y sobre sistemas de pesos y medidas;
-
-b) Conocimientos sobre productos farmacéuticos en general y en especial de aquellos contenidos en el Título X de este Reglamento, respecto de los Almacenes Farmacéuticos y de aquellos de carácter complementario, en el caso de los Almacenes Farmacéuticos Complementarios;
-
-c) Condiciones adecuadas de conservación de los productos farmacéuticos y de los complementarios, según el caso;
-
-d) Reglamentación propia de los almacenes farmacéuticos y de los almacenes farmacéuticos complementarios, según el caso;
-
-e) Conceptos sobre uso racional de medicamentos;
-
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
+c) Regulación farmacéutica aplicable a los locales de su desempeño.
 
 #### Artículo 70°
 
-Si el candidato aprueba el examen, el Director del Servicio correspondiente dictará una resolución otorgándole la calidad de Práctico de Farmacia, la que se comunicará a todos los Servicios de Salud del país.
+Si el candidato aprueba el examen, el Director del Servicio correspondiente dictará una resolución otorgándole la calidad de Práctico de Farmacia, la que se comunicará a todos las Secretarías Regionales Ministeriales de Salud del país.
 
 #### Artículo 71°
 
-Si el postulante fuere reprobado en el examen, el Servicio de Salud dictará la resolución correspondiente, la que se comunicará también a los Servicios de Salud del país. En todo caso, el afectado sólo podrá repetir el examen después de transcurrido un año desde la fecha de la primera prueba.
+Si el postulante fuere reprobado en el examen, las Secretarías Regionales Ministeriales de Salud dictará la resolución correspondiente, la que se comunicará también a las Secretarías Regionales Ministeriales de Salud del país. En todo caso, el afectado sólo podrá repetir el examen después de transcurrido un año desde la fecha de la primera prueba.
 
-#### Artículo 72°
+#### Artículo 72
 
-El Servicio de Salud respectivo podrá, previo sumario sanitario, cancelar la autorización de Práctico de Farmacia, mediante resolución notificada al afectado y a su empleador y comunicada a todos los Servicios de Salud del país.
+La Secretaría Regional Ministerial de Salud que haya emitido una autorización sanitaria para el ejercicio como Práctico de Farmacia, llevará el registro respectivo y emitirá la certificación de la constancia de tal hecho. Asimismo, dicha Secretaría notificará a la Superintendencia de Salud, para los efectos de los registros relativos a prestadores individuales de salud, previstos en el decreto supremo N° 16, de 2007, del Ministerio de Salud.
+
+El interesado que en su solicitud presente algún documento falso o adulterado, perderá su opción a adquirir la calidad de Práctico de Farmacia, lo que se declarará mediante un comunicado a todas las Secretarías Regionales Ministeriales de Salud.
+
+El Secretario Regional Ministerial de Salud podrá, previo sumario sanitario en el que se haya acreditado fehacientemente alguna infracción a la normativa sanitaria por parte de un Práctico de Farmacia, aplicar alguna de las sanciones a las que se refiere el Libro X del Código Sanitario. En el caso de la suspensión o cancelación de autorización sanitaria de Práctico de Farmacia, la resolución que así lo establezca deberá ser notificada al afectado y a su empleador, y se comunicará a todas las Secretarías Regionales Ministeriales de Salud del país.
 
 #### Artículo 73°
 
@@ -686,23 +670,23 @@ Botiquín es el recinto en que se mantienen productos farmacéuticos para el uso
 
 #### Artículo 75°
 
-La solicitud de autorización de funcionamiento deberá presentarse al Servicio de Salud correspondiente acompañada de:
+La solicitud de autorización de funcionamiento deberá presentarse al Secretaría Regional Ministerial de Salud correspondiente acompañada de:
 
 a) Individualización del propietario o representante legal en su caso;
 
 b) Ubicación y autorización competente de funcionamiento del establecimiento al que pertenece, si procediere, y
 
-c) Declaración escrita del médico, matrona, médico veterinario o personal auxiliar autorizado para estos efectos por el Servicio de Salud, que se responsabilizará de la adquisición y expendio de los productos farmacéuticos que se utilicen.
+c) Declaración escrita del médico, matrona, médico veterinario o personal auxiliar autorizado para estos efectos por la Secretaría Regional Ministerial de Salud, que se responsabilizará de la adquisición y expendio de los productos farmacéuticos que se utilicen.
 
 #### Artículo 76°
 
 Todas las adquisiciones de productos farmacéuticos para los botiquines deberán ser suscritas por el profesional o el auxiliar que haya asumido su responsabilidad en el abastecimiento y expendio de ellos.
 
-Si dicho profesional o auxiliar pusiere término a sus funciones, deberá dar aviso anticipado al correspondiente Servicio de Salud, dentro de los 30 días anteriores a su retiro. En todo caso, el propietario deberá comunicar el nombre del profesional o auxiliar que lo reemplazará en la forma señalada en la letra c) del artículo 75°.
+Si dicho profesional o auxiliar pusiere término a sus funciones, deberá dar aviso anticipado a la correspondiente Secretaría Regional Ministerial de Salud, dentro de los 30 días anteriores a su retiro. En todo caso, el propietario deberá comunicar el nombre del profesional o auxiliar que lo reemplazará en la forma señalada en la letra c) del artículo 75°.
 
 #### Artículo 77°
 
-Si el botiquín deja definitivamente de funcionar, su propietario deberá dar aviso dentro de los 30 días siguientes al Servicio de Salud respectivo, el que procederá a cancelar la autorización de funcionamiento, y al mismo tiempo, dispondrá la liquidación de las existencias que tuviere, en la forma y plazo que se determine.
+Si el botiquín deja definitivamente de funcionar, su propietario deberá dar aviso dentro de los 30 días siguientes al Secretaría Regional Ministerial de Salud respectivo, el que procederá a cancelar la autorización de funcionamiento, y al mismo tiempo, dispondrá la liquidación de las existencias que tuviere, en la forma y plazo que se determine.
 
 #### Artículo 78°
 
@@ -728,7 +712,7 @@ Deberá ser dirigido técnicamente por un químico farmacéutico, durante el hor
 
 #### Artículo 81°
 
-Para obtener la autorización de instalación, el interesado deberá presentar al Servicio de Salud los siguientes documentos:
+Para obtener la autorización de instalación, el interesado deberá presentar al Secretaría Regional Ministerial de Salud los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario, o del representante legal según el caso, nombre del Director Técnico, ubicación del establecimiento, y
 
@@ -770,7 +754,7 @@ de Uso Médico
 
 #### Artículo 88°
 
-Toda subasta de productos farmacéuticos y alimentos de uso médico deberá ser comunicada al Servicio de Salud respectivo, con 30 días de anticipación, acompañándose copia del inventario de productos que se va a subastar.
+Toda subasta de productos farmacéuticos y alimentos de uso médico deberá ser comunicada al Secretaría Regional Ministerial de Salud respectivo, con 30 días de anticipación, acompañándose copia del inventario de productos que se va a subastar.
 
 #### Artículo 89°
 
@@ -790,7 +774,7 @@ De las Sanciones y Otras Disposiciones
 
 #### Artículo 91°
 
-Las infracciones a las disposiciones del presente reglamento serán sancionadas por los Servicios de Salud en cuyo territorio se cometieren, previa instrucción del respectivo sumario, en conformidad con lo establecido en el Libro X del Código Sanitario.
+Las infracciones a las disposiciones del presente reglamento serán sancionadas por las Secretarías Regionales Ministeriales de Salud en cuyo territorio se cometieren, previa instrucción del respectivo sumario, en conformidad con lo establecido en el Libro X del Código Sanitario.
 
 ## Título IX
 
