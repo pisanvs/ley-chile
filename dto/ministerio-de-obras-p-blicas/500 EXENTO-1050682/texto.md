@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 500, de 28 de marzo de 2013, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. N° 850 de 1997, se expropió el lote de terreno N° 186 superficie 80 m2., Rol de avalúo 3911-29, Comuna de Quilpué para la obra, "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", PROVINCIA Y REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por María Isabel Ríos Marcuello, Marcela Redard Ayala y Juan Pablo Navarro Rachow, fijó el valor de la tasación con fecha 10 de diciembre de 2010, acordándose la indemnización con sus propietario LUIS SALVADOR TIRADO FLORES, en la cantidad de $747.139.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
