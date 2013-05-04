@@ -30,23 +30,31 @@ Resuelvo:
 
 I REGIÓN DE TARAPACÁ
 
-Inspección Provincial del Trabajo de Iquique
+INSPECCIÓN PROVINCIAL DEL TRABAJO DE IQUIQUE
 
 Ciudad : Iquique
 
-Jurisdicción : Iquique, Huara, Camiña, Colchane, Pica,
+Jurisdicción : Iquique, Huara, Camiña, Colchane,
 
-Alto Hospicio
+Pica
 
-Mod. atención : Permanente
+Mod. Atención : Permanente
 
-Inspección Comunal del Trabajo de Pozo Almonte
+INSPECCIÓN COMUNAL DEL TRABAJO DE POZO ALMONTE
 
 Ciudad : Pozo Almonte
 
 Jurisdicción : Pozo Almonte
 
-Mod. atención : Permanente
+Mod. Atención : Permanente
+
+INSPECCIÓN COMUNAL DEL TRABAJO DE ALTO HOSPICIO
+
+Ciudad : Alto Hospicio
+
+Jurisdicción : Alto Hospicio
+
+Mod. Atención : Permanente
 
 II REGIÓN DE ANTOFAGASTA
 
