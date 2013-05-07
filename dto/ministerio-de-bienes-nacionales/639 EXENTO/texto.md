@@ -1,0 +1,15 @@
+PONE TÉRMINO A CONCESIÓN DE USO ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN, A SOCIEDAD "FORESTAL RÍO SIMPSON LIMITADA"
+
+Extracto de decreto exento Nº 639, de 25 de abril de 2013:
+
+Mediante decreto (exento) Nº 1.279, de 26 de noviembre de 2001, modificado por decretos (exentos) Nos 375, de 10 de abril, y 778, de 19 de noviembre, ambos de 2002, todos del Ministerio de Bienes Nacionales, se adjudicó a la sociedad Maderas de Aysén S.A. la Concesión de Uso Onerosa directa por un plazo de 30 años respecto del casco del suelo del inmueble fiscal ubicado en el lugar denominado Río Ibáñez - Río Cajón, comuna de Río Ibáñez, provincia de General Carrera, Región de Aysén del General Carlos Ibáñez del Campo, compuesto por catorce (14) lotes individualizados en el plano Nº XI-3-1066 C.R., con una superficie total de 27.190,00 Has, para la ejecución de un proyecto forestal.
+
+Dicho Contrato de Concesión fue transferido a la sociedad Ignisterra S.A. mediante escritura pública y posteriormente fue transferido a "Forestal Río Ibáñez S.A.", sociedad del grupo de empresas Ignisterra. Finalmente esta última sociedad fue absorbida por Forestal Río Simpson Limitada. Mediante decreto (exento) Nº 492, de 16 de septiembre de 2005, se dispuso la modificación del contrato de concesión. Con fecha 2 de junio de 2008, la Concesionaria informó al Ministerio de Bienes Nacionales, que no fue posible dar inicio a los trabajos de explotación del proyecto, debido a que no se obtuvieron los permisos sectoriales y a otros inconvenientes económicos. Mediante carta de fecha 4 de septiembre de 2012 y documentación acompañada con fecha 26 de septiembre del mismo año, se solicitó el término del Contrato de Concesión invocando la causal establecida en su artículo 15, letra E).
+
+De esta forma, se ha puesto término de mutuo acuerdo a la Concesión de Uso Onerosa directa otorgada a la sociedad "Forestal Río Simpson Limitada", RUT 76.149.800-2, respecto del inmueble fiscal ubicado en el lugar denominado Río Ibáñez - Río Cajón, comuna de Río Ibáñez, provincia de General Carrera, XI Región de Aysén, enrolado en el Servicio de Impuestos Internos bajo los Nos 231-106; 231-107 y 231-108, compuesto por 14 (catorce) lotes, individualizados en el Plano Nº XI-3-1066 C.R. de una superficie total de 27.190,00 Has (veintisiete mil ciento noventa hectárea).
+
+El presente decreto con su texto íntegro, así como los decretos exentos Nº 1.279, de 26 de noviembre de 2001, modificado por decretos (exentos) Nos 375, de 10 de abril de 2002, Nº 778, de 19 de noviembre de 2002 y Nº 492 de 16 de septiembre de 2005, todos del Ministerio de Bienes Nacionales, se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica Ministerio de Bienes Nacionales.
