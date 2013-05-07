@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 477 EXENTA, DE 2013
+
+Por resolución exenta Nº 477, de 23/04/2013, la suscrita modificó la resolución exenta 519 de 2009, en orden a modificar el resolutivo segundo, revocando la delegación para el ejercicio de las facultades de sus números 1 y 2, a la Jefa de la Oficina de Procedimientos Administrativos Tributarios, Macarena del Pilar Arteaga Cisternas, RUT Nº 13.603.450-2 y José Daniel Monje Cid, RUT Nº 8.682.999-1 en caso de impedimento o inhabilidad de la primera. Delegando el ejercicio de las facultades en el Jefe de la Oficina de Procedimientos Administrativos Tributarios José Daniel Monje Cid, RUT Nº 8.682.999-1, y Macarena Danessa Acuña Garay, RUT Nº 15.309.267-2 quien deberá reemplazar en caso de impedimento o inhabilidad del primero.-
+
+Rita de Lourdes Astorga Mc Donald, Directora, XII Dirección Regional.
