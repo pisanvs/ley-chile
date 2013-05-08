@@ -1,0 +1,5 @@
+TRATAMIENTO TRIBUTARIO DE GARANTÍAS Y GASTOS INCURRIDOS EN CUMPLIMIENTO DE PLANES DE CIERRE DE FAENAS E INSTALACIONES MINERAS PARA LOS EFECTOS DE LOS IMPUESTOS A LA RENTA Y A LAS VENTAS Y SERVICIOS
+
+Extracto de circular Nº 22, de fecha 3 de mayo de 2013, la cual tiene por objeto impartir instrucciones sobre el tratamiento tributario que debe darse, en el ámbito de la Ley sobre Impuesto a la Renta (LIR), a los gastos en que se incurra con motivo del cumplimiento del plan de cierre y de la garantía que la empresa deba constituir, en los casos que se encuentre obligada a hacerlo, y sobre la procedencia del crédito fiscal para efectos del Impuesto al Valor Agregado (IVA), por el tributo recargado en la adquisición de bienes o servicios necesarios para la ejecución del plan de cierre de faenas e instalaciones mineras, todo lo anterior en conformidad a lo dispuesto por la ley Nº 20.551, publicada en el Diario Oficial el 11 de noviembre de 2011.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2013.
