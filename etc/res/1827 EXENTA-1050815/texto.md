@@ -1,0 +1,7 @@
+DELEGA FACULTADES EN LOS JEFES DE AVALUACIONES Y JEFES DE UNIDADES QUE INDICA
+
+Extracto de resoluciones sobre delegación de facultades, en los jefes de avaluaciones y jefes de unidades en materias de su competencia.
+
+Por resoluciones exentas Nos 590 de 19/04/2013, 981 de 24.04.2013, 467 de 25.03.2013, 1.263 de 16.04.2013, 2.399 de 02/04/2013, 1.799 de 08/04/2013, 1.949 de 25.03.2013, 2.689 de 25/03/2013, 1.793 de 01/04/2013, 1.827 de 22/04/2013, 329 de 16/04/2013, 336 de 25/03/2013, 282 de 28.03.2013, 79 de 28.03.2013, 2.893 de 04.04.2013, 1.792 de 03.04.2013, 998 de 12.04.2013, 465 de 09.04.2013, respectivamente; los Directores de las I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, Direcciones Regionales del Servicio, delegaron en los Jefes de Avaluaciones y en los Jefes de Unidades la facultad de requerir información a las municipalidades, conforme a lo previsto en el artículo 87 del Código Tributario y/o dar respuesta a los requerimientos de información de éstas, en los casos que ello sea pertinente, en el curso de la tramitación de los procedimientos administrativos referidos en la circular 54, de 2012.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2013.
