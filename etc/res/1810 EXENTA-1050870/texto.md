@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.810 EXENTA, DE 2013
+
+Por resolución exenta Nº 1.810, de fecha 18 de abril de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Centro de Investigación para el Desarrollo y Capacitación Limitada", nombre de fantasía "Asiste Ltda.", RUT Nº 77.593.380-1, representada legalmente por María Gabriela Cornejo Gaete, RUT Nº 5.795.970-3, cuyo Director es René Nicanor Valenzuela Valenzuela, RUT Nº 8.615.438-2, la que tendrá su lugar de funcionamiento en el local ubicado en Padre Diego Rosales Nº 1637, comuna de Santiago.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
