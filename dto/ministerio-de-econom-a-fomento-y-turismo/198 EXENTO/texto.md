@@ -18,13 +18,13 @@ Decreto:
 
 Los límites máximos de captura por armador, expresados en toneladas, de conformidad con lo dispuesto en el artículo 2º transitorio de la ley 20.657, serán los siguientes:
 
-a) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la III y IV Regiones, individualizada en la letra a) del artículo 2º de la ley 19.713:
+a) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la III y IV Regiones, individualizada en la letra a) del artículo 2° de la ley 19.713:
 
 b) Unidades de pesquería de Anchoveta Engraulis ringens y Sardina española Sardinops sagax, en el área marítima de la III y IV Regiones, individualizadas en la letra b) del artículo 2º de la ley 19.713:
 
-c) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima comprendida entre el límite norte de la V Región y el límite sur de la IX Región, individualizada en la letra c) del artículo 2º de la ley 19.713:
+c) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima comprendida entre el límite norte de la V Región y el límite sur de la IX Región, individualizada en la letra c) del artículo 2° de la ley 19.713:
 
-d) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XIV y X Regiones, individualizada en la letra d) del artículo 2º de la ley 19.713:
+d) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XIV y X Regiones, individualizada en la letra d) del artículo 2° de la ley 19.713:
 
 e) Unidades de pesquería de Sardina común Clupea bentincki y Anchoveta Engraulis ringens, en el área marítima comprendida entre la V y la X Regiones, individualizadas en la letra e) del artículo 2º de la ley 19.713:
 
@@ -56,7 +56,9 @@ p) Unidad de pesquería de Langostino colorado Pleuroncodes monodon, en el área
 
 q) Unidades de pesquería de Sardina española Sardinops sagax y Anchoveta Engraulis ringens, en el área marítima de la XV, I y II Regiones, individualizadas en la letra q) del artículo 2º de la ley 19.713:
 
-r) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XV, I y II Regiones, individualizada en la letra r) del artículo 2º de la ley 19.713:
+r) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XV, I y II Regiones, individualizada en la letra r) del artículo 2° de la ley 19.713:
+
+.
 
 #### Artículo 2º
 
