@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.052, de 23 de abril de 2013, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta N° 1.604, de 2004, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Itata S.A., hoy BLUMAR S.A., para realizar actividades pesqueras extractivas con una nave denominada "Yelcho I" en el área marítima comprendida entre la III a X Regiones, sobre el recurso hidrobiológico Jibia, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 23 de abril de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
