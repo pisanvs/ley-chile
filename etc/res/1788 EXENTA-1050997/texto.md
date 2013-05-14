@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.788 EXENTA, DE 2013
+
+Por resolución exenta Nº 1.788, de fecha 16 de abril de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 657, de 5 de octubre de 1990, del Ministerio de Transportes y Telecomunicaciones, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Salinas", cuyo propietario es el señor Iván Rafael Salinas Loyola, RUT Nº 7.104.586-2, en el sentido de aprobar la nueva sede de la escuela ubicada en Covadonga Nº 748, comuna de San Bernardo, siendo su Director el señor Luis Ricardo González Contreras, RUT Nº 9.414.423-5.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
