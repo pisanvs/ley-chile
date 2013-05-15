@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN Y DESISTIMIENTO DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.271, 25 abril de 2013, Serviu Región del Biobío dispuso la rectificación y el desistimiento de expropiación total del inmueble ubicado en Calle 4 3462 D 212 Leonera Chgte., comuna de Chiguayante, Rol de avalúo Nº 3251-169 de esa comuna de aparente dominio de Verónica Poblete Toloza, de una superficie de terreno de 42,11 m² y los derechos cuotativos que recaen en los bienes comunes correspondientes al mismo (superficie común edificada= 4,081 m² y superficie común de terreno= 38,22 m²) en el polígono descrito de conformidad al plano S8R-27.572 y con los deslindes indicados en tal plano, la rectificación procede en donde dice departamento "212" debe decir departamento "102" esto es en el visto f), h) y en el resuelvo primero de la resolución exenta 6522 de 9 de noviembre de 2011, teniéndose la presente resolución rectificatoria como parte integrante de la rectificada, ordenando la publicación de esta resolución exenta y la recuperación de la cantidad de $10.573.997, consignada en la cuenta corriente del Tercer Juzgado Civil de Concepción, como monto de indemnización provisional, bajo el Rol V-500-2011. De conformidad a los artículos 32 y siguientes del DL 2.186.
+
+Director Serviu Región del Biobío.
