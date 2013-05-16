@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A RSA SEGUROS DE VIDA S.A.
+
+Certifico: Que por resolución exenta Nº 151, de 8 de mayo de 2013, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "RSA Seguros de Vida S.A.", acordada en Junta Extraordinaria de Accionistas de 17 de abril de 2013, cuya acta consta en escritura pública de fecha 18 de abril de 2013, otorgada ante la Notario de Santiago, doña Nancy de la Fuente Hernández, con domicilio en Huérfanos Nº 1117, oficina 1014, Santiago.
+
+La modificación consiste en el aumento del capital social de $2.080.000.000.-, dividido en 2.080.000 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor, íntegramente suscrito y pagado, a $7.720.000.000.-, dividido en 7.720.000 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor, mediante la emisión de 5.640.000 acciones de pago, correspondiente a $5.640.000.000.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 8 de mayo de 2013.- Carmen Undurraga Martínez, Secretario General.
