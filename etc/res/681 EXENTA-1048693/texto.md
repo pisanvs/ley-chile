@@ -54,7 +54,7 @@ al DS Nº 1 no podrá exceder del 80%.
 
 4º.- Para los efectos de determinar el número de Certificados de Subsidio susceptibles de financiar, se considerarán los valores promedio que se indican a continuación, en la siguiente tabla:
 
-En todo caso, para la aplicación de los subsidios deberá determinarse el valor real de pago que resulte de aplicar los montos correspondientes de acuerdo a la región y comuna de emplazamiento, según lo indicado en los artículos 4 y 7 del DS Nº 49 (V. y U.), de 2011 y en los artículos 64 y 67 del DS Nº 1 (V. y U.), de 2011, según corresponda.
+En todo caso, para la aplicación de los subsidios deberá determinarse el valor real de pago que resulte de aplicar los montos correspondientes de acuerdo a la región y comuna de emplazamiento, según lo indicado en los artículos 4 y 7 del DS Nº 49 (V. y U.), de 2011 y en los artículos 64 y 67 del DS Nº 1 (V. y U.), de 2011, según corresponda. No obstante lo señalado numeral iii, de la letra b) del artículo 7 del DS N° 49 referido, el Serviu podrá autorizar excepcionalmente y mediante resolución fundada del Director Serviu, que se modifique la superficie mínima exigida, no pudiendo ser inferior a 50 m2.
 
 En el caso de la aplicación de subsidios para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero o del Programa Fondo Solidario de Vivienda II del Capítulo Segundo, del DS Nº 174 (V. y U.), de 2005, para el cálculo del monto de subsidio se estará a lo dispuesto en el artículo 4º transitorio del DS Nº 49 y al inciso tercero del artículo 75 del DS Nº 1, ambos de Vivienda y Urbanismo, de 2011.
 
