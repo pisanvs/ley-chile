@@ -122,6 +122,10 @@ a- El tramo urbano de la Ruta 203 CH, desde el límite urbano Norponiente hasta 
 
 b- El tramo urbano de la Ruta T-39, desde el límite urbano Poniente hasta Bernardo O'Higgins, a través de Juan Pablo II.
 
+RÍO BUENO
+
+. El sistema vial urbano que interconecta la Ruta T-71 con la Ruta T-85, desde el límite urbano norte al límite urbano oriente a través de: 2 puentes sobre el Río Bueno; Avenida Prat; calle Carlos Condell; sistema formado por las calles Camino a Lago Ranco, Riquelme, San Martín y Camino a Lago Ranco.
+
 5º Declárense Caminos Públicos en las áreas urbanas de las siguientes ciudades o pueblos, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 ANTILHUE:
