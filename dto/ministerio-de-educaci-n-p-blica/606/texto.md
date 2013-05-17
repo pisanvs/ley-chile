@@ -12,10 +12,6 @@ Declárase Zona Típica el sector de las calles Nueva York, La Bolsa y Club de L
 
 El área del polígono de protección tiene una superficie aproximada de 46.624,18 mts.2, según se delimita por el polígono 1-2-3-4-5-6-7-8-9-10-1 del plano adjunto, que forma parte del presente decreto.
 
-> **Nota.** El artículo primero del Decreto 18 Exento, Culturas, publicado el 25.02.2026, modifica la presente norma en el sentido de complementar en los términos que indica, los valores y atributos de la Zona Típica calles Nueva York, La Bolsa, Club de la Unión, incluyendo la Casa Central de la Universidad de Chile.
-
-> **Nota.** NOTA 1 El artículo segundo del Decreto 18 Exento, Culturas, publicado el 25.02.2026, modifica el Decreto 137, de 2013, del Ministerio de Educación, el cual, a su vez, incide en la presente norma, en el sentido de rectificar los límites de la Zona Típica de las calles Nueva York, La Bolsa y Club de la Unión, incluyendo la Casa Central de la Universidad de Chile, en la comuna de Santiago, Región Metropolitana, conforme al plano de límites oficial N° 8-2025, cuyo archivo ordena la citada norma.
-
 Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército. Presidente de la República.- René Salamé Martín, Ministro de Educación Pública.
 
 Lo que transcribo a usted para su conocimiento.- Saluda a usted.- María Sixtina Barriga Guzmán, Subsecretaría de Educación Pública.
