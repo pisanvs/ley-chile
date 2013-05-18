@@ -352,8 +352,6 @@ IRNVM : DSRX.84-1
 
 Placa única : DSRX.84.
 
-> **Nota.** El artículo segundo del Decreto 1702 Exento, Interior, publicado el 17.10.2016, deja sin efecto la autorización otorgada en el artículo primero del presente Decreto, para circular en días sábado en la tarde, domingo y festivos, a los vehículos que en esa norma se individualizan.
-
 #### Artículo segundo
 
 <!-- parte:9335834 -->
