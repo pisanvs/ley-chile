@@ -350,8 +350,6 @@ IRNVM : DSRX.84-1
 
 Placa única : DSRX.84.
 
-> **Nota.** El artículo segundo del Decreto 1702 Exento, Interior, publicado el 17.10.2016, deja sin efecto la autorización otorgada en el artículo primero del presente Decreto, para circular en días sábado en la tarde, domingo y festivos, a los vehículos que en esa norma se individualizan.
-
 #### Artículo segundo
 
 Déjase sin efecto el decreto exento N° 3.756, de fecha 29 de septiembre de 2009, del Ministerio del Interior, que autorizó la circulación en días sábados en la tarde, domingos y festivos de los vehículos arrendados para las fiscalías de la IX Región de la Araucanía. Asimismo, déjase sin efecto la misma autorización contenida en el decreto exento N° 2.375, de fecha 14 de julio de 2010, sólo en lo referente a los vehículos arrendados para las fiscalías locales de Arica y Putre.
