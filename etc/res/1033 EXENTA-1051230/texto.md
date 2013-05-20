@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.033, de 22 de abril de 2013, de esta Subsecretaría, amplíese por doce meses, a contar del 28 de enero de 2013, el plazo otorgado a PESQUERA OMEGA LIMITADA para iniciar actividades pesqueras extractivas con la nave en construcción "BEC N° 3092/11", en el área marítima comprendida entre la XV a X Regiones, Isla de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez Espada y su fauna acompañante.
+
+Valparaíso, 22 de abril de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
