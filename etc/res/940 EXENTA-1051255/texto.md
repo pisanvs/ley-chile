@@ -1,0 +1,3 @@
+Por resolución exenta Nº 940, de 9 de abril de 2013, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PESSUR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Pesur I", en el área marítima de la VIII y de la XIV Regiones al paralelo 40º L.S., por fuera del área de reserva artesanal, con red de arrastre, los siguientes recursos hidrobiológicos: Mictófido Triphoturus mexicanus, Mictófido Diogenichthys sp., Mictófido Ceratoscopelus sp., Mictófido Diaphus sp., Mictófido Gonichthys sp., Mictófido Gymnoscopelus sp., Mictófido Hygophum sp., Mictófido Lampadena sp., Mictófido Lampanyctus sp. y Mictófido Myctophum sp.
+
+Valparaíso, 9 de abril de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
