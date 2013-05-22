@@ -1,0 +1,7 @@
+IMPARTE INSTRUCCIONES PARA ACOGERSE AL RÉGIMEN DE RECUPERACIÓN DE LOS IMPUESTOS DEL DECRETO LEY Nº 825, DE 1974, POR LAS VENTAS DE MERCANCÍAS DE SU PROPIA PRODUCCIÓN QUE HAGAN A LA ZONA FRANCA DE EXTENSIÓN O A OTROS USUARIOS DE ZONA FRANCA A QUE SE REFIERE EL ARTÍCULO 27 DE LA LEY Nº 19.420, DE 1995
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 47 de 15 de mayo de 2013, que señala:
+
+Los contribuyentes que, conforme a lo dispuesto en el inciso segundo del artículo 27 de la ley Nº 19.420, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº 1, de 2001, del Ministerio de Hacienda, se acojan al régimen de recuperación de los impuestos del decreto ley Nº 825, de 1974, deberán documentar sus operaciones por las ventas de mercancías de su propia producción que hagan a la zona franca de extensión o a otros usuarios de zona franca, a través de la emisión de un mensaje electrónico cuyos requisitos, forma de envío y demás especificaciones están disponibles en el anexo de la presente resolución.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo de 2013.
