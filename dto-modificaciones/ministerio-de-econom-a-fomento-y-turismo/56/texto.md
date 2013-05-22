@@ -1872,15 +1872,15 @@ El plazo de permanencia mínima de un año en tierra para reproductores de Salmo
 
 Los titulares de centros de cultivo ubicados en mar o estuario que a la fecha de la publicación de este reglamento mantengan reproductores de las especies Salmo salar u Oncorhynchus mykiss, no les será aplicables los descansos coordinados de las agrupaciones de concesiones.
 
-Los centros señalados en el inciso anterior podrán mantener reproductores por el plazo de tres años contados desde la fecha de publicación del presente reglamento. Vencido dicho plazo, no podrán mantenerse reproductores en dichos centros, salvo que se cumplan las condiciones establecidas en el Título VI, párrafo 2º del presente reglamento.
+Los centros señalados en el inciso anterior podrán mantener reproductores por el plazo de cuatro años contados desde la fecha de publicación del presente reglamento. Vencido dicho plazo, no podrán mantenerse reproductores en dichos centros, salvo que se cumplan las condiciones establecidas en el Título VI, párrafo 2º del presente reglamento.
 
 #### Artículo 4º
 
 En el plazo máximo de seis meses desde la publicación del presente decreto en el Diario Oficial, la Subsecretaría fijará las macro-zonas para contener brotes de enfermedades en las regiones de Los Lagos y Aysén, sin someterse al procedimiento previsto en el artículo 58 K. Dichas macro-zonas estarán vigentes hasta la publicación de la resolución que establezca las macrozonas de acuerdo al procedimiento establecido en el artículo 58 K. En el plazo de un año desde la publicación del reglamento en el Diario Oficial, la Subsecretaría deberá someter la propuesta de macro-zonas elaborada conforme a estudios, al procedimiento previsto en el artículo 58 K.
 
-#### Artículo 5º
+#### Artículo 5
 
-El período de siembra de 30 días para los centros de cultivo emplazados en ríos y lagos a que se refiere el artículo 23 Ñ, inciso 3º, comenzará a regir en el plazo de un año desde la publicación del reglamento en el Diario Oficial. En el tiempo intermedio regirá el plazo de 45 días corridos.
+DEROGADO.
 
 #### Artículo 6º
 
@@ -1892,9 +1892,9 @@ b) Las pisciculturas que mantengan reproductores que hayan sido obtenidos de un 
 
 c) Las pisciculturas que no se encuentren en ninguna de las situaciones señaladas en los literales anteriores, incluidas las que se dediquen a engorda, deberán contar con tratamiento de los efluentes en el plazo de tres años contados desde la entrada en vigencia del presente decreto.
 
-#### Artículo 7º
+#### Artículo 7
 
-La exigencia señalada en el artículo 23 P letra a), referida a la desinfección de afluentes de las pisciculturas comenzará a regir en el plazo de 5 años desde la fecha de publicación del presente reglamento. Se eximirán de esta exigencia las pisciculturas dedicadas a alevinaje, smoltificación o reproducción cuya clasificación sea de bioseguridad alta.
+DEROGADO.
 
 #### Artículo 8º
 
@@ -1918,7 +1918,7 @@ La densidad de cultivo de las concesiones antes señaladas será la correspondie
 
 #### Artículo 11
 
-La clasificación de los centros de cultivo y de las agrupaciones de concesión se hará aplicable a los tres meses contados desde la publicación en el Diario Oficial de la resolución de la Subsecretaría a que se refieren los artículos 22 Ñ, 58 H y 58 J.
+DEROGADO.
 
 #### Artículo 12
 

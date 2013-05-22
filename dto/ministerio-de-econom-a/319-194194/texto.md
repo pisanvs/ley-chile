@@ -24,7 +24,7 @@ El presente reglamento establece las medidas de protección y control para evita
 
 Las disposiciones del presente reglamento se aplicarán a las actividades de cultivo, transporte, repoblamiento, lavado, procesamiento, desinfección y demás actividades relacionadas con el cultivo de especies hidrobiológicas. Asimismo, la importación de especies hidrobiológicas, las actividades de experimentación y la sujeción a la vigilancia y control de la autoridad en la aplicación de antimicrobianos y otros productos destinados al control de patologías, como también, la experimentación, importación, transporte, mantención y almacenamiento de material patológico, quedarán sometidas a las disposiciones del presente reglamento y sus normas específicas..
 
-Además, los centros de acopio y los centros de faenamiento quedarán sujetos a las normas del presente reglamento, y a sus propias regulaciones específicas.
+Los centros de acopio y los centros de faenamiento quedarán sujetos, en lo pertinente, a las normas de los Títulos I, II, III, IV y V del presente reglamento y a las demás, sólo en cuanto se remitan a ellas sus regulaciones específicas. Los centros de faenamiento quedarán sometidos, asimismo, a las normas del Título VIII del presente reglamento.
 
 #### Artículo 2º
 
@@ -44,7 +44,7 @@ Para los efectos del presente Reglamento se dará a los siguientes términos los
 
 7) Control: conjunto de procedimientos que permiten disminuir la incidencia y prevalencia de una determinada enfermedad en una población de especies hidrobiológicas.
 
-8) Destrucción: operación de eliminación de material de alto riesgo por métodos que impiden la propagación de agentes patógenos.
+8) Destrucción: operación de eliminación de material de alto riesgo o material patológico por métodos que impiden la propagación de agentes patógenos.
 
 9) Enfermedad de alto riesgo: desviación del estado completo de bienestar físico de un organismo, que involucra un conjunto bien definido de signos y etiología, que conduce a una grave limitante de sus funciones normales, asociada a altas mortalidades y de carácter transmisible a organismos de la misma u otras especies.
 
@@ -54,41 +54,23 @@ Para los efectos del presente Reglamento se dará a los siguientes términos los
 
 12) Especie silvestre: organismo que no proviene de cultivo.
 
-13) Incidencia: número de brotes de enfermedad registrados en una población de especies hidrobiológicas determinada durante un período de tiempo determinado.
+13) Incidencia: número de diagnósticos de una enfermedad o un patógeno registrados en una población de especies hidrobiológicas determinada durante un período de tiempo determinado.
 
 14) Infección: Presencia de un agente patógeno que se multiplica, desarrolla o está latente en un huésped. Incluye a la infestación, cuando el agente patógeno es un parásito del hospedador.
 
-15) Laboratorio de Diagnóstico: laboratorio que realiza el diagnóstico de enfermedades de especies hidrobiológicas, registrado de conformidad con el artículo 122 k) de la ley.
+15) Laboratorio de Diagnóstico: laboratorio que realiza el diagnóstico de enfermedades y patógenos de especies hidrobiológicas, registrado de conformidad con el artículo 122 k) de la ley.
 
 16) Ley: Ley General de Pesca y Acuicultura y sus modificaciones.
 
 17) Material de alto riesgo sanitario: especies hidrobiológicas vivas que presentan signos clínicos de una enfermedad de alto riesgo sujeta a un programa sanitario específico, incluidos sus subproductos, mortalidades, desechos y la sangre procedente de los individuos enfermos o infectados.
 
-18) Material patológico: especies hidrobiológicas
-
-vivas o muertas, sus tejidos, órganos o fluidos
-
-en los cuales se tenga diagnóstico o sospecha
-
-de enfermedad o agente causal de enfermedad de
-
-alto riesgo. También se consideran virus,
-
-bacterias, hongos, parásitos obtenidos de las
-
-especies hidrobiológicas o de cultivos
-
-microbiológicos o cualquier material genético
-
-que pudiera causar una enfermedad de alto
-
-riesgo.
+18) Material patológico: Tejidos no inactivados de especies hidrobiológicas y cepas de microorganismos patógenos.
 
 19) O.I.E.: Organización Mundial de Sanidad Animal, que será citada por sus siglas en inglés, OIE.
 
 20) Prevalencia: número total de individuos infectados expresado en porcentaje del número total de individuos presentes en una población y momento determinados.
 
-21) Reproductores: individuos que han alcanzado su madurez sexual.
+21) Reproductores: Ejemplares de especies hidrobiológicas que han sido seleccionados o destinados a la obtención de gametos.
 
 22) Riesgo: probabilidad de ocurrencia de un evento indeseable en materia de sanidad para las especies hidrobiológicas.
 
@@ -102,9 +84,9 @@ riesgo.
 
 27) Virulencia: grado de patogenicidad de un organismo.
 
-28) Zona de vigilancia: zona geográfica delimitada por el Servicio que se sujeta a medidas de vigilancia o control rigurosas por encontrarse en el área aledaña a una zona infectada.
+28) Zona de vigilancia: Zona geográfica delimitada por el Servicio, sujeta a medidas de vigilancia o control por encontrarse en el área aledaña a una zona infectada o a un centro bajo sospecha de enfermedad de alto riesgo.
 
-29) Zonificación: área de un país que abarca parte
+29) Zona: área de un país que abarca parte
 
 (desde el manantial de un río hasta una barrera
 
@@ -140,7 +122,7 @@ competente.
 
 31) Centro de faenamiento: Establecimiento que tiene por objeto el sacrificio, desangrado y eventual eviscerado de recursos hidrobiológicos, para su posterior transformación. Se entenderá también por centro de faenamiento, los pontones destinados a los objetos antes indicados, sólo respecto de recursos hidrobiológicos provenientes de cultivo, quedando los demás sometidos a lo dispuesto en el artículo 162 de la ley.
 
-32) Emergencia sanitaria: brote inesperado dentro del territorio nacional de enfermedades de Lista 1, o aumento sobre los niveles considerados normales en la prevalencia o incidencia de enfermedades de Lista 2, o de patologías no incorporadas en el listado de enfermedades de alto riesgo, susceptibles de provocar un alto impacto económico y sanitario en las especies hidrobiológicas, con arreglo a los términos de los artículos 4 y 5. La declaración de emergencia sanitaria dará lugar a la adopción de medidas de control por parte del Servicio previstas en los artículos 6, 7 y 7 bis.
+32) Emergencia sanitaria: aparición inesperada dentro del territorio nacional de infecciones o enfermedades de Lista 1, o aumento sobre los niveles considerados normales en la prevalencia o incidencia de enfermedades de Lista 2 o 3, o de patologías no incorporadas en el listado de enfermedades de alto riesgo, susceptibles de provocar un alto impacto económico y sanitario en las especies hidrobiológicas, con arreglo a los términos de los artículos 4 y 5. La declaración de emergencia sanitaria dará lugar a la adopción de medidas de control por parte del Servicio previstas en los artículos 6, 7 y 7 bis.
 
 33) Desechos: material orgánico o inorgánico que queda inservible con ocasión de la actividad de acuicultura que no incluye a las mortalidades.
 
@@ -150,15 +132,15 @@ competente.
 
 36) Ensilaje: Procedimiento de transformación de la mortalidad mediante una molienda y adición de ácido fórmico hasta alcanzar y mantener un pH 4, en una mezcla homogénea.
 
-37) Incineración: Sistema de tratamiento de las mortalidades que consiste en la quema controlada de materia orgánica con el fin de generar su combustión completa hasta su conversión en cenizas, basada en la aplicación de calor al interior de hornos pirolíticos de doble cámara.
+37) Incineración: Sistema de tratamiento de las mortalidades que consiste en la quema controlada de materia orgánica con el fin de generar su combustión completa hasta su conversión en cenizas, basada en la aplicación de calor.
 
 38) Piscicultura de recirculación: Sistema productivo en el que el agua es reutilizada y tratada, al menos, a través de filtros mecánicos, biológicos y sistemas de desinfección, pudiendo ser renovada una parte de ella en forma continua.
 
-39) Agrupación de concesiones: conjunto de concesiones de acuicultura que se encuentran dentro un área apta para el ejercicio de la acuicultura en un sector que presenta características epidemiológicas, oceanográficas, operativas o geográficas que justifican su manejo sanitario coordinado por grupo de especies hidrobiológicas, así declarado por la Subsecretaría.
+39) Agrupación de concesiones: conjunto de concesiones de acuicultura que se encuentran dentro un área apta para el ejercicio de la acuicultura en un sector que presenta características de inocuidad, epidemiológicas, oceanográficas, operativas o geográficas que justifican su manejo sanitario coordinado por grupo de especies hidrobiológicas, así declarado por la Subsecretaría.
 
 40) Bioconención: acciones destinadas a evitar la
 
-diseminación de una enfermedad desde un centro de
+diseminación de una enfermedad o de agentes patógenos desde un centro de
 
 cultivo hacia otros centros o hacia especies
 
@@ -180,7 +162,7 @@ extractivas.
 
 43) Cepas apatógenas o avirulentas: microorganismos
 
-patógenos cuyas variantes genéticas, de
+cuyas variantes genéticas, de
 
 conformidad con estudios científicos e
 
@@ -216,7 +198,7 @@ sea la encargada de certificar la condición sanitaria
 
 de las especies hidrobiológicas en el
 
-marco de los programas de vigilancia activa
+marco de los programas de vigilancia
 
 establecidos por el Servicio, en el caso de
 
@@ -232,11 +214,7 @@ encontrarse registrado ante el Servicio de
 
 conformidad con el artículo 122 k) de la ley.
 
-46) Cosecha: extracción de peces desde un centro de
-
-cultivo cuyo destino final es la
-
-comercialización.
+46) Cosecha: extracción de especies hidrobiológicas desde un centro de cultivo cuyo destino final es la comercialización.
 
 47) Desinfección: aplicación de agentes químicos o
 
@@ -368,13 +346,9 @@ agente patógeno sin manifestar síntomas ni signos
 
 clínicos y es capaz de transmitir la infección.
 
-60) Re-proceso: proceso de transformación total o
+60) Re-proceso: proceso de transformación total o parcial realizado a partir de materia prima
 
-parcial realizado a partir de materia prima
-
-importada proveniente de la actividad pesquera
-
-extractiva o de acuicultura.
+importada o de origen nacional proveniente de la actividad pesquera extractiva o de acuicultura.
 
 61) Selección o graduación: medida de manejo
 
@@ -382,11 +356,7 @@ productivo que consiste en clasificar los peces
 
 en función de su peso y tamaño.
 
-62) Zona infectada: zona geográfica o hidrográfica en
-
-la que se ha demostrado la presencia de una
-
-enfermedad.
+62) Zona infectada: Zona geográfica delimitada por el Servicio, en la que se ha demostrado la presencia de una enfermedad o de un agente patógeno.
 
 63) Zona libre: zona geográfica o hidrográfica en la
 
@@ -399,6 +369,22 @@ con los requisitos para ser declarada libre de la
 enfermedad o agente de acuerdo a las
 
 disposiciones del presente reglamento.
+
+64) Ciclo productivo: Período de tiempo para que una especie hidrobiológica en cultivo alcance el grado de desarrollo necesario suficiente para continuar con la o las siguientes etapas productivas. En el caso de la engorda de peces, es el período que va entre el ingreso o siembra de una generación de ejemplares hasta su cosecha total o el despoblamiento total del centro de cultivo.
+
+65) Compartimento: Uno o varios centros de acuicultura con un sistema de gestión de bioseguridad que contiene una población de especies hidrobiológicas con un estatus zoosanitario particular, respecto de una enfermedad o infección determinadas, contra las cuales se aplican las medidas de vigilancia y control y se cumplen las condiciones elementales de bioseguridad.
+
+66) Descanso sanitario coordinado: Medida coordinada aplicable a las agrupaciones de concesiones establecidas de conformidad con el artículo 2 Nº 52) de la ley, que consiste en un período de tiempo durante el cual los centros de cultivo, integrantes de la agrupación respectiva, deberán cesar sus operaciones y retirar la totalidad de ejemplares del centro, quedando prohibido el ingreso y mantención de especies hidrobiológicas.
+
+67) Grupo de especies salmónidos o salmónidos: El indicado en la letra a) del artículo 21 bis del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+68) INFA: Información ambiental de conformidad con el reglamento ambiental para la acuicultura, establecido por DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+69) Origen: Centro de cultivo en el que han sido mantenidos los ejemplares en forma previa a su traslado a un centro de engorda o de otro tipo.
+
+70) Período productivo: Período de tiempo comprendido entre la fecha de término de un descanso sanitario coordinado y el inicio del siguiente descanso sanitario coordinado de una agrupación de concesiones.
+
+71) Quiebre sanitario: Número de ejemplares a sembrar en una agrupación de concesiones y que se ha estimado, conforme a su desempeño sanitario, que ella puede soportar sin deteriorar su estatus sanitario
 
 ## Título II
 
@@ -414,7 +400,7 @@ Lista 2: enfermedad de alto riesgo que se clasifica como tal por no estar en cir
 
 Lista 3: enfermedad de alto riesgo que se clasifica como tal por no estar en ninguna de las situaciones señaladas para Lista 1 ni Lista 2, haber sido diagnosticada en el país en una o en más zonas geográficas, provocando mortalidades variables y cuya completa epidemiología puede o no estar completamente descrita.
 
-La Subsecretaría de Pesca dictará una resolución que contendrá la clasificación de las enfermedades de alto riesgo en Lista 1, 2 y 3, conforme lo señalado precedentemente, previo informe del Comité Técnico que se indica en el Título XII del presente reglamento. La resolución de clasificación de las enfermedades de alto riesgo deberá publicarse en el Diario Oficial.
+La Subsecretaría de Pesca dictará una resolución que contendrá la clasificación de las enfermedades de alto riesgo en Lista 1, 2 y 3, conforme lo señalado precedentemente. La resolución de clasificación de las enfermedades de alto riesgo deberá publicarse en el Diario Oficial.
 
 #### Artículo 4º
 
@@ -422,11 +408,11 @@ Si aparecieren, fuera del territorio nacional, brotes de enfermedades de etiolog
 
 #### Artículo 5º
 
-En los casos en que, dentro del territorio nacional, aparecieren enfermedades o infección de etiología desconocida que representen un impacto importante desde el punto de vista económico y de salud animal, el titular del centro de cultivo o quien éste designe deberá notificar obligatoriamente y en el momento de descubierto el brote, al Servicio, el que dispondrá, si corresponde, la realización de una investigación oficial, de acuerdo con el procedimiento previsto en el programa sanitario general.
+En los casos en que, dentro del territorio nacional, aparecieren enfermedades o infección de etiología desconocida que representen un impacto importante desde el punto de vista económico y de salud animal, el titular del centro de cultivo o quien éste designe deberá notificar obligatoriamente y en el momento de descubierto el brote, al Servicio, el que dispondrá, si corresponde, la realización de una investigación oficial.
 
 Con todo, cualquier persona que tuviera noticia acerca de enfermedades o infección de que trata este artículo podrá informar al Servicio, acompañando los antecedentes correspondientes, para efectos de iniciar una investigación oficial.
 
-Mediante la investigación oficial se deberá determinar si la patología es producida por un agente infeccioso y si se trata de una enfermedad de alto riesgo. En tal caso, la Subsecretaría, por resolución, previo informe del Comité Técnico incorporará la enfermedad respectiva en la clasificación de enfermedades de alto riesgo.
+Mediante la investigación oficial se deberá determinar si la patología es producida por un agente infeccioso y si se trata de una enfermedad de alto riesgo. En tal caso, la Subsecretaría, por resolución, incorporará la enfermedad respectiva en la clasificación de enfermedades de alto riesgo.
 
 #### Artículo 6º
 
@@ -438,7 +424,7 @@ Recibida la notificación a que alude el inciso 1º del presente artículo o si 
 
 a) determinar la especie, estado de desarrollo y número de ejemplares muertos, enfermos o presuntamente infectados en base a la información recopilada en los registros sanitarios del centro;
 
-b) delimitar la zona infectada y zonas de vigilancia con respecto a esa enfermedad o infección;
+b) delimitar la zona infectada y zonas de vigilancia con respecto a la infección o enfermedad, pudiendo incluir zonas vinculadas epidemiológicamente con el centro bajo sospecha de infección o enfermedad.
 
 c) prohibir o autorizar el traslado de ejemplares vivos y de sus huevos y gametos desde el centro directamente afectado y de aquellos ubicados en la zona de vigilancia;
 
@@ -456,7 +442,7 @@ Las medidas indicadas precedentemente se aplicarán hasta que se descarte oficia
 
 #### Artículo 7º
 
-En caso de comprobarse la presencia de una infección o enfermedad de la Lista 1 el Servicio deberá, una vez obtenida la confirmación, establecer las acciones tendientes a su control. Las medidas adoptadas deberán ser comunicadas inmediatamente a los titulares del centro afectado y de aquellos ubicados en la la zona infectada y la de vigilancia. En este caso, el Servicio dispondrá por resolución una o más de las siguientes medidas, según corresponda:
+En caso de comprobarse la presencia de una infección o enfermedad de la Lista 1 el Servicio deberá, una vez obtenida la confirmación, dictar la resolución que declare la emergencia sanitaria, previo informe técnico y establecer las acciones tendientes a su control. Las medidas adoptadas deberán ser comunicadas inmediatamente a los titulares del centro afectado y de aquellos ubicados en la la zona infectada y la de vigilancia. En este caso, el Servicio dispondrá por resolución una o más de las siguientes medidas, según corresponda:
 
 a) determinar procedimientos de manejo, mantención en centros de acopio, centros de faenamiento, cosecha y procesamiento, que eviten la propagación de la enfermedad;
 
@@ -464,7 +450,7 @@ b) requerir la desinfección de las instalaciones y equipos;
 
 c) restringir o prohibir el traslado de ejemplares desde el centro infectado;
 
-d) delimitar la zona infectada y zonas de vigilancia con respecto a esa enfermedad;
+d) delimitar la zona infectada y zonas de vigilancia con respecto a la infección o enfermedad, pudiendo incluir zonas vinculadas epidemiológicamente con el centro en el que se ha comprobado la infección o enfermedad.
 
 e) autorizar el procesamiento o la mantención de los organismos clínicamente sanos hasta que hayan alcanzado la talla comercial;
 
@@ -490,13 +476,13 @@ No se aplicará el plazo señalado en el inciso anterior en el caso de la letra 
 
 #### Artículo 7 bis
 
-En el caso de emergencia sanitaria de enfermedades de Lista 2 o 3, el Servicio podrá disponer una o más de las medidas señaladas en el artículo 7. Dichas medidas se aplicarán por el plazo de seis meses, prorrogable por una vez por igual término.
+La emergencia sanitaria de enfermedades de Lista 2 o 3 será declarada por resolución del Servicio, previo informe técnico, pudiendo disponerse una o más de las medidas señaladas en el artículo 7. Dichas medidas se aplicarán por el plazo de seis meses, prorrogable por una vez por igual término.
 
 Si la medida de destrucción de ejemplares ha sido fundada en una enfermedad de Lista 2 y si así lo indica el programa sanitario específico, el plazo para dar cumplimiento a la medida será de 30 días corridos, los que podrán ampliarse por una sola vez, hasta por 15 días corridos, fundado en el alto número de peces y a la distancia geográfica que dificulte la ejecución de la medida por razones logísticas.
 
 #### Artículo 8º
 
-Los titulares de los centros de cultivo que se encuentren dentro de una zona de vigilancia o infectada que se hubiere determinado de acuerdo al artículo 7 letra d), podrán solicitar al Servicio la reducción de la misma, acompañando los antecedentes técnicos que lo justifican. La resolución que establezca la reducción de la zona de vigilancia o su denegatoria deberá dictarse dentro del plazo de cinco días contado desde la presentación de la respectiva solicitud.
+Los titulares de los centros de cultivo que se encuentren dentro de una zona de vigilancia o infectada que se hubiere determinado de acuerdo al artículo 7 letra d), podrán solicitar al Servicio la reducción de la misma, acompañando los antecedentes técnicos que lo justifican. La resolución que establezca la reducción de la zona de vigilancia o su denegatoria deberá dictarse dentro del plazo de diez días contado desde la presentación de la respectiva solicitud.
 
 #### Artículo 8º
 
@@ -511,6 +497,10 @@ B. En junio de cada año, el Servicio presentará un plan anual de vigilancia ep
 El objetivo del plan será establecer las prioridades de vigilancia para dicho año y orientar las labores de control y fiscalización del Servicio. Deberá considerarse la evolución del conocimiento científico y de las técnicas de diagnóstico de las enfermedades de las especies hidrobiológicas.
 
 La orientación del plan y sus medidas se fundarán en el riesgo sanitario y deberá contemplarse la modificación de los programas sanitarios generales y específicos que surjan como recomendaciones de su evaluación.
+
+#### Artículo 8º
+
+C. La Subsecretaría deberá establecer un programa de investigación de las especies silvestres, en base al cual deberá elaborar un informe anual de los resultados obtenidos, el que tendrá carácter público. Dichos resultados podrán ser considerados por el Servicio en la zonificación que realice y en las labores de control y fiscalización que lleve adelante.
 
 #### Artículo 9º
 
@@ -610,7 +600,7 @@ El Servicio podrá requerir la realización de análisis de laboratorio compleme
 
 E. En caso de comprobarse la patogenicidad del agente, el Servicio dispondrá el muestreo de los centros involucrados y, si se estima necesario, de las poblaciones de especies silvestres identificadas en las zonas. Las muestras serán enviadas a un laboratorio de referencia o, en su defecto, a un laboratorio de diagnóstico contratado por el Servicio conforme a las disposiciones de la ley Nº19.886 y su reglamento o la normativa que la reemplace.
 
-Sobre la base de los antecedentes epidemiológicos recopilados y del informe emitido por un laboratorio de diagnóstico autorizado, el Servicio informará al Comité Técnico y a la Subsecretaría la enfermedad de que se trata.
+Sobre la base de los antecedentes epidemiológicos recopilados y del informe emitido por un laboratorio de diagnóstico autorizado, el Servicio informará a la Subsecretaría la enfermedad de que se trata.
 
 ## Título IV
 
@@ -618,11 +608,11 @@ De los programas sanitarios
 
 #### Artículo 10º
 
-El Servicio deberá, mediante resolución, previo informe del Comité Técnico, establecer programas sanitarios generales y específicos. Los programas sanitarios tendrán por objeto determinar los procedimientos específicos y las metodologías de aplicación de las medidas que contempla el presente reglamento.
+El Servicio deberá, mediante resolución, establecer programas sanitarios generales y específicos. Los programas sanitarios tendrán por objeto determinar los procedimientos específicos y las metodologías de aplicación de las medidas que contempla el presente reglamento.
 
 Los programas generales aplicarán las medidas sanitarias adecuadas de operación contempladas en el presente reglamento, según la especie hidrobiológica utilizada o cultivada, con el fin de promover un adecuado estado de salud de la misma, así como evitar la diseminación de las enfermedades y agentes patógenos.
 
-Los programas específicos aplicarán una o más medidas contempladas en el presente reglamento para la vigilancia, control o erradicación de cada una de las enfermedades de alto riesgo de las especies hidrobiológicas en todos sus estados de desarrollo.
+Los programas específicos aplicarán una o más medidas contempladas en el presente reglamento para la vigilancia, control o erradicación de cada una de las enfermedades de alto riesgo de las especies hidrobiológicas en todos sus estados de desarrollo. La Subsecretaría, previo informe técnico, determinará por resolución las enfermedades respecto de las cuales el Servicio deberá dictar programas específicos en el plazo de un año.
 
 En ningún caso se podrá, mediante un programa sanitario, eximir del cumplimiento de las medidas establecidas en el presente reglamento, salvo que este último contemple expresamente la excepción.
 
@@ -658,7 +648,7 @@ i) procedimiento de transporte,
 
 j) sistema de registro de datos para las diversas actividades en que el reglamento establece esta exigencia.
 
-k) Monitoreo sanitario de especies silvestres que será realizado por el Servicio.
+k) ELIMINADO.
 
 l) procedimiento de aplicación y de control de los tratamientos terapéuticos y profilácticos, incluyendo las respectivas metodologías de análisis.
 
@@ -684,9 +674,7 @@ efluentes y sus modos de control;
 
 p) procedimiento para determinar la calidad de smolt;
 
-q) metodología para establecer la clasificación de
-
-los centros de cultivo y de las agrupaciones de concesiones; y
+q) ELIMINADO.
 
 r) información estrictamente necesaria que deban
 
@@ -734,13 +722,11 @@ i) sistema de registro de datos y,
 
 j) referencias bibliográficas
 
-El Servicio deberá dictar un programa de vigilancia epidemiológica activa y otro de vigilancia epidemiológica pasiva.
+Los programas de vigilancia epidemiológica para las enfermedades de Lista 1, 2 y 3, deberán señalar los mecanismos mediante los cuales se obtendrá la información sanitaria y epidemiológica, debiéndose considerar, asimismo, la información que el Servicio reciba por el cumplimiento de las demás exigencias establecidas por el reglamento y, en los casos que corresponda, se definirán los procedimientos y frecuencias de muestreo y análisis de las muestras. El informe técnico que sustente la resolución que establece el programa de vigilancia, deberá contener los fundamentos por los cuales se establece la forma y la frecuencia de la vigilancia adoptada, la que deberá estar orientada a la obtención de indicadores epidemiológicos.
 
-El programa de vigilancia epidemiológica activa estará destinado a monitorear la situación sanitaria del territorio nacional en relación con las enfermedades de alto riesgo de Lista 1. En base a dicho programa, se recopilará la información epidemiológica y sanitaria que provenga de los resultados de los muestreos que sean obtenidos por laboratorios de diagnóstico conforme a un calendario y técnicas de diagnóstico estandarizadas.
+Los titulares de los centros de cultivo o quienes éstos designen deberán informar al Servicio con al menos 5 días hábiles de anticipación el laboratorio de diagnóstico y la fecha en que se realizará el muestreo correspondiente al programa epidemiológico de vigilancia.
 
-Los titulares de los centros de cultivo o quienes éstos designen deberán informar al Servicio con al menos 5 días hábiles de anticipación el laboratorio de diagnóstico y la fecha en que se realizará el muestreo correspondiente al programa epidemiológico de vigilancia activa.
-
-El programa de vigilancia pasiva estará destinado a monitorear la situación sanitaria del territorio nacional en relación con las enfermedades de alto riesgo de Lista 2 y 3. En base a dicho programa, se recopilará la información epidemiológica y sanitaria que provenga de los resultados de las técnicas utilizadas por los laboratorios de diagnóstico y de aquella que deba ser entregada por los centros de cultivo de conformidad con el artículo 21 bis. Los titulares de los centros de cultivo deberán remitir al Servicio, asimismo, los resultados obtenidos de muestras, enviadas a laboratorios no registrados de conformidad con el artículo 122 letra k) de la ley.
+Los titulares de los centros de cultivo deberán remitir al Servicio, asimismo, los resultados obtenidos de muestras, enviadas a laboratorios no registrados de conformidad con el artículo 122 letra k) de la ley.
 
 #### Artículo 15º
 
@@ -816,73 +802,37 @@ De la zonificacion
 
 #### Artículo 18º
 
-En base a los informes semestrales derivados de la aplicación de Programas Sanitarios Específicos indicados en el artículo 16º o los resultados del monitoreo de la condición sanitaria de las especies hidrobiológicas silvestres, el Servicio podrá establecer, por resolución que se publicará en el Diario Oficial, una zonificación que comprenda parte o todo el territorio de la República, en función de su estado sanitario.
+En base a los informes derivados de la aplicación de Programas Sanitarios Específicos indicados en el artículo 16º o los resultados del monitoreo de la condición sanitaria de las especies hidrobiológicas silvestres, el Servicio podrá establecer, por resolución que se publicará en el Diario Oficial, una zonificación que comprenda parte o todo el territorio de la República, en función de su estado sanitario.
 
 Esta zonificación comprenderá las siguientes categorías: zona, agrupación de concesiones o centro libre, en vigilancia o infectado, según corresponda, en función de la enfermedad, la extensión, ubicación y delimitación dependiendo del tipo de enfermedad, de su modo de propagación y de su distribución geográfica dentro del país.
 
-Se declarará una zona, agrupación de concesiones o centro libre de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumplan los siguientes requisitos:
+Se declarará una zona, agrupación de concesiones o compartimento o centro, libre de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumpla alguno de los siguientes requisitos:
 
-a) ninguna de las especies susceptibles a la
+a) ninguna de las especies susceptibles a la enfermedad se encuentra presente en el centro, compartimento, zona o agrupación de concesiones, para lo cual se deberá contar con antecedentes científicos;
 
-enfermedad se encuentra presente en el centro, zona
+b) se tiene conocimiento científico que el agente patógeno no puede sobrevivir en el centro, compartimento, zona o agrupación de concesiones;
 
-o agrupación de concesiones, incluyendo peces
+c) los resultados obtenidos por al menos dos años conforme a un programa de vigilancia epidemiológica
 
-silvestres;
+específica han sido negativos, estableciéndose la ausencia de la enfermedad y del agente patógeno; y,
 
-b) se tiene conocimiento que el agente patógeno no
+d) el centro de cultivo o la agrupación de concesiones ha sido clasificado de conformidad con el artículo 22 Ñ en bioseguridad alta;
 
-puede sobrevivir en el centro, zona o agrupación de
+En cualquiera de los casos señalados en las letras precedentes, salvo en el caso de la letra a), se podrá además considerar que se han obtenido diagnósticos negativos a la enfermedad y al agente patógeno en peces silvestres en el área o cuenca del centro, compartimento, agrupación o zona en el plazo de dos años.
 
-concesiones;
+Se declarará una zona, compartimento, agrupación de concesiones o centro en vigilancia de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumplan algunos de los siguientes requisitos:
 
-c) los resultados obtenidos por al menos dos años
+a) el centro o uno o más de los centros de la agrupación, compartimento o zona han eliminado los peces infectados o han sido tratados de acuerdo a un programa sanitario específico; o,
 
-conforme a un programa de vigilancia epidemiológica
+b) en el centro o uno o más centros de la agrupación, compartimento o zona se sospecha la presentación de la enfermedad o el diagnóstico del agente causal de enfermedades sujetas a un programa sanitario específico; o,
 
-específica han sido negativos, estableciéndose la
+c) se ha obtenido el diagnóstico de enfermedades en peces silvestres en el área o cuenca en que se encuentra el centro, agrupación, compartimento o zona, según corresponda.
 
-ausencia de la enfermedad y del agente patógeno; y,
-
-d) se han obtenido diagnósticos negativos a la
-
-enfermedad en peces silvestres en el área o cuenca
-
-del centro, agrupación o zona en el plazo de dos
-
-años.
-
-Se declarará una zona, agrupación de concesiones o centro en vigilancia de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumplan algunos de los siguientes requisitos:
-
-a) el centro o uno o más de los centros de la
-
-agrupación o zona han eliminado los peces
-
-infectados o han sido tratados de acuerdo a un
-
-programa sanitario específico; o,
-
-b) en el centro o uno o más centros de la agrupación
-
-o zona se sospecha la presentación de la enfermedad o
-
-el diagnóstico del agente causal de enfermedades
-
-sujetas a un programa sanitario específico; o,
-
-c) se ha obtenido el diagnóstico de enfermedades
-
-en peces silvestres en el área o cuenca en que se
-
-encuentra el centro, agrupación o zona, según
-
-corresponda.
-
-Se declarará una agrupación de concesiones o centro como infectado respecto de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se obtenga el diagnóstico de la enfermedad o del agente patógeno de la especie en cultivo, o se verifique la presencia de signos clínicos o de mortalidad asociada a la enfermedad, de acuerdo a los programas sanitarios específicos establecidos por el Servicio.
+Se declarará una agrupación de concesiones o centro o compartimento, como infectado respecto de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se obtenga el diagnóstico de la enfermedad o del agente patógeno de la especie en cultivo, o se verifique la presencia de signos clínicos o de mortalidad asociada a la enfermedad, de acuerdo a los programas sanitarios específicos establecidos por el Servicio.
 
 Hasta por el plazo de dos meses, podrá declararse un centro como sospechoso cuando se cuente con evidencia epidemiológica de la presencia de una enfermedad o del agente etiológico de una enfermedad de Lista 1 o de Lista 2 con programa sanitario específico de control, ya sea en especies de cultivo o en fauna silvestre y mientras no sea confirmado el diagnóstico mediante técnicas de laboratorio conforme lo establezca un programa sanitario específico o el Servicio por resolución.
 
-Los titulares de los centros de cultivo que se encuentren dentro de la zona de vigilancia que se hubiere determinado, podrán solicitar al Servicio la reducción de la misma, acompañando los antecedentes técnicos que la justifican. La resolución que establezca la reducción de la zona de vigilancia o su denegatoria deberá dictarse dentro del plazo de cinco días, contado desde la fecha de presentación de la solicitud, la que será publicada en extracto en el Diario Oficial.
+Los titulares de los centros de cultivo que se encuentren dentro de la zona de vigilancia que se hubiere determinado, podrán solicitar al Servicio la reducción de la misma, acompañando los antecedentes técnicos que la justifican. La resolución que establezca la reducción de la zona de vigilancia o su denegatoria deberá dictarse dentro del plazo de diez días, contado desde la fecha de presentación de la solicitud, la que será publicada en extracto en el Diario Oficial.
 
 #### Artículo 18 bis
 
@@ -904,11 +854,11 @@ En virtud de la zonificación, el Servicio podrá dictar los programas sanitario
 
 #### Artículo 20º
 
-No podrán trasladarse especies hidrobiológicas entre zonas, entre agrupaciones o entre centros de distinto riesgo sanitario, salvo que el traslado se realice desde la zona, agrupación o centro de menor riesgo sanitario hacia la de mayor riesgo o en los casos previstos en el artículo 50 A.
+No podrán trasladarse especies hidrobiológicas entre zonas, entre compartimentos, entre agrupaciones o entre centros de distinto riesgo sanitario, salvo que el traslado se realice desde la zona, agrupación o centro de menor riesgo sanitario hacia la de mayor riesgo o en los casos previstos en el artículo 50 A.
 
-No se podrán liberar especies hidrobiológicas vivas provenientes de zonas, agrupaciones o centros de un mayor riesgo sanitario a otra zona, agrupación o centro, respectivamente, de menor riesgo sanitario.
+No se podrán liberar especies hidrobiológicas vivas provenientes de zonas, compartimentos, agrupaciones o centros de un mayor riesgo sanitario a otra zona, agrupación o centro, respectivamente, de menor riesgo sanitario.
 
-No podrán trasladarse equipos o estructuras que hayan tenido contacto directo con los ejemplares o que hayan sido utilizados para el cultivo de especies; hidrobiológicas a zonas que no cuenten con cultivos de la misma especie.
+No podrán trasladarse equipos o estructuras que hayan tenido contacto directo con los ejemplares o que hayan sido utilizados para el cultivo de especies; hidrobiológicas a zonas que no cuenten con cultivos del mismo grupo de especies.
 
 Sólo podrán trasladarse equipos o estructuras que hayan tenido contacto directo con los ejemplares o que hayan sido utilizados para el cultivo de especies hidrobiológicas, no comprendidos en el inciso anterior, previa desinfección acreditada por un certificador de desinfección registrado de conformidad con el artículo 122 letra k) de la ley.
 
@@ -1014,7 +964,7 @@ Todos los ingresos y salidas de especies hidrobiológicas vivas o muertas del ce
 
 #### Artículo 21 bis
 
-Todos los centros de cultivo deberán realizar el monitoreo de enfermedades de alto riesgo de Lista 2.
+Todos los centros de cultivo deberán realizar el monitoreo de enfermedades de alto riesgo de Lista 2 y 3, que no cuenten con un programa sanitario específico y que sean determinadas por resolución de la Subsecretaría.
 
 El monitoreo consistirá en la realización de muestreos de los ejemplares en cultivo, con una periodicidad a definir por enfermedad, previo informe técnico del Servicio, por resolución de la Subsecretaría, los que serán analizados por laboratorios de diagnóstico reconocidos y sus resultados serán informados al Servicio.
 
@@ -1068,7 +1018,7 @@ Para la realización de necropsias, cada centro de cultivo deberá disponer de u
 
 Cada centro de cultivo deberá contar con un sistema exclusivo de desnaturalización de mortalidad. En un manual se deberán consignar los aspectos relevantes del funcionamiento del método utilizado.
 
-Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro de cultivo. El sistema de disposición final de mortalidad deberá ser exclusivo para cada centro de cultivo. En el caso que la distancia entre la concesión y el lugar en que se encuentre ubicado el sistema de disposición final de mortalidades sea inferior a 100 metros, se exceptuará al titular del centro de cultivo de la obligación de informar al Servicio de cada traslado de mortalidad.
+Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro de cultivo. El sistema de disposición final de mortalidad deberá ser exclusivo para cada centro de cultivo. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular. En el caso que la distancia entre la concesión y el lugar en que se encuentre ubicado el sistema de disposición final de mortalidades sea inferior a 100 metros, se exceptuará al titular del centro de cultivo de la obligación de informar al Servicio de cada traslado de mortalidad.
 
 Todos los centros de cultivo deberán informar al Servicio el método adoptado para la disposición final de las mortalidades y los respectivos planes de contingencia en caso de falla del sistema adoptado o la superación de biomasa a procesar diariamente.
 
@@ -1076,7 +1026,7 @@ Ante fallas técnicas del método de desnaturalización adoptado o fallas en los
 
 La maquinaria y materiales de ensilaje deberán ubicarse en forma independiente de las demás instalaciones del centro.
 
-El ensilaje se realizará en contenedores herméticos y de material resistente al ácido.
+El ensilaje se realizará en contenedores estancos y de material resistente al ácido.
 
 Todos los equipos usados en el ensilaje deben ser lavados con posterioridad al procedimiento.
 
@@ -1114,6 +1064,8 @@ En los casos señalados en el inciso 3º del presente artículo, la disposición
 
 El lavado y limpieza de artes de cultivo efectuado en cualquiera de las formas que contemple el Decreto Supremo a que se refiere el artículo 87 de la ley, deberá considerar la desinfección del efluente líquido cuando los artes de cultivo se encuentren o provengan desde centros ubicados en zonas de vigilancia o zona infectada.
 
+Prohíbese la limpieza in situ de redes en centros de cultivo en los que se haya constatado la presencia de un agente de enfermedad de alto riesgo de Lista 1 o de Lista 2 con programa sanitario específico, salvo que en este último caso así lo disponga el mismo programa.
+
 #### Artículo 22
 
 C. Todos los desechos generados por los centros de cultivo deberán ser dispuestos en contenedores que permitan un adecuado acopio y transporte. El traslado a lugares autorizados para el depósito, se deberá hacer impidiendo derrames. Los contenedores utilizados para el acopio y traslado de desechos fuera del centro, deberán ser desinfectados antes de reingresar a éste.
@@ -1126,13 +1078,13 @@ D. En los centros de cultivo ubicados en mar, estuario, lago o río, los lugares
 
 #### Artículo 22
 
-E. En los casos en que los ejemplares en cultivo estén sometidos a programas sanitarios específicos de control, el Servicio emitirá una autorización sanitaria en forma previa al movimiento de dichos ejemplares, de mortalidades, redes y jaulas, la que deberá ser otorgada, previa comprobación de los informes de resultados de los análisis realizados en laboratorios de diagnóstico y habiéndose verificado la ausencia del patógeno y de la enfermedad a la que se refiera el programa y de la información que este último establezca.
+E. En los casos en que los ejemplares en cultivo estén sometidos a programas sanitarios específicos de control, el Servicio podrá requerir la emisión de una autorización sanitaria en forma previa al movimiento de animales, mortalidades, redes y jaulas, si el programa específico así lo establece.
 
 #### Artículo 22
 
 F. El Servicio podrá exigir certificación sanitaria realizada por un certificador de la condición sanitaria de las especies hidrobiológicas en los siguientes casos:
 
-a) la ejecución de los programas de vigilancia epidemiológica activa;
+a) la ejecución de los programas de vigilancia epidemiológica;
 
 b) antes del transporte de peces obtenidos desde centros emplazados en mar que sean destinados a la reproducción; y,
 
@@ -1182,7 +1134,7 @@ a) Contar con personal capacitado cuyas labores deberán estar supervisadas por 
 
 b) Contar con equipos y materiales para llevar a cabo los procedimientos de desinfección previstos en los programas sanitarios y en sus manuales de procedimientos técnicos..
 
-c) Las dependencias de quienes presten servicios de limpieza y desinfección, deberán cumplir con las siguientes especificaciones:
+c) Las dependencias de quienes presten servicios de limpieza y desinfección de las instalaciones, deberán cumplir, además, las siguientes especificaciones:
 
 i. Dependencias de trabajo de uso exclusivo;
 
@@ -1216,9 +1168,9 @@ El certificado emitido para los medios de transporte tendrá una validez exclusi
 
 I. Las personas que voluntariamente hayan solicitado incorporarse en la nómina del Servicio a que se refiere el artículo 22 H, entregarán un acta de desinfección que dará cuenta que el procedimiento ha sido realizado conforme al programa sanitario general correspondiente en los siguientes casos:
 
-a) previo al traslado de especies vivas en los medios de transporte;
+a) previo al traslado de especies vivas, gametos, cosecha, mortalidades y sus productos, en los medios de transporte;
 
-b) los movimientos de equipos entre centros o entre zonas de la misma condición sanitaria;
+b) los movimientos de equipos, materiales y redes entre centros o entre zonas de la misma condición sanitaria;
 
 c) cuando así lo requiera un programa sanitario específico.
 
@@ -1228,9 +1180,9 @@ En los casos en que se utilicen los servicios de personas que no hayan solicitad
 
 J. Deberá certificarse que el proceso de limpieza y desinfección ha sido realizado de acuerdo al procedimiento señalado en el programa sanitario general correspondiente, por un certificador de desinfección, en los siguientes casos:
 
-a) la desinfección que debe realizarse a las estructuras, equipos y redes peceras y loberas, inmediatamente después de producido el despoblamiento de los centros de cultivo que hayan sido declarados positivos a una enfermedad de lista 1 o de lista 2 sometida a un programa específico de control;
+a) la desinfección que debe realizarse a las estructuras, equipos y redes peceras y loberas, inmediatamente después de producido el despoblamiento de los centros de cultivo que hayan sido declarados positivos a una infección o enfermedad de lista 1 o de lista 2 sometida a un programa específico de control;
 
-b) la desinfección que debe realizarse en forma previa al inicio de los descansos sanitarios señalados en el presente reglamento;
+b) la desinfección que debe realizarse en forma previa al inicio de los descansos sanitarios coordinados señalados en el presente reglamento;
 
 c) la desinfección de los medios de transporte que hayan trasladado peces vivos, muertos por eliminación o cosechas de centros con diagnóstico de enfermedades lista 1 o lista 2 con programa sanitario específico, si así lo indica este último, y que con posterioridad requieran trasladar ejemplares libres de estas enfermedades;
 
@@ -1280,7 +1232,7 @@ En ningún caso los planes de contingencia podrán contemplar medidas contradict
 
 #### Artículo 22
 
-Ñ. Los centros de cultivo serán clasificados según su nivel de bioseguridad, el cuerpo de agua en que estén emplazados y la actividad autorizada en ellos. Una resolución de la Subsecretaría, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo. Dichos elementos deberán estar referidos a las características biológicas y oceanográficas del sector, al historial sanitario del centro, su emplazamiento y condiciones operativas y logísticas. Dicha resolución establecerá además el puntaje y la ponderación que se asignará a cada elemento que se defina y los rangos de la clasificación.
+Ñ. Los centros de cultivo serán clasificados según su nivel de bioseguridad. Una resolución de la Subsecretaría, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo, el puntaje y los rangos de la clasificación.
 
 La clasificación de bioseguridad por cada centro de cultivo será efectuada por el Servicio conforme a la resolución antes señalada y se utilizará como referencia para la elaboración del plan anual de vigilancia epidemiológica y de fiscalización, así como para clasificar la agrupación de concesiones a la que está integrado el centro respectivo y la fijación de densidades que se realice de conformidad con el artículo 86 bis de la ley.
 
@@ -1370,7 +1322,11 @@ De la incubación de ovas
 
 #### Artículo 23
 
-I. Las pisciculturas de incubación de ovas deberán cumplir con los requisitos previstos en el inciso 1 º del artículo 23 P.
+I. Las pisciculturas de incubación de ovas deberán cumplir con los siguientes requisitos:
+
+a) Abastecerse de aguas que provengan de pozo natural o artificial sin poblaciones de peces o que sean sometidas a algún tratamiento que asegure la destrucción de agentes patógenos causantes de enfermedades de alto riesgo y,
+
+b) Contar con una barrera natural o artificial que impida la migración de los peces de las secciones inferiores del río hasta el centro de incubación o hasta su centro de aprovisionamiento de agua, cuando corresponda.
 
 #### Artículo 23
 
@@ -1378,7 +1334,7 @@ J. En ningún caso se podrá preservar gametos provenientes de padres que hayan 
 
 La eliminación de gametos y ovas que hayan resultado positivos a las enfermedades chequeadas, deberá ser respaldada documentadamente por el laboratorio de diagnóstico que realizó el chequeo sanitario de los reproductores requiriendo para este procedimiento la presencia de un médico veterinario, quien dejará una constancia de la destrucción. La eliminación de ovas positivas se deberá realizar antes de realizar manejo de shocking.
 
-Se deberá realizar la desinfección de las ovas previo al endurecimiento. Los centros que reciban ova ojo deberán realizar desinfección de las mismas. El Servicio establecerá el procedimiento de desinfección adecuado mediante un programa sanitario general.
+Se deberá realizar la desinfección de las ovas en forma previa a la incubación. Los centros que reciban ova ojo deberán realizar desinfección de las mismas. El Servicio establecerá el procedimiento de desinfección adecuado mediante un programa sanitario general.
 
 #### Artículo 23
 
@@ -1414,11 +1370,11 @@ En el caso de existir mezcla de diferentes grupos o cepas productivas, se deber�
 
 #### Artículo 23
 
-Ñ. Cada doce meses, los centros de cultivo de peces ubicados en ríos y lagos deberán retirar todos los ejemplares por el plazo mínimo de un mes. Dicho descanso deberá ser coordinado entre los centros de cultivo que se ubiquen en el mismo río o lago, lo que se determinará por resolución del Servicio.
+Ñ. Anualmente, los centros de cultivo de peces ubicados en ríos y lagos deberán retirar todos los ejemplares por el plazo mínimo de un mes. Dicho descanso deberá ser coordinado entre los centros de cultivo que se ubiquen en el mismo río o lago, lo que se determinará por resolución del Servicio.
 
-El plazo de un mes a que se refiere el inciso anterior se comenzará a contar desde el día siguiente a aquél en que el último centro de cultivo del lago o río haya realizado el retiro total de los ejemplares cultivados. Una vez que los centros queden sin peces, se deberá realizar la limpieza y desinfección de las estructuras del centro, para lo cual se deberá retirar la totalidad de las redes peceras y loberas. Se deberá realizar la limpieza y desinfección de las estructuras que se encuentran sobre el nivel del agua, incluidas las embarcaciones de apoyo y los puntos de embarque y desembarque del centro, todo lo cual deberá ser certificado por un certificador de desinfección.
+Se deberá realizar la limpieza y desinfección de las estructuras del centro, para lo cual se deberá retirar la totalidad de las redes peceras y loberas. Se deberá realizar la limpieza y desinfección de las estructuras que se encuentran sobre el nivel del agua, incluidas las embarcaciones de apoyo y los puntos de embarque y desembarque del centro, todo lo cual deberá ser certificado por un certificador de desinfección.
 
-Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie y deberán retirar todos los peces de un grupo antes del ingreso de otro, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un período productivo deberá realizarse en el plazo un mes.
+Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie por ciclo productivo y deberán retirar todos los peces de un grupo antes del ingreso de otro, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un período productivo deberá realizarse en un plazo máximo de sesenta, setenta y cinco o noventa días corridos, dependiendo si el centro se encuentra clasificado en bioseguridad baja, media o alta, respectivamente, de conformidad con el procedimiento a que se refiere el artículo 22 Ñ. Vencido el período de siembra de un ciclo productivo, no será posible ingresar nuevos ejemplares al centro hasta que se hayan cumplido las etapas de cosecha, descanso y desinfección correspondientes a dicho ciclo.
 
 Antes del inicio de la siembra en centros de smoltificación, los titulares deberán presentar al Servicio los planes de contingencia. La siembra de ejemplares sólo se podrá llevar a cabo si cuentan con la aprobación por parte del Servicio de dichos planes. El Servicio se pronunciará en el plazo de tres días hábiles, pudiendo solicitar la corrección de los planes presentados si así lo estimase necesario.
 
@@ -1432,11 +1388,15 @@ Los centros de smoltificación emplazados en ríos, lagos y estuarios, sólo pod
 
 #### Artículo 23
 
-P. Las pisciculturas deberán mantener una distancia mínima de separación entre ellas de 3 kilómetros, la que se medirá siguiendo el eje principal del río, desde los lugares de descarga de las aguas efluentes de un establecimiento y hasta las áreas de captación del establecimiento más cercano ubicado aguas abajo. Además deberán cumplir con los siguientes requisitos:
+P. Las agrupaciones de concesiones que sean declaradas por la Subsecretaría conforme al artículo 2, Nº 52) de la ley, podrán comprender centros dedicados exclusivamente a la smoltificación de especies salmónidos.
 
-a) Abastecerse de aguas que provengan de pozo natural o artificial sin poblaciones de peces o que sean sometidas a algún tratamiento que asegure la destrucción de agentes patógenos causantes de enfermedades de alto riesgo, y
+La distancia que deberán mantener los centros de smoltificación emplazados en ríos y estuarios respecto de centros de engorda y centros de acopio, será de 3 millas náuticas. La distancia entre centros de smoltificación integrantes de una agrupación de concesiones o entre centros que realicen smoltificación que no sean integrantes de una agrupación, deberá ser de 1,5 millas náuticas. Podrá autorizarse una distancia inferior a la señalada, por resolución de la Subsecretaría y previa aprobación de un estudio que demuestre con antecedentes oceanográficos y epidemiológicos que una distancia inferior no favorece la transmisión y diseminación de patógenos.
 
-b) Contar con una barrera natural o artificial que impida la migración de los peces de las secciones inferiores del río hasta el centro de incubación o hasta su centro de aprovisionamiento de agua, cuando corresponda.
+La smoltificación en ríos, lagos y estuarios de ejemplares de las especies Salmón del atlántico Salmo salar, Trucha arcoíris Oncorhynchus mykiss, Salmón Coho Oncorynchus kisutch, Salmón rey o Chinook Oncorynchus tschawytscha, sólo podrá realizarse en zonas que hayan sido declaradas libres de enfermedades de alto riesgo sometidas a un programa sanitario específico de control por el Servicio, de acuerdo a las normas sobre zonificación previstas en el Título V de este reglamento.
+
+#### Artículo 23
+
+Q. Las pisciculturas deberán mantener una distancia mínima de separación entre ellas de 3 kilómetros, la que se medirá siguiendo el eje principal del río, desde los lugares de descarga de las aguas efluentes de un establecimiento y hasta las áreas de captación del establecimiento más cercano ubicado aguas abajo.
 
 Las pisciculturas deberán mantener un sistema que asegure en todo momento una apropiada calidad y suministro de agua y oxígeno.
 
@@ -1444,31 +1404,51 @@ Las pisciculturas de flujo abierto deberán paralizar sus actividades al menos u
 
 En las pisciculturas de recirculación o con sistema mixto de cultivo, en caso que se constate la presencia de un agente o se manifieste una enfermedad de alto riesgo de Lista 1, de etiología desconocida, o el programa sanitario específico de una enfermedad de alto riesgo de Lista 2 así lo disponga, se deberá eliminar el biofiltro, de conformidad con lo dispuesto en el respectivo programa aplicable al efecto. Previo a la eliminación del biofiltro, deberá informarse al Servicio de acuerdo a lo estipulado en el Título II.
 
+Las pisciculturas que reciban ejemplares o gametos desde pisciculturas que sean clasificadas en bioseguridad baja de conformidad con el artículo 22 Ñ, sólo podrán enviar los ejemplares hacia centros de engorda.
+
 ### Párrafo 7º
 
 De los centros de engorda
 
 #### Artículo 23
 
-Q. Los centros de cultivo de engorda de peces deberán realizar la siembra de todos los ejemplares en el plazo máximo de tres meses, pudiendo rebajarse a dos meses conforme se disponga en el programa sanitario específico que corresponda. La siembra de nuevos ejemplares sólo podrá realizarse una vez cumplidas las siguientes condiciones:
+R. Los centros de cultivo de engorda de peces deberán realizar la siembra de todos los ejemplares en el plazo máximo de tres meses, pudiendo rebajarse a dos meses conforme se disponga en el programa sanitario específico que corresponda. La siembra de nuevos ejemplares sólo podrá realizarse una vez cumplidas las siguientes condiciones:
 
 a) Haber realizado la cosecha completa de los ejemplares ingresados previamente;
 
-b) Haber limpiado y desinfectado las instalaciones del centro de cultivo, los equipos, las estructuras que se encuentren sobre el nivel del agua, las embarcaciones de apoyo del centro y sus puntos de embarque y desembarque. Para tales efectos, se deberán retirar las redes peceras y loberas. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de efectuada la cosecha total del centro y deberá culminar en un máximo de 45 días corridos; y,
+b) Haber limpiado y desinfectado las estructuras de contacto directo con los ejemplares en cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo que se trate de redes de cobre, en cuyo caso el titular del centro de cultivo podrá presentar, seis meses antes que corresponda realizar el retiro, un informe técnico que acredite la condición biocida. En estos casos, la Subsecretaría podrá autorizar, por resolución, el no retiro de las redes de cobre respectivas. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de efectuada la cosecha total del centro y deberá culminar en un máximo de 45 días corridos.
 
 c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares por el plazo mínimo de un mes o el que se haya dispuesto en el programa sanitario específico que corresponda. El período de cese de operaciones se iniciará al momento en que se hayan retirado desde el centro todos los peces en cultivo, la fecha del inicio del período de descanso deberá ser informado al Servicio.
 
+En el caso de las agrupaciones de concesiones, se estará a lo dispuesto en el artículo 58 K.
+
 No podrán trasladarse peces, en ningún estado de desarrollo entre centros de mar, salvo los peces provenientes de estuario dedicados a smoltificación a centros de cultivo de engorda, por una sola vez.
 
-#### Artículo 23
+#### Artículo 24
 
-R. En la siembra en mar sólo se podrá mezclar peces de hasta dos cepas y hasta dos orígenes.
+En la siembra en mar sólo se podrá mezclar peces de hasta tres orígenes.
 
 La condición de smoltificación deberá ser acreditada mediante análisis de laboratorio. La metodología de análisis deberá establecerse en el programa sanitario general correspondiente.
 
-La siembra deberá ser a número final. Prohíbese el desdoble de ejemplares entre jaulas de centros de cultivo de engorda, salvo cuando se establezca por resolución del Servicio como una medida de emergencia para el control de una enfermedad de alto riesgo.
+La siembra deberá ser a número final. En los casos de emergencia sanitaria, se requerirá autorización del Servicio para realizar desdobles como medida de control de una enfermedad de alto riesgo o de acuerdo a un programa sanitario específico.
 
-El plan de siembra de los ejemplares y el sistema de cosecha a utilizar en el centro deberán ser comunicados al Servicio, al menos con tres meses de anticipación a la fecha programada de siembra, en un formulario que estará disponible en su página web. El Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad. El pronunciamiento del Servicio acerca del cumplimiento de los requisitos antes señalados, deberá emitirse por resolución.
+El plan de siembra de los ejemplares y el sistema de cosecha a utilizar en el centro deberán ser comunicados al Servicio, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición el Servicio a través de su página web. En el caso que una agrupación no esté operando en el período productivo vigente, deberá entregar su plan de siembra seis meses antes de iniciar la siembra. El Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad. El pronunciamiento del Servicio acerca del cumplimiento de los requisitos antes señalados, deberá emitirse por resolución.
+
+Los planes de siembra deberán ser remitidos a la Subsecretaría inmediatamente de recibidos, en formato electrónico.
+
+En el plazo de un mes, contado desde el término de la siembra del ciclo o período productivo, el titular de la concesión deberá presentar una declaración jurada al Servicio en que deje constancia del número total de ejemplares efectivamente sembrados en el centro de cultivo. Asimismo, dentro los 15 días corridos siguientes al término de la cosecha, el titular del centro de cultivo deberá presentar una declaración jurada al Servicio, en que deje constancia del número total de ejemplares efectivamente cosechados y su destino.
+
+#### Artículo 24
+
+A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y los egresos contabilizados hasta un mes antes del término de la cosecha. No se considerarán pérdidas las cosechas efectuadas a la fecha de la contabilización de los egresos ni las que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales.
+
+Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación.
+
+Los equipos contadores de peces y estimadores de biomasa deberán ser certificados por personas inscritas de conformidad con el artículo 122 letra k) de la ley.
+
+Por resolución de la Subsecretaría se establecerán los tramos de la clasificación de bioseguridad de los centros de cultivo, considerando las pérdidas del ciclo productivo y el porcentaje de reducción de siembra para el ciclo productivo siguiente que corresponda a cada tramo.
+
+Un mes antes del término del ciclo productivo, el Servicio deberá comunicar al titular de la concesión, el resultado de la aplicación de la clasificación de bioseguridad de que trata este artículo y del porcentaje de reducción que corresponda aplicar, en su caso.
 
 ## Título VII
 
@@ -1516,7 +1496,7 @@ DE LA COSECHA, DE LAS PLANTAS PROCESADORAS O REDUCTORAS Y DE LOS CENTROS DE FAEN
 
 A. Se prohibe la realización de cosecha tradicional entendiendo por tal, cualquier tipo de cosecha en que se vierta material orgánico al medio ambiente.
 
-Todas las estaciones y sistemas de cosecha utilizados en los centros de cultivo deberán estar validados por el Servicio de conformidad con el artículo 23 R. El Servicio realizará una visita a terreno para constatar que la cosecha se realiza de conformidad con el sistema validado y bajo las condiciones señaladas en el inciso 1º.
+Todas las estaciones y sistemas de cosecha utilizados en los centros de cultivo deberán estar validados por el Servicio de conformidad con el artículo 24. El Servicio realizará una visita a terreno para constatar que la cosecha se realiza de conformidad con el sistema validado y bajo las condiciones señaladas en el inciso 1º.
 
 La cosecha o el faenamiento de especies en las que se hayan diagnosticado enfermedades de lista 1 o de lista 2 que cuenten con un programa sanitario específico, se someterán a las medidas específicas que se hayan dictado al efecto y deberán obtener un acta de validación del Servicio en forma previa al inicio de las faenas de cosecha. En estos casos, el traslado a plantas de procesamiento o reductoras de los ejemplares deberá hacerse de acuerdo a lo que se establezca en el programa sanitario específico respectivo o el plan de contingencia, según corresponda.
 
@@ -1594,7 +1574,7 @@ La importación de especies hidrobiológicas vivas, sus ovas y gametos se somete
 
 #### Artículo 42º
 
-La certificación sanitaria emitida por la Autoridad Oficial del país de origen deberá acreditar que las especies hidrobiológicas susceptibles se encuentran libres de las enfermedades de alto riesgo clasificadas en Lista 1 y 2 y de sus agentes causales, según corresponda.
+La certificación sanitaria emitida por la Autoridad Competente del país de origen deberá acreditar que las especies hidrobiológicas susceptibles se encuentran libres de las enfermedades de alto riesgo clasificadas en Lista 1 y 2 y de sus agentes causales, según corresponda.
 
 #### Artículo 43º
 
@@ -1636,87 +1616,15 @@ Las especies ornamentales importadas deberán ser sometidas a una cuarentena por
 
 El Servicio podrá fiscalizar e inspeccionar la condición sanitaria de las especies hidrobiológicas importadas al momento de recepción. Asimismo, adoptará las medidas necesarias para asegurar la mantención de las condiciones sanitarias durante el transporte y a su llegada al destino final.
 
-#### Artículo 47º
+#### Artículo 47
 
-Se prohíbe la internación al país de material patológico, a menos que el Servicio lo autorice.
+Se prohíbe la internación al país de material patológico, a menos que el Servicio lo autorice. Prohíbese la internación al país de materiales, equipos o instrumentos usados para ser destinados a acuicultura provenientes de zonas o centros positivos a las enfermedades de Lista 1.
 
-En caso de requerir internar al país materiales y equipos usados para ser destinados a acuicultura, deberá presentarse los antecedentes técnicos al Servicio, el que deberá verificar la ausencia de riesgo en la internación, pronunciándose mediante resolución.
+En los casos en que se requiera internar al país embarcaciones usadas para ser destinadas a acuicultura o materiales, equipos o instrumentos usados con el mismo destino no comprendidos en el inciso anterior, deberán presentarse los antecedentes técnicos al Servicio, el que podrá autorizarla por resolución, previa realización de una evaluación de riesgos que conste en un informe técnico y siempre que se compruebe la ausencia de riesgo en la internación o se establezca la adopción de medidas de mitigación. La evaluación de riesgo se deberá realizar considerando las enfermedades Lista 1 y Lista 2 que posean programa sanitario específico o enfermedades emergentes.
 
-Se prohíbe la internación al país de materiales, equipos o instrumentos usados provenientes de zonas o centros positivos a las enfermedades de la lista 1 o de lista 2 que cuenten con un programa sanitario específico.
-
-Asimismo, se prohíbe la internación al país de materiales, equipos o instrumentos que hayan sido utilizados en cuerpos de agua fuera del territorio nacional.
+Prohíbese la internación al país de materiales, equipos o instrumentos cuyo origen o destino no esté comprendido en los casos señalados en los incisos anteriores y que hayan sido utilizados en cuerpos de agua fuera del territorio nacional, a menos que previa una evaluación de los riesgos, el Servicio haya determinado su internación sin condiciones o sometida al cumplimiento de una o más de las siguientes medidas: Desinfección, desinsectación, lavado, secado, sometimiento a tratamientos químicos, térmicos o físicos.
 
 ## Título X
-
-DE CENTROS DE ACOPIO
-
-#### Artículo 47 Bis
-
-Las actividades desarrolladas en los centros de acopio deberán cumplir con las siguientes exigencias, sin perjuicio de lo establecido en los respectivos programas sanitarios:
-
-a) Deberán utilizar una tecnología o procedimiento
-
-que asegure que no se produce la diseminación de
-
-patógenos por intercambio de aguas en destino y se
-
-implemente un mecanismo bioseguro de descarga a
-
-las plantas de procesamiento. De no garantizarse
-
-la condición prevista en esta letra, el centro de
-
-acopio no podrá ser utilizado para la mantención
-
-de ejemplares que presenten cuadro de enfermedad
-
-de Lista 1 o de Lista 2 si así lo dispone el
-
-programa sanitario específico
-
-b) La permanencia de los ejemplares de las especies autorizadas, sólo será temporal, de conformidad con el respectivo programa sanitario.Con todo, en el caso que la especie autorizada corresponda a peces, el tiempo de permanencia máximo será de cinco días.
-
-c) Los ejemplares, bajo ninguna circunstancia, podrán ser alimentados durante su permanencia en el centro de acopio. Tampoco podrán ser objeto de tratamiento alguno que incorpore sustancias de cualquier naturaleza al ambiente.
-
-d) El titular del centro de acopio deberá mantener registros actualizados de los ingresos y salidas de cada grupo de ejemplares.
-
-e) Los ejemplares provenientes de centros de cultivos que ingresen al centro de acopio deberán estar en buen estado de salud, lo cual debe ser acreditado en base a un certificado sanitario emitido por un médico veterinario. Dicho documento deberá acompañar a la guía de libre tránsito.
-
-f) Los ejemplares que mueran durante su estadía en el centro de acopio en ningún caso podrán ser eliminados en cursos o cuerpos de agua. Asimismo, la mortalidad que se produzca y registre, durante el período de permanencia en el centro de acopio no podrá ser destinada a consumo humano. Se deberán contemplar sistemas de extracción de mortalidades conforme al presente reglamento y los registros deberán considerar la mortalidad que se registre asociada al grupo de peces en acopio. En caso de producirse mortalidad, se deberá determinar la causa de ésta.
-
-g) En el centro de acopio no podrá realizarse el faenamiento y desangrado de peces, la que deberá realizarse en forma sistemática y controlada en plantas de proceso o centros de faenamiento.
-
-h) La carga máxima permisible para la mantención de los peces, en caso de centros de acopio ubicados en porciones de agua y fondo, no deberá exceder de 25 kg/m³.
-
-i) El transporte de los ejemplares desde los centros de cultivo hasta el centros de acopio deberá efectuarse de conformidad con las normas establecidas en el presente reglamento y a los programas sanitarios generales y específicos establecidos por el mismo.
-
-j) El titular deberá adoptar las medidas necesarias para evitar el escape de ejemplares durante las actividades de ingreso y retiro de los mismos, estadía en el centro de acopio, así como para recapturarlos en caso de producirse escapes y contar con un plan de contingencia ante escapes de peces y mortalidad masiva conforme al presente reglamento y demás normas reglamentarias pertinentes.
-
-k) Las estructuras que se instalen para la mantención de los ejemplares en centros de acopio flotantes, con excepción de sus sistemas de anclaje, no podrán tener una distancia menor a los dos metros con el fondo marino.
-
-l) Los registros de operación del centro de acopio
-
-deberán contener información sobre el ingreso y
-
-salida de las especies hidrobiológicas que sean
-
-mantenidas en el centro de acopio. El registro
-
-deberá ser trazable e inviolable.
-
-m) En los casos que el centro de acopio se encuentre
-
-en zonas en que exista una agrupación de
-
-concesiones, se someterá a un descanso de 30 días
-
-corridos antes del término del período de descanso
-
-de la correspondiente agrupación.
-
-Los centros de acopio deberán mantener una distancia mínima de 1,5 millas náuticas entre sí y respecto de centros de faenamiento y de cultivo, cualquiera sea el sistema de producción de estos últimos.
-
-## Título XI
 
 Del transporte
 
@@ -1782,15 +1690,15 @@ Los prestadores de servicios de transporte terrestre y marítimo serán incorpor
 
 A. Todo centro de cultivo que requiera trasladar especies vivas, gametos, cosecha, ejemplares eliminados por razones productivas o sanitarias, mortalidades y sus productos o artes de cultivo, deberá comunicarlo al Servicio con tres días hábiles de anticipación, señalando la información que se requiera conforme al programa sanitario correspondiente. El Servicio mantendrá en su página web los formularios para remitir este tipo de comunicaciones en formato digital.
 
-En caso que se determine que no puede realizarse el traslado por considerar el tránsito entre zonas, agrupaciones o centros de distintas categorías de riesgo sanitario, el Servicio denegará formalmente la imposibilidad de realizarlo en los términos planteados en un plazo de 2 días hábiles desde la comunicación.
+En caso que se determine que no puede realizarse el traslado por considerar el tránsito entre zonas, compartimentos, agrupaciones o centros de distintas categorías de riesgo sanitario, el Servicio denegará formalmente la imposibilidad de realizarlo en los términos planteados en un plazo de 2 días hábiles desde la comunicación.
 
-El transporte de especies hidrobiológicas deberá realizarse de acuerdo a la clasificación de los centros o agrupaciones de concesiones o zonas en las categorías de libres, en vigilancia, infectados o sospechosos, de acuerdo a lo siguiente:
+El transporte de especies hidrobiológicas deberá realizarse de acuerdo a la clasificación de los centros o agrupaciones de concesiones, compartimentos o zonas en las categorías de libres, en vigilancia, infectados o sospechosos, de acuerdo a lo siguiente:
 
-a) El centro, agrupación o zona libre puede despachar ejemplares a cualquier otra categoría de centro, agrupación o zona y puede recibir sólo ejemplares provenientes de centros, agrupaciones o zonas libres, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.
+a) El centro, compartimento, agrupación o zona libre puede despachar ejemplares a cualquier otra categoría de centro, compartimento, agrupación o zona y puede recibir sólo ejemplares provenientes de centros, compartimentos, agrupaciones o zonas libres, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.
 
-b) El centro, agrupación o zona en vigilancia puede despachar ejemplares a centros, agrupaciones o zonas en vigilancia o infectadas y puede recibir sólo ejemplares provenientes de centros, agrupaciones o zonas libres y en vigilancia, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.
+b) El centro, compartimento, agrupación o zona en vigilancia puede despachar ejemplares a centros, compartimentos, agrupaciones o zonas en vigilancia o infectadas y puede recibir sólo ejemplares provenientes de centros, compartimentos, agrupaciones o zonas libres y en vigilancia, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.
 
-c) El centro, agrupación o zona infectada no puede despachar ejemplares a ninguna otra categoría de centro, agrupación o zona y puede recibir ejemplares provenientes de cualquier categoría de centros, agrupaciones o zonas.
+c) El centro, compartimento, agrupación o zona infectada no puede despachar ejemplares a ninguna otra categoría de centro, compartimento, agrupación o zona y puede recibir ejemplares provenientes de cualquier categoría de centros, agrupaciones o zonas, a excepción del transporte de cosecha viva, la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.
 
 d) Un centro sospechoso no puede despachar ni recibir ejemplares hasta que sea definida su situación en una categoría de libre, en vigilancia o infectado, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.".
 
@@ -1800,7 +1708,7 @@ No obstante lo anterior, quedará prohibido el movimiento de especies hidrobiol�
 
 Deberán desinfectarse los embalajes y todos los elementos empleados en el transporte.
 
-La limpieza y desinfección deberán ser acreditados, mediante un acta de desinfección. Dicha acta deberá consignar, al menos, la patente o matrícula del medio de transporte, la fecha y hora de desinfección, los productos usados en el proceso y el responsable de la aplicación. En el caso de medios de transporte que cuenten con sistemas automáticos de desinfección, los procedimientos deberán estar debidamente respaldados por los registros correspondientes, no siendo necesaria la emisión de un acta de desinfección. No obstante esta situación deberá ser informada al Servicio el que autorizará el uso de estos sistemas.
+La limpieza y desinfección deberán ser acreditados, mediante un acta de desinfección. Dicha acta deberá consignar, al menos, la patente o matrícula del medio de transporte, la fecha y hora de desinfección, los productos usados en el proceso y el responsable de la aplicación. En el caso de medios de transporte que cuenten con sistemas automáticos de desinfección, los procedimientos deberán estar debidamente respaldados por los registros correspondientes, no siendo necesaria la emisión de un acta de desinfección. No obstante esta situación deberá ser informada al Servicio.
 
 Las embarcaciones que retiren artes de cultivo de los centros deberán contar con una bomba de aspersión para desinfectar las superficies y los pisos de cubierta, antes y después del retiro de éstas.
 
@@ -1812,7 +1720,7 @@ Las embarcaciones que retiren mortalidades desde los centros de cultivo deberán
 
 #### Artículo 49
 
-A. En los casos en que el Servicio haya determinado una condición sanitaria de riesgo entre zonas o agrupaciones de concesiones, no se autorizará el tránsito de embarcaciones que transporten especies hidrobiológicas vivas o muertas, en cualquier estado de desarrollo, y de sus productos, alimentos, artes de cultivo o cualquier otra que el servicio estime necesarias, desde zonas o agrupaciones de concesiones que presenten una condición sanitaria de mayor riesgo a otra de menor riesgo, bajo las condiciones que estime el Servicio, previo análisis de los riesgos sanitarios involucrados en el transporte o la carga transportada. El traslado de cosecha viva deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizado por el Servicio.
+A. En los casos en que el Servicio haya determinado una condición sanitaria de riesgo entre zonas o agrupaciones de concesiones, sólo se autorizará el tránsito de embarcaciones que transporten mortalidad, especies hidrobiológicas vivas o muertas y sus productos, así como alimentos, artes de cultivo o cualquier otro insumo o producto que el Servicio estime necesarios, desde zonas o agrupaciones de concesiones que presenten una condición sanitaria de mayor riesgo a otra de menor riesgo, bajo las condiciones que determine el Servicio, previo análisis de los riesgos sanitarios asociados al medio de transporte y la carga transportada. El traslado de cosecha viva deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan un método de desinfección de efluentes autorizado por el Servicio.
 
 El armador cuya embarcación efectúe transporte bajo las condiciones indicadas en el inciso anterior, deberá instalar a bordo, un sistema de posicionamiento automático y someterse a las condiciones y procedimientos establecidos en el reglamento respectivo.
 
@@ -1820,9 +1728,9 @@ Asimismo, el Servicio podrá exigir el uso del posicionamiento automático a las
 
 Sin perjuicio de lo indicado en el inciso 1º, quienes transporten material de alto riesgo sanitario, deberán mantener a bordo un plan de contingencia frente a cualquier situación inesperada que constituya un factor de riesgo para la diseminación de agentes patógenos causantes de las enfermedades de alto riesgo. Dicho plan deberá describir en orden cronológico las acciones que desarrollará en caso de ocurrir una contingencia y al mismo tiempo, deberá considerar al menos, procedimientos, sistemas de limpieza y desinfección asociados, registros y responsables de su aplicación. Estos registros, deben estar a disposición del Servicio.
 
-#### Artículo 50º
+#### Artículo 50
 
-En caso que se hubiera establecido una zonificación, el transporte de especies hidrobiológicas vivas sólo podrá realizarse desde una zona de condición sanitaria equivalente o superior.
+DEROGADO.
 
 #### Artículo 50
 
@@ -1898,7 +1806,7 @@ d) Sistema de control que garantice el cumplimiento de las condiciones generales
 
 El Servicio emitirá una resolución en que señale los puntos de embarque y desembarque que cumplan las condiciones antes señaladas. Dicha resolución se publicará en el Diario Oficial y en la página web del Servicio.
 
-## Título XII
+## Título XI
 
 De los tratamientos terapéuticos
 
@@ -1946,7 +1854,7 @@ Las plantas elaboradoras de alimentos para especies hidrobiológicas deberán co
 
 El Servicio podrá solicitar informes de los aditivos, suplementos o terapias incorporadas a los alimentos en las plantas elaboradoras, siendo publicadas aquéllas exigidas por el artículo 90 quáter de la ley. La publicación de toda otra información se someterá a las disposiciones de la ley Nº 20.285.
 
-## Título XIII
+## Título XII
 
 DE LA PROFILAXIS
 
@@ -1982,27 +1890,25 @@ Los titulares de los centros de cultivo que utilicen vacunas deberán entregar a
 
 Los titulares de los centros de cultivo deberán garantizar que los procedimientos a utilizar para la aplicación de vacunas sean adecuados y de acuerdo a lo establecido en el manual de vacunación, aun cuando el procedimiento sea realizado por un prestador de servicios.
 
-## Título XIV
+## Título XIII
 
 DE LAS AGRUPACIONES DE CONCESIONES Y DE LAS MACROZONAS
 
 #### Artículo 58
 
-G. Las agrupaciones de concesiones deberán someterse a un descanso sanitario coordinado de tres meses, entre periodos de producción coordinados. En la fijación del período de descanso deberá considerarse el ciclo biológico de las diversas especies cultivadas por los centros de cultivo de la agrupación en el periodo anterior. Excepcionalmente podrá fijarse un período de dos meses de descanso durante el verano cuando más de la mitad de las concesiones hayan operado sobre Salmón coho Oncorhynchus kisutch el período anterior.
+G. Las agrupaciones de concesiones deberán someterse a un descanso sanitario coordinado de tres meses, entre períodos productivos. En la fijación del período de descanso deberá considerarse el ciclo biológico de las diversas especies cultivadas por los centros de cultivo de la agrupación en el periodo anterior. Excepcionalmente podrá fijarse un período de dos meses de descanso durante el verano cuando más de la mitad de las concesiones hayan operado sobre Salmón coho Oncorhynchus kisutch el período anterior.
 
-El ciclo productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 28 meses.
+El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 28 meses.
 
 Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación.
 
 #### Artículo 58
 
-H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará las condiciones operativas, productivas y logísticas compartidas por los centros integrantes de la agrupación así como la clasificación individual de los mismos centros realizada de conformidad al artículo 22 Ñ.
+H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ realizada de conformidad al artículo 22 Ñ.
 
-Una resolución de la Subsecretaría que se publicará en el Diario Oficial, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará los elementos que el Servicio considerará para la clasificación de cada agrupación de concesiones. Dicha resolución establecerá además el puntaje y la ponderación que se asignará a cada elemento que se defina y los rangos de clasificación de bioseguridad de las agrupaciones.
+INCISOS ELIMINADOS.
 
-La clasificación de bioseguridad de las agrupaciones será efectuada por el Servicio conforme a la resolución antes señalada y se utilizará para la fijación de densidades que se realice de conformidad con el artículo 86 bis de la ley. El Servicio clasificará cada agrupación dentro del plazo de un mes contado desde el término del ciclo productivo respectivo, entendiéndose por tal, el inicio del período de descanso de la agrupación.
-
-La clasificación de las agrupaciones será publicada en la página web del Servicio.
+> **Nota.** NOTA El numeral 42, letra a) del Decreto 4, Economía, publicado el 22.05.2013, modifica la presente norma, en el sentido de reemplazar en el inciso 1° del presente Artículo 58 H, la oración "las condiciones operativas, productivas y logísticas compartidas por los centros integrantes de la agrupación, así como la clasificación individual de los mismos centros" por "los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ". Sin embargo, no se elimina la frase: "realizada de conformidad al artículo 22 Ñ.", razón por la cual aparece repetida en el texto.
 
 #### Artículo 58
 
@@ -2010,35 +1916,67 @@ I. De conformidad con el artículo 2º Nº 52 de la ley, los titulares de las ag
 
 El plan de manejo a ser presentado de conformidad con este artículo recaerá en una o más de las siguientes materias:
 
-a) Cultivo de una sola especie en todos los centros de la agrupación por ciclo productivo de ella;
+a) Cultivo de una sola especie en todos los centros de la agrupación por período productivo de ella;
 
-b) Descanso voluntario de las concesiones fronterizas de la agrupación que se encuentren a menos de 3 millas náuticas de una concesión fronteriza de otra agrupación. Dicho descanso deberá comprender el ciclo productivo completo de la respectiva agrupación;
+b) Descanso voluntario de las concesiones fronterizas de la agrupación que se encuentren a menos de 3 millas náuticas de una concesión fronteriza de otra agrupación. Dicho descanso deberá comprender el período productivo completo de la respectiva agrupación;
 
 c) Puertos diferenciados y rutas coordinadas segregadas en base al distinto nivel de riesgo para el ingreso y salida a los centros de cultivo de la agrupación;
 
-d) Modificación del emplazamiento de las estructuras de cultivo destinada a mejorar el desempeño sanitario de la agrupación fundado en los resultados de estudios ejecutados coordinadamente y aprobados por la Subsecretaría que den cuenta de las condiciones oceanográficas que determinen las características epidemiológicas del sector;
+d) Modificación del emplazamiento de las estructuras de cultivo destinada a mejorar el desempeño sanitario de la agrupación fundado en los resultados de estudios ejecutados coordinadamente y aprobados por la Subsecretaría que den cuenta de las condiciones oceanográficas que determinen las características epidemiológicas del sector. En el caso que la modificación del emplazamiento implique un desplazamiento o ampliación del área de la concesión, deberá efectuarse previamente la modificación del área de la concesión, conforme a la normativa vigente.;
 
 e) Programa de monitoreo de floraciones algales nocivas y plan de contingencia que señale actividades a ejecutar ante este tipo de eventos;
 
-f) Programa de descansos, que incluya el descanso sanitario coordinado de toda o parte de una agrupación por un ciclo productivo completo, descanso sanitario coordinado por un periodo superior al establecido para la agrupación u otro; y,
+f) Programa de descansos, que incluya el descanso sanitario coordinado de toda o parte de una agrupación por un período productivo completo, descanso sanitario coordinado por un periodo superior al establecido para la agrupación u otro. El descanso sólo podrá aplicarse cuando concurran al quórum de aprobación de esta medida los titulares de los centros que no operarán y se requerirá, además, que la agrupación comprometa medidas sanitarias adicionales de las indicadas en el presente artículo;
 
-g) Centros que operarán en el siguiente ciclo productivo y compromiso de sus titulares de descansar en el ciclo subsiguiente en caso que no operen en el ciclo siguiente conforme lo habían declarado.
+g) Uso alternado de los centros de cultivo que operarán en cada período productivo;
 
-La adopción de acuerdos requerirá la mayoría absoluta de las concesiones de la agrupación, dentro de la cual deberá encontrarse al menos el 80% de las concesiones cuyos titulares declaren su intención de operar en el siguiente ciclo productivo. En el caso de las materias indicadas en las letras a), b), y f) el quórum será la unanimidad. El quórum estará siempre referido al total de concesiones existentes en la agrupación y no al número de titulares.
+h) Programa coordinado de manejo de enfermedades;
 
-Los acuerdos deberán constar en un instrumento firmado ante notario público por los titulares de los centros de cultivo o sus representantes legales. En el caso que uno o más titulares de las concesiones hubieren arrendado o celebrado otro contrato en virtud del cual un tercero realizará la operación del centro de cultivo en el ciclo productivo siguiente, deberá manifestarse la voluntad del contratante adjuntando copia del contrato respectivo, el que en todo caso deberá contar con la inscripción en el registro de concesiones de acuicultura que lleva la Subsecretaría para las Fuerzas Armadas.
+i) Programa coordinado de aplicación de vacunas a los ejemplares en los centros de cultivo de la agrupación;
 
-El plan de manejo deberá ser presentado al Servicio al menos con dos meses de anticipación al inicio del nuevo ciclo productivo. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
+j) Planes de contingencia coordinados indicando en forma específica los eventos ante los cuales deberán ser aplicados por los centros integrantes de la agrupación;
+
+k) Plan de manejo coordinado de desechos de los centros de cultivo integrantes de la agrupación;
+
+l) Reducción del número total de ejemplares a ingresar en la agrupación en el período productivo siguiente en relación al número total de ejemplares ingresados en el período inmediatamente anterior, y
+
+m) Otra medida sanitaria destinada a mejorar el desempeño ambiental o sanitario de la agrupación, lo que será calificado por el Servicio, previo informe técnico fundado.
+
+La adopción de acuerdos requerirá la mayoría absoluta de las concesiones de la agrupación, dentro de la cual deberá encontrarse al menos el 70% de las concesiones cuyos titulares declaren su intención de operar en el siguiente período productivo. Estos últimos deberán comprometerse a no operar en el período productivo subsiguiente si por cualquier causa desisten de su intención de operar en el primer período en que debía entrar a regir el plan de manejo, salvo que la no operación haya sido consecuencia de la obtención de INFA que dé cuenta de una condición anaeróbica en el centro que se había previsto operar.
+
+En el caso de la medida indicada en la letra a), se requerirá la unanimidad para la adopción del acuerdo. El quórum estará siempre referido al total de las concesiones existentes en la agrupación y no al número de titulares.
+
+En ningún caso el plan de manejo será un instrumento para impedir la operación o establecer la reducción del número de peces de las concesiones que no han concurrido al acuerdo.
+
+El descanso voluntario de las concesiones que se encuentren ubicadas en las franjas de distancia obligatoria entre las macro-zonas establecidas por la Subsecretaría, no requerirá el acuerdo de los titulares de concesiones integrantes de la agrupación. Dicho descanso se entenderá incluido en el plan de manejo de la agrupación respectiva con la sola manifestación de voluntad de su titular.
+
+Los acuerdos deberán constar en un instrumento firmado ante notario público por los titulares de los centros de cultivo o sus representantes legales. En el caso que uno o más titulares de las concesiones hubieren arrendado o celebrado otro contrato en virtud del cual un tercero realizará la operación del centro de cultivo en el período productivo siguiente, deberá manifestarse la voluntad del contratante adjuntando copia del contrato respectivo, el que en todo caso deberá contar con la inscripción en el registro de concesiones de acuicultura que lleva la Subsecretaría para las Fuerzas Armadas.
+
+El plan de manejo deberá ser presentado al Servicio al menos con dos meses de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
 
 Dos o más agrupaciones de concesiones podrán presentar un plan de manejo conjunto siguiendo el procedimiento antes indicado, el que deberá estar referido a todas las agrupaciones que lo hayan acordado.
 
-#### Artículo 58
-
-J. Una resolución de la Subsecretaría, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará la relación entre los elementos que habiendo sido considerados en la clasificación de las agrupaciones, se entenderán mitigados por las diversas medidas incorporadas en el plan de manejo. La aprobación del plan de manejo tendrá por efecto la revisión de la clasificación de la agrupación que se hubiera hecho. Si como resultado de la revisión, la nueva clasificación de la agrupación es más favorable, se podrá solicitar la modificación de la densidad de cultivo establecida para la misma, de conformidad con el artículo 86 bis de la ley.
+Cada agrupación de concesiones deberá designar un coordinador de la misma, y comunicar esta circunstancia por escrito al Servicio, señalando el nombre, dirección y correo electrónico. Dicha designación y cualquier modificación de la misma deberá ser suscrita por los titulares de las concesiones integrantes de la agrupación y comunicada al Servicio. El coordinador será el responsable de convocar a los titulares de las concesiones a las sesiones de la agrupación, recibir las comunicaciones que remita la Subsecretaría o Sernapesca y difundirlas entre los integrantes de la agrupación, así como remitir a dichas autoridades las comunicaciones de la agrupación.
 
 #### Artículo 58
 
-K. La Subsecretaría podrá establecer, previo informe técnico y con consulta al panel de expertos de que trata el artículo 64 B, macro-zonas cuyo objetivo será favorecer la biocontención de una emergencia sanitaria de tal forma de evitar la diseminación de un foco de enfermedad o infección, según corresponda. El establecimiento de las macro-zonas deberá fundarse en los antecedentes oceanográficos pertinentes.
+J. DEROGADO.
+
+#### Artículo 58
+
+K. En el caso de la siembra de nuevos ejemplares a realizarse en cualquier centro de cultivo integrante de las agrupaciones, se deberá cumplir con las siguientes condiciones:
+
+a) Haber realizado la cosecha completa de los ejemplares ingresados previamente;
+
+b) Haber limpiado y desinfectado las instalaciones del centro de cultivo, los equipos, las estructuras que se encuentran sobre el nivel del agua, las embarcaciones de apoyo del centro y sus puntos de embarque y desembarque y las estructuras de contacto directo con los ejemplares de cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo en el caso de las redes de cobre, en que podrá aplicarse lo dispuesto en la letra b) del artículo 23 R. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de siete días corridos, contados desde la fecha en que haya terminado la cosecha total del centro. Dicho proceso deberá culminarse en un máximo de 45 días corridos, contados desde el término de la cosecha total, y
+
+c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares, por el período que corresponda a la agrupación de conformidad con el artículo 58 G. El período de cese de operaciones se iniciará al momento en que se hayan retirado desde el centro todos los ejemplares en cultivo.
+
+En el caso que el centro de cultivo, integrante de una agrupación, no opere en el ciclo productivo siguiente, deberá igualmente dar cumplimiento a la condición indicada en la letra b) precedente.
+
+#### Artículo 58
+
+L. La Subsecretaría podrá establecer, previo informe técnico y con consulta al panel de expertos de que trata el artículo 64 B, macro-zonas cuyo objetivo será favorecer la biocontención de una emergencia sanitaria de tal forma de evitar la diseminación de un foco de enfermedad o infección, según corresponda. El establecimiento de las macro-zonas deberá fundarse en los antecedentes oceanográficos pertinentes.
 
 Las macro-zonas estarán compuestas por dos o más agrupaciones de concesiones y en lo posible, deberán contar con infraestructura que permita que el transporte en ella se realice en forma independiente del tránsito por otras macro-zonas. Se deberá considerar una distancia entre macro zonas de al menos 5 millas náuticas, las que se medirán entre las concesiones periféricas de cada agrupación.
 
@@ -2048,45 +1986,135 @@ Ante una emergencia sanitaria, inmediatamente se aplicará la restricción del m
 
 ## Título XV
 
-Del Comité Técnico
+Del establecimiento de las densidades de cultivo para las agrupaciones de concesiones de salmónidos
 
-#### Artículo 59º
+#### Artículo 58
 
-Existirá un Comité Técnico que tendrá las siguientes funciones:
+M. La densidad de cultivo corresponderá a la biomasa de peces existente por área utilizada con estructuras de cultivo, al término de la etapa de engorda del ciclo productivo.
 
-a) emitir un informe técnico, que constituirá el antecedente de la clasificación anual de las enfermedades de alto riesgo que realice la Subsecretaría conforme lo indicado en el presente reglamento, y
+#### Artículo 58
 
-b) participar en la elaboración de los programas sanitarios generales y específicos.
+N. La determinación de la densidad de cultivo para las agrupaciones de concesiones de salmónidos contemplará dos etapas:
 
-Mediante resolución de la Subsecretaría se regulará el funcionamiento interno del presente Comité Técnico
+a) Clasificación de las agrupaciones conforme a la cual se fijará una densidad de cultivo común para la agrupación, salvo en los casos señalados en el artículo 58 R, y
 
-#### Artículo 60º
+b) Fijación del número máximo de ejemplares a ingresar en las estructuras de cultivo de cada centro.
 
-El Comité estará constituido por un representante de la Subsecretaría, del Servicio y de cada una de las asociaciones de acuicultores. Los informes del Comité comprenderán el pronunciamiento escrito emitido por expertos que provengan de universidades o personas jurídicas públicas o privadas dedicadas a la docencia o investigación de especies hidrobiológicas o a las ciencias del mar, que hubieren sido incluidos por el Servicio en un registro que llevará para tales efectos.
+#### Artículo 58
 
-#### Artículo 61º
+Ñ. La clasificación de las agrupaciones se efectuará considerando los siguientes elementos:
 
-Para los efectos de designar a los expertos indicados en el artículo anterior, el Servicio llevará un registro con los profesionales que hubieren acreditado su experiencia en enfermedades de especies hidrobiológicas y su vinculación con la universidad o persona jurídica pública o privada dedicada a la docencia o investigación de especies hidrobiológicas o a las ciencias del mar de la que provengan. El registro se dividirá en categorías por grupos de especies hidrobiológicas.
+a) Ambiental: INFAs de los centros de cultivo integrantes de la agrupación, cuyos resultados den cuenta de una condición aeróbica;
 
-El Servicio designará en el mes de diciembre de cada año a un experto por cada una de las categorías contenidas en el registro. Tales designaciones deberá comunicarlas a la Subsecretaría en el mes de diciembre de cada año.
+b) Sanitario: Pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y los egresos totales contabilizados hasta un mes antes del término de aquel. No se considerarán pérdidas las cosechas efectuadas a la fecha de la contabilización de los egresos ni las que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales, y
 
-El Servicio mantendrá en su página web el registro de los expertos a que se refiere el presente artículo.
+c) Productivo: Comparación entre la proyección de siembra de la agrupación para el período productivo siguiente con el quiebre sanitario. Para tales efectos, se considerará como proyección de siembra el número total de ejemplares a sembrar en el período productivo siguiente en los centros de cultivo integrantes de la agrupación, declarados por sus titulares de conformidad con el artículo 24.
 
-#### Artículo 62º
+Una resolución de la Subsecretaría, que se publicará en su página de dominio electrónico y en extracto en el Diario Oficial, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará el puntaje y la ponderación que se asignará a cada elemento antes señalado.
 
-Cada una de las asociaciones de acuicultores deberá comunicar a la Subsecretaría, en el mes de diciembre de cada año, la designación de un profesional representante para efectos de la integración del Comité.
+La clasificación de las agrupaciones será publicada en la página de dominio electrónico de la Subsecretaría y del Servicio, de conformidad con el artículo 174 de la ley.
 
-#### Artículo 63º
+#### Artículo 58
 
-Cuando se requiera el pronunciamiento del Comité, éste deberá ser integrado por los representantes de la Subsecretaría, del Servicio y de la asociación o asociaciones de acuicultores sobre cuya actividad incida la clasificación o el programa.
+O. El quiebre sanitario de cada agrupación se determinará de acuerdo a los tramos de pérdidas obtenidos por la agrupación de concesiones en el período productivo inmediatamente anterior. En los casos que las concesiones integrantes de la agrupación no hayan operado en los dos últimos períodos productivos, se considerará el último período en que operaron.
 
-El pronunciamiento del Comité comprenderá el informe escrito del experto que hubiere sido designado por el Servicio en el año correspondiente, según su especialidad, dependiendo del grupo de especies hidrobiológicas en que incidan la clasificación o el programa. Si éstos afectan a más de un grupo de especies, se comprenderá el pronunciamiento de un experto por cada grupo incluido.
+A cada tramo le corresponderá un porcentaje de aumento o disminución del número de peces ingresados en el período anterior, dando por resultado el quiebre sanitario del período productivo siguiente, de acuerdo con la siguiente tabla:
 
-#### Artículo 64º
+La tabla antes señalada se aplicará sucesivamente a cada período productivo conforme a los resultados del período inmediatamente anterior.
 
-El Comité emitirá su pronunciamiento a través de informes técnicos, los que podrán ser evacuados en base a reuniones periódicas u observaciones escritas remitidas por cada uno de los integrantes.
+De conformidad con el artículo 71 B, el Servicio emitirá a partir del cuarto mes de iniciado el período productivo, trimestralmente, un reporte con la información ambiental y de pérdidas de los centros de cultivo integrantes de la agrupación.
 
-La inasistencia de un integrante del Comité o la falta de pronunciamiento escrito en el plazo de 30 días desde que hubiere sido requerido, determinará su prescindencia en el informe técnico respectivo. El mismo efecto producirá la falta de pronunciamiento dentro de dicho plazo requerida al experto respectivo.
+A partir de la clasificación de bioseguridad en alta, media o baja obtenida por la agrupación, se determinará una densidad de cultivo para la misma, expresada en kg/m³ y en el número máximo de ejemplares a ingresar a la agrupación de concesiones en el período productivo siguiente. No se podrá ingresar un mayor número de peces a la agrupación de concesiones a aquel que resulte de la aplicación de los porcentajes antes señalados, salvo lo indicado en el artículo 58 T inciso 1º.
+
+#### Artículo 58
+
+P. La fijación del número máximo de ejemplares a ingresar en las estructuras de cultivo de cada centro, de acuerdo a la densidad obtenida para la agrupación conforme a su clasificación, se establecerá considerando los siguientes elementos:
+
+a) Volumen útil de las estructuras de cultivo medido en metros cúbicos, considerando las dimensiones de cada estructura sólida y la profundidad estimada para las redes peceras. La resolución de la Subsecretaría a que se refiere el artículo 58 Ñ establecerá las dimensiones que serán consideradas para establecer el volumen útil conforme al tipo de estructuras.
+
+b) Densidad de cultivo de la agrupación fijada conforme a lo indicado en los artículos 58 Ñ y 58 O.
+
+c) Peso de los ejemplares a la cosecha, de acuerdo a los valores que se fijen para cada especie de salmónidos en la resolución a que se refiere el artículo 58 Ñ.
+
+d) Porcentaje de sobrevivencia de ejemplares obtenido de restar al 100% el porcentaje de la pérdida de ejemplares esperada al término del período productivo, de conformidad con lo establecido en el artículo 24 A.
+
+El número de peces a sembrar por estructura de cultivo se obtendrá de multiplicar el volumen útil por la densidad de cultivo a cosecha y dividirlo por el peso de cosecha. El resultado de la operación anterior se dividirá por el porcentaje de sobrevivencia esperada, conforme a la siguiente fórmula:
+
+Número de peces a sembrar = a) x b) / c)
+
+d)
+
+En la fórmula antes señalada, la letra
+
+- **a)** representa el volumen útil; la letra
+
+- **b)** la densidad de cultivo a la cosecha; la letra
+
+- **c)** el peso de cosecha y la letra
+
+- **d)** el porcentaje de sobrevivencia esperada.
+
+#### Artículo 58
+
+Q. A partir de la información sobre los elementos ambiental, sanitario y productivo con que se cuente, y en el plazo de cinco días hábiles, contados desde el vencimiento del plazo para la entrega de los planes de siembra conforme al artículo 24, la Subsecretaría clasificará las agrupaciones y emitirá un informe técnico, sanitario y económico que contendrá una propuesta preliminar de densidad de cultivo para cada una de ellas, aplicando los puntajes y ponderaciones contenidas en la resolución a que se refiere el artículo 58 Ñ. Para tales efectos, la Subsecretaría utilizará la información contenida en los planes de siembra presentados al Servicio y que le hayan sido remitidos. La propuesta preliminar contendrá la densidad de cultivo para cada agrupación y centro, el número total de peces a ingresar en la agrupación en el período productivo siguiente y el número de peces a ingresar en las estructuras de cultivo de las concesiones.
+
+La propuesta antes indicada será remitida en consulta al Servicio y al Instituto de Fomento Pesquero, los que deberán entregar, sea en papel o por vía electrónica, sus observaciones en el plazo de 5 días hábiles. Una vez recibidas las observaciones e incorporadas, si corresponde, se remitirá la propuesta a los titulares de las concesiones integrantes de la agrupación. Dichos titulares tendrán el plazo de un mes para remitir sus observaciones, aportando los antecedentes que las funden.
+
+Vencido el plazo señalado en el inciso anterior, la Subsecretaría fijará, por resolución fundada, la densidad de cultivo definitiva. Dicha resolución se publicará en extracto en el Diario Oficial y en forma íntegra en su sitio de dominio electrónico y en el del Servicio, de conformidad con el artículo 174 de la ley.
+
+La reclamación de la densidad fijada, así como su revisión al término del ciclo productivo, se someterá a las disposiciones de los incisos 4º y 5º del artículo 86 bis de la ley.
+
+#### Artículo 58
+
+R. No se fijará densidad de cultivo por agrupación en el caso que las concesiones integrantes de la agrupación nunca hayan operado, cualquiera sea el motivo. En estos casos, cuando todos o algunos de los centros de cultivo integrantes de la agrupación inicien su operación, deberán hacerlo sometiéndose a la densidad de cultivo para centros de engorda, fijada por resolución vigente del Servicio. La densidad de cultivo por agrupación en estos casos, será fijada una vez cumplido el primer período productivo con operación de las concesiones integrantes de la agrupación.
+
+A la densidad de cultivo que hubiere fijado el Servicio por resolución vigente para centros de engorda quedarán también sometidas las agrupaciones en que hayan operado menos del 10% de las concesiones integrantes de las mismas en los dos últimos períodos productivos y siempre que hayan obtenido una clasificación de bioseguridad alta, de conformidad con el artículo 24 A.
+
+#### Artículo 58
+
+S. En los casos en que la agrupación hubiere obtenido una clasificación en bioseguridad media o baja, la densidad de cultivo que se hubiere fijado para la misma no será aplicable a los centros de cultivo integrantes de la agrupación que hubieren obtenido individualmente una clasificación en bioseguridad alta, correspondiente al tramo de pérdidas inferiores al 13%, conforme al artículo 24 A. En tal caso, la densidad aplicable corresponderá a aquella que será fijada conforme a la resolución a que se refiere el artículo 24 A.
+
+#### Artículo 58
+
+T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar, salvo en el caso que el titular del centro de cultivo invoque los resultados negativos en INFA de un centro de su titularidad en otra agrupación que le impide sembrar en él los ejemplares que se habían planificado, cuyo origen y existencia deberá acreditar. En cualquier caso, no se autorizará una siembra de un número mayor de peces que aquel que estaba previsto para el centro con resultados negativos en INFA.
+
+Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien, al término de las siembras efectivas no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar.
+
+#### Artículo 58
+
+U. La Subsecretaría mantendrá en su sitio de dominio electrónico tablas que den cuenta de los valores que se obtengan como quiebres sanitarios, densidad de cultivo de las agrupaciones, número máximo de peces a ingresar en ellas y por centro de cultivo, de acuerdo a los diversos rangos de la clasificación de bioseguridad.
+
+#### Artículo 58
+
+V. Las disposiciones del presente Título, no se aplicarán a la especie Salmón rey Oncorhynchus tschawytscha y su cultivo se someterá a la densidad de cultivo fijada por resolución vigente del Servicio para centros de engorda.
+
+## Título XVI
+
+De los expertos
+
+#### Artículo 59
+
+DEROGADO.
+
+#### Artículo 60
+
+DEROGADO.
+
+#### Artículo 61
+
+DEROGADO.
+
+#### Artículo 62
+
+DEROGADO.
+
+#### Artículo 63
+
+DEROGADO.
+
+#### Artículo 64
+
+DEROGADO.
 
 #### Artículo 64
 
@@ -2106,7 +2134,7 @@ Dicho panel de expertos deberá emitir su pronunciamiento en el plazo de un mes 
 
 C. Los expertos deberán contar con un título profesional vinculado a las ciencias del mar, medicina veterinaria, ciencias económicas u otra carrera de ciencias con especialización en materias ambientales, recursos naturales o administración y acreditar experiencia profesional de al menos 10 años. El nombramiento de los expertos durará un año, pudiendo renovarse por una sola vez.
 
-## Título XVI
+## Título XVII
 
 De los laboratorios de diagnóstico
 
@@ -2114,7 +2142,7 @@ De los laboratorios de diagnóstico
 
 El Servicio elaborará un programa sanitario general para los laboratorios de diagnóstico el que incluirá al menos la forma y procedimiento de toma de muestras en terreno y transporte de las mismas, recepción, análisis anatomopatológico, órganos blanco para cada análisis, técnicas de diagnóstico para las enfermedades de alto riesgo en atención a las características de cada patógeno y al tiempo de resguardo de las contramuestras, así como la forma de entrega de resultados al Servicio. Podrán establecer procedimientos adicionales o complementarios en otros programas sanitarios generales y específicos que dicte el Servicio.
 
-La entrega de información al Servicio por parte de los Laboratorios de diagnóstico referida a los programas de vigilancia pasiva, vigilancia activa, examen individual de reproductores y de los programas sanitarios específicos deberá realizarse los 5 días hábiles siguientes a su emisión.
+La entrega de información al Servicio por parte de los Laboratorios de diagnóstico referida a los programas de vigilancia, examen individual de reproductores y de los programas sanitarios específicos deberá realizarse los 5 días hábiles siguientes a su emisión.
 
 Sin perjuicio de lo anterior, el Servicio podrá solicitar información en el momento que estime necesario.
 
@@ -2196,7 +2224,7 @@ Si en base a exámenes clínicos realizados en terreno o a los resultados de an�
 
 Derogado
 
-## Título XVII
+## Título XVIII
 
 DE LA INFORMACIÓN
 
@@ -2208,6 +2236,8 @@ Los laboratorios de diagnóstico deberán entregar la información correspondien
 
 El Servicio pondrá a disposición los formatos electrónicos, y cuando corresponda, las vías electrónicas a través de los cuales deberá entregarse la información a que se refieren las disposiciones del presente reglamento.
 
+Para efectos de la adopción de medidas reglamentarias y otras que sean de competencia de la Subsecretaría, así como para evaluar la aplicación de las medidas ya implementadas, el Servicio remitirá a la Subsecretaría, en forma trimestral, copia de la información productiva y sanitaria que reciba, recopilada de los centros de cultivo y por agrupación de concesiones, como asimismo, la derivada de la aplicación del reglamento a que se refiere el DS Nº 15, de 2011, del Ministerio de Economía, Fomento y Turismo. La Subsecretaría podrá solicitar información con mayor frecuencia a la indicada o bien solicitar complemento de la información entregada.
+
 #### Artículo 71
 
 B. El Servicio emitirá los siguientes informes:
@@ -2217,6 +2247,8 @@ a) Informes semestrales en base a los análisis de los datos y resultados obteni
 b) Informe anual sobre el uso de antimicrobianos a nivel nacional, el que deberá incluir un resumen de los antibiogramas o CIM efectuados durante el período; y,
 
 c) Resumen semestral de los desoves de especies hidrobiológicas, las técnicas de diagnóstico utilizadas y sus resultados, conforme a la información entregada por los laboratorios de diagnóstico.
+
+d) Reporte trimestral con la información ambiental y de pérdidas de los centros de cultivo integrantes de la agrupación.
 
 #### Artículo 71
 
@@ -2244,7 +2276,7 @@ D. Los centros de cultivo y demás establecimientos que realicen actividades som
 
 El titular de cada establecimiento deberá asegurar la capacitación de las personas encargadas de aplicar los manuales de operación al menos una vez al año y dentro del proceso de inducción de nuevo personal encargado de aplicarlos.
 
-## Título XVIII
+## Título XIX
 
 Disposiciones Varias
 
