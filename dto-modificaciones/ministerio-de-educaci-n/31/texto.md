@@ -34,7 +34,7 @@ Decreto:
 
 #### Artículo único
 
-Modifícase el decreto supremo Nº 80, de 1993, del Ministerio de Educación, en el sentido de introducir al artículo único, los siguientes incisos segundo, tercero y cuarto, cuya redacción es la siguiente:
+Modifícase el decreto supremo Nº 80, de 1983, del Ministerio de Educación, en el sentido de introducir al artículo único, los siguientes incisos segundo, tercero y cuarto, cuya redacción es la siguiente:
 
 "Esta declaratoria comprende además el canal estructurado sobre un talud de tierra que alcanza una longitud de 135 metros, hasta la bocatoma del canal Turbina. Asimismo, se comprenden los edificios anexos, esto es, la bodega original de la antigua Planta Lautaro, que corresponde a un edificio de planta rectangular y un piso con corredor de tierra y estructura de madera, con techumbre a dos aguas, y tres construcciones de la Asociación de Canalistas de Copiapó construidas probablemente en la década de los cincuenta y que son usadas como oficinas y bodegas.
 
