@@ -148,7 +148,7 @@ En caso que el inspector Serviu visite la vivienda antes que las partidas se enc
 
 22.4. Antes de dar curso al pago el Serviu deberá revisar que el valor de los materiales se ajuste a lo indicado en la letra s) del artículo 16, en relación con lo señalado en el artículo 36, ambos del D.S. 255 (V. y U.) de 2006, respecto de la Tabla de Valores Referenciales de Construcción, y en caso que esto no se cumpla, se dará curso al pago pero se podrá eliminar al proveedor de la nómina respectiva.
 
-23. Los beneficiarios de las regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule y de la Araucanía, podrán realizar compras asociadas a este subsidio hasta el día 30 de junio del año 2012 mientras que las familias beneficiadas de la Región del Biobío, podrán hacer uso de su tarjeta hasta el día 31 de marzo del año 2013.
+23. Los beneficiarios de las regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule y de la Araucanía, podrán realizar compras asociadas a este subsidio hasta el día 30 de junio del año 2012 mientras que las familias beneficiadas de la Región del Biobío, podrán hacer uso de su tarjeta hasta el día 30 de septiembre del año 2013.
 
 No obstante lo señalado en el párrafo precedente, todas aquellas familias que resultaren seleccionadas durante los meses de septiembre, octubre, noviembre y diciembre del año 2011, que no correspondan a la Región de Biobío, podrán realizar compras hasta el día 31 de diciembre del año 2012.
 
