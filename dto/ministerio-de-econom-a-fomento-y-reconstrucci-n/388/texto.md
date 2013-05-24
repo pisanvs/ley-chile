@@ -22,13 +22,85 @@ La sustitución de embarcaciones artesanales y el procedimiento de reemplazo de 
 
 Para efectos de este reglamento, las embarcaciones artesanales se clasifican en cuatro clases, en el siguiente orden ascendente según su capacidad extractiva:
 
-a) Bote: embarcación sin cubierta completa, con o sin motor de propulsión.
+a) Primera clase: embarcación artesanal, con o sin
 
-b) Lancha menor: embarcación con cubierta completa y motor de propulsión, con una eslora total de hasta 12 metros.
+cubierta completa, con o sin motor de
 
-c) Lancha media: embarcación con cubierta completa y motor de propulsión, con una eslora de más de 12 metros y de hasta 15 metros.
+propulsión, de una eslora total de hasta 8
 
-d) Lancha mayor: embarcación con cubierta completa y motor de propulsión, con una eslora de más de 15 metros y de hasta 18 metros.
+metros y capacidad de bodega de hasta 5 metros
+
+cúbicos;
+
+b) Segunda clase: embarcación artesanal, con o sin
+
+cubierta completa, con motor de propulsión, de
+
+una eslora total mayor de 8 metros y de hasta 12
+
+metros y capacidad de bodega de hasta 15 metros
+
+cúbicos;
+
+c) Tercera clase: embarcación artesanal, con
+
+cubierta completa y motor de propulsión, de una
+
+eslora total mayor de 12 metros y de hasta 15
+
+metros y capacidad de bodega de hasta 45 metros
+
+cúbicos;
+
+d) Cuarta clase: embarcación artesanal, con
+
+cubierta completa y motor de propulsión, de una
+
+eslora total mayor de 15 metros y de hasta 18
+
+metros y capacidad de bodega de hasta 80 metros
+
+cúbicos.
+
+Sin perjuicio de lo señalado en el inciso anterior, en consideración a su esfuerzo pesquero, las embarcaciones artesanales que no tengan inscritos los artes de pesca cerco y/o arrastre, en aquellos casos de excepción contemplados en la normativa vigente, se clasificarán en las siguientes tres clases, según su eslora y capacidad de bodega.
+
+a) Primera clase: embarcación artesanal, con o sin
+
+cubierta completa, con o sin motor de
+
+propulsión, de una eslora total de hasta 12
+
+metros y capacidad de bodega de hasta 15 metros
+
+cúbicos. Tratándose de embarcaciones de hasta 8
+
+metros de eslora podrán tener una bodega de
+
+hasta 5 metros cúbicos y en caso de
+
+embarcaciones superiores a 8 metros, éstas
+
+deberán tener motor de propulsión;
+
+b) Segunda clase: embarcación artesanal, con o sin
+
+cubierta completa, con motor de propulsión, de
+
+una eslora total mayor de 12 metros y de hasta
+
+15 metros y capacidad de bodega de hasta 45
+
+metros cúbicos;
+
+c) Tercera clase: embarcación artesanal, con o sin
+
+cubierta completa, con motor de propulsión, de
+
+una eslora total mayor de 15 metros y de hasta
+
+18 metros y capacidad de bodega de hasta 80
+
+metros cúbicos.
 
 ## Título II
 
@@ -40,29 +112,43 @@ La sustitución de embarcaciones artesanales tendrá lugar cuando se suspenda tr
 
 a) Que tanto el pescador artesanal como la o las embarcaciones que se solicita sustituir, se encuentren con inscripción vigente en el Registro Artesanal, en la región y pesquería respectiva.
 
-b) Que el pescador artesanal, como producto de la sustitución, no registre a su nombre más de dos naves, y que éstas en conjunto no superen las 50 toneladas de registro grueso, y que ninguna de ellas exceda los 18 metros de eslora total.
+b) Que el pescador artesanal, como producto de la sustitución, no registre a su nombre más de dos naves y que ninguna de ellas exceda los 18 metros de eslora total.
 
-c) Que la o las embarcaciones que solicita sustituir, hayan efectivamente operado e informado al Servicio Nacional de Pesca, en adelante el Servicio, capturas en la o las pesquerías sujetas a restricción de acceso, dentro de los doce meses anteriores a la fecha de su solicitud.
+c) ELIMINADA.
 
 d) Que en general se dé cumplimiento a las demás disposiciones legales y reglamentarias correspondientes.
 
+#### Artículo 3º bis
+
+El Servicio Nacional de Pesca y Acuicultura deberá pronunciarse respecto de la solicitud de sustitución en el plazo de 45 días, contados desde su presentación.
+
 #### Artículo 4°
 
-En la sustitución sólo se podrá autorizar las especies registradas en la inscripción de la embarcación sustituida respecto de las cuales haya efectivamente operado e informado capturas al Servicio, de conformidad con lo dispuesto en la letra c) del artículo anterior. Tratándose de la sustitución de dos naves por una, la autorización sólo se limitará a las especies que en común cumplan con lo establecido en el inciso anterior.
+En la sustitución sólo se podrá autorizar las especies registradas en la inscripción de la embarcación sustituida respecto de las cuales se encuentren vigentes de conformidad con la letra a) del artículo 3º.
+
+Tratándose de la sustitución de dos naves por una, la autorización sólo se limitará a las especies que en común cumplan con lo establecido en el inciso anterior.
+
+Asimismo, para autorizar en la nave sustituyente el arte de pesca cerco o arrastre, las dos naves sustituidas deberán tener inscrito dicho arte de pesca.
 
 #### Artículo 5°
 
-La sustitución, podrá contemplar cambios de artes o aparejos de pesca, siempre que ello no signifique incorporar el arte de arrastre.
+La sustitución o modificación, podrá contemplar cambios de artes o aparejos de pesca, siempre que ello no signifique incorporar los artes de arrastre y cerco.
 
 #### Artículo 6°
 
 La sustitución procederá entre embarcaciones de igual clase o cuando ésta no implique aumentar la capacidad extractiva de acuerdo a lo indicado en el artículo 2°.
 
+Sin perjuicio de lo anterior, en caso de sustituciones de dos embarcaciones por una, se permitirá que dos embarcaciones de igual o distinta clase puedan ser sustituidas por una de clase inmediatamente superior a la de mayor clase.
+
+En la sustitución a que se refiere el inciso anterior, la capacidad de bodega de la embarcación sustituyente no podrá ser superior a la suma de las bodegas de las embarcaciones sustituidas.
+
+Asimismo, la embarcación sustituyente, en caso de una sustitución realizada de conformidad con el inciso 2º del presente artículo, no podrá aumentar su capacidad de bodega mediante modificación o sustitución de una embarcación por otra.
+
 #### Artículo 7°
 
-Las medidas de eslora y toneladas de registro grueso se acreditarán con el comprobante de matrícula de embarcación menor, otorgado por la Autoridad Marítima competente. Sin embargo, las embarcaciones cuya eslora sea superior a 16 metros deberán acompañar además, certificado de arqueo otorgado por la Dirección General del Territorio Marítimo y Marina Mercante.
+Las medidas de eslora y capacidad de bodega se acreditarán con el comprobante de matrícula de embarcación menor y certificado de bodega, otorgado por la Autoridad Marítima competente. Sin embargo, las embarcaciones cuya eslora sea superior a 12 metros deberán acompañar además, certificado de arqueo otorgado por la Dirección General del Territorio Marítimo y Marina Mercante.
 
-Tratándose de botes, y siempre que el comprobante de matrícula no indique las toneladas de registro grueso, éstas se estimarán como el resultado de multiplicar la eslora, por la manga, por el puntal, por el factor 0,212. La eslora, manga y puntal a utilizar se deben expresar en metros y se obtendrá del comprobante de matrícula de embarcación menor, emitido por la Autoridad Marítima competente.
+INCISO ELIMINADO.
 
 #### Artículo 8°
 
@@ -74,7 +160,7 @@ El Servicio informará mediante carta certificada dirigida al domicilio de la pe
 
 #### Artículo 9°
 
-Aprobada la sustitución, el Servicio procederá a inscribir la nave o naves en el Registro Artesanal, y a eliminar del mismo la embarcación o embarcaciones sustituidas.
+Aprobada la sustitución, el Servicio procederá a inscribir la nave o naves en el Registro Artesanal, y a dejar sin efecto del mismo la embarcación o embarcaciones sustituidas.
 
 El Servicio deberá notificar a la Gobernación Marítima de la jurisdicción que corresponda, la o las embarcaciones cuyas inscripciones han sido canceladas, como asimismo las nuevas naves autorizadas, dentro de su respectiva región.
 
@@ -96,7 +182,7 @@ En ambos casos deberá señalar la categoría y pesquería a la cual postula, co
 
 #### Artículo 12°
 
-En el plazo de 10 días contados desde la publicación de la resolución de la Subsecretaría de Pesca que determine el número de inscripciones vacantes que podrán ser reemplazadas de conformidad con el inciso final del artículo 50 de la Ley General de Pesca y Acuicultura, los interesados inscritos en la nómina a que se refiere el artículo 11 del presente reglamento deberán comunicar por escrito al Servicio su voluntad de hacer efectiva la inscripción solicitada en el Registro Artesanal. En caso contrario, se entenderá que renuncia a su derecho.
+En el plazo de 10 días contados desde la publicación de la resolución de la Subsecretaría de Pesca y Acuicultura que determine el número de inscripciones vacantes que podrán ser reemplazadas de conformidad con el inciso 8º del artículo 50 de la Ley General de Pesca y Acuicultura, los interesados inscritos en la nómina a que se refiere el artículo 11 del presente reglamento deberán comunicar por escrito al Servicio su voluntad de hacer efectiva la inscripción solicitada en el Registro Artesanal. En caso contrario, se entenderá que renuncia a su derecho.
 
 Vencido el plazo indicado en el inciso anterior, quienes hubieren comunicado su voluntad de hacer efectiva la inscripción en el Registro Artesanal deberán acreditar mediante certificación del Servicio y de la Autoridad Marítima que la embarcación respectiva dispone del arte de pesca correspondiente a la pesquería, para lo cual dispondrán de un plazo que no podrá ser inferior a 5 ni superior a 30 días y que será fijado por la Subsecretaría en la resolución a que alude el inciso anterior.
 
