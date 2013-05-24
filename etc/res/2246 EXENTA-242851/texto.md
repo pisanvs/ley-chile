@@ -34,6 +34,8 @@ Resuelvo:
 
 > **Nota.** NOTA 6 El Artículo 1º de la Resolución 3156 Exenta, Transportes, publicada el 09.11.2011, prorroga la vigencia de la presente norma a contar del 31 de octubre de 2011 y hasta el 30 de abril de 2013, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
 
+> **Nota.** NOTA 7 El artículo 1° de la Resolución 996 Exenta, Transportes, publicada el 24.05.2013, prorroga la vigencia de la presente norma a contar del 1 de mayo de 2013 y hasta el 31 de octubre de 2014, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
+
 #### Artículo 1º
 
 Establécense las siguientes condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de las comunas de Concepción, Chiguayante, Hualqui, Talcahuano, Hualpén, San Pedro de la Paz y Penco.
@@ -130,7 +132,7 @@ f) Asientos preferentes. Cada vehículo que integre los servicios, deberá asegu
 
 2.3. Plazo para ingreso de vehículos reemplazantes. Será de 120 días corridos contados desde la fecha de retiro del vehículo reemplazado, sin perjuicio del cumplimiento de las frecuencias establecidas en el punto 5 del artículo 1º. Transcurrido este plazo, si no se materializa el reemplazo, se reducirá la flota del servicio. Se revisará la flota cada 2 meses reduciendo, si corresponde, el Nº de cupos máximos del servicio.
 
-2.4. Vehículos de Nuevas Tecnologías. El SecretarioRegional podrá establecer, en el marco de un proyecto piloto, la inclusión adicional a la flota de vehículos de tecnologías de emisiones distintas a las existentes en la actualidad, tales como gas, electricidad, u otro, hasta un máximo de 3 vehículos por flota. El derecho a incluir Vehículos de Nuevas Tecnologías se podrá transferir entre servicios de un mismo responsable. Dada su condición de proyecto piloto, estos vehículos no serán considerados para el cálculo de reajustabilidad de la tarifa.
+2.4. Vehículos de Nuevas Tecnologías y sus Características. El Secretario Regional podrá establecer, en el marco de un proyecto piloto, la inclusión adicional a la flota de vehículos de tecnologías de emisiones distintas a las existentes en la actualidad, tales como gas, electricidad, u otro, hasta un máximo de 3 vehículos por flota. El derecho a incluir Vehículos de Nuevas Tecnologías se podrá transferir entre servicios de un mismo responsable. Dada su condición de proyecto piloto, estos vehículos no serán considerados para el cálculo de reajustabilidad de la tarifa.
 
 2.5. Intercambio o traspaso de vehículos desde un servicio a otro. Se permitirá para los interesados que tengan más de un servicio inscrito bajo el mismo responsable y hagan uso de un mismo terminal o tengan puntos de origen y/o destinos similares.
 
@@ -138,9 +140,7 @@ El responsable del servicio que se encontrare en dicha situación, deberá comun
 
 2.6. Imagen y presentación de los vehículos: Los buses que integren las flotas deberán reunir los requisitos de presentación interior y exterior, de pintura, de diseño, de información al usuario y plazos que para el efecto fije por resolución el Secretario Regional Ministerial.
 
-2.7 Sistema de información de flota: Los vehículos que integren las flotas de buses o que se integren a ellas deberán estar equipados con un conjunto de elementos tecnológicos, en adelante Sistema de Información y Gestión de Flota (SIGF), el que deberá incluir un sistema de posicionamiento global (GPS), orientado a capturar, procesar, registrar y transmitir la información relacionada con la operación de la flota a un servidor de datos central, al cual siempre tendrá acceso ilimitado o sin restricciones el Ministerio o la Secretaría Regional respecto a los datos almacenados. Los antecedentes que de éstos se obtengan, contribuirán al control, planificación, orientación de la actividad de fiscalización y la mejora continua del servicio de transporte público, resguardando la seguridad e integridad de dicha información.
-
-Tanto el plazo para el inicio de la exigencia del SIGF y GPS, las especificaciones citadas precedentemente, como las de equipamiento, condiciones operacionales, características, calidad y periodicidad de los informes, modos de acceso a la información, seguridad y resguardo de la información, y cualquier otra no importando su naturaleza, serán determinadas mediante resolución de la Secretaría Regional Ministerial.
+2.7 Sistema de información de flota: Los vehículos que integren las flotas de buses o que se integren a ellas, deberán estar equipados con un conjunto de elementos tecnológicos, en adelante Sistema de Información y Gestión de Flota (SIGF), el que deberá incluir un sistema de posicionamiento global (GPS), orientado a capturar, procesar, registrar y transmitir la información relacionada con la operación de la flota a un servidor de datos central, al cual tendrá acceso, el Ministerio o la Secretaría Regional respecto los datos almacenados de la operación de los servicios. Los antecedentes que de éstos se obtengan, contribuirán al control, planificación, orientación de la actividad de fiscalización y la mejora continua del servicio de transporte público, resguardando la seguridad e integridad de dicha información.
 
 2.8 Los vehículos pertenecientes a las flotas de los servicios deberán portar una cámara de video destinada al registro de eventuales agresiones que pudieran afectar a los conductores. Las filmaciones deberán mantenerse archivadas por el responsable del servicio por el plazo de al menos 30 días corridos, y las que deberán poder ser remitidas, en un medio de almacenamiento magnético o informático correspondiente a un disco compacto o dvd u otro, para el evento que sean requeridas por la Secretaría Regional.
 
@@ -178,7 +178,7 @@ Sin perjuicio de lo anterior, el Secretario Regional mediante resolución y por 
 
 5.3. SUPRIMIDO.
 
-5.4. Frecuencia en temporada de verano: La frecuencia para el período comprendido por los meses de enero y febrero de cada año, podrá reducirse en hora punta hasta un valor equivalente al 40% de la máxima establecida para cada servicio en el Anexo 1 de la presente Resolución.
+5.4. La frecuencia para el período comprendido por los meses de enero y febrero de cada año, podrá reducirse en el período P2 hasta un valor equivalente al 40% de la establecida para cada servicio en el Anexo 1 de la presente resolución.
 
 5.5. Transferencia de frecuencias: Se podrán transferir frecuencias entre servicios de un mismo responsable, previa autorización del Secretario Regional, quien podrá aceptar o rechazar dichas solicitudes teniendo en consideración la oferta y demanda existente en el área de influencia de los servicios involucrados a la fecha de la solicitud.
 
@@ -298,17 +298,9 @@ u otras que no digan relación con reclamos o
 
 quejas de OIRS.
 
-El incumplimiento de las obligaciones dispuestas
+7.4 El responsable del servicio podrá disponer de una página web de información hacia los usuarios del servicio. El Secretario Regional dictará una resolución en la que fijará el contenido mínimo de información para dichos sitios web.
 
-en los puntos 7.2 y 7.3, será sancionado con una
-
-amonestación por escrito y con el correspondiente
-
-cobro de garantías según lo establecido en el DS
-
-Nº212/92 del Ministerio de Transportes y
-
-Telecomunicaciones.
+El incumplimiento de las obligaciones dispuestas en este numeral y en los puntos 7.2 y 7.3, será sancionado con una amonestación por escrito y con el correspondiente cobro de garantías según lo establecido en el DS Nº 212/92 del Ministerio de Transportes y Telecomunicaciones.
 
 8. Horario de prestación de servicios.
 
