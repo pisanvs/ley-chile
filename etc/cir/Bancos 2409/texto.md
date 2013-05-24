@@ -11810,13 +11810,13 @@ El cobro de un documento requiere por lo general de la identificación de la per
 
 ## Capítulo 17-5
 
-COLOCACIÓN DE CUOTAS DE FONDOS MUTUOS EN CALIDAD DE AGENTES.
+COLOCACIÓN DE CUOTAS DE FONDOS EN CALIDAD DE AGENTES
 
-De conformidad con las normas legales en actual vigencia, los bancos, actuando en calidad de agentes colocadores, pueden aceptar mandatos de sociedades administradoras de fondos mutuos para la colocación de cuotas de los fondos que éstas administren.
+De conformidad con las normas legales vigentes los bancos, actuando en calidad de agentes financieros, pueden aceptar mandatos de sociedades administradoras de fondos para la colocación y rescate de cuotas de los fondos que estas administren, así como también para otras operaciones que por su intermedio puedan efectuar los partícipes del fondo respectivo.
 
-Los referidos mandatos deberán conferirse en conformidad a lo dispuesto en el artículo 12 del D.L. N° 1.328, de 1976, y en el artículo 34 del Reglamento de dicho cuerpo legal.
+Para tales efectos, los referidos mandatos deberán conferirse de acuerdo a las disposiciones legales que sean aplicables a cada tipo de fondo en particular.
 
-Los bancos que realicen las operaciones de colocación de cuotas de fondos mutuos, además de dar cumplimiento a las normas que les son aplicables en la realización de esa actividad, deberán proporcionar a la Superintendencia de Valores y Seguros la información que ella requiere en relación con esas operaciones y atenerse a las instrucciones que haya emitido.
+Asimismo, los bancos deberán proporcionar a la Superintendencia de Valores y Seguros la información requerida en relación con tales operaciones y atenerse a las instrucciones que aquella emita.
 
 ## Capítulo 18-3
 
