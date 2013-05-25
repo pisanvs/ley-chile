@@ -30,18 +30,6 @@ Destínese las bandas de frecuencias detalladas en el artículo siguiente, para 
 
 Para el servicio se asignarán, excepto en la Región Metropolitana, los bloques de frecuencias que a continuación se indican:
 
-Bandas de Frecuencias Bandas de Frecuencias
-
-BLOQUE Recepción Estaciones Base Transmisión
-
-(MHz) Estaciones Base
-
-(MHz)
-
-A 902-907 947-952
-
-B 908-913 953-958
-
 #### Artículo 3º
 
 <!-- parte:8785024 -->
