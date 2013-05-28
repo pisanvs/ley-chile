@@ -22,9 +22,9 @@ Apruébase el siguiente Reglamento del Fondo de Desarrollo de las Telecomunicaci
 
 Del Fondo de Desarrollo de las Telecomunicaciones
 
-#### Artículo 1º
+#### Artículo 1°
 
-El Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante ''el Fondo'', funcionará por un período de 10 años, a contar del 11 de mayo del año 2001, con el objeto de promover el aumento de la cobertura de los servicios de telecomunicaciones en áreas rurales y urbanas de bajos ingresos, especialmente respecto de localidades ubicadas en zonas geográficas extremas o aisladas.
+El presente reglamento regula el Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante "el Fondo", que tiene por objeto promover el aumento de la cobertura de los servicios de telecomunicaciones preferentemente en áreas rurales, y urbanas de bajos ingresos.
 
 El Fondo estará constituido por los aportes que se le asignen anualmente en la Ley de Presupuestos del Sector Público, sin perjuicio de que pueda recibir otros aportes.
 
@@ -42,17 +42,17 @@ El Consejo estará integrado por:
 
 a) El Ministro de Transportes y Telecomunicaciones, quien lo presidirá;
 
-b) El Ministro de Economía, Fomento y Reconstrucción, o su representante;
+b) El Ministro de Economía, Fomento y Turismo, o su representante;
 
 c) El Ministro de Hacienda, o su representante;
 
-d) El Ministro de Planificación y Cooperación, o su representante;
+d) El Ministro de Desarrollo Social, o su representante;
 
-e) Un profesional con experiencia en el área de telecomunicaciones, vinculado a las regiones I, II, III o IV;
+e) Un profesional con experiencia en el área de telecomunicaciones, vinculado a las regiones XV, I, II, III o IV;
 
 f) Un profesional con experiencia en el área de telecomunicaciones, vinculado a las regiones V, VI, VII, VIII o Metropolitana, y
 
-g) Un profesional con experiencia en el área de telecomunicaciones, vinculado a las regiones IX, X, XI o XII.
+g) Un profesional con experiencia en el área de telecomunicaciones, vinculado a las regiones XIV, IX, X, XI o XII.
 
 El Secretario Ejecutivo del Consejo será el Subsecretario de Telecomunicaciones, quien tendrá a su cargo las actas de las sesiones y la calidad de ministro de fe.
 
@@ -60,9 +60,9 @@ El Secretario Ejecutivo del Consejo será el Subsecretario de Telecomunicaciones
 
 Los consejeros mencionados en las letras e), f) y g) del artículo anterior serán designados por el Presidente de la República, tomando en consideración las ternas propuestas por el Ministro de Transportes y Telecomunicaciones, en su calidad de Presidente del Consejo, y durarán en sus funciones mientras se mantenga vigente su designación.
 
-Los referidos consejeros deben ser chilenos, con título profesional reconocido por el Estado y no podrán ser presidentes, directores, gerentes, administradores, representantes legales o empleados de empresas concesionarias de servicios públicos, intermedios, de libre recepción o de radiodifusión, y de permisionarias de servicio limitado de televisión.
+Los referidos consejeros deben ser chilenos, con título profesional reconocido por el Estado y no podrán ser presidentes, directores, gerentes, administradores, representantes legales o empleados de concesionarias de servicios públicos, intermedios, de libre recepción o de radiodifusión, y de permisionarias de servicio limitado de televisión.
 
-Para los efectos de designar a su representante ante el Consejo, los Ministros de Estado indicados en las letras b), c) y d) del artículo precedente, remitirán al Secretario Ejecutivo del Consejo, durante el mes de enero de cada año calendario, la individualización de la persona que esté facultada para representarlos. El representante deberá reunir los requisitos señalados en el inciso anterior y podrá desempeñarse en tal calidad mientras no se haya revocado expresamente su designación, lo que deberá ser notificado al Secretario Ejecutivo del Consejo.
+Los Ministros de Estado indicados en las letras b), c) y d) del artículo precedente, informarán con la debida antelación al Secretario Ejecutivo del Consejo, la individualización de la persona que esté facultada para representarlos. El representante deberá reunir los requisitos señalados en el inciso anterior y podrá desempeñarse en tal calidad mientras no se haya revocado expresamente su designación, lo que deberá ser informado al Secretario Ejecutivo del Consejo.
 
 #### Artículo 5º
 
@@ -71,6 +71,8 @@ El Consejo sesionará en las dependencias del Ministerio de Transportes y Teleco
 En caso de ausencia del Ministro de Transportes y Telecomunicaciones, presidirá la sesión el Ministro de Economía o su representante. El quórum requerido para sesionar será de cuatro consejeros. De haber empate en las votaciones para tomar acuerdos, resolverá quien presida la respectiva sesión.
 
 El Presidente del Consejo, a través del Secretario Ejecutivo, convocará a sesión, a lo menos, con una semana de anticipación, acompañando la tabla y documentación correspondientes.
+
+En cada sesión del Consejo, el Secretario Ejecutivo levantará un acta de lo allí obrado.
 
 #### Artículo 6º
 
@@ -98,31 +100,31 @@ El programa anual de proyectos subsidiables o licitables, mencionado en el Nº 2
 
 a) Proyectos de teléfonos públicos o centros de llamadas;
 
-b) Telecentros comunitarios de información. Estos proyectos tendrán como finalidad impulsar el acceso a las tecnologías de información y comunicación, asegurando a las comunidades beneficiarias de dichos proyectos los medios de conexión a Internet y el acceso a los diversos servicios de información y contenido, especialmente vinculados al ámbito local respectivo;
+b) Telecentros comunitarios de información;
 
 c) Servicios de telecomunicaciones de libre recepción o de radiodifusión locales, cuyas transmisiones están destinadas a la recepción libre y directa por el público en general, sean emisiones sonoras, de televisión abierta o limitada, o de otro género, especialmente los servicios de radiodifusión de mínima cobertura definidos en el inciso segundo de la letra a) del artículo 3º de la Ley General de Telecomunicaciones, y
 
 d) Cualquier otro servicio de telecomunicaciones que beneficie directamente a la comunidad en la cual habrá de operar.
 
-Los proyectos podrán complementarse con líneas de abonado y otras prestaciones no afectas a subsidio. El Consejo definirá los criterios que se deberán observar en la elaboración de las bases, para los efectos de complementar los proyectos con líneas de abonado.
+Los proyectos podrán complementarse con líneas de abonado y otras prestaciones no afectas a subsidio.
 
-#### Artículo 8º
+#### Artículo 8°
 
-La Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría, recibirá hasta el mes de julio de cada año, solicitudes específicas de proyectos de telecomunicaciones para localidades que podrán dar origen a la generación de los proyectos mencionados en el artículo precedente. Dichas solicitudes podrán ser presentadas por concesionarias de servicios de telecomunicaciones, autoridades regionales o provinciales, municipalidades, universidades, organismos no gubernamentales, juntas de vecinos o terceros. Las solicitudes específicas de proyectos que se presenten constituirán la base para elaborar el programa de proyectos subsidiables o licitables por ejecutarse el año siguiente.
+La Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría, recibirá hasta el mes de mayo de cada año, solicitudes específicas de proyectos de telecomunicaciones que podrán dar origen a la generación de los proyectos a ser subsidiados de conformidad a la disponibilidad presupuestaria que al efecto establezca la Ley de Presupuestos del Sector Público del año siguiente. Dichas solicitudes podrán ser presentadas por concesionarias de servicios de telecomunicaciones, autoridades regionales o provinciales, municipalidades, universidades, organismos no gubernamentales, juntas de vecinos o terceros. Las solicitudes específicas de proyectos que se presenten constituirán la base para elaborar el programa preliminar de proyectos subsidiables o licitables.
 
-Para los efectos de proceder a la elaboración del programa anual de proyectos subsidiables o licitables, la Subsecretaría requerirá previamente a la o las municipalidades que correspondan, a fin de que éstas informen respecto de las necesidades de telecomunicaciones que afecten a la comuna respectiva. La o las municipalidades requeridas dispondrán de un plazo de 15 días hábiles para la evacuación del informe, contados desde el requerimiento, el que se efectuará por carta certificada enviada al domicilio de la respectiva municipalidad, entendiéndose perfeccionada la notificación transcurridos que sean 5 días hábiles desde la fecha de entrega de la carta a la oficina de Correos. En todo caso, si dicho informe no fuere recibido dentro del plazo indicado, la Subsecretaría podrá proceder sin él.
+Todos los proyectos serán sometidos a una evaluación técnico-económica por parte de la Subsecretaría, con el objeto de estimar sus costos y factibilidad técnica, para lo cual considerará criterios tales como número de habitantes, índice de aislamiento, caracterización socioeconómica de la población a beneficiar a efectos de determinación de sus respectivas prioridades sociales, entre otros.
 
-Para los efectos del inciso anterior, en caso de proyectos de servicios de telecomunicaciones de libre recepción o de radiodifusión locales, la Subsecretaría deberá, en especial, efectuar el respectivo estudio de factibilidad técnica de frecuencias, e informará respecto de la existencia de servicios de telecomunicaciones de libre recepción o de radiodifusión locales en la respectiva localidad.
+Para los efectos de proceder a la elaboración del programa anual de proyectos subsidiables o licitables, la Subsecretaría requerirá previamente a las municipalidades, a fin de que éstas informen respecto de las necesidades de telecomunicaciones que afecten a la comuna respectiva. Las municipalidades requeridas dispondrán de un plazo de 10 días hábiles para la evacuación del informe, contados desde la fecha de notificación del requerimiento de conformidad a lo previsto en el artículo 16 bis letra b) de la Ley N° 18.168. En todo caso, si dicho informe no fuere recibido dentro del plazo indicado, la Subsecretaría podrá proceder sin él. Lo anterior, no se aplicará respecto de aquellos municipios que hayan previamente informado a la Subsecretaría de sus necesidades de telecomunicaciones, a través del mecanismo indicado en el inciso primero.
 
-Asimismo, la Subsecretaría requerirá previamente a los concesionarios de servicios públicos e intermedios de telecomunicaciones, a fin de que informen dentro de un plazo de quince días hábiles, de posibles proyectos subsidiables o licitables, al tenor de lo indicado en el inciso primero de este artículo. De no recibirse el informe dentro de plazo, la Subsecretaría podrá proceder sin él
+Habiéndose procedido conforme a los incisos anteriores, la Subsecretaría, con la información recibida y disponible elaborará un programa preliminar de proyectos subsidiables o licitables, el cual formará parte de la solicitud presupuestaria que al efecto presente el Ministerio de Transportes y Telecomunicaciones a la Dirección de Presupuestos del Ministerio de Hacienda. Dicho programa preliminar, será puesto en conocimiento vía oficio a las asociaciones de municipalidades, a fin de que éstas se manifiesten sobre el particular. Para ello, dichas asociaciones dispondrán de un plazo de 10 días hábiles, contados desde el requerimiento, de conformidad a lo previsto en el artículo 16 bis letra b) de la Ley N° 18.168. En todo caso, si dicha respuesta no fuere recibida dentro del plazo indicado, la Subsecretaría podrá proceder sin ella.
 
-Todos los proyectos serán formulados y debidamente evaluados por la Subsecretaría, de acuerdo a las metodologías y criterios de evaluación
+Una vez asignados los recursos con que contará el Fondo, en función de lo establecido en la Ley de Presupuestos del Sector Público del año respectivo, el presidente del Consejo a través del Secretario Ejecutivo del mismo convocará a este organismo, a fin de establecer el programa anual de proyectos subsidiables o licitables, sus prioridades y los subsidios para su ejecución.
 
-técnico-económicos que se convengan previamente con el Ministerio de Planificación y Cooperación, según el tipo de proyecto que se trate.
+El programa anual de proyectos subsidiables o licitables, podrá ser complementado con aquellos proyectos de telecomunicaciones que sean financiados, total o parcialmente, con otros aportes distintos a los establecidos en la Ley de Presupuestos respectiva, conforme el inciso segundo del artículo 28 A de la Ley N° 18.168. Asimismo, la Subsecretaría podrá considerar proyectos para ser licitados dentro del programa anual.
 
-Una vez completado este trámite, la Subsecretaría pondrá el programa anual a disposición del Consejo, dentro de los dos meses siguientes, acompañado de las evaluaciones técnico-económicas de los proyectos y de sus respectivas prioridades sociales. En las evaluaciones técnico - económicas deberán especificarse, para cada proyecto, la zona de servicio mínima, las tarifas máximas que se podrá aplicar a los usuarios y el monto máximo del subsidio, según corresponda.
+El referido programa podrá modificarse cuando las circunstancias de hecho que se verifiquen durante la ejecución presupuestaria del Fondo, alteren y/o modifiquen las prioridades y/o el monto del subsidio previsto para el financiamiento de uno o más proyectos de aquellos establecidos en dicho programa anual.
 
-El Consejo, dentro de los diez días hábiles de recibido el mencionado programa, deberá solicitar un informe del Ministerio de Planificación y Cooperación, el que deberá ser evacuado dentro de 15 días hábiles, a contar del requerimiento. No obstante, si dicho informe no fuere recibido en el plazo indicado, el Consejo podrá proceder sin él.
+Para proceder a la complementación o modificación antes indicadas, se requerirá acuerdo previo y fundado del Consejo, debiendo dejarse constancia expresa en el acta respectiva, de los fundamentos que sirvieron de sustento a la decisión adoptada.
 
 ## Capítulo IV
 
@@ -130,7 +132,7 @@ De los Concursos
 
 #### Artículo 9º
 
-Establecido el programa anual de proyectos subsidiables o licitables, y sus prioridades, la Subsecretaría propondrá al Consejo, para su aprobación, las bases para llamar a concurso público y el calendario de concursos correspondiente.
+DEROGADO.
 
 #### Artículo 10º
 
@@ -160,13 +162,13 @@ En el caso de proyectos de telecentros comunitarios de información, en las base
 
 Asimismo, con relación a los servicios de telecomunicaciones de libre recepción o de radiodifusión locales, cuyas transmisiones estén destinadas a la recepción libre y directa por el público en general, incluidos los servicios de radiodifusión de mínima cobertura, se establecerá en las bases, además de lo señalado en los números 1, 2, 4 y 5 anteriores, el tipo de emisión, la potencia y la frecuencia.
 
-Cualquiera sea la naturaleza, servicio o contenido de un proyecto, las bases de cada concurso deberán incluir la exigencia evaluable de mecanismos que permitan el máximo aprovechamiento y sinergia del proyecto en relación con el entorno tecnológico y social asociado al mismo.
+INCISO ELIMINADO.
 
 Respecto del monto máximo del subsidio aludido en el número 5 precedente, las bases podrán dividirlo en dos partes; una destinada a la inversión inicial necesaria para la ejecución de las obras e instalaciones comprometidas en el proyecto, y la otra destinada a asegurar la continuidad de las prestaciones durante un determinado periodo. En este último caso, la forma de pago del subsidio que establezcan las bases deberá ser consistente con el periodo de funcionamiento continuo que se persiga asegurar. La misma consistencia deberá existir respecto de la estructura de garantías que las bases exijan al adjudicatario.
 
 #### Artículo 11º
 
-El Consejo, a través del Subsecretario de Telecomunicaciones, efectuará los llamados a concurso mediante avisos publicados en el Diario Oficial los días 1º o 15º del mes que corresponda o al día siguiente hábil, en caso que alguno de éstos fuese feriado.
+El Consejo, a través del Subsecretario de Telecomunicaciones, efectuará los llamados a concurso mediante avisos publicados en el Diario Oficial.
 
 #### Artículo 12º
 
@@ -176,7 +178,7 @@ Se podrán presentar al concurso las personas jurídicas que cumplan con los req
 
 Una vez evaluadas las propuestas por la Subsecretaría, el Consejo asignará los proyectos y, según el caso, sus respectivos subsidios, a las postulantes cuyas propuestas, ajustándose cabalmente a las bases del concurso, requieran el mínimo subsidio por una sola vez. En caso de empate, se asignará el proyecto al postulante que ofrezca mayor cantidad de prestaciones adicionales. De subsistir el empate, se asignará el proyecto al postulante que comprometa un menor plazo para el inicio de los servicios. De no resolverse la asignación de conformidad a las normas precedentes, ésta será definida mediante sorteo.
 
-De acuerdo a lo anterior, los proyectos y sus respectivos subsidios se asignarán a las postulantes que obtengan el mayor puntaje, según la siguiente fórmula:
+INCISO ELIMINADO.
 
 #### Artículo 14º
 
@@ -224,15 +226,11 @@ También deberá dejarse constancia que durante un determinado periodo, contado 
 
 El decreto de concesión deberá publicarse en el Diario Oficial, a costa de la concesionaria, dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique que el decreto fue totalmente tramitado por la Contraloría General de la República. La no publicación del decreto, dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la ley.
 
-## Capítulo VI
+CAPITULO VI De las Recepciones de Obras.- DEROGADO.
 
-De las Recepciones de Obras
+#### Artículo 20
 
-#### Artículo 20º
-
-La concesionaria o permisionaria no podrá iniciar la operación de los servicios del respectivo proyecto o de cada una de las etapas de éste, según corresponda, sin que sus obras e instalaciones hayan sido previamente autorizadas por la Subsecretaría. Esta autorización se otorgará al comprobarse que las obras e instalaciones se encuentran correctamente ejecutadas y corresponden al proyecto técnico aprobado.
-
-La Subsecretaría tendrá un plazo de 30 días hábiles, contados desde la fecha de presentación de la solicitud por el interesado, para ejecutar la recepción de obras e instalaciones.
+DEROGADO
 
 ## Capítulo VII
 
