@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.291, de 22 de mayo de 2013 de esta Subsecretaría, recházanse las solicitudes números 210103009, 21010504, 209105015, 208105011, 209105014, 206105023, 209105010, 207104023, 209104008, 210104004, 209101134, 211121066, individualizadas en la resolución extractada, y publicada en www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de mayo de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
