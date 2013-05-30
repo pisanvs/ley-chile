@@ -1,0 +1,9 @@
+APRUEBA REFORMA DE ESTATUTOS DE COMPAÑÍA DE SEGUROS GENERALES PENTA SECURITY S.A.
+
+Certifico: Que por resolución exenta Nº 156, de fecha 17 de mayo de 2013, esta Superintendencia de Valores y Seguros aprobó la reforma de estatutos de Compañía de Seguros Generales Penta Security S.A., acordada en junta extraordinaria de accionistas celebrada el 27 de diciembre de 2012, reducida a escritura pública el 10 de enero de 2013, y complementada por escritura pública de 1º de abril de 2013, según requerimiento efectuado por oficio ord. Nº 6.175, de 18 de marzo de 2013, ambas otorgadas ante Notaría Santiago de don Patricio Raby Benavente, domiciliado en Gertrudis Echeñique Nº 30 oficina Nº 44, Las Condes.
+
+Se aumenta el capital social de $18.390.914.128 pesos, dividido en 9.231.154 acciones normativas, sin valor nominal de una misma serie, el cual se encuentra totalmente suscrito y pagado a $38.553.225.352 pesos, dividido en 14.613.648 acciones nominativas, de una misma serie, sin valor nominal.
+
+El aumento de capital se paga con $20.553.225.352 pesos, dividido en 9.231.154 acciones nominativas, sin valor nominal, de una misma serie, que corresponde al capital aprobado en junta ordinaria de accionistas de fecha 25 de abril de 2012, que incluye el cálculo de la revalorización del capital propio, íntegramente suscrito y pagado y con $18.000.000.000 pesos, dividido en 5.382.530 acciones de pago, las que deberán ser pagadas dentro del plazo de tres años contados desde el 27 de diciembre de 2012. Se modifican los artículos cuarto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 17 de mayo de 2013.- Carmen Undurraga Martínez, Secretario General.
