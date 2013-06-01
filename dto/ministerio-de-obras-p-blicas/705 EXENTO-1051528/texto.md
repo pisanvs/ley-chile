@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº705, de 07 de mayo de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) N°3992, de 24 de noviembre de 2011, a fin de individualizar correctamente el lote de terreno N°6, ubicado en la comuna de Tierra Amarilla, que figura a nombre de COLMAN ZOILA ROSA, rol de avalúo 3-23, superficie 108 m2., complementando el informe de tasación emitido el 17 de junio de 2011, mediante acta emanada de la misma comisión el 17 de octubre de 2012, expropiado con motivo de la obra "Mejoramiento Puente Ojancos y Accesos Tierra Amarilla, Región de Atacama", Comuna de Tierra Amarilla, Provincia de Copiapó, III Región.
+
+Fiscal del Ministerio de Obras Públicas.
