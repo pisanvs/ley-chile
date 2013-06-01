@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº674, de 07 de mayo de 2013, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°451, de 28 de marzo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°3, expropiado con motivo de la obra: "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui". Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 24 de febrero de 2010, en la suma de $5.490.400, para el lote N°3.
+
+Fiscal del Ministerio de Obras Públicas.
