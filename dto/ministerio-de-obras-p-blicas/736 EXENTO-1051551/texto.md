@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº736 de 9 de mayo de 2013, se modificó el numeral segundo del Decreto MOP (Exento) N°1885 de 31 de agosto de 2012, que ordenó la expropiación de los Lotes N°4, 5 y 6, en la parte que se refiere al número de rol de avalúo y nombre de los propietarios según el Servicio de Impuestos Internos, debe decir: propietario según S.I.I. BELTRAN MESSEN DANIEL, rol de avalúo 1562-42, Comuna de Los Ángeles, expropiado con motivo de la obra "Reposición Pte. Quilque, Ruta Q-262 Tres Vientos - Millantú, Los Ángeles", Comuna de Los Ángeles, Provincia de Bío Bío, VIII Región del Bío Bío. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
