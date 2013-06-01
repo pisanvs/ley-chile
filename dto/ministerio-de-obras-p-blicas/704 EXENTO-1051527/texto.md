@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº704, de 07 de mayo de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) N°753, de 23 de abril de 2012, a fin de individualizar correctamente el lote de terreno N°92-A, ubicado en la comuna de Copiapó, que figura a nombre de VERASAY VALLE JUAN Y OTROS, rol de avalúo 512-311, superficie 9.232 m2., complementando el informe de tasación emitido el 25 de noviembre de 2011, mediante acta emanada de la misma comisión el 17 de diciembre de 2012, expropiado con motivo de la obra "Ampliación Ruta 5, Sector Copiapó - Toledo, Tramo IV", Comuna de Copiapó, Provincia de Copiapó, III Región de Atacama.
+
+Fiscal del Ministerio de Obras Públicas.
