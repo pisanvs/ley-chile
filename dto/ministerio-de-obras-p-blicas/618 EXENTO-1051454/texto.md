@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº618, de 26 de abril de 2013, se modificó el numeral tercero de Decreto Exento MP. N°485, de 30 de abril de 2010, en la parte que se refiere al monto de indemnización provisional correspondiente al lote N°7, donde dice $1.278.300, debe decir $1.688.300.-, expropiado con motivo de la obra "Conservación Global de Varios Caminos, Sector Norte de la Provincia de Osorno II Etapa", comuna de San Juan de la Costa, Provincia de Osorno.
+
+Fiscal del Ministerio de Obras Públicas.
