@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº677, de 07 de mayo de 2013, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°603, de 29 de marzo de 2012, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°89, expropiado con motivo de la obra: "Mejoramiento Camino 64D825, Sector Salamanca - Quelén Bajo", Comuna de Salamanca, IV Región de Coquimbo". Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 05 de junio de 2011, en la suma de $1.276.800, para el lote N°89.
+
+Fiscal del Ministerio de Obras Públicas.
