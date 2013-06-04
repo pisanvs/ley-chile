@@ -20,19 +20,11 @@ Marca:
 
 Apolo
 
-Barclay
-
 Belmont
-
-Bond
-
-Camel
 
 Derby
 
 Dunhill
-
-Gold Carlo
 
 Hilton
 
@@ -48,19 +40,9 @@ Latino
 
 Lucky Stricke
 
-Málaga
-
 Malboro
 
-Muriel
-
-Next
-
-News
-
 Pacific
-
-Palermo
 
 Pall Mall
 
@@ -68,19 +50,7 @@ Parliament
 
 Phillip Morris
 
-Rabi Ho
-
-Rabi Professional
-
-Ruta 69
-
-Salem
-
 Viceroy
-
-Winston
-
-Yves Saint Laurent.
 
 2º Ordenar a los fabricantes o importadores de los productos señalados en el punto anterior que deberán dar cumplimiento a la advertencia sanitaria y la información respecto a los componentes del producto, todo ello en conformidad con el decreto supremo Nº69 de 2008 del Ministerio de Salud o los sucesivos decretos supremos dictados en virtud del artículo 6º de la ley 19.419.
 
