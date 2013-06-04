@@ -43,3 +43,23 @@ Decreto:
 Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones Subrogante.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº 31, de 2013, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Telecomunicaciones
+
+Nº 18.206.- Santiago, 22 de marzo de 2013.
+
+Esta Contraloría General ha dado curso al documento individualizado en el rubro, que modifica, por cambio de titular, las concesiones de radiodifusión sonora en frecuencia modulada que se indican para las localidades de Baños Morales, El Volcán y San Gabriel, pero cumple con señalar que ese Ministerio deberá adoptar en las instancias que correspondan las medidas que sean procedentes en relación con lo sostenido por esa Secretaría de Estado en la resolución de fecha 24 de octubre de 2012, en orden a haberse constatado una diferencia entre la ubicación de las instalaciones relativas a una concesión otorgada a la empresa Indestel Limitada y la consignada en el decreto de otorgamiento respectivo, las que deberán ser informadas a esta Entidad Fiscalizadora.
+
+Saluda atentamente a Ud., por orden del Contralor General de la República, Jefe Subdivisión Jurídica, División de Infraestructura y Regulación.
+
+Al señor
+
+Ministro de Transportes y Telecomunicaciones
+
+Presente.
