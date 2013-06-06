@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.224, de 17 de mayo de 2013, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 603 de 2013, de esta Subsecretaría, que autorizó a AT-EME S.A. para efectuar una pesca de investigación del proyecto denominado "Monitoreo de la fauna y flora acuática central termoeléctrica Yungay; Monitoreo ambiental limnológico proyecto despacho de drenajes de botaderos para utilización externa; Proyecto hidroeléctrico central Cóndor 3, y Programa de Seguimiento y Monitoreo de calidad de Agua, Flora y Fauna Acuática, Etapa IV", en el sentido de sustituir la frase "en el Embalse El Bato, IV Región de Coquimbo, Río Aconcagua, sector Saladillo, V Región de Valparaíso, Ríos Biobío y Quilmes, Estero Los Guindos y canal Zañartu, en la VIII Región de Biobío" por la siguiente: "en cursos y cuerpos de agua continentales de Chile".
+
+El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 17 de mayo de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
