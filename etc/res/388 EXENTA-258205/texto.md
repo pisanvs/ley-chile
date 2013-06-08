@@ -26,7 +26,25 @@ Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-Av. Santa Rosa Lo Ovalle Placer Ambos sentidos
+Eliminado.
+
+Av. Santa Rosa Placer Av. Libertador Habitual S-N
+
+Bernardo
+
+O'Higgins
+
+(Alameda)
+
+Mac Iver Av. Ismael Valdés Habitual S-N
+
+Libertador Vergara
+
+Bernardo
+
+O'Higgins
+
+(Alameda)
 
 Av. Santa Rosa Placer Av. Libertador Habitual S-N
 
@@ -48,21 +66,7 @@ O'Higgins
 
 b) EJE SAN DIEGO - BANDERA
 
-VÍA DESDE HASTA SENTIDO VÍA
-
-EXCLUSIVA
-
-SAN DIEGO Tarapacá Paso Bajo Habitual S-N
-
-nivel
-
-(Alameda)
-
-BANDERA Paso Bajo Av. General
-
-nivel Mackenna Habitual S-N
-
-(Alameda)
+Eliminado.
 
 c) EJE SAN ANTONIO - SAN FRANCISCO
 
