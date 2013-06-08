@@ -74,19 +74,59 @@ Para efectos del procedimiento de acreditación y verificación uniforme de la i
 
 En el caso de existir diferencias o inconsistencias entre la información entregada por las personas y familias en el Instrumento Técnico de Focalización, con la información que se obtenga del cruce de registros administrativos señalados en el inciso anterior, primará la que se obtenga de estos últimos.
 
-#### Artículo 6º
+#### Artículo 6°
 
 Focalización.- El procedimiento de focalización considerará las siguientes etapas:
 
-a) Determinación de las familias y personas que cuentan con encuesta vigente del Instrumento Técnico de Focalización;
+a) Determinación de las familias y personas que
 
-b) Determinación de las personas y familias que se encuentran dentro del 10% más vulnerable de la población nacional encuestada en el Instrumento Técnico de Focalización;
+cuentan con el último cuestionario vigente del
 
-c) Con quienes se encuentren dentro del 10% antes señalado, se elaborará una nómina de las personas y familias a calificar en orden de menor a mayor puntaje; y, finalmente
+Instrumento Técnico de Focalización;
 
-d) Se identificará a todas aquellas personas o familias de la nómina que, en virtud de la información que se disponga, se encuentren en situación de pobreza extrema de conformidad con la ley. Para estos efectos se considerarán a lo menos, los datos disponibles respecto de ingresos de la familia, la composición familiar y los montos de subsidios monetarios que actualmente reciban.
+b) Determinación de las personas y familias que se
 
-El procedimiento de focalización del inciso anterior también se aplicará para los efectos del artículo duodécimo transitorio de la ley.
+encuentran dentro del 10% más vulnerable de la
+
+población nacional encuestada en el Instrumento
+
+Técnico de Focalización, según los datos
+
+recabados a través del último cuestionario
+
+vigente;
+
+c) Respecto de quienes se hallen dentro del 10%
+
+antes señalado, se identificará a las personas y
+
+familias que se encuentren en situación de
+
+pobreza extrema de conformidad con la ley. Para
+
+estos efectos se considerarán, a lo menos, los
+
+datos disponibles respecto de ingresos de la
+
+persona o familia, la composición familiar y los
+
+montos de subsidios monetarios que actualmente
+
+reciban; y finalmente,
+
+d) Para efectos de su calificación, se elaborará
+
+una nómina de las personas y familias
+
+identificadas conforme a lo establecido en la
+
+letra precedente, en orden de menor a mayor
+
+puntaje.
+
+Podrán ser identificadas personas y familias que se encuentran sobre el 10% y hasta el 20% más vulnerable de la población nacional encuestada en el Instrumento Técnico de Focalización, según los datos recabados a través del último cuestionario vigente, cuando de la información que se disponga, se verifique que ellas se encuentran en situación de pobreza extrema.
+
+El procedimiento de focalización de este artículo también se aplicará para los efectos del artículo duodécimo transitorio de la ley, en cuyo caso las referencias realizadas a 'situación de pobreza extrema', se entenderán hechas a 'situación de pobreza'.
 
 #### Artículo 7º
 
@@ -116,11 +156,11 @@ Confidencialidad.- Las personas que, en virtud de lo dispuesto en el presente Re
 
 #### Artículo primero
 
-Desde la fecha de publicación del presente Reglamento en el Diario Oficial y hasta el 31 de diciembre de 2013 o la fecha de publicación del Reglamento a que se refiere el artículo 5º de la ley Nº 20.379 si esta última data fuera anterior a aquella, el Instrumento Técnico de Focalización será la Ficha de Protección Social regulada por el decreto supremo Nº 291, de 2006, del Ministerio de Desarrollo Social. Durante este período, para cumplir con lo dispuesto en la letra b) del artículo 6º, y para que se aplique el procedimiento de focalización a que se refiere este Reglamento se requerirá que las familias y personas por aplicación de la Ficha de Protección Social cuenten con un puntaje igual o inferior a 4.213 puntos. Además, para efectos de lo dispuesto en la letra c) del artículo 6º, las personas y familias deberán contar con la aplicación del último cuestionario vigente de la Ficha de Protección Social. En lo demás, se aplicará lo establecido en el Título II del presente Reglamento.
+Hasta la fecha de publicación del Reglamento a que se refiere el artículo 5º de la ley Nº 20.379, el Instrumento Técnico de Focalización será la Ficha de Protección Social regulada por el Decreto Supremo Nº291, de 2006, del Ministerio de Desarrollo Social.
 
 #### Artículo segundo
 
-El inciso primero del artículo 7º entrará en vigencia a partir del 1 enero de 2014. Durante el año 2013, el procedimiento a que se refiere dicho inciso podrá aplicarse cada dos meses a contar de la fecha de publicación del presente Reglamento, pudiendo el Ministerio de Desarrollo Social calificar, en cualquier momento, a más personas y familias como usuarios potenciales.
+El inciso primero del artículo 7º entrará en vigencia a partir del 1 de enero de 2015. Durante el año 2013 y 2014, el procedimiento a que se refiere dicho inciso podrá aplicarse cada dos meses a contar de la fecha de publicación del presente Reglamento, pudiendo el Ministerio de Desarrollo Social calificar, en cualquier momento, a más personas y familias como usuarios potenciales.
 
 Anótese, tómese de razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Desarrollo Social.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
