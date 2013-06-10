@@ -136,7 +136,7 @@ No se perderá la subvención en el caso en que la repitencia en un mismo curso 
 
 #### Artículo 11
 
-El Ministerio de Planificación y Cooperación, el último día hábil del mes de octubre de cada año, certificará la pertenencia de los alumnos y alumnas a las familias identificadas como prioritarias de conformidad con el artículo 8º anterior, para lo cual emitirá un documento conteniendo el nombre completo del alumno, domicilio, rol único nacional, familia a la que pertenece, nombre y rol único nacional del jefe de familia y el programa en que se encuentra incorporada su familia.
+El Ministerio de Planificación y Cooperación, el primer día hábil del mes de marzo de cada año, certificará la pertenencia de los alumnos y alumnas a las familias identificadas como prioritarias de conformidad con el artículo 8º anterior, para lo cual emitirá un documento conteniendo el nombre completo del alumno, domicilio, rol único nacional, familia a la que pertenece, nombre y rol único nacional del jefe de familia y el programa en que se encuentra incorporada su familia.
 
 ## Título V
 
