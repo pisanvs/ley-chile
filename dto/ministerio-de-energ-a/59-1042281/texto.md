@@ -48,7 +48,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11º
 
-El plazo de inicio de los trabajos será de 240 días contados desde la fecha de reducción a escritura pública del decreto de concesión respectivo y el plazo para la terminación total de las obras será de 600 días, según las etapas y secciones que se detallan a continuación:
+El plazo de inicio de los trabajos será de 450 días contados desde la fecha de reducción a escritura pública del decreto de concesión respectivo y el plazo para la terminación total de las obras será de 600 días, según las etapas y secciones que se detallan a continuación:
 
 a) Construcción de fundaciones: 240 días a contar del inicio de los trabajos.
 
