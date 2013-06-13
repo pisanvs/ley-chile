@@ -32,7 +32,7 @@ Resolución:
 
 7. Autorízase la postulación de personas mayores de 50 años, que en su Ficha de Protección Social no cuenten con grupo familiar, sin la necesidad de cumplir con lo dispuesto en los puntos 1 al 6 de la letra g) del artículo 15 del DS Nº 49 (V. y U.), de 2011.
 
-8. Establécese que los postulantes a este llamado no podrán haber percibido un ingreso familiar promedio de más de 20 Unidades de Fomento mensuales durante el año 2011, considerando el valor de la UF vigente al 30 de noviembre de 2012. Por ingreso familiar se entiende el que han percibido todos los integrantes del núcleo familiar incorporado a la declaración de núcleo del postulante. El Minvu podrá solicitar al Ministerio de Desarrollo Social información sobre los referidos ingresos, para evaluar la elegibilidad de quienes postulan al presente llamado. Lo anterior en conformidad al artículo 3º, inciso cuarto, letra s) de la ley Nº 20.530.
+### 8. ELIMINADO
 
 9. Los recursos destinados a nivel nacional para la selección de los grupos postulantes ascienden a 1.500.000 Unidades de Fomento.
 
