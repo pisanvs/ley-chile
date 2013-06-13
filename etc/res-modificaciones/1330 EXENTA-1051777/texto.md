@@ -1,0 +1,23 @@
+MODIFICA FECHA DE ENTRADA EN APLICACIÓN DE LOS PROTOCOLOS DE ENSAYOS PARA LA CERTIFICACIÓN DE LOS PRODUCTOS CONDUCTORES ELÉCTRICOS QUE INDICA
+
+Núm. 1.330 exenta.- Santiago, 29 de mayo de 2013.- Vistos: El DFL N° 4/20.018, que fija el texto refundido, coordinado y sistematizado de la Ley General de Servicios Eléctricos en materia de energía eléctrica; el artículo 3° N° 14, de la ley N° 18.410, orgánica de esta Superintendencia; el artículo 4°, letra i), del decreto ley N° 2.224, de 1978, modificado por la ley 20.402 que crea al Ministerio de Energía; el decreto supremo N° 298, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, y la resolución N° 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1° Que mediante resolución exenta N° 960, de fecha 01.04.2011, modificada por la resolución exenta N° 3.624, de fecha 28.12.2011, y posteriormente modificada por la resolución exenta N° 2.387, de fecha 13.12.2012, se estableció entre otros conductores, que para poder comercializar en el país los productos Conductores Eléctricos para uso en baja tensión, los fabricantes, importadores y comercializadores de los mismos, deben verificar el cumplimiento de los requerimientos de seguridad, mediante la realización de los ensayos establecidos en los protocolos de ensayos indicados en la Tabla del Resuelvo 1°, todos de fecha 18.03.2011, y disponer de la certificación otorgada por algún organismo de certificación autorizado por esta Superintendencia, a partir del 01.06.2013.
+
+2° Que de acuerdo a la información obtenida de los Organismos de Certificación y Laboratorios de Ensayos, sólo uno de ellos se encuentra autorizado como Organismo de Certificación en convenio con un laboratorio extranjero (excepto 1 ensayo) y como Laboratorio de Ensayos se encuentra uno en proceso de acreditación y autorización por parte de esta Superintendencia, con exclusiones de ensayos, cuyos antecedentes presentados se están evaluando.
+
+3° Que, en virtud de lo expuesto en el Considerando 2° de la presente resolución, y además considerando los tiempos necesarios para que los Laboratorios de Ensayos y Organismos de Certificación presenten, regularicen, formalicen y obtengan la acreditación ante el INN u otro organismo de acreditación extranjero, según lo requerido en el artículo 14° del DS N° 298, y, finalmente, los tiempos necesarios para que los Laboratorios de Ensayos y Organismos de Certificación realicen las actividades necesarias conducentes a la certificación, esta Superintendencia ha determinado aplazar la fecha de aplicación de los Protocolos de Ensayos de Seguridad para los productos Conductores Eléctricos para uso en baja tensión que se indican en la Tabla del Resuelvo 1°.
+
+Resuelvo:
+
+1°. Modifícase la fecha de entrada de aplicación de los protocolos de ensayos de seguridad para la certificación correspondiente a los productos Conductores Eléctricos para uso en baja tensión, con tipos o denominaciones aprobadas mediante las resoluciones exentas mencionadas en el Considerando 1°, de acuerdo a lo señalado en la siguiente Tabla:
+
+2°. El marcado nacional, señalado en el Capítulo IV de los citados Protocolos, será obligatorio a partir del 30.06.2014, no obstante lo anterior, los fabricantes nacionales e importadores podrán marcar antes de la fecha señalada, en la medida que hayan certificado sus productos con todos los ensayos indicados en los protocolos PE Nos 2/14, 2/15, 2/16, 2/17, 2/18, 2/19 y 2/20.
+
+3°. Para poder comercializar en el país los productos Conductores Eléctricos para uso en baja tensión, los fabricantes, importadores y comercializadores de los mismos, deberán verificar que sus productos cumplan con los requerimientos de seguridad, mediante la realización de los ensayos establecidos en los protocolos de ensayos aprobados por esta Superintendencia, a través de la certificación otorgada por algún Organismo de Certificación autorizado por SEC, a partir de la fecha de aplicación considerada en la Tabla del Resuelvo 1° de la presente resolución.
+
+4°. No obstante lo anterior, los fabricantes e importadores interesados en utilizar los protocolos de ensayos para la certificación correspondiente a los productos Conductores Eléctricos señalados en la Tabla precedente, antes de su entrada en aplicación, podrán hacerlo a través de los Organismos de Certificación y Laboratorios de Ensayos que se encuentran autorizados para tal efecto.
+
+Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
