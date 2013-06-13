@@ -200,7 +200,7 @@ se refiere la letra a) del artículo 7, de incentivo y premio al
 
 ahorro adicional, para lo cual deberán acreditar el ahorro adicional
 
-al 30 de abril de 2013.
+al 31 de mayo de 2013.
 
 5.5. Al momento de la postulación, la Entidad Patrocinante entregará al
 
