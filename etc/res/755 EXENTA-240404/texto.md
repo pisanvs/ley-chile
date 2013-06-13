@@ -168,7 +168,7 @@ eléctrico o potencia
 
 2.400 a 2.483,5 MHz 50 mV/m a 3 metros
 
-i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de frecuencias 76 a 77 GHz con una potencia máxima entregada a la antena de 10 mW y con antenas con una ganancia máxima de 40 dB y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW".
+i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una P.I.R.E. máxima de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una potencia máxima entregada a la antena de 10 mW y con antenas con una ganancia máxima de 40 dB y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW".
 
 j) Otros aparatos o equipos que cumplan con lo que se establece a continuación:
 
@@ -217,6 +217,8 @@ a 300 metros
 Los equipos que operen en la banda de 1.920 - 1.930 MHz deberán emplear técnicas de selección dinámica de canales.
 
 La banda 17.100 17.300 MHz estará destinada para aplicaciones de monitoreo remoto de desplazamientos de estructuras y/o tierra, mediante el empleo de radares terrestres de apertura sintética (GBSAR: Ground Based Synthetic Aperture Radar) que empleen mecanismos que permitan la coexistencia con otros sistemas de radar que operen en la misma banda.
+
+También podrá emplearse, para aplicaciones inductivas, la banda 7.400 - 8.800 kHz con una intensidad de campo que no exceda 9 dBµA/m a 10 metros.
 
 j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
 
