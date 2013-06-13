@@ -88,7 +88,7 @@ térmica IV o superior, según lo detallado en el
 
 resuelvo 6 de la presente resolución.
 
-Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 12 de abril de 2013.
+Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 12 de abril de 2013 para Título I, II y III y Título II Acondicionamiento Térmico, y hasta el 16 de abril de 2013 para Colectores Solares.
 
 2. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
