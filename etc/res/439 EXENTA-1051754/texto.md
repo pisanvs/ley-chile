@@ -22,7 +22,7 @@ Resolución:
 
 2. Fíjase el monto de unidades de fomento comprometidas para el financiamiento de Subsidios Térmicos del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el número anterior, según la siguiente tabla:
 
-3. Comprométense los recursos disponibles en la Región de Magallanes y Antártica Chilena, para la selección del mes de abril de 2012, según la distribución señalada en el siguiente cuadro:
+3. Comprométense los recursos disponibles en la Región de Magallanes y Antártica Chilena, para la selección del mes de abril de 2013, según la distribución señalada en el siguiente cuadro:
 
 4. Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme los números 1 y 2 de esta resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva cédula nacional de identidad, el nombre del proyecto, y el puntaje obtenido por el grupo o persona.
 
