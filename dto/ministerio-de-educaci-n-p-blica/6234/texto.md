@@ -146,19 +146,19 @@ De la Propiedad Intelectual
 
 #### Artículo 17
 
-El Departamento de Derechos Intelectuales, cuya jefatura corresponde al Conservador Abogado de Derechos Intelectuales, y que tiene a su cargo el Registro de la Propiedad Intelectual, se regirá por la Ley Nº 17.336 sobre Propiedad Intelectual, sus modificaciones y los reglamentos que correspondan.
+El Registro Conservatorio de la Propiedad Intelectual se rige por el Decreto- Ley número 345, de 17 de Marzo de 1925; por el Reglamento establecido en el Decreto del Ministerio de Educación Pública núm. 1,063, de 19 de Mayo de 1925; por lo dispuesto en el Decreto del mismo Ministerio núm. 5,255, de 8 de Agosto de 1925, y por las disposiciones del presente Reglamento.
 
 #### Artículo 18
 
-Derogado.
+Las funciones de Conservador de la Propiedad Intelectual corresponden al Director General; pero el manejo de los registros y su cuidado, la escritura de las inscripciones, el arreglo y custodia del archivo, la atención del público y de la correspondencia, y, en general, todas las actividades materiales necesarias para el buen funcionamiento del servicio, son de cargo de la Secretaría de la Dirección General.
 
 #### Artículo 19
 
-Derogado.
+Además de las inscripciones a que se refiere el artículo 10 del decreto núm. 1,063, de 19 de Mayo de 1925, el Director General deberá inscribir las prohibiciones de enajenar y los embargos recaídos en el Derecho de Propiedad Intelectual.
 
 #### Artículo 20
 
-Derogado.
+Para los efectos del artículo 5.° del Decreto-Ley núm. 345, se considerarán como nacionales las obras extranjeras producidas o publicadas en Chile.
 
 Del Depósito de Publicaciones Oficiales
 
