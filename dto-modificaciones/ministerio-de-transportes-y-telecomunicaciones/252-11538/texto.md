@@ -1418,6 +1418,22 @@ Poniente R. Rucapequén/Concepción
 
 34,100 Sin Nombre Ramal San Rosendo/Talcahuano
 
+39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
+
+Variante
+
+Hualqui -
+
+Quilacoya
+
+41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
+
+Variante
+
+Hualqui -
+
+Quilacoya
+
 45,500 Hualqui Ramal San Rosendo/Talcahuano
 
 51,630 Pablo Paip Ramal San Rosendo/Talcahuano
@@ -1449,6 +1465,10 @@ Coloradas Ramal Concepción/Curanilahue
 6,680 Bío Bío
 
 L. Coloradas Ramal Concepción/Curanilahue
+
+24,190 Los Molineros Ramal Concepción-
+
+Curanilahue
 
 26,615 Sin Nombre Ramal Concepción/Curanilahue
 
