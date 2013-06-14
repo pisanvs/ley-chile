@@ -140,7 +140,7 @@ Grado 31 390
 
 Grado 32 381
 
-El salario mínimo del personal a Jornal de las Fuerzas Armadas, Carabineros de Chile e Investigaciones, será equivalente a $ 780 mensuales, el que incrementado en el primer porcentaje que establece el Artículo 28º del Reglamento del personal a Jornal y obreros a trato de las FF.AA., aprobado por decreto supremo (G) Nº 587, de 13-X-1972, significará una remuneración inicial de $ 1.014 mensuales para este personal.
+El salario mínimo del personal a Jornal de las Fuerzas Armadas, Carabineros de Chile e Investigaciones, será equivalente a $ 780 mensuales, el que incrementado en el primer porcentaje que establece el Artículo 28º del Reglamento del personal a Jornal y trabajadores a trato de las FF.AA., aprobado por decreto supremo (G) Nº 587, de 13-X-1972, significará una remuneración inicial de $ 1.014 mensuales para este personal.
 
 #### Artículo 3º
 

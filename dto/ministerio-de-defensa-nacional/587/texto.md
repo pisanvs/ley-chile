@@ -1,8 +1,8 @@
-APRUEBA REGLAMENTO DEL PERSONAL A JORNAL Y OBREROS A TRATO DE LAS FUERZAS ARMADAS
+APRUEBA REGLAMENTO DEL PERSONAL A JORNAL Y TRABAJADORES A TRATO DE LAS FUERZAS ARMADAS
 
 Santiago, 13 de octubre de 1972.- S.E. decretó hoy lo que sigue:
 
-Núm. 587.- Vistos: Que en conformidad al DFL. Nº 1 de 1968, se hace necesario reglamentar la admisión, deberes, derechos y retiro del personal a Jornal y Obreros a Trato de las Fuerzas Armadas, y
+Núm. 587.- Vistos: Que en conformidad al DFL. Nº 1 de 1968, se hace necesario reglamentar la admisión, deberes, derechos y retiro del personal a Jornal y Trabajadores a Trato de las Fuerzas Armadas, y
 
 La facultad que me otorga el artículo 72 Nº 2, de la Constitución Política del Estado,
 
@@ -14,7 +14,7 @@ De la Clasificación
 
 #### Artículo 1º
 
-Los Obreros que presten servicios en las Instituciones Armadas se clasifican en personal a Jornal y Obreros a Trato. Sus servicios los prestan en virtud de un Contrato Individual de Trabajo para desarrollar labores en que predomina el esfuerzo físico.
+Los Obreros que presten servicios en las Instituciones Armadas se clasifican en personal a Jornal y Trabajadores a Trato. Sus servicios los prestan en virtud de un Contrato Individual de Trabajo para desarrollar labores en que predomina el esfuerzo físico.
 
 #### Artículo 2º
 
@@ -22,13 +22,13 @@ El personal a Jornal será contratado por las respectivas Direcciones del Person
 
 #### Artículo 3º
 
-Los Obreros a Trato serán contratados por la Unidad o Repartición, previa autorización de la Unidad Operativa o Alta Repartición respectiva. Los Contratos de estos obreros deberán estipular un plazo fijo de contratación inferior a seis meses. Este plazo sólo será superior cuando la obra o trabajo a ejecutar debe terminar en un período superior al ya mencionado.
+Los Trabajadores a Trato serán contratados por la Unidad o Repartición, previa autorización de la Unidad Operativa o Alta Repartición respectiva. Los Contratos de estos obreros deberán estipular un plazo fijo de contratación inferior a seis meses. Este plazo sólo será superior cuando la obra o trabajo a ejecutar debe terminar en un período superior al ya mencionado.
 
-Los Obreros a Trato percibirán un salario proporcional al trabajo realizado, bajo el sistema "por hora", "por día de trabajo" o por "tarea ejecutada".
+Los Trabajadores a Trato percibirán un salario proporcional al trabajo realizado, bajo el sistema "por hora", "por día de trabajo" o por "tarea ejecutada".
 
 #### Artículo 4º
 
-El Personal a Jornal y los Obreros a Trato se clasifican de acuerdo con sus conocimientos o especialización en el oficio, en:
+El Personal a Jornal y los Trabajadores a Trato se clasifican de acuerdo con sus conocimientos o especialización en el oficio, en:
 
 Obreros Especializados (E) Obreros Semi-Especializados (SE) Obreros No Especializados (NE).
 
@@ -654,55 +654,55 @@ Para que este aviso tenga validez, deberá contener los motivos que inducen al f
 
 ## Capítulo XVI
 
-De los obreros a trato
+De los trabjadores a trato
 
 #### Artículo 79
 
-o- Los Obreros a Trato serán controlados directamente por las Reparticiones o Unidades.
+o- Los Trabajadores a Trato serán controlados directamente por las Reparticiones o Unidades.
 
 Los contratos de estos obreros estarán supeditados a la autorización previa de la Autoridad Militar señalada en el artículo 3.o de este Reglamento y en ellos deberá estipularse un plazo de duración fijo o máximo, que en ningún caso podrá ser superior a seis meses. Asimismo, estos contratos tampoco podrán ser renovados cuando tomados varios en conjunto excedan dicho plazo. Se exceptúa de lo anterior al personal de servicio doméstico a quien podrá renovárseles el contrato cada 6 meses.
 
 Cuando la obra que debe realizarse pueda exigir un trabajo superior a seis meses, podrá celebrarse contrato de trabajo por el tiempo necesario para terminarla, en cuyo caso será causal de término del mismo la concurrencia de cualquiera de las condiciones que se señalan en el artículo 2.o de la ley número 16.455.
 
-Queda prohibido contratar Obreros a Trato con otros fondos que no sean los provenientes de la Ley de Presupuesto, y los contratos deberán ajustarse estrictamente a los recursos contemplados en dicha ley, salvo que disposiciones especiales autoricen a determinados organismos para hacerlos con fondos especiales.
+Queda prohibido contratar Trabajadores a Trato con otros fondos que no sean los provenientes de la Ley de Presupuesto, y los contratos deberán ajustarse estrictamente a los recursos contemplados en dicha ley, salvo que disposiciones especiales autoricen a determinados organismos para hacerlos con fondos especiales.
 
 #### Artículo 80
 
-o- Para ingresar en calidad de Obrero a Trato, el postulante deberá reunir los requisitos y documentación que exija el Comandante de la Repartición que lo contratará, siendo documentación imprescindible de estos obreros, la Libreta de Seguro Social, Cédula de Identidad, Certificado de Situación Militar, Certificado de Antecedentes y Certificado de Inscripción Electoral, cuando proceda.
+o- Para ingresar en calidad de Trabajador a Trato, el postulante deberá reunir los requisitos y documentación que exija el Comandante de la Repartición que lo contratará, siendo documentación imprescindible de estos obreros, la Libreta de Seguro Social, Cédula de Identidad, Certificado de Situación Militar, Certificado de Antecedentes y Certificado de Inscripción Electoral, cuando proceda.
 
 El límite máximo de edad de contratación de estos obreros será de 55 años.
 
 #### Artículo 81
 
-o- En caso de contratarse un Obrero a Trato que no estuviere afecto al Servicio de Seguro Social, el Comandante de la Unidad pertinente o Jefe de la Repartición correspondiente adoptará las medidas necesarias para hacerlo imponente de dicho Servicio dentro del plazo de diez días a contar de aquél en que el obrero haya comenzado a trabajar.
+o- En caso de contratarse un Trabajador a Trato que no estuviere afecto al Servicio de Seguro Social, el Comandante de la Unidad pertinente o Jefe de la Repartición correspondiente adoptará las medidas necesarias para hacerlo imponente de dicho Servicio dentro del plazo de diez días a contar de aquél en que el obrero haya comenzado a trabajar.
 
 #### Artículo 82
 
-o- La jornada de trabajo de los Obreros a Trato estará condicionada a lo señalado en el Capítulo III. del Título II. de este Reglamento y la cancelación del salario se hará en proporción a la obra ejecutada, considerando el valor total de ella y el trabajo realizado.
+o- La jornada de trabajo de los Trabajadores a Trato estará condicionada a lo señalado en el Capítulo III. del Título II. de este Reglamento y la cancelación del salario se hará en proporción a la obra ejecutada, considerando el valor total de ella y el trabajo realizado.
 
 #### Artículo 83
 
-o- Los Obreros a trato tendrán derecho a los beneficios de asignación familiar, viáticos, pasajes y fletes y gratificación de zona, de acuerdo con la ley aplicable al personal de la Administración Civil del Estado.
+o- Los Trabajadores a trato tendrán derecho a los beneficios de asignación familiar, viáticos, pasajes y fletes y gratificación de zona, de acuerdo con la ley aplicable al personal de la Administración Civil del Estado.
 
 #### Artículo 84
 
-o- El reconocimiento de cualquier beneficio que corresponda a los Obreros a Trato será resuelto por la respectiva Jefatura que autorizó la contratación.
+o- El reconocimiento de cualquier beneficio que corresponda a los Trabajadores a Trato será resuelto por la respectiva Jefatura que autorizó la contratación.
 
 #### Artículo 85
 
-o- El día de pago para los Obreros a Trato será aquel que se estipule en el Contrato de Trabajo, no pudiendo exceder a períodos superiores a 30 días.
+o- El día de pago para los Trabajadores a Trato será aquel que se estipule en el Contrato de Trabajo, no pudiendo exceder a períodos superiores a 30 días.
 
 #### Artículo 86
 
-o- Las obligaciones, prohibiciones y sanciones para los Obreros a Trato serán idénticas a las que dispone el presente Reglamento para el Personal a Jornal.
+o- Las obligaciones, prohibiciones y sanciones para los Trabajadores a Trato serán idénticas a las que dispone el presente Reglamento para el Personal a Jornal.
 
 #### Artículo 87
 
-o- Los Obreros a Trato estarán acogidos al régimen previsional del Servicio de Seguro Social. Los riesgos de enfermedad, invalidez, vejez y muerte, les serán cubiertos por dicho servicio en conformidad a lo establecido en las leyes números 10.383 y 16.744 y leyes posteriores que las modifiquen. Para tal efecto, las reparticiones para las cuales trabajen estos obreros deberán mantenerles al día el estampillaje de la Libreta de Seguro Social por concepto de imposiciones de aporte obrero y aporte patronal.
+o- Los Trabajadores a Trato estarán acogidos al régimen previsional del Servicio de Seguro Social. Los riesgos de enfermedad, invalidez, vejez y muerte, les serán cubiertos por dicho servicio en conformidad a lo establecido en las leyes números 10.383 y 16.744 y leyes posteriores que las modifiquen. Para tal efecto, las reparticiones para las cuales trabajen estos obreros deberán mantenerles al día el estampillaje de la Libreta de Seguro Social por concepto de imposiciones de aporte obrero y aporte patronal.
 
 #### Artículo 88
 
-o- El Contrato de Trabajo de los Obreros a Trato terminará por expiración del plazo del contrato, si es inferior a seis meses, o por la conclusión del trabajo o servicio que dieron origen al respectivo contrato, sin perjuicio de que puedan ser procedentes las demás causales a que se refiere la ley N.o 16.455, de 6 de Abril de 1966.
+o- El Contrato de Trabajo de los Trabajadores a Trato terminará por expiración del plazo del contrato, si es inferior a seis meses, o por la conclusión del trabajo o servicio que dieron origen al respectivo contrato, sin perjuicio de que puedan ser procedentes las demás causales a que se refiere la ley N.o 16.455, de 6 de Abril de 1966.
 
 ## Capítulo XVII
 
@@ -710,13 +710,11 @@ Disposiciones Generales
 
 #### Artículo 89
 
-o- La reglamentación para el Personal a Jornal y Obreros a Trato será aprobada por resolución interna de las Divisiones y Altas Reparticiones del Ejército y sus equivalentes en la Armada y Fuerza Aérea, previo visto bueno de la Dirección del Personal respectiva. En conformidad a lo establecido en el Art.
-
-94.o del Código del Trabajo, esta reglamentación interna deberá ponerse en conocimiento de los obreros 15 días antes de la fecha en que comience a regir.
+o- La reglamentación para el Personal a Jornal y Trabajadores a Trato será aprobada por resolución interna de las Divisiones y Altas Reparticiones del Ejército y sus equivalentes en la Armada y Fuerza Aérea, previo visto bueno de la Dirección del Personal respectiva. En conformidad a lo establecido en el Art. 94.o del Código del Trabajo, esta reglamentación interna deberá ponerse en conocimiento de los obreros 15 días antes de la fecha en que comience a regir.
 
 #### Artículo 90
 
-o- Cuando se presenten casos no establecidos en el presente Reglamento, tanto el Personal a Jornal como los Obreros a Trato se regirán por las normas aplicables para los Obreros a Jornal de la Administración Civil del Estado y por las disposiciones del Código del Trabajo, que no se opongan a este Reglamento.
+o- Cuando se presenten casos no establecidos en el presente Reglamento, tanto el Personal a Jornal como los Trabajadores a Trato se regirán por las normas aplicables para los Obreros a Jornal de la Administración Civil del Estado y por las disposiciones del Código del Trabajo, que no se opongan a este Reglamento.
 
 ## Capítulo XVIII
 
@@ -748,7 +746,7 @@ o- El Personal a Jornal en actual servicio pagado con fondos propios de las Repa
 
 #### Artículo 96
 
-o- El Personal que se encontraba en servicio al 30 de Diciembre de 1969 como Obrero a Jornal y el de Servicio Doméstico, que no reúna alguno de los requisitos para ingresar como Personal a Jornal y previa solicitud del mismo, podrá hacerlo en calidad de Obrero a Trato con contratos renovables cada 6 meses.
+o- El Personal que se encontraba en servicio al 30 de Diciembre de 1969 como Obrero a Jornal y el de Servicio Doméstico, que no reúna alguno de los requisitos para ingresar como Personal a Jornal y previa solicitud del mismo, podrá hacerlo en calidad de Trabajador a Trato con contratos renovables cada 6 meses.
 
 #### Artículo 97
 
