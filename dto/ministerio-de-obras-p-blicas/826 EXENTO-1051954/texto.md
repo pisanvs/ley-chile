@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº 826 de 20 de mayo de 2013, que dejó sin efecto los Decretos MOP N° 1620 y 1671 de 18 de agosto de 2011, que ordenó, la expropiación de los lotes N° 2-A y 2-B, por no ser necesarios para la obra pública "Proyecto Definitivo Puente Quehue, camino Pucón – Curarrehue, sector Km. 0,00000 a Km. 0,76686", Comuna de Pucón, IX Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
