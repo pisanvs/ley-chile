@@ -1,0 +1,7 @@
+DISPONE DESISTIMIENTOS Y RECTIFICACIÓN DE EXPROPIACIÓN TOTAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta 2.976, 3 de junio 2013, Serviu Región del Biobío rectifica resolución exenta 369, 28 de enero de 2011, que ordenó expropiación total de un inmueble ubicado en 12 de Octubre Nº 3876 D 103 Leonera, Chiguayante, Rol de Avalúo Nº 3251-00089, de la comuna de Chiguayante, de aparente dominio de Cifuentes Cuevas José Luis, y que afecta al Depto. de una superficie de 41,44 m² de terreno y los derechos cuotativos que recaen en los bienes comunes correspondientes al mismo (superficie común edificada = 4,08 m² y superficie común de terreno = 42,71 m², según plano S8R-26.442, en orden a señalar que se rectifica en su visto f), y en el resuelvo 1º donde dice rol de avalúo "3251-00089" y aparente propietario "Cifuentes Cuevas José Luis", debe decir: rol de avalúo "03271-00010" y aparente propietario "María Lillo Viveros y otros", ordenó su publicación y acompañar copia de esta resolución exenta rectificatoria y de este extracto al expediente Rol Voluntario 63-2011 del Tercer Juzgado Civil de Concepción conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186.-
+
+Director Serviu Región del Biobío.
