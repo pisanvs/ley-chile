@@ -92,7 +92,23 @@ Con este subsidio no se podrán adquirir viviendas usadas en condominios sociale
 
 Beneficios para ocupantes
 
-7.3. Los ocupantes que no son dueños de otra vivienda recibirán un monto de UF 46 para solventar sus gastos de traslado y otros asociados a la obtención de una residencia transitoria. Este monto se pagará en 4 cuotas semestrales: la primera de ellas contra recepción conforme por parte del Serviu del inmueble, y corresponderá a UF 22; la segunda será de UF 12, y la tercera y cuarta cuotas, de UF 6 cada una. El Serviu podrá pagar el saldo total de este beneficio contra la presentación de una escritura de compraventa de una vivienda adquirida en virtud de este llamado.
+7.3. Los ocupantes que no son dueños de otra
+
+vivienda, recibirán un monto de UF 46 para
+
+solventar sus gastos de traslado y otros
+
+asociados a la obtención de una residencia
+
+transitoria. Corresponderá al Serviu respectivo
+
+determinar los mecanismos de pago de este
+
+subsidio con el fin de facilitar la adquisición
+
+de una nueva vivienda y el arriendo transitorio
+
+en su caso.
 
 Este beneficio será compatible con el regulado en el resuelvo 7.1.
 
