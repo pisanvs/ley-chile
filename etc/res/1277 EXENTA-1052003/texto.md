@@ -1,0 +1,5 @@
+Por resolución exenta N° 1.277, de 22 de mayo de 2013, de esta Subsecretaría, autorízase a MARINE HARVEST CHILE S.A. para realizar actividad experimental de acuicultura con Salmón del Atlántico y Trucha arcoíris, cuyo objetivo es evaluar el campo piloto de la eficacia y seguridad de un producto para la prevención y control de la infestación de Caligus.
+
+Las actividades se desarrollarán por 12 meses, desde fecha de publicación, en centro de cultivo inscrito con Nº 2.182 del Registro Nacional de Acuicultura, y en concesión de acuicultura transferida por resolución Nº 1.439, de 1992, de la Subsecretaría de Marina, cumpliendo con la normativa vigente y en la forma indicada en el informe técnico y resolución extractada.
+
+Valparaíso, 22 de mayo de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
