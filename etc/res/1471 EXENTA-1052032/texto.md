@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.471, de 12 de junio de 2013, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.180, de 2007, sólo en cuanto autorizó a PESQUERA BÍO BÍO S.A., para ampliar actividades pesqueras extractivas con la nave en construcción "BEC 1180/07", respecto de los recursos hidrobiológicos Jibia y Congrio dorado en el área marítima comprendida entre la V a VII Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 12 de junio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
