@@ -604,7 +604,7 @@ La fecha de otorgamiento de la licencia de conductor deberá corresponder al dí
 
 #### Artículo 7º
 
-Los exámenes teóricos establecidos en el D.S. Nº 97/84 antes referido, deberán contener el número de preguntas que indican los siguientes cuadros:
+Los exámenes teóricos establecidos en el D.S. Nº 97/84 antes referido, deberán contener el número de preguntas que indica el siguiente cuadro:
 
 Nº de preguntas de: Clase de Licencia
 
@@ -628,71 +628,29 @@ Total preguntas 20 20 12 10
 
 * Las clases de licencia A1 y A2 antes indicadas, se refieren a las licencias Clase A1 y A2 otorgadas antes del 8 de marzo de 1997.
 
-Nº de preguntas de: Licencia de Conductor
-
-Profesional
-
-A1 A2 A3 A4 A5
-
-Conocimientos legales 5 5 5 5 5
-
-Conducta vial 5 5 5 5 5
-
-Conocimientos reglamentarios 5 5 5 5 5
-
-Conocimientos mecánica 5 5 5 5 5
-
-Total preguntas 20 20 20 20 20
-
 Las preguntas antes indicadas deberán ser extraídas del Cuestionario Base elaborado por el Ministerio de Transportes y Telecomunicaciones para uso de las Municipalidades.
 
-Tratándose de postulantes a licencia profesional Clase A1, A2, A3, A4 y A5, los conocimientos teóricos se acreditarán por medio de un certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, sin perjuicio del deber por parte del Director de Tránsito y Transporte Público de la Municipalidad respectiva de adoptar las medidas que estime necesarias, a fin de comprobar la efectividad de dichos conocimientos. El examen teórico municipal deberá contener el número de preguntas que se señala en el cuadro precedente y será aplicable tanto para la obtención de la licencia como para los exámenes de control.
+Tratándose de postulantes a licencia de conductor profesional, junto a la acreditación de los conocimientos teóricos por medio de un certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, éstos deberán rendir el examen de conocimientos teóricos de la conducción correspondiente a la clase de licencia profesional que se postula y de las disposiciones legales y reglamentarias que rigen al tránsito público, a través de un sistema informático administrado por el Ministerio de Transportes y Telecomunicaciones. Se entenderá por sistema informático para efectos del presente decreto, el conjunto de los programas computacionales que posibilitarán la rendición del examen teórico en los municipios. Los programas que residirán en cada municipio descargarán periódicamente los exámenes disponibles desde un servidor alojado para tal efecto en la Subsecretaría de Transportes. Esta aplicación informática alojada en el servidor será responsable de la generación de exámenes aleatorios a partir de un banco de preguntas cuya administración asume el Ministerio de Transportes y Telecomunicaciones.
+
+El examen para postulantes a licencia de conductor profesional constará de 20 preguntas aleatorias y se aprobará con un mínimo de 17 respuestas correctas.
 
 En el caso de postulantes a licencia especial Clase F, los conocimientos teóricos de conducción, así como de las disposiciones legales y reglamentarias que rigen el tránsito público, se acreditarán por medio de un certificado emitido por la respectiva institución en que conste la aprobación de los cursos institucionales que se impartan para el efecto.
 
 Para postulantes a licencia Clase E, el examen de conocimientos teóricos de las disposiciones legales y reglamentarias que rigen el tránsito público necesariamente deberá comprender, a lo menos, una pregunta sobre tres señales de tránsito efectuada verbalmente, computándose la respuesta del postulante como correcta, sólo si las tres señales que constituyen una pregunta son respondidas acertadamente.
 
-Tratándose de postulantes a licencias de conductor de las Clases B y C, el examen de conocimientos teóricos de la conducción y de las disposiciones legales y reglamentarias que rigen al tránsito público, será rendido a través de un sistema informático administrado por el Ministerio de Transportes y Telecomunicaciones. Se entenderá por sistema informático, para efectos del presente decreto, el conjunto de los programas computacionales que posibilitarán la rendición del examen teórico en los municipios. Los programas que residirán en cada municipio descargarán periódicamente los exámenes disponibles desde un servidor alojado para tal efecto en la Subsecretaría de Transportes. Esta aplicación informática alojada en el servidor será responsable de la generación de exámenes aleatorios a partir de un banco de preguntas cuya administración asume el Ministerio de Transportes y Telecomunicaciones.
+Tratándose de postulantes a licencias de conductor de las Clases B y C, el examen de conocimientos teóricos de la conducción y de las disposiciones legales y reglamentarias que rigen al tránsito público, será rendido a través del sistema informático a que se refiere el inciso tercero.
 
 El examen constará de 35 preguntas aleatorias, 3 de las cuales tendrán doble puntuación. La doble puntuación atenderá a materias vinculadas al consumo de alcohol, velocidad, casco protector, cinturón de seguridad y sistemas de retención infantil. El examen se aprobará obteniendo un mínimo de 33 puntos de un máximo de 38.
 
 La puesta en marcha del examen teórico informatizado en los Gabinetes Técnicos Municipales deberá ser aprobada, mediante resolución, por el Secretario Regional Ministerial de Transportes y Telecomunicaciones competente, previa constatación de su funcionamiento.
 
-Las municipalidades deberán aplicar el examen teórico informatizado, en caso contrario, el Ministerio de Transportes y Telecomunicaciones deberá suspender la autorización para otorgar las licencias de conductor Clases B y C de acuerdo al artículo 9º de la Ley de Tránsito.
+Las municipalidades deberán aplicar el examen teórico informatizado, en caso contrario, el Ministerio de Transportes y Telecomunicaciones deberá suspender la autorización para otorgar las licencias de conductor Profesional Clases A y Clases B y C de acuerdo al artículo 9º de la Ley de Tránsito.
 
 #### Artículo 8º
 
 Las normas de aprobación de los exámenes teóricos serán las que se indican a continuación:
 
-Clase de Licencia Nº mínimo de
-
-respuestas
-
-correctas
-
-A1 otorgada antes del 8 de marzo de 1997 17 de 20
-
-A2 otorgada antes del 8 de marzo de 1997 16 de 20
-
-Especial D 9 de 12
-
-Especial E 7 de 10
-
-Clase de Licencia Profesional Nº mínimo de
-
-respuestas correctas
-
-A1 18 de 20
-
-A2 18 de 20
-
-A3 18 de 20
-
-A4 18 de 20
-
-A5 18 de 20
-
-En todo caso, para aprobar este examen no podrá tenerse más de dos respuestas incorrectas en el ítem de conocimientos legales y reglamentarios, salvo en los exámenes que rindan los postulantes a licencias clases B y C.
+En todo caso, para aprobar este examen no podrá tenerse más de dos respuestas incorrectas en el ítem de conocimientos legales y reglamentarios.
 
 #### Artículo 9°
 
