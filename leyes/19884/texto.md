@@ -128,13 +128,15 @@ De los límites al gasto electoral
 
 #### Artículo 4º
 
-Ninguna candidatura a Presidente de la República, senador, diputado, alcalde o concejal podrá sobrepasar, por concepto de gastos electorales, los límites que se indican en los incisos siguientes.
+Ninguna candidatura a Presidente de la República, senador, diputado, alcalde, consejero regional o concejal podrá sobrepasar, por concepto de gastos electorales, los límites que se indican en los incisos siguientes.
 
-Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de tres mil unidades de fomento, más aquella que resulte de multiplicar por cuatro centésimos de unidad de fomento los primeros doscientos mil inscritos, por tres centésimos de unidad de fomento los siguientes doscientos mil inscritos y por dos centésimos de unidad de fomento los restantes inscritos en la respectiva circunscripción.
+Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de tres mil unidades de fomento, más aquella que resulte de multiplicar por cuatro centésimos de unidad de fomento los primeros doscientos mil electores, por tres centésimos de unidad de fomento los siguientes doscientos mil electores y por dos centésimos de unidad de fomento los restantes electores en la respectiva circunscripción.
 
 Los candidatos a diputado no podrán exceder de la suma de mil quinientas unidades de fomento, más aquella que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en el respectivo distrito.
 
 El límite de gasto de los candidatos a alcalde no podrá exceder de la suma de ciento veinte unidades de fomento, más aquella que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en la respectiva comuna. Cada candidato a concejal podrá gastar una suma no superior a la mitad de aquella que se permita al correspondiente candidato a alcalde.
+
+El límite de gasto de los candidatos a consejeros regionales no podrá exceder de la suma de setecientas unidades de fomento, más aquella que resulte de multiplicar por dos centésimos de unidad de fomento los primeros doscientos mil electores, por un centésimo y medio de unidad de fomento los siguientes doscientos mil, por un centésimo de unidad de fomento los restantes electores de la respectiva circunscripción provincial.
 
 En el caso de las candidaturas a Presidente de la República, el límite de gasto será equivalente a la cantidad que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en el país. No obstante, tratándose de la situación prevista en el inciso segundo del artículo 26 de la Constitución Política, dicho límite se calculará considerando como factor multiplicador un centésimo de unidad de fomento.
 
@@ -184,7 +186,7 @@ Constituye financiamiento privado de campaña electoral toda contribución en di
 
 #### Artículo 9º
 
-Ninguna persona podrá aportar a un mismo candidato, y en una misma elección, una suma que exceda al equivalente en pesos de mil unidades de fomento en el caso de candidatos a alcalde o concejal; de mil doscientas cincuenta unidades de fomento tratándose de candidatos a diputado o senador y de dos mil unidades de fomento en el caso de candidatos presidenciales. No obstante, en el caso de la situación prevista en el artículo 26, inciso segundo, de la Constitución Política de la República, ésta será entendida como otra elección, pudiendo aportar hasta setecientas unidades de fomento en la misma. En todo caso, el total de aportes que una misma persona podrá hacer a distintos candidatos o a un partido político en una misma elección no podrá exceder, del equivalente en pesos, de diez mil unidades de fomento.
+Ninguna persona podrá aportar a un mismo candidato, y en una misma elección, una suma que exceda al equivalente en pesos de mil unidades de fomento en el caso de candidatos a alcalde, consejero regional o concejal; de mil doscientas cincuenta unidades de fomento tratándose de candidatos a diputado o senador y de dos mil unidades de fomento en el caso de candidatos presidenciales. No obstante, en el caso de la situación prevista en el artículo 26, inciso segundo, de la Constitución Política de la República, ésta será entendida como otra elección, pudiendo aportar hasta setecientas unidades de fomento en la misma. En todo caso, el total de aportes que una misma persona podrá hacer a distintos candidatos o a un partido político en una misma elección no podrá exceder, del equivalente en pesos, de diez mil unidades de fomento.
 
 Para los efectos de este artículo, se presumirá que el pago de los gastos electorales a que se refiere el Título I, efectuado directa o indirectamente a través de terceras personas, constituye aporte de campaña electoral sujeto a las mismas restricciones señaladas en los incisos precedentes.
 
@@ -228,7 +230,7 @@ En el caso de lo dispuesto en el artículo 26, inciso segundo, de la Constituci�
 
 #### Artículo 14
 
-Al inicio del período de campaña electoral, cada partido inscrito que presente candidatos a la respectiva elección de senadores, diputados, alcaldes y concejales, tendrá derecho a que el Estado pague en su favor una cantidad de dinero equivalente al número de sufragios obtenidos en la última elección de igual naturaleza, incluidos los independientes que hubieren ido en pacto o subpacto con él, multiplicado por el equivalente en pesos a diez milésimos de unidad de fomento. Aquellos partidos que no hubieren participado en la elección de igual naturaleza anterior tendrán derecho a recibir una cantidad igual a la que corresponda al partido político que hubiere obtenido en ella el menor número de sufragios. Tratándose de candidatos independientes, se prorrateará entre todos ellos un monto similar al que le corresponda al partido que hubiere obtenido en esa elección el menor número de votos. Se entenderá por elección de igual naturaleza, aquélla en que corresponda elegir los mismos cargos, y en las mismas circunscripciones, distritos o comunas. Las cantidades indicadas en el inciso primero serán pagadas directamente por el Fisco, dentro de los cinco días siguientes a la inscripción de las candidaturas en los registros a que se refieren los artículos 19 de la ley Nº 18.700, y 115 del decreto con fuerza de ley Nº 1-19.704, a los partidos y candidatos independientes fuera del pacto que corresponda. De las sumas recibidas se deberá rendir cuenta documentada por los Administradores Generales Electorales o por los Administradores Electorales, tratándose de candidatos independientes, de conformidad con las normas previstas en el Título III de esta ley.
+Al inicio del período de campaña electoral, cada partido inscrito que presente candidatos a la respectiva elección de senadores, diputados, alcaldes, consejeros regionales o concejales, tendrá derecho a que el Estado pague en su favor una cantidad de dinero equivalente al número de sufragios obtenidos en la última elección de igual naturaleza, incluidos los independientes que hubieren ido en pacto o subpacto con él, multiplicado por el equivalente en pesos a diez milésimos de unidad de fomento. Aquellos partidos que no hubieren participado en la elección de igual naturaleza anterior tendrán derecho a recibir una cantidad igual a la que corresponda al partido político que hubiere obtenido en ella el menor número de sufragios. Tratándose de candidatos independientes, se prorrateará entre todos ellos un monto similar al que le corresponda al partido que hubiere obtenido en esa elección el menor número de votos. Se entenderá por elección de igual naturaleza, aquélla en que corresponda elegir los mismos cargos, y en las mismas circunscripciones, distritos o comunas. Las cantidades indicadas en el inciso primero serán pagadas directamente por el Fisco, dentro de los cinco días siguientes a la inscripción de las candidaturas en los registros a que se refieren los artículos 19 de la ley Nº 18.700, y 115 del decreto con fuerza de ley Nº 1-19.704, a los partidos y candidatos independientes fuera del pacto que corresponda. De las sumas recibidas se deberá rendir cuenta documentada por los Administradores Generales Electorales o por los Administradores Electorales, tratándose de candidatos independientes, de conformidad con las normas previstas en el Título III de esta ley.
 
 #### Artículo 14 bis
 
@@ -276,7 +278,7 @@ En todo caso, durante el período de campaña electoral, ningún candidato o par
 
 #### Artículo 18
 
-Todo aporte que supere el monto indicado en el artículo anterior y que represente menos del diez por ciento del total de gastos que la ley autoriza a un candidato o partido político, tendrá el carácter de reservado, siempre y cuando no exceda de seiscientas unidades de fomento para un candidato a concejal o alcalde; de ochocientas unidades de fomento para un candidato a diputado o senador; y de mil quinientas unidades de fomento para un candidato presidencial o de tres mil unidades de fomento para un partido político o el conjunto de sus candidatos en la respectiva elección.
+Todo aporte que supere el monto indicado en el artículo anterior y que represente menos del diez por ciento del total de gastos que la ley autoriza a un candidato o partido político, tendrá el carácter de reservado, siempre y cuando no exceda de seiscientas unidades de fomento para un candidato a alcalde, consejero regional o concejal; de ochocientas unidades de fomento para un candidato a diputado o senador; y de mil quinientas unidades de fomento para un candidato presidencial o de tres mil unidades de fomento para un partido político o el conjunto de sus candidatos en la respectiva elección.
 
 Sin embargo, cualquier aportante tendrá el derecho de solicitar que se consigne su identidad y el monto de su contribución.
 
@@ -398,7 +400,7 @@ Del control de los ingresos y gastos electorales
 
 #### Artículo 29
 
-Las normas de este Título serán aplicables a las elecciones presidenciales, parlamentarias y municipales.
+Las normas de este Título serán aplicables a las elecciones presidenciales, parlamentarias, de consejeros regionales y municipales.
 
 ### Párrafo 1º
 
@@ -406,7 +408,7 @@ De los Administradores Electorales y de los Administradores Generales Electorale
 
 #### Artículo 30
 
-Todo candidato a Presidente de la República, a senador o a diputado, deberá nombrar un Administrador Electoral que actuará como mandatario respecto de las funciones de control de los ingresos y gastos electorales que esta ley le asigna. Igual obligación pesará en el caso de candidatos a alcalde o a concejal. Si no se efectuare la designación, las funciones de Administrador Electoral recaerán en el propio candidato.
+Todo candidato a Presidente de la República, a senador o a diputado, deberá nombrar un Administrador Electoral que actuará como mandatario respecto de las funciones de control de los ingresos y gastos electorales que esta ley le asigna. Igual obligación pesará en el caso de candidatos a alcalde, consejero regional o a concejal. Si no se efectuare la designación, las funciones de Administrador Electoral recaerán en el propio candidato.
 
 Una misma persona podrá ejercer como Administrador Electoral para más de un candidato, siempre que las respectivas candidaturas hayan sido declaradas por un mismo partido político o pacto.
 
@@ -482,7 +484,7 @@ corresponda.
 
 #### Artículo 32
 
-Cualquier militante del respectivo partido político en las elecciones de Presidente de la República, de senadores, de diputados y de alcaldes y concejales, podrá ejercer el cargo de Administrador Electoral General.
+Cualquier militante del respectivo partido político en las elecciones de Presidente de la República, de senadores, de diputados y de alcaldes, consejeros regionales y concejales, podrá ejercer el cargo de Administrador Electoral General.
 
 El nombramiento de éste deberá efectuarse por el partido político ante el Director del Servicio Electoral de conformidad a lo establecido en el inciso cuarto del artículo 30, en forma previa a las declaraciones de candidaturas.
 
