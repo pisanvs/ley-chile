@@ -156,13 +156,7 @@ Normas técnicas. La aprobación de proyectos de urbanización producto de los p
 
 Antejardines. Los antejardines mínimos serán aquellos establecidos por esta Ordenanza en los artículos correspondientes a la descripción de las zonas del Plan. Los antejardines de las zonas industriales cumplen una función de mitigación de posibles impactos ambientales sobre los predios vecinos, por esta razón tienen dimensiones mayores a los de las viviendas.
 
-Sin perjuicio de las exigencias de arborización contenidas en las normas de cada
-
-zona del Plan, se recomienda que todas las actividades industriales y de impacto similar al industrial, así como equipamientos con afluencia de público incorporen una franja arborizada en su perímetro y asimismo arboricen sus antejardines en la máxima superficie posible, según las condiciones de la edificación.
-
-Para los sitios esquina existentes con frente predial hacia pasajes o calles de menos de 12 metros, provenientes de conjuntos de viviendas económicas acogidos al DFL Nº 2 de 1959, se disminuye en un 100% uno de los antejardines permitiendo edificar adosándose a una de las líneas de cierro oficial conservando el antejardín del frente predial, según numeración municipal.
-
-Las ampliaciones acogidas a esta norma de excepción deben enmarcarse en lo estipulado en los artículos 162 de la Ley General de Urbanismo y Construcciones y 6.1.11 de la Ordenanza General de Urbanismo y Construcciones, conservando su destino habitacional.
+Sin perjuicio de las exigencias de arborización contenidas en las normas de cada zona del Plan, se recomienda que todas las actividades industriales y de impacto similar al industrial, así como equipamientos con afluencia de público incorporen una franja arborizada en su perímetro y asimismo arboricen sus antejardines en la máxima superficie posible, según las condiciones de la edificación.
 
 #### Artículo 8
 
@@ -990,7 +984,7 @@ ocupación de suelo 0,5
 
 Sistema de Agrupamiento Pareado y aislado
 
-Altura máxima NOTA 119 m. (equivalente a 2 pisos)
+Altura máxima 9 m. (equivalente a 2 pisos)
 
 Antejardín mínimo 4m.
 
@@ -2225,20 +2219,6 @@ Disposiciones Transitorias
 > **Nota.** NOTA 4 El Decreto 493, Municipalidad de Rengo, publicado el 20.06.2013, aprueba la Modificación N° 1 al Plan Regulador Comunal de Rengo, en lo que respecta a la zona urbana de Rengo, en primer lugar, sustituyendo la ZCH existente frente a la escuela Luis Galdames por las zonas ZH4 y ZH2 según se señala en plano correspondiente del proyecto de modificación; en segundo lugar, eliminando los inmuebles de conservación histórica contenidos en la zona original mencionada; y, en tercer lugar, estableciendo el trazado y características definitivas de las calles "Prolongación El Pillán" y "Nueva Libertad" en sus tramos correspondientes, en lo que respecta a la actual tramitación de "Modificación de Plan Regulador Comunal", ordenando modificar en el Artículo 87, la parte correspondiente a las calles "Prolongación El Pillán" y "Nueva Libertad", en complementariedad al nuevo trazado que se detalla en plano del proyecto de Modificación Nº 1, según se consolidaron estas dos vías en la realidad, tras sus aperturas efectivas, de la manera que la citada norma indica.
 
 > **Nota.** NOTA 5 El Decreto 493, Municipalidad de Rengo, publicado el 20.06.2013, modifica el artículo 90 de la presente norma, en el sentido de eliminar las direcciones del listado de predios zonificados con la ZCH, con todo lo que ello implica de la manera que la citada norma indica.
-
-> **Nota.** NOTA 6 El numeral 1º letra c del Decreto 14, Municipalidad de Rengo, publicado el 11.02.2014, modifica la presente norma en el sentido de reemplazar las tablas "Vialidad Estructurante Urbana" de la Ordenanza Zonas Urbanas de Rengo, Rosario y Esmeralda del Plan Regulador Comunal de Rengo, de la manera que la citada norma indica.
-
-> **Nota.** NOTA 7 El numeral 1º del Decreto 875, Municipalidad de Rengo, publicado el 13.06.2015, modifica las dos zonificaciones comprendidas entre la calle Manuel Rodríguez por el norte, Doctor Noel por el oriente, predio Rol 17-15 por el sur y predio 5-5 por el poniente dentro de la Población Ernestina Pérez de modo que, en primer lugar, el "polígono sur" color verde zonificado como ZAV adquiera la zonificación ZH2 y, en segundo lugar, el "polígono norte" color rosado zonificado como ZC1 adquiera la zonificación ZAV, entendiendo que la glosa ZAV corresponde a la denominada Zona de Área Verde definida en el artículo 50, que la glosa ZH2 corresponde a la denominada Zona Periferia Centro definida en el artículo 37 y que la glosa ZC1 corresponde a la denominada Zona Centro Rengo definida en el artículo 34 de la Ordenanza Zonas Urbanas de Rengo, Rosario y Esmeralda del Plan Regulador Comunal de Rengo vigente en concordancia a lo expresado en Plano Tram_15/MODIF_04-PRC-RENGO.
-
-> **Nota.** NOTA 8 El numeral 2 del Decreto 557, Municipalidad de Rengo, publicado el 10.05.2017, modifica la presente norma, de acuerdo a trece de los catorce temas (temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 y 14) sometidos a los procesos técnicos y administrativos establecidos en la legislación vigente de la manera pormenorizada que la citada norma detalla.
-
-> **Nota.** NOTA 9 El numeral 1 del Decreto 1718, Municipalidad de Rengo, publicada el 07.12.2017, modifica la presente norma de la manera que la citada norma indica.
-
-> **Nota.** NOTA 10 El numeral 1° del Decreto 1156, Municipalidad de Rengo, publicado el 09.09.2019, modifica la presente norma en el sentido de enmendar el el artículo 38 ZH3 Zona Residencial en sus condiciones de edificación, Altura máxima, de manera tal que para los usos de suelo Residencial Unifamiliar, Comercio, Equipamiento y Actividades Productivas Inofensivas se permita una altura de 10,80 metros; y para uso de suelo Residencial Multifamiliar se permita una altura de 16,80 metros. Coeficiente máximo de ocupación de suelo, de manera tal que exclusivamente para el uso de suelo equipamiento de salud, se permita un coeficiente de 0,78.
-
-> **Nota.** NOTA 11 El numeral 1° del Decreto 1156, Municipalidad de Rengo, publicado el 09.09.2019, modifica la presente norma en el sentido de enmendar el el artículo 40 ZH5 Zona La Isla, en sus condiciones de edificación, Altura máxima, de manera tal que para todos los usos de suelo se permita una altura de 10,80 metros. Coeficiente máximo de ocupación de suelo, de manera tal que exclusivamente para el uso de suelo equipamiento de salud, se permita un coeficiente de 0,65.
-
-> **Nota.** NOTA 12 El numeral 2° del Decreto 434, Municipalidad de Rengo, publicado el 04.04.2023, modifica la presente norma en el sentido de modificar los 5 temas No Sustanciales, sometidos a los procesos técnicos y administrativos establecidos en la legislación vigentede la manera pormenorizada que la citada norma detalla.
 
 CONTRALORÍA REGIONAL DEL LIBERTADOR B. O'HIGGINS
 
