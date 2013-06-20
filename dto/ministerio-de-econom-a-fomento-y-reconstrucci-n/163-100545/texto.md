@@ -54,23 +54,7 @@ D 23°31'44,50" 70°31'45,80"
 
 E 23°31'34,83" 70°31'54,00"
 
-5) En el sector denominado Las Guaneras, un área
-
-inscrita en la figura irregular, entre la línea
-
-de más baja marea y sus vértices, cuyas coordenadas son las siguientes:
-
-(CARTAS IGM Nº 2530-7030 y Nº 2515-7030; ESCALA 1:50.000; 1ª EDICION 1972 y 1ª EDICION 1967, RESPECTIVAMENTE)
-
-Vértice Latitud S. Longitud W.
-
-A 25°29'50,70" 070°34'20,36"
-
-B 25°29'18,00" 070°34'49,00"
-
-C 25°29'30,00" 070°35'08,00"
-
-D 25°30'04,07" 070°34'39,34"
+5) DEROGADO
 
 6) En el Sector denominado La Portada, un área inscrita en la figura irregular, entre la línea de la costa y los vértices cuyas coordenadas son las siguientes:
 
