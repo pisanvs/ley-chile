@@ -92,7 +92,7 @@ Todo radioaficionado deberá mantener una actitud digna y respetuosa en sus comu
 
 #### Artículo 6°
 
-Las licencias tendrán una vigencia de cinco años, contados desde la fecha de su otorgamiento, pudiendo renovarse por períodos de igual duración, a excepción de la licencia aspirante que no será renovable. No obstante, esta última sólo se podrá solicitar nuevamente transcurrido a lo menos un año contado desde la fecha de su vencimiento.
+Las licencias tendrán una vigencia de cinco años, contados desde la fecha de su otorgamiento, pudiendo renovarse por períodos de igual duración.
 
 La calidad de radioaficionado se perderá a la fecha de vencimiento de la licencia si no se cumple lo estipulado en el Artículo 17° de este reglamento.
 
@@ -114,11 +114,13 @@ Los requisitos para obtener licencia categoría Superior, son los siguientes:
 
 a) Ser mayor de 18 años.
 
-b) Haber sido titular de licencia categoría General durante tres años, a lo menos.
+b) Haber sido titular de licencia categoría General durante cinco años, a lo menos.
 
-c) Aprobar el examen de conocimientos técnicos y reglamentarios aplicados al servicio de radioaficionados, conforme a la norma respectiva, o bien, demostrar una actuación destacada como radioaficionado; acreditada por las organizaciones de radioaficionados señaladas en el Título VII de este Reglamento, como por ejemplo:
+c) Aprobar el examen de conocimientos técnicos y reglamentarios aplicados al servicio de radioaficionados, conforme a la norma respectiva.
 
-- Haber efectuado publicaciones técnicas, o participado como expositor en seminarios o conferencias de carácter técnico relativas al servicio de radioaficionados.
+d) Demostrar una actuación destacada como radioaficionado, acreditada por las organizaciones de radioaficionados señaladas en el Título VII de este Reglamento, como por ejemplo:
+
+- Haber efectuado publicaciones técnicas, o participado como expositor en seminarios o conferencias de carácter técnico, relativas al servicio de radioaficionados.
 
 - Haber tenido una actuación meritoria en concursos organizados por las organizaciones de radioaficionados señaladas en el citado Título VII o por entidades extranjeras de radioaficionados.
 
@@ -156,7 +158,7 @@ Los requisitos para obtener licencia categoría General, son los siguientes:
 
 a) Ser mayor de 15 años. Los menores de 18 años, deberán actuar debidamente representados o autorizados, de conformidad a las normas generales.
 
-b) Haber sido titular de licencia categoría Novicio durante un año, a lo menos.
+b) Haber sido titular de licencia categoría Novicio durante tres años, a lo menos.
 
 c) Aprobar el examen de conocimientos técnicos y reglamentarios aplicados al servicio de radioaficionados, conforme a la norma respectiva.
 
@@ -176,7 +178,7 @@ b) Aprobar el examen de conocimientos técnicos y reglamentarios aplicados al se
 
 Los radioaficionados que sean titulares de una licencia categoría Novicio, tendrán las siguientes facultades:
 
-a) Operar estaciones fijas o móviles en las bandas HF de 3,5 MHz, 7 MHz y 28 MHz, en las bandas VHF de 50 MHz, 144 MHz y 220 MHz y en las bandas UHF de 430 MHz, 1.270 MHz, 2.400 MHz y 5.650 MHz, dentro de los límites de potencia indicados en las letras b) y e) del presente artículo y de acuerdo a la atribución de bandas de frecuencias dispuesta en el Plan General de Uso del Espectro Radioeléctrico.
+a) Operar estaciones fijas o móviles en las bandas HF de 3,5 MHz, 7 MHz, 10 MHz y 28 MHz, en las bandas VHF de 50 MHz, 144 MHz y 220 MHz y en las bandas UHF de 430 MHz, 1.270 MHz, 2.400 MHz y 5.650 MHz, dentro de los límites de potencia indicados en las letras b) y e) del presente artículo y de acuerdo a la atribución de bandas de frecuencias dispuesta en el Plan General de Uso del Espectro Radioeléctrico.
 
 b) Instalar estaciones fijas con:
 
@@ -272,11 +274,13 @@ a) Fijas
 
 b) Móviles
 
-c) Repetidoras
+c) Repetidoras Atendidas y No Atendidas
 
 d) Espaciales
 
 e) Terrenas
+
+f) Radiobalizas o radiofaros
 
 #### Artículo 27°
 
@@ -288,7 +292,13 @@ Estación Móvil: Estación destinada a ser utilizada en movimiento o mientras e
 
 #### Artículo 29°
 
-Estación Repetidora: Es aquella que funciona como estación intermedia, que recibe una señal en una frecuencia dada y la retransmite automáticamente en la misma o en otras frecuencias, con una potencia máxima a la entrada de la línea de la alimentación de la antena de 50 W, para bandas inferiores a 300 MHz y de 10 W para bandas superiores.
+Estación Repetidora: Estación fija que permite retransmitir señales analógicas o digitales en las mismas o diferentes frecuencias, en tiempo real o casi real.
+
+Estación Repetidora Atendida: Estación repetidora de baja potencia que opera en presencia de un radioaficionado y que forma parte de los equipos de su estación.
+
+Estación Repetidora No Atendida: Estación repetidora que opera sin la presencia física inmediata de un radioaficionado, disponiendo como mínimo con un dispositivo de identificación automático, un sistema de telegrafía y control para tener el estado de los parámetros de la estación y el encendido y apagado remoto.
+
+La Subsecretaría, mediante norma técnica, establecerá las características técnicas que deberán emplear las estaciones repetidoras del servicio de radioaficionados.
 
 #### Artículo 30°
 
@@ -297,6 +307,12 @@ Estación Espacial: Estación del servicio de aficionados por satélite que se e
 #### Artículo 31°
 
 Estación Terrena: Estación del servicio de aficionados por satélite que se encuentra ubicada en la superficie de la tierra o en la parte principal de la atmósfera terrestre destinada a establecer comunicación con una o varias estaciones espaciales o mediante el empleo de uno o varios satélites reflectores u otros objetos situados en el espacio.
+
+#### Artículo 31º bis
+
+Estación de Radiobaliza o Radiofaro: Estación transmisora destinada para realizar estudios de propagación y cuyo funcionamiento se basa en la emisión automática y periódica de su señal distintiva e información técnica de dicha estación, entre otras, potencia, datos de antena y altura.
+
+La Subsecretaría, mediante norma técnica, establecerá las características técnicas que deberán emplear las estaciones de radiobaliza o radiofaro del servicio de radioaficionados.
 
 #### Artículo 32°
 
@@ -334,8 +350,6 @@ Corresponderá a los titulares de licencias de radioaficionados el velar porque 
 
 #### Artículo 38°
 
-Solamente en comunicados con radioaficionados de otros países los radioaficionados con licencia otorgada por la Subsecretaría podrán emplear idiomas extranjeros, limitándose al objeto del servicio y a observaciones de carácter puramente personal.
-
 Excepcionalmente las estaciones de radioaficionados se pueden utilizar para transmitir comunicaciones internacionales en nombre de terceros sólo en situaciones de emergencia o de socorro.
 
 #### Artículo 39°
@@ -372,7 +386,7 @@ El radioaficionado debe anunciar el distintivo de llamada de su estación en for
 
 #### Artículo 45°
 
-El radioaficionado que opere una estación que no le pertenezca, deberá anunciar el distintivo de llamada de su estación seguido del distintivo de llamada de la estación que eventualmente se encuentre operando.
+El radioaficionado que opere una estación que no le pertenezca, deberá anunciar el distintivo de llamada de la estación operada, seguido de su propio distintivo de llamada.
 
 #### Artículo 46°
 
@@ -386,7 +400,7 @@ Categoría Novicio : CA
 
 Categoría Aspirante : CD
 
-Los distintivos de llamada de las estaciones de instituciones se iniciarán con el prefijo CE.
+Los distintivos de llamada de las estaciones de Círculos de Radioaficionados, Radio Clubes, Asociaciones o Federaciones de Radio Clubes, sedes de organismos del Estado y Asociaciones o Federaciones de Círculos de Radioaficionados se iniciarán con el prefijo CE.
 
 La Subsecretaría definirá mediante norma técnica la conformación del resto del distintivo de llamada y el uso de distintivos de llamada con prefijos especiales.
 
@@ -424,11 +438,11 @@ En todo caso, ningún radioaficionado estará obligado a pertenecer a las organi
 
 #### Artículo 52°
 
-Los Círculos de Radioaficionados, los Radio Clubes y sus Asociaciones o Federaciones, podrán instalar estaciones fijas, móviles y terrenas conforme a este reglamento y a sus normas complementarias. Asimismo, sólo estas organizaciones podrán instalar estaciones repetidoras del servicio de radioaficionados.
+Los Círculos de Radioaficionados, los Radio Clubes y sus Asociaciones o Federaciones, podrán instalar estaciones fijas, móviles y terrenas conforme a este reglamento y a sus normas complementarias. Asimismo, sólo estas organizaciones podrán instalar estaciones repetidoras no atendidas y radiobalizas o radiofaros del servicio de radioaficionados.
 
 Las estaciones de Radio Clubes o de Círculos de Radioaficionados podrán transmitir boletines informativos relacionados con las actividades que desarrollen las instituciones de radioaficionados y comunicados emitidos por la Subsecretaría.
 
-Los Radio Clubes reconocidos por la Subsecretaría podrán solicitar distintivos de llamada especiales, de uso temporal, para participar en expediciones o en concursos nacionales o internacionales, conforme a la norma respectiva.
+Los Círculos de Radioaficionados y los Radio Clubes reconocidos por la Subsecretaría podrán solicitar distintivos de llamada especiales, de uso temporal, para participar en expediciones o en concursos nacionales o internacionales, conforme a la norma respectiva.
 
 ## Título VIII
 
