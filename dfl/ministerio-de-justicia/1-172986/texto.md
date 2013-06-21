@@ -1404,7 +1404,9 @@ De los derechos y obligaciones entre los padres y los hijos
 
 #### Artículo 222
 
-Los hijos deben respeto y obediencia a sus padres. La preocupación fundamental de los padres es el interés superior del hijo, para lo cual procurarán su mayor realización espiritual y material posible, y lo guiarán en el ejercicio de los derechos esenciales que emanan de la naturaleza humana de modo conforme a la evolución de sus facultades.
+La preocupación fundamental de los padres es el interés superior del hijo, para lo cual procurarán su mayor realización espiritual y material posible, y lo guiarán en el ejercicio de los derechos esenciales que emanan de la naturaleza humana de modo conforme a la evolución de sus facultades.
+
+Los hijos deben respeto y obediencia a sus padres.
 
 #### Artículo 223
 
@@ -1414,25 +1416,55 @@ Tienen derecho al mismo socorro todos los demás ascendientes, en caso de inexis
 
 #### Artículo 224
 
-Toca de consuno a los padres, o al padre o madre sobreviviente, el cuidado personal de la crianza y educación de sus hijos.
+Toca de consuno a los padres, o al padre o madre sobreviviente, el cuidado personal de sus hijos. Éste se basará en el principio de corresponsabilidad, en virtud del cual ambos padres, vivan juntos o separados, participarán en forma activa, equitativa y permanente en la crianza y educación de sus hijos.
 
 El cuidado personal del hijo no concebido ni nacido durante el matrimonio, reconocido por uno de los padres, corresponde al padre o madre que lo haya reconocido. Si no ha sido reconocido por ninguno de sus padres, la persona que tendrá su cuidado será determinada por el juez.
 
 #### Artículo 225
 
-Si los padres viven separados, a la madre toca el cuidado personal de los hijos.
+Si los padres viven separados podrán determinar de común acuerdo que el cuidado personal de los hijos corresponda al padre, a la madre o a ambos en forma compartida. El acuerdo se otorgará por escritura pública o acta extendida ante cualquier oficial del Registro Civil y deberá ser subinscrito al margen de la inscripción de nacimiento del hijo dentro de los treinta días subsiguientes a su otorgamiento. Este acuerdo establecerá la frecuencia y libertad con que el padre o madre que no tiene el cuidado personal mantendrá una relación directa y regular con los hijos y podrá revocarse o modificarse cumpliendo las mismas solemnidades.
 
-No obstante, mediante escritura pública, o acta extendida ante cualquier oficial del Registro Civil, subinscrita al margen de la inscripción de nacimiento del hijo dentro de los treinta días siguientes a su otorgamiento, ambos padres, actuando de común acuerdo, podrán determinar que el cuidado personal de uno o más hijos corresponda al padre. Este acuerdo podrá revocarse, cumpliendo las mismas solemnidades.
+El cuidado personal compartido es un régimen de vida que procura estimular la corresponsabilidad de ambos padres que viven separados, en la crianza y educación de los hijos comunes, mediante un sistema de residencia que asegure su adecuada estabilidad y continuidad.
 
-En todo caso, cuando el interés del hijo lo haga indispensable, sea por maltrato, descuido u otra causa calificada, el juez podrá entregar su cuidado personal al otro de los padres. Pero no podrá confiar el cuidado personal al padre o madre que no hubiese contribuido a la mantención del hijo mientras estuvo bajo el cuidado del otro padre, pudiendo hacerlo.
+A falta del acuerdo del inciso primero, los hijos continuarán bajo el cuidado personal del padre o madre con quien estén conviviendo.
 
-Mientras una subinscripción relativa al cuidado personal no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
+En cualesquier de los casos establecidos en este artículo, cuando las circunstancias lo requieran y el interés superior del hijo lo haga conveniente, el juez podrá atribuir el cuidado personal del hijo al otro de los padres, o radicarlo en uno solo de ellos, si por acuerdo existiere alguna forma de ejercicio compartido. Lo anterior debe entenderse sin perjuicio de lo dispuesto en el artículo 226.
+
+En ningún caso el juez podrá fundar exclusivamente su decisión en la capacidad económica de los padres.
+
+Siempre que el juez atribuya el cuidado personal del hijo a uno de los padres, deberá establecer, de oficio o a petición de parte, en la misma resolución, la frecuencia y libertad con que el otro padre o madre que no tiene el cuidado personal mantendrá una relación directa y regular con los hijos, considerando su interés superior, siempre que se cumplan los criterios dispuestos en el artículo 229.
+
+Mientras una nueva subinscripción relativa al cuidado personal no sea cancelada por otra posterior, todo nuevo acuerdo o resolución será inoponible a terceros.
+
+#### Artículo 225
+
+2. En el establecimiento del régimen y ejercicio del cuidado personal, se considerarán y ponderarán conjuntamente los siguientes criterios y circunstancias:
+
+a) La vinculación afectiva entre el hijo y sus padres, y demás personas de su entorno familiar.
+
+b) La aptitud de los padres para garantizar el bienestar del hijo y la posibilidad de procurarle un entorno adecuado, según su edad.
+
+c) La contribución a la mantención del hijo mientras estuvo bajo el cuidado personal del otro padre, pudiendo hacerlo.
+
+d) La actitud de cada uno de los padres para cooperar con el otro, a fin de asegurar la máxima estabilidad al hijo y garantizar la relación directa y regular, para lo cual considerará especialmente lo dispuesto en el inciso quinto del artículo 229.
+
+e) La dedicación efectiva que cada uno de los padres procuraba al hijo antes de la separación y, especialmente, la que pueda seguir desarrollando de acuerdo con sus posibilidades.
+
+f) La opinión expresada por el hijo.
+
+g) El resultado de los informes periciales que se haya ordenado practicar.
+
+h) Los acuerdos de los padres antes y durante el respectivo juicio.
+
+i) El domicilio de los padres.
+
+j) Cualquier otro antecedente que sea relevante atendido el interés superior del hijo.
 
 #### Artículo 226
 
-Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes.
+Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes, velando primordialmente por el interés superior del niño conforme a los criterios establecidos en el artículo 225-2.
 
-En la elección de estas personas se preferirá a los consanguíneos más próximos, y sobre todo, a los ascendientes.
+En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes.
 
 #### Artículo 227
 
@@ -1440,15 +1472,37 @@ En las materias a que se refieren los artículos precedentes, el juez oirá a lo
 
 Las resoluciones que se dicten, una vez ejecutoriadas, se subinscribirán en la forma y plazo que establece el artículo 225.
 
-> **Nota.** El artículo 134 de la LEY 19968, publicada el 30.08.2004, dispone que las modificaciones introducidas a la presente norma, empezarán a regir el día 1 de octubre de 2005.
+El juez podrá apremiar en la forma establecida en el artículo 543 del Código de Procedimiento Civil, a quien fuere condenado por resolución judicial que cause ejecutoria, a hacer entrega del hijo y no lo hiciere o se negare a hacerlo en el plazo que se hubiere determinado para estos efectos. En igual apremio incurrirá el que retuviere especies del hijo y se negare a hacer entrega de ellas a requerimiento del juez.
 
 #### Artículo 228
 
-La persona casada a quien corresponda el cuidado personal de un hijo que no ha nacido de ese matrimonio, sólo podrá tenerlo en el hogar común, con el consentimiento de su cónyuge.
+Derogado.
 
 #### Artículo 229
 
-El padre o madre que no tenga el cuidado personal del hijo no será privado del derecho ni quedará exento del deber, que consiste en mantener con él una relación directa y regular, la que ejercerá con la frecuencia y libertad acordada con quien lo tiene a su cargo, o, en su defecto, con las que el juez estimare conveniente para el hijo. Se suspenderá o restringirá el ejercicio de este derecho cuando manifiestamente perjudique el bienestar del hijo, lo que declarará el tribunal fundadamente.
+El padre o madre que no tenga el cuidado personal del hijo tendrá el derecho y el deber de mantener con él una relación directa y regular, la que se ejercerá con la frecuencia y libertad acordada directamente con quien lo tiene a su cuidado según las convenciones a que se refiere el inciso primero del artículo 225 o, en su defecto, con las que el juez estimare conveniente para el hijo.
+
+Se entiende por relación directa y regular aquella que propende a que el vínculo familiar entre el padre o madre que no ejerce el cuidado personal y su hijo se mantenga a través de un contacto periódico y estable.
+
+Para la determinación de este régimen, los padres, o el juez en su caso, fomentarán una relación sana y cercana entre el padre o madre que no ejerce el cuidado personal y su hijo, velando por el interés superior de este último, su derecho a ser oído y la evolución de sus facultades, y considerando especialmente:
+
+a) La edad del hijo.
+
+b) La vinculación afectiva entre el hijo y su padre o madre, según corresponda, y la relación con sus parientes cercanos.
+
+c) El régimen de cuidado personal del hijo que se haya acordado o determinado.
+
+d) Cualquier otro elemento de relevancia en consideración al interés superior del hijo.
+
+Sea que se decrete judicialmente el régimen de relación directa y regular o en la aprobación de acuerdos de los padres en estas materias, el juez deberá asegurar la mayor participación y corresponsabilidad de éstos en la vida del hijo, estableciendo las condiciones que fomenten una relación sana y cercana.
+
+El padre o madre que ejerza el cuidado personal del hijo no obstaculizará el régimen de relación directa y regular que se establezca a favor del otro padre, conforme a lo preceptuado en este artículo.
+
+Se suspenderá o restringirá el ejercicio de este derecho cuando manifiestamente perjudique el bienestar del hijo, lo que declarará el tribunal fundadamente.
+
+#### Artículo 229
+
+2. El hijo tiene derecho a mantener una relación directa y regular con sus abuelos. A falta de acuerdo, el juez fijará la modalidad de esta relación atendido el interés del hijo, en conformidad a los criterios del artículo 229.
 
 #### Artículo 230
 
@@ -1536,13 +1590,21 @@ La patria potestad se ejercerá también sobre los derechos eventuales del hijo 
 
 La patria potestad será ejercida por el padre o la madre o ambos conjuntamente, según convengan en acuerdo suscrito por escritura pública o acta extendida ante cualquier oficial del Registro Civil, que se subinscribirá al margen de la inscripción de nacimiento del hijo dentro de los treinta días siguientes a su otorgamiento.
 
-A falta de acuerdo, al padre toca el ejercicio de la patria potestad. En todo caso, cuando el interés del hijo lo haga indispensable, a petición de uno de los padres, el juez podrá confiar el ejercicio de la patria potestad al padre o madre que carecía de él, o radicarlo en uno solo de los padres, si la ejercieren conjuntamente. Ejecutoriada la resolución, se subinscribirá dentro del mismo plazo señalado en el inciso primero.
+A falta de acuerdo, toca al padre y a la madre en conjunto el ejercicio de la patria potestad.
+
+Con todo, los padres podrán actuar indistintamente en los actos de mera conservación. Respecto del resto de los actos, se requerirá actuación conjunta. En caso de desacuerdo de los padres, o cuando uno de ellos esté ausente o impedido o se negare injustificadamente, se requerirá autorización judicial.
+
+En todo caso, cuando el interés del hijo lo haga indispensable, a petición de uno de los padres, el juez podrá confiar el ejercicio de la patria potestad al padre o madre que carecía de él, o radicarlo en uno solo de los padres, si la ejercieren conjuntamente. Ejecutoriada la resolución, se subinscribirá dentro del mismo plazo señalado en el inciso primero.
 
 En defecto del padre o madre que tuviere la patria potestad, los derechos y deberes corresponderán al otro de los padres.
 
 #### Artículo 245
 
-Si los padres viven separados, la patria potestad será ejercida por aquel que tenga a su cargo el cuidado personal del hijo, de conformidad al artículo 225. Sin embargo, por acuerdo de los padres, o resolución judicial fundada en el interés del hijo, podrá atribuirse al otro padre la patria potestad. Se aplicará al acuerdo o a la sentencia judicial, las normas sobre subinscripción previstas en el artículo precedente.
+Si los padres viven separados, la patria potestad será ejercida por aquel que tenga a su cargo el cuidado personal del hijo, o por ambos, de conformidad al artículo 225.
+
+Sin embargo, por acuerdo de los padres o resolución judicial fundada en el interés del hijo, podrá atribuirse la patria potestad al otro padre o radicarla en uno de ellos si la ejercieren conjuntamente. Además, basándose en igual interés, los padres podrán ejercerla en forma conjunta. Se aplicarán al acuerdo o a la resolución judicial las normas sobre subinscripción previstas en el artículo precedente.
+
+En el ejercicio de la patria potestad conjunta, se aplicará lo establecido en el inciso tercero del artículo anterior.
 
 #### Artículo 246
 
@@ -3314,13 +3376,15 @@ DE LAS PERSONAS JURIDICAS
 
 Se llama persona jurídica una persona ficticia, capaz de ejercer derechos y contraer obligaciones civiles, y de ser representada judicial y extrajudicialmente.
 
-Las personas jurídicas son de dos especies: corporaciones y fundaciones de beneficencia pública.
+Las personas jurídicas son de dos especies: corporaciones y fundaciones de beneficencia pública. Las corporaciones de derecho privado se llaman también asociaciones.
+
+Una asociación se forma por una reunión de personas en torno a objetivos de interés común a los asociados. Una fundación, mediante la afectación de bienes a un fin determinado de interés general.
 
 Hay personas jurídicas que participan de uno y otro carácter.
 
 #### Artículo 546
 
-No son personas jurídicas las fundaciones o corporaciones que no se hayan establecido en virtud de una ley, o que no hayan sido aprobadas por el Presidente de la República.
+No son personas jurídicas las fundaciones o corporaciones que no se hayan establecido en virtud de una ley, o que no se hayan constituido conforme a las reglas de este Título.
 
 #### Artículo 547
 
@@ -3330,9 +3394,49 @@ Tampoco se extienden las disposiciones de este título a las corporaciones o fun
 
 #### Artículo 548
 
-Las ordenanzas o estatutos de las corporaciones, que fueren formados por ellas mismas, serán sometidos a la aprobación del Presidente de la República, que se la concederá si no tuvieren nada contrario al orden publico, a las leyes o a las buenas costumbres.
+El acto por el cual se constituyan las asociaciones o fundaciones constará en escritura publica o privada suscrita ante notario, oficial del Registro Civil o funcionario municipal autorizado por el alcalde.
 
-Todos aquellos a quienes los estatutos de la corporación irrogaren perjuicio, podrán recurrir al Presidente, para que en lo que perjudicaren a terceros se corrijan; y aún después de aprobados les quedará expedito su recurso a la justicia contra toda lesión o perjuicio que de la aplicación de dichos estatutos les haya resultado o pueda resultarles.
+Copia del acto constitutivo, autorizada por el ministro de fe o funcionario ante el cual fue otorgado, deberá depositarse en la secretaría municipal del domicilio de la persona jurídica en formación, dentro del plazo de treinta días contado desde su otorgamiento. Este plazo no regirá para las fundaciones que se constituyan conforme a disposiciones testamentarias.
+
+Dentro de los treinta días siguientes a la fecha del depósito, el secretario municipal podrá objetar fundadamente la constitución de la asociación o fundación, si no se hubiere cumplido los requisitos que la ley o el reglamento señalen. No se podrán objetar las cláusulas de los estatutos que reproduzcan los modelos aprobados por el Ministerio de Justicia. La objeción se notificará al solicitante por carta certificada. Si al vencimiento de este plazo el secretario municipal no hubiere notificado observación alguna, se entenderá por el solo ministerio de la ley que no objeta la constitución de la organización, y se procederá de conformidad al inciso quinto.
+
+Sin perjuicio de las reclamaciones administrativas y judiciales procedentes, la persona jurídica en formación deberá subsanar las observaciones formuladas, dentro del plazo de treinta días, contado desde su notificación. Los nuevos antecedentes se depositarán en la secretaría municipal, procediéndose conforme al inciso anterior. El órgano directivo de la persona jurídica en formación se entenderá facultado para introducir en los estatutos las modificaciones que se requieran para estos efectos.
+
+Si el secretario municipal no tuviere objeciones a la constitución, o vencido el plazo para formularlas, de oficio y dentro de quinto día, el secretario municipal archivará copia de los antecedentes de la persona jurídica y los remitirá al Servicio de Registro Civil e Identificación para su inscripción en el Registro Nacional de Personas Jurídicas sin Fines de Lucro, a menos que el interesado solicitare formalmente hacer la inscripción de manera directa. La asociación o fundación gozará de personalidad jurídica a partir de esta inscripción.
+
+#### Artículo 548
+
+1. En el acto constitutivo, además de individualizarse a quienes comparezcan otorgándolo, se expresará la voluntad de constituir una persona jurídica, se aprobarán sus estatutos y se designarán las autoridades inicialmente encargadas de dirigirla.
+
+#### Artículo 548
+
+2. Los estatutos de las personas jurídicas a que se refiere este Título deberán contener:
+
+a) El nombre y domicilio de la persona jurídica;
+
+b) La duración, cuando no se la constituya por tiempo indefinido;
+
+c) La indicación de los fines a que está destinada;
+
+d) Los bienes que forman su patrimonio inicial, si los hubiere, y la forma en que se aporten;
+
+e) Las disposiciones que establezcan sus órganos de administración, cómo serán integrados y las atribuciones que les correspondan, y
+
+f) Las disposiciones relativas a la reforma de estatutos y a la extinción de la persona jurídica, indicándose la institución sin fines de lucro a la cual pasarán sus bienes en este último evento.
+
+Los estatutos de toda asociación deberán determinar los derechos y obligaciones de los asociados, las condiciones de incorporación y la forma y motivos de exclusión.
+
+Los estatutos de toda fundación deberán precisar, además, los bienes o derechos que aporte el fundador a su patrimonio, así como las reglas básicas para la aplicación de los recursos al cumplimiento de los fines fundacionales y para la determinación de los beneficiarios.
+
+#### Artículo 548
+
+3. El nombre de las personas jurídicas a que se refiere este Título deberá hacer referencia a su naturaleza, objeto o finalidad.
+
+El nombre no podrá coincidir o tener similitud susceptible de provocar confusión con ninguna otra persona jurídica u organización vigente, sea pública o privada, ni con personas naturales, salvo con el consentimiento expreso del interesado o sus sucesores, o hubieren transcurrido veinte años desde su muerte.
+
+#### Artículo 548
+
+4. Todos aquellos a quienes los estatutos de la corporación irrogaren perjuicio podrán recurrir a la justicia, en procedimiento breve y sumario, para que éstos se corrijan o se repare toda lesión o perjuicio que de la aplicación de dichos estatutos les haya resultado o pueda resultarles.
 
 #### Artículo 549
 
@@ -3346,15 +3450,41 @@ Si una corporación no tiene existencia legal según el artículo 546, sus actos
 
 #### Artículo 550
 
-La mayoría de los miembros de una corporación, que tengan según sus estatutos voto deliberativo, será considerada como una sala o reunión legal de la corporación entera.
+La mayoría de los miembros de una corporación, que tengan según sus estatutos voto deliberativo, será considerada como una asamblea o reunión legal de la corporación entera.
 
-La voluntad de la mayoría de la sala es la voluntad de la corporación.
+La asamblea se reunirá ordinariamente una vez al año, y extraordinariamente cuando lo exijan las necesidades de la asociación.
+
+La voluntad de la mayoría de la asamblea es la voluntad de la corporación.
 
 Todo lo cual se entiende sin perjuicio de las modificaciones que los estatutos de la corporación prescribieren a este respecto.
 
 #### Artículo 551
 
-Las corporaciones son representadas por las personas a quienes la ley o las ordenanzas respectivas, o a falta de una y otras, un acuerdo de la corporación ha conferido este carácter.
+La dirección y administración de una asociación recaerá en un directorio de al menos tres miembros, cuyo mandato podrá extenderse hasta por cinco años.
+
+No podrán integrar el directorio personas que hayan sido condenadas a pena aflictiva.
+
+El director que durante el desempeño del cargo fuere condenado por crimen o simple delito, o incurriere en cualquier otro impedimento o causa de inhabilidad o incompatibilidad establecida por la ley o los estatutos, cesará en sus funciones, debiendo el directorio nombrar a un reemplazante que durará en sus funciones el tiempo que reste para completar el período del director reemplazado.
+
+El presidente del directorio lo será también de la asociación, la representará judicial y extrajudicialmente y tendrá las demás atribuciones que los estatutos señalen.
+
+El directorio sesionará con la mayoría absoluta de sus miembros y sus acuerdos se adoptarán por la mayoría absoluta de los asistentes, decidiendo en caso de empate el voto del que presida.
+
+El directorio rendirá cuenta ante la asamblea de la inversión de los fondos y de la marcha de la asociación durante el período en que ejerza sus funciones. Cualquiera de los asociados podrá pedir información acerca de las cuentas de la asociación, así como de sus actividades y programas.
+
+#### Artículo 551
+
+1. Los directores ejercerán su cargo gratuitamente, pero tendrán derecho a ser reembolsados de los gastos, autorizados por el directorio, que justificaren haber efectuado en el ejercicio de su función.
+
+Sin embargo, y salvo que los estatutos dispusieren lo contrario, el directorio podrá fijar una retribución adecuada a aquellos directores que presten a la organización servicios distintos de sus funciones como directores. De toda remuneración o retribución que reciban los directores, o las personas naturales o jurídicas que les son relacionadas por parentesco o convivencia, o por interés o propiedad, deberá darse cuenta detallada a la asamblea o, tratándose de fundaciones, al directorio.
+
+La regla anterior se aplicará respecto de todo asociado a quien la asociación encomiende alguna función remunerada.
+
+#### Artículo 551
+
+2. En el ejercicio de sus funciones los directores responderán solidariamente hasta de la culpa leve por los perjuicios que causaren a la asociación.
+
+El director que quiera salvar su responsabilidad por algún acto o acuerdo del directorio, deberá hacer constar su oposición, debiendo darse cuenta de ello en la próxima asamblea.
 
 #### Artículo 552
 
@@ -3362,11 +3492,13 @@ Los actos del representante de la corporación, en cuanto no excedan de los lím
 
 #### Artículo 553
 
-Los estatutos de una corporación tienen fuerza obligatoria sobre toda ella, y sus miembros están obligados a obedecerlos bajo las penas que los mismos estatutos impongan.
+Los estatutos de una corporación tienen fuerza obligatoria sobre toda ella, y sus miembros están obligados a obedecerlos bajo las sanciones que los mismos estatutos impongan.
+
+La potestad disciplinaria que le corresponde a una asociación sobre sus asociados se ejercerá a través de una comisión de ética, tribunal de honor u otro organismo de similar naturaleza, que tendrá facultades disciplinarias respecto de los integrantes de la respectiva asociación, las que ejercerá mediante un procedimiento racional y justo, con respeto de los derechos que la Constitución, las leyes y los estatutos confieran a sus asociados. En todo caso, el cargo en el órgano de administración es incompatible con el cargo en el órgano disciplinario.
 
 #### Artículo 554
 
-Toda corporación tiene sobre sus miembros el derecho de policía correccional que sus estatutos le confieran, y ejercerán este derecho en conformidad a ellos.
+Derogado.
 
 #### Artículo 555
 
@@ -3374,25 +3506,71 @@ Los delitos de fraude, dilapidación, y malversación de los fondos de la corpor
 
 #### Artículo 556
 
-Las corporaciones pueden adquirir bienes de todas clases a cualquier título.
+Las asociaciones y fundaciones podrán adquirir, conservar y enajenar toda clase de bienes, a título gratuito u oneroso, por actos entre vivos o por causa de muerte.
+
+El patrimonio de una asociación se integrará, además, por los aportes ordinarios o extraordinarios que la asamblea imponga a sus asociados, con arreglo a los estatutos.
+
+Las rentas, utilidades, beneficios o excedentes de la asociación no podrán distribuirse entre los asociados ni aún en caso de disolución.
 
 #### Artículo 557
 
-Derogado.
+Corresponderá al Ministerio de Justicia la fiscalización de las asociaciones y fundaciones.
+
+En ejercicio de esta potestad podrá requerir a sus representantes que presenten para su examen las actas de las asambleas y de las sesiones de directorio, las cuentas y memorias aprobadas, libros de contabilidad, de inventarios y de remuneraciones, así como cualquier otra información respecto del desarrollo de sus actividades.
+
+El Ministerio de Justicia podrá ordenar a las corporaciones y fundaciones que subsanen las irregularidades que comprobare o que se persigan las responsabilidades pertinentes, sin perjuicio de requerir del juez las medidas que fueren necesarias para proteger de manera urgente y provisional los intereses de la persona jurídica o de terceros.
+
+El incumplimiento de las instrucciones impartidas por el Ministerio de Justicia se mirará como infracción grave a los estatutos.
+
+#### Artículo 557
+
+1. Las personas jurídicas regidas por este Título estarán obligadas a llevar contabilidad de conformidad con los principios de contabilidad de aceptación general. Deberán además confeccionar anualmente una memoria explicativa de sus actividades y un balance aprobado por la asamblea o, en las fundaciones, por el directorio.
+
+Las personas jurídicas cuyo patrimonio o cuyos ingresos totales anuales superen los límites definidos por resolución del Ministro de Justicia, deberán someter su contabilidad, balance general y estados financieros al examen de auditores externos independientes designados por la asamblea de asociados o por el directorio de la fundación de entre aquellos inscritos en el Registro de Auditores Externos de la Superintendencia de Valores y Seguros.
+
+#### Artículo 557
+
+2. Las asociaciones y fundaciones podrán realizar actividades económicas que se relacionen con sus fines. Asimismo, podrán invertir sus recursos de la manera que decidan sus órganos de administración.
+
+Las rentas que se perciban de esas actividades sólo deberán destinarse a los fines de la asociación o fundación o a incrementar su patrimonio.
+
+#### Artículo 557
+
+3. De las deliberaciones y acuerdos del directorio y, en su caso, de las asambleas se dejará constancia en un libro o registro que asegure la fidelidad de las actas.
+
+Las asociaciones y fundaciones deberán mantener permanentemente actualizados registros de sus asociados, directores y demás autoridades que prevean sus estatutos.
 
 #### Artículo 558
 
-Derogado.
+La modificación de los estatutos de una asociación deberá ser acordada por la asamblea citada especialmente con ese propósito. La disolución o fusión con otra asociación deberán ser aprobadas por dos tercios de los asociados que asistan a la respectiva asamblea.
+
+Los estatutos de una fundación sólo podrán modificarse por acuerdo del directorio, previo informe favorable del Ministerio, siempre que la modificación resulte conveniente al interés fundacional. No cabrá modificación si el fundador lo hubiera prohibido.
+
+El Ministerio de Justicia emitirá un informe respecto del objeto de la fundación, como asimismo, del órgano de administración y de dirección, en cuanto a su generación, integración y atribuciones.
+
+En todo caso deberá cumplirse con las formalidades establecidas en el artículo 548.
 
 #### Artículo 559
 
-Las corporaciones no pueden disolverse por sí mismas, sin la aprobación de la autoridad que legitimó su existencia.
+Las asociaciones se disolverán:
 
-Pero pueden ser disueltas por ella, o por disposición de la ley, a pesar de la voluntad de sus miembros, si llegan a comprometer la seguridad o los intereses del Estado, o no corresponden al objeto de su institución.
+a) Por el vencimiento del plazo de su duración, si lo hubiera;
+
+b) Por acuerdo de la asamblea general extraordinaria, cumpliendo los requisitos formales establecidos en el artículo 558;
+
+c) Por sentencia judicial ejecutoriada, en caso de:
+
+1) estar prohibida por la Constitución o la ley o infringir gravemente sus estatutos, o
+
+2) haberse realizado íntegramente su fin o hacerse imposible su realización, y
+
+d) Por las demás causas previstas en los estatutos y en las leyes.
+
+La sentencia a que se refiere la letra c) precedente sólo podrá dictarse en juicio incoado a requerimiento del Consejo de Defensa del Estado, en procedimiento breve y sumario, el que ejercerá la acción previa petición fundada del Ministerio de Justicia. En el caso a que se refiere el número 2 de la letra c) precedente, podrá también dictarse en juicio promovido por la institución llamada a recibir los bienes de la asociación o fundación en caso de extinguirse.
 
 #### Artículo 560
 
-Si por muerte u otros accidentes quedan reducidos los miembros de una corporación a tan corto número que no puedan ya cumplirse los objetos para que fue instituida, o si faltan todos ellos, y los estatutos no hubieren prevenido el modo de integrarla o renovarla en estos casos, corresponderá a la autoridad que legitimó su existencia dictar la forma en que haya de efectuarse la integración o renovación.
+Derogado.
 
 #### Artículo 561
 
@@ -3400,7 +3578,7 @@ Disuelta una corporación, se dispondrá de sus propiedades en la forma que para
 
 #### Artículo 562
 
-Las fundaciones de beneficencia que hayan de administrarse por una colección de individuos, se regirán por los estatutos que el fundador les hubiere dictado; y si el fundador no hubiere manifestado su voluntad a este respecto, o sólo la hubiere manifestado incompletamente, será suplido este defecto por el Presidente de la República.
+Las fundaciones de beneficencia que hayan de administrarse por una colección de individuos, se regirán por los estatutos que el fundador les hubiere dictado; y si el fundador no hubiere manifestado su voluntad a este respecto, o sólo la hubiere manifestado incompletamente, se procederá en la forma indicada en el inciso segundo del artículo 558.
 
 #### Artículo 563
 
@@ -15308,7 +15486,9 @@ DISPOSICIONES GENERALES
 
 º En el libro de los nacimientos se inscribirán:
 
-1.º Los nacimientos que ocurran en el territorio de cada comuna;
+1.º Los nacimientos que ocurran en el territorio de cada comuna.
+
+El padre o la madre, al requerir esta inscripción, podrá solicitar que, junto con anotarse la comuna en que nació su hijo, se registre, en la misma partida, la comuna o localidad en la que estuviere avecindada la madre del recién nacido, la que deberá consignarse como lugar de origen de éste;
 
 2.º Los nacimientos que ocurran en viaje dentro del territorio de la República o en el mar, en la comuna en que termine el viaje o en la del primer puerto de arribada;
 
@@ -15602,13 +15782,15 @@ Las partidas de nacimiento deberán contener, además de las indicaciones comune
 
 2.º El sexo del recién nacido;
 
-3.º El nombre y apellido del nacido, que indique la persona que requiere la inscripción; y
+3.º El nombre y apellido del nacido, que indique la persona que requiere la inscripción;
 
 4.º Los nombres, apellidos, nacionalidad, profesión u oficio y domicilio de los padres, o los del padre o madre que le reconozca o haya reconocido. Se dejará constancia de los nombres y apellidos de la madre, aunque no haya reconocimiento, cuando la declaración del requirente coincida con el comprobante del médico que haya asistido al parto, en lo concerniente a las identidades del nacido y de la mujer que lo dio a luz.
 
 No podrá imponerse al nacido un nombre extravagante, ridículo, impropio de personas, equívoco respecto del sexo o contrario al buen lenguaje.
 
-Si el Oficial del Registro Civil, en cumplimiento de lo que dispone el inciso anterior, se opusiere a la inscripción de un nombre y el que lo solicite insistiere en ello, enviará de inmediato los antecedentes al Juez de Letras o del Departamento, quien resolverá en el menor plazo posible, sin forma de juicio, pero con audiencia de las partes, si el nombre propuesto está comprendido o no en la prohibición. Estas actuaciones estarán exentas de impuestos.
+Si el Oficial del Registro Civil, en cumplimiento de lo que dispone el inciso anterior, se opusiere a la inscripción de un nombre y el que lo solicite insistiere en ello, enviará de inmediato los antecedentes al Juez de Letras o del Departamento, quien resolverá en el menor plazo posible, sin forma de juicio, pero con audiencia de las partes, si el nombre propuesto está comprendido o no en la prohibición. Estas actuaciones estarán exentas de impuestos, y
+
+5º. La comuna o localidad en la que estuviere avecindada la madre del recién nacido deberá consignarse tanto en esta partida, cuanto en el certificado de nacimiento, como lugar de origen del hijo.
 
 #### Artículo 32
 
@@ -16146,7 +16328,7 @@ DEROGADO
 
 #### Artículo 42
 
-Para los efectos del artículo 226 del Código Civil, se entenderá que uno o ambos padres se encuentran en el caso de inhabilidad física o moral:
+Para el solo efecto del artículo 226 del Código Civil, se entenderá que uno o ambos padres se encuentran en el caso de inhabilidad física o moral:
 
 1.º Cuando estuvieren incapacitados mentalmente;
 
