@@ -1,0 +1,7 @@
+FIJA TRAMOS DE LA CLASIFICACIÓN Y PORCENTAJE DE REDUCCIÓN DE SIEMBRA EN LOS CENTROS DE CULTIVO. PUNTAJE Y PONDERACIÓN DE LOS ELEMENTOS DE LA CLASIFICACIÓN DE LAS AGRUPACIONES DE CONCESIONES, LOS TRAMOS Y DENSIDADES DE CULTIVO
+
+Por resolución exenta N° 1.503, de 13 de junio de 2013, de esta Subsecretaría, fíjanse los tramos de clasificación de bioseguridad de los centros de engorda y los porcentajes de reducción de siembra para el ciclo productivo siguiente, conforme al porcentaje de pérdidas obtenidas en el ciclo productivo anterior.
+
+Fíjanse los puntajes y la ponderación de los elementos que componen la clasificación de las agrupaciones de concesiones de salmónidos; los tramos de la clasificación en alta, media o baja conforme a los puntajes obtenidos por las agrupaciones y la densidad de cultivo que corresponderá a cada uno de ellos y las densidades de cultivo para los centros de cultivo que individualmente hubieren obtenido una clasificación de bioseguridad alta y que sean integrantes de una agrupación de concesiones de salmónidos que hubiere obtenido una clasificación de bioseguridad media o baja. El texto de la resolución puede consultarse en la página www.subpesca.cl.
+
+Valparaíso, 13 de junio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
