@@ -56,11 +56,13 @@ Podrán afiliarse a un Servicio de Bienestar las personas que respecto de la ins
 
 Los afiliados que dejen de ser funcionarios y que deseen seguir perteneciendo al Servicio de Bienestar como jubilados, podrán manifestarlo por escrito y, desde esa oportunidad y hasta que adquieran dicha calidad, se mantendrán en suspenso sus derechos como afiliados, los que se ejercerán plenamente a contar desde la fecha a partir de la cual se conceda la jubilación, pudiendo percibir retroactivamente los beneficios que correspondan, siempre que efectúen la cotización retroactiva por el período en que se mantuvieron en suspenso sus derechos.
 
-Para los efectos de lo dispuesto en el inciso anterior, los Servicios de Bienestar deberán solicitar a la Oficina de Personal de la Institución a la cual pertenecen que les informen de inmediato el cese de funciones de sus afiliados que jubilen, a fin de requerirlos por escrito dentro de los 7 días hábiles siguientes, para que manifiesten su decisión en el formulario que deberán confeccionar para ese objeto.
+Durante el período de suspensión referido en el inciso precedente y en el caso de existir seguros contratados en beneficio de los afiliados, quien desee mantener su derecho a impetrar tales prestaciones, deberá seguir pagando la prima correspondiente, sin perjuicio del reembolso que corresponda, una vez que adquiera la calidad de jubilado.
+
+Para los efectos de lo dispuesto en los dos incisos anteriores, los Servicios de Bienestar deberán solicitar a la Oficina de Personal de la Institución a la cual pertenecen que les informen de inmediato el cese de funciones de sus afiliados que jubilen, a fin de requerirlos por escrito dentro de los 7 días hábiles siguientes, para que manifiesten su decisión en el formulario que deberán confeccionar para ese objeto.
 
 #### Artículo 8°
 
-Tanto la afiliación como la desafiliación al Servicio de Bienestar serán voluntarias y deberán ser solicitadas por escrito al Consejo Administrativo, el que deberá pronunciarse al respecto en la sesión ordinaria siguiente a la fecha de la solicitud.
+Tanto la afiliación como la desafiliación al Servicio de Bienestar serán voluntarias y deberán ser solicitadas por escrito al Consejo Administrativo, el que deberá pronunciarse al respecto en la sesión ordinaria o extraordinaria siguiente a la fecha de la solicitud.
 
 El Consejo Administrativo, mediante acuerdo adoptado por los dos tercios de sus integrantes, podrá denegar la afiliación cuando el solicitante hubiere sido expulsado del Servicio de Bienestar.
 
@@ -159,6 +161,10 @@ Los porcentajes que se determinen para los beneficios indicados en las letras pr
 Los Servicios de Bienestar podrán celebrar, a través de la autoridad superior de la Institución de la cual formen parte, convenios con empresas, destinados a obtener ventas al contado o a crédito de toda clases de bienes, mercaderías o servicios para satisfacer las necesidades de sus afiliados.
 
 Asimismo los Servicios de Bienestar podrán celebrar, a través de la autoridad superior de la Institución de la cual formen parte, convenios entre sí o con profesionales e instituciones del área de la salud y otras entidades, con el propósito de mejorar el nivel de atención y servicios que entreguen a sus afiliados.
+
+Además, los Servicios de Bienestar, a través de la autoridad superior de la Institución de la cual formen parte, podrán contratar y financiar con cargo a sus recursos, de acuerdo con sus disponibilidades presupuestarias, seguros de vida y seguro de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+
+Finalmente, los Servicios de Bienestar podrán también a través de la autoridad superior de la Institución, contratar seguros de cualquier naturaleza, en beneficio de sus afiliados, con los aportes de éstos, destinados a contribuir a su bienestar, cooperando a su adaptación al medio y a la elevación de sus condiciones de vida.
 
 ## Título V
 
@@ -274,7 +280,7 @@ b) Adoptar los acuerdos y las medidas conducentes a la más expedita realizació
 
 c) Valar poa la correcta administración y aplicación de los fondos del Servicio de Bienestar;
 
-d) Aprobar el proyecto de presupuesto de ingresos y gastos y sus modificaciones que anualmente le proponga el Jefe del Servicio de Bienestar y someterlo a la aprobación de la Superintendencia;
+d) Aprobar el proyecto de presupuesto de ingresos y gastos que anualmente le proponga el Jefe del Servicio de Bienestar y someterlo a la aprobación de la Superintendencia, como asimismo las modificaciones presupuestarias que requieran efectuarse durante el ejercicio correspondiente, tanto las que debe aprobar la Superintendencia como los ajustes al presupuesto que el Servicio de Bienestar realice en forma interna de acuerdo con las instrucciones impartidas por la misma;
 
 e) Aprobar el balance que se practique al 31 de diciembre de cada año y remitirlo a la Superintendencia y a la Contraloría General de la República, y confeccionar y publicar una memoria anual si sus disponibilidades presupuestarias se lo permiten.
 
@@ -316,7 +322,7 @@ El Jefe del Bienestar tendrá las siguientes funciones:
 
 a) Ejecutar los acuerdos del Consejo Administrativo;
 
-b) Proponer al Consejo Administrativo el proyecto de presupuesto de ingresos y gastos anuales;
+b) Proponer al Consejo Administrativo el proyecto de presupuesto de ingresos y gastos anuales y las modificaciones presupuestarias que requieran efectuarse durante el ejercicio correspondiente;
 
 c) Someter a la aprobación del Consejo Administrativo el balance anual;
 
@@ -362,7 +368,9 @@ e) Comisiones que perciban en virtud de los convenios que celebren con terceros 
 
 f) Sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor;
 
-g) Los demás bienes o recursos que obtengan a cualquier título.
+g) Los excedentes que genere la administración de los servicios dependientes, siempre que la Institución que concedió dicha administración lo hubiese autorizado en la resolución correspondiente.
+
+h) Los demás bienes o recursos que obtengan a cualquier título.
 
 #### Artículo 33°
 
