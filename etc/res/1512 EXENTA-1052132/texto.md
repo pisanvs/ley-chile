@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.512, de 13 de junio de 2013, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 210103008, presentada por SERGIO JOSÉ PÉREZ ANCAMILLA, para instalar y operar un centro de cultivo ubicado en Ensenada Detico, comuna de Queilén, provincia de Chiloé X Región.
+
+Valparaíso, 13 de junio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
