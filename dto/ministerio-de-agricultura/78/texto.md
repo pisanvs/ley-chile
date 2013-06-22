@@ -142,6 +142,8 @@ Se permite el reemplazo de la leche de origen animal por otras leches o cremas d
 
 55.- Bebidas alcohólicas elaboradas en base a Ajenjo: Son aquellas elaboradas con Artemisia absinthium L (Ajenjo) principalmente, u otras especies del mismo género, cuyo contenido máximo de Tujonas totales (Alfa y Beta) no podrá ser superior a 35 miligramos por litro.
 
+56. Cóctel de vino: Es la bebida alcohólica elaborada sobre la base de vino como materia alcohólica predominante, que puede o no contener anhídrido carbónico, a la que se le adicionan productos analcohólicos, frutas y colorantes.
+
 > **Nota.** EL ARTICULO TRANSITORIO del Decreto 103, Agricultura, publicado el 30.09.1987, dispuso que las modificaciones introducidas al presente decreto regirán vencido el plazo de 6 meses a contar de su publicación.
 
 > **Nota.** NOTA 1 El ARTICULO TRANSITORIO del Decreto 80, Agricultura, publicado el 19.07.1990, dispuso que las modificaciones introducidas a la presente norma, regirán 60 días después de su publicación.
@@ -518,6 +520,12 @@ Entre estos vinos se incluyen el Vermouth y el Quinado.
 
 e) Vino cosecha tardía o late harvest: el vino obtenido de uvas sobremaduras con una graduación alcohólica de al menos 11.5º GL.
 
+f) Vino parcialmente desalcoholizado: Es la bebida alcohólica obtenida mediante técnicas de desalcoholizado, y cuyo grado alcohólico real es igual o superior a 0,5º GL e inferior al grado alcohólico establecido para el vino.
+
+g) Vino desalcoholizado: Es la bebida alcohólica obtenida mediante técnicas de desalcoholizado, y cuyo grado alcohólico real es menor a 0,5º GL.
+
+h) Espumante de baja graduación: Es la bebida alcohólica elaborada sobre la base de vino obtenido por fermentación alcohólica parcial del mosto de uvas frescas o asoleadas, elaborado mediante prácticas enológicas autorizadas, cuyo contenido de anhídrido carbónico generado naturalmente, no puede ser inferior a 3 atmósferas de presión a 20º Celsius de temperatura con una graduación alcohólica total de al menos 11.5º GL.
+
 #### Artículo 20°
 
 Vino Espumante o Espumoso es el vino que termina su elaboración en envase cerrado y cuyo contenido de anhídrido carbónico se ha desarrollado naturalmente en su seno por una segunda fermentación en base a azúcares, y cuya presión no puede ser inferior a 3 atmósferas a 20 grados Celsius de temperatura. En su elaboración están autorizadas las prácticas de los métodos de fermentación en botella y "Charmat" o cuba cerrada, adicionando en ambos casos el licor de expedición en base a azúcar, vino y aguardiente o brandy.
@@ -646,6 +654,18 @@ n. Glucano-Quitina, en dosis máxima de 100 g/hL
 
 17. Acidificación de mostos mediante tratamiento con electromembranas.
 
+18. Acidificación de mostos mediante tratamiento con intercambiador de cationes.
+
+19. Desacidificación de mostos mediante tratamiento con electro membranas.
+
+20. Reducción del contenido de azúcar de los mostos mediante el empleo de las siguientes técnicas:
+
+a) Técnicas de membranas.
+
+b) Acoplamiento membranoso.
+
+21. Durante la vinificación podrá utilizarse agua para lavado de equipos de molienda, disolver aditivos y rehidratar levaduras de fermentación. El volumen del mosto no podrá aumentar en más de 5% del volumen inicial.
+
 #### Artículo 23º
 
 Durante el proceso de elaboración de los vinos se permite agregar las sustancias y efectuar las manipulaciones que a continuación se indican:
@@ -740,7 +760,15 @@ m. Glucano-Quitina, en dosis máxima de 100 g/hL.
 
 32. La adición de Carboximetilcelulosa (CMC), con el fin de lograr la estabilización tartárica en vinos y vinos espumosos en dosis máximas de 100 mg/L.
 
-33. El empleo de Columna de Cono Rotatorio para el desalcoholizado parcial del vino, siempre que el producto final no disminuya en más de 2° GL, la graduación alcohólica inicial.
+33. Corrección del contenido de alcohol del vino en un máximo de un 20%, mediante las siguientes técnicas separativas empleadas de manera aisladas o combinadas:
+
+a) Evaporación parcial al vacío.
+
+b) Técnicas de membranas.
+
+c) Destilación.
+
+d) Cono rotatorio.
 
 34. El empleo de Resinas de Intercambio Catiónico, con el fin de lograr la estabilización tartárica.
 
@@ -751,6 +779,20 @@ m. Glucano-Quitina, en dosis máxima de 100 g/hL.
 37. El empleo de Glucano-Quitina para reducir Ocratoxina A, en dosis máxima de 500 g/hL.
 
 38. Acidificación de vinos mediante tratamiento con electromembranas.
+
+39. Acidificación de vinos mediante tratamiento con intercambiador de cationes.
+
+40. Desacidificación de vinos mediante tratamiento con electromembranas.
+
+41. Desalcoholización del vino mediante las siguientes técnicas separativas empleadas de manera aislada o combinada:
+
+a) Evaporación parcial al vacío.
+
+b) Técnicas de membranas.
+
+c) Destilación.
+
+42. Durante la elaboración del vino podrá utilizarse agua para disolver aditivos y productos enológicos. El volumen después de todos los tratamientos no podrá aumentar en más del 2% del volumen de vino inicial.
 
 #### Artículo 24°
 
@@ -778,7 +820,7 @@ e) Los productos finales que contengan más de 2 microgramos por litro (µ/L) de
 
 Se considerarán vinos adulterados los siguientes:
 
-a) Aquellos que en su proceso de vinificación o de elaboración se les haya adicionado agua.
+a) Aquellos que en su proceso de vinificación o de elaboración se les haya adicionado agua, salvo que ese elemento provenga de los actos autorizados y en las condiciones establecidas en los números 21 del artículo 22 y número 42 del artículo 23 de este Reglamento.
 
 b) Los que tengan una suma alcohol-ácido inferior a 13,5.
 
