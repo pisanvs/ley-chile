@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.535 EXENTA, DE 2013
+
+Por resolución exenta Nº 2.535, de fecha 12 de junio de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica resolución exenta Nº 490, de 4 de mayo de 2000, de la misma Secretaría Regional, sólo en el sentido de reconocer el cambio de domicilio en la sede ubicada en la comuna de Maipú, de la Escuela de Conductores Profesionales "Vera y Jorquera Limitada", nombre de fantasía "San Francisco Ltda.", RUT Nº 77.386.900-6, representada legalmente por el señor Juan Carlos Vera Fuentes, para impartir cursos de licencia de conductor profesional Clases A-2 y A-4, en actual sede ubicada en Avda. Ramón Freire Nº 1306, y taller mecánico en Avda. Nueva San Martín Nº 409, ambos en la comuna de Maipú.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
