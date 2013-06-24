@@ -1,0 +1,27 @@
+MODIFICA DECRETOS Nº 174 Y N° 210, AMBOS DE 2009, Y DEL MINISTERIO DE MINERÍA, Y DECRETO Nº 245, DE 2010, DEL MINISTERIO DE ENERGÍA, A TRAVÉS DE LOS CUALES SE OTORGARON, RESPECTIVAMENTE, LAS CONCESIONES DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA DENOMINADAS "PUCHULDIZA SUR 2", "HUISCAPI" Y "RANQUIL ESTE", A LA EMPRESA GGE CHILE SpA, EN VIRTUD DE LA LEY N° 19.657
+
+Núm. 234 exento.- Santiago, 4 de junio de 2013.- Vistos: Lo dispuesto en la ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en el decreto supremo Nº 114, de 2012, del Ministerio de Energía, que Aprueba Nuevo Reglamento para la Aplicación de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica y deroga decreto Nº 32, de 2004, del Ministerio de Minería; en el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería; en la ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL N° 2.224, de 1978, y a otros cuerpos legales; en los decretos supremos Nº 174, de 9 de octubre y N° 210, de 7 de diciembre, ambos de 2009, del Ministerio de Minería; en los decretos supremos Nº 245, de 8 de octubre de 2010, Nº 218, de 22 de junio de 2011 y Nº 83, de 2 de marzo de 2012, todos del Ministerio de Energía; en la presentación del Sr. Rüdiger Trenkle, de fecha 19 de abril de 2013; en la resolución N° 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que mediante decreto supremo Nº 174, de fecha 9 de octubre de 2009, del Ministerio de Minería, publicado en el Diario Oficial de fecha 2 de marzo de 2010, se otorgó a la empresa GGE Chile SpA la concesión de exploración de energía geotérmica denominada "Puchuldiza Sur 2". Posteriormente, la referida concesión fue prorrogada mediante decreto supremo exento Nº 83, de 2 de marzo de 2012, del Ministerio de Energía, publicado en el Diario Oficial de fecha 17 de abril de 2012.
+
+2. Que mediante decreto supremo Nº 210, de 7 de diciembre de 2009, del Ministerio de Minería, publicado en el Diario Oficial de fecha 2 de marzo de 2010, se otorgó a la empresa Geotermia del Pacífico Servicios de Ingeniería Limitada la concesión de exploración de energía geotérmica denominada "Huiscapi". Dicha concesión fue modificada mediante decreto supremo exento Nº 218, de 22 de junio de 2011, del Ministerio de Energía, publicado en el Diario Oficial de fecha 20 de julio de 2011, en el sentido de dar cuenta del traspaso de la misma a la empresa GGE Chile SpA. Posteriormente, la referida concesión fue prorrogada mediante decreto supremo exento Nº 83, de 2 de marzo de 2012, del Ministerio de Energía, publicado en el Diario Oficial de fecha 17 de abril de 2012.
+
+3. Que mediante decreto supremo Nº 245, de 8 de octubre de 2010, del Ministerio de Energía, publicado en el Diario Oficial de fecha 16 de mayo de 2011, se otorgó a GGE Chile SpA la concesión de exploración de energía geotérmica denominada "Ranquil Este", la cual fue prorrogada mediante decreto supremo exento Nº 94, de 11 de marzo de 2013, del Ministerio de Energía, publicado en el Diario Oficial de fecha 4 de abril de 2013.
+
+4. Que mediante decreto supremo exento Nº 378, de 9 de octubre de 2012, del Ministerio de Energía, publicado en el Diario Oficial de fecha 6 de noviembre de 2012, se modificaron las concesiones individualizadas en los considerandos 1, 2 y 3 del presente decreto, en el sentido de dar cuenta que el nuevo titular de las mismas, a partir del día 27 de abril de 2012, es la empresa Geoglobal Energy Exploración Limitada.
+
+5. Que mediante presentación de fecha 19 de abril de 2013, efectuada por el representante legal de la empresa concesionaria, se informó a esta Secretaría de Estado que, por escritura pública de fecha 25 de marzo de 2013, otorgada ante la Notario Público Titular de la Décimo Sexta Notaría y Conservador de Minas de Santiago, doña Antonieta Mendoza Escalas, se modificó la razón social de la sociedad Geoglobal Energy Chile Limitada, pasando a denominarse "MRP Chile Exploración Limitada".
+
+6. Que, atendidos los antecedentes expuestos, el Ministerio de Energía considera ajustado a derecho proceder a la modificación de las concesiones de exploración de energía geotérmica identificadas en los considerandos 1, 2 y 3 del presente decreto, de conformidad con lo establecido en la ley N° 19.657 y su Reglamento.
+
+Decreto:
+
+1º Modifícanse los decretos supremos N° 174, de 9 de octubre de 2009, del Ministerio de Minería; Nº 210, de 7 de diciembre de 2009, del Ministerio de Minería, y Nº 245, de 8 de octubre de 2010, del Ministerio de Energía, que otorgaron las concesiones de exploración de energía geotérmica denominadas "Puchuldiza Sur 2", "Huiscapi" y "Ranquil Este", respectivamente, en el sentido de dejar constancia que el nuevo titular de dichas concesiones a partir del día 25 de marzo de 2013, fecha de otorgamiento de la referida escritura pública de modificación de estatutos, es la empresa "MRP Chile Exploración Limitada".
+
+2º Remítase copia de la escritura pública de modificación de estatutos ya identificada, conjuntamente con una copia del presente decreto, al Servicio Nacional de Geología y Minería para el efecto previsto en el artículo 31 del Reglamento de la ley Nº 19.657.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
