@@ -346,6 +346,18 @@ Para efectos de los límites de los aportes que constituyen financiamiento priva
 
 ## Título IV
 
+De la transmisión de propaganda electoral por los canales de televisión
+
+#### Artículo 42 bis
+
+En las elecciones primarias para la nominación de candidatos al cargo de Presidente de la República, los canales de televisión de libre recepción deberán destinar gratuitamente quince minutos diarios de sus transmisiones a propaganda electoral, los que se distribuirán en partes iguales entre los partidos o pactos que participen.
+
+Para estos efectos, los canales de televisión determinarán, en conjunto con los partidos o pactos que participen, el horario en que se efectuarán las transmisiones. En caso de desacuerdo, la propuesta de los canales deberá ser aprobada por el Consejo Nacional de Televisión.
+
+La transmisión de la propaganda electoral a que se refiere el inciso anterior sólo podrá efectuarse desde el décimo octavo hasta el tercer día anterior al de la elección primaria.
+
+## Título V
+
 OTRAS DISPOSICIONES
 
 #### Artículo 43
