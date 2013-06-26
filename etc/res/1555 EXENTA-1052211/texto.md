@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.555, de 19 de junio de 2013, de esta Subsecretaría, rectifícase el numeral 4.- la resolución exenta N° 1.490, de 2012 y de esta Subsecretaría, que estableció la nómina definitiva de buzos, recolectores de orilla, algueros o buzos apnea, que participaron de las pescas de investigación a que se refiere el artículo 3° de la ley N° 20.560, en el sentido de reemplazar la individualización hecha al recolector de orilla Juan Eugenio Morales Vargas para el recurso macha, X Región, de conformidad a lo indicado en resolución extractada.
+
+Valparaíso, 19 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
