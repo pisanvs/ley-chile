@@ -12,9 +12,9 @@ Resuelvo:
 
 #### Artículo 1º
 
-Autorízase la puesta en marcha del examen teórico informatizado para postulantes a licencias de conductor implementado en los Gabinetes Técnicos de las Municipalidades de Frutillar y Entre Lagos.
+Autorízase la puesta en marcha del examen teórico informatizado para postulantes a licencias de conductor implementado en los Gabinetes Técnicos de las Municipalidades de Frutillar y de Puyehue.
 
-Las Municipalidades de Frutillar y Entre Lagos deberán aplicar el examen teórico informatizado a los postulantes a licencia que corresponda. En caso contrario se suspenderá la autorización para otorgar licencias de acuerdo al artículo 9º de la Ley de Tránsito.
+Las Municipalidades de Frutillar y de Puyehue deberán aplicar el examen teórico informatizado a los postulantes a licencia que corresponda. En caso contrario se suspenderá la autorización para otorgar licencias de acuerdo al artículo 9º de la Ley de Tránsito.
 
 Dentro de los cinco primeros días de los meses de enero y julio de cada año, los municipios deberán proporcionar a la Subsecretaría de Transportes, por medios electrónicos, información estadística sobre la cantidad de exámenes teóricos informatizados rendidos y anulados durante el semestre inmediatamente anterior, diferenciados por clase de licencia.
 
