@@ -1,0 +1,33 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO SOLUCIÓN CARDIOPLÉJICA D-62945
+
+Núm. 1.507 exenta.- Santiago, 16 de mayo de 2013.- Visto: Estos antecedentes; el memorando Nº 345 del Subdepartamento Inspecciones, de fecha 27 de agosto de 2012, de este Instituto, mediante el cual solicita la determinación del régimen que corresponde aplicar al producto Solución Cardiopléjica D-62945, elaborada en recetario de Farmacia Magistral Reccius, presentado mediante formulario de denuncia a la calidad del Químico Farmacéutico Álvaro Fuentes Mariángel, encargado de farmacovigilancia de la Clínica Dávila; el acuerdo de la Sesión Nº 2/13 de la Comisión de Régimen de Control Aplicable, realizada el 27 de marzo de 2013, y
+
+Considerando:
+
+Primero: Que de acuerdo a lo señalado por el denunciante, cada ampolla estéril contiene: Cloruro de Potasio 1,49g/19,86 mmol (19,86 mEq K+); Cloruro de Magnesio x 6 H2O 1,22g/6 mmol (12 mEq Mg+²); Agua destilada csp 20,0 mL.
+
+Segundo: Que mediante memorando Nº 347, de fecha 27 de agosto de 2012 del Subdepartamento Inspecciones, a través del cual se solicita definir el régimen de control a aplicar para el producto Solución Cardiopléjica D-62945, presentado mediante formulario de denuncia a la calidad del Químico Farmacéutico Álvaro Fuentes Mariángel, encargado de farmacovigilancia de Clínica Dávila, quien señala que la solución tal, elaborada en recetario magistral de la farmacia Reccius (Nº de serie o lote RM 11010401, fecha de vencimiento 31/01/2013), es utilizada para trasplante, señalando que la enfermera encargada de la perfusión declara que se utiliza una gran cantidad de ampollas, lo que podría indicar la ineficacia de la solución para producir el efecto cardiopléjico.
+
+Tercero: Que de acuerdo a informe técnico del Subdepartamento de Dispositivos Médicos se señala que: "La función esencial de una solución cardiopléjica es detener el corazón rápidamente, crear un ambiente propicio para la producción continua de energía en el estado anaeróbico y contrarrestar los efectos de la isquemia producida por la oclusión de la aorta". Por otro lado, señala que esta solución cardiopléjica se administra a través de la aorta ascendente por medio de una aguja conectada a un sistema de infusión endovenosa y en caso de cirugía aórtica la administración es mediante cánulas directas a las arterias coronarias. En el cual también se señala que este producto no cumple con la definición de dispositivo médico.
+
+Cuarto: Que de acuerdo al informe del Subdepartamento de Farmacovigilancia, respecto a la efectividad de las soluciones cardiopléjicas, señala que las soluciones cardiopléjicas se utilizan como un medio de protección en la cirugía cardíaca. También informa que no existe una formulación única para estas soluciones, pero algunos autores indican que en la formulación se debería incluir bicarbonato, dextrosa, sodio, cloro y potasio, como por ejemplo la fórmula utilizada en la Universidad de Kentucky. Dice, además, que el FDA y la Agencia Española de Medicamentos (AEMPS) tienen registradas soluciones cardiopléjicas y son distintas, entre ellas, la solución de la FDA, denominada "Cardioplejic injection, solution" de Baxter Healthcare Corporation, contiene electrolitos como cloruro de calcio dihidrato, cloruro de magnesio dihidrato, cloruro de potasio y cloruro de sodio con bicarbonato de sodio para el ajuste de pH, en cambio la solución registrada en AEMPS, además de electrolitos, contiene glucosa y cloruro de potasio, dependiendo de la fase cardiopléjica que se quiera lograr. Como conclusión señala que el uso de estas soluciones ha incrementado la seguridad de la cirugía cardíaca, pero no existe una composición estándar y, al parecer, los componentes principales deberían ser bicarbonato, dextrosa, sodio, cloruro y potasio y se deberían tomar las precauciones necesarias a los posibles efectos adversos que pudieran producir el uso de este tipo de soluciones.
+
+Quinto: Que se tienen antecedentes que en varios centros hospitalarios del país se utilizan las soluciones cardiopléjicas, tanto en cirugía como en trasplante de corazón, y algunas corresponden a productos fabricados en el extranjero y otros de fabricación nacional, pero ninguno con registro sanitario en Chile.
+
+Sexto: Que este producto se administra vía inyectable a pacientes que son sometidos a cirugías cardíacas, por lo que corresponde a un medicamento (artículos 7° y 17º, letra a), del decreto Nº3/10).
+
+Séptimo: Que evaluado en la Sesión Nº 2/13 de la Comisión de Régimen de Control Aplicable, realizada el 27 de marzo de 2013, se recomienda clasificar como producto farmacéutico, y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102º del Código Sanitario; en los artículos 8° y 9° del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3, de 2010, del Ministerio de Salud; el artículo 59° letra b), del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado, y en uso de las facultades que me otorga la resolución exenta N° 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Solución Cardiopléjica D-62945, elaborada en recetario de farmacia Magistral Reccius, es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto N° 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8°, del decreto N° 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+4. Lo dispuesto en la presente resolución también será aplicable al resto de los productos que contengan el o los componentes declarados como propios de un producto farmacéutico (artículo 8º, del decreto Nº 3, de 2010).
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Agencia Nacional de Medicamentos.
