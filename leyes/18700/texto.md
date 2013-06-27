@@ -374,7 +374,7 @@ Dentro del mismo plazo, comunicará por carta certificada a los vocales su nombr
 
 Dentro del plazo de tres días hábiles, contado desde la fecha de publicación del acta de designación, cualquier vocal podrá excusarse de desempeñar el cargo. Las excusas deberán ser formuladas por escrito ante el Secretario de la Junta Electoral respectiva y sólo podrán fundarse en:
 
-1) Estar el vocal comprendido entre las causales de inhabilidad contempladas en el artículo 40;
+1) Estar el vocal comprendido entre las causales de inhabilidad contempladas en el artículo 40, o haber sido designado miembro del colegio escrutador;
 
 2) Estar ausente del país o radicado en alguna localidad distante más de trescientos kilómetros o con la que no haya comunicaciones expeditas, hecho que calificará la Junta;
 
@@ -382,9 +382,11 @@ Dentro del plazo de tres días hábiles, contado desde la fecha de publicación 
 
 4) Tener más de setenta años de edad;
 
-5) Estar física o mentalmente imposibilitado de ejercer la función, circunstancia que deberá ser acreditada con certificado de un médico, y
+5) Estar física o mentalmente imposibilitado de ejercer la función, circunstancia que deberá ser acreditada con certificado de un médico;
 
-6) Cumplir labores en establecimientos hospitalarios en los mismos días en que funcionen las Mesas Receptoras, lo que deberá acreditarse mediante certificado del Director del respectivo establecimiento de salud.
+6) Cumplir labores en establecimientos hospitalarios en los mismos días en que funcionen las Mesas Receptoras, lo que deberá acreditarse mediante certificado del Director del respectivo establecimiento de salud, y
+
+7) Estar la mujer en estado de embarazo o de puerperio dentro de las seis semanas previas al parto y hasta veinticuatro semanas siguientes a éste, circunstancia que deberá acreditarse mediante certificado médico, o con la documentación que acredite estar recibiendo el subsidio a que se refiere el artículo 198 del Código del Trabajo.
 
 En el mismo plazo, cualquier persona podrá solicitar la exclusión del o de los vocales que estuvieren afectados por alguna de las causales de inhabilidad señaladas en el artículo 40.
 
@@ -574,7 +576,7 @@ Las Mesas no podrán funcionar con menos de tres vocales.
 
 Los vocales asistentes que no se encontraren en número suficiente para el funcionamiento de la respectiva Mesa darán aviso inmediato al Delegado de la Junta Electoral.
 
-A partir de las nueve horas el Delegado procederá a designar los vocales que faltaren hasta completar sólo el mínimo necesario para funcionar, de entre los electores alfabetos no discapacitados que deban sufragar en el recinto. Deberá preferir a los electores que voluntariamente se ofrezcan, en el orden en que se presenten. A falta de éstos, deberá designar a otros que se encuentren en el recinto, recurriendo al auxilio de la fuerza encargada del orden público si fuera necesario. El Delegado deberá haber constituido todas las mesas, a más tardar, a las diez horas.
+A partir de las nueve horas el Delegado procederá a designar los vocales que faltaren hasta completar sólo el mínimo necesario para funcionar, de entre los electores alfabetos no discapacitados que deban sufragar en el recinto y que no estén afectos a las causales de excusabilidad establecidas en el artículo 44. Deberá preferir a los electores que voluntariamente se ofrezcan, en el orden en que se presenten. A falta de éstos, deberá designar a otros que se encuentren en el recinto, recurriendo al auxilio de la fuerza encargada del orden público si fuera necesario. El Delegado deberá haber constituido todas las mesas, a más tardar, a las diez horas.
 
 Integrada la mesa, los vocales originalmente designados podrán incorporarse a ella, en orden de presentación, hasta completar el máximo de cinco, sin que puedan reemplazar a los vocales designados en virtud del inciso anterior y siempre que ello ocurra con anterioridad a las once horas. Del hecho de las incorporaciones y de su hora se dejará constancia en el acta de instalación.
 
@@ -1366,7 +1368,7 @@ En cualquier elección popular, primaria o definitiva, se presumirá, además, q
 
 #### Artículo 138
 
-El delegado de la Junta Electoral o el miembro de una Mesa Receptora de Sufragios o de un Colegio Escrutador que no concurriere a sus funciones sufrirá la pena de multa a beneficio municipal de dos a ocho unidades tributarias mensuales.
+El delegado de la Junta Electoral o el miembro de una Mesa Receptora de Sufragios o de un Colegio Escrutador que no concurriere a sus funciones sufrirá la pena de multa a beneficio municipal de dos a ocho unidades tributarias mensuales, salvo que teniendo una excusa válida de las señaladas en el artículo 44, no hubiese podido presentarla oportunamente.
 
 #### Artículo 139
 
