@@ -76,7 +76,7 @@ Para el caso que participaren de manera permanente varios ministros de culto, sa
 
 diáconos, pastores o personas autorizadas que presten asistencia religiosa de manera permanente, cese en sus funciones, la autoridad de la organización religiosa lo comunicará al encargado de la Unidad de Acompañamiento Espiritual.
 
-La Unidad de Acompañamiento Espiritual podrá entregar a aquellos que presten asistencia religiosa una credencial y exigir su uso durante la permanencia de estas personas en el recinto.
+La Unidad de Acompañamiento Espiritual podrá entregar a aquellos que presten asistencia religiosa una credencial y exigir su uso durante la permanencia de estas personas en el recinto. Asimismo, podrán acreditarse mediante la credencial a que alude el artículo 17 del presente reglamento.
 
 #### Artículo 9º
 
@@ -220,7 +220,7 @@ e) La utilización de los lugares destinados al culto religioso de carácter mul
 
 #### Artículo 10º
 
-Las organizaciones religiosas a que se refiere la ley Nº 19.638 prestarán asistencia religiosa a quienes profesen su misma religión en los establecimientos hospitalarios del Sistema Nacional de Servicios de Salud por intermedio de ministros de culto, sacerdotes, rabinos, pastores y diáconos acreditados de conformidad a la ley y al presente Reglamento y realizarán los trámites pertinentes para ello ante el respectivo Director.
+Las organizaciones religiosas a que se refiere la ley Nº 19.638 prestarán asistencia religiosa a quienes profesen su misma religión en los establecimientos hospitalarios del Sistema Nacional de Servicios de Salud por intermedio de ministros de culto, sacerdotes, rabinos, pastores y diáconos acreditados de conformidad a la ley y al presente Reglamento y realizarán los trámites pertinentes para ello ante el respectivo Director, o incorporándose voluntaria e individualmente a la nómina de ministros de culto que disponga el Subsecretario de Redes Asistenciales según lo dispuesto en el inciso segundo del artículo 17 de este reglamento, incorporación que deberá ser informada a la Unidad de Acompañamiento Espiritual respectiva.
 
 El plazo para resolver la autorización señalada en el inciso anterior se regirá por lo dispuesto en los artículos 23 y siguientes y 64 de la ley Nº 19.880 que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
 
@@ -232,7 +232,7 @@ Sin perjuicio de lo dispuesto en el inciso primero, las entidades religiosas pod
 
 No se podrá denegar la solicitud de acceso a aquellos ministros de culto, sacerdotes, rabinos, pastores y diáconos para la visita de un paciente de su misma organización religiosa que haya solicitado su asistencia, salvo las restricciones fundadas en razón de las necesidades de funcionamiento del establecimiento hospitalario y en conformidad a los horarios de atención habitual. Para los casos de urgencia que requieran de asistencia religiosa se deberá facilitar el acceso de dichos ministros de culto, sacerdotes, rabinos, diáconos y pastores.
 
-Las demás personas que deseen prestar asistencia religiosa, deberán presentar ante el encargado de la respectiva Unidad de Acompañamiento Espiritual, una carta de presentación de la autoridad competente de la propia organización religiosa, debiendo conservarse copia en el archivo de la Unidad de Acompañamiento Espiritual.
+Las demás personas que deseen prestar asistencia religiosa, deberán presentar ante el encargado de la respectiva Unidad de Acompañamiento Espiritual una carta de presentación de la autoridad competente de la propia organización religiosa y los demás antecedentes necesarios para su individualización, o remitirlos para su incorporación en la nómina de ministros de culto que contempla el artículo 17 de este reglamento, debiendo conservarse copia de todo ello en la Unidad de Acompañamiento Espiritual respectiva.
 
 Entre los ministros de culto, sacerdotes, rabinos, pastores, diáconos y personas autorizadas para la prestación de asistencia religiosa se distinguirán aquellos que hayan sido asignados por su organización religiosa de manera permanente, de aquellos que concurran ocasionalmente a ofrecer asistencia religiosa. Sólo los primeros podrán formar parte de las Unidades de Acompañamiento Espiritual y podrán usar el apelativo de "capellán" u otro que se encontrare en el régimen jurídico propio de su entidad religiosa o en sus estatutos según el caso.
 
@@ -268,7 +268,7 @@ Espiritual
 
 #### Artículo 14º
 
-En todos los establecimientos hospitalarios pertenecientes al Sistema Nacional de Servicios de Salud, se crearán Unidades de Acompañamiento Espiritual que sirvan de instancia de coordinación en las actividades de asistencia religiosa que se quieran desarrollar al interior de dichos recintos. Dichas unidades se vincularán a la subdirección médica de cada establecimiento hospitalario, en tanto la coordinación técnica será de competencia de la Unidad de Acompañamiento Espiritual del Ministerio de Salud.
+En todos los establecimientos hospitalarios pertenecientes al Sistema Nacional de Servicios de Salud, se crearán Unidades de Acompañamiento Espiritual que sirvan de instancia de coordinación en las actividades de asistencia religiosa que se quieran desarrollar al interior de dichos recintos. Dichas unidades se vincularán a la subdirección médica de cada establecimiento hospitalario, en tanto la coordinación técnica será de competencia de la Unidad de Acompañamiento Espiritual del Ministerio de Salud, la que además colaborará con la confección de la nómina de ministros de culto dispuesta según lo establecido en el artículo 17 del presente reglamento, actuando como coordinadora entre las Unidades de Acompañamiento de los distintos recintos hospitalarios y dicho mecanismo de identificación.
 
 #### Artículo 15º
 
@@ -283,6 +283,8 @@ De acuerdo a las orientaciones técnicas emanadas desde el Ministerio de Salud a
 #### Artículo 17º
 
 La coordinación a nivel nacional de dichas Unidades de Acompañamiento Espiritual estará a cargo del Subsecretario de Redes Asistenciales, quien se asesorará por la Unidad de Acompañamiento Espiritual del Ministerio de Salud.
+
+Para los efectos de garantizar la asistencia religiosa a favor de quienes reciben atención en los recintos hospitalarios del Sistema Nacional de Servicios de Salud, el Subsecretario de Redes Asistenciales con la colaboración de otras Secretarías de Estado o servicios públicos con competencia en la materia, podrá mantener una nómina de ministros de culto, sacerdotes, rabinos, pastores y diáconos que soliciten voluntariamente se les identifique con una credencial, con el fin de facilitarles el ingreso a todos esos recintos. Con dicha finalidad el indicado Subsecretario podrá requerir la información y los antecedentes que sean estrictamente necesarios a los demás órganos de la Administración del Estado, los que los entregarán respetando la ley Nº 19.628.
 
 #### Artículo 18º
 
