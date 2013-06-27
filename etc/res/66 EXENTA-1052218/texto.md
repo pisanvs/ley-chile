@@ -1,0 +1,5 @@
+ESTABLECE PROCEDIMIENTO PARA SOLICITAR AUTORIZACIÓN DE MÉTODO DE PRORRATEO O ASIGNACIÓN DE COSTOS, GASTOS Y/O DESEMBOLSOS DE UTILIZACIÓN COMÚN, DISTINTO AL ESTABLECIDO EN LA CIRCULAR Nº 68, DE 2010
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 66, del 21 de junio de 2013, que establece procedimiento para solicitar autorización de método de prorrateo o asignación de costos, gastos y/o desembolsos de utilización común destinados a producir ingresos afectos al régimen general de primera categoría, rentas exentas, ingresos no renta o ingresos afectos a impuesto único de primera categoría, distinto al establecido en la circular Nº 68, de 2010.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio de 2013.
