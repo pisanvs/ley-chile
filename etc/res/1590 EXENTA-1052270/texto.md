@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.590, de 24 de junio de 2013, de esta Subsecretaría, recházanse las solicitudes números 210110056 sector 10, 210110055 sector 7, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
