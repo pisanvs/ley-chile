@@ -1,0 +1,9 @@
+DA CUMPLIMIENTO AL ACUERDO Nº 2.455, DE 2013
+
+Núm. 1.226.- La Reina, 26 de junio de 2013.- Vistos: El acuerdo Nº 2.455, de fecha 26 de junio de 2013, del Concejo Municipal; ley N° 19.388, de 30 de mayo de 1995, que modifica la Ley de Rentas Municipales; DFL 3.063, que dispone que el valor por doce meses de la patente será de un monto equivalente entre dos y medio por mil y el cinco por mil de capital propio de cada contribuyente, que no podrá ser inferior a una unidad tributaria mensual ni superior a cuatro mil unidades tributarias mensuales; el inciso sexto del artículo 24 del DL Nº 3.063, que determina que para modificar la tasa de la patente vigente en la respectiva comuna, las Municipalidades deberán dictar una resolución publicada en el Diario Oficial con una anticipación de, a lo menos, seis meses al del inicio del año calendario en que debe entrar en vigencia la nueva tasa; y en uso de las atribuciones que me confieren los artículos 20 y 63, de la ley Nº 18.695, Ley Orgánica Constitucional de Municipalidades.
+
+Decreto:
+
+Dese cumplimiento al acuerdo Nº 2.455, de fecha 26 de junio de 2013, del Concejo Municipal, que acuerda que a contar del 1 de enero de 2014, el valor por 12 meses de las patentes que gravan las actividades a que se refiere dicha disposición, será de un monto equivalente a 2,5 por mil del capital propio de cada contribuyente, valor que no podrá ser inferior a una unidad tributaria mensual ni superior a ocho mil unidades tributarias mensuales, la que será aplicada a la sub zona del Plan Regulador Comunal de La Reina, denominada PC5 y PC6.
+
+Anótese, comuníquese y archívese.- Raúl Donckaster Fernández, Alcalde.- Juan Echeverría Cabrera, Secretario Municipal.
