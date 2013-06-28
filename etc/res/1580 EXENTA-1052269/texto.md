@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.580, de 24 de junio de 2013, de esta Subsecretaría, recházanse las solicitudes números 212042006, relocalización 212110037 sector 1, relocalización 211110063, relocalización 211110061, relocalización 212110018, 213031001 y 212032006, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 24 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
