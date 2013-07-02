@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.592, de 24 de junio de 2013, de esta Subsecretaría, autorízase al CENTRO DE ECOLOGÍA APLICADA LTDA. para efectuar la captura y relocalización de la fauna íctica nativa y no nativa como también de macro invertebrados nativos presentes en el tramo intervenido por el proyecto "Central Hidroeléctrica Angostura PCH-Angostura", en el área de confluencia del río Huequecura y río Biobío, VIII Región, para su posterior relocalización en la misma cuenca, aguas arriba del sitio de anegamiento, en el marco de las medidas de mitigación exigidas por resolución de Calificación Ambiental Nº 281/2009 de la Comisión Regional del Medio Ambiente Región del Biobío para el proyecto "Central Hidroeléctrica Angostura PCH-Angostura".
+
+El objetivo consiste en proteger la fauna íctica en el sector del río Huequecura y río Biobío, que será inundado por el embalse del proyecto Central Angostura, mediante la traslocación de las especies señaladas en la resolución extractada, en los términos allí indicados.
+
+Valparaíso, 24 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
