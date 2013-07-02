@@ -46,7 +46,7 @@ g) Subdepartamento de Inspecciones, compuesto por las siguientes secciones:
 
 ### 4. Vigilancia y programas especiales
 
-### 5. Farmacia
+### 5. Sección Cosméticos y Asuntos Especiales
 
 h) Subdepartamento de Laboratorio Nacional de Control, compuesto por las siguientes secciones:
 
@@ -72,7 +72,17 @@ j) Subdepartamento de Dispositivos Médicos, compuesto por las siguientes seccio
 
 k) Subdepartamento de Estupefacientes y Psicotrópicos.
 
+a) Sección Importación, Exportación y Relaciones con Naciones Unidas
+
+b) Sección Estadística y Control.
+
 l) Subdepartamento de Biofarmacia y Bioequivalencia.
+
+a) Sección de Validación de Procesos.
+
+b) Sección de Biofarmacia.
+
+m) Subdepartamento de Farmacia.
 
 Artículo dos: A la Agencia Nacional de Medicamentos le corresponderá asegurar la eficacia, seguridad y calidad de los medicamentos, los cosméticos y los dispositivos médicos sujetos a control sanitario utilizados en el país, desde su investigación hasta su utilización, para contribuir al mejoramiento de la salud de la población. Y su administración le corresponderá a su Jefatura, la que, en el ejercicio de sus funciones, será asesorada por una Unidad Ejecutiva.
 
@@ -196,7 +206,7 @@ b) Sección Registros Farmacéuticos: Encargada de evaluar las solicitudes de mo
 
 c) Sección Cosméticos: Encargada de evaluar las solicitudes de registro, modificaciones, renovaciones, exenciones de control de calidad de los registros sanitarios de productos cosméticos, como también, evaluar e inscribir a los titulares, resolver las declaraciones de productos de higiene y bajo riesgo y conceder o denegar las renovaciones de los mismos productos.
 
-d) Sección Estudios Clínicos: Encargada de evaluar la utilización en ensayos clínicos de productos farmacéuticos sin registro sanitario nacional o con registro sanitario nacional, pero usado en una indicación, esquema posológico o grupo etario diferente a la autorizada por este Departamento. Evaluar las modificaciones que se soliciten en relación con la autorización de uso de medicamentos en investigación clínica. Efectuar el seguimiento de las actividades de los centros y laboratorios que realizan dichos estudios en seres humanos, en relación con el uso de los medicamentos.
+d) Sección Estudios Clínicos: Encargada de evaluar las solicitudes de autorización de fabricación, importación y uso de medicamentos en ensayo clínicos, ya sea con productos farmacéuticos sin registro sanitario nacional o con registro sanitario nacional, pero usado en una indicación, esquema posológico o grupo etario diferente a la autorizada por este Departamento. Evaluar las modificaciones que se soliciten en relación con la autorización de ensayos clínicos y el uso de medicamentos en investigación clínica. Efectuar inspecciones y seguimiento en los centros, laboratorios farmacéuticos y organizaciones de investigación por contrato (OIC), que realizan dichos estudios en seres humanos, en relación con el uso de los medicamentos.
 
 > **Nota.** El N° 2 de la Resolución 1915 Exenta, Salud, publicada el 11.09.2012, agrega entre las funciones de la Sección Registros Farmacéuticos la de "Autorizar las renovaciones de los registros de productos farmacéuticos".
 
@@ -216,15 +226,17 @@ f) Ejercer las demás funciones que le encomiende la legislación vigente, la Je
 
 Artículo once: A las Secciones del Subdepartamento de Inspecciones le corresponderán las siguientes funciones:
 
-a) Sección Buenas Prácticas de Manufactura y Buenas Prácticas de Laboratorio: Verificar, inspeccionar y fiscalizar el cumplimiento de las buenas prácticas en los establecimientos farmacéuticos de producción, laboratorios externos de control de calidad y laboratorios acondicionadores. Realizar las visitas de primer lote. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
+a) Sección Buenas Prácticas de Manufactura y Buenas Prácticas de Laboratorio: Verificar, inspeccionar y fiscalizar el cumplimiento de las buenas prácticas en los establecimientos farmacéuticos de producción, laboratorios externos de control de calidad y laboratorios acondicionadores. Efectuar la evaluación del primer lote. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
 
-b) Sección Denuncias: Efectuar la inspección, fiscalización, control sanitario e investigar las denuncias a los productos farmacéuticos, cosméticos y otros que tengan control sanitario y recepción de notificaciones de falla de calidad. Apoyo a los Subdepartamentos Laboratorio Nacional de Control y de Registro y Autorizaciones Sanitarias en lo que compete al retiro de muestras, antecedentes u otros. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
+b) Sección Denuncias: Efectuar la inspección, fiscalización y control sanitario e investigar las denuncias de productos farmacéuticos, magistrales y oficinales y recepción de notificaciones de fallas de calidad. Apoyar al Subdepartamento Laboratorio Nacional de Control y Subdepartamento Registro y Autorizaciones Sanitarias, en lo que compete al retiro de muestras, antecedentes u otros. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento, en las materias de su competencia.
 
-c) Sección Autorización Establecimientos: Autorizar la instalación y el funcionamiento de los establecimientos farmacéuticos de producción, laboratorios externos de control de calidad, acondicionadores y cosmética. Evaluar los antecedentes de los establecimientos de fabricación de productos cosméticos de bajo riesgo de producción. Emitir los certificados de vigencia de establecimientos autorizados, autorizar las claves de producción, autorizar los convenios de control de calidad u otros. Crear y actualizar los archivos maestros. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
+c) Sección Autorización Establecimientos: Autorizar la instalación, modificación, funcionamiento y renovación de establecimientos farmacéuticos de producción, acondicionadores y externos de control de laboratorios cosméticos.
 
 d) Sección Vigilancia y Programas Especiales: Efectuar la inspección y control sanitario de los productos farmacéuticos en los establecimientos distribuidores de los mismos. Efectuar la inspección, fiscalización y control sanitario de los establecimientos de fabricación de productos cosméticos de bajo riesgo de producción. Efectuar las pesquisas de los productos falsificados, decomisos u otros ilegales. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
 
-e) Sección Farmacia: Efectuar la inspección y control sanitario de los preparados farmacéuticos magistrales y oficinales en los recetarios magistrales. Asesorar técnicamente a los Seremis en cuanto a verificar las condiciones que técnicamente debe cumplir un Recetario en el proceso de autorización. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
+e) Sección Cosméticos y Asuntos Especiales: Efectuar la inspección, fiscalización y control sanitario de los establecimientos de fabricación de productos cosméticos y de bajo riesgo de producción. Ejercer el control sanitario y la inspección de programas especiales asociados a productos farmacéuticos y cosméticos. Investigar las denuncias de productos cosméticos y ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento en las materias de su competencia.
+
+f) Sección Falsificados e Ilegales: Efectuar la inspección y control sanitario de los productos farmacéuticos en la cadena de distribución. Efectuar las pesquisas de los productos falsificados u otros ilegales, e investigación de decomisos por comercio ilegal. Ejercer las demás funciones que le encomiende la Jefatura del Subdepartamento, en las materias de su competencia.
 
 Artículo doce: Al Subdepartamento Laboratorio Nacional de Control le corresponderán las siguientes funciones:
 
@@ -310,6 +322,200 @@ d) Efectuar las auditorías, inspecciones e investigaciones de denuncias a la ca
 
 e) Ejercer las demás funciones que le encomiende la legislación vigente, la Jefatura del Departamento y el Director de este Instituto en las materias de su competencia.
 
+Artículo dieciocho bis: Las secciones del Subdepartamento de Estupefacientes y Psicotrópicos le corresponderán las siguientes funciones:
+
+a) Sección Importación, Exportación y Relaciones
+
+con Naciones Unidas: Cumplir y hacer cumplir
+
+todo lo que dice relación con las disposiciones
+
+especiales referentes al comercio internacional
+
+de drogas y productos estupefacientes,
+
+psicotrópicos y de precursores, en referencia a
+
+lo que indica la Convención Clínica de 1961 de
+
+Estupefacientes, el Convenio sobre Sustancias
+
+Psicotrópicas de 1971, y la Convención de las
+
+Naciones Unidas Contra el Tráfico Ilícito de
+
+Estupefacientes y Sustancias Psicotrópicas de
+
+1988, de Naciones Unidas. Determinar las
+
+Previsiones o Cuotas anuales de drogas y
+
+productos estupefacientes y psicotrópicos para
+
+las importaciones y exportaciones que realizarán
+
+los establecimientos autorizados en el año
+
+calendario y fijar la previsión del país para
+
+cada droga sujeta a control por Naciones Unidas.
+
+Autorizaciones de Uso y Destino, de las drogas y
+
+productos controlados importados y que ingresan
+
+los establecimientos autorizados al país, en
+
+forma lícita al territorio nacional por las
+
+aduanas respectivas, a las bodegas de destino.
+
+Relaciones internas con el Servicio Nacional de
+
+Aduanas respecto a los aforos que realizan las
+
+aduanas, de manera de validar las importaciones
+
+e ingresos de las drogas y productos controlados
+
+al territorio nacional. Relaciones
+
+Internacionales con Naciones Unidas, en todo lo
+
+que dice relación a las previsiones requeridas
+
+por Chile y preparar y enviar los informes
+
+trimestrales y anuales de ingreso/egreso en y
+
+desde el territorio nacional, y consumo lícito
+
+de todas las drogas sujetas a control
+
+internacional, de acuerdo con los compromisos
+
+contraídos con el Gobierno de Chile y Naciones
+
+Unidas. Relaciones Internacionales con las
+
+autoridades competentes de los países que
+
+importan y/o exportan drogas y/o productos
+
+controlados mediante la cooperación e
+
+intercambio internacional de la información de
+
+tráfico lícito en relación al comercio
+
+internacional de estos productos. Inspecciones
+
+de orden general y/o específicas en el ámbito de
+
+su competencia. Mantener la Biblioteca de
+
+Información de Drogas (monografías) de
+
+Estupefacientes, Psicotrópicas y Drogas
+
+Precursoras con control internacional. Ejercer
+
+las demás funciones que le encomiende la
+
+jefatura del Subdepartamento en las materias de
+
+su competencia.
+
+b) Sección Estadística y Control: Cumplir y hacer
+
+cumplir con todo lo que dice relación al uso
+
+lícito de drogas y/o productos estupefacientes y
+
+psicotrópicos en los procesos de producción,
+
+fabricación, fraccionamiento, reprocesamiento o
+
+preparación de los mismos en los
+
+establecimientos autorizados según la
+
+reglamentación vigente. Cumplir y hacer cumplir
+
+con todo lo que dice relación a la distribución
+
+y expendio en todo el territorio nacional de
+
+drogas y/o productos, a los establecimientos
+
+autorizados por la reglamentación vigente, y
+
+asegurar que los mismos tengan un uso exclusivo,
+
+médico y científico. Disponer de una Base de
+
+Datos Estadísticos actualizada con todos los
+
+usos y existencias de drogas y productos
+
+controlados disponibles en todos los
+
+establecimientos nacionales autorizados por
+
+reglamento. Disponer de una Base de Datos
+
+Estadísticos actualizada de toda la distribución
+
+de drogas y productos controlados que realizan
+
+los establecimientos nacionales autorizados por
+
+reglamento. La disponibilidad de bases de datos
+
+estadísticos actualizados permitirá a esta
+
+sección, realizar los estudios, análisis e
+
+investigación estadística del Subdepartamento
+
+para fines de referencia y salud pública a nivel
+
+nacional. Relaciones con los Seremis y Servicios
+
+de Salud para los informes de distribución y
+
+otros que sean pertinentes. Relaciones con el
+
+Ministerio de Salud para los informes que se
+
+soliciten referente a la materia. Inspecciones
+
+de orden general y/o específico en el ámbito de
+
+su competencia. Le corresponderá autorizar las
+
+transferencias de drogas y productos controlados
+
+de un establecimiento a otro para fines de
+
+maquila. Le corresponderá autorizar y actuar de
+
+Ministro de Fe en las Destrucciones y Bajas de
+
+drogas y productos controlados. Mantener la
+
+Biblioteca de Información de Drogas
+
+(monografías) de Estupefacientes, Psicotrópicos
+
+y Drogas Precursoras con control internacional.
+
+Ejercer las demás funciones que le encomiende la
+
+jefatura del Subdepartamento en las materias de
+
+su competencia.
+
 Artículo diecinueve: Al Subdepartamento de Biofarmacia y Bioequivalencia le corresponderán las siguientes funciones:
 
 a) Evaluar los aspectos biofarmacéuticos de los medicamentos que se presenten solicitando condición de bioequivalencia.
@@ -327,6 +533,138 @@ f) Autorizar modificaciones, realizar observaciones y/o prórrogas en los protoc
 g) Verificar con el Subdepartamento de Inspecciones el cumplimiento de las Buenas Prácticas de Manufactura y la Validación de proceso de fabricación como requerimientos antes de otorgar la condición de bioequivalencia al producto respectivo.
 
 i) Ejercer las demás funciones que le encomiende la legislación vigente, la Jefatura del Departamento, y el Director de este Instituto en las materias de su competencia.
+
+Artículo diecinueve bis: El Subdepartamento de Farmacia tiene el objeto de efectuar el control sanitario y técnico de los recetarios de farmacia, además de fiscalizar el uso de prácticas correctas de elaboración de productos magistrales y oficinales, en conformidad a los reglamentos y normas actualmente vigentes. Y le corresponderán las siguientes funciones:
+
+a) Asesorar técnicamente a solicitud de la
+
+Secretaría Regional Ministerial de Salud
+
+(Seremi) correspondiente, de las condiciones que
+
+debe cumplir un recetario magistral o de
+
+farmacia, en su proceso de autorización.
+
+b) Crear y mantener bases de datos de los
+
+recetarios de farmacia autorizados a nivel
+
+nacional.
+
+c) Crear y mantener un sistema de vigilancia a
+
+través de la recepción y evaluación de los
+
+Registros Oficiales de Elaboración de Preparados
+
+Farmacéuticos, que sean recibidos de los
+
+recetarios de farmacia por trimestre vencido.
+
+d) Crear y mantener un sistema de evaluación de las
+
+solicitudes de incorporación de nuevas fórmulas
+
+a la Farmacopea Farmacéutica Oficinal Oficial.
+
+e) Crear y mantener un sistema de recepción y
+
+evaluación de las solicitudes de incorporación
+
+de nuevos principios activos a la nómina de
+
+principios activos que podrán ser utilizados en
+
+los recetarios de farmacia.
+
+f) Actuar en coordinación con el Subdepartamento de
+
+Inspecciones, Sección Denuncias, en las
+
+investigaciones sanitarias relacionadas a los
+
+problemas de calidad de los preparados
+
+farmacéuticos, elaborados en recetarios de
+
+farmacia.
+
+g) Proponer acciones de mejora que contribuyan a la
+
+calidad de preparados farmacéuticos elaborados
+
+en recetarios de farmacia.
+
+h) Coordinar programas de capacitación, para
+
+facilitar el desarrollo y cumplimiento del marco
+
+legal vigente en áreas de su competencia.
+
+i) Velar por el cumplimiento del decreto supremo
+
+Núm. 79, de 2010, del Ministerio de Salud, y la
+
+normativa complementaria que regula los
+
+preparados farmacéuticos en los ámbitos de su
+
+competencia, proponiendo al jefe de Departamento
+
+las medidas sanitarias cuando corresponda.
+
+j) Ejercer las demás funciones que le encomiende la
+
+Jefatura del Departamento y la Dirección de este
+
+Instituto, en las materias de su competencia.
+
+Artículo diecinueve bis: Las secciones del Subdepartamento de Biofarmacia y Bioequivalencia le corresponderán las siguientes funciones:
+
+a) Sección de Validación de Procesos: Resolver las
+
+solicitudes de evaluación de protocolos y
+
+reportes de validación de procesos productivos
+
+de medicamentos para la demostración de
+
+equivalencia terapéutica y para los productos de
+
+referencia. Preparar los informes solicitados
+
+por la jefatura, que deriven de consulta u
+
+observación de autoridades superiores. Ejercer
+
+las demás funciones que le encomiende la
+
+Jefatura del Subdepartamento en las materias de
+
+su competencia.
+
+b) Sección de Biofarmacia: Resolver las solicitudes
+
+de aprobación de protocolos y estudios de
+
+Bioequivalencia. Coordinar y efectuar las
+
+visitas de autorización, reconocimiento y
+
+fiscalización de centros de estudios de
+
+Bioequivalencia. Preparar los informes
+
+solicitados por la jefatura, que deriven de
+
+consultas u observaciones de autoridades
+
+superiores. Ejercer las demás funciones que le
+
+encomiende la jefatura del Subdepartamento en
+
+las materias de su competencia.
 
 Artículo veinte: Delégase en la Jefatura de la Agencia Nacional de Medicamentos, el ejercicio de las facultades relacionadas con el control de productos farmacéuticos, cosméticos y dispositivos médicos, que no sean delegadas en otra jefatura, establecidas en los decretos supremos números 3/2010 y 825/1998, ambos del Ministerio de Salud y en las resoluciones y normas que los complementen, tales como:
 
@@ -448,13 +786,13 @@ a. Sección Productos Nuevos: Alejandro Moya Montero,
 
 Profesional, Grado 6º de la EUS.
 
-b. Sección Registros Farmacéuticos: Germán Chamy
+b) Sección Registros Farmacéuticos: Juan Otárola
 
-Córdova, Profesional, Grado 6º de la EUS.
+Navarrete, Profesional, grado 6º de la EUS.
 
-c. Sección Registros Cosméticos: Eliana Núñez
+c) Sección Registros Cosméticos: Inés Carreño Zamora,
 
-Olivares, Profesional, Grado 9º de la EUS.
+Profesional, grado 6º de la EUS.
 
 d. Estudios Clínicos: Ricardo González Valdenegro,
 
@@ -480,9 +818,9 @@ d. Sección Vigilancia y Programas Especiales: Lidia
 
 Calderón González, Profesional, Grado 7º de la EUS.
 
-e. Sección Farmacia: Gladys Chicago Cabrera,
+e) Sección Cosméticos y Asuntos Especiales: Maysie
 
-Profesional, Grado 5º de la EUS.
+Vallejos Campos, Profesional, grado 8 de la EUS.
 
 g) Subdepartamento Laboratorio Nacional de Control: María Gloria Olate, Directivo, Grado 4º de la EUS.
 
@@ -510,17 +848,37 @@ Aldunate González, Profesional, Grado 9º de la EUS.
 
 i) Subdepartamento de Dispositivos Médicos: María Graciela Rojas, Directivo, Grado 4º de la EUS.
 
-a. Sección Evaluación, Registro e Inspecciones: María
+a) Sección Evaluación, Registro e Inspecciones: Ana María
 
-Cecilia López, Profesional, Grado 12º de la EUS.
+Concha Villarroel, Profesional, grado 5º de la EUS.
 
 b. Sección Tecnovigilancia: Catalina Valdés León,
 
 Profesional, Grado 12º de la EUS.
 
-j) Subdepartamento de Estupefacientes y Psicotrópicos: Marcelo Sánchez González, Profesional, Grado 5º de la EUS.
+j) Subdepartamento de Estupefacientes y Psicotrópicos: Marcelo Sánchez González,
+
+Profesional, Grado 5º de la EUS.
+
+a) Sección de Importación, Exportación y Relaciones con Naciones Unidas:
+
+Carmen Gloria Cortés-Monroy, Profesional, grado 5 de la EUS.
+
+b) Sección Estadística y Control: Yerko Vera Espinoza, Profesional,
+
+grado 12 de la EUS.
 
 k) Subdepartamento de Biofarmacia y Bioequivalencia: Alexis Aceituno Álvarez, Profesional, Grado 5º de la EUS.
+
+a) Sección de Validación de Procesos: María Soledad Ríos, Profesional,
+
+grado 9 de la EUS.
+
+b) Sección de Biofarmacia: Patricia Carmona Sepúlveda,
+
+Profesional, grado 6 de la EUS
+
+m) Subdepartamento de Farmacia: Gladys Chicago Cabrera, Profesional, grado 5 de la EUS.
 
 Artículo treinta: Establécese el siguiente orden de subrogación del cargo de Jefe de la Agencia Nacional de Medicamentos, en caso de ausencia o impedimento del titular:
 
