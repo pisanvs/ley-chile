@@ -88,11 +88,11 @@ g) Dirección de correo electrónico del usuario o institución interesada.
 
 #### Artículo 6º
 
-La Comisión publicará el llamado a inscribirse en el Registro de que tratan los artículos precedentes en el Diario Oficial, los días 24 y 25 de junio de 2013. El plazo máximo para presentación de los antecedentes indicados en el artículo 5º será hasta el 17 de julio de 2013, a las 17:00 hrs.
+La Comisión publicará el llamado a inscribirse en el Registro de que tratan los artículos precedentes en el Diario Oficial, los días 24 y 25 de junio de 2013. El plazo máximo para presentación de los antecedentes indicados en el artículo 5º será hasta el 18 de julio de 2013, a las 17:00 hrs.
 
 Los antecedentes deberán presentarse en sobre cerrado, rotulado "Antecedentes Registro de Usuarios e Instituciones Interesadas. Proceso de Tarificación y Expansión de Transmisión Troncal", en la Oficina de Partes de la Comisión, ubicada en Miraflores 222, piso 10, Edificio Las Américas, de la ciudad y comuna de Santiago.
 
-La recepción de los antecedentes se efectuará entre 9:00 a 13:00 hrs. y de 15:00 a 17:00 hrs., de lunes a viernes. Para la recepción de antecedentes por correo, en el caso en que éstos llegasen con posterioridad al día 17 de julio de 2013, se estimarán recibidos dentro de plazo solamente aquellos que tengan fecha de recepción hasta el día 22 de julio de 2013.
+La recepción de los antecedentes se efectuará entre 9:00 a 13:00 hrs. y de 15:00 a 17:00 hrs., de lunes a viernes. Para la recepción de antecedentes por correo, en el caso en que éstos llegasen con posterioridad al día 18 de julio de 2013, se estimarán recibidos dentro de plazo solamente aquellos que tengan fecha de recepción hasta el día 23 de julio de 2013.
 
 #### Artículo 7º
 
@@ -142,21 +142,27 @@ A través del presente formulario, los usuarios o instituciones interesadas pued
 
 - Domicilio;
 
-- Correo electrónico (Nota: a este correo será enviada la
+- Correo electrónico (Nota: a este correo será
 
-información y notificaciones que procedan);
+enviada la información y notificaciones
+
+que procedan);
 
 - Teléfono;
 
 - Fax;
 
-- Nombre y RUT del representante legal si corresponde;
-
-- Fecha de constitución y vigencia de la persona jurídica si
+- Nombre y RUT del representante legal si
 
 corresponde;
 
-- Giro principal de la persona jurídica si corresponde;
+- Fecha de constitución y vigencia de la
+
+persona jurídica si corresponde;
+
+- Giro principal de la persona jurídica
+
+si corresponde;
 
 - Socios que la integran.
 
@@ -164,7 +170,9 @@ corresponde;
 
 ### 1. Sistema Interconectado Central, SIC
 
-### 2. Sistema Interconectado del Norte Grande, SING
+### 2. Sistema Interconectado del Norte
+
+Grande, SING.
 
 ### III. Antecedentes a acompañar:
 
@@ -174,7 +182,7 @@ información y requisitos solicitados, conforme a la resolución exenta Nº
 
 360, de la Comisión Nacional de Energía, de fecha 19 de junio 2013, a
 
-más tardar el día 17 de julio de 2013, en su oficina de Partes, ubicada
+más tardar el día 18 de julio de 2013, en su oficina de Partes, ubicada
 
 en el piso 10 de la calle Miraflores 222, Edificio Las Américas,
 
