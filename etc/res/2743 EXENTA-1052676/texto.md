@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.743 EXENTA, DE 2013
+
+Por resolución exenta Nº 2.743, de fecha 28 de junio de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica resolución exenta Nº 5.057, de 24.10.2012, de la misma Secretaría Regional, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Godoy y Ureta Limitada", cuyo representante legal y director es el señor Pedro Alberto Godoy Ureta, RUT Nº 16.281.475-3, en el sentido de aprobar el cambio de domicilio de la escuela a Avenida Independencia Nº 220, local B, comuna de Puente Alto.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
