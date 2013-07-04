@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.589, de 24 de junio de 2013, de esta Subsecretaría, modifícase la resolución exenta Nº 686, de 2013, de esta Subsecretaría que autorizó a CONSULTORÍA Y ASESORÍA PUPELDE LTDA., para efectuar una pesca de investigación, de conformidad con el Proyecto "Evaluación de remontes de salmón Chinook (Oncorhynchus tshwytscha) en cuencas de los ríos Toltén, río Bueno, Puelo y Yelcho", en el sentido de ampliar la zona de estudio a los estuarios y aguas marítimas adyacentes, eliminar tanto especies a muestrear como artes de pesca a utilizar, agregar un inciso relativo al desembarque y procesamiento de los productos pesqueros y su control sanitario por parte del Servicio Nacional de Pesca y Acuicultura respecto y, finalmente, la individualización de la planta que realizará dicho procesamiento, agregar un nuevo objetivo relativo a la toma de muestras biológicas, todo en los términos expresados en la resolución extractada.
+
+Déjase sin efecto la resolución exenta Nº 1.057, de 2013, de esta Subsecretaría.
+
+El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 24 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
