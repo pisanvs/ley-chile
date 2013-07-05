@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE TARAPACÁ, A RADIO CLUB PROVINCIAL IQUIQUE
+
+Mediante decreto exento Nº 786, de 20 de junio de 2013, el Ministerio de Bienes Nacionales otorgó en concesión gratuita a Radio Club Provincial Iquique, RUT 71.056.900-2, el inmueble fiscal ubicado en Cerro de Tarapacá, comuna y provincia de Iquique, Región de Tarapacá, Rol de Avalúo Fiscal Nº 4020-36, amparado por inscripción global a nombre del Fisco, a fs. 1.039 Nº 1.745 del Registro de Propiedad del Conservador de Bienes Raíces de Iquique correspondiente al año 2011, singularizado en el Plano Nº 01101-1.288-C.R., de una superficie aproximada de 33,63 m². La concesión se otorga por un plazo de 30 años, contados desde la fecha de suscripción de la escritura pública respectiva, para destinar el inmueble a la instalación de una antena repetidora que ampliará la conectividad radial de la zona. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica, Ministerio de Bienes Nacionales.
