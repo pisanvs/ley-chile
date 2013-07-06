@@ -1,0 +1,33 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO CÁPSULAS BLANDAS ACEITE DE AJO
+
+Núm. RW 13.785 exenta.- Santiago, 24 de junio de 2013.- Visto estos antecedentes: La solicitud de determinación de régimen de control a aplicar y la documentación técnica adjunta a la presentación de Reutter S.A., respecto del producto Cápsulas Blandas Aceite de Ajo; el oficio N° 670, de fecha 18 de marzo de 2013, de este Instituto, a través del cual se solicitaron al interesado los siguientes antecedentes: Aclarar cuál es el (los) producto(s) final(es) que requiere sea(n) clasificado(s), adjuntando el proyecto de rotulado gráfico del producto que quiere comercializar, indicando claramente la composición, finalidad y modo de uso. Se sugiere adjuntar el certificado de especificaciones del proveedor de la materia prima, donde se indique la composición del aceite de ajo y de perejil, respectivamente; con fecha 22 de marzo de 2013, el interesado respondió al ordinario N° 670, de 2013; la recomendación de la Comisión de Régimen de Control Aplicable, acordada en sesión de fecha 30 de mayo de 2013, de clasificar a este producto como medicamento, y
+
+Considerando:
+
+Primero: Que, de acuerdo a lo señalado, cada cápsula contiene: 0,6820 mg de aceite de ajo (Allium sativa L.); 339,3180 mg de aceite vegetal; cubierta: 112,8000 mg de gelatina farmacéutica; 72,8500 mg de agua purificada y 49,3500 mg de glicerina;
+
+Segundo: Que con fecha 22 de marzo de 2013 el interesado responde a lo solicitado en le oficio N° 670/13, adjuntando la siguiente información: Proyecto de rotulado gráfico de aceite de ajo en cápsulas, certificado de análisis de aceite de ajo de P Pharmline para Garlic Oil PCC, lo describe como un aceite fresco del bulbo de ajo Allium sativum. Monografía del Codex Alimentarius. Presenta, además, una copia de resolución del Seremi, del año 2009, en la que se autoriza a Reutter S.A. para que rotule en origen unos productos, entre los cuales se encuentra este producto;
+
+Tercero: Que el producto Cápsulas Blandas Aceite de Ajo es de administración oral y la intención del solicitante es que sea un alimento, pero no indica claramente la finalidad alimenticia de esta formulación. Este Instituto ha autorizado varios medicamentos que contienen como único principio activo aceite de ajo, en una concentración de 0,682 mg por cápsula blanda. Su condición de venta es directa en establecimientos de tipo A y B, las indicaciones autorizadas son: "Coadyuvante en el tratamiento de hiperlipidemias, cuando las medidas dietarias son insuficientes. Profilaxis de aterosclerosis. Mejora la circulación en enfermedad arterial vascular periférica". Con fecha 23 de noviembre de 2004, mediante la resolución exenta N° 10.199, se clasificó como medicamento el producto Oleomed Presión Arterial Cápsulas Blandas, de Pharmaceutika Ltda., el cual contenía 150 mg de aceite de oliva extra virgen y 450 mg de aceite de ajo (estandarizado a 1.300 ppm de Alicina);
+
+Cuarto: Que de acuerdo a lo señalado en la monografía de la OMS, los principales constituyentes del bulbo de ajo (Allium sativum L.) son los compuestos sulfurados, de los cuales se ha estimado que un 82% corresponde a cisteín sulfóxidos (ej.: aliína) y a péptidos no volátiles de gama-glutamilcisteína. Los usos medicinales respaldados por datos clínicos son: como coadyuvante al manejo dietético en el tratamiento de hiperlipidemias, en la prevención de la aterosclerosis por cambios vasculares (dependiente de la edad), también puede ser útil en el tratamiento de la hipertensión moderada. Se recomienda dosis diaria de 2-5 mg de aceite de ajo (WHO monographs on selected medicinal plantas, Volume 1, World Health Organization, Geneva, 1999, pág. 16-26);
+
+Quinto: Que este aceite, por tratarse de un aceite esencial, no se encuentra dentro del listado de aceites comestibles de origen vegetal del Reglamento Sanitario de los Alimentos N° 977/97. Tampoco se encuentra en el listado de la resolución exenta N° 764, de fecha 5 de octubre de 2009, que "Aprueba normas técnicas sobre directrices nutricionales que indica, para declarar propiedades saludables de los alimentos";
+
+Sexto: Que este producto no tiene un fin tecnológico como aditivo; el aceite de ajo como aceite esencial tiene actividad terapéutica descrita y se han autorizado varios medicamentos que contienen como único principio activo aceite de ajo, en una concentración de 0,682 mg por cápsula blanda como: "Coadyuvante en el tratamiento de hiperlipidemias", cuando las medidas dietarias son insuficientes. Profilaxis de aterosclerosis. Mejora la circulación en enfermedad arterial vascular periférica";
+
+Séptimo: Que evaluado en la Sesión N° 5/13 de la Comisión de Régimen de Control Aplicable, realizada el 30 de mayo de 2013, se recomienda clasificar como producto farmacéutico, y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102° del Código Sanitario; en los artículos 8° y 9° del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, aprobado por el decreto N° 1.876, de 1995, del Ministerio de Salud; el artículo 59° letra b) del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta N° 1.553, de 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Cápsulas Blandas Aceite de Ajo, solicitado por Reutter S.A., es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos, decreto N° 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8°, del decreto N° 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+4. Lo dispuesto en la presente resolución también será aplicable al resto de los productos que contengan el o los componentes declarados como propios de un producto farmacéutico (artículo 8°, del decreto N° 3, de 2010).
+
+Anótese, comuníquese, publíquese en el Diario Oficial y el página web ISP.- Guisela Zurich Reszczynski, Jefa Subdepartamento Registro y Autorizaciones Sanitarias (S), Agencia Nacional de Medicamentos.
