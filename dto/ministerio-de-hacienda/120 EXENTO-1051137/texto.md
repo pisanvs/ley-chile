@@ -18,8 +18,6 @@ Apruébase el siguiente listado de obras específicas que pueden financiarse con
 
 2) Obra de Naturaleza Privada:
 
-.
-
 Anótese y publíquese.- Por orden del Presidente de la República, Rosanna Costa Costa, Ministra de Hacienda (S).- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.
 
 Lo que transcribo a Ud. para su conocimiento.- Atentamente, Julio Dittborn Cordua, Subsecretario de Hacienda.
