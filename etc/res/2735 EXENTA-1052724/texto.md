@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.735 EXENTA, DE 2013
+
+Por resolución exenta Nº 2.735, de fecha 27 de junio de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Escuela de Conductores Profesionales "Escuela de Conductores Automóvil Club de Chile Limitada", RUT Nº 77.323.230-K, representada legalmente por el señor José Manuel Martínez Vásquez, RUT Nº 23.548.779-9, para impartir el curso especial con Simulador de Inmersión Total, conducente a la obtención de licencia de conductor profesional Clase A3, en sus sedes ubicadas en Av. Andrés Bello N° 1429, comuna de Providencia (con Simulador de Inmersión Total), y en Av. Vicuña Mackenna Nº 6100, Local 121-111, comuna de La Florida.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
