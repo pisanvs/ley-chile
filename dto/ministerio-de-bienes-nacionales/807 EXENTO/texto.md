@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DEL MAULE, A LA CORPORACIÓN NACIONAL FORESTAL (CONAF)
+
+Mediante decreto exento Nº 807, de 27 de junio de 2013, el Ministerio de Bienes Nacionales otorgó en concesión gratuita a Corporación Nacional Forestal (CONAF), RUT 61.313.000-4, el inmueble fiscal ubicado en Escuela Agrícola de Panimávida, que corresponde a la Hijuela B, comuna de Colbún, provincia de Linares, Región de Maule, Rol de Avalúo Fiscal Nº 32-2, inscrito a nombre del Fisco a fs. 1.416 Nº 2.255 del Registro de Propiedad del Conservador de Bienes Raíces de Linares correspondiente al año 1985, singularizado en el Plano Nº 07402-4986-C.R., de una superficie aproximada de 19,58 has. La concesión se otorga por un plazo de 20 años, contados desde la fecha de suscripción de la escritura pública respectiva, para destinar el inmueble a establecer módulos con especies de rápido crecimiento e interés bioenergético con la finalidad de establecer una biomasa generadora de carbono y con ello contribuir a mejorar la calidad del medio ambiente, evitar la degradación de suelos y en un futuro aprovechar ese recurso como energía. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica, Ministerio de Bienes Nacionales.
