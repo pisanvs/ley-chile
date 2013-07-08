@@ -2354,13 +2354,11 @@ independiente.
 
 i. Área E-Am5: Edificación Aislada media Nº 5
 
-Cuadro 24: Área E-Am5: Edificación Aislada media Nº 5
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 17
+Cuadro 24: Área E-Am5: Edificación aislada media Nº 5
 
 NOTA:
 
-a) Los subterráneos podrán ocupar hasta un 20% del
+a) Los subterráneos podrán ocupar hasta un 40% del
 
 terreno para ser destinados a bodegas y/o
 
@@ -2368,11 +2366,17 @@ estacionamientos con sus respectivas áreas de
 
 circulación.
 
+b) Para los terrenos que enfrentan Av. Las Condes,
+
+el antejardín será variable, la línea de
+
+edificación se encontrará definida a 29 m. del
+
+eje de la Av. Las Condes.
+
 En esta Área se permitirá realizar proyectos de densificación conforme a las normas contenidas en la siguiente Tabla, sin perjuicio del cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones y de su Ordenanza:
 
 Cuadro 25: Área E-Am5: Edificación Aislada media Nº 5, Densificación
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 17
 
 NOTAS:
 
@@ -2386,151 +2390,23 @@ terreno para ser destinados a bodegas y/o
 
 estacionamientos con sus respectivas áreas de
 
-circulación
+circulación.
 
 c) En el primer piso no se autoriza la construcción
 
 de departamentos de uso residencial, sólo se
 
-permitirán usos complementarios a las
+permitirán usos complementarios a las viviendas,
 
-viviendas, pertenecientes al bien común, los
+pertenecientes al bien común, los cuales no se
 
-cuales no se podrán enajenar en forma
-
-independiente.
-
-d) En los terrenos ubicados en Av. Vitacura desde
-
-El Manantial hacia el Oriente, y en Av.
-
-Tabancura, regirán las siguientes condiciones
-
-especiales:(1)
-
-i) El antejardín será de 5 m, y se admitirá
-
-que la edificación de hasta dos pisos de
-
-altura ocupe hasta el 0,40 del suelo, con
-
-0,30 de área libre, y con un
-
-distanciamiento mínimo a los medianeros
-
-laterales de 4 m; sobre los dos pisos de
-
-altura la edificación deberá atenerse al
-
-coeficiente de ocupación de suelo y al
-
-distanciamiento mínimo a medianeros que
-
-figuran en esta tabla de densificación. La
-
-urbanización existente en dicho sector
-
-deberá complementarse de modo que todo
-
-cableado nuevo o preexistente en el frente
-
-del terreno sea subterráneo (incluidos
-
-transformadores u otros).
-
-ii) El área libre deberá ubicarse a nivel del
-
-terreno natural o en otros planos de nivel
-
-directamente comunicados con la parte de
-
-área libre a nivel del terreno.
-
-iii) Los subterráneos podrán ocupar hasta un 80
-
-% del terreno.
-
-iv) En el primer piso no se autoriza la
-
-construcción de departamentos de uso
-
-residencial.
-
-En el resto, regirán las condiciones del
-
-Cuadro de densificación precedente.
+podrán enajenar en forma independiente.
 
 ______________________________
 
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
+1 Modificado por decreto alcaldicio sección 1ª Nº 3/763, D.O. 31.03.06 (Modificación Nº 5).
 
-3/763, D.O. 31.03.06. (Modificación Nº 5)
-
-e) Para los terrenos que enfrenten la calle Los
-
-Abedules (1), regirán las siguientes condiciones
-
-especiales:
-
-i) La subdivisión mínima será de 800 m;
-
-ii) La construcción en los dos primeros pisos,
-
-hasta una altura de 6 m. mínimo, deberá
-
-situarse 2 m. al interior del predio en
-
-relación a la línea de Edificación y no se
-
-permitirá volados sobre el antejardín.
-
-iii) En este sector, en proyectos destinados
-
-total o parcialmente a uso de Equipamiento
-
-y que contemplen Antejardines Abiertos (es
-
-decir, libres de elementos tales como
-
-estacionamientos, nichos de medidores,
-
-medidores, acometidas aéreas, cierros no
-
-removibles, cambios de nivel y que tengan
-
-un tratamiento de piso a nivel de la vereda
-
-que empalme con ella y con los paños
-
-vecinos de similares características) , se
-
-admitirá un coeficiente de
-
-constructibilidad de 1,8 con un coeficiente
-
-de Área Libre de 0,25 y, para el primer y
-
-segundo pisos, una ocupación de suelo de
-
-0,5 y una separación a medianeros de 4m.
-
-iv) No se admitirá estacionamientos en
-
-superficie en calzada y no se aplicará el
-
-#### Artículo 27
-
-de la Ordenanza del PRCV.
-
-En el resto, regirán las condiciones del
-
-Cuadro de densificación precedente.
-
-______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/450, D.O. 13.03.06. (Modificación Nº 12)
+2 Modificado por decreto alcaldicio sección 1ª Nº 3/450, D.O. 13.03.06 (Modificación Nº 12).
 
 j. Área E-Am6: Edificación Aislada media Nº 6
 
@@ -3462,17 +3338,61 @@ desarrollarse en un recinto interior cerrado y
 
 techado.
 
-u.- Área E.Ae5, Edificación Aislada Especial Nº 5, Sector Costanera Sur tramo Oriente (1)
+u.- Área E.Ae5, Edificación Aislada Especial Nº 5, Sector Costanera Sur tramo Oriente (3)
 
-Esta área comprende los terrenos situados dentro de la manzana comprendida entre San Damián, Av. Las Condes, San Francisco de Asís y Av. Costanera Sur, señalados como área E-Ae 5 en el Plano MR-19-01.
+Esta área comprende los terrenos situados dentro de la manzana comprendida entre calle San Damián, Av. Las Condes, San Francisco de Asís y Costanera Sur Av. San Josemaría Escrivá de Balaguer.
 
-Dentro de esta área, los proyectos que no sean de densificación se regirán por las normas del área E- Am5 (Edificación Aislada media Nº 5). En lo que respecta a proyectos de densificación, se aplicará el siguiente cuadro:
+Dentro de esta área, los proyectos que no sean de densificación se regirán por las normas del área E-Am5 (Edificación Aislada media N° 5). En lo que respecta a proyectos de densificación se aplicará el siguiente cuadro:
+
+NOTAS:
+
+a) En caso de proyectos que contemplen una vía
+
+abierta al uso público, de al menos 20 m de
+
+ancho, que conecte Av. Las Condes con Av.
+
+Costanera Sur, la altura podrá aumentarse hasta
+
+12 pisos y 42 m. Esta cesión puede ser
+
+compartida por 2 o más propietarios.
+
+b) Al menos el 50% del perímetro de fachadas de las
+
+edificaciones en altura de 4 o más pisos deberá
+
+llegar al terreno natural.
+
+c) El propietario deberá remodelar el área frente a
+
+la propiedad comprendida entre la solera y la
+
+línea de edificación, de acuerdo al respectivo
+
+Plano de Tratamiento del Espacio Público
+
+aprobado por el Asesor Urbanista.
+
+d) El propietario deberá soterrar los cables aéreos
+
+existentes en el frente del predio.
+
+e) Los 3 primeros pisos destinados a comercio
+
+podrán tener 6 m. de altura cada uno.
+
+f) Para los terrenos que enfrentan Av. Las Condes,
+
+el antejardín será variable, la Línea de
+
+Edificación se encontrará definida a 31 m. del
+
+eje de la Av. Las Condes.
 
 _______________________________
 
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/3.084, D.O. 22.12.07. (Modificación Nº 19)
+3 Modificado por decreto alcaldicio sección 1ª Nº 3/3.084, D.O. 22.12.07 (Modificación Nº 19).
 
 Cuadro 46: Área E-Ae5: Edificación Aislada especial Nº 5
 
