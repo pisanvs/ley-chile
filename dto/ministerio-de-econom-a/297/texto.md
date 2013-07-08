@@ -392,13 +392,7 @@ fecha de envasado; y - contenido neto.
 
 En caso de productos importados que se comercialicen en su envase original, se debe colocar una etiqueta en castellano de un tamaño y en una ubicación tal que no cubra la información de la etiqueta original relativa a los requisitos de rotulación indicados en el título V de este reglamento.
 
-Esta etiqueta debe contener lo siguiente:
-
-1 Nombre o razón social y domicilio del importador, envasador o distribuidor.
-
-2 Número y fecha de la Resolución del Servicio de Salud que autoriza la internación del producto.
-
-3 Cualquier información especificada en este reglamento y que no haya sido considerada en la rotulación original, no esté en castellano o no esté indicada de acuerdo a lo establecido en el presente reglamento.
+Esta etiqueta debe contener el nombre y domicilio del importador, aplicándose en lo demás lo dispuesto en la letra m) del artículo 107 del decreto supremo Nº 977, de 1996, del Ministerio de Salud, que Aprueba el Reglamento Sanitario de los Alimentos.
 
 #### Artículo 17
 
