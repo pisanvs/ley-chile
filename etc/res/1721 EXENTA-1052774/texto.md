@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.721, de 4 de julio de 2013, de esta Subsecretaría, recházanse las solicitudes números 211101127, 210110094 sector 1, 211123046, 211123049, 211123050, 211123040, 206106114, 212101050, 211122083, 211123027, 211123025, 211123023, 211123031, 211122088, 211122089, 211122127, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de julio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
