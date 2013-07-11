@@ -94,9 +94,9 @@ Del precio de la vivienda. Para los efectos del cálculo del subsidio el precio 
 
 a) En el caso de operaciones de compraventa que se financien con crédito hipotecario complementario, se estará al precio estipulado en la escritura de compraventa respectiva; o tratándose de cooperativas, en la escritura de adjudicación a sus socios.
 
-b) En operaciones de construcción en sitio propio o densificación predial, se estará al presupuesto indicado en el permiso de edificación, en base a las tablas de costos unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones, incrementado en un 30%.
+b) En operaciones de construcción en sitio propio o densificación predial, se estará al costo total de la vivienda señalado en el contrato de construcción o de provisión de la vivienda.
 
-c) En el caso de adquisición de viviendas que no requieran crédito hipotecario, se considerará la tasación comercial de la vivienda, la que podrá ser realizada por el SERVIU o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad Tasaciones.
+c) En el caso de adquisición de viviendas usadas que no requieran crédito hipotecario, se considerará el mayor valor entre el precio estipulado en la escritura de compraventa y el de la tasación comercial de la vivienda, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad Tasaciones.
 
 Tratándose de viviendas acogidas a la ley Nº 19.537, sobre Copropiedad Inmobiliaria, en el precio de la vivienda podrá también incluirse el de los estacionamientos y/o bodegas.
 
@@ -126,17 +126,17 @@ De los saldos medios de ahorro. Para los efectos de obtener puntaje por concepto
 
 #### Artículo 10
 
-De la acreditación de ahorro para postular al subsidio habitacional. Para postular a los Subsidios Habitacionales que regula este reglamento, el postulante deberá acreditar haber enterado él o su cónyuge el ahorro mínimo requerido para postular en cada uno de los Títulos de este reglamento, en alguno de los instrumentos señalados, para lo cual deberán presentar:
+De la acreditación de ahorro para postular al subsidio habitacional. Para postular a los Subsidios Habitacionales que regula este reglamento, el postulante deberá acreditar haber enterado él o su cónyuge el ahorro mínimo requerido para postular en cada uno de los Títulos y tramo de precio de la vivienda, en alguno de los instrumentos señalados, para lo cual deberán presentar:
 
 a) En caso que la entidad captadora de ahorro, en adelante la entidad captadora, tenga convenio de traspaso electrónico con el Minvu, fotocopia de la libreta de ahorro o certificación emitida por la entidad captadora en que conste a lo menos el número de la cuenta y el tipo de libreta o cuenta; o una copia del Registro de Ahorro, en que se detalle número de cuenta de ahorro, la fecha de apertura y el tipo de cuenta. En todo caso deberá acompañarse mandato otorgado al Serviu respectivo para que solicite el saldo existente en la cuenta, el bloqueo de los fondos y su aplicación;
 
 b) En caso que la entidad captadora no tenga convenio de traspaso electrónico con el Minvu, certificación emitida por la entidad captadora de ahorro, en que conste el número de la cuenta y el tipo de libreta o cuenta, que acredite los saldos semestrales de ahorro que ha mantenido la cuenta, así como el saldo final.
 
-La certificación que acredite el ahorro, expresado en UF, deberá ser extendida con la información referida al último día del mes anterior al del inicio del período de postulación, en formato proporcionado por el Minvu.
+La certificación que acredite el ahorro, expresado en UF, deberá ser extendida con la información referida al último día del mes anterior al de la postulación, en formato proporcionado por el Minvu.
 
 #### Artículo 11
 
-De la información de ahorro. La entidad captadora informará al Serviu, por un medio electrónico o a través de un certificado, que el titular de la cuenta no ha efectuado giros o no se han efectuado cargos por otros conceptos desde el último día del mes anterior al del inicio del período de postulación y hasta la fecha de emisión del certificado de ahorro o de la entrega al Minvu de la información correspondiente. En caso de no contar con esta acreditación o de no entregarse, la respectiva postulación será dejada sin efecto.
+De la información de ahorro. La entidad captadora informará al Serviu, por un medio electrónico o a través de un certificado, que el titular de la cuenta no ha efectuado giros o no se han efectuado cargos por otros conceptos desde el último día del mes anterior al de la postulación y hasta la fecha de emisión del certificado de ahorro o de la entrega al Minvu de la información correspondiente. En caso de no contar con esta acreditación o de no entregarse, la respectiva postulación será dejada sin efecto.
 
 #### Artículo 12
 
@@ -170,13 +170,13 @@ Extraordinariamente, previa autorización escrita del Ministro de Vivienda y Urb
 
 El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. Dicha resolución establecerá los requisitos, condiciones y exigencias señaladas en este reglamento que serán obligatorias para participar en dicho llamado. Los recursos que se destinen a los llamados especiales a que se refiere este inciso no podrán exceder del 25% de los recursos del respectivo programa anual.
 
-De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivados de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones se podrá eximir a los beneficiarios de uno o más de los requisitos y condiciones establecidos en el presente reglamento, incorporar y/o establecer nuevos requisitos y condiciones así como disponer montos de subsidio diferentes a los señalados en los artículos 64 y 67. En este último caso, el monto máximo de subsidio no podrá exceder del establecido para cada Título, y la cantidad de recursos que podrá reservarse para estos efectos, no podrá exceder del 10% de aquellos dispuestos anualmente para este Sistema de Subsidio.
+De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivados de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones se podrá eximir a los beneficiarios de uno o más de los requisitos y condiciones establecidos en el presente reglamento, incorporar y/o establecer nuevos requisitos y condiciones así como disponer montos de subsidio diferentes a los señalados en los artículos 64 y 67. En este último caso, el monto máximo de subsidio no podrá exceder del establecido para cada Título y tramo de precio de la vivienda, y la cantidad de recursos que podrá reservarse para estos efectos, no podrá exceder del 10% de aquellos dispuestos anualmente para este Sistema de Subsidio.
 
 #### Artículo 14
 
 De las resoluciones que disponen los llamados a postulación. En las resoluciones que dispongan los llamados a subsidio regulados por el Título I y el Título II de este reglamento, se fijará como mínimo:
 
-a) El monto de recursos que se destinará al subsidio directo, su forma de distribución regional y por alternativas de postulación,
+a) El monto de recursos que se destinará al subsidio directo, su forma de distribución regional, por tramo de precio de vivienda y por alternativas de postulación.
 
 b) La fecha de inicio y término del período de postulación.
 
@@ -194,11 +194,17 @@ Requisitos y antecedentes para postular. Para postular al subsidio habitacional,
 
 a) Ser mayor de 18 años.
 
-b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella y de los documentos que se le exijan para el Título a que postule. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros y entregar fotocopia de ella y del Certificado de Permanencia Definitiva en que conste una antigüedad mínima de 5 años desde su otorgamiento hasta el momento de la postulación conforme a las normas que regulan la residencia legal de los extranjeros en el país.
+b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella y de los documentos que se le exijan para el Título y tramo de precio de vivienda a que postule. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros y entregar fotocopia de ella y del Certificado de Permanencia Definitiva en que conste una antigüedad mínima de 5 años desde su otorgamiento hasta el momento de la postulación conforme a las normas que regulan la residencia legal de los extranjeros en el país.
 
-c) Cumplir con el ahorro mínimo exigido para postular al Título de Subsidio que corresponda, el que deberá ser acreditado conforme a lo señalado en el artículo 10 del presente reglamento.
+c) Cumplir con el ahorro mínimo exigido para postular al Título y tramo de precio de vivienda que corresponda, el que deberá ser acreditado conforme a lo señalado en el artículo 10 del presente reglamento.
 
-d) Presentar un Certificado de Preaprobación de Crédito o de Precalificación como sujeto de crédito otorgado por una entidad crediticia, o por otra entidad que ésta mandate, o por Servicios de Bienestar que otorguen créditos con fines habitacionales, que señale el monto máximo de crédito a que puede optar el postulante y/o el rango de precio de vivienda que podría adquirir o construir. La fecha de emisión de dicho certificado no podrá tener una antigüedad superior a 60 días corridos respecto de la fecha de inicio del período de postulación. En caso que no requiera de crédito hipotecario, deberá suscribir declaración jurada en formato proporcionado por Serviu para estos efectos que dé cuenta que dispone de los recursos necesarios para financiar la vivienda sin crédito hipotecario y adjuntar los respaldos que permitan acreditar esa declaración.
+d) Acreditar financiamiento complementario al subsidio, de acuerdo al Título y tramo de precio de vivienda que corresponda:
+
+d1) Si postula al Tramo 1 del Título I, sólo podrá aplicar el subsidio a la adquisición de una vivienda en que no se requiera de crédito hipotecario. Para estos efectos, deberá suscribir declaración jurada notarial en formato proporcionado por Serviu, que señale que adquirirá una vivienda sin crédito hipotecario, cuyo precio no podrá exceder de aquel fijado para este tramo.
+
+d2) Si postula al Tramo 2 del Título I o al Título II, deberá presentar un Certificado de Preaprobación de Crédito o de Precalificación como sujeto de crédito otorgado por una entidad crediticia, o por otra entidad que ésta mandate, o por Servicios de Bienestar que otorguen créditos con fines habitacionales, que señale el monto máximo de crédito a que puede optar el postulante y/o el rango de precio de vivienda que podría adquirir o construir. La fecha de emisión de dicho certificado no podrá tener una antigüedad superior a 60 días corridos respecto de la fecha de inicio del período de postulación. En caso que no requiera de crédito hipotecario, deberá disponer de los recursos necesarios para financiar la vivienda, los que serán parte del ahorro acreditado para postular; los montos mínimos de ahorro adicional serán definidos en las resoluciones que dispongan los llamados a postulación.
+
+En caso de construcción en sitio propio o densificación predial, no se requerirá la presentación de los documentos ni acreditar los montos mínimos de ahorro adicional a que se refiere el inciso anterior.
 
 e) Si el postulante o uno o más integrantes del núcleo familiar declarado por éste, presentan discapacidad, esta condición deberá acreditarse con la respectiva inscripción en el Registro Nacional de la Discapacidad a que se refiere el Título V de la ley Nº 20.422, que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
@@ -206,7 +212,29 @@ f) Tratándose de indígenas, para acreditar tal calidad, como asimismo la de pa
 
 g) Tratándose de postulantes que tengan derechos en comunidad sobre una vivienda o si los tiene su cónyuge o conviviente u otro miembro del núcleo familiar declarado, deberá presentar certificado de dominio vigente o copia de la escritura en que consten dichos derechos o el instrumento que acredite tal condición, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación. Para el pago del certificado de subsidio, deberá acreditar haber cedido dichos derechos, mediante la correspondiente escritura pública inscrita.
 
-h) Si el postulante o el grupo organizado optan por construir en sitio propio, deberá acreditar que el referido sitio está inscrito a nombre del postulante o de su cónyuge o del grupo organizado, mediante la presentación de copia simple de la escritura de compraventa con constancia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces o de copia simple de la inscripción de dominio de la vivienda, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
+h) Si el postulante o el grupo organizado optan por construir en sitio propio, deberán acreditar la disponibilidad de terreno mediante alguno de los siguientes documentos:
+
+1. Sitio inscrito a nombre del postulante o de su cónyuge, cuando éste se encuentre incluido en la ficha de protección social y forme parte de la Declaración de Núcleo, o de ambos cónyuges en comunidad, o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes, o del grupo organizado, mediante la presentación de copia simple de la escritura de compraventa con constancia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces o de copia simple de la inscripción de dominio del sitio, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
+
+2. Si se postula acreditando dominio en tierras indígenas deberá acompañarse certificado de la Conadi que acredite su inscripción en el Registro de Tierras Indígenas.
+
+3. Si se postula acreditando derecho de goce en tierras indígenas, se deberá acompañar copia autorizada de la resolución de la Conadi que certifique la constitución de un derecho de goce autorizado por la respectiva comunidad, que singularice la parte del terreno en que está constituido y su inscripción en el Registro de Tierras Indígenas a favor del postulante, de su cónyuge, o de ambos cónyuges en comunidad, o de la sucesión integrada por el cónyuge sobreviviente, sus hijos o descendientes.
+
+4. Certificado emitido por la Conadi que acredite que se ha cumplido con los trámites para la constitución del derecho real de uso a favor del postulante, de su cónyuge o de ambos cónyuges en comunidad, o de la sucesión integrada por el cónyuge sobreviviente y sus hijos o descendientes, en los términos que señalan los incisos sexto y octavo del artículo 17 de la ley Nº 19.253, sobre Protección, Fomento y Desarrollo de los Indígenas. Al momento del pago del subsidio, el interesado deberá entregar copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se hubiere constituido el mencionado derecho real de uso; de lo contrario, el subsidio no será pagado.
+
+5. Copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se hubiere constituido usufructo o derecho real de uso por el propietario del terreno sobre el total o sobre una determinada porción del mismo, a favor del postulante que sea ascendiente o descendiente de aquél, o pariente por consanguinidad o por afinidad, o colateral hasta el segundo grado inclusive. También podrá postular el cónyuge del titular del derecho anteriormente mencionado.
+
+6. Si se postula acreditando derechos en comunidades agrícolas a las que se refiere el DFL Nº 5, de Agricultura, de 1968, deberá acompañarse copia de la inscripción de dominio o de la cesión de derechos a favor de comuneros agrícolas, otorgado por el Conservador de Bienes Raíces, con certificado de vigencia. Estos derechos podrán ser acreditados por el postulante, por su cónyuge, por ambos cónyuges en comunidad o por la sucesión integrada por el cónyuge sobreviviente, sus hijos o descendientes.
+
+También se podrá acreditar mediante copia de la inscripción en el Conservador de Bienes Raíces, del instrumento público mediante el cual se hubiere constituido derecho real de uso por el comunero de una comunidad agrícola a que se refiere el DFL citado precedentemente, autorizado por el Directorio de la respectiva comunidad, sobre una determinada porción del terreno, a favor del interesado que sea ascendiente o descendiente de aquél por consanguinidad o afinidad, hasta el segundo grado inclusive o colateral hasta el segundo grado inclusive, y/o de su cónyuge, en su caso.
+
+7. Copia de inscripción de dominio vigente, extendida a nombre de una cooperativa de vivienda de la cual fuere socio el postulante.
+
+8. Tratándose de postulantes acogidos a la ley Nº 19.253, sobre Protección, Fomento y Desarrollo de los Indígenas, escritura pública inscrita de cesión de derechos del terreno a favor del postulante, o de su cónyuge, o de ambos cónyuges en comunidad, o de la sucesión integrada por el cónyuge sobreviviente, sus hijos o descendientes.
+
+9. Certificado otorgado por el Ministerio de Bienes Nacionales que acredite que se ha extendido a favor del postulante o de su cónyuge el Acta de Radicación a que se refiere el artículo 89 del DL Nº 1.939, de 1977, y que ésta se encuentra vigente.
+
+10. Certificado emitido por el Ministerio de Bienes Nacionales que acredite que el inmueble poseído por el postulante o por su cónyuge, se encuentra sometido al procedimiento de regularización establecido en el DL Nº 2.695, de 1979, que se ha cumplido con las medidas de publicidad establecidas en el artículo 11 de dicho cuerpo legal, y que no se ha deducido oposición de terceros dentro del plazo de 30 días hábiles que señala ese precepto.
 
 i) Tratándose de postulantes o grupos organizados que optan por construcción en densificación predial, deberán identificar el o los sitios en que se construirá la o las viviendas y presentar según corresponda, autorización notarial del propietario y copia de la inscripción de dominio a favor de éste, con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
 
@@ -214,17 +242,19 @@ j) Si postula al Título I de este reglamento, debe contar con Ficha de Protecci
 
 Si postula al Título II, no será requisito que el interesado cuente con Instrumento de Caracterización Socioeconómica vigente, aun cuando se disponga de éste. No obstante, si opta por hacer valer dicho instrumento, podrá obtener puntaje conforme a lo establecido en la letra b) del artículo 68 de este reglamento.
 
-k) Presentar Declaración de Núcleo, en formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por parte del postulante como miembros de su núcleo familiar deberán formar parte de la misma Ficha de Protección Social, contar con Rol Único Nacional y ninguno de ellos podrá estar postulando a un subsidio habitacional o ser propietario de una vivienda o infraestructura sanitaria.
+Sólo se permitirá una postulación por cada Ficha de Protección Social o del instrumento que la reemplace. Dicho instrumento tampoco podrá ser invocado, si ya ha sido utilizado para acreditar núcleo familiar en postulaciones a otros programas de subsidio habitacional de este Ministerio. Todas las personas que formen parte de una misma Ficha de Protección Social o del instrumento que la reemplace, utilizada por un postulante que resultó beneficiado con un subsidio normado por este reglamento, aun cuando en la postulación no hayan sido invocados como parte del núcleo familiar declarado, quedarán impedidos de utilizar esa Ficha en futuras postulaciones a este o a otros programas de subsidio habitacional del Minvu. Este impedimento regirá por un plazo de tres años, contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados.
+
+k) Presentar Declaración de Núcleo, en formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán formar parte de la misma Ficha de Protección Social, contar con Rol Único Nacional y ninguno de ellos podrá estar postulando a un subsidio habitacional, tener un subsidio vigente o aplicado, ser propietario de una vivienda, sitio o infraestructura sanitaria ni estar afecto a alguno de los impedimentos señalados en el artículo 17 de este reglamento.
 
 Para el Título II, si el postulante opta por no hacer valer el Instrumento de Caracterización Socioeconómica, se considerará sólo la información contenida en la Declaración de Núcleo y los antecedentes que proporcione el Servicio de Registro Civil e Identificación, cuando corresponda. Sólo podrá incorporar en su Declaración de Núcleo a las siguientes personas:
 
 . Su cónyuge o conviviente.
 
-. Hijos de hasta 18 años del postulante, cónyuge o conviviente, cumplidos durante el año calendario del llamado.
+. Hijos de hasta 18 años del postulante o su cónyuge, cumplidos durante el año calendario del llamado.
 
-. Hijos mayores de 18 y hasta 24 años, del postulante, cónyuge o conviviente, cumplidos durante el año calendario del llamado, que vivan con él y a sus expensas, lo que deberá ser acreditado con declaración jurada simple.
+. Hijos mayores de 18 y hasta 24 años, del postulante o su cónyuge, cumplidos durante el año calendario del llamado, que vivan con él y a sus expensas, lo que deberá ser acreditado con declaración jurada simple.
 
-. Padres del postulante, de su cónyuge o de su conviviente reconocidos como carga familiar de éstos; deberán presentar copia del documento en que conste su reconocimiento como carga familiar y declaración jurada simple que viven con él y a sus expensas.
+. Padres del postulante o de su cónyuge reconocidos como carga familiar de éstos; deberán presentar copia del documento en que conste su reconocimiento como carga familiar y declaración jurada simple que viven con él y a sus expensas.
 
 La información del núcleo familiar será consultada directamente por el Serviu al Servicio de Registro Civil e Identificación.
 
@@ -244,7 +274,7 @@ Al momento de postular, el interesado otorgará la autorización correspondiente
 
 #### Artículo 17
 
-Impedimentos para postular. No podrán postular a este subsidio las personas que se encuentren en alguna de las siguientes situaciones:
+Impedimentos para postular. No se podrá postular a este subsidio si el interesado o alguno de los integrantes del grupo familiar declarado, se encuentran en alguna de las siguientes situaciones:
 
 a) Las que a la fecha de postular sean propietarias o asignatarias de una vivienda o de una infraestructura sanitaria o cuando lo fuere su cónyuge, o conviviente, o alguno de los otros miembros de su núcleo familiar declarado, aun cuando la asignación provenga de una cooperativa. La no concurrencia de este impedimento se acreditará mediante una declaración jurada simple del postulante, sin perjuicio de lo cual el Minvu podrá consultar directamente al Servicio de Impuestos Internos u otra entidad, la existencia de un bien raíz habitacional a nombre del postulante o de algún otro miembro del núcleo familiar declarado.
 
@@ -254,9 +284,9 @@ b) Los que tengan algún certificado de subsidio habitacional vigente a la fecha
 
 c) Los que estuvieren postulando a cualquier otro programa habitacional de las Instituciones del Sector Vivienda, o respecto de los cuales se hubiere efectuado reserva del subsidio de conformidad con el Título IV del D. S. Nº 120, (V. y U.), de 1995, o si lo estuviere su cónyuge, o conviviente, o algún otro miembro del núcleo familiar declarado.
 
-d) Los miembros del núcleo familiar que se declaren y den puntaje a un postulante en un proceso de selección, serán registrados y no podrán ser invocados para estos efectos por otro postulante en el mismo o en futuros procesos de postulación en caso que el postulante hubiere sido beneficiado y no hubiere renunciado a dicho beneficio. Este impedimento regirá mientras los miembros del núcleo familiar sean menores de edad.
+d) Los miembros del núcleo familiar que se declaren y den puntaje a un postulante en un proceso de selección, serán registrados y no podrán ser invocados para estos efectos por otro postulante en el mismo o en futuros procesos de postulación en caso que el postulante hubiere sido beneficiado y no hubiere renunciado a dicho beneficio. Este impedimento regirá mientras los miembros del núcleo familiar sean menores de edad, y en cualquier caso durante tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados.
 
-Los miembros del núcleo familiar mayores de 18 años y que hayan suscrito la Declaración de Núcleo, no podrán postular en el mismo o en futuros procesos de postulación. Esta prohibición de postular se mantendrá durante tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados.
+Los miembros del núcleo familiar mayores de 18 años y que hayan suscrito la Declaración de Núcleo, no podrán postular en el mismo o en futuros procesos de postulación. Esta prohibición de postular se mantendrá durante tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados,
 
 e) Las que hubieren obtenido del Serviu o de sus antecesores legales, o de las Municipalidades, o a través de los mecanismos del Impuesto Habitacional una vivienda o una infraestructura sanitaria, o un subsidio habitacional o una subvención municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del Serviu o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda, y lo hubieren aplicado a la adquisición o construcción de una vivienda o infraestructura sanitaria, o lo hubiere obtenido y aplicado su cónyuge, aunque la hubieren transferido posteriormente y/o hubieren devuelto el subsidio habitacional directo e indirecto obtenidos.
 
@@ -280,7 +310,7 @@ g) Cuando el postulante casado se encuentre separado de hecho y acredite haber i
 
 h) Cuando el conviviente del postulante tenga vivienda o beneficio asociado a su nombre y que el usufructo de esa vivienda lo tenga el cónyuge del conviviente, lo que deberá ser acreditado con el instrumento legal correspondiente.
 
-i) Cuando el postulante o su cónyuge, no siendo propietario de una vivienda, esté postulando o haya sido beneficiado con un subsidio habitacional regulado por el Título I del DS N° 255 (V. y U.), de 2006.
+i) Cuando el postulante o su cónyuge, no siendo propietario de una vivienda, esté postulando o haya sido beneficiado con un subsidio habitacional regulado por el Título I, o por la letra b.4) del Título II, del DS Nº 255 (V. y U.), de 2006.
 
 j) Cuando el postulante o su cónyuge invoque su condición de persona reconocida como víctima en el Informe de la Comisión Nacional sobre Prisión Política y Tortura creada por DS N°1.040, de Interior, de 2003 y hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere la letra e) del artículo 17 de este reglamento, con anterioridad al 28 de noviembre de 2004, fecha en que se dio a conocer al país el informe aludido. De la misma manera, cuando el postulante o su cónyuge invoque su condición de persona reconocida como víctima en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, mencionada en el inciso cuarto del artículo 3° transitorio de la Ley N° 20.405 y con anterioridad al 31 de agosto de 2011 hubiere perdido el dominio de la vivienda o infraestructura sanitaria a que se refiere la letra e) del artículo 17 de este reglamento.
 
@@ -336,11 +366,11 @@ jurídica, siempre que el proyecto habitacional
 
 cumpla con los requisitos y exigencias que
 
-contempla este reglamento y sea aprobado por
+contempla este reglamento y que esté aprobado
 
-el Serviu antes del inicio del período de
+por el Serviu al momento de la postulación
 
-postulación. El número de postulantes no podrá
+del grupo. El número de postulantes no podrá
 
 exceder de la cantidad de viviendas que forman
 
@@ -360,15 +390,15 @@ Postulantes hábiles. Serán postulantes hábiles, los que cumplan con los requi
 
 #### Artículo 21
 
-Cálculo puntaje prelación. Para cada Título la determinación del puntaje individual para decidir la prelación de los postulantes se efectuará sumando cada uno de los puntajes obtenidos por el postulante, de acuerdo a los factores señalados en el artículo 65 para la postulación al Título I y en el artículo 68 para la postulación al Título II, de este reglamento.
+Cálculo puntaje prelación. Para cada Título y tramo de precio de la vivienda la determinación del puntaje individual para decidir la prelación de los postulantes se efectuará sumando cada uno de los puntajes obtenidos por el postulante, de acuerdo a los factores señalados en el artículo 65 para la postulación al Título I y en el artículo 68 para la postulación al Título II, de este reglamento.
 
-En el caso de la postulación colectiva, se sumarán los puntajes individuales que obtenga cada uno de los postulantes del grupo y se dividirá por el número total de postulantes. El resultado que se obtenga de esta división, se considerará como el puntaje del grupo que postula al subsidio para cada Título.
+En el caso de la postulación colectiva, se sumarán los puntajes individuales que obtenga cada uno de los postulantes del grupo y se dividirá por el número total de postulantes. El resultado que se obtenga de esta división, se considerará como el puntaje del grupo que postula al subsidio para cada Título y tramo de precio de la vivienda.
 
 #### Artículo 22
 
-De la selección. La distribución regional de los recursos para cada Título y para cada alternativa de postulación, se efectuará de acuerdo a lo que se disponga en la resolución a que se refiere el artículo 14 de este reglamento.
+De la selección. La distribución regional de los recursos para cada Título y tramo de precio de la vivienda y para cada alternativa de postulación, se efectuará de acuerdo a lo que se disponga en la resolución a que se refiere el artículo 14 de este reglamento.
 
-La selección de beneficiarios para la asignación del subsidio en el llamado y Título respectivo, se realizará conforme al orden de prelación que determine el respectivo puntaje del postulante, hasta enterar el total de los recursos disponibles para cada Título y para cada alternativa de postulación.
+La selección de beneficiarios para la asignación del subsidio en el llamado y Título respectivo, se realizará conforme al orden de prelación que determine el respectivo puntaje del postulante, hasta enterar el total de los recursos disponibles para cada Título y tramo de precio de la vivienda y para cada alternativa de postulación.
 
 Si los recursos asignados en el llamado respectivo no son suficientes para atender el monto total de subsidio solicitado por el postulante alcanzado por el corte, tanto ese postulante como los que le siguen en el orden de prelación, serán excluidos de la selección.
 
@@ -392,7 +422,7 @@ De las apelaciones. Una vez efectuada la publicación del aviso señalado en el 
 
 Sólo serán atendidos los reclamos fundados en errores de hecho no imputables a los postulantes ni a la entidad patrocinante, los que serán resueltos administrativamente y sin ulterior recurso, mediante resoluciones del Serviu, sin perjuicio de los derechos establecidos en la ley Nº 19.880 y de las facultades que la ley Nº 10.336 otorga a la Contraloría General de la República.
 
-Los postulantes, sean individuales o colectivos, cuyos reclamos fueren acogidos y cuyos puntajes fueren superiores al puntaje de corte del respectivo llamado, serán incluidos en una nueva nómina de postulantes seleccionados, de acuerdo a la prelación que les corresponda. Los subsidios que se otorguen se imputarán a los recursos autorizados correspondientes al año del llamado a postulación.
+Los postulantes, sean individuales o colectivos, cuyos reclamos fueren acogidos y cuyos puntajes fueren superiores al puntaje de corte del respectivo llamado, serán incluidos, mediante resoluciones que dictará el Serviu, en una nueva nómina de postulantes seleccionados, de acuerdo a la prelación que les corresponda. Los subsidios que se otorguen se imputarán a los recursos autorizados correspondientes al año del llamado a postulación.
 
 #### Artículo 25
 
@@ -400,7 +430,7 @@ De las renuncias. En caso que el beneficiario renuncie al subsidio o no lo apliq
 
 #### Artículo 26
 
-De los reemplazos. Si durante la vigencia de los certificados se produjere la renuncia al subsidio de uno o más beneficiarios de postulación grupal, la entidad patrocinante o el representante legal del grupo podrá requerir al Serviu por escrito que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos de postulación que exija el Título correspondiente para ser postulante hábil, debiendo hacer devolución al Serviu del respectivo certificada de subsidio, acompañando además carta renuncia del beneficiario firmada ante notario y los antecedentes de postulación del reemplazante. Se podrá reemplazar hasta el 20% del número total de beneficiados que integran el grupo.
+De los reemplazos. Si durante la vigencia de los certificados se produjere la renuncia al subsidio de uno o más beneficiarios de postulación grupal, la entidad patrocinante o el representante legal del grupo podrá requerir al Serviu por escrito que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos de postulación que exija el Título y tramo de precio de vivienda correspondiente para ser postulante hábil, debiendo hacer devolución al Serviu del respectivo certificada de subsidio, acompañando además carta renuncia del beneficiario firmada ante notario y los antecedentes de postulación del reemplazante. Se podrá reemplazar hasta el 20% del número total de beneficiados que integran el grupo.
 
 El ahorro acreditado por el reemplazante, deberá ser igual o superior al del beneficiario reemplazado. El ahorro deberá estar cumplido por el reemplazante al último día del mes anterior al ingreso al sistema computacional de la solicitud de reemplazo.
 
@@ -418,7 +448,7 @@ El postulante seleccionado en la alternativa de postulación colectiva que haya 
 
 Del certificado de subsidio. El Minvu otorgará a los postulantes seleccionados, por intermedio de los Serviu, un certificado de subsidio habitacional, que indicará a lo menos:
 
-a) Título y alternativa de postulación en que el postulante fue beneficiado.
+a) Título y tramo de precio de vivienda y alternativa de postulación en que el postulante fue beneficiado.
 
 b) Nombre y Cédula Nacional de Identidad del beneficiario y de su cónyuge.
 
@@ -474,11 +504,15 @@ b) Copia de la respectiva escritura de compraventa con constancia de la inscripc
 
 Tratándose de viviendas adquiridas en primera transferencia, la escritura antes indicada debe contener, además de los antecedentes que señala el inciso quinto del articulo 18 de la Ley General de Urbanismo y Construcciones, una cláusula en la cual se indique el número del permiso de edificación y que el legajo de antecedentes respectivo, archivado en la Dirección de Obras Municipales, se entenderán forman parte integrante de dicha escritura de compraventa. En las escrituras respectivas no podrán establecerse otras servidumbres que las de demarcación, cerramiento, tránsito, medianería, acueducto, luz y vista, aguas lluvia, alcantarillado y desagües, ni podrán estipularse obligaciones que de algún modo pudieren menoscabar la garantía constituida sobre la vivienda adquirida con el subsidio habitacional, para caucionar el crédito hipotecario obtenido para su financiamiento.
 
-c) Copia de inscripción de la prohibición de enajenar durante 5 años, la que no será exigible si dicha inscripción consta en la copia de la respectiva escritura de compraventa.
+c) Copia de inscripción de la prohibición de enajenar y de celebrar acto o contrato alguno que importe la cesión de uso y goce de la vivienda, sea a título gratuito u oneroso, durante el plazo de 5 años, la que no será exigible si dichas inscripciones constan en la copia de la respectiva escritura de compraventa.
 
 d) Permiso de Edificación y Certificado de Recepción Municipal.
 
-e) Cuando el subsidio se aplique al pago del precio de una vivienda nueva que no forme parte de un proyecto habitacional aprobado por Serviu o al pago de una vivienda usada, se deberá presentar planta de arquitectura de la vivienda con timbre de la Dirección de Obras Municipales respectiva, que corresponda a la del permiso de edificación obtenido, para acreditar que cumple con los recintos mínimos señalados en el número 2 del programa arquitectónico a que se refiere el artículo 42 de este reglamento.
+e) Cuando el subsidio se aplique al pago del precio de una vivienda nueva que no forme parte de un proyecto habitacional aprobado por Serviu, se deberá presentar planta de arquitectura de la vivienda con timbre de la Dirección de Obras Municipales respectiva, que corresponda a la del permiso de edificación obtenido, para acreditar que cumple con los recintos mínimos señalados en el número 2 del programa arquitectónico a que se refiere el artículo 42 de este reglamento.
+
+En el caso de una vivienda usada, se deberá presentar la tasación comercial de la vivienda, la que deberá establecer que ésta cumple con los recintos mínimos señalados en el número 2 del Programa Arquitectónico a que se refiere el artículo 42 de este reglamento.
+
+Excepcionalmente, tratándose de subsidios del Título I, Tramo 1, en que la operación de compraventa considere crédito hipotecario, mediante resolución fundada, del Director del Serviu se podrá autorizar el pago, siempre que el precio de la vivienda no exceda el del límite fijado para el tramo.
 
 #### Artículo 34
 
@@ -486,19 +520,33 @@ Subsidio aplicado al pago del precio de la construcción de una vivienda. Si el 
 
 a) Certificado de subsidio habitacional, debidamente endosado, cuando corresponda.
 
-b) Copia de la inscripción de la prohibición de enajenar durante 5 años, la que no será exigible si dicha inscripción consta en la copia de la respectiva escritura de mutuo hipotecario, si lo hubiere.
+b) Copia de inscripción de la prohibición de enajenar y de celebrar acto o contrato alguno que importe la cesión de uso y goce de la vivienda, sea a título gratuito u oneroso, durante el plazo de 5 años, la que no será exigible si dichas inscripciones constan en la copia de la respectiva escritura de compraventa.
 
-c) Copia de la inscripción de dominio del inmueble en que se hubiere construido la vivienda, con certificado de vigencia a favor del beneficiario.
+No deberán cumplir con lo anterior, los titulares de dominio o derecho de goce de tierras indígenas, quienes deberán acompañar declaración jurada en el sentido de conocer las prohibiciones contenidas en el artículo 13 de la ley Nº 19.253, y los titulares de derecho real de uso, quienes deberán acompañar declaración jurada en el sentido de conocer las prohibiciones que afectan al usuario contenidas en el artículo 819 del Código Civil.
 
-d) Permiso de Edificación y Certificado de Recepción Municipal.
+c) Copia de la inscripción de dominio del inmueble en que se hubiere construido la vivienda, con certificado de vigencia a favor del beneficiario, o de su cónyuge, o de ambos cónyuges en comunidad, o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
-e) Contrato de construcción o de provisión de vivienda, cuando corresponda, que contenga una cláusula que indique que las especificaciones técnicas detalladas y los planos completos de arquitectura e instalaciones domiciliarias de la unidad habitacional, conocidos y aprobados por las partes, forman parte integrante de dicho contrato, debiendo cumplir la vivienda con los requisitos señalados en el número 2 del artículo 42 de este reglamento.
+En caso que el subsidio se aplique a una operación de densificación predial, se deberá presentar copia de la inscripción de dominio a favor del propietario del sitio, con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de la presentación a cobro del subsidio y declaración notarial de éste, en que señale estar de acuerdo con la construcción de la nueva vivienda a cuyo financiamiento se aplicará el subsidio.
+
+d) Si se hubiere postulado acreditando dominio en tierras indígenas, deberá acompañarse certificado de la Conadi que acredite su inscripción en el Registro de Tierras Indígenas.
+
+e) Si se hubiere postulado acreditando goce en tierras indígenas, deberá acompañarse copia autorizada de la resolución de la Conadi que certifique la constitución del goce, que está autorizado por la respectiva comunidad, que singularice la parte del terreno en que está constituido y su inscripción en el Registro de Tierras Indígenas.
+
+f) Si se hubiere postulado acreditando derecho real de uso sobre determinada superficie de la propiedad, deberá acompañarse copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se constituyó el derecho real de uso, conforme a los artículos 767 y 812 del Código Civil.
+
+g) Si se hubiere postulado acreditando derechos en comunidades agrícolas a las que se refiere el DFL Nº 5 (Agricultura), de 1968, deberá acompañarse copia de la inscripción de dominio o de la cesión de derechos a favor de comuneros agrícolas, otorgado por el Conservador de Bienes Raíces.
+
+h) Si se hubiere postulado con terreno en trámite de regularización, conforme al DL Nº 2.695, de 1979, copia del acto administrativo en el que conste la regularización de la posesión del inmueble, otorgado por el Ministerio de Bienes Nacionales.
+
+i) Permiso de Edificación y Certificado de Recepción Municipal.
+
+j) Contrato de construcción o de provisión de vivienda, cuando corresponda, suscrito por las partes, en que se señale el costo total de la construcción o de la provisión de vivienda, que contenga una cláusula que indique que las especificaciones técnicas detalladas y los planos completos de arquitectura e instalaciones domiciliarias de la unidad habitacional, conocidos y aprobados por las partes, forman parte integrante de dicho contrato, debiendo cumplir la vivienda con los requisitos señalados en el número 2 del artículo 42 de este reglamento.
 
 #### Artículo 35
 
 Situaciones en que no se tiene derecho al cobro del certificado de subsidio.
 
-a) No tendrán derecho a cobrar el subsidio habitacional las personas que con posterioridad a su postulación hubieren adquirido una vivienda a cualquier título, o la hubiere adquirido su cónyuge, aunque la hubieren transferido posteriormente; o hubieren sido beneficiadas con un subsidio habitacional; ni las que hubieren obtenido una infraestructura sanitaria de las Instituciones del Sector Vivienda o de las Municipalidades.
+a) No tendrán derecho a cobrar el subsidio habitacional, si el beneficiario o los integrantes del núcleo familiar declarado, con posterioridad a su postulación y hasta la fecha de la respectiva escritura de compraventa, hubieren adquirido una vivienda o sitio a cualquier título, aunque lo hubieren transferido posteriormente; o hubieren sido beneficiados con un subsidio habitacional; o los que hubieren obtenido una infraestructura sanitaria de las Instituciones del Sector Vivienda o de las Municipalidades
 
 b) No tendrán derecho a cobrar el subsidio las personas que habiendo tenido derechos en comunidad sobre una vivienda al postular al subsidio, o habiéndolos tenido su cónyuge, no acreditaren, mediante la correspondiente escritura pública inscrita, que han hecho cesión de sus derechos en esa comunidad, salvo que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en la que el beneficiario o su cónyuge sean comuneros.
 
@@ -630,13 +678,13 @@ Se exigirá un programa arquitectónico de a lo menos 3 recintos conformados: un
 
 #### Artículo 43
 
-Materialidad constructiva. Los proyectos habitacionales que se presenten al Título I, según el tipo y zona geográfica correspondientes, deberán cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de Construcción aprobado por resolución del Minvu. Mediante autorización del Ministro de Vivienda y Urbanismo se podrán aprobar Itemizados Técnicos Regionales, que serán sancionados por resolución de la Seremi respectiva.
+Materialidad constructiva. Los proyectos habitacionales que se presenten al Título I, según el tipo y zona geográfica correspondientes, deberán cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de Construcción aprobado por resolución del Minvu. Mediante resoluciones del Ministro de Vivienda y Urbanismo, a requerimiento específico y fundado de una región, se podrán incorporar o modificar normas del citado Itemizado Técnico respecto de esa región.
 
 ### Párrafo 17 — De los proyectos habitacionales
 
 #### Artículo 44
 
-Del proyecto habitacional. El proyecto habitacional incluirá un proyecto de arquitectura y urbanización, con un mínimo de 10 viviendas y un máximo de 160 para el Título I y de 300 viviendas para el Título II. Si el proyecto considera viviendas de ambos Títulos, podrá ser de hasta 300 viviendas y en tal caso el proyecto deberá considerar hasta un 30% de las viviendas a destinarse a su adquisición con la aplicación de un subsidio habitacional del Título I.
+Del proyecto habitacional. El proyecto habitacional incluirá un proyecto de arquitectura y urbanización, con un mínimo de 10 viviendas y un máximo de 300, pudiendo considerar viviendas de ambos Títulos. El proyecto habitacional presentado podrá ser parte de un proyecto de arquitectura y urbanización que considere un mayor número de viviendas.
 
 Los proyectos habitacionales deberán cumplir con los requisitos exigidos para cada Título, en cuanto al estándar de las viviendas, a equipamiento y en cuanto a los proyectos.
 
@@ -650,21 +698,23 @@ Del proyecto habitacional que forma parte de un proyecto de arquitectura y urban
 
 Del equipamiento de los proyectos habitacionales. Los proyectos habitacionales de construcción simultánea, edificación colectiva o condominios Tipo A y B, acogidos a la ley Nº 19.537, deberán considerar equipamientos, los que podrán localizarse en los terrenos destinados a cesiones conforme a lo establecido en la Ordenanza General de Urbanismo y Construcciones.
 
-El equipamiento, según corresponda, incluye una sala multiuso, que deberá presentar un proyecto completo con sus especificaciones y permiso de edificación correspondiente para la construcción.
+En proyectos habitacionales de 30 o más viviendas, éste deberá incluir el siguiente equipamiento a construirse, que deberá considerar como mínimo:
 
-Para los proyectos habitacionales de menos de 30 viviendas presentados de acuerdo a este reglamento, deberá observarse lo señalado en el inciso quinto de este artículo, cuando corresponda. En proyectos habitacionales de 30 o más viviendas, éste deberá incluir el siguiente equipamiento a construirse, que deberá considerar como mínimo:
+.
 
-Cuando se trate de proyectos habitacionales de condominios Tipo A acogidos a la ley Nº 19.537, de más de 30 viviendas, en terrenos que no permitan la cabida de la totalidad del equipamiento mínimo requerido en el presente reglamento, el equipamiento deberá considerar a lo menos una Sala Multiuso, cuya superficie mínima será de 0,6 m2 por cada vivienda del proyecto habitacional; alternativamente podrá considerarse más de una Sala Multiuso, respetando en la suma total de las superficies de dichas salas el mínimo de 0,6 m2 por cada vivienda del proyecto. El programa arquitectónico de la Sala Multiuso debe contemplar al menos tres recintos conformados: un espacio multifuncional y dos baños, con inodoro y lavamanos cada uno. Uno de los baños deberá estar adecuado para el ingreso y maniobra de una silla de ruedas con un espacio que permita giros en 180º, de un diámetro mínimo de 1,50 metros, incluyendo barras de apoyo. La Sala Multiuso deberá ubicarse en el primer piso y cumplir con los requisitos de accesibilidad para personas con discapacidad que establece la Ordenanza General de Urbanismo y Construcciones para edificios de uso público.
+Para cualquiera de las alternativas señaladas, se deberá presentar el proyecto completo con sus especificaciones y el correspondiente permiso de edificación para la construcción.
+
+Tratándose de proyectos habitacionales de condominios Tipo A acogidos a la ley Nº 19.537, de más de 30 viviendas, en terrenos que no permitan la cabida de la totalidad del equipamiento mínimo requerido en el presente reglamento, lo que será verificado por el Serviu, el equipamiento deberá considerar a lo menos una Sala Multiuso, con las características señaladas en el número 2. de la tabla precedente; alternativamente podrá considerarse más de una Sala Multiuso, respetando en la suma total de las superficies de dichas salas el mínimo de 0,6 m2 por cada vivienda del proyecto. La Sala Multiuso deberá cumplir con los requisitos de accesibilidad para personas con discapacidad que establece para edificios de uso público la Ordenanza General de Urbanismo y Construcciones.
+
+La distancia peatonal máxima entre el equipamiento y la vivienda más lejana del proyecto habitacional no debe superar los 250 metros.
 
 Si el proyecto habitacional es de menos de 30 viviendas y forma parte de un permiso de edificación de obra nueva de un proyecto de arquitectura y urbanización que considera un mayor número de viviendas, deberá cumplir con el equipamiento mínimo establecido en la tabla precedente, para el tramo de 30 a 70 viviendas.
 
-Si el proyecto habitacional se encuentra comprendido dentro de los tramos establecidos en la tabla precedente y forma parte de un permiso de edificación de obra nueva de un proyecto de arquitectura y urbanización que considera un mayor número de viviendas, se deberá presentar el plano de loteo con la delimitación exacta del sector que corresponde al proyecto que se construirá, el que deberá incluir el equipamiento mínimo exigido conforme al número de viviendas del proyecto habitacional señalado en la tabla precedente, que debe construirse simultáneamente.
+Si el proyecto habitacional forma parte de un permiso de edificación de obra nueva de un proyecto de arquitectura y urbanización que considera un mayor número de viviendas que las ya señaladas, se deberá presentar el plano de loteo con la delimitación exacta del sector que corresponde al proyecto o etapa que se construirá, el que deberá incluir el equipamiento mínimo exigido conforme al número de viviendas del proyecto habitacional señalado en la tabla precedente, que debe construirse simultáneamente y que podrá estar ubicado dentro o fuera de la etapa.
 
 En cualquiera de los casos señalados en los dos incisos precedentes, se deberá acreditar ante el Serviu que el proyecto de arquitectura y urbanización al que pertenece el proyecto habitacional cumple con el equipamiento mínimo para la totalidad de las viviendas proyectadas en el plano de loteo.
 
-El proyecto habitacional podrá incluir un equipamiento construido superior al mínimo exigido conforme al número de viviendas del proyecto presentado, en cuyo caso el mayor equipamiento que se ejecute podrá abonarse a futuras etapas para la construcción de proyectos habitacionales que se efectúen con cargo al mismo proyecto de arquitectura y urbanización, lo que deberá ser acreditado por la entidad patrocinante al momento de efectuar esas futuras presentaciones, siempre que el mencionado equipamiento responda íntegramente a dicho proyecto, y que la distancia peatonal máxima entre el equipamiento y la vivienda más lejana del proyecto habitacional no supere los 150 metros, sin que las áreas de equipamiento puedan fragmentarse.
-
-Con todo si los proyectos habitacionales ya cuentan con el equipamiento mínimo, el Serviu podrá acordar con la entidad patrocinante modificar la exigencia del equipamiento, proponiendo reemplazarlos por otro tipo de equipamiento, debiendo, para su construcción, presentar un proyecto completo con sus especificaciones y permiso de edificación, si correspondiere.
+La entidad patrocinante podrá incluir un equipamiento mayor que el exigido para el proyecto habitacional o etapa presentada, en cuyo caso este mayor equipamiento que se ejecute podrá abonarse a futuras etapas que se construyan con cargo al mismo proyecto de arquitectura y urbanización, lo que deberá ser acreditado por la entidad patrocinante al momento de efectuar esas futuras presentaciones.
 
 #### Artículo 47
 
@@ -676,7 +726,7 @@ b) Estar ubicado dentro del territorio operacional de la empresa sanitaria corre
 
 c) Que el terreno donde se emplaza el loteo posea al menos un frente con acceso directo a una vía local o de categoría mayor existente.
 
-d) Contar con acceso a transporte público a una distancia no mayor a 500 m.
+d) ELIMINADO.
 
 ### Párrafo 18 — De la Presentación y Aprobación de los Proyectos Habitacionales
 
@@ -700,9 +750,7 @@ aprobado de conformidad al artículo 55 de la Ley
 
 General de Urbanismo y Construcciones.
 
-. el distanciamiento desde el punto más cercano del
-
-terreno al punto de acceso a transporte público.
+. ELIMINADO.
 
 . la vía local o de categoría mayor existente a la
 
@@ -820,7 +868,7 @@ Del comprobante de ingreso al Serviu del proyecto habitacional. El Serviu acredi
 
 #### Artículo 50
 
-De la aprobación o rechazo del proyecto habitacional. Si el proyecto habitacional cuenta con informe favorable de un Revisor Independiente a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, el Serviu dispondrá de un plazo máximo de 20 días hábiles para aprobar u observar, por escrito, el proyecto habitacional presentado por la entidad patrocinante, a partir de la emisión del comprobante de ingreso. En caso de no contar con dicho informe, este plazo será de 30 días hábiles.
+De la aprobación o rechazo del proyecto habitacional. Si el proyecto habitacional cuenta con informe favorable de un Revisor Independiente a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, el Serviu dispondrá de un plazo máximo de 10 días hábiles para aprobar u observar, por escrito, el proyecto habitacional presentado por la entidad patrocinante, a partir de la emisión del comprobante de ingreso. En caso de no contar con dicho informe, este plazo será de 15 días hábiles.
 
 Si el proyecto es aprobado, la fecha de su aprobación será la de la notificación mediante la comunicación a que se refiere el inciso quinto de este artículo.
 
@@ -830,7 +878,7 @@ La entidad patrocinante podrá reingresar el proyecto con las observaciones subs
 
 Las aprobaciones o rechazos del proyecto serán comunicadas por el Serviu a la entidad patrocinante mediante carta certificada y se entenderán notificados conforme a lo dispuesto en el inciso segundo del artículo 46 de la ley Nº19.880.
 
-En el caso de proyectos habitacionales que se desarrollen para grupos seleccionados o que formen parte de la Nómina de Oferta de Proyectos Habitacionales, a que se refieren los artículos 53 y 58 de este reglamento, una vez aprobados, la entidad patrocinante deberá suscribir un convenio con el Serviu, que será aprobado por el acto administrativo correspondiente, en que se dejará constancia, como mínimo, del correspondiente permiso de edificación; del nombre de la empresa constructora encargada de la construcción del proyecto; de la obligación que asume de iniciar las obras respectivas dentro de los plazos señalados en este reglamento; de comunicar al Serviu el inicio de obras; del plazo de ejecución del proyecto; de la obligación de cumplir el compromiso de venta de las viviendas del proyecto conforme a lo señalado en el artículo 55 de este reglamento; del rango de precio y de superficie de las viviendas; de los efectos en caso de infracciones o que no se cumpla la ejecución del proyecto.
+En el caso de proyectos habitacionales que se desarrollen para grupos seleccionados o que formen parte de la Nómina de Oferta de Proyectos Habitacionales, a que se refieren los artículos 53 y 58 de este reglamento, una vez aprobados, la entidad patrocinante deberá suscribir un convenio con el Serviu, que será sancionado por el acto administrativo correspondiente, dictado dentro de los 20 días hábiles siguientes de la comunicación de la aprobación del proyecto habitacional por dicho Servicio, en que se dejará constancia, como mínimo, del correspondiente permiso de edificación; del nombre de la empresa constructora encargada de la construcción del proyecto; de la obligación que asume de iniciar las obras respectivas dentro de los plazos señalados en este reglamento; de comunicar al Serviu el inicio de obras; del plazo de ejecución del proyecto; de la obligación de cumplir el compromiso de venta de las viviendas del proyecto conforme a lo señalado en el artículo 55 de este reglamento; del rango de precio y de superficie de las viviendas; de los efectos en caso de infracciones o que no se cumpla la ejecución del proyecto.
 
 Capítulo III: De la aplicación del Subsidio habitacional
 
@@ -914,7 +962,7 @@ Para la presentación y verificación que el proyecto cumple con los requisitos 
 
 De la postulación colectiva con proyecto habitacional. En caso de postulación colectiva con proyecto habitacional a través de una entidad patrocinante, los integrantes del grupo seleccionado deberán aplicar el subsidio habitacional a una vivienda que forme parte del proyecto habitacional presentado por dicha entidad.
 
-El proyecto habitacional que presente la entidad patrocinante deberá contar con aprobación previa del Serviu al inicio del período de postulación del llamado respectivo.
+El proyecto habitacional que presente la entidad patrocinante deberá contar con aprobación previa del Serviu al momento de la postulación del grupo.
 
 El proyecto deberá cumplir con todos los requisitos y condiciones señalados en este reglamento y ser presentado de acuerdo a lo señalado en el artículo 48 de este reglamento.
 
@@ -936,7 +984,7 @@ De la reserva y elección de la vivienda de la Nómina de Oferta de Proyectos. E
 
 En ambos casos la referida reserva y elección se deberá efectuar personalmente en la entidad patrocinante. La reserva y elección de las viviendas y la elección del proyecto, en su caso, deberá ser informada al Serviu por la entidad patrocinante, en un plazo máximo de 10 días corridos, contados a partir de la fecha de dicha elección, acompañando los siguientes documentos:
 
-a) Original y fotocopia del certificado de subsidio endosado por el beneficiario a la entidad patrocinante.
+a) Fotocopia del certificado de subsidio endosado por el beneficiario a la entidad patrocinante. Para efectos de su validación, el Serviu podrá solicitar tener a la vista el certificado de subsidio original.
 
 b) Documento suscrito por el beneficiario en caso de postulación individual, y en caso de postulación colectiva por los beneficiarios y por el representante legal de la entidad patrocinante, que acredite que el o los beneficiarios conocen el proyecto y sus características y el precio de la vivienda. Dicho documento deberá consignar la fecha de la elección.
 
@@ -1030,7 +1078,7 @@ Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará el monto d
 
 #### Artículo 63
 
-De los postulantes al Título I. El Subsidio habitacional regulado por el presente Título, está orientado a familias de sectores medio - bajo, con capacidad de endeudamiento, que correspondan hasta el 60% de la población de menores ingresos de acuerdo a la última encuesta Casen, que cuenten con un puntaje del Instrumento de Caracterización Socioeconómica vigente determinado por Mideplan igual o inferior al fijado mediante resoluciones del Ministro de Vivienda y Urbanismo, publicadas en el Diario Oficial.
+De los postulantes al Título I. El Subsidio habitacional regulado por el presente Título, está orientado a familias de sectores emergentes, con capacidad de ahorro y/o endeudamiento, que correspondan hasta el 60% de la población de menores ingresos de acuerdo a la última encuesta Casen, que cuenten con un puntaje del Instrumento de Caracterización Socioeconómica vigente determinado por Mideplan igual o inferior al fijado mediante resoluciones del Ministro de Vivienda y Urbanismo, publicadas en el Diario Oficial.
 
 #### Artículo 64
 
@@ -1064,35 +1112,31 @@ a) Grupo Familiar:
 
 30 puntos adicionales por cada miembro integrante del Núcleo Familiar declarado, incluido el postulante que tuviese 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado a postulación.
 
+100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
+
+20 puntos por cada integrante del núcleo familiar que acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que han quedado en condición de Acuartelados en el Proceso de Selección de Contingente a partir del año 2004.
+
 Para estos efectos, los miembros del núcleo familiar incluido en la Declaración de Núcleo deberán corresponder a los comprendidos en el Instrumento de Caracterización Socio Económica aplicado al postulante.
 
 b) Puntaje por Caracterización Socioeconómica:
 
-Corresponderá a la diferencia entre el puntaje a que se refiere el artículo 63 de este reglamento y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cincuenta.
+Corresponderá a la diferencia entre el puntaje a que se refiere el artículo 63 de este reglamento y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cien.
 
 c) Monto de Ahorro:
 
-1 punto por cada Unidad de Fomento que exceda el mínimo exigido para postular y que no supere las 100 UF; 0,5 punto por cada UF que exceda de 100 UF y no supere las 150 UF.; y 0,1 punto por cada UF que exceda de 150 UF.
+2 puntos por cada unidad de fomento que exceda el ahorro mínimo exigido para postular y que no supere las 100 UF; 1 punto por cada UF que exceda de 100 UF y no supere las 200 UF y 0,5 punto por cada UF que exceda de 200 UF.
 
-d) Saldos Medios de Ahorro:
+d) Permanencia y Constancia de Ahorro:
 
-20 puntos en caso que el saldo medio semestral previo a la postulación sea igual o superior a dos tercios del ahorro mínimo requerido para postular al Título I.
+20 puntos en caso que el saldo medio semestral previo a la postulación sea igual o superior a dos tercios del saldo registrado en la cuenta al momento de la postulación.
 
 20 puntos en caso que el saldo medio semestral anterior al antes expresado, sea superior a un tercio del ahorro mínimo requerido para postular al Título I.
 
 En caso que la entidad captadora del ahorro no informe los saldos medios referidos, el postulante no obtendrá puntaje por este concepto.
 
-e) Condición de persona reconocida como víctima en el Informe de la Comisión Nacional sobre Prisión Política y Tortura o en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, o su cónyuge.
+e) Antigüedad de la postulación:
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS N° 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3° transitorio de la Ley N° 20.405.
-
-f) Cumplimiento Servicio Militar:
-
-20 puntos si el postulante o su cónyuge acredita haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, o que han quedado en condición de Acuartelados en el Proceso de Selección de Contingente a partir del año 2004.
-
-g) Antigüedad de la postulación:
-
-5 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación regulados por el presente reglamento en que hubiere participado. Este puntaje se otorgará por cada llamado a postulación, hasta un máximo de tres.
+20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación en que hubiere participado, regulados por el presente reglamento y/o por el DS Nº 49 (V. y U.), de 2011. Este puntaje se otorgará por cada llamado a postulación, hasta un máximo de tres.
 
 ## Título II — Del subsidio habitacional para Sectores Medios
 
@@ -1117,6 +1161,8 @@ Los montos de subsidio se calcularán con dos decimales.
 b) Provincia de Chiloé:
 
 c) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincia de Palena, y comunas de Isla de Pascua y Juan Fernández:
+
+Los montos de subsidio se calcularán con dos decimales.
 
 d) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas, conforme a lo señalado en este reglamento, o a viviendas nuevas que formen parte de un proyecto de la Nómina de Oferta o de un proyecto habitacional, emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras a), b) o c) de este artículo, cuyo monto en ningún caso podrá ser inferior a 200 UF, ni superior a 300 UF, si se determina conforme a la letra a); 350 UF, si se determina de acuerdo a la letra b); o 400 UF, si se determina según la letra c), ya referidas.
 
@@ -1150,23 +1196,23 @@ En caso que el postulante no esté encuestado con el Instrumento de Caracterizac
 
 . Su cónyuge o conviviente.
 
-. Hijos de hasta 18 años, del postulante, de su
+. Hijos de hasta 18 años, del postulante
 
-cónyuge o de su conviviente, cumplidos durante el
+o de su cónyuge, cumplidos durante el
 
 año calendario del llamado.
 
-. Hijos mayores de 18 y hasta 24 años, del
+. Hijos mayores de 18 y hasta 24 años,
 
-postulante, de su cónyuge o de su conviviente,
+del postulante o de su cónyuge, cumplidos
 
-cumplidos durante el año calendario del llamado,
+durante el año calendario del llamado,
 
 que vivan con él y a sus expensas, lo que deberá
 
 ser acreditado mediante declaración jurada simple.
 
-. Padres del postulante, de su cónyuge o conviviente,
+. Padres del postulante o de su cónyuge,
 
 reconocidos como carga familiar de éstos; deberán
 
@@ -1188,33 +1234,29 @@ La información del núcleo familiar será consultada directamente por el Serviu
 
 30 puntos adicionales por cada miembro integrante del Núcleo Familiar declarado, incluido el postulante, que tuviese 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado a postulación.
 
+100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
+
+20 puntos por cada integrante del núcleo familiar que acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
+
 b) Puntaje por Caracterización Socioeconómica, si la tuviere:
 
-Corresponderá a la diferencia entre el puntaje asociado al tercer quintil del Instrumento de Caracterización Socioeconómica determinado por Mideplan y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cincuenta.
+Corresponderá a la diferencia entre el puntaje asociado al tercer quintil del Instrumento de Caracterización Socioeconómica determinado por Mideplan y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cien.
 
 c) Monto de Ahorro:
 
-1 punto por cada UF que exceda del ahorro mínimo exigido para postular y que no supere las 100 UF; 0,5 punto por cada UF que exceda de 100 UF y no supere las 200 UF y 0,1 punto por cada UF que exceda de 200 UF
+2 puntos por cada unidad de fomento que exceda el ahorro mínimo exigido para postular y que no supere las 100 UF; 1 punto por cada UF que exceda de 100 UF y no supere las 200 UF, y 0,5 punto por cada UF que exceda de 200 UF
 
-d) Saldos Medios de Ahorro:
+d) Permanencia y Constancia del Ahorro:
 
-20 puntos en caso que el saldo medio semestral previo a la postulación sea igual o superior a dos tercios del ahorro mínimo requerido para postular al Título II.
+20 puntos en caso que el saldo medio semestral previo a la postulación sea igual o superior a dos tercios del saldo registrado en la cuenta al momento de la postulación.
 
-20 puntos en caso que el saldo medio semestral anterior al antes expresado sea superior a un tercio del ahorro mínimo requerido para postular al Título II.
+20 puntos en caso que el saldo medio semestral anterior al antes expresado sea superior a un tercio del saldo registrado en la cuenta al momento de la postulación.
 
 En caso que la entidad captadora del ahorro no informe los saldos medios referidos, el postulante no obtendrá puntaje por este concepto.
 
-e) Condición de persona reconocida como víctima en el Informe de la Comisión Nacional sobre Prisión Política y Tortura o en la nómina elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, o su cónyuge.
+e) Antigüedad de la postulación:
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS N° 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3° transitorio de la Ley N° 20.405.
-
-f) Cumplimiento Servicio Militar:
-
-20 puntos si el postulante o su cónyuge acredita haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar o que han quedado en condición de Acuartelados en el Proceso de Selección de Contingente a partir del año 2004.
-
-h) Antigüedad de la postulación:
-
-5 Puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación regulados por el presente reglamento en que hubiere participado. Este pontaje se otorgará por cada llamado a postulación, hasta un máximo de tres.
+20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación en los que hubiese participado, regulados por el presente reglamento y/o por el DS Nº49 (V. y U.), de 2011. Este puntaje se otorgará por cada llamado a postulación, hasta un máximo de tres.
 
 ## Título III — De los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda
 
@@ -1234,11 +1276,11 @@ Los créditos hipotecarios que se otorguen al amparo de este reglamento, se cauc
 
 #### Artículo 70
 
-De los seguros. En caso de requerir crédito hipotecario, el beneficiario de subsidio obtenido a través de este reglamento deberá contar, por todo el plazo de la deuda, con los siguientes seguros, que serán de cargo del deudor:
+De los seguros. En caso de requerir crédito hipotecario, el beneficiario de subsidio obtenido a través de este reglamento deberá contar, por todo el plazo de la deuda, con excepción de aquel a que se refiere la letra a), con los siguientes seguros, que serán de cargo del deudor:
 
 a) Seguro de desempleo o de incapacidad temporal.
 
-El seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes deberá cubrir como mínimo el pago de seis meses del dividendo, pudiendo aplicarse nuevamente la cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada. Para pensionados, este seguro no será exigible, sin perjuicio que el interesado pueda optar por contratarlo.
+Por los primeros 48 meses del crédito, se deberá contar con un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que deberá cubrir como mínimo el pago de seis meses del dividendo, pudiendo aplicarse nuevamente la cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada. Transcurridos los primeros 48 meses, el interesado podrá optar por continuar con el seguro, si así lo estima conveniente. Para pensionados o quienes se pensionen durante el período de vigencia del seguro contratado, este seguro no será exigible, sin perjuicio que el interesado pueda optar por contratarlo.
 
 Por los primeros cuarenta y ocho meses del plazo de la deuda, el mutuario obtendrá un subsidio adicional para contribuir al financiamiento del costo de la prima, que se aplicará al pago de ésta. Este subsidio será de un monto equivalente al de la prima respectiva, con un tope igual al resultante de aplicar el factor 0,60 por mil al monto del crédito. Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará la operatoria y el procedimiento de pago a la entidad crediticia respectiva.
 
@@ -1248,7 +1290,7 @@ b) Seguro de desgravamen y de invalidez
 
 El seguro de desgravamen deberá cubrir el saldo insoluto de la deuda en caso de fallecimiento y se hará efectivo aun cuando el deudor se hubiere encontrado en mora a la fecha del fallecimiento, siempre que no hubiere tenido más de 3 cuotas impagas.
 
-El seguro de invalidez será por Invalidez Permanente Total o Parcial de a lo menos 2/3, derivada de enfermedad o accidente. Este seguro se hará efectivo aun cuando el deudor se hubiere encontrado en mora a la fecha de la declaración de invalidez, siempre que a esa fecha no hubiere tenido más de 3 cuotas impagas.
+El seguro de invalidez será por Invalidez Permanente Total o Parcial de a lo menos 2/3, derivada de enfermedad o accidente. Este seguro se hará efectivo aun cuando el deudor se hubiere encontrado en mora a la fecha de la declaración de invalidez, siempre que a esa fecha no hubiere tenido más de 3 cuotas impagas. Este seguro no será exigible si el deudor percibe pensión por invalidez; y en caso que el deudor no perciba la pensión señalada, la entidad crediticia podrá evaluar si es necesaria su contratación, si el deudor presenta una invalidez preexistente o algún grado de invalidez que no haga necesaria la contratación del seguro.
 
 Si el mutuario fuere mayor de 65 años y/o no pudiere contratar seguro de desgravamen, para dar curso a la operación de crédito deberá exigírsele, además de la hipoteca, la concurrencia de un aval u otra caución complementaria suficiente a juicio exclusivo de la entidad crediticia.
 
@@ -1306,7 +1348,7 @@ CH Monto del crédito hipotecario.
 
 #### Artículo 74
 
-Seguro de remate. Si una vivienda financiada con un subsidio habitacional a que se refiere este reglamento y con un crédito complementario a que se refiere el artículo 69 precedente, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario, los siguientes porcentajes del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de su pago efectivo, incluyendo las costas del juicio, según el precio de la vivienda:
+Seguro de remate. Si una vivienda financiada con un subsidio habitacional a que se refiere este reglamento y con un crédito complementario a que se refiere el artículo 69 precedente, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario, los siguientes porcentajes del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de la adjudicación de la vivienda como consecuencia del remate, incluyendo las costas del juicio, según el precio de la vivienda:
 
 . En que "P" corresponde al precio de la vivienda de acuerdo al artículo 7º del presente reglamento.
 
