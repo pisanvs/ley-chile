@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.456, de 10 de junio de 2013, de esta Subsecretaría, autorízase a UNIVERSIDAD ARTURO PRAT para realizar actividades experimentales de acuicultura sobre la especie Corvina, cuyo objetivo general consiste en desarrollar su tecnología de cultivo, en la I Región de Tarapacá.
+
+Las actividades se desarrollarán por 5 años desde la fecha de la presente resolución, en terreno de playa Huayquique, I Región de Tarapacá, con permiso de escasa importancia otorgado por resolución C.P. (IQQ) Ordinario Nº 12.210/132, de 2013, de la Capitanía de Puerto de Iquique, y sus renovaciones, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico citado en Visto y en la resolución extractada.
+
+Valparaíso, 10 de junio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
