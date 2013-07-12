@@ -16,61 +16,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Establécese la siguiente zonificación entre las Regiones X y XII en función del estado sanitario respecto de la enfermedad Anemia Infecciosa del Salmón (ISA):
-
-a. Zona infectada: Los límites de esta zona serán por el norte el Seno de Reloncaví y por el sur hasta la Isla James. Para ambos casos se trazó una línea horizontal cuyos puntos geográficos son los siguientes:
-
-VER DIARIO OFICIAL DE 16.02.2009, PÁGINA 8.
-
-. La zona comprendida entre los vértices de las
-
-siguientes coordenadas geográficas, en la Región
-
-de Magallanes y la Antártica Chilena:
-
-Límite Punto Longitud (W) Latitud (S)
-
-Norte Nº1 W 51°30'00,6" S 73°10'02,7"
-
-Norte N°2 W 51°30'03,3" S 72°26'28,8"
-
-Sur N°3 W 52°19'49,0" S 72°26'20,0"
-
-Sur N°4 W 52°19'49,8" S 73°10'00,3"
-
-. La zona comprendida en un radio de 25 km. en torno
-
-al siguiente punto geográfico, en la Región de
-
-Aysén del General Carlos Ibáñez del Campo:
-
-Punto Longitud (W) Latitud (S)
-
-Nº 1 W 74°17'30" S 45°16'50"
-
-. La zona comprendida en un radio de 5 km. en torno
-
-al siguiente punto geográfico, en la Región de
-
-Aysén del General Carlos Ibáñez del Campo:
-
-Punto Longitud (W) Latitud (S)
-
-Nº 1 W 72°49'2,3" S 45°28'14,5"
-
-Para los efectos de esta resolución, se entenderá por zona infectada, a la zona geográfica o hidrográfica en la cual se ha demostrado la presencia de la enfermedad Anemia Infecciosa del Salmón (ISA).
-
-b. Zona en vigilancia 1: Los límites de esta zona serán desde la Isla James por el norte hasta el borde sur de la Región de Aisén. Para ambos casos se trazó una línea horizontal cuyos puntos geográficos son los siguientes:
-
-VER DIARIO OFICIAL DE 16.02.2009, PÁGINA 8.
-
-c. Zona en vigilancia 2: Los límites de esta zona serán desde el borde sur de la Región de Aisén por el norte hasta el extremo sur de la Región de Magallanes. Para ambos casos se trazó una línea horizontal cuyos puntos geográficos son los siguientes:
-
-VER DIARIO OFICIAL DE 16.02.2009, PÁGINA 8.
-
-> **Nota.** La letra a) del artículo único de la Resolución 2256, Economía, publicada el 04.01.2011, modifica el presente artículo con el fin de incorporar nuevas zonas infectadas en su literal a). A su vez, la letra b) modifica los literales b) y c), en el sentido de excluir de éstos las zonas a que se hace referencia.
-
-> **Nota.** NOTA 1 La Resolución 756 Exenta, Economía, publicada el 21.04.2011, modifica la presente resolución en el sentido de excluir de las zonas infectadas las áreas que señala, las que pasan a incorporarse a las Zonas de Vigilancia.
+DEROGADO.
 
 #### Artículo segundo
 
@@ -88,14 +34,12 @@ c. Zona en vigilancia 1 (XI Región):
 
 VER DIARIO OFICIAL DE 16.02.2009, PÁGINA 9.
 
-#### Artículo tercero
+#### Artículo Tercero
 
-Todo aquel que desarrolle actividades de acuicultura, a cualquier título, en algún centro de cultivo ubicado en las zonas y subzonas aludidas en los artículos precedentes, deberá dar estricto cumplimiento a las disposiciones que al efecto establece el Reglamento sobre Medidas de Protección, Control y Erradicación de Enfermedades de Alto Riesgo para las Especies Hidrobiológicas, como asimismo, a las medidas que disponga el Programa Sanitario Específico de Vigilancia y Control de ISA.
-
-Además, de acuerdo a lo dispuesto en el citado Reglamento, no podrán trasladarse especies hidrobiológicas desde zonas infectadas o de vigilancia a zonas libres. Tampoco podrán liberarse especies hidrobiológicas vivas provenientes de zonas infectadas o de vigilancia en zonas libres. El transporte de especies hidrobiológicas vivas, sólo podrá realizarse desde una zona de condición sanitaria equivalente o superior.
+DEROGADO.
 
 #### Artículo cuarto
 
-La infracción de lo dispuesto en la presente resolución y en el Reglamento, se sancionará conforme a las disposiciones de los Títulos IX y X de la Ley General de Pesca y Acuicultura.
+DEROGADO.
 
 Anótese, comuníquese y publíquese.- Félix Inostroza Cortés, Director Nacional de Pesca.
