@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE DE LA SERENA
+
+Por resolución SII Nº 18, de 20 de junio de 2013, se designó a doña Ana María Godoy Díaz, RUT Nº 8.998.922-1, como Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie y a don Alfredo Andrés Rodríguez Godoy, RUT Nº 10.726.456-6, como Secretario Suplente en el Tribunal correspondiente a la Segunda Serie, ambos con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena.
