@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.735, de 9 de julio de 2013, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones exentas Nº 624, de 2000 y N° 34, de 2003, ambas de esta Subsecretaría, sólo en cuanto autorizaron a PESQUERA BÍO BÍO S.A. para ampliar actividades pesqueras extractivas con la nave "Biomar V", respecto del recurso hidrobiológico Reineta, en el área marítima comprendida entre la IV Región al paralelo 41º28,6' LS y entre la XV Región y el paralelo 41°28,6' LS, respectivamente, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 9 de julio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
