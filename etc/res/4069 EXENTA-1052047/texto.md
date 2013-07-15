@@ -14,11 +14,11 @@ Considerando:
 
 a) La necesidad de mejorar la calidad de vida de los habitantes de barrios que presentan graves problemas de deterioro urbano, segregación y vulnerabilidad social, a través de un proceso participativo que facilite la recuperación de sus espacios públicos y de los entornos urbanos de las familias.
 
-b) Que mediante información estadística georreferenciada disponible a una escala territorial adecuada en virtud de un trabajo conjunto de la Secretaría Ejecutiva de Desarrollo de Barrios y la Secretaría Ministerial Regional de la Región de Valparaíso, conforme a criterios objetivos y cuantificables de deterioro urbano y vulnerabilidad social, se ha definido como zona prioritaria de intervención un sector ubicado en la comuna de Valparaíso, que presenta aislamiento geográfico con su consecuente dificultad de accesibilidad y conectividad física y un considerable deterioro medioambiental, lo que afecta el territorio y sus habitantes, por lo que dicto la siguiente
+b) Que mediante información estadística georreferenciada disponible a una escala territorial adecuada en virtud de un trabajo conjunto de la Secretaría Ejecutiva de Desarrollo de Barrios y la Secretaría Ministerial Regional de la Región de Valparaíso, conforme a criterios objetivos y cuantificables de deterioro urbano y vulnerabilidad social, se ha definido como zona prioritaria de intervención un sector ubicado en la comuna de Isla de Pascua, que presenta aislamiento geográfico con su consecuente dificultad de accesibilidad y conectividad física y un considerable deterioro medioambiental, lo que afecta el territorio y sus habitantes, por lo que dicto la siguiente
 
 Resolución:
 
-1. Establécese como zona prioritaria de intervención el sector ubicado en la comuna de Valparaíso, comprendido entre los límites que a continuación se señalan:
+1. Establécese como zona prioritaria de intervención el sector ubicado en la comuna de Isla de Pascua, comprendido entre los límites que a continuación se señalan:
 
 Oeste : Línea de Costa - Límite urbano (A-B).
 
@@ -32,7 +32,7 @@ Este : Calle Kaituoe (E-F).
 
 Norte : Límite urbano (F-A).
 
-2. Selecciónase como nuevo barrio para la atención a través del Programa de Recuperación de Barrios, al Barrio Isla de Pascua, de la comuna de Valparaíso, ubicado dentro del polígono comprendido entre los límites que a continuación se señalan:
+2. Selecciónase como nuevo barrio para la atención a través del Programa de Recuperación de Barrios, al Barrio Isla de Pascua, de la comuna de Isla de Pascua, ubicado dentro del polígono comprendido entre los límites que a continuación se señalan:
 
 Oeste : Línea de Costa - Límite urbano (A-B).
 
