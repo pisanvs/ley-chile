@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIÓN QUE INDICA
+
+Por decreto alcaldicio Nº 883.13, de 3 de julio de 2013, la I. Municipalidad de Placilla, por razones de utilidad pública y cumplimiento del Plan Regulador Comunal, ordenó la expropiación de un retazo de terreno de 746,33 m2 en la propiedad Rol 2-15 ubicada en calle Óscar Gajardo Nº2193, ex Nº 79, a nombre de la Sucesión Rosa Torres Jorquera, con el objeto de dar cumplimiento al Plano Regulador vigente y apertura de la calle Guillermo Navarro, entre las calles Óscar Gajardo y Almirante Latorre, fijándose una indemnización provisional de $64.569.442 (sesenta y cuatro millones quinientos sesenta y nueve mil cuatrocientos cuarenta y dos pesos), la que se cancelará al contado y reajustada en conformidad a lo establecido en el artículo 5º del DL 2.186, de 1978.
+
+Placilla, julio de 2013.- José Joaquín Latorre Muñoz, Alcalde.
