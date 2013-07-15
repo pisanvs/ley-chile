@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº984, de 12 de junio de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) N°2816, de 17 de noviembre de 2010, a fin de individualizar correctamente el lote de terreno N°60, ubicado en la comuna de Ancud, que figura a nombre de LINNEBRINK GERDING OSCAR RENE, rol de avalúo 1181-23, superficie 482 m2., complementando el informe de tasación emitido el 18 de noviembre de 2007, mediante acta emanada de la misma comisión el 11 de abril de 2012, expropiado con motivo de la obra "Mejoramiento Ruta 5 - W-15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", Comuna de Ancud, Provincia de Chiloé,
+
+Fiscal del Ministerio de Obras Públicas.
