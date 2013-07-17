@@ -768,6 +768,18 @@ y Oncorhynchus tshawytscha, en el ciclo
 
 productivo siguiente.
 
+7.4.9. Los centros de cultivo podrán realizar
+
+limpieza in situ de redes aun habiéndose
+
+constatado la presencia de Caligus
+
+rogercresseyi, o encontrarse en alguna
+
+de las categorías establecidas por el
+
+presente Programa.
+
 8. Sistema de Notificación
 
 8.1 La notificación se efectuará mediante carta certificada, sin perjuicio del envío de oficio por correo electrónico, en los siguientes casos:
