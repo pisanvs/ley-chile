@@ -1,0 +1,25 @@
+MODIFICA DECRETO Nº 106, DE 2011, QUE OTORGA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA A ORMAT ANDINA ENERGÍA LIMITADA, EN EL ÁREA DENOMINADA "MARIMÁN", UBICADA EN LA COMUNA DE SAN PEDRO DE ATACAMA, PROVINCIA DE EL LOA, REGIÓN DE ANTOFAGASTA, EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 149 exento.- Santiago, 12 de abril de 2013.- Vistos: Lo dispuesto en la ley Nº 20.402, que crea el Ministerio de Energía estableciendo modificaciones al DL Nº 2.224, de 1978 y a otros cuerpos legales; en la ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en su Reglamento aprobado mediante decreto supremo Nº 32, de 22 de abril de 2004, y su modificación dispuesta por decreto supremo Nº 224, de 4 de diciembre de 2008, ambos del Ministerio de Minería; en el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería; en el decreto supremo Nº 106, de 25 de noviembre de 2011, del Ministerio de Energía; en la presentación de Ormat Andina Energía Limitada, de fecha 28 de noviembre de 2012; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, mediante decreto supremo Nº 106, de 25 de noviembre de 2011, del Ministerio de Energía, publicado en el Diario Oficial de fecha 7 de marzo de 2012, se otorgó a Ormat Andina Energía Limitada, la concesión de exploración de energía geotérmica denominada "Marimán", ubicada en la comuna de San Pedro de Atacama, provincia de El Loa, Región de Antofagasta.
+
+2. Que, a través de presentación de fecha 28 de noviembre de 2012, efectuada por don Rodrigo Albagli Ventura, representante legal de la empresa Ormat Andina Energía Limitada, se informó a esta Secretaría de Estado que por escritura pública de fecha 27 de abril de 2012, se constituyó la sociedad denominada "Orandina V SpA", dejándose expresa constancia en su artículo primero transitorio, que su capital asciende a la suma de siete millones quinientos cincuenta y cinco mil doscientos veinte pesos, dividido en diez mil acciones nominativas, de una misma serie y sin valor nominal, que la empresa Ormat Andina Energía Limitada suscribe y paga íntegramente mediante el aporte total de la concesión de exploración de energía geotérmica denominada "Marimán", individualizada en el considerando primero del presente decreto.
+
+3. Que, de acuerdo a lo establecido en el artículo 24 de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica, las referidas concesiones pueden ser transferidas total o parcialmente a terceros mediante escritura pública, agregando dicho precepto que, otorgada que sea la escritura pública de transferencia, el nuevo concesionario se subrogará al concesionario anterior, por el solo ministerio de la ley, en las obligaciones y derechos de la concesión.
+
+4. Que, por su parte, el artículo 55 del decreto supremo Nº 32, de 2004, del Ministerio de Minería, que aprueba el Reglamento de la ley Nº 19.657, establece que dentro del plazo de un mes contado desde el otorgamiento de la respectiva escritura de transferencia y sin perjuicio de la subrogación que opera por el solo ministerio de la ley, el concesionario deberá comunicar por escrito al Ministerio de Energía la transferencia de la concesión, adjuntando copia autorizada de la escritura pública de transferencia, agregando que el Ministerio, por medio de decreto supremo, procederá a modificar la concesión de acuerdo a lo establecido en la respectiva escritura pública de transferencia.
+
+5. Que, atendidos los antecedentes expuestos, el Ministerio de Energía considera ajustado a derecho proceder a la modificación de decreto supremo Nº 106, de 25 de noviembre de 2011, del Ministerio de Energía, que otorgó a Ormat Andina Energía Limitada, la concesión de exploración de energía geotérmica denominada "Marimán", ubicada en la comuna de San Pedro de Atacama, provincia de El loa, Región de Antofagasta, de conformidad con lo establecido en la ley Nº 19.657 y su Reglamento.
+
+Decreto:
+
+1º Modifícase el decreto supremo Nº 106, de 25 de noviembre de 2011, del Ministerio de Energía, que otorga concesión de exploración de energía geotérmica, a Ormat Andina Energía Limitada, en el área denominada "Marimán", ubicada en la comuna de San Pedro de Atacama, provincia de El Loa, Región de Antofagasta, en el sentido que el nuevo titular de dicha concesión, a contar del día 27 de abril de 2012, es la empresa Orandina V SpA, RUT Nº 76.212.758-K.
+
+2º Remítase copia de la escritura pública de constitución de Orandina V SpA, ya identificada, conjuntamente con una copia del presente decreto supremo, al Servicio Nacional de Geología y Minería para el efecto previsto en el artículo 48 del Reglamento de la ley Nº 19.657.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
