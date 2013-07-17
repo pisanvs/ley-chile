@@ -1,0 +1,25 @@
+MODIFICA DECRETO Nº 115, DE 2011, QUE OTORGA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA A ORMAT ANDINA ENERGÍA LIMITADA, EN EL ÁREA DENOMINADA "SAN JOSÉ II", UBICADA EN LA COMUNA DE SAN JOSÉ DE MAIPO, PROVINCIA DE CORDILLERA, REGIÓN METROPOLITANA, EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 150 exento.- Santiago, 12 de abril de 2013.- Vistos: Lo dispuesto en la ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL Nº 2.224, de 1978, y a otros cuerpos legales; en la ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en su Reglamento aprobado mediante decreto supremo Nº 32, de 22 de abril de 2004, y su modificación dispuesta por decreto supremo Nº 224, de 4 de diciembre de 2008, ambos del Ministerio de Minería; en el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería; en el decreto supremo Nº 100, de 25 de noviembre de 2011, del Ministerio de Energía; en la presentación de Ormat Andina Energía Limitada, de fecha 28 de noviembre de 2012; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que mediante decreto supremo Nº 115, de 25 de noviembre de 2011, del Ministerio de Energía, publicado en el Diario Oficial de fecha 7 de marzo de 2012, se otorgó a Ormat Andina Energía Limitada la concesión de exploración de energía geotérmica denominada "San José II", ubicada en la comuna de San José de Maipo, provincia de Cordillera, Región Metropolitana.
+
+2. Que a través de presentación de fecha 28 de noviembre de 2012, efectuada por don Rodrigo Albagli Ventura, representante legal de la empresa Ormat Andina Energía Limitada, se informó a esta Secretaría de Estado que por escritura pública de fecha 27 de abril de 2012, se constituyó la sociedad denominada "Orandina VI SpA", dejándose expresa constancia en su artículo primero transitorio, que su capital asciende a la suma de nueve millones cuatrocientos dieciocho mil ochocientos ochenta y seis pesos, dividido en diez mil acciones nominativas, de una misma serie y sin valor nominal, que la empresa Ormat Andina Energía Limitada suscribe y paga íntegramente mediante el aporte total de la concesión de exploración de energía geotérmica denominada "San José II", individualizada en el considerando primero del presente decreto.
+
+3. Que, de acuerdo a lo establecido en el artículo 24 de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica, las referidas concesiones pueden ser transferidas total o parcialmente a terceros mediante escritura pública, agregando dicho precepto que, otorgada que sea la escritura pública de transferencia, el nuevo concesionario se subrogará al concesionario anterior, por el solo ministerio de la ley, en las obligaciones y derechos de la concesión.
+
+4. Que, por su parte, el artículo 55 del decreto supremo Nº 32, de 2004, del Ministerio de Minería, que aprueba el Reglamento de la ley Nº 19.657, establece que dentro del plazo de un mes contado desde el otorgamiento de la respectiva escritura de transferencia y sin perjuicio de la subrogación que opera por el solo ministerio de la ley, el concesionario deberá comunicar por escrito al Ministerio de Energía la transferencia de la concesión, adjuntando copia autorizada de la escritura pública de transferencia, agregando que el Ministerio, por medio de decreto supremo, procederá a modificar la concesión de acuerdo a lo establecido en la respectiva escritura pública de transferencia.
+
+5. Que, atendidos los antecedentes expuestos, el Ministerio de Energía considera ajustado a derecho proceder a la modificación del decreto supremo Nº 115, de 25 de noviembre de 2011, del Ministerio de Energía, que otorgó a Ormat Andina Energía Limitada la concesión de exploración de energía geotérmica denominada "San José II", ubicada en la comuna de San José de Maipo, provincia de Cordillera, Región Metropolitana, de conformidad con lo establecido en la ley Nº 19.657 y su Reglamento.
+
+Decreto:
+
+1º Modifícase el decreto supremo Nº 115, de 25 de noviembre de 2011, del Ministerio de Energía, que otorga concesión de exploración de energía geotérmica a Ormat Andina Energía Limitada, en el área denominada "San José II", ubicada en la comuna de San José de Maipo, provincia de Cordillera, Región Metropolitana, en el sentido que el nuevo titular de dicha concesión, a contar del día 27 de abril de 2012, es la empresa Orandina VI SpA, RUT Nº 76.212.763-6.
+
+2º Remítase copia de la escritura pública de constitución de Orandina VI SpA, ya identificada, conjuntamente con una copia del presente decreto supremo, al Servicio Nacional de Geología y Minería para el efecto previsto en el artículo 48 del Reglamento de la ley Nº 19.657.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
