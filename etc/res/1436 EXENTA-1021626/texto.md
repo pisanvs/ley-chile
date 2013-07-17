@@ -24,7 +24,7 @@ j) La resolución exenta Nº 1.600 de 2008 de Contraloría General de la Repúbl
 
 Resolución:
 
-1. Llámese a partir de la fecha de la presente resolución a postular al Título II Mejoramiento de la Vivienda del decreto supremo Nº 255 (V. y U.) de 2006, Programa de Protección del Patrimonio Familiar a los damnificados de la Región del Bío Bío de la catástrofe del 27 de febrero de 2010, que se encuentren registrados en el sistema Rukan, cuenten con el documento de daños emitido por la Dirección de Obras Municipales correspondiente y cumplan con lo dispuesto en el D.S. 255 (V. y U.).
+1. Llámese a partir de la fecha de la presente resolución a postular al Título II Mejoramiento de la Vivienda del decreto supremo N° 255 (V. y U.), de 2006, Programa de Protección del Patrimonio Familiar a los damnificados de la Región del Biobío de la catástrofe del 27 de febrero de 2010, que se encuentren registrados en el sistema Rukan, cuenten con el documento de daños emitido por la Dirección de Obras Municipales correspondiente o certificado del Serviu Región del Biobío que acredite los mismos, y cumplan con lo dispuesto en el DS 255 (V. y U.).
 
 2. La prioridad de selección será definida por SERVIU Región del Bío Bío de acuerdo a la normativa vigente, velando por la correcta asignación y selección.
 
@@ -42,6 +42,8 @@ Resolución:
 
 9. El monto máximo al que podrá postular cada beneficiario será de 318 unidades de fomento, incluyendo la Asistencia Técnica e Inspección Técnica de Obras. Dicho monto podrá ser asignado también para proyectos que revisten carácter patrimonial, de acuerdo a lo dispuesto en la resolución Nº 2.187 de fecha 9 de abril de 2010 de (V. y U.), y sus modificaciones.
 
+El Serviu Región del Biobío podrá asignar subsidios adicionales a proyectos de carácter patrimonial, a solicitud del PSAT, previa evaluación y aprobación por parte del Departamento Técnico del citado Servicio. En cualquier caso, la suma de los subsidios otorgados y los valores de Asistencia Técnica no podrán superar el límite establecido en el inciso anterior.
+
 10. Excepcionalmente y previo informe favorable del Prestador de Asistencia Técnica aprobado por el propietario, que deberá contener las partidas y costos que contempla la reparación, se podrán desarrollar proyectos de autorreparación, para lo cual el monto del subsidio será de hasta 35 UF.
 
 11. El pago por los servicios al PSAT lo realizará el Serviu conforme a lo dispuesto en la resolución Nº 533 de (V. y U.) de 1997. En el caso de proyectos de carácter patrimonial se pagará conforme a la resolución exenta Nº 701 de (V. y U.) de 2011 y sus modificaciones.
@@ -51,5 +53,9 @@ Resolución:
 > **Nota.** La Resolución 1046 Exenta, Vivienda, publicada el 13.07.2012, modifica la presente norma, en el sentido autorizar la postulación de proyectos del Título I del DS Nº 255 (V. y U.), de 2006, además de los proyectos del Título II, al llamado extraordinario regulado por la presente norma. El plazo para postular a este llamado extraordinario de los Títulos I y II del citado decreto, será de 90 días corridos, contados a partir de la publicación de la presente resolución en el Diario Oficial.
 
 > **Nota.** NOTA 1 El numeral 1.1 de la Resolución 2119 Exenta, Vivienda, publicado el 28.12.2012, modifica la presente norma, modificada por resolución exenta Nº 1.046 de fecha 04.07.2012, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, en el sentido de fijar un plazo de 90 días corridos, para la postulación al llamado extraordinario de los Títulos I y II del DS Nº 255 (V. y U.) de 2006.
+
+> **Nota.** NOTA 2 El numeral 1.1 de la Resolución 623 Exenta, Vivienda, publicada el 12.04.2013, modifica la presente norma, en el sentido de fijar un plazo de 180 días corridos, para la postulación al llamado extraordinario de los Títulos I y II del DS Nº 255 (V. y U.) de 2006.
+
+> **Nota.** NOTA 3 El numeral 1.2 de la Resolución 1112 Exenta, Vivienda, publicada el 17.07.2013, modifica la presente norma, en el sentido de fijar como nuevo plazo de postulación y selección de proyectos de los Títulos I y II del DS N° 255 (V. y U.) de 2006, hasta el día 31 de diciembre de 2013.
 
 Anótese, comuníquese, transcríbase y publíquese en un diario regional y en el Diario Oficial.- Enrique Matuschka Aycaguer, Secretario Regional Ministerial.
