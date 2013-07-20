@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.793, de 15 de julio de 2013, de esta Subsecretaría, se establecen agrupaciones de concesiones de acuicultura para especies hidrobiológicas pertenecientes al grupo mitílidos, en la X Región, denominadas Quechu y Huildad, en virtud del artículo 2º numeral 52) de la Ley General de Pesca y Acuicultura, publicada íntegramente en www.subpesca.cl y www.sernapesca.cl.
+
+Valparaíso, 15 de julio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
