@@ -2,7 +2,7 @@ LEY NÚM. 20.682
 
 MODIFICA LA LEY N° 18.700, ORGÁNICA CONSTITUCIONAL DE VOTACIONES POPULARES Y ESCRUTINIOS, ESTABLECIENDO LA FACULTAD DE EXCUSARSE DE LA OBLIGACIÓN DE SER VOCAL DE MESA PARA LAS MUJERES EN ESTADO DE EMBARAZO Y PUERPERIO
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley originado en una moción de los Diputados señores Pedro Araya Guerrero, Alberto Cardemil Herrera, Joaquín Godoy Ibáñez, Patricio Melero Abaroa, René Saffirio Espinoza y de las Diputadas señoras María José Hoffmann Opazo, Denise Pascal Allende, María Antonieta Saa Díaz y Alejandra Sepúlveda Orbenes.
+Teniendo presente que el H. Congreso ha dado su aprobación al siguiente proyecto de ley originado en una Moción de los Diputados señores Issa Kort Garriga, Pedro Araya Guerrero, Alberto Cardemil Herrera, Joaquín Godoy Ibáñez, Patricio Melero Abaroa, René Saffirio Espinoza y de las Diputadas señoras María José Hoffmann Opazo, Denise Pascal Allende, María Antonieta Saa Díaz y Alejandra Sepúlveda Orbenes.
 
 Proyecto de ley:
 
