@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.777, de 15 de julio de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 201122034, Nº 201122038, Nº 210110094 sector 0, Nº 210110005 sector 4, Nº 211110037, Nº 210110121, Nº 210110093 sector 0, Nº 210110090 sector 1, Nº 210110090 sector 0, Nº 210110054 sector 23, Nº 210110034, Nº 210110054 sector 2, Nº 210110087, Nº 2010110017, Nº 210110067, Nº 212122007, Nº 211110075 sector 1 y Nº 210110055 sector 24, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de julio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
