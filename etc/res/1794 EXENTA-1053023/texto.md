@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.794, de 15 de julio de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 211123041 y Nº 211123044, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de julio de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
