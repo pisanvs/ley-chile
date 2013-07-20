@@ -922,6 +922,20 @@ jaula(s) afectada(s) y tratamientos
 
 farmacológicos.
 
+7.4. Los centros de cultivo podrán realizar limpieza
+
+in situ de redes aun habiéndose constatado la
+
+presencia de Piscirickettsia salmonis, a
+
+excepción de aquellos que se mantengan
+
+categorizados como Centros de Alta Diseminación
+
+(CAD) tras el período de seguimiento de 6 semanas
+
+que establece el Programa.
+
 8.- MEDIDAS A IMPLEMENTAR A TRAVÉS DE LOS PLANES DE MANEJO
 
 8.1. Las AC podrán adoptar acuerdos sobre medidas
