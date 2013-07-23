@@ -302,6 +302,8 @@ Si el mandante es Público: certificado del estado actual del contrato, donde se
 
 Si es el mandante es Privado: fotocopia del contrato, sus modificaciones y último estado de pago cursado o un certificado del estado actual del contrato, donde se indique monto vigente del contrato y monto pagado a la fecha, el cual debe ser emitido por el Mandante.
 
+Para efectos de acreditar las obras a que se refiere el artículo 76 N° 1 letra a) del Reglamento, cuando han sido contratadas en el extranjero, se deberán acompañar certificados extendidos por los mandantes de las obras, sean éstos públicos o privados; emitidos con una antelación no superior a sesenta días, contados desde la fecha de recepción de la propuesta, con la información exigida para los certificados a que se alude en los párrafos anteriores, debidamente autorizados por ministro de fe del país de su expedición, autentificados por las autoridades competentes de ese país y atestados por agente diplomático o consular que represente el interés de Chile en el lugar de su expedición, traducidos al idioma español, si corresponde, y visados por funcionario competente del Ministerio de Relaciones Exteriores de Chile.
+
 El cálculo de la capacidad económica disponible se efectuará según se establezca en las Bases Administrativas Especiales.
 
 Para la letra c):
@@ -333,6 +335,8 @@ Los tres Certificados anteriores, deben ser obtenidos dentro de los 20 días cor
 En el caso que alguno de los Certificados señalados indique la existencia de deudas morosas, multas ejecutoriadas no aclaradas o documentos protestados y no aclarados, la oferta será desechada.
 
 Los citados certificados pueden ser presentados indistintamente en original o copia debidamente legalizada ante Notario Público.
+
+En licitaciones con Registro Especial de Contratistas, las empresas extranjeras deberán presentar certificados de antecedentes comerciales, laborales y de deuda fiscal, otorgados de acuerdo a la normativa y procedimientos del país de origen, emitidos con una antelación no superior a sesenta días contados desde la fecha de recepción de la propuesta, debidamente autorizados por ministro de fe del país de su expedición, autentificados por las autoridades competentes de ese país y atestados por agente diplomático o consular que represente el interés de Chile en el lugar de su expedición; traducidos al idioma español, si corresponde, y visados por funcionario competente del Ministerio de Relaciones Exteriores de Chile.
 
 h) Programa ocupacional de mano de obra que generará el contrato, separando la correspondiente a mano de obra calificada, semicalificada y no calificada (referido a los de Costo Directo y de Gastos Generales) especificando claramente la cantidad de hombres/mes (H/M) ofrecida mensualmente y guardar correspondencia con el Programa de Trabajo. El programa ocupacional se deberá presentar según formato establecido en las Bases Especiales.
 
