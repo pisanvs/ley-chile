@@ -6718,121 +6718,97 @@ En todo caso, los intereses que se cobren por los sobregiros en cuentas corrient
 
 Las instrucciones contenidas en el primer párrafo del N° 4 precedente, sobre el uso de las tasas de interés variables, regirán para los contratos que se suscriban a partir del 17 de enero de 2011. En todo caso, todos los contratos que no consideren tales normas, deberán ser renovados antes del 15 de noviembre de 2011, ajustándose a ellas.
 
-CAPITULO 8-3 (Bancos)
+## Capítulo 8-3
 
-MATERIA:
+TARJETAS DE CRÉDITO
 
-TARJETAS DE CREDITO.
-
-1.- Emisión de Tarjetas de Crédito.
+### 1. Emisión de tarjetas de Crédito
 
 De conformidad con las disposiciones del Capítulo III.J.1 del Compendio de Normas Financieras, del Banco Central de Chile, las entidades que emitan u operen sistemas de tarjetas de crédito deberán estar inscritas en el Registro de Emisores y Operadores de Tarjetas de Crédito de esta Superintendencia.
 
 Para los efectos de estas instrucciones y de acuerdo con la definición entregada por el Banco Central de Chile, se entiende por "tarjeta de crédito" cualquier instrumento que permita a su titular o usuario disponer de un crédito otorgado por el emisor, utilizable en la adquisición de bienes o en el pago de servicios prestados o vendidos por las entidades afiliadas con el correspondiente emisor u operador, en virtud de convenios celebrados con estas, que importen aceptar el citado instrumento como medio de pago, sin perjuicio de las demás prestaciones complementarias que puedan otorgarse al titular o usuario.
 
-Los bancos quedan inscritos en el Registro de Emisores y Operadores de Tarjetas de Crédito, en calidad de emisores, por el solo hecho de contar con autorización de esta Superintendencia para funcionar, pudiendo operar por si mismos las tarjetas que emitan o contratar la operación total o parcial de las mismas a una o más entidades que se encuentren inscritas como operadoras. Los bancos no podrán actuar como operadores de tarjetas emitidas por terceros. Para los efectos de estas normas, se entiende que un banco no actúa en calidad de operador en los siguientes casos en que la responsabilidad de pago recae sobre el emisor: i) cuando paga a los establecimientos comerciales las adquisiciones de bienes o servicios efectuadas mediante tarjetas de la misma marca, pero emitidas
+Los bancos quedan inscritos en el Registro de Emisores y Operadores de Tarjetas de Crédito, en calidad de emisores, por el solo hecho de contar con autorización de esta Superintendencia para funcionar, pudiendo operar por si mismos las tarjetas que emitan o contratar la operación total o parcial de las mismas a una o más entidades que se encuentren inscritas como operadoras.
 
-por otra entidad emisora del país; o, ii) cuando sea autorizado por esta Superintendencia para actuar como mandatario de un emisor de tarjetas de crédito situado en el extranjero, en los términos previstos en el Título V del Capítulo III.J.1 antes mencionado.
+Los bancos no podrán actuar como operadores de tarjetas emitidas por terceros. Para los efectos de estas normas, se entiende que un banco no actúa en calidad de operador en los siguientes casos en que la responsabilidad de pago recae sobre el emisor: i) cuando paga a los establecimientos comerciales las adquisiciones de bienes o servicios efectuadas mediante tarjetas de la misma marca, pero emitidas por otra entidad emisora del país; o, ii) cuando sea autorizado por esta Superintendencia para actuar como mandatario de un emisor de tarjetas de crédito situado en el extranjero, en los términos previstos en el Título IV del Capítulo III.J.1 antes mencionado.
 
-2.- Información de tarjetas que decidan emitir.
+### 2. Información de tarjetas que decidan emitir
 
 Los bancos deberán informar a esta Superintendencia las marcas de las tarjetas de crédito que decidan emitir, con anterioridad a su puesta en circulación, debiendo indicar si ellas podrán ser usadas en el exterior o sólo en el mercado nacional.
 
-3.- Contratos que deben suscribirse entre las diferentes partes.
+### 3. Contratos
 
-3.1.- Contratos de los emisores con los titulares de tarjetas de crédito.
+El Banco Central de Chile ha dispuesto los contenidos mínimos de los contratos que deben suscribirse entre el Emisor y los Titulares o Usuarios de tarjetas de crédito. Para los demás contratos, esto es, los que tocan el ámbito de fiscalización de esta Superintendencia y que deben suscribirse entre los Emisores, Operadores y las personas que aceptan las Tarjetas como medio de pago, las entidades fiscalizadas se atendrán a los siguientes criterios generales:
 
-Los emisores de tarjetas de crédito deberán suscribir o renovar con cada titular de dicho instrumento, un "Contrato de afiliación al sistema y uso de la tarjeta", que deberá contemplar los siguientes contenidos mínimos:
+3.1. Contratos con las entidades afiliadas.
 
-1) el plazo o condiciones de vigencia del contrato;
+Los contratos que celebren los emisores, o los operadores es su caso, con los establecimientos afiliados que se comprometen a vender bienes o a prestar servicios a los titulares de sus tarjetas, deberán especificar debidamente todas las obligaciones y derechos de las partes, debiendo en todo caso estipularse:
 
-2) el límite de crédito autorizado por el periodo contratado;
+- La responsabilidad de pago a las entidades, en los plazos convenidos con arreglo a lo dispuesto en el Capítulo III.J.1, especificando el momento a partir del cual se computan tales plazos, de acuerdo a las diferentes modalidades de pago puestas a disposición del tarjetahabiente.
 
-3) la fecha de emisión de estados de cuenta y de vencimiento de la respectiva obligación de pago del titular o usuario;
+- Los procedimientos y mecanismos de conciliación y validación de las transacciones y de los montos que deben ser pagados a las entidades afiliadas, así como aquellos para realizar reclamos y solicitar rectificaciones.
 
-4) las modalidades y condiciones aplicables al cobro de comisiones y/o cargos e intereses;
+- Las medidas de seguridad que las partes deben considerar para precaver el uso indebido de la tarjeta y para cautelar la integridad y certeza de las transacciones efectuadas por medio de dicho instrumento.
 
-5) el costo de comisiones y/o cargos por mantención de la Tarjeta;
+- Responsabilidad económica que le cabe a cada parte, ante el uso indebido de las tarjetas o por los eventuales errores que pudiesen existir en la validación de las transacciones.
 
-6) las medidas de seguridad relacionadas con el uso de la Tarjeta y los procedimientos y responsabilidades en caso de robo, hurto, pérdida, adulteración o falsificación de la misma, de acuerdo con lo dispuesto en la Ley N° 20.009;
+- La identificación de las redes y sistemas disponibles, para la transmisión electrónica de la autorización y captura de las transacciones efectuadas.
 
-7) la resolución de controversias;
+Las causales para la suspensión de servicios, que tengan su origen en incumplimientos por parte de la entidad afiliada, junto a las condiciones y plazos para la reposición de los mismos.
 
-8) los requisitos y condiciones aplicables respecto del término del contrato, incluidas las causales de término unilateral del mismo; y,
+- La responsabilidad del emisor u operador respecto de la continuidad del servicio, así como los procedimientos de contingencia y eventuales compensaciones a la entidad afiliada, ante una interrupción de los mismos.
 
-9) los derechos conferidos al titular o usuario de que trata el párrafo 4° de la Ley 19.496, en materia de normas de equidad en las estipulaciones y en el cumplimiento de los contratos de adhesión.
+- Identificación de las marcas de tarjetas a las que es aplicable el contrato, así como una mención al derecho del establecimiento afiliado de elegir cuáles acepta.
 
-3.2.- Contratos de los emisores u operadores con los establecimientos afiliados.
+- Estructura tarifaria aplicable a cada uno de los servicios contratados, así como su periodicidad y formas de pago.
 
-Estos contratos se celebrarán entre los emisores de las tarjetas o los operadores cuando actúen por cuenta de aquellos y los establecimientos afiliados que se comprometen a vender bienes o a prestar servicios a los titulares de sus tarjetas. En ellos se deberá estipular a lo menos lo siguiente:
+3.2. Contratos entre Emisores y los Operadores.
 
-- la responsabilidad de pago a las entidades afiliadas en los plazos convenidos, por el monto de las ventas o servicios. Esta obligación recaerá sobre el emisor o en el operador cuando este la asuma directamente frente a las entidades afiliadas.
+Los bancos que encarguen la administración de sus tarjetas a un operador, dejarán claramente establecidos en los contratos los actos que constituyen dicha administración y las obligaciones que emanan de ella y que contraen ambas partes. Entre los aspectos mínimos que deben ser abordados en los contratos están:
 
-- las medidas que las partes acuerden, tendientes a cautelar la integridad y certeza de los pagos efectuados por medio de dicho instrumento, así como a precaver el uso indebido de la Tarjeta, ya sea porque no se encuentra vigente o por cualquier otra causa.
+- Identificación de los servicios contratados y de los requisitos y estándares de operación requeridos para la prestación de cada uno de ellos.
 
-- la obligación del emisor u operador que haya recibido el reembolso de una transacción realizada sin que se hayan cumplido los requisitos convenidos, de pagar al establecimiento afiliado el importe correspondiente.
+- La responsabilidad del operador respecto de la continuidad de los servicios contratados, así como los procedimientos de contingencia y eventuales compensaciones, ante una interrupción de los mismos.
 
-Si nada se dijere en el contrato respecto del título o documento que autoriza al establecimiento afiliado para exigir los respectivos pagos, se entenderá que tiene tal carácter el comprobante de ventas y servicios emitido por el establecimiento afiliado y suscrito por el titular de la tarjeta.
+- Los servicios que pueden ser externalizados por parte del operador y aquellos que requieran contar con consentimiento particular del emisor.
 
-Los referidos contratos deberán dejar debidamente especificadas las demás obligaciones que asumen las partes y ajustarse a las normas contenidas en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile.
+- Estructura tarifaria aplicable a cada uno de los servicios contratados, así como su periodicidad y formas de pago.
 
-3.3.- Contratos entre los emisores y los operadores de las tarjetas.
+- La responsabilidad de la empresa operadora para cautelar la seguridad y el oportuno procesamiento y validación de las transacciones, así como las obligaciones económicas que se originen ante errores y transacciones indebidas.
 
-Los emisores de tarjetas de crédito que encarguen su administración a un operador, suscribirán un contrato con éste, en el que se dejarán claramente establecidos los actos que constituyen dicha administración y las obligaciones que emanan de ella y que contraen ambas partes, de acuerdo con lo dispuesto al respecto en el antes referido Capítulo III.J.1.
+- La responsabilidad del operador de mantener un adecuado orden de los archivos con el registro de las operaciones procesadas, así como de los documentos que respaldan esas transacciones.
 
-Además deberá especificarse en forma expresa en esos contratos que las bases de datos generadas con motivo de los procesos administrativos de las tarjetas de crédito son de exclusiva responsabilidad de los respectivos emisores u operadores en su caso y, por ende, su uso o la información que de ellas puede obtenerse no puede ser utilizada por terceros.
+- Las obligaciones que le caben a cada una de las partes, en relación a la oportuna liquidación de los pagos.
 
-Igualmente, deberá dejarse establecida la responsabilidad de la empresa operadora para cautelar el oportuno procesamiento y liquidación de los pagos y la ordenada mantención de los archivos con el registro de las operaciones procesadas, así como de los documentos que respaldan esas transacciones.
+Igualmente, en los contratos deberá especificarse en forma expresa que las bases de datos que se generen, con motivo de los procesos administrativos de las tarjetas de crédito, son de exclusiva responsabilidad de los respectivos emisores u operadores en su caso y, por ende, su uso o la información que de ellas puede obtenerse no puede ser utilizada por terceros.
 
-4.- Información mínima que deben contener las tarjetas.
+### 4. Sobre las características y el uso de las tarjetas
 
-Las tarjetas de crédito son intransferibles, deben emitirse a nombre del respectivo titular, con observancia de las mejores prácticas existentes en este negocio y deben contener, a lo menos, la siguiente información:
+4.1 Información en las oficinas de atención de público.
 
-a) Identificación del emisor;
+Los bancos deberán mantener en su sitio web y en las oficinas en que ofrezcan sus tarjetas de crédito al público, una amplia información acerca de las marcas, tipo de tarjetas ofrecidas, requisitos para optar a ellas, sus principales características y condiciones de uso, así como de las comisiones y/o cargos a que están afectas, tanto en monto o tasa, como los conceptos por los cuales se cobra y la periodicidad de esos cobros.
 
-b) Numeración codificada de la tarjeta;
+4.2. Características de las tarjetas
 
-c) Identificación de la persona autorizada para su uso (titular de la tarjeta). En el caso que sea una persona jurídica, deberá llevar el nombre o razón social de esta y la individualización de la persona autorizada para su uso.
+Las tarjetas de crédito son intransferibles y deben emitirse con observancia de las mejores prácticas existentes en este negocio.
 
-5.- Sobre el cobro de comisiones y/o cargos e intereses.
+Las tarjetas deberán contener, a lo menos, la información que permita conocer: la marca, el nombre del emisor, su numeración codificada y el nombre del titular o de la persona autorizada para su uso, cuando se trate de tarjetas adicionales.
 
-El estricto apego al cumplimiento de la tasa máxima convencional exige que los emisores no excedan la correspondiente tasa de interés según los diversos tramos o apertura de la tasa de interés corriente y máximo convencional, publicada por esta Superintendencia para el respectivo período. Para estos efectos, se debe considerar si las operaciones pactadas en moneda nacional no reajustable con pago de intereses están a menos de 90 días, a ese plazo o a más de 90 días. El plazo estará determinado por el número de días transcurridos entre la fecha de la operación que devenga intereses y la fecha de vencimiento de la última cuota pactada o por el plazo por el que se ha otorgado la línea que concede un crédito rotativo, según sea el caso, o la modalidad de uso del crédito otorgado.
+4.3. Información al usuario para el manejo de las tarjetas.
 
-6.- Pérdida, hurto, robo, falsificación o adulteración de la tarjeta.
+Los banco deben instruir a los usuarios acerca de las precauciones que deben tener en el manejo de sus tarjetas físicas y de los medios en que ellas pueden ser utilizadas, especialmente para mantener en resguardo las claves personales, así como de las principales normas que rigen su uso.
 
-Conforme a lo dispuesto en la Ley N° 20.009, el emisor u operador, según corresponda, deberá mantener los servicios de comunicación que le permitan al titular avisarle en cualquier momento y en forma gratuita, el extravío, hurto, robo, falsificación o adulteración de su tarjeta.
+4.4. Pérdida, hurto, robo, falsificación o adulteración de la tarjeta.
 
-El emisor deberá informar en el estado de cuenta de las tarjetas de crédito o en un anexo al mismo, así como en su página web, en lo posible junto a los anuncios en que ofrezca el servicio de esas tarjetas, el procedimiento que el afectado debe seguir y la vía que puede utilizar para dar el correspondiente aviso. En esa información se debe indicar siempre el número telefónico de atención permanente que se haya habilitado para ese servicio y que debe estar disponible todos los días del año, durante las 24 horas, para recibir dichos avisos como también la dirección de su casilla electrónica, en el caso de ser igualmente un medio para ese fin.
+Conforme a lo dispuesto en la Ley N° 20.009, el emisor u operador, según corresponda, deberá mantener los servicios de comunicación que le permitan al titular avisarle en cualquier momento y en forma gratuita, el extravío, hurto, robo, falsificación o adulteración de su tarjetas.
 
-El emisor o el operador, en su caso, deberá registrar la recepción del aviso tan pronto lo reciba y proporcionar al tarjetahabiente en ese mismo momento y por la misma vía por la que lo recibió, un número o código de recepción y la constancia de la fecha y hora de ingreso.
+El banco deberá mantener informado a sus clientes, proporcionando al menos información por escrito al momento de contratar el servicio y manteniéndola en un lugar destacado de su sitio web, del procedimiento que un afectado debe seguir y la vía que puede utilizar para dar el correspondiente aviso. En esa información se debe indicar siempre el número telefónico de atención permanente que se haya habilitado para ese servicio y que debe estar disponible todos los días del año, durante las 24 horas, para recibir dichos avisos, como también del uso de los otros medios que haya establecido para ese fin.
 
-7.- Información de tarjetas que se dejen sin efecto.
+El banco o el operador, en su caso, deberá registrar la recepción del aviso tan pronto lo reciba y proporcionar al tarjetashabiente en ese mismo momento y por la misma vía por la que lo recibió, un número o código de recepción y la constancia de la fecha y hora de ingreso.
 
-El emisor u operador, según corresponda, deberá mantener los medios y establecer los procedimientos adecuados para informar a los establecimientos afiliados, la individualización de las tarjetas de crédito que se dejen sin efecto por una causa distinta a la expiración del plazo de vigencia indicado en ellas.
+### 5. Disposición transitoria
 
-8.- Seguro por mal uso de la tarjeta.
-
-El emisor podrá contratar un seguro por el mal uso que se le pueda dar a las tarjetas de crédito, cuando éstas sean extraviadas, robadas, hurtadas falsificadas o adulteradas. En la misma forma podrán contratar esos seguros los operadores de tarjetas de crédito, en los casos que estimen necesario hacerlo.
-
-9.- Precauciones en el manejo de tarjetas de crédito.
-
-Los bancos deben instruir a los usuarios acerca de las precauciones que deben tener en el manejo de sus tarjetas, así como de las principales normas que rigen su uso, como también del cuidado de mantener en reserva las claves personales que habilitan su acceso a cajeros automáticos.
-
-10. - Información en las oficinas de atención de público.
-
-Los bancos que ofrezcan tarjetas de crédito al público, deberán mantener en las oficinas en que dispongan de ese servicio, una amplia información acerca de las marcas, tipo de tarjetas ofrecidas y requisitos para optar a ellas y sus principales características, así como de las comisiones y/o cargos a que están afectas, tanto en monto o tasa, como los conceptos por los cuales se cobra y la periodicidad de esos cobros.
-
-Asimismo, deberá proporcionarse información acerca de la tasa de interés vigente para las operaciones afectas al pago de intereses.
-
-11.- Sanciones.
-
-Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a los bancos en uso de la facultad que le confiere el artículo 19 de la Ley General de Bancos, en caso de incumplimiento grave o reiterado de las normas del Banco Central de Chile, de la presente normativa o de otras instrucciones que imparta esta Superintendencia, como asimismo cuando el sistema de tarjetas de crédito o su administración no se realice de acuerdo con sanas prácticas financieras, las entidades pueden ser sancionadas con la suspensión o revocación de la autorización para emitir tarjetas de crédito, previo informe favorable por parte del Banco Central de Chile.
-
-El banco afectado por una suspensión o revocación de la autorización para emitir u operar tarjetas de crédito, deberá adecuar su funcionamiento y poner término a las operaciones pendientes ajustándose a las instrucciones que este Organismo le imparta.
-
-En cualquier caso, si a un banco se le suspende la autorización para emitir tarjetas de crédito quedará impedido, mientras dure la suspensión, de entregar nuevas tarjetas, renovar las que haya emitido con anterioridad, afiliar nuevos establecimientos y contraer nuevas obligaciones con las entidades afiliadas, sin perjuicio de dar cumplimiento a las operaciones que se encontraren pendientes.
-
-Por otra parte, si se revocare la autorización, además de suspender la entrega de tarjetas y la afiliación de establecimientos, la entidad afectada deberá adoptar las medidas pertinentes para comunicar a cada uno de los titulares de las tarjetas emitidas y a cada uno de los establecimientos afiliados, que estas quedarán sin efecto en un plazo máximo de 30 días, contados desde la fecha en que se le haya comunicado la revocación. No obstante, los créditos y las obligaciones de pago pendientes de cumplimiento, conservarán las fechas o plazos de vencimiento originalmente previstos para su pago, en los respectivos contratos.
+La aplicación de las nuevas normas contenidas en el N° 3 de este Capítulo, será obligatoria para los contratos que se celebren a contar del 2 de enero de 2014.
 
 ## Capítulo 8-4
 
