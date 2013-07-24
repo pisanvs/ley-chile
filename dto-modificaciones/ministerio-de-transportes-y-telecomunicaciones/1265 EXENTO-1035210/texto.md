@@ -34,15 +34,15 @@ Decreto:
 
 Estudio Principal:
 
-- Dirección : Antonio Varas Nº 945, Temuco,
+- Dirección : Antonio Varas Nº 945,
 
-X Región.
+Temuco, X Región.
 
 - Coordenadas geográficas : 38°44'26" Latitud Sur;
 
 72°35'21" Longitud Oeste.
 
-Datum PSAD 56.
+Datum WGS 84.
 
 Estudio Alternativo:
 
@@ -68,17 +68,17 @@ Radioenlace Estudio Principal - Planta:
 
 - Tipo de antena : Yagi de 5 elementos, abertura
 
-lóbulo principal 70°, con 10
+lóbulo principal 70°, con
 
-dBd de ganancia máxima y
+10 dBd de ganancia máxima
 
-polarización vertical.
+y polarización vertical.
 
 - Coordenadas Transmisor : 38°44'26" Latitud Sur;
 
 72°35'21" Longitud Oeste.
 
-Datum PSAD 56.
+Datum WGS 84.
 
 - Coordenadas Receptor : 38°42'44" Latitud Sur;
 
