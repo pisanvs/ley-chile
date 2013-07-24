@@ -14,7 +14,7 @@ Decreto:
 
 #### Artículo 1º
 
-Apruébase el siguiente Reglamento del "Régimen Artesanal de Extracción".
+Aprueba Reglamento del Régimen Artesanal de Extracción.
 
 ## Título I
 
@@ -62,9 +62,9 @@ Formalización de la petición. Las organizaciones que soliciten el establecimie
 
 a) Carta de solicitud, firmada por la directiva de la organización, indicando la pesquería y la unidad de asignación;
 
-b) Certificado de vigencia de la organización, en la que conste además la directiva vigente de la misma y número de socios, emitido por la autoridad competente.
+b) Certificado de vigencia de la organización, en la que conste además la directiva vigente de la misma cuando lo consigne dicho instrumento, emitido por la autoridad competente.
 
-Los certificados que acrediten la vigencia de las organizaciones de pescadores artesanales que sean presentados de conformidad con el presente reglamento deberán tener una antigüedad no superior a un mes.
+Los certificados que acrediten la vigencia de las organizaciones de pescadores artesanales que sean presentados de conformidad con el presente reglamento deberán tener una antigüedad no superior a un mes. El plazo antes señalado podrá ser de hasta seis meses cuando las faenas de pesca del recurso respectivo se desarrollen en áreas alejadas de las zonas urbanas de la región respectiva, entendiendo por tales aquellas que se efectúen en aguas marítimas distantes a más de un día de navegación del centro urbano más cercano
 
 #### Artículo 7
 
@@ -74,13 +74,19 @@ Una vez transcurrido el plazo establecido en el inciso anterior y siempre que la
 
 a) Listado oficial de sus afiliados inscritos en la pesquería respectiva a la fecha de la presentación, en el que conste el nombre, la firma de cada socio, número de la cédula de identidad y número de inscripción en el Registro Pesquero Artesanal. En el caso de los armadores, deberá indicarse además el nombre de la embarcación, matrícula y número en el Registro Pesquero Artesanal. La información relativa al Registro Pesquero Artesanal deberá ser validada por el Servicio Nacional de Pesca.
 
+Lo anterior, sin perjuicio de lo dispuesto en la letra c) del presente inciso.
+
 b) Certificado de vigencia de la organización en la que conste además la directiva vigente de la misma y su número de socios. No se requerirá el certificado en caso de haber sido entregado al momento de solicitar el establecimiento del RAE, conforme al artículo 6º.
 
 c) Copia simple del acta de la sesión de la organización en la que conste el acuerdo relativo a la solicitud, adoptado por la mayoría absoluta de los afiliados inscritos en la pesquería respectiva;
 
+En el caso que en el acta de la sesión conste el nombre, el número de inscripción en el Registro Pesquero Artesanal o el número de cédula de identidad, y la firma de los socios inscritos en la pesquería, no será requisito acompañar el listado a que se refiere la letra a) del presente inciso.
+
 d) Declaraciones juradas simples de aquellos afiliados que pertenecen a más de una organización, según lo dispuesto en el artículo 9, y;
 
 e) En su caso, el programa de administración de capturas. En tal caso, el programa deberá haber sido aprobado por la organización y constar dicha circunstancia en la copia del acta a que se refiere en la letra c) precedente.
+
+Los plazos establecidos en este artículo se podrán prorrogar cuando las faenas de pesca del recurso respectivo se desarrollen en áreas alejadas de las zonas urbanas de la región respectiva, entendiendo por tales aquellas que se efectúen en aguas marítimas distantes a más de un día de navegación del centro urbano más cercano.
 
 #### Artículo 8
 
@@ -96,9 +102,9 @@ Duplicidad de afiliación. En caso que siendo legalmente procedente, un pescador
 
 Informe Técnico. Una vez vencidos los plazos a que se refiere el artículo 7, la Subsecretaría de Pesca elaborará, en el plazo máximo de dos meses, un informe técnico que fijará los elementos utilizados para determinar la historia real de desembarque y propondrá los porcentajes de participación de los elementos que componen la unidad de asignación respecto de la cuota regional. Dicho informe será remitido en consulta al Consejo Zonal respectivo.
 
-Para efectos de la determinación de la historia real de desembarque el informe técnico deberá considerar los desembarques informados al Servicio Nacional de Pesca en un período determinado y al menos alguno de los siguientes elementos:
+Para efectos de la determinación de la historia real de desembarque el informe técnico deberá considerar los desembarques informados al Servicio Nacional de Pesca en un período determinado. Adicionalmente podrá considerar alguno de los siguientes elementos:
 
-a) Número de pescadores artesanales y embarcaciones inscritos para la pesquería respectiva en la región;
+a) Número de pescadores artesanales y/o embarcaciones inscritos para la pesquería respectiva en la región;
 
 b) Antigüedad de la inscripción del pescador artesanal en la pesquería;
 
@@ -210,11 +216,13 @@ iii) días de captura, sin perjuicio de la facultad del Subsecretario establecid
 
 iv) las demás que no sean contrarias a la normativa vigente.
 
+En el evento que la resolución de distribución a que se refiere el artículo 12 incorpore alguna de las materias a que se refiere el presente artículo, prevalecerán dichas disposiciones sobre las normas propuestas en el programa de administración de capturas.
+
 #### Artículo 20
 
 Aprobación de programa de administración de capturas. El programa será presentado a la Subsecretaría de Pesca, la que deberá pronunciarse por resolución, previo informe técnico del Servicio Nacional de Pesca en que apruebe los mecanismos de verificación contenidos en el mismo y, en su caso, acerca de las circunstancias a que se refiere el inciso final del artículo 22.
 
-El programa deberá ser aprobado conjuntamente con la dictación de la resolución de distribución de capturas respectiva.
+El Servicio tendrá un plazo de 10 días hábiles para evacuar el informe técnico a que se refiere el inciso anterior.
 
 En el evento de desafiliación de socios, el Servicio deberá aplicarles las reglas que se hubieren previsto en el programa de administración de capturas aprobado. Una vez agotada la cuota asignada conforme a la distribución interna el socio desafiliado deberá suspender sus actividades pesqueras extractivas.
 
@@ -241,6 +249,10 @@ Responsabilidades. La infracción a las disposiciones del presente reglamento y 
 ª. Las disposiciones del reglamento que por el presente decreto se aprueba se aplicarán a todo nuevo régimen artesanal de extracción que se instaure así como a las modificaciones que sean efectuadas a los regímenes artesanales de extracción vigentes a la fecha de publicación del mismo.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, las unidades de asignación incorporadas a los regímenes vigentes podrán acogerse a las disposiciones del presente Reglamento en lo que se refiere al programa de administración de capturas sin que se requiera previamente la modificación del régimen.
+
+#### Artículo 3º
+
+No obstante lo señalado en el artículo anterior y en el inciso 2º del artículo 3º del Reglamento que se aprueba por el presente decreto, en las renovaciones de regímenes artesanales de extracción decretados con anterioridad a la fecha de entrada en vigencia del presente reglamento, podrán considerarse en la unidad de asignación de organizaciones de pescadores artesanales, además de los armadores artesanales, a los pescadores artesanales propiamente tales inscritos en la respectiva pesquería, cuando éstos hayan formado parte de dichas unidades de asignación en los regímenes objetos de renovación.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
 
