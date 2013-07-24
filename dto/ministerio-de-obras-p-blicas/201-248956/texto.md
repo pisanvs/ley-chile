@@ -358,10 +358,6 @@ Papudo:
 
 . El tramo urbano de la Ruta F-30-E, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de Av. Circunvalación 19 de Junio.
 
-PUCHUNCAVÍ
-
-. El sistema vial urbano que interconecta la Ruta F-30-E con la Ruta F-20, a través de Vía 2-A-8.
-
 Putaendo:
 
 . El Sistema Vial Urbano que interconecta las Rutas E-41 y E-71, dentro de los límites urbanos; a través de: Puentes Putaendo y Granalla y sus respectivas conexiones con La Costanera, La Costanera y Eduardo Weggener.
@@ -379,8 +375,6 @@ VILLA ALEMANA
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 > **Nota.** El numeral 2° del Decreto 1522 Exento, Obras Públicas, publicado el 29.07.2011, complementa la presente norma en el sentido de incorporar como camino público en la Quinta Región de Valparaíso las siguientes calles o avenidas: El tramo urbano de la Ruta E-765 (La Florida - Las Vizcachas) comprendido entre el cruce de esta vía con la Ruta E-85 (San Felipe - Los Andes) y el límite urbano Oriente de la ciudad de San Esteban.
-
-> **Nota.** NOTA 1 Los numerales 1, 2, 3 del Decreto 170, Obras Públicas, publicada el 08.07.2016, modifica la presente norma en el sentido de derogar como Camino Nacional con carácter de Internacional al tramo actual de la Ruta 60 CH, Cruce Ruta 5 (Llay Llay) - Túnel Cristo Redentor, comprendido entre el sector de Tres Esquinas en San Felipe y el cruce con la Ruta 57 en Los Andes, asignar el Rol E-61 al tramo comprendido entre el sector de Tres Esquinas en San Felipe y el cruce con la Ruta 57 en Los Andes quedando - E-61: Cruce Ruta 60 CH (Los Andes) - Cruce Ruta 60 CH (Tres Esquinas) y declarando como Camino Nacional con carácter de Internacional al camino identificado como Variante Los Andes - Enlace Monasterio, entre la Ruta 57 en Los Andes y el sector de Tres Esquinas en San Felipe.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Estévez Valencia, Ministro de Obras Públicas y Transportes y Telecomunicaciones
 
