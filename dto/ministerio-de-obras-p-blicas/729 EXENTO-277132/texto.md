@@ -72,6 +72,20 @@ Ruta G-45-H, Cruce Av. El Mariscal - Camino Padre Hurtado - Cuesta Chada.
 
 . Ruta G-251, Cruce G-21 - Valle Nevado.
 
+Ruta G-19, Cruce Ruta 57 - La Dehesa.
+
+Ruta G-27, Cruce Ruta G-45-H - Los Morros - Pirque - San Juan de Pirque.
+
+Ruta G-40, Cruce G-78 - Isla de Maipo.
+
+Ruta G-68, Cruce Ruta 76 - Cuesta Barriga - Cruce Ruta 68.
+
+Ruta G-148, Cruce Ruta 5 - Batuco - Cruce Ruta G-12.
+
+Ruta G-149, Cruce Ruta 5 - Liray - Cruce Ruta 73.
+
+Ruta G-460, Cruce G-46 - Isla de Maipo.
+
 3º Declárense Caminos Públicos en el continuo urbano de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Metrópoli de Santiago:
@@ -152,7 +166,7 @@ La Obra:
 
 San José de Maipo:
 
-. El tramo urbano de la Ruta G-25, desde el límite urbano Norte hasta el límite urbano Sur; a través de: Camino al Volcán, Cañada Norte, Calle Del Río, Calle Del Cerro, Cañada Sur y Camino al Volcán.
+. El tramo urbano de la Ruta G-25, desde el límite urbano norte hasta el límite urbano sur; a través del par vial constituido por calle Comercio, Cañada Norte, Calle del Cerro, y Camino al Volcán, Cañada Norte, Calle del Río,Cañada Sur y Camino al Volcán.
 
 . Alto Jahuel
 
@@ -187,6 +201,28 @@ con La Parva; a través de Camino El Colorado y
 Camino La Paloma, desde el inicio de la ex Ruta
 
 G-249 hasta el sector de la Quebrada Las Vegas.
+
+Isla de Maipo
+
+. Sistema vial urbano que interconecta la Ruta G-
+
+40 con la Ruta G-460, desde el límite urbano
+
+norte hasta el límite urbano oriente, a través
+
+de: Avenida Jaime Guzmán, calle Lo Guerra, calle
+
+Armijo, calle Carrera Pinto y calle Balmaceda.
+
+La Islita
+
+. Sistema vial urbano que interconecta la Ruta G-
+
+46 con la Ruta G-460, desde el límite urbano
+
+norte hasta el límite urbano sur, a través de:
+
+calle Balmaceda.
 
 5º Las vías declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
