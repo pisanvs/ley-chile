@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.835, de 19 de julio de 2013, de esta Subsecretaría, recházanse solicitudes Nº209111443, 211101041 y 210101130, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 19 de julio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
