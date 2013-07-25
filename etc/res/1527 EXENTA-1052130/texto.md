@@ -26,12 +26,6 @@ Las embarcaciones podrán desembarcar en los puertos alternativos de Ancud y Bah
 
 4.- Transcríbase copia de la presente resolución al Servicio Nacional de Pesca y Acuicultura y a la Dirección General del Territorio Marítimo y de Marina Mercante.
 
-> **Nota.** El numeral 1º de la Resolución 1541 Exenta, Economía, publicada el 13.06.2014, modifica la presente norma en el sentido de reemplazar las embarcaciones que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1º de la Resolución 3261 Exenta, Economía, publicada el 05.12.2014, modifica la presente norma en el sentido de incorporar a la nómina de embarcaciones aquellas que la citada norma indica.
-
-> **Nota.** NOTA 2 El numeral 1º de la Resolución 7 Exenta, Economía, publicada el 16.01.2015, modifica la presente norma en el sentido de incorporar a la nómina de embarcaciones aquellas que la citada norma indica.
-
 Anótese, comuníquese y publíquese en el Diario Oficial y en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Paolo Trejo Carmona, Jefe Departamento Administrativo.
