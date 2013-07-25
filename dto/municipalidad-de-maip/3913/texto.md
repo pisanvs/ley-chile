@@ -1,0 +1,23 @@
+APRUEBA ASIGNACIÓN DE NUEVAS NORMAS URBANÍSTICAS A TERRENOS QUE INDICA, CUYA AFECTACIÓN DE UTILIDAD PÚBLICA CADUCÓ
+
+Maipú, 18 de julio de 2013.- Con esta fecha se decreta lo que sigue:
+
+Núm. 3.913.- Vistos: Lo dispuesto en el Plan Regulador Comunal de Maipú, aprobado mediante decreto alcaldicio Nº 6.383, de fecha 05.11.04, publicado en el Diario Oficial el 13 de noviembre de 2004, y sus modificaciones posteriores; El artículo 59º de la Ley General de Urbanismo y Construcciones; La ley Nº 19.939, publicada en el Diario Oficial el 13 de febrero de 2004, que modificó el artículo 59º de la Ley General de Urbanismo y Construcciones, con el objeto de establecer la caducidad a las declaratorias de utilidad pública definidas por los Planes Reguladores Comunales e Intercomunales; La ley Nº 20.331, publicada en el Diario Oficial el 12 de febrero de 2009, que prorroga las declaratorias de utilidad pública previstas en el artículo 59º de la Ley General de Urbanismo y Construcciones; la modificación Nº 3 del Plan Regulador Comunal de Maipú, denominada "Clasificación de la vialidad estructurante y prórroga de la declaratoria de utilidad pública de las vías colectoras", publicada en el Diario Oficial con fecha 12.11.09; El ordinario Nº 1.400/10, de fecha 12.02.13, suscrito por el Alcalde de la Municipalidad de Maipú, solicitando a la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo revisión de propuesta de asignación de nuevas normas urbanísticas a los terrenos cuya declaratoria de utilidad pública caducó, en virtud de lo dispuesto en el artículo 59º de la Ley General de Urbanismo y Construcciones; el Ord. Nº 1.314, de fecha 27.03.13, emanado por la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, que expone las observaciones a la propuesta ingresada en el mes de febrero del año en curso por el Municipio; El ordinario Nº 158/13, de fecha 29.04.2013, suscrito por la Secretaría Comunal de Planificación de Maipú, solicitando a la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo pronunciamiento y aprobación de informe técnico de proyecto de asignación de nuevas normas urbanísticas a vías y parques corregida; El Ord. Nº 3.131, de fecha 09.07.13, de la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, que emite el informe técnico favorable a la asignación de nuevas normas urbanísticas a vías y parques presentada por la Municipalidad de Maipú; el decreto Nº 6.539, de 3 de diciembre de 2007, que designa como Secretario Municipal a don José Gustavo Ojeda Espinoza; la Sentencia de Proclamación del señor Alcalde don Christian Vittori Muñoz, dictada por el Primer Tribunal Electoral de la Región Metropolitana el 30 de noviembre del año 2012; en virtud de las facultades conferidas en el artículo Nº 63 del DFL 1, del año 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.695, de 1988, Orgánica Constitucional de Municipalidades.
+
+Considerando: Lo indicado en el inciso primero del artículo 59º de la Ley General de Urbanismo y Construcciones que en parte dispone que una vez vencidos los plazos de las declaratorias de utilidad pública en las áreas que éste señala "Las nuevas normas urbanísticas aplicables a dichas áreas deberán ser fijadas dentro del plazo de seis meses, contado desde la caducidad de la declaratoria, por la municipalidad respectiva, mediante decreto alcaldicio, previo informe de la Secretaría Regional Ministerial de Vivienda y Urbanismo, asimilándolas a las de la zona adyacente predominante al terreno". Que de acuerdo a circular Nº 12, de fecha 21.06.10, de la Secretaría Regional Ministerial de Vivienda y Urbanismo, corresponde a los municipios evaluar si cuentan en su territorio con afectaciones a utilidad pública caducas, sean provenientes del Plan Regulador Metropolitano de Santiago o del Plan Regulador Comunal.
+
+Decreto:
+
+1. Apruébese la asignación de nuevas normas urbanísticas a los terrenos ubicados en el área urbana destinados a vialidad y parque intercomunal, cuya afectación de utilidad pública caducó, asimilándolas a las de la zona predominante de las adyacentes al terreno y que se individualizan a continuación:
+
+A) Cuadro de Asignación de Nuevas Normas Urbanísticas a Vías.
+
+.
+
+B) Cuadro de Asignación de Nuevas Normas Urbanísticas a Parque Intercomunal.
+
+.
+
+Publíquese en Diario Oficial, comuníquese, transcríbase a todas las Direcciones Municipales, al H. Concejo Municipal, Secretaría Municipal y archívese.- Christian Vittori Muñoz, Alcalde de la Ilustre Municipalidad de Maipú.- Gustavo Ojeda Espinoza, Secretario Municipal.
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.- Gustavo Ojeda Espinoza, Secretario Municipal.
