@@ -32,7 +32,7 @@ Una vez remitida la nómina se procederá a dictar la resolución que apruebe la
 
 a) Utilizar como puertos de desembarque los siguientes: Calbuco (La Vega, San Rafael), Carelmapu y Anahuac.
 
-b) Las embarcaciones podrán desembarcar en los puertos alternativos de Ancud y Bahía Mansa sólo por razones de fuerza mayor que impidan el uso del puerto en que se inscribió, previo aviso con la debida anticipación al Servicio Nacional de Pesca y Acuicultura.
+b) Las embarcaciones podrán desembarcar en los puertos alternativos de Ancud y Bahía Mansa, como asimismo, en los puertos Calbuco (La Vega, San Rafael), Carelmapu y Anahuac, sólo por razones de fuerza de mayor que impidan el uso del puerto en que se inscribió, previo aviso con la debida anticipación al Servicio Nacional de Pesca y Acuicultura.
 
 c) Para el desarrollo eficiente de las actividades de fiscalización se distribuirán las embarcaciones autorizadas por puerto de desembarque de la siguiente manera: Anahuac 20 embarcaciones; San Rafael 20 embarcaciones, La Vega 20 embarcaciones y Carelmapu 30 embarcaciones.
 
