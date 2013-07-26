@@ -16,7 +16,7 @@ Considerando:
 
 Decreto:
 
-1º.- Créase en el inmueble fiscal urbano, ubicado en calle Canadá Nº 351, Lote B-1, de la comuna de San Joaquín, Región Metropolitana de Santiago, cuyos deslindes se encuentran indicados en la resolución exenta Nº 2.277, de 2012, de la Secretaría Regional Ministerial de Bienes Nacionales de la Región Metropolitana, que lo destinó a Gendarmería de Chile, un establecimiento penitenciario denominado "Centro de Educación y Trabajo Femenino Semiabierto de Santiago".
+1º.- Créase en el inmueble fiscal urbano, ubicado en calle Canadá Nº 5339, Lote B-1, de la comuna de San Joaquín, Región Metropolitana de Santiago, cuyos deslindes se encuentran indicados en la resolución exenta Nº 2.277, de 2012, de la Secretaría Regional Ministerial de Bienes Nacionales de la Región Metropolitana, que lo destinó a Gendarmería de Chile, un establecimiento penitenciario denominado "Centro de Educación y Trabajo Femenino Semiabierto de Santiago".
 
 2º.- La dirección y administración interna del establecimiento penitenciario que se crea, corresponderán a Gendarmería de Chile y se regirán por lo establecido en el Reglamento de Establecimientos Penitenciarios, contenido en el decreto Nº 518, de 1998, del Ministerio de Justicia y sus modificaciones; por las normas ordinarias y generales que regulan el funcionamiento interno de los establecimientos penitenciarios, y por las resoluciones que se dicten al efecto por el Director Nacional de Gendarmería de Chile.
 
