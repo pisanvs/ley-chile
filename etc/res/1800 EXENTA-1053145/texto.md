@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.800, de 17 de julio de 2013, de esta Subsecretaría, autorízase a ORIZON S.A. para ampliar actividades pesqueras extractivas con la nave "Vesterveg", en el área comprendida desde la III a VII y IX a X Regiones, por fuera del área de reserva artesanal con cerco, los siguientes recursos hidrobiológicos: Agujilla, Machuelo o Tritre, Pampanito, Vinciguerria y Cubiceps.
+
+Valparaíso, 17 de julio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
