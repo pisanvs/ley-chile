@@ -1,0 +1,7 @@
+DELEGA EN JEFES QUE INDICA, ATRIBUCIONES DE EMITIR Y NOTIFICAR LOS GIROS CORRESPONDIENTES A SANCIONES POR INFRACCIONES TRIBUTARIAS
+
+Resolución Ex. RCO3.00 Nº 1.140, de 12 de julio de 2013, de la Dirección Regional de Copiapó del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6°, letra B), Nº 7 del Código Tributario, en el artículo 20° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del DFL N° 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la ley Nº 18.575, de 1986, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado y resolución exenta SII Nº 55, de fecha 6 de junio de 2013, del Sr. Director, se delegó en el Jefe del Departamento Jurídico de la III Dirección Regional Copiapó y en los Jefes de las Unidades de Vallenar y Chañaral, las atribuciones de emitir y notificar los giros correspondientes a las sanciones por infracciones tributarias determinadas de conformidad al procedimiento establecido en el Libro III, título IV, párrafos 1° y 2°, del Código Tributario, en los casos que en ella se señalan.
+
+El texto íntegro de este documento está publicado en www.sii.cl.-
+
+Claudio Rodríguez González, Director Regional.
