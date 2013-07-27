@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.854, de 19 de julio de 2013, de esta Subsecretaría, recházanse las solicitudes números 209104019, 210103005, 207121115, 207121160, 207122015, 207121035, 208121048, 207121157, 211121049, 207121120, 207122132, 207122025 y 207121134, individualizadas en la resolución extractada, y publicada en www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de julio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
