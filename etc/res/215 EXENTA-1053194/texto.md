@@ -1,0 +1,5 @@
+ACREDITA A "SERVICIOS Y MANTENIMIENTO ABC LIMITADA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta N° 215, de 23 de mayo de 2013 y conforme lo dispuesto en la Ley N° 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo N° 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a "Servicios y Mantenimiento ABC Limitada", RUT N° 76.149.029-K, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Minero, Subsector Extracción Rajo Abierto, en los siguientes perfiles ocupacionales: Operador de carguío rajo, Operador de equipos auxiliares rajo, Operador de perforación rajo, Operador de transporte de materiales rajo; en el Subsector Mantenimiento Mecánico, en el perfil de Mantenedor equipos mecánicos mina. La acreditación se otorga por un plazo de tres años contados desde el 23 de mayo de 2013, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
