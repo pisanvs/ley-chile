@@ -1,0 +1,5 @@
+AUTORIZA EL USO DEL CRÉDITO FISCAL IVA Y DEDUCCIÓN DEL GASTO DE VEHÍCULOS QUE INDICA
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 73, del 24 de julio de 2013, que autoriza a Compañía Minera Pimentón, RUT Nº 78.544.320-9, el uso del Crédito Fiscal IVA y la deducción en la Renta Bruta del Impuesto de 1ª Categoría de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del DL Nº 824, de 1974, de los gastos asociados a la mantención, reparación y funcionamiento de los vehículos Station Wagons, marca Land Rover, Modelo Defender 110, patente YF-9479, YF-9477, YF-9478 e YK-8808, año 2005 y ZK-7935, año 2006.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2013.
