@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DEL MAULE, A LA SOCIEDAD "GENERADORA ELÉCTRICA ROBLERÍA LIMITADA"
+
+Mediante decreto exento N° 884, de 23 de julio de 2013, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Generadora Eléctrica Roblería Limitada", RUT 76.051.263-K, un inmueble fiscal denominado Lote a-1 emplazado en el macro lote fiscal ubicado en la localidad de Roblería, comuna y provincia de Linares, Región del Maule; enrolado en el Servicio de Impuestos Internos con el Rol Matriz N° 552-19; singularizado en el Plano N° 07401-2.439-C.R.; inscrito a nombre del Fisco en mayor cabida a fs. 461 N° 666, del Registro de Propiedad del Conservador de Bienes Raíces de Linares, correspondiente al año 1987; de una superficie aproximada de 2,85 hás. La renta anual de la concesión será el equivalente en moneda nacional a UF 692,12.
+
+La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión, para ejecutar y desarrollar el proyecto energético referente a una mini central hidroeléctrica de pasada, de una potencia instalada de 3,85 MW, con sus obras específicas, siendo responsable de su financiamiento, suministro e instalación de equipos, ejecución de las obras y obtención de los permisos necesarios, así como de operar, mantener y explotar las instalaciones durante todo el plazo de la concesión, en conformidad con lo establecido en el presente decreto y en el respectivo contrato. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica.
