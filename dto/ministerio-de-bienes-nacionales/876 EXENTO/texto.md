@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A SOCIEDAD "SOLVENTUS CHILE SPA"
+
+Mediante decreto exento Nº 876, de 23 de julio de 2013, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Solventus Chile SpA", RUT 76.124.389-6, un inmueble fiscal ubicado en Camino Minero s/n, sector Llano Indio de la Plata, comuna de Diego de Almagro, provincia de Chañaral, Región de Atacama; enrolado en el Servicio de Impuestos Internos con el Nº 7000-76; singularizado en el Plano Nº 03202-1.115-C.R.; amparado por la inscripción global que rola a fs. 111 vta. Nº 105, del Registro de Propiedad del Conservador de Bienes Raíces de Diego de Almagro, correspondiente al año 1996; de una superficie aproximada de 208,23 has. La renta anual de la concesión será el equivalente en moneda nacional a UF 1.041,15.
+
+La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión, para ejecutar un proyecto de generación de energía renovable no convencional de una potencia instalada de al menos 29,747 MW, con sus obras específicas, siendo responsable de su financiamiento, obras, suministro, instalación de equipos y obtención de permisos, así como de operarlo, mantenerlo y explotarlo durante todo el plazo de la concesión, en conformidad con lo establecido en el presente decreto y en el respectivo contrato. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica Ministerio de Bienes Nacionales.
