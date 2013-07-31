@@ -1,0 +1,13 @@
+FIJA PRECIOS DE REFERENCIA Y PARIDAD PARA KEROSENE DOMÉSTICO
+
+Núm. 312 exento.- Santiago, 30 de julio de 2013.- Vistos: Lo dispuesto en la Ley Nº 20.402, que Crea el Ministerio de Energía; en la Ley Nº19.030 y sus modificaciones, en especial las introducidas por la Ley Nº 20.493; en el Decreto Supremo Nº 211, de 2000, que Aprueba nuevo Reglamento de la Ley Nº 19.030, que crea Fondo de Estabilización de Precios del Petróleo, modificado por Decreto Supremo Nº 97, de 2009, ambos del Ministerio de Minería; en el Oficio Ordinario Nº 309/2013, de la Comisión Nacional de Energía, en el cual informa al tenor de lo establecido en los artículos 6º y 7º del referido Reglamento; y en la Resolución Nº 1600, de 2008, de la Contraloría General de la República.
+
+Decreto:
+
+1.- Fíjanse los Precios de Referencia y de Paridad para Kerosene Doméstico:
+
+2.- Los precios establecidos en el numeral precedente entrarán en vigencia el día jueves 1 de agosto de 2013.
+
+Anótese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica Subsecretaría de Energía.
