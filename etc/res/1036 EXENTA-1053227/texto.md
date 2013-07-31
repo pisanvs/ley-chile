@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.036 EXENTA, DE 2013
+
+Res. exenta Nº1.036 Gobernación Provincial Valdivia 26/06/2013, fija acceso peatonal Playa San Ignacio, comuna y provincia Valdivia, Región de Los Ríos, desde camino público Ruta T-352 a través camino particular emplazado en Hijuela Nº1 de propiedad de Artemio Huchicoy Huichicoy, inscrita fs. 932 Nº1.231 Registro Propiedad año 2004 Conservador de Bienes Raíces Valdivia; longitud aproximada 444 metros, aproximadamente 3 metros ancho, singularizado en Plano 14.101.- 2589 C.R. Ministerio Bienes Nacionales.
