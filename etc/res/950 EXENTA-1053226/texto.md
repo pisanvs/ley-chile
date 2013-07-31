@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN Nº 950 EXENTA, DE 2013
+
+Res. exenta Nº950 Gobernación Provincial Valdivia 19/06/2013, fija acceso peatonal Playa Pucura Lago Calafquén, Coñaripe, comuna Panguipulli, provincia Valdivia, Región de Los Ríos, a través de Hijuela Nº170 de propiedad Ovidio Fernando Diez Gromoll, inscrita fs. 538 Nº524 Registro Propiedad año 2010 Conservador de Bienes Raíces Panguipulli, longitud aproximada 170 metros, aproximadamente 1,5 metro ancho, singularizado en Plano 14.108.- 2538 C.R. Ministerio de Bienes Nacionales.
