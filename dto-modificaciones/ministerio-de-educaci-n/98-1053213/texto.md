@@ -1,32 +1,42 @@
-REGLAMENTA RECURSOS DE PLAN DE EQUIPAMIENTO DE ESTABLECIMIENTOS DE ENSEÑANZA MEDIA TÉCNICO PROFESIONAL DEL SECTOR MUNICIPAL, REGIDOS POR EL DECRETO CON FUERZA DE LEY Nº 2, DE 1998
+MODIFICA REGLAMENTO DEL PLAN DE EQUIPAMIENTO DE ESTABLECIMIENTOS DE ENSEÑANZA MEDIA TÉCNICO PROFESIONAL DEL SECTOR MUNICIPAL CONTENIDO EN EL DECRETO Nº423, DE 2007
 
-Núm. 423.- Santiago, 27 de diciembre de 2007.- Considerando:
+Núm. 98.- Santiago, 22 de febrero de 2013.- Considerando:
 
-Que, en el marco de la política de formación y capacitación permanente, el Ministerio de Educación se ha propuesto desarrollar una estrategia de mejoramiento continuo que permita a los establecimientos de enseñanza media técnico profesional del sector municipal (municipalidades y corporaciones municipales), regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, contar con el equipamiento necesario para desarrollar su proceso de enseñanza y aprendizaje;
+Que, la Ley Nº 20.641, de Presupuestos para el Sector Público para el año 2013, ha dispuesto fondos para financiar el equipamiento para el proceso de enseñanza y aprendizaje de todos los establecimientos educacionales técnico profesionales regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación;
 
-Que, la ley Nº 20.232, de Presupuestos para el Sector Público para el año 2008, ha dispuesto fondos para financiar el equipamiento para el proceso de enseñanza y aprendizaje en los establecimientos señalados en el párrafo anterior;
+Que, además, el citado cuerpo legal dispone que dicho equipamiento se financiará con cargo a los señalados recursos conforme al decreto Nº 423, del Ministerio de Educación, de 2007, y sus modificaciones;
 
-Que, además, el citado cuerpo legal dispone que dicho equipamiento se financiará con cargo a los señalados recursos conforme a decreto que dicte el Ministerio de Educación, visado por la Dirección de Presupuestos, y
+Que, el mencionado decreto Nº 423, sólo permite financiar el equipamiento, para el proceso de enseñanza y aprendizaje en los establecimientos de enseñanza media técnico profesional del Sector Municipal (municipalidades y corporaciones municipales);
 
-Visto: Lo dispuesto en la ley Nº 20.232 de Presupuestos del Sector Público para el año 2008, Partida 09, Capítulo 01, Programa 01, Subtítulo 33, Ítem 03, Asignación 001, Glosa 10; la ley Nº 18.956; la Constitución Política de la República, artículos 32 Nº 6 y 35, y la resolución Nº 520, de 1996, de la Contraloría General de la República,
+Que, en consecuencia, para incluir a los establecimientos educacionales particulares subvencionados en el indicado Plan de Equipamiento, es necesario modificar el citado decreto Nº 423, y
+
+Visto: Lo dispuesto en la Ley Nº 20.641 de Presupuestos del Sector Público para el año 2013, Partida 09, Capítulo 01, Programa 02, Subtítulo 33, Ítem 03, Asignación 002, Glosa 09; la ley Nº 18.956; la Constitución Política de la República, artículos 32 Nº 6 y 35; los decretos supremos de Educación Nº 423, de 2007 y Nº 657, de 2008; y, la resolución Nº 1.600, de 2008, de la Contraloría General de la República,
 
 Decreto:
 
 #### Artículo 1º
 
-<!-- parte:6652257 -->
+<!-- parte:9367072 -->
 
-Regúlase conforme al presente decreto el procedimiento de ejecución de los recursos dispuestos por la Ley de Presupuestos del Sector Público para el año 2013 (Partida 09, Capítulo 01, Programa 02, Subtítulo 33, ítem 03, Asignación 002, Glosa 09), destinados a financiar el Plan de Equipamiento de Establecimientos de Educación Técnico Profesional del Sector Municipal (municipalidades y corporaciones municipales) y particular subvencionado, regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+Por decreto Nº 423, del Ministerio de Educación, de 2007, modificado por el decreto Nº 657, del Ministerio de Educación, de 2008, se reguló el procedimiento de ejecución de los recursos dispuestos por la Ley de Presupuestos del Sector Público destinados a financiar el Plan de Equipamiento de Establecimientos de Enseñanza Media Técnico Profesional del Sector Municipal (municipalidades y corporaciones municipales), regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+
+El citado decreto Nº 423 fue dictado el 27 de diciembre de 2007, y publicado en el Diario Oficial del 26 de junio de 2008; el decreto Nº 657, por su parte, fue dictado el 26 de diciembre de 2008 y publicado en el Diario Oficial del 10 de junio de 2009.
 
 #### Artículo 2º
 
-<!-- parte:6652258 -->
+<!-- parte:9367073 -->
 
-Para efectos del presente decreto, equipamiento se define como "Las herramientas, los utensilios, las maquinarias, los instrumentos, el material didáctico, el material informático y digital, y los implementos pedagógicos necesarios para desarrollar el proceso de enseñanza aprendizaje técnico profesional, en laboratorios, talleres y otros recintos en que se realice dicho proceso, conforme a los planes y programas vigentes para cada especialidad, para ser utilizados por los estudiantes de establecimientos de educación técnico profesional regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+Modifícase el decreto Nº 423, del Ministerio de Educación, de 2007, que reglamenta el procedimiento de ejecución de los recursos dispuestos por la Ley de Presupuestos del Sector Público destinados a financiar el Plan de Equipamiento de Establecimientos de Enseñanza Media Técnico Profesional del Sector Municipal (municipalidades y corporaciones municipales), regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en el sentido de reemplazar su texto, por el siguiente:
 
-#### Artículo 3º
+#### Artículo 1º (art. 2)
 
-<!-- parte:6652259 -->
+Regúlase conforme al presente decreto el procedimiento de ejecución de los recursos dispuestos por la Ley de Presupuestos del Sector Público para el año 2013 (Partida 09, Capítulo 01, Programa 02, Subtítulo 33, ítem 03, Asignación 002, Glosa 09), destinados a financiar el Plan de Equipamiento de Establecimientos de Educación Técnico Profesional del Sector Municipal (municipalidades y corporaciones municipales) y particular subvencionado, regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+
+#### Artículo 2º (art. 2)
+
+Para efectos del presente decreto, equipamiento se define como "Las herramientas, los utensilios, las maquinarias, los instrumentos, el material didáctico, el material informático y digital, y los implementos pedagógicos necesarios para desarrollar el proceso de enseñanza aprendizaje técnico profesional, en laboratorios, talleres y otros recintos en que se realice dicho proceso, conforme a los planes y programas vigentes para cada especialidad, para ser utilizados por los estudiantes de establecimientos de educación técnico profesional regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.".
+
+#### Artículo 3º (art. 2)
 
 Los recursos de que disponga el Ministerio de Educación para estos fines serán transferidos a los Gobiernos Regionales y a los sostenedores de establecimientos de educación técnico profesional regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, es decir, a las Municipalidades, Corporaciones Municipales o a los sostenedores de establecimientos particulares subvencionados, beneficiados con el nuevo equipamiento.
 
@@ -36,15 +46,11 @@ Estos recursos deberán destinarse a adquirir nuevo equipamiento del que se care
 
 El equipamiento que se adquiera con estos recursos será de propiedad de los respectivos sostenedores y deberá ser destinado exclusivamente a un fin educacional.
 
-#### Artículo 4º
-
-<!-- parte:6652260 -->
+#### Artículo 4º (art. 2)
 
 El monto de recursos que transfiera el Ministerio de Educación se determinará de acuerdo a las necesidades definidas por el establecimiento y refrendadas por cada Consejo Escolar, necesidades que corresponde aprobar, valorizar e incluir en los respectivos proyectos de equipamiento a cada Secretaría Regional Ministerial de Educación, en su calidad de Unidad Técnica.
 
-#### Artículo 5º
-
-<!-- parte:6652261 -->
+#### Artículo 5º (art. 2)
 
 Para proceder a la adquisición de equipamiento, los Gobiernos Regionales y los sostenedores de establecimientos de educación técnico profesional regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en su caso, suscribirán un convenio con el Ministerio de Educación en el que se establecerá, a lo menos, lo siguiente:
 
@@ -64,6 +70,6 @@ En los convenios que se suscriban con los sostenedores de establecimientos de ed
 
 Estos convenios serán aprobados por decreto del Ministerio de Educación.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Yasna Provoste Campillay, Ministra de Educación.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Harald Beyer Burgos, Ministro de Educación.
 
-Lo que transcribo para su conocimiento.- Saluda a usted, Juan Cavada Artigues, Subsecretario de Educación (S).
+Lo que transcribo para su conocimiento.- Saluda a usted, Matías Lira Avilés, Subsecretario de Educación (S).
