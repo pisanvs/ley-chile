@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1048, de 26 de junio de 2013, se modificó el Decreto MOP. Exento Nº476, de 28 de marzo de 2013, en sus numerales 2° y 3°, en el siguiente sentido, donde dice: "Claudio Alexi Ortega Martínez", debe decir: "Claudio Alexi Ortega Martínez y Roxana Valeska Jara González". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
