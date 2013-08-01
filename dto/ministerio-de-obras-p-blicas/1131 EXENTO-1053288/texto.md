@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1131, de 15 de julio de 2013, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°2319, de 28 de diciembre de 2009, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°37, expropiado con motivo de la obra: "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I". Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 12 de agosto de 2006, complementada por acta de fecha 12 de mayo de 2009, en la suma de $221.600.
+
+Fiscal del Ministerio de Obras Públicas.
