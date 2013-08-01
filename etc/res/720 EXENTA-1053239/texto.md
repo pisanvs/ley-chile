@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Gobernación de Petorca, por resolución exenta Nº 720 de 11 de junio de 2013, en virtud de sus facultades legales, Of. 05604 de Contraloría General de la República, Valparaíso, Of. Ord., 092/2012 del Director de Obras Municipales de Papudo, resuelve: Procédase, por parte del ocupante, a la restitución de la franja correspondiente a la calle 15 o calle Vicuña Mackenna entre calle Arica y Calle 13, de la comuna de Papudo, dentro del término de 10 días, contados desde la fecha de notificación de esta resolución, bajo apercibimiento de procederse a dicha medida con auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento, si fuere necesario, facultades que se conceden en este mismo acto.
