@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1158, de 22 de julio de 2013, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°1538, de 30 de septiembre de 2009, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°6, expropiado con motivo de la obra: "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón". Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 03 de julio de 2007, en la suma de $470.000, para el lote N°6.
+
+Fiscal del Ministerio de Obras Públicas.
