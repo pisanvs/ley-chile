@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1151, de 15 de julio de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) N°1147, de 27 de junio de 2012, a fin de individualizar correctamente el lote de terreno N°54, ubicado en la comuna de Osorno, que figura a nombre de PAILLAHUEQUE VELASQUEZ ANDREA OL, rol de avalúo 2237-354, superficie 230 m2., complementando el informe de tasación emitido el 15 de mayo de 2011, mediante acta emanada de la misma comisión el 16 de abril de 2013, expropiado con motivo de la obra "Camino Reposición Ruta 215-CH, Sector Bif. Aeropuerto Carlos Hott - Cruce Las Lumas, Tramo Km. 3,99292 al Km. 21,80000", Comuna de Osorno, Provincia de Osorno, X región de Los Lagos.
+
+Fiscal del Ministerio de Obras Públicas.
