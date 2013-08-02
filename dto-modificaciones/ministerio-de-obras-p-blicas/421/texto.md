@@ -16,9 +16,7 @@ Decreto:
 
 - Cruce Ruta 128 (El Boldo).
 
-- Ruta 126 S: Ruta Los Conquistadores: Sector Cauquenes -
-
-Limite Regional (Puente La Raya).
+- Ruta 126 S: Ruta Los Conquistadores: Sector Límite Regional (Puente La Raya) - Tomé.
 
 2.- Modifícase el nombre de la Ruta 128, Cruce Ruta 5 - Parral - Cauquenes, identificada en el DS Nº 121, de 2009, quedando con la siguiente denominación:
 
