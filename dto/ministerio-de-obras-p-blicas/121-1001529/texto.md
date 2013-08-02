@@ -52,7 +52,7 @@ Ruta 128: Cruce Ruta 5 - Parral - Cauquenes
 
 VIII Región del Bío Bío
 
-Ruta 148: Bulnes - Concepción
+Ruta 148: DEROGADO.
 
 Ruta 150: Concepción - Tomé
 
