@@ -34,7 +34,7 @@ Resolución:
 
 1.4 Proyectos de Habitabilidad del Título II, destinados al Acondicionamiento Térmico de la vivienda conforme, a lo indicado en el artículo 6° bis del DS N° 255 (V. y U.), de 2006, en las regiones del L. Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía, de Los Ríos, de Los Lagos y de Aysén, y además a proyectos del resto de las regiones que se ubiquen en zona térmica IV o superior, según lo detallado en el resuelvo 6 de la presente resolución.
 
-Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 30 de julio de 2013.
+Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 7 de agosto de 2013.
 
 2. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
@@ -397,6 +397,8 @@ vivienda.
 9. Para participar en este proceso de selección las personas interesadas, deberán acreditar haber enterado el ahorro mínimo correspondiente según el Título al que postula, según lo indicado en el artículo 9° del DS N° 255 (V. y U.), de 2006.
 
 10. Los puntajes de corte de la Ficha de Protección Social y el procedimiento de su cálculo, serán determinados conforme a lo establecido en la resolución exenta N° 7.080 (V. y U.), de 2008.
+
+Por otra parte, para el cálculo del puntaje de antigüedad de la postulación se permitirá asignar 20 puntos por cada postulación hábil no seleccionada hasta un máximo de 4, pudiendo llegar este puntaje a un máximo de 80 puntos.
 
 11. Los proyectos se deberán ingresar en las Oficinas de Partes de los Serviu correspondientes a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu disponga, el que deberá ser debidamente publicitado.
 
