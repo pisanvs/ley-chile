@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A PRINCIPAL ADMINISTRADORA GENERAL DE FONDOS S.A.
+
+Certifico: Que por escritura pública de fecha 22 de julio de 2013, otorgada en la Notaría de Santiago de don René Benavente Cash, calle Huérfanos N° 979, piso 7, Santiago, se redujo el acta de la junta extraordinaria de accionistas de Principal Administradora General de Fondos S.A., celebrada con igual fecha en presencia del Notario ya individualizado.
+
+Que por resolución exenta número 286, de fecha 31 de julio de 2013, de esta Superintendencia de Valores y Seguros, se aprobó la reforma de estatutos de Principal Administradora General de Fondos S.A. consistente en aumentar el capital social de la suma de $8.507.333.694, dividido en 1.399.715.010 acciones nominativas, de una sola serie y sin valor nominal, íntegramente suscrito y pagado, a la suma de $10.857.333.694, dividido en 4.108.045.608 acciones nominativas, de una sola serie y sin valor nominal, mediante la emisión de 2.708.330.598 acciones de pago por un monto de $2.350.000.000, las que deberán suscribirse y pagarse dentro del plazo máximo de 3 años contado desde el 22 de julio de 2013. Al efecto se modifican los artículos tercero y primero transitorio de los estatutos sociales.
+
+Santiago, 31 de julio de 2013.- Carmen Undurraga Martínez, Secretario General.
