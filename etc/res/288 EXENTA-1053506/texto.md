@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A CELFIN CAPITAL S.A. ADMINISTRADORA GENERAL DE FONDOS
+
+Certifico: Que por resolución exenta N° 288, de fecha 1 de agosto de 2013, de esta Superintendencia de Valores y Seguros, se aprobó la reforma de estatutos de "Celfin Capital S.A. Administradora General de Fondos", cuya acta de junta extraordinaria de accionistas celebrada el 2 de julio de 2013, se redujo a escritura pública el mismo día, ante don Patricio Raby Benavente, Titular de la 5ª Notaría de Santiago, en la que se acordó modificar el nombre de la sociedad, reemplazándolo por el de "BTG Pactual Chile S.A. Administradora General de Fondos", y crear el cargo de vicepresidente del directorio, con las facultades del presidente, en caso de ausencia o impedimento de este último, modificando al efecto los artículos 1° y 9° de sus estatutos, respectivamente.
+
+Santiago, 1 de agosto de 2013.- Carmen Undurraga Martínez, Secretario General.
