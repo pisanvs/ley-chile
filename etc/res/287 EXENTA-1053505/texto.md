@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A CELFIN CAPITAL ADMINISTRADORA DE FONDOS DE INVERSIÓN DE CAPITAL EXTRANJERO S.A.
+
+Certifico: Que por resolución exenta N° 287, de fecha 1 de agosto de 2013, de esta Superintendencia de Valores y Seguros, se aprobó reforma de estatutos sociales de "Celfin Capital Administradora de Fondos de Inversión de Capital Extranjero S.A.", cuya acta de junta extraordinaria de accionistas celebrada el 2 de julio de 2013, se redujo a escritura pública el mismo día ante don Patricio Raby Benavente, Titular de la 5ª Notaría de Santiago, en la que se acordó modificar el nombre de la sociedad, reemplazándolo por el de "BTG Pactual Chile S.A. Administradora de Fondos de Inversión de Capital Extranjero", modificando al efecto el artículo 1° de los estatutos.
+
+Santiago, 1 de agosto de 2013.- Carmen Undurraga Martínez, Secretario General.
