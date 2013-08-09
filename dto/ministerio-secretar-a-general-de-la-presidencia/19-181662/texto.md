@@ -374,7 +374,7 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 1. Otorgamiento de títulos gratuitos de domino, urbanos y rurales, a personas de escasos recursos, incluidos los otorgados de conformidad con el D.L. 2.885, la ley Nº 18.270, la ley Nº 18.616 u otras leyes vigentes sobre la materia, respecto de inmuebles fiscales cuya tasación comercial sea superior a 500 U.T.M., y declaración de caducidad del título conforme lo establecido en el artículo 94 del D.L. 1.939, de 1977.
 
-2. Transferencias gratuitas de inmuebles fiscales a las personas jurídicas referidas en el artículo 61 del D.L. 1.939, de 1977, cuyo valor comercial fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del mismo cuerpo legal, sea superior a 2.500 U.T.M. e igual o inferior a 5.000 U.T.M.
+2. Transferencias gratuitas de inmuebles fiscales a las personas jurídicas referidas en el artículo 61 del D.L. 1.939, de 1977, cuyo valor comercial fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del mismo cuerpo legal, sea igual o inferior a 5.000 U.T.M.
 
 3. Venta o permuta de inmuebles fiscales, mediante trato directo, licitación privada o pública, cuyo valor comercial, fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del D.L. 1.939, de 1977, sea igual o inferior a 5.000 U.T.M. Esta delegación incluye todos los actos administrativos que se dicten en el respectivo proceso, incluyendo la aprobación de las bases de licitación, sus modificaciones y de los contratos respectivos.
 
