@@ -20,6 +20,8 @@ Resolución:
 
 1.- Apruébase la nómina de proyectos y grupos seleccionados con Certificado de Grupo Organizado Hábil, en la alternativa de Postulación Colectiva con Proyecto Habitacional del Programa Fondo Solidario de Elección de Vivienda, que se incluyen en la siguiente Tabla, correspondiente al Concurso Regional en Condiciones Especiales, dispuesto por resolución exenta Nº 1.105 de fecha 28.06.2013, publicada en el Diario Oficial de 04.07.2013, en el orden de prelación que a continuación se indica:
 
+2.- Los recursos comprometidos conforme al resuelvo 1 de la presente resolución para los grupos seleccionados en el Concurso Regional en Condiciones Especiales dispuesto por resolución exenta N° 1.105 de fecha 28.06.2013, publicada en el Diario Oficial de 04.07.2013, es el que se detalla a continuación para cada uno de ellos considerando el valor referencial de los proyectos a que se encuentran vinculados:
+
 Los grupos organizados seleccionados, que se indican en la Tabla precedente, están asociados al Megaproyecto Portal del Sur 5 Etapas, Código 88529, que cuenta con calificación condicionada, presentado por la entidad patrocinante Credyhogar Ltda. a cargo de la Empresa Constructora Vanrom y Compañía Limitada, a desarrollarse en 5 etapas, cada una correspondiente a los Comités indicados, en el orden de prelación indicado.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Saavedra Burgos, Secretario Regional Ministerial Región del Biobío.
