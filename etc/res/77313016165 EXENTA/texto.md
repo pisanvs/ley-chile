@@ -1,0 +1,3 @@
+OTORGA EXCEPCIÓN DEL CAMBIO DE SUJETO DEL IVA A CONTRIBUYENTE QUE INDICA
+
+La Dirección Regional Iquique del SII, por resolución Ex. Nº 77313016165, de fecha 20/03/2013, otorga a contar del 1º del mes siguiente de esta publicación, al contribuyente Gillermo Andrés Molina Lavín, RUT Nº 4.658.698-0, la excepción del cambio de sujeto del Impuesto al Valor Agregado, conforme a lo establecido en la resolución exenta SII Nº 52 del 05.04.2012.
