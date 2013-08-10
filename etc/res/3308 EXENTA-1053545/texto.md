@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.308 EXENTA, DE 2013
+
+Por resolución exenta Nº 3.308, de fecha 2 de agosto de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 1.728, citada en Vistos, en sentido de aprobar nueva sucursal de Escuela de Conductores No Profesionales o Clase B "Virginia Andrea Valdés González Escuela de Conductores Empresa Individual de Responsabilidad Limitada", nombre de fantasía "Escuela de Conductores Virval E.I.R.L.", RUT Nº 76.256.493-9, ubicada en Av. Gabriela Oriente Nº 02785, comuna de Puente Alto, siendo su director el señor Marcelo Vladimir Rojas Armijo, RUT Nº 13.247.029-4.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
