@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE ASSET ADMINISTRADORA GENERAL DE FONDOS S.A.
+
+Certifico: Que por resolución exenta Nº 278, de 24 de julio de 2013, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Asset Administradora General de Fondos S.A." acordada en junta extraordinaria de accionistas celebrada el 29 de abril de 2013, y reducida a escritura pública con fecha 2 de mayo de 2013, ante don Andrés Rubio Flores, Notario Público de la Octava Notaría de Santiago, domiciliado en calle Miraflores Nº 383, piso 29, oficina 2901, comuna de Santiago, consistente en:
+
+Aumentar el capital social de $230.000.000.- dividido en 23.000 acciones ordinarias, nominativas, sin valor nominal, todas de la misma serie y valor, íntegramente suscrito y pagado, a $250.066.000.- dividido en 25.000 acciones ordinarias, nominativas, sin valor nominal, todas de la misma serie y valor, mediante la emisión de 2.000 acciones de pago nominativas, por un monto de $20.066.000 las que se suscribirán y pagarán en dinero efectivo o mediante el aporte de bienes corporales o incorporales, derechos o créditos, debidamente aprobados en conformidad con la ley, dentro del plazo de tres años contado desde la fecha de la junta.
+
+Santiago, 24 de julio de 2013.- Carmen Undurraga Martínez, Secretaria General.
