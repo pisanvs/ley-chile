@@ -52,7 +52,7 @@ Las sumas excedentes que acumule un hipódromo en el Fondo de Premios, constitui
 
 #### Artículo 9º
 
-El Reglamento de Carreras podrá ser modificado por el Consejo Superior de la Hípica Nacional, e interpretado en forma obligatoria por este mismo organismo a requerimiento de uno de sus componentes.
+Las modificaciones al Reglamento de Carreras serán propuestas por el Consejo Superior de la Hípica Nacional al Ministro de Hacienda, debiendo ser ratificadas y sancionadas por resolución de este último. El Reglamento de Carreras podrá ser interpretado en forma obligatoria por el Consejo Superior de la Hípica Nacional, a requerimiento de uno de sus miembros.
 
 #### Artículo 10º
 

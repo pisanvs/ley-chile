@@ -40,15 +40,15 @@ o Son atribuciones y deberes del Consejo:
 
 a) Asesorar al Ministerio de Hacienda en el cumplimiento de la obligación señalada en el artículo 5.o de la ley N.o 5,055, de 12 de Febrero de 1932.
 
-b) Informar al Gobierno sobre las reformas legales que se propongan y digan relación a las leyes porque se rigen los Hipódromos.
+b) Informar al Ministerio de Hacienda sobre las reformas legales que se propongan y digan relación a las leyes porque se rigen los Hipódromos.
 
-c) Modificar el Reglamento de Carreras.
+c) Proponer modificaciones al Reglamento de Carreras.
 
 d) Interpretar el Reglamento de Carreras cuando fuere requerido en tal sentido por algunos de los componentes del Consejo. El Consejo no tendrá intervención en la administración particular de cada una de las instituciones hípicas, funciones que corresponden en conformidad a la ley y a sus estatutos a los respectivos Directorios.
 
 #### Artículo 4
 
-o Las modificaciones al Reglamento de Carreras serán publicadas en el Diario Oficial y comenzarán a regir un mes después de su publicación.
+o Las modificaciones al Reglamento de Carreras serán publicadas en el Diario Oficial y comenzarán a regir un mes después de su publicación, salvo que se señalare algo diferente.
 
 #### Artículo 5
 
