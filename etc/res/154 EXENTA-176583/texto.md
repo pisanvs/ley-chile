@@ -8,6 +8,6 @@ Núm. 154 exenta.- La Serena, 6 de septiembre de 2000.- Visto: El artículo 1º 
 
 R e s u e l v o:
 
-Establécese a contar del 15 de octubre de 2000, en 10 años la antigüedad máxima que deberán tener los buses para incorporarse a los servicios de locomoción colectiva urbana en la ciudad de Ovalle.
+Establécese a contar del 15 de octubre de 2000, en 12 años la antigüedad máxima que deberán tener los buses para incorporarse a los servicios de locomoción colectiva urbana en la ciudad de Ovalle.
 
 Anótese y publíquese.- Claudio Méndez Olave, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
