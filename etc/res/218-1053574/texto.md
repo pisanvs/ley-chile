@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A HABITAT ANDINA S.A.
+
+Certifico que por resolución Nº E-218-2013, de fecha 30 de julio de 2013, se aprobó la reforma introducida a los estatutos de la sociedad "Habitat Andina S.A.", filial de Administradora de Fondos de Pensiones Habitat S.A., consistente en el aumento del capital social de quinientos millones de pesos, dividido en un millón de acciones ordinarias y nominativas, de una misma serie y sin valor nominal, a cinco mil quinientos millones de pesos, dividido en once millones de acciones de iguales características. La modificación de estatutos fue acordada en la junta general extraordinaria de accionistas, celebrada el día 9 de julio de 2013, cuya acta se redujo a escritura pública con fecha 17 de julio de 2013, ante el Notario de Santiago, don Eduardo Avello Concha.
+
+Santiago, 30 de julio de 2013.- Solange Berstein Jáuregui, Superintendenta de Pensiones.
