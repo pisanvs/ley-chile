@@ -26,8 +26,6 @@ Caballa, Scomber japonicus pernanus
 
 Jurel, Trachurus murphyi
 
-Merluza de cola, Macruronus magellanicus
-
 Merluza de tres aletas, Micromesistius australis
 
 Agujilla, Scomberesox saurus sotolatus
