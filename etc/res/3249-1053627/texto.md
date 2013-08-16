@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE LOTES DE TERRENOS QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 3.249 de fecha 07/08/2013, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación del Lote Nº 110, retazos de terreno ubicados en la población de Padre Las Casas, de esta comuna y departamento: a) Retazo por el lado norte de dos metros de frente del sitio letra M, por cuarenta y un metros de fondo más o menos. b) Retazo de terreno anexo al anterior, que mide cinco metros de frente por el lado norte del sitio M. por cuarenta metros de fondo, más o menos. Superficie aproximada total a expropiar de 286,98 metros cuadrados, Rol de Avalúo Nº 2001-12, de la comuna de Padre Las Casas, de aparente dominio de Alejandro Marileo Curiqueo. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto y Julio Hernán Rosas Vega, constructor civil, fijó monto Indemnización Provisional en $28.045.707, según informe de fecha 15/07/2013, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
