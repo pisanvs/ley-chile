@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.352 EXENTA, DE 2013
+
+Con fecha 25 de julio de 2013, se dictó la resolución exenta Núm. 2.352, en virtud de la cual se resolvió la impugnación deducida por don Sergio Peñailillo, con fecha 28 de junio de 2013, en contra del oficio ordinario Núm. 1.411, de 19 de junio de 2013, que informa procedimiento de regularización de registros sanitarios de productos farmacéuticos con múltiples fabricantes, en los siguientes términos: Uno. Acógese el recurso de reposición deducido con fecha 28 de junio de 2013, por don Sergio Peñailillo, Director Técnico de Bestpharma S.A., en contra del oficio ordinario Núm. 1.411, de 19 de junio de 2013, en el sentido de dejar sin efecto el oficio ya individualizado. Notifíquese la presente resolución mediante su publicación en extracto en el Diario Oficial, en la edición correspondiente a los días primero o quince del mes correspondiente, o al día siguiente si fuere inhábil, al tenor de lo establecido en el artículo 58 de la ley Núm. 19.880.-
+
+Rubén Verdugo Castillo, Director (S).
