@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DEL IVA A SOCIEDAD AGRÍCOLA Y FORESTAL FUTURO S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución ex. Nº 77313021527 de fecha 01/08/2013, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Sociedad Agrícola y Forestal Futuro S.A., RUT Nº 96.986.160-7, la calidad de Agente Retenedor del Impuesto al Valor Agregado, en la comercialización de ganado vivo, establecido en la resolución ex. Nº 3.721, del 28/07/2000, de la Dirección Nacional del Servicio de Impuestos Internos.
