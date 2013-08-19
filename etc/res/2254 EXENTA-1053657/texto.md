@@ -1,0 +1,11 @@
+Por resolución exenta Nº 2.254, de 9 de agosto de 2013, de esta Subsecretaría, autorízase al CENTRO DE ESTUDIOS PESQUEROS S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo pesquería-dependiente y marcaje del Bacalao de profundidad en Chile.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en afianzar el monitoreo del proceso de pesca y sus interacciones con el ecosistema. Asimismo, consolidar al marcaje en la generación de datos para la evaluación de stock, estimación de parámetros poblacionales y análisis del ciclo vital.
+
+La pesca de investigación se efectuará en el área de la unidad de pesquería de Bacalao de profundidad declarada en régimen de desarrollo incipiente, en el área marítima de aguas exteriores comprendida entre el paralelo 47º LS y el límite de la Zona Económica Exclusiva de la XII Región, entre la fecha de publicación de la presente resolución en el Diario Oficial y hasta el 31 de diciembre de 2013, ambas fechas inclusive.
+
+En la pesca de investigación que se realizará en dos etapas: a) Primera etapa: comprendida entre la fecha de publicación de la presente resolución y hasta el 31 de agosto de 2013, ambas fechas inclusive, con la participación de la nave fábrica "Globalpesca II", la que podrá extraer mediante palangre una captura máxima total ascendente a 30 toneladas del recurso Bacalao de profundidad, las que se imputarán a la reserva de investigación de la cuota global anual de la señalada especie. b) Segunda etapa: comprendida entre el 1 de septiembre y el 31 de diciembre de 2013, ambas fechas inclusive, con la participación de otras naves industriales autorizadas para realizar actividades pesqueras extractivas en la unidad de pesquería de Bacalao de profundidad, imputándose las capturas efectuadas a los permisos extraordinarios de pesca otorgados a los armadores respectivos.
+
+Persona responsable de esta pesca de investigación, Director Ejecutivo de Cepes S.A., don Andrés Franco Henríquez.
+
+Valparaíso, 9 de agosto de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura.
