@@ -260,7 +260,7 @@ Como documento de respaldo de los gastos sólo se aceptarán boletas o facturas 
 
 <!-- parte:7300928 -->
 
-Las facturas deben emitirse a nombre dela institución beneficiaria de la subvención y en ellas deberá especificarse el detalle del gasto, con indicación de su valor unitario neto y total. Las facturas deberán presentarse canceladas por el proveedor, es decir, con su firma y fecha de cancelación.
+Las facturas deberán emitirse a nombre de la institución beneficiaria de la subvención y en ellas deberá especificarse el detalle del gasto, con indicación de su valor unitario neto y total.
 
 #### Artículo 22º
 
