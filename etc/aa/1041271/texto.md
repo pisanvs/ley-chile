@@ -270,29 +270,7 @@ El Tribunal deberá comunicar esta circunstancia a la Contraloría General de la
 
 De los procedimientos contemplados en la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional
 
-### Párrafo 1º
-
-De la elección de Consejeros Regionales.
-
-50º De la formación del Colegio Electoral. El Presidente del Tribunal procederá a confeccionar la nómina de los Concejales en ejercicio para la formación del Colegio Electoral Provincial correspondiente. Remitirá dicha nómina al Presidente de la mesa electoral provincial respectiva. Diez días antes de la fecha en que deba constituirse el Colegio Electoral, el Tribunal designará, de entre los Concejales de la provincia, por sorteo, a los miembros de la mesa que dirigirá la elección y a sus suplentes. Esta designación será notificada por carta certificada.
-
-51º Reclamaciones. Cualquier persona podrá impugnar ante el Tribunal respectivo, la elección de Consejeros Regionales, dentro de los diez días corridos siguientes a la celebración del acto electoral. Podrá reclamarse también por esta vía en contra del incumplimiento de los requisitos para ser Consejeros Regionales establecidos en los artículos 31 y 32 de la ley N° 19.175, Orgánica Constitucional de Gobierno y Administración Regional. El reclamo deberá ser fundado, contener peticiones concretas, señalar la causal por la cual se impugna el acto electoral o sus resultados y acompañar documentos fundantes de la pretensión.
-
-52º Examen de admisibilidad. El Tribunal fallará en cuenta la inadmisibilidad de la reclamación si ésta fuera interpuesta fuera de plazo, careciere de fundamentos o no contuviere peticiones concretas.
-
-53º Tramitación de la reclamación. El Tribunal conocerá la reclamación en cuenta o previa vista de la causa en caso de estimarse estrictamente necesario. Para el caso de impugnación por incumplimiento de lo dispuesto en los artículos 31 y 32 de la ley Nº 19.175, Orgánica Constitucional de Gobierno y Administración Regional, admitida a tramitación la reclamación, se dará traslado por dos días al candidato cuya impugnación se persigue. Si el candidato impugnado hiciere valer su derecho a réplica, deberá acompañar todos los documentos que le sirvan de defensa.
-
-54º Notificaciones. Las resoluciones que se dicten se notificarán por el estado diario que confeccionará el Secretario Relator, que se exhibirá en un lugar visible de la Secretaría, dejándose debida constancia en el expediente.
-
-La sentencia que declare la repetición de la elección se notificará a los Concejales correspondientes y al Director Regional del Servicio Electoral por el Secretario Relator mediante carta certificada.
-
-55º Sentencia y medidas para mejor resolver. El Tribunal deberá fallar las reclamaciones dentro del término de quince días corridos contados desde la instalación del Tribunal, pudiendo decretarse medidas para mejor resolver dentro de ese mismo término, en los casos que estime estrictamente necesario.
-
-56º Recursos. Contra la sentencia del Tribunal procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones el que deberá interponerse dentro de cinco días hábiles contados desde la notificación de la sentencia, debiendo contener fundamentos y peticiones concretas.
-
-El Tribunal comunicará al Tribunal Calificador de Elecciones, por la vía más expedita posible, la circunstancia de haberse interpuesto recurso de apelación, individualizando a las partes, candidato o candidato impugnado, y singularizando la causal o causales de impugnación o rechazo y la fecha del recurso.
-
-57º Proclamación y comunicaciones. Dentro de las cuarenta y ocho horas siguientes a que quede ejecutoriada la sentencia recaída en los reclamos o quede firme la calificación efectuada, el Tribunal proclamará a los candidatos electos y enviará copia autorizada al Intendente Regional respectivo.
+### Párrafo 1º — De la elección de Consejeros Regionales DEROGADO.-
 
 ### Párrafo 2º
 
