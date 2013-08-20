@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.817, de 18 de julio de 2013, de esta Subsecretaría, modifícase la resolución Nº 2.461 de 2011, de esta Subsecretaría, que autorizó a COMERCIAL PANAMERICANA S.A., a realizar actividades de acuicultura experimental sobre la especie Abalón rojo, en el sentido de extender el plazo para desarrollar las actividades de 48 a 60 meses.
+
+Valparaíso, 18 de julio de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
