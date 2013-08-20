@@ -16,7 +16,7 @@ Decreto:
 
 #### Artículo 1º
 
-El otorgamiento de espacios destinados a estacionamientos reservados en las calles de la comuna se regirá por lo preceptuado en el artículo 164 de la Ley de Tránsito Nº 18.290, y por las disposiciones de la presente ordenanza.
+El otorgamiento de espacios destinados a estacionamientos reservados en las calles de la comuna se regirá por lo preceptuado en el Artículo 159 de la Ley de Tránsito Nº18.290, y por las disposiciones de la presente ordenanza.
 
 #### Artículo 2º
 
