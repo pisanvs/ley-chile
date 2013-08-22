@@ -1,0 +1,5 @@
+OFICIALIZA NOMINACIÓN DE CONSEJEROS DEL CONSEJO NACIONAL DE PESCA Y ABRE PERÍODO EXTRAORDINARIO DE POSTULACIÓN
+
+Por decreto supremo Nº 82, de 6 de junio de 2013, de este Ministerio, se designa como miembros del Consejo Nacional de Pesca, en representación de las organizaciones gremiales del sector empresarial a Francisco Mujica Ortúzar, titular, y Miguel Escobar Silva, suplente, en representación de macrozona XV-II Regiones; Fernando Ayala Borgemeister, titular, y Fernando Uribe Díaz, suplente, en representación de macrozona III-IV; Carlos Vial Izquierdo, titular, Enrique Gutiérrez Fernández, suplente, en representación de macrozona XIV-XII. Se abre período extraordinario para los cargos en representación de la macrozona V-IX y de los pequeños armadores industriales.-
+
+Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
