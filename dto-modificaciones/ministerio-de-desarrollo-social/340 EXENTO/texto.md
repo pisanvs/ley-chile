@@ -14,7 +14,7 @@ Decreto:
 
 Primer subrogante: Rocío Brizuela Chehade, Jefa de División, grado 2 de la Escala Única de Sueldos, Planta de Directivos, perteneciente a la Subsecretaría de Servicios Sociales del Ministerio de Desarrollo Social.
 
-Segundo subrogante: Nelson Iván Vidal Toloza, RUN Nº 9.734.990-8, Jefe de División Administrativa, grado 2 de la EUS, Planta de Directivos perteneciente a la Subsecretaría de Servicios Sociales.
+Segundo Subrogante: Fernán Luis Lecaros Fernández, RUN Nº 15.378.879-0, Jefe de Departamento grado 5 de la EUS, Planta de Directivos perteneciente a la Subsecretaría de Servicios Sociales.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Joaquín Lavín Infante, Ministro de Desarrollo Social.
 
