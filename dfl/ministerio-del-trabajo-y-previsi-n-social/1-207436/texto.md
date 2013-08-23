@@ -1956,7 +1956,7 @@ La Inspección del Trabajo, de oficio o a petición de parte, estará especialme
 
 #### Artículo 163
 
-Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, al momento de la terminación, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
+Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
 
 A falta de esta estipulación, entendiéndose además por tal la que no cumpla con el requisito señalado en el inciso precedente, el empleador deberá pagar al trabajador una indemnización equivalente a treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, prestados continuamente a dicho empleador. Esta indemnización tendrá un límite máximo de trescientos treinta días de remuneración.
 
@@ -2084,7 +2084,7 @@ En caso de incompatibilidad, deberá pagarse al trabajador la indemnización por
 
 #### Artículo 177
 
-El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado del personal o sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador.
+El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado del personal o sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador. El finiquito deberá ser otorgado por el empleador y puesto su pago a disposición del trabajador dentro de diez días hábiles, contados desde la separación del trabajador. Las partes podrán pactar el pago en cuotas de conformidad con los artículos 63 bis y 169.
 
 Para estos efectos, podrán actuar también como ministros de fe, un notario público de la localidad, el oficial del registro civil de la respectiva comuna o sección de comuna o el secretario municipal correspondiente.
 
