@@ -34,9 +34,13 @@ De los requisitos y limitaciones
 
 #### Artículo 5
 
-La explotación comercial de estas actividades sólo se podrá realizar en los locales comerciales destinados exclusivamente a estos fines y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza y en las demás leyes, Ordenanzas y Reglamentos que les sean aplicables, las cuales serán formuladas por la Dirección de Obras Municipales y la autoridad sanitaria correspondiente, sin perjuicio que el municipio pueda autorizar otros giros afines, anexo dentro del mismo local, con la debida habilitación de la exigencia municipal. En estos locales se podrán implementar hasta 15 máquinas.
+La explotación comercial de estas actividades sólo se podrá realizar en los locales comerciales destinados exclusivamente a estos fines, entendiendo por local para estos efectos, la unidad o dependencia con rol de propiedad independiente y que cumplan con las exigencias contenidas en la Ley General de Urbanismo y Construcciones y su Ordenanza; el Plan Regulador y en las demás leyes, ordenanzas y reglamentos que les sean aplicables, las cuales serán exigidas por las entidades correspondientes.
 
-Excepcionalmente, se autorizará la explotación comercial de esta actividad, con un máximo de 3 máquinas por local, en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo patente de alcoholes. Los contribuyentes deberán cancelar por cada máquina el valor de 1 UTM semestral.
+En cada local comercial sólo se podrán implementar hasta 3 máquinas de habilidad y destreza.
+
+Excepcionalmente, se autorizará la explotación comercial de esta actividad con un máximo de tres máquinas por local en aquellos recintos que cuenten con patente comercial de rubro distinto, salvo locales que tengan patente de alcoholes.
+
+Los contribuyentes deberán pagar por cada máquina el valor de 1 UTM semestrales.
 
 #### Artículo 6
 
