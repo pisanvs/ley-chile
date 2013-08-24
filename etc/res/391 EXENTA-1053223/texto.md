@@ -20,7 +20,7 @@ Resuelvo:
 
 1) Auméntase transitoriamente el valor de avalúo por el gramo de oro de 18 kilates, utilizado en las Unidades de Crédito para el cálculo de los préstamos con garantía prendaria del rubro Alhajas, quedando como sigue:
 
-2) Téngase presente que los valores señalados en el numeral precedente, regirán sólo entre los días 29 de julio y 9 de agosto, ambos incluidos. En consecuencia, a contar del día 12 del último de los meses nombrados, la tabla de valores por gramo de oro a aplicar, será aquella utilizada en forma previa a esta modificación. Será responsabilidad de los Administradores/as su difusión entre el personal a su cargo, como así también será responsabilidad del Subdepartamento Informática hacer los ajustes que correspondan al programa OCP, para la adecuada aplicación de las instrucciones aquí impartidas.
+2) Téngase presente que los valores señalados en el numeral precedente, regirán sólo entre los días 29 de julio y 13 de agosto de 2013, ambos incluidos. En consecuencia, a contar del día 12 del último de los meses nombrados, la tabla de valores por gramo de oro a aplicar, será aquella utilizada en forma previa a esta modificación. Será responsabilidad de los Administradores/as su difusión entre el personal a su cargo, como así también será responsabilidad del Subdepartamento Informática hacer los ajustes que correspondan al programa OCP, para la adecuada aplicación de las instrucciones aquí impartidas.
 
 3) Publíquese en el Diario Oficial en conformidad a lo dispuesto en el artículo 48 letra a) de la Ley 19.880 Sobre Procedimientos Administrativos, siendo responsabilidad del Departamento Administrativo el dar cumplimiento a esta obligación.
 
