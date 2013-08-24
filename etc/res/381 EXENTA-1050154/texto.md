@@ -36,6 +36,8 @@ e) Responder todas las solicitudes efectuadas por las organizaciones, y en espec
 
 f) Facilitar el cierre de los proyectos adjudicados en los concursos conjuntamente con todos los trámites necesarios para la rendición del fondo, y aceptar las solicitudes de renuncia a los saldos a favor de las organizaciones.
 
+g) Dictar las resoluciones exentas de adjudicación de proyectos y aprobación de los convenios de ejecución suscritos por los beneficiarios.
+
 3.- Impútase el gasto efectivamente irrogado al Subtítulo 24, Ítem 03, Asignación 318, del presupuesto vigente de este Ministerio.
 
 4.- Publíquese la presente resolución exenta en el Diario Oficial y en el sitio web institucional, sin desmedro de otras medidas de publicidad que se estimare procedentes.
