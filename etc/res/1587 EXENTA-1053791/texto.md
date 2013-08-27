@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.587 EXENTA, DE 2013
+
+Por resolución exenta Nº 1.587 de 25 de julio de 2013, de la Subsecretaría de Transportes, se revoca la resolución exenta Nº 1.536, de 2013, y se modificó, asimismo, resolución exenta Nº 2.615, de 2010, de la Subsecretaría de Transportes sustituyendo el texto desde el literal c del punto 1, hasta la expresión "concesionario", de la letra c del punto 2, por siguiente texto, modificándose en consecuencia la resolución exenta Nº 1.801, de 2011, de la Subsecretaría de Transportes:
+
+- **c)** Reporte: Programa Fiscalización enviará Secretaría Regional Ministerial y División de Subsidios reporte resultado fiscalización.
+
+- **d)** Procedimiento Ajuste. Secretaría Regional Ministerial deberá efectuar y concluir procedimiento administrativo. Ajustes se efectuarán conformidad parámetros frecuencias y tarifas establecidas normativa, conforme procedimientos establecidos en numerales siguientes:
+
+- **i)** Procedimiento Ajuste según porcentaje Cumplimiento Frecuencias: Verificado en procedimiento ajuste que servicio o línea fiscalizada haya sido prestado con frecuencia menor a establecida, Secretario Regional Ministerial determinará tramos de cumplimiento de acuerdo a siguientes cuadros:
+
+En casos fiscalización servicio o línea sea realizada en más una oportunidad dentro mismo mes, se debe determinar tramo cumplimiento para cada evento, siendo porcentajes ajuste acumulativos. Medición frecuencia realizada a través tres mediciones transcurso una semana, efectuadas cada una período punta, constatare porcentaje cumplimiento igual 0%, porcentaje subsidio a pagar respectivo mes, será igual 0. ii) Procedimiento Ajuste según porcentaje Cumplimiento Tarifas: Verificado en procedimiento ajuste que servicio o línea fiscalizada fue prestado con tarifa superior a máxima vigente, Secretario Regional Ministerial deberá determinar monto a pagar, ajustando monto subsidio considerando un 5% menos del pago monto total mensual, por cada $10 de cobro adicional a tarifa máxima vigente, constatados por Programa Fiscalización. Porcentajes ajustes serán acumulativos en la medida que se detecten dos o más incumplimientos en un mes determinado. 2. Efectos ajuste. Ajuste números i y ii literal d) punto anterior, se hará efectivo en acto administrativo de transferencia fecha emisión más próxima a recepción por División de Subsidios de copias acto administrativo que dispone ajuste. Fija texto refundido resolución exenta Nº 2.615, de 2010, de Subsecretaría de Transportes. Modificaciones presente acto administrativo, se aplicarán infracciones cometidas desde 1 de agosto del año 2013.
+
+Texto íntegro de resolución en referencia estará disponible para ser consultado en página web www.subtrans.gob.cl
+
+Angélica Manríquez Ramírez, Subsecretaria de Transportes (S).
