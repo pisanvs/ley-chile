@@ -10,7 +10,7 @@ Lo dispuesto en los artículos 2°, 4° y demás pertinentes, del decreto ley N�
 
 Decreto:
 
-- Ordénese el estudio de la expropiación del inmueble individualizado como: calle Los Arrayanes, sector Parcelas de Peñablanca, de la comuna de Villa Alemana, con rol de avalúo N° 866-184 ante el Servicio de Impuestos Internos, inscrito en mayor extensión a fojas 217 vta. número 364, del Registro de Propiedad del año 1988 del Conservador de Bienes Raíces de Villa Alemana, a nombre de la sucesión de doña Elena Pérez Aranda, compuesta por don Jorge Cáceres Pérez, don Juan Jaime Cáceres Pérez y don Sergio Abel Cáceres Pérez, en una superficie aproximada de 2.400 metros cuadrados:
+- Ordénese el estudio de la expropiación del inmueble individualizado como: calle Los Arrayanes, sector Parcelas de Peñablanca, de la comuna de Villa Alemana, con rol de avalúo N° 866-184 ante el Servicio de Impuestos Internos, inscrito en mayor extensión a fojas 217 vta. número 364, del Registro de Propiedad del año 1998 del Conservador de Bienes Raíces de Villa Alemana, a nombre de la sucesión de doña Elena Pérez Aranda, compuesta por don Jorge Cáceres Pérez, don Juan Jaime Cáceres Pérez y don Sergio Abel Cáceres Pérez, en una superficie aproximada de 2.400 metros cuadrados:
 
 - Practíquense las correspondientes anotaciones marginales e inscripciones, ante el Conservador de Bienes Raíces de Villa Alemana.
 
@@ -21,5 +21,7 @@ Valentina Francisca Osorio Campusano
 Ramón Ernesto Alegría Silva
 
 Evelyn Andrea Valenzuela Rodríguez.
+
+> **Nota.** La Letra B del Decreto 1310, Municipalidad de Villa Alemana , publicada 28.08.2013, rectifica la presente norma en el sentido de indicar, que también son herederos en el inmueble, luego de fallecimiento don Sergio Abel Cáceres Pérez, las siguientes personas: su cónyuge, doña Eliana del Carmen Araya Herrera, y sus hijos legítimos, Heriberto Antonio Cáceres Araya, Rosa Eliana Cáceres Araya, Isabel Margarita Cáceres Araya y Angélica del Pilar Cáceres Araya, cuyos derechos se encuentran inscritos a fojas 631 vta. número 1.098, del Registro de Propiedad del año 2000 del Conservador de Bienes Raíces de Villa Alemana.
 
 Anótese, comuníquese, publíquese y archívese.- José Sabat Marcos, Alcalde.- Sergio Castro Quiroz, Secretario Municipal (S).
