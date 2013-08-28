@@ -16,23 +16,17 @@ Para los efectos de esta ley, se entiende por deporte aquella forma de actividad
 
 Es deber del Estado crear las condiciones necesarias para el ejercicio, fomento, protección y desarrollo de las actividades físicas y deportivas, estableciendo al efecto una política nacional del deporte orientada a la consecución de tales objetivos.
 
-El Estado promoverá las actividades anteriores a través de la prestación de servicios de fomento deportivo y de la asignación de recursos presupuestarios, distribuidos con criterios regionales y de equidad, de beneficio e impacto social directo, que faciliten el acceso de la población, especialmente niños, adultos mayores, personas en situación de discapacidad y jóvenes en edad escolar, a un mejor desarrollo físico y espiritual.
-
-#### Artículo 2 bis
-
-Se entiende por deporte adaptado para las personas en situación de discapacidad, aquella modalidad deportiva que se adecua a este grupo de personas, ajustando sus reglas o implementos para su desarrollo, así como aquellos deportes especialmente diseñados para ellos, con el fin de permitirles su práctica. Estas adecuaciones no deben implicar o conllevar la pérdida de la esencia misma del deporte.
-
-Cuando el deporte adaptado se desarrolle y practique en la forma y por deportistas señalados en el artículo 8, y bajo el amparo del Comité Paralímpico, se denominará deporte paralímpico y sus cultores, deportistas paralímpicos.
+El Estado promoverá las actividades anteriores a través de la prestación de servicios de fomento deportivo y de la asignación de recursos presupuestarios, distribuidos con criterios regionales y de equidad, de beneficio e impacto social directo, que faciliten el acceso de la población, especialmente niños, adultos mayores, discapacitados y jóvenes en edad escolar, a un mejor desarrollo físico y espiritual.
 
 #### Artículo 3º
 
-La política nacional del deporte deberá ajustarse a las disposiciones de la presente ley, reconociendo y fomentando el ejercicio del derecho de las personas a organizar, aprender, practicar, presenciar y difundir actividades físicas y deportivas. Asimismo, contemplará acciones coordinadas de la Administración del Estado y de los grupos intermedios de la sociedad destinadas a impulsar, facilitar, apoyar y fomentar tales actividades físicas y deportivas en los habitantes del territorio nacional, en comunidades urbanas y rurales, tanto para el deporte convencional como adaptado, como también a promover una adecuada ocupación de los lugares públicos y privados especialmente acondicionados para estos fines.
+La política nacional del deporte deberá ajustarse a las disposiciones de la presente ley, reconociendo y fomentando el ejercicio del derecho de las personas a organizar, aprender, practicar, presenciar y difundir actividades físicas y deportivas. Asimismo, contemplará acciones coordinadas de la Administración del Estado y de los grupos intermedios de la sociedad destinadas a impulsar, facilitar, apoyar y fomentar tales actividades físicas y deportivas en los habitantes del territorio nacional, en comunidades urbanas y rurales, como también a promover una adecuada ocupación de los lugares públicos y privados especialmente acondicionados para estos fines.
 
 La política nacional del deporte deberá velar por la autonomía de las organizaciones deportivas y la libertad de asociación, fundada en los principios de descentralización y de acción subsidiaria del Estado.
 
 #### Artículo 4º
 
-La política nacional del deporte considerará planes y programas para las siguientes modalidades, tanto en su versión convencional como adaptado:
+La política nacional del deporte considerará planes y programas para las siguientes modalidades:
 
 a) Formación para el Deporte;
 
@@ -42,25 +36,19 @@ c) Deporte de Competición, y
 
 d) Deporte de Alto Rendimiento y Proyección Internacional.
 
-Los planes y programas a que se refiere el inciso anterior contemplarán, entre otras acciones, promover la formación de profesionales y técnicos de nivel superior en disciplinas relacionadas con el deporte; promover el deporte adaptado en los establecimientos educacionales del país; promover la prestación de servicios de difusión de la cultura del deporte; de orientación técnica y metodológica para programas de actividades y competiciones deportivas; de asesoría para creación y desarrollo de organizaciones deportivas; de asesoría y formación en gestión de recintos e instalaciones deportivas; de asesoría en arquitectura deportiva; de becas y cupos de participación en actividades y competiciones; de inversiones para la adquisición de terrenos, y construcción, ampliación, mejoramiento y equipamiento de recintos deportivos; de medición y evaluación periódica de la realidad deportiva nacional y de los planes y programas ejecutados en corto y mediano plazo, cuya periodicidad se determinará en el reglamento.
-
-#### Artículo 4 bis
-
-Los planes y programas de la Política Nacional del Deporte deberán asegurar a todas las personas en situación de discapacidad, incluyendo a los deportistas adaptados o paralímpicos, el derecho a la educación física, a la práctica deportiva, a la salud, al bienestar físico y mental, a la integración, al ocio y a las posibilidades que el deporte ofrece, y a contar con instalaciones adaptadas y accesibles para la práctica del deporte, de conformidad con la ley.
-
-Asimismo, las federaciones deportivas deberán adaptar sus reglamentos para regular y permitir la práctica inclusiva del deporte y promover la organización de competencias de deporte adaptado o inclusivo en todas las categorías.
+Los planes y programas a que se refiere el inciso anterior contemplarán, entre otras acciones, promover la formación de profesionales y técnicos de nivel superior en disciplinas relacionadas con el deporte; promover la prestación de servicios de difusión de la cultura del deporte; de orientación técnica y metodológica para programas de actividades y competiciones deportivas; de asesoría para creación y desarrollo de organizaciones deportivas; de asesoría y formación en gestión de recintos e instalaciones deportivas; de asesoría en arquitectura deportiva; de becas y cupos de participación en actividades y competiciones; de inversiones para la adquisición de terrenos, y construcción, ampliación, mejoramiento y equipamiento de recintos deportivos; de medición y evaluación periódica de la realidad deportiva nacional y de los planes y programas ejecutados en corto y mediano plazo, cuya periodicidad se determinará en el reglamento.
 
 #### Artículo 5º
 
 Se entiende por formación para el deporte la puesta en práctica de procesos de enseñanza y aprendizaje a cargo de profesionales o técnicos especializados vinculados a la actividad física-deportiva, cuyo objetivo es el desarrollo en las personas de aptitudes, habilidades y destrezas necesarias para la práctica de los distintos deportes; el conocimiento de los fundamentos éticos, técnicos y reglamentarios de las especialidades deportivas, y la práctica sistemática y permanente de actividades deportivas para niños, jóvenes y adultos.
 
-Los planes y programas de estudio de la educación básica y de la educación media deberán considerar los objetivos y contenidos destinados a la formación para el deporte, así como también los objetivos asociados al deporte adaptado, con el fin de obtener un enfoque inclusivo que fomente el desarrollo de éstos y aquéllos. El marco curricular de enseñanza de la educación preescolar deberá considerar contenidos destinados a enseñar el valor e importancia del deporte, sus fundamentos y a motivar e incentivar su práctica.
+Los planes y programas de estudio de la educación básica y de la educación media deberán considerar los objetivos y contenidos destinados a la formación para el deporte. El marco curricular de enseñanza de la educación preescolar deberá considerar contenidos destinados a enseñar el valor e importancia del deporte, sus fundamentos y a motivar e incentivar su práctica.
 
 A falta de los profesionales o técnicos especializados, señalados en el inciso primero de este artículo, podrán estar a cargo de los procesos de formación para el deporte, las personas con capacitación acreditada por el Instituto Nacional de Deportes de Chile y con la autorización del Ministerio del Deporte.
 
 El Ministerio de Educación establecerá un Sistema Nacional de Medición de la Calidad de la Educación Física y Deportiva para ser aplicado al finalizar la Educación Básica, debiendo consultar previamente al Ministerio del Deporte.
 
-Las instituciones de educación superior fomentarán y facilitarán la práctica del deporte por parte de sus alumnos, incluyendo a aquéllos en situación de discapacidad, además de crear becas de acceso a deportistas destacados. A ellos se deberá otorgar las facilidades necesarias a fin de hacer compatibles sus estudios con la práctica intensiva del deporte. Aquellas instituciones de este nivel que reciban subsidios o aportes del Estado, deberán establecer sistemas permanentes que permitan a los alumnos designados como seleccionados regionales o nacionales por las respectivas federaciones, hacer compatibles sus actividades académicas con los programas de entrenamiento y participación en las competiciones deportivas. La existencia de dichos sistemas será requisito obligatorio para todas las instituciones de educación superior que postulen a la asignación de recursos por parte del Instituto Nacional de Deportes de Chile destinados al financiamiento de proyectos deportivos de cualquier tipo.
+Las instituciones de educación superior fomentarán y facilitarán la práctica del deporte por parte de sus alumnos, además de crear becas de acceso a deportistas destacados. A ellos se deberá otorgar las facilidades necesarias a fin de hacer compatibles sus estudios con la práctica intensiva del deporte. Aquellas instituciones de este nivel que reciban subsidios o aportes del Estado, deberán establecer sistemas permanentes que permitan a los alumnos designados como seleccionados regionales o nacionales por las respectivas federaciones, hacer compatibles sus actividades académicas con los programas de entrenamiento y participación en las competiciones deportivas. La existencia de dichos sistemas será requisito obligatorio para todas las instituciones de educación superior que postulen a la asignación de recursos por parte del Instituto Nacional de Deportes de Chile destinados al financiamiento de proyectos deportivos de cualquier tipo.
 
 #### Artículo 6º
 
@@ -78,19 +66,17 @@ Se entiende por deporte de competición las prácticas sistemáticas de especial
 
 Se entiende por deporte de alto rendimiento y de proyección internacional aquel que implica una práctica sistemática y de alta exigencia en la respectiva especialidad deportiva.
 
-Se considerarán deportistas de alto rendimiento aquéllos que cumplan con las exigencias técnicas establecidas por el Instituto Nacional de Deportes de Chile con el Comité Olímpico de Chile, o con el Comité Paralímpico de Chile, según corresponda, y la federación nacional respectiva afiliada a cualquiera de los dos comités y, especialmente, quienes, además, integren las selecciones nacionales de cada federación.
+Se considerarán deportistas de alto rendimiento aquéllos que cumplan con las exigencias técnicas establecidas por el Instituto Nacional de Deportes de Chile con el Comité Olímpico de Chile y la federación nacional respectiva afiliada a este último y, especialmente, quienes, además, integren las selecciones nacionales de cada federación.
 
 El Instituto Nacional de Deportes de Chile desarrollará, con las federaciones deportivas nacionales, el Programa Nacional de Deporte de Alto Rendimiento, destinado a elevar el nivel y la proyección internacional del deporte nacional.
 
-Dicho Programa contemplará, entre otras, las siguientes acciones, tanto para el deporte convencional como para el adaptado:
+Dicho Programa contemplará, entre otras, las siguientes acciones:
 
-a) Detección, selección y desarrollo de personas -hombres y mujeres- dotadas de talentos deportivos, en todos los niveles, desde la educación básica; tanto para el deporte convencional como el deporte adaptado.
+a) Detección, selección y desarrollo de personas -hombres y mujeres- dotadas de talentos deportivos, en todos los niveles, desde la educación básica;
 
-b) Formación y perfeccionamiento de técnicos, entrenadores, jueces, administradores deportivos, clasificadores funcionales y profesionales ligados a la ciencia del deporte.
+b) Formación y perfeccionamiento de técnicos, entrenadores, jueces, administradores deportivos y profesionales ligados a la ciencia del deporte, y
 
 c) Creación y desarrollo de centros de entrenamiento para el alto rendimiento deportivo de nivel nacional y regional.
-
-d) Desarrollo de productos para el apoyo de la práctica deportiva de las personas en situación de discapacidad, entendiendo por tales aquellos utilizados por o para personas en situación de discapacidad, destinados a facilitar la participación en deportes adaptados.
 
 Asimismo, el Instituto Nacional de Deportes de Chile podrá participar en la constitución, administración y desarrollo de Corporaciones para el Alto Rendimiento Deportivo, de conformidad con lo establecido en el artículo 13 de la presente ley, o podrá integrarse a las ya formadas.
 
@@ -124,7 +110,7 @@ El Instituto tendrá, en especial, las siguientes funciones:
 
 a) Ejecutar las políticas destinadas al desarrollo de la actividad física y el deporte en sus diversas modalidades, en coordinación con las organizaciones deportivas, las municipalidades y los demás organismos públicos y privados pertinentes;
 
-b) Ejecutar las estrategias destinadas a difundir los valores, ideales y conocimientos relativos a la actividad física y al deporte, tanto convencional como adaptado, incentivando su práctica permanente y sistemática en todos los sectores de la población;
+b) Ejecutar las estrategias destinadas a difundir los valores, ideales y conocimientos relativos a la actividad física y al deporte, incentivando su práctica permanente y sistemática en todos los sectores de la población;
 
 c) Proporcionar orientaciones técnicas y metodológicas a las personas y organizaciones que lo soliciten, para la formulación de estrategias, planes y proyectos de desarrollo deportivo, así como para el diseño de programas de actividades físicas y deportivas en sus diferentes modalidades;
 
@@ -136,7 +122,7 @@ f) SUPRIMIDA;
 
 g) Impulsar el desarrollo de los sistemas de entrenamiento y fomento del alto rendimiento deportivo, pudiendo para este efecto integrar y participar en la formación de corporaciones privadas, o incorporarse a las ya formadas;
 
-h) Actuar como unidad técnica mandataria de otros organismos públicos en la construcción de recintos e instalaciones deportivos, funciones todas que deberán cumplirse en los términos establecidos en el artículo 16 de la ley N° 18.091. Le corresponderá, asimismo, fomentar la modernización y el desarrollo de la infraestructura deportiva nacional, así como la gestión eficiente de la capacidad instalada. Será aplicable a esta infraestructura lo dispuesto en el párrafo 1º del título IV de la ley Nº 20.422.;
+h) Actuar como unidad técnica mandataria de otros organismos públicos en la construcción de recintos e instalaciones deportivos, funciones todas que deberán cumplirse en los términos establecidos en el artículo 16 de la ley N° 18.091. Le corresponderá, asimismo, fomentar la modernización y el desarrollo de la infraestructura deportiva nacional, así como la gestión eficiente de la capacidad instalada;
 
 i) SUPRIMIDA;
 
@@ -144,15 +130,13 @@ j) Administrar los recintos e instalaciones que formen parte de su patrimonio, p
 
 k) Transferir recursos en dinero, bienes o servicios para la realización de proyectos relativos a la difusión, fomento y desarrollo de las modalidades deportivas que establece esta ley;
 
-l) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte, tanto convencional como adaptado, y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento.
-
-Estas becas no constituyen renta para ningún efecto legal;
+l) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento;
 
 m) Vincularse con organismos nacionales y, en general, con toda institución o persona cuyos objetivos se relacionen con los asuntos de su competencia y celebrar con ellos convenios para ejecutar proyectos o acciones de interés común;
 
 n) Instituir, en favor de deportistas o ex deportistas y de dirigentes o ex dirigentes deportivos nacionales, que tengan o hayan tenido destacada participación regional, nacional o internacional, según determine el reglamento respectivo, premios que podrán consistir en estímulos en dinero, con cargo al presupuesto del Instituto;
 
-ñ) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones del Comité Paralímpico de Chile, del Comité Olímpico de Chile y las federaciones vinculadas a cualquiera de estos comités que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
+ñ) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones de las federaciones nacionales y del Comité Olímpico de Chile que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
 
 o) Ejecutar las acciones y ejercer las facultades que sean necesarias para el cumplimiento de los fines que la ley le asigna, pudiendo al efecto celebrar convenios con personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado;
 
@@ -324,13 +308,11 @@ e) Un representante de las asociaciones gremiales de profesionales y técnicos d
 
 f) Un representante de las instituciones de la Defensa Nacional (Delegado Regional del Deporte Militar), con sede en la respectiva Región;
 
-g) Dos representantes con grado académico en educación física, con residencia en la respectiva Región, propuestos por el correspondiente Director Regional del Instituto;
+g) Dos representantes con grado académico en educación física, con residencia en la respectiva Región, propuestos por el correspondiente Director Regional del Instituto, y
 
-h) Un representante designado por la dirección regional respectiva del Servicio Nacional de la Mujer, y
+h) Un representante designado por la dirección regional respectiva del Servicio Nacional de la Mujer.
 
-i) Un representante de las organizaciones deportivas de deporte adaptado de la Región y un representante designado por la Dirección Regional respectiva del Servicio Nacional de la Discapacidad.
-
-Estos miembros, salvo los señalados en las letras h) e i), serán designados por el Consejo Regional del Gobierno Regional respectivo. Para tales efectos, cada uno de estos consejos regionales abrirá un período de inscripción, con el objeto de que las instituciones habilitadas para participar en los Consejos Consultivos o el respectivo Director Regional del Instituto, según corresponda, presenten postulantes a dichos cargos, en un número equivalente al señalado para cada caso en el inciso anterior.
+Estos miembros, salvo el señalado en la letra h), serán designados por el Consejo Regional del Gobierno Regional respectivo. Para tales efectos, cada uno de estos consejos regionales abrirá un período de inscripción, con el objeto de que las instituciones habilitadas para participar en los Consejos Consultivos o el respectivo Director Regional del Instituto, según corresponda, presenten postulantes a dichos cargos, en un número equivalente al señalado para cada caso en el inciso anterior.
 
 Los consejeros así nombrados durarán dos años en sus cargos, los que ejercerán ad honorem, pudiendo ser designados por nuevos períodos. Las vacantes que se produzcan serán llenadas mediante el mismo procedimiento señalado en el inciso precedente y se extenderán sólo por el tiempo que reste para completar el período del consejero que provocó la vacancia. Cesará en su cargo por el solo ministerio de la ley el consejero que faltare a más del 50% de las sesiones en un año calendario. Dicha vacancia se llenará en la forma anteriormente señalada.
 
@@ -492,8 +474,6 @@ Los primeros cargos de Auxiliares de los grados que se indican a continuación, 
 
 > **Nota.** NOTA 1: El artículo primero, Nº 2, del DFL 27, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos, Cargos de Exclusiva Confianza, del Instituto del Servicio Nacional de Deportes de Chile.
 
-> **Nota.** NOTA 2 El artículo primero, Nº 2, del DFL 12, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5°, en la Planta de personal de Directivos de Exclusiva Confianza, del Instituto del Servicio Nacional de Deportes de Chile.
-
 #### Artículo 29
 
 Para el ingreso y promoción en los cargos y plantas establecidos en el artículo precedente, deberán cumplirse los siguientes requisitos:
@@ -544,27 +524,13 @@ d) Consejo local de deportes, formado por asociaciones deportivas locales corres
 
 e) Asociación deportiva regional, formada por asociaciones locales o clubes de la respectiva Región cuando el número de éstos no permita la existencia de a lo menos tres asociaciones locales, cuyo objeto es organizar competiciones regionales y nacionales y difundir la correspondiente especialidad o modalidad deportiva;
 
-f) Federación deportiva, formada por clubes, asociaciones locales o asociaciones regionales, cuyo objeto es fomentar y difundir la práctica de sus respectivos deportes en el ámbito nacional; establecer las reglas técnicas y de seguridad relativas a dichas prácticas velando por su aplicación, y organizar la participación de sus deportistas en competiciones nacionales e internacionales en conformidad a la presente ley, sus estatutos y demás normas internas o internacionales que les sean aplicables. También se considera una federación aquella entidad que tiene por objeto promover la actividad física y el deporte en sectores específicos de la población, tales como estudiantes, miembros de las Fuerzas Armadas y de Orden y Seguridad Pública, trabajadores, personas en situación de discapacidad y otros. Los estatutos de cada federación establecerán si éstas se integrarán con clubes, asociaciones locales o asociaciones regionales;
+f) Federación deportiva nacional, formada por clubes, asociaciones locales o asociaciones regionales, cuyo objeto es fomentar y difundir la práctica de sus respectivos deportes en el ámbito nacional; establecer las reglas técnicas y de seguridad relativas a dichas prácticas velando por su aplicación, y organizar la participación de sus deportistas en competiciones nacionales e internacionales en conformidad a la presente ley, sus estatutos y demás normas internas o internacionales que les sean aplicables. También se considera una federación aquella entidad que tiene por objeto promover la actividad física y el deporte en sectores específicos de la población, tales como estudiantes, miembros de las Fuerzas Armadas y de Orden y Seguridad Pública, trabajadores, discapacitados y otros. Los estatutos de cada federación establecerán si éstas se integrarán con clubes, asociaciones locales o asociaciones regionales;
 
-g) Federación Deportiva Nacional: Es aquella Federación Deportiva que cumple con los siguientes requisitos:
+g) Confederación deportiva, formada por dos o más federaciones para fines específicos, permanentes o circunstanciales;
 
-1.- Estar afiliada a una Federación Deportiva Internacional reconocida por el Comité Olímpico Internacional, o bien, estar reconocida como tal por resolución fundada de la Dirección Nacional del Instituto, de acuerdo al interés público comprometido y al grado de implantación de la disciplina respectiva en el país.
+h) Comité Olímpico de Chile, formado por federaciones deportivas nacionales y otras entidades que determinen sus estatutos, y
 
-2.- Estar integrada por clubes o asociaciones que tengan asiento en más de cinco regiones del país.
-
-3.- Estar integrada por, a lo menos, quince clubes.
-
-4.- Tener cada uno de los referidos clubes, al menos, diez deportistas que hayan participado en competiciones oficiales de la Federación en alguno de los dos años calendario anteriores.
-
-El Director Nacional del Instituto podrá, mediante resolución fundada, eximir del cumplimiento de los requisitos establecidos en los números 2 y 3 a aquellas Federaciones cuyos deportes tengan un marcado acento local. Dicha resolución determinará el número de regiones o provincias en que deberán estar constituidas tales Federaciones y la cantidad mínima de clubes que deberán integrarlas.
-
-Estas federaciones estarán obligadas a incluir en su nombre la abreviatura "FDN".
-
-h) Confederación deportiva, formada por dos o más federaciones para fines específicos, permanentes o circunstanciales;
-
-i) Comité Olímpico de Chile, formado por federaciones deportivas nacionales y otras entidades que determinen sus estatutos, y
-
-j) También serán organizaciones deportivas las corporaciones y fundaciones que consideren fines deportivos, las que podrán mantener su estructura fundacional sin necesidad de efectuar la adecuación a que se refiere el artículo 39 de la presente ley, en los casos en que el objeto de tales organizaciones se ajuste a lo prescrito en el inciso segundo de dicha norma. Del mismo modo, serán organizaciones deportivas las corporaciones y fundaciones con fines de fomento deportivo.
+i) También serán organizaciones deportivas las corporaciones y fundaciones que consideren fines deportivos, las que podrán mantener su estructura fundacional sin necesidad de efectuar la adecuación a que se refiere el artículo 39 de la presente ley, en los casos en que el objeto de tales organizaciones se ajuste a lo prescrito en el inciso segundo de dicha norma. Del mismo modo, serán organizaciones deportivas las corporaciones y fundaciones con fines de fomento deportivo.
 
 Las organizaciones deportivas deberán respetar la posición religiosa y política de sus integrantes, quedándoles prohibido toda propaganda, campaña o acto proselitista de carácter político y religioso. Asimismo, aquellas organizaciones deportivas que se constituyan en conformidad a esta ley no podrán perseguir fines de lucro.
 
@@ -577,20 +543,6 @@ Corresponderá también al Comité Olímpico de Chile organizar la participació
 El símbolo, bandera, lema, emblema e himno del Comité Olímpico Internacional, así como las denominaciones "Juegos Olímpicos", "Juegos Panamericanos", "Juegos Sudamericanos" y "Juegos del Pacífico" son de uso exclusivo del Comité Olímpico de Chile, en el territorio nacional. De igual protección gozarán la denominación "Comité Olímpico de Chile" y el emblema de esta organización.
 
 El Comité Olímpico de Chile se rige por sus estatutos y reglamentos y por las disposiciones de la Carta Olímpica que le sean aplicables, de conformidad a la legislación nacional y a los convenios internacionales.
-
-#### Artículo 33 bis
-
-El Comité Paralímpico de Chile será la máxima organización paralímpica del país. Esta entidad se regirá por sus estatutos y reglamentos, por las disposiciones de la Carta Paralímpica y por las directrices del Comité Paralímpico Internacional que les sean aplicables en conformidad con la legislación nacional y las convenciones internacionales.
-
-Su misión será fomentar la práctica del deporte paralímpico y del deporte adaptado de alto rendimiento, así como difundir sus ideales.
-
-Le corresponderá organizar la participación de los deportistas chilenos en los Juegos Paralímpicos, Parapanamericanos, Parasuramericanos y en otras competencias multideportivas internacionales patrocinadas por el Comité Paralímpico Internacional.
-
-#### Artículo 33 ter
-
-El comité señalado en el artículo anterior estará conformado por federaciones deportivas que se dediquen de manera exclusiva a la práctica del deporte adaptado en una disciplina deportiva, o por discapacidad. Del mismo modo, podrá estar integrado por federaciones deportivas que cuenten de manera inclusiva con deportistas con discapacidad, según sus estatutos.
-
-El símbolo, bandera, lema, emblema e himno del Comité Paralímpico Internacional, así como las denominaciones "Paralímpico", "Juegos Paralímpicos", "Juegos Parapanamericanos" y "Juegos Parasuramericanos" son de uso exclusivo del Comité Paralímpico de Chile, en el territorio nacional. De igual protección gozarán la denominación "Comité Paralímpico de Chile" y el emblema de esta organización.
 
 ### Párrafo 2º
 
@@ -634,8 +586,6 @@ Entre los sesenta y noventa días siguientes a la obtención de la personalidad 
 
 Tratándose de organizaciones deportivas constituidas en virtud de otros cuerpos legales, los funcionarios encargados de practicar la inscripción deberán, además, remitir copia del acta de constitución y de los estatutos, con la debida certificación de su depósito y registro, al Director Nacional del Instituto.
 
-Las Confederaciones u Organizaciones Deportivas Sudamericanas, Continentales, Internacionales o Mundiales de deportes reconocidos por el Comité Olímpico de Chile, a las cuales se encuentre afiliada una Federación Deportiva Nacional, podrán constituirse en Chile como organizaciones deportivas de acuerdo al procedimiento establecido en este Párrafo.
-
 ### Párrafo 3º
 
 De los Estatutos
@@ -664,7 +614,7 @@ i) Forma de liquidación y destino de los bienes en caso de disolución;
 
 j) Mecanismos y procedimientos de incorporación a una organización deportiva superior, y
 
-k) Periodicidad con la que deben elegir a sus dirigentes, la que no podrá exceder de cuatro años, sin perjuicio de que éstos puedan ser reelectos.
+k) Periodicidad con la que deben elegir a sus dirigentes, la que no podrá exceder de cuatro años, sin perjuicio de que éstos puedan ser reelectos, por una sola vez, por un nuevo período.
 
 Para acogerse a los beneficios de esta ley, toda organización deportiva, cualquiera sea la normativa en virtud de la cual se hubiera constituido, podrá acogerse a estatutos tipo que establecerá mediante resolución el Director Nacional del Instituto.
 
@@ -684,261 +634,9 @@ Las organizaciones deportivas que cuenten con más de cien socios, que sean pers
 
 Los integrantes de dichos organismos serán elegidos, en una sola votación, sobre la base de cédulas únicas que consignarán los candidatos a los diferentes cargos de cada organismo, resultando elegidos aquéllos que obtengan mayor votación. En todo caso, una misma persona no podrá postular a más de uno de dichos organismos simultáneamente.
 
-Para los efectos del presente artículo, las asambleas de las federaciones y asociaciones deportivas podrán constituirse con delegados designados anualmente por la respectiva organización a la que representan, adjuntando para tal efecto una copia del acta de nombramiento.
+Para los efectos del presente artículo, las asambleas de las federaciones deportivas nacionales se constituirán con delegados que tengan la calidad de miembros de los directorios de los clubes o asociaciones que las integren, no pudiendo delegarse esta representación en personas distintas.
 
 Ninguna federación o agrupación de ellas tendrá jurisdicción sobre los directores o miembros de otra federación en cuanto tales, salvo que los estatutos de esta última así lo contemplen expresamente.
-
-### Párrafo 4º
-
-Régimen Especial de las Federaciones Deportivas Nacionales
-
-#### Artículo 40
-
-A.- Las Federaciones Deportivas Nacionales, en adelante también "FDN", quedarán legalmente constituidas siempre que cumplan con los requisitos establecidos en la letra g) del artículo 32 y se haya practicado su inscripción en un Registro Especial que mantendrá la Dirección Nacional del Instituto para estos efectos. Perderán dicha calidad si dejan de cumplir los requisitos indicados, en cuyo caso se cancelará su inscripción, manteniendo sólo su condición de Federación Deportiva.
-
-#### Artículo 40
-
-B.- No podrá negarse la incorporación ni la permanencia en una FDN a una asociación deportiva o club que así lo requiera y que cumpla los requisitos legales, reglamentarios y estatutarios para ello.
-
-#### Artículo 40
-
-C.- Los estatutos de las FDN deberán establecer el mecanismo por el cual los deportistas federados de la respectiva especialidad designarán a una Comisión de Deportistas que los representará en la dirección federativa.
-
-Podrán ser miembros de esta Comisión los deportistas de la respectiva disciplina, en actividad o en situación de retiro, que hayan participado al menos en los Torneos Nacionales de su Deporte, categoría todo competidor, o en aquellos del programa olímpico, hasta ocho años después de su última participación.
-
-El Presidente de esta Comisión o, en su reemplazo, el delegado suplente que ella misma designe, tendrá derecho a voz y voto en las asambleas ordinarias y extraordinarias de la Federación y sólo a voz en las sesiones de su Directorio.
-
-#### Artículo 40
-
-D.- Los estatutos de las FDN deberán contemplar una Comisión Técnica compuesta por un número impar de personas no inferior a tres, que serán nombradas por el Directorio en la primera sesión que celebre después de su elección y durarán el mismo tiempo que éste.
-
-Corresponderá a la Comisión Técnica proponer al Directorio de la Federación la formación de las delegaciones de deportistas que representarán al país en las competencias internacionales. Dichas proposiciones se efectuarán con criterios exclusivamente técnicos y previa realización de competencias selectivas o clasificatorias, reglamentadas e informadas oportunamente a los deportistas.
-
-El Presidente de la Federación, con la mayoría absoluta del Directorio, podrá rechazar la propuesta y conformar una delegación distinta, siempre que también se base en criterios estrictamente técnicos y se informen los fundamentos de su decisión en la asamblea ordinaria siguiente.
-
-Dicha Comisión deberá colaborar con la Comisión Nacional de Control de Dopaje en la realización de actividades de difusión y capacitación antidopaje, así como en la coordinación de los controles preventivos a los deportistas adscritos a su Federación, especialmente a aquellos seleccionados para representar al país en competencias internacionales.
-
-#### Artículo 40
-
-E.- Las FDN deberán realizar a lo menos dos asambleas ordinarias anuales. La primera se celebrará dentro del primer cuatrimestre del año respectivo y en ella deberá tratarse la aprobación del balance, estados financieros del ejercicio anterior y la memoria del Directorio. La segunda deberá tener lugar en el último trimestre del año y en ella corresponderá aprobar el presupuesto del año siguiente y el plan de gestión anual que se implementará, incluido el calendario oficial de competencias y un informe de la Comisión Técnica sobre los criterios que se emplearán para la selección de los deportistas que participarán en las competencias internacionales.
-
-Los estatutos de las FDN deberán contemplar un sistema de votación de las asociaciones afiliadas a ellas, que sea proporcional a la cantidad de clubes que las integren.
-
-#### Artículo 40
-
-F.- Para ser elegido director de una FDN se requerirá cumplir con los siguientes requisitos:
-
-a) Ser chileno o extranjero con residencia por más de tres años en el país.
-
-b) Tener, a lo menos, veintiún años de edad.
-
-c) Acreditar que el club del que se es socio tiene un año de antigüedad en la FDN.
-
-d) No ser miembro de la Comisión Electoral de la FDN.
-
-e) Haber aprobado un curso de capacitación en materias de gestión y administración deportiva. Sólo se aceptarán aquellos cursos que hayan sido impartidos o reconocidos por el Instituto para esos efectos.
-
-Este último requisito no se exigirá a los dirigentes que acrediten estar en posesión de un título universitario o profesional de carreras de a lo menos ocho semestres de duración.
-
-Para ser elegido en los cargos de Presidente, Vicepresidente, Tesorero o Secretario General de una FDN se necesitará, además, ser director o ex director de la propia Federación o de alguna de las organizaciones que forman parte de ella.
-
-Las personas que hayan desempeñado los cargos señalados en el inciso anterior en una FDN, en cualquier calidad, durante ocho años continuos o discontinuos, no podrán ser electas ni reelectas en ningún cargo del Directorio, salvo que hubieren transcurrido, a lo menos, cuatro años desde que concluyó su último ejercicio.
-
-#### Artículo 40
-
-G.- No podrán ser directores de las FDN:
-
-a) Las personas sancionadas con inhabilidad por el Comité Nacional de Arbitraje Deportivo durante el lapso de la suspensión o privación del derecho a ser elegido.
-
-b) Las personas condenadas por infracciones contempladas en la ley Nº 19.327, que sanciona hechos de violencia en los recintos deportivos, y en la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas.
-
-c) Las personas condenadas por delitos cometidos con ocasión del ejercicio del cargo de director o miembro de una organización deportiva.
-
-d) Los fallidos o los administradores o representantes legales de personas fallidas condenadas por delitos de quiebra culpable o fraudulenta.
-
-e) Las personas condenadas por delitos que merezcan pena aflictiva, cualquiera sea la condena impuesta o efectivamente cumplida.
-
-#### Artículo 40
-
-H.- En el ejercicio de sus funciones, los directores de las FDN responderán hasta de la culpa leve por los perjuicios que causaren a su organización. El director que quiera salvar su responsabilidad por algún acto o acuerdo de su Directorio deberá dejar constancia de su oposición en el alta respectiva, de lo cual deberá darse cuenta en la siguiente asamblea ordinaria.
-
-#### Artículo 40
-
-I.- Las FDN no podrán realizar actos o celebrar contratos onerosos en que uno o más de sus directores tengan interés.
-
-Se entenderá que un director tiene interés en un acto o contrato cuando él, su cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive deban intervenir en su ejecución o celebración. Asimismo, cuando tal acción se realice mediante sociedades o empresas en las cuales él o alguna de las personas mencionadas sean directores o propietarios del diez por ciento o más de su capital.
-
-Cuando un director de la Federación sea el único oferente de un bien o servicio indispensable para el desarrollo de las actividades de la organización, el Directorio podrá acordar, por la unanimidad de sus integrantes y con exclusión del mencionado director, que se adquiera dicho bien o se contrate el referido servicio siempre que su precio se ajuste a los valores de mercado y se dé a conocer el indicado acto o contrato en la memoria que se presentará a la asamblea ordinaria siguiente.
-
-Los directores que vulneren esta prohibición serán sancionados con la inhabilitación para desempeñar el cargo de dirigente deportivo por el plazo de diez años, sin perjuicio de responder por los perjuicios ocasionados a la Federación y a terceros.
-
-#### Artículo 40
-
-J.- A las FDN no se les aplicará el artículo 557 del Código Civil.
-
-No obstante lo anterior, ellas deberán llevar contabilidad completa de sus operaciones. Su balance anual deberá ser auditado por una entidad inscrita en el Registro de Auditores Externos de la Superintendencia de Valores y Seguros. Dicho balance, los estados financieros y la memoria del Directorio deberán hacerse llegar a las respectivas organizaciones de base por cualquier medio apto, con a lo menos quince días de anticipación a la fecha de la asamblea que debe pronunciarse sobre ellos, debiendo además publicarse en lugares visibles en la sede de la Federación o en el sitio electrónico de ésta, con la misma anticipación.
-
-Sin perjuicio de las facultades de fiscalización y supervigilancia permanentes del Instituto, las FDN deberán, en el mes de mayo de cada año, remitirle una copia del balance del año inmediatamente anterior, de los estados financieros y del informe de resultado de la auditoría externa correspondientes. Mientras no sea enviada esta información, el Instituto no transferirá nuevos fondos a la respectiva Federación Deportiva Nacional. Los estados financieros de las FDN serán publicados por el Instituto Nacional de Deportes en su sitio electrónico institucional.
-
-Aquellas FDN que se encuentren inhabilitadas para recibir recursos del Instituto por una causal establecida en esta ley o en sus reglamentos podrán ser sometidas a la administración externa de dichos recursos, por resolución fundada del Director Nacional del Instituto. Dicha administración la ejercerá el Comité Olímpico de Chile o un tercero nominado de común acuerdo entre el Presidente del señalado Comité y el Director Nacional del Instituto.
-
-Si la inhabilitación para recibir recursos públicos se prolongare por más de doce meses, cesará, de pleno derecho, la vigencia del Directorio de la Federación respectiva. En todo caso, el Directorio saliente deberá llamar a elección dentro de los quince días hábiles siguientes al cumplimiento del mencionado plazo, no pudiendo participar en ellas ninguno de sus miembros.
-
-Subsanada la inhabilitación, cesará la administración externa respecto de los proyectos nuevos, pero continuará en relación a los que esté ejecutando el administrador.
-
-El administrador externo podrá llevar a cabo los proyectos deportivos financiados con recursos públicos que estén en ejecución y los nuevos que correspondan a planes o programas deportivos aprobados por el Instituto para el desarrollo de la disciplina o de los deportistas.
-
-Los honorarios de los administradores externos no podrán exceder del diez por ciento del monto total de los proyectos deportivos que administren y podrán ser solventados con cargo a los recursos públicos considerados en ellos.
-
-#### Artículo 40
-
-K.- Las FDN tendrán derecho a obtener recursos del Estado para financiar los gastos necesarios para su administración, tales como remuneraciones de personal, arriendo de oficinas, gastos comunes y expensas similares, además de los gastos de traslado para la realización de sus asambleas. Asimismo, podrán obtener recursos para financiar los gastos necesarios para adquirir toda la implementación tecnológica computacional que requieran para el desarrollo de su actividad y de sus proyectos. Estos recursos se financiarán con cargo al porcentaje asignado a las FDN de las entradas del sistema de pronósticos y apuestas establecido en el artículo 90 de la ley Nº 18.768, modificado por la ley Nº 19.135 y con los recursos que el Instituto destine a este efecto, de acuerdo a su disponibilidad presupuestaria.
-
-Estas federaciones podrán organizar, producir y comercializar espectáculos deportivos de su respectivo deporte como también realizar actividades económicas relacionadas con sus fines e invertir sus recursos de la manera que acuerden sus órganos de administración. Los ingresos que se perciban sólo podrán destinarse a los fines de la Federación.
-
-Las FDN estarán exentas del Impuesto de Timbres y Estampillas contenido en el decreto ley Nº 3.475, de 1980, en todos aquellos actos y contratos que celebren para la consecución de sus fines, como igualmente de los derechos e impuestos municipales por la actividades que realicen en sus sedes.
-
-Los programas, proyectos y actividades de las FDN podrán presentarse en cualquier época al Instituto y tendrán una tramitación preferente cuando ellos se refieran a la participación de sus delegaciones en eventos internacionales o la realización en Chile de competiciones internacionales.
-
-#### Artículo 40
-
-L.- Las Federaciones Deportivas Nacionales, cualquiera sea el número de sus socios, estarán obligadas a elegir un Tribunal de Honor o Comisión de Ética, en la forma y oportunidad establecida en el artículo 40. Al menos uno de sus integrantes deberá tener el título de abogado.
-
-#### Artículo 40
-
-M.- El Comité Nacional de Arbitraje Deportivo, en adelante el "Comité", es un organismo colegiado, adscrito al Comité Olímpico de Chile, que ejercerá la potestad disciplinaria sobre las Federaciones Deportivas Nacionales.
-
-Este Comité estará integrado por cinco miembros:
-
-a) Tres miembros elegidos por el Consejo de Delegados del Comité Olímpico de Chile, debiendo dos de ellos tener el título de abogado.
-
-b) Dos miembros designados por el Director del Instituto Nacional del Deporte. Uno de ellos será seleccionado a propuesta de una terna que le presenten las organizaciones deportivas nacionales que no estén afiliadas al Comité Olímpico de Chile, las que serán convocadas por el Director Nacional para este efecto. En todo caso, a lo menos uno de los designados deberá tener el título de abogado.
-
-El Comité tendrá, asimismo, cinco integrantes suplentes designados de la misma forma que los titulares.
-
-En caso de inhabilidad, implicancia, recusación u otro motivo que impida a uno o más de sus miembros titulares conocer de un asunto, será sustituido por el suplente que hubiere sido elegido para reemplazarlo.
-
-Los miembros titulares y suplentes del Comité durarán cuatro años en sus cargos pudiendo ser designados por nuevos períodos. Las vacantes que se produzcan se proveerán de la misma manera que establece este artículo sólo por el tiempo que le reste al miembro que genera la vacante.
-
-La calidad de miembro titular o suplente del Comité será incompatible con la de cualquier cargo directivo en las organizaciones deportivas sujetas a su potestad y les afectarán las mismas inhabilidades e incompatibilidades que las establecidas para ejercer el cargo de director de ellas.
-
-#### Artículo 40
-
-N.- Los miembros titulares o suplentes del Comité tendrán derecho a percibir una dieta equivalente a tres unidades tributarias mensuales por cada audiencia a la que asistan, con un tope máximo de veinticuatro unidades tributarias mensuales por cada mes calendario, sumas que se incrementarán en un cincuenta por ciento tratándose del Presidente y Secretario del Comité.
-
-Los gastos necesarios para el funcionamiento del Comité serán financiados a través del Comité Olímpico de Chile, por medio de proyectos que el Instituto aprobará anualmente, de acuerdo a su disponibilidad presupuestaria.
-
-#### Artículo 40
-
-Ñ.- Designados sus miembros para cada período cuadrienal, el Comité se instalará en una sesión pública dentro de los treinta días siguientes contados desde el último nombramiento, en la cual procederán a elegir de entre ellos un Presidente y un Secretario-Relator que será, a la vez, Ministro de Fe de sus actuaciones.
-
-El Presidente y el Secretario del Comité durarán dos años en sus cargos, al término de los cuales se elegirá, de la misma manera, a quienes los sucederán en los dos años siguientes.
-
-El Comité no podrá sesionar ni adoptar acuerdos sin la concurrencia de la mayoría de sus miembros.
-
-#### Artículo 40
-
-O.- Los miembros del Comité cesarán en sus cargos por las siguientes causales:
-
-1.- Renuncia aceptada por el Comité.
-
-2.- Expiración del plazo de su nombramiento.
-
-3.- Postulación a un cargo de elección popular.
-
-4.- Por haber sido condenado a una pena de crimen o simple delito.
-
-5.- Por haber sido nombrado en un cargo incompatible, en los términos previstos en el inciso final del artículo 40 M.
-
-#### Artículo 40
-
-P.- El Comité tendrá las siguientes funciones y atribuciones:
-
-1.- Velar por el correcto funcionamiento de los Tribunales de Honor o Comisiones de Ética de las Federaciones Deportivas Nacionales, pudiendo impartirles instrucciones para que corrijan los problemas que observe en su labor.
-
-2.- Conocer los reclamos por las faltas o abusos que cometan los miembros de los Tribunales de Honor o Comisiones de Ética en el desempeño de sus funciones.
-
-3.- Conocer de las solicitudes de revisión que se formulen respecto de las resoluciones definitivas dictadas por los Tribunales de Honor o Comisiones de Ética de las FDN, referidas a las siguientes materias:
-
-a) Incumplimiento de normas de ética, probidad o disciplina deportivas.
-
-b) Actuaciones que impliquen vulneración arbitraria de los derechos de los deportistas.
-
-En el ejercicio de estas facultades el Comité podrá dejar sin efecto o modificar resoluciones y, además, requerir a la Federación respectiva la remoción de uno o más de los integrantes de dichos tribunales o comisiones.
-
-4.- Resolver, en única instancia, de oficio o a petición de la parte afectada, las faltas señaladas en las letras a) y b) del número 3 precedente, si por cualquier causa la respectiva FDN no hubiere constituido su Tribunal de Honor o Comisión de Ética.
-
-La competencia del Comité se extenderá a las infracciones que se produzcan en competencias nacionales o internacionales reconocidas o autorizadas por una FDN.
-
-Los estatutos de las FDN y los de las asociaciones o clubes que las integren deberán contemplar expreso reconocimiento y adscripción a la potestad del Comité.
-
-#### Artículo 40
-
-Q.- Podrán recurrir al Comité Nacional de Arbitraje Deportivo los dirigentes deportivos, directivos, deportistas, personal de apoyo de los mismos, entrenadores, técnicos, oficiales, árbitros o personal administrativo de las Federaciones o de las organizaciones afiliadas a ellas.
-
-Asimismo, podrán requerir la intervención del Comité el Instituto y el Comité Olímpico de Chile cuando tomaren conocimiento de faltas a la ética, a la probidad o a la disciplina deportiva cometidas por personas que pertenezcan a una organización sometida a la potestad disciplinaria del Comité Nacional de Arbitraje Deportivo.
-
-#### Artículo 40
-
-R.- Los procedimientos que se sustancien ante el Comité serán públicos y orales. No obstante, las partes podrán presentar minutas escritas en las que expongan los hechos invocados, las normas que se habrían vulnerado y las peticiones que se someten a consideración del Comité.
-
-Los procedimientos serán los siguientes:
-
-1.- En los casos en que se formule un reclamo en contra de la actuación de un integrante de un Tribunal de Honor o Comisión de Ética, el Comité citará a una audiencia que se realizará el quinto día hábil después de la última notificación. Ese plazo se ampliará, si la parte requerida no está en el lugar de inicio del procedimiento, con todo el aumento que corresponda en conformidad a lo previsto en el artículo 259 del Código de Procedimiento Civil.
-
-En la referida audiencia el demandado podrá formular sus descargos y solicitar que se reciba la causa a prueba.
-
-No deduciéndose oposición al reclamo o en caso de rebeldía de la parte requerida, el Comité recibirá la causa a prueba, o citará a las partes a oír su sentencia sobre el asunto sometido a su conocimiento, según lo estime conforme a derecho.
-
-La prueba se rendirá en el plazo y en la forma establecida para los incidentes en el Código de Procedimiento Civil.
-
-Vencido el término probatorio, el Comité, de inmediato, citará a las partes para oír sentencia.
-
-La sentencia deberá dictarse en el plazo de los diez días siguientes a la fecha de la resolución que citó a las partes para oír sentencia.
-
-2.- En el caso que se solicite la revisión de una decisión definitiva de un Tribunal de Honor o Comisión de Ética, dicha petición deberá formularse en el término fatal de diez días contado desde la notificación de la parte que formula la solicitud. En ella deberá contenerse los fundamentos en que se apoya y las peticiones concretas que se someten al conocimiento del Comité. Si se presenta fuera de plazo o no cumple con las referidas exigencias, el Comité la declarará inadmisible.
-
-Recibida la solicitud, el Comité requerirá informe al Tribunal de Honor o Comité de Ética correspondiente para que formule sus observaciones en el plazo máximo de cinco días. El Comité podrá pedir, además, que le remitan los antecedentes del proceso en que se dictó la resolución cuya revisión se solicita.
-
-Entregados tales antecedentes, el Comité podrá decretar medidas para mejor resolver o recibir la causa a prueba. En este último caso, la prueba se rendirá en el plazo y en la forma establecida para los incidentes en el Código de Procedimiento Civil.
-
-Ejecutadas las mencionadas medidas o vencidos los plazos para rendir la prueba, el Comité citará a las partes para oír sentencia.
-
-Si el Comité declara no haber lugar a la solicitud, devolverá los antecedentes al Tribunal de Honor o Comité de Ética correspondiente.
-
-Si acoge la solicitud del requirente, dictará una resolución de reemplazo y podrá imponer las sanciones que se establecen en el artículo siguiente.
-
-En todo lo no previsto en este artículo se aplicarán las disposiciones complementarias establecidas en un reglamento que deberá garantizar los principios de publicidad y oralidad, y demás que aseguren un debido proceso.
-
-#### Artículo 40
-
-S.- El Comité Nacional de Arbitraje Deportivo podrá imponer, de acuerdo a la gravedad y recurrencia de las infracciones cometidas, una o más de las sanciones que se indican a continuación:
-
-1.- Amonestación verbal o escrita.
-
-2.- Inhabilitación para integrar una o más delegaciones deportivas de carácter nacional o internacional.
-
-3.- Pérdida de premios, puntos, posiciones o medallas obtenidos en aquellas competencias en que se cometió la infracción y que fueron organizadas por entidades deportivas sometidas a esta ley.
-
-4.- Suspensión de los derechos estatutarios del infractor en su organización deportiva por un período de tiempo que no podrá exceder de cinco años.
-
-5.- Inhabilitación para ser elegido en cualquier cargo establecido en los estatutos de una organización deportiva o para ejercer cualquier función en ellas por un período de tiempo que no podrá exceder el establecido en el numeral anterior.
-
-6.- Destitución del cargo que se ejerce.
-
-Esta sanción se podrá imponer a la totalidad de los integrantes de un Directorio de una organización deportiva cuando cometan una infracción grave de las obligaciones que les impone esta ley.
-
-7.- Expulsión de la organización deportiva.
-
-Las resoluciones del Comité deberán ser siempre fundadas y se entenderán sin perjuicio de las facultades generales de fiscalización y supervigilancia de las organizaciones deportivas otorgadas por esta ley al Instituto. Las referidas resoluciones no serán obstáculo para hacer efectivas las eventuales responsabilidades administrativas, civiles o penales de los infractores.
-
-El Comité deberá llevar un registro de las medidas disciplinarias impuestas y su duración. Asimismo, certificará, a solicitud de las organizaciones deportivas, las anotaciones que aparezcan en él.
-
-El Directorio de una organización deportiva que no dé cumplimiento a las resoluciones del Comité perderá su vigencia en el Registro correspondiente y sus miembros quedarán inhabilitados para presentarse como candidatos a la elección de sus reemplazantes.
-
-#### Artículo 40
-
-T.- Las normas de este Párrafo no se aplicarán a la Federación de Fútbol de Chile ni a las organizaciones que la integran.
 
 ## Título IV
 
@@ -966,11 +664,9 @@ b) Fomentar y apoyar, a través de medidas específicas de financiamiento, el de
 
 c) Apoyar financieramente al deporte de competición comunal, provincial, regional y nacional;
 
-d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento;
+d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento, y
 
-e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos, y
-
-f) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte adaptado y paralímpico.
+e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos.
 
 El Instituto, con cargo al Fondo Nacional para el Fomento del Deporte, podrá complementar las donaciones del sector privado que se efectúen a proyectos concursables orientados al cumplimiento de los objetivos definidos en el presente artículo, pudiendo para ello destinarse, como máximo, un 50% del presupuesto de dicho Fondo.
 
@@ -1256,7 +952,7 @@ El Ministerio del Deporte promoverá e impulsará medidas de prevención y contr
 
 Para los efectos de lo dispuesto en el artículo precedente existirá, bajo la dependencia del Ministerio del Deporte, la Comisión Nacional de Control de Dopaje.
 
-La Comisión estará integrada por un representante del Ministro del Deporte, designado por éste, que la presidirá; un representante del Ministro de Salud, designado por éste; un representante del Instituto, designado por su Director Nacional; un representante del Comité Olímpico de Chile, designado por el Plenario de Federaciones; un representante del Comité Paralímpico de Chile, también designado por el Plenario de Federaciones, y un representante de la Sociedad Chilena de Medicina Deportiva, designado por ésta.
+La Comisión estará integrada por un representante del Ministro del Deporte, designado por éste, que la presidirá; un representante del Ministro de Salud, designado por éste; un representante del Instituto, designado por su Director Nacional; un representante del Comité Olímpico de Chile, designado por el Plenario de Federaciones, y un representante de la Sociedad Chilena de Medicina Deportiva, designado por ésta.
 
 Los integrantes de la Comisión desempeñarán estas funciones ad-honorem.
 
@@ -1266,7 +962,7 @@ Serán funciones de la Comisión, entre otras, las siguientes:
 
 a) Divulgar información sobre métodos reglamentarios y modalidades de control del uso de sustancias y grupos farmacológicos prohibidos;
 
-b) Elaborar el listado oficial de sustancias y métodos prohibidos para los entrenamientos y competencias deportivas e informarlo, en concordancia con lo dispuesto al efecto por el Comité Paralímpico Internacional, el Comité Olímpico Internacional y la Agencia Mundial Antidopaje;
+b) Elaborar el listado oficial de sustancias y métodos prohibidos para los entrenamientos y competencias deportivas e informarlo, en concordancia con lo dispuesto al efecto por el Comité Olímpico Internacional y la Agencia Mundial Antidopaje;
 
 c) Establecer las competencias deportivas oficiales, tanto de carácter nacional como las internacionales que se realicen en el país, en las cuales será obligatorio el control de dopaje, siempre que ellas cuenten con el patrocinio o apoyo financiero del Instituto;
 
@@ -1276,7 +972,7 @@ e) Elaborar el reglamento que regule la realización de controles de dopaje, el 
 
 #### Artículo 72
 
-Los deportistas afiliados a federaciones deportivas nacionales que reciban aportes directos o indirectos, a través del financiamiento que el Instituto entregue al sector del deporte federado, estarán obligados a someterse a control de dopaje, ya sea como parte de los requisitos de dichos programas o a requerimiento de las propias federaciones nacionales, del Comité Olímpico de Chile, del Comité Paralímpico de Chile o de la Comisión Nacional de Control de Dopaje.
+Los deportistas afiliados a federaciones deportivas nacionales que reciban aportes directos o indirectos, a través del financiamiento que el Instituto entregue al sector del deporte federado, estarán obligados a someterse a control de dopaje, ya sea como parte de los requisitos de dichos programas o a requerimiento de las propias federaciones nacionales, del Comité Olímpico de Chile o de la Comisión Nacional de Control de Dopaje.
 
 Los análisis destinados a la detección y comprobación de prácticas prohibidas, deberán realizarse en laboratorios homologados por los organismos deportivos internacionales correspondientes. En el caso de carecer de dicha homologación, su reconocimiento lo entregará la Comisión Nacional de Control de Dopaje, previa evaluación de las condiciones científicas, técnicas y metodológicas que lo garanticen.
 
