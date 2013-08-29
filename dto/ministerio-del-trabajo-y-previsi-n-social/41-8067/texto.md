@@ -110,9 +110,11 @@ e) Con los intereses que generen los préstamos que pueda otorgar;
 
 f) Con las comisiones que perciba en virtud de los convenios que celebre con terceros para el otorgamiento de beneficios a sus afiliados;
 
-g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor, y
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor.
 
-h) Con los demás bienes o recursos que obtenga a cualquier título.
+h) Con los excedentes generados por sus Servicios Dependientes, y
+
+i) Con los demás bienes o recursos que obtenga a cualquier título.
 
 #### Artículo 10°
 
@@ -192,7 +194,7 @@ El Consejo Administrativo determinará anualmente los montos, plazos, el interé
 
 - **d)** precedentes, y para los préstamos de la letra
 
-- **c)** no podrá ser superior a 8 meses.
+- **c)** no podrá ser superior a 12 meses.
 
 #### Artículo 14°
 
@@ -236,11 +238,37 @@ Los profesionales que laboren en las clínicas médicas o dentales del Servicio 
 
 En caso de atención brindada por el Servicio, los afiliados tendrán derecho a solicitar fotocopias de sus fichas médicas o dentales, exámenes y diagnósticos radiográficos.
 
-#### Artículo 20°
+#### Artículo 20º
+
+<!-- parte:9372135 -->
+
+El Servicio de Bienestar podrá contratar, por cuenta y cargo del respectivo imponente, seguros de cesantía, de desgravamen, de accidentes personales, de incendio y robo, tanto en beneficio de sus afiliados como de sus cargas.
+
+#### Artículo 21º
+
+<!-- parte:9372136 -->
+
+El Servicio de Bienestar podrá adquirir bienes y contratar servicios, con fondos propios o de sus Servicios Dependientes, con el objeto de transferirlos posteriormente a sus afiliados, a las cargas de éstos y a otros funcionarios del Ministerio de Vivienda y Urbanismo y de los Servicios de Vivienda y Urbanización.
+
+#### Artículo 22º
+
+<!-- parte:9372137 -->
+
+El Servicio de Bienestar podrá explotar comercialmente sus Servicios Dependientes, permitiendo su uso por terceras personas en períodos de baja utilización por parte de los afiliados, fijando para tales efectos una tarifa superior a la que rige para sus afiliados.
+
+#### Artículo 23º
+
+<!-- parte:9372138 -->
+
+El Servicio de Bienestar, de acuerdo a sus disponibilidades presupuestarias, podrá financiar actividades relacionadas con la implementación, difusión y gestiones protocolares necesarias para la materialización de los programas financiados con aportes facultativos del Servicio".
+
+#### Artículo 24°
 
 <!-- parte:9030728 -->
 
 Las referencias que en este Reglamento se hacen al "Servicio", al "Consejo" y al "Reglamento General", deben entenderse hechas al "Servicio de Bienestar del Ministerio de Vivienda y Urbanismo y de los Servicios de Vivienda y Urbanización Regionales y Metropolitano", al "Consejo Administrativo" del mismo Servicio de Bienestar, y al Reglamento General para los Servicios de Bienestar fiscalizados por la Superintendencia de Seguridad Social aprobado por Decreto Supremo N° 28, de 1994, del Ministerio del Trabajo y Previsión Social, respectivamente; y el empleo de la sigla "Serviu" debe entenderse referida a dichos Servicios de Vivienda y Urbanización.
+
+Para los efectos del presente Reglamento se entenderá por "Servicios Dependientes" los siguientes: Colonia de Veraneo de Pelancura, Casa y Departamento de Huéspedes, Hogares Universitarios, Club de Niños y Centro Médico Dental.
 
 #### Artículo 1 transitorio
 
