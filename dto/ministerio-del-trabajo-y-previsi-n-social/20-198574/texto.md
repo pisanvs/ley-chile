@@ -190,7 +190,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 d) Educación: Se concederá una asignación de escolaridad a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básicos, básicos, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste;
 
-e) Becas de estudio: El Servicio podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar;
+e) Becas de estudio: El Servicio podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar. Asimismo, podrá otorgar el carácter de premio, monto en dinero a aquellos hijos de afiliados, cargas legales, que sean seleccionadas a través del sistema que el Consejo Administrativo determine, por destacarse por excelencia académica y/o premio al esfuerzo;
 
 f) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 10º;
 
@@ -215,6 +215,8 @@ El Servicio de Bienestar propenderá al progreso social, cultural, educacional y
 a) Financiar eventos culturales, deportivos, recreativos, festividades navideñas, actividades vacacionales y cualquier otra actividad que propenda a los fines señalados.
 
 b) Asesorar y otorgar ayuda a las organizaciones que con tales fines se formen en la Institución, y que sean de carácter social, deportivo, recreativo y/o cultural, que beneficien directamente a sus afiliados.
+
+c) El Servicio podrá celebrar y financiar, el día de la mujer, el día de la madre, del padre, del niño, de fiestas patrias y de la secretaria, para los afiliados y/o sus cargas familiares, siempre que sus disponibilidades presupuestarias lo permitan.
 
 Párrafo Tercero
 
