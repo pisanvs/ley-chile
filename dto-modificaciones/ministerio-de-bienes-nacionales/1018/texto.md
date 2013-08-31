@@ -1,0 +1,7 @@
+MODIFICA DECRETO Nº 473 EXENTO, DE 2013, EN FORMA QUE INDICA Y OTORGA NUEVO PLAZO PARA SUSCRIPCIÓN DE ESCRITURA PÚBLICA DE CONCESIÓN
+
+Mediante decreto Nº 1.018, de 26 de agosto de 2013, el Ministro de Bienes Nacionales modificó el decreto (exento) Nº 473, de 25 de marzo de 2013 que otorgó Concesión Gratuita a favor de la Organización Europea para la Investigación Astronómica en el Hemisferio Austral (ESO), RUT Nº 82.677.300-6, inmueble fiscal ubicado en el lugar denominado Cerro Armazones, comuna de Taltal, provincia de Antofagasta, Región de Antofagasta, Rol de Avalúo fiscal Nº 504-36, inscrito a nombre del Fisco en mayor cabida a fojas 850 vta. Nº 1003, en el Registro de Propiedad correspondiente al año 1965 del conservador de Bienes Raíces de Antofagasta, se encuentra singularizado en el Plano Nº 02101-8.173 C.R., con una superficie aproximada de 36.148,98 has.
+
+El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del presente decreto de modificación. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.-
+
+Alfonso Domeyko Letelier, Abogado Jefe, División Jurídica.
