@@ -1,0 +1,33 @@
+EXTRACTO ADENDA N° 2 DEL ESTUDIO DE IMPACTO AMBIENTAL "CENTRAL DE PASADA MEDITERRÁNEO" NUEVA ETAPA DE PARTICIPACIÓN CIUDADANA
+
+De acuerdo a lo resuelto por la Comisión de Evaluación de la Región de Los Lagos en su resolución exenta Nº 432, rectificada por resolución exenta Nº 433, ambas del 14 de agosto de 2013, y en conformidad con lo establecido en el inciso segundo del artículo 29 de la ley Nº 19.300 y el DS Nº 95/01 del Ministerio Secretaría General de la Presidencia, Mediterráneo S.A., RUT Nº 76.025.101-1, representada por el señor Fernando José Perramont Sánchez, RUT 8.663.534-8, ambos domiciliados en Av. Kennedy 5735, oficina 509, Las Condes, Santiago, comunica a la opinión pública la apertura de una nueva etapa de participación ciudadana, por treinta (30) días, con motivo de la introducción durante el procedimiento de evaluación del Estudio de Impacto Ambiental (EIA) "Central de Pasada Mediterráneo", en adelante el Proyecto, de una modificación sustantiva al mismo.
+
+El Proyecto se localiza administrativamente en la comuna de Cochamó, provincia de Llanquihue, Región de Los Lagos, considera la construcción y operación de una central hidroeléctrica de pasada de 210 MW de capacidad instalada (ubicada en el sector de la confluencia del río Torrentoso con el río Manso, sector denominado La Junta); y la construcción de una línea de transmisión de energía eléctrica de 63 km., de doble circuito y tensión nominal 220 kV, estimándose como monto total de la inversión, aproximadamente, la suma de US$400.000.000.
+
+En atención a observaciones formuladas al Proyecto a través del Informe Consolidado de Solicitud de Aclaraciones, Rectificaciones y Ampliaciones Nº 2, Mediterráneo S.A. presentó en la Adenda Nº 2, del procedimiento de evaluación del Proyecto, un cambio en el trazado de la línea de transmisión alta tensión, entre los sectores Lago Victoria y Las Hualas, denominada "Variante en Tramo Río Puelo". Esta modificación reemplaza el trazado original de la línea de alta tensión del Proyecto entre las estructuras Nº 118 y 154, y se extendería por 7,6 km a través de un pequeño valle, comprendido entre la Ruta V-721 y el río Puelo, evitando ser divisado desde ambos sectores. El trazado considera una faja de servidumbre de 40 metros de ancho en la mayor parte de su extensión.
+
+La variante reduce la visibilidad directa de la línea de alta tensión en más de 10 km de recorrido del río Puelo, a dos zonas puntuales de no más de 300 metros cada una, que corresponden a dos cruces sobre el río. El primero en el sector del Lago Victoria y el segundo en el sector de Las Hualas.
+
+El cruce sobre el Lago Victoria cuenta con una solución técnica que dará conectividad para sus habitantes y senderistas, toda vez que se realizaría mediante cable aislado dispuesto estratégicamente bajo una estructura colgante de tipo pasarela, que permitirá conectar los senderos ya existentes de la ribera norte del río Puelo con la Ruta V-721 y el embarcadero El Canelo en el Lago Tagua Tagua. Asimismo, la pasarela contará con una solución de cable enterrado en ambos extremos de ella, de modo que quienes crucen o naveguen por el Lago Victoria no detectarán la presencia de una línea de alta tensión en su versión convencional.
+
+El segundo cruce sobre el río Puelo, en el sector de Las Hualas, será de tipo aéreo y no considera el empleo de estructuras de soporte en el lecho del río. Estará emplazado en un sector en el que ya existen líneas eléctricas y en el que el follaje y abundante bosque en sus riberas, servirá de cortina natural a las estructuras que soporten los cables. El sector del cruce es una zona de curvas del río, sin emplazamientos de torres intermedias, con un largo vano y torres de anclaje alejadas de las orillas del río.
+
+La apertura de la franja de seguridad de la línea será de 40 m y se realizará a lo largo de praderas abiertas y zonas de bosque ya intervenido, permitiendo el libre desplazamiento del personal y equipos durante la construcción y mantención de la línea. Lo anterior permitirá disminuir a un mínimo la intervención, pues no se requerirá de la apertura de caminos o accesos adicionales a los ya existentes al área definida para el emplazamiento del proyecto.
+
+El resto de las estructuras de la variante mantendrá las características descritas en la sección 9.2 del Capítulo 1 "Descripción de Proyecto" del Estudio de Impacto Ambiental.
+
+Se realizaron campañas de levantamiento de información de línea base de los siguientes componentes en la variante: Flora-vegetación, Fauna, Arqueología, Ruido, Medio Humano, Medio Construido, Fauna íctica, Turismo y Paisaje.
+
+No se identifican impactos ambientales adicionales a los ya descritos en el Estudio de Impacto Ambiental para las etapas de construcción y operación del Proyecto. Por el contrario, se reducen los impactos y se integra de mejor manera al ambiente, toda vez que se emplaza en zonas con bosques más intervenidos y con menor visibilidad.
+
+Los antecedentes relativos a la modificación sustantiva del proyecto se encuentran contenidos en el Anexo Nº 13 de la Adenda Nº 2 del proyecto "Central de Pasada Mediterráneo", el que se encuentra a disposición de los interesados, para su consulta, en el sitio web del Servicio de Evaluación Ambiental www.sea.gob.cl y en los siguientes lugares y horarios de atención:
+
+- Servicio de Evaluación Ambiental de la Región de Los Lagos, Diego Portales 2000, oficina 401, Puerto Montt. Lunes a jueves de 8:30 a 17:30 horas y viernes de 8:30 a 16:30 horas.
+
+- Ilustre Municipalidad de Cochamó, Santiago Bueras s/n, Río Puelo. Lunes a viernes de 8:15 a 14:00 horas.
+
+- Gobernación Provincial de Llanquihue, San Martín 80, piso 3, Puerto Montt. Lunes a viernes de 8:30 a 13:00 y 14:30 a 16:00 horas.
+
+Cualquier persona, natural o jurídica, podrá formular sus observaciones al Proyecto ante el organismo competente, para lo cual dispondrá de un plazo de 30 días, contados a partir de la fecha de la presente publicación, en concordancia a lo establecido en el artículo 29 de la ley Nº 19.300. Dichas observaciones deberán formularse por escrito y contener sus fundamentos. Asimismo, dicho escrito deberá señalar, a lo menos, el nombre del proyecto o actividad de que se trata y la identificación de la persona solicitante y su domicilio.
+
+Este extracto ha sido visado por el Servicio de Evaluación Ambiental de la Región de Los Lagos, sobre la base de los antecedentes presentados por el Titular del proyecto. Lo anterior no constituye pronunciamiento por parte del referido Servicio respecto a la calificación ambiental del Proyecto.
