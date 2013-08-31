@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.357, de 23 de agosto de 2013, de esta Subsecretaría, recházanse las solicitudes números 212110014, 212105009, 209081013, 211110072 y 210121010, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 23 de agosto de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
