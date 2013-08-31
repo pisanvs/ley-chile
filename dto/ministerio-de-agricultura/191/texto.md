@@ -26,163 +26,85 @@ En la institución deberán utilizarse los modelos de Hoja de Vida, de Informe P
 
 #### Artículo 3º
 
-La calificación evaluará los factores y subfactores. Estos dos últimos se señalarán por medio de notas del 1 al 10, que tendrán las siguientes descripciones, valores y conceptos:
+El proceso de calificación evaluará factores y subfactores, los cuales se señalarán por medio de los siguientes conceptos que tendrán la siguiente puntuación:
 
-Notas Concepto Descripción
+Cada factor en la herramienta de Evaluación del Desempeño, contendrá una serie de subfactores, en los cuales el/la evaluador/a deberá marcar sólo un concepto por cada uno de ellos, lo que asignará una puntuación determinada y representada por números enteros.
 
-9-10 Optimo Generalmente su desempeño excede
+Por ejemplo:
 
-los requerimientos que exige el
+Luego, el concepto Cumple la mayoría de las veces, implica la obtención de 4 puntos para el subfactor evaluado Cumplimiento Meta Nº 1.
 
-desarrollo del cargo.
+El puntaje de cada factor corresponderá al promedio aritmético de los puntos asignados a cada subfactor que lo compone, de acuerdo al concepto respectivo y su resultado se traducirá en Categoría de Desempeño. El puntaje resultante en cada factor se expresará hasta con dos decimales y se multiplicará por diez y luego por el coeficiente de ponderación establecido para cada uno de ellos, lo que dará el número de puntos de cada factor, y la suma de los mismos dará el puntaje total y la lista de calificación que corresponda al funcionario/a. En todo caso, si el tercer decimal del puntaje final fuera igual o superior a cinco, se elevará al decimal siguiente.
 
-7-8 Bueno Su desempeño satisface completamente
-
-los requerimientos exigidos para el
-
-desarrollo del cargo.
-
-5-6 Satisfactorio Su desempeño generalmente satisface
-
-los requerimientos que exige el
-
-desarrollo del cargo.
-
-3-4 Insuficiente Su desempeño es inferior a los
-
-requerimientos que exige el
-
-desarrollo del cargo.
-
-1-2 Deficiente Su desempeño no cumple con los
-
-requerimientos que exige el
-
-desarrollo del cargo.
-
-El puntaje de cada factor corresponderá al promedio aritmético de las notas asignadas a los subfactores respectivos, las que deberán expresarse en enteros, sin decimales. El puntaje asignado a los factores se expresará hasta con dos decimales y se multiplicará por los coeficientes que se establecen para cada uno de ellos, lo que dará el número de puntos de cada factor, y la suma de los mismos dará el puntaje final y la lista de calificación que corresponda. En todo caso, si el tercer decimal del puntaje final fuera igual o superior a cinco se elevará al decimal siguiente.
-
-Ejemplo:
-
-Nota con 3 Nota aproximada
-
-decimales al decimal
-
-siguiente
-
-6.345 6.35
-
-La asignación de cada nota deberá ser fundada sólo en circunstancias acaecidas durante el período de calificación.
+La asignación de cada concepto en cada subfactor deberá ser fundada en circunstancias acaecidas durante el respectivo período de calificación.
 
 #### Artículo 4º
 
-Los funcionarios serán ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje final:
+Los funcionarios serán ubicados de acuerdo a su puntaje en una de las siguientes listas:
 
-Lista Nº Denominación Puntos
-
-1 Distinción De 81,00 a 100
-
-2 Buena De 50,00 a 80,99
-
-3 Condicional De 30,00 a 49,99
-
-4 Eliminación De 10,00 a 29,99
+..
 
 #### Artículo 5º
 
-Los factores, subfactores y conceptos que se evaluarán serán los siguientes:
+La calificación del personal del Servicio Agrícola y Ganadero considerará la evaluación de los siguientes factores y subfactores que deberán ser evaluados mediante los conceptos señalados en el artículo 3º y que tendrán una ponderación diferenciada de acuerdo a lo expresado en el artículo 6º.
 
-FACTOR 1. RENDIMIENTO.
+1. Factor de Calificación: Logro de Metas.
 
-Medirá el trabajo ejecutado y su resultado durante el período, en relación a las tareas encomendadas.
+Mide el trabajo ejecutado durante el período en relación al logro de metas definidas por el/la evaluador/a e informadas al evaluado/a al inicio del período calificatorio.
 
-a. Planificación:
+Comprende la valoración de los siguiente subfactores:
 
-El funcionario prioriza y programa sus actividades ya sea diaria, semanal o mensualmente, de acuerdo a los lineamientos institucionales y a las tareas asignadas por la jefatura.
+. Cumplimiento Meta Nº 1
 
-b. Cumplimiento:
+. Cumplimiento Meta Nº 2
 
-El funcionario ejecuta las actividades encomendadas con prontitud, dentro de los plazos fijados por las jefaturas o a requerimiento de los usuarios, ya sean internos o externos.
+. Cumplimiento Meta Nº 3
 
-c. Calidad de los trabajos:
+2. Factor de Calificación: Cumplimiento Funcionario.
 
-El funcionario demuestra asumir con responsabilidad, dedicación y corrección, la ejecución de los trabajos que se le encomiendan.
+Evalúa la actitud y conducta del funcionario/a en el cumplimiento de sus obligaciones.
 
-d. Utilización de los recursos y bienes institucionales: El funcionario en su trabajo maneja eficientemente los recursos y bienes, logrando el cumplimiento de los objetivos institucionales, sin disminuir su rendimiento laboral.
+Comprende los siguientes subfactores:
 
-FACTOR 2. CONDICIONES PERSONALES.
+3. Factores de Calificación: Conductas Transversales para el SAG.
 
-Evalúa aquellas aptitudes del funcionario vinculadas directamente con el cumplimiento de sus funciones.
+Evalúa las competencias de importancia para el Servicio Agrícola y Ganadero.
 
-a. Atención al usuario:
+Los subfactores son:
 
-El funcionario establece y mantiene un trato amable y cortés en la atención de usuarios internos y externos, orientando y entregando información adecuada y oportuna.
+a. Orientación a la Eficacia: Habilidad para gestionar recursos, atendiendo a plazos y calidad, para alcanzar los resultados y objetivos definidos.
 
-b. Perfeccionamiento:
+b. Trabajo en Equipo: Habilidad para colaborar, desarrollar y aportar a otros en el cumplimiento de objetivos y metas.
 
-El funcionario demuestra interés por perfeccionar y/o actualizar conocimientos pertinentes a su área, de manera formal e informal, aplicándolos en el ejercicio de sus funciones en beneficio de la Institución.
+#### Artículo 6°
 
-c. Relaciones interpersonales:
+Los porcentajes de ponderación por los que deberán multiplicarse los puntajes promedio de cada factor para obtener el respectivo puntaje total del funcionario/a, serán los siguientes:
 
-El funcionario demuestra interés por mantenerse integrado al grupo, colaborando en forma leal y permanente, tanto con los integrantes de su unidad como con los del Servicio en general, en beneficio de la sana convivencia.
-
-d. Iniciativa:
-
-El funcionario analiza los problemas presentados en su trabajo, busca y propone soluciones o sugerencias pertinentes.
-
-Los subfactores de las letras e), f), g) y h) que se indican a continuación, lo serán sólo para la evaluación de los directivos y jefes directos.
-
-e. Dirección:
-
-El funcionario dirige y motiva a su grupo de trabajo hacia el logro de las metas y objetivos asignados para la unidad.
-
-f. Delegación:
-
-El funcionario delega labores a personas bajo su mando, con el objeto de mejorar la rapidez y oportunidad en la resolución de los trabajos de la institución, propendiendo a incrementar la iniciativa y creatividad de sus colaboradores, sin obviar las responsabilidades propias del cargo.
-
-g. Grado de preocupación por el personal de su dependencia y capacidad para solucionar conflictos: El funcionario se preocupa por el bienestar del personal de su dependencia, y demuestra las habilidades y conocimientos necesarios que le permiten alcanzar la solución de los conflictos producidos al interior de su grupo de trabajo.
-
-h. Comunicación de información relevante:
-
-El funcionario comunica en forma oral o escrita a sus subordinados la información de que toma conocimiento en el desarrollo de su cargo, y que debe ser internalizada por el grupo de trabajo para el buen desempeño de su actividad.
-
-FACTOR 3. COMPORTAMIENTO FUNCIONARIO.
-
-Evalúa la conducta del funcionario en el cumplimiento de sus obligaciones y normas de la institución.
-
-a. Puntualidad en el cumplimiento de los horarios: El funcionario cumple con la puntualidad al inicio y término de la jornada en su lugar de trabajo.
-
-b. Permanencia:
-
-El funcionario cumple con la permanencia en el o los lugares físicos en donde desempeña sus labores asignadas.
-
-c. Cumplimiento de reglamentos, instrucciones y demás deberes estatutarios:
-
-El funcionario cumple debidamente las normas reglamentarias, deberes estatutarios, instrucciones y órdenes encomendadas por sus superiores, relativas a su cargo.
-
-#### Artículo 6º
-
-Los coeficientes por los que deberán multiplicarse las notas asignadas a cada factor para obtener el respectivo puntaje final, serán los siguientes:
-
-A.- Directivos, profesionales y técnicos
-
-a) Rendimiento 4,0
-
-b) Condiciones personales 3,5
-
-c) Comportamiento funcionario 2,5
-
-B.- Administrativos y auxiliares
-
-a) Rendimiento 4,0
-
-b) Condiciones personales 3,0
-
-c) Comportamiento funcionario 3,0
+..
 
 #### Artículo 7º
 
-Los precalificadores, con el objeto de cumplir con la evaluación respectiva conservando la debida garantía de los derechos funcionarios, emitirán dos informes parciales sobre el desempeño del personal de su dependencia. El primero, cubrirá el período comprendido entre el 1 de septiembre y el último día de febrero; y el segundo, desde el 1 de marzo al 31 de julio, los que deberán ser notificados al funcionario evaluado dentro de los diez días hábiles siguientes a la fecha de término del período informado y serán incluidos en la respectiva Hoja de Vida. En el informe de desempeño constará la notificación y toma de conocimiento por parte del funcionario evaluado, debiendo éste, si lo considera oportuno, dejar establecida, en un plazo no mayor de dos días hábiles, a contar de la fecha de la notificación, las observaciones a la correspondiente evaluación del desempeño. El jefe directo notificará la precalificación dentro de los diez primeros días hábiles del mes de septiembre.
+El período calificatorio comprenderá doce meses de desempeño funcionario, partiendo el 1 de septiembre y terminando el 31 de agosto del año siguiente.
+
+El/la Jefe/a Directo/a emitirá un informe parcial de desempeño del personal de su dependencia, el cual cubrirá el período comprendido entre el 1 de septiembre y el último día hábil de febrero del año siguiente, conservando la debida garantía de los derechos funcionarios.
+
+Dicho informe deberá ser notificado personalmente al funcionario/a evaluado/a dentro de los diez días hábiles siguientes a la fecha de término del período informado. Si el/la funcionario/a no fuere habido por dos días consecutivos en su domicilio o lugar de trabajo, se lo notificará por carta certificada, de lo cual deberá dejarse constancia.
+
+En el informe de desempeño se constatará la notificación y toma de conocimiento por parte del/la funcionario/a evaluado/a, debiendo éste/a, si lo considera oportuno, dejar establecidas por escrito, en un plazo no mayor a dos días hábiles a contar de la fecha de notificación, las observaciones a la correspondiente evaluación del desempeño.
+
+El/la Jefe/a Directo/a fijará e informará a las personas a su cargo las metas a ser evaluadas en el período de calificación, dentro de los primeros 15 días de septiembre de cada año, dejando registro escrito de éstas en la herramienta Evaluación del Desempeño. Dichas metas deberán ser coherentes con las funciones propias del cargo del/la funcionario/a evaluado/a, así como también relevantes para el logro de objetivos del Departamento/ Subdepartamento / Unidad, y se deberán indicar además los requerimientos físicos y materiales o las capacitaciones necesarias que el funcionario/a requerirá para cumplir las metas definidas.
+
+Con anterioridad a la definición de metas, la jefatura directa deberá comunicar al funcionario/a de forma clara las expectativas sobre el resultado que espera respecto del desempeño de las tareas a realizar para el cumplimiento de las metas, así como también plazos y recursos disponibles para ello.
+
+En relación a los/as funcionarios/as que se incorporen al Servicio con posterioridad a la fecha en que se establecen las metas, el/la jefe directo deberá establecerlas e informarlas al funcionario/a, en un plazo de 30 días desde el día de su incorporación al Servicio.
+
+La jefatura directa será el/la responsable de realizar las entrevistas de retroalimentación a cada funcionario/a bajo su dependencia, realizándose en primera instancia al momento de la elaboración del informe de evaluación parcial del desempeño y posteriormente en la precalificación.
+
+Las entrevistas consistirán en una reunión privada en donde se dialogará sobre el desempeño del evaluado, siendo una instancia de retroalimentación con el evaluado/a respecto a oportunidades de mejora.
+
+El/la Jefe/a Directo/a notificará la precalificación del período de calificación anterior dentro de los 15 primeros días de septiembre, del mismo modo que el informe parcial.
+
+La Junta Calificadora deberá constituirse el día 21 de septiembre o el día siguiente hábil si aquel no lo fuere, debiendo estar terminadas las calificaciones, en poder del Secretario de la Junta Calificadora para su notificación, antes del 15 de octubre de cada año.
 
 #### Artículo 8º
 
