@@ -96,6 +96,10 @@ Podrán utilizar dispositivos luminosos, fijos o giratorios, de luces intermiten
 
 - Vehículos en los que se trasladen a personas que, de acuerdo a un informe de Carabineros de Chile, requieran de protección especial.
 
+- Vehículos utilizados por el Programa de Fiscalización del Ministerio de Transportes y Telecomunicaciones, en las labores de control de tránsito por calles y caminos.
+
+- Vehículos utilizados por la Oficina Nacional de Emergencia (Onemi) que circulen para atender las emergencias, desastres y catástrofes que puedan ocurrir dentro del territorio nacional.
+
 #### Artículo 9º
 
 Los vehículos motorizados, que en su fabricación hayan sido dotados de luces de circulación diurna podrán utilizarlas.
