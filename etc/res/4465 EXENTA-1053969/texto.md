@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.465, de fecha 20 de agosto de 2013, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 13, correspondiente al inmueble ubicado en Bien Común General Dos-Tranque del Proyecto de Parcelación Fundo El Retiro, Rol de Avalúo Nº 5410-65, 5410-66, 5410-67, 5410-68, 5410-69, 5410-70, 5410-71, 5410-72 de la Comuna de San Bernardo, Región Metropolitana, de aparente dominio de Sociedad Agrícola Carracedo Limi, Zúñiga Soto José Manuel y Otros, Vainstein Rubinstein Benjamín Ca, Sociedad Inversiones Millantú Ltda, con una superficie aproximada de 504,10 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Santa Rosa Sur Extensión". La Comisión de Peritos integrada por los señores Mónica Conejeros Rudloff, Ingeniero Agrónomo; Armando Pinochet Landero, Constructor Civil; y Claudia San Martín Farto, Arquitecto, mediante informe de fecha 19 de julio de 2013, fijó la indemnización provisional por causa de la referida expropiación en la suma de $27.641.184, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
