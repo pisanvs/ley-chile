@@ -36,7 +36,7 @@ Resolución:
 
 10. Exímase a los postulantes que formen parte del Catastro Nacional de Campamentos del Ministerio de Vivienda y Urbanismo del año 2011, de la obligación de declarar ingresos en el formulario "Declaración de Núcleo Familiar y de No Propiedad Habitacional
 
-11.- Los recursos destinados a nivel nacional para la selección de los grupos postulantes ascenderán a la cantidad de 500.000 unidades de fomento.
+11.- Los recursos destinados a nivel nacional para la selección de los grupos postulantes ascenderán a la cantidad de 874.242 unidades de fomento.
 
 12.- El número de grupos seleccionados a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde, pudiendo practicarse redistribuciones, las que serán sancionadas mediante resolución.
 
