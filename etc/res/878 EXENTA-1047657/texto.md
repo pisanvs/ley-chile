@@ -156,11 +156,11 @@ Del Programa de Fiscalización Ambiental de Planes de Prevención y/o de Descont
 
 Actividades de fiscalización ambiental por región. La Superintendencia, durante el año 2013, ejecutará el siguiente programa de fiscalización ambiental, en las regiones del país en las cuales se encuentra vigente un Plan de Prevención y/o Descontaminación, y sobre la base de la siguiente asignación presupuestaria:
 
-*En virtud de lo expuesto en el artículo 16 y 17 del D.S.70 de 2010 del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como informes sean ingresados a la Superintendencia por los titulares de instalaciones que cuenten con calderas, que no sean termoeléctricas operadas con combustibles líquidos o sólidos, o panaderías que utilicen combustibles sólidos o líquidos.
+* En virtud de lo expuesto en los artículos 16 y 17 del DS 70, de 2010, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones que cuenten con calderas que no sean termoeléctricas operadas con combustibles líquidos o sólidos, o panaderías que utilicen combustibles sólidos o líquidos.
 
-** En virtud de lo expuesto en el artículo 123 del D.S. 66 de 2010 del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como informes sean ingresados a la Superintendencia por todo tipo de fuentes.
+** En virtud de lo expuesto en el artículo 123 del DS 66 de 2010, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes sean ingresados a la Superintendencia por todo tipo de fuentes.
 
-*** En virtud de lo expuesto en el artículo 23 del D.S. 78 de 2010 del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como informes sean ingresados a la Superintendencia por titulares de fuentes puntuales y grupales, o calderas de calefacción grupal.
+*** En virtud de lo expuesto en el artículo 23 del DS 78 de 2010, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes sean ingresados a la Superintendencia por titulares de fuentes puntuales y grupales, o calderas de calefacción grupal.
 
 #### Artículo QUINTO
 
@@ -203,6 +203,8 @@ Para efectos de verificar el cumplimiento del presente Subprograma, se ha consid
 #### Artículo DÉCIMO
 
 Subprograma sectorial de fiscalización ambiental de Planes de Prevención y/o Descontaminación de la Superintendencia de Electricidad y Combustibles. Durante el año 2013, la Superintendencia de Electricidad y Combustibles ejecutará el siguiente Subprograma sectorial de fiscalización de Planes de Prevención y/o Descontaminación:
+
+* Este número es variable, pues depende del total de mediciones y análisis que se hagan durante las inspecciones y muestreos en instalaciones de almacenamiento y/o expendio de combustibles.
 
 Para efectos de verificar el cumplimiento del presente Subprograma, se ha considerado como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
 

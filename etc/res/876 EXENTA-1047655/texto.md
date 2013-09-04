@@ -106,6 +106,8 @@ Del Programa de Fiscalización Ambiental de Normas de Calidad Ambiental
 
 Actividades de fiscalización ambiental por región. Durante el año 2013, la Superintendencia del Medio Ambiente ejecutará el siguiente programa de fiscalización ambiental de Normas de Calidad Ambiental, en las siguientes regiones del país, y sobre la base de la siguiente asignación presupuestaria:
 
+..
+
 #### Artículo CUARTO
 
 Indicador de desempeño. Para efectos de verificar el cumplimiento del presente Programa de Fiscalización Ambiental de Normas de Calidad Ambiental, la Superintendencia ha considerado como indicador el porcentaje de cumplimiento del programa, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental programadas para el año 2013.

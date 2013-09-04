@@ -178,13 +178,17 @@ Del Programa de Fiscalización Ambiental de Normas de Emisión
 
 Actividades de fiscalización ambiental por región. La Superintendencia, durante el año 2013, ejecutará el siguiente programa de fiscalización ambiental, según la Norma de Emisión y las regiones del país en las cuales ésta es aplicable, y sobre la base de la siguiente asignación presupuestaria:
 
-.
+..
 
-* En virtud de lo expuesto en el artículo 18 del Decreto Supremo N°4, de 1992 del MINSAL y en el artículo 4° de la Resolución 15027/94 del Ministerio de Salud, este número es variable, pues se realizarán tantos exámenes de información, como declaraciones de emisiones ingresen a la Superintendencia del Medio Ambiente.
+* De acuerdo al tenor del artículo 18 del decreto supremo Nº 4, de 1992, del Minsal, y del artículo 4° de la resolución 15.027/94 del Ministerio de Salud, este número es una estimación, pues se realizarán tantos exámenes de información como declaraciones de misiones ingresen.
 
-** En virtud de lo expuesto en el artículo 5.2, del Decreto Supremo Nº 90, de 2010, del MINSEGPRES, del artículo 13 del Decreto Supremo Nº 46, de 2010, del MINSEGPRES, y en el artículo 5º del Decreto Supremo N° 80, de 2005, del MINSEGPRES, este número es variable pues se realizarán tantos exámenes de información, como reportes sean ingresados a la Superintendencia del Medio Ambiente, por los titulares de fuentes sujetas al cumplimiento de las normas de emisión.
+** Este número no es determinable, pues corresponde a las actividades generadas en base a denuncias.
 
-*** En virtud de lo expuesto en el artículo 13 del Decreto Supremo N° 45/2007, del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como informes técnicos de instalaciones afectas, ingresen a la Superintendencia del Medio Ambiente.
+*** En virtud de lo expuesto en el artículo 5.2 del DS 90 de 2010 del Minsegpres, del artículo 13 del DS 46 de 2010 del Minsegpres y en el artículo 5 del DS 80 de 2010 del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como reportes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones sujetos al cumplimiento de las normas de emisión.
+
+**** En virtud de lo expuesto en el artículo 13 del decreto supremo Nº 45/2007, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes técnicos de instalaciones afectas ingresen a la Superintendencia del Medio Ambiente.
+
+***** Este número no es determinable, y corresponde a los exámenes de información de los informes de ensayos de validación de CEMS en termoeléctricas.
 
 #### Artículo QUINTO
 
@@ -210,7 +214,7 @@ Subprograma sectorial de fiscalización ambiental de Normas de Emisión de la Di
 
 .
 
-* En virtud de lo expuesto en el artículo 5.2 del D.S. 90, de 2010, del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como reportes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones sujetos al cumplimiento de la norma de emisión.
+* En virtud de lo expuesto en el artículo 5.2 del DS 90, de 2010, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como reportes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones sujetos al cumplimiento de la norma de emisión.
 
 Para efectos de verificar el cumplimiento del presente Subprograma, la Superintendencia considerará como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
 
@@ -222,7 +226,7 @@ Subprograma sectorial de fiscalización ambiental de Normas de Emisión del Serv
 
 .
 
-* En virtud de lo expuesto en el artículo 13 del Decreto Supremo N° 45, de 2007, del MINSEGPRES, este número es variable, pues se realizará tantos exámenes de información, como informes técnicos de instalaciones afectas, ingresen a la Superintendencia del Medio Ambiente.
+* En virtud de lo expuesto en el artículo 13 del decreto supremo Nº 45/2007, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes técnicos de instalaciones afectas ingresen a la Superintendencia del Medio Ambiente.
 
 Para efectos de verificar el cumplimiento del presente Subprograma, se ha considerado como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
 
@@ -234,19 +238,15 @@ Subprograma sectorial de fiscalización ambiental de Normas de Emisión de la Su
 
 .
 
-* En virtud de lo expuesto en el artículo 18 del Decreto Supremo N°4, de 1992 del MINSEGPRES y en el artículo 4° de la Resolución 15027/94 del Ministerio de Salud, este número es variable, pues se realizarán tantos exámenes de información, como declaraciones de emisiones ingresen a la Superintendencia del Medio Ambiente.
+* En virtud de lo expuesto en el artículo 18 del decreto supremo Nº 4 de 1992, del Minsegpres, y en el artículo 4° de la resolución 15.027/94 del Ministerio de Salud, este número es variable, pues se realizarán tantos exámenes de información como declaraciones de emisiones ingresen a la Superintendencia del Medio Ambiente.
 
-** En virtud de lo expuesto en el artículo 13 del Decreto Supremo N° 45 del 2007 del MINSEGPRES, este número es variable, pues se realizará tantos exámenes de información, como informes técnicos de instalaciones afectas, ingresen a la Superintendencia del Medio Ambiente.
+** En virtud de lo expuesto en el artículo 13 del decreto supremo Nº 45 de 2007, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como informes técnicos de instalaciones afectas ingresen a la Superintendencia del Medio Ambiente.
 
 Para efectos de verificar el cumplimiento del presente Subprograma, se ha considerado como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
 
 #### Artículo DÉCIMO
 
-PRIMERO. Subprograma sectorial de fiscalización ambiental de Normas de Emisión de la Subsecretaría de Transportes. Durante el año 2013, la Subsecretaría de Transportes ejecutará el siguiente Subprograma sectorial de fiscalización de Normas de Emisión:
-
-.
-
-Para efectos de verificar el cumplimiento del presente Subprograma, se ha considerado como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
+PRIMERO. ELIMINADO.
 
 #### Artículo DÉCIMO
 
@@ -254,7 +254,7 @@ SEGUNDO. Subprograma sectorial de fiscalización ambiental de Normas de Emisión
 
 .
 
-* En virtud de lo expuesto en el artículo 5.2 del D.S. 90 de 2010 del MINSEGPRES, del artículo 13 del D.S. 46 de 2010 del MINSEGPRES y en el artículo 5 del D.S. 80 de 2010 del MINSEGPRES, este número es variable, pues se realizarán tantos exámenes de información, como reportes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones sujetos al cumplimiento de las normas de emisión.
+* En virtud de lo expuesto en el artículo 5.2 del DS 90 de 2010, del Minsegpres; del artículo 13 del DS 46 de 2010, del Minsegpres, y en el artículo 5 del DS 80 de 2010, del Minsegpres, este número es variable, pues se realizarán tantos exámenes de información como reportes sean ingresados a la Superintendencia del Medio Ambiente por los titulares de instalaciones sujetos al cumplimiento de las normas de emisión.
 
 Para efectos de verificar el cumplimiento del presente Subprograma, se ha considerado como indicador de desempeño el porcentaje de cumplimiento del subprograma, el que se expresa como la razón entre las actividades de fiscalización ambiental realizadas, respecto de las actividades de fiscalización ambiental subprogramadas para el año 2013.
 
