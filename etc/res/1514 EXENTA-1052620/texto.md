@@ -34,7 +34,7 @@ Los médicos veterinarios de las empresas que forman parte de la respectiva agru
 
 3º COSECHA ANTICIPADA:
 
-Se deberá cumplir la planificación coordinada de cosecha, de la ACS, considerando número de peces por centro y mes, según lo indica la siguiente tabla:
+Se deberá cumplir la planificación coordinada de cosecha de la ACS 16 considerando número de peces por centro y mes, según lo indica la siguiente tabla:
 
 4º CONSIDERACIONES EN EL USO DE ACOPIO:
 
