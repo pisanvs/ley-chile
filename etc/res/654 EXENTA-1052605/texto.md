@@ -328,6 +328,8 @@ El cofinanciamiento de CORFO para la ejecución de un Nodo no podrá exceder el 
 
 La diferencia del 20% restante deberá ser cofinanciada por el Beneficiario Ejecutor y, eventualmente, por el Asociado/a.
 
+Dicho aporte podrá consistir, hasta en un 50%, en la valoración de horas hombre del personal técnico-profesional pre-existente del Beneficiario Ejecutor, destinado a la ejecución del proyecto.
+
 Con estos recursos podrán cofinanciarse todas aquellas actividades contenidas en el Plan de Trabajo, y que permitan a los/las Beneficiarios/as Atendidos/as, asociarse y vincularse con actores relevantes de la industria y fuentes de información. Tales actividades podrán ser: diagnósticos sectoriales específicos, consultorías de estudios de prospección de mercados, consultorías de acompañamiento y de articulación de redes empresariales, implementación de plataformas físicas o virtuales de vinculación, realización de seminarios, cursos o talleres, exhibiciones, ferias o actividades de promoción y difusión en terreno, entre otras, que permitan lograr los resultados esperados en el Proyecto.
 
 No se podrán cofinanciar a través de este Programa impuestos recuperables, gastos de operación ni de inversión de los Beneficiarios Atendidos del Nodo. Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los resultados esperados.
