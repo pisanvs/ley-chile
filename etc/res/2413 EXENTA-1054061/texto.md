@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.413, de 29 de agosto de 2013, de esta Subsecretaría, rectifícase la resolución exenta Nº 1.801, de 2013, que autorizó a ORIZON S.A. para ampliar actividades pesqueras extractivas con la nave "San José", en el sentido de agregar en el numeral 2º, la siguiente letra f): "f) En el área marítima comprendida desde la III a VII y IX a X Regiones, por fuera del área de reserva artesanal, con cerco, el recurso hidrobiológico Machuelo o Tritre Ethmidium maculatum.".
+
+Valparaíso, 29 de agosto de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
