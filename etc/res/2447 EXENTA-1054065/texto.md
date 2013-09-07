@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.447, de 2 de septiembre de 2013, de esta Subsecretaría, recházanse las solicitudes números Nº 210110055 sector 21, Nº 210110055 sector 12, Nº 210110055 sector 15, Nº 210110109, Nº 212101047 y Nº 212101048, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 2 de septiembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
