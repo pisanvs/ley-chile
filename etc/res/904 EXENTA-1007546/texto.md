@@ -40,6 +40,8 @@ Latino
 
 Lucky Stricke
 
+Lucky Strike Roll Your Own.
+
 Malboro
 
 Pacific
