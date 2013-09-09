@@ -152,4 +152,6 @@ PP-TZ-003, estará determinada por la normativa de los programas oficiales del S
 
 25. Todos los bovinos y bubalinos que se trasladen en el territorio nacional, deberán estar identificados con el Dispositivo de Identificación Individual Oficial (DIIO), el cual deberá estar previamente registrado en el sistema de información pecuaria del SAG, SIPECweb.
 
+26. Todos los bovinos y bubalinos nacidos a partir del 1 de septiembre del año 2013 deberán ser identificados con el Dispositivo de Identificación Individual Oficial (DIIO) con radiofrecuencia (RFID) antes de los 6 meses de vida o antes de su salida del establecimiento de origen (nacimiento).
+
 Anótese, comuníquese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
