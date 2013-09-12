@@ -206,6 +206,10 @@ i) Con los demás bienes y recursos que se obtengan a cualquier título legítim
 
 j) Con los excedentes que genere la administración de servicios dependientes.
 
+#### Artículo 17º bis
+
+Quedan comprendidas dentro de las facultades de este Servicio de Bienestar las de financiar a sus servicios dependientes, otorgar aportes para su mantención y beneficiarse de los excedentes que se produzcan en su administración, recursos que deberán ocuparse en mejorar el servicio administrado o abaratar el precio de éste.
+
 #### Artículo 18º
 
 Los fondos de Bienestar serán depositados en una cuenta corriente bancaria del Banco Estado (del Estado), contra la cual podrán girar el Contador General de la Institución y el Director de Previsión o la persona que presida el Consejo Administrativo en su reemplazo, como titulares, y como suplentes, quienes serán designados por el Jefe Superior del Servicio.
