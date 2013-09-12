@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE DE ANTOFAGASTA
+
+Por resolución SII Nº 26, de 9 de agosto de 2013, se designó a doña Jaqueline Matilde Montaño Álvarez, RUT Nº 8.682.621-6, como Secretario Titular y a don Julio César Guzmán Valenzuela, RUT Nº 6.661.006-3, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, como asimismo a don Julio César Guzmán Valenzuela, RUT Nº 6.661.006-3, como Secretario Titular y a doña Matilde Montaño Álvarez, RUT Nº 8.682.621-6 como Secretario Suplente, en el Tribunal correspondiente a la Segunda Serie, ambos con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Antofagasta.
