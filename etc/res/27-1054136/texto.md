@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE VALDIVIA
+
+Por resolución SII Nº 27, de 9 de agosto de 2013, se designó a doña María Marcia Castillo Monjes, RUT Nº 8.060.602-8, como Secretario Titular y a doña María Mirna Pozo Alvarado, RUT Nº 7.875.290-4, como secretario suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Valdivia.
