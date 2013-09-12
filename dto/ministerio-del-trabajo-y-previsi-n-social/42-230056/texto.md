@@ -240,6 +240,12 @@ i) Con los demás bienes y recursos que se obtengan a cualquier título legítim
 
 j) Con los excedentes que genere la administración de servicios dependientes.
 
+#### Artículo 17º bis
+
+<!-- parte:9373941 -->
+
+Quedan comprendidas dentro de las facultades de este Servicio de Bienestar las de financiar a sus servicios dependientes, otorgar aportes para su mantención y beneficiarse de los excedentes que se produzcan en su administración, recursos que deberán ocuparse en mejorar el servicio administrado o abaratar el precio de éste.
+
 #### Artículo 18º
 
 <!-- parte:8047406 -->
