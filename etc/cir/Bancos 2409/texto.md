@@ -10126,6 +10126,8 @@ a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se en
 
 b) Instrumentos financieros en moneda de su país de origen, emitidos o garantizados por Estados o bancos centrales de países extranjeros, siempre que los instrumentos en esas monedas estén calificados en primera categoría de riesgo por una empresa calificadora internacional, incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
 
+c) El monto de los créditos que sean objeto de la garantía estatal establecida en la Ley N° 20.027. Cabe recordar que de acuerdo a lo definido en el artículo 6 bis de la citada Ley, aquella porción del crédito que no cuente con dicha garantía se incluirá en la Categoría 5.
+
 2.3. Categoría 3.
 
 a) Créditos contra cualquier institución financiera regida por la Ley General de Bancos. Incluye préstamos interbancarios, depósitos a plazo, operaciones con pacto de retrocompra, inversiones en letras de crédito o en bonos y cualquier otro crédito contra bancos constituidos en Chile o sucursales de bancos extranjeros que operen en el país. Incluye también los equivalentes de crédito de operaciones con derivados y las exposiciones netas de provisiones de los créditos contingentes, cuando las contrapartes sean esas mismas entidades.
@@ -11297,6 +11299,8 @@ En todo caso, se entiende que no se incluyen para estos efectos los financiamien
 El mismo criterio se seguirá para asignar los instrumentos en las bandas temporales siguientes, pero su valorización debe considerar los eventuales cambios adversos en las condiciones generales del mercado. Para estos efectos no se consideran entregados en garantía los instrumentos cedidos con pacto, pudiendo por lo tanto incluirse en las bandas temporales en que dichos pactos ya no se encontrarán vigentes.
 
 Lo indicado en este N° 7 se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
+
+Por otro lado, se debe tener presente que aquellos instrumentos indicados en el número 16 del Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile, que hubiesen sido adquiridos con recursos provenientes de una colocación de bonos hipotecarios, no podrán ser computados para efectos del cumplimiento de los requerimientos de control y gestión de la posición de liquidez.
 
 8. Los instrumentos que no cumplan las condiciones para tratarlos como se indica en el N° 7 precedente, se asignarán en las bandas temporales y por los valores que correspondan a los pagos del emisor, tanto en el caso de plazos contractuales como ajustados.
 
