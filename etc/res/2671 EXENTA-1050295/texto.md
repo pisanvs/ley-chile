@@ -14,40 +14,6 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los grupos postulantes son los siguientes:
 
-Región Recursos (UF)
-
-Arica y Parinacota 77.066
-
-Tarapacá 112.480
-
-Antofagasta 101.775
-
-Atacama 136.275
-
-Coquimbo 152.490
-
-Valparaíso 126.720
-
-L. B. O'Higgins 81.696
-
-Maule 219.459
-
-Biobío 193.890
-
-Araucanía 217.925
-
-Los Ríos 133.400
-
-Los Lagos 343.227
-
-Aysén 36.064
-
-Magallanes 71.600
-
-Metropolitana 1.641.400
-
-Total País 3.735.407
-
 3. El número de grupos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Para los efectos de determinar el número de certificados de subsidio susceptibles de financiar, se considerarán los valores promedio que a continuación se indican, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de acuerdo a los montos de subsidios base y complementarios indicados en los artículos 4, 5, 6 y 7 del D.S. N° 49 (V. y U.), de 2011:
