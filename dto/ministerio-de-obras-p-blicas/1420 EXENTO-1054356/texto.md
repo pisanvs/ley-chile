@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº 1420, de 30 de agosto de 2013, se modificó el Decreto MOP. Exento Nº 661, de 30 de abril de 2013, en su numeral 6º, en el siguiente sentido, donde dice: " SUB ASIGNACION 30101509-0" , debe decir: " SUB ASIGNACION 30125021-0" . La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
