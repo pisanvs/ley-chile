@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.115 de 9 de septiembre de 2013, de Serviu Región del Maule, expropió derechos cuotativos que corresponden a rol de avalúo 1203-25 de Talca, ubicado en Las Lilas 2168 DP 5 JD Astaburuaga, propietario aparente Suc. Gutiérrez Aqueveque Pedro A, derechos que equivalen al 3,36% sobre retazo de terreno ubicado en Calle 10 Oriente B, esquina Calle 10 Norte, Talca y que forma parte del inmueble en que se emplazaba el Conjunto Habitacional Dionisio Astaburuaga, especificado como Lote 2 en el plano de expropiaciones, de una superficie de 1.919,78 metros cuadrados de terreno, y cuyos deslindes particulares son los siguientes: Norte: con calle Los Almendros; Sur: con calle 10 Norte; Oriente: con calle 10 Oriente B; y Poniente: con pasaje 10 Oriente (ex Las Lilas). Comisión peritos integrada por Carlos Luis Vega Rivera, por el ingeniero civil industrial Patricio Fernando Casagrande Ulloa, y por el ingeniero civil Juan Eduardo Salazar León, por informe de fecha 14 de diciembre de 2012 tasó el inmueble en la suma de $65.272.520.-, por lo que el monto total a consignar por 1 derecho cuotativo expropiado, reajustado conforme artículo 5 D.L. 2.186 de 1978, es la suma de $2.390.540.- que serán pagados de contado.
+
+Clarisa Ayala Arenas, Directora Serviu Región del Maule.
