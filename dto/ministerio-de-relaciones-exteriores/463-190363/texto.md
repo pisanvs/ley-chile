@@ -360,11 +360,11 @@ Los alumnos del curso de formación, cuando el plan de estudio lo contemple, pod
 
 En los casos en que sean admitidos a la Academia Diplomática alumnos que no estén en posesión de un título profesional universitario, el Director deberá aprobar un plan de estudios que considere para ellos dos semestres adicionales, los que podrán estimarse como cumplidos con un programa de especialización profundizada en un centro externo a la Academia del país o del exterior, o con una práctica adicional a las contempladas en el inciso segundo del artículo anterior y diseñada por la Dirección de la Academia y la correspondiente Dirección del Ministerio.
 
-#### Artículo 26º
+#### Artículo 26°
 
-Las asignaturas del plan de estudios procurarán un avance coherente y progresivo en la formación profesional de los alumnos. En el proceso de formación podrán participar instituciones de educación superior, profesores de éstas, funcionarios y ex funcionarios del Ministerio de Relaciones Exteriores, profesionales de otras reparticiones del Estado y expertos nacionales y extranjeros en las distintas áreas del conocimiento atingentes al plan de estudios del curso de formación. Las instituciones de educación superior serán seleccionadas por licitación pública.
+Las asignaturas del plan de estudios procurarán un avance coherente y progresivo en la formación profesional de los alumnos. En el proceso de formación participarán instituciones de educación superior, profesores de éstas, funcionarios y ex funcionarios del Ministerio de Relaciones Exteriores, profesionales de otras reparticiones del Estado y expertos en las distintas áreas del conocimiento atingentes al plan de estudios del curso de formación.
 
-La selección de las materias a impartir estará en directa relación con el perfil del egresado solicitado por la unidad encargada de los asuntos del personal.
+Las instituciones de educación superior serán seleccionadas por licitación pública y deberán realizar a lo menos el cincuenta por ciento de las asignaturas correspondientes a la malla curricular de la Academia Diplomática. La selección de las materias a impartir estará en directa relación con el perfil del egresado solicitado por la unidad encargada de los asuntos del personal.
 
 #### Artículo 27°
 
@@ -512,7 +512,7 @@ Ingresarán a la Academia Diplomática los postulantes que obtengan los primeros
 
 #### Artículo 46°
 
-Los postulantes que resulten aprobados en el Examen de Admisión serán contratados con asimilación al grado 14º de la EUS, durante el tiempo que duren sus estudios en la Academia Diplomática.
+Los postulantes que resulten aprobados en el Examen de Admisión serán contratados con asimilación al grado 16° de la E.U.S., durante el tiempo que duren sus estudios en la Academia Diplomática.
 
 Esta contratación será válida, como máximo, hasta el 31 de diciembre de cada año y podrá ser renovada.
 
@@ -590,7 +590,7 @@ Los Consejeros del Servicio Exterior deberán aprobar en la Academia un curso o 
 
 Cada Consejero deberá haber sido convocado al referido curso o seminario al cumplir cuatro años en el grado conforme a lo dispuesto en el artículo 25° del D.F.L. N°33 de 1979, del Ministerio de Relaciones Exteriores.
 
-Los cursos o seminarios incluirán una evaluación final.
+Los cursos o seminarios incluirán una tesis escrita que será defendida por el alumno en el examen final.
 
 Los Consejeros que no aprueben la exigencia académica a que se refiere este artículo serán convocados nuevamente antes de cumplir diez años en el grado y siempre que se encuentren en Chile.
 
