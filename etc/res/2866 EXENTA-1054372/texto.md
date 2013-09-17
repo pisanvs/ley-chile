@@ -1,0 +1,35 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO RECARGA DE VAPORIZADOR ELECTRÓNICO VICENT DANS LES VAPES
+
+Núm. 2.866 exenta.- Santiago, 26 de agosto de 2013.- Visto: La solicitud de determinación de régimen de control a aplicar y la documentación técnica adjunta presentada por el Sr. Leonel Morales Fuentes, de fecha 23 de mayo de 2013, respecto del producto Recarga de Vaporizador Electrónico Vicent Dans Les Vapes, mediante el cual solicita pronunciamiento sobre el régimen de control a aplicar del producto; el acuerdo de la Sesión Nº 7/13 de la Comisión de Régimen de Control Aplicable, realizada el 12 de agosto de 2013, y
+
+Considerando:
+
+Primero: Que, con fecha 13 de junio, ingresa a esta unidad solicitud del Sr. Leonel Morales Fuentes, mediante la cual solicita determinar el Régimen de Control Aplicable para los productos E-Líquido Cigarrillos Electrónicos, en la que señala que sus productos se encuentran exentos de nicotina, por lo que no clasifican de acuerdo a lo establecido en la resolución exenta Nº 2.994, de fecha 20 de octubre de 2010, en la que se clasificó a los cigarros electrónicos con nicotina como productos farmacéuticos. En la carta detalla, además, datos de cada uno de los productos, cuyos principales componentes, según señala, son propilen glicol, glicerina vegetal, aromas alimentarios y agua destilada. Los productos presentados corresponden a 3 recargas para vaporizador electrónico en solución: Vicent Dans Les Vapes, Halo y Fuel, y 2 contenedores para vaporizador electrónico: Halo G6 y EGO C Upgrade;
+
+Segundo: Que los contenedores Halo G6 y EGO C Upgrade no son clasificables, sólo se evaluaron las recargas para vaporizador electrónico en solución: Vicent Dans Les Vapes, Halo y Fuel;
+
+Tercero: El producto corresponde a una recarga de vaporizador electrónico denominado Vicent Dans Les Vapes, fabricado por SAS VDLV - Institut Européen de Chemie et Biologie, Francia (www.vdlv.fr), con un contenido por unidad de 10 mL, distribuido oficialmente en Francia por Digital Smoker. Uso previsto recarga de Vaporizador Electrónico, la ficha técnica del producto señala que se trata de una botella de polietilen tereftalato de 11 mL de contenido, con una tapa de seguridad para niños, composición: propilenglicol, glicerina vegetal, aromas alimentarios naturales y/o extractos naturales: arándano, frambuesa, cereza, mango, banana, piña, nuez de coco, manzana, durazno, mirabelle, pruncau, avellana tostada, regaliz, flor de naranjo, limón, menta frapé, pistacho, tabaco, virgina, cacao, té verde, mate verde. Contiene además etanol entre 2 y 6%, agua ultra pura Mili-Q entre un 2% y un 3%, nicotina calidad USP, originaria de China en una concentración de 0 a 1,9%. Indica como contenido base: propilen glicol, glicerina vegetal, aromas alimentarios naturales, extractos vegetales y nicotina. Indica el lugar donde se hace el análisis y la técnica usada, también el modo de conservación y recomienda no utilizar los cigarrillos con nicotina en embarazadas y en período de lactancia o en personas que presentan un riesgo cardio-vascular, a continuación señala cómo detectar la intoxicación con nicotina y medidas a tomar en caso de contacto con la piel e ingestión accidental, entre otras precauciones;
+
+Cuarto: Que de acuerdo a lo señalado en la ficha técnica anteriormente descrita el producto Vicent Dans Les Vapes contiene nicotina en una concentración hasta en un 1,9%;
+
+Quinto: Que el informe emitido en noviembre de 2008, por el Grupo de Regulación de Productos del Tabaco (WHO tob Reg), el Reporte Técnico, serie Nº 955 de 2009, de la OMS, el reporte de la FDA de Estados Unidos, emitido durante el año 2009, respecto de los resultados de un estudio analítico realizado sobre muestras comerciales de estos productos, informando el hallazgo de componentes carcinogénicos, incluso en algunas muestras rotuladas como elementos sin nicotina (Resolución exenta Nº 9.705/2007) y el comunicado de prensa de la OMS del 9 de septiembre de 2009, en el que se indica que la OMS no dispone de pruebas científicas que confirmen la seguridad y eficacia del producto;
+
+Sexto: Que la resolución exenta Nº 2.994, del 20 de octubre de 2010, que establece que el régimen que corresponde aplicar a los productos denominados genéricamente "cigarros electrónicos", sus respectivos cartridges, componentes y cualquier otro dispositivo que sea formulado sobre la base del principio activo nicotina, es propio de los productos farmacéuticos;
+
+Séptimo: Que evaluado en la Sesión Nº 7/13 de la Comisión de Régimen de Control Aplicable, realizada el 12 de agosto de 2013, de acuerdo a los antecedentes presentados por el interesado y aquellos recopilados para esta evaluación, se determinó que Recarga de Vaporizador Electrónico Vicent Dans Les Vapes contiene nicotina, por lo tanto, corresponde a un producto farmacéutico;
+
+Octavo: Que, en consecuencia, se puede concluir que Recarga de Vaporizador Electrónico Vicent Dans Les Vapes corresponde a un producto farmacéutico, y
+
+Teniendo presente: Lo dispuesto en los artículos 94º y 102º del Código Sanitario; en los artículos 8º y 9º del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3, de 2010, del Ministerio de Salud; el artículo 59º letra b), del decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado, y en uso de las facultades que me otorga la resolución exenta Nº 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Recarga de Vaporizador Electrónico Vicent Dans Les Vapes, presentado por Sr. Leonel Morales Fuentes, es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto Nº 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º del decreto Nº 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+4. Lo dispuesto en la presente resolución también será aplicable al resto de los productos que contengan el o los componentes declarados como propios de un producto farmacéutico (artículo 8º del decreto Nº 3, de 2010).
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Ximena González Frugone, Jefa Subdepartamento Registro y Autorizaciones Sanitarias (S), Agencia Nacional de Medicamentos.
