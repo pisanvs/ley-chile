@@ -206,13 +206,19 @@ a 300 metros
 
 868,175 a 868,375 MHz 25 mW
 
-902 a 928 MHz 5 mW
+902 a 928 MHz 7 mW
 
 1.920 a 1.930 MHz 70 mW
 
 2.400 a 2.483,5 MHz 5 mW
 
 17.100 17.300 MHz 400 Mw
+
+49,82 a 49,89 MHz 10 mV/m a 3 metros
+
+464,5875 a 464,7375 MHz 12 mW
+
+24,00 a 24,25 GHz 100 mW.
 
 Los equipos que operen en la banda de 1.920 - 1.930 MHz deberán emplear técnicas de selección dinámica de canales.
 
@@ -238,6 +244,8 @@ donde fC es la frecuencia central del ancho de banda a -10 dB.
 
 Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las disposiciones establecidas en el Apéndice 1 de la presente resolución y no deben ser empleados para el funcionamiento de juguetes ni operarse a bordo de aeronaves, barcos o satélites.
 
+j.6) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
+
 #### Artículo 2º
 
 Los importadores o fabricantes de cualquiera de los aparatos antes señalados, previo a venderlos o cederlos a terceros a cualquier título deberán obtener de la Subsecretaría de Telecomunicaciones, la que a su vez podrá aceptar las certificaciones de otras Administraciones de Telecomunicaciones con las cuales se haya suscrito un acuerdo de reconocimiento mutuo, un certificado que acredite que el o los aparatos cumplen con las características técnicas señaladas en la presente resolución y, por lo tanto, su uso no requiere de autorización.
@@ -249,6 +257,8 @@ Además, al solicitarse la certificación deberá demostrarse que se cumple con 
 #### Artículo 3º
 
 La operación de los aparatos o equipos de telecomunicaciones, antes señalados, no deberá provocar interferencias a servicios de concesionarias de servicios de telecomunicaciones y no estarán protegidos respecto de interferencias que eventualmente puedan recibir. En caso que los aparatos o equipos de telecomunicaciones a que se refiere la presente norma provoquen interferencias a los servicios ya referidos, dichos aparatos o equipos deberán suspender inmediatamente las transmisiones, hasta subsanar dicha situación.
+
+Adicionalmente, considerando que las frecuencias o bandas de frecuencias reguladas por la presente normativa son de uso compartido, será responsabilidad de las respectivas interesadas y de quienes instalen los equipos que éstos cuenten con los mecanismos de protección contra interferencias, que sean necesarios, para el correcto funcionamiento de los equipos y evitar eventuales daños a las personas o bienes, siendo además de su responsabilidad dar cumplimiento con las disposiciones sectoriales, que sean pertinentes, de otras Instituciones del Estado tales como Ministerio de Salud, Dirección General de Aeronáutica Civil u otra, según corresponda al tipo de aplicación del respectivo equipo.
 
 Sin perjuicio de lo anterior, la Subsecretaría de Telecomunicaciones podrá ordenar la suspensión de las transmisiones de los equipos antes señalados, cuando sus emisiones interfieran perjudicialmente a cualquier otro servicio autorizado.
 
