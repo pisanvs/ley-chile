@@ -4,7 +4,7 @@ Núm. 401.- Santiago, 30 de abril de 2013.- Visto: Lo dispuesto en el artículo 
 
 Decreto:
 
-Acéptase, a contar del 30 de abril de 2013, la renuncia voluntaria presentada a su cargo de Ministro por don Juan Pablo Longueira Montes (RUT Nº 7.044.628-6), en el Ministerio de Economía, Fomento y Turismo.
+Acéptase, a contar del 29 de abril de 2013, la renuncia voluntaria presentada a su cargo de Ministro por don Juan Pablo Longueira Montes (RUT Nº 7.044.628-6), en el Ministerio de Economía, Fomento y Turismo.
 
 Tómese razón, regístrese, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.
 
