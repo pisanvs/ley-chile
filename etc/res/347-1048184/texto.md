@@ -852,8 +852,6 @@ ERRORES DETECTADOS EN LOS DOCUMENTOS DE PAGO
 
 Los errores detectados en los documentos de pago de las DIN, que se desarrollan en este Capítulo, deberán ser corregidos a través del documento denominado "Solicitudes de Modificación de Documento Aduanero (SMDA)". Sin embargo, todos aquellos errores que no sean evidentes o manifiestos, y que sean de aquellas materias reclamables conforme al artículo 117 de la Ordenanza de Aduanas, deberán ser tramitados a través del procedimiento de reclamaciones regulado en los artículos 117 y siguientes del mismo cuerpo legal.
 
-Las Aduanas no deberán formular denuncias, en caso que la corrección del documento de pago sea solicitada por el despachador en forma de autodenuncio, sin que previamente se haya realizado respecto de la operación, un procedimiento de fiscalización que haya instruido la presentación de la Solicitud de Modificación a Documento Aduanero, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
-
 A. ERRORES DETECTADOS EN LAS DECLARACIONES DE INGRESO
 
 1. DECLARACIONES DE INGRESO CON EL DOCUMENTO DE PAGO
@@ -1026,125 +1024,91 @@ fotocopia del RUT.
 
 b) La Aduana deberá:
 
-O Revisar si procede aceptar la
+O Revisar si procede aceptar la solicitud.
 
-solicitud. Para estos efectos,
+Para estos efectos, se deberá tener
 
-se deberá tener presente que
+presente que mediante una SMDA sólo se
 
-mediante una SMDA sólo se pueden
+pueden corregir errores de tipo formal, es
 
-corregir errores de tipo formal,
+decir, que no incidan en la valoración o en
 
-es decir, que no incidan en la
-
-valoración o en la clasificación
-
-de las mercancías, salvo
+la clasificación de las mercancías, salvo
 
 un caso de error manifiesto.
 
-O Verificar la correcta confección
+O Verificar la correcta confección de la
 
-de la solicitud e ingresar sus
+solicitud e ingresar sus datos al sistema
 
-datos al sistema computacional,
+computacional, para la validación
 
-para la validación
+correspondiente. El ingreso de la solicitud
 
-correspondiente. El ingreso de
+se deberá realizar de acuerdo al
 
-la solicitud se deberá realizar
+procedimiento establecido en el Apéndice Nº
 
-de acuerdo al procedimiento
+1 de este Capítulo.
 
-establecido en el Apéndice Nº 1
+O Una vez que las modificaciones introducidas
 
-de este Capítulo.
+sean validadas y aprobadas por el sistema
 
-O Una vez que las modificaciones
+computacional, éste asignará de manera
 
-introducidas sean validadas y
+automática el número de la resolución que
 
-aprobadas por el sistema
+ordena la corrección del documento de pago
 
-computacional, éste asignará
+en los términos solicitados, el que deberá
 
-de manera automática el número
+ser señalado en los ejemplares de la SMDA
 
-de la resolución que ordena la
+por el fiscalizador a cargo de la
 
-corrección del documento de
+modificación.
 
-pago en los términos
+O Ingresar al sistema electrónico de
 
-solicitados, el que deberá ser
+denuncias, con perfil Funcionario y
 
-señalado en los ejemplares de
-
-la SMDA por el fiscalizador a
-
-cargo de la modificación.
-
-O Ingresar al sistema electrónico
-
-de denuncias, con perfil
-
-Funcionario y registrar un
-
-formulario denuncia, cuando
+registrar un formulario denuncia, cuando
 
 corresponda.
 
-O Conservar un ejemplar del
+O Conservar un ejemplar del documento
 
-documento corregido y
+corregido y archivarlo con la SMDA.
 
-archivarlo con la SMDA.
+O Tratándose de correcciones en el RUT del
 
-O Tratándose de correcciones
+consignatario, la Aduana deberá enviar a la
 
-en el RUT del consignatario,
+oficina del Servicio de Impuestos Internos
 
-la Aduana deberá enviar a
+respectiva, una copia de la declaración de
 
-la oficina del Servicio de
+ingreso y de la SMDA, para los fines
 
-Impuestos Internos respectiva,
+pertinentes.
 
-una copia de la Declaración
+O Al momento de la notificación, entregar al
 
-de Ingreso y de la SMDA para
+Despachador los ejemplares correspondientes
 
-los fines pertinentes, y,
+del documento corregido y de la SMDA
 
-adicionalmente, copia de
+aceptada.
 
-ambos documentos al Servicio
+Posteriormente, el interesado deberá concurrir
 
-de Tesorería de su respectiva
+personalmente a la oficina de la Tesorería de su
 
-jurisdicción.
+jurisdicción, presentando copia de la DIN y de la
 
-O Al momento de la notificación,
-
-entregar al Despachador los
-
-ejemplares correspondientes del
-
-documento corregido y de la
-
-SMDA aceptada.
-
-El interesado podrá concurrir
-
-personalmente a la oficina de la
-
-Tesorería de su jurisdicción, presentando
-
-copia de la DIN y de la SMDA para efectuar
-
-el desabono y abono respectivo.
+SMDA para efectuar el desabono y abono respectivo.
 
 2.1.2 Errores que implican modificación en el total
 
@@ -2076,8 +2040,6 @@ Una vez firmada la resolución que resuelve la reposición, el funcionario que c
 
 La notificación debe realizarse por carta certificada remitiéndose copia de ésta. Dicha notificación se entenderá practicada al tercer día de ser expedida, la que en todo caso deberá efectuarse antes de los 50 días hábiles contados desde su ingreso. Cuando se cuente con la dirección de correo electrónico del interesado, el funcionario encargado notificará asimismo la resolución por esta misma vía.
 
-Las Aduanas no deberán formular denuncias, en caso que la solicitud o la corrección del documento de pago sea solicitada por el despachador en forma de autodenuncio, sin que haya mediado respecto de la operación, un procedimiento de fiscalización que haya instruido la presentación de la solicitud respectiva, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
-
 2. DOCUMENTOS QUE SE ORIGINAN EN EL SERVICIO NACIONAL DE ADUANAS
 
 El Servicio Nacional de Aduanas emitirá los siguientes documentos relacionados con el sistema de pagos:
@@ -2124,83 +2086,29 @@ un acto de fiscalización- en los siguientes casos:
 
 O Errores detectados en un documento de
 
-destinación aduanera después de su legalización,
+destinación aduanera después de su
 
-cuando se determine que se cobraron menores
+legalización, cuando se determine que se
 
-derechos, impuestos, tasas o gravámenes que
+cobraron menores derechos, impuestos, tasas o
 
-los que correspondía aplicar (artículo 92 bis
+gravámenes que los que correspondía aplicar
 
-Ordenanza de Aduanas).
+(artículo 92 Ordenanza de Aduanas). Estos
 
-Estos cargos deberán ser formulados y
+cargos deberán ser formulados y notificados
 
-notificados dentro del plazo de dos años,
+dentro del plazo de un año contado desde la
 
-contado desde la fecha de la legalización de
+fecha de legalización del documento de
 
-la declaración, salvo tratándose de cargos que
+destinación respectivo, o de tres años, en caso
 
-resulten de la verificación de origen para
+de constatarse la existencia de dolo o uso de
 
-la aplicación de regímenes arancelarios
+documentación maliciosamente falsa en las
 
-preferenciales contemplados en convenios o
-
-tratados internacionales, en cuyo caso los
-
-cargos podrán formularse hasta por el plazo
-
-que los distintos acuerdos o convenios
-
-consideren para la conservación de los
-
-documentos que sirven de base al origen
-
-preferencial de las mercancías. Asimismo, en
-
-el caso de importación de mercancías que
-
-tengan la condición de bienes de capital
-
-conforme a lo dispuesto en la ley Nº 18.634,
-
-y en todos aquellos casos en que una ley
-
-especial establezca requisitos cuyo
-
-incumplimiento implique la formulación de
-
-cargos, ésta podrá ser efectuada en el plazo
-
-que dichas leyes especiales contemplen. En
-
-caso de declaraciones que amparen regímenes
-
-suspensivos de derechos, el plazo se contará
-
-desde la fecha de legalización de la
-
-declaración definitiva que cancela la
-
-declaración suspensiva.
-
-En el caso que se constatare la existencia de
-
-dolo o uso de documentación maliciosamente
-
-falsa en las declaraciones presentadas al
-
-Servicio, el plazo de dos años se ampliará a
-
-cinco.
-
-Estos cargos tendrán mérito ejecutivo y su
-
-cobro se sujetará a las normas procesales
-
-establecidas en el Código Tributario.
+declaraciones presentadas al Servicio.
 
 O Cobro de reintegros ley 18.480, ley 18.708 y
 
@@ -2534,41 +2442,35 @@ plazo de tres días hábiles.
 
 Notificación del Cargo.
 
-Diariamente los funcionarios del Subdepartamento
+Diariamente los funcionarios del Subdepartamento de
 
-de Revisión de Cargos y Denuncias que actuarán con
+Revisión de Cargos y Denuncias que actuarán con el
 
-el perfil "departamento técnico" en el sistema
+perfil "departamento técnico" en el sistema DECARE,
 
-Decare, deberán ingresar al sistema para notificar
+deberán ingresar al sistema para notificar los
 
-los cargos que se encuentren en el estado
+cargos que se encuentren en el estado "aprobados
 
-"aprobados con resolución".
+con resolución". La notificación se realizará por
 
-La notificación del cargo se deberá realizar por
+carta certificada, mediante el envío al afectado de
 
-carta certificada, mediante el envío, al
+un ejemplar del formulario de cargo y demás
 
-consignatario o importador, de un ejemplar del
+documentos del expediente digital que lo fundan. La
 
-formulario de cargo y demás documentos del
+notificación deberá efectuarse dentro de los quince
 
-expediente digital que lo fundan dirigida al
+días hábiles siguientes a la fecha de la resolución
 
-domicilio señalado en el documento de destinación
+que aprueba el cargo, la cual se entenderá
 
-aduanera, debiendo remitirse además una copia del
+practicada al tercer día de expedida dicha carta,
 
-cargo referido al despachador. La notificación
+debiendo registrarse la fecha de su envío en el
 
-deberá efectuarse dentro de los quince días hábiles
-
-siguientes a la fecha de la resolución que aprueba
-
-el cargo y se entenderá practicada al tercer día de
-
-expedida dicha carta.
+sistema.
 
 Por otra parte, si el cargo tiene denuncia asociada
 
@@ -2584,27 +2486,19 @@ numeral 2.3.1.4 y 2.3.2.7 de este capítulo.
 
 Reclamación del Cargo.
 
-Los cargos formulados por el Servicio podrán ser
+Los cargos formulados por el Servicio, de
 
-reclamados de conformidad a lo dispuesto en el
+conformidad al artículo 117º de la Ordenanza de
 
-#### Artículo 117º
+Aduanas, podrán ser reclamados dentro del plazo de
 
-de la Ordenanza de Aduanas, no siendo
+90 días hábiles contados desde la fecha de
 
-preciso para interponer la reclamación, el pago
+notificación, para cuyos efectos el interesado
 
-previo de los derechos, impuestos, tasas o
+deberá presentar ante el correspondiente Tribunal
 
-gravámenes. Estos cargos deberán ser reclamados
-
-dentro del plazo de 90 días hábiles, contados desde
-
-la fecha de notificación, para cuyos efectos, el
-
-interesado deberá presentar su reclamación ante
-
-el correspondiente Tribunal Tributario y Aduanero.
+Tributario y Aduanero su reclamación.
 
 La tramitación de ésta se deberá realizar de
 
@@ -2656,47 +2550,39 @@ presentación.
 
 Las Aduanas deberán llevar un sistema de control
 
-que les permita comprobar que los despachadores
+que les permita comprobar que los despachadores han
 
-han presentado dentro de plazo las SMDA respecto
+presentado dentro de plazo las SMDA respecto de
 
-de cargos no reclamados ni repuestos. La
+cargos no reclamados ni repuestos. La presentación
 
-presentación extemporánea de estas SMDA dará
+extemporánea de estas SMDA dará lugar a una
 
-lugar a una denuncia por infracción al artículo
+denuncia por infracción al artículo 176 de la
 
-176 de la Ordenanza de Aduanas. Por su parte,
+Ordenanza de Aduanas. Por su parte, si dentro del
 
-si dentro del plazo de 30 días hábiles contados
+plazo de 30 días hábiles contados desde la fecha de
 
-desde la fecha de expedición de la carta
+expedición de la carta certificada referida en el
 
-certificada referida en el párrafo precedente,
+párrafo precedente, el agente de aduanas no
 
-el agente de aduanas no presenta la SMDA, la
+presenta la SMDA, la Aduana deberá remitir los
 
-Aduana deberá remitir los antecedentes al
+antecedentes a la Subdirección de Fiscalización
 
-Departamento de Agentes Especiales de la
+para los efectos que el Director Nacional aplique
 
-Subdirección de Fiscalización, para los
+la jurisdicción disciplinaria de conformidad a lo
 
-efectos de que dicha unidad, encargada de
+dispuesto en el artículo 202 de la Ordenanza de
 
-efectuar una evaluación integral del
+Aduanas. Sin perjuicio de lo anterior, la Aduana
 
-comportamiento de los despachadores, determine
+deberá proceder a tramitar de inmediato la
 
-instruir a las Aduanas respecto de la apertura
-
-de expedientes disciplinarios, en caso que
-
-correspondiere. Sin perjuicio de lo anterior, la
-
-Aduana deberá proceder a tramitar de inmediato
-
-la respectiva SMDA aplicando el procedimiento
+respectiva SMDA aplicando el procedimiento
 
 establecido en el numeral 2.2. de este Capítulo.
 
@@ -2886,36 +2772,6 @@ resolución o fallo, número si corresponde y
 
 Tribunal que lo resuelve.
 
-Tratándose de recursos de reposición, relativos
-
-a solicitudes de devolución de gravámenes
-
-aduaneros, en que se deniegue total o
-
-parcialmente la restitución, la Aduana
-
-antes de ingresar y cursar la respectiva
-
-SMDA, deberá adoptar las medidas necesarias
-
-para verificar si el interesado ha deducido,
-
-dentro del plazo legal, igual pretensión ante
-
-el Tribunal Tributario y Aduanero,
-
-dirigiendo para tal efecto consulta al mismo
-
-interesado y al tribunal correspondiente. En
-
-caso afirmativo, deberá esperarse que el
-
-fallo judicial se encuentre ejecutoriado; en
-
-una situación contraria, deberá procederse
-
-a ingresar y cursar la SMDA.
-
 2.2.4. Si la resolución o fallo establece la devolución
 
 de gravámenes, el Departamento Técnico deberá
@@ -2945,10 +2801,6 @@ sentencia.
 Las denuncias serán conocidas y sancionadas según sea su cuantía, de acuerdo a los procedimientos establecidos en los artículos 185 y 186 de la Ordenanza de Aduanas o en el artículo 187 del mismo texto legal.
 
 Las denuncias deberán ser registradas en el Formulario de Denuncia que contempla el Sistema DECARE, cuya utilización será obligatoria para el registro y seguimiento de todas las denuncias que se emitan por los funcionarios del Servicio, por concepto de contravenciones, delitos aduaneros y otras infracciones cuya resolución le compete al Servicio Nacional de Aduanas en virtud de leyes especiales. El Formulario de denuncia en papel será utilizado sólo para eventos de contingencia en que no haya sistema electrónico en línea, debiendo el funcionario denunciante ingresarla en el sistema una vez repuesto éste.
-
-No obstante lo anterior, las Aduanas no formularán denuncias a quien incurriere en una contravención aduanera a que se refieren los artículos 173, 174, 175 y 176 de la Ordenanza de Aduanas, siempre que el infractor pusiere el hecho en su conocimiento antes de cualquier procedimiento de fiscalización y se hubieren pagado los derechos aduaneros correspondientes, de ser procedentes.
-
-Para dichos efectos, se entenderá como "procedimiento de fiscalización", las actuaciones, actos, solicitudes, requerimientos, acciones o gestiones llevadas a cabo por las Aduanas, en forma anterior, coetánea o posterior al despacho o a una destinación aduanera, tendiente a controlar, verificar, revisar, comprobar, cerciorarse o constatar un instrumento, documento, antecedente o acción que diga relación o que ncida en un despacho aduanero o en una destinación aduanera, actividad toda tendiente, en definitiva a verificar o comprobar el cumplimiento de una instrucción, prescripción o norma aduanera, cualquiera sea su naturaleza o tipo.
 
 2.3.1. DENUNCIAS REGIDAS POR EL PROCEDIMIENTO
 
@@ -3063,18 +2915,6 @@ de la Ordenanza de Aduanas con cargo asociado, se
 deberá seleccionar el mismo jefe revisor que
 
 figure como tal en el cargo.
-
-La denuncia por infracción al artículo 176
-
-letra o), deberá ser ingresada directamente por
-
-el encargado del control y gestión del Informe
-
-de Variación del Valor (IVV), con perfil Jefe
-
-Revisor, quien además, deberá aprobarla en el
-
-mismo acto, para que quede en estado Generada.
 
 2.3.1.2 REVISIÓN DEL JEFE REVISOR
 
@@ -3744,7 +3584,41 @@ Aduanero, o bien, una vez resuelto éste y confirmada
 
 la procedencia de la multa, según sea el caso.
 
-2.3.1.8 RECLAMACIÓN DE LA MULTA APLICADA.
+2.3.1.8 AUTODENUNCIO
+
+Se podrá eximir de la multa a quien incurriere en una
+
+contravención aduanera, pero pusiere este hecho en
+
+conocimiento del Servicio antes de cualquier
+
+fiscalización o requerimiento por parte de éste y, en
+
+su caso, pagare los derechos aduaneros
+
+correspondientes. El funcionario analizará las
+
+circunstancias del caso y determinará si otorga la
+
+exención, decisión que deberá ser fundada, dejando
+
+constancia en el acta y adjuntando ésta al expediente
+
+digital en el sistema.
+
+Para estos efectos, deberán considerarse
+
+especialmente circunstancias tales como, el tiempo
+
+transcurrido entre la infracción y el autodenuncio,
+
+si hubo diferencia de derechos dejados de percibir,
+
+el monto de ésta y la frecuencia o habitualidad con
+
+la que el infractor presenta estas solicitudes.
+
+2.3.1.9 RECLAMACIÓN DE LA MULTA APLICADA.
 
 El afectado por la multa impuesta por la autoridad
 
@@ -3886,7 +3760,7 @@ totalidad de la información asociada, esta quedará a
 
 disposición del jefe revisor correspondiente.
 
-2.3.2.2 REVISIÓN DEL JEFE REVISOR
+2.3.2.5 REVISIÓN DEL JEFE REVISOR
 
 Será obligación del Jefe revisor designado, entrar al
 
@@ -3996,7 +3870,7 @@ las denuncias y oportuna emisión de los giros
 
 respectivos.
 
-2.3.2.3 DE LA UNIDAD DE AUDIENCIAS.
+2.3.2.6 DE LA UNIDAD DE AUDIENCIAS.
 
 En esta Unidad se hará un análisis somero de
 
@@ -4056,7 +3930,7 @@ aprobar la denuncia y a practicar la notificación al
 
 interesado.
 
-2.3.2.4 NOTIFICACIÓN DE LA DENUNCIA.
+2.3.2.7 NOTIFICACIÓN DE LA DENUNCIA.
 
 La notificación de la denuncia a la o las personas a
 
@@ -4202,7 +4076,7 @@ más de un infractor, se deberá considerar la
 
 fecha de la última notificación.
 
-2.3.2.5 ALLANAMIENTO A LA DENUNCIA
+2.3.2.8 ALLANAMIENTO A LA DENUNCIA
 
 Una vez notificado, el denunciado podrá allanarse a
 
@@ -4250,7 +4124,39 @@ emitirá el giro F16 por la multa aplicada sin
 
 allanamiento notificada originalmente.
 
-2.3.2.6 RECLAMACIÓN DE LA MULTA
+2.3.2.9 AUTODENUNCIO
+
+Se podrá eximir de la multa a quien incurriere en una
+
+contravención aduanera, pero pusiere este hecho en
+
+conocimiento del Servicio antes de cualquier
+
+fiscalización o requerimiento por parte de éste y, en
+
+su caso, pagare los derechos aduaneros
+
+correspondientes. El funcionario analizará las
+
+circunstancias del caso y determinará si otorga la
+
+exención, decisión que deberá ser fundada, dejando
+
+constancia en el acta.
+
+Para estos efectos, deberán considerarse en especial
+
+circunstancias tales como, el tiempo transcurrido
+
+entre la infracción y el autodenuncio, si hubo
+
+diferencia de derechos dejados de percibir, el monto
+
+de ésta, y la frecuencia o habitualidad con la que el
+
+infractor presenta estas solicitudes.
+
+2.3.2.10 RECLAMACIÓN DE LA MULTA
 
 Las multas aplicadas podrán ser reclamadas ante el
 
@@ -4309,8 +4215,6 @@ los resultados de la reclamación, registrando la
 multa final que se hubiere aplicado por sentencia de
 
 término.
-
-Las Aduanas no deberán formular denuncias, en caso que la formulación del cargo o la solicitud de corrección del documento de pago hubiere sido solicitada por el despachador en forma de autodenuncio, sin que haya mediado respecto de la operación, un procedimiento de fiscalización que haya generado la formulación del cargo o la presentación de la solicitud respectiva, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
 
 3. PROCEDIMIENTO GENERAL PARA EL OTORGAMIENTO DE LA RENUNCIA DE LA ACCIÓN PENAL EN LAS DENUNCIAS PENALES DEL SISTEMA DECARE (ARTÍCULO 189 INCISO 4° DE LA ORDENANZA DE ADUANAS)
 
@@ -5076,9 +4980,9 @@ a) El Despachador deberá:
 
 o Presentar ante la Aduana de tramitación del
 
-documento respectivo, dentro del plazo de dos
+documento respectivo, dentro del plazo de un
 
-años a contar de la fecha de legalización de la
+año a contar de la fecha de legalización de la
 
 declaración correspondiente, una Solicitud de
 
@@ -7005,9 +6909,3 @@ El funcionario que emite el formulario de Giro Comprobante de Pago en Pesos F-16
 > **Nota.** El Numeral 2 de la Resolución 3928, Hacienda, publicado el 16.05.2013, modifica la presente norma en el sentido de sustituir las hojas Cap. IV-7 y Cap. IV-8 y agregar la hoja Cap. 8-A.
 
 > **Nota.** NOTA 1 El Numeral 2 de la Resolución 9422 Exenta, Hacienda, publicado 23.09.2013, modifica la presente norma en el sentido de sustituir las hojas Cap. III-1 y Cap. III-2.
-
-> **Nota.** NOTA 2 El Numeral 3 de la Resolución 5271 Exenta, Hacienda, publicado 03.10.2014, modifica la presente norma en el sentido de sustituir las hojas Cap. II - 2.
-
-> **Nota.** NOTA 3 El Numeral 2 de la Resolución 3939, Hacienda, publicado el 30.07.2015, modifica la presente norma en el sentido de sustituir las páginas CAP. II-1; CAP. III-1; CAP. III-6; CAP. III-10; CAP. III-14; CAP. III-17 y CAP. III-18.
-
-> **Nota.** NOTA 4 El Numeral II de la Resolución 5785, Hacienda, publicado el 10.10.2015, modifica la presente norma en el sentido de sustituir las páginas Capítulo III-9, por la que se adjunta a esta resolución, y agrégase la hoja Capítulo III-9A.
