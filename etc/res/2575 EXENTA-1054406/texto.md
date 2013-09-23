@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.575, de 11 de septiembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 210110054, Sector 6; 210110055, Sector 19, y 210110055, Sector 5, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de septiembre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
