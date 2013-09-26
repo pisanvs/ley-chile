@@ -122,7 +122,7 @@ Auxiliares 28 2
 
 TOTAL 29
 
-TOTAL GENERAL 160.
+TOTAL GENERAL 160
 
 > **Nota.** El artículo único del DFL 1, Transportes, publicado el 06.11.2003, creó en la planta de personal de la Subsecretaría de Transportes, un cargo de profesional grado 4º de la E.U.S.
 
@@ -131,8 +131,6 @@ TOTAL GENERAL 160.
 > **Nota.** NOTA 2: El artículo primero, Nº 1, del DFL 24, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 4, en la Planta de personal de Directivos de las Subsecretaría del Transportes.
 
 > **Nota.** NOTA 3: El artículo 13 de la Ley 20378, publicada el 05.09.2009, modifica la presente norma en el sentido de crear en la Planta de Personal de la Subsecretaría de Transportes un cargo de Jefe de División, grado 2° de la Escala Única de Sueldos.
-
-> **Nota.** NOTA 4 El artículo primero, Nº 1, del DFL 14, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 4°, en la Planta de personal de Directivos de las Subsecretaría del Transportes
 
 #### Artículo 2°
 
