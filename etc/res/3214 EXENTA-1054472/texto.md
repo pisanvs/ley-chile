@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.214 EXENTA, DE 2013
+
+Por resolución exenta Nº 3.214, de fecha 26 de julio de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Escuela de Conductores Profesionales "Centro de Formación Profesional Limitada", nombre de fantasía "Cefec Chile Ltda.", RUT Nº 78.971.320-0, representada legalmente por María Purísima Diez González, RUT Nº 7.012.346-0 y Jesús Benito Diez González, RUT Nº 7.012.345-2, para impartir el curso especial con Simulador de Inmersión Total, conducente a la obtención de licencia de conductor profesional Clase A-3, en Av. 5 de Abril Nº 4372, comuna de Estación Central.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
