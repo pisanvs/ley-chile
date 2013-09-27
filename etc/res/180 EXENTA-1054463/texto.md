@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "PROYECTO CENTRAL HIDROELÉCTRICA CUERVO"
+
+De conformidad a lo dispuesto en el inciso final del artículo 53 del DS 95/01 Minsegpres (Reglamento del SEIA), se comunica a las organizaciones ciudadanas con Personalidad Jurídica y a las personas naturales que presentaron observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del Proyecto "Central Hidroeléctrica Cuervo", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Energía Austral SpA, que por resolución exenta Nº 180, de fecha 16 de septiembre de 2013, la Comisión de Evaluación de la Región de Aysén calificó favorablemente el proyecto individualizado. Estas organizaciones ciudadanas y personas naturales disponen de 15 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 45 del Reglamento del SEIA.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Aysén, ubicada en Avda. Ogana Nº 759, Coyhaique; en la Ilustre Municipalidad de Aysén, ubicada en calle Esmeralda Nº 607, Puerto Aysén; y en la Gobernación Provincial de Aysén, ubicada en calle Esmeralda Nº 810, Puerto Aysén, en horarios de oficina. Además, podrá accederse a la resolución a través del sitio web www.sea.gob.cl.
+
+Paula Muñoz Zeller, Directora Regional del Servicio de Evaluación Ambiental, Secretario Comisión de Evaluación, Región de Aysén.
