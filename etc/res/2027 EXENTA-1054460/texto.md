@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 2.027 EXENTA, DE 2013
+
+Por resolución exenta Nº 2.027, de 23 de agosto de 2013, del Ministerio de Transportes y Telecomunicaciones, se prorroga vigencia de las condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de la comuna de Rancagua, establecidas mediante resolución exenta Nº 2.308, de 2010, del Ministerio de Transportes y Telecomunicaciones, a contar del 26 de agosto de 2013 y hasta el 26 de febrero de 2015, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías de Rancagua, en el marco de una concesión de uso de vías otorgadas en virtud de la ley Nº 18.696, cualquiera de los hechos ocurra primero.
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones (S).
