@@ -10,7 +10,7 @@ D e c r e t o:
 
 #### Artículo único
 
-Rectifícase el decreto exento de Educación Nº 514 de 1994, en el sentido que en los límites de la Zona Típica ex Población William Noon, se incorporan todas las construcciones que forman parte del conjunto diseñado originalmente por el arquitecto Ricardo Larraín Bravo, incluyendo el sector ubicado entre los ejes de las calles Eliodoro Yáñez por el sur, Manuel Montt por el poniente, General del Canto por el oriente y ambos frentes de la calle Alejandro Magno por el norte, quedando en definitiva la Zona Típica delimitada según se establece en el polígono A-B-C-D-A, señalado en el plano adjunto y que forma parte del presente decreto.
+Rectifícase el decreto exento de Educación Nº 514 de 1994, en el sentido que en los límites de la Zona Típica ex Población William Noon, se incorporan todas las construcciones que forman parte del conjunto diseñado originalmente por el arquitecto Ricardo Larraín Bravo, incluyendo el sector ubicado entre los ejes de las calles Eliodoro Yáñez por el sur, Manuel Montt por el poniente, General del Canto por el oriente y ambos frentes de la calle Alberto Magno por el norte, quedando en definitiva la Zona Típica delimitada según se establece en el polígono A-B-C-D-A, señalado en el plano adjunto y que forma parte del presente decreto.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, José Pablo Arellano Marín, Ministro de Educación.
 
