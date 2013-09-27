@@ -10,7 +10,7 @@ Decreto:
 
 #### Artículo 1º
 
-Los vehículos motorizados de cuatro o más ruedas llevarán dos placas patente, instaladas en lugares visibles del exterior de las partes delantera y posterior de sus carrocerías, respectivamente, sin objetos, accesorios o aditamentos que obstaculicen su plena percepción; los vehículos de dos o tres ruedas y, los remolques y semirremolques que en conformidad a la ley Nº 19.872 deban inscribirse en el Registro Especial de Remolques y Semirremolques, llevarán una sola placa patente, la que deberá estar instalada en la parte posterior de la carrocería y libre de accesorios y aditamentos que dificulten su percepción.
+Los vehículos motorizados llevarán dos placas patente, instaladas en lugares visibles del exterior de las partes delantera y posterior de sus carrocerías, respectivamente, sin objetos, accesorios o aditamentos que obstaculicen su plena percepción; a su vez, los remolques y semirremolques que en conformidad a la ley Nº 19.872 deban inscribirse en el Registro Especial de Remolques y Semirremolques, llevarán una sola placa patente, la que deberá estar instalada en la parte posterior de la carrocería y libre de accesorios y aditamentos que dificulten su percepción.
 
 #### Artículo 2º
 
@@ -60,7 +60,7 @@ Las placas patentes sólo podrán fijarse a la carrocería del vehículo de modo
 
 #### Artículo 6º
 
-En el ángulo inferior izquierdo de la placa patente única de los vehículos de cuatro o más ruedas se deberá consignar la palabra "Delantera" o "Trasera", a fin de indicar dónde debe emplazarse en la carrocería del vehículo; las letras serán del tipo indicado en el art. 7º de un alto de 5 mm. y un ancho del trazo de acuerdo con el tipo de letra con un margen variación del 5%; tratándose de remolques o semirremolques, en dicha ubicación y con las mismas especificaciones anteriores se consignará R/SR.
+En el ángulo inferior izquierdo de la placa patente única se deberá consignar la palabra "Delantera" o "Trasera", a fin de indicar dónde debe emplazarse en la carrocería del vehículo; las letras serán del tipo indicado en el art. 7º de un alto de 5 mm. y un ancho del trazo de acuerdo con el tipo de letra con un margen variación del 5%; tratándose de remolques o semirremolques, en dicha ubicación y con las mismas especificaciones anteriores se consignará R/SR.
 
 #### Artículo 7º
 
@@ -169,18 +169,6 @@ Las dimensiones especificadas admitirán un margen de variación de más o menos
 #### Artículo 8º
 
 Los duplicados de las placas patentes, requeridos en la forma y con los requisitos indicados en el decreto supremo de Justicia y Transportes Nº 130/1984, deberán cumplir con las mismas exigencias indicadas en los artículos precedentes. Adicionalmente, sin embargo, deberá consignarse en el ángulo inferior derecho número de duplicado que corresponde con la letra D más la cifra respectiva, según corresponda al primer duplicado, o uno posterior. Las letras serán del tipo indicado en el artículo 7º, de un alto de 5 mm. y un ancho del trazo de acuerdo con el tipo de letra con un margen de variación del 5%.
-
-#### Artículo 9º
-
-No obstante lo señalado en el artículo 1º anterior, los vehículos motorizados de dos o tres ruedas, que hayan recibido en su proceso de inscripción en el Registro de Vehículos Motorizados dos placas patentes, deberán llevar ambas, delantera y trasera.
-
-En todo caso, los propietarios de los vehículos señalados en el inciso anterior, podrán optar al canje de sus dos placas patentes por una que reúna las características indicadas en la letra B del artículo 7º del presente decreto, lo que les permitirá llevar una sola placa patente única trasera. Esta nueva placa patente única mantendrá inalterable el código original asignado al vehículo. Para el cambio de placas antes indicado, será requisito entregar las dos placas anteriores o, en el caso de extravío, hurto o destrucción de una o ambas placas, el interesado deberá dejar una constancia previa del hecho en Carabineros de Chile y acreditarlo junto a la solicitud, acompañando copia de ella, donde conste el código de la placa y la causa de la no entrega.
-
-El canje de placas patentes antes señalado se realizará de acuerdo al siguiente calendario:
-
-Día Lunes Martes Miércoles Jueves Viernes
-
-Dígito 0-1 2-3 4-5 6-7 8-9
 
 #### Artículo Transitorio
 
