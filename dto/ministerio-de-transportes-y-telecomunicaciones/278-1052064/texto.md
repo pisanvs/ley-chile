@@ -31,3 +31,21 @@ Renuévase la concesión de Servicio Público de Radiocomunicación Buscapersona
 Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Felipe Morandé Lavín, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Francisco Miranda Olivos, Jefe División Concesiones Subrogante.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº 278, de 2010, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Telecomunicaciones
+
+Nº 25.895.- Santiago, 29 de abril de 2013.
+
+La Contraloría General ha tomado razón del acto administrativo individualizado en el rubro, que renueva una concesión de Servicio Público de Radiocomunicación Buscapersona a la empresa "Gente de Comunicación Limitada" -que había sido representado a través del oficio Nº 3.950, de 2011, de esta Entidad de Control-, teniendo presente lo señalado en los artículos 8º, inciso tercero, y 9º bis de la Ley Nº 18.168, General de Telecomunicaciones en orden a que el plazo de 30 años de las concesiones para servicios públicos de telecomunicaciones es renovable por periodos iguales, a solicitud de parte interesada, y lo expresado, en lo pertinente, en el oficio Nº 661, de 21 de enero de 2013, de la Subsecretaría de Telecomunicaciones.
+
+Saluda atentamente a Ud.- Por orden del Contralor General de la Republica, Jefe Subdivisión Jurídica, División de Infraestructura y Regulación.
+
+Al señor
+
+Ministro de Transportes y Telecomunicaciones
+
+Presente.
