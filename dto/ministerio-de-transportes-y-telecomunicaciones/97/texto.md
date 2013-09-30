@@ -218,7 +218,7 @@ Los Departamentos de Tránsito y Transporte Público Municipales deberán contar
 
 Los exámenes serán escritos y en ellos se incluirá, a lo menos, el número de preguntas según el tipo de licencia a que se opta, de acuerdo a los instructivos que para el efecto emita el Ministerio de Transportes y Telecomunicaciones.
 
-Para otorgar licencias de conductor Clases B y C, la municipalidad deberá contar con a lo menos un computador de uso exclusivo para la toma del examen teórico, con conexión a internet, y con una impresora debidamente habilitada.
+Para otorgar licencias de conductor Profesional Clases A y Clases B y C, la municipalidad deberá contar con a lo menos un computador de uso exclusivo para la toma del examen teórico, con conexión a internet, y con una impresora debidamente habilitada.
 
 También se deberá disponer complementariamente de una pizarra magnética o maqueta que tenga un trazado vial con los elementos necesarios para simular situaciones de tránsito. Esta pizarra o maqueta deberá contener, entre otros: un cruce regulado; un cruce con señalización vertical y horizontal; un cruce en "T"; un cruce ferroviario; una curva; una rotonda; un área de estacionamiento; una pista de aceleración y desaceleración.
 
@@ -239,6 +239,8 @@ El examen práctico tiene por objeto comprobar:
 - Su aptitud en relación al cumplimiento de las normas de circulación, incluyendo la señalización vial, y
 
 - Su comportamiento y reacciones frente a los diversos factores que intervienen en el tránsito y su capacidad de adaptación a las contingencias de la circulación, con especial atención en las de seguridad.
+
+Tratándose de la evaluación de conocimientos prácticos de conducción para la obtención de la licencia de conductor No Profesional Clase B, el examen tendrá una duración mínima de 25 minutos, en los cuales el postulante deberá recorrer, a lo menos un trayecto de 5 kilómetros. Éste se estructurará en dos etapas de conducción, una primera etapa de conducción libre y otra de conducción guiada. Se entenderá por conducción libre, aquella que realiza el postulante en forma autónoma sin recibir instrucciones por parte del examinador dirigiéndose a algún punto determinado de común acuerdo con el examinador municipal. Esta etapa tendrá una duración entre 10 a 15 minutos. Se entenderá por conducción guiada, aquella que realiza el postulante siguiendo las indicaciones entregadas por el examinador para dirigirse a un destino previamente establecido. El municipio deberá definir puntos de origen y de destino dentro de los límites comunales entre los cuales se realizará el examen práctico, siendo éstos de público conocimiento.
 
 El examen práctico de conducción debe rendirse en el tipo de vehículo a cuya conducción se opta.
 
@@ -261,6 +263,8 @@ El Ministerio de Transportes y Telecomunicaciones podrá emitir instructivos té
 #### Artículo 11°
 
 Las Municipalidades remitirán al Ministerio de Transportes y Telecomunicaciones en la forma y oportunidad en que éste lo solicite, los antecedentes necesarios para evaluar el funcionamiento del sistema de otorgamiento de licencia. En todo caso, las Municipalidades, por propia iniciativa deberán suspender el otorgamiento de licencias en caso de faltarle transitoriamente el personal o los equipos reglamentarios, y comunicar el hecho el Ministerio de Transportes y Telecomunicaciones.
+
+De igual forma remitirán los resultados estadísticos de los exámenes prácticos de conducción en el sistema informático que pondrá a disposición el Ministerio de Transportes y Telecomunicaciones. Se entenderá por sistema informático para efectos del presente decreto, el conjunto de programas computacionales que posibilitarán el ingreso de los resultados obtenidos en las evaluaciones prácticas en los municipios.
 
 #### Artículo 12°
 

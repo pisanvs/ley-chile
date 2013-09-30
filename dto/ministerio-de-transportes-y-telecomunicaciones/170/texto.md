@@ -674,17 +674,7 @@ A.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997, y para 
 
 7.- Detención al borde de la cuneta.
 
-B.- Para la Licencia Clase B
-
-1.- Arranque, aceleración y frenado en tramos reducidos;
-
-2.- Estacionamiento en línea;
-
-3.- Salida de estacionamiento;
-
-4.- Circulación por un pasillo estrecho, y 5.- Cambio de sentido en marcha atrás en un espacio limitado.
-
-C.- Para la Licencia Clase C
+B.- Para la Licencia Clase C
 
 1.- Zig-Zag entre conos;
 
@@ -696,7 +686,7 @@ C.- Para la Licencia Clase C
 
 5.- Aceleración y frenado de emergencia.
 
-D.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase B y C
+C.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase C
 
 1.- Ingreso a la circulación;
 
@@ -726,7 +716,7 @@ D.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para li
 
 II.- Conductas
 
-Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase B y C
+Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase C
 
 1.- Comportamiento ante semáforo;
 
@@ -760,6 +750,10 @@ Las condiciones generales y las conductas a controlar deberán ser dadas a conoc
 
 En el caso de postulantes a licencia especial Clase F, los conocimientos prácticos de conducción se acreditarán por medio de un certificado emitido por la respectiva institución en que conste la aprobación de los cursos institucionales que se impartan al efecto.
 
+El examen práctico de conducción Clase B evaluará las aptitudes del postulante para la conducción de un vehículo motorizado, considerando los errores cometidos en la conducción, los que se clasifican en reprobatorios, graves y leves según se indica en el artículo 10º bis.
+
+En ningún caso, el municipio, al definir el recorrido, podrá dejar de considerar las circunstancias que permitan evaluar el comportamiento del postulante ante un cruce peatonal, señal Pare, señal Ceda el Paso, semáforo y sus habilidades para estacionar.
+
 #### Artículo 10°
 
 Las normas de aprobación para el examen práctico de conducción serán las siguientes:
@@ -771,8 +765,6 @@ maniobras correctas
 A1 otorgada antes del 8 de marzo de 1997 25 de 30
 
 A2 otorgada antes del 8 de marzo de 1997 24 de 30
-
-No Profesional B 21 de 28
 
 No Profesional C 21 de 28
 
@@ -794,6 +786,116 @@ Para la licencia de conductor Clase D y E se deben evaluar las conductas del pos
 
 En todo caso, para aprobar este examen no podrá tenerse más de dos maniobras incorrectas en el ítem II.- Conductas.
 
+#### Artículo 10º bis
+
+Para licencia de conductor No Profesional Clase B será causal de reprobación del examen práctico de conducción el incurrir o acumular, durante el desarrollo del examen, errores de acuerdo al siguiente criterio:
+
+- Incurrir en un error reprobatorio. En este caso se dará por finalizado el examen sin necesidad de cumplir con el tiempo de duración mínima y kilometraje;
+
+- Acumular dos errores graves o más;
+
+- Acumular diez errores leves o más;
+
+- Acumular a lo menos un error grave y cinco errores leves.
+
+Son errores leves:
+
+1. No identificar correctamente los documentos obligatorios para el tránsito de un vehículo, señalados en los artículos 51 y 89 de la Ley de Tránsito.
+
+2. No ajustar espejos retrovisores y asiento antes de iniciar la marcha.
+
+3. Insistir en la puesta en marcha con el motor encendido.
+
+4. No desactivar freno de estacionamiento antes de iniciar la marcha.
+
+5. Iniciar marcha con la puerta abierta o mal cerrada.
+
+6. Subir, forzar o golpear fuertemente la cuneta al cambiar de pista.
+
+7. No dejar de señalizar una vez efectuado el cambio de pista.
+
+8. No señalizar virajes, incorporaciones a la circulación, salidas de la circulación o señalizarlas erróneamente.
+
+9. No dejar de señalizar una vez efectuado un viraje o una incorporación a la circulación.
+
+10. Subir a la cuneta con alguna de las ruedas al virar.
+
+11. Estacionar dejando una separación respecto a la cuneta mayor a 30 cm y/o una distancia inferior a 60 cm entre vehículos.
+
+12. Detener o estacionar el vehículo en doble fila.
+
+13. No activar freno de estacionamiento luego de finalizar el estacionamiento.
+
+14. Subir, forzar o golpear fuertemente la cuneta al estacionar.
+
+15. No señalizar un viraje en U o señalizarlo erróneamente.
+
+16. No respetar líneas de pistas, bordes de calzada, líneas de detención demarcadas o imaginarias y achurados.
+
+17. Circular en una relación de marcha no adecuada en función de la velocidad, el vehículo y las circunstancias del tráfico y la vía.
+
+18. Utilizar bocina sin motivo justificado.
+
+19. No identificar los mandos del vehículo (limpiaparabrisas, luces, bocina).
+
+20. Conducir de forma brusca o a saltos.
+
+21. No observar el tráfico durante el examen.
+
+Son errores graves:
+
+1. Realizar incorporación a la circulación, viraje o cambio de pista obstaculizando a los demás usuarios que cuentan con prioridad, sin generar riesgo de accidente.
+
+2. Cambiar sorpresivamente de pista obstruyendo la circulación.
+
+3. No señalizar al cambiarse de pista o señalizar erróneamente.
+
+4. Sobrepasar o adelantar en paso de peatones y cruces no regulados.
+
+5. Adelantar generando riesgo para los vehículos que transitan en sentido contrario.
+
+6. Ingresar a intersección sin tener el espacio suficiente, obstaculizando el tránsito de otros vehículos y peatones.
+
+7. Abrir la puerta y descender del vehículo sin observar.
+
+8. No respetar señal de prioridad "Ceda el Paso" (vertical o demarcación).
+
+9. No respetar señales de prohibición, restricción y obligación.
+
+10. Sobrepasar sostenidamente el eje central de la calzada, generando riesgo para los otros usuarios de la vía.
+
+11. Circular sin encender luces correspondientes cuando su uso sea obligatorio o necesario.
+
+12. Confundir pedales: embrague, freno, acelerador.
+
+13. Soltar momentáneamente las dos manos del volante, siempre que no exista pérdida de dominio.
+
+14. Conducir el vehículo contra el sentido del tránsito.
+
+15. Circular sin mantener una distancia razonable y prudente respecto de otros usuarios de las vías.
+
+16. Manipular elementos electrónicos y/o la radio del vehículo durante el examen.
+
+17. No respetar el derecho preferente de paso de peatones, ciclistas y otros vehículos.
+
+Son errores reprobatorios:
+
+1. No usar cinturón de seguridad (conductor y pasajeros).
+
+2. Realizar incorporación a la vía, viraje o cambio de pista obligando a que los usuarios con prioridad modifiquen su trayectoria, generando riesgo de accidente.
+
+3. Sobrepasar por la berma.
+
+4. No detenerse ante una luz roja o señal de prioridad "Pare".
+
+5. Golpear a personas, animales, vehículos u otros elementos.
+
+6. Perder el control del vehículo.
+
+7. Sobrepasar la velocidad máxima permitida en la vía.
+
+8. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros.
+
 #### Artículo 11°
 
 Para calificarse los requisitos a que se refiere el artículo 13, de la Ley de Tránsito, los postulantes a licencia de conductor deberán aprobar los correspondientes exámenes físico, síquico, teórico y práctico.
@@ -810,15 +912,19 @@ Pasados los plazos de reexamen sin la concurrencia del postulante o si persiste 
 
 #### Artículo 12°
 
-Los funcionarios municipales que practiquen exámenes prácticos de conducción, deberán cumplir las siguientes condiciones:
+Los Funcionarios municipales que evalúen exámenes prácticos de conducción, deberán cumplir las siguientes condiciones:
 
-a) Estar en posesión de licencia de conductor A1 obtenida antes del 8 de marzo de 1997 o de licencia profesional Clase A3;
+a. Estar en posesión de la licencia de conductor Clase A1 o A2 obtenidas antes del 8 de marzo de 1997 o de una clase de licencia profesional, con al menos, 2 años de antigüedad. Dicha antigüedad no será exigible si se acredita haber poseído con anterioridad otra clase de licencia profesional durante al menos dos años;
 
-b) Acreditar Cuarto Año de Enseñanza Media, o su equivalente, y
+b. Acreditar Cuarto Año de Enseñanza Media, o su equivalente;
 
-c) Haber efectuado un programa de capacitación en materia de tránsito de a lo menos 30 horas cronológicas y de mecánica automotriz básica.
+c. Haber efectuado un programa de capacitación en materia de normativa y seguridad de tránsito de a lo menos, 45 horas cronológicas y uno de mecánica automotriz básica de al menos 10 horas cronológicas; impartidos por un organismo de capacitación debidamente reconocido por el Estado, y
 
-Los funcionarios municipales que practiquen exámenes teóricos, deberán cumplir las condiciones establecidas en las letras b) y c) precedentes.
+d. Acreditar la aprobación de un curso de formación de examinadores, de a lo menos 60 horas cronológicas, impartido por un organismo de capacitación debidamente reconocido por el Estado.
+
+Sin perjuicio de lo anteriormente señalado, los funcionarios municipales que evalúen los conocimientos prácticos de conducción deberán acreditar, cada 5 años, participación en cursos de capacitación que digan relación con materia de seguridad vial y transporte.
+
+Los funcionarios municipales que practiquen los exámenes teóricos, deberán cumplir las condiciones establecidas en las letras b) y c) precedentes.
 
 #### Artículo 13°
 
@@ -841,6 +947,8 @@ En cada carpeta deberán mantenerse los datos personales de los conductores o po
 Deberá existir una relación entre el registro y el archivo sobre la base del número de la cédula de identidad con dígito verificador o al nombre de la persona, que permita obtener en la forma más rápida y oportuna los datos que se requieran en cualquier momento.
 
 El archivador y el registro deberán permitir el resguardo fiel de los documentos y datos que en ellos consten.
+
+El o los funcionarios encargados de realizar el proceso de evaluación de los conocimientos prácticos de conducción deberán ingresar al término de cada jornada de examinación, los resultados estadísticos obtenidos en las evaluaciones prácticas en el sistema informático que dispondrá para esos efectos el Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 16°
 
