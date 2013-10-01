@@ -1,6 +1,6 @@
 FIJA PRECIOS DE REFERENCIA PARA COMBUSTIBLES DERIVADOS DEL PETRÓLEO Y DETERMINA EL COMPONENTE VARIABLE PARA EL CÁLCULO DE LOS IMPUESTOS ESPECÍFICOS ESTABLECIDOS EN LA LEY Nº 18.502
 
-Núm. 401 exento.- Santiago, 24 de septiembre de 2013.- Vistos: Lo dispuesto en la Ley Nº 20.402, que Crea el Ministerio de Energía; en la Ley Nº 18.502, que Establece impuestos a combustibles que señala; en la Ley Nº 20.493; el Decreto Supremo Nº 332, de 2011, del Ministerio de Hacienda, que Aprueba Reglamento para la aplicación del Sistema de Protección al Contribuyente ante las variaciones en los precios internacionales de los combustibles, creado por el Título II de la Ley Nº 20.493, y otras materias; en la Ley Nº 20.663; el Oficio Ordinario Nº 380/2013, de la Comisión Nacional de Energía; y en la Resolución Nº 1600, de 2008, de la Contraloría General de la República.
+Núm. 404 exento.- Santiago, 24 de septiembre de 2013.- Vistos: Lo dispuesto en la Ley Nº 20.402, que Crea el Ministerio de Energía; en la Ley Nº 18.502, que Establece impuestos a combustibles que señala; en la Ley Nº 20.493; el Decreto Supremo Nº 332, de 2011, del Ministerio de Hacienda, que Aprueba Reglamento para la aplicación del Sistema de Protección al Contribuyente ante las variaciones en los precios internacionales de los combustibles, creado por el Título II de la Ley Nº 20.493, y otras materias; en la Ley Nº 20.663; el Oficio Ordinario Nº 380/2013, de la Comisión Nacional de Energía; y en la Resolución Nº 1600, de 2008, de la Contraloría General de la República.
 
 Decreto:
 
