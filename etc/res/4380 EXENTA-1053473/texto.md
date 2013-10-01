@@ -1,4 +1,4 @@
-ESTABLECE REQUISITOS PARA EL RECONOCIMIENTO DE LOS CURSOS DE CAPACITACIÓN EN BIENESTAR ANIMAL PARA ENCARGADOS DE LOS ANIMALES, ESTABLECIDOS EN LOS DECRETOS Nº 28, Nº 29 Y Nº 30, DE 2013, SOBRE PROTECCIÓN DE LOS ANIMALES
+ESTABLECE REQUISITOS PARA EL RECONOCIMIENTO DE LOS CURSOS DE CAPACITACIÓN EN BIENESTAR ANIMAL, ESTABLECIDOS EN LOS DECRETOS Nº 28, Nº 29 Y Nº 30, DE 2013, SOBRE PROTECCIÓN DE LOS ANIMALES
 
 Núm. 4.380 exenta.- Santiago, 29 de julio de 2013.- Vistos: La ley Nº 18.755, que establece la organización y atribuciones del Servicio Agrícola y Ganadero; ley Nº 19.162, que Establece Sistema Obligatorio de Clasificación de Ganado, Tipificación y Nomenclatura de sus Carnes y Regula Funcionamiento de Mataderos, Frigoríficos y Establecimientos de la Industria de la Carne; ley 20.380, sobre protección de animales; la ley Nº 4.601, sustituida por la ley Nº 19.473, sobre Caza; decreto Nº 94, de 2008, que Aprueba Reglamento sobre Estructura y Funcionamiento de Mataderos, Establecimientos Frigoríficos, Cámaras Frigoríficas y Plantas de Desposte y fija equipamiento mínimo de tales establecimientos; decreto Nº 240, sobre Reglamento General de Transporte de Ganado Bovino y de Carne; decreto Nº 28, de 2013, que Aprueba Reglamento sobre protección de los animales que provean de carne, pieles, plumas y otros productos al momento del beneficio en establecimientos industriales; decreto Nº 29, de 2013, que Aprueba Reglamento sobre protección de los animales durante su producción industrial, su comercialización y en otros recintos de mantención de animales; decreto Nº 30, de 2013, que Aprueba Reglamento sobre protección del ganado durante el transporte, todos del Ministerio de Agricultura.
 
@@ -36,9 +36,13 @@ c. Cambiar conductas o hábitos.
 
 a. Las instituciones u organismos de capacitación
 
-deberán estar reconocidos por el Ministerio de
+deberán estar reconocidos oficialmente de acuerdo
 
-Educación.
+a la legislación vigente por el Ministerio de
+
+Educación, Ministerio del Trabajo u otro
+
+organismo competente en la materia.
 
 b. Deberán demostrar que cuentan con laboratorios o
 
