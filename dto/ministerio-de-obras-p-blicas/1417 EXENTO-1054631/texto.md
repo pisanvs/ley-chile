@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1417, de 30 de agosto de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) Nº466, de 28 de marzo de 2013, a fin de individualizar correctamente el lote de terreno Nº166, ubicado en la comuna de Osorno, el cual figura a nombre de MONTECINO GONZALEZ MARÍA MABEL, rol de avalúo 2238-101, superficie 397 m2., expropiado con motivo de la obra: "Camino Reposición Ruta 215-CH, Sector Bifurcación Aeropuerto Carlos Hott - Cruce Las Lumas, Tramo Km. 3,99292 al Km. 21,80000", Comuna de Osorno, X Región de Los Lagos.
+
+Fiscal del Ministerio de Obras Públicas.
