@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.666, de 25 de septiembre de 2013, se publicó decreto exento Nº 404 que "FIJA PRECIOS DE REFERENCIA PARA COMBUSTIBLES DERIVADOS DEL PETRÓLEO Y DETERMINA EL COMPONENTE VARIABLE PARA EL CÁLCULO DE LOS IMPUESTOS ESPECÍFICOS ESTABLECIDOS EN LA LEY Nº 18.502", con el error que se salva a continuación: Cuerpo I, página 12, donde dice "... Núm. 401 exento.- Santiago, ..." debe decir "... Núm. 404 exento.- Santiago, ...".
