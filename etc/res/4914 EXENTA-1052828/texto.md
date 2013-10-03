@@ -38,45 +38,39 @@ Chile, Límite Oeste UV 135, Límite Norte UV 95
 
 Norte : Fondo de Quebrada (D-E).
 
-2. Selecciónase, dentro de la zona prioritaria señalada en el Resuelvo precedente, al Barrio Glorias Navales, de la comuna de Viña del Mar, para su intervención a través del Programa de Recuperación de Barrios, ubicado dentro del polígono comprendido entre los límites que a continuación se señalan:
+2. Selecciónase dentro de la zona prioritaria señalada en el resuelvo precedente al Barrio Emblemático Expresos Viña del Mar - Glorias Navales, de la comuna de Viña del Mar, para su intervención a través del Programa de Recuperación de Barrios, ubicado dentro del polígono comprendido dentro de los límites que a continuación se señalan:
 
-Oeste : Límite Programa "Recuperación de Condominios"
+Este : Carretera Camino Internacional (Ruta CH 64) (A-B).
 
-(A-B).
+Sur : Avenida Mar de Chile (B-C).
 
-Oeste : Calle Destructor Zenteno (B-C).
+Oeste-Sur : Calle Vicente Bustillos - Calle E. Campino (C-D).
 
-Sur : Deslinde Propiedades (El Campino) (C-D).
+Oeste-Sur : Vértice Pasaje G. Cordovez - Vértice calle
 
-Oeste : Límite Barrio Piloto (Vicente Bustillo), (D-E).
+Crucero Latorre - calle Destructor Zenteno -
 
-Oeste : Calle Mar de Chile (E-F).
+Límite con Condominio Mar de Chile (D-E).
 
-Este : Camino Internacional (F-G).
+Oeste-Sur : Límite con Población Nuevo Horizonte 2 -
 
-Norte : Límite Norte UV 101, Expresos Viña del Mar, (G-
+Límite con Condominio Brisas del Mar -
 
-H).
+Vértice Calle Valdivia - Eje de Calle Santa
 
-Oeste : Terrenos de Carabineros de Chile (H-I-J-K).
+Mónica (E-F).
 
-Sur : Camino Internacional (K-L).
+Oeste : Fondos de sitio calle Malfatti (F-G).
 
-Norte : Copropiedad Nuevo Horizonte (L-M-N).
+Oeste-Norte : Fondos de sitio Calle Tte. Merino - San Pedro
 
-Este : Población Glorias Navales (N-Ñ).
+y Santa Juana hasta Eje de la Quebrada (G-H).
 
-Este : Avenida Mar de Chile (Ñ-O).
+Norte : Eje de Quebrada hasta 21 de Mayo con Valdivia y
 
-Sur : Población Glorias Navales (O-P).
+luego paralelo a 21 de Mayo hasta Ruta CH 64 (H-A).
 
-Este : Campamento Villa Esperanza (P-Q).
-
-Sur : Límite Programa "Recuperación de Condominios"
-
-(Q-A).
-
-Se adjuntan planos del polígono con sus respectivos límites.
+Se adjunta plano del polígono con sus respectivos límites.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Fernando Fondón Rojas, Subsecretario de Vivienda y Urbanismo (S).
 
