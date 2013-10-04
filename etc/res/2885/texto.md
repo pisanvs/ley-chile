@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIE EN CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.885, del 23 de julio de 2013, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Granja Marina Tornagaleones S.A., sociedad chilena, RUT 87.752.000-5, con domicilio en calle Diego Portales 2000, piso 9, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos y desistir de los recursos hidrobiológicos ostión del norte, ostra chilena, chorito, choro y cholga, solicitud 206103100, del 31 de marzo de 2006, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 1.048, del 27 de septiembre de 1988, modificada por resolución 1.677, del 11 de diciembre de 1995, transferida por resolución 1.277, del 5 de marzo de 2001, modificada por resolución 82, del 5 de enero de 2006, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 244, del 10 de enero de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Canal Queilén Ensenada Leutepo, Isla Tranqui, comuna de Queilén, provincia de Chiloé, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 127, del 14 de febrero de 1995, modificada por resolución exenta 1.626, del 7 de mayo de 2009, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, rectificada por resolución exenta 3.152, del 20 de octubre de 2010 y modificada por resolución exenta 3.023, del 14 de noviembre de 2011, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca.
+
+Santiago, 4 de septiembre de 2013.- Por orden del Subsecretario para las Fuerzas Armadas, Camilo Mirosevic Verdugo, abogado, Jefe División Jurídica.
