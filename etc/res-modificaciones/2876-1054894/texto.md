@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.876, del 23 de julio de 2013, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Granja Marina Tornagaleones S.A., sociedad chilena, RUT 87.752.000-5, con domicilio en Diego Portales 2000, piso 9, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, requerida mediante solicitud 211101003, de 5 de enero de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 574, de 9 de mayo de 1986, transferida por resolución 1.641, de 30 de noviembre de 1995, modificada por resolución 209, de 21 de enero de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas, a Fs. 39 vta., Nº 78, año 2010, a nombre de Granja Marina Tornagaleones S.A., ubicada en Bahía Ilque, comuna de Puerto Montt, provincia de Llanquihue, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 723, de 7 de junio de 1995, modificada por resolución exenta 1.606, de 15 de junio de 2006, rectificada por resolución exenta 2.229, de 8 de agosto de 2006, todas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca y modificada por resolución exenta 3.401, de 19 de diciembre de 2012, del Ministerio de Economía Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 10 de septiembre de 2013.- Por orden del Subsecretario para las Fuerzas Armadas, Camilo Morosevic Verdugo, abogado, Jefe División Jurídica.
