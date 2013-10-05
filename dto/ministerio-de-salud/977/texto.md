@@ -406,7 +406,9 @@ En la manipulación de los alimentos sólo deberá utilizarse agua de calidad po
 
 #### Artículo 66
 
-Deberán existir registros de producción y control de cada lote y conservarse como mínimo durante 90 días posteriores al período en que el fabricante garantice el producto.
+Deberán existir registros de producción, distribución y control de los alimentos y materias primas y conservarse, como mínimo, durante 90 días posteriores a la fecha de vencimiento o plazo de duración del producto. Los alimentos de duración indefinida deberán mantener el registro, al menos, durante tres años.
+
+En el registro deberá identificarse la procedencia del alimento y/o materia prima, como etapa anterior, y el destino del producto, como etapa posterior.
 
 #### Artículo 67
 
@@ -812,19 +814,21 @@ Para productos alimenticios deshidratados, que se consuman reconstituidos, la po
 
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
 
+> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+
 #### Artículo 107
 
 Todos los productos alimenticios que se almacenen, transporten o expendan envasados deberán llevar un rótulo o etiqueta que contenga la información siguiente:
 
 a) nombre del alimento. El nombre deberá indicar la verdadera naturaleza del alimento en forma específica. Sin perjuicio del nombre podrá indicarse su marca comercial. En los productos sucedáneos deberá indicarse claramente esta condición. Junto al nombre o muy cerca del mismo, deberán aparecer las palabras o frases adicionales necesarias para evitar que se induzca a error o engaño respecto a la naturaleza y condición física auténtica del alimento, que incluyen pero que no se limitan al tipo o medio de cobertura, a la forma de presentación o al tipo de tratamiento al que haya sido sometido.
 
-No se permite el uso de términos que destaquen la ausencia de un componente no deseado tales como "no contiene...", "ausencia de ...", cuando el producto normalmente no lo contiene;
+INCISO ELIMINADO.
 
 b) contenido neto expresado en unidades del sistema métrico decimal o del sistema internacional, mediante el símbolo de la unidad o con palabra completa. No deberá acompañar a los valores del contenido neto ningún término de significado ambiguo.
 
 Además de la declaración del contenido neto, en los alimentos envasados en un medio líquido deberá indicarse en unidades del sistema métrico decimal o del sistema internacional, el peso drenado del alimento;
 
-c) nombre o razón social y domicilio del fabricante, elaborador, procesador, envasador o distribuidor según corresponda. En el caso de los alimentos importados deberá consignarse el nombre y domicilio del importador;
+c) En el caso de los alimentos nacionales, el nombre o razón social y domicilio del fabricante, elaborador, procesador, envasador o distribuidor, según sea el caso;
 
 d) país de origen, debe indicarse en forma clara, tanto en los productos nacionales como en los importados, conforme a las normas de rotulación establecidas, respecto a esta información, en el decreto Nº 297, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, o en el que lo reemplace;
 
@@ -852,7 +856,11 @@ Los productos que identifiquen la fecha de elaboración con la clave del lote de
 
 Los productos que rotulen "duración indefinida" deberán necesariamente indicar la fecha de elaboración.
 
-h) ingredientes, en el rótulo deberá figurar la lista de todos los ingredientes y aditivos que componen el producto, con sus nombres específicos, en orden decreciente de proporciones, con la excepción correspondiente a los saborizantes/aromatizantes, de acuerdo a lo establecido en el artículo 136 del presente reglamento;
+h) ingredientes, en el rótulo deberá figurar la lista de todos los ingredientes y aditivos que componen el producto, con sus nombres específicos, en orden decreciente de proporciones, con la excepción correspondiente a los saborizantes/aromatizantes, de acuerdo a lo establecido en el artículo 136 del presente reglamento.
+
+Cuando el alimento, ingrediente o derivado sea o contenga alguno de los causantes de hipersensibilidad (alergenos alimentarios) reconocidos oficialmente por resolución del Ministerio de Salud, publicada en el Diario Oficial, el o los alergenos deberán señalarse en la misma lista de ingredientes, con letra de tamaño igual o mayor a las letras de los ingredientes generales, o bajo el título "Contiene..." u otro similar. Si el ingrediente es un derivado de cualquiera de los alergenos reconocidos por la citada resolución, deberá rotularse el ingrediente y además el alergeno, como el ejemplo siguiente: caseína (leche) o caseína de leche.
+
+Si el producto alimenticio tiene riesgo de contaminarse, desde la producción o elaboración hasta la comercialización, con los citados alergenos, se deberá incluir a continuación de la lista de ingredientes, cualquiera de las siguientes frases: "Puede contener...", "Contiene pequeñas cantidades de ...", "Contiene trazas de ..." o "Elaborado en líneas que también procesan...."; indicando el alergeno de que se trate;
 
 i) aditivos, se debe indicar en el rótulo la incorporación de aditivos, en orden decreciente de concentraciones, con sus nombres específicos, con las excepciones indicadas en el título correspondiente. Se debe incluir en la lista de ingredientes todo aditivo alimentario que haya sido empleado en las materias primas y otros ingredientes de un alimento, y que se transfiera a éste en cantidad suficiente para desempeñar en él una función tecnológica
 
@@ -860,11 +868,17 @@ j) información nutricional de acuerdo a lo establecido en el artículo 115 del 
 
 l) instrucciones para su uso, el rótulo debe contener las instrucciones que sean necesarias sobre el modo de empleo, incluida la reconstitución, si es el caso, para asegurar la correcta utilización del alimento;
 
-m) en el caso de los productos importados, el número y fecha de la resolución del Servicio de Salud que autoriza la internación del producto. Sin perjuicio de lo anterior, tratándose de productos alimenticios de importación habitual y cuya autorización de importación y consumo sea otorgada por el mismo Servicio de Salud, éste podrá autorizar su rotulación en el país de origen.
+m) En el caso de los productos importados, el nombre y domicilio del importador.
 
-Para estos efectos, a solicitud del importador o su representante, el Servicio de Salud emitirá una resolución en la cual autorizará que en las importaciones posteriores a una anterior que se adopte como referencia, el producto alimenticio venga, desde el país de origen, rotulado con el número y fecha de la resolución de autorización de internación y consumo, adoptada como referencia, debiendo figurar, además, el nombre del Servicio de Salud que dictó dicha resolución.
+El importador estará obligado a mantener un registro de todas las partidas internadas al país, por un plazo mínimo de 90 días posteriores a la fecha de vencimiento o del plazo de duración del producto, según corresponda. Los alimentos de duración indefinida deberán mantener el registro, al menos, durante tres años.
 
-Los productos alimenticios que se importen bajo esta modalidad en materia de rotulación de los envases, deberán traer desde el país de origen una clave indeleble, estampada en el envase, que distinga inequívocamente los distintos lotes o partidas de producción, debiendo cumplir, además, con todas las demás normas de etiquetado vigentes. Su autorización de internación y consumo se efectuará partida por partida, quedando por lo tanto sujetos a todos los controles que la autoridad sanitaria debe realizar conforme a lo dispuesto en el presente reglamento; n) el alimento y/o materia prima para consumo humano, modificados por medio de eventos biotecnológicos, que presenten características nutricionales distintas a las del alimento y/o materia prima convencional, deberá hacer mención de ellas en el rótulo, de acuerdo a lo establecido en los artículos 113 y 115 al 120 de este reglamento.
+Este registro deberá incluir los antecedentes de la destinación aduanera, los antecedentes sanitarios del producto, la autorización de uso y consumo, las claves de los lotes de producción o fechas de elaboración, la fecha de vencimiento, el país de origen, tipo de producto, la marca comercial, el nombre del proveedor extranjero y estará, en todo momento, a disposición de la Autoridad Sanitaria.
+
+La clave del lote de producción o la fecha de elaboración deberá, además, estar estampada en el envase, permitiendo distinguir, inequívocamente, las distintas partidas o lotes de producción.
+
+Los alimentos importados deberán cumplir con todas las demás normas de etiquetado vigentes en aquello no expresamente regulado en este literal. La autorización de internación y consumo se efectuará partida por partida, quedando, por lo tanto, sujetos a todos los controles que la Autoridad Sanitaria deba realizar conforme a lo dispuesto en el presente reglamento;
+
+n) el alimento y/o materia prima para consumo humano, modificados por medio de eventos biotecnológicos, que presenten características nutricionales distintas a las del alimento y/o materia prima convencional, deberá hacer mención de ellas en el rótulo, de acuerdo a lo establecido en los artículos 113 y 115 al 120 de este reglamento.
 
 > **Nota.** El artículo transitorio del DTO 475, Salud, publicado el 13.01.2000, establece un plazo de seis meses, a partir de la publicación en el D.O. de dicho decreto, para dar cumplimiento a lo señalado en el artículo 107, letra g) de este decreto, respecto a la rotulación de la fecha de vencimiento o plazo de duración. En el caso de bebidas comercializadas en envases retornables, cuya rotulación sea impresa directamente en el envase, el plazo será de dos años.
 
@@ -875,6 +889,8 @@ Los productos alimenticios que se importen bajo esta modalidad en materia de rot
 #### Artículo 108
 
 Además los productos importados deberán cumplir con todas las disposiciones de rotulación estipuladas en el presente Reglamento. Cualquier información especificada en este Reglamento y que no haya sido considerada en la rotulación original, que no esté en castellano o no esté indicada de acuerdo a lo establecido en este Reglamento, se deberá colocar en una etiqueta adherida permanentemente al envase, de un tamaño y ubicación adecuados, y que comprenda, al menos, la información de la etiqueta original.
+
+> **Nota.** El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
 
 #### Artículo 109
 
@@ -890,6 +906,8 @@ En aquellos alimentos o productos alimenticios que contengan saborizantes/aromat
 
 > **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
 
+> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+
 #### Artículo 111
 
 La información debe colocarse en el envase de manera que no se separe del mismo. Cuando el envase esté cubierto por una envoltura no transparente, en ésta deberá figurar toda la información necesaria.
@@ -899,6 +917,8 @@ La información debe colocarse en el envase de manera que no se separe del mismo
 Cuando en el etiquetado de un alimento se destaque la presencia o el contenido de uno o más ingredientes caracterizantes, o cuando la descripción del alimento produzca el mismo efecto, deberá declararse el porcentaje de él o los ingredientes masa/masa, en el producto final.
 
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+
+> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
 
 #### Artículo 113
 
@@ -1068,6 +1088,8 @@ La expresión numérica del número de porciones de consumo habitual y medidas c
 
 > **Nota.** El Art. 2º del DTO 58, Salud, publicado el 16.06.2007, dispuso que las modificaciones introducidas en el presente artículo referidas a la expresión numérica de nutrientes y factores alimentarios, la referida a los criterios de aproximación para valores de nutrientes y factores alimentarios y la referida a la expresión del número de porciones de consumo habitual y medidas caseras, entrarán en vigencia en el plazo de 12 meses desde su publicación.
 
+> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+
 #### Artículo 116
 
 Cuando se haga una declaración de propiedades nutricionales con respecto a la cantidad o el tipo de carbohidratos deberá incluirse, además de lo prescrito en el artículo 115, la cantidad total de azúcares y cualquier otro hidrato de carbono disponible.
@@ -1135,6 +1157,8 @@ En la declaración de propiedades nutricionales de los alimentos no se podrá us
 > **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
 
 > **Nota.** NOTA 1: El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+
+> **Nota.** NOTA 2 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
 
 #### Artículo 121
 
@@ -1352,6 +1376,8 @@ Se permite usar como sustancias emulsionantes sólo aquellas que se indican en e
 
 Los emulsionantes en base a las sales de fósforo señaladas precedentemente se podrán rotular como fosfato, polifosfatos o mezcla de ambos, según sea el caso.
 
+> **Nota.** El Nº 1 del Articulo 1º del Decreto 11, Salud, publicado el 06.08.2013, modificó la presente norma en el sentido de agregar entre los números SIN 436 Y 444 el SIN Nº 442 la sustancia emulsionante Sales de amonio del ácido fosfatídico, de la manera indicada en la citada norma
+
 #### Artículo 148
 
 Sólo podrán usarse como sales emulsionantes aquellas que se indican en este artículo y sus concentraciones no podrán ser mayores, en producto terminado listo para el consumo, que las que se señalan en forma específica para cada aditivo en la siguiente tabla:
@@ -1397,6 +1423,8 @@ b) Blanqueadores o mejoradores de panificación
 Se permite utilizar como preservantes químicos sólo los que se indican en este artículo y en concentraciones no mayores, en productos terminando, que las que se señalan en forma específica para cada aditivo:
 
 > **Nota.** El Nº 4 del Art. 1º del Decreto 71, Salud, publicado el 23.08.2010, con vigencia a contar de 24 meses después de su publicación, modificó el Nº 234 del cuadro contenido en el presente artículo, el que queda de la siguiente forma:N° SIN NOMBRE CODEX SINONIMOS LIMITE MAXIMO 234 Nísina 12,5 mg/kg en quesos 10 mg/kg en crema natural o nata cuajada
+
+> **Nota.** NOTA 1 El Nº 2 del Articulo 1º del Decreto 11, Salud, publicado el 06.08.2013, modificó la presente norma en el sentido de agregar entre los números SIN 242 Y 249 el SIN Nº 243 preservante quimico Etil - lauroil arginato, de la manera indicada en la citada norma.
 
 #### Artículo 155
 
@@ -1950,11 +1978,9 @@ De las micotoxinas
 
 Las micotoxinas que se indican a continuación no podrán sobrepasar los siguientes límites:
 
-Aflatoxinas totales (B1 B 2 G1 G 2) 5 ppb
+. .
 
-Aflatoxina M1 0,05 ppb
-
-Zearalenona 200 ppb
+> **Nota.** El artículo 2º del Decreto 22, Salud, publicado el 05.10.2013, indica que el presente decreto entrará en vigencia en el plazo de doce meses, contado desde su publicación, con excepción de lo establecido para aflatoxinas totales, aflatoxinas M1 y Zearalenona que entrarán en vigencia desde su publicación.
 
 ### Párrafo V
 
@@ -2292,7 +2318,9 @@ si n es igual o menor que 4 unidades de muestra, el valor de los indicadores, re
 
 > **Nota.** NOTA 2 El numeral 8 del número II del artículo primero del Decreto 214, Salud, publicado el 04.02.2006, modifica el cuadro inserto en el presente artículo de la manera siguiente: En el punto 1 sustituye la palabra "Leche" por "Leches"; en el punto 1.1 reemplaza la expresión "Leche Cruda" por "Leches Crudas"; en el punto 1.5 sustituye la expresión "Leche Evaporada" por "Leches Evaporadas"; en el punto 1.6 reemplaza la expresión "Leche Condensada Azucarada" por "Leches Condensadas Azucaradas"; en los puntos 1.2., 1.4., 2.1., y 2.2. sustituye la palabra "Leche" por "Leches" y en el primer asterisco (*) de los puntos 2.4, 4.3., y 4.4. reemplaza la palabra "leche" por "leches".
 
-> **Nota.** NOTA 3 El numeral 21 del artículo 1 del Decreto 106, Salud, publicado el 23.04.2009, modifica el cuadro inserto en el presente artículo, en el sentido de eliminar el parámetro correspondiente a las enterobacteriaceas contenido en el punto 5.1 Harinas y Almidones.
+> **Nota.** NOTA 3 El numeral 21 del artículo 1 del Decreto 106, Salud, publicado el 23.04.2009 modifica el cuadro inserto en el presente artículo, en el sentido de eliminar el parámetro correspondiente a las enterobacteriaceas contenido en el punto 5.1 Harinas y Almidones.
+
+> **Nota.** NOTA 4 Los numerales 1 y 2 del artículo 1 del Decreto 21, Salud, publicado el 05.10.2013, modifican el cuadro inserto en el presente artículo, en el sentido de reemplazar los puntos 14.2 y 14.3, respectivamente, por aquellos que la citada norma indica.
 
 ### Párrafo IV
 
@@ -3266,7 +3294,7 @@ Carne congelada es aquella cuya temperatura interna medida en el centro de la ma
 
 #### Artículo 274
 
-Se prohíbe destinar los labios, ollares y las orejas de animales de abasto para el consumo directo así como formando parte de productos elaborados, incluida la carne molida, con la excepción del cerdo destinado a la elaboración de cecinas. Asimismo se prohíbe destinar para el consumo directo así como formando parte de los productos elaborados el cerebro, el cerebelo, los ojos, las amígdalas, la médula espinal, el íleon distal y el bazo, de rumiantes mayores de 30 meses de edad.
+Se prohíbe destinar los labios, ollares y las orejas de animales de abasto para el consumo directo así como formando parte de productos elaborados, incluida la carne molida, con la excepción del cerdo destinado a la elaboración de cecinas.
 
 #### Artículo 275
 
@@ -4618,6 +4646,8 @@ La sal comestible con menor contenido de sodio deberá ceñirse a las especifica
 
 Toda sal comestible, deberá contener yodo adicionado en forma de yodatos o de yoduros de sodio o de potasio, en una concentración entre 0,02 y 0,06 gramos de yodo por kilogramo del producto.
 
+Cuando se utilicen sucedáneos de la sal comestible o sal baja en sodio, ella deberá ser yodada según lo dispuesto en el inciso anterior
+
 #### Artículo 439
 
 Toda sal comestible deberá estar exenta de cualquier sustancia tóxica. No deberá contener:
@@ -5090,37 +5120,33 @@ Disposiciones generales
 
 #### Artículo 488
 
-Alimentos para regímenes especiales son aquellos elaborados o preparados especialmente para satisfacer necesidades fisiológicas particulares de nutrición y/o enfermedades o trastornos específicos determinadas por condiciones físicas, fisiológicas o metabólicas específicas. Su composición deberá ser sustancialmente diferente de la de los alimentos comunes de naturaleza análoga en caso de que tales alimentos existan. Los ingredientes sintéticos sustitutos de lípidos, carbohidratos, proteínas, fibra dietética y otros nutrientes utilizados en estos alimentos deberán ceñirse, para su autorización, a las normas técnicas que sobre la materia dicte el Ministerio de Salud.
+Los alimentos para regímenes especiales son aquellos elaborados o preparados, especialmente, para satisfacer necesidades fisiológicas o fisiopatológicas, particulares de nutrición.
 
-> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+Los productos regulados por este artículo deberán formularse de acuerdo a principios médicos y nutricionales aceptados, científicamente reconocidos o consensuados internacionalmente y deberán satisfacer las necesidades particulares de nutrición que indica el productor. Se excluyen de esta categoría los alimentos de uso por vía parenteral, los que serán regulados por el decreto supremo Nº 1.876/05 del Ministerio de Salud.
 
 #### Artículo 489
 
-Los alimentos preenvasados para regímenes especiales no deberán describirse ni presentarse en forma que sea falsa, equívoca o engañosa, o susceptible de crear una impresión errónea, respecto a su naturaleza, bajo ningún aspecto.
+Los alimentos para regímenes especiales, sin perjuicio del cumplimiento de las normas generales de etiquetado del presente reglamento, deberán indicar en la cara principal del envase la(s) característica(s) esencial(es) o modificación(es) realizada(s).
+
+La información y rotulación nutricional de los alimentos comprendidos en el párrafo II del presente Título, deberán expresarse por cada 100 g o 100 ml, según corresponda y por cada 100 kilocalorías (kcal) utilizables del producto, opcional por cada porción del producto listo para el consumo.
+
+La información y rotulación nutricional de los alimentos comprendidos en el párrafo III del presente Título deberán expresarse por cada 100 g o 100 ml, según corresponda, y por cada porción del producto listo para el consumo, opcional por cada 100 kilocalorías (kcal) utilizables del producto.
+
+La información y rotulación nutricional de los alimentos comprendidos en el párrafo V del presente Título deberán expresarse por cada 100 g o 100 ml, según corresponda, y por cada 100 kilocalorías (kcal) utilizables del producto, opcional por cada porción del producto listo para el consumo.
+
+La información y rotulación nutricional de los alimentos para uso médico o medicinal para mayores de 36 meses deberá dar cumplimiento a lo establecido en el Título II del presente Reglamento.
 
 #### Artículo 490
 
-Todo alimento que no haya sido modificado de conformidad al artículo 488, no deberá designarse como "alimento para regímenes especiales" o cualquier otra expresión equivalente. Sin embargo, en aquellos alimentos que por su composición natural sean adecuados para determinados regímenes especiales podrá indicarse en la etiqueta esta calidad mediante la declaración "este alimento es por su naturaleza..." (indicar la característica distintiva especial) a condición de que dicha declaración no induzca a error al consumidor. Queda prohibido hacer afirmaciones sobre la conveniencia de usar un alimento para regimenes especiales, sea con fines preventivos, de alivio, o de tratamiento o curación de una enfermedad, trastorno o estado fisiológico particular.
+ELIMINADO
 
 #### Artículo 491
 
-Además de lo dispuesto en el presente reglamento para el etiquetado general, cerca del nombre del alimento, se indicará en términos descriptivos adecuados, la característica esencial del alimento. La información y rotulación nutricional deberá cumplir lo establecido en los artículos 106 al 121 del presente reglamento.
-
-La cantidad total de los nutrientes específicos u otros componentes a los que se debe la característica esencial que hace que el alimento en cuestión se destine a un régimen especial, deberá declararse por 100 g o por 100 ml y por porción de consumo habitual.
-
-La información y rotulación nutricional de las fórmulas para lactantes, del párrafo II de este Título, deberá expresarse por cada 100 gramos de polvo (si corresponde), por cada 100 kilocalorías (kcal) utilizables del producto y por cada porción del producto listo para el consumo.
-
-Las fórmulas para lactantes con necesidades nutricionales especiales deberán indicar en el rótulo, en forma clara y destacada, la necesidad especial para la que debe emplearse, la o las propiedades específicas en que se basa, recomendaciones especiales y advertencias en relación a su consumo si fuese necesario.
+ELIMINADO.
 
 #### Artículo 492
 
-Las materias primas para elaborar las fórmulas para lactantes y alimentos infantiles deberán ser de calidad óptima y no se someterán a tratamientos físicos o químicos en sustitución de buenas prácticas de fabricación.
-
-Los productos deberán prepararse con especial cuidado mediante buenas prácticas de fabricación, a fin de reducir al mínimo los residuos de plaguicidas que puedan exigir la producción, almacenamiento o elaboración de las materias primas o del producto terminado.
-
-Los productos no deberán contener residuos de hormonas ni antibióticos determinados mediante métodos convenidos de análisis, y estarán exentos de otros contaminantes especialmente de sustancias farmacológicamente activas.
-
-> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
+ELIMINADO.
 
 ### Párrafo II
 
@@ -5136,11 +5162,11 @@ Las fórmulas para lactantes se clasifican en:
 
 a) fórmula de iniciación es aquella que una vez reconstituida de acuerdo a las recomendaciones del fabricante está destinada a satisfacer todos los requerimientos nutricionales del lactante durante los primeros cuatro a seis meses de vida, aunque puede ser usada además de otros alimentos para lactantes hasta la edad de un año.
 
-Aquella fórmula de iniciación que se le introduzcaalguna modificación en el contenido y composición de los nutrientes que la hagan más semejante a la leche materna se denominará fórmula de iniciación adaptada;
+Aquella fórmula de iniciación que se le introduzca alguna modificación en el contenido y composición de los nutrientes que la hagan más semejante a la leche materna se denominará fórmula de iniciación adaptada;
 
-La relación lactoalbúmina/caseína deberá tener una proporción de 60:40% respectivamente.
+La relación lactoalbúmina/caseína deberá tener una proporción mínima de 60:40% respectivamente.
 
-b) fórmula de continuación es aquella que forma partede un esquema de alimentación mixto destinada al consumo de los lactantes de más de seis meses de edad.
+b) fórmula de continuación es aquella que forma parte de un esquema de alimentación mixto destinada al consumo de los lactantes de más de seis meses de edad.
 
 c) fórmulas para lactantes con necesidades nutricionales especiales, tales como, intolerancia a la lactosa, intolerancia al gluten, fenilcetonuria u otros problemas metabólicos. Éstas deberán indicar en el rótulo en forma clara y destacada la necesidad especial para la que debe emplearse, las propiedades específicas en que se basa y recomendaciones concretas y advertencias en relación a su consumo, si fuese necesario.
 
@@ -5290,7 +5316,7 @@ será inferior a
 
 disponibles.
 
-Otras sustancias:
+g) Otras sustancias: por cada 100 kcal.
 
 Mín. Máx.
 
@@ -5300,23 +5326,23 @@ mioinositol (mg) 4 40
 
 L- carnitina (mg) 1,2 NE
 
-Ingredientes facultativos:
+h) Ingredientes facultativos:
 
 Mín. Máx.
 
-Taurina (mg) -- 12
+h.1) Taurina (mg) por cada 100 kcal - 12
 
-Ac. docosahexaenoico
+h.2) Ac. Docosahexaenoico (% total de lípidos) - 0,5
 
-(% de ácidos grasos) 0,5
+Cuando se use ácido Docosahexaenoico (DHA) (22:6-3) en los preparados para lactantes, el contenido de ácido araquidónico (20:4n-6) deberá alcanzar, por lo menos, la misma concentración que el DHA.
 
-Cuando se use ácido docosahexaenoico (DHA) (22:6-3) en los preparados para lactantes, el contenido de ácido araquidónico (20:4n-6) deberá alcanzar por lo menos la misma concentración que el DHA.
+Mín. Máx.
 
-Nucleótidos: mg/100 kcal Mín. Máx.
+h.3) Nucleótidos: mg/100 Kcal - 16
 
-- 16
+i) Aditivos
 
-g) Aditivos
+Sólo se podrán usar los siguientes aditivos en las cantidades señaladas:
 
 #### Artículo 496
 
@@ -5476,7 +5502,7 @@ mg/100 kcal
 
 disponibles.
 
-Otras sustancias
+g) Otras sustancias: por cada 100 kcal.
 
 Mín. Máx.
 
@@ -5484,23 +5510,21 @@ Mioinositol (mg) 4 40
 
 L- carnitina (mg) 1,2 NE
 
-Ingredientes facultativos
+h) Ingredientes facultativos
+
+Min. Máx.
+
+h.1) Taurina (mg) por cada 100 kcal - 12
+
+h.2) Ac. Docosahexaenoico (% total de lípidos) - 0,5
+
+Cuando se use ácido Docosahexaenoico (DHA) (22:6-3) en los preparados para lactantes, el contenido de ácido araquidónico (20:4n-6) deberá alcanzar, por lo menos, la misma concentración que el DHA.
 
 Mín. Máx.
 
-Taurina (mg) - 12
+h.3) Nucleótidos: mg/100 Kcal - 16
 
-Ac. docosahexaenoico - 0,5 porcentaje de
-
-ácidos grasos
-
-Nucleótidos:
-
-mg/100kcal Mín. Máx.
-
-- 16
-
-g) aditivos
+i) aditivos.
 
 #### Artículo 497
 
@@ -5631,6 +5655,8 @@ b) fecha de elaboración y fecha de vencimiento;
 c) instrucciones sobre su preparación y uso, así como su almacenamiento y conservación antes y después de abrir el envase.
 
 En este tipo de productos, no deberán incorporarse en los rótulos ni publicidad de los mismos, declaraciones de propiedades saludables.
+
+Los alimentos infantiles no deberán formularse con hierbas o sus extractos u otros componentes que induzcan el sueño en los menores o con el propósito de reducir el meteorismo o dolores abdominales o hinchazón, ni otros fines terapéuticos
 
 ### Párrafo IV
 
@@ -5764,17 +5790,31 @@ Los productos contenidos en este párrafo no son sustitutos de la leche materna 
 
 ### Párrafo V
 
-De los alimentos para regímenes de bajo contenido en
-
-sodio
+De los alimentos para uso médico o medicinal
 
 #### Artículo 514
 
-Se entiende por alimentos para régimenes especiales de bajo contenido de sodio los productos cuyo valor dietético especial es el resultado de la reducción, restricción o eliminación del sodio. El contenido de sodio en estos alimentos en ningún caso será mayor de 140 mg por porción de consumo habitual. Si la porción de consumo habitual es inferior o igual a 30 g por cada 50 g del alimento deberá tener menos de 140 mg de sodio. Para comidas y platos preparados por cada 100 g deberá tener un máximo de 140 mg de sodio. Se entenderá por alimentos muy bajos en sodio cuando estos contengan 35 mg o menos de sodio por porción de consumo habitual. Si la porción de consumo habitual es inferior o igual a 30 g por cada 50 g del alimento, deberá tener menos de 35 mg de sodio. Para comidas y platos preparados por cada 100 g deberá tener un máximo de 35 mg de sodio. Además de lo dispuesto para etiquetado general y para regímenes especiales (artículo 491) en estos alimentos se deberá indicar obligatoriamente el contenido de sodio por 100 g y por porción de consumo habitual.
+Un alimento de uso médico o medicinal es una categoría de alimentos para regímenes especiales, formulados, elaborados y presentados especialmente para el tratamiento dietético exclusivo o parcial de pacientes, y que deberán utilizarse bajo la supervisión de un profesional de la salud.
+
+Estos alimentos deberán rotular:
+
+- que el producto debe utilizarse bajo supervisión médica o de un profesional de la salud,
+
+- si el producto es o no adecuado para ser consumido como única fuente de alimento,
+
+- si el producto va destinado a un grupo de edad específico, y
+
+- si el producto puede perjudicar la salud de las personas que lo consuman sin estar afectados por alguna de las enfermedades, trastornos o afecciones, para los que vaya destinado.
 
 #### Artículo 515
 
-Se permite la adición de sucedáneos de la sal comestible a un alimento para regímenes especiales bajo en sodio, dentro de los límites impuestos por Buenas Prácticas de Fabricación. La sal baja en sodio deberá ser yodada según lo dispuesto en el artículo 438.
+Estos alimentos se clasificarán de acuerdo a las instrucciones del fabricante en:
+
+a) Alimentos completos con una formulación de nutrientes específica adaptada para determinadas enfermedades, trastornos o situaciones fisiológicas. Pueden constituir la única fuente de alimentos para las personas a las que van destinados. Estos alimentos también pueden utilizarse como sustitutos de una parte del régimen alimentario.
+
+b) Alimentos incompletos con una formulación de nutrientes específica adaptada para determinadas enfermedades, trastornos o afecciones. No son adecuados como única fuente de alimentos, por lo que sólo pueden utilizarse como sustitutos de una parte del régimen alimentario.
+
+Esta información deberá quedar, claramente, indicada en el rótulo para contribuir al uso adecuado del producto.
 
 ### Párrafo VI
 
@@ -5814,7 +5854,7 @@ Cuando el producto total se presente dividido en porciones, 3 o 4 diarias, segú
 
 #### Artículo 521
 
-Si el producto se presenta como sustituto de una o más comidas de la dieta diaria deberá aportar como mínimo 200 kcal y como máximo 400 kcal. por comida.
+Si el producto se presenta como sustituto de una o más comidas de la dieta diaria deberá aportar como mínimo 200 kcal y como máximo 400 kcal. por comida, esto referido al producto tal como se comercializa.
 
 #### Artículo 522
 
@@ -5828,17 +5868,17 @@ La ingesta total diaria de proteínas no será superior a 125 g. La calidad biol
 
 #### Artículo 524
 
-Las grasas no deberán aportar más del 30% de la energía disponible en el alimento. No menos del 3% de la energía disponible deberá ser aportada como ácido linoleico en forma de glicérido.
+Estos alimentos deberán cumplir con el descriptor bajo en grasa y no deberán aportar, en forma de grasa total, más del 30% de la energía disponible en el alimento. No menos del 3% de la energía disponible deberá ser aportada como ácido linoleico.
 
 #### Artículo 525
 
-Cuando un alimento se presente como sustitutivo de todas las comidas de un día, deberá contener al menos el 100% de las cantidades de vitaminas y minerales especificadas a continuación:
+Cuando un alimento se presente como sustitutivo de todas las comidas de un día, deberá contener, al menos, el 100% de las cantidades de vitaminas y minerales especificadas a continuación, en el producto tal como se comercializa:
 
-Vitamina A 600 mg equiv. retinol
+Vitamina A 600 mcg EAR
 
-Vitamina D 2,5 mg
+Vitamina D 2,5 mcg D 3
 
-Vitamina E 10 mg
+Vitamina E 10 mg ET
 
 Vitamina C 60 mg
 
@@ -5848,21 +5888,21 @@ Riboflavina 1,2 mg
 
 Niacina 11 mg
 
-Vitamina B6 2 mg
+Vitamina B 6 2 mg
 
-Vitamina B12 1 mg
+Vitamina B 12 1 mcg
 
-Acido fólico 200 mg
+Folato 200 mcg EFA
 
 Calcio 500 mg
 
 Fósforo 500 mg
 
-Hierro 16 mg
+Hierro 14 mg
 
-Yodo 140 mg
+Yodo 140 mcg
 
-Magnesio 350 mg
+Magnesio 300 mg
 
 Cobre 1,5 mg
 
@@ -5870,13 +5910,11 @@ Zinc 6 mg
 
 Potasio 1,6 g
 
-Sodio 1,0 g
+Sodio 0,6 g
 
-Estos alimentos deberán contener un mínimo de 13 g de fibra dietética total.
+Estos alimentos que se presenten como sustitutivo de todas las comidas de un día deberán contener un mínimo de 13 g de fibra dietética total. Las cantidades por cada tiempo de comida, deberán ajustarse a una cantidad que corresponda al 33% o 25% del total señalado, según si el número de porciones recomendadas por día es de 3 o 4, respectivamente, lo que corresponde a 4,3 g o 3,3 g de fibra dietética/porción, según si son 3 o 4 porciones por día.
 
-El límite superior de vitaminas y minerales deberá ser igual a las Dosis Diaria de Referencia establecidas en el presente reglamento.
-
-Se podrán incluir otros nutrientes esenciales no especificados en esta lista para los que exista Dosis Diaria Recomendada o Valores de Referencia Diaria.
+Se podrán incluir otros nutrientes esenciales no especificados en esta lista para los que exista Dosis Diaria Remendada o Valores de Referencia Diaria, la sumatoria o concentración final de ellos en el producto, no deberá ser superior al 100% de la Dosis Diaria de Referencia establecida para el nutriente en particular.
 
 #### Artículo 526
 
@@ -5892,45 +5930,27 @@ En lo particular, en la etiqueta o etiquetado no se deberá hacer referencia al 
 
 En la etiqueta o en el etiquetado deberá hacerse referencia a la necesidad de mantener una ingesta adecuada de líquido cuando se utilizan preparados para el control de peso. Si el consumo de alimentos proporciona una ingesta diaria de alcoholes de azúcar superior a los 20 g diarios, la etiqueta deberá llevar una declaración de que el alimento podría tener un efecto laxante. La etiqueta deberá llevar una declaración de que el alimento puede ser útil para el control de peso únicamente como parte de una dieta con un contenido energético controlado. La etiqueta de los productos que se presentan como sustitutos de la dieta total para utilizar durante más de seis semanas, deberá contener una recomendación de que transcurrido ese período deberá solicitarse asesoría médica.
 
-### Párrafo VIII
+### Párrafo VIII — De los alimentos con bajo contenido de grasas y/o calorías.- DEROGADO
 
-De los alimentos con bajo contenido de grasas y/o
+#### Artículo 529°
 
-calorías
+DEROGADO
 
-#### Artículo 529
+#### Artículo 530°
 
-Se entiende por alimento con bajo contenido de grasas y/o calorías aquel que por porción de consumo habitual de referencia contiene un máximo de 40 kcal. Si la porción es inferior o igual a 30 gramos por cada 50 gramos deberá contener un máximo de 40 kcal. Si la porción es inferior o igual a 30 gramos y el alimento habitualmente se consume rehidratado por cada porción de consumo habitual del alimento reconstituido deberá contener un máximo de 40 kcal. En el rótulo, junto a la designación principal del nombre del alimento, o formando parte del mismo o junto a la información nutricional, deberá señalarse la categoría o característica esencial del alimento: "bajo en ..." o "libre de ..." según corresponda. Lo anterior, sin perjuicio de los descriptores específicos que correspondan según el artículo 120 de este reglamento.
+DEROGADO
 
-Para comidas y platos preparados por cada 100 gramos deberá tener un máximo de 120 kcal. Se incluirán en esta categoría aquellos alimentos que por porción de consumo habitual de referencia contengan un máximo de 3 gramos de grasa total. Si la porción de consumo habitual es inferior o igual a 30 gramos por cada 50 gramos del alimento deberá tener un máximo de 3 gramos de grasa total.
+#### Artículo 531°
 
-Para comidas y platos preparados por cada 100 gramos deberá tener un máximo de 3 gramos de grasa total y un máximo de un 30% de las calorías provenientes de grasas.
+DEROGADO
 
-Estos productos se etiquetarán de acuerdo a lo establecido para el etiquetado general y según lo dispuesto en el artículo 491.
+#### Artículo 532°
 
-> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
+DEROGADO
 
-#### Artículo 530
+#### Artículo 533°
 
-Los sustitutos de las grasas deberán tener características funcionales análogas a las grasas que ellos reemplacen, estar libres de efectos tóxicos y no producir metabolitos diferentes a los de las grasas naturales o que no puedan ser completamente excretados por el organismo.
-
-#### Artículo 531
-
-Para sustituír parcial o totalmente las grasas se podrán utilizar alimentos o nutrientes tales como:
-
-a) aceites o grasas convencionales modificadas para disminuir o evitar su hidrólisis en el intestino, pero manteniendo sus propiedades funcionales en los alimentos a los que se agregan.
-
-b) carbohidratos y sus derivados (gomas, polidextrosas, derivados de almidón, celulosa microcristalina).
-
-c) proteínas y sus derivados.
-
-#### Artículo 532
-
-En los alimentos en que se haya sustituido parcial o totalmente las grasas deberán restituirse las vitaminas A, D y E a los niveles originales y en una forma que permita una absorción similar a la del alimento no modificado. Los niveles máximos de fortificación para vitaminas y minerales deberán estar de acuerdo con las Directrices Nutricionales, aprobadas por la correspondiente norma técnica del Ministerio de Salud.
-
-#### Artículo 533
-
-En el caso de que antecedentes sanitarios y técnicos hagan conveniente introducir modificaciones a las listas de nutrientes y aditivos establecidas en los artículos 495, 496, 503 y 512 precedentes de este Título, el Ministerio de Salud propondrá el correspondiente decreto supremo modificatorio al Presidente de la República.
+DEROGADO
 
 ## Título XXIX
 
@@ -5992,7 +6012,7 @@ En ellos no se podrá incorporar, solos ni en asociación, hormonas o compuestos
 
 Sólo podrán considerarse alimentos para deportistas aquellos que cumplan con los requisitos de alguna de las propiedades nutricionales que se indican a continuación. Ellos deberán colocar en la etiqueta, en el panel principal del envase, con letras fácilmente legibles en color contrastante con el fondo de la etiqueta: "ALIMENTO PARA DEPORTISTAS ......." con el descriptor que se indica entre comillas, según corresponda:
 
-a) "Alto en energía". Aquellos alimentos que tienen por porción de consumo habitual un 30%, o más, de la dosis diaria de referencia (DDR) de energía (DDR = 2300 Kcal/día).
+a) "Alto en energía". Aquellos alimentos que tienen por porción de consumo habitual un 30%, o más, de la dosis diaria de referencia (DDR) de energía (DDR = 2000 Kcal/día).
 
 b) "Buena fuente de energía". Alimentos que tienen por porción de consumo habitual entre un 20% y un 29% de la dosis diaria de referencia de energía.
 
