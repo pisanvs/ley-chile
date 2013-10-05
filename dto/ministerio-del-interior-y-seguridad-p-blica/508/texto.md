@@ -1,0 +1,25 @@
+OTORGA AUTORIZACIÓN ESTABLECIDA POR EL ARTÍCULO 7º DEL DECRETO LEY Nº 1.939, DE 1977, MODIFICADO POR LA LEY Nº 19.256
+
+Núm. 508.- Santiago, 17 de mayo de 2013.- Visto:
+
+Lo informado por la Dirección Nacional de Fronteras y Límites del Estado en sus Oficios Reservados RR.EE. (Difrol) Nº F-45, de 29 de octubre de 2012, y F-201, de fecha 8 de febrero de 2013;
+
+Lo informado por el Estado Mayor Conjunto de la Defensa Nacional en su Oficio Res EMCO.DOPE I.d. (R) Nº 6800/145/Difrol, de 7 de enero de 2013;
+
+Lo dispuesto por el artículo 32 Nº 6 de la Constitución Política de la República de Chile; en el artículo 7º del decreto ley Nº 1.939, de 1977, modificado por la ley 19.256, que regula la adquisición de derechos sobre inmuebles situados en zonas fronterizas; en el reglamento para la aplicación de dicho artículo contenido en el decreto supremo Nº 232, de 1994, del Ministerio de Relaciones Exteriores, modificado por el decreto supremo Nº 1.583, de 1994, del mismo Ministerio; en el DFL Nº 4. de 1967, de Relaciones Exteriores; la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando: La solicitud de fecha 22 de octubre de 2012, planteada a S.E. el Presidente de la República, por los ciudadanos argentinos Víctor Hugo Romaldini, en representación de la Sociedad Individual de Responsabilidad Limitada "Inmobiliaria e Inversiones Romaldini E.I.R.L.", Cédula de Identidad Chilena para Extranjeros RUN 21.262.741-0, Certificado de Permanencia Definitiva Nº 249.256 y Documento Nacional Argentina 20173365; don Sergio Gabriel Tubio, argentino, Cédula de Identidad Chilena para Extranjeros RUN 21.175.581-4, Certificado de Permanencia Definitiva Nº 243.511 y Documento Nacional de Identidad Argentino 17532280, y doña Marina del Valle Somogyi de Tubio, argentina, Cédula de Identidad Chilena para Extranjeros RUN 21.159.131-5, Certificado de Permanencia Definitiva Nº 243.512 y Documento Nacional Argentino 18176478, ambos en representación de la "Sociedad de Responsabilidad Limitada Rentas la Docta Limitada", para adquirir, por partes iguales, mediante compra, a doña Ana María Soto Droguett, actual propietaria, el dominio de la propiedad ubicada en Pasaje Las Ninfas en el Agua Nº 295 Unidad 295 del Condominio Tipo B acogido a la ley Nº 19.537, en el sector denominado Vista al Valle de la Comuna de Machalí, inscrita a fojas 11.133 Nº 7.730 en el Registro de Propiedad del Conservador de Bienes Raíces de Rancagua, del año 2004, y considerando que la operación referida tiene como objetivo destinar el inmueble a inversión inmobiliaria, operación que es plenamente compatible con el interés nacional,
+
+Decreto:
+
+#### Artículo primero
+
+Autorízase a los ciudadanos argentinos Víctor Hugo Romaldini, en representación de la Sociedad Individual de Responsabilidad Limitada "Inmobiliaria e Inversiones Romaldini E.I.R.L.", Cédula de Identidad Chilena para Extranjeros RUN 21.262.741-0, Certificado de Permanencia Definitiva Nº 249.256 y Documento Nacional de Identidad Argentina 20173365, por una parte, y don Sergio Gabriel Tubio, argentino, Cédula de Identidad Chilena para Extranjeros RUN 21.175.581-4, Certificado de Permanencia Definitiva Nº 243.511 y Documento Nacional de Identidad Argentino 17532280, y doña Marina del Valle Somogyi de Tubio, argentina, Cédula de Identidad Chilena para Extranjeros RUN 21.159.131-5, Certificado de Permanencia Definitiva Nº 243.512 y Documento Nacional de Identidad Argentino 18176478, ambos en representación de la "Sociedad de Responsabilidad Limitada Rentas la Docta Limitada", por la otra, para adquirir, por partes iguales, mediante compra a doña Ana María Soto Droguett, actual propietaria, el dominio de la propiedad ubicada en Pasaje Las Ninfas en el Agua Nº 295 Unidad 295 del Condominio Tipo B acogido a la Ley Nº 19.537, en el sector denominado Vista al Valle de la comuna de Machalí, inscrita a fojas 11.133 Nº 7.730 en el Registro de Propiedad del Conservador de Bienes Raíces de Rancagua del año 2004. Se comprenden en la compra del inmueble el porcentaje en los bienes comunes correspondientes al condominio. El plano donde se construyó el condominio se encuentra agregado bajo el Nº 315 del citado Conservador, correspondiéndole al inmueble el Rol de Avalúo Nº 468-58 de la Comuna de Machalí.
+
+#### Artículo segundo
+
+Déjase establecido que la autorización para comprar que se otorga por el presente decreto a las personas extranjeras antes individualizadas, sólo les habilitará para destinar el inmueble a la finalidad que fundamenta la respectiva solicitud; esto es, destinar el inmueble a inversión inmobiliaria, operación que es plenamente compatible con el interés nacional.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.- Cristián Larroulet Vignau, Ministro de Relaciones Exteriores (S).- Rodrigo Hinzpeter Kirberg, Ministro de Defensa Nacional.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Rodrigo Ubilla Mackenney, Subsecretario del Interior.
