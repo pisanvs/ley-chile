@@ -48,9 +48,7 @@ Primero: Deléganse en los Intendentes Regionales las siguientes atribuciones:
 
 ### 3. Concursos Públicos
 
-3.1) Aprobación de bases y del llamado a concursos públicos, a fin de proveer cargos en las Intendencias Regionales y en las Gobernaciones de la región en que ejercen sus funciones.
-
-3.2) Encomendamiento de funciones a servidores como encargados de personal, a fin de integrar las comisiones evaluadoras de los concursos públicos, a que se refiere el Nº 3.1, de la presente resolución.
+3.1) Encomendamiento de funciones a servidores como encargados de personal, a fin de integrar las comisiones evaluadoras de los concursos públicos, realizados a fin de proveer cargos con desempeño en las respectivas Intendencias Regionales y en las Gobernaciones de la región en que ejercen sus funciones.
 
 ### 4. Otros
 
@@ -66,7 +64,7 @@ Segundo: Deléganse en los Gobernadores Provinciales las siguientes atribuciones
 
 2) Disponer cometidos o comisiones de servicios, dentro del territorio nacional.
 
-3) Conceder feriados y permisos con o sin goce de remuneraciones. Asimismo, autorizar todos los permisos relativos a las normas sobre protección de la maternidad, inclusive los permisos paternales por nacimiento y aquellos a que se refiere el artículo 104 bis, del Estatuto Administrativo.
+3) Conceder feriados y permisos con goce de remuneraciones. Asimismo, autorizar todos los permisos relativos a las normas sobre protección de la maternidad, inclusive los permisos paternales por nacimiento y aquellos a que se refiere el artículo 104 bis, del Estatuto Administrativo.
 
 4) Ordenar la realización de trabajos extraordinarios.
 
