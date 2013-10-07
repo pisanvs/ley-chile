@@ -1,0 +1,47 @@
+DECLARA TÉRMINO DEL CONTRATO DE ADMINISTRACIÓN DEL RÉGIMEN DE SEGURO DE CESANTÍA CON LA SOCIEDAD ADMINISTRADORA DE FONDOS DE CESANTÍA DE CHILE S.A., ORDENA FINIQUITO Y DELEGA FACULTAD
+
+Núm. 65.- Santiago, 11 de septiembre de 2013.- Vistos: Lo dispuesto en el artículo 32 Nº 6 de la Constitución Política de la República; en la ley Nº 19.728, de 2001, que establece el Seguro de Cesantía; en el decreto supremo Nº 214, de 2 de noviembre de 2001, del Ministerio del Trabajo y Previsión Social, que aprueba la primera convocatoria del llamado a licitación pública para la contratación del servicio de Administración del Régimen de Seguro de Cesantía, establecido por la ley Nº 19.728; en el decreto supremo Nº 39, de 31 de enero de 2002, del Ministerio del Trabajo y Previsión Social, que adjudicó la primera convocatoria del Servicio de Administración del Régimen de Seguro de Cesantía; en el decreto supremo Nº 150, de 8 de mayo de 2002, que aprueba el Contrato de Administración del Seguro Obligatorio de Cesantía; lo dispuesto en el decreto supremo Nº 24, de 16 de marzo de 2011, del Ministerio del Trabajo y Previsión Social, que aprueba las bases, anexos y el llamado a una licitación pública para la contratación del servicio de Administración del Régimen de Seguro de Cesantía; en el decreto supremo Nº 80, de 12 de octubre de 2011, del Ministerio del Trabajo y Previsión Social, que declara desierta la convocatoria; lo dispuesto en el decreto supremo Nº 86, de 27 de octubre de 2011, del Ministerio del Trabajo y Previsión Social, que aprueba las bases, anexos y el llamado a una licitación pública para la contratación del servicio de Administración del Régimen de Seguro de Cesantía; en el decreto supremo Nº 24, de 14 de mayo de 2012, del Ministerio del Trabajo y Previsión Social, que adjudicó el servicio de Administración del Régimen de Seguro de Cesantía, establecido por la ley Nº 19.728; en el decreto supremo Nº 45, de 1 de octubre de 2012, que aprueba el Contrato de Administración del Seguro Obligatorio de Cesantía, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1.- Que por ley Nº 19.728 se estableció un Régimen de Seguro de Cesantía orientado a suministrar temporalmente protección y cobertura social a aquellos trabajadores que han dejado de desempeñar sus actividades ocupacionales por pérdida de sus empleos.
+
+2.- Que mediante decreto supremo Nº 214, de 2 de noviembre de 2001, del Ministerio del Trabajo y Previsión Social, se aprobaron las bases, anexos y se dispuso el primer llamado a licitación pública para la contratación del servicio de Administración del Régimen del Seguro de Cesantía establecido por la ley Nº 19.728.
+
+3.- Que, como resultado de dicha licitación, mediante decreto supremo Nº 39, de 31 de enero de 2002, del Ministerio del Trabajo y Previsión Social, se procedió a adjudicar el servicio de Administración del Régimen del Seguro de Cesantía, establecido por la ley Nº 19.728, al "Grupo Licitante Providencia", conformado por AFP Cuprum S.A., AFP Habitat, AFP Magíster S.A., AFP Planvital S.A., AFP Provida S.A., AFP Santa María y AFP Summa Bansander S.A.
+
+4.- Que dentro del plazo de 60 días, contados desde la publicación del decreto aprobatorio de la adjudicación del servicio, dicho grupo licitante se constituyó en una Sociedad Anónima, bajo la razón social de "Sociedad Administradora de Fondos de Cesantía de Chile S.A." por escritura pública otorgada en la Notaría de Santiago de doña Nancy de la Fuente Hernández, de fecha 18 de marzo de 2002.
+
+5.- Que, con fecha 25 de abril de 2002, el Ministerio del Trabajo y Previsión Social, el Ministerio de Hacienda y la Sociedad Administradora de Fondos de Cesantía de Chile S.A. celebraron contrato de Administración del Régimen de Seguro de Cesantía por el plazo de diez años, aprobado mediante decreto supremo Nº 150, de fecha 8 de mayo de 2002, del Ministerio del Trabajo y Previsión Social.
+
+6.- Que mediante decreto supremo Nº 24, de fecha 16 de marzo de 2011, del Ministerio del Trabajo y Previsión Social, se aprobaron las bases, anexos y se dispuso el llamado a una segunda licitación pública para la contratación del servicio de Administración del Régimen del Seguro de Cesantía establecido por la ley Nº 19.728.
+
+7.- Que la convocatoria referida en el 6º considerando anterior fue declarada desierta según consta en decreto supremo Nº 80, de fecha 12 de octubre de 2011, del Ministerio del Trabajo y Previsión Social.
+
+8.- Que mediante decreto supremo Nº 86, de 27 de octubre de 2011, del Ministerio del Trabajo y Previsión Social, se aprobaron las bases, anexos y se dispuso el llamado a una nueva licitación pública para la contratación del servicio de Administración del Régimen del Seguro de Cesantía establecido por la ley Nº 19.728.
+
+9.- Que en cumplimiento a lo dispuesto en el artículo 37º de la ley Nº 19.728 y a lo determinado en la cláusula Trigésimo Primera del contrato, celebrado con fecha 25 de abril de 2002, y en atención a los plazos necesarios para la nueva licitación, la Sociedad Administradora de Fondos de Cesantía de Chile S.A. se encuentra obligada a asegurar la continuidad de la prestación del servicio en condiciones de absoluta normalidad y en forma ininterrumpida.
+
+10.- Que, asimismo, la cláusula Trigésimo Primera citada dispuso las siguientes condiciones para dar término al Contrato de Administración del Régimen de Seguro de Cesantía: Primero la obligación de suscribir un finiquito, una vez que la administración del Seguro Obligatorio de Cesantía haya sido adjudicada a otra sociedad administradora mediante una nueva licitación del servicio por parte de los Ministerios del Trabajo y Previsión Social y de Hacienda, y, segundo, que dicha adjudicataria se encuentre en condiciones de comenzar a prestar sus servicios normalmente. De igual forma, esta misma cláusula estableció que ese finiquito se suscribiría una vez que se haya publicado en el Diario Oficial el decreto supremo de los Ministerios del Trabajo y Previsión Social y de Hacienda, que declara el término de los servicios de administración adjudicados.
+
+11.- Que mediante decreto supremo Nº 24, de 14 de mayo de 2012, del Ministerio del Trabajo y Previsión Social, se procedió a adjudicar el servicio de Administración del Régimen del Seguro de Cesantía, establecido por la ley Nº 19.728, al "Grupo Nueva Providencia II", conformado por BBVA Rentas e Inversiones Limitada, AFP Capital S.A., AFP Cuprum S.A. y AFP Planvital S.A.
+
+12.- Que dentro del plazo de 60 días, contados desde la publicación del decreto aprobatorio de la adjudicación del servicio, dicho grupo licitante se constituyó en Sociedad Anónima cerrada, bajo la razón social de "Sociedad Administradora de Fondos de Cesantía de Chile II S.A.", por escritura pública otorgada en la Notaría Pública de Santiago de don Eduardo Avello Concha, de fecha 23 de agosto de 2012.
+
+13.- Que mediante escritura pública de 1 de octubre de 2012, otorgada ante la Notario Público de Santiago, doña Nancy de la Fuente Hernández, los Ministerios del Trabajo y Previsión Social y de Hacienda procedieron a celebrar con la entidad adjudicataria el correspondiente contrato para el Servicio de Administración del Régimen del Seguro de Cesantía, el cual fue aprobado mediante decreto supremo Nº 45, de fecha 1 de octubre de 2012, del Ministerio del Trabajo y Previsión Social.
+
+14.- Que el contratante antes referido se encuentra en condiciones de comenzar a prestar sus servicios normalmente, a contar del día 7 de octubre de 2013.
+
+15.- Que, cumpliéndose las condiciones enunciadas en el 10º considerando anterior, corresponde declarar el término del contrato celebrado con la Sociedad Administradora de Fondos de Cesantía de Chile S.A., en virtud del cual se contrataron los servicios de Administración del Régimen de Seguro de Cesantía.
+
+Decreto:
+
+1º Declárese, a contar del día 7 de octubre de 2013, el término del Contrato de Administración del Régimen de Seguro de Cesantía celebrado con la Sociedad Administradora de Fondos de Cesantía de Chile S.A., mediante escritura pública de fecha 25 de abril de 2002, otorgada en la Notaría Pública de Santiago de doña Nancy de la Fuente Hernández, y aprobada mediante decreto supremo Nº 150, de fecha 8 de mayo de 2002, del Ministerio del Trabajo y Previsión Social.
+
+2º Finiquítese oportunamente el Contrato de Administración del Régimen de Seguro de Cesantía celebrado con la Sociedad Administradora de Fondos de Cesantía de Chile S.A., con fecha 25 de abril de 2002, de conformidad con lo dispuesto en la cláusula Trigésimo Primera del citado contrato.
+
+3º Deléguese en el Ministro del Trabajo y Previsión Social y en el Ministro de Hacienda la facultad de suscribir el finiquito y los demás actos necesarios para terminar el contrato celebrado con la Sociedad Administradora de Fondos de Cesantía de Chile S.A., con fecha 25 de abril de 2002, así como para suscribir "Por orden del Presidente de la República" los actos administrativos que sean necesarios para su formalización.
+
+Tómese razón, regístrese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Juan Carlos Jobet Eluchans, Ministro del Trabajo y Previsión Social.- Julio Dittborn Cordua, Ministro de Hacienda (S).
+
+Lo que transcribo a usted para su conocimiento.- Fernando Arab Verdugo, Subsecretario del Trabajo.
