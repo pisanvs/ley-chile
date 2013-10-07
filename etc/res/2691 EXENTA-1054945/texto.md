@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.691, de 1 de octubre de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 211110045 sector 0, 211105009, 212101028, 208106037 y 212101034, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de octubre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
