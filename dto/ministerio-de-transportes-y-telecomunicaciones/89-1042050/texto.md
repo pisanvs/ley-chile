@@ -52,15 +52,17 @@ comuna de Mariquina, XIV
 
 Región.
 
-Superficie delimitada por una
+Superficie delimitada por
 
-intensidad de campo mayor o
+una intensidad de campo
 
-igual que 54 dB (µV/m),
+mayor o igual que 54
 
-referida al punto de emisión
+dB (µV/m), referida al
 
-de la señal.
+punto de emisión de
+
+la señal.
 
 - Período de la concesión : 25 años.
 
@@ -90,9 +92,11 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Tipo de antena : Dipolo de ½ onda.
 
-- Ganancia : 4,5 dBd de ganancia máxima y
+- Ganancia : 4,5 dBd de ganancia
 
-de 3,9 dBd en el plano
+máxima y de 3,9 dBd
+
+en el plano
 
 horizontal.
 
@@ -104,9 +108,9 @@ radiación : 30 metros.
 
 - Pérdidas en cables,
 
-conectores y otros : 0,9 dB (incluye divisor de
+conectores y otros : 0,9 dB (incluye divisor
 
-potencia de 0,1 dB).
+de potencia de 0,1 dB).
 
 - Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
 
@@ -114,13 +118,13 @@ potencia de 0,1 dB).
 
 UBICACIÓN DE INSTALACIONES
 
-- Estudio principal : Calle Independencia Nº 129,
+- Estudio principal : Calle Independencia
 
-piso 3, comuna de
+Nº 129, piso 3, comuna
 
-Independencia, Región
+de Independencia,
 
-Metropolitana.
+Región Metropolitana.
 
 - Coordenadas geográficas : 33°25'49" Latitud Sur,
 
@@ -130,17 +134,19 @@ Datum PSAD56.
 
 - Planta transmisora y
 
-sistema radiante : Sector San Humberto s/n, San
+sistema radiante : Sector San Humberto s/n,
 
-José de la Mariquina, comuna
+San José de la Mariquina,
 
-de Mariquina, XIV Región.
+comuna de Mariquina,
 
-- Coordenadas geográficas : 39°31'57" Latitud Sur,
+XIV Región.
 
-72°57'40" Longitud Oeste.
+- Coordenadas geográficas : 39º31'45,9" Latitud Sur,
 
-Datum WGS84.
+72º57'36,9" Longitud Oeste.
+
+Datum WGS 84.
 
 4.- Los plazos de inicio y término de obras, y de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
