@@ -522,29 +522,25 @@ de edificación. 0,75% del presupuesto
 
 6.- Demoliciones 0,5% del presupuesto
 
-7.- Aprobación de planos. 1,5% del presupuesto
+7.- Aprobación de Planos 2 cuotas de ahorro
 
-8.- Certificado de número, línea,
+Para venta por pisos. Corvi por unidad
 
-recepción de ruralidad, etc,
+a vender.
 
-sin perjuicio del costo del
+8.- Certificados de número, línea, 1 cuota de ahorro
 
-documento cuando proceda. 0,07 UTM
+Recepción, venta por pisos, etc. Corvi, por unidad
 
-9.- Certificado de expropiación,
+a vender.
 
-urbanización y factibilidad
+9.- Permiso de instalación de torres 5% del presupuesto
 
-de uso de suelo. 0,07 UTM
+de soporte de antenas y sistemas de la instalación.
 
-10.- Certificado de informaciones previas. 0,18 UTM
+radiantes de telecomunicaciones.
 
-11.- Certificado de deslindes en
-
-conformidad al plano catastral. 0,07 UTM
-
-12.- Venta de planos tipo, preparados
+10.- Venta de planos tipo, preparados
 
 por la Dirección de Obras Municipales
 
@@ -554,7 +550,7 @@ la Ordenanza General de Urbanismo y
 
 Construcciones. 0,14 UTM.
 
-13.- Ingreso de una solicitud de aprobación
+11.- Ingreso de una solicitud de aprobación
 
 de anteproyecto o permiso a la
 
