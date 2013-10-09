@@ -38,4 +38,22 @@ F. El artículo 71 inciso 2º Núm. 7, en el sentido que el cronograma de valida
 
 Dos. Los titulares de registros sanitarios de productos farmacéuticos concedidos antes del día 25 de diciembre de 2011 que hayan sido o tengan autorizados dos o más fabricantes de principios activos, deberán optar por uno solo de ellos, realizando la correspondiente declaración ante este Instituto dentro del plazo de un año contado desde el día 25 de diciembre de 2011.
 
+Tres. Los titulares de registros sanitarios de productos farmacéuticos concedidos antes del día 25 de diciembre de 2011 que hayan sido o tengan autorizados dos o más fabricantes respecto de todo o algunas etapas del proceso productivo del respectivo producto farmacéutico, deberán optar por uno solo de ellos, para todo el proceso productivo o para cada etapa del mismo, según sea el caso, realizando la correspondiente declaración ante este Instituto dentro del plazo de un año contado desde el día 1 de octubre de 2013, conforme al siguiente procedimiento:
+
+a) El procedimiento debe realizarse ingresando a un módulo especial destinado al efecto en la plataforma de tramitación electrónica Gicona.
+
+b) En dicho módulo el interesado deberá señalar el fabricante que mantendrá asociado al producto o a la etapa correspondiente, así como aquellos que eliminará.
+
+c) Asimismo, el interesado deberá seleccionar el fabricante que conservará el número de registro existente.
+
+d) Una vez ingresada la solicitud de regularización, se generará un nuevo registro sanitario -con la misma información que el registro original- por cada fabricante que el interesado declare mantener, con un máximo de tres registros sanitarios en total.
+
+e) En el evento que el interesado desee conservar un mayor número de fabricantes, debe solicitar el registro sanitario correspondiente, cancelando el arancel respectivo.
+
+f) La solicitud de regularización será evaluada por el Departamento Agencia Nacional de Medicamentos, emitiendo el acto administrativo que formalice la decisión correspondiente.
+
+g) Los registros sanitarios generados serán considerados como independientes de aquel que le ha dado origen, de modo que cualquier modificación futura deberá ser solicitada en forma particular para cada uno de ellos.
+
+h) La fecha de inicio de vigencia de los nuevos registros generados será aquella en que se dicte la resolución a que se refiere la letra f) precedente.
+
 Anótese, comuníquese y publíquese en el Diario Oficial.- María Teresa Valenzuela Bravo, Directora.
