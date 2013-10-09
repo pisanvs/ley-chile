@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA ASOCIACIÓN DE GUÍAS Y SCOUTS DE CHILE
+
+Mediante decreto exento Nº 1.111, de 27 de septiembre de 2013, el Ministerio de Bienes Nacionales otorgó en concesión gratuita a la Asociación de Guías y Scouts de Chile, RUT 70.022.230-6, el inmueble fiscal ubicado en Avenida República Nº 97, comuna y provincia de Santiago, Región Metropolitana de Santiago, Rol de Avalúo Fiscal Nº 556-8, inscrito a nombre del Fisco, a fs. 16190 Nº 19202 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago correspondiente al año 1962; singularizado en el Plano Nº XIII-1-3752-C.U.; de una superficie aproximada de 1.096 m². La concesión se otorga por un plazo de 15 años, contados desde la fecha de suscripción de la escritura pública respectiva, para destinar el inmueble al funcionamiento de la sede y oficinas de la organización. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica.
