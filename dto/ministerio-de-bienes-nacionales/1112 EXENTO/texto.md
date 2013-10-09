@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA I. MUNICIPALIDAD DE SANTIAGO
+
+Mediante decreto exento Nº 1.112, de 27 de septiembre de 2013, el Ministerio de Bienes Nacionales otorgó en concesión gratuita a la I. Municipalidad de Santiago, RUT 69.070.100-6, el inmueble fiscal ubicado en calle Santo Domingo Nº 2398, comuna y provincia de Santiago, Región Metropolitana de Santiago en el cual se emplaza el Edificio Palacio Álamos, Rol de Avalúo Fiscal Nº 266-37, amparado por inscripción a nombre del Fisco, que corre inscrita a fs. 33764 Nº 22837 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago correspondiente al año 1995; singularizado en el Plano Nº XIII-1-3910 C.U.; de una superficie aproximada de 644,00 m². La concesión se otorga por un plazo de 15 años, contados desde la fecha de suscripción de la escritura pública respectiva, para efectuar en el inmueble las obras de remodelación y restauración que sean necesarias con la finalidad de destinarlo a la habilitación y mantención de un Centro Comunitario para el sector Norponiente de la comuna de Santiago. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica.
