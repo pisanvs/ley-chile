@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE LA ARAUCANÍA, AL CUERPO DE BOMBEROS DE QUITRATÚE
+
+Mediante decreto exento Nº 1.082, de 13 de septiembre de 2013, el Ministerio de Bienes Nacionales otorgó en concesión gratuita al Cuerpo de Bomberos de Quitratúe, RUT 82.105.000-6, el inmueble fiscal ubicado en calle José Miguel Carrera Nº 600, Quitratúe, comuna de Gorbea, provincia de Cautín, Región de la Araucanía, Rol de Avalúo Fiscal Nº 264-8, inscrito a nombre del Fisco, a fs. 2337 vta. Nº 1064, del Registro de Propiedad correspondiente al año 2011 del Conservador de Bienes Raíces de Pitrufquén; singularizado en el Plano Nº 09107-1.326 C.U.; de una superficie aproximada de 974,83 m². La concesión se otorga por un plazo de 30 años, contados desde la fecha de suscripción de la escritura pública respectiva, para destinar el inmueble a las funciones propias de la institución a favor de la comunidad. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Jefe División Jurídica.
