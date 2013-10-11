@@ -126,13 +126,19 @@ Datum: PSAD 56.
 
 transmisora y sistema
 
-radiante : Sector Huai Huen, comuna de
+radiante : Sector Huai Huen,
 
-Ancud, X Región.
+comuna de Ancud,
 
-- Coordenadas geográficas : 41º51'41" Latitud Sur.
+X Región.
 
-73°48'29" Longitud Oeste.
+- Coordenadas geográficas : 41º51'42" Latitud
+
+Sur.
+
+73°48'17" Longitud
+
+Oeste.
 
 Datum: PSAD 56.
 
