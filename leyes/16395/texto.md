@@ -10,43 +10,101 @@ El siguiente es el texto refundido de la Ley de Organización y Atribuciones de 
 
 #### Artículo 1°
 
-La Superintendencia de Seguridad Social depende del Ministerio del Trabajo y Previsión Social, por intermedio de la Subsecretaría de Previsión.
+La Superintendencia de Seguridad Social, en adelante la Superintendencia, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, que se relaciona con el Presidente de la República a través del Ministerio del Trabajo y Previsión Social, por intermedio de la Subsecretaría de Previsión Social.
+
+La Superintendencia tendrá, para todos los efectos legales, el carácter de institución fiscalizadora, en los términos del Título I del decreto ley N° 3.551, de 1981.
+
+La Superintendencia constituirá un servicio público de aquellos regidos por el Sistema de Alta Dirección Pública, establecido en el Título VI de la ley N° 19.882.
+
+Su domicilio es la ciudad de Santiago, sin perjuicio de las oficinas regionales que el Superintendente establezca en otras ciudades del país.
+
+Corresponderá a la Superintendencia la supervigilancia y fiscalización de los regímenes de seguridad social y de protección social, como asimismo de las instituciones que los administren, dentro de la esfera de su competencia y en conformidad a la ley.
 
 #### Artículo 2°
 
-Las funciones esenciales de la Superintendencia de Seguridad Social, son las siguientes:
+Son funciones de la Superintendencia las siguientes:
 
-a) Impartir las normas y orientaciones necesarias para el perfeccionamiento técnico y administrativo de las Cajas de Previsión, para el mejor cumplimiento de las funciones que se les han encomendado;
+a) Fijar, en el orden administrativo, la interpretación de las normas legales y reglamentarias de seguridad social de su competencia.
 
-b) Realizar los estudios e investigaciones necesarios acerca de las condiciones médico-sociales, demográficas, demológicas y económicas de las poblaciones afiliadas e inducir las leyes biométricas y financieras que rigen los riesgos ordinarios de la vida y del trabajo;
+b) Dictar las circulares, instrucciones y resoluciones a las entidades sometidas a su supervigilancia, en tanto sean necesarias para el ejercicio de las funciones y atribuciones que le confiere esta ley.
 
-c) Supervigilar y juzgar la gestión administrativa de las instituciones de previsión social;
+Asimismo, deberá impartir instrucciones a las instituciones sometidas a su fiscalización sobre los procedimientos para el adecuado otorgamiento de las prestaciones que en cada caso correspondan, dentro del ámbito de su competencia.
 
-d) Calificar la legalidad de los ingresos, así como la oportunidad y finalidad de los egresos e inversiones de los fondos de las instituciones de previsión y de los beneficios que se otorguen a los imponentes;
+Previamente a dictar circulares o instrucciones de carácter general, la Superintendencia convocará a un proceso de consulta pública y recepción de comentarios, salvo que, por la naturaleza de la materia de que se trate o la oportunidad en que deban surtir efecto las respectivas instrucciones, esta instancia no sea procedente. Dicho proceso se realizará por medios electrónicos u otros que se fijen al efecto. Los comentarios que se reciban serán evaluados, sin ser vinculantes.
 
-e) Examinar y juzgar los balances de contabilidad, los actuariales y los de acumulaciones, e inspeccionar los servicios médicos, actuariales, de contabilidad, administrativos, etc.;
+c) Resolver las presentaciones, apelaciones y reclamos de usuarios, trabajadores, pensionados, entidades empleadoras, organismos administradores de la seguridad social y otras personas, ya sean naturales o jurídicas, en materias que no sean de carácter litigioso, dentro del ámbito de su competencia.
 
-f) Estudiar e informar al Ministerio del Trabajo y Previsión Social los presupuestos de ingresos y egresos y las plantas de empleados de las Cajas de Previsión Social;
+d) Asesorar al Ministerio del Trabajo y Previsión Social en materias de su competencia y proponer las reformas legales y reglamentarias que la técnica y experiencia aconsejen.
 
-g) Proponer al Ministerio del Trabajo y Previsión Social las reformas legales y reglamentarias de la legislación vigente que la técnica y la experiencia aconsejen;
+e) Realizar estudios e informes sobre aspectos médicos, actuariales, financieros, jurídicos y otros, referidos a materias de su competencia.
 
-h) Desempeñar, en general, todas las otras funciones que le encomiende esta ley y los demás preceptos vigentes o que se dicten en lo futuro;
+f) Sistematizar y proponer la estandarización de la normativa sobre seguridad y salud en el trabajo, para lograr su uniformidad, mediante revisiones periódicas.
 
-i) Divulgar los principios técnicos y sociales que deben informar el espíritu de previsión de los ciudadanos desde la niñez, y mantener informada a la opinión nacional sobre el desarrollo de la previsión, mediante una amplia difusión de los textos legislativos correspondientes y de los resultados de su aplicación; y
+g) Administrar y mantener actualizado el Sistema Nacional de Información de Seguridad y Salud en el Trabajo, el que deberá contener, a lo menos, la información de las denuncias de accidentes del trabajo y de enfermedades profesionales, los diagnósticos de enfermedad profesional, los exámenes y las evaluaciones realizadas, las calificaciones de los accidentes y enfermedades, y las actividades de prevención y fiscalización que correspondan, asegurando la privacidad de los datos personales y sensibles.
 
-j) Elevar al Ministerio del Trabajo y Previsión Social la Memoria Anual de la Superintendencia de Seguridad Social.
+El Sistema se integrará, además, con la información relativa a la seguridad y salud en el trabajo que deberán proporcionar, en la forma y periodicidad que determine la Superintendencia, el Fondo Nacional de Salud, las secretarías regionales ministeriales de salud, las comisiones de medicina preventiva e invalidez, los servicios de salud, el Instituto de Seguridad Laboral, las instituciones de salud previsional, las mutualidades de empleadores y la Dirección del Trabajo; entidades que estarán obligadas a entregar los antecedentes que deban poseer de acuerdo a sus atribuciones legales. En caso que no dispongan de los antecedentes o no cumplan con su remisión dentro de los plazos fijados, dichas entidades deberán informar por escrito las razones de ello e indicar el término en que lo harán. Adicionalmente, la Superintendencia podrá requerir la información de que disponga el Sistema de Información de Datos Previsionales administrado por el Instituto de Previsión Social, como también la información que otras entidades públicas o privadas tengan en su poder y resulte necesaria para la integración del Sistema y el cumplimiento de su objetivo.
 
-Las funciones indicadas en las letras d) y e) se ejercerán por la Superintendencia respecto de las Instituciones y Servicios sometidos a su fiscalización, sin perjuicio de corresponder el examen y juzgamiento de sus cuentas a la Contraloría General de la República de acuerdo con las disposiciones de su Ley Orgánica.
+Corresponderá a la Superintendencia proporcionar acceso a la información que conste en el Sistema Nacional de Información a las entidades públicas que la soliciten, exclusivamente dentro del ámbito de su competencia.
+
+Será aplicable al personal de la Superintendencia lo dispuesto en el inciso final del artículo 56 de la ley N° 20.255.
+
+h) Asesorar al Ministerio del Trabajo y Previsión Social en la evaluación y diseño de políticas públicas en las materias de su competencia, incluyendo la Política Pública de Seguridad y Salud en el Trabajo, y proponer las reformas legales y reglamentarias que sean pertinentes.
+
+i) Impartir instrucciones a los organismos administradores de la ley N° 16.744, de conformidad a lo que disponga la Política Pública de Seguridad y Salud en el Trabajo, en lo que corresponda, y fiscalizar que dichas entidades se ajusten a aquéllas.
+
+j) Evacuar los informes técnicos que soliciten los tribunales de justicia, en materias propias de su competencia.
+
+k) Velar porque las instituciones fiscalizadas cumplan con las leyes y reglamentos que las rigen y con las instrucciones que la Superintendencia emita, sin perjuicio de las facultades que pudieren corresponder a otros organismos fiscalizadores.
+
+l) Examinar, calificar y observar los estados contables y financieros de las entidades sometidas integralmente a su fiscalización, los que, según una norma de general aplicación que establezca la Superintendencia, deberán presentarse debidamente auditados por auditores externos inscritos en el registro de empresas de auditoría externa de la Superintendencia de Valores y Seguros.
+
+m) Ordenar la realización de auditorías o, en casos calificados, instruir los procedimientos sancionatorios a las entidades fiscalizadas, procediendo a la aplicación de las sanciones que corresponda, sin perjuicio de la facultad de formular denuncias y querellas ante el Ministerio Público y los tribunales que correspondan por las eventuales responsabilidades de ese carácter que afectaren a aquéllas o a sus directores, ejecutivos o trabajadores.
+
+n) Impartir instrucciones de carácter general a los organismos fiscalizados, para que publiquen con la periodicidad que la Superintendencia señale, información suficiente y oportuna de interés público, relativa a su situación jurídica, económica y financiera, además de antecedentes sobre la estructura de gobierno corporativo y de administración superior que posean.
+
+ñ) Elaborar y publicar las estadísticas referentes a los regímenes de seguridad social dentro del ámbito de su competencia.
+
+o) Elaborar y publicar la Memoria Anual del Sistema Nacional de Seguridad y Salud Laboral, que incluirá los resultados alcanzados, los principales hitos en el desarrollo de la Política Nacional de Seguridad y Salud en el Trabajo, y los avances que se registren en el logro de los objetivos, indicando niveles de cumplimiento de los mismos y perspectivas para el futuro. Además, recopilará, consolidará y sistematizará la información que proporcionen los organismos administradores de la ley Nº 16.744 y las diversas instituciones públicas con competencias en materias de seguridad y salud laboral, directamente o a través del Sistema Nacional de Información de Seguridad y Salud en el Trabajo.
+
+Dicha Memoria se remitirá al Ministerio del Trabajo y Previsión Social, a más tardar el mes de mayo de cada año.
+
+p) Difundir los principios técnicos y sociales de seguridad social, mediante la divulgación de los textos legales correspondientes y del resultado de su aplicación.
+
+q) Desempeñar las demás funciones que le encomienden las leyes.
 
 #### Artículo 3°
 
-La Superintendencia de Seguridad Social será la autoridad técnica de control de las instituciones de previsión.
+La Superintendencia de Seguridad Social será la autoridad técnica de fiscalización de las instituciones de previsión, dentro del ámbito de su competencia.
 
-El control de la Superintendencia comprenderá los órdenes médico-social, financiero, actuarial, jurídico y administrativo.
+La supervigilancia de la Superintendencia comprenderá los órdenes médico-social, financiero, actuarial, jurídico y administrativo, así como también la calidad y oportunidad de las prestaciones.
 
 #### Artículo 4°
 
-La Superintendencia de Seguridad Social estará a cargo de un funcionario que tendrá el título de Superintendente, y será designado por el Presidente de la República.
+Un funcionario con el título de Superintendente de Seguridad Social es el Jefe Superior de la Superintendencia y tiene la representación legal, judicial y extrajudicial de la misma.
+
+El Superintendente de Seguridad Social, el Fiscal y los Intendentes serán nombrados por el Presidente de la República de conformidad a lo establecido en el Título VI de la ley Nº 19.882. Al efecto, el Superintendente tendrá el grado 1°, de la escala de fiscalizadores correspondiente al primer nivel jerárquico, y los cargos de Fiscal e Intendentes, grado 2° de la escala de fiscalizadores, correspondientes al segundo nivel jerárquico.
+
+Corresponderá al Superintendente, especialmente:
+
+a) Planificar, organizar, dirigir, coordinar y controlar el funcionamiento de la Superintendencia.
+
+b) Establecer oficinas regionales o provinciales cuando las necesidades del Servicio así lo exijan y existan las disponibilidades presupuestarias.
+
+c) Dictar los reglamentos e instrucciones internas necesarias para el buen funcionamiento de la Superintendencia.
+
+d) Celebrar los convenios y ejecutar los actos necesarios para el cumplimiento de los fines de la Superintendencia. En el ejercicio de estas facultades podrá administrar, adquirir y enajenar bienes.
+
+e) Ejercer, respecto del personal de la Superintendencia, todas las atribuciones que corresponden a un jefe superior de servicio.
+
+f) Encomendar a las Intendencias de la Superintendencia, a su Fiscalía, y a las unidades que componen su organización interna, las funciones que estime necesarias.
+
+g) Aplicar las sanciones que señalen las leyes.
+
+h) Conocer y resolver los recursos que la ley establece.
+
+i) Rendir cuenta anualmente de su gestión, con el objeto de permitir a las personas efectuar una evaluación continua y permanente de los avances y resultados alcanzados por la Superintendencia.
+
+j) Las demás que establezcan las leyes y reglamentos.
 
 #### Artículo 5°
 
@@ -54,95 +112,67 @@ En los casos de ausencia, impedimento o licencia del Superintendente, será reem
 
 #### Artículo 6°
 
-El Superintendente de Seguridad Social gozará de la misma remuneración que el Superintendente de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio y tendrá, para el nombramiento, promoción y remuneraciones del personal de su dependencia, las mismas facultades que el artículo 4° del decreto con fuerza de ley 252, de 1960, otorga al Superintendente de Bancos respecto de su personal. El decreto del Presidente de la República a que se refiere el inciso 1° del artículo 4° del decreto con fuerza de ley 252, de 1960, se dictará por intermedio del Ministerio del Trabajo y Previsión Social y con la firma del Ministro de Hacienda.
-
-El Superintendente podrá tomar personal a contrata o a honorarios y determinar sus remuneraciones.
-
-El Superintendente de Seguridad Social podrá autorizar la realización de trabajos en horas extraordinarias al personal de su dependencia. Para estos efectos, se entenderán por horas extraordinarias las que excedan de la jornada normal de trabajo a que se refiere el artículo 143° del decreto con fuerza de ley 338, de 1960. Los trabajos en horas extraordinarias que determine el Superintendente se remunerarán con el recargo del cincuenta por ciento sobre el sueldo que corresponda al tiempo trabajado, siempre que se consulten fondos para este efecto.
-
-Asimismo, el Superintendente estará facultado para contratar a honorarios los servicios de instituciones, de profesionales o de expertos, con el fin de dar cumplimiento a funciones inspectivas o trabajos especiales, y al estudio de la unificación de los sistemas previsionales vigentes, debiendo rendir cuenta directamente a la Contraloría General de la República del gasto respectivo.
-
-> **Nota.** NOTA: 1 El art. 16 de la ley 17308, dispuso: Declárase que la facultad que el inciso 3° del artículo 6° de la ley 16.395 otorga al Superintendente de Seguridad Social, ha podido y puede ejercerse sin sujeción a ninguna otra limitación que no sea la calificación que de las necesidades del Servicio haga el Superintendente en la respectiva resolución. La misma facultad a que se refiere el inciso anterior corresponderá, a partir de la vigencia de la presente ley, a los Superintendentes de Bancos y de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio. En ningún caso el ejercicio de esta facultad podrá extenderse a más del 15% del personal de cada uno de los servicios.
-
-> **Nota.** NOTA: 2 El art. 23 del DL 2062, de 1977, dispuso: Declárase que las facultades de nombrar y promover libremente al personal de su dependencia que otorga al Superintendente de Seguridad Social el inciso primero del artículo 6° de la ley 16.395, no han sido derogadas ni modificadas por lo dispuesto en el inciso segundo del artículo 3° del decreto ley 1.608, de 1976. Lo anterior se entenderá sin perjuicio de lo previsto en el inciso primero del artículo 3° del decreto ley 1608, de 1976.
+DEROGADO.
 
 #### Artículo 7°
 
-Sin perjuicio de lo dispuesto en el artículo anterior, se aplicarán al personal de la Superintendencia de Seguridad Social las normas contenidas en el decreto con fuerza de ley 338, de 6 de abril de 1960, para el personal de la Administración Civil del Estado.
+El personal de la Superintendencia se regirá por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda.
+
+El personal a contrata de la Superintendencia podrá desempeñar funciones de carácter directivo o de jefatura, las que serán asignadas, en cada caso, por el Superintendente. El personal que se asigne a tales funciones no podrá exceder del 10% del personal a contrata de la institución.
 
 #### Artículo 8°
 
-La Superintendencia estará constituida por los siguientes departamentos: Jurídico, Actuarial, de Racionalización y Métodos, Inspección, Médico, de Divulgación y Perfeccionamiento; y por la Secretaría General.
+La Superintendencia se estructurará orgánica y funcionalmente en la Fiscalía, la Intendencia de Seguridad y Salud en el Trabajo y la Intendencia de Beneficios Sociales.
+
+En conformidad con lo establecido en el artículo 31 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado mediante el decreto con fuerza de ley Nº 1, de 2001, del Ministerio Secretaría General de la Presidencia, el Superintendente, con sujeción a la planta y la dotación máxima de personal, establecerá su organización interna y determinará las denominaciones y las funciones que correspondan a cada una de sus unidades.
 
 #### Artículo 9°
 
-La Planta de la Superintendencia de Seguridad Social será la siguiente: Superintendente, uno, Intendente-Abogado, uno; Departamento Jurídico: Fiscal, uno; abogado primero, uno; abogado segundo, uno; abogados terceros, dos; abogados cuartos, dos; abogados quintos, tres; oficiales, dos; Departamento Actuarial: Ingeniero Jefe, uno; Actuario 1°, Ingeniero, uno; Actuario 2°, Ingeniero, uno; Actuarios 3°, dos; Calculistas, dos; Departamento de Racionalización y Métodos: Jefe, uno; Expertos en Racionalización, dos; Ayudantes, dos; Departamento de Inspección: Inspector Jefe Contador, uno; Auditor 1°, uno; Inspector Técnico de Construcciones, Ingeniero o Arquitecto, uno; Auditores 2°, dos; Auditores 3°, tres; Auditores 4°, cinco; Auditores 5°, seis; Ayudantes Auditores, cuatro; Departamento Médico: Médico Jefe, dedicación exclusiva, uno; Médico Inspector, 36 horas, uno; Médicos Inspectores, 24 horas semanales cada uno, dos; Médicos Asesores Clínicos de Especialidades de: Internista, uno; de Cirugía, uno; de Pediatría, uno; de Ginecología y Obstetricia, uno; Departamento de Divulgación y Perfeccionamiento: Jefe, uno; Oficial 1°, uno; Oficial 2°, uno; Secretaría General: Secretario General, uno; Oficial 1°, uno; Oficiales 2°, tres; Oficiales 3°, tres; Oficiales 4°, dos; Oficiales 5°, tres; Mayordomo, uno; Auxiliares 1°, tres; Auxiliares 2°, cuatro; Auxiliares 3°, dos.
-
-Los funcionarios de los Departamentos de Inspección y Jurídico que designe el Superintendente desempeñarán, respectivamente, las funciones de Oficial de Presupuesto y de Secretario de la Comisión Central de Reclamos de Medicina Preventiva.
-
-> **Nota.** NOTA: 3 La modificación introducida por el DFL 2, de Previsión Social, de 1973, rige a contar del 1° de Julio de 1972, según su art. 1°.
-
-> **Nota.** NOTA: 4 El art. 56 del DL 307, de 1974, creó nuevos cargos en la Planta de la Superintendencia de Seguridad Social.
+DEROGADO.
 
 #### Artículo 10°
 
-Para los efectos de lo dispuesto en el artículo 381° del decreto con fuerza de ley 338, de 1960, se considerarán como empleados superiores, el Superintendente de Seguridad Social, el Fiscal y el Intendente Abogado.
+DEROGADO.
 
 #### Artículo 11°
 
-Los cargos de la planta de la Superintendencia de Seguridad Social son incompatibles con cualquier empleo, función o comisión de las entidades que fiscalice.
+Los cargos de la Superintendencia de Seguridad Social son incompatibles con cualquier empleo, función o comisión en las entidades que fiscalice.
 
 #### Artículo 12°
 
-Los cargos de Médicos Asesores de especialidades que se crean en la planta del Departamento Médico, no estarán afectos a ninguna clase de incompatibilidades de funciones, remuneraciones, ni de horarios, cuando las personas que los desempeñan sean Profesores Universitarios, ya sea ordinarios, extráordinarios o auxiliares, médicos encargados de cursos o Jefes de Clínica, en servicio o jubilados.
-
-Estos cargos se proveerán anualmente por el Superintendente. En la misma resolución de nombramiento se les asignará su remuneración ateniéndose, únicamente para este efecto, a las respectivas disposiciones de la ley 15.076, sus modificaciones posteriores y las que se dicten en el futuro.
+DEROGADO.
 
 #### Artículo 13°
 
-La ampliación horaria para los médicos funcionarios de la Superintendencia de Seguridad Social se concederá con la sola autorización del Superintendente, por resolución fundada.
+DEROGADO.
 
 #### Artículo 14°
 
-El personal médico de la Superintendencia será calificado de acuerdo con las mismas normas y procedimientos que el personal administrativo.
-
-En los concursos a que se llame para proveer los cargos de Médicos Inspectores, gozarán de preferencia los profesionales que invoquen servicios universitarios.
+DEROGADO.
 
 #### Artículo 15°
 
-Sin perjuicio de lo establecido en los artículos 12°, 13° y 14°, los profesionales funcionarios del Departamento Médico continuarán afectos a las disposiciones de la ley 15.076, de 8 de enero de 1963.
+DEROGADO.
 
 #### Artículo 16°
 
-Las observaciones que formulen los médicos inspectores y asesores al personal de médicos, dentistas y farmacéuticos de las instituciones sometidas a la fiscalización de la Superintendencia, serán anotadas en la hoja de servicios de estos profesionales.
+DEROGADO.
 
-#### Artículo 17
+#### Artículo 17°
 
-Para desempeñar los cargos de Auditores se requiere el título de Contador y estar inscrito en el Colegio de Contadores.
-
-Para desempeñar los cargos de Actuario se requiere haber cursado satisfactoriamente Tercer Año de Ingeniería o Pedagogía en Matemáticas o de la carrera de Técnico Estadístico.
-
-Para desempeñar los cargos de Jefes de Departamento de Racionalización y Métodos y Experto en Racionalización, se requiere el título de Ingeniero Comercial o de Administrador Público.
-
-Para desempeñar el cargo de Jefe del Departamento de Divulgación y Perfeccionamiento se requiere título profesional universitario. Asimismo, para desempeñar el cargo de Bibliotecario se requiere el título profesional universitario correspondiente.
-
-> **Nota.** NOTA: 5 Las modificaciones introducidas por el DL 307, de 1974, comenzarán a regir el 1° de enero de 1975, según el art. 61 de ese DL.
+DEROGADO.
 
 #### Artículo 18°
 
-Los cargos de Ayudantes de Auditores y de Ayudantes de Actuarios, serán desempeñados por personas que acrediten a satisfacción del Superintendente, estudios suficientes de contabilidad y matemáticas actuariales, respectivamente.
-
-Para desempeñar los cargos de Oficiales del Departamento Jurídico se requiere haber cursado por lo menos, cuarto año de Derecho en cualquiera Universidad del país.
+DEROGADO.
 
 #### Artículo 19°
 
-Para desempeñar el cargo de Inspector Técnico de Construcciones, se requerirá el título profesional de Ingeniero Civil o de Arquitecto.
+DEROGADO.
 
 #### Artículo 20°
 
-El Superintendente de Seguridad Social designará al secretario de la Comisión Central de Reclamos de Medicina Preventiva, quien ejercerá las funciones de Ministro de Fe en los casos que la ley y el reglamento lo requieran.
-
-En todo caso, esta designación recaerá en un funcionario del Departamento Jurídico de la Superintendencia de Seguridad Social, el cual no tendrá remuneración especial.
+DEROGADO.
 
 #### Artículo 21°
 
@@ -154,7 +184,7 @@ Ningún funcionario de la Superintendencia podrá percibir una remuneración may
 
 #### Artículo 23°
 
-Las Cajas de Compensación de Asignación Familiar a que se refiere el artículo 15° del decreto con fuerza de ley 245, de 1953, estarán sometidas al control y fiscalización de la Superintendencia de Seguridad Social, la cual tendrá a su cargo la aplicación de las leyes y reglamentos vigentes respecto de dichas Cajas.
+Las Cajas de Compensación de Asignación Familiar a que se refiere la ley N° 18.833, estarán sometidas a la supervigilancia y fiscalización de la Superintendencia de Seguridad Social, la cual tendrá a su cargo la aplicación de las leyes y reglamentos vigentes respecto de dichas Cajas.
 
 #### Artículo 24°
 
@@ -172,7 +202,7 @@ La Comisión funcionará en la Superintendencia de Seguridad Social y sus gastos
 
 #### Artículo 26°
 
-La Confederación Mutualista de Chile estará sometida a la fiscalización de la Superintendencia de Seguridad Social y sus relaciones administrativas con los organismos estatales se harán por intermedio del Ministerio del Trabajo.
+DEROGADO.
 
 #### Artículo 27°
 
@@ -180,109 +210,87 @@ En lo que no se refiere a funciones derivadas del Código Sanitario, el Servicio
 
 #### Artículo 28°
 
-La Comisión Central de Reclamos de Medicina Preventiva, a que se refiere la ley 6.174 y sus modificaciones, funcionará en la ciudad de Santiago como dependencia de la Superintendencia de Seguridad Social.
-
-La Comisión Central de Reclamos se compondrá de tres médicos, uno de los cuales, que la presidirá, será designado por el Presidente de la República y deberá ser funcionario de la Superintendencia de Seguridad Social.
-
-Anualmente la Comisión Central informará a la Superintendencia de Seguridad Social de los vacíos, dudas y dificultades que note en la aplicación de la Ley de Medicina Preventiva.
+DEROGADO.
 
 #### Artículo 29°
 
-El Superintendente de Seguridad Social presidirá la Comisión de Reclamos a que se refiere el artículo 9° de la ley 10.383, la cual estará integrada, además, por el Jefe del Departamento Médico de la Superintendencia y por un médico designado por el Presidente de la República a propuesta en terna del Colegio Médico.
+DEROGADO.
 
 #### Artículo 30°
 
-El seguro sobre accidentes del trabajo se regirá por las disposiciones pertinentes de las leyes de previsión social, y la fiscalización de las instituciones que a él se dediquen, corresponderá a la Superintendencia de Seguridad Social.
+El Seguro Social contra Riesgos del Trabajo y Enfermedades Profesionales que se rige por la ley N° 16.744 y sus reglamentos, y la fiscalización de las instituciones que a él se dediquen, corresponderá a la Superintendencia de Seguridad Social.
 
 #### Artículo 31°
 
-La vigilancia del cumplimiento de las leyes y reglamentos sobre seguros de accidentes del trabajo, por parte de las entidades aseguradoras, estará a cargo de la Superintendencia de Seguridad Social, la que está facultada para sancionar las infracciones y verificar los datos que se proporcionen, así como también para informar sobre el monto del recargo de las primas a que se refiere el artículo 5° de la ley 12.435.
+DEROGADO.
 
-Para los fines anteriores, la Superintendencia de Seguridad Social tendrá las facultades previstas en el decreto con fuerza de ley 251, de 20 de mayo de 1931, en sus artículos 44° y 49°, este último, en relación con el inciso 2° del artículo 41° del mismo decreto con fuerza de ley.
+#### Artículo 32
 
-#### Artículo 32°
-
-Las sociedades u organismos filiales de las instituciones de previsión social sometidas a la supervigilancia de la Superintendencia de Seguridad Social cuyo capital esté formado con un aporte de estas instituciones igual o superior al 50%, estarán sometidas a la fiscalización y supervigilancia de la Superintendencia de Seguridad Social, sin perjuicio de la intervención que le corresponda a otros organismos.
+La constitución de sociedades u organismos filiales de las instituciones de previsión social sometidas a la supervigilancia integral de la Superintendencia de Seguridad Social deberá ser autorizada por esa Superintendencia. Asimismo, estas sociedades u organismos filiales estarán sometidos a la fiscalización y supervigilancia de la Superintendencia, sin perjuicio de las facultades que les correspondan a otros organismos.
 
 #### Artículo 33°
 
-Los organismos de previsión social que se creen por los sindicatos estarán sujetos a la autorización previa de la Superintendencia de Seguridad Social, que ejercerá la supervigilancia correspondiente por intermedio de los funcionarios de su dependencia.
+DEROGADO.
 
 #### Artículo 34°
 
-Corresponderá a la Superintendencia de Seguridad Social impartir a las instituciones sometidas a su control, instrucciones sobre procedimientos administrativos, organización y racionalización de funciones y dependencias, las que serán obligatorias.
+DEROGADO.
 
-Las Cajas de Previsión Social deberán confeccionar anualmente, de acuerdo con las normas que imparta la Superintendencia de Seguridad Social, un balance general de contabilidad, un balance actuarial y un balance de acumulaciones que en conjunto, formarán el balance financiero de la institución.
+#### Artículo 35
 
-#### Artículo 35°
+En el ejercicio de su labor fiscalizadora, la Superintendencia deberá siempre informar a la entidad respectiva acerca de la materia específica objeto de la fiscalización y de la normativa pertinente, realizando las diligencias proporcionales al objeto de la fiscalización.
 
-Los organismos auxiliares se ajustarán en toda su gestión a las normas financieras que rijan para la Caja de Previsión de Empleados Particulares.
+Para el cumplimiento de sus funciones y atribuciones, la Superintendencia podrá inspeccionar todas las operaciones, bienes, libros, cuentas, archivos y documentos de las instituciones sometidas a su supervigilancia, y requerir de ellas o de sus administradores, asesores, auditores o personal, los antecedentes y explicaciones que juzgue necesarios. Igualmente, podrá solicitar la entrega de los documentos o libros o antecedentes que sean necesarios para fines de fiscalización, sin alterar el desenvolvimiento normal de las actividades del afectado.
 
-El incumplimiento de la disposición del inciso anterior será establecido por la Superintendencia de Seguridad Social.
+La Superintendencia, mediante resolución, determinará aquellos libros, archivos y documentos de las entidades fiscalizadas que deberán estar permanentemente disponibles para su examen en su domicilio o en la sede principal de su actividad.
 
-En este caso, el Presidente de la República podrá decretar la cancelación de la personalidad jurídica de la institución afectada y que la Caja de Previsión de Empleados Particulares se haga cargo de su activo y pasivo.
+También la Superintendencia podrá requerir a los organismos fiscalizados que le proporcionen la información necesaria para desarrollar sus funciones a través de medios electrónicos, como asimismo que se le otorgue acceso a los sistemas de información que posean estas instituciones, en los casos que determine a través de sus instrucciones y adoptando todas las medidas necesarias para asegurar el resguardo de la confidencialidad de la información sensible.
+
+Además, podrá solicitar declaración por escrito o citar a declarar a los jefes superiores, representantes, administradores, directores, asesores, auditores y dependientes de las entidades o personas fiscalizadas, en los casos en que lo estime necesario para el cumplimiento de sus funciones. No estarán obligadas a concurrir a declarar las personas indicadas en el artículo 361 del Código de Procedimiento Civil, a las cuales la Superintendencia deberá pedir declaración por escrito.
 
 #### Artículo 36°
 
-El Superintendente de Seguridad Social, por derecho propio será miembro, sin derecho a voto, de los Consejos de todas las instituciones sometidas a su fiscalización, y podrá delegar su representación en funcionarios de su dependencia.
-
-Para este efecto dictará una resolución interna que se comunicará al Ministerio e institución respectivos.
-
-Será obligatoria la asistencia del Superintendente o del delegado a lo menos al 75 por ciento de las sesiones mensuales de los Consejos de todas las instituciones de previsión social.
+DEROGADO.
 
 #### Artículo 37°
 
-Corresponderá a la Superintendencia de Seguridad Social fijar las normas generales a las cuales deberán ajustarse las instituciones sometidas a su fiscalización para sus adquisiciones y para la celebración de contratos de confección de obras materiales.
-
-La infracción a lo dispuesto en este artículo podrá ser penada hasta con la destitución.
+DEROGADO.
 
 #### Artículo 38°
 
-La Superintendencia de Seguridad Social tendrá las siguientes atribuciones respecto de las instituciones de previsión social:
+La Superintendencia de Seguridad Social tendrá las siguientes atribuciones respecto de las instituciones de previsión social sometidas a su fiscalización:
 
 a) Modificar y hacer uniformes los métodos de contabilidad de acuerdo con los sistemas técnicos más económicos y modernos;
 
-b) Establecer los procedimientos que los funcionarios de las instituciones de previsión social deben seguir en el manejo de los fondos y bienes de esas instituciones, así como la forma de presentar las cuentas, confeccionar los inventarios y todo lo que se refiere a la inversión, manejo y enajenación de esos fondos y bienes;
+b) Establecer los procedimientos que las instituciones de previsión social deben seguir en el manejo de los fondos y bienes de esas instituciones, así como la forma de presentar las cuentas, confeccionar los inventarios y todo lo que se refiere a la inversión, manejo y enajenación de esos fondos y bienes;
 
-c) Dictar las normas técnicas para la organización y funcionamiento de los servicios médicos, actuariales, jurídicos y administrativos;
+c) Ordenar la realización de balances de situación, actuariales y de acumulaciones; disponer la confección de las estadísticas demográficas que interesen a la previsión y establecer las bases biométricas y financieras de los balances y las formas analítico-matemáticas, en orden a uniformar todos los métodos de cálculo que conduzcan a la avaluación actuarial del activo y pasivo de las instituciones sometidas a su control;
 
-d) Ordenar la realización de balances de situación, actuariales y de acumulaciones; disponer la confección de las estadísticas demográficas que interesen a la previsión y establecer las bases biométricas y financieras de los balances y las formas analítico-matemáticas, en orden a uniformar todos los métodos de cálculo que conduzcan a la avaluación actuarial del activo y pasivo de las instituciones sometidas a su control;
+d) Emitir instrucciones para el mejor otorgamiento de los beneficios a los imponentes; y
 
-e) Emitir instrucciones para el mejor otorgamiento de los beneficios a los imponentes; y
-
-f) Fijar la interpretación de las leyes de previsión social y ordenar que se ajusten a esta interpretación las Cajas respectivas.
+e) Fijar la interpretación de las leyes y reglamentos de previsión social y ordenar a las instituciones sometidas a su fiscalización que se ajusten a esta interpretación.
 
 #### Artículo 39°
 
-La Superintendencia de Seguridad Social tendrá competencia para investigar, examinar, revisar y pronunciarse sobre todos los actos de las gestiones administrativas y técnicas de las Cajas, y en el otorgamiento de los beneficios a sus asegurados; establecerá si se han cumplido las leyes vigentes referentes a inversiones y otorgamiento de beneficios y, en especial, calificará la finalidad y oportunidad de los gastos e inversiones.
+La Superintendencia de Seguridad Social tendrá competencia para investigar, examinar, revisar y pronunciarse sobre todos los actos de las gestiones administrativas y técnicas de las instituciones fiscalizadas, en las materias de su competencia, y en el otorgamiento de los beneficios a sus asegurados; establecerá si se han cumplido las leyes vigentes referentes a inversiones y otorgamiento de beneficios y, en especial, conocerá los gastos e inversiones de las entidades sometidas integralmente a su supervigilancia.
 
 El examen de la gestión financiera, especialmente, tendrá por objeto hacer el análisis del patrimonio de las instituciones, tanto en su aspecto puramente económico como en el de su capacidad para responder a los beneficios que se devengarán en el futuro.
 
 #### Artículo 40°
 
-El examen y juzgamiento de cuentas de las instituciones y servicios que fiscaliza la Superintendencia de Seguridad Social se realizarán por la Contraloría General de la República, de acuerdo con las disposiciones de su Ley Orgánica, respetando las normas que, de acuerdo con sus facultades legales imparta la Superintendencia de Seguridad Social sobre materias técnicas, actuariales, financieras, jurídicas y contables.
+El examen y juzgamiento de cuentas de las instituciones y servicios públicos que fiscaliza la Superintendencia de Seguridad Social se realizarán por la Contraloría General de la República, de acuerdo con las disposiciones de su Ley Orgánica, respetando las normas que, de acuerdo con sus facultades legales imparta la Superintendencia de Seguridad Social sobre materias técnicas, actuariales, financieras, jurídicas y contables.
 
 #### Artículo 41°
 
-El control financiero de las Cajas se hará en forma continua, cuando el Superintendente estime que el volumen y magnitud de las operaciones lo requieran, y por medio de visitas de inspección en los demás casos.
+DEROGADO.
 
 #### Artículo 42°
 
-El control continuo lo realizarán los Departamentos indicados en el artículo 8°, y se efectuará principalmente en los siguientes aspectos:
-
-a) Visación previa de los pagos que corresponden a inversiones;
-
-b) Fiscalización de la percepción de los ingresos por imposiciones, intereses, arriendos y demás, como asimismo arqueos de cajas y de especies valoradas;
-
-c) Imputación de cuentas y el funcionamiento de la contabilidad; y
-
-d) Fiscalización de la forma cómo se otorgan los beneficios.
+DEROGADO.
 
 #### Artículo 43°
 
-Corresponderá al Departamento de Divulgación y Perfeccionamiento de la Superintendencia de Seguridad Social difundir los principios técnicos y sociales de seguridad social, mediante la divulgación de los textos legales correspondientes y del resultado de su aplicación. Le corresponderá, asimismo, la realización y promoción de cursos de perfeccionamiento técnico para el personal de las instituciones de previsión social. Con esta misma finalidad, la Superintendencia queda facultada para celebrar convenios con las Universidades del Estado o reconocidas por éste.
-
-Para el ejercicio de las funciones a que se refiere el inciso anterior se propondrán los recursos que el Superintendente estime necesarios en el presupuesto de la Superintendencia de Seguridad Social. Asimismo, el Superintendente podrá ordenar que los funcionarios de las instituciones de previsión que señale, sean destinados en comisión de servicios a la Superintendencia, por períodos no superiores a 30 días.
+DEROGADO.
 
 #### Artículo 44°
 
@@ -298,25 +306,25 @@ En los procesos criminales el Superintendente o sus delegados prestarán su decl
 
 #### Artículo 45°
 
-En los juicios y gestiones judiciales en que fuere parte o tuviera interés la Superintendencia de Seguridad Social, ésta litigará en papel simple y estará exenta de efectuar las consignaciones ordenadas por las leyes.
+En los juicios y gestiones judiciales en que fuere parte o tuviera interés la Superintendencia de Seguridad Social, estará exenta de efectuar las consignaciones ordenadas por las leyes.
 
-#### Artículo 46°
+#### Artículo 46
 
-El Superintendente deberá observar todo acuerdo de los Consejos de las Cajas de Previsión que estime contrario a las leyes vigentes y al interés de las instituciones. Esta facultad deberá ejercerla por escrito y dentro del plazo de cinco días, contado desde la fecha en que se tomó el acuerdo.
+El Superintendente deberá observar todo acuerdo de los directorios o consejos de las instituciones fiscalizadas que estime contrario a las leyes vigentes o al interés de las instituciones. Esta facultad deberá ejercerla por escrito y dentro del plazo de siete días hábiles, contado desde la fecha en que conste la recepción del acuerdo en la Superintendencia.
 
-Los Consejos, por los votos de los dos tercios de los consejeros con derecho a voto, podrán insistir en el acuerdo observado, en cuyo caso deberá cumplirse.
+Los directorios o consejos de las entidades cuyos acuerdos hayan sido observados por el Superintendente en razón del interés de dichas entidades, podrán, con los votos de los dos tercios de sus integrantes, insistir en dicho acuerdo, en cuyo caso deberá cumplirse. En todo caso, la entidad fiscalizada deberá adoptar todas las medidas necesarias para velar por el adecuado cumplimiento del acuerdo insistido, debiendo registrar los resultados del mismo. Deberá informar de dichos resultados a la Superintendencia con la periodicidad que ésta determine.
 
-#### Artículo 47°
+#### Artículo 47
 
-Cuando el quórum de los dos tercios de los miembros en ejercicio no se hubiere reunido en dos sesiones consecutivas para tratar de un asunto que lo requiera, la materia será puesta en la tabla de la sesión siguiente y, en este caso, el acuerdo respectivo requerirá sólo los votos favorables de los dos tercios de los Consejeros presentes.
-
-La disposición del inciso precedente no se aplicará a las observaciones que formule el Superintendente de Seguridad Social a los acuerdos del Consejo.
+Las entidades fiscalizadas deberán informar a la Superintendencia de todo hecho relevante que pueda afectar su gestión o el otorgamiento oportuno de los beneficios correspondientes, en un plazo máximo de veinticuatro horas desde su ocurrencia, conforme a las instrucciones que ésta haya impartido al efecto. En todo caso, mediante normas de aplicación general, la Superintendencia deberá indicar expresamente el sentido y alcance de los hechos relevantes que deben ser informados.
 
 #### Artículo 48°
 
-Será facultad de la Superintendencia de Seguridad Social, instruir sumarios administrativos en las instituciones sometidas a su fiscalización, sin perjuicio de las facultades que sobre la misma materia tienen los Jefes de Servicios respectivos.
+Será facultad de la Superintendencia de Seguridad Social ordenar que se realicen auditorías o instruir los procedimientos sancionatorios que correspondan a las instituciones públicas sometidas a su fiscalización, para acreditar las infracciones y las responsabilidades en los hechos investigados, sin perjuicio de las facultades que sobre la misma materia tienen los jefes de servicios respectivos.
 
-No obstante, si los hechos sujetos a investigación se refieren a resoluciones o pagos de remuneraciones al personal de instituciones fiscalizadas por la Superintendencia o a cuentas de las mismas instituciones, la facultad de instruir sumarios corresponderá a la Contraloría General de la República, sin perjuicio, también, de las facultades de los respectivos Jefes de Servicio.
+En las demás entidades fiscalizadas, la Superintendencia podrá ordenar que se realicen auditorías o instruir los procedimientos sancionatorios pertinentes para acreditar las infracciones y las responsabilidades que correspondan en los hechos investigados.
+
+No obstante, si los hechos sujetos a investigación se refieren a resoluciones o pagos de remuneraciones al personal de instituciones públicas fiscalizadas por la Superintendencia o a cuentas de las mismas instituciones, la facultad de instruir sumarios corresponderá a la Contraloría General de la República, sin perjuicio, también, de las facultades de los respectivos Jefes de Servicio.
 
 #### Artículo 49°
 
@@ -324,87 +332,83 @@ Por el hecho de constituirse en visita un delegado del Superintendente en una in
 
 #### Artículo 50°
 
-Todos los Consejeros y empleados de las instituciones sujetas a la fiscalización de la Superintendencia estarán obligados a prestar declaración ante los delegados en los casos en que sean requeridos, y, si no lo hicieren, serán suspendidos de sus funciones por el Superintendente.
-
-Estas suspensiones durarán mientras subsistan los motivos que las originan y se decretarán con privación del cincuenta por ciento de la remuneración que corresponda al afectado.
+De conformidad a lo dispuesto en el inciso quinto del artículo 35, los consejeros, directores, vicepresidentes y administradores de las instituciones sujetas a la fiscalización de la Superintendencia estarán obligados a prestar declaración en los casos en que sean requeridos y, si no lo hicieren, previa aplicación del procedimiento sancionatorio y mediante resolución fundada, se les podrá aplicar una multa de hasta cien unidades de fomento.
 
 #### Artículo 51°
 
-El Superintendente podrá suspender de sus funciones a los Consejeros y empleados como medida preventiva durante la tramitación de un sumario, cuando estime que esta medida es indispensable para el desarrollo de la investigación.
-
-Las suspensiones de los Consejeros no podrán exceder del plazo de 90 días.
-
-El empleado será privado del cincuenta por ciento de sus remuneraciones mientras dure la suspensión, siempre que se trate de investigaciones en que se persigue su responsabilidad pecuniaria. En los demás casos, la suspensión no privará al afectado de parte alguna de sus remuneraciones.
-
-Si el sumario termina con la absolución del inculpado, éste tendrá derecho a percibir las remuneraciones que se le retuvieron por causa de la suspensión.
+El Superintendente podrá requerir a las entidades fiscalizadas o al jefe de servicio respectivo evaluar la suspensión de sus funciones a los consejeros, directores, vicepresidentes y administradores, hasta por treinta días, como medida preventiva durante la tramitación de un procedimiento sancionatorio, cuando estime que esta medida es indispensable para el desarrollo y buen resultado de las diligencias decretadas.
 
 #### Artículo 52°
 
-Si de los sumarios que instruyere la Superintendencia resultare comprometida la responsabilidad de algún Consejero en forma que correspondiere pedir su remoción, quedarán el o los afectados suspendidos de sus cargos y la Superintendencia deberá pedir la destitución al Presidente de la República.
+Si de los procedimientos sancionatorios resultare comprometida la responsabilidad de algún consejero, director, vicepresidente o administrador de las instituciones sometidas a su fiscalización, se aplicarán las sanciones del artículo 57 de esta ley.
 
 #### Artículo 53°
 
-Si a consecuencia del cumplimiento de un acuerdo observado por la Superintendencia se siguiere perjuicio a la institución respectiva, la Superintendencia deberá instruir el correspondiente sumario, siendo aplicable a este caso lo dispuesto en el artículo anterior.
+Si a consecuencia del cumplimiento de un acuerdo observado por la Superintendencia se siguiere perjuicio a la institución respectiva, la Superintendencia deberá instruir el procedimiento sancionatorio que corresponda, siendo aplicable a este caso lo dispuesto en el artículo anterior.
 
-Las sanciones que resulten de estos sumarios se aplicarán sin perjuicio de la responsabilidad civil del o de los Consejeros afectados que responderán, solidariamente, con arreglo a las leyes, por los perjuicios que hayan irrogado a la institución por la aplicación del acuerdo insistido.
+Las sanciones que resulten del procedimiento indicado se aplicarán sin perjuicio de la responsabilidad penal y civil de los directores, consejeros, vicepresidentes o administradores de las instituciones sometidas a su fiscalización, que responderán, solidariamente, con arreglo a las leyes, por los perjuicios que hayan irrogado a la institución o a los beneficiarios de los regímenes de seguridad social que administren, por la aplicación del acuerdo insistido.
 
 #### Artículo 54°
 
-Los Consejeros que hubieren sido destituidos, no podrán ser nuevamente designados ni elegidos.
+En caso de realizar auditorías, las instituciones fiscalizadas deberán informar a la Superintendencia los resultados de las mismas y las medidas correctivas aplicadas en caso de ser necesarias, conforme a lo instruido por dicho Servicio.
 
 #### Artículo 55°
 
-Declárase que las facultades disciplinarias concedidas a la Superintendencia por los artículos 48° y siguientes, podrán ser ejercitadas por ésta, respecto de todas las instituciones sometidas a su fiscalización.
+La instrucción del procedimiento sancionatorio se realizará por un funcionario de la Superintendencia que recibirá el nombre de instructor. Dicho procedimiento se iniciará con una formulación precisa de los cargos, los que se notificarán al presunto infractor por carta certificada, remitida al domicilio que éste tenga registrado ante la Superintendencia, confiriéndole un plazo de quince días para formular los descargos.
 
-En las instituciones cuyo personal no se rija por el Estatuto Administrativo, las facultades a que se refiere el inciso anterior, se ejercerán previo sumario instruido por el Fiscal o Abogado que designe el organismo a que pertenezca la o las personas afectadas.
+La formulación de cargos señalará una descripción clara y precisa de los hechos que se estimen constitutivos de infracción y la fecha de su verificación; las leyes, reglamentos, estatutos y demás normas que las rijan o las instrucciones o dictámenes emitidos por la Superintendencia en uso de sus atribuciones, y la sanción asignada.
 
-Estos sumarios se iniciarán a requerimiento del Superintendente de Seguridad Social o por la institución respectiva, cuando así lo estimare necesario.
+Recibidos los descargos o transcurrido el plazo otorgado para ello, la Superintendencia examinará el mérito de los antecedentes, y podrá ordenar la realización de las pericias e inspecciones que sean pertinentes y la recepción de los demás medios probatorios que procedan.
 
-Si el requerimiento del Superintendente no fuere cumplido en el plazo de 5 días hábiles contado desde la fecha en que se haya recibido la resolución en que consta, el sumario se instruirá por la Superintendencia de Seguridad Social.
-
-Los sumarios que instruyan las instituciones de previsión, tendrán una duración máxima de 30 días, prorrogables por el Superintendente. Las infracciones a lo dispuesto en este inciso, serán sancionadas por el Superintendente, previa investigación de los hechos.
-
-Las medidas disciplinarias que se soliciten en virtud de los sumarios a que se refiere el inciso anterior, serán apelables ante el Superintendente en el plazo de 5 días hábiles, contado desde la fecha de la respectiva resolución y las que no fueren objeto de dicho recurso, se enviarán en consulta a dicho funcionario.
+Los hechos investigados y las responsabilidades de los infractores podrán acreditarse mediante cualquier medio de prueba admisible en derecho, los que se apreciarán conforme a las reglas de la sana crítica.
 
 #### Artículo 56°
 
-La resolución de la Superintendencia que disponga la suspensión o remoción de un empleado u obrero de las instituciones indicadas en el inciso 2° del artículo anterior, obligará a la autoridad que corresponda de la respectiva institución a hacer efectiva la medida o a poner término a los servicios, en su caso. Respecto de los Consejeros, Directores u otros ejecutivos que no tengan la calidad de empleados de dichas instituciones, bastará la resolución firmada del Superintendente imponiéndole las sanciones de suspensión o destitución para que surta, una vez transcrita al afectado y al respectivo Consejo, Directorio o autoridad ejecutiva que correspondiere, plenos efectos legales.
+Cumplidos los trámites señalados en el artículo anterior, el instructor del procedimiento sancionatorio emitirá, dentro de cinco días hábiles, un dictamen fundado en el cual propondrá la absolución o sanción que a su juicio corresponda aplicar. Emitido el dictamen, el instructor del procedimiento elevará los antecedentes al Superintendente, quien resolverá en el plazo de quince días hábiles, dictando al efecto una resolución fundada en la cual absolverá al infractor o aplicará la sanción, en su caso.
 
-Esta disposición se aplicará previa ejecución del procedimiento que establece el artículo anterior.
+No obstante, el Superintendente podrá ordenar la realización de nuevas diligencias o la corrección de vicios de procedimiento, fijando un plazo para tales efectos. En este caso deberá dar audiencia al investigado.
+
+Ninguna persona podrá ser sancionada por hechos que no hubiesen sido materia de cargos.
 
 #### Artículo 57°
 
-Sin perjuicio de las facultades que corresponden a la Superintendencia de Seguridad Social, en virtud de lo prescrito en los artículos anteriores, ésta podrá aplicar a las instituciones sometidas a su fiscalización, así como a sus directores, jefes de servicio, gerentes generales y ejecutivos relacionados con la administración superior de las mismas, que incurrieren en infracciones a las leyes, reglamentos, estatutos y demás normas que las rijan o a sus instrucciones o dictámenes emitidos en uso de sus atribuciones legales, las sanciones a que se refiere el artículo 28 del decreto ley Nº 3.538, de 1980, previa investigación de los hechos. La multa a que se refiere el Nº 2 de dicha disposición legal, ascenderá hasta un monto equivalente a 1.000 Unidades de Fomento. En el evento que dicha multa se aplique a personas naturales, de ella deberá responder personalmente el infractor.
+Sin perjuicio de las facultades que corresponden a la Superintendencia de Seguridad Social, en virtud de lo prescrito en los artículos anteriores, ésta podrá aplicar a las instituciones sometidas a su fiscalización, así como a sus directores, jefes de servicio, gerentes generales y ejecutivos relacionados con la administración superior de las mismas, que incurrieren en infracciones a las leyes, reglamentos, estatutos y demás normas que las rijan o a sus instrucciones o dictámenes emitidos en uso de sus atribuciones legales, las sanciones a que se refiere el artículo 28 del decreto ley Nº 3.538, de 1980, previa investigación de los hechos. La multa a que se refiere el Nº 2 de dicha disposición legal, ascenderá hasta un monto equivalente a 15.000 Unidades de Fomento. En el evento que dicha multa se aplique a personas naturales, de ella deberá responder personalmente el infractor.
+
+El monto específico de la multa se determinará apreciando fundadamente la gravedad y las consecuencias del hecho, la capacidad económica del infractor y si éste hubiere cometido otras infracciones de cualquier naturaleza en forma reiterada. Se entenderá que son infracciones reiteradas cuando se hayan cometido dos o más de ellas en los últimos veinticuatro meses.
+
+En todo caso, los consejeros, directores, vicepresidentes y administradores de las instituciones sometidas a la fiscalización de la Superintendencia que hubieren sido sancionados de acuerdo al número 3 del artículo 28 del decreto ley Nº 3.538, de 1980, o se les apliquen multas por infracciones reiteradas, no podrán ser nuevamente designados ni elegidos en los cargos señalados anteriormente, por el período de cinco años contado desde la fecha en que surta efectos la resolución que aplique la respectiva medida disciplinaria, conforme a lo dispuesto en el artículo 59 de esta ley.
 
 Las sanciones que se impongan constarán en un registro público que para tal efecto llevará la Superintendencia de Seguridad Social, el cual será difundido por los medios que establezca el Superintendente.
 
 #### Artículo 58°
 
-En contra de las medidas disciplinarias que adopte el Superintendente de Seguridad Social en uso de las facultades que le otorga el artículo 57°, que imponga las sanciones de los N° 2 y 3 del artículo 28, del decreto ley Nº 3.538, de 1980, podrá reclamarse ante la Corte de Apelaciones de Santiago dentro del plazo de diez días hábiles contado desde su notificación por carta certificada. Si el afectado tuviere su domicilio fuera del territorio jurisdiccional de dicha Corte, el término para reclamar se aumentará de acuerdo con la tabla de emplazamiento a que se refiere el artículo 259° del Código de Procedimiento Civil.
+En contra de las medidas disciplinarias que adopte el Superintendente de Seguridad Social en uso de las facultades que le otorga el artículo 57°, que imponga las sanciones de los N° 2 y 3 del artículo 28, del decreto ley Nº 3.538, de 1980, podrá reclamarse ante la Corte de Apelaciones de Santiago dentro del plazo de quince días hábiles contado desde su notificación por carta certificada. Si el afectado tuviere su domicilio fuera del territorio jurisdiccional de dicha Corte, el término para reclamar se aumentará de acuerdo con la tabla de emplazamiento a que se refiere el artículo 259° del Código de Procedimiento Civil.
 
-Para deducir las reclamaciones a que se refiere el inciso anterior, el afectado deberá consignar, previamente, en arcas fiscales, una suma de dinero equivalente a al veinte por ciento del monto de la multa. Las sumas consignadas se ordenarán devolver por el Tribunal al reclamante o quedarán a beneficio fiscal, según se acogiere o no el reclamo interpuesto.
+INCISO ELIMINADO
 
-La reclamación se tramitará breve y sumariamente y con preferencia y de ella se dará traslado, por seis días hábiles, al Superintendente de Seguridad Social, a quien se le tendrá como parte. Vencido este plazo, haya o no evacuado el traslado la Superintendencia, el Tribunal procederá a la vista de la causa y resolverá sin más trámite. En contra de la resolución que dicte la Corte, no procederá recurso alguno.
+La reclamación se tramitará en cuenta y con preferencia, previo informe de la Superintendencia de Seguridad Social, que deberá remitirse en el plazo de seis días hábiles. Vencido este plazo, el tribunal procederá a la vista de la causa y resolverá sin más trámite. En contra de la resolución que dicte la Corte, no procederá recurso alguno.
 
 #### Artículo 59°
 
-Vencido el plazo a que se refiere el inciso 1° del artículo anterior sin que se hubiere interpuesto reclamo o rechazado éste, la resolución de la Superintendencia que aplique la medida disciplinaria del N° 3 del artículo 28 del decreto ley Nº 3.538, de 1980, a un Consejero, Director, Vicepresidente o Administrador de las instituciones sometidas a su fiscalización, en conformidad a lo dispuesto en el artículo 57°, producirá plenos efectos legales una vez transcrita al afectado y al respectivo Consejo, Directorio o autoridad ejecutiva que correspondiere.
+Vencido el plazo a que se refiere el inciso 1° del artículo anterior sin que se hubiere interpuesto reclamo o rechazado éste, la resolución de la Superintendencia que aplique la medida disciplinaria del N° 3 del artículo 28 del decreto ley Nº 3.538, de 1980, a un Consejero, Director, Vicepresidente o Administrador de las instituciones sometidas a su fiscalización, en conformidad a lo dispuesto en el artículo 57°, producirá plenos efectos legales una vez notificada al afectado y al respectivo Consejo, Directorio o autoridad ejecutiva que correspondiere.
 
 #### Artículo 60°
 
-Las multas que no fueren pagadas dentro de los diez días siguientes al vencimiento del plazo para deducir la reclamación a que se refiere el artículo 58° o a contar del rechazo de ésta, se cobrarán ejecutivamente. Servirá de título ejecutivo, copia de dicha resolución firmada por el Superintendente.
+Las resoluciones de la Superintendencia que apliquen una multa tendrán mérito ejecutivo.
 
-En el juicio ejecutivo que al efecto se siguiere, no serán admisibles otras excepciones que la de prescripción o la de pago, acreditado con el comprobante de ingreso de la Tesorería que corresponda.
+El monto de las multas impuestas por la Superintendencia será a beneficio fiscal, y deberá ser pagado en la Tesorería General de la República, dentro del plazo de diez días contado desde la fecha de notificación de la resolución respectiva, sin perjuicio de lo dispuesto en el artículo 58.
 
-Serán competentes para conocer de estos juicios los Tribunales del Trabajo del departamento de Santiago y a la ejecución respectiva se aplicarán las normas contenidas en la letra E) del Título I del libro IV del Código del Trabajo, a excepción de lo dispuesto en el inciso 1° del artículo 577°. El producto de las multas ingresará en arcas fiscales. Las notificaciones y demás actuaciones judiciales en que deba intervenir un Ministro de Fe, podrán ser realizadas por el Receptor en lo Civil, que en cada caso y con el carácter de ad hoc, designe el Tribunal.
+El pago de toda multa aplicada de conformidad a esta ley deberá ser acreditado ante la Superintendencia, dentro de los diez días siguientes a la fecha en que ésta debió ser pagada.
 
-La acción judicial para cobrar las multas prescribirá en el plazo de seis meses contado desde que la obligación se haya hecho exigible.
+La cobranza de las multas impagas corresponderá a la Tesorería General de la República, que para estos efectos aplicará los procedimientos administrativos y judiciales establecidos por el Código Tributario para el cobro de los impuestos morosos.
+
+Si el infractor fuere una persona jurídica, las personas naturales que la representen legal o convencionalmente serán subsidiariamente responsables del pago de la multa.
+
+El retardo en el pago de toda multa que aplique la Superintendencia, devengará los intereses establecidos en el artículo 53 del Código Tributario. Si la multa no fuere procedente y, no obstante hubiese sido enterada, la Superintendencia o la Corte en su caso, deberán ordenar que se devuelva, debidamente reajustada, en la forma que señalan los artículos 57 y 58 del citado Código.
 
 #### Artículo 61°
 
-En los casos en que se establezca que los gastos de administración de las Cajas o cualesquier otros especificados en las leyes, y especialmente aquellos que se financian con el régimen de reparto, hayan sido sobrepasados o intercambiados en sus aplicaciones, el Superintendente elevará, si de los sumarios apareciere comprometida la responsabilidad de los vicepresidentes ejecutivos o consejeros, los antecedentes al Ministro del Trabajo y Previsión Social, recabando las medidas que considere necesarias.
-
-Una vez establecida la responsabilidad de los consejeros o funcionarios que autorizaron el exceso de gastos, hará recaer sobre ellos la obligación de enterar en las arcas de la Caja respectiva lo gastado indebidamente.
+DEROGADO.
 
 #### Artículo 62
 
@@ -422,11 +426,27 @@ DEROGADO
 
 #### Artículo 65°
 
-La Ley General de Presupuestos consultará en sumas totales los fondos que sean necesarios, para el mantenimiento y desarrollo de la Superintendencia. Todos los gastos incluyendo la remuneración del personal, serán pagados por la Tesorería Fiscal respectiva, previo giro del Superintendente.
+DEROGADO.
 
 #### Artículo 66°
 
-El pago de la dieta a que se refiere al artículo 1° de la ley 11.855 se imputará a los fondos a que se refiere el artículo 63°.
+El patrimonio de la Superintendencia estará formado por:
+
+a) El aporte que se contemple anualmente en la Ley de Presupuestos.
+
+b) Los recursos otorgados por leyes especiales.
+
+c) Los bienes muebles e inmuebles, corporales e incorporales que se le transfieran o adquiera a cualquier título.
+
+d) Los frutos de sus bienes.
+
+e) Las donaciones que se le hagan y las herencias y legados que acepte, lo que deberá hacer con beneficio de inventario. Dichas donaciones y asignaciones hereditarias estarán exentas de toda clase de impuestos y de todo gravamen o pago que les afecten. Las donaciones no requerirán del trámite de insinuación.
+
+f) Los ingresos que perciba por los servicios que preste.
+
+g) Los aportes de la cooperación internacional que reciba a cualquier título.
+
+h) Otros recursos que establezcan las leyes.
 
 #### Artículo 1°
 

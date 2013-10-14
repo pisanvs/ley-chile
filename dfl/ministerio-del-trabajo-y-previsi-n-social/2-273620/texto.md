@@ -12,15 +12,17 @@ Planta/Cargos Grado Esc. Fisc. N° Cargos
 
 JEFE SUPERIOR DE SERVICIO
 
+Primer Nivel Jerárquico
+
 Superintendente 1° 1
 
 DIRECTIVOS
 
--De exclusiva confianza:
+-Segundo Nivel Jerárquico:
 
-Subdirector 2° 1
+Intendentes 2° 2
 
-Subdirector Fiscal 2° 1
+Fiscal 2° 1
 
 -Afectos al artículo 8°
 
