@@ -198,13 +198,21 @@ Sin perjuicio de lo establecido en el artículo 5° de esta ley, las normas de l
 
 #### Artículo 5°
 
-Para los efectos de facilitar la ejecución del artículo 3° de la presente ley, dentro del plazo de dos años, la Subsecretaría tramitará de oficio, pero con acuerdo del titular, la modificación de elementos de la esencia de una concesión de radiodifusión sonora, que no sean plazos ni tipo de servicio. Esta modificación sólo afectará tales elementos en la medida que resulte estrictamente indispensable. El acuerdo con el titular podrá contemplar la asignación temporal y precaria del uso de una frecuencia original que sea objeto de esta modificación, con el propósito de establecer mecanismos de transición para eventuales migraciones.
+Para los efectos de facilitar la ejecución del artículo 3° de la presente ley, dentro del plazo de tres años, la Subsecretaría tramitará de oficio, pero con acuerdo del titular, la modificación de elementos de la esencia de una concesión de radiodifusión sonora, que no sean plazos ni tipo de servicio. Esta modificación sólo afectará tales elementos en la medida que resulte estrictamente indispensable. El acuerdo con el titular podrá contemplar la asignación temporal y precaria del uso de una frecuencia original que sea objeto de esta modificación, con el propósito de establecer mecanismos de transición para eventuales migraciones.
 
 El mismo procedimiento, aunque sin necesidad de acuerdo del concesionario y pudiendo afectarse cualquier elemento de la esencia, se seguirá para efectos de la aplicación del artículo segundo transitorio de la presente ley.
 
 #### Artículo 6°
 
 En el caso de los concursos de renovación de concesiones de radiodifusión sonora correspondientes al tercer cuatrimestre de 2008 y primer cuatrimestre de 2009, que se hayan declarado desiertos por ausencia de postulantes, el Ministerio de Transportes y Telecomunicaciones incluirá, sin necesidad de solicitud previa, las localidades y comunas respectivas en el llamado a concurso correspondiente al primer o segundo cuatrimestre de 2010, pudiendo presentarse en ese concurso los actuales concesionarios, sin gozar de derecho preferente, extendiendo sus concesiones vigentes hasta el término del respectivo concurso.''.
+
+#### Artículo 7º
+
+Los concesionarios de radiodifusión sonora de mínima cobertura vigentes a la fecha de publicación de esta ley, y que no hayan sido sancionados con la caducidad por resolución firme con posterioridad a dicha fecha, podrán transferir sus concesiones sin que a los mismos resulte aplicable la limitación temporal establecida en el inciso segundo del artículo 21 de la ley Nº 18.168, General de Telecomunicaciones. Con todo, en aquellos casos en que exista un procedimiento de cargo por infracción que pudiera ameritar la caducidad de la concesión, ésta no podrá transferirse en tanto no se resuelva el mismo.
+
+#### Artículo 8º
+
+A los efectos de lo dispuesto en el inciso primero del artículo 2º transitorio, se entenderán como vigentes al momento de la publicación de la presente ley aquellas concesiones otorgadas con anterioridad a la citada publicación, aun cuando el decreto respectivo haya sido publicado con posterioridad a la publicación de la ley, siempre que ello haya ocurrido dentro del plazo que establece sobre el particular la ley Nº 18.168.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
