@@ -1,0 +1,23 @@
+EXTIENDE PERIODO DE PROHIBICIÓN DE CIRCULACIÓN DE VEHÍCULOS DE TRANSPORTE PÚBLICO URBANO QUE INDICA EN LA CIUDAD DE ARICA
+
+Núm. 647 exenta.- Arica, 23 de septiembre de 2013. Visto: Lo dispuesto en los artículos 107º y 113º de la ley Nº 18.290; la ley Nº 18.059 en relación con el artículo 43º de la ley Nº 18.287; el decreto supremo Nº 255, de 1981; el decreto supremo Nº 83, de 1985; las resoluciones Nº 59 de 1985 y Nº 39 de 1992, todas del Ministerio de Transportes y Telecomunicaciones; la resolución exenta Nº 235, del 9 de agosto de 2001 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Tarapacá, que fija la Red Vial Básica de la ciudad de Arica; el estudio denominado "Mejoramiento de la Gestión de Tránsito de Arica"; resolución exenta Nº 803, de 2012, que prohíbe la circulación de vehículos de transporte público de pasajeros; resolución exenta Nº 824, de 2012, que exceptúa de la prohibición de circular, establecida en la resolución Nº 803, de 2012, ambas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, y las demás normas pertinentes.
+
+Considerando:
+
+1. Que el estudio denominado "Mejoramiento de la Gestión de Tránsito de Arica", realizado por la empresa Suroeste Consultores a petición de la Secretaría Ejecutiva de la Comisión de Planificación en Infraestructura de Transporte, Sectra, y la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la I Región, que concluye que uno de los principales problemas viales que presenta la comuna de Arica es provocado por la sobreoferta de vehículos de transporte público urbano con una baja tasa de ocupación, significativamente superior al óptimo social, cuestión que incide en mayores tiempos globales de circulación, generándose con ello externalidades negativas para todo el sistema de transportes de la comuna.
+
+2. Que atendiendo a que la oferta vial reflejada en el citado estudio se mantiene hasta el día de hoy, mientras que el parque vehicular de la ciudad ha mostrado un aumento progresivo, podemos concluir que la realidad descrita persiste y se agudiza.
+
+3. Que realizada la evaluación de la implementación de la restricción vehicular dispuesta por las resoluciones exentas Nº 362, de 2003, Nº 492, de 2003, Nº 160, de 2004, Nº 340, de 2005; Nº 313, de 2006 y 307, de 2007 todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Tarapacá: resoluciones exentas Nº 191, de 2008, Nº 146, de 2009, Nº 323, de 2010, Nº 465 de 2011 y sus modificaciones, Nº 614 de 2012 y Nº 803 de 2012, todas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Arica y Parinacota, se concluyó que es una medida efectiva.
+
+4. Que el número 1 del Resuelvo de la resolución exenta Nº 803, de 2012, establece el periodo de la restricción vehicular, esto es hasta el 25 de octubre de 2013 e indica calendario de acuerdo al dígito de la placa patente única del vehículo.
+
+5. Que la resolución exenta Nº 824, del 24 de octubre de 2012, exceptúase de la prohibición de circular, establecida en la resolución exenta Nº 803, de 2012, a los vehículos que presten servicio en la modalidad de Taxis Básico y Taxis de Turismo, que como agrupación, tengan autorización de la Ilustre Municipalidad de Arica y de la Concesionaria del Aeropuerto Chacalluta, respectivamente, para utilizar y operar desde paraderos autorizados por la ilustre Municipalidad y Aeropuerto Chacalluta, respectivamente.
+
+Resuelvo:
+
+1. Extiéndase el calendario de la prohibición de circular vehículos de transporte público urbano del tipo Taxi, que funcionan en las modalidades de Básico, Turismo y Colectivo Urbano, por las calles incluidas en la red vial básica de la ciudad de Arica, hasta el 31 de marzo de 2014, de acuerdo al último dígito de su placa patente única, según el siguiente calendario:
+
+2. Extiéndase hasta el 31 de diciembre de 2013, la excepción de la prohibición de circular establecida en el resuelvo Nº 3 de la resolución exenta Nº 824, de 2013, así como las resoluciones exentas Nos 461, 462, 495, 511 y 644, de 2013, todas de esta Secretaría Regional Ministerial, que exceptúan de la prohibición de circular vehículos de transporte público urbano en la modalidad de taxi básico y taxis de turismo, que como agrupaciones, tengan autorización para utilizar y operar desde paraderos autorizados.
+
+Anótese, comuníquese y publíquese.- José Emilio Guzmán Cepeda, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Arica y Parinacota.
