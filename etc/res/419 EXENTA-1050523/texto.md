@@ -78,7 +78,7 @@ No se podrán financiar, a través de este instrumento, impuestos recuperables. 
 
 Para el desarrollo de un Proyecto de Apoyo a Centros Chile Emprende, CORFO transferirá a los Agentes Operadores Intermediarios, por la evaluación, supervisión, administración y gastos asociados al funcionamiento del Proyecto, hasta un 35% de los recursos anuales financiados por CORFO.
 
-Se considerarán gastos asociados la adquisición, arrendamiento de bienes muebles o inmuebles y habilitación de estos últimos, asociados al funcionamiento del Programa.
+Se considerarán gastos asociados la adquisición y arrendamiento de bienes muebles, salvo vehículos motorizados, así como la habilitación de bienes inmuebles asociados al funcionamiento del programa.
 
 ### 4. Criterios de Elegibilidad y Evaluación
 
