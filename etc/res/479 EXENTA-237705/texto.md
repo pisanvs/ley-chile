@@ -42,7 +42,11 @@ La zona de servicio de cada concesión o permiso podrá abarcar el territorio de
 
 #### Artículo 5º
 
-Para el caso de las bandas de frecuencias 2.500 - 2.572 MHz y 2.620 - 2.690 MHz, la distribución de bloques de frecuencias se definirá dependiendo de la evolución tecnológica y recomendaciones o acuerdos de organismos internacionales. El tipo de servicio será definido en las bases del respectivo concurso público.
+Para el caso de las bandas de frecuencias 2.500 - 2.572 MHz y 2.620 - 2.690 MHz, la canalización será la que se indica en el siguiente cuadro:
+
+Las bandas de frecuencias 2.500 - 2.505 MHz, 2.565 - 2.572 MHz, 2.620 - 2.625 MHz y 2.685 - 2.690 MHz estarán destinadas a bandas de guarda.
+
+El tipo de servicio será definido en las bases del respectivo concurso público.
 
 #### Artículo 6º
 
