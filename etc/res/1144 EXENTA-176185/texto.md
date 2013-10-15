@@ -34,12 +34,6 @@ Se destina las bandas 1.710 - 1.770 MHz y 2.110 - 2.170 MHz para el servicio pú
 
 La distribución de bandas de frecuencias es la siguiente:
 
-Frecuencias de Frecuencias de
-
-transmisión móviles transmisión bases
-
-1.710 - 1.755 MHz 2.110 - 2.155 MHz
-
 Quedará reservada también para este servicio las bandas 1.755 - 1.770 MHz y 2.155 - 2.170 MHz. La presente distribución de frecuencias no impide el uso de las frecuencias de las bandas de 800 y 1.900 MHz actualmente empleadas por las concesionarias de servicio público de telefonía móvil para ofrecer el presente servicio.
 
 #### Artículo 3º
