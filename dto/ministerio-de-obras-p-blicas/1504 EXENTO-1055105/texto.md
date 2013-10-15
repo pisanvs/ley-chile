@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 1504, de 25 de septiembre de 2013, se modificó el Decreto Exento MOP Nº 764, de 9 de mayo de 2013, que ordenaba la expropiación del lote de terreno Nº 10, para la obra "Concesión Autopista Concepción - Cabrero. Sector A2: Cabrero Poniente - El Pino. Enlace Yumbel", en el sentido de eliminar dicho lote Nº 10. En todo lo no modificado, se mantiene plenamente vigente el Decreto modificado.
+
+Fiscal del Ministerio de Obras Públicas.
