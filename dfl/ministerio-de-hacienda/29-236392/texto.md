@@ -144,7 +144,7 @@ d) Haber aprobado la educación básica y poseer el nivel educacional o título 
 
 e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
 
-f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por crimen o simple delito.
+f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por delito que tenga asignada pena de crimen o simple delito. Sin perjuicio de lo anterior, tratándose del acceso a cargos de auxiliares y administrativos, no será impedimento para el ingreso encontrarse condenado por ilícito que tenga asignada pena de simple delito, siempre que no sea de aquellos contemplados en el Título V, Libro II, del Código Penal.
 
 #### Artículo 13
 
