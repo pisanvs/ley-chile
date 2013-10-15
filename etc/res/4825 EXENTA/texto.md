@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE TERRENOS QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.825, 24 de septiembre de 2013, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de la edificación del inmueble ubicado en Los Carrera 970 (Lote 16), de la comuna de Los Ángeles, Rol de avalúo Nº 508-00004, de esa comuna, de aparente dominio de Fermín Alejandro Mardones Garay. La parte afecta a expropiación tiene una superficie de 8,67 m2 de terreno y 0 m2 de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 16, en el polígono A-B-C-D-E-A del plano S8R-28.083-2, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta Carolina Andrea Contreras Tapia, arquitecto Juan Felipe King Domínguez y el ingeniero civil Orlando Javier Paredes Vásquez, que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $548.577, más la suma por concepto de reajustes del artículo 5º del DL 2.186, de 1978, de $6.309, lo que da la cifra de $554.577.
+
+Director Serviu Región del Biobío.
