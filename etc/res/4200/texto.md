@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES DE LOTES DE TERRENOS QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.200 de fecha 03/10/2013, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordeno expropiación de parte del Lote Nº85-0, Inmueble ubicado en calle Guido Beck de Ramberga número 408 comuna de Padre Las Casas, provincia de Cautín, Región de la Araucanía, de una superficie aproximada a expropiar de 72,2 metros cuadrados, Rol de Avalúo Nº 2006-3, de la comuna de Padre Las Casas, de aparente dominio de Miriam del Carmen, Ana Teresa, José del Carmen, Eulalia Jeannette, todos estos de apellidos Navarrete Fuentes, y Gabriel Benedicto Navarrete Fuentes representado por Gabriel Giovanni y Carol Natalia, estos últimos de apellidos Navarrete Albornoz. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto; Arturo Osvaldo Cantos Oyarzún, Arquitecto y Julio Hernán Rosas Vega, Constructor Civil, fijo monto Indemnización Provisional en $21.940.329.-, según Informe Nº 85-0/2013 de fecha 14/08/2013, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
