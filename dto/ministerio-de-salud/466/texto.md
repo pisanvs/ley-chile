@@ -328,7 +328,7 @@ Se entenderá por Receta Cheque, los formularios oficiales que formen parte de t
 
 #### Artículo 35°
 
-Los cirujanos dentistas sólo podrán prescribir aquellos medicamentos necesarios para la atención odontoestomatológica sean éstos de venta directa, de venta bajo receta médica, de venta bajo receta médica retenida o preparados hipnóticos mediante receta cheque de emergencia que proporcionará la farmacia.
+Los cirujanos dentistas sólo podrán prescribir aquellos medicamentos necesarios para la atención odontoestomatológica sean éstos de venta directa, de venta bajo receta médica, de venta bajo receta médica retenida o productos de la lista IV, del Reglamento de Productos Psicotrópicos, en la forma y condiciones en él indicadas.
 
 #### Artículo 36°
 
