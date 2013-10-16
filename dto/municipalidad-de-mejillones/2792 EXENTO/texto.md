@@ -1,6 +1,6 @@
 APRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE MEJILLONES, ZONA URBANA CONSOLIDADA Y PORTUARIA
 
-Núm. 445 exento.- Mejillones, 12 de septiembre 2013.- Vistos:
+Núm. 2.792 exento.- Mejillones, 12 de septiembre 2013.- Vistos:
 
 1. El acta de proclamación del Tribunal Electoral Regional de Antofagasta, de fecha 06.12.2012. Lo resuelto en la Sentencia de Escrutinios y Calificación de la Elección Municipal de Alcalde, efectuada en la comuna de Mejillones el día 28 de octubre de 2012, Rol Electoral Nº57 de 2012.
 
