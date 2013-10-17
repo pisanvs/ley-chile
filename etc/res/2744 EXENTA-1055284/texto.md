@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.744, de 9 de octubre de 2013, de esta Subsecretaría, recházanse solicitudes números 212103010, 212103012, 210103218, 205111417, 212103011 y 204101205, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 9 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
