@@ -1,0 +1,11 @@
+MODIFICA RESOLUCIÓN Nº 224 EXENTA, DE 2013, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA, SARDINA COMÚN Y JUREL EN LA XIV REGIÓN
+
+Por resolución exenta Nº 2.747, de 9 de octubre de 2013, de esta Subsecretaría, modifícase la resolución exenta Nº 224, de 2013, de esta Subsecretaría, y sus modificaciones posteriores, que estableció la distribución de las fracciones artesanales de las pesquerías artesanales de Anchoveta, Sardina común y Jurel en la XIV Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de incorporar el siguiente numeral 6º, nuevo:
+
+"6º.- Fíjase el día 8 de noviembre de 2013, inclusive, como plazo fatal para que todas las organizaciones de pescadores artesanales sometidas al Régimen Artesanal de Extracción establecido mediante el decreto exento Nº 1.966, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, modificado por decreto exento Nº 186, de 2011, del Ministerio de Economía, Fomento y Turismo, comuniquen por escrito a esta Subsecretaría las variaciones o modificaciones que en el número de pescadores o embarcaciones experimentarán para el año 2014.
+
+Para tales efectos, las organizaciones de pescadores artesanales antes indicadas deberán remitir una carta firmada por la directiva respectiva, adjuntando el listado oficial de los afiliados inscritos y de sus embarcaciones, en caso de los armadores, que participarán por la respectiva organización en el Régimen para el año 2014.
+
+Asimismo, y dentro del mismo plazo indicado en el inciso primero del presente numeral, las organizaciones de pescadores artesanales que no se encuentren sometidas al Régimen y que desearen incorporarse al mismo deberán comunicar por escrito a la Subsecretaría su intención en tal sentido, mediante carta firmada por la directiva respectiva y adjuntando al efecto todos los antecedentes a que se refieren los artículos 7 inciso 2º y 9 del DS Nº 296, de 2004, modificado mediante DS Nº 223, de 2010, antes individualizados.".
+
+Valparaíso, 9 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
