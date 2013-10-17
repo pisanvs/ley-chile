@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.742, de 9 de octubre de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 212103004, 212103007, 212103006, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
