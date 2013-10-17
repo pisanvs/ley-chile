@@ -30,125 +30,143 @@ Las familias podrán ser beneficiadas hasta el día 31 de diciembre del presente
 
 2. Para poder ser asignatario del subsidio de este llamado el interesado deberá cumplir con lo establecido en el número 5, y en la letra b) del número 7. de la resolución exenta N° 2.187 (V, y U.), de 2010, y sus modificaciones, y además con las siguientes condiciones especiales:
 
-2.1. Poseer Ficha de Protección Social, de conformidad
+2.1. Poseer Ficha de Protección Social, de
 
-a lo dispuesto en los Artículos 16 letra b) y 21
+conformidad a lo dispuesto en los
 
-letra d), del D.S. N° 255 (V. y U.), de 2006,
+Artículos 16 letra b) y 21 letra d),
 
-debiendo además cumplir con lo establecido en la
+del D.S. N° 255 (V. y U.), de 2006,
 
-resolución N° 7.080 (V. y U), de 2008. No
+debiendo además cumplir con lo
 
-obstante lo anterior, en casos calificados,
+establecido en la resolución N° 7.080
 
-debidamente justificados por el SERVIU, podrán
+(V. y U), de 2008. No obstante lo
 
-acceder a este beneficio quienes no cumplan con
+anterior, en casos calificados,
 
-este requisito.
+debidamente justificados por el
 
-2.2. Contar con Certificado de Daños, a que se alude
+SERVIU, podrán acceder a este beneficio
 
-en el punto 5. de la resolución exenta N° 2.187
+quienes no cumplan con este requisito.
 
-(V. y U.), de 2010.
+2.2. Contar con Certificado de Daños, a que
 
-2.3. Sólo podrán ser objeto de reparación viviendas
+se alude en el punto 5. de la resolución
 
-unifamiliares.
+exenta N° 2.187 (V. y U.), de 2010.
 
-2.4. Las personas que sean beneficiadas por primera
+2.3. Sólo podrán ser objeto de reparación
 
-vez con este subsidio podrán volver a postular al
+viviendas unifamiliares.
 
-## Título II — del Programa de Protección del
+2.4. Las personas que sean beneficiadas
 
-Patrimonio Familiar en futuros llamados, excepto
+por primera vez con este subsidio
 
-a otros llamados extraordinarios que pueda
+podrán volver a postular al Título II
 
-efectuar el Ministerio de Vivienda y Urbanismo
+del Programa de Protección del
 
-para la atención de damnificados por el sismo de
+Patrimonio Familiar en futuros llamados,
 
-27 de febrero de 2010.
+excepto a otros llamados extraordinarios
 
-2.5. No podrán postular a este llamado las familias
+que pueda efectuar el Ministerio de
 
-que hayan sido beneficiadas con un subsidio del
+Vivienda y Urbanismo para la atención de
 
-Programa de Protección del Patrimonio Familiar
+damnificados por el sismo de 27 de
 
-que aun no haya sido pagado.
+febrero de 2010.
+
+2.5. No podrán postular a este llamado las
+
+familias que hayan sido beneficiadas con
+
+un subsidio del Programa de Protección
+
+del Patrimonio Familiar que aun no haya
+
+sido pagado.
 
 3. Los postulantes a este llamado especial estarán eximidos de cumplir los siguientes requisitos y condiciones establecidos en el D.S. N° 255 (V. y U.), de 2006:
 
-3.1 De acreditar un ahorro mínimo, exigido en el
+3.1 De acreditar un ahorro mínimo, exigido
 
-#### Artículo 9
+en el artículo 9.
 
-3.2 De lo dispuesto en los incisos segundo y tercero
+3.2 De lo dispuesto en los incisos segundo
 
-del artículo 15, referido a la incompatibilidad
+y tercero del artículo 15, referido a
 
-con el beneficio para proyectos del mismo tipo,
+la incompatibilidad con el beneficio
+
+para proyectos del mismo tipo,
 
 recibidos anteriormente.
 
-3.3 De los requisitos establecidos en las letras d),
+3.3 De los requisitos establecidos en las
 
-e), f), k), l) y m) del artículo 16.
+letras d), e), f), k), l) y m) del
 
-3.4 De los antecedentes generales para postular a que
+#### Artículo 16
 
-se refiere el artículo 21, en sus letras e), f),
+3.4 De los antecedentes generales para
 
-i), j), l), ll), m) y en el punto n.3) de la
+postular a que se refiere el artículo
 
-letra n).
+21, en sus letras e), f), i), j), l),
 
-3.5 De la exigencia referida al Plan de Habilitación
+ll), m) y en el punto n.3) de la letra n).
 
-Social, contenida en los artículos 23 bis y 23
+3.5 De la exigencia referida al Plan de
 
-ter.
+Habilitación Social, contenida en los
 
-3.6 De las exigencias contenidas en el Párrafo XI del
+artículos 23 bis y 23 ter.
 
-Capítulo Primero, referido al Proceso de
+3.6 De las exigencias contenidas en el
 
-Selección, conformado por los artículos 24, 24
+### Párrafo XI — del Capítulo Primero, referido
 
-bis, 25, 26 y 27.
+al Proceso de Selección, conformado por
 
-3.7 De lo indicado en el artículo 28, referido a los
+los artículos 24, 24 bis, 25, 26 y 27.
 
-Factores de Puntaje.
+3.7 De lo indicado en el artículo 28, referido
 
-3.8 De lo establecido en el inciso segundo del
+a los Factores de Puntaje.
 
-#### Artículo 32 bis
+3.8 De lo establecido en el inciso segundo
 
-, respecto del monto a pagar por
+del artículo 32 bis, respecto del monto a
 
-los Servicios de Asistencia Técnica, en cuanto a
+pagar por los Servicios de Asistencia Técnica,
 
-que deba regirse por lo indicado en la resolución
+en cuanto a que deba regirse por lo
 
-N° 533 (V. y U.), de 1997.
+indicado en la resolución N° 533 (V. y U.),
 
-3.9 De lo dispuesto en los artículos 33, 34, 35 y 36,
+de 1997.
 
-que conforman el párrafo XV del Capítulo Primero,
+3.9 De lo dispuesto en los artículos 33, 34,
 
-referido al Contratista o Constructor.
+35 y 36, que conforman el párrafo XV del
 
-3.10 De lo indicado en las letras a), b), c), d) y e)
+Capítulo Primero, referido al Contratista
 
-del inciso cuarto del artículo 37, referido a los
+o Constructor.
 
-documentos exigidos para el pago del subsidio.
+3.10 De lo indicado en las letras a), b), c),
+
+d) y e) del inciso cuarto del artículo 37,
+
+referido a los documentos exigidos para
+
+el pago del subsidio.
 
 4. A los postulantes a este llamado especial no les estará permitido solicitar anticipos a cuenta del pago del subsidio, regulado por el artículo 37 bis del D.S. N° 255 (V. y U.), de 2005.
 
@@ -176,47 +194,55 @@ El número de proyectos seleccionados en cada región, alcanzará hasta la canti
 
 9. La operatoria para la entrega de este subsidio especial será la siguiente:
 
-9.1. Familias beneficiadas con este subsidio podrán
+9.1. Familias beneficiadas con este subsidio
 
-consultar respecto de su beneficio y del
+podrán consultar respecto de su beneficio
 
-Prestador de Servicios de Asistencia Técnica,
+y del Prestador de Servicios de Asistencia
 
-PSAT, que les fue asignado, a través de un número
+Técnica, PSAT, que les fue asignado, a
 
-telefónico gratuito que dispondrá el Ministerio
+través de un número telefónico gratuito que
 
-de Vivienda y Urbanismo para estos efectos o en
+dispondrá el Ministerio de Vivienda y
 
-el SERVIU respectivo.
+Urbanismo para estos efectos o en el SERVIU
 
-Quienes a pesar de cumplir con todos los
+respectivo.
 
-requisitos para ser seleccionados no hayan sido
+Quienes a pesar de cumplir con todos
 
-incluidos en las nóminas de beneficiados, podrán
+los requisitos para ser seleccionados
 
-acercarse hasta el 27 de diciembre de 2010 al
+no hayan sido incluidos en las nóminas
 
-SERVIU respectivo, con todos los antecedentes que
+de beneficiados, podrán acercarse hasta
+
+el 27 de diciembre de 2010 al SERVIU
+
+respectivo, con todos los antecedentes que
 
 acrediten el cumplimiento de éstos.
 
-9.2 Suscribir ante el SERVIU una declaración jurada,
+9.2 Suscribir ante el SERVIU una declaración
 
-como requisito previo para la asignación del
+jurada, como requisito previo para la
 
-subsidio y para que se les entregue la tarjeta
+asignación del subsidio y para que se
 
-para la compra de materiales, la que deberá
+les entregue la tarjeta para la compra de
 
-contener las siguientes estipulaciones:
+materiales, la que deberá contener las
 
-9.2.1 Ser propietario de la vivienda objeto de
+siguientes estipulaciones:
 
-este programa y no poseer, ni él ni su
+9.2.1 Ser propietario de la vivienda
 
-cónyuge, una segunda vivienda.
+objeto de este programa y no
+
+poseer, ni él ni su cónyuge, una
+
+segunda vivienda.
 
 9.2.2. Obligarse a utilizar los materiales
 
@@ -226,79 +252,95 @@ mejoramiento de su vivienda.
 
 9.2.3. Comprometerse a ejecutar las obras
 
-siguiendo las indicaciones técnicas que
+siguiendo las indicaciones técnicas
 
-dé el PSAT y conforme a la Ficha de
+que dé el PSAT y conforme a la
 
-Reparaciones correspondiente.
+Ficha de Reparaciones correspondiente.
 
 10. Cada SERVIU, mediante resoluciones del Director, determinará por zonas geográficas los PSAT que prestarán asesoría y apoyo a las familias beneficiadas. No obstante lo anterior las familias podrán acercarse a las correspondientes Municipalidades o a otros PSAT para que las provean de esta asistencia técnica. Sólo podrán ser elegidos los PSAT con convenio marco regional vigente, que hubieren tenido proyectos calificados como hábiles en cualquier región del país desde la fecha en que comenzó a regir dicho convenio. Esta última exigencia no se aplicará a los Municipios que participen como PSAT, debiendo tener sólo convenio marco vigente.
 
 11. Asignado el PSAT, las familias deberán tomar contacto con él pues éste los asesorará en todas las etapas del proceso de reparación. En la etapa previa a la adquisición de los materiales, el apoyo que el PSAT prestará será el siguiente:
 
-11.1. Visitar la vivienda y determinar según el
+11.1. Visitar la vivienda y determinar según
 
-Certificado de Daños el proyecto de reparación
+el Certificado de Daños el proyecto de
 
-que se deberá ejecutar. Este proyecto de
+reparación que se deberá ejecutar. Este
 
-reparación se realizará en base a Fichas de
+proyecto de reparación se realizará en
 
-Reparación que se utilizarán para estos efectos
+base a Fichas de Reparación que se
 
-y que se encontrarán disponibles en la página
+utilizarán para estos efectos y que se
 
-web del Ministerio de Vivienda y Urbanismo.
+encontrarán disponibles en la página
 
-11.2. Luego de determinar las obras que se deberán
+web del Ministerio de Vivienda
 
-desarrollar para reparar los daños que presenta
+y Urbanismo.
 
-la vivienda según el Certificado de Daño, el
+11.2. Luego de determinar las obras que se
 
-PSAT deberá cubicar los materiales que según
+deberán desarrollar para reparar los
 
-estas Fichas se requerirán en el proyecto. Todos
+daños que presenta la vivienda según
 
-estos antecedentes deberán estar incluidos en la
+el Certificado de Daño, el PSAT deberá
 
-Carpeta Técnica que deberá ser presentada al
+cubicar los materiales que según
 
-SERVIU, de acuerdo a lo establecido en el punto
+estas Fichas se requerirán en el
 
-12 de esta resolución.
+proyecto. Todos estos antecedentes
 
-11.3. El PSAT definirá un costo estimativo de los
+deberán estar incluidos en la
 
-materiales en base a la cubicación que realizó y
+Carpeta Técnica que deberá ser
 
-desarrollará el presupuesto del proyecto, el
+presentada al SERVIU, de acuerdo a
 
-cual sólo considerará el costo de los materiales
+lo establecido en el punto 12 de esta
 
-y herramientas menores que se necesite utilizar.
+resolución.
+
+11.3. El PSAT definirá un costo estimativo
+
+de los materiales en base a la cubicación
+
+que realizó y desarrollará el presupuesto
+
+del proyecto, el cual sólo considerará el
+
+costo de los materiales y herramientas
+
+menores que se necesite utilizar.
 
 Este presupuesto ordenará los materiales
 
-requeridos en base a las dos fases en que se
+requeridos en base a las dos fases en
 
-dividirá en el proceso de ejecución de la obra,
+que se dividirá en el proceso de ejecución
 
-dividiendo los ítems considerados en dos partes:
+de la obra, dividiendo los ítems
 
-la primera incluirá los materiales requeridos
+considerados en dos partes: la primera
 
-para la fase inicial de la obra y llegará como
+incluirá los materiales requeridos
 
-máximo a los $320.000, que corresponderá a la
+para la fase inicial de la obra y llegará
 
-primera carga de la tarjeta; y la segunda parte
+como máximo a los $320.000, que
 
-del presupuesto será por los materiales
+corresponderá a la primera carga de la
 
-restantes, la que no podrá exceder de $430.000,
+tarjeta; y la segunda parte del presupuesto
 
-que corresponderá a la segunda carga de la
+será por los materiales restantes, la
+
+que no podrá exceder de $430.000, que
+
+corresponderá a la segunda carga de la
 
 tarjeta.
 
@@ -306,29 +348,33 @@ tarjeta.
 
 Simultáneamente, el PSAT deberá preparar una Carpeta Técnica la que deberá ser presentada al SERVIU respectivo, debiendo contener los siguientes antecedentes:
 
-12.1 Fichas de Reparación que se utilizarán en la
+12.1 Fichas de Reparación que se utilizarán en
 
-vivienda.
+la vivienda.
 
-12.2 Presupuesto de las obras y desglose de precios
+12.2 Presupuesto de las obras y desglose de
 
-unitarios por partidas de obras, según las
+precios unitarios por partidas de obras,
 
-especificaciones técnicas indicadas en la ficha
+según las especificaciones técnicas
 
-tipo correspondiente a la reparación a realizar.
+indicadas en la ficha tipo correspondiente
 
-El presupuesto deberá estar dividido en dos
+a la reparación a realizar. El presupuesto
 
-partes, correspondiendo cada una de ellas al
+deberá estar dividido en dos partes,
 
-monto autorizado para cada fase de reparación.
+correspondiendo cada una de ellas al monto
+
+autorizado para cada fase de reparación.
 
 Este deberá venir firmado por el PSAT
 
-responsable del proyecto y por el postulante,
+responsable del proyecto y por el
 
-quien deberá aceptar el proyecto.
+postulante, quien deberá aceptar el
+
+proyecto.
 
 13. Luego de recibida la primera carga, la familia asesorada por el PSAT podrá acercarse a un establecimiento comercial establecido, con giro relativo a ferretería y provisión de materiales de construcción, para realizar la primera compra de materiales y herramientas, de acuerdo a lo indicado en la primera parte del presupuesto elaborado por el PSAT.
 
@@ -344,27 +390,31 @@ quien deberá aceptar el proyecto.
 
 19. Una vez terminadas las obras y para acreditar su finalización, se exigirán como respaldo los siguientes documentos:
 
-19.1 Informe final del PSAT que certifique que se
+19.1 Informe final del PSAT que certifique
 
-utilizaron los materiales adquiridos en la obra,
+que se utilizaron los materiales
 
-que éstas se desarrollaron de acuerdo al apoyo
+adquiridos en la obra, que éstas se
 
-técnico que él proporcionó y que se siguieron
+desarrollaron de acuerdo al apoyo técnico
 
-estrictamente los procedimientos indicados en la
+que él proporcionó y que se siguieron
 
-Ficha de Reparación correspondiente.
+estrictamente los procedimientos indicados
 
-19.2 Certificado de recepción conforme de obras, de
+en la Ficha de Reparación correspondiente.
 
-acuerdo a un formulario tipo que se
+19.2 Certificado de recepción conforme de
 
-proporcionará por el SERVIU, que podrá ser
+obras, de acuerdo a un formulario tipo
 
-firmado por el Director de Obras Municipales que
+que se proporcionará por el SERVIU, que
 
-certificó los daños, o en su defecto por SERVIU.
+podrá ser firmado por el Director de Obras
+
+Municipales que certificó los daños, o en
+
+su defecto por SERVIU.
 
 Este certificado deberá indicar que se
 
@@ -372,89 +422,163 @@ subsanaron los daños que afectaban a la
 
 vivienda.
 
-19.3 Libro de Obras con las indicaciones del PSAT y
+19.3 Libro de Obras con las indicaciones del
 
-con copia de las Fichas de Reparación
+PSAT y con copia de las Fichas de
 
-utilizadas.
+Reparación utilizadas.
 
-19.4 Documento suscrito por el beneficiario que
+19.4 Documento suscrito por el beneficiario
 
-indique su conformidad con el trabajo realizado
+que indique su conformidad con el trabajo
 
-por el PSAT, según documento tipo proporcionado
+realizado por el PSAT, según documento
 
-por el SERVIU para estos efectos.
+tipo proporcionado por el SERVIU para
 
-20. Como requisito para la recepción formal de los trabajos, se exigirá a cada SERVIU una visita a la vivienda en forma obligatoria, la que podrá efectuarse durante cualquier momento en el transcurso de la segunda fase del proyecto. Esta visita será requisito indispensable para proceder a pagar el saldo pendiente al PSAT.
+estos efectos.
 
-21. Tras la recepción formal de las obras según lo indicado en los puntos resolutivos 19 y 20, el PSAT cobrará el saldo de sus honorarios por familia asistida, correspondiente a 3 UF si la asistencia técnica se prestó en las regiones de Valparaíso, del Maule y de la Araucanía y a 5 UF si la vivienda a reparar se encontraba ubicada en la región del Libertador Bernardo O'Higgins. En caso que el beneficiario no aplique el subsidio y el prestador haya visitado la vivienda, elaborado el proyecto de reparación, ingresado los datos de éste en el Sistema RUKAN y entregado la carpeta técnica al SERVIU, se le pagará 1 UF. En caso de que el PSAT haya efectuado hasta el primer informe favorable de avance de obras y las personas no hayan utilizado la segunda carga, ya sea porque no se pagó la primera compra o porque el PSAT no dio visto bueno a las obras, se le pagarán sólo las 2 UF contempladas en el número 17. de esta resolución, al igual que si el PSAT determina que las reparaciones no se han ejecutado según el proyecto aprobado y no autoriza la segunda carga.
+20. Si transcurrido el plazo de vigencia de los subsidios otorgados a través del presente llamado existiesen obras cuya ejecución no hayan concluido, pero el beneficiario haya adquirido la totalidad de los materiales de construcción, el PSAT podrá solicitar al Serviu la recepción de los trabajos, para lo cual deberá elaborar un informe basado en una visita realizada a la vivienda, la que deberá quedar consignada en éste, el cual, dependiendo del estado de avance en que se encuentre el proyecto, definirá el saldo de los honorarios a cancelar al PSAT. Este informe será elaborado en un formato propuesto por cada Serviu. Este informe deberá contar con el visto bueno del beneficiario.
+
+21. En complemento a lo dispuesto en los puntos 19 y 20 precedentes, el saldo de los honorarios por concepto de Prestación de Servicios de Asistencia Técnica serán los siguientes:
+
+21.1 1,5 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 2,5 UF en
+
+la Región de O'Higgins, si el avance
+
+del proyecto es superior al 50%.
+
+21.2 2,5 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 3,5 UF en la
+
+Región de O'Higgins, si el avance del
+
+proyecto es superior al 70%.
+
+21.3 3 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 5 UF en la
+
+Región de O'Higgins, si el proyecto
+
+se ejecutó en su totalidad.
+
+21.4 2 UF en todas las regiones si el PSAT
+
+efectuó hasta el primer informe favorable
+
+de avance de obras y las personas no
+
+hayan utilizado la segunda carga, ya sea
+
+porque no la requería o porque el PSAT no
+
+dio visto bueno a las obras en la
+
+primera etapa.
+
+21.5 2 UF en todas las regiones si el
+
+beneficiario desiste de aplicar el
+
+subsidio, pero la Asistencia Técnica
+
+ya ha visitado la vivienda, elaborado
+
+el proyecto de reparación e ingresado
+
+los datos de este último en el sistema
+
+Rukán.
+
+21.6 1 UF en todas las regiones si a juicio
+
+de la Asistencia Técnica el subsidio
+
+no era factible de aplicar en la propiedad
+
+una vez realizada la visita. Este dato
+
+deberá quedar consignado en el sistema
+
+Rukán.
+
+Para el caso de la Región del Biobío, los pagos serán los correspondientes a cada caso descrito anteriormente, dependiendo el monto de Asistencia Técnica que dicha región haya sancionado para cada comuna de su región.
 
 22. Para el pago a los proveedores de materiales de los valores correspondientes a la primera y segunda carga, el SERVIU solicitará lo siguiente:
 
-22.1. Código de validación de la operación, entregado
+22.1. Código de validación de la operación,
 
-por el soporte respectivo del Sistema RUKAN del
+entregado por el soporte respectivo del
 
-Ministerio de Vivienda y Urbanismo.
+Sistema RUKAN del Ministerio de Vivienda
 
-22.2. Copia de Factura o Boleta, con el detalle y
+y Urbanismo.
 
-cantidad de materiales entregados, y en caso de
+22.2. Copia de Factura o Boleta, con el detalle
 
-no constar en éstos, deberá acompañarse copia
+y cantidad de materiales entregados, y
 
-de la correspondiente Guía de Despacho,
+en caso de no constar en éstos, deberá
 
-debiendo estar firmada por el beneficiario como
+acompañarse copia de la correspondiente
 
-forma de acreditar la recepción conforme de los
+Guía de Despacho, debiendo estar
 
-materiales.
+firmada por el beneficiario como
 
-22.3. Una vez presentada la Factura o Boleta al
+forma de acreditar la recepción
 
-SERVIU, éste dispondrá de 10 días hábiles para
+conforme de los materiales.
 
-su revisión. El monto a pagar al proveedor será
+22.3. Una vez presentada la Factura o Boleta
 
-el indicado en la Boleta o Factura, luego de
+al SERVIU, éste dispondrá de 10 días
 
-verificar que los materiales y herramientas
+hábiles para su revisión. El monto a
 
-adquiridos correspondan a los del listado de
+pagar al proveedor será el indicado en
 
-materiales. En caso que algunos de los
+la Boleta o Factura, luego de
 
-elementos detallados en la Boleta o Factura no
+verificar que los materiales y
 
-estén incluidos en ese listado, no serán
+herramientas adquiridos correspondan
 
-considerados en la liquidación del monto a
+a los del listado de materiales. En
 
-pagar.
+caso que algunos de los elementos
 
-22.4. Antes de dar curso al pago el SERVIU deberá
+detallados en la Boleta o Factura no
 
-revisar que el valor de los materiales se
+estén incluidos en ese listado, no
 
-ajuste a lo indicado en la letra s) del
+serán considerados en la liquidación
 
-#### Artículo 16
+del monto a pagar.
 
-, en relación con lo señalado en el
+22.4. Antes de dar curso al pago el SERVIU
 
-#### Artículo 36
+deberá revisar que el valor de los
 
-, ambos del D.S. 255 (V. y U.), de
+materiales se ajuste a lo indicado en
 
-2006, respecto de la Tabla de Valores
+la letra s) del artículo 16, en relación
 
-Referenciales de Construcción, y en caso que
+con lo señalado en el artículo 36, ambos
 
-esto no se cumpla, se dará curso al pago pero
+del D.S. 255 (V. y U.), de 2006, respecto
 
-se podrá eliminar al proveedor de la nómina
+de la Tabla de Valores Referenciales de
+
+Construcción, y en caso que esto no se
+
+cumpla, se dará curso al pago pero se
+
+podrá eliminar al proveedor de la nómina
 
 respectiva.
 

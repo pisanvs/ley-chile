@@ -132,11 +132,75 @@ Se autorizará a Serviu, si lo estimare conveniente, a cancelar las primeras 2 U
 
 19.4 Documento suscrito por el beneficiario que indique su conformidad con el trabajo realizado por el PSAT, según documento tipo proporcionado por el Serviu para estos efectos.
 
-20. Como requisito para la recepción formal de los trabajos, se exigirá a cada Serviu una visita a la vivienda en forma obligatoria, la que podrá efectuarse durante cualquier momento en el transcurso de la segunda fase del proyecto. Esta visita será requisito indispensable para proceder a pagar el saldo pendiente al PSAT.
+20. Si transcurrido el plazo de vigencia de los subsidios otorgados a través del presente llamado existiesen obras cuya ejecución no hayan concluido, pero el beneficiario haya adquirido la totalidad de los materiales de construcción, el PSAT podrá solicitar al Serviu la recepción de los trabajos, para lo cual deberá elaborar un informe basado en una visita realizada a la vivienda, la que deberá quedar consignada en éste, el cual, dependiendo del estado de avance en que se encuentre el proyecto, definirá el saldo de los honorarios a cancelar al PSAT. Este informe será elaborado en un formato propuesto por cada Serviu. Este informe deberá contar con el visto bueno del beneficiario.
 
-21. Tras la recepción formal de las obras según lo indicado en los puntos resolutivos 19 y 20, el PSAT cobrará el saldo de sus honorarios por familia asistida, correspondiente a 3 UF si la asistencia técnica se prestó en las regiones de Valparaíso, del Maule y de la Araucanía y a 5 UF si la vivienda a reparar se encontraba ubicada en la región del Libertador Bernardo O'Higgins. En caso que el beneficiario no aplique el subsidio y el prestador haya visitado la vivienda, elaborado el proyecto de reparación, ingresado los datos de éste en el Sistema RUKAN y entregado la carpeta técnica al Serviu, se le pagará 1 UF. En caso de que el PSAT haya efectuado hasta el primer informe favorable de avance de obras y las personas no hayan utilizado la segunda carga, ya sea porque no se pagó la primera compra o porque el PSAT no dio visto bueno a las obras, se le pagarán sólo las 2 UF contempladas en el número 17. de esta resolución, al igual que si el PSAT determina que las reparaciones no se han ejecutado según el proyecto aprobado y no autoriza la segunda carga.
+21. En complemento a lo dispuesto en los puntos 19 y 20 precedentes, el saldo de los honorarios por concepto de Prestación de Servicios de Asistencia Técnica serán los siguientes:
 
-En caso que el inspector Serviu visite la vivienda antes que las partidas se encuentren totalmente terminadas, se autorizará a Serviu para que cancele en forma parcializada el saldo correspondiente a la Asistencia Técnica, conforme al avance de obras que determine el inspector al momento de la visita, debiendo siempre dejar al menos 1 UF como saldo para el término y recepción final de la obra. En caso que las obras se encuentren completamente ejecutadas, se podrá proceder con el pago total conforme a lo señalado en el inciso precedente.
+21.1 1,5 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 2,5 UF en
+
+la Región de O'Higgins, si el avance
+
+del proyecto es superior al 50%.
+
+21.2 2,5 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 3,5 UF en
+
+la Región de O'Higgins, si el avance
+
+del proyecto es superior al 70%.
+
+21.3 3 UF en las regiones de Valparaíso, del
+
+Maule y de la Araucanía, o 5 UF en la
+
+Región de O'Higgins, si el proyecto se
+
+ejecutó en su totalidad.
+
+21.4 2 UF en todas las regiones si el PSAT
+
+efectuó hasta el primer informe
+
+favorable de avance de obras y las
+
+personas no hayan utilizado la segunda
+
+carga, ya sea porque no la requería o
+
+porque el PSAT no dio visto bueno a
+
+las obras en la primera etapa.
+
+21.5 2 UF en todas las regiones si el
+
+beneficiario desiste de aplicar el
+
+subsidio, pero la Asistencia Técnica
+
+ya ha visitado la vivienda, elaborado
+
+el proyecto de reparación e ingresado
+
+los datos de este último en el sistema
+
+Rukán.
+
+21.6 1 UF en todas las regiones si a juicio
+
+de la Asistencia Técnica el subsidio
+
+no era factible de aplicar en la propiedad
+
+una vez realizada la visita. Este dato
+
+deberá quedar consignado en el sistema
+
+Rukán.
+
+Para el caso de la Región del Biobío, los pagos serán los correspondientes a cada caso descrito anteriormente, dependiendo el monto de Asistencia Técnica que dicha región haya sancionado para cada comuna de su región.
 
 22. Para el pago a los proveedores de materiales de los valores correspondientes a la primera y segunda carga, el Serviu solicitará lo siguiente:
 
