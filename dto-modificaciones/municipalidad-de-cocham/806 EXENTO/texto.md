@@ -252,4 +252,24 @@ Artículo 13.- Las infracciones a la presente Ordenanza serán denunciadas al Ju
 
 Las multas que se apliquen por las infracciones cursadas a la presente Ordenanza serán de una hasta tres U.T.M.
 
+#### Artículo 15
+
+<!-- parte:9379070 -->
+
+## Título IX
+
+Sanciones por daños a los bienes de uso público y del medio ambiente
+
+Artículo 15.- Las responsabilidades por daños provocados por personas naturales o jurídicas, a edificios públicos, obras de arte, señaléticas, áreas verdes, parques de juegos en general, plazas y plazoletas serán denunciadas a las entidades judiciales correspondientes por Carabineros de la comuna de Cochamó y las multas serán determinadas de acuerdo a la evaluación de los daños provocados, los que serán determinados por la Dirección de Obras Municipales y aplicadas por el tribunal competente.
+
+Estas sanciones podrán fluctuar entre 0 y 50 UTM, según se determine.
+
+#### Artículo 16
+
+<!-- parte:9379071 -->
+
+En lo relativo al medio ambiente serán sancionadas todas las intervenciones al medio natural que sean realizadas por personas naturales o jurídicas en la comuna de Cochamó sin la debida autorización de los organismos competentes vinculados al Ministerio del Medio Ambiente y la Autoridad Sanitaria. Las denuncias de estos hechos podrán ser efectuadas por cualquier ciudadano a la Municipalidad de Cochamó, la que a su vez demandará las sanciones correspondientes a los tribunales ordinarios y/o medioambientales, como también a la autoridad sanitaria.
+
+Estas sanciones podrán fluctuar entre 0 y 500 UTM.
+
 Anótese, comuníquese, publíquese en el Diario Oficial de la República.- Jesús Silverio Morales R., Alcalde.- Valentina Domínguez A., Secretaria Municipal.
