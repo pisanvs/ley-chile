@@ -812,9 +812,11 @@ Para productos alimenticios deshidratados, que se consuman reconstituidos, la po
 
 31) Alimentos listos para consumo (LPC): alimentos destinados por el productor o el fabricante o envasador al consumo humano directo sin necesidad de cocinado u otro tipo de transformación eficaz para eliminar o reducir a un nivel aceptable los microorganismos peligrosos.
 
-> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+32) Hipersensibilidad alimentaria: reacciones adversas a los alimentos de origen no tóxico. Se dividen en Alergia alimentaria e Hipersensibilidad no alérgica a los alimentos.
 
-> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+33) Alimento de referencia: aquel alimento homólogo que sirve como patrón de comparación para realizar y destacar una modificación nutricional, restringido al descriptor reducido y sus sinónimos. Este alimento de referencia deberá estar presente en el mercado y ser de propia fabricación y, sólo en su defecto, se podrán considerar otros alimentos homólogos, también presentes en el mercado.
+
+> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
 
 #### Artículo 107
 
@@ -876,9 +878,7 @@ Este registro deberá incluir los antecedentes de la destinación aduanera, los 
 
 La clave del lote de producción o la fecha de elaboración deberá, además, estar estampada en el envase, permitiendo distinguir, inequívocamente, las distintas partidas o lotes de producción.
 
-Los alimentos importados deberán cumplir con todas las demás normas de etiquetado vigentes en aquello no expresamente regulado en este literal. La autorización de internación y consumo se efectuará partida por partida, quedando, por lo tanto, sujetos a todos los controles que la Autoridad Sanitaria deba realizar conforme a lo dispuesto en el presente reglamento;
-
-n) el alimento y/o materia prima para consumo humano, modificados por medio de eventos biotecnológicos, que presenten características nutricionales distintas a las del alimento y/o materia prima convencional, deberá hacer mención de ellas en el rótulo, de acuerdo a lo establecido en los artículos 113 y 115 al 120 de este reglamento.
+Los alimentos importados deberán cumplir con todas las demás normas de etiquetado vigentes en aquello no expresamente regulado en este literal. La autorización de internación y consumo se efectuará partida por partida, quedando, por lo tanto, sujetos a todos los controles que la Autoridad Sanitaria deba realizar conforme a lo dispuesto en el presente reglamento; n) el alimento y/o materia prima para consumo humano, modificados por medio de eventos biotecnológicos, que presenten características nutricionales distintas a las del alimento y/o materia prima convencional, deberá hacer mención de ellas en el rótulo, de acuerdo a lo establecido en los artículos 113 y 115 al 120 de este reglamento.
 
 > **Nota.** El artículo transitorio del DTO 475, Salud, publicado el 13.01.2000, establece un plazo de seis meses, a partir de la publicación en el D.O. de dicho decreto, para dar cumplimiento a lo señalado en el artículo 107, letra g) de este decreto, respecto a la rotulación de la fecha de vencimiento o plazo de duración. En el caso de bebidas comercializadas en envases retornables, cuya rotulación sea impresa directamente en el envase, el plazo será de dos años.
 
@@ -888,9 +888,7 @@ n) el alimento y/o materia prima para consumo humano, modificados por medio de e
 
 #### Artículo 108
 
-Además los productos importados deberán cumplir con todas las disposiciones de rotulación estipuladas en el presente Reglamento. Cualquier información especificada en este Reglamento y que no haya sido considerada en la rotulación original, que no esté en castellano o no esté indicada de acuerdo a lo establecido en este Reglamento, se deberá colocar en una etiqueta adherida permanentemente al envase, de un tamaño y ubicación adecuados, y que comprenda, al menos, la información de la etiqueta original.
-
-> **Nota.** El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+Además los productos importados deberán cumplir con todas las disposiciones de rotulación estipuladas en el presente Reglamento. Cualquier información especificada en este Reglamento y que no haya sido considerada en la rotulación original, que no esté en castellano o no esté indicada de acuerdo a lo establecido en este Reglamento, se deberá colocar en una etiqueta adherida permanentemente al envase, de un tamaño y ubicación adecuados.
 
 #### Artículo 109
 
@@ -904,9 +902,9 @@ En aquellos alimentos o productos alimenticios que contengan saborizantes/aromat
 
 (saborizante/aromatizante natural, saborizante/aromatizante idéntico a natural y/o saborizante/aromatizante artificial), se admitirá la representación gráfica del alimento o sustancia cuyo sabor caracteriza al producto, aunque éste no lo contenga, debiendo acompañar el nombre del alimento con las expresiones: "Sabor a ..." o "Sabor ..." llenando el espacio en blanco con el nombre del sabor o sabores caracterizantes, con letras en idéntico color, realce y visibilidad.
 
-> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
+Para destacar la ausencia de nutrientes, factores alimentarios o ingredientes, natural o normalmente ausentes en un alimento, deberá hacerse en términos genéricos y no como una característica exclusiva del alimento que lo declara.
 
-> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
 
 #### Artículo 111
 
@@ -914,11 +912,9 @@ La información debe colocarse en el envase de manera que no se separe del mismo
 
 #### Artículo 112
 
-Cuando en el etiquetado de un alimento se destaque la presencia o el contenido de uno o más ingredientes caracterizantes, o cuando la descripción del alimento produzca el mismo efecto, deberá declararse el porcentaje de él o los ingredientes masa/masa, en el producto final.
+Cuando en el etiquetado de un alimento se destaque la presencia o el contenido de uno o más ingredientes caracterizantes, o cuando la descripción del alimento produzca el mismo efecto, deberá declararse el porcentaje de él o los ingredientes masa/masa, en el producto final. Se excluyen de la aplicación de este artículo, aquellos ingredientes que son objeto de condiciones o criterios específicos de rotulación, en otros artículos del presente Reglamento o en sus resoluciones complementarias.
 
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
-
-> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
 
 #### Artículo 113
 
@@ -938,13 +934,15 @@ Será responsabilidad del fabricante, importador y/o envasador final, que toda l
 
 Todos los alimentos envasados listos para su entrega al consumidor final deberán obligatoriamente incorporar en su rotulación la siguiente información nutricional:
 
-a) Valor energético en kcal; las cantidades de proteínas, carbohidratos disponibles y grasas totales, en gramos y el sodio en miligramos.
+a) Valor energético o energía expresado en calorías (unidad de expresión kcal), las cantidades de proteínas, grasas totales, hidratos de carbono disponibles o carbohidratos disponibles y azúcares totales, en gramos (unidad de expresión g) y el sodio en miligramos (unidad de expresión mg).
 
 En aquellos productos cuyo contenido total de grasa sea igual o mayor a 3 gramos por porción de consumo habitual, deberán declararse además de la grasa total, las cantidades de ácidos grasos saturados, monoinsaturados, poliinsaturados y ácidos grasos trans, en gramos y el colesterol en miligramos.
 
 En el caso de aquellos alimentos que contengan una cantidad igual o menor a 0,5 gramos de ácidos grasos trans por porción de consumo habitual, se aceptará como alternativa la declaración que el alimento no contiene más de 0,5 gramos de ácidos grasos trans por porción.
 
-En el caso de aquellos alimentos que contengan una cantidad igual o menor a 35 miligramos de sodio por porción de consumo habitual, se aceptará como alternativa la declaración que el alimento no contiene más de 35 miligramos de sodio por porción;
+En el caso de aquellos alimentos que contengan una cantidad igual o menor a 35 miligramos de sodio por porción de consumo habitual, se aceptará como alternativa la declaración que el alimento no contiene más de 35 miligramos de sodio por porción.
+
+En el caso de aquellos alimentos que contengan una cantidad igual o menor a 0,5 gramos de azúcares por porción de consumo habitual, se aceptará como alternativa la declaración que el alimento no contiene más de 0,5 gramos de azúcares por porción.
 
 b) La cantidad de cualquier otro nutriente o factor alimentario, como fibra dietética y colesterol, acerca del que se haga una declaración de propiedades nutricionales y/o saludables.
 
@@ -1084,21 +1082,27 @@ ii) Si el dígito que se va a descartar es menor
 
 que 5 se deja el dígito anterior.
 
-La expresión numérica del número de porciones de consumo habitual y medidas caseras, deberá ser en números enteros. Cuando el resultado de dividir el contenido del envase por el número de porciones no sea número entero o cuando no sea fácilmente definible, las porciones se expresarán con la frase "alrededor de" o con el término "aprox.", seguidos del número entero obtenido con los criterios de aproximación matemática de los valores de nutrientes y factores alimentarios anteriormente descritos.
+La expresión numérica del número de porciones de consumo habitual deberá ser en números enteros y la expresión del tamaño de la porción en medidas caseras puede ser en unidades, rebanadas, trozos, tazas, cucharadas u otras similares o sus partes, como por ejemplo media cucharada o 1/4 taza. Cuando el resultado de dividir el contenido del envase por el tamaño de la porción definida, no sea número entero, o cuando no sea fácilmente definible, las porciones se aproximarán con los criterios de aproximación matemática de los valores de nutrientes y factores alimentarios, anteriormente descritos. Cuando la aproximación matemática corresponda que sea al entero superior, será obligatorio el uso de la expresión "alrededor de" o la expresión "aprox.", acompañando al número entero obtenido. Cuando la aproximación matemática corresponda que sea al entero inferior, será facultativo el uso de la expresión "alrededor de" o la expresión "aprox.", acompañando al número entero obtenido.
+
+c) La declaración de nutrientes deberá cumplir con las siguientes características:
+
+1) Las familias tipográficas que se utilizarán serán las Arial, Dax, Futura, Helvética, Myriad, Swiss y Univers, u otras familias equivalentes que posean igual peso y consistencia visual, de cortes y perfiles rectos, sin serif, y que incluyan versiones bold (negrita) y condensadas estandarizadas.
+
+2) La altura mínima de las letras y números será de 1,2 milímetros medidos en la altura de una letra H mayúscula en las familias tipográficas previamente definidas o sus equivalentes, lo que equivale aproximadamente a 5 puntos tipográficos definidos en los softwares (programas) de diseño gráfico.
+
+3) Los colores utilizados en la combinación del fondo con las letras y números con los que se entrega la información nutricional, deberán tener entre sí el máximo contraste posible, usándose para este fin colores planos o llenos, sin gradaciones de color o tramas.
+
+4) La información deberá ordenarse de preferencia en forma vertical, usando dos columnas, una para la información por 100 g ó 100 ml (según corresponda) y otra para la información por porción de consumo habitual. Se aceptará un ordenamiento horizontal o división de la información en dos cuerpos o a renglón seguido.
 
 > **Nota.** El Art. 2º del DTO 58, Salud, publicado el 16.06.2007, dispuso que las modificaciones introducidas en el presente artículo referidas a la expresión numérica de nutrientes y factores alimentarios, la referida a los criterios de aproximación para valores de nutrientes y factores alimentarios y la referida a la expresión del número de porciones de consumo habitual y medidas caseras, entrarán en vigencia en el plazo de 12 meses desde su publicación.
 
-> **Nota.** NOTA 1 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
-
 #### Artículo 116
 
-Cuando se haga una declaración de propiedades nutricionales con respecto a la cantidad o el tipo de carbohidratos deberá incluirse, además de lo prescrito en el artículo 115, la cantidad total de azúcares y cualquier otro hidrato de carbono disponible.
+Cuando se haga una declaración de propiedades nutricionales o saludables con respecto a la cantidad o el tipo de carbohidratos disponibles o hidratos de carbono disponibles deberá incluirse, además de lo prescrito en el artículo 115, la cantidad total de cualquier carbohidrato disponible o hidratos de carbono disponibles involucrada en la declaración o mensaje.
 
-Si se hace una declaración de propiedades nutricionales respecto a la fibra dietética además de lo establecido en el artículo 115, deberá indicarse la cantidad de fibra dietética total, de fibra soluble y de fibra insoluble.
+Cuando se haga declaración de propiedades nutricionales o saludables respecto a la fibra dietética, además de lo establecido en el artículo 115, deberá indicarse la cantidad de fibra dietética total, de fibra soluble, de fibra insoluble y de la(s) fibra(s) dietética(s) involucrada(s) en la declaración o mensaje.
 
-Asimismo, cuando se declaren propiedades nutricionales o saludables respecto a la cantidad o tipo de ácidos grasos deberá indicarse inmediatamente a continuación de la declaración del contenido total de grasa, las cantidades de ácidos grasos saturados, ácidos grasos trans, monoinsaturados, poliinsaturados, y colesterol.
-
-> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+Asimismo, cuando se declaren propiedades nutricionales o saludables respecto a la cantidad o tipo de ácidos grasos deberá indicarse inmediatamente a continuación de la declaración del contenido total de grasa, las cantidades de ácidos grasos saturados, ácidos grasos monoinsaturados, poliinsaturados, ácidos grasos trans y colesterol. Se exceptúan de esta obligatoriedad aunque hagan una declaración de propiedad, usen un descriptor nutricional o un mensaje saludable, a los alimentos que cumplen con los parámetros establecidos en el artículo 120 para el descriptor nutricional "libre de grasas total".
 
 #### Artículo 117
 
@@ -1118,47 +1122,23 @@ La información nutricional complementaria, que facultativamente se podrá añad
 
 #### Artículo 120
 
-Para destacar las cualidades de un alimento o producto en cuanto a determinados nutrientes, sólo se permitirá el uso de los descriptores que a continuación se indican:
+Para destacar las cualidades de cualquier tipo de alimento o producto alimenticio en cuanto a contenido energético (energía o calorías), grasa total, grasa saturada, grasa trans, colesterol, azúcar, azúcares, sodio, vitaminas, minerales, proteínas, ácido docosahexaenoico (DHA), ácido eicosapentaenoico (EPA), otros nutrientes y fibra dietética, sólo se permitirá el uso de los descriptores que se indican en el presente Reglamento.
 
-a) libre: si la porción de consumo habitual contiene menos de 5 kcal; menos de 0,5 g. de grasa total; menos de 0,5 g de grasa saturada; menos de 0,5 g. de ácidos grasos trans; menos de 2 mg de colesterol; menos de 0,5 g de azúcar o azúcares según sea el caso; menos de 5 mg de sodio; según sea el caso;
+El uso de un descriptor deberá ser seguido del nombre del respectivo nutriente, factor alimentario o de la palabra calorías o energía, según corresponda.
 
-b) bajo aporte: si la porción de consumo habitual contiene un máximo de 40 kcal, 3 g. de grasa total; 1 g. de grasa saturada y no contiene más de un 15% de las calorías provenientes de grasa saturada en relación a las calorías totales; 20 mg de colesterol; 140 mg de sodio.
+Se permite el uso de palabras en otro idioma o palabras de fantasía, que se asocien inequívocamente con características nutricionales, tales como light, diet, high, lite, low, delgadíssimo, flakin y soft, entre otras, siempre que cumplan con los parámetros de alguno de los descriptores autorizados en el presente Reglamento.
 
-Para productos alimenticios en polvo que se consumen habitualmente hidratados cuya porción es menor o igual a 30 g se considerará "bajo aporte" cuando cumplan estos requisitos por cada porción de consumo habitual del alimento reconstituido;
+Cuando se usen palabras en otro idioma o palabras de fantasía asociadas con alguna característica nutricional, la superficie ocupada por el descriptor en la rotulación, deberá corresponder como mínimo al 33% de la superficie ocupada por la palabra en otro idioma o de fantasía de mayor tamaño y deberá ubicarse, al menos una vez, en la cara principal del envase, junto a la palabra en otro idioma o palabra de fantasía. Si la relación de superficie es mayor o igual a 50%, entonces el descriptor podrá ubicarse en cualquier cara.
 
-c) buena fuente: si la porción de consumo habitual contiene entre un 10% y 19% de la Dosis Diaria de Referencia para un nutriente particular;
+A los efectos de aplicación de este artículo, para el cálculo de los respectivos porcentajes, deberá considerarse como superficie de referencia, la palabra en otro idioma y/o palabra de fantasía, de mayor tamaño, y deberá mantenerse siempre la condición de legibilidad de todos los descriptores presentes en el etiquetado del producto.
 
-d) alto: si la porción de consumo habitual contiene un 20% o más de la Dosis Diaria de Referencia para un nutriente particular;
+El descriptor reducido y sus sinónimos, no podrán usarse si el alimento cumple el requisito para ser descrito como bajo aporte. El descriptor bajo aporte no podrá utilizarse para destacar el contenido de azúcar o azúcares de un alimento.
 
-e) reducido: si en el producto modificado se ha reducido en una proporción igual o mayor a 25% el contenido de un nutriente particular o el contenido de calorías en una proporción igual o mayor a 25% de las calorías del alimento normal de referencia.
+En la declaración de propiedades nutricionales de los alimentos no se podrán usar dos descriptores simultáneamente para describir una misma propiedad.
 
-Este descriptor también se aplica para el colesterol. Este descriptor no puede usarse si el alimento cumple el requisito para ser descrito como de "bajo aporte";
+Los descriptores: libre, bajo aporte, reducido y liviano en colesterol sólo podrán aplicarse a alimentos que sean libres de grasa trans (máximo 0,2 g de ácidos grasos trans por porción de consumo habitual) y que contengan por porción de consumo habitual máximo 2 g de grasa saturada.
 
-f) liviano: si en el producto modificado se ha reducido el contenido de calorías en proporción igual o mayor a un 33,3% de las calorías o en una proporción igual o mayor a 50% de las grasas del alimento de referencia.
-
-Si en el alimento normal de referencia, el 50% o más de las calorías provienen de la grasa, este descriptor sólo se aplica cuando ésta se reduce en una proporción igual o mayor a un 50%.
-
-También se aplica cuando el contenido de grasa saturada, colesterol, sodio o azúcar o azúcares según sea el caso se han reducido a menos de la mitad de la cantidad presente normalmente en el alimento de referencia;
-
-g) fortificado o enriquecido: si el alimento se ha modificado para aportar adicionalmente por porción de consumo habitual un 10% o más de la Dosis Diaria de Referencia para un nutriente particular o fibra dietética. Los alimentos enriquecidos o fortificados deberán dar cumplimiento a lo establecido en la resolución exenta Nº 393, de 2002, del Ministerio de Salud, publicada en el Diario Oficial de 1º de marzo de 2002, que "Fija directrices nutricionales sobre uso de vitaminas y minerales en alimentos" o la que la reemplace;
-
-h) extra magro: si la porción de consumo habitual y por cada 100 g., contiene como máximo 5 g de grasa total, 2 g de grasa saturada y 95 mg de colesterol.
-
-Este descriptor es específico para carnes;
-
-i) muy bajo en sodio: si la porción de consumo habitual contiene un máximo de 35 mg de sodio. En el caso que la porción sea menor o igual a 30 gramos, para poder usar este descriptor deberá usarse, como base de cálculo, una cantidad igual a 50 g. del alimento, la cual deberá contener menos de 35 mg de sodio.
-
-Los descriptores: libre, bajo aporte, reducido y liviano en colesterol no podrán aplicarse a alimentos que contengan por porción de consumo habitual más de 2 g de grasa saturada o más de 4% de ácidos grasos trans.
-
-Los alimentos que usen los descriptores especificados en este artículo deberán ceñirse a lo establecido en el artículo 113 de este reglamento.
-
-En la declaración de propiedades nutricionales de los alimentos no se podrá usar dos descriptores simultáneamente para describir una misma propiedad.
-
-> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
-
-> **Nota.** NOTA 1: El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
-
-> **Nota.** NOTA 2 El Art. 1º del Decreto 88, Salud, publicado el 06.01.2011, modificó el presente artículo, disponiendo en su Art. 2º su inicio de vigencia para veinticuatro meses después de su publicación. Pese a encontrarse ese plazo ya cumplido y la modificación subsecuente en vigor, el referido Art. 2º fue reemplazado por el Decreto 66, Salud, publicado el 19.04.2013, que a su vez fija como nueva fecha el 18 de octubre de 2013. La Contraloría General de la República tomó razón de esta última norma en el entendido que los efectos del Decreto 88 deben entenderse suspendidos entre las dos fechas indicadas, por lo que en esta versión se ha suprimido la parte modificada por este.
+Los alimentos que usen los descriptores que a continuación se indican, deberán ceñirse a lo establecido en el artículo 113 de este reglamento:
 
 #### Artículo 121
 
