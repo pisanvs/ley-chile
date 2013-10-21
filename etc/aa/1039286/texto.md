@@ -288,7 +288,7 @@ e) Las resoluciones de los Tribunales Electorales Regionales que se pronuncien s
 
 f) Las sentencias de los Tribunales Electorales Regionales pronunciadas con motivo de las declaraciones de candidaturas a Alcalde o Concejal, de las solicitudes de nulidad o rectificación de escrutinio de las elecciones municipales, de conformidad con lo dispuesto en el Título V "De las elecciones municipales"; artículo 153 de la Ley N° 18.695, Orgánica Constitucional de Municipalidades; Títulos IV "De las reclamaciones electorales" y V "Del escrutinio general y de la calificación de elecciones", ambos de la Ley N° 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios;
 
-g) Las sentencias de los Tribunales Electorales Regionales que se pronuncien sobre las elecciones de Consejeros Regionales, de conformidad con lo dispuesto en el párrafo 2° "De las reclamaciones del acto electoral", del Capítulo VI "De la elección del Consejo Regional" y artículo 111 de la Ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional;
+g) DEROGADO;
 
 h) Las sentencias que dicten los miembros del Tribunal Calificador de Elecciones conociendo de las infracciones del Título VIII de la Ley Nº 18.603, Orgánica Constitucional de los Partidos Políticos;
 
