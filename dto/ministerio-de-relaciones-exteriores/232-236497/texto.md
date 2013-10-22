@@ -22,7 +22,7 @@ El Ministerio de Relaciones Exteriores otorgará pasaportes diplomáticos y ofic
 
 #### Artículo 3º
 
-Estarán autorizados para otorgar los pasaportes a que se refiere el presente decreto, el Subsecretario de Relaciones Exteriores, el Director y Subdirector de la Dirección Consular y de Inmigración, y el Jefe a cargo de la Unidad responsable de estos pasaportes.
+Estarán autorizados para otorgar los pasaportes a que se refiere el presente decreto, el Subsecretario de Relaciones Exteriores, el Director General de Asuntos Consulares e Inmigración, los funcionarios en que éste delegue y el Jefe de la Unidad responsable de estos pasaportes.
 
 #### Artículo 4º
 
@@ -128,15 +128,15 @@ c) Decreto o resolución de nombramiento para acreditar cargos en la Administrac
 
 d) Decreto o resolución de la institución que corresponda, para acreditar la comisión de servicios o destinación en una Misión en el exterior.
 
-e) Certificado de matrimonio o libreta de familia, para acreditar vínculo conyugal.
+e) ELIMINADO.
 
-f) Certificado de nacimiento o libreta de familia, para acreditar filiación.
+f) ELIMINADO.
 
-g) Certificado de nacimiento del funcionario titular y de su cónyuge, para acreditar a sus padres dependientes.
+g) Certificado de carga familiar que acredite que los padres del funcionario titular son carga de éste o de su cónyuge.
 
-h) Certificado de defunción o libreta de familia para acreditar la viudez del cónyuge sobreviviente.
+h) ELIMINADO.
 
-i) Certificado de cargas familiares, de estudios o de incapacidad.
+i) Certificado de cargas familiares, de estudios o de incapacidad para los hijos.
 
 j) Autorización para viajar al extranjero, en el caso de los menores de 18 años de edad, conforme a lo dispuesto en el artículo 49 de la ley Nº 16.618 o el artículo 35 de la ley Nº 19.620, según corresponda.
 
@@ -146,19 +146,25 @@ La Unidad encargada de otorgar los pasaportes, deberá llevar un registro diario
 
 #### Artículo 9º
 
-Los pasaportes diplomáticos y oficiales se expedirán en libretas de 8,8 centímetros de ancho y 12,5 centímetros de largo, en cuya cubierta, sobre el Escudo de Armas de la República, estarán grabadas las palabras "República de Chile", "Pasaporte Diplomático" y "Pasaporte Oficial", según corresponda, en idioma español e inglés.
+Los pasaportes diplomáticos con chip electrónicos serán de color azul oscuro y los pasaportes oficiales con chip electrónicos de color azul índigo. En las portadas de ambos pasaportes estarán grabadas las frases "República de Chile", el Escudo Nacional, "PASAPORTE DIPLOMÁTICO/DIPLOMATIC PASSPORT" Y "PASAPORTE OFICIAL/OFFICIAL PASSPORT", respectivamente.
 
-Las cubiertas de los pasaportes diplomáticos serán de color negro y la de los oficiales de color azul oscuro.
+Al final de la tapa llevará impreso el símbolo de documento electrónico establecido por la Organización de Aviación Civil Internacional, OACI/ICAO.
 
-Ambos pasaportes tienen 48 páginas y son individuales.
+Ambos pasaportes tendrán 50 páginas y serán individuales.
 
-Dichos documentos constan de un número perforado, que corresponderá al número del pasaporte, y de una leyenda que estipula: "es responsabilidad del titular de este pasaporte obtener las visas necesarias", gestión que deberá realizarse con la solicitud que entregue la unidad expedidora de los pasaportes, ante la Embajada o Consulado que corresponda.
+Dichos documentos constarán de un número de serie perforado en la parte superior del cuadernillo, compuesto por nueve caracteres que corresponden al número del pasaporte. En los pasaportes diplomáticos se iniciará con la letra D, y en los pasaportes oficiales con la letra S.
 
-Los datos personales del titular van consignados en la contratapa del pasaporte a través de un sistema de lectura mecanizada, que incluye entre otros, el número de su RUN, fotografía, impresión dactilar y firma. En las páginas 47 y 48 se estamparán las leyendas que acrediten cargo, rango, filiación y cualquier otra indicación que la unidad expedidora de dichos documentos considere necesario. En la misma página, quedará registrada la firma de la autoridad otorgante y el sello correspondiente.
+Los datos personales del titular irán consignados en la página 2 del pasaporte, la que estará confeccionada en policarbonato y que lleva la siguiente información: el tipo y número de pasaporte, nombre completo del titular, RUN, sexo, nacionalidad, lugar y fecha de nacimiento, fecha de otorgamiento y del vencimiento del pasaporte y la autoridad emisora. Además, llevará el símbolo de la bandera chilena y la foto del titular.
+
+En la página 2 se incluirá el chip sin contacto y su antena, el que le proporciona al documento las características de un pasaporte electrónico con información multibiométrica, en cumplimiento a las normas recomendadas por la Organización de Aviación Civil Internacional, OACI/ICAO.
+
+En las páginas 3, 4, 5 y 6 se inscribirán cargos, rangos, filiación, dependencias y cualquier otra indicación que la unidad expedidora de dichos documentos considere necesario.
+
+Además, en la página 3 quedará registrada la firma de la autoridad otorgante.
 
 #### Artículo 10º
 
-La validez de los pasaportes diplomáticos y oficiales, no podrá exceder de diez y cuatro años respectivamente. Si un pasaporte diplomático u oficial cumple su vida útil en un período inferior a su fecha de vencimiento, no podrá ser revalidado, sino que deberá ser reemplazado por un nuevo documento, que tendrá que solicitarse, en el país, a la Unidad del Ministerio de Relaciones Exteriores que lo otorga, y en el exterior, a la Embajada o Consulado que corresponda.
+La validez de los pasaportes diplomáticos no podrá exceder de 10 años y la validez de los pasaportes oficiales no podrá exceder de cinco años. Si un pasaporte diplomático u oficial cumple su vida útil en un período inferior a su fecha de vencimiento, no podrá ser revalidado, sino que deberá ser reemplazado por un nuevo documento, que tendrá que solicitarse, en el país, a la Unidad del Ministerio de Relaciones Exteriores que lo otorga, y en el exterior, a la Embajada o Consulado que corresponda.
 
 Los pasaportes diplomáticos y oficiales conservarán su vigencia cuando:
 
@@ -183,6 +189,8 @@ Estarán exentos del pago de los derechos por otorgamiento de pasaportes diplom�
 Los pasaportes diplomáticos y oficiales no deben ser objeto de modificaciones de ningún tipo, excepto por la autoridad que los otorga. En caso de incumplimiento de esta disposición, el pasaporte quedará nulo.
 
 En caso de pérdida o sustracción de los mismos, deberá inmediatamente dejarse constancia de ello ante las autoridades policiales competentes y presentar una copia de dicha constancia al Ministerio de Relaciones Exteriores o a la Misión Diplomática de Chile que corresponda.
+
+Además, el titular del pasaporte perdido o sustraído deberá solicitar en forma urgente a la unidad expedidora de estos pasaportes del Ministerio de Relaciones Exteriores el bloqueo definitivo de dicho documento.
 
 #### Artículo 14º
 
