@@ -1540,7 +1540,7 @@ presente artículo y en el numeral 1 del
 
 artículo tercero, deberá estar finalizado
 
-dentro de los siguientes 120 días corridos,
+dentro de los siguientes 154 días corridos,
 
 contados desde la fecha de publicación del
 
