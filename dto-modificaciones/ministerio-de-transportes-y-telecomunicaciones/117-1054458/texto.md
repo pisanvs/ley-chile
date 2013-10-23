@@ -79,3 +79,23 @@ El presente decreto entrará en vigencia a contar de su fecha de publicación en
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Marcel Didier Fierro, Jefe División Administración y Finanzas.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº 117, de 2012, del Ministerio de Transportes y Telecomunicaciones
+
+Nº 55.863.- Santiago, 2 de septiembre de 2013.
+
+Esta Contraloría General ha dado curso al documento individualizado en el rubro, que modifica el decreto Nº 53, de 1984, del Ministerio de Transportes y Telecomunicaciones, pero cumple con hacer presente que lo dispuesto en su artículo transitorio debe entenderse referido a las exigencias introducidas en los artículos 6º, 7º y 8º de la preceptiva que se modifica.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General la República.
+
+Al señor
+
+Ministro de Transportes y Telecomunicaciones
+
+Presente.
