@@ -14,7 +14,7 @@ Vértice C Lat. 44°21'05,77" S. Long. 72°54'45,39" W.
 
 Vértice D Lat. 44°21'09,61" S. Long. 72°54'55,33" W.
 
-Vértice A Lat. 44°21'07,29" S. Long. 72°54'59,93" W.
+Vértice E Lat. 44°21'07,29" S. Long. 72°54'59,93" W.
 
 3.- Esta concesión de acuicultura tiene por objeto único la realización de actividades de cultivo en el área concedida y deberá amparar la instalación y operación de un cultivo del grupo de especies Salmónidos.
 
