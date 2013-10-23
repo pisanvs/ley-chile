@@ -2,7 +2,7 @@ NOMBRA PLAZA SOLDADO PEDRO PRADO A LA PLAZA UBICADA FRENTE AL CEMENTERIO Nº 3
 
 Núm. 472.- Iquique, 28 de agosto de 2013.- Vistos:
 
-Acta de sesión ordinaria, de fecha 16 de abril de 2013, del Consejo Económico y Social Comunal.
+Acta de Sección Ordinaria, de fecha 16 de abril de 2013, del Concejo Municipal.
 
 Certificado Nº 226/2013 de fecha 17 de abril de 2013, emitido por el Secretario Municipal (S) y Secretario del Concejo Municipal (S), que da cuenta del Acuerdo Nº 224/13, de fecha 16 de abril de 2013, del Concejo Municipal.
 
