@@ -34,11 +34,13 @@ Resolución:
 
 1.4 Proyectos de Habitabilidad del Título II, destinados al Acondicionamiento Térmico de la vivienda conforme, a lo indicado en el artículo 6° bis del DS N° 255 (V. y U.), de 2006, en las regiones del L. Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía, de Los Ríos, de Los Lagos y de Aysén, y además a proyectos del resto de las regiones que se ubiquen en zona térmica IV o superior, según lo detallado en el resuelvo 6 de la presente resolución.
 
-Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 7 de agosto de 2013.
+Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 16 de agosto de 2013.
 
 2. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
+
+.
 
 3. Para los casos de Proyectos de Habitabilidad del Título II, Mejoramiento de la Vivienda, que tengan como fin el adaptarla para mejorar la calidad de vida e independencia de integrantes del grupo familiar con discapacidad y/o con movilidad reducida que requieran el uso permanente de silla de ruedas:
 
