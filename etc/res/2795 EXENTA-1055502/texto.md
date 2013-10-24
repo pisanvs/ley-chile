@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.795, de 16 de octubre de 2013, de esta Subsecretaría, recházase las reclamaciones interpuestas contra la resolución exenta Nº 1.586 de 2013 del Servicio Nacional de Pesca y Acuicultura, que declaró la caducidad de las inscripciones en el Registro Pesquero Artesanal, entre otras, de las embarcaciones "San Andrés" y "Jehová II", RPA Nº 918298 y Nº 7680, respectivamente.
+
+Valparaíso, 16 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretaria de Pesca y Acuicultura.
