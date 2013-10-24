@@ -20,61 +20,63 @@ Decreto:
 
 #### Artículo 1º
 
-Créanse las siguientes secciones juveniles masculinas en los Establecimientos Penitenciarios que a continuación se indican:
+Créanse secciones juveniles femeninas en los establecimientos penitenciarios que a continuación se indican:
 
-- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
+a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
 
-- Complejo Penitenciario de Iquique, ubicado en Estación s/n, ciudad, comuna y provincia de Iquique, I Región de Tarapacá.
+b.- Centro de Cumplimiento Penitenciario de Iquique, ubicado en calle Estación s/n, comuna y provincia de Iquique, I Región de Tarapacá.
 
-- Complejo Penitenciario de La Serena, ubicado en el sector de Huachalalume, comuna de La Serena, provincia de Elqui, IV Región de Coquimbo.
+c.- Centro de Detención Preventiva de Quillota, ubicado en calle Chacabuco Nº 990, comuna de Quillota, V Región de Valparaíso.
 
-- Complejo Penitenciario de Valparaíso, ubicado en el camino La Pólvora, esquina Miguel Ángel, del Cerro Florida, en la comuna y provincia de Valparaíso, V Región de Valparaíso.
+d.- Centro Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Biobío.
 
-- Centro de Detención Preventiva Rengo, ubicado en Avenida Bisquertt Nº 205, comuna de Rengo, provincia de Cachapoal, VI Región del Libertador General Bernardo O'Higgins.
+e.- Centro Penitenciario Femenino de Temuco, ubicado en calle Callejón Carmine Nº 0249, comuna de Temuco, provincia de Cautín, IX Región de la Araucanía.
 
-- Centro de Cumplimiento Penitenciario de Talca, ubicado en calle 4 Norte Nº 550, de la comuna y provincia de Talca, VII Región del Maule.
+f.- Centro de Cumplimiento Penitenciario de Río Bueno, ubicado en calle Ejército Libertador Nº 665, comuna de Río Bueno, provincia de Valdivia, XIV Región de Los Ríos.
 
-- Complejo Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Bío Bío.
+g.- Centro de Cumplimiento Penitenciario de Osorno, ubicado en calle Amthauer Nº 1399, de la comuna y provincia de Osorno, X Región de Los Lagos.
 
-- Centro de Cumplimiento Penitenciario de Chillán, ubicado en calle Isabel Riquelme Nº 230, de la ciudad y comuna de Chillán, provincia de Ñuble, VIII Región del Bío Bío.
+h.- Centro de Cumplimiento Penitenciario de Coyhaique, ubicado en calle Independencia Nº 12, comuna y provincia de Coyhaique, XI Región Aysén del General Carlos Ibáñez del Campo.
 
-- Centro de Cumplimiento Penitenciario de Temuco, ubicado en Avenida Balmaceda Nº 450, de la comuna de Temuco, provincia de Cautín, IX Región de la Araucanía.
+i.- Complejo Penitenciario de Punta Arenas, ubicado en Avenida Circunvalación Nº 2080, de la comuna de Punta Arenas, provincia de Magallanes, XII Región de Magallanes y la Antártica Chilena.
 
-- Centro de Detención Preventiva de La Unión, ubicado en calle Manuel Montt s/n, comuna de La Unión y provincia de Valdivia, XIV Región de Los Ríos.
-
-- Centro de Cumplimiento Penitenciario de Puerto Montt, ubicado en Camino Longitudinal Sur, sector denominado "Chin-Chin", de la comuna de Puerto Montt, provincia de Llanquihue, X Región de Los Lagos.
-
-- Centro de Detención Preventiva de Puerto Aysén, ubicado en calle Alcalde Armando Hernández Nº 576, Ribera Sur de Puerto Aysén, comuna y provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo.
-
-- Complejo Penitenciario de Punta Arenas, ubicado en Avenida Circunvalación Nº 2080, de la comuna de Punta Arenas, XII Región de Magallanes y la Antártica Chilena.
-
-- Centro de Detención Preventiva Puente Alto, ubicado en calle Irarrázabal Nº 0991, comuna de Puente Alto, de la Región Metropolitana.
+j.- Centro Penitenciario Femenino de Santiago, ubicado en Vicuña Mackenna Nº 5065, comuna de San Joaquín, Región Metropolitana.
 
 #### Artículo 2º
 
-Créanse las siguientes secciones juveniles femeninas en los Establecimientos Penitenciarios que se indican:
+Créanse secciones juveniles masculinas en los establecimientos penitenciarios que a continuación se indican:
 
-- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
+a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
 
-- Centro de Cumplimiento Penitenciario de Iquique, ubicado en calle Estación s/n, ciudad, comuna y provincia de Iquique.
+b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector de Huantajaya, comuna de Alto Hospicio, provincia de Iquique, I Región de Tarapacá.
 
-- Complejo Penitenciario de Valparaíso, ubicado en el camino La Pólvora, esquina Miguel Ángel, del Cerro Florida, en la comuna y provincia de Valparaíso, V Región de Valparaíso.
+c.- Complejo Penitenciario de Antofagasta, ubicado en sector Salar del Carmen, comuna y provincia de Antofagasta, II Región de Antofagasta.
 
-- Centro de Cumplimiento Penitenciario de Santa Cruz, ubicado en calle Arturo Prat Nº 565, comuna de Santa Cruz, provincia de Colchagua, VI Región del Libertador General Bernardo O'Higgins.
+d.- Centro de Cumplimiento Penitenciario de Copiapó, ubicado en Avenida Copayapu s/nº, comuna y provincia de Copiapó, III Región de Atacama.
 
-- Centro Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Bío Bío.
+e.- Complejo Penitenciario de La Serena, ubicado en el sector de Huachalalume, comuna de La Serena, provincia de Elqui, IV Región de Coquimbo.
 
-- Centro Penitenciario Femenino de Temuco, ubicado en calle Callejón Carmine Nº 0249, comuna de Temuco, provincia de Cautín, IX Región de la Araucanía.
+f.- Complejo Penitenciario de Valparaíso, ubicado en el camino La Pólvora, esquina Miguel Ángel, del Cerro Florida, en la comuna y provincia de Valparaíso, V Región de Valparaíso.
 
-- Centro de Cumplimiento Penitenciario de Río Bueno, ubicado en calle Ejército Libertador Nº 665, comuna de Río Bueno, provincia de Valdivia, XIV Región de Los Ríos.
+g.- Centro de Detención Preventiva Rengo, ubicado en Avenida Bisquertt Nº 205, comuna de Rengo, provincia de Cachapoal, VI Región del Libertador General Bernardo O'Higgins.
 
-- Centro de Cumplimiento Penitenciario de Osorno, ubicado en calle Amthauer Nº 1399, de la ciudad, comuna y provincia de Osorno, X Región de Los Lagos.
+h.- Centro de Cumplimiento Penitenciario de Talca, ubicado en calle 4 Norte Nº 550, de la comuna y provincia de Talca, VII Región del Maule.
 
-- Centro de Cumplimiento Penitenciario de Coyhaique, ubicado en calle Independencia Nº 12, ciudad, comuna y provincia de Coyhaique, XI Región de Aysén del General Carlos Ibáñez del Campo.
+i.- Complejo Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Biobío.
 
-- Complejo Penitenciario de Punta Arenas, ubicado en Avenida Circunvalación Nº 2080, de la comuna de Punta Arenas, XII Región de Magallanes y la Antártica Chilena.
+j.- Centro de Cumplimiento Penitenciario de Chillán, ubicado en calle Isabel Riquelme Nº 230, de la comuna de Chillan, provincia de Ñuble, VIII Región del Biobío.
 
-- Centro Penitenciario Femenino de Santiago, ubicado en Vicuña Mackenna Nº 5065, comuna de San Joaquín, Región Metropolitana.
+k.- Centro de Cumplimiento Penitenciario de Temuco, ubicado en Avenida Balmaceda Nº 450, de la comuna de Temuco, provincia de Cautín, IX Región de la Araucanía.
+
+I.- Centro de Detención Preventiva de La Unión, ubicado en calle Manuel Montt s/n, comuna de La Unión, provincia de Valdivia, XIV Región de Los Ríos.
+
+m.- Centro de Cumplimiento Penitenciario de Puerto Montt, ubicado en Camino Longitudinal Sur, sector denominado "Chin-Chin", de la comuna de Puerto Montt, provincia de Llanquihue, X Región de Los Lagos.
+
+n.- Centro de Detención Preventiva de Puerto Aysén, ubicado en calle Alcalde Armando Hernández Nº 576, Ribera Sur de Puerto Aysén, comuna y provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo.
+
+ñ.- Complejo Penitenciario de Punta Arenas, ubicado en Avenida Circunvalación Nº 2080, de la comuna de Punta Arenas, provincia de Magallanes, XII Región de Magallanes y de la Antártica Chilena.
+
+o.- Centro de Detención Preventiva Puente Alto, ubicado en calle Irarrázabal Nº 0991, comuna de Puente Alto, provincia de Cordillera, Región Metropolitana.
 
 #### Artículo 3º
 
