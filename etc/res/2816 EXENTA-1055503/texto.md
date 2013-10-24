@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.816, de 16 de octubre de 2013, de esta Subsecretaría, recházanse las solicitudes números 211110021, sector 2, 210110003, 205103213, 210110057 sector 0 y 211110002, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 11 y 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 16 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
