@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 266 EXENTA, DE 2013
+
+Por resolución exenta Nº 266, de fecha 12 de agosto de 2013, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales Plaza y Plaza Limitada con nombre de fantasía Escuela de Conductores Santa Juana Limitada, RUT Nº 76.222.668-5, representada legalmente por la señora Oriana Praxedes Plaza Ortega con Cédula de Identidad Nº 11.314.921-3 y la señora Virginia de Lourdes Plaza Ortega con Cédula de Identidad Nº 6.888.630-9, quienes representan a esta sociedad en forma separada e indistintamente, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clases A-2 y A-4, en el domicilio ubicado en calle Lautaro Nº 398 y con taller mecánico ubicado en calle Lautaro Nº 889, ambos de la comuna de Santa Juana.
+
+Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Biobío.
