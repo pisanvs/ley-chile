@@ -18,9 +18,9 @@ Resolución:
 
 Derógase la resolución exenta N° 3.376 (V. y U.), de 2010.
 
-#### Artículo 2°
+#### Artículo 2º
 
-Delégase en el/la Jefe/a de Gabinete del señor Subsecretario de Vivienda y Urbanismo, el ejercicio de la facultad de autorizar y sancionar, sin desmedro de las funciones propias del Departamento de Compras y Servicios Generales, licitaciones públicas y contrataciones por convenio marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos y contractuales vinculados a dichos procesos, comprendidos en los Programas Presupuestarios, Subtítulos, Ítem, Asignaciones y por los montos expresados en unidades tributarias mensuales, que se indican en la tabla siguiente:
+Delégase en el/la jefe/a de Gabinete del señor Subsecretario de Vivienda y Urbanismo, el ejercicio de la facultad de autorizar y sancionar, sin desmedro de las funciones propias del Departamento de Compras y Servicios Generales, licitaciones públicas y contrataciones por convenio marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos y contractuales vinculados a dichos procesos, comprendidos en los Programas Presupuestarios, Subtítulos, Ítem, Asignaciones y por los montos expresados en Unidades Tributarlas Mensuales, que se indican en la tabla siguiente:
 
 .
 
@@ -46,31 +46,33 @@ a) En materias de personal:
 
 8.- Permisos sin goce de remuneraciones por más de dos meses y que no excedan de seis meses.
 
-9.- Suscribir los actos administrativos necesarios para la aprobación de los convenios y contratos suscritos por la jefa del Servicio de Bienestar Minvu-Serviu en virtud de la delegación efectuada en el artículo 5° de la presente resolución, hasta por un monto máximo de 400 Unidades Tributarias Mensuales.
+9.- Suscribir los actos administrativos necesarios para la aprobación de los convenios y contratos suscritos por la Jefa del Servicio de Bienestar Minvu-Serviu en virtud de la delegación efectuada en el artículo 6º de la resolución exenta Nº 4.386 (V. y U.) de 2013, hasta por un monto máximo de 600 Unidades Tributarias Mensuales.
 
-En los convenios que irroguen gastos imputables al presupuesto del Servicio de Bienestar, se requerirá previo a la emisión del acto administrativo correspondiente, que ese Servicio certifique que cuenta con la disponibilidad de recursos presupuestarios suficientes.
+En los convenios que irroguen gastos imputables al presupuesto del Servicio de Bienestar, se requerirá previa a la emisión del acto administrativo correspondiente que ese Servicio certifique que cuenta con la disponibilidad de recursos presupuestarios suficientes.
 
 10.- Acreditar el cumplimiento o no cumplimiento de los requisitos para acceder a la bonificación por retiro contemplada en la ley 19.882, al tenor de lo requerido por el artículo 7° del DS N°834, de Hacienda, de 2003, reglamentario de la aplicación de dicha bonificación y el número de meses de ésta, como asimismo concesión y pago de dicha bonificación, determinando el monto a que ésta asciende y su modalidad de pago, en los términos que establece el artículo 12 del señalado DS N° 834, de 2003, del Ministerio de Hacienda.
 
 11.- Concesión del bono post laboral establecido en la ley N° 20.305 que mejora condiciones de retiro de los trabajadores del sector público con bajas tasas de reemplazo de sus pensiones, como asimismo, ejecutar todos aquellos actos administrativos o gestiones que sean necesarios para la total tramitación y concesión de dicho beneficio.
 
-12.- Concesión y pago de bono del bono especial de retiro establecido por el artículo sexto transitorio de la ley N° 20.212, determinando el monto a que éste asciende, previa verificación de los requisitos para acceder a éste por parte del Departamento de Recursos Humanos, en los términos que señala el artículo décimo cuarto transitorio de dicha ley.
+12.- Concesión y pago cuando corresponda de cualquier tipo de bono de incentivo al retiro determinando el monto a que éste asciende, previa verificación de los requisitos legales para acceder a éste, por parte del Departamento de Recursos Humanos.
 
 13.- Dar respuesta a los reclamos que se formulen por los proveedores, en relación con la aplicación de los términos y condiciones de uso del Sistema de Información de Compras y Contratación Pública.
 
 b) En materia de administración de bienes:
 
-1.- Realizar, sin desmedro de las funciones propias del Departamento de Compras y Servicios Generales, licitaciones públicas y contrataciones por convenio marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos y contractuales vinculados a dichos procesos, comprendidos en los Programas Presupuestarlos, Subtítulos, Ítem, Asignaciones y por los montos expresados en unidades tributarias mensuales, que se indican en la tabla siguiente:
+1.- Realizar, sin desmedro de las funciones propias del Departamento de Compras y Servicios Generales, licitaciones públicas y contrataciones por convenio marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos y contractuales vinculados a dichos procesos, comprendidos en los Programas Presupuestarios, Subtítulos, Ítem, Asignaciones y por los montos expresados en Unidades Tributarias Mensuales, que se indican en la tabla siguiente:
 
 .
 
-Las contrataciones de servicios distintas a las señaladas en el artículo 11°, letra g), del decreto ley N° 1.305, se regirán en lo pertinente por lo dispuesto en el DS N° 153, de 1983, del Ministerio de Vivienda y Urbanismo, y sus modificaciones; en el DS N° 19, de 2001, del Ministerio Secretaría General de la Presidencia, y sus modificaciones, y por las demás normas aplicables en la materia.
+Las contrataciones de servicios distintas a las señaladas en el artículo 11º letra g), del decreto ley Nº 1.305, se regirán en lo pertinente por lo dispuesto en el DS Nº 153, de 1983, del Ministerio de Vivienda y Urbanismo, y sus modificaciones; en el DS Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, y sus modificaciones, y por las demás normas aplicables en la materia.
 
-2.- El ejercicio de las facultades contempladas en las letras a), b), c), d), y g) del artículo 8° de la ley N° 19.886, de calificar y autorizar la procedencia de recurrir a la licitación privada o al trato directo, mediante resolución fundada, para la adquisición y pago de los bienes muebles y contratación de servicios no personales señalados en la Tabla del artículo 3° letra b) de la presente resolución, desde un monto de 0,00 UTM y hasta por un monto máximo de 600,00 UTM.
+2.- El ejercicio de las facultades contempladas en las letras a), b), d), y g) del artículo 8º de la ley Nº 19.886, de calificar y autorizar la procedencia de recurrir a la licitación privada o al trato directo, mediante resolución fundada, para la adquisición y pago de los bienes muebles y contratación de servicios no personales señalados en la tabla del artículo 3º letra b) de la presente resolución, desde un monto de 100,00001 UTM y hasta por un monto máximo de 600 UTM.
 
-Se entenderá que la referencia a la facultad conferida en la citada letra g) del artículo 8° naturalmente se extiende a los casos y criterios que en conformidad a dicho precepto legal se explicitan en el reglamento de la citada ley N° 19.886, que corresponde actualmente al artículo N° 10 N° 7, letras a) a m), ambas inclusive, del DS N° 250, de 2004, del Ministerio de Hacienda, y sus modificaciones.
+Respecto de la letra c) del artículo en comento, dicha facultad delegada comprenderá desde un monto de 00 UTM a 600 UTM.
 
-La calificación indebida por el delegado de una situación como de emergencia, urgencia o imprevisto, será sancionada en los términos establecidos en el inciso segundo de la letra c) del artículo 8° de la ley N° 19.886.
+Se entenderá que la referencia a la facultad conferida en la citada letra g) del artículo 8º naturalmente se extiende a los casos y criterios que en conformidad a dicho precepto legal se explicitan en el reglamento de la citada ley Nº 19.886, que corresponde actualmente al artículo Nº 10 Nº 7, letras a) a m), ambas inclusive, del DS Nº 250, de 2004, del Ministerio de Hacienda, y sus modificaciones.
+
+La calificación indebida por el delegado de una situación como de emergencia, urgencia o imprevisto, será sancionada en los términos establecidos en el inciso segundo de la letra c) del artículo 8º de la ley Nº 19.886.
 
 #### Artículo 4°
 
@@ -88,11 +90,11 @@ e) Justificación de ausencias por accidentes del trabajo y enfermedades profesi
 
 f) Designación de funcionarios que perciban y custodien fondos para la atención de gastos menores.
 
-g) Órdenes de servicio que fijen horario especial de cumplimiento de la jornada ordinaria de trabajo.
+g) Resoluciones exentas que fijen horario especial de cumplimiento de la jornada ordinaria de trabajo.
 
 h) Asignación por cambio de residencia.
 
-i) Órdenes de servicio que fijen lugar físico de desempeño del personal a contrata, cuando ello no implique cambio de región.
+i) Resoluciones exentas que fijen lugar físico de desempeño del personal a contrata, cuando ello no implique cambio de región.
 
 j) Licencias médicas y reposos preventivos.
 
@@ -112,21 +114,25 @@ q) Suscribir el formulario compromiso de descuento por planilla, hasta por el mo
 
 r) Suscribir el formulario compromiso de descuento por planilla, hasta por el monto mensual que previamente determine en dicho documento, la Caja de Compensación de Asignación Familiar (CCAF) por concepto de cuotas de préstamos a funcionarlos afiliados.
 
-#### Artículo 5°
+#### Artículo 5º
 
-Delégase en el/la Jefe/a del Departamento de Compras y Servicios Generales, el ejercicio de la facultad de celebrar los contratos y la de suscribir los actos administrativos correspondientes que incidan en las siguientes materias de administración de bienes:
+Delégase en el/la Jefe/a del Departamento de Compras y Servicios Generales, el ejercicio de la facultad celebrar los contratos y la de suscribir los actos administrativos correspondientes, que incidan en las siguientes materias de administración de bienes:
 
-a) Realizar licitaciones públicas y contrataciones por convenio marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos vinculados a dichos procesos, comprendidos en los Programas Presupuestarios, Subtítulos, Ítem, Asignaciones y hasta por el monto máximo expresado en unidades tributarias mensuales, que se indican en la tabla siguiente:
+a) Realizar licitaciones públicas y contrataciones por Convenio Marco, celebrar contratos de suministro de bienes muebles y contratación de servicios, y suscribir todos aquellos actos administrativos vinculados a dichos procesos, comprendidos en los Programas Presupuestarios, Subtítulos, Ítem, Asignaciones y por los montos expresados en Unidades Tributarias Mensuales, que se indican en la tabla siguiente:
 
 .
 
-Las contrataciones de servicios distintas a las señaladas en el artículo 11°, letra g), del decreto ley N° 1.305, se regirán en lo pertinente por lo dispuesto en el DS N° 153, de 1983, del Ministerio de Vivienda y Urbanismo, y sus modificaciones; en el DS N° 19, de 2001, del Ministerio Secretaría General de la Presidencia, y sus modificaciones, y por las demás normas aplicables en la materia.
+Las contrataciones de servicios distintas a las señaladas en el artículo 11º, letra g), del decreto ley Nº 1.305, se regirán en lo pertinente por lo dispuesto en el DS Nº 153, de 1983, del Ministerio de Vivienda y Urbanismo, y sus modificaciones; en el DS Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, y sus modificaciones, y por las demás normas aplicables en la materia.
 
-b) El ejercicio de la facultad contemplada en la letra h) del artículo 8° de la ley N° 19.886, de autorizar la procedencia de recurrir a la licitación privada o al trato directo, para la adquisición y pago de los bienes muebles y contratación de servicios señalados en la Tabla del artículo 5° letra a) de la presente resolución, desde un monto de 0,00 UTM y hasta por un monto máximo de 10,00 UTM.
+b) El ejercicio de las facultades contempladas en las letras a), b), d), y g) del artículo 8º de la ley Nº 19.886, de calificar y autorizar la procedencia de recurrir a la licitación privada o al trato directo, mediante resolución fundada, para la adquisición y pago de los bienes muebles y contratación de servicios no personales señalados en la tabla del artículo 5º, letra a) de la presente resolución, desde un monto de 0,00 UTM y hasta por un monto máximo de 100 UTM.
 
-c) Disponer altas y bajas, asignación y traslado de bienes muebles de uso, con o sin enajenación.
+Se entenderá que la referencia a la facultad conferida en la citada letra g) del artículo 8º naturalmente se extiende a los casos y criterios que en conformidad a dicho precepto legal se explicitan en el reglamento de la citada ley Nº 19.886, que corresponde actualmente al artículo Nº 10 Nº 7, letras a) a m), ambas inclusive, del DS Nº 250, de 2004, del Ministerio de Hacienda, y sus modificaciones.
 
-d) Disponer altas y bajas, asignación y traslado de vehículos adquiridos por esta Secretaría de Estado.
+c) El ejercicio de la facultad contemplada en la letra h) del artículo 8º de la ley Nº 19.886, de autorizar la procedencia de recurrir a la licitación privada o al trato directo, para la adquisición y pago de los bienes muebles y contratación de servicios señalados en la tabla del artículo 5º letra a) de la presente resolución, desde un monto de 0 UTM y hasta por un monto máximo de 10 UTM.
+
+d) Disponer altas y bajas, asignación y traslado de bienes muebles de uso, con o sin enajenación.
+
+e) Disponer altas y bajas, asignación y traslado de vehículos adquiridos por esta Secretaría de Estado.
 
 #### Artículo 6°
 
