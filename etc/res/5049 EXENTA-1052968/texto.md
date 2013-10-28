@@ -16,7 +16,7 @@ Considerando: Que según lo señalado en oficio citado en el Visto d) de la pres
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región de Los Lagos para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva sin proyecto, en la tipología de Construcción en Sitio Propio, para la o las comunas de la Región de Los Lagos que esa Secretaría determine, por un monto de hasta 140.700 unidades de fomento.
+1. Autorízase a la Secretaría Regional Ministerial de la Región de Los Lagos para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva sin proyecto, en la tipología de Construcción en Sitio Propio, para la o las comunas de la Región de Los Lagos que esa Secretaría determine, por un monto de hasta 136.010 unidades de fomento.
 
 2. Déjase establecido que el Llamado Especial que se autoriza, se regirá por lo dispuesto en el DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
 
@@ -32,7 +32,7 @@ Resolución:
 
 8. Establécese que el Serviu de la Región de Los Lagos enviará a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo, copia de las resoluciones del llamado y selección de los grupos, las respectivas nóminas de familias beneficiadas y el monto de los recursos efectivamente asignados.
 
-9. Impútase el monto total de 140.700 unidades de fomento asignado en esta resolución, a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
+9. Impútase el monto total de 136.010 unidades de fomento asignado en esta resolución, a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
