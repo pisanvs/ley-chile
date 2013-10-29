@@ -18168,16 +18168,6 @@ Los funcionarios a quienes se les otorgue acceso a la información, deben ser in
 
 Por su parte, el artículo 14 de la Ley General de Bancos, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
 
-## Capítulo 18-7
-
-INFORMACIÓN AL SERVICIO DE IMPUESTOS INTERNOS SOBRE TASACIONES DE BIENES RAÍCES.
-
-De conformidad con lo dispuesto en el artículo 85 del Decreto Ley N° 830, de 1974, los bancos deben enviar al Servicio de Impuestos Internos, en la forma que determine el respectivo Director Regional de dicho Servicio, una copia de cada una de las tasaciones de bienes raíces que efectúen en el país La referida información incluye tanto las tasaciones efectuadas por funcionarios de los propios bancos, como las realizadas por tasadores independientes a requerimiento de ellos, cualquiera haya sido el objeto de las evaluaciones practicadas.
-
-En ningún caso los bancos proporcionarán información acerca de las operaciones que originan las respectivas tasaciones.
-
-La información sobre las tasaciones de bienes raíces debe ser enviada directamente a la respectiva Dirección Regional del Servicio de Impuestos Internos, División Evaluaciones, dentro de los cinco primeros días hábiles del mes siguiente a aquel en que se realicen.
-
 ## Capítulo 18-8
 
 INFORMACIÓN AL PÚBLICO SOBRE PREFERENCIAS Y GARANTÍA ESTATAL POR DEPÓSITOS Y CAPTACIONES - PUBLICIDAD RELATIVA A SUCURSALES Y FILIALES DE BANCOS CHILENOS EN EL EXTERIOR Y A BANCOS U OFICINAS BANCARIAS SITUADOS EN OTROS PAÍSES
