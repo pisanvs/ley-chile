@@ -1,0 +1,21 @@
+OTORGA ORDEN AL MÉRITO DOCENTE Y CULTURAL "GABRIELA MISTRAL", EN GRADO DE COMENDADOR, A LOS CHILENOS SEÑORES ALBERTO CAÑAS LEIVA, ANDRÉS SAAVEDRA BARAHONA Y JORGE ERNESTO GONZÁLEZ CONTRERAS
+
+Núm. 8.079 exenta.- Santiago, 24 de octubre de 2013.- Considerando:
+
+Que corresponde al Ministerio de Educación estimular el desarrollo cultural, la creación artística y el incremento del patrimonio cultural de la Nación;
+
+Que por decreto supremo Nº 665, de 1977, del Ministerio de Educación, se ha instituido la Orden al Mérito Docente y Cultural "Gabriela Mistral", destinada a personalidades nacionales y extranjeras de gran categoría intelectual, que hayan prestado servicios eminentes a la cultura, al desarrollo del país, y cuya labor sea de indiscutido reconocimiento público;
+
+Que, oído el Consejo de la Orden al Mérito Docente y Cultural "Gabriela Mistral", se ha resuelto otorgar dicha distinción en el grado de Comendador a los señores Alberto Cañas Leiva, chileno con residencia en Ecuador, destacado comunicador social, animador, productor y director de radio y televisión, por su destacada trayectoria y prestigiosa labor realizada en medios de comunicación, en particular de carácter educativa en la República del Ecuador, siendo muy valorado por organismos oficiales y privados, también destacado por varios años como gran promotor de la cultura chilena en ese país y su valiosa colaboración a los chilenos residentes y a los compatriotas que viajaban a esa nación en busca de mejores horizontes; Andrés Saavedra Barahona, académico chileno avecindado en Bulgaria por más de 30 años, por su destacada trayectoria profesional y de permanente y desinteresada actitud de colaboración a Chile y en particular a los chilenos residentes, expresado a través de múltiples acciones culturales, académicas y literarias, y especial aporte a las relaciones diplomáticas entre ambos países, y Jorge Ernesto González Contreras, chileno residente en Rumania desde hace 39 años, en reconocimiento a su gran trayectoria en el campo académico y cultural en Rumania y su permanente colaboración con la embajada chilena en esa nación, destacando sus grandes esfuerzos por dar a conocer a los rumanos aspectos relevantes de nuestra cultura y civilización y su importante labor como traductor de obras de teatro de afamados dramaturgos chilenos, con el fin de facilitar su montaje en ese país. También se agrega la brillante gestión en el Centro Cultural de América y el Caribe en la ciudad de lasi, capital cultural de Rumania, extendiendo además su aporte a la comunidad latina en general.
+
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado mediante decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia de la República; Ley Nº 18.956, que reestructura el Ministerio de Educación; decreto supremo Nº 665, de 1977, del Ministerio de Educación; Acta del Consejo de la Orden al Mérito Docente y Cultural "Gabriela Mistral", de 22 de agosto de 2013; Memorándum Interno Nº 277, de 12 de septiembre de 2013, de Jefe Gabinete Ministra de Educación; Ord. Nºs. 09/743, 09/744 y 09/782, de fechas 26 de julio y 1 de agosto de 2013, de Jefe Oficina de Relaciones Internacionales del Ministerio de Educación; peticiones de julio de 2013 de los Embajadores de Chile en Ecuador y Rumania (concurrente en Bulgaria) y la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Resuelvo:
+
+#### Artículo único
+
+Otórgase la Orden al Mérito Docente y Cultural "Gabriela Mistral", en grado de Comendador, a los chilenos señores Alberto Cañas Leiva, Andrés Saavedra Barahona y Jorge Ernesto González Contreras, en reconocimiento a sus brillantes trayectorias profesionales reconocidas nacional e internacionalmente.
+
+Anótese, comuníquese y publíquese.- Carolina Schmidt Zaldívar, Ministra de Educación.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Fernando Rojas Ochagavía, Subsecretario de Educación.
