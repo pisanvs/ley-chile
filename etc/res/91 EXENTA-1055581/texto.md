@@ -1,0 +1,5 @@
+ESTABLECE REQUISITOS Y PROCEDIMIENTO PARA LA EMISIÓN DE DOCUMENTOS TRIBUTARIOS EN OPERACIONES DE REMATE DE BIENES CORPORALES MUEBLES EFECTUADAS POR MARTILLEROS PÚBLICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 91, del 25 de octubre de 2013, que dispone que, en cumplimiento de las obligaciones establecidas en la Ley sobre Impuesto a las Ventas y Servicios, decreto ley Nº 825, de 1974, y en su Reglamento, decreto supremo Nº 55, de 1977, los martilleros públicos deberán dejar constancia en las facturas o boletas correspondientes, que ellas se emiten por cuenta de sus mandantes, registrando en dichos documentos el nombre y RUT de éstos además de otros antecedentes de acuerdo a lo dispuesto en la presente resolución.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de octubre, de 2013.
