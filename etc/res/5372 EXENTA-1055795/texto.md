@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE TERRENOS QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.372, 22 de octubre de 2013, Serviu Región del Biobío ordenó expropiación Parcial de terreno del inmueble ubicado en Los Carrera 950 (Lote 18), de la comuna de Los Ángeles, Rol de avalúo Nº 508-00002 de esa comuna de aparente dominio de Egidia de las Mercedes Freire Ulloa. La parte afecta a expropiación tiene una superficie de 121,62 m² de terreno y 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 18 en el polígono A-B-C-D-A del plano S8R-28.085-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta Carolina del Pilar Zuloaga Sanhueza, el arquitecto Andrés Javier Tobar Beluzan y el arquitecto Rodrigo Enrique Vilches Van Rysselberghe que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $5.308.128, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $53.081, lo que dan la cifra de $5.361.209.
+
+Director Serviu Región del Biobío.
