@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE TERRENOS QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.369, 22 de octubre de 2013, Serviu Región del Biobío ordenó expropiación Parcial de terreno del inmueble ubicado en Los Carrera 898 (Lote 22), de la comuna de Los Ángeles, Rol de avalúo Nº 507-00052 de esa comuna de aparente dominio de Mirta M. Pérez Martínez. La parte afecta a expropiación tiene una superficie de 75,25 m². de terreno y 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 22 en el polígono A-B-C-D-A del plano S8R-28.088-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecta Carolina del Pilar Zuloaga Sanhueza, el arquitecto Andrés Javier Tobar Beluzan y el arquitecto Rodrigo Enrique Vilches Van Rysselberghe que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $4.042.168, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $42.066, lo que dan la cifra de $4.084.234.
+
+Director Serviu Región del Biobío.
