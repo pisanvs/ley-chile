@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1534, de 30 de septiembre de 2013, se dejó sin efecto la expropiación del lote Nº5, ordenado mediante Decreto MOP. (Exento) Nº2811, de 17 de noviembre de 2010, por no ser necesario para la obra pública: "Mejoramiento Ruta C-495, Sector Alto del Carmen - El Tránsito - Junta de Valeriano, Etapa II" (La Pampa - Conay, Km. 46,42610 al Km. 49,80000) Comuna de Alto del Carmen, Provincia de Huasco, III Región.
+
+Fiscal del Ministerio de Obras Públicas.
