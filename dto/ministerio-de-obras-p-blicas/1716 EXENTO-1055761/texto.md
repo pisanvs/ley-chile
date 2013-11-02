@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 1716, de 16 de octubre de 2013, se modificó el Decreto Exento MOP Nº 1227, de 13 de junio de 2011, que ordenaba la expropiación del lote de terreno Nº 7, para la obra CONCESION RUTA 5 NORTE. TRAMO: LA SERENA- VALLENAR. SECTOR: LIMITE REGIONAL - VALLENAR. SUBTRAMO 1: KM. 559.438,00 - KM. 577.930,00, en el sentido de dejar sin efecto la expropiación de dicho lote Nº 7.
+
+Fiscal del Ministerio de Obras Públicas.
