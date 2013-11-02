@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE TERRENOS QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.373, 22 de octubre de 2013, Serviu Región del Biobío ordenó expropiación Parcial de terreno y de la edificación del inmueble ubicado en Los Carrera 968 (Lote 17), de la comuna de Los Ángeles, Rol de avalúo Nº 508-00003 de esa comuna de aparente dominio de Teodosio Solar Solar. La parte afecta a expropiación tiene una superficie de 97,94 m². de terreno y 32 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 17 en el polígono A-B-C-D-A del plano S8R-28.084-3, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta Carolina del Pilar Zuloaga Sanhueza, el arquitecto Andrés Javier Tobar Beluzan y el arquitecto Rodrigo Enrique Vilches Van Rysselberghe que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $6.106.879, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $61.069, lo que dan la cifra de $6.167.948.
+
+Director Serviu Región del Biobío.
