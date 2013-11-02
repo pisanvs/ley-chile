@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1671 de 16 de octubre de 2013, se modificó el numeral segundo del Decreto MOP (Exento) Nº625 de 17 de abril de 2009, que ordenó la expropiación, entre otros, el Lote Nº52-A, en la parte que se refiere al número de rol de avalúo y nombre de los propietarios según el Servicio de Impuestos internos, debe decir: propietario según S.I.I. NAVARRO MUNOZ LUIS ENRIQUE, rol de avalúo 133-30, Comuna de VICHUQUÉN, expropiado con motivo de la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo km. 0,00000 a km. 15,372989", Comuna de Vichuquén, Provincia de Curicó, VII Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
