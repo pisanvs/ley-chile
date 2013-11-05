@@ -60,63 +60,83 @@ Podrán participar estudiantes de todo el país.
 
 ### 3. BENEFICIARIOS
 
-Los beneficiarios serán estudiantes chilenos o extranjeros con residencia definitiva en el país, excluidos aquellos alumnos de la modalidad de educación para adultos, que estén cursando tercer año de educación media al momento en que se dé inicio a la pasantía, en un colegio o liceo municipal, en administración delegada, o particular subvencionado del país, para cuya selección se estará a los siguientes criterios:
+Los Beneficiarios serán estudiantes chilenos o extranjeros con residencia definitiva en el país, excluidos aquellos alumnos de la modalidad de educación para adultos, que estén cursando o hayan sido promovidos a tercer año de educación media al momento en que se dé inicio a la pasantía, en un colegio o liceo municipal, en administración delegada, o particular subvencionado del país, para cuya selección se estará a los siguientes criterios:
 
-a) Recursos presupuestarios de CORFO o transferidos por el Ministerio de Economía, Fomento y Turismo: Se elegirá un número igual de beneficiarios por región de entre los establecimientos educacionales ubicados en la mitad superior de conformidad con los resultados del Simce de Inglés. Si, aplicado el criterio anterior, existiere un saldo de recursos disponibles que fueren insuficientes para financiar a un beneficiario por región, los cupos serán llenados con estudiantes seleccionados de conformidad con un ranking en base a los resultados del examen o certificación internacional de inglés y de la evaluación psicológica, sin atender a la región en que se ubique el establecimiento educacional.
+a) Recursos presupuestarios de Corfo o transferidos por el Ministerio de Economía, Fomento y Turismo: se elegirá un número igual de beneficiarios por región de entre los establecimientos educacionales ubicados en la mitad superior de conformidad con los resultados del Simce de Inglés. Si, aplicado el criterio anterior, existiere un saldo de recursos disponibles que fueren insuficientes para financiar a un beneficiario por región, los cupos serán llenados con estudiantes seleccionados de conformidad con un ranking elaborado en base a los resultados del examen o certificación internacional de inglés y de la evaluación psicológica, sin atender a la región en que se ubique el establecimiento educacional.
 
-b) Recursos presupuestarios de origen regional, en el caso que se contemplen en sus respectivos presupuestos y acorde con sus atribuciones legales: Se seleccionará un número de beneficiarios por provincia de la respectiva región, para cuyos efectos el ranking de los establecimientos se realizará a ese nivel de división político-administrativa y el número de participantes se determinará de conformidad con la disponibilidad de recursos transferidos. Si el Gobierno Regional estableciere una forma distinta para determinar el orden de los establecimientos educacionales, se estará a ella, siempre que esas condiciones no impliquen la elección de los beneficiarios ni incorporación de establecimientos con resultados en el Simce de Inglés que los ubiquen por debajo de la mitad con mejor rendimiento.
+b) Recursos presupuestarios de origen regional, en el caso que se contemplen en sus respectivos presupuestos y acorde con sus atribuciones legales: se seleccionará un número de beneficiarios por provincia de la respectiva región, para cuyos efectos el ranking de los establecimientos se realizará a ese nivel de división político-administrativa y el número de participantes se determinará de conformidad con la disponibilidad de recursos transferidos. Si el Gobierno Regional estableciere una forma distinta para determinar el orden de los establecimientos educacionales, se estará a ella, siempre que esas condiciones no impliquen la elección de los beneficiarios ni incorporación de establecimientos con resultados en el Simce de Inglés que los ubiquen por debajo de la mitad con mejor rendimiento.
 
-c) Recursos presupuestarios de origen comunal, en el caso que se contemplen en sus respectivos presupuestos y acorde con sus atribuciones legales: Se seleccionará un número de beneficiarios por comuna, para cuyos efectos el ranking de los establecimientos se realizará a ese nivel de división político-administrativa y el número de participantes se determinará de conformidad con la disponibilidad de recursos transferidos. Si la Municipalidad estableciere una forma distinta para determinar el orden de los establecimientos educacionales, se estará a ella, siempre que esas condiciones no impliquen la elección de los beneficiarios ni incorporación de establecimientos con resultados en el Simce de Inglés que los ubiquen por debajo de la mitad con mejor rendimiento.
+c) Recursos presupuestarios de origen comunal, en el caso que se contemplen en sus respectivos presupuestos y acorde con sus atribuciones legales: se seleccionará un número de beneficiarios por comuna, para cuyos efectos el ranking de los establecimientos se realizará a ese nivel de división político-administrativa y el número de participantes se determinará de conformidad con la disponibilidad de recursos transferidos. Si la Municipalidad estableciere una forma distinta para determinar el orden de los establecimientos educacionales, se estará a ella, siempre que esas condiciones no impliquen la elección de los beneficiarios ni incorporación de establecimientos con resultados en el Simce de Inglés que los ubiquen por debajo de la mitad con mejor rendimiento.
 
-Para los efectos de Postulación y Selección de los Beneficiarios, CORFO realizará una convocatoria a los estudiantes de colegios o liceos, según el proceso que se describe a continuación:
+Para los efectos de Postulación y Selección de los Beneficiarios, Corfo realizará una convocatoria a los estudiantes de colegios o liceos, según el proceso que se describe a continuación.
 
 a) Convocatoria en Colegios o Liceos.
 
-Se convocará a los estudiantes de los establecimientos educacionales municipales, en administración delegada y particulares subvencionados cuyo puntaje promedio obtenido en el último Simce de Inglés del cual se conozca los resultados entregados por el Ministerio de Educación, esté dentro del rango de la mitad superior.
+Se convocará a los estudiantes de establecimientos educacionales municipales, en administración delegada y particulares subvencionados cuyo puntaje promedio obtenido en el último Simce de Inglés del cual se conozcan los resultados entregados por el Ministerio de Educación, esté dentro del segmento de la mitad superior.
+
+La cantidad de colegios a convocar por región, para llenar los cupos disponibles en cada una de ellas, se definirá en función de los cupos ofrecidos, y de acuerdo con la siguiente fórmula:
+
+Nº de Colegios por región
+
+nº de cupos totales del programa x 5
+
+=--------------------------------------------
+
+cantidad máxima de niños que puede postular el colegio x nº regiones
 
 b) Identificación de Candidatos.
 
-Los Directores de los establecimientos, señalados previamente, seleccionarán a los 3 mejores alumnos que estén dentro de los mejores promedios del curso y que cumplan con los siguientes criterios:
+Los directores de los establecimientos, señalados previamente, seleccionarán a un máximo de 4 alumnos que estén dentro de los mejores promedios del curso y que cumplan con los siguientes criterios:
 
-. Estar cursando tercer año de educación media al
+. Estar cursando, o haber sido promovido a tercer
 
-momento en que se dé inicio a la pasantía.
+año de educación media al momento en que se
 
-. Tener excelencia académica en los dos cursos
+dé inicio a la pasantía.
 
-anteriores a aquel que actualmente se encuentre
+. Tener excelencia académica en los dos
 
-cursando (promedio mínimo de 5,5, en cada uno de
+cursos anteriores a aquel que actualmente
 
-ellos).
+se encuentre cursando (promedio general
 
-. Tener un promedio mínimo 6,0 en la asignatura de
+mínimo de 5,5, en cada uno de ellos).
 
-inglés en los dos últimos cursos aprobados.
+. Tener un promedio mínimo 6,0 en la
 
-. Mostrar un comportamiento que demuestre madurez y
+asignatura de inglés en cada uno de
 
-autogestión.
-
-. Participación de actividades extra-curriculares
-
-acreditada en al menos los últimos 2 años.
+los dos últimos cursos aprobados.
 
 En caso de que exista igualdad de promedios entre alumnos, se deberá elegir al mejor promedio en el ramo de inglés. Si éste a su vez es igual, se elegirá al alumno que tenga mejor promedio en el ramo de Lenguaje y Comunicación.
 
-Cada postulante deberá presentar su cédula nacional de identidad, llenar una ficha de postulación, carta del Director del establecimiento indicando que cumple con los criterios antes mencionados, carta autorización de al menos uno de los padres o apoderado indicando que autoriza la postulación y el conocimiento de estos últimos del Programa.
+Cada Director deberá enviar la nómina, a través del medio que Corfo establezca para ello, identificando los candidatos de su establecimiento, como mínimo deberá indicar el número de cédula de identidad y nombre completo del (los) candidato(s).
+
+Cada postulación deberá ser acompañada por una copia simple de la cédula nacional de identidad del postulante, la ficha de postulación y los certificados de notas de los dos cursos anteriores. Estos antecedentes podrán ser solicitados al Director del Establecimiento Educacional o al postulante, indiferentemente.
+
+Para el caso de los recursos presupuestarios de Corfo o transferidos por el Ministerio de Economía, Fomento y Turismo, si aplicada la fórmula anterior y habiéndose evaluado a los postulantes, no fuere posible llenar los cupos disponibles por región, se convocará a los mismos establecimientos a postular un alumno adicional. Si habiendo evaluado a estos postulantes adicionales, aún no fuere posible llenar los cupos disponibles por región, éstos acrecerán a aquellos a ser llenados según los resultados del examen o certificación internacional de inglés y de la evaluación psicológica, sin atender a la región en que se ubique el establecimiento educacional.
 
 c) Selección de Beneficiarios.
 
-Los postulantes que hubieren cumplido con acompañar los documentos de que trata el literal anterior, deberán medir su nivel de inglés, por medio de un examen o certificación internacional de inglés ante un organismo certificador, que podrá ser el denominado TOEFL Junior u otro, proceso que será contratado por CORFO. Los alumnos con mejores resultados serán incorporados en una nómina y deberán cumplir con el proceso que se detalla a continuación.
+Los postulantes que hubieren cumplido con acompañar los documentos de que trata el literal anterior, deberán medir su nivel de inglés, por medio de un examen o certificación internacional de inglés ante un organismo certificador, que podrá ser el denominado TOEFL Junior u otro, y rendir un examen psicológico, que tendrá por objeto determinar la aptitud y preparación del postulante para participar en una pasantía de la naturaleza de la que trata este Reglamento. Ambos procesos serán contratados por Corfo.
 
-Los preseleccionados a partir de la nómina mencionada anteriormente deberán someterse a una evaluación psicológica. Los nombres de los estudiantes postulantes que hayan sido declarados aptos para participar en el Programa, de conformidad con la evaluación psicológica antes señalada, serán incorporados en una nómina, de conformidad con el puntaje obtenido en el examen TOEFL Junior u otro, llenando los cupos por región que el CAF determine o aquellos que digan relación con los recursos disponibles si éstos tuvieren origen o distribución regional o comunal, según lo señalado en el párrafo primero de este numeral.
+Para la aplicación de los exámenes antes señalados, los postulantes serán incorporados en una nómina regional, ordenados según el puntaje obtenido en el examen o certificación de inglés, de mayor a menor.
+
+El examen psicológico será aplicado según el orden de ubicación en el ranking en conformidad con los resultados del examen o certificación en inglés, hasta llenar los cupos disponibles en cada región, por quienes hayan sido declarados aptos para participar en ella. Por lo anterior, no obstante existir la posibilidad de aplicar el examen psicológico a todos los postulantes, los resultados serán solicitados a la entidad contratada para ello por Corfo, en un número suficiente para llenar los cupos disponibles por región, con Beneficiarios aptos y según el orden del resultado del examen o certificación de inglés.
+
+Si dos o más postulantes obtuvieren igual puntaje en el examen o certificación de inglés y hubieren sido declarados aptos, según el examen psicológico, se seleccionará a aquel que fuere alumno del establecimiento que tuviere una mejor ubicación en el ranking del Simce de Inglés. En caso que ambos colegios tuviesen el mismo puntaje en el examen Simce de inglés, se seleccionará al postulante que tenga el mejor promedio en la asignatura de inglés de los dos cursos anteriores. En caso de que exista igualdad de promedios entre alumnos, se elegirá al alumno que tenga mejor promedio en los dos cursos anteriores en el ramo de Lenguaje y Comunicación.
 
 La nómina de Beneficiarios definitivos que participarán en los Programas respectivos, será aprobada por el CAF.
 
-Los Beneficiarios podrán ser reemplazados sólo por decisión de CORFO, en caso de deserción de éstos o por alguna otra causa que lo justifique, sujeto a la aprobación del CAF.
+Los Beneficiarios podrán ser reemplazados sólo por decisión de Corfo, en caso de deserción de éstos o por alguna otra causa que lo justifique, sujeto a la aprobación del CAF.
 
-Para la realización de ambos procesos, examen de inglés y evaluación psicológica, CORFO realizará las contrataciones respectivas.
+Para la realización de ambos procesos, examen de inglés y evaluación psicológica, Corfo realizará las contrataciones respectivas.
+
+d) Deserción de los Beneficiarios durante la Pasantía.
+
+En caso que, una vez en el país de destino, un beneficiario decidiese renunciar a la pasantía, éste deberá presentar a Corfo una carta firmada por el beneficiario y sus apoderados, indicando el motivo de ella.
+
+En estos casos, Corfo financiará los pasajes de regreso a su ciudad de origen en Chile, sin contemplar el acompañamiento por un adulto durante el viaje. El Beneficiario que haya renunciado no podrá participar de futuras convocatorias de este Programa.
 
 4. FINANCIAMIENTO, MONTO MÁXIMO DEL SUBSIDIO PARA EL PROGRAMA Y POR BENEFICIARIO
 
@@ -130,15 +150,15 @@ c) El valor en pesos de la UTM será el que corresponda al día de adopción del
 
 ### 5. COSTO DE ADMINISTRACIÓN
 
-Por la administración, gestión y supervisión del Programa, CORFO pagará al Agente Operador Intermediario un monto total de hasta $750.000.- (setecientos cincuenta mil pesos) por cada Beneficiario.
+Por la supervisión, seguimiento y administración del Programa, Corfo pagará al Agente Operador Intermediario un monto total de hasta $750.000.- (setecientos cincuenta mil pesos) por cada Beneficiario.
 
 ### 6. MODELO DE OPERACIÓN DEL PROGRAMA Y CRITERIOS DE EVALUACIÓN Y SELECCIÓN
 
-La administración de estos Programas se realizará en forma externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI), con Convenio Marco vigente con CORFO. Ellos, en conformidad a este Reglamento, son los habilitados para administrar, gestionar y supervisar la ejecución, debiendo velar por su correcta ejecución y por el cumplimiento de las normas que resulten aplicables.
+La administración de estos Programas se realizará en forma externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI), con Convenio Marco vigente con Corfo. Ellos, en conformidad a este Reglamento, son los habilitados supervisar, seguir y administrar la ejecución, debiendo velar por su correcta ejecución y por el cumplimiento de las normas que resulten aplicables.
 
 CORFO realizará una convocatoria a los Agentes Operadores Intermediarios interesados en ejecutar un Programa en particular, para cuyo efecto publicará un aviso en un diario de circulación nacional o regional, según el ámbito de aplicación, y en la página web de CORFO (www.corfo.cl). Dicho aviso contendrá al menos la información sobre la denominación del Programa, fecha de inicio y cierre para las postulaciones, lugar en que se encontrará disponible el Reglamento y el Programa a ejecutar y el correo electrónico al cual dirigir las consultas.
 
-Los requisitos para ser Agente Operador Intermediario, su incorporación, mantención, pagos, obligación y causales de pérdida de su calidad, se encuentran regulados en su Reglamento, aprobado por resolución (A) Nº 388, de 2009, de CORFO y sus modificaciones posteriores, disponible en el sitio web de CORFO, www.corfo.cl.
+Los requisitos para ser Agente Operador Intermediario, su incorporación, mantención, pagos, obligación y causales de pérdida de su calidad, se encuentran reguladas en su Reglamento, aprobado por resolución (A) Nº 29, de 2013, de Corfo, disponible en el sitio web de Corfo, www.corfo.cl.
 
 La operación de los Programas deberá ajustarse a las instrucciones que imparta la Gerencia de Competitividad de CORFO en relación a los procedimientos, pudiendo aprobar uno o más manuales al respecto, siempre que no altere el presente Reglamento. El Agente Operador Intermediario que haya postulado para realizar la ejecución del Programa será seleccionado de conformidad con los siguientes criterios:
 
@@ -172,57 +192,65 @@ Las actividades que se podrán ejecutar con cargo a los programas antes señalad
 
 Entre las actividades del Programa se considerará la recopilación de toda la documentación necesaria para la tramitación de las visas, los pasaportes y apoyo en la consecución de permisos notariales o judiciales para que los Beneficiarios puedan salir del país, sin que ello comprenda la tramitación judicial ni extrajudicial de estos permisos. Los Beneficiarios deberán financiar el costo de la obtención de su pasaporte y de los trámites y obtención de los permisos para salir del país. Además, se comprenderá la reunión de todo tipo de certificados, cartas de recomendación, ensayos, cartas de motivación y cualquier otro documento necesario para la aceptación de los Beneficiarios en los colegios y/o hogares en el extranjero.
 
-9.2 Pasantía en el extranjero
+9.2 Pasantía en el extranjero.
 
 Contemplará la realización de una pasantía en un país de habla inglesa, en un colegio que se ubique en las ciudades principales del país de destino, que tengan las condiciones necesarias de oferta de colegios, por un semestre, lo cual debe incluir al menos lo siguiente:
 
-. Coordinación y selección de familia receptora del
+. Coordinación y selección de familia receptora
 
-Beneficiario en el país de destino.
+del Beneficiario en el país de destino.
 
 . El costo del tuition fee o colegiatura
 
 correspondiente a un semestre.
 
-. El costo del homestay fee o alojamiento por todo
+. El costo del homestay fee o alojamiento por
 
-el período de estadía del Beneficiario en el país
+todo el período de estadía del Beneficiario
 
-de destino, que incluya al menos tres comidas
+en el país de destino, que incluya al menos
 
-diarias.
+tres comidas diarias.
 
-. El costo del administration and/or enrolment fee o
+. El costo del administration and/or enrolment
 
-matrícula de los colegios que recibirán a los
+fee o matrícula de los colegios que recibirán
 
-Beneficiarios.
+a los Beneficiarios.
 
-. Entrega de uniformes utilizados en los colegios
+. Entrega de uniformes utilizados en los
 
-receptores, si correspondiere.
+colegios receptores, si correspondiere.
 
-. Contratación del seguro de salud obligatorio en el
+. Contratación del seguro de salud obligatorio
 
-país de destino, para cada uno de los
+en el país de destino, para cada uno de los
 
-Beneficiarios, por el período correspondiente a la
+Beneficiarios, por el período correspondiente
 
-duración de la pasantía.
+a la duración de la pasantía.
 
 . Entrega de pocket money o dinero para gastos
 
-básicos para los Beneficiarios (mesada), el cual
+básicos para los Beneficiarios (mesada). Este
 
-será depositado a los colegios receptores, los
+monto no podrá ser inferior a USD$ 200.-
 
-cuales se encargarán de administrarlo
-
-semanalmente. Este monto no podrá ser inferior a
-
-USD$200.- (doscientos dólares de Estados Unidos de
+(doscientos dólares de Estados Unidos de
 
 América) mensuales por Beneficiario.
+
+Estos recursos serán entregados directamente
+
+a los Beneficiarios por el Agente Operador
+
+Intermediario o a través de una entidad
+
+contratada en ese país, en los casos en
+
+que los establecimientos de destino no
+
+lo realicen.
 
 9.3 Traslados
 
@@ -234,9 +262,11 @@ Para efectos de los traslados dentro de Chile, se deberán contemplar pasajes a�
 
 Podrán, en función de la disponibilidad presupuestaria, financiarse los costos y la gestión que implique el traslado, ida y vuelta, desde la ciudad de origen a Santiago de Chile, de uno de los padres o apoderado del beneficiario.
 
+Asimismo, se financiará el pago por el exceso de equipaje en la ruta nacional, que se produzca por la diferencia entre el peso en equipaje permitido en el tramo internacional versus el tramo nacional, en el caso de contemplarse el traslado desde Santiago a su ciudad de origen, a través de transporte aéreo.
+
 9.4 Inducción a los Beneficiarios
 
-Se realizará, a lo menos, una inducción presencial de seis o más horas de duración a los Beneficiarios, informándoles sobre el Programa y sus exigencias. Esta inducción deberá contemplar, como mínimo, los siguientes temas:
+Se realizará, a lo menos, una inducción presencial de cinco o más horas de duración a los Beneficiarios, informándoles sobre el Programa y sus exigencias. Esta inducción deberá contemplar, como mínimo, los siguientes temas:
 
 . Derechos y obligaciones de los Beneficiarios en el
 
