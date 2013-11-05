@@ -320,15 +320,53 @@ A la unidad encargada de obras municipales le corresponderán las siguientes fun
 
 a) Velar por el cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones, del plan regulador comunal y de las ordenanzas correspondientes, para cuyo efecto gozará de las siguientes atribuciones específicas:
 
-1) Dar aprobación a las subdivisiones de predios urbanos y urbano-rurales;
+1) Dar aprobación a las fusiones,
 
-2) Dar aprobación a los proyectos de obras de urbanización y de construcción;
+subdivisiones y modificaciones
 
-3) Otorgar los permisos de edificación de las obras señaladas en el número anterior;
+de deslindes de predios en las
 
-4) Fiscalizar la ejecución de dichas obras hasta el momento de su recepción, y
+áreas urbanas, de extensión urbana,
 
-5) Recibirse de las obras ya citadas y autorizar su uso.
+o rurales en caso de aplicación
+
+del artículo 55 de la Ley General
+
+de Urbanismo y Construcciones;
+
+2) Dar aprobación a los
+
+anteproyectos y proyectos de
+
+obras de urbanización y edificación
+
+y otorgar los permisos
+
+correspondientes, previa verificación
+
+de que éstos cumplen con los
+
+aspectos a revisar de acuerdo a
+
+la Ley General de Urbanismo y
+
+Construcciones.
+
+3) Fiscalizar la ejecución de dichas obras hasta el momento de su recepción, y
+
+4) Recibirse de las obras y
+
+autorizar su uso, previa
+
+verificación de que éstas
+
+cumplen con los aspectos a
+
+revisar de acuerdo a la Ley
+
+General de Urbanismo y
+
+Construcciones.
 
 b) Fiscalizar las obras en uso, a fin de verificar el cumplimiento de las disposiciones legales y técnicas que las rijan;
 

@@ -12,7 +12,7 @@ Disposiciones generales
 
 #### Artículo 1º
 
-Créase el Registro Nacional de Revisores Independientes de Obras de Edificación de conformidad con el artículo 116 Bis del decreto con fuerza de ley N° 458, del Ministerio de Vivienda y Urbanismo, de 1975, Ley General de Urbanismo y Construcciones.
+Créase el Registro Nacional de Revisores Independientes Obras de Construcción de conformidad con el artículo 116 Bis del decreto con fuerza de ley N° 458, del Ministerio de Vivienda y Urbanismo, de 1975, Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2°
 
@@ -94,7 +94,7 @@ Los revisores independientes no podrán revisar proyectos u obras en que tengan 
 
 a) Emplazados en predios que pertenezcan en dominio al revisor o a sus parientes hasta el 4º grado de consanguinidad o 2º de afinidad;
 
-b) Emplazados en predios que pertenezcan en dominio a una sociedad de personas de la cual el revisor sea socio o a una persona jurídica en que éste sea socio, director, administrador o con quien tenga un vínculo laboral, y
+b) Emplazados en predios que pertenezcan en dominio a una sociedad de personas de la cual el revisor sea socio o a una persona jurídica en que éste sea socio, director, administrador o una con quien tenga dependencia económica o un vínculo laboral, y
 
 c) En que el revisor, o alguno de sus parientes hasta el 4º grado de consanguinidad o 2º de afinidad, intervenga como proyectista o constructor.
 
@@ -161,6 +161,8 @@ Los hechos investigados y las responsabilidades de los infractores podrán acred
 La resolución que ponga fin al procedimiento sancionatorio será fundada y resolverá todas las cuestiones planteadas, pronunciándose sobre cada una de las alegaciones y defensas del imputado, debiendo declarar la sanción que impone al infractor o su absolución.
 
 La resolución final deberá dictarse dentro de los 30 días siguientes a aquél en que se haya evacuado la última diligencia ordenada en el expediente.
+
+Las sanciones se anotarán en el Registro.
 
 #### Artículo 14
 

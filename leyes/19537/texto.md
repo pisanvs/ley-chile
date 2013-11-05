@@ -198,6 +198,10 @@ Si el propietario, arrendatario u ocupante a cualquier título de una unidad no 
 
 Asimismo, las alteraciones o transformaciones que afecten a las instalaciones de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, sean en bienes de dominio común o en las unidades de los condominios, deberán ser ejecutadas por empresas o personas que cuenten con una inscripción vigente en el registro de instaladores, mantenedores y certificadores del Ministerio de Vivienda y Urbanismo y contar con el acuerdo de la asamblea de copropietarios y el permiso de la Dirección de Obras Municipales, cuando corresponda.
 
+#### Artículo 14 ter
+
+La tramitación de solicitudes ante la Dirección de Obras Municipales se efectuará conforme a lo establecido en la Ordenanza General de Urbanismo y Construcciones.
+
 #### Artículo 15
 
 Para cambiar el destino de una unidad, se requerirá que el nuevo uso esté permitido por el instrumento de planificación territorial y que el copropietario obtenga, además del permiso de la Dirección de Obras Municipales, el acuerdo previo de la asamblea.

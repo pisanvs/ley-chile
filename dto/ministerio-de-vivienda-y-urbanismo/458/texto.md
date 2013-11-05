@@ -30,7 +30,7 @@ La Ley General, que contiene los principios, atribuciones, potestades, facultade
 
 La Ordenanza General, que contiene las disposiciones reglamentarias de esta ley y que regula el procedimiento administrativo, el proceso de planificación urbana, urbanización y construcción, y los standards técnicos de diseño y construcción exigibles en los dos últimos.
 
-Las Normas Técnicas, que contienen y definen las características técnicas de los proyectos, materiales y sistemas de construcción y urbanización, para el cumplimiento de los standards exigidos en la Ordenanza General.
+Las Normas Técnicas, que contienen y definen las características técnicas de los proyectos, materiales y sistemas de construcción y urbanización, de acuerdo a los requisitos de obligatoriedad que establece la Ordenanza General. Las normas técnicas de aplicación obligatoria deberán publicarse en internet y mantenerse a disposición de cualquier interesado de forma gratuita.
 
 #### Artículo 3°
 
@@ -144,13 +144,17 @@ La intervención de estos profesionales en una construcción requerirá acredita
 
 El propietario primer vendedor de una construcción será responsable por todos los daños y perjuicios que provengan de fallas o defectos en ella, sea durante su ejecución o después de terminada, sin perjuicio de su derecho a repetir en contra de quienes sean responsables de las fallas o defectos de construcción que hayan dado origen a los daños y perjuicios. En el caso de que la construcción no sea transferida, esta responsabilidad recaerá en el propietario del inmueble respecto de terceros que sufran daños o perjuicios como consecuencia de las fallas o defectos de aquélla.
 
-Los proyectistas serán responsables por los errores en que hayan incurrido, si de éstos se han derivado daños o perjuicios.
+El arquitecto que realice el proyecto de arquitectura será responsable de cumplir con todas las normas legales y reglamentarias aplicables a dicho proyecto y por los errores en que haya incurrido en el ejercicio de sus funciones, si de éstos se han derivado daños o perjuicios.
+
+El profesional competente que realice el proyecto de cálculo estructural, incluidos los planos, la memoria de cálculo, especificaciones técnicas y el estudio de geotecnia o mecánica de suelos, será responsable de cumplir con todas las normas aplicables a estas materias y por los errores en que haya incurrido, en el ejercicio de sus funciones, si de éstos se han derivado daños o perjuicios. En los casos en que el estudio de mecánica de suelos sea realizado por un profesional competente diferente, este estudio será de su exclusiva responsabilidad.
 
 Sin perjuicio de lo establecido en el N° 3 del artículo 2003 del Código Civil, los constructores serán responsables por las fallas, errores o defectos en la construcción, incluyendo las obras ejecutadas por subcontratistas y el uso de materiales o insumos defectuosos, sin perjuicio de las acciones legales que puedan interponer a su vez en contra de los proveedores, fabricantes y subcontratistas.
 
-Las personas jurídicas serán solidariamente responsables con el profesional competente que actúe por ellas como proyectista o constructor respecto de los señalados daños y perjuicios.
+El inspector técnico de obra (ITO) será responsable de supervisar que las obras se ejecuten conforme a las normas de construcción aplicables en la materia y al permiso de construcción aprobado y sus modificaciones, así como al proyecto de arquitectura correspondiente, el proyecto de cálculo estructural y su memoria, y los proyectos de especialidades, incluidos los planos y especificaciones técnicas correspondientes.
 
-El propietario primer vendedor estará obligado a incluir en la escritura pública de compraventa, una nómina que contenga la individualización de los proyectistas y constructores a quienes pueda asistir responsabilidad de acuerdo al presente artículo. Tratándose de personas jurídicas deberá individualizarse a sus representantes legales. Las condiciones ofrecidas en la publicidad se entenderán incorporadas al contrato de compraventa. Los planos y las especificaciones técnicas, definitivos, como asimismo el Libro de Obras a que se refiere el artículo 143, se mantendrán en un archivo en la Dirección de Obras Municipales a disposición de los interesados.
+Respecto de las responsabilidades, daños y perjuicios a que se refiere este artículo, las personas jurídicas serán solidariamente responsables con el profesional competente que actúe por ellas como arquitecto, ingeniero civil, ingeniero constructor o constructor civil, los que deberán individualizarse en el respectivo permiso de construcción.
+
+El propietario primer vendedor estará obligado a incluir en la escritura pública de compraventa, una nómina que contenga la individualización del arquitecto que realizó el proyecto de arquitectura, del profesional que realizó el proyecto de cálculo estructural, del profesional a cargo de la obra, de los profesionales a cargo de los proyectos de especialidades, así como del inspector técnico de obra (ITO), del revisor independiente de obras de construcción y del revisor del proyecto de cálculo estructural, cuando corresponda, a quienes pueda asistir responsabilidad de acuerdo a esta ley. Tratándose de personas jurídicas deberá individualizarse a sus representantes legales. Las condiciones ofrecidas en la publicidad se entenderán incorporadas al contrato de compraventa. Los planos y las especificaciones técnicas, definitivos, como asimismo el Libro de Obras a que se refiere el artículo 143, se mantendrán en un archivo en la Dirección de Obras Municipales a disposición de los interesados.
 
 La responsabilidad civil a que se refiere este artículo, tratándose de personas jurídicas que se hayan disuelto, se hará efectiva respecto de quienes eran sus representantes legales a la fecha de celebración del contrato.
 
@@ -596,7 +600,9 @@ La formación de nuevas poblaciones, barrios, grupos o conjuntos habitacionales 
 
 #### Artículo 67°
 
-Los proyectos de subdivisión, loteos o urbanización de terrenos deberán ajustarse estrictamente a los trazados y normas que consulte el Plan Regulador y deberán llevar la firma del profesional competente de acuerdo con la ley N° 7.211 y la Ordenanza General.
+Los proyectos de subdivisión, loteos, urbanización o modificación de deslindes de terrenos deberán ajustarse estrictamente a los trazados y normas que consulte el Plan Regulador y deberán llevar la firma del profesional competente de acuerdo con la ley N° 7.211 y la Ordenanza General. En caso de modificación de deslindes no podrán afectarse los derechos de terceros.
+
+Las modificaciones y rectificaciones de deslindes autorizadas por la Dirección de Obras Municipales se inscribirán en el Registro de Propiedad del Conservador de Bienes Raíces y se anotarán al margen de la inscripción de dominio respectiva.
 
 #### Artículo 68°
 
@@ -938,21 +944,23 @@ La Dirección de Obras Municipales deberá exhibir, en el acceso principal a sus
 
 #### Artículo 116 bis
 
-Los propietarios que soliciten un permiso de edificación podrán contratar un revisor independiente, persona natural o jurídica con inscripción vigente en un registro que para estos efectos mantendrá el Ministerio de Vivienda y Urbanismo. Sin embargo, la Ordenanza General podrá determinar las edificaciones en que será obligatoria la contratación de un revisor independiente para los respectivos permisos de edificación o de recepción definitiva.
+Los propietarios que soliciten un permiso de edificación podrán contratar un revisor independiente, con inscripción vigente en el Registro Nacional de Revisores Independientes de Obras de Construcción, del Ministerio de la Vivienda y Urbanismo creado por la ley Nº 20.071. Sin embargo, será obligatoria la contratación de un revisor independiente cuando se trate de edificios de uso público y demás casos que determine la Ordenanza General.
 
-En el desempeño de sus funciones, los revisores independientes deberán verificar que los proyectos de edificación y las obras cumplan con las disposiciones legales y reglamentarias, y emitir los informes que se requieran para tales efectos, cuyo contenido determinará la Ordenanza General. Con todo, los revisores independientes no verificarán el cálculo de estructuras.
+En el desempeño de sus funciones, los revisores independientes a que se refiere este artículo deberán supervisar que los proyectos de construcción y sus obras cumplan con las disposiciones legales y reglamentarias, y emitir los informes que se requieran para tales efectos, cuyo contenido determinará la Ordenanza General. Con todo, los revisores independientes no supervisarán el proyecto de cálculo estructural, ni los proyectos de ingeniería referidos a obras de urbanización, en su caso.
 
-Los derechos municipales a que se refiere el artículo 130 se reducirán en el 30% cuando se acompañe el informe favorable del revisor independiente.
+El revisor independiente será subsidiariamente responsable al arquitecto que realice el proyecto de arquitectura, en lo relativo a que el proyecto de construcción y sus obras cumplan con todas las normas legales y reglamentarias aplicables a dicho proyecto.
+
+Los derechos municipales a que se refiere el artículo 130 se reducirán en el 30% cuando se acompañe el informe favorable del revisor independiente. Dicha rebaja de derechos incluye la participación del revisor independiente a que se refiere este artículo tanto en el permiso de construcción, como en la recepción definitiva de sus obras.
 
 > **Nota.** El Artículo Transitorio de la LEY 20016, publicada el 27.05.2005, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia noventa días después de su publicación en el Diario Oficial y que estas modificaciones sólo se aplicarán a los permisos y autorizaciones que ingresen a tramitación con posterioridad a su entrada en vigencia.
 
 #### Artículo 116 bis
 
-A).- Los propietarios que soliciten un permiso de construcción para edificios de uso público y edificaciones que determine la Ordenanza General deberán contratar la revisión del proyecto de cálculo estructural respectivo por parte de un tercero independiente del profesional u oficina que lo haya realizado y que cuente con inscripción en un registro que para estos efectos mantendrá el Ministerio de la Vivienda y Urbanismo. El Ministerio podrá encomendar dicho registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fuera concedida por decreto supremo Nº 1.115, de 1996, del Ministerio de Justicia.
+A).- Los propietarios que soliciten un permiso de construcción para edificios de uso público y demás casos que determine la Ordenanza General deberán contratar la revisión del proyecto de cálculo estructural respectivo por parte de un tercero independiente del profesional u oficina que lo haya realizado y que cuente con inscripción en un registro que para estos efectos mantendrá el Ministerio de la Vivienda y Urbanismo. El Ministerio podrá encomendar dicho registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fuera concedida por decreto supremo Nº 1.115, de 1996, del Ministerio de Justicia.
 
 La Ordenanza General de Urbanismo y Construcciones establecerá el alcance, las condiciones, las diversidades geográficas y los demás aspectos que deberán contemplarse en la revisión del cálculo estructural.
 
-El reglamento que se dicte para regular el registro a que se refiere el inciso primero, establecerá los requisitos de inscripción, las causales de inhabilidad, de incompatibilidad, así como las de amonestación, suspensión y eliminación del mismo.
+En el desempeño de sus funciones, el revisor del proyecto de cálculo estructural será subsidiariamente responsable con el profesional competente que realizó el proyecto de cálculo estructural, debiendo verificar que los planos, la memoria de cálculo, incluida en ésta el protocolo de inspección que se defina en la norma técnica, las especificaciones técnicas y el estudio de mecánica de suelos, cumplan con todas las normas aplicables.
 
 #### Artículo 116 bis
 
@@ -1140,11 +1148,11 @@ En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta com
 
 La Dirección de Obras Municipales tendrá un plazo de 30 días, contados desde la presentación de la solicitud, para pronunciarse sobre los permisos de construcción.
 
-Dicho plazo se reducirá a 15 días, si a la solicitud de permiso se acompañare el informe favorable de un revisor independiente o del arquitecto proyectista en su caso.
+Dicho plazo se reducirá a 15 días, si a la solicitud de permiso se acompañare el informe favorable de un revisor independiente o del arquitecto, en su caso.
 
 Si cumplidos dichos plazos no hubiere pronunciamiento por escrito sobre el permiso o éste fuere denegado, el interesado podrá reclamar ante la Secretaría Regional correspondiente del Ministerio de Vivienda y Urbanismo. La Secretaría Regional Ministerial, dentro de los 3 días hábiles siguientes a la recepción del reclamo, deberá solicitar a la Dirección de Obras Municipales que dicte su resolución, si no se hubiere pronunciado o evacue el informe correspondiente en el caso de denegación del permiso. La Dirección de Obras Municipales dispondrá de un plazo de 15 días para evacuar el informe o dictar la resolución, según corresponda. En este último caso y vencido este nuevo plazo sin que aún hubiere pronunciamiento, se entenderá denegado el permiso.
 
-Denegado el permiso por la aludida Dirección, sea expresa o presuntivamente, la Secretaría Regional, dentro del plazo de 15 días hábiles, deberá pronunciarse sobre el reclamo y si fuere procedente ordenará que se otorgue en tal caso, el permiso, previo pago de los derechos.
+Denegado el permiso por la aludida Dirección, sea expresa o presuntivamente, la Secretaría Regional, dentro del plazo de 15 días hábiles, deberá pronunciarse sobre el reclamo y si fuere procedente ordenará que se otorgue el permiso, previo pago de los derechos municipales, que al efecto se reducirán en el 50%, correspondiendo el pago previo de igual monto a la Secretaría Regional Ministerial, a beneficio fiscal. Sin perjuicio de lo anterior, en caso de verificar una contravención del inciso quinto del artículo 116, dicha Secretaría deberá proceder conforme al artículo 15.
 
 El interesado tendrá el plazo fatal de 30 días para deducir el reclamo a que se refiere este artículo, contado desde la fecha en que se denegare expresamente el permiso o en que venza el plazo para pronunciarse.
 
@@ -1282,9 +1290,9 @@ por pisos, etc. - - - - - - 1 cuota de ahorro
 
 para vivienda.
 
-10. Permiso de instalación
+10. Permiso de instalación 5% del presupuesto
 
-de torre soporte de antenas
+de torre soporte de antenas de la instalación.
 
 y sistemas radiantes
 
@@ -1292,11 +1300,15 @@ de transmisión de
 
 telecomunicaciones ----
 
-5% del presupuesto
+11.- Modificaciones del deslinde 2,0% del avalúo fiscal
 
-de la instalación.
+de la parte del terreno
+
+que se modifica.
 
 =======================================================
+
+En caso de modificaciones de proyectos de subdivisión o loteo, el derecho municipal se calculará respecto del área de terreno que se modifica.
 
 Las edificaciones fiscales y de sus organismos descentralizados pagarán igualmente estos derechos municipales.
 
@@ -1438,7 +1450,7 @@ Corresponderá a la Dirección de Obras Municipales fiscalizar las obras de edif
 
 Los funcionarios municipales tendrán libre acceso a todas las obras de edificación y urbanización que se ejecuten en la comuna, para ejercer las inspecciones que sean necesarias.
 
-Los revisores independientes a que se refiere el artículo 116 bis tendrán libre acceso, durante su ejecución, a las obras de edificación que les corresponda informar; igualmente, los Cuerpos de Bomberos podrán inspeccionar dichas obras a objeto de verificar las condiciones generales de seguridad, las de seguridad contra incendio establecidas en la normativa vigente y el funcionamiento de las instalaciones de emergencia de los edificios, debiendo dejar constancia de sus observaciones en el Libro de Obras a que se refiere el inciso final del artículo 143.
+Los revisores independientes a que se refiere el artículo 116 bis tendrán libre acceso, durante su ejecución, a las obras de construcción que les corresponda informar; igualmente, los Cuerpos de Bomberos podrán inspeccionar dichas obras a objeto de verificar las condiciones generales de seguridad, las de seguridad contra incendio establecidas en la normativa vigente y el funcionamiento de las instalaciones de emergencia de los edificios, debiendo dejar constancia de sus observaciones en el Libro de Obras a que se refiere el inciso final del artículo 143.
 
 Los Cuerpos de Bomberos, después de recibidas las obras, estarán facultados para inspeccionar las condiciones generales de seguridad, las de seguridad contra incendio y el funcionamiento de las instalaciones de emergencia de los edificios. Si se constatare que no se cumplen las condiciones de seguridad previstas en el plan de evacuación, el Comandante del Cuerpo de Bomberos respectivo dará cuenta por escrito del resultado de la inspección al Director de Obras Municipales, a fin de que se adopten las medidas establecidas en el artículo 20 de esta ley.
 
@@ -1448,21 +1460,27 @@ Asimismo, después de recepcionadas las obras, las Direcciones de Obras Municipa
 
 #### Artículo 143
 
-Durante la ejecución de una obra, el constructor a cargo de ella deberá velar porque en la construcción se adopten medidas de gestión y control de calidad para que ésta se ejecute conforme a las normas de la Ley General de Urbanismo y Construcciones y de la Ordenanza General, y se ajuste a los planos y especificaciones del respectivo proyecto. Terminada la obra, dicho profesional deberá informar las medidas de gestión y de control de calidad adoptadas y certificar que éstas se han aplicado. El propietario podrá designar a una empresa o a un profesional distinto del constructor para el desempeño de la labor señalada en este inciso.
+Durante la ejecución de una obra, el constructor a cargo de ella deberá velar por que en la construcción se adopten medidas de gestión y control de calidad para que ésta se ejecute conforme a las normas técnicas obligatorias, la Ley General de Urbanismo y Construcciones y su Ordenanza General, así como a la demás normativa aplicable a la materia, y se ajuste a los planos y especificaciones del respectivo proyecto.
 
-Tratándose de edificios de uso público deberá existir una inspección técnica, independiente del constructor, encargada de fiscalizar que la obra se ejecute conforme a las normas de construcción aplicables en la materia y al permiso de construcción aprobado.
+Los contenidos de las medidas de gestión y control de calidad deberán ser establecidos en la Ordenanza General de Urbanismo y Construcciones, debiendo en todo caso referirse como mínimo a los siguientes aspectos: medidas técnicas y de seguridad que se deberán adoptar para la correcta ejecución de las obras de construcción, demolición y excavaciones; los ensayes y certificaciones obligatorios que deberán adoptarse durante el transcurso de la ejecución de las obras, así como las autorizaciones especiales que deberán requerirse para ciertas faenas, cuando la normativa lo establezca; medidas que deberán adoptarse para mitigar el ruido y emisiones de polvo; indicación de los lugares aptos para depositar materiales y elementos de trabajo; aseo de la obra y del espacio público; y programa de trabajo y horarios de ejecución de las obras.
 
-Se deberá mantener en el lugar de la obra, en forma permanente y actualizada, un Libro de Obras, en el cual se consignarán, debidamente firmadas, las instrucciones y observaciones sobre el desarrollo de la construcción, por parte de los profesionales proyectistas, el constructor y el profesional mencionado en el inciso anterior, sin perjuicio de las observaciones que registren los inspectores municipales cuando lo requieran.
+Dichas medidas de gestión y control de calidad deberán ser establecidas y registradas en un documento que se deberá mantener en el lugar de la obra, durante todo el tiempo de ejecución de ésta, a disposición de los profesionales competentes, del inspector técnico de obra (ITO) y de los inspectores de la Dirección de Obras Municipales. Terminada la obra, el constructor a cargo deberá presentar una declaración jurada afirmando que las medidas de gestión y de control de calidad fueron aplicadas.
 
-> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+Tratándose de edificios de uso público y demás casos que señale la Ordenanza General, será obligatorio que la obra cuente con un inspector técnico de obra (ITO), independiente del constructor, con inscripción en un Registro que para estos efectos mantendrá el Ministerio de la Vivienda y Urbanismo. El Ministerio podrá encomendar dicho Registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fue concedida por decreto supremo Nº 1.115, de 1996, del Ministerio de Justicia.
+
+El inspector técnico de obra (ITO) estará encargado de supervisar que la obra se ejecute conforme a las normas de construcción aplicables a la ejecución de la obra, al permiso de construcción aprobado y sus modificaciones. Durante la ejecución de la obra será responsable que ésta cumpla con el proyecto de arquitectura; el proyecto de cálculo estructural; y los proyectos de especialidades; incluidos los planos y especificaciones técnicas correspondientes, debiendo para ello, registrar en el Libro de Obras la supervisión de las partidas que determinen la Ordenanza General y las respectivas especificaciones técnicas. Asimismo, el inspector técnico de obra deberá supervisar oportunamente el cumplimiento de las medidas de gestión y de control de la calidad. Para cumplir su labor, el inspector técnico de obra estará facultado para requerir tomas de muestras y demoliciones parciales.
+
+El inspector técnico de obra (ITO) que incumpla sus funciones de supervisión, será subsidiariamente responsable con el constructor, por los daños o perjuicios producidos por fallas o defectos en la construcción derivados del incumplimiento de tales funciones.
+
+Se deberá mantener en el lugar de la obra, en forma permanente y actualizada, un Libro de Obras, en el cual se consignarán, debidamente firmadas, las instrucciones y observaciones sobre el desarrollo de la construcción, por parte del profesional que realizó el proyecto de arquitectura y el proyecto de cálculo estructural, así como del constructor y el profesional mencionado en el inciso anterior, sin perjuicio de las observaciones que registren los inspectores municipales cuando lo requieran.
 
 #### Artículo 144
 
 Terminada una obra o parte de la misma que pueda habilitarse independientemente, el propietario y el arquitecto solicitarán su recepción definitiva por la Dirección de Obras Municipales. Sin perjuicio de las recepciones definitivas parciales, habrá, en todo caso, una recepción definitiva del total de las obras.
 
-A la solicitud de recepción deberá adjuntarse un informe del arquitecto, y del revisor independiente cuando lo hubiere, en que se certifique que las obras se han ejecutado de acuerdo al permiso aprobado, incluidas sus modificaciones, conforme a lo indicado en el inciso segundo del artículo 119 de esta ley. En caso que la construcción hubiere contado con un inspector técnico de obra (ITO) también deberá acompañarse un informe de dicho profesional.
+A la solicitud de recepción deberá adjuntarse un informe del arquitecto, y del revisor independiente cuando lo hubiere, en que se certifique que las obras se han ejecutado de acuerdo al permiso aprobado, incluidas sus modificaciones, conforme a lo indicado en el inciso segundo del artículo 119 de esta ley. En caso que la construcción hubiere contado con un inspector técnico de obra (ITO) también deberá acompañarse un informe de dicho profesional, que señale que la obra fue construida conforme a las normas técnicas de construcción aplicables a la ejecución de la obra y al permiso de construcción aprobado, incluidas sus modificaciones.
 
-Conjuntamente con la solicitud de recepción de las edificaciones cuya carga de ocupación sea igual o superior a 100 personas, destinadas a edificaciones colectivas, equipamientos y actividades productivas, se deberá adjuntar copia del plan de evacuación ingresado al Cuerpo de Bomberos respectivo. Dicho plan incluirá las condiciones generales de seguridad, de seguridad contra incendio y de funcionamiento de las instalaciones de emergencia de los edificios en lo relativo a la señalética implementada para las vías de evacuación, así como un plano que incluya dichas vías, la indicación de los grifos, red seca, red húmeda, accesos, sistemas de alumbrado, calefacción, los artefactos a gas contemplados y sus requerimientos de ventilación, y otros antecedentes que sea útil conocer en caso de emergencia.
+Conjuntamente con la solicitud de recepción de las edificaciones cuya carga de ocupación sea igual o superior a 100 personas, destinadas a edificaciones colectivas, equipamientos y actividades productivas, se deberá adjuntar copia del plan de evacuación ingresado al Cuerpo de Bomberos respectivo. Dicho plan incluirá las condiciones generales de seguridad, de seguridad contra incendio y de funcionamiento de las instalaciones de emergencia de los edificios en lo relativo a la señalética implementada para las vías de evacuación, así como un plano que incluya dichas vías, la indicación de los grifos, red seca, red inerte, red húmeda, accesos, sistemas de alumbrado, calefacción, los artefactos a gas contemplados y sus requerimientos de ventilación, y otros antecedentes que sea útil conocer en caso de emergencia.
 
 El Director de Obras deberá revisar únicamente el cumplimiento de las normas urbanísticas aplicables a la obra, conforme al permiso otorgado, y procederá a efectuar la recepción, si fuere procedente.
 
@@ -1566,7 +1584,7 @@ Los gastos que irrogue la aplicación de este artículo serán de cargo a los fo
 
 La Dirección de Obras Municipales podrá exigir la terminación de las obras de edificación de un inmueble, que hubieren sido paralizadas, siempre que por su falta de terminación presentaren mal aspecto, o implicaren riesgo de daño a terceros.
 
-Del mismo modo, podrá la Dirección de Obras exigir que sean reparados los edificios que, por su vetustez o mal estado de conservación, hicieren desmerecer el aspecto general de la vía o espacio público que enfrentan, o implicaren riesgo de daño a terceros.
+Del mismo modo, podrá la Dirección de Obras exigir fundadamente que sean reparados los edificios que presenten daños que comprometan su estabilidad, o bien que, por su vetustez o mal estado de conservación, hicieren desmerecer el aspecto general de la vía o espacio público que enfrentan, o implicaren riesgo de daño a terceros.
 
 #### Artículo 159°
 
@@ -1595,6 +1613,12 @@ En el caso de establecimientos industriales o locales de almacenamiento, expuest
 #### Artículo 161°
 
 La Alcaldía podrá clausurar los establecimientos o locales comerciales o industriales que contravinieren las disposiciones de la presente ley, de la Ordenanza General y de las Ordenanzas Locales.
+
+#### Artículo 161 bis
+
+Previo informe fundado de la Dirección de Obras, la Municipalidad podrá decretar la inhabitabilidad parcial o total de los edificios que presenten daños que comprometan su estabilidad, ordenando el desalojo correspondiente.
+
+Decretada la inhabitabilidad, la parte de ésta declarada inhabitable no podrá ser utilizada hasta contar con la recepción de las obras de reparación por la Dirección de Obras Municipales.
 
 ## Título IV
 
@@ -1650,11 +1674,17 @@ b) Normas técnicas de habitabilidad, seguridad, estabilidad y de las instalacio
 
 El cumplimiento de dichas disposiciones y normas será certificado sólo por el profesional competente que suscriba la solicitud del permiso de edificación y de recepción de obras.
 
+La certificación profesional a que se refiere el inciso anterior no se requerirá cuando la ampliación cuente con un informe favorable de inspección de la Dirección de Obras Municipales.
+
 Los permisos de edificación y la recepción definitiva de las ampliaciones de que trata este artículo, se tramitarán conforme al procedimiento simplificado de obra menor de vivienda social, que para estos efectos establecerá la Ordenanza General.
 
 Las disposiciones del presente artículo se aplicarán asimismo a la regularización de las edificaciones construidas con anterioridad al 31 de julio de 1959.
 
-Los derechos municipales serán los que se establecen en el artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados, a lo menos, en 50% en los casos contemplados en el inciso primero de este artículo.
+Lo dispuesto en el presente artículo también será aplicable en caso de regularización de otras viviendas o infraestructuras sanitarias en el mismo predio, en cuyo caso el valor de 520 unidades de fomento se aplicará, separadamente, a cada vivienda o infraestructura sanitaria adicional.
+
+Las Municipalidades podrán desarrollar programas de regularización de conjuntos de viviendas sociales conforme al presente artículo, en cuyo caso podrán aprobarse permisos y recepciones colectivas.
+
+Los derechos municipales serán los que se establecen en el artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados, a lo menos, en 50% en los casos contemplados en el presente artículo.
 
 #### Artículo 167°
 
