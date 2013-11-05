@@ -82,6 +82,12 @@ cuarentena de post entrada
 
 Cydonia oblonga Sin declaraciones adicionales
 
+Diospyros lotus Sin declaraciones adicionales
+
+Diospyros kaki Sin declaraciones adicionales
+
+Diospyros virginiana Sin declaraciones adicionales
+
 Fragaria spp Sin declaraciones adicionales
 
 Hippophae rhamnoides Sin declaraciones adicionales

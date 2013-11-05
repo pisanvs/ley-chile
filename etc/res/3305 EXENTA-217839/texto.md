@@ -82,6 +82,12 @@ cuarentena de post entrada
 
 Cydonia oblonga Sin declaraciones adicionales
 
+Diospyros lotus Sin declaraciones adicionales
+
+Diospyros kaki Sin declaraciones adicionales
+
+Diospyros virginiana Sin declaraciones adicionales
+
 Fragaria spp. El envío proviene de plantas
 
 madres que han sido
