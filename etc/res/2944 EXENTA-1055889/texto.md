@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.944, de 25 de octubre de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura para mitílidos presentadas en la X Región, señaladas en la resolución extractada y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 7º de la ley Nº 20.657.-
+
+Valparaíso, 25 de octubre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
