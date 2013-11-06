@@ -38,7 +38,7 @@ Se debe estar atento a que, por su mecanismo de acción, cilostazol puede produc
 
 Posología y modo de administración
 
-Se recomienda reducir la dosis de cilostazol a 50 mg dos veces al día en aquellos pacientes que utilizan también otros medicamentos que son potentes inductores metabólicos (antibióticos macrólidos, antifúngicos azólicos, inhibidores de proteasa, inhibidores de la bomba de protones, entre otros).
+Se recomienda reducir la dosis de cilostazol a 50 mg dos veces al día en aquellos pacientes que utilizan también otros medicamentos que son inhibidores potentes del CYP3A4 o CYP2C19.
 
 3.- Dispónese que los titulares de los registros sanitarios de productos farmacéuticos que contienen Cilostazol, deberán haber realizado los cambios dispuestos en los folletos en un plazo de tres meses a contar de la fecha de publicación en el Diario Oficial de la presente resolución, sin que sea necesario someter esos cambios a la aprobación de este Instituto.
 
