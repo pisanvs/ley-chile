@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.962, de 29 de octubre de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 210110056, Sector 2, Nº 210110005, Sector 2, Nº 210110011, Nº 210110055, Sector 16, Nº 211110011, Sector 1, Nº 211110055, Nº 210110096, Sector 4 y Nº 211110065, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de octubre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
