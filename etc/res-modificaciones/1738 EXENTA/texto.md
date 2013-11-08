@@ -198,6 +198,12 @@ Son funciones del Departamento de Planeamiento Institucional:
 
 13. Dar cumplimiento a las demás tareas de carácter estratégico que le encomiende el Director del Fondo."
 
+14. Administrar los convenios de intercambio de información suscritos entre Fonasa e instituciones públicas.
+
+15. Administrar el financiamiento para el Subsidio por Incapacidad Laboral SIL, curativo común, y ser el referente técnico dentro de la institución en el área de Licencias Médicas.
+
+16. Validar la población inscrita, potencialmente beneficiaria del seguro para el financiamiento de la Atención Primaria.
+
 #### Artículo 29 Quater
 
 Del Departamento de Planeamiento Institucional dependerán el Subdepartamento de Estudios y el Subdepartamento de Control de Gestión y Procesos."
