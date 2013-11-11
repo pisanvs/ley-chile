@@ -574,6 +574,8 @@ Ipomoea batatas Potato spindle tuber viroid
 
 (Camote) (PSTVd)
 
+Jatropha curcas Sin Declaración Adicional
+
 Lycopersicon lycopersicum Tomato bunchy top viroid
 
 (Syn. L. esculentum) (=Potato spindle tuber
