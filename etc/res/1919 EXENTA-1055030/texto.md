@@ -20,9 +20,9 @@ Resuelvo:
 
 Fíjanse las siguientes fechas que determinan el período de presentación de las solicitudes para el otorgamiento del subsidio contemplado en el artículo 4º letra a) de la ley Nº 20.378 para el proceso 2013-2014:
 
-Fecha de inicio período de postulación 21 de octubre de 2013
+Fecha de inicio período de postulación 18 de noviembre de 2013
 
-Fecha de término período de postulación 27 de diciembre de 2013.
+Fecha de término período de postulación 24 de enero de 2014.
 
 Anótese y publíquese en el Diario Oficial.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
