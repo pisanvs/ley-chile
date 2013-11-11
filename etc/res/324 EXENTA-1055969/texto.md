@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 324 EXENTA, DE 2013
+
+Por resolución exenta Nº 324, de 25 de septiembre de 2013, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se autoriza el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante automóviles, ubicado en calle Matta Nº0697, de la comuna de San Carlos, Provincia de Ñuble, Región del Biobío, de responsabilidad de la Sociedad de Taxis Colectivos Urbanos Lagos de Chile Ltda. El tipo de terminal es un terminal de vehículos (TV) clasificado en "Categoría A-2", con capacidad para 50 vehículos, de acuerdo al artículo 45º bis del DS 212/92 del Ministerio de Transportes y Telecomunicaciones y a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxis colectivos urbanos, cuyo responsable es la Sociedad de Taxis Colectivos Urbanos Lagos de Chile Ltda., RUT 77.295.200-7, Línea Nº6 de Taxi Colectivos, de la comuna de San Carlos, con recorrido: Troncal: Matta - Riquelme - Ossa - Independencia; Variante 1: Matta - Serrano - V. Mackenna - Sargento Aldea; Variante 2: Un Nuevo Sendero - O'Higgins - A. Prat Sur - Serrano.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima de 50 automóviles, en conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+- **C)** El administrador del terminal será don Ismael Alfonso Bustos Candia, RUT 14.526.751-K con domicilio en Pasaje Riñihue Nº505, Villa Lagos de Chile, de la comuna de San Carlos. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza. Déjese sin efecto la anterior resolución exenta Nº140 del 12 de julio de 2005 de esta Secretaría Regional Ministerial, que autoriza el funcionamiento del terminal de locomoción colectiva urbana prestado con taxis colectivos, con capacidad para 30 vehículos, ubicado en calle Matta Nº0697, de la comuna de San Carlos.
+
+Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
