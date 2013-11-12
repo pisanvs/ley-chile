@@ -1004,25 +1004,65 @@ Se explicará de qué obligaciones se trata (monto, acreedor, concepto).
 
 DIRECTORES. DISPOSICIONES VARIAS.
 
-I. ACTAS DE SESIONES DE DIRECTORIO. SU ENVÍO A LA SUPERINTENDENCIA.
+### I. DE LAS SESIONES DE DIRECTORIO Y EL ROL DEL PRESIDENTE
 
-### 1. Envío de las actas a este Organismo
+Las sesiones del Directorio, que deben celebrarse al menos una vez al mes, constituyen la instancia formal que contempla la Ley para que los directores se puedan informar cabal y oportunamente de la conducción y situación de la entidad bancaria, para luego deliberar y formalizar los acuerdos y decisiones que determinarán su funcionamiento.
+
+Para el adecuado y eficaz desempeño de dicha instancia, y sin perjuicio de las responsabilidades legales que recaen sobre los directores y el Directorio como cuerpo colegiado, desde un punto de vista de gestión es recomendable que el Presidente asuma un rol activo dentro de su funcionamiento, velando por:
+
+- El establecimiento de procedimientos para el trabajo del Directorio.
+
+- La organización de la agenda de trabajo de cada sesión.
+
+- El suficiente y oportuno flujo de información a todos los miembros del Directorio.
+
+- El contenido completo y fidedigno de las deliberaciones y acuerdos del Directorio en las actas respectivas, así como su adecuado almacenamiento y respaldo.
+
+### II. COMITÉS DE APOYO
+
+Además del Comité de Auditoría de que trata el Capítulo 1-15 de esta Recopilación, el Directorio puede contar con otros comités de apoyo en los que participen uno o más integrantes del mismo y que le permitan tratar aspectos específicos de su competencia. Sin embargo, en ningún caso debe entenderse que la labor desarrollada por estos comités sustituye las funciones y responsabilidades propias del Directorio.
+
+Como una sana práctica para el funcionamiento de este tipo de instancias complementarias, los directores deben procurar no participar en Comités que tengan funciones antagónicas, que por su naturaleza aborden intereses contrapuestos o puedan originar conflictos de interés entre sus integrantes; y cuando así sea, deben establecer medidas para evitar que se afecte la objetividad de los resultados del trabajo encomendado, como por ejemplo limitar las funciones que desempeñen algunos de sus miembros. Por otra parte, en aquellos casos donde participen asesores externos para apoyar su trabajo en determinadas materias, se debe revisar cuidadosamente cualquier situación que pudiera poner en riesgo la objetividad de sus juicios, además de acotar el alcance del rol que desempeñen.
+
+Para su mejor operación, estos comités de apoyo deben contar con reglamentos o estatutos propios que expliciten, a lo menos: sus objetivos; tareas y responsabilidades de sus miembros; las reglas para su funcionamiento; periodicidad de sus sesiones; y los mecanismos para administrar intereses contrapuestos de sus miembros. Asimismo, cada vez que se realice una sesión de alguno de estos comités, se debe dejar constancia en actas de todos los temas tratados.
+
+### III. ACTAS DE SESIONES DE DIRECTORIO
+
+### 1. Contenido de las actas
+
+De las decisiones que adopte el Directorio deberá dejarse constancia en un libro de actas, así como de todos los antecedentes y fundamentos que sirvieron para su adopción. Las actas levantadas en cada sesión deben reflejar con claridad los asuntos tratados en la reunión, los acuerdos tomados, el seguimiento de compromisos adoptados en sesiones anteriores, los planes de acción y asignación de responsabilidades, así como el estado de avance de proyectos estratégicos.
+
+Por otra parte, tal como lo establece el artículo 86 del Reglamento de la Ley de Sociedades Anónimas, los documentos y demás antecedentes que forman parte integrante de un acta de sesión de directorio deben ser almacenados en medios que cumplan las mismas condiciones requeridas a las actas, debiendo además constar en esos medios la identificación de las actas de las cuales forman parte.
+
+### 2. Envío de las actas a este Organismo
 
 Los bancos deberán enviar a este Organismo las actas de sesiones de directorio, ordinarias y extraordinarias, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. Las actas se enviarán a través de la Extranet de esta Superintendencia y en formato PDF "desprotegido", de modo que el usuario pueda copiar el documento o extractar partes de él sin alterar el original. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de la correspondiente reunión. Si no se siguiera el procedimiento habitual de incluir en las actas una tabla inicial de su contenido, se enviará esa tabla como información adicional.
 
 En caso de que el acta sea objeto de modificaciones u observaciones se comunicarán a esta Superintendencia también dentro de un plazo de diez días hábiles bancarios, contado desde la fecha en que el acta quede firmada por todos los concurrentes, o se deje constancia en ella de que los que no hayan firmado se encuentran imposibilitados de hacerlo.
 
-### 2. Numeración de las actas
+### 3. Numeración de las actas
 
 Las actas de sesiones ordinarias y extraordinarias deberán numerarse en forma correlativa, asignando una numeración seguida a las ordinarias y otra a las extraordinarias. Esta numeración deberá figurar tanto en el acta oficial que se inserte en el libro correspondiente, como en la copia que se envíe a esta Superintendencia en cumplimiento de las instrucciones del numeral precedente.
 
-### II. IMPROCEDENCIA DE OTORGAR PODERES A DIRECTORES PARA FUNCIONES OPERATIVAS
+### IV. IMPROCEDENCIA DE OTORGAR PODERES A DIRECTORES PARA FUNCIONES OPERATIVAS
 
 A los directores, como miembros de un cuerpo colegiado, sólo les corresponde actuar normalmente en las sesiones de dicho órgano, ya sea en pleno o dentro de los comités que se hayan designado, y dejar constancia, en ambos casos, en el acta correspondiente, de los acuerdos tomados. Los directores no pueden actuar legítimamente sino en la respectiva sesión de directorio o de comité que integren.
 
 Por lo anterior, resulta improcedente otorgar poderes generales que faculten a uno o más directores para realizar operaciones genéricas del giro ordinario del banco. Dichos poderes generales de administración operativa de la empresa, deberán conferirse únicamente a los ejecutivos de ella, sean éstos el gerente general, o los gerentes, subgerentes y factores en general.
 
 Lo anterior no obsta, naturalmente, a que puedan otorgarse, en sesión de directorio o comité, poderes especiales a uno o más directores, para operaciones perfectamente determinadas y previamente acordadas por el órgano correspondiente. Tampoco es óbice para que un director actúe como apoderado conjunto con uno o varios ejecutivos de la empresa, siempre que no tenga poder por sí solo o con otro u otros directores.
+
+### V. INFORMACIÓN DE INTERÉS PÚBLICO
+
+El Directorio debe proporcionar a los accionistas y público en general, a través del sitio en Internet de cada entidad, información que les permita tener un conocimiento adecuado de la entidad, de sus políticas y de los principios que la rigen. En este sentido, se requiere que la información proporcionada contemple al menos los siguientes elementos:
+
+- Estructura del Directorio, su tamaño, nombre de los integrantes, curriculum vitae, origen de los votos con los que fueron seleccionados, indicando quienes cumplen con los requisitos de independencia establecidos en el numeral 3 del Capítulo 1-15 de la Recopilación Actualizada de Normas de esta Superintendencia. Además, la información relativa a los comités en que participen los directores y el detalle de toda remuneración o retribución aprobada en los términos señalados en los artículos 33 y 147 de la Ley de Sociedades Anónimas y 75 de su Reglamento.
+
+- Estructura de propiedad con la información de los principales accionistas.
+
+- Estructura organizacional, que contemple información del grupo del que la entidad bancaria forma parte y del banco mismo, así como de todos quienes conforman la plana ejecutiva.
+
+- Descripción de los principales aspectos tratados en los Manuales de Política Interna, en el Código de Ética o Conducta, o cualquier otro que haga sus veces.
 
 ## Capítulo 1-6
 
@@ -1426,7 +1466,7 @@ Por último, para el cumplimiento de las normas legales o reglamentarias que alu
 
 ## Capítulo 1-13
 
-CLASIFICACIÓN DE GESTIÓN Y SOLVENCIA.
+CLASIFICACIÓN DE GESTIÓN Y SOLVENCIA
 
 El presente Capítulo contiene las disposiciones relativas a la clasificación que de los bancos, según su solvencia y gestión, debe mantener en forma permanente esta Superintendencia, de acuerdo con lo establecido en el Título V de la Ley General de Bancos. Adicionalmente, en el Capítulo se incorporan los aspectos esenciales de gestión del capital incluidos en el nuevo acuerdo de Basilea (Basilea II).
 
@@ -1446,7 +1486,7 @@ Categoría IV: Incluye a los bancos que se encuentren clasificados en nivel A o 
 
 Categoría V: Incluye a los bancos que se encuentren clasificados en nivel C de solvencia, cualquiera sea su nivel de gestión.
 
-Las reglas antes mencionadas se resumen en el cuadro de la anexo N° 1 de este Capítulo.
+Las reglas antes mencionadas se resumen en el cuadro del Anexo N° 1 de este Capítulo.
 
 ### 2. Permanencia de la clasificación
 
@@ -1484,7 +1524,7 @@ De acuerdo con la ley, los niveles de solvencia señalados en el N° 1 de este t
 
 El patrimonio efectivo y los activos ponderados por riesgo se calcularán según lo previsto en el Capítulo 12-1 de esta Recopilación.
 
-Si bien la evaluación de solvencia tiene su correspondencia en lo establecido en el Capítulo 12-1 de esta Recopilación, resulta claro que los indicadores de solvencia también reflejan el adecuado uso de los recursos patrimoniales aportados por los accionistas para llevar a cabo las actividades del banco. Esto significa, entre otros aspectos, que debe existir una concordancia entre el nivel de capital que debe ser mantenido, en un contexto de mediano y largo plazo, y la gestión llevada a cabo por la administración para optimizar el uso de los recursos. Esa concordancia entre el nivel de capital y la gestión se ve plasmada en la estrategia de negocios que aborda y los riesgos que a sume, en particular frente a escenarios de estrés. En suma, los niveles de patrimonio, así como su composición entre capital primario y secundario (capital básico y patrimonio efectivo) también deben obedecer a un análisis de sus necesidades en un contexto de mediano y largo plazo, lo cual, en definitiva, debiera quedar manifestado en la planificación de sus actividades.
+Si bien la evaluación de solvencia tiene su correspondencia en lo establecido en el Capítulo 12-1 de esta Recopilación, resulta claro que los indicadores de solvencia también reflejan el adecuado uso de los recursos patrimoniales aportados por los accionistas para llevar a cabo las actividades del banco. Esto significa, entre otros aspectos, que debe existir una concordancia entre el nivel de capital que debe ser mantenido, en un contexto de mediano y largo plazo, y la gestión llevada a cabo por la administración para optimizar el uso de los recursos. Esa concordancia entre el nivel de capital y la gestión se ve plasmada en la estrategia de negocios que aborda y los riesgos que asume, en particular frente a escenarios de estrés. En suma, los niveles de patrimonio, así como su composición entre capital primario y secundario (capital básico y patrimonio efectivo) también deben obedecer a un análisis de sus necesidades en un contexto de mediano y largo plazo, lo cual, en definitiva, debiera quedar manifestado en la planificación de sus actividades.
 
 4.2. Oportunidad de la clasificación de solvencia.
 
@@ -1492,7 +1532,7 @@ Dado que los niveles de solvencia son conocidos mensualmente, en caso de que en 
 
 En esa comunicación se dejará constancia de la categoría que por la clasificación de gestión y solvencia le corresponde al banco de acuerdo con las reglas mencionadas en el N° 1 de este título, considerando el cambio en el nivel de solvencia a que se refiere este numeral.
 
-### II. EVALUACION de la GESTION de los BANCOS
+### II. EVALUACION DE LA GESTION DE LOS BANCOS
 
 1. Orientación general de la evaluación de la gestión según lo previsto en la ley.
 
@@ -1500,7 +1540,7 @@ De acuerdo con lo establecido en el artículo 62 de la Ley General de Bancos, la
 
 De lo indicado se desprende que la evaluación de esta Superintendencia debe apuntar al examen de las debilidades que perturban o pueden perturbar la solidez o estabilidad de los bancos en el corto o largo plazo.
 
-En ese contexto, el enfoque de esta Superintendencia para esa evaluación, no puede sino concordar con principios de sana administración para el resguardo de la estabilidad o buena marcha de la empresa, debiendo esperar que cada entidad evaluada gestione eficazmente todos los riesgos importantes que a sume o enfrenta en su caso, y que sus objetivos y planes estratégicos se basen en apreciaciones debidamente fundamentadas de su entorno y recursos.
+En ese contexto, el enfoque de esta Superintendencia para esa evaluación, no puede sino concordar con principios de sana administración para el resguardo de la estabilidad o buena marcha de la empresa, donde el Directorio y la alta administración de cada entidad evaluada velen por una gestión eficaz de todos los riesgos importantes que asume o enfrenta en su caso, y que sus objetivos y planes estratégicos se basen en apreciaciones debidamente fundamentadas de su entorno y recursos.
 
 Junto con lo anterior, este Organismo también considerará como factores esenciales para la clasificación, la adhesión a la normativa por parte del banco evaluado y el debido cumplimiento de los compromisos que haya asumido con esta Superintendencia y con otros organismos reguladores en lo que corresponda.
 
@@ -1516,51 +1556,129 @@ Respecto a las demás opiniones independientes que provengan de un examen de asp
 
 ### 3. Descripción del alcance de la evaluación
 
-En los numerales siguientes se describe brevemente la orientación de la evaluación, considerando para el efecto las siguientes agrupaciones de materias:
+El Directorio, en tanto órgano colegiado encargado de la administración del banco, tiene un rol preponderante respecto de cada una de las materias sujetas a la evaluación de esta Superintendencia y que se precisan en el numeral 3.2 siguiente, en los términos que se detallan a continuación:
 
-a) Administración del riesgo de crédito y gestión global del proceso de crédito.
+3.1. Gobierno corporativo y el rol del Directorio
 
-b) Gestión del riesgo financiero y operaciones de tesorería.
+Para efectos del presente Capítulo, se entenderá que el gobierno corporativo es el conjunto de instancias, directrices y prácticas institucionales que influyen en el proceso de toma de decisiones del banco, contribuyendo entre otras a la creación sustentable de valor, en un marco de transparencia y de una adecuada gestión y control de los riesgos.
 
-c) Administración del riesgo operacional.
+El Directorio es el principal articulador de su gobierno corporativo y de una gestión prudente de los riesgos que enfrenta la entidad. En ese contexto, resulta fundamental que la labor estratégica del Directorio, orientada a la fijación de políticas y evaluación de su cumplimiento, se mantenga separada de las funciones propias de los gerentes u otras instancias en las que delega su implementación definitiva.
 
-d) Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
+Respecto de las instituciones bancarias que no mantengan Directorio en Chile, como sucede con las sucursales de bancos extranjeros, el cumplimiento de los lineamientos constitutivos de un buen gobierno corporativo señalados en este Capítulo alcanza a las instancias que hagan sus veces en la sucursal o en la casa matriz, según corresponda a su estructura organizacional. En estos casos, los aspectos de buen gobierno corporativo se verifican a través de las políticas, prácticas y procedimientos determinados por la sociedad matriz a nivel global o regional, según corresponda.
 
-e) Administración de la estrategia de negocios y gestión del capital.
+3.1.1 Elementos de un buen gobierno corporativo.
 
-f) Gestión de la calidad de atención a los usuarios y transparencia de información.
+Las siguientes materias son consideradas inherentes a un buen gobierno corporativo y repercuten en una buena gestión de las materias que son objeto de evaluación, según lo indicado en el numeral 3.2 siguiente, por lo que serán vistas y ponderadas de acuerdo a las características propias de cada banco:
 
-g) Prevención del lavado de activos y del financiamiento del terrorismo.
+a) Establecimiento de objetivos estratégicos, valores corporativos, líneas de responsabilidad, monitoreo y rendición de cuentas.
 
-h) Gestión de la función de auditoría interna y rol del comité de auditoría.
+Esta Superintendencia considera que el Directorio, de acuerdo al mandato legal que establece su competencia, debe definir y aprobar tanto los objetivos como el plan estratégico de la institución, promoviendo una gestión del capital de mediano y largo plazo acorde con el perfil de riesgo que haya definido, considerando a su vez una debida protección a los intereses de los accionistas y del público en general.
 
-Las materias indicadas en las letras a), b),
+Para cumplir con tales responsabilidades, el Directorio debe ser capaz de establecer y sancionar los valores corporativos que identifican al banco y complementan sus objetivos estratégicos, considerando también las líneas de responsabilidad necesarias para asegurar su adecuada implementación.
 
-- **d)** se relacionan principalmente con el seguimiento oportuno de los riesgos. Las señaladas en las letras
+En la evaluación de las distintas dimensiones que abarcan las materias mencionadas, se considerarán situaciones como las que se describen a continuación:
 
-- **e)** y
+- La entidad mantiene políticas formalmente establecidas para la administración de los distintos riesgos que se tratan en el numeral 3.2 siguiente. Dichas políticas son aprobadas por el Directorio, procurando que sean consistentes con el plan estratégico y los valores institucionales.
 
-- **f)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia y finalmente aquellas mencionadas en las letras
+- Los valores corporativos están recogidos en un código o manual, que abordan aspectos tales como los principios institucionales, los imperativos de conducta para sus empleados, las reglas sobre posibles conflictos de interés y la manera como son prevenidos y solucionados, entre otros.
 
-- **g)** y
+- La implementación del plan estratégico y los valores corporativos es realizada por personal designado para dichos efectos, quienes a su vez informan y rinden cuenta al Directorio de manera periódica, con el objeto de monitorearlos y evaluar posibles cambios.
 
-- **h)** están relacionadas con el control interno, aun cuando este último aspecto también está inserto en aquellas materias incorporadas al seguimiento oportuno de riesgos. Respecto a los sistemas de información para toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
+- El Directorio establece líneas claras de responsabilidad, para asegurar que los objetivos estratégicos y valores corporativos sean divulgados mediante mecanismos formales, establecidos por él mismo o por la instancia a la cual delega tal responsabilidad, de manera de lograr su oportuno y cabal entendimiento y aplicación al interior de la institución.
 
-3.1. Administración del riesgo de crédito y gestión global del proceso de crédito.
+- Las actas levantadas en cada sesión del Directorio reflejan con claridad todos los asuntos tratados en cada reunión, tales como los acuerdos o compromisos tomados y el seguimiento de los mismos; los planes de acción y asignación de responsabilidades; así como el estado de avance de proyectos estratégicos, entre otros.
+
+- El Directorio cuenta con el apoyo de diversos comités, acordes a la naturaleza y complejidad de las actividades del Banco, en los que participan uno o más integrantes del mismo y que le permiten tratar y monitorear aspectos específicos de su competencia.
+
+b) Verificación del desempeño de la alta administración y cumplimiento con las políticas establecidas por el Directorio.
+
+Para fines del presente Capítulo se entenderá que la alta administración está conformada tanto por aquellos individuos a quienes el Directorio ha encargado la responsabilidad de implementar el plan estratégico de la entidad y las políticas para gestión de los riesgos de que trata este Título, como también aquellos que pueden comprometer al Banco para tales efectos, dadas sus atribuciones.
+
+La existencia de elementos como los que se describen a continuación, dan cuenta de que el Directorio verifica el cumplimiento de su mandato:
+
+- El Directorio cuenta con políticas previamente definidas relativas a la selección, evaluación, remoción y sucesión de las distintas instancias que conforman la alta administración, acordes con la naturaleza particular de las mismas, las que son ajustadas y revaluadas en el tiempo.
+
+- El Directorio procura el desarrollo de mecanismos formales para la evaluación de la alta administración, con el objeto de velar por la implementación y buen cumplimiento de sus políticas y decisiones. Para dicho fin el Directorio se informa periódicamente, en la oportunidad y a través de los medios que defina para tales efectos, de los resultados que generen dichos mecanismos.
+
+- El Directorio cuenta con mecanismos de autoevaluación periódica, que le permiten identificar oportunidades de mejoramiento en su propia gestión.
+
+- Existe una clara designación de responsabilidades y segregación de funciones al interior de la entidad, que permite una adecuada contraposición de intereses.
+
+- Se promueve una cultura de rendición de cuentas, a través de canales que son conocidos y aprobados por el Directorio para tales efectos. Dichos canales permiten el flujo y respaldo de la información, de manera segura y fidedigna.
+
+- Los sistemas de información habilitados para transparentar el funcionamiento de la entidad, especialmente en lo que respecta a la gestión de riesgos y la efectividad de sus mecanismos de control, consideran la presentación completa, periódica y oportuna de informes al Directorio.
+
+c) Promoción de controles internos sólidos y de una auditoría efectiva.
+
+Para garantizar una gestión prudente de la institución y de los riesgos sujetos a esta evaluación, el Directorio debe impulsar el establecimiento de procedimientos y sistemas de control interno, acordes con la naturaleza de las actividades desarrolladas por el banco y la complejidad de la estructura organizacional que las sustenta.
+
+Para que la función de auditoría interna se desarrolle eficazmente y con la debida independencia, es indispensable que el compromiso del Directorio se plasme a través de la entrega de un marco de acción general, la definición de una estructura jerárquica adecuada y de una apropiada validación, tanto de las observaciones levantadas como de las acciones propuestas para superarlas.
+
+Dicho nivel de compromiso también debe manifestarse a través del Comité de Auditoría, instancia responsable de entregar apoyo al Directorio en la evaluación constante de la calidad de los sistemas de control interno, el reforzamiento de la función de auditoría interna y la vinculación y coordinación con los auditores externos.
+
+A continuación se describen algunos elementos que entregan indicios de una buena gestión y un adecuado involucramiento del Directorio en las materias antes descritas:
+
+- El Directorio ha definido y utiliza indicadores de gestión, que le permiten hacer seguimiento de los asuntos claves de la institución, en ámbitos tales como el financiero, operacional, regulatorio y de capital humano.
+
+- El Directorio del banco ha definido formalmente lo que constituye el rol de la función de auditoría interna, explicitando sus objetivos y alcances, su posición dentro de la entidad, su organización, atribuciones, responsabilidades y relaciones con otras áreas de control. En este contexto, el Directorio promueve la suficiencia y calidad de los recursos materiales y humanos disponibles para ejercer su función.
+
+- El Directorio de la entidad aprueba el plan de auditoría anual y recibe información periódica sobre su grado de cumplimiento.
+
+d) Mecanismo de divulgación de información
+
+La disponibilidad de información completa, fidedigna y oportuna es una condición indispensable para la adecuada gestión del banco, por lo que el Directorio debe establecer los contenidos mínimos que considere adecuados y tomar las medidas que estime necesarias para su divulgación en las instancias pertinentes, tanto al interior como exterior de la entidad, ejerciendo el control de su cumplimiento.
+
+Parte de la información a divulgar deberá comprender aspectos de interés público, tales como los definidos en el Título V del Capítulo 1-4 de esta Recopilación, que permitan a los accionistas y a las demás partes interesadas tener un conocimiento adecuado de la entidad, de sus políticas y de los principios que la rigen, definidos por el mismo Directorio.
+
+3.2. Administración y control de los riesgos y otras materias sujetas a evaluación.
+
+En los literales siguientes se describe brevemente la orientación de la evaluación, considerando para el efecto las siguientes agrupaciones de materias:
+
+A) Administración del riesgo de crédito y gestión global del proceso de crédito.
+
+B) Gestión del riesgo financiero y operaciones de tesorería.
+
+C) Administración del riesgo operacional.
+
+D) Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
+
+E) Administración de la estrategia de negocios y gestión del capital.
+
+F) Gestión de la calidad de atención a los usuarios y transparencia de información.
+
+G) Prevención del lavado de activos y del financiamiento del terrorismo.
+
+H) Gestión de la función de auditoría interna y rol del comité de auditoría.
+
+Las materias indicadas en las letras A), B),
+
+- **C)** y
+
+- **D)** se relacionan principalmente con el seguimiento oportuno de los riesgos. Las señaladas en las letras
+
+- **E)** y
+
+- **F)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia y finalmente aquellas mencionadas en las letras
+
+- **G)** y
+
+- **H)** están relacionadas con el control interno, aun cuando este último aspecto también está inserto en aquellas materias incorporadas al seguimiento oportuno de riesgos. Respecto a los sistemas de información para toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
+
+A) Administración del riesgo de crédito y gestión global del proceso de crédito.
 
 La evaluación comprende el examen de la gestión del riesgo de crédito y de los factores de riesgo del proceso de crédito, que va desde la definición del mercado objetivo hasta la recuperación de los préstamos.
 
-En la evaluación interesa, en primer lugar, la compatibilidad entre las políticas y procedimientos establecidos por la entidad, con respecto al volumen y complejidad de sus operaciones y su estrategia comercial. Junto con ello, se examinará la manera en que se han establecido las políticas y la forma en que la dirección de la empresa participa en su aprobación y supervisa su cumplimiento, como asimismo la calidad y efectividad de los controles orientados a asegurar el cumplimiento de las políticas y procedimientos inherentes a las colocaciones.
+En la evaluación interesa, en primer lugar, la compatibilidad entre las políticas y procedimientos establecidos por la entidad, con respecto al volumen y complejidad de sus operaciones y su estrategia comercial. Junto con ello, se examinará la manera en que se han establecido las políticas y la forma en que el Directorio participa en su aprobación y supervisa su cumplimiento, como asimismo la calidad y efectividad de los controles orientados a asegurar el cumplimiento de las políticas y procedimientos inherentes a las colocaciones.
 
 Serán también materia de examen la suficiencia y eficacia de las segregaciones funcionales, especialmente las que deben existir entre las áreas comerciales y aquellas encargadas de la función de administración del riesgo y de auditoría interna. En esto es esencial, por una parte, que la administración del riesgo de crédito sea una contraparte efectiva de las áreas tomadoras de riesgo y, por otra, que la posición independiente de la función de auditoría interna permita una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
-En lo que toca a la administración del riesgo de crédito, se evaluarán los mecanismos y técnicas de detección, acotamiento y reconocimiento oportuno de los riesgos que a sume la entidad en el desarrollo de sus actividades de crédito. En este ámbito, es clave la capacidad de la entidad para mantener permanentemente bien clasificada su cartera, su dominio sobre los factores de riesgo asociados a sus operaciones y su disposición para reconocer en forma oportuna en sus resultados los riesgos individuales de crédito a que está expuesta, como también su capacidad para limitar los riesgos de concentración de la cartera en general.
+En lo que toca a la administración del riesgo de crédito, se evaluarán los mecanismos y técnicas de detección, acotamiento y reconocimiento oportuno de los riesgos que asume la entidad en el desarrollo de sus actividades de crédito. En este ámbito, es clave la capacidad de la entidad para mantener permanentemente bien clasificada su cartera, su dominio sobre los factores de riesgo asociados a sus operaciones y su disposición para reconocer en forma oportuna en sus resultados los riesgos individuales de crédito a que está expuesta, como también su capacidad para limitar los riesgos de concentración de la cartera en general.
 
-Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago incluyendo la adecuada administración de su cuenta corriente en el banco, como a sus condiciones financieras generales.
+Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago, incluyendo la adecuada administración de su cuenta corriente en el banco, como a sus condiciones financieras generales.
 
 En relación con lo descrito precedentemente, una buena gestión puede manifestarse, por ejemplo, en circunstancias tales como:
 
-- La entidad mantiene políticas para la administración de los riesgos aprobadas por el directorio o la administración superior, que atienden la importancia de los riesgos considerando el volumen y complejidad de las operaciones, las proyecciones de crecimiento y el desarrollo de nuevos negocios.
+- La entidad mantiene políticas para la administración de los riesgos aprobadas por el Directorio, que atienden la importancia de los riesgos considerando el volumen y complejidad de las operaciones, las proyecciones de crecimiento y el desarrollo de nuevos negocios.
 
 - Las políticas aprobadas para la administración de los riesgos consideran especialmente la identificación, cuantificación, limitación y control de las grandes exposiciones en clientes, grupos o sectores económicos.
 
@@ -1578,55 +1696,57 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 
 - Las auditorías internas cubren con una adecuada identificación, cuantificación y priorización, los distintos riesgos relacionados con las colocaciones.
 
-- La entidad mantiene sanas prácticas de administración financiera que comprenden la plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
+- La entidad mantiene sanas prácticas de administración financiera que comprenden a plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
 
-3.2. Gestión del riesgo financiero y operaciones de tesorería.
+B) Gestión del riesgo financiero y operaciones de tesorería.
 
 La evaluación comprende el manejo de los riesgos de liquidez y precios (tasas de interés y tipos de cambio) y la gestión de las operaciones de tesorería financiera en general. El examen se centra en los elementos claves que aseguran una adecuada identificación, cuantificación, limitación y control de los riesgos.
 
-En esta materia es particularmente importante el alcance de las políticas y la compenetración del directorio y de la administración superior en la aprobación de las mismas y en los riesgos asociados a nuevos productos u operaciones; la eficacia de los límites que acotan los riesgos en relación con la filosofía general de riesgo del banco y su situación financiera general; la forma en que la entidad está organizada para abordar integralmente la administración del riesgo financiero; la efectividad de los sistemas de vigilancia y de los métodos de ingeniería financiera utilizados; y, la fortaleza de los controles operativos.
+En esta materia es particularmente importante el alcance de las políticas y la compenetración del Directorio en la aprobación de las mismas y en los riesgos asociados a nuevos productos u operaciones; la eficacia de los límites que acotan los riesgos en relación con la filosofía general de riesgo del banco y su situación financiera general; la forma en que la entidad está organizada para abordar integralmente la administración del riesgo financiero; la efectividad de los sistemas de vigilancia y de los métodos de ingeniería financiera utilizados; y, la fortaleza de los controles operativos.
 
 De la evaluación merecen destacarse las actividades dirigidas a examinar: la eficacia de la separación funcional entre las áreas tomadoras de riesgo, de seguimiento o control y de operación, lo cual constituye un factor crítico de control; la compatibilidad entre las técnicas de administración de riesgo utilizadas y el nivel y complejidad de las operaciones que realiza el banco; la calidad de la información tanto estratégica como operativa; y, la efectividad de las auditorías internas.
 
 A efectos ilustrativos, una buena gestión en relación con esta materia puede manifestarse en situaciones tales como:
 
-- Los riesgos de las posiciones y negocios individualmente considerados, como asimismo el riesgo consolidado del banco, están acotados por límites aprobados por el directorio o la administración superior, compatibles con las actividades, estrategias y objetivos de la empresa. Tanto para la aprobación de dichos límites como de las políticas que, en general, condicionan las operaciones de tesorería, al igual que para el seguimiento posterior de su cumplimiento y eficacia, el directorio y la administración superior cuentan con la información necesaria para apreciar cabalmente la sustentación y los riesgos a que está expuesta la institución.
+- Los riesgos de las posiciones y negocios individualmente considerados, como asimismo el riesgo consolidado del banco, están acotados por límites aprobados por el Directorio, compatibles con las actividades, estrategias y objetivos de la empresa. Tanto para la aprobación de dichos límites como de las políticas que, en general, condicionan las operaciones de tesorería, al igual que para el seguimiento posterior de su cumplimiento y eficacia, el Directorio cuenta con la información necesaria para apreciar cabalmente la sustentación y los riesgos a que está expuesta la institución.
 
-- La empresa está organizada para manejar los riesgos financieros en forma integral. La planificación, administración y control constituyen procesos asentados en los distintos niveles de la organización.
+- La empresa está organizada para manejar los riesgos financieros en forma integral. La planificación, administración y control constituyen procesos asentados en los distintos niveles de la organización; y la alta administración cuenta con la información necesaria para la evaluación periódica de los mismos.
 
-- La responsabilidad de la administración de activos y pasivos está a cargo de un comité o personas cuya función permite acotar el riesgo a niveles razonables, manteniendo políticas y estrategias financieras consecuentes con los lineamientos de exposición al riesgo establecidos por la alta administración y con las estrategias comerciales del banco.
+- La responsabilidad de la administración de activos y pasivos depende de alguna de las instancias que conforman la alta administración, cuya función permite acotar el riesgo a niveles razonables, manteniendo políticas y estrategias financieras consecuentes con los lineamientos de exposición al riesgo sancionados por el Directorio y con las estrategias comerciales del banco.
 
 - Los nuevos productos, en forma previa a su lanzamiento, son sometidos a un riguroso análisis de los riesgos involucrados.
 
-- La evaluación y control de los riesgos se desarrolla con suficiente independencia de las áreas tomadoras de riesgo, contándose con personal especializado y soportes acordes con el alcance, tamaño y complejidad de las actividades del banco y con los riesgos que ésta a sume.
+- La evaluación y control de los riesgos se desarrolla con suficiente independencia de las áreas tomadoras de riesgo, contándose con personal especializado y soportes acordes con el alcance, tamaño y complejidad de las actividades del banco y con los riesgos que ésta asume.
 
 - Las responsabilidades y atribuciones se encuentran claramente definidas, existiendo asignaciones de responsabilidades y niveles jerárquicos apropiados para las funciones claves de negociación, operación y control.
 
 - El sistema de información para la toma de decisiones provee información oportuna y confiable para cautelar la exposición a los riesgos financieros. La información cubre apropiadamente los riesgos financieros y las diversas operaciones de tesorería, permitiendo a los usuarios tomar decisiones bien fundadas en relación con las posiciones y la gestión financiera.
 
-- El banco cuenta con mecanismos para una adecuada identificación, cuantificación y limitación de los riesgos de liquidez y precio, acordes con el grado de refinamiento y complejidad de las transacciones y la naturaleza de los riesgos a sumidos. Utiliza herramientas de ingeniería financiera compatibles con los riesgos que a sume y mantiene procedimientos adecuados para enfrentar contingencias.
+- El banco cuenta con mecanismos para una adecuada identificación, cuantificación y limitación de los riesgos de liquidez y precio, acordes con el grado de refinamiento y complejidad de las transacciones y la naturaleza de los riesgos asumidos. Utiliza herramientas de ingeniería financiera compatibles con los riesgos que asume y mantiene procedimientos adecuados para enfrentar contingencias.
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar el cumplimiento de las políticas, la eficacia de los procedimientos (de operación, control de riesgos, contables y legales) y los sistemas de información.
 
-En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Central de Chile en el numeral 1.1 del Capítulo III.B.2 de su Compendio de Normas Financieras, debe entenderse que la política de administración de liquidez concuerda con los criterios de evaluación de esta Superintendencia, cuando esa política se ciña a lo indicado en el anexo N° 2 del presente Capítulo. Asimismo, en relación con lo dispuesto en el numeral 2.2 del mencionado Capítulo III.B.2, se entenderá que la política de administración de riesgos de mercado cumple con los criterios mínimos exigidos, cuando dicha política considere todos los aspectos señalados en el anexo N° 3 de las presentes normas.
+En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Central de Chile en el numeral 1.1 del Capítulo III.B.2 de su Compendio de Normas Financieras, debe entenderse que la política de administración de liquidez concuerda con los criterios de evaluación de esta Superintendencia, cuando esa política se ciña a lo indicado en el Anexo N° 2 del presente Capítulo. Asimismo, en relación con lo dispuesto en el numeral 2.2 del mencionado Capítulo III.B.2, se entenderá que la política de administración de riesgos de mercado cumple con los criterios mínimos exigidos, cuando dicha política considere todos los aspectos señalados en el Anexo N° 3 de las presentes normas.
 
-3.3. Administración del riesgo operacional.
+C) Administración del riesgo operacional.
 
 Esta Superintendencia considera como marco referencial, la definición de riesgo operacional propuesta por el Comité de Basilea. Por lo tanto, se entenderá como tal el riesgo de pérdidas resultantes de una falta de adecuación o de una falla de los procesos, del personal y de los sistemas internos o bien por causa de acontecimientos externos.
 
-En este contexto resultará de interés para la evaluación que sobre el referido riesgo hará la Superintendencia, el rol asumido por el directorio y la alta administración y la aprobación que han dado a la estrategia a utilizar en su administración, entendiendo este riesgo como de una categoría distinta de los riesgos bancarios tradicionales. Dicha estrategia, atendida la importancia relativa y el volumen de operaciones de la entidad, debe contemplar una definición clara de lo que considerará como riesgo operacional y establecer los principios para su identificación, evaluación, control y mitigación. En este sentido, si la exposición al riesgo es significativa, cobra relevancia la existencia de definiciones precisas de lo que se entenderá por pérdidas operacionales, ya sean esperadas o inesperadas, por cuanto los tratamientos de mitigación son diferentes en uno y otro caso.
+En este contexto resultará de interés para la evaluación que sobre el referido riesgo hará la Superintendencia, el rol asumido por el Directorio y la aprobación que han dado a la estrategia a utilizar en su administración, entendiendo este riesgo como de una categoría distinta de los riesgos bancarios tradicionales.
 
-En la evaluación que hará este Organismo, interesa observar la compatibilidad entre las políticas y procedimientos establecidos por la entidad, con respecto al volumen, sofisticación y naturaleza de sus actividades. Asimismo, se examinará la manera en que se han establecido las políticas y la forma en que la dirección de la empresa participa en su aprobación y supervisa su cumplimiento.
+Dicha estrategia, atendida la importancia relativa y el volumen de operaciones de la entidad, debe contemplar una definición clara de lo que considerará como riesgo operacional y establecer los principios para su identificación, evaluación, control y mitigación. En este sentido, si la exposición al riesgo es significativa, cobra relevancia la existencia de definiciones precisas de lo que se entenderá por pérdidas operacionales, ya sean esperadas o inesperadas, por cuanto los tratamientos de mitigación son diferentes en uno y otro caso.
+
+En la evaluación que hará este Organismo, interesa observar la compatibilidad entre las políticas y procedimientos aprobados por el Directorio, con respecto al volumen, sofisticación y naturaleza de sus actividades. Asimismo, se examinará la manera en que se han establecido las políticas y la forma en que el Directorio de la empresa participa en su aprobación y supervisa su cumplimiento.
 
 Será también materia de examen comprobar si la posición independiente de la función de auditoría interna permite una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
 En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos tales como:
 
-- El banco tiene una definición de lo que entiende por riesgo operacional y lo ha reconocido como un riesgo gestionable. Especial importancia tendrá la existencia de una función encargada de la administración de este tipo de riesgo.
+- El Directorio procura el establecimiento de una definición de riesgo operacional y lo reconoce como un riesgo gestionable. Especial importancia tendrá la existencia de una función encargada de la administración de este tipo de riesgo.
 
-- La entidad mantiene políticas para la administración de los riesgos operacionales aprobadas por el directorio o la administración superior, que atienden la importancia relativa de los riesgos operacionales considerando el volumen y complejidad de las operaciones.
+- La entidad mantiene políticas para la administración de los riesgos operacionales aprobadas por el Directorio, que atienden la importancia relativa de los riesgos operacionales considerando el volumen y complejidad de las operaciones.
 
-- La estrategia de administración del riesgo operacional definida por el banco, es consistente con el volumen y complejidad de sus actividades y considera el nivel de tolerancia al riesgo del banco, incluyendo líneas específicas de responsabilidad. Esta estrategia ha sido implementada a través de toda la organización bancada, y todos los niveles del personal asumen y comprenden sus responsabilidades respecto a la administración de este riesgo.
+- La estrategia de administración del riesgo operacional definida por el banco, es consistente con el volumen y complejidad de sus actividades y considera el nivel de tolerancia al riesgo del banco, incluyendo líneas específicas de responsabilidad. Esta estrategia ha sido implementada a través de toda la organización bancaria, y todos los niveles del personal asumen y comprenden sus responsabilidades respecto a la administración de este riesgo.
 
 - La entidad administra los riesgos operacionales considerando los impactos que pudieran provocar en el banco (severidad de la pérdida) y la probabilidad de ocurrencia de los eventos.
 
@@ -1636,7 +1756,7 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - El banco es capaz de cuantificar los impactos de las pérdidas asociadas al riesgo operacional y constituir prudencialmente los resguardos necesarios.
 
-- Los sistemas de información permiten hacer un monitoreo continuo de la exposición a los riesgos operacionales. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones de la alta administración y directorio.
+- Los sistemas de información permiten hacer un monitoreo continuo de la exposición a los riesgos operacionales. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones, de acuerdo a las necesidades propias de las distintas instancias organizacionales.
 
 - El banco cuenta con políticas para administrar los riesgos asociados a las actividades entregadas a terceras partes y lleva a cabo verificaciones y monitoreos a las actividades de dichas partes.
 
@@ -1648,21 +1768,21 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - El banco considera en sus planes de continuidad del negocio y contingencia, diversos escenarios y supuestos que pudieran impedir que cumpla toda o parte de sus obligaciones y en ese sentido ha desarrollado una metodología formal que considera en sus etapas, la evaluación de impacto y criticidad de sus servicios y productos, la definición de estrategias de prevención, contención y recuperación, así como pruebas periódicas de tales estrategias.
 
-- El banco ha implementado un proceso para controlar permanentemente la incorporación de nuevas políticas, procesos y procedimientos, que permiten detectar y corregir sus eventuales deficiencias de manera de reducir la frecuencia y severidad de los eventos de pérdida. Asimismo, la entidad emite reportes con la información pertinente a la alta administración y directores.
+- El banco ha implementado un proceso para controlar permanentemente la incorporación de nuevas políticas, procesos y procedimientos, que permiten detectar y corregir sus eventuales deficiencias de manera de reducir la frecuencia y severidad de los eventos de pérdida. Asimismo, el Directorio y la alta administración reciben reportes periódicos, con la información pertinente al rol que desempeñan.
 
 - La entidad bancaria ha adoptado una estrategia y sistema de gestión de calidad respecto de sus productos, servicios, e información que suministra a sus clientes, reguladores y a otros entes.
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar en forma independiente el cumplimiento de las políticas, la eficacia de los procedimientos y los sistemas de información.
 
-3.4. Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
+D) Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
 
-La evaluación abarcará el control sobre las sucursales en el exterior, filiales y sociedades de apoyo al giro, ubicadas en el país o en el extranjero. Por otra parte, también incluye la gestión global de las operaciones de crédito hacia el exterior, las inversiones minoritarias en sociedades y las transacciones efectuadas en el extranjero, en general
+La evaluación abarcará el control sobre las sucursales en el exterior, filiales y sociedades de apoyo al giro, ubicadas en el país o en el extranjero. Por otra parte, también incluye la gestión global de las operaciones de crédito hacia el exterior, las inversiones minoritarias en sociedades y las transacciones efectuadas en el extranjero, en general.
 
 En lo que se refiere a la presencia de sucursales en el exterior, filiales y sociedades de apoyo al giro, interesa la suficiencia y efectividad del control ejercido por la matriz. Al respecto se espera un control permanente de las entidades, acorde con las peculiaridades del entorno en que ellas se desenvuelven y su grado de autonomía, que permita el seguimiento de su marcha y una reacción oportuna frente a factores perturbadores.
 
 En la evaluación de la gestión global de los préstamos y operaciones en el exterior, incluidas aquellas efectuadas desde el exterior con terceros países, constituye un elemento clave el dominio que tiene el banco sobre el riesgo-país (riesgo soberano y de transferencia), y que pasa por un análisis permanente de la situación de los países en que compromete sus recursos y la fijación de límites en relación con la concentración de cartera en cada país.
 
-Con respecto al riesgo de crédito, el enfoque de la evaluación no difiere del mencionado en el numeral 3.1 de este título. Por lo mismo, interesa particularmente la suficiencia de la información relativa a los deudores y al comportamiento de su entorno, y los criterios para la fijación de límites de crédito que atiendan a las características de los deudores y tipo de financiamiento.
+Con respecto al riesgo de crédito, el enfoque de la evaluación no difiere del mencionado en la letra A) de este numeral 3.2. Por lo mismo, interesa particularmente la suficiencia de la información relativa a los deudores y al comportamiento de su entorno, y los criterios para la fijación de límites de crédito que atiendan a las características de los deudores y tipo de financiamiento.
 
 Por otra parte, dado que en las operaciones con el exterior adquiere una relevancia especial el manejo del riesgo legal, merece destacarse también el examen de los procedimientos que permiten operar con un conocimiento fundado y oportuno de los efectos contractuales.
 
@@ -1670,7 +1790,7 @@ Al igual que en las otras materias antes descritas, la evaluación apunta asimis
 
 Una gestión óptima en relación con lo señalado en este numeral, la mostrarían, por ejemplo, situaciones globales como las siguientes:
 
-- El Directorio ejerce una supervisión efectiva sobre la administración para asegurar que el banco maneja los riesgos de sus inversiones y operaciones internacionales en forma sana y segura.
+- El Directorio ejerce una supervisión efectiva sobre la alta administración, para asegurar que el banco maneja los riesgos de sus inversiones y operaciones internacionales en forma sana y segura.
 
 - Las sucursales en el exterior, las filiales y sociedades de apoyo al giro en el país y en el extranjero, están sujetas a un control permanente y con medios que permiten tomar las medidas correctivas oportunas en caso de ser necesario, tanto en lo que se refiere a la marcha de los negocios, riesgos (patrimoniales y de reputación), rentabilidad y compromisos de capital, como en lo que se refiere a la verificación del cumplimiento de directrices o políticas de la matriz y, particularmente, para el caso de sucursales en el exterior del cumplimiento de las regulaciones de los países anfitriones.
 
@@ -1680,7 +1800,7 @@ Una gestión óptima en relación con lo señalado en este numeral, la mostrarí
 
 - En el caso de las filiales, el banco ha establecido mecanismos que le permiten asegurarse de que las políticas relativas a riesgos, son consistentes con sus propias políticas. Asimismo, puede obtener mediciones consolidadas de los riesgos más relevantes, utilizando metodologías adecuadas a la escala y complejidad de los negocios llevados a cabo.
 
-3.5. Administración de la estrategia de negocios y gestión del capital.
+E) Administración de la estrategia de negocios y gestión del capital.
 
 La evaluación comprende el proceso global de diseño, formulación y seguimiento de la estrategia de negocios como también la elaboración y control de los planes desarrollados por el banco.
 
@@ -1692,13 +1812,13 @@ En este sentido, se examinará si el proceso de planificación tiene en cuenta e
 
 Una buena gestión en relación con lo descrito puede manifestarse en lo siguiente:
 
-- El Directorio y la alta administración comprenden la naturaleza y el nivel del riesgo asumido por el banco y la forma en que este riesgo se corresponde con niveles de capital suficientes y sus planes de negocios. En este sentido, el Directorio y la alta administración contemplan la planificación del capital como un elemento fundamental para la definición, implementación y logro de los objetivos estratégicos.
+- El Directorio comprende la naturaleza y el nivel del riesgo asumido por el banco y la forma en que este riesgo se corresponde con niveles de capital suficientes y con sus planes de negocios. En este sentido, el Directorio contempla la planificación del capital como un elemento fundamental para la definición, implementación y logro de los objetivos estratégicos.
 
 - El análisis de los requerimientos de capital y los riesgos, son parte integral del proceso de formulación de la estrategia de negocios. En efecto, dicha estrategia recoge con claridad las necesidades de capital del banco y sus fundamentos, los aportes de capital previstos, el nivel y composición de capital deseable y las fuentes externas de capital, como también el nivel y perfil de riesgo proyectado para las distintas líneas de negocios.
 
 - El banco realiza análisis permanentes del entorno económico y de sus condiciones internas, así como de su posición comparativa en el mercado, que le permiten mantener una estrategia bien fundada y sostenible.
 
-- La estrategia de negocios ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitida a los niveles pertinentes. Los niveles superiores manifiestan su plena concordancia respecto a la orientación, ejecución y a su concreción.
+- La estrategia de negocios ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitida a los niveles pertinentes. El Directorio manifiesta su plena concordancia respecto a la orientación, ejecución y a su concreción.
 
 - La entidad cuenta con sistemas de información que permiten una supervisión efectiva sobre el cumplimiento de los planes de negocios, la naturaleza y cuantía de los riesgos, como también respecto de la adecuación de capital económico y regulatorio.
 
@@ -1706,7 +1826,7 @@ Una buena gestión en relación con lo descrito puede manifestarse en lo siguien
 
 - El banco ha establecido metas, plazos y responsables del cumplimiento de los planes de negocios y se han asignado los recursos necesarios para ello.
 
-3.6. Gestión de la calidad de atención a los usuarios y transparencia de información.
+F) Gestión de la calidad de atención a los usuarios y transparencia de información.
 
 La buena calidad en la atención de los clientes así como la calidad de la información que les es divulgada, constituyen aspectos importantes de la imagen que los bancos proyectan y, por cierto, son concordantes con una adecuada gestión de la entidad.
 
@@ -1724,13 +1844,13 @@ A modo de ejemplo, revelan una buena gestión sobre la materia, los siguientes a
 
 - La existencia de informes de gestión que permitan identificar los tipos de reclamos, consultas y solicitudes, los productos involucrados en las presentaciones, los canales de recepción y el cumplimiento de estándares de respuesta, los que periódicamente deben ser dados a conocer al Directorio o a quién haga sus veces.
 
--La participación de un comité o instancia de alto nivel en la aprobación de políticas y procedimientos, estándares de calidad, resolución de controversias y promoción de acciones correctivas, entre otros.
+- La participación del Directorio en la aprobación de políticas y procedimientos; y de alguna de las instancias de la alta administración, en la definición de estándares de calidad, resolución de controversias y promoción de acciones correctivas.
 
--La adecuada divulgación, cuando corresponda, de las políticas, procedimientos y estándares de calidad hacia las filiales y sociedades de apoyo del banco, y su posterior control.
+- La adecuada divulgación, cuando corresponda, de las políticas, procedimientos y estándares de calidad hacia las filiales y sociedades de apoyo del banco, y su posterior control.
 
--La presencia de la función de auditoría interna en la revisión del proceso de atención de clientes y administración de reclamos.
+- La presencia de la función de auditoría interna en la revisión del proceso de atención de clientes y administración de reclamos.
 
-3.7. Prevención del lavado de activos y del financiamiento del terrorismo.
+G) Prevención del lavado de activos y del financiamiento del terrorismo.
 
 La evaluación comprende un análisis del rol que desempeña el Directorio sobre las actividades de prevención de lavado de activos y del financiamiento del terrorismo, así como también la existencia de un marco de políticas y procedimientos, los que deben ser acordes al tamaño y complejidad de las operaciones del banco y sus filiales.
 
@@ -1758,29 +1878,19 @@ En este sentido, revelan una buena gestión, por ejemplo, situaciones o hechos c
 
 - La función de auditoría realiza actividades periódicas e independientes de aquellas desarrolladas por el oficial de cumplimiento, con el objeto de verificar la adherencia a las políticas y procedimientos del banco para la detección y seguimiento de esas operaciones ilícitas. Su rol también comprende el análisis de las políticas y procedimientos, los sistemas de control, los planes de capacitación del personal, entre otros.
 
-3.8. Gestión de la función de auditoría interna y rol del comité de auditoría.
-
-Dentro de los aspectos fundamentales de un adecuado gobierno corporativo, se encuentran la función de auditoría y el rol que ejerce el comité de auditoría.
+H) Gestión de la función de auditoría interna y rol del comité de auditoría.
 
 La existencia de una sólida función de auditoría interna se caracteriza por entregar una opinión independiente respecto de la calidad de los sistemas de control interno y del cumplimiento de las políticas y procedimientos, de manera de identificar, medir y controlar razonablemente los riesgos presentes y potenciales que pueden existir.
 
-Para que la auditoría interna pueda cumplir eficazmente y con la debida independencia sus funciones, es indispensable el compromiso del Directorio y de la alta administración de la organización, a través de la entrega de un marco de acción general, de una estructura jerárquica adecuada y de la validación apropiada de las observaciones levantadas y de las acciones propuestas para superarlas.
-
-Dicho nivel de compromiso también debe manifestarse a través del comité de auditoría, instancia responsable de entregar apoyo al Directorio en la evaluación constante de la calidad de los sistemas de control interno, el reforzamiento de la función de auditoría interna y la vinculación y coordinación con los auditores externos.
-
 A continuación se describen algunos elementos que constituyen una buena gestión en relación al rol de la auditoría interna:
 
-- El Directorio del banco ha definido formalmente lo que constituye el rol de la función de auditoría interna, explicitando los objetivos y alcance de dicha función, su posición dentro de la entidad, su organización, atribuciones, responsabilidades y relaciones con otras áreas de control.
+- La función de auditoría, previamente definida por el Directorio, presenta independencia de las áreas que desarrollan la negociación, operación y control de los negocios, y cuenta con adecuados recursos humanos y tecnológicos para el logro de sus objetivos, en concordancia con el tamaño y complejidad de las operaciones del banco.
 
-- La función de auditoría presenta independencia de las áreas que desarrollan la negociación, operación y control de los negocios, y cuenta con adecuados recursos humanos y tecnológicos para el logro de sus objetivos, en concordancia con el tamaño y complejidad de las operaciones del banco.
-
-- Todos los procesos y áreas de mayor riesgo en el banco son examinados por la auditoría interna, al menos en forma anual. En este caso se espera que las otras materias comprendidas en el número 3 de este título, formen parte de la evaluación que debe efectuar el área de auditoría, en la medida que sean relevantes conforme al volumen de operaciones del banco y los riesgos asociados.
+- Todos los procesos y áreas de mayor riesgo en el banco son examinados por la auditoría interna, al menos en forma anual.
 
 - La función de auditoría posee un enfoque de carácter proactivo e integral, es decir, se incorporan en sus revisiones aspectos operativos, de riesgos y de gestión, entregando una opinión global de la unidad, producto o materia auditada.
 
-- Los informes de auditoría se distribuyen adecuadamente, de manera que tanto la gerencia general como el Directorio tienen conocimiento oportuno del alcance y los resultados de las auditorías. Los informes deben identificar claramente las causas y efectos de los problemas, de manera que la administración y el Directorio puedan dimensionar el nivel de exposición al riesgo, presente en las distintas unidades auditadas.
-
-- El Directorio de la entidad o el Comité de Auditoría en su defecto, aprueba el plan de auditoría anual y recibe información periódica sobre su grado de cumplimiento.
+- Los informes de auditoría se distribuyen adecuadamente, de manera que el Directorio tiene conocimiento oportuno del alcance y los resultados de los mismos. Los informes deben identificar claramente las causas y efectos de los problemas, de manera que se pueda dimensionar el nivel de exposición al riesgo, presente en las distintas unidades auditadas.
 
 - La función de auditoría cuenta con un sistema de seguimiento formal que permite controlar el cumplimiento de los compromisos adquiridos por las distintas áreas auditadas. Los informes de seguimiento son distribuidos a las mismas instancias a las que se informaron las observaciones.
 
@@ -1788,15 +1898,13 @@ A continuación se describen algunos elementos que constituyen una buena gestió
 
 - El área que ejerce las funciones de auditoría interna cuenta con programas de trabajo de las distintas materias que audita, los que deben tener un enfoque de riesgos.
 
-- El Comité de Auditoría, cumple apropiadamente con aquellas funciones de carácter permanente y no permanente establecidas en la normativa de la Superintendencia.
+- El Comité de Auditoría, cumple apropiadamente con aquellas funciones de carácter permanente y no permanente establecidas en el Capítulo 1-15 de esta Recopilación.
 
 ### 4. Metodología y resultado de evaluación
 
 La clasificación según gestión será fundamentada por este Organismo en la notificación mencionada en el numeral 3.2 del título I de este Capítulo. En dicha comunicación se darán a conocer los resultados de la evaluación, indicándose las debilidades que hayan sido determinantes en caso de calificarse en el nivel B o C. Esto no es óbice, claro está, para informar también acerca de aquellas deficiencias observadas que no hayan sido gravitantes para la clasificación, cualquiera sea el nivel de gestión en que el banco quede clasificado.
 
-Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen por si solo requisitos que deban cumplirse para una clasificación en el más alto nivel de gestión, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación.
-
-Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las materias señaladas en los numerales 3.1 al 3.8 del título II de este Capítulo, la Superintendencia utilizará la siguiente escala en la evaluación de las materias revisadas:
+Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen por si solo requisitos que deban cumplirse para una clasificación en el más alto nivel de gestión, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación. Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las materias señaladas en el numeral 3.2 precedente, la Superintendencia utilizará la siguiente escala en la evaluación de las materias revisadas:
 
 1 EN CUMPLIMIENTO TOTAL: La entidad cumple integralmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. No existen deficiencias apreciables.
 
@@ -1810,7 +1918,7 @@ Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las m
 
 Como se comprenderá, las diversas circunstancias que podrían incidir en una clasificación desfavorable de las materias auditadas no son susceptibles de traducirse a situaciones hipotéticas que caractericen el tipo y gravedad de deficiencias probables.
 
-Por consiguiente, en la información de este título no se entregan pautas acerca de lo que la administración superior de un banco debería hacer para evitar una calificación desfavorable. Por una parte, no procede que este Organismo establezca normas de administración interna con el propósito de clasificar a un banco en función de su cumplimiento y, por otra, una calificación favorable no podría asegurarse reaccionando frente a las posibles revisiones de esta Superintendencia.
+Por consiguiente, en la información de este título no se entregan pautas para evitar una calificación desfavorable. Por una parte, no procede que este Organismo establezca normas de administración interna con el propósito de clasificar a un banco en función de su cumplimiento y, por otra, una calificación favorable no podría asegurarse reaccionando frente a las posibles revisiones de esta Superintendencia.
 
 Conviene tener en cuenta, en todo caso, que desde la perspectiva de la gestión global de un banco, las debilidades que pudiere presentar en las materias que se han mencionado pueden reflejar indirectamente debilidades en la cultura de riesgo de la institución evaluada.
 
@@ -1820,19 +1928,19 @@ Si bien ese aspecto no se califica ni forma parte del fundamento de la clasifica
 
 Sin perjuicio de las revisiones que, de acuerdo a lo establecido en este Capítulo, realice esta Superintendencia, la administración del propio banco deberá analizar y pronunciarse, a lo menos una vez al año, acerca del desarrollo de su gestión.
 
-El resultado de esa evaluación deberá ser presentado al Directorio del banco. De dicha presentación, como asimismo de los acuerdos que éste adopte en relación con el desarrollo de la gestión, deberá quedar constancia en actas.
-
-El Directorio deberá conocer y pronunciarse sobre cada una de las materias señaladas en el N° 3 de este título, lo que no excluye que considere e incluya igualmente otros aspectos relacionados con la gestión de la empresa.
+El Directorio deberá conocer y pronunciarse sobre cada una de las materias señaladas en el numeral 3.2 de este título, lo que no excluye que considere e incluya igualmente otros aspectos relacionados con la gestión de la empresa.
 
 En el caso de las sucursales de bancos extranjeros, cuya gestión dependa de directivas de su Casa Matriz, el Gerente General o la autoridad máxima de la oficina en Chile, remitirá el resultado de la mencionada evaluación así como las eventuales medidas que proponga, a los auditores internos del banco y a la autoridad jerárquica que corresponda. Los acuerdos que al respecto adopten las mencionadas autoridades serán comunicados a la sucursal en Chile, la que deberá darlos a conocer a esta Superintendencia.
 
-Los bancos enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia de lacta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de septiembre de cada año. Para ese efecto, el informe se anexará, también en formato PDF "desprotegido", al acta que debe enviarse por a través de la Extranet de esta Superintendencia según lo indicado en el Capítulo 1-4 de esta Recopilación. Al tratarse de una reunión celebrada en el mes de septiembre, el plazo antes indicado podrá extenderse al establecido para el envío del acta respectiva.
+Los bancos enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia del acta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de septiembre de cada año. Para ese efecto, el informe se anexará, también en formato PDF "desprotegido", al acta que debe enviarse a través de la Extranet de esta Superintendencia según lo indicado en el Capítulo 1-4 de esta Recopilación. Al tratarse de una reunión celebrada en el mes de septiembre, el plazo antes indicado podrá extenderse al establecido para el envío del acta respectiva.
 
 Las sucursales de bancos extranjeros entregarán a esta Superintendencia, antes del 30 de septiembre de cada año, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
 
 ANEXO N° 1
 
-DEFINICIONES DE CATEGORIAS (Artículo 60 Ley General de Bancos)
+DEFINICIONES DE CATEGORIAS
+
+(Artículo 60 Ley General de Bancos)
 
 .
 
@@ -1866,7 +1974,7 @@ o Escenarios de crisis, sistémicas y del banco.
 
 - Mecanismos de alerta temprana.
 
-- criterios y supuestos utilizados en cada una de las mediciones.
+- Criterios y supuestos utilizados en cada una de las mediciones.
 
 - Actividades destinadas a reevaluar los criterios y supuestos incorporados en las mediciones.
 
@@ -1886,9 +1994,9 @@ o Escenarios de crisis, sistémicas y del banco.
 
 - Generación y mantención de las herramientas utilizadas en la medición de los riesgos.
 
-- Emisión de reportes a la alta administración.
+- Emisión de reportes al Directorio y la alta administración.
 
-- Declaración y administración de contingencias de liquidez.
+- Declaración y administración de contingencias de iliquidez.
 
 - Análisis del impacto en liquidez asociado al lanzamiento de nuevos productos.
 
@@ -1922,9 +2030,9 @@ La política de administración de riesgos de mercado debe cubrir, a lo menos, l
 
 o Modelos para cuantificación del riesgo de tasa de interés del libro de negociación.
 
-o Modelos para cuantificación del riesgo de tasa de interés del libro de banca.
+o Modelos para cuantificación del riesgo de tasa de interés del libro de banca,
 
-o Modelos para cuantificación del riesgo de moneda.
+o Modelos para cuantificación del riesgo de moneda,
 
 o Modelos para determinar riesgos de mercado en opciones.
 
@@ -2162,27 +2270,27 @@ Es del caso precisar que estos Comités cumplen una función distinta de la que 
 
 2.- Integración de los Comités de Auditoría.
 
-Los Comités de Auditoría deben estar integrados a lo menos por dos miembros del Directorio Los directores designados deben mantener las condiciones de independencia que se describen en el siguiente N° 3 de este Capítulo.
+Los Comités de Auditoría deben estar integrados a lo menos por dos miembros del Directorio, quienes deben mantener las condiciones de independencia que se describen en el N° 3 siguiente de este Capítulo.
 
-Además, es recomendable que participen en el Comité, el Gerente General, el Contralor o auditor interno de la empresa y el Fiscal o quien haga las veces de tal, sin perjuicio de otras personas que los miembros del mismo Comité inviten a participar en él. También participará en las reuniones a que sea convocado, un representante de la firma auditora que tenga la calidad de socio de ella. La presidencia del Comité estará a cargo de uno de los dos representantes del Directorio, quien tendrá la responsabilidad de informar a éste de los hechos, situaciones y resoluciones que se conozcan, traten o acuerden en sus reuniones.
+Además, es recomendable que participen en el Comité profesionales cuya formación y experiencia profesional sean acordes con las funciones que este desempeña, evitando que paralelamente ejerzan cargos de la alta administración del banco. También participará en las reuniones a que sea convocado, un representante de la firma auditora que tenga la calidad de socio de ella. La presidencia del Comité estará a cargo de uno de los dos representantes del Directorio, quien tendrá la responsabilidad de informar a éste de los hechos, situaciones y resoluciones que se conozcan, traten o acuerden en sus reuniones.
 
 Es aconsejable que por lo menos uno de los representantes del Directorio cuente con experiencia en los procedimientos contables y aspectos financieros de las operaciones bancarias, particularmente de los negocios de la empresa y el grado de riesgo de éstos.
 
-3.- Independencia de los representantes del Directorio en el Comité.
+3.- Independencia de los integrantes del Comité.
 
-Los representantes del Directorio que formen parte del Comité de Auditoría deben observar las condiciones de independencia que establezca el mismo Directorio de acuerdo con los criterios internacionales sobre la materia. En ese mismo sentido, dichos representantes deben abstenerse de desarrollar funciones gerenciales o administrativas en la institución y sus filiales, o de intervenir en ellas de manera que puedan cumplir su cometido con absoluta independencia e imparcialidad.
+Los Directores que formen parte del Comité de Auditoría deben observar las condiciones de independencia que establezca el mismo Directorio de acuerdo con los criterios internacionales sobre la materia. En ese mismo sentido, dichos representantes deben abstenerse de desarrollar funciones gerenciales o administrativas en la institución y sus filiales, o de intervenir en ellas de manera que puedan cumplir su cometido con absoluta independencia e imparcialidad.
 
-Estos miembros del Comité no deben participar de los ingresos o utilidades de la empresa más allá de los que correspondan a los emolumentos que perciban en su carácter de Directores y de los que el Directorio les pudiere fijar por su desempeño en el Comité de Auditoría.
+Por otra parte, los directores y al menos uno de los demás miembros del Comité, no deben participar de los ingresos o utilidades de la empresa más allá de los que correspondan a los emolumentos que perciban por el ejercicio de sus cargos y de los que el Directorio les pudiere fijar por su desempeño en el Comité de Auditoría.
 
-4.- Duración del mandato de los representantes del Directorio y participación de los auditores externos.
+4.- Periodo de participación de los representantes del Directorio e intervención de los auditores externos.
 
-El Directorio de la institución determinará la duración del mandato de sus representantes en el Comité, el que no podrá exceder del término del período para el cual fue elegido el Directorio. No obstante, los mismos representantes podrán continuar por nuevos períodos si son reelegidos como Directores de la institución, siempre que así lo acuerde el Directorio.
+El Directorio de la institución determinará el periodo que durará la participación de sus representantes en el Comité, el que no podrá exceder del término del período para el cual fue elegido el Directorio. No obstante, los mismos representantes podrán continuar por nuevos períodos si son reelegidos como Directores de la institución, siempre que así lo acuerde el Directorio.
 
 El socio representante de la firma auditora, que estará sujeto a todas las limitaciones que se establecen en las Circulares N°s. 1 y 2 para Auditores Externos, participará en las reuniones del Comité a que sea convocado o a las que él solicite asistir con el fin de dar cuenta de las situaciones, hechos o avances propios de su función de auditores externos de la empresa.
 
 5.- Instituciones que no mantengan Directorio en Chile.
 
-Las instituciones bancarias que no mantengan Directorio en Chile, como sucede con las sucursales de bancos extranjeros, podrán crear una instancia que cumpla funciones similares a las que desarrolla el Comité de Auditoría. En este caso, este Comité estará integrado, además del Gerente General en Chile, por el contralor o auditor interno de la sucursal y el Fiscal o el abogado externo que haga las veces de tal. Además, cuando sea convocado, se integrará un representante de la firma auditora, que tenga la calidad de socio de ella, sin perjuicio de otras personas que el Gerente General o quien haga sus veces, designe para el efecto. El funcionamiento de este Comité quedará sujeto a todas las disposiciones de este Capítulo en lo que les sean aplicables.
+Las instituciones bancadas que no mantengan Directorio en Chile, como sucede con las sucursales de bancos extranjeros, podrán crear una instancia que cumpla funciones similares a las que desarrolla el Comité de Auditoría. En este caso, al menos uno de sus integrantes deberá tener formación y experiencia profesional acordes con las funciones del Comité, y además cumplir con las condiciones de independencia establecidas en el N° 3. Además, cuando sea convocado, se integrará un representante de la firma auditora, que tenga la calidad de socio de ella, sin perjuicio de otras personas que el mismo Comité designe para el efecto. El funcionamiento de este Comité quedará sujeto a todas las disposiciones de este Capítulo en lo que les sean aplicables.
 
 6.- Funciones del Comité de Auditoría.
 
@@ -2192,31 +2300,33 @@ El Comité de Auditoría tendrá las siguientes funciones permanentes.
 
 a) Proponer al Comité de Directores o en su defecto al Directorio una nómina para la elección de auditores externos.
 
-b) Proponer al Comité de Directores o en su defecto al Directorio una nómina para la elección de las firmas clasificadoras de riesgo.
+b) Tomar conocimiento de la empresa de auditoría externa seleccionada, así como de los términos y alcances de la auditoría, previo a su inicio. Cualquier discrepancia o diferencia de interpretación respecto de las condiciones de la auditoría deberán ser tratadas a la brevedad.
 
-c) Tomar conocimiento y analizar los resultados de las auditorías y revisiones internas.
+c) Proponer al Comité de Directores o en su defecto al Directorio una nómina para la elección de las firmas clasificadoras de riesgo.
 
-d) Coordinar las tareas de la Contraloría interna con las revisiones de los auditores externos.
+d) Tomar conocimiento y analizar los resultados de las auditorías y revisiones internas.
 
-e) Analizar los estados financieros intermedios y de cierre del ejercicio anual para informar al Directorio.
+e) Coordinar las tareas de la Contraloría interna con las revisiones de los auditores externos.
 
-f) Analizar los informes, su contenido, procedimientos y alcance de las revisiones de los auditores externos.
+f) Analizar los estados financieros intermedios y de cierre del ejercicio anual para informar al Directorio.
 
-g) Analizar los informes, contenido y procedimientos de revisión de los evaluadores externos de riesgo.
+g) Analizar los informes, su contenido, procedimientos y alcance de las revisiones de los auditores externos. Asimismo, a dichos auditores se les deberá otorgar acceso a las actas de sesiones de Comité, a fin de que puedan tomar conocimiento de aquellas materias o situaciones que pudiesen resultar relevantes para fines de la auditoría.
 
-h) Informarse de la efectividad y confiabilidad de los sistemas y procedimientos de control interno de la empresa.
+h) Analizar los informes, contenido y procedimientos de revisión de los evaluadores externos de riesgo.
 
-i) Analizar el funcionamiento de los sistemas de información, su suficiencia, confiabilidad y aplicación a las tomas de decisiones.
+i) Informarse de la efectividad y confiabilidad de los sistemas y procedimientos de control interno de la empresa. Para dicho fin, el Comité debe estar familiarizado con las metodologías y sistemas de gestión de riesgos utilizados por la entidad.
 
-j) Informarse acerca del acatamiento de las políticas institucionales relativas a la debida observancia de las leyes, regulaciones y normativa interna que debe cumplir la empresa.
+j) Analizar el funcionamiento de los sistemas de información, su suficiencia, confiabilidad y aplicación a las tomas de decisiones.
 
-k) Tomar conocimiento y resolver acerca de conflictos de intereses e investigar actos de conductas sospechosas y fraudes.
+k) Informarse acerca del acatamiento de las políticas institucionales relativas a la debida observancia de las leyes, regulaciones y normativa interna que debe cumplir la empresa.
 
-l) Analizar los informes sobre las visitas de inspección y las instrucciones y presentaciones que efectúe la Superintendencia.
+l) Tomar conocimiento y resolver acerca de conflictos de intereses e investigar actos de conductas sospechosas y fraudes.
 
-m) Conocer, analizar y verificar el cumplimiento del programa anual que desarrollará la auditoría interna.
+m) Analizar los informes sobre las visitas de inspección y las instrucciones y presentaciones que efectúe la Superintendencia.
 
-n) Dar conocimiento al Directorio de los cambios contables que ocurran y sus efectos.
+n) Conocer, analizar y verificar el cumplimiento del programa anual que desarrollará la auditoría interna.
+
+ñ) Dar conocimiento al Directorio de los cambios contables que ocurran y sus efectos.
 
 La enumeración anterior no es excluyente, de manera que el Directorio o los integrantes del Comité podrán agregar cualquier otra tarea que estimen necesaria, sea con el carácter de permanente, específica o esporádica.
 
@@ -2238,7 +2348,7 @@ Es conveniente que para su buen funcionamiento, el Comité de Auditoría cuente 
 
 8.- Frecuencia de reuniones y actas.
 
-El Comité fijará la frecuencia de sus reuniones ordinarias, debiendo efectuarse a lo menos una cada cuatro meses. En todo caso, corresponde realizar una reunión en la que obligadamente debe participar el auditor externo, para conocer el balance anual, antes de su presentación al Directorio, sin perjuicio de aquellas otras a la que solicite concurrir con el fin de dar cuenta de hechos o situaciones propias de su función de auditores externos, como se señaló en el N° 4 anterior. De cada reunión, sea esta ordinaria o extraordinaria, deberá levantarse un acta en la que se dejará constancia pormenorizada de los temas tratados y acuerdos adoptados Un ejemplar de ella deberá entregarse al Directorio, el que deberá tomar conocimiento en su más próxima reunión y dejar constancia en actas de su lectura y de las resoluciones que haya adoptado, cuando corresponda.
+El Comité fijará la frecuencia de sus reuniones ordinarias, debiendo efectuarse a lo menos una cada cuatro meses. En todo caso, corresponde realizar una reunión en la que obligadamente debe participar el auditor externo, para conocer el estado de avance de la auditoría de los estados financieros y las demás materias de interés que aquel deba poner en su conocimiento, antes de su presentación al Directorio, sin perjuicio de aquellas otras a la que solicite concurrir con el fin de dar cuenta de hechos o situaciones propias de su función de auditores externos, como se señaló en el N° 4 anterior. De cada reunión, sea esta ordinaria o extraordinaria, deberá levantarse un acta en la que se dejará constancia pormenorizada de los temas tratados y acuerdos adoptados Un ejemplar de ella deberá entregarse al Directorio, el que deberá tomar conocimiento en su más próxima reunión y dejar constancia en actas de su lectura y de las resoluciones que haya adoptado, cuando corresponda.
 
 9.- Informe a la Junta de Accionistas.
 
