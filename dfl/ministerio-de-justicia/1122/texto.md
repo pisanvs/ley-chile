@@ -1144,9 +1144,9 @@ Si de la ejecución de obras de recuperación de terrenos húmedos o pantanosos 
 
 Al constituir los derechos de aprovechamiento de aguas, la Dirección General de Aguas velará por la preservación de la naturaleza y la protección del medio ambiente, debiendo para ello establecer un caudal ecológico mínimo, el cual sólo afectará a los nuevos derechos que se constituyan, para lo cual deberá considerar también las condiciones naturales pertinentes para cada fuente superficial.
 
-El caudal ecológico mínimo no podrá ser superior al veinte por ciento del caudal medio anual de la respectiva fuente superficial.
+Un reglamento, que deberá llevar la firma de los Ministros del Medio Ambiente y Obras Públicas, determinará los criterios en virtud de los cuales se establecerá el caudal ecológico mínimo. El caudal ecológico mínimo no podrá ser superior al veinte por ciento del caudal medio anual de la respectiva fuente superficial.
 
-En casos calificados, y previo informe favorable de la Comisión Regional del Medio Ambiente respectiva, el Presidente de la República podrá, mediante decreto fundado, fijar caudales ecológicos mínimos diferentes, sin atenerse a la limitación establecida en el inciso anterior, no pudiendo afectar derechos de aprovechamiento existentes. Si la respectiva fuente natural recorre más de una Región, el informe será evacuado por la Comisión Nacional del Medio Ambiente. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso, no podrá ser superior al cuarenta por ciento del caudal medio anual de la respectiva fuente superficial.
+En casos calificados, y previo informe favorable del Ministerio del Medio Ambiente, el Presidente de la República podrá, mediante decreto fundado, fijar caudales ecológicos mínimos diferentes, sin atenerse a la limitación establecida en el inciso anterior, no pudiendo afectar derechos de aprovechamiento existentes. El caudal ecológico que se fije en virtud de lo dispuesto en el presente inciso, no podrá ser superior al cuarenta por ciento del caudal medio anual de la respectiva fuente superficial.
 
 #### Artículo 129 bis 2
 
@@ -2298,6 +2298,8 @@ Las convocatorias a junta se harán saber a los comuneros por medio de un aviso 
 
 A falta de ellos, la convocatoria se realizará por medio de un aviso publicado en un diario o periódico de la ciudad capital de la región correspondiente. Además, se dirigirá carta certificada al domicilio que el comunero haya registrado en la secretaría de la comunidad, en caso de citación a junta extraordinaria.
 
+Adicionalmente, en caso que la convocatoria comprenda las materias referidas en los artículos 241, número 23, ó 274, número 9, ésta se publicará y comunicará en la forma prescrita por el artículo 131, con no menos de diez ni más de sesenta días de anticipación a la fecha de la junta.
+
 #### Artículo 221°
 
 <!-- parte:8628210 -->
@@ -2522,9 +2524,11 @@ En caso que sea necesario efectuar obras para reparar las instalaciones afectada
 
 21. Realizar programas de extensión para difundir entre los comuneros las técnicas y sistemas que tiendan a un mejor empleo de agua, pudiendo celebrar convenios para este objeto;
 
-22. Comunicar a la junta de vigilancia de que forma parte, el nombre del ingeniero asesor y el de su reemplazante, en caso que los tuviera, y
+22. Comunicar a la junta de vigilancia de que forma parte, el nombre del ingeniero asesor y el de su reemplazante, en caso que los tuviera;
 
-23. Los demás que las leyes y los estatutos señalen.
+23. Representar a los comuneros en el procedimiento de perfeccionamiento de los títulos en que consten sus derechos de aprovechamiento de aguas, cuando no existiere Junta de Vigilancia, en dicho río, álveo o acuífero, y previo acuerdo adoptado por los dos tercios de los votos emitidos en junta extraordinaria convocada al efecto, y
+
+24. Los demás que las leyes y los estatutos señalen.
 
 #### Artículo 242°
 
@@ -2814,7 +2818,7 @@ Son atribuciones y deberes del directorio los siguientes:
 
 1. Vigilar que la captación de las aguas se haga por medio de obras adecuadas y, en general, tomar las medidas que tiendan al goce completo y a la correcta distribución de los derechos de aprovechamiento de aguas sometidos a su control;
 
-2. Distribuir las aguas de los cauces naturales que administre, declarar su escasez y, en este caso, fijar las medidas de distribución extraordinarias con arreglo a los derechos establecidos y suspenderlas. La declaración de escasez de las aguas, como también la suspensión de las medidas de distribución extraordinarias, deberán hacerse por el directorio en sesión convocada especialmente para ese efecto;
+2. Distribuir las aguas de los cauces naturales que administre, declarar su escasez y, en este caso, fijar las medidas de distribución extraordinarias con arreglo a los derechos establecidos y suspenderlas. La declaración de escasez de las aguas, como también la suspensión de las medidas de distribución extraordinarias, deberá hacerse por el directorio en sesión convocada especialmente para ese efecto;
 
 3. Privar del uso de las aguas en los casos que determinen las leyes o los estatutos;
 
@@ -2828,9 +2832,11 @@ Las obras definitivas requerirán el permiso de la Dirección General de Aguas;
 
 7. Ejercitar las atribuciones señaladas en los números 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19 del artículo 241, y las demás que se le confieren en los estatutos;
 
-8. Exigir el cumplimiento de la obligación impuesta por el número 20 del artículo 241, y
+8. Exigir el cumplimiento de la obligación impuesta por el número 20 del artículo 241;
 
-9. Los demás que señalen las leyes.
+9. Representar a los titulares de derechos de aguas sometidos a su control en el procedimiento de perfeccionamiento de los títulos en que consten sus derechos de aprovechamiento de aguas, previo acuerdo adoptado por los dos tercios de los votos emitidos en junta extraordinaria convocada al efecto, y
+
+10. Los demás que señalen las leyes.
 
 #### Artículo 275°
 
