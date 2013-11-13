@@ -1,0 +1,57 @@
+OTORGA CONCESIÓN DE EXPLOTACIÓN DE ENERGÍA GEOTÉRMICA A ENERGÍA ANDINA S.A., EN EL ÁREA DENOMINADA "TINGUIRIRICA", UBICADA EN LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, PROVINCIA DE COLCHAGUA, COMUNA DE SAN FERNANDO, EN VIRTUD DEL ARTÍCULO 14 DE LA LEY Nº 19.657
+
+Núm. 92.- Santiago, 7 de octubre de 2013.- Visto: Lo dispuesto en la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica, y su Reglamento, aprobado mediante decreto supremo Nº 114, de 15 de noviembre de 2012, del Ministerio de Energía; en el decreto supremo Nº 142, de 28 de abril de 2000, del Ministerio de Minería, que Identifica Fuentes Probables de Energía Geotérmica, y su modificación, dispuesta por decreto supremo Nº 78, de 14 de marzo de 2001, del Ministerio de Minería; en el decreto supremo Nº 131, de 26 de diciembre de 2002, que faculta al Ministro de Minería a firmar "Por orden del Presidente de la República" en materia de Concesiones de Energía Geotérmica; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, mediante decreto supremo Nº 52, de 29 de febrero de 2008, del Ministerio de Minería, publicado en el Diario Oficial de fecha 30 de octubre de 2008, se otorgó a la empresa Antofagasta Minerals S.A. una concesión de exploración de energía geotérmica en el área denominada "Tinguiririca A", ubicada en la Región del Libertador General Bernardo O'Higgins, provincia de Colchagua, comuna de San Fernando, cuya extensión y coordenadas UTM referidas al Datum Provisional Sudamericano 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, M.C. 69º O, (PSAD56, Zona 19S), son las siguientes:
+
+Exploración Tinguiririca A: 50.400 hectáreas
+
+2. Que, mediante presentación efectuada con fecha 20 de noviembre de 2008, la empresa concesionaria acompañó copia de la escritura pública de fecha 20 de octubre de 2008, mediante la cual se modificó el titular de la concesión referida en el considerando primero del presente decreto, traspasándose ésta a la empresa Energía Andina S.A., lo cual consta en el DS Nº 40, de 24 de febrero de 2009, del Ministerio de Minería, publicado en el Diario Oficial de fecha 26 de marzo de 2009.
+
+3. Que, mediante decreto supremo Nº 385, de 6 de diciembre de 2010, del Ministerio de Energía, publicado en el Diario Oficial de fecha 31 de diciembre de 2010, se otorgó prórroga de la concesión de exploración denominada "Tinguiririca A", a la empresa Energía Andina S.A.
+
+4. Que, con fecha 20 de marzo de 2013, Energía Andina S.A., en virtud del derecho exclusivo establecido en el artículo 14 de la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica, solicitó el otorgamiento de una concesión, de explotación de energía geotérmica sobre el área denominada "Tinguiririca", ubicada en la Región del Libertador General Bernardo O'Higgins, provincia de Colchagua, comuna de San Fernando, de 6.175 hectáreas de extensión y cuyas coordenadas UTM referidas al Datum Provisional Sudamericano La Canoa - 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, son las siguientes:
+
+5. Que, en cumplimiento de lo previsto en el artículo 13 de la ley Nº 19.657, la empresa solicitante realizó las publicaciones del extracto de la solicitud de concesión con fecha 15 de abril de 2013, en el Diario Oficial; con fecha 16 y 17 de abril de 2013 en el diario de circulación nacional "La Tercera" y en el diario de circulación regional "El Rancagüino", de la ciudad de Rancagua y, con fecha 16 de abril de 2013, se emitieron a través de la radioemisora Radio Punto 9, frecuencia 92.9, de propiedad de la empresa Comunicaciones Colchagua Limitada, RUT 78.443.210-6, los mensajes radiales del extracto de la solicitud de concesión, de acuerdo consta en el respectivo certificado acompañado por la solicitante.
+
+6. Que, en ejercicio de la facultad establecida en el artículo 12 de la ley Nº 19.657, esta Cartera de Estado, con fecha 19 de abril de 2013, despachó los oficios ordinarios Nos 465, 466, 467, 468, 469 470, 471, 472 y 473, respectivamente, a los siguientes organismos: Ministerio de Salud, Corporación Nacional Forestal, Dirección Nacional de Fronteras y Límites del Estado, Ministerio de Bienes Nacionales, Ministerio de Relaciones Exteriores, Servicio Nacional de Geología y Minería, Corporación Nacional de Desarrollo Indígena, Ministerio de Defensa Nacional y Dirección Regional de Aguas Región del Libertador General Bernardo O'Higgins,
+
+7. Que, mediante oficio Ord. Nº B32/1599, de fecha 17 de mayo de 2013, en respuesta al oficio ordinario Nº 465, ya citado, el Ministerio de Salud informó que no registra declaraciones de fuentes curativas de aguas termales para el área "Tinguiririca", solicitada en concesión por parte de la empresa Energía Andina S.A.
+
+8. Que, mediante oficio Ord. Nº 217, de 20 de mayo de 2013, la Dirección Regional de Aguas de la Región de O'Higgins informó que en el área comprendida en la solicitud de concesión de explotación de energía geotérmica denominada "Tinguiririca" existen derechos de aprovechamiento de aguas de uso no consuntivo de ejercicio permanente y continuo y de ejercicio eventual y continuo, actualmente a nombre de HydroChile S.A., concedidos mediante resolución DGA Nº 39, de 2008, sobre el estero Los Humos, teniéndose prevista la captación en las condenadas UTM (m) Norte: 6.144.900 y Este: 370.050 y la restitución en Norte: 6.146.200 y Este: 368.450.
+
+9. Que, mediante oficio 2RR. EE. Difrol of. Público Nº F-643, de fecha 6 de junio de 2013, la Dirección Nacional de Fronteras y Límites del Estado, informó su opinión favorable respecto al otorgamiento de la solicitud de concesión identificada en el considerando número 4 del presente decreto.
+
+10. Que, mediante oficio ordinario Nº 289, de 12 de junio de 2013, la Corporación Nacional Forestal informó a esta Secretaría de Estado que el área correspondiente a la solicitud de concesión de explotación de energía geotérmica denominada "Tinguiririca", ya identificada, no se superpone a unidades del Sistema Nacional de Áreas Protegidas del Estado (SNAPE).
+
+11. Que, mediante oficio ordinario Nº 941, de fecha 21 de junio de 2013, rectificado mediante oficio ordinario Nº 1154, de 24 de julio de 2013, el Servicio Nacional de Geología y Minería, informó que no existe superposición entre la solicitud de concesión de explotación denominada Tinguiririca y alguna concesión geotérmica ya otorgada o en trámite; que ésta además no recae sobre una fuente probable de energía geotérmica; que su forma y cabida se ajusta a lo establecido en el artículo Nº 7 de la ley Nº 19.657 y, que la solicitud se superpone a 44 concesiones mineras de exploración y 3 concesiones de explotación Código 1983.
+
+12. Que, mediante oficio Ord. Gabm. Nº 365, de 1 de julio de 2013, el Ministerio de Bienes Nacionales informó que de acuerdo a los antecedentes acompañados y las coordenadas UTM que define el área materia de consulta, dentro del polígono correspondiente a la solicitud de concesión denominada Tinguiririca, requerida por la empresa Energía Andina S.A., no existe propiedad fiscal comprometida.
+
+13. Que, mediante oficio ordinario Nº 384, de 4 de julio de 2013, la Corporación Nacional de Desarrollo Indígena informó a esta Secretaría de Estado, que de acuerdo a la información recogida en el Sistema de Información Territorial Indígena, para la solicitud de concesión de explotación de energía geotérmica "Tinguiririca", ubicada en la comuna de San Fernando, provincia de Colchagua, Región del Libertador General Bernardo O'Higgins, no existen comunidades en el sector comprendido en las coordenadas de la referida solicitud.
+
+14. Que, a través de oficio Emco.Dope. (R)6800/221/7/SSE, de fecha 17 de julio de 2013, del Jefe del Estado Mayor Conjunto de la Fuerzas Armadas, se informó que respecto a la solicitud denominada "Tinguiririca", no existen inconvenientes para su asignación en aquellas materias atingentes al Ministerio de Defensa Nacional.
+
+15. Que, mediante memo DER Nº 164/2013, de fecha 10 de septiembre de 2013, la División de Energías Renovables del Ministerio de Energía evacuó un Informe Técnico relativo al proyecto contenido en la solicitud de concesión de explotación de energía geotérmica denominada "Tinguiririca", concluyendo que el plan de trabajo e inversión presentado es consistente y conduce a cumplir su objetivo de construir y operar una central geotermoeléctrica, de una capacidad de 80 MW, por lo que se recomienda otorgar la concesión de explotación Tinguiririca.
+
+16. Que, con fecha 24 de septiembre de 2013, la empresa Energía Andina S.A., y en cumplimiento de lo prescrito por el artículo 6 Nº 2, en relación al artículo único transitorio del decreto supremo Nº 114, de 15 de noviembre de 2012, del Ministerio de Energía, que aprueba el nuevo Reglamento para la Aplicación de la ley Nº 19.657, actualizó las coordenadas de su solicitud de concesión de explotación denominada "Tinguiririca", de acuerdo al Sistema de Referencia Geocéntrico para las Américas (Sirgas).
+
+Decreto:
+
+1º. Otórguese de conformidad a la ley Nº 19.657, la concesión de explotación de energía geotérmica denominada "Tinguiririca", a la empresa Energía Andina S.A., Nº RUT 76.039.634-6, ubicada en la Región del Libertador General Bernardo O'Higgins, provincia de Colchagua, comuna de San Fernando, de 6.175 hectáreas de extensión y cuyas coordenadas UTM referidas al Datum Sirgas, son las siguientes:
+
+2º. El objetivo de la concesión de explotación de energía geotérmica recaída en el área denominada "Tinguiririca", consiste en la realización de un conjunto de actividades de perforación, construcción, puesta en marcha y operación de un sistema de extracción, producción y transformación de fluidos geotérmicos en energía eléctrica.
+
+3º. De acuerdo a lo consignado en el proyecto de explotación de energía geotérmica propuesto por la empresa concesionaria, ésta llevará a cabo los siguientes programas de trabajo e inversiones:
+
+4º. De acuerdo a lo establecido en el artículo 21 de la ley Nº 19.657, la concesión de energía geotérmica entrará en vigencia en la fecha de publicación en el Diario Oficial del presente decreto.
+
+5º. La concesionaria deberá informar al Ministerio de Energía, en el mes de marzo de cada año, el avance verificado en la ejecución del proyecto comprometido, durante el año calendario precedente. Específicamente, deberá informar acerca de las actividades e inversiones realizadas, con indicación del porcentaje de cumplimiento a esa fecha del programa de trabajo y de las respectivas inversiones comprometidas, de acuerdo a lo señalado en el numeral 3º precedente, debiendo, además, acompañar los documentos que respalden lo informado. La concesionaria, también podrá entregar los informes adicionales que estime conveniente, en periodos distintos al indicado.
+
+6º. Lo establecido en el presente acto administrativo es sin perjuicio de las autorizaciones medio-ambientales que debe obtener la concesionaria en virtud de la legislación vigente.
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte., a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
