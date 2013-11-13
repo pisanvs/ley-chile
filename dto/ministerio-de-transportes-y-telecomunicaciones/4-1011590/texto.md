@@ -28,7 +28,7 @@ ii) Subsidios al transporte escolar;
 
 iii) Subsidios que promuevan el transporte público en las Regiones de Arica y Parinacota, Tarapacá, Aysén, Magallanes y la Antártica Chilena y las Provincias de Palena y Chiloé, cuando el uso por parte de los estudiantes del transporte público mayor sea significativamente menor al resto del país;
 
-iv) Otros programas que favorezcan el transporte público.
+iv) Otros programas que favorezcan el transporte público, entre los que se considerará un programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares a que se refiere la ley Nº 18.700, en aquellas localidades rurales que no cuenten con recorridos habituales o cuyos servicios en esos días sean insuficientes para cubrir la demanda existente, siendo determinados por el Ministerio de Transportes y Telecomunicaciones en base a una solicitud de la respectiva Intendencia y previo informe favorable del Secretario Regional Ministerial de Transportes y Telecomunicaciones correspondiente. Los respectivos procesos de contratación asociados a la implementación del programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares, serán realizados por las Intendencias Regionales directamente o por medio de las Gobernaciones Provinciales, debiendo ajustarse para ello a lo prescrito en el artículo 7º de este reglamento. La supervisión de la debida ejecución de los convenios estará a cargo de la respectiva Intendencia, la que deberá arbitrar las medidas pertinentes al efecto y dar cuenta al Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 2º
 
