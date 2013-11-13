@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.024, de 4 de noviembre de 2013, de esta Subsecretaría, amplíese por un año, a contar del 10 de agosto de 2014, el plazo otorgado en el numeral 7º de la resolución exenta Nº 1.529 de 2006, modificada mediante resoluciones exentas Nº 363 de 2008, Nº 2.096, Nº 2.098, Nº 2.099, Nº 2.101, Nº 2.102, Nº 2.103, todas de 2013, de esta Subsecretaría, a SOCIEDAD PESQUERA LANDES S.A., para iniciar actividades pesqueras extractivas con la nave en construcción denominada "Bonito II", sólo respecto de las especies individualizadas en el numeral 3º, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 4 de noviembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
