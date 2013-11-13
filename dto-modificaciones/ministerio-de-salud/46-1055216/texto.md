@@ -1,4 +1,4 @@
-DROGUERÍAS, ALMACENES FARMACÉUTICOS, BOTIQUINES Y DEPÓSITOS AUTORIZADOS, Y Nº 405, DE 1983, REGLAMENTO DE PRODUCTOS PSICOTRÓPICOS
+MODIFICA DECRETOS SUPREMOS Nº 466 DE 1984, REGLAMENTO DE FARMACIAS, DROGUERÍAS, ALMACENES FARMACEÚTICOS, BOTIQUINES Y DEPÓSITOS AUTORIZADOS, y Nº 405 DE 1983, REGLAMENTO DE PRODUCTOS PSICOTRÓPICOS
 
 Núm. 46.- Santiago, 30 de julio de 2013.- Visto: Lo dispuesto en el Libro V del Código Sanitario, decreto con fuerza de ley Nº 725 de 1967, de este Ministerio de Salud, en especial lo indicado en su artículo 115º; lo establecido en los decretos supremos Nº 466 de 1984 y Nº 405 de 1983, ambos de esta Cartera de Estado; lo solicitado mediante el memo C57Nº01, de 7 de marzo de 2013, del Subsecretario de Redes Asistenciales y en el memo B35/Nº00335 de fecha 11 de abril de 2013, de la Jefa de la División de Políticas Públicas Saludables y Promoción de la Subsecretaría de Salud Pública, y las facultades que me confiere el artículo 32 Nº 6 de la Constitución Política de la República,
 
