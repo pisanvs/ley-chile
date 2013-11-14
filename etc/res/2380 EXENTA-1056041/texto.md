@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.380 EXENTA, DE 2013
+
+Por resolución exenta Nº 2.380, de fecha 11 de octubre de 2013, de este Servicio, y conforme lo resuelto en la resolución exenta Nº 1.490, de 31 de mayo de 2012, de la Subsecretaría de Pesca y Acuicultura, en relación a las letras b) y c) del inciso segundo del artículo 1º de la ley Nº 20.560, se ordena la rectificación de la resolución exenta Nº 1.978, de 31 de agosto de 2012, de este origen, en el sentido de incorporar en la nómina de buzos y de recolectores de orilla, algueros o buzos apnea, correspondientes a la III Región de Atacama y X Región de Los Lagos, a quienes se agregan, respectivamente, las pesquerías Pulpo del norte (Octopus mimus), Erizo (Loxechinus albus), Lapas (Fissurella spp) y/o Macha (Mesodesma donacium), en todos los casos mediante buceo y/o recolección, los pescadores artesanales que allí individualiza, ordenando la consecuente modificación del Registro Pesquero Artesanal respecto de dichas inscripciones.
+
+El texto íntegro de la citada resolución se encuentra publicado con esta fecha en el dominio electrónico del Servicio Nacional de Pesca y Acuicultura y de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 24 de octubre de 2013.- Juan Luis Ansoleaga Bengoechea, Director Nacional.
