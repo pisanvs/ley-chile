@@ -1,0 +1,29 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO HYALMAS POLVO
+
+Núm. RW 23.037 exenta.- Santiago, 30 de octubre de 2013.- Visto estos antecedentes: La solicitud de determinación de régimen de control a aplicar y la documentación técnica adjunta a la presentación de ALS Distribuidora Ltda., respecto del producto Hyalmas Polvo; la recomendación de la Comisión de Régimen de Control Aplicable, acordada en sesión de fecha 10 de septiembre de 2013, de clasificar a este producto como medicamento; y
+
+Considerando:
+
+Primero: Que se declara que cada sobre monodosis (6 g) de este producto contiene: 200 mg de ácido hialurónico (como hialuronato sódico), 80 mg de vitamina C (como ascorbato sódico), excipientes: fructosa (edulcorante), aroma a manzana, ácido cítrico anhidro (acidulante) y dióxido de silicio (antiaglomerante). Además, para él se detallan las siguientes indicaciones de uso: "Hyalmas® es un suplemento alimenticio que soporta la estructura y la función del tendón y ligamento. Es útil como un adyuvante funcional y estructural en el tratamiento de tendinopatías";
+
+Segundo: Que, de acuerdo a la composición y modo de uso declarados para este producto, se puede afirmar que vitamina C se encuentra dentro de los límites aprobados para ella en suplementos alimentarios (resolución exenta Nº 394 de 2002, del Ministerio de Salud). Sin embargo, no existen límites definidos para ácido hialurónico en suplementos alimentarios;
+
+Tercero: Que en el Nº 9, del artículo 106º, del Reglamento Sanitario de los Alimentos, decreto Nº 977 de 1996, del Ministerio de Salud, se define la declaración de propiedades saludables como sigue: "Cualquier representación que afirme, sugiera o implique que existe una relación entre un alimento, un nutriente u otra sustancia contenida en un alimento y una condición relacionada con la salud". Asimismo, el artículo 114º, del decreto Nº 977 de 1996, establece que "Las declaraciones de propiedades saludables deberán ser científicamente reconocidas o consensuadas internacionalmente y deberán estar enmarcadas dentro de las normas técnicas sobre directrices nutricionales aprobadas por resolución del Ministerio de Salud, la que se publicará en el Diario Oficial". Dichas directrices nutricionales fueron aprobadas por la resolución exenta Nº 764, de 2009, del Ministerio de Salud, la cual no contiene ninguna asociación que relacione a alguno de los ingredientes de este producto con una propiedad saludable;
+
+Cuarto: Que se acompañó una monografía clínica de este producto, en la cual se describen estudios en que se empleó el ácido hialurónico en un ensayo preclínico y uno clínico, en pacientes con osteoartritis de rodilla. La osteoartritis es la forma más común de artritis, es una enfermedad que causa dolor, inflamación y disminución de los movimientos en las articulaciones (MedlinePlus: http://www.nlm.nih.gov/medlineplus/spanish/osteoarthritis.html). Todo lo cual es consistente con los registros sanitarios de medicamentos, autorizados por este Instituto, que presentan ácido hialurónico y se administran vía intraarticular para el tratamiento de la osteoartritis (registros F-400/13 y F-12010/12);
+
+Quinto: Que en el acta de la Sesión Nº 8/13, de la Comisión de Régimen de Control Aplicable, se concluyó lo siguiente respecto de este producto: "Dado que dentro de sus finalidades de uso está el tratamiento de tendinopatías, las cuales corresponden a enfermedades y, además, en la monografía clínica de este producto se destaca que hay evidencia clínica de la eficacia del ácido hialurónico en el tratamiento de la osteoartritis de rodilla, otro cuadro patológico, se recomienda clasificar a este producto como medicamento"; y
+
+Teniendo presente: Lo dispuesto en los artículos 94º y 102º del Código Sanitario; en los artículos 8º y 9º del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3 de 2010, del Ministerio de Salud; los artículos 59o letra b) del decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta Nº 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente:
+
+Resolución
+
+1. Establécese que el régimen que corresponde aplicar al producto Hyalmas Polvo, solicitado por ALS Distribuidora Ltda., es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto Nº 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º, del decreto Nº 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+4. Lo dispuesto en la presente resolución también será aplicable al resto de los productos que contengan el o los componentes declarados como propios de un producto famacéutico (artículo 8º, del decreto Nº 3, de 2010).
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Agencia Nacional de Medicamentos.
