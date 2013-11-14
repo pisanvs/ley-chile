@@ -432,6 +432,22 @@ Montt L.C.S.
 
 129,340 Andalién R. Rucapequén/Concepción
 
+39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
+
+Variante
+
+Hualqui -
+
+Quilacoya
+
+41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
+
+Variante
+
+Hualqui -
+
+Quilacoya
+
 49,200 Periquillo R. San Rosendo/Talcahuano
 
 68,530 O'Higgins R. San Rosendo/Talcahuano
@@ -471,6 +487,10 @@ Calle Tres Antonio
 Poniente con
 
 Camino Melipilla
+
+24,190 Los Molineros Ramal Concepción-
+
+Curanilahue
 
 2º.- Modifícase el Nº 2 del Decreto Supremo Nº 500 en el sentido que en los cruces públicos a nivel ubicados en la red ferroviaria y ramales que se indican, la Empresa de los Ferrocarriles del Estado sólo estará obligada a mantener en funciones un servicio práctico de señales, que permita a los que transitan por ellos percibir a la distancia la proximidad de un cruzamiento:
 
@@ -1418,22 +1438,6 @@ Poniente R. Rucapequén/Concepción
 
 34,100 Sin Nombre Ramal San Rosendo/Talcahuano
 
-39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
-
-Variante
-
-Hualqui -
-
-Quilacoya
-
-41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
-
-Variante
-
-Hualqui -
-
-Quilacoya
-
 45,500 Hualqui Ramal San Rosendo/Talcahuano
 
 51,630 Pablo Paip Ramal San Rosendo/Talcahuano
@@ -1465,10 +1469,6 @@ Coloradas Ramal Concepción/Curanilahue
 6,680 Bío Bío
 
 L. Coloradas Ramal Concepción/Curanilahue
-
-24,190 Los Molineros Ramal Concepción-
-
-Curanilahue
 
 26,615 Sin Nombre Ramal Concepción/Curanilahue
 
@@ -1983,6 +1983,8 @@ Oriente Ramal a Panguipulli
 1,193 Circ. Antilhue Ramal Antilhue/Valdivia
 
 4,210 Sin Nombre Ramal Antilhue/Valdivia
+
+5,230 Chincuín Ramal Antilhue - Valdivia
 
 9,635 Pishuinco Ramal Antilhue/Valdivia
 
