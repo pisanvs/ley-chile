@@ -20,6 +20,4 @@ Resuelvo:
 
 4.- Notifíquese la presente resolución al Sr. Rómulo Bruna Morales, con domicilio en Augusto Leguía Sur Nº 160, Of. 51, comuna de Las Condes.
 
-> **Nota.** La Resolución 1191 Exenta, Transportes, publicada el 26.02.2014, en el sentido de reemplazar la frase "15 de febrero de 2014" por "15 de marzo de 2014", sin embargo la citada fecha no aparece en el presente texto actualizado.
-
 Anótese, comuníquese y publíquese.- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
