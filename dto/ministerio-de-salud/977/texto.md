@@ -480,6 +480,18 @@ d) pescados, mariscos y productos del mar, y carnes de especies de abasto, de av
 
 5° C), los productos alimenticios antes señalados, durante toda la jornada de trabajo de la feria.
 
+e) Hielo granizado saborizado con jarabes naturales o artificiales, en la medida que se cumplan los siguientes requisitos:
+
+- Ser elaborado en máquinas granizadoras especialmente diseñadas para tales efectos y que, por sus características de funcionamiento, el alimento no sea objeto de manipulación directa.
+
+- Utilizar hielo y jarabes que provengan de establecimientos autorizados.
+
+- Utilizar cucharas o bombillas y vasos desechables.
+
+- Disponer de un sistema o material de almacenamiento, transporte y expendio que permita mantener una temperatura, para la conservación del hielo, de 0 ºC o menos durante la jornada de trabajo.
+
+- Preservar los insumos en condiciones que impidan su contaminación
+
 Las implementaciones exigidas precedentemente para la comercialización de los productos alimenticios señalados en la letra d) deberán mantenerse en perfectas condiciones, en forma permanente.
 
 > **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que las modificaciones introducidas al presente artículo rigen a contar de 180 días desde su publicación.
