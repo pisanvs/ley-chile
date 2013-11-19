@@ -34,6 +34,10 @@ D e c r e t o:
 
 Declárase Zona Típica la Población León XIII, según polígono A, B, C, D, E, F, G, H, I, J, K, L, A, como consta del plano que se adjunta y que forma parte del presente decreto y Monumento Histórico la Iglesia Epifanía del Señor, ubicada en calle Bellavista Nº 430, 470, 488, 496 y 498, ambos de la comuna de Providencia, provincia de Santiago, Región Metropolitana.
 
+Fíjense como límites de la "Zona Típica León XIII", ubicada en la comuna de Providencia, provincia de Santiago, Región Metropolitana como a continuación se indica:
+
+El área del polígono de protección tiene una superficie aproximada de 44.769,20 mts.2, según se delimita por el polígono del plano adjunto A-B-C-D-E-F-G-H-I-J-K-L-A, que forma parte del presente decreto
+
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, José Pablo Arellano Marín, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Jaime Pérez de Arce Araya, Subsecretario de Educación.
