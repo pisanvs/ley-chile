@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE EULER HERMES SEGUROS DE CRÉDITO S.A.
+
+Certifico: Que por resolución exenta Nº 407, de fecha 13 de noviembre de 2013, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Euler Hermes Seguros de Crédito S.A., acordada en junta extraordinaria de accionistas celebrada el 9 de septiembre de 2013 y reducida a escritura pública ese mismo día en la Notaría de Santiago de don Raúl Perry Pefaur, modificada por escritura pública de 11 de octubre de 2013, según lo observado por oficio Nº 22.861 de 2013, otorgada ante don César Ricardo Sánchez García, Notario Interino de Santiago, ambos Notarios domiciliados en Ahumada 312, oficina 236.
+
+La reforma consiste en aumentar el capital social de $2.773.898.607 dividido en 1.383.414 acciones de una misma serie, sin valor nominal, íntegramente suscrito y pagado, a $2.951.335.764 dividido en 1.483.414 acciones. El aumento de capital de $177.437.157 dividido en 100.000 acciones, se suscribe íntegramente y se deberá pagar a más tardar el 31 de diciembre de 2013. Se modifican artículos quinto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 13 de noviembre de 2013.- Carmen Undurraga Martínez, Secretaria General.
