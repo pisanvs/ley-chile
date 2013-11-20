@@ -4,7 +4,7 @@ Certificado Nº 11/2013
 
 INTERÉS CORRIENTE
 
-En cumplimiento de lo dispuesto en el artículo 6º de la Ley Nº18.010, sobre operaciones de crédito de dinero, esta Superintendencia ha determinado los promedios de los intereses cobrados por los bancos en sus operaciones efectuadas durante el mes de septiembre de 2013.
+En cumplimiento de lo dispuesto en el artículo 6º de la Ley Nº18.010, sobre operaciones de crédito de dinero, esta Superintendencia ha determinado los promedios de los intereses cobrados por los bancos en sus operaciones efectuadas durante el mes de octubre de 2013.
 
 Por consiguiente, el interés corriente que regirá desde la fecha de publicación de este certificado y hasta el día anterior de la próxima publicación, será el que se indica a continuación para las operaciones correspondientes:
 

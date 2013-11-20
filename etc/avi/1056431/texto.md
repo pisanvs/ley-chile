@@ -1,0 +1,5 @@
+RECTIFICA CERTIFICADO Nº11/2013
+
+En la edición del Diario Oficial Nº40.707, de viernes 15 de noviembre de 2013, esta Superintendencia informó la determinación del interés corriente por el lapso que indica, mediante el Certificado Nº11/2013. El primer párrafo de dicha publicación consigna: "En cumplimiento de lo dispuesto en el artículo 6º de la Ley Nº18.010, sobre operaciones de crédito de dinero, esta Superintendencia ha determinado los promedios de los intereses cobrados por los bancos en sus operaciones efectuadas durante el mes de septiembre de 2013". En su lugar, debió decir: "En cumplimiento de lo dispuesto en el artículo 6º de la Ley Nº18.010, sobre operaciones de crédito de dinero, esta Superintendencia ha determinado los promedios de los intereses cobrados por los bancos en sus operaciones efectuadas durante el mes de octubre de 2013".
+
+Santiago, 19 de noviembre de 2013.- Raphael Bergoeing Vela, Superintendente de Bancos e Instituciones Financieras.
