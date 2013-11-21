@@ -24,8 +24,6 @@ D e c r e t o:
 
 > **Nota.** El artículo 1º del Decreto 254, Educación, publicado el 19.08.2009, modificó la presente norma, estableciendo los Objetivos Fundamentales y Contenidos Mínimos obligatorios de la Educación Media, y fija normas generales para su aplicación.
 
-> **Nota.** NOTA 1 El artículo 6° del Decreto 369, Educación, publicado el 02.12.2015, modifica la presente norma en el sentido de derogar todas las normas correspondientes a los Sectores de Tecnología, Artes Visuales, Música y Orientación, desde 7º año básico a 2º año medio.
-
 #### Artículo 1º
 
 Establécense los siguientes Objetivos Fundamentales y Contenidos Mínimos Obligatorios, para la Enseñanza Media, cuyo texto se contiene en el Anexo que se acompaña al presente decreto, que se entiende formar parte del mismo, y que se publicarán conjuntamente en el Diario Oficial.
@@ -44,15 +42,41 @@ Formación Diferenciada: Tipo de formación que, sobre una previa base adquirida
 
 #### Artículo 3º
 
-Derogado.
+El Ministerio de Educación presentará al Consejo Superior de Educación para su aprobación, dentro de las fechas y plazos que aquí se señalan, los planes y programas de estudio para la Enseñanza Media, que se elaborarán conforme a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios que se establecen en el presente decreto: a más tardar el día 10 de agosto de 1998, los correspondientes al primer año de enseñanza media y, a más tardar el día 10 de agosto de cada uno de los años inmediatamente posteriores, los correspondientes a los respectivos cursos siguientes de enseñanza media.
+
+No obstante, el Ministerio de Educación podrá presentar, de manera simultánea, sus propios planes y programas para más de un curso de enseñanza media.
+
+Estos planes y programas de estudio serán de aplicación obligatoria en los establecimientos educacionales que no hayan elaborado planes y programas de estudio propios.
 
 #### Artículo 4º
 
-Derogado.
+Los nuevos planes y programas de estudio que se elaboren de acuerdo a estos Objetivos Fundamentales y Contenidos Mínimos Obligatorios, deberán aplicarse gradualmente, a partir del año 1999, según el calendario siguiente:
+
+Año escolar 1999: 1er. año
+
+Año escolar 2000: 2do. año
+
+Año escolar 2001: 3er. año
+
+Año escolar 2002: 4to. año
+
+Aquellos planes y programas de estudio que elaboren los establecimientos educacionales relativos a algunos de los cursos indicados en este decreto, y que sean aprobados por el Ministerio de Educación durante la vigencia de un determinado año escolar, sólo entrarán en vigencia a partir del año escolar siguiente, respetándose, en todo caso, la gradualidad para su aplicación, que se señala en este artículo.
+
+En cada uno de los años indicados en el inciso primero del presente artículo, los planes y programas de los cursos correspondientes deberán ser aplicados integralmente de acuerdo con las normas establecidas en el Anexo que se acompaña a este decreto. Se exceptúa de esta disposición el programa correspondiente al sector de Educación Tecnológica, pues la aplicación obligatoria de éste, en los cursos de primero y segundo año, se iniciará a partir del año 2.000.
+
+> **Nota.** NOTA 2 El Artículo 6º del Decreto 452, Educación, publicado el 21.11.2013, dispone que el presente artículo dejará de aplicarse a la educación media diferenciada técnico - profesional una vez que entren en vigencia las normas contenidas en el citado decreto.
 
 #### Artículo 5º
 
-Derogado.
+Los establecimientos educacionales que elaboren propuestas de planes y programas de estudio, deberán presentarlos para su aprobación en la correspondiente Secretaría Regional Ministerial de Educación: a) Si se trata de programas de primer año medio, para aplicar en 1999, éstos deberán ser presentados a más tardar el 15 de octubre de 1998;
+
+b) si se trata de programas para aplicar en los niveles siguientes, ellos deberán ser presentados, a más tardar, el día 15 de septiembre del año anterior de su respectiva fecha de aplicación.
+
+Los señalados planes y programas, al igual que los que elabore el Ministerio de Educación, cualquiera que sea su estructura, deberán consignar expresamente los Objetivos Fundamentales y Contenidos Mínimos Obligatorios correspondientes.
+
+> **Nota.** El Art. único del DTO 545, Educación, publicado el 11.11.2000, dispone que el plazo para presentar planes y programas de estudio durante el año 2000, para aplicarse a contar del año 2001, será el 31 de Octubre.
+
+> **Nota.** NOTA 3 El Artículo 6º del Decreto 452, Educación, publicado el 21.11.2013, dispone que el presente artículo dejará de aplicarse a la educación media diferenciada técnico - profesional una vez que entren en vigencia las normas contenidas en el citado decreto.
 
 #### Artículo 6º
 
@@ -62,7 +86,7 @@ No obstante, si un sostenedor presenta para su aprobación planes y programas de
 
 #### Artículo 7º
 
-Derogado.
+En casos debidamente calificados de establecimientos que imparten Enseñanza Media de especial singularidad, la División de Educación General del Ministerio de Educación podrá autorizar mediante resoluciones dictadas "Por Orden del Presidente de la República" la aplicación de planes y programas de estudio con una organización temporal y secuencial de Objetivos Fundamentales y Contenidos Mínimos Obligatorios diferente de la establecida en el presente decreto. A esta autorización de excepción podrán acceder sólamente establecimientos que cumplan con los estándares de alta calidad y/o equidad establecidos por el Ministerio de Educación y que serán evaluados según los procedimientos objetivos previamente fijados por esta Secretaría de Estado. En todo caso, esta autorización de readecuación, deberá exigir el tratamiento completo de los Objetivos Fundamentales y Contenidos Mínimos Obligatorios dentro de la Enseñanza Media.
 
 #### Artículo 8º
 
@@ -70,15 +94,27 @@ Al finalizar el primero o segundo año medio, los alumnos que hayan sido promovi
 
 #### Artículo 9º
 
-Derogado.
+La Secretaría Regional Ministerial de Educación correspondiente deberá certificar la fecha de entrega de las propuestas de planes y programas de estudio que hagan los establecimientos educacionales, las cuales, una vez aprobadas, deberán anotarse en un Registro de Planes y Programas de Estudio que deberá llevar el nivel central del Ministerio de Educación al efecto.
+
+Los planes y programas de estudio sobre los cuales no haya habido pronunciamiento dentro de los 90 días contados desde la fecha de entrega, se entenderán aceptados por el Ministerio de Educación.
+
+El Ministerio de Educación tendrá 90 días para formular las observaciones que le merecen los planes y programas de estudio presentados por los establecimientos educacionales, cuando ellos no se ajusten a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios, establecidos en el artículo primero, las que deberán practicarse por escrito y notificarse mediante carta certificada dirigida al domicilio del respectivo establecimiento.
+
+En todos los casos en que se produzca la situación que se establece en el inciso anterior, los sostenedores afectados podrán reclamar de esta decisión, recurriendo en única instancia, en el plazo de 15 días contado desde la fecha de la notificación del rechazo, ante el Consejo Superior de Educación, institución que deberá pronunciarse sobre el reclamo en un plazo similar, contado desde la recepción del recurso.
+
+En aquellos casos en que el plan y los programas de estudio presentados por un determinado establecimiento no hayan sido aprobados debido a objeciones u observaciones formuladas por la Secretaría Regional Ministerial de Educación, por el Jefe de la División de Educación General del Ministerio de Educación, en los casos señalados en los artículos 6º y 7º del presente decreto, o por el Consejo Superior de Educación al conocer del recurso de reclamación, el establecimiento afectado podrá presentar una nueva proposición de plan y programas de estudio, la que deberá tramitarse de acuerdo al procedimiento anteriormente establecido en este artículo.
+
+> **Nota.** NOTA 4 El Artículo 6º del Decreto 452, Educación, publicado el 21.11.2013, dispone que el presente artículo dejará de aplicarse a la educación media diferenciada técnico - profesional una vez que entren en vigencia las normas contenidas en el citado decreto.
 
 #### Artículo 10
 
-Derogado.
+Aquellos establecimientos educacionales que no hayan obtenido la aprobación de sus planes y programas de estudio por parte de la Secretaría Regional Ministerial respectiva o por el Jefe de la División de Educación General del Ministerio de Educación o, en su caso, por el Consejo Superior de Educación, deberán aplicar obligatoriamente los planes y programas de estudio oficiales elaborados por el Ministerio de Educación.
+
+> **Nota.** NOTA 5 El Artículo 6º del Decreto 452, Educación, publicado el 21.11.2013, dispone que el presente artículo dejará de aplicarse a la educación media diferenciada técnico - profesional una vez que entren en vigencia las normas contenidas en el citado decreto.
 
 #### Artículo 11
 
-Derogado.
+Los establecimientos educacionales que apliquen los planes y programas de estudio oficiales elaborados por el Ministerio de Educación podrán solicitar, en cualquier momento, la aprobación de planes y programas propios, conforme a los procedimientos y gradualidad señalados en el presente decreto.
 
 #### Artículo 12
 

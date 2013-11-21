@@ -94,19 +94,11 @@ Sector Química:
 
 #### Artículo 2º
 
-Los nuevos planes y programas de estudio que se elaboren de acuerdo a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios señalados en el artículo precedente, deberán aplicarse gradualmente a partir del año 2011, según el siguiente calendario:
-
-- Año escolar 2011: 1er. año de Educación Media, Formación General.
-
-- Año escolar 2012: 2do. año de Enseñanza Media, Formación General y 3er. año de Enseñanza Media, Formación Diferenciada Técnico-Profesional de las 21 especialidades ajustadas.
-
-- Año escolar 2013: 3er. año de Enseñanza Media, Formación General y 4to. año de Enseñanza Media, Formación Diferenciada Técnico-Profesional de las 21 especialidades ajustadas.
-
-- Año escolar 2014: 4to. año de Enseñanza Media de Formación General.
+DEROGADO.
 
 #### Artículo transitorio
 
-Los establecimientos educacionales que deseen elaborar planes y programas de estudio propios para el año 2010, tendrán plazo hasta el 30 de octubre del 2009 para presentarlos ante las Secretarías Regionales Ministeriales de Educación.
+DEROGADO.
 
 Anótese, tómese razón y publíquese.- Michelle Bachelet Jeria, Presidenta de la República.- Mónica Jiménez de La Jara, Ministra de Educación.
 
