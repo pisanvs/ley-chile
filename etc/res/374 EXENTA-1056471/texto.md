@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A ASSURANT CHILE COMPAÑÍA DE SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 374, de fecha 18 de octubre de 2013, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Assurant Chile Compañía de Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 5 de septiembre de 2013 y reducida a escritura pública con esa misma fecha, en la Trigésima Tercera Notaría de Santiago, de don Iván Torrealba Acevedo, domiciliado en Huérfanos Nº 969, oficina 501, comuna de Santiago.
+
+La reforma consiste en un aumento del capital social, de $2.324.866.885.-, dividido en 3.000.000 de acciones nominativas, sin valor nominal, de una misma serie, íntegramente suscrito y pagado, a $3.239.446.885.-, dividido en 4.180.171 acciones nominativas, sin valor nominal, de una misma serie, mediante la emisión de 1.180.171 acciones de pago, nominativas, sin valor nominal, de una misma serie, por un monto total de $914.580.000.-, a pagar dentro del plazo que vence el día 5 de diciembre de 2013, modificando los artículos quinto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 18 de octubre de 2013.- Carmen Undurraga Martínez, Secretario General.
