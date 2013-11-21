@@ -44,97 +44,61 @@ g) Reemplázase en el resuelvo 2 la frase "concesionarios de Uso de Vías" por "
 
 2.- Apruébase el Sistema de Reclamos y Sugerencias de los Usuarios del Sistema de Transporte Público de Santiago presentados ante el Ministerio de Transportes y Telecomunicaciones, al que deberán sujetarse los concesionarios de uso de vías, en adelante "concesionarios", para atender los requerimientos de los usuarios de los servicios concesionados, el que a continuación se describe:
 
-### 1. Descripción
+### 1. Antecedentes:
 
-1.1. Cuando el reclamo y/o sugerencia fuere presentado ante la Oficina de Información, Reclamos y Sugerencias de la Subsecretaría de Transportes (en adelante, OIRS), deberá constar y ser recibido por alguna de las siguientes formas:
+1.1 Los usuarios del Sistema de Transporte Público de la provincia de Santiago y las comunas Puente Alto y San Bernardo podrán plantear sus requerimientos, reclamos y/o sugerencias ante la Oficina de Información, Reclamos y Sugerencias de la Subsecretaría de Transportes (en adelante OIRS) o ante el Directorio de Transporte Público Metropolitano, o quienes los reemplacen o sucedan en sus funciones, o ante la empresa concesionaria de uso de vías correspondiente, conforme lo determine el usuario solicitante.
 
-. Por escrito, vía fax o a través de los sitios web y
+1.2 Cuando el usuario plantee su consulta, reclamo y/o sugerencia a la Oficina de Información, Reclamos y Sugerencias de la Subsecretaría de Transportes (en adelante OIRS) o ante el Directorio de Transporte Público Metropolitano, tendrá aplicación el siguiente procedimiento:
 
-correos electrónicos de la OIRS y/o del organismo
+### 2. Recepción:
 
-que se encargue de dicha función; o de la
+2.1 La consulta, reclamo y/o sugerencia deberá constar y ser recibida por alguna de las siguientes formas:
 
-Subsecretaría de Transportes.
+. Por escrito, vía fax o a través de los sitios web y correos electrónicos de la OIRS y/o del organismo de la Subsecretaría de Transportes que se encargue de dicha función.
 
 . Vía telefónica.
 
 . En forma personal, a través de la OIRS.
 
-. A través de los canales de información y atención
+. A través de los canales de información y atención que disponga el Directorio de Transporte Público Metropolitano, entre ellos call center, página web, cartas y correos electrónicos.
 
-que disponga la Coordinación General de Transportes
+2.2 Al presentar su requerimiento, reclamo y/o sugerencia, el usuario deberá informar los aspectos mínimos que permitan su correcta individualización y motivo de su requerimiento, reclamo y/o sugerencia.
 
-de Santiago como son actualmente el call center,
+. 2.3 Una vez recibida la consulta, reclamo y/o sugerencia, la OIRS o el Directorio de Transporte Público Metropolitano, según corresponda, le asignará un número de identificación del caso y dispondrá su tramitación conforme a los numerales siguientes.
 
-página web, cartas y correos electrónicos.
+### 3. Tramitación:
 
-1.2. Los pasos a seguir para la recepción, registro y trámite de los reclamos y sugerencias son los siguientes:
+3.1 Cuando el motivo de la consulta, reclamo y/o sugerencia diga relación con la calidad de los servicios prestados por las empresas concesionarias de uso de vías, la OIRS o el Directorio de Transporte Público Metropolitano, según corresponda, remitirá el requerimiento al concesionario, informando de su derivación al solicitante.
 
-1.2.1. Cuando se recibe un reclamo y/o sugerencia, la OIRS deberá notificarla al concesionario respectivo, enviando los antecedentes del caso a un portal web dispuesto para dichos efectos por la Subsecretaría de Trans-portes.
+3.2 El requerimiento será notificado a la empresa concesionaria, quien deberá responder directamente al usuario, en un plazo máximo de 10 días hábiles contados desde la notificación. Copia de dicha respuesta deberá ser acompañada al reporte mensual de reclamos y sugerencias que el concesionario deberá presentar al Directorio de Transporte Público Metropolitano según lo establecido en la cláusula 7.1.12 del Contrato de Concesión.
 
-1.2.2. La notificación debe incluir número de identificación del caso, fecha del incidente y horario aproximado en que ocurrieron los hechos reclamados. En reclamos referidos a la no detención en paradas se identificará la respectiva parada. Los datos de placa patente, número de servicio y lugar del incidente son datos de ingreso opcional para el usuario, aun cuando siempre son solicitados a éste. La disconformidad entre una de estas referencias y la información con que cuente el concesionario, no inhabilita a éste a responder el reclamo ciudadano y a tomar medidas respecto de lo reclamado.
+3.3 En el evento que la materia consultada o reclamada no amerite su derivación a la empresa, conforme lo determine la entidad que recibe la consulta, reclamo y/o sugerencia, esta última será la encargada de su tramitación, respondiendo al usuario o informando al solicitante de la derivación a la entidad u organismo competente, si así corresponde.
 
-1.2.3. El concesionario debe responder directamente a la OIRS, desde el mismo portal web donde fue notificado originalmente el reclamo y/o sugerencia en un plazo máximo de 10 días hábiles contados desde el día siguiente hábil de la notificación al operador de vías.
+### 4. Respuesta:
 
-1.2.4. Transcurrido el plazo referido en el artículo 1.2.3 sin recibir respuesta del concesionario, la OIRS deberá enviar los antecedentes del caso a la Coordinación General de Transportes de Santiago con el objeto de que ésta tome conocimiento de dicha situación y adopte las medidas que estime pertinente, en virtud de lo establecido en el Anexo 6, apartado F, de los respectivos Contratos de Concesión de Uso de Vías que regulan los servicios de transporte público que forman parte del Sistema de Transporte Público de Pasajeros de la ciudad de Santiago y demás instrumentos que rijan a los servicios de transporte público de pasajeros de la ciudad de Santiago.
+4.1 Las respuestas emitidas por los concesionarios para ser consideradas satisfactorias y coherentes, deberán contener, como mínimo, la siguiente información:
 
-1.2.5. Las respuestas emitidas por los concesionarios para ser consideradas satisfactorias y coherentes, deberán contener, como mínimo, la siguiente información:
+. Número de identificación de la consulta, reclamo y/o sugerencia correspondiente.
+
+. Resultado de la gestión de la consulta, reclamo y/o sugerencia correspondiente.
 
 . Fecha de envío de respuesta.
 
-. Número de identificación del reclamo y/o
+. Responder puntual y específicamente cada uno de los hechos reclamados.
 
-sugerencia.
+. En caso de reclamos que contengan más de una queja, la respuesta deberá referirse a cada una de ellas.
 
-. Resultado de investigación.
+. Toda respuesta debe ser respaldada adjuntando los registros que den cuenta de la investigación efectuada, de los resultados obtenidos y de las medidas y/o sanciones adoptadas, las cuales deberán ser concordantes con la gravedad en caso de reclamo.
 
-. En caso que se identifique el o los participantes
+Asimismo, la respuesta deberá ser entregada al usuario en un plazo máximo de 10 días hábiles contados desde la notificación al concesionario.
 
-en la conducta reclamada, se debe indicar el nombre
+4.2 En caso de que la respuesta emitida sea insatisfactoria o cuando dicha respuesta no fuere entregada al usuario dentro de plazo, el solicitante podrá reclamar de la misma ante la OIRS y/o el Directorio de Transporte Público Metropolitano o quienes los reemplacen o sucedan en sus funciones. La OIRS dispondrá la tramitación correspondiente, pudiendo solicitar al concesionario respectivo, a través del portal web de la Subsecretaría de Transportes, la corrección o complementación de su respuesta, cuestión que deberá ocurrir dentro del plazo de 5 días hábiles, contados desde la comunicación de dicho requerimiento, en la forma señalada. Para efectos de la solicitud al concesionario, la OIRS podrá, de requerirlo así, ser apoyada en su labor por el Directorio de Transporte Público Metropolitano. Si transcurrido el plazo adicional la respuesta se mantiene insatisfactoria, ésta se tendrá por no emitida y el Ministerio quedará facultado para aplicar las medidas y sanciones que correspondan de conformidad al Contrato de Concesión de Uso de Vías, a cuyo efecto la OIRS enviará los antecedentes respectivos al Directorio de Transporte Público Metropolitano.
 
-y apellidos del o los involucrados. En dicho caso,
+5. Tramitación de requerimientos presentados ante las empresas Concesionarias de Uso de Vías:
 
-se deberá indicar si existe consentimiento del o
+5.1 Cuando el requerimiento, reclamo y/o sugerencia fuere presentado directamente ante la empresa Concesionaria de Uso de Vías, ésta deberá gestionarlo de acuerdo a su sistema interno de recepción y respuesta de sugerencias y/o reclamos, el cual deberá cumplir con las exigencias que informe el Directorio de Transporte Público Metropolitano, y considerará los mismos estándares de calidad señalados en el punto 4.1 de esta resolución, en términos de contenido y plazos de respuesta.
 
-los involucrados para entregar su nombre en caso de
-
-ser requerido por el usuario.
-
-. Medidas y/o sanciones adoptadas, las cuales deberán
-
-ser concordantes con la gravedad del reclamo.
-
-. Responder puntual y específicamente cada uno de los
-
-hechos reclamados.
-
-. En caso de reclamos que contengan más de una queja,
-
-la respuesta deberá responder cada una de ellas.
-
-. Toda respuesta debe ser respaldada adjuntando los
-
-registros que den cuenta de la investigación
-
-efectuada, de los resultados obtenidos y de las
-
-medidas y/o sanciones adoptadas.
-
-1.2.6. En caso de que la respuesta emitida sea insatisfactoria por la falta de alguno de los requisitos mínimos señalados en punto anterior, la OIRS debe solicitar al concesionario correspondiente, a través del mismo portal web antes señalado, la corrección de la misma, cuestión que deberá ocurrir dentro del plazo de tres días hábiles. Si transcurrido el plazo adicional la respuesta es insatisfactoria, esta se tendrá por no emitida y se enviarán los antecedentes a la Coordinación de Transantiago en conformidad a lo establecido en el punto 1.2.4 del presente procedimiento.
-
-1.2.7. Durante la tramitación de los reclamos, los ejecutivos de OIRS podrán comunicarse con la contraparte designada por cada concesionario, con el fin de optimizar la calidad y plazos de las respuestas.
-
-Los concesionarios deberán informar formalmente al domicilio de la OIRS, mediante carta certificada: procedimiento interno de gestión de reclamos ciudadanos, nombre de representante legal, dirección postal, número de teléfono, número de fax y dirección electrónica. La modificación de cualquiera de estos antecedentes deberá ser informada a la OIRS formalmente, mediante carta certificada. En caso contrario, cualquier error u omisión procedimental que se derive de la falta de esta información, será de exclusiva responsabilidad del concesionario. Para lo anterior, la OIRS informará su domicilio a través de carta certificada dirigida a cada uno de los concesionarios.
-
-1.2.8. Plazos
-
-Los plazos establecidos en este procedimiento serán de días hábiles, esto es, comprenden todos los días de lunes a viernes, excepto feriados.
-
-### 2. Vigencia del procedimiento
-
-Este procedimiento entrará en vigencia una vez que el Ministerio informe a cada concesionario de uso de vías (I) de la total tramitación de las resoluciones que aprueban los Contratos de Concesión de Uso de Vías, señaladas en el considerando 4º y, (II) de la notificación de la puesta en marcha del nuevo Sistema de Reclamos y Sugerencias de los Usuarios del Sistema de Transporte Público de Santiago.
-
-Respecto de las sociedades operadoras de vías Red Bus Urbano S.A. y Sociedad de Transportes de Personas Santiago S.A. este procedimiento regirá una vez que el Ministerio informe al concesionario de la entrada en vigencia de sus respectivos Contratos de Concesión de Uso de Vías.
+5.2 En el evento que la respuesta al usuario solicitante no fuere entregada por la empresa dentro de plazo o cuando ella no fuere satisfactoria, el usuario podrá reclamar de la misma ante la OIRS y/o el Directorio de Transporte Público Metropolitano o quienes los reemplacen o sucedan en sus funciones, procediéndose de la forma indicada en el punto 4.2 precedente, sin perjuicio de las facultades del Ministerio para aplicar las medidas y sanciones que correspondan de conformidad al Contrato de Concesión de Uso de Vías.
 
 3.- Déjase sin efecto el procedimiento de Reclamos y Sugerencias establecido en la resolución exenta Nº 2.351, de 2005, a contar de la entrada en vigencia del nuevo Sistema de Reclamos y Sugerencias establecido en el Resuelvo 2º de la presente resolución, respecto de la totalidad de los operadores de uso de vías que conforman el Sistema de Transporte Público de Santiago, en la forma dispuesta en dicho resuelvo.
 
