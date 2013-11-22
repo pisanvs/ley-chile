@@ -494,6 +494,8 @@ El certificado de subsidio admitirá más de un endoso por parte del respectivo 
 
 Para proceder al pago el Serviu exigirá la presentación, a más tardar a los 90 días corridos posteriores al vencimiento del certificado de subsidio, de los documentos que para cada caso se señala, según la operación en la cual se hubiere aplicado el certificado de subsidio, siempre que se acredite que la escritura respectiva y la solicitud de recepción municipal fueron ingresadas a trámite al Conservador de Bienes Raíces y al Municipio, respectivamente, durante la vigencia del certificado de subsidio.
 
+Para proceder al pago, en el caso en que el beneficiario sea titular de un Subsidio de Arriendo de Vivienda, el Serviu exigirá que se acredite que este último egresó de dicho programa, de acuerdo a las normas del Reglamento que regula ese sistema.
+
 #### Artículo 33
 
 Subsidio aplicado al pago del precio de la compraventa de una vivienda. Si el subsidio se aplica al pago del precio de compraventa de una vivienda, se deberán acompañar los siguientes documentos:
@@ -556,23 +558,9 @@ c) Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del 
 
 #### Artículo 36
 
-Prórrogas o nuevo plazo de vigencia del Certificado de Subsidio. Si no concurrieren los requisitos exigidos para proceder al pago del subsidio, el Secretario Regional Ministerial de Vivienda y Urbanismo podrá, por una sola vez, mediante resoluciones fundadas dictadas a petición del Serviu, otorgar un plazo adicional al de la vigencia del certificado de subsidio o un nuevo plazo de vigencia, de hasta 180 días corridos contados desde la fecha de la resolución que otorga la prórroga o el nuevo plazo, cuando se acredite a satisfacción del referido Servicio alguna de las siguientes circunstancias:
+Plazo adicional para presentar a cobro el certificado de subsidio. El certificado de subsidio podrá ser presentado a cobro hasta 18 meses después de la fecha de término de su vigencia, si se acredita que la respectiva escritura de compraventa se ingresó al Conservador de Bienes Raíces para las inscripciones correspondientes, en caso que el subsidio se haya aplicado a la adquisición de una vivienda; o en caso de construcción en sitio propio o densificación predial, que la vivienda cuenta con recepción municipal y que se han ingresado al Conservador de Bienes Raíces o a los organismos respectivos, si corresponde, los antecedentes necesarios para las inscripciones o certificaciones señaladas en el artículo 34.
 
-a) Que la escritura de compraventa se ingresó al Conservador de Bienes Raíces, dentro de los 90 días corridos después de vencido el Certificado de Subsidio habitacional.
-
-b) En caso de construcción de viviendas, que la recepción municipal de las obras fue otorgada dentro de los 90 días corridos de vencido el Certificado de Subsidio.
-
-c) Que encontrándose en trámite la operación a la cual se aplicaría el certificado de subsidio, ha sido necesaria la designación de un sustituto por fallecimiento del beneficiario.
-
-d) En caso que el Certificado de Subsidio se vaya a aplicar a la adquisición de una vivienda que forme parte de un proyecto incluido en la Nómina de Oferta de Proyectos a que se refiere el artículo 55 de este reglamento y dicho proyecto no cuente con recepción municipal a la fecha de vencimiento del certificado de subsidio.
-
-La solicitud de prórroga o nuevo plazo de vigencia podrá ser presentada al Serviu hasta 120 días corridos después de vencido el certificado de subsidio.
-
-El Serviu tendrá un plazo máximo de 30 días corridos, desde la recepción de los antecedentes para remitirlos a la Seremi.
-
-Asimismo, la Seremi dispondrá de un máximo de 30 días corridos desde la fecha de recepción de dichos antecedentes, para dictar la resolución que apruebe la prórroga o nuevo plazo de vigencia.
-
-En caso que el beneficiario del subsidio haya reservado una vivienda que forme parte de un proyecto incluido en la Nómina de Oferta de Proyectos a que se refiere el artículo 55 de este reglamento, en que el proyecto sea retirado de la Nómina, y al Certificado de Subsidio le reste una vigencia de hasta 6 meses, dicho certificado de subsidio se prorrogará automáticamente hasta por 180 días corridos, de lo que se dejará constancia por el Serviu, mediante anotación en el respectivo certificado de subsidio.
+Si encontrándose en trámite la operación a la que se aplicará el certificado de subsidio, ha sido necesaria la designación de un sustituto por fallecimiento del beneficiario y no alcanzare a ser presentado a cobro en los plazos señalados en el inciso anterior, por una sola vez, mediante resolución del Serviu, se podrá otorgar una prórroga o nuevo plazo de vigencia por hasta 180 días.
 
 ### Párrafo 13 — De la pérdida, hurto o robo del certificado de subsidio
 
@@ -1137,6 +1125,10 @@ En caso que la entidad captadora del ahorro no informe los saldos medios referid
 e) Antigüedad de la postulación:
 
 20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación en que hubiere participado, regulados por el presente reglamento y/o por el DS Nº 49 (V. y U.), de 2011. Este puntaje se otorgará por cada llamado a postulación, hasta un máximo de tres.
+
+f) Programa de arriendo:
+
+40 puntos por cada 12 meses de copago de renta correspondientes al Programa de Subsidio de Arriendo de Vivienda, que acredite el titular del beneficio, con un máximo de 120 puntos.
 
 ## Título II — Del subsidio habitacional para Sectores Medios
 
