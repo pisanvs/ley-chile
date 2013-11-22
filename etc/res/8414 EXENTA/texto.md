@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN NÚMERO 8.414 EXENTA, DE 2013
+
+Resolución exenta Nº8.414, de fecha 18 de noviembre de 2013, dispone modificación de la nómina de postulantes seleccionados del Tercer Llamado Nacional 2012 del Sistema Integrado de Subsidio Habitacional, eliminando a don David Eliseo Valdivia Contreras, postulante seleccionado en ese llamado, de la nómina correspondiente a la Región de Arica y Parinacota, Título I, e incluyéndolo en la nómina correspondiente a la Región de Coquimbo, Título l; rectificando el Certificado de Subsidio Habitacional Serie DS1T1 3-2012 NA07979, extendido a su favor, señalando como región de aplicación del subsidio la Región de Coquimbo.
+
+Como consecuencia de lo dispuesto en el número anterior, rebájase en uno (1) el número de postulantes seleccionados y en 370 U.F. el monto de recursos necesarios para financiar el subsidio directo para la atención de los postulantes seleccionados en la Región de Arica y Parinacota, Título I, en el Tercer Llamado Nacional 2012 del Sistema Integrado de Subsidio Habitacional; y auméntase en uno (1) el número de postulantes seleccionados y en 370 U.F. el monto de recursos necesarios para financiar el subsidio directo de dicho postulante, en la Región de Coquimbo, Título I, en llamado referido.
+
+Como consecuencia de lo anterior, no se modifica el número de postulantes seleccionados, ni el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.
