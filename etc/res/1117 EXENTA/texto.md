@@ -24,23 +24,13 @@ Fíjase la siguiente norma técnica para el servicio público de telefonía móv
 
 Se atribuye las sub-bandas 1.850 - 1.910 MHz y 1.930 - 1.990 MHz para el servicio público de telefonía móvil digital 1900, en adelante el servicio.
 
-La atribución de sub-bandas es la siguiente: Frecuencias de transmisión Frecuencias de transmisión
-
-móviles bases
-
-Bloque A 1.850 - 1.865 MHz 1.930 - 1.945 MHz
-
-Bloque B 1.870 - 1.885 MHz 1.950 - 1.965 MHz
-
-Bloque C 1.895 - 1.910 MHz 1.975 - 1.990 MHz
+La atribución de sub-bandas es la siguiente:
 
 > **Nota.** El Artículo único de la Resolución 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, también podrá ser empleadas para suministrar servicio público de telefonía local inalámbrica. Establece además que las concesionarias de servicio público de telefonía móvil interesadas en suministrar el citado servicio fijo, deberán solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.
 
 #### Artículo 2°
 
-En una misma área geográfica el servicio podrá ser suministrado hasta por tres concesionarias. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
-
-> **Nota.** La RES 158 Exenta, Transportes, publicada el 03.03.2006, aclara esta disposición estableciendo que la cantidad máxima de concesionarias indicada se refiere únicamente a aquellas cuyas concesiones contemplan la titularidad en el uso y goce de los correspondientes bloques de frecuencias. Por ende, la citada restricción no es aplicable a las concesionarias que empleen medios de terceros.
+La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
 
 #### Artículo 3°
 
