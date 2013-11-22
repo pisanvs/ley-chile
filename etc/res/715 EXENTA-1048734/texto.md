@@ -16,67 +16,97 @@ Resolución:
 
 5º.- Para postular al llamado a que se refiere el número 1º de esta resolución, se deberán cumplir las siguientes condiciones:
 
-5.1.-Los postulantes o sus cónyuges deberán acreditar haber enterado el
+5.1.-Los postulantes o sus cónyuges deberán acreditar
 
-ahorro mínimo exigido para el título I, de acuerdo a las siguientes
+haber enterado el ahorro mínimo exigido para el
 
-fechas:
+## Título I — , de acuerdo a las siguientes fechas:
 
-a.- Quienes postulen entre el 25 y el 31 de marzo de 2013, ambas
+a.- Quienes postulen entre el 25 y el 31 de marzo
 
-fechas inclusive, deberán acreditar haber enterado al 28 de
+de 2013, ambas fechas inclusive, deberán
 
-febrero de 2013, el ahorro mínimo exigido para el título al que
+acreditar haber enterado al 28 de
 
-postulan.
+febrero de 2013, el ahorro mínimo exigido
 
-b.- Quienes postulen entre el 1º y el 12 de abril de 2013, ambas
+para el título al que postulan.
 
-fechas inclusive, deberán acreditar haber enterado al 31 de marzo
+b.- Quienes postulen entre el 1º y el 12 de abril
 
-de 2013, el ahorro mínimo exigido para el título al que postulan.
+de 2013, ambas fechas inclusive, deberán
 
-5.2.-El núcleo familiar declarado en la postulación, no podrá tener
+acreditar haber enterado al 31 de marzo
 
-ingresos que excedan de 40 UF, al valor de la UF vigente al 31 de
+de 2013, el ahorro mínimo exigido para el
 
-marzo de 2013.
+título al que postulan.
 
-Al momento de postular, el interesado deberá entregar la autorización
+5.2.-El núcleo familiar declarado en la postulación, no
 
-correspondiente para consultar al Servicio de Impuestos Internos u
+podrá tener ingresos que excedan de 40 UF, al valor
 
-otra entidad, acerca de los ingresos del núcleo familiar declarado.
+de la UF vigente al 31 de marzo de 2013.
 
-5.3.-Los postulantes a este llamado deberán suscribir declaración
+Al momento de postular, el interesado deberá entregar
 
-proporcionada por el Serviu, en que se comprometen a adquirir una
+la autorización correspondiente para consultar al
 
-vivienda al contado, sin requerir crédito hipotecario, cuyo precio no
+Servicio de Impuestos Internos u otra entidad,
+
+acerca de los ingresos del núcleo familiar declarado.
+
+5.3.-Los postulantes a este llamado deberán suscribir
+
+declaración proporcionada por el Serviu, en que se
+
+comprometen a adquirir una vivienda al contado, sin
+
+requerir crédito hipotecario, cuyo precio no
 
 podrá exceder de 800 Unidades de Fomento.
 
-Los postulantes a este llamado estarán exentos de presentar el
+Los postulantes a este llamado estarán exentos
 
-certificado de preaprobación de crédito o precalificación como sujeto
+de presentar el certificado de preaprobación de
 
-de crédito, ni declaración de aportes adicionales a que se refiere la
+crédito o precalificación como sujeto de crédito,
 
-letra d) del artículo 16 del DS Nº 1 (V. y U.), de 2011.
+ni declaración de aportes adicionales a que se
 
-5.4. Sólo se permitirá una postulación por cada ficha de protección
+refiere la letra d) del artículo 16 del DS Nº 1
 
-social. Dicha ficha no podrá ser invocada si ha sido utilizada para
+(V. y U.), de 2011.
 
-acreditar núcleo familiar en postulaciones de llamados vigentes de
+Si la operación de compraventa
 
-cualquiera de los programas de subsidio habitacional de este
+considera crédito hipotecario, excepcionalmente
 
-ministerio. Tampoco podrá ser utilizada por postulantes que
+mediante resolución fundada del Director del
 
-resultaron beneficiados con un subsidio habitacional, lo que se
+Serviu, se podrá autorizar el pago, siempre que
 
-aplicará a todos los integrantes de la ficha, aun cuando no hayan
+el precio de la vivienda no exceda del precio
+
+señalado en el inciso primero de este número.
+
+5.4. Sólo se permitirá una postulación por cada ficha
+
+de protección social. Dicha ficha no podrá ser
+
+invocada si ha sido utilizada para acreditar núcleo
+
+familiar en postulaciones de llamados vigentes de
+
+cualquiera de los programas de subsidio
+
+habitacional de este ministerio. Tampoco podrá ser
+
+utilizada por postulantes que resultaron beneficiados
+
+con un subsidio habitacional, lo que se aplicará a
+
+todos los integrantes de la ficha, aun cuando no hayan
 
 sido invocados como miembros del grupo familiar.
 

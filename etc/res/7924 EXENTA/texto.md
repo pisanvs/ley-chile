@@ -26,6 +26,8 @@ Al momento de postular, el interesado deberá entregar la autorización correspo
 
 Los postulantes a este llamado estarán exentos de presentar el Certificado de Preaprobación de Crédito o Precalificación como Sujeto de Crédito, ni declaración de aportes adicionales a que se refiere la letra d) del artículo 16 del DS N° 1 (V. y U.), de 2011.
 
+Si la operación de compraventa considera crédito hipotecario, excepcionalmente mediante resolución fundada del Director del Serviu, se podrá autorizar el pago, siempre que el precio de la vivienda no exceda del precio señalado en el inciso primero de este número.
+
 5.4.- Sólo se permitirá una postulación por cada Ficha de Protección Social. Dicha Ficha no podrá ser invocada si ha sido utilizada para acreditar núcleo familiar en postulaciones de llamados vigentes de cualquiera de los programas de subsidio habitacional de este Ministerio. Tampoco podrá ser utilizada por postulantes que resultaron beneficiados con un subsidio habitacional, lo que se aplicará a todos los integrantes de la Ficha, aun cuando no hayan sido invocados como miembros del grupo familiar.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Juan Carlos Jobet Eluchans, Ministro de Vivienda y Urbanismo (S).
