@@ -40,10 +40,6 @@ Resolución:
 
 5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 4. de esta resolución, las que deberán contener a lo menos, la comuna, el título del cual se trate, el nombre de cada postulante con su respectiva Cédula de Identidad y el puntaje obtenido por el grupo o persona.
 
-> **Nota.** El numeral 1º de la Resolución 1008 Exenta, Vivienda, publicada el 18.02.2014, modifica la presente norma en el sentido de sustituir en la tabla inserta los valores que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1º de la Resolución 1924 Exenta, Vivienda, publicada el 05.04.2014, modifica la presente norma en el sentido de sustituir en la tabla inserta los valores que la citada norma indica.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Fernando Fondón Rojas, Subsecretario de Vivienda y Urbanismo Subrogante.
