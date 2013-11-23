@@ -1,0 +1,25 @@
+MODIFICA DECRETO Nº 18, DE 2013, QUE OTORGA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA A SERVILAND MINERGY S.A., EN EL ÁREA DENOMINADA "CALLAQUI-E", UBICADA EN LAS COMUNAS DE ALTO BIOBÍO Y LONQUIMAY, PROVINCIAS DE BIOBÍO Y MALLECO, REGIONES DEL BIOBÍO Y DE LA ARAUCANÍA, EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 481 exento.- Santiago, 30 de octubre de 2013.- Vistos: Lo dispuesto en la ley Nº 20.402, que crea el Ministerio de Energía estableciendo modificaciones al DL Nº 2.224, de 1978 y a otros cuerpos legales; en la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en su Reglamento aprobado mediante decreto supremo Nº 114, de 15 de noviembre de 2012, del Ministerio de Energía; en el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería; en el decreto supremo Nº 18, de 15 de febrero de 2013, del Ministerio de Energía; en la presentación de don Fernando Allendes Becerra, de fecha 22 de octubre de 2013; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, mediante decreto supremo Nº 18, de 15 de febrero de 2013, del Ministerio de Energía, publicado en el Diario Oficial de fecha 20 de julio de 2013, se otorgó a Serviland Minergy S.A., la concesión de exploración de energía geotérmica denominada "Callaqui-E", ubicada en las comunas de Alto Biobío y Lonquimay, provincias de Biobío y Malleco, regiones del Biobío y de la Araucanía.
+
+2. Que, a través de presentación de fecha 22 de octubre de 2013, efectuada por don Fernando Allendes Becerra, representante legal de la empresa Serviland Minergy S.A., se informó a esta Secretaría de Estado que por escritura pública de fecha 17 de octubre de 2013, otorgada ante doña María del Carmen Lang Mandujano, Notario Público Interina de la Duodécima Notaría de Santiago, dicha empresa concesionaria vendió, cedió y transfirió a la sociedad denominada Infinergeo SpA. RUT 76.169.817-6, con domicilio en Marchant Pereira Nº 221, of. 81, Providencia, Santiago, la concesión de energía geotérmica denominada "Callaqui-E", singularizada en el considerando primero del presente decreto.
+
+3. Que, de acuerdo a lo establecido en el artículo 24 de la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica, las referidas concesiones pueden ser transferidas total o parcialmente a terceros mediante escritura pública, agregando dicho precepto que, otorgada que sea la escritura pública de transferencia, el nuevo concesionario se subrogará al concesionario anterior, por el solo ministerio de la ley, en las obligaciones y derechos de la concesión.
+
+4. Que, por su parte, el artículo 35 del decreto supremo Nº 114, de 2012, del Ministerio de Energía, que aprueba el Nuevo Reglamento de la ley Nº 19.657, establece que dentro del plazo de un mes contado desde el otorgamiento de la respectiva escritura de transferencia y sin perjuicio de la subrogación que opera por el solo ministerio de la ley, el concesionario deberá comunicar por escrito al Ministerio de Energía la transferencia de la concesión, adjuntando copia autorizada de la escritura pública de transferencia, agregando que el Ministerio, por medio de decreto supremo, procederá a modificar la concesión de acuerdo a lo establecido en la respectiva escritura pública de transferencia.
+
+5. Que, atendidos los antecedentes expuestos, el Ministerio de Energía considera ajustado a derecho proceder a la modificación del decreto supremo Nº 18, de 15 de febrero de 2013, del Ministerio de Energía, que otorgó a Serviland Minergy S.A., la concesión de exploración de energía geotérmica denominada "Callaqui-E", ubicada en las comunas de Alto Biobío y Lonquimay, provincias de Biobío y Malleco, regiones del Biobío y de la Araucanía, de conformidad con lo establecido en la ley Nº 19.657 y su Reglamento.
+
+Decreto:
+
+1º Modifícase el decreto supremo Nº 18, de 15 de febrero de 2013, del Ministerio de Energía, que otorga concesión de exploración de energía geotérmica, a Serviland Minergy S.A., en el área denominada "Callaqui-E", ubicada en las comunas de Alto Biobío y Lonquimay, provincias de Biobío y Malleco, regiones del Biobío y de la Araucanía, en el sentido que el nuevo titular de dicha concesión, a contar del día 17 de octubre de 2013, es la empresa Infinergeo SpA, 76.169.817-6, con domicilio en Marchant Pereira Nº 221, of. 81, Providencia, Santiago.
+
+2º Remítase copia de la escritura pública de fecha 17 de octubre de 2013, otorgada ante doña María del Carmen Lang Mandujano, Notario Público Interina de la Duodécima Notaría de Santiago, conjuntamente con una copia del presente decreto supremo, al Servicio Nacional de Geología y Minería de acuerdo a lo previsto en el artículo 35 del Reglamento de la ley Nº 19.657.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
