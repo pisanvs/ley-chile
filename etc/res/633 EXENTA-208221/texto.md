@@ -428,6 +428,8 @@ Vaccinium corymbosum Blueberry leaf mottle virus
 
 (Arándano Alto) (BLMV)
 
+Blueberry shock virus
+
 Blueberry stunt phytoplasma
 
 Blueberry scorch virus
@@ -436,31 +438,35 @@ Vaccinium angustifolium Blueberry leaf mottle virus
 
 (Arándano Bajo) (BLMV)
 
+Blueberry shock virus
+
 Blueberry stunt phytoplasma
 
-Vaccinium altomontanum Blueberry stunt phytoplasma
+Vaccinium altomontanum Blueberry shock virus
 
-Vaccinium amoenum
+Vaccinium amoenum Blueberry stunt phytoplasma
 
-Vaccinium atrococcum
+Blueberry shock virus
 
-Vaccinium ashei Reade
+Vaccinium atrococcum Blueberry shock virus
 
-(Arándano Ojo de Conejo)
+Vaccinium ashei Reade Blueberry shock virus
 
-Vaccinium elliottii
+(Arándano Ojo de Conejo) Blueberry stunt phytoplasma
 
-Vaccinium myrtilloides
+Vaccinium elliottii Blueberry shock virus
 
-Vaccinium stamineum
+Vaccinium myrtilloides Blueberry shock virus
+
+Vaccinium stamineum Blueberry shock virus
 
 Vaccinium macrocarpon Sin Declaración Adicional
 
-(Cranberry)
+(Cranberry) Blueberry shock virus
 
 Vaccinium vitis-idaea
 
-(Lingonberry)
+(Lingonberry) Blueberry shock virus
 
 Vitis spp. Grapevine flavescence
 
@@ -660,13 +666,17 @@ A. CON DECLARACION ADICIONAL:
 
 Especie Fitopatógenos a Certificar
 
-Dianthus spp. Carnation necrotic fleck
-
-virus (CNFV)
-
-Carnation ringspot virus
+Dianthus spp. Carnation ringpot virus
 
 (CRSV)
+
+Miltoniopsis Cymbidium mosaic virus
+
+phalaenopsis Odontoglossum ringspot virus
+
+Zigopelatum Cymbium mosaic virus
+
+brachypetalum Odontoglossum ringspot virus
 
 Aronia melanocarpa Apple stem grooving virus
 
@@ -678,13 +688,17 @@ Aster spp. (Aster) Laelia spp. (Orquídea)
 
 Bletia spp. (Orquídea) Lavandula spp. (Lavándula)
 
-Bletilla spp. (Orquídea) Lilium spp. (Lilium) Brassolaeliocattleya spp.
+Bletilla spp. (Orquídea) Lilium spp. (Lilium)
+
+Brassolaeliocattleya spp.
 
 (Orquídea) Lobelia spp. (Lobelia)
 
-Catasetum spp. (Orquídea) Lycaste spp. (Orquídea) Cattleya spp. (Orquídea) Magnolia spp. (Magnolia)
+Catasetum spp. (Orquídea) Lycaste spp. (Orquídea)
 
-Chrysanthemun
+Cattleya spp. (Orquídea) Magnolia spp. (Magnolia)
+
+Chrysanthemun Miscanthus x giganteus
 
 morifolium,
 
@@ -898,6 +912,8 @@ Cannas pp. Paeonia spp.
 
 Cortederia spp. Pimpinela spp.
 
+Platycerium bifurcatum
+
 Digitalis spp. Podophyllum spp.
 
 Dracaena spp. Stokesia spp.
@@ -1028,15 +1044,7 @@ extraer parte de la planta como muestra.
 
 15. El material una vez muestreado deberá permanecer en el Depósito Particular a la espera de los resultados de los análisis.
 
-### 16. Los envíos que hayan sido muestreados y se
-
-encuentren cumpliendo régimen de Depósito
-
-Particular en un laboratorio, a la espera de
-
-los resultados de los análisis, podrán ser
-
-traslados, previa autorización del Servicio a una estructura de confinamiento, de acuerdo a lo establecido en el número 9 de la resolución Nº 633/2003.
+16. Los envíos que hayan sido muestreados y se encuentren cumpliendo régimen de Depósito Particular en un laboratorio, a la espera de los resultados de los análisis, podrán ser traslados, previa autorización del Servicio a una estructura de confinamiento, de acuerdo a lo establecido en el número 9 de la resolución Nº 633/2003.
 
 17. Si el Depósito Particular corresponde a una estructura de confinamiento, ésta deberá ser de uso exclusivo para el envío. Dentro de ella se deberá mantener el material separado e identificado por variedad/clon.
 
@@ -1086,9 +1094,7 @@ Si el material corresponde a especies del género Prunus afectas al control obli
 
 24. A solicitud del importador se podrá conducir el Depósito Particular en forma conjunta con el sistema oficial de Certificación de Plantas Frutales dependiente del Departamento de Semillas del Servicio. En este caso, el sistema de certificación deberá atenerse a todas las normas dispuestas en esta resolución, teniendo prioridad las medidas de bioseguridad y los controles requeridos en el proceso de importación. Esta conducción conjunta deberá quedar establecida tanto en la solicitud de importación del material, como en la solicitud de inscripción de certificación de plantas frutales.
 
-### 25. Las plantas o partes de plantas cultivadas in
-
-vitro, que hayan sido modificadas genéticamente, deberán declarar tal condición y someterse a la normativa específica vigente.
+25. Las plantas o partes de plantas cultivadas in vitro, que hayan sido modificadas genéticamente, deberán declarar tal condición y someterse a la normativa específica vigente.
 
 26. Derógase la resolución del Servicio Nº 1.717 de 5 de junio de 1998 y toda otra norma que trate sobre la materia contenida en la presente resolución.
 
@@ -1099,5 +1105,7 @@ vitro, que hayan sido modificadas genéticamente, deberán declarar tal condici�
 > **Nota.** NOTA 1: EL Nº 2.1. de la RES 3641 exenta, publicada el 18.08.2006, eliminó la declaración adicional respecto del fitopatógeno "Peach latent mosaic viroid (PLMVd)" para los híbridos interespecíficos de Prunus que fueron incorporados en la presente norma por la RES 3486, Agricultura, publicada el 05.12.2003.
 
 > **Nota.** NOTA 2: La RES 5724 Exenta, Agricultura, publicada el 23.11.2007, modifica la presente norma, en el sentido de disponer que las especies Rubus idaeus, Rubus procerus, Rubus fruticosus, Rubus occidentalis, Rubus ursinus, Rubus neglectus y Rubus phoenicolasius, una vez aprobada su inspección en el Punto de Ingreso, quedarán sometidas a régimen de Depósito Particular en una Estructura de Confinamiento. De ser necesario, pueden ingresar previamente a un Depósito Particular tipo Laboratorio para su aclimatación.
+
+> **Nota.** NOTA 3 El Numeral 1.4 de la Resolución 4853 Exenta, Agricultura, publicada el 26.11.2013, modifica la presente norma en el sentido de agregar el fitopatógeno a certificar Cherry rasp leaf virus y elimina el fitopatógeno Cherry necrotic rusty mottle virus, en el número 4.3, Frutales, a todas las especies de Prunus y sus híbridos, quedando de la manera que la propia norma indica.
 
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional.
