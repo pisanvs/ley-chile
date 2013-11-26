@@ -18,7 +18,7 @@ Resuelvo:
 
 - más de 3 cm de ancho, a condición de que la superficie total de cada trozo de corteza sea inferior a 50 cm2.
 
-Cualquiera de las siguientes alternativas de tratamiento será aceptada para tratar embalajes de madera:
+Cualquiera de las siguientes alternativas de tratamientos será aceptada para tratar embalajes de madera:
 
 1.1 Tratamiento térmico, en adelante HT: El embalaje de madera deberá calentarse en horno conforme a una curva específica de tiempo/temperatura, mediante la cual el centro de la madera ha alcanzado una temperatura mínima de 56°C durante un período mínimo de 30 minutos.
 
@@ -42,7 +42,7 @@ La temperatura mínima de la cámara de fumigación no deberá ser inferior a 10
 
 1.3 Tratamiento térmico mediante calentamiento dieléctrico, en adelante DH: La norma mínima para el tratamiento aplicado a embalajes de madera es la siguiente:
 
-Cuando se utiliza calentamiento dieléctrico (por ejemplo microondas) el embalaje de madera compuesto de piezas que no excedan de 20 cm, medidos a través de la dimensión más pequeña de la pieza o de la pila, debe calentarse hasta alcanzar una temperatura mínima de 60ºC durante 1 minuto continuo en todo el perfil de la madera (incluida su superficie). La temperatura prescrita debe alcanzarse dentro de los 30 minutos a partir del comienzo del tratamiento.
+Cuando se utiliza calentamiento dieléctrico (por ejemplo, microondas) el embalaje de madera compuesto de piezas que no excedan de 20 cm, medidos a través de la dimensión más pequeña de la pieza o de la pila, debe calentarse hasta alcanzar una temperatura mínima de 60ºC durante 1 minuto continuo en todo el perfil de la madera (incluida su superficie). La temperatura prescrita debe alcanzarse dentro de los 30 minutos a partir del comienzo del tratamiento.
 
 2. Todo embalaje de madera que ingrese al país deberá presentar la siguiente Marca para certificar que ha sido sometido a alguno de los tratamientos fitosanitarios aprobados, señalados precedentemente.
 
