@@ -1,0 +1,5 @@
+OFICIALIZA NOMINACIÓN DE CONSEJEROS DEL CONSEJO ZONAL DE PESCA XI REGIÓN Y ABRE PERÍODO EXTRAORDINARIO DE POSTULACIÓN
+
+Por decreto supremo Nº 101, de 21 de junio de 2013 de este Ministerio, se designa como miembros del Consejo Zonal de Pesca XI, al Director Zonal de Pesca de la XI Región; al Director Regional de Pesca de la XI Región; el Gobernador Marítimo de la XI Región; el Seremi de Planificación de la XI Región; el Seremi de Economía de la XI Región, Eduardo Arturo Bruce Tornero, titular, y Edgardo Enrique Avello Manríquez, suplente, en representación de armadores industriales; Hans Víctor Soto Soto, titular, y Valeria Sibyla del Rosario Carvajal Oyarzo, suplente, en representación de industriales de plantas procesadoras; Guillermo Flores Dauros, titular, y Pablo Enrique Ojeda Contreras, suplente, en representación de armador artesanal; Cristián Alejandro Chávez Chiguay, titular, y Luis Alberto Coloane Aguilar, suplente, en representación de pescador artesanal; Se abre período extraordinario para los cargos declarados vacantes por el mismo decreto.
+
+Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
