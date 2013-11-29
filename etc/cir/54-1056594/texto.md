@@ -1,0 +1,7 @@
+INSTRUYE SOBRE MODIFICACIONES EFECTUADAS POR LA LEY 20.630 AL Nº 4 DEL ARTÍCULO 74 DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 54, de fecha 25 de noviembre de 2013, la cual tiene por objeto instruir sobre las modificaciones efectuadas a las normas sobre retención de impuesto establecidas en el Nº 4 del artículo 74 de la Ley sobre Impuesto a la Renta, por la ley Nº 20.630, del 27 de septiembre de 2012.
+
+De acuerdo a lo establecido en la ley Nº 20.630, el nuevo texto del Nº 4 del artículo 74 de la Ley sobre Impuesto a la Renta, rige a contar del 1º de enero de 2013, afectando, en consecuencia, a las retenciones de IA que deban practicarse a partir de esa fecha sobre las rentas o cantidades que se paguen, abonen en cuenta, se distribuyan, retiren, remesen al exterior o se pongan a disposición del interesado, o se determinen al término del ejercicio, según corresponda, considerando el hecho que ocurra en primer término y cualquiera sea la forma de percepción.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de noviembre de 2013.
