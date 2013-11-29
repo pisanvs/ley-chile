@@ -32,13 +32,15 @@ Apruébase la evaluación sanitaria del riesgo para la importación de ovas de e
 
 Déjase sin efecto la suspensión de la importación de ovas de especies salmónidas provenientes de Dinamarca ordenada mediante resolución exenta número 1.869, citada en Visto, y autorízase a dicho país, de acuerdo a la evaluación referida, para exportar a Chile ovas de especies salmónidas bajo las siguientes condiciones:
 
-1º Sólo podrán ser objeto de importación a Chile ovas de Salmón del Atlántico procedentes de los siguientes centros de cultivo:
+1º Sólo podrán ser objeto de importación a Chile ovas de Trucha Arco Iris procedentes de los siguientes centros de cultivo:
 
 2º Se reconocen los Programas Sanitarios Oficiales implementados por la Autoridad Competente de Dinamarca, Danish Veterinary and Food Administration (DVFA).
 
 3º De conformidad con lo señalado en el numeral precedente, las condiciones de certificación para cada envío, independiente del centro de origen, serán las siguientes:
 
 4º Como resultado del análisis de riesgo, no se requerirán certificaciones complementarias.
+
+> **Nota.** El artículo primero de la Resolución Exenta 2755, Economía, publicada el 29.11.2013, ordena modificar el numeral 1º del artículo primero de la presente norma, no obstante, encontrarse el numeral 1 en el artículo segundo.
 
 #### Artículo tercero
 
