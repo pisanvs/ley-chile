@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.276, de 22 de noviembre de 2013, de esta Subsecretaría, modifícase el numeral 1º de la resolución exenta Nº 3.115, de 2013, que estableció la nómina pesquerías y las especies que la constituyen por región, el respectivo arte o aparejo de pesca y categoría de pescador que la pueda extraer, y que conformarán el Registro Artesanal, en el sentido de reemplazar la Parte Tercera: Nómina de Pesquerías Artesanales de Isla de Pascua, Especie Objetivo, Arte o Aparejo de Pesca, Categoría, por la señalada en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 22 de noviembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
