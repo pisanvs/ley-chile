@@ -56,7 +56,7 @@ En los decretos que se dicten por aplicación de las normas 1.4 y 1.6 al 1.9 pre
 
 1.11 Incrementos o reducciones de transferencias del ítem 24.02 o 33.02, según corresponda, aprobadas en la Ley de Presupuestos, con las modificaciones de ingresos y de gastos que procedan, tanto en la entidad otorgante, como en el organismo receptor.
 
-2. Por decretos del Ministerio de Hacienda, que deberá también suscribir el Ministro del ramo correspondiente, se efectuarán:
+### 2. Sólo por decreto del Ministerio de Hacienda, se efectuarán:
 
 a) Traspasos, en Gastos:
 
@@ -84,15 +84,7 @@ b) Otras Modificaciones:
 
 2.11 Modificaciones de la distribución del aporte fiscal libre entre los diferentes programas del mismo capítulo.
 
-No obstante, por aplicación de las normas señaladas en las letras
-
-- **a)** y
-
-- **b)** precedentes, el subtítulo 21 no podrá ser incrementado ni disminuido, debiendo éste regirse en materia de traspasos por la norma 1.7 de este Título. Asimismo, las disposiciones a que se refieren las letras
-
-- **a)** y
-
-- **b)** tampoco se aplicarán al subtítulo 35, el cual se regirá por las normas 1.2 y 1.3 señaladas en el presente Título, ni a los demás casos que tienen normas específicas en los Títulos I y II del presente decreto.
+No obstante lo dispuesto precedentemente, los decretos que contengan creaciones de asignaciones identificatorias de estudios básicos, proyectos y programas de inversión, a que se refiere la norma 2.9, deberán ser suscritos, además, por el Ministro del ramo correspondiente.
 
 ### III. PROGRAMAS DE INVERSIÓN REGIONAL DE LOS GOBIERNOS REGIONALES
 
