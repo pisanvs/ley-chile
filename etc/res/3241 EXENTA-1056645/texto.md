@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.241, de 22 de noviembre de 2013, de esta Subsecretaría, los titulares de Licencias Transable de Pesca Clase A, en las unidades de pesquería del recurso Jurel de la XV, I y II Regiones, III y IV Regiones, V a IX Regiones y XIV y X Regiones, incrementarán las toneladas que les corresponda extraer durante el presente año calendario, de conformidad con lo dispuesto en la resolución exenta Nº 2.342, de 2013, modificada mediante resolución exenta Nº 2.939, de 2013, ambas de esta Subsecretaría, en los montos que en cada caso se indica:
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 22 de noviembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
