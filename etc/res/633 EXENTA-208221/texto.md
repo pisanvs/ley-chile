@@ -944,9 +944,45 @@ Plumpox virus (PPV).
 
 Para aquellos híbridos en que al menos una de las especies que lo constituyen no estén contempladas en esta resolución, se procederá conforme al número 6 precedente.
 
-8. Las especies que requieren Declaración Adicional como condición de ingreso, deben cumplir con régimen de Depósito Particular, lugar donde quedará retenido el envío hasta que el Servicio compruebe mediante análisis de laboratorio oficial, la ausencia de las plagas solicitadas como Declaración Adicional.
+8. Cumplirán con Nivel de Cuarentena Posentrada para Material Vegetal como Cultivo de Tejido In Vitro aquellos envíos correspondientes a las especies vegetales que requieren Declaración Adicional como condición de ingreso, previa emisión de la resolución que autoriza Cuarentena Posentrada.
 
-9. El Depósito Particular podrá corresponder a un laboratorio de cultivo in vitro o a una estructura de confinamiento que cumpla con las condiciones establecidas en los números 5 y 17 de la resolución Nº 3.280 de 1999 de este Servicio, que establece regulaciones para el ingreso de material vegetal con régimen de cuarentena de post-entrada y en los números 37 y 38 de la resolución Nº 2.863 de 2001, que la complementa. En ambos casos y previo al ingreso del material, el recinto deberá ser aprobado por los profesionales de Oficina del Servicio bajo cuya jurisdicción se encuentre el Depósito, quienes una vez autorizado el recinto, emitirán un informe de aprobación. Este documento deberá ser presentado en la Oficina del Servicio del puerto de ingreso, al momento de la inspección.
+Se entenderá por Cuarentena Posentrada para Material Vegetal como Cultivo de Tejido In Vitro (Cuarentena In Vitro) al Nivel de Cuarentena Posentrada aplicada a un envío correspondiente a material vegetal producido bajo técnicas de cultivo in vitro, que contemple Declaraciones Adicionales que requieran verificación fitosanitaria mediante técnicas específicas de laboratorio y que al momento del ingreso mantienen esta condición in vitro. Estos ingresarán a una Estación Cuarentenaria 2 o 3, en un lugar presentado por el Importador y autorizado por el Servicio, hasta que éste compruebe, mediante técnicas de diagnóstico oficial, la ausencia de las plagas solicitadas como Declaración Adicional.
+
+9. La Cuarentena In Vitro deberá ingresar y establecerse en una Estación Cuarentenaria 3, correspondiente a un laboratorio de cultivo in vitro, o a una Estación Cuarentenaria 2, correspondiente a fase de aclimatación en invernadero, dando cumplimiento para este último caso con las condiciones descritas en la resolución que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial, con excepción al área de seguridad, aplicable, en este caso, al aislamiento requerido respecto de especies fitosanitariamente afines, de acuerdo a lo definido por el Servicio.
+
+Los procedimientos para la emisión de la resolución que autoriza Cuarentena Posentrada y su ingreso bajo esta medida fitosanitaria, serán los descritos en la resolución que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial, con excepción de las especies y tipo de envíos señalados en dicha normativa, y al cumplimiento de los aspectos generales descritos en la resolución que "establece los requisitos para el ingreso de material vegetal a Cuarentena Posentrada.
+
+9 bis. Cuando la Cuarentena in vitro se establezca en una Estación Cuarentenaria 3, correspondiente a un laboratorio de cultivo in vitro, deberá dar cumplimiento a las siguientes condiciones:
+
+1. Personal requerido para la conducción de la Cuarentena: Corresponde al personal autorizado por el Servicio, para acceder a la Estación Cuarentenaria 3 y realizar la manipulación a este material, quienes deberán tener conocimientos del manejo, condiciones de aislamiento y el resguardo fitosanitario requerido por el Servicio para la adecuada conducción de éstos.
+
+a) Contraparte Técnica: Será definida por el importador, quien deberá ser un profesional del área silvoagrícola o biológica, con una carrera de a lo menos 10 semestres, con conocimiento en técnicas de manejo de cultivo in vitro, el cual actuará como responsable técnico ante el Servicio de la Cuarentena in vitro establecida en laboratorio, y en todo lo relativo a la toma de decisiones relacionadas a los materiales cuarentenados. Deberá poseer conocimientos en la normativa y procedimientos que realiza el Servicio en el ámbito de la Cuarentena Posentrada. Deberá estar presente en todas las actividades que el Inspector del Servicio le comunique previamente, a objeto de informarse directamente de su avance y de los requerimientos definidos por el Servicio, realizando las mejoras solicitadas dentro de los plazos establecidos por este último.
+
+b) Personal de Laboratorio: Corresponde a la/s persona/s con conocimiento en técnicas de cultivo in vitro que efectúa/n los repiques, excisiones, transferencias y otros manejos sobre el material cuarentenado; realizan labores de lavado, desinfección y/o esterilización de materiales, implementos, equipos, medios y material vegetal de desecho, según corresponda; preparación de medios de cultivos; control de las condiciones medioambientales para el crecimiento de los materiales in vitro, y observación de estos cultivos, así como las asociadas a la mantención de las condiciones de aislamiento y resguardo. Estas actividades deberán ejecutarlas en base a las directrices definidas por la Contraparte Técnica y previamente establecidas por el Servicio.
+
+2. Estación Cuarentenaria 3 (Laboratorio In Vitro): Esta deberá estar habilitada a lo menos para desarrollo y producción en cultivo de tejidos vegetales in vitro, el cual contará con las siguientes características y partes del laboratorio: una estructura física única y continua constituida por sala de preparación de medios, sala de lavado y de esterilización, sala de siembra o transferencia, sala de crecimiento o incubación.
+
+a) Sala de preparación de medios: Zona utilizada principalmente con este fin, que debe proveer también espacio para almacenar los materiales de vidrio y de plástico, y los reactivos químicos, disponiendo de mesas de trabajo, estanterías, balanzas, equipos de refrigeración, entre otros.
+
+b) Sala de lavado y esterilización: Sala o zona que puede estar constituida por dos áreas conectadas entre sí, o por un solo ambiente, ubicándose en ésta un lavadero y una fuente de suministro de agua, contenedores exclusivos para depositar material vegetal o inorgánico proveniente de la cuarentena, autoclave de tamaño adecuado para el material que se procese, entre otros.
+
+c) Sala de transferencia: Zona en la cual se debe realizar el trabajo de excisión y transferencia de los explantes a los medios de cultivo, en cámaras de flujo laminar.
+
+d) Sala de crecimiento: Área donde se incuban los cultivos in vitro, bajo condiciones de control de temperatura, iluminación y humedad, disponiendo de estanterías para ubicar los cultivos.
+
+e) Señalética: Ubicada en la puerta de acceso a la Estación Cuarentenaria (laboratorio), en la que se señale: "Laboratorio Cuarentena In Vitro".
+
+f) Vestimenta: Delantales, cubre calzado desechable, gorros y guantes, ambos desechables para la manipulación del material.
+
+g) Contenedores: Herméticos, transparentes y lavables, para mantener el cultivo in vitro.
+
+h) Implementos:
+
+0 Libro de manejo, foliado.
+
+0 Materiales para toma de muestra, bolsas plásticas (medianas y grandes), papel absorbente, tubos de vidrio, alcohol al 70%, plumón permanente, entre otros. Cumplido lo señalado en el numeral 3 o 4, según corresponda, se deberá continuar con el procedimiento para la emisión de la resolución que autoriza Cuarentena Posentrada y la recepción del envío, de acuerdo a lo descrito en la resolución que establece regulaciones para ingreso de material vegetal a Cuarentena Posentrada Predial; al mismo tiempo se deberá dar cumplimiento a lo establecido en la resolución que "establece los requisitos para el ingreso de material vegetal a Cuarentena Posentrada". La Contraparte Técnica deberá mantener acceso restringido a las dependencias de la Estación Cuarentenaria 3 (laboratorio), descritas en el resuelvo 9 bis 2., donde se mantienen los cultivos in vitro cuarentenados, autorizándose la manipulación y manejo del material cuarentenado y lo que derive de éste, sólo al personal descrito e individualizado en el número 9 bis 1. precedente".
+
+Dentro de este laboratorio se definirá una zona de uso exclusivo para el material cuarentenado que permanece en la sala de crecimiento, en la cual se deberá disponer de señalética visible con la fecha y número de la resolución que autoriza Cuarentena Posentrada.
 
 10. En el puerto de ingreso el total de la partida, incluyendo el material de embalaje, será sometido a una inspección fitosanitaria. En caso de ser aprobada, se procederá de la siguiente forma:
 
@@ -962,7 +998,7 @@ ingreso.
 
 Adicional, y que por lo tanto requieren
 
-cumplir con régimen de Depósito Particular,
+cumplir con régimen de Cuarentena In Vitro,
 
 serán destinadas al recinto previamente
 
@@ -972,7 +1008,7 @@ además de presentar en la Oficina del
 
 Servicio del puerto de ingreso el informe de
 
-aprobación del Depósito Particular, deberá
+aprobación del Cuarentena In Vitro, deberá
 
 consignar en el Certificado de Destinación
 
@@ -986,7 +1022,7 @@ proveedora; finalidad de la importación;
 
 nombre y dirección del recinto en que
 
-cumplirá régimen de Depósito Particular;
+cumplirá régimen de Cuarentena In Vitro;
 
 nombre del representante técnico, que debe
 
@@ -1004,7 +1040,7 @@ electrónico.
 
 13. Al momento de la recepción en el depósito particular, los profesionales de la Oficina del Servicio procederán a captar muestras por especie y variedad/clon, para ser analizadas en el Laboratorio del Servicio, con el propósito de comprobar la ausencia de plagas cuarentenarias.
 
-14. De no ser posible el muestreo al momento de la recepción del envío en el Depósito Particular, por razones de índole operativo, la captación de la muestra podrá aplazarse hasta que se logre las condiciones adecuadas.
+14. De no ser posible el muestreo al momento de la recepción del envío en el Cuarentena In Vitro, por razones de índole operativo, la captación de la muestra podrá aplazarse hasta que se logre las condiciones adecuadas.
 
 Del mismo modo y a solicitud del importador, podrá aplazarse el muestreo cuando la cantidad de material ingresado sea inferior a 100 plántulas por variedad/clon. En este caso se procederá de la siguiente forma, de acuerdo al tipo de Depósito en que se mantenga el envío:
 
@@ -1030,41 +1066,47 @@ que las plántulas alcancen el tamaño
 
 adecuado para ser remitidas al Laboratorio.
 
-14.2 Si el Depósito Particular corresponde a una
+14.2 Si la Cuarentena In Vitro se encuentra
 
-estructura de confinamiento, el material no
+establecida en una Estación Cuarentenaria 2,
 
-deberá multiplicarse y el muestreo se
+el material no deberá multiplicarse y el
 
-realizará una vez que las plantas se hayan
+muestreo se realizará una vez que las
 
-desarrollado de tal forma que permita
+plantas se hayan desarrollado, de tal forma
 
-extraer parte de la planta como muestra.
+que permita extraer la planta completa o
 
-15. El material una vez muestreado deberá permanecer en el Depósito Particular a la espera de los resultados de los análisis.
+parte de ella como muestra, según corresponda.
 
-16. Los envíos que hayan sido muestreados y se encuentren cumpliendo régimen de Depósito Particular en un laboratorio, a la espera de los resultados de los análisis, podrán ser traslados, previa autorización del Servicio a una estructura de confinamiento, de acuerdo a lo establecido en el número 9 de la resolución Nº 633/2003.
+15. El material una vez muestreado deberá permanecer en el Cuarentena In Vitro a la espera de los resultados de los análisis.
 
-17. Si el Depósito Particular corresponde a una estructura de confinamiento, ésta deberá ser de uso exclusivo para el envío. Dentro de ella se deberá mantener el material separado e identificado por variedad/clon.
+16. Los envíos que hayan sido muestreados y se encuentren cumpliendo régimen de Cuarentena In Vitro en un laboratorio, a la espera de los resultados de los análisis, podrán ser traslados, previa autorización del Servicio a una estructura de confinamiento, de acuerdo a lo establecido en el número 9 de la resolución Nº 633/2003.
+
+17. Si el Cuarentena In Vitro corresponde a una estructura de confinamiento, ésta deberá ser de uso exclusivo para el envío. Dentro de ella se deberá mantener el material separado e identificado por variedad/clon.
 
 Si los Depósitos Particulares corresponden a laboratorios, los materiales se deberán mantener en condiciones de resguardo, separados y claramente delimitados de cualquier otro material vegetal existente en él, debiéndose mantener el envío en bandejas o repisas de uso exclusivo, de manera de conservar la identificación del material. El envío deberá mantenerse separado por especie y variedad/clon y cada envase, tanto del material original como del derivado del mismo, rotulado e identificado. Los antecedentes requeridos para la identificación del material son: número del CDA, nombre o código de la variedad (ambos antecedentes deberán ir necesariamente en la etiqueta del frasco), fecha y número del repique, como mínimo.
 
 18. En los Depósitos Particulares no podrán realizarse multiplicaciones o repiques, destrucción de material u otras labores de manejo, sin la autorización del Servicio, para lo cual el importador o responsable técnico deberá solicitarlo a la Oficina del Servicio correspondiente, con 24 horas de anticipación. El importador deberá llevar un libro de registro foliado de todas las labores (multiplicaciones, repiques, destrucciones, etc.), el cual deberá contar con los siguientes antecedentes: Número de CDA, fecha de recepción, especie, variedad, cantidad inicial de plantas y envases, tipo de labor, fecha de ejecución de la labor, material resultante y nombre de la persona que registra el evento.
 
-19. Si los análisis efectuados al material resultaran positivos a cualquiera de las plagas cuarentenarias exigidas en la presente resolución u otras, que después de realizado el Análisis de Riesgo de Plagas respectivo califiquen como tal, se procederá de la siguiente forma, de acuerdo al tipo de Depósito Particular:
+18 bis. La destrucción del material vegetal proveniente de la Cuarentena In Vitro/Laboratorio, ya sea por muerte o debilitamiento, así como los medios de cultivo, envases y otros elementos utilizados, deberán ser autoclavados en presencia del Servicio. Para los materiales establecidos en Estación Cuarentenaria 2, deberá procederse de acuerdo a lo descrito en la resolución que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial
 
-19.1 Si el Depósito corresponde a un laboratorio,
+19. Si los análisis efectuados al material resultaran positivos a cualquiera de las plagas cuarentenarias exigidas en la presente resolución u otras, que después de realizado el Análisis de Riesgo de Plagas respectivo califiquen como tal, se procederá de la siguiente forma, de acuerdo al tipo de Cuarentena In Vitro:
 
-se deberá destruir la totalidad de la
+19.1 Si la Cuarentena In Vitro se encuentra
 
-variedad afectada, en la forma que determine
+establecida en una Estación Cuarentenaria
 
-el Departamento de Protección Agrícola, en
+3 (laboratorio), se deberá destruir la
 
-presencia de un inspector del Servicio y con
+totalidad de la especie afectada, en la
 
-costo del importador.
+forma que determine el Servicio, en
+
+presencia de un Inspector del Servicio
+
+y con costo del Importador.
 
 19.2 Si corresponde a una estructura de
 
@@ -1082,17 +1124,17 @@ inspector del Servicio y con costo del
 
 importador.
 
-20. La destrucción de los envíos deberá ser ordenada por una resolución fundada, emitida por el Director Regional correspondiente.
+20. Frente a la detección de una plaga cuarentenaria, en el material mantenido en Cuarentena In Vitro, deberá dictarse una resolución de Destrucción por el Director Regional correspondiente.
 
-21. Si los análisis de laboratorio determinan la ausencia de plagas cuarentenarias, la Oficina del Servicio correspondiente procederá a autorizar la liberación del material, entregando al importador un informe final en que conste dicha condición.
+21. Si los análisis de laboratorio determinan la ausencia de plagas cuarentenarias, el Servicio emitirá la resolución de término respectiva, la cual deberá ser notificada al Importador.
 
 22. Si el material de importación se destina a reproducción, el interesado deberá estar inscrito o inscribirse como viverista en la Oficina del Servicio correspondiente, debiendo dar cumplimiento a la normativa vigente para criaderos, viveros y depósitos de plantas.
 
 Si el material corresponde a especies del género Prunus afectas al control obligatorio de Plum Pox Virus (PPV), deberá previo a su liberación, comunicar si el material ingresará a un Plantel de Plantas Madres libres de PPV, dando cumplimiento a la normativa vigente para esta plaga.
 
-23. Los envíos que provengan de Centros Reconocidos oficialmente por el Servicio, según lo establecido en la Res. Nº 2.863 de 2001, no cumplirán con régimen de Depósito Particular.
+23. Los envíos que provengan de Centros Reconocidos oficialmente por el Servicio, según lo establecido en la Res. Nº 2.863 de 2001, no cumplirán con régimen de Cuarentena In Vitro.
 
-24. A solicitud del importador se podrá conducir el Depósito Particular en forma conjunta con el sistema oficial de Certificación de Plantas Frutales dependiente del Departamento de Semillas del Servicio. En este caso, el sistema de certificación deberá atenerse a todas las normas dispuestas en esta resolución, teniendo prioridad las medidas de bioseguridad y los controles requeridos en el proceso de importación. Esta conducción conjunta deberá quedar establecida tanto en la solicitud de importación del material, como en la solicitud de inscripción de certificación de plantas frutales.
+24. A solicitud del importador se podrá conducir el Cuarentena In Vitro en forma conjunta con el sistema oficial de Certificación de Plantas Frutales dependiente del Departamento de Semillas del Servicio. En este caso, el sistema de certificación deberá atenerse a todas las normas dispuestas en esta resolución, teniendo prioridad las medidas de bioseguridad y los controles requeridos en el proceso de importación. Esta conducción conjunta deberá quedar establecida tanto en la solicitud de importación del material, como en la solicitud de inscripción de certificación de plantas frutales.
 
 25. Las plantas o partes de plantas cultivadas in vitro, que hayan sido modificadas genéticamente, deberán declarar tal condición y someterse a la normativa específica vigente.
 
@@ -1107,5 +1149,7 @@ Si el material corresponde a especies del género Prunus afectas al control obli
 > **Nota.** NOTA 2: La RES 5724 Exenta, Agricultura, publicada el 23.11.2007, modifica la presente norma, en el sentido de disponer que las especies Rubus idaeus, Rubus procerus, Rubus fruticosus, Rubus occidentalis, Rubus ursinus, Rubus neglectus y Rubus phoenicolasius, una vez aprobada su inspección en el Punto de Ingreso, quedarán sometidas a régimen de Depósito Particular en una Estructura de Confinamiento. De ser necesario, pueden ingresar previamente a un Depósito Particular tipo Laboratorio para su aclimatación.
 
 > **Nota.** NOTA 3 El Numeral 1.4 de la Resolución 4853 Exenta, Agricultura, publicada el 26.11.2013, modifica la presente norma en el sentido de agregar el fitopatógeno a certificar Cherry rasp leaf virus y elimina el fitopatógeno Cherry necrotic rusty mottle virus, en el número 4.3, Frutales, a todas las especies de Prunus y sus híbridos, quedando de la manera que la propia norma indica.
+
+> **Nota.** NOTA 4 El Numeral 3º de la Resolución 5622 Exenta, Agricultura, publicada 30.11.2013, modifico la presente norma en el sentido de reemplazar en todo el texto de la resolución el término Depósito Particular por Cuarentena In Vitro.
 
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional.
