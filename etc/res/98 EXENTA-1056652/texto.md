@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO COMO RECEPTORAS DE ALIMENTO CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 98, de 27 de noviembre de 2013, que autoriza a las instituciones sin fines de lucro, Fundación Abrazarte Artistas por una Obra, RUT Nº 65.003.688-3; Fundación de Beneficencia de la Mujer Levántate, RUT Nº 65.019.819-0; Fundación Educacional Belén, RUT Nº 74.805.100-7; Organización No Gubernamental de Desarrollo Dianova Chile, RUT Nº 65.058.700-6; Fundación Diabetes Juvenil de Chile, RUT Nº 71.494.700-1, y Organización No Gubernamental de Desarrollo Comunidad Terapeuta Raíces, RUT Nº 65.535.800-5, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de noviembre de 2013.
