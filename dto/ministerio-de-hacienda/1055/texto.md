@@ -36,7 +36,7 @@ a) Certificado de antecedentes para fines especiales proporcionado por el Servic
 
 b) Certificado de nacimiento o cédula nacional de identidad;
 
-c) Permiso de permanencia definitiva y cédula de identidad para extranjeros al día, para el caso de ser extranjero;
+c) Permiso de residencia o permanencia definitiva y cédula de identidad para extranjeros al día, para el caso de ser extranjero;
 
 d) Certificado de no quiebra emitido por la Superintendencia de Quiebras;
 
@@ -110,7 +110,7 @@ Obligaciones de corredores de seguros. Los corredores estarán obligados a:
 
 3) Asistir al asegurado durante toda la vigencia del contrato, especialmente en las modificaciones que eventualmente correspondan y al momento de producirse un siniestro.
 
-4) Remitir al asegurado la póliza contratada dentro de los cuatro días siguientes a su recepción de parte de la entidad aseguradora, debiendo verificar al momento de entregársela, que las condiciones del contrato son las mismas propuestas a la compañía de seguros.
+4) Remitir al asegurado la póliza contratada dentro de los cinco días siguientes a su recepción de parte de la entidad aseguradora, debiendo verificar al momento de entregársela, que las condiciones del contrato son las mismas propuestas a la compañía de seguros.
 
 En caso que la entidad aseguradora rechace o modifique la cobertura del riesgo propuesto, el corredor deberá comunicar de inmediato este hecho al proponente por los medios indicados en el artículo 30 de este Reglamento.
 
@@ -252,7 +252,9 @@ En el formulario que se utilice para la denuncia de siniestro se deberá emplear
 
 #### Artículo 19
 
-Procedimiento de liquidación. Denunciado un siniestro y cuantificada la pérdida, la compañía de seguros dispondrá el pago de la indemnización en los términos convenidos en la póliza respectiva y, en caso de requerirse mayores antecedentes sobre su procedencia y monto, dispondrá su liquidación.
+Pago de indemnización y procedimiento de liquidación. Denunciado un siniestro y cuantificada la pérdida, la compañía de seguros dispondrá el pago de la indemnización en los términos convenidos en la póliza respectiva y, en caso de requerirse mayores antecedentes sobre su procedencia y monto, dispondrá su liquidación.
+
+No será necesario el procedimiento de liquidación cuando la compañía cubra íntegramente el siniestro reclamado y lo pague conforme a lo previsto en el inciso segundo del artículo 27 de este Reglamento.
 
 La liquidación tiene por fin establecer la ocurrencia de un siniestro, determinar si el siniestro está cubierto en la póliza contratada en una compañía de seguros determinada, y cuantificar el monto de la pérdida y de la indemnización a pagar, todo ello de conformidad al procedimiento que establece el presente Reglamento.
 
@@ -276,7 +278,7 @@ Dentro del plazo de 3 días contado desde la fecha de la denuncia, la asegurador
 
 En dicha comunicación, la compañía de seguros deberá informar al asegurado el derecho que le asiste para solicitar, que la liquidación sea practicada por un liquidador registrado en lugar de la liquidación directa por parte de la aseguradora. La decisión de designar un liquidador o liquidar directamente por la compañía de seguros, como el derecho de oposición a la liquidación directa por el asegurado, también podrá informarse o ejercerse al momento de recibirse la denuncia del siniestro.
 
-Cuando la liquidación sea practicada directamente por la aseguradora, resultarán aplicables respecto de ésta las disposiciones establecidas en el párrafo III de este Reglamento.
+Cuando la liquidación sea practicada directamente por la aseguradora, resultarán aplicables respecto de ésta las disposiciones establecidas en el Título III de este Reglamento.
 
 #### Artículo 21
 
@@ -304,6 +306,8 @@ La prórroga deberá anotarse en el registro del artículo 16 y comunicarse, por
 
 No podrá ser motivo de prórroga la solicitud de nuevos antecedentes cuyo requerimiento pudo razonablemente preverse con anterioridad, salvo que se indiquen las razones que justifiquen su falta de requerimiento, ni podrán prorrogarse los siniestros en que no haya existido gestión alguna por parte del liquidador.
 
+En el caso de aquellos seguros en que por su naturaleza no es posible contar el plazo para la liquidación de acuerdo a lo establecido en el inciso primero de este artículo, dicho plazo se contará desde que se ponga en conocimiento del liquidador la ocurrencia del hecho necesario para configurar propiamente el siniestro, como la cosecha en el caso del seguro agrícola, o la notificación de la sentencia ejecutoriada, en el caso del seguro de responsabilidad civil definido en el artículo 570 del Código de Comercio.
+
 #### Artículo 24
 
 Preinforme de liquidación. En aquellos siniestros en que durante el proceso de liquidación surgieren problemas y diferencias de criterios acerca de sus causas, evaluación de los riesgos o extensión de la cobertura, el liquidador actuando de oficio o a petición del asegurado, podrá emitir un preinforme de liquidación sobre la cobertura del siniestro y el monto de los daños producidos, el que deberá poner simultáneamente en conocimiento de los interesados.
@@ -330,6 +334,8 @@ Impugnado el informe de liquidación, el liquidador o la compañía aseguradora,
 
 La respuesta del liquidador a las impugnaciones efectuadas se remitirá al asegurado y asegurador, en forma simultánea.
 
+Tratándose de los seguros a que se refiere el inciso segundo del artículo 542 del Código de Comercio, el plazo para impugnar la liquidación será de 20 días, mientras que el de respuesta a la impugnación será de 12 días.
+
 #### Artículo 27
 
 Pago de la indemnización. Si dentro del plazo de 5 días de concluido el proceso de liquidación, persistieran las diferencias entre el asegurador y el asegurado respecto del monto de la indemnización o sobre su procedencia, la compañía de seguros deberá notificar al asegurado su resolución final respecto al siniestro. Se entenderá concluido el proceso de liquidación, una vez que sean contestadas las impugnaciones o venzan los plazos para impugnar.
@@ -337,6 +343,8 @@ Pago de la indemnización. Si dentro del plazo de 5 días de concluido el proces
 El siniestro deberá ser pagado por la compañía de seguros dentro de los 6 días siguientes de notificada la resolución de la compañía de seguros respecto de la procedencia del pago de la indemnización, salvo que la póliza disponga un plazo distinto, el cual, en todo caso, no podrá exceder de los 6 días señalados anteriormente en el caso de pólizas depositadas en la Superintendencia. En el mismo plazo, deberá ponerse a disposición del asegurado la suma no disputada, si la hubiere.
 
 En la decisión final de la compañía de seguros, deberá siempre informarse al asegurado su derecho a recurrir al procedimiento establecido en la póliza, o al que corresponda conforme la ley, para reclamar el pago de su pretendida indemnización o solucionar las dificultades que subsistan.
+
+Tratándose de indemnizaciones cuyo pago no sea en dinero conforme al artículo 563 del Código de Comercio, éstas se realizarán dentro del plazo indispensable para cumplirlas, según la naturaleza de la prestación y conforme a lo previsto en el contrato. La Compañía de Seguros, al comunicar su decisión final sobre el siniestro, pondrá en conocimiento del asegurado la forma y estimación del plazo para el pago de dicha indemnización.
 
 #### Artículo 28
 
