@@ -1,0 +1,5 @@
+IMPARTE INSTRUCCIONES SOBRE CESIÓN DE CRÉDITOS CONTENIDOS EN UNA FACTURA ELECTRÓNICA Y ESTABLECE PROCEDIMIENTOS QUE INDICA. DEROGA CIRCULAR Nº 23, DE 2005, Y CIRCULAR Nº 27, DE 2009.
+
+Extracto de circular del Servicio de Impuestos Internos Nº 56, del 27 de noviembre de 2013, que instruye sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Créditos. Deroga la circular Nº 23, del 14 de abril de 2005, y la circular Nº 27, del 8 de mayo de 2009.
+
+El texto íntegro de esta circular será publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de noviembre de 2013.
