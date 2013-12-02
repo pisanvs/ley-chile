@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.700, 20 de noviembre de 2013, Serviu Región del Biobío ordenó expropiación Parcial del inmueble ubicado en Los Carrera 798 (Lote 31), de la comuna de Los Ángeles, Rol de avalúo Nº 507-000008 de esa comuna de aparente dominio de Pacheco Díaz Rosa Ximena. La parte afecta a expropiación tiene una superficie de 58,27 m² de terreno y 0 m² de edificación, cuyos linderos particulares se encuentran enmarcados en Lote 31 en el polígono A-B-C-D-E-A del plano S8R-28.097-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Andrés Javier Tobar Beluzán, el arquitecto Rodrigo Enrique Vilches Van Rysselberghe y la arquitecta Carolina del Pilar Zuloaga Sanhueza que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $2.448.635, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $29.012, lo que dan la cifra de $2.477.647.
+
+Director Serviu Región del Biobío.
