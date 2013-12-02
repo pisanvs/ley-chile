@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.702, 20 de noviembre de 2013, Serviu Región del Biobío ordenó expropiación Parcial del inmueble ubicado en Los Carrera 769 (Lote 43), de la comuna de Los Ángeles, Rol de avalúo Nº 257-00016 de esa comuna de aparente dominio de Julio Eduardo Segovia Somosa La parte afecta a expropiación tiene una superficie de 1,56 m² de terreno y 0 m² de edificación, cuyos linderos particulares se encuentran enmarcados en Lote 43 en el polígono A-B-C-D-A del plano S8R-28.109-2, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta María Pamela Mac-Guire Acevedo, la arquitecto María Alejandra Gutiérrez Flores y el ingeniero civil Gabriel Fernández de la Maza que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $372.945, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $4.419, lo que dan la cifra de $377.364.
+
+Director Serviu Región del Biobío.
