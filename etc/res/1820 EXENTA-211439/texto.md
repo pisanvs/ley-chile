@@ -852,7 +852,7 @@ Durante el año 2012 el proceso de selección de proyectos efectuado por las Sec
 
 <!-- parte:9384931 -->
 
-Durante el año 2013, el proceso de selección de proyectos efectuado por las Secretarías Regionales de Vivienda y Urbanismo tendrá como fecha de cierre el día 15 de noviembre de 2013.
+Durante el año 2013, el día 2 de diciembre será la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica, y el día 13 de diciembre será la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
