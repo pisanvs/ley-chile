@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.703, 21 de noviembre de 2013, Serviu Región del Biobío ordenó expropiación Parcial del inmueble ubicado en Los Carrera 820 ST 4 (Lote 26), de la comuna de Los Ángeles, Rol de avalúo Nº 507-00039 de esa comuna de aparente dominio de Espinoza Chávez Blanca M. La parte afecta a expropiación tiene una superficie de 65,82 m² de terreno y 0 m² de edificación, cuyos linderos particulares se encuentran enmarcados en Lote 26 en el polígono A-B-C-D-A del plano S8R-28.092-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto Andrés Javier Tobar Beluzán, arquitecto Rodrigo Enrique Vilches Van Rysselberghe y arquitecta Carolina del Pilar Zuloaga Sanhueza que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $3.630.270, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $43.012, lo que dan la cifra de $3.673.282.
+
+Director Serviu Región del Biobío.
