@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.622 EXENTA, DE 2013
+
+Con fecha 28 de octubre de 2013, se dictó la resolución exenta Núm. 3.622, en virtud de la cual se resolvió la impugnación deducida en contra de la resolución exenta Núm. 3.213, de 24 de septiembre de 2013, por Bestpharma S.A., en los siguientes términos: Uno. Recházase el recurso de reposición deducido con fecha 15 de octubre de 2013, por Bestpharma S.A. en contra de la resolución exenta Núm. 3.213, de 24 de septiembre de 2013. Notifíquese la presente resolución mediante su publicación en extracto en el Diario Oficial en la edición correspondiente a los días primero o quince del mes correspondiente, o al día siguiente si fuere inhábil, al tenor de lo establecido en el artículo 58 de la ley Núm. 19.880. Q.F.
+
+Stephan Jarpa Cuadra Director Suplente Instituto de Salud Pública de Chile.
