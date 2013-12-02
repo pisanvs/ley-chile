@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES DE LOTES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.977, de fecha 22/11//2013, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 88-0, casa y sitio ubicado en Padre Las Casas, de este departamento, con lo edificado y plantado, usos, derechos, costumbres y servidumbres, de una superficie a expropiar aproximada de 218,96 metros cuadrados, Rol de Avalúo Nº 2003-6, de la Comuna de Padre Las Casas, de aparente dominio de la Sucesión intestada quedada al fallecimiento de Policiano Vera León y Margarita del Carmen Veloso Veloso, formada por sus hijos legítimos Luis Anastacio, Inés del Carmen, María Ángela, Josefina del Carmen y José Vicente, todos de apellidos Vera Veloso. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto; Arturo Osvaldo Cantos Oyarzún, arquitecto, y Julio Hernán Rosas Vega, constructor civil, fijó monto Indemnización Provisional en $148.877.161, según Informe Nº 88-0/2013, de fecha 26/09/2013, pagadero contado.
+
+Director Serviu Región de la Araucanía.
