@@ -14,7 +14,7 @@ Para la recepción de los proyectos habitacionales no se exigirá que cuenten co
 
 2º.- Una vez aprobada la nómina de proyectos seleccionados, la entidad patrocinante tendrá un plazo de 6 meses, contados desde la fecha de la Resolución que sancione la selección de proyectos, para presentar en una sola oportunidad las nóminas de familias integrantes de los proyectos, en formato proporcionado por los Serviu, debiendo corresponder a los siguientes porcentajes, que se calcularán considerando el total de viviendas del proyecto presentado:
 
-a) Como mínimo un 20% y hasta un 30% de familias que hayan sido beneficiadas en llamados del DS Nº 49 (V. y U.), de 2011, o que cuenten con Certificado de Grupo Organizado Hábil (CGOH) al último día del mes anterior al de la postulación, o en llamados del Tramo 1 del Título I, del DS Nº 1 (V. y U.), de 2011, o que hayan sido beneficiadas con un subsidio para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero del DS Nº 174 (V. y U.), de 2005. El porcentaje de estas familias no podrá exceder del 30% de las viviendas del proyecto presentado.
+a) Como mínimo un 20% y hasta un 30% de familias que hayan sido beneficiadas en llamados del DS Nº 49 (V. y U.), de 2011, o que cuenten con Certificado de Grupo Organizado Hábil (CGOH) al último día del mes anterior al de la postulación, o en llamados del Tramo 1 del Título I, del DS Nº 1 (V. y U.), de 2011, o que hayan sido beneficiadas con un subsidio para la adquisición de viviendas construidas conforme al Título XV del Capítulo Primero del DS Nº 174 (V. y U.), de 2005. El porcentaje de estas familias no podrá exceder del 30% de las viviendas del proyecto presentado. El precio de las viviendas destinadas a estas familias, no podrá exceder de las 800 Unidades de Fomento (U.F.).
 
 b) Como mínimo, un 20% de familias que hayan sido beneficiadas en llamados del Tramo 2 del Título I y/o del Título II del DS Nº 1 (V. y U.), de 2011, o con un subsidio del Capítulo Segundo del DS Nº 174 (V. y U.), de 2005, Programa Fondo Solidario de Vivienda II, que haya sido asignado de forma regular o extraordinaria.
 
@@ -30,13 +30,13 @@ En caso de cumplir con los porcentajes mínimos señalados en las letras
 
 3º.- Se destinará un monto a nivel nacional de 400.000 Unidades de Fomento (UF) para el financiamiento del subsidio directo de familias con Certificado de Grupo Organizado Hábil (CGOH) o familias postulantes sin subsidio del DS Nº 1, monto que será distribuido regionalmente de acuerdo a la cantidad de proyectos y postulaciones que se reciban de familias sin subsidio asociadas a estos proyecto y que se imputarán a los recursos dispuestos para cada Programa o Sistema de Subsidio, en el año en que se aprueben las nóminas de beneficiarios asociados a los proyectos aprobados, salvo que las nóminas hayan sido presentadas dentro del período de postulación del presente llamado, en cuyo caso los recursos se imputarán a los dispuestos para el año 2013.
 
-Los recursos comprometidos en las selecciones serán imputados a los recursos dispuestos para el Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1 (V. y U.), de 2011.
+ELIMINADO.
 
 4º.- El número de postulantes seleccionados en cada región, cuando corresponda, alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo fijado en el número 3º de la presente resolución.
 
 Para los efectos de determinar el número de Certificados de Subsidio susceptibles de financiar, se considerarán los valores promedios que se indican a continuación, en la siguiente tabla:
 
-Para las regiones de Aysén y Magallanes, en el Título I, Tramo 1, del DS Nº 1 y del DS Nº 49, ambos (V. y U.) de 2011, el subsidio será de 750 UF.
+En el Título I, tramo 1, del DS Nº 1 y del DS Nº 49, ambos de (V. y U.), de 2011, el subsidio máximo a pagar será de 650 U.F. Para las Regiones de Aysén y Magallanes, en el Título I, el subsidio será de 750 U.F. Las familias del DS Nº 49 referido, no podrán acceder a los subsidios a que se refieren los artículos 5º, 6º y 7º de dicho decreto.
 
 En todo caso, para la aplicación de los subsidios del Título I, Tramo 2 y del Título II, deberá determinarse el valor real de pago que resulte de aplicar los montos correspondientes de acuerdo a la región y comuna de emplazamiento en los artículos 64 y 67 del DS Nº 1 (V. y U.), de 2011, según corresponda, obteniendo adicionalmente un subsidio de 100 UF.
 
@@ -46,7 +46,7 @@ En el caso de la aplicación de subsidios para la adquisición de viviendas cons
 
 5.1.- Presentar un proyecto habitacional de hasta 300 viviendas, que cuente con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales respectiva, que incluya, al menos, los porcentajes mínimos de viviendas destinadas a cada reglamento, señalados en el número 2º de la presente resolución.
 
-Al presentar el proyecto habitacional al Serviu, la entidad patrocinante deberá acompañar los antecedentes señalados en las letras a), b) y c) del artículo 48 del DS Nº 1 (V. y U.), de 2011. Además, la entidad deberá presentar la Ficha Informativa para Proyectos de Integración Social de acuerdo a formato proporcionado por el Minvu. En caso de no contar con permiso de edificación, se deberán presentar los antecedentes del anteproyecto aprobado.
+Al presentar el proyecto habitacional al Serviu, la entidad patrocinante deberá acompañar los antecedentes señalados en las letras a), b) y c) del artículo 48 del DS Nº 1 (V. y U.), de 2011. Además, la entidad deberá presentar la Ficha Informativa para Proyectos de Integración Social de acuerdo a formato proporcionado por el Minvu. En caso de no contar con permiso de edificación, se deberán presentar los antecedentes del anteproyecto aprobado. En caso de no contar con permiso de edificación ni con anteproyecto aprobado, la entidad podrá presentar el comprobante de ingreso del expediente emitido por la Dirección de Obras Municipales respectiva, caso en que la calificación del proyecto quedará pendiente hasta que se acredite ante el Serviu que el anteproyecto ha sido aprobado por la Dirección de Obras Municipales.
 
 Si el permiso de edificación del proyecto está en trámite de modificación para cumplir con las condiciones y requisitos establecidos en el llamado especial dispuesto por esta resolución, se deberá presentar el permiso de edificación original, copia de la solicitud de ingreso de la modificación de dicho permiso en la Dirección de Obras Municipales y los nuevos planos correspondientes a esta modificación, firmados y timbrados por la empresa constructora.
 
