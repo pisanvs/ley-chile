@@ -28,6 +28,8 @@ Este subsidio se asignará a las familias que cumplan con todos los requisitos q
 
 Las familias podrán postular hasta el día 31 de diciembre del presente año o hasta agotarse los recursos disponibles para este llamado, lo que será oportunamente difundido para conocimiento de los interesados. Las selecciones se realizarán quincenalmente y se autorizará a los Serviu para que realicen las resoluciones en forma regional, las que deberán ser informadas oportunamente al Ministerio de Vivienda y Urbanismo para que éste emita las tarjetas respectivas.
 
+Adicionalmente, se autorizará a los Serviu para que realicen reemplazos en las nóminas de familias seleccionadas a que se refiere el párrafo precedente, las que serán sancionadas mediante resolución del Director, pudiendo realizarse éstos, sólo en favor de familias que cumplan con todos los requisitos a que se refiere la presente resolución y no pudiendo bajo ningún argumento, aplicarse a otras tipologías de subsidios del Programa de Protección del Patrimonio Familiar.
+
 2. Para poder ser asignatario del subsidio de este llamado el interesado deberá cumplir con lo establecido en el número 5, y en la letra b) del número 7. de la Resolución exenta Nº 2.187 (V. y U.), de 2010, y sus modificaciones; y resolución exenta N° 701 (V. y U.), de 2011, y sus modificaciones, y además con las siguientes condiciones especiales:
 
 2.1. Poseer Ficha de Protección Social, de conformidad a lo dispuesto en los Artículos 16 letra b) y 21 letra d), del D.S. N° 255 (V. y U.), de 2006, debiendo además cumplir con lo establecido en la resolución N° 7080 (V. y U), de 2008. No obstante lo anterior, en casos calificados, debidamente justificados por el Serviu, podrán acceder a este beneficio quienes no cumplan con este requisito.
