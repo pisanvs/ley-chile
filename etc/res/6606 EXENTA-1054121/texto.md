@@ -18,7 +18,7 @@ Resolución:
 
 2. Autorízase a la Secretaría Regional Ministerial de la Región de la Araucanía para que en el llamado autorizado mediante Resuelvo precedente, pueda modificar y/o definir, mediante resoluciones fundadas, condiciones diferentes a las establecidas en el DS Nº 49 (V. y U.), de 2011.
 
-3. Establécese que los postulantes a este llamado deberán pertenecer a la Región de la Araucanía, ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en condición de Hábil con anterioridad al 30 de agosto de 2013.
+3. Establécese que los postulantes a este llamado deberán pertenecer a la Región de la Araucanía, ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en condición de Hábil con anterioridad al 4 de diciembre de 2013.
 
 4. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde.
 
