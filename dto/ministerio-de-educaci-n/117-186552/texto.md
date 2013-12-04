@@ -22,7 +22,7 @@ educación
 
 Los profesionales de la educación, para tener derecho a percibir la bonificación especial a que se refiere el artículo 13 de la ley Nº 19.715 deberán cumplir los siguientes requisitos:
 
-a) Tener contrato de trabajo o decreto alcaldicio de designación o desempeñarse en la función de Profesor Encargado;
+a) Tener contrato de trabajo o decreto alcaldicio de designación o desempeñarse en la función de Profesor Encargado. Deberá señalarse en el respectivo contrato o decreto el período de ejercicio de la función de encargado, las horas semanales de contratación y la identificación de la escuela donde se desempeña;
 
 b) Cumplir la función de docencia de aula-horas de clase, además de las de profesor encargado. Ambas responsabilidades deberán constar en el contrato o designación respectiva;
 
@@ -44,15 +44,13 @@ educacionales
 
 #### Artículo 3º
 
-Los establecimientos educacionales que se considerarán rurales, para los efectos del pago de la bonificación especial del artículo 13 de la ley Nº 19.715, deberán tener alguna de las siguientes características:
+Para efectos del pago de la Bonificación de Profesores Encargados de Escuelas Rurales, dichos establecimientos educacionales, deberán estar ubicados fuera del límite urbano, contar al menos con un aula en que se entregue educación a estudiantes de distintos cursos y edades en forma simultánea y cumplir con las siguientes características:
 
-a) Estar ubicados fuera del límite urbano;
+a) Estar ubicados en zonas de características geográficas especiales, de aislamiento geográfico o limítrofe y
 
-b) Estar ubicados en zonas de características geográficas especiales, de aislamiento geográfico o limítrofes;
+b) Que por su tamaño y estructura no cuente con director y es factible que continúe su funcionamiento de manera regular.
 
-c) Estar ubicados en comunas con una población total inferior a 5.000 habitantes y con una densidad poblacional igual o inferior a 2 habitantes por kilómetro cuadrado.
-
-Los establecimientos educacionales subvencionados que perciben el incremento de subvención por ruralidad del artículo 12 del DFL Nº 2, de 1998 de Educación, en cualquiera de sus tipos, se entenderá que cumplen con el requisito exigido por este artículo.
+> **Nota.** El artículo único transitorio del Decreto 402, Educación, publicado el 04.12.2013, dispuso que para los efectos de acreditar que en el año 2013 se cumple con lo previsto en el presente artículo, los sostenedores tendrán un plazo de 30 días, contados desde la referida fecha de su publicación.
 
 ## Título III
 
@@ -92,7 +90,7 @@ c) Aumento del número de horas de desempeño como docente.
 
 En el caso de la letra
 
-- **a)** precedente, ocurrido el término de las funciones como Profesor Encargado, cesará el derecho a percibir la Bonificación Especial. En los casos de las letras
+- **a)** precedente, ocurrido el término de las funciones como Profesor Encargado, cesará el derecho a percibir la Bonificación Especial. Además deberá informar la identificación del nuevo profesor encargado si existiese, enviando la documentación de respaldo en conformidad a lo dispuesto en los artículos 1º y 9º. En los casos de las letras
 
 - **b)** y
 
@@ -106,13 +104,15 @@ De los procedimientos
 
 #### Artículo 7º
 
-Los sostenedores de establecimientos educacionales municipales rurales que tengan contratados o designados profesionales de la educación que cumplan los requisitos para impetrar la Bonificación Especial para Profesores Encargados deberán remitir al Departamento Provincial de Educación correspondiente, los siguientes antecedentes:
+Los sostenedores de establecimientos educacionales municipales rurales que tengan contratados o designados profesionales de la educación que cumplan los requisitos para impetrar la Bonificación Especial para Profesores Encargados deberán remitir anualmente al 15 de enero o a los 30 días de producido el cambio durante el mismo año, al Departamento Provincial de Educación correspondiente, los siguientes antecedentes:
 
-a) Nómina de los establecimientos educacionales rurales subvencionados que tengan Profesores Encargados al 30 de noviembre de 2000;
+a) Nómina de los establecimientos educacionales rurales subvencionados que tengan Profesores Encargados al 1º de enero de cada año;
 
-b) Lista de todo el personal docente que se desempeña en dichos establecimientos, especificando quién es el Profesor Encargado en cada uno de ellos;
+b) ELIMINADA;
 
-c) Número de horas de designación o contrato o desempeño que tienen dichos docentes.
+c) Número de horas de designación o contrato o desempeño que tienen dichos docentes y período de ejercicio de la función de profesor encargado.
+
+> **Nota.** El artículo único transitorio del Decreto 402, Educación, publicado el 04.12.2013, dispuso que para los efectos de acreditar que en el año 2013 se cumple con lo previsto en el presente artículo, los sostenedores tendrán un plazo de 30 días, contados desde la referida fecha de su publicación.
 
 #### Artículo 8º
 
@@ -122,7 +122,7 @@ Los sostenedores de establecimientos educacionales particulares subvencionados, 
 
 Los sostenedores de los establecimientos educacionales municipales y particulares subvencionados, con el objeto de acreditar el cumplimiento de los requisitos para percibir la Bonificación Especial de que trata este reglamento, deberán acompañar los siguientes documentos:
 
-a) Copia simple del o de los decretos alcaldicios de designación o contrato o del o de los contratos de trabajo del o de los Profesores Encargados o declaración jurada del sostenedor y/o del profesor encargado en que conste su desempeño como Profesor Encargado;
+a) Copia simple del o de los decretos alcaldicios de designación o contrato o del o de los contratos de trabajo del o de los Profesores Encargados o declaración jurada del sostenedor en que conste su desempeño como Profesor Encargado;
 
 b) Certificado de título o antecedente que permite la habilitación o copia de la autorización en su caso;
 
@@ -134,11 +134,11 @@ Los Departamentos Provinciales de Educación revisarán los datos proporcionados
 
 #### Artículo 11
 
-Los Secretarios Regionales Ministeriales de Educación, teniendo presente la información de los Jefes de los Departamentos Provinciales de Educación, efectuarán la revisión final de los antecedentes y reconocerán mediante resolución, el derecho a percibir la Bonificación Especial para Profesores Encargados a aquellos que cumplan con todos los requisitos establecidos en la ley y en el presente reglamento.
+Los Secretarios Regionales Ministeriales de Educación, teniendo presente la información de los Jefes de los Departamentos Provinciales de Educación, efectuarán la revisión final de los antecedentes y reconocerán mediante resolución anual, el derecho a percibir la Bonificación Especial para Profesores Encargados a aquellos que cumplan con todos los requisitos establecidos en la ley y en el presente reglamento.
 
 En esa resolución se determinarán los establecimientos educacionales subvencionados, municipales o particulares que tengan Profesores Encargados con derecho a la Bonificación Especial, el monto de los recursos comprometidos y se ordenará el pago de la bonificación a los beneficiarios.
 
-Los antecedentes de los profesionales de la educación que no cumplan los requisitos establecidos en la ley, serán devueltos a los sostenedores.
+Los Secretarios Regionales Ministeriales publicarán en el sitio electrónico de cada Secretaría Regional del Ministerio de Educación, la nómina de profesores encargados de establecimientos rurales, que cumplen con Ios requisitos establecidos en la ley y este reglamento, para percibir la bonificación del artículo 13 de la ley Nº 19.715, la que será notificada mediante carta certificada a los interesados.
 
 ## Título V
 
@@ -146,9 +146,7 @@ Del financiamiento
 
 #### Artículo 12
 
-La Subsecretaría de Educación asignará los recursos necesarios a cada una de las Secretarías Regionales Ministeriales de Educación, con cargo a la asignación presupuestaria creada para el efecto por el inciso 4º del artículo 13 de la ley Nº 19.715, ítem 09-
-
-20-01-25-33-387, creado por decreto supremo de Hacienda Nº 173, de 2001, de acuerdo a los montos solicitados por cada autoridad regional.
+La Subsecretaría de Educación asignará los recursos necesarios a cada una de las Secretarías Regionales Ministeriales de Educación, con cargo a la asignación presupuestaria considerada para estos efectos, en la respectiva ley anual de presupuestos del sector público, de acuerdo a los montos solicitados por la autoridad regional.
 
 Normas transitorias
 
