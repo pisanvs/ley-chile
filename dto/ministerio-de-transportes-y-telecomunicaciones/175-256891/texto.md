@@ -68,7 +68,7 @@ Directiva 77/541/CEE y 76/115/CEE (anclaje) Code of Federal Regulation (CFR) 49 
 
 d. Estabilidad.
 
-Directiva 2001/85/CE Anexo I número 7.4 Ensayo de estabilidad.
+Reglamento Nº 107 de la Comisión Económica para Europa de las Naciones Unidas, Anexo 3, punto 7.4. Ensayo de estabilidad.
 
 e. Resistencia de la Superestructura
 
