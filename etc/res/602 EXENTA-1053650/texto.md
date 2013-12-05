@@ -24,6 +24,8 @@ Resolución:
 
 3. Comprométense los recursos disponibles en la Región de Magallanes y Antártica Chilena, para la selección del mes de junio de 2013, según la distribución señalada en el siguiente cuadro:
 
+.
+
 4. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme los números 1 y 2 de esta resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad, el nombre del proyecto, y el puntaje obtenido por el grupo o persona.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Atircio Aguilera Burgos, Secretario Regional Ministerial de Vivienda y Urbanismo (S), Región de Magallanes y Antártica Chilena.
