@@ -56,7 +56,7 @@ El Reglamento debe establecer que los pasivos más los gravámenes y prohibicion
 
 <!-- parte:8245077 -->
 
-El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo, en una entidad o grupo empresarial y sus personas relacionadas, no podrá exceder del 25% de sus activos.
+El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo, en una entidad o grupo empresarial y sus personas relacionadas, no podrá exceder del 25% de sus activos. No obstante lo anterior, cuando el Reglamento de un Fondo Mutuo establezca una política de inversión que condicione las inversiones del Fondo o la rentabilidad del mismo al comportamiento de un índice, el Fondo podrá establecer en su Reglamento que la inversión máxima en valores emitidos o garantizados por entidades pertenecientes a un mismo grupo empresarial no superará un tercio de sus activos.
 
 Para el caso de un Fondo de Inversión, deberá establecer que la inversión máxima, medida en forma directa e indirecta, en una entidad, grupo empresarial y sus personas relacionadas, bienes raíces, conjunto o complejo inmobiliario u otra clasificación que la Comisión estime adecuada en consideración de las características del Fondo, no podrá exceder del 45% de sus activos.
 
@@ -121,6 +121,14 @@ En el evento que el Reglamento no contemple expresamente alguno de los aspectos 
 <!-- parte:8245079 -->
 
 El Reglamento deberá establecer con claridad la política de valoración de las inversiones, sean directas o indirectas.
+
+#### Artículo 7 bis
+
+<!-- parte:9390321 -->
+
+Cuando un Fondo Mutuo contemple en su Reglamento la posibilidad que la Administradora reciba aportes y que se efectúen rescates en instrumentos, deberá establecer que el rescate no transferirá a los Fondos de Pensiones títulos prohibidos, así como tampoco, instrumentos que tengan la calidad de restringidos para los Fondos de Pensiones en una proporción superior a la que representan en la cartera del Fondo Mutuo.
+
+Adicionalmente, el Reglamento deberá establecer que la cartera de instrumentos y efectivo, aportada o recibida por los Fondos de Pensiones, no tenga una diferencia en su composición superior a un 5% de la composición efectiva de la cartera del Fondo Mutuo. Para la determinación de esta proporción, el Reglamento deberá señalar como metodología aquella que haya definido para estos efectos la Superintendencia de Pensiones.
 
 2.- Informes de Clasificación de Riesgo
 
