@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.370, de 3 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 212123002, 210110096, Sector 3; 210110100, Sector 10; 211110073, Sector 0, y 211122059, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 14 del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 3 de diciembre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
