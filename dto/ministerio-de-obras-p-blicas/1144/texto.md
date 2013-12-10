@@ -34,9 +34,7 @@ Determinación de la demanda química de oxígeno
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, las normas individualizadas en el artículo 1º se denomina como sigue:
 
-NCh 2313/16 Of. 97 Aguas residuales - Métodos de análisis - Parte
-
-16: Determinación de nitrógeno amoniacal.
+NCh 2313/16 Of. 97 DEROGADA.
 
 NCh 2313/17 Of. 97 Aguas residuales - Métodos de análisis - Parte
 

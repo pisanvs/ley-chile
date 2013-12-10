@@ -8,13 +8,7 @@ Decreto:
 
 Declárense como Normas Oficiales de la República de Chile, las siguientes normas chilenas con sus respectivos códigos y títulos de identificación.
 
-NCh399.Of2005 Tuberías de poli(cloruro de vinilo)
-
-(PVC) rígido, para conducción de
-
-fluidos a presión - Requisitos y
-
-métodos de ensayo.
+NCh399.Of2005 DEROGADA.
 
 NCh2833.Of2005 Medidores combinados para agua potable
 
