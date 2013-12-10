@@ -20,7 +20,7 @@ e) CONTRAN: Regulaciones de Seguridad Vehicular del Consejo Nacional de Tránsit
 
 #### Artículo 2º
 
-Los elementos de seguridad de los números 1) a 7), 10) y 13) del artículo 2º y de los artículos 4º y 5º, del decreto supremo Nº 26 antes referido, deberán cumplir con las disposiciones, procedimientos o requerimientos que se contienen en las normas siguientes:
+Los elementos de seguridad de los números 1) a 7), 10), 13) y 14) del artículo 2º y de los artículos 4º y 5º, del decreto supremo Nº 26 antes referido, deberán cumplir con las disposiciones, procedimientos o requerimientos que se contienen en las normas siguientes:
 
 1) El cinturón de seguridad con los números 571.209 y 571.210 del CFR49-571, Directiva 76/115/CEE y 77/541/CEE del Type Approval CEE, Artículo 22-3 (technical standard 11-4-22 Trias 37-1987 y technical standard 11-4-21 Trias 37-1994) de las S.R.R.V., Artículo 103 de las K.M.V.S.S., resolución número 48/98 del CONTRAN o el decreto Nº 30, de 1985, de este Ministerio, en lo que le sea aplicable;
 
@@ -43,6 +43,8 @@ Los elementos de seguridad de los números 1) a 7), 10) y 13) del artículo 2º 
 10) El sistema de protección al ocupante con el número 571.208 y 571.214 del CFR49-571, Directiva 96/79/CEE y 96/27/CEE del Type Approval CEE, Artículo 18 (Attachment 23 Trias 47-1993, Attachment 24, y Attachment 104 Trias 47-4-2005) de las S.R.R.V, el artículo 102 de las K.M.V.S.S, o Resolución número 463/73 del CONTRAN y capítulo S6 del número 571/214 del CFR49-571.
 
 11) El espejo retrovisor abatible, respecto del cual sólo se verificará su existencia.
+
+12) Sistema Recordatorio de Uso del Cinturón de Seguridad con el número 571.208 del CFR 49-571 o el Reglamento Nº 16 UN-ECE.
 
 > **Nota.** El Art. 2 de la RES 35, Transportes, publicada el 21.10.2002, dispuso que la modificación que sus letras a), b) y d) introducen al presente artículo, rigen a contar de noventa días desde su publicación.
 
