@@ -1,0 +1,11 @@
+DESAFILIA DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 101, de 9 de diciembre de 2013, que desafilia del sistema de facturación electrónica a contribuyentes que se señalan.
+
+Ténganse por desafiliados del Sistema de Facturación Electrónica, a los contribuyentes RUT 61.941.000-9, RUT 9.315.670-6, RUT 15.186.116-4, RUT 12.002.381-0, RUT 76.245.957-4, RUT 76.041.809-9, RUT 24.055.872-6, RUT 9.387.964-3, RUT 6.081.152-0, RUT 8.986.310-4, RUT 76.614.780-1, RUT 77.229.000-4, RUT 76.074.881-1, RUT 76.084.071-8, RUT 76.142.879-9, RUT 76.228.101-5, RUT 9.733.414-5, RUT 76.285.369-8, RUT 6.018.275-2, RUT 76.368.100-9, RUT 16.489.342-1, RUT 77.123.690-1, RUT 23.221.919-K, RUT 84.481.200-0, RUT 15.637.770-8, RUT 77.247.600-0, RUT 9.705.954-3, RUT 3.739.631-1, RUT 76.018.705-4, RUT 76.562.740-0, RUT 76.057.244-6, RUT 76.167.869-8, RUT 76.116.394-9, RUT 76.170.049-9, RUT 7.581.552-2, RUT 76.031.482-K, RUT 5.922.205-8, RUT 15.162.701-3, RUT 6.379.155-5, RUT 7.550.647-3, RUT 5.895.007-6, RUT 8.929.436-3, RUT 5.277.622-8, RUT 76.157.322-5, RUT 13.433.602-1, RUT 16.097.255-6, RUT 5.675.710-4, RUT 13.263.744-K, RUT 7.597.307-1, RUT 10.363.300-1, RUT 9.499.220-6, RUT 13.937.798-2, RUT 5.592.338-8, RUT 6.903.803-4, RUT 14.309.590-8, RUT 10.021.151-3, RUT 15.718.092-4, RUT 9.260.288-5, RUT 11.915.102-3, RUT 76.072.153-0, RUT 9.930.562-2, RUT 76.177.462-K.
+
+Ténganse por desafiliados del Sistema de Facturación Electrónica, con el fin de incorporarse al sistema de facturación electrónica Portal Mipyme, a los contribuyentes RUT 76.774.750-0, RUT 76.159.683-7, RUT 76.115.002-2.
+
+Modifíquese la desafiliación de Facturación Electrónica, otorgada en la Res. Ex. SII Nº 93, del 7 de noviembre de 2013, sustituyéndose el RUT Nº 76.079.413-9, por el siguiente contribuyente RUT 11.915.102-3.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2013.
