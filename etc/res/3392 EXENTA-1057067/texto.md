@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.392, de 4 de diciembre de 2013, de esta Subsecretaría, recházanse solicitudes números 205101005 y 205103028, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 4 de diciembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
