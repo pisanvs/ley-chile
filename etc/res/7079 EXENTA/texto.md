@@ -36,7 +36,7 @@ Resolución:
 
 10. Autorízase la postulación de personas mayores de 50 años, que en su Ficha de Protección Social no cuenten con grupo familiar, sin que sea necesario que cumplan con lo dispuesto en los puntos 1 al 6 de la letra g), del artículo 15 del DS Nº 49 (V. y U.), de 2011.
 
-11. Los recursos destinados a nivel nacional para la selección de los grupos postulantes ascenderán a la cantidad de 500.000 Unidades de Fomento.
+11. Los recursos destinados a nivel nacional para la selección de los grupos postulantes ascenderán a la cantidad de 100.000 Unidades de Fomento.
 
 12. EI número de grupos seleccionados a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones, las que serán sancionadas mediante resolución.
 
