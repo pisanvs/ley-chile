@@ -48,6 +48,14 @@ Los referidos profesionales conservarán en el cargo adicional o en cualquiera q
 
 Los cargos que se creen en virtud del inciso segundo no se considerarán aumento de dotación para ningún efecto legal. Los empleos que se creen respecto de los profesionales funcionarios que desempeñen cargos de 28 horas semanales conllevarán la obligación de trabajar 22 horas semanales.
 
+A petición del beneficiario, el Subsecretario de Redes Asistenciales podrá autorizar que el cargo creado en virtud de este artículo sea transferido a otro servicio de salud. Para estos efectos, se extinguirá el cargo adscrito en el servicio de origen y se creará, por el solo ministerio de la ley, en el servicio de destino, un nuevo cargo con las mismas características del que se extingue. El profesional percibirá en su nuevo cargo las mismas remuneraciones que recibía en el servicio de origen, sin perjuicio de aquellas que digan relación, exclusivamente, con el lugar de desempeño de sus funciones.
+
+En los casos previstos en el inciso anterior, se modificarán los presupuestos tanto del servicio en el cual el cargo fue creado, como del servicio de salud de destino. El mayor gasto que irrogue el otorgamiento de remuneraciones ligadas al lugar de desempeño, deberá ser financiado por el servicio de destino.
+
+La aplicación de lo dispuesto en los dos incisos precedentes se materializará mediante resolución fundada del Subsecretario de Redes Asistenciales, visada por la Dirección de Presupuestos.
+
+Si el profesional funcionario estuviere ejerciendo en el servicio de origen, además, un cargo de la ley Nº 19.664, en la Etapa de Planta Superior, y accediere a un cargo titular o a contrata en el servicio de destino, se le reconocerá su antiguo nivel de asignación y de ubicación en la Etapa de Planta Superior, siempre que en el servicio de destino existan recursos disponibles en la forma prevista en el inciso tercero del artículo 32 de la ley Nº 19.664.
+
 Las modalidades de desempeño de estos cargos y las funciones que les corresponderán, se determinarán por reglamento aprobado por decreto supremo que llevará la firma del Ministro de Salud.
 
 En el caso que el profesional funcionario ocupara con anterioridad un cargo ligado, el cargo que se cree en cumplimiento del inciso segundo estará sujeto a la misma vinculación con empleos de 22 u 11 horas semanales, según corresponda.
