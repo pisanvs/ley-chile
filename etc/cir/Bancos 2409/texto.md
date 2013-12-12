@@ -6488,7 +6488,7 @@ Reajustes según el artículo 44 de la Ley N° 18.591 para los créditos adquiri
 
 De acuerdo lo dispuesto en el artículo 8° de la Ley N° 18.900, en relación con los artículos 60 y 77 de la Ley N° 16.807 y el artículo 44 de la Ley N° 18.591, le corresponde a esta Superintendencia disponer el reajuste que debe aplicarse a los créditos hipotecarios que los bancos adquirieron de la ex-Asociación Nacional de Ahorro y Préstamo.
 
-En cumplimiento de lo anterior, esta Superintendencia ha entregado los porcentajes de reajustabilidad que se indican a continuación, para ser aplicado a las amortizaciones y los saldos de aquellos créditos en las fechas que se señalan:
+En cumplimiento de lo anterior, esta Superintendencia ha entregado los porcentajes de reajustabilidad que se indican a continuación, para ser aplicados a las amortizaciones y los saldos de aquellos créditos en las fechas que se señalan:
 
 .
 
