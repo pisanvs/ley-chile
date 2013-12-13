@@ -936,6 +936,8 @@ m) Farmacopea Española.
 
 n) Farmacopea de México.
 
+ñ) Farmacopea Brasileña.
+
 Se reconocerán también para los fines antes señalados, en forma complementaria de las farmacopeas indicadas, las series de informes técnicos del Comité de Expertos de la Organización Mundial de la Salud para patrones biológicos, biotecnológicos, químicos radioactivos u otros y el Título 21 del "Code of Federal Regulations" (C.F.R.), punto 1.1 de los Estados Unidos de Norteamérica.
 
 Cuando se trate de un producto farmacéutico que no figure en ninguno de los textos oficiales antes señalados, el Instituto fundadamente podrá aceptar o rechazar, parcial o totalmente, la información técnica que proporcione el interesado.
