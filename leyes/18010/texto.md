@@ -168,18 +168,6 @@ Lo dispuesto en este artículo se aplicará también a los recibos por el capita
 
 Se aplicará el interés corriente en todos los casos en que las leyes u otras disposiciones se refieran al interés legal o al máximo bancario.
 
-#### Artículo 19 bis
-
-En las operaciones de crédito de dinero denominadas en moneda nacional no reajustable por montos iguales o inferiores a 40 unidades de fomento, por plazos iguales o mayores a noventa días, y cuyo objeto sea de microfinanzas productivas, no será considerada como interés, según se define en el artículo 2º de la presente ley, aquella parte de las comisiones que se estipulen por concepto de evaluación y seguimiento de los referidos créditos, que no superen la cifra menor entre 1,5 unidades de fomento por operación y el 20% del monto de la respectiva operación a la fecha de otorgamiento.
-
-Para estos efectos, se entenderá que constituyen operaciones de crédito para microfinanzas productivas aquellas destinadas al financiamiento de inversión o de capital de trabajo en proyectos o actividades empresariales de producción o comercialización de bienes y servicios, que sean desarrolladas por el deudor a través de una microempresa o a través de actividades de autoempleo.
-
-Podrán acogerse al beneficio establecido en el inciso primero, las operaciones de crédito de dinero realizadas por aquellas entidades crediticias que, en alguno de los tres años calendario inmediatamente precedentes, hayan cumplido las exigencias contempladas por el Fondo de Solidaridad e Inversión Social para ser ejecutoras de alguno de los programas de subsidio de costos de transacción de microcrédito productivo que dicho fondo administre. Lo anterior, en la medida que dentro de las exigencias se contemple que al menos un 60% del número total de operaciones de crédito de dinero realizadas por dicha entidad crediticia durante el año calendario previo a la postulación, haya tenido como deudor a personas naturales que al momento de la operación formaron parte del 50% más vulnerable de la población, o a microempresas cuyo titular, socio principal, gestor o constituyente, en su caso, haya cumplido la condición antes referida, según lo determine el instrumento de caracterización socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379.
-
-Aquellas entidades crediticias que inicien la actividad de otorgamiento de microcréditos productivos podrán acogerse provisoriamente al beneficio establecido en el inciso primero, siempre que publiquen en forma permanente en su respectivo sitio electrónico información sobre el número de operaciones de microfinanzas productivas acogidas al beneficio que hubieran realizado en cada mes y la fecha de inicio de esta actividad. Con todo, a contar del tercer año de otorgamiento de microcréditos productivos, la entidad crediticia deberá dar cumplimiento al requisito establecido en el inciso precedente. En caso contrario, se entenderá que la institución no ha gozado del beneficio durante todo el tiempo transcurrido.
-
-Las entidades crediticias antes referidas deberán publicar en forma permanente en su sitio electrónico y en los impresos que utilicen para promocionar sus productos, la circunstancia de encontrarse acogidos al beneficio contemplado en este artículo, indicando el límite y monto máximo de comisiones que se encuentran autorizadas por ley a cobrar por los servicios de evaluación y seguimiento del proyecto productivo, no computados en la tasa de interés de la operación de crédito a la que acceden, sin perjuicio de las demás obligaciones de información y transparencia que les correspondan.
-
 ## Título II
 
 De las obligaciones en Moneda Extranjera o expresadas en Moneda Extranjera

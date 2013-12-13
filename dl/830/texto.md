@@ -42,49 +42,51 @@ Se faculta al Presidente de la República para dictar normas que eviten la doble
 
 De la fiscalización y aplicación de las disposiciones tributarias
 
-#### Artículo 6
+#### Artículo 6°
 
-Corresponde al Servicio de Impuestos Internos el ejercicio de las atribuciones que le confiere su Estatuto Orgánico, el presente Código y las leyes, y, en especial, la aplicación y fiscalización administrativa de las disposiciones tributarias.
+Corresponde al Servicio de Impuestos Internos el ejercicio de las atribuciones que le confiere su Estatuto Orgánico, el presente Código y las leyes y, en especial, la aplicación y fiscalización administrativa de las disposiciones tributarias.
 
 Dentro de las facultades que las leyes confieren al Servicio, corresponde:
 
-A.- Al Director de Impuestos Internos:
+A. Al Director de Impuestos Internos:
 
-1°.- Interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+1°. Interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
 
-2°.- Absolver las consultas que sobre la aplicación e interpretación de las normas tributarias le formulen los funcionarios del Servicio, por conducto regular, a las autoridades.
+2°. Absolver las consultas que sobre la aplicación e interpretación de las normas tributarias le formulen los funcionarios del Servicio, por conducto regular, o las autoridades.
 
-3°.- Autorizar a los Subdirectores, Directores Regionales o a otros funcionarios para resolver determinadas materias o para hacer uso de algunas de sus atribuciones, actuando "por orden del Director".
+3°. Autorizar a los Subdirectores, Directores Regionales o a otros funcionarios para resolver determinadas materias o para hacer uso de algunas de sus atribuciones, actuando "por orden del Director".
 
-4°.- Ordenar la publicación o la notificación por avisos de cualquiera clase de resoluciones o disposiciones.
+4°. Ordenar la publicación o la notificación por avisos de cualquiera clase de resoluciones o disposiciones.
 
-5°.- Disponer la colocación de afiches, carteles y letreros alusivos a impuestos o a cumplimiento tributario, en locales y establecimientos de servicios públicos e industriales y comerciales. Será obligatorio para los contribuyentes su colocación y exhibición en el lugar que prudencialmente determine el Servicio.
+5°. Disponer la colocación de afiches, carteles y letreros alusivos a impuestos o a cumplimiento tributario, en locales y establecimientos de servicios públicos e industriales y comerciales. Será obligatorio para los contribuyentes su colocación y exhibición en el lugar que prudencialmente determine el Servicio.
 
-6°.- Mantener canje de informaciones con Servicios de Impuestos de otros países para los efectos de determinar la tributación que afecte a determinados contribuyentes. Este intercambio de informaciones deberá solicitarse a través del Ministerio que corresponda y deberá llevarse a cabo sobre la base de reciprocidad, quedando amparado por las normas relativas al secreto de las declaraciones tributarias.
+6°. Mantener canje de informaciones con Servicios de Impuestos de otros países para los efectos de determinar la tributación que afecte a determinados contribuyentes. Este intercambio de informaciones deberá solicitarse a través del Ministerio que corresponda y deberá llevarse a cabo sobre la base de reciprocidad, quedando amparado por las normas relativas al secreto de las declaraciones tributarias.
 
-B.- A los Directores Regionales en la jurisdicción de su territorio:
+B. A los Directores Regionales en la jurisdicción de su territorio:
 
-1°.- Absolver las consultas sobre la aplicación e interpretación de las normas tributarias.
+1°. Absolver las consultas sobre la aplicación e interpretación de las normas tributarias.
 
-2°.- Solicitar la aplicación de apremios y pedir su renovación, en los casos a que se refiere el Título I del Libro Segundo.
+2°. Solicitar la aplicación de apremios y pedir su renovación, en los casos a que se refiere el Título I del Libro Segundo.
 
-3°.- Aplicar, rebajar o condonar las sanciones administrativas fijas o variables.
+3°. Aplicar, rebajar o condonar las sanciones administrativas fijas o variables.
 
-4°.- Condonar total o parcialmente los intereses penales por la mora en el pago de los impuestos, en los casos expresamente autorizados por la ley.
+4°. Condonar total o parcialmente los intereses penales por la mora en el pago de los impuestos, en los casos expresamente autorizados por la ley.
 
 Sin embargo, la condonación de intereses o sanciones podrá ser total, si el Servicio incurriere en error al determinar un impuesto o cuando, a juicio del Director Regional, dichos intereses o sanciones se hubieren originado por causa no imputable al contribuyente.
 
-5°.- Resolver administrativamente todos los asuntos de carácter tributario que se promuevan, incluso corregir de oficio, en cualquier tiempo, los vicios o errores manifiestos en que se haya incurrido en las liquidaciones o giros de impuestos.
+5°. Resolver administrativamente todos los asuntos de carácter tributario que se promuevan, incluso corregir de oficio, en cualquier tiempo, los vicios o errores manifiestos en que se haya incurrido en las liquidaciones o giros de impuestos.
 
-6°.- Resolver las reclamaciones que presenten los contribuyentes, de conformidad a las normas del Libro Tercero.
+Sin embargo, el Director Regional no podrá resolver peticiones administrativas que contengan las mismas pretensiones planteadas previamente por el contribuyente en sede jurisdiccional.
 
-7°.- Autorizar a otros funcionarios para resolver determinadas materias, aun las de su exclusiva competencia, o para hacer uso de las facultades que le confiere el Estatuto Orgánico del Servicio, actuando "por orden del Director Regional", y encargarles, de acuerdo con las leyes y reglamentos, el cumplimiento de otras funciones u obligaciones.
+6º. Disponer el cumplimiento administrativo de las sentencias dictadas por los Tribunales Tributarios y Aduaneros, que incidan en materias de su competencia.
 
-8°.- Ordenar a petición de los contribuyentes que se imputen al pago de sus impuestos o contribuciones de cualquiera especie las cantidades que les deban ser devueltas por pagos en exceso de lo adeudado o no debido por ellos. La resolución que se dicte se remitirá a la Contraloría General de la República para su toma de razón.
+7°. Autorizar a otros funcionarios para resolver determinadas materias, aun las de su exclusiva competencia, o para hacer uso de las facultades que le confiere el Estatuto Orgánico del Servicio, actuando por "orden del Director Regional", y encargarles, de acuerdo con las leyes y reglamentos, el cumplimiento de otras funciones u obligaciones.
 
-9°.- Disponer en las resoluciones que se dicten en conformidad a lo dispuesto en los números 5° y 6° de la presente letra, la devolución y pago de las sumas solucionadas indebidamente o en exceso a título de impuestos, reajustes, intereses, sanciones o costas. Estas resoluciones se remitirán a la Contraloría General de la República para su toma de razón.
+8°. Ordenar a petición de los contribuyentes que se imputen al pago de sus impuestos o contribuciones de cualquiera especie las cantidades que les deban ser devueltas por pagos en exceso de lo adeudado o no debido por ellos. La resolución que se dicte se remitirá a la Contraloría General de la República para su toma de razón.
 
-10°.- Ordenar la publicación o la notificación por avisos de cualquiera clase de resoluciones o disposiciones de orden general o particular.
+9°. Disponer en las resoluciones que se dicten en conformidad a lo dispuesto en los números 5° y 6° de la presente letra, la devolución y pago de las sumas solucionadas indebidamente o en exceso a título de impuestos, reajustes, intereses, sanciones o costas. Estas resoluciones se remitirán a la Contraloría General de la República para su toma de razón.
+
+10º. Ordenar la publicación o la notificación por avisos de cualquiera clase de resoluciones o disposiciones de orden general o particular.
 
 Sin perjuicio de estas facultades, el Director y los Directores Regionales tendrán también las que les confieren el presente Código, el Estatuto Orgánico del Servicio y las leyes vigentes.
 
@@ -165,6 +167,32 @@ Sin perjuicio de los derechos garantizados por la Constitución y las leyes, con
 Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
 
 En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
+
+#### Artículo 8° ter
+
+Los contribuyentes que opten por la facturación electrónica tendrán derecho a que se les autorice en forma inmediata la emisión de los documentos tributarios electrónicos que sean necesarios para el desarrollo de su giro o actividad. Para ejercer esta opción deberá darse aviso al Servicio en la forma que éste determine.
+
+En el caso de los contribuyentes que soliciten por primera vez la emisión de dichos documentos, la autorización procederá previa entrega de una declaración jurada simple sobre la existencia de su domicilio y la efectividad de las instalaciones que permitan la actividad o giro declarado, en la forma en que disponga el Servicio de Impuestos Internos.
+
+Lo anterior es sin perjuicio del ejercicio de las facultades de fiscalización del Servicio de Impuestos Internos.
+
+Las autorizaciones otorgadas conforme a este artículo podrán ser diferidas, revocadas o restringidas por la Dirección del Servicio de Impuestos Internos, mediante resolución fundada, cuando a su juicio exista causa grave que lo justifique. Para estos efectos se considerarán causas graves, entre otras, las siguientes:
+
+a) Si de los antecedentes en poder del Servicio se acredita no ser verdadero el domicilio o no existir las instalaciones necesarias para el desarrollo de la actividad o giro declarado.
+
+b) Si el contribuyente tiene la condición de procesado o, en su caso, acusado conforme al Código Procesal Penal por delito tributario, o ha sido sancionado por este tipo de delitos, hasta el cumplimiento total de la pena.
+
+c) Si de los antecedentes en poder del Servicio se acredita algún impedimento legal para el ejercicio del giro solicitado.
+
+La presentación maliciosa de la declaración jurada a que se refiere el inciso segundo, conteniendo datos o antecedentes falsos, configurará la infracción prevista en el inciso primero del número 23 del artículo 97 y se sancionará con la pena allí asignada, la que se podrá aumentar hasta un grado atendida la gravedad de la conducta desplegada, y multa de hasta 10 unidades tributarias anuales.
+
+#### Artículo 8° quáter
+
+Los contribuyentes que hagan iniciación de actividades tendrán derecho a que el Servicio les timbre en forma inmediata tantas boletas de venta y guías de despacho como sean necesarias para el giro de los negocios o actividades declaradas por aquellos. Lo anterior se entenderá sin perjuicio de la facultad del Servicio de diferir por resolución fundada el timbraje de dichos documentos, hasta hacer la fiscalización correspondiente, en los casos en que exista causa grave justificada. Para estos efectos se considerarán causas graves las señaladas en el artículo anterior.
+
+Asimismo, sin perjuicio de lo dispuesto en el artículo 3° del decreto ley N° 825, sobre Impuesto a las Ventas y Servicios, los contribuyentes señalados en el inciso anterior tendrán derecho a requerir el timbraje inmediato de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, las que deberán cumplir con los requisitos que el Servicio de Impuestos Internos establezca mediante resolución. Para estos efectos se entenderá por factura de inicio aquella que consta en papel y en la que el agente retenedor es el comprador o beneficiario de los bienes o servicios y que se otorga mientras el Servicio efectúa la fiscalización correspondiente del domicilio del contribuyente.
+
+Los contribuyentes a que se refiere el inciso primero que maliciosamente vendan o faciliten a cualquier título las facturas de inicio a que alude el inciso precedente con el fin de cometer alguno de los delitos previstos en el número 4° del artículo 97, serán sancionados con presidio menor en sus grados mínimo a medio y multa de hasta 20 unidades tributarias anuales.
 
 # Libro Primero
 
@@ -378,7 +406,7 @@ Asimismo, para los efectos de la aplicación de la ley sobre Impuesto a las Rent
 
 A los contribuyentes que no presentaren declaración estando obligados a hacerlo, o a los cuales se les determinaren diferencias de impuestos, el Servicio les practicará una liquidación en la cual se dejará constancia de las partidas no comprendidas en su declaración o liquidación anterior. En la misma liquidación deberá indicarse el monto de los tributos adeudados y, cuando proceda, el monto de las multas en que haya incurrido el contribuyente por atraso en presentar su declaración y los reajustes e intereses por mora en el pago.
 
-Salvo disposición en contrario, los impuestos determinados en la forma indicada en el inciso anterior y las multas respectivas se girarán transcurrido el plazo de sesenta días señalado en el inciso 3° del artículo 124°. Sin embargo, si el contribuyente hubiere deducido reclamación, los impuestos y multas correspondientes a la parte reclamada de la liquidación se girarán sólo una vez que la Dirección Regional se haya pronunciado sobre el reclamo o deba éste entenderse rechazado de conformidad al artículo 135° o en virtud de otras disposiciones legales. Para el giro de los impuestos y multas correspondientes a la parte no reclamada de la liquidación, dichos impuestos y multas se establecerán provisionalmente con prescindencia de las partidas o elementos de la liquidación que hubieren sido objeto de la reclamación.
+Salvo disposición en contrario, los impuestos determinados en la forma indicada en el inciso anterior y las multas respectivas se girarán transcurrido el plazo de noventa días señalado en el inciso 3° del artículo 124°. Sin embargo, si el contribuyente hubiere deducido reclamación, los impuestos y multas correspondientes a la parte reclamada de la liquidación se girarán notificado que sea el fallo pronunciado por el Tribunal Tributario y Aduanero. Para el giro de los impuestos y multas correspondientes a la parte no reclamada de la liquidación, dichos impuestos y multas se establecerán provisionalmente con prescindencia de las partidas o elementos de la liquidación que hubieren sido objeto de la reclamación.
 
 A petición del contribuyente podrán también girarse los impuestos con anterioridad a las oportunidades señaladas en el inciso anterior.
 
@@ -388,7 +416,7 @@ Las sumas que un contribuyente deba legalmente reintegrar, correspondientes a ca
 
 #### Artículo 25
 
-Toda liquidación de impuestos practicada por el Servicio tendrá el carácter de provisional mientras no se cumplan los plazos de prescripción, salvo en aquellos puntos o materias comprendidos expresa y determinadamente en una revisión sobre la cual se haya pronunciado el Director Regional, sea con ocasión de un reclamo, o a petición del contribuyente tratándose de términos de giro. En tales casos, la liquidación se estimará como definitiva para todos los efectos legales, sin perjuicio del derecho de reclamación del contribuyente, si procediera.
+Toda liquidación de impuestos practicada por el Servicio tendrá el carácter de provisional mientras no se cumplan los plazos de prescripción, salvo en aquellos puntos o materias comprendidos expresa y determinadamente en un pronunciamiento jurisdiccional o en una revisión sobre la cual se haya pronunciado el Director Regional, a petición del contribuyente tratándose de términos de giro. En tales casos, la liquidación se estimará como definitiva para todos los efectos legales, sin perjuicio del derecho de reclamación del contribuyente, si procediera.
 
 #### Artículo 26
 
@@ -614,7 +642,7 @@ Sin embargo, en caso de convenios de pago, cada cuota constituye un abono a los 
 
 #### Artículo 54
 
-El contribuyente que enterare en arcas fiscales el impuesto determinado en la forma expresada en el artículo 24, dentro del plazo de sesenta días contado desde la fecha de la liquidación, pagará el interés moratorio calculado solamente hasta dicha fecha.
+El contribuyente que enterare en arcas fiscales el impuesto determinado en la forma expresada en el artículo 24, dentro del plazo de noventa días contado desde la fecha de la liquidación, pagará el interés moratorio calculado solamente hasta dicha fecha.
 
 #### Artículo 55
 
@@ -667,6 +695,10 @@ d) Cuando se revise la contabilización de operaciones entre empresas relacionad
 No se aplicarán los plazos referidos en los incisos precedentes en los casos en que se requiera información a alguna autoridad extranjera ni en aquéllos relacionados con un proceso de recopilación de antecedentes a que se refiere el número 10 del artículo 161.
 
 El Servicio dispondrá de un plazo de doce meses, contado desde la fecha de la solicitud, para fiscalizar y resolver las peticiones de devolución relacionadas con absorciones de pérdidas.
+
+#### Artículo 59 bis
+
+Será competente para conocer de todas las actuaciones de fiscalización posteriores la unidad del Servicio que practicó al contribuyente una notificación, de conformidad a lo dispuesto en el número 1º del artículo único de la ley Nº 18.320, o una citación, según lo dispuesto en el artículo 63.
 
 #### Artículo 60
 
@@ -776,9 +808,7 @@ No se aplicará lo dispuesto en este artículo, en los casos de división o fusi
 
 Tampoco se aplicará lo dispuesto en este artículo, cuando se trate del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta, individual, societaria, o contribuyente del Nº 1 del artículo 58 de la Ley sobre Impuesto a la Renta, que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad y que no originen flujos efectivos de dinero para el aportante, siempre que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante. Dichos valores deberán asignarse en la respectiva junta de accionistas, o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas.
 
-En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente dentro del plazo de 60 días contado desde la fecha de la notificación de este último.
-
-La reclamación que se deduzca se sujetará al procedimiento general establecido en el Título II del Libro III de este Código.
+En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. La tasación y giro podrán ser impugnadas, en forma simultánea, a través del procedimiento a que se refiere el Título II del Libro Tercero.
 
 #### Artículo 65
 
@@ -916,9 +946,9 @@ Una copia de los balances y estados de situación que se presenten a los bancos 
 
 El Banco del Estado, las cajas de previsión y las instituciones bancarias y de crédito en general, remitirán al Servicio, en la forma que el Director Regional determine, las copias de las tasaciones de bienes raíces que hubieren practicado.
 
-Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, en la oportunidad, forma y cantidad que el Servicio establezca, con excepción de aquellas operaciones de crédito de dinero otorgadas para el uso de tarjetas de crédito que se produce entre el usuario de la tarjeta y el banco emisor, cuyos titulares no sean contribuyentes del Impuesto de Primera Categoría de la Ley de la Renta y se trate de tarjetas de crédito destinadas exclusivamente al uso particular de una persona natural y no para el desarrollo de una actividad clasificada en dicha Categoría. Lo dispuesto anteriormente no será aplicable a las operaciones de crédito celebradas y garantías constituidas por los contribuyentes del artículo 20, número 2, de la Ley de la Renta, ni a las operaciones celebradas y garantías constituidas que correspondan a un período superior al plazo de tres años. En caso alguno se podrá solicitar la información sobre las adquisiciones efectuadas por una persona determinada en el uso de las tarjetas de crédito.
+Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras y cualquiera otra institución que realice operaciones de crédito de dinero de manera masiva de conformidad a lo dispuesto en el artículo 31 de la ley Nº 18.010, deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, en la oportunidad, forma y cantidad que el Servicio establezca. En caso alguno se podrá solicitar la información sobre las adquisiciones efectuadas por una persona determinada en el uso de las tarjetas de crédito.
 
-La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, más que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
+La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, mas que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
 
 #### Artículo 86
 
@@ -1214,7 +1244,7 @@ Disposiciones comunes
 
 #### Artículo 105
 
-Las sanciones pecuniarias serán aplicadas por el Servicio de acuerdo con el procedimiento que corresponda del Libro Tercero, excepto en aquellos casos en que de conformidad al presente Código sean de la competencia de la justicia ordinaria civil.
+Las sanciones pecuniarias serán aplicadas administrativamente por el Servicio o por el Tribunal Tributario y Aduanero, de acuerdo con el procedimiento que corresponda del Libro Tercero, excepto en aquellos casos en que de conformidad al presente Código sean de la competencia de la justicia ordinaria civil.
 
 La aplicación de las sanciones pecuniarias por la justicia ordinaria se regulará en relación a los tributos cuya evasión resulte acreditada en el respectivo juicio.
 
@@ -1230,23 +1260,23 @@ Sin perjuicio de lo anterior, el Director Regional podrá anular las denuncias n
 
 #### Artículo 107
 
-Las sanciones que el Servicio imponga se aplicarán dentro de los márgenes que corresponda, tomando en consideración:
+Las sanciones que el Servicio o el Tribunal Tributario y Aduanero impongan se aplicarán dentro de los márgenes que corresponda, tomando en consideración:
 
-1°.- La calidad de reincidente en infracción de la misma especie.
+1° La calidad de reincidente en infracción de la misma especie.
 
-2°.- La calidad de reincidente en otras infracciones semejantes.
+2° La calidad de reincidente en otras infracciones semejantes.
 
-3°.- El grado de cultura del infractor.
+3° El grado de cultura del infractor.
 
-4°.- El conocimiento que hubiere o pudiere haber tenido de la obligación legal infringida.
+4° El conocimiento que hubiere o pudiere haber tenido de la obligación legal infringida.
 
-5°.- El perjuicio fiscal que pudiere derivarse de la infracción.
+5° El perjuicio fiscal que pudiere derivarse de la infracción.
 
-6°.- La cooperación que el infractor prestare para esclarecer su situación.
+6° La cooperación que el infractor prestare para esclarecer su situación.
 
-7°.- El grado de negligencia o el dolo que hubiere mediado en el acto u omisión.
+7° El grado de negligencia o el dolo que hubiere mediado en el acto u omisión.
 
-8°.- Otros antecedentes análogos a los anteriores o que parezca justo tomar en consideración atendida la naturaleza de la infracción y sus circunstancias.
+8° Otros antecedentes análogos a los anteriores o que parezcan justo tomar en consideración atendida la naturaleza de la infracción y sus circunstancias.
 
 #### Artículo 108
 
@@ -1278,7 +1308,7 @@ Sin perjuicio de lo dispuesto en el N° 10 del artículo 97 en los demás casos 
 
 #### Artículo 113
 
-El Director Regional no podrá recargar las sanciones que haya impuesto a pretexto de que es infundado el reclamo que formula el afectado.
+Derogado.
 
 #### Artículo 114
 
@@ -1286,33 +1316,31 @@ Las acciones penales corporales y las penas respectivas prescribirán de acuerdo
 
 # Libro Tercero
 
-De los Tribunales, de los procedimientos y de la prescripción
+De la competencia para conocer de los asuntos contenciosos tributarios, de los procedimientos y de la prescripción
 
 ## Título I
 
-De los Tribunales
+De la competencia para conocer de los asuntos contenciosos tributarios
 
 #### Artículo 115
 
-El Director Regional conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
+El Tribunal Tributario y Aduanero conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
 
-Será competente para conocer de las reclamaciones el Director Regional de la unidad del Servicio que emitió la liquidación o el giro o que dictó la resolución en contra de la cual se reclame, en el caso de reclamaciones en contra del pago, será competente el Director Regional de la unidad que emitió el giro al cual corresponda el pago. Si las liquidaciones, giros o resoluciones fueren emitidos por unidades de la Dirección Nacional, o el pago correspondiere a giros efectuados por estas mismas unidades, la reclamación deberá presentarse ante el Director Regional en cuyo territorio tenga su domicilio el contribuyente que reclame al momento de ser notificado de revisión, de citación, de liquidación o de giro.
+Será competente para conocer de las reclamaciones el Tribunal Tributario y Aduanero cuyo territorio jurisdiccional corresponda al de la unidad del Servicio que emitió la liquidación o el giro o que dictó la resolución en contra de la cual se reclame; en el caso de reclamaciones en contra del pago, será competente el Tribunal Tributario y Aduanero cuyo territorio jurisdiccional corresponda al de la unidad que emitió el giro al cual corresponda el pago. Si las liquidaciones, giros o resoluciones fueren emitidos por unidades de la Dirección Nacional, o el pago correspondiere a giros efectuados por estas mismas unidades, la reclamación deberá presentarse ante el Tribunal Tributario y Aduanero en cuyo territorio tenía su domicilio el contribuyente al momento de ser notificado de revisión, de citación, de liquidación o de giro.
 
-El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
+El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Tribunal Tributario y Aduanero que tenga competencia en el territorio donde tiene su domicilio el infractor. Sin embargo, en los casos a que se refieren los números 1º y 2º del artículo 165, la aplicación administrativa de las sanciones corresponderá al Director Regional del domicilio del infractor.
 
-Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
+Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional o Tribunal Tributario y Aduanero, según corresponda, que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
 
 #### Artículo 116
 
-DEROGADO
-
-|
-
-> **Nota.** Por Sentencia del Tribunal Constitucional, publicada el 29.03.2007, el presente artículo fue declarado inconstitucional por aplicación del Art. 94 inciso 3º de la Constitución Política de la República, debiendo considerarse como derogado a contar de la fecha de publicación de la sentencia.
+El Director Regional podrá delegar en funcionarios del Servicio la aplicación de las sanciones que correspondan a su competencia.
 
 #### Artículo 117
 
-Derogado.
+La representación del Fisco en los procesos jurisdiccionales seguidos en conformidad a los Títulos II, III y IV de este Libro, corresponderá exclusivamente al Servicio, que, para todos los efectos legales, tendrá la calidad de parte. Si éste lo considera necesario podrá requerir la intervención del Consejo de Defensa del Estado ante los tribunales superiores de justicia.
+
+Los Directores Regionales, dentro de los límites de sus respectivas jurisdicciones territoriales, tendrán la representación del Servicio para los fines señalados en el inciso anterior, sin perjuicio de las facultades del Director, quien podrá en cualquier momento asumir dicha representación.
 
 #### Artículo 118
 
@@ -1320,21 +1348,19 @@ Para resolver en primera instancia sobre la fijación de los impuestos de la Ley
 
 #### Artículo 119
 
-Corresponderá a todo tribunal resolver en única instancia sobre los impuestos de timbres, estampillas y papel sellado que deban pagarse en los juicios y gestiones que ante ellos se tramiten, y aplicar y hacer cumplir las sanciones y multas que procedan.
+Derogado.
 
 #### Artículo 120
 
-Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Director Regional, en los casos en que ellos sean procedentes de conformidad a este Código.
+Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Tribunal Tributario y Aduanero, en los casos en que ellos sean procedentes de conformidad a este Código.
 
-Conocerá de estos recursos la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
+Conocerá de estos recursos la Corte de Apelaciones en cuyo territorio jurisdiccional tenga asiento el Tribunal Tributario y Aduanero que dictó la resolución apelada.
 
-En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, conocerá de estos recursos la Corte que tenga competencia en el lugar del domicilio del contribuyente.
-
-Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten de conformidad a los artículos 117° y 118°.
+Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten en conformidad al artículo 118°.
 
 #### Artículo 121
 
-En cada ciudad que sea asiento de Corte de Apelaciones, habrá dos Tribunales Especiales de Alzada que conocerán de las apelaciones que se deduzcan en contra de las resoluciones dictadas por el Director Regional o quien haga sus veces, al conocer de los reclamos de avalúos de los bienes raíces, en los casos a que se refiere el artículo 149°.
+En cada ciudad que sea asiento de Corte de Apelaciones, habrá dos Tribunales Especiales de Alzada que conocerán de las apelaciones que se deduzcan en contra de las resoluciones dictadas por el Tribunal Tributario y Aduanero, al conocer de los reclamos de avalúos de los bienes raíces, en los casos a que se refiere el artículo 149°.
 
 Uno de los tribunales tendrá competencia para conocer de los reclamos de avalúos de bienes de la Primera Serie y el otro conocerá de las reclamaciones de avalúos de los bienes de la Segunda Serie.
 
@@ -1342,13 +1368,11 @@ El territorio jurisdiccional de estos Tribunales será el de la Corte de Apelaci
 
 El Tribunal Especial de Alzada encargado de conocer de los reclamos de avalúos de los bienes de la Primera Serie estará integrado por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, por un representante del Presidente de la República y por un empresario agrícola con domicilio en el territorio jurisdiccional del respectivo Tribunal Especial de Alzada, que será designado por el Presidente de la República.
 
-El Tribunal Especial de Alzada que deba conocer de los reclamos de avalúos de los bienes de la Segunda Serie estará compuesto por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, con voto dirimente; dos representantes del Presidente de la República y por un arquitecto que resida en la ciudad asiento de Corte de Apelaciones en que ejerza su función el Tribunal designado por el Presidente de la República de una terna que le propondrá el Intendente Regional, previa consulta de éste al Consejo Regional de Desarrollo respectivo.
+El Tribunal Especial de Alzada que deba conocer de los reclamos de avalúos de los bienes de la Segunda Serie estará compuesto por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, con voto dirimente; dos representantes del Presidente de la República y por un arquitecto que resida en la ciudad asiento de Corte de Apelaciones en que ejerza su función el Tribunal, designado por el Presidente de la República de una terna que le propondrá el Intendente Regional, previa consulta de éste al Consejo Regional de Desarrollo respectivo.
 
 Salvo el caso del Ministro de Corte que presidirá cada Tribunal, los nombramientos de los demás miembros de ellos deberán recaer en personas que estén en posesión del título de Ingeniero Agrónomo, Técnico Agrícola o de alguna profesión universitaria relacionada con la agricultura, cuyo título haya sido otorgado por una Universidad o por un Instituto Profesional, tratándose del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Primera Serie, o del Título de Ingeniero Civil, Arquitecto o Constructor Civil, en el caso del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Segunda Serie.
 
 En ambos Tribunales actuará de Secretario el funcionario que designe el Director, para cada uno de ellos.
-
-> **Nota.** NOTA: 5 Véase el art. 4° del D.L. N° 2.325, de 8 de septiembre de 1978, que establece una asignación para los miembros de estos tribunales.
 
 #### Artículo 122
 
@@ -1362,13 +1386,27 @@ Del procedimiento general de las reclamaciones
 
 Se sujetarán al procedimiento del presente Título todas las reclamaciones por aplicación de las normas tributarias, con excepción de las regidas expresamente por los Títulos III y IV de este Libro.
 
+#### Artículo 123 bis
+
+Respecto de los actos a que se refiere el artículo 124, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
+
+a) El plazo para presentar la reposición será de quince días.
+
+b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
+
+c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el artículo siguiente.
+
+No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
+
+Los plazos a que se refiere este artículo se regularán por lo señalado en la ley Nº 19.880.
+
 #### Artículo 124
 
 Toda persona podrá reclamar de la totalidad o de algunas de las partidas o elementos de una liquidación, giro, pago o resolución que incida en el pago de un impuesto o en los elementos que sirvan de base para determinarlo, siempre que invoque un interés actual comprometido. En los casos en que hubiere liquidación y giro, no podrá reclamarse de éste, salvo que dicho giro no se conforme a la liquidación que le haya servido de antecedente. Habiendo giro y pago, no podrá reclamarse de este último, sino en cuanto no se conforme al giro.
 
 Podrá reclamarse, asimismo, de la resolución administrativa que deniegue cualquiera de las peticiones a que se refiere el artículo 126.
 
-El reclamo deberá interponerse en el término fatal de sesenta días, contado desde la notificación correspondiente. Con todo, dicho plazo fatal se ampliará a un año cuando el contribuyente, de conformidad con lo dispuesto en el inciso tercero del artículo 24, pague la suma determinada por el Servicio dentro del plazo de sesenta días, contado desde la notificación correspondiente.
+El reclamo deberá interponerse en el término fatal de noventa días, contado desde la notificación correspondiente. Con todo, dicho plazo fatal se ampliará a un año cuando el contribuyente, de conformidad con lo dispuesto en el inciso tercero del artículo 24, pague la suma determinada por el Servicio dentro del plazo de noventa días, contado desde la notificación correspondiente.
 
 Si no pudieran aplicarse las reglas precedentes sobre computación de plazos, éstos se contarán desde la fecha de la resolución, acto o hecho en que la reclamación se funde.
 
@@ -1376,13 +1414,15 @@ Si no pudieran aplicarse las reglas precedentes sobre computación de plazos, é
 
 La reclamación deberá cumplir con los siguientes requisitos:
 
-1°.- Precisar sus fundamentos.
+1º. Consignar el nombre o razón social, número de Rol Único Tributario, domicilio, profesión u oficio del reclamante y, en su caso, de la o las personas que lo representan y la naturaleza de la representación.
 
-2°.- Presentarse acompañada de los documentos en que se funde, excepto aquellos que por su volumen, naturaleza, ubicación u otras circunstancias, no puedan agregarse a la solicitud.
+2°.- Precisar sus fundamentos.
 
-3°.- Contener, en forma precisa y clara, las peticiones que se someten a la consideración del Tribunal.
+3°.- Presentarse acompañada de los documentos en que se funde, excepto aquellos que por su volumen, naturaleza, ubicación u otras circunstancias, no puedan agregarse a la solicitud.
 
-Si no se cumpliere con los requisitos antes enumerados, el Director Regional dictará una resolución, ordenando que se subsanen las omisiones en que se hubiere incurrido, dentro del plazo que se señale al efecto, el cual no podrá ser inferior a quince días, bajo apercibimiento de tener por no presentada la reclamación.
+4°.- Contener, en forma precisa y clara, las peticiones que se someten a la consideración del Tribunal.
+
+Si no se cumpliere con los requisitos antes enumerados, el Juez Tributario y Aduanero dictará una resolución, ordenando que se subsanen las omisiones en que se hubiere incurrido, dentro del plazo que señale el tribunal, el cual no podrá ser inferior a tres días, bajo apercibimiento de tener por no presentada la reclamación. Respecto de aquellas causas en que se permita la litigación sin patrocinio de abogado, dicho plazo no podrá ser inferior a quince días.
 
 #### Artículo 126
 
@@ -1406,7 +1446,7 @@ Tampoco serán reclamables las resoluciones dictadas por el Director Regional o 
 
 #### Artículo 127
 
-Cuando el Servicio proceda a reliquidar un impuesto, el interesado que reclame contra la nueva liquidación dentro del plazo que corresponda de conformidad al artículo 124, tendrá además derecho a solicitar, dentro del mismo plazo, la rectificación de cualquier error de que adolecieren las declaraciones o pagos de impuestos correspondientes al período reliquidado.
+Cuando el Servicio proceda a reliquidar un impuesto, el interesado que reclame contra la nueva liquidación dentro del plazo que corresponda de conformidad al artículo 124, tendrá además derecho a solicitar, dentro del mismo plazo, y conjuntamente con la reclamación, la rectificación de cualquier error de que adolecieren las declaraciones o pagos de impuestos correspondientes al período reliquidado.
 
 Se entenderá por período reliquidado para el efecto del inciso anterior, el conjunto de todos los años tributarios o de todo el espacio de tiempo que comprenda la revisión practicada por el Servicio.
 
@@ -1418,25 +1458,71 @@ Las sumas que un contribuyente haya trasladado o recargado indebidamente o en ex
 
 #### Artículo 129
 
-En las reclamaciones a que se refiere el presente Título, sólo podrán actuar los contribuyentes por sí o por medio de sus representantes legales o mandatarios.
+En las reclamaciones a que se refiere el presente Título, sólo podrán actuar las partes por sí o por medio de sus representantes legales o mandatarios.
+
+Las partes deberán comparecer en conformidad a la normas establecidas en la ley Nº 18.120, salvo que se trate de causas de cuantía inferior a treinta y dos unidades tributarias mensuales, en cuyo caso podrán comparecer sin patrocinio de abogado.
 
 #### Artículo 130
 
-La Dirección Regional llevará los autos en la forma ordenada en los artículos 29° y 34° del Código de Procedimiento Civil. El reclamante podrá imponerse de ellos en cualquier estado de la tramitación, salvo de los oficios o piezas que la Dirección Regional mantenga en el carácter de confidenciales. Estos antecedentes confidenciales no formarán parte del proceso y, en consecuencia, no podrá fundarse en ellos la sentencia que se dicte.
+El Tribunal Tributario y Aduanero llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil. Durante la tramitación, sólo las partes podrán imponerse de ellos.
 
 #### Artículo 131
 
-Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Servicio.
+Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
+
+#### Artículo 131 bis
+
+Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
+
+Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
+
+Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esa publicación no anulará la notificación.
+
+Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
+
+Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
+
+La notificación al Servicio de la resolución que le confiere traslado del reclamo del contribuyente se efectuará por correo electrónico, a la dirección que el respectivo Director Regional deberá registrar ante el Tribunal Tributario y Aduanero de su jurisdicción. La designación de la dirección de correo electrónico se entenderá vigente mientras no se informe al tribunal de su modificación.
 
 #### Artículo 132
 
-El Director Regional, de oficio o a petición de parte, podrá recibir la causa a prueba, si estima que hay o puede haber controversia sobre algún hecho sustancial y pertinente, señalando los puntos sobre los cuales ella deberá recaer y determinar la forma y plazo en que la testimonial debe rendirse.
+Del reclamo del contribuyente se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero.
 
-Los informes del Servicio que fueren evacuados con ocasión del reclamo, exceptuando aquellos cuya reserva se disponga, se pondrán en conocimiento del reclamante quien podrá formular observaciones dentro del plazo de diez días.
+Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra, sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+
+El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba.
+
+En los primeros dos días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
+
+Se admitirá a declarar hasta un máximo de cuatro testigos por punto de prueba.
+
+El Tribunal Tributario y Aduanero dará lugar a la petición de oficios cuando se trate de requerir información pertinente sobre los hechos materia del juicio, debiendo señalarse específicamente el o los hechos sobre los cuales se pide el informe.
+
+Tratándose de solicitudes de oficios a las que acceda el Tribunal Tributario y Aduanero, éste deberá disponer su despacho inmediato a las personas o entidades requeridas, quienes estarán obligadas a evacuar la respuesta dentro del plazo que al efecto fije el tribunal, el que en todo caso no podrá exceder de quince días. A petición de la parte que lo solicita o de la persona o entidad requerida, el plazo para evacuar el oficio podrá ser ampliado por el tribunal, por una sola vez y hasta por quince días más, cuando existan antecedentes fundados que lo aconsejen.
+
+Los mismos plazos indicados en el inciso precedente regirán para los peritos, en relación a sus informes, desde la aceptación de su cometido.
+
+El Director, los Subdirectores y los Directores Regionales no tendrán la facultad de absolver posiciones en representación del Servicio.
+
+Se admitirá, además, cualquier otro medio probatorio apto para producir fe.
+
+No serán admisibles aquellos antecedentes que, teniendo relación directa con las operaciones fiscalizadas, hayan sido solicitados determinada y específicamente por el Servicio al reclamante en la citación a que se refiere el artículo 63 y que este último, no obstante disponer de ellos, no haya acompañado en forma íntegra dentro del plazo del inciso segundo de dicho artículo. El reclamante siempre podrá probar que no acompañó la documentación en el plazo señalado, por causas que no le hayan sido imputables.
+
+El Juez Tributario y Aduanero se pronunciará en la sentencia sobre esta inadmisibilidad.
+
+Cuando hayan de practicarse diligencias probatorias fuera del lugar en que se sigue el juicio, o si durante el término de prueba ocurren entorpecimientos que imposibiliten la recepción de ésta, el Tribunal Tributario y Aduanero podrá ampliar, por una sola vez, el término probatorio por el número de días que estime necesarios, no excediendo en ningún caso de diez días, contados desde la fecha de notificación de la resolución que ordena la ampliación.
+
+La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con las reglas de la sana crítica. Al apreciar las pruebas de esta manera, el tribunal deberá expresar en la sentencia las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en virtud de las cuales les asigna valor o las desestima. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+
+No obstante lo anterior, los actos o contratos solemnes sólo podrán ser acreditados por medio de la solemnidad prevista por la ley. En aquellos casos en que la ley requiera probar mediante contabilidad fidedigna, el juez deberá ponderar preferentemente dicha contabilidad.
+
+El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde el vencimiento del término probatorio.
 
 #### Artículo 133
 
-Las resoluciones que se dicten durante la tramitación del reclamo sólo serán susceptibles del recurso de reposición, el cual deberá interponerse dentro del término de cinco días, contado desde la notificación correspondiente.
+Las resoluciones que se dicten durante la tramitación del reclamo, con excepción de aquéllas a que se refieren el inciso segundo del artículo 132, inciso tercero del artículo 137 e incisos primero, segundo y final del artículo 139, sólo serán susceptibles del recurso de reposición, el cual deberá interponerse dentro del término de cinco días, contado desde la notificación correspondiente.
+
+La resolución que falle la reposición no es susceptible de recurso alguno.
 
 #### Artículo 134
 
@@ -1448,37 +1534,35 @@ Formulado un reclamo, se entenderán comprendidos en él los impuestos que nazca
 
 #### Artículo 135
 
-Vencido el plazo para formular observaciones al o a los informes o rendidas las pruebas, en su caso, el contribuyente podrá solicitar que se fije un plazo para la dictación del fallo, el que no podrá exceder de tres meses.
-
-Transcurrido el plazo anterior sin que se hubiere resuelto el reclamo, podrá el contribuyente, en cualquier momento, pedir se tenga por rechazado. Al formular esta petición, podrá apelar para ante la Corte de Apelaciones respectiva, y en tal caso el Director Regional concederá el recurso y elevará el expediente, dentro del plazo señalado en el artículo 142°, conjuntamente con un informe relativo a la reclamación, el cual deberá ser tomado en cuenta en los considerandos que sirvan de fundamento al fallo de segunda instancia.
+Derogado.
 
 #### Artículo 136
 
-El Director Regional dispondrá en el fallo la anulación o eliminación de los rubros de la liquidación reclamada que correspondan a revisiones efectuadas fuera de los plazos de prescripción.
-
-En la sentencia deberá condenarse en costas al contribuyente cuyo reclamo haya sido rechazado en todas sus partes, debiendo estimarse que ellas ascienden a una suma no inferior al 1% ni superior al 10% de los tributos reclamados. Podrá, con todo, el Tribunal eximirlo de ellas, cuando aparezca que ha tenido motivos plausibles para litigar, sobre lo cual hará declaración expresa en la resolución.
+El Juez Tributario y Aduanero dispondrá en el fallo la anulación o eliminación de los rubros del acto reclamado que correspondan a revisiones efectuadas fuera de los plazos de prescripción.
 
 #### Artículo 137
 
-En la sentencia que falle el reclamo, el Director Regional deberá establecer si el negocio es o no de cuantía determinada y fijarla, si fuere posible. En caso de no serlo, deberá indicar si la cuantía excede o no de la cantidad exigida por el Código de Procedimiento Civil para que proceda el recurso de casación. En este último caso, si se determina que la cuantía excede de la cantidad exigida para la procedencia del recurso, el asunto se tendrá como de cuantía igual al mínimo establecido en el inciso 3° del artículo 767° del Código de Procedimiento Civil.
+Cuando las facultades del contribuyente no ofrezcan suficiente garantía o haya motivo racional para creer que procederá a ocultar sus bienes, el Servicio podrá impetrar, en los procesos de reclamación a que se refiere este Título, la medida cautelar de prohibición de celebrar actos o contratos sobre bienes o derechos específicos del contribuyente. La solicitud de medida cautelar deberá ser fundada.
+
+Esta medida cautelar se limitará a los bienes y derechos suficientes para responder de los resultados del proceso y se decretará, preferentemente, sobre bienes y derechos cuyo gravamen no afecte el normal desenvolvimiento del giro del contribuyente. Ella será esencialmente provisional y deberá hacerse cesar siempre que desaparezca el peligro que se ha procurado evitar o se otorgue caución suficiente.
+
+La solicitud de medida cautelar se tramitará incidentalmente por el Tribunal Tributario y Aduanero, en ramo separado. En contra de la resolución que se pronuncie sobre aquélla sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días contado desde la notificación. Si se interpusieran ambos, deberán serlo conjuntamente, entendiéndose la apelación en subsidio de la reposición. El recurso de apelación se concederá en el solo efecto devolutivo y será tramitado por la Corte de Apelaciones respectiva en cuenta y en forma preferente.
 
 #### Artículo 138
 
-La sentencia será notificada al interesado por carta certificada; sin embargo, esta notificación deberá hacerse por cédula cuando así se solicitare por escrito durante la tramitación del reclamo.
-
-Notificada que sea la sentencia que falle el reclamo, no podrá el Director Regional alterarla o modificarla, salvo en cuanto deba, de oficio o a petición de parte, aclarar los puntos oscuros o dudosos, salvar las omisiones o rectificar los errores de copia, de referencias o de cálculos numéricos que aparezcan en ella, o salvo en cuanto fuere procedente por la interposición del recurso de reposición a que se refiere el artículo 139°.
+Notificada que sea la sentencia que falle el reclamo no podrá modificarse o alterarse, salvo en cuanto se deba, de oficio o a petición de parte, aclarar los puntos oscuros o dudosos, salvar las omisiones o rectificar los errores de copia, de referencias o de cálculos numéricos que aparezcan en ella.
 
 #### Artículo 139
 
-Contra la sentencia que falle un reclamo o que lo declare improcedente o que haga imposible su continuación, sólo podrán interponerse los recursos de reposición y de apelación, dentro del plazo de diez días contado desde la notificación.
+Contra la sentencia que falle un reclamo sólo podrá interponerse el recurso de apelación, dentro del plazo de quince días contado desde la fecha de su notificación.
 
-Si se interpusieren ambos, deberán serlo conjuntamente, entendiéndose la apelación en subsidio de la reposición.
+Respecto de la resolución que declare inadmisible un reclamo o haga imposible su continuación podrán interponerse los recursos de reposición y de apelación, en el plazo de quince días contado desde la respectiva notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
 
 El término para apelar no se suspende por la solicitud de aclaración, agregación o rectificación que se deduzca de acuerdo con el artículo anterior.
 
 La resolución que falle la reposición no es susceptible de recurso alguno, sin perjuicio de la apelación que se hubiere deducido subsidiariamente.
 
-Procederá también la apelación contra las resoluciones que dispongan aclaraciones, agregaciones o rectificaciones a un fallo dictado por el Director Regional.
+Procederá también la apelación contra las resoluciones que dispongan aclaraciones, agregaciones o rectificaciones a un fallo.
 
 #### Artículo 140
 
@@ -1486,51 +1570,49 @@ En contra de la sentencia de primera instancia no procederá el recurso de casac
 
 #### Artículo 141
 
-De las apelaciones que se deduzcan de acuerdo con este Título, conocerá la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
-
-En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, se aplicará la norma establecida en el inciso tercero del artículo 120.
+Derogado.
 
 #### Artículo 142
 
-La Dirección Regional deberá elevar los autos para el conocimiento de la apelación dentro de los quince días siguientes a aquel en que se notifique la concesión del recurso.
+El Tribunal Tributario y Aduanero deberá elevar los autos para el conocimiento de la apelación dentro de los quince días siguientes a aquel en que se notifique la concesión del recurso.
 
 #### Artículo 143
 
-El recurso de apelación se tramitará sin otra formalidad que la fijación de día para la vista de la causa sin perjuicio de las pruebas que las partes puedan rendir, de acuerdo con las normas del Código de Procedimiento Civil, o de las medidas para mejor resolver que ordene el Tribunal. En estas apelaciones no procederá la deserción del recurso.
+El recurso de apelación contra la sentencia definitiva se tramitará en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contados desde el ingreso de los autos en la secretaría de la Corte de Apelaciones, solicite alegatos.
+
+Vencido ese plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubiere solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta.
+
+En las apelaciones a que se refiere este Libro no será necesaria la comparecencia de las partes en segunda instancia.
 
 #### Artículo 144
 
-La Corte de Apelaciones, conociendo del recurso, podrá revisar la determinación de la cuantía del juicio que se hubiere hecho, o efectuarla en caso de omisión.
+Los fallos pronunciados por el tribunal tributario deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso décimocuarto del artículo 132, será corregida de conformidad con lo dispuesto en el artículo 140.
 
 #### Artículo 145
 
-El reclamante o el Fisco podrán interponer los recursos de casación en contra de los fallos de segunda instancia.
+El reclamante o el Servicio podrán interponer los recursos de casación en contra de los fallos de segunda instancia.
 
 Los recursos de casación que se interpongan en contra de las sentencias de segunda instancia, se sujetarán a las reglas contenidas en el Título XIX del Libro Tercero del Código de Procedimiento Civil.
 
-Será causal para la interposición del recurso de casación en la forma, la emisión en el fallo de segunda instancia de consideraciones sobre el informe a que se refiere el inciso 2° del artículo 135.
-
 #### Artículo 146
 
-En las reclamaciones materia del presente Título no procederá el abandono de la instancia.
+Derogado.
 
 #### Artículo 147
 
 Salvo disposición en contrario del presente Código, no será necesario el pago previo de los impuestos, intereses y sanciones para interponer una reclamación en conformidad a este Libro, pero la interposición de ésta no obsta al ejercicio por parte del Fisco de las acciones de cobro que procedan.
 
-Deducida una reclamación contra todo o parte de una liquidación o reliquidación, los impuestos y multas se girarán de conformidad a lo dispuesto en el artículo 24°.
-
-Los contribuyentes podrán efectuar pagos a cuentas de impuestos reclamados aun cuando no se encuentren girados. Las Tesorerías abonarán estos valores en la cuenta respectiva de ingresos, aplicándose lo señalado en el artículo 50 cuando proceda.
+Los contribuyentes podrán efectuar pagos a cuentas de impuestos reclamados, aun cuando no se encuentren girados. Las tesorerías abonarán estos valores en la cuenta respectiva de ingresos, aplicándose lo señalado en el artículo 50 cuando proceda.
 
 El Director Regional podrá disponer la suspensión total o parcial del cobro judicial por un plazo determinado o hasta que se dicte sentencia de primera instancia, cuando se trate de aquella parte de los impuestos correspondientes a la reclamación que hubieren sido girados con anterioridad al reclamo.
 
 La facultad mencionada en el inciso anterior podrá ser ejercida por el Director Regional aunque no medie reclamación.
 
-Si se dedujere apelación en contra de la sentencia definitiva que rechaza parcial o totalmente una reclamación, en los casos a que se refieren los incisos anteriores, la Corte de Apelaciones respectiva podrá, a petición de parte, previo informe del Servicio de Tesorerías, ordenar la suspensión total o parcial del cobro del impuesto por un plazo determinado que podrá ser renovado. Igualmente y también por un plazo determinado renovable, podrá hacerlo la Corte Suprema conociendo de los recursos de casación. El informe del Servicio de Tesorerías deberá entregarse dentro de los quince días siguientes de recibida la petición del tribunal, el cual podrá proceder sin él si no se entrega en el plazo señalado.
+Si se dedujere apelación en contra de la sentencia definitiva que rechaza parcial o totalmente una reclamación, en los casos a que se refieren los incisos anteriores, la Corte de Apelaciones respectiva podrá, a petición de parte, previo informe del Servicio de Tesorerías ordenar la suspensión total o parcial del cobro del impuesto por un plazo determinado que podrá ser renovado. Igualmente y también por un plazo determinado renovable, podrá hacerlo la Corte Suprema conociendo de los recursos de casación. El informe del Servicio de Tesorerías deberá entregarse dentro de los quince días siguientes de recibida la petición del tribunal, el cual podrá proceder sin él si no se entrega en el plazo señalado.
 
-Las normas del inciso anterior no serán aplicables a los impuestos sujetos a retención ni a aquellos que por la ley deban ser materia de recargo en los cobros o ingresos de un contribuyente, en la parte que efectivamente se hubiere retenido o recargado.
+Las normas del inciso anterior no serán aplicables a los impuestos sujetos a retención ni a aquellos que por la ley deban ser materia de recargo en los cobros o ingresos de un contribuyente, en la parte que efectivamente se hubiere retenido o recargado por el reclamante.
 
-Ejecutoriado un fallo, el expediente deberá ser devuelto en el plazo máximo de diez días al Tribunal de primera instancia el que deberá velar por el pago de los impuestos de Timbres, Estampillas y Papel Sellado que correspondan.
+Ejecutoriado un fallo, el expediente deberá ser devuelto en el plazo máximo de diez días al Tribunal de primera instancia.
 
 #### Artículo 148
 
@@ -1546,7 +1628,7 @@ Del procedimiento de reclamo de los avalúos de bienes raíces
 
 #### Artículo 149
 
-Dentro del mes siguiente al de la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Director Regional.
+Dentro del mes siguiente al de la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributario y Aduanero.
 
 La reclamación sólo podrá fundarse en algunas de las siguientes causales:
 
@@ -1556,7 +1638,7 @@ La reclamación sólo podrá fundarse en algunas de las siguientes causales:
 
 3°.- Errores de transcripción, de copia o de cálculo.
 
-4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8° de la ley N° 11.575.
+4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8°. de la ley N°. 11.575.
 
 La reclamación que se fundare en una causal diferente será desechada de plano.
 
@@ -1566,11 +1648,11 @@ Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que deduj
 
 #### Artículo 151
 
-La sentencia se notificará en forma extractada mediante carta certificada dirigida al domicilio señalado por el reclamante en su presentación, dejándose constancia de su envío en el expediente.
+Se aplicarán las normas contenidas en el Título II de este Libro al procedimiento establecido en este Párrafo, en cuanto la naturaleza de la tramitación lo permita. No se aplicará en este procedimiento lo dispuesto en el inciso segundo del artículo 129.
 
 #### Artículo 152
 
-Los contribuyentes y las Municipalidades podrán apelar de las resoluciones definitivas dictadas por el Director Regional, pero ante el Tribunal Especial de Alzada.
+Los contribuyentes, las municipalidades y el Servicio podrán apelar de las resoluciones definitivas dictadas por el Tribunal Tributario y Aduanero para ante el Tribunal Especial de Alzada.
 
 El recurso sólo podrá fundarse en las causales indicadas en el artículo 149 y en él se individualizarán todos los medios de prueba de que pretenda valerse el recurrente, sin perjuicio de los que pueda ordenar de oficio el Tribunal. El recurso que no cumpliere con estos requisitos, será desechado de plano por el Tribunal de Alzada.
 
@@ -1580,27 +1662,37 @@ La apelación deberá interponerse en el plazo de quince días, contado desde la
 
 El Tribunal Especial de Alzada fallará la causa sin más trámite que la fijación del día para la vista de la causa. No obstante, el tribunal, cuando lo estime conveniente, podrá oír las alegaciones de las partes.
 
-El Servicio será considerado, para todos los efectos legales, como parte en este juicio.
-
 #### Artículo 154
 
 El fallo a que se refiere el artículo anterior deberá dictarse dentro de los dos meses siguientes a la fecha de ingreso del expediente en la Secretaría del Tribunal.
 
 ### Párrafo 2° — .
 
-Del procedimiento de reclamo del impuesto a las asignaciones por causa de muerte y a las donaciones
+Del procedimiento especial de reclamo por vulneración de derechos
 
 #### Artículo 155
 
-Derogado.
+Si producto de un acto u omisión del Servicio, un particular considera vulnerados sus derechos contemplados en los numerales 21º, 22º y 24º del artículo 19 de la Constitución Política de la República, podrá recurrir ante el Tribunal Tributario y Aduanero en cuya jurisdicción se haya producido tal acto u omisión, siempre que no se trate de aquellas materias que deban ser conocidas en conformidad a alguno de los procedimientos establecidos en el Título II o en los Párrafos 1º y 3º de este Título o en el Título IV, todos del Libro Tercero de este Código.
+
+La acción deberá presentarse por escrito, dentro del plazo fatal de quince días hábiles contado desde la ejecución del acto o la ocurrencia de la omisión, o desde que se haya tenido conocimiento cierto de los mismos, lo que se hará constar en autos.
+
+Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos en que ella proceda, no se podrá recurrir de conformidad a las normas de este Párrafo, por los mismos hechos.
 
 #### Artículo 156
 
-Derogado.
+Presentada la acción el Tribunal examinará si ha sido interpuesta en tiempo y si tiene fundamentos suficientes para acogerla a tramitación. Si su presentación ha sido extemporánea o adolece de manifiesta falta de fundamento, la declarará inadmisible por resolución fundada.
+
+Acogida a tramitación, se dará traslado al Servicio por diez días. Vencido este plazo, haya o no contestado el Servicio, y existiendo hechos sustanciales y pertinentes controvertidos, se abrirá un término probatorio de diez días en el cual las partes deberán rendir todas sus pruebas. El Tribunal apreciará la prueba rendida de acuerdo a las reglas de la sana crítica.
+
+Vencido el término probatorio, el Juez Tributario y Aduanero dictará sentencia en un plazo de diez días. El fallo contendrá todas las providencias que el Tribunal juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del solicitante, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
+
+Contra la sentencia sólo procederá el recurso de apelación, en el plazo de quince días. El recurso será conocido en cuenta y en forma preferente por la Corte de Apelaciones, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la secretaría de la Corte de Apelaciones, solicite alegatos.
+
+El Tribunal podrá decretar orden de no innovar, en cualquier estado de la tramitación.
 
 #### Artículo 157
 
-Derogado.
+En lo no establecido por este Párrafo, y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de este Libro. En todo caso, el solicitante podrá comparecer sin patrocinio de abogado.
 
 ### Párrafo 3°
 
@@ -1622,7 +1714,7 @@ El pago del impuesto cuyo monto haya sido determinado por sentencia ejecutoriada
 
 #### Artículo 159
 
-El procedimiento de este párrafo no se aplicará respecto de los impuestos que deban pagarse en los juicios y gestiones ante los tribunales, caso en el cual regirá la norma del artículo 119.
+Derogado.
 
 #### Artículo 160
 
@@ -1638,37 +1730,35 @@ Procedimiento general
 
 #### Artículo 161
 
-Las sanciones por infracción a las disposiciones tributarias, que no consistan en penas corporales, serán aplicadas por el Director Regional competente, o por funcionarios que designe conforme a las instrucciones que al respecto imparta el Director, previo el cumplimiento de los trámites que a continuación se indican:
+Las sanciones por infracción a las disposiciones tributarias, que no consistan en penas privativas de libertad, serán aplicadas por el Tribunal Tributario y Aduanero, previo el cumplimiento de los trámites que a continuación se indican:
 
-1°.- En conocimiento de haberse cometido una infracción o reunidos los antecedentes que hagan verosímil su comisión, se levantará un acta por el funcionario competente del Servicio, la que se notificará al interesado personalmente o por cédula.
+1° En conocimiento de haberse cometido una infracción o reunidos los antecedentes que hagan verosímil su comisión, se levantará un acta por el funcionario competente del Servicio, quien la notificará al imputado personalmente o por cédula.
 
-2°.- El afectado, dentro del plazo de diez días, deberá formular sus descargos, contado desde la notificación del acta; en su escrito de descargos el reclamante deberá indicar con claridad y precisión los medios de prueba de que piensa valerse.
+2° El afectado, dentro del plazo de diez días, deberá formular sus descargos, contado desde la notificación del acta; en su escrito de descargos el reclamante deberá indicar con claridad y precisión los medios de prueba de que piensa valerse.
 
-Si la infracción consistiere en falta de declaración o declaración incorrecta que hubiere acarreado la evasión total o parcial de un impuesto, el contribuyente podrá, al contestar, hacer la declaración omitida o rectificar la errónea. Si esta declaración fuere satisfactoria, se liquidará de inmediato el impuesto y podrá absolverse de toda sanción al inculpado, si no apareciere intención maliciosa.
+En las causas de cuantía igual o superior a treinta y dos unidades tributarias mensuales, se requerirá patrocinio y representación en los términos de los artículos 1º y 2º de la ley Nº 18.120.
 
-3°.- Pendiente el procedimiento, se podrán tomar las medidas conservativas necesarias para evitar que desaparezcan los antecedentes que prueben la infracción o que se consumen los hechos que la constituyen, en forma que no se impida el desenvolvimiento de las actividades del contribuyente.
+3° Pendiente el procedimiento, se podrán tomar las medidas conservativas necesarias para evitar que desaparezcan los antecedentes que prueben la infracción o que se consumen los hechos que la constituyen, en forma que no se impida el desenvolvimiento de las actividades del contribuyente.
 
 Contra la resolución que ordene las medidas anteriores y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez de Letras de Mayor Cuantía en lo Civil que corresponda, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo.
 
-4°.- Presentados los descargos, se ordenará recibir la prueba que el inculpado hubiere ofrecido, dentro del término que se le señale.
+4º. Presentados los descargos se conferirá traslado al Servicio por el término de diez días. Vencido este plazo, haya o no contestado el Servicio se ordenará recibir la prueba que se hubiere ofrecido, dentro del término que se señale.
 
-Si no se presentaren descargos o no fuere necesario cumplir nuevas diligencias, o cumplidas las que se hubieren ordenado, el funcionario competente que esté conociendo del asunto, dictará sentencia.
+Si no se presentaren descargos o no fuere necesario cumplir nuevas diligencias, o cumplidas las que se hubieren ordenado, el Juez Tributario y Aduanero que esté conociendo del asunto, dictará sentencia.
 
-5°.- Contra la sentencia que se dicte sólo procederán los recursos a que se refiere el artículo 139.
+5° Contra la sentencia que se dicte sólo procederá el recurso a que se refiere el artículo 139.
 
-En contra de la sentencia de segunda instancia, procederán los recursos de casación, en conformidad al artículo 145°.
+En contra de la sentencia de segunda instancia, procederán los recursos de casación, en conformidad al artículo 145.
 
-6°.- La sentencia de primera instancia que acoja la denuncia dispondrá el giro de la multa que corresponda. Si se dedujere apelación, la Corte respectiva podrá, a petición de parte, ordenar la suspensión total o parcial del cobro por un plazo de dos meses, el que podrá ser prorrogado por una sola vez mientras se resuelve el recurso.
+6° Suprimido.
 
-Igualmente, podrá hacerlo la Corte Suprema conociendo de los recursos de casación.
+7° No regirá el procedimiento de este Párrafo respecto de los intereses o de las sanciones pecuniarias aplicados por el Servicio y relacionados con hechos que inciden en una liquidación o reliquidación de impuestos ya notificada al contribuyente. En tales casos, deberá reclamarse de dichos intereses y sanciones conjuntamente con el impuesto, y de conformidad a lo dispuesto en el Título II de este Libro.
 
-7°.- No regirá el procedimiento de este Párrafo respecto de los intereses o de las sanciones pecuniarias aplicados por el Servicio y relacionados con hechos que inciden en una liquidación o reliquidación de impuestos ya notificada al contribuyente. En tales casos, deberá reclamarse de dichos intereses y sanciones conjuntamente con el impuesto, y de conformidad a lo dispuesto en el Título II de este Libro.
+8° El procedimiento establecido en este Párrafo no será tampoco aplicable al cobro que la Tesorería haga de intereses devengados en razón de la mora o atraso en el pago.
 
-8°.- El procedimiento establecido en este Párrafo no será tampoco aplicable al cobro que la Tesorería haga de intereses devengados en razón de la mora o atraso en el pago.
+9° En lo establecido por este artículo y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de este Libro.
 
-9°.- En lo establecido por este artículo y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de ese Libro.
-
-10°.- No se aplicará el procedimiento de este Párrafo tratándose de infracciones que este Código sanciona con multa y pena corporal. En estos casos corresponderá al Servicio recopilar los antecedentes que habrán de servir de fundamento a la decisión del Director a que se refiere el artículo 162, inciso tercero.
+10. No se aplicará el procedimiento de este Párrafo tratándose de infracciones que este Código sanciona con multa y pena privativa de libertad. En estos casos corresponderá al Servicio recopilar los antecedentes que habrán de servir de fundamento a la decisión del Director a que se refiere el artículo 162, inciso tercero.
 
 Con el objeto de llevar a cabo la recopilación a que se refiere el inciso precedente, el Director podrá ordenar la aposición de sello y la incautación de los libros de contabilidad y demás documentos relacionados con el giro del negocio del presunto infractor.
 
@@ -1680,15 +1770,15 @@ Contra la resolución que ordene dichas medidas y sin que ello obste a su cumpli
 
 #### Artículo 162
 
-Las investigaciones de hechos constitutivos de delitos tributarios sancionados con pena corporal sólo podrán ser iniciadas por denuncia o querella del Servicio. Con todo, la querella podrá también ser presentada por el Consejo de Defensa del Estado, a requerimiento del Director.
+Las investigaciones de hechos constitutivos de delitos tributarios sancionados con pena privativa de libertad sólo podrán ser iniciadas por denuncia o querella del Servicio. Con todo, la querella podrá también ser presentada por el Consejo de Defensa del Estado, a requerimiento del Director.
 
 En las investigaciones penales y en los procesos que se incoen, la representación y defensa del Fisco corresponderá sólo al Director, por sí o por medio de mandatario, cuando la denuncia o querella fuere presentada por el Servicio, o sólo al Consejo de Defensa del Estado, en su caso. El denunciante o querellante ejercerá los derechos de la víctima, de conformidad al Código Procesal Penal. En todo caso, los acuerdos reparatorios que celebre, conforme al artículo 241 del Código Procesal Penal, no podrán contemplar el pago de una cantidad de dinero inferior al mínimo de la pena pecuniaria, sin perjuicio del pago del impuesto adeudado y los reajustes e intereses penales que procedan de acuerdo al artículo 53 de este Código.
 
-Si la infracción pudiere ser sancionada con multa y pena corporal, el Director podrá, discrecionalmente, interponer la respectiva denuncia o querella o enviar los antecedentes al Director Regional para que aplique la multa que correspondiere a través del procedimiento administrativo previsto en el artículo anterior.
+Si la infracción pudiere ser sancionada con multa y pena privativa de libertad, el Director podrá, discrecionalmente, interponer la respectiva denuncia o querella o enviar los antecedentes al Director Regional para que persiga la aplicación de la multa que correspondiere a través del procedimiento administrativo previsto en el artículo anterior.
 
-La circunstancia de haberse iniciado el procedimiento por denuncia administrativa señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Director Regional se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o efectuado la denuncia.
+La circunstancia de haberse iniciado el procedimiento por denuncia administrativa señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Juez Tributario y Aduanero se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o efectuado la denuncia.
 
-La interposición de la acción penal o denuncia administrativa no impedirá al Servicio proseguir los trámites inherentes a la determinación de los impuestos adeudados; igualmente no inhibirá al Director Regional para conocer o continuar conociendo y fallar la reclamación correspondiente.
+La interposición de la acción penal o denuncia administrativa no impedirá al Servicio proseguir los trámites inherentes a la determinación de los impuestos adeudados; igualmente no inhibirá al Juez Tributario y Aduanero para conocer o continuar conociendo y fallar la reclamación correspondiente.
 
 El Ministerio Público informará al Servicio, a la brevedad posible, los antecedentes de que tomare conocimiento con ocasión de las investigaciones de delitos comunes y que pudieren relacionarse con los delitos a que se refiere el inciso primero.
 
@@ -1712,31 +1802,31 @@ Procedimientos especiales para la aplicación de ciertas multas
 
 #### Artículo 165
 
-Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11°, 17, 19°, 20 y 21 del artículo 97, se someterán al procedimiento que a continuación se señala:
+Las denuncias por las infracciones sancionadas en los números 1°, 2°, 3º, 6°, 7°, 10°, 11°, 15, 16, 17, 19, 20 y 21 del artículo 97, y en el artículo 109, se someterán al procedimiento que a continuación se señala:
 
-1°- Las multas establecidas en los números 1, inciso primero, 2 y 11 del artículo 97 serán determinadas por el Servicio, o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el Servicio o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
+1° Las multas establecidas en los números 1 inciso primero, 2 y 11 del artículo 97 serán determinadas por el Servicio, o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el servicio o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
 
-2°- En los casos a que se refieren los números 1, incisos segundo y final, 6°, 7°, 10°, 17, 19, 20 y 21 del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+2° En los casos a que se refieren los números 1º, inciso segundo, 3º, 6°, 7°, 10°, 15, 16, 17, 19, 20 y 21 del artículo 97, y artículo 109, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
+3° Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Tribunal Tributario y Aduanero de su jurisdicción.
 
-4°- Una vez formulado el reclamo, el contribuyente podrá dentro de los ocho días siguientes, acompañar y producir todas las pruebas que estime necesario rendir. El Director Regional determinará la oportunidad en que la prueba testimonial deba rendirse. Sólo podrán declarar los testigos que el contribuyente señale en el reclamo, con expresión de su nombre y apellido, domicilio, profesión u oficio. No podrán declarar más de cuatro testigos en total. En todo caso, el Director Regional podrá citar a declarar a personas que no figuren en la lista de testigos o decretar otras diligencias probatorias que estime pertinentes. La prueba se apreciará de acuerdo a las reglas de la sana crítica.
+4º. Formulado el reclamo, se conferirá traslado al Servicio por el término de diez días. Vencido el plazo, haya o no contestado el Servicio, el Juez Tributario y Aduanero podrá recibir la causa a prueba si estima que existen hechos substanciales y pertinentes controvertidos, abriendo un término probatorio de ocho días. En la misma resolución determinará la oportunidad en que la prueba testimonial deba rendirse. Dentro de los dos primeros días del término probatorio las partes deberán acompañar una nómina de los testigos de que piensan valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. No podrán declarar más de cuatro testigos por cada parte. En todo caso, el tribunal podrá citar a declarar a personas que no figuren en las listas de testigos o decretar otras diligencias probatorias que estime pertinentes.
 
-Las resoluciones dictadas en primera instancia, con excepción de la sentencia, se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la Dirección Regional, con las formalidades que disponga el Director. Además se remitirá en la misma fecha aviso por correo al notificado. La falta de este aviso anulará la notificación.
+Las resoluciones dictadas en primera instancia se notificarán a las partes de conformidad con lo dispuesto en el artículo 131 bis.
 
-5°- El Director Regional resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de tercero día, contado desde la notificación personal o por cédula de dicha resolución. Sólo podrá concederse la apelación previa consignación por el recurrente en un Banco a la orden del Tesorero General de la República, de una cantidad igual al veinte por ciento de la multa aplicada, con un máximo de 10 Unidades Tributarias Mensuales. La consignación aludida se devolverá a la parte recurrente si el recurso fuere acogido. Si fuere desechado o el recurrente se desistiere de él, se aplicará a beneficio fiscal. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague a beneficio fiscal una cantidad adicional igual al monto de la consignación indicada y se condenará en las costas del recursos al recurrente cuando el Servicio hubiere comparecido en segunda instancia.
+5º. El Juez Tributario y Aduanero resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de décimoquinto día, contado desde la notificación de dicha resolución. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague, a beneficio fiscal, una cantidad adicional equivalente al diez por ciento de la multa reajustada, y se condenará en las costas del recurso al recurrente, de acuerdo a las reglas generales.
 
 La Corte de Apelaciones verá la causa en forma preferente, en cuenta y sin esperar la comparecencia de las partes, salvo que estime conveniente el conocimiento de ella previa vista y en conformidad a las normas prescritas para los incidentes.
 
-En contra de la sentencia de segunda instancia no procerán los recursos de casación en la forma y en el fondo.
+En contra de la sentencia de segunda instancia no procederán los recursos de casación en la forma y en el fondo.
 
-6°- Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita.
+6° Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita. No se aplicará en este procedimiento lo dispuesto en el inciso segundo del artículo 129.
 
-7°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+7° La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 
-8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3°, 4° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
+8° Suprimido.
 
-9°.- La interposición de reclamo en contra de la liquidación de los impuestos originados en los hechos infraccionales sancionados en el Nº20 del artículo 97º, suspenderá la resolución de la reclamación que se hubiere deducido en contra de la notificación de la citada infracción, hasta que la sentencia definitiva que falle el reclamo en contra de la liquidación quede ejecutoriada.
+9º La interposición de reclamo en contra de la liquidación de los impuestos originados en los hechos infraccionales sancionados en el Nº 20 del artículo 97º, suspenderá la resolución de la reclamación que se hubiere deducido en contra de la notificación de la citada infracción, hasta que la sentencia definitiva que falle el reclamo en contra de la liquidación quede ejecutoriada.
 
 ### Párrafo 3° — .
 
@@ -1956,7 +2046,7 @@ Se tendrá como parte en segunda instancia al respectivo Abogado Provincial, aun
 
 #### Artículo 192
 
-El Servicio de Tesorerías podrán otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado salvo que no hayan concurrido después de haber sido sancionados conforme al artículo 97, número 21, se encuentren procesados o, en su caso, acusados conforme al Código Procesal Penal, o hayan sido sancionados por delitos tributarios hasta el cumplimiento total de su pena, situaciones que el Servicio informará a Tesorería para estos efectos.
+El Servicio de Tesorerías podrá otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado salvo que no hayan concurrido después de haber sido sancionados conforme al artículo 97, número 21, se encuentren procesados o, en su caso, acusados conforme al Código Procesal Penal, o hayan sido sancionados por delitos tributarios hasta el cumplimiento total de su pena, situaciones que el Servicio informará a Tesorería para estos efectos.
 
 Facúltase al Tesorero General de la República para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, mediante normas o criterios de general aplicación que se determinarán para estos efectos por resolución del Ministro de Hacienda.
 
@@ -1968,9 +2058,7 @@ En todo caso, el contribuyente acogido a facilidades de pago, no podrá invocar 
 
 Las formalidades a que deberán someterse los mencionados convenios, serán establecidas mediante instrucciones internas dictadas por el Tesorero General, el que estará facultado para decidir las circunstancias y condiciones en que se exigirá de los deudores la aceptación de letras de cambio a fin de facilitar el pago de las cuotas convenidas, como igualmente, para remitirlas en cobranza al Banco del Estado de Chile. Dicha Institución podrá percibir por la cobranza de estas letras la comisión mínima establecida para esta clase de operaciones.
 
-> **Nota.** El artículo único de la LEY 20221, publicada el 29.09.2007, amplía, a contar del día primero del mes siguiente al de publicación de esta ley, hasta un máximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero del presente artículo, concede al Servicio de Tesorerías para otorgar facilidades para el pago de impuestos adeudados, sólo respecto de aquellos impuestos girados hasta el día 30 de junio de 2007 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorerías, se podrá ejercer por el lapso de seis meses, contados desde la fecha de vigencia de esta ley. La primera de las cuotas deberá ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.
-
-> **Nota.** NOTA 1 El artículo 7º de la LEY 20343, publicada el 28.04.2009, amplía, a contar del día primero del mes siguiente al de la publicación de la presente ley, hasta un máximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero de este artículo, concede al Servicio de Tesorerías para otorgar facilidades para el pago de impuestos adeudados, sólo respecto de aquellos impuestos girados hasta el día 31 de marzo de 2009 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorerías en este artículo, se podrá ejercer hasta el 30 de junio del año 2010. La primera de las cuotas deberá ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.
+> **Nota.** El artículo 5° de la Ley 20630, publicada el 27.09.2012, amplía, hasta un máximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero de este artículo, concede al Servicio de Tesorerías para otorgar facilidades para el pago de impuestos adeudados, sólo respecto de impuestos girados hasta el 30 de junio de 2012 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorerías en este artículo, se podrá ejercer hasta 90 días después de publicada esta ley en el Diario Oficial. La primera de las cuotas deberá ser enterada al momento de suscribirse el convenio, no pudiendo exceder su monto de la treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.
 
 #### Artículo 193°
 
