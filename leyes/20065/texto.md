@@ -168,6 +168,12 @@ Esta asignación corresponderá al personal señalado en el inciso anterior, que
 
 Para efectos de otorgar la asignación, el Director Nacional del Servicio Médico Legal y cada Director Regional de dicho Servicio, para el personal que se desempeñe en la respectiva Dirección Regional, o el Subdirector Médico, tratándose de personal que se desempeñe en la Dirección Nacional del mismo, suscribirán un convenio en el último trimestre del año que antecede al cumplimiento de las metas, el que contendrá las metas pertinentes y relevantes que contribuyan a mejorar el cumplimiento de los objetivos de la institución, con sus correspondientes indicadores, ponderadores y mecanismos de verificación. Estos convenios deberán ser visados por el Subsecretario de Justicia y tendrán duración anual.
 
+#### Artículo 14
+
+A.- El Director Nacional del Servicio Médico Legal implementará un mecanismo informativo y consultivo con la Asociación de Funcionarios Profesionales del Servicio Médico Legal, para el proceso de fijación de metas y la fase de verificación de su cumplimiento, que permita recoger la opinión de los funcionarios profesionales al respecto. En todo caso, a más tardar, el 15 de octubre de cada año, el Director Nacional solicitará directamente a los directores de la asociación gremial, su opinión acerca de las metas definidas para las Direcciones Regionales y la Dirección Nacional. Estos harán llegar sus observaciones dentro de los siete días hábiles siguientes. De la misma manera, antes de la dictación del decreto a que se refiere el artículo 15, el Director Nacional notificará a la asociación, del resultado obtenido en la verificación del cumplimiento de las metas.
+
+El presente artículo se aplicará a partir de los convenios que se suscriban en el último trimestre de 2014, de conformidad al artículo 14 de la ley Nº20.065.
+
 #### Artículo 15
 
 La evaluación del cumplimiento de las metas fijadas para cada Dirección, será realizada por la Unidad de Auditoría del Ministerio de Justicia o quien cumpla sus funciones, para cuyo efecto se considerará la información que proporcione la Unidad de Auditoría Interna del Servicio Médico Legal o aquella que cumpla tales funciones. El resultado de esta evaluación determinará el grado de cumplimiento de las metas en cada Dirección, lo que se formalizará en un decreto del Ministerio de Justicia, expedido bajo la fórmula "por orden del Presidente de la República", el que deberá dictarse a más tardar el 31 de enero del año calendario siguiente al que se cumplieron las metas.
@@ -180,11 +186,15 @@ Durante el mes de febrero del año siguiente al cumplimiento de las metas, el Di
 
 El monto mensual que corresponderá a cada profesional funcionario por concepto de la asignación, en caso de proceder su pago, no podrá ser inferior a un 32% ni superior a un 50% de la suma de las remuneraciones señaladas a continuación, establecidas en el decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, texto refundido, coordinado y sistematizado de la ley Nº 15.076, correspondientes a la jornada o jornadas horarias semanales, que desempeñe en el Servicio Médico Legal en calidad de planta o a contrata: sueldo base y asignación de estímulo fijada a la institución, en virtud de lo dispuesto en la letra b) del artículo 9º del citado cuerpo legal.
 
+El porcentaje no superior al 50% establecido en el inciso anterior alcanzará los guarismos que en cada caso se señalan conforme al siguiente cronograma: durante el año 2014, será del 85%; durante el año 2015, será del 100%; y a contar del año 2016, será del 110%.
+
 El gasto total anual que demande la aplicación del o los porcentajes que se definan por concepto de esta asignación no podrá exceder al monto señalado en el artículo siguiente.
 
 #### Artículo 18
 
 A contar del año 2007, los recursos presupuestarios que anualmente se destinarán al pago de la asignación de estímulo a la función pericial médico-legal, podrán ser hasta el 50% del producto que se obtenga de multiplicar por 12 la suma de las remuneraciones mencionadas en el artículo anterior, que haya pagado el Servicio Médico Legal en el mes de diciembre del año objeto de la evaluación, a los profesionales funcionarios señalados en el artículo 13, excluidos los que no se hayan desempeñado en la institución a lo menos seis meses de ese mismo año.
+
+Durante el año 2014, los recursos presupuestarios que anualmente se destinarán al pago de la asignación de estímulo a la función pericial médico-legal, podrán ser hasta el 85% del producto que se obtenga de multiplicar por 12 la suma de las remuneraciones mencionadas en el artículo anterior, que haya pagado el Servicio Médico Legal en el mes de diciembre del año objeto de la evaluación, a los profesionales funcionarios señalados en el artículo 13, excluidos los que no se hayan desempeñado en la institución a lo menos seis meses de ese mismo año. Para el año 2015, los citados recursos presupuestarios podrán alcanzar hasta 12 veces el 100% de la base correspondiente. A contar del año 2016, dicho límite será del 110%. En todo caso, el pago correspondiente al año 2014 deberá financiarse con los recursos contemplados en el presupuesto del Servicio Médico Legal para dicho año, pudiendo efectuarse las modificaciones presupuestarias que permitan lograr dicho objetivo.
 
 Durante el mes de febrero, por decreto del Ministerio de Justicia, expedido bajo la fórmula "por orden del Presidente de la República", el que también será suscrito por el Ministro de Hacienda, se fijará la cantidad máxima de recursos presupuestarios que anualmente se destinarán al pago de la asignación, conforme lo establecido en el inciso anterior.
 

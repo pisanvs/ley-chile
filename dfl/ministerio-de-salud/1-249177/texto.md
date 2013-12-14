@@ -1352,6 +1352,8 @@ Para tener derecho a la asignación de turno, los funcionarios deberán estar fo
 
 Esta asignación se percibirá mientras el trabajador se encuentre en funciones en los puestos de trabajo mencionados, e integre el sistema de turnos rotativos cubiertos por cuatro o tres funcionarios, manteniendo el derecho a percibirla durante los períodos de ausencia con goce de remuneraciones originados por permisos, licencias y feriado legal. Asimismo, será considerada como estipendio de carácter general y permanente, para efectos del inciso tercero del artículo 21 de la ley N° 19.429.
 
+El concepto de permiso mencionado en el inciso anterior se entiende que incluye, entre otros, el permiso a que se refiere el artículo 31 de la ley Nº19.296.
+
 #### Artículo 97
 
 Las horas extraordinarias que, en virtud de lo dispuesto en la letra c) del artículo 98 de la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, puedan percibir los funcionarios de planta y a contrata de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda y el decreto ley Nº 249, de 1974, cualquiera que sea el motivo de su origen, no constituirán remuneración permanente para ningún efecto legal. En consecuencia, no se percibirán durante los feriados, licencias y permisos con goce de remuneraciones.

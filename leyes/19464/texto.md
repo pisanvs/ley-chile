@@ -64,7 +64,7 @@ No obstante regirse por el Código del Trabajo, en lo relativo a su derecho de a
 
 #### Artículo 7°
 
-El aumento de remuneraciones establecido en la presente ley para el personal asistente de la educación que cumple funciones en los establecimientos educacionales que dependen de los departamentos de administración educacional de las municipalidades, cualquiera sea su denominación, será proporcional a la jornada de trabajo y su monto mensual, que deberá determinarse en el mes siguiente al de publicación de esta ley y en los meses de enero de 1997, enero de 1998, enero de 1999, enero de 2000, enero del año 2001, enero del año 2002, enero del año 2003 y enero del año 2004, enero del año 2005, enero del año 2006, enero del año 2008 y enero del año 2012, será permanente por el período anual respectivo.
+El aumento de remuneraciones establecido en la presente ley para el personal asistente de la educación que cumple funciones en los establecimientos educacionales que dependen de los departamentos de administración educacional de las municipalidades, cualquiera sea su denominación, será proporcional a la jornada de trabajo y su monto mensual, que deberá determinarse en el mes siguiente al de publicación de esta ley y en los meses de enero de 1997, enero de 1998, enero de 1999, enero de 2000, enero del año 2001, enero del año 2002, enero del año 2003 y enero del año 2004, enero del año 2005, enero del año 2006, enero del año 2008 y enero del año 2014, será permanente por el período anual respectivo.
 
 Para determinar el monto mensual del aumento de remuneraciones establecido en el inciso anterior, los sostenedores de establecimientos educacionales distribuirán los recursos recibidos mediante procedimientos que consideren los criterios
 
@@ -76,7 +76,7 @@ El aumento de remuneraciones que contempla esta ley para el personal asistente d
 
 #### Artículo 9°
 
-A contar desde el 1° de enero de 2013, la subvención a que se refiere el artículo 1° pasará a incrementar, en la proporción que corresponda, los factores de la unidad de subvención educacional señalados en el artículo 9° del decreto con fuerza de ley N° 5, del Ministerio de Educación, de 1993. Dicho incremento se determinará mediante decreto supremo del mismo Ministerio, suscrito, además, por el Ministro de Hacienda.
+A contar desde el 1° de enero de 2015, la subvención a que se refiere el artículo 1° pasará a incrementar, en la proporción que corresponda, los factores de la unidad de subvención educacional señalados en el artículo 9° del decreto con fuerza de ley N° 5, del Ministerio de Educación, de 1993. Dicho incremento se determinará mediante decreto supremo del mismo Ministerio, suscrito, además, por el Ministro de Hacienda.
 
 #### Artículo 10
 

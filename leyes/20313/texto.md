@@ -224,7 +224,7 @@ Esta bonificación tendrá, a partir del 1 de enero de 2009, un valor trimestral
 
 A partir del 1 de enero de 2010, dicha bonificación tendrá un valor trimestral de $165.000.- respecto del personal que se desempeñe en la Primera, Décimo Quinta y Segunda Regiones y de $243.000.- para los que se desempeñen en la Décimo Primera y Décimo Segunda Regiones, así como en las Provincias de Palena e Isla de Pascua y en la comuna de Juan Fernández. En el caso de la Provincia de Chiloé la bonificación tendrá un monto trimestral de $1 10.000.-
 
-La bonificación se pagará en cuatro cuotas iguales, las que vencerán el día 1 de los meses de marzo, junio, septiembre y diciembre de cada año. Los montos a percibir serán proporcionales al tiempo trabajado en el trimestre respectivo.
+La bonificación se pagará en cuatro cuotas iguales, los meses de marzo, junio, septiembre y diciembre de cada año. Los montos a percibir serán proporcionales al tiempo trabajado en el trimestre respectivo.
 
 #### Artículo 31
 
