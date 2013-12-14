@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.437, de 6 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 211121039, 207106068, 207101005 y 210110103 Sector 0, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de diciembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
