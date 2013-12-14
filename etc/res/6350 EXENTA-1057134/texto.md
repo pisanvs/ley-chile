@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES Nos 6.349 Y 6.350 EXENTAS, DE 2013
+
+Por resoluciones exentas Nº 6.349 y 6.350, de fecha 26 de noviembre de 2013, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueban los Planes y Programas y se otorga el reconocimiento oficial de la Escuela de Conductores Profesionales "López y Espinoza Limitada", cuyo nombre de fantasía es " Instituto Chileno del Transporte" RUT Nº 76.271.485-K, cuyos representantes legales son el señor Rigoberto César López Montoya y el señor Cristian Luis Espinoza Espinoza, para impartir cursos de licencia de conductor profesional Clase A-2 , A-3, A-4 y A-5, en la sede ubicada en Avda. Macul Nº 4080 - 4086, y taller mecánico en Las Dalias Nº 2259, ambos en la comuna de Macul.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
