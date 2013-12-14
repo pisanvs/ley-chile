@@ -1544,6 +1544,8 @@ Para tener derecho a la asignación de turno, los funcionarios deberán estar fo
 
 Esta asignación se percibirá mientras el trabajador se encuentre en funciones en los puestos de trabajo mencionados, e integre el sistema de turnos rotativos cubiertos por cuatro o tres funcionarios, manteniendo el derecho a percibirla durante los períodos de ausencia con goce de remuneraciones originados por permisos, licencias y feriado legal. Asimismo, será considerada como estipendio de carácter general y permanente, para efectos del inciso tercero del artículo 21 de la ley N° 19.429.
 
+El concepto de permiso mencionado en el inciso anterior se entiende que incluye, entre otros, el permiso a que se refiere el artículo 31 de la ley Nº19.296.
+
 #### Artículo 97
 
 <!-- parte:8653925 -->
