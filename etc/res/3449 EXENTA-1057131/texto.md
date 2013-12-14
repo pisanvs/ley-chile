@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.449, de 6 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 212122113, 212122115, 212121040, 212122114, 212122116, 212122126, 212122125, 212122124, 212122123 y 210100052, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de diciembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
