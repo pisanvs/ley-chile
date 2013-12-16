@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 2196, de 29 de noviembre de 2013, se modificó el Decreto Exento MOP Nº 991, de 12 de junio de 2013, en el sentido de eliminar el lote de terreno Nº 15, para la obra CONCESION AUTOPISTA CONCEPCION - CABRERO. SECTOR A2: CABRERO PONIENTE - EL PINO. ENLACE FLORIDA 1. En todo lo no modificado, se mantiene plenamente vigente el Decreto Exento MOP Nº 991, de 12 de junio de 2013.
+
+Fiscal del Ministerio de Obras Públicas.
