@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.823, 28 de noviembre de 2013, Serviu Región del Biobío ordenó expropiación Parcial de terreno del inmueble ubicado en Avenida Los Ángeles 309 Colo Colo (Lote 8), de la comuna de Los Ángeles, Rol de avalúo Nº 00154-00049 de esa comuna de aparente dominio de Mellado Alarcón Sergio Reginaldo. La parte afecta a expropiación tiene una superficie de 1,15 m2. de terreno y 0 m2 de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 8 en el polígono A-B-C-A del plano S8R-27.419-1, para la ejecución Programa "Iniciativas de Inversión - Proyectos - Terreno - Mejoramiento Avenida Los Ángeles entre Almirante Latorre y R. Vicuña" ítem 31.02.003.30043333-0. Conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por arquitecta María Pamela Mac Guire Acevedo, arquitecto Rodrigo Gerardo Ríos Maldonado y arquitecto Miguel Ramón Vera Musso que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $382.979.
+
+Director (S) Serviu Región del Bíobío.
