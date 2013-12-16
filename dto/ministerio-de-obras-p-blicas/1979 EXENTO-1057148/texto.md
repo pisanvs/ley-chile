@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1979, de 18 de noviembre de 2013, se modificaron los Decretos Exentos MOP. Nºs 2820 y 2823, ambos de 30 de septiembre de 2011, en la parte que se refiere al kilometraje que comprende la obra, la cual es "12,50000 a Km. 22,38000", modificación referida a la obra: "Mejoramiento Ruta U-16, Sector Bif. Quilacahuin - Puente Momberg, Tramo Km. 12,50000 a Km. 22,38000".
+
+Fiscal del Ministerio de Obras Públicas.
