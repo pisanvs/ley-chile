@@ -8,9 +8,11 @@ CANJE DE BILLETES CHILENOS DETERIORADOS INUTILIZADOS POR EL USO DE TECNOLOGÍAS 
 
 El canje de billetes inutilizados como consecuencia del uso de tintas especiales que deterioren los billetes, en carácter de tecnología disuasiva de seguridad aplicada en cajeros automáticos de empresas bancarias y en el servicio de transporte de valores, que se accione con motivo de siniestros accidentales, sustracción ilícita o intento de sustracción, se sujetará a los requisitos previstos en el numeral 1 del Acuerdo de Consejo Nº 1602E-01, adoptado en su Sesión celebrada con fecha 12 de abril de 2011, y a las demás instrucciones contempladas en el presente Reglamento Operativo, en adelante el "RO":
 
-1. Los sistemas disuasivos de seguridad a que se refiere el Acuerdo N° 1602E-01, corresponderán a los dispositivos, tecnologías y tintas especiales que sean autorizados de conformidad con lo dispuesto por el Ministerio del Interior y Seguridad Pública mediante el Decreto Exento ("D.E.") N° 1122, de 1998, modificado por el D.E. N° 2665, de 2011, respecto de las empresas bancarias que obtengan la inscripción de dichos sistemas o dispositivos disuasivos para su uso en cajeros automáticos, en el Registro a que dicha normativa se refiere. Por su parte, en relación con las empresas de transporte de valores, los referidos sistemas de seguridad serán aquellos cuya autorización y registro se otorgue en los mismos términos señalados, de acuerdo a lo establecido por el D.E. N° 1226, de 2000, modificado por D.E. N° 2662, de 2011, ambos de ese Ministerio.
+1. Los sistemas disuasivos de seguridad a que se refiere el Acuerdo Nº 1602E-01, corresponderán a los dispositivos, tecnologías y tintas especiales que sean autorizados de conformidad con lo dispuesto por el Ministerio del Interior y Seguridad Pública mediante el Decreto Supremo Nº 222, de 2013, sin perjuicio de lo establecido en el decreto exento ("D.E.") Nº 1.122, de 1998, modificado por el D.E. Nº 2.665, de 2011, respecto de las empresas bancarias que obtengan la inscripción de dichos sistemas o dispositivos disuasivos para su uso en cajeros automáticos, en el archivo o registro a que dicha normativa se refiere.
 
-Se deja constancia que los D.E. N° 2662 y 2665 fueron publicados en el Diario Oficial de fecha 4 de julio de 2011, preceptiva en la cual se contempla que la autorización y el registro aludido, así como su vigencia, serán acreditados mediante el pertinente certificado que, al efecto, otorgará la Autoridad Fiscalizadora a que dicha normativa se refiere. Asimismo, se contempla el establecimiento de un Registro de Peritos idóneos.
+Por su parte, en relación con las empresas de transporte de valores, los referidos sistemas de seguridad serán aquellos cuya autorización y registro se otorgue de acuerdo a lo establecido por el D.E. Nº 1.226, de 2000, modificado por D.E. Nº 2.662, de 2011, ambos de ese Ministerio.
+
+Se deja constancia que el Decreto Supremo Nº 222, fue publicado en la edición del Diario Oficial de 30 de octubre de 2013; asimismo, los D.E. Nº 2.662 y 2.665, fueron publicados en el Diario Oficial de fecha 4 de julio de 2011; preceptiva en la cual se contempla que la autorización y el registro aludido, así como su vigencia, serán acreditados mediante el pertinente certificado que, al efecto, otorgará la Autoridad Fiscalizadora a que dicha normativa se refiere. Asimismo, se contempla el establecimiento de un registro o nómina de Peritos idóneos.
 
 2. El Banco Central de Chile, en adelante indistintamente el "BCCh", solo efectuará el canje de los billetes entintados provenientes de la activación de los mecanismos disuasivos de seguridad descritos en el Acuerdo N° 1602E-01, a la empresa bancaria o transportadora de valores que haya sufrido el siniestro accidental o que tenga carácter de víctima del delito de robo o hurto de los mismos, o de algún otro hecho delictual que incida en la sustracción ilícita o intento de sustracción del referido circulante legal, que hubiere conducido a la activación de los referidos sistemas disuasivos.
 
@@ -18,147 +20,183 @@ Para este efecto, deberá acompañarse la pertinente solicitud de canje suscrita
 
 3. Conforme a lo indicado, se accederá al canje de billetes entintados producto de las mencionadas tecnologías, cuya respectiva solicitud cumpla con lo estipulado en el numeral 1 del Acuerdo N° 1602E-01, en los siguientes términos:
 
-a. Billetes entintados producto de situaciones de
+a. Billetes entintados producto de situaciones
 
-siniestro o activación accidental del respectivo
+de siniestro o activación accidental del
 
-sistema disuasivo de seguridad, consistentes en
+respectivo sistema disuasivo de seguridad,
 
-eventos originados en caso fortuito, fuerza mayor o
+consistentes en eventos originados en caso
 
-cualquier otro hecho que no provenga de la comisión
+fortuito, fuerza mayor o cualquier otro
 
-de un delito. Se deberá dar cumplimiento a lo
+hecho que no provenga de la comisión
 
-establecido en el numeral 1 citado, con excepción
+de un delito. Se deberá dar cumplimiento
 
-de su letra f); o
+a lo establecido en el numeral 1 citado,
 
-b. Billetes entintados por la activación del antedicho
+con excepción de su letra f); o
 
-sistema disuasivo con motivo de algún hecho que
+b. Billetes entintados por la activación del
 
-revista caracteres de delito, ya sea en grado
+antedicho sistema disuasivo con motivo de
 
-consumado, frustrado o de tentativa, y que sean
+algún hecho que revista caracteres de
 
-recuperados en el sitio del suceso, o entregados o
+delito, ya sea en grado consumado,
 
-restituidos a la víctima que solicite su canje, por
+frustrado o de tentativa, y que sean
 
-el Ministerio Público o la autoridad judicial
+recuperados en el sitio del suceso, o
 
-competente. Se deberá dar cumplimiento a lo
+entregados o restituidos a la víctima
 
-establecido en el numeral 1 mencionado, con
+que solicite su canje, por el Ministerio
 
-excepción de su letra g).
+Público o la autoridad judicial
 
-Se deja constancia que con excepción de los
+competente. Se deberá dar cumplimiento
 
-billetes que resulten entintados por efecto de la
+a lo establecido en el numeral 1
 
-activación accidental o producto de un hecho
+mencionado, con excepción de su letra g).
 
-delictual, y cuya restitución se solicite en los
+Se deja constancia que con excepción de
 
-términos previstos en el numeral 1 del Acuerdo N°
+los billetes que resulten entintados
 
-1602E-01, el Banco no procederá al canje de
+por efecto de la activación accidental o
 
-billetes que resulten entintados en un porcentaje
+producto de un hecho delictual, y cuya
 
-inferior al 20%, de su superficie total por anverso
+restitución se solicite en los términos
 
-y reverso.
+previstos en el numeral 1 del Acuerdo N°
+
+1602E-01, el Banco no procederá al canje
+
+de billetes que resulten entintados en
+
+un porcentaje inferior al 20%, de su
+
+superficie total por anverso y reverso.
 
 4. Para efectuar la solicitud de canje de los billetes entintados en los términos previstos en el Acuerdo N° 1602E-01, las empresas bancarias o de transporte de valores deberán entregar al BCCh la siguiente información y antecedentes:
 
-a. Certificado emitido por la Autoridad Fiscalizadora
+a. Certificado emitido por la Autoridad
 
-a que se refiere el N° 1 del RO, que acredite la
+Fiscalizadora a que se refiere el
 
-autorización, registro y vigencia de los
+N° 1 del RO, que acredite la
 
-dispositivos, tecnologías y tintas especiales, cuya
+autorización, registro y vigencia
 
-activación hubiere inutilizado los billetes
+de los dispositivos, tecnologías y
+
+tintas especiales, cuya activación
+
+hubiere inutilizado los billetes
 
 deteriorados cuyo canje se solicite.
 
-b. La certificación otorgada por un Perito idóneo
+b. La certificación otorgada por un Perito
 
-inscrito en el Registro pertinente, individualizado
+idóneo inscrito en el Registro pertinente,
 
-en el N° 1 del RO, en que se establezca que la
+individualizado en el N° 1 del RO, en
 
-tinta presente en los billetes inutilizados
+que se establezca que la tinta presente
 
-producto de dicha activación, corresponde a la
+en los billetes inutilizados producto
 
-empleada en el dispositivo previamente inscrito y a
+de dicha activación, corresponde a la
 
-las muestras de tintas registradas para el mismo,
+empleada en el dispositivo previamente
 
-ante la Autoridad Fiscalizadora.
+inscrito y a las muestras de tintas
 
-c. La demás documentación contemplada en el numeral 1
+registradas para el mismo, ante la
 
-del Acuerdo N° 1602E-01, según se trate de un
+Autoridad Fiscalizadora.
 
-siniestro o de un hecho que revista caracteres de
+c. La demás documentación contemplada
 
-delito, considerando especialmente lo previsto en
+en el numeral 1 del Acuerdo N° 1602E-01,
 
-su letra e), y en la letra f) o g) según
+según se trate de un siniestro o de
 
-corresponda, todo lo cual es sin perjuicio de los
+un hecho que revista caracteres de
 
-análisis o certificaciones que, por su parte, pueda
+delito, considerando especialmente lo
 
-efectuar o requerir el BCCh.
+previsto en su letra e), y en la
 
-d. Hacer entrega de los billetes entintados
+letra f) o g) según corresponda, todo
 
-inutilizados, los cuales deberán cumplir lo
+lo cual es sin perjuicio de los
 
-dispuesto en la letra c) del numeral 1 del Acuerdo
+análisis o certificaciones que, por
 
-N° 1602E-01 y estar contenidos en bolsas plásticas
+su parte, pueda efectuar o requerir
 
-transparentes, herméticamente selladas y con una
+el BCCh.
 
-etiqueta de identificación detallando el nombre de
+d. Hacer entrega de los billetes
 
-la empresa bancaria o transportadora de valores, la
+entintados inutilizados, los cuales
 
-fecha de entrega al Banco Central de Chile, el
+deberán cumplir lo dispuesto en la
 
-número de piezas por denominación, así como la
+letra c) del numeral 1 del Acuerdo
 
-clave numérica o alfanumérica del sello de
+N° 1602E-01 y estar contenidos en
 
-seguridad.
+bolsas plásticas transparentes,
 
-Además los billetes deberán estar completamente
+herméticamente selladas y con una
 
-secos, separados entre sí, y agrupados por
+etiqueta de identificación detallando
 
-denominación en lotes de 100 billetes o fracción,
+el nombre de la empresa bancaria o
 
-si corresponde. Las empresas bancarias o de
+transportadora de valores, la fecha
 
-transporte de valores serán responsables del
+de entrega al Banco Central de Chile, el
 
-proceso de clasificación, autentificación y
+número de piezas por denominación, así
 
-empaquetado de los billetes, de conformidad con los
+como la clave numérica o alfanumérica
 
-requisitos y condiciones antedichos.
+del sello de seguridad.
 
-En el Anexo N°1 se adjunta listado con el resumen
+Además los billetes deberán estar
 
-de la documentación exigida para cada caso.
+completamente secos, separados entre sí,
+
+y agrupados por denominación en lotes
+
+de 100 billetes o fracción, si
+
+corresponde. Las empresas bancarias o
+
+de transporte de valores serán
+
+responsables del proceso de
+
+clasificación, autentificación y
+
+empaquetado de los billetes, de
+
+conformidad con los requisitos y
+
+condiciones antedichos.
+
+En el Anexo N°1 se adjunta listado
+
+con el resumen de la documentación
+
+exigida para cada caso.
 
 5. Las empresas bancarias o de transporte de valores deberán coordinar con el Jefe del Departamento Administración de Circulante de la Gerencia de Tesorería del BCCh, la fecha y horario de recepción de los billetes entintados inutilizados por la acción de estos mecanismos disuasivos de seguridad. En todo caso, la entrega se efectuará en dependencias del Banco Central de Chile, ocasión en la cual el referido personero del Instituto Emisor, o quien le subrogue, emitirá un Acta de Recepción de los valores y la documentación que se acompañe, debiendo entregar copia de la misma al solicitante (Anexo N° 2). En todo caso, la documentación requerida en el numeral 4 de este Reglamento, deberá ser entregada, en la misma fecha, a través de la Oficina de Partes ubicada en Morandé N° 115, piso 3.
 
@@ -192,10 +230,8 @@ Vigencia
 
 Disposiciones transitorias
 
-14. No obstante lo referido, en caso de presentarse solicitudes de canje amparadas por el Acuerdo N° 1621-01-110630, relativo a la aplicación transitoria del Acuerdo N° 1602E-01, en tanto este último entre en vigencia, con motivo de la activación de sistemas disuasivos de seguridad de entintado de billetes utilizados en cajeros automáticos de empresas bancarias que cuenten con la autorización provisoria del Ministerio del Interior y de Seguridad Pública, por causa de eventos originados en caso fortuito, fuerza mayor o cualquier otro hecho que no provenga de la comisión de un delito; se aplicarán las normas del RO a contar de la publicación de los referidos Acuerdos en el Diario Oficial, quedando, en todo caso, el referido canje de billetes entintados supeditado al cumplimiento de las exigencias contempladas en el RO, con excepción de los requisitos previstos en las letras a) y b) de su N° 4.
+### 14. SUPRIMIDO
 
-En todo caso, en relación con la aplicación del Acuerdo N° 1621-01, el certificado a que se refiere la letra b) del N° 4 del RO, deberá ser suplido por el certificado otorgado por un perito con especialidad documental o equivalente, en que se establezca que la tinta presente en los billetes inutilizados producto de dicha activación, corresponde a la empleada en el dispositivo autorizado provisoriamente por el referido Ministerio, conforme a la muestra de la o las tintas que se empleen en el mismo y que fueren proporcionadas a dicho perito, para efectos del análisis y certificación pertinente, por el fabricante o proveedor del dispositivo o de la tinta empleada, circunstancia que deberá hacerse constar en el certificado respectivo.
-
-Si, por el contrario, mientras entra en vigencia el Acuerdo N° 1602E-01, la activación de dichos sistemas disuasivos tiene su origen en algún hecho que revista caracteres de delito, para fines del canje mencionado la empresa bancaria solicitante deberá acreditar previamente al BCCh el cumplimiento de los requisitos y condiciones generales establecidos en el mencionado Acuerdo y en este RO, una vez que el Acuerdo N° 1602E-01 entre a regir.
+> **Nota.** El Numeral 3º del Certificado S/N, Banco Central, publicado el 17.12.2013, sustituye el Anexo Nº 3 relativo al costo de reposición de los billetes que sean objeto de canje, sin embargo el citado anexo no fue publicado
 
 Santiago, 14 de julio de 2011.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
