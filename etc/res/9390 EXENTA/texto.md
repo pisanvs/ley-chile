@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 9.390 EXENTA, DE 12 DE DICIEMBRE DE 2013
+
+Por la presente resolución exenta se han modificado las resoluciones exentas Nos 12.780 de 1998 y 1.457 de 2001, ambas del Ministerio de Educación, que aprobaron a la Corporación de la Sociedad Nacional de Agricultura, SNA Educa (Ex Codesser), filial de la Sociedad Nacional de Agricultura, planes y programas especiales de estudio de Primer y Segundo Ciclo (1º a 4º año) de Educación Media Técnico-Profesional, de los establecimientos educacionales que se señalan en la presente resolución, en el sentido de sustituir los planes de estudio de las Especialidades de Mecánica Industrial; Mecánica Automotriz; Construcciones Metálicas; Electricidad; Servicios de Alimentación Colectiva; Elaboración Industrial de Alimentos; Instalaciones Sanitarias y Edificación.
+
+Además, se aprueban programas de estudio para el Primer y Segundo Ciclo (1º a 4º año) de Educación Media Técnico-Profesional, de los sectores correspondientes al Plan de Formación General y del Plan de Formación Diferenciada, de las Especialidades señaladas en el inciso anterior.
+
+Santiago, 12 de diciembre de 2013.- Ricardo H.C. Evangelista, Jefe División de Educación General.
