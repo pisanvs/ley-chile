@@ -2230,9 +2230,7 @@ DE LA INFORMACIÓN
 
 #### Artículo 71
 
-A. Salvo en los casos en que el presente reglamento disponga algo distinto, la entrega de información al Servicio que deba realizarse en virtud de la aplicación del presente reglamento por quienes realicen las actividades sometidas a sus disposiciones, deberá efectuarse dentro de los cinco días primeros días de cada mes.
-
-Los laboratorios de diagnóstico deberán entregar la información correspondiente a los resultados obtenidos de los muestreos realizados en ejercicio de las labores a que se refiere el presente reglamento, dentro de los cinco días siguientes a su emisión, de conformidad con lo dispuesto en el artículo 122 k) de la ley.
+A. Los laboratorios de diagnóstico deberán entregar la información correspondiente a los resultados obtenidos de los muestreos realizados en ejercicio de las labores a que se refiere el presente reglamento, dentro de los cinco días siguientes a su emisión, de conformidad con lo dispuesto en el artículo 122 k) de la ley.
 
 El Servicio pondrá a disposición los formatos electrónicos, y cuando corresponda, las vías electrónicas a través de los cuales deberá entregarse la información a que se refieren las disposiciones del presente reglamento.
 
