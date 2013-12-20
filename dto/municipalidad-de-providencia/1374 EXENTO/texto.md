@@ -684,6 +684,12 @@ Salud Región Metropolitana.
 
 por la Municipalidad de Providencia.-
 
+72002 Sándwich envasados y rotulados de fábricas
+
+autorizadas por la Secretaría Regional
+
+Ministerial de Salud Región Metropolitana.
+
 2.- CARROS REPARTIDORES MOTORIZADOS
 
 62162 Frutas
