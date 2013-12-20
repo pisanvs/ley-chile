@@ -14,25 +14,11 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros en la calzada central de Av. Departamental, en la comuna de Pedro Aguirre Cerda, las que se ubicarán en el tramo y según el sentido de circulación que se indica en el siguiente cuadro:
+1.- Establécense dos pistas de uso exclusivo para buses de transporte público urbano de pasajeros, una por cada sentido de tránsito, en la calzada central de Av. Departamental, de la comuna de Pedro Aguirre Cerda, en aquellos tramos de su calzada, que según sentido de circulación se indican en el siguiente cuadro:
 
-Vía Desde Hasta Sentido de Pista
+.
 
-Uso Exclusivo
-
-Buses
-
-Av. Departamental Los Comandos Av. General Oriente-
-
-Velásquez Poniente
-
-Av. Departamental Av. General Paseo
-
-Velásquez Grohnert Poniente-
-
-Oriente
-
-Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
+Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa Nacional de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de Señalización de Tránsito.
 
