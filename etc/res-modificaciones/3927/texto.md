@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.927, del 24 de octubre de 2013, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Acuinova Chile S.A., sociedad chilena, RUT 95.023.000-2, con domicilio en Paseo Presidente Errázuriz Echaurren 2631, piso 6º, Providencia, Santiago, para incorporar el cultivo del grupo de especies salmónidos, requerida mediante solicitud 207111081, de 30 de marzo de 2007, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 490, de 11 de febrero de 2004, modificada por resolución 981, de 22 de agosto de 2008, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 5.251, de 27 de julio de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Canal Vicuña, Caleta Giannella, Isla Luz, comuna y provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 2.992, de 20 de noviembre de 2003, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 2.820, de 14 de septiembre de 2010, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y resolución exenta 8, de 4 de enero de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 11 de diciembre de 2013.- Por orden del Subsecretario para las Fuerzas Armadas. Camilo Mirosevic Verdugo, Abogado, Jefe División Jurídica.
