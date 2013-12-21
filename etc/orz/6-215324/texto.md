@@ -180,7 +180,7 @@ La Ordenanza de Derechos Municipales y la Ordenanza de Cobro de Derechos de Aseo
 
 <!-- parte:8017518 -->
 
-Los decretos que dispongan modificaciones en el sentido del tránsito en las vías públicas se publicarán, además del Diario Oficial, en el diario de mayor circulación en la comuna por tres días, de acuerdo a lo previsto por el artículo 178 de la Ley Nº 18.290, Ley de Tránsito.
+Los decretos que dispongan modificaciones en el sentido del tránsito en las vías públicas se publicarán, además del Diario Oficial, en el diario de mayor circulación en la comuna por tres días, de acuerdo a lo previsto por el artículo 172 de la Ley Nº 18.290, Ley de Tránsito.
 
 #### Artículo 16º
 
