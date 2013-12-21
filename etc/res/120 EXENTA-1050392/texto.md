@@ -10,32 +10,32 @@ Establézcanse los siguientes recorridos de ingreso y salida desde y hacia la ci
 
 a) Osorno - Río Negro - Osorno:
 
-Ingreso: Av. Padre Harter, Mac Iver - Av. Buschmann - Vicuña Mackenna - Pedro Montt - O'Higgins, Pedro Aguirre Cerda, Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Terminal de Buses.
+Ingreso: Av. Padre Harter, Mac Iver - Av. Buschmann - Vicuña Mackenna - Pedro Montt - O'Higgins, Pedro Aguirre Cerda, Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Paradero de inicio y Término de Recorrido.
 
-Salida: Terminal de Buses - Mac Iver, Pedro Montt - Balmaceda - Av. Padre Hurtado.
+Salida: Paradero de inicio y Término de Recorrido - Mac Iver, Pedro Montt - Balmaceda - Av. Padre Hurtado.
 
 b) Purranque - Río Negro - Purranque:
 
-Ingreso: Av. Padre Harter, Mac Iver - Av. Buschmann - Vicuña Mackenna - Pedro Montt - O'Higgins, Pedro Aguirre Cerda, Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Terminal de Buses.
+Ingreso: Av. Padre Harter, Mac Iver - Av. Buschmann - Vicuña Mackenna - Pedro Montt - O'Higgins, Pedro Aguirre Cerda, Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Paradero de inicio y Término de Recorrido.
 
-Salida: Terminal de Buses - Mac Iver, Pedro Montt - Balmaceda - Av. Padre Hurtado.
+Salida: Paradero de inicio y Término de Recorrido - Mac Iver, Pedro Montt - Balmaceda - Av. Padre Hurtado.
 
 c) Riachuelo - Río Negro - Riachuelo:
 
-Ingreso: Pedro Aguirre Cerda - Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Terminal de Buses.
+Ingreso: Pedro Aguirre Cerda - Lago Budi - Av. La Paz - Pedro Montt - Volcán Osorno - Volcán Puntiagudo - Pedro Montt - Mac Iver - Paradero de inicio y Término de Recorrido.
 
-Salida: Terminal de Buses, Mac Iver, Av. Buschmann, Av. Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Camino a Riachuelo.
+Salida: Paradero de inicio y Término de Recorrido, Mac Iver, Av. Buschmann, Av. Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Camino a Riachuelo.
 
 d) Riachuelo - Río Negro - Osorno:
 
-Ingreso: Pedro Aguirre Cerda, Lago Budi, Av. La Paz, Pedro Montt, Volcán Osorno, Volcán Puntiagudo, Pedro Montt, Mac Iver, Terminal de Buses.
+Ingreso: Pedro Aguirre Cerda, Lago Budi, Av. La Paz, Pedro Montt, Volcán Osorno, Volcán Puntiagudo, Pedro Montt, Mac Iver, Paradero de inicio y Término de Recorrido.
 
-Salida: Terminal de Buses, Mac Iver, Pedro Montt, Balmaceda, Av. Padre Hurtado.
+Salida: Paradero de inicio y Término de Recorrido, Mac Iver, Pedro Montt, Balmaceda, Av. Padre Hurtado.
 
 e) Osorno - Río Negro - Riachuelo:
 
-Ingreso: Av. Padre Alberto Hurtado, Mac Iver, Av. Buschmann, Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Lago Budi, Av. La Paz, Pedro Montt, Volcán Osorno, Volcán Puntiagudo, Pedro Montt, Mac Iver, Terminal de Buses.
+Ingreso: Av. Padre Alberto Hurtado, Mac Iver, Av. Buschmann, Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Lago Budi, Av. La Paz, Pedro Montt, Volcán Osorno, Volcán Puntiagudo, Pedro Montt, Mac Iver, Paradero de inicio y Término de Recorrido.
 
-Salida: Terminal de Buses, Mac Iver, Av. Buschmann, Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Camino a Riachuelo.
+Salida: Paradero de inicio y Término de Recorrido, Mac Iver, Av. Buschmann, Vicuña Mackenna, Pedro Montt, O'Higgins, Pedro Aguirre Cerda, Camino a Riachuelo.
 
 Anótese, comuníquese y publíquese.- Alex Bartsch Bórquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
