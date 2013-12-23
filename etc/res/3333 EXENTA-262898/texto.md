@@ -18,6 +18,8 @@ ESPECIE FAMILIA
 
 Abutilum x hybridum Malvaceae
 
+Acroclinium spp. Asteraceae
+
 Agapanthus africanus
 
 Agapantus praecox Liliaceace
@@ -686,6 +688,26 @@ análisis oficial de
 
 laboratorio.
 
+Cassia fistula L. Fabaceae El envío ha sido
+
+sometido a un tratamiento
+
+cuarentenario para el
+
+conmtrol de:
+
+Caryedon serratus
+
+(Col.: Bruchidae).
+
+Pachymerus gonatra
+
+(Col.: Bruchidae).
+
+Zabrotes subfasciatus
+
+(Col.: Bruchidae).
+
 Clematis incana Ranunculaceae
 
 El envío se encuentra
@@ -711,6 +733,40 @@ con el resultado de un
 análisis oficial de
 
 laboratorio.
+
+Forsythia spp. Oleaceae El envío de semillas
+
+deriva de plantas
+
+madres que fueron
+
+inspeccionadas y
+
+analizadas en el
+
+momento óptimo y
+
+encontradas libres de
+
+Cherry leaf roll virus,
+
+Raspberry ringspot
+
+virus y Tomato black
+
+ring virus.
+
+Lupinus polyphyllus Fabaceae Las semillas proceden de
+
+un semillero que fue
+
+inspeccionado durante la
+
+última temporada de
+
+crecimiento y encontrada
+
+libre de Colletotrichum acutatum
 
 Primula acaulis (Sin.:
 
