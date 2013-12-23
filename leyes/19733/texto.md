@@ -126,17 +126,23 @@ Todo impreso, grabación sonora o producción audiovisual o electrónica realiza
 
 #### Artículo 14
 
-Las personas o establecimientos a que se refiere el artículo anterior, deberán enviar a la Biblioteca Nacional, al tiempo de su publicación, la cantidad de quince ejemplares de todo impreso, cualesquiera sea su naturaleza.
+Las personas o establecimientos a que se refiere el artículo anterior, deberán enviar a la Biblioteca Nacional, al tiempo de su publicación, la cantidad de cinco ejemplares de todo impreso, cualesquiera sea su naturaleza.
 
 En el caso de las publicaciones periódicas, el Director de la Biblioteca Nacional estará facultado para suscribir convenios con los responsables de dichos medios para establecer modalidades de depósito legal mixto, reduciendo el número de ejemplares en papel, sustituyendo el resto por reproducciones de los mismos en microfilms y/o soportes electrónicos.
 
-De las publicaciones impresas en regiones, de los quince ejemplares, cuatro de estos deberán depositarse en la biblioteca pública de la región que designe el Director de la Biblioteca Nacional.
+De las publicaciones impresas en regiones, de los cinco ejemplares, dos de estos deberán depositarse en la biblioteca pública de la región que designe el Director de la Biblioteca Nacional.
 
 La Biblioteca Nacional podrá rechazar y exigir un nuevo ejemplar, si alguno de los ejemplares depositados, en cualquier soporte, exhibe deficiencias o algún deterioro que impida su consulta o conservación.
 
 En el caso de las grabaciones sonoras o producciones audiovisuales o electrónicas destinadas a la comercialización, tales personas o establecimientos depositarán dos ejemplares de cada una.
 
 La obligación que establece este artículo deberá cumplirse dentro del plazo máximo de treinta días.
+
+Tratándose de creaciones cinematográficas, la obligación se entenderá cumplida al depositarse una copia en formato original y una en formato digital en la Cineteca Nacional y otra, también en formato digital, en la Biblioteca Nacional.
+
+La obligación que establece este artículo deberá cumplirse dentro del plazo máximo de noventa días. En caso de incumplimiento de lo dispuesto en los incisos primero y tercero, junto con la denuncia correspondiente, podrá exigirse la entrega de los ejemplares a la persona natural o jurídica responsable de la producción editorial de los mismos, dentro de sesenta días contados desde el vencimiento del plazo anterior.
+
+Los organismos del Estado no podrán adquirir obras impresas, grabaciones sonoras o producciones electrónicas o audiovisuales, fílmicas o cinematográficas, de los editores, productores o realizadores que no den cumplimiento a la obligación establecida en este artículo, ni otorgar financiamiento a éstos a través de fondos o subvenciones. Para estos efectos, la Biblioteca Nacional deberá certificar que no ha efectuado denuncias relativas a esta infracción.
 
 #### Artículo 15
 
@@ -226,7 +232,7 @@ Deducida la apelación, el tribunal elevará de inmediato los autos a la Corte d
 
 #### Artículo 25
 
-Las acciones para perseguir las infracciones al Título III prescribirán en el plazo de seis meses contados desde su comisión.
+Las acciones para perseguir las infracciones al Título III prescribirán en el plazo de un año contado desde su comisión.
 
 ### Párrafo 2°
 
