@@ -92,7 +92,7 @@ Las entidades acreditadoras deberán tener como director técnico a un profesion
 
 Los directores técnicos podrán desempeñar esas funciones sólo en una entidad acreditadora a la vez y su función principal será la de dirigir el trabajo de los evaluadores.
 
-Para llevar a cabo las evaluaciones que correspondan, la entidad acreditadora deberá contar con un cuerpo de evaluadores constituido por profesionales universitarios idóneos y suficientes, en un número no inferior a ocho, los que sólo podrán desempeñar dicha función en una entidad acreditadora a la vez, lo que será función de la entidad controlar. Dichos evaluadores deberán contar con formación universitaria en calidad en salud y capacitación comprobada acerca del sistema de acreditación.
+Para llevar a cabo las evaluaciones que correspondan, la entidad acreditadora deberá contar con un cuerpo de evaluadores constituido por profesionales universitarios idóneos y suficientes, en un número no inferior a ocho, los que sólo podrán desempeñar dicha función en una entidad acreditadora a la vez, lo que será función de la entidad controlar. Dichos evaluadores deberán contar con formación universitaria en calidad en salud y capacitación acerca del sistema de acreditación, la cual será evaluada por la Intendencia de Prestadores mediante un examen que tendrá una vigencia de tres años y cuya aprobación será requisito necesario para incorporarse al mencionado cuerpo de evaluadores.
 
 La entidad acreditadora deberá disponer y mantener una adecuada infraestructura física, tales como oficinas y equipos informáticos, así como los recursos humanos de apoyo suficientes para el cumplimiento de sus funciones.
 
@@ -110,27 +110,33 @@ d) Antecedentes que acrediten suficientemente la posesión por la solicitante de
 
 e) Nombre, domicilio, Rut, estado civil, nacionalidad, dirección, profesión, teléfono de su director técnico, con copia de los títulos o certificados que acrediten el cumplimiento de los requisitos previstos en el inciso primero del Artículo 10.
 
+f) Protocolos de funcionamiento que aseguren buenas prácticas.
+
 #### Artículo 12
 
-La capacitación en evaluación de calidad en salud, indicada en el articulo 10, deberá comprender los siguientes contenidos:
+La capacitación en evaluación de calidad de salud, señalada en el artículo 10 precedente, deberá comprender los siguientes contenidos:
 
-- Conceptos teóricos básicos sobre calidad de atención en salud y su marco normativo y los roles de los distintos organismos que intervienen en esta materia.
+- Marco normativo que sustenta el Sistema Nacional de Acreditación.
 
-- Normas y procedimientos de la gestión clínica en salud.
+- Estructura y contenido de los estándares de acreditación vigentes.
 
-- Acreditación de hospitales.
+- Marco metodológico sobre la evaluación en terreno de los estándares de acreditación y constatación de los puntos de verificación.
 
-- Estrategias para el desarrollo de la calidad.
+- Instrucciones vigentes a entidades acreditadoras emitidas por la Superintendencia de Salud.
 
-- Estándares e indicadores.
+- Requisitos de orden ético y conductual del evaluador.
 
-- Metodologías de la evaluación de la calidad en salud.
+- Buenas prácticas en el ejercicio de la evaluación.
 
-- Prácticas de evaluación de procedimientos en terreno.
+- Revisión de tipos de indicadores en salud, fuentes de información y criterios estadísticos para definición de muestras.
 
-- Gestión de bases de datos y de fuentes de información en salud.
+- Normativa que regula el informe de acreditación y marco metodológico para su confección y fundamentación.
 
-- Redacción de informes de acreditación.
+- Conocimiento general de sistemas informáticos establecidos para el proceso de acreditación por la Superintendencia de Salud.
+
+- Prácticas en terreno de aplicación de estándares en prestadores institucionales de salud de atención cerrada de alta complejidad.
+
+Los cursos en que se imparta esta capacitación deberán tener una duración mínima de 80 horas pedagógicas en que se incluyan, a lo menos, 18 horas efectivas de práctica en terreno. La Intendencia de Prestadores podrá solicitar a las entidades acreditadoras todos los antecedentes que requiera para tener por acreditadas dichas condiciones.
 
 #### Artículo 13
 
@@ -202,7 +208,9 @@ En el evento que el proceso excediere dichos plazos se tendrá por desierta la a
 
 En las evaluaciones que la entidad acreditadora efectúe durante y con motivo del procedimiento de acreditación empleará siempre criterios objetivos, no discriminatorios e imparciales, comúnmente aceptados y científicamente fundados.
 
-Con todos los antecedentes que se reúnan y los documentos que se elaboren en cada procedimiento, la entidad acreditadora deberá conformar un expediente individual, el cual se encontrará permanentemente disponible en sus oficinas para la fiscalización de la Intendencia de Prestadores.
+La entidad acreditadora deberá conformar un expediente individual para cada procedimiento de acreditación que efectúe, en el cual se incorporarán todos los antecedentes del mismo, así como los registros de los hallazgos y constataciones efectuadas, de modo que ellos permitan fundamentar las evaluaciones y decisiones que adopte durante el procedimiento y en su informe final, pudiendo obtener copias u otras formas de registros de sus hallazgos.
+
+El expediente se encontrará permanentemente disponible en las oficinas de la entidad para su fiscalización por la Intendencia de Prestadores.
 
 #### Artículo 24
 
@@ -224,15 +232,37 @@ La Intendencia de Prestadores establecerá el formato de dicha declaración y po
 
 El prestador evaluado proporcionará todas las facilidades que la entidad requiera para efectuar oportuna y debidamente la acreditación respectiva. En caso de obstrucciones al cumplimiento de su cometido, la entidad acreditadora lo informará a la Intendencia, la cual podrá ordenar la emisión del informe final con sólo los antecedentes que hasta entonces se dispongan o dar por concluida la evaluación y ordenar el pago del arancel correspondiente a la entidad acreditadora.
 
+La entidad acreditadora llevará a cabo una reunión final a la que asistirá su director técnico y los evaluadores que participaron en el proceso junto con los directivos y encargados de calidad del prestador evaluado para presentar los hallazgos encontrados en el mismo, especialmente aquellos referidos a las características obligatorias. En dicha sesión el prestador evaluado podrá precisar o aclarar dudas antes de finalizar la fase de recabar información en terreno. De dicha reunión se levantará un acta firmada por todos los asistentes, consignándose si alguno rehúsa firmar y sus motivos, que se remitirá a la Intendencia de Prestadores conjuntamente con el informe final.
+
 #### Artículo 26
 
 Todos los funcionarios públicos y los empleados y directivos de las entidades acreditadoras deberán guardar la más estricta confidencialidad sobre los datos, antecedentes o materias de que tomen conocimiento a causa o con ocasión de acreditaciones de prestadores institucionales de salud, conforme a las normas que rigen el secreto profesional y el secreto estadístico y demás leyes sobre la materia.
 
 #### Artículo 27
 
-La entidad acreditadora comunicará al prestador y a la Intendencia la fecha en que ha completado el proceso de evaluación y dentro de los cinco días hábiles siguientes entregará al prestador institucional respectivo un informe que consigne, a lo menos, la fecha en que ella se efectuó, los estándares evaluados, descripción del procedimiento realizado y su duración, los profesionales que lo llevaron a cabo indicando su nombre completo, Rut y título profesional que poseen, la duración del mismo, todos los hallazgos y observaciones, y la declaración de si ha quedado acreditado o no para las prestaciones de salud solicitadas. Copia del informe será remitido a la Intendencia de Prestadores y al Instituto de Salud Pública, según el caso, dentro de tercero día de su emisión.
+La entidad acreditadora comunicará al prestador y a la Intendencia de Prestadores la fecha en que ha completado el proceso de evaluación y, dentro de los cinco días hábiles siguientes, enviará a la Intendencia de Prestadores un informe en el que se consignarán, a lo menos, los siguientes contenidos:
 
-Dentro de ese mismo plazo de cinco días y, previo a la entrega del informe referido, deberá procederse al pago de la mitad restante del arancel, fijado por la Intendencia. La entidad acreditadora no estará obligada a entregar el respectivo informe mientras el prestador evaluado no haya pagado el saldo aludido. Asimismo, la Intendencia no podrá inscribir al prestador en el registro de prestadores acreditados sin no se le comprobare el pago total del arancel correspondiente.
+1º Fecha del informe;
+
+2º Los estándares evaluados;
+
+3º Descripción del procedimiento realizado y su duración;
+
+4º Profesionales que lo llevaron a cabo, indicando su nombre completo y título profesional;
+
+5º Una relación ordenada, lógica y pormenorizada de todos los hallazgos efectuados, así como de los criterios objetivos, científica y comúnmente aceptados, que hayan fundamentado sus decisiones relativas al cumplimiento, o no, de cada una de las características evaluadas;
+
+6º Una relación ordenada, lógica y pormenorizada sobre la forma en que se dio cumplimiento a las reglas de decisión establecidas para cada uno de los estándares evaluados, y
+
+7º La declaración sobre si el prestador institucional ha resultado acreditado o no.
+
+Copia del informe será remitido por la Intendencia de Prestadores al Instituto de Salud Pública, cuando corresponda, a más tardar dentro de tercer día desde su recepción.
+
+Dichas instituciones constatarán que se haya dado cumplimiento a las exigencias señaladas en el inciso primero, pudiendo, si así lo estimare necesario, ordenar a la entidad efectuar todas las correcciones correspondientes, oír a los representantes del prestador institucional evaluado y declarar desierto el procedimiento conforme lo dispuesto en el inciso final del artículo 22, todo ello sin perjuicio del ejercicio de sus demás facultades fiscalizadoras y sancionatorias pertinentes.
+
+Una vez que la Intendencia de Prestadores o el Instituto de Salud Pública, en su caso, estimen que los contenidos del informe de acreditación cumplen las exigencias señaladas en el inciso primero, así lo declararán mediante resolución fundada y ordenarán a los representantes del prestador evaluado el pago de la segunda cuota de los aranceles dentro del plazo de cinco días hábiles.
+
+Ni la Intendencia, ni el Instituto de Salud Pública, en su caso, podrán entregar el respectivo informe mientras el prestador evaluado no haya pagado el saldo del arancel antes aludido. Asimismo, la Intendencia no podrá inscribir al prestador en el registro de prestadores acreditados si no se le comprobare el pago total del arancel correspondiente, ni podrá admitir a trámite, en tales casos, ninguna solicitud de acreditación que se presente a su respecto.
 
 #### Artículo 28
 
