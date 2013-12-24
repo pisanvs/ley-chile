@@ -14,25 +14,7 @@ Decreto:
 
 1º Autorízase la circulación los días sábado en la tarde, domingo y festivos, y exceptuándose de la obligación de llevar pintado el disco distintivo "Estatal", de conformidad a lo señalado en el decreto ley Nº 799, de 1974,y sus modificaciones, a los vehículos de dotación del Servicio Nacional de Aduanas, que a continuación se indican:
 
-1.- Vehículo : S. Wagon
-
-Marca : Suzuki
-
-Modelo : Grand Nomade 2.4 GLX Sport
-
-Año : 2012
-
-Color : Plateado
-
-I.R.N.V.M. : DLHB-99-0
-
-Nº motor : J24B-1146532
-
-Nº Chasis : JS3TD04V6C4100495
-
-Destinación: Dirección Nacional de Aduanas,
-
-Valparaíso.
+1.- ELIMINADO.
 
 2.- Vehículo : Camioneta
 
@@ -92,23 +74,7 @@ Destinación: Dirección Regional de Aduanas,
 
 Talcahuano.
 
-5.- Vehículo : Camioneta
-
-Marca : Mazda
-
-Modelo : BT50 DCAB DX 4x4 2.5
-
-Año : 2012
-
-Color : Plateado
-
-I.R.N.V.M. : DLJR-79-8
-
-Nº motor : WLAT1253076
-
-Nº Chasis : JMZUN8F120W889884
-
-Destinación: Administración de Aduana, Osorno
+5.- ELIMINADO.
 
 6.- Vehículo : Camioneta
 

@@ -146,25 +146,7 @@ Destinación : Servicio Nacional de Aduanas
 
 8.- ELIMINADO
 
-9.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner 1.9
-
-Año : 2006
-
-Color : Gris aluminium
-
-Nº Motor : 10DXFZ6037166
-
-Chasis Nº : 6JO25757
-
-I.R.N.V.M. : YH.4188-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(IQUIQUE)
+9.- ELIMINADO.
 
 10.- Vehículo . Furgón
 
@@ -210,25 +192,7 @@ Destinación : Servicio Nacional de Aduanas
 
 13.- ELIMINADO.
 
-14.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner M59 1.9
-
-Año : 2006
-
-Color : Gris aluminium
-
-Nº Motor : 10DXFZ6038960
-
-Chasis Nº : 6JO26121
-
-I.R.N.V.M. : ZU.9424-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(ANTOFAGASTA)
+14.- ELIMINADO.
 
 15.- Vehículo . Station Wagon
 
@@ -274,25 +238,7 @@ Destinación : Servicio Nacional de Aduanas
 
 18.- ELIMINADO.
 
-19.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan GL 4X4 2.9
-
-Año : 2005
-
-Color : Azul
-
-Nº Motor : J3 897759
-
-Chasis Nº : KMHN81XP95U177263
-
-I.R.N.V.M. : YV.7838-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(LOS ANDES)
+19.- ELIMINADO.
 
 20.- ELIMINADO.
 
@@ -382,25 +328,7 @@ Destinación : Servicio Nacional de Aduanas
 
 27.- ELIMINADO
 
-28.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan F/L GL 2900 CC M
-
-Año : 2007
-
-Color : Azul
-
-Nº Motor : J3 932285
-
-Chasis Nº : KMHNM81XP6U218856
-
-I.R.N.V.M. : WW.8007-2
-
-Destinación : Servicio Nacional de Aduanas
-
-(VALPARAÍSO)
+28.- ELIMINADO.
 
 29.- Vehículo . Furgón
 
@@ -688,25 +616,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (PUERTO MONTT)
 
-55.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan GL 4x4 2.5
-
-Año : 2005
-
-Color : Plateado
-
-Nº Motor : D4BH4024626
-
-Chasis Nº : KMHNM81WP5U161947
-
-I.R.N.V.M. : YG.4633-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(PUERTO MONTT)
+55.- ELIMINADO
 
 56.- Vehículo . Furgón
 
