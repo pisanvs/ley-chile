@@ -22,7 +22,7 @@ Resolución:
 
 5. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El numeral 1 de la Resolución 1208 Exenta, Vivienda, publicada el 27.02.2014, agrega a la tabla de grupos seleccionados, contenida en el resuelvo 2 de la Resolución 9537 Exenta, Vivienda, publicada el 03.01.2014, modificatoria de la presente norma, la que en ella se incluye, relativa al llamado efectuado por esta resolución.
+> **Nota.** El numeral 1º de la Resolución 7465 Exenta, Vivienda, publicada el 23.10.2013, reemplazó la tabla inserta en el resuelvo 1º, sin embargo dicha tabla se encuentra en el resuelvo 2º de la presente norma.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
