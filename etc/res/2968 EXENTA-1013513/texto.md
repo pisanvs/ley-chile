@@ -810,7 +810,15 @@ dispuesto en las letras k) y l), del resuelvo
 
 número 2 de esta resolución, y la factibilidad
 
-técnica para la construcción en el mismo.
+técnica para la construcción en el mismo,
+
+documentos que deberán estar aprobados y
+
+presentados antes del 20 de enero de 2014.
+
+En caso contrario, la postulación quedará
+
+sin efecto.
 
 c) El SERVIU dispondrá para cada familia
 
