@@ -122,7 +122,7 @@ Para los casos de Proyectos de Obras de Carácter Estructural (**) cuyas obras d
 
 No se considerarán en este llamado los proyectos de ampliación destinados para Lavadero o Logia, Estar Comedor y Ampliación de Dormitorio.
 
-2. Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 19 de diciembre de 2013.
+2. Para participar de este llamado los proyectos deben contar con Certificado de Calificación hasta el 27 de diciembre de 2013.
 
 3. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta Resolución, se distribuyen regionalmente según el siguiente cuadro:
 
@@ -214,7 +214,7 @@ Los proyectos de Innovación de Eficiencia Energética presentados a este llamad
 
 9.1 En el artículo 28, letra a), Nº 1, relativo a la Antigüedad de la postulación, se asignarán 20 puntos por cada vez que un proyecto haya participado en una o más postulaciones hábiles sin haber sido seleccionado, con un máximo de 80 puntos.
 
-10. Como Viviendas Objeto del Programa se considerarán las viviendas sociales definidas en el DL Nº 2.552, de 1979, los conjuntos de viviendas a que se refieren los artículos 40 y transitorio de la Ley Nº 19.537, y/o las viviendas cuyo avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento, a la fecha de la presente resolución. Esta última condición deberá ser acreditada por el postulante presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF. Para aquellos proyectos hábiles no seleccionados en llamados anteriores, se respetará como Vivienda Objeto del Programa la acreditación presentada en dichos procesos de postulación.
+10. Como Viviendas Objeto del Programa para este llamado se considerarán además de las señaladas en la letra e) del artículo 21 del DS 255 (V . y U. ), de 2006, las viviendas cuyo avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 unidades de fomento a la fecha de la presente resolución. Esta última condición deberá ser acreditada por el postulante presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF.
 
 11. Exímese del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS Nº 255 (V. y U.), de 2006, referido a la publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
 
