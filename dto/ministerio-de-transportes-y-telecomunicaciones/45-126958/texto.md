@@ -44,6 +44,12 @@ Oeste: En línea de tramos rectos y curvos de longitud setecientos veinte metros
 
 Sector Panitao (plano PR-3):
 
+Rampa Pargua
+
+Las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en plano PR-00009 de la Empresa Portuaria Puerto Montt, protocolizado con fecha 15 de abril de 2013, bajo el Nº 1308, en el registro de documentos protocolizados en la Primera Notaría de Puerto Montt de don Edward Langlois Danks:
+
+Plano Levantamiento Topográfico Rampa Pargua (plano PR-0009):
+
 2. La delimitación anterior, en lo que se refiere a las aguas, sin perjuicio de lo expuesto en el Art. Nº595 del Código Civil y la Ley de Navegación.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
