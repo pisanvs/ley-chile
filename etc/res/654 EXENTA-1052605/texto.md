@@ -260,17 +260,41 @@ b) BENEFICIARIOS/AS ATENDIDOS/AS
 
 Podrán ser Beneficiarios/as Atendidos/as:
 
-a) Empresas, entendiendo por tal a las personas
+a) Empresas, entendiendo por tal a persona(s)
 
-naturales o jurídicas que sean contribuyentes
+natural(es) o jurídica(s) que sean
 
-del Impuesto de Primera Categoría de la Ley de
+contribuyentes del impuesto de Primera
 
-Impuesto a la Renta o del Impuesto al Valor
+Categoría de la Ley de Impuesto a la Renta
 
-Agregado.
+o del Impuesto al Valor Agregado, según
 
-b) Emprendedores y emprendedoras, que para los
+la información disponible en el sitio
+
+web del Servicio de Impuestos Internos (SII).
+
+b) Personas naturales que desarrollen
+
+actividades como profesionales liberales o
+
+una profesión u ocupación lucrativa
+
+o sociedades de profesionales, y que se
+
+encontraren gravadas con el
+
+impuesto establecido en el artículo 42
+
+Nº 2 de la Ley de Impuesto a la
+
+Renta, según la información disponible en el
+
+sitio web del Servicio de Impuestos
+
+Internos (SII).
+
+c) Emprendedores y emprendedoras, que para los
 
 efectos de este instrumento, será toda persona
 
@@ -280,13 +304,15 @@ ejecutar.
 
 El cumplimiento de los requisitos para ser
 
-calificado como Beneficiario/a Atendido/a deberá
+calificado como Beneficiario/a Atendido/a
 
-ser realizada en forma previa a su incorporación
+deberá ser realizada en forma previa a su
 
-al proyecto, por el Beneficiario/a Ejecutor/a,
+incorporación al proyecto, por el
 
-informándose dicha calificación a los Agentes en
+Beneficiario/a Ejecutor/a, informándose
+
+dicha calificación a los Agentes en
 
 sus Informes de Avance y Final.
 
