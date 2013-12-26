@@ -1,0 +1,5 @@
+OFICIALIZA NOMINACIÓN DE CONSEJEROS DEL CONSEJO ZONAL DE PESCA III - IV REGIONES Y ABRE PERÍODO EXTRAORDINARIO DE POSTULACIÓN
+
+Por decreto supremo Nº 151, de 12 de septiembre de 2013, de este Ministerio, se designa como miembros del Consejo Zonal de Pesca III - IV Regiones a Héctor Álvarez Alcayaga, titular, y Jorge Arévalo Alonso, suplente, en representación de armadores industriales; Hernán Díaz Reyes, titular, y Ángel Concha Sánchez, suplente, en representación de industriales de plantas procesadoras pesqueras; René Salinas Blanco, titular, y Cristóbal Thompson Santos, suplente, en representación de acuicultores; Guilliano Reynuaba Salas, titular, y Eric Aracena Reynuaba, suplente, en representación de armador artesanal; Luis Samuel Aguilera Jorquera, titular, y Alberto Rojas Romero, suplente, en representación de pescador artesanal. Se abre período extraordinario para cargo declarado vacante por el mismo decreto.
+
+Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
