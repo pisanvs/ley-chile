@@ -10,131 +10,121 @@ Apruébase el siguiente reglamento de la Ley N° 18.216, que establece la remisi
 
 ## Título Preliminar
 
-#### Artículo 1°
+#### Artículo 1º
 
-El tribunal que imponga penas privativas o restrictivas de libertad podrá suspender su ejecución al conceder alguno de los beneficios alternativos siguientes:
+La ejecución de las penas privativas o restrictivas de libertad podrá sustituirse por el tribunal que las imponga, por alguna de las siguientes penas señaladas en el artículo 1º de la Ley Nº 18.216:
 
-a) Remisión condicional de la pena;
+a) Remisión condicional;
 
-b) Reclusión nocturna, y
+b) Reclusión parcial;
 
-c) Libertad vigilada.
+c) Libertad vigilada;
 
-En los casos de faltas, se estará a lo dispuesto en el artículo 2° de la Ley N° 18.216.
+d) Libertad vigilada intensiva;
+
+e) Expulsión, en el caso señalado en el artículo 34 de la Ley Nº 18.216, y
+
+f) Prestación de servicios en beneficio de la comunidad.
+
+No procederá esta facultad de sustitución tratándose de los casos expresamente excluidos en el artículo 1º de la Ley Nº 18.216.
 
 ## Título I
 
-De la remisión condicional de la pena y de la reclusión nocturna
+De la remisión condicional y de la reclusión parcial
 
 ### Párrafo 1°
 
-De la remisión condicional de la pena
+De la remisión condicional
 
 #### Artículo 2°
 
-La remisión condicional de la pena consiste en la suspensión de su cumplimiento y en la discreta observación y asistencia del condenado por la correspondiente sección de tratamiento en el medio libre de Gendarmería de Chile, durante el tiempo establecido en la respectiva sentencia judicial.
+La remisión condicional consiste en la sustitución de la pena privativa de libertad por la discreta observación y asistencia del condenado por Gendarmería de Chile, durante el tiempo establecido en la respectiva sentencia judicial.
 
 #### Artículo 3°
 
-la remisión condicional de la pena podrá decretarse:
+la remisión condicional podrá decretarse:
 
 a) Si la pena privativa o restrictiva de libertad que imponga la sentencia condenatoria no excede de tres años;
 
-b) Si el reo no ha sido condenado anteriormente por crimen o simple delito;
+b) Si el condenado no ha sido condenado anteriormente por crimen o simple delito. En todo caso, no se considerarán para estos efectos, las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito;
 
 c) Si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito permiten presumir que no volverá a delinquir, y
 
-d) Si las circunstancias indicadas en las letras b) y c) precedentes hacen innecesario un tratamiento o la ejecución efectiva de la pena.
+d) Si las circunstancias indicadas en las letras b) y c) precedentes hacen innecesario una intervención o la ejecución efectiva de la pena.
 
-> **Nota.** EL DTO 270, Justicia, publicado el 06.05.1991, dispuso que para el caso de los reos que se encontraban cumpliendo condenas o procesados a la fecha de publicación de la ley 19047, de conformidad con sus artículos 6º y 7º transitorio, se establece la siguiente modificación transitoria a la letra a) de este artículo:a) Si la pena privativa o restrictiva de libertad que imponga la sentencia se encuentre incumplida por un plazo que no exceda de un año;
+Con todo, no procederá la remisión condicional como pena sustitutiva, si el sentenciado fuere condenado por aquellos ilícitos previstos en los artículos 15, letra b), o 15 bis, letra b) de la Ley Nº 18.216, debiendo el tribunal, en estos casos, imponer la pena de reclusión parcial, libertad vigilada o libertad vigilada intensiva, si procediere.
+
+> **Nota.** EL Decreto 270, Justicia, publicado el 06.05.1991, dispuso que para el caso de los reos que se encontraban cumpliendo condenas o procesados a la fecha de publicación de la ley 19047, de conformidad con sus artículos 6º y 7º transitorio, se establece la siguiente modificación transitoria a la letra a) de este artículo:a) Si la pena privativa o restrictiva de libertad que imponga la sentencia se encuentre incumplida por un plazo que no exceda de un año;
 
 #### Artículo 4°
 
-Al conceder este beneficio, el tribunal establecerá un plazo de observación que no será inferior al de duración de la pana, con un mínimo de un año y un máximo de tres.
+Al conceder esta pena sustitutiva, el tribunal establecerá un plazo de observación que no será inferior al de duración de la pana, con un mínimo de un año y un máximo de tres.
 
-#### Artículo 5°
+#### Artículo 5º
 
-El beneficiado con esta medida deberá cumplir las siguientes condiciones:
+El condenado a esta pena sustitutiva deberá cumplir las siguientes condiciones:
 
-a) Residir en una localidad determinada que podrá ser propuesta por el condenado. La residencia podrá ser cambiada, en casos especiales, por la sección de tratamiento en el medio libre según calificación que ésta realice;
+a) Residir en una localidad determinada que podrá ser propuesta por el condenado. La residencia podrá ser cambiada, en casos especiales, por calificación que realice Gendarmería de Chile;
 
-b) Someterse al control administrativo y asistencia a la sección de tratamiento en el medio libre.
+b) Someterse al control administrativo y asistencia de Gendarmería de Chile.
 
-Para este efecto, el beneficiado deberá presentarse a dicha sección en el término fijado por el tribunal y deberá seguir concurriendo una vez al mes cuando ella lo determine, con el objeto de firmar, o de estampar su impresión dígito pulgar derecha si no sabe o no puede firmar, tanto en el libro como en el Registro Cronológico de la Remisión Condicional de la Pena.
+Para este efecto, el condenado deberá presentarse en el plazo de 5 días contados desde que la sentencia que impone la pena sustitutiva quede ejecutoriada y deberá seguir concurriendo una vez al mes, en la fecha que determine Gendarmería de Chile. El control de la asistencia se realizará mediante los sistemas de registro que la Institución disponga para estos efectos. En todo caso, el tribunal podrá ordenar su presentación hasta dos veces al mes, en el caso que disponga la intensificación de las condiciones de ejecución de esta pena, de conformidad al artículo 25 de la Ley Nº 18.216, y
 
-El Libro deberá llevarse timbrado y debidamente foliado por la misma sección.
+c) Ejercer, dentro del plazo y bajo las modalidades que determinará el Centro de Reinserción Social de Gendarmería de Chile, una profesión, oficio, empleo, arte, industria o comercio, si el condenado carece de medios conocidos y honestos de subsistencia y no posee la calidad de estudiante.
 
-En el ejercicio de su labor de control, la sección de tratamiento en el medio libre solicitará, anualmente del Servicio de Registro Civil e Identificación, un certificado de antecedentes prontuariales del beneficiado con la medida;
+#### Artículo 6º
 
-c) Ejercer, dentro del plazo y bajo las modalidades que determinará la sección de tratamiento en el medio libre, una profesión, oficio, empleo, arte, industria o comercio, si el condenado carece de medios conocidos y honestos de subsistencia y no posee la calidad de estudiante, y
+Si el condenado incumpliere, dentro del período de observación, alguna de las condiciones impuestas, Gendarmería de Chile lo informará al tribunal competente, el cual, atendidas las circunstancias del caso, decidirá si intensifica las condiciones, reemplaza por otra pena sustitutiva de mayor intensidad, o la revoca, disponiendo el cumplimiento del saldo de la pena inicialmente impuesta.
 
-d) Satisfacción de la indemnización civil, costas y multas impuestas por la sentencia. No obstante, el tribunal, en caso de impedimento justificado, podrá prescindir de esta exigencia, sin perjuicio de que se persigan estas obligaciones en conformidad a las reglas generales.
+#### Artículo 7º
 
-#### Artículo 6°
-
-Si el beneficiado quebrantare, dentro del período de observación, alguna de las condiciones señaladas en el artículo precedente, la sección de tratamiento en el medio libre pedirá que se revoque la suspensión de la pena, lo que podrá decretar el tribunal, disponiendo el cumplimiento de la pena inicialmente impuesta o su conversión en reclusión nocturna, según fuere aconsejable.
-
-#### Artículo 7°
-
-Para los efectos de lo dispuesto en el artículo 28 de la Ley N° 18.216, la sección de tratamiento en el medio libre informará oportunamente al tribunal respectivo el fiel cumplimiento de la medida.
+Para los efectos de lo dispuesto en el inciso tercero del artículo 38 de la Ley Nº 18.216, Gendarmería de Chile informará oportunamente al tribunal respectivo el fiel cumplimiento de la pena.
 
 ### Párrafo 2°
 
-De la reclusión nocturna
+De la reclusión parcial
 
-#### Artículo 8°
+#### Artículo 8º
 
-La medida de reclusión nocturna consiste en el encierro en establecimientos especiales dependientes de las secciones de tratamiento en el medio libre de Gendarmería de Chile, desde las 22 horas de cada día hasta las seis del día siguiente.
+La pena de reclusión parcial consiste en el encierro en el domicilio del condenado o en establecimientos especiales, durante cincuenta y seis horas semanales. La reclusión parcial podrá ser diurna, nocturna o de fin de semana, conforme lo dispuesto en el artículo 7º de la Ley Nº 18.216.
 
-El beneficiado con la medida de reclusión nocturna deberá presentarse en la sección de tratamiento en el medio libre correspondiente, a las 22 horas del día siguiente a la notificación de la sentencia.
+Cuando la pena de reclusión parcial se deba cumplir en establecimientos especiales, se entenderá que se alude a los centros o anexos abiertos y a las dependencias destinadas a penados beneficiados con salidas diarias o dominicales.
 
-Serán establecimientos especiales, para estos efectos, los centros o anexos abiertos y las dependencias destinadas a penados beneficiados con salidas diarias o dominicales.
+El control de la asistencia se realizará mediante los sistemas de registro que la Institución disponga para estos efectos. En el mismo registro, se dejará constancia también, de todas las conductas del condenado y de las resoluciones judiciales que afecten el cumplimiento de la pena de reclusión parcial.
 
-Cuando circunstancias especiales lo requieran y a petición expresa del beneficiado, el jefe del respectivo establecimiento podrá autorizarlo para que permanezca en él entre las 18.30 y 7.30 horas del día siguiente.
-
-Los establecimientos especiales llevarán un libro de Reclusión Nocturna, timbrado y debidamente foliado, en el cual el funcionario de guardia anotará el nombre y hora de entrada y salida de los beneficiados, donde éstos deberán, además, estampar su firma.
-
-En el mismo Libro se dejará constancia, también, de todas las conductas del beneficiado y de las resoluciones judiciales que afecten el cumplimiento de la medida de reclusión nocturna.
+El uso de monitoreo telemático que se podrá disponer para controlar la pena de reclusión parcial de conformidad a lo dispuesto en el inciso segundo del artículo 23 bis de la Ley Nº 18.216, se regulará en el reglamento especial que se dicte al efecto.
 
 #### Artículo 9°
 
-La reclusión nocturna podrá disponerse:
+La reclusión parcial podrá disponerse:
 
 a) Si la pena privativa o restrictiva de libertad que imponga la sentencia condenatoria no excede de tres años;
 
-b) Si el reo no ha sido condenado anteriormente por crimen o simple delito o lo ha sido a una pena privativa o restrictiva de libertad que no exceda de dos años o a más de una, siempre que en total no excedan de dicho límite, y
+b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito, o lo hubiese sido a una pena privativa o restrictiva de libertad que no excediere de dos años, o a más de una, siempre que en total no superaren dicho límite. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito. No obstante lo anterior, si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubieren sido impuestas dos reclusiones parciales, no será procedente la aplicación de esta pena sustitutiva, y
 
-c) Si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito permiten presumir que la medida de reclusión nocturna lo disuadirá de cometer nuevos delitos.
+c) Si existieren antecedentes laborales, educacionales o de otra naturaleza similar que justificaren la pena, así como si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito, permitieren presumir que la pena de reclusión parcial lo disuadirá de cometer nuevos ilícitos.
 
-> **Nota.** EL DTO 270, Justicia, publicado el 06.05.1991, dispuso que, para el caso de los reos que se encontraban cumpliendo condenas o procesados a la fecha de publicación de la ley 19047, de conformidad con sus artículos 6º y 7º transitorio se establece la siguiente modificación transitoria a la letra a) de este artículo:"a) Si la pena privativa o restrictiva de libertad impuesta por la sentencia que falta por cumplir no exceda de un año;"
+> **Nota.** EL Decreto 270, Justicia, publicado el 06.05.1991, dispuso que, para el caso de los reos que se encontraban cumpliendo condenas o procesados a la fecha de publicación de la ley 19047, de conformidad con sus artículos 6º y 7º transitorio se establece la siguiente modificación transitoria a la letra a) de este artículo:"a) Si la pena privativa o restrictiva de libertad impuesta por la sentencia que falta por cumplir no exceda de un año;"
 
 #### Artículo 10
 
-Para los efectos de la conversión de la pena inicialmente impuesta, se computará una noche por cada día de privación o restricción de libertad.
+Para los efectos de la conversión de la pena inicialmente impuesta, se computarán 8 horas continuas de reclusión parcial por cada día de privación o restricción de libertad.
 
 #### Artículo 11
 
-En caso de enfermedad, invalidez o de circunstancias extraordinarias que impidieren el cumplimiento de la reclusión nocturna o la transformaren en extremadamente grave, el tribunal de oficio, a petición de parte o de Gendarmería de Chile, podrá suspender su cumplimiento.
-
-La disposición precedente será aplicable en las situaciones de embarazo o puerperio que tengan lugar dentro de los períodos indicados en el inciso primero artículo 95° del decreto ley N° 2.200 de 1978.
-
-Esta suspensión será por el tiempo que dure la causa que la motiva.
+Derogado.
 
 #### Artículo 12
 
-En caso de quebrantamiento grave o reiterado y sin causa justificada de la medida de reclusión nocturna, el jefe del establecimiento especial de Gendarmería de Chile lo comunicará al tribunal correspondiente, para los fines contemplados en el artículo 11 de la Ley N° 18.216.
-
-Se considerará quebrantamiento grave la circunstancia de no presentarse el condenado, al respectivo establecimiento, a cumplir la medida de reclusión nocturna.
-
-Constituirán quebrantamiento reiterado todas aquellas conductas que tiendan a perturbar el cumplimiento de la reclusión nocturna, o que signifiquen su cumplimiento parcial, tales como incurrir en atrasos en las horas de entrada y salida, o presentarse a la unidad penal en manifiesto estado de ebriedad en dos o más oportunidades.
+En caso de incumplimiento de la pena de reclusión parcial, Gendarmería de Chile comunicará dicha circunstancia al tribunal, el que deberá citar a audiencia al condenado, con el objeto de determinar si efectivamente se ha configurado el incumplimiento y procede la aplicación de alguna de las consecuencias establecidas en el artículo 25 de la Ley Nº 18.216, según fuere la gravedad del mismo.
 
 #### Artículo 13
 
-Los condenados a reclución nocturna deberán satisfacer la indemnización civil, costas y multas impuestas por la sentencia, en conformidad con lo establecido en la letra c) del artículo 5°.
+Derogado.
 
 #### Artículo 14
 
-Para los efectos de lo dispuesto en el artículo 28 de la Ley N° 18.216, la sección de tratamiento en el medio libre correspondiente informará oportunamente al tribunal respectivo el fiel cumplimiento de la medida
+Para los efectos de lo dispuesto en el inciso tercero del artículo 38 de la Ley Nº 18.216, Gendarmería de Chile informará oportunamente al tribunal respectivo el fiel cumplimiento de la pena sustitutiva.
 
 ### Párrafo 3°
 
@@ -142,23 +132,21 @@ Normas especiales
 
 #### Artículo 15
 
-Si alguna de las medidas establecidas en los párrafos 1° y 2° se impusiere al personal de las Fuerzas Armadas y Carabineros de Chile mientras estén en servicio, se observarán las normas siguientes:
+Si alguna de las penas sustitutivas establecidas en los párrafos 1° y 2° se impusiere al personal de las Fuerzas Armadas y Carabineros de Chile mientras estén en servicio, se observarán las normas siguientes:
 
-a) En el caso de aplicarse la remisión condicional de la pena, el control administrativo y la asistencia del sujeto se ejercerá por el juez institucional respectivo, quien podrá delegar tal facultad en la autoridad que estime conveniente y que corresponda a la institución a que pertenece el beneficiado, como asimismo, solicitar se revoque la suspensión de la pena, en caso de incumplimiento;
+a) En el caso de aplicarse la remisión condicional, el control administrativo y la asistencia del sujeto se ejercerá por el juez institucional respectivo, quien podrá delegar tal facultad en la autoridad que estime conveniente y que corresponda a la institución a que pertenece el condenado, como asimismo, solicitar se revoque la sustitución de la pena, en caso de incumplimiento;
 
-b) En el caso de aplicarse la medida de reclusión nocturna, ésta se cumplirá en la unidad militar o policial a que pertenece el beneficiado, y
+b) En el caso que cumpla la pena de reclusión parcial en establecimientos especiales, ésta se realizará en la unidad militar o policial a que pertenece el condenado.
 
-c) Satisfacción de la indemnización civil, costas y multas impuestas en la sentencia, en los términos señalados en la letra d) del artículo 5°.
+Se entenderá que concurren las condiciones señaladas en las letras a) y c) del artículo 5°, por el solo hecho de permanecer el condenado en servicio.
 
-Se entenderá que concurren las condiciones señaladas en las letras a) y c) del artículo 5°, por el solo hecho de permanecer el beneficiado en servicio.
-
-Si el beneficiado deja de pertenecer a la institución durante la época de cumplimiento de alguna de las medidas establecidas en este título, el tiempo de sujeción a la vigilancia del juez institucional o de permanencia en reclusión nocturna en la unidad militar o policial correspondiente, se computará como período sometido a la vigilancia de la sección de tratamiento en el medio libre de Gendarmería de Chile o como tiempo cumplido en un establecimiento penal, según el caso.
+Si el condenado deja de pertenecer a la institución durante la época de cumplimiento de alguna de las penas sustitutivas establecidas en este título, el tiempo de sujeción a la vigilancia del juez institucional o de permanencia en reclusión parcial en la unidad militar o policial correspondiente, se computará como período sometido a la vigilancia de Gendarmería de Chile o como tiempo cumplido en un establecimiento penal, según el caso.
 
 Este tiempo le será computable, además, para los efectos previstos en el artículo 2°, letra d), del decreto ley N° 409, de 1932. El lapso que reste se cumplirá de acuerdo con las normas generales.
 
 ## Título II
 
-De la Libertad Vigilada
+De la Libertad Vigilada y la Libertad Vigilada Intensiva
 
 ### Párrafo 1°
 
@@ -166,51 +154,67 @@ De los requisitos y condiciones
 
 #### Artículo 16
 
-La libertad vigilada consiste en someter al condenado a un régimen de libertad a prueba, a través de su tratamiento intensivo e individualizado bajo la vigilancia y orientación permanentes de un delegado de libertad vigilada.
+La libertad vigilada consiste en someter al penado a un régimen de libertad a prueba que tenderá a su reinserción social a través de una intervención individualizada, bajo la vigilancia y orientación permanentes de un delegado.
+
+La libertad vigilada intensiva consiste en la sujeción del condenado al cumplimiento de un programa de actividades orientado a su reinserción social, en el ámbito personal, comunitario y laboral, a través de una intervención individualizada y bajo la aplicación de ciertas condiciones especiales que serán vigiladas y orientadas, permanente y rigurosamente, por un delegado.
 
 #### Artículo 17
 
 La libertad vigilada podrá decretarse:
 
-a) Si la pena privativa o restrictiva de libertad que imponga la sentencia condenatoria es superior a dos años y no excede de cinco;
+a) Si la pena privativa o restrictiva de libertad que imponga la sentencia condenatoria es superior a dos años y no excede de tres, o
 
-b) Si el reo no ha sido condenado anteriormente por crimen o simple delito, y
+b) Si se tratare de alguno de los delitos contemplados en el artículo 4º de la Ley Nº 20.000, que Sanciona el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas, o en los incisos segundo y tercero del artículo 196 del decreto con fuerza de ley Nº 1, de 2009, del Ministerio de Transportes y Telecomunicaciones, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley de Tránsito, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de tres años.
 
-c) Si los informes sobre antecedentes sociales y características de personalidad del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito permiten concluir que un tratamiento en libertad aparece eficaz y necesario, en el caso específico, para una efectiva readaptación y resocialización del beneficiado. Si dichos informes no hubieren sido agregados a los autos durante la tramitación del proceso, el juez de la causa o el Tribunal de Alzada los solicitarán como medida para mejor resolver.
+En los casos previstos en las dos letras anteriores, deberán cumplirse además las siguientes condiciones:
 
-Los informes a que se refiere el inciso precedente serán evacuados por el Consejo Técnico de que trata el artículo 38 de este Reglamento.
+1. Que el penado no haya sido condenado anteriormente por crimen o simple delito. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, del ilícito en que recayere nueva condena, y
 
-> **Nota.** EL DTO 270, Justicia, publicado el 06.05.1991, dispuso que para el caso de los reos que se encontraban cumpliendo condenas o procesados a la fecha de publicación de la ley 19047, de conformidad con sus artículos 6º y 7º transitorio, se establece la siguiente modificación transitoria a la letra a) de este artículo:"a) Si la pena privativa o restrictiva de libertad que imponga la sentencia y que falta por cumplir es superior a tres años y no excede de cinco;"
+2. Que los antecedentes sociales y características de personalidad del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito permitan concluir que, una intervención individualizada de conformidad al artículo 16 de la Ley Nº 18.216, parece eficaz en el caso específico, para su efectiva reinserción social. Dichos antecedentes deberán ser aportados por los intervinientes antes de la dictación de la sentencia o en la oportunidad prevista en el artículo 343 del Código Procesal Penal. Excepcionalmente, si estos no fueren aportados en dicha instancia, podrá el juez solicitar informe a Gendarmería de Chile, pudiendo suspender la determinación de la pena dentro del plazo previsto en el artículo 344 del Código Procesal Penal.
+
+#### Artículo 17 bis
+
+La Libertad Vigilada Intensiva podrá decretarse:
+
+a) Si la pena privativa o restrictiva de libertad que imponga la sentencia es superior a tres años y no excede de cinco años, o
+
+b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
+
+En los casos previstos en las dos letras anteriores, deberán cumplirse, además, las condiciones indicadas en ambos numerales del inciso segundo del artículo anterior.
 
 #### Artículo 18
 
-Al conceder este beneficio, el tribunal establecerá un plazo de tratamiento y observación que deberá cumplir el beneficiado, el que no será inferior al de duración de la pena con un mínimo de tres años y un máximo de seis.
+Al imponer la pena de libertad vigilada o libertad vigilada intensiva, el tribunal establecerá un plazo de intervención y observación que deberá cumplir el condenado, igual al que correspondería cumplir si se aplicara efectivamente la pena privativa o restrictiva de libertad que se sustituye.
 
-El delegado de libertad vigilada podrá proponer al juez, por una sola vez, la prórroga del período de observación y tratamiento fijado, hasta por seis meses, siempre que el total del plazo no exceda del máximo indicado en el inciso anterior.
-
-Asimismo, el delegado de libertad vigilada podrá proponer la reducción del plazo, siempre que éste no sea inferior a tres años, o el egreso del beneficiado del sistema, cuando éste haya cumplido el período mínimo de observación.
-
-La prórroga y reducción del plazo, y el egreso del beneficiado se propondrán en un informe fundado que se someterá a la consideración del tribunal. En caso que éste estimare procedente o improcedente la proposición, lo resolverá así, y elevará los antecedentes en consulta a la Corte de Apelaciones respectiva, para su resolución definitiva.
+El delegado podrá proponer al juez la reducción del plazo de intervención, el reemplazo de la pena por otra de menor intensidad, o bien, el término anticipado de la pena, en los casos que considere que el condenado ha dado cumplimiento a los objetivos del plan de intervención.
 
 #### Artículo 19
 
-Notificada la sentencia judicial que confiere el beneficio de la libertad vigilada al condenado, éste deberá presentarse, dentro de las veinticuatro horas siguientes a esa notificación, a la sección de tratamiento en el medio libre o en el domicilio de las personas naturales o jurídicas, estatales o privadas, con las cuales el Ministerio de Justicia haya celebrado convenios para el control de la libertad vigilada, según proceda.
+Notificada la sentencia judicial que impone la pena sustitutiva de la libertad vigilada o la libertad vigilada intensiva al condenado, éste deberá presentarse dentro del plazo de cinco días, contado desde que estuviere firme y ejecutoriada la sentencia, a Gendarmería de Chile.
 
 #### Artículo 20
 
-El tribunal, al conceder el beneficio, impondrá las siguientes condiciones al condenado:
+El tribunal, al imponer la pena de libertad vigilada o libertad vigilada intensiva, impondrá las siguientes condiciones al condenado:
 
-a) Residencia en un lugar determinado la que podrá ser propuesta por el condenado, pero que, en todo caso deberá corresponder a una ciudad en que preste sus funciones un delegado de libertad vigilada. La residencia podrá ser cambiada en casos especiales calificados por el tribunal y previo informe del delegado respectivo;
+a) Residencia en un lugar determinado la que podrá ser propuesta por el condenado, pero que, en todo caso deberá corresponder a una ciudad en que preste sus funciones un delegado de libertad vigilada o delegado de libertad vigilada intensiva. La residencia podrá ser cambiada en casos especiales calificados por el tribunal y previo informe del delegado respectivo.
 
-b) Sujeción a la vigilancia y orientación permanentes de un delegado por el término del período fijado, debiendo el condenado cumplir todas las normas de conducta e instrucciones que aquél imparta respecto a educación, trabajo, morada, cuidado del núcleo familiar, empleo del tiempo libre, y cualquiera otra que sea pertinente para un eficaz tratamiento en libertad;
+b) Sujeción a la vigilancia y orientación permanentes de un delegado por el término del período fijado, debiendo el condenado cumplir todas las normas de conducta e instrucciones que aquél imparta respecto a educación, trabajo, morada, cuidado del núcleo familiar, empleo del tiempo libre, y cualquiera otra que sea pertinente para una eficaz intervención.
 
-c) Ejercer, dentro del plazo y bajo las modalidades que determine el delegado de libertad vigilada, una profesión, oficio, empleo, arte, industria o comercio, si el condenado carece de medios conocidos y honestos de subsistencia y no posee calidad de estudiante;
+c) Ejercicio de una profesión, oficio, empleo, arte, industria o comercio, bajo las modalidades que se determinen en el plan de intervención individual, si el condenado careciere de medios conocidos y honestos de subsistencia y no poseyere la calidad de estudiante.
 
-d) Satisfacción de la indemnización civil, costas y multas impuestas por la sentencia, de acuerdo con lo establecido en la letra d) artículo 5°, y
+Durante el período de libertad vigilada y libertad vigilada intensiva, el juez podrá ordenar que el condenado sea sometido a los exámenes médicos, psicológicos o de otra naturaleza que aparezcan necesarios.
 
-e) Reparación, si procediere, en proporción racional, de los daños causados por el delito. En el evento de que el condenado no la haya efectuado con anterioridad a la dictación del fallo, el tribunal hará en él, para este solo efecto, una regulación prudencial sobre el particular. En tal caso, concederá para el pago un término que no excederá del plazo de observación y determinará, si ello fuere aconsejable, su cancelación por cuotas, que fijará en número y monto al igual que las modalidades de reajustes e intereses. El ofendido conservará, con todo, su derecho al cobro de los daños en conformidad a las normas generales, imputándose a la indemnización que proceda lo que el condenado haya pagado de acuerdo con la norma anterior.
+#### Artículo 20 bis
 
-Asimismo, durante el período de libertad vigilada el Juez podrá ordenar que el beneficiado sea sometido a los exámenes médicos, psicológicos o de otra naturaleza que aparezcan necesarios.
+En caso de imponerse la libertad vigilada intensiva deberán decretarse, además, una o más de las siguientes condiciones:
+
+a) Prohibición de acudir a determinados lugares;
+
+b) Prohibición de aproximarse a la víctima, o a sus familiares u otras personas que determine el tribunal, o de comunicarse con ellos;
+
+c) Obligación de mantenerse en el domicilio o lugar que determine el juez, durante un lapso máximo de ocho horas diarias, las que deberán ser continuas, y
+
+d) Obligación de cumplir programas formativos, laborales, culturales, de educación vial, sexual, de tratamiento de la violencia u otros similares.
 
 #### Artículo 21
 
@@ -218,129 +222,305 @@ Los organismos estatales y comunitarios que otorguen servicios pertinentes a sal
 
 #### Artículo 22
 
-El quebrantamiento de alguna de las condiciones impuestas por el tribunal o la desobediencia grave o reiterada y sin causa justa a las normas de conducta impartidas por el delegado, facultarán al tribunal, sobre la base de la información que aquél le proporcione, en conformidad con el artículo 23 de la Ley N° 18.216, para revocar el beneficio, en resolución que exprese circunstanciadamente sus fundamentos.
+Si el condenado incumpliere, dentro del período de observación, alguna de las condiciones impuestas, Gendarmería de Chile lo informará al tribunal competente, el que, atendidas las circunstancias del caso, decidirá si intensifica las condiciones, reemplaza la pena por otra pena sustitutiva de mayor intensidad, o la revoca, disponiendo el cumplimiento del saldo de la pena inicialmente impuesta.
 
-En tal caso, el tribunal dispondrá el cumplimiento de las penas inicialmente impuestas o su conversión, si procediere, en reclusión nocturna.
+### Párrafo 2º
 
-### Párrafo 2°
-
-De los delegados de libertad vigilada
+De la supervisión técnica y los delegados de libertad vigilada y libertad vigilada intensiva
 
 #### Artículo 23
 
-Los delegados de libertad vigilada son oficiales penitenciarios o profesionales del área jurídica, social, educacional o de salud que presten servicios en Gendarmería de Chile, encargados de vigilar, controlar, orientar y asistir a los condenados que hubieren obtenido este beneficio, a fin de evitar su reincidencia, protegerlos y lograr su readaptación e integración a la sociedad.
+Gendarmería de Chile deberá cautelar la correcta ejecución de los lineamientos de intervención en la pena de libertad vigilada y libertad vigilada intensiva, de acuerdo a las normas técnicas impartidas por el Ministerio de Justicia, a través de un supervisor técnico, que deberá realizar las siguientes funciones:
+
+a) Cautelar la ejecución de las actividades orientadas a promover el cambio conductual en los penados, para lo cual deberá comprender las limitaciones inherentes a la aplicación e interpretación de pruebas psicológicas, los principios básicos de una evaluación y los fundamentos generales para la efectividad de una intervención.
+
+b) Administrar los procesos relacionados con la gestión de caso y la intervención de los penados, cautelando la adhesión a los lineamientos desarrollados en la norma técnica.
+
+c) Orientar las decisiones técnicas derivadas de las evaluaciones de riesgo efectuadas, así como la elaboración del plan de intervención individual.
+
+d) Asesorar los procesos de intervención individual y grupal, así como el desarrollo de los programas especializados, controlando el cumplimiento de las directrices técnicas de los mismos.
+
+e) Supervisar que la información remitida a los tribunales y otras instancias sea acorde con los estándares técnicos establecidos en el modelo de intervención.
 
 #### Artículo 24
 
-La habilitación para que los funcionarios de que trata el artículo anterior puedan ejercer las funciones de delegados de libertad vigilada será otorgada por el Ministerio de Justicia.
-
-Para tal efecto, la División de Defensa Social de esa Secretaría de Estado procederá a examinar los antecedentes de los postulantes con el objeto de verificar la idoneidad moral y lo conocimientos requeridos.
-
-La idoneidad moral se acreditará mediante la hoja de vida del funcionario, las recomendaciones de sus jefes directos u otros antecedentes que el Ministerio de Justicia estime necesario considerar.
-
-El postulante deberá acreditar, además, que no ha sido condenado ni se encuentra procesado por resolución ejecutoriada en proceso por crimen o simple delito de acción pública. En el caso de los indultados, sólo podrán postular después de cinco años, contados desde la fecha del indulto.
-
-Los conocimientos se acreditarán con la aprobación del Curso de Especialización para delegados de libertad vigilada, impartidos por Gendarmería de Chile y con los certificados de los estudios realizados en las áreas indicadas en el artículo anterior, según corresponda. Será necesario acreditar, a lo menos, haber egresado de una carrera profesional de un mínimo de cuatro años de duración.
+El delegado de libertad vigilada y libertad vigilada intensiva es un funcionario público, titulado en una institución de educación superior en las carreras de psicología o asistente social y habilitado por decreto del Ministerio de Justicia, para ejercer la función de conductor del proceso de reinserción social de la persona condenada a la pena sustitutiva de libertad vigilada y libertad vigilada intensiva, mediante la intervención, orientación y supervisión de los condenados, a fin de evitar su reincidencia y facilitar su reinserción a la sociedad.
 
 #### Artículo 25
 
-El Ministerio de Justicia podrá celebrar convenios con personas naturales o jurídicas, estatales o privadas, para el control de la libertad vigilada, quienes deberán ejercer este cometido por intermedio de delegados habilitados para el ejercicio de estas funciones.
+Los requisitos para desempeñar la función de delegado de libertad vigilada y libertad vigilada intensiva, serán los siguientes:
+
+a) Poseer el título profesional de psicólogo o asistente social, otorgado por una universidad reconocida por el Estado o su equivalente, en el caso de profesionales titulados de universidades extranjeras.
+
+b) Experiencia laboral en el área de la intervención psicosocial mínima de un año.
+
+c) Aprobar el curso de habilitación de delegado de libertad vigilada y libertad vigilada intensiva, con nota igual o superior a 5.5.
 
 #### Artículo 26
 
-Las personas naturales que deseen ser habilitadas para desempeñarse como delegados de libertad vigilada deberán acreditar conocimientos en el área jurídica, social, educacional, de salud o de rehabilitación conductual, con certificados otorgados por instituciones educacionales reconocidas por el Estado, e idoneidad moral en los términos establecidos en el inciso cuarto del artículo 24, sin perjuicio de los demás documentos, informes, entrevistas o exámenes que el Ministerio de Justicia estime conveniente requerirles.
+El Ministerio de Justicia, a través de la División de la Reinserción Social, tendrá la facultad de supervisar la ejecución de los cursos de habilitación para delegado de libertad vigilada y libertad vigilada intensiva. De este modo, esta División será responsable de establecer las directrices técnicas, referidas al contenido de los cursos de habilitación y a su metodología de evaluación.
+
+La responsabilidad de impartir los cursos de habilitación para delegados, será de cargo de Gendarmería de Chile, institución que podrá contratar el apoyo de servicios externos para estos efectos.
+
+Todos los profesionales que se desempeñen como delegados deberán rendir el curso de habilitación para delegados de las penas sustitutivas de libertad vigilada y libertad vigilada intensiva.
+
+En el caso que el profesional no apruebe el curso de habilitación contemplado para delegado, podrá cursarlo en una segunda oportunidad. Si no lo aprobare entonces, no podrá ser habilitado para ejercer la función de delegado de libertad vigilada o libertad vigilada intensiva, según corresponda.
+
+En ningún caso se podrá ejercer la función de delegado si no se cuenta con la habilitación respectiva.
 
 #### Artículo 27
 
-Las personas naturales que fueren habilitadas de conformidad a las normas precedentes, deberán comprometerse a dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia y a remitirle los informes que les solicite para evaluar los resultados del sistema, sin perjuicio de las obligaciones que les impone la ley y el reglamento.
+La intervención psicosocial del delegado, tendrá por objetivo identificar los factores de riesgo criminógeno, a fin de disminuirlos mediante intervenciones que se ajusten a las particularidades de cada condenado y a su riesgo de reincidencia. Para ello deberá considerar las áreas deficientes y los factores protectores de cada condenado a fin de orientar la intervención hacia el desarrollo de competencias que promuevan un desenvolvimiento prosocial.
+
+Se deberá cautelar que todos los condenados que ingresen a la pena de libertad vigilada y libertad vigilada intensiva se beneficien de intervenciones que promuevan su responsabilización por las conductas cometidas, motivándolos en los casos en que corresponda, a adoptar comportamientos que estén en concordancia con las normas sociales imperantes.
+
+Para ello, se deberán considerar los resultados de la evaluación de riesgo de reincidencia del condenado, identificando las necesidades y los recursos o factores protectores que pueden contribuir al proceso de intervención.
 
 #### Artículo 28
 
-Los convenios que el Ministerio de Justicia celebre con personas jurídicas que deseen ejercer el control de la libertad vigilada por intermedio de delegados habilitados, deberán contener, a lo menos, las siguientes obligaciones:
-
-a) Dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia;
-
-b) Proponer al Ministerio de Justicia postulantes para ser habilitados como delegados, que acrediten conocimientos e idoneidad en los términos establecidos en el artículo 24 de este reglamento, en su caso;
-
-c) Supervigilar el comportamiento y desempeño de las funciones de los delegados a su cargo e informar al Ministerio de Justicia al respecto, y
-
-d) Emitir los informes que el Ministerio de Justicia les solicite para evaluar el cumplimiento y resultados del sistema.
+El delegado que haya sido designado para la supervisión de un condenado a la pena de libertad vigilada y libertad vigilada intensiva, deberá evaluar las necesidades y fortalezas que presente el penado a su cargo, a fin de brindarle la intervención psicosocial que precise, consignando en su plan de intervención individual, las actividades que deberá realizar con el propósito de favorecer este proceso. Para tal efecto, el delegado deberá fomentar la participación y compromiso del condenado a los procesos de intervención individual o grupal, que sean necesarios para alcanzar estos fines, de acuerdo a la información obtenida en las evaluaciones de riesgo y necesidad. Asimismo, a fin de cautelar la efectividad de la intervención, será competencia del delegado promover un contexto terapéutico que permita generar cambios internos en el penado como parte de su proceso de responsabilización.
 
 #### Artículo 29
 
-El Ministerio de Justicia podrá revocar la habilitación concedida cuando el delegado no diere cumplimiento a las obligaciones que le impone la ley, el reglamento o el convenio, en los casos que corresponda, o incurriere en conductas que no se compadecen con la naturaleza de las funciones que le corresponden.
+Para facilitar las labores tendientes a la reinserción social de los condenados, los delegados a cargo de este proceso, de acuerdo a su experticia y formación, podrán desempeñar funciones como delegado encargado de caso, delegado encargado de delitos sexuales y/o de violencia intrafamiliar, o delegado encargado de programa.
 
 #### Artículo 30
 
-En caso de ausencia, impedimento o cualquiera inhabilidad que afecte al delegado en el cumplimiento de sus funciones, la sección de tratamiento en el medio libre de Gendarmería de Chile, o la persona o entidad con la cual el Ministerio de Justicia hubiere celebrado convenio, según corresponda, informará al tribunal respectivo para los efectos de designar un nuevo delegado.
+El delegado encargado de caso, podrá ser un profesional psicólogo o asistente social el cual tendrá la obligación de:
+
+a) Efectuar evaluaciones periódicas de los condenados a la pena respectiva, a través de un análisis detallado de las necesidades, factores protectores y capacidad de respuesta, que permita establecer su perfil delictual y las áreas a intervenir.
+
+b) Proponer al juez que el condenado sea sometido a los exámenes médicos, psicológicos o de otra naturaleza que aparezcan necesarios para efectos de la elaboración del plan de intervención individual.
+
+c) Proponer al juez de garantía un plan de intervención individual adaptado a las necesidades del condenado, indicando las actividades tendientes a su reinserción social, en las que deberá participar, y los objetivos y plazos en que estos deberán alcanzarse.
+
+d) Realizar intervenciones que promuevan la participación y motivación del condenado en su plan de intervención individual, promoviendo la responsabilización y la generación de conductas prosociales que estén en consonancia con las leyes de nuestro país.
+
+e) Establecer, cuando corresponda, contacto directo con el condenado en los lugares donde habitualmente se desenvuelve, extendiendo su acción a la familia y comunidad, en tanto estas acciones se configuren como factores protectores para la intervención y el alejamiento de la actividad delictual.
+
+f) Informar periódicamente al tribunal sobre el comportamiento y la evolución de los penados que le han sido asignados, en cualquier momento que lo precise la intervención, y, especialmente, cada trimestre o semestre según la pena de libertad vigilada de que se trate y, cada mes, si el condenado tuviere obligación de asistir a programas de rehabilitación en drogas o alcohol.
+
+g) Evaluar, con la asesoría y supervisión técnica respectiva, la evolución del penado respecto al desarrollo de las intervenciones individuales y grupales en las que se encuentre participando, como asimismo, en las demás actividades y directrices que se hayan acordado, efectuando o proponiendo los ajustes necesarios para lograr el adecuado cumplimiento de su plan de intervención.
+
+h) Realizar intervenciones individuales que consideren los factores protectores del penado y que permitan disminuir los riesgos y necesidades, acorde con los objetivos de cambio propuestos en el plan de intervención individual.
+
+i) Derivar al condenado a los programas de intervención especializados y prestaciones sociales de la red que sean necesarios para abordar las necesidades levantadas estableciendo los vínculos necesarios que faciliten su incorporación a los organismos estatales y comunitarios que otorguen los servicios pertinentes.
+
+j) Supervisar permanentemente la participación del condenado en los programas de intervención especializada a los que haya sido derivado, generando coordinaciones oportunas y adecuadas con los delegados encargados de ejecutar los programas, y/o con los actores de la red involucrados en la ejecución del plan de intervención individual.
+
+k) Registrar la totalidad de los antecedentes del condenado, manteniendo actualizada su evolución, consignando las actividades realizadas, entrevistas, visitas en terreno, y demás acciones relevantes para los fines buscados, asegurando, en todo momento, el carácter confidencial de esta información.
+
+l) Comparecer a las audiencias en que el tribunal requiera la presentación del delegado.
+
+m) Poner en conocimiento del tribunal todo incumplimiento de las condiciones que debe cumplir el penado y aquellas situaciones que impidan su regular cumplimiento, proponiéndole una medida que permita revertir la conducta informada.
+
+n) Dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia y emitir los informes que se le solicite para evaluar los resultados del sistema, sin perjuicio de las demás obligaciones que impone la Ley Nº 18.216 y el presente reglamento.
 
 #### Artículo 31
 
-Transcurrido el plazo de tratamiento y observación sin que la medida de libertad vigilada haya sido revocada, el delegado lo comunicará al juez respectivo para los efectos de lo dispuesto en el artículo 28 de la Ley N° 18.216.
+El delegado encargado de delitos sexuales y de violencia intrafamiliar, será aquél profesional psicólogo de preferencia, o bien, asistente social que acredite formación especializada en el ámbito de la psicología, que ejecutará las funciones señaladas en los artículos 28 y 29 anteriores, como también las que se enumeran a continuación, en relación a los penados que han sido condenados por delitos sexuales o de violencia intrafamiliar:
+
+a) Efectuar evaluaciones periódicas de los condenados a la pena respectiva, a través de un análisis detallado de las necesidades, factores protectores y capacidad de respuesta, que permita establecer su perfil delictual y las áreas a intervenir.
+
+b) Proponer al juez que el condenado sea sometido a los exámenes médicos, psicológicos o de otra naturaleza que aparezcan necesarios para efectos de la elaboración del plan de intervención individual.
+
+c) Proponer al juez de garantía un plan de intervención individual adaptado a las necesidades del condenado, indicando las actividades, tendientes a su reinserción social, en las que deberá participar, y los objetivos y plazos en que éstos deberán alcanzarse.
+
+d) Realizar intervenciones que promuevan compromiso y motivación para el cumplimiento de su plan de intervención individual, provocando la responsabilización y la generación de conductas prosociales que estén en consonancia con las leyes de nuestro país.
+
+e) Realizar intervenciones individuales que consideren los factores protectores del penado y que permitan disminuir los riesgos y necesidades, acorde con los objetivos de cambio propuestos en el plan de intervención individual.
+
+f) Ejecutar los programas de intervención especializada elaborados para los condenados por un delito cometido contra la libertad sexual y/o aquellos condenados por un delito de violencia intrafamiliar, de acuerdo a las directrices de los programas y a las normas técnicas de la libertad vigilada intensiva.
+
+g) Establecer, cuando corresponda, contacto directo con el condenado en los lugares donde habitualmente se desenvuelve, extendiendo su acción a la familia y comunidad, en tanto estas acciones se configuren como factores protectores para la intervención y el alejamiento de la actividad delictual.
+
+h) Informar periódicamente al tribunal sobre el comportamiento y la evolución de los penados que le han sido asignados, en cualquier momento que lo precise la intervención, y, especialmente, cada trimestre o cada mes, si el condenado tuviere obligación de asistir a programas de rehabilitación en drogas o alcohol.
+
+i) Evaluar, con la asesoría y supervisión técnica respectiva, la evolución del penado respecto al desarrollo de las intervenciones individuales y grupales en las que se encuentre participando, como asimismo, en las demás actividades y directrices que se hayan acordado, efectuando o proponiendo los ajustes necesarios para lograr el adecuado cumplimiento de su plan de intervención.
+
+j) Derivar al condenado a los programas de intervención especializados y prestaciones sociales de la red que sean necesarios, para abordar las necesidades levantadas, estableciendo los vínculos necesarios que faciliten su incorporación a los organismos estatales y comunitarios que otorguen los servicios pertinentes.
+
+k) Supervisar permanentemente la participación del condenado en los programas a los que haya sido derivado, generando coordinaciones oportunas y adecuadas con los delegados encargados de ejecutar los programas, y/o con los actores de la red involucrados en la ejecución del plan de intervención individual.
+
+l) Registrar la totalidad de los antecedentes del condenado, manteniendo actualizada su evolución, consignando las actividades realizadas, entrevistas, visitas en terreno, y demás acciones relevantes para los fines buscados, asegurando, en todo momento, el carácter confidencial de esta información.
+
+m) Comparecer a las audiencias en que el tribunal requiera la presentación del delegado.
+
+n) Poner en conocimiento del tribunal todo incumplimiento de las condiciones que debe cumplir el penado y aquellas situaciones que impidan su regular cumplimiento, proponiéndole una medida que permita revertir la conducta informada.
+
+o) Dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia y emitir los informes que se le solicite para evaluar los resultados del sistema, sin perjuicio de las demás obligaciones que imponen la Ley Nº 18.216 y el presente reglamento.
 
 #### Artículo 32
 
-Para la aplicación de lo dispuesto en la letra a) del artículo 20, el Ministerio de Justicia confeccionará y distribuirá a cada Corte de Apelaciones del país, una nómina de las personas habilitadas para desempeñarse como delegados de libertad vigilada dentro de sus respectivos territorios jurisdiccionales, según sea el domicilio que ellas hubieren fijado al efecto.
+El delegado encargado de programa será aquél profesional psicólogo o asistente social que ejecutará los programas de intervención especializada en modalidad grupal o individual, tendientes a disminuir los factores de riesgo de reincidencia, en virtud de lo contenido en el plan de intervención individual de cada condenado.
 
-En dichas nóminas se individualizarán a las personas con sus domicilios y se indicará, en los casos que fuere procedente, el Servicio o la Institución a la cual pertenecen.
+De este modo, el delegado encargado de programas deberá:
 
-Las nóminas serán mantenidas debidamente actualizadas por esa Secretaría de Estado.
+a) Ejecutar los programas de intervención especializada de aquellos penados que presentan factores de riesgo susceptibles de ser intervenidos en el marco de la oferta programática disponible en el Centro de Reinserción Social correspondiente.
+
+b) Realizar intervenciones que promuevan la adhesión y motivación para el cumplimiento de su plan de intervención individual, y en especial a los programas de intervención a su cargo, promoviendo la responsabilización y la generación de conductas prosociales que estén en consonancia con las leyes de nuestro país.
+
+c) Orientar y asesorar a los delegados encargados de caso y delegados encargados de delitos sexuales y de violencia intrafamiliar, en la elaboración y revisión del plan de intervención individual, respecto a las materias de intervención que sean de su competencia.
+
+d) Establecer, cuando corresponda, intervenciones con el condenado en los lugares donde habitualmente se desenvuelve, extendiendo su acción a la familia y comunidad, en tanto estas acciones se configuren como factores protectores para la efectividad de los programas de intervención.
+
+e) Establecer, en los casos en que corresponda, coordinaciones permanentes con los delegados encargados de caso y con el delegado encargado de delitos sexuales y de violencia intrafamiliar, para el ingreso de los penados a los programas de intervención, e informar sobre los progresos que se verifiquen.
+
+f) Registrar la totalidad de los antecedentes referidos a la participación del condenado, en los programas de intervención, manteniendo actualizada su evolución, consignando las actividades realizadas, entrevistas, visitas en terreno, y demás acciones relevantes para los fines buscados, asegurando, en todo momento, el carácter confidencial de esta información.
+
+g) Evaluar, con la asesoría y supervisión técnica respectiva, la evolución del penado respecto a los programas de intervención en los que se encuentre participando, proponiendo al delegado encargado del caso, los ajustes necesarios para lograr el adecuado cumplimiento de su plan de intervención.
+
+h) Elaborar informes de los penados que asistan a programas a su cargo, en cualquier momento que lo precise la intervención, y, especialmente, cada trimestre o semestre según la pena de libertad vigilada de que se trate.
+
+i) Comparecer a las audiencias en que el tribunal requiera la presentación del delegado.
+
+j) Dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia y emitir los informes que se le solicite para evaluar los resultados del sistema, sin perjuicio de las demás obligaciones que imponen la Ley Nº 18.216 y el presente reglamento.
 
 #### Artículo 33
 
-Las funciones de los delegados de libertad vigilada son las siguientes:
+En relación a la pena mixta, una vez que el Centro de Reinserción Social ha recibido la nómina de los internos que cumplen con los requisitos enumerados en el artículo 33 de la Ley Nº 18.216, y que hubieren postulado a la pena mixta, el delegado de libertad vigilada deberá elaborar el informe que contendrá:
 
-1.- Respecto del tribunal:
+a) Una evaluación respecto al riesgo de reincidencia, a fin de conocer las posibilidades del condenado para reinsertarse adecuadamente en la sociedad, mediante una pena en libertad. Deberá referirse a los factores de riesgo, a los factores protectores y a todos los antecedentes sociales y personales del condenado que permitan orientar las acciones que deben adoptarse para asegurar el cumplimiento de las condiciones impuestas. Para tales efectos, la unidad penal deberá remitir al Centro de Reinserción Social respectivo, la nómina de los internos que cumplan con los requisitos mencionados. El delegado deberá efectuar la evaluación y remitir el informe al tribunal.
 
-a) Informar al respectivo tribunal, al menos semestralmente, o cuando él lo solicite, sobre el comportamiento y la evolución de las personas sometidas a su vigilancia y orientación;
+Para aquellos casos en que la evaluación resulte favorable, el delegado deberá remitir al tribunal un informe dando cuenta de los factores evaluados y la elaboración de un plan de intervención individual sobre las actividades que deberá cumplir en libertad, considerando asimismo, la existencia de investigaciones formalizadas o acusaciones vigentes en contra del condenado. En el plan deberá incorporarse la expresión de la voluntad del condenado, la que deberá constar en un acta firmada por el mismo, por la que se compromete a realizar las actividades contenidas en el plan. Además, deberá contener la certificación de que el condenado ha tomado conocimiento de la posibilidad de que se revoque la pena sustitutiva, en el caso que no cumpliere con las exigencias que ésta conlleva.
 
-b) Solicitar, cuando corresponda, mediante informe fundado, la reducción del plazo de la medida, su prórroga, o el egreso del beneficiado del sistema, de acuerdo a lo dispuesto en el artículo 18 de este reglamento;
+Para aquellos casos en que la evaluación resulte negativa, el delegado deberá evacuar un informe a la unidad penal respectiva, acompañando los antecedentes que sustentan dicha evaluación.
 
-c) Poner oportunamente en conocimiento del tribunal, cuando proceda, todo quebrantamiento de algunas de las condiciones impuestas al beneficiado, o la desobediencia grave o reiterada y sin causa justa, a las normas de conducta que él imparta, y
+b) Informe de comportamiento, remitido por la unidad penal, de conformidad a lo dispuesto en el Decreto Nº 2.442, de 1926, del Ministerio de Justicia, que Fija el Texto del Reglamento de la Ley de Libertad Condicional.
 
-d) Concurrir, al inicio de la medida, al tribunal de la causa, a fin de reunir la información consignada en el expediente.
+c) Factibilidad técnica de la aplicación del monitoreo telemático, la que incluirá aspectos relativos a la conectividad de las comunicaciones en el domicilio y la comuna que fije el condenado para tal efecto.
 
-2.- Respecto del beneficiado:
+### Párrafo 3º
 
-a) Establecer contacto directo con el beneficiado en los lugares donde habitualmente se desenvuelve, extendiendo su acción a la familia y comunidad de la misma, por medio de entrevistas y visitas;
-
-b) Establecer vínculos con la comunidad que faciliten la aceptación del beneficiado y consecuentemente su resocialización:
-
-c) Diseñar un programa individual de intervención tendiente a su resocializacion formulando objetivos y metas de corto, mediano y largo plazo,y
-
-d) Evaluar y controlar permanentemente el cumplimiento por parte del beneficiado, de los programas y demás directrices que le haya señalado, efectuando los ajustes necesarios.
-
-3.- Respecto a la organización administrativa del sistema:
-
-a) Mantener un registro individual actualizado de la evolución de cada caso, consignando las acciones realizadas, entrevistas, visitas de terreno, trámites, etc.;
-
-b) Participar en las reuniones técnicas de trabajo y en la discusión de los casos en el Consejo Técnico, cuando corresponda, y
-
-c) Formular, ejecutar, evaluar e informar programas de tratamientos grupales necesarios para el funcionamiento de la medida y otras acciones técnicas, propias de su especialidad, para beneficio del sistema.
+De los convenios y la habilitación para ejercer el rol de delegado de libertad vigilada y libertad vigilada intensiva.
 
 #### Artículo 34
 
-Cada delegado de libertad vigilada tendrá a su cargo 30 beneficiados como máximo.
+El Ministerio de Justicia podrá celebrar convenios con personas naturales o jurídicas, estatales o privadas, para la supervisión de la libertad vigilada y libertad vigilada intensiva, quienes deberán ejercer este cometido por intermedio de delegados habilitados para el ejercicio de estas funciones.
 
 #### Artículo 35
 
-El Ministerio de Justicia impartirá las normas técnicas que sean necesarias relativas al sistema de libertad vigilada, evaluará periódicamente su cumplimiento y sus resultados, para lo cual Gendarmería de Chile y las personas a que se refiere el artículo 21 de la Ley N° 18.216 deberan remitirle los informes que les solicite, dentro de los plazos que se establezcan.
+Los convenios que se celebren con personas jurídicas que deseen ejercer la supervisión de la libertad vigilada y libertad vigilada intensiva por intermedio de delegados habilitados, deberán contener, a lo menos, las siguientes obligaciones:
+
+a) Dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia.
+
+b) Proponer al Ministerio de Justicia postulantes para ser habilitados como delegados, que acrediten conocimientos y preparación en los términos establecidos en este Reglamento.
+
+c) Supervigilar el comportamiento y desempeño de las funciones de los delegados a su cargo e informar al Ministerio de Justicia al respecto.
+
+d) Emitir los informes que el Ministerio de Justicia les solicite para evaluar el cumplimiento y resultados del sistema.
 
 #### Artículo 36
 
-En cumplimiento de las facultades establecidas en el artículo 22 de la Ley N° 18.216, el Ministerio de Justicia, a través de la División de Defensa Social, fiscalizará el funcionamiento del sistema pudiendo en el ejercicio de su cometido efectuar las visitas y controles que estime pertinentes.
+La habilitación para ejercer como delegado de libertad vigilada será otorgada por el Ministerio de Justicia.
+
+Para tal efecto, la División de Reinserción Social de tal Secretaría de Estado, procederá a examinar los antecedentes de los postulantes con el objeto de verificar la idoneidad y preparación en los conocimientos requeridos.
+
+Los conocimientos y la preparación se acreditarán con la aprobación del curso de habilitación para delegados, de acuerdo a las directrices entregadas por la División de Reinserción Social, y con los certificados de los estudios realizados en las áreas indicadas y los otros antecedentes, documentos, informes, entrevistas o exámenes que el Ministerio de Justicia estime necesario considerar.
+
+El postulante deberá acreditar, además, que no ha sido condenado ni se encuentra procesado o formalizado por crimen o simple delito.
 
 #### Artículo 37
 
-En Gendarmería de Chile la unidad encargada de administrar el sistema de libertad vigilada y de la cual dependerán los delegados, será el Departamento de Tratamiento en el Medio Libre. La operación del sistema se efectuará a través de las Secciones de Tratamiento en el Medio Libre, dependientes de dicho Departamento, en coordinación con las Direcciones Regionales.
+El Ministerio de Justicia podrá revocar la habilitación concedida cuando el delegado no diere cumplimiento a las obligaciones que le imponen la Ley Nº 18.216, el presente reglamento, las normas técnicas de intervención o el convenio, en los casos que corresponda, o incurriere en conductas que no se condicen con la naturaleza de las funciones que le corresponden.
+
+Asimismo, las personas naturales que fueren habilitadas, deberán comprometerse a dar cumplimiento a las instrucciones generales y especiales que el Ministerio de Justicia dicte sobre la materia y a remitirle los informes que se les solicite para evaluar los resultados del sistema.
+
+En caso de ausencia, impedimento o cualquiera inhabilidad que afecte al delegado en el cumplimiento de sus funciones, Gendarmería de Chile, o la persona o entidad con la cual el Ministerio de Justicia hubiere celebrado el convenio, según corresponda, informará al tribunal respectivo para los efectos de designar un nuevo delegado.
 
 #### Artículo 38
 
-Las Secciones de Tratamiento en el Medio Libre contarán con un Consejo Técnico, el cual asesorará en el diagnóstico y tratamiento de los beneficiados y en la evaluación del sistema.
+La unidad encargada de administrar el sistema de libertad vigilada y libertad vigilada intensiva será el Departamento de Reinserción Social en el Sistema Abierto de Gendarmería de Chile. La operación del sistema se efectuará a través de los Centros de Reinserción Social, dependientes de dicho Departamento, en coordinación con las Direcciones Regionales de Gendarmería de Chile.
 
-Dicho Consejo estará integrado por los delegados y profesionales que señale el Departamento de Tratamiento en el Medio Libre y será presidido por el Jefe de la Sección de Tratamiento en el Medio Libre respectivo.
+Los Centros de Reinserción Social contarán con un Consejo Técnico, integrado por los delegados de libertad vigilada en conjunto con los profesionales que señale el Departamento de Reinserción Social en el Sistema Abierto de Gendarmería de Chile y será presidido por el Jefe del Centro. Dicho Consejo actuará como un órgano asesor en la revisión de los casos que se presenten supervisados técnicamente, teniendo en cuenta criterios de complejidad de la intervención, requerimientos del delegado, solicitudes del penado y peticiones de tribunales, para una correcta evaluación e intervención de los condenados.
 
-.
+#### Artículo 39
+
+El Ministerio de Justicia impartirá las normas técnicas que sean necesarias relativas al sistema de libertad vigilada, evaluando periódicamente su cumplimiento y sus resultados, para lo cual Gendarmería de Chile deberá remitirle los informes que solicite, dentro de los plazos que se establezcan.
+
+El Ministerio de Justicia, a través de la División de Reinserción Social, fiscalizará el funcionamiento del sistema, pudiendo, en el ejercicio de su cometido, efectuar las visitas, supervisiones y controles que estime pertinentes.
+
+## Título III
+
+Tratamiento de consumo problemático de drogas y alcohol
+
+#### Artículo 40
+
+La obligación de asistir a programas de tratamiento está destinada a contribuir a la rehabilitación de los condenados a la pena de libertad vigilada o libertad vigilada intensiva que presenten un consumo problemático de drogas y/o alcohol, entendiéndose por tal aquel detectado y confirmado por un médico calificado por el Servicio de Salud correspondiente, a través de una evaluación diagnóstica.
+
+Los médicos calificados para efectuar la evaluación diagnóstica contemplada en el artículo 17 bis de la Ley Nº 18.216, serán contratados por el Servicio Médico Legal y requerirán cumplir con los requisitos señalados en el artículo 45 de este Reglamento.
+
+#### Artículo 41
+
+Durante la etapa de investigación, los intervinientes podrán solicitar al tribunal que decrete la obligación del imputado de asistir a una evaluación diagnóstica por un médico calificado por el Servicio de Salud correspondiente para determinar si éste presenta o no consumo problemático de drogas o alcohol. El juez accederá a lo solicitado si existieren antecedentes que permitan presumir dicho consumo problemático.
+
+Los antecedentes que permitan presumir un consumo problemático de drogas y/o alcohol deberán ser aportados por los intervinientes.
+
+#### Artículo 42
+
+Una vez decretada la obligación del imputado de asistir a una evaluación diagnóstica, para determinar si presenta o no consumo problemático de drogas y/o alcohol, se comunicará esta decisión al Servicio Médico Legal, para efectos que el médico calificado realice la evaluación diagnóstica, previa citación del imputado realizada por el Servicio Médico Legal.
+
+Tratándose de imputados que se encuentren en prisión preventiva, se deberá informar al Servicio Médico Legal y al establecimiento penal respectivo de Gendarmería de Chile, a efecto de coordinar la realización de la evaluación diagnóstica.
+
+Si se decretare la evaluación y el imputado se resistiere o negare a la práctica de el o los exámenes correspondientes, el juez podrá considerar dicha resistencia o negativa como antecedente para negar la sustitución de la pena privativa o restrictiva de libertad.
+
+#### Artículo 43
+
+El diagnóstico efectuado por el médico deberá referirse únicamente a la existencia o no, de un consumo problemático de drogas y/o alcohol. De este modo, la evaluación diagnóstica no podrá extenderse o hacer referencia al contexto de los hechos que se imputan, ni vincular el consumo que se aprecie clínicamente, con algún patrón de conducta delictual.
+
+#### Artículo 44
+
+El resultado de la evaluación diagnóstica realizada por el médico calificado, deberá remitirse al juez de garantía que la hubiere solicitado, dentro del plazo de 40 días contados desde la notificación al Servicio Médico Legal de la resolución que dispone la realización de la evaluación.
+
+Recibido por el tribunal el resultado de la evaluación, éste quedará a disposición de los intervinientes, quienes podrán aportar el resultado de dicha evaluación antes del pronunciamiento de la sentencia o en la oportunidad prevista en el artículo 343 del Código Procesal Penal, para efectos de debatir acerca de la imposición de la obligación de asistencia a un programa de rehabilitación por consumo de drogas y/o alcohol.
+
+#### Artículo 45
+
+Los requisitos para desempeñar la función de médico calificado para realizar la evaluación diagnóstica correspondiente, serán los siguientes:
+
+a) Poseer el título profesional de médico, otorgado por una universidad reconocida por el Estado o su equivalente, en el caso de profesionales titulados de universidades extranjeras.
+
+b) Tener formación en salud mental.
+
+c) Haber sido calificado por la autoridad sanitaria que corresponda, lo que será puesto en conocimiento de la Secretaría Regional Ministerial de Justicia, por intermedio de la Secretaría Regional Ministerial de Salud respectiva.
+
+#### Artículo 46
+
+Sólo en el caso de contarse con una evaluación diagnóstica que confirme un consumo problemático de drogas y/o alcohol, y habiéndose impuesto la pena de libertad vigilada o libertad vigilada intensiva, el tribunal podrá decretar la obligación de asistir a programas de tratamiento de rehabilitación de dichas sustancias.
+
+La obligación de someterse a un tratamiento podrá consistir en la asistencia a programas ambulatorios, la internación en centros especializados o una combinación de ambos tipos de tratamiento. El plazo de la internación no podrá ser superior al total del tiempo de la pena sustitutiva. Lo anterior deberá enmarcarse dentro del plan de intervención individual aprobado judicialmente.
+
+El diagnóstico y el plan de tratamiento por drogas y/o alcohol que recibirá el condenado, deberá referirse a las áreas que requieren ser abordadas para superar la adicción pesquisada. Este plan de tratamiento, por tanto, deberá complementarse y coordinarse permanentemente, con las acciones de intervención destinadas a abordar los otros factores de riesgo criminógeno presentes en el condenado, que hayan sido diagnosticadas por el delegado encargado del caso respectivo, y que se encuentren contenidas en el plan de intervención aprobado judicialmente.
+
+#### Artículo 47
+
+Habiéndose decretado la obligación de someterse a tratamiento, el delegado de libertad vigilada o libertad vigilada intensiva informará mensualmente al tribunal respecto del desarrollo del mismo. El juez efectuará un control periódico del cumplimiento de esta condición, debiendo citar bimestralmente a audiencias de seguimiento, durante todo el período que dure el tratamiento, a las que deberán comparecer el condenado y su defensor.
+
+En el caso del delegado de libertad vigilada o de libertad vigilada intensiva, el tribunal podrá estimar como suficiente la entrega del informe periódico que se remita por el delegado, salvo que solicite su comparecencia personal.
+
+El Ministerio Público podrá comparecer cuando lo estimare procedente.
+
+#### Artículo 48
+
+El delegado deberá informar sobre las actividades de intervención realizadas por el condenado, las evaluaciones de los objetivos trabajados y los resultados esperados.
+
+## Título IV
+
+Pena de expulsión
+
+#### Artículo 49
+
+De conformidad al artículo 34 de la Ley Nº 18.216, si el condenado a una pena igual o inferior a cinco años de presidio o reclusión menor en su grado máximo, fuere un extranjero que no residiere legalmente en el país, el juez, de oficio o a petición de parte, podrá sustituir el cumplimiento de dicha pena por su expulsión del territorio nacional.
+
+A la audiencia, deberá ser citado el Ministerio del Interior y Seguridad Pública, a objeto que se pronuncie sobre la conveniencia de la sustitución de la pena privativa de la libertad por la expulsión del territorio nacional. Si se ordenare la expulsión, deberá oficiarse al Departamento de Extranjería del Ministerio del Interior, para efecto de ejecutar esta pena sustitutiva, y se ordenará la internación del condenado hasta la ejecución de la misma, en un establecimiento penitenciario de Gendarmería de Chile.
+
+## Título V
+
+Disposición final.
+
+#### Artículo 50
+
+Todos los plazos establecidos en el presente reglamento son de días corridos.
 
 #### Artículo transitorio
 
@@ -361,6 +541,10 @@ b) En el artículo 9°, se sustituye la letra a) por la siguiente:
 c) En el artículo 17, se sustituye la letra a) por la siguiente:
 
 "a) Si la pena privativa o restrictiva de libertad que imponga la sentencia y que falta por cumplir es superior a tres años y no excede de cinco:".
+
+#### Artículo transitorio
+
+Los profesionales que estén desempeñándose como delegados de libertad vigilada al momento de la publicación del presente reglamento, deberán aprobar el curso de habilitación a que se refiere el artículo 25 de este reglamento, para efectuar procesos de intervención como delegados de libertad vigilada y libertad vigilada intensiva conforme al régimen incorporado por la Ley Nº 20.603.
 
 Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Jaime del Valle Alliende, Ministro de Justicia.
 
