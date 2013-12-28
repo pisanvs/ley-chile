@@ -36,7 +36,9 @@ El Subsecretario de Previsión Social deberá adoptar todas las medidas administ
 
 #### Artículo 4°
 
-La asignación de los recursos del Fondo se hará por la Subsecretaría de Previsión Social, a propuesta del Comité de Selección a que se refiere el artículo 44 de la ley Nº20.255 y previo concurso público.
+La Subsecretaría de Previsión Social podrá convocar a uno o más concursos públicos para indistintamente, apoyar financieramente proyectos, programas, actividades y medidas de promoción, educación y difusión del Sistema de Pensiones, pudiendo diferenciar cada uno de ellos conforme a su respectiva naturaleza y objetivos estratégicos.
+
+En cada concurso, la asignación de los recursos de "el Fondo" se hará por la Subsecretaría de Previsión Social, previa propuesta del Comité de Selección, quien deberá constituirse según lo dispuesto en el artículo 44 de la ley Nº 20.255
 
 #### Artículo 5°
 
@@ -52,23 +54,27 @@ La Subsecretaría de Previsión Social llamará a lo menos una vez al año a con
 
 Dicha convocatoria se publicará a lo menos en un periódico de circulación nacional y en un periódico regional de cada una de las regiones que las bases del respectivo concurso contemplen como beneficiarias de proyectos.
 
-Estas publicaciones deberán hacerse con a lo menos 30 días de antelación a la fecha de cierre del proceso de recepción de las postulaciones al concurso.
+Estas publicaciones deberán hacerse con a lo menos 15 días de antelación a la fecha de cierre del proceso de recepción de las postulaciones al concurso.
 
 #### Artículo 7°
 
 La Subsecretaría de Previsión Social elaborará las bases del concurso y formularios de postulación, los que podrán ser retirados por los postulantes en los lugares señalados en la convocatoria.
 
-Los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones sólo podrán presentarse al concurso mediante los formularios indicados. En caso contrario, se tendrán por no presentados.
+Los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones sólo podrán presentarse al concurso mediante los formularios indicados. En caso contrario, se tendrán por inadmisibles.
 
 #### Artículo 8°
 
 Podrán postular a los recursos del Fondo personas naturales y jurídicas, con o sin fines de lucro, también podrán postular las entidades públicas que se encuentren debidamente facultadas para tal efecto.
 
-Para su postulación, las personas naturales deberán acreditar su identidad, de conformidad a lo dispuesto en las bases del respectivo concurso. Asimismo, las entidades privadas deberán acreditar al momento de la postulación que cuentan con personalidad jurídica vigente, como asimismo la representación de quien comparece a su nombre. De no hacerse así, los proyectos se tendrán por no presentados.
+Para su postulación, las personas naturales deberán acreditar su identidad, de conformidad a lo dispuesto en las bases del respectivo concurso. Asimismo, las entidades privadas deberán acreditar al momento de la postulación que cuentan con personalidad jurídica vigente, como asimismo la representación de quien comparece a su nombre. De no hacerse así, los proyectos se tendrán por inadmisibles.
+
+Con todo, en cada concurso público, la Subsecretaría de Previsión Social, podrá establecer requisitos técnicos específicos, en función del público objetivo del concurso
 
 #### Artículo 9°
 
 No podrán postular a recursos del Fondo aquellas personas o entidades que al momento de efectuar su postulación se encuentren en mora de presentar informes técnicos o rendiciones de gastos o de cumplir cualesquiera de las obligaciones contraídas en virtud de una postulación anterior al Fondo, de conformidad a lo establecido en la ley N°20.255, el presente Reglamento y las respectivas bases de concurso.
+
+Del mismo modo, estará inhabilitado toda persona o entidad que no se encuentre al día en el cumplimiento de sus obligaciones laborales y previsionales al momento de la postulación. El estado de cumplimiento deberá ser acreditado mediante certificados emitidos por la respectiva Inspección del Trabajo, o bien por medios idóneos que garanticen la veracidad de la información.
 
 #### Artículo 10
 
@@ -82,7 +88,7 @@ Los postulantes recibirán un comprobante de recepción, en el que constará la 
 
 #### Artículo 11
 
-Las postulaciones deberán individualizar y describir los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones que se pretendan realizar, en la forma que se determine en las bases administrativas y técnicas del concurso público.
+Las postulaciones deberán individualizar y describir los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones que se pretendan realizar, en la forma que se determine en las bases administrativas y técnicas del respectivo concurso público.
 
 #### Artículo 12
 
@@ -90,7 +96,7 @@ Una vez concluida la recepción de los proyectos y revisado el cumplimiento de l
 
 #### Artículo 13
 
-La Subsecretaría de Previsión Social declarará inadmisibles las propuestas de proyectos cuando éstas no cumplieren los requisitos establecidos en las bases. Declarará desierto un concurso cuando no se presenten propuestas, o bien, cuando ninguna de éstas haya sido seleccionada por el Comité de Selección.
+La Subsecretaría de Previsión Social declarará inadmisibles las propuestas de proyectos cuando éstas no cumplieren los requisitos establecidos en las bases. Declarará desierto un concurso público cuando no se presenten propuestas, o estas hayan sido declaradas inadmisibles por incumplimiento de los requisitos técnicos establecidos de acuerdo a la orientación del concurso.
 
 La declaración respectiva se hará por resolución fundada de la Subsecretaría de Previsión Social y se notificará a los postulantes que corresponda.
 
@@ -106,7 +112,7 @@ Actuará como Presidente del Comité el representante de la Subsecretaría de Pr
 
 #### Artículo 15
 
-Conjuntamente con la designación de cada una de las personas a que se refiere el inciso primero del artículo precedente, deberá también designarse un miembro suplente, quien reemplazará al respectivo titular en caso de ausencia o impedimento temporal de éste, con excepción del Presidente de la Comisión de Usuarios del Sistema de Pensiones, respecto del cual actuará en su reemplazo el Vicepresidente de dicha comisión.
+Conjuntamente con la designación de cada una de las personas a que se refiere el inciso primero del artículo precedente, deberá también designarse un miembro suplente, quien reemplazará al respectivo titular en caso de ausencia, impedimento temporal o interés personal según lo dispuesto en el artículo 17º, con excepción del Presidente de la Comisión de Usuarios del Sistema de Pensiones, respecto del cual actuará en su reemplazo el Suplente, designado en conformidad al inciso segundo del artículo 2º, del decreto supremo Nº 29, de 17 de junio de 2008, del Ministerio del Trabajo y Previsión Social.
 
 #### Artículo 16
 
@@ -114,9 +120,11 @@ Los integrantes del Comité, con excepción del Presidente de la Comisión de Us
 
 #### Artículo 17
 
-Los miembros del Comité no podrán intervenir en un concurso en que tengan interés personal o en que lo tengan su cónyuge, sus hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive. Asimismo, no podrán participar en decisiones en que exista cualquier circunstancia que les reste imparcialidad.
+Una vez que los integrantes del Comité de Selección conozcan la nómina de los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones, deberán declarar que no tienen interés personal en cualquiera de ellos, o que no lo tienen su cónyuge, hijos, o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, y que no existen circunstancias objetivas que le resten imparcialidad a su evaluación. Para los efectos antes indicados, los miembros del Comité de Selección deberán suscribir una declaración jurada simple en la cual se señale expresamente que no les afectan las circunstancias indicadas anteriormente.
 
-Presentada la implicancia a que se refiere el inciso precedente, los representantes de los organismos públicos que forman parte del Comité deberán ponerla en conocimiento del jefe superior del organismo que representan. En el caso del representante de la Comisión de Usuarios del Sistema de Pensiones, la implicancia correspondiente deberá comunicarse al Subsecretario de Previsión Social. Comunicada la implicancia correspondiente, asumirá inmediatamente en funciones el respectivo suplente.
+En caso contrario deberán inhibirse de participar en la evaluación de todos los proyectos del respectivo concurso público; y serán reemplazados por sus suplentes designados inicialmente. En caso que algún miembro suplente representante de los organismos públicos se encuentre en las circunstancias señaladas en el inciso precedente se deberá nombrar nuevo representante en cumplimiento de lo señalado en el artículo 14º del presente Reglamento.
+
+En la eventualidad que el Presidente de la Comisión de Usuarios del Sistema de Pensiones, se encuentre en alguna de las circunstancias descritas anteriormente, aplica lo indicado en el artículo 15º. Si lo mismo ocurre respecto del Suplente del Presidente de la Comisión de Usuarios del Sistema de Pensiones, la misma Comisión deberá adoptar un acuerdo escrito en que conste el nombramiento de otro integrante titular o suplente, quien la representará ante el Comité de Selección del Fondo para la Educación Previsional.
 
 #### Artículo 18
 
@@ -134,47 +142,35 @@ Las decisiones del Comité de Selección se adoptarán por la mayoría absoluta 
 
 #### Artículo 21
 
-La propuesta de adjudicación de los recursos del Fondo que haga el Comité a la Subsecretaría de Previsión Social deberá ser fundada. De dicha propuesta se levantará acta firmada por los miembros del Comité que hayan concurrido al respectivo acuerdo, la que será certificada por su Presidente.
+La propuesta de adjudicación de los recursos del Fondo que haga el Comité de Selección a la Subsecretaría de Previsión Social, tendrá un orden decreciente de acuerdo a los puntajes obtenidos por cada proyecto, y deberá ser fundada en los criterios señalados en el artículo 22º del presente Reglamento, y los contemplados en las Bases del respectivo concurso público en conformidad a la normativa señalada.
 
 El acta deberá ser remitida por el Comité a la Subsecretaría de Previsión Social, dentro de los dos días hábiles siguientes a su certificación.
 
 #### Artículo 22
 
-Los criterios en virtud de los cuales se evaluarán los proyectos y los requisitos que éstos deberán cumplir, serán los siguientes:
+Las Bases de cada Concurso Público deberán contemplar los siguientes criterios y sus respectivas ponderaciones, conforme a los cuales se evaluarán los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones:
 
 I.- Criterios relativos a los adjudicatarios:
 
-a) Experiencia;
+a) Experiencia de la entidad en la ejecución de proyectos;
 
-b) Infraestructura;
+b) Idoneidad;
 
-c) Equipamiento;
+c) Solvencia económica;
 
-d) Idoneidad;
+d) Experiencia del equipo de trabajo, y
 
-e) Cumplimiento de la legislación laboral y previsional, en los términos que lo establezcan las respectivas bases;
+e) Conocimiento de la entidad ejecutora en la materia señalada.
 
-f) Entidad patrocinante, y
-
-g) Solvencia económica.
-
-II.- Criterios relativos a la focalización de los beneficiarios:
+II.- Criterios relativos a la identificación y caracterización de los beneficiarios:
 
 a) Nivel educacional;
 
 b) Situación previsional;
 
-c) Grupo etario;
+c) Género, y
 
-d) Grupo étnico;
-
-e) Tipo de trabajadores: dependientes o independientes;
-
-f) Género;
-
-g) Sector de la economía, y
-
-h) Ubicación territorial.
+d) Ubicación territorial.
 
 III.- Criterios relativos a los proyectos:
 
@@ -184,17 +180,41 @@ b) Objetivos;
 
 c) Metodologías;
 
-d) Beneficios del proyecto;
+d) Cobertura;
 
-e) Cobertura;
+e) Costo;
 
-f) Participación ciudadana contemplada en su formulación y ejecución;
+f) Tiempo de ejecución;
 
-g) Costo, y
+g) Plan de trabajo, y
 
-h) Tiempo de ejecución.
+h) Instrumentos de evaluación pertinentes a los requerimientos señalados en las Bases.
 
-Las bases del respectivo concurso señalarán la ponderación que se dará a los criterios a que se refiere el inciso precedente.
+Además, la Subsecretaría de Previsión Social podrá incluir en las Bases de cada Concurso Público uno o más de los siguientes criterios, con sus respectivas ponderaciones:
+
+I.- Criterios relativos a los adjudicatarios:
+
+f) Infraestructura;
+
+g) Equipamiento;
+
+h) Entidad patrocinante; entendiéndose por tal la persona natural o jurídica con experiencia, conocimiento, redes de colaboración, capacidad económica o cualquier otro elemento que adicione eficiencia, calidad o garantía en el diseño, la planificación y ejecución de un proyecto determinado.
+
+II.- Criterios relativos a la identificación y caracterización de los beneficiarios:
+
+e) Grupo etario;
+
+f) Grupo étnico;
+
+g) Tipo de trabajadores: dependientes o independientes;
+
+h) Sector de la economía;
+
+III.- Criterios relativos a los proyectos:
+
+i) Beneficios del proyecto;
+
+j) Participación ciudadana contemplada en su formulación y ejecución.
 
 ## Título IV
 
@@ -216,7 +236,7 @@ b) Objetivos del proyecto;
 
 c) Modalidades de entrega de los recursos y las condiciones para su utilización;
 
-d) Indicadores de medición del cumplimiento de los proyectos;
+d) Indicadores de medición de cumplimiento al finalizar las actividades del proyecto;
 
 e) Plan de presentación de estados de avance y de informe final;
 
@@ -225,6 +245,8 @@ f) Calendario de ejecución del proyecto;
 g) Garantías exigidas, y
 
 h) La autorización de parte del adjudicatario a la Subsecretaría de Previsión Social para la utilización, en el marco de sus objetivos institucionales, de la información previsional relativa a los beneficiarios y cualquiera otra que resulte relevante, obtenida en la ejecución del respectivo proyecto, programa, actividad o medida de promoción, educación y difusión del sistema de pensiones.
+
+i) Identificación de la región, provincia o comuna de residencia de los beneficiarios.
 
 #### Artículo 25
 
@@ -240,7 +262,7 @@ La entrega de recursos financieros a los adjudicatarios del Fondo se efectuará 
 
 #### Artículo 27
 
-Quienes reciban recursos de la Subsecretaría de Previsión Social por concepto de ejecución de proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones deberán rendir cuenta documentada a dicha Subsecretaría de la inversión de los mismos.
+Quienes reciban recursos de la Subsecretaría de Previsión Social por concepto de ejecución de proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones, deberán rendir cuenta a dicha Subsecretaría de la ejecución de los recursos.
 
 ## Título VI
 
@@ -254,7 +276,7 @@ Para tal efecto, la Subsecretaría de Previsión Social deberá velar por que lo
 
 #### Artículo 29
 
-La Subsecretaría de Previsión Social mantendrá un archivo de los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones que hayan sido adjudicados de conformidad a lo dispuesto en el presente reglamento, el que se encontrará disponible para el público.
+La Subsecretaría de Previsión Social mantendrá un archivo de los proyectos, programas, actividades y medidas de promoción, educación y difusión del sistema de pensiones que hayan sido adjudicados de conformidad a lo dispuesto en el presente reglamento, el que se encontrará disponible para el público conforme lo señala la normativa vigente sobre Acceso a la Información Pública, y sus respectivas limitaciones.
 
 #### Artículo 30
 
