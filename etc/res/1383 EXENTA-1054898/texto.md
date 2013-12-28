@@ -32,7 +32,7 @@ Considerando:
 
 Resolución:
 
-1. Apruébase la 3ª nómina de Beneficiarios del Llamado para el desarrollo de proyectos del programa "Acondicionamiento Térmico del Polígono Javiera Carrera", de la comuna de Temuco, Región de la Araucanía, mes de agosto de 2013, que se detalla a continuación:
+1. Apruébase la 3ª nómina de Beneficiarios del Llamado para el desarrollo de proyectos del programa "Acondicionamiento Térmico del Polígono Javiera Carrera", de la comuna de Temuco, Región de la Araucanía, mes de septiembre de 2013, que se detalla a continuación:
 
 Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 1. de esta resolución, el nombre de cada postulante con su respectiva cédula de identidad.
 
