@@ -32,7 +32,7 @@ Resolución:
 
 1. Llámase a partir de la fecha de la presente resolución y hasta que se agoten los recursos y/o a más tardar el último día hábil del mes de diciembre de 2013, a postular de manera extraordinaria y en condiciones especiales al Título II del Programa Protección al Patrimonio Familiar regulado por el decreto supremo Nº 255 (V. y U.), de 2006.
 
-2. Los recursos consignados para la selección de los proyectos postulados en el llamado definido en el punto precedente ascienden a la suma de 300.000 UF, de los cuales 250.000 unidades de fomento serán destinadas a CVS y 50.000 unidades de fomento al Programa Regular.
+2. Los Recursos consignados para la selección de los proyectos postulados en el llamado definido en el punto precedente asciende a la suma de 282.000, de los cuales 232.000 Unidades de Fomento serán destinados a Condominios de Viviendas Sociales y 50.000 Unidades de Fomento al Programa Regular.
 
 3. Consecuentemente con lo establecido en el artículo 13) inciso segundo del DS Nº 255 (V. y U.), de 2006, sólo serán objeto del presente llamado las familias del sector Centinela I, de la comuna de Talcahuano, que habitan en los 33 edificios contenidos en los 11 lotes catastrados por la Seremi de Vivienda de la Región del Biobío, además de las familias de las comunas de Lota, Hualqui, Coronel, Ñiquén, Coihueco, Chillán, Chillán Viejo, Concepción, Chiguayante y Talcahuano que cuenten con proyectos ingresados al Serviu a más tardar el último día hábil del mes de diciembre de 2013, incluidos en tabla adjunta al punto 2 del memorándum Nº 339, de fecha 11.09.2013, del jefe del Departamento de Operaciones Habitacionales de Serviu Región del Biobío al Coordinador Regional de Desarrollo de Barrios de la misma Región, la cual forma parte integrante de la presente resolución.
 
@@ -62,7 +62,9 @@ a. El monto máximo al que podrá postular cada beneficiario será de 318 unidad
 
 b. Que en el caso de viviendas de valor histórico patrimonial se permita aumentar el subsidio base regular, según trama del artículo 7º del DS 255, de 2006, a un máximo de 100 unidades de fomento, y asignar un subsidio adicional de hasta 200 unidades de fomento, siempre que se aplique a la recuperación del patrimonio arquitectónico del inmueble, en los mismos términos y condiciones ya descritos. En relación al concepto por asistencia técnica, se autorice asignar un máximo de 18,5 unidades de fomento por beneficiario (7,5 UF según resolución 533 y 11 UF por productos adicionales);
 
-c. El Serviu Región Biobío podrá asignar subsidios adicionales con cargo al presente llamado a proyectos de carácter patrimonial, a solicitud del PSAT, previa evaluación y aprobación por parte del Departamento Técnico del citado Servicio;
+c. Las selecciones y asignaciones de subsidios señalados en el presente llamado será sancionadas mediante resoluciones del Serviu Región del Biobío. En el caso de asignaciones condicionadas conforme a la letra e) del presente Resuelvo, éstas se publicarán conforme al artículo 27 del DS Nº 255 (V. y U.) de 2006, sólo una vez subsanada su condicionalidad.
+
+El Serviu Región del Biobío, a solicitud del PSAT, podrá asignar subsidios adicionales con cargo al presente llamado a proyectos de carácter patrimonial, previa evaluación y aprobación por parte del Departamento Técnico del citado Servicio;
 
 d. Que tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble con declaración jurada simple, según formato provisto por Serviu Región del Biobío;
 
@@ -80,7 +82,9 @@ e. Las Carpetas del Proyecto de mejoramiento de la Vivienda, que contenga los an
 
 . En el caso de los proyectos de valor histórico patrimonial, deberán adjuntarse los productos señalados en la tabla inserta en el resuelvo Nº 7 de la presente resolución, según corresponda.
 
-f. Que el contrato de construcción indicado en la letra l) del artículo 21 del DS Nº 255 (V. y U.), de 2006, establezca como plazo máximo para el inicio de las obras de 30 días corridos, contados desde la fecha de emisión del Certificado de Subsidio consignada en éste;
+Los Proyectos técnicos que requieran permiso de edificación podrán ser aprobados cumpliendo sólo los requisitos señalados en el presente Resuelvo. En este último caso, las asignaciones de subsidio habitacional quedarán condicionadas a la obtención de dicho permiso, acto que no podrá ser posterior al 30 de abril del 2014.
+
+f. El plazo máximo de inicio de obras, establecido en el respectivo contrato de construcción será el indicado en la letra l) del artículo 21 del DS Nº 255 de (V. y U.), de 2006;
 
 g. Serviu tendrá un plazo máximo de 20 días para evaluar el proyecto, momento en que se deberán emitir las observaciones o dar la calificación. El PSAT contará con 5 días para subsanar las observaciones formuladas;
 
@@ -100,7 +104,7 @@ En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial se
 
 8. No obstante lo anterior, tratándose de Proyectos de Seguridad de la Vivienda que requieran de un especialista estructural, la intervención de instalaciones sanitarias, eléctricas o de gas y que requieran ser ejecutados por un profesional competente en la materia, se podrán incrementar con 1 unidad de fomento por beneficiario los montos indicados para el área Organización de la Demanda y Postulación de Proyectos.
 
-9. Los recursos que se comprometan a través de los subsidios otorgados mediante el llamado a que se refiere la presente resolución, serán imputados a los recursos autorizados a la Región del Biobío para el Programa de Protección del Patrimonial Familiar del año 2013, de los cuales 50.000 UF serán cargados al programa regular y 250.000 UF a los recursos destinados a la atención de Condominios de Viviendas Sociales.
+9. Los Recursos consignados para la selección de los proyectos postulados en el llamado definido en el punto precedente asciende a la suma de 282.000, de los cuales 232.000 Unidades de Fomento serán destinados a Condominios de Viviendas Sociales y 50.000 Unidades de Fomento al Programa Regular."
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Saavedra Burgos Secretario Regional Ministerial.
 
