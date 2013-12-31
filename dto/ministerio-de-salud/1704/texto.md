@@ -208,6 +208,20 @@ Transitorio.- El Personal de Enfermería regido por el decreto ley Nº 2.147, de
 
 - Certificado de idoneidad y evaluación del desempeño, otorgado por el profesional odontólogo a quien le conste el ejercicio de estas funciones por un período de al menos 6 meses, a fin de acreditar el tiempo requerido precedentemente
 
+#### Artículo 3º
+
+transitorio: Durante el plazo de dos años, contados desde la entrada en vigencia de esta norma, las personas que se han desempeñado, en forma continua o discontinua, durante tres años en labores de apoyo en el área de farmacia, alimentación, radiología, laboratorio o banco de sangre, sin contar con título habilitante otorgado por una entidad de educación o conforme al artículo 6º de este reglamento, podrán obtener autorización para ejercer como auxiliar paramédico en su respectiva área de desempeño, previa aprobación de un examen de competencia rendido ante la Autoridad Sanitaria, el cual se ceñirá a la pauta de evaluación que establezca el Ministerio de Salud, y la presentación de los siguientes documentos:
+
+- Licencia de Enseñanza Media académica o laboral.
+
+- Certificado de evaluación y desempeño favorable, otorgado por el Director Técnico del establecimiento en que trabaja, o jefe de servicio respectivo a quien le conste el ejercicio de dichas funciones durante, al menos, seis meses.
+
+- Certificados de capacitación en el ámbito de su desempeño, si los tuviere.
+
+#### Artículo 4º
+
+transitorio: Durante el período señalado en el artículo anterior, el personal que tuviere un título de técnico de nivel superior en enfermería, de técnico de nivel medio en atención de enfermería o certificado de competencia como auxiliar paramédico de enfermería otorgado por la Autoridad Sanitaria, que desempeñe funciones de auxiliar paramédico en el área de farmacia, alimentación, radiología, laboratorio o banco de sangre, podrá obtener el certificado de competencia conferido por la Autoridad Sanitaria para ejercer como auxiliar paramédico en el área respectiva. Para ello deberá acreditar su desempeño en esa calidad durante un lapso de tres años continuos o discontinuos, presentar un certificado de idoneidad y evaluación de desempeño otorgado por el Director Técnico del establecimiento en que trabaja o del jefe de servicio respectivo a quien le conste el ejercicio de dichas funciones durante, al menos, seis meses y certificados de capacitación en el ámbito de su desempeño, si los tuviere.
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Dr. Julio Montt Momberg, Ministro de Salud.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Fernando Muñoz Porras, Subsecretario de Salud.
