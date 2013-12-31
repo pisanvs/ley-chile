@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.681, de 23 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes de relocalización concesión de acuicultura números 210110088 sector 0, 212122080, 211110035 y 211110003, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 23 de diciembre de 2013.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
