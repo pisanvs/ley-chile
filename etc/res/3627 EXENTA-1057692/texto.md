@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.627, de 20 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 209121044, 210110061, 209106015 y 209103017, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 20 de diciembre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
