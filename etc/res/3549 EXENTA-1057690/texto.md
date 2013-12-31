@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.549, de 20 de diciembre de 2013, de esta Subsecretaría, modifícase los numerales 1.- de las resoluciones exentas Nos 21, 289 y Nº 305, todas de 2013, en el sentido de señalar que la distribución de la fracción artesanal de la pesquería artesanal de Merluza común correspondiente a la VII Región, se incrementará en los siguientes montos:
+
+Cuota Residual (Bolsón) RAE Organización VII Sur: 1,845 toneladas; S.T.I. Pescadores artesanales y buzos mariscadores Puerto Maguillines RAE Organización VII Sur: 51,649 toneladas; S.T.I. de buzos y pescadores artesanales y acuicultores Mataquito de la Pesca RAE Organización VII Norte 2: 18,111 toneladas; Embarcación "Santa María III": 0,922 toneladas; Embarcación "Bay Watch I": 0,922 toneladas; Embarcación "Blanco Encalada": 0,922 toneladas; Embarcación "Gerson I": 0,922 toneladas, Embarcación "Halcón IV": 0,922 toneladas; Embarcación "Lolito Pelluhuano II": 0,922 toneladas; Embarcación "Rompe Ola": 0,922 toneladas; Embarcación "Vida Marina III": 0,922 toneladas, Embarcación "Tiburón VII": 0,922 toneladas.
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
