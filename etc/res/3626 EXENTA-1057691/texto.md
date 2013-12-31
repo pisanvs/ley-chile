@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.626, de 20 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 211121041, 211122113, 211122121, 211122129, 211122117, 211121071, 211121053, 211121072, 212122051, 212121021 y 212121020, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2013.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
