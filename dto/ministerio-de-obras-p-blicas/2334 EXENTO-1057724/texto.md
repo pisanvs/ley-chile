@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2334, de 17 de diciembre de 2013, se modificó el numeral segundo del Decreto MOP. (Exento) Nº2028, de 20 de noviembre de 2013, a fin de individualizar correctamente el lote de terreno Nº28-A, ubicado en la comuna de Lago Ranco, que figura a nombre de MILANCA TRIPAYAN JUANA ROSA, rol de avalúo 63-182, superficie 1.152 m2., expropiado con motivo de la obra "Mejoramiento Ruta T-85, Varios Tramos en Lago Ranco - Calcurrupe" (Tramo II, Nilahue - Calcurrupe), XIV Región.
+
+Fiscal del Ministerio de Obras Públicas.
