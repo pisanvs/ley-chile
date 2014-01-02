@@ -56,6 +56,8 @@ Para los efectos de esta ley, las municipalidades llevarán un registro público
 
 De igual modo, las municipalidades llevarán un registro público de las directivas de las juntas de vecinos, de la unión comunal de juntas de vecinos y de las demás organizaciones comunitarias, como, asimismo, de la ubicación de sus sedes o lugares de funcionamiento.
 
+Será obligación de las municipalidades enviar al Servicio de Registro Civil e Identificación, semestralmente, y para efectos de mantener actualizado el Registro Nacional de Personas Jurídicas sin Fines de Lucro, una copia con respaldo digital de los registros públicos señalados en los incisos primero y segundo de este artículo.
+
 Asimismo, será obligación de las municipalidades mantener copia actualizada y autorizada anualmente del registro a que se refiere el artículo 15.
 
 La municipalidad deberá otorgar, a quienes lo soliciten, copia autorizada de los estatutos, de las inscripciones y demás anotaciones practicadas en los registros públicos de organizaciones y directivas previstos en este artículo, las que serán de costo del solicitante.
@@ -550,7 +552,7 @@ d) Promover y colaborar con las autoridades correspondientes en la observancia d
 
 e) Velar por la protección del medio ambiente y de los equilibrios ecológicos.
 
-f) Ser autorizadas para emitir certificados de residencia, de acuerdo con las normas establecidas por los organismos que correspondan, para los efectos de esta ley.
+f) Emitir certificados de residencia, siéndole aplicable al requirente que faltare a la verdad en cuanto a los datos proporcionados al efecto, las sanciones contempladas en el artículo 212 del Código Penal.
 
 g) Servir como órganos informativos a la comunidad vecinal sobre materias de utilidad pública.
 
