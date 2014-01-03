@@ -16,7 +16,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Modifícase el cuadro de períodos de descanso sanitario contenido en la letra a) del artículo primero de la resolución exenta N° 3.128 de este Servicio, citada en Vistos, en el siguiente sentido: al cuerpo de agua lago Natri le corresponde el período de descanso comprendido entre el 16 de julio y el 16 de agosto de 2013.
+Modifícase el cuadro de períodos de descanso sanitario contenido en la letra a) del artículo primero de la resolución exenta N° 3.128 de este Servicio, citada en Vistos, en el siguiente sentido: al cuerpo de agua lago Natri le corresponde el período de descanso comprendido entre el 7 de enero al 7 de febrero de 2014.
 
 #### Artículo segundo
 
