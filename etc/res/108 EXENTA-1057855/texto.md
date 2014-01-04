@@ -1,0 +1,7 @@
+FIJA VALORES DE TERRENOS Y CONSTRUCCIONES, Y DEFINICIONES TÉCNICAS PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA CON DESTINO HABITACIONAL Y LOS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS ÁREAS URBANAS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 108, del 27 de diciembre de 2013, que fija valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de la segunda serie no agrícola con destino habitacional, incluidos estacionamientos y bodegas correspondientes a conjuntos habitacionales acogidos a la ley Nº 19.537 sobre Copropiedad Inmobiliaria y los correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas; estos dos últimos informados por la municipalidad respectiva.
+
+Para efectos de aplicar el reavalúo de estos bienes raíces a contar del 1º de enero de 2014, se han fijado los valores de terreno y los valores unitarios de construcción para cada comuna del país, de acuerdo a lo señalado en los artículos 3º y 4º de la ley Nº 17.235, sobre Impuesto Territorial.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet, www.sii.cl, y se incluirá en el Boletín del SII, correspondiente al mes diciembre de 2014.
