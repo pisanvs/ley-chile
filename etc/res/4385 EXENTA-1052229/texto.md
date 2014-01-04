@@ -14,7 +14,7 @@ Considerando: Que existen familias en la Región del Biobío que presentan una u
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región del Biobío para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para la Región del Biobío, por un monto total de 225.000 unidades de fomento.
+1. Autorízase a la Secretaría Regional Ministerial de la Región del Biobío para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para la Región del Biobío, por un monto total de 216.306 unidades de fomento.
 
 2. Permítase a la Secretaría Regional Ministerial de la Región del Biobío, y solo para el llamado autorizado en el numeral precedente, modificar y/o definir mediante resoluciones fundadas, condiciones diferentes a las establecidas en el DS Nº 49 (V. y U.), de 2011, sin perjuicio que no se podrán modificar las indicadas en la presente resolución.
 
@@ -28,7 +28,7 @@ Asimismo y hasta la misma fecha, los proyectos asociados a los grupos postulante
 
 6. Mediante resolución de la Secretaría Regional Ministerial de la Región del Biobío, que se deberá publicar en el Diario Oficial, se aprobará la nómina de grupos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-7. Impútase el monto total de 225.000 unidades de fomento asignado en esta resolución, a los recursos autorizados a la Región del Biobío, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
+7. Impútase el monto total de 216.306 unidades de fomento asignado en esta resolución, a los recursos autorizados a la Región del Biobío, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
 
 Anótese, comuníquese, publíquese y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
