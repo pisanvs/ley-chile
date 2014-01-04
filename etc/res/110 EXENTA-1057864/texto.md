@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 110, de 30 de diciembre de 2013, que autoriza a las Instituciones sin fines de lucro, Comunidad Terapéutica Horizonte, RUT Nº 65.053.320-8; Corporación Comunidad Terapéutica Cristo, RUT Nº 65.071.555-1; Fundación Cristo Especial, RUT Nº 65.063.655-4; Fundación Humaniza, RUT Nº 65.062.466-1; Organización No Gubernamental de Desarrollo Corporación de Apoyo al Desarrollo Autogestionado Grada, RUT Nº 73.102.600-9; Corporación de Emprendimiento Social y Acogida Mañana, RUT Nº 65.056.976-8, y Fundación de Beneficencia Aldea de Niños Cardenal Raúl Silva Henríquez, RUT Nº 71.404.100-2, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2013.
