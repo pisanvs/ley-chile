@@ -132,8 +132,6 @@ Sobre Proceso de Obtención de Matrículas
 
 Podrán postular a la obtención de las diferentes matrículas de buceo, los chilenos que cumplan con los requisitos indicados en el artículo 303 del presente Reglamento.
 
-> **Nota.** El artículo transitorio del Decreto 143, Defensa, publicado el 14.08.2024, incorporado por el Decreto 222, Defensa, publicado el 30.09.2024, dispone que la modificación dispuesta por el Nº 1 de la citada norma al presente artículo entrará en vigencia una vez publicadas las actualizaciones de la reglamentación institucional que sistematizará los procedimientos de acreditación de requisitos para la obtención de las matrículas de buceo profesional para chilenos y extranjeros, lo que deberá efectuarse dentro del plazo de dos años a contar de la publicación del referido decreto 143. En razón de lo anterior, la presente disposición contiene el texto anterior a dicha modificación que fue incorporado por el numeral 11 del artículo único del Decreto 11, Defensa, publicado el 24.03.2005.
-
 #### Artículo 302
 
 Las solicitudes de los postulantes que deseen obtener matrícula, serán presentadas a la autoridad marítima local. Las correspondientes a Buzo Mariscador y Contratista de Buzos Mariscadores, serán tramitadas y otorgadas localmente. Las correspondientes a Supervisor de Buceo, Buzo Especialista, Buzo Comercial, Buzos Instructores, Contratistas de Buzos Especialistas y Buzos Comerciales, serán elevadas por la Gobernación Marítima respectiva a la Dirección General para su control y otorgamiento donde se llevará el control de éstos.
@@ -197,8 +195,6 @@ Contratista de Buzo Min. 18 años
 Supervisor de Buceo: Min. 21 años
 
 i) Los postulantes a las matrículas de Buzo Instructor deberán tener como mínimo 5 años de experiencia, lo que se acreditará mediante la matrícula de Buzo Comercial o de Buzo Especialista, la que tendrá que haber estado vigente sin interrupción en este lapso.
-
-> **Nota.** El artículo transitorio del Decreto 143, Defensa, publicado el 14.08.2024, incorporado por el Decreto 222, Defensa, publicado el 30.09.2024, dispone que la modificación dispuesta por el Nº 2 de la citada norma al presente artículo entrará en vigencia una vez publicadas las actualizaciones de la reglamentación institucional que sistematizará los procedimientos de acreditación de requisitos para la obtención de las matrículas de buceo profesional para chilenos y extranjeros, lo que deberá efectuarse dentro del plazo de dos años a contar de la publicación del referido decreto 143. En razón de lo anterior, la presente disposición contiene el texto anterior a dicha modificación como resultado de la modificación incorporada por el artículo único del Decreto 545, Defensa, publicado el 24.10.2013.
 
 #### Artículo 304
 
