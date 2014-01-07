@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.768, de 30 de diciembre de 2013, de esta Subsecretaría, recházanse las solicitudes números 213031003, 213031004, 213031006, 213031005, 213031007, 213042001 y 212122090, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 10 c) y 14 a) del DS. Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 30 de diciembre de 2013. Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
