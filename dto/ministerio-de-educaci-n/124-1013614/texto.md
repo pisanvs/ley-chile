@@ -16,11 +16,11 @@ Decreto:
 
 Desígnanse a contar de esta fecha, a las personas que se indican a continuación como integrantes del Consejo Directivo del Comité Innova Chile:
 
-1.- José Miguel Aguilera Radic, (RUT Nº 5.122.132-K), representando a la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt).
+1.- Don Mateo Fernando Budinich Diez, RUN Nº 6.522.204-2, representando a la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt).
 
 Como primer suplente a doña María Elena Boisier Pons (RUT Nº 7.251.296-0).
 
-Como segundo suplente a don Gonzalo Herrera Jiménez (RUT Nº 6.372.298-7).
+Don Gonzalo Andrés Jordan Fresno, RUN Nº 3.560.524-K, como segundo suplente.
 
 2. 1.- Don Alberto Arturo Vásquez Tapia, RUN Nº 6.070.115-6, representando al Ministerio de Educación.
 
