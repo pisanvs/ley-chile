@@ -16,13 +16,13 @@ Decreto:
 
 #### Artículo 1º
 
-Reglaméntase el Programa Presupuestario radicado en la Partida 09, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 617, Glosa 13 de la Subsecretaría de Educación, denominado: "Programa de Educación Rural", en adelante el Programa, destinado a financiar todo tipo de gastos para otorgar asistencia técnico pedagógica a los establecimientos educacionales del sector rural regidos por el D.F.L. de Educación Nº 2, de 1998, y por el decreto ley Nº 3.166, de 1980, mediante la elaboración de estrategias, orientaciones y herramientas para el mejoramiento de la enseñanza aprendizaje; la superación del aislamiento de los establecimientos educacionales, en particular de las escuelas rurales uni, bi y tridocentes, de las escuelas agrupadas en microcentros, de los cursos combinados y de las escuelas rurales completas.
+Reglaméntase el Programa Presupuestario radicado en la Partida 09, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 617, Glosa 13 de la Subsecretaría de Educación, denominado: "Programa de Educación Rural", en adelante el Programa, destinado a financiar todo tipo de gastos para ofrecer orientación y apoyo educativo a los establecimientos educacionales del sector rural regidos por el D.F.L. de Educación Nº 2, de 1998, y por el decreto ley Nº 3.166, de 1980, mediante la elaboración de orientaciones, estrategias y herramientas para el mejoramiento de la enseñanza aprendizaje; la superación del aislamiento de los establecimientos educacionales, en particular de las escuelas rurales uni, bi y tridocentes, de las escuelas agrupadas en microcentros, de los cursos combinados y de las escuelas rurales completas.
 
 Se entenderá por establecimiento rural el definido conforme al artículo 12 del D.F.L. de Educación Nº 2, de 1998.
 
 #### Artículo 2º
 
-El objetivo del Programa es mejorar la calidad de la educación que reciben los niños, niñas y jóvenes que estudian en los establecimientos educacionales rurales, cautelando el cumplimiento de las exigencias del currículum nacional y promoviendo la constitución de redes de colaboración y participación de los miembros de las comunidades educativas de los establecimientos rurales.
+El objetivo del Programa es mejorar la calidad de la educación que reciben los niños, niñas y jóvenes que estudian en los establecimientos educacionales rurales, cautelando el cumplimiento de las exigencias del currículum nacional y promoviendo la constitución y funcionamiento de redes de colaboración y participación de los miembros de las comunidades educativas de los establecimientos rurales.
 
 #### Artículo 3º
 
@@ -30,17 +30,17 @@ El Programa conformará mesas de expertos en educación para asesorar en la form
 
 #### Artículo 4º
 
-El Programa desarrollará acciones de Gestión Curricular, destinadas a garantizar en los establecimientos rurales el cumplimiento de las exigencias del currículum nacional en lo que respecta a la enseñanza en todos los sectores de aprendizaje, para lo cual levantará información sobre la cobertura curricular en la enseñanza rural; elaborará y difundirá orientaciones técnico pedagógicas sobre planificación de la docencia para directivos y docentes rurales y prestará asesoría técnico pedagógica sobre buenas prácticas de enseñanza en aula a directivos y docentes de establecimientos rurales.
+El Programa desarrollará acciones de Gestión Curricular, destinadas a garantizar en los establecimientos rurales el cumplimiento de las exigencias del currículum nacional en lo que respecta a la enseñanza de las asignaturas, para lo cual levantará información sobre la cobertura curricular en la enseñanza rural; elaborará y difundirá orientaciones técnico pedagógicas sobre planificación de la docencia para directivos y docentes rurales producirá y distribuirá materiales didácticos correspondientes y prestará asesoría técnico pedagógica sobre buenas prácticas de enseñanza en aula a directivos y docentes de establecimientos rurales.
 
 #### Artículo 5º
 
 El Programa desarrollará acciones de gestión y liderazgo, destinadas a generar la articulación de los establecimientos rurales en redes de colaboración, a fin de favorecer el intercambio de experiencias exitosas, de capacidades técnico pedagógicas y materiales educativos y planificar en conjunto las iniciativas de mejoramiento educativo. Asimismo, promoverá la participación organizada de los miembros de la comunidad educativa de cada establecimiento rural.
 
-Para lo anterior promoverá la constitución y funcionamiento de redes de establecimientos educativos rurales, ofrecerá asistencia técnico pedagógica sobre la elaboración y ejecución de los planes de mejoramiento educativo a los establecimientos rurales y sus redes de colaboración y apoyará la constitución y funcionamiento de instancias de participación de los miembros de la comunidad educativa de tales establecimientos educacionales.
+Para lo anterior promoverá la constitución y funcionamiento de redes de establecimientos educativos rurales, ofrecerá asistencia técnico pedagógica sobre la elaboración y ejecución de los planes de mejoramiento educativo a los establecimientos rurales y sus redes de colaboración y apoyará la constitución y funcionamiento de instancias de participación de los miembros de la comunidad educativa de tales establecimientos educacionales y dispondrá oportunidades para el intercambio de experiencias pedagógicas significativas para promover el desarrollo de estrategias de mejoramiento de los aprendizajes.
 
 #### Artículo 6º
 
-Un ámbito de acción de este programa será procurar que la legislación general de los establecimientos educacionales considere las peculiaridades de los diversos tipos de escuelas que se hallan ubicadas en los territorios rurales según la composición de sus comunidades educativas, proponiendo las adecuaciones y modificaciones que resulten pertinentes, entre otros, para la constitución y funcionamiento de los Consejos Escolares y los Centros de Padres y de Alumnos.
+Un ámbito de acción de este programa será procurar que la legislación general de los establecimientos educacionales considere las peculiaridades de los diversos tipos de escuelas que se hallan ubicadas en los territorios rurales según su estructura de cursos y de gestión según la composición de sus comunidades educativas, proponiendo las adecuaciones y modificaciones que resulten pertinentes, entre otros, para la constitución y funcionamiento de los Consejos Escolares y los Centros de Padres y de Alumnos.
 
 #### Artículo 7º
 
