@@ -26,6 +26,10 @@ SEGUNDO ORDEN DE SUBROGANCIA:
 
 Angélica Sánchez Álvarez, RUN Nº 8.248.540-6, grado 6° de la EUS, Planta de Profesionales.
 
+TERCER ORDEN DE SUBROGANCIA:
+
+Ercio Gómez Zepeda, grado 11º de la EUS, Planta de Profesionales.
+
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Joaquín Lavín Infante, Ministro de Planificación.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., M. Soledad Arellano Schmidt, Subsecretaria de Planificación.
