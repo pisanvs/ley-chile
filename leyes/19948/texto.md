@@ -18,7 +18,7 @@ Para los efectos de hacer valer la presunción a que se refiere el inciso preced
 
 #### Artículo 3º
 
-El bloqueo de una cédula de identidad o de un pasaporte puede solicitarse de manera definitiva o temporal.
+El bloqueo de una cédula de identidad puede solicitarse de manera definitiva o temporal. Respecto del pasaporte sólo procederá el bloqueo definitivo.
 
 La solicitud de bloqueo definitivo es la efectuada por el titular del documento, ante cualquier oficina del Servicio de Registro Civil e Identificación y deberá contener:
 
