@@ -152,7 +152,7 @@ Los representantes participarán con derecho a voz y voto en el Consejo, emitien
 
 <!-- parte:9308583 -->
 
-Será eliminado como Representante del Consejo, aquel miembro del mismo que sin motivo justificado deje de asistir a tres reuniones consecutivas.
+Aquel miembro del Consejo que, sin motivo justificado, deje de asistir a dos reuniones consecutivas, será notificado en relación a que manifieste si continuará o no como miembro del mismo.
 
 ## Título III
 
