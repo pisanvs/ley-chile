@@ -48,6 +48,8 @@ i) Los postulantes al presente llamado especial acreditarán dominio, sea a tít
 
 j) Podrán postular al presente llamado especial, quienes tengan la calidad de familia unipersonal, aunque no cumplan con las condiciones señaladas en los números 1 al 6 de la letra g) del artículo 15 del DS Nº 49 (V. y U.) de 2011.
 
+k) Exímase a los postulantes del presente llamado de presentar la declaración de ingreso del grupo familiar, contemplado en el artículo 14 del DS Nº 49 de V. y U., de 2011.
+
 3. Las familias que resulten beneficiadas se podrán asociar a proyectos de viviendas certificadas por el Serviu, según los estándares establecidos en la resolución exenta Nº 791 (V. y U.), de 2011, y sus modificaciones, que Llama a Concurso en Condiciones Especiales para Construcción de Viviendas en Sitio Propio con Proyecto Tipo para el Programa Fondo Solidario de Vivienda. Estos proyectos deberán ser ingresados en el Banco de Proyectos del Serviu, debiendo cumplir con su correspondiente aprobación técnica, para ser adscritos por las familias beneficiadas por la presente resolución.
 
 4. Las postulaciones se cursarán en forma individual y las familias a seleccionar deberán estar ingresadas al Sistema Informático Umbral, habiendo completado e ingresado a Serviu toda la documentación correspondiente, la que una vez revisada y conforme, las califica como postulantes hábiles para este llamado.
