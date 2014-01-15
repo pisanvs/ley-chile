@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto número 307, del Ministerio de Obras Públicas, de fecha 18 de noviembre de 2013, íntegramente tramitado el 13 de diciembre de 2013, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender un área denominada "Varios Sectores" de la comuna de Punta Arenas, XII Región de Magallanes y Antártica Chilena.
+
+La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas, corresponderá a un área de aproximadamente 50 hectáreas, que se encuentra identificada y delimitada en el plano denominado "Ampliación Territorio Operacional de A.P y AA.SS Punta Arenas Varios Sectores de Punta Arenas", del Plan de Desarrollo, que forma parte integrante del presente decreto. En el primer establecimiento (año 2018), se consulta dar servicio a 524 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que se mantendrá hacia el final del periodo (año 2028) en ambos casos.
+
+El servicio público de producción de agua potable para el sistema de Punta Arenas, que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1. letra a), de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión, documentos que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en la ampliación, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC 12-02 A, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 18 de diciembre de 2013, en la 27ª Notaría de Santiago de don Eduardo Avello Concha y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC 12-02 A.- Santiago, 31 de diciembre de 2013.
+
+Gabriel Zamorano Seguel, Superintendente de Servicios Sanitarios (S).
