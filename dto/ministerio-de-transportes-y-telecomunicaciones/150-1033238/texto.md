@@ -832,6 +832,18 @@ Presupuesto y ejecución del Subprograma
 
 FINANCIAMIENTO
 
+Inversiones
+
+.
+
+Fuentes de Financiamiento
+
+El Plan Trienal de Inversiones se financia mediante Aportes Fiscales, Endeudamiento con 100% Garantía del Estado, Venta de Activos y Convenios al amparo de la Ley Nº 20.378.
+
+.
+
+(*): Otras fuentes: Fondos provenientes de recuperación de impuesto sobre inversiones y otros.
+
 5. PROGRAMA PROYECTO RANCAGUA EXPRESS
 
 El análisis de integración de trenes metropolitanos con el sistema de transporte público de Santiago, ya tuvo un análisis de nivel estratégico que mostró su bondad en términos de rentabilidad social y además dimensionó los efectos a nivel financiero derivados de la integración (estudio SDG: Evaluación Expost Servicios de Pasajeros Suburbanos EFE, Merval, Biotren y Metrotren, año 2009).
@@ -1044,11 +1056,73 @@ Confiabilidad
 
 » Considera vía férrea adicional para carga.
 
+6. PROGRAMA NUEVOS PROYECTOS AUMENTO PASAJEROS
+
+De acuerdo a los lineamientos del plan estratégico de EFE, que tienen relación con el crecimiento en el transporte de pasajeros suburbanos, se han realizados los estudios necesarios para desarrollar proyectos con los cuales se espera llegar a transportar cerca de 100 millones de pasajeros al año 2020.
+
+A continuación se presenta el resumen de inversiones del programa.
+
+.
+
+6.1 Aumento de frecuencia Concepción - Lomas Coloradas
+
+El servicio ferroviario actualmente permite realizar el viaje entre Lomas Colorada - Concepción en 26 minutos, presentando ventajas competitivas respecto a los tiempos de viaje de los buses del transporte público. Con el proyecto, los tiempos de viaje del tren bajarán a 22 minutos y mejorará la cobertura con la construcción de un nuevo paradero, con frecuencias cada 18 minutos.
+
+Para enfrentar la problemática del aumento de la frecuencia se decidió lo siguiente:
+
+Generar desvíos: Esta alternativa consiste en generar desvíos que permitan operar en bloques más pequeños, mejorando la ocupación de la vía, permitiendo frecuencias de 4 trenes cada 72 minutos.
+
+El plan de inversiones asociado a este subprograma es:
+
+.
+
+6.2 Proyecto Extensión a Coronel
+
+El proyecto consiste en la extensión del servicio de trenes de FESUB hasta la comuna de Coronel, para lo cual se realizó un estudio en que se evaluó la rentabilidad social del proyecto de acuerdo a los lineamientos metodológicos establecidos en los instrumentos vigentes de evaluación social de proyectos de inversión del Ministerio de Desarrollo Social. El plan de inversiones asociado a este subprograma es:
+
+.
+
+6.3 Adquisición Material Rodante Merval.
+
+En el curso de sus siete años de operaciones, Metro Valparaíso ha visto cómo su demanda ha ido copando la oferta de muchas de sus componentes. La velocidad con que se ha desarrollado esta situación obliga a la empresa a plantearse la ampliación de su capacidad de transporte.
+
+Con la estructura actual el sistema en operación es capaz de transportar un máximo de 73 mil pasajeros al día, lo que se hace crítico considerando que la demanda actual de Metro Valparaíso en un día laboral normal bordea los 70 mil pasajeros.
+
+En este momento se está trabajando en la actualización del sistema de control de tráfico, que permitirá, a partir del año 2014, reducir a 3 minutos el intervalo entre trenes. Si en las horas punta se operara en el sentido más cargado con breves ráfagas a intervalos de 3 minutos en el bucle corto, la capacidad de la flota aumentaría a 80.000 pasajeros/día. A raíz del crecimiento previsto de la demanda y la incorporación de combinaciones Bus + Metro en seis nuevas estaciones, el año 2015 se superará la cifra de 80.000 pasajeros diarios, lo que el sistema actual es incapaz de transportar.
+
+El plan de inversiones asociado a este subprograma es:
+
+.
+
+6.4 Adquisición Material Rodante TMSA.
+
+El proyecto "Construcción de Servicio Ferroviario de Pasajeros Santiago - Rancagua" contempla, entre otras inversiones, la adquisición de 16 nuevos trenes para operar los dos servicios ferroviarios: Santiago - Nos y Santiago - Rancagua. Con cargo a dichos recursos EFE ya adquirió 12 de los 16 nuevos equipos, 8 para operar Santiago - Nos y sólo 4 de los ocho necesarios para operar Santiago - Rancagua.
+
+Por lo tanto, el presente proyecto considera los recursos necesarios para completar la flota de 8 trenes nuevos para la operación del servicio Santiago - Rancagua. Este proyecto considera la compra de 4 trenes con su respectivo equipamiento, cada uno con una capacidad aproximada de 400 pasajeros, los cuales han de encontrarse operativos a partir del año 2015.
+
+La renovación del material rodante tiene como objetivo aumentar la capacidad de transporte de pasajeros de TMSA, permitiendo con ello el mejoramiento de los estándares de regularidad, rapidez, seguridad y comodidad, entregados actualmente a los usuarios de este servicio de transporte público suburbano. Esta iniciativa se ve potenciada al analizar la considerable disminución de los costos de operación producto de la renovación del material rodante, permitiendo operar durante todo el día con material rodante de última generación a menor costo.
+
+El plan de inversiones asociado a este subprograma es:
+
+.
+
+6.5 Proyecto Alameda - Malloco - Melipilla.
+
+El objeto del proyecto es habilitar un servicio de transporte público que sea considerado como una alternativa a los actuales servicios de buses que se encuentran en el corredor entre la Estación Central Alameda y Malloco, con un servicio de transporte ferroviario de pasajeros de alto estándar, para lo cual se realizó un estudio de prefactibilidad, en el que participó un equipo multidisciplinario tiderado por EFE.
+
+Dentro del contexto de este estudio, se desarrolló la Evaluación Social del Servicio de Transporte Ferroviario de Pasajeros en el corredor entre Alameda y Malloco, el que se sustenta en el trabajo realizado por un grupo calificado de consultores, donde cada uno desarrolla dentro del proyecto el ámbito que es de su competencia.
+
+El plan de inversiones asociado a este subprograma es:
+
+.
+
 > **Nota.** NOTA 1 El numeral 2 del Decreto 94, Transportes, publicado el 16.08.2012, modifica el cuadro inserto en el actual número 1.9, denominado Subprograma Protección de Cruces, en el sentido de eliminar la línea: "Desnivelación de Cruces de Línea Central", y asimismo, indica que las inversiones del subprograma "Protección de Cruces para 2011, 2012 y 2013 y total pasan a ser "2,10", "1,64"; "0,00"; y "3,74", respectivamente.
 
 > **Nota.** NOTA 2 El numeral 3 del Decreto 94, Transportes, publicado el 16.08.2012, modifica el cuadro inserto en la presente norma que establece el resumen de inversiones del "Programa Continuidad y Seguridad Operacional", en el sentido de eliminar la fila denominada "Confinamiento de vías"; reemplazando los valores para 2011, 2012, 2013 y total de la fila "Protección de cruces" por los siguientes "2,10", "1,64"; "0,00"; y "3,74", y asimismo, ordena reemplazar los valores 2011, 2012 y 2013 y total en la línea Total Continuidad y Seguridad Operacional por los siguientes "58,56", "45,07"; "37,24"; "140,87", respectivamente.
 
 > **Nota.** NOTA 3 El numeral 5 del Decreto 94, Transportes, publicado el 16.08.2012, modifica el cuadro inserto en el número 4 de la presente norma que indica las inversiones del "Programa Aumento del Transporte de Pasajeros", en el sentido de reemplazar los valores 2011, 2012 y 2013 y total en la línea "Total Aumento Transporte de Pasajeros" por los siguientes "10,28"; "9,69"; "0,17", y "20,13", respectivamente.
+
+> **Nota.** NOTA 4 Los numerales 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 del Decreto 149, Transportes, publicado el 16.01.2014, modifican el presente decreto de la forma que la citada norma indica.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pedro Pablo Errázuriz, Ministro de Transportes y Telecomunicaciones.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
