@@ -1,0 +1,5 @@
+Por resolución exenta Nº 41, de 9 de enero de 2014, de esta Subsecretaría, deniéganse las solicitudes C.I. Subpesca Nº 13.831, Nº 13.832, Nº 14.335 y Nº 14.543, todas de 2013, presentadas por el SINDICATO DE PESCADORES ARTESANALES, BOLINCHEROS Y RAMOS SIMILARES "PROVEEDORES MARINOS DE QUILLAIPE", por la ASOCIACIÓN GREMIAL DE PESCADORES ARTESANALES Y ARMADORES PELÁGICOS, y por el armador de la embarcación artesanal Kokaleca II, de participar en el Régimen Artesanal de Extracción por organización en la pesquería de Sardina austral en la X Región, en virtud de lo dispuesto en la parte considerativa de la presente resolución.
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 9 de enero de 2014.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
