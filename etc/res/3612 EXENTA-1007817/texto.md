@@ -1068,6 +1068,8 @@ A. Equipos
 
 La medición de oxígeno disuelto, temperatura y conductividad / salinidad en la columna de agua se puede realizar con un equipo multiparámetro o CTDO, que tenga la capacidad de medir en el mismo momento todos las variables, o con equipos que midan estas variables por separado, con una precisión mínima de 0,1 mg OD/L, 0,1 °C y 0,1 psu.
 
+En el caso de los cultivos intensivos emplazados en las regiones XV, I, II, III o IV, la medición del perfil de oxígeno disuelto se deberá utilizar un equipo multiparámetro o CTDO, con una precisión mínima de 0,1 mgOD/L, debidamente calibrado a través de mediciones puntuales analizadas mediante método Winkler, debiendo presentarse las curvas de calibración obtenidas. Las mediciones se efectuarán hasta un metro del fondo.
+
 B. Toma de datos
 
 i) En la CPS, la medición se debe realizar en el punto medio del área solicitada, cada 5 metros, desde la superficie hasta los 30 metros de profundidad. Bajo los 30 metros y hasta 1 metro desde el fondo, se debe medir cada 10 metros.
@@ -1076,43 +1078,13 @@ ii) Durante la etapa de operación (INFA), cada 2 meses al costado de los dos m�
 
 iii) Verificación de la calibración antes de cada campaña.
 
+iv) Los cultivos intensivos emplazados en las regiones XV, I, II, III o IV no se someterán a las frecuencias de medición antes señaladas, debiendo realizarse un monitoreo semestral, obteniéndose las mediciones a intervalos máximos de 6 meses, garantizando la obtención de mediciones a lo menos durante dos estaciones del año. La primera medición deberá realizarse a contar del sexto mes de efectuada la siembra al inicio del período de cultivo.
+
+Deberán realizarse perfiles completos de la columna de agua, incorporando mediciones de salinidad y temperatura.
+
 Para la medición de variables de columna de agua se debe considerar la siguiente tabla:
 
-Tipo centro de Muestreo columna de agua
-
-cultivo
-
-Extensivos Seis perfiles cada dos
-
-Intensivos (que meses, de los cuales
-
-se alimentan el último deberá
-
-exclusiva y corresponder a la fecha que
-
-permanentemente se hace mención en el numeral
-
-de macroalgas) 12 de la presente resolución.
-
-Intensivos: Cada dos meses desde el
-
-Engorda de peces primer ingreso de
-
-ejemplares en el ciclo
-
-Productivo
-
-Intensivos:
-
-Esmoltificación Cada dos meses en el año
-
-calendario
-
-Intensivos:
-
-Reproductores de Cada dos meses en el año
-
-Peces calendario
+.
 
 C. Análisis de datos
 
@@ -1173,6 +1145,8 @@ Registro visual Ausencia de cubiertas
 de microorganismos
 
 visibles y/o burbujas de gas
+
+El oxígeno disuelto no se considerará dentro de los límites de aceptabilidad para los centros de cultivo emplazados en las regiones XV, I, II, III y IV. En tales casos, si el centro de cultivo es de categoría 5, el oxígeno como límite de aceptabilidad será reemplazado por las variables de los sedimentos en fondos blandos, hasta una profundidad de 100 metros, debiendo aplicarse los límites de aceptabilidad previstos para dichas variables.
 
 32.- Todos los centros de cultivo con sistemas de producción extensivo de recursos hidrobiológicos bentónicos exóticos o con sistemas de producción intensivo que se alimenten exclusiva y permanentemente en base a macroalgas, deberán entregar en la INFA, cada dos años, los siguientes antecedentes:
 
