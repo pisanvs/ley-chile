@@ -210,7 +210,7 @@ Valparaíso El Membrillo
 
 Portales
 
-Sudamericana (ex Muelle)
+SUPRIMIDO
 
 Laguna Verde
 
@@ -778,6 +778,8 @@ SUPRIMIDO
 
 Quellón
 
+San Pedro de Quellón
+
 Curanue
 
 Auchac
@@ -979,6 +981,8 @@ Mississipi
 Maiquillahue
 
 Mehuín
+
+Tres Espinos
 
 Los Molinos
 
