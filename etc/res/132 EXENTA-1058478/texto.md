@@ -1,0 +1,3 @@
+Por resolución exenta Nº 132, 16 de enero de 2014, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 211122002, 207101142, 212101085 y 212100003, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
