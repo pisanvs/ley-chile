@@ -1,0 +1,3 @@
+Por resolución exenta Nº 151, de 16 de enero de 2014, de esta Subsecretaría, recházanse las solicitudes números 213023006, 213024008, 213031009, 213023010 y 213121006, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 16 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
