@@ -272,6 +272,18 @@ el sistema de Aduanas y, a lo menos, 48 horas
 
 corridas antes del arribo estimado de la nave.
 
+No obstante lo anterior, en caso que la nave
+
+recale en el puerto después del arribo
+
+estimado originalmente informado, para
+
+determinar los B/L presentados fuera de
+
+plazo se considerará la fecha y hora
+
+de arribo efectivo de la nave.
+
 4.3 Los plazos establecidos anteriormente no regirán
 
 tratándose de la situación señalada en el segundo
@@ -296,33 +308,55 @@ incorporar en el mensaje del conocimiento de
 
 embarque el código de observación 01.
 
-4.4 En los casos de carga consolidada en contenedores
+4.4 En los casos de carga consolidada en
 
-para uno o más consignatarios o de bultos
+contenedores para uno o más consignatarios
 
-sueltos, por los que se hubieren emitido
+o de bultos sueltos, por los que se
 
-conocimientos de embarque "hijos" o "nietos", se
+hubieren emitido conocimientos de embarque
 
-deberá continuar con la presentación manual de
+"hijos", o "nietos", será condición para
 
-estas aperturas, conforme al procedimiento
+aceptar el envío de los datos asociados a
 
-establecido en el numeral 1.2.2 del Capítulo III
+estos conocimientos de embarque que
 
-del Compendio de Normas Aduaneras. Esta
+previamente se haya enviado el mensaje del
 
-presentación deberá ser realizada por la Agencia
+conocimiento de embarque del cual derivan
 
-de Naves o transportador efectivo que haya
+y que se haga referencia a él. Estos
 
-presentado el encabezado del respectivo
+mensajes deberán ser transmitidos a lo
 
-Manifiesto, dentro del plazo máximo de 24 horas
+menos, 24 horas corridas antes del arribo
 
-corridas, contado desde la fecha del arribo
+estimado de la nave. En caso que no se
 
-efectivo de la nave2.
+pueda cumplir con este plazo debido a
+
+que no ha sido recibido por el sistema
+
+el mensaje del conocimiento de embarque
+
+del cual deriva, su transmisión se
+
+deberá efectuar dentro de las 24 horas
+
+corridas siguientes al envío de éste.
+
+Los datos asociados a estos mensajes
+
+deberán ser transmitidos al sistema
+
+del Servicio de Aduanas por sus
+
+emisores o sus representantes en el
+
+país, debidamente registrados ante
+
+el Servicio de Aduanas.
 
 4.5 La carga en transbordo o tránsito deberá ser
 
@@ -334,11 +368,13 @@ mensaje destinados para estos efectos.
 
 4.6 Tratándose de conocimientos de embarque que
 
-deriven de un B/L máster, sus emisores tendrán
+deriven de otro (B/L hijos, nietos, etc.),
 
-la obligación de entregar el original del
+sus emisores tendrán la obligación de
 
-conocimiento de embarque del cual derivan a su
+entregar el original del conocimiento de
+
+embarque del cual derivan a su
 
 respectivo emisor, antes del retiro de las
 
@@ -355,6 +391,34 @@ esta obligación podrá dar lugar a responsabilidad
 disciplinaria en los términos del artículo 202
 
 de la Ordenanza de Aduanas.
+
+En caso que el emisor del conocimiento de
+
+embarque no disponga de oficinas en el
+
+puerto de descarga, se podrá hacer esta
+
+entrega por correo certificado al
+
+domicilio del emisor debidamente
+
+endosado, en cuyo caso la persona
+
+habilitada para recibirlo deberá cumplir
+
+con la instrucción señalada en el párrafo
+
+anterior, informando al remitente la
+
+recepción y canje del B/L al correo
+
+electrónico proporcionado por este
+
+último. Como fecha de canje se
+
+considerará la fecha de envío del
+
+correo certificado.
 
 El receptor del B/L original tendrá a su vez la
 
@@ -758,71 +822,49 @@ el manifiesto, se deberán transmitir mediante un
 
 Mensaje de Aclaración.
 
-9.4 Las aclaraciones que se transmitan al sistema a
+9.4 Dependiendo del campo que se solicita
 
-los campos consignatario, embarcador, cantidad
+aclarar y del estado de tramitación del
 
-de bultos, tipo de bultos y peso (en todos sus
+documento de transporte, la aclaración
 
-niveles); cantidad y descripción de los productos
+podrá ser autorizada en forma automática
 
-(en todos sus niveles); fecha de zarpe,
+por el sistema o quedará en espera de
 
-transbordo, sellos, marcas de los bultos y emisor
+aprobación por parte de un funcionario
 
-del conocimiento de embarque deberán contar
+de Aduana, quien podrá pedir mayores
 
-previamente con una aprobación de la Aduana de
+antecedentes para evaluar la
 
-presentación del manifiesto, y sólo cuando ésta
+petición. Las Aduanas deberán dar
 
-la haya autorizado se podrá realizar la
+respuesta a estas solicitudes a más
 
-transmisión electrónica de la misma. La Aduana
+tardar, dentro de los dos días hábiles
 
-otorgará un número y fecha de aceptación de la
+siguientes a la fecha de su presentación
 
-aclaración, datos que deberán ser señalados en
+9.5 Las aclaraciones que se soliciten
 
-el mensaje de la aclaración electrónica que se
+respecto de los campos Consignatario,
 
-envíe, en un recuadro Observaciones del B/L
+Embarcador, Cantidad de Bultos, Tipo
 
-asociado al código 04, con el formato Nº
+de bultos y peso (en todos sus niveles);
 
-aclaración-día/mes/año. Ejemplo: la aclaración
+Cantidad y Descripción de las mercancías
 
-Nº 72 otorgada el día 21 de marzo de 2012
+(en todos sus niveles); Fecha de zarpe,
 
-deberá ser señalada como 72-21/03/2012. Las
+Transbordo; Sellos, Marcas de los Bultos
 
-Aduanas deberán aprobar o rechazar las
+y Emisor del Conocimiento de Embarque,
 
-aclaraciones presentadas el mismo día o, a más
+quedarán a la espera de la autorización
 
-tardar, el día corrido siguiente a su
-
-presentación.
-
-9.5 La solicitud de aclaración de un mensaje de
-
-conocimiento de embarque se deberá presentar a
-
-la Aduana respectiva dentro de los siete días
-
-corridos siguientes a la fecha de zarpe de la
-
-nave. Con posterioridad, estas aclaraciones
-
-estarán sujetas a sanción. Por su parte, la
-
-aclaración electrónica del conocimiento de
-
-embarque se deberá transmitir en forma inmediata
-
-o, a más tardar, el día corrido siguiente a la
-
-aceptación de dicha aclaración.
+por parte de un funcionario de Aduanas.
 
 9.6 Estando conformado el manifiesto, el campo
 
@@ -964,7 +1006,17 @@ el sistema a su emisor y actualizará de la misma
 
 forma el manifiesto publicado en la página web
 
-del Servicio.
+del Servicio. En caso que se anule el mensaje
+
+de un conocimiento de embarque "madre",
+
+automáticamente el sistema anulará todos
+
+los mensajes de los conocimientos de
+
+embarque que derivan de él, lo que
+
+quedará reflejado en el sistema.
 
 ### 11. Entrega de la información del manifiesto a los
 
@@ -1014,15 +1066,45 @@ los transitarios. A falta de esta información
 
 el transportista señalará el almacenista donde
 
-se depositará la carga, que deberá corresponder
+se depositará la carga. Una vez recibida
 
-al almacenista del sitio de atraque de la nave.
+por el almacenista, el consignatario podrá
 
-Una vez recibida la carga por el almacenista, el
+solicitar su traslado a otro almacén.
 
-consignatario podrá solicitar su traslado a otro
+En la eventualidad que existan
 
-almacén.
+discrepancias respecto del almacenista
+
+señalado en los mensajes de los
+
+conocimientos de embarque "madres" e
+
+"hijos", prevalecerá la información
+
+consignada en el mensaje del conocimiento
+
+de embarque "madre", por lo que el sistema
+
+rechazará los B/L hijos que indiquen un
+
+almacenista distinto. En estos casos, a
+
+requerimiento de los emisores de los B/L
+
+hijos y en caso que corresponda, el
+
+emisor del B/L máster deberá transmitir
+
+un mensaje de modificación del campo
+
+Almacenista, dentro del plazo de 48
+
+horas corridas previas al arribo estimado
+
+de la nave, según lo dispuesto en el
+
+numeral 9.2 de estas instrucciones
 
 11.3 Para recibir la carga por parte del
 
@@ -1036,15 +1118,7 @@ conformado. Asimismo, todo el control respecto a
 
 la recepción de la carga deberá estar basado en
 
-el manifiesto electrónico respectivo, con
-
-excepción de las aperturas de B/L en que se
-
-deberá considerar la información en soporte papel
-
-entregado por el Servicio de Aduanas a cada
-
-almacenista.
+el manifiesto electrónico respectivo.
 
 11.4 Al momento de recibir la carga, el almacenista
 
@@ -1100,11 +1174,11 @@ ANEXO Nº 1
 
 SITUACIONES ESPECIALES EN EL INGRESO DE MERCANCÍAS
 
-1. Mercancías desembarcadas por error en un puerto nacional distinto al consignado en el documento de transporte.
+1. En estos casos, el emisor del mensaje del conocimiento de embarque deberá:
 
-En estos casos, el emisor del mensaje del conocimiento de embarque deberá enviar un mensaje de aclaración del B/L para excluirlo del manifiesto originalmente considerado, y asignarlo al encabezado de manifiesto que corresponda, señalando el código de observación 06. En el recuadro Referencias, se deberá señalar el número y fecha del manifiesto en el que fueron considerados originalmente, señalando como tipo de referencia, REFMANANT (Referencia Manifiesto Anterior).
+. Enviar un mensaje de anulación del B/L para excluirlo del manifiesto originalmente considerado. Este mensaje deberá ser enviado dentro de los siete días corridos siguientes al zarpe de la nave en la que había sido originalmente considerado.
 
-Este nuevo mensaje deberá ser transmitido, a más tardar, dentro de los siete días corridos siguientes a la fecha de zarpe de la nave desde el puerto originalmente considerado.
+. Transmitir un nuevo mensaje del B/L asignándolo al encabezado del manifiesto correspondiente al puerto donde fueron desembarcadas las mercancías. En este nuevo mensaje de B/L se deberá señalar el código de observación 06, lo que permitirá su presentación extemporánea. En el recuadro Referencias, se deberá señalar el número y fecha del manifiesto en el que fue considerado originalmente, señalando como tipo de referencia, Refmanant (Referencia Manifiesto Anterior). Este nuevo mensaje deberá ser transmitido a más tardar, dentro de los siete días corridos siguientes a la fecha de zarpe de la nave desde el puerto en el que fueron desembarcadas las mercancías
 
 2. La nave queda a mitad de faena y se va a otro puerto. En el nuevo puerto no se ha presentado un Encabezado de Manifiesto para el mismo viaje.
 
@@ -1118,9 +1192,11 @@ Con respecto a los mensajes de los conocimientos de embarque se podrán dar dos 
 
 a) Que no se haya descargado bulto alguno del conocimiento de embarque.
 
-En estos casos, el emisor del mensaje del conocimiento de embarque deberá enviar un mensaje de aclaración del B/L para excluirlo del manifiesto originalmente considerado, señalando el código de observación 06, asignándolo al manifiesto del puerto al cual serán destinadas las mercancías. Este mensaje deberá ser transmitido, a más tardar, dentro de los siete días corridos siguientes a la fecha de zarpe de la nave desde el puerto en el que los B/L aclarados fueron originalmente considerados.
+En estos casos, el emisor del mensaje del conocimiento de embarque deberá:
 
-En el recuadro Referencias, se deberá señalar el número y fecha del manifiesto en el que fueron considerados originalmente, señalando como tipo de referencia, REFMANANT (Referencia Manifiesto Anterior).
+. Enviar un mensaje de anulación del B/L para excluirlo del manifiesto originalmente considerado. Este mensaje deberá ser enviado dentro de los siete días corridos siguientes al zarpe de la nave en la que había sido originalmente considerado.
+
+. Asignarlo al encabezado de manifiesto del puerto al cual serán destinadas las mercancías, a través de un nuevo mensaje de envío. En este nuevo mensaje de B/L se deberá señalar el código de observación 06, lo que permitirá su presentación extemporánea. En el recuadro Referencias, se deberá señalar el número y fecha del manifiesto en el que fue considerado originalmente, señalando como tipo de referencia, Refmanant (Referencia Manifiesto Anterior). Este nuevo mensaje deberá ser transmitido a más tardar, dentro de los siete días corridos siguientes a la fecha de zarpe de la nave desde el puerto en el que fueron desembarcadas las mercancías.
 
 b) Que se haya descargado una parte de los bultos amparados por el conocimiento de embarque.
 
@@ -1138,13 +1214,11 @@ Para los efectos anteriores, los emisores de los mensajes de los conocimientos d
 
 En caso que antes de que la nave saliera a la gira, se hubiere descargado una parcialidad de un conocimiento de embarque, no se podrá modificar el Almacenista y el saldo pendiente deberá ser entregado al Almacenista que recibió la primera parcialidad.
 
-4. La nave se va a otro puerto sin haber comenzado la faena. El manifiesto ya ha sido conformado. En el nuevo puerto de arribo existe un manifiesto numerado por la Aduana, asociado a la misma nave.
+4. La nave se va a otro puerto sin haber comenzado la faena. El manifiesto ya ha sido conformado. En el nuevo puerto de arribo existe un manifiesto numerado por la Aduana, asociado a la misma nave" por el siguiente:
 
-En este caso, el emisor del Encabezado del Manifiesto deberá enviar un mensaje de anulación señalando como causal el cambio de puerto sin haber descargado mercancías, indicando el código de observación 07.
+En este caso, el emisor del Encabezado del Manifiesto deberá solicitar a la Aduana respectiva la anulación del encabezado indicando las causales. La Aduana, una vez comprobado que la nave se fue a otro puerto sin haber comenzado la faena, deberá anular el encabezado del manifiesto lo que provocará la anulación automática de todos los B/L que se hubieren aceptado con cargo a dicho encabezado. Debido a que ya existe un Encabezado de Manifiesto para el nuevo puerto y para la misma nave, no se deberá enviar un nuevo mensaje de Encabezado.
 
-Debido a que ya existe un Encabezado de Manifiesto para el nuevo puerto y para la misma nave, no se deberá enviar un nuevo mensaje de Encabezado.
-
-Los emisores de los mensajes de los conocimientos de embarque deberán enviar al sistema computacional un mensaje de aclaración cambiando el número del encabezado del manifiesto, puerto efectivo de desembarque y nuevo almacenista. En dicho mensaje se deberá señalar el código de observación 06, indicando que se trata de este tipo de situación y, además, hacer referencia al Encabezado del Manifiesto anterior indicado como Tipo de Referencia "REFMANANT" (Referencia Manifiesto Anterior).
+Los emisores de los mensajes de los conocimientos de embarque deberán transmitir un nuevo mensaje del B/L, asignándolo al encabezado del manifiesto correspondiente al puerto donde serán desembarcadas las mercancías. En este nuevo mensaje de B/L se deberá señalar el código de observación 06, lo que permitirá su presentación extemporánea. En el recuadro Referencias, se deberá señalar el número y fecha del manifiesto en el que fue considerado originalmente, señalando como tipo de referencia, Refmanant (Referencia Manifiesto Anterior). Este nuevo mensaje deberá ser transmitido a más tardar, dentro de los siete días corridos siguientes a la fecha de zarpe de la nave desde el puerto en el que fueron desembarcadas las mercancías.
 
 ### 5. Mensaje Cubre faltas
 
@@ -1177,3 +1251,5 @@ ANEXO Nº 2
 CÓDIGOS DE OBSERVACIÓN A SEÑALAR EN EL ENCABEZADO DEL MANIFIESTO MARÍTIMO Y DOCUMENTOS DE TRANSPORTE MARÍTIMO
 
 .
+
+> **Nota.** El numeral 1, 1.13, de la Resolución 59 Exenta, Hacienda, publicada el 22.01.2014, modifica el Anexo Nº 2 de las Normas sobre la Presentación Electrónica del Manifiesto de Carga de Ingreso por Vía Marítima, de la manera que la citada norma indica.
