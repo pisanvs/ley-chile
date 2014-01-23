@@ -140,11 +140,11 @@ Asimismo, las Instituciones de las Fuerzas Armadas, Carabineros de Chile, Polic�
 
 5.5 Las peticionarias de los sistemas Multi-RTA, que proyecten operar en las sub-bandas 806-816 MHz y 851-861 MHz, podrán optar inicialmente a un máximo de 20 canales, en el caso de los servicios públicos y, de 10 canales, en el caso de los servicios limitados.
 
-5.6 Las concesionarias o permisionarias de sistemas Multi-RTA, podrán ampliar sus sistemas optando, sucesivamente, a nuevos módulos de 5 o 10 canales, siempre que hubieren incorporado a su concesión o permiso, a lo menos 20 o 10 canales, respectivamente y cumplan, en una misma zona de servicio, con los criterios de carga establecidos en el punto 8 del presente Título.
+5.6 Las concesionarias o permisionarias de sistemas Multi-RTA podrán ampliar sus sistemas optando, sucesivamente, a nuevos módulos de 5 o 10 canales, siempre que hubieren incorporado a su concesión o permiso a lo menos el máximo posible inicial de canales señalado en el punto 5.5 anterior y cumplan, en una misma zona de servicio, con los criterios de carga establecidos en el punto 8 del presente título.
 
 Las concesionarias o permisionarias podrán solicitar los canales necesarios hasta completar 20 o 10, respectivamente, sin exigencias respecto a criterios de carga.
 
-Sólo en casos debidamente justificados la Subsecretaría podrá autorizar el empleo de más de 20 canales a una permisionaria de servicio limitado de telecomunicaciones, en la medida que haya disponibilidad de canales en la zona geográfica involucrada y se cumpla con los referidos criterios de carga.
+Sólo en casos debidamente justificados la Subsecretaría podrá autorizar a una permisionaria de servicio limitado de telecomunicaciones, para fines de emergencia o para actividades de alto riesgo (trabajos mineros de extracción o procesamiento de minerales y otros de similar peligrosidad), el empleo de más de 10 canales iniciales o más de 20 canales por ampliación y el uso de criterios de carga distintos, en la medida que haya disponibilidad de canales en la zona geográfica involucrada.
 
 5.7 Las modificaciones de concesiones o permisos destinadas a obtener nuevas asignaciones de frecuencias estarán condicionadas a la disponibilidad de frecuencias en la zona geográfica involucrada, entendiendo por ello la posibilidad de obtener frecuencias aún no asignadas por la Subsecretaría en la respectiva zona geográfica.
 
@@ -214,9 +214,11 @@ La Subsecretaría podrá solicitar a las peticionarias la información necesaria
 
 3. Las peticionarias de estos sistemas que proyecten operar en las frecuencias de las sub-bandas 806-816 MHz y 851-861 MHz, podrán optar inicialmente a un máximo de 40 canales, en el caso de los servicios públicos y, de 10 canales, en el caso de los servicios limitados.
 
-4. Las concesionarias o permisionarias de estos sistemas que operen en las frecuencias de las sub-bandas señaladas en el punto 3 anterior, podrán ampliar sus sistemas optando, sucesivamente, a nuevos módulos de 5 a 20 canales, siempre que hubieren incorporado a su concesión o permiso, a lo menos 40 o 10 canales, respectivamente y, se cumpla que en una misma zona de servicio, los canales asignados tengan una utilización de cuarenta y cinco minutos o más en la hora de mayor tráfico. Sin perjuicio de lo anterior, el máximo de canales que se autorizará a una permisionaria de servicio limitado, no podrá exceder de 20.
+4. Las concesionarias o permisionarias de estos sistemas que operen en las frecuencias de las sub-bandas señaladas en el punto 3 anterior podrán ampliar sus sistemas optando, sucesivamente, a nuevos módulos de 5 a 20 canales, siempre que hubieren incorporado a su concesión o permiso el máximo posible inicial de canales allí señalado y se cumpla que, en una misma zona de servicio, los canales asignados tengan una utilización de cuarenta y cinco minutos o más en la hora de mayor tráfico.
 
-Solo en casos debidamente justificados la Subsecretaría podrá autorizar el empleo de más de 20 canales a una permisionaria de servicio limitado de telecomunicaciones, en la medida que haya disponibilidad de canales en la zona geográfica involucrada y se cumpla con los referidos criterios de carga.
+Las concesionarias o permisionarias podrán solicitar los canales necesarios hasta completar 40 o 10, respectivamente, sin exigencias respecto a criterios de carga.
+
+Sólo en casos debidamente justificados la Subsecretaría podrá autorizar, a una permisionaria de servicio limitado de telecomunicaciones, para fines de emergencia o para actividades de alto riesgo (trabajos mineros de extracción o procesamiento de minerales y otros de similar peligrosidad), el empleo de más de 10 canales iniciales o más de 20 canales por ampliación y una utilización de canales distinta a la señalada en el primer inciso del presente punto, en la medida que haya disponibilidad de canales en la zona geográfica involucrada.
 
 5. Las mediciones para la determinación de la utilización de los canales antes referida, deberán realizarse, a lo menos durante el período de un mes, excluyendo sábados, domingos y festivos, y serán efectuadas por la respectiva concesionaria o permisionaria. Sin perjuicio de lo anterior, la Subsecretaría podrá fiscalizar lo informado por las concesionarias o permisionarias.
 
