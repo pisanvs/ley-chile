@@ -110,29 +110,21 @@ Será responsabilidad del SENCE la aprobación del contenido y programa del curs
 
 Con todo, los organismos técnicos de capacitación deberán solicitar previamente visación del programa y contenido del curso a la Autoridad Marítima, quién deberá pronunciarse fundadamente en un plazo no superior a quince días hábiles.
 
-#### Artículo 7°
+#### Artículo 7º
 
-El curso considerará, al menos, los siguientes contenidos:
+El curso contemplará, a lo menos, los siguientes contenidos:
 
-a) Nomenclatura portuaria y marítima;
+. Nomenclatura portuaria y marítima
 
-b) Derechos y obligaciones de los trabajadores y de las empresas, en la prevención de los riesgos laborales, en el sector portuario;
+. Prevención de Riesgos en faenas portuarias
 
-c) Métodos de trabajo de carga y descarga en los puertos;
+. Primeros auxilios
 
-d) Primeros auxilios;
+. Técnicas de carga y descarga en los puertos
 
-e) Inglés básico marítimo portuario (nomenclatura básica portuaria internacional);
+. Inglés básico marítimo portuario
 
-f) Gestión de Seguridad y Salud del Trabajo;
-
-g) Funcionamiento de la Industria Portuaria;
-
-h) Política de prevención en consumo de sustancias, alcohol y drogas.
-
-Los contenidos referidos precedentemente no podrán ser desarrollados en menos de doscientas horas cronológicas, de las cuales, al menos, ochenta horas cronológicas deberán contener un componente práctico desarrollado en recintos portuarios o instalaciones adecuadas para tales efectos.
-
-Las empresas no podrán objetar la validez de la capacitación que haya sido obtenida de conformidad a este reglamento en un OTEC autorizado para ofrecerlo.
+Los contenidos referidos precedentemente no podrán ser desarrollados en menos de 60 horas cronológicas, de las cuales a lo menos un 30% deberá contener un componente práctico.
 
 #### Artículo 8º
 
@@ -142,7 +134,7 @@ En los casos que proceda la actualización de los contenidos del curso ésta se 
 
 #### Artículo 9º
 
-Los alumnos deberán cumplir con una asistencia mínima al curso básico de seguridad del 75%, para poder optar a ser evaluados mediante el examen que se establece en el artículo siguiente. Sin perjuicio de lo anterior, estarán obligados a asistir al 100% de las horas del componente práctico cuya evaluación equivaldrá al cuarenta por ciento de la nota final.
+Los alumnos deberán cumplir con una asistencia mínima al curso básico de seguridad del 75%, para poder optar a ser evaluados mediante el examen que se establece en el artículo siguiente. Sin perjuicio de lo anterior, estarán obligados a asistir al 100% de las horas del componente práctico.
 
 #### Artículo 10º
 
@@ -164,23 +156,17 @@ Dichos certificados deberán contener, a lo menos, la identificación del OTEC q
 
 Para acreditar la realización del curso, el trabajador deberá exhibir el certificado de aprobación. No obstante lo anterior, cuando corresponda, los Organismos Técnicos de Capacitación deberán remitir a la Autoridad Marítima, a las empresas portuarias y a las empresas de muellaje respectivas la nómina de las personas que hayan aprobado el curso.
 
-#### Artículo 13°
+#### Artículo 13º
 
-Cada dos años los Trabajadores Portuarios deberán efectuar un curso de actualización de conocimientos que tendrá una duración no inferior a treinta y cinco horas cronológicas. Los contenidos del curso serán los señalados en el artículo 7° de este reglamento y se entenderá aprobado por los alumnos que hubieren cumplido con las evaluaciones de los contenidos del curso y registren, al menos, un setenta y cinco por ciento de asistencia.
+Cada cinco años, los trabajadores portuarios deberán efectuar un curso de actualización de conocimientos, que tendrá una duración no inferior a 10 horas cronológicas. Los contenidos del curso serán los señalados en el artículo 7º de este Reglamento y se entenderá aprobado por los alumnos que hubieren cumplido con a lo menos un 75% de asistencia.
 
-Estarán eximidos de realizar el curso a que alude este artículo, los Trabajadores Portuarios que acrediten, mediante certificado emitido por una OTEC, haber aprobado en el periodo de dos años, cursos de capacitación en el ámbito portuario siempre que ellos se relacionen con materias de seguridad portuaria.
+Estarán eximidos de realizar el curso a que alude este artículo los trabajadores portuarios que acrediten, mediante los certificados de las OTEC, haber realizado en el período de cinco años, cursos de capacitación en el ámbito portuario.
 
-También estarán eximidos de realizar el curso de actualización, los Trabajadores Portuarios que acrediten cualquiera de las siguientes situaciones:
-
-a. Encontrarse afecto a un convenio sobre provisión de puestos de trabajo celebreado en los términos del artículo 142 del Código del Trabajo al momento de solicitar la renovación, siempre que haya estado afecto a uno o más convenios distintos del antes indicado en los 12 meses anteriores a la fecha de solicitud;
-
-b. Haber realizado durante los últimos dos años un promedio anual de, a lo menos, sesenta turnos; o
-
-c. Haber prestado servicios durante los últimos dos años, un promedio anual no inferior a tres meses.
+También estarán eximidos de realizar el curso de actualización, los trabajadores portuarios que acrediten cualesquiera de las siguientes situaciones: encontrarse afecto a un convenio sobre provisión de puestos de trabajo celebrado en los términos del artículo 142 del Código del Trabajo, haber realizado, durante los últimos cinco años, un promedio anual de a lo menos sesenta turnos, o haber prestado servicios por un lapso de tiempo anual promedio no inferior a tres meses.
 
 Podrá rebajarse o elevarse el número de turnos o tiempo de prestación de servicios que deba exigirse a los trabajadores portuarios para eximirles del curso de actualización de conocimientos, según la realidad del puerto en que los hubieren desempeñado y los requerimientos de seguridad del mismo.
 
-Con todo, estarán también eximidos de realizar el curso de actualización, los trabajadores que hayan certificado sus competencias laborales en un perfil del sector marítimo-portuario por un Centro de Evaluación y Certificación de Competencias Laborales del Sistema Nacional de Certificación de Competencias Laborales conforme a la ley N°20.267. Con todo, esta exención regirá únicamente para una renovación.
+"Con todo, para mantenerse en el sector, los trabajadores portuarios deberán cada cinco años, acreditar el cumplimiento de los requisitos establecidos en el artículo 3º de este Reglamento.".
 
 #### Artículo 13º bis
 
@@ -194,7 +180,7 @@ En los casos descritos en este artículo, el permiso de seguridad otorgado por l
 
 #### Artículo 14º
 
-El costo de los cursos a que se refiere el presente reglamento será de cargo del interesado. Sin perjuicio de lo anterior, podrán ser financiados a través de los mecanismos y en la forma prevista en el párrafo 4º de la ley Nº 19.518.
+El costo del curso a que se refiere el presente reglamento será de cargo del interesado. Sin perjuicio de lo anterior, podrá ser financiado a través de los mecanismos y en la forma prevista en el párrafo 4º de la ley Nº 19.518.
 
 Disposiciones Transitorias
 
