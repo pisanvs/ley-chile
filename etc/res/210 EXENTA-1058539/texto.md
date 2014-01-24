@@ -1,0 +1,3 @@
+Por resolución exenta Nº 210, de 20 de enero de 2014, de esta Subsecretaría, recházanse las solicitudes números Nº 211110071 Sector 0, 210100021, 212100008, 212100005 Sector 2, 213121009, 213151002 y 213101012, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
