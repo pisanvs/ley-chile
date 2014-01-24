@@ -64,7 +64,7 @@ h. Mes de octubre de 2014:
 
 Día jueves 30 de octubre, desde las 15:00 a las 23:00 horas y viernes 31, desde las 9:00 a las 15:00 horas, en dirección Norte.
 
-i. Mes de noviembre de 2013:
+i. Mes de noviembre de 2014:
 
 Día domingo 2, desde las 17:00 a las 23:00 horas, en dirección Sur.
 
@@ -73,5 +73,7 @@ Día domingo 2, desde las 17:00 a las 23:00 horas, en dirección Sur.
 3. Carabineros de Chile dispondrá de las medidas de gestión necesarias que aseguren el buen desplazamiento de vehículos, así como del cumplimiento de las disposiciones contenidas en la presente resolución. También podrá disponer la ampliación o disminución de los horarios y tramos de restricción de tránsito, en caso de que la situación del momento así lo amerite.
 
 4. La presente resolución producirá sus efectos desde la fecha de su dictación.
+
+> **Nota.** El numeral 1 de la Resolución 237 Exenta, Transportes, publicada el 24.01.2014, modifica la presente norma, en el sentido de ampliar la restricción de circulación de vehículos motorizados de transporte de carga por la Ruta 5 Norte, entre los Km 74,269 y Km 78,932 sector Cuesta Las Chilcas, a todos los fines de semana del mes de enero, a contar del viernes 24, y todos los fines de semana del mes febrero de 2014, en horarios y sentido que la citada norma indica.
 
 Anótese, comuníquese y publíquese.- Gloria Basualto Mateluna, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
