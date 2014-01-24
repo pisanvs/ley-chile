@@ -522,7 +522,9 @@ Una vez activada una solicitud de portabilidad a través del SGP, no podrá inic
 
 #### Artículo 21°
 
-Sin perjuicio de lo establecido en el Artículo 13°, letra b), la portabilidad numérica se realizará sin restricciones, con independencia de la cantidad de números incluidos en la solicitud respectiva.
+Sin perjuicio de lo establecido en el Artículo 13°, letra b), la portabilidad numérica se realizará sin restricciones, salvo las indicadas en el inciso siguiente, con independencia de la cantidad de números incluidos en la solicitud respectiva.
+
+Los suscriptores que contratan, sin haber mediado una portación previa, un servicio telefónico móvil con una determinada concesionaria respecto de un número determinado, podrán portar éste, a partir del día siguiente del vencimiento de la primera Cuenta Única Telefónica o documento de cobro. Asimismo, en el caso de los usuarios en modalidad de prepago, cuando no haya mediado portación, éstos no podrán portar su número dentro de un plazo de 30 días corridos contados a partir de la fecha de activación del equipo con su respectivo número en la red.
 
 #### Artículo 22°
 
