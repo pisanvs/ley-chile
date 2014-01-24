@@ -56,9 +56,11 @@ De las Instalaciones
 
 Planta Transmisora Angeles, VIII Región.
 
-- Coordenadas : 37° 27' 54" Sur; 71° 20'
+- Coordenadas : 37° 27' 54" Sur;
 
-55" Oeste.
+72° 20' 55" Oeste.
+
+Datum PSAD 56
 
 El Presidente de la República previo informe de la Subsecretaría de Telecomunicaciones, podrá disponer que la concesionaria modifique estas características por razones de orden técnico, de interés público o en cumplimiento de Acuerdos o Convenios Internacionales obligatorios del Estado.
 
