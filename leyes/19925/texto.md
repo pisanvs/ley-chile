@@ -712,7 +712,7 @@ Del total de las sumas que ingresen por concepto de multas aplicadas por infracc
 
 Derógase el Libro II de la ley Nº 17.105, de Alcoholes, Bebidas Alcohólicas y Vinagres. Las disposiciones legales que hagan referencia al Libro II de la ley Nº 17.105 se entenderán hechas a esta ley, en las materias a que dichas disposiciones se refieren.
 
-#### Artículo transitorio (art. PRIMERO)
+#### Artículo primero transitorio (art. PRIMERO)
 
 <!-- parte:8573062 -->
 
@@ -727,6 +727,14 @@ Las patentes de expendio de bebidas alcohólicas actualmente en vigor quedarán 
 En el caso de servicios al auto a que se refiere la letra G) y salones de té y cafeterías de la letra Ñ), no se podrá otorgar nuevas patentes. No obstante lo anterior, las patentes ya existentes continuarán vigentes y su uso se regirá por las disposiciones del presente cuerpo legal.
 
 > **Nota.** El artículo 5º de la LEY 20033, publicada el 01.07.2005, dispuso que el inciso que agrega la letra "c" del artículo 9 de la citada ley, comenzará a regir 60 días después de su publicación.
+
+#### Artículo segundo transitorio (art. primero)
+
+<!-- parte:9401824 -->
+
+Exceptúanse de lo dispuesto en el artículo 14 las patentes existentes a la fecha de publicación de esta ley, clasificadas en las letras A y H del artículo 3º, de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena.
+
+Esta excepción corresponderá para las patentes que no hayan sido canceladas por las causales que determina la ley, incluyendo la clausura del local.
 
 #### Artículo segundo
 
