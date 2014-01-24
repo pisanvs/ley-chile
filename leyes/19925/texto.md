@@ -594,9 +594,9 @@ Del total de las sumas que ingresen por concepto de multas aplicadas por infracc
 
 Derógase el Libro II de la ley Nº 17.105, de Alcoholes, Bebidas Alcohólicas y Vinagres. Las disposiciones legales que hagan referencia al Libro II de la ley Nº 17.105 se entenderán hechas a esta ley, en las materias a que dichas disposiciones se refieren.
 
-#### Artículo transitorio
+#### Artículo primero
 
-La nueva proporción del número de establecimientos afectos a patentes limitadas que se señala en el inciso primero del artículo 7º no afectará a los que se encuentren en funcionamiento y cumplieren todos los requisitos preexistentes, pudiendo por tanto sus respectivas patentes transferirse y renovarse, de conformidad a la ley.
+transitorio.- La nueva proporción del número de establecimientos afectos a patentes limitadas que se señala en el inciso primero del artículo 7º no afectará a los que se encuentren en funcionamiento y cumplieren todos los requisitos preexistentes, pudiendo por tanto sus respectivas patentes transferirse y renovarse, de conformidad a la ley.
 
 Asimismo, aquellos establecimientos que expendan bebidas alcohólicas a que se refiere el artículo 8º, que quedaren comprendidos dentro de una zona del territorio comunal en la que tales establecimientos no podrán instalarse en lo sucesivo por la entrada en vigencia de un plano regulador, modificación del plano regulador u ordenanza municipal que así lo establezca, de conformidad a lo previsto en dicho artículo, tampoco se verán afectados por esa nueva disposición, siempre que a esa fecha cumplieren todos los requisitos exigidos para su funcionamiento.
 
@@ -607,6 +607,12 @@ Las patentes de expendio de bebidas alcohólicas actualmente en vigor quedarán 
 En el caso de servicios al auto a que se refiere la letra G) y salones de té y cafeterías de la letra Ñ), no se podrá otorgar nuevas patentes. No obstante lo anterior, las patentes ya existentes continuarán vigentes y su uso se regirá por las disposiciones del presente cuerpo legal.
 
 > **Nota.** El artículo 5º de la LEY 20033, publicada el 01.07.2005, dispuso que el inciso que agrega la letra "c" del artículo 9 de la citada ley, comenzará a regir 60 días después de su publicación.
+
+#### Artículo segundo
+
+transitorio.- Exceptúanse de lo dispuesto en el artículo 14 las patentes existentes a la fecha de publicación de esta ley, clasificadas en las letras A y H del artículo 3º, de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena.
+
+Esta excepción corresponderá para las patentes que no hayan sido canceladas por las causales que determina la ley, incluyendo la clausura del local.
 
 #### Artículo segundo
 
