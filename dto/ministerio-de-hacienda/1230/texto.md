@@ -558,6 +558,12 @@ Tercera Región
 
 de Atacama.
 
+12. Puerto Punta Permanente Paso de Personas y todo
+
+Totoralillo tipo de operaciones
+
+aduaneras
+
 F. SUJETOS A LA JURISDICCION DE LA ADUANA DE COQUIMBO:
 
 Punto Habilitado Habilitación Operaciones aduaneras
