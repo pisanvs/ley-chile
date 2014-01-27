@@ -1,0 +1,5 @@
+Por resolución exenta Nº 275, de 23 de enero de 2014, rectifícase el numeral 1.- de la resolución exenta Nº 211, de 2014, de esta Subsecretaría de Pesca y Acuicultura, en el sentido de reemplazar la cuota asignada, dentro de la distribución de la fracción artesanal de la cuota global anual de captura de Sardina austral correspondiente a la X Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, para el año de 2014, correspondiente a la ASOCIACIÓN GREMIAL DE ARMADORES ARTESANALES ASOGFER A.G. por la siguiente:
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 23 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
