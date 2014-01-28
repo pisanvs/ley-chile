@@ -68,11 +68,15 @@ Tipos de Becas Nacionales de Postgrado. Para los efectos del presente reglamento
 
 a. Doctorado: Tiene por objeto apoyar financieramente la obtención del grado académico de Doctor en todas las áreas del conocimiento, en programas acreditados en conformidad con la ley Nº 20.129 e impartidos por universidades chilenas, por un plazo máximo de cuatro años, contados desde la fecha de inicio del programa de estudios.
 
+En los concursos de Becas Nacionales de Doctorado, podrán postular chilenos o extranjeros, con o sin residencia definitiva en Chile, según lo determinen las bases concursales dictadas al efecto.
+
 b. Magíster: Tiene por objeto apoyar financieramente la obtención del grado académico de Magíster en programas acreditados en conformidad con la ley Nº 20.129 e impartidos por universidades chilenas, por un plazo máximo de dos años, contados desde la fecha de inicio del programa de estudios. Se excluyen programas en las áreas de negocios, finanzas y marketing.
 
 c. Magíster para Profesionales de la Educación: Tiene por objeto apoyar financieramente la obtención del grado académico de Magíster en el área de la educación, en programas acreditados en conformidad con la ley Nº 20.129 e impartidos por universidades chilenas, por un plazo máximo de dos años, contados desde la fecha de inicio del programa de estudios.
 
 d. Magíster para Funcionarios/as del Sector Público: Tiene por objeto entregar financiamiento para iniciar o continuar estudios de Magíster a funcionario/as de la Administración del Estado en áreas prioritarias de la administración pública relacionadas, directa o transversalmente, con Gerencia, Gestión Pública y Modernización del Estado, e impartidos por universidades chilenas hasta por un plazo máximo de dos años contados desde el ingreso del/de la becario/a al programa de estudios. Podrán excluirse determinadas áreas de estudio en las bases concursales.
+
+En los concursos de Becas Nacionales de Magíster, podrán postular chilenos o extranjeros, con residencia definitiva en Chile, según lo determinen las bases concursales dictadas al efecto
 
 Conicyt en los llamados a concurso podrá priorizar y/o restringir disciplinas y/o áreas de estudio y/o población de interés, lo que quedará establecido en las bases concursales.
 
@@ -994,7 +998,7 @@ Sin perjuicio de los obligaciones establecidas en las bases de postulación y co
 
 i. Suscribir un pagaré, firmado ante notario público, el cual se extenderá de acuerdo a las instrucciones que determine Conicyt y que, en todo caso, deberá incorporar una cláusula en virtud de la cual se faculte a Conicyt para exigir el cobro inmediato del monto total del pagaré, como si fuese de plazo vencido, en caso de incumplimiento por parte del becario de una o más de los obligaciones convenidas, de manera de asegurar el fiel cumplimiento de las obligaciones del becario.
 
-En el caso de tratarse de extranjeros sin residencia definitiva en Chile, para efectos de garantizar el fiel cumplimiento de sus obligaciones, deberá acompañar una boleta de garantía, a la vista o una póliza garantía o de seguro, tomada por el becario o por la universidad donde cursará sus estudios, con carácter de irrevocable, extendida a nombre de Conicyt. Las características, monto y vigencia de dicha garantía serán establecidos en las bases concursales correspondientes.
+ELIMINADO.
 
 ii. Iniciar los estudios en la fecha prevista en las bases concursales y/o en el convenio respectivo.
 
@@ -1036,7 +1040,7 @@ xii. Participar Ad-Honorem en procesos de evaluación, promoción y/o divulgaci�
 
 xiii.Incluir en cada publicación, afiche, presentaciones en congresos u otros, una glosa que indique que sus estudios de postgrado fueron financiados por Conicyt.
 
-xiv. Los becarios extranjeros sin residencia definitiva en Chile deberán permanecer en el país durante todo el periodo que dure la beca, debiendo Conicyt fiscalizar semestralmente el cumplimiento de esta obligación mediante una certificación de permanencia en el país emitida por el órgano de la Administración del Estado que corresponda. Para estos efectos, al momento de suscribir el convenio de beca, el becario debe autorizar expresamente a Conicyt para obtener la información requerida, en sujeción o lo dispuesto en el artículo 4º de la ley Nº 19.628 sobre protección de la vida privada o protección de datos de carácter personal en concordancia con el literal c) del artículo 17º de la Ley 19.880 que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado. Excepcionalmente, Conicyt por motivos fundados podrá autorizar al becario para suspender anualmente el cumplimento de esta obligación por un periodo no superior a 30 días corridos. Para estos efectos no serán aplicable al becario extranjero sin residencia definitiva en Chile las disposiciones contenidas en el punto viii del numeral 1º del artículo 10º y la contenida en el numeral x de este artículo.
+xiv. ELIMINADO.
 
 TÍTULO FINAL
 
