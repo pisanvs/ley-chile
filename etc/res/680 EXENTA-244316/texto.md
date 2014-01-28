@@ -12,7 +12,7 @@ Resuelvo:
 
 1. Fíjanse las fechas de cumplimiento de la exigencia contenida en el Art. 45º del decreto supremo Nº 212/92 de este Ministerio, relativo a contar con un terminal para los servicios de transporte público urbano prestados con taxis colectivos, de la comuna de Copiapó, III Región de Atacama, como se indica a continuación:
 
-a) Para los servicios que se encuentren inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros de la III Región, a la fecha de publicación en el Diario Oficial de la presente resolución, la fecha de inicio de esta exigencia será el 31 de diciembre de 2012. Estos terminales deberán ser uno por cada servicio, y del tipo "Terminal de vehículos", señalado en el artículo 45 bis del D. S. 212/92, y definido en el D. S.
+a) Para los servicios que se encuentren inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros de la III Región, a la fecha de publicación en el Diario Oficial de la presente resolución, la fecha de inicio de esta exigencia será el 31 de diciembre de 2014. Estos terminales deberán ser uno por cada servicio, y del tipo "Terminal de vehículos", señalado en el artículo 45 bis del D. S. 212/92, y definido en el D. S.
 
 47/92 del Minvu.
 
