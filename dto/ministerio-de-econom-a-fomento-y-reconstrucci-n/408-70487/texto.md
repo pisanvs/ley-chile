@@ -18,7 +18,7 @@ Prohíbese la utilización de artes de pesca de arrastre y de cerco, este últim
 
 La prohibición establecida en el artículo 1º regirá también en las Bahías de Coquimbo, Guanaqueros y Tongoy, dentro de las áreas que a continuación se delimitan:
 
-a) Bahía Coquimbo: Área comprendida entre la costa y una línea recta imaginaria que une los puntos de Punta Teatinos (29°49'09,70" L.S. - 71°18'41,25" L.W.) y Punta Tortuga (29°55'58,00" L.S. - 71°20'16,90" L.W.), conforme a la carta del Servicio Hidrográfico y Oceanográfico de la Armada SHOA Nº 4100; Esc. 1:100.000; 10ª Ed. 1999.
+a) Bahía Coquimbo: área comprendida entre la costa y una línea recta imaginaria que une los puntos de Punta Teatinos (29º 49' 09,70" L.S. - 71º 18' 41,25" L.W.) y Punta Tortuga (29º 55' 58,00" L.S. - 71º 20' 16,90" L.W.), conforme a la carta del Servicio Hidrográfico y Oceanográfico de la Armada SHOA Nº 4100; ESC. 1:100.000; 10ª ED, 1999.
 
 b) Bahía Guanaqueros, área comprendida entre la costa y una línea imaginaria que une dos puntos ubicados frente a las latitudes de PuntaGuanaqueros (30º 10' 00" L.S. - 71º 27'21" L.W.) y Punta Morrillos (30º 10'00" L.S. - 71º 23' 20" L.W.)
 
