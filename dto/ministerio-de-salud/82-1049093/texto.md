@@ -32,13 +32,13 @@ Decreto:
 
 #### Artículo 1°
 
-Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2013, ambos meses inclusive, asciende a la suma de $584.854.040.372 (quinientos ochenta y cuatro mil ochocientos cincuenta y cuatro millones cuarenta mil trescientos setenta y dos pesos).
+Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2013, ambos meses inclusive, asciende a la suma de $586.815.381.036 (quinientos ochenta y seis mil ochocientos quince millones trescientos ochenta y un mil treinta y seis pesos).
 
 #### Artículo 2º
 
 El referido aporte se transferirá por mensualidades, por intermedio de la municipalidad respectiva, a cada entidad administradora de salud municipal y su monto se determina aplicando a un aporte general y básico que se detalla, los criterios de incremento o rebaja según corresponda, señalados en el artículo 49 de la ley Nº 19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $3.509 (tres mil quinientos nueve pesos).
+a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $3.649 (tres mil seiscientos cuarenta y nueve pesos).
 
 b) Criterios de incremento del per cápita basal, según corresponda:
 
