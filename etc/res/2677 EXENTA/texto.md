@@ -328,6 +328,10 @@ adicionales
 
 (Chenopodium quinoa)
 
+Schinus Cualquier Sin declaraciones
+
+terebinthifolius origen adicionales
+
 Sésamo Cualquier origen Sin declaraciones
 
 adicionales
@@ -443,6 +447,10 @@ libre de Carbón Parcial
 del trigo (Tilletia indica
 
 Mitra.)
+
+Trigonella foenum- Cualquier Sin declaraciones
+
+graecum origen adicionales
 
 4. Los siguientes productos, cualquiera sea su origen, no requieren de declaraciones adicionales en el Certificado Fitosanitario: Anís estrella (Illicium verum), canela (Cinnamomum camphora), clavo de olor (Syzygium aromaticum), hojas prensadas de tabaco (Nicotiana tabacum), fibras prensada de algodón (Gossypium spp) y vainilla (Vanilla planifolia).
 
