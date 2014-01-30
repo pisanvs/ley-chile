@@ -22,7 +22,9 @@ RUT : 7.845.170-K
 
 Ubicación : Quinta Región - Provincial de
 
-Quillota - Staff
+Quillota - Unidad Operativa
+
+de Cobro 1
 
 Calidad Jurídica : Planta
 
@@ -30,18 +32,20 @@ Estamento : Profesional
 
 Cargo : Profesional
 
-Grado : 8 E.U.
+Grado : 8 EU
 
 Función : Abogado
 
-Fecha de inicio : 19/11/2008
+Fecha Inicio : 03/01/2014
 
-Jurisdicción : Todas las comunas de las
+Jurisdicción : En todas las comunas de la
 
-provincias de Quillota y
+provincia de Quillota y en
 
-Petorca
+las comunas de Olmué y Limache
 
-Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los abogados del Servicio de Tesorerías, dependientes de la Quinta Región.
+de la provincia de Marga Marga.
+
+Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los abogados del Servicio de Tesorerías, dependientes de la Tesorería.
 
 Anótese, comuníquese y publíquese.- Andrea Tohá Veloso, Jefa División de Personal.
