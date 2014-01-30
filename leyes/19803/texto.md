@@ -54,7 +54,7 @@ El alcalde someterá a acuerdo del concejo, conjuntamente con el proyecto de pre
 
 #### Artículo 7º
 
-El cumplimiento de los objetivos de gestión institucional del año precedente, atendido los recursos disponibles, dará derecho a los funcionarios a una bonificación de un 7,6% de las remuneraciones indicadas en el artículo 3º, siempre que la municipalidad haya alcanzado un grado de cumplimiento igual o superior al 90% de los objetivos de gestión anuales que se haya fijado. Si dicho grado de cumplimiento fuere inferior al 90% pero igual o superior al 75%, el porcentaje de esta bonificación será de un 3,8%. En todo caso, no existirá incentivo por gestión institucional cuando el grado de cumplimiento sea inferior al 75%.
+El cumplimiento de los objetivos de gestión institucional del año precedente, atendido los recursos disponibles, dará derecho a los funcionarios a una bonificación de un 6% de las remuneraciones indicadas en el artículo 3º, siempre que la municipalidad haya alcanzado un grado de cumplimiento igual o superior al 90% de los objetivos de gestión anuales que se haya fijado. Si dicho grado de cumplimiento fuere inferior al 90% pero igual o superior al 75%, el porcentaje de esta bonificación será de un 3%. En todo caso, no existirá incentivo por gestión institucional cuando el grado de cumplimiento sea inferior al 75%.
 
 #### Artículo 8º
 
@@ -66,17 +66,13 @@ Con todo, si la parte de los recursos provisionados para el componente por gesti
 
 La aplicación del incentivo de desempeño colectivo por área de trabajo a que se refiere la letra b) del artículo 2º, el alcalde la acordará con la o las asociaciones de funcionarios de la municipalidad respectiva, en el mes de diciembre de cada año, con la aprobación del concejo.
 
-La bonificación no podrá exceder del 8% de las remuneraciones indicadas en el artículo 3º, siempre que la dirección, departamento o unidad haya alcanzado un grado de cumplimiento igual al 90% de las metas anuales comprometidas en el Programa de Mejoramiento de la Gestión Municipal. Si dicho grado de cumplimiento fuere inferior al 90% pero igual o superior al 75% el porcentaje de esta bonificación será de un 4%. En todo caso, no existirá incentivo por desempeño colectivo por área de trabajo cuando el grado de cumplimiento sea inferior al 75%.
+La bonificación no podrá exceder del 4% de las remuneraciones indicadas en el artículo 3º, siempre que la dirección, departamento o unidad haya alcanzado un grado de cumplimiento igual al 90% de las metas anuales comprometidas en el Programa de Mejoramiento de la Gestión Municipal. Si dicho grado de cumplimiento fuere inferior al 90% pero igual o superior al 75% el porcentaje de esta bonificación será de un 2%. En todo caso, no existirá incentivo por desempeño colectivo por área de trabajo cuando el grado de cumplimiento sea inferior al 75%.
 
 A falta de acuerdo sobre la aplicación del incentivo de desempeño colectivo, se aplicará un incentivo de desempeño individual. Para este efecto, el alcalde podrá acordar con la o las asociaciones de funcionarios, en el mes de diciembre de cada año, los procedimientos y parámetros de cumplimiento y evaluación del desempeño individual de los funcionarios para el ejercicio siguiente, previa aprobación del concejo. A falta de acuerdo sobre la materia, la aplicación de este incentivo se efectuará en consideración al sistema de calificación de desempeño vigente en el municipio.
 
-En el caso del incentivo de desempeño individual, la bonificación no podrá exceder del 8% para el primer tercio mejor calificado de cada escalafón, y hasta el 4% para los funcionarios que les sigan en orden descendente de evaluación, hasta completar el 66% de los mejor evaluados de cada escalafón. Con todo, cualquiera sea el mecanismo de evaluación que adopte la municipalidad, el reglamento respectivo deberá garantizar una adecuada objetividad e imparcialidad en sus resultados.
+En el caso del incentivo de desempeño individual, la bonificación no podrá exceder del 4% para el primer tercio mejor calificado de cada escalafón, y hasta el 2% para los funcionarios que les sigan en orden descendente de evaluación, hasta completar el 66% de los mejor evaluados de cada escalafón. Con todo, cualquiera sea el mecanismo de evaluación que adopte la municipalidad, el reglamento respectivo deberá garantizar una adecuada objetividad e imparcialidad en sus resultados.
 
 INCISO SUPRIMIDO
-
-#### Artículo 9º bis
-
-El componente base a que se refiere la letra c) del inciso primero del artículo 2º será de un 15% sobre las remuneraciones mencionadas en el artículo 3º.
 
 #### Artículo 9º ter
 
