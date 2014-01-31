@@ -78,6 +78,8 @@ La declaración de invalidez del causante corresponderá hacerla al Servicio Nac
 
 Las personas que fueren declaradas inválidas deberán someterse a los exámenes o controles que se les ordenare por el respectivo Servicio Médico, los que deberán efectuarse obligatoriamente a lo menos cada tres años. La renuencia sin causa justificada, a someterse a dichos exámenes o controles facultará a la institución previsional correspondiente para ordenar la suspensión del pago del beneficio.
 
+No obstante, las personas cuya invalidez fuere declarada con la calidad de irreversible por resolución fundada del Servicio respectivo, no deberán someterse a los exámenes o controles trianuales del inciso anterior.
+
 La recuperación de la capacidad de ganancia o de las funciones corporales o mentales, según el caso, por sobre el límite señalado en los incisos 2.o y 3.o de este artículo, cuestión de hecho que deberá ser calificada por el Servicio Médico competente, hará perder la condición de inválido y, consecuencialmente, el derecho a causar asignación por invalidez.
 
 La asignación familiar por invalidez será exigible y se pagará desde la fecha del certificado que acredite esta causal, pero, si el derecho a ella hubiere sido impetrado con anterioridad, su pago se hará desde la fecha de la respectiva solicitud.
