@@ -358,7 +358,7 @@ No procederán las exenciones del presente número cuando en los locales en que 
 
 Las comisiones que perciban los Servicios Regionales y Metropolitano de Vivienda y Urbanización sobre los créditos hipotecarios que otorguen a los beneficiarios de subsidios habitacionales y las comisiones que perciban las Instituciones de Previsión en el otorgamiento de créditos hipotecarios a sus imponentes.
 
-7) Los ingresos que no constituyen renta según el artículo 17° de la Ley de la Renta y los afectos al impuesto adicional establecido en el artículo 59° de la misma ley;
+7) Los ingresos que no constituyen renta según el artículo 17° de la Ley de la Renta y los afectos al impuesto adicional establecido en el artículo 59° de la misma ley, salvo que respecto de estos últimos se trate de servicios prestados en Chile y gocen de una exención de dicho impuesto por aplicación de las leyes o de los convenios para evitar la doble imposición en Chile;
 
 8) Los ingresos mencionados en los artículos 42° y 48° de la Ley de la Renta;
 
@@ -768,17 +768,17 @@ f) DEROGADA
 
 g) Derogada.
 
-h) Vehículos casa-rodantes auto-propulsados;
+h) SUPRIMIDA;
 
 i) Conservas de caviar y sus sucedáneos;
 
 j) Artículos de pirotecnia, tales como fuegos artificiales, petardos y similares, excepto los de uso industrial, minero o agrícola o de señalización luminosa;
 
-k) DEROGADA
+k) DEROGADA.
 
 l) Armas de aire o gas comprimido, sus accesorios y proyectiles, con excepción de las de caza submarina, y
 
-m) DEROGADA
+m) DEROGADA.
 
 > **Nota.** NOTA: 1 El inciso 2º del artículo 1º transitorio de la LEY 19738, dispone que la modificación introducida a este artículo, regirá a contar del 1 del mes siguiente al de la fecha de su publicación.
 
@@ -1018,11 +1018,9 @@ La guía de despacho a que se refiere el inciso cuarto, o la factura o boleta re
 
 La Dirección Nacional del Servicio de Impuestos Internos podrá eximir de las obligaciones establecidas en los artículos anteriores a determinadas actividades, grupos o gremios de contribuyentes, a contribuyentes que vendan o transfieran productos exentos o que presten servicios exentos, y a contribuyentes afectos a los impuestos establecidos en esta ley, cuando por la modalidad de comercialización de algunos productos, o de prestación de algunos servicios, la emisión de boletas, facturas u otros documentos por cada operación pueda dificultar o entrabar las actividades que ellos desarrollan. En estos casos, la Dirección Nacional del Servicio de Impuestos Internos podrá establecer otro tipo de control de las operaciones, que se estime suficiente para resguardar el interés fiscal, sin perjuicio de lo dispuesto en el inciso 3° del artículo 23 del Código Tributario.
 
-El Servicio de Impuestos Internos podrá autorizar el uso de boletas, facturas, facturas de compra, guías de despacho, liquidaciones facturas, notas de débito y notas de crédito que no reúnan los requisitos exigidos por la Ley y el Reglamento, y que, a juicio de dicho Servicio, resguarden debidamente los intereses fiscales.
+El Servicio de Impuestos Internos podrá autorizar el uso de boletas, facturas, facturas de compra, guías de despacho, liquidaciones facturas, notas de débito y notas de crédito que no reúnan los requisitos exigidos por la Ley y el Reglamento, y que, a juicio de dicho Servicio, resguarden debidamente los intereses fiscales, pudiendo autorizar la emisión en papel de los documentos que deban ser emitidos en formato electrónico conforme al inciso primero del artículo 54, mediante resolución en que se deberá expresar los fundamentos por los cuales se concede dicha autorización e individualizar al contribuyente o grupo de contribuyentes beneficiados y el plazo de vigencia de la misma, el cual, en todo caso, podrá ser renovado sucesivamente en tanto se mantengan las razones que originaron el otorgamiento de la autorización
 
-La Dirección Nacional del Servicio de Impuestos Internos podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de los documentos referidos en el inciso anterior, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
-
-La impresión en papel que se efectúe, cuando el Servicio lo disponga, de las boletas, facturas, liquidaciones facturas, notas de débito y notas de crédito, cuya emisión se haya autorizado reemplazar de acuerdo a lo dispuesto en el inciso precedente, tendrá el valor probatorio de un instrumento privado emanado de la persona bajo cuya firma electrónica se transmitió.
+En los casos en que, de acuerdo a esta ley, los contribuyentes emitan boletas en soporte de papel, la Dirección Nacional del Servicio de Impuestos Internos podrá autorizar su emisión mediante máquinas registradoras u otros medios tecnológicos.
 
 Asimismo, la Dirección del Servicio de Impuestos Internos podrá autorizar, por resolución fundada, a las personas naturales o comunidades integrantes de determinados grupos o gremios de contribuyentes, para emitir boletas nominativas en vez de facturas, cuando la actividad desarrollada por dichos grupos o gremios sea de escasa importancia económica. Dichas boletas deberán cumplir con los requisitos que la ley señala para las facturas, con excepción del impuesto contenido en el Decreto Ley número 619, de 1974, y darán derecho al crédito fiscal en los términos señalados en los artículos 23 y siguientes.
 

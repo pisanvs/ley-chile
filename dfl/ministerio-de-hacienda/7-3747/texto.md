@@ -38,15 +38,19 @@ La Dirección de Grandes Contribuyentes tendrá rango de Subdirección.
 
 #### Artículo 4°
 
-El Servicio tiene una Dirección Regional en cada Región del país y cuatro en la Región Metropolitana.
+El Servicio tiene una Dirección Regional en cada Región del país y cinco en la Región Metropolitana.
 
-Las Direcciones Regionales se denominan: I Dirección Regional, Iquique; II Dirección Regional, Antofagasta; III Dirección Regional, Copiapó; IV Dirección Regional, La Serena; V Dirección Regional, Valparaíso; VI Dirección Regional, Rancagua; VII Dirección Regional, Talca; VIII Dirección Regional, Concepción; IX Dirección Regional, Temuco; X Dirección Regional, Puerto Montt; XI Dirección Regional, Coyhaique; XII Dirección Regional, Punta Arenas; XIII Dirección Regional Metropolitana, Santiago Centro; XIV Dirección Regional Metropolitana, Santiago Poniente; XV Dirección Regional Metropolitana, Santiago Oriente; XVI Dirección Regional Metropolitana, Santiago Sur; XVII Dirección Regional, Valdivia, y XVIII Dirección Regional, Arica.
+Las Direcciones Regionales se denominan: I Dirección Regional, Iquique; II Dirección Regional, Antofagasta; III Dirección Regional, Copiapó; IV Dirección Regional, La Serena; V Dirección Regional, Valparaíso; VI Dirección Regional, Rancagua; VII Dirección Regional, Talca; VIII Dirección Regional, Concepción; IX Dirección Regional, Temuco; X Dirección Regional, Puerto Montt; XI Dirección Regional, Coyhaique; XII Dirección Regional, Punta Arenas; XIII Dirección Regional Metropolitana, Santiago Centro; XIV Dirección Regional Metropolitana, Santiago Poniente; XV Dirección Regional Metropolitana, Santiago Oriente; XVI Dirección Regional Metropolitana, Santiago Sur; XVII Dirección Regional, Valdivia, XVIII Dirección Regional, Arica, y XIX Dirección Regional Metropolitana, Santiago Norte.
 
 En las Direcciones Regionales existirán los Departamentos que establezca el Director, con sujeción a la planta del Servicio.
+
+> **Nota.** El artículo segundo transitorio de la Ley 20727, Hacienda, publicada el 31.01.2014, establece que la modificación introducida al presente artículo comenzará a regir en la fecha que fije el Director del Servicio de Impuestos Internos mediante resolución, la que no podrá exceder del año 2014.
 
 #### Artículo 4° bis
 
 El Servicio de Impuestos Internos podrá, además, relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquéllos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
+
+El Servicio de Impuestos Internos deberá establecer y administrar en su sitio web una plataforma tecnológica para que los contribuyentes de difícil fiscalización o de escaso movimiento operacional o económico, las empresas de menor tamaño según se definen en la ley Nº 20.416 y demás contribuyentes que determine a su juicio exclusivo, emitan y reciban las facturas y demás documentos electrónicos señalados en el artículo 54, registren sus operaciones y cedan o recepcionen las facturas a través del procedimiento previsto en la ley Nº19.983. Respecto de las operaciones que se ejecuten a través de esta plataforma, el Servicio acreditará para todos los efectos legales la identidad del emisor y la integridad del mensaje o documento electrónico.
 
 #### Artículo 5°
 
@@ -96,7 +100,7 @@ b bis) Asesorar al Ministerio correspondiente en la negociación de Convenios In
 
 c) Dirigir, organizar, planificar y coordinar el funcionamiento del Servicio, dictar las órdenes que estime necesarias o convenientes para la más expedita marcha del mismo, supervigilar el cumplimiento de las instrucciones que imparta y la estricta sujeción de los dictámenes y resoluciones a las instrucciones que sobre las leyes y reglamento emita la Dirección;
 
-d) La representación del Fisco, cuando fuere necesario, en la aplicación y fiscalización de los impuestos a que se refiere el artículo 1°, sin perjuicio de la representación que corresponde al Presidente del Consejo de Defensa del Estado conforme a la Ley Orgánica de dicho Servicio;
+d) La representación del Fisco, cuando fuere necesario, en la aplicación y fiscalización de los impuestos a que se refiere el artículo 1°;
 
 e) Representar al Servicio en todos los asuntos, incluidos los recursos judiciales en que la ley le asigne la calidad de parte, y los recursos extraordinarios que se interpongan en contra del mismo Servicio con motivo de actuaciones administrativas o jurisdiccionales;
 
@@ -218,11 +222,11 @@ Los Directores Regionales son las autoridades máximas del Servicio dentro de lo
 
 #### Artículo 19°
 
-Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones:
+Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones: ARTICULO 19 (DEL ART. PRIMERO) - Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones:
 
 a) Supervigilar el cumplimiento de las leyes tributarias encomendadas al Servicio, de acuerdo a las instrucciones del Director;
 
-b) Resolver las reclamaciones tributarias que presenten los contribuyentes y las denuncias por infracción a las leyes tributarias, en conformidad al Libro III del Código Tributario y a las instrucciones del Director;
+b) Aplicar sanciones y girar multas por infracciones a las leyes tributarias que se sometan al procedimiento del artículo 165 del Código Tributario, que no hayan sido objeto de reclamo de conformidad con lo dispuesto en el número 3º de dicha disposición legal;
 
 c) Ejercer las demás atribuciones que les confieren el Código Tributario y las otras disposiciones legales vigentes o que se dicten;
 
@@ -458,7 +462,7 @@ El Director estará obligado a dar respuesta sólo a las consultas que sobre int
 
 #### Artículo 46°
 
-En los juicios y actuaciones en que intervenga el Servicio ante los Tribunales de Justicia, el patrocinio y representación serán asumidos por el abogado que designe el Director. Si no mediare designación específica el patrocinio y representación corresponderá al abogado de mayor jerarquía de la respectiva Dirección Regional. Los abogados podrán delegar el poder en algún funcionario del Servicio que cumpla con los requisitos de estudio que se señalan en el artículo 41° de la Ley sobre Colegio de Abogados.
+En los juicios y actuaciones en que intervenga el Servicio ante los Tribunales de cualquier denominación, el patrocinio y representación serán asumidos por el abogado que designe el Director o el Director Regional. Si no mediare designación específica el patrocinio y representación corresponderá al abogado de mayor jerarquía de la respectiva Dirección Regional. Los abogados podrán delegar el poder en algún funcionario del Servicio que cumpla con los requisitos de estudio que se señalan en el inciso primero del artículo 2º de la ley Nº18.120.
 
 El poder que confiera el Director y el Director Regional no requerirá la concurrencia personal de los mismos al Tribunal respectivo para la correspondiente autorización.
 
