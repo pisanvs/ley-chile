@@ -12,6 +12,8 @@ Disposiciones generales
 
 Reconócese, a los trabajadores de la Administración del Estado, incluidas las municipalidades y del Congreso Nacional, el derecho de constituir, sin autorización previa, las asociaciones de funcionarios que estimen conveniente, con la sola condición de sujetarse a la ley y a los estatutos de las mismas.
 
+Asimismo, les será aplicable esta ley a los miembros del Poder Judicial actualmente en ejercicio o jubilados, sin perjuicio de las excepciones que se señalan.
+
 Esta ley no se aplicará, sin embargo, a las Fuerzas Armadas, a las Fuerzas de Orden y Seguridad Pública, a los funcionarios de las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno a través de éste, ni a los trabajadores de las empresas del Estado que, de acuerdo con la ley, puedan constituir sindicatos.
 
 > **Nota.** El artículo transitorio de la LEY 19673, estableció las condiciones que deben cumplir las asociaciones de funcionarios del Congreso Nacional para acogerse al régimen jurídico que establece la presente ley.
@@ -83,6 +85,8 @@ k) Establecer centrales de compra o economatos, y
 l) En general, realizar todas aquellas actividades contempladas en los estatutos y que no estuvieren prohibidas por ley.
 
 Para el cumplimiento de estas finalidades, en especial de las señaladas en las letras a), b), g) y h), podrán celebrar convenios con instituciones privadas o públicas.
+
+Las finalidades señaladas en la letra d) y en la segunda parte de la letra f) del inciso segundo, no serán aplicables a las asociaciones de funcionarios del Poder Judicial.
 
 ## Capítulo II
 
@@ -238,6 +242,8 @@ Los directores de las asociaciones de funcionarios gozarán de fuero, esto es, d
 
 Asimismo, durante el lapso a que se refiere el inciso precedente, los dirigentes no podrán ser trasladados de localidad o de la función que desempeñaren, sin su autorización por escrito.
 
+Sin perjuicio de lo establecido en el artículo 80 de la Constitución Política, no será procedente respecto de los directores de las asociaciones de funcionarios del Poder Judicial, la ratificación por la Contraloría General de la República, de la medida disciplinaria de destitución a que se refiere el inciso primero.
+
 Igualmente, no serán objeto de calificación anual durante el mismo lapso a que se refieren los incisos anteriores, salvo que expresamente la solicitare el dirigente. Si no la solicitare, regirá su última calificación para todos los efectos legales.
 
 Los directores de las asociaciones de funcionarios tendrán derecho a solicitar información, de las autoridades de la institución correspondiente, acerca de las materias y de las normas que dijeren relación a los objetivos de las asociaciones y a los derechos y obligaciones de los afiliados.
@@ -279,6 +285,8 @@ La jefatura superior de la respectiva repartición, deberá conceder a los direc
 El tiempo de los permisos semanales será acumulable por cada director dentro del mes calendario correspondiente y cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito a la jefatura superior de la respectiva repartición.
 
 Con todo, podrá excederse el límite indicado en los incisos anteriores cuando se tratare de citaciones practicadas a los directores de asociaciones, en su cáracter de tales, por las autoridades públicas, citaciones que deberán acreditarse debidamente si así lo exigiere la jefatura superior de la respectiva repartición. Tales horas no se considerarán dentro de aquellas a que se refieren los incisos anteriores. El tiempo que abarcaren los permisos otorgados a los directores de asociaciones se entenderá trabajado para todos los efectos, manteniendo el derecho a remuneración.
+
+Sin perjuicio de lo establecido en los incisos anteriores, los permisos que corresponda conceder a los directores de las asociaciones de funcionarios del Poder Judicial, se regirán por las normas que al efecto dicte la Corte Suprema por medio de un auto acordado.
 
 #### Artículo 32
 
