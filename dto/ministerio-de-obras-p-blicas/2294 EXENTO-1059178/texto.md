@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 2294, de 29 de noviembre de 2013, se dejó sin efecto los Decretos Exentos MOP Nºs 3196, 3200, 3212, 3213 y 3214, todos de 17 de octubre de 2011, Nº 3873 de 23 de noviembre de 2011, y Nº 4028 de 24 de noviembre de 2011, que ordenaban la expropiación de los lotes de terreno Nºs 6, 7, 9, 10, 4, 6-1 y 7-1, respectivamente, para la obra "Concesión Vial Autopistas de la Región de Antofagasta. Ruta 5: Sector La Negra - Carmen Alto. Sector 1: Sector La Negra - Nudo Uribe. Km. 1.357.000 a Km. 1.378.000".
+
+Fiscal del Ministerio de Obras Públicas.
