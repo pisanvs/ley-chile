@@ -1,0 +1,3 @@
+Por resolución exenta Nº 363, 24 de enero de 2014, de esta Subsecretaría, recházanse las solicitudes números 203101319, 210100038, 210100047 sector 0, 210100002 y 212110017, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 24 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
