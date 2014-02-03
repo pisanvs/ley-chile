@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA A "ALMEYDA SOLAR SpA"
+
+Mediante decreto exento Nº 1, de 2 de enero de 2014, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Almeyda Solar SpA", RUT 76.321.458-3, el inmueble fiscal conformado por los Lotes a, b, c, d, e, f, g, h, i, ubicados en Camino Público C-167, km 0.5, comuna de Diego de Almagro, provincia de Chañaral, Región de Atacama, enrolados en el Servicio de Impuestos Internos con los Nos 4000-2, 4000-3, 4000-4, 4000-5, 4000-6, 4000-7, 4000-8, 4000-9 y 4000-10, respectivamente, amparados por la inscripción global que rola a fojas 111 vta. Nº 105 del Registro de Propiedad del Conservador de Bienes Raíces de Diego de Almagro, correspondiente al año 1996, singularizados en el plano Nº 03202-1189-C.U., de una superficie aproximada de 1.250.365,47 m2.
+
+La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será el equivalente en moneda nacional a UF 1.531,24.
+
+La concesión se otorga para ejecutar en el inmueble concesionado un proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Bárbara López Báez, Abogado División Jurídica, Ministerio de Bienes Nacionales.
