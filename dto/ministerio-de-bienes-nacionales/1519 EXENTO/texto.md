@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA A SOCIEDAD "SOLAR SKY 1 SpA"
+
+Mediante decreto exento Nº 1.519, de 27 de diciembre de 2013, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Solar Sky 1 SpA", RUT 76.183.067-8, el inmueble fiscal ubicado en Sector de Crucero a 14 km, al Noreste de la localidad de María Elena, compuesto por el Lote A, Lote B y Lote C, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, enrolados en el Servicio de Impuestos Internos con los Nos 6700-32, 6700-33 y 6700-34, respectivamente, amparados por la inscripción global que rola a fs. 6 Nº 6, del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 1996, singularizado en el plano Nº 02302-4.285 C.R., de una superficie aproximada de 72,88 ha.
+
+La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será el equivalente en moneda nacional a UF 745.
+
+La concesión se otorga para ejecutar en el inmueble concesionado un proyecto de Energía Renovable No Convencional (ERNC). El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Bárbara López Báez, Abogado División Jurídica, Ministerio de Bienes Nacionales.
