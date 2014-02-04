@@ -1,0 +1,3 @@
+Por resolución exenta Nº 378, de 28 de enero de 2014, de esta Subsecretaría, recházase las solicitudes de concesión de acuicultura números 207103242, 208103149 y 211103039, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290 de 1993, del Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 28 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
