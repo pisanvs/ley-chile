@@ -1,0 +1,3 @@
+Por resolución exenta Nº 379, de 28 de enero de 2014, de esta Subsecretaría, recházase la solicitud de Relocalización de concesión de acuicultura Nº 210110100, Sector 12, presentada por SALMONES FRIOSUR S.A., para instalar y operar un centro de cultivo ubicado al Este Isla Tres Dedos, XI Región, en virtud del artículo 14 letra l) del DS Nº 290 de 1993, del Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 28 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
