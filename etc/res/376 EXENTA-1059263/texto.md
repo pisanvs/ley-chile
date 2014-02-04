@@ -1,0 +1,3 @@
+Por resolución exenta Nº 376, de 28 de enero de 2014, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 209101108, presentada por CULTIVOS MARINOS KALUE LIMITADA, para instalar y operar un centro de cultivo ubicado al Noroeste de Ensenada Llico, Sector 3, X Región, en virtud de la ley Nº 20.657.
+
+Valparaíso, 28 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
