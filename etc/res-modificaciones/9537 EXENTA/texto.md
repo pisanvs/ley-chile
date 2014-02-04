@@ -48,8 +48,6 @@ El monto definitivo a considerar para cada postulante seleccionado, será determ
 
 4. El monto total de subsidios otorgados por la presente resolución, señalados para cada región en la columna "Monto Subsidios Mes de Agosto (UF)" del Resuelvo precedente, se imputará al programa del Fondo Solidario de Elección de Vivienda del año 2013 de cada una de ellas.
 
-> **Nota.** El numeral 1 de la Resolución 1208 Exenta, Vivienda, publicada el 27.02.2014, modifica la presente norma, en el sentido de agregar a la tabla de grupos seleccionados, contenida en el Resuelvo 2, la que en ella se incluye, relativa al llamado efectuado por resolución exenta Nº 4.871 (V. y U.), de 2013.
-
 Anótese, comuníquese, publíquese y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Ragnar Branth Litvanyi, Subsecretario de Vivienda y Urbanismo (S).
