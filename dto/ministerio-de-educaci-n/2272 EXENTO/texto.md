@@ -154,7 +154,7 @@ d) Verificar que el acta de registro de calificaciones y promoción de alumnos o
 
 La preparación de estos exámenes deberá hacerse a partir de lo dispuesto en los planes y programas oficiales del Ministerio de Educación vigentes para el respectivo curso, nivel y/o modalidad a validar. Asimismo, la evaluación y promoción se regirá por los respectivos reglamentos de evaluación del nivel o curso correspondiente.
 
-El examen de validación de 1º a 4º año de Educación General Básica consistirá en una evaluación global y de 5º año de Educación General Básica a 4º año de Enseñanza Media consistirá en un examen por cada curso y subsector de aprendizaje.
+El examen de validación de 1º a 4º año de Educación General Básica consistirá en una evaluación global y de 5º año de Educación General Básica a 4º año de Enseñanza Media consistirá en un examen por cada curso y subsector de aprendizaje o bien en un examen global por nivel o ciclo, el cual incluirá los subsectores del ámbito de Formación General.
 
 Las personas mayores de dieciocho años que requieran certificar estudios de educación básica y media serán evaluados de acuerdo al marco curricular y de Evaluación y Promoción vigente para la Educación de Adultos.
 
