@@ -1,0 +1,5 @@
+IMPARTE INSTRUCCIONES RELATIVAS A APLICACIÓN DE AJUSTES AL AVALÚO DE TERRENO A CASOS PARTICULARES DE BIENES RAÍCES NO AGRÍCOLAS HABITACIONALES, ESTACIONAMIENTOS Y BODEGAS ACOGIDOS A COPROPIEDAD INMOBILIARIA, SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS REAVALUADOS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 6, del 30 de enero de 2014, que norma la aplicación excepcional de ajustes al avalúo del terreno de aquellos bienes raíces reavaluados conforme a lo dispuesto en la ley Nº 20.650, cuyos valores se encuentran definidos mediante resolución exenta SII Nº 108, de 27/12/2013, que presentan características particulares no consideradas en la determinación de su avalúo, como también por hechos o situaciones posteriores a la entrada en vigencia del reavalúo, siempre que afecten negativamente el valor del terreno.
+
+El texto íntegro de este documento está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet, www.sii.cl, y se incluirá en el Boletín del SIl, correspondiente al mes de enero de 2014.
