@@ -36,6 +36,8 @@ e) Reemplázase en la tabla inserta en su resuelvo 14., la fila correspondiente 
 
 2. Apruébase la nómina de grupos seleccionados para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, en las tipologías de postulación con y sin proyecto habitacional, y los recursos respectivos, para las Regiones de Antofagasta, Atacama, Coquimbo, Valparaíso, L.B. O'Higgins, Biobío, Los Ríos, Los Lagos, Aysén y Metropolitana, correspondiente al concurso cuyo cierre de postulación se efectuó el día 27 de diciembre de 2013, en el llamado efectuado por resolución exenta Nº 7.079 (V. y U.), de 2013, lista que se presenta a continuación:
 
+.
+
 3. El Serviu respectivo deberá verificar al momento de la adscripción al proyecto, que las personas que integran los grupos señalados que resulten beneficiados, acrediten el ahorro mínimo de 10 Unidades de Fomento a que alude el artículo 9 del DS Nº 49 (V. y U.), de 2011, de acuerdo a lo que se establece en los puntos 3 y 4 de la resolución exenta Nº 7.079 (V. y U.), de fecha 3 de octubre de 2013.
 
 4. Los recursos comprometidos conforme al Rsuelvo 2, de la presente resolución, para los postulantes seleccionados en el concurso a que se llamó por resolución exenta Nº 7.079 (y. y U.), de 2013, cuyo cierre de postulación se efectuó el día 27 de diciembre de 2013, se detallan en el siguiente cuadro para cada región del país, considerando el valor referencial señalado en el Rsuelvo 14., de la resolución exenta Nº 7.079 (V. y U.), de 2013 y sus modificaciones:
