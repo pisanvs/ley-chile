@@ -18,7 +18,7 @@ Resolución:
 
 2. Permítase a la Secretarla Regional Ministerial de la Región de La Araucanía, para el llamado autorizado mediante Resuelvo precedente, modificar y/o definir, mediante resoluciones fundadas, condiciones diferentes a las establecidas en el DS Nº 49 (V. y U.), de 2011.
 
-3. Establécese que los postulantes a este llamado deberán pertenecer a la Región de La Araucanía, ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en estado hábil con anterioridad al 29 de noviembre de 2013. Los proyectos asociados a los postulantes deberán haber sido ingresados al Banco de Proyectos.
+3. Establécese que los postulantes a este llamado deberán pertenecer a la Región de La Araucanía, ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en estado hábil con anterioridad al 13 de diciembre de 2013. Los proyectos asociados a los postulantes deberán haber sido ingresados al Banco de Proyectos.
 
 4. Para los efectos de determinar el número de certificados de subsidio susceptibles de financiar, se considerará un valor promedio de 490 Unidades de Fomento, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de acuerdo a los montos de subsidios base y complementarios, si corresponde, indicados en los artículos 4 y 7 del DS Nº 49 (V. y U.), de 2011, incluidos los respectivos servicios de asistencia técnica, inspección técnica de obra.
 
@@ -29,6 +29,8 @@ Resolución:
 7. Establécese que el Serviu de la Región de La Araucanía enviará, a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo, copia de las resoluciones del llamado y selección de los postulantes, las respectivas nóminas de familias beneficiadas y el monto de los recursos efectivamente asignados.
 
 8. Impútase el monto total de 44.100 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de La Araucanía, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
+
+> **Nota.** La Resolución 797 Exenta, Vivienda, publicada el 06.02.2014, modificó la presente norma en el sentido de reemplazar en su resuelvo 3., la expresión "30 de septiembre de 2013" por "13 de diciembre de 2013"; sin embargo la fecha referida había sido sustituida previamente por la resolución 8649 Exenta, Vivienda, publicada el 03.12.2013, que reemplazó en el resuelvo 3., la locución "al 30 de septiembre de 2013" por "al 29 de noviembre de 2013".
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
