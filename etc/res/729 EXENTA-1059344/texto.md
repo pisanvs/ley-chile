@@ -1,0 +1,45 @@
+ESTABLECE REQUISITOS FITOSANITARIOS DE IMPORTACIÓN PARA PLANTAS, ESTACAS Y RAMILLAS DE LITCHI (LITCHI CHINENSIS), PROCEDENTES DE LOS ESTADOS MIEMBROS DE LA COMUNIDAD EUROPEA
+
+Núm. 729 exenta.- Santiago, 30 de enero de 2014.- Vistos: Lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero; el decreto ley Nº 3.557, de 1980, del Ministerio de Agricultura, sobre Protección Agrícola; el decreto Nº 156, de 1998, del Ministerio de Agricultura, que habilita puertos para la importación de vegetales, animales, productos y subproductos e insumos agrícolas y pecuarios, al territorio nacional; el decreto Nº 28, de 2003, del Ministerio de Relaciones Exteriores, que aprueba el Acuerdo de Asociación entre Chile, la Comunidad Europea y sus Estados Miembros, y las resoluciones Nos 558, de 1999; 3.280, de 1999; 1.523, de 2001; 2.863, de 2001; 3.080, de 2003; 3.815, de 2003; 2.878, de 2004; 3.589, de 2012, y sus modificaciones, todas del Servicio Agrícola y Ganadero.
+
+Considerando:
+
+1. Que el Servicio Agrícola y Ganadero está facultado para establecer los requisitos fitosanitarios para la importación al país de artículos reglamentados, a fin de prevenir la introducción y dispersión de plagas reglamentadas.
+
+2. Que el Servicio Agrícola y Ganadero ha recibido solicitudes de personas interesadas en importar al país plantas, estacas y ramillas de Litchi (Litchi chinensis), procedentes de los Estados Miembros de la Comunidad Europea, especie sin requisitos fitosanitarios para su importación desde este origen, los cuales se requieren que se encuentren preestablecidos por este Servicio, para efectos de verificar su cumplimiento y autorizar el ingreso al país.
+
+3. Que se ha realizado el Análisis de Riesgo de Plagas para plantas, estacas y ramillas de Litchi (Litchi chinensis), procedentes de los Estados Miembros de la Comunidad Europea, lo que ha permitido establecer los requisitos fitosanitarios de importación.
+
+Resuelvo:
+
+1. Establézcanse los siguientes requisitos fitosanitarios de importación para plantas, estacas y ramillas de Litchi (Litchi chinensis), procedentes de los Estados Miembros de la Comunidad Europea:
+
+1.1 El envío deberá venir amparado por un Certificado Fitosanitario emitido por la autoridad fitosanitaria del Estado Miembro de la Comunidad Europea correspondiente, en el que consten las siguientes declaraciones adicionales:
+
+a. El material procede de un programa de producción bajo certificación oficial o de Viveros o Centros Repositorios de germoplasma, que se encuentren bajo el control del organismo fitosanitario oficial del país exportador.
+
+b. Además, se deben indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, específicas para cada tipo de material de propagación que a continuación se señalan:
+
+1.2 El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente al tratamiento, el producto, tipo de aplicación y dosis utilizadas.
+
+1.3 Adicionalmente, el material deberá cumplir con los siguientes requisitos fitosanitarios que se verificarán en la inspección fitosanitaria en el puerto de ingreso.
+
+o Libre de suelo.
+
+o Libre de flores y frutos.
+
+o Embalados en envases nuevos de primer uso y etiquetados o rotulados de acuerdo a normativa vigente.
+
+o Los materiales de acondicionamiento destinados a amortiguar o conservar la humedad deben corresponder a materiales tales como turba, musgo esfangíneo, vermiculita, perlita o geles higroscópicos, de acuerdo a normativa vigente.
+
+1.4 Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará la aplicación de medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
+
+1.5 La totalidad del material deberá cumplir con régimen de Cuarentena de Post Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto, el importador deberá contar con la autorización del lugar de cuarentena, la que debe ser presentada en el puerto de ingreso al momento del arribo del envío al país. Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y Ganadero que establecen regulaciones para material vegetal en régimen de Cuarentena de Post Entrada.
+
+1.6 Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, deberá cumplir con lo establecido en las normativas de este Servicio que regulan el reconocimiento de centros de producción para exportar material de propagación de especies vegetales a Chile, indicándose además en la sección correspondiente del Certificado Fitosanitario la siguiente declaración adicional:
+
+"El envío procede de (nombre del centro), el cual ha sido oficialmente reconocido hasta (fecha de vigencia) por resolución Nº (número de resolución de reconocimiento del Centro), de fecha (fecha)".
+
+1.7 Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
+
+Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional.
