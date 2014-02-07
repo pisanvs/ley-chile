@@ -12,7 +12,7 @@ c) La resolución exenta Nº 8.834 (V. y U.), de 2013, dicto la siguiente
 
 Resolución:
 
-1º.- Llámase a partir del 7 de enero y hasta el 7 de febrero de 2014, ambas fechas inclusive, a postulación nacional para el Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Serviu procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
+1º.- Llámase a partir del 7 de enero y hasta el 14 de febrero de 2014, ambas fechas inclusive, a postulación nacional para el Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Serviu procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
 
 Las personas que postulen como titulares vía internet a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación y la información ingresada y registrada en el sistema, será válida para todos los efectos de la postulación y del proceso de selección.
 
