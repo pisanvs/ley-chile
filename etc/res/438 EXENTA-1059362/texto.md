@@ -1,0 +1,5 @@
+OTORGA RECONOCIMIENTO OFICIAL A "ESCUELA DE CONDUCTORES RUTA DEL SOL LIMITADA"
+
+Por resoluciones exentas Nos 438 y 439, de fecha 20 de enero de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueban Planes y Programas y se otorga Reconocimiento Oficial de Escuela de Conductores Profesionales "Escuela de Conductores Ruta del Sol Limitada", nombre de fantasía "Academia de Conductores Ruta del Sol Ltda.", RUT Nº 76.235.091-2, representada legalmente por Daniela Cristina Ramírez Valenzuela, RUT Nº 13.057.069-0, Jaime Ariel Ramírez Aburto, RUT Nº 5.293.222-K, Nelson Eduardo Parra Bastías, RUT Nº 12.514.729-1, y Claudio Antonio Terré Irarrázabal, RUT Nº 8.548.955-0, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clase A-2, A-3, A-4 y A-5, en la sede ubicada en Ricardo Ayala 181 y taller mecánico ubicado en Universidad Católica Nº 801, ambos en la comuna de Maipú.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
