@@ -1,0 +1,39 @@
+PRORROGA, POR TÉRMINO QUE INDICA, POSTERGACIÓN DE PERMISOS DE SUBDIVISIÓN, LOTEO, URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES, DISPUESTA POR DECRETO ALCALDICIO Nº 3.810, DE 2013, DEL SR. ALCALDE DE LA FLORIDA
+
+Núm. 217 exenta.- Santiago, 29 de enero de 2014.- Vistos: El DL 1.305; el DS 397 (V. y U.), de 1977; el DFL 458, de 1975, Ley General de Urbanismo y Construcciones; el DS Nº 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; la Ley Nº 19.880, que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; la resolución Nº 1.600 de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón; el decreto (V. y U.), Nº 2, de fecha 14 de enero de 2013, y
+
+Considerando:
+
+1. Que mediante oficio Ord. Nº 759, de fecha 21 de octubre de 2013, del Alcalde de La Florida, solicitó a esta Seremi informar favorablemente la postergación de los permisos de subdivisión, loteo, urbanización predial y de construcciones, en parte del territorio urbano de la comuna de La Florida, específicamente en parte de las actuales zonas E-AB1 y Z-AM del Plan Regulador Comunal de La Florida, de acuerdo a los graficado en el "Plano de postergación de permisos de edificación asociados a la Modificación Nº 9 del Plan Regulador Comunal de La Florida, modificación Zona E-AB1, sector precordillerano y zona Z-AM, predios aledaños al Santuario Schöenstatt".
+
+La solicitud anterior, se fundamentaba, básicamente, en asegurar la generación de una normativa que garantice el valor paisajístico-ambiental del sector de la precordillera de la comuna, individualizado en el plano indicado anteriormente, y regular la altura y normas urbanísticas de los predios colindantes al predio del Santuario de Schöenstatt, de manera de homologar las características urbanísticas con dicho inmueble de conservación histórica.
+
+2. Que mediante oficio Ord. Nº 4880, de fecha 24 de octubre de 2013, esta Seremi procedió a informar favorablemente la postergación de permisos referida en el considerando anterior, específicamente en parte de las actuales zonas E-AB1 y Z-AM del Plan Regulador Comunal de La Florida, de acuerdo a lo graficado en el "Plano de postergación de permisos de edificación asociados a la Modificación Nº 9 del Plan Regulador Comunal de La Florida, modificación Zona E-AB1, sector precordillerano y zona Z-AM, predios aledaños al Santuario Schöenstatt", según los siguientes polígonos:
+
+a. En el Polígono del Sector Precordillerano de la comuna, definido por los puntos 1-2-3-4-5-6-7-8-9-10-11-1, de acuerdo a la siguiente tabla:
+
+.
+
+b. En el Polígono del Sector que enmarca al predio correspondiente al Santuario de Schöenstatt y sus predios aledaños, definido por los puntos 1-2-3-4-1, de acuerdo a la siguiente tabla:
+
+.
+
+3.- Que mediante decreto alcaldicio Nº 3.810, de fecha 4 de noviembre de 2013, del. Sr. Alcalde de La Florida, publicado en el Diario Oficial de fecha 8 de noviembre de 2013, se dispuso la Postergación, por un plazo de tres meses, de los permisos de subdivisión, loteo, urbanización predial y de construcciones, para el área circunscrita en los límites de los polígonos referidos en el considerando anterior.
+
+4.- Que mediante oficio Ord. Nº 221, de fecha 26 de diciembre de 2013, el Sr. Alcalde de La Florida ha solicitado, a esta Seremi, una prórroga, por un plazo de nueve meses, para la postergación dispuesta en el decreto alcaldicio referido en el considerando anterior.
+
+La solicitud se fundamenta, en la necesidad de evitar la proliferación de proyectos que puedan atentar contra las normas urbanísticas que propone la modificación al Plan Regulador Comunal de La Florida, mientras se tramita el cambio normativo. A su vez, se solicita aplicar la prórroga de la postergación de permisos en forma selectiva, sólo a los sectores involucrados, para evitar aquellos proyectos que se contradigan con las nuevas condiciones técnico - urbanísticas contenidas en el proyecto de modificación al PRC de La Florida, atendido el hecho que éste se encuentra terminada como estudio y en avanzado proceso de aprobación, el cual se proyecta será completado dentro de los próximos nueve meses.
+
+Abonando, lo anterior, el oficio referido, al inicio de este considerando acompaña copia de los siguientes documentos: Decreto Ex. Nº 3.231 de fecha 21/10/2013, que dispuso el inicio del proceso aprobatorio de la modificación; Certificado de fecha 16/10/2013 de la Secretaria Municipal sobre el acuerdo aprobatorio de Concejo Municipal a la modificación al PRC e inicio del preceso aprobatorio de la misma, de igual fecha; Certificado de fecha 16/10/2013 de la Secretaria Municipal sobre el acuerdo aprobatorio del Concejo Municipal al calendario de Audiencias Públicas para tratar la Modificación Nº 9 al PRC, de igual fecha; Certificado de fecha 26/12/2013 del Secretario Municipal sobre la realización de sesión extraordinaria del Consejo Comunal de Organizaciones de la Sociedad Civil de fecha 04/11/2013, relativa a la Modificación Nº 9 al PRC; Carta Gantt de programación de actividades del proceso aprobatorio de la Modificación Nº 9 al PRC de La Florida; decreto exento Nº 3.810 de fecha 04/11/2013, que dispuso la postergación de permisos por tres meses en los dos sectores involucrados en la Modificación Nº 9 al PRC de La Florida y copia de su publicación en el Diario Oficial de fecha 08/11/2013.
+
+5. Que mediante memorándum Nº 09-2014, de fecha 28 de enero de 2014, el Departamento de Desarrollo Urbano e Infraestructura de esta Seremi ha estimado atendible la preocupación municipal por preservar los dos sectores incluidos en el proyecto de modificación al PRC de La Florida, para que se consoliden a futuro con las normas contenidas en dicho proyecto, el cual se encuentra en avanzado trámite de aprobación, por lo que estima recomendable atender lo solicitado y someter el caso a la consideración de este Secretario Ministerial Metropolitano para que disponga una prórroga de 9 meses a la postergación de permisos dispuesta mediante el decreto alcaldicio referido en el considerando 3 de esta resolución.
+
+6. Que el inciso 1º del artículo 117 del DFL 458 de 1975, Ley General de Urbanismo y Construcciones, dispone que "los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo", agregando su inciso 2º que "en caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado "por orden del Presidente de la República" o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna.".
+
+Resuelvo:
+
+1. Prorróguese por un plazo de nueve meses, la postergación de permisos dispuesta por el decreto alcaldicio referido en el considerando 3 de esta resolución.
+
+2. La presente resolución deberá ser publicada en el Diario Oficial y en uno de los diarios de mayor circulación de la comuna de La Florida.
+
+Anótese, comuníquese y publíquese.- Juan Andrés Muñoz Saavedra, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
