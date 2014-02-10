@@ -144,6 +144,8 @@ a través de: Av. Dorsal, túneles y Comodoro Arturo Merino Benítez.
 
 El tramo urbano de la Ruta G-45-H, desde Camino Internacional (E13S) hasta el límite urbano sur, a través de Avenida Padre Hurtado (T4S).
 
+. Sistema vial que interconecta Avenida Américo Vespucio (E14.N) con Costanera Norte Río Mapocho (E6.O), a través de: Avenida El Salto, Camino La Pirámide y Vía Morada.
+
 4º Declárense Caminos Públicos en las áreas urbanas de los siguientes centros poblados, pueblos y ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Calera de Tango:
