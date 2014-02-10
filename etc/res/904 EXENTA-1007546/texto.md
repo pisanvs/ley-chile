@@ -26,6 +26,10 @@ Derby
 
 Dunhill
 
+- Golden Deer Azul
+
+- Golden Deer Rojo
+
 Hilton
 
 Indy
@@ -36,13 +40,23 @@ Kent
 
 L&M
 
+- LM Silver Lave Ks Box 20.
+
 Latino
+
+- Liqun
 
 Lucky Stricke
 
 Lucky Strike Roll Your Own.
 
 Malboro
+
+- Marlboro Gold Original Ks Box 20
+
+- Marlboro Gold Original KS Box 10
+
+- Marlboro (Red) Ks Box 20
 
 Pacific
 
@@ -51,6 +65,10 @@ Pall Mall
 Parliament
 
 Phillip Morris
+
+- Philip Morris (Blue) KS Box 20
+
+- Philip Morris (Red), LM Blue Label KS Box 20.
 
 Viceroy
 
