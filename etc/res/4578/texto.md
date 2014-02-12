@@ -50,4 +50,28 @@ Función : Directora Regional Tesorera
 
 Subrogante.
 
+Nombre : Leandro Javier Barros Millar
+
+RUT : 15.305.358 - 8
+
+Ubicación : Undécima Región - Regional de
+
+Coyhaique - Unidad Operativa
+
+de Cobro 1
+
+Calidad Jurídica : Contrata
+
+Estamento : Profesional
+
+Cargo : Profesional
+
+Grado : 11 E.U.
+
+Fecha inicio : 21/01/2014
+
+Función : Director Regional Tesorero
+
+Subrogante.
+
 Anótese y comuníquese.- Sergio Frías Cervantes, Tesorero General de la República.
