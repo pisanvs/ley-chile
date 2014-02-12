@@ -34,7 +34,13 @@ El empresario de transportes será responsable de que en la prestación del serv
 
 #### Artículo 7º
 
-La circulación de vehículos realizando transporte escolar, sin estar habilitados para ello, constituye una infracción gravísima a la ley Nº18.290, de Tránsito.
+La circulación de vehículos realizando transporte escolar, sin estar habilitados para ello, será sancionada con multa a beneficio fiscal de tres a quince unidades tributarias mensuales, de cargo del propietario del vehículo. En caso de reincidencia, la multa será de cinco a veinte unidades tributarias mensuales.
+
+Si el conductor que fuere sorprendido cometiendo dicha infracción corresponde a una persona distinta del propietario, se le aplicará una multa de uno coma cinco a tres unidades tributarias mensuales.
+
+En caso que un vehículo sea sorprendido circulando en las condiciones señaladas en el inciso primero, será retirado de circulación por Carabineros de Chile o Inspectores Fiscales, poniéndolo a disposición del tribunal competente en los lugares habilitados por las Municipalidades para tal efecto, aplicándose respecto de su propietario lo dispuesto en el inciso segundo del artículo 156 del decreto con fuerza de ley Nº 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, del año 2009, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.290, de Tránsito.
+
+No se entenderá como vehículo inhabilitado aquel que ocasionalmente realice transporte de escolares en viajes específicos, de acuerdo a lo establecido en los reglamentos dictados por el Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 8º
 
