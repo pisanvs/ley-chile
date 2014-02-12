@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIE EN CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 4.383, del 26 de noviembre de 2013, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Marine Harvest Chile S.A., sociedad chilena, RUT 96.633.780-K, con domicilio en Ruta 226, kilómetro 8, casilla 56-D, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 211101061, del 17 de agosto de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada resolución 1.810, del 22 de octubre de 1996, cuya ampliación de plazo para iniciar actividades y transferencia fueron autorizadas por resolución 2.002, del 2 de noviembre de 1999, modificada por resolución 1.598, del 31 de julio de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina y modificada por resolución exenta 2.327, del 19 de marzo de 2012, rectificada por resolución exenta 6.750, del 6 de agosto de 2012, ambas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Isla Llancahué, al Noroeste de Playa Astilleros, comuna de Hualaihué, provincia de Palena, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 1.236, del 2 de julio de 1996, modificada por resolución exenta 2.154, del 14 de agosto de 2008, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca y modificada por resolución exenta 958, del 10 de abril de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 21 de enero de 2014.- Por orden del Subsecretario para las Fuerzas Armadas, Ricardo Maldonado Torres, Jefe División Jurídica Subrogante.
