@@ -1,0 +1,7 @@
+INSTRUYE SOBRE LAS MODIFICACIONES EFECTUADAS POR LA LEY 20.630, DE 2012, A LA LEY SOBRE IMPUESTO A LA RENTA, RELACIONADAS CON LA TRIBUTACIÓN BAJO EL RÉGIMEN DE RENTA PRESUNTA EN LAS ACTIVIDADES AGRÍCOLA, DE LA MINERÍA, TRANSPORTE TERRESTRE DE CARGA AJENA Y PASAJEROS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 8, de fecha 7 de febrero de 2014, la cual tiene por objeto instruir sobre las modificaciones efectuadas por la ley Nº 20.630, de 2012, a la tributación bajo el régimen de renta presunta en las actividades agrícola, de la minería, transporte terrestre de carga ajena y de pasajeros.
+
+Las nuevas normas de relación, límites y requisitos para poder declarar los impuestos sobre la base de la renta presunta, y que se comentan en la presente circular, rigen a partir del 1 de enero de 2013 y se aplicarán sólo a contar de esa fecha, por lo que en caso de no cumplirse con tales requisitos, o bien, en caso de exceder los límites que establece la LIR, el contribuyente que quede obligado a declarar sus rentas efectivas según contabilidad completa, lo estará a contar del 1 de enero del año siguiente a aquel en que no se cumpla con dichos requisitos.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de febrero de 2014.
