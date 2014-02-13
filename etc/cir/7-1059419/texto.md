@@ -1,0 +1,7 @@
+INSTRUCCIONES RESPECTO DEL TÉRMINO DE LA VIGENCIA DE LAS NORMAS ESTABLECIDAS EN LA LEY Nº 20.365 DE 2009, QUE OTORGAN UN CRÉDITO TRIBUTARIO A LAS EMPRESAS CONSTRUCTORAS QUE INSTALEN SISTEMAS SOLARES TÉRMICOS EN LAS VIVIENDAS QUE CONSTRUYAN
+
+Extracto de circular del Servicio de Impuestos Internos Nº 7, de fecha 7 de febrero de 2014, la cual tiene por objeto instruir instrucciones respecto del término de la vigencia de las normas establecidas en la ley Nº 20.365 de 2009, que otorgan un crédito tributario a las empresas constructoras que instalen Sistemas Solares Térmicos en las viviendas que construyan.
+
+Con el objeto de otorgar certeza a los contribuyentes respecto de los límites a los créditos a que tienen derecho, en caso que la recepción municipal definitiva se obtenga después del 31 de diciembre del año 2013, siempre que ésta se hubiere solicitado con anterioridad al 30 de noviembre del año 2013, mediante la presente circular se analizan los topes absolutos máximos que podrán hacerse valer respecto de las viviendas cuya recepción municipal definitiva se obtenga con posterioridad a la fecha señalada. Las instrucciones contenidas en la referida circular, rigen a contar de su publicación en extracto en el Diario Oficial.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de febrero, de 2014.
