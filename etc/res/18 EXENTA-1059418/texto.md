@@ -1,0 +1,7 @@
+IMPARTE INSTRUCCIONES SOBRE EL CUMPLIMIENTO DEL DEBER DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LA OPCIÓN QUE ESTABLECE EL ARTÍCULO TRANSITORIO DE LA LEY Nº 20.570, DE 2012, QUE MODIFICÓ LA LEY Nº20.241, DE 2008, QUE ESTABLECE UN INCENTIVO TRIBUTARIO A LA INVERSIÓN PRIVADA EN INVESTIGACIÓN Y DESARROLLO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 18, del 7 de febrero de 2014, que:
+
+Los contribuyentes que, en cumplimiento a lo dispuesto en el artículo transitorio de la ley Nº 20.570, de 2012, a contar del año tributario 2014, opten por continuar haciendo uso de los beneficios tributarios en los términos establecidos en la ley Nº 20.241, de 2008, deberán informar a este Servicio, mediante la presentación del Formulario 2117, en la Dirección Regional, Dirección de Grandes Contribuyentes o Unidad correspondiente a su domicilio, hasta el 28.02.2014, "su voluntad de mantener los beneficios del artículo 5º de la Ley Nº 20.241 que regían con anterioridad a la entrada en vigencia de la Ley Nº 20.570". En dicha petición, asimismo, deberá adjuntar copia de los certificados emitidos por CORFO, junto con un detalle del tiempo de vigencia que resta para el término de los respectivos contratos.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de febrero, de 2014.
