@@ -22,6 +22,12 @@ Fíjase para el año 2014 el calendario nacional de examinación para las person
 
 CALENDARIO NACIONAL DE EXAMINACIÓN AÑO 2014
 
+.
+
+(*) Decreto supremo que modifica el decreto supremo Nº 40, de 1996, del Ministerio de Educación.
+
+(**) Decreto supremo que modifica el decreto supremo Nº 220, de 1998, del Ministerio de Educación.
+
 Podrán eximirse de los períodos de aplicación establecidos en este calendario, las regiones cuya condición y/o contexto geográfico ameriten su aplicación en otras fechas, situación que deberá ser informada oportunamente, para su análisis, en la Unidad encargada de la División de Educación General y refrendada mediante el acto administrativo de la respectiva Secretaría Regional Ministerial de Educación.
 
 Anótese y publíquese.- Carolina Schmidt Zaldívar, Ministra de Educación.
