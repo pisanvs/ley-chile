@@ -300,129 +300,69 @@ La tarifa no podrá ser recalculada más de una vez en el lapso de doce meses, y
 
 ## Título VII
 
-De las exenciones y rebajas tarifarias
+De las exenciones y rebajas de tarifa
 
-#### Artículo 36º
+#### Artículo 36
 
-Quedarán exentos en forma automática del pago del derecho de aseo, los usuarios cuya vivienda o unidad habitacional a la que se entrega el servicio, tenga un avalúo fiscal igual o inferior a las 225 Unidades Tributarias Mensuales.
+Quedarán exentos en forma automática del pago del 100% de la tarifa de aseo domiciliario, los usuarios que acrediten o se encuentren en las siguientes condiciones:
 
-#### Artículo 37º
+1. Aquellos cuya vivienda o unidad habitacional a la que se otorga el servicio tenga un avalúo fiscal igual o inferior a las 225 Unidades Tributarias Mensuales.
 
-Los poseedores a cualquier título de predios afectos al pago del derecho de aseo, podrán solicitar la exención total o parcial de los derechos referidos. La exención variará en porcentaje de la forma que se detalla a continuación:
+2. Aquellos cuyo grupo familiar esté integrado por discapacitado, enfermo catastrófico o postrado severo, siempre que mantenga Ficha de Protección Social (FPS) o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna.
 
-A. Podrán acogerse al beneficio de exención del 100% de la tarifa de los derechos de aseo domiciliario, los usuarios que califiquen en los siguientes criterios:
+3. Aquellos jefes(as) de hogar cuyo grupo familiar registre un puntaje en la Ficha de Protección Social igual o inferior a 8.500 puntos, o aquel puntaje que en el futuro refleje el 1º quintil de vulnerabilidad.
 
-1. Los solicitantes que acrediten puntaje actualizado
+#### Artículo 37
 
-de la Ficha de Protección Social, dentro de los
+El procedimiento para otorgar la exención referida en el artículo anterior será el siguiente:
 
-2.072 a 11.734 puntos o aquel puntaje que en el
+1. El Departamento de Rentas Municipales, en el último trimestre de cada año, emitirá un informe con el listado de beneficiarios a que se refiere el número 1. del artículo anterior. En el mismo plazo, la Dirección de Desarrollo Comunitario (Dideco) deberá emitir el informe correspondiente para las líneas de exención individualizadas con los números 2. y 3. Con aquella información, la Dirección Jurídica dictará un decreto alcaldicio individualizando a todos los beneficiarios y que será publicado en la página web de la municipalidad.
 
-futuro refleje el 1º y 2º quintil.
+2. Las personas que se sientan perjudicadas por no haber sido incluidas en el listado de beneficiarias exentas podrán deducir reclamación ante el Departamento de Rentas Municipales o la Dirección de Desarrollo Comunitario, según corresponda, cuya unidad deberá pronunciarse dentro del plazo de treinta días contados de la fecha de presentación del reclamo. En caso de acogerse se incluirá a la persona como beneficiaria de la exención, mediante un decreto complementario.
 
-2. Adulto mayor de 65 años o más, jefe de hogar, que
+3. La exención regirá para el año en que fue reconocida, no obstante, podrá ser renovada año a año siempre que se mantengan las condiciones por las que se concedió.
 
-reciba pensión básica o aporte provisional
+#### Artículo 38
 
-solidario.
+Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención total, siempre y cuando registren Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna y acrediten además alguno de los siguientes requisitos:
 
-3. Personas con discapacidad debidamente acreditada
+1. Pensionado, montepiado, jubilado o adulto mayor (mujer sobre 60 años y hombre sobre 65 años), jefe de hogar, cuyo ingreso mensual no sea superior a seis UTM.
 
-con certificado de discapacidad e informe de la
+2. Mujeres o jóvenes menores de 24 años, jefes de hogar, con hijos en edad de estudios parvularios, básicos, medios o técnico profesional, cuyo ingreso mensual no supere las seis UTM.
 
-Dirección de Desarrollo Comunitario.
+#### Artículo 39
 
-4. Mujeres jefas de hogar con hijos en edad escolar o
+Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención del 50% de su valor, siempre y cuando registren Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna y acrediten además el siguiente requisito: Jefe(a) de hogar cuyo grupo familiar registre un puntaje en la Ficha de Protección Social superior a 8.501 e inferior a 13.484 puntos, o el puntaje que en el futuro refleje el 2º o 3º quintil de vulnerabilidad.
 
-parvularia, que habiten el inmueble en calidad de
+#### Artículo 40
 
-propietarias, arrendatarias, usufructuarias, o
+Las personas que deseen beneficiarse de las exenciones referidas en los dos artículos anteriores deberán presentar una solicitud dirigida al Departamento de Rentas Municipales adjuntando los antecedentes que acrediten el cumplimiento de la causal respectiva. Esta presentación deberá formalizarse a través de la Oficina de Partes, durante los meses de agosto a octubre de cada año y el beneficio regirá para el año siguiente.
 
-meras tenedoras, acreditado por la Dirección de
+El benefició de exención total o parcial podrá ser renovado para el año siguiente a solicitud expresa del beneficiario y sólo se otorgará en el caso de mantenerse las condiciones. El otorgamiento de una exención total o parcial o su renovación será analizada e informada por la Dirección de Desarrollo Comunitario y por el Departamento de Rentas Municipales.
 
-Desarrollo Comunitario.
+Será causal de caducidad del beneficio la detección de falsificación en los datos entregados al municipio para solicitar la exención, el cambio de domicilio del beneficiario, la pérdida del requisito del puntaje de Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, cuando no solicite su renovación y, en general, cuando el interesado pierda los requisitos que ameritaban la exención parcial o total.
 
-5. Jóvenes entre 18 y 24 años de edad, jefes de hogar,
+#### Artículo 41
 
-con hijos, que sean propietarios, arrendatarios,
+Las personas que sean propietarias de más de un bien raíz no podrán acogerse a los beneficios de exención contemplados en los artículos precedentes.
 
-usufructuarias, meras tenedoras, acreditado por la
+Los poseedores no propietarios de un inmueble afecto al pago de tarifa de aseo domiciliario podrán beneficiarse de la exención referida en los artículos 38 y 39, sólo en el caso que estén obligados a pagarla en virtud del contrato, acto jurídico que los habilita a usar el bien raíz o, en el caso de no contar con aquellos instrumento, con una declaración jurada extendida ante Notario Público, en la que se indique que es poseedor del inmueble y que está obligado a responder por el pago de la tarifa de aseo domiciliario.
 
-Dirección de Desarrollo Comunitario.
+#### Artículo 42
 
-B. Podrán acogerse al beneficio de exención del 50% de la tarifa de los derechos de aseo domiciliario, los solicitantes que acrediten puntaje actualizado de la Ficha de Protección Social, dentro de los 11.375 a 13.484 puntos o aquel puntaje que en el futuro refleje el 3º quintil.
+El municipio podrá rebajar, excepcionalmente y por motivos fundados, la proporción del monto de la tarifa de aseo que reste pagar en el respectivo año calendario, a aquellas personas que por razones circunstanciales vean afectada la normalidad económica del grupo familiar, tales como el fallecimiento del proveedor, incendio del inmueble que habitan o cualquier otra calamidad. Lo anterior deberá ser certificado por un profesional de la Dirección de Desarrollo Comunitario.
 
-#### Artículo 38º
+#### Artículo 43
 
-En el evento que el solicitante del servicio no sea propietario del inmueble, sólo se aplicarán las exenciones establecidas en el presente Título si éste es el sujeto pasivo del derecho de aseo en virtud del contrato respectivo. En caso contrario el propietario del inmueble queda afecto al pago del derecho.
+El Departamento de Rentas notificará mediante carta a aquellos usuarios que hayan sido beneficiados con algún tipo de exención o rebaja de los que se refiere este título, con a lo menos 30 días de anticipación al vencimiento de la primera cuota de la tarifa de aseo.
 
-#### Artículo 39º
+#### Artículo 44
 
-La nómina de los casos exentos del pago total como los parciales, se actualizarán cada dos años para aquellos casos de enfermedades crónicas o catastróficas; los otros casos se actualizarán anualmente. Dichas actualizaciones serán realizadas por la Dirección de Desarrollo Comunitario en conjunto con el Departamento de Rentas de la Dirección de Administración y Finanzas.
-
-Corresponderá a la Dirección de Desarrollo Comunitario informar si procede o no la renovación del beneficio.
-
-Será causal de caducidad del beneficio la detección de falsificación en los datos entregados al municipio para solicitar el beneficio, el cambio de domicilio del beneficiario, la pérdida del requisito del puntaje de ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace; y en general cuando el interesado no reúna los requerimientos que ameriten la exención parcial o total, o cuando no solicite su renovación.
-
-#### Artículo 40º
-
-No podrán acogerse a los beneficios de exención contemplados en los artículos precedentes, aquellas personas que sean propietarias de más de un bien raíz.
-
-Las exenciones contempladas en los artículos precedentes, sólo se aplicarán respecto de los bienes raíces que estén destinados a habitación permanente del peticionario de la exención, en su calidad de propietario, arrendatario, usufructuario o mero tenedor.
-
-#### Artículo 41º
-
-Para solicitar el beneficio de exención total o parcial los peticionarios deberán presentar la solicitud con los documentos pertinentes en la Dirección de Administración y Finanzas; el plazo para solicitar el beneficio finalizará conjuntamente con el vencimiento de la primera cuota.
-
-La Municipalidad en el último trimestre de cada año revisará la vigencia de estos beneficios y mediante decreto pondrá término para el año siguiente a las que no procedan.
-
-#### Artículo 42º
-
-Sin perjuicio de lo señalado en los artículos precedentes respecto a la exención total o parcial del derecho de aseo, la Municipalidad podrá rebajar una proporción de la tarifa, a los peticionarios que, en atención a sus condiciones socioeconómicas así lo ameriten, cumpliendo conjuntamente con lo establecido por la Ordenanza que Fija la Tarifa por el Servicio Domiciliario por Extracción de Basuras vigente.
-
-Para efectos de acceder a la rebaja aludida el peticionario deberá encontrarse en alguno de los siguientes tramos de valor de tasación fiscal de los predios:
-
-Tramo U.T.M. por valor de Proporción de
-
-tasación fiscal de los predios tarifa
-
-Entre 226 a 300 50%
-
-Entre 301 a 400 75%
-
-Conjuntamente con lo anterior, el contribuyente deberá acreditar documentalmente la concurrencia de alguno de los siguientes requisitos:
-
-1. Adultos mayores con más de 65 años de edad.
-
-2. Ficha de Protección Social con puntaje inferior a 13.375 puntos.
-
-3. Grupo familiar conformado por uno o más adultos postrados, semipostrados o con alguna enfermedad catastrófica o crónica, acreditado con certificado médico correspondiente.
-
-4. Grupo familiar conformado por persona con discapacidad certificada por SENADIS.
-
-5. Grupo familiar conformado por uno o más enfermos crónicos o catastróficos, acreditado por certificado médico.
-
-6. Jefatura de hogar femenina con hijos en edad escolar o parvularia.
-
-Las tarifas rebajadas sólo se aplicarán respecto de los bienes raíces que estén destinados a habitación permanente del peticionario, en su calidad de propietario, arrendatario, usufructuario o mero tenedor.
-
-Será causal de caducidad de la rebaja la falsificación en los datos entregados al municipio para solicitar el beneficio; cuando el peticionario deje de reunir los requerimientos que ameriten la rebaja tarifaria; o cuando no solicite su renovación.
-
-Para solicitar el beneficio de rebaja tarifaria los peticionarios deberán presentar la solicitud con los documentos pertinentes en la Dirección de Administración y Finanzas; el plazo para solicitar el beneficio finalizará conjuntamente con el vencimiento de la primera cuota.
-
-La Municipalidad en el último trimestre de cada año revisará la vigencia de estos beneficios y mediante decreto pondrá término para el año siguiente a las que no procedan.
-
-#### Artículo 43º
+Las exenciones y rebajas a que se refiere este Título se concederán exclusivamente respecto de aquellos bienes raíces que estén destinados a habitación permanente del peticionario en cualquiera calidad jurídica.
 
 Los derechos a que se refieren los artículos anteriores corresponden a las extracciones usuales y ordinarias de desperdicios provenientes de los servicios domésticos.
 
-#### Artículo 44º
-
-Las entidades que por ley se encontraren exentas del pago de derechos municipales, deberán acreditar tal situación ante la Municipalidad con la documentación respectiva.
-
-## Título VII
-
-De las sanciones
+## Título VIII — DE LAS SANCIONES
 
 #### Artículo 45º
 
