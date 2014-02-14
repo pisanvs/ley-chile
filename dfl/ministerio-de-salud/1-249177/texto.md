@@ -1082,7 +1082,17 @@ Serán funciones de la Central:
 
 a) Proveer de medicamentos, artículos farmacéuticos y de laboratorio, material quirúrgico, instrumental y demás elementos e insumos que se requieran para el ejercicio de las acciones de salud a que se refiere el artículo 68.
 
-Para estos fines, la Central podrá adquirir, almacenar, distribuir, transportar, arrendar y vender esos elementos a los organismos, entidades, establecimientos y personas que formen parte del Sistema, con el solo objeto de cumplir los planes y programas del Ministerio y a los demás organismos públicos, entre cuyos fines institucionales esté la realización de acciones de salud en favor de sus beneficiarios; de conformidad al reglamento;
+Para estos fines, la Central podrá adquirir, almacenar, distribuir, transportar, arrendar y vender esos elementos a los organismos, entidades, establecimientos y personas que formen parte del Sistema, con el solo objeto de cumplir los planes y programas del Ministerio y a los demás organismos públicos, entre cuyos fines institucionales esté la realización de acciones de salud en favor de sus beneficiarios, de conformidad al reglamento.
+
+La Central estará obligada a publicar
+
+y a mantener actualizados los precios
+
+de todos los productos que provea y los
+
+descuentos que aplique en la venta por
+
+volumen;
 
 b) Mantener en existencia una cantidad adecuada de elementos de la misma naturaleza, determinados por el Ministerio de Salud, necesarios para el eficiente cumplimiento de sus programas;
 
