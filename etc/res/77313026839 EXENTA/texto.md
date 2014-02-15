@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77313026839, de fecha 11/12/2013, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Tatiana Elizabeth Winkler Pérez Imp. y Exp. E.I.R.L., RUT Nº 76.011.314-K, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la comercialización de especies hidrobiológicas, establecido en la resolución Ex. Nº 3.311, de 2000, de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1 de julio de 2000.
