@@ -1,0 +1,7 @@
+ORDENA DEJAR SIN EFECTO RESOLUCIÓN EXPROPIATORIA Nº 246, DE 2007
+
+NOTIFICACIÓN
+
+Resolución Nº 3.064 de fecha 10 de diciembre del año 2013 dictada por el señor Director Regional Serviu Región de Los Lagos, ordenó dejar sin efecto resolución expropiatoria Nº 246 de fecha 26 de noviembre del año 2007, tramitada por Contraloría con fecha 28 de noviembre del mismo año, del Director (S) Serviu Región de Los Lagos, de la época, que dispuso la expropiación del lote Nº 102, rol de avalúo 238-2 a nombre de don Luis Reyes Penna, ubicado en la comuna de Osorno, necesario para la ejecución de la Obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", Provincia de Osorno, Región de Los Lagos, superficie 53,60 mts cuadrados. Causa rol Nº 104-2007, del Primer Juzgado de Letras de Osorno, en la cual consta consignación de la suma de $42.178.440.- correspondiente a la suma de la indemnización provisional, de conformidad a la tasación de la Comisión de Peritos. Dispuso el desistimiento de la expropiación señalada en la causa rol Nº 104-2007 seguida ante el Primer Juzgado de Letras de Osorno y la solicitud del giro de los dineros consignados y que corresponden a la suma de $42.178.440.- La publicación se efectúa conforme a lo dispuesto en el decreto ley Nº 2.186.
+
+Director Regional Serviu Región de Los Lagos.
