@@ -24,7 +24,9 @@ Otórgase la concesión de Servicio Público de Transmisión de Datos, a la empr
 
 1. Autorízase a la concesionaria para instalar, operar y explotar un (1) sistema punto a multipunto en la banda de 5,8 GHz, cuyas características se indican a continuación:
 
-* DFS: Selección Dinámica de Frecuencia
+.
+
+..
 
 Las conexiones a las redes públicas existentes serán a través de medios propios o de terceros debidamente autorizados.
 
