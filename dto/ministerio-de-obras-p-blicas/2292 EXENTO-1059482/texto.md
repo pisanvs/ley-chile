@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 2292, de 29 de noviembre de 2013, se dejó sin efecto los Decretos Exentos MOP Nºs 541 y 542, ambos de 18 de abril de 2013, que ordenaban la expropiación de los lotes de terreno Nºs 2 y 1, respectivamente, para la obra "Concesión Vial Autopistas de la Región de Antofagasta. Ruta B-400: Ruta 1 - Ruta 5, Sector 2: Ruta 5 - Km. 9.86498".
+
+Fiscal del Ministerio de Obras Públicas.
