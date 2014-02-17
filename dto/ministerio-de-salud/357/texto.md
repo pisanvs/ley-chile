@@ -512,21 +512,39 @@ Queda prohibido:
 
 De los crematorios
 
-#### Artículo 69°
+#### Artículo 69
 
-Los hornos crematorios de cadáveres y de restos humanos, sólo podrán funcionar previa autorización del Servicio Nacional de Salud, en cementerios o independientemente, bajo los siguientes requisitos:
+Para solicitar la autorización de instalación y funcionamiento de hornos crematorios de cadáveres y de restos humanos deberá acompañarse la siguiente información y antecedentes a la Secretaría Regional Ministerial de Salud correspondiente:
 
-1.- Estar emplazados en un terreno no inferior a diez mil metros cuadrados, dentro del cual se construirá el edificio, cuyos planos y demás especificaciones técnicas estén aprobados previamente por el Servicio Nacional de Salud y la Dirección de Obras Municipales de la correspondiente localidad, debiendo contar con áreas verdes adyacentes y estacionamiento de vehículos;
+1) Planos y demás especificaciones técnicas aprobados previamente por la Dirección de Obras Municipales de la respectiva comuna, que indiquen, además, que cuenta con estacionamiento de vehículos.
 
-2.- El edificio debe disponer de sala de incineración, en donde habrá, por lo menos, dos hornos de sistema adecuado, a juicio del Servicio Nacional de Salud. Dispondrá, además, de cámaras frigoríficas con capacidad mínima para seis cadáveres.
+2) Emplazamiento en un terreno no inferior a diez mil metros cuadrados o que la altura mínima de la chimenea por donde salen los gases residuales de la cremación no sea inferior a 30 metros.
 
-Finalmente, dispondrá de: oficina de atención de público, y de sala de estar; de sala para velatorio y exequias, y de servicios higiénicos para hombres y mujeres, de acuerdo con la capacidad de público que atienda, en conformidad a los reglamentos sanitarios.
+3) El edificio debe tener una sala de incineración en donde habrá, por lo menos, dos hornos de sistema adecuado, a juicio de la autoridad sanitaria correspondiente.
 
-#### Artículo 70°
+4) Disposición de cámara frigorífica con capacidad mínima para seis cadáveres.
 
-Deberá llevar además, registros en que se consignen:
+5) Existencia de oficina de atención de público y de sala de estar; servicios higiénicos separados para hombres y mujeres de acuerdo con la capacidad de público que atienda.
 
-a) nombre, edad, sexo, estado civil, nacionalidad, fecha y causa de la muerte de la persona cuyos restos se incineren; b) identificación de los deudos o de las personas que solicitaron la incineración, y c) último domicilio en Chile de la persona cuyos restos se incineren y destino que se dé a sus cenizas. Además, archivos con los documentos que identifiquen los restos de la persona incinerada, que deberán incluir sus huellas dactilares; autorización de la incineración por la autoridad sanitaria; constancia de si la incineración se llevó a efecto por voluntad del extinto, expresada en conformidad a este reglamento o de los parientes u otras personas. Finalmente, libro en que se consignará el acta de la incineración, la cual llevará, por lo menos, la firma de uno de los deudos del incinerado o de terceros que la solicitaron y de la autoridad superior del cementerio.
+Una vez en funcionamiento, los crematorios deberán llevar registros en que se consignen:
+
+1) Nombre, edad, sexo, estado civil, nacionalidad, fecha y causa de la muerte de la persona cuyos restos se incineren.
+
+2) Identificación de los deudos o de las personas que solicitaron la incineración.
+
+3) Último domicilio en Chile de la persona cuyos restos se incineran.
+
+4) Archivos con los documentos que identifiquen los restos de la persona incinerada, que deberán incluir sus huellas dactilares.
+
+5) Constancia de si la incineración se llevó a efecto por voluntad del extinto, expresada en conformidad a este reglamento o de los parientes u otras personas, o en los demás casos contemplados en este cuerpo normativo.
+
+6) Libro en que se consignará el acta de la incineración, la cual llevará, por lo menos, la firma de uno de los deudos del incinerado o de terceros que la solicitaron y de la autoridad del cementerio.
+
+7) El destino del ataúd de aquellas personas cuyos restos fueron incinerados, conforme al artículo siguiente.
+
+#### Artículo 70
+
+Previa autorización de la autoridad sanitaria correspondiente y de los familiares del occiso, los cementerios podrán reutilizar el ataúd que contenía los restos que fueron incinerados, para la inhumación de indigentes. Con todo, aquellos ataúdes que constituyan riesgo para la salud de la población, deberán ser destruidos según indicación de esa misma autoridad.
 
 #### Artículo 71°
 
