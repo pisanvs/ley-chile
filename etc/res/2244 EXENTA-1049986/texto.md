@@ -30,7 +30,9 @@ Resolución:
 
 3º.- El procedimiento que se aprueba por este acto administrativo, estará a disposición de los interesados en la página web del Ministerio de Vivienda y Urbanismo; en el Departamento Tecnologías de la Construcción de la División Técnica de Estudio y Fomento Habitacional del Ministerio de Vivienda y Urbanismo, en su Centro de Documentación, como asimismo en todos los Serviu y Seremi de Vivienda y Urbanismo del país.
 
-4°.- Las soluciones constructivas inscritas en los listados oficiales de Soluciones Constructivas para Acondicionamiento Térmico, Acústico y comportamiento al Fuego, aprobados mediante resoluciones exentas Nº 4.567, 4.568 y 6.510, todas de (V. y U.), del año 2012, respectivamente, mantendrán su vigencia hasta el 31 de diciembre del año 2013, debiendo a partir de esa fecha, someterse al procedimiento aprobado por la presente resolución.
+4º.- Las soluciones constructivas incorporadas en los Listados Oficiales de Soluciones Constructivas para Acondicionamiento Térmico y Comportamiento al Fuego, aprobados respectivamente mediante resoluciones exentas Nos 4.567 y 6.510, ambas de (V. y U.), del año 2012, mantendrán su vigencia hasta la fecha dispuesta en el listado correspondiente, debiendo a partir de la fecha de su vencimiento, someterse al procedimiento aprobado por la presente resolución. Las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Acústico, sancionado mediante resolución exenta Nº 4.568 (V. y U.), de 2012, tendrán vigencia hasta el 30 de abril de 2014.
+
+Con todo, aquellas soluciones del Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, cuya inscripción expiraba en el mes de diciembre del año 2012, se considerarán vigentes hasta el 31 de diciembre de 2013.
 
 Anótese y publíquese la presente resolución en el Diario Oficial.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
@@ -178,17 +180,13 @@ normalizado según ISO 140-6, ponderado
 
 según ISO 717-2.
 
-. En Laboratorio de Control Técnico de
+. Informe de Inspección de Probeta índice
 
-Calidad de Construcción, informe de
+de reducción acústica aparente según NCh
 
-inspección de probeta
+2785 ponderado según ISO 717-1 y nivel de
 
-índice de reducción acústica aparente según
-
-NCh 2785 ponderado según ISO 717-1 y nivel
-
-de presión acústica de impacto normalizado
+presión acústica de impacto normalizado
 
 según ISO 140-7, ponderado según ISO 717-2.
 
@@ -276,11 +274,11 @@ ensayada, y detallada en la Ficha, se estaría
 
 dando cumplimiento con los valores normativos.
 
-m. Tanto el índice de reducción acústica (R o R'),
+m. Tanto el índice de reducción acústica (R'w + C),
 
 como el nivel de presión acústica de impacto
 
-normalizado (IN o IN'), deberá ser declarado
+normalizado (L'n), deberá ser declarado
 
 según el tipo de ensayo realizado, sea éste
 
@@ -810,7 +808,7 @@ IV.- DE LA VIGENCIA DE LAS SOLUCIONES CONSTRUCTIVAS.
 
 a. Las Soluciones Constructivas tendrán una
 
-vigencia de 3 años, contados desde la fecha de
+vigencia de 5 años, contados desde la fecha de
 
 la resolución que sancione su inscripción al
 
