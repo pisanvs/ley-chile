@@ -42,27 +42,35 @@ Destinatarios. Los establecimientos que descarguen residuos industriales líquid
 
 Calificación de fuente emisora. La Superintendencia del Medio Ambiente, de oficio o a solicitud del interesado, evaluará si los establecimientos califican como fuente emisora de residuos industriales líquidos.
 
-Para estos efectos, todo establecimiento que genere residuos industriales líquidos deberá presentar a la Superintendencia del Medio Ambiente, en la forma que ésta indique y con anterioridad al inicio de sus descargas, una caracterización de cada una de ellas.
+Para estos efectos, todo establecimiento que genere residuos industriales líquidos deberá presentar a la Superintendencia del Medio Ambiente, con a lo menos noventa (90) días corridos de anticipación al comienzo de las descargas, lo siguiente:
 
-Los establecimientos que sean calificados como fuente emisora de residuos industriales líquidos no podrán dar inicio a sus descargas sin contar con un Programa de Monitoreo.
+a) Un aviso de inicio de la descarga de residuos líquidos, de acuerdo al formato que establezca la Superintendencia, y
+
+b) Una propuesta de monitoreo mensual de los parámetros más relevantes para el período de evaluación.
+
+Se considerará un plazo de treinta (30) días hábiles a contar de la fecha comunicada por el titular para el inicio de las descargas, para informar a esta Superintendencia los resultados analíticos de la caracterización de cada una de las descargas, para que esta evalúe si el establecimiento califica como fuente emisora.
+
+Durante el período de evaluación de la fuente emisora, los establecimientos industriales generadores de residuos industriales líquidos podrán dar inicio a sus descargas sin contar con un Programa de Monitoreo, siempre y cuando haya comunicado debidamente el aviso de inicio de la descarga de residuos industriales líquidos a la Superintendencia del Medio Ambiente y hubiesen propuesto un monitoreo transitorio mensual, el cual durará hasta el término del procedimiento administrativo originado con el aviso de inicio de la descarga.
+
+Sin perjuicio de lo anterior, toda descarga de residuos industriales líquidos deberá cumplir, en todo momento, con las instrucciones y límites establecidos en la norma de emisión vigente, encontrándose las fuentes sometidas al ejercicio de las potestades fiscalizadoras y sancionatorias de la Superintendencia.
 
 #### Artículo tercero
 
-Programa de monitoreo. Todo establecimiento calificado como fuente emisora deberá solicitar a la Superintendencia del Medio Ambiente, un Programa de Monitoreo donde se establezcan las condiciones específicas del monitoreo de sus descargas de residuos industriales líquidos, en conformidad a la norma de emisión respectiva.
-
-Dicha solicitud deberá ser presentada, por escrito y en formato digital, con a lo menos noventa días de anticipación al inicio de la descarga de residuos industriales líquidos en la forma que establezca la Superintendencia del Medio Ambiente.
-
-La Superintendencia del Medio Ambiente, de acuerdo a la información presentada por la fuente emisora, fijará por medio de una resolución las condiciones específicas para el monitoreo de las descargas de residuos líquidos industriales.
+Programa de monitoreo. La Superintendencia del Medio Ambiente, de acuerdo a los resultados del proceso de caracterización, fijará por medio de una resolución exenta el Programa de Monitoreo que define las condiciones específicas para el monitoreo de las descargas de residuos líquidos industriales.
 
 #### Artículo cuarto
 
-Monitoreo y control de residuos industriales líquidos. El monitoreo se deberá efectuar en cada una de las descargas de la fuente emisora y deberá ceñirse estrictamente a lo dispuesto en el Programa de Monitoreo. Sólo se aceptarán los resultados de los análisis de las muestras del efluente realizados por laboratorios autorizados por La Superintendencia del Medio Ambiente.
+Monitoreo y control de residuos industriales líquidos. El monitoreo deberá ser efectuado en cada una de las descargas de la fuente emisora y deberá ceñirse estrictamente a lo dispuesto en el Programa de Monitoreo. Sólo se aceptarán los resultados de los análisis de las muestras del efluente realizados por laboratorios autorizados por la Superintendencia del Medio Ambiente.
 
-Los resultados de los monitoreos o autocontroles deberán ser informados una vez al mes, a más tardar dentro de los primeros veinte días corridos del mes siguiente al período que se informa. Si el último día del plazo fuera sábado, domingo o festivo, deberá ser informado el primer día hábil siguiente.
+Los resultados de los monitoreos o autocontroles deberán ser informados en los siguientes plazos:
 
-La información deberá ser ingresada en el Sistema de Autocontrol de Establecimientos Industriales (SACEI), administrado por la Superintendencia de Servicios Sanitarios, al cual se accede a través del sitio electrónico htt://www.siss.gob.cl; o deberá ser entregada por escrito y en formato digital a la Dirección General del Territorio Marítimo y de Marina Mercante, según corresponda.
+a) Autocontrol: La información deberá remitirse una vez al mes, a más tardar dentro de los primeros veinte (20) días corridos del mes siguiente al período que se informa. Si el último día del plazo fuera sábado, domingo o festivo, deberá ser informado el primer día hábil siguiente.
+
+b) Remuestreo: En caso que una o más muestras del autocontrol del mes excedan los límites máximos permisibles establecidos en la norma de emisión de residuos industriales líquidos, se deberá efectuar un muestreo adicional o remuestreo. Dicha medición deberá ejecutarse dentro de los quince (15) días corridos de la detección de la anomalía y deberá ser informado a más tardar el último día hábil del mes subsiguiente al período que se informa.
 
 Las fuentes emisoras de residuos industriales líquidos no podrán realizar actividades tendientes a diluir sus aguas residuales y deberán efectuar sus descargas exclusivamente en el punto de muestreo definido en el Programa de Monitoreo.
+
+La información deberá ser remitida a la Superintendencia del Medio Ambiente por medio del Sistema de Ventanilla Única del RETC, siendo el único medio de recepción de la información de la calidad de la descarga de residuos industriales líquidos.
 
 #### Artículo quinto
 
