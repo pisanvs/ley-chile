@@ -50,17 +50,17 @@ Estudio Alternativo:
 
 Pitrufquén, IX Región.
 
-- Coordenadas geográficas : 38º59'34" Latitud Sur;
+- Coordenadas geográficas : 38º59'22" Latitud Sur;
 
-72º38'21" Longitud Oeste.
+72º38'11" Longitud Oeste.
 
 Datum WGS 84.
 
 Planta transmisora:
 
-- Coordenadas geográficas : 38º07'29" Latitud Sur;
+- Coordenadas geográficas : 38º07'09" Latitud Sur;
 
-72º20'29" Longitud Oeste.
+72º20'54" Longitud Oeste.
 
 Datum WGS 84.
 
