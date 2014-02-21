@@ -18514,7 +18514,9 @@ En todo caso, la ley contempla una responsabilidad específica para los director
 
 4.1. Información a las Bolsas de Valores, a esta Superintendencia y a la Superintendencia de Valores y Seguros.
 
-Los hechos o antecedentes que constituyan información esencial, serán comunicados a esta Superintendencia, como a las Bolsas de Valores y a la Superintendencia de Valores y Seguros. La comunicación a las Bolsas de Valores se hará siguiendo las instrucciones que la Superintendencia de Valores y Seguros tenga establecidas para el efecto. Cuando se trate de un hecho esencial que tenga su origen en decisiones adoptadas por esta Superintendencia de Bancos e Instituciones Financieras, sólo se enviará a este organismo supervisor una copia de la comunicación entregada a las entidades antes mencionadas.
+Los hechos o antecedentes que constituyan información esencial, serán comunicados a esta Superintendencia, como a las Bolsas de Valores y a la Superintendencia de Valores y Seguros, tan pronto como ocurran o se tome conocimiento de ellos. La comunicación a las Bolsas de Valores se hará siguiendo las instrucciones que la Superintendencia de Valores y Seguros tenga establecidas para el efecto. Cuando se trate de un hecho esencial que tenga su origen en decisiones adoptadas por esta Superintendencia de Bancos e Instituciones Financieras, sólo se enviará a este organismo supervisor una copia de la comunicación entregada a las entidades antes mencionadas.
+
+La información que corresponda remitir a esta Superintendencia, de acuerdo a lo indicado en el párrafo anterior, deberá ser enviada a través de la Extranet de que dispone este Organismo y en formato PDF "desprotegido", de modo que el usuario pueda copiar o extractar partes de él sin alterar el original.
 
 4.2. Información a los accionistas.
 
