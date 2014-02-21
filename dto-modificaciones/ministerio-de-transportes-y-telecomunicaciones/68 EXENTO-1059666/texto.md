@@ -1,0 +1,43 @@
+MODIFICA CONCESIÓN DE SERVICIO PÚBLICO DE TELEFONÍA MÓVIL DIGITAL 1900 A LA EMPRESA CLARO CHILE S.A.
+
+Santiago, 9 de enero de 2014.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 68 exento.- Vistos:
+
+a) El decreto ley Nº 1.762, de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría;
+
+b) La Ley Nº 18.168, General de Telecomunicaciones, en adelante la ley;
+
+c) La resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón;
+
+d) El decreto supremo Nº 103, de 2008, del Ministerio de Transportes y Telecomunicaciones;
+
+e) La resolución Nº 1.117, de 25.10.95, de la Subsecretaría de Telecomunicaciones, que fija la norma técnica para el Servicio Público de Telefonía Móvil Digital 1900;
+
+f) El decreto supremo Nº 144, de 1997, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión, y sus modificaciones posteriores.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel Nº 67.763, de 02.09.2013;
+
+b) Que la solicitud modifica elementos de la concesión no contemplados en el inciso quinto del artículo 14º de la ley, por lo que en la especie no son aplicables las normas de los artículos 15º y 16º de la misma; es decir, no requiere de publicación del extracto de la solicitud.
+
+Decreto:
+
+Modifícase la concesión de Servicio Público de Telefonía Móvil Digital 1900, cuyo actual titular es la empresa Claro Chile S.A., RUT Nº 96.799.250-K, con domicilio en Av. del Cóndor Nº 820, comuna de Huechuraba, Región Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
+
+1. Autorízase a la concesionaria para cambiar los plazos de inicio de obras, término de obras e inicio de servicio de cincuenta y cinco (55) estaciones base, según se indica a continuación:
+
+Las ubicaciones y demás características técnicas no consideradas en la presente solicitud de modificación permanecerán inalterables, de conformidad a los decretos señalados precedentemente, todos del Ministerio de Transportes y Telecomunicaciones.
+
+### 2. Los plazos máximos se indican a continuación:
+
+3. Apruébase la solicitud presentada por la concesionaria. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+4. La presente modificación debe entenderse sin perjuicio de la aplicación al caso de la normativa de Vivienda y Urbanismo correspondiente y vigente al momento del presente acto administrativo.
+
+5. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
