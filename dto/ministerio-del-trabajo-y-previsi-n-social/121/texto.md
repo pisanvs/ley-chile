@@ -22,19 +22,15 @@ El referido Servicio se regirá por el artículo 134 de la Ley N° 11.764, la Le
 
 De la Administración
 
-#### Artículo 2°
+#### Artículo 2º
 
-La Administración del Servicio corresponderá al Consejo Administrativo integrado por:
+La administración del Servicio corresponderá al Consejo Administrativo integrado por:
 
-a) El Jefe Superior de la Superintendencia de Seguridad Social o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) Tres representantes de la Superintendencia de Seguridad Social correspondientes al nivel de Jefe Departamento o de la Planta de Directivos, designados por el Jefe Superior del Servicio, correspondiendo uno de éstos al Superintendente de Seguridad Social o a la persona que éste designe en su reemplazo, quien lo presidirá, y
 
-b) El Jefe de Personal;
+b) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios que corresponda, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
 
-c) El Jefe del Departamento Jurídico, y
-
-d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
-
-El Jefe del Servicio actuará como secretario del Consejo, teniendo en él derecho a voz pero no a voto.
+El Jefe del Servicio de Bienestar actuará como secretario del Consejo Administrativo, teniendo en él derecho a voz, pero no a voto.
 
 #### Artículo 3°
 
