@@ -32,8 +32,6 @@ Calidad Jurídica: Titular 33 horas.
 
 3. Declárase que el Director Subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
-> **Nota.** El numeral 2 del Decreto 184 Exento, Salud, publicado el 17.04.2014, modifica la presente norma, en el sentido de complementar el nombramiento en el cuarto orden de subrogancia del Servicio de Salud Magallanes de D. María Cristina Díaz Muñoz, estableciéndose la calidad jurídica titular de 33 horas y 11 horas contratada.
-
 Tómese razón, regístrese y publíquese.- Por orden del Presidente de la República, Pedro García Aspillaga, Ministro de Salud.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Cecilia Villavicencio Rosas, Subsecretaria de Salud Pública.
