@@ -58,7 +58,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región del Biob
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de la Araucanía.
 
-11.- Tipo de Vehículo: Station Wagon; Marca: Ford; Modelo: Ecosport XLS 1.6l 4x2; Nº Notor: CDJA78802742; Nº chassis: 9BFZE10 N478802742; Color: Blanco; Año: 2007; Placa Única: WX.6467-5.
+11.- Tipo de Vehículo: Station Wagon; Marca: Hyundai; Modelo: New Tucson GL 2.0 CC Aut 4WD; Nº de Motor: D4HACU734778; Nº Chasis: KMHJT81VDDU668558; Color: Blanco; Año: 2013; Placa Patente Única: FKWC 10-4.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Los Lagos.
 
@@ -66,9 +66,9 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Los L
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Aysén del General Carlos Ibáñez del Campo.
 
-13.- Tipo de Vehículo: Camioneta; Marca: Nissan; Modelo: Terrano DX; Nº Motor: QD32218974; Nº Chassis: JN1CJUD22Z0743114; Color: Blanco; Año: 2006; Placa Única: ZZ.5339-6.
+13.- Tipo de Vehículo: Station Wagon; Marca: Hyundai; Modelo: New Tucson GL 2.0 CC Aut 4WD; Nº de Motor: D4HADU792461; Nº Chasis: KMHJT81VDDU732314; Color: Plateado; Año: 2014; Placa Patente Única: GBRW 56-8.
 
-Asignado a: Secretaría Regional Ministerial de Economía de la Región de Magallanes y Antártica Chilena.
+Asignado a: Secretaría Regional Ministerial de Economía de la Región de Magallanes y la Antártica Chilena.
 
 14.- Tipo de vehículo: Station wagon; marca: Suzuki; modelo: Grand Nomade 1.9; Nº motor: F9QB-063408; Nº chasis: JS3TD44VXB4610032; color: Beige claro; año: 2011; placa única: DGLT.65-3.
 
