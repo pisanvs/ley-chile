@@ -4,7 +4,7 @@ Núm. 444 exento.- La Florida, 5 de febrero de 2014.- Vistos: La resolución exe
 
 Considerando:
 
-Que, por resolución exenta Nº 217 de 2014, el Secretario Ministerial Metropolitano de Vivienda y Urbanismo, dispuso una prórroga por un plazo de nueve meses, de la postergación de permisos dispuesta por el decreto alcaldicio Nº 3.810, de 4 de noviembre de 2014.
+Que, por resolución exenta Nº 217 de 2014, el Secretario Ministerial Metropolitano de Vivienda y Urbanismo, dispuso una prórroga por un plazo de nueve meses, de la postergación de permisos dispuesta por el decreto alcaldicio Nº 3.810, de 4 de noviembre de 2013.
 
 Que, por decreto exento Nº 3.810, de 2014, el Alcalde dispuso la postergación, por un plazo de tres meses, los permisos de subdivisión, loteo o urbanización predial y de construcciones, para el área circunscrita a los siguientes límites:
 
