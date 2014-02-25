@@ -924,7 +924,7 @@ establecer, mediante resolución, pudiendo hacer distinciones por modalidades de
 
 No obstante lo dispuesto en el artículo precedente, el Secretario Regional, mediante resolución fundada, podrá autorizar la operación de una submodalidad de taxi básico, que se denominará taxi ejecutivo, entendiéndose por tal aquel que sólo atiende viajes solicitados a distancia por cualquier persona, a través de los distintos medios de comunicación, no pudiendo atender viajes solicitados en la vía pública.
 
-A los vehículos que presten servicio bajo esta submodalidad no les será aplicable lo dispuesto en el inciso primero del artículo 76º, no deberán tener la información, letreros e indicaciones a que se refieren el inciso tercero del artículo 76º y los artículos 78º, 80º y 84º y deberán contar con una antigüedad máxima de ocho (8) años en el caso de vehículos que cuenten con un motor de menos de 2,0 litros de cilindrada y de diez (10) años para vehículos que cuenten con un motor igual o superior a 2,0 litros de cilindrada. Para estos efectos, en la categoría de motor de 2,0 litros, quedarán comprendidos aquellos cuya cilindrada sea superior a 1.950 cc. e inferior a 2.051 cc.
+A los vehículos que presten servicio bajo esta submodalidad no les será aplicable lo dispuesto en el inciso primero del artículo 76º, no deberán tener la información, letreros e indicaciones a que se refieren el inciso cuarto del artículo 76º y los artículos 78º, 80º y 84º y deberán contar con una antigüedad máxima de ocho (8) años en el caso de vehículos que cuenten con un motor de menos de 2,0 litros de cilindrada y de diez (10) años para vehículos que cuenten con un motor igual o superior a 2,0 litros de cilindrada. Para estos efectos, en la categoría de motor de 2,0 litros, quedarán comprendidos aquellos cuya cilindrada sea superior a 1.950 cc. e inferior a 2.051 cc.
 
 La restricción de antigüedad establecida en el inciso anterior, no será aplicable a los vehículos construidos de fábrica para operar con gas natural o gas licuado de petróleo, vehículo eléctrico puro o vehículo híbrido, definidos para estos efectos en el artículo siguiente.
 
@@ -936,9 +936,11 @@ a) Ser vehículos de una antiguedad no superior a un año, al solicitar su incor
 
 b) contar con un motor de 1,5 litros de cilindrada o superior, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
 
+Contar con un motor 1,4 litros de cilindrada y cuya homologación del modelo lo tipifique como sedán.
+
 Tratándose de vehículos que se incorporen conforme lo dispuesto en la ley 20.474, el requisito de antigüedad señalado en la letra a) del inciso precedente, será de cinco (5) años como máximo.
 
-Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc.
+Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc y en la categoría de motor de 1,4 litros, aquellos cuya cilindrada sea superior a 1.350 cc e inferior a 1.451 cc.
 
 Tratándose de vehículos eléctrico puro o híbrido la potencia para su propulsión deberá ser igual o superior a 70 kw.
 
@@ -1004,11 +1006,13 @@ Los taxis básicos serán de color negro y techo amarillo hasta la base de los p
 
 Por su parte, los taxis colectivos de servicios rurales y los interurbanos serán de color amarillo y los de servicios de turismo de color azul.
 
-Los taxis básicos y los colectivos urbanos llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
+No obstante lo señalado precedentemente, los taxis que cuenten con motor eléctrico puro, cualquiera sea su modalidad o submodalidad, serán de color blanco, con puertas y cubierta del motor (capó) de color verde.
+
+Los taxis básicos y los colectivos urbanos, excepto aquellos que cuenten con motor eléctrico puro, llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
 
 El color amarillo que se indica en los incisos precedentes, corresponde al definido en la norma chilena NCh 1927.
 
-Corresponderá a los Secretarios Regionales disponer, mediante resolución, la fecha a contar de la cual serán exigibles las obligaciones de los incisos segundo, tercero y cuarto de este artículo, lo que podrán hacer diferenciadamente según el tipo de servicio de que se trate. Asimismo, podrán hacer aplicable lo dispuesto en el inciso tercero a los taxis colectivos de servicios rurales, en cuyo caso los caracteres serán de color negro.
+Corresponderá a los Secretarios Regionales disponer, mediante resolución, la fecha a contar de la cual serán exigibles las obligaciones de los incisos segundo, tercero, cuarto y quinto de este artículo, lo que podrán hacer diferenciadamente según el tipo de servicio de que se trate. Asimismo, podrán hacer aplicable lo dispuesto en el inciso cuarto a los taxis colectivos de servicios rurales, en cuyo caso los caracteres serán de color negro.
 
 #### Artículo 77°
 
