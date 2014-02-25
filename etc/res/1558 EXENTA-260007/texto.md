@@ -26,7 +26,7 @@ Resuelvo:
 
 Las bodegas de las aeronaves de carga deberán ser sometidas a los siguientes tipos de tratamientos:
 
-. Tratamiento periódico: Se aplicará un insecticida residual, mediante aspersión, como parte del mantenimiento de la aeronave, a lo menos cada 45 días y debe repetirse cada vez que la aeronave se someta a procesos de limpieza que signifiquen la eliminación del insecticida en las superficies tratadas.
+. Tratamiento periódico: Se aplicará un insecticida residual, mediante aspersión, como parte del mantenimiento de la aeronave, el cual debe repetirse antes de término de su efecto residual o cada vez que la aeronave se someta a procesos de limpieza que signifiquen la eliminación del insecticida en las superficies tratadas.
 
 . Tratamiento en cada vuelo: Se deberá también someter las áreas de carga a una aplicación de insecticida en aerosol en cada vuelo, dejando constancia de ello en la Declaración General de Vuelo, indicando producto, dosis por metro cúbico y metros cúbicos de cada bodega. Dicho tratamiento deberá realizarse después del cierre de la puerta de carga, en el último aeropuerto del vuelo al territorio nacional o, bien, al arribo al territorio nacional previo a la apertura de la puerta de carga.
 
@@ -34,7 +34,7 @@ Las bodegas de las aeronaves de carga deberán ser sometidas a los siguientes ti
 
 A toda aeronave de pasajeros deberá aplicarse los siguientes tipos de tratamientos de desinsectación en las áreas de carga y de pasajeros:
 
-. Tratamiento periódico: Se aplicará un insecticida residual, mediante aspersión, a todas las áreas de carga y de pasajeros con productos autorizados para su uso en aeronaves y como parte del mantenimiento de la aeronave, a lo menos cada 45 días y debe repetirse cada vez que la aeronave se someta a procesos de limpieza que signifiquen la eliminación del insecticida en las superficies tratadas.
+. Tratamiento periódico: Se aplicará un insecticida residual, mediante aspersión, como parte del mantenimiento de la aeronave, el cual debe repetirse antes de término de su efecto residual o cada vez que la aeronave se someta a procesos de limpieza que signifiquen la eliminación del insecticida en las superficies tratadas.
 
 . Tratamiento en cada vuelo: Las bodegas de las aeronaves que provengan de la Polinesia Francesa y de Isla de Pascua o de otras áreas de riesgo que determine el Servicio, deberán ser sometidas, adicionalmente, a una desinsectación con insecticida en aerosol, en cada vuelo con destino a Chile continental.
 
@@ -44,7 +44,7 @@ A toda aeronave de pasajeros deberá aplicarse los siguientes tipos de tratamien
 
 En aeronaves menores, tales como helicópteros y aviación general, se deberá realizar una aplicación de insecticida en aerosol, al interior de la cabina cada vez que ingrese al territorio nacional y deberá aplicarse en el último aeropuerto o aeródromo, antes de su despegue a Chile.
 
-2. Apruébese nuevo Procedimiento de desinsectación de aeronaves provenientes del extranjero, identificado con las siglas P-PA-DA-003-versión 2.
+2. Apruébase nuevo Procedimiento de desinsectación de aeronaves provenientes del extranjero, identificado con las siglas P-PA-DA-003-versión 3, el cual es parte integrante de la presente resolución.
 
 3. Los Operadores Aéreos deberán emitir un Acta de Tratamiento Fitosanitario, que debe ser presentada al Servicio al arribar la aeronave al país y en la cual se especificará el número de registro de la aeronave, tipo de aeronave, el tratamiento aplicado, su fecha y lugar de aplicación o deberán consignar tales datos en el sitio de Internet, que mantiene el Servicio para estos efectos. Además, deberán disponer de una Contraparte Técnica que será responsable ante el SAG en las diferentes etapas que comprende el proceso.
 
