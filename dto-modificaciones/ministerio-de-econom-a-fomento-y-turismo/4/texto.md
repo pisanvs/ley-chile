@@ -530,6 +530,8 @@ b) Elimínanse los artículos 5º, 7º y 11 transitorios.
 
 Por el plazo de tres años, contados desde la fecha de publicación del presente decreto en el Diario Oficial, la smoltificación en ríos, lagos y estuarios de ejemplares de la especie Trucha arcoíris Oncorhynchus mykiss, Salmón coho Oncorynchus kisutch y Salmón rey o Chinook Oncorhynchus tschawytscha, podrá realizarse en zonas que hayan sido declaradas libres o en vigilancia de enfermedades de alto riesgo sometidas a un programa sanitario específico por el Servicio Nacional de Pesca, de acuerdo a las normas sobre zonificación previstas en el Título V del reglamento que establece las medidas de protección, control y erradicación de enfermedades de alto riesgo para las especies hidrobiológicas, establecido por DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
 
+Dentro del plazo de tres años a que se refiere el inciso anterior, deberá evaluarse la mantención o eliminación de la smoltificación de las especies hidrobiológicas antes individualizadas en ríos, lagos y estuarios. Si terminada la evaluación se dispone la necesaria prohibición de realizar el tipo de smoltificación antes indicada, ella será aplicada transcurrido el plazo de tres años contados desde la fecha en que se publique la resolución de la Subsecretaría que da cuenta de la evaluación y de la prohibición que se deriva de su resultado.
+
 #### Artículo 2º transitorio
 
 <!-- parte:9353889 -->
@@ -554,7 +556,7 @@ En el plazo de seis meses, contados desde la publicación del presente decreto e
 
 <!-- parte:9353892 -->
 
-El Título XV introducido por el presente decreto al DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, referido a las densidades para el cultivo de salmónidos en agrupaciones de concesiones, entrará en vigencia en las Regiones de Los Lagos y Aysén el 1 de enero de 2014, aplicándose sus disposiciones a las agrupaciones cuyo período productivo se inicie a partir de la fecha mencionada y se considerará la información sanitaria y productiva que se hubiera generado y que esté registrada en el Servicio en el período productivo inmediatamente anterior. En el caso de la Región de Magallanes, el presente reglamento entrará en vigencia el 1 de enero de 2015, aplicándose sus disposiciones en la forma ya indicada.
+El Título XIV introducido por el presente decreto al DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, referido a las densidades para el cultivo de salmónidos en agrupaciones de concesiones, entrará en vigencia en las Regiones de Los Lagos y Aysén el 1 de enero de 2014, aplicándose sus disposiciones a las agrupaciones cuyo período productivo se inicie a partir de la fecha mencionada y se considerará la información sanitaria y productiva que se hubiera generado y que esté registrada en el Servicio en el período productivo inmediatamente anterior. En el caso de la Región de Magallanes, el mencionado Título XIV entrará en vigencia el 1 de enero de 2015, aplicándose sus disposiciones en la forma ya indicada.
 
 Las INFAs a que se refiere el artículo 58 Ñ introducido por el presente decreto al DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, como elemento para la fijación de las densidades de cultivo, serán consideradas a partir del 1 de enero de 2015.
 
