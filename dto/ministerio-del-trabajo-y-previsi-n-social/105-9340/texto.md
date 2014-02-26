@@ -72,11 +72,7 @@ e) Para fomento del estudio o beca de escolaridad: Anualmente el afiliado tendr�
 
 f) De Navidad: Se otorgará este beneficio a todos los socios que estén afiliados al Departamento de Bienestar al uno de diciembre de cada año. Los montos y modalidades serán fijados anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento.
 
-g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento similar.
-
-El Consejo Administrativo fijará con ocasión de cada evento los montos y condiciones de este subsidio, conforme con criterios objetivos y generales, las disponibilidades presupuestarias del departamento y la cantidad de afiliados afectados por el fenómeno natural.
-
-El monto de cada una de las asignaciones a que se refiere este artículo será determinado anualmente por el Consejo Administrativo del Departamento.
+g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento calificado; o por cualquier otra situación imprevista y que cause grave daño personal o material al afiliado o su grupo familiar, calificada por el Consejo Administrativo.
 
 #### Artículo 5°
 
@@ -92,7 +88,7 @@ A.- Préstamos Personales: El Departamento de Bienestar podrá conceder a sus af
 
 B.- Préstamos Médicos: Se otorgarán como complemento para las prestaciones no cubiertas por el sistema de salud. Se comprenderán en estos préstamos aquellos para fines ópticos y/o dentales.
 
-C.- Préstamos de Vacaciones: El Departamento, con el propósito de fomentar el acceso, a la recreación, podrá conceder anualmente un préstamo para financiar las vacaciones del socio y sus cargas familiares, en cuyo caso se deberá acreditar la reserva en algún establecimiento del sector turismo y/o recreación y se pagará directamente al establecimiento.
+C.- Préstamos de Vacaciones: El Departamento, con el propósito de fomentar el acceso a la recreación, podrá conceder anualmente un préstamo para financiar las vacaciones del socio y sus cargas familiares, en cuyo caso deberá presentar copia de la solicitud de vacaciones autorizada por el jefe directo, junto a la solicitud del préstamo.
 
 Los montos máximos a otorgar para cada tipo de préstamo, los plazos de amortización de los mismos y la tasa de interés aplicable serán determinados anualmente por el Consejo Administrativo, de conformidad a las disposiciones contenidas en la Ley Nº18.010.
 
