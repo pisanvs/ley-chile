@@ -384,7 +384,7 @@ disposiciones del presente reglamento.
 
 70) Período productivo: Período de tiempo comprendido entre la fecha de término de un descanso sanitario coordinado y el inicio del siguiente descanso sanitario coordinado de una agrupación de concesiones.
 
-71) Quiebre sanitario: Número de ejemplares a sembrar en una agrupación de concesiones y que se ha estimado, conforme a su desempeño sanitario, que ella puede soportar sin deteriorar su estatus sanitario
+71) ELIMINADO.
 
 ## Título II
 
@@ -864,91 +864,21 @@ Sólo podrán trasladarse equipos o estructuras que hayan tenido contacto direct
 
 #### Artículo 20 bis
 
-La distancia entre los centros de cultivo integrantes de una agrupación de concesiones de acuicultura será de 1,5 millas náuticas. Esta distancia sólo podrá exceptuarse en el caso que una o más concesiones integrantes de la agrupación se relocalicen al interior de ella o se realicen fusiones de concesiones o de fracciones de concesiones integrantes de la misma agrupación, de conformidad con el artículo 5º de la ley Nº 20.434. Sólo procederá la aplicación de esta excepción si se cumplen los siguientes requisitos:
+La distancia entre los centros de cultivo integrantes de una agrupación de concesiones de acuicultura será de 1,5 millas náuticas. Esta distancia podrá exceptuarse para relocalizar concesiones de conformidad con el artículo 5º de la ley 20.434, en los casos y sometidas a las condiciones que a continuación se indican y sin perjuicio de efectuar la relocalización en las demás formas previstas en la ley:
 
-a) La relocalización o fusión no podrá implicar un
+a) Relocalizaciones de las concesiones integrantes de una agrupación de concesiones que se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos y sanitarios del área en cuestión que funde el nuevo posicionamiento de las concesiones. Dicha propuesta de ordenamiento consistirá en un conjunto de propuestas de relocalización individual para las concesiones integrantes de la agrupación, debiendo indicarse las coordenadas geográficas del sector en que se propone se relocalice cada concesión y fundando, conforme a antecedentes técnicos, los casos en que no se requiera relocalizar alguna concesión de la agrupación en particular. Los titulares que acepten la propuesta formulada, deberán ingresar a tramitación la relocalización individual correspondiente.
 
-desplazamiento superior a 0,25 millas náuticas
+Esta facultad sólo podrá ser ejercida por una vez por cada agrupación de concesiones y en ningún caso las concesiones podrán quedar a una distancia inferior a 200 metros.
 
-medidas desde su ubicación original;
+b) Relocalización de una concesión integrante de una agrupación, al interior de ella o fusiones de concesiones o de fracciones de concesiones integrantes de la misma agrupación. Sólo procederá la aplicación de esta excepción si se cumplen los siguientes requisitos:
 
-b) El desplazamiento no puede implicar en ningún
+i. La relocalización o fusión no podrá implicar un desplazamiento superior a 0,25 millas náuticas medidas desde su ubicación original;
 
-caso disminuir la distancia existente entre
+ii. El desplazamiento no puede implicar en ningún caso un acercamiento a otra agrupación de concesiones a menos de 3 millas náuticas;
 
-agrupaciones de concesiones;
+iii. El desplazamiento no puede implicar, en ningún caso, disminuir la distancia a menos de una milla náutica entre los centros de cultivo integrantes de la agrupación de concesiones;
 
-c) El desplazamiento no puede implicar, en
-
-ningún caso, disminuir la distancia a menos
-
-de una milla náutica entre los centros de
-
-cultivo integrantes de la agrupación de
-
-concesiones;
-
-d) El desplazamiento no podrá realizarse para
-
-relocalizar o efectuar fusiones de concesiones
-
-o de fracciones de concesiones que provengan
-
-desde fuera de la agrupación de concesiones.
-
-Las concesiones que se acojan a la excepción indicada
-
-en el inciso anterior, quedarán sometidas a las siguientes
-
-condiciones de operación:
-
-i. Los peces que ingresen a los centros de cultivo
-
-deberán provenir de centros de origen libres de
-
-ISAv (Anemia Infecciosa del Salmón), lo que se
-
-acreditará de acuerdo a lo que establezca el
-
-Servicio en sus programas sanitarios de control
-
-de la enfermedad;
-
-ii. El ingreso de smolts o juveniles al centro de
-
-cultivo respectivo deberá considerar en cualquier
-
-caso un peso mínimo de 80 gramos;
-
-iii. Los centros de cultivo que operen sobre Salmo
-
-salar, deberán ingresar smolts vacunados al menos
-
-con antígenos ISAv (Anemia Infecciosa del
-
-Salmón), IPNv (Necrosis Pancreática Infecciosa) y
-
-SRS (Síndrome Ricketsial salmonideo o
-
-Piscirickettsiosis);
-
-iv. Los centros que operen con Oncorhynchus mykiss
-
-deberán ingresar peces vacunados con al menos
-
-antígenos para IPNv y SRS;
-
-v. Los centros que operen con Oncorhynchus kisutch
-
-deberán ingresar peces vacunados con al menos
-
-antígeno para SRS;
-
-vi. La densidad de cultivo en los centros que
-
-cultiven Salmo salar no deberá superar los
-
-12 kg/m³ a la cosecha.
+iv. El desplazamiento no podrá realizarse para relocalizar concesiones o efectuar fusiones con una o más concesiones que provengan desde fuera de la agrupación de concesiones.
 
 ## Título VI
 
@@ -1018,7 +948,7 @@ Para la realización de necropsias, cada centro de cultivo deberá disponer de u
 
 Cada centro de cultivo deberá contar con un sistema exclusivo de desnaturalización de mortalidad. En un manual se deberán consignar los aspectos relevantes del funcionamiento del método utilizado.
 
-Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro de cultivo. El sistema de disposición final de mortalidad deberá ser exclusivo para cada centro de cultivo. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular. En el caso que la distancia entre la concesión y el lugar en que se encuentre ubicado el sistema de disposición final de mortalidades sea inferior a 100 metros, se exceptuará al titular del centro de cultivo de la obligación de informar al Servicio de cada traslado de mortalidad.
+Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro de cultivo. El sistema de disposición final de mortalidad deberá ser exclusivo para cada centro de cultivo. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular.
 
 Todos los centros de cultivo deberán informar al Servicio el método adoptado para la disposición final de las mortalidades y los respectivos planes de contingencia en caso de falla del sistema adoptado o la superación de biomasa a procesar diariamente.
 
@@ -1118,7 +1048,7 @@ G. Los titulares de los centros de cultivo deberán capacitar a las personas que
 
 #### Artículo 22
 
-H. Todos los centros de cultivo deberán desarrollar un programa de desinfección conforme con lo dispuesto en la letra b) del inciso 1° del artículo 24 bis. Este programa deberá cumplir con lo señalado en el Programa Sanitario General de Limpieza y Desinfección.
+H. Todos los centros de cultivo deberán desarrollar un programa de desinfección. Este programa deberá cumplir con lo señalado en el Programa Sanitario General de Limpieza y Desinfección.
 
 En los centros de cultivo se deberá mantener registro de los procedimientos rutinarios de limpieza y desinfección aplicados, con el objetivo de minimizar el riesgo de infección de los ejemplares de cultivo a través de fómites, sean elementos, materiales o equipos, manteniendo la documentación de respaldo e identificando al empleado responsable de su implementación.
 
@@ -1206,29 +1136,7 @@ En todo centro de cultivo se deberá mantener claramente la identificación de l
 
 #### Artículo 22
 
-N. Los centros de cultivo deberán contar con un plan de contingencia que dé cuenta de las actividades a ser realizadas cronológicamente ante los siguientes eventos:
-
-a) Diagnóstico o sospecha de enfermedades de etiología desconocida;
-
-b) Diagnóstico o sospecha de brotes de enfermedades de alto riesgo de lista 1;
-
-c) Diagnóstico o sospecha de brotes de enfermedades de alto riesgo de lista 2 que estén sometidas a un programa sanitario específico;
-
-d) Mortalidades masivas;
-
-e) Eliminación de especies hidrobiológicas por emergencia sanitaria;
-
-f) Cosecha de ejemplares por emergencia sanitaria;
-
-g) Aumento imprevisto de la mortalidad que supere la capacidad de manejo de las mismas; y,
-
-h) Fallas en el sistema de desnaturalización de mortalidad del centro.
-
-En el evento que el plan de contingencia no pueda ser aplicado en su integridad por las circunstancias específicas del evento, el titular del centro de cultivo, o quien éste designe, deberá presentar en el plazo de 48 horas las adecuaciones que se requieran para hacer frente a la contingencia en ese caso específico.
-
-El plan deberá contener las medidas necesarias para garantizar una respuesta oportuna, con el fin de minimizar la diseminación de agentes patógenos hacia el medio ambiente. Los planes de contingencia deberán ser informados y aprobados por resolución del Servicio, estar en conocimiento de los operarios del centro y estar disponibles para los funcionarios del Servicio. Toda modificación deberá ser igualmente informada y aprobada por resolución del Servicio.
-
-En ningún caso los planes de contingencia podrán contemplar medidas contradictorias con las normas legales y reglamentarias vigentes.
+N. Derogado.
 
 #### Artículo 22
 
@@ -1348,7 +1256,7 @@ Los centros de cultivo en que se realice incubación deberán poseer una sala ex
 
 #### Artículo 23
 
-M. La aplicación de productos farmacológicos deberá ser documentada y avalada por un médico veterinario, de conformidad con el Título XII de este reglamento.
+M. La aplicación de productos farmacológicos deberá ser documentada y avalada por un médico veterinario, de conformidad con el Título XI de este reglamento.
 
 La clasificación, registro y disposición final de la mortalidad deberá realizarse de acuerdo al procedimiento previsto en el programa sanitario general de mortalidades.
 
@@ -1432,15 +1340,15 @@ La condición de smoltificación deberá ser acreditada mediante análisis de la
 
 La siembra deberá ser a número final. En los casos de emergencia sanitaria, se requerirá autorización del Servicio para realizar desdobles como medida de control de una enfermedad de alto riesgo o de acuerdo a un programa sanitario específico.
 
-El plan de siembra de los ejemplares y el sistema de cosecha a utilizar en el centro deberán ser comunicados al Servicio, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición el Servicio a través de su página web. En el caso que una agrupación no esté operando en el período productivo vigente, deberá entregar su plan de siembra seis meses antes de iniciar la siembra. El Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad. El pronunciamiento del Servicio acerca del cumplimiento de los requisitos antes señalados, deberá emitirse por resolución.
+El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. En el caso que una agrupación no esté operando en el período productivo vigente, deberá entregar su plan de siembra seis meses antes de iniciar la siembra. Una vez recibidos, los planes de siembra deberán ser remitidos al Servicio en formato electrónico. El Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad. El pronunciamiento del Servicio acerca del cumplimiento de los requisitos antes señalados, deberá emitirse por resolución.
 
-Los planes de siembra deberán ser remitidos a la Subsecretaría inmediatamente de recibidos, en formato electrónico.
+El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso.
 
 En el plazo de un mes, contado desde el término de la siembra del ciclo o período productivo, el titular de la concesión deberá presentar una declaración jurada al Servicio en que deje constancia del número total de ejemplares efectivamente sembrados en el centro de cultivo. Asimismo, dentro los 15 días corridos siguientes al término de la cosecha, el titular del centro de cultivo deberá presentar una declaración jurada al Servicio, en que deje constancia del número total de ejemplares efectivamente cosechados y su destino.
 
 #### Artículo 24
 
-A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y los egresos contabilizados hasta un mes antes del término de la cosecha. No se considerarán pérdidas las cosechas efectuadas a la fecha de la contabilización de los egresos ni las que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales.
+A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y las cosechas contabilizadas hasta un mes antes del término de aquél, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio.
 
 Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación.
 
@@ -1449,6 +1357,8 @@ Los equipos contadores de peces y estimadores de biomasa deberán ser certificad
 Por resolución de la Subsecretaría se establecerán los tramos de la clasificación de bioseguridad de los centros de cultivo, considerando las pérdidas del ciclo productivo y el porcentaje de reducción de siembra para el ciclo productivo siguiente que corresponda a cada tramo.
 
 Un mes antes del término del ciclo productivo, el Servicio deberá comunicar al titular de la concesión, el resultado de la aplicación de la clasificación de bioseguridad de que trata este artículo y del porcentaje de reducción que corresponda aplicar, en su caso.
+
+No se aplicará la disminución de la siembra en el ciclo siguiente, en los casos en que el centro de cultivo afectado descanse voluntariamente en el período productivo inmediatamente siguiente a aquel que originó la disminución.
 
 ## Título VII
 
@@ -1496,9 +1406,9 @@ DE LA COSECHA, DE LAS PLANTAS PROCESADORAS O REDUCTORAS Y DE LOS CENTROS DE FAEN
 
 A. Se prohibe la realización de cosecha tradicional entendiendo por tal, cualquier tipo de cosecha en que se vierta material orgánico al medio ambiente.
 
-Todas las estaciones y sistemas de cosecha utilizados en los centros de cultivo deberán estar validados por el Servicio de conformidad con el artículo 24. El Servicio realizará una visita a terreno para constatar que la cosecha se realiza de conformidad con el sistema validado y bajo las condiciones señaladas en el inciso 1º.
-
 La cosecha o el faenamiento de especies en las que se hayan diagnosticado enfermedades de lista 1 o de lista 2 que cuenten con un programa sanitario específico, se someterán a las medidas específicas que se hayan dictado al efecto y deberán obtener un acta de validación del Servicio en forma previa al inicio de las faenas de cosecha. En estos casos, el traslado a plantas de procesamiento o reductoras de los ejemplares deberá hacerse de acuerdo a lo que se establezca en el programa sanitario específico respectivo o el plan de contingencia, según corresponda.
+
+> **Nota.** El N° 9 del Artículo 1° del Decreto 171, Economía, publicado el 26.02.2014, eliminó el inciso segundo de la presente norma.
 
 #### Artículo 32
 
@@ -1898,17 +1808,21 @@ DE LAS AGRUPACIONES DE CONCESIONES Y DE LAS MACROZONAS
 
 G. Las agrupaciones de concesiones deberán someterse a un descanso sanitario coordinado de tres meses, entre períodos productivos. En la fijación del período de descanso deberá considerarse el ciclo biológico de las diversas especies cultivadas por los centros de cultivo de la agrupación en el periodo anterior. Excepcionalmente podrá fijarse un período de dos meses de descanso durante el verano cuando más de la mitad de las concesiones hayan operado sobre Salmón coho Oncorhynchus kisutch el período anterior.
 
-El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 28 meses.
+Asimismo, excepcionalmente podrá autorizarse un descanso sólo por los meses de febrero y marzo, al término del período productivo, a los centros de cultivo que operen sobre Salmón coho Oncorhynchus kisutch, cuando se cumplan las siguientes condiciones:
+
+a) El centro es integrante de una agrupación de concesiones que tiene descanso entre los meses de enero y marzo;
+
+b) El centro ha operado con un máximo de 600.000 peces por ciclo productivo dentro del periodo.
+
+El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 33 meses dentro del cual sólo podrá operarse un ciclo productivo de Salmón del Atlántico Salmón salar o un máximo de dos ciclos productivos de cualquiera de las especies Trucha arcoiris Oncorhynchus mykiss o de Salmón coho Oncorynchus kisutch.
 
 Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación.
 
 #### Artículo 58
 
-H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ realizada de conformidad al artículo 22 Ñ.
+H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ.
 
 INCISOS ELIMINADOS.
-
-> **Nota.** NOTA El numeral 42, letra a) del Decreto 4, Economía, publicado el 22.05.2013, modifica la presente norma, en el sentido de reemplazar en el inciso 1° del presente Artículo 58 H, la oración "las condiciones operativas, productivas y logísticas compartidas por los centros integrantes de la agrupación, así como la clasificación individual de los mismos centros" por "los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ". Sin embargo, no se elimina la frase: "realizada de conformidad al artículo 22 Ñ.", razón por la cual aparece repetida en el texto.
 
 #### Artículo 58
 
@@ -1926,7 +1840,7 @@ d) Modificación del emplazamiento de las estructuras de cultivo destinada a mej
 
 e) Programa de monitoreo de floraciones algales nocivas y plan de contingencia que señale actividades a ejecutar ante este tipo de eventos;
 
-f) Programa de descansos, que incluya el descanso sanitario coordinado de toda o parte de una agrupación por un período productivo completo, descanso sanitario coordinado por un periodo superior al establecido para la agrupación u otro. El descanso sólo podrá aplicarse cuando concurran al quórum de aprobación de esta medida los titulares de los centros que no operarán y se requerirá, además, que la agrupación comprometa medidas sanitarias adicionales de las indicadas en el presente artículo;
+f) Programa de descansos, que incluya el descanso sanitario coordinado de toda o parte de una agrupación por un período productivo completo, descanso sanitario coordinado por un periodo superior al establecido para la agrupación u otro. El descanso sólo podrá aplicarse cuando concurran al quórum de aprobación de esta medida los titulares de los centros que no operarán y se requerirá, además, que la agrupación comprometa medidas sanitarias adicionales las que deberán ser aprobadas por el Servicio;
 
 g) Uso alternado de los centros de cultivo que operarán en cada período productivo;
 
@@ -1952,7 +1866,7 @@ El descanso voluntario de las concesiones que se encuentren ubicadas en las fran
 
 Los acuerdos deberán constar en un instrumento firmado ante notario público por los titulares de los centros de cultivo o sus representantes legales. En el caso que uno o más titulares de las concesiones hubieren arrendado o celebrado otro contrato en virtud del cual un tercero realizará la operación del centro de cultivo en el período productivo siguiente, deberá manifestarse la voluntad del contratante adjuntando copia del contrato respectivo, el que en todo caso deberá contar con la inscripción en el registro de concesiones de acuicultura que lleva la Subsecretaría para las Fuerzas Armadas.
 
-El plan de manejo deberá ser presentado al Servicio al menos con dos meses de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
+El plan de manejo deberá ser presentado al Servicio al menos con un mes de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
 
 Dos o más agrupaciones de concesiones podrán presentar un plan de manejo conjunto siguiendo el procedimiento antes indicado, el que deberá estar referido a todas las agrupaciones que lo hayan acordado.
 
@@ -2006,7 +1920,7 @@ b) Fijación del número máximo de ejemplares a ingresar en las estructuras de 
 
 a) Ambiental: INFAs de los centros de cultivo integrantes de la agrupación, cuyos resultados den cuenta de una condición aeróbica;
 
-b) Sanitario: Pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y los egresos totales contabilizados hasta un mes antes del término de aquel. No se considerarán pérdidas las cosechas efectuadas a la fecha de la contabilización de los egresos ni las que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales, y
+b) Sanitario: Pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y las cosechas contabilizadas hasta un mes antes del término de aquél, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio, y
 
 c) Productivo: Comparación entre la proyección de siembra de la agrupación para el período productivo siguiente con el quiebre sanitario. Para tales efectos, se considerará como proyección de siembra el número total de ejemplares a sembrar en el período productivo siguiente en los centros de cultivo integrantes de la agrupación, declarados por sus titulares de conformidad con el artículo 24.
 
