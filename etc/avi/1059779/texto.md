@@ -1,0 +1,5 @@
+RECTIFICA RESOLUCIÓN Nº 88 EXENTA, DE 2014
+
+Rectifícase resolución exenta Nº 88, Serviu Región de Coquimbo, de fecha 7 febrero de 2014, por la cual se declara el estudio de la expropiación del inmueble Parcela Nº 19, Vega Sur de la comuna de La Serena, de aparente dominio de sucesión Lino Olivier Baggia, Rol de avalúo Nº 3906-12, para efectos de realizar levantamiento topográfico y monografías de cambio de trazado de vía de evacuación Los Membrillos, La Serena, en el sentido de señalar que la inscripción de dominio corre a fojas 793 vta. Nº 1.127, del año 1972, a fojas 7.515 Nº 4.654 y a fojas 7.524 Nº 4.661, ambas del año 2003, todas del Conservador de Bienes Raíces de Coquimbo. En lo demás se mantiene texto de resolución rectificada.
+
+Osvaldo Pacheco Plá, Director Serviu Región de Coquimbo.
