@@ -20,7 +20,7 @@ Considerando:
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para la o las comunas de la Región del Libertador General Bernardo O'Higgins que corresponda, por un monto de hasta 205.000 Unidades de Fomento.
+1. Autorízase a la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para la o las comunas de la Región del Libertador General Bernardo O'Higgins que corresponda, por un monto de hasta 185.556 Unidades de Fomento.
 
 2. Determínase que el Llamado Especial que se autoriza, se regirá por lo dispuesto en el DS Nº 49, (V. y U.), de 2011, y sus modificaciones, con excepción de los requisitos, condiciones y exigencias dispuestos por la presente resolución.
 
@@ -40,7 +40,7 @@ Resolución:
 
 10. Establécese que para los proyectos de construcción a los cuales están asociados los grupos que resulten seleccionados en el llamado que por esta resolución se autoriza, los contratistas podrán solicitar al Serviu de la Región del Libertador General Bernardo O'Higgins, en materia de anticipo, un máximo de dos giros mensuales, no pudiendo ninguno de ellos ser inferior al 5% ni superior al 40% del monto total de los subsidios destinados a financiar la ejecución física de las obras, manteniendo las exigencias establecidas en el artículo 80 del DS Nº 49 (V. y U.), de 2011, relativas a las boletas de garantía.
 
-11. Impútase el monto total de 205.000 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región del Libertador General Bernardo O'Higgins, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
+11. Impútase el monto total de 185.556 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región del Libertador General Bernardo O'Higgins, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
