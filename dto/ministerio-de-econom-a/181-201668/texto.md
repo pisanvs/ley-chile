@@ -50,7 +50,7 @@ Vencido el plazo para las observaciones, la Entidad Acreditadora evaluará las o
 
 De ser necesario, se podrán fijar conjuntos alternativos de normas técnicas para la prestación del servicio con el objeto de permitir el uso de diversas tecnologías y medios electrónicos, en conformidad a la ley y el presente reglamento.
 
-Si la fijación o modificación de normas técnicas relativas a documentos electrónicos aplicables a los órganos del Estado requiere recursos adicionales o la coordinación de diversas entidades para su implementación, el decreto que aprueba las normas técnicas deberá ser firmado, además, por los Ministros de Hacienda y de Secretaría General de la Presidencia.
+Si la fijación o modificación de normas técnicas tratadas en este artículo requieren recursos adicionales o la coordinación de diversas entidades para su implementación, el decreto que aprueba las normas técnicas deberá ser firmado, además, por los Ministros de Hacienda y de Secretaría General de la Presidencia.
 
 #### Artículo 6º
 
@@ -408,35 +408,35 @@ La certificación de las firmas electrónicas avanzadas de las autoridades o fun
 
 #### Artículo 47
 
-Créase el Comité de Normas para el Documento Electrónico, cuya función principal será asesorar al Presidente de la República con respecto a la fijación de normas técnicas que deberán seguir los órganos de la Administración del Estado para garantizar la compatibilidad de los distintos tipos de documentos electrónicos.
+El Ministerio Secretaría General de la Presidencia propondrá al Presidente de la República las normas técnicas que deberán seguir los órganos de la Administración del Estado para garantizar la publicidad, integridad, eficacia, interoperabilidad y seguridad en el uso de los documentos electrónicos, las que serán aprobadas mediante uno o más decretos supremos, expedidos por dicha Cartera de Estado. Asimismo, deberá establecer las normas técnicas que permitan estandarizar la atención al ciudadano a través de técnicas y medios electrónicos. Si la fijación o modificación de las normas técnicas a las que se refiere este inciso requieren de recursos adicionales, el decreto supremo que las aprueba deberá ser firmado también por el Ministro de Hacienda.
+
+El Ministerio podrá dictar, a través de resolución, guías técnicas para facilitar la comprensión e implementación de las normas técnicas antes aludidas.
+
+El Ministerio deberá revisar al menos cada dos años las normas técnicas señaladas en el presente artículo a fin de determinar si éstas requieren o no de actualización. El plazo antes indicado se contará desde la entrada en vigencia de la norma técnica respectiva.
+
+Finalmente, dicho Ministerio deberá publicar en su sitio Web, semestralmente, el nivel de cumplimiento de las normas fijadas en virtud de la presente disposición.
+
+Lo establecido en la presente disposición es sin perjuicio de las normas técnicas determinadas en virtud del artículo 5º de este reglamento.
 
 #### Artículo 48
 
-El Comité estará integrado por:
+El Ministerio Secretaría General de la Presidencia deberá considerar al menos los siguientes criterios para elaborar la propuesta de las normas técnicas a que se refiere el artículo anterior:
 
-a. El Ministro Secretaría General de la Presidencia, quien deberá presidirlo.
+a) Adoptar los estándares internacionales emitidos por organismos reconocidos en la materia, en su ausencia considerará los de carácter regional y, sólo cuando ninguno de ellos se encuentre disponible, observará los de desarrollo nacional.
 
-b. El Subsecretario de Economía, Fomento y
+b) Propender a que la determinación de normas técnicas sea sometida a consulta ciudadana, de conformidad con lo dispuesto en la Ley 20.500 sobre asociaciones y participación ciudadana en la gestión pública y a la consulta de otros órganos de la Administración del Estado, tales como el Ministerio Economía, Fomento y Turismo, Ministerio del Interior y Seguridad Pública y Ministerio de Transportes y Telecomunicaciones.
 
-Reconstrucción.
+c) Adoptar las normas técnicas que sean de uso frecuente en el país.
 
-c. El Subsecretario de Telecomunicaciones.
-
-d. El Subsecretario de Hacienda.
-
-e) El Subsecretario del Interior.
-
-Las labores de Secretaría Ejecutiva del Comité quedarán radicadas en el Subsecretario de Economía en su condición de titular de la Entidad Acreditadora.
+d) Realizar los procesos de adopción de normas con la gradualidad necesaria, que permita a los órganos de la Administración del Estado adecuarse a los cambios y su correcta implementación.
 
 #### Artículo 49
 
-El Comité funcionará, en forma ordinaria, a lo menos dos veces al año, en los días y horas que acuerde. Su Presidente podrá citarlo a sesión extraordinaria cuando las necesidades del cumplimiento de su función así lo ameriten.
-
-El Comité funcionará con la mayoría de sus integrantes y tomará los acuerdos por los dos tercios de sus miembros presentes.
+DEROGADO.
 
 #### Artículo 50
 
-En el cumplimiento de su función, el Comité de Normas para el Documento Electrónico servirá de instancia de coordinación en las acciones de los Ministerios señalados en el artículo 48 de este decreto en el ámbito establecido en el artículo 47 y para ello estará facultado, si lo estima conveniente, para solicitar la asistencia de otros Ministros e invitar a otras autoridades.
+DEROGADO.
 
 ### Párrafo 2º — Sobre el uso de firmas electrónicas
 
@@ -446,7 +446,7 @@ en la relación con los particulares
 
 Las personas podrán relacionarse con los órganos de la Administración del Estado a través de técnicas y medios electrónicos con firma electrónica, siempre que se ajusten al procedimiento descrito en la Ley y que tales técnicas y medios sean compatibles con los que utilicen dichos órganos.
 
-Con la finalidad de garantizar dicha compatibilidad se estará a las normas técnicas aprobadas de acuerdo al artículo 5º.
+Con la finalidad de garantizar dicha compatibilidad se estará a las normas técnicas fijadas por el Ministerio Secretaría General de la Presidencia de conformidad a lo dispuesto en el artículo 47º.
 
 #### Artículo 52
 
@@ -458,7 +458,7 @@ Los órganos de la Administración del Estado podrán relacionarse por medios el
 
 #### Artículo 54
 
-El Comité creado en el artículo 47, dentro del plazo de 90 días contados desde la fecha de entrada en vigencia del presente Reglamento, elaborará la norma técnica que permita que las comunicaciones por medios electrónicos efectuadas entre los órganos de la Administración del Estado y de éstos con los ciudadanos operen de manera efectiva y eficiente.
+DEROGADO.
 
 #### Artículo 55
 
