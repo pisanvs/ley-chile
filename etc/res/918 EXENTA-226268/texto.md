@@ -34,13 +34,9 @@ Pedro Montt-Av. Argentina-Av. España
 
 2º.- Fíjanse al interior de la zona urbana de la comuna de Valparaíso, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural, para ingresar y salir del recinto ubicado en calle Galvarino Nº 110:
 
-Ingreso: Av. España (Límite Comunal)-Av.
+Ingreso: Av. España (Límite Comunal)-Av. Errázuriz-Antonio Varas-Av. Altamirano-Av. El Parque-González Hontaneda-Av. Playa Ancha-Alcalde Barrios-Galvarino Nº 110.
 
-Errázuriz-Antonio Varas-Av. Altamirano-Av. El Parque-González Hontaneda-Av. Playa Ancha-Alcalde Barrios-Galvarino Nº 110.
-
-Salida: Galvarino Nº 110-Alcalde Barrios-Av. Playa Ancha-González Hontaneda-Av. El Parque-Av.
-
-Altamirano-Antonio Varas-Av. Errázuriz-Av. Brasil Norte-Av. España (Límite Comunal).
+Salida: Galvarino Nº 110-Alcalde Barrios-Av. Playa Ancha-González Hontaneda-Av. El Parque-Av. Altamirano-Antonio Varas-Av. Errázuriz-Av. Brasil Norte-Av. España (Límite Comunal).
 
 3º.- Fíjanse al interior de la zona urbana de la comuna de Valparaíso, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural, para ingresar y salir del recinto ubicado en calle Galvarino Nº 237:
 
@@ -98,6 +94,14 @@ Levarte, Av. Federico Santa María, Baden
 
 Powell, Ruta F-98G.
 
-6º.- La presente resolución entrará en vigencia transcurridos 7 días de la fecha de su publicación en el Diario Oficial.
+6º.- Fíjense al interior de la zona urbana de la comuna de Valparaíso los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural que utilicen la comuna de Valparaíso como ciudad de paso:
+
+a) Servicios provenientes de la Ruta 68 con destino a la comuna de Viña del Mar:
+
+Ingreso: Av. Santos Ossa, Av. Argentina, Av. España (Límite comunal).
+
+Salida: Av. España (Límite comunal), Av. Argentina, Av. Santos Ossa.
+
+7°.- La presente resolución entrará en vigencia transcurridos 7 días de la fecha de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Emilio Oñate Vera, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
