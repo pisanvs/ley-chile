@@ -56,9 +56,15 @@ Tanto los representantes de los afiliados titulares, como sus respectivos suplen
 
 #### Artículo 5º
 
-El Consejo Administrativo celebrará sesiones ordinariamente a lo menos, una vez al mes, en el día y hora que fijen sus miembros en la primera sesión del año.
+El Consejo Administrativo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año.
 
-Sesionará extraordinariamente cuando proceda en conformidad al artículo 23º del Reglamento General y, en ambos casos, hará las citaciones por escrito el Jefe del Servicio de Bienestar, con una antelación mínima de tres días para las sesiones ordinarias y de uno para las sesiones extraordinarias. El Consejo Administrativo podrá, si lo estima conveniente, invitar a sus sesiones a personas que, por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
+Sesionará extraordinariamente cuando proceda en conformidad al artículo 23º del Reglamento General y en ambos casos se citará por escrito, correo y/o teléfono, cuando sea necesario, por el Jefe del Servicio de Bienestar, con una antelación de tres días para las sesiones ordinarias y de uno para las sesiones extraordinarias.
+
+El Consejo podrá, si lo estima conveniente, invitar a sus sesiones a personas que por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
+
+De cada sesión se dejará constancia en un acta, la que una vez aprobada, será firmada por cada uno de los integrantes del Consejo Administrativo que hubieren participado en la sesión. Cada acta constituirá el documento oficial y formal que servirá de base para respaldar las diferentes decisiones que se adopten en materias de administración del Servicio de Bienestar.
+
+Los acuerdos o determinaciones que merezcan dudas de legalidad, serán consultados a la Superintendencia de Seguridad Social, previo informe del Departamento Jurídico del Servicio de Salud. Los miembros del Consejo Administrativo no percibirán remuneración alguna por el desempeño de sus funciones y estarán obligados a rendir caución, en las condiciones señaladas en la ley Nº 10.366.
 
 ## Título III
 
@@ -218,13 +224,19 @@ De las asistencias y otros beneficios
 
 El Servicio de Bienestar propenderá al progreso social, cultural, recreativo, educacional y deportivo de sus beneficiarios. Con este objeto, siempre que sus recursos lo permitan, podrá:
 
-a) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, festividades navideñas, celebraciones de aniversarios institucionales, actividades de vacaciones de los afiliados y sus beneficiarios, y cualquiera otra que diga relación con los fines de este Servicio de Bienestar.
+a) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, de festividades navideñas, de fiestas patrias, celebraciones de aniversarios institucionales, actividades de vacaciones de sus afiliados y beneficiarios, y cualquier otra que diga relación con los fines de este Servicio de Bienestar.
 
 b) Asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional y/o cultural jurídica, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
 c) Administrar colonias, refugios, casa de huéspedes u otros inmuebles para el uso de sus beneficiarios, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la institución. Asimismo podrá celebrar convenios con otros Servicios de Bienestar con el objeto de que sus afiliados puedan hacer uso de los inmuebles que éstos administren, y
 
 d) Otorgar a sus afiliados/as regalos en ocasiones especiales, tales como cumpleaños, fiestas patrias, navidad, día del padre, día de la madre, día del niño, día de la secretaria, día de la mujer y otras que apruebe el Consejo Administrativo. Asimismo podrá adquirir y vender a sus afiliados vales de supermercados, multitiendas u otros beneficios equivalentes.
+
+e) De acuerdo a su disponibilidad presupuestaria, podrá conceder ayudas a las salas cunas, jardines infantiles, casinos del personal, clubes deportivos u otros, que propendan a los fines señalados en el inciso primero de este artículo".
+
+f) Financiar o ayudar a financiar exámenes o procedimientos de alto costo, que requiera realizarse el afiliado, de acuerdo a orden médica emanada desde la Unidad de Salud del Personal del Servicio de Salud, y que dicha prestación no se encuentre disponible o no exista dentro de la red pública de salud.
+
+g) De acuerdo a su disponibilidad presupuestaria destinar los recursos financieros para la construcción y/o reparación de otros bienes muebles e inmuebles que sean de uso para los afiliados y sus cargas familiares.
 
 ## Título V
 
