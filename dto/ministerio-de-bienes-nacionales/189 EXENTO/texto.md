@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE ANTOFAGASTA, A LA UNIVERSIDAD DE TOKIO
+
+Mediante decreto exento Nº 189, de 21 de febrero de 2014, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Universidad de Tokio, RUT 59.131.880-2, inmueble fiscal denominado "Camino de acceso cumbre cerro Chajnantor", ubicado aproximadamente a 46 kilómetros al este del pueblo de San Pedro de Atacama, comuna de San Pedro de Atacama, provincia de El Loa, Región de Antofagasta; enrolado provisionalmente en el Servicio de Impuestos Internos bajo el Nº 10001-16; inscrito a nombre del Fisco a fojas 34 Nº 28, en el Registro de Propiedad del Conservador de Bienes Raíces de El Loa correspondiente al año 1933; singularizado en el plano Nº 02203-7.100 C.R.; con una superficie aproximada de 12,33 ha.
+
+La concesión se otorga por un plazo de 50 años, contado desde la fecha de suscripción de la escritura pública de concesión, para servir de vía de acceso a los terrenos del proyecto denominado Tokio Atacama Observatory (TAO) y a los proyectos instalados en el Parque Astronómico Atacama. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado Jefe División Jurídica.
