@@ -20,6 +20,16 @@ Tercer orden de subrogancia:
 
 Subdirector de Recursos Humanos del Servicio de Salud.
 
+Cuarto orden de subrogancia:
+
+D. Mauro Salinas Cortés.
+
+RUT: 10.151.013-8
+
+Director Instituto Nacional del Cáncer.
+
+Titular grado 7º.
+
 3º Declárase que el Director Subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
 Anótese, regístrese y publíquese.- Por orden de la Presidenta de la República, María Soledad Barría Iroume, Ministra de Salud.
