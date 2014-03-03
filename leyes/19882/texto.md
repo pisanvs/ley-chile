@@ -114,7 +114,7 @@ Del beneficio
 
 Establécese una bonificación por retiro, en adelante "la bonificación", para los funcionarios de carrera y a contrata de las entidades señaladas en el artículo octavo, que hicieren dejación voluntaria de sus cargos y que cumplan con los demás requisitos establecidos en la presente ley.
 
-Los beneficiarios tendrán derecho a percibir una bonificación equivalente a un mes de remuneración imponible por cada dos años de servicio en las entidades afectas al presente Título, con un máximo de nueve meses. El monto de este beneficio se incrementará en un mes para las funcionarias. La bonificación no será imponible ni constituirá renta para ningún efecto legal.
+Los beneficiarios tendrán derecho a percibir una bonificación equivalente a un mes de remuneración imponible por cada dos años de servicio en las entidades afectas al presente Título, con un máximo de once meses. La bonificación no será imponible ni constituirá renta para ningún efecto legal.
 
 El reconocimiento de periodos discontinuos para el cálculo de la bonificación procederá sólo cuando el funcionario tenga a lo menos 5 años de desempeño continuo, anteriores a la fecha de la postulación, en alguna de las entidades afectas a ésta.
 
@@ -130,7 +130,7 @@ Respecto de aquellos funcionarios a contrata que reúnan las exigencias del art�
 
 La bonificación será incompatible con cualquier otro beneficio de naturaleza homologable que se origine en una causal similar de otorgamiento.
 
-> **Nota.** La LEY 19937, publicada en el D.O. del 24.02.2004,en su Art. 7ºseñala que la bonificación por retiro estableci- da en el Título II de la presente Ley no será aplicable al personal perteneciente a los establecimientos de salud de carácter experimental. Estos personales quedarán adscritos a la normativa establecida en el artículo primero transitorio de la Ley 19937.
+> **Nota.** La LEY 19937, publicada en el D.O. del 24.02.2004,en su Art. 7º señala que la bonificación por retiro establecida en el Título II de la presente Ley no será aplicable al personal perteneciente a los establecimientos de salud de carácter experimental. Estos personales quedarán adscritos a la normativa establecida en el artículo primero transitorio de la Ley 19937.
 
 ### Párrafo 2°
 
@@ -149,6 +149,8 @@ Con todo, los funcionarios que no postulen en los términos del inciso anterior,
 Quienes se acojan a la bonificación durante el primer semestre calendario, percibirán la totalidad o primera mensualidad de la bonificación, en el mes de julio del mismo año, según hayan optado por la letra a) o b) del artículo anterior. Los que se acojan en el segundo semestre, les corresponderá en el mes de enero del año siguiente.
 
 Las edades señaladas en este artículo podrán rebajarse en los casos y situaciones a que se refiere la ley N° 19.404, por iguales causales, procedimientos y tiempo computable.
+
+> **Nota.** Los Arts. 2 y 3 de la Ley 20734, publicada el 03.03.2014, establecen plazos y condiciones especiales para la bonificación por retiro voluntario para las funcionarias y funcionarios que hayan cumplido o cumplan 60 o 65 años de edad, respectivamente, entre el 1º de agosto de 2010 y el 30 de junio de 2014, y que cesen en sus cargos por aceptación de renuncia voluntaria. De conformidad con estos preceptos, los beneficiarios deberán comunicar su decisión de renunciar dentro de los noventa días siguientes a la publicación de la referida Ley 20734, indicando la fecha en que harán dejación del cargo, la que no podrá ser posterior al 31 de marzo de 2015.
 
 #### Artículo noveno
 
@@ -906,7 +908,7 @@ Establécese un Sistema de Alta Dirección Pública, que se regirá por las disp
 
 <!-- parte:8649056 -->
 
-El Sistema de Alta Dirección Pública se aplicará en servicios públicos regidos por el Título II de la ley N° 18.575, con excepción de las subsecretarías, Presidencia de la República, Servicio Electoral, Consejo de Defensa del Estado, Casa de Moneda de Chile, Dirección de Seguridad Pública e Informaciones, Dirección General de Relaciones Económicas Internacionales, Comité de Inversiones Extranjeras, Corporación de Fomento de la Producción, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Servicio de Impuestos Internos, Dirección de Presupuestos, Gendarmería de Chile, Servicio Nacional de Menores, Dirección General de Obras Públicas, Dirección de Planeamiento del Ministerio de Obras Públicas, Oficina de Estudios y Políticas Agrarias, Superintendencia de Seguridad Social, Dirección del Trabajo, Fondo Nacional de Salud, Comisión Nacional de Energía, Servicio Nacional de la Mujer, Instituto Nacional de la Juventud, Corporación Nacional de Desarrollo Indígena, Servicio Nacional del Adulto Mayor, Comisión Nacional del Medio Ambiente, Dirección Nacional del Servicio Civil Consejo Nacional de la Cultura y las Artes y las Instituciones de Educación Superior de carácter estatal.
+El Sistema de Alta Dirección Pública se aplicará en servicios públicos regidos por el Título II de la ley N° 18.575, con excepción de las subsecretarías, Presidencia de la República, Servicio Electoral, Consejo de Defensa del Estado, Casa de Moneda de Chile, Dirección de Seguridad Pública e Informaciones, Dirección General de Relaciones Económicas Internacionales, Comité de Inversiones Extranjeras, Corporación de Fomento de la Producción, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Servicio de Impuestos Internos, Dirección de Presupuestos, Gendarmería de Chile, Servicio Nacional de Menores, Dirección General de Obras Públicas, Dirección de Planeamiento del Ministerio de Obras Públicas, Oficina de Estudios y Políticas Agrarias, Dirección del Trabajo, Fondo Nacional de Salud, Comisión Nacional de Energía, Servicio Nacional de la Mujer, Instituto Nacional de la Juventud, Corporación Nacional de Desarrollo Indígena, Servicio Nacional del Adulto Mayor, Comisión Nacional del Medio Ambiente, Dirección Nacional del Servicio Civil Consejo Nacional de la Cultura y las Artes y las Instituciones de Educación Superior de carácter estatal.
 
 #### Artículo trigésimo séptimo
 
