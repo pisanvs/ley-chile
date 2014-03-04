@@ -14,13 +14,13 @@ Considerando: Que existen familias de las comunas de Arauco y Tomé de la Regió
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región del Biobío para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para las comunas de Arauco y Tomé de la Región del Biobío, por un monto total de 390.000 Unidades de Fomento.
+1. Autorízase a la Secretaría Regional Ministerial de la Región del Biobío para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para las comunas de Arauco, Tomé y Coihueco de la Región del Biobío, por un monto total de 390.000 Unidades de Fomento.
 
 2. Permítase a la Secretaría Regional Ministerial de la Región del Biobío para el llamado autorizado mediante Resuelvo precedente, modificar y/o definir mediante resoluciones fundadas, condiciones diferentes a las establecidas en el DS Nº 49 (V. y U.), de 2011, salvo por las indicadas en la presente resolución.
 
 3. No obstante lo anterior los grupos postulantes a este llamado deberán ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos debiendo quedar en estado hábil con anterioridad al cierre de dicho llamado, el que no podrá superar el 14 de marzo del 2014.
 
-4. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para las comunas de Arauco y Tomé de la Región del Biobío, los proyectos asociados a los grupos postulantes deben contar con certificado de calificación.
+4. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, en la tipología de Construcción en Nuevos Terrenos, para las comunas de Arauco, Tomé y Coihueco de la Región del Biobío, los proyectos asociados a los grupos postulantes deben contar con certificado de calificación.
 
 5. El número de grupos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde.
 
