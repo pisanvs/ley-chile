@@ -706,9 +706,7 @@ En caso de término del contrato de trabajo, el empleador estará obligado a pag
 
 #### Artículo 64
 
-DEROGADO
-
-> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la derogación del presente artículo regirá a contar de 90 días después de su publicación.
+En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
 
 #### Artículo 64 Bis
 
