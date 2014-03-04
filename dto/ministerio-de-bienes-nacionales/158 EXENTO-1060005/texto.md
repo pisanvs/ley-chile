@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE TARAPACÁ, A LA AGRUPACIÓN DE ORGANIZACIONES VILLA SOLIDARIDAD I
+
+Mediante decreto exento Nº 158, de 12 de febrero de 2014, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Agrupación de Organizaciones Villa Solidaridad I, RUT 75.669.600-9, inmueble fiscal ubicado en Vía 1 con Vía 4, Lote 4 Manzana M, en el sector denominado Bajo Molle, comuna y provincia de Iquique, Región de Tarapacá, enrolado en el Servicio de Impuestos Internos con el Nº 4700-80, amparado por inscripción global a nombre del Fisco, a fs. 1.039 Nº 1.745 del Registro de Propiedad del Conservador de Bienes Raíces de Iquique correspondiente al año 2011, singularizado en el plano Nº I-2-5881-C.R., con una superficie aproximada de 0,53 has.
+
+La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión, para consolidar un centro integral de rehabilitación dirigido a personas con discapacidad y adultos mayores. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado, Jefe División Jurídica, Ministerio de Bienes Nacionales.
