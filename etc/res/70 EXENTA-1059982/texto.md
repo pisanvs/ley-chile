@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A COMPAÑÍA DE SEGUROS DE VIDA CÁMARA S.A.
+
+Certifico: Que por resolución exenta Nº 70, de fecha 27 de febrero de 2014, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Compañía de Seguros de Vida Cámara S.A., acordada en junta extraordinaria de accionistas celebrada el 6 de enero de 2014 y reducida a escritura pública con fecha 9 de enero de 2014, en la Notaría de Santiago de don Patricio Zaldívar Mackenna, domiciliado en Bandera Nº 341, oficina Nº 857, modificada por escritura pública de fecha 18 de febrero de 2014, según lo observado en Oficio Nº 4.422, de 2014, otorgada en la notaría antes singularizada.
+
+La reforma consiste en un aumento del capital social, de $10.688.829.429.-, dividido en 1.214.389.056 acciones nominativas, de una misma serie, sin valor nominal y de igual valor, íntegramente suscrito y pagado, a $22.688.829.429.-, dividido en 2.577.744.021 acciones, mediante la emisión de 1.363.354.965 acciones de pago, por un monto total de $12.000.000.000.-, a pagar dentro del plazo de tres años contados desde el 6 de enero de 2014, modificando los artículos quinto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 27 de febrero de 2014.-- Nelson Torres Morgado, Secretario General (S).
