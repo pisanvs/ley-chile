@@ -1,0 +1,23 @@
+DECLARA RENUNCIA DE CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA DENOMINADA "SANTA EDITA", UBICADA EN LAS COMUNAS DE LINARES, LONGAVÍ, PARRAL Y COLBÚN, PROVINCIA DE LINARES, REGIÓN DEL MAULE, DE TITULARIDAD DE LA EMPRESA HOT ROCK CHILE S.A., EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 603 exento.- Santiago, 30 de diciembre de 2013.- Vistos: Lo dispuesto en la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº 1/19.653 del año 2000, del Ministerio Secretaría General de la Presidencia; en la Ley Nº 19.880, que establece bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; en la Ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL Nº 2.224, de 1978, y a otros cuerpos legales; en el decreto supremo Nº 114, de 2012, del Ministerio de Energía, que aprueba Nuevo Reglamento para la aplicación de la Ley Nº 19.657, sobre concesiones de energía geotérmica, y deroga decreto Nº 32, de 2004, del Ministerio de Minería; en el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería, que faculta al Ministro de Minería, cuyo sucesor legal es el Ministro de Energía, a firmar "Por orden del Presidente de la República"; en el decreto supremo Nº 240, de 8 de octubre de 2010, del Ministerio de Energía; en el decreto supremo Nº 34, de 30 de enero de 2013, del Ministerio de Energía; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que mediante decreto supremo Nº 240, de fecha 8 de octubre de 2010, del Ministerio de Energía, publicado en el Diario Oficial con fecha 2 de febrero de 2011, se otorgó a la empresa Hot Rock Chile S.A., en virtud de la ley Nº 19.657, la concesión de exploración de energía geotérmica denominada "Santa Edita", ubicada en las comunas de Linares, Longaví, Parral y Colbún, provincia de Linares, Región del Maule, cuya extensión asciende a 60.800 hectáreas y sus coordenadas UTM referidas al Datum Provisional Sudamericano 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, son las siguientes:
+
+2. Que la prórroga de la concesión de exploración individualizada en el considerando primero del presente decreto fue otorgada mediante decreto supremo Nº 34, de 30 de enero de 2013, del Ministerio de Energía, publicado en el Diario Oficial de fecha 15 de marzo de 2013.
+
+3. Que con fecha 17 de diciembre de 2013, la empresa Hot Rock Chile S.A. presentó ante el Ministerio de Energía escritura pública de fecha 13 de diciembre de 2013, repertorio Nº 11.210/2013, otorgada ante don Gonzalo Sergio Mendoza Guíñez, Notario Público Suplente de doña Antonieta Mendoza Escalas, titular de la Décimo Sexta Notaría y Conservador de Minas de Santiago, en la cual consta su renuncia total a la concesión de exploración de energía geotérmica denominada "Santa Edita", individualizada en el considerando primero del presente decreto.
+
+4. Que mediante decreto Nº 114, de 15 de noviembre de 2012, del Ministerio de Energía, se aprobó el nuevo reglamento para la aplicación de la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica, en virtud del cual se modificó, entre otras materias, el datum de referencia utilizado para la identificación de las coordenadas de las concesiones de energía geotérmica, desde el Datum Provisional Sudamericano La Canoa - 1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, a aquel basado en el Sistema de Referencia Geocéntrico para las Américas (Sirgas), por lo que las actuales coordenadas del área de la referida concesión de exploración de energía geotérmica son las siguientes:
+
+5. Que es necesaria la dictación de un decreto a fin de dejar constancia de la renuncia efectuada a la concesión de exploración de energía geotérmica denominada "Santa Edita", de titularidad de la empresa Hot Rock Chile S.A., ya individualizada.
+
+Decreto:
+
+Declárase la renuncia total a la concesión de exploración de energía geotérmica denominada "Santa Edita", ubicada en las comunas de Linares, Longaví, Parral y Colbún, provincia de Linares, Región del Maule, de titularidad de la empresa Hot Rock Chile S.A., materializada mediante escritura pública otorgada con fecha 13 de diciembre de 2013.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
