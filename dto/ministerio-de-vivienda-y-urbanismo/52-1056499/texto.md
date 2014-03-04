@@ -18,6 +18,8 @@ Decreto:
 
 Apruébase el siguiente Reglamento del Programa de Subsidio de Arriendo de Vivienda:
 
+Primero: Apruébase el siguiente Reglamento del Programa de Subsidio de Arriendo de Vivienda:
+
 CAPÍTULO I. DISPOSICIONES GENERALES
 
 Definiciones
