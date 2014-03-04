@@ -30,17 +30,17 @@ B.- Otros documentos:
 
 1.- Copias de manuales de instrucciones administrativas, pedagógicas o de perfeccionamiento (por hoja): c/u 0,005 UTM
 
-2.- Copia de certificados anuales de estudios, copia de certificado de títulos, copia de certificado de equivalencia a Licencia Media o Secundaria u otras equivalencias y documentación expedida por el Departamento de Exámenes y Colegios Particulares y por Sección Títulos y Colegios Particulares: c/u 0,03 UTM
+2.- Copia de certificados anuales de estudios, copia de certificado de títulos, copia de certificado de equivalencia a Licencia Media o Secundaria u otras equivalencias y documentación expedida por el Departamento de Exámenes y Colegios Particulares y por Sección Títulos y Colegios Particulares: sin costo
 
-2.1: Copia de certificados anuales de estudios, vía web, sin costo
+2.1: ELIMINADO.
 
-3.- Copia de Licencia de Educación Media: c/u 0,06 UTM
+3.- Copia de Licencia de Educación Media: sin costo
 
-3.1: Copia de Licencia de Educación Media, vía web, sin costo
+3.1: ELIMINADO.
 
-4.- Concentración de Calificaciones o de notas de Educación Media: c/u 0,06 UTM
+4.- Concentración de Calificaciones o de notas de Educación Media: sin costo
 
-4.1: Concentración de Calificaciones o Notas de Educación Media, vía web, sin costo
+4.1: ELIMINADO.
 
 5.- Documentos de propuestas públicas o privadas (por hoja): c/u 0,05 UTM
 
