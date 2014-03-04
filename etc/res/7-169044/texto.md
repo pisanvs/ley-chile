@@ -218,11 +218,13 @@ Cuando se consulten cierros exteriores definitivos en los sitios ya edificados o
 
 En los sitios esquina los cierros deberán formar ochavos no inferiores a 4 m. Esta longitud podrá variar hasta 8 m., según lo disponga el Director de Obras, según sea la intensidad del tránsito y el ángulo y el ancho de las calles en la intersección. En todo caso los ochavos cumplirán con los artículos respectivos de la Ordenanza General de Urbanismo y Construcciones.
 
+> **Nota.** El N° 1 del artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, ordena intercalar en el inciso cuarto de la presente norma, luego de "serán aplicables a las zonas Z 13, Z 13A, Z14, Z14A, Z14B", lo siguiente: "Z15, Z16 y Z16 A", frase que no se encuentra en este texto, por lo que no ha sido posible construir el texto actualizado de la misma.
+
 #### Artículo 11
 
 En los edificios sujetos al sistema de agrupamiento continuo, la altura será la que se indica para cada zona, medida en la misma forma que establece el Nº3, del inciso 2º, del artículo 2.6.2. de la Ordenanza General de la Ley General de Urbanismo y Construcciones, para los adosamientos.
 
-Sobre la edificación continua se permitirá construcción aislada.
+Sobre la edificación continua se permitirá construcción aislada a excepción de las zonas Z15, Z16 y Z16-A donde no se admitirá edificación aislada sobre la continua.
 
 Sin perjuicio del cumplimiento de otras disposiciones de esta Ordenanza, la edificación continua no podrá tener una profundidad mayor al 70% de la longitud del deslinde común.
 
@@ -238,11 +240,15 @@ En la zona Z3, en el área correspondiente a la población Lautaro, se elimina l
 
 > **Nota.** El numeral 1 letras a y b del Artículo 1 de la Enmienda al Plan Regulador de San Joaquín, anexado en el Decreto 1696, Municipalidad de San Joaquín, publicado el 11.11.2011, modifica la presente norma, en el sentido de eliminar la exigencia de antejardín en la zona Z.3, para el área correspondiente a la Población Lautaro y aumentar en un 21,4% el coeficiente de ocupación de suelo en la zona Z.3, para el área correspondiente a la Población Lautaro.
 
+> **Nota.** NOTA 1 El N° 3 del Artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, agrega a la presente norma lo siguiente: "Z15, Z16 y Z16 A".
+
 #### Artículo 13
 
 Estacionamientos. Los proyectos de obras nuevas y los de cambio de destino de todo o parte de edificaciones existentes, deberán cumplir con las normas y estándares mínimos de estacionamientos que se establecen para la Zona D, en el artículo 7.1.2.1 del Plan Regulador Metropolitano de Santiago.
 
 En todos los casos citados no se exigirán estacionamientos cuando el número de unidades que origine la edificación sea inferior a 4 unidades.
+
+> **Nota.** El N° 4 del Artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, agrega en la presente norma lo siguiente: "Z15, Z16 y Z16 A".
 
 #### Artículo 14
 
