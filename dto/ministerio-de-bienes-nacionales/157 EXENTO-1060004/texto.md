@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE TARAPACÁ, AL SERVICIO DE SALUD DE IQUIQUE
+
+Mediante decreto exento Nº 157, de 12 de febrero de 2014, el Ministerio de Bienes Nacionales otorgó concesión gratuita al Servicio de Salud de Iquique, RUT 61.606.100-3, inmueble fiscal ubicado en el Cerro Tarapacá, comuna y provincia de Iquique, Región de Tarapacá, enrolado en el Servicio de Impuestos Internos con el Nº 4020-30, amparado bajo la inscripción global a nombre del Fisco que rola a fs. 1.039 Nº 1.745, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011, singularizado en el Plano Nº I-2-8.105-C.R., con una superficie aproximada de 56,80 m2.
+
+La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión, para destinar el inmueble al funcionamiento de las antenas de telecomunicaciones para apoyo de la red asistencial de salud pública de Tarapacá, instaladas en el sector. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado, Jefe División Jurídica, Ministerio de Bienes Nacionales.
