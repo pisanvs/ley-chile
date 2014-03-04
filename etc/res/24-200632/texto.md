@@ -84,6 +84,40 @@ DE UTILIDAD PÚBLICA (escala 1:10.000),
 
 Área Territorial afecta a la modificación. El área donde aplica la "Modificación del Plan Regulador Comunal Sector Norte Antofagasta" es el polígono cerrado descrito en el Artículo7.1de la presente modificación. Sin perjuicio de la vigencia que tendrán todos aquellos artículos de la Ordenanza Local del Plan Regulador Comunal de Antofagasta que sean de aplicación general en el territorio urbano.
 
+#### Artículo 5
+
+3 Disposiciones de la Ordenanza.
+
+Modifíquese el Plan Regulador Comunal de Antofagasta, promulgado con decreto alcaldicio Nº 1.112 de fecha 14 de noviembre de 2001 de la I. Municipalidad de Antofagasta, aprobado por resolución Nº 24 de fecha 3 de abril de 2002 del Gobierno Regional de Antofagasta, y publicado en el Diario Oficial Nº 37.310 de fecha 17 de julio de 2002; en el polígono individualizado en el Artículo 7.2 de la presente Ordenanza Local, estableciéndose disposiciones sobre zonificación y sus normas urbanísticas, de acuerdo a los planos que se identifican a continuación.
+
+- MPRCA_CHN-01 Síntesis de Modificación, a escala 1:10.000
+
+- MPRCA_CHN-02 Zonificación, a escala 1:5.000
+
+- MPRCA_CHN-03 Vialidad Estructurante, a escala 1:5.000
+
+Modifíquese la Ordenanza Local Plan Regulador Comunal de Antofagasta, individualizado en el inciso anterior, en lo siguiente:
+
+a) Incorpórese en el Artículo 5 los artículos 5.3 y 5.4.
+
+b) Incorpórese en el Artículo 7 el artículo 7.2.
+
+c) Incorpórese en el Artículo 11 "Estacionamientos", el artículo 11.1.
+
+d) Agréguese al final del artículo 48 "Zonificación", la identificación de las zonas que son incorporadas y eliminadas del Plan Regulador Comunal, para el territorio establecido el Artículo 7.2.
+
+e) Incorpórese en Artículo 52 el artículo 52.1.
+
+f) Incorpórese en el Artículo 58 el artículo 58.1.
+
+g) Agréguese el Capítulo X Disposiciones Transitorias y el Artículo Transitorio 1.
+
+#### Artículo 5
+
+4 Área Territorial
+
+El área territorial de la presente "Modificación Plan Regulador Sector Norte Tercera Etapa, Chimba Norte Antofagasta" corresponde al polígono conformado por líneas poligonales cerradas, cuyos puntos y tramos se describen en el Artículo 7.2 de la presente Ordenanza y se grafican en los Planos respectivos.
+
 ## Capítulo II
 
 DESCRIPCION DEL LIMITE URBANO
@@ -417,6 +451,12 @@ los puntos 49 y 31
 Descripción del polígono a modificar. El área territorial de aplicación de la presente modificación del Plan Regulador Comunal Sector Norte Antofagasta, señalada en el Artículo 5.2, está descrita por los siguientes puntos y tramos del polígono que se detalla a continuación, según base topográfica levantamiento aerofotogramétrico, realizado por la empresa GEOCEN, año 2007, considerando precisión según escala de vuelo 1:8.000 con apoyo topográfico de los puntos de control de los vértices de la red Municipal enlazados a la red del ejército de Chile a través del vértice IGM I.M. Antofagasta (IAAP) referido a Coordenadas UTM en metros DATUM SIRGAS WGS-84, ELIPSOIDE GRS-80 y altura elipsoidal.
 
 La escala de restitución del área es 1: 2.000, que presenta curvas de nivel cada 2,00 metros con definición de altura sobre el nivel medio del mar (N.M.M.) después de nivelación geométrica GEISCA INGENIERIA.
+
+#### Artículo 7
+
+2. Descripción del polígono a modificar
+
+El área territorial de la aplicación de la presente Modificación Plan Regulador Sector Norte Tercera Etapa, Chimba Norte Antofagasta, señalada en el Artículo 5.4 de la presente Ordenanza, está descrita por los siguientes puntos y tramos del polígono que se detalla a continuación, según base topográfica levantamiento aerofotogramétrico, realizado por la empresa Geocen, año 2011, Coordenadas UTM en metros Datum Sirgas WGS-84, Elipsoide GRS-80:
 
 ## Capítulo III
 
@@ -879,6 +919,34 @@ d) Considerando las características de cada proyecto, será exigible que dentro
 e) Para los efectos de la aplicación del presente artículo, se considerará como superficie útil construida según lo señalado en OGUC. Para los casos de proyectos acogidos a la Ley de Copropiedad Inmobiliaria se descontará también, la superficie común.
 
 f) Las rampas de acceso y salida de estacionamientos situados a distinto nivel que el de la calzada, deberán consultar un tramo con pendiente no superior al 5% dentro del predio, antes de conectarse al espacio público, de un largo no inferior a 5 m o 10 m, según se trate de automóviles, buses, camiones o similares, respectivamente, medidos a partir de la línea oficial de la propiedad. En los casos de viviendas individuales dicho tramo horizontal podrá tener un mínimo de 3 metros de longitud.
+
+#### Artículo 11
+
+1
+
+Las edificaciones que se construyan, habiliten, cambien de destino o se regularicen en el área definida en el polígono establecido en el artículo 7.2 de la presente Ordenanza, deberán cumplir con la dotación mínima de estacionamientos que se establece a continuación:
+
+NOTA:
+
+(1) En los edificios colectivos de habitación y otros se exigirá un 15% adicional de estacionamientos para uso de visitas.
+
+(2) Adicionalmente se consultará estacionamientos de buses, camiones u otros similares, según los siguientes tramos de superficie útil construida en el proyecto:
+
+- Hasta 1.000 m² 1 estacionamiento de 30 m²
+
+- De 1.001 a 3.000 m² 2 estacionamientos de 30 m² c/u
+
+- De 3.001 a 6.000 m² 3 estacionamientos de 30 m² c/u
+
+- De 6.001 a 12.000 m² 4 estacionamientos de 30 m² c/u
+
+- Más de 12.000 m² 5 estacionamientos de 30 m² c/u
+
+Consideraciones complementarias
+
+a) En edificios o instalaciones que consulten dos o más destinos diferentes, el estándar mínimo se aplicará a la superficie construida para cada destino. El número de estacionamientos exigibles será la suma del número de estacionamientos que originen cada una de dichas superficies.
+
+b) Para los efectos de la aplicación del presente artículo, se considerará como superficie útil construida según lo señalado en OGUC. Para los casos de proyectos acogidos a la Ley de Copropiedad Inmobiliaria se descontará también la superficie común.
 
 #### Artículo 12
 
@@ -1913,6 +1981,8 @@ Son zonas definidas como de riesgo potencial en conformidad a lo estipulado en e
 Zonificación.
 
 Las zonas comprendidas en el Plan Regulador Comunal de Antofagasta son las siguientes:
+
+VER DIARIO OFICIAL DE 17.07.2002, PAGINAS 11 Y 12
 
 #### Artículo 49
 
@@ -3828,6 +3898,54 @@ USOS NO PERMITIDOS
 
 Todos los no indicados.
 
+#### Artículo 52
+
+1. Normas Urbanísticas para las Zonas definidas en el territorio establecido en el Artículo 7.2 de la presente Ordenanza Local:
+
+ZONAS MIXTAS
+
+ZM-4 Zona Mixta 4 (Corredor Transversal Sur)
+
+ZM-5 Zona Mixta 5 (Corredor Transversal Norte)
+
+ZM-6 Zona Mixta 6 (Ruta 1)
+
+ZM-7 Zona Mixta 7 (Frente Costero Sector Acantilado)
+
+ZONAS PREFERENTEMENTE RESIDENCIALES
+
+ZH-4 Zona Preferentemente Residencial 4
+
+ZH-5 Zona Preferentemente Residencial 5
+
+ZONAS DE EQUIPAMIENTO
+
+ZE-1 Zona de Equipamiento Exclusivo 1
+
+ZE-BC Zona de Equipamiento Exclusivo Borde Costero
+
+ÁREAS VERDES
+
+ZAV Áreas Verdes Locales
+
+ZONAS ESPECIALES
+
+ZEP - 1 Zona Especial 1 (Borde Costero 1)
+
+ZEP - 2 Zona Especial 2 (Borde Costero 2)
+
+ZEP - 3 Zona Especial 3 (Acantilado)
+
+Tabla Síntesis de Condiciones de Edificación por Zonas: Mixtas, Preferentemente Residencial, Equipamiento y Especiales
+
+(1) Sistema de agrupamiento: (2) Usos de suelo:
+
+A: Aislado Re: Residencial
+
+P: Pareado Eq: Equipamiento
+
+C: Continuo AcPro: Actividades Productivas
+
 #### Artículo 53
 
 Las normas específicas sobre subdivisión predial y edificación que rigen para las zonas establecidas en los artículos 53, 54 y 55 (Consolidadas, de Extensión y Especiales), son las que se indican en los cuadros siguientes, considerando que en las zonas U1 y U2, para el caso específico de las viviendas sociales se aplicarán las normas contenidas en el Decreto Supremo N°168 (V. y U.) del 29 de Noviembre de 1984, Reglamento Especial del D.F.L. Nº2 y sus modificaciones.
@@ -5678,6 +5796,12 @@ VER DIARIO OFICIAL DE 17.07.2002, PAGINAS 22 A 27
 
 El articulo Nº 2 artículo 9 del Decreto 816, M. de Antofagasta, publicada el 14.07.2012, modifica el presente artículo en el sentido de agregar las tablas identificadas como: N°01- N°02 - N°03- N°04 –N°05 y N°06 de la Red Vial Urbana Estructurante aplicable en el área definida en el Artículo 7.1 de la presente modificación, y graficada según plano MPRCA-N10VIALIDAD
 
+#### Artículo 58
+
+1
+
+La Vialidad Estructurante aplicable en el territorio establecido en el artículo 7.2 de la presente Ordenanza Local, serán las definidas en la siguiente tabla y graficadas según los planos MPRCA_CHN-02 y MPRCA_CHN-03.
+
 #### Artículo 59
 
 Las siguientes disposiciones, contenidas en los artículos N° 60, 61 y 62, norman aspectos específicos válidos para las vías estructurantes de la presente Ordenanza. Las vías se entenderán comprendiendo todos aquellos predios que colinden directamente con ellas, sobre la cual se definirán normas específicas respecto al uso de suelo y condiciones de edificación. Las normas asociadas a la vialidad estructurante, se entenderán por encima de aquellas que se establecen a través de las zonas (entiéndase consolidadas y de extensión).
@@ -6283,3 +6407,5 @@ de Planificación.- Joel Becerra Fuentes, Arquitecto UCN,
 Jefe Departamento de Desarrollo Urbano Secoplan.
 
 "ANTOFAGASTA, EN LA RUTA DEL BICENTENARIO"
+
+> **Nota.** El Artículo 4 del Decreto 236 Exento, Municipalidad de Antofagasta, el presente Artículo 48 de la manera en que la citada norma indica.
