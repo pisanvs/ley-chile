@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DEL BIOBÍO A LA JUNTA NACIONAL DE CUERPOS DE BOMBEROS DE CHILE
+
+Mediante decreto exento Nº 107, de 12 de febrero de 2014, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Junta Nacional de Cuerpos de Bomberos de Chile, RUT 70.073.800-0, inmueble fiscal ubicado en calle Castellón Nº 46, comuna y provincia de Concepción, Región del Biobío, enrolado en el Servicio de Impuestos Internos con el Nº 49-36, inscrito a nombre del Fisco, a fs. 2.637 Nº 2.647 del Registro de Propiedad del Conservador de Bienes Raíces de Concepción correspondiente al año 1973, singularizado en el plano Nº VIII-2-12.669-C.U., con una superficie aproximada de 1.763,65 m2.
+
+La concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión se otorga para destinar el inmueble para el funcionamiento de la Central de Comunicaciones de Bomberos, la Sede de la Academia Nacional de Bomberos del Biobío y la Sede del Consejo Regional de Bomberos del Biobío. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado, Jefe División Jurídica, Ministerio de Bienes Nacionales.
