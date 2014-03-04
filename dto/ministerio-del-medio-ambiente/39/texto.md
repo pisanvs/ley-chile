@@ -1,4 +1,4 @@
-ESTABLECE NORMA DE EMISIÓN DE MATERIAL PARTICULADO, PARA LOS ARTEFACTOS QUE COMBUSTIONEN O PUEDAN COMBUSTIONAR LEÑA Y DERIVADOS DE LA MADERA
+ESTABLECE NORMA DE EMISIÓN DE MATERIAL PARTICULADO, PARA LOS ARTEFACTOS QUE COMBUSTIONEN O PUEDAN COMBUSTIONAR LEÑA Y PELLET DE MADERA
 
 Núm. 39.- Santiago, 11 de noviembre de 2011.- Vistos: Lo establecido en la Constitución Política de la República de Chile, en sus artículos 19 número 8, y 32 número 6; en la ley Nº 19.300, Sobre Bases Generales del Medio Ambiente; la ley Nº 18.410, que Crea la Superintendencia de Electricidad y Combustibles; el artículo segundo de la ley Nº 20.417, Orgánica de la Superintendencia del Medio Ambiente; el decreto ley Nº 2.224, de 1978, modificado por la ley Nº 20.402, que crea el Ministerio de Energía; el decreto supremo Nº 93, del año 1995, del Ministerio Secretaría General de la Presidencia, que establece el Reglamento para la Dictación de Normas de Calidad Ambiental y de Emisión; la resolución Nº 1.600, de 2008, de la Contraloría General de la República; y los demás antecedentes que obran en el expediente público.
 
@@ -62,13 +62,13 @@ Disposiciones generales
 
 #### Artículo 1
 
-La presente norma de emisión para material particulado, para los artefactos que combustionen o puedan combustionar leña y derivados de la madera, tiene por objeto proteger la salud de las personas, mediante el establecimiento de límites de emisión de material particulado, aplicable a los artefactos nuevos, sean éstos fabricados, construidos o armados en el país o importados, que combustionen o pueden combustionar leña o derivados de la madera. De su aplicación se espera una reducción de las emisiones de material particulado y un mejoramiento de la calidad del aire.
+La presente norma de emisión para material particulado, para los artefactos que combustionen o puedan combustionar leña y pellet de madera, tiene por objeto proteger la salud de las personas, mediante el establecimiento de límites de emisión de material particulado, aplicable a los artefactos nuevos, sean éstos fabricados, construidos o armados en el país o importados, que combustionen o pueden combustionar leña o pellet de madera. De su aplicación se espera una reducción de las emisiones de material particulado y un mejoramiento de la calidad del aire.
 
 El ámbito de aplicación territorial de la presente norma corresponde a todo el territorio nacional, a excepción de aquellas zonas declaradas latentes y/o saturadas donde rija un plan de prevención y/o descontaminación que contenga exigencias diferentes en este ámbito.
 
 #### Artículo 2
 
-La presente norma se aplica a artefactos nuevos de una potencia menor o igual a 25 kW, que se comercialicen en el país, con posterioridad a la fecha de entrada en vigencia del presente decreto. En particular, los calefactores nuevos deberán cumplir con los límites de emisión requeridos, en tanto que las cocinas se exceptúan de cumplir tales límites, sin perjuicio de la exigencia de medición de sus emisiones y potencia, en conformidad a la presente norma.
+La presente norma se aplica a artefactos nuevos de una potencia menor o igual a 25 kW, que se comercialicen en el país, con posterioridad a la fecha de entrada en vigencia del presente decreto.
 
 La presente norma no se aplicará a los artefactos que se encuentren operando o instalados para su uso con anterioridad a la fecha de entrada en vigencia del presente decreto.
 
@@ -76,31 +76,27 @@ No se considerarán artefactos para los efectos de esta norma:
 
 a. Caldera generadora de calor que se destina principalmente al calentamiento de agua.
 
-b. Chimeneas empotradas en la pared.
+b. Cocinas.
 
-c. Braseros.
+c. Hornos de barro.
 
-d. Parrillas.
+En todo caso, si un artefacto presenta características propias tanto de un calefactor como de una cocina, se considerará para efectos de esta norma como un calefactor.
 
 #### Artículo 3
 
 Para los efectos de esta norma, se entenderá por:
 
-a. Artefacto: Es aquel calefactor o cocina que combustiona o puede combustionar leña o derivados de la madera, fabricado, construido o armado en el país o importado, que tiene una ponencia térmica nominal menor o igual a 25 kW, de alimentación manual o automática, de combustión abierta o cerrada, que proporciona calor en el espacio en que se instala, que está provisto de un ducto para la evacuación de gases al exterior.
+a. Calefactor: Artefacto que combustiona o puede combustionar leña o pellet de madera, fabricado, construido o armado en el país o en el extranjero, que tiene una potencia térmica nominal menor o igual a 25kW, de alimentación manual o automática, de combustión cerrada, provisto de un ducto para la evacuación de gases al exterior, destinado a la calefacción en el espacio en que se instala y su alrededor.
 
-b. Artefacto nuevo: Es aquel que no se encuentra operando ni instalado para su uso a la fecha de entrada en vigencia del presente decreto.
+b. Calefactor nuevo: Es aquel que no se encuentra operando ni instalado para su uso a la fecha de entrada en vigencia del presente decreto.
 
-c. Artefacto representativo o prototipo: Es la unidad básica fabricada, construida, armada o importada que se medirá con objeto de verificar el cumplimiento del presente decreto, que representa a un conjunto de artefactos, de una o más partidas, cuya cámara de combustión, conducto de humos, collarín e ingresos de aire tienen características idénticas en cuanto a componentes, dimensiones, espesores, materiales y ubicación de éstos.
+c. Cocina: Artefacto diseñado para transferir calor a los alimentos, provisto de un horno no removible.
 
-d. Calefactor: Es aquel artefacto que en su diseño y construcción se destina para la calefacción.
+d. Leña: Corresponde a una porción de madera en bruto de troncos, ramas y otras partes de árboles y arbustos, utilizada como combustible sólido residencial.
 
-e. Cocina: Es aquel artefacto que en su diseño se destina principalmente para transferir calor a los alimentos y no al ambiente, y en su construcción está provisto de un horno.
+e. Pellet de madera: Combustible sólido, generalmente de forma cilíndrica, fabricado a partir de madera pulverizada sin tratar, extraída del conjunto del árbol y aglomerada con o sin ayuda de ligantes.
 
-f. Leña: Corresponde a una porción de madera en bruto de troncos, ramas y otras partes de árboles y arbustos, utilizada como combustible sólido residencial.
-
-g. Derivados de la madera: Corresponde a aquellos combustibles sólidos que han sido obtenidos a partir de un proceso físico de transformación de la madera.
-
-h. Velocidad mínima de quemado: Aquella que corresponde a la menor velocidad de quemado de combustible en el artefacto, que se puede obtener para un ciclo completo de medición operando con los controles de suministro de aire completamente cerrados.
+f. Velocidad mínima de quemado: Aquella que corresponde a la menor velocidad de quemado de combustible en el artefacto, que se puede obtener para un ciclo completo de medición operando con los controles de suministro de aire completamente cerrados.
 
 ## Título Segundo
 
@@ -108,7 +104,7 @@ Límites máximos de emisión
 
 #### Artículo 4
 
-Los calefactores nuevos que combustionan o pueden combustionar leña o derivados de la madera, deberán cumplir con los siguientes límites máximos de emisión de material particulado:
+Los calefactores nuevos que combustionan o pueden combustionar leña o pellet de madera, deberán cumplir con los siguientes límites máximos de emisión de material particulado:
 
 Tabla Nº 1 Límites de emisión según potencia
 
@@ -134,7 +130,9 @@ Corresponderá al Ministerio de Energía, según lo dispuesto en el artículo 4�
 
 #### Artículo 8
 
-La determinación de la potencia térmica nominal de los artefactos nuevos se deberá efectuar mediante la Norma Chilena Oficial NCh 3.173 Of2009. "Estufas que utilizan combustibles sólidos - Requisitos y métodos de ensayo", oficializada por resolución Nº 1.535, del 27 de agosto de 2009, del Ministerio de Economía, Fomento y Reconstrucción y publicada en el Diario Oficial el 2 de septiembre de 2009, o el que lo actualice o reemplace.
+La determinación de la potencia térmica nominal de los calefactores a leña nuevos se deberá efectuar mediante la Norma Chilena Oficial NCh 3.173 Of2009. "Estufas que utilizan combustibles sólidos - Requisitos y métodos de ensayo", oficializada por resolución Nº 1.535, del 27 de agosto de 2009, del Ministerio de Economía, Fomento y Reconstrucción y publicada en el Diario Oficial el 2 de septiembre de 2009, o el que lo actualice o reemplace.
+
+La determinación de la potencia térmica nominal de los calefactores a pellet de madera nuevos se deberá efectuar mediante la Norma Chilena Oficial NCh 3282 Of. 2013 "Artefactos de calefacción doméstica que utilizan pellets de madera - Requisitos y métodos de ensayo
 
 #### Artículo 9
 
@@ -146,7 +144,7 @@ Entrada en vigencia
 
 #### Artículo 10
 
-El presente decreto entrará en vigencia el 1º de octubre de 2013.
+Los límites de emisión establecidos en el artículo 4 serán exigibles a partir del 1º de octubre de 2014 para los calefactores a leña y a partir del 1º de octubre de 2016 para los calefactores a pellet de madera.
 
 Anótese, tómese razón, publíquese y archívese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.- Rodrigo Álvarez Zenteno, Ministro de Energía.
 
