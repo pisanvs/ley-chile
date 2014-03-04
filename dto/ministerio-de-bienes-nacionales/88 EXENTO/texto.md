@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE ATACAMA, A LA EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.
+
+Mediante decreto exento Nº 88, de 30 de enero de 2014, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa a la Empresa Concesionaria de Servicios Sanitarios S.A., RUT 96.579.410-7, el inmueble fiscal que corresponde al Lote D, ubicado en el Sector Punta Padrones, comuna de Caldera, provincia de Copiapó, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 2450-1, amparado por inscripción global a nombre del Fisco que rola a fs. 207 Nº 180, del Registro de Propiedad de 1996, del Conservador de Bienes Raíces de Caldera, singularizado en el plano Nº 03102-1.315 C.U., de una superficie aproximada de 89.293,10 m2.
+
+La concesión se otorga por un plazo de 35 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será el equivalente en moneda nacional a UF 401,82.
+
+La concesión se otorga para ejecutar al menos la primera etapa del Proyecto de Construcción de una Planta Desaladora de agua de mar, para el abastecimiento de agua potable para el consumo humano, en las comunas de Copiapó, Caldera, Chañaral y Tierra Amarilla, la cual deberá entrar en operación el año 2017. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado, Jefe División Jurídica, Ministerio de Bienes Nacionales.
