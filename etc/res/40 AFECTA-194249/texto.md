@@ -890,7 +890,7 @@ Z3-1 Zona Residencial, en Densidad Alta
 
 Z4 Zona Residencial, en Densidad Media
 
-Z5 Zona Area Verde - Deporte
+Z5 Zona Deportiva - Industrial
 
 Z6 Zona Equipamiento y Parque
 
@@ -1940,7 +1940,7 @@ VER DIARIO OFICIAL DE 31.01.2002, PAGINA 13.
 
 ARTICULO N° 62
 
-Z5 ZONA AREA VERDE - DEPORTE
+Z5 ZONA DEPORTIVA - INDUSTRIAL
 
 A.- USOS DE SUELO PERMITIDOS
 
@@ -2703,3 +2703,5 @@ Iquique, noviembre del 2001.- Jorge Alejandro Soria Quiroga, Alcalde Municipalid
 > **Nota.** NOTA 5 El Artículo 8º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z7-1 Zona Industrial Mixta El Boro, de la manera que la citada norma indica.
 
 > **Nota.** NOTA 6 El Artículo 9º del Decreto Nº 710, Municipalidad Alto Hospicio, publicado el 13.04.2013, modifica la presente norma en el sentido de alterar las normas urbanísticas de la Zona Z8 Zona Industrial Mixta Alto Molle, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 7 El Artículo único del Decreto Nº 119, Municipalidad de Alto Hospicio, publicado el 04.03.2014, modifica el presente artículo, en el sentido de reemplazar las normas urbanísticas de la Zona Z5, de la manera que la citada norma indica.
