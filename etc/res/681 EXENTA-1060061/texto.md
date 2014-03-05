@@ -1,0 +1,3 @@
+Por resolución exenta Nº 681, de 25 de febrero de 2014, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones exentas Nº 518 de 1993 y Nº 2.067 de 2003, sólo en cuanto autorizaron a MARIO MOROZIN YURESIC, para ampliar actividades pesqueras extractivas con la nave "Cucaña", respecto del recurso hidrobiológico Jibia en las áreas marítimas comprendidas entre el paralelo 24º L.S. y el límite sur de la III Región y entre la IV y VIII Regiones respectivamente, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
