@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE PUTAENDO
+
+Mediante decreto exento Nº 183, de 13 de febrero de 2014, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la I. Municipalidad de Putaendo, RUT 69.050.700-5, inmueble fiscal ubicado calle Arturo Prat Nº 1, que corresponde al Polígono A-B-C-D, comuna de Putaendo, provincia de San Felipe, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el Nº 58-1; inscrito nombre del Fisco en mayor cabida a fs. 30 vta. Nº 42, del Registro de Propiedad del Conservador de Bienes Raíces de Putaendo, correspondiente al año 1970; singularizado en el Plano Nº 05705-4390-C.U.; con una superficie aproximada de 1.425,10 m² de terreno y una superficie edificada de 376,10 m².
+
+La concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión, para regularizar y mejorar la infraestructura existente, en el cual funciona la Alcaldía y distintas oficinas municipales. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado Jefe División Jurídica, Ministerio de Bienes Nacionales.
