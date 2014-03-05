@@ -1,0 +1,9 @@
+ADJUDICA CONCESIÓN ONEROSA CONTRA PROYECTO EN INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ A LA SOCIEDAD COMPAÑÍA MIMERA DOÑA INÉS DE COLLAHUASI SCM
+
+Mediante decreto exento Nº 213, de 28 de febrero de 2014, el Ministerio de Bienes Nacionales adjudicó en concesión onerosa contra proyecto a la sociedad Compañía Minera Doña Inés de Collahuasi SCM, RUT 89.468.900-5, el inmueble Sector de Propiedad Fiscal número uno, el que se encuentra ubicado en Caleta Chica, comuna de Huara, provincia de Tamarugal, Región de Tarapacá. Amparado por la inscripción global que rola, en mayor cabida, a fs. 78 Nº 77 en el Registro de Propiedad del año 1985 del Conservador de Bienes Raíces de Pozo Almonte, singularizado en el plano Nº I-0061, de una superficie de 457 hectáreas.
+
+La concesión se otorga por un plazo de 50 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será el equivalente en moneda nacional a UF 4.500 para el período de estudio; UF 30.000 para el período de construcción y operación.
+
+La concesión se otorga para un proyecto de generación de energía para operación continua, cuya potencia deberá ser igual o superior a la Capacidad Instalada Mínima e incluye todas las inversiones necesarias para lograr este objetivo. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Alfonso Domeyko Letelier, Abogado, Jefe División Jurídica Ministerio de Bienes Nacionales.
