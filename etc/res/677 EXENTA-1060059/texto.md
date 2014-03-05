@@ -1,0 +1,3 @@
+Por resolución exenta Nº 677, de 25 de febrero de 2014, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones exentas Nº 444 de 1993 y Nº 1.947 de 2003, sólo en cuanto autorizaron a MARÍA ANA MOROZIN BAYCIC, para ampliar actividades pesqueras extractivas con la nave "Samoa", respecto del recurso hidrobiológico Jibia en las áreas marítimas comprendidas entre el paralelo 29º LS. y la III Región y entre la IV y VIII Regiones respectivamente, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
