@@ -1,0 +1,3 @@
+Por resolución exenta Nº 679, de 25 de febrero de 2014, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 2.251 de 2001, que autorizó a MARÍA BAYCIC BAYCIC, para ampliar actividades pesqueras extractivas con la nave "Ulises 2", respecto del recurso hidrobiológico Reineta Brama australis en el área marítima comprendida entre la XV y III Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
