@@ -20,7 +20,9 @@ Nombre : Marco Andrés Silva Maldonado
 
 RUT : 15.286.742-5
 
-Ubicación : Décima Región - Regional de Puerto Montt - Cobranza
+Ubicación : Décima Región - Regional de Puerto Montt -
+
+Unidad Operativa de Cobro 3
 
 Calidad jurídica : Contrata
 
@@ -32,9 +34,13 @@ Grado : 11 E.U.
 
 Función : Abogado
 
-Fecha inicio : 01/05/2010
+Fecha inicio : 17/02/2014
 
-Jurisdicción : Todas las comunas de la Décima Región.
+Fecha término : 28/02/2014
+
+Jurisdicción : Todas las comunas del Territorio
+
+Nacional.
 
 Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorerías, dependientes de la Tesorería Regional de Puerto Montt.
 
