@@ -102,6 +102,8 @@ No obstante, por aplicación de las normas señaladas en las letras
 
 1.2 Traspasos entre ítems del subtítulo 31, Iniciativas de Inversión.
 
+1.3 Para los fines señalados en el numeral 5.1 de la glosa 02 común para todos los Programas 02 de los Gobiernos Regionales y para el programa 03 del Gobierno Regional de Magallanes y la Antártica Chilena, las creaciones y modificaciones de ítem de transferencias y las correspondientes disminuciones o incrementos en otros ítems se podrán efectuar mediante resolución de la Subsecretaría de Desarrollo Regional y Administrativo, la que deberá ser visada por la Dirección de Presupuestos.
+
 2. Por resolución del Intendente, con comunicación a la Dirección de Presupuestos, dentro del plazo de 10 días de la dictación de la resolución y previa la aprobación que proceda por parte de la administración regional respectiva, se efectuarán:
 
 A. Normativa general:
