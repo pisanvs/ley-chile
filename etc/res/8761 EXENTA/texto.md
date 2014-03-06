@@ -58,7 +58,7 @@ c) Minuta firmada de Escritura Pública de Adhesión al Programa y Mandato, seg�
 
 d) Certificado de avalúo fiscal de cada uno de los departamentos de la UMP;
 
-e) Comprobante que acredite que las cuentas de servicios domiciliarios de cada uno de los departamentos de la UMP no mantienen deuda vigente o, en el caso de existir deudas, declaración del propietario que indique estar en conocimiento del monto de éstas y que este monto le será descontado del valor del subsidio, según el Anexo Nº 4.
+e) Comprobante que acredite que las cuentas de servicios domiciliarios de cada uno de los departamentos de la UMP no mantienen deuda vigente, o en el caso de existir deudas, declaración del propietario que indique estar en conocimiento del monto de éstas, y en caso que Serviu se haga cargo, aceptar su imputación al valor del inmueble determinado en conformidad al decreto ley Nº 2.186, Ley Orgánica de Procedimiento de Expropiaciones, según el Anexo Nº 4.
 
 ### 5. Procedimiento difusión e ingreso de antecedentes
 
@@ -124,11 +124,11 @@ Con posterioridad a la selección, el Serviu podrá asignar beneficios a los pro
 
 ### 9. Obligación de entrega de los departamentos desocupados
 
-En cualquier caso, los departamentos de la UMP seleccionada deberán ser entregados al Serviu libres de todo ocupante en la fecha que éste lo indique, lo que será informado al delegado respectivo.
+En cualquier caso, los departamentos de la UMP seleccionada deberán ser entregados al Serviu libre de todo ocupante y sin deudas de servicios domiciliarios en la fecha que éste lo indique, lo que será informado al delegado respectivo.
 
 ### 10. Asignatarios de viviendas Serviu
 
-Tratándose de asignatarios de una vivienda Serviu, entendiéndose como asignatario a toda persona beneficiaria de un subsidio habitacional cuya vivienda no ha sido inscrita a su nombre en el Conservador de Bienes Raíces, no obstante haberle sido asignada administrativamente por los Servicios de Vivienda y Urbanización, y que no hubiere sido escriturada por razones que no le son imputables, para el otorgamiento de los beneficios establecidos en la presente resolución serán considerados propietarios, situación que deberá ser corroborada por el mismo Serviu.
+Tratándose de asignatarios de una vivienda Serviu que no ha sido inscrita a su nombre en el Conservador de Bienes Raíces, no obstante haberle sido asignada administrativamente a cualquier título por los Servicios de Vivienda y Urbanización, serán considerados propietarios para el otorgamiento de los beneficios establecidos en la presente resolución, situación que deberá ser corroborada por el mismo Serviu.
 
 ### 11. Asignación de subsidios
 
@@ -140,9 +140,9 @@ Los Serviu podrán, a través de los profesionales que designe al efecto, verifi
 
 ### 13. Universo de inmuebles
 
-El número máximo de inmuebles que podrán ser seleccionados en este llamado por cada conjunto son los siguientes:
+El número máximo de inmuebles que podrán ser seleccionados en este llamado por cada región son los siguientes:
 
-..
+> **Nota.** La letra c) del numeral 1 de la Resolución 1309 Exenta, publicada el 06.03.2014, dispone sustituir el Resuelvo 10 de la presente norma. No obstante, la citada norma referirse al Resuelvo 1C.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
