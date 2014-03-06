@@ -14,15 +14,11 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los grupos postulantes son los siguientes:
 
-.
-
 3. El número de grupos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Para determinar el número de subsidios a financiar, se considerarán los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la Calificación Definitiva del proyecto y de la adscripción a éste por parte del grupo seleccionado.
 
 5. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** El numeral 1º de la Resolución 7465 Exenta, Vivienda, publicada el 23.10.2013, reemplazó la tabla inserta en el resuelvo 1º, sin embargo dicha tabla se encuentra en el resuelvo 2º de la presente norma.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
