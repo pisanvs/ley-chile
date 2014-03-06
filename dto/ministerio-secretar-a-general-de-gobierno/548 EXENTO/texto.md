@@ -14,6 +14,8 @@ Decreto:
 
 3º Luis Andrés Venegas Rivas, Director de la División Secretaría de Comunicación y Cultura, Directivo, Titular, grado 2 EUS.
 
+4° María Paula Catalán Brangier, Jefe de la Unidad de Estudio y Desarrollo, Profesional, Grado 6 E.U.S.
+
 2.- Manténgase vigente el decreto exento Nº 302, de 5 de julio de 2012, del Ministerio Secretaría General de Gobierno, en todo lo no modificado por el presente acto administrativo.
 
 Anótese, regístrese y publíquese.- Por orden del Presidente de la República, Cecilia Pérez Jara, Ministra Secretaria General de Gobierno.

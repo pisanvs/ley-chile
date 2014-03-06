@@ -12,17 +12,13 @@ Decreto:
 
 1.- Desígnase a contar de esta fecha, por razones impostergables de buen servicio, el siguiente orden de subrogación en el cargo de Subsecretario General de Gobierno, en caso de ausencia del titular:
 
-1º Christian Schalper Schwencke, Director de la División de
+1º Christian Schalper Schwencke, Director de la División de Administración y Finanzas, Directivo, Titular, Grado 2 EUS.
 
-Administración y Finanzas, Directivo, Titular, Grado 2 EUS.
+2º Luis Andrés Venegas Rivas, Director de la División Secretaría de Comunicación y Cultura, Directivo, Titular, Grado 2 EUS.
 
-2º Luis Andrés Venegas Rivas, Director de la División Secretaría
+3º Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesoría Jurídica, Directivo, Titular, Grado 4 EUS.
 
-de Comunicación y Cultura, Directivo, Titular, Grado 2 EUS.
-
-3º Felipe Enrique Nazar Massuh, Jefe de la Unidad de Asesoría
-
-Jurídica, Directivo, Titular, Grado 4 EUS.
+4° Ximena Andrea Mardones Taladriz, Coordinadora Administrativa de la División Secretaría de Comunicación y Cultura, Directivo Titular, Grado 4 E.U.S.
 
 2.- Déjase sin efecto el decreto exento Nº 477, de 14 de octubre de 2011, del Ministerio Secretaría General de Gobierno.
 
