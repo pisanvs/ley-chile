@@ -38,7 +38,7 @@ Ciudad : Casablanca
 
 Jurisdicción : Casablanca
 
-Mod. Atención : Intermitente.
+Mod. Atención : Permanente.
 
 3).- En todo lo no modificado por la presente resolución exenta, se mantendrá vigente la resolución exenta Nº 55, de 2012.
 

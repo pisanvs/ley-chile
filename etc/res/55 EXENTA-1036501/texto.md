@@ -310,7 +310,7 @@ Ciudad : Casablanca
 
 Jurisdicción : Casablanca
 
-Mod. atención : Permanente
+Mod. Atención : Permanente.
 
 Inspección Comunal del Trabajo de Limache
 
@@ -327,6 +327,18 @@ Ciudad : Hijuelas
 Jurisdicción : Hijuelas, Nogales
 
 Mod. atención : Intermitente
+
+CENTRO DE CONCILIACION Y MEDIACIÓN DE LA V REGIÓN
+
+Ciudad : Valparaíso
+
+Jurisdicción
+
+Conciliación : Concón, Quintero, Puchuncaví, Isla de Pascua, Juan Fernández, Valparaíso, Viña del Mar.
+
+Mediación : Todas las comunas de la región.
+
+Mod. atención : Permanente.
 
 VI REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
@@ -596,6 +608,18 @@ Jurisdicción : Coelemu
 
 Mod. atención : Intermitente
 
+CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA VIII REGIÓN
+
+Ciudad : Concepción
+
+Jurisdicción
+
+Conciliación : Chiguayante, Concepción, Florida, Hualpén, Hualqui, San Pedro de la Paz, Talcahuano.
+
+Mediación : Todas las comunas de la región.
+
+Mod. atención : Permanente.
+
 IX REGIÓN DE LA ARAUCANÍA
 
 Inspección Provincial del Trabajo de Temuco
@@ -685,6 +709,18 @@ Ciudad : Traiguén
 Jurisdicción : Traiguén
 
 Mod. atención : Intermitente
+
+CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA IX REGIÓN
+
+Ciudad : Temuco
+
+Jurisdicción
+
+Conciliación : Carahue, Cholchol, Cunco, Melipeuco, Nueva Imperial, Padre Las Casas, Puerto Saavedra, Temuco, Vilcún.
+
+Mediación. Todas las comunas de la región.
+
+Mod. atención : Permanente.
 
 X REGIÓN DE LOS LAGOS
 
@@ -930,6 +966,20 @@ Jurisdicción : Las Condes, Vitacura, Lo Barnechea
 
 Mod. atención : Permanente
 
+CENTRO DE CONCILIACION Y MEDIACIÓN DE LA REGIÓN METROPOLITANA ORIENTE
+
+Ciudad : Santiago
+
+Jurisdicción
+
+Conciliación : La Reina, Las Condes, Lo Barnechea, Macul, La Florida, Ñuñoa,
+
+Peñalolén, Providencia, Vitacura.
+
+Mediación : Todas las comunas de la Región Metropolitana Oriente.
+
+Mod. atención : Permanente.
+
 XIII REGIÓN METROPOLITANA PONIENTE
 
 Inspección Provincial Santiago Centro
@@ -1003,6 +1053,22 @@ Ciudad : Curacaví
 Jurisdicción : Curacaví
 
 Mod. atención : Intermitente
+
+CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA REGIÓN METROPOLITANA PONIENTE
+
+Ciudad : Santiago
+
+Jurisdicción
+
+Conciliación : Cerro Navia, Colina, Conchalí, Estación Central, Huechuraba,
+
+Independencia, Lampa, Lo Prado, Pudahuel, Quilicura, Quinta
+
+Normal, Recoleta, Renca, Santiago, Tiltil.
+
+Mediación : Todas las comunas de la Región Metropolitana Poniente.
+
+Mod. atención : Permanente.
 
 XIV REGIÓN DE LOS RÍOS
 
