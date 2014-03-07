@@ -1,0 +1,5 @@
+ACREDITA A "INVERSIONES AC LIMITADA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 19, de 16 de enero de 2014 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a Inversiones AC Limitada, RUT Nº 88.519.100-2, como Centro de Evaluación y Certificación de Competencias Laborales, en el sector Transportes, Subsector Camiones de Carga, en los perfiles ocupacionales de Conductor de Carga General y Conductor de Sustancias Peligrosas; en el Subsector Transporte público de pasajeros mediante buses, en el perfil ocupacional de Conductor Transantiago y en el Subsector Taxis Colectivos, en el perfil ocupacional de conductor o conductora de taxi colectivo. La acreditación se otorga por un plazo de tres años contados desde el 16 de enero de 2014, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
