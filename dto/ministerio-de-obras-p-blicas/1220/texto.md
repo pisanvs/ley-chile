@@ -318,6 +318,10 @@ g) Registro Público de Derechos de Aprovechamiento Utilizados y No Utilizados.
 
 h) Registro Público de Limitaciones o Condiciones Ambientales relacionadas con los Derechos de Aprovechamiento.
 
+i) Registro Público de Derechos de Aprovechamiento de Aguas de Carácter Provisional.
+
+j) Registro Público de Obras de Recarga Artificial de Acuiferos.
+
 De cada anotación que se efectúe en los Registros contenidos en las letras f),
 
 - **g)** y
