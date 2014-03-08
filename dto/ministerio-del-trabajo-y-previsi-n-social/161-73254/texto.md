@@ -248,8 +248,6 @@ El Servicio de Bienestar podrá celebrar la festividad de Navidad para sus afili
 
 El Consejo Administrativo fijará anualmente el porcentaje del presupuesto que deberá destinarse para estos efectos.
 
-El Servicio de Bienestar otorgará a sus afiliados un regalo de Navidad en el mes de diciembre de cada año, según disponibilidad presupuestaria. Se otorgará este beneficio a los afiliados que tengan, a lo menos, 6 aportes continuos los meses inmediatamente anteriores al 1 de diciembre de cada año en que se entrega el beneficio.
-
 #### Artículo 16º
 
 El Servicio de Bienestar podrá, además, administrar colonias, refugios, casa de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la respectiva institución.
