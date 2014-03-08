@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.776, de 6 de febrero de 2014, se publicó extracto de resolución exenta Nº 387, de 30 de enero de 2014, que "MODIFICA RESOLUCIÓN Nº 2.353, DE 2010, QUE ESTABLECE LA METODOLOGÍA PARA LA DETERMINACIÓN DE BANCO NATURAL DE RECURSOS HIDROBIOLÓGICOS", con el error que se salva a continuación: Cuerpo I, página nueve, primera columna, donde dice "... Por resolución exenta Nº 387, de 30 de enero de 2414,..." debe decir "... Por resolución exenta Nº 387, de 30 de enero de 2014,...".
