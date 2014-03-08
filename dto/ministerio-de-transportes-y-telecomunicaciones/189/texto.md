@@ -1,4 +1,4 @@
-APRUEBA REGLAMENTO PARA EL SISTEMA DE MULTIPORTADOR DISCADO Y CONTRATADO DEL SERVICIO TELEFONICO DE LARGA DISTANCIA
+APRUEBA REGLAMENTO PARA EL SISTEMA DE MULTIPORTADOR DISCADO Y CONTRATADO DEL SERVICIO TELEFONICO DE LARGA DISTANCIA NACIONAL E INTERNACIONAL
 
 Santiago, 10 de Junio de 1994. Con esta fecha se ha decretado lo que sigue:
 
@@ -6,7 +6,7 @@ Núm 189.- Vistos: Los artículos 24, 32 N° 8 y 35 de la Constitución Polític
 
 Decreto:
 
-Apruébase el siguiente Reglamento para el sistema de multiportador discado y contratado del servicio telefónico de larga distancia.
+Apruébase el siguiente Reglamento para el sistema de multiportador discado y contratado del servicio telefónico de larga distancia nacional e internacional.
 
 CAPITULO I {ARTS. 1-2}
 
@@ -18,9 +18,9 @@ El presente Reglamento establece las disposiciones por las que se deben regir la
 
 #### Artículo 2°
 
-El ámbito de aplicación de este Reglamento es el servicio telefónico de larga distancia.
+El ámbito de aplicación de este Reglamento es el servicio telefónico de larga distancia nacional e internacional.
 
-## Capítulo II
+CAPITULO II {ART. 3}
 
 De la Terminología
 
@@ -30,7 +30,7 @@ Para los efectos del presente Reglamento se entenderá por:
 
 a) Portador.
 
-Concesionaria de servicios intermedios que presta servicios de larga distancia a los suscriptores y usuarios.
+Concesionaria de servicios intermedios de telecomunicaciones.
 
 b) Compañía telefónica.
 
@@ -50,11 +50,13 @@ Función que comprende la emisión de boletas o facturas.
 
 f) Cobranza.
 
-Consiste en el despacho del documento de cobro a los medios de distribución de correspondencia, la posterior recaudación del dinero dentro del plazo de pago de la cuenta única contenida en el respectivo documento de cobro por los servicios prestados y en la recepción conforme por parte de los portadores.
+La regla general es que esta función sea realizada directamente por los portadores, en cuyo caso comprende todas las actividades necesarias para efectuar la recaudación del dinero por los servicios prestados.
+
+Esta función, cuando es suministrada por la compañía telefónica, comienza con el despacho de la cuenta única a los medios de distribución de correspondencia, continúa con la re caudación del dinero por los servicios presta dos y termina con la recepción conforme por los portadores de los dineros recaudados. Se excluye, en este caso, la cobranza de deudas morosas.
 
 g) Punto de terminación de red.
 
-Punto fijado por la Subsecretaría de Telecomunicaciones en la red de una concesionaria, donde la compañía telefónica debe establecer kas interconexiones con redes de servicios intermedios que le sean solicitadas.
+Punto fijado por la Subsecretaría de Telecomunicaciones en la red local de una zona primaria, donde la compañía telefónica debe establecer kas interconexiones con redes de servicios intermedios que le sean solicitadas.
 
 h) Punto de interconexión.
 
@@ -64,7 +66,9 @@ i) Indicativo de Portador.
 
 Combinación de dos dígitos que identifica a cada portador.
 
-j) ELIMINADA.
+j) Cuenta única.
+
+Documento de cobro emitido por la compañía telefónica. que incluye cobros tanto por el servicio telefónico local como de larga distancia.
 
 k) Suscriptor.
 
@@ -74,17 +78,17 @@ l) Usuario.
 
 Usuario del servicio público telefónico.
 
-## Capítulo III
+CAPITULO III {ARTS. 4-22}
 
 Del Servicio Telefónico de Larga Distancia
 
-## Título 1 — Características del Servicio.
+## Título 1 — Características del Servicio. {ARTS. 4-11}
 
 #### Artículo 4°
 
-La compañía telefónica debe establecer un sistema de multiportador discado que permita al suscriptor o usuario seleccionar los servicios de larga distancia, del portador de su preferencia.
+La compañía telefónica debe establecer un sistema de multiportador discado que permita al suscriptor o usuario seleccionar los servicios de larga distancia, nacional e internacional, del portador de su preferencia.
 
-> **Nota.** La letra c del Artículo Único del Decreto 44, Transportes, publicado el 08.03.2014, elimina el inciso segundo de la presente norma.
+Sin embargo, en atención a que la telefonía móvil está excluida de la definición de zonas primarias, las concesionarias de servicio público telefónica móvil no están obligadas a establecer el sistema de multiportador discado para el servicio de larga distancia nacional.
 
 #### Artículo 5°
 
@@ -92,7 +96,7 @@ El sistema de multiportador discado debe permitir la selección del portador en 
 
 #### Artículo 6°
 
-Los portadores podrán establecer un sistema de multiportador contratado, opcional, que permita al suscriptor elegir los servicios de larga distancia, del portador de su preferencia, mediante convenio, por un período dado. Los planes de larga distancia comercializados por los portadores se entenderán comprendidos dentro de esta modalidad.
+Los portadores podrán establecer un sistema de multiportador contratado, opcional, que permita al suscriptor elegir los servicios de larga distancia, nacional o internacional, del portador de su preferencia, mediante convenio, por un período dado.
 
 #### Artículo 7°
 
@@ -104,7 +108,7 @@ La compañía telefónica debe transmitir al portador, elegido por el suscriptor
 
 #### Artículo 9°
 
-Toda llamada de larga distancia cursada a través de la red telefónica, debe ser encaminada hacia el portador elegido por el suscriptor o usuario, correspondiendo al portador realizar las funciones de transmisión o conmutación de larga distancia, ya sea con medios propios o de otros portadores, necesarias para su encaminamiento hacia la red que corresponda.
+Toda llamada de larga distancia nacional o internacional, cursada a través de la red telefónica local, debe ser encaminada hacia el portador elegido por el suscriptor o usuario, correspondiendo al portador realizar las funciones de transmisión o conmutación de larga distancia, ya sea con medios propios o de otros portadores, necesarias para su encaminamiento hacia la zona primaria de destino o hacia la red internacional, según corresponda.
 
 #### Artículo 10°
 
@@ -132,17 +136,31 @@ SUBTEL comunicará a los portadores inscritos la fecha y hora del sorteo, así c
 
 El indicativo de portador es inseparable de la respectiva concesión de servicio intermedio y podrá ser modificado, si futuras modificaciones de la normativa técnica así lo requieren.
 
-## Título 3 — Procedimientos de Marcación.
+## Título 3 — Procedimientos de Marcación. {ARTS. 15-19}
 
-#### Artículo 15º
+#### Artículo 15°
 
-En el procedimiento de marcación para llamadas automáticas, en el sistema de multiportador discado, se deben marcar los dígitos "1YZ" seguidos del "número internacional".
+El procedimiento de marcación para llamadas automáticas, en el sistema de multiportador discado, es el siguiente:
+
+i) Llamadas internacionales:
+
+Para llamar a un abonado de otro país, se debe marcar los dígitos "1YZ0" seguidos del "Número Internacional".
+
+ii) Llamadas nacionales:
+
+Para realizar una llamada de larga distancia dentro del territorio nacional se debe marcar los dígitos "1YZ" seguidos del "Número Nacional (significativo)".
 
 #### Artículo 16°
 
 El procedimiento de marcación para llamadas por vía de operadora, en el sistema de multiportador discado, es el siguiente:
 
+i) Llamadas internacionales:
+
 Para llamar a un abonado de otro país, se debe marcar los dígitos "1YZ18X".
+
+ii) Llamadas nacionales:
+
+Para realizar una llamada de larga distancia dentro del territorio nacional se debe marcar los dígitos "1YZ12X".
 
 Según el valor de "X" marcado se debe accesar a:
 
@@ -158,15 +176,21 @@ Atención comercial : X = 7.
 
 El procedimiento de marcación para llamadas automáticas, en el caso del sistema de multiportador contratado, es el siguiente:
 
-Para llamar a un abonado de otro país, se debe marcar el dígito "0" seguido del "Número Internacional".
+i) Llamadas internacionales:
 
-Lo anterior, sin perjuicio de las formas de discado establecidas para la utilización de los planes de larga distancia contratados.
+Para llamar a un abonado de otro país, se debe marcar los dígitos "00" seguidos del "Número Internacional",
+
+ii) Llamadas nacionales:\
+
+Para realizar una llamada de larga distancia dentro del territorio nacional se debe marcar el dígito "0" seguido del "Número Nacional (significativo)".
 
 #### Artículo 18°
 
 El procedimiento de marcación para llamadas por vía de operadora, en el sistema de multiportador contratado, es el siguiente:
 
-Para llamar a un abonado de otro país, se debe marcar los digitos "018X".
+i) Llamadas internacionales: Para llamar a un abonado de otro país, se debe marcar los digitos "018X".
+
+ii) Llamadas nacionales: Para realizar una llamada de larga distancia dentro del territorio nacional se debe marcar los dígitos "012X".
 
 Según el valor de "X" marcado se debe accesar a:
 
@@ -300,7 +324,7 @@ En caso que el período de negociación conducente a la celebración del contrat
 
 El portador que solicita interconexión debe acceder al punto de interconexión a través de medios físicos, ya sea propios o de terceros.
 
-## Capítulo VI
+CAPITULO VI {ARTS. 38-41}
 
 Del Sistema de Multiportador Contratado
 
@@ -308,9 +332,9 @@ Del Sistema de Multiportador Contratado
 
 La compañía telefónica debe ofrecer, dar y proporcionar a todos los portadores, en igualdad de condiciones económicas, comerciales, técnicas y de información, las facilidades que sean necesarias para establecer y operar el sistema de multiportador contratado.
 
-La compañía telefónica debe poner en servicio las facilidades referidas dentro de un plazo máximo de treinta días hábiles, contado desde la fecha de recepción de la respectiva solicitud del portador.
+De acuerdo a lo dispuesto en el inciso segundo del artículo 4°, las concesionarias de servicio público telefónico móvil no están obligadas a habilitar las facilidades del inciso anterior para el servicio telefónico de larga distancia nacional.
 
-> **Nota.** La letra ñ) del Artículo Único del Decreto 44, Transportes, publicado el 08.03.2014, elimina el inciso segundo de la presente norma.
+La compañía telefónica debe poner en servicio las facilidades referidas dentro de un plazo máximo de treinta días hábiles, contado desde la fecha de recepción de la respectiva solicitud del portador.
 
 #### Artículo 39º
 
@@ -436,7 +460,7 @@ factura.
 
 a.5) Fecha de celebración del contrato de
 
-suministro del servicio telefónico.
+suministro del servicio telefónico local.
 
 a.6) Indicación de suscriptor con
 
@@ -446,11 +470,15 @@ a.7) Indicación de suscriptor moroso por más de
 
 treinta días.
 
-a.8) ELIMINADO.
+a.8) Minutos mensuales de larga distancia nacional
+
+generados, sin desglose por portador.
 
 a.9) Minutos mensuales de larga distancia
 
-generados, sin desglose por portador.
+internacional generados, sin desglose por
+
+portador.
 
 b) Información detallada por línea de teléfono público:
 
@@ -474,23 +502,39 @@ treinta días.
 
 b.7) Número de abonado.
 
-b.8) ELIMINADO.
-
-b.9) Minutos mensuales de larga distancia
+b.8) Minutos mensuales de larga distancia nacional
 
 generados, sin desglose por portador.
 
-e) Información detallada de minutos y cantidad de
+b.9) Minutos mensuales de larga distancia
 
-llamadas mensuales de larga distancia salientes,
+internacional generados, sin desglose por
+
+portador.
+
+c) Información detallada por zona primaria, diferenciada según horarios tarifarios definidos para los accesos:
+
+c.1) Minutos y cantidad de llamadas mensuales de
+
+larga distancia nacional salientes,
 
 desglosados por portador.
+
+c.2) Minutos y cantidad de llamadas mensuales de
+
+larga distancia internacional salientes,
+
+desglosados por portador.
+
+c.3) Minutos y cantidad de llamadas mensuales de
+
+larga distancia nacional salientes,
+
+desglosados por zona primaria de destino.
 
 > **Nota.** La RES 355, Exenta, Transportes, publicada el 27.03.1995, interpreta el correcto sentido y alcance del presente artículo, disponiendo que la información sobre suscriptores a que se refiere incluye todos los antecedentes necesarios e imprescindibles para individualizar a los suscriptores del servicio telefónico con el objeto que los portadores puedan estar en condiciones de efectuar la cobranza por el servicio telefónico de larga distancia, nacional e internacional. En consecuencia, la celebración de convenios de no publicar ni informar no obsta, bajo ningún respecto, para que la concesionaria de servicio público telefónico se abstenga de proporcionar la individualización de sus suscriptores, amparándose en la existencia de contratos, toda vez que éstos deben adecuarse a la legislación y reglamentación que regula el suministro del servicio telefónico. La concesionaria de servicio público telefónico sólo podrá abstenerse de proporcionar la individualización de aquellos suscriptores que le hayan solicitado, expresamente, la suspensión del servicio telefónico de larga distancia nacional e internacional.
 
 > **Nota.** NOTA 1 La Resolución 5849, Exenta, Transportes, publicada el 27.10.2011, interpreta el correcto sentido y alcance del presente artículo, disponiendo que la información sobre suscriptores a que se refiere la señalada disposición reglamentaria incluye todos los antecedentes necesarios e imprescindibles para individualizar a los suscriptores del servicio telefónico, con el objeto que los portadores puedan estar en condiciones de ejercer su derecho a cobrar por el uso del servicio telefónico de larga distancia, nacional e internacional, de acuerdo a las habilitaciones que cada suscriptor haya realizado para su línea según lo dispuesto en los artículos 29º y 30º del Reglamento de Servicio Público Telefónico.
-
-> **Nota.** NOTA 2 El numeral 6 de la letra t) del Artículo Único del Decreto 44, Transportes, publicado el 08.03.2014, ordena sustituir el literal c), c.1), c.2) y c.3), por el literal e), como aparece en el presente texto actualizado.
 
 #### Artículo 48°
 
