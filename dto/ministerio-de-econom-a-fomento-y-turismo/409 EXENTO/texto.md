@@ -30,7 +30,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Tarap
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Antofagasta.
 
-4.- Tipo de Vehículo: Camioneta; Marca: Chevrolet; Modelo: Luv D-Max CC 3.0D WT HR; Nº de Motor: 578281; Nº Chassis: 8GGTFRK 878A168457; Color: Blanco; Año: 2008; Placa Única: BLJG.85-4.
+4.- Tipo de Vehiculo: Camioneta; Marca: Chevrolet; Modelo: D-MAX E4 DCAB 4 WD 2.5; Nº Motor: LA7645; Nº de Chasis: MPATFS86HET000755, Color: Blanco; Año 2014; Placa Única: FYHF54-9.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Atacama.
 
@@ -46,7 +46,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Valpa
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región del Libertador General Bernardo O'Higgins.
 
-8.- Tipo de Vehículo: Camioneta; Marca: Chevrolet; Modelo: Luv D-Max CC 3.0D WT HR; Nº Motor: 578273; Nº Chassis: 8GGTFRK 808A168459; Color: Blanco; Año: 2008; Placa Única: BISX.41-3.
+8.- Tipo de Vehículo: Station Wagon; Marca: Suzuki; Modelo: Grand Nomade 2.4 AT GLX Sport; Nº Motor: J24B-1248477; Nº de Chasis: JS3TD04V1E4103226; Color: Gris oscuro; Año 2014; Placa Única: GDGJ16-0.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región del Maule.
 
