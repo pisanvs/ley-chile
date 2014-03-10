@@ -34,17 +34,27 @@ Arica y Parinacota).
 
 b) Región de Atacama
 
-1.- María Carolina Vilches Guiggiana (Seremi de
+1.- Pedro Lagos Charme, Secretario Regional
 
-Justicia, Región de Atacama).
+Ministerial del Medio Ambiente, Cédula
 
-2.- Sofía Cid Versalovic (Seremi de Economía,
+Nacional de Identidad Nº 15.315.826-6.
 
-Región de Atacama).
+2.- Lina Arrieta Herrera, Jefa Unidad
 
-3.- Mauricio Pino Cid (Seremi de Minería,
+Regional de la Subsecretaría de
 
-Región de Atacama).
+Desarrollo Regional y Administrativo,
+
+Cédula Nacional de Identidad Nº
+
+6.895.490-8.
+
+3.- Mauricio Pino Cid, Secretario Regional
+
+Ministerial de Minería, Cédula Nacional
+
+de Identidad Nº 10.729.435-5.
 
 c) Región de Coquimbo:
 
