@@ -62,6 +62,10 @@ señalarse, y encontradas libres
 
 de Barley Stripe Mosaic Virus.
 
+Bituminaria Sin declaraciones adicionales.
+
+bituminosa
+
 Brassica oleracea Sin declaraciones adicionales
 
 var. AcephaIa
@@ -85,6 +89,10 @@ tratamiento de fumigación contra
 insectos de la familia
 
 Bruchidae.
+
+Cullen Sin declaraciones adicionales.
+
+australasicum
 
 Cynodon dactylon Sin declaraciones adicionales
 
@@ -117,6 +125,10 @@ Tiabendazol, Carboxin + Thiram,
 u otros debidamente calificados.
 
 Dichondra repens Sin declaraciones adicionales.
+
+Dorycnium Sin declaraciones adicionales.
+
+hirsutum
 
 Fagopyron spp. Sin declaraciones adicionales.
 
@@ -163,6 +175,8 @@ en forma alternativa: Carboxin,
 Tiabendazol, Carboxin + Thiram,
 
 u otros debidamente calificados.
+
+Hedysarum coronarium Sin declaraciones adicionales.
 
 Holcus lanatus Sin declaraciones adicionales.
 
