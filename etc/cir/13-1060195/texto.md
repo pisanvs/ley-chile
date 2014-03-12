@@ -1,0 +1,7 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY Nº 20.630, DE 2012, A LOS ARTÍCULOS 15, 17 Nº 8, 31 Nº 9, Y 41 DE LA LEY SOBRE IMPUESTO A LA RENTA, Y LA MODIFICACIÓN INTRODUCIDA POR EL Nº 1 DEL ARTÍCULO 5º DE LA LEY Nº 20.727, AL INCISO 2º DEL Nº 8 DEL ARTÍCULO 17 DE LA MISMA LEY
+
+Extracto de circular del Servicio de Impuestos Internos Nº 13, de fecha 7 de marzo de 2014, la cual tiene por objeto instruir sobre las modificaciones incorporadas por la ley Nº 20.630, de 2012, a los artículos 15, 17 Nº 8, 31 Nº 9, y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el Nº 1 del artículo 5º de la ley Nº 20.727, al inciso 2º del Nº 8 del artículo 17 de la misma ley.
+
+De conformidad con lo dispuesto en el artículo 8º de la ley Nº 20.630, las modificaciones introducidas a la Ley sobre Impuesto a la Renta, que han sido objeto de análisis en la referida circular, rigen a partir del día primero de enero de 2013. Por tanto, las instrucciones contenidas en esta circular rigen a contar de su publicación en extracto en el Diario Oficial, respecto de las operaciones realizadas a contar de la fecha de vigencia de tales modificaciones legales.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en marzo de 2014.
