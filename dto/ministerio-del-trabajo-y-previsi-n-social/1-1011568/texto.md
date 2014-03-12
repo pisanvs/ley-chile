@@ -14,21 +14,31 @@ Decreto:
 
 1.- El Programa Inversión en la Comunidad tiene como objetivo el financiamiento de obras en el ámbito local, mediante proyectos intensivos en el uso de mano de obra, contratada al efecto y que presenten un claro beneficio comunitario.
 
-2.- La asignación de recursos del Programa Inversión en la Comunidad, en adelante el "Programa", se orientará a beneficiarios y beneficiarias que:
+2.- La asignación de recursos del Programa Inversión en la Comunidad, en adelante el "Programa", se orientará a beneficiarios y beneficiarias que cumplan con los siguientes requisitos:
 
-- **a)** tengan entre 18 y 65 años;
+a) Ser mayor de 18 años;
 
-- **b)** sean trabajadores desempleados;
+b) Ser trabajador desempleado;
 
-- **c)** vivan preferentemente en regiones o comunas que presenten tasas de desocupación superiores al promedio de desempleo nacional;
+c) Vivir preferentemente en regiones o comunas que presenten tasas de desocupación superiores al promedio de desempleo nacional;
 
-- **d)** presenten certificado vigente de la Ficha de Protección Social o del instrumento de focalización que la reemplace;
+d) Presentar certificado vigente de la Ficha de Protección Social o del instrumento de focalización que la reemplace;
 
-- **e)** presenten certificado de afiliación vigente, emitido por la Superintendencia de Pensiones y/o certificado de cotizaciones previsionales vigente emitido por alguna administradora de fondos de pensión, y
+e) Presentar certificado de afiliación vigente, emitido por la Superintendencia de Pensiones y/o certificado de cotizaciones previsionales vigente emitido por alguna administradora de fondos de pensión, y
 
-- **f)** inscripción vigente en la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la Municipalidad cumplan funciones similares cuando en la misma no exista la anterior.
+f) Contar con inscripción vigente en la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la Municipalidad cumplan funciones similares cuando en la misma no exista lo anterior.
 
-No podrán acceder a este programa quienes perciban ingresos por concepto de una o más pensiones, cualquiera que sea su naturaleza, cuyos montos sean superiores al cincuenta por ciento del ingreso mínimo mensual.
+No podrán acceder a este programa quienes perciban ingresos por concepto de una o más pensiones, cualquiera que sea su naturaleza, cuyo monto total sea superior a un ingreso mínimo mensual.
+
+El plazo máximo de permanencia en el Programa será el siguiente:
+
+a) Para los beneficiarios que a la fecha de su ingreso al Programa tengan entre 18 y 50 años de edad: máximo 18 meses de permanencia.
+
+b) Para los beneficiarios que a la fecha de su ingreso al Programa tengan 51 o más años de edad: máximo 30 meses de permanencia.
+
+Los plazos máximos antes mencionados se contabilizarán de manera corrida, a partir del acceso del beneficiario al programa.
+
+Podrán prorrogarse por igual periodo y por una sola vez, los plazos mencionados precedentemente, a través de resolución fundada debidamente tramitada del Subsecretario del Trabajo.
 
 3.- El programa considera los siguientes componentes o líneas de acción:
 
