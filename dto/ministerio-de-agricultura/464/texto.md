@@ -814,9 +814,9 @@ e) Los requisitos indicados en las letras precedentes deberán ser verificados p
 
 #### Artículo 10 ter
 
-Los envases en que se expenda vino de mesa deberán contener en la etiqueta principal la expresión ''Vino de Mesa'', con caracteres no inferiores al 4% de la altura total de la etiqueta, los que en ningún caso podrán tener una altura inferior a 10 milímetros.
+Los envases en que se expenda vino de mesa deberán contener en la etiqueta principal, en forma visible y perfectamente identificable por el consumidor con colores contrastantes que no dificulten su lectura, la expresión "Vino de mesa", con caracteres no inferiores al 4% de la altura total de la etiqueta, los que en ningún caso podrán tener una altura inferior a 10 milímetros.
 
-Los caracteres tipográficos que se empleen para indicar la dirección o el nombre de la ciudad o localidad en donde se envasó el producto no deberán ser de un tamaño mayor que la mitad del utilizado para señalar que se trata de ''vino de mesa''. Las demás menciones que se contengan en las etiquetas se ceñirán a las normas generales establecidas por la legislación vigente.
+Los envases en que se expenda vino de mesa deberán indicar la dirección o el nombre de la ciudad o localidad en donde se envasó el producto, así como la mención: "Vino obtenido de uva de mesa", empleando caracteres tipográficos que no deberán ser de un tamaño mayor que la mitad del utilizado para señalar que se trata de vino de mesa. Las demás menciones que se contengan en las etiquetas se ceñirán a las normas generales establecidas por la legislación vigente
 
 Los vinos de mesa sólo podrán expresar en su rotulación la marca comercial y recomendaciones a los consumidores, y no podrán contener menciones de cepaje, de calidad, ni año de cosecha.
 
@@ -876,7 +876,7 @@ c) Copia de los contratos de compra de uva.
 
 d) Declaración de existencia, con indicación de Rol Unico Tributario, origen y cepaje. Esta declaración deberá ser coincidente con la que se presenta al Servicio Agrícola y Ganadero.
 
-Toda la documentación anterior deberá estar registrada en un libro o computacionalmente.
+Toda la documentación anterior deberá estar registrada en un libro y computacionalmente, utilizando para ello el software de certificación y registro dispuesto por el Servicio Agrícola y Ganadero, a fin de llevar los inventarios de vinos en las bodegas sujetas a su certificación
 
 La documentación de respaldo deberá mantenerse permanentemente en el establecimiento y estará siempre a disposición de la empresa certificadora autorizada.
 
