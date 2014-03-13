@@ -46,7 +46,7 @@ d) Sustituir el Resuelvo 13. por el siguiente:
 
 "El número máximo de inmuebles que podrán ser seleccionados en este llamado por cada región son los siguientes:
 
-2. Otórguense hasta 1.094.428 Unidades de Fomento para la asignación de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, que permitan a las familias de los conjuntos emplazados en zonas prioritarias y seleccionados por el Programa de Recuperación de Condominios Sociales: Segunda Oportunidad financiar su erradicación transitoria, facilitar la entrega de los inmuebles libres de ocupantes y evitar su ocupación por terceros.
+2. Otórguense hasta 664.416 Unidades de Fomento para la asignación de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, que permitan a las familias de los conjuntos emplazados en zonas prioritarias y seleccionados por el Programa de Recuperación de Condominios Sociales Segunda Oportunidad iniciar el proceso de financiamiento de su erradicación transitoria, facilitar la entrega de los inmuebles libres de ocupantes y evitar su ocupación por terceros.
 
 3. Se podrán asignar subsidios para efectuar operaciones de adquisición de vivienda construida por un monto de hasta 700 Unidades de Fomento para personas que formen parte del Programa de Recuperación de Condominios Sociales: Segunda Oportunidad, en las regiones de Valparaíso, L.B. O'Higgins y Metropolitana.
 

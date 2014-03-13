@@ -68,7 +68,7 @@ Los antecedentes deberán ser ingresados por el delegado de la UMP en la Oficina
 
 Una vez ingresados los antecedentes, el Serviu dispondrá hasta el día 28 de enero de 2014 para realizar la evaluación y verificar el cumplimiento de los requisitos del Programa. Durante ese plazo el Serviu podrá, en un sólo acto y mediante documento suscrito por su Director, realizar observaciones al delegado de la UMP, quien dispondrá hasta el día 14 de febrero de 2014 para subsanar dichas observaciones.
 
-Se informará el resultado de las preselecciones de UMP por el Serviu a más tardar el día 26 de febrero de 2014, a través de resolución de preselección emitida por el Serviu respectivo.
+Se informará el resultado de las preselecciones de UMP por el Serviu a más tardar el día 27 de febrero de 2014 a través de resolución de preselección emitida por el Serviu respectivo.
 
 ### 6. Criterios de evaluación
 
