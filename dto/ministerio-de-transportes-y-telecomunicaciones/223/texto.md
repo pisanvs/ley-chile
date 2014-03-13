@@ -36,7 +36,7 @@ b) Una Secretaría Ejecutiva, que será el organismo asesor técnico del Comité
 
 #### Artículo quinto
 
-El Comité estará integrado por el Ministro del Interior, el Ministro de Educación, el Ministro de Justicia, el Ministro de Obras Públicas, el Ministro de Salud, el Ministro de Vivienda y Urbanismo, el Ministro de Transportes y Telecomunicaciones, el Ministro Secretario General de Gobierno, el Ministro Secretario General de la Presidencia y el General Director de Carabineros. El Comité será presidido por el Ministro de Transportes y Telecomunicaciones.
+El Comité estará integrado por el Ministro del Interior y Seguridad Pública, el Ministro de Educación, el Ministro de Justicia, el Ministro de Obras Públicas, el Ministro de Salud, el Ministro de Vivienda y Urbanismo, el Ministro de Transportes y Telecomunicaciones, el Ministro del Trabajo y Previsión Social, el Ministro Secretario General de Gobierno, el Ministro Secretario General de la Presidencia y el General Director de Carabineros. El Comité será presidido por el Ministro de Transportes y Telecomunicaciones.
 
 En caso de ausencia o impedimento de algún Ministro de Estado, será reemplazado por el Subsecretario de la Cartera correspondiente. Para estos mismos efectos el General Director de Carabineros designará un reemplazante. En todo caso, la presidencia la ejercerá un Ministro titular en el orden establecido en el inciso precedente, y sólo a falta de titulares, presidirá el reemplazante que corresponda siguiendo el mismo orden.
 
@@ -50,7 +50,7 @@ Los Ministros y Autoridades integrantes del Comité deberán prestar su colabora
 
 Las funciones de la Comisión serán:
 
-a) Proponer planes, proyectos y programas que tiendan a enfrentar el problema de seguridad de tránsito, aprovechando las capacidades Ministeriales y de Carabineros de Chile.
+a) Proponer planes, proyectos y programas que tiendan a enfrentar el problema de seguridad de tránsito, aprovechando las capacidades Ministeriales y de Carabineros de Chile y sugerir medidas para la implementación de aquellos planes, proyectos y programas que acuerde el Comité de Ministros.
 
 b) Realizar los estudios necesarios para la formulación de políticas, planes y programas. En particular, deberá formular y sugerir la utilización de metodologías comunes a nivel nacional para la realización de estudios de seguridad de tránsito.
 
@@ -70,9 +70,21 @@ i) Proponer el programa anual de trabajo y el proyecto de presupuesto de la Comi
 
 j) Informar anualmente al Presidente de la República de los resultados de la Comisión y de la evolución de la situación en el país.
 
+k) Recomendar planes comunicacionales en materia de prevención de accidentes de tránsito y sus consecuencias;
+
+l) Difundir los planes de educación sobre seguridad de tránsito;
+
+m) Analizar y proponer la metodología para la integración de la información de accidentes de tránsito proporcionadas por las distintas instituciones del país;
+
 #### Artículo octavo
 
 La Secretaría Ejecutiva estará radicada administrativamente en el Ministerio de Transportes y Telecomunicaciones y funcionará con recursos que con tal propósito serán asignados al presupuesto de dicho Ministerio.
+
+#### Artículo noveno
+
+En cada capital de Región se constituirá una Comisión Regional de Seguridad de Tránsito a la que le corresponderá apoyar las funciones de la Comisión Nacional de Seguridad de Tránsito, proveyendo de información semestral sobre los resultados, en su respectiva región de los planes, proyectos o programas aplicados. Al efecto, podrán proponer a la Comisión Nacional de Seguridad de Tránsito, las acciones o medidas que estimen indispensables para disminuir la accidentabilidad de tránsito y sus consecuencias.
+
+La Comisión Regional de Seguridad de Tránsito estará integrada por los Secretarios Regionales Ministeriales de las Secretarías de Estado que formen parte de la Comisión Nacional, que cuenten con Secretarías Regionales Ministeriales y por Carabineros de Chile. Siendo presidida por el Secretario Regional Ministerial de Transportes y Telecomunicaciones.
 
 Tómese razón, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.- Enrique Krauss Rusque, Ministro del Interior.- Patricio Rojas Saavedra, Ministro de Defensa Nacional.- Jorge Arrate Mac-Niven, Ministro de Educación.- Francisco Cumplido Cereceda, Ministro de Justicia.- Carlos Hurtado Ruiz-Tagle, Ministro de Obras Públicas.- Julio Montt Momberg, Ministro de Salud.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.- Enrique Correa Ríos, Ministro Secretario General de Gobierno.- Edgardo Boeninger Kausel, Ministro Secretario General de la Presidencia.
 
