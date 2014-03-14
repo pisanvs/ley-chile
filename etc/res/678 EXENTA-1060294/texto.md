@@ -1,0 +1,3 @@
+Por resolución exenta Nº 678, de 25 de febrero de 2014, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 312 de 1987, Nº 444 de 1993, Nº 894 de 2001, Nº 1.205 y 1.206, ambas de 2001, Nº 2.640 de 2002 y Nº 1.947 de 2003, que autorizaron a MARÍA ANA MOROZIN BAYCIC para ampliar actividades pesqueras extractivas con la nave "Samoa", en virtud de la carta C.I. Subpesca Nº 14796, de 2013, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
