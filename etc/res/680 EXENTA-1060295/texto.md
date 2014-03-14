@@ -1,0 +1,3 @@
+Por resolución exenta Nº 680, de 25 de febrero de 2014, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 287 de 1983, Nº 460 de 1987, Nº 154 de 1994, Nº 1.764 de 1996, Nº 896, Nº 1.207, ambas de 2001, Nº 1.810 de 2002, Nº 565 y Nº 1.954, ambas de 2003, que autorizaron a MARÍA BAYCIC BAYCIC para ampliar actividades pesqueras extractivas con la nave "Ulises 2", en virtud de la carta C.I. Subpesca Nº 15355, de 2013, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
