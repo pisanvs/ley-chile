@@ -14,8 +14,6 @@ Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 del decreto Nº 100, de 2005
 
 Decreto:
 
-> **Nota.** El Artículo 5 del Decreto 1264 Exento, Educación, publicado el 10.11.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas al plan de estudio para 1º y 2º año de Educación Media.
-
 #### Artículo 1º
 
 Apruébase el siguiente plan de estudios para el 1º y 2º año de educación media para aquellos establecimientos reconocidos oficialmente por el Ministerio de educación, que no se encuentran adscritos al Régimen de Jornada Escolar Completa diurna:
@@ -52,7 +50,9 @@ Declárase "oficial" la edición del Ministerio de Educación de los programas d
 
 #### Artículo 5º
 
-Los planes de estudios deberán ser implementados a partir del año escolar 2017 para el 1º año de educación media, y a partir del año escolar 2018 para el 2º año de educación media.
+Los planes de estudios deberán ser implementados a partir del año escolar 2016 para el 1º año de educación media, y a partir del año escolar 2017 para el 2º año de educación media.
+
+Los programas de estudio que comenzaron a regir a partir del año escolar 2011 para 1º año de educación media, y a partir del año escolar 2012 para 2º año de educación media, seguirán vigentes, con excepción de las asignaturas mencionadas en el artículo 3º.
 
 #### Artículo 6º
 
