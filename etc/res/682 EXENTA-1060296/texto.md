@@ -1,0 +1,3 @@
+Por resolución exenta Nº 682, de 25 de febrero de 2014, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 293 de 1987, Nº 518 de 1993, Nº 301 de 2001, Nº 2.067, Nº 2.069 y Nº 3.324, todas de 2003 y Nº 898 de 2010, que autorizaron a MARIO MOROZIN YURESIC para ampliar actividades pesqueras extractivas con la nave "Cucaña", en virtud de la carta C.I. Subpesca Nº 15354, de 2013, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
