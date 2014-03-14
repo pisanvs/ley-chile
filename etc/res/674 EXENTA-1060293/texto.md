@@ -1,0 +1,3 @@
+Por resolución exenta Nº 674, de 25 de febrero de 2014, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 330 de 1982, Nº 460 de 1987, Nº 153 de 1994, Nº 371 de 1998, Nº 297 de 2001, Nº 1.811 y Nº 2.949, ambas de 2002, Nº 2.050 y Nº 2.051 ambas de 2003, Nº 1.606 de 2010 y Nº 2.931 de 2012, que autorizaron a MARÍA BAYCIC BAYCIC para ampliar actividades pesqueras extractivas con la nave "Don Mario", en virtud de la carta C.I. Subpesca Nº 15.353, de 2013, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de febrero de 2014.- Maximiliano Alarma Carrasco, Subsecretario de Pesca y Acuicultura (S).
