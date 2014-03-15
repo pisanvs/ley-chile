@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 743, 5 de marzo de 2014, Serviu Región del Biobío ordenó expropiación parcial de terreno del inmueble ubicado en Tolpan Sur (Lote 4), Rol de avalúo Nº1534-00019 de la comuna de Los Ángeles de aparente dominio de Pérez Arriagada José. La parte afecta a expropiación tiene una superficie de 1.175,36 m². de terreno y 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares del lote 4 se encuentran enmarcados en el polígono A-B-C-D-E-A del plano S8R-28.072-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecta Carolina Andrea Contreras Tapia, el arquitecto Juan Felipe King Domínguez y el ingeniero civil Orlando Javier Paredes Vásquez que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $25.425.388, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $765.196, lo que dan la cifra de $26.190.584.
+
+Director Serviu Región del Biobío.
