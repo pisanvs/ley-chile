@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 744, 5 de marzo de 2014, Serviu Región del Biobío ordenó expropiación parcial de terreno del inmueble ubicado Río Coreo 010 (Lote 15) Rol de avalúo Nº00603-00089 de la comuna de Los Ángeles de aparente dominio de Lara Canales Luis Víctor Hernán. La parte afecta a expropiación tiene una superficie de 6,90 m². de terreno y 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares del Lote 15 se encuentran enmarcados en el polígono A-B-C-D-E-F-A del plano S8R-28.082-1, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por la arquitecta Carolina Andrea Contreras Tapia, el arquitecto Juan Felipe King Domínguez y el ingeniero civil Orlando Javier Paredes Vásquez que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $2.004.512, más la suma por concepto de reajustes del artículo 5º del DL 2.186 de 1978 de $60.327, lo que dan la cifra de $2.064.839.
+
+Director Serviu Región del Biobío.
