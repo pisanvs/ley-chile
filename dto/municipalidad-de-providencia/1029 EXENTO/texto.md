@@ -22,7 +22,7 @@ La presente ordenanza regulará la construcción, mantención y aseo de las áre
 
 #### Artículo 2º
 
-Todos los árboles y especies vegetales que se encuentran en la vía pública, se considerarán de propiedad municipal para los efectos de la presente ordenanza.
+Todos los árboles y especies vegetales que se encuentren en la vía pública tendrán la calidad de bienes nacionales de uso público.
 
 #### Artículo 3º
 
@@ -58,19 +58,13 @@ Vegetales en la Vía Pública
 
 Los vecinos tendrán las siguientes obligaciones en relación al ornato:
 
-a) Cuidar y regar integralmente (raíces y follaje) y mantener en buenas condiciones los árboles y especies vegetales que están plantados o que se planten en el futuro, frente a sus propiedades.
+a) Mantener limpios los veredones y los cursos de aguas de riego que enfrentan al inmueble en que viven o que atraviesan por ellos.
 
-Para ello podrán solicitar asesoría preventiva a la Dirección de Aseo y Ornato.
+b) Cuidar de la mantención de todas las áreas verdes públicas (plazas, parques y veredones).
 
-b) Mantener limpios los veredones y los cursos de aguas de riego que enfrentan al inmueble en que viven o que atraviesan por ellos.
+c) Retirar por sus propios medios los residuos provenientes de jardines o árboles particulares, cuando por su cantidad no corresponda al Municipio, y hacerlos llevar a los lugares dispuestos para ello.
 
-c) Cuidar de la mantención de todas las áreas verdes públicas (plazas, parques y veredones).
-
-d) Retirar por sus propios medios los residuos provenientes de jardines o árboles particulares, cuando por su cantidad no corresponda al Municipio, y hacerlos llevar a los lugares dispuestos para ello.
-
-e) Instalar o colocar cualquier elemento que entorpezca el paso peatonal en los bandejones centrales y veredones que enfrentan las propiedades y que constituyen bienes nacionales de uso público.
-
-f) Cuidar que el crecimiento de la vegetación plantada en el interior de la propiedad como cerco vegetal, no presente peligro para los peatones (vegetación con espinas).
+d) Cuidar que el crecimiento de la vegetación plantada en el interior de la propiedad como cerco vegetal, no presente peligro para los peatones (vegetación con espinas).
 
 #### Artículo 5º
 
@@ -163,6 +157,8 @@ De los Veredones
 Los veredones deberán mantenerse raspados libres de maleza y limpios, aun cuando no existan prados en ellos, por los ocupantes de los edificios que los enfrentan.
 
 Cuando se trate de veredones, su mantención (limpieza y raspado) corresponderá al o los vecinos que los enfrentan, sin perjuicio de la colaboración municipal a petición de los vecinos.
+
+Queda prohibido instalar o colocar cualquier elemento que entorpezca el paso peatonal en los bandejones centrales y veredones que enfrentan las propiedades y que constituyen bienes nacionales de uso público.
 
 #### Artículo 18º
 
