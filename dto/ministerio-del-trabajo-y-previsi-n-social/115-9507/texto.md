@@ -56,7 +56,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 6. A la persona que acredite haber efectuado los gastos del funeral.
 
-d) Subsidio por ayuda escolar: Se entregará una ayuda escolar anual a los afiliados, cónyuge y/o hijos de afiliados que realicen estudios básicos, medios, universitarios y técnico profesional en establecimientos reconocidos por el Ministerio de Educación.
+d) Subsidio por ayuda escolar: Se entregará una ayuda escolar anual a los afiliados y causantes de asignación familiar reconocidos por éstos, que cursen los niveles pre escolar de pre kinder y kinder, estudios básicos, medios, universitarios y técnico profesional en establecimientos reconocidos por el Ministerio de Educación.
 
 #### Artículo 4°
 
@@ -68,11 +68,13 @@ b) Bono de alimentación: El Servicio de Bienestar podrá otorgar bonos de alime
 
 c) Aporte especial: El Consejo Administrativo podrá conceder aportes especiales, por acuerdo de los dos tercios de sus miembros en casos calificados por el Consejo Administrativo o por quién éste designe tales como enfermedades graves, tratamientos y medicamentos de alto costo, prótesis, accidentes, incendios, sismos y otros de extrema necesidad, presentados por el Jefe de Bienestar.
 
+d) De Desgravamen: Al fallecimiento de un afiliado al Bienestar, se entenderán condonadas automáticamente las deudas derivadas de préstamos personales y préstamos habitacionales que haya adquirido directamente con el Bienestar.
+
 Los beneficios del presente artículo serán compatibles entre sí.
 
 PARRAFO TERCERO {ARTS. 5-12}
 
-De los Préstamos
+De los préstamos y otros Beneficios
 
 #### Artículo 5°
 
@@ -130,19 +132,27 @@ El Consejo Administrativo fijará el porcentaje del presupuesto que deberá dest
 
 El Servicio de Bienestar podrá poseer y/o administrar colonias, refugios, casas de huéspedes, casinos, jardines infantiles, policlínicos, postas dentales u otras instalaciones que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá a la Superintendencia de Quiebras.
 
+#### Artículo 12º bis
+
+El Servicio de Bienestar estará facultado para celebrar, a través de la autoridad superior de la Superintendencia de Quiebras, convenios con otros Servicios de Bienestar u otras entidades que otorguen prestaciones de bienestar social u otras de seguridad social, tendientes a utilizar los centros recreativos o vacacionales que cualquiera de ellos posea o administre, ya sea mediante el intercambio de cupos para acceder a ellos, a través del arrendamiento de las instalaciones o mediante convenios de prestación de servicios, que favorezcan directamente a sus beneficiarios.
+
+Asimismo, podrá celebrar, a través de la autoridad superior de la Superintendencia de Quiebras, convenios con empresas, destinados a obtener ventas al contado o a crédito de toda clase de bienes, mercaderías o servicios para satisfacer las necesidades de sus afiliados o con profesionales e instituciones del área de la salud y otras entidades, con el propósito de mejorar el nivel de atención y servicios que entreguen a sus afiliados, utilizando los procedimientos establecidos en la legislación vigente. Dichos convenios también podrán suscribirse con Servicios de Bienestar de otras instituciones públicas.
+
 ## Título III — {ARTS. 13-15}
 
 De la Administración
 
-#### Artículo 13°
+#### Artículo 13º
 
 El Servicio de Bienestar será administrado por un Consejo Administrativo, integrado por los siguientes miembros:
 
-a) El Fiscal Nacional de Quiebras o la persona que éste designe, quien lo presidirá;
+a) El Superintendente o la persona que este designe de acuerdo al artículo 18º del decreto Nº 28, quien lo presidirá;
 
 b) El Jefe de Personal o quien haga sus veces;
 
-c) El Abogado Jefe del Departamento Jurídico, y d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso 3° del Artículo 18° del Reglamento General.
+c) Un abogado del Departamento Jurídico;
+
+d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso 3º del artículo 18º del Reglamento General.
 
 #### Artículo 14°
 
@@ -180,7 +190,9 @@ f) Con las comisiones percibidas en virtud de los convenios celebrados por el Se
 
 g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor, y
 
-h) Con los demás bienes o recursos que obtenga por cualquier título.
+h) Con las cuotas o aportes extraordinarios de los afiliados, acordada por unanimidad de los miembros del Consejo Administrativo.
+
+i) Con los demás bienes o recursos que obtenga por cualquier título.
 
 #### Artículo 17°
 
@@ -194,9 +206,11 @@ Disposiciones Generales
 
 Para tener derecho a los beneficios que otorga el presente Reglamento, se requiere un plazo mínimo de seis meses de afiliación. No obstante lo anterior, las prestaciones de orden médico se otorgarán desde el primer día de afiliación. El otorgamiento de Préstamos Personales y Habitacionales tendrá como requisito un período de afiliación de un año.
 
-#### Artículo 19°
+Corresponderá al Consejo Administrativo determinar los documentos que deberán presentar los afiliados y los procedimientos a seguir para la obtención de cualquier beneficio establecido en este Reglamento.
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de cualquier índole, no podrán en ningún caso exceder del 40% de su remuneración imponible para pensiones o de su pensión, según corresponda.
+#### Artículo 19º
+
+Las sumas o porcentajes que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de cualquier índole deberán ajustarse al límite establecido en el artículo 96 del DFL Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
 
 #### Artículo 20°
 
