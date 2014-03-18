@@ -1,0 +1,5 @@
+ACREDITA A "C.E.A. SIGLO XXI LIMITADA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 46, de 31 de enero de 2014, y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a C.E.A. Siglo XXI Limitada, RUT Nº 76.321.847-3, como Centro de Evaluación y Certificación de Competencias Laborales, en el sector Turismo, Subsector Gastronomía, en los perfiles ocupacionales de Manipulador de Alimentos y Operador de Servicios de Alimentación. La acreditación se otorga por un plazo de tres años contados desde el 31 de enero de 2014, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
