@@ -1,0 +1,5 @@
+Por decreto alcaldicio Nº 3.354/2014, de fecha 20.02.2014, de la Municipalidad de Los Álamos, se aprobó ordenanza de extracción de áridos en la comuna de Los Álamos.
+
+El objetivo de ella es la regulación y aplicación de la presente ordenanza a todo el territorio comunal, específicamente a las personas naturales o jurídicas que extraigan áridos, arena, ripio, maicillo, arcilla u otros materiales, en o desde pozos de ripio, de banco y de lecho de río, sean de propiedad particular, fiscal o bienes nacionales de uso público, los procesen, los comercialicen o los transporten, ya sea por cuenta propia o ajena. Los detalles de la presente ordenanza se encuentran disponibles en el Departamento de Obras de la Municipalidad de Los Álamos, donde se podrá obtener toda la información que se requiera.
+
+Anótese, comuníquese, publíquese y archívese.- Jorge Marcel Fuentes Fetis, Alcalde.- María Angélica Ulloa Saravia, Secretario Municipal.
