@@ -50,9 +50,9 @@ Requisitos para acreditar la representación del productor, agroindustrial e int
 
 #### Artículo 3º
 
-Para efectos de lo establecido en el artículo 6º de la ley, se dejará constancia de la representación del productor emisor de la guía de despacho, factura o de cualquier otro documento similar que el Servicio de Impuestos Internos acepte para el transporte de carga, mediante declaración simple de su representante puesta en dicho instrumento.
+Para efectos de lo establecido en el artículo 6º de la ley, se dejará constancia de la representación del productor emisor de la Guía de Despacho o Factura mediante declaración simple del transportista puesta en dicho instrumento.
 
-Para los mismos efectos, la representación de los agroindustriales o intermediarios se acreditará mediante contrato de trabajo de los trabajadores dependientes siempre que contenga en las funciones del trabajador la de representar a su empleador para los efectos de suscribir la guía de recepción. Asimismo, podrá acreditarse su representación mediante mandato que contenga expresamente la facultad de representar a los mandantes para suscribir la guía de recepción otorgada por poder simple, en aquellos casos en que el representante sea trabajador dependiente del agroindustrial o intermediario y dicha facultad no se encuentre expresamente contenida en su contrato de trabajo; o por medio de escritura pública y/o instrumento privado autorizado ante Notario Público u Oficial del Registro Civil en aquellas comunas en que no hubiese Notario Público, cuando el representante no revista dicha calidad.
+Para los mismos efectos, la representación de los agroindustriales o intermediarios se acreditará mediante mandato que contenga expresamente la facultad de representar a los mandantes para suscribir la Guía de Recepción, otorgada por escritura pública y/o instrumento privado autorizado ante Notario Público u Oficial del Registro Civil en aquellas comunas en que no hubiese Notario Público.
 
 ## Título III
 
@@ -64,7 +64,7 @@ El Servicio llevará los Registros de Laboratorios de Ensayo, de Laboratorios de
 
 #### Artículo 5º
 
-La solicitud de inscripción en alguno de los registros de este Título, deberá ser presentada por el interesado o su representante en el Servicio, acompañada de los siguientes antecedentes:
+La solicitud de inscripción en alguno de los registros de este Título, deberá ser presentada por el interesado o su representante en las oficinas del Servicio, acompañada de los siguientes antecedentes:
 
 a. Fotocopia por ambos lados de la cédula de identidad
 
@@ -106,13 +106,11 @@ Al momento de la postulación, este certificado deberá
 
 tener una antigüedad no superior a 90 días corridos.
 
-e. Documento que acredite la personería del representante
+e. Documento que acredite la personería del
 
-para actuar en nombre de la persona jurídica que
+representante para actuar en nombre de la persona
 
-postula a la inscripción, con una vigencia de no
-
-más de 90 días.
+jurídica que postula a la acreditación.
 
 #### Artículo 6º
 
@@ -158,7 +156,7 @@ residuos, conforme a la normativa vigente.
 
 Para acreditar el cumplimiento de estos requisitos, el laboratorio solicitante deberá acompañar copia simple del manual de calidad y de los procedimientos señalados en los numerales precedentes.
 
-En el caso de Laboratorios de Calibración, estos deberán estar acreditados o encontrarse en proceso de acreditación de la Norma ISO 17.025, versión vigente, aprobada por resolución exenta Nº 877, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de diciembre de 2005, denominada Requisitos Generales para la Competencia de los Laboratorios de Ensayo y Calibración o la norma que la reemplace. Lo anterior, se acreditará por el laboratorio solicitante, al momento de la postulación, acompañando copia simple de los documentos que demuestren que se encuentra acreditado bajo la norma ya señalada o que está en proceso de acreditación.
+En el caso de Laboratorios de Calibración, deberán sujetarse a la Norma ISO 17.025, versión vigente, aprobada por resolución exenta Nº 877, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de diciembre de 2005, denominada Requisitos Generales para la Competencia de los Laboratorios de Ensayo y Calibración o la norma que la reemplace. Lo anterior se acreditará al momento de la postulación, acompañando el laboratorio solicitante copia simple de los procedimientos que verifiquen el cumplimiento de la norma señalada.
 
 En el caso de los laboratorios de ensayo arbitrador, éstos deben contar con un sistema de gestión de calidad, el cual garantice la validez y confiabilidad de los resultados. Dicho sistema debe estar basado en la Norma ISO 17025, aprobada por resolución exenta Nº 877, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de diciembre de 2005, denominada Requisitos Generales para la Competencia de los Laboratorios de Ensayo y Calibración o la norma que la reemplace u orientado en Buenas Prácticas de Laboratorio, cumpliendo con las mismas condiciones establecidas en el inciso primero y acreditándolo de acuerdo al inciso segundo de este artículo, a propósito de los laboratorios de ensayo.
 
@@ -172,81 +170,57 @@ Los laboratorios de que trata este Título deberán contar con un responsable t�
 
 a) Laboratorio de ensayo: el responsable técnico
 
-deberá contar con un título profesional, técnico o
+deberá contar con un título del área de
 
-licenciatura del área de conocimiento de las ciencias
+conocimiento de las ciencias agronómicas,
 
-agronómicas, pecuarias, biológicas, químicas, o
-
-de los alimentos, emitido por una institución de
-
-educación superior reconocida por el Estado, o
-
-bien tener una experiencia en el área de dos años
-
-en el tipo de ensayo al cuál se postula su
-
-inscripción y acreditar una capacitación formal
-
-en buenas prácticas. Para acreditar dicha experiencia
-
-deberá presentar una declaración jurada indicando
-
-la institución, lugar y período en que el
-
-responsable técnico se ha desempeñado en materia
-
-de ensayos de laboratorio. Para acreditar la
-
-capacitación deberá acompañarse una certificación
-
-emanada de una institución de educación reconocida
-
-por el Estado, por una entidad reconocida por el
-
-Servicio, o por el Servicio, en el caso de que
-
-éste efectúe la capacitación. El analista que
-
-desarrolle los ensayos deberá contar con un título
-
-del área de conocimiento de las ciencias agronómicas,
-
-pecuarias, biológicas, químicas, o de los alimentos,
+pecuarias, biológicas, químicas, o de los alimentos
 
 al menos técnico, emitido por una institución de
 
-educación superior reconocida por el Estado, o en
+educación superior reconocida por el Estado. El
 
-su defecto, contar con un título técnico de nivel
+analista que desarrolle los ensayos deberá contar
 
-medio del área de conocimiento de las ciencias
+con un título del área de conocimiento de las
 
-agronómicas, pecuarias, biológicas, químicas o de
+ciencias agronómicas, pecuarias, biológicas,
 
-los alimentos emitido por un establecimiento de
+químicas, o de los alimentos, al menos técnico,
 
-educación secundaria reconocido por el Estado que
+emitido por una institución de educación superior
 
-otorgue este tipo de calificación, o demostrar
+reconocida por el Estado, o en su defecto, contar
 
-haberse capacitado o tener una experiencia en el
+con un título técnico de nivel medio del área
 
-área de dos años en el tipo de ensayo al cual se
+de conocimiento de las ciencias agronómicas,
 
-postula su inscripción. Para acreditar la
+pecuarias, biológicas, químicas o de los alimentos
 
-capacitación deberá acompañarse una certificación
+emitido por un establecimiento de educación
 
-emanada de una institución de educación reconocida
+secundaria reconocido por el Estado que otorgue
 
-por el Estado y para acreditar experiencia, deberá
+este tipo de calificación, o demostrar haberse
 
-presentarse una declaración jurada indicando la
+capacitado o tener una experiencia en el área de
 
-institución, lugar y período en que se ha desempeñado
+dos años en el tipo de ensayo al cual se postula su
 
-en materia de ensayos de laboratorio.
+inscripción. Para acreditar la capacitación deberá
+
+acompañarse una certificación emanada de una
+
+institución de educación reconocida por el Estado y
+
+para acreditar experiencia, deberá presentarse una
+
+declaración jurada indicando la institución, lugar
+
+y período en que se ha desempeñado en materia de
+
+ensayos de laboratorio.
 
 b) Laboratorios de ensayo arbitrador: El responsable
 
@@ -284,31 +258,31 @@ institución de educación reconocida por el Estado.
 
 c) Laboratorios de Calibración: tanto el responsable
 
-técnico como el analista deberán tener experiencia
+técnico como el analista deberán contar con un
 
-de a lo menos tres años en metrología y
+título del área de conocimiento de las ciencias
 
-calibración de equipos. Para acreditar la
+agronómicas, pecuarias, biológicas, químicas, o de
 
-experiencia deberá presentarse una declaración
+los alimentos, al menos técnico, emitido por una
 
-jurada indicando la institución, lugar y período
+institución de educación superior reconocida por el
 
-en que el responsable técnico o el analista se ha
+Estado, que incluya materias relacionadas con la
 
-desempeñado en metrología y calibración de equipos.
+calibración del tipo de equipos a los cuales
+
+postula su inscripción.
 
 Al momento de la postulación, los laboratorios deberán acompañar la documentación que acredite el cumplimiento de lo establecido en el presente artículo.
-
-Excepcionalmente, al momento de postular, los laboratorios podrán solicitar al Servicio operar únicamente con un responsable técnico, quien además asumirá las labores de analista, cuando acompañen los antecedentes que lo justifiquen.
 
 #### Artículo 9º
 
 Son incompatibles las actividades de las ex autoridades o ex funcionarios del Servicio que impliquen una relación laboral con los laboratorios de que trata el presente Reglamento, sujetos a la fiscalización de esta institución, manteniéndose esta incompatibilidad hasta seis meses después de haber expirado en funciones, de conformidad con lo dispuesto en el artículo 56 de la ley Nº 18.575.
 
-En el caso de los Laboratorios de Ensayo Arbitrador, ellos no podrán estar relacionados en propiedad con alguna de las partes en la transacción cuya muestra se someta a su ensayo, ni tener entre sus propietarios, representantes, socios, directores, administradores, gerentes, accionistas o ejecutivos principales, a personas ligadas mediante matrimonio, acuerdo de unión civil o parentesco hasta el segundo grado de consanguinidad o afinidad inclusive, en la línea recta o colateral, con alguna de las partes en la transacción cuya muestra se somete a su ensayo.
+En el caso de los Laboratorios de Ensayo Arbitrador, ellos no podrán estar relacionados en propiedad con alguna de las partes en la transacción cuya muestra se someta a su ensayo, ni tener entre sus propietarios, representantes, socios, directores, administradores, gerentes, accionistas o ejecutivos principales, a personas relacionadas mediante parentesco hasta el segundo grado de consanguinidad o afinidad inclusive, en la línea recta o colateral, con alguna de las partes en la transacción cuya muestra se someta a su ensayo.
 
-En el caso de los Laboratorios de Calibración, ellos no podrán estar relacionados en propiedad, en un porcentaje superior al diez por ciento, con los Laboratorios de Ensayo o los Laboratorios de Ensayo Arbitrador, y viceversa, ni tener entre sus propietarios, representantes, socios, directores, administradores, gerentes, accionistas o ejecutivos principales, a personas ligadas mediante matrimonio, acuerdo de unión civil o parentesco hasta el segundo grado de consanguinidad o afinidad inclusive, en la línea recta o colateral, con personas naturales que tuvieren análoga participación en los Laboratorios de Ensayo o los Laboratorios de Ensayo Arbitrador.
+En el caso de los Laboratorios de Calibración, ellos no podrán estar relacionados en propiedad con los Laboratorios de Ensayo o los Laboratorios de Ensayo Arbitrador, ni tener entre sus propietarios, representantes, socios, directores, administradores, gerentes, accionistas o ejecutivos principales, a personas relacionadas mediante parentesco hasta el segundo grado de consanguinidad o afinidad inclusive, en la línea recta o colateral, con personas naturales que tuvieren análoga participación en los Laboratorios de Ensayo o los Laboratorios de Ensayo Arbitrador.
 
 #### Artículo 10º
 
@@ -320,13 +294,9 @@ En el caso que el incumplimiento no sea subsanado dentro del plazo de 10 días c
 
 #### Artículo 11º
 
-Los laboratorios deberán renovar la inscripción cada tres años, a contar de la fecha de la inscripción o renovación, en su caso. Para los efectos de renovar la inscripción, se deberá acreditar la vigencia de los requisitos de inscripción en el registro respectivo, salvo respecto del requisito a que se refiere el inciso tercero del artículo 7º, ya que en dicho caso se deberá probar la acreditación en norma ISO 17.025 o la norma que la reemplace.
+Los laboratorios deberán acreditar la vigencia de los requisitos de inscripción en el registro respectivo cada tres años, a contar de la fecha de inscripción o de la renovación, en su caso. Si así no lo hicieren, el Servicio procederá a cancelar la inscripción respectiva.
 
-La solicitud de renovación que acredite la vigencia de los requisitos de inscripción deberá presentarse al Servicio dentro de los 90 días anteriores al cumplimiento del período señalado en el inciso precedente. A dicha solicitud se deberá acompañar una declaración jurada simple de que los antecedentes que habilitaron la inscripción se mantienen vigentes.
-
-Los laboratorios deberán mantener en sus dependencias, a disposición del Servicio, una copia de la documentación presentada en la solicitud de inscripción o renovación.
-
-En caso que los laboratorios no dieren cumplimiento a lo preceptuado en el presente artículo, el Servicio procederá a cancelar la inscripción respectiva.
+La acreditación de la vigencia de los requisitos de inscripción deberá realizarse dentro de los 90 días anteriores al cumplimiento del período señalado en el inciso precedente. A dicha solicitud se deberá acompañar una declaración jurada simple de que los antecedentes que habilitaron la inscripción se mantienen vigentes.
 
 #### Artículo 12º
 
@@ -408,7 +378,7 @@ Notificación de los resultados de los análisis
 
 #### Artículo 13º
 
-Una vez recepcionado el resultados de los análisis por el agroindustrial o intermediario, éste deberá notificar a los interesados a través de los correos electrónicos y/o mensajes de texto, señalados en la guía de recepción. En su defecto, la notificación podrá realizarse de forma presencial en dependencias del agroindustrial o intermediario, donde se dejará constancia escrita de ello; o bien mediante carta certificada dirigida al domicilio indicado en la Guía de Recepción, en cuyo caso la notificación se entenderá practicada transcurridos tres días desde su recepción por la oficina de correos.
+Una vez que el laboratorio obtenga los resultados de los análisis, deberán ser notificados por los agroindustriales o intermediarios a los interesados a través de los correos electrónicos señalados en la Guía de Recepción. En su defecto, la notificación podrá realizarse de forma presencial en dependencias del agroindustrial o intermediario, donde se dejará constancia escrita de ello; o bien mediante carta certificada dirigida al domicilio indicado en la Guía de Recepción, en cuyo caso la notificación se entenderá practicada transcurridos tres días desde su recepción por la oficina de correos.
 
 ## Título V
 
@@ -416,7 +386,7 @@ Los veedores
 
 #### Artículo 14º
 
-La designación de los veedores por los productores de conformidad con lo establecido en el artículo 10 de la ley, se realizará por escrito en la guía de despacho, factura o cualquier otro documento similar que el Servicio de Impuestos Internos acepte para el transporte de carga, o mediante instrumento privado autorizado ante Notario Público u Oficial del Registro Civil en aquellas comunas en que no exista Notario Público. Los veedores que se designen del modo que por este artículo se establece, deberán estar incorporados en la nómina de que trata el artículo 15 del presente Reglamento.
+La designación de los veedores por los productores de conformidad con lo establecido en el artículo 10 de la ley, se realizará mediante un poder simple autorizado ante Notario Público u Oficial del Registro Civil en aquellas comunas en que no hubiese Notario Público.
 
 #### Artículo 15º
 
@@ -430,11 +400,11 @@ El Servicio fiscalizará los requisitos de idoneidad del veedor, conforme al art
 
 #### Artículo 16
 
-Derogado.
+De conformidad con lo indicado en el inciso segundo del artículo 8º de la ley, corresponderá al Servicio sustituir al veedor en el ejercicio de la función de supervigilancia o inspección del cumplimiento de los procedimientos regulados en los reglamentos específicos por producto o tipo de productos en aquellas acciones que sean realizados por los laboratorios de ensayo que se hayan registrado en el Servicio de conformidad con la ley y el presente Reglamento. El referido Servicio ejercerá sus facultades, en conformidad a las atribuciones establecidas en la ley Nº 18.755.
 
 #### Artículo 17
 
-El Servicio podrá encomendar el ejercicio de la facultad señalada en el artículo 8 de la ley a entidades públicas o privadas suscribiendo al efecto los correspondientes convenios, de conformidad con lo indicado en la letra n) del artículo 7º de la ley Nº 18.755 y sus modificaciones.
+El Servicio podrá encomendar el ejercicio de la facultad señalada en el artículo precedente a entidades públicas o privadas, suscribiendo al efecto los correspondientes convenios, de conformidad con el n) del artículo 7º de la ley Nº 18.755.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Álvaro Cruzat Ochagavía, Ministro de Agricultura (S).- Tomás Flores Jaña, Ministro de Economía, Fomento y Turismo (S).
 
