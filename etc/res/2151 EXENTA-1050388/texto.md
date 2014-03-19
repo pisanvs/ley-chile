@@ -402,7 +402,23 @@ septiembre y en la forma que el Servicio
 
 determine, el nombre y ubicación del proveedor
 
-de servicio de polinización.
+de servicio de polinización. Además, los
+
+productores de kiwi deberán registrar en su
+
+cuaderno de campo los datos del prestador del
+
+servicio de polinización utilizado: nombre,
+
+RUT, fecha de ingreso y salida de las colmenas
+
+del huerto y mantener disponible la guía de
+
+despacho u otro documento en el que señale la
+
+procedencia de las colmenas para el control
+
+del SAG.
 
 7.2 Medidas fitosanitarias adicionales para huertos de kiwi (Actinidia spp.) positivos a Psa.
 
@@ -562,159 +578,391 @@ quedar registradas en el cuaderno de registros
 
 de labores de Psa, cada vez que se realicen.
 
-7.4 Medidas específicas para los viveros y plantas madres de kiwi (Actinidia spp.).
+7.4 Medidas específicas para los viveros y plantas madres de kiwi (Actinidia spp.) de áreas reglamentadas:
 
-a. Los viveristas de plantas de kiwi (Actinidia
+7.4.1 Sobre la producción de plantas en viveros:
 
-spp.) deben adoptar las medidas de resguardo y
+a. Los viveristas que multipliquen kiwi deberán
 
-profilaxis que el Servicio determine, tendientes
+iniciar la producción con material vegetal
 
-a evitar la presencia o infestación con la
+extraído desde plantas madres diagnosticadas
 
-plaga. Tales medidas, el viverista deberá
+oficialmente como negativas a Psa, sean viveros
 
-indicarlas en el Plan Operacional del vivero.
+para fines comerciales o de autoabastecimiento.
 
-b. Todos los viveristas que propaguen la especie
+Los requisitos de las plantas madres se
 
-kiwi, deben iniciar la producción con material
+señalan en el numeral 7.4.2.
 
-vegetal extraído de plantas madres muestreadas
+b. No se podrán establecer viveros al interior
 
-oficialmente y encontradas negativas a Psa, ya
+de huertos que estén positivos a Psa.
 
-sea en viveros para autoabastecimiento o para
+c. En los viveros se deberán implementar medidas
 
-propósitos comerciales.
+preventivas tendientes a minimizar la
 
-c. El material vegetal inicial utilizado para
+probabilidad de infección con la plaga,
 
-propagar plantas en viveros de kiwi, debe
+similares a las establecidas en los huertos,
 
-proceder de alguno de los orígenes siguientes:
+tales como:
 
-i. Plantas madres de huertos nacionales que se
+i. Realizar un programa de monitoreo o
 
-encuentren con diagnóstico oficial negativo
+inspección visual de síntomas o signos en
 
-a Psa.
+las plantas producidas, con una frecuencia
 
-ii. Plantas procedentes del programa de
+mínima de 15 días durante el crecimiento
 
-cuarentena de post-entrada convencional en
+activo y de receso.
 
-el que se haya verificado oficialmente la
+ii. Informar al SAG sobre la presencia de
 
-ausencia de Psa.
+síntomas sospechosos a Psa, para la gestión
 
-iii. Plantas procedentes del Programa de
+del diagnóstico oficial que deberá realizarse
 
-Depósito Particular de plantas in vitro, en
+en un laboratorio autorizado.
 
-el que se haya verificado oficialmente la
+iii. Incorporar un sistema de pediluvio activo
 
-ausencia de la bacteria.
+para el ingreso, salida y tránsito de las
 
-iv. Plantas de otro vivero, previamente
+personas, en el área donde se realizan las
 
-declaradas en los plazos establecidos y
+labores de injertación o estén las plantas.
 
-muestreadas oficialmente y encontradas
+Los desinfectantes a utilizar podrán ser
 
-negativas a Psa.
+los mismos indicados para los huertos del
 
-d. Los huertos que hayan sido encontrados positivos
+área reglamentada.
 
-a Psa no podrán ser declarados para muestreo de
+iv. Disponer de desinfectantes para el uso del
 
-plantas madres.
+personal y sitios definidos para la higiene
 
-e. El viverista debe declarar anualmente el número
+de las personas.
 
-de plantas madres a muestrear antes del 30 de
+v. Implementar y mantener un sistema de
 
-septiembre, en la oficina SAG correspondiente a
+sanitización o limpieza de ruedas, para la
 
-su jurisdicción.
+maquinaria y medios de transporte, en la
 
-f. El muestreo de plantas madres de kiwi se debe
+zona de carga y descarga de plantas.
 
-realizar en primavera, desde el 1 de septiembre
+vi. Ejecutar un plan de desinfección de
 
-hasta el 30 de noviembre. Se podrá considerar
+herramientas de corte.
 
-una época de muestreo diferente, si las técnicas
+vii. Disponer y aplicar un programa preventivo
 
-de diagnóstico vigentes y las estructuras
+de aplicaciones con productos fitosanitarios,
 
-vegetales disponibles, permiten lograr un
+así como de protectores de heridas en las
 
-diagnóstico confiable, y previa autorización de
+plantas, en base a cobre u otros productos
 
-la declaración de muestreo, señalada
+autorizados.
 
-precedentemente.
+viii. Disponer ejecutar un programa de eliminación
 
-g. Todos los viveristas que propaguen la especie
+de restos vegetales dentro del mismo vivero.
 
-kiwi (Actinidia spp.) deben declarar en la
+ix. Disponer de señalética que restrinja el
 
-oficina SAG sectorial correspondiente, una
+acceso de personas no autorizadas.
 
-estimación de producción de plantas por especie,
+d. La forma de implementación de las medidas antes
 
-variedad y uso al cual se destinarán, antes del
+indicadas deberá documentarse en el Plan
 
-1 de junio de cada año.
+Operacional del Vivero, el que deberá renovarse
 
-h. La detección de la Psa en partidas de plantas de
+anualmente antes del último día hábil de junio.
 
-viveros y/o depósitos de plantas, será causal de
+e. Se deberá llevar registro de las fechas de
 
-destrucción de toda la partida de plantas.
+ejecución de las labores en un cuaderno de campo,
 
-i. La detección por parte del SAG de plantas de
+el que, junto al Plan Operacional, deberá estar
 
-kiwi en viveros y/o depósitos, sin respaldo de
+disponible en las fiscalizaciones del SAG.
 
-la trazabilidad o procedencia de material
+f. Los viveristas que comercialicen la especie
 
-vegetal inicial utilizado, será causal de
+kiwi deben presentar anualmente, en la oficina
 
-destrucción de dichas plantas.
+SAG sectorial correspondiente, una declaración
 
-j. El muestreo y análisis de las plantas madres
+de existencia de plantas frutales al expendio,
 
-será efectuado por terceros autorizados por el
+antes del 1 de diciembre o en los plazos
 
-SAG, sin perjuicio que el Servicio pueda
+establecidos por la División Semillas.
 
-realizar estas actividades cuando se requiera.
+g. Antes de la época de venta o transferencia de
 
-k. Todos los costos asociados al muestreo de
+las plantas, los viveristas deberán contratar los
 
-plantas madres serán de cargo del viverista
+servicios de muestreo y diagnóstico oficial en
+
+laboratorios autorizados para acreditar que las
+
+plantas producidas se encuentran negativas a Psa.
+
+h. El muestreo de las plantas en el vivero se
+
+deberá realizar por partida de plantas,
+
+entendiéndose como tal el grupo de plantas de
+
+una misma variedad, injertadas o plantadas en
+
+una época similar y sometida al mismo manejo
+
+en relación a su grado de confinamiento.
+
+i. Considerando que las plantas madres son
+
+analizadas para Psa, el muestreo de plantas en
+
+un vivero de propagación tradicional se regirá
+
+con una tabla de muestreo referencial indicada
+
+en el cuadro inferior, donde cada muestra estará
+
+compuesta de material vegetal de al menos 5
+
+plantas asintomáticas (submuestras) cuando en la
+
+inspección no se hayan detectado síntomas. De
+
+existir sintomatología sospechosa a Psa, tal
+
+material debe incluirse en el muestreo y de no
+
+existir material suficiente, se deberá completar
+
+el número de muestras con material asintomático.
+
+.
+
+j. La detección de la Psa en partidas de plantas
+
+de viveros y/o depósitos de plantas será causal
+
+de destrucción de la partida afectada y del
+
+resto de la existencia, si es que no se pueden
+
+excluir de la probabilidad de contaminación
+
+con Psa.
+
+k. Los viveros que resultaren con partidas de
+
+plantas positivas a Psa se mantendrán como
+
+viveros positivos mientras permanezcan en el
+
+mismo predio y no se hayan eliminado las
+
+fuentes de inóculo de Psa y se incluirán
+
+como cuarteles que generan o modifican áreas
+
+reglamentadas.
+
+l. Los propietarios o tenedores de los viveros
+
+positivos deberán informar al SAG la lista
+
+de sus clientes con el objetivo de evaluar
+
+el riesgo de dispersión involucrado.
+
+m. Los propietarios o tenedores de depósitos
+
+de plantas de kiwi deberán adquirir las
+
+plantas en viveros autorizados. La
+
+detección, por parte del SAG, de plantas
+
+de kiwi en viveros y/o depósitos, sin
+
+respaldo de la trazabilidad o procedencia
+
+de material vegetal inicial utilizado, será
+
+causal de eliminación de tales plantas.
+
+n. Los viveristas deberán mantener los registros
+
+y la documentación que acredite la adquisición,
+
+la venta o traspaso de material vegetal a
+
+otros viveristas.
+
+7.4.2 Sobre las plantas madres de kiwi:
+
+a. Podrán considerarse como plantas madres de
+
+kiwi las plantas que se encuentran ubicadas
+
+fuera de áreas reglamentadas, que cuentan
+
+con diagnóstico vigente negativo Psa y
+
+provienen de los siguientes sistemas:
+
+i. Plantas de Cuarentena de Posentrada.
+
+ii. Plantas de Cuarentena In Vitro.
+
+iii. Plantas juveniles de vivero.
+
+iv. Plantas de huertos nacionales.
+
+v. Plantas procedentes de otro sistema,
+
+previa evaluación de los casos por
+
+parte del SAG.
+
+b. Excepcionalmente, el SAG podrá evaluar la
+
+inclusión de plantas ubicadas dentro de las
+
+áreas reglamentadas, si es que provienen de
+
+los sistemas señalados en el literal
+
+precedente, subnumerales i y ii.
+
+c. Para demostrar la condición de plantas
+
+madres negativas a Psa, éstas se deberán
+
+muestrear anualmente, de acuerdo al
+
+procedimiento oficial y previo a la extracción
+
+de material vegetal: en otoño, si el período
+
+de extracción de material vegetal es en
+
+invierno, o en primavera, cuando la fecha de
+
+extracción de material se realice en verano o
+
+se desee incluir variedades que no fueron
+
+incluidas en el muestreo de otoño.
+
+d. Una época de muestreo diferente podrá ser
+
+considerada si las técnicas de diagnóstico
+
+vigentes y las estructuras vegetales
+
+disponibles permiten lograr un diagnóstico
+
+confiable, y previa autorización de la
+
+declaración de muestreo.
+
+e. Para optar al muestreo oficial, el
+
+viverista deberá presentar en la oficina
+
+SAG correspondiente a su jurisdicción una
+
+declaración para muestreo de plantas madres
+
+en el formulario establecido para este
+
+efecto, indicando el nombre, la ubicación y
+
+la cantidad de plantas por cada variedad
+
+que se desea multiplicar y las fechas probables
+
+de extracción de material vegetal. A efectos
+
+de organizar el proceso de muestreo y
+
+diagnóstico, considérese el calendario de
+
+actividades indicado en la tabla siguiente:
+
+Tabla: Plazo para declarar plantas madres de
+
+kiwi y período de muestreo para detección
+
+de Psa, según fecha de extracción de
+
+material vegetal.
+
+f. El muestreo y diagnóstico oficial de las plantas
+
+madres deberá ser efectuado por terceros
+
+autorizados por el SAG, sin perjuicio que el
+
+Servicio pueda realizar estas actividades cuando
+
+sea necesario. Los costos asociados al muestreo
+
+de plantas madres serán de cargo del viverista
 
 interesado.
 
-l. La vigencia del análisis de plantas madres será
+g. En el muestreo de plantas madres se deberá
 
-de un año desde el momento de la notificación de
+colectar material vegetal, ramillas con hojas
 
-su diagnóstico negativo a Psa.
+o madera, según corresponda a la época y por
 
-m. Los viveristas deberán mantener a disposición
+cada variedad declarada. Cada muestra debe
 
-del Servicio la documentación que acredite el
+estar constituida de tres submuestras de
 
-cumplimiento de los requisitos del control
+diferentes plantas. Se debe utilizar en
 
-obligatorio, así como la correspondiente a la
+referencia la siguiente tabla de muestreo:
 
-venta o traspaso de material vegetal a otros
+h. La vigencia del análisis de plantas madres
 
-viveristas.
+será de aproximadamente un año, contado desde
+
+el momento de la notificación del diagnóstico
+
+negativo a Psa hasta la fecha que inicia la
+
+época de muestreo en el año siguiente.
+
+i. La detección de Psa en plantas madres
+
+ubicadas en los huertos, dará origen al
+
+establecimiento o modificación de áreas
+
+reglamentadas y se deberán implementar las
+
+medidas dispuestas para huertos positivos,
+
+descritas en el numeral 7.2 de esta
+
+resolución.
 
 7.5 Medidas específicas para los procesos de polinización de huertos de kiwi.
 
@@ -937,6 +1185,36 @@ deberán ser eliminados mediante
 enterramiento, quema o enviado a
 
 rellenos sanitarios autorizados.
+
+7.6 Medidas para laboratorios u otros
+
+establecimientos que requieran utilizar
+
+la Psa con fines de investigación".
+
+a. Los establecimientos deberán solicitar
+
+en el SAG una autorización para obtener,
+
+almacenar, multiplicar o manipular
+
+aislados de Psa o muestras vegetales
+
+infectadas con ésta. Tal autorización
+
+deberá entregarse caso a caso, mediante
+
+resolución exenta de la División de
+
+Protección Agrícola y Forestal del SAG,
+
+previa evaluación y verificación de las
+
+condiciones de bioseguridad que ofrezcan
+
+los recintos, de manera que se minimice
+
+la posibilidad de dispersión.
 
 8. El incumplimiento de las medidas que se disponen, será sancionado de acuerdo a lo indicado en el decreto ley Nº 3.557, de 1980, sobre Protección Agrícola, y según lo dispuesto en la ley Nº 18.755.
 
