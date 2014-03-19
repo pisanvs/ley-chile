@@ -1,0 +1,5 @@
+Por resolución exenta Nº 774, de 13 de marzo de 2014, de esta Subsecretaría, intercálase el siguiente numeral 4º a la resolución Nº 3.518, de 2013, de esta Subsecretaría, cambiando los demás su numeración correlativa:
+
+"En caso de que el titular de un centro de cultivo integrante de las agrupaciones a que se refiere la presente resolución realice un cambio en su plan de siembra, esto sólo será posible en la medida que dicho cambio no implique un aumento en el número total de ejemplares que declaró en su plan de siembra para el período productivo respectivo, ni un aumento en el número máximo de ejemplares a ingresar por estructura de cultivo, ni una disminución en el volumen útil de las estructuras de cultivo declaradas en su plan de siembra.".
+
+Valparaíso, 13 de marzo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
