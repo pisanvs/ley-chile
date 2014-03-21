@@ -1,0 +1,105 @@
+RECTIFICA DECRETO ALCALDICIO SECCIÓN 1º Nº 729, DE 2011
+
+Secc. 1ª Núm. 966.- Las Condes, 21 de febrero de 2014.- Vistos y teniendo presente: La resolución Nº 8/95 del Gobierno Regional Metropolitano de Santiago, de fecha 30 de mayo de 1995 que aprueba el Plan Regulador Comunal de Las Condes, publicado en Diario Oficial de fecha 13 de junio de 1995; el decreto alcaldicio Secc.1º Nº 3.218, de fecha 4 de diciembre de 2003 que promulga el Texto Resolutivo de la Modificación Nº 2 del Plan Regulador Comunal, publicado en Diario Oficial de fecha 5 de diciembre de 2003; decreto alcaldicio Secc.1º Nº 2.952, de fecha 30 de julio de 2004 que promulga el Texto Resolutivo de la Modificación Nº3 del Plan Regulador Comunal vía enmienda, publicado en Diario Oficial de fecha 6 de agosto de 2004; decreto alcaldicio Secc.1º Nº 4.480, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Metropolitano, PS-U-M, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.483, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Vivienda, PS-U-V, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.484, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Vivienda 1, PS-U-V1, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.485, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Vivienda 2, PS-U-V2, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.486, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Vivienda 3, PS-U-V3, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.482, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Vivienda y Oficina, PS-U-VO, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Nº Secc. 1º 4.474, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Comercial 1, PS-U-C1, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.475, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Comercial 2 PS-U-C2, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.476, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Comercial 3, PS-U-C3, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc.1º Nº4.477, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Especial 1, PS-U-Ee1, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.478, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Especial 2, PS-U-Ee2, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.479, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de la Zona de Uso de Suelo Especial 5, PS-U-Ee5, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 4.481, de fecha 28 de diciembre de 2004, que detalla el Plan Regulador Comunal según Plano Seccional de Vialidad, PS-V-01, publicado en Diario Oficial de fecha 3 de febrero de 2005; decreto alcaldicio Secc. 1º Nº 3.193, de fecha 25 de julio de 2007, que promulga la Modificación Nº 4 al Plan Regulador Comunal, publicado en Diario Oficial de fecha 2 de agosto de 2007; decreto alcaldicio Secc. 1º Nº 2.974, de fecha 5 de julio de 2007, que detalla el Plan Regulador Comunal para el Área de Edificación Especial 1 y la Zona de Uso de Suelo Especial 1, según Plano Seccional "Centro Comercial Mall Plaza", PS-Ee1 y PS-UEe1, publicado en Diario Oficial de fecha 13 de julio de 2007; decreto alcaldicio Secc. 1º Nº 3.905, de fecha 13 de septiembre de 2007, que detalla el Plan Regulador Comunal para la Zona de Uso de Suelo Comercial 2, según Plano Seccional "Portal La Reina", PS-U-C2-PLR, publicado en Diario Oficial de fecha 20 de septiembre de 2007; decreto alcaldicio Secc. 1º Nº 3.904, de fecha 13 de septiembre de 2007, que detalla el Plan Regulador Comunal para la Zona de Uso de Suelo Comercial 2, según Plano Seccional "Nueva Las Condes", PS-UC2-NLC, publicado en Diario Oficial de fecha 20 de septiembre de 2007; decreto alcaldicio Secc. 1º Nº 1.071, de fecha 5 de febrero de 2008, que detalla el Plan Regulador Comunal en el Área de Edificación Media 4, según Plano Seccional "Hermanos Cabot", PS-EAm4-HC, publicado en Diario Oficial de fecha 8 de febrero de 2008; decreto alcaldicio Secc. 1º Nº 173, de fecha 11 de enero de 2010, que promulga el Texto Aprobatorio de la Modificación Nº 7 al Plan Regulador Comunal, publicado en Diario Oficial de fecha 19 de enero de 2010; decreto alcaldicio Secc 1º Nº 3.360 de fecha 11 de agosto de 2010, que asigna normas urbanísticas a las franjas de afectación a utilidad pública de 60 vías de la comuna de Las Condes, publicado en Diario Oficial de fecha 14 de agosto de 2010; decreto alcaldicio Secc. 1º Nº 729, de fecha 25 de enero de 2011, que promulga el Texto Aprobatorio de la Modificación Nº 8 al Plan Regulador Comunal, publicado en Diario Oficial de fecha 28 de enero de 2011; el Ordinario Alcaldicio Nº 4/1593 de fecha 1 de diciembre de 2011; el Ordinario DDU Nº 7 de fecha 3 de enero de 2012; la necesidad de rectificar errores, vicios de procedimiento o de forma y distorsiones, enmendando imperfecciones en la Ordenanza Local y los Planos MRCLC - 2010, sin menoscabar intereses de terceros; el informe de Asesoría Urbana INF.A.U. Nº 7 de fecha 23 de enero de 2014, que incluye una memoria de las rectificaciones necesarias; el artículo 13 de la ley Nº 19.880 y en uso de las facultades que me otorgan los artículos 56 y 63 del DFL Nº1 del Ministerio de Interior de fecha 9 de mayo de 2006, publicado en el Diario Oficial de fecha 26 de julio de 2006, que fijó el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+1. Rectifícase el decreto alcaldicio sección 1º Nº 729, de fecha 25 de enero de 2011, "Texto Aprobatorio" de la Modificación Nº 8 al Plan Regulador Comunal, numeral 2 en su artículo único, según se indica a continuación:
+
+1.1 Rectifícase la fecha de publicación en el Diario Oficial de los Planos Seccionales PS-U-M; PS-U-V; PS-U-V1; PS-U-V2; PS-U-V3; PS-U-VO; PS-U-C1; PS-U-C2; PS-U-C3; PS-U-Ee1; PS-U-UEe2; PS-U-Ee5; de detalle del Plan Regulador Comunal, en el sentido de reemplazar la fecha "26 de enero de 2005", por la de "3 de febrero de 2005".
+
+Rectifícase la fecha de publicación del plano seccional PS-V-01; de detalle del Plan Regulador Comunal, en el sentido de reemplazar la fecha "2 de enero de 2005", por la de "3 de febrero de 2005".
+
+Rectifícase la fecha del decreto alcaldicio sección 1º Nº 3.193 de "25 de junio de 2007" por la de "25 de julio de 2007".
+
+1.2 Suprímase en el numeral 4, inciso primero la expresión "o calles de menos de 15 m. entre líneas oficiales" y la expresión "que formen parte de dichas vías"; reemplázase la expresión "y de 5,0 metros en los demás casos" por la frase ", de 5,0 metros en los demás casos y el existente cuando se trate de ampliaciones de vivienda unifamiliar".
+
+1.3 Reemplázase en el numeral 4 el inciso segundo por el siguiente: "Los proyectos con subsidio estatal o municipal, de viviendas, ampliación de viviendas y de equipamiento no requerirán de antejardín.".
+
+1.4 En el numeral 21, que modifica el artículo 32, en su número 2, agrégase la siguiente letra c) nueva: "c) Clase Servicios, Actividad de oficinas hasta 200 m2: 1 estacionamiento cada 30 m2.".
+
+1.5 En el numeral 21, que modifica el artículo 32, elimínase la letra h).
+
+1.6 En el numeral 22, que modifica el artículo 34 en la letra c) a continuación del inmueble individualizado como "Casa en calle Asturias 400" señálase el siguiente texto: "Casa en camino Otoñal Nº 1218".
+
+1.7 En el numeral 25, que modifica el artículo 38, letra b) que fija el incremento de la medida de antejardines, rectifícase en el cuadro lo siguiente:
+
+.
+
+1.9 En el numeral 25, que modifica el artículo 38, letra b) que fija el incremento de la medida de antejardines, agréganse en el cuadro las siguientes calles:
+
+A continuación de la vía Alicante, rectifícase el cuadro, incluyéndose la fila siguiente:
+
+.
+
+1.10 Reemplázase en el numeral 25, que modifica el artículo 38, el inciso final de la letra b), por el siguiente: "Los proyectos de servicios municipales con destino equipamiento de la clase salud, educación o recreacional deportivo y de vivienda o ampliación de viviendas con subsidio municipal, podrán adicionar hasta un 0.3 a los coeficientes señalados en la tablas de densificación aplicables, previo informe favorable del Asesor Urbanista.".
+
+1.11 En el numeral 25, que modifica el artículo 38, letra g),1. En el acápite número 1, letra e) Reemplázace la Tabla C) por la siguiente:
+
+"Los proyectos que se emplacen en el área delimitada por la Avda. Charles Hamilton por el norte, Avda. Francisco de Asís por el oriente, Avda. Francisco Bulnes Correa por el sur y Avda. República de Honduras, límite oriente de las áreas Ee3 y Ee1 y su prolongación hasta interceptar la Avda. Charles Hamilton por el límite del terreno de la Fundación Cultural Las Condes, se regirán por las normas señaladas en la siguiente tabla:
+
+.
+
+1.12 En el numeral 25, que modifica el artículo 38, letra g), 8. En el acápite número 8, reemplázace la letra b) por la siguiente: "b) En la Tabla B) reemplázace la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento" y la expresión "Servicios Profesionales" por "Servicios".
+
+1.13 En el numeral 25, que modifica el artículo 38, letra g), 14. En el acápite número 14, letra g), inciso 1º, reemplázase la expresión "Avda. Presidente Riesco" por "Avda. Isidora Goyenechea"; en el inciso tercero, reemplázase la expresión "Alcántara y La Gloria" por "Alcántara, La Gloria y Noruega".
+
+1.14 En el numeral 25, que modifica el artículo 38, letra g), 14. En el acápite número 14, letra i), reemplázase la expresión "y que enfrentan Avda. El Bosque excepcionalmente podrán construir", por "y que enfrentan Avda. El Bosque o Avda. Isidora Goyenechea y que pertenecen a esta área, excepcionalmente podrán construir.".
+
+1.15 En el numeral 25, que modifica el artículo 38, letra g), 16. En el acápite número 16, reemplázace la letra e), por la siguiente "e) En la Tabla A reemplázace la expresión "Antejardín mínimo" por "Antejardín" y la expresión "Distanciamiento a medianero", por "Distanciamiento". En el párrafo que precede a la Tabla A elimínase la expresión "y que enfrenten o colinden con las áreas de edificación EAb o especial". En el inciso ubicado a continuación de la Tabla A, después del punto seguido, elimínase la expresión "Con todo, a.".
+
+1.16 En el numeral 27 que modifica el artículo 40, letra e) En el cuadro de la zona U-V, reemplázase la letra e1) por la siguiente "e1) Agrégase en la primera nota bajo el cuadro a continuación del texto "en edificaciones nuevas", la expresión "con una superficie máxima edificada de 290 m2.". Asimismo, reemplázase en la segunda nota bajo el Cuadro de Usos de Suelo Zona U-V, la palabra "Incorpórese" por "Se admite".
+
+1.17 En el numeral 27 que modifica el artículo 40, letra g) En el cuadro de la zona U-V2, en la letra g1) a continuación del punto final agrégase el siguiente texto: En la fila correspondiente a la clase "Educación", reemplázase para todas las vías en la columna correspondiente a las Condiciones, la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones. En la letra g2) agrégase continuación del punto final lo siguiente: para la misma clase "Comercio" actividad "Servicios Artesanales" en la columna correspondiente a "Actividad", agrégase a continuación de la expresión "servicios automotrices", la frase "y locales destinados a venta de comida envasada.".
+
+1.18 En el numeral 27 que modifica el artículo 40, letra h) En el cuadro de la zona U-V3, reemplázace la letra h2), por la siguiente: " h2) En la fila correspondiente a la clase "Educación", actividad "Parvularios Jardines Infantiles", agrégase la palabra "Sólo" al inicio del texto de la columna condiciones correspondiente a Vía de Servicio y reemplázase para todas las vías la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones.
+
+1.19 En el numeral 27 que modifica el artículo 40, letra i) En el cuadro de la zona U-VO, reemplázase la letra i2) por la siguiente: "i2) En la fila correspondiente a la clase "Educación", reemplázase la expresión "superficie máxima construida de 500 m2", "por superficie edificada máxima de 290 m2.", en las cinco ocasiones.
+
+1.20 En el numeral 27 que modifica el artículo 40, letra j) En el cuadro de la zona U-C1, reemplázace la letra j5) por la siguiente: "j5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", "Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
+
+1.21 En el numeral 27 que modifica el artículo 40, letra j) En el cuadro de la zona U-C1, reemplázase en el cuadro modificado de la letra j6) en la fila correspondiente a la actividad de "Oficinas sin afluencia de público" en la columna "Condiciones" correspondiente a la vía local la expresión "Máximo 200 m2 de superficie edificada por predio S.R. En edificaciones que se emplacen en vías que cumplan con el ancho mínimo de una vía colectora o superior" por la frase: "Máximo 300 m2 de superficie edificada por predio. S.R. En edificaciones que se emplacen en vías que cumplan con el ancho mínimo de una vía de servicio o superior" y para la vía de servicio la expresión "S.R.".
+
+1.22 En el numeral 27 que modifica el artículo 40, letra k) En el cuadro de la zona U-C2, reemplázace la letra k5) por la siguiente: "k5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", " Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
+
+1.23 En el numeral 27 que modifica el artículo 40, letra k) En el cuadro de la zona U-C2, reemplázace la letra k6) por la siguiente: "k6) Reemplázace la fila correspondiente a la clase "Servicios", actividad "Oficinas en general (abogados, médicos, dentistas...) Bancos, Notarías, AFP. Isapres." por las siguientes filas:
+
+.
+
+1.24 En el numeral 27, que modifica el artículo 40, en la letra l), Intercálase a continuación de la letra I2), la siguiente letra l3), pasando las actuales letras l3), l4), l5), l6), l7), l8) a ser letras l4), l5), l6), l7), l8), l9) respectivamente, con el siguiente texto, "l3) en la fila correspondiente a la clase "Social", elimínase "en locales de escala básica", tanto para la vía local como de servicio.
+
+1.25 En el numeral 27, que modifica el artículo 40, en la letra p) reemplázace en el primer nuevo inciso la expresión "servicios artesanales, y el destino de culto y cultura" por la frase "servicios artesanales, gimnasio, y el destino de culto y cultura.".
+
+1.26 En el numeral 27 que modifica el artículo 40, en la letra p) en el segundo nuevo inciso reemplázace la expresión "supermercados" por "minimercados".
+
+1.27 En el numeral 29 que modifica el artículo 41, en la letra b) reemplázase la frase "según se grafica" por "y aquellas otras vías graficadas" y la expresión "podrán destinar la vivienda existente a servicios profesionales" por la frase "podrán destinar la vivienda existente a oficinas sin afluencia de público.".
+
+1.28 En el numeral 29, que modifica el artículo 41, reemplázase la letra f), por la siguiente: f) Intercálase en el inciso sexto, a continuación de la expresión "podrán optar", la frase "con ocupación de suelo máxima de 0.4, un coeficiente de constructibilidad de 0.6 y altura máxima de 3 pisos o 10,50 metros," y reemplázase la expresión "con el giro de Oficinas Comerciales" por la frase, "con la actividad de: Oficinas en General," y elimínase la expresión "siempre y cuando mantengan las características de la edificación existente" a continuación de la coma, que se transforma en punto final.
+
+1.29 En el numeral 32, que modifica el artículo 45, letra e), se reemplazan en los cuadros de vialidad intercomunal, las filas que a continuación se indican:
+
+.
+
+1.31 Rectifícase el plano MPRCLC-2010, mediante planos complementarios de detalle de la Lámina Nº 1 Edificación, Lámina Nº 2 Uso de Suelo, Lámina Nº 3 Vialidad, de manera de representar y concordar con lo señalado en el presente decreto.
+
+1.31.1 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº1, el área de edificación Ee5, Edificación Especial Nº5, y en la Lámina Nº 2, correspondiente a la zona de Uso de Suelo UEe5, los límites del predio correspondientes al Inmueble de Conservación Histórica Avda. Camino Otoñal Nº 1218.
+
+1.31.2 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº 1, el límite norte del área de Edificación Ee1, equipamiento "Hospital de la Caja de Previsión de Carabineros de Chile (DIPRECA)", individualizado en la letra b) del artículo 38, numeral 16, "Equipamientos Comunales Comerciales y de Servicios" y rectifícase en la Lámina Nº 2, los mismos límites para la correspondiente zona de uso de suelo UEe1.
+
+1.31.3 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº 1, el límite sur, del área de Edificación Ee1, individualizado en la letra c) del artículo 38, numeral 16, "Equipamientos Comunales Culturales", Colegio San Patricio, y en la Lámina Nº 2, el mismo límite para la correspondiente zona de uso de suelo UEe1.
+
+1.31.4 Rectifícase en el plano MPRCLC-2010, Lámina Nº 2 la concordancia entre los límites prediales del equipamiento existente "Clínica San Carlos de Apoquindo" con los de la zona de Uso de Suelo U-M.
+
+1.31.5 Rectifícase en el plano MPRCLC-2010, Lámina Nº 2, de acuerdo a lo señalado en el artículo 41, inciso primero, la gráfica para los predios que enfrentan la zona UEe1, "Clínica Las Condes", por calle Lo Fontecilla.
+
+1.31.6 Rectifícase en el plano MPRCLC- 2010, Lámina Nº 2, de acuerdo a lo señalado en el artículo 41, inciso segundo, la gráfica para la vereda oriente de calle Hernando de Magallanes entre avenida Martín de Zamora y calle Los Pozos.
+
+1.31.7 Rectifícase de acuerdo al presente decreto en el plano MPRCLC-2010, Lámina Nº 3 Vialidad, las siguientes calles y avenidas: avenida Andrés Bello; calle Bocaccio; calle Carlos Peña Otaégui; calle Choapa; avenida Francisco Bilbao; calle Fray Jorge; calle Las Torcazas; calle Lo Fontecilla; calle Martín Alonso Pinzón; calle Nevería; calle Pedro de Gamboa; calle Río Guadiana, calle Sebastián Elcano y calle Visviri.
+
+### 2. Publíquese el presente decreto en el Diario Oficial
+
+3. Archívese copia del presente decreto y su publicación en el Diario Oficial, en el Conservador de Bienes Raíces de Santiago, la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo y en la Secretaría Regional Ministerial Metropolitana de Vivienda y Urbanismo.
+
+Anótese, comuníquese y archívese.- Omar Saffie Lamas, Alcalde (S).- Jorge Vergara Gómez, Secretario Municipal.
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.- Saluda atentamente a usted, Jorge Vergara Gómez, Secretario Municipal.
