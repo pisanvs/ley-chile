@@ -30,7 +30,7 @@ c) Texto aprobatorio
 
 #### Artículo único
 
-Modificase el Plan Regulador Comunal de Las Condes, aprobado por Resolución N° 8/95 del Gobierno Regional Metropolitano de Santiago, de fecha 30 de mayo de 1995, publicado en el Diario Oficial de fecha 13 de junio de 1995, modificado según Modificación N° 2, promulgada según Decreto Alcaldicio N° 3.218, de fecha 4 de diciembre de 2003, publicado en Diario Oficial de fecha 5 de diciembre de 2003; enmendado según Modificación N°3, promulgada según Decreto Alcaldicio N° 2.952, de fecha 30 de julio de 2004, publicado en Diario Oficial de fecha 6 de agosto de 2004; detallado según Plano Seccional de la Zona de Uso de Suelo Metropolitano, PS-U-M, aprobado por Decreto Alcaldicio N° 4.480 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda, PS-U-V. aprobado por Decreto Alcaldicio N° 4.483 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 1, PS-U-V1, aprobado por Decreto Alcaldicio N° 4.484 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 2, PS-U-V2, aprobado por Decreto Alcaldicio N° 4.485 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 3, PS-U-V3, aprobado por Decreto Alcaldicio N° 4.486 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda y Oficina, PS-U-VO, aprobado por Decreto Alcaldicio N° 4.482 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 1, PS-U-C1, aprobado por Decreto Alcaldicio N° 4.474 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 2, PS-U-C2, aprobado por Decreto Alcaldicio N° 4.475 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 3, PS-U-C3, aprobado por Decreto Alcaldicio N° 4.476 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 1, PS-U-Ee1, aprobado por Decreto Alcaldicio N°4.477 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 2, PS-U-Ee2, aprobado por Decreto Alcaldicio N° 4.478 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 5, PS-U-Ee5, aprobado por Decreto Alcaldicio N° 4.479 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado según Plano Seccional de Vialidad, PS-V-01, aprobado por Decreto Alcaldicio N° 4.481 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 2 de enero de 2005; modificado según Modificación N° 4, promulgada según Decreto Alcaldicio N° 3.193, de fecha 25 de junio de 2007, publicado en Diario Oficial de fecha 2 de agosto de 2007; detallado según Plano Seccional "Centro Comercial Mall Plaza", PS-Ee1 y PS-UEe1, aprobado por Decreto Alcaldicio N° 2.974 Secc. 1°, de fecha 5 de julio de 2007, publicado en Diario Oficial de fecha 13 de julio de 2007; detallado según Plano Seccional "Portal La Reina", PS-U-C2-PLR, aprobado por Decreto Alcaldicio N° 3.905 Secc. 1°, de fecha 13 de septiembre de 2007, publicado en Diario Oficial de fecha 20 de septiembre de 2007; detallado según Plano Seccion al "Nueva Las Condes", PS-UC2-NLC, aprobado por Decreto Alcaldicio N° 3.904 Secc. 1°, de fecha 13 de septiembre de 2007, publicado en Diario Oficial de fecha 20 de septiembre de 2007; detallado según Plano Seccional "Hermanos Cabot", PS-EAm4-HC, aprobado por Decreto Alcaldicio N° 1.071 Secc. 1°, de fecha 5 de febrero de 2008, publicado en Diario Oficial de fecha 8 de febrero de 2008; modificado según Modificación N° 7, promulgada según Decreto Alcaldicio N° 173, de fecha 11 de enero de 2010, publicado en Diario Oficial de fecha 19 de enero de 2010 , en el sentido de modificar aspectos técnicos de los planos y de la ordenanza que en este acto se aprueban.
+Modificase el Plan Regulador Comunal de Las Condes, aprobado por Resolución N° 8/95 del Gobierno Regional Metropolitano de Santiago, de fecha 30 de mayo de 1995, publicado en el Diario Oficial de fecha 13 de junio de 1995, modificado según Modificación N° 2, promulgada según Decreto Alcaldicio N° 3.218, de fecha 4 de diciembre de 2003, publicado en Diario Oficial de fecha 5 de diciembre de 2003; enmendado según Modificación N°3, promulgada según Decreto Alcaldicio N° 2.952, de fecha 30 de julio de 2004, publicado en Diario Oficial de fecha 6 de agosto de 2004; detallado según Plano Seccional de la Zona de Uso de Suelo Metropolitano, PS-U-M, aprobado por Decreto Alcaldicio N° 4.480 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda, PS-U-V. aprobado por Decreto Alcaldicio N° 4.483 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 1, PS-U-V1, aprobado por Decreto Alcaldicio N° 4.484 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 2, PS-U-V2, aprobado por Decreto Alcaldicio N° 4.485 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda 3, PS-U-V3, aprobado por Decreto Alcaldicio N° 4.486 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Vivienda y Oficina, PS-U-VO, aprobado por Decreto Alcaldicio N° 4.482 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 1, PS-U-C1, aprobado por Decreto Alcaldicio N° 4.474 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 2, PS-U-C2, aprobado por Decreto Alcaldicio N° 4.475 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Comercial 3, PS-U-C3, aprobado por Decreto Alcaldicio N° 4.476 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 1, PS-U-Ee1, aprobado por Decreto Alcaldicio N°4.477 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 2, PS-U-Ee2, aprobado por Decreto Alcaldicio N° 4.478 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de la Zona de Uso de Suelo Especial 5, PS-U-Ee5, aprobado por Decreto Alcaldicio N° 4.479 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; detallado según Plano Seccional de Vialidad, PS-V-01, aprobado por Decreto Alcaldicio N° 4.481 Secc. 1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial de fecha 3 de febrero de 2005; modificado según Modificación N° 4, promulgada según Decreto Alcaldicio N° 3.193, de fecha 25 de julio de 2007, publicado en Diario Oficial de fecha 2 de agosto de 2007; detallado según Plano Seccional "Centro Comercial Mall Plaza", PS-Ee1 y PS-UEe1, aprobado por Decreto Alcaldicio N° 2.974 Secc. 1°, de fecha 5 de julio de 2007, publicado en Diario Oficial de fecha 13 de julio de 2007; detallado según Plano Seccional "Portal La Reina", PS-U-C2-PLR, aprobado por Decreto Alcaldicio N° 3.905 Secc. 1°, de fecha 13 de septiembre de 2007, publicado en Diario Oficial de fecha 20 de septiembre de 2007; detallado según Plano Seccion al "Nueva Las Condes", PS-UC2-NLC, aprobado por Decreto Alcaldicio N° 3.904 Secc. 1°, de fecha 13 de septiembre de 2007, publicado en Diario Oficial de fecha 20 de septiembre de 2007; detallado según Plano Seccional "Hermanos Cabot", PS-EAm4-HC, aprobado por Decreto Alcaldicio N° 1.071 Secc. 1°, de fecha 5 de febrero de 2008, publicado en Diario Oficial de fecha 8 de febrero de 2008; modificado según Modificación N° 7, promulgada según Decreto Alcaldicio N° 173, de fecha 11 de enero de 2010, publicado en Diario Oficial de fecha 19 de enero de 2010 , en el sentido de modificar aspectos técnicos de los planos y de la ordenanza que en este acto se aprueban.
 
 A) Reemplázase la totalidad de los planos vigentes por los planos MPRCLC-2010, Plano N° 1, Plano de Edificación; Plano N° 2, Plano de Usos de Suelo; y Plano N° 3, Plano de Vialidad.
 
@@ -246,9 +246,9 @@ k) Elimínase la definición "Primer Piso".
 
 4. Reemplázase el artículo 9 por el siguiente:
 
-"Los antejardines mínimos no establecidos en los respectivos planos de loteo, ni en las disposiciones que se fijan sobre esta materia para las diferentes áreas de edificación, serán de 3,0 m para pasajes o calles de menos de 15 m entre líneas oficiales, incluidos los predios que enfrentan plazoletas o áreas verdes que formen parte de dichas vías, y de 5,0 m en los demás casos.
+"Los antejardines mínimos no establecidos en los respectivos planos de loteo, ni en las disposiciones que se fijan sobre esta materia para las diferentes áreas de edificación, serán de 3,0 m para pasajes, incluidos los predios que enfrentan plazoletas o áreas verdes, de 5,0 metros en los demás casos y el existente cuando se trate de ampliaciones de vivienda unifamiliar.
 
-No requerirán antejardín los proyectos de ampliación de viviendas o de equipamiento con subsidio estatal o municipal.
+Los proyectos con subsidio estatal o municipal, de viviendas, ampliación de viviendas y de equipamiento no requerirán de antejardín.
 
 En proyectos de equipamiento, sean éstos producto de cambio de destino o de una densificación, queda prohibido el uso del antejardín como estacionamiento o para exposición de productos.
 
@@ -372,6 +372,8 @@ a) Clase Comercio: 1 estacionamiento cada 25 m2 útiles.
 
 b) Clase Educación, Actividad Educación Superior: 1 estacionamiento cada 3 alumnos."
 
+c) Clase Servicios, Actividad de oficinas hasta 200 m2: 1 estacionamiento cada 30 m2.
+
 d) Reemplázase el encabezado del número 2, que pasa a ser número 3, por el siguiente:
 
 "Las edificaciones con destino de cultura o culto deberán cumplir los siguientes estándares:"
@@ -388,9 +390,7 @@ f) Modifícase el número 5, que pasa a ser número 6, en la siguiente forma:
 
 g) Reemplázase en el número 8 la expresión "del Departamento de Parques y Jardines de la Municipalidad" por "de la Dirección de Obras Municipales conforme al artículo 10".
 
-h) Reemplázase el texto del número 11 por el siguiente:
-
-"Para los efectos del presente artículo las circulaciones, bodegas y recintos de servicio no se contabilizarán como parte de la superficie útil construida a que se refiere el artículo 7.1.2.4. del P.R,M.S., aún cuando se trate de edificaciones no acogidas a copropiedad inmobiliaria."
+h) Eliminado.
 
 22. Modifícase el artículo 34 en lo siguiente:
 
@@ -401,6 +401,8 @@ b) Elimínase, a continuación del acápite "Los Monumentos Históricos y las Zo
 c) Agrégase en la lista de "Monumentos Históricos dentro del territorio comunal" la siguiente fila:
 
 "Casa en calle Asturias N° 400 D.S. N° 126 (09.07.10)"
+
+"Casa en camino Otoñal Nº 1218".
 
 d) Elimínase, a continuación del acápite "Los Inmuebles de Conservación Histórica y las Zonas de Conservación Histórica" el texto "graficadas en el Plano MRCLC-02, Plano N° 1 y Plano N° 2,"
 
@@ -424,7 +426,7 @@ b) Intercálase los siguientes incisos segundo y tercero:
 
 "Para los efectos de fijar las líneas de edificación los antejardines señalados en las tablas del presente artículo son variables, debiendo incrementarse la medida señalada en la respectiva tabla de acuerdo al siguiente detalle:
 
-Los proyectos de servicios municipales con destino equipamiento de la clase salud, educación o recreacional deportivo, podrán adicionar hasta un 0.3 a los coeficientes señalados en las tablas de densificación aplicables, previo informe favorable del Asesor Urbanista."
+Los proyectos de servicios municipales con destino equipamiento de la clase salud, educación o recreacional deportivo y de vivienda o ampliación de viviendas con subsidio municipal, podrán adicionar hasta un 0.3 a los coeficientes señalados en la tablas de densificación aplicables, previo informe favorable del Asesor Urbanista.
 
 c) En el inciso sexto, que pasa a ser octavo, reemplázase el punto final por un punto seguido y agregase el siguiente texto: "Se exceptúan de lo anterior los casos en que el predio residual no permite continuidad del volumen del nuevo proyecto de edificación con plantas de al menos 6 m de ancho debido a una medida insuficiente del deslinde común con el predio residual."
 
@@ -461,6 +463,10 @@ Las edificaciones colectivas de viviendas deberán cumplir las normas que se est
 d) En la tabla B) reemplazase la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento".
 
 e) Reemplázase la tabla C) por la siguiente:
+
+Los proyectos que se emplacen en el área delimitada por la Avda. Charles Hamilton por el norte, Avda. Francisco de Asís por el oriente, Avda. Francisco Bulnes Correa por el sur y Avda. República de Honduras, límite oriente de las áreas Ee3 y Ee1 y su prolongación hasta interceptar la Avda. Charles Hamilton por el límite del terreno de la Fundación Cultural Las Condes, se regirán por las normas señaladas en la siguiente tabla:
+
+Tabla C)
 
 f) En el inciso bajo la tabla C) reemplázase el punto final por una coma seguida de la oración "ni producir el aterrazamiento de las construcciones sobre la pendiente natural."
 
@@ -570,7 +576,7 @@ g) Reemplázase en el inciso tercero bajo la tabla D) la expresión: "En todos l
 
 a) En la tabla A) reemplázase la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento", la expresión "Plano loteo" por "Plano de loteo", y la expresión "Ordenanza General" por "O.G.U.C."
 
-b) En la tabla B) reemplázase la expresión "Antejardín mínimo" por "Antejardín" y la expresión "Distanciamiento a medianero" por "Distanciamiento":
+b) En la Tabla B) reemplázace la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento" y la expresión "Servicios Profesionales" por "Servicios".:
 
 c) Reemplázase en el inciso segundo bajo la tabla B) el texto "Toda edificación producto de un proyecto de densificación acogido a la Tabla B), deberá respetar un distanciamiento mínimo de 12,0 metros hacia los deslindes de los predios que pertenezcan parcialmente a las áreas de edificación E-Ab2 o E-Ab3, distancia que será medida desde el eje del deslinde y en todo el deslinde común." por el texto "Toda edificación producto de un proyecto de densificación acogido a la Tabla B), en el deslinde de contrafrente deberá respetar un distanciamiento de 12,0 metros con los predios que pertenezcan parcialmente a las áreas de edificación E-Ab2 o E-Ab3."
 
@@ -642,17 +648,17 @@ f) Elimínase la letra b) bajo la tabla C), pasando la letra c) a ser letra b).
 
 g) Intercálase a continuación de la letra b) bajo la tabla C), que pasa a ser letra B), los siguientes incisos:
 
-"En los predios que enfrentan Av. Andrés Bello, entre calle Tajamar y Av. Presidente Riesco se aplicará un antejardín de 12 m.
+"En los predios que enfrentan Av. Andrés Bello, entre calle Tajamar y Avda. Isidora Goyenechea se aplicará un antejardín de 12 m.
 
 Para la construcción continua en los predios que enfrentan las siguientes vías se aplicarán los siguientes antejardines:
 
-3 metros en calle Los Milagros, 4 metros en Av. Apoquindo, 6 metros en Avda. El Bosque, Avda. Isidora Goyenechea, Avda. El Golf, calles Nuestra Señora de los Ángeles, Alcántara y La Gloria."
+3 metros en calle Los Milagros, 4 metros en Av. Apoquindo, 6 metros en Avda. El Bosque, Avda. Isidora Goyenechea, Avda. El Golf, calles Nuestra Señora de los Ángeles, Alcántara, La Gloria y Noruega."
 
 h) Reemplázase en el inciso cuarto bajo la tabla C), que pasa a ser séptimo bajo la tabla C) , la expresión "un piso adicional sobre la altura máxima" por "un piso adicional de hasta 4 m sobre la altura máxima".
 
 i) Intercálase, a continuación del inciso cuarto bajo la tabla C), que pasa a ser séptimo bajo la tabla C), el siguiente nuevo inciso:
 
-"Los proyectos con destino de restaurant, cafetería o expendio y servicio de alimentos o bebidas, que no apliquen tabla de densificación, y que enfrentan Av. El Bosque excepcionalmente podrán construir un piso como construcción continua entre la línea de edificación y la línea oficial, sin aplicar a dicho piso la norma de antejardín. Los coeficientes aplicables al predio se entenderán incrementados para acoger dicha construcción."
+"Los proyectos con destino de restaurant, cafetería o expendio y servicio de alimentos o bebidas, que no apliquen tabla de densificación, y que enfrentan Avda. El Bosque o Avda. Isidora Goyenechea y que pertenecen a esta área, excepcionalmente podrán construir. un piso como construcción continua entre la línea de edificación y la línea oficial, sin aplicar a dicho piso la norma de antejardín. Los coeficientes aplicables al predio se entenderán incrementados para acoger dicha construcción."
 
 j) En la tabla D) reemplázase la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento", la expresión "metros" por "m de altura" en los dos casos de la columna de ocupación de suelo, la expresión "metros" por "m" en los dos otros casos, la expresión "plazas, galerías comerciales" por "plazas o galerías comerciales", e intercalase el vocablo "o" entre la expresión "Aislado Pareado".
 
@@ -744,7 +750,7 @@ d) Incorpórase en la lista C), en el orden alfabético que corresponda, los sig
 
 . Iglesia y Monasterio Benedictino, en parte del Cerro Los Piques
 
-e) En la tabla A) reemplázase la expresión "Antejardín mínimo" por "Antejardín" y la expresión "Distanciamiento a medianero" por "Distanciamiento".
+e) En la Tabla A reemplázace la expresión "Antejardín mínimo" por "Antejardín" y la expresión "Distanciamiento a medianero", por "Distanciamiento". En el párrafo que precede a la Tabla A elimínase la expresión "y que enfrenten o colinden con las áreas de edificación EAb o especial". En el inciso ubicado a continuación de la Tabla A, después del punto seguido, elimínase la expresión "Con todo, a.".
 
 f) En la tabla B) reemplázase la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento", la expresión "metros" por "m" en las cinco ocasiones, y la expresión "70° sobre 14 metros" por "70°".
 
@@ -790,7 +796,7 @@ d3) Incorpórese a continuación la nueva nota "En vías colectoras o superior s
 
 e) En el cuadro de la zona U-V:
 
-e1) Reemplázase en la segunda nota bajo el cuadro la palabra "Incorpórese" por "Se admite".
+e1) Agrégase en la primera nota bajo el cuadro a continuación del texto "en edificaciones nuevas", la expresión "con una superficie máxima edificada de 290 m2.". Asimismo, reemplázase en la segunda nota bajo el Cuadro de Usos de Suelo Zona U-V, la palabra "Incorpórese" por "Se admite".
 
 e2) Reemplázase el punto final de la segunda nota bajo el cuadro por un punto seguido del siguiente texto: "En cada caso, para las condiciones de edificación deberán optar por una de las tablas del área respectiva."
 
@@ -810,7 +816,7 @@ f2) Incorpórese al pie del cuadro la siguiente nueva nota:
 
 g) En el cuadro de la zona U-V2:
 
-g1) En la fila correspondiente a la clase "Salud", elimínase la palabra "Dispensarios." en las cinco ocasiones.
+g1) En la fila correspondiente a la clase "Salud", elimínase la palabra "Dispensarios." en las cinco ocasiones. En la fila correspondiente a la clase "Educación", reemplázase para todas las vías en la columna correspondiente a las Condiciones, la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones. En la letra g2) agrégase continuación del punto final lo siguiente: para la misma clase "Comercio" actividad "Servicios Artesanales" en la columna correspondiente a "Actividad", agrégase a continuación de la expresión "servicios automotrices", la frase "y locales destinados a venta de comida envasada."
 
 g2) En la fila correspondiente a la clase "Comercio" actividad "Locales Comerciales" elimínase el segundo inciso de la columna de condiciones para "Vía Colectora" e incorpórase en la columna de condiciones para "Vía Troncal" el siguiente inciso segundo: "Para predios que enfrentan Avda. Colón, en cambio de destino de vivienda, en edificación aislada con una superficie máxima de 300 m² (1)"
 
@@ -824,7 +830,7 @@ h) En el cuadro de la zona U-V3:
 
 h1) En la fila correspondiente a la clase "Salud", eliminase la palabra "Dispensarios." en las cinco ocasiones.
 
-h2) En la fila correspondiente a la clase "Educación", actividad "Parvularios Jardines Infantiles", agrégase la palabra "Sólo" al inicio del texto de la columna condiciones correspondiente a Vía de Servicio.
+h2) En la fila correspondiente a la clase "Educación", actividad "Parvularios Jardines Infantiles", agrégase la palabra "Sólo" al inicio del texto de la columna condiciones correspondiente a Vía de Servicio y reemplázase para todas las vías la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones.
 
 h3) Reemplázase las columnas de "Actividad" en la primera fila de la clase "Servicios" por las siguientes:
 
@@ -832,7 +838,7 @@ i) En el cuadro de la zona U-VO:
 
 i1) En la fila correspondiente a la clase "Salud", elimínase la palabra "Dispensarios." en las cinco ocasiones.
 
-i2) En la fila correspondiente a la clase "Educación", reemplázase la expresión "superficie máxima construida" por "Superficie edificada máxima" en las cinco ocasiones.
+i2) En la fila correspondiente a la clase "Educación", reemplázase la expresión "superficie máxima construida de 500 m2", "por superficie edificada máxima de 290 m2.", en las cinco ocasiones.
 
 i3) En la fila correspondiente a la clase "Educación", actividad "Pre-básica, Básica, Media, Superior", reemplázase el punto final de las columnas de condiciones por una coma y agregase el texto "entre vías colectoras o superior." en las cinco ocasiones.
 
@@ -860,7 +866,7 @@ j3) En la fila correspondiente a la clase "Educación", actividad "Media. Superi
 
 j4) En la fila correspondiente a la clase Comercio, actividad "Fuentes de Soda. Supermercados. Grandes Tiendas.", intercálase en las columnas de actividad la expresión "Cafeterías." a continuación de "Fuentes de Soda.", en las cinco ocasiones.
 
-j5) En la fila correspondiente a la clase Comercio, actividad "Restaurantes. Centros Comerciales. Estaciones o Centros de Servicio Automotor.", en las columnas de condiciones incorpórase un numero (1) relativo al siguiente pie de página: "(1) Exhibición o venta de vehículos solo al interior de la edificación."
+j5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", "Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
 
 j6) Reemplázase la fila correspondiente a la clase "Servicios", actividad "Oficinas en general. (abogados, médicos, dentistas...)" por la siguiente:
 
@@ -880,9 +886,11 @@ k3) En la fila correspondiente a la clase "Educación", actividad "Educación Su
 
 k4) En la fila correspondiente a la clase Comercio, actividad "Locales Comerciales. Fuentes de Soda.", intercálase en las columnas de actividad la expresión "Cafeterías." a continuación de "Fuentes de Soda.", en las cinco ocasiones.
 
-k5) En la fila correspondiente a la clase Comercio, actividad "Centros Comerciales. Estaciones o Centros de Servicio Automotor.", en las columnas de condiciones incorpórase un numero (1) relativo al siguiente pie de página: "(1) Exhibición o venta de vehículos solo al interior de la edificación."
+k5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", " Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
 
-k6) Reemplázase la fila correspondiente a la clase "Servicios", actividad "Oficinas en general. (abogados, médicos, dentistas...) Bancos. Notarías. AFP. Isapres." por la siguiente:
+k6) Reemplázace la fila correspondiente a la clase "Servicios", actividad "Oficinas en general (abogados, médicos, dentistas...) Bancos, Notarías, AFP. Isapres." por las siguientes filas:
+
+.
 
 k7) Elimínase en la fila correspondiente al uso "Actividades Productivas", en las columnas referentes a "Actividad" la palabra "vehículos" y la coma que la antecede, en las cinco ocasiones.
 
@@ -892,17 +900,19 @@ l) En el cuadro de la zona U-C3:
 
 12) En la fila correspondiente a la clase "Educación", actividad "Media" reemplázase el punto final de las columnas de condiciones por una coma y agrégase el texto "entre vías colectoras o superior.", en las cinco ocasiones.
 
-13) En la fila correspondiente a la clase Comercio, actividad "Fuentes de Soda.", intercálase en las columnas de actividad la expresión "Cafeterías." a continuación de "Fuentes de Soda.", en las cinco ocasiones.
+l3) en la fila correspondiente a la clase "Social", elimínase "en locales de escala básica", tanto para la vía local como de servicio.
 
-14) En la fila correspondiente a la clase Comercio, actividad "Centros Comerciales. Estaciones o Centros de Servicio Automotor.", en las columnas de condiciones incorporase un numero (1) relativo al siguiente pie de página: "(1) Exhibición o venta de vehículos solo al interior de la edificación."
+14) En la fila correspondiente a la clase Comercio, actividad "Fuentes de Soda.", intercálase en las columnas de actividad la expresión "Cafeterías." a continuación de "Fuentes de Soda.", en las cinco ocasiones.
 
-15) Reemplázase la fila correspondiente a la clase "Servicios", actividad "Oficinas." por la siguiente:
+15) En la fila correspondiente a la clase Comercio, actividad "Centros Comerciales. Estaciones o Centros de Servicio Automotor.", en las columnas de condiciones incorporase un numero (1) relativo al siguiente pie de página: "(1) Exhibición o venta de vehículos solo al interior de la edificación."
 
-16) En la columna correspondiente a tipos de uso de suelo, en la celda vecina a la clase "Servicios", reemplázase la mención "Infraestructura" por "Equipamiento".
+16) Reemplázase la fila correspondiente a la clase "Servicios", actividad "Oficinas." por la siguiente:
 
-17) En la fila correspondiente a la clase "Servicios", actividad "Bancos. Notarías. AFP. Isapres", reemplázase la expresión "Bancos. Notarías. AFP. Isapres" por "Oficinas en general".
+17) En la columna correspondiente a tipos de uso de suelo, en la celda vecina a la clase "Servicios", reemplázase la mención "Infraestructura" por "Equipamiento".
 
-18) Elimínase en la fila correspondiente al uso "Actividades Productivas", en las columnas referentes a "Actividad" la palabra "vehículos" y la coma que la antecede, en las cinco ocasiones.
+18) En la fila correspondiente a la clase "Servicios", actividad "Bancos. Notarías. AFP. Isapres", reemplázase la expresión "Bancos. Notarías. AFP. Isapres" por "Oficinas en general".
+
+19) Elimínase en la fila correspondiente al uso "Actividades Productivas", en las columnas referentes a "Actividad" la palabra "vehículos" y la coma que la antecede, en las cinco ocasiones.
 
 m) En el cuadro de la zona U-Ee1:
 
@@ -926,9 +936,9 @@ o2) En la fila correspondiente a la clase "Servicios", actividad "Oficinas Profe
 
 p) Incorpórase a continuación del inciso final los siguientes nuevos incisos:
 
-"En los centros comerciales se admitirán como actividades complementarias al interior de la edificación: oficinas en general, servicios artesanales, y el destino de culto y cultura en cualquiera de sus actividades. Asimismo, se entenderán incluidas las actividades de restaurantes, fuentes de soda y cafeterías.
+"En los centros comerciales se admitirán como actividades complementarias al interior de la edificación: oficinas en general, servicios artesanales, gimnasio, y el destino de culto y cultura. en cualquiera de sus actividades. Asimismo, se entenderán incluidas las actividades de restaurantes, fuentes de soda y cafeterías.
 
-En el tipo de uso "comercio", actividad "locales comerciales" se entenderán admitidos supermercados cuya sala de venta no supere 300 m2.
+En el tipo de uso "comercio", actividad "locales comerciales" se entenderán admitidos minimercados cuya sala de venta no supere 300 m2.
 
 En el tipo de uso "residencial", actividad "hogares de acogida", se entenderán admitidas las clínicas psiquiátricas en predios que enfrenten una vía colectora o superior."
 
@@ -990,7 +1000,7 @@ En las zonas U-V1, U-V2 Y U-V3, las ampliaciones de edificaciones con cambio de 
 
 a) Reemplázase en el inciso primero el texto "plano MRCLC-02, lámina N° 2" por "plano MPRCLC-2010, Plano N° 2, de Usos de Suelo".
 
-b) Reemplázase el encabezado del inciso segundo por el siguiente: "Los predios que enfrenten las calles Martín de Zamora, Los Pozos, Martín Alonso Pinzón, Vasco de Gama, Vaticano, Nevería, acera sur, entre el Estadio Español y el límite oriente de la zona U-VO "Américo Vespucio", Alicante, Renato Sánchez, Nuestra Señora de los Ángeles, Estoril, vereda poniente, entre Paul Harris y calle Los Gladiolos, según se grafica en el plano MPRCLC-2010, Plano N° 2, de Usos de Suelo y que pertenezcan a la zona de uso de suelo U-V1 o U-V2, podrán destinar la vivienda existente a servicios profesionales. Adicionalmente aquellos predios que se emplacen en las siguientes calles y avenidas, en la profundidad correspondiente a los deslindes prediales existentes, podrán optar al uso de suelo U-VO:".
+b) Reemplázase el encabezado del inciso segundo por el siguiente: "Los predios que enfrenten las calles Martín de Zamora, Los Pozos, Martín Alonso Pinzón, Vasco de Gama, Vaticano, Nevería, acera sur, entre el Estadio Español y el límite oriente de la zona U-VO "Américo Vespucio", Alicante, Renato Sánchez, Nuestra Señora de los Ángeles, Estoril, vereda poniente, entre Paul Harris y calle Los Gladiolos, y aquellas otras vías graficadas en el plano MPRCLC-2010, Plano N° 2, de Usos de Suelo y que pertenezcan a la zona de uso de suelo U-V1 o U-V2, podrán destinar la vivienda existente a oficinas sin afluencia de público. Adicionalmente aquellos predios que se emplacen en las siguientes calles y avenidas, en la profundidad correspondiente a los deslindes prediales existentes, podrán optar al uso de suelo U-VO:".
 
 c) Reemplázase en el inciso segundo el punto final de la letra D) por una coma y agregase el texto "solo para construcciones que no requieran más de 50 estacionamientos."
 
@@ -1002,7 +1012,7 @@ d2) En el cuadro a continuación del párrafo segundo elimínase la celda superi
 
 e) Reemplázase el punto final del inciso cuarto por un punto seguido y agregase el siguiente texto: "Asimismo, se autorizarán al interior de centros comerciales de más de 5.000 m2 edificados siempre que dichas actividades no ocupen más del 10% de la superficie edificada total del centro comercial."
 
-f) Reemplázase en el inciso sexto la expresión "con el giro de Oficinas Comerciales" por "con la actividad de Oficinas en general".
+f) Intercálase en el inciso sexto, a continuación de la expresión "podrán optar", la frase "con ocupación de suelo máxima de 0.4, un coeficiente de constructibilidad de 0.6 y altura máxima de 3 pisos o 10,50 metros," y reemplázase la expresión "con el giro de Oficinas Comerciales" por la frase, "con la actividad de: Oficinas en General," y elimínase la expresión "siempre y cuando mantengan las características de la edificación existente" a continuación de la coma, que se transforma en punto final.
 
 g) Reemplázase en el inciso séptimo la mención "calle Manquehue" por "Avda. Manquehue" y la expresión "en los giros" por "en las actividades".
 
@@ -1065,6 +1075,18 @@ g2) En el listado de intersecciones reemplázase la mención "Colón" por "Av. C
 33. Reemplázase el artículo 46 por el siguiente:
 
 "Los estudios de impacto sobre el sistema de transporte urbano a que se refiere el Artículo 2.4.3. de la Ordenanza General de Urbanismo y Construcciones y los estudios de impacto sobre el barrio o la estructura urbanística y ambiental a que se refiere el artículo 4.5.4. de la misma Ordenanza, deben considerar como ámbito del estudio, además de los aspectos técnicos y urbanísticos involucrados, la relación con la red vial estructurante definida en el Artículo 45 de la presente Ordenanza." "
+
+> **Nota.** El numeral numero 1º, 1.7, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 25 en el sentido de rectificar el cuadro de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 El numeral numero 1º, 1.8, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 25 en el sentido de rectificar el cuadro de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 El numeral numero 1º, 1.9, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 25 en el sentido de rectificar el cuadro de la manera que la citada norma indica.
+
+> **Nota.** NOTA 3 El numeral numero 1º, 21, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 27 en el sentido de modificar el cuadro de la manera que la citada norma indica.
+
+> **Nota.** NOTA 4 El numeral numero 1º, 29, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 32 en el sentido de reemplazar los cuadros de la manera que la citada norma indica.
+
+> **Nota.** NOTA 5 El numeral numero 1º, 30, del Decreto 966, M. de Las Condes, publicado el 21.03.2014, modifica el numeral 32 en el sentido de reemplazar los cuadros de la manera que la citada norma indica.
 
 3. Desígnase al Departamento de Asesoría Urbana, para mantener archivo del expediente técnico y copia de la Memoria Explicativa, Planos que grafican la ordenanza y texto aprobatorio, con el objeto de que la comunidad pueda obtener esta documentación.
 
