@@ -1,34 +1,32 @@
-ESTABLECE ELEMENTOS DE ENSEÑANZA Y MATERIAL DIDÁCTICO MÍNIMOS CON QUE DEBEN CONTAR LOS ESTABLECIMIENTOS EDUCACIONALES PARA OBTENER Y MANTENER EL RECONOCIMIENTO OFICIAL DEL ESTADO
+MODIFICA DECRETO Nº 53, DE 2011, QUE ESTABLECE ELEMENTOS DE ENSEÑANZA Y MATERIAL DIDÁCTICO MÍNIMOS CON QUE DEBEN CONTAR LOS ESTABLECIMIENTOS EDUCACIONALES PARA OBTENER Y MANTENER EL RECONOCIMIENTO OFICIAL DEL ESTADO
 
-Núm. 53.- Santiago, 28 de enero de 2011.- Considerando:
+Núm. 83.- Santiago, 5 de febrero de 2014.- Considerando:
 
-Que, el Ministerio de Educación es la Secretaría de Estado encargada de la supervisión técnico-pedagógica de los establecimientos educacionales reconocidos oficialmente;
+Que el Ministerio de Educación es la Secretaría de Estado encargada de la supervisión técnico-pedagógica de los establecimientos educacionales reconocidos oficialmente por el Estado;
 
-Que, de acuerdo a lo dispuesto por el DFL Nº 2, de 2009, del Ministerio de Educación, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 20.370 con las normas no derogadas del DFL Nº 1, de 2005 de ese Ministerio, en su artículo 46 letra j), se establece que uno de los requisitos para obtener y mantener la calidad de establecimiento reconocido por el Estado, es aquel relacionado con la necesidad de contar con los elementos de enseñanza y material didáctico mínimo adecuado al nivel y modalidad de enseñanza que imparta el establecimiento educacional, y que el inciso final del mismo artículo indica que los requisitos serán reglamentados mediante decreto supremo del Ministerio de Educación;
+Que de acuerdo a lo prescrito en el artículo 46 letra j) del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370, con las normas no derogadas del DFL Nº 1, de 2005, uno de los requisitos con que debe cumplir un establecimiento educacional para obtener y mantener el reconocimiento oficial del Estado es contar con los elementos de enseñanza y material didáctico mínimo adecuado al nivel y modalidad de enseñanza que imparta el establecimiento educacional;
 
-Que, mediante las resoluciones exentas Nº 1.841 y Nº 1.842, ambas de 1983 del Ministerio de Educación, se establecieron los elementos de enseñanza y material didáctico para la educación parvularia, básica y diferencial, y para la enseñanza media humanístico-científica, respectivamente;
+Que el inciso final del artículo recién citado establece que los requisitos contemplados en dicho artículo serán reglamentados mediante decreto supremo del Ministerio de Educación;
 
-Que, el decreto supremo Nº 254, de 2009, del Ministerio de Educación, que modifica el decreto supremo Nº 220, de 1998 del mismo Ministerio, contempló dentro de su regulación, los elementos de enseñanza y material didáctico mínimo para la Educación Media Técnico-Profesional;
+Que en este contexto, mediante el decreto Nº 53, de 2011, del Ministerio de Educación, se establecieron los elementos de enseñanza y material didáctico mínimos con que deben contar los establecimientos educacionales para obtener y mantener el reconocimiento oficial del Estado;
 
-Que, en razón de lo anterior, es necesario dictar el respectivo decreto supremo que fije los elementos de enseñanza y material didáctico mínimo para cada nivel de enseñanza; y
+Que en la actualidad resulta necesario modificar algunos de los requerimientos exigidos a los establecimientos educacionales de enseñanza parvularia, básica y media del país, de manera de ajustar la normativa a las necesidades de los educadores y estudiantes, asegurando la eficacia pedagógica de los elementos que conforman el material didáctico, y
 
-Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; el DFL Nº 2, de 2009, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370 con las normas no derogadas del DFL Nº 1, de 2005, ambos del Ministerio de Educación; la Ley Nº 18.956 que reestructura el Ministerio de Educación Pública; el decreto supremo Nº 254, de 2009 del Ministerio de Educación; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República;
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la ley Nº 18.956, que reestructura el Ministerio de Educación Pública; en el decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370, con las normas no derogadas del DFL Nº 1, de 2005, del Ministerio de Educación; en el decreto supremo Nº 53, de 2011, del Ministerio de Educación, que establece elementos de enseñanza y material didáctico mínimos con que deben contar los establecimientos educacionales para obtener y mantener el reconocimiento oficial del Estado; en el decreto Nº 254, de 2009, del Ministerio de Educación, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República,
 
 Decreto:
 
-#### Artículo 1º
+#### Artículo único
 
-Declárase que los elementos contenidos en este decreto son los elementos de enseñanza y material didáctico mínimos para la Educación Parvularia, Básica y Media Humanístico-Científica, con que deberán contar los establecimientos educacionales para obtener y mantener el reconocimiento oficial.
+Introdúcense las siguientes modificaciones al decreto supremo Nº 53, de 2011, del Ministerio de Educación:
 
-Para la Educación Media Técnico-Profesional regirán los elementos de enseñanza y material didáctico mínimos contemplados en el decreto supremo Nº 254, de 2009, del Ministerio de Educación.
+1.- Elimínase en el artículo 1º la locución "el Anexo de".
 
-#### Artículo 2º
+2.- Derógase el artículo 2º, pasando el actual artículo 3º a ser 2º.
 
-Las exigencias de elementos de enseñanza y material didáctico mínimos que se establecen en el presente decreto se harán exigibles a los sostenedores a contar de su publicación.
+3.- Reemplázase en el artículo 4º, que ha pasado a ser 3º, la frase "las resoluciones exentas Nº 1.841 y Nº 1.842, ambas de 1983" por "el decreto Nº 53, de 2011"; sustitúyase, a continuación de la palabra "escolar", el número "2011" por "2013", y reemplázase, a continuación de la palabra "artículo", el número "1º" por "4º".
 
-#### Artículo 3º
-
-Los establecimientos educacionales que a la fecha de la publicación de este decreto, cuenten con reconocimiento oficial y aquellos cuya solicitud se encuentre pendiente o en trámite, incluyendo las solicitudes para crear un nivel o una modalidad educativa diferente, seguirán rigiéndose por lo dispuesto en el decreto Nº 53, de 2011, del Ministerio de Educación, hasta el término del año escolar 2013, fecha después de la cual será totalmente aplicable lo dispuesto en el artículo 4º del presente decreto.
+4.- Agrégase el siguiente artículo 4º nuevo:
 
 #### Artículo 4º
 
@@ -262,6 +260,8 @@ Además del material tecnológico para uso dentro del CRA, el establecimiento de
 
 .
 
+5.- Introdúcese el siguiente artículo 5º nuevo:
+
 #### Artículo 5º
 
 Cuando el establecimiento imparta más de un nivel educativo podrá compartir los siguientes elementos:
@@ -272,14 +272,16 @@ Cuando el establecimiento imparta más de un nivel educativo podrá compartir lo
 
 - Material de reproducción.
 
-En el caso específico en que se atienda a alumnos de niveles de Educación Básica y Media, además de los elementos descritos en el inciso anterior, el establecimiento podrá compartir: la colección de recursos y libros, siempre que existan suficientes libros contemplados para todos los segmentos de edad, y los elementos para las asignaturas de: educación física, tecnología, música e idioma extranjero.
+En el caso específico en que se atienda a alumnos de niveles de Educación Básica y Media, además de los elementos descritos en el inciso anterior, el establecimiento podrá compartir: la colección de recursos y libros, siempre que existan suficientes libros contemplados para todos los segmentos de edad, y los elementos para las asignaturas de: educación física, tecnología, música e idioma extranjero.".
+
+6.- Agrégase el siguiente artículo 6º nuevo:
 
 #### Artículo 6º
 
-En relación al material que no constituye biblioteca, se considerará como cantidad suficiente aquella que permita a los alumnos realizar actividades, considerando el número de la matrícula del establecimiento, los niveles que se imparten y los cursos en los que se reparten los estudiantes.
+En relación al material que no constituye biblioteca, se considerará como cantidad suficiente aquella que permita a los alumnos realizar actividades, considerando el número de la matrícula del establecimiento, los niveles que se imparten y los cursos en los que se reparten los estudiantes.".
 
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
+7.- Elimínase el Anexo del decreto.
 
-Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Fernando Rojas Ochagavía, Subsecretario de Educación.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Fernando Rojas Ochagavía, Ministro de Educación (S).
 
-Anexo Eliminado
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Magdalena Kuzmanich Ávila, Subsecretaria de Educación (S).
