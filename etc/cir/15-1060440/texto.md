@@ -1,0 +1,7 @@
+ACLARA Y PRECISA LA VIGENCIA DE LAS INSTRUCCIONES CONTENIDAS EN LA CIRCULAR Nº 13, DEL 7 DE MARZO DE 2014, SOBRE LOS REQUISITOS QUE DEBEN CUMPLIR LOS APORTES A UNA SOCIEDAD DE PERSONAS PARA QUE PUEDAN CONSTITUIR UNA REINVERSIÓN DE UTILIDADES EN LOS TÉRMINOS QUE ESTABLECE EL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 15, de fecha 17 de marzo de 2014, la cual tiene por objeto aclarar y precisar la vigencia de las instrucciones contenidas en la Circular Nº 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sobre Impuesto a la Renta.
+
+Las instrucciones contenidas en la presente Circular rigen a contar de la fecha de vigencia de la Circular Nº 13, del 7 de marzo de 2014; esto es, a contar de la publicación en extracto de esta última en el Diario Oficial, lo que ocurrió el día 12 del mismo mes.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de marzo de 2014.
