@@ -260,11 +260,13 @@ Los alumnos de los cursos de especialización, perfeccionamiento u otros, que ha
 
 #### Artículo 20°
 
-Los cursos de Aspirantes a Oficiales con la especialización de Orden y Seguridad de los Escalafones Masculino y Femenino, están destinados a la formación policial, profesional, científica y técnica de los Oficiales de la Institución y su duración mínima será de 3 años.
+Los cursos de formación de Oficiales de Orden y Seguridad e Intendencia, están destinados al desarrollo profesional, policial, científico y técnico de los Aspirantes a Oficiales, y tendrán una duración no inferior a ocho semestres académicos.
+
+Los Subtenientes de Fila serán nombrados exclusivamente de entre los Aspirantes a Oficiales egresados de la Escuela de Carabineros que hayan aprobado el curso correspondiente y recibirán el título profesional de "Oficial de Orden y Seguridad, Administrador de Seguridad Pública" u "Oficial de Intendencia, Administrador de Contabilidad y Finanzas Públicas", según corresponda.
 
 #### Artículo 21°
 
-Los Cursos de Aspirantes a Oficiales de Intendencia están destinados esencialmente a la formación de Oficiales en dicha especialidad y su duración será la misma del artículo anterior.
+Derogado.
 
 #### Artículo 22°
 
