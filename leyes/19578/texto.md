@@ -334,7 +334,9 @@ b) La suma equivalente a la diferencia positiva, si la hubiera, entre el GPE y e
 
 c) La cantidad equivalente a 0,25% del IC mensual definido en el artículo 22 de esta ley.
 
-La obligación de la Mutualidad de destinar recursos al Fondo de Contingencia, subsistirá hasta que complete la suma equivalente al monto que resulte mayor entre el 100% del Gasto Ajustado de Pensiones del año anterior y el valor del Fondo de Contingencia al 31 de diciembre del año anterior, obligación que se restablecerá cada vez que el Fondo represente un monto inferior al indicado.
+La obligación de la Mutualidad de destinar recursos al Fondo de Contingencia, subsistirá hasta que complete la suma equivalente al Valor Actual de las Obligaciones por Incrementos Extraordinarios otorgados a las pensiones y beneficios pecuniarios extraordinarios concedidos a los pensionados, obligación que se restablecerá cada vez que el Fondo represente un monto inferior al indicado. En todo caso, el límite precedentemente citado no puede ser inferior al Valor del Fondo de Contingencia al 31 de diciembre del año anterior.
+
+El valor actual de dichas obligaciones deberá ser determinado y revisado, al menos, una vez al año por la Superintendencia de Seguridad Social.
 
 2. Los activos representativos del Fondo de Contingencia, deberán estar constituidos exclusivamente por los instrumentos financieros señalados en las letras a), b), c), d), e) y k) del artículo 45 del decreto ley Nº 3.500, de 1980, conforme a las instrucciones que imparta al efecto la Superintendencia de Seguridad Social.
 
@@ -342,7 +344,7 @@ La obligación de la Mutualidad de destinar recursos al Fondo de Contingencia, s
 
 a) Pagar mejoramientos extraordinarios de pensiones y beneficios pecuniarios extraordinarios para los pensionados, y
 
-b) Financiar la formación de activos representativos de incrementos de la reserva de pensiones a que se refiere el artículo 20 de la ley N° 16.744, originado en la obligación de aumentar dicha reserva como consecuencia de mejoramientos extraordinarios otorgados a sus pensionados durante el eño.
+b) Financiar la formación de activos representativos de incrementos de la reserva de pensiones a que se refiere el artículo 20 de la ley N° 16.744, originado en la obligación de aumentar dicha reserva como consecuencia de mejoramientos extraordinarios otorgados a sus pensionados durante el año.
 
 B.- Composición de Activos Representativos
 
@@ -352,9 +354,9 @@ a) Los recursos definidos en el número 1 de la letra A de este artículo, cada 
 
 b) El traspaso de activos representativos del Fondo de Contingencia en el caso previsto en la letra b) del número 3 de la letra A precedente.
 
-La obligación de cada Mutualidad de destinar recursos a la adquisición de estos activos, subsistirá hasta que complete una suma equivalente al 40% del monto de la reserva de pensiones al 31 de diciembre del año anterior, obligación que se restablecerá cada vez que los activos citados representen un porcentaje inferior al indicado.
+La obligación de cada Mutualidad de destinar recursos a la adquisición de estos activos, subsistirá hasta que complete una suma equivalente al 100% del monto de la reserva de pensiones al 31 de diciembre del año anterior, obligación que se restablecerá cada vez que los activos citados representen un porcentaje inferior al indicado.
 
-2. Cada Mutualidad sólo podrá liquidar los activos representativos a que se refiere el número anterior en la medida que ellos excedan del 40% del monto de la reserva de pensiones al 31 de diciembre del año anterior. La liquidación de recursos sólo podrá llegar hasta la suma que resulte de restar al monto total pagado por concepto de pensiones por la Mutualidad durante el año respectivo, el monto total pagado por el mismo concepto durante el año 1997, y de multiplicar el resultado por la relación que representen, al término del año, la suma de los activos representativos de la reserva de pensiones invertidos en los instrumentos financieros a que se refiere el número 1 anterior, respecto del monto total de dicha reserva.
+2. Cada Mutualidad sólo podrá liquidar los activos representativos a que se refiere el número anterior en la medida que ellos excedan del 100% del monto de la reserva de pensiones al 31 de diciembre del año anterior. La liquidación de recursos sólo podrá llegar hasta la suma que resulte de restar al monto total pagado por concepto de pensiones por la Mutualidad durante el año respectivo, el monto total pagado por el mismo concepto durante el año 1997, y de multiplicar el resultado por la relación que representen, al término del año, la suma de los activos representativos de la reserva de pensiones invertidos en los instrumentos financieros a que se refiere el número 1 anterior, respecto del monto total de dicha reserva.
 
 Tratándose de Mutualidades que no hayan pagado pensiones durante 1997, para efectuar el cálculo previsto en el inciso anterior, se reemplazará el valor de dichas pensiones por la cifra que resulte de aplicar al monto total pagado por concepto de pensiones en el año por dicha Mutualidad, el promedio de las relaciones que represente el monto pagado en pensiones en 1997, respecto de su respectivo pago total de pensiones del año.
 
@@ -488,7 +490,7 @@ No podrán beneficiarse de lo establecido en este artículo los intereses proven
 
 #### Artículo sexto
 
-Establécese, a contar del 1º de septiembre de 1998 y hasta el 31 de marzo del año 2014, una cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
+Establécese, a contar del 1º de septiembre de 1998 y hasta el 31 de marzo del año 2017, una cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
 
 Las empresas que tienen la calidad de administradoras delegadas del citado seguro, enterarán la referida cotización, en su totalidad, en el Instituto de Normalización Previsional, conjuntamente con los aportes que deban realizar en éste conforme a la legislación vigente.
 
