@@ -528,7 +528,13 @@ g) Decidir sobre todas las otras materias que la presente ley encomienda a este 
 
 Para sesionar, y tomar acuerdos, el Consejo deberá contar con la presencia de la mayoría absoluta de sus miembros en ejercicio. Salvo que la ley exija un quórum distinto, sus acuerdos se adoptarán por simple mayoría. En caso de empate dirimirá el Director Nacional.
 
-El Consejo Nacional se reunirá, a lo menos, trimestralmente. Los miembros que no sean funcionarios públicos, percibirán una dieta por cada sesión a la que asistan equivalente a 3 unidades tributarias mensuales y la Corporación les cancelará pasajes y viáticos. Con todo no podrán percibir, dentro del trimestre, más de seis unidades tributarias mensuales.
+El Consejo Nacional se reunirá, a lo menos, trimestralmente. Los consejeros designados por el Presidente de la República de conformidad con lo establecido en el artículo 41 letra c), que no sean funcionarios públicos, y en la letra d) del mismo artículo, sean o no funcionarios públicos, percibirán una dieta mensual equivalente a diez unidades tributarias mensuales.
+
+Sin perjuicio de lo anterior, los consejeros señalados en el inciso precedente tendrán derecho a percibir una dieta adicional equivalente a tres unidades tributarias mensuales por concepto de asistencia a cada una de las sesiones del Consejo Nacional de la Corporación o de las comisiones de trabajo que se formen por acuerdo de dicho Consejo, la que se pagará conjuntamente con la dieta mensual que corresponda al mes respectivo.
+
+En todo caso, los consejeros señalados en el inciso segundo del presente artículo no podrán percibir mensualmente, por concepto de dietas indicadas precedentemente, una cantidad superior a 16 unidades tributarias mensuales.
+
+La Corporación pagará los correspondientes pasajes y viáticos cuando alguno de los consejeros mencionados en el inciso segundo desempeñe cometidos en virtud de un acuerdo celebrado por el Consejo.
 
 La inasistencia de los consejeros individualizados en la letra d) del artículo 41 a 3 sesiones, sin causa justificada a juicio del propio Consejo, producirá la cesación inmediata del consejero en su cargo. Su reemplazo se hará conforme a las normas del artículo 41 y por el tiempo que falte para completar el período.
 
@@ -964,6 +970,14 @@ c) Fomentar la riqueza cultural y arqueológica de Isla de Pascua;
 
 La Comisión de Desarrollo de Isla de Pascua estará integrada por un representante de los Ministerios de Planificación y Cooperación, Educación, Bienes Nacionales y Defensa Nacional; por un representante de la Corporación de Fomento de la Producción, otro de la Corporación Nacional Forestal y otro de la Corporación Nacional de Desarrollo Indígena; el Gobernador de Isla de Pascua; el Alcalde de Isla de Pascua, y por seis miembros de la comunidad rapa nui o pascuense elegidos de conformidad al reglamento que se dicte al efecto, uno de los cuales deberá ser el Presidente del Consejo de Ancianos. Presidirá esta Comisión el Gobernador y actuará como Secretario Técnico el Jefe de la Oficina de Asuntos Indígenas de Isla de Pascua.
 
+Los seis miembros electos de la Comisión de Desarrollo de Isla de Pascua gozarán de una dieta mensual equivalente a ocho unidades tributarias mensuales. Adicionalmente, la Corporación pagará los correspondientes pasajes y viáticos cuando cualquier miembro electo de la Comisión de Desarrollo de Isla de Pascua desempeñe cometidos en virtud de un acuerdo celebrado por la Comisión.
+
+Sin perjuicio de lo anterior, los comisionados señalados en el inciso precedente tendrán derecho a percibir una dieta adicional equivalente a dos unidades tributarias mensuales por concepto de asistencia a cada una de las sesiones de la Comisión de Desarrollo de Isla de Pascua o de las comisiones especiales de trabajo que se formen por acuerdo de dicha Comisión, la que se pagará conjuntamente con la dieta mensual que corresponda al mes respectivo.
+
+En todo caso, los comisionados señalados en el inciso segundo no podrán percibir mensualmente, por concepto de dietas indicadas precedentemente, una cantidad superior a 12 unidades tributarias mensuales.
+
+La inasistencia de los comisionados indígenas electos a 3 sesiones, sin causa justificada a juicio de la propia Comisión, producirá la cesación inmediata del comisionado en su cargo. Su reemplazo se hará conforme a las normas del reglamento y por el tiempo que falte para completar el período.
+
 > **Nota.** NOTA: 6 Ver DS 394, de MIDEPLAN, publicado en el Diario Oficial de 8 de Julio de 1994, que aprueba el Reglamento para la aplicación de los artículos 68 permanente y 12 transitorio de la presente ley.
 
 #### Artículo 69
@@ -1117,6 +1131,8 @@ El presupuesto de la Dirección de Bibliotecas, Archivos y Museos, para 1994 con
 #### Artículo 9°
 
 El mayor gasto fiscal que irrogue, durante el año 1993, la aplicación de esta ley se financiará con recursos provenientes del ítem 50-01-03-25-33.104 de la Partida Presupuestaria Tesoro Público, en la parte que no pudiere ser solventado mediante reasignaciones presupuestarias de otros Ministerios o Servicios Públicos. Para este solo efecto no regirá lo dispuesto en el inciso segundo del artículo 26 del decreto ley N° 1.263, de 1975.
+
+Para el año de entrada en vigencia de la ley, la dieta establecida en el artículo 43 para los Consejeros de la Corporación Nacional de Desarrollo Indígena designados por el Presidente de la República de conformidad con lo establecido en el artículo 41 letras c) y d), y para los seis Comisionados electos de la Comisión de Desarrollo de Isla de Pascua, establecida en el artículo 68, serán provistas por recursos especialmente asignados al efecto, y para los años siguientes, por los recursos que anualmente le asigne la Ley de Presupuestos del Sector Publico.
 
 #### Artículo 10
 
