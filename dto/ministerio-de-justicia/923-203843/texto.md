@@ -56,21 +56,7 @@ Corresponderá al Secretario Regional Ministerial de Justicia:
 
 3.- Sugerir al Ministro de Justicia, a través del Subsecretario de la Cartera, la adopción de medidas tendientes a satisfacer las necesidades de los Tribunales existentes en su jurisdicción;
 
-4.- La firma de las materias que a continuación se indican, anteponiendo la fórmula "Por orden del Presidente de la República":
-
-a) Nombramientos en carácter de titulares e interinos del personal de la 5ª y 6ª Categoría del Escalafón de Empleados del Poder Judicial e Inspectoras de Niñas de los Juzgados de Letras de Menores;
-
-b) Traslados, permutas dentro de la Región, declaración de vacancia y remoción del personal, indicado en el número anterior. Firmará los traslados el Secretario Regional Ministerial de la Región donde exista la vacante;
-
-c) Contrataciones del personal del Poder Judicial, que tenga remuneraciones asignadas a los grados XV al XXV de la Escala de Sueldos del Poder Judicial;
-
-d) Nombramientos en calidad de suplentes de empleados de la 2ª, 3ª y 4ª Serie del Escalafón Secundario del Personal del Poder Judicial;
-
-e) Nombramientos en calidad de suplentes de los Empleados del Escalafón de Empleados del Poder Judicial, excepto el de Oficial 1º de la Corte Suprema;
-
-f) Nombramientos en calidad de suplentes de los empleados de la Oficina de Presupuestos del Poder Judicial e Inspectoras de Niñas de los Juzgados de Letras de Menores, y
-
-g) Reconocimiento del derecho a percibir asignación de movilización y pérdida de caja al personal del Poder Judicial de la Región.
+4.- La firma de actos de nombramiento, en calidad de suplentes, de los funcionarios de la Cuarta y Quinta Serie y de los Bibliotecarios, del Escalafón Secundario del Poder Judicial, anteponiendo la fórmula "Por orden del Presidente de la República".
 
 ## Título IV
 

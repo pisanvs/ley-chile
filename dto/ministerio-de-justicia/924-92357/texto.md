@@ -10,95 +10,61 @@ Decreto:
 
 #### Artículo 1º
 
-Las materias que a continuación se señalan serán suscritas por las autoridades que se indican con la fórmula "Por orden del Presidente de la República": I. MINISTRO DE JUSTICIA
+Las materias que a continuación se señalan serán suscritas por las autoridades que se indican con la fórmula "Por orden del Presidente de la República":
 
-1.- En relación al Poder Judicial.
+### I. MINISTRO DE JUSTICIA
 
-1.1.- Nombramientos en calidad de interinos de
+1.- En relación al Poder Judicial:
 
-los empleados pertenecientes a la Tercera
+1.1.- Nombramientos en calidad de titulares y
 
-Categoría del Escalafón Primario, y en calidad
+remociones de los relatores de la Corte Suprema.
 
-de titulares e interinos de los empleados
+1.2.- Nombramientos en calidad de titulares,
 
-pertenecientes a la Cuarta, Quinta, Sexta, Séptima
+remociones y permutas de los funcionarios de la
 
-y Octava Categoría, del mismo Escalafón.
+Tercera, Cuarta, Quinta, Sexta y Séptima
 
-1.2.- Nombramiento en calidad de titulares e
+Categoría del Escalafón Primario.
 
-interinos y declaración de vacancia de los empleados
+1.3.- Nombramientos en calidad de interinos
 
-pertenecientes a la Segunda Tercera y Cuarta Categoría
+y suplentes, declaraciones de vacancia y
 
-de la Primera Serie y a las Primeras Categorías de la
+declaraciones de cese de funciones, de todos
 
-Segunda y Tercera Serie del Escalafón Secundario.
+los funcionarios del Escalafón Primario.
 
-1.3.- Nombramientos en carácter de titulares e
+1.4.- Nombramientos en calidad de titulares,
 
-interinos y declaración de vacancia de los empleados de
+remociones, declaraciones de vacancia, declaraciones de
 
-la Primera Categoría del Escalafón de Empleados del
+cese de funciones y permutas, de los funcionarios de la
 
-Poder Judicial.
+Segunda Serie del Escalafón Secundario.
 
-1.4.- Contrataciones del personal del Poder
-
-Judicial asimilados a los grados VI al IX de la Escala
-
-de Sueldos del Poder Judicial.
-
-1.5.- Traslados y Permutas del Personal indicado en
-
-los números 1.1, 1.2 y 1.3 que correspondan en
-
-conformidad al artículo 310 del Código Orgánico de
-
-Tribunales.
-
-1.6.- Remoción de los empleados indicados en el
-
-número anterior.
-
-1.7.- Nombramiento en calidad de suplente del
-
-Prosecretario de la Corte Suprema.
-
-1.8.- Suplencias de los funcionarios del Escalafón
-
-Primario con excepción de las dos Primeras Categorías y
-
-de los funcionarios de la Primera Serie del Escalafón
-
-Secundario.
-
-1.9.- Comisiones de Servicios del Personal del
-
-Poder Judicial que deban cumplirse dentro del país.
-
-1.10.- Fijación de aranceles a los funcionarios
+1.5.- Fijación de aranceles de los funcionarios
 
 auxiliares de la Administración de Justicia.
 
-1.11.- Creación de nuevas plazas de Notario,
+1.6.- Creación de nuevas plazas de Notario,
 
-Conservador, Archivero Judicial, Defensor Público,
+Conservador, Archivero Judicial, Defensor
 
-Receptor y Procurador del Número, fusión y separación de
+Público, Receptor y Procurador del Número,
 
-los cargos de Secretario y Notario y de Conservador y
+fusión y separación de los cargos de Secretario
 
-Archivero Judicial.
+y Notario y de Conservador y Archivero
 
-1.12.- Los permisos indicados en el Inciso
+Judicial, en conformidad a la ley.
 
-Segundo del artículo 478 del Código Orgánico de
+1.7.- Los permisos indicados en el inciso segundo
 
-Tribunales, cuyo otorgamiento corresponde al
+del artículo 478 del Código Orgánico de Tribunales,
 
-Presidente de la República.
+cuyo otorgamiento corresponde al Presidente de la República.
 
 2.- En relación con el Ministerio y los Servicios
 
@@ -184,15 +150,25 @@ Registro Civil e Identificación.
 
 3.- Otras materias:
 
-3.1.- Indultos de penas privativas y restrictivas
+3.1.- Otorgamiento y denegación de indultos
 
-de libertad y las accesorias correspondientes.
+particulares de penas principales y/o las accesorias
 
-Exceptúanse los indultos que recaigan en las penas de
+correspondientes.
 
-muerte, presidio perpetuo y en delitos contra la
+Exceptúase el otorgamiento de indultos
 
-seguridad del Estado.
+particulares que recaigan en las penas de
+
+muerte y presidio perpetuo, en delitos contra
+
+la seguridad del Estado, y en aquellos delitos
+
+contemplados en los artículos 3º y 16 de la
+
+ley Nº 20.000 y en los artículos 362 y 366
+
+bis del Código Penal.
 
 3.2.- Concesión, denegación y cancelación de
 
@@ -248,55 +224,29 @@ indulto general.
 
 1.- En relación al Poder Judicial:
 
-1.1.- Nombramientos en carácter de titulares o
+1.1.- Nombramientos en calidad de titulares
 
-interinos de los empleados pertenecientes a la Segunda,
+e interinos, remociones, permutas, declaraciones de
 
-Tercera y Cuarta Categoría de la Segunda, Tercera y
+vacancia y declaraciones de cese de funciones de
 
-Cuarta Serie del Escalafón Secundario del Poder
+los funcionarios de la Primera, Cuarta y Quinta
 
-Judicial.
+Serie y de los Bibliotecarios, del Escalafón
 
-1.2.- Nombramientos en carácter de titulares e
+Secundario.
 
-interinos de los funcionarios pertenecientes a la
+1.2.- Remociones, permutas, declaraciones de
 
-Segunda, Tercera y Cuarta Categoría del Escalafón de
+vacancia y declaraciones de cese de funciones de
 
-Empleados del Poder Judicial.
+los demás funcionarios del Escalafón Secundario
 
-1.3.- Nombramiento en carácter de titulares e
+y del Escalafón de Empleados, cuya firma no
 
-interinos del Personal de la Oficina de Presupuestos del
+corresponda a otra autoridad administrativa o
 
-Poder Judicial.
-
-1.4.- Contrataciones del Personal del Poder
-
-Judicial asimilados a los grados X al XIV de la Escala
-
-de Sueldos del Poder Judicial.
-
-1.5.- Traslados y permutas del personal indicado en
-
-los Nºs. 11, 12 y 13, que correspondan, en conformidad
-
-al artículo 310º del Código Orgánico de Tribunales y
-
-otras disposiciones legales y aquellas permutas, entre
-
-distintas Regiones, del personal de la Quinta y Sexta
-
-Categoría del Escalafón de Empleados del Poder Judicial.
-
-1.6.- Remoción y declaración de vacancia de los
-
-empleados indicados en los N.ºs 1.1, 1.2 y 1.3.
-
-1.7.- Nombramiento en calidad de suplente del
-
-oficial 1º de la Corte Suprema.
+judicial.
 
 2.- En relación con los Servicios del Sector:
 
