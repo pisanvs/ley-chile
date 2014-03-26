@@ -140,7 +140,7 @@ El bono a que se refiere el inciso anterior se pagará en el mes de mayo del añ
 
 No tendrán derecho a dicho bono quienes sean titulares de más de una pensión de cualquier tipo, incluido el seguro social de la ley Nº16.744, o de pensiones de gracia, salvo cuando éstas no excedan, en su conjunto, del valor de la pensión mínima de vejez del artículo 26 de la ley Nº15.386, para pensionados de 75 o más años de edad, a la fecha de pago del beneficio.
 
-Para efectos de lo dispuesto en el presente artículo, se considerará como parte de la respectiva pensión el monto que el pensionado perciba por concepto de aporte previsional solidario de vejez.
+Para efectos de lo dispuesto en el presente artículo, no se considerará como parte de la respectiva pensión el monto que el pensionado perciba por concepto de aporte previsional solidario de vejez.
 
 #### Artículo 21
 
