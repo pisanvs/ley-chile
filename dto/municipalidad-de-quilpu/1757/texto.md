@@ -1,0 +1,15 @@
+POSTERGA PERMISOS DE SUBDIVISIÓN, LOTEO O URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES QUE INDICA
+
+Núm. 1.757.- Quilpué, 17 de marzo de 2014.- Vistos: La Sesión Extraordinaria de Concejo Municipal de fecha 30 de marzo de 2012, en donde el Alcalde de Quilpué, el Cuerpo Colegiado de Concejales de Quilpué, el Seremi de Vivienda y Urbanismo, el Consejero Regional Sr. Manuel Millones Ch. y Representantes de la Asamblea Popular Quilpueína concordaron como solución para proteger el Sector Norte de Quilpué, en tanto se da término al Estudio Ambiental en ella, solicitar al Ministerio de Vivienda y Urbanismo la congelación de los Permisos de Edificación en el Área Norte, Fundo El Carmen y zona aledaña; el Certificado Nº 42/2012, de fecha 3 de abril de 2012, del Secretario Municipal, en donde certifica el acuerdo de la Sesión Extraordinaria de Concejo Municipal de fecha 30 de marzo de 2012; el ord. Nº 178, de fecha 9 de abril de 2012, mediante el cual el Alcalde solicita al Sr. Seremi de Vivienda y Urbanismo informar favorablemente al respecto de la solicitud de postergación de los permisos de Subdivisión, Loteo o Urbanización predial y de construcciones sobre el polígono definido en el plano PC - SIG Nº 1; el ord. Nº 832, de fecha 20 de abril de 2012, del Seremi de Vivienda y Urbanismo, mediante el cual informa favorablemente la postergación de los permisos de Subdivisión, Loteo o Urbanización predial y de construcciones sobre el polígono definido en el plano PC - SIG Nº 1; el Estudio Básico denominado "Diagnóstico Sitios Alto Valor para Conservación Región Valparaíso", adjudicado a la Empresa Centro de Ecología Aplicada Ltda., mediante resolución exenta Nº 785 del Ministerio de Medio Ambiente, de fecha 06.09.2013 y que se encuentra en desarrollo, y
+
+Teniendo presente: Lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y la ley Nº 18.695, Ley Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+Postérgase por un período de tres meses, a partir de la publicación de este decreto alcaldicio y del ord. Nº 832, del Seremi de Vivienda y Urbanismo de fecha 20 de abril de 2012 en el Diario Oficial, los permisos de Subdivisión, Loteo o Urbanización predial y de construcciones, sobre el polígono A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-W-A graficado en el plano PC - SIG Nº 1, de 2012, conforme a lo dispuesto en los artículos 117º de la Ley General de Urbanismo y Construcciones y 1.4.18 de la Ordenanza General de Urbanismo y Construcciones.
+
+Infórmese a la comunidad con la exhibición en el mesón de Atención de la Dirección de Obras Municipales y la Secretaría Comunal de Planificación el presente decreto y plano que conforma parte de él.
+
+Anótese, comuníquese y publíquese en el Diario Oficial, diario de mayor circulación en la comuna y la página web municipal (www.quilpue.cl) y archívese.- Mauricio Viñambres Adasme, Alcalde.- Joaquín Mañes Aladro, Secretario Municipal.
+
+Lo que comunico a Ud. para su conocimiento y demás fines.- Joaquín Mañes Aladro, Secretario Municipal.
