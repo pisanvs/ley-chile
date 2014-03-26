@@ -1,0 +1,5 @@
+ACREDITA A "UNIVERSIDAD DE ANTOFAGASTA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 17, de 15 de enero de 2014 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a la Universidad de Antofagasta, RUT Nº 70.791.800-4, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Minero, Subsector Mantenimiento Mecánico, en los siguientes perfiles ocupacionales: Mantenedor Mecánico Avanzado Planta; Mantenedor Mecánico Avanzado Equipos Móviles y Mantenedor de Correas Transportadoras y Alimentadores Avanzado Planta. La acreditación se otorga por un plazo de tres años contados desde el 15 de enero de 2014, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
