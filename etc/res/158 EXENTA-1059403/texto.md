@@ -26,13 +26,13 @@ Resuelvo:
 
 Don Juan Enrique Coeymans Avaria, por un período de seis años.
 
-3.- Desígnese como integrante suplente para conformar el Panel de Expertos contemplado en la ley Nº 20.378, que crea un Subsidio Nacional para el Transporte Público Remunerado de Pasajeros, a partir de los candidatos propuestos por los Decanos de las Facultades de Ingeniería de las Facultades de Economía y Administración de las universidades que se encuentran acreditadas, al siguiente profesional:
+2.- Desígnese como integrante suplente para conformar el Panel de Expertos contemplado en la ley Nº 20.378, que crea un Subsidio Nacional para el Transporte Público Remunerado de Pasajeros, a partir de los candidatos propuestos por los Decanos de las Facultades de Ingeniería de las Facultades de Economía y Administración de las universidades que se encuentran acreditadas, al siguiente profesional:
 
 Don Juan de Dios Ortúzar Salas, por un período de seis años.
 
-5.- Establézcase como fecha de asunción del cargo del miembro integrante titular y miembro integrante suplente del Panel de Expertos contemplado en la ley Nº 20.378, designados en la presente resolución exenta, el 29 de enero de 2014.
+3.- Establézcase como fecha de asunción del cargo del miembro integrante titular y miembro integrante suplente del Panel de Expertos contemplado en la ley Nº 20.378, designados en la presente resolución exenta, el 29 de enero de 2014.
 
-6.- Infórmese a través de la página web del Ministerio de Transportes y Telecomunicaciones.
+4.- Infórmese a través de la página web del Ministerio de Transportes y Telecomunicaciones.
 
 Anótese, notifíquese y publíquese.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
