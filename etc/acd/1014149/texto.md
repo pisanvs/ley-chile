@@ -22,23 +22,27 @@ TARIFAS GENERALES DE LA SOCIEDAD DE DERECHOS LITERARIOS (SADEL)
 
 3. Las presentes Tarifas Generales determinan la remuneración exigida por la utilización de las obras pertenecientes a sus asociados y representados, para su explotación en las modalidades de reproducción, distribución y comunicación pública, y no son fraccionables.
 
-4. Los usuarios que deseen utilizar una o más partes de obras impresas (libros, periódicos o revistas) en alguno de las modalidades a que se refieren las presentes Tarifas Generales, deben ponerse en contacto con SADEL, para obtener la licencia respectiva. Para ello, deberán presentar la lista de obras seleccionadas, con información bibliográfica completa (título de la obra, autor, editorial, lugar y fecha de publicación), la longitud de la muestra, la duración del uso, etc., y demás antecedentes sobre la forma de utilización, necesarios para el cálculo de la tarifa aplicable.
+4. Los usuarios que deseen utilizar una o más partes de obras impresas (libros, periódicos o revistas) en alguna de las modalidades a que se refieren las presentes Tarifas Generales, deben ponerse en contacto con SADEL, para obtener la licencia respectiva.
 
-5. La autorización para el uso del repertorio administrado por SADEL comprende exclusivamente la modalidad para la cual ha sido concedida y, al menos que en la tarifa respectiva se diga otra cosa, sólo admiten la reproducción, almacenamiento o comunicación de hasta un 15% de las páginas del libro, periódico o revista publicada objeto de la autorización. Cualquier uso del repertorio en modalidad distinta a la autorizada, deberá ser objeto de una nueva autorización y serán de aplicación las Tarifas que correspondan para esa específica modalidad.
+5. La autorización para el uso del repertorio administrado por SADEL, comprende exclusivamente la modalidad para la cual ha sido concedida y, a menos que en la licencia se indique otra cosa, admiten la reproducción, almacenamiento o comunicación pública parcial de la obra, según corresponda, de hasta un 15% del número total de páginas del libro o publicación similar objeto de la autorización, pudiéndose utilizar de este modo, sin embargo, aunque exceda de ello, un capítulo completo o unidad similar de un texto, un cuento corto completo o una escena de una obra teatral provenientes de la misma publicación.
+
+La reproducción, almacenamiento o comunicación de revistas o publicaciones periódicas, se limita a un máximo de un artículo completo que integre la publicación, independiente de su extensión.
+
+La reproducción, almacenamiento o comunicación de folletos u otras publicaciones de distribución gratuita similares no se encuentra sujeta a limitación.
+
+Cualquier uso del repertorio en modalidad distinta a la autorizada, deberá ser objeto de una nueva autorización y serán de aplicación las tarifas que correspondan para esa específica modalidad.
 
 6. Cualquier utilización que pudiera hacerse de obra del patrimonio cultural común, que no causa derecho de autor, en conjunto con obras del repertorio administrado por SADEL, no afecta a la autorización dada por la Corporación, ni podrá ser proporcionalmente deducible de las presentes Tarifas Generales.
 
-7. Las presentes Tarifas Generales fijadas por SADEL no menoscaban la prerrogativa de los autores o editores, de conceder su autorización, y exigir valores superiores.
+7. Las obras no podrán ser usadas en una forma que pueda infringir los derechos morales de cualquier autor, artista o ilustrador. Toda reproducción hecha de acuerdo a estas Tarifas Generales deberá incluir una mención al autor, artista o ilustrador y la fuente.
 
-8. Las obras no podrán ser usadas en una forma que pueda infringir los derechos morales de cualquier autor, artista o ilustrador. Toda reproducción hecha de acuerdo a estas Tarifas Generales deberán incluir en al menos una página, una mención al autor, artista o ilustrador y la fuente.
+8. Toda explotación de obras del repertorio de SADEL que no sean autorizadas mediante la emisión de las correspondientes licencias, vulnera derechos exclusivos en los términos definidos en los artículos 19 y concordantes de la Ley Nº 17.336, sobre Propiedad Intelectual. En estos casos, SADEL se reserva el derecho, en nombre de sus socios y representados, a solicitar el cese de la explotación ilícita y a exigir las indemnizaciones a que haya lugar en derecho.
 
-9. Toda explotación de obras del repertorio de SADEL que no sean autorizadas mediante la emisión de las correspondientes licencias, vulnera derechos exclusivos en los términos definidos en los artículos 19 y concordantes de la Ley Nº 17.336, sobre Propiedad Intelectual. En estos casos, SADEL se reserva el derecho, en nombre de sus socios y representados, a solicitar el cese de la explotación ilícita y a exigir las indemnizaciones a que haya lugar en derecho.
+9. Las autorizaciones no exclusivas concedidas por SADEL para utilización de las obras de su repertorio serán en todo caso intransmisibles.
 
-10. Las autorizaciones no exclusivas concedidas por SADEL para utilización de las obras de su repertorio serán en todo caso intransmisibles.
+10. Para los efectos del presente acuerdo se entiende por obra impresa las indicadas en los números 1), 2) y 6) del artículo 3º de la Ley Nº 17.336, sobre Propiedad Intelectual, así como las de cualquier otro género que haya sido publicada por cualquier proceso de reproducción gráfica, ya se trate de libros, folletos y escritos, editados en uno o varios volúmenes o fascículos, o bien de publicaciones periódicas, tales como diarios, revistas o cualquier clase de impresos que se distribuyan al público por intervalos regulares o irregulares, bajo un título constante, con abstracción de su contenido.
 
-11. Para los efectos del presente acuerdo se entiende por obra impresa las indicadas en los números 1), 2) y 6) del artículo 3º de la Ley Nº 17.336, sobre Propiedad Intelectual, así como las de cualquier otro género que haya sido publicada por cualquier proceso de reproducción gráfica, ya se trate de libros, folletos y escritos, editados en uno o varios volúmenes o fascículos, o bien de publicaciones periódicas, tales como diarios, revistas o cualquier clase de impresos que se distribuyan al público por intervalos regulares o irregulares, bajo un título constante, con abstracción de su contenido.
-
-### 12. Para efectos del presente acuerdo se entiende por:
+### 11. Para efectos del presente acuerdo se entiende por:
 
 - Reproducción: la fijación permanente o temporal de la obra en un medio que permita su comunicación o la obtención de copias de toda o parte de ella, por cualquier medio o procedimiento.
 
@@ -48,179 +52,111 @@ TARIFAS GENERALES DE LA SOCIEDAD DE DERECHOS LITERARIOS (SADEL)
 
 - Transformación: todo acto de modificación de la obra, comprendida su traducción, adaptación y cualquier otra variación en su forma de la que se derive una obra diferente.
 
-### II. DERECHOS DE AUTOR POR REPRODUCCIÓN REPROGRÁFICA
+- Reproducción reprográfica o reprografia: es un proceso que permite reproducir documentos impresos mediante técnicas como la fotocopia (o xerocopia), el facsímil o la fotografía.
 
-Las tarifas expresadas a continuación, se han establecido para el derecho de reproducción reprográfica de obras protegidas, del repertorio de SADEL, a través de fotocopia, xerografiado, microfilme, microfichas u otros procedimientos análogos de reproducción facsimilar, con exclusión de todo producto multimedia y el almacenamiento electrónico de una obra en una base o banco de datos.
+II.- DERECHOS DE AUTOR POR REPRODUCCIÓN REPROGRÁFICA Y USOS DIGITALES PARA CENTROS DE ENSEÑANZA: UNIVERSIDADES, CENTROS O INSTITUTOS DE ENSEÑANZA UNIVERSITARIA, CENTROS DE FORMACIÓN TÉCNICA, INSTITUTOS PROFESIONALES O DE ESTUDIOS SUPERIORES Y SIMILARES.
 
-1.- REPRODUCCIONES EFECTUADAS EN CENTROS O INSTITUTOS DE ENSEÑANZA UNIVERSITARIA O DE ESTUDIOS SUPERIORES Y SIMILARES
+Las tarifas expresadas a continuación, permiten las siguientes utilizaciones de obras protegidas del repertorio de SADEL:
+
+- Reproducción Reprográfica: Reproducción de documentos impresos mediante técnicas como la fotocopia (o xerocopia), el facsímil o la fotografía.
+
+- Usos Digitales: la reproducción y posterior puesta a disposición de copias digitales parciales de las obras, por medio de la transmisión o comunicación a los estudiantes, docentes y empleados de Centros de Enseñanza, por medio de (a) acceso, carga (uploading) y/o descarga (downloading) de una copia digital en y desde una red segura controlada por el Centro de Enseñanza, y (b) la transmisión y puesta a disposición (incluso por correo electrónico) de una copia digital entre la red segura de las personas autorizadas y bajo el control del Centro de Enseñanza.
+
+El uso digital por ningún motivo se puede entender que se extiende a la utilización de copias digitales en los sitios web de acceso público o ajenos al control directo y exclusivo del Centro de Enseñanza.
 
 TARIFA ANUAL APLICABLE POR ALUMNO
 
-Como contraprestación por la autorización, el centro de enseñanza universitaria, instituto profesional u otro similar, pagará a SADEL, por concepto de derecho de reproducción reprográfica por sus alumnos, la cantidad resultante de la aplicación, a su elección, de uno de los dos sistemas que se expresan a continuación:
+Como contraprestación por la autorización, el Centro de Enseñanza pagará a SADEL la cantidad resultante de la aplicación, a su elección, de uno de los dos sistemas que se expresan a continuación:
 
 1.- Sistema de ingresos:
 
-- En aplicación de este sistema, la institución
+En aplicación de este sistema, la institución pagará anualmente a SADEL, por alumno, el 0,15% del costo anual del arancel incluyendo el costo de la matrícula.
 
-pagará anualmente a SADEL, por alumno, el 0,15%
+2.- Sistema de a tanto alzado:
 
-del costo anual del arancel incluyendo el costo de
+En aplicación de este sistema, la institución pagará anualmente a SADEL, por alumno, la suma fija de 0.20 UF.
 
-la matrícula.
+3.- Comunicación a SADEL del sistema elegido:
 
-### 2. Sistema de a tanto alzado:
+El sistema de pago elegido por la institución (de ingresos o de a tanto alzado) deberá ser comunicado a SADEL dentro del primer mes de cada año o en la liquidación del primer período de pago, y no podrá ser modificado durante el ejercicio anual.
 
-- En aplicación de este sistema, la institución
+La falta de comunicación se entenderá que la institución se acoge al sistema de ingresos.
 
-pagará anualmente a SADEL, por alumno, la suma
+También se entiende por centros de enseñanza a aquellas instituciones que imparten cursos de postgrado u otros destinados a conseguir elevados niveles de actualización, especialización y profundización en uno o varios aspectos de su área de formación.
 
-fija de $4.500.
+Esta tarifa es aplicable con independencia de que la actividad de reproducción reprográfica o usos digitales se realice por el propio Centro de Enseñanza o la realice un tercero, sea en régimen de concesión administrativa u otro procedimiento o régimen.
 
-Comunicación a SADEL del sistema elegido
-
-- El sistema de pago elegido por la institución (de
-
-ingresos o de a tanto alzado) deberá ser
-
-comunicado a SADEL dentro del primer mes de cada
-
-año o en la liquidación del primer período de
-
-pago, y no podrá ser modificado durante el
-
-ejercicio anual.
-
-- La falta de comunicación se entenderá que la
-
-institución se acoge al sistema de ingresos.
-
-Se entiende por "enseñanza similar", entre otras los estudios de postgrado u otros destinados a conseguir elevados niveles de actualización, especialización y profundización en uno o varios aspectos de su área de formación.
-
-Esta tarifa es aplicable con independencia de que la actividad de reproducción se realice por el propio centro o la realice un tercero, en régimen de concesión administrativa u otro procedimiento o régimen.
-
-El número de copias permitido es el suficiente para que cada estudiante tenga sólo una copia para su uso personal y a cada profesor dos copias.
-
-### 2. REPRODUCCIONES EFECTUADAS EN CENTROS DE ENSEÑANZA MUSICAL
-
-TARIFA APLICABLE POR PÁGINA
-
-Como contraprestación por la autorización, el centro de enseñanza pagará a SADEL, por concepto de derecho de reproducción reprográfica de música impresa, en función del número de páginas reproducidas de material protegido.
-
-- Por página de material musical protegido: $20.
-
-Esta tarifa es aplicable con independencia de que la actividad de reproducción se realice por el propio centro o la realice un tercero, en régimen de concesión administrativa u otro procedimiento o régimen.
-
-3. REPRODUCCIONES EFECTUADAS EN ESTABLECIMIENTOS O CENTROS DE FOTOCOPIADO COMERCIALES
+III: DERECHOS DE AUTOR POR REPRODUCCIONES EFECTUADAS EN ESTABLECIMIENTOS O CENTROS DE FOTOCOPIADO COMERCIALES.
 
 TARIFA ANUAL APLICABLE POR MÁQUINA
 
-Como contraprestación por la autorización, el centro de fotocopiado, pagará anualmente a SADEL, por concepto de derecho de reproducción reprográfica, en función de la ubicación del establecimiento, el número de máquinas y la velocidad de las mismas.
+Como contraprestación por la autorización, el centro de fotocopiado pagará anualmente a SADEL, por concepto de derecho de reproducción reprográfica, en función de la ubicación del establecimiento, el número de máquinas y la velocidad de las mismas.
 
 a) Para establecimientos ubicados en ciudades donde no existan institutos permanentes de estudios universitarios o superiores:
 
-(a) Por máquinas de hasta 15 copias
+(i) Por máquinas de hasta 15 copias por minuto: UF 2
 
-por minuto: $50.000
+(ii) Por máquina de 16 y hasta 49 copias por minuto: UF 4
 
-(b) Por máquina de 16 y hasta 49 copias
-
-por minuto: $90.000
-
-(c) Por máquina de 50 o más copias por
-
-minuto: $150.000
-
-(d) Monto máximo por establecimiento: $700.000
+(iii) Por máquina de 50 o más copias por minuto: UF 7
 
 b) Para establecimientos situados en ciudades donde existan institutos permanentes de estudios superiores o universitarios:
 
-(a) Por máquinas de hasta 15 copias por
+(i) Por máquinas de hasta 15 copias por minuto: UF 8
 
-minuto: $80.000
+(ii) Por máquina de 16 y hasta 49 copias por minuto: UF 11
 
-(b) Por máquina de 16 y hasta 49 copias
+(iii) Por máquina de 50 o más copias por minuto: UF 13
 
-por minuto: $140.000
+c) Para establecimientos ubicados en las inmediaciones de centros de enseñanza universitaria, institutos profesionales u otros.
 
-(c) Por máquina de 50 o más copias por
+(i) Por máquinas de hasta 15 copias por minuto: UF 19
 
-minuto: $200.000
+(ii) Por máquina de 16 y hasta 49 copias por minuto: UF 24
 
-(d) Monto máximo por establecimiento: $950.000
-
-c) Para establecimientos ubicados dentro de los recintos o en locales que pertenezcan a institutos de estudios superiores o universitarios, pero sin que medie una concesión administrativa de servicios en la adjudicación:
-
-(a) Por máquinas de hasta 15 copias por
-
-minuto: $110.000
-
-(b) Por máquina de 16 y hasta 49 copias
-
-por minuto : $210.000
-
-(c) Por máquina de 50 o más copias por
-
-minuto: $290.000
-
-(d) Sin monto máximo por establecimiento.
+(iii) Por máquina de 50 o más copias por minuto: UF 28
 
 Estas tarifas se aplican a toda máquina o equipo del establecimiento, con independencia de sus demás características técnicas.
 
-Si el importe de la tarifa supera los límites máximos establecidos, se aplicará dicho límite, cuando corresponda, salvo en caso de máquinas de autoservicio, respecto de las cuales no se tendrá en cuenta los límites máximos por establecimiento.
+Por "inmediaciones" se entenderá el conjunto de calles ubicadas en un radio de ochocientos metros, tomando como punto de referencia un Centro de Enseñanza.
 
-Para las máquinas de autoservicio, independiente de la velocidad de reproducción, se aplicará la tarifa correspondiente al tramo de velocidad media de entre 16 y 49 copias por minuto, siéndoles aplicable el criterio de ubicación del establecimiento.
+Respecto de los establecimientos ubicados al interior de un Centro de Enseñanza deberá aplicarse la tarifa señalada en el Título II de las presentes Tarifas.
 
-Para efectos del presente acuerdo, se entiende por autoservicio, el sistema de reproducción empleado en algunos establecimientos en los que se disponen los equipos o aparatos reproductores al alcance del público, para que sea éste quien realice las reproducciones.
+Para las máquinas de autoservicio, independiente de la velocidad de reproducción, se aplicará la tarifa correspondiente al tramo de velocidad por máquina de 50 o más copias por minuto, siéndoles aplicable el criterio de ubicación del establecimiento.
 
-### 4. REPRODUCCIONES EFECTUADAS USUARIOS EN GENERAL
+Para efectos de las presentes tarifas, se entiende por autoservicio, el sistema de reproducción empleado en establecimientos en los que se disponen equipos, máquinas fotocopiadoras o dispositivos reprográficos en general, al alcance del público, para que sean éstos quienes realiceN las reproducciones."
+
+IV: DERECHOS DE AUTOR POR REPRODUCCIONES EFECTUADAS USUARIOS EN GENERAL.
 
 TARIFA APLICABLE POR PÁGINA
 
 Como contraprestación por la autorización concedida a usuarios no comprendido en ninguna de las situaciones anteriores, éste pagará a SADEL, por concepto de derecho de reproducción reprográfica, en función del número de páginas reproducidas.
 
-- Por página reproducida de material protegido: $8
+- Por página reproducida de material protegido: $8.
 
-### III. DERECHOS DE AUTOR POR REPRODUCCIÓN ELECTRÓNICA, ALMACENAMIENTO Y PUESTA A DISPOSICIÓN
+### V. DERECHOS DE AUTOR POR REPRODUCCIÓN ELECTRÓNICA, ALMACENAMIENTO Y PUESTA A DISPOSICIÓN PARA USUARIOS GENERALES
 
 Las tarifas expresadas a continuación, se han establecido para el derecho de reproducción por medios electrónicos y para el derecho de puesta a disposición en redes digitales, de tal forma que el público puede acceder a obras protegidas, del repertorio de SADEL, desde el lugar y en el momento que elija, cualquiera sea el formato electrónico en que se fijen o representen, con exclusión de todo producto impreso o fotocopiado.
 
-1. REPRODUCCIONES Y POSTERIOR PUESTA A DISPOSICIÓN EN REDES DIGITALES PRIVADAS TIPO INTRANET
-
-TARIFA ANUAL APLICABLE POR PÁGINA
-
-Como contraprestación por la autorización otorgada, el proveedor del servicio pagará anualmente a SADEL, por concepto de derecho de reproducción y puesta a disposición en una red digital de acceso privado, por el número de páginas escaneadas o reproducidas, en cualquier forma electrónica, y puestas a disposición:
-
-a) Valor por página: $60
-
-b) El valor por página se incrementa en un 100% en caso que de libros, periódicos y revistas publicados hace menos de un año.
-
-La autorización sólo permite que las obras del repertorio de SADEL se comuniquen en sitios de acceso seguro y restringido, al que sólo se pueda acceder a través de una suscripción o acuerdo y mediante el otorgamiento de una clave de acceso (password), siempre que en él se emplee tecnología que evite que el público almacene el material difundido. Asimismo, el archivo electrónico no debe permitir su reproducción ni electrónica ni en papel.
-
-El proveedor de contenidos debe advertir a los visitantes, que las obras están protegidas por el derecho de autor y que no pueden ser reproducidas o utilizadas sin la autorización de su titular o de su mandatario, más allá de su uso estrictamente personal.
-
-La tarifa comprende tanto el derecho de reproducción (escaneado y almacenamiento electrónico) como la puesta a disposición.
-
-Esta tarifa se aplica a cualquier persona, empresa o institución que reproduzca obras protegidas y las ponga a disposición en una red tipo Intranet, bien para uso colectivo de sus empleados o bien para el de terceros, con independencia del sector en el que ésta desarrolle su actividad y si ésta es o no con fines lucrativos.
-
-2. REPRODUCCIONES Y POSTERIOR PUESTA A DISPOSICIÓN EN REDES DIGITALES PÚBLICAS TIPO INTERNET
+1. REPRODUCCIONES Y POSTERIOR PUESTA A DISPOSICIÓN EN REDES DIGITALES PÚBLICAS TIPO INTERNET
 
 TARIFA ANUAL APLICABLE POR PÁGINA
 
 Como contraprestación por la autorización otorgada, el proveedor del servicio pagará anualmente a SADEL, por concepto de derecho de reproducción y puesta a disposición en una red digital tipo Internet, en función del número de páginas escaneadas o reproducidas, en cualquier forma electrónica, y puestas a disposición y el tiempo de permanencia en la red.
 
-a) Por cada una de las primeras 20 páginas: $60.000
+a) Por cada una de las primeras 20 páginas: 2.73UF
 
 b) Por cada una de las páginas que superen
 
-las 20 y hasta 50: $30.000
+las 20 y hasta 50: 1.36UF
 
 c) Por cada una de las páginas que superen
 
-las 50 y hasta 150: $15.000
+las 50 y hasta 150: 0.68UF
 
 d) Por cada una de las páginas que superen
 
-las 150: $8.000
+las 150: $0.36UF
 
 e) El valor por página se incrementa en un 100% en caso que de libros, periódicos y revistas publicados hace menos de un año.
 
@@ -230,7 +166,9 @@ La tarifa comprende tanto el derecho de reproducción (escaneado y almacenamient
 
 Esta tarifa se aplica a cualquier persona, empresa o institución que reproduzca obras protegidas y las ponga a disposición en una red tipo Internet, con independencia del sector en el que ésta desarrolle su actividad y si ésta es o no con fines lucrativos o para otros objetivos.
 
-3. REPRODUCCIONES PARA PRODUCTOS MULTIMEDIA U OTROS SOPORTES DE ALMACENAMIENTO ELECTRÓNICO "OFF LINE"
+La validez de la autorización queda sujeta al visto bueno o previa aprobación del autor o sus derechohabientes.
+
+2. REPRODUCCIONES PARA PRODUCTOS MULTIMEDIA U OTROS SOPORTES DE ALMACENAMIENTO ELECTRÓNICO "OFF LINE"
 
 TARIFA APLICABLE POR PÁGINA
 
@@ -238,7 +176,7 @@ Como contraprestación por la autorización otorgada, el productor o el fabrican
 
 - Se establecerá mediante acuerdo entre SADEL y el productor o fabricante, tomando en consideración los siguientes parámetros: el número de obras utilizadas, el número de páginas reproducidas, el número de ejemplares producidos, el soporte utilizado, su forma de distribución y el precio de fabricación o venta, según sea la finalidad.
 
-### IV. OTRAS UTILIZACIONES
+### VI. OTRAS UTILIZACIONES
 
 Toda utilización de obra del repertorio administrado por SADEL, en un medio o procedimiento no previsto en los Títulos anteriores de las presentes Tarifas Generales, el usuario deberá pactar la tarifa aplicable, previa consulta al titular del derecho, teniéndose en cuenta el número de obras reproducidas, el tiraje de y las demás condiciones de su utilización.
 
