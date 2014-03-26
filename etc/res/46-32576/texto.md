@@ -6,7 +6,7 @@ Núm. 46.- Santiago, 14 de Septiembre de 1993.- Visto: Lo dispuesto por las leye
 
 El taxímetro a que alude el artículo 79° del D.S. N° 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, deberá cumplir con los siguientes requisitos:
 
-1.- Ser digital, programable e incluir en un solo módulo, una impresora tipo térmica u otra similar que no utilice el sistema de impresión por cinta y que permita la colocación de un sello por parte de
+1.- Ser digital, programable e incluir una impresora tipo térmica u otra similar que no utilice el sistema de impresión por cinta y que permita la colocación de un sello por parte de
 
 la autoridad, sin perjuicio del que debe instalar el fabricante o proveedor y en su caso, las personas naturales o jurídicas a que se refiere el artículo 3º el que contendrá la sigla N°1, A o distintivo del mismo, que lo identifique 2.- Conectarse al sistema eléctrico y al sistema sensor de distancias del vehículos, a través de uno solo cable a la vista compuesto de un máximo de 5 conductores eléctricos, prohibiéndose la existencia de cables adicionales. Los conductores eléctricos que transporten las señales desde el sistema sensor deberán contar con blindaje conectado al chasis del vehículo.
 
@@ -102,9 +102,11 @@ Rangos de Velocidad (v) Aceleración Máxima
 
 40 (_ v ( 60 2,2
 
-60 (_ v ( 100 1,4
+60 (_ v ( 120 1,4
 
 16.- Cuando acuse alguna anomalía se activará una alarma sonora y se detendrá el proceso de contabilización de la carrera, el cual sólo podrá continuar después que el vehículo haya sido detenido.
+
+16 bis.- Cuando la velocidad del vehículo supere los 120 km/hr, el programa procederá a detener la contabilización, pero mantendrá el valor acumulado hasta ese instante
 
 17.- Estar diseñado para dejar de funcionar en el caso que la impresora no esté conectada o no cuente con papel.
 
@@ -120,7 +122,59 @@ Cuando el taxímetro o su impresora presenten fallas técnicas en su funcionamie
 
 #### Artículo 3°
 
-El Ministerio de Transportes y Telecomunicaciones establecerá, por resolución, una nómina de fabricantes o proveedores de taxímetros que hayan acreditado documentadamente que el tipo o modelo que ofrecen, cumple con los requisitos del Artículo 1°. Para este efecto, deberán acompañar, entre otros antecedentes, un listado del programa computacional en base al cual se verificó dicho cumplimiento. Este programa no podrá modificarse sin aviso previo al Ministerio y de efectuarse cambios en él deberá realizarse una nueva acreditación de cumplimiento de requisitos del respectivo tipo o modelo. En la resolución mencionada se asignará un código de identificación a cada fabricante o proveedor incluido en ella. Igualmente, el Ministerio de Transportes y Telecomunicaciones, establecerá, por resolución, una nómina de personas jurídicas que acrediten, en la forma y acompañando los antecedentes señalados en el inciso anterior, que el respectivo modelo original con las modificaciones dispuestas con posterioridad a la venta del taxímetro, el que será considerado prototipo, cumple con las exigencias del artículo 1º debiendo asignárseles un código de identificación. El Ministerio de Transportes y Telecomunicaciones, en conocimiento de denuncias sobre la participación de personas incluidas en las nóminas señaladas en los incisos anteriores, vinculadas con irregularidades o manipulaciones cometidas en cualquier tipo o modelo o prototipo de taxímetros debidamente acreditados, previo un proceso breve y sumario que permita la defensa del presunto infractor, podrá eliminarlas de la nómina respectiva. El proceso aludido se iniciará con la notificación personal de la resolución de formulación de cargos, los que deberán ser respondidos dentro del plazo fatal de cinco días hábiles contados desde la fecha de la notificación, debiendo acompañarse en esta oportunidad los medios de prueba que permitan desvirtuarlos. Transcurrido el plazo señalado, el Subsecretario de Transportes, con o en rebeldía de los descargos del presunto infractor y en mérito del proceso, absolverá o dispondrá la eliminación del transgresor de la nómina correspondiente.
+El Ministerio de Transportes y Telecomunicaciones establecerá, por resolución, una nómina de fabricantes o proveedores de taxímetros que hayan acreditado ante éste, que el tipo o modelo que ofrecen, cumple con los requisitos del Artículo 1°. Para este efecto, deberán acompañar, entre otros antecedentes, un listado del programa computacional en base al cual se verificó dicho cumplimiento. Este programa no podrá modificarse sin aviso previo al Ministerio y de efectuarse cambios en él deberá realizarse una nueva acreditación de cumplimiento de requisitos del respectivo tipo o modelo. En la resolución mencionada se asignará un código de identificación a cada fabricante o proveedor incluido en ella. Igualmente, el Ministerio de Transportes y Telecomunicaciones, establecerá, por resolución, una nómina de personas jurídicas que acrediten, en la forma y acompañando los antecedentes señalados en el inciso anterior, que el respectivo modelo original con las modificaciones dispuestas con posterioridad a la venta del taxímetro, el que será considerado prototipo, cumple con las exigencias del artículo 1º debiendo asignárseles un código de identificación. El Ministerio de Transportes y Telecomunicaciones, en conocimiento de denuncias sobre la participación de personas incluidas en las nóminas señaladas en los incisos anteriores, vinculadas con irregularidades o manipulaciones cometidas en cualquier tipo o modelo o prototipo de taxímetros debidamente acreditados, previo un proceso breve y sumario que permita la defensa del presunto infractor, podrá eliminarlas de la nómina respectiva. El proceso aludido se iniciará con la notificación personal de la resolución de formulación de cargos, los que deberán ser respondidos dentro del plazo fatal de cinco días hábiles contados desde la fecha de la notificación, debiendo acompañarse en esta oportunidad los medios de prueba que permitan desvirtuarlos. Transcurrido el plazo señalado, el Subsecretario de Transportes, con o en rebeldía de los descargos del presunto infractor y en mérito del proceso, absolverá o dispondrá la eliminación del transgresor de la nómina correspondiente.
+
+#### Artículo 3º bis
+
+Para los efectos de la acreditación señalada en el artículo 3º anterior, los fabricantes o proveedores de taxímetros, en adelante "el solicitante", deberán presentar la solicitud ante el Ministerio de Transportes y Telecomunicaciones, utilizando para ello el formato que se señala en el Anexo A de la presente resolución, acompañando los siguientes antecedentes y/o elementos:
+
+a. Informe Técnico descriptivo que incluya, a lo menos, lo siguiente:
+
+i. Marca y modelo del taxímetro, con fotografías de referencia.
+
+ii. Características funcionales del taxímetro.
+
+iii. Ficha de especificaciones técnicas del taxímetro.
+
+iv. Planos con vistas de planta, frontal y laterales, donde se establezcan los detalles de diseño del taxímetro, con sus correspondientes dimensiones.
+
+v. Características constructivas del taxímetro, incluyendo materiales, componentes y conexiones.
+
+vi. Diagrama esquemático del circuito electrónico del taxímetro.
+
+vii. Requisitos y procedimientos de instalación y calibración del taxímetro en el vehículo, si procede.
+
+viii. Fotografías del taxímetro que muestren las caras externas del mismo y que permitan apreciar los detalles de las mismas, indicando claramente aquella parte del taxímetro que permite la colocación del sello por parte de la autoridad a que se refiere el numeral 1 del artículo 1º.
+
+ix. Listado del programa computacional utilizado en el taxímetro, impreso en un lenguaje fuente leíble, con una copia en formato electrónico del mismo y documentado con un diagrama de flujo y otros antecedentes que aclaren su funcionamiento.
+
+x. Muestra del comprobante o boleto que emite el taxímetro.
+
+xi. Marca, modelo y tipo de impresora, incluyendo los detalles de la instalación física como eléctrica.
+
+xii. Descripción del cable de conexión del taxímetro al sistema eléctrico y al sistema sensor de distancias.
+
+xiii. Descripción del sistema sensor de distancias.
+
+xiv. Material de encapsulamiento del microprocesador y circuitos de memoria, si correspondiere.
+
+xv. Listado de funciones operacionales que no son requisitos, pero que son de utilidad para el operador, si cuenta con ellas, y su descripción de funcionamiento.
+
+xvi. Tipo y capacidad de los fusibles del taxímetro, de su instalación y su ubicación.
+
+xvii. Descripción técnica de cumplimiento de cada requisito establecido en el artículo 1º de la presente resolución.
+
+b. Manual del usuario.
+
+c. Un taxímetro completo, que se utilizará para verificar físicamente las características de diseño y componentes internos declarados en el informe técnico señalado en la letra a. anterior.
+
+En un plazo no superior a 10 días hábiles, contados desde la fecha de recepción de la solicitud, el Ministerio de Transportes y Telecomunicaciones emitirá un pronunciamiento respecto de los antecedentes presentados. De no existir observaciones, se comunicará la fecha en que el solicitante deberá presentar un segundo taxímetro, instalado en un vehículo del tipo taxi, para su verificación operacional. De haber observaciones, la verificación aludida se realizará una vez subsanadas éstas.
+
+Para la verificación operacional será requerido que el vehículo sea conducido por un conductor provisto por el solicitante; dicho conductor deberá cumplir con todas las normativas de tránsito que le sean aplicables.
+
+En el evento que el modelo de taxímetro cumpla con todas las características y especificaciones técnicas descritas en la presente resolución, el Ministerio de Transportes y Telecomunicaciones procederá a dictar la resolución que establece el artículo 3º anterior.".
+
+El horario de recepción de las solicitudes será de 9:00 a 14:00 hrs., de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
 
 #### Artículo 4º
 
@@ -147,3 +201,41 @@ DEROGADO
 Anótese, tómese razón y publíquese.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud.- Patricia Muñoz Villela, Jefe Depto. Administrativo.
+
+ANEXO A
+
+SOLICITUD
+
+Santiago, _____de_________de 20__
+
+Señores
+
+Ministerio de Transportes y Telecomunicaciones
+
+At. Centro de Control y Certificación Vehicular
+
+Presente
+
+De mi consideración:
+
+Por medio de la presente solicito a ustedes verificar el cumplimiento de las características y especificaciones técnicas señaladas en la resolución Nº 46, del año 1993, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, respecto al taxímetro marca:________, modelo:________.
+
+Atentamente,
+
+Firma y Timbre del Solicitante
+
+### 1. Nombre persona natural o jurídica:
+
+### 2. RUT persona natural o jurídica:
+
+### 3. Dirección persona natural o jurídica:
+
+### 4. Nombre del solicitante:
+
+### 5. Teléfono del solicitante:
+
+### 6. E-mail del solicitante:
+
+### 7. Nombre y RUT del representante legal:
+
+8. En caso de ser empresa extranjera, nombre, RUT, dirección, e-mail y teléfono del representante legal en Chile.
