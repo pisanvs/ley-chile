@@ -140,21 +140,21 @@ a) Acueductos, embalses o tranques y sifones que deban someterse a la autorizaci
 
 Presas, drenajes, desecación, dragado, defensa o alteración, significativos, de cuerpos o cursos naturales de aguas, incluyendo a los glaciares que se encuentren incorporados como tales en un Inventario Público a cargo de la Dirección General de Aguas. Se entenderá que estos proyectos o actividades son significativos cuando se trate de:
 
-a.1. Presas cuyo muro tenga una altura igual o
+a.1. Presas cuyo muro tenga una altura superior
 
-superior a cinco metros (5 m) medidos desde el
+a cinco metros (5 m) medidos desde el
 
-coronamiento hasta el nivel del terreno natural,
+coronamiento hasta el nivel del terreno
 
-en el plano vertical que pasa por el eje de éste
+natural, en el plano vertical que pasa por
 
-y que soportará el embalse de las aguas, o que
+el eje de éste y que soportará el
 
-generen un embalse con una capacidad igual o
+embalse de las aguas, o que generen un
 
-superior a cincuenta mil metros cúbicos (50.000
+embalse con una capacidad superior a
 
-m³).
+cincuenta mil metros cúbicos (50.000 m3).
 
 a.2. Drenaje o desecación de:
 
@@ -1322,43 +1322,29 @@ señaladas en la Clase 1, División 1.1 de la NCh
 
 ñ.3. Producción, disposición o reutilización de
 
-sustancias inflamables que se realice durante un
+sustancias inflamables que se realice durante
 
-semestre o más, y con una periodicidad mensual o
+un semestre o más, y con una periodicidad
 
-mayor, en una cantidad igual o superior a ochenta
+mensual o mayor, en una cantidad igual o
 
-mil kilogramos diarios (80.000 kg/día).
+superior a ochenta mil kilogramos diarios
 
-Capacidad de almacenamiento de sustancias
+(80.000 kg/día). Capacidad de almacenamiento
 
-inflamables en una cantidad igual o superior a
+de sustancias inflamables en una cantidad
 
-ciento sesenta mil kilogramos (160.000 kg).
+igual o superior a ochenta mil kilogramos
 
-Se entenderá por sustancias inflamables en
+(80.000 kg).
 
-general, aquellas señaladas en la Clase 2,
+Se entenderá por sustancias inflamables
 
-División 2.1, 3 y 4 de la NCh 382. Of 2004, o
+en general, aquellas señaladas en la
 
-aquella que la reemplace.
+Clase 2, División 2.1, 3 y 4 de la NCh
 
-Los residuos se considerarán sustancias
-
-inflamables si se encuentran en la hipótesis del
-
-#### Artículo 15
-
-del Decreto Supremo N° 148, de 2003,
-
-del Ministerio de Salud, o aquel que lo
-
-reemplace. Para efectos de su disposición o
-
-reutilización, deberá estarse a lo dispuesto en
-
-la letra o.9. de este artículo.
+382. Of 2004, o aquella que la reemplace.
 
 ñ.4. Producción, disposición o reutilización de
 
@@ -1564,21 +1550,31 @@ líquidos.
 
 o.8. Sistemas de tratamiento, disposición y/o
 
-eliminación de residuos industriales sólidos con
+eliminación de residuos industriales sólidos
 
-una capacidad mayor a ciento diez toneladas
+con una capacidad igual o mayor a treinta
 
-diarias (110 t/día) de tratamiento, o doscientas
+toneladas día (30 t/día) de tratamiento o
 
-veinte toneladas (220 t) de disposición.
+igual o superior a cincuenta toneladas
+
+(50 t) de disposición.
 
 o.9. Sistemas de tratamiento, disposición y/o
 
-eliminación de residuos peligrosos con una
+eliminación de residuos peligrosos con
 
-capacidad de tratamiento mayor a ciento diez
+una capacidad de veinticinco kilos día
 
-toneladas diarias (110 t/día).
+(25 kg/día) para aquellos que estén dentro
+
+de la categoría de "tóxicos agudos"
+
+según DS 148/2003 Ministerio de Salud; y
+
+de mil kilos día (1000 kg/día) para otros
+
+residuos peligrosos.
 
 o.10 Sistemas de tratamiento, disposición y/o
 
@@ -5778,9 +5774,11 @@ Notificaciones.
 
 Las notificaciones que se practiquen por carta certificada serán dirigidas al domicilio indicado en la primera presentación o solicitud que haya efectuado el interesado, dejándose constancia de su despacho mediante la agregación en el expediente del correspondiente recibo de correos.
 
-En el caso de los proponentes que no hubiesen expresado voluntad de excluirse del procedimiento electrónico, así como de las personas naturales o jurídicas que hubieren formulado observaciones ciudadanas por medios electrónicos, de conformidad a lo señalado en los artículo 29 y 30 bis de la Ley, serán notificadas en la dirección de correo electrónico que hubieren indicado al momento de realizar su presentación, entendiéndose notificados al día siguiente del envío. El registro de las notificaciones deberá sujetarse a lo dispuesto en el Decreto Supremo N° 77, de 2004, del Ministerio Secretaría General de la Presidencia, o la norma que lo reemplace.
+En el caso de los proponentes que no hubiesen expresado voluntad de excluirse del procedimiento electrónico, así como de las personas naturales o jurídicas que hubieren formulado observaciones ciudadanas por medios electrónicos, de conformidad a lo señalado en los artículo 29 y 30 bis de la ley, serán notificadas en la dirección de correo electrónico que hubieren indicado al momento de realizar su presentación, entendiéndose notificados al día siguiente del envío. El registro de las notificaciones deberá sujetarse a lo dispuesto en el decreto supremo Nº 14, de 2014, del Ministerio de Economía, Fomento y Turismo, o la norma que lo reemplace.
 
-Los titulares de los proyectos o actividades, o sus representantes, deberán informar al Servicio, de los cambios de sus domicilios o dirección de correo electrónico, según corresponda. El Servicio comunicará los cambios a la Superintendencia.
+Los titulares de los proyectos o actividades, o sus representantes, deberán informar al Servicio, de los cambios de sus domicilios o dirección de correo electrónico, según corresponda, debiendo realizarse la notificación en el nuevo domicilio o dirección de correo electrónico que se indique. El Servicio comunicará los cambios a la Superintendencia.
+
+Lo anterior, sin perjuicio que el titular o interesado o su representante legal puedan notificarse personalmente conforme a las reglas generales.
 
 #### Artículo 163
 
