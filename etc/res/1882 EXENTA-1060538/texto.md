@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.882 EXENTA, DE 2014
+
+Por resolución exenta Nº 1.882, de fecha 13 de marzo de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B a la Escuela de Conductores No Profesionales o Clase B "Oyarzún y Salazar Limitada" o " R-F 2.0", RUT Nº 76.246.455-1, cuyas representantes legales son las señoras Betsy Yacqueline Oyarzún Cayumán, RUT Nº 12.654.954-7 y María Angélica Salazar Sepúlveda, RUT Nº 8.220.531-4, siendo su director el señor Camilo Alejandro Gutiérrez Salazar, RUT Nº 13.995.766-0, la que tendrá su lugar de funcionamiento en el local ubicado en Presidente Bulnes Nº 9917, comuna de La Florida.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana (S).
