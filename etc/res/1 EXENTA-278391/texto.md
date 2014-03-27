@@ -12,13 +12,17 @@ Lagos, de conformidad con lo establecido en el
 
 de la ley Nº 20.256, el cual estará integrado por las siguientes personas:
 
-a) Pedro Brunetti Barroso, Director Zonal de Pesca de las Regiones XIV, X y XI.
+a) Director Zonal de Pesca de la X Región de Los Lagos, o quien lo subrogue legalmente.
 
-b) Francisco Fernández Batlle, Director Regional de Pesca de la X Región de Los Lagos.
+b) Director Regional de Pesca de la X Región de Los Lagos, o quien lo subrogue legalmente.
 
-c) Loreto Cerda, Directora Regional de Turismo de la X Región de Los Lagos.
+c) Director Regional de Turismo de la X Región de Los Lagos, o quien lo subrogue legalmente.
 
-d) Richard Villegas, representante del Gobierno Regional, designado mediante oficio citado en Visto, Secretario Regional Ministerial de Economía, de la X Región de Los Lagos.
+d) Fernando Espíndola Gómez, Representante de los Operadores de Pesca Recreativa, Comuna de Cochamó.
+
+e) Paolo Silva Velásquez, Representante de los Guías de Pesca Recreativa, Comuna de Puerto Varas.
+
+f) Bernardo Ugalde Muñoz, Representante de los Clubes de Pesca Recreativa, Comuna de Puerto Varas.
 
 Sin perjuicio de lo anterior, podrán ser invitados a participar en el Consejo de Pesca Recreativa de la X Región de Los Lagos, un representante de Carabineros, de la Armada de Chile, de las asociaciones municipales de la X Región, y de las cámaras de turismo que tengan su domicilio en la X Región.
 
