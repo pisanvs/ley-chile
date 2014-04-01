@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 45, de 03 de marzo de 2014, se modificó el numeral segundo del Decreto MOP. (Exento) Nº467, de 28 de marzo de 2013, a fin de individualizar correctamente el lote de terreno Nº6, ubicado en la comuna de Punta Arenas, que figura a nombre de LEIVA TRONCOSO CECILIA DEL CARMEN, rol de avalúo 5054-06, superficie 218 m2., complementando el informe de tasación referido al lote Nº6, emitido por la Comisión de Peritos el 31 de julio de 2012, mediante acta emanada de la misma comisión el 06 de julio de 2013, expropiado con motivo de la obra: "Mejoramiento Ruta Y-565 Acceso Río Seco, Km. 0,00000 al Km. 9,00000", Comuna de Punta Arenas, XII Región de Magallanes y la Antártica Chilena.
+
+Fiscal del Ministerio de Obras Públicas.
