@@ -686,6 +686,12 @@ En caso de producirse diferencias entre los montos anticipados en cada mes y la 
 
 Sin perjuicio de las responsabilidades que correspondan, si el Servicio de Tesorerías entrega tanto el Fondo Común Municipal como el Impuesto Territorial y el derecho de aseo fuera de los plazos señalados en los incisos anteriores, deberán liquidarlos reajustándolos de conformidad a la variación que haya experimentado el Indice de Precios al Consumidor entre la fecha límite de entrega y la de pago efectivo.
 
+#### Artículo 60 bis
+
+Con el objeto de asegurar el oportuno pago de las cotizaciones previsionales, la Superintendencia de Pensiones deberá informar, trimestralmente, a la Subsecretaría de Desarrollo Regional y Administrativo respecto de las cotizaciones previsionales impagas que las municipalidades y corporaciones municipales mantengan respecto de los funcionarios municipales y trabajadores de los servicios de las áreas de educación y salud, traspasados a ellas en virtud de lo dispuesto en el decreto con fuerza de ley Nº 1-3.063, de 1980, del Ministerio del Interior.
+
+Sobre la base de la información remitida por la Superintendencia de Pensiones, y cuando se observaren retrasos por parte de las municipalidades en el pago de cotizaciones previsionales, dicha Subsecretaría solicitará al Servicio de Tesorerías que se abstenga de efectuar las remesas por anticipos del Fondo Común Municipal, mientras la municipalidad respectiva no cumpla con la obligación señalada. El Servicio de Tesorerías, previo a resolver, notificará al municipio respectivo, el que tendrá quince días para presentar sus descargos.
+
 #### Artículo 61
 
 Los pagos por aportes que las municipalidades deban enterar al Fondo Común Municipal deberán ser efectuados en las oficinas bancarias u otras entidades o lugares autorizados por el Servicio de Tesorerías, a más tardar el quinto día hábil del mes siguiente al de la recaudación respectiva.

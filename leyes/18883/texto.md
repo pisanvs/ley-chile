@@ -254,6 +254,8 @@ El funcionario que no diere cumplimiento a lo dispuesto en el inciso precedente 
 
 Para el cumplimiento de lo dispuesto en el artículo 37 de la ley N° 18.695, el proyecto de presupuesto municipal deberá consultar los fondos necesarios para desarrollar los programas de capacitación y perfeccionamiento. Podrán otorgarse para estos efectos becas a los funcionarios municipales.
 
+En las municipalidades podrán existir comités bipartitos que desarrollen tareas consultivas en materias de capacitación del personal.
+
 ### Párrafo 3° — DE LAS CALIFICACIONES
 
 #### Artículo 29
@@ -940,7 +942,7 @@ El empleado que infringiere sus obligaciones o deberes funcionarios podrá ser o
 
 Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo.
 
-Tratándose del alcalde su responsabilidad administrativa se hara efectiva en conformidad al artículo 76, letra b) de la ley N.° 18.695.
+Tratándose del alcalde su responsabilidad administrativa se hara efectiva en conformidad al artículo 60 de la ley N.° 18.695.
 
 #### Artículo 119
 

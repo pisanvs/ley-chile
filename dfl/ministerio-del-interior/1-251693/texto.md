@@ -236,13 +236,17 @@ Para los efectos anteriores, las municipalidades dispondrán de una Secretaría 
 
 #### Artículo 16
 
-En las comunas cuya población sea superior a cien mil habitantes, las municipalidades incluirán en su organización interna la Secretaría Municipal, la Secretaría Comunal de Planificación, y a lo menos, las unidades encargadas de cada una de las funciones genéricas señaladas en el artículo anterior.
+Sin perjuicio de lo dispuesto en el artículo anterior, la organización interna de las municipalidades deberá considerar, a lo menos, las siguientes unidades: Secretaría Municipal, Secretaría Comunal de Planificación, Unidad de Desarrollo Comunitario, Unidad de Administración y Finanzas y Unidad de Control.
+
+Para efectos de lo dispuesto en el inciso anterior, en aquellas municipalidades cuyas plantas funcionarias no consideren en el escalafón directivo los cargos señalados en el inciso precedente, el alcalde estará facultado para crearlos, debiendo, al efecto, sujetarse a las normas sobre selección directiva que la ley dispone.
+
+Dichos cargos tendrán dos grados inmediatamente inferiores a aquel que le corresponde al alcalde en la municipalidad respectiva, y aquellos señalados en el artículo 47 mantendrán la calidad de exclusiva confianza.
+
+En aquellas comunas que tengan más de cien mil habitantes deberán considerarse, también, las unidades encargadas de cada una de las demás funciones genéricas señaladas en el artículo precedente.
 
 #### Artículo 17
 
-En las comunas cuya población sea igual o inferior a cien mil habitantes, la organización interna de sus municipalidades incluirá la Secretaría Municipal y todas o alguna de las unidades encargadas de las funciones genéricas señaladas en el artículo 15, según las necesidades y características de la comuna respectiva. Asimismo, podrán incluir una Secretaría Comunal de Planificación.
-
-Además de lo señalado en el inciso anterior, dichas municipalidades podrán refundir en una sola unidad, dos o más funciones genéricas, cuando las necesidades y características de la comuna respectiva así lo requieran.
+Las municipalidades de comunas con menos de cien mil habitantes podrán refundir, en una sola unidad, dos o más funciones genéricas, cuando las necesidades y características de la comuna respectiva así lo requieran. Esta facultad no podrá ejercerse respecto de las unidades mínimas señaladas en el artículo anterior.
 
 #### Artículo 18
 
@@ -263,6 +267,16 @@ a) Dirigir las actividades de secretaría administrativa del alcalde y del conce
 b) Desempeñarse como ministro de fe en todas las actuaciones municipales, y
 
 c) Recibir, mantener y tramitar, cuando corresponda, la declaración de intereses establecida por la Ley N° 18.575.
+
+d) Llevar el registro municipal
+
+a que se refiere el artículo 6°
+
+de la ley N° 19.418, sobre Juntas
+
+de Vecinos y demás Organizaciones
+
+Comunitarias.
 
 #### Artículo 21
 
@@ -458,17 +472,19 @@ Además, cuando lo ordene el alcalde, deberá efectuar las investigaciones y sum
 
 A la unidad encargada del control le corresponderán las siguientes funciones:
 
-a) Realizar la auditoría operativa interna de la municipalidad, con el objeto de fiscalizar la legalidad de su actuación;
+a) Realizar la auditoría |operativa interna de la municipalidad, con el objeto de fiscalizar la legalidad de su actuación;
 
 b) Controlar la ejecución financiera y presupuestaria municipal;
 
-c) Representar al alcalde los actos municipales que estime ilegales, informando de ello al concejo, para cuyo objeto tendrá acceso a toda la información disponible;
+c) Representar al alcalde los actos municipales que estime ilegales, informando de ello al concejo, para cuyo objeto tendrá acceso a toda la información disponible. Dicha representación deberá efectuarse dentro de los diez días siguientes a aquel en que la unidad de control haya tomado conocimiento de los actos. Si el alcalde no tomare medidas administrativas con el objeto de enmendar el acto representado, la unidad de control deberá remitir dicha información a la Contraloría General de la República;
 
-d) Colaborar directamente con el concejo para el ejercicio de sus funciones fiscalizadoras. Para estos efectos, emitirá un informe trimestral acerca del estado de avance del ejercicio programático presupuestario; asimismo, deberá informar, también trimestralmente, sobre el estado de cumplimiento de los pagos por concepto de cotizaciones previsionales de los funcionarios municipales y de los trabajadores que se desempeñan en servicios incorporados a la gestión municipal, administrados directamente por la municipalidad o a través de corporaciones municipales, de los aportes que la municipalidad debe efectuar al Fondo Común Municipal, y del estado de cumplimiento de los pagos por concepto de asignaciones de perfeccionamiento docente. En todo caso, deberá dar respuesta por escrito a las consultas o peticiones de informes que le formule un concejal, y
+d) Colaborar directamente con el concejo para el ejercicio de sus funciones fiscalizadoras. Para estos efectos, emitirá un informe trimestral acerca del estado de avance del ejercicio programático presupuestario; asimismo, deberá informar, también trimestralmente, sobre el estado de cumplimiento de los pagos por concepto de cotizaciones previsionales de los funcionarios municipales y de los trabajadores que se desempeñan en servicios incorporados a la gestión municipal, administrados directamente por la municipalidad o a través de corporaciones municipales, de los aportes que la municipalidad debe efectuar al Fondo Común Municipal, y del estado de cumplimiento de los pagos por concepto de asignaciones de perfeccionamiento docente. En todo caso, deberá dar respuesta por escrito a las consultas o peticiones de informes que le formule un concejal;
 
-e) Asesorar al concejo en la definición y evaluación de la auditoría externa que aquél puede requerir en virtud de esta ley.
+e) Asesorar al concejo en la definición y evaluación de la auditoría externa que aquél puede requerir en virtud de esta ley; y
 
-La jefatura de esta unidad se proveerá mediante concurso de oposición y antecedentes y no podrá estar vacante por más de seis meses consecutivos. Las bases del concurso y el nombramiento del funcionario que desempeñe esta D.O. 01.07.2005 jefatura requerirán de la aprobación del concejo. A dicho cargo podrán postular personas que estén en posesión de un título profesional o técnico acorde con la función. El jefe de esta unidad sólo podrá ser removido en virtud de las causales de cese de funciones aplicables a los funcionarios municipales, previa instrucción del respectivo sumario. En el caso de incumplimiento de sus funciones, y especialmente la obligación señalada en el inciso primero del artículo 81, el sumario será instruido por la Contraloría General de la República, a solicitud del concejo.
+f) Realizar, con la periodicidad que determine el reglamento señalado en el artículo 92, una presentación en sesión de comisión del concejo, destinada a que sus miembros puedan formular consultas referidas al cumplimiento de las funciones que le competen.
+
+La jefatura de esta unidad se proveerá mediante concurso de oposición y antecedentes y no podrá estar vacante por más de seis meses consecutivos. Las bases del concurso y el nombramiento del funcionario que desempeñe esta jefatura requerirán de la aprobación del concejo. A dicho cargo podrán postular personas que estén en posesión de un título profesional o técnico acorde con la función. El jefe de esta unidad sólo podrá ser removido en virtud de las causales de cese de funciones aplicables a los funcionarios municipales, previa instrucción del respectivo sumario. En el caso de incumplimiento de sus funciones, y especialmente la obligación señalada en el inciso primero del artículo 81, el sumario será instruido por la Contraloría General de la República, a solicitud del concejo.
 
 #### Artículo 30
 
@@ -636,6 +652,16 @@ Las municipalidades se regirán por las normas sobre administración financiera 
 
 Las municipalidades serán fiscalizadas por la Contraloría General de la República, de acuerdo con su ley orgánica constitucional, sin perjuicio de las facultades generales de fiscalización interna que correspondan al alcalde, al concejo y a las unidades municipales dentro del ámbito de su competencia.
 
+Si en el ejercicio de tales facultades la Contraloría General de la República determina la existencia de actos u omisiones de carácter ilegal podrá instruir el correspondiente procedimiento disciplinario, según lo dispuesto en el artículo 133 bis y siguientes de la ley Nº 10.336, de Organización y Atribuciones de la Contraloría General de la República.
+
+Si como consecuencia de la investigación practicada, la que deberá respetar las reglas del debido proceso, dicho órgano considerase que se encuentra acreditada la responsabilidad administrativa del alcalde, deberá remitir los antecedentes al concejo municipal, para efectos de lo dispuesto en la letra c) del artículo 60.
+
+#### Artículo 51 bis
+
+El plazo para hacer efectiva la responsabilidad de los alcaldes y concejales, por acciones u omisiones que afecten la probidad administrativa o que impliquen un notable abandono de deberes, se contará desde la fecha de la correspondiente acción u omisión.
+
+Con todo, podrá incoarse dicho procedimiento, dentro de los seis meses posteriores al término de su período edilicio, en contra del alcalde o concejal que ya hubiere cesado en su cargo, para el solo efecto de aplicar la causal de inhabilidad dispuesta en el inciso octavo del artículo 60 y en el inciso segundo del artículo 77.
+
 #### Artículo 52
 
 En el ejercicio de sus funciones de control de la legalidad, la Contraloría General de la República podrá emitir dictámenes jurídicos sobre todas las materias sujetas a su control.
@@ -655,6 +681,8 @@ Para los efectos de determinar la responsabilidad de los funcionarios municipale
 #### Artículo 55
 
 Los informes que emita la Contraloría serán puestos en conocimiento del respectivo concejo.
+
+Serán también puestos en conocimiento del concejo, con la periodicidad que determine el reglamento establecido en el artículo 92, la nómina de todas aquellas solicitudes de información pública recibidas, así como las respectivas respuestas entregadas por la municipalidad, que se realicen en el marco de lo dispuesto por la ley Nº 20.285, sobre Acceso a la Información Pública.
 
 ## Título II
 
@@ -680,6 +708,8 @@ Para ser candidato a alcalde se deberá acreditar haber cursado la enseñanza me
 
 El alcalde asumirá sus funciones de acuerdo a lo previsto en el artículo 83.
 
+El alcalde que sea reelegido será responsable por las acciones y omisiones imputables del período alcaldicio inmediatamente precedente, que afecten la probidad administrativa o impliquen un notable abandono de deberes, sin perjuicio de que se aplique, a su respecto, lo previsto en el artículo 51 bis.
+
 #### Artículo 59
 
 El cargo de alcalde será incompatible con el ejercicio de cualquier otro empleo o función pública retribuido con fondos estatales, con excepción de los empleos o funciones docentes de educación básica, media o superior, hasta el límite de doce horas semanales.
@@ -704,9 +734,19 @@ La causal establecida en la letra a) será declarada por el tribunal electoral r
 
 La causal establecida en la letra b) será declarada por el mismo tribunal, a requerimiento de a lo menos dos concejales de la correspondiente municipalidad. El alcalde que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer al concejo tan pronto tenga conocimiento de su existencia.
 
-La causal establecida en la letra c) será declarada por el tribunal electoral regional respectivo, a requerimiento de a lo menos un tercio de los concejales en ejercicio; salvo tratándose del caso previsto en el inciso segundo del artículo 65, en que la remoción sólo podrá promoverla el concejo, observándose en todo caso el procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593, para lo cual no se requerirá el patrocinio de abogado.
+La causal establecida en la letra c) será declarada por el tribunal electoral regional respectivo, a requerimiento de, a lo menos, un tercio de los concejales en ejercicio, observándose el procedimiento establecido en los artículos 17 y siguientes de la ley Nº 18.593, de los Tribunales Electorales Regionales, para lo cual no se requerirá patrocinio de abogado.
+
+En el requerimiento, los concejales podrán pedir al tribunal electoral regional respectivo la cesación en el cargo o, en subsidio, la aplicación de alguna de las medidas disciplinarias dispuestas en las letras a), b) y c) del artículo 120 de la ley Nº 18.883, que aprueba el Estatuto Administrativo para Funcionarios Municipales.
+
+El tribunal electoral regional competente adoptará las medidas necesarias para acumular los respectivos antecedentes, a fin de evitar un doble pronunciamiento sobre una misma materia.
+
+El mismo procedimiento descrito en los incisos anteriores se utilizará cuando el Tribunal Electoral Regional estime que uno o más concejales han incurrido en una contravención grave de las normas sobre probidad administrativa o en notable abandono de deberes, lo cual se entiende sin perjuicio de lo dispuesto en el artículo 77 de esta ley.
 
 Con todo, la cesación en el cargo de alcalde, tratándose de las causales contempladas en las letras a), b) y c), operará sólo una vez ejecutoriada la resolución que declare su existencia. Sin perjuicio de ello, en el caso de notable abandono de deberes o contravención grave a las normas sobre probidad administrativa, el alcalde quedará suspendido en el cargo tan pronto le sea notificada la sentencia de primera instancia que acoja el requerimiento. En tal caso se aplicará lo dispuesto en el inciso tercero del artículo 62. En el evento de quedar a firme dicha resolución, el afectado estará inhabilitado para ejercer cualquier cargo público por el término de cinco años.
+
+Sin perjuicio de lo establecido en el artículo 51, se considerará que existe notable abandono de deberes cuando el alcalde o concejal transgrediere, inexcusablemente y de manera manifiesta o reiterada, las obligaciones que le imponen la Constitución y las demás normas que regulan el funcionamiento municipal; así como en aquellos casos en que una acción u omisión, que le sea imputable, cause grave detrimento al patrimonio de la municipalidad y afecte gravemente la actividad municipal destinada a dar satisfacción a las necesidades básicas de la comunidad local. Se entenderá, asimismo, que se configura un notable abandono de deberes cuando el alcalde, en forma reiterada, no pague íntegra y oportunamente las cotizaciones previsionales correspondientes a sus funcionarios o a trabajadores de los servicios traspasados en virtud de lo dispuesto en el decreto con fuerza de ley Nº 1-3.063, de 1979, del Ministerio del Interior, y de aquellos servicios incorporados a la gestión municipal. El alcalde siempre deberá velar por el cabal y oportuno pago de las cotizaciones previsionales de los funcionarios y trabajadores señalados precedentemente, y trimestralmente deberá rendir cuenta al concejo municipal del estado en que se encuentra el cumplimiento de dicha obligación.
+
+Con todo, cuando un alcalde pagare deudas previsionales originadas en un período alcaldicio anterior en el que no haya ejercido funciones como titular de ese cargo, él y los demás funcionarios que intervinieren en el pago estarán exentos de responsabilidad civil por las multas e intereses que dichas deudas hubieren ocasionado.
 
 #### Artículo 61
 
@@ -716,13 +756,19 @@ El alcalde o concejal cuyo derecho a sufragio se suspenda por alguna de las caus
 
 El alcalde, en caso de ausencia o impedimento no superior a cuarenta y cinco días, será subrogado en sus funciones por el funcionario en ejercicio que le siga en orden de jerarquía dentro de la municipalidad, con exclusión del juez de policía local. Sin embargo, previa consulta al concejo, el alcalde podrá designar como subrogante a un funcionario que no corresponda a dicho orden. No obstante, si la ausencia o impedimento obedeciere a razones médicas o de salud que imposibiliten temporalmente el ejercicio del cargo, la subrogancia se extenderá hasta 130 días.
 
-La subrogación comprenderá también la representación del municipio, la atribución de convocar al concejo y el derecho a asistir a sus sesiones sólo con derecho a voz. Mientras opere la subrogancia, la presidencia del concejo la ejercerá el concejal presente que haya obtenido mayor votación ciudadana en la elección municipal respectiva, salvo cuando opere lo dispuesto en el inciso tercero del artículo 107.
+La subrogación comprenderá, también, la representación judicial y extrajudicial de la municipalidad y el derecho a asistir a sus sesiones sólo con derecho a voz, con excepción de la representación protocolar. Mientras proceda la subrogancia, la presidencia del concejo la ejercerá el concejal presente que haya obtenido mayor votación ciudadana en la elección municipal respectiva, salvo cuando se verifique lo dispuesto en el inciso tercero del artículo 107. El concejal que presida durante la subrogancia, además, representará protocolarmente a la municipalidad, y convocará al concejo.
 
 Cuando el alcalde se encuentre afecto a una incapacidad temporal superior a cuarenta y cinco días, salvo en la situación prevista en la oración final del inciso primero, el concejo designará de entre sus miembros a un alcalde suplente, en sesión especialmente convocada al efecto, de conformidad a lo dispuesto en el inciso siguiente.
 
 En caso de vacancia del cargo de alcalde, el concejo procederá a elegir un nuevo alcalde, que complete el período, de entre sus propios miembros y por mayoría absoluta de los concejales en ejercicio, en sesión especialmente convocada al efecto. De no reunir ninguno de ellos dicha mayoría, se repetirá la votación, circunscrita sólo a los dos concejales que hubieren obtenido las dos mayorías relativas. En caso de no lograrse nuevamente la mayoría absoluta en esta segunda votación, o produciéndose empate, será considerado alcalde aquél de los dos concejales que hubiere obtenido mayor número de preferencias ciudadanas en la elección municipal respectiva. El mismo mecanismo de las preferencias ciudadanas se aplicará también para resolver los empates en la determinación de las mayorías relativas en la primera votación.
 
-La elección se efectuará en sesión extraordinaria que se celebrará dentro de los doce días siguientes a la fecha en que se hubiere producido la vacante. El secretario municipal citará al efecto al concejo con tres días de anticipación a lo menos. El nuevo alcalde así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido. Mientras no sea elegido nuevo alcalde, regirá lo dispuesto en el inciso primero.
+La elección se efectuará en una única sesión extraordinaria que se celebrará dentro de los diez días siguientes a la fecha en que se hubiere producido la vacante. El secretario municipal citará al efecto al concejo con tres días de anticipación a lo menos. El nuevo alcalde así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido. Mientras no sea elegido nuevo alcalde, regirá lo dispuesto en el inciso primero.
+
+En caso que dicha sesión no pudiere realizarse en la fecha convocada, el secretario municipal citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la fracasada, en idénticas condiciones que esta.
+
+Si la segunda sesión nuevamente no pudiere realizarse, en la fecha convocada, el secretario municipal citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la anterior. Esta nueva sesión extraordinaria, destinada a elegir alcalde, se celebrará con el o los concejales que asistan y resultará elegido alcalde aquel concejal que obtenga la mayor cantidad de votos. En caso de empate, será considerado alcalde aquel de los concejales igualados que hubiere obtenido mayor número de sufragios en la elección municipal respectiva.
+
+Si la tercera sesión extraordinaria convocada tampoco pudiere realizarse, asumirá como alcalde aquel concejal en ejercicio que hubiere obtenido el mayor número de sufragios en la elección municipal correspondiente.
 
 #### Artículo 62 bis
 
@@ -824,7 +870,7 @@ La municipalidad dictará una ordenanza que señale el procedimiento y caracter�
 
 La facultad a que se refiere el párrafo primero de esta letra podrá ser ejercida una vez que se haya dictado la ordenanza mencionada en el párrafo precedente.
 
-Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra c) del artículo 60.
+Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra c) del artículo 60. No obstante lo expresado precedentemente, los concejales podrán someter a consideración del concejo las materias señaladas anteriormente, siempre que éstas no incidan en la administración financiera del municipio.
 
 Al aprobar el presupuesto, el concejo velará porque en él se indiquen los ingresos estimados y los montos de los recursos suficientes para atender los gastos previstos. El concejo no podrá aumentar el presupuesto de gastos presentado por el alcalde, sino sólo disminuirlo, y modificar su distribución, salvo respecto de gastos establecidos por ley o por convenios celebrados por el municipio. Con todo, el presupuesto deberá reflejar las estrategias, políticas, planes, programas y metas aprobados por el concejo a proposición del alcalde.
 
@@ -856,7 +902,7 @@ Sin perjuicio de lo señalado en el inciso primero, tratándose de la suscripci�
 
 #### Artículo 67
 
-El alcalde deberá dar cuenta pública al concejo y al consejo comunal de organizaciones de la sociedad civil, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad.
+El alcalde deberá dar cuenta pública al concejo y al consejo comunal de organizaciones de la sociedad civil, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad. Deberán ser invitados también a esta sesión del concejo, las principales organizaciones comunitarias y otras relevantes de la comuna; las autoridades locales, regionales, y los parlamentarios que representen al distrito y la circunscripción a que pertenezca la comuna respectiva.
 
 La cuenta pública se efectuará mediante informe escrito, el cual deberá hacer referencia a lo menos a los siguientes contenidos:
 
@@ -866,15 +912,19 @@ b) Las acciones realizadas para el cumplimiento del plan comunal de desarrollo, 
 
 c) Las inversiones efectuadas en relación con los proyectos concluidos en el período y aquellos en ejecución, señalando específicamente las fuentes de su financiamiento;
 
-d) Un resumen de las observaciones más relevantes efectuadas por la Contraloría General de la República, en cumplimiento de sus funciones propias, relacionadas con la administración municipal;
+d) Un resumen de las auditorías, sumarios y juicios en que la municipalidad sea parte, las resoluciones que respecto del municipio haya dictado el Consejo para la Transparencia, y de las observaciones más relevantes efectuadas por la Contraloría General de la República, en cumplimiento de sus funciones propias, relacionadas con la administración municipal;
 
 e) Los convenios celebrados con otras instituciones, públicas o privadas, así como la constitución de corporaciones o fundaciones, o la incorporación municipal a ese tipo de entidades;
 
-f) Las modificaciones efectuadas al patrimonio municipal, y
+f) Las modificaciones efectuadas al patrimonio municipal;
 
-g) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
+g) Los indicadores más relevantes que den cuenta de la gestión en los servicios de educación y salud, cuando estos sean de administración municipal, tales como el número de colegios y alumnos matriculados; de los resultados obtenidos por los alumnos en las evaluaciones oficiales que se efectúen por el Ministerio de Educación; de la situación previsional del personal vinculado a las áreas de educación y salud; del grado de cumplimiento de las metas sanitarias y de salud a nivel comunal, y
+
+h) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
 
 Un extracto de la cuenta pública del alcalde deberá ser difundido a la comunidad. Sin perjuicio de lo anterior, la cuenta íntegra efectuada por el alcalde deberá estar a disposición de los ciudadanos para su consulta.
+
+Asimismo, el alcalde deberá hacer entrega, al término de su mandato, de un Acta de Traspaso de Gestión, la que deberá consignar la información consolidada de su período alcaldicio, respecto de los contenidos indicados en el inciso segundo del presente artículo, así como de los contratos y concesiones vigentes. Dicha Acta deberá ser suscrita por el secretario municipal y el jefe de la unidad de control. Sin embargo, podrán no suscribirla si no estuviesen de acuerdo con sus contenidos, debiendo comunicar ello al alcalde que termina su mandato. El Acta de Traspaso de Gestión se entregará tanto al alcalde que asume como a los nuevos concejales que se integrarán, a contar de la sesión de instalación del concejo.
 
 El no cumplimiento de lo establecido en este artículo será considerado causal de notable abandono de sus deberes por parte del alcalde.
 
@@ -974,17 +1024,19 @@ a) Incapacidad psíquica o física para el desempeño del cargo;
 
 b) Renuncia por motivos justificados, aceptada por el concejo. Con todo, la renuncia que fuere motivada por la postulación a otro cargo de elección popular no requerirá de acuerdo alguno;
 
-c) Inasistencia injustificada a más del cincuenta por ciento de las sesiones ordinarias a que se cite en un año calendario;
+c) Inasistencia injustificada a más del veinticinco por ciento de las sesiones ordinarias a que se cite en un año calendario;
 
 d) Inhabilidad sobreviniente, por alguna de las causales previstas en las letras a) y b) del artículo anterior;
 
 e) Pérdida de alguno de los requisitos exigidos para ser elegido concejal. Sin embargo, la suspensión del derecho de sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo, y
 
-f) Incurrir en una contravención grave al principio de la probidad administrativa o en alguna de las incompatibilidades previstas en el inciso primero del artículo anterior.
+f) Incurrir en una contravención grave al principio de la probidad administrativa, en notable abandono de deberes o en alguna de las incompatibilidades previstas en el inciso primero del artículo anterior.
 
 #### Artículo 77
 
-Las causales establecidas en las letras a), c), d), e) y f) del artículo anterior serán declaradas por el tribunal electoral regional respectivo, a requerimiento de cualquier concejal de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
+Las causales establecidas en las letras a), c), d), e) y f) del artículo anterior serán declaradas por el tribunal electoral regional respectivo, a requerimiento, según corresponda, del alcalde o de cualquier concejal de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
+
+Al concejal que fuere removido de su cargo, por la causal prevista en la letra f) del artículo precedente, le será aplicable la inhabilidad establecida en el artículo 60.
 
 #### Artículo 78
 
@@ -1010,7 +1062,7 @@ Al concejo le corresponderá:
 
 a) Elegir al alcalde, en caso de vacancia, de acuerdo con lo dispuesto en el artículo 62, para este efecto el concejal deberá acreditar cumplir con los requisitos especificados en el inciso segundo del artículo 57;
 
-b) Pronunciarse sobre las materias que enumera el artículo 65 de esta ley;
+b) Pronunciarse sobre las materias que enumera el artículo 65 de esta ley. Los concejales presentes en la votación respectiva deberán expresar su voluntad, favorable o adversa, respecto de las materias sometidas a aprobación del concejo, a menos que les asista algún motivo o causa para inhabilitarse o abstenerse de emitir su voto, debiendo dejarse constancia de ello en el acta respectiva;
 
 c) Fiscalizar el cumplimiento de los planes y programas de inversión municipales y la ejecución del presupuesto municipal, analizar el registro público mensual de gastos detallados que lleva la Dirección de Administración y Finanzas, como asimismo, la información, y la entrega de la misma, establecida en las letras c) y d) del artículo 27;
 
@@ -1040,7 +1092,7 @@ comunal de organizaciones de
 
 la sociedad civil;
 
-l) Fiscalizar las unidades y servicios municipales;
+l) Fiscalizar las unidades y servicios municipales. En el ejercicio de su función fiscalizadora, el concejo, con el acuerdo de, al menos, un tercio de sus miembros, podrá citar a cualquier director municipal para que asista a sesiones del concejo con el objeto de formularle preguntas y requerir información en relación con materias propias de su dirección. El reglamento de funcionamiento del concejo establecerá el procedimiento y demás normas necesarias para regular estas citaciones;
 
 ll) Autorizar los cometidos del alcalde y de los concejales que signifiquen ausentarse del territorio nacional.
 
@@ -1062,7 +1114,7 @@ La fiscalización que le corresponde ejercer al concejo comprenderá también la
 
 Las diferentes acciones de fiscalización deberán ser acordadas dentro de una sesión ordinaria del concejo y a requerimiento de cualquier concejal.
 
-El concejo, por la mayoría de sus miembros, podrá disponer la contratación de una auditoría externa que evalúe la ejecución presupuestaria y el estado de situación financiera del municipio. Esta facultad podrá ejercerse sólo una vez al año en los municipios cuyos ingresos anuales superen las 6.250 unidades tributarias anuales, y cada dos años en los restantes municipios.
+El concejo, por la mayoría de sus miembros, podrá disponer la contratación de una auditoría externa que evalúe la ejecución presupuestaria y el estado de situación financiera del municipio. Esta facultad podrá ejercerse sólo una vez al año en los municipios cuyos ingresos anuales superen las 6.250 unidades tributarias anuales, y cada dos años en los restantes municipios. No obstante lo anteriormente señalado, el concejo podrá disponer de la contratación de una auditoría externa que evalúe el estado de situación financiera del municipio, cada vez que se inicie un período alcaldicio. Aquella deberá acordarse dentro de los ciento veinte días siguientes a la instalación del concejo, a que se refiere el inciso primero del artículo 83, y el alcalde requerirá, también, el acuerdo del concejo para adjudicar dicha auditoría.
 
 Sin perjuicio de lo anterior, el concejo dispondrá la contratación de una auditoría externa que evalúe la ejecución del plan de desarrollo, la que deberá practicarse cada tres o cuatro años, respectivamente, según la clasificación de los municipios por ingresos señalada en el inciso precedente.
 
@@ -1126,7 +1178,9 @@ El quórum para sesionar será la mayoría de los concejales en ejercicio.
 
 Salvo que la ley exija un quórum distinto, los acuerdos del concejo se adoptarán por la mayoría absoluta de los concejales asistentes a la sesión respectiva.
 
-Si hay empate, se tomará una segunda votación. De persistir el empate, se votará en una nueva sesión, la que deberá verificarse a más tardar dentro de tercero día. Si se mantiene dicho empate, corresponderá al alcalde el voto dirimente para resolver la materia.
+Si hay empate, se tomará una segunda votación. De persistir el empate, se votará en una nueva sesión, la que deberá verificarse a más tardar dentro de tercero día. Si se mantiene dicho empate, corresponderá a quien presida la sesión el voto dirimente para resolver la materia.
+
+Los alcaldes no serán considerados para el cálculo del quórum exigido para que el concejo pueda sesionar, pero sí en aquel requerido para adoptar acuerdos.
 
 #### Artículo 87
 
@@ -1134,7 +1188,7 @@ Todo concejal tiene derecho a ser informado plenamente por el alcalde o quien ha
 
 #### Artículo 88
 
-Los concejales tendrán derecho a percibir una dieta mensual de entre seis y doce unidades tributarias mensuales, según determine anualmente cada concejo por los dos tercios de sus miembros.
+Los concejales tendrán derecho a percibir una dieta mensual de entre siete coma ocho y quince coma seis unidades tributarias mensuales, según determine anualmente cada concejo por los dos tercios de sus miembros.
 
 El alcalde acordará con el concejo el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos tres.
 
@@ -1144,7 +1198,7 @@ Asimismo, no se considerarán las inasistencias de concejales motivadas en el cu
 
 La dieta completa sólo se percibirá por la asistencia a la totalidad de las sesiones del concejo celebradas en el mes respectivo, disminuyéndose proporcionalmente aquélla según el número de inasistencias del concejal. Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias. No obstante, la inasistencia sólo de hasta una sesión podrá ser compensada por la asistencia, en el mismo mes, a dos sesiones de comisión de las referidas en el artículo 92.
 
-Sin perjuicio de lo señalado, cada concejal tendrá derecho anualmente a una asignación adicional, a pagarse en el mes de enero, correspondiente a seis unidades tributarias mensuales, siempre que durante el año calendario anterior haya asistido formalmente, a lo menos, al setenta y cinco por ciento de las sesiones celebradas por el concejo en dicho período.
+Sin perjuicio de lo señalado, cada concejal tendrá derecho anualmente a una asignación adicional, a pagarse en el mes de enero, correspondiente a siete coma ocho unidades tributarias mensuales, siempre que durante el año calendario anterior haya asistido formalmente, a lo menos, al setenta y cinco por ciento de las sesiones celebradas por el concejo en dicho período.
 
 Con todo, cuando un concejal se encuentre en el desempeño de cometidos en representación de la municipalidad, tendrá derecho a percibir fondos con el objeto de cubrir sus gastos de alimentación y alojamiento. Tales fondos no estarán sujetos a rendición y serán equivalentes al monto del viático que corresponda al alcalde respectivo por iguales conceptos.
 
@@ -1158,7 +1212,7 @@ Se entiende que existe dicho interés cuando su resolución afecte moral o pecun
 
 #### Artículo 90
 
-Los empleadores de las personas que ejerzan un cargo de concejal, deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales, con el objeto de asistir a las sesiones del concejo. El tiempo que abarcaren los permisos otorgados se entenderá trabajado para todos los efectos legales.
+Los empleadores de las personas que ejerzan un cargo de concejal deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales hasta por ocho horas semanales, no acumulables, con el objeto de asistir a todas las sesiones del concejo y de las comisiones de trabajo que éste constituya. Del mismo modo, se deberán conceder permisos laborales para el desempeño de cometidos en representación de la municipalidad, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario municipal.
 
 Asimismo, los concejales, por la actividad que realicen en tal condición, quedarán sujetos al seguro contra riesgo de accidentes del trabajo y enfermedades profesionales establecido en la Ley Nº 16.744, gozando de los beneficios que correspondan a la naturaleza de su cargo. El costo de este beneficio será de cargo municipal.
 
@@ -1171,6 +1225,14 @@ Las obligaciones que las leyes pertinentes sobre seguridad social imponen a los 
 #### Artículo 92
 
 El concejo determinará en un reglamento interno las demás normas necesarias para su funcionamiento, regulándose en él las comisiones de trabajo que el concejo podrá constituir para desarrollar sus funciones, las que, en todo caso, serán siempre presididas por concejales, sin perjuicio de la asistencia de terceros cuya opinión se considere relevante a juicio de la propia comisión.
+
+#### Artículo 92 bis
+
+Cada municipalidad, en concordancia con su disponibilidad financiera, deberá dotar al concejo municipal y a los concejales de los medios de apoyo, útiles y apropiados, para desarrollar debida y oportunamente las funciones y atribuciones que esta ley le confiere, atendido el número de concejales de la municipalidad.
+
+Para ello, durante la primera sesión ordinaria, el alcalde someterá a la aprobación del concejo los medios a usar durante el período respectivo, debiendo este acuerdo formar parte del reglamento interno a que hace alusión el artículo 92, y ser publicado en la página web de la municipalidad, en concordancia con lo establecido en los artículos 2º y 7º de la ley Nº20.285, sobre Acceso a la Información Pública.
+
+Asimismo, cada año la municipalidad, en concordancia con su disponibilidad financiera, podrá incorporar en el presupuesto municipal recursos destinados a financiar la capacitación de los concejales en materias relacionadas con gestión municipal.
 
 ## Título IV
 
@@ -1208,7 +1270,7 @@ Las sesiones del consejo serán públicas, debiendo consignarse en actas los asu
 
 El alcalde deberá informar al consejo acerca de los presupuestos de inversión, del plan comunal de desarrollo y sobre las modificaciones al plan regulador, el que dispondrá de quince días hábiles para formular sus observaciones.
 
-Con todo, en el mes de marzo de cada año, el consejo deberá pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales, así como
+Con todo, en el mes de mayo de cada año, el consejo deberá pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales, así como
 
 sobre las materias de relevancia comunal que hayan sido establecidas por el concejo, y podrá interponer el recurso de reclamación establecido en el Título final de la presente ley.
 
@@ -1338,7 +1400,7 @@ Las candidaturas a alcaldes y concejales sólo podrán ser declaradas hasta las 
 
 La falsedad de cualquiera de los hechos aseverados en la declaración mencionada en el artículo 3° de la ley N° 18.700, o su omisión, producen la nulidad de la declaración de ese candidato y la de todos sus efectos legales posteriores, incluyendo su elección.
 
-En el caso que un alcalde postulare a su reelección o a su elección como concejal en su propia comuna, se procederá a su subrogación en conformidad con el inciso primero del artículo 62, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado, la presidencia del concejo sólo podrá ejercerla un concejal que no estuviere repostulando a dicho cargo. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los concejales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
+En el caso que un alcalde postulare a su reelección o a su elección como concejal en su propia comuna, se procederá a su subrogación en conformidad con el inciso primero del artículo 62, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado, el alcalde conservará su remuneración y la atribución de participar en las sesiones del concejo con derecho a voz y voto. Sin embargo,la presidencia del concejo sólo podrá ejercerla un concejal que no estuviere repostulando a dicho cargo o postulando al cargo de alcalde. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los concejales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
 
 Las declaraciones de candidaturas a alcalde y a concejales que presente un pacto electoral y los subpactos comprendidos en él podrán incluir candidatos de cualquiera de los partidos que los constituyan, independientemente de si éste se encuentra legalmente constituido en la respectiva región, siempre que lo esté en la mayoría de las regiones del país y al menos uno de los partidos suscriptores del pacto se encuentre constituido a nivel nacional.
 
