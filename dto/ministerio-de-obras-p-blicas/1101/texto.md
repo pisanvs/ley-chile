@@ -128,7 +128,7 @@ DEROGADO
 
 #### Artículo 12°
 
-Toda escritura que se extienda con motivo de la construcción o transferencia de "viviendas económicas", estará afecta solamente al 25% de los impuestos que correspondan hasta el plazo de dos años siguientes a su recepción, sin perjuicio de lo dispuesto en el artículo 13°.
+Toda escritura que se extienda con motivo de la construcción o transferencia de "viviendas económicas", estará afecta solamente al 50% de los impuestos que correspondan hasta el plazo de dos años siguientes a su recepción, sin perjuicio de lo dispuesto en el artículo 13°.
 
 #### Artículo 13°
 
@@ -173,6 +173,8 @@ Las aprobaciones a que se refieren los artículos 5.o, 6.o y 7.o de este decreto
 #### Artículo 18
 
 Aprobado un permiso de edificación que contemple "viviendas económicas", dicho permiso será reducido a escritura pública que firmarán el Tesorero Comunal respectivo, en representación del Estado, y el interesado. Esta escritura tendrá el carácter de un contrato, en el cual se entenderán incorporadas de pleno derecho las franquicias, exenciones y beneficios del presente decreto con fuerza de ley, y, en consecuencia, la persona natural acogida a sus disposiciones, así como sus sucesores o causa-habientes a cualquier título, con las limitaciones establecidas en el artículo 1°, gozarán en forma permanente de los privilegios indicados, no obstante cualquier modificación posterior que puedan sufrir parcial o totalmente las disposiciones referidas.
+
+Las "viviendas económicas" o las cuotas de dominio sobre ellas que se adquieran por personas naturales por sucesión por causa de muerte, no se considerarán para el límite máximo establecido en el artículo 1° de esta ley.
 
 Las franquicias, exenciones y beneficios expresados caducarán en caso de que las "viviendas económicas" respectivas fueren destruídas, o se iniciare su demolición o transformación de modo que vayan a perder sus características de tales. En estos últimos casos, la Dirección de Obras Municipales correspondiente, al otorgar el permiso, deberá declararlo expresamente y comunicar este hecho a la Dirección de Impuestos Internos.
 

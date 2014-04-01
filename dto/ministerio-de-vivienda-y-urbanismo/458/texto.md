@@ -1660,29 +1660,33 @@ Los grupos de Viviendas Económicas podrán tener locales destinados a comercio 
 
 a) 20% del total de la superficie construida en los conjuntos habitacionales de viviendas con terreno propio de uno o dos pisos, o conjuntos mixtos con viviendas en altura;
 
-b) 30% del total de la superficie edificada en los conjuntos habitacionales formados exclusivamente por edificios de departamentos de 3 o más pisos, pudiendo estos locales ubicarse solamente en el primer piso, o hasta el segundo piso en su caso.
+b) 30% del total de la superficie edificada en los conjuntos habitacionales formados exclusivamente por edificios de departamentos de 3 o más pisos.
 
-Cuando el Plan Regulador exija destino comercial obligatorio en primer piso y cuota mínima de estacionamiento, se podrán exceder los porcentajes antes señalados siempre que se construya el máximo de superficie permitida para ese terreno.
+La limitación de los porcentajes antes señalados no regirá en las zonas en que el Plan Regulador admite los destinos a que se refiere este artículo.
 
 #### Artículo 166
 
-A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbana o rural, sólo les serán aplicables las disposiciones de los planes reguladores y las normas técnicas que se indican a continuación:
+A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbana o rural, en materia de planes reguladores y normas técnicas sólo les serán aplicables las disposiciones que se indican a continuación:
 
 a) Disposiciones de los planes reguladores referidas a zonas de riesgo o protección, declaraciones de utilidad pública y uso de suelo.
 
-b) Normas técnicas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores de electricidad, y, cuando corresponda, de agua potable, alcantarillado y gas.
+b) Normas técnicas de las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, cuando corresponda, y las demás que establece el Reglamento Especial de Viviendas Económicas.
 
 El cumplimiento de dichas disposiciones y normas será certificado sólo por el profesional competente que suscriba la solicitud del permiso de edificación y de recepción de obras.
 
-La certificación profesional a que se refiere el inciso anterior no se requerirá cuando la ampliación cuente con un informe favorable de inspección de la Dirección de Obras Municipales.
+Las disposiciones de este artículo también serán aplicables a:
 
-Los permisos de edificación y la recepción definitiva de las ampliaciones de que trata este artículo, se tramitarán conforme al procedimiento simplificado de obra menor de vivienda social, que para estos efectos establecerá la Ordenanza General.
+1) La regularización de las ampliaciones a que se refiere el inciso primero.
 
-Las disposiciones del presente artículo se aplicarán asimismo a la regularización de las edificaciones construidas con anterioridad al 31 de julio de 1959.
+2) La regularización de una segunda o tercera vivienda en el mismo predio que originalmente contó con una vivienda social, en cuyo caso el valor de 520 unidades de fomento se aplicará, separadamente, a cada vivienda adicional.
 
-Lo dispuesto en el presente artículo también será aplicable en caso de regularización de otras viviendas o infraestructuras sanitarias en el mismo predio, en cuyo caso el valor de 520 unidades de fomento se aplicará, separadamente, a cada vivienda o infraestructura sanitaria adicional.
+3) La regularización de edificaciones construidas con anterioridad al 31 de julio de 1959.
 
-Las Municipalidades podrán desarrollar programas de regularización de conjuntos de viviendas sociales conforme al presente artículo, en cuyo caso podrán aprobarse permisos y recepciones colectivas.
+Las municipalidades podrán desarrollar programas de regularización de grupos de viviendas sociales o viviendas sociales ampliadas conforme a este artículo, en cuyo caso podrán aprobarse los permisos y recepciones de los distintos propietarios en forma simultánea.
+
+En las regularizaciones, el certificado señalado en el inciso segundo podrá reemplazarse por un informe favorable de inspección de la Dirección de Obras Municipales.
+
+Los permisos de edificación y la recepción definitiva de las obras que trata este artículo se tramitarán conforme al procedimiento simplificado que para estos efectos establecerá la Ordenanza General.
 
 Los derechos municipales serán los que se establecen en el artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados, a lo menos, en 50% en los casos contemplados en el presente artículo.
 
