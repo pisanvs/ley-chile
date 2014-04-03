@@ -1,0 +1,3 @@
+Por resolución exenta Nº 811, de 25 de marzo de 2014, de esta Subsecretaría, rectifíquese el numeral 1.- y el extracto de las resoluciones exentas Nº 3.797, Nº 3.799, Nº 3.800, Nº 3.801 y Nº 3.802, todas de 2013, que otorgaron a BLUMAR S.A. permisos extraordinarios de pesca para las unidades de pesquería de los recursos hidrobiológicos Langostino colorado y Langostino amarillo, respectivamente, en el sentido de señalar que el nombre del armador es "Blumar S.A." y no como allí se indica.
+
+Valparaíso, 25 de marzo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
