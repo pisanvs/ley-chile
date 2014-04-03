@@ -1,0 +1,3 @@
+Por resoluciones exentas Nº 191 y 351, ambas de 24 de enero de 2014, de esta Subsecretaría, se han rechazado los recursos de reposición interpuestos por don MIGUEL LUNA TORRES y RAMÓN REYES CARRILLO en contra de la resolución exenta Nº 2.695, que estableció la nómina de rechazados del Programa de Monitoreo Participativo de la Pesquería Artesanal de Sardina común y Anchoveta en la Región del Biobío, según consta en las resoluciones anteriormente individualizadas.
+
+Valparaíso, 24 de enero de 2014.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
