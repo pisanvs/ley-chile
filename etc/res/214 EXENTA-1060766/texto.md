@@ -1,0 +1,23 @@
+PRORROGA PLAZOS DEL DECRETO Nº113, DE 2012, DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA, QUE APRUEBA EL REGLAMENTO DE LA LEY Nº 20.590, QUE ESTABLECE UN PROGRAMA DE INTERVENCIÓN EN ZONAS CON PRESENCIA DE POLIMETALES EN LA COMUNA DE ARICA
+
+Núm. 214 exenta.- Santiago, 28 de marzo de 2014.- Vistos: El decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; la Ley Nº 20.590, que Establece un Programa de Intervención en Zonas con Presencia de Polimetales en la comuna de Arica; el decreto supremo Nº 113, de 29 de noviembre de 2012, del Ministerio Secretaría General de la Presidencia, que aprueba el Reglamento de la Ley Nº 20.590, que Establece un Programa de Intervención en Zonas con Presencia de Polimetales en la comuna de Arica; el decreto supremo Nº 31, de 2014, del Ministerio del Medio Ambiente, que nombra Subsecretario del Medio Ambiente; el oficio ordinario Nº 474, de 26 de marzo de 2014, de la Subsecretaría del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600 de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón; y
+
+Considerando:
+
+1. Que, el 29 de mayo de 2012, se publicó en el Diario Oficial la Ley Nº 20.590 que Establece un Programa de Intervención en Zonas con Presencia de Polimetales en la comuna de Arica, la cual, de acuerdo a su artículo 1º, tiene por objeto "establecer un programa de acción en las zonas o terrenos específicos con presencia de polimetales en la comuna de Arica y en sus habitantes que cumplan la calidad de beneficiarios".
+
+2. Que, en el artículo 2º de la citada ley, se dispone que a través de un reglamento se establecerán los criterios, requisitos y procedimientos para determinar a los beneficiarios de las acciones del programa establecido en la misma ley. Por su parte, el artículo 10 Nº 4, establece que un reglamento determinará los requisitos, condiciones y procedimiento de otorgamiento de la Beca Polimetales de Arica. Además, el artículo 16 de la misma ley dispuso que un reglamento establecería las definiciones, plazos y procedimientos para llevar a cabo la evaluación ambiental frente a la presencia de sustancias químicas y otros contaminantes en la zona con presencia de polimetales. Asimismo, el artículo 17 del mismo cuerpo legal dispuso que un reglamento fijaría los criterios para la realización de estudios destinados a evaluar la exposición ambiental con motivo de la presencia de polimetales en la comuna de Arica.
+
+3. Que, dada la complejidad de las materias abordadas por la Ley Nº 20.590 y la necesidad de dar unidad, coherencia y sistematicidad al Programa de intervención en zonas con presencia de polimetales en la comuna de Arica, se dictó un único reglamento en ejecución de dicha ley. Tal reglamento fue aprobado mediante el decreto supremo Nº 113, de 29 de noviembre de 2012, del Ministerio Secretaría General de la Presidencia, siendo publicado en el Diario Oficial el día 24 de octubre de 2013.
+
+4. Que, el referido Reglamento dispone en su artículo 16 que "los plazos señalados en el presente reglamento podrán ser ampliados por resolución del Subsecretario del Medio Ambiente por razones fundadas".
+
+5. Que en atención a las circunstancias expuestas en el oficio ordinario Nº 474, de 26 de marzo de 2014, de la Subsecretaría del Ministerio Secretaría General de la Presidencia, que solicita la prórroga de los plazos establecidos en el Reglamento de la Ley Nº 20.590, se ha estimado prudente prorrogar los plazos establecidos en el citado Reglamento.
+
+Resuelvo:
+
+Prorrógase, por 180 días corridos los plazos establecidos en los artículos 31, numerales 4, 5, 6 y 7; 34, 35 y 40 del decreto supremo Nº 113, de 29 de noviembre de 2012, del Ministerio Secretaría General de la Presidencia, que aprueba el Reglamento de la Ley Nº 20.590, que Establece un Programa de Intervención en Zonas con Presencia de Polimetales en la comuna de Arica.
+
+Anótese, comuníquese y publíquese.- Marcelo Mena Carrasco, Subsecretario del Medio Ambiente.
+
+Lo que transcribo a Ud. para su conocimiento.- Marcelo Mena Carrasco, Subsecretario del Medio Ambiente.
