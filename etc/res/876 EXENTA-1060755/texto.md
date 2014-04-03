@@ -1,0 +1,3 @@
+Por resolución exenta Nº 876, de 26 de marzo de 2014, de esta Subsecretaría, recházanse las solicitudes números 210105033, 211105020, 210105011, 211105023, 211105013, 211105012, 210105029, 210105006, 211105030, 210105018, 210101057, 211101091, 210101068, 211101054 y 210101066, individualizadas en la resolución extractada, y publicada en www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de marzo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
