@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A ZURICH SANTANDER SEGUROS DE VIDA CHILE S.A.
+
+Certifico: Que por resolución exenta Nº 90, de fecha 1 de abril de 2014, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Zurich Santander Seguros de Vida Chile S.A., acordada en junta extraordinaria de accionistas celebrada el 16 de enero de 2014 y reducida a escritura pública con igual fecha, en la Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos Nº 979, séptimo piso, modificada por escritura pública de fecha 13 de marzo de 2014, según lo observado en oficio Nº 6.688, de 2014, otorgada en la notaría antes singularizada.
+
+La reforma consiste en disminuir el capital social de $103.252.929.443.-, dividido en 6.414 acciones sin valor nominal, todas de una misma serie y de igual valor a $36.252.929.443.-, dividido en 6.414 acciones sin valor nominal, todas de una misma serie y de igual valor, mediante la devolución de $67.000.000.000.- a los accionistas. El capital social se encuentra íntegramente suscrito y pagado. Se modifican artículos quinto y primero transitorio. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 1 de abril de 2014.- Carmen Undurraga Martínez, Secretario General.
