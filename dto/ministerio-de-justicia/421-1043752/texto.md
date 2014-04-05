@@ -16,7 +16,7 @@ Considerando:
 
 Decreto:
 
-1º Créase, en el inmueble fiscal que actualmente ocupa el "Centro de Detención Preventiva de San Miguel", ubicado en calle San Francisco Nº 4756, de la comuna de San Miguel, provincia de Santiago, Región Metropolitana, un establecimiento penitenciario denominado "Centro Penitenciario Femenino de San Miguel".
+1º Créase, en el inmueble fiscal que actualmente ocupa el "Centro de Detención Preventiva de San Miguel", ubicado en calle San Francisco Nº 4756, de la comuna de San Miguel, provincia de Santiago, Región Metropolitana, un establecimiento penitenciario denominado "Centro Penitenciario Femenino "Mayor Marisol Estay" de San Miguel.
 
 2º La dirección y administración interna del establecimiento penitenciario que se crea, corresponderán a Gendarmería de Chile y se regirán por lo establecido en el Reglamento de Establecimientos Penitenciarios, DS Nº 518, de 1998, del Ministerio de Justicia, y sus modificaciones; por las normas ordinarias y generales que regulan el funcionamiento interno de los establecimientos penitenciarios y por las resoluciones que se dicten al efecto por el Director Nacional de Gendarmería de Chile.
 
