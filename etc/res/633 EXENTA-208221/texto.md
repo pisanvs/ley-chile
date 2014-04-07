@@ -92,6 +92,60 @@ Actinidia spp. Pseudomonas syringae pv.
 
 (Kiwi) actinidiae
 
+Una vez aprobada la
+
+inspección en el Punto
+
+de Ingreso quedará
+
+sometida a Cuarentena
+
+Posentrada para Material
+
+Vegetal como Cultivo de
+
+Tejido In Vitro en una
+
+Estación Cuarentenaria 2
+
+(estructura de
+
+confinamiento), en
+
+condiciones ex vitro. De
+
+ser necesario, puede
+
+ingresar previamente a
+
+una Estación Cuarentenaria
+
+3 (laboratorio)para su
+
+aclimatización.
+
+La duración del período
+
+de cuarentena dependerá
+
+del tiempo necesario para
+
+que el material vegetal
+
+alcance el desarrollo
+
+vegetativo adecuado y
+
+necesario para realizar
+
+las pruebas de diagnóstico
+
+de laboratorio para la
+
+detección de Pseudomonas
+
+syringae pv. actinidiae.
+
 Ananas spp. Sin Declaración Adicional
 
 (Piña)
@@ -182,6 +236,8 @@ Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
+ELIMINADA
+
 Plum pox virus (PPV)
 
 Xylella fastidiosa
@@ -191,6 +247,8 @@ Prunus avium Cherry leaf roll virus (CLRV)
 (Cerezo dulce) Cherry necrotic rusty mottle
 
 disease
+
+ELIMINADA
 
 Peach X disease phytoplasma
 
@@ -208,7 +266,9 @@ Xylella fastidiosa
 
 Prunus cerasus Cherry leaf roll virus (CLRV)
 
-(Cerezo ácido - Guindo) Peach X disease phytoplasma
+(Cerezo ácido - Guindo) ELIMINADA
+
+Peach X disease phytoplasma
 
 Plum pox virus (PPV)
 
@@ -224,7 +284,7 @@ Prunus domestica Apricot chlorotic leaf roll
 
 phytoplasma
 
-Prunus domestica sub sp.
+Prunus domestica sub sp. ELIMINADA
 
 Insititia
 
@@ -242,7 +302,9 @@ Prunus persica var Peach yellows phytoplasma
 
 nucipersica
 
-(Duraznero - Nectarino) Plum pox virus (PPV)
+(Duraznero - Nectarino) ELIMINADA
+
+Plum pox virus (PPV)
 
 Xylella fastidiosa
 
@@ -251,6 +313,8 @@ Prunus salicina Apricot chlorotic leaf roll
 (Ciruelo japonés) phytoplasma
 
 Peach X disease phytoplasma
+
+ELIMINADA
 
 Plum pox virus (PPV)
 
@@ -272,6 +336,8 @@ Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
+ELIMINADA
+
 Plum pox virus (PPV)
 
 Xylella fastidiosa
@@ -281,6 +347,8 @@ Prunus avium X P. Cherry leaf roll virus (CLRV)
 canescens X P. tomentosa Cherry necrotic rusty mottle
 
 disase
+
+ELIMINADA
 
 Peach X disease phytoplasma
 
@@ -296,6 +364,8 @@ canescens X P. kurilensis Cherry necrotic rusty mottle
 
 disase
 
+ELIMINADA
+
 Peach X disease phytoplasma
 
 Plum pox virus (PPV)
@@ -310,6 +380,8 @@ salicina Apricot chlorotic leaf roll
 
 phytoplasma
 
+ELIMINADA
+
 Plum pox virus (PPV)
 
 Peach X disease phytoplasma
@@ -318,7 +390,9 @@ Xylella fastidiosa
 
 Prunus cerasus X P. Cherry leaf roll virus (CLRV)
 
-kursar Peach X disease phytoplasma
+kursar ELIMINADA
+
+Peach X disease phytoplasma
 
 Plum pox virus (PPV)
 
@@ -330,7 +404,9 @@ munsoniana Plum pox virus (PPV)
 
 Prunus cerasifera X P. Cherry leaf roll virus (CLRV)
 
-dulcis X P. persica Peach X disease phytoplasma
+dulcis X P. persica ELIMINADA
+
+Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -340,7 +416,9 @@ Xylella fastidiosa
 
 Prunus dulcis X P.
 
-persica Peach X disease phytoplasma
+persica ELIMINADA
+
+Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -354,7 +432,9 @@ serrulata Plum pox virus (PPV)
 
 Prunus persica X P. Cherry leaf roll virus (CLRV)
 
-cerasifera Peach X disease phytoplasma
+cerasifera ELIMINADA
+
+Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -490,7 +570,9 @@ Prunus cerasus X
 
 Prunus Cherry leaf roll virus (CLRV)
 
-canescens Plum pox virus (PPV)
+canescens ELIMINADA
+
+Plum pox virus (PPV)
 
 Peach X disease phytoplasma
 
@@ -501,6 +583,8 @@ X Prunus Peach X disease phytoplasma
 davidiana Plum pox virus (PPV)
 
 (Nemaguard) Peach yellows phytoplasma
+
+ELIMINADA
 
 Xylella fastidiosa
 
