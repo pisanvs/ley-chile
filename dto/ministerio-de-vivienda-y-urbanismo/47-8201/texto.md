@@ -1650,7 +1650,9 @@ Los destinos de salas cuna y jardines infantiles se entenderán siempre admitido
 
 1.25. El tipo de uso Residencial contempla preferentemente el destino vivienda, e incluye hogares de acogida, así como edificaciones y locales destinados al hospedaje, sea éste remunerado o gratuito, siempre que no presten servicios comerciales adjuntos, tales como bares, restaurantes o discotecas, en cuyo caso requerirán que en el lugar donde se emplazan esté admitido algún uso comercial.
 
-En los conjuntos de viviendas o edificios colectivos se admitirá, como parte del uso de suelo Residencial, el funcionamiento de locales destinados a lavandería, gimnasio, piscina, guardería infantil o similares, para uso preferente de los residentes, mientras no requieran patente.
+En los conjuntos de viviendas o edificios colectivos se admitirá, como parte del uso de suelo Residencial, el funcionamiento de locales destinados a lavandería, gimnasio, piscina, guardería infantil o
+
+similares, para uso preferente de los residentes, mientras no requieran patente.
 
 Cuando los Instrumentos de Planificación Territorial existentes se refieran a uso de vivienda o habitacional, éstos se asimilarán al uso Residencial que señala este artículo.
 
