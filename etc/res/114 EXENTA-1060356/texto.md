@@ -14,7 +14,7 @@ Teniendo presente: Lo dispuesto en la Ley Nº18.834, Estatuto Administrativo; el
 
 Resuelvo:
 
-1. Fíjase, a contar del lunes 24 de marzo de 2014 y hasta el viernes 11 de abril, un nuevo avalúo por el gramo de metales nobles utilizado por las Unidades de Crédito en el cálculo de los préstamos con garantía prendaria del rubro Alhajas, conforme a la siguiente tabla:
+1. Fíjase, a contar del lunes 24 de marzo de 2014 y hasta el lunes 21 de abril de 2014, un nuevo avalúo por el gramo de metales nobles utilizado por las Unidades de Crédito en el cálculo de los préstamos con garantía prendaria del rubro Alhajas, conforme a la siguiente tabla:
 
 .
 
