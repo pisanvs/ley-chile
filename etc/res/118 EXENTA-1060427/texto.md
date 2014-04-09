@@ -14,7 +14,7 @@ Teniendo presente: Lo dispuesto en la ley Nº 18.575 Orgánica Constitucional so
 
 Resuelvo:
 
-1) Dispónese a contar del día 1º de abril de 2014, el otorgamiento de préstamos de excepción en el rubro Alhajas hasta por un monto de $500.000 (quinientos mil pesos), para aquellos usuarios portadores de garantías de un alto valor de tasación que así lo soliciten.
+1) Dispónese el otorgamiento de préstamos de excepción en el rubro Alhajas hasta por un monto de $500.000 (quinientos mil pesos), para aquellos usuarios portadores de garantías de un alto valor de tasación que así lo soliciten.
 
 2) Apruébese el siguiente Reglamento a ser aplicado a las operaciones de crédito señaladas en el numeral precedente:
 
