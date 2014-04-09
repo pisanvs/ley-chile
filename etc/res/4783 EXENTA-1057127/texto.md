@@ -38,11 +38,11 @@ A partir de las fechas indicadas en el cuadro del Artículo 1º para cada zona p
 
 Para llamadas con destino a una red local a zonas primarias distintas de Santiago:
 
-CA + YXXXXXX
+CA + YXXXXXX y CA + 19RXXXX en el caso de numeración de telefonía rural.
 
 Para llamadas con destino a una red local de la zona primaria de Santiago:
 
-2 + YXXXXXXX
+2 + YXXXXXXX y 2 + 19RXXXXX en el caso de numeración de telefonía rural.
 
 Para llamadas con destino a la red móvil:
 
@@ -52,7 +52,7 @@ Para llamadas con destino a redes del mismo tipo:
 
 44 + YXXXXXX
 
-Donde CA = Código de área; X = Cualquier dígito entre 0 y 9; Y = Cualquier dígito distinto de 0 ó 1.
+Donde CA = Código de área; X = Cualquier dígito entre 0 y 9; Y = Cualquier dígito distinto de 0 ó 1; R = 5, 6, 7 u 8.
 
 #### Artículo 3º
 
