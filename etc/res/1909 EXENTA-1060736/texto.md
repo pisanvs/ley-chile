@@ -20,7 +20,7 @@ Resolución:
 
 1. Llámase a formulación de propuestas para la selección de nuevos barrios en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, Libertador Bernardo O'Higgins, Maule, Biobío, La Araucanía, Los Ríos, Los Lagos, Aysén, Magallanes y Metropolitana, ubicados dentro de las zonas prioritarias definidas por el Ministerio de Vivienda y Urbanismo, para su atención a través del Programa de Recuperación de Barrios.
 
-Excepcionalmente, a solicitud fundada de los municipios, la Seremi respectiva podrá autorizar la postulación de barrios que no se encuentren emplazados dentro de las zonas prioritarias definidas por el Ministerio de Vivienda y Urbanismo, cuando existan antecedentes sociales, urbanos y de seguridad que lo justifiquen y formen parte de ciudades conurbadas de 20 mil o más habitantes.
+Excepcionalmente, a solicitud fundada de los municipios, la Seremi respectiva podrá autorizar la postulación de barrios que no se encuentren emplazados dentro de las zonas prioritarias definidas por el Ministerio de Vivienda y Urbanismo, cuando existan antecedentes sociales, urbanos y de seguridad que lo justifiquen y formen parte de comuna de 20 mil o más habitantes.
 
 2. Las propuestas de barrios a intervenir serán presentadas por los municipios respectivos, a solicitud de las organizaciones comunitarias del territorio, conforme al formato entregado para estos efectos, en las oficinas de la Seremi, hasta las 12:00 horas del día 30 de abril de 2014.
 
@@ -31,6 +31,10 @@ La postulación deberá incorporar una propuesta de recuperación barrial y esta
 En dicho período, la Seremi podrá solicitar aclaraciones respecto de los antecedentes de la propuesta.
 
 4. Desde la fecha en que se declaren admisibles las propuestas, una Comisión Técnica, integrada por el jefe del Departamento de Planes y Programas, el jefe del Departamento de Desarrollo Urbano, el jefe del Departamento Jurídico y el Secretario Técnico del Programa de Recuperación de Barrios de la Seremi; y la Contraparte Serviu, o quien ellos designen, evaluará hasta el día 30 de mayo de 2014 los antecedentes que respalden la factibilidad técnica de la intervención en el barrio propuesto, calificándolo a éste como elegible o no elegible conforme a los siguientes criterios:
+
+.
+
+En dicho periodo, la Comisión, podrá solicitar aclaraciones respecto de la propuesta.
 
 Esta Comisión sesionará con la mayoría de sus integrantes y su calificación ponderará el 70% del puntaje total de selección.
 
