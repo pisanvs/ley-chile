@@ -158,7 +158,7 @@ Delégase, indistintamente, en el el Jefe del Departamento Administrativo, en el
 
 #### Artículo 4°
 
-Delégase en los Secretarios Regionales Ministeriales de Economía, Fomento y Turismo, a excepción del de la Región Metropolitana, la facultad de suscribir, bajo la fórmula "Por orden del Subsecretario", los siguientes actos administrativos:
+Delégase en los Secretarios Regionales Ministeriales de Economía, Fomento y Turismo, la facultad de suscribir, bajo la fórmula "Por orden del Subsecretario", los siguientes actos administrativos:
 
 a) La visación referida en el artículo 5º de la ley 19.896, respecto de los decretos o resoluciones que aprueben contratación de personas naturales a honorarios en los órganos y servicios públicos incluidos en la Ley de Presupuestos;
 
