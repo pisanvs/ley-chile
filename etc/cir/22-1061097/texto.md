@@ -1,0 +1,5 @@
+INSTRUYE SOBRE EL TRATAMIENTO TRIBUTARIO DE LAS DONACIONES QUE SE EFECTÚEN AL FONDO NACIONAL DE RECONSTRUCCIÓN CONFORME A LA LEY 20.444, EN VIRTUD DE LAS MODIFICACIONES EFECTUADAS POR LA LEY Nº 20.565
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 22, de fecha 8 de abril de 2014, la cual tiene por objeto instruir sobre el tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la ley 20.444, en virtud de las modificaciones efectuadas por la ley Nº 20.565, para lo cual se refunden y actualizan las instrucciones sobre la materia, actualmente contenidas en la Circular 44 de 2010 de este Servicio.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de abril de 2014.
