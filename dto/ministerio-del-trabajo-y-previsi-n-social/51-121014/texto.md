@@ -198,6 +198,10 @@ i) El Servicio de Bienestar podrá financiar, con cargo a sus propios recursos y
 
 j) El Servicio de Bienestar podrá financiar anualmente, con cargo a sus propios recursos de acuerdo a sus disponibilidades presupuestarias, una contribución económica para promocionar, desarrollar y/o celebrar actividades colectivas de índole sociocultural, deportivas y/o recreativas en beneficio de sus afiliados y cargas familiares. Corresponderá al Consejo Administrativo definir los lineamientos de las actividades a bonificar y los aportes a cada una de ellas.
 
+K) El Servicio de Bienestar podrá otorgar una vez al año, con cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, una bonificación por cada afiliado, con motivo de la celebración de navidad, año nuevo o vacaciones.
+
+Corresponderá al Consejo de Bienestar definir los lineamientos, condiciones, monto y oportunidad en que se otorgará este beneficio.
+
 ### Párrafo III
 
 De los préstamos
