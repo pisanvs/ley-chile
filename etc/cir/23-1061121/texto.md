@@ -1,0 +1,5 @@
+PLAZO Y PROCEDIMIENTO PARA DAR AVISO DE PÉRDIDAS DE EXISTENCIAS, O PÉRDIDA O INUTILIZACIÓN DE LIBROS DE CONTABILIDAD, PRODUCTO DEL TERREMOTO DE 1º DE ABRIL DE 2014
+
+Extracto de circular del Servicio de Impuestos Internos Nº23, de fecha 9 de abril de 2014, la cual tiene por objeto instruir sobre sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 1º de abril de 2014.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cI) y, además, aparecerá en el Boletín del SII en el mes de abril de 2014.
