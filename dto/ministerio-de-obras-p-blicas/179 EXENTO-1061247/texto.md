@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 179, de 04 de abril de 2014, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº1307, de 28 de agosto de 2013, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº72, expropiado con motivo de la obra: "Reposición Pavimento Ruta D-81. Illapel - Salamanca, IV Región", Comunas de Illapel y Salamanca, Provincia de Choapa, Región de Coquimbo. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 29 de febrero de 2012, complementada por acta de fecha 28 de marzo de 2013, en la suma de $649.800, para el lote Nº72.
+
+Fiscal del Ministerio de Obras Públicas.
