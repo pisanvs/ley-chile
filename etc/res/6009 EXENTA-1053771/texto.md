@@ -30,7 +30,7 @@ Resolución:
 
 6. Establécese que el Serviu de la Región Metropolitana enviará a la División de Política Habitacional, del Ministerio de Vivienda y Urbanismo, copia de las resoluciones del llamado y selección de los postulantes, las respectivas nóminas de familias beneficiadas y el monto de los recursos efectivamente asignados.
 
-7. Impútase el monto total de 275.000 unidades de fomento, asignado en esta resolución, a los recursos autorizados a la Región Metropolitana, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
+7. Impútase el monto total de 284.900 unidades de fomento, asignado en esta resolución, a los recursos autorizados a la Región Metropolitana, para el Programa Fondo Solidario de Elección de Vivienda del año 2013.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
