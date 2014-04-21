@@ -16,7 +16,7 @@ b) La facultad que me confiere el inciso cuarto del Artículo 17 del DS Nº 49 (
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual, para personas que formen parte del Catastro Nacional de Campamentos del Ministerio de Vivienda y Urbanismo del año 2011 de las regiones Metropolitana y Biobío, que se encuentren ingresadas sin observaciones, salvo las autorizadas mediante esta resolución, en el módulo de asignación directa del Sistema Informático Umbr@l, entre el día 3 de febrero y el día 10 de febrero de 2014.
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual, para personas que formen parte del Catastro Nacional de Campamentos del Ministerio de Vivienda y Urbanismo del año 2011 de las regiones Metropolitana y Biobío, que se encuentren ingresadas sin observaciones, salvo las autorizadas mediante esta resolución, en el módulo de asignación directa del Sistema Informático Umbr@l, hasta el día 10 de febrero de 2014.
 
 2. Sólo se recibirán solicitudes del módulo de asignación directa del Sistema Informático Umbr@l, enviadas en las fechas señaladas en el resuelvo anterior, las cuales deben ser identificadas con la sigla SEC (Secretaria Ejecutiva de Campamentos), al comienzo del nombre de la solicitud.
 
@@ -30,7 +30,7 @@ Resolución:
 
 7. Autorízase la postulación de personas mayores de 50 años, que en su Ficha de Protección Social no cuenten con grupo familiar, sin que sea neceserio que cumplan con lo dispuesto en los puntos 1 al 6 de la letra g), del artículo 15 del DS Nº 49 (V. y U.), de 2011.
 
-8. Los recursos destinados para la selección de los grupos postulantes a este Llamado ascienden a 150.000 Unidades de Fomento.
+8. Los recursos destinados para la selección de los grupos postulantes a este Llamado ascienden a 92.400 Unidades de Fomento.
 
 9. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde.
 
