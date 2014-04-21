@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.041 EXENTA, DE 2014
+
+Por resolución exenta Nº 2.041, de fecha 7 de abril de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Patricio Córdova Pinto y Compañía Limitada" o "Alcalá Conductores Limitada", RUT Nº 76.081.763-5, representada legalmente por el señor Patricio Hernán Córdova Pinto, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clases A-2, A-3, A-4 y A-5, en la nueva sede ubicada en Mapocho Nº 4086, y taller mecánico en Nueva Imperial Nº 4527, ambos de la comuna de Quinta Normal.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
