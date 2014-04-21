@@ -156,9 +156,13 @@ Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-San Martín Balmaceda Av. Libertador Habitual N-S
+San Martín Balmaceda Av. N-S
 
-Bernardo O'Higgins
+Libertador
+
+Bernardo
+
+O'Higgins
 
 (Alameda)
 
