@@ -10,7 +10,7 @@ b) La resolución exenta Nº 32 (V. y U.), de fecha 4 de enero de 2013, y sus mo
 
 Resolución:
 
-1. Llámase a concurso para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, en la tipología de postulación sin proyecto habitacional, para grupos postulantes que cuenten con Certificado de Grupo Organizado Hábil hasta el día 30 de diciembre de 2013, a las 13:00 horas.
+1. Llámase a concurso para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, en la tipología de postulación sin proyecto habitacional, para grupos postulantes que cuenten con Certificado de Grupo Organizado Hábil hasta el día 30 de diciembre de 2013.
 
 2. Los recursos involucrados por región del país para la selección de los grupos postulantes son los siguientes:
 
