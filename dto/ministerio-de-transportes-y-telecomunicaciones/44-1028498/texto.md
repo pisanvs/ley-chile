@@ -66,11 +66,11 @@ a. Encontrarse operativos para el transporte público remunerado de pasajeros du
 
 b. Contar con inscripción vigente a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación.
 
-c. Contar con inscripción vigente a nombre del postulante en el Registro Nacional de Servicios de Transporte Público que lleva el Ministerio, en adelante el Registro, al momento de la postulación. Dicha inscripción podrá corresponder a servicios urbanos y rurales de las zonas geográficas en que no opera el Sistema de Transporte Público de la Provincia de Santiago y las comunas de Puente Alto y San Bernardo.
+c. Contar o haber contado con inscripción vigente el vehículo, propiedad del postulante, en el Registro Nacional de Servicios de Transporte Público que lleva el Ministerio, en adelante el Registro, en una oportunidad al menos, dentro de los últimos 18 meses contados desde la fecha de postulación. Lo anterior es sin perjuicio del cumplimiento de los plazos y requisitos que en materia de reemplazo contempla el decreto supremo Nº 1, de 1994, del Ministerio de Transportes y Telecomunicaciones. Dicha inscripción podrá corresponder a servicios urbanos y rurales de las zonas geográficas en que no opera el Sistema de Transporte Público de la Provincia de Santiago y las comunas de Puente Alto y San Bernardo.
 
-d. Contar con certificado de revisión técnica vigente o con fecha de vencimiento no superior a 6 meses corridos anteriores, en los términos previstos en el decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, al momento de la postulación.".
+d. Contar con certificado de revisión técnica vigente o con fecha de vencimiento no superior a 18 meses corridos anteriores, en los términos previstos en el decreto supremo Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, al momento de la postulación.
 
-e. Contar con Permiso de Circulación vigente o con fecha de vencimiento no superior a 6 meses corridos anteriores, conforme lo prescribe el DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.290, de Tránsito, al momento de la postulación.
+e. Contar con Permiso de Circulación vigente o con fecha de vencimiento no superior a 18 meses corridos anteriores, conforme lo prescribe el DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.290, de Tránsito, al momento de la postulación.
 
 f. Tener una antigüedad igual o superior a ciento cuarenta y cuatro meses al momento de realizar la postulación.
 
@@ -80,7 +80,7 @@ Los vehículos entrantes deben cumplir, en la oportunidad señalada en el artíc
 
 a. Contar con inscripción vigente, a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, o factura de primera compraventa extendida a nombre del postulante.
 
-b. Contar con inscripción vigente a nombre del postulante en el Registro. Dicha inscripción deberá practicarse en un servicio de transporte público de pasajeros, de la misma región y tipo del servicio al que pertenecía el vehículo saliente.
+b. Contar con inscripción vigente del vehículo, propiedad del postulante, en el Registro. Dicha inscripción deberá practicarse en un servicio de transporte público de pasajeros, de la misma región y tipo del servicio al que pertenecía el vehículo saliente.
 
 c. Tener una capacidad en número de pasajeros, igual o superior al 50% respecto del vehículo saliente, de acuerdo a la fórmula que el Ministerio establezca por resolución para tal efecto.
 
