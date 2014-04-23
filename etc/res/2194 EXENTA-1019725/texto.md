@@ -74,7 +74,7 @@ g) Girar sobre las cuentas corrientes bancarias abiertas por el Instituto, en ca
 
 h) Firmar cheques para el pago de las cotizaciones previsionales y de seguridad social, cualquiera sea su monto, que se paguen con cargo al subtítulo 21 del presupuesto institucional, pero los cheques respectivos deberán llevar, además, la firma del Tesorero del Instituto o su subrogante.
 
-4.- Previa autorización de la Contraloría General de la República y acreditación ante las respectivas empresas bancarias, sobre las cuentas corrientes bancarias abiertas por el Instituto podrán girar indistintamente su Director o los Jefes del Departamento de Administración y Finanzas y del Subdepartamento de Recursos Financieros, pero los cheques respectivos deberán llevar, además, la firma del Tesorero del Instituto o su subrogante. Sin embargo, los cheques cuyos montos excedan de 200 UTM sólo podrán ser firmados por el Director del Instituto con el Tesorero o su subrogante.
+4.- Previa autorización de la Contraloría General de la República y acreditación ante las respectivas empresas bancarias, sobre las cuentas corrientes bancarias abiertas por el Instituto podrán girar indistintamente su Director o los Jefes del Departamento de Administración y Finanzas y del Subdepartamento de Recursos Financieros, pero los cheques respectivos deberán llevar, además, la firma del Tesorero del Instituto o su subrogante.
 
 Asimismo, las jefaturas ya nombradas en el inciso anterior y con la misma limitación, podrán endosar, depositar, cobrar administrativamente, cancelar y protestar los cheques que se giren a la orden o a nombre del Instituto.
 
@@ -263,5 +263,7 @@ La facultad que se delega comprende las comunicaciones, reservadas o no, que rem
 > **Nota.** La Resolución 3089 Exenta, Salud, publicada el 25.01.2012, modifica la presente norma de la siguiente manera : - El numeral 1, ordena agregar en la Jefatura del Departamento de Administración y Finanzas de este Instituto, según corresponda, la facultad de autorizar el aumento de obra, que no involucre aumento de costos monetarios.- El numeral 3, dispone agregar en todas las Jefaturas de Departamentos de este Instituto, la facultad de elaborar y solicitar a la Dirección, las comisiones de servicio que estimen pertinentes y,- El numeral 4, ordena agregar en todas las Jefaturas de Departamento de este Instituto, la facultad de autorizar los cometidos funcionarios que no impliquen gastos.
 
 > **Nota.** NOTA 1 El numeral 2 de la Resolución 735 Exenta, Salud, publicada el 17.04.2012 establece como subrogante del cargo de Jefe de Gabinete de este Instituto, en caso de ausencia o impedimento del titular, al Jefe de Asesoría Jurídica.
+
+> **Nota.** NOTA 2 La Resolución 2770 Exenta, Salud, publicada el 10.01.2013, modifica la presente norma en el sentido de reemplazar la oración "Autorizar o denegar la solicitud de ingreso al Registro de Fabricantes e Importadores de Elementos de Protección Personal y oficios de mero trámite", por lo siguiente: "Autorizar, modificar o denegar la solicitud de ingreso al Registro de Fabricantes e Importadores de Elementos de Protección Personal y emitir oficios de mero trámite", la referida modificación no se ha podido ingresar porque no se encontró el texto.
 
 Anótese, regístrese y comuníquese.- María Teresa Valenzuela Bravo, Directora (S), Instituto de Salud Pública de Chile.
