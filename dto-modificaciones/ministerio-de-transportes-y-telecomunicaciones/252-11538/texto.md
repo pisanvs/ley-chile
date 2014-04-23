@@ -56,7 +56,15 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+51,650 Aguila Sur Sector Alameda/Pto.
+
+Montt L.C.S.
+
 60,375 Prat Sector Alameda/Pto.
+
+Montt L.C.S.
+
+67,165 Codegua Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -96,11 +104,35 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+105,830 Lo de Lobos Sector Alameda/Pto.
+
+Montt L.C.S.
+
 109,430 Egenau Sector Alameda/Pto.
 
 Montt L.C.S.
 
+111,530 Chapetón Sector Alameda/Pto.
+
+Montt L.C.S.
+
+113,950 Portezuelo Sector Alameda/Pto.
+
+Montt L.C.S.
+
 115,340 San Luis Sector Alameda/Pto.
+
+Montt L.C.S.
+
+118,150 Cementerio Sector Alameda/Pto.
+
+Montt L.C.S.
+
+126,650 Roma Sector Alameda/Pto.
+
+Montt L.C.S.
+
+129,230 La Paloma Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -112,6 +144,14 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+139,350 Tinguiririca Sector Alameda/Pto.
+
+Montt L.C.S.
+
+146,129 Porvenir Sector Alameda/Pto.
+
+Montt L.C.S.
+
 145,151 La Cuesta Sector Alameda/Pto.
 
 Montt L.C.S.
@@ -120,7 +160,15 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+152,950 Blanco Sector Alameda/Pto.
+
+Montt L.C.S.
+
 158,500 Convento Viejo Sector Alameda/Pto.
+
+Montt L.C.S.
+
+165,925 Monterilla Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -128,11 +176,23 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+177,720 Sarmiento Norte Sector Alameda/Pto.
+
+Montt L.C.S.
+
 178,450 Sarmiento Sur Sector Alameda/Pto.
 
 Montt L.C.S.
 
+179,550 El Litre Sector Alameda/Pto.
+
+Montt L.C.S.
+
 181,760 El Boldo Sector Alameda/Pto.
+
+Montt L.C.S.
+
+183,950 Santa Fe Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -152,7 +212,19 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+197,120 Quechereguas Sector Alameda/Pto.
+
+Montt L.C.S.
+
+198,240 La Huerta Sector Alameda/Pto.
+
+Montt L.C.S.
+
 199,890 Est. Molina Sector Alameda/Pto.
+
+Montt L.C.S.
+
+207,685 Estación Itahue Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -164,7 +236,19 @@ Montt L.C.S
 
 Montt L.C.S
 
+251,230 Los Molinos Sector Alameda/Pto.
+
+Montt L.C.S.
+
+255,365 Sin Nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
 260,030 Est. Maule Sector Alameda/Pto.
+
+Montt L.C.S.
+
+263,120 Cantera Maule Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -176,7 +260,23 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+277,360 El Durazno Sector Alameda/Pto.
+
+Montt L.C.S.
+
 279,780 Villa Alegre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+287,790 Estación Sector Alameda/Pto.
+
+Putagón Montt L.C.S.
+
+288,300 Estación Sector Alameda/Pto.
+
+Putagón Montt L.C.S.
+
+291,260 Sin Nombre Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -192,7 +292,19 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+304,670 El Huapi Sector Alameda/Pto.
+
+Montt L.C.S.
+
+306,590 Las Motas Sector Alameda/Pto.
+
+Montt L.C.S.
+
 309,290 Miraflores Sector Alameda/Pto.
+
+Montt L.C.S.
+
+311,910 La Granja Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -212,6 +324,26 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+337,270 Cementerio Sector Alameda/Pto.
+
+Montt L.C.S.
+
+340,000 Estación Parral Sector Alameda/Pto.
+
+Montt L.C.S.
+
+351,700 Perquilauquén Sector Alameda/Pto.
+
+Montt L.C.S.
+
+357,180 San Gregorio Sector Alameda/Pto.
+
+Montt L.C.S.
+
+365,010 Estación Buli Sector Alameda/Pto.
+
+Montt L.C.S.
+
 372,300 Tomás Yávar Sector Alameda/Pto.
 
 Montt L.C.S.
@@ -221,6 +353,18 @@ Montt L.C.S.
 Montt L.C.S.
 
 374,050 0'Higgins Sector Alameda/Pto.
+
+Montt L.C.S.
+
+379,020 San Pedro Sector Alameda/Pto.
+
+Montt L.C.S.
+
+380,700 Ninquihue Sector Alameda/Pto.
+
+Montt L.C.S.
+
+382,790 Sta. Isabel Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -236,11 +380,43 @@ Montt L.C.S.
 
 Montt L.C.S
 
+407,860 Coligües Sector Alameda/Pto.
+
+Montt L.C.S.
+
+409,600 Nebuco Sector Alameda/Pto.
+
+Montt L.C.S.
+
+414,600 Rucapequén Sector Alameda/Pto.
+
+Montt L.C.S.
+
+418,120 El Estornudo Sector Alameda/Pto.
+
+Montt L.C.S.
+
+421,800 El Pique Sector Alameda/Pto.
+
+Montt L.C.S.
+
 423,490 Arturo Prat Sector Alameda/Pto.
 
 Montt L.C.S.
 
+429,800 Sin Nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+432,800 Santa Sector Alameda/Pto.
+
+Clara Norte Montt L.C.S.
+
 457,960 Est. Cabrero Sector Alameda/Pto.
+
+Montt L.C.S.
+
+463,230 La Colonia Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -252,9 +428,53 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+486,080 Río Claro Sector Alameda/Pto.
+
+Montt L.C.S.
+
+490,110 Turquía Sector Alameda/Pto.
+
+Montt L.C.S.
+
+498,370 San Rosendo
+
+Norte Sector Alameda/Pto.
+
+Montt L.C.S.
+
+499,300 San Rosendo Sur Sector Alameda/Pto.
+
+Montt L.C.S.
+
+501,450 Sin Nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+514,630 Diuquín/
+
+Millantú Sector Alameda/Pto.
+
+Montt L.C.S.
+
+524,570 Sin Nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+527,530 Santa Fe Sur Sector Alameda/Pto.
+
+Montt L.C.S.
+
 537,910 Coigüe Sector Alameda/Pto.
 
 Montt L.C.S
+
+545,263 Sin Nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+551,560 Renaico Sector Alameda/Pto.
+
+Montt L.C.S.
 
 569,971 Mininco Sector Alameda/Pto.
 
@@ -265,6 +485,18 @@ Montt L.C.S.
 Montt L.C.S.
 
 625,868 Prat Sector Alameda/Pto.
+
+Montt L.C.S.
+
+633,172 Sin nombre Sector Alameda/Pto.
+
+Montt L.C.S.
+
+647,410 Perquenco Sector Alameda/Pto.
+
+Montt L.C.S.
+
+648,040 Perquenco Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -284,11 +516,31 @@ Montt L.C.S.
 
 Montt L.C.S.
 
+674,120 Pillanlelbún Sector Alameda/Pto.
+
+Montt L.C.S.
+
+674,750 Pillanlelbún Sector Alameda/Pto.
+
+Sur Montt L.C.S.
+
+681,170 Cajón Norte Sector Alameda/Pto.
+
+Montt L.C.S.
+
 681,650 Cajón Sector Alameda/Pto.
 
 Montt L.C.S
 
+688,668 Turingia Norte Sector Alameda/Pto.
+
+Montt L.C.S.
+
 689,250 Valparaíso Sector Alameda/Pto.
+
+Montt L.C.S.
+
+689,900 Santa Rosa Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -432,6 +684,8 @@ Montt L.C.S.
 
 129,340 Andalién R. Rucapequén/Concepción
 
+34,100 Sin Nombre Ramal San Rosendo/Talcahuano
+
 39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
 
 Variante
@@ -447,6 +701,8 @@ Variante
 Hualqui -
 
 Quilacoya
+
+45,500 Hualqui Ramal San Rosendo/Talcahuano
 
 49,200 Periquillo R. San Rosendo/Talcahuano
 
@@ -478,6 +734,10 @@ Guadaba Ramal Los Sauces/Lebu
 
 2,821 Panamericana Ramal Temuco/Carahue
 
+24,635 Circunvalación Ramal Antilhue/Valdivia
+
+Valdivia
+
 27,280 Collico Ramal Antilhue/Valdivia
 
 13,360 Intersección Ramal Alameda-San
@@ -488,6 +748,10 @@ Poniente con
 
 Camino Melipilla
 
+22,940 Cerro El Plomo Ramal Concepción -
+
+Curanilahue
+
 24,190 Los Molineros Ramal Concepción-
 
 Curanilahue
@@ -496,15 +760,7 @@ Curanilahue
 
 Km. Nombre Lugar
 
-51,650 Aguila Sur Sector Alameda/Pto.
-
-Montt L.C.S.
-
 65,810 La Compañía Sector Alameda/Pto.
-
-Montt L.C.S.
-
-67,165 Codegua Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -512,71 +768,7 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-105,830 Lo de Lobos Sector Alameda/Pto.
-
-Montt L.C.S.
-
-111,530 Chapetón Sector Alameda/Pto.
-
-Montt L.C.S.
-
-113,950 Portezuelo Sector Alameda/Pto.
-
-Montt L.C.S.
-
-118,150 Cementerio Sector Alameda/Pto.
-
-Montt L.C.S.
-
-126,650 Roma Sector Alameda/Pto.
-
-Montt L.C.S.
-
-129,230 La Paloma Sector Alameda/Pto.
-
-Montt L.C.S.
-
-139,350 Tinguiririca Sector Alameda/Pto.
-
-Montt L.C.S.
-
-146,129 Porvenir Sector Alameda/Pto.
-
-Montt L.C.S.
-
-152,950 Blanco Sector Alameda/Pto.
-
-Montt L.C.S.
-
-165,925 Monterilla Sector Alameda/Pto.
-
-Montt L.C.S.
-
 177,075 Los Guindos Sector Alameda/Pto.
-
-Montt L.C.S.
-
-177,720 Sarmiento Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
-179,550 El Litre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-183,950 Santa Fe Sector Alameda/Pto.
-
-Montt L.C.S.
-
-197,120 Quechereguas Sector Alameda/Pto.
-
-Montt L.C.S.
-
-198,240 La Huerta Sector Alameda/Pto.
-
-Montt L.C.S.
-
-207,685 Estación Itahue Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -584,117 +776,7 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-251,230 Los Molinos Sector Alameda/Pto.
-
-Montt L.C.S.
-
-255,365 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-263,120 Cantera Maule Sector Alameda/Pto.
-
-Montt L.C.S.
-
-277,360 El Durazno Sector Alameda/Pto.
-
-Montt L.C.S.
-
-287,790 Estación
-
-Putagón Sector Alameda/Pto.
-
-Montt L.C.S.
-
-288,300 Estación
-
-Putagón Sector Alameda/Pto.
-
-Montt L.C.S.
-
-291,260 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-304,670 El Huapi Sector Alameda/Pto.
-
-Montt L.C.S.
-
-306,590 Las Motas Sector Alameda/Pto.
-
-Montt L.C.S.
-
-311,910 La Granja Sector Alameda/Pto.
-
-Montt L.C.S.
-
-337,270 Cementerio Sector Alameda/Pto.
-
-Montt L.C.S.
-
-340,000 Estación Parral Sector Alameda/Pto.
-
-Montt L.C.S.
-
-351,700 Perquilauquén Sector Alameda/Pto.
-
-Montt L.C.S.
-
-357,180 San Gregorio Sector Alameda/Pto.
-
-Montt L.C.S.
-
-365,010 Estación Buli Sector Alameda/Pto.
-
-Montt L.C.S.
-
-379,020 San Pedro Sector Alameda/Pto.
-
-Montt L.C.S.
-
-380,700 Ninquihue Sector Alameda/Pto.
-
-Montt L.C.S.
-
-382,790 Sta. Isabel Sector Alameda/Pto.
-
-Montt L.C.S.
-
-407,860 Coligües Sector Alameda/Pto.
-
-Montt L.C.S.
-
-409,600 Nebuco Sector Alameda/Pto.
-
-Montt L.C.S.
-
-414,600 Rucapequén Sector Alameda/Pto.
-
-Montt L.C.S.
-
-418,120 El Estornudo Sector Alameda/Pto.
-
-Montt L.C.S.
-
-421,800 El Pique Sector Alameda/Pto.
-
-Montt L.C.S.
-
-429,800 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-432,800 Santa
-
-Clara Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
 433,400 Santa Clara Sur Sector Alameda/Pto.
-
-Montt L.C.S.
-
-463,230 La Colonia Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -702,55 +784,11 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-486,080 Río Claro Sector Alameda/Pto.
-
-Montt L.C.S.
-
-490,110 Turquía Sector Alameda/Pto.
-
-Montt L.C.S.
-
-498,370 San Rosendo
-
-Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
-499,300 San Rosendo Sur Sector Alameda/Pto.
-
-Montt L.C.S.
-
 501,150 Estación Laja Sector Alameda/Pto.
 
 Montt L.C.S.
 
-501,450 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-514,630 Diuquín/
-
-Millantú Sector Alameda/Pto.
-
-Montt L.C.S.
-
 519,020 Millantú Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
-524,570 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-527,530 Santa Fe Sur Sector Alameda/Pto.
-
-Montt L.C.S.
-
-545,263 Sin Nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
-551,560 Renaico Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -796,10 +834,6 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-633,172 Sin nombre Sector Alameda/Pto.
-
-Montt L.C.S.
-
 637,210 Púa Sector Alameda/Pto.
 
 Montt L.C.S.
@@ -813,14 +847,6 @@ Montt L.C.S.
 Montt L.C.S.
 
 645,450 Púa/Perquenco Sector Alameda/Pto.
-
-Montt L.C.S.
-
-647,410 Perquenco Sector Alameda/Pto.
-
-Montt L.C.S.
-
-648,040 Perquenco Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -852,29 +878,7 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-674,120 Pillanlelbún Sector Alameda/Pto.
-
-Montt L.C.S.
-
-674,750 Pillanlelbún
-
-Sur Sector Alameda/Pto.
-
-Montt L.C.S.
-
 678,060 Cajón Sector Alameda/Pto.
-
-Montt L.C.S.
-
-681,170 Cajón Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
-688,668 Turingia Norte Sector Alameda/Pto.
-
-Montt L.C.S.
-
-689,900 Santa Rosa Sector Alameda/Pto.
 
 Montt L.C.S.
 
@@ -1435,10 +1439,6 @@ Poniente R. Rucapequén/Concepción
 8,380 Buenuraqui Ramal San Rosendo/Talcahuano
 
 29,070 Unihue Ramal San Rosendo/Talcahuano
-
-34,100 Sin Nombre Ramal San Rosendo/Talcahuano
-
-45,500 Hualqui Ramal San Rosendo/Talcahuano
 
 51,630 Pablo Paip Ramal San Rosendo/Talcahuano
 
