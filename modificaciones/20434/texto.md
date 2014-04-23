@@ -582,7 +582,7 @@ Para los efectos de los artículos 2º ,3º ,4º y 5º de esta ley se entenderá
 
 #### Artículo 7º
 
-Créase, en el Servicio Nacional de Pesca, la Subdirección Nacional de Acuicultura, a cargo de un Subdirector, cuya función será planificar y coordinar, a nivel nacional, regional y local, la fiscalización y otras funciones en materia de acuicultura en el ámbito del Servicio. A tales efectos, se deberá establecer por decreto con fuerza de ley la reestructuración orgánica de los departamentos del Servicio y sus funciones a nivel nacional, regional y local.
+Créase, en el Servicio Nacional de Pesca, la Subdirección de Acuicultura, a cargo de un Subdirector, cuya función será planificar y coordinar, a nivel nacional, regional y local, la fiscalización y otras funciones en materia de acuicultura en el ámbito del Servicio. A tales efectos, se deberá establecer por decreto con fuerza de ley la reestructuración orgánica de los departamentos del Servicio y sus funciones a nivel nacional, regional y local.
 
 #### Artículo 8º
 
