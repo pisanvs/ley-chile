@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.043, de 16 de abril de 2014, de esta Subsecretaría, modificase la resolución exenta Nº 726, de 2014, modificada mediante resolución exenta Nº 993, de 2014, en el sentido de señalar que la distribución de la fracción artesanal de la pesquería artesanal de Merluza común correspondiente al Área Sur de la VII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, período marzo-diciembre 2014, expresada en toneladas, se efectuará de la siguiente manera:
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaria de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 16 de abril de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
