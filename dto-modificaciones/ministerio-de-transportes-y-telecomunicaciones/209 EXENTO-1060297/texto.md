@@ -50,8 +50,6 @@ Decreto:
 
 > **Nota.** Los numerales 3 y 4 del Decreto 264 Exento, Transportes, publicado el 24.04.2014 modifican la tabla del punto 1. de la presente norma en la forma que la citada norma indica.
 
-> **Nota.** NOTA 1 El numeral 2 del Decreto 471 Exento, Transportes, publicado el 24.07.2014, modifica la presente norma en el sentido de dejar sin efecto la asignación de frecuencia temporal y precaria dada a la concesión para la comuna de Pelarco, señal distintiva XQK-199.
-
 Anótese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
