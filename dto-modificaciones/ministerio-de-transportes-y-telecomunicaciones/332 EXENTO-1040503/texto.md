@@ -34,9 +34,9 @@ Decreto:
 
 Estudio:
 
-- Dirección : Yungay N° 121, San Felipe,
+- Dirección : Yungay N° 1031, San
 
-V Región.
+Felipe, V Región.
 
 - Coordenadas Geográficas : 32º44'58" Latitud Sur;
 
