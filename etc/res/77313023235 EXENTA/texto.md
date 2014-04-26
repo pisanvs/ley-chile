@@ -1,0 +1,3 @@
+REVOCA RÉGIMEN CAMBIO SUJETO DE IVA A DE BONIS CERVELLINO HERMANOS LIMITADA
+
+La I Dirección Regional Iquique del Servicio de Impuestos Internos, por resolución Nº Ex. 77313023235, de 6 de septiembre de 2013, revoca a contar del 1 del mes siguiente al de esta publicación a De Bonis Cervellino Hermanos Limitada, RUT Nº 89.693.500-3 del régimen de Cambio de Sujeto de IVA establecido en la resolución Nº Ex. 3.722 del 28/07/2000 de la Dirección Nacional, publicada en el Diario Oficial del día 01/08/2000.
