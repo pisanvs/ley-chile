@@ -68,6 +68,8 @@ Ruta V-60, Cruce Ruta 226 (El Tepual) - Los Muermos.
 
 Ruta V-69, Ensenada - Cochamó - Puelto Alto, sector: Ensenada - Cochamó.
 
+Ruta V-86, Olmopulli - Las Quemas - Llanquihue.
+
 Ruta W-45, Cruce Longitudinal - Dalcahue.
 
 Ruta W-55, Cruce Longitudinal (Pid Pid) - Dalcahue.
