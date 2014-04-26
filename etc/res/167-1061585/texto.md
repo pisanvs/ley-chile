@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIE CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 167, de 21 de enero de 2014, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Mainstream Chile S.A., sociedad chilena, RUT 77.424.630-4, con domicilio en Avenida Diego Portales 2000, piso 10, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 211106015, del 9 de marzo de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.417, del 28 de junio de 1996, transferida por resolución 1.537, del 20 de octubre de 1998, modificada y transferida por resolución 985, del 6 de junio de 2007, modificada por resolución 1.638, del 4 de agosto de 2009, cuya transferencia a su actual titular fue autorizada por resolución 1.983, del 14 de octubre de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, ubicada en Canal Queilen, al Sur de Punta Cuello, comuna de Quellón, provincia de Chiloé, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 850, del 7 de mayo de 1996, modificada por resolución exenta 1.521, del 18 de mayo de 2007, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 1.331, del 24 de mayo de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 31 de marzo de 2014.- Por orden del Subsecretario para las Fuerzas Armadas, Camilo Mirosevic Verdugo, Abogado Jefe División Jurídica.
