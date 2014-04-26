@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución exenta Nº 77314030424, de fecha 21 de marzo de 2014, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Heriberto Daniel Tampe Kretschmar, RUT Nº 6.717.813-0, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de ganado vivo, establecido en la eesolución exenta Nº 3.721, de 28 julio de 2000, de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 1 de agosto de 2000.
