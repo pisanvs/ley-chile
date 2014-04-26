@@ -6,7 +6,7 @@ Núm. 952 exenta.- Vistos: El DS Nº 1 (V. y U.), de 2011, que regula el Sistema
 
 Resolución:
 
-1º.- Llámase, hasta el 25 de abril de 2014, a postulación nacional en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, para Proyectos de Integración Social, período en que los Serviu procederán directamente a la recepción de proyectos habitacionales y solicitudes de incorporación al proyecto e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
+1º.- Llámase, hasta el 16 de mayo de 2014, a postulación nacional en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, para Proyectos de Integración Social, período en que los Serviu procederán directamente a la recepción de proyectos habitacionales y solicitudes de incorporación al proyecto e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
 Los proyectos podrán ser desarrollados en comunas de más 40.000 habitantes, según datos del último censo de población del cual se tenga información disponible y no podrán tener más de 300 viviendas.
 
@@ -176,7 +176,7 @@ Con relación a la aprobación de los proyectos y nómina de familias selecciona
 
 14. Los Proyectos de Integración Social considerarán Asesoría Social, de acuerdo a lo establecido en el artículo 62 del DS Nº 1 (V. y U.), de 2011, para todas las familias beneficiadas que apliquen su subsidio habitacional en este tipo de proyectos.
 
-15. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 681 de 2013, de este Ministerio y que fueron aprobados técnicamente por la Comisión Evaluadora, pero que no cumplieron con los porcentajes mínimos de postulantes exigidos, tendrán plazo hasta el 25 de abril de 2014 para presentarlos, de una sola vez. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 7.081, de 2013, de este Ministerio, para los cuales se formularon observaciones, tendrán plazo hasta el 25 de abril de 2014 para subsanarlas en un mismo acto. Los postulantes presentados, en el caso del DS Nº 1 (V. y U.), de 2011, deberán ser beneficiarios de subsidio habitacional y en el caso de postulantes del DS Nº 49 (V. y U.), de 2011, contar con CGOH al 31 de marzo de 2014.
+15. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 681 de 2013, de este Ministerio y que fueron aprobados técnicamente por la Comisión Evaluadora, pero que no cumplieron con los porcentajes mínimos de postulantes exigidos, tendrán plazo hasta el 16 de mayo de 2014 para presentarlos, de una sola vez. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 7.081, de 2013, de este Ministerio, para los cuales se formularon observaciones, tendrán plazo hasta el 16 de mayo de 2014 para subsanarlas en un mismo acto. Los postulantes presentados, en el caso del DS Nº 1 (V. y U.), de 2011, deberán ser beneficiarios de subsidio habitacional y en el caso de postulantes del DS Nº 49 (V. y U.), de 2011, contar con CGOH al 31 de marzo de 2014.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
