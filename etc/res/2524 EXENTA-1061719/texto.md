@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.524 EXENTA , DE 2014
+
+Por resolución exenta Nº 2.524, de fecha 21 de abril de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, aprueba programa de enseñanza para obtención de licencia de conductor Clase B, Escuela de Conductores No Profesionales o Clase B "López & Espinozal Limitada" o "Instituto Chileno del Transporte Ltda.", cuyos representantes legales son el señor Cristián Luis Espinoza Espinoza, RUT Nº 13.471.303-8, y el señor Rigoberto César López Montoya, RUT Nº 12.484.674-9, este último también director de la Escuela, que tendrá lugar de funcionamiento en local ubicado en Avda. Macul Nº 4086, comuna de Macul.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
