@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.099, de 23 de abril de 2014, de esta Subsecretaría, recházanse las solicitudes números 209104020 y 212100014, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 23 de abril de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
