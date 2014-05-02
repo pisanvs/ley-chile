@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 231, de 15 de abril de 2014, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº3242, de 27 de diciembre de 2012, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº92, expropiado con motivo de la obra: "Construcción Ruta 7 Sector Pichanco - Santa Bárbara, Tramo Caleta Gonzalo - Sta. Bárbara". Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 28 de febrero de 2012, en la suma de $242.500, para el lote Nº92.
+
+Fiscal del Ministerio de Obras Públicas.
