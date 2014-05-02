@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 230, de 15 de abril de 2014, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº845, de 29 de mayo de 2013, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº122, expropiado con motivo de la obra: "Camino Reposición Ruta 215-CH, Sector Bifurcación Aeropuerto Carlos Hott - Cruce Las Lumas, Tramo Km. 3,99292 al Km. 21,80000", Comuna y Provincia de Osorno. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 28 de febrero de 2012, en la suma de $7.601.000, para el lote Nº122.
+
+Fiscal del Ministerio de Obras Públicas.
