@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº 228 de 15 de abril de 2014, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto MOP. (Exento) Nº1377 de 30 de agosto de 2013, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº9, expropiado con motivo de la obra: "Mejoramiento Ruta N-77, El Carmen - Trehualemu - Los Castaños", Región del Bío Bío. Consígnese judicialmente el monto provisional de la indemnización, fijado el 28 de marzo de 2012, por la Comisión de Peritos Tasadores, en la suma de $1.356.300.- Dicha Comisión fue nombrada por Resolución S.R.M VIII Región Nº300 de 15 de marzo de 2012.
+
+Fiscal del Ministerio de Obras Públicas.
