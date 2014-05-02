@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 212, de 15 de abril de 2014, se modificó el numeral segundo del Decreto MOP. (Exento) Nº1987, de 31 de agosto de 2012, a fin de individualizar correctamente el lote de terreno Nº22, ubicado en la comuna de Illapel, que figura a nombre de CESPEDES BARRAZA JUAN LUIS Y OTRO, rol de avalúo 424-38, superficie 19.062 m2., complementando el informe de tasación emitido el 29 de febrero de 2012, mediante acta emanada de la misma comisión el 23 de septiembre de 2013, expropiado con motivo de la obra: "Reposición Pavimento Ruta D-81, Illapel - Salamanca", Comuna de Illapel, Provincia de Choapa IV Región".
+
+Fiscal del Ministerio de Obras Públicas.
