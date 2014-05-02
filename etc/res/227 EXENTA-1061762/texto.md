@@ -1,0 +1,7 @@
+INICIA PROCESO DE REVISIÓN DE RESOLUCIÓN Nº 114 EXENTA, DE 2008, QUE CALIFICA AMBIENTALMENTE EL PROYECTO "LIXIVIACIÓN DE SULFUROS, SULFOLIX"
+
+Se informa a la ciudadanía que mediante resolución exenta Nº 227/2014, de fecha 22 de abril de 2014, la Comisión de Evaluación de la Región de Antofagasta ha resuelto iniciar procedimiento de revisión de la resolución exenta Nº 114/2008, de fecha 25 de marzo de 2008, que calificó ambientalmente favorable el Estudio de Impacto Ambiental del proyecto "Lixiviación de Sulfuros, Sulfolix", cuyo titular es Sociedad Contractual Minera El Abra (SCM El Abra), de conformidad con los artículos 25 quinquies ley Nº 19.300 y 39 ley Nº 19.880.
+
+La ciudadanía podrá examinar el expediente del procedimiento, el que se encuentra disponible para su consulta de lunes a viernes, 8:30 a 14:00 horas, en las oficinas del Servicio de Evaluación Ambiental, Región Antofagasta, ubicadas en 14 de Febrero 2065, oficina 1401, Antofagasta, y formular observaciones debidamente justificadas por escrito. Para ello dispondrán de un plazo de 15 días hábiles, contado desde la fecha de la presente publicación. Las observaciones deberán ser dirigidas por escrito a la dirección antes señalada, a la Comisión de Evaluación de la Región de Antofagasta, indicando el nombre del proyecto, individualización y domicilio de la persona que realiza la observación.
+
+Cristian Gutiérrez Villalobos, Director Regional (S) del Servicio de Evaluación de Ambiental, Secretario Comisión de Evaluación Región de Antofagasta.
