@@ -1,0 +1,15 @@
+PROMULGA ACUERDO Nº 29, DE 2014, Y APRUEBA ENMIENDAS AL PLAN REGULADOR DE COLINA SECTOR 3 EL COLORADO ZONA A13a
+
+Núm. E-620.- Colina, 20 de marzo de 2014.- Vistos: Acuerdo Nº 29 (período 2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha 20 de marzo de 2014; 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del Asesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar Enmiendas al Plan Regulador de Colina en el Sector El Colorado. 2) Certificado del Secretario Municipal de fecha 7 de marzo de 2014, mediante el cual certifica que el Consejo de Organizaciones de la Sociedad Civil de Colina, en sesión ordinaria Nº 2 de fecha 07.03.14, se pronunció favorablemente sobre la enmienda del Plano Regulador de Colina Sector 3 El Colorado Zona A13a, los sitios ubicados en costado norte del camino El Colorado entre las calles Los Aromos por el oriente y el camino Colorado Interior por el poniente; y, las atribuciones que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades, ley Nº 20.285, sobre acceso a la información pública y su reglamento, ley Nº 19.880, sobre base de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado,
+
+Decreto:
+
+Promúlgase el acuerdo Nº 29 (período 2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha 20 de marzo de 2014, se acuerda: Aprobar las Enmiendas al Plan Regulador de Colina Sector 3 El Colorado Zona A13a, los sitios ubicados en costado norte del camino El Colorado entre las calles Los Aromos por el oriente y el camino Colorado Interior por el poniente.
+
+Anótese, comuníquese y archívese.- Mario Olavarría Rodríguez, Alcalde.- Carlos García Lecaros, Secretario Municipal.
+
+El H. Concejo Municipal por la unanimidad de sus miembros adopta el siguiente acuerdo:
+
+ACUERDO Nº 29-2014
+
+Vistos: Estos antecedentes: 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del Asesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar Enmiendas al Plan Regulador de Colina en el Sector El Colorado. 2) Certificado del Secretario Municipal de fecha 7 de marzo de 2014, mediante el cual certifica que el Consejo de Organizaciones de la Sociedad Civil de Colina, en sesión ordinaria Nº 2 de fecha 07.03.14, se pronunció favorablemente sobre la enmienda del Plano Regulador de Colina Sector 3 El Colorado Zona A13a, los sitios ubicados en costado norte del camino El Colorado entre las calles Los Aromos por el oriente y el camino Colorado Interior por el poniente; y, las atribuciones que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades, ley Nº 20.285, sobre acceso a la información pública y su reglamento, ley Nº 19.880, sobre base de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, se acuerda: Aprobar las Enmiendas al Plan Regulador de Colina Sector 3 El Colorado Zona A13a, los sitios ubicados en costado norte del camino El Colorado entre las calles Los Aromos por el oriente y el camino Colorado Interior por el poniente.
