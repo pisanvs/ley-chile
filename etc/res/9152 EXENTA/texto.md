@@ -14,6 +14,8 @@ Resolución:
 
 2. Los recursos involucrados por región del país para la selección de los grupos postulantes son los siguientes:
 
+.
+
 3. El número de grupos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Para los efectos de determinar el número de certificados de subsidio susceptibles de financiar, se considerarán los valores promedio que a continuación se indican, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de acuerdo a los montos de subsidios base y complementarios indicados en los artículos 4, 5, 6 y 7 del DS Nº 49 (V. y U.), de 2011:
