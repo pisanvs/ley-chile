@@ -1,0 +1,15 @@
+PROMULGA ACUERDO Nº 30, DE 2014, Y APRUEBA ENMIENDAS AL PLAN REGULADOR DE COLINA ZONA A2
+
+Núm. E-621.- Colina, 20 de marzo de 2014.- Vistos: Acuerdo Nº 30 (período 2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha 20 de marzo de 2014; 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del Asesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar Enmiendas al Plan Regulador de Colina en el Sector Alpatacal con Pedro Aguirre Cerda. 2) Certificado del Secretario Municipal de fecha 7 de marzo de 2014, mediante el cual certifica que el Consejo de Organizaciones de la Sociedad Civil de Colina, en Sesión Ordinaria Nº 2 de fecha 07.03.14, se pronunció favorablemente sobre la enmienda del Plano Regulador de Colina Zona A2 por el norte frente a calle Alpatacal, entre calle Pedro Aguirre Cerda por el poniente, Pasaje Oriente por el oriente y Pasaje 1 Sur por el sur; y, las atribuciones que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades, ley Nº 20.285, sobre acceso a la información pública y su reglamento, ley Nº 19.880, sobre base de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado,
+
+Decreto:
+
+Promúlgase el acuerdo Nº 30 (período 2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha 20 de marzo de 2014, se acuerda: Aprobar las Enmiendas al Plan Regulador de Colina Zona A2 por el norte frente a calle Alpatacal, entre calle Pedro Aguirre Cerda por el poniente, Pasaje Oriente por el oriente y Pasaje 1 Sur por el sur.
+
+Anótese, comuníquese y archívese.- Mario Olavarría Rodríguez, alcalde.- Carlos García Lecaros, Secretario Municipal.
+
+El H. Concejo Municipal por la unanimidad de sus miembros adopta el siguiente acuerdo:
+
+ACUERDO Nº 30-2014
+
+Vistos: Estos antecedentes: 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del Asesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar Enmiendas al Plan Regulador de Colina en el Sector Alpatacal con Pedro Aguirre Cerda. 2) Certificado del Secretario Municipal de fecha 7 de marzo de 2014, mediante el cual certifica que el Consejo de Organizaciones de la Sociedad Civil de Colina, en Sesión Ordinaria Nº 2 de fecha 07.03.14, se pronunció favorablemente sobre la enmienda del Plano Regulador de Colina Zona A2 por el Norte frente a calle Alpatacal, entre calle Pedro Aguirre Cerda por el poniente, Pasaje Oriente por el oriente y Pasaje 1 Sur, por el sur; y, las atribuciones que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades, ley Nº 20.285, sobre acceso a la información pública y su reglamento, ley Nº 19.880, sobre base de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, se acuerda: Aprobar las Enmiendas al Plan Regulador de Colina Zona A2 por el norte frente a calle Alpatacal, entre calle Pedro Aguirre Cerda por el poniente, Pasaje Oriente por el oriente y Pasaje 1 Sur por el sur.
