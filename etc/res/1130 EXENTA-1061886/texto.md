@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.130, de 25 de abril de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 555 de 1993, sólo en cuanto autorizó a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Cote Saint Jacques", respecto del recurso hidrobiológico Raya, en el área marítima comprendida entre los paralelos 37º L.S. y 57º L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de abril de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
