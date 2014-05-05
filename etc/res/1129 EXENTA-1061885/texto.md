@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.129, de 25 de abril de 2014, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones exentas Nº 555 de 1993 y Nº 808 de 2001, sólo en cuanto autorizaron a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Cote Saint Jacques", respecto del recurso hidrobiológico Jibia, en las áreas marítimas comprendidas entre los paralelos 37º L.S. y 57º L.S. y XV a I Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Declárase asimismo la caducidad total de la resolución exenta Nº 1.860 de 2011 que autorizó a Pesca Chile S.A., para realizar actividades pesqueras extractivas con la nave y respecto del recurso antes indicado, en el área marítima correspondiente a Isla de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández.
+
+Valparaíso, 25 de abril de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
