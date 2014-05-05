@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.128, de 25 de abril de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.913 de 2012, sólo en cuanto autorizaron a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Saint Pierre", respecto del recurso hidrobiológico Reineta, en el área marítima comprendida entre el paralelo 44º30' L.S. y el paralelo 47º L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de abril de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
