@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE DE COPIAPÓ
+
+Por resolución SII Nº 9, de 1 de abril de 2014, se designó a don Pedro Omar Acuña Pérez, RUT Nº 7.129.453-6, como Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Copiapó, en reemplazo de doña Lindsay Carolina Barrios Rojas, RUT Nº 14.517.756-1.
