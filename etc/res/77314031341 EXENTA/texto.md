@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA A DON MARCO OCTAVIO VARGAS GALLARDO
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución exenta Nº 77314031341, de fecha 17/04/2014, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Marco Octavio Vargas Gallardo, RUT 7.918.820-4, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de especies hidrobiológicas, establecido en la resolución exenta Nº 3.311, del 30 junio de 2000, de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 1 de julio de 2000.
