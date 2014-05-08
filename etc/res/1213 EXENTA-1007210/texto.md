@@ -98,7 +98,7 @@ i) La fecha correspondiente al día de que se trate el registro de datos, expres
 
 ii) En la misma línea que contiene la fecha, a continuación están impresas las 24 horas del día. A su vez, las columnas correspondientes a cada una de las horas está subdividida en espacios de 15 minutos cada uno; y
 
-iii) Las líneas correspondientes a "ACTIVIDAD", hacen referencia a: "CONDUCCIÓN", "ESPERA" y "DESCANSO". Para los efectos de registrar estas actividades, se rayará una línea continua desde la fracción de hora que corresponda al horario de inicio de la actividad de que se trate hasta la fracción de hora que corresponda al término de la actividad registrada (ver ejemplo en contratapa).
+iii) Las líneas correspondientes a "ACTIVIDAD", hacen referencia a: "CONDUCCIÓN", "ESPERA" "TAREAS AUXILIARES" y "DESCANSO". Para los efectos de registrar estas actividades, se rayará una línea continua desde la fracción de hora que corresponda al horario de inicio de la actividad de que se trate hasta la fracción de hora que corresponda al término de la actividad registrada (ver ejemplo en contratapa).
 
 d) La columna correspondiente a "Resumen de Jornada", deberá contener la sumatoria del tiempo empleado en cada una de las actividades durante el día de que se trate;
 
@@ -203,3 +203,5 @@ INSTRUCCIONES PARA EL LLENADO
 Ejemplo: El día 03.08.2009, José fue citado por su empleador para que se presentará a las 08:30 horas en el taller. Sin embargo, recién pudo cargar a las 17:00 horas e iniciar su viaje a las 18:30 horas, conduciendo 5 horas continuas. En consecuencia, dentro del día 03.08.09, José condujo sólo 5 horas, tuvo un tiempo de espera de 10 horas y descanso 9 horas. Siempre la suma deberá dar como total 24 horas. Nunca menos, en atención a que el día tiene 24 horas.
 
 .
+
+> **Nota.** El artículo 2º de la Resolución 559 Exenta, Trabajo, publicada el 08.05.2014, modifica la presente norma en el sentido de introducir modificaciones a los cuadros de la manera que la propia norma indica.
