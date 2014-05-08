@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 97, DE 2014, DICTADA EN CONJUNTO POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES Y EL MINISTERIO DE HACIENDA
+
+Por resolución Nº 97, de 17 de febrero de 2014, tomada de razón por la Contraloría General de la República con fecha 7 de abril de 2014, se aprobó el Addendum al Contrato Ad Referéndum de Concesión de Uso de Vías para la Prestación de Servicios de Transporte Público Urbano Remunerado de Pasajeros Mediante Buses, suscrito con fecha 14 de febrero de 2014, entre el Ministerio de Transportes y Telecomunicaciones y la empresa Inversiones Alsacia S.A., concesionaria de la Unidad de Negocio Nº 1. Texto íntegro de la resolución Nº 97, de 2014, se encuentra en la página web www.dtpm.cl.
+
+Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
