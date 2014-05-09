@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.184, de 5 de mayo de 2014, de esta Subsecretaría, recházanse las solicitudes números 213021010, 213021009, 210110056 sector 1 y 213121011, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 5 de mayo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
