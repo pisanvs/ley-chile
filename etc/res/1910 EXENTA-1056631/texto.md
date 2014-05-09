@@ -94,7 +94,7 @@ i. En este llamado sólo podrán postular proyectos las Entidades de Gestión In
 
 También podrán postular proyectos al presente llamado las entidades de asesoría contratadas por el Serviu Región del Biobío para la asesoría administrativa y técnica de familias beneficiarias del Título II del Subsidio de Protección del Patrimonio Familiar, modalidad habitabilidad, seguridad o mantención de la vivienda.
 
-El Serviu Región del Biobío podrá actuar como prestador PPPF en los casos que exista imposibilidad total o transitoria para contratar estos servicios con un prestador PPPF o con el Municipio, o cuando lo solicite expresamente el grupo o beneficiario.
+Los proyectos técnicos que requieran permiso de edificación podrán ser aprobados cumpliendo sólo los requisitos señalados en el presente resuelvo. En este último caso, las asignaciones de subsidio habitacional quedarán condicionadas a la obtención de dicho permiso, acto que no podrá ser posterior al 30 de agosto de 2014.
 
 7. Los montos del subsidio para el pago de Asistencia Técnica y de Inspección Técnica de Obras que obtendrá cada familia beneficiada será el que corresponda al tipo de Proyecto de Mejoramiento de que se trate, conforme a lo establecido en la resolución Nº 533/1997, y en el caso de proyectos de valor histórico patrimonial, se pagarán productos adicionales según la siguiente tabla:
 
@@ -104,7 +104,7 @@ En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial se
 
 8. No obstante lo anterior, tratándose de Proyectos de Seguridad de la Vivienda que requieran de un especialista estructural, la intervención de instalaciones sanitarias, eléctricas o de gas y que requieran ser ejecutados por un profesional competente en la materia, se podrán incrementar con 1 unidad de fomento por beneficiario los montos indicados para el área Organización de la Demanda y Postulación de Proyectos.
 
-9. Los Recursos consignados para la selección de los proyectos postulados en el llamado definido en el punto precedente asciende a la suma de 282.000, de los cuales 232.000 Unidades de Fomento serán destinados a Condominios de Viviendas Sociales y 50.000 Unidades de Fomento al Programa Regular."
+9. Los Recursos consignados para la selección de los proyectos postulados en el llamado definido en el punto precedente asciende a la suma de 282.000, de los cuales 232.000 Unidades de Fomento serán destinados a Condominios de Viviendas Sociales y 50.000 Unidades de Fomento al Programa Regular.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Saavedra Burgos Secretario Regional Ministerial.
 
