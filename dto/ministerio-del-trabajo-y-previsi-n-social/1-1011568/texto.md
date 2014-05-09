@@ -30,16 +30,6 @@ f) Contar con inscripción vigente en la respectiva Oficina Municipal de Informa
 
 No podrán acceder a este programa quienes perciban ingresos por concepto de una o más pensiones, cualquiera que sea su naturaleza, cuyo monto total sea superior a un ingreso mínimo mensual.
 
-El plazo máximo de permanencia en el Programa será el siguiente:
-
-a) Para los beneficiarios que a la fecha de su ingreso al Programa tengan entre 18 y 50 años de edad: máximo 18 meses de permanencia.
-
-b) Para los beneficiarios que a la fecha de su ingreso al Programa tengan 51 o más años de edad: máximo 30 meses de permanencia.
-
-Los plazos máximos antes mencionados se contabilizarán de manera corrida, a partir del acceso del beneficiario al programa.
-
-Podrán prorrogarse por igual periodo y por una sola vez, los plazos mencionados precedentemente, a través de resolución fundada debidamente tramitada del Subsecretario del Trabajo.
-
 3.- El programa considera los siguientes componentes o líneas de acción:
 
 a) Ejecución de proyectos por transferencia directa de recursos:
@@ -99,6 +89,10 @@ Si el Programa Pro Empleo determinare la necesidad de suplementar fondos en este
 11.- Tanto la Subsecretaría del Trabajo como SENCE deberán dar cumplimiento a las normas de transparencia y control dispuestas en la glosa 2 de la Partida 15-01-03 de la Ley de Presupuestos, las contempladas en la ley Nº 20.285 Sobre Acceso a la Información Pública así como las contempladas en la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, velando por la correcta y eficiente inversión de los fondos comprometidos, la igualdad en el acceso a los beneficios por parte de los ciudadanos y la adecuada actuación de los funcionarios públicos y demás colaboradores de la función del Estado involucrados en este Programa.
 
 12.- Conforme a lo señalado en la glosa 10 asociada al programa 264 del Programa 03 Pro Empleo, esta unidad, dependiente de la Subsecretaría del Trabajo, preparará trimestralmente el informe ahí señalado a efectos de ser presentado a la Comisión Mixta de Presupuestos, incluyendo a lo menos las actividades realizadas por el Programa, el monto de los recursos invertidos en cada actividad, las personas o entidades receptoras o ejecutoras de esos recursos, el método utilizado para la asignación de los mismos y un informe con los resultados y logros obtenidos. Todo ello dentro de los primeros quince días después del vencimiento del respectivo trimestre, formato que será enviado por la Subsecretaría del Trabajo.
+
+13.- Durante el plazo de seis meses, el que podrá ser prorrogado por una sola vez por resolución fundada del Subsecretario del Trabajo, los requisitos establecidos en las letras c), d) y f) del numeral Nº 2 del presente decreto, no serán exigibles a quienes, durante el período antes señalado, ingresen al Programa de Inversión en la Comunidad, de la Subsecretaría del Trabajo, siempre que habiten en las regiones de Arica y Parinacota y de Tarapacá y hayan perdido su fuente laboral como consecuencia de los terremotos ocurridos durante la primera semana de abril de 2014.
+
+El plazo establecido en el inciso anterior se contará desde la publicación del acto administrativo que incorpora este numeral al presente decreto.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
 
