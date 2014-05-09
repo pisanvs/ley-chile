@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 236 EXENTA, DE 2014
+
+Por resolución exenta Nº 236, de 31 de marzo de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autoriza a la Escuela de Conductores Profesionales "Sociedad de Servicios Profesionales Aravena Cortés Ltda.", cuyo nombre de fantasía es "Lemans Conductores Limitada", RUT 77.633.490-1, representada legal e indistintamente por don Pedro Aravena Cortés, RUT 8.826.297-2, y por doña Ida Rebeca Cortés Burton, RUT 4.434.083-6, para impartir el curso especial con simulador de inmersión total, conducente a la obtención de licencia de conductor profesional Clases A3 y A5, en Av. Recreo Nº 1066, comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
