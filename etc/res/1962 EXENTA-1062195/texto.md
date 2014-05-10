@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.962 EXENTA, DE 2014
+
+Mediante resolución exenta Nº 1.962, de 22 de abril de 2014, el Servicio Nacional de Capacitación y Empleo, dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Inecom Ingenieros Limitada (Centro de Formación Técnica Pukará)", RUT 88.696.700-4 contenida en la resolución exenta Nº 267 de 10 de febrero de 2006, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la ley 19.518.
+
+Marcia Pardo González, Jefa Dpto. de Evaluación y Organismo (PT).
