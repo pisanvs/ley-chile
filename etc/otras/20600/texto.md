@@ -72,7 +72,7 @@ a) Primer Tribunal Ambiental, con asiento en la comuna de Antofagasta, y con com
 
 b) Segundo Tribunal Ambiental, con asiento en la comuna de Santiago, y con competencia territorial en las regiones de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins y del Maule.
 
-c) Tercer Tribunal Ambiental, con asiento en la comuna de Valdivia, y con competencia territorial en las regiones de Ñuble, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena.
+c) Tercer Tribunal Ambiental, con asiento en la comuna de Valdivia, y con competencia territorial en las regiones del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena.
 
 #### Artículo 6º
 
@@ -212,7 +212,7 @@ En caso de ausencia o impedimento, el Secretario será subrogado por el Relator 
 
 Régimen laboral del personal. El personal de los Tribunales Ambientales se regirá por el derecho laboral común.
 
-Con todo, en materia de remuneraciones tendrá el mismo régimen remuneratorio, de dedicación e incompatibilidades del personal de la Superintendencia del Medio Ambiente. Asimismo, estos trabajadores estarán sujetos a las normas de transparencia a que se refiere el artículo octavo de la ley Nº20.285, a las establecidas en la ley sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses, y al Título III de la ley N°18.575, orgánica constitucional de Bases Generales de la Administración del Estado, debiendo consignarse en los contratos respectivos una cláusula que así lo disponga. La infracción a las normas de probidad será causal del término del contrato de trabajo.
+Con todo, en materia de remuneraciones tendrá el mismo régimen remuneratorio, de dedicación e incompatibilidades del personal de la Superintendencia del Medio Ambiente. Asimismo, estos trabajadores estarán sujetos a las normas de transparencia a que se refiere el artículo octavo de la ley Nº 20.285 y a las disposiciones del Título III de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, debiendo consignarse en los contratos respectivos una cláusula que así lo disponga. La infracción a las normas de probidad será causal del término del contrato de trabajo.
 
 #### Artículo 16
 
