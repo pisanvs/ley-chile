@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 259, de 23 de abril de 2014, se modificó el numeral tercero del Decreto Exento MOP. Nº 2210, de 29 de noviembre de 2013, que ordenó la expropiación del lote Nº 4-B, en lo que respecta al monto de la indemnización provisional, donde dice $982.000, debe decir $2.582.000; Se complementó informe de tasación de fecha 27 de diciembre de 2011, con acta emanada de la Comisión de Peritos de fecha 19 de noviembre de 2012; Se dispuso consignar judicialmente la suma anteriormente indicada en la causa Rol V-464-2013, en la cuenta corriente del Cuarto Juzgado Civil de San Miguel, debidamente reajustada, y por último se corrige imputación presupuestaria.
+
+Fiscal del Ministerio de Obras Públicas.
