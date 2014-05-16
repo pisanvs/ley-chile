@@ -24,17 +24,17 @@ Composición del Consejo Administrativo del Servicio de
 
 Bienestar
 
-#### Artículo 2°
+#### Artículo 2º
 
-El Consejo Administrativo del Servicio de Bienestar estará integrado por:
+El Consejo Administrativo del Servicio de Bienestar, estará integrado por:
 
 a) El Rector de la Universidad o la persona que él designe en su reemplazo, quien lo presidirá.
 
-b) El Director de Recursos Humanos y Bienestar del Personal.
+b) El Director del Departamento de Recursos Humanos y Bienestar del Personal.
 
-c) El Director de Administración.
+c) El Director del Departamento de Administración y Finanzas.
 
-d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
+d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
 
 #### Artículo 3º
 
@@ -63,6 +63,16 @@ c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 1,5% de
 d) Con el aporte mensual de los afiliados jubilados de hasta el 0,5% de sus pensiones, porcentaje que fijará anualmente el Consejo Administrativo, más la cantidad correspondiente al aporte institucional que será de su cargo.
 
 e) Con los ingresos señalados en las letras d), e), f) y g) indicados en el artículo 32º del Reglamento General.
+
+#### Artículo 5º bis
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad con lo dispuesto en el artículo 3º del DL Nº1.056, de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y sólo respecto de los recursos provenientes de ventas de activos o excedentes estacionales de caja, según lo dispuesto en el artículo 2º del DL Nº1.263 de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados.
+
+El monto de los fondos y la forma en que serán depositados será determinado anualmente por el Consejo Administrativo.
+
+#### Artículo 5º ter
+
+El Consejo Administrativo del Servicio de Bienestar, podrá implementar una política que permita tramitar, gestionar y recibir ingresos a través de donaciones y/o legados al Servicio de Bienestar, con el fin de aumentar sus ingresos.
 
 #### Artículo 6º
 
@@ -132,7 +142,13 @@ h) Ayuda para pasajes en casos de traslado por enfermedad, con prescripción mé
 
 i) Ayuda para alojamiento en casos de traslado por enfermedad, con prescripción médica de traslado. Se concederá siempre que las disponibilidades presupuestarias lo permitan, una ayuda para alojamiento al afiliado o su carga familiar, que deba trasladarse de ciudad, para recibir atención médica. Cuando la situación lo amerite y/o esté indicado por el médico, se considerará el gasto de un acompañante familiar.
 
-Para otorgar las ayudas descritas en las letras a), b), c), d), e), f), g), h) e i), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios, enfermedad, catástrofe, traslado médico, en su caso.
+j) Condonación de Deudas por Préstamos del Servicio, a los socios jubilados, que no puedan dar cumplimiento a su compromiso económico, debido a enfermedades certificadas por un médico como invalidantes o inhabilitantes.
+
+El Consejo Administrativo del Servicio determinará anualmente los porcentajes de las deudas a condonar y el monto máximo a que podrá ascender este beneficio. Cada caso será presentado, evaluado y resuelto por el Consejo Administrativo del Servicio.
+
+En los casos que resultaren saldos impagos de la deuda de préstamo correspondiente al socio jubilado, no condonada y que el socio jubilado no pueda dar cumplimiento, los socios codeudores solidarios mantendrán su responsabilidad.
+
+Para otorgar las ayudas descritas en las letras a), b), c), d), e), f), g), h), i) y j), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios, enfermedad, catástrofe, traslado médico, certificado médico de enfermedad invalidante o inhabilitante, en su caso.
 
 El Consejo del Servicio determinará anualmente los porcentajes y el monto máximo al que podrá ascender cada beneficio.
 
