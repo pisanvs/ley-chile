@@ -1,0 +1,21 @@
+AUTORIZA COLECTA REGIONAL A CORPORACIÓN ENTREGARTE
+
+Núm. 680 exenta.- Santiago, 20 de abril de 2014.- Visto: Lo solicitado por la entidad denominada Corporación Entregarte, mediante presentación de 25.11.2013; Lo dispuesto en el DS Nº 955 de 1974, de Interior, y sus modificaciones; la Ley Nº 19.880, sobre nuevo Procedimiento Administrativo; Ley Nº 20.285, sobre acceso a la Información Pública y su Reglamento; Art. 2º de la ley Nº 19.175; y resolución Nº 1.600/08 de la Contraloría General de la República, y
+
+Considerando: Que la entidad ha cumplido con todos los requisitos legales para realizar una colecta pública regional.
+
+Resuelvo:
+
+1. Autorízase a Corporación Entregarte, para efectuar una colecta pública el día martes 24 de junio de 2014, en la Región Metropolitana de Santiago.
+
+2. Los fondos recaudados serán destinados fundamentalmente para financiar talleres educacionales para niños de escasos recursos en el área de las artes visuales.
+
+3. La colecta estará a cargo de la persona que a continuación se indican: Bernardita María Smith Benavente
+
+4. Las erogaciones sólo podrán recibirse en alcancías numeradas y controladas por esta Intendencia.
+
+5. La entidad deberá remitir a la Intendencia Regional Acta de Apertura de las Alcancías, su número y recaudación, conjuntamente con un Informe de la inversión de los recursos dentro del plazo de 60 días, contado desde la fecha de realización de la colecta. Además, adjuntará un listado con el nombre completo y Rol Único Nacional de todas las personas que colaboraron en la recepción de las erogaciones.
+
+6. El organismo solicitante debe dar cumplimiento a las disposiciones que establece el DS Nº 955 de 1974.
+
+Anótese, comuníquese y publíquese.- Por orden de S.E. la Presidenta de la República, Claudio Orrego Larraín, Intendente Región Metropolitana.
