@@ -12,11 +12,9 @@ Considerando:
 
 Resuelvo:
 
-1º Establécese la medida de gestión de tránsito en las comunas de Concepción, Chiguayante, San Pedro de la Paz, Coronel y Talcahuano, denominadas Pistas Exclusivas para el Transporte Público y Privado, consistente en un conjunto de pistas de uso exclusivo para la circulación de buses de transporte público y privado remunerado de pasajeros en servicios urbanos, rurales e interurbanos, y servicios de taxis colectivos urbanos de la comuna de Coronel, de acuerdo a la siguiente tabla ordenadora:
+1º Establécese la medida de gestión de tránsito en las comunas de Concepción, Chiguayante, San Pedro de la Paz y Coronel, denominadas Pistas Exclusivas para el Transporte Público y Privado, consistente en un conjunto de pistas de uso exclusivo para la circulación de buses de transporte público y privado remunerado de pasajeros en servicios urbanos, rurales e interurbanos y de acuerdo a la siguiente tabla ordenadora:
 
 .
-
-Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir de apoyo a la función policial, que se encuentren debidamente identificados.
 
 2º Los servicios de locomoción colectiva deberán tomar y dejar pasajeros sólo en las respectivas paradas especialmente habilitadas y señalizadas, según su sentido de viaje, no pudiendo tomar ni dejar pasajeros fuera de dichas paradas.
 
