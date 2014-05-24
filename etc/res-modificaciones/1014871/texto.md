@@ -138,6 +138,12 @@ Sobre 50 mts. cuadrados y hasta
 
 Más de 100 mts. Cuadrados $95.000.-
 
+i.- Tarifas Compañías Aéreas: Estarán afectas a las siguientes tarifas mensuales:
+
+Por cada avión en servicio internacional : $60.000.-
+
+Por cada avión en servicio nacional : $40.000.-
+
 2. Wurlitzers, sinfonolas o rockcolas digitales para uso comercial, operadas con pantallas para videos musicales o no:
 
 a) $20.500.- pesos mensuales por cada máquina que almacene hasta 1.000 fonogramas o videogramas musicales.
