@@ -36,17 +36,7 @@ Los Tribunales Tributarios y Aduaneros son órganos jurisdiccionales letrados, e
 
 7º. Conocer del procedimiento especial de reclamo por vulneración de derechos establecido en el Párrafo 4 del Título VI del Libro II de la Ordenanza de Aduanas.
 
-8°. Conocer y declarar, a petición de parte, la nulidad de los actos administrativos que sean materia de una reclamación tributaria o aduanera. Para estos efectos, el vicio deberá hacerse presente o alegarse en la reclamación respectiva.
-
-Los vicios de procedimiento o de forma sólo afectarán la validez del acto administrativo materia del reclamo tributario o aduanero cuando recaigan en algún requisito esencial del mismo, sea por su naturaleza o por mandato del ordenamiento jurídico y generen perjuicio al interesado.
-
-9º. Conocer de las demás materias que señale la ley.
-
-Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
-
-La autoridad legalmente requerida deberá prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar.
-
-Las sentencias definitivas de primera instancia deberán ser publicadas por la Unidad Administradora del Tribunal y mantenerse a disposición permanente del público en el sitio electrónico de los Tribunales Tributarios y Aduaneros.
+8º. Conocer de las demás materias que señale la ley.
 
 #### Artículo 2º
 
@@ -74,7 +64,7 @@ Rancagua, con un juez, cuyo territorio jurisdiccional será el de la VI Región 
 
 Talca, con un juez, cuyo territorio jurisdiccional será el de la VII Región del Maule.
 
-Concepción, con un juez, cuyo territorio jurisdiccional será el de la XVI Región de Ñuble y la VIII Región del Bío Bío.
+Concepción, con un juez, cuyo territorio jurisdiccional será el de la VIII Región del Bío Bío.
 
 Temuco, con un juez, cuyo territorio jurisdiccional será el de la IX Región de la Araucanía.
 
@@ -84,41 +74,27 @@ Puerto Montt, con un juez, cuyo territorio jurisdiccional será el de la X Regi�
 
 Punta Arenas, con un juez, cuyo territorio jurisdiccional será el de la XII Región de Magallanes y de la Antártica Chilena.
 
-Con asiento en la Región Metropolitana de Santiago, créanse los siguientes Tribunales Tributarios y Aduaneros
+Con asiento en la Región Metropolitana de Santiago, créanse los siguientes Tribunales Tributarios y Aduaneros:
 
-Primer, Segundo, Tercer y Cuarto Tribunal, cada uno con un juez y cuyo territorio jurisdiccional será el correspondiente a la Región Metropolitana.
+Primer y Segundo Tribunal, cada uno con un juez y cuyo territorio jurisdiccional será el de las comunas de Santiago, Independencia, Recoleta, Cerro Navia, Colina, Curacaví, Estación Central, Huechuraba, Lampa, Lo Prado, Pudahuel, Quilicura, Quinta Normal, Renca, Til Til, Conchalí, Maipú, Cerrillos, Padre Hurtado, Peñaflor, Talagante, El Monte, Melipilla, San Pedro, Alhué, Isla de Maipo y María Pinto.
 
-La distribución de las causas entre los cuatro tribunales de la Región Metropolitana se realizará de acuerdo a un procedimiento objetivo y general que deberá ser establecido mediante auto acordado por la Corte de Apelaciones de Santiago.
+Tercer Tribunal, con un juez, y Cuarto Tribunal, con dos jueces, cuyo territorio jurisdiccional será el de las comunas de San Miguel, La Cisterna, San Joaquín, Pedro Aguirre Cerda, Lo Espejo, La Granja, San Ramón, La Pintana, San Bernardo, Calera de Tango, Buin, Paine, El Bosque, Providencia, Las Condes, Vitacura, Lo Barnechea, Ñuñoa, La Reina, Macul, Peñalolén, La Florida, Puente Alto, Pirque y San José de Maipo.
+
+La distribución de las causas entre el Primer y Segundo Tribunal, por un lado, y entre el Tercer y Cuarto Tribunal, por otro, todos de la Región Metropolitana, se realizará de acuerdo a un procedimiento objetivo y general que deberá ser establecido mediante auto acordado por la Corte de Apelaciones de Santiago.
 
 INCISO SUPRIMIDO.
 
-#### Artículo 4°
+#### Artículo 4º
 
 Los Tribunales Tributarios y Aduaneros tendrán las siguientes plantas:
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE ARICA Y PARINACOTA
+TRIBUNAL TRIBUTARIO Y ADUANERO I REGIÓN
 
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 5
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE TARAPACÁ
-
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
-Secretario Abogado 1
+Secretario Abogado 2
 
 Resolutor 2
 
@@ -126,13 +102,11 @@ Profesional Experto 2
 
 Administrativo 1
 
-Auxiliar 1
+Total planta 8
 
-Total Planta 8
+TRIBUNAL TRIBUTARIO Y ADUANERO II y IV REGIÓN
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE ANTOFAGASTA
-
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
@@ -144,149 +118,31 @@ Administrativo 1
 
 Auxiliar 1
 
-Total Planta 5
+Total planta 5
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE ATACAMA
+TRIBUNAL TRIBUTARIO Y ADUANERO V REGIÓN
 
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 5
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE COQUIMBO
-
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
-Secretario Abogado 1
+Secretario Abogado Tributario 1
 
-Profesional Experto 1
+Secretario Abogado Aduanero 1
 
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 5
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE VALPARAÍSO
-
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 5
-
-Profesional Experto 3
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 12
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
-
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 1
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 6
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DEL MAULE
-
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 1
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 6
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DEL BIOBÍO
-
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 2
+Resolutor 6
 
 Profesional Experto 2
 
-Administrativo 1
+Administrativo 2
 
 Auxiliar 1
 
-Total Planta 8
+Total planta 14
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE LA ARAUCANÍA
+TRIBUNAL TRIBUTARIO Y ADUANERO VI y IX REGIÓN
 
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 2
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 7
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE LOS RÍOS
-
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Profesional Experto 1
-
-Administrativo 1
-
-Auxiliar 1
-
-Total Planta 5
-
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE LOS LAGOS
-
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
@@ -300,25 +156,45 @@ Administrativo 1
 
 Auxiliar 1
 
-Total Planta 6
+Total planta 6
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
+TRIBUNAL TRIBUTARIO Y ADUANERO VII y X REGIÓN
 
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
 Secretario Abogado 1
 
+Resolutor 1
+
+Profesional Experto 1
+
+Administrativo 1
+
+Total planta 5
+
+TRIBUNAL TRIBUTARIO Y ADUANERO VIII REGIÓN
+
+Cargos Nº de Cargos
+
+Juez Tributario y Aduanero 1
+
+Secretario Abogado 1
+
+Resolutor 2
+
+Profesional Experto 1
+
 Administrativo 1
 
 Auxiliar 1
 
-Total Planta 4
+Total planta 7
 
-TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA
+TRIBUNAL TRIBUTARIO Y ADUANERO III, XII, XIV y XV REGIÓN
 
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
@@ -328,19 +204,33 @@ Profesional Experto 1
 
 Administrativo 1
 
+Total planta 4
+
+TRIBUNAL TRIBUTARIO Y ADUANERO XI REGIÓN
+
+Cargos Nº de Cargos
+
+Juez Tributario y Aduanero 1
+
+Secretario Abogado 1
+
+Administrativo 1
+
 Auxiliar 1
 
-Total Planta 5
+Total planta 4
 
 PRIMER TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN METROPOLITANA DE SANTIAGO
 
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
-Secretario Abogado 1
+Secretario Abogado Tributario 1
 
-Resolutor 6
+Secretario Abogado Aduanero 1
+
+Resolutor 7
 
 Profesional Experto 2
 
@@ -348,65 +238,45 @@ Administrativo 2
 
 Auxiliar 1
 
-Total Planta 13
+Total planta 15
 
-SEGUNDO TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN METROPOLITANA DE SANTIAGO
+SEGUNDO Y TERCER TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN METROPOLITANA DE SANTIAGO
 
-Cargos N° de Cargos
-
-Juez Tributario y Aduanero 1
-
-Secretario Abogado 1
-
-Resolutor 6
-
-Profesional Experto 2
-
-Administrativo 2
-
-Auxiliar 1
-
-Total Planta 13
-
-TERCER TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN METROPOLITANA DE SANTIAGO
-
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
 Juez Tributario y Aduanero 1
 
 Secretario Abogado 1
 
-Resolutor 6
+Resolutor 3
 
-Profesional Experto 2
+Profesional Experto 1
 
 Administrativo 2
 
 Auxiliar 1
 
-Total Planta 13
+Total planta 9
 
 CUARTO TRIBUNAL TRIBUTARIO Y ADUANERO REGIÓN METROPOLITANA DE SANTIAGO
 
-Cargos N° de Cargos
+Cargos Nº de Cargos
 
-Juez Tributario y Aduanero 1
+Juez Tributario y Aduanero 2
 
 Secretario Abogado 1
 
-Resolutor 6
+Resolutor 4
 
-Profesional Experto 2
+Profesional Experto 3
 
 Administrativo 2
 
 Auxiliar 1
 
-Total Planta 13
+Total planta 13
 
-Adicionalmente, cuando las necesidades de estos tribunales lo requieran, se podrá contratar personal bajo el régimen de contrata, salvo que se trate de servicios específicos, los que serán pagados a suma alzada. En ambos casos, se requerirá la autorización previa de la Unidad Administradora a que se refiere el Título II y contar con disponibilidad presupuestaria. La contratación de este personal se efectuará por la mencionada unidad.
-
-> **Nota.** El numeral 2 del artículo 11 de la ley 21.033, publicada el 05.09.2017, dispone reemplazar en el sexto apartado del inciso primero del artículo 4° de la presente norma, la expresión "VIII REGIÓN" por "XVI y VIII REGIÓN", a contar del día 06.09.2018 conforme con el artículo 16 de la citada ley. Sin embargo, el numeral 3 del artículo 1° de la ley 21.039, publicada el 20.10.2017, ordena reemplazar íntegramente el referido artículo 4°, a partir del 01.11.2017 de acuerdo lo establece el artículo primero transitorio de esta ley. Por lo anterior, y en razón de no haber operado la vigencia diferida de la modificación introducida por la ley 21.033, es que el presente texto actualizado se construye teniendo en cuenta el mandato de la ley 21.039, que ordena el reemplazo íntegro del presente artículo.
+Adicionalmente, cuando las necesidades de estos tribunales lo requieran, se podrá contratar personal bajo el régimen de contrata, salvo que se trate de servicios específicos, los que serán pagados a suma alzada. En ambos casos, se requerirá la autorización previa de la Unidad Administradora a que se refiere el Título II y contar con disponibilidad presupuestaria. La contratación de este personal se efectuará por la mencionada Unidad.
 
 #### Artículo 5º
 
@@ -418,13 +288,11 @@ a) El perfil profesional de competencias y aptitudes del cargo concursado será 
 
 b) De no haber al menos cinco candidatos al cargo que cumplan los requisitos para integrar la nómina, el Consejo podrá ordenar que se efectúe un nuevo concurso para conformar o completar la lista, según corresponda.
 
-No podrán conformar la terna quienes hayan sido condenados por crimen o simple delito. Asimismo, no podrán conformarla quienes hayan sido sancionados conforme a lo dispuesto en el artículo 100 bis del Código Tributario, a través de una sentencia firme o ejecutoriada, o fueran solidariamente responsables de la multa ahí señalada.
-
 La Corte de Apelaciones respectiva podrá rechazar todos o algunos de los nombres contenidos en la lista que se le presente. Si el número de nombres restantes fuere inferior a cinco, la Corte comunicará el hecho al Consejo, para que complete la nómina llamando a un nuevo concurso, en el cual no podrán participar las personas que fueron rechazadas.
 
 Para conformar la terna para el cargo de juez tributario y aduanero, los postulantes deberán ser recibidos por el pleno de la Corte de Apelaciones en una audiencia pública citada especialmente al efecto. Cada Corte establecerá la forma en que se desarrollará esta audiencia.
 
-El resto del personal de los Tribunales Tributarios y Aduaneros será nombrado por el Presidente de la Corte de Apelaciones respectiva, previo concurso público efectuado conforme a las normas del Párrafo 1º del Título II de ley Nº 18.834, que aprueba el Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, de 2005, del Ministerio de Hacienda. Las funciones que el artículo 21 de dicho cuerpo legal asigna al Comité de Selección serán desempeñadas por la Unidad Administradora a que se refiere el Título II de la presente ley. Una vez efectuado el nombramiento, el Jefe de la Unidad Administradora de los Tribunales Tributarios y Aduaneros, mediante resolución, asignará el último nivel de remuneraciones que corresponda al cargo respectivo, de acuerdo al artículo 25. Las modificaciones de dicha resolución se realizarán conforme a lo establecido en el inciso final del precitado artículo.
+El resto del personal de los Tribunales Tributarios y Aduaneros será nombrado por el Presidente de la Corte de Apelaciones respectiva, previo concurso público efectuado conforme a las normas del Párrafo 1º del Título II de ley Nº 18.834, que aprueba el Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, de 2005, del Ministerio de Hacienda. Las funciones que el artículo 21 de dicho cuerpo legal asigna al Comité de Selección serán desempeñadas por la Unidad Administradora a que se refiere el Título II de la presente ley.
 
 #### Artículo 6º
 
@@ -460,33 +328,11 @@ En el caso de los Tribunales Tributarios y Aduaneros con más de un Secretario A
 
 A falta o inhabilidad de todos los anteriores, subrogará el secretario abogado del Tribunal Tributario y Aduanero que se indica en la tabla siguiente. A falta o inhabilidad del secretario abogado de este último tribunal, subrogará el juez del mismo. En todo caso, la subrogación de los tribunales indicados en la tabla será recíproca entre los mismos; así, por ejemplo, al VII Tribunal lo subrogará el VI Tribunal, y a este último lo subrogará el VII Tribunal:
 
-XV Región I Región
-
-II Región III Región
-
-IV Región V Región
-
-VI Región VII Región
-
-XVIa y VIIIa Regiones IX Región
-
-X Región XIV Región
-
-XI Región XII Región
-
-1° Tribunal Región 2° Tribunal Región
-
-Metropolitana Metropolitana
-
-3° Tribunal Región 4° Tribunal Región
-
-Metropolitana Metropolitana
+.
 
 En el caso de los Tribunales Tributarios y Aduaneros con más de un Juez, a falta o inhabilidad del Secretario, antes de aplicar las reglas precedentes, subrogará el otro juez del mismo Tribunal.
 
 La subrogación del secretario abogado corresponderá al funcionario que se desempeñe como resolutor del mismo tribunal. Si hubiere más de uno, subrogará el más antiguo de ellos. Si hubiere dos o más con la misma antigüedad, corresponderá la subrogación a aquel de ellos que el respectivo juez haya determinado. En ausencia de los anteriores, subrogará el profesional experto que sea abogado, salvo que no exista profesional experto abogado, en cuyo caso podrá subrogar un funcionario del mismo tribunal con al menos 5 años de antigüedad en el cargo y que sea designado por el juez. A falta o inhabilidad de éstos, subrogará quien decida el Presidente de la Corte de Apelaciones en cuyo territorio jurisdiccional tenga asiento el tribunal que requiere la subrogación, debiendo ser abogado el funcionario que elija para tales efectos y no pudiendo este funcionario subrogar en caso alguno al juez si fuesen aplicables a su vez las normas de subrogación de los incisos primero a cuarto anteriores.
-
-Los funcionarios que ocupen el cargo de jueces o secretarios en virtud de la subrogación, cuando ésta se prolongue por más de quince días corridos, con independencia de la calidad jurídica de planta o a contrata que ostente quien subrogue, tendrán derecho a percibir la diferencia que exista entre su sueldo base y el sueldo del cargo que deban subrogar, siempre y cuando el cargo que subrogan se encontrare vacante o si el titular del mismo, por cualquier motivo, no gozare de dicha remuneración o esté haciendo uso de licencias médicas.
 
 #### Artículo 11
 
@@ -516,7 +362,7 @@ En lo no regulado por esta ley, el régimen de calificación del personal perten
 
 #### Artículo 13
 
-El uso del feriado, cometidos, comisiones de servicio y de permisos por parte del Juez Tributario y Aduanero deberá ser autorizado por el Presidente de la respectiva Corte de Apelaciones. En el caso de los demás funcionarios del tribunal, la autorización deberá ser dada por el correspondiente Juez Tributario y Aduanero.
+El uso del feriado, comisiones de servicio y de permisos por parte del Juez Tributario y Aduanero deberá ser autorizado por el Presidente de la respectiva Corte de Apelaciones. En el caso de los demás funcionarios del tribunal, la autorización deberá ser dada por el correspondiente Juez Tributario y Aduanero.
 
 #### Artículo 14
 
@@ -542,13 +388,9 @@ Corresponde a los Resolutores y Profesionales Expertos:
 
 #### Artículo 16
 
-Los funcionarios del Tribunal Tributario y Aduanero tendrán prohibición de ejercer libremente su profesión u otra actividad remunerada, y de ocupar cargos de dirección, ejecución y administración en otras entidades que persigan o no fines de lucro.
+Los funcionarios del Tribunal Tributario y Aduanero tendrán prohibición de ejercer libremente su profesión u otra actividad remunerada, y de ocupar cargos directivos, ejecutivos y administrativos en otras entidades, sea que persigan o no fines de lucro.
 
-No obstante lo dispuesto en el inciso anterior, el desempeño como funcionario del Tribunal Tributario y Aduanero será compatible con asumir la defensa en causas personales, de su cónyuge o conviviente civil, ascendientes y descendientes, hermanos o pupilos, y con actividades docentes, hasta un máximo de doce horas semanales.
-
-Para el control de lo dispuesto en el inciso primero, los funcionarios de los Tribunales Tributarios y Aduaneros deberán presentar la declaración anual de intereses y patrimonio establecida en el Título II de la ley N° 20.880 sobre probidad en la función pública y prevención de los conflictos de intereses, en los términos y oportunidades que ahí se señala. Adicionalmente, los jueces y funcionarios deberán presentar las declaraciones correspondientes de su cónyuge, aun cuando se encuentren separados de bienes, de su conviviente civil y de sus hijos dependientes.
-
-Las responsabilidades y sanciones por el incumplimiento al deber señalado en el inciso anterior se determinarán y aplicarán de conformidad con lo dispuesto en el Capítulo 2° del Título II de la ley N° 20.880.
+No obstante lo dispuesto en el inciso anterior, el desempeño como funcionario del Tribunal Tributario y Aduanero será compatible con los cargos docentes, hasta un máximo de seis horas semanales.
 
 #### Artículo 17
 
@@ -580,13 +422,7 @@ Corresponderá a la Unidad Administradora la gestión administrativa de los Trib
 
 6º. La organización de cursos y conferencias destinados al perfeccionamiento del personal de los Tribunales Tributarios y Aduaneros, y
 
-7° Estudiar, implementar y evaluar planes y programas de probidad y clima laboral para los Tribunales Tributarios y Aduaneros, sin perjuicio de las facultades conservadoras y disciplinarias de la Corte Suprema.
-
-8° Cuando, en el ejercicio de su función o con ocasión de alguna denuncia efectuada a través de cualquier canal creado para estos efectos, tome conocimiento de la ocurrencia de delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, denegación y torcida administración de justicia y, en general, de toda prevaricación en que incurra uno o más de los funcionarios de los Tribunales Tributarios y Aduaneros, deberá denunciar dichos hechos ante los órganos persecutores correspondientes.
-
-9º. Todas las demás necesarias para el correcto funcionamiento administrativo de los Tribunales Tributarios y Aduaneros.
-
-> **Nota.** El numeral 3 del artículo 10 de la ley 21713, publicada el 24.10.2024, dispone agregar en el presente artículo, a continuación del numeral 6° los numerales 7° y 8° nuevos, pasando el actual numeral 7° a ser 9°. Sin embargo, mantiene en su texto la coma (,) y la letra "y" contenida al final del numeral 6, es por esta razón que se mantiene la expresión ", y" en la elaboración del texto actualizado.
+7º. Todas las demás necesarias para el correcto funcionamiento administrativo de los Tribunales Tributarios y Aduaneros.
 
 #### Artículo 20
 
@@ -628,25 +464,9 @@ De la Planta y Remuneraciones del Personal de los Tribunales Tributarios y Aduan
 
 #### Artículo 25
 
-La planta de personal de los Tribunales Tributarios y Aduaneros estará constituida por los siguientes cargos y niveles remuneratorios equivalentes a los de la Escala de Sueldos Base Mensuales del personal de estos tribunales, incluidas todas las asignaciones que correspondan a dichos niveles.
+La planta de personal de los Tribunales Tributarios y Aduaneros estará constituida por los siguientes cargos y grados, a los que corresponderá un nivel remuneratorio equivalente a los de la Escala de Sueldos Bases Mensuales del Personal del Poder Judicial, incluidas todas las asignaciones inherentes al respectivo cargo:
 
-Cargos N° Cargos Niveles
-
-Juez Tributario y Aduanero 18 I
-
-Secretario Abogado 18 II
-
-Resolutor 38 III–IV-V
-
-Profesional Experto 25 III–IV-V
-
-Administrativo 22 VI-VII-VIII
-
-Auxiliar 18 IX-X-XI
-
-Total planta 139
-
-El Jefe de la Unidad Administradora de los Tribunales Tributarios y Aduaneros determinará el nivel de remuneraciones que le corresponderá al resolutor, profesional experto, administrativo y auxiliar. Mediante una resolución, fijará asimismo los criterios objetivos para la determinación del nivel de remuneraciones que le será aplicable a dichos cargos, entre los cuales considerará los años de experiencia laboral y nivel académico. Además considerará, cuando corresponda, las calificaciones obtenidas por el personal, la capacitación pertinente y la experiencia en los niveles respectivos
+..
 
 #### Artículo Segundo
 

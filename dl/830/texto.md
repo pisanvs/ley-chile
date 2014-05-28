@@ -1508,7 +1508,7 @@ El Director, los Subdirectores y los Directores Regionales no tendrán la facult
 
 Se admitirá, además, cualquier otro medio probatorio apto para producir fe.
 
-No serán admisibles aquellos antecedentes que, teniendo relación directa con las operaciones fiscalizadas, hayan sido solicitados determinada y específicamente por el Servicio al reclamante en la citación a que se refiere el artículo 63 y que este último, no obstante disponer de ellos, no haya acompañado en forma íntegra dentro del plazo del inciso segundo de dicho artículo. El reclamante siempre podrá probar que no acompañó la documentación en el plazo señalado, por causas que no le hayan sido imputables.
+No serán admisibles aquellos antecedentes que, teniendo relación directa con las operaciones fiscalizadas, hayan sido solicitados determinada y específicamente por el Servicio al reclamante en la citación a que se refiere el artículo 63 y que este último, no obstante disponer de ellos, no haya acompañado en forma íntegra dentro del plazo del inciso segundo de dicho artículo. El reclamante siempre podrá probar que no acompañó la documentación en el plazo señalado, por causas que no le hayan sido imputables, incluyendo el caso de haber solicitado al Servicio prórroga del plazo original para contestar la referida citación y ella no fue concedida o lo fue por un plazo inferior al solicitado.
 
 El Juez Tributario y Aduanero se pronunciará en la sentencia sobre esta inadmisibilidad.
 
@@ -1606,9 +1606,9 @@ Salvo disposición en contrario del presente Código, no será necesario el pago
 
 Los contribuyentes podrán efectuar pagos a cuentas de impuestos reclamados, aun cuando no se encuentren girados. Las tesorerías abonarán estos valores en la cuenta respectiva de ingresos, aplicándose lo señalado en el artículo 50 cuando proceda.
 
-El Director Regional podrá disponer la suspensión total o parcial del cobro judicial por un plazo determinado o hasta que se dicte sentencia de primera instancia, cuando se trate de aquella parte de los impuestos correspondientes a la reclamación que hubieren sido girados con anterioridad al reclamo.
+El Tribunal Tributario y Aduanero podrá disponer la suspensión total o parcial del cobro judicial por un plazo determinado o hasta que se dicte sentencia de primera instancia, cuando se trate de aquella parte de los impuestos correspondientes a la reclamación que hubieren sido girados con anterioridad al reclamo.
 
-La facultad mencionada en el inciso anterior podrá ser ejercida por el Director Regional aunque no medie reclamación.
+Cuando no se presentare reclamación, la facultad mencionada en el inciso anterior podrá ser ejercida por el Director Regional.
 
 Si se dedujere apelación en contra de la sentencia definitiva que rechaza parcial o totalmente una reclamación, en los casos a que se refieren los incisos anteriores, la Corte de Apelaciones respectiva podrá, a petición de parte, previo informe del Servicio de Tesorerías ordenar la suspensión total o parcial del cobro del impuesto por un plazo determinado que podrá ser renovado. Igualmente y también por un plazo determinado renovable, podrá hacerlo la Corte Suprema conociendo de los recursos de casación. El informe del Servicio de Tesorerías deberá entregarse dentro de los quince días siguientes de recibida la petición del tribunal, el cual podrá proceder sin él si no se entrega en el plazo señalado.
 
@@ -1630,9 +1630,9 @@ Del procedimiento de reclamo de los avalúos de bienes raíces
 
 #### Artículo 149
 
-Dentro del mes siguiente al de la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributario y Aduanero.
+Dentro de los ciento ochenta días siguientes a la fecha de término de exhibición de los roles de avalúo los contribuyentes y las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado a un bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributario y Aduanero. Respecto del avalúo asignado a un bien raíz en la tasación general, será procedente el recurso de reposición administrativa en conformidad a las normas del Capítulo IV de la ley Nº 19.880 y con las mismas modificaciones establecidas en el artículo 123 bis, salvo la de su letra b), en que el plazo para que se entienda rechazada la reposición será de noventa días.
 
-La reclamación sólo podrá fundarse en algunas de las siguientes causales:
+La reclamación y la reposición, en su caso, sólo podrán fundarse en algunas de las siguientes causales:
 
 1°.- Determinación errónea de la superficie de los terrenos o construcciones.
 
@@ -1640,13 +1640,13 @@ La reclamación sólo podrá fundarse en algunas de las siguientes causales:
 
 3°.- Errores de transcripción, de copia o de cálculo.
 
-4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8°. de la ley N°. 11.575.
+4°.- Inclusión errónea del mayor valor adquirido por los terrenos con ocasión de mejoras costeadas por los particulares, en los casos en que dicho mayor valor deba ser excluido de acuerdo con lo dispuesto por el artículo 8° de la ley N° 11.575.
 
-La reclamación que se fundare en una causal diferente será desechada de plano.
+La reclamación o la reposición que se fundare en una causal diferente será desechada de plano.
 
 #### Artículo 150
 
-Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que dedujeren los contribuyentes que se consideren perjudicados por las modificaciones individuales de los avalúos de sus predios, o efectuadas de conformidad a los artículos 28°, 29°, 30° y 31° de la Ley sobre Impuesto Territorial y artículos 25° y 26° de la ley N° 15.163. En estos casos, el plazo para reclamar será de 30 días y se contará desde el envío del aviso respectivo.
+Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que dedujeren los contribuyentes que se consideren perjudicados por las modificaciones individuales de los avalúos de sus predios, o efectuadas de conformidad con lo dispuesto en el párrafo 2º del Título V de la Ley sobre Impuesto Territorial y artículos 25° y 26° de la ley N° 15.163. En estos casos, el plazo para reclamar será de 90 días y se contará desde el envío del aviso respectivo. Respecto de las modificaciones individuales de los avalúos de los predios, será procedente el recurso de reposición administrativa en conformidad a las normas del Capítulo IV de la ley Nº 19.880 y con las mismas modificaciones establecidas en el artículo 123 bis.
 
 #### Artículo 151
 
@@ -1742,7 +1742,7 @@ En las causas de cuantía igual o superior a treinta y dos unidades tributarias 
 
 3° Pendiente el procedimiento, se podrán tomar las medidas conservativas necesarias para evitar que desaparezcan los antecedentes que prueben la infracción o que se consumen los hechos que la constituyen, en forma que no se impida el desenvolvimiento de las actividades del contribuyente.
 
-Contra la resolución que ordene las medidas anteriores y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez de Letras de Mayor Cuantía en lo Civil que corresponda, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo.
+Contra la resolución que ordene las medidas anteriores y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez de Letras de Mayor Cuantía en lo Civil que corresponda, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia
 
 4º. Presentados los descargos se conferirá traslado al Servicio por el término de diez días. Vencido este plazo, haya o no contestado el Servicio se ordenará recibir la prueba que se hubiere ofrecido, dentro del término que se señale.
 
@@ -1768,7 +1768,7 @@ Las medidas mencionadas en el inciso anterior podrán ordenarse para ser cumplid
 
 Para llevar a efecto las medidas de que tratan los incisos anteriores, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que será concedida por el Jefe de Carabineros más inmediato sin más trámite que la exhibición de la resolución que ordena dicha medida, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 
-Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el juez de letras en lo civil de turno del domicilio del contribuyente, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo.
+Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el juez de letras en lo civil de turno del domicilio del contribuyente, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia.
 
 #### Artículo 162
 
