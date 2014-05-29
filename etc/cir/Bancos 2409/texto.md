@@ -2116,6 +2116,12 @@ En todo caso, cabe tener presente lo dispuesto en el artículo 154 de la Ley Gen
 
 Las disposiciones señaladas en este Capítulo, son las mínimas que deben observar los bancos para la adopción de un sistema sobre prevención del lavado de activos y financiamiento del terrorismo y su cumplimiento forma parte de la evaluación que lleva a cabo este Organismo sobre la gestión integral de riesgos, sin perjuicio de las sanciones que puede imponer en caso de incumplimiento, de acuerdo con lo dispuesto en el artículo 19 de la Ley General de Bancos.
 
+En el contexto del compromiso de cooperación entre Chile y Estados Unidos de Norteamérica para combatir la evasión tributaria de sus nacionales, las autoridades de ambos países firmaron un Acuerdo Intergubernamental (IGA) al amparo del Tratado para evitar la Doble Tributación, de 4 de febrero de 2010, con el objeto de establecer la forma de cumplimiento de la Foreign Account Tax Compliance Act (FATCA) por parte de los bancos y otras entidades financieras obligadas a reportar por esta ley.
+
+El cumplimiento de la ley FATCA involucra que los bancos deben registrarse ante el U.S. Internal Revenue Service (IRS) y reportarle anualmente la información relativa a las "US Accounts" requerida para fines de tributación en Norteamérica.
+
+Lo anterior obliga a los bancos a efectuar un due dilligence para identificar y reportar las "US accounts" en los términos descritos en el IGA, y contar con procesos operativos y tecnológicos adecuados para el cumplimiento del Acuerdo.
+
 Para los efectos de este Capítulo, son clientes todas las personas naturales y jurídicas con las cuales la entidad establece o mantiene una relación de origen legal o contractual, como consecuencia de la prestación de un servicio o contratación de un producto, ofrecido en el marco de las actividades propias de su giro y de conformidad a las disposiciones legales y reglamentarias Esta relación puede ser ocasional o habitual.
 
 ### II. SISTEMA DE PREVENCIÓN DE LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO
@@ -2206,7 +2212,7 @@ En todo caso, los bancos deberán abstenerse de establecer relaciones comerciale
 
 El Oficial de Cumplimiento deberá ser un funcionario de confianza, independiente de las áreas tomadoras de riesgo, operativa y de auditoría interna; tener un nivel gerencial, cuya función y responsabilidad principal será mantener una coordinación interna respecto de la vigilancia de las operaciones de los clientes con la entidad y sus filiales, la observancia de las instrucciones del manual de procedimientos, el conocimiento de los casos sospechosos y su comunicación al Comité de Prevención de Lavado de Activos y Financiamiento del Terrorismo.
 
-El banco deberá informar a esta Superintendencia el nombre, cargo y dependencia del Oficial de Cumplimiento, información que deberá mantenerse actualizada.
+El banco podrá incluir en las funciones del Oficial de Cumplimiento, las relativas a las labores que impone la ley FATCA.
 
 De acuerdo al tamaño y naturaleza de la entidad, el Oficial de Cumplimiento deberá contar con recursos humanos y tecnológicos adecuados.
 
@@ -2214,7 +2220,7 @@ De acuerdo al tamaño y naturaleza de la entidad, el Oficial de Cumplimiento deb
 
 Dependiendo de su tamaño, la institución deberá constituir un Comité de Prevención de lavado de Activos y Financiamiento del Terrorismo. Es deseable que este Comité esté integrado por a lo menos un director (no exigible para sucursal de entidad extranjera), el gerente general, a lo menos un gerente de área, el fiscal y el Oficial de Cumplimiento.
 
-Entre sus funciones estará la de planificar y coordinar las actividades de cumplimiento de las políticas y procedimientos sobre las materias definidas por la entidad, relacionadas con aquellas de que trata este Capítulo.
+Entre sus funciones estará la de planificar y coordinar las actividades de cumplimiento de las políticas y procedimientos sobre las materias definidas por la entidad, relacionadas con aquellas de que trata este Capítulo. Las funciones del Comité podrán incluir las tareas concernientes a la ley FATCA.
 
 Además, deberá tomar conocimiento de la labor desarrollada y operaciones analizadas por el oficial de cumplimiento, como también, de decidir sobre mejoras a las medidas de control que éste proponga.
 
@@ -2246,7 +2252,7 @@ El sistema de prevención de lavado de activos y financiamiento del terrorismo i
 
 ### III. EVALUACIÓN DE ESTA SUPERINTENDENCIA
 
-La suficiencia y la eficacia de las políticas y procedimientos sobre prevención de lavado de activos y financiamiento del terrorismo adoptados por las instituciones, son parte del proceso de supervisión, evaluación y clasificación por gestión de que trata el Capítulo 1-13 de esta Recopilación.
+La evaluación de las temáticas contempladas en este Capítulo, es parte del proceso de supervisión, evaluación y clasificación por gestión, de que trata el Capítulo 1-13 de esta Recopilación.
 
 CAPITULO 1-15 (Bancos)
 
