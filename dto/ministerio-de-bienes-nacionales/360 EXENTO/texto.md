@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, AL CÍRCULO SOCIAL Y MUTUALISTA DE EX JUGADORES PROFESIONALES DE FÚTBOL
+
+Mediante decreto exento Nº 360, de 8 de mayo de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al Círculo Social y Mutualista de Ex Jugadores Profesionales de Fútbol, RUT Nº 71.505.800-6, el inmueble fiscal ubicado en Avenida José Arrieta Nº 5964, comuna de La Reina, provincia y Región Metropolitana de Santiago, enrolado en el Servicio de Impuestos Internos con el Nº 3013-24; inscrito a nombre del Fisco a fojas 38766 Nº 27734, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1995; de una superficie de 352,75 metros cuadrados, singularizado en el Plano Nº 13113-2005-C.U. La concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para que la beneficiaria lo utilice como Sede Oficial y principal domicilio de la Corporación, y para el desarrollo de sus funciones propias en el ámbito social, deportivo y cultural. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
