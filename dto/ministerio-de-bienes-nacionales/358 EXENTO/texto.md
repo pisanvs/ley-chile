@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA I. MUNICIPALIDAD DE OLLAGÜE
+
+Mediante decreto exento Nº 358, de 8 de mayo de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita contra proyecto, a la I. Municipalidad de Ollagüe, RUT Nº 69.252.600-7, el inmueble fiscal ubicado a 700 mts. al sureste de la localidad de Ollagüe, comuna de Ollagüe, provincia de El Loa, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con el Nº 4100-65; amparado por la inscripción global que rola a fojas 112 vta. Nº 112, del Registro de Propiedad del Conservador de Bienes Raíces de El Loa-Calama, correspondiente al año 1933; de una superficie de 1,65 has, singularizado en el Plano Nº 02202-7.065-C.R. La concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de suministro eléctrico basado en una combinación de energías renovables no convencionales y generación a base de combustible diesel, para abastecer la demanda actual y futura del pueblo de Ollagüe, durante las 24 horas del día. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
