@@ -652,6 +652,8 @@ Los organismos de radiodifusión o de televisión gozarán del derecho de autori
 
 La retransmisión de las emisiones de dichos organismos o su comunicación al público en locales a los que éste tenga libre acceso, otorgará a la empresa derecho a una retribución, cuyo monto fijará el Reglamento.
 
+En el caso de los permisionarios de servicios limitados de televisión, éstos no podrán emitir ni retransmitir, por cualquier medio, en su oferta programática, señales pertenecientes a los concesionarios de radiodifusión televisiva de libre recepción, sin la expresa autorización de éstos. La emisión y retransmisión de tales señales dará al concesionario el derecho a una retribución, que deberá ser acordada previamente por las partes.
+
 Los organismos de radiodifusión o televisión podrán realizar fijaciones efímeras de interpretaciones o ejecuciones de un artista con el único fin de utilizarlas en emisión, por el número de veces acordado, quedando obligados a destruirlas inmediatamente después de la última transmisión autorizada.
 
 ## Capítulo IV

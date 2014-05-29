@@ -50,8 +50,6 @@ Los diez Consejeros a que se refiere la letra b) durarán 8 años en sus cargos,
 
 Los Consejeros deberán ser personas de relevantes méritos personales y profesionales, tales como: ser una persona que cuente con una reconocida trayectoria en el ámbito de la sociedad civil, de la cultura, de las artes o de las comunicaciones; haber sido agraciado como Premio Nacional en cualquiera de sus menciones; ser miembro de alguna de las Academias del Instituto de Chile; haber sido parlamentario; ser o haber sido profesor universitario; ser o haber sido director o rector de establecimientos de Educación Media o Superior de reconocido prestigio nacional, o ser una persona representativa de los pueblos originarios. El nombramiento se hará mediante decreto supremo expedido a través del Ministerio Secretaría General de Gobierno.
 
-Será aplicable a todos los funcionarios y Consejeros del Consejo Nacional de Televisión el principio de probidad administrativa que establece el artículo 52 del decreto con fuerza de ley Nº 1/19.653, del Ministerio Secretaría General de la Presidencia, promulgado el año 2000 y publicado el año 2001, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado. Asimismo, los Consejeros, el Secretario General, el Secretario Ejecutivo y los directivos deberán realizar las declaraciones de patrimonio e intereses, en la forma y en las oportunidades que establece la ley Nº 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses.
-
 Las vacantes que se produzcan serán llenadas de acuerdo con el procedimiento señalado en las letras a) y b). La proposición deberá efectuarse dentro de los 30 días siguientes de producida la vacante. El reemplazante durará en funciones por el tiempo que reste para completar el período del Consejero reemplazado.
 
 #### Artículo 3°
@@ -59,8 +57,6 @@ Las vacantes que se produzcan serán llenadas de acuerdo con el procedimiento se
 El Consejo tendrá un Secretario General, que será elegido o removido, en su caso, con el voto conforme de siete Consejeros en ejercicio. Este profesional será ministro de fe respecto de las actuaciones del Consejo, y tendrá las demás facultades y atribuciones que el Consejo le designe, siempre que no sean de carácter administrativo.
 
 Asimismo, el Consejo tendrá un Secretario Ejecutivo, que será elegido o removido, en su caso, con el voto conforme de siete Consejeros en ejercicio, y que tendrá las facultades y atribuciones a que hace referencia el artículo 14 ter de esta ley.
-
-> **Nota.** El artículo 3 de la ley 21005, publicada el 07.04.2017, establece que los cargos de Secretario Ejecutivo, Secretario General y demás directivos del Consejo Nacional de Televisión serán seleccionados conforme con la normativa aplicable a los altos directivos públicos de segundo nivel jerárquico, contenida en el párrafo 3° del título VI de la ley N° 19.882, y fija la integración del comité de selección. El referido mecanismo de selección, de acuerdo a lo dispuesto en el artículo tercero transitorio de la misma ley, regirá a partir del decimoctavo mes siguiente a la fecha de entrada en vigencia de el o los decretos con fuerza de ley a que se refiere su artículo sexto transitorio, es decir, a contar del 03.01.2018, fecha de publicación del decreto con fuerza de ley N° 1, de 2017, del Ministerio Secretaría General de Gobierno, que fija la planta de personal del Consejo Nacional de Televisión.
 
 #### Artículo 4°
 
@@ -88,45 +84,29 @@ ELIMINADO
 
 ELIMINADO
 
-#### Artículo 8º
+#### Artículo 8°
 
-Son inhábiles para desempeñar el cargo de Consejero, Secretario General y Secretario Ejecutivo del Consejo:
+Son inhábiles para desempeñar el cargo de Consejero:
 
-1.- Las personas que hayan sido condenadas por delito que merezca pena aflictiva o inhabilitación perpetua para desempeñar cargos u oficios públicos, o personas condenadas por los delitos vinculados a procedimientos concursales, así como quienes hayan sido su administrador o representante legal.
+1.- Las personas que por sí, sus cónyuges, sus parientes legítimos hasta el tercer grado de consanguinidad y segundo de afinidad, o por personas que estén ligadas a ellos por vínculos de adopción, o a través de personas naturales o de personas jurídicas, en que tengan control de su administración, adquieran - a cualquier título - interés en concesiones de servicio de televisión de libre recepción o de servicios limitados de televisión o en empresas publicitarias de producción de programas audiovisuales o de prestación de servicios televisivos que estén directamente vinculadas a la explotación de una concesión de servicio de radiodifusión televisiva de libre recepción.
 
-2.- Las personas que por sí, sus cónyuges o convivientes civiles, sus parientes hasta el tercer grado de consanguinidad y segundo de afinidad, o por personas que estén ligadas a ellos por vínculos de adopción, o que a través de personas naturales o de personas jurídicas en las que posean el control de su administración, tengan o adquieran, a cualquier título, interés o participación en la propiedad de concesionarias de servicios de televisión de libre recepción, de servicios limitados de televisión, de empresas de producción de contenidos audiovisuales o de prestación de servicios televisivos que estén vinculadas a la explotación de una concesión de servicios de radiodifusión televisiva de libre recepción.
+2.- Las personas que desempeñen los cargos de Presidente, Vicepresidente, Secretario General y Tesorero en las directivas centrales de los partidos políticos o en directivas nacionales de organizaciones gremiales o sindicales.
 
-3.- Las personas que desempeñen los cargos de Presidente, Vicepresidente, Secretario General y Tesorero en las directivas centrales de los partidos políticos o en las directivas nacionales de organizaciones gremiales o sindicales.
+3.- Las personas que, a cualquier título, desempeñen funciones remuneradas en la Administración del Estado o en empresas en que el Estado tenga participación en su propiedad, con la sola excepción del desempeño en cargos docentes de hasta media jornada.
 
-4.- Las personas que se encuentren en alguno de los casos contemplados en el artículo 7º del decreto con fuerza de ley Nº 29, del Ministerio de Hacienda, promulgado el año 2004 y publicado el año 2005, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo; las personas que se desempeñen en cargos directivos o profesionales, dentro de los primeros tres niveles jerárquicos de las respectivas plantas funcionarias en la Administración del Estado o en empresas en que éste tenga participación en su propiedad, y aquellas personas que, por las características de su función, tengan dependencia directa de ministros, subsecretarios u otros altos cargos directivos de la Administración del Estado.
+Durante su mandato y hasta seis meses después del cese de sus funciones, los consejeros estarán inhabilitados para ejercer un empleo en cualquier concesionaria de servicios de radiodifusión televisiva que pudiese verse beneficiada directamente por las resoluciones del Consejo.
 
-#### Artículo 9º
+Los miembros del Consejo y su planta directiva no podrán tener intereses económicos en empresas u otras entidades dedicadas a la fabricación o venta de equipos de telecomunicaciones o al negocio de la comunicación por cable, radio o que use del espectro electromagnético; o que de algún otro modo estén relacionados con éstas a través de acciones, bonos u otro. No obstante, si al momento de su nombramiento un miembro posee intereses en una de estas empresas o entidades, tendrá un plazo de treinta días para regularizar su situación ante la ley.
 
-Los consejeros en quienes concurran algunas de las circunstancias señaladas a continuación respecto de un caso particular sometido a su conocimiento deberán, tan pronto tengan noticia de ello, informar al Consejo y abstenerse de intervenir en él:
+#### Artículo 9°
 
-1.- Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir directa o indirectamente la de aquel.
-
-2.- Tener cuestión litigiosa pendiente con algún interesado.
-
-3.- Tener parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con los asesores, representantes legales o mandatarios que intervengan en el procedimiento.
-
-4.- Compartir despacho profesional o estar asociado con los asesores, representantes legales o mandatarios que intervengan en el procedimiento.
-
-5.- Tener relación de prestación de servicios con persona natural o jurídica interesada directamente en el asunto, o haberle prestado, en los dos últimos años, servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.
-
-6.- Haber manifestado de cualquier modo su dictamen sobre la cuestión pendiente, siempre que lo hubiere hecho con conocimiento de ella.
-
-7.- En general, cualquier circunstancia que le reste imparcialidad en relación al asunto sometido a su conocimiento.
-
-La infracción al deber de abstención establecido en el inciso anterior se considerará como falta grave, para efectos de lo dispuesto en el artículo 10 de la presente ley.
-
-La recusación podrá ser interpuesta por cualquier interesado, entendiéndose por tal aquellos a que se refiere el artículo 21 de la ley Nº 19.880.
+Sólo podrá inhabilitarse a los Consejeros para que intervengan en un negocio determinado en razón de tener interés personal o por causa de amistad íntima o enemistad con aquél o aquéllos a quienes afecte dicha materia.
 
 La recusación deberá deducirse ante el Consejo hasta el momento mismo en que éste entre a resolver sobre la materia respecto de la cual se alega la inhabilidad. La recusación deberá ir acompañada de las pruebas que justifiquen la causal invocada y, tratándose de prueba testimonial, ésta se adjuntará mediante declaraciones juradas prestadas ante Notario Público.
 
 Deducida la recusación, el Secretario General del Consejo notificará de ésta al Consejero afectado, el cual deberá informar por escrito al Consejo, dentro de las 48 horas siguientes. Contestada ésta o transcurrido dicho plazo, el Presidente del Consejo o quien haga sus veces, con o sin el informe del Consejero afectado, citará de inmediato a una sesión extraordinaria del Consejo para resolver la recusación. El fallo del Consejo no será susceptible de recurso alguno. Mientras no se resuelva sobre la recusación, el Consejo se abstendrá de resolver sobre la materia en que ésta incide.
 
-INCISO SUPRIMIDO
+El Consejero a quien afecte una causal de recusación deberá darla a conocer de inmediato al Consejo y abstenerse de participar en la discusión y votación de la materia. La infracción a esta obligación se considerará como falta grave.
 
 En el evento en que la causal de recusación llegue a conocimiento del particular interesado, con posterioridad a la decisión del asunto, ésta deberá hacerse valer dentro de los cinco días hábiles siguientes a la fecha en que el interesado tuvo conocimiento de ella. Se entenderá que tuvo conocimiento de ella desde el momento mismo en que la resolución respectiva fue dada a conocimiento público. El Consejo sólo la admitirá a tramitación en el evento en que el voto del Consejero recusado haya sido determinante para lograr el quórum exigido por la ley, según sea la materia de que se trate. De acogerse la recusación, el Consejo, en sesión especialmente convocada al efecto, deberá pronunciarse nuevamente sobre la materia en que incide la recusación, quedando suspendido el cumplimiento de la decisión anterior.
 
@@ -151,8 +131,6 @@ La existencia de las causales establecidas en las letras c), d) y e) precedentes
 El requerimiento deberá hacerse por escrito, acompañándose todos los elementos de prueba que acrediten la existencia de la causal. Se dará traslado al afectado por el término fatal de 10 días hábiles para que exponga lo que estime conveniente en su defensa. Vencido este plazo, con o sin la respuesta del afectado, se decretará autos en relación y la causa, para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección.
 
 Tratándose de la causal de la letra c), la Corte, como medida para mejor resolver, podrá decretar informe pericial.
-
-Los Consejeros que hayan cesado en su cargo no podrán, por sí o a través de personas naturales o jurídicas, tener negocios ni prestar servicios a las empresas o entidades sujetas a la fiscalización o competencias del Consejo, durante el plazo de un año contado desde la fecha de término de sus funciones en el mismo.
 
 #### Artículo 11°
 
@@ -546,7 +524,7 @@ Las infracciones a las normas de la presente ley y a las que el Consejo dicte en
 
 - **b)** incumplimiento de las exigencias establecidas en los incisos primero y final del artículo 18;
 
-- **c)** resolución de liquidación ejecutoriada;
+- **c)** declaratoria de quiebra de la concesionaria, por resolución judicial ejecutoriada;
 
 - **d)** suspensión de transmisiones, impuesta como sanción por resolución ejecutoriada del Consejo, por tres veces dentro de un mismo mes o por cinco veces dentro del año calendario, por alguna de las siguientes infracciones: 1) interrupción, injustificada o no autorizada previamente por el Consejo, de las transmisiones por más de cinco días; 2) incumplimiento de las normas técnicas por las cuales se rija la respectiva concesión, y 3) infracción de lo establecido en el artículo 1° de esta ley;
 
