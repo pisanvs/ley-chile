@@ -16,9 +16,15 @@ Para los efectos de esta ley, se entenderá por telecomunicación toda transmisi
 
 Todos los habitantes de la República tendrán libre e igualitario acceso a las telecomunicaciones y cualquier persona podrá optar a las concesiones y permisos en la forma y condiciones que establece la ley.
 
-Para los efectos de esta ley cada vez que aparezcan los términos "Ministerio", "Ministro", "Subsecretaría" y "Subsecretario" se entenderán hechas estas referencias al "Ministerio de Transportes y Telecomunicaciones", al "Ministro de Transportes y Telecomunicaciones", a la "Subsecretaría de Telecomunicaciones" y al
+El espectro radioeléctrico es un bien nacional, cuyo dominio pertenece a la Nación toda. En consecuencia:
 
-"Subsecretario de Telecomunicaciones", respectivamente.
+- **a)** ninguna persona natural o jurídica puede atribuirse o pretender el dominio de todo o una parte del espectro radioeléctrico,
+
+- **b)** las concesiones que se otorguen a personas naturales o jurídicas son, por esencia, temporales y
+
+- **c)** los beneficiados con una concesión podrán pagar al Estado el justiprecio por el uso y goce de la misma en conformidad a esta ley.
+
+Para los efectos de esta ley cada vez que aparezcan los términos "Ministerio", "Ministro", "Subsecretaría" y "Subsecretario" se entenderán hechas estas referencias al "Ministerio de Transportes y Telecomunicaciones", al "Ministro de Transportes y Telecomunicaciones", a la "Subsecretaría de Telecomunicaciones" y al "Subsecretario de Telecomunicaciones", respectivamente.
 
 #### Artículo 3°
 
@@ -668,9 +674,15 @@ b) Telecentros comunitarios de información.
 
 c) Servicios de Telecomunicaciones de libre recepción o de radiodifusión locales, cuyas transmisiones están destinadas a la recepción libre y directa por el público en general, sean emisiones sonoras, de televisión abierta o limitada, o de otro género, especialmente los servicios de radiodifusión de mínima cobertura definidos en el inciso segundo de la letra a) del artículo 3º de esta ley.
 
+Podrán subsidiarse las inversiones en sistemas de transmisión e infraestructura para promover el aumento de cobertura de radiodifusión televisiva digital de libre recepción y servicios de acceso a Internet, de preferencia en forma simultánea en lugares rurales, insulares o aislados.
+
+Dichos subsidios deberán emplearse preferentemente en financiar las inversiones de concesionarios que deben ofrecer capacidad de transmisión a otros concesionarios, que provean servicios de acceso a Internet y servicios de radiodifusión televisiva digital de libre recepción, en particular, concesionarios con medios de terceros de carácter regional, local y local comunitario.
+
 d) Cualquier otro servicio de telecomunicaciones que beneficie directamente a la comunidad en la cual habrá de operar.
 
 Los proyectos podrán complementarse con líneas de abonados y otras prestaciones no afectas a subsidio.
+
+Todo subsidio o financiamiento previsto en el presente artículo deberá considerar, además, la convergencia tecnológica de los medios respecto de los cuales se asignan.
 
 #### Artículo 28
 
