@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.320, de 14 de mayo de 2014, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 851 de 2014, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de prospección denominado "Instituto de Fomento Pesquero, RUT Nº 61.310.000-8, domiciliado en Blanco Nº 839, Valparaíso", en el sentido de ampliar la vigencia de la presente autorización hasta el 15 de junio de 2014.
+
+Valparaíso, 14 de mayo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
