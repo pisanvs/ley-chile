@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.324, de 14 de mayo de 2014, de esta Subsecretaría, deniégase la solicitud presentada por DAVID CRUZ LÓPEZ, de ampliación de plazo para iniciar actividades pesqueras extractivas con la nave "Areamilla", por no haberse acreditado una circunstancia de fuerza mayor dentro del plazo señalado en la resolución Nº 168, de 2012, resultando por tanto extemporánea dicha solicitud.
+
+Declárase la caducidad de la resolución exenta Nº 3.601 de 2010, que autorizó a David Cruz López, para ampliar actividades pesqueras extractivas con la nave "Areamilla", en el área marítima comprendida entre la XV a X Regiones, Isla de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez Espada y su fauna acompañante, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Valparaíso, 14 de mayo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
