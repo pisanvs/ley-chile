@@ -18,11 +18,15 @@ También se entenderá por tal, el servicio de transporte de escolares que los p
 
 #### Artículo 3º
 
-En el Registro establecido en el artículo 1º, se consignarán los antecedentes referentes al empresario de transportes, al propietario de los vehículos, al conductor y a las características del vehículo, así como otros antecedentes que el Ministerio de Transportes y Telecomunicaciones considere pertinentes para realizar la fiscalización y el control de estos servicios y de los vehículos en que se prestan.
+En el Registro establecido en el artículo 1º, se consignarán los antecedentes referentes al empresario de transportes, al propietario de los vehículos, al conductor o conductores y sus acompañantes, y a las características del vehículo, así como otros antecedentes que el Ministerio de Transportes y Telecomunicaciones considere pertinentes para realizar la fiscalización y el control de estos servicios y de los vehículos en que se prestan.
 
 #### Artículo 4º
 
 El Ministerio de Transportes y Telecomunicaciones establecerá, mediante decreto supremo, la forma y requisitos para la inscripción en el Registro, la que se realizará en la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la región en que se preste el servicio, o donde ésta determine.
+
+No será admisible la inscripción como conductores y acompañantes para las personas cuyo certificado de antecedentes para fines especiales, emitido por el Servicio de Registro Civil e Identificación, contenga anotaciones relativas a los delitos previstos en los párrafos 2º, 3º, 5º, 6º y 9º del Título VII, del Libro II del Código Penal, y en los artículos 142, 372 bis, 374 bis y 411 quáter del mismo Código.
+
+Para el caso en que los Secretarios Regionales Ministeriales tomen conocimiento de que un conductor o acompañante inscrito ha sido condenado por uno o más de los delitos referidos en el inciso anterior, estos deberán oficiar inmediatamente al Servicio de Registro Civil e Identificación para que informe, en el más breve plazo posible, sobre la existencia de anotaciones prontuariales referidas a los delitos aquí señalados. El Secretario Regional Ministerial, una vez certificada la situación por el Servicio de Registro Civil e Identificación, procederá a la cancelación de la respectiva inscripción.
 
 #### Artículo 5º
 
@@ -30,7 +34,7 @@ El Ministerio de Transportes y Telecomunicaciones cobrará los derechos que se e
 
 #### Artículo 6º
 
-El empresario de transportes será responsable de que en la prestación del servicio se cumplan todas las leyes, reglamentos y normas que le sean aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera corresponderle.
+El empresario de transportes será responsable de que en la prestación del servicio se cumplan todas las leyes, reglamentos y normas que le sean aplicables. Asimismo, tendrá la obligación de certificar que sus conductores y acompañantes están habilitados para desempeñarse como tales, de conformidad con lo previsto en el inciso segundo del artículo 4º. Si con posterioridad a dicha certificación alguno de sus conductores o acompañantes incurre en la causal de denegación del registro a la que se refiere el artículo señalado precedentemente, el empresario deberá informar inmediatamente a la Secretaría Regional Ministerial respectiva, sin perjuicio de la responsabilidad civil o penal que pudiera corresponderle.
 
 #### Artículo 7º
 
