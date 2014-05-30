@@ -46,7 +46,7 @@ a) Prohibición de funcionamiento de todo tipo de quemas dentro del radio urbano
 
 b) Prohibición de funcionamiento de chimeneas de hogar abierto dentro del radio urbano.
 
-c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña y carbón dentro del radio urbano, entre las 18:00 y 24:00 hrs.
+c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña y otros derivados, tales como aserrín, chips, despuntes, etc., y carbón dentro del radio urbano, entre las 18:00 y 24:00 hrs.
 
 d) Prohibición de funcionamiento de fuentes fijas comerciales y de edificios comunitarios que utilicen como combustible leña, entre las 18:00 y las 24:00 hrs, en el perímetro definido por esta Autoridad Sanitaria en el considerando cuarto del presente acto administrativo.
 
