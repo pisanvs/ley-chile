@@ -70,19 +70,19 @@ Si en el ejercicio de sus funciones, los miembros del Consejo accedieran a infor
 
 #### Artículo 8º
 
-Desígnase como integrantes del primer Consejo Fiscal a las siguientes personas y por el plazo de tiempo que se indica:
+Desígnanse como integrantes del Consejo Fiscal Asesor a las siguientes personas por el plazo que se indica:
 
-1.- Sr. Klaus Schmidt-Hebbel Dunker, RUT 6.376.300-4, por cuatro años.
+1.- Sr. Eduardo Engel Goetz, RUT Nº 5.392.519-7, por cuatro años.
 
-2.- Sr. Manuel R. Agosín Trumper, RUT 5.221.140-9, por tres años.
+2.- Sra. Andrea Repetto Lisboa, RUT Nº 8.795.355-6, por cuatro años.
 
-3.- Sr. Felipe G. Morandé Lavín, RUT 7.246.745-0, por tres años.
+3.- Sr. Oscar Landerretche Moreno, RUT Nº 8.366.611-0, por cuatro años.
 
-4.- Sra. Bernardita Piedrabuena Keymer, RUT 10.173.277-0, por dos años.
+4.- Sr. Hermann González Bravo, RUT Nº 13.565.713-1, por cuatro años.
 
-5.- Sr. Luis Felipe Lagos Marchant, RUT 6.370.485-7, por dos años.
+5.- Sr. Gonzalo Sanhueza Dueñas, RUT Nº 8.813.539-3, por cuatro años.
 
-Asimismo, desígnanse como primer Presidente y Vicepresidente del Consejo Fiscal Asesor a don Klaus Schmidt-Hebbel y a don Manuel Agosín Trumper, respectivamente.
+Asimismo, desígnase como Presidente y Vicepresidente del Consejo Asesor Fiscal a don Eduardo Engel Goetz y a doña Andrea Repetto Lisboa, respectivamente.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
