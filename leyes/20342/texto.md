@@ -14,7 +14,7 @@ Esta bonificación anual corresponderá al personal que haya prestado servicios,
 
 #### Artículo 2º
 
-El monto anual que corresponderá a cada funcionario por concepto de la bonificación será el equivalente en unidades de fomento a $813.600, valor que incluye el bono compensatorio a que se refiere el artículo siguiente. Para estos efectos se considerará la unidad de fomento vigente al 31 de enero de 2009. La expresión en unidades de fomento se efectuará considerando dos decimales.
+El monto anual que corresponderá a cada funcionario por concepto de la bonificación será el equivalente en unidades de fomento a $1.050.000, valor que incluye el bono compensatorio a que se refiere el artículo siguiente. Para estos efectos se considerará la unidad de fomento vigente al 1 de enero de 2014. La expresión en unidades de fomento se efectuará considerando dos decimales.
 
 La bonificación no servirá de base de cálculo para ninguna otra remuneración o beneficio legal, tendrá carácter tributable e imponible para fines de previsión y salud.
 
