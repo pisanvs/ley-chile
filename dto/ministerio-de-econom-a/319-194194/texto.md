@@ -1854,11 +1854,13 @@ k) Plan de manejo coordinado de desechos de los centros de cultivo integrantes d
 
 l) Reducción del número total de ejemplares a ingresar en la agrupación en el período productivo siguiente en relación al número total de ejemplares ingresados en el período inmediatamente anterior, y
 
-m) Otra medida sanitaria destinada a mejorar el desempeño ambiental o sanitario de la agrupación, lo que será calificado por el Servicio, previo informe técnico fundado.
+m) Porcentaje de reducción de siembra, cuya determinación se regirá por los artículos 59 a 64 del presente reglamento.
+
+n) Otra medida sanitaria destinada a mejorar el desempeño ambiental o sanitario de la agrupación, lo que será calificado por el Servicio, previo informe técnico fundado.
 
 La adopción de acuerdos requerirá la mayoría absoluta de las concesiones de la agrupación, dentro de la cual deberá encontrarse al menos el 70% de las concesiones cuyos titulares declaren su intención de operar en el siguiente período productivo. Estos últimos deberán comprometerse a no operar en el período productivo subsiguiente si por cualquier causa desisten de su intención de operar en el primer período en que debía entrar a regir el plan de manejo, salvo que la no operación haya sido consecuencia de la obtención de INFA que dé cuenta de una condición anaeróbica en el centro que se había previsto operar.
 
-En el caso de la medida indicada en la letra a), se requerirá la unanimidad para la adopción del acuerdo. El quórum estará siempre referido al total de las concesiones existentes en la agrupación y no al número de titulares.
+En el caso de la medida indicada en la letra a), se requerirá la unanimidad para la adopción del acuerdo. El quórum estará siempre referido al total de las concesiones existentes en la agrupación y no al número de titulares. En el caso de la medida indicada en la letra m), se requerirá la unanimidad, salvo que concurran al acuerdo la mayoría absoluta de los titulares de las concesiones de la agrupación y que con la siembra autorizada a quienes no concurran al acuerdo, no se exceda de la siembra de la agrupación establecida de conformidad con los artículos 59 y siguientes del presente reglamento. En tal caso, quienes no hayan aprobado la medida de porcentaje de reducción de siembra se someterán a la siembra que tengan autorizada individualmente y a la densidad de cultivo fijada para la agrupación de concesiones respectiva.
 
 En ningún caso el plan de manejo será un instrumento para impedir la operación o establecer la reducción del número de peces de las concesiones que no han concurrido al acuerdo.
 
@@ -1866,7 +1868,7 @@ El descanso voluntario de las concesiones que se encuentren ubicadas en las fran
 
 Los acuerdos deberán constar en un instrumento firmado ante notario público por los titulares de los centros de cultivo o sus representantes legales. En el caso que uno o más titulares de las concesiones hubieren arrendado o celebrado otro contrato en virtud del cual un tercero realizará la operación del centro de cultivo en el período productivo siguiente, deberá manifestarse la voluntad del contratante adjuntando copia del contrato respectivo, el que en todo caso deberá contar con la inscripción en el registro de concesiones de acuicultura que lleva la Subsecretaría para las Fuerzas Armadas.
 
-El plan de manejo deberá ser presentado al Servicio al menos con un mes de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
+El plan de manejo deberá ser presentado al Servicio al menos con un mes de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo. Solo para incorporar al plan de manejo la medida referida en la letra m) o para presentar un plan de manejo que consista solo en ella, los plazos de presentación y aprobación ante el Servicio serán los establecidos en el artículo 62 del presente reglamento.
 
 Dos o más agrupaciones de concesiones podrán presentar un plan de manejo conjunto siguiendo el procedimiento antes indicado, el que deberá estar referido a todas las agrupaciones que lo hayan acordado.
 
@@ -1898,7 +1900,7 @@ El informe técnico que proponga las macro-zonas deberá indicar medidas que ase
 
 Ante una emergencia sanitaria, inmediatamente se aplicará la restricción del movimiento de las embarcaciones que presten servicios de acuicultura entre macro-zonas.
 
-## Título XV
+## Título XIV
 
 Del establecimiento de las densidades de cultivo para las agrupaciones de concesiones de salmónidos
 
@@ -2002,33 +2004,51 @@ U. La Subsecretaría mantendrá en su sitio de dominio electrónico tablas que d
 
 V. Las disposiciones del presente Título, no se aplicarán a la especie Salmón rey Oncorhynchus tschawytscha y su cultivo se someterá a la densidad de cultivo fijada por resolución vigente del Servicio para centros de engorda.
 
-## Título XVI
-
-De los expertos
-
 #### Artículo 59
 
-DEROGADO.
+La densidad de cultivo no se aplicará en los casos en que los titulares de las concesiones integrantes de la agrupación de concesiones hubieren acordado incorporar la medida de porcentaje de reducción de siembra en el plan de manejo aprobado por el Servicio o presentar uno para establecer dicha medida, de conformidad con las disposiciones siguientes.
 
 #### Artículo 60
 
-DEROGADO.
+Conforme al desempeño sanitario obtenido durante cada periodo productivo, la Subsecretaría elaborará la propuesta de porcentaje de reducción de siembra a aplicar en el próximo periodo productivo, lo que comprenderá el número total de ejemplares de peces que será posible ingresar a la agrupación en el próximo período productivo, sea que se realicen uno o dos ciclos productivos. Cuando corresponda, dicho porcentaje se ajustará al término de cada periodo productivo para el próximo, conforme al desempeño sanitario obtenido durante aquel.
+
+El porcentaje de reducción de siembra por agrupación será determinada por la Subsecretaría considerando las variables que a continuación se indican en el período productivo inmediatamente anterior:
+
+a) Pérdidas de la agrupación, conforme lo indicado en el artículo 58 Ñ letra b) del presente reglamento.
+
+b) Indicadores sanitarios de todos los centros de cultivo de la agrupación, asociados a una enfermedad o infección sometida a un programa específico de control, que se vean deteriorados en la medida en que aumentan los niveles de biomasa.
+
+Una resolución de la Subsecretaría fijará los indicadores sanitarios que deberán ser considerados en el caso de la letra b) y la ponderación de las variables indicadas en las letras a) y b). Asimismo, establecerá en los casos que sea procedente, los porcentajes en que la siembra de la agrupación correspondiente al último periodo productivo, deberá ser disminuida para el próximo período productivo, conforme al desempeño sanitario obtenido por la agrupación.
 
 #### Artículo 61
 
-DEROGADO.
+La distribución del porcentaje de reducción de siembra entre los centros de cultivo integrantes de la agrupación será determinada por sus titulares e incorporada en el plan de manejo. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental del centro de cultivo respectivo.
+
+No podrá incorporarse al plan de manejo un porcentaje de reducción de siembra menor al propuesto por la Subsecretaría que tenga el efecto de reemplazar la medida de densidad de cultivo de la agrupación.
+
+En todo caso, todos los centros de cultivo integrantes de la agrupación quedarán sometidos a la densidad de cultivo para centros de engorda establecida por resolución vigente del Servicio.
 
 #### Artículo 62
 
-DEROGADO.
+La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de la agrupación de concesiones conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma.
+
+La circunstancia de incorporar el porcentaje de reducción de siembra propuesto por la Subsecretaría en el plan de manejo vigente o la presentación de un plan que consista en dicha medida, en reemplazo de la densidad de cultivo por agrupación, deberá ser informada a la Subsecretaría en el plazo establecido para remitir las observaciones a la propuesta de densidad.
+
+La modificación o presentación del plan de manejo que incorpore la medida de porcentaje de reducción de siembra y su distribución para el próximo período productivo entre los centros de cultivo integrantes de la agrupación, deberá efectuarse ante el Servicio en el plazo de cinco días hábiles contados desde la comunicación a la Subsecretaría a que se refiere el artículo anterior. El Servicio tendrá el plazo de siete días hábiles para aprobar o rechazar la medida propuesta.
 
 #### Artículo 63
 
-DEROGADO.
+El Servicio comunicará a la Subsecretaría la circunstancia de no haber aprobado el porcentaje de reducción de siembra incorporada al plan de manejo por ser inferior al propuesto, no contar con el quórum exigido, haber sido presentado el plan de manejo fuera de plazo o por el incumplimiento de cualquier otro requisito.
+
+De verificarse la condición indicada en el inciso anterior, la Subsecretaría deberá dictar la resolución de densidad de cultivo de la agrupación, quedando los titulares de los centros integrantes de la agrupación sometidos a ella, sin perjuicio de la reclamación que sea procedente de conformidad con el artículo 86 bis de la ley.
 
 #### Artículo 64
 
-DEROGADO.
+En el evento que el plan de manejo que incorpore la medida de porcentaje de reducción de siembra o su modificación para tal efecto, sea aprobado por el Servicio, se comunicará a la Subsecretaría, quedando los titulares de los centros integrantes de la agrupación sometidos a ella.
+
+## Título XV
+
+De los expertos
 
 #### Artículo 64
 
@@ -2048,7 +2068,7 @@ Dicho panel de expertos deberá emitir su pronunciamiento en el plazo de un mes 
 
 C. Los expertos deberán contar con un título profesional vinculado a las ciencias del mar, medicina veterinaria, ciencias económicas u otra carrera de ciencias con especialización en materias ambientales, recursos naturales o administración y acreditar experiencia profesional de al menos 10 años. El nombramiento de los expertos durará un año, pudiendo renovarse por una sola vez.
 
-## Título XVII
+## Título XVI
 
 De los laboratorios de diagnóstico
 
@@ -2138,7 +2158,7 @@ Si en base a exámenes clínicos realizados en terreno o a los resultados de an�
 
 Derogado
 
-## Título XVIII
+## Título XVII
 
 DE LA INFORMACIÓN
 
@@ -2188,7 +2208,7 @@ D. Los centros de cultivo y demás establecimientos que realicen actividades som
 
 El titular de cada establecimiento deberá asegurar la capacitación de las personas encargadas de aplicar los manuales de operación al menos una vez al año y dentro del proceso de inducción de nuevo personal encargado de aplicarlos.
 
-## Título XIX
+## Título XVIII
 
 Disposiciones Varias
 
