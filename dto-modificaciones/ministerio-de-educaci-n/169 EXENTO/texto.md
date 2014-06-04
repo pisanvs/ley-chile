@@ -40,14 +40,6 @@ Los programas de estudio de Biología, Física y Química vigentes a la fecha de
 
 Los planes de estudios deberán ser implementados a partir del año escolar 2017 para el 1º año de educación media, y a partir del año escolar 2018 para el 2º año de educación media.
 
-> **Nota.** El numeral primero del artículo primero del Decreto 2398 Exento, Educación, publicado el 04.01.2016, modifica la presente norma en el sentido de reemplazar en las tablas, numeral 1 y numeral 2, Educación Tecnológica, por Tecnología y Artes Visuales o Artes Musicales por Artes Visuales o Música.
-
-> **Nota.** NOTA 2 El Artículo 4 del Decreto 628 Exento, Educación, publicado el 25.06.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas a los programas de estudio para 7° y 8° año de Educación Básica.
-
-> **Nota.** NOTA 4 El Artículo 5 del Decreto 1264 Exento, Educación, publicado el 10.11.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas al plan de estudio para 1º y 2º año de Educación Media.
-
-> **Nota.** NOTA 5 El Artículo 2 del Decreto 1265 Exento, Educación, publicado el 10.11.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas al plan de estudio para 7º y 8º año de Educación Básica.
-
 #### Artículo segundo
 
 Modifícase el decreto exento Nº 1.363, de 2011, del Ministerio de Educación, en el siguiente sentido:
@@ -87,10 +79,6 @@ Declárase "oficial" la versión de los programas de estudio correspondientes a 
 Los planes de estudios que se indican en el presente decreto comenzarán a regir a partir del año escolar 2016.
 
 Los programas de estudio vigentes a la fecha de publicación de este decreto seguirán vigentes, con excepción de las asignaturas mencionadas en el artículo 3º, los cuales comenzarán a regir a partir del año escolar 2016.
-
-> **Nota.** NOTA 1 El numeral segundo del artículo primero del Decreto 2398 Exento, Educación, publicado el 04.01.2016, modifica la presente norma en el sentido de reemplazar en la tabla del numeral N° 1, Educación Tecnológica, por Tecnología, Educación Artística por Educación Artística (Artes Visuales o Música) y en el numeral N° 2, Educación Tecnológica, por Tecnología, Educación Artística por Educación Artística (Artes Visuales o Música), y sección sub total tiempo mínimo anual el guarismo "1.178" por "1.216".
-
-> **Nota.** NOTA 3 El Artículo 4 del Decreto 628 Exento, Educación, publicado el 25.06.2016, modifica la presente norma en el sentido de derogar las disposiciones relativas a los programas de estudio para 7° y 8° año de Educación Básica.
 
 Anótese y publíquese.- Por orden del Presidente de la República, Carolina Schmidt Zaldívar, Ministra de Educación.
 

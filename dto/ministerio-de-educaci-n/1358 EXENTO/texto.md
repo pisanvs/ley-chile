@@ -50,9 +50,7 @@ Declárase "oficial" la edición del Ministerio de Educación de los programas d
 
 #### Artículo 5º
 
-Los planes de estudios deberán ser implementados a partir del año escolar 2016 para el 1º año de educación media, y a partir del año escolar 2017 para el 2º año de educación media.
-
-Los programas de estudio que comenzaron a regir a partir del año escolar 2011 para 1º año de educación media, y a partir del año escolar 2012 para 2º año de educación media, seguirán vigentes, con excepción de las asignaturas mencionadas en el artículo 3º.
+Los planes de estudios deberán ser implementados a partir del año escolar 2017 para el 1º año de educación media, y a partir del año escolar 2018 para el 2º año de educación media.
 
 #### Artículo 6º
 

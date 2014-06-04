@@ -40,7 +40,7 @@ Apruébanse los programas de estudio de los siguientes sectores de aprendizaje d
 
 - Historia y Geografía y Ciencias Sociales.
 
-Deróganse a partir del año 2015, las disposiciones relativas a programas de estudio en los sectores de Lenguaje y Comunicación, Matemática e Idioma Extranjero Inglés de 7º y 8º año de educación básica, contenidas en el decreto exento Nº 1.363, de 2011, del Ministerio de Educación, y las disposiciones referidas al sector Educación Física en los decretos exentos Nº 481, de 2000 y Nº 92, de 2002, ambos del Ministerio de Educación.
+Deróganse a partir del año 2016, las disposiciones relativas a programas de estudio en los sectores de Lenguaje y Comunicación, Matemática e Idioma Extranjero Inglés de 7º y 8º año de educación básica, contenidas en el decreto exento Nº 1.363, de 2011, del Ministerio de Educación, y las disposiciones referidas al sector Educación Física en los decretos exentos Nº 481, de 2000 y Nº 92, de 2002, ambos del Ministerio de Educación.
 
 Apruébanse los programas de estudio de las siguientes asignaturas del plan de estudio de 7º y 8º año de educación básica:
 
@@ -60,9 +60,9 @@ Declárase "oficial" la edición del Ministerio de Educación de los programas d
 
 #### Artículo 5º
 
-Los planes de estudios que se indican en el presente decreto comenzarán a regir a partir del año escolar 2015.
+Los planes de estudios que se indican en el presente decreto comenzarán a regir a partir del año escolar 2016.
 
-Los programas de estudio vigentes a la fecha de publicación de este decreto seguirán vigentes, con excepción de las asignaturas mencionadas en el artículo 3º, los cuales comenzarán a regir a partir del año escolar 2015.
+Los programas de estudio vigentes a la fecha de publicación de este decreto seguirán vigentes, con excepción de las asignaturas mencionadas en el artículo 3º, los cuales comenzarán a regir a partir del año escolar 2016.
 
 #### Artículo 6º
 
