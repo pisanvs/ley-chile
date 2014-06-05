@@ -1,0 +1,7 @@
+ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY Nº 20.732, DE 2014
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº53 del 30 de mayo de 2014, que establece la forma y plazo de aceptación de propuesta de rebaja del impuesto territorial efectuada por el SII y de presentación de antecedentes para solicitar el beneficio establecido en la ley Nº 20.732, de 2014.
+
+. Para efectos de lo establecido en la ley Nº 20.732, el Servicio de Impuestos Internos pondrá en conocimiento de los adultos mayores vulnerables económicamente, una propuesta de rebaja, la cual deberá ser aceptada por el contribuyente en las oficinas de Avaluaciones del Servicio de Impuestos Internos o a través del sitio web de este Servicio, www.sii.cl, hasta el 15 de julio de cada año, con el fin de hacerla efectiva en el Rol Semestral de Contribuciones respectivo. Aquellos contribuyentes que no reciban esta propuesta, podrán solicitar dicho beneficio a través del formulario 2118 (F2118), adjuntando los antecedentes necesarios para su aplicación.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo, de 2014.
