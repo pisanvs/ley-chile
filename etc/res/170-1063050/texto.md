@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIES EN CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 170, del 21 de enero de 2014, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Productos del Mar Ventisqueros S.A., sociedad chilena, RUT 96.545.040-8, con domicilio en Camino a Chinquihue, Km. 14, Bahía Chincui, Puerto Montt, para incorporar en el Sector II de la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 597, del 17 de septiembre de 1992, modificada por resolución 928, de 3 de abril de 1996, cuya transferencia fue autorizada por resolución 2.048, de 2 de noviembre de 1999 y modificada por resolución 5, de 8 de enero de 2009, todos del Ministerio de Defensa Nacional, Subsecretaría de Marina, el cultivo del grupo de especies salmónidos y aumentar la producción, requerida mediante solicitud 211101096, de 26 de septiembre de 2011, ubicada en Canal Cholgo, Rada Potreros de Cholgo, Isla Llancahue, comuna de Hualaihué, provincia de Palena, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 1.612, de 10 de noviembre de 1995, modificado por resolución exenta 3.304, de 29 de septiembre de 2005, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca y modificado por resolución exenta 1.863, de 5 de julio de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca.
+
+Santiago, 12 de mayo de 2014.- Por orden del Subsecretario para las Fuerzas Armadas.- Camilo Mirosevic Verdugo, Abogado, Jefe División Jurídica.
