@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 1.115, de 7 de marzo de 2014, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Productos del Mar Ventisqueros S.A., sociedad chilena, RUT 96.545.040-8, con domicilio en camino Chinquihue, kilómetro 14, Bahía Chincui, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, requerida mediante solicitud 210101132, del 12 de noviembre de 2010, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.229, del 25 de junio de 1998, cuya transferencia fue autorizada por resolución 2.048 del 31 de octubre de 2001, modificada por resolución 1.600, del 10 de diciembre de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, ubicada en Golfo de Ancud, Sector Oeste de Isla Malomacún, comuna de Hualaihué, provincia de Palena, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 187, del 31 de enero de 1997, modificada por resolución exenta 2.333, de 26 de julio de 2005, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 1.878, del 10 de julio de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, modificada por resolución exenta 2.420, de 29 de agosto de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 12 de mayo de 2014.- Por orden del Subsecretario para las Fuerzas Armadas, Camilo Mirosevic Verdugo, Abogado, Jefe División Jurídica.
