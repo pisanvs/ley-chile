@@ -16,9 +16,9 @@ Ley: al Decreto Ley Nº 3.500, de 1980.
 
 Comisión: a la Comisión Clasificadora de Riesgo.
 
-Fondos: a los Fondos de Inversión y Fondos Mutuos, contemplados en la Ley Nº 18.815 y el Decreto Ley Nº 1.328, de 1976, respectivamente.
+Fondos: a los Fondos de Inversión y Fondos Mutuos, regulados por el Capítulo III de la Ley Nº 20.712.
 
-Administradoras: a las Sociedades Administradoras de Fondos.
+Administradoras: a las Sociedades Administradoras de Fondos, contempladas en el Capítulo II de la Ley Nº 20.712.
 
 AFP: Administradoras de Fondos de Pensiones. Clasificadoras: Entidades clasificadoras de riesgo a que se refiere el artículo 71 de la Ley Nº 18.045.
 
@@ -46,13 +46,13 @@ El Reglamento debe establecer que los pasivos más los gravámenes y prohibicion
 
 #### Artículo 5
 
-El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo, en una entidad o grupo empresarial y sus personas relacionadas, no podrá exceder del 25% de sus activos. No obstante lo anterior, cuando el Reglamento de un Fondo Mutuo establezca una política de inversión que condicione las inversiones del Fondo o la rentabilidad del mismo al comportamiento de un índice, el Fondo podrá establecer en su Reglamento que la inversión máxima en valores emitidos o garantizados por entidades pertenecientes a un mismo grupo empresarial no superará un tercio de sus activos.
+El Reglamento deberá establecer que la inversión máxima de un Fondo Mutuo y un Fondo de Inversión rescatable, en una entidad o grupo empresarial y sus personas relacionadas, no podrá exceder del 30% de sus activos.
 
-Para el caso de un Fondo de Inversión, deberá establecer que la inversión máxima, medida en forma directa e indirecta, en una entidad, grupo empresarial y sus personas relacionadas, bienes raíces, conjunto o complejo inmobiliario u otra clasificación que la Comisión estime adecuada en consideración de las características del Fondo, no podrá exceder del 45% de sus activos.
+Para el caso de un Fondo de Inversión no rescatable, deberá establecer que la inversión máxima, medida en forma directa e indirecta, en una entidad, grupo empresarial y sus personas relacionadas, bienes raíces, conjunto o complejo inmobiliario u otra clasificación que la Comisión estime adecuada en consideración de las características del Fondo, no podrá exceder del 45% de sus activos.
 
-Sin perjuicio de lo anterior, en casos excepcionales y considerando las características del Fondo, la Comisión podrá aceptar que en el Reglamento se permita exceder este límite sólo cuando se trate de inversiones directas en sociedades controladas exclusivamente por el mismo Fondo, y que éstas a su vez cumplan con el mencionado límite de diversificación a nivel de sus activos subyacentes.
+Sin perjuicio de lo anterior, en casos excepcionales y considerando las características del Fondo de Inversión no rescatable, la Comisión podrá aceptar que en el Reglamento se permita exceder este límite sólo cuando se trate de inversiones directas en sociedades controladas exclusivamente por el mismo Fondo, y que éstas a su vez cumplan con el mencionado límite de diversificación a nivel de sus activos subyacentes.
 
-Adicionalmente, para Fondos de Inversión y Fondos Mutuos dirigidos a inversionistas calificados, en el caso que se trate de inversiones en instrumentos emitidos o garantizados por el Estado de Chile o por un Estado extranjero hasta su total extinción, se podrá exceder el límite señalado en los incisos primero y segundo de este artículo, siempre que la clasificación de la deuda soberana de mayor riesgo asignada de este último, por al menos dos de las entidades clasificadoras internacionales reconocidas, sea igual o superior a Categoría BBB, para los instrumentos de largo plazo emitidos por el Estado extranjero o su banco central, considerando lo establecido en los artículos 2 y 3 del Acuerdo Nº 32 de esta Comisión.
+Adicionalmente, en el caso que se trate de inversiones en instrumentos emitidos o garantizados por el Estado de Chile o por un Estado extranjero hasta su total extinción, se podrá exceder el límite señalado en los incisos primero y segundo de este artículo, siempre que la clasificación de la deuda soberana de mayor riesgo asignada de este último, por al menos dos de las entidades clasificadoras internacionales reconocidas, sea igual o superior a Categoría BBB, para los instrumentos de largo plazo emitidos por el Estado extranjero o su banco central, considerando lo establecido en los artículos 2 y 3 del Acuerdo Nº 32 de esta Comisión.
 
 En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento al límite antes indicado.
 
