@@ -6,6 +6,6 @@ Mediante resolución 3.750, del 4 de octubre de 2013, del Ministerio de Defensa 
 
 2.- Esta concesión de acuicultura tiene por objeto único la realización de actividades de cultivo en el área concedida y deberá amparar la instalación y operación del cultivo del grupo de especies salmónidos.
 
-3.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 2.261, del 24 de octubre de 2001, modificada por resolución exenta 2.393, del 27 de julio de 2005, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 3.422, del 21 de diciembre de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+3.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 2.261, del 24 de octubre de 2001, modificada por resolución exenta 2.393, del 27 de julio de 2005, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por Resolución exenta Nº 3.433, del 21 de diciembre de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
 
 Santiago, 14 de noviembre de 2013.- Por orden del Subsecretario para las Fuerzas Armadas, Ricardo Maldonado Torres, Jefe División Jurídica Subrogante.
