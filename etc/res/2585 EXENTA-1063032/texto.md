@@ -1,0 +1,5 @@
+DELEGA EN JEFE DEL DEPARTAMENTO JURÍDICO FACULTADES QUE INDICA
+
+Mediante resolución exenta Nº 2.585, de fecha 22 de mayo de 2014, la Directora Regional de la XVI Dirección Regional Metropolitana Santiago Sur, delegó en el Jefe del Departamento Jurídico de dicha Dirección Regional la facultad de emitir y notificar los giros correspondientes a las sanciones por infracciones tributarias determinadas de conformidad al procedimiento establecido en el Libro III, título IV, párrafo 1º, del Código Tributario, en sentencias firmes y ejecutoriadas dictadas por los Tribunales Tributarios y Aduaneros, por las Cortes de Apelaciones y por la Corte Suprema, según proceda, a los contribuyentes que tengan su domicilio en sus respectivos territorios jurisdiccionales de las señaladas Direcciones Regionales.
+
+El texto íntegro de este documento, está publicado en "www.sii.cl".
