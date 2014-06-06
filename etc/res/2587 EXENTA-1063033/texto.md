@@ -1,0 +1,5 @@
+DELEGA FACULTAD DE EMITIR Y NOTIFICAR GIROS CORRESPONDIENTES A LAS SANCIONES QUE INDICA
+
+Mediante resolución exenta Nº 2.587, de fecha 22 de mayo de 2014, la Directora Regional de la XVI Dirección Regional Metropolitana Santiago Sur, delegó en el Jefe del Departamento de Procedimientos Administrativos Tributarios y Jefes de Unidad de San Bernardo y de Buin la facultad de emitir y notificar los giros correspondientes a las sanciones por infracciones tributarias reclamadas, determinadas de acuerdo al procedimiento establecido en el Libro III, Título IV, párrafo 2º, del Código Tributario, en sentencias firmes y ejecutoriadas dictadas por los Tribunales Tributarios y Aduaneros y por las Cortes de Apelaciones, según proceda, a los contribuyentes que tengan su domicilio en sus respectivos territorios jurisdiccionales. Los Jefes de Unidades ejercerán la facultad dentro de sus territorios jurisdiccionales y los Jefes de Departamento de Procedimientos Administrativos Tributarios, respecto del territorio no cubierto por las Unidades.
+
+El texto íntegro de este documento está publicado en "www.sii.cl".
