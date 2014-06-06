@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase a concurso en condiciones especiales, en la Región Metropolitana, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva sin proyecto asociado, en la tipología de Construcción en Sitio Propio.
 
-2. Los recursos destinados para la selección de los grupos postulantes a este llamado ascienden a un monto de hasta 271.700 Unidades de Fomento.
+2. Los recursos destinados para la selección de los grupos postulantes a este llamado ascienden a un monto de hasta 284.900 Unidades de Fomento.
 
 3. Establécese que los grupos postulantes a este llamado deberán pertenecer a la Región Metropolitana y deberán ser ingresados al Sistema Informático Umbr@I, debiendo quedar en estado Hábil al día 15 de agosto de 2013.
 
