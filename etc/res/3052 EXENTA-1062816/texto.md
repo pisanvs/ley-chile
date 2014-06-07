@@ -30,7 +30,7 @@ b) Declaración de núcleo familiar según formato provisto por el Serviu. No se
 
 c) Formulario de elección de modalidad de aplicación de subsidio, según formato provisto por el Serviu.
 
-d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio con pago de subsidio posterior, Construcción en Sitio Propio con pago por avance de obras o Densificación Predial en Condominios, deberá acreditar que el sitio está emplazado en una zona segura o mitigable, lo que deberá ser acreditado por la Dirección de Obras Municipales y la disponibilidad de terreno mediante alguno de los siguientes documentos:
+d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio o Densificación Predial con pago de subsidio posterior, Construcción en Sitio Propio con pago por avance de obras o Densificación Predial en Condominios, deberá acreditar que el sitio está emplazado en una zona segura o mitigable, lo que deberá ser acreditado por la Dirección de Obras Municipales y la disponibilidad de terreno mediante alguno de los siguientes documentos:
 
 i. Copia de la inscripción de dominio con certificado de vigencia a nombre del damnificado o de su cónyuge, o de ambos cónyuges en comunidad o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
@@ -42,7 +42,7 @@ iv. Tratándose de inmuebles pertenecientes a una sucesión o comunidad heredita
 
 v. En caso que el inmueble poseído por el damnificado o por su cónyuge se encuentre sometido al procedimiento de regularización establecido en el DL Nº 2.695, de 1979, se podrá inscribir acreditando disponibilidad de terreno mediante copia autorizada de la resolución que acepta la solicitud, a que se refiere el artículo 11º de dicha norma y copia del plano respectivo que acompañe a ésta. Obtenido el certificado de subsidio, y para los efectos de suscribir contrato de construcción de la vivienda, se deberá contar con la resolución señalada en el artículo 12º del DL Nº 2.695, de 1979. El Serviu podrá proceder al pago del certificado de subsidio, contra acreditación de que se ha inscrito el inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo, en conformidad a lo dispuesto en el artículo 14º del DL Nº 2.695, de 1979, sin perjuicio del cumplimiento de los restantes requisitos exigidos para dicho pago en la presente resolución.
 
-vi. Para la modalidad de Densificación Predial en Condominios, los damnificados no propietarios deberán acreditar disponibilidad de sitio mediante declaración jurada notarial del propietario del inmueble en que autorice al interesado para la construcción de la vivienda y conformación de copropiedad.
+vi. Para las modalidades de Densificación Predial en Condominios o Densificación Predial con pago posterior, los damnificados no propietarios deberán acreditar disponibilidad de sitio mediante declaración jurada notarial del propietario del inmueble en que autorice al interesado para la construcción de la vivienda y conformación de copropiedad.
 
 vii. Tratándose de damnificados que tengan derechos en comunidad sobre un terreno o si los tiene su cónyuge o conviviente u otro miembro del núcleo familiar declarado, deberá presentar certificado de dominio vigente o copia de la escritura en que consten dichos derechos o el instrumento que acredite tal condición, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de inscripción.
 
@@ -54,17 +54,17 @@ b) Acreditación de Ficha de Protección Social.
 
 c) Acreditación de ingreso familiar bajo los máximos permitidos.
 
-d) Haber obtenido algún beneficio anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional.
+d) Haber obtenido algún beneficio anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o ser propietario de otros inmuebles; o si lo fuere su cónyuge.
 
 e) Del impedimento a que se refiere el artículo 15, del DS Nº 49 (V. y U.), de 2011, para damnificados unipersonales, que no acrediten núcleo familiar, y que sean propietarios de la vivienda siniestrada.
 
 f) Del requisito de acreditar disponibilidad de sitio libre de hipotecas y gravámenes.
 
-4. No podrán recibir el subsidio habitacional las personas que aun cuando tengan la calidad de damnificados, sean propietarios, ellos o su cónyuge, de otro inmueble de carácter habitacional, salvo que éste haya resultado igualmente destruido a causa de los incendios a que se refiere el considerando de esta resolución. Tampoco podrán recibir el subsidio habitacional las personas o sus cónyuges que cuenten con un certificado de subsidio habitacional vigente.
-
-Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio los damnificados que tengan algún certificado de subsidio vigente a la fecha, los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.), de 1995, o si lo estuviere su cónyuge.
+4. No podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha, los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.), de 1995, o si lo estuviere su cónyuge.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
+
+> **Nota.** El Numeral 1º de la Resolución 3268 Exenta, Vivienda, publicado el 07.06.2014, modifica la presente norma en el sentido de introducir cambios en la letra b) de la tabla inserta, de la manera que la propia norma indica.
 
 ### Párrafo 2º — Modalidad de Adquisición de Viviendas nuevas o usadas.
 
@@ -78,7 +78,7 @@ En el caso de una vivienda usada, se deberá presentar la tasación comercial de
 
 Si el damnificado tiene derechos sobre un sitio, para inscribirse en esta modalidad deberá haber iniciado los trámites de cesión del terreno al Serviu, lo que deberá ser acreditado por éste.
 
-7. Los beneficiarios en las modalidades de Adquisición de Vivienda nueva o usada podrán aplicar el subsidio a la adquisición o construcción de una vivienda económica de hasta 2.000 Unidades de Fomento, a través del DS Nº 1 (V. y U.), de 2011. La vivienda se financiará con el subsidio, más aportes propios y/o crédito hipotecario de ser el caso.
+7. Los beneficiarios en las modalidades de Adquisición de Vivienda nueva o usada podrán aplicar el subsidio a la adquisición de una vivienda económica de hasta 2.000 Unidades de Fomento, a través del DS Nº 1 (V. y U.), de 2011. La vivienda se financiará con el subsidio, más aportes propios y/o crédito hipotecario de ser el caso.
 
 A quienes opten por las modalidades señaladas en el inciso anterior, no les será exigible los requisitos señalados en las letras c), d) y m) del artículo 16 del DS Nº 1 (V. y U.), de 2011.
 
@@ -96,7 +96,9 @@ Conforme a los gastos que rinda, el beneficiario obtendrá un subsidio adicional
 
 9. El Certificado de Subsidio Habitacional tendrá una vigencia de seis meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Valparaíso.
 
-10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
+10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículo 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
+
+En caso que el beneficiario hubiese tenido derechos sobre un sitio y haya iniciado los trámites de cesión del terreno al Serviu, conforme a lo señalado en el inciso quinto del Resuelvo 6. de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33 del DS Nº 1 (V. y U.), de 2011.
 
 En caso que el beneficiario o su cónyuge tengan derechos en comunidad sobre una vivienda, para proceder al pago del subsidio se deberá acreditar que han cedido dichos derechos, mediante la correspondiente escritura pública inscrita, salvo que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en que el beneficiario o su cónyuge sean comuneros.
 
@@ -104,13 +106,13 @@ Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del pre
 
 El precio de la compraventa será el señalado en la respectiva escritura de compraventa.
 
-### Párrafo 3º — Modalidad de Construcción en Sitio Propio con pago posterior.
+### Párrafo 3º — Modalidades de Construcción el Sitio Propio o Densificación Predial con pago posterior.
 
-11. El subsidio que se aplique en la modalidad de Construcción en Sitio Propio con pago posterior, se regirá en lo que fuere procedente por el DS Nº 1 (V. y U.), de 2011.
+11. El subsidio que se aplique en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, se regirá en lo que fuere procedente por el DS Nº 1 (V. y U.), de 2011.
 
-Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio siniestrado sobre el cual el interesado tiene derechos y el respectivo plano de arquitectura.
+Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio siniestrado sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura.
 
-12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
+12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
 
 El beneficiario obtendrá además los siguientes subsidios adicionales:
 
@@ -122,17 +124,19 @@ c) Conforme a los gastos que rinda al momento de presentar a cobro el certificad
 
 d) Si el beneficiario o uno o más integrantes del núcleo familiar declarado estuvieren inscritos en el Registro Nacional de la Discapacidad, al monto de subsidio señalado en el inciso primero de este número se adicionarán 20 Unidades de Fomento, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presenten tal condición de discapacidad en el núcleo familiar del postulante.
 
+e) En caso de Densificación Predial, se otorgará un subsidio adicional de hasta 150 Unidades de Fomento en caso que la superficie construida alcance 55 metros cuadrados, y el programa de recintos arquitectónicos incluya a lo menos 5 recintos conformados: un dormitorio con cabida para una cama de dos plazas, dos dormitorios con cabida para una cama de una plaza cada uno, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos y ducha.
+
 13. El Certificado de Subsidio Habitacional tendrá una vigencia de doce meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Valparaíso.
 
 14. Para el pago del Certificado de Subsidio Habitacional se estará a lo dispuesto en los artículos 32 y letras a) e i) del artículo 34 del DS Nº 1 (V. y U,), 2011.
 
-Al solicitar el pago del subsidio, el beneficiario deberá presentar declaración jurada en que se comprometa a no enajenar la vivienda en un plazo de cinco años, contados a partir de la fecha de la recepción municipal.
+Inciso Eliminado.
 
 En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se exigirá que los ceda para el pago del subsidio.
 
 ### Párrafo 4º — Modalidad de ejecución mediante Construcción en Sitio Propio con pago por avance de obras.
 
-15. La presente modalidad corresponderá a proyectos de reposición de la vivienda del propietario damnificado, en el sitio de su propiedad, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
+15. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
 16. En esta alternativa, el valor de la vivienda a construir corresponderá al valor de los subsidios obtenidos más el valor de aportes adicionales en caso que corresponda. No se considerará la opción a crédito hipotecario.
 
@@ -180,15 +184,19 @@ g) Contrato de Construcción con empresa constructora, o Declaración de Autocon
 
 19. Una vez que el proyecto se encuentre calificado, el Serviu respectivo procederá automáticamente a la adscripción del beneficiario al proyecto, emitiendo el respectivo certificado de adscripción. Las obras de construcción de la vivienda deberán iniciarse a más tardar 45 días corridos después de la adscripción al proyecto por parte del Serviu.
 
-20. Para los efectos de proceder al pago del subsidio de los beneficiarios del presente llamado que apliquen su subsidio mediante esta modalidad, regirán las disposiciones establecidas en el DS Nº 49 (V. y U.), de 2011, salvo por las siguientes:
+No se requerirá que el Serviu dicte la resolución a que se refiere el inciso final del artículo 61, ni que el beneficiario suscriba la Declaración de Adscripción a que alude el artículo 62, ambos del DS Nº 49 (V. y U.), de 2011.
 
-a) El certificado de recepción municipal exigido en la letra h) del artículo 76 del DS Nº 49 (V. y U.), de 2012, será reemplazado por un certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento de las obras deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
+20. El Serviu pagará el subsidio, deducido el monto de los giros efectuados por concepto de anticipos a cuenta del pago de éste, si los hubiere, contra la presentación de los siguientes documentos:
+
+a) Certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento de las obras deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
 
 b) El constructor podrá entregar una Boleta de Garantía única, ya sea por cada beneficiario o por el total de beneficiarios respecto del cual ejecute las obras, para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos cuarto, quinto, sexto y séptimo del artículo 59 del DS Nº 49 (V. y U.), de 2011. Dicha Boleta de Garantía deberá encontrarse vigente al momento de solicitar los anticipos por avance de obra, y será responsabilidad de Serviu informar del vencimiento de ésta a la Empresa Constructora, 15 días antes de perder la vigencia y solicitar la prórroga.
 
+Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº 49 (V. y U.), de 2011.
+
 ### Párrafo 5º — Modalidad de ejecución mediante Densificación Predial en Condominios.
 
-21. La presente modalidad corresponderá a proyectos de reposición de la vivienda del propietario damnificado, en el sitio de su propiedad, y de hasta dos viviendas adicionales en el mismo terreno, conformando una copropiedad de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
+21. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., y de hasta dos viviendas adicionales en el mismo terreno, conformando una copropiedad de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
 22. En esta alternativa, el valor de las viviendas a construir corresponderá al valor de los subsidios obtenidos por cada una de las familias, y no se consideran recursos adicionales ni crédito hipotecario.
 
@@ -240,15 +248,19 @@ g) Contrato de Construcción con empresa constructora.
 
 25. Una vez que el proyecto se encuentre calificado, el Serviu respectivo procederá automáticamente a la adscripción del beneficiario al proyecto, emitiendo el respectivo certificado de adscripción. Las obras de construcción de la vivienda deberán iniciarse a más tardar 45 días corridos después de la adscripción al proyecto por parte del Serviu.
 
-26. Para los efectos de proceder al pago del subsidio de los beneficiarios del presente llamado que apliquen su subsidio mediante esta modalidad, regirán las disposiciones establecidas en el DS Nº 49 (V. y U.), de 2011, salvo por las siguientes:
+No se requerirá que el Serviu dicte la resolución a que se refiere el inciso final del artículo 61, ni que el beneficiario suscriba la Declaración de Adscripción a que alude el artículo 62, ambos del DS Nº 49 (V. y U.), de 2011.
 
-a) El certificado de recepción municipal exigido en la letra h) del artículo 76 del DS Nº 49 (V. y U.), de 2011, será reemplazado por un certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
+26. El Serviu pagará el subsidio, deducido el monto de los giros efectuados por concepto de anticipos a cuenta del pago de éste, si los hubiere, contra la presentación de los siguientes documentos:
+
+a) Certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
 
 b) El constructor podrá entregar una Boleta de Garantía única, ya sea por cada beneficiario o por el total de beneficiarios respecto del cual ejecute las obras, para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos cuarto, quinto, sexto y séptimo del artículo 59 del DS Nº 49 (V. y U.), de 2011. Dicha Boleta de Garantía deberá encontrarse vigente al momento de solicitar los anticipos por avance de obra, y será responsabilidad de Serviu informar del vencimiento de ésta a la Empresa Constructora 15 días antes de perder la vigencia y solicitar la prórroga.
 
+Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº 49 (V. y U.), de 2011.
+
 ### Párrafo 6º — Consideraciones técnicas para proyectos de Construcción en Sitio Propio y Densificación Predial en Condominios.
 
-27. Los proyectos habitacionales que sean presentados al presente llamado en las modalidades de Construcción en Sitio Propio con pago por avance de obras y Densificación Predial en Condominios deberán cumplir con el siguiente estándar técnico:
+27. Los proyectos habitacionales que sean presentados al presente llamado en las modalidades de Construcción en Sitio Propio o Densificación Predial con pago posterior, Construcción en Sitio Propio con pago por avance de obras y Densificación Predial en Condominios, deberán cumplir con el siguiente estándar técnico:
 
 a) Superficie construida de a lo menos 45 metros cuadrados.
 
