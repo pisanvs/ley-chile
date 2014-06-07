@@ -892,6 +892,8 @@ Cuidado del Niño
 
 006 Subsidio de Cesantía
 
+012 Aporte Familiar Permanente de marzo
+
 03 Prestaciones Sociales del
 
 Empleador
@@ -905,6 +907,8 @@ Empleador
 Públicos Ley Nº 19.882
 
 004 Otras indemnizaciones
+
+012 Aporte Familiar Permanente de marzo
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -1674,7 +1678,9 @@ participación que se determine del "Fondo
 
 Común Municipal", en conformidad a lo
 
-dispuesto en el artículo 38 del DL. N° 3.063, de 1979.
+dispuesto en el artículo 38 del DL.
+
+N° 3.063, de 1979.
 
 Comprende las siguientes asignaciones:
 
