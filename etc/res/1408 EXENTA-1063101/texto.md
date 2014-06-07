@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.408, de 27 de mayo de 2014, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.214, de 2014, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2013-05 denominado "Evaluación hidroacústica de los stocks de anchoveta y sardina común entre la V y X Regiones, año 2014", en el sentido de señalar que el plazo del estudio se extenderá hasta el 5 de junio de 2014, inclusive.
+
+Valparaíso, 27 de mayo de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
