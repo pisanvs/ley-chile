@@ -24,9 +24,7 @@ Del Ministerio de Obras Públicas
 
 #### Artículo 1º
 
-El Ministerio de Obras Públicas es la Secretaría de Estado encargada del planeamiento, estudio, proyección, construcción, ampliación, reparación, conservación y explotación de las obras públicas fiscales y el organismo coordinador de los planes de ejecución de las obras que realicen los Servicios que lo constituyen y de las demás entidades a que se refieren los artículos 2º y 3º de esta Ley.
-
-Asimismo, corresponde al Ministerio velar por el adecuado cumplimiento de las funciones referidas en el inciso anterior en lo que respecta a la infraestructura hídrica, de conformidad a las funciones y atribuciones establecidas en los artículos 17 y 23, así como las demás que señale esta ley. La infraestructura hídrica comprende, entre otras, las obras, instalaciones y plantas de desalinización de aguas y embalses; otros tipos de infraestructura que tengan por finalidad la ampliación y sustentabilidad de la disponibilidad de agua para ser destinada al consumo humano, al saneamiento o al riego, lo que incluye el tratamiento, conducción y disposición final de las aguas e infraestructura para mejorar su eficiencia; y los proyectos de gestión hídrica que incorporen soluciones basadas en la naturaleza. Lo anterior, en función del interés público sobre las aguas para el resguardo del consumo humano y el saneamiento, la preservación ecosistémica, la sustentabilidad acuífera y, en general, de todas aquellas acciones destinadas a promover un equilibrio entre eficiencia y seguridad en sus usos productivos.
+El Ministerio de Obras Públicas es la Secretaría de Estado encargada del planeamiento, estudio, proyección, construcción, ampliación,reparación, conservación y explotación de las obras públicas fiscales y el organismo coordinador de los planes de ejecución de las obras que realicen los Servicios que lo constituyen y de las demás entidades a que se refieren los artículos 2º y 3º de esta Ley.
 
 #### Artículo 2º
 
@@ -87,12 +85,6 @@ j) Convenir las indemnizaciones a que tendrá derecho el Fisco o el concesionari
 k) Alterar anualmente, por requerimiento de buen Servicio, el porcentaje a que se refiere el inciso segundo del artículo 9º de la Ley Nº 18.834, respecto del Ministerio y sus Servicios dependientes;
 
 l) Dictar, en general, todas las resoluciones que tiendan al cumplimiento de los objetivos del Ministerio.
-
-m) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y en otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y en las normas establecidas en los artículos 9 y siguientes de dicha ley.
-
-Para la formulación del reglamento señalado en el párrafo primero el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementen técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
-
-Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
 
 #### Artículo 6º
 
@@ -220,7 +212,7 @@ e) Proponer al Ministerio las expropiaciones necesarias para la ejecución de la
 
 f) Con acuerdo del Ministro de Obras Públicas destinar, comisionar y encomendar cometidos al personal de la Dirección General de Obras Públicas y Servicios dependientes, cuando éstos deban llevarse a cabo en distintos Servicios de aquel en que se encuentra nombrado el funcionario;
 
-g) Eliminado.
+g) Someter a la aprobación del Presidente de la República, con la anuencia del Ministro de Obras Públicas e informe del Ministerio de Hacienda, la ejecución, reparación o conservación de obras públicas fiscales por el sistema regulado en el art. 87;
 
 h) Fijar las normas sobre la información estadística que corresponde llevar a la Dirección de Planeamiento de acuerdo con la letra f) del artículo 15º e informar mensualmente al Ministro de Obras Públicas y a la Dirección Presupuestos del Ministerio de Hacienda las necesidades mensuales de fondos para la atención de la Dirección General de Obras Públicas;
 
@@ -230,7 +222,11 @@ j) Ordenar a cualquiera de las Direcciones la ejecución de obras que no sean de
 
 k) Informar al Ministro de Obras Públicas sobre la marcha de los Servicios y sobre las materias que le soliciten;
 
-l) Suprimido.
+l) El estudio, proyección, construcción y conservación de las obras de defensa de terrenos y poblaciones contra crecidas de corrientes de agua y regularización de las riberas y cauces de los ríos, lagunas y esteros, de acuerdo al procedimiento señalado en los artículos 91 al 101 inclusive de la presente ley y la supervigilancia, reglamentación y determinación de zonas prohibidas para la extracción de materiales áridos, cuyo permiso corresponde a las municipalidades, previo informe de la Dirección General de Obras Públicas.
+
+Le corresponderá además, autorizar y vigilar las obras a que se refiere el inciso anterior cuando se efectúen por cuenta exclusiva de otras entidades o de particulares, con el objeto de impedir perjuicios a terceros.
+
+Asimismo, le compete indicar los deslindes de los cauces naturales con los particulares ribereños para los efectos de la dictación por el Ministerio de Bienes Nacionales del decreto supremo correspondiente;
 
 m) Corresponderán igualmente al Director General de Obras Públicas en lo que respecta a la Dirección General a su cargo, todas las atribuciones que la presente ley confiere a los Directores, y
 
@@ -264,35 +260,15 @@ A la Dirección de Arquitectura corresponderá la realización del estudio, cons
 
 #### Artículo 17º
 
-A la Dirección de Obras Hidráulicas corresponderá:
+A la Dirección de Riego corresponderá:
 
 a) El estudio, proyección, construcción, reparación y explotación de obras de riego que se realicen con fondos fiscales, de acuerdo a las disposiciones del DFL. Nº 1.123, de Justicia, de 1981.
 
 b) Las obras de saneamiento y recuperación de terrenos que se ejecuten con fondos fiscales;
 
-c) El estudio, proyección, construcción y reparación del abovedamiento de los canales de regadío que corren por los sectores urbanos de las poblaciones, siempre que dichos canales hayan estado en uso con anterioridad a la fecha en que la Zona por donde atraviesan haya sido declarada como comprendida dentro del radio urbano y que dichas obras se construyan con fondos fiscales o aportes de las respectivas Municipalidades. Estos aportes se convendrán entre el Ministerio de Obras Públicas y las Municipalidades.
+c) El estudio, proyección, construcción y reparación del abovedamiento de los canales de regadío que corren por los sectores urbanos de las poblaciones, siempre que dichos canales hayan estado en uso con anterioridad a la fecha en que la Zona por donde atraviesan haya sido declarada como comprendida dentro del radio urbano y que dichas obras se construyan con fondos fiscales o aportes de las respectivas Municipalidades. Estos aportes se convendrán entre el Ministerio de Obras Públicas y las Municipalidades, y
 
 d) Proponer la condonación total o parcial de las deudas por saneamiento o recuperación de terrenos de indígenas, la que deberá concederse por decreto supremo fundado.
-
-e) El estudio, diseño, construcción, ejecución, reparación, modificación, ampliación, conservación y operación de obras, instalaciones y plantas de desalinización de aguas y embalses; otro tipo de infraestructura hídrica que tenga por finalidad la ampliación y sustentabilidad de la disponibilidad de agua; y proyectos de gestión hídrica que incorporen soluciones basadas en la naturaleza, cuyo propósito sea la producción u obtención de recursos hídricos que se destinen en forma prioritaria para el cumplimiento de la función de subsistencia, que incluye el uso para el consumo humano, el saneamiento y el riego. Lo anterior, teniendo en consideración la función de preservación ecosistémica de las aguas.
-
-Para dar cumplimiento al derecho humano de acceso al agua potable y al saneamiento, la Dirección de Obras Hidráulicas podrá ofrecer las aguas resultantes y su producción a prestadores de servicios sanitarios.
-
-Complementariamente a la provisión de agua para el consumo humano, el saneamiento y el riego, las obras, instalaciones y plantas para la desalinización de agua, así como cualquier otro tipo de infraestructura que tenga por finalidad la producción u obtención de recursos hídricos, podrán, en forma residual, destinarse a otros fines de carácter multipropósito.
-
-#### Artículo 17 bis
-
-A la Dirección de Obras Hidráulicas también le corresponderá:
-
-a) Planificar, estudiar, proyectar, construir, reparar y conservar las obras fluviales para la defensa de terrenos y poblaciones contra crecidas de corrientes de agua, control aluvional y regularización de las riberas y cauces de los ríos, afluentes, subafluentes, quebradas, lagunas, lagos y esteros, de acuerdo al procedimiento señalado en los artículos 91 a 101 de la presente ley.
-
-b) Autorizar y vigilar las obras a que se refiere el literal anterior, cuando se efectúen por cuenta exclusiva de otras entidades o de particulares, con el objeto de impedir perjuicios a terceros.
-
-c) Informar la factibilidad y otorgar la habilitación técnica para la correspondiente autorización municipal de extracción de áridos en cauce natural no navegable por buques de más de cien toneladas y zona de regulación anexa al cauce. Para lo anterior, deberá elaborar el respectivo informe técnico fundado.
-
-d) Determinar zonas prohibidas para la extracción de áridos y su alzamiento, la administración de un registro público y todos los demás actos, informes y resoluciones que establezcan las leyes para este objeto.
-
-e) Indicar los deslindes de los cauces naturales con los particulares ribereños para los efectos de la dictación, por el Ministerio de Bienes Nacionales, del decreto supremo correspondiente. Se exceptúan las defensas fluviales de la infraestructura vial, las que serán de cargo de la Dirección de Vialidad, y las defensas fluviales en las zonas de desembocaduras afectas a mareas de cauces naturales, lagos y lagunas navegables, las que serán de cargo de la Dirección General del Territorio Marítimo y de Marina Mercante y de la Dirección de Obras Portuarias, respectivamente.
 
 #### Artículo 18º
 
@@ -302,11 +278,7 @@ Para dar cumplimiento a las acciones señaladas en el inciso precedente, la Dire
 
 Sin perjuicio de las facultades de la Dirección, ésta se coordinará con las municipalidades respectivas y los propietarios colindantes, para los efectos del cuidado y mantención de la faja y su vegetación.
 
-No obstante lo establecido en este artículo esta Dirección tendrá a su cargo la construcción de puentes urbanos, cuando se lo encomienden las respectivas Municipalidades o Gobiernos
-
-Regionales, conviniendo con éstas
-
-el financiamiento correspondiente.
+No obstante lo establecido en este artículo esta Dirección tendrá a su cargo la construcción de puentes urbanos, cuando se lo encomienden las respectivas Municipalidades, conviniendo con éstas el financiamiento correspondiente.
 
 Le corresponderá también la aprobación y fiscalización del estudio, proyección y construcción de puentes y badenes urbanos en los cauces naturales de corrientes de uso público.
 
@@ -454,73 +426,9 @@ l) Velar por buen uso y conservación de los bienes a cargo de sus Servicios;
 
 ll) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de Planeamiento, en su caso, los antecedentes relacionados con el personal y con las actividades del Servicio en la forma en que le sean solicitados;
 
-m) Celebrar los actos y contratos y adoptar las resoluciones que sean necesarias para el cumplimiento de los fines de su Servicio, de acuerdo con sus atribuciones y delegar éstas en los funcionarios de su dependencia con la aprobación del Director General;
+m) Celebrar los actos y contratos y adoptar las resoluciones que sean necesarias para el cumplimiento de los fines de su Servicio, de acuerdo con sus atribuciones y delegar éstas en los funcionarios de su dependencia con la aprobación del Director General, y
 
-n) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
-
-En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
-
-El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
-
-ñ) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, conforme a lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y en la demás normativa aplicable.
-
-o) Atender los demás asuntos de su incumbencia que les encomiende el Director General.
-
-#### Artículo 22 bis
-
-Créase la Dirección General de Concesiones de Obras Públicas, dependiente del Ministerio de Obras Públicas, que tendrá como objeto la ejecución, reparación, mantención, conservación y explotación de obras públicas fiscales conforme al artículo 87, y la provisión de equipamiento o la prestación de servicios asociados conforme a lo establecido en el decreto supremo N° 900, de 1996, del Ministerio de Obras Públicas, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 164, de 1991, del Ministerio de Obras Públicas, Ley de Concesiones de Obras Públicas, como también la fiscalización del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesión, sin perjuicio de las demás funciones que le encomienden las leyes.
-
-La Dirección General de Concesiones de Obras Públicas será un servicio que estará afecto al Sistema de Alta Dirección Pública establecido en el Título VI de la ley N° 19.882.
-
-La Dirección General de Concesiones de Obras Públicas estará a cargo de un Director General, que tendrá la calidad de alto directivo público, de conformidad a las normas contenidas en el Título VI de la ley N° 19.882, y estará bajo la dependencia del Ministro de Obras Públicas.
-
-El personal de la Dirección General de Concesiones de Obras Públicas se regirá por las disposiciones de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y en materia de remuneraciones, por las normas del decreto ley N° 249, de 1974, y su legislación complementaria.
-
-#### Artículo 22 ter
-
-Para el cumplimiento de su objeto, corresponderán al Director General de Concesiones de Obras Públicas las siguientes funciones y atribuciones:
-
-a) Someter a la aprobación del Ministro de Obras Públicas la propuesta de ejecución, reparación, mantención, conservación o explotación de obras públicas fiscales por el sistema regulado en el artículo 87 y en la Ley de Concesiones de Obras Públicas. El Ministro de Obras Públicas someterá a la aprobación del Presidente de la República la propuesta, la que deberá contar con informe del Ministerio de Hacienda.
-
-Para el ejercicio de esta facultad podrá requerir a las demás direcciones operativas del Ministerio de Obras Públicas la asesoría técnica de las obras que sean sometidas al sistema de concesiones de obras públicas.
-
-b) Dirigir y coordinar la Dirección General de Concesiones de Obras Públicas y de sus divisiones y la organización interna de ésta.
-
-c) Representar para todos los efectos legales a la Dirección General de Concesiones de Obras Públicas, tanto en el ámbito judicial como extrajudicial.
-
-d) Contratar estudios, proyectos, ejecución de obras y asesorías en la forma que determine la ley. Asimismo, podrá celebrar los actos y contratos que sean necesarios para el cumplimiento de las funciones que le corresponden a la Dirección General de Concesiones de Obras Públicas.
-
-e) Velar por el adecuado y correcto cumplimiento de los contratos de concesión en sus diferentes etapas, en virtud de lo dispuesto en la Ley de Concesiones de Obras Públicas, su reglamento, el contrato de concesión, las bases de licitación y los actos administrativos que conforman el contrato de concesión, como también en las demás leyes y reglamentos que le fueren aplicables.
-
-f) Fomentar, promover y difundir ante inversionistas públicos o privados, nacionales o extranjeros, la asociación público-privada en materia de infraestructura, en coordinación con las demás instituciones competentes en esta materia.
-
-g) Presentar al Ministro de Obras Públicas, para su aprobación, dentro del primer trimestre de cada año, el plan de concesiones, con una proyección de cinco años de plazo. Este plan deberá ser previamente sometido a la consulta del Consejo de Concesiones y posteriormente enviado al Congreso Nacional para su conocimiento.
-
-Dicho plan contendrá una visión territorial, para lo cual sus proyectos contemplarán infraestructura en diferentes zonas del país, procurando un desarrollo armónico entre ellas.
-
-h) Presentar al Ministro de Obras Públicas, dentro del primer trimestre de cada año, un informe de monitoreo y evaluación de la labor fiscalizadora en las etapas de ejecución, reparación, mantención, conservación o explotación de obras públicas, con su correspondiente plan de fortalecimiento.
-
-i) Estudiar, analizar y proponer al Ministro de Obras Públicas proyectos que puedan ser promovidos y ejecutados por el ministerio mediante el sistema de concesiones regulado por el artículo 87, sean éstos de iniciativa propia, de otros ministerios u organismos de la administración pública o de iniciativas privadas presentadas ante el Ministerio de Obras Públicas, de conformidad a la ley.
-
-j) Evaluar, analizar y estructurar financieramente los proyectos en desarrollo, y contratar la asesoría de expertos en estructuración financiera, contractual y de garantías para las obras concesionadas.
-
-k) Proponer al Ministro de Obras Públicas las expropiaciones necesarias para la ejecución de las obras públicas fiscales y no fiscales por el sistema regulado a través del artículo 87.
-
-l) Destinar, comisionar y encomendar cometidos al personal de la Dirección General a su cargo, cuando deban llevarse a cabo en servicios distintos de aquel en que se encuentra nombrado el funcionario.
-
-m) Aplicar las multas que procedan en conformidad a la Ley de Concesiones de Obras Públicas y su reglamento, al contrato de concesión, y a las demás leyes y reglamentos que le fueren aplicables.
-
-n) Delegar en funcionarios de su dependencia, previa aprobación del Ministro de Obras Públicas, atribuciones específicas para una o más regiones o localidades, cuando circunstancias calificadas, tanto de operación como de proyectos en estudio y en etapa de construcción, lo hagan necesario, pudiendo poner término a la delegación en cualquier momento.
-
-En el acto de la delegación, el Director General de Concesiones de Obras Públicas determinará las facultades específicas que delega en el funcionario, el plazo de su desempeño y el ámbito territorial en que ejercerá su competencia.
-
-ñ) Todas las demás funciones y atribuciones que le encomienden las leyes.
-
-#### Artículo 22 quáter
-
-El Director General de Concesiones de Obras Públicas, en el mes de abril de cada año, en audiencia pública, rendirá cuenta de su gestión en la Dirección General.
-
-En dicha cuenta se referirá a los resultados obtenidos en las actividades realizadas durante el período, incluyendo las estadísticas básicas que las reflejen, el uso de los recursos otorgados y las dificultades que se hubieren presentado, y dará a conocer las actuaciones de la Dirección General que se realizarán durante el período siguiente, incluido el grado de avance del plan a cinco años señalado en la letra g) del artículo 22 ter.
+n) Atender los demás asuntos de su incumbencia que les encomiende el Director General.
 
 #### Artículo 23º
 
@@ -549,8 +457,6 @@ a) Son caminos nacionales: el Camino Longitudinal, los que unen las capitales de
 b) Son caminos regionales: el resto de los caminos públicos.
 
 Sin perjuicio de esta clasificación el Presidente de la República podrá declarar qué caminos tienen el carácter de internacionales.
-
-Tanto un camino nacional como uno regional podrá ser declarado camino o ruta de belleza escénica, entendiéndose por tal, aquella vía de comunicación terrestre, o tramos de la misma, emplazada en una zona de alto valor paisajístico o turístico y que requiere un tratamiento diferenciado, sea de diseño, mantención, operación o señalización, destinado a preservar y proteger esas cualidades.
 
 #### Artículo 26º
 
@@ -664,13 +570,13 @@ Para construir el cauce correspondiente se oirá al propietario del predio a qui
 
 #### Artículo 38º
 
-Se prohíbe la instalación de elementos publicitarios en la faja vial de los caminos públicos.
+Queda prohibida la colocación de carteles, avisos de propaganda o cualquiera otra forma de anuncios comerciales en los caminos públicos del país.
 
-La instalación de elementos publicitarios que puedan ser vistos desde los caminos públicos deberá ser autorizada por el Director Regional de Vialidad, en conformidad a la normativa aplicable y obteniendo el correspondiente permiso de instalación de elemento publicitario por parte de la Dirección de Obras Municipales respectiva.
+La colocación de avisos en las fajas adyacentes a los caminos deberá ser autorizada por el Director de Vialidad, en conformidad al Reglamento.
 
-Las Señales de Servicio, de Atractivo Turístico y de Monumentos Nacionales se regirán por el Manual de Señalización de Tránsito.
+Toda infracción a las disposiciones del inciso precedente será sancionada por la Dirección de Vialidad en conformidad al Párrafo VI del presente Título, sin perjuicio de que la Dirección proceda al retiro inmediato de los mencionados carteles y avisos.
 
-Toda infracción a las disposiciones de los incisos precedentes será sancionada por el organismo competente respectivo, señalado en la Ley sobre Publicidad Visible desde Caminos, Vías o Espacios Públicos, en conformidad a la ley y a los reglamentos dictados al efecto, sin perjuicio de que la Dirección Regional de Vialidad proceda al retiro inmediato de los mencionados elementos publicitarios.
+> **Nota.** NOTA: 2 Por Sentencia del Tribunal Constitucional, publicada el 06.05.1992, se declaró la Inconstitucionalidad del DTO 357, Obras Públicas, D.O. 19.02.1992, que derogaba al DTO 1319, Obras Públicas, publicado el 25.10.1977.
 
 #### Artículo 39º
 
@@ -1256,13 +1162,13 @@ Los intereses provenientes de los anticipos sobre maquinarias se descontarán de
 
 #### Artículo 91º
 
-Las obras indicadas en el artículo 17 bis, serán ejecutadas a petición del o de los propietarios interesados o por iniciativa Fiscal. En el primer caso, los propietarios deberán suscribir una escritura pública o un acta ante Notario o el Oficial del Registro Civil correspondiente en las circunscripciones rurales en que se deje constancia de la aceptación de las disposiciones de la presente ley y de su reglamento.
+Las obras indicadas en el artículo 14º, letra l), serán ejecutadas a petición del o de los propietarios interesados o por iniciativa Fiscal. En el primer caso, los propietarios deberán suscribir una escritura pública o un acta ante Notario o el Oficial del Registro Civil correspondiente en las circunscripciones rurales en que se deje constancia de la aceptación de las disposiciones de la presente ley y de su reglamento.
 
-Si la obra es de iniciativa fiscal la Dirección de Obras Hidráulicas cumplirá previamente con las exigencias establecidas en el artículo 93.
+Si la obra es de iniciativa fiscal la Dirección General de Obras Públicas cumplirá previamente con las exigencias establecidas en el artículo 93.
 
 #### Artículo 92º
 
-Cuando las obras comprenden trabajos que incluyan la reforestación de las hoyas, la Dirección de Obras Hidráulicas encomendará al Departamento de Bosques del Ministerio de Bienes Nacionales el estudio y ejecución de ellas, para lo cual pondrá a su disposición los fondos del caso.
+Cuando las obras comprenden trabajos que incluyan la reforestación de las hoyas, la Dirección General de Obras Públicas encomendará al Departamento de Bosques del Ministerio de Bienes Nacionales el estudio y ejecución de ellas, para lo cual pondrá a su disposición los fondos del caso.
 
 Estas obras y plantaciones podrán ser hechas por iniciativa particular o fiscal, especialmente en las partes altas de las hoyas. Los árboles plantados por el Fisco serán de propiedad del dueño del suelo, pero la explotación por parte de éste podrá efectuarla con la autorización del indicado departamento bajo el control de éste y sometido a las instrucciones de renovación que dicho departamento exija, todo en la forma determinada por la Ley de Bosques.
 
@@ -1276,15 +1182,15 @@ Los propietarios de predios en los cuales el Fisco efectúe plantaciones, estar�
 
 #### Artículo 93º
 
-La solicitud acompañada de la escritura pública o del acta, a que se refiere el artículo 91º, deberá ser presentada a la Dirección de Obras Hidráulicas, la que, si juzga conveniente los trabajos, elaborará el proyecto y su presupuesto, que deberá ser debidamente notificado a los interesados en la forma que establezca el reglamento, y aquéllos se considerarán aprobados cuando no sean rechazados por más del 50% de los interesados en la obra. En el caso que no sean rechazados el proyecto y su presupuesto, las obras obligarán a todos con los gravámenes consiguientes.
+La solicitud acompañada de la escritura pública o del acta, a que se refiere el artículo 91º, deberá ser presentada a la Dirección General de Obras Públicas, la que, si juzga conveniente los trabajos, elaborará el proyecto y su presupuesto, que deberá ser debidamente notificado a los interesados en la forma que establezca el reglamento, y aquéllos se considerarán aprobados cuando no sean rechazados por más del 50% de los interesados en la obra. En el caso que no sean rechazados el proyecto y su presupuesto, las obras obligarán a todos con los gravámenes consiguientes.
 
 #### Artículo 94º
 
 El valor de las obras será pagado en un 65% por el Fisco y en un 35% por los particulares beneficiados, salvo las excepciones establecidas en la presente ley.
 
-La Dirección de Obras Hidráulicas, fijará en la forma que lo establezca el reglamento el prorrateo de las cuotas que, proporcionalmente a su beneficio corresponda pagar a cada interesado en el 35% antes indicado.
+La Dirección General de Obras Públicas, fijará en la forma que lo establezca el reglamento el prorrateo de las cuotas que, proporcionalmente a su beneficio corresponda pagar a cada interesado en el 35% antes indicado.
 
-Podrán acogerse a los beneficios establecidos en el artículo artículo 17 bis, de esta ley, previa calificación por la Dirección de Obras Hidráulicas, las Municipalidades para defender las ciudades o poblaciones.
+Podrán acogerse a los beneficios establecidos en el artículo 14º, letra l), de esta ley, previa calificación por la Dirección General de Obras Públicas, las Municipalidades para defender las ciudades o poblaciones.
 
 En este caso la cuota fiscal a que se refiere esta disposición podrá elevarse hasta el 80% del valor de las obras.
 
@@ -1294,7 +1200,7 @@ El propietario que sea dueño de bienes raíces, cuyo avalúo fiscal en conjunto
 
 #### Artículo 96º
 
-La Dirección de Obras Hidráulicas, previo los estudios pertinentes y conocimiento de los interesados, podrá ordenar la modificación o destrucción total o parcial de las obras de defensa o cualesquiera otra existente en las riberas o cauces de las corrientes naturales, si pusiesen en peligro inminente poblaciones, otros predios u obras importantes o dificulten la regularización del curso de las aguas.
+La Dirección General de Obras Públicas, previo los estudios pertinentes y conocimiento de los interesados, podrá ordenar la modificación o destrucción total o parcial de las obras de defensa o cualesquiera otra existente en las riberas o cauces de las corrientes naturales, si pusiesen en peligro inminente poblaciones, otros predios u obras importantes o dificulten la regularización del curso de las aguas.
 
 Si las obras realizadas por el Fisco se destruyen o inutilizan a causa de defectos de ejecución u ocasionan perjuicios a los ribereños, ellas deberán ser reconstruidas por el Fisco sin nuevo gravamen para los interesados.
 
@@ -1322,7 +1228,7 @@ La parte del servicio que deben hacer los particulares afectará a los predios b
 
 #### Artículo 101º
 
-Establécense las servidumbres necesarias para la ejecución de los trabajos que se deriven de la aplicación del artículo 17 bis, de la presente ley, las que se pagarán a justa tasación de peritos cuando no hubiere convenio directo entre las partes.
+Establécense las servidumbres necesarias para la ejecución de los trabajos que se deriven de la aplicación del artículo 14º, letra l), de la presente ley, las que se pagarán a justa tasación de peritos cuando no hubiere convenio directo entre las partes.
 
 Los propietarios de los predios afectados quedarán obligados a dar las facilidades necesarias para la vigilancia y mantención de las obras ejecutadas.
 
