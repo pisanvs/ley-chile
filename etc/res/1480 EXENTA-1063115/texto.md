@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.480, de 2 de junio de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.064, de 2003, sólo en cuanto autorizó a MARIO MOROZIN YURECIC para realizar actividades pesqueras extractivas con la nave "Maori" respecto del recurso hidrobiológico Congrio dorado en el área marítima comprendida entre la IV y VIII regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto.
+
+Valparaíso, 2 de junio de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
