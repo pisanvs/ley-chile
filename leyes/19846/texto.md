@@ -110,9 +110,7 @@ b) Las producciones publicitarias, las de capacitación y las que versen sobre m
 
 c) Las películas producidas especialmente para la televisión. Estas se regirán por las disposiciones de la ley Nº 18.838.
 
-d) Los video juegos.
-
-e) Las producciones cinematográficas ingresadas al país para exhibición privada.
+d) Las producciones cinematográficas ingresadas al país para exhibición privada.
 
 No obstante lo anterior, el Consejo, a solicitud de entidades sin fines de lucro, podrá autorizar la exhibición pública de producciones cinematográficas en festivales o en muestras de cine, sin necesidad de calificarlas. Esta excepción tendrá vigencia solamente para las exhibiciones contenidas en la respectiva autorización.
 
@@ -149,6 +147,22 @@ a) "Contenido educativo", cualquiera sea la categoría de calificación, cuando 
 b) "Inconveniente para menores de 7 años", en el caso de la categoría "Para todo espectador", cuando considere que las imágenes pueden producir trastornos en el desarrollo de la personalidad infantil y provocar confusión entre la realidad y la fantasía.
 
 c) "Contenido pornográfico" o "excesivamente violento", cuando considere que una producción cinematográfica se encuentra en los casos previstos en las letras d) o e) del artículo 2º. Estas expresiones siempre deberán recaer en producciones cinematográficas calificadas para mayores de 18 años.
+
+#### Artículo 11 bis
+
+La calificación de los videojuegos se hará conforme a las siguientes categorías y criterios:
+
+1.- Videojuego especialmente recomendado para niños y adolescentes: por contener material educativo y ningún elemento inapropiado para su edad.
+
+2.- Videojuego sin contenido objetable: que puede ser visto por personas de cualquier edad.
+
+3.- Videojuego no recomendado para menores de 8 años: por contener un porcentaje menor de lenguaje inapropiado, insinuaciones sexuales o violencia.
+
+4.- Videojuego no recomendado para menores de 14 años: por contener un porcentaje moderado de lenguaje inapropiado, insinuaciones sexuales o violencia.
+
+5.- Videojuego no recomendado para menores de 18 años: por contener un porcentaje importante de lenguaje vulgar, material sexual explícito, desnudez frecuente o importantes niveles de violencia.
+
+No será necesaria la calificación señalada en el inciso anterior si los fabricantes o importadores de videojuegos observan la equivalencia con los sistemas de calificación del país de origen del videojuego que hayan sido reconocidos por resolución del Consejo de Calificación Cinematográfica.
 
 #### Artículo 12
 
@@ -234,9 +248,11 @@ La reiteración de esta conducta dará lugar a la clausura de la sala respectiva
 
 #### Artículo 22
 
-Las producciones cinematográficas en vídeo o en cualquier otro soporte sólo podrán arrendarse, cederse o de cualquier modo entregarse a personas cuya edad corresponda, a lo menos, a la de la calificación que les fue asignada.
+Las producciones cinematográficas o videojuegos en vídeo o en cualquier otro soporte sólo podrán arrendarse, cederse o de cualquier modo entregarse a personas cuya edad corresponda, a lo menos, a la de la calificación que les fue asignada.
 
 El propietario, representante o administrador del establecimiento de comercio o sitio en internet que infringiera esta norma, será sancionado con una multa de 5 a 10 unidades tributarias mensuales. En caso de reincidencia, dicha multa se duplicará.
+
+En el caso de infracciones relativas a la venta o arrendamiento de videojuegos sin respetar la calificación efectuada por el Consejo o sin observar la equivalencia con los sistemas de calificación del país de origen del videojuego que hayan sido reconocidos por resolución del Consejo, en su caso, se aplicará lo dispuesto en los incisos tercero y cuarto del artículo 49 bis de la ley Nº 19.496.
 
 En caso de entregarse, a cualquier título, producciones cinematográficas de contenido pornográfico o excesivamente violento a menores de edad, el propietario, su representante o el administrador del establecimiento o del sitio en internet respectivo, será sancionado con una multa equivalente a 25 unidades tributarias mensuales. La reiteración de esta conducta dará lugar a la clausura hasta por treinta días.
 
@@ -282,7 +298,7 @@ Recursos y presupuesto del Consejo
 
 #### Artículo 29
 
-Por concepto de derecho a calificación, los interesados deberán pagar al Consejo el equivalente a 0,048 unidades tributarias mensuales por minuto de duración de cada producción cinematográfica.
+Por concepto de derecho a calificación, los interesados deberán pagar al Consejo el equivalente a 0,048 unidades tributarias mensuales por minuto de duración de cada producción cinematográfica o sinopsis de videojuego.
 
 Estos recursos se destinarán al pago de las asignaciones de los consejeros y a financiar los gastos que origine la exhibición del material sometido a su calificación, incluyendo la asesoría profesional de expertos que sea necesaria.
 

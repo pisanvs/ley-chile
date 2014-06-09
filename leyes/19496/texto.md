@@ -728,6 +728,16 @@ El incumplimiento de las obligaciones contempladas en este párrafo sujetará al
 
 El juez podrá, en todo caso, disponer el retiro del mercado de los bienes respectivos, siempre que conste en el proceso, por informes técnicos, que se trata de productos peligrosos para la salud o seguridad de las personas, u ordenar el decomiso de los mismos si sus características riesgosas o peligrosas no son subsanables.
 
+#### Artículo 49 bis
+
+Los fabricantes e importadores de videojuegos deberán colocar en los envases en que comercialicen dichos productos leyendas que señalen claramente el nivel de violencia contenida en el videojuego respectivo, según lo dispuesto en el presente artículo. Tal advertencia deberá ocupar, a lo menos, el 25% del espacio de ambas caras del envase o envoltorio del videojuego respectivo.
+
+Los fabricantes, importadores, proveedores y comerciantes sólo podrán vender y arrendar videojuegos que fueren calificados como no recomendados para menores de una determinada edad, a quienes acrediten cumplir la edad requerida, debiendo exigir en cada venta o arriendo la cédula de identidad respectiva.
+
+La infracción de las disposiciones del presente artículo será sancionada por el juez de policía local competente, con una multa de 1 a 50 unidades tributarias mensuales y comiso de las especies materia de la infracción.
+
+En caso de reincidencia, el juez podrá aplicar el doble de la multa establecida para la infracción respectiva. Se entenderá que existe reincidencia cuando el infractor incurra en una misma contravención, en dos oportunidades dentro del mismo año calendario.
+
 T I T U L O IV
 
 Del procedimiento a que da lugar la aplicación de esta ley
