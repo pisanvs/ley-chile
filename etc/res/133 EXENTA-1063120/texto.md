@@ -1,0 +1,5 @@
+ACREDITA A "ASESORÍAS XITLA LIMITADA O XITLA LTDA." COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 133, de 29 de mayo de 2014 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a Xitla Ltda., RUT Nº 76.850.850-K, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Educación, Subsector Asistentes de la Educación, en el perfil de Inspector Institución Educacional. La acreditación se otorga por un plazo de tres años contados desde el 29 de mayo de 2014, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
