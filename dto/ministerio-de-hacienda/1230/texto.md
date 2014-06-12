@@ -1192,6 +1192,14 @@ operaciones
 
 aduaneras.
 
+16. Puerto Punta Paso de personas
+
+Caullahuapi S.A. Permanente y todo tipo de
+
+operaciones
+
+aduaneras.
+
 Ñ. SUJETOS A LA JURISDICCION DE LA ADUANA DE COIHAIQUE:
 
 Punto Habilitado Habilitación Operaciones aduaneras
