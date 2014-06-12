@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A O.N.G. DE DESARROLLO AUMEN
+
+Mediante decreto exento Nº 429 de 27 de mayo de 2014, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a O.N.G. de Desarrollo Aumen o El Eco de los Montes, R.U.T. Nº 65.065.260-6, los inmuebles fiscales ubicados en el lugar denominado "Laguna Caiquenes", comuna de Tortel, provincia de Capitán Prat, Región Aysén del General Carlos Ibáñez del Campo, que corresponden a Inmueble 1.- Lotes a, b, c y d, singularizados en el Plano Nº XI-4-594-C.R., con una superficie total de 8.159,90 hectáreas, enrolado en el Servicio de Impuestos Internos con el Nº 241-48; Inmueble 2.- Lotes a, b y c, singularizados en el Plano Nº XI-4-584-C.R., de una superficie total de 355 hectáreas, enrolado en el Servicio de Impuestos Internos con el Nº 241-73, todos inscritos a nombre del Fisco a fojas 2 vta. Nº 2, del Registro de Propiedad del Conservador de Bienes Raíces de Cochrane, correspondiente al año 1980. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para que la beneficiaria destine los predios concesionados para su conservación ambiental y protección del patrimonio, gestión y manejo de sus recursos, debiendo efectuar las gestiones para la obtención de los objetivos específicos del Plan de Manejo presentado, dentro de un plazo máximo de 5 años contado desde la fecha de la suscripción de la escritura pública de concesión.
+
+El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, abogada, Jefa de División Jurídica.
