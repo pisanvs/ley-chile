@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE JUAN FERNÁNDEZ
+
+Mediante decreto exento Nº 451 de 30 de mayo de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la I. Municipalidad de Juan Fernández, RUT Nº 69.252.300-8, el inmueble fiscal ubicado en El Castillo Nº 119, que corresponde al Sitio Nº 1, manzana Nº 6, comuna de Juan Fernández, provincia y Región de Valparaíso, enrolado en el Servicio de Impuestos Internos con el Nº 6-1; inscrito a mayor cabida a nombre del Fisco a fojas 506 Nº 1.361, del Registro de Propiedad del Conservador de Bienes Raíces de Valparaíso, correspondiente al año 1911; de una superficie de 207,90 metros cuadrados, singularizado en el Plano Nº V-6-4646-C.U. La Concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para que la beneficiaria lo utilice para asegurar la continuidad del "Edificio Consistorial y de Servicios Públicos de Juan Fernández". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
