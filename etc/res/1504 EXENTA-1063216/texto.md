@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.504, de 5 de junio de 2014, de esta Subsecretaría, recházanse solicitudes números 207012001, 205042004, 204042001, 200042001, 212012008 y 212012009, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 5 de junio de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
