@@ -1,0 +1,7 @@
+COMPLEMENTA Y RECTIFICA DECRETO Nº 108 EXENTO, DE 2014, QUE RECAE EN MODIFICACIÓN DE CONTRATO DE CONCESIÓN ONEROSA DE INMUEBLE FISCAL A "PARQUE EOÓLICO QUILLAGUA SpA", EN LA COMUNA DE MARÍA ELENA, REGIÓN DE ANTOFAGASTA
+
+Mediante decreto exento Nº 432, de 28 de mayo de 2014, se autorizó la complementación y rectificación del decreto exento Nº 108, de 12 de febrero de 2014, que recae en modificación de contrato de concesión onerosa celebrado por escritura pública el 5 de marzo de 2010, rectificado y complementado el 28 de junio de 2011, para ejecutar un proyecto de energía renovable no convencional en un inmueble fiscal en la Región de Antofagasta, en el sentido que la concesionaria tendrá la opción de no ejecutar la Etapa Tres del Proyecto, devolviendo el Lote C, en las mismas condiciones en que le fue entregado, rectificándose además la ubicación particular del inmueble fiscal concesionado.
+
+La escritura pública que modifica y complementa el contrato de concesión, deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación del presente extracto. Los decretos con su texto íntegro se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
