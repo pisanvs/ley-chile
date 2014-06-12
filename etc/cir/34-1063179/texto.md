@@ -1,0 +1,5 @@
+INSTRUYE SOBRE EL TRATAMIENTO TRIBUTARIO DE LAS DONACIONES CON FINES CULTURALES, A RAÍZ DE LA SUSTITUCIÓN DEL ARTÍCULO 8º DE LA LEY Nº 18.985, EFECTUADA POR EL ARTÍCULO ÚNICO DE LA LEY Nº 20.675
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 34 de fecha 5 de junio de 2014, la cual tiene por objeto instruir sobre el tratamiento tributario de las donaciones que se efectúen con fines culturales, con motivo de la sustitución del artículo 8º de la ley Nº18.985, efectuada por el artículo único de la ley Nº 20.675, y para ello, se refunden y actualizan las instrucciones dictadas por este Servicio sobre la materia a través de las circulares Nos 24 y 50 de 1993 y 57 de 2001, las que quedan sin efecto, en aquella parte que sean contrarias a las contenidas en el presente instructivo.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio de 2014.
