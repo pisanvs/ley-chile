@@ -1,0 +1,17 @@
+DESIGNA AL DIRECTOR DEL SERVICIO DE IMPUESTOS INTERNOS COMO REPRESENTANTE AUTORIZADO DEL MINISTRO DE HACIENDA EN LA FUNCIÓN DE "AUTORIDAD COMPETENTE", PARA EFECTOS DE LOS CONVENIOS CELEBRADOS POR LA REPÚBLICA DE CHILE CON LOS PAÍSES QUE SE INDICAN, CON LA FINALIDAD DE EVITAR LA DOBLE IMPOSICIÓN Y DEMÁS ASPECTOS QUE SEÑALAN
+
+Núm. 133 exenta.- Santiago, 7 de mayo de 2014.- Vistos: El oficio ord. Nº 1.362, del Director del Servicio de Impuestos Internos, de 2013; el Convenio entre la República de Chile y la República de Colombia para evitar la Doble Imposición y para prevenir la Evasión Fiscal en Relación al Impuesto a la Renta y al Patrimonio, promulgado por el decreto supremo Nº 232, del Ministerio de Relaciones Exteriores, de 2009; el Convenio entre la República de Chile y el Gobierno del Reino de Tailandia para evitar la Doble Imposición y para Prevenir la Evasión Fiscal con relación a los Impuestos a la Renta, promulgado por el decreto supremo Nº 149, del Ministerio de Relaciones Exteriores, de 2010; el Convenio entre la República de Chile y el Reino de Bélgica para evitar la Doble Imposición y prevenir la Evasión Fiscal con relación a los Impuestos a la Renta y al Patrimonio, promulgado por el decreto supremo Nº 150, del Ministerio de Relaciones Exteriores, de 2010; el Convenio entre la República de Chile y la Confederación Suiza para evitar la Doble Imposición con relación a los Impuestos a la Renta y al Patrimonio, promulgado por el decreto supremo Nº 151, del Ministerio de Relaciones Exteriores, de 2010; el Convenio entre la República de Chile y Australia para evitar la Doble Imposición con relación a los Impuestos a la Renta y a "Los Beneficios Otorgados en Virtud de un Empleo", "Fringe Benefits", y para prevenir la Evasión Fiscal, promulgado por el decreto supremo Nº 15, del Ministerio de Relaciones Exteriores, de 2013; la resolución Nº 1.600, de la Contraloría General de la República de 2008, y
+
+Considerando:
+
+1. Que los convenios internacionales antes referidos contemplan como "autoridad competente" al Ministro de Hacienda o su representante autorizado.
+
+2. Que la Ley Orgánica del Servicio de Impuestos Internos, decreto con fuerza de ley Nº7, de 1980, en su artículo 7, letra b bis), establece que le corresponden al Director las atribuciones, responsabilidades y obligaciones de asesorar al Ministro correspondiente en la negociación de Convenios Internacionales que versen sobre materias tributarias, interpretar sus disposiciones, impartir instrucciones para su aplicación, adoptar las medidas necesarias y mantener los contactos con el extranjero que sean convenientes para evitar la elusión y la evasión de impuestos en el ámbito internacional, dicto la siguiente:
+
+Resolución:
+
+Desígnase al Director del Servicio de Impuestos Internos como representante autorizado del Ministro de Hacienda en la función de "autoridad competente" con las atribuciones, responsabilidades y obligaciones que se establecen en los convenios para evitar la doble imposición internacional y demás aspectos que señalan, celebrados entre la República de Chile con la República de Colombia, el Gobierno del Reino de Tailandia, el Reino de Bélgica, la Confederación Suiza y Australia, promulgados, respectivamente, por los decretos supremos Nºs. 232 de 2009; 149, 150 y 151, de 2010; y 15, de 2013, todos del Ministerio de Relaciones Exteriores.
+
+Anótese y publíquese.- Alberto Arenas de Mesa, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.
