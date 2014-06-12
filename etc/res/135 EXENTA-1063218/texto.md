@@ -1,0 +1,5 @@
+ACREDITA A "CENTRO DE FORMACIÓN TÉCNICA UDA S.A. O CFT UDA" COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 135, de 30 de mayo de 2014 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se acredita a Centro de Formación Técnica UDA S.A. o CFT UDA, RUT Nº 96.934.750-4, como Centro de Evaluación y Certificación de Competencias Laborales, en el Sector Educación, Subsector Asistentes de la Educación, en el perfil de Inspector Institución Educacional. La acreditación se otorga por un plazo de tres años contados desde el 30 de mayo de 2014, fecha en la que el Centro fue notificado personalmente de la resolución ya referida.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
