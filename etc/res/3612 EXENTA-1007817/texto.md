@@ -300,15 +300,19 @@ D. Para los casos de los proyectos que se sometieron al SEIA pero no presentaron
 
 E. Para los casos de los proyectos que no se sometieron al SEIA, se debe presentar una CPS de la nueva categoría y un análisis que integre la información de las INFA elaboradas a la fecha.
 
+F. Se exceptúan de las exigencias del presente numeral a las modificaciones de proyectos que no consideren aumento de biomasa o ampliación de área, tales como modificaciones en las estructuras de cultivo o la inclusión del grupo de especies al que pertenece la o las especies que ya se encuentren autorizadas en el proyecto técnico.
+
 ## Título II
 
 De los proyectos que no se someten al SEIA
 
-10.- Las solicitudes y modificaciones de centros de cultivo, en porción de agua y fondo, que no deban someterse al SEIA, deberán presentar a la Subsecretaría, en el plazo indicado en el artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, lo siguiente:
+10.- Las solicitudes de centros de cultivo, en porción de agua y fondo, que no deban someterse al SEIA, deberán presentar a la Subsecretaría, en el plazo indicado en el artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, lo siguiente:
 
 A. Centros de cultivo de macroalgas con sistemas de producción de fondo, un plano batimétrico y de sustrato con la ubicación de las estaciones de acuerdo con la metodología indicada en el numeral 11 de la presente resolución.
 
 B. Los demás centros de cultivo, un plano batimétrico y de sustrato con la ubicación de las estaciones y una tabla con el contenido de materia orgánica total del sedimento de acuerdo con las metodologías indicadas en los numerales 11 y 27 de la presente resolución.
+
+C. En el caso de modificaciones de proyectos, se deberá presentar el análisis integrado de la CPS original del proyecto y las INFAs elaboradas a la fecha de la solicitud de modificación. No se someterán a estas exigencias las modificaciones de proyectos que no consideren aumento de biomasa o ampliación de área, tales como modificaciones de estructuras de cultivo o la inclusión del grupo de especies al que pertenece la o las especies que ya se encuentren autorizadas en el proyecto técnico.
 
 11.- La ubicación y número de las estaciones de muestreo se someterán a los procedimientos que se indican a continuación:
 
@@ -548,7 +552,7 @@ Del muestreo de la INFA
 
 a) Las estaciones de muestreo bentónico se ubicarán en el o los dos módulos de cultivo con máxima biomasa acumulada durante el año calendario o ciclo productivo, según corresponda.
 
-b) El número de estaciones de muestreo bentónico corresponderá a cuatro por cada módulo seleccionado de acuerdo a lo señalado en el literal anterior. En todo caso, aquellos centros que dispongan de un solo módulo, deberán contar un total de ocho estaciones de muestreo.
+b) El número de estaciones de muestreo bentónico corresponderá a cuatro por cada módulo seleccionado de acuerdo a lo señalado en el literal anterior. En todo caso, aquellos centros que dispongan de un solo módulo, deberán contar un total de ocho estaciones de muestreo, salvo en el caso de los centros de cultivo con sistemas de producción extensiva de moluscos y algas, cuya concesión autorizada tenga un área igual o menor a 6 hectáreas, en que el número de estaciones será de seis.
 
 c) Las estaciones de muestreo bentónico deberán ubicarse de manera uniforme por todo el perímetro del o los módulos seleccionados.
 
@@ -1108,7 +1112,7 @@ Variable Límite aceptabilidad
 
 Materia Orgánica ≤ 9%
 
-pH ≥ 6,8
+pH ≥ 7,1
 
 Eh (Redox) ≥ 50 mV
 
@@ -1120,9 +1124,11 @@ Microorganismos
 
 visibles y/o burbujas de gas
 
+En el caso del pH y Eh (Redox), la infracción al límite de aceptabilidad se configurará por el incumplimiento conjunto de los valores asignados a las dos variables indicadas.
+
 En el caso de la CPS, la condición anaeróbica se constatará si se incumplen los límites de aceptabilidad de cualquiera de las variables en a lo menos el 30% de las estaciones determinadas para el sector solicitado o modificación, según corresponda.
 
-En la evaluación de la INFA, la condición anaeróbica se constatará si se incumplen los límites de aceptabilidad de cualquiera de las variables en tres de las ocho estaciones de muestreo. El valor en cada estación corresponderá al promedio de las tres réplicas establecidas por estación.
+En la evaluación de la INFA, la condición anaeróbica se constatará si se incumplen los límites de aceptabilidad de cualquiera de las variables en tres de las ocho estaciones de muestreo. El valor en cada estación corresponderá al promedio de las tres réplicas establecidas por estación. En el caso de los centros de cultivo con sistemas de producción extensiva de moluscos y algas, cuya concesión autorizada tenga un área igual o menor a 6 hectáreas, la condición anaeróbica se constatará si se incumplen los límites de aceptabilidad de cualquiera de las variables de sedimento en dos de las seis estaciones de muestreo.
 
 Para el caso del oxígeno disuelto, la condición anaeróbica se constatará si se incumple el límite de aceptabilidad en a lo menos el 30% de los perfiles.
 
@@ -1132,7 +1138,7 @@ Variable Límite aceptabilidad
 
 Materia Orgánica ≤ 8%
 
-pH ≥ 7.0
+pH ≥ 7,1
 
 Eh (Redox) ≥ 75 mV
 
@@ -1147,6 +1153,8 @@ de microorganismos
 visibles y/o burbujas de gas
 
 El oxígeno disuelto no se considerará dentro de los límites de aceptabilidad para los centros de cultivo emplazados en las regiones XV, I, II, III y IV. En tales casos, si el centro de cultivo es de categoría 5, el oxígeno como límite de aceptabilidad será reemplazado por las variables de los sedimentos en fondos blandos, hasta una profundidad de 100 metros, debiendo aplicarse los límites de aceptabilidad previstos para dichas variables.
+
+En el caso del pH y Eh (Redox), la infracción al límite de aceptabilidad se configurará por el incumplimiento conjunto de los valores asignados a las dos variables indicadas.
 
 32.- Todos los centros de cultivo con sistemas de producción extensivo de recursos hidrobiológicos bentónicos exóticos o con sistemas de producción intensivo que se alimenten exclusiva y permanentemente en base a macroalgas, deberán entregar en la INFA, cada dos años, los siguientes antecedentes:
 
@@ -1183,5 +1191,7 @@ Transitorio 2.- La entrega de Sulfuro establecida para los centros de cultivo ca
 Transitorio 3.- Los muestreos para la elaboración de CPS e INFA que hayan sido efectuados en una fecha anterior a la publicación de la presente resolución, se someterán a las exigencias establecidas en la resolución Nº 3.411, de 2006, de esta Subsecretaría, siempre que la respectiva INFA o CPS se presente hasta el 31 de diciembre de 2009.
 
 Transitorio 4.- Para los efectos de lo señalado en el numeral 19.- de la presente resolución, los laboratorios que al momento de la publicación de la presente resolución se encuentran en proceso de acreditación ante el INN, se someterán a las exigencias establecidas en la resolución Nº 3.411, de 2006, de esta Subsecretaría.
+
+Transitorio 5.- Mientras no se desarrollen estudios que permitan la recopilación de antecedentes y la realización de los análisis necesarios para complementar la metodología de evaluación del registro visual aplicable a los centros de cultivo de categoría 4, si el centro de cultivo está clasificado en categoría mixta que incluye la mencionada categoría 4, la evaluación de la condición de anaerobia en la INFA respectiva se someterá a las condiciones específicas señaladas en la resolución extractada.
 
 Anótese, comuníquese y publíquese por cuenta de esta Subsecretaría.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
