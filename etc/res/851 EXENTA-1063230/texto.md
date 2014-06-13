@@ -1,0 +1,29 @@
+INSTRUYE DAR CURSO AL PROCESO INVALIDATORIO DEL CONCURSO PÚBLICO PARA PROVEER CARGOS VACANTES DE LAS PLANTAS DE TÉCNICOS, ADMINISTRATIVOS Y AUXILIARES
+
+Núm. 851 exenta.- Santiago, 11 de junio de 2014.- Vistos: Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L. Nº 1/19.653 del 2001 y la Ley Nº 19.880 de 2003, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, ambos del Ministerio Secretaría General de la Presidencia; la Ley Nº 20.502 que crea el Ministerio del Interior y Seguridad Pública; el D.F.L. Nº 3-20.502 que Fija la Planta de Personal de la Subsecretaría de Prevención del Delito; el D.F.L. Nº 29/2004, que fija texto refundido, coordinado y sistematizado de la Ley 18.834, sobre Estatuto Administrativo; el Decreto Nº69/2004 del Ministerio de Hacienda, que aprueba Reglamento de Concursos del Estatuto Administrativo; la Resolución Nº 1600, de 30 de octubre de 2008, de Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón; los Dictámenes Nº16.013 de 1969, Nº8.099 de 1973, Nº4.922 de 1994, Nº10.853 y Nº6.142, ambos de 2014, todos de la Contraloría General de la República y; la Resolución Exenta Nº2530 de noviembre de 2013 que aprueba bases y llama a concurso para proveer cargos vacantes de la planta de técnicos, administrativos y auxiliares de la Subsecretaría de Prevención del Delito;
+
+Considerando:
+
+1) Que, realizado un análisis de los concursos públicos, se constató la existencia de un vicio de legalidad en las bases que implicó ejercer una discriminación arbitraria entre los postulantes, al hacer de requisitos deseables de experiencia laboral, requisitos excluyentes, excediendo lo establecido en la Ley de Planta del Servicio. Dicho proceder vulneraría las garantías individuales contempladas en el artículo 19, numerales 2º y 17º, de la Constitución Política, que impiden a la autoridad establecer diferencias arbitrarias, y, en cambio, aseguran la admisión a todas las funciones o empleos públicos, sin otras exigencias que las que impongan la Carta Fundamental y las leyes.
+
+2) Que, conforme lo ha señalado la Jurisprudencia Administrativa de la Contraloría General de la República, en los que queda establecido, con el propósito de proteger el principio de juridicidad emanado de los artículos 6º y 7º de la Constitución Política, la Administración tiene la facultad y, aún más, el deber de invalidar los actos administrativos, en el evento de que se compruebe fehacientemente la existencia de vicios de legalidad, los cuales deben afectar esencialmente el contenido de los mismos.
+
+3) Que dados los antecedentes es necesario invalidar lo obrado en estos concursos, a objeto de garantizar los derechos de los postulantes a concursar en igualdad de condiciones y de acuerdo a lo establecido en la normativa respecto a los requisitos necesarios para desempeñarse en la Subsecretaría de Prevención del Delito, a través de la realización, en un plazo futuro, de procesos transparentes y objetivos.
+
+4) Que el proceso de invalidación debe ser realizado de manera tal que garantice el cumplimiento de los derechos de los interesados en los concursos públicos, de acuerdo a lo señalado en el artículo 53º de la Ley Nº 19.880 de 2003, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado;
+
+Resuelvo:
+
+1º Iníciese el proceso de invalidación del concurso público desarrollado para proveer cuatro cargos vacantes de la planta de técnicos, trece cargos vacantes de la planta de administrativos y dos cargos vacantes de la planta de auxiliares de la Subsecretaría de Prevención del Delito, llamados mediante la Resolución Exenta Nº2530 de noviembre de 2013 que aprobó sus bases y que fue publicado en el Diario Oficial con fecha 15 de noviembre de 2013, en conformidad a lo señalado en el artículo 53º de la Ley Nº 19.880 de 2003, que establece el requisito de la previa audiencia para la invalidación de los actos administrativos.
+
+Esto, debido al vicio de legalidad detectado en las bases del concurso público, en el factor "experiencia laboral" que señalaba como requisitos deseables pero no excluyentes en los perfiles de cargo, a la experiencia en áreas afines a los puestos en concurso, sin embargo, estos requisitos terminaron siendo obligatorios y, por lo tanto, excluyentes, al ser ponderados en la tabla de evaluación con un puntaje que dejaba fuera a personas que cumplían con el requisito establecido en la Ley de Planta del Servicio (DFL Nº 3-20.502), ya que ésta señala como obligatorios sólo requisitos de experiencia general.
+
+2º Para dar cumplimiento al requisito de la audiencia previa, publíquese la presente Resolución de inicio del proceso de invalidación en el Diario Oficial y procédase a notificar a los interesados, que participaron del concurso como postulantes, mediante carta certificada o correo electrónico.
+
+3º Publíquense todos los antecedentes del proceso de invalidación en la página web del Servicio.
+
+4º Establécese como lugar de recepción de sugerencias, reclamaciones, impugnaciones y otros que sean pertinentes en relación al proceso de invalidación que se inicia, la Oficina de Partes de la Subsecretaría de Prevención del Delito ubicada en Agustinas Nº1235 piso 2, comuna y ciudad de Santiago y la casilla electrónica spd-rrhh@interior.gov.cl; y como plazo máximo para la recepción de los mismos, el de 10 días hábiles (administrativos) contados desde la comunicación y/o notificación de ésta decisión.
+
+5º Deléguese en el Jefe de la División Jurídica, la facultad de notificar a cada uno de los interesados por los procesos de invalidación.
+
+Anótese y comuníquese.- Antonio Frey Valdés, Subsecretario de Prevención del Delito.
