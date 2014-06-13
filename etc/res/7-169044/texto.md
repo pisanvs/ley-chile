@@ -214,7 +214,7 @@ Adosamientos. Los adosamientos se ajustarán a las disposiciones contenidas en e
 
 Cierros exteriores e interiores. Los sitios eriazos deberán disponer de cierros de carácter provisorio que aseguren que dichos predios no se utilicen como botaderos de basura y escombros, la altura mínima será de 2.00 m y cuyas características aprobará la Dirección de Obras Municipales, levantados en los deslindes que enfrenten espacios públicos y o privados y será responsabilidad de los propietarios mantenerlos en buen estado de conservación.
 
-Cuando se consulten cierros exteriores definitivos en los sitios ya edificados o por edificar, no podrán superar la altura de 2,00 m., medidos desde el nivel natural del terreno. Los cierros deberán adoptar la altura y calidad predominante en la cuadra. Su transparencia no podrá ser inferior al 50% de su superficie total.
+Cuando se consulten cierros exteriores definitivos en los sitios ya edificados o por edificar, no podrán superar la altura de 2,00 m., medidos desde el nivel natural del terreno. Los cierros deberán adoptar la altura y calidad predominante en la cuadra. Su transparencia no podrá ser inferior al 50% de su superficie total. En los sitios de la zona Z-2.A la altura máxima permitida para los cierros exteriores será de 3,00 m.
 
 En los sitios esquina los cierros deberán formar ochavos no inferiores a 4 m. Esta longitud podrá variar hasta 8 m., según lo disponga el Director de Obras, según sea la intensidad del tránsito y el ángulo y el ancho de las calles en la intersección. En todo caso los ochavos cumplirán con los artículos respectivos de la Ordenanza General de Urbanismo y Construcciones.
 
@@ -236,7 +236,7 @@ Se considerará situación consolidada a la existente en cada costado en a lo me
 
 En los sitios de esquina afectados por antejardines en dos de sus lados se podrá reducir las exigencias que lo afecten hasta en un 25% en la calle o pasaje de menor importancia vial.
 
-En la zona Z3, en el área correspondiente a la población Lautaro, se elimina la exigencia de antejardín para las edificaciones con uso de suelo de equipamiento de las clases social y deporte.
+En la zona Z-3, en el área correspondiente a la Población Lautaro, y en la zona Z-2.A, se elimina la exigencia de antejardín para las edificaciones con uso de suelo de equipamiento de las clases social y deporte.
 
 > **Nota.** El numeral 1 letras a y b del Artículo 1 de la Enmienda al Plan Regulador de San Joaquín, anexado en el Decreto 1696, Municipalidad de San Joaquín, publicado el 11.11.2011, modifica la presente norma, en el sentido de eliminar la exigencia de antejardín en la zona Z.3, para el área correspondiente a la Población Lautaro y aumentar en un 21,4% el coeficiente de ocupación de suelo en la zona Z.3, para el área correspondiente a la Población Lautaro.
 
@@ -736,25 +736,7 @@ Densidad bruta mínima : 56 hab/há.
 
 Densidad bruta máxima : 800 hab/há.
 
-ZONA Z-2.A. RESIDENCIAL
-
-Condiciones de edificación y uso del suelo similares a la Zona Z-2, más los siguientes incentivos a la densificación.
-
-Porcentaje de ocupación
-
-de suelo : 72%
-
-Coeficiente de
-
-constructibilidad : 2,4
-
-Superficie predial mínima : 200 m²
-
-Frente predial mínimo : 10 m.
-
-Densidad bruta mínima : 150 hab/há.
-
-Densidad bruta máxima : 900 hab/há.
+ZONA Z-2.A. RESIDENCIAL CON DENSIFICACIÓN
 
 ZONA Z - 2B
 
