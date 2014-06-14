@@ -326,7 +326,7 @@ Del Intendente
 
 #### Artículo 23
 
-Sin perjuicio de las facultades que le corresponden en virtud de lo dispuesto por el Título Primero, el intendente será el órgano ejecutivo del gobierno regional y presidirá el consejo regional.
+Sin perjuicio de las facultades que le corresponden en virtud de lo dispuesto por el Título Primero, el intendente será el órgano ejecutivo del gobierno regional.
 
 El intendente ejercerá sus funciones con arreglo a la Constitución Política de la República, a las leyes, a los reglamentos supremos y a los reglamentos regionales.
 
@@ -338,41 +338,43 @@ a) Formular políticas de desarrollo de la región, considerando las políticas 
 
 b) Someter al consejo regional los proyectos de planes y las estrategias regionales de desarrollo y sus modificaciones, así como proveer a su ejecución;
 
-c) Presidir el consejo regional, con derecho a voz. En caso de empate, tendrá derecho a voto dirimente. No obstante, cuando el consejo regional ejerza las funciones de fiscalización a que se refiere el artículo 36, letra g), sólo tendrá derecho a voz;
+c) Someter al consejo regional el proyecto de presupuesto del gobierno regional y sus modificaciones, ajustados a las orientaciones y límites que establezcan la política nacional de desarrollo, la Ley de Presupuestos de la Nación y demás normas legales sobre la administración financiera del Estado;
 
-d) Someter al consejo regional el proyecto de presupuesto del gobierno regional y sus modificaciones, ajustados a las orientaciones y límites que establezcan la política nacional de desarrollo, la Ley de Presupuestos de la Nación y demás normas legales sobre la administración financiera del Estado;
+d) Proponer al consejo regional la distribución de los recursos del Fondo Nacional de Desarrollo Regional que correspondan a la región, así como de las inversiones sectoriales de asignación regional, y de los recursos propios que el gobierno regional obtenga en aplicación de lo dispuesto por el artículo 19, N° 20°, de la Constitución Política de la República. Esta propuesta del intendente al consejo regional deberá basarse en variables e indicadores objetivos de distribución intrarregional;
 
-e) Proponer al consejo regional la distribución de los recursos del Fondo Nacional de Desarrollo Regional que correspondan a la región, así como de las inversiones sectoriales de asignación regional, y de los recursos propios que el gobierno regional obtenga en aplicación de lo dispuesto por el artículo 19, N° 20°, de la Constitución Política de la República. Esta propuesta del intendente al consejo regional deberá basarse en variables e indicadores objetivos de distribución intrarregional;
+e) Proponer al consejo regional la celebración de los convenios de programación a que se refiere el artículo 81;
 
-f) Proponer al consejo regional la celebración de los convenios de programación a que se refiere el artículo 81;
+f) Proponer al consejo regional los proyectos de reglamentos regionales que regulen materias propias de la competencia del gobierno regional, en conformidad a las leyes y a los reglamentos supremos correspondientes;
 
-g) Proponer al consejo regional los proyectos de reglamentos regionales que regulen materias propias de la competencia del gobierno regional, en conformidad a las leyes y a los reglamentos supremos correspondientes;
+g) Representar judicial y extrajudicialmente al gobierno regional, pudiendo ejecutar los actos y celebrar los contratos de su competencia o los que le encomiende el consejo;
 
-h) Representar judicial y extrajudicialmente al gobierno regional, pudiendo ejecutar los actos y celebrar los contratos de su competencia o los que le encomiende el consejo;
+h) Nombrar y remover a los funcionarios que la ley determine como de su confianza;
 
-i) Nombrar y remover a los funcionarios que la ley determine como de su confianza;
+i) Velar por el cumplimiento de las normas sobre probidad administrativa contenidas en la Ley Nº 18.575, en lo que corresponda;
 
-j) Velar por el cumplimiento de las normas sobre probidad administrativa contenidas en la Ley Nº 18.575, en lo que corresponda;
-
-k) Ejercer la administración de los bienes y recursos propios del gobierno regional, con sujeción a las disposiciones legales y reglamentarias aplicables y a las normas que el consejo regional pueda adoptar sobre la materia.
+j) Ejercer la administración de los bienes y recursos propios del gobierno regional, con sujeción a las disposiciones legales y reglamentarias aplicables y a las normas que el consejo regional pueda adoptar sobre la materia.
 
 En todo caso, requerirá del acuerdo de éste para enajenar o gravar bienes raíces, así como para entregarlos en comodato o arrendamiento por un lapso superior a cinco años, el que en ningún caso excederá de veinte;
 
-l) Administrar, en los casos que determine la ley, los bienes nacionales de uso público;
+k) Administrar, en los casos que determine la ley, los bienes nacionales de uso público;
 
-m) Coordinar, supervigilar o fiscalizar , según corresponda, a los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región, directamente o a través de las respectivas secretarías regionales ministeriales, para la debida ejecución de las políticas, planes y proyectos de desarrollo regional, así como de los que sean propios de la competencia del gobierno regional;
+l) Coordinar, supervigilar o fiscalizar , según corresponda, a los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región, directamente o a través de las respectivas secretarías regionales ministeriales, para la debida ejecución de las políticas, planes y proyectos de desarrollo regional, así como de los que sean propios de la competencia del gobierno regional;
 
-n) Resolver los recursos administrativos que se entablen en contra de las resoluciones de los secretarios regionales ministeriales y de los jefes de los servicios públicos que operen en la región, en materias propias del gobierno regional, según lo establezcan las leyes respectivas;
+m) Resolver los recursos administrativos que se entablen en contra de las resoluciones de los secretarios regionales ministeriales y de los jefes de los servicios públicos que operen en la región, en materias propias del gobierno regional, según lo establezcan las leyes respectivas;
 
-ñ) Informar al consejo regional oportunamente respecto de las proposiciones de programas y proyectos a que se refiere el artículo 21, así como dar a conocer a las autoridades a que dicho precepto se refiere, el plan de desarrollo regional;
+n) Informar al consejo regional oportunamente respecto de las proposiciones de programas y proyectos a que se refiere el artículo 21, así como dar a conocer a las autoridades a que dicho precepto se refiere, el plan de desarrollo regional;
 
-o) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones;
+ñ) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones;
 
-p) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales conforme a las normas de la Ley General de Urbanismo y Construcciones;
+o) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales conforme a las normas de la Ley General de Urbanismo y Construcciones;
 
-q) Responder, dentro del plazo de veinte días hábiles y por escrito, los actos de fiscalización que realice el consejo en su conjunto y las informaciones solicitadas por los consejeros en forma individual, y
+p) Responder, dentro del plazo de veinte días hábiles y por escrito, los actos de fiscalización que realice el consejo en su conjunto y las informaciones solicitadas por los consejeros en forma individual;
 
-r) Ejercer las demás atribuciones que la ley le confiera.
+q) Asistir a cualquier sesión del consejo regional cuando lo estimare conveniente, pudiendo tomar parte en sus debates con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrá, sin embargo, rectificar los conceptos emitidos por cualquier consejero regional al fundamentar su voto, derecho que deberá ser ejercido inmediatamente después de terminada la intervención del consejero cuyos conceptos desea rectificar. Este, a su vez, tendrá derecho a réplica inmediata;
+
+r) Proponer al presidente del consejo, antes del inicio de la sesión respectiva, la inclusión de una o más materias en aquella. La comunicación se realizará en forma escrita al secretario ejecutivo. Sin perjuicio de ello, el intendente podrá hacer presente la urgencia para el despacho de una materia o iniciativa específica, mediante oficio que dirigirá al presidente del consejo. Dichos asuntos deberán ser incorporados en la tabla de la sesión inmediatamente siguiente. El presidente del consejo, con el acuerdo de los dos tercios de sus miembros en ejercicio, podrá desechar la petición de urgencia. Con todo, si existiere un plazo legal o reglamentario que obligue a resolver dentro de éste alguna materia o iniciativa, el consejo no podrá ejercer la facultad señalada, y
+
+s) Ejercer las demás atribuciones que la ley le confiera.
 
 #### Artículo 25
 
@@ -536,6 +538,70 @@ La Pintana.
 
 Los consejeros regionales serán elegidos según las normas contenidas en el Capítulo VI de este Título, permanecerán cuatro años en sus cargos y podrán ser reelegidos.
 
+#### Artículo 30 bis
+
+En su sesión constitutiva, el consejo regional elegirá de entre sus miembros, por mayoría absoluta de sus integrantes en ejercicio, en votación pública, a viva voz, en orden alfabético de los apellidos de los consejeros, un presidente, que permanecerá en su cargo durante un período de cuatro años. Dicha sesión constitutiva será presidida por el presidente del consejo, siempre que haya de continuar como consejero para el correspondiente período; a falta de éste, por aquel de los presentes que haya desempeñado más recientemente el cargo de presidente y, en último término, por el consejero en ejercicio de más edad. Sólo para efectos de la elección, dicho presidente accidental no podrá ejercer la facultad indicada en la letra e) del artículo 30 ter. En caso de no elegirse presidente en la primera votación, ésta se repetirá hasta en dos ocasiones adicionales. Con todo, si no fuere posible elegir presidente en la sesión constitutiva del respectivo cuadrienio, dicha elección deberá realizarse, con sujeción a las normas señaladas, en la sesión inmediatamente siguiente, y así sucesivamente hasta que ésta se verifique. Con todo, el período de cuatro años se contará desde la sesión constitutiva indicada.
+
+La designación del nuevo presidente será comunicada al Presidente de la República, a través del Ministerio del Interior y Seguridad Pública, al intendente y a las Cortes de Apelaciones con asiento en la región respectiva y al Presidente de cada rama del Congreso Nacional, por intermedio de su respectivo Secretario.
+
+El presidente del consejo cesará en su cargo si incurriere en alguna de las causales descritas en el artículo 40 de la presente ley, por remoción fundada acordada por los dos tercios de los consejeros en ejercicio, o por renuncia aprobada por la mayoría de los consejeros en ejercicio.
+
+La moción de remoción podrá ser presentada por no menos de un cuarto ni más de un tercio de los consejeros en ejercicio y será votada públicamente en la sesión ordinaria inmediatamente siguiente, la cual será presidida por aquel de los presentes que haya desempeñado más recientemente el cargo de presidente y, en último término, por el consejero en ejercicio de más edad.
+
+En caso de adoptarse el acuerdo de remoción, el que siempre deberá ser fundado, corresponderá, en la misma sesión ordinaria, elegir al nuevo presidente del consejo, el cual durará en el cargo hasta completar el período que restaba a quien sucede.
+
+Si la moción de remoción fuere rechazada, no podrá renovarse por los mismos hechos en que se fundó, salvo que se aportaren nuevos antecedentes o que se fundare en el incumplimiento de alguna de las obligaciones establecidas en el artículo siguiente.
+
+La renuncia deberá ser depositada por el presidente en la secretaría a que se refiere el artículo 43, la que se pondrá en votación de carácter público en la sesión ordinaria inmediatamente siguiente a la fecha de su presentación. La sesión en que se vote la renuncia será pública. Si la renuncia fuere aprobada, o si el presidente incurriere en alguna de las causales descritas en el artículo 40, el nuevo presidente elegido durará en dicho cargo hasta completar el período que restaba a quien sucede.
+
+En caso de ausencia o impedimento temporal del presidente del consejo, ejercerá dicha presidencia el consejero que en el acto se elija, quien se desempeñará como tal mientras dure la ausencia o impedimento. Con todo, si la ausencia o impedimento excediere de noventa días corridos contados desde la elección de quien lo supliere, se procederá a una nueva elección. Las elecciones de que trata este inciso se ajustarán a lo dispuesto en el inciso primero del presente artículo, en lo que procediere.
+
+#### Artículo 30 ter
+
+Corresponderá al presidente del consejo regional:
+
+a) Disponer la citación del consejo a sesiones, cuando proceda, y elaborar la tabla de la sesión, dando cumplimiento a lo dispuesto en la letra r) del artículo 24.
+
+b) Abrir, suspender y levantar las sesiones en conformidad con el reglamento a que se refiere la letra a) del artículo 36.
+
+c) Presidir las sesiones y dirigir los debates.
+
+d) Ordenar que se reciba la votación, fijar su orden y proclamar las decisiones del consejo, requiriéndose informe de la División de Análisis y Control de Gestión cuando así lo disponga el reglamento a que se refiere la letra a) del artículo 36.
+
+e) Ejercer el derecho de voto dirimente en los casos en se produzca un empate en el resultado de las votaciones.
+
+f) Mantener el orden en el recinto, pudiendo solicitar, si lo estima necesario, el auxilio de la fuerza pública.
+
+g) Mantener la correspondencia del consejo con el intendente, con las Cortes de Apelaciones con asiento en la región, con el Tribunal Electoral Regional y con la contraloría regional respectiva. La correspondencia con cualquier otro cuerpo o persona se llevará a efecto por el secretario a que se refiere el artículo 43, en nombre del consejo y por orden del presidente.
+
+h) Suscribir las actas de las sesiones, las comunicaciones oficiales que se dirijan a nombre del consejo o de algún consejero y los otros documentos que requieran su firma.
+
+i) Oficializar la comunicación acerca de la adopción de acuerdos del consejo sobre los siguientes instrumentos del gobierno regional, así como sus respectivas modificaciones:
+
+1) Plan de Desarrollo de la Región.
+
+2) Plan Regional de Ordenamiento Territorial.
+
+3) Planes Reguladores Comunales.
+
+4) Planes Reguladores Intercomunales.
+
+5) Convenios de Programación.
+
+6) Convenios Territoriales.
+
+7) Reglamentos Regionales.
+
+8) Anteproyecto Regional de Inversiones.
+
+j) Suscribir, sólo para efectos de ratificar el acuerdo correspondiente del consejo regional, los actos administrativos que formalicen la aprobación de todos los instrumentos contemplados en la letra precedente, con excepción de los Convenios de Programación.
+
+k) Dar cuenta pública, en el mes de diciembre de cada año, tanto al intendente como al consejo, así como a los alcaldes de la región y a la comunidad regional, de las normas aprobadas, resoluciones adoptadas, acciones de fiscalización ejecutadas por el consejo y todo otro hecho relevante que deba ser puesto en conocimiento de las autoridades indicadas.
+
+l) Actuar en representación del consejo en los actos de protocolo que correspondan.
+
+m) Cuidar de la observancia del reglamento a que se refiere la letra a) del artículo 36.
+
 #### Artículo 31
 
 Para ser elegido consejero regional, se requerirá ser ciudadano con derecho a sufragio, mayor de edad, haber cursado la enseñanza media o su equivalente y tener residencia en la región durante un plazo no inferior a dos años, contado hacia atrás desde el día de la elección.
@@ -590,7 +656,7 @@ Sin perjuicio de lo anterior, cualquier persona que esté en conocimiento de hec
 
 Corresponderá al consejo regional:
 
-a) Aprobar el reglamento que regule su funcionamiento, en el que se podrá contemplar la existencia de diversas comisiones de trabajo;
+a) Aprobar el reglamento que regule su funcionamiento, en el que se podrá contemplar la existencia de diversas comisiones de trabajo cuyas presidencias no podrán ser ejercidas por el presidente del consejo;
 
 b) Aprobar los reglamentos regionales;
 
@@ -608,7 +674,7 @@ e) Resolver, sobre la base de la proposición del intendente, la distribución d
 
 f) Aprobar, sobre la base de la proposición del intendente, los convenios de programación que el gobierno regional celebre;
 
-g) Fiscalizar el desempeño del intendente regional en su calidad de presidente del consejo y de órgano ejecutivo del mismo, como también el de las unidades que de él dependan, pudiendo requerir del intendente la información necesaria al efecto. Si después de transcurrido el plazo de veinte días hábiles a que se refiere el artículo 24 letra q), no se obtiene respuesta satisfactoria, el consejo en su conjunto o cada consejero podrá recurrir al procedimiento establecido en el artículo 14 de la Ley Nº 18.575 para que el juez ordene la entrega de la información. Ésta sólo podrá denegarse si concurre alguna de las causales especificadas en el artículo 13 de la misma Ley;
+g) Fiscalizar el desempeño del intendente regional en su calidad de órgano ejecutivo del mismo, como también el de las unidades que de él dependan, pudiendo requerir del intendente la información necesaria al efecto. Si después de transcurrido el plazo de veinte días hábiles a que se refiere el artículo 24 letra q), no se obtiene respuesta satisfactoria, el consejo en su conjunto o cada consejero podrá recurrir al procedimiento establecido en el artículo 14 de la Ley Nº 18.575 para que el juez ordene la entrega de la información. Ésta sólo podrá denegarse si concurre alguna de las causales especificadas en el artículo 13 de la misma Ley;
 
 h) Dar su acuerdo al intendente para enajenar o gravar bienes raíces que formen parte del patrimonio del gobierno regional y respecto de los demás actos de administración en que lo exijan las disposiciones legales, incluido el otorgamiento de concesiones;
 
@@ -1008,9 +1074,7 @@ b) Un programa de inversión regional, en el que se incluirán los recursos del 
 
 El proyecto de presupuesto del gobierno regional será propuesto por el intendente al consejo regional para su aprobación. El proyecto de presupuesto así aprobado será enviado al Ministerio de Hacienda, en conformidad con los plazos y procedimientos que éste establezca de acuerdo a lo dispuesto en el Decreto Ley N° 1.263, de 1975, sin perjuicio del ulterior ejercicio por el consejo regional de la atribución a que se refiere la letra e) del artículo 36.
 
-En todo caso el calendario de formulación del Presupuesto del Sector Público a que se refiere el Decreto Ley N° 1.263, de 1975, contemplará una etapa de evaluación y discusión, entre el nivel central y cada una de las regiones, respecto del proyecto de presupuesto propuesto en conformidad a este artículo.
-
-Para estos efectos cada año los consejos regionales designarán a uno de sus integrantes para que conjuntamente con el intendente los represente en ella.
+En todo caso el calendario de formulación del Presupuesto del Sector Público a que se refiere el Decreto Ley N° 1.263, de 1975, contemplará una etapa de evaluación y discusión, entre el nivel central y cada una de las regiones, respecto del proyecto de presupuesto propuesto en conformidad a este artículo. Para estos efectos cada año el presidente del consejo y el intendente representarán al gobierno regional en dicha etapa.
 
 Los ministerios, a través de los secretarios regionales ministeriales, y dentro de los sesenta días siguientes a la publicación de la Ley de Presupuestos, deberán informar a los gobiernos regionales y a los Senadores y Diputados de la respectiva región, la inversión y programas de gastos que realizarán en la región, desglosada por iniciativa, unidad territorial donde se desarrollará, monto de recursos comprometidos, beneficiarios y resultados esperados.
 
