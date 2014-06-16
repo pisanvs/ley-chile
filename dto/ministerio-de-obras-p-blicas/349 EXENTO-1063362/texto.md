@@ -1,0 +1,9 @@
+Por Decreto M.O.P. (Exento) N º349, de 20 de mayo de 2014, y en base a la facultad otorgada por los artículos 3º letra a), 14 letra e) y 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 84, 86, 87, 88 y 89, para la obra: "Construcción Mejoramiento Interconexión Vial P-20 P-40, Arauco", que figuran a nombre de URRUTIA SOTO EXEQUIELA ANACLICIA Y y PUGA WILSON HILDA SOFIA Y OTROS, roles de avalúo 168-37 y 167-6, Comuna de ARAUCO, VIII Región del BIO BIO, superficies 154 m2, 1.593 m2, 4.001 m2, 166 m2 y 409 m2. respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALE GOÑI, CONSUELO LORETO ZULOAGA SANHUEZA y JUAN ANDRES TEPPER LAVANDEROS, mediante informes de tasación de 20 de marzo de 2013, complementados por acta de 19 de noviembre de 2013, fijaron el monto de la indemnización provisional en la cantidad de $237.411.-, para el lote Nº84, $1.334.400.-, para el lote Nº86, $3.269.
+
+- **602.-** para el lote Nº87, $209.
+
+- **200.-** para el lote Nº88 y $490.
+
+- **800.-** para el lote Nº89. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
