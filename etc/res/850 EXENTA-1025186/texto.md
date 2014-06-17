@@ -30,12 +30,8 @@ Resuelvo:
 
 > **Nota.** NOTA 1 El Artículo Primero de la Resolución 992, Economía, publicada el 30.04.2013, prorrogo por un año el plazo fijado por la RE Nº 955 citada en la nota anterior.
 
-> **Nota.** NOTA 2 El Artículo Primero de la Resolución 1171 Exenta, Economía, publicada el 06.05.2014, prorrogo por un año el plazo fijado por la Resolución Nº 992 citada en la nota anterior.
+> **Nota.** NOTA 2 El Artículo Primero de la Resolución 1171 Exenta, Economía, publicada el 06.05.2014, prorrogo por un año el plazo fijado por la RE Nº 992 citada en la nota anterior.
 
 > **Nota.** NOTA 3 El N° 1 de la Resolución 1611 Exenta, Economía, publicada el 17.06.2014, ordena incorporar en la parte resolutiva de la presente norma, un nuevo numeral 4, en la forma que aparece en este texto actualizado. Sin embargo, se hace presente que ya existía un N° 4.
-
-> **Nota.** NOTA 4 El Artículo primero de la Resolución 2207 Exenta, Economía, publicada el 05.05.2015, prorrogó por un año el plazo fijado por la Resolución Nº 1171.
-
-> **Nota.** NOTA 5 El Artículo primero de la Resolución 2976 Exenta, Economía, publicada el 30.04.2016, prorrogó por un año el plazo fijado por la Resolución Nº 2207.
 
 Anótese y publíquese.- Juan Luis Ansoleaga Bengoechea, Director Nacional Servicio Nacional de Pesca.
