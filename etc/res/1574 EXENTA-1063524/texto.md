@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.574, de 13 de junio de 2014, de esta Subsecretaría, recházanse solicitudes números 208031001, 99031005, 210012001, 207123005, 207123013, 207123017 y 207123016, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura, y artículo 14 bis del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 13 de junio de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
