@@ -204,13 +204,13 @@ Para solicitar cualquier tipo de préstamo el afiliado deberá tener, por lo men
 
 #### Artículo 8º
 
-El reintegro de los préstamos señalados en las letras a) y b) del artículo 5º, deberá hacerse en cuotas mensuales, iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento. La tasa de interés que devengarán estos préstamos será fijada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, y consistirá en un porcentaje del interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+El reintegro de los préstamos señalados en las letras a) y b) del artículo 6º, deberá hacerse en cuotas mensuales, iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento. La tasa de interés que devengarán estos préstamos será fijada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, y consistirá en un porcentaje del interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
 
-Para que el afiliado solicite un nuevo préstamo de aquellos señalados en las letras a), b) y c) del artículo 5º, será necesario haber pagado la totalidad de la deuda que mantenga por el mismo concepto.
+Para que el afiliado solicite un nuevo préstamo de aquellos señalados en las letras a), b) y c) del artículo 6º, será necesario haber pagado la totalidad de la deuda que mantenga por el mismo concepto.
 
 #### Artículo 9º
 
-El afiliado, de manera previa a la obtención de cualquiera de los prestamos señalados en el artículo 5º, deberá autorizar expresamente y por escrito al Servicio de Bienestar para realizar estos descuentos en sus remuneraciones para así pagar dichos préstamos.
+El afiliado, de manera previa a la obtención de cualquiera de los prestamos señalados en el artículo 6º, deberá autorizar expresamente y por escrito al Servicio de Bienestar para realizar estos descuentos en sus remuneraciones para así pagar dichos préstamos.
 
 Estos descuentos en su conjunto no podrán ser superiores al quince por ciento (15%) de la remuneración total del afiliado.
 
@@ -256,7 +256,7 @@ proceda, de acuerdo con lo dispuesto en el inciso tercero del
 
 del Reglamento General.
 
-El Contador del Servicio de Bienestar actuará como Secretario del Consejo Administrativo, teniendo derecho a voz pero no a voto. Los representantes de los trabajadores afiliados en el Consejo Administrativo, a que se refiere esta letra, deberán cumplir los requisitos establecidos en el artículo 12º de este Reglamento.
+El Jefe del Servicio de Bienestar actuará como Secretario del Consejo Administrativo, teniendo derecho a voz pero no a voto. Los representantes de los trabajadores afiliados en el Consejo Administrativo, a que se refiere esta letra, deberán cumplir los requisitos establecidos en el artículo 13º de este Reglamento.
 
 #### Artículo 11º
 
@@ -268,7 +268,7 @@ La elección de los representantes de los trabajadores afiliados en el Consejo A
 
 - **b)** y
 
-- **c)** del artículo 9º y por un representante de los afiliados de la letra
+- **c)** del artículo 10º y por un representante de los afiliados de la letra
 
 - **d)** del mismo artículo, elegidos por ellos mismos y será público.
 
@@ -372,7 +372,7 @@ No podrá establecerse en las normas o procedimientos internos, diferencia algun
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar del primer día hábil del mes siguiente de efectuado el descuento de su remuneración mensual, de la cuota de incorporación y el aporte mensual. Los subsidios y préstamos contemplados en los artículos 4º y 5º del Reglamento, podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar del primer día hábil del mes siguiente de efectuado el descuento de su remuneración mensual, de la cuota de incorporación y el aporte mensual. Los subsidios y préstamos contemplados en los artículos 5º y 6º del Reglamento, podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
 
 #### Artículo 20º
 
@@ -400,7 +400,7 @@ Los afiliados deberán estar al día en el cumplimiento de las obligaciones cont
 
 #### Artículo 25º
 
-En el caso de los Fondos a Rendir Cuenta señalados en la letra c) del artículo 5º, se dispone que, si el afiliado no diera cumplimiento en el plazo establecido, deberá descontarse de inmediato el total del fondo girado. Además, se deberá calificar la causa de la no rendición oportuna de cuenta y, en caso de engaño debidamente comprobado, el afiliado podrá ser sancionado en la forma establecida en el Reglamento General, para cuyo efecto se pondrán los antecedentes en conocimiento del Consejo Administrativo.
+En el caso de los Fondos a Rendir Cuenta señalados en la letra c) del artículo 6º, se dispone que, si el afiliado no diera cumplimiento en el plazo establecido, deberá descontarse de inmediato el total del fondo girado. Además, se deberá calificar la causa de la no rendición oportuna de cuenta y, en caso de engaño debidamente comprobado, el afiliado podrá ser sancionado en la forma establecida en el Reglamento General, para cuyo efecto se pondrán los antecedentes en conocimiento del Consejo Administrativo.
 
 En los casos en que el Servicio de Bienestar haya otorgado un Fondo a Rendir Cuenta para pagar atenciones médicas, los socios afiliados a una Isapre tendrán la obligación de restituir al Servicio de Bienestar las bonificaciones que perciban de éstas. En el evento que no efectúe el ingreso, el afiliado podrá ser sancionado en la forma establecida en el Reglamento General, para cuyo efecto se pondrán los antecedentes en conocimiento del Consejo Administrativo.
 
@@ -426,9 +426,11 @@ Los beneficios otorgados bajo la vigencia del Reglamento aprobado por el decreto
 
 #### Artículo 3º
 
-Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto en el artículo 9, serán elegidos dentro del plazo de 60 días, contados desde la fecha en que el presente Reglamento entre en vigencia, y asumirán a contar del día 1º del mes siguiente a aquel en que se realice la votación.
+Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto en el artículo 10, serán elegidos dentro del plazo de 60 días, contados desde la fecha en que el presente Reglamento entre en vigencia, y asumirán a contar del día 1º del mes siguiente a aquel en que se realice la votación.
 
 El Sindicato de Trabajadores deberá designar los representantes, titulares y suplentes, dentro del mismo plazo indicado en el inciso anterior, cuando proceda, de acuerdo al inciso 3º del artículo 18º del Reglamento General.
+
+> **Nota.** En la modificación de la letra c) del Artículo Único del Decreto 63 Exento, Trabajo, publicado el 21.06.2014, la referencia hecha al articulo 13 transitorio debe entenderse hecha al presente artículo.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro del Trabajo y Previsión Social.- Hernán de Solminihac Tampier, Ministro de Minería.
 
