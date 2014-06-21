@@ -156,7 +156,7 @@ Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-San Martín Balmaceda Av. N-S
+San Martín Catedral Av. N-S
 
 Libertador
 
@@ -217,6 +217,26 @@ g) Vehículos acondicionados para personas
 discapacitadas a que se refiere el artículo 60
 
 de la ley Nº 17.238;
+
+h) Vehículos que circulen por Av. Santa Rosa
+
+y calle San Francisco, entre Av. Libertador
+
+Bernardo O' Higgins (Alameda) y calle Placer,
+
+utilizados por la inspección fiscal del
+
+"contrato de Concesión Habilitación Corredor
+
+de Transporte Público Av. Santa Rosa Sector
+
+Alameda - A.Vespucio" y por el concesionario
+
+de dicha obra para labores de mantención de las
+
+vías señaladas; siempre que éstos se encuentren
+
+debidamente identificados como tales.
 
 Los vehículos no contemplados en las letras
 
