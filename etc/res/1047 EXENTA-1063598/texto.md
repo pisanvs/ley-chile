@@ -1,0 +1,11 @@
+RECTIFICA DECRETOS Nos 395, 396, 398, 399, 400 Y 401 EXENTOS, TODOS DE 2014, QUE OTORGAN CONCESIONES ONEROSAS DIRECTAS CONTRA PROYECTO DE INMUEBLES FISCALES EN LA REGIÓN DE ANTOFAGASTA
+
+Mediante resolución exenta Nº 1.047 de 18 de junio de 2014, el Ministerio de Bienes Nacionales viene a rectificar el número primero de los decretos exentos Nº 395 de Concesionaria Crucero Este Uno SpA; Nº 396 de Concesionaria Crucero Este Dos SpA; Nº 398 de Concesionaria Crucero Oeste Cinco SpA; Nº 399 de Concesionaria Crucero Oeste Dos SpA; Nº 400 de Concesionaria Crucero Oeste Tres SpA y Nº 401 de Concesionaria Crucero Oeste Cuatro SpA, todos de fecha 15 de mayo de 2014, del Ministerio de Bienes Nacionales, precisando que los inmuebles fiscales en ellos individualizados, se encuentran amparados por la inscripción global a nombre del Fisco que rola a fojas 49 vta. Nº 57, en el Registro de Propiedad del año 1928, del Conservador de Bienes Raíces de El Loa-Calama. Los extractos de los decretos exentos Nº 395, 398, 400 y 401 antes referidos, fueron publicados en el Diario Oficial el día 29 de mayo de 2014.
+
+Se rectifica además el decreto exento Nº 396 de 2014, de Concesionaria Crucero Este Dos SpA, precisando que los roles del Servicio de Impuestos Internos de los lotes A, B y C son los números 6903-29, 6903-30 y 6903-31, y que el deslinde Este del Lote A, debe decir "4,94 MW".
+
+Asimismo se rectifica el decreto exento Nº 399 de 2014, de Concesionaria Crucero Oeste Dos SpA, precisando que los roles del Servicio de Impuestos Internos de los Lotes A, B y C son los números 6903-32, 6903-33, 6903-34; que el deslinde Oeste del Lote C, debe decir "en trazo GF de 303,42 metros"; que la fecha de vencimiento de la Garantía de Seriedad de la Oferta corresponde al 1 de junio de 2014 y que la vigencia de la boleta de garantía de fiel cumplimiento de contrato señalada en el número 23 corresponde a 48 meses.
+
+La resolución rectificatoria con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, abagada, Jefa de División Jurídica.
