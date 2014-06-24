@@ -24,7 +24,7 @@ Sin perjuicio de lo anterior, el diseño y emplazamiento de la publicidad que se
 
 #### Artículo 2º
 
-Se regirá por la presente Ordenanza y requerirá permiso o autorización municipal y estará afecta al pago de derechos, toda publicidad o propaganda que se realice en la vía pública y la que ejecuten las empresas que realicen la actividad económica de publicidad, que puede ser vista u oída desde la vía pública.
+Toda publicidad o propaganda que se emplace o realice dentro del territorio comunal, ya sea en una propiedad privada, en un inmueble municipal o en Bienes Nacionales de Uso Público, y que sea percibida desde el espacio público, se regirá por la presente ordenanza y estará afecta al pago de los derechos municipales correspondientes, de acuerdo a lo indicado en la Ordenanza de Derechos Municipales vigente. Quedará exceptuada del pago de derechos municipales aquella publicidad o propaganda señalada en el Artículo 14º de la presente Ordenanza.
 
 #### Artículo 3º
 
@@ -103,6 +103,10 @@ c) Los avisos instalados en el interior de los negocios.
 d) Los rótulos o placas de establecimientos de beneficencia, de instrucción y de profesionales en sus oficinas o en las obras en ejecución con permiso municipal.
 
 e) Las vitrinas cuando se destinen sólo a la exhibición de productos o como soportes del nombre del local.
+
+f) La publicidad que sólo dé a conocer el giro de un establecimiento y se encuentre adosada a la o las edificaciones donde se realiza la actividad propia del giro.
+
+g) Los avisos publicitarios desplegados en bienes nacionales de uso público e inmuebles municipales, de acuerdo a lo establecido en el artículo 21.2.2.5. de esta ordenanza.
 
 No obstante esta propaganda deberá ceñirse a las disposiciones técnicas de la presente Ordenanza.
 
@@ -488,7 +492,7 @@ E. TIPO DE PUBLICIDAD
 
 Directa.
 
-21.2.2.3. PUBLICIDAD EN CORTINAS DE ANDAMIOS DE OBRAS DE REPARACIÓN O MANTENCIÓN.
+21.2.2.3. Publicidad en cortinas de andamios de obras de reparación o mantención en edificios de comunidades socialmente vulnerables y edificios patrimoniales.
 
 DESCRIPCIÓN:
 
@@ -610,6 +614,44 @@ E.- TIPO DE PUBLICIDAD
 
 Directa o Indirecta.
 
+21.2.2.5 Publicidad en cierros provisorios de obras de construcción nueva, mantención, reparación y/o restauración en bienes nacionales de uso público e inmuebles municipales.
+
+REQUISITOS:
+
+A.- LOCALIZACIÓN
+
+Instalados sobre un solo plano formado por cierros provisorios de las faenas correspondientes a obras de construcción nueva, mantención, reparación y/o restauración en bienes nacionales de uso público e inmuebles municipales, aprobados por la Dirección de Obras Municipales.
+
+Estos avisos son esencialmente transitorios y no se podrá desplegar en ellos iconografías o mensajes que relacionen a una o más empresas privadas con la Municipalidad de Providencia.
+
+B.- MATERIALIDAD
+
+1.0.- En Bienes Inmuebles Municipales
+
+1.- Emplazamiento y Diseño: El interesado presentará un proyecto de emplazamiento y diseño de acuerdo a las condiciones fijadas en la OGUC. Con todo, las estructuras de andamios propuestas garantizarán el ingreso expedito de bomberos, así como la evacuación de los residentes en caso de incendio u otras emergencias. Asimismo, el proyecto propondrá medidas adicionales que impidan el ingreso y escalamiento de extraños al inmueble.
+
+2. Materialidad de las cortinas: Tela liviana, flexible y semitransparente.
+
+3. Contenido: En el diseño del aviso publicitario tanto las imágenes como los textos se ajustarán a las normas que resguardan el orden público, la moral y las buenas costumbres.
+
+4. Cronograma: El proyecto incluirá cronograma en el que se detallará las fechas de inicio y término de cada una de las obras de intervención consideradas en el o en los inmuebles postulados. Con todo, el o los avisos publicitarios sólo podrán ser instalados al inicio de las obras.
+
+2.0.- En Bienes Nacionales de Uso Público.
+
+La que apruebe el Director de Obras Municipales.
+
+C.- CALIDAD LUMÍNICA
+
+Iluminados.
+
+D.- DIMENSIONES
+
+Máximo del tamaño del andamio o del cierro, según corresponda.
+
+E.- TIPO DE PUBLICIDAD
+
+Directa o Indirecta.
+
 #### Artículo 22°
 
 En aquellas zonas o inmuebles declarados Zonas Típicas (ZT) o Monumentos Nacionales (MN), solo podrán anunciarse los locales o instituciones que allí tengan su sede con avisos tipo letras sobrepuestas, o bajorrelieve, previo visto bueno del Consejo de Monumentos Nacionales. En aquellas zonas o inmuebles declarados Zonas de Conservación Histórica (ZCH) o Inmuebles de Conservación Histórica (ICH), se deberá dar cumplimiento a lo señalado en el Reglamento Municipal de Intervención para Zonas e Inmuebles de Conservación Histórica, de acuerdo a lo señalado en el artículo 5.4.02.- de la Ordenanza Local del Plan Regulador Comunal de Providencia 2007.-
@@ -619,6 +661,8 @@ En aquellas zonas o inmuebles declarados Zonas Típicas (ZT) o Monumentos Nacion
 Conforme al Plan Regulador Comunal vigente, en las distintas zonas de uso de suelo se aceptarán los tipos de letreros que se indican en el siguiente cuadro:
 
 En cada una de las zonas definidas por el Plan Regulador Metropolitano de Santiago (PRMS), que se encuentren reconocidas por el Plan Regulador Comunal vigente, tales como las Zonas de Interés Metropolitano (ZIM) y las Zonas de Equipamiento Metropolitano o Intercomunal (ZEMol), se aceptarán las tipologías de publicidad correspondientes a la zona de uso de suelo que enfrenten por cada uno de sus lados. Por su parte, cada uno de los frentes de la Zona Especial ex CCU, se asimilará a la zona de uso de suelo UpEC, Uso preferentemente de Equipamiento Comercial.
+
+> **Nota.** El 1.5 del numeral Nº 1 de la Ordenanza Nº 131, M. de Porvidencia, publicada el 24.06.2014, modifica la presente norma en el sentido de agregar en el cuadro de tipologías de publicidad el texto que la referida norma indica.
 
 ## Capítulo VI
 
@@ -630,23 +674,21 @@ Quedará estrictamente prohibido dentro de la Comuna las siguientes expresiones 
 
 A) Los avisos de publicidad o propaganda que alteren las relaciones entre vanos, muros, pilares y vigas, como asimismo aquellos que a juicio de la Dirección de Obras Municipales afecten en general la estética del conjunto o del sector en el cual se ubican.
 
-B) Cualquier clase de avisos en las fachadas de los edificios públicos, iglesias, monumentos, colegios, hospitales u otros servicios y en edificios declarados monumentos nacionales. Todo ello con excepción de aquel aviso que se refiere al nombre o destino del edificio.
+B) Letreros tipo lanza que se emplacen sobre antejardines o espacio público.
 
-C) Letreros tipo lanza que se emplacen sobre antejardines o espacio público.
+C) Aquellos que por su diseño dificulten la clara percepción de señalizaciones del tránsito o alumbrado público, así como también aquellos avisos que emitan o se asemejen a un dispositivo del tránsito o que produzcan confusión, ya sea por colores o intermitencia.
 
-D) Aquellos que por su diseño dificulten la clara percepción de señalizaciones del tránsito o alumbrado público, así como también aquellos avisos que emitan o se asemejen a un dispositivo del tránsito o que produzcan confusión, ya sea por colores o intermitencia.
+D) Toda publicidad o propaganda que contenga palabras, frases o símbolos subversivos, la que esté reñida con la moral o buenas costumbres, o la que importe evidente mal gusto o engaño a juicio exclusivo de la Municipalidad.
 
-E) Toda publicidad o propaganda que contenga palabras, frases o símbolos subversivos, la que esté reñida con la moral o buenas costumbres, o la que importe evidente mal gusto o engaño a juicio exclusivo de la Municipalidad.
+E) Letreros de tipo caminero y todos los avisos que utilicen como soporte el espacio de uso público o bienes que pertenecen al equipamiento de la ciudad, tales como calzadas, soleras, aceras, veredones, bandejones, postes, árboles, escaños, defensas del río Mapocho, Canal San Carlos, elementos ornamentales, etc., con la sola excepción de los paneles publicitarios que forman parte de los multipostes, kioscos, relojes o refugios peatonales, y de otros elementos de carácter público y de propiedad municipal que la autoridad comunal pudiera determinar.
 
-F) Letreros de tipo caminero y todos los avisos que utilicen como soporte el espacio de uso público o bienes que pertenecen al equipamiento de la ciudad, tales como calzadas, soleras, aceras, veredones, bandejones, postes, árboles, escaños, defensas del río Mapocho, Canal San Carlos, elementos ornamentales, etc., con la sola excepción de los paneles publicitarios que forman parte de los multipostes, kioscos, relojes o refugios peatonales, y de otros elementos de carácter público y de propiedad municipal que la autoridad comunal pudiera determinar.
+F) Avisos en los parques, plazas y jardines públicos que no formen parte de alguno de los proyectos de instalación de publicidad provisoria aprobados por la Dirección de Obras Municipales, de acuerdo a lo establecido en el artículo 21.2.2.5, a excepción de los permisos o concesiones otorgados por la Municipalidad de Providencia;
 
-G) Avisos en los parques, plazas, y jardines públicos que no formen parte del proyecto de habilitación aprobado por la Dirección de Obras.
+G) Avisos pintados en muros laterales o medianeros de edificios así como los pintados o colgados en cortinas metálicas o sistemas de cierre de locales.
 
-H) Avisos pintados en muros laterales o medianeros de edificios así como los pintados o colgados en cortinas metálicas o sistemas de cierre de locales.
+H) Los avisos luminosos, iluminados o proyectados, fijos o intermitentes, que molesten a los residentes de edificios o viviendas próximas, a juicio de la Dirección de Obras Municipales.
 
-I) Los avisos luminosos, iluminados o proyectados, fijos o intermitentes, que molesten a los residentes de edificios o viviendas próximas, a juicio de la Dirección de Obras Municipales.
-
-J) Toda la publicidad o propaganda incluida en los siguientes tipos:
+I) Toda la publicidad o propaganda incluida en los siguientes tipos:
 
 - La auditiva en general, incluyendo toda transmisión por altoparlantes ya sea fijos o móviles, en vehículos terrestres o aéreos.
 
@@ -654,13 +696,13 @@ J) Toda la publicidad o propaganda incluida en los siguientes tipos:
 
 - En lienzos horizontales en el espacio público o privado, con excepción de lo establecido en el artículo 13 inciso 2º.
 
-K) Los letreros adosados o escritos sobre los cristales.
+J) Los letreros adosados o escritos sobre los cristales.
 
-L) Publicidad o propaganda en cierros temporales, con excepción de los avisos publicitarios en las cortinas de andamios de obras de reparación o mantención de edificios existentes, regulados en el artículo 21.2.2.3.- y los avisos publicitarios en cierros provisorios de obras de construcción nueva, regulados en el artículo 21.2.2.4.-
+K) Publicidad o propaganda en cierros temporales, con excepción de los avisos publicitarios en las cortinas de andamios de obras de reparación o mantención de edificios existentes, regulados en el artículo 21.2.2.3; de los avisos publicitarios en cierros provisorios de obras de construcción nueva, regulados en el artículo 21.2.2.4; y de los avisos publicitarios en cierros provisorios de obras de construcción, mantención, reparación y/o restauración de bienes nacionales de uso público e inmuebles municipales regulados en el artículo 21.2.2.5.
 
-M) Todo tipo de publicidad que se realice en las fajas del espacio público destinado a vialidad, a menos que forme parte de las obras de mobiliario urbano o equipamiento que concesione o ejecute directamente la Municipalidad.
+L) Todo tipo de publicidad que se realice en las fajas del espacio público destinado a vialidad, a menos que forme parte de las obras de mobiliario urbano o equipamiento que concesione o ejecute directamente la Municipalidad.
 
-N) Ubicar soportes de publicidad en las áreas verdes, sean éstas de carácter comunal, intercomunal o metropolitano, conforme a la letra d) del artículo 2.7.10.- de la Ordenanza General de Urbanismo y Construcciones.
+M) Ubicar soportes de publicidad en las áreas verdes, sean éstas de carácter comunal, intercomunal o metropolitano, conforme a la letra d) del artículo 2.7.10.- de la Ordenanza General de Urbanismo y Construcciones.
 
 ## Capítulo VII
 
