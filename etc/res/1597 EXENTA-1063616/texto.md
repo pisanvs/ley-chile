@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.597, de 18 de junio de 2014, de esta Subsecretaría, modifícase el numeral 1.- de la resolución exenta Nº 211 de 2014, de esta Subsecretaría, en el sentido de señalar que la distribución de la fracción artesanal de la cuota global anual de captura de Sardina austral correspondiente a la X Región asignada a la ASOCIACIÓN GREMIAL DE PRODUCTORES PELÁGICOS, ARMADORES ARTESANALES DE LA CALETA DE QUELLÓN DÉCIMA REGIÓN - AQUEPESCA A.G., sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, para el año de 2014, expresadas en toneladas, será la siguiente:
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 18 de junio de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
