@@ -5212,57 +5212,7 @@ La obligatoriedad en el cumplimiento de la Garantía de oportunidad podrá suspe
 
 Para los efectos de la Garantía de Calidad, a contar del 1 de julio de 2013, las prestaciones de salud individualizadas en el artículo 1º, sólo podrán ser otorgadas por aquellos prestadores inscritos en el Registro Nacional de Prestadores Individuales de Salud, de la Superintendencia de Salud, de acuerdo a lo dispuesto en el decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud y demás normativa atingente y vigente.
 
-Desde el 1 de julio de 2014 el tratamiento de los problemas de salud que a continuación se indican, podrá ser otorgado por prestadores de atención cerrada de alta complejidad, según lo definido en la letra a) del artículo 32 del decreto supremo Nº 15 de 2007, del Ministerio de Salud, si se encuentran acreditados en la Superintendencia de Salud:
-
-1. Cardiopatías Congénitas Operables en Menores de 15 años
-
-2. Cáncer de Mama en Personas de 15 años y más
-
-3. Tratamiento Quirúrgico de Escoliosis en Personas Menores de 25 años
-
-4. Tratamiento Quirúrgico de Cataratas
-
-5. Fisura Labiopalatina
-
-6. Cáncer en Personas Menores de 15 años
-
-7. Linfomas en Personas de 15 años y más
-
-8. Trastornos de Generación del Impulso y Conducción en Personas de 15 años y más, que requieren Marcapaso
-
-9. Cáncer Gástrico
-
-10. Cáncer de Próstata en Personas de 15 años y más
-
-11. Síndrome de Dificultad Respiratoria en el Recién Nacido
-
-12. Hemorragia Subaracnoidea Secundaria a Ruptura de Aneurismas Cerebrales
-
-13. Tumores Primarios del Sistema Nervioso Central en Personas de 15 años y más
-
-14. Leucemia en Personas de 15 años y más
-
-15. Trauma Ocular Grave
-
-16. Retinopatía del Prematuro
-
-17. Hipoacusia Neurosensorial Bilateral del Prematuro
-
-18. Cáncer Colorectal en Personas de 15 años y más
-
-19. Cáncer de ovario epitelial
-
-20. Cáncer Vesical en Personas de 15 años y más
-
-21. Osteosarcoma en Personas de 15 años y más
-
-22. Tratamiento Quirúrgico de Lesiones Crónicas de la Válvula Aórtica en Personas de 15 años y más
-
-23. Tratamiento de hipoacusia moderada en menores de 2 año
-
-24. Tratamiento Quirúrgico de Lesiones Crónicas de las Válvulas Mitral y Tricúspide en Personas de 15 años y más.
-
-A contar del 1 de julio de 2015, los prestadores de atención cerrada podrán otorgar aquellas prestaciones individualizadas en el artículo 1º de este decreto sólo si estuvieren acreditados en la Superintendencia de Salud.
+A partir del 30 de junio del año 2016, cuando las prestaciones de salud individualizadas en el artículo 1º del presente decreto sean otorgadas por prestadores de atención cerrada de alta complejidad, éstos deberán encontrarse acreditados en la Superintendencia de Salud.
 
 ## Título II
 
