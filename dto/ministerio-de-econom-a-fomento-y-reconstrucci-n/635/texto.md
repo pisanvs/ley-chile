@@ -112,6 +112,14 @@ Para hacer efectivo este derecho, cuando involucre un cambio de región, será c
 
 Las copias de los antecedentes que deben acompañarse a las solicitudes de inscripción en el Registro Artesanal, deberán ser autorizadas ante Notario, para tenerse por fieles de sus originales.
 
+#### Artículo 13
+
+En el caso que el Servicio haya procedido a declarar la caducidad de la inscripción artesanal de conformidad con lo dispuesto en el artículo 55 de la Ley General de Pesca y Acuicultura, el interesado podrá deducir la reclamación a que hace referencia dicha norma en el plazo de 3 meses contados desde la notificación de la citada resolución.
+
+La reclamación podrá ser presentada en un formulario que al efecto elaborará la Subsecretaría de Pesca y Acuicultura, y que estará a disposición de los interesados en la misma Subsecretaría, en las Direcciones Zonales de Pesca y en las Direcciones Regionales del Servicio y en los sitios de dominio electrónico correspondientes.
+
+Una vez recepcionados los antecedentes, la Subsecretaría podrá solicitar al Servicio los informes que se juzguen necesarios para resolver, los que deberán ser evacuados en un plazo de 1 mes contado desde su requerimiento. Evacuado el citado informe, o habiendo transcurrido el plazo antes señalado sin que haya sido remitido, la Subsecretaría de Pesca y Acuicultura dispondrá de un plazo de 15 días hábiles para resolver las reclamaciones presentadas mediante Resolución dictada al efecto.
+
 #### Artículo 1°
 
 Transitorio: Los pescadores artesanales que a la fecha de publicación de la Ley 18.892 y de sus modificaciones contenidas en las leyes N° 19.079 y 19.080, se encontraban desarrollando actividades extractivas en pesquerías declaradas en plena explotación, podrán inscribirse en el registro artesanal y continuar desarrollando dichas actividades, cuando reúnan los requisitos legales y reglamentarios, lo que deberán acreditar ante la correspondiente Dirección Regional del Servicio.
