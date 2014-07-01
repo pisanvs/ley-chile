@@ -1,0 +1,7 @@
+EXPROPIA DERECHO CUOTATIVO DE INMUEBLE QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.066, de 24 de junio de 2014, Serviu Región del Maule expropió derechos cuotativos que inciden en retazo de terreno que forma parte del inmueble en que se emplazaba Conjunto Habitacional Santos Martínez Etapa II, ciudad de Curicó, ubicado en Avenida Trapiche esquina calle Mataquito, superficie de 10.341,99 metros cuadrados de terreno, deslindes según plano de expropiación son: Nor-Poniente, con trazo B-C de 105 metros con Pasaje 1; Nor-Oriente, con trazo C-D 100,84 metros con calle Mataquito; Sur-Poniente, con trazo A-B de 82,16 metros con calle 1; y, Sur-Oriente, con trazo A-D de 120 metros con Avenida Trapiche.- Comisión peritos integrada por arquitecto Patricio Ulises Durán Marcos, constructor civil Rodrigo Antonio Silva Lazo, y arquitecto Pedro Pablo Cruz Weston, por informe de tasación de fecha 19 de junio de 2014 tasó en la suma de $500.000.- cada uno de los derechos cuotativos expropiados. Derechos a expropiar corresponden, según número rol avalúo, dirección propiedad, propietario aparente y porcentaje cuotativo: Rol 5010-52, Av. Trapiche 512, Dp. 14, José Santos Martínez, Rebolledo Garrido Raquel del Pil Y, 0,5923%; Rol 5011-15, Pje. 2 517 Dp 12, Serviu, %0,5982%.- Monto total consignar por 2 derechos cuotativos expropiados, es la suma de $1.000.000.- pagados de contado.
+
+Omar Gutiérrez Mesina, Director (PyT) Serviu Región del Maule.
