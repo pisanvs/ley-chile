@@ -58,6 +58,14 @@ c) Podrán delegarse en la autoridad sanitaria del país de procedencia, cuando 
 
 - Terminados.
 
+- Cueros desecados o salados sometidos a alguno de los siguientes tratamientos:
+
+a. Desecado o salazón por un período mínimo de 60 días.
+
+b. Fumigación con vapores de aldehído fórmico en un local herméticamente cerrado, a lo menos por 24 horas.
+
+c. Inmersión por 24 horas en una solución de aldehído fórmico al 1%.
+
 10. Sin perjuicio de lo anterior, se faculta al Jefe del Departamento de Protección Pecuaria del Servicio, para establecer listas de productos pecuarios que pueden importarse sin la necesidad de presentación de la monografía señalada en el numeral 4 de la mencionada resolución.
 
 Anótese, transcríbase y publíquese.- Antonio Yaksic Soulé, Director Nacional.
