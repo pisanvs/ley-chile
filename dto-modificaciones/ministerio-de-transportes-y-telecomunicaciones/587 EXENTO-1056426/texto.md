@@ -44,7 +44,7 @@ Curacautín, IX Región.
 
 Estudio Alternativo:
 
-- Dirección : Manuel Rodríguez Nº 885,
+- Dirección : Manuel Rodríguez Nº 893,
 
 Curacautín, IX Región.
 
@@ -72,7 +72,9 @@ plano horizontal.
 
 - Altura centro de radiación : 39,3 metros.
 
-- Pérdidas (cables, conectores) : 0,8 dB.
+- Pérdidas (cables,
+
+conectores) : 0,8 dB.
 
 - Pérdidas (divisor potencia) : 0,1 dB.
 
