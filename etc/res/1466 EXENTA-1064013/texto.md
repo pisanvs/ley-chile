@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.466, de 30 de mayo de 2014, de esta Subsecretaría, autorízase a UNIVERSIDAD ARTURO PRAT para realizar actividades experimentales de acuicultura sobre la especie Loco, cuyo objetivo general consiste en desarrollar su tecnología para reproducirlos en condiciones controladas, en la I Región de Tarapacá.
+
+Las actividades se desarrollarán por 24 meses, en terreno de playa Huayquique, I Región, con permiso de escasa importancia otorgado por resolución C.P. (IQQ) ordinario Nº 12.210/2, de 2014, de la Capitanía de Puerto de Iquique, y sus renovaciones, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico citado en Visto y en la resolución extractada.
+
+Valparaíso, 30 de mayo de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
