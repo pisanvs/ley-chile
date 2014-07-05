@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.639, de 20 de junio de 2014, de esta Subsecretaría, autorízase al CLUB DE PESCA Y CAZA "LICAN RAY", para efectuar una pesca de investigación y actividades experimentales de cultivo de conformidad con los términos técnicos de referencia del proyecto denominado "Captura de reproductores, frezado de ejemplares maduros, manejo de ovas fecundas y manejo de alevines", elaborados por la peticionaria y de acuerdo a lo indicado en el informe técnico (P.Inv.) Nº 112/2014 de la División de Administración Pesquera y del Informe Técnico (D.Ac.) Nº 475, de 2014, de la División de Acuicultura, ambas de esta Subsecretaría de Pesca y Acuicultura, los que se consideran parte integrante de la presente resolución.
+
+El objetivo del proyecto consiste en capturar reproductores asilvestrados de Truchas café o fario y eventualmente trucha arco iris, como especies principales en áreas de la cuenca alta del río Valdivia, para su posterior frezado de los ejemplares maduros, manejo de ovas fecundadas y manejo de alevines.
+
+La pesca de investigación se efectuará en el área comprendida por los cursos y cuerpos de agua de la cuenca del río Valdivia en la XIV Región de Los Ríos y la IX Región de la Araucanía, por el período de 8 meses contados desde la fecha de la presente resolución autorizándose la extracción, mediante luces y chinguillos, de 60 ejemplares de la especie Trucha café, desde el área individualizada en el numeral anterior.
+
+La peticionaria designa como persona responsable de la pesca de investigación a don Alejandro Koffmann O'Reilly.
+
+Valparaíso, 20 de junio de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
