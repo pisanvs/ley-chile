@@ -1,0 +1,33 @@
+INICIA PROCEDIMIENTO DE INVALIDACIÓN ADMINISTRATIVA DEL DECRETO Nº 14, DE 2012, CONFIERE TRASLADO A LOS INTERESADOS Y CONCEDE AUDIENCIA
+
+Núm. 26 exenta.- Santiago, 24 de junio de 2014.- Vistos: Lo dispuesto en la Constitución Política de la República; en la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en la Ley Nº 20.402, que crea el Ministerio de Energía estableciendo modificaciones al DL Nº 2.224, de 1978 y a otros cuerpos legales; en el decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, y sus modificaciones posteriores, en adelante e indistintamente "LGSE"; en el decreto supremo Nº 14, de 14 de febrero de 2012, del Ministerio de Energía, que fija tarifas de subtransmisión y de transmisión adicional y sus fórmulas de indexación; en el escrito que "Solicita la invalidación parcial del Acto Administrativo que indica", ingresado al Ministerio de Energía con fecha 7 de abril de 2014; en la presentación de doña Patricia Silva San Martín que solicita "Se tenga presente lo expuesto y por acompañado documento que indica", ingresado al Ministerio de Energía con fecha 25 de abril de 2014; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República; y
+
+Considerando:
+
+1. Que de conformidad con lo dispuesto en el artículo 112 de la LGSE, con fecha 14 de febrero de 2012, el Ministerio de Energía dictó el decreto supremo Nº 14, tomado de razón por la Contraloría General de la República el día 4 de abril de 2013 y publicado en el Diario Oficial con fecha 9 de abril de 2013, que fija tarifas de subtransmisión y de transmisión adicional y sus fórmulas de indexación, en adelante e indistintamente decreto Nº 14.
+
+2. Que con fecha 7 de abril de 2014 ingresó a esta Secretaría de Estado una presentación que solicita la invalidación parcial del decreto Nº 14, suscrita por los señores Víctor Alejandro Larenas Mantellero, en representación de Elektra Generación S.A.; Jorge Brahm Barril, en representación de Enlasa Generación Chile S.A.; Alejandro Paul Gómez y Juan José Chávez de la Fuente, en representación de Eléctrica Puntilla S.A.; Sebastián Pizarro de la Piedra, en representación de Empresas Diego de Almagro S.A.; Rodrigo Alejandro Sáez Rojas, en representación de EnorChile S.A.; Carl Weber Silva, en representación de HidroMaule S.A.; Patricio Ignacio Guerrero Teare, en representación de Potencia S.A. y Termoeléctrica Los Espinos S.A.; Jorge Concha Varas, en representación de Generación de Energía Nueva Degan S.A.; y Luis Fernando Ortega Santa María, en representación de Generadora del Pacífico S.A., acompañando en el primer otrosí de la misma, copia simple de las escrituras públicas en las que constarían los poderes de estas personas para actuar como mandatarios de las sociedades correspondientes.
+
+3. Que en el Tercer otrosí de la presentación singularizada en el considerando anterior, la cual corresponde un documento privado y no suscrita ante notario, se señalan como abogados patrocinantes y confieren poder a los abogados don Alejandro Vergara Blanco y doña Patricia Silva San Martín.
+
+4. Que con fecha 25 de abril de 2014, doña Patricia Silva San Martín, en representación de las empresas singularizadas en el considerando 2, de la presente resolución, ingresó al Ministerio de Energía una presentación denominada "Se tenga presente lo expuesto y por acompañado documento que indica".
+
+5. Que el artículo 22 de la ley Nº 19.880 señala que en los procedimientos administrativos que lleven adelante los Órganos de la Administración del Estado, los interesados podrán actuar por medio de apoderados, exigiendo en su inciso segundo que dicho poder "deberá constar en escritura pública o documento privado suscrito ante notario".
+
+6. Que, sin perjuicio de lo expuesto en el considerando anterior, y que las presentaciones de las empresas solicitantes y sus apoderados a esta Secretaría de Estado no cumplen con los requisitos establecidos en el artículo 22 de la ley Nº 19.880, en virtud del derecho de petición consagrado en el numeral 14 del artículo 19 de la Constitución Política de la República, y los principios de celeridad, economía procedimental y de la no formalización, establecidos respectivamente en los artículos 7, 9 y 13 de la ley Nº 19.880, se tendrán por presentadas las solicitudes y documentos ingresados.
+
+Resuelvo:
+
+I. Iníciase procedimiento administrativo de invalidación en contra del decreto supremo Nº 14, de 14 de febrero de 2012, del Ministerio de Energía, que fija tarifas de subtransmisión y de transmisión adicional y sus fórmulas de indexación.
+
+II. Confiérase Traslado a los interesados, para que en un plazo máximo de cinco días hábiles, contados desde la notificación del presente acto administrativo, se pronuncien respecto del procedimiento de invalidación iniciado, alegando cuanto consideren procedente en defensa de sus intereses, de conformidad con lo establecido en el artículo 55 de la ley Nº 19.880.
+
+III. Concédase audiencia a los interesados para el día miércoles 23 de julio de 2014, a las 11:00 horas, en las dependencias de este Ministerio, ubicadas en Avenida Libertador Bernardo O'Higgins Nº 1449, piso 13, Edificio Santiago Downtown II, comuna de Santiago, Región Metropolitana, a fin de que puedan realizar presentaciones, formular observaciones y aportar los documentos y antecedentes que estimen necesarios y pertinentes, en cualquier tipo de formato o soporte.
+
+IV. Deléganse en el Jefe de la División Jurídica, Sr. Hernán Moya Bruzzone, y los abogados de la División Jurídica Srta. Claudia Rojas Santelices y Sr. Pedro Fernández Zabala, facultades suficientes para los efectos de comparecer y dirigir la referida audiencia, debiendo informar al infrascrito acerca de todo lo obrado en ella en un plazo máximo de cinco días hábiles, contados desde la celebración de la misma.
+
+V. Notifíquese a los interesados de conformidad con lo establecido en el artículo 45 inciso final de la ley Nº 19.880.
+
+Anótese, publíquese y archívese.- Máximo Pacheco M., Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
