@@ -1168,7 +1168,7 @@ a. Por incumplimiento a lo dispuesto por el artículo 38º del presente reglamen
 
 b. Cobro de una tarifa superior a la registrada y/o calculada por la Secretaría Regional, cuando corresponda;
 
-c. Por cualquier incumplimiento a las normas técnicas y de seguridad aplicables a los vehículos; y
+c. Por la acumulación de tres infracciones a las normas técnicas y de seguridad aplicables a los vehículos, constatadas por parte de inspectores del Ministerio de Transportes y Telecomunicaciones, dentro del plazo de 180 días contados desde la fecha de la primera infracción.
 
 d. Por haber obtenido su certificado revisión técnica en contravención a lo dispuesto en el artículo 31º de este reglamento.
 
