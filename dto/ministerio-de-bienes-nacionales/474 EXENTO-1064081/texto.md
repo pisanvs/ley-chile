@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A SOCIEDAD "ANDES MAINSTREAM SpA"
+
+Mediante decreto exento Nº 474 de 9 de junio de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Andes Mainstream SpA", RUT Nº 76.037.037-1, el inmueble fiscal ubicado en Valle Lechuza, Sector Quebrada El Molle Alto, aproximadamente a 36 Km. al Sur de Tierra Amarilla, comuna de Tierra Amarilla, provincia de Copiapó, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 4800-4; amparado por la inscripción global que rola a fojas 527 vta. Nº 500 y por la inscripción denominada Estancia Fiscal Chañarcillo, que rola a favor del Fisco de Chile a fojas 44 Nº 42, ambas del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1964 y 1934, respectivamente; de una superficie aproximada de 359,72 has., singularizado en el Plano Nº 03103-1192-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.798,6.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El Contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Nivia Palma Manríquez, abogada, Jefa de División Jurídica.
