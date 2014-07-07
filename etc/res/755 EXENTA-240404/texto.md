@@ -126,6 +126,8 @@ y 902 a 928 MHz 80 mV/m a 3 metros
 
 2.400 a 2.483,5 MHz 50 mV/m a 3 metros
 
+Excepcionalmente, para aplicaciones que operen sólo al interior de recintos cerrados (casas, edificios, oficinas, fábricas, bodegas, almacenes, etc.), podrá emplearse la banda 915 - 928 MHz con una potencia máxima radiada de 200 mW.
+
 f) Radioalarmas que operen en alguna de las siguientes frecuencias: 915; 2.450; 5.800; 10.525 y 24.125 MHz y que cumplan con los requisitos que se indican a continuación:
 
 f.1) La portadora del aparato sensor operará dentro de las bandas que se indican:
@@ -226,7 +228,7 @@ La banda 17.100 17.300 MHz estará destinada para aplicaciones de monitoreo remo
 
 También podrá emplearse, para aplicaciones inductivas, la banda 7.400 - 8.800 kHz con una intensidad de campo que no exceda 9 dBµA/m a 10 metros.
 
-j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
+j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW y, al exterior de inmuebles con 20 mW, en ambos casos técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
 
 j.4) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servicio fijo, con las siguientes características técnicas:
 
