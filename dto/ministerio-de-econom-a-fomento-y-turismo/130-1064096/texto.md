@@ -1,0 +1,5 @@
+OFICIALIZA NOTIFICACIÓN DE CONSEJEROS Y DECLARA VACANTES CARGOS EN CONSEJO ZONAS DE PESCA V-VII REGIONES
+
+Por decreto supremo Nº 130, de 25 de abril de 2014, de este Ministerio, se designa como miembros del Consejo Zonal de Pesca V-VII, a don Guillermo Martínez González, titular, y Exequiel González Poblete, suplente, en representación de las Universidades o Institutos Profesionales reconocidos por el Estado (1º cargo). Se declaran vacantes los cargos en representación de las Universidades o Institutos Profesionales reconocidos por el Estado (2º cargo), armadores industriales de la pesca pelágica, armadores industriales de la pesca demersal, pequeños armadores industriales, trabajadores de la industria, pescador artesanal, mariscador o alguero y entidades sin fines de lucro.
+
+Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
