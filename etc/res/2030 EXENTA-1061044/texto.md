@@ -14,6 +14,8 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los grupos postulantes son los siguientes:
 
+.
+
 3. El número de grupos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Para determinar el número de subsidios a financiar, se considerarán los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la Calificación Definitiva del proyecto y de la adscripción a éste por parte del grupo seleccionado.
