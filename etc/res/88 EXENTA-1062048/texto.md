@@ -6,7 +6,7 @@ Considerando: Que, con el objeto de velar por la continuidad de los servicios de
 
 Resuelvo:
 
-1. Establécese como fecha y condiciones de cumplimiento de la exigencia contenida en el artículo 45º del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, para los servicios inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros el día 30 de enero del año 2019.
+1. Establécese como fecha y condiciones de cumplimiento de la exigencia contenida en el artículo 45º del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, para los servicios de taxis colectivos inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros el día 30 de enero del año 2019.
 
 2. Los terminales serán del tipo "terminal de vehículos", señalado en el artículo 45º bis, del decreto supremo Nº 212, de 1992, citado, y reglamentado respecto de su construcción en el decreto supremo Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo.
 
