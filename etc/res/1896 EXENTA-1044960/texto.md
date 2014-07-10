@@ -40,6 +40,10 @@ d) Personal que cumpla con lo indicado en la resolución exenta 1.092, del año 
 
 e) Diagrama de flujo de los ensayos.
 
+5º Los Organismos de Certificación y Laboratorios que a la fecha se encuentren autorizados por esta Superintendencia a certificar y ensayar mediante el Protocolo PC Nº 29/2, de fecha 06/03/2007, oficializado mediante la resolución exenta Nº 1.080, del 07/08/2007, quedarán autorizados para certificar y ensayar mediante el Protocolo PC Nº 29/2-2, de fecha 30/01/2014, oficializado mediante la resolución exenta Nº 1.896, de fecha 28/09/2012, ambas de la Superintendencia de Electricidad y Combustibles.
+
+6º Anula y reemplaza los ensayos indicados en las cláusulas 5.3 y 5.4 de la norma española UNE-EN 625:1996, señalados en el Capítulo II, del Protocolo de PC Nº 29/2, de fecha 06.03.2007, oficializado mediante resolución exenta SEC Nº 1.080, de fecha 07/08/2007.
+
 Una vez evaluados los antecedentes presentados, esta Superintendencia emitirá una resolución exenta sobre el particular.
 
 Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
