@@ -356,17 +356,9 @@ a) Aquellas prácticas complementarias o bien cuando se trate de cero
 
 labranza, manejo de rastrojos, uso de arado cincel, exclusión de uso de
 
-áreas de protección, aplicación de guanos tratados, compost, humus y
+áreas de protección, aplicación de guanos tratados, guanos rojos, compost, humus y
 
-abonos verdes. Estas prácticas sólo se podrán aplicar hasta un máximo de
-
-tres oportunidades sobre una misma superficie; no obstante, para el caso
-
-de aplicación de guanos tratados, compost, humus y abonos verdes en las
-
-Regiones de Arica y Parinacota, de Tarapacá, de Antofagasta y de Atacama,
-
-el máximo referido será de 6 oportunidades.
+abonos verdes.
 
 b) En planes de recuperación y en el caso de la incorporación de
 
