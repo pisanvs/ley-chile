@@ -364,7 +364,7 @@ Se exceptuarán de la exigencia de la receta cheque, las prescripciones de produ
 
 #### Artículo 32°
 
-Los cirujanos dentistas sólo podrán prescribir y adquirir preparados hipnóticos para administrarlos directamente a sus pacientes. El expendio de estos productos deberá efectuarse personalmente a esos profesionales en las farmacias mediante el uso de una receta cheque de emergencia, previa individualización del cirujano dentista, quien deberá registrar en un libro especial el detalle de su utilización.
+Los cirujanos dentistas sólo podrán prescribir y adquirir preparados psicotrópicos de la lista IV, para administrarlos directamente a sus pacientes y en una cantidad no superior a 30 unidades posológicas. El expendio de estos productos deberá efectuarse en las farmacias personalmente a estos profesionales, mediante el uso de recetas de su propiedad, las cuales deberán indicar que el expendio se solicita para el uso no personal sino que para el ejercicio de su profesión en terceros a los que presta servicios, quedando dichas recetas retenidas, previa individualización del profesional, y registradas en el libro al que alude el artículo 18º de este reglamento, registro que se dispondrá en una sección especialmente destinada a estas inscripciones.
 
 Los médicos veterinarios podrán prescribir y adquirir productos psicotrópicos para utilizarlos personalmente en el tratamiento de animales, mediante órdenes autorizadas por el Servicio de Salud correspondiente, y deberán anotar en un libro especial las dosis administradas, la fecha de su utilización, la especie animal y el nombre del propietario de éste. Los productos de la lista IV podrán prescribirlos mediante las correspondientes recetas retenidas, las que sin perjuicio de ajustarse a lo dispuesto en los artículos 23 y 25 de este reglamento, deberán además consignar su uso veterinario y el nombre y cédula de identidad del dueño o responsable del animal al que se efectúa la prescripción.
 
@@ -403,598 +403,6 @@ La infracción a las disposiciones del presente reglamento será sancionada por 
 #### Artículo 36º
 
 Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo 4, de 2 de enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las resoluciones 90, de 4 de febrero de 1970; 422, de 20 de mayo de 1971; 7.565, de 27 de noviembre de 1972; 124, de 7 de enero de 1976; 1.324, de 3 de octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la 1.707, de 21 de septiembre de 1982, del Director del Instituto de Salud Pública de Chile.
-
-## Título V
-
-De las Listas de Psicotrópicos
-
-DROGAS: LISTA I
-
-DET N,N- dietiltriptamina
-
-DMHP 3-(1,2-dimetilheptil)-I-
-
-hidroxi-7,8,9,10 tetrahidro -
-
-6,6, 9-trimetil-6H dibenzo
-
-b,d pirano
-
-DMT N,N-dimetiltriptamina
-
-LISERGIDA (LSD, LSD 25) N,N-dietil-D-lisergamida
-
-(dietil-amida del ácido-D-
-
-Lisérgico)
-
-MESCALINA 3,4,5-trimetoxifenetilamina
-
-PARAHEXILO 3-hexil-1-hidroxi-7,8,9,10
-
-- tetrahidro-6,6,9-
-
-trimetil-6H-dibenzo {b,d}
-
-pirano
-
-PSILOCIBINA 3-{2-) dimetil-amino)-etil}
-
-1H-indol-4-ol fosfato
-
-PSILOCINA, PSILOTSINA 3-(2-(dimetilamino)
-
-etil)-4-hidroxi-indol
-
-STP, DOM 2-amino-1-(2,5-dimetoxi
-
--4-metil) fenil propano
-
-TETRAHIDROCANABINOLES 6a (10a), 6a (7), 7, 8, 9,
-
-(todos los isómeros) 10, 9 (II)y sus variantes
-
-estereoquímicas
-
-FENCICLIDINA y sus
-
-análogos: 1-(1-fenilciclohexil)
-
-piperidina
-
-- TCP 1-{1-(2-tienil) ciclohexil}
-
-piperidina
-
-- PHP o PCPY 1-(1-fenilciclohexil)
-
-pirrolidina
-
-- PCE N-etil-1 fenilciclohexilamina
-
-FENMETRACINA 3-metil-2-fenilmorfolina
-
-GLUTETIMIDA 2-etil-2-fenilglutarimida
-
-LEFETAMINA SPA (-)-1-dimetilamino-1,2-
-
-difeniletano
-
-MECLOCUALONA 3-(o-clorofenil)2-metil-4-
-
-(3H) quinazolinona
-
-METACUALONA 2-metil-3-o-tolil-4(3H)-
-
-quinazolinona
-
-DMA dl-2,5-dimetoxi-alfa-
-
-metilfenetilamina
-
-PMA 4-metoxi-alfa-
-
-metilfeniletilamina
-
-CATINONA (-) alfa-aminopropiofenona
-
-TMA dl-3,4,5-trimetoxi-alfa-
-
-metilfeniletilamina
-
-DOET dl-2,5-dimetoxi-4-etil-alfa-
-
-metilfeniletilamina
-
-MMDA dl-5-metoxi-3,4-metilenedioxi
-
--alfa-metil-fenil etilamina
-
-MDMA dl-3,4-metilenedioxi-N, alfa
-
--dimetil-feniletilamina
-
-BROLAMFETAMINA DOB 2,5-Dimetoxi-4-
-
-bromoamfetamina
-
-MDA 3,4-metilenodioxiamfetamina
-
-TMA dl-3,4,5-trimetoxi-a-
-
-metilfeniletilamina
-
-Las sales de las sustancias enumeradas en esta Lista
-
-y toda sustancia alucinógena o de efectos nocivos
-
-análogos
-
-DROGAS: LISTA II
-
-AMFETAMINA (+-) -2-amino-1-fenilpropano y
-
-sus isómeros ópticos
-
-DEXAMFETAMINA (+-) -2-amino-1-fenilpropano
-
-FENDIMETRAZINA 3,4 dimetil-2-fenilmorfolina
-
-METAMFETAMINA
-
-(Desoxiefedrina) (+-) -2-metilamino-1-fenilpropano
-
-METILFENIDATO Eter metílico del ácido
-
-alfa-fenil-(2-piperidil
-
-acético)
-
-CATINA d-treo-2-amino-1-hidroxi-1-
-
-(Norpseudoefedrina) fenilpropano
-
-FENETILINA dl-3,7-dihidro-1,3-dimetil-
-
-7-(2-{(1-metil-2-
-
-feniletil) amino} - etil)-1-
-
-1H-purina-2,6 -dionia
-
-LEVANFETAMINA 1-alfa-metilfenetilamina
-
-LEVOMETANFETAMINA 1-N,alfa-dimetilfenetilamina
-
-RACEMATO DE METAMFETAMINA (+/-)-N,a-dimetilfenetilamina
-
-ANFEPRAMONA
-
-(dietilpropión) 2-(dietilamino)-propiofenona
-
-FENPROPOREX dl-3(=(-metilfenil) amino(
-
-propionitrilo
-
-FENTERMINA =(,=(-dimetilfenetilamina
-
-KETAMINA ±2-(2-clorofenil)-2-
-
-(metilamino)- ciclohexan-
-
-1-ona.
-
-MAZINDOL 5-(p-clorofenil) - 2,5-
-
-dihidro- 3H-imidazo )2,1-=()
-
-isoindol-5-ol)
-
-ZIPEPROL µ-(µ.-metoxibencil)
-
--4-(b-metoxifenetil)-1
-
--piperazinetanol.
-
-Las sales de las sustancias enumeradas en esta Lista,
-
-siempre que la existencia de esas sales sea posible.
-
-La condición de venta de los productos que contengan
-
-estas drogas o sus sales es "BAJO RECETA CHEQUE". \
-
-DROGAS: LISTA III
-
-ALOBARBITAL Acido 5,5 dialil-
-
-barbitúrico
-
-AMOBARBITAL Acido 5-etil-5-(3-metilbutil)
-
-barbitúrico
-
-APROBARBITAL Acido 5-alil-5-isopropil-
-
-barbitúrico
-
-BARBITAL Acido 5,5-dietilbarbitúrico
-
-BRALLOBARBITAL Acido 5-alil-5-(2-bromoalil)-
-
-barbitúrico
-
-BUTALBITAL Acido 5-alil-5-isobutil-
-
-barbitúrico
-
-CICLOBARBITAL Acido 5-(1-ciclohexen-1-il)
-
-5-etilbarbitúrico
-
-FENOBARBITAL Acido 5-etil-5-
-
-fenilbarbitúrico
-
-FLUNITRAZEPAM 5-(o-fluorofenil)-1,3-
-
-dihidro-1-metil-7-nitro-
-
-2H-1,4-benzodiacepin-2-ona
-
-HEXOBARBITAL Acido 5, (1-ciclohexenil)-
-
-1,5-dimetil barbitúrico
-
-MEFOBARBITAL Acido 5-etil-1-metil-5-
-
-fenilbarbitúrico
-
-MEPROBAMATO Dicarbamato de 2 metil-2-
-
-propil-1-3-propanodiol
-
-METABARBITAL Acido 5,5 dietil-1-
-
-metilbarbitúrico
-
-PENTOBARBITAL Acido 5-etil-5-
-
-(1-metilbutil)
-
-barbitúrico
-
-PROXIBARBAL Acido 5-alil-5-B-
-
-hidroxi-propil-barbitúrico
-
-SECBUTABARBITAL Acido 5-sec-butil-5-
-
-etilbarbitúrico
-
-SECOBARBITAL Acido 5-alil-5-
-
-(1-metilbutil)
-
-barbitúrico
-
-PENTAZOCINA -1,2,3,4,5,6-hexahidro-6-
-
-11-dimetil-3-(3-metil-2-
-
-butanil)-2,6-metano-3-
-
-benzazocin-8-ol
-
-BUPRENORFINA 21-ciclopropil-7-alfa-(S)-
-
-1-hidroxi-1,2,2-
-
-trimetilpropil- 6,14-endo-
-
-etano-6,7,8,14-
-
-tetrahidrooripavina
-
-Las sales de las sustancias enumeradas en esta Lista.
-
-La condición de venta de los productos que contengan
-
-estas drogas o sus sales es "BAJO RECETA CHEQUE".
-
-DROGAS: LISTA IV
-
-ACECARBROMAL N-acetil-N- bromodietilacetil-urea
-
-ALPRAZOLAM 8-cloro-1-metil-6-feni-4H-s-triazolo
-
-[4,3-a] [1,4] benzodiacepina
-
-BENZFETAMINA N-bencil-N,alfa-dimetifenetilamina
-
-BROMAZEPAM 7-bromo-1,3-dihidro-5-(2-piridil)-
-
-2H-1,4-benzodiacepin-2-ona
-
-BROMISOVAL alfa-bromo-beta-dimetil-
-
-propanoilurea
-
-BROTIZOLAM 2-bromo-4 (2-clorofenil)-9-metil-
-
-6H- tieno (3,2-f) (1,2,4 triazolo
-
-(4,3 -a) (1,4) diazepina
-
-BUTALLYLONAL Acido 5(2-bromoalil)-5-sec-butil
-
-barbitúrico
-
-BUTOBARBITAL ácido 5-butil-5-etilbarbitúrico
-
-CAMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1-
-
-metil-5-fenil-2H-1,4-benzodiacepin-2
-
--ona dimetilcarbamato (éster)
-
-CARBROMAL N(-alfa-bromo-alfa-etil-butiril-
-
-urea)
-
-CLOBAZAM 7-cloro-1-metil-5-fenil-1H-1,5-
-
-benzodiacepin-2,4(3H,5H)-diona
-
-CLOBENZOREX (+)-N-(O-clorobenzil)-alfa-
-
-metilfenetilamina
-
-CLONAZEPAM 5-(o-clorofenil)-1,3-dihidro-7-nitro
-
--2H-1,4-benzodiacepin-2-ona
-
-CLORALODOL 2-metil 4-(2,2,2-tricloro-1-
-
-hidroxietoxi) 2-pentanol
-
-CLORALOSA 1,2-o (2,2,2-tricloro etilideno)-
-
-alfa- D glucofuranosa
-
-CLORAZEPATO 7-cloro-2,3-dihidro-2-oxo-5-fenil-
-
-1H-1,4-benzodiacepin-3-ácido
-
-carboxílico
-
-CLORDIAZEPOXIDO 7-cloro-2-(metilamino)-5-fenil-3H-
-
-1,4-benzodiacepin-4-óxido
-
-CLORFENTERMINA 1-(p-clorofenil)-2 metil-2-
-
-aminopropano
-
-CLOTIAZEPAM 5-(o-clorofenil)-7-etil-1,3-dihidro-
-
-1-metil-2H-tieno[2,3-e]-1,4-diacepin
-
--2-ona
-
-CLOXAZOLAM 10-cloro-11b-(o-clorofeni)-2,3,7,11b
-
--tetrahidrooxazolo [3,2d][1,4]
-
-benzodiacepin-6(5H)-ona
-
-DELORAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro
-
--2H-1,4-benzodiacepin-2-ona
-
-DEXTROMETORFANO (+) 3-metoxi-N-metil-morfinano
-
-DIAZEPAM 7-cloro-1,3-dihidro-1-metil-5-fenil-
-
-2H-1,4-benzodiacepin-2-ona
-
-ETIZOLAM 4-(2-clorofenil) -2-etil-9-metil-
-
-6H-tieno (3,2 -f) -s-triazolo
-
-(4,3 -a) (1,4) diazepina
-
-ESTAZOLAM 8-cloro-6-fenil-4H-s-triazolo[4,3-a]
-
-[1,4] benzodiacepina
-
-ETCLORVINOL 1-cloro-3-etil-1-penteno-4-in-3-ol
-
-ETILANFETAMINA N-etil-alfa-metilfenetilamina
-
-ETINAMATO 1-Carbamato de etinilciclohexanol
-
-FENCANFAMINA N-etil-3-fenil-2-norbornanamina
-
-FENILETINILCARBINOL
-
-CARBAMATO Etil-bencil-carbamato
-
-FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)-1,3-
-
-dihidro-1-metil-2H-1,4-benzodiacepin
-
--2-ona
-
-FLURAZEPAM 7-cloro-1-[2-(dietilamino)etil]-5-(o
-
--fluorofenil)-1,3-dihidro-2H-1,4-
-
-benzodiacepin-2-ona
-
-HALAZEPAN 7-cloro-1,3-dihidro-5-fenil-2,2,2-
-
-trifluoroetil)-2H-1,4-benzodiacepin-
-
-2-ona
-
-HALOXAZOLAM 10-bromo-11b-(o-fluorofenil)-2 ,3,
-
-7, 11b-tetrahidrooxazolo[3,2-d][1,4]
-
-benzodiacepin-6(5H)-ona
-
-HEPTABARBO Acido 5-ciclo-hep-1-enil-5-etil-
-
-barbitúrico
-
-HIDRATO DE CLORAL 2-2-2-tricloroetano 1-1-diol
-
-KETAZOLAM 11-cloro-8,12b-dihidro-2,8-dimetil-
-
-12b-fenil-4H-[1,3]-oxazino[3,2-d]
-
-[1,4]benzodiacepin-4,7(6H)-diona
-
-LOFLAZEPATO DE
-
-ETILO etil 7-cloro-5-(o-fluorofenil)-2,3-
-
-dihidro-2-oxo-1H-1,4-benzodiacepin-
-
-3-carboxilato
-
-LOPRAZOLAM 6-(o-clorofenil)-2,4-dihidro-2-[(4-
-
-metil-1-piperacinil)metileno]-8-
-
-nitro-1H-imidazo[1,2-a][1,4]
-
-benciodiacepin-1-ona
-
-LORAZEPAM 7.cloro-5-(o-clorofenil)-1,3-dihidro
-
--3-hidroxi-2H-1,4-benzodiacepin-2-
-
-ona
-
-LORMETAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro
-
--3-hidroxi-1-metil-2H-1,4-
-
-benzodiacepin-2-ona
-
-MEDAZEPAM 7-cloro-2,3-dihidro-1-metil-5-fenil-
-
-1H-1,4-benzodiacepina
-
-MEFENOREX N-(3-cloropropil)-alfa-metil-
-
-fenetilamina
-
-METILPENTINOL 3-metil-1-pentil-3-ol
-
-METIPRILONA 3,3-dietil-5-metil-2,4-piperidino-
-
-diona
-
-MIDAZOLAM 8-cloro-6-(o-fluorofenil)-1-metil-4H
-
--imidazo[1,5-a] benzodiacepina
-
-N-ETILANFETAMINA d1-N, etil-alfa-metilfeniletilamina
-
-NIMETAZEPAM 1,3-dihidro-1-metil-7-nitro-5-fenil-
-
-2H-1,4-benzodiacepin-2-ona
-
-NITRAZEPAM 1,3-dihidro-7-nitro-5-fenil-2H-1,4-
-
-benzodiacepin-2-ona
-
-NORDAZEPAM 7-cloro-1,3-dihidro-5-fenil-2H-1,4-
-
-benzodiacepin-2-ona
-
-OXAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-5-
-
-fenil-2H-1,4-benzodiacepin-2-ona
-
-OXAZOLAM 10-cloro 2,3,7,11b-tetrahidro-2-
-
-metil-11b-fenitoxazolo [3,2-d][1,4]
-
-benzodiacepin-6(5H)-ona
-
-PEMOLINA 2-amino-5-fenil-oxazolina-4-ona
-
-PINAZEPAM 7-cloro-1,3-dihidro-5-fenil-1-(2-
-
-propinil)-2H-1,4-benzociacepin-2-ona
-
-PIPRADROL alfa, alfa-difenil-2-
-
-piperidinametanol
-
-PIROVALERONA 4'-metil-2-(1-pirrolidinil)
-
-valerofenona
-
-PRAZEPAM 7-cloro-1-(cliclopropilmetil)-1,3-
-
-dihidro-5-fenil-2H-1,4-benzodiacepin
-
--2-ona
-
-PROPILHEXEDRINA N,alfa-dimetilciclohexanoctilamina
-
-PROBARBITAL Acido 5 etil-5-isopropil-barbitúrico
-
-PROLINTANO 1 fenil-2-pirrolidilpentano
-
-QUAZEPAM 7-cloro-5- (2-fluorofenil)-1,3
-
--dihidro- 1- (2,2,2-trifluoroetil)
-
--1,4-benzodiazepina - 2- tiona
-
-SIBUTRAMINA ±1-(4-clorofenil)-N,N-dimetil
-
--alfa- (2-metilpropil)-
-
-Ciclobutanometanamina.
-
-TEMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1-
-
-metil-5-fenil-2H-1,4-benzodiacepin-
-
-2-ona
-
-TETRAZEPAM 7-cloro-5-(1-ciclohexen-1-il)-1,3-
-
-dihidro-1-metil-2H-1,4-benzodiacepin
-
--2-ona
-
-TRANILCIPROMINA 2 fenil ciclopropanamina
-
-TRIAZOLAM 8-cloro-6-(o-clorofenil)-1-metil-4H-
-
-s-triazolo[4,3-a][1,4]benzodiacepina
-
-VINILBITAL ácido 5-(1-metibutil)-5-vinil-
-
-barbitúrico
-
-Las sales de las sustancias enumeradas en esta lista.
-
-La condición de venta de los productos farmacéuticos que contengan estas drogas y sus sales es mediante "RECETA MEDICA RETENIDA".
-
-> **Nota.** NOTA 1.1 El Artículo 2° del Decreto Supremo N° 1.186, del Ministerio de Salud, publicado en el "Diario Oficial" de 14 de Junio de 1994, dispuso que las modificaciones introducidas al presente decreto supremo comenzarán a regir a contar de la fecha de su publicación en el Diario Oficial. Con todo, la incorporación de las substancias a que se refiere su N° 2, regirá a contar de esa fecha, para el solo efecto de su control de importación, exportación, tránsito, producción, fabricación, fraccionamiento, preparación, distribución, transporte y transferencia. Para efectos de su control de expendio, posesión, tenencia y uso regirá a contar del 30 de abril de 1995.
-
-> **Nota.** NOTA: 2 El inciso segundo del Artículo 3° del D.S. N° 1.506, del Ministerio de Salud, publicado en el "Diario Oficial" de 30 de septiembre de 1993, dispuso lo que sigue: "Con todo, la incorporación de las siguientes benzodiazepinas a la Lista IV del Título V del Reglamento de Productos Psicotrópicos, decreto supremo N°405 de 1983, de este Ministerio de Salud, regirá a contar de la mencionada fecha, para el solo efecto de su control de importación, exportación, tránsito, producción, fabricación, fraccionamiento, preparación, distribución, transporte y transferencia. Para efectos del control de su expendio, posesión, tenencia y uso regirá 18 meses después de su publicación en el Diario Oficial: ALPRAZOLAM 8-cloro-1-metil-6-feni-4H-s-triazolo [4,3-a] [1,4] benzodiacepina BROMAZEPAM 7-bromo-1,3-dihidro-5-(2-piridil)- 2H-1,4-benzodiacepin-2-ona CAMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1- metil-5-fenil-2H-1,4-benzodiacepin-2 -ona dimetilcarbamato (éster) CLOBAZAM 7-cloro-1-metil-5-fenil-1H-1,5- benzodiacepin-2,4(3H,5H)-diona CLONAZEPAM 5-(o-clorofenil)-1,3-dihidro-7-nitro -2H-1,4-benzodiacepin-2-ona CLORAZEPATO 7-cloro-2,3-dihidro-2-oxo-5-fenil- 1H-1,4-benzodiacepin-3-ácido carboxílico CLORDIAZEPOXIDO 7-cloro-2-(metilamino)-5-fenil-3H- 1,4-benzodiacepin-4-óxido CLOTIAZEPAM 5-(o-clorofenil)-7-etil-1,3-dihidro- 1-metil-2H-tieno[2,3-e]-1,4-diacepin -2-ona CLOXAZOLAM 10-cloro-11b-(o-clorofeni)-2,3,7,11b -tetrahidrooxazolo [3,2d][1,4] benzodiacepin-6(5H)-ona DELORAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro -2H-1,4-benzodiacepin-2-ona DIAZEPAM 7-cloro-1,3-dihidro-1-metil-5-fenil- 2H-1,4-benzodiacepin-2-ona ESTAZOLAM 8-cloro-6-fenil-4H-s-triazolo[4,3-a] [1,4] benzodiacepina FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)-1,3- dihidro-1-metil-2H-1,4-benzodiacepin -2-ona FLURAZEPAM 7-cloro-1-[2-(dietilamino)etil]-5-(o -fluorofenil)-1,3-dihidro-2H-1,4- benzodiacepin-2-ona HALAZEPAN 7-cloro-1,3-dihidro-5-fenil-2,2,2- trifluoroetil)-2H-1,4-benzodiacepin- 2-ona HALOXAZOLAM 10-bromo-11b-(o-fluorofenil)-2 ,3, 7, 11b-tetrahidrooxazolo[3,2-d][1,4] benzodiacepin-6(5H)-ona KETAZOLAM 11-cloro-8,12b-dihidro-2,8-dimetil- 12b-fenil-4H-[1,3]-oxazino[3,2-d] [1,4]benzodiacepin-4,7(6H)-diona LOFLAZEPATO DE ETILO etil 7-cloro-5-(o-fluorofenil)-2,3- dihidro-2-oxo-1H-1,4-benzodiacepin- 3-carboxilato LOPRAZOLAM 6-(o-clorofenil)-2,4-dihidro-2-[(4- metil-1-piperacinil)metileno]-8- nitro-1H-imidazo[1,2-a][1,4] benciodiacepin-1-ona LORMETAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro -3-hidroxi-1-metil-2H-1,4- benzodiacepin-2-ona MEDAZEPAM 7-cloro-2,3-dihidro-1-metil-5-fenil- 1H-1,4-benzodiacepina MIDAZOLAM 8-cloro-6-(o-fluorofenil)-1-metil-4H -imidazo[1,5-a] benzodiacepina NIMETAZEPAM 1,3-dihidro-1-metil-7-nitro-5-fenil- 2H-1,4-benzodiacepin-2-ona NITRAZEPAM 1,3-dihidro-7-nitro-5-fenil-2H-1,4- benzodiacepin-2-ona NORDAZEPAM 7-cloro-1,3-dihidro-5-fenil-2H-1,4- benzodiacepin-2-ona OXAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-5- fenil-2H-1,4-benzodiacepin-2-ona OXAZOLAM 10-cloro 2,3,7,11b-tetrahidro-2- metil-11b-fenitoxazolo [3,2-d][1,4] benzodiacepin-6(5H)-ona PINAZEPAM 7-cloro-1,3-dihidro-5-fenil-1-(2- propinil)-2H-1,4-benzociacepin-2-ona PRAZEPAM 7-cloro-1-(cliclopropilmetil)-1,3- dihidro-5-fenil-2H-1,4-benzodiacepin -2-ona TEMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1- metil-5-fenil-2H-1,4-benzodiacepin- 2-ona TETRAZEPAM 7-cloro-5-(1-ciclohexen-1-il)-1,3- dihidro-1-metil-2H-1,4-benzodiacepin -2-ona"."
-
-> **Nota.** NOTA 3: El DTO 62, Salud, publicado el 12.07.2004, modifica la presente lista de productos en el sentido de incorporar los siguientes:4 - MTA -metil-4-metiltiofenetilaminaETRIPTAMINA 3-(2-aminobutil)indolN-hidroxi MDA (±)- N- [? -metil-3,4- (metilendioxi) fenetil] hidroxilaminaMDE, N-etil MDA (±) - N-etil - - metil -3,4- (metilendioxi) fenetilaminaMETCATINONA 2-(metilamino)-1-fenilpropan-1-ona4-METILAMINOREX (±)-cis-2-amino-4-metil-5-fenil-2- oxazolina LISTA II2-CB 4-bromo-2,5 dimetoxifenetilaminaAMINEPTINA (ácido 7 - [(10, 11-dihidro 5 H - dibenzo [a, d] ciclohepteno-5 il) amino] heptanoico) LISTA IVGHB Acido gama-hidroxibutiricoZOLPIDEM N,N,6- trimetil-2-p-tolilimidazol [1,2-alfa] piridina-3- acetamidaAMINOREX 2-amino-5-fenil-2-oxazolinaMESOCARBO (imina de 3-(alfa-metilfenetil)-N- (fenilcarbamoil) sidnona)
 
 #### Artículo 37°
 
@@ -1165,6 +573,94 @@ metil-5-fenil-2-
 oxazolina
 
 Las sales de las sustancias enumeradas en esta Lista y toda sustancia alucinógena o de efectos nocivos análogos
+
+Sustancias derivadas de la feniletilamina y dimetiltriptamina con efecto alucinógenos contenidas en todo material o preparación, en cualquier cantidad de sustancias, sales, isómeros o mezclas que se indican a continuación:
+
+a) Derivados estructurales y análogos de la feniletilamina
+
+2-(4-cloro-2,5-dimetoxi-fenil)- N-[(2-metoxifenil) metil]-etanamina (25C-NBOMe)
+
+N-(2-metoxibencil)-2,5-dimetoxi-4-iodofeniletilamina (25I- NBOMe)
+
+N-(2-hidroxibencil)-2,5-dimetoxi-4-iodofeniletilamina (25I- NBOH)
+
+2,5-dimetoxi-N-(2-metoxibencil)- feniletilamina (25H-NB2OMe)
+
+2,5-dimetoxi-N-(3-metoxibencil)- feniletilamina (25H-NB3OMe)
+
+2,5-dimetoxi-N-(4-metoxibencil)- feniletilamina (25H-NB4OMe)
+
+2,5-dimetoxi-4-bromo-N-(2-metoxibencil)- feniletilamina (25B-NB2OMe)
+
+2,5-dimetoxi-4-bromo-N-(3-metoxibencil)- feniletilamina (25B-NB3OMe)
+
+2,5-dimetoxi-4-bromo-N-(4-metoxibencil)- feniletilamina (25B-NB4OMe)
+
+2,5-dimetoxi-4-cloro-N-(2-metoxibencil)- feniletilamina (25C-NB2OMe)
+
+2,5-dimetoxi-4-cloro-N-(3-metoxibencil)- feniletilamina (25C-NB3OMe)
+
+2,5-dimetoxi-4-cloro-N-(4-metoxibencil)- feniletilamina (25C-NB4OMe)
+
+2,5-dimetoxi-4-metil-N-(2-metoxibencil)- feniletilamina (25D-NB2OMe)
+
+2,5-dimetoxi-4-metil-N-(3-metoxibenciI)- feniletilamina (25D-NB3OMe)
+
+2,5-dimetoxi-4-metil-N-(4-metoxibencil)- feniletilamina (25D-NB4OMe)
+
+2,5-dimetoxi-4-etil-N-(2-metoxibencil)- feniletilamina (25E-NB2OMe)
+
+2,5-dimetoxi-4-etil-N-(3-metoxibencil)- feniletilamina (25E-NB3OMe)
+
+2,5-dimetoxi-4-etil-N-(4-metoxibencil)- feniletilamina (25E-NB4OMe)
+
+2,5-dimetoxi-4-iodo-N-(2-metoxibencil)- feniletilamina (25I-NB2OMe)
+
+2,5-dimetoxi-4-iodo-N-(3-metoxibenciI)- feniletilamina (25I-NB3OMe)
+
+2,5-dimetoxi-4-iodo-N-(4-metoxibencil)- feniletilamina (25l-NB4OMe)
+
+2,5-dimetoxi-4-nitro-N-(2-metoxibencil)- feniletilamina (25N-NB2OMe)
+
+2,5-dimetoxi-4-nitro-N-(3-metoxibencil)- feniletilamina (25N-NB3OMe)
+
+2,5-dimetoxi-4-nitro-N-(4-metoxibencil)- feniletilamina (25N-NB4OMe)
+
+2,5-dimetoxi-4-propil-N-(2-metoxibencil)- feniletilamina (25P-NB2OMe)
+
+2,5-dimetoxi-4-propil-N-(3-metoxibencil)- feniletilamina (25P-NB3OMe)
+
+2,5-dimetoxi-4-propil-N-(4-metoxibencil)- feniletilamina (25P-NB4OMe)
+
+2,5-dimetoxi-4-etiltio-N-(2-metoxibencil)- feniletilamina (25T2-NB2OMe)
+
+2,5-dimetoxi-4-etiItio-N-(3-metoxibencil)- feniletilamina (25T2-NB3OMe)
+
+2,5-dimetoxi-4-etiltio-N-(4-metoxibencil)- feniletilamina (25P-NB4OMe)
+
+2,5-dimetoxi-4-isopropiltio-N-(2-metoxibencil)- feniletilamina (25T4-NB2OMe)
+
+2,5-dimetoxi-4-isopropiltio-N-(3-metoxibencil)- feniletilamina (25T4-NB3OMe)
+
+2,5-dimetoxi-4-isopropiltio-N-(4-metoxibencil)- feniletilamina (25T4-NB4OMe)
+
+2,5-dimetoxi-4-propiltio-N-(2-metoxibencil)- feniletilamina (25T7-NB2OMe)
+
+2,5-dimetoxi-4-propiftio-N-(3-metoxibencil)- feniletilamina (25T7 -NB3OMe)
+
+2,5-dimetoxi-4-propiltio-N-(4-metoxibencil)- feniletilamina (25T7-NB4OMe)
+
+b) Derivados y análogos estructurales de la dimetiltripamina
+
+4-hidroxi-N,N-diisopropiltriptamina (4-HO-DIPT)
+
+5-metoxi-N,N-dimetiltriptamina (5-MEO-DMT)
+
+5-metoxi-N-metil-N-isopropiltriptamina ( (5-MEO-MIPT)
+
+5-metoxi-N, N-dialiltriptamina ( (5-MEO-DALT)
+
+Diisopropiltriptamina (DIPT)
 
 DROGAS: LISTA II
 
