@@ -26,15 +26,13 @@ Resolución:
 
 1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 22 de diciembre ambas fechas inclusive, o hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en sus Títulos II y III, para la reparación de viviendas de familias damnificados por los sismos ocurridos el 1 y 2 de abril de 2014, en las regiones de Tarapacá y de Arica y Parinacota, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 332 (V. y U.), de 2000, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 30 de junio de 2014
+Primera selección: 30 de junio de 2014.
 
-Segunda selección: 29 de agosto de 2014
+Segunda selección: 29 de agosto de 2014.
 
-Tercera selección: 3 de Octubre de 2014
+Tercera selección: 30 de octubre de 2014.
 
-Cuarta selección: 30 de octubre de 2014
-
-Quinta selección: 22 de diciembre de 2014
+Cuarta selección : 22 de diciembre de 2014.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -168,15 +166,11 @@ Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulan
 
 9.5. Los subsidios entregados por este llamado serán compatibles con eventuales futuros beneficios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda. Sin embargo, las personas beneficiadas por este llamado no podrán optar a un subsidio de este Ministerio para obtener o construir viviendas, a excepción de aquellos beneficiados que hayan postulado en calidad de arrendatarios con la autorización del propietario.
 
-El postulante damnificado que tenga un subsidio vigente del Programa de Protección del Patrimonio Familiar podrá postular en este llamado. En caso que las obras del subsidio regular se encuentren iniciadas Serviu deberá evaluar si corresponde ejecutar la obra o paralizarla, hasta la aplicación del subsidio de sismo, en estos casos se podrá considerar como causal de prórroga la paralización de la obra. En el caso de los damnificados que postulan en calidad de arrendatarios y que paralelamente se encuentren postulando a otros Programas Habitacionales de este Ministerio, se permitirá su postulación en el llamado sismo, siempre que el postulante exprese su autorización por escrito .
-
 9.6. En este llamado se encontrarán habilitadas para postular proyectos las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe en que postularán un proyecto, deberán previamente suscribir un addéndum al convenio celebrado con alguna de las Seremi de Vivienda y Urbanismo del país que lo mantenga vigente, en el que se dejará constancia de la habilitación para postular proyectos a este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente, pese a lo cual el Municipio deberá acreditar ante Serviu que cuenta con las capacidades suficientes para otorgar la asistencia técnica a las familias damnificadas.
 
 Los respectivos Serviu podrán actuar siempre como EP.
 
-Los proyectos que requieran de un Permiso de Edificación podrán contar con ITO externo, y será obligatorio en aquellos casos que la SEREMI, mediante resolución fundada, autorice a la Empresa Constructora, para desarrollar labores de asistencia técnica, aun cuando ésta no haya suscrito el Convenio Marco, debiendo incrementar la Boleta Bancaria de fiel cumplimiento del contrato, por un monto igual a la boleta de servicios de honorarios señalada en el convenio marco de las EP.
-
-En los proyectos que se desarrollen con la modalidad de ITO externo, la EP que presenta el proyecto deberá suscribir un mandato que autorice a SERVIU a pagar al ITO, los valores de asistencia técnica correspondientes a la labor de Inspección Técnica de Obra.
+Sólo si el proyecto cuenta con un ITO externo, la Seremi, mediante resolución fundada podrá autorizar a la empresa constructora que ejecute las obras para desarrollar labores de asistencia técnica, aun cuando no haya suscrito el Convenio Marco, debiendo incrementar la Boleta Bancaria de fiel cumplimiento del contrato, por un monto igual a la boleta de servicios señalada en el convenio marco de las EP.
 
 Disposiciones específicas a proyectos a ejecutarse con Empresas Constructoras:
 
@@ -186,7 +180,7 @@ Serviu pagará a la EP o a la empresa constructora, según corresponda, por los 
 
 Primer Pago: Correspondiente a los servicios de Organización de la Demanda y Desarrollo y Postulación del Proyecto. Se pagará un 35% del valor total de la Asistencia Técnica, una vez seleccionadas las familias y aprobado por Serviu el proyecto correspondiente. En el caso de que parte de la vivienda donde se aplica el subsidio requiera ser regularizada, la EP deberá presentar junto con la carpeta del proyecto el permiso de edificación por los recintos no regularizados. En caso que la vivienda en que se aplica el subsidio cuente con subsidio adicional para suelo salino, se incrementará en 2 UF la asistencia técnica asignada a esta etapa.
 
-Segundo Pago: Correspondiente a los servicios de Inspección Técnica de Obra. Se pagará por estas labores el 45% del valor total de la Asistencia Técnica, una vez que se obtenga el certificado de recepción municipal emitido por la D.O.M respectiva, en aquellos proyectos que así lo requieran y/o una vez recepcionado el proyecto por SERVIU. En el caso que la vivienda en que se aplica el subsidio requiera regularizar parte de sus construcciones, el monto obtenido en este pago se incrementará en 5 UF, monto al cual se le podrá aumentar 2 UF por cada informe y/o certificado requerido (electricidad, agua potable y alcantarillado y gas) llegando a un máximo de 11 UF, las que serán pagadas tras la recepción por parte de la D.O.M. En caso que la vivienda donde se aplica el subsidio cuente con subsidio adicional para suelo salino, se incrementará en 2 UF la asistencia técnica asignada a esta etapa.
+Segundo Pago: Correspondiente a los servicios de Seguimiento de la Obra e Inspección Técnica. Se pagará por estas labores el 45% del valor total de la Asistencia Técnica, una vez que se obtenga el certificado de recepción municipal emitido por la D.O.M respectiva, en aquellos proyectos que así lo requieran y/o una vez recepcionado el proyecto por Serviu. En el caso de que la viviendo en que se aplica el subsidio requiera regularizar parte de sus construcciones, el monto obtenido en este pago se incrementará en 2 UF las que serán pagadas tras la recepción por parte de la D.O.M. En caso que la vivienda donde se aplica el subsidio cuente con subsidio adicional para suelo salino, se incrementará en 2 UF la asistencia técnica asignada a esta etapa.
 
 Con todo, cuando las labores de Asistencia Técnica sean ejecutadas por la propia empresa constructora, corresponderá a Serviu el desarrollo de la labor de inspección técnica de obras, sea que la ejecute de forma directa con sus propios profesionales o con el apoyo de personas naturales o jurídicas contratadas para dicha labor, las que podrán o no encontrarse inscritas en el Registro Nacional de Consultores del Minvu, regido por el DS Nº 135 (V. y U.), de 1978. Para la referida contratación Serviu contará con los recursos dispuestos para este segundo pago de la Asistencia Técnica.
 
@@ -228,7 +222,7 @@ DE LA POSTULACIÓN:
 
 13.1 Las personas deberán suscribir ante el Serviu una declaración jurada como requisito previo para la asignación del subsidio y para que se les entregue la tarjeta para la compra de materiales, la que deberá considerar las siguientes estipulaciones:
 
-13.1.1 Ser propietario, asignatario o arrendatario del inmueble afectado por sismo y no poseer ni él ni su cónyuge otra vivienda. Contar con autorización notarial del propietario de la vivienda, en caso de que quien postule sea el arrendatario.
+13.1.1 Ser propietario de la vivienda objeto de este programa y no poseer, ni él ni su cónyuge, una segunda vivienda.
 
 13.1.2 Obligarse a utilizar los materiales adquiridos con el subsidio en el mejoramiento de su vivienda.
 
@@ -246,11 +240,11 @@ DE LA POSTULACIÓN:
 
 14.1.2 Luego de determinar las obras que se deberán desarrollar para reparar los daños que presenta la vivienda según la Ficha de Catastro, la EP deberá cubicar los materiales que según esta ficha se requerirán en el proyecto. Todos estos antecedentes deberán estar incluidos en la Carpeta Técnica que deberá ser presentada al Serviu y deberá contener al menos el presupuesto de las obras y desglose de precios unitarios por partidas de obras, según las especificaciones técnicas correspondientes a la reparación a realizar. El presupuesto deberá estar dividido en dos partes, correspondiendo cada una de ellas al monto autorizado para cada fase de reparación. Este deberá venir firmado por la EP responsable del proyecto y por el postulante, quien deberá aceptar el proyecto.
 
-La EP definirá un costo estimativo de los materiales en base a la cubicación que realizó y desarrollará el presupuesto del proyecto, el cual sólo considerará el costo de los materiales y herramientas menores que se necesite utilizar. Este presupuesto ordenará los materiales requeridos en base a las dos fases en que se dividirá el proceso de ejecución de la obra: la primera incluirá los materiales requeridos para la fase inicial de la obra y llegará como máximo al 45% del valor total del subsidio, monto que corresponderá a la primera carga de la tarjeta; y la segunda parte del presupuesto será por los materiales restantes y por el 55% del monto del subsidio, el cual corresponderá a la segunda carga de la tarjeta.
+La EP definirá un costo estimativo de los materiales en base a la cubicación que realizó y desarrollará el presupuesto del proyecto, el cual sólo considerará el costo de los materiales y herramientas menores que se necesite utilizar. Este presupuesto ordenará los materiales requeridos en base a las dos fases en que se dividirá el proceso de ejecución de la obra: La primera incluirá los materiales requeridos para la fase inicial de la obra y llegará como máximo a las 18 UF que corresponderá a la primera carga de la tarjeta; y la segunda parte del presupuesto será por los materiales restantes, la que no podrá exceder de 22 UF, que corresponderá a la segunda carga de la tarjeta.
 
 DE LA OPERATORIA:
 
-15. Aprobada la carpeta técnica a que se refiere el punto 14.1.2, e incorporados los datos en el sistema Rukan por parte de la EP, la familia dispondrá de la primera carga de dinero por hasta 45% del total del valor del subsidio, para acercarse a un establecimiento comercial establecido, con giro relativo a ferretería y/o provisión de materiales de construcción, donde podrá realizar la compra de materiales y herramientas, de acuerdo a lo indicado en la primera parte del presupuesto elaborado por la EP.
+15. Aprobada la carpeta técnica a que se refiere el punto 14.1.2, e incorporados los datos en el sistema Rukán por parte de la EP, la familia dispondrá de la primera carga de dinero por hasta 18UF para acercarse a un establecimiento comercial establecido, con giro relativo a ferretería y/o provisión de materiales de construcción, donde podrá realizar la compra de materiales y herramientas, de acuerdo a lo indicado en la primera parte del presupuesto elaborado por la EP.
 
 Será responsabilidad de la Entidad informar al beneficiario de la activación de la tarjeta.
 
@@ -268,11 +262,11 @@ La Entidad, en esta segunda etapa prestará el mismo apoyo técnico descrito par
 
 20. El pago de los honorarios por concepto de Servicios de Asistencia Técnica a que se refiere el punto 4 de la presente resolución, serán efectuados conforme a las siguientes etapas:
 
-20.1 Primer pago equivalente al 30% del total de los honorarios una vez concluida la primera fase de ejecución de las obras, de acuerdo a lo señalado en el punto 18.
+20.1 Primer pago equivalente al 30% del total de los honorarios una vez concluida la primera fase de ejecución de las obras, de acuerdo a lo señalado en el punto 19 precedente.
 
-20.2 Segundo pago equivalente al 30% del total de los honorarios, si además de ejecutada la primera etapa según lo indicado en el punto 18, el avance de las obras correspondientes a la segunda etapa es igual o superior al 50%.
+20.2 Segundo pago equivalente al 30% del total de los honorarios, si además de ejecutada la primera etapa según lo indicado en el punto 19 precedente, el avance de las obras correspondientes a la segunda etapa es igual o superior al 50%.
 
-20.3 Tercer pago podrá ser el equivalente al 20% del total de los honorarios, si el avance del proyecto de la segunda etapa es igual o superior al 70%; o al 30% del total de los honorarios, si el avance de obra es igual o superior al 85%; o al 40% del total de los honorarios si además de ejecutada la primera etapa según lo indicado en el punto 18, si el proyecto fue ejecutado en un 100%.
+20.3 Tercer pago equivalente al 20% del total de los honorarios, o al saldo total restante, si además de ejecutada la primera etapa según lo indicado en el punto 19 precedente, el avance del proyecto es igual o superior al 70% o si el proyecto fue ejecutado en un 100%, respectivamente.
 
 Sin perjuicio de lo anterior, se pagará el 30% del total de los honorarios, si el beneficiario desiste de aplicar el subsidio pero la Asistencia Técnica ya ha visitado la vivienda, ha elaborado el proyecto de mejoramiento y ha ingresado los datos de este último en el sistema informático del Minvu; o si las personas no utilizaron la segunda carga de la tarjeta porque la EP no dio visto bueno a las obras en la primera etapa, lo cual deberá quedar consignado en un Informe escrito que será elaborado en un formato proporcionado por Serviu.
 
