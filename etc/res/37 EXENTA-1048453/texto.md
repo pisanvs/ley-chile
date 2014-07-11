@@ -116,7 +116,7 @@ de su Jefatura directa.
 
 3º En el ámbito de sus labores, a la funcionaria designada le corresponderá dirigir la Unidad de Concesiones y en tal condición estará facultada para impartir órdenes al personal que se encuentre bajo su dependencia, como asimismo para evaluar su desempeño a través de los informes pertinentes y hoja de precalificación o anotaciones de mérito o de demérito. Del mismo modo, deberá realizar la calificación de las solicitudes que dicho personal formule en materia de vacaciones o permisos administrativos, sin perjuicio de las prerrogativas que competan a otras jefaturas. Corresponderá también, la autorización, del cumplimiento de la jornada laboral de los funcionarios bajo su dependencia.
 
-4º Asimismo, se establece que en caso de ausencia por cualquier causa de Nadia Muñoz Muñoz, asume las funciones directivas el funcionario Eliseo Andrés Levican Torres, RUT 15.566.705-2.
+4º Derogado.
 
 5º Derógase total o parcialmente cualquier normativa anterior que se contraponga a esta.
 
