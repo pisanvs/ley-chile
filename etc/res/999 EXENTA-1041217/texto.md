@@ -12,13 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1º. Delégase en el Jefe de la División Jurídica o en su subrogante legal, la facultad de firmar, con la fórmula "Por orden del Superintendente", los siguientes actos:
-
-1.- Los oficios mediante los cuales se dé respuesta a peticiones de informes provenientes de los Tribunales de Justicia, relativos a recursos de reclamación por ilegalidad que se interpongan por terceros ajenos a la Superintendencia en contra de actos del Servicio, cuando estos correspondan a oficios o resoluciones dictadas en el marco del procedimiento de reclamos en materia de electricidad, gas y combustibles líquidos, dispuesto en el artículo 30 Nº 17 de la Ley Nº 18.410, Orgánica de la Superintendencia de Electricidad y Combustibles.
-
-El ejercicio de dicha facultad no podrá importar allanarse al recurso interpuesto, ni la modificación del acto recurrido, medidas que sólo podrán ser adoptadas por esta Jefatura Institucional.
-
-2.- Las resoluciones mediante las cuales se resuelven los recursos de reposición interpuestos por terceros ajenos a la Superintendencia en contra de actos del Servicio, cuando estos correspondan a sanciones aplicadas por el Jefe de la Unidad de Normas y Estudios, consistentes en amonestación o multas iguales o inferiores a 300 UTM; cuando estos correspondan a sanciones aplicadas por el Jefe de la División de Ingeniería de Electricidad, consistentes en amonestación o multas iguales o inferiores a 120 UTM y cuando estos correspondan a sanciones aplicadas por el Jefe de la División de Ingeniería de Combustibles, consistentes en amonestación o multas iguales o inferiores a 120 UTM.
+1º. Derogado.
 
 2º. Delégase en el Jefe de División de Ingeniería de Electricidad o en su subrogante legal, la facultad de firmar con la fórmula "Por orden del Superintendente", las resoluciones mediante las cuales se resuelven los recursos de reposición interpuestos por terceros ajenos a la Superintendencia en contra de actos del Servicio, cuando estos correspondan a oficios o resoluciones dictadas en el marco del procedimiento de reclamos en materia de electricidad, dispuesto en el artículo 3º Nº 17 de la ley Nº 18.410, Orgánica de la Superintendencia de Electricidad y Combustibles.
 
