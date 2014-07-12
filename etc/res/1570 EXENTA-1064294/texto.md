@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.570, de 13 de junio de 2014, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 1.519 de 2013, que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia asociado a la ejecución del proyecto denominado "Monitoreo biológico y pesquero de la actividad extractiva de la Jaiba limón (Cancer porteri) en la comuna de San Antonio", en el sentido de señalar que el plazo del estudio se extenderá hasta el 14 de septiembre de 2014, inclusive.
+
+Valparaíso, 13 de junio de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
