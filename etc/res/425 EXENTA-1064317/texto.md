@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 425 EXENTA, DE 2014
+
+Por resolución exenta Nº 425, de fecha 23 de junio de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autoriza a Escuela de Conductores Profesionales Patricia Ester de Lourdes Madina Avendaño, RUT Nº 10.956.536-9, representada legalmente por doña Patricia Ester de Lourdes Madina Avendaño, Cédula Nacional de Identidad Nº 10.956.536-9, para impartir el curso especial con simulador de inmersión total, conducente a la obtención de licencia de conductor profesional Clase A3 y A5, en Av. Membrillar Nº 93, comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
