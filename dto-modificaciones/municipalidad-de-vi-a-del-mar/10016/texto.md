@@ -1082,7 +1082,7 @@ Para Viviendas: 0,5 para construcciones de hasta 10,5 metros de altura
 
 0,3 para construcciones sobre los 10,5 metros. Para Educación: 0,3
 
-COEFICIENTE MAXIMO DE CONSTRUCTIBILIDAD: 1,2
+COEFICIENTE MAXIMO DE CONSTRUCTIBILIDAD: 1,0
 
 TIPO DE AGRUPAMIENTO: Aislado, escalonado y pareado, edificación pareada según Ordenanza General de Urbanismo y Construcciones.
 
@@ -1090,7 +1090,7 @@ Para propiedades con frente a Agua Santa: Aislado.
 
 DISTANCIAMIENTOS Y RASANTES: Sin perjuicio de lo definido por la ordenanza de la Ley General de Urbanismo y Construcciones; la distancia mínima de aplicación aumentará 1 metro por cada 3 metros de altura de edificación, aplicados a partir de los 7 metros de altura.
 
-ALTURA MAXIMA: Se aplicará lo definido por la ordenanza de la Ley General de Urbanismo y Construcciones.
+Altura Máxima: 15 Metros, con un máximo de 5 pisos.
 
 ANTEJARDÍN: 3 Metros para Calles locales.
 
@@ -1100,7 +1100,7 @@ ANTEJARDÍN: 3 Metros para Calles locales.
 
 Se establece además que para sitios con frentes de calle a cuadras que posean un porcentaje superior al 60 % o más de edificación de fachada continua será obligatorio su uso en toda nueva obra o proyecto de edificación.
 
-DENSIDAD: 350 Habitantes por hectárea.
+Densidad bruta máxima: 300 habitantes por hectárea.
 
 ESTACIONAMIENTOS: Según se expresa en tabla de cálculos adjunta.
 
