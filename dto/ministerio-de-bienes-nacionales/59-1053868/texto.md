@@ -38,7 +38,7 @@ Oeste: Terreno Fiscal, en línea quebrada de tres parcialidades comprendidas ent
 
 II.- El plano oficial de la Ampliación de la Reserva Nacional Pampa del Tamarugal quedará archivado en los Ministerios de Bienes Nacionales y de Medio Ambiente y copia del mismo en la Corporación Nacional Forestal (CONAF).
 
-Se deja expresa constancia que el Cuadro de Coordenadas UTM contenido el Plano Oficial, fue confeccionado en base al Datum Sirgas "WGS 84" Huso 18.
+Se deja expresa constancia que el Cuadro de Coordenadas UTM contenido el Plano Oficial, fue confeccionado en base al Datum Sirgas "WGS 84" Huso 19.
 
 Anótese, regístrese en el Ministerio de Bienes Nacinales, tómese razón, comuníquese y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Pérez Mackenna, Ministro de Bienes Nacionales.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.
 
