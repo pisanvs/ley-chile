@@ -1,6 +1,6 @@
-ASIGNA A DON OMAR ANDRÉS GONZÁLEZ ASENJO COMO ABOGADO DEL SERVICIO DE TESORERÍAS
+COMPLEMENTA RESOLUCIÓN INTERNA Nº 1.123, DE 2013
 
-Núm. 1.123.- Santiago, 3 de abril de 2013.- Vistos: El Art. 2º, Nº 2, letra
+Núm. 842.- Santiago, 20 de junio de 2014.- Vistos: El Art. 2º, Nº 2, letra
 
 - **d)** del DFL Nº 1, de 1994, del Ministerio de Hacienda, Estatuto Orgánico del Servicio de Tesorerías, modificado por el Art. 8º letra
 
@@ -14,27 +14,23 @@ Núm. 1.123.- Santiago, 3 de abril de 2013.- Vistos: El Art. 2º, Nº 2, letra
 
 Resolución:
 
-Asígnase a contar de la fecha que se indica al siguiente abogado para que ejerza la función de Abogado del Servicio de Tesorerías, con jurisdicción en las localidades que se indican:
+Compleméntese la resolución interna Nº 1.123, del 03/04/2013, en lo referente a su jurisdicción, ejerciendo la función de Abogado del Servicio de Tesorerías, en las localidades de la Undécima Región:
 
-Nombre : Omar Andrés González Asenjo
+Nombre: Omar Andrés González Asenjo
 
-RUT : 15.905.403-9
+RUT: 15.905.403-9
 
-Ubicación : Duodécima Región - Regional de Punta
+Ubicación: Duodécima Región - Regional de Punta Arenas - Unidad Operativa de Cobro 1
 
-Arenas - Unidad Operativa de Cobro 1
+Calidad jurídica: Suplente
 
-Calidad
+Estamento: Directivo
 
-jurídica : Suplente
+Cargo: Jefe de Oficina
 
-Estamento : Directivo
+Grado: 13 EU
 
-Cargo : Jefe de Oficina
-
-Grado : 13 EU
-
-Función : Abogado
+Función: Abogado
 
 Fecha inicio: 16/06/2014
 
