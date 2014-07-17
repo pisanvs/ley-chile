@@ -16,10 +16,10 @@ Resuelvo:
 
 1° Apruébanse los protocolos de análisis y/o ensayos de Seguridad y Eficiencia, para la certificación de los productos eléctricos que se señalan en la Tabla siguiente:
 
+.
+
 2° Los textos íntegros de los protocolos individualizados en la presente resolución se encuentran en esta Superintendencia a disposición de los interesados, y pueden ser consultados en el sitio web: www.sec.cl.
 
 3° Los fabricantes nacionales, importadores y comercializadores de los productos eléctricos señalados en la presente resolución, previo a su comercialización en el país, deberán contar con los respectivos certificados de aprobación de Seguridad y Eficiencia, a partir de la fecha de aplicación, según lo indicado en la Tabla del Resuelvo 1° de la presente resolución.
-
-> **Nota.** La Resolución 2011 Exenta, Energía, publicada el 20.11.2013, modifica la fecha de aplicación obligatoria de los Protocolos de Análisis y/o Ensayos para la certificación de Seguridad y Eficiencia Energética correspondiente a los productos eléctricos de la manera que la citada norma indica.
 
 Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
