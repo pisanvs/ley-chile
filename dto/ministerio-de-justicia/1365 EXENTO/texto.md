@@ -16,7 +16,7 @@ Decreto:
 
 #### Artículo 1º
 
-Apruébase como oficial el texto de la vigésimo primera edición del Código del Trabajo, actualizado a esta fecha por la Editorial Jurídica de Chile.
+Apruébase como oficial el texto de la décimo séptima edición del Código del Trabajo, actualizado a esta fecha por la Editorial Jurídica de Chile.
 
 #### Artículo 2º
 
