@@ -376,4 +376,14 @@ Las infracciones a la presente Ordenanza en relación al pago de los derechos de
 
 4.- Publíquese en el Diario Oficial y en la página web institucional la nueva Ordenanza Municipal sobre Condiciones Generales para la Fijación de Tarifas de Aseo, Exenciones Totales y Parciales del Servicio Domiciliario por Extracción de Basuras de la Comuna de Peñalolén, de acuerdo a lo dispuesto en el artículo 48 de la Ley N° 19.880.
 
+#### Artículo primero
+
+transitorio.- Las exenciones totales y parciales a que se refiere el Título VII, "De las exenciones y rebajas de tarifa", de la "Ordenanza Municipal sobre Condiciones Generales para la Fijación de Tarifas de Aseo, Exenciones Totales y Parciales del Servicio Domiciliario por Extracción de Basuras" -que reconozca la municipalidad hasta el año 2016- se mantendrán vigentes hasta el 31 de diciembre de 2017, no siendo aplicable durante dicho período el numeral 3, del artículo 37 ni el inciso segundo del artículo 40 de la referida Ordenanza. Se dictará uno o más decretos alcaldicios en el que se individualizarán las personas que mantendrán el referido beneficio hasta aquella fecha, con indicación del tipo de exención reconocida, los que serán publicados en la página web municipal.
+
+Los beneficiarios y beneficiarias cuyas condiciones cambien favorablemente durante el período de vigencia de la extensión y que por aquella circunstancia no habrían podido acceder al beneficio, tienen la obligación de informarlo a la municipalidad. En todo caso, caducará ipso facto la extensión del beneficio en el momento mismo que la municipalidad tome conocimiento, por cualquier medio, de que las nuevas condiciones del beneficiario o beneficiaria no habrían permitido reconocerle una exención total o parcial, conforme al Título VII de la referida Ordenanza.
+
+#### Artículo segundo
+
+transitorio.- Las postulaciones y renovaciones para acceder a exención total o parcial durante el año 2018 -de aquellas a que se refiere el Título VII de la Ordenanza Municipal sobre Condiciones Generales para la Fijación de Tarifas de Aseo, Exenciones Totales y Parciales del Servicio Domiciliario por Extracción de Basuras- deberán ser presentadas entre los meses de marzo y septiembre de 2017.
+
 Anótese, comuníquese y transcríbase el presente decreto a todas las direcciones y unidades municipales, al Juzgado de Policía Local de Peñalolén, publíquese, cúmplase y hecho, archívese.- Claudio Orrego Larraín, Alcalde.- Leonardo Jaña López, Secretario Municipal (S).
