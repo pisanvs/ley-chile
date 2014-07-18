@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA CORPORACIÓN IGLESIA DE LOS ADVENTISTAS DEL SÉPTIMO DÍA
+
+Mediante decreto exento Nº 580, de 1 de julio de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la Corporación Iglesia de los Adventistas del Séptimo Día, RUT Nº 82.745.300-5, el inmueble fiscal ubicado en pasaje J.J. Núñez Interior Nº 220, comuna de La Calera, provincia de Quillota, Región de Valparaíso, enrolado en el Servicio de Impuestos Internos con el Nº 1254-8; inscrito a nombre del Fisco de Chile a fojas 33 vta. Nº 6, del Registro de Propiedad del Conservador de Bienes Raíces de La Calera, correspondiente al año 2007; de una superficie de 1.611,40 metros cuadrados, singularizado en el Plano Nº V-5-4079-C.U. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para ser destinada a mejorar la infraestructura del Colegio Adventista de La Calera, y para permitirle ampliar la jornada escolar a completa y posteriormente implementar paulatinamente enseñanza media. El Contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto. Nivia Palma Manríquez, abogada, Jefa de División Jurídica.
