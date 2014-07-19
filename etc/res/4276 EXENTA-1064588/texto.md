@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.276 EXENTA, DE 2014
+
+Resolución exenta Nº 4.276 de 13 de junio de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que produce efectos desde su fecha de dictación, prohíbe el día sábado 14 de junio del presente año, la circulación de vehículos motorizados, sin sello verde, de cuatro o más ruedas que se señalan en el presente cuadro, según tipo o servicio y último dígito de placa patente, en los horarios y perímetros que se indican, encontrándose exceptuados de esta prohibición todos los vehículos aludidos en el resuelvo 4 de la resolución exenta Nº 1.932/2014, de esta Secretaría Regional Ministerial.
+
+..
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
