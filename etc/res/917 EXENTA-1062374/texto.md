@@ -20,7 +20,7 @@ Considerando:
 
 2.- Que, conforme a lo señalado en el oficio Nº 776 de fecha 13 de febrero de 2014, el Presidente del Banco Central de Chile informó a esta Superintendencia que se acordó aceptar la renuncia al cargo de miembro titular del Consejo Técnico de Inversiones presentada por don Luis Felipe Céspedes Cifuentes;
 
-3.- Que, conforme a lo señalado en el oficio Nº 100 de fecha 10 de abril de 2014, el Consejo del Banco Central de Chile acordó designar en reemplazo del señor Céspedes, a don Rodrigo Andrés Cerda Norambuena por el período que a aquél le restaba, y que concluye con fecha 10 de junio de 2014, de lo que se da cuenta en el certificado suscrito por el señor Ministro de Fe del Banco Central de Chile, don Miguel Angel Nacrur Nazali que contiene el acuerdo Nº 1816-02-140410, de fecha 10 de abril de 2014 de esa entidad;
+3.- Que, conforme a lo señalado en el oficio Nº 100 de fecha 10 de abril de 2014, el Consejo del Banco Central de Chile acordó designar en reemplazo del señor Céspedes, a don Rodrigo Andrés Cerda Norambuena por el período que a aquél le restaba, y que concluye con fecha 10 de junio de 2016, de lo que se da cuenta en el certificado suscrito por el señor Ministro de Fe del Banco Central de Chile, don Miguel Angel Nacrur Nazali que contiene el acuerdo Nº 1816-02-140410, de fecha 10 de abril de 2014 de esa entidad;
 
 Resuelvo:
 
