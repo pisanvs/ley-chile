@@ -1,0 +1,25 @@
+DISPONE ASIGNACIÓN DE RECURSOS PARA LA REGIÓN DE ANTOFAGASTA Y APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS CORRESPONDIENTE AL MES DE JUNIO DEL LLAMADO EXTRAORDINARIO 2014, QUE SE DESTINARÁN AL FINANCIAMIENTO DE SUBSIDIOS PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN AL PATRIMONIO FAMILIAR EN SU MODALIDAD REGULADA POR CAPÍTULO II DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES
+
+Núm. 397 exenta.- Antofagasta, 8 de julio de 2014.- Vistos: Lo dispuesto en la ley 16.391/1965, que crea el Ministerio de Vivienda y Urbanismo; el DL Nº 1.305 (V. y U.), de 1975, que Reestructura y Regionaliza el Ministerio de Vivienda y Urbanismo; el decreto supremo Nº 397 de 1976, Reglamento Orgánico de las Secretarías Ministeriales de Vivienda y Urbanismo; el DS Nº 255 (V. y U.), de 2006, que regula el Programa de Protección del Patrimonio Familiar y sus modificaciones; la resolución Nº533, de 1997, que Fija Procedimiento para Prestación de Servicios de Asistencia Técnica a Programas de Viviendas que indica y deroga la resolución Nº 241 (V. y U.), de 1996; la ley Nº 20.641 de Presupuestos del Sector Público, año 2013; la resolución exenta Nº 32 (V. y U.), de fecha 4 de enero de 2013, que autoriza a efectuar llamados a postulación y/o comprometer recursos durante el año 2013 en el otorgamiento de subsidios habitacionales; la circular Nº 2, Subsecretaría (V. y U.), de fecha 17 de enero de 2012, que informa sobre Programa Habitacional 2013; la resolución exenta Nº 955 (V. y U.), de fecha 12 de febrero de 2014 y su modificación R.E. número 3.484 de fecha 13 de junio de 2014, que disponen Llamado Extraordinario 2014 a postulación para el desarrollo de proyectos del Programa Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales; la resoluciones exenta Nº 11 (Seremi de V. y U.), de fecha 10 de enero de 2014, que declara al condominio Chaces III de la comuna Antofagasta como objeto del Llamado Extraordinario PPPF para Condominios de Viviendas Sociales 2014; el DS Nº 1.132 de fecha 18 de noviembre de 2012 que nombra al suscrito como Secretario Ministerial Antofagasta de Vivienda y Urbanismo (S) y lo dispuesto en la resolución Nº 1.600 de 2008, de la Contraloría General de la República.
+
+Considerando: 1. Que cerrado el proceso de postulación del mes de junio de 2014, del Llamado Extraordinario de proyectos del Programa de Protección del Patrimonio Familiar, en su modalidad regulada por el Capítulo II, de la atención de Condominios de Viviendas Sociales, se procedió a seleccionar a los beneficiarios de acuerdo a lo señalado en la resolución exenta Nº 955 de 12 de febrero de 2014 y al DS 255/2006, dicto la siguiente:
+
+Resolución:
+
+Comprométanse los recursos para la selección del mes junio de 2014 para el desarrollo de proyectos en Condominios de Vivienda Sociales, que se destinarán al financiamiento de los subsidios y al pago de los servicios de asistencia técnica, según la distribución que se señala a continuación:
+
+.
+
+El aporte de los vecinos responde a 1 UF, por beneficiario del Condominio Chaces III de la comuna de Antofagasta, según lo indica la resolución exenta Nº 955 (V. y U.), de fecha 12.02.2014.
+
+1. Fíjese el número de postulantes seleccionados en la Región Antofagasta de acuerdo a la distribución regional de recursos para los proyectos que se financiarán conforme a lo que se dispone en la resolución exenta Nº 955 de fecha 12 de febrero 2014 y su modificación R.E. Nº 3.484 de fecha 13 de junio de 2014 emitida por la Subsecretaría del Ministerio de Vivienda y Urbanismo, según se indica en la tabla que a continuación se inserta:
+
+.
+
+2. Apruébese la nómina de postulantes seleccionados para el otorgamiento de subsidios habitacionales correspondientes al mes de junio de 2014, de acuerdo con lo dispuesto en la resolución exenta Nº 955 (V. y U.), de fecha 12 de febrero de 2014 y su modificación R.E. Nº 3.484 de 13 de junio de 2014. Estas nóminas estarán disponibles en la página web del Ministerio de Vivienda y Urbanismo y serán parte integrante de la presente resolución.
+
+3. El pago de la asistencia técnica para esta copropiedad, se ajusta a proyectos de Mejoramiento al interior de la Copropiedad, de acuerdo a la resolución exenta Nº 533 (V. y U.).
+
+4. Publíquese, a lo menos en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener a lo menos, la comuna, el TÍtulo y la modalidad de proyecto del cual se trate, nombre de cada postulante con su respectiva Cédula Nacional de Identidad y puntaje obtenido por el grupo o persona.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Juan Gonzalo Godoy Barrientos, Secretario Ministerial de Vivienda y Urbanismo (S), Región de Antofagasta.
