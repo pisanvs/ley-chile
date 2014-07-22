@@ -2758,13 +2758,19 @@ El derecho a alimentar consagrado en el inciso primero, no podrá ser renunciado
 
 Tratándose de empresas que estén obligadas a lo preceptuado en el artículo 203, el período de tiempo a que se refiere el inciso primero se ampliará al necesario para el viaje de ida y vuelta de la madre para dar alimentos a sus hijos. En este caso, el empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso de la madre.
 
+En caso que el padre y la madre sean trabajadores, ambos podrán acordar que sea el padre quien ejerza el derecho. Esta decisión y cualquier modificación de la misma deberán ser comunicadas por escrito a ambos empleadores con a lo menos treinta días de anticipación, mediante instrumento firmado por el padre y la madre, con copia a la respectiva Inspección del Trabajo.
+
+Con todo, el padre trabajador ejercerá el referido derecho cuando tuviere la tuición del menor por sentencia judicial ejecutoriada, cuando la madre hubiere fallecido o estuviere imposibilitada de hacer uso de él.
+
+Asimismo, ejercerá este derecho la trabajadora o el trabajador al que se le haya otorgado judicialmente la tuición o el cuidado personal de conformidad con la ley Nº19.620 o como medida de protección de acuerdo con el número 2 del artículo 30 de la Ley de Menores. Este derecho se extenderá al cónyuge, en los mismos términos señalados en los incisos anteriores.
+
 #### Artículo 207
 
 Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 
-Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refiere el artículo 201.
+Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refieren los respectivos derechos.
 
 #### Artículo 207 bis
 
