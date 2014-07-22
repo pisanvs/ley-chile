@@ -12,7 +12,7 @@ Para los efectos de este reglamento, sólo podrán ser convalidados módulos y/o
 
 #### Artículo 3º
 
-Para efectos de la convalidación de módulos y/o unidades temáticas, los interesados deberán solicitarla dentro de un plazo no superior a tres (3) años, contado de la fecha de emisión del respectivo certificado de aprobación de un curso para optar a una licencia de conductor profesional, obtenido en cualquiera de las Escuelas reconocidas oficialmente.
+Para efectos de la convalidación de módulos y/o unidades temáticas, los interesados deberán solicitarla dentro de un plazo no superior a seis (6) años, contado de la fecha de emisión del respectivo certificado de aprobación de un curso para optar a una licencia de conductor profesional, obtenido en cualquiera de las Escuelas reconocidas oficialmente.
 
 Tratándose de alumnos que estén asistiendo a un curso para obtener una determinada clase de licencia profesional y deseen postular a la convalidación, en ese mismo período, para optar a otra clase de licencia profesional, deberán solicitarlo por escrito a la Escuela, antes del término del curso.
 
@@ -28,7 +28,9 @@ Profesional vigente.
 
 ** Certificado proporcionado por la Escuela de
 
-origen, que incluya la información sobre el curso realizado, la asistencia del alumno
+origen, que incluya la información sobre el
+
+curso realizado, la asistencia del alumno
 
 a las clases teóricas y prácticas y los
 
@@ -36,7 +38,41 @@ respectivos módulos y/o unidades temáticas
 
 con la correspondiente evaluación y aprobación
 
-final.
+final. Cuando la Escuela no se encontrare
+
+vigente por razones distintas a las indicadas
+
+en el artículo 37º del DFL Nº1, de 2007, de
+
+los Ministerios de Transportes y
+
+Telecomunicaciones y de Justicia, que Fija
+
+Texto Refundido, Coordinado y Sistematizado
+
+de la ley Nº18.290, de Tránsito, le
+
+corresponderá a la Secretaría Regional de
+
+Transportes y Telecomunicaciones respectiva
+
+la emisión de un documento en extracto de
+
+los contenidos del curso realizado. Para
+
+estos efectos, el interesado deberá presentar
+
+ante la Secretaría Regional, una copia
+
+autorizada del Certificado del curso
+
+realizado o, en su defecto, acreditar ante
+
+la Secretaría Regional que la Municipalidad
+
+respectiva recibió el certificado emitido
+
+por la Escuela de origen.
 
 ** Certificado de Hoja de Vida del conductor del
 
@@ -64,7 +100,7 @@ c) En el Libro de Registro de cada curso se consignará la nómina de los alumno
 
 #### Artículo 7º
 
-Ante cualquier anomalía en el proceso de convalidación o en la dación de certificados de aprobación, el Secretario Regional, previo procedimiento que se indica en el artículo 32 de la Ley de Tránsito, podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales.
+Ante cualquier anomalía en el proceso de convalidación o en la dación de certificados de aprobación, el Secretario Regional, previo procedimiento que se indica en el artículo por la frase 37º del DFL Nº1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justica, que contiene el Texto Refundido, Coordinado y Sistematizado de la ley Nº 18.290, de Tránsito, podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales.
 
 #### Artículo 8º
 
