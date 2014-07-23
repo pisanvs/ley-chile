@@ -64,7 +64,7 @@ No serán aplicables estas disposiciones a los productos farmacéuticos biológi
 
 B.- Agréguese un numeral 8º del siguiente tenor:
 
-8.0 Disposiciones Transitorias: Los titulares de registro sanitario de productos farmacéuticos que reúnan alguna de las características anotadas en el numeral 4.2 de esta norma deberán presentar en un plazo de 90 días y por única vez los antecedentes señalados en su numeral 4.2.1, según corresponda.
+8.0 Disposiciones transitorias: Para los productos farmacéuticos estériles y no estériles ya registrados, que reúnan algunas de las características señaladas en el numeral 4.2, se otorga un plazo de seis meses y de un año, respectivamente, contado desde la fecha de publicación del presente decreto en el Diario Oficial, para dar cumplimiento a lo señalado en el presente acto administrativo.
 
 #### Artículo segundo
 
