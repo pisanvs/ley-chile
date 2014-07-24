@@ -32,11 +32,11 @@ a) Prohibición de funcionamiento de todo tipo de quemas dentro del radio urbano
 
 b) Prohibición de funcionamiento de chimeneas de hogar abierto dentro del radio urbano.
 
-c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña y carbón, dentro del radio urbano entre las 18:00 y 24:00 hrs.
+c) Prohibición de funcionamiento de fuentes fijas industriales, que usen como combustibles leña y otros derivados, tales como aserrín, chips, despunte, etc., y carbón dentro del radio urbano, entre las 18.00 y 24.00 hrs.
 
 d) Prohibición de funcionamiento de fuentes fijas comerciales y de edificios comunitarios que utilicen como combustible leña, entre las 18:00 y las 24:00 hrs, en el perímetro definido por esta Autoridad Sanitaria en el numerando cuarto del presente acto administrativo.
 
-e) Se exceptúan de la prohibición de funcionamiento, los establecimientos asistenciales, establecimientos educacionales y Establecimientos de Larga Estadía para Adultos Mayores (ELEAM).
+e) Se exceptúan de la prohibición de funcionamiento, los establecimientos asistenciales, establecimientos educacionales, hogares de menores y Establecimientos de Larga Estadía para Adultos Mayores (ELEAM).
 
 f) Se exceptúan de la prohibición de funcionamiento, dentro del perímetro definido por esta Autoridad Sanitaria, los sectores comprendidos entre las calles José Abelardo Núñez, Los Copihues, César Ercilla y Los Pellines (Población Huertos Obreros, Población Ramírez y Población Olaguer). Por otro lado, se exceptúa el sector comprendido entre las calles César Ercilla, Cervantes, Dieciocho de Septiembre y René Soriano, que comprende la Población Manuel Rodríguez.
 
@@ -50,11 +50,11 @@ c) Prohibición de funcionamiento de fuentes fijas industriales que usen como co
 
 d) Prohibición de funcionamiento de fuentes fijas comerciales y de edificios comunitarios que utilicen como combustible leña, entre las 18:00 y las 24:00 hrs, en el perímetro definido por esta Autoridad Sanitaria en el considerando cuarto del presente acto administrativo.
 
-e) Prohibición de funcionamiento de artefactos unitarios a leña (cocinas, estufas, salamandras, etc.), entre las 18.00 y 24.00 hrs., en el perímetro definido por esta Autoridad Sanitaria en el considerando cuarto del presente acto administrativo.
+e) Restríngese la emisión de humos visibles provenientes de artefactos unitarios a leña (cocinas, estufas, salamandras, etc.), entre las 18:00 y 24:00 hrs. en el perímetro informado por la Autoridad Sanitaria según el numerando VI del presente acto administrativo.
 
-f) Se exceptúan de la prohibición de funcionamiento los establecimientos asistenciales, establecimientos educacionales y Establecimientos de Larga Estadía para Adultos Mayores (ELEAM).
+f) Se exceptúan de la prohibición de funcionamiento, los establecimientos asistenciales, establecimientos educacionales, hogares de menores y Establecimientos de Larga Estadía para Adultos Mayores (ELEAM).
 
-g) Se exceptúan de la prohibición de funcionamiento, dentro del perímetro definido por esta Autoridad Sanitaria, los sectores comprendidos entre las calles José Abelardo Núñez, Los Copihues, César Ercilla hasta Julio Bushmann y Los Pellines (Población Huertos Obreros, Población Eleuterio Ramírez y Población Olaguer). Por otro lado, se exceptúa el sector comprendido entre las calles César Ercilla, Cervantes, Dieciocho de Septiembre y René Soriano, que comprende la Población Manuel Rodríguez.
+g) Derogado.
 
 III.- En episodios de Pre-Emergencia y Emergencia Ambiental, prohíbase todo tipo de actividades deportivas masivas, las actividades físicas que se realicen en las clases de educación física en los establecimientos educacionales y actividades físicas al aire libre. Asimismo, se exige el uso de mascarillas en pacientes crónicos, adultos mayores, niños y mujeres embarazadas.
 
