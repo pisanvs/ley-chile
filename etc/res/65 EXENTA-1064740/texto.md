@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos, Nº 65 de 18 de julio 2014, que autoriza a las Instituciones sin fines de lucro, Ministerio Evangelístico Salvados por Cristo, RUT Nº 65.712.770-1; Centro Protestante de Chile, RUT Nº 71.983.900-2; Agencia Adventista de Desarrollo y Recursos Asistencial, RUT Nº70.051.600-8; Iglesia Cuerpo de Cristo, RUT Nº 65.636.380-0; Fundación Tupahue, RUT Nº 65.073.765-2; Org. No Gubernamental de Desarrollo Social, Cultural y Productivo "CIDETS", RUT Nº 65.227.510-9, y Fundación Servicios Jesuita a Migrantes, RUT Nº 65.030.892-1 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2014.
