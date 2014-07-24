@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN NÚMERO 251 EXENTA, DE 2014
+
+Por resolución exenta Nº 251 de fecha 17 de junio de 2014 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío revócase el Programa de Enseñanza de la Escuela de Conductores No Profesional o Clase B denominada José Artemio Núñez Aguayo, RUT Nº 8.862.807-1, nombre de fantasía "Club de Automóviles Talcahuano", representada legalmente por don José Artemio Núñez Aguayo, para impartir cursos conducentes a la obtención de licencia de conductor Clase B, en el domicilio ubicadao en calle David Fuentes Nº 40 de la comuna de Talcahuano, otorgada a través de la resolución exenta Nº 218 de fecha 8 de agosto de 2011 de esta Secretaría Regional Ministerial.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Biobío.
