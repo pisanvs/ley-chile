@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN NÚMERO 1.428 EXENTA, DE 2014
+
+Por resolución exenta Nº 1.428, de 10 de junio de 2014, del Ministerio de Transportes y Telecomunicaciones, se crea el Programa Especial de Normalización de Transporte Público en Zonas Declaradas en Estado de Catástrofe en el marco del Programa de Apoyo al Transporte Regional establecido en el artículo Nº 5 de la ley Nº 20.378, determinándose como área de aplicación e implementación del Programa las zonas geográficas contempladas en los artículos 3º, literal b) y 4º, de la ley Nº 20.378, declaradas en estado de catástrofe, y mientras se mantenga la medida que establece el artículo 41 de la Constitución Política de la República de Chile, y hasta 12 meses posteriores al término de vigencia de la misma, y se establece la metodología de implementación del programa, en la que se encuentra el objetivo, los criterios de selección, la cuantificación de montos de subsidio, la implementación y los criterios de evaluación del impacto social. La resolución en referencia estará disponible para ser consultada en el sitio web www.mtt.gob.cl.
+
+Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
