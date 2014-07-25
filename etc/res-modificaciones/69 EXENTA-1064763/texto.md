@@ -1,0 +1,5 @@
+MODIFICA CONTENIDO DEL FORMULARIO Nº 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 69, del 21 de julio de 2014, que agrega a la estructura y contenido del Formulario Nº 50 sobre "Declaración y Pago Simultáneo Mensual de Impuestos", creado mediante la resolución exenta Nº 27, del 27 de julio de 2001, actualizado mediante las resoluciones exentas Nº 10, de 23 de enero de 2013, y Nº 9, de 22 de enero de 2014, nuevos datos solicitados en Línea 68 por concepto de Impuesto Específico Art. 43 ter ley Nº18.892 de Pesca y Acuicultura (modificada por ley Nº 20.657, de 2013).
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2014.
