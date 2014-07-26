@@ -22,6 +22,8 @@ La primera selección se realizará con los inscritos en cada modalidad al últi
 
 La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 1.500.000 Unidades de Fomento.
 
+Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados.
+
 2. Sin perjuicio del cumplimiento de los requisitos establecidos en el DS Nº 1 y en el DS Nº 49, ambos de Vivienda y Urbanismo, de 2011, los damnificados que se inscriban para cada modalidad de aplicación del subsidio deberán cumplir con los siguientes requisitos:
 
 a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo.
@@ -60,7 +62,9 @@ e) Del impedimento a que se refiere el artículo 15, del DS Nº 49 (V. y U.), de
 
 f) Del requisito de acreditar disponibilidad de sitio libre de hipotecas y gravámenes.
 
-4. No podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha, los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.), de 1995, o si lo estuviere su cónyuge.
+4. No obstante lo señalado en la letra d) del Resuelvo 3, no podrán inscribirse en alguna de las modalidades de aplicación del subsidio los arrendatarios o allegados que, aún cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo sea su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
+
+Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha ni los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.) de 1995, o si lo estuviere su cónyuge.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
@@ -76,7 +80,7 @@ En el caso de viviendas nuevas, se deberá presentar planta de arquitectura de l
 
 En el caso de una vivienda usada, se deberá presentar la tasación comercial de la vivienda, la que deberá contener el informe de aceptabilidad requerido por el Manual de Tasaciones para el Subsidio Habitacional, aprobado por resolución Nº 347 (V. y U.), de 2004. En caso que no sea posible presentar la planta de arquitectura de la vivienda con timbre de la Dirección de Obras Municipales respectiva, la misma tasación deberá señalar que la vivienda cumple con los recintos mínimos señalados en el inciso segundo de este número.
 
-Si el damnificado tiene derechos sobre un sitio, para inscribirse en esta modalidad deberá haber iniciado los trámites de cesión del terreno al Serviu, lo que deberá ser acreditado por éste.
+Si el damnificado tiene derechos sobre un sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe, para inscribirse en esta modalidad deberá haber iniciado los trámites de cesión del terreno al Serviu, lo que deberá ser acreditado por éste.
 
 7. Los beneficiarios en las modalidades de Adquisición de Vivienda nueva o usada podrán aplicar el subsidio a la adquisición de una vivienda económica de hasta 2.000 Unidades de Fomento, a través del DS Nº 1 (V. y U.), de 2011. La vivienda se financiará con el subsidio, más aportes propios y/o crédito hipotecario de ser el caso.
 
@@ -98,9 +102,9 @@ Conforme a los gastos que rinda, el beneficiario obtendrá un subsidio adicional
 
 10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículo 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
-En caso que el beneficiario hubiese tenido derechos sobre un sitio y haya iniciado los trámites de cesión del terreno al Serviu, conforme a lo señalado en el inciso quinto del Resuelvo 6. de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33 del DS Nº 1 (V. y U.), de 2011.
+En caso que el beneficiario hubiese tenido derechos sobre un sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y haya iniciado los trámites de cesión del terreno al Serviu, conforme a lo señalado en el inciso quinto del Resuelvo 6. de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33 del DS Nº 1 (V. y U.), de 2011.
 
-En caso que el beneficiario o su cónyuge tengan derechos en comunidad sobre una vivienda, para proceder al pago del subsidio se deberá acreditar que han cedido dichos derechos, mediante la correspondiente escritura pública inscrita, salvo que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en que el beneficiario o su cónyuge sean comuneros.
+Cuando hayan debido cederse los derechos sobre un sitio de conformidad con lo señalado en el inciso precedente, para proceder al pago del subsidio se deberá acreditar que se han cedido dichos derechos mediante la correspondiente escritura pública inscrita.
 
 Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, de acuerdo a lo señalado en la letra c) del artículo 35 del DS Nº 1 (V. y U.), de 2011.
 
@@ -113,6 +117,8 @@ El precio de la compraventa será el señalado en la respectiva escritura de com
 Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio siniestrado sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura.
 
 12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
+
+En caso de autoconstrucción de la vivienda en que no haya contrato de construcción o de provisión de la vivienda, a que se refiere la letra j) del inciso primero del artículo 34 del DS Nº 1 (V. y U.) de 2011, para pagar el subsidio se deberá presentar tasación comercial o informe que indique el costo de la vivienda y que cumple con los requisitos y condiciones exigidos en esta resolución, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad de Tasaciones, en cuyo caso se pagarán 4 Unidades de Fomento al consultor que realice la tasación o el informe de ser el caso.
 
 El beneficiario obtendrá además los siguientes subsidios adicionales:
 
@@ -150,7 +156,9 @@ b) Subsidio para obras de habilitación del terreno, de hasta 300 Unidades de Fo
 
 c) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento según corresponda, en los términos establecidos en la letra d) del artículo 7 del DS Nº 49 (V. y U.), de 2011.
 
-d) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
+d) Subsidio para la instalación de sistemas solares térmicos, de hasta 40 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbres. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
+
+e) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
 
 i. Elaboración, tramitación y aprobación de los proyectos de arquitectura, estructuras, especialidades, de mitigaciones de riesgo, de habilitación del terreno, especificaciones técnicas, presupuestos.
 
@@ -164,7 +172,7 @@ v. Informar a la familia respecto a las modalidades de aplicación del presente 
 
 vi. Pago de gastos administrativos, tales como el valor del permiso de edificación, recepción final municipal, gastos notariales y del Conservador de Bienes Raíces.
 
-El Serviu pagará hasta un 40% de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta un 20% contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y el saldo final contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
+El Serviu pagará hasta 28 Unidades de Fomento de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta 14 Unidades de Fomento contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y 28 Unidades de Fomento contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
 
 18. Para la presente modalidad se deberá presentar un proyecto habitacional que será evaluado y calificado por parte del Serviu a través del Sistema Informático que el Serviu de la Región de Valparaíso disponga al efecto, conforme al procedimiento y plazos establecidos en el artículo 54 del DS Nº 49 (V. y U.), de 2011. Se deberán presentar al Serviu los antecedentes del proyecto correspondientes a:
 
@@ -198,7 +206,7 @@ Los beneficiarios de la presente modalidad estarán eximidos de inscribir las pr
 
 21. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., y de hasta dos viviendas adicionales en el mismo terreno, conformando una copropiedad de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
-22. En esta alternativa, el valor de las viviendas a construir corresponderá al valor de los subsidios obtenidos por cada una de las familias, y no se consideran recursos adicionales ni crédito hipotecario.
+22. En esta alternativa, el valor de las viviendas a construir corresponderá al monto de los subsidios obtenidos por cada una de las familias más los aportes adicionales, si los hubiere. No se considerará crédito hipotecario para el financiamiento de las viviendas.
 
 23. El monto de subsidio a que podrá optar el damnificado para financiar la construcción de la vivienda será de hasta 600 Unidades de Fomento.
 
@@ -212,7 +220,9 @@ c) Subsidio adicional de hasta 150 Unidades de Fomento en caso que la superficie
 
 d) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento según corresponda, en los términos establecidos en la letra d) del artículo 7 del DS Nº 49 (V. y U.), de 2011.
 
-e) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
+e) Subsidio para la instalación de sistemas solares térmicos, de hasta 40 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbre. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
+
+f) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
 
 i. Elaboración, tramitación y aprobación de los proyectos de arquitectura, estructuras, especialidades, de mitigaciones de riesgo, de habilitación del terreno, especificaciones técnicas, presupuestos.
 
@@ -228,7 +238,7 @@ vi. Informar a !a familia respecto a las modalidades de aplicación del presente
 
 vii. Pago de gastos administrativos, tales como el valor del permiso de edificación, recepción final municipal, gastos notariales y del Conservador de Bienes Raíces.
 
-El Serviu pagará hasta un 40% de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta un 20% contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y el saldo final, contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
+El Serviu pagará hasta 28 Unidades de Fomento de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta 14 Unidades de Fomento contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y 28 Unidades de Fomento, contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
 
 24. En esta modalidad se deberá presentar un proyecto habitacional que será evaluado y calificado por parte del Serviu, haciendo uso del Sistema Informático conforme al procedimiento y plazos establecidos en el artículo 54 del DS Nº 49 (V. y U ), de 2011. Se deberán presentar al Serviu los antecedentes del proyecto correspondientes a:
 
@@ -262,7 +272,7 @@ Los beneficiarios de la presente modalidad estarán eximidos de inscribir las pr
 
 27. Los proyectos habitacionales que sean presentados al presente llamado en las modalidades de Construcción en Sitio Propio o Densificación Predial con pago posterior, Construcción en Sitio Propio con pago por avance de obras y Densificación Predial en Condominios, deberán cumplir con el siguiente estándar técnico:
 
-a) Superficie construida de a lo menos 45 metros cuadrados.
+a) Superficie construida de a lo menos 45 m² y que no exceda de los 140 m², cuyo valor o costo de construcción no debe exceder de 2.000 Unidades de Fomento.
 
 b) Un programa arquitectónico de a lo menos 4 recintos conformados: un dormitorio con cabida para una cama de dos plazas, un dormitorio con cabida para una cama de una plaza, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos y ducha.
 
@@ -290,7 +300,7 @@ e) El Serviu de la Región de Valparaíso, directamente, o a través de personas
 
 31. El subsidio se aplicará mediante una tarjeta personal e intransferible que el Serviu emitirá a nombre del beneficiario una vez aprobado el proyecto. Esta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio de hasta 600 Unidades de Fomento otorgado podrán adicionarse los subsidios complementarios señalados en las letras a), b) y c) del resuelvo 17 de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el resuelvo 39.
 
-Podrá destinarse hasta 90 Unidades de Fomento, deducibles del subsidio base, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida. Tanto este como el monto destinado a la demolición y retiro de escombros, si corresponden, no serán incorporados a la tarjeta.
+Podrá destinarse hasta 270 Unidades de Fomento, deducibles del subsidio base, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida. Tanto este como el monto destinado a la demolición y retiro de escombros, si corresponden, no serán incorporados a la tarjeta.
 
 32. El Serviu cargará la tarjeta para la adquisición de los materiales de construcción contra los siguientes hitos:
 
@@ -374,7 +384,7 @@ h) En caso que la Entidad Patrocinante no dé cumplimiento a las obligaciones se
 
 i) Para los pagos de subsidios y de los honorarios por concepto de servicios de asistencia técnica bajo esta modalidad sólo podrá exigirse el cumplimiento de las condiciones establecidas en la presente resolución, no siendo aplicable las exigencias contenidas para esos efectos en el DS Nº 49 (V. y U.), de 2011, ni las señaladas por la resolución Nº 420 (V. y U.), de 2012.
 
-j) Los honorarios que percibirán las Entidades Patrocinantes, por las labores de asistencia técnica bajo esta modalidad, alcanzarán un monto de hasta 70 Unidades de Fomento, y se pagarán en cuatro parcialidades: 10 Unidades de Fomento al momento de la calificación del proyecto respectivo, 25 Unidades de Fomento al momento de autorizada la segunda carga, 10 Unidades de Fomento una vez efectuada la recepción de las obras terminadas por parte del Serviu y 25 Unidades de Fomento una vez emitido el certificado de recepción definitiva de obras de edificación por parte de la Dirección de Obras Municipales respectiva.
+j) Los honorarios que percibirán las Entidades Patrocinantes, por las labores de asistencia técnica bajo esta modalidad, alcanzarán un monto de hasta 80 Unidades de Fomento, y se pagarán en cuatro parcialidades: 30 Unidades de Fomento al momento de la calificación del proyecto respectivo, 15 Unidades de Fomento al momento de autorizada la segunda carga, 15 Unidades de Fomento una vez efectuada la recepción de las obras terminadas por parte del Serviu y 20 Unidades de Fomento una vez emitido el certificado de recepción definitiva de obras de edificación por parte de la Dirección de Obras Municipales respectiva.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
