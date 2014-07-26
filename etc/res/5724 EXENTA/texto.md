@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 5.724 EXENTA, DE 2014
+
+Por resolución exenta Nº 5.724, de fecha 18 de julio de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores J & B (Conducción y Capacitación) Bernardita del Pilar Arroyo Sepúlveda" o "Escuela de Conductores J & B (Conducción y Capacitación) E.I.R.L.", cuya representante legal es la señora Bernardita del Pilar Arroyo Sepúlveda, RUT Nº 14.335.414-9 y su director el señor Adrián Armando Vega Valenzuela, RUT Nº 9.990.555-7, la que tendrá lugar de funcionamiento en local ubicado en Avda. Ramón Freire Nº 3492 (ex Avda. Pajaritos), comuna de Maipú.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
