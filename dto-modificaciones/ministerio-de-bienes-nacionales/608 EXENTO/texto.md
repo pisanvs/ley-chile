@@ -1,0 +1,7 @@
+MODIFICA DECRETO Nº 398 EXENTO, DE 2014, QUE OTORGÓ CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "CRUCERO OESTE CINCO SpA"
+
+Mediante decreto exento Nº 608 de 8 de julio de 2014, del Ministerio de Bienes Nacionales, se modificó el decreto exento Nº 398 de 15 de mayo de 2014, disponiendo que la Concesión Onerosa Directa contra proyecto, de un inmueble fiscal ubicado en la comuna de María Elena, Región de Antofagasta, se otorga a la sociedad "Crucero Oeste Cinco SpA", RUT Nº 76.238.073-0, para la ejecución de un proyecto que contempla la construcción de una subestación eléctrica, destinada al mantenimiento de todas las infraestructuras eléctricas y edificios de control de operaciones, comunes a los proyectos fotovoltaicos generadores de energía eléctrica; adecuando para ello las cláusulas 2, 7, 8 y 27 del referido decreto.
+
+El Contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del presente extracto. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, abogada, Jefa de División Jurídica.
