@@ -140,19 +140,15 @@ Meta Nacional: 9,4%
 
 Indicador:
 
-Nº de niños/as menores de 6 años bajo control, obesos, a diciembre de 2014
+Nº de niños/as menores de 6 años bajo control, obesos, a diciembre de 2014 X 100
 
-________________________________________________________ x 100
+_______________________________________________________
 
-Nº de niño/as menores de 6 años bajo control a diciembre de 2014.
+Nº de niños/as menores de 6 años bajo control a diciembre de 2014.
 
-Se espera disminuir la prevalencia de obesidad en niños menores de 6 años bajo control. El porcentaje esperado para el país es 9,4% como máximo, para el año 2014.
+Se espera disminuir la prevalencia de obesidad en niños menores de 6 años bajo control. El porcentaje esperado para el país es 9,4%.
 
-El cumplimiento de la Meta se evaluará de la siguiente forma:
-
-1. Si el cumplimiento está dentro del rango 9,4% o menos, su valor ponderado será de 12,5%. Quienes hayan logrado ubicarse en estos rangos porcentuales deben disminuir sus porcentajes de obesidad.
-
-2. Quienes estén sobre el valor 9,4% deberán disminuir 1 punto la obesidad sobre lo logrado el año anterior para obtener el valor 12,5%. Proporcionalmente irá disminuyendo dicho valor, si lo que logran es inferior a 1. Si mantiene o aumenta sobre lo comprometido, no alcanzará puntaje.
+Las comunas o establecimientos, según sea la unidad de análisis definida por el Servicio de Salud, deberán disminuir, respecto a sí mismos, la prevalencia de obesidad en relación a la cifra lograda en 2013, por esa unidad de análisis.
 
 Meta 7. Consejos de Desarrollo de Salud funcionando regularmente.
 
