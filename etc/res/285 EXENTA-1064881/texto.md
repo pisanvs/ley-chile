@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 285 EXENTA, DE 2014
+
+Por resolución exenta Nº285, de fecha de 25 de junio de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se modifica el resuelvo 2º de la resolución exenta 302, de fecha 29 de septiembre de 2011, de esta Secretaría Regional Ministerial, por lo siguiente: "La autorización para funcionar regirá los días lunes, miércoles, jueves y viernes de cada semana, en horario de 8:00 a 14:00 horas y de 15:00 a 18:00 horas, y sábados de 8:00 a 14:00 horas. Los días y horarios en que se efectuarán estas revisiones técnicas se podrán modificar por resolución exenta, tomando en consideración la demanda que exista por el servicio".
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
