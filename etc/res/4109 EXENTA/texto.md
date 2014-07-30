@@ -26,6 +26,8 @@ El ejercicio de dicha facultad no podrá importar allanarse al recurso interpues
 
 5. Actos por los cuales se declara la admisibilidad de las solicitudes de concesiones provisionales o definitivas, en el marco del proceso de revisión de los requisitos exigidos por los artículos 19 y 25 del DFL Nº 1 de 1982 del Ministerio de Minería, Ley General de Servicios Eléctricos, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº4, de 2007, del Ministerio de Economía, Fomento y Reconstrucción. Así como desecharlas de plano en caso que los antecedentes presentados fueren insuficientes o no fueren presentados dentro de los correspondientes plazos.
 
+6. Los oficios mediante los cuales se dé respuesta a peticiones de informes provenientes de los Tribunales de Justicia, relativos a recursos de reclamación por ilegalidad que se interpongan por terceros ajenos a la Superintendencia en contra de los actos y sanciones del Servicio individualizados en el Nº 2 del presente resuelvo y además cuando estos correspondan a sanciones aplicadas por los Directores Regionales de la Institución, consistentes en amonestación o multas iguales o inferiores a 1.000 UTM.
+
 2º Déjese sin efecto lo dispuesto en el resuelvo número 1º de la resolución exenta Nº 999 del 08.06.2011.
 
 3º Déjese sin efecto lo dispuesto en la resolución exenta Nº 3.249 del 24.11.2011.
