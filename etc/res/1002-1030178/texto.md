@@ -102,6 +102,8 @@ k) Elaborar los informes que soliciten los tribunales, el Ministerio Público y 
 
 l) Responder las solicitudes de acceso a la información, de acuerdo con las disposiciones de la ley Nº 20.285.
 
+m) Ratificar la aplicación de la medida disciplinaria de destitución a los directores de las asociaciones de funcionarios, de conformidad con el inciso primero del artículo 25 de la ley Nº 19.296.
+
 En virtud de lo anterior, los Contralores Regionales podrán, a solicitud de los interesados, informar respecto de las peticiones que se les formulen y que consten en la documentación de que dispongan.
 
 ### Párrafo 2º
