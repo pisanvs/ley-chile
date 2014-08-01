@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 531 de 30 de junio de 2014, se modificó el numeral segundo del Decreto MOP (Exento) Nº 2087 de 22 de noviembre de 2013, que ordenó la expropiación de los Lotes Nº50-A y 51-A, en la parte que se refiere a la individualización del propietario y número de rol de avalúo de los lotes afectos a expropiación, debe decir: propietario según S.I.I. AGRICOLA SANTA AMELIA DE AUQUINCO L y AGRICOLA SANTA AMELIA DE AUQUINC, rol de avalúo 36-84 y 38-20, Comuna de CHEPICA, expropiados con motivo de la obra: "Mejoramiento Ruta I-796, Cabrería - Auquinco". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
