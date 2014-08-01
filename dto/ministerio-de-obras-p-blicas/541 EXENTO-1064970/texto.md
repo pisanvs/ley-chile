@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 541 de 11 de julio de 2014, se modificó el numeral segundo del Decreto MOP (Exento) Nº 2609 de 31 de octubre de 2012, que ordenó la expropiación, entre otros, el Lote Nº83, en la parte que se refiere al número de rol de avalúo y nombre del propietario según rol de avalúo, debe decir: MORALES LETELIER LUIS ARTURO, rol de avalúo 3721-53, Comuna de Talca, expropiado con motivo de la obra: "Camino Ampliación Reposición Ruta 115-CH, Sector Talca - San Clemente, Tramo I Talca - Variante San Clemente, kilómetro 0,00000 a km. 13,92941, Comuna de Talca, Provincia de Talca, Región del Maule". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
