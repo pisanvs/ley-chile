@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 498 EXENTA, DE 2014
+
+Por resolución exenta Nº 498, de 17 de julio de 2014, de la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región del Libertador General Bernardo O'Higgins, celebrados con los concesionarios Revisiones Técnicas El Libertador Ltda. y Revisiones Serviden Ltda., aprobados por las resoluciones exentas Nº 333 y Nº 334, respectivamente, ambas de fecha 6 de julio de 2004 de la citada Secretaría Regional, hasta el día 3 de agosto de 2015.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
