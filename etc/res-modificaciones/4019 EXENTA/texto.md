@@ -28,6 +28,8 @@ Resolución:
 
 2. Modifícase el Resuelvo 2. de la resolución exenta Nº 1.540 (V. y U.), de 2013, en el sentido de sustituir la tabla inserta en dicho Resuelvo por la siguiente:
 
+.
+
 3. Apruébanse las nóminas de postulantes seleccionados del mes de abril de 2013, para el otorgamiento de subsidios habitacionales correspondientes al Llamado en Condiciones Especiales de 2013 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren ampliaciones para adultos mayores, sistemas solares térmicos, mejoramiento de viviendas de personas con discapacidad o acondicionamiento térmico de viviendas, dispuesto en el resuelvo 1. de la resolución exenta Nº 1.540 (V. y U.), de 2013, y sus modificaciones, nóminas que se adjuntan y se entenderán formar parte integrante de esta resolución y fíjase el número de postulantes seleccionados, por región, según se indica en la siguiente tabla:
 
 4. Comprométanse los recursos disponibles, para la selección del mes de abril de 2013, del Llamado en Condiciones Especiales de 2013 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren ampliaciones para adultos mayores, sistemas solares térmicos, mejoramiento de viviendas de personas con discapacidad o acondicionamiento térmico de viviendas, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica según la distribución por título y por región señalada en el siguiente cuadro:
