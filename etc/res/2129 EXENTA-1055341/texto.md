@@ -30,10 +30,14 @@ Resolución:
 
 1. Comprométanse los recursos para la selección del mes de julio de 2013 para el desarrollo de proyectos en Condominios de Viviendas Sociales, que se destinarán al financiamiento de los subsidios y al pago de los servicios de asistencia técnica, según la distribución que se señala a continuación:
 
+.
+
 2. Apruébanse las nóminas de postulantes seleccionados para el otorgamiento de subsidios habitacionales correspondientes al mes de julio de 2013, de acuerdo con lo dispuesto en el resuelvo número 1 de la resolución exenta Nº 739 (V. y U.), de 2013. Estas nóminas se adjuntan y se entenderán formar parte de la presente resolución.
 
 3. Fíjase el número de postulantes seleccionados en la Región Metropolitana de acuerdo a la distribución regional de recursos consignada en el resuelvo número 7º para los proyectos que se financiarán conforme lo dispone el resuelvo 8º, ambos de la resolución exenta Nº 739 (V. y U.), de 2013, según se indica en la tabla que a continuación se inserta:
 
 4. Publíquese, en un periódico de circulación regional, sin perjuicio de la ulterior publicación en el Diario Oficial, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener, a lo menos, la comuna, el Título y la modalidad de proyecto del cual se trate, del DS Nº 255/2006, nombre de cada postulante, con su respectiva cédula nacional de identidad, y puntaje obtenido por el grupo o persona.
+
+> **Nota.** El Numeral 1° de la Resolución 1550 Exenta, Vivienda, publicada el 04.08.2014, rectifica la presente norma en el sentido de indicar que al final de tabla inserta se señala "Copropiedad Villa Alsino 3A" y debe decir "Copropiedad Villa Alsino 3"
 
 Anótese, comuníquese, publíquese y archívese.- Juan Andrés Muñoz Saavedra, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
