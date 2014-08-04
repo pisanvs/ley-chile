@@ -1,0 +1,5 @@
+REVOCA RECONOCIMIENTO OFICIAL QUE INDICA A ESCUELA DE CONDUCTORES PROFESIONALES "CENTRO DE FORMACIÓN PROFESIONAL ORBIS LIMITADA"
+
+Por resolución exenta Nº 324, de fecha 20 de junio de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se revoca el Reconocimiento Oficial y los planes y programas otorgados a la Escuela de Conductores Profesionales "Centro de Formación Profesional Orbis Limitada" u "Orbis Ltda.", RUT: 77.540.820-0, representada legalmente por el Sr. Germán Reinaldo Manríquez Surco, para impartir los cursos conducentes a la obtención de licencias profesionales clases A1, A2, A3, A4 y A5, en la sede de Calle Balmaceda Nº 454 y las clases mecánicas en Avenida Circunvalación Presidente Ibáñez Nº 348, comuna de Puerto Montt.
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
