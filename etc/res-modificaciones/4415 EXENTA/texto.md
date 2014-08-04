@@ -1,0 +1,7 @@
+MODIFICA NÓMINA DE POSTULANTES QUE INDICA
+
+Resolución exenta Nº 4.415, de fecha 30 de julio de 2014, dispone modificación de la nómina de postulantes seleccionados del Tercer Llamado Nacional 2013 del Sistema Integrado de Subsidio Habitacional, eliminando a doña Carla Andrea del Carmen Aravena Monroy, postulante seleccionada en ese llamado, de la nómina correspondiente a la Región de La Araucanía, Título I, e incluyéndola en la nómina correspondiente a la Región del Maule, Título I; rectificando el Certificado de Subsidio Habitacional Serie DS1T1 5-2012 NA02697, extendido a su favor, señalando como región de aplicación del subsidio la Región del Maule.
+
+Como consecuencia de lo dispuesto en el número anterior, rebájase en uno (1) el número de postulantes seleccionados y en 450 U.F. el monto de recursos necesarios para financiar el subsidio directo para la atención de los postulantes seleccionados en la Región de La Araucanía, Título I, en el Tercer Llamado Nacional 2013 del Sistema Integrado de Subsidio Habitacional, y auméntese en uno (1) el número de postulantes seleccionados y en 450 U.F. el monto de recursos necesarios para financiar el subsidio directo de dicho postulante, en la Región del Maule, Título I, en el llamado referido.
+
+Como consecuencia de lo anterior, no se modifica el número de postulantes seleccionados, ni el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.
