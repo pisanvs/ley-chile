@@ -1,0 +1,31 @@
+DECLARA LA CADUCIDAD DE LA CONCESIÓN DEFINITIVA OTORGADA MEDIANTE DECRETO Nº 429, DE 2001, DEL MINISTERIO DE ECONOMÍA, FOMENTO Y RECONSTRUCCIÓN, A CHILQUINTA ENERGÍA S.A.
+
+Núm. 51.- Santiago, 7 de abril de 2014.- Vistos: Lo dispuesto en el DFL Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del DFL Nº 1, de 1982, de Minería, en adelante, Ley General de Servicios Eléctricos, y sus modificaciones posteriores; en la ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL Nº 2.224, de 1978 y a otros cuerpos legales; en la Ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto supremo Nº 327, de 1997, del Ministerio de Minería, que Fija Reglamento de la Ley General de Servicios Eléctricos; lo informado por Chilquinta Energía S.A. mediante su carta SGG - 018/2013, de 8 de noviembre de 2013; lo solicitado por el Ministerio de Energía en su oficio ordinario Nº 1428, de 29 de noviembre de 2013; lo informado por la Dirección Regional de Valparaíso de la Superintendencia de Electricidad y Combustibles, mediante su oficio ord.: Nº 0120 ACC 951732, de 12 de febrero de 2014, y por la Superintendencia de Electricidad y Combustibles en su oficio ord.: Nº 2886/ ACC 971039/ DOC 745706, de 26 de marzo de 2014; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que el Ministerio de Economía, Fomento y Reconstrucción, mediante decreto supremo Nº 429, de 14 de diciembre de 2001, otorgó a Chilquinta Energía S.A. una concesión definitiva para establecer en la V Región de Valparaíso, provincias de Quillota y Valparaíso, comunas de Limache y Villa Alemana, la línea de transporte de energía eléctrica de doble circuito de tensión nominal de 110 kV entre fases, denominada Línea 2 x 110 kV a la subestación Villa Alemana, el cual fue publicado en el Diario Oficial el día 24 de enero de 2002 y reducido a escritura pública con fecha 5 de febrero de 2002.
+
+2. Que de conformidad a lo establecido en el artículo 10 del referido decreto concesional, el plazo para la iniciación de las obras de la Línea 2 x 110 kV a la subestación Villa Alemana era de 30 días, a partir de la fecha de reducción a escritura pública del mismo decreto, y el plazo para su terminación total era de 12 meses, a contar de la fecha de iniciación de los trabajos.
+
+3. Que mediante carta SGG - 018/2013, de fecha 8 de noviembre de 2013, Chilquinta Energía S.A. le informa al Ministerio de Energía que no ha dado cumplimiento al plazo de inicio de obras señalado en el artículo 10 del decreto supremo Nº 429, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, y solicita que se declare la caducidad de la concesión otorgada por dicho decreto.
+
+4. Que el numeral 2 del artículo 39 de la Ley General de Servicios Eléctricos señala que "Las concesiones definitivas de servicio eléctrico caducarán, antes de entrar en explotación: (...) 2. Si no se iniciaren los trabajos dentro de los plazos señalados y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.".
+
+5. Que de conformidad a lo establecido en el artículo 52 del decreto supremo Nº 327, de 1997, del Ministerio de Minería, el Ministerio de Energía, mediante oficio ordinario Nº 1428, de fecha 29 de noviembre de 2013, solicitó a la Superintendencia de Electricidad y Combustibles que constatara la concurrencia de la causal de caducidad de concesión definitiva comunicada por Chilquinta Energía S.A, e informara al respecto.
+
+6. Que la Dirección Regional de Valparaíso de la Superintendencia de Electricidad y Combustibles, a través de su oficio ord.: Nº 0120 ACC 951732, de 12 de febrero de 2014, informó que en los terrenos en los cuales debería emplazarse la subestación Villa Alemana y la Línea 2 x 110 kV a la subestación Villa Alemana no existen construcciones ni faenas destinadas a materializar dichos proyectos.
+
+7. Que de acuerdo a lo informado por su Dirección Regional de Valparaíso, la Superintendencia de Electricidad y Combustibles, mediante oficio ord.: Nº 2886/ ACC 971039/ DOC 745706, de 26 de marzo de 2014, comunicó al Ministerio de Energía que se constató la configuración de la causal dispuesta en el numeral 2 del artículo 39 de la Ley General de Servicios Eléctricos, según los plazos señalados en el artículo 10 del decreto supremo Nº 429, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, sin haber mediado fuerza mayor, caso fortuito u otra causal grave y calificada que eximiera al concesionario de responsabilidad.
+
+8. Que habiéndose constatado por la Superintendencia de Electricidad y Combustibles la concurrencia de una causal de caducidad de la concesión definitiva de servicio eléctrico, y no mediando fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, corresponde que el Presidente de la República, mediante decreto supremo fundado, declare la caducidad de la concesión definitiva otorgada mediante el decreto supremo Nº 429, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Decreto:
+
+I. Cadúcase la concesión eléctrica definitiva otorgada a Chilquinta Energía S.A. mediante el decreto supremo Nº 429, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, por no haberse iniciado los trabajos dentro de los plazos señalados en el mismo decreto, sin que mediara fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario.
+
+II. Comuníquese a la Superintendencia de Electricidad y Combustibles el presente decreto de conformidad a lo dispuesto en el artículo 54 del decreto supremo Nº 327, de 1997, del Ministerio de Minería.
+
+Anótese, tómese razón, comuníquese, notifíquese y publíquese en el Diario Oficial.- MICHELLE BACHELET JERIA, Presidenta de la República.- Máximo Pacheco M., Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
