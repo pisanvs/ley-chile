@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.978, de 29 de julio de 2014, de esta Subsecretaría, recházanse las solicitudes números 211123001, 211122056, 207105026, 210110038 sector 2, 211110052, 208121165 y 207121255, individualizadas en la resolución extractada, y publicada en www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de julio de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
