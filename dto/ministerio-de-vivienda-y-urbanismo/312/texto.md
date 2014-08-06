@@ -22,7 +22,7 @@ Mediante este Programa se podrán construir obras nuevas o rehabilitar obras exi
 
 Las obras deberán ser ejecutadas en inmuebles de propiedad de la Municipalidad o del Servicio de Vivienda y Urbanización, o en bienes nacionales de uso público.
 
-También podrán ser ejecutadas en inmuebles de propiedad de particulares siempre que estén o sean destinados al uso público. Para tal efecto, dichos inmuebles deberán ser entregados en comodato al municipio por un plazo mínimo de 50 años, con el objeto que las obras ejecutadas en ellos sean de libre acceso a toda la población, salvo aquellas que por su particular naturaleza no lo permitan.
+También podrán ser ejecutadas en inmuebles de propiedad de particulares siempre que estén o sean destinados al uso público. Para tal efecto, dichos inmuebles deberán ser entregados en comodato al municipio por un plazo mínimo de 30 años, con el objeto que las obras ejecutadas en ellos sean de libre acceso a toda la población, salvo aquellas que por su particular naturaleza no lo permitan.
 
 #### Artículo 4º
 
