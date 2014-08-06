@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.991, de 30 de julio de 2014, de esta Subsecretaría, modifica resolución Nº 1.692, de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 18B, cambiando la clasificación de bioseguridad a Baja 1, las densidades de cultivo y el número de ejemplares a ingresar, en la forma señalada en la resolución extractada.
+
+Valparaíso, 30 de julio de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
