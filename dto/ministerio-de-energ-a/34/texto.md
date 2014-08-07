@@ -98,7 +98,7 @@ No obstante lo anterior, el Proyecto tendrá las demás características técnic
 
 2. Fecha de entrada en operación.
 
-De acuerdo a lo establecido en el Decreto Exento Nº 642, el proyecto deberá ser construido y entrar en operación a más tardar dentro de los 51 meses siguientes contados desde la publicación en el Diario Oficial del presente Decreto sin perjuicio de la excepción establecida en el Decreto Exento Nº 1349, del 2009, del Ministerio de Economía, que modificó el Decreto Exento Nº 642.
+De acuerdo a lo establecido en el Decreto Exento Nº 642, el proyecto deberá ser construido y entrar en operación a más tardar dentro de los 66 meses siguientes contados desde la publicación en el Diario Oficial del presente Decreto sin perjuicio de la excepción establecida en el Decreto Exento Nº 1349, del 2009, del Ministerio de Economía, que modificó el Decreto Exento Nº 642.
 
 En caso que el día de entrada en operación del Proyecto sea un día sábado, domingo o festivo, este plazo podrá ser prorrogado al primer día hábil siguiente.
 
@@ -242,7 +242,7 @@ d) Hito Relevante Nº 4: Entrada en operación del
 
 proyecto: Corresponde a la finalización de la
 
-puesta en servicio de la línea, a más tardar 51
+puesta en servicio de la línea, a más tardar 66
 
 meses contados desde la publicación del presente
 
