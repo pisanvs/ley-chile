@@ -78,31 +78,13 @@ De las Equivalencias entre las Clasificaciones de los Títulos de Deuda Extranje
 
 Las equivalencias que efectúe la Comisión, según lo dispone el inciso séptimo del artículo 105 de la Ley, se establecerán entre las categorías de clasificación definidas y utilizadas por las entidades clasificadoras internacionalmente reconocidas, que el Banco Central de Chile considere para efectos de la inversión de sus recursos, y las señaladas en los incisos primero y segundo del artículo citado.
 
-Para los efectos de lo dispuesto en el inciso anterior, se entenderá por categorías de clasificación internacional a las definidas y utilizadas por Standard & Poor´s Rating Services (S&P), Fitch Rating Service (Fitch) y Moody´s Investor Services (Moody´s).
+Para los efectos de lo dispuesto en el inciso anterior, se entenderá por categorías de clasificación internacional a las definidas y utilizadas por Standard & Poor's (S&P)), Fitch Rating Service (Fitch), Moody's Investor Services (Moody's) y Dominion Bond Rating Services Ltd. (DBRS).
 
 #### Artículo 3
 
 Para instrumentos cuyo plazo de vencimiento sea superior a un año las equivalencias entre las categorías señaladas en el inciso primero del artículo 105 de la Ley y las clasificaciones definidas y utilizadas por las entidades internacionales reconocidas, serán las siguientes:
 
-Ley S&P Fitch Moody's
-
-a) Categoría AAA AAA AAA Aaa
-
-b) Categoría AA AA (+,-) AA (+,-) Aa (1, 2, 3)
-
-c) Categoría A A (+,-) A (+,-) A (1, 2, 3)
-
-d) Categoría BBB BBB (+,-) BBB (+,-) Baa (1, 2, 3)
-
-e) Categoría BB BB (+,-) BB (+,-) Ba (1, 2, 3)
-
-f) Categoría B B (+,-) B (+,-) B (1, 2, 3)
-
-g) Categoría C CCC (+,-) CCC (+,-) Caa (1, 2, 3)
-
-h) Categoría D Cualquier otra clasificación no
-
-definida anteriormente
+.
 
 #### Artículo 4
 
@@ -124,17 +106,7 @@ anteriormente.
 
 Para instrumentos cuyo plazo de vencimiento sea igual o inferior a un año las equivalencias entre los niveles señalados en el inciso segundo del artículo 105 de la Ley y las clasificaciones definidas y utilizadas por las entidades internacionales reconocidas, serán las siguientes:
 
-Ley S&P Fitch Moody's
-
-a) Nivel 1 A-1(+) F1(+) P-1
-
-b) Nivel 2 A-2 F2 P-2
-
-c) Nivel 3 A-3 F3 P-3
-
-d) Nivel 4 Cualquier otra clasificación no definida
-
-anteriormente.
+.
 
 ## Título II
 
@@ -206,7 +178,7 @@ Los sistemas institucionales de regulación, fiscalización y sanción a los cua
 
 Las características de la administradora y su matriz se aprobarán en la medida que la sociedad administradora, su matriz o el grupo al que pertenece, acredite un monto mínimo de US$ 10.000 millones en activos administrados por cuenta de terceros, considerando en dicho valor sólo aquellos que sean el resultado de una decisión de inversión tomada exclusivamente por la sociedad administradora, y un mínimo de cinco años completos de operación en la administración de dicho tipo de activos. Adicionalmente, la sociedad administradora deberá mostrar una directa relación en términos de gestión, de patrimonio y de identificación con la sociedad matriz o grupo al que pertenece.
 
-No obstante lo anterior, cuando la sociedad administradora esté constituida en Chile, como Administradora General de Fondos o Administradora de Fondos de Inversión, y administre fondos aprobados localmente por esta Comisión según lo dispuesto en el Acuerdo Nº 31, la sociedad administradora deberá acreditar un monto mínimo de US$ 1.000 millones en activos administrados por cuenta de terceros, en fondos mutuos o fondos de inversión públicos, de aquellos contemplados en el Decreto Ley Nº 1.328, de 1976, y la Ley Nº 18.815, respectivamente, considerando en dicho valor sólo aquellos que sean el resultado de una decisión de inversión tomada exclusivamente por la sociedad administradora, y un mínimo de cinco años completos de operación en la administración de dicho tipo de fondos.
+No obstante lo anterior, cuando la sociedad administradora esté constituida en Chile, como sociedad administradora de fondos de las contempladas en el Capítulo II de la Ley Nº 20.712, y administre fondos aprobados localmente por esta Comisión según lo dispuesto en el Acuerdo Nº 31, la sociedad administradora deberá acreditar un monto mínimo de US$ 1.000 millones en activos administrados por cuenta de terceros, en fondos de los regulados por el Capítulo III de la Ley Nº 20.712, considerando en dicho valor sólo aquellos que sean el resultado de una decisión de inversión tomada exclusivamente por la sociedad administradora, y un mínimo de cinco años completos de operación en la administración de dicho tipo de fondos.
 
 Las sociedades antes indicadas deberán acreditar una intachable reputación y vasta experiencia en la administración de recursos de terceros, así como una sólida solvencia. En caso de haber enfrentado o enfrentar intervenciones, demandas, juicios o litigios de relevancia con autoridades reguladoras, aportantes u otras entidades, la Comisión evaluará caso a caso estas circunstancias.
 
@@ -224,7 +196,7 @@ Los gravámenes y prohibiciones sobre los activos del fondo mutuo o de inversió
 
 #### Artículo 19
 
-Las características del fondo mutuo o de inversión se aprobarán cuando el fondo acredite, mediante presentación de estados financieros, activos por un monto mínimo equivalente a US$ 100 millones, descontados de esta cifra los aportes efectuados por la sociedad administradora o entidades relacionadas.
+Las características del fondo mutuo o de inversión se aprobarán cuando el fondo acredite, mediante presentación de estados financieros, activos netos por un monto mínimo equivalente a US$ 100 millones, descontados de esta cifra los aportes efectuados por la sociedad administradora o entidades relacionadas.
 
 #### Artículo 20
 
@@ -234,7 +206,7 @@ Con relación a las cuotas emitidas por los fondos de inversión, su liquidez se
 
 #### Artículo 21
 
-Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en los informes de clasificación de riesgo de las cuotas.
+Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en la clasificación determinada de acuerdo a las normas antes señaladas.
 
 Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existe una gran incertidumbre respecto del Fondo o de sus cuotas.
 
