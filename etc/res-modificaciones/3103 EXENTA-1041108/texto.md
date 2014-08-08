@@ -144,6 +144,8 @@ Las concesionarias de servicio público de telefonía, de transmisión de datos 
 
 El presente artículo no será aplicable a las antenas de las concesionarias de servicios comunitarios y ciudadanos de radiodifusión de libre recepción.
 
+> **Nota.** El inciso final del presente artículo fue incorporado por el numeral 1° del artículo único de la Resolución 4302 Exenta, Transportes, publicada el 04.09.2012.
+
 ## Título III
 
 Aspectos generales del procedimiento de medición
@@ -310,7 +312,7 @@ Especialmente se verificará dicho cumplimiento durante el proceso de recepción
 
 Para efectos de lo antes señalado, los órganos de la Administración del Estado, particularmente aquellos que deban evacuar autorizaciones que digan relación con la instalación de antenas o que tengan alguna participación en ello, prestarán toda la colaboración que sea necesaria para el adecuado cumplimiento de las funciones de fiscalización derivadas de la presente norma, informando a la Subsecretaría de cualquier anomalía que detecten en el ejercicio de sus funciones.
 
-Disposición Transitoria: El primer informe de medición, a que se refiere el artículo 5° de la presente norma, deberá remitirse a la Subsecretaría por las concesionarias de radiodifusión sonora y televisiva, en el mes de julio de 2013, e incluir todas las antenas ubicadas en localidades urbanas. Para las antenas de localidades rurales, el plazo para remitir dicho informe, será el mes de noviembre de 2014.
+Disposición Transitoria: El primer informe de medición, a que se refiere el artículo 5º de la presente norma, deberá remitirse a la Subsecretaría por las concesionarias de Radiodifusión Sonora incluyendo todas las antenas ubicadas en localidades urbanas y rurales y para las antenas de las concesionarias de Radiodifusión Televisiva ubicadas en localidades rurales, en el mes de julio de 2015.
 
 Anótese, regístrese y publíquese en el Diario Oficial.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
