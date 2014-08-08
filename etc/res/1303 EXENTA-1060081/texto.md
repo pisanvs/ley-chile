@@ -32,11 +32,13 @@ Resolución:
 
 Mejoramiento del Entorno.
 
-1.2 Título II, Mejoramiento de la Vivienda, incluidos
+1.2 Título II, Mejoramiento de la Vivienda,
 
-los Proyectos de Habitabilidad que digan relación
+incluidos los Proyectos de Habitabilidad
 
-con facilitar el desplazamiento al interior de la
+que digan relación con facilitar
+
+el desplazamiento al interior de la
 
 vivienda de personas con discapacidad que
 
@@ -56,11 +58,13 @@ Vivienda que se regirá por lo indicado en
 
 el resuelvo 6 de esta resolución.
 
-1.3 Título III, Ampliación de la Vivienda, incluyendo
+1.3 Título III, Ampliación de la Vivienda,
 
-proyectos especiales definidos en el resuelvo 5
+incluyendo proyectos especiales
 
-de esta resolución, destinados a acoger a un
+definidos en el resuelvo 5 de esta
+
+resolución, destinados a acoger a un
 
 Adulto Mayor, o en caso de ser este último
 
