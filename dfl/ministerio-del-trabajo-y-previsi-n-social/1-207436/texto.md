@@ -320,11 +320,11 @@ Las infracciones a lo dispuesto en este artículo serán sancionadas con multa a
 
 #### Artículo 25
 
-La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, de servicios interurbanos de transportes de pasajeros y del que se desempeñe a bordo de ferrocarriles, será de ciento ochenta horas mensuales. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de transporte de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes.
+La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, y de servicios interurbanos de transporte de pasajeros, será de ciento ochenta horas mensuales. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de transporte de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes.
 
 Todos los trabajadores aludidos en el inciso precedente deberán tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
 
-Cuando los choferes y auxiliares de la locomoción colectiva interurbana y el personal que se desempeña a bordo de ferrocarriles arriben a un terminal, después de cumplir en la ruta o en la vía, respectivamente, una jornada de ocho o más horas, deberán tener un descanso mínimo en tierra de ocho horas.
+Cuando los choferes y auxiliares de la locomoción colectiva interurbana arriben a un terminal, después de cumplir en la ruta o en la vía, respectivamente, una jornada de ocho o más horas, deberán tener un descanso mínimo en tierra de ocho horas.
 
 En ningún caso el chofer de la locomoción colectiva interurbana podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas.
 
@@ -337,6 +337,24 @@ La jornada ordinaria de trabajo de choferes de vehículos de carga terrestre int
 El trabajador deberá tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
 
 En ningún caso el trabajador podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas. En los casos de conducción continua inferior a cinco horas el conductor tendrá derecho, al término de ella, a un descanso cuya duración mínima será de veinticuatro minutos por hora conducida. En todo caso, esta obligación se cumplirá en el lugar habilitado más próximo en que el vehículo pueda ser detenido, sin obstaculizar la vía pública. El camión deberá contar con una litera adecuada para el descanso, siempre que éste se realice total o parcialmente a bordo de aquél.
+
+#### Artículo 25 ter
+
+La jornada de trabajo y descansos de los trabajadores que se desempeñen como parte de la tripulación a bordo de ferrocarriles, se regirá por las siguientes reglas:
+
+1.- La jornada ordinaria de trabajo no podrá superar las ciento ochenta horas mensuales. La jornada diaria no podrá superar las siete horas treinta minutos continuas en el caso del transporte de pasajeros, ni las nueve horas continuas en el caso de transporte de carga, ambos períodos dentro de un lapso de veinticuatro horas.
+
+En el caso de que circunstancias tales como el tiempo de cruzamiento de trenes, accidentes, u otras difíciles de prever y que impliquen interrumpir el servicio ferroviario de pasajeros o de carga, superando los tiempos máximos establecidos en el párrafo anterior, el empleador deberá pagar las horas en exceso con el mismo recargo que establece el artículo 32. Con todo, si las contingencias descritas implicaren una demora tal que se deban sobrepasar las once horas de trabajo, el empleador deberá proveer una tripulación de relevo para la continuación del servicio.
+
+2.- La programación mensual de los servicios a realizar deberá ser entregada al trabajador con a lo menos quince días de anticipación.
+
+3.- Tratándose de trenes de pasajeros, el maquinista no podrá conducir más de cinco horas continuas, tras lo cual tendrá derecho a una hora de descanso imputable a la jornada diaria.
+
+4.- Finalizada la jornada ordinaria diaria el trabajador tendrá derecho a un descanso mínimo de diez horas continuas, al que se agregará el tiempo necesario para traslado del trabajador al lugar en que pernocte o descanse.
+
+5.- Las partes podrán programar turnos de espera o llamado de hasta siete horas treinta minutos continuas dentro de un lapso de veinticuatro horas para la realización de un servicio; con todo, luego de transcurridas las horas del referido turno, el trabajador tendrá derecho a un descanso mínimo igual al indicado en el número 4. Las horas correspondientes a los turnos de llamado no serán imputables a la jornada mensual y deberán remunerarse de común acuerdo entre las partes. Esta retribución no podrá ser inferior al valor de la hora correspondiente a uno y medio ingreso mínimo mensual.
+
+6.- Las reglas anteriores se aplicarán sin perjuicio de lo dispuesto en el inciso penúltimo del artículo 38.
 
 #### Artículo 26
 
