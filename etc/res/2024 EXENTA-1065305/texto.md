@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.024, de 4 de agosto de 2014, de esta Subsecretaría, déjese sin efecto la resolución exenta Nº 2.031, de 2009, que autorizó a GOBALPESCA S.A. para realizar actividades extractivas en alta mar, con la nave "Isla Santa Clara", por configurarse conforme antecedentes señalados en la parte considerativa de la resolución extractada, la causal establecida en el artículo 11.- letra a) del decreto supremo Nº 360, de 2005 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
