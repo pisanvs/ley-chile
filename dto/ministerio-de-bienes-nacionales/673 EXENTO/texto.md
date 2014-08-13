@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A "FOTOVOLTAICA NORTE GRANDE 4 SPA"
+
+Mediante decreto exento Nº 673, de 28 de julio de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Fotovoltaica Norte Grande 4 SpA", RUT Nº 76.213.021-1, el inmueble fiscal ubicado en el Camino Público C-175, altura Km. 10, comuna Diego de Almagro, provincia de Chañaral, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 7000-100, amparado por la inscripción global que rola a fojas 111 vta. Nº 105, del Registro de Propiedad del Conservador de Bienes Raíces de Diego de Almagro, correspondiente al año 1996, de una superficie de 219,047 has, singularizado en el Plano Nº 03202-1.365-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 2.771,72.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefe de División Jurídica.
