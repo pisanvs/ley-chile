@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.082, de 7 de agosto de 2014, de esta Subsecretaría, modifica resolución Nº 1.899, de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 17A, fijando el número máximo de ejemplares a ingresar por estructura de cultivo para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 7 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
