@@ -24,6 +24,8 @@ Resuelvo:
 
 2º Extiéndase la vigencia de los certificados de Eficiencia Energética del producto Motor Trifásico de Inducción Jaula de Ardilla, emitidos con anterioridad a la publicación de esta resolución, hasta el día 31.10.2014, en tanto el plazo de vencimiento acaezca antes de esa fecha.
 
+Los certificados de Eficiencia Energética para el producto Motor Trifásico de Inducción Jaula de Ardilla, basados en informes de entidades acreditadas, emitidos con anterioridad al 07.03.2014, tendrán vigencia hasta el sexto mes posterior a su fecha de vencimiento.
+
 3º Con todo, y sin perjuicio de la necesidad de contar previamente con certificación de seguridad, será condición para someterse lícitamente a los regímenes establecidos más arriba, tanto para modelos ya certificados como para nuevos modelos no certificados a la fecha de publicarse este acto administrativo, plantear en el respectivo Organismo de Certificación vinculado con Laboratorios de Ensayos autorizado y/o acreditado solicitud de Certificación de Eficiencia Energética del producto Motor Trifásico de Inducción Jaula de Ardilla, supuesto que se verificará de oficio por esta Superintendencia mediante la plataforma electrónica E-declarador.
 
 Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
