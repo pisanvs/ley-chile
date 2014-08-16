@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.912, del 31/07/2014, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Carvallo 430, Rol de avalúo Nº 00080-00014 de la comuna de Coronel, de aparente dominio de Picarte Hernández Tomás Humberto. La parte afecta a expropiación tiene una superficie de 79,54 m2. de terreno, y 136,02 m2 de expropiación total de edificación (lote 112), para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-A del plano S8R-29480-1, son los siguientes: Norponiente: Tramo AB en 5,13 mts con Rol 80-13; tramo BC en 1,10 mts con calle Carvallo. Nororiente: Tramo CD en 12,50 mts con calle Carvallo. Suroriente: Tramo DE en 6,31 mts con Rol 80-15; Surponiente: Tramo EA en 11,52 mts con resto Rol 80-14. Conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión de Peritos integrada por la arquitecta Vianet del Pilar Quijón Torres, y los arquitectos René Dagoberto Guzmán Escalona y Andrés Javier Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $46.567.960.-, reajustada conforme lo establece el artículo 5º del D.L. 2.186 ascendiendo a una suma total de $ 47.452.751.
+
+Director Serviu Región del Biobío.
