@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.917, del 31/07/2014, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en R Castro 292, Rol de avalúo Nº 00080-00012 de la comuna de Coronel, de aparente dominio de Cea Maurelia Carlos Enrique. La parte afecta a expropiación tiene una superficie de 75,48 m2. de terreno, y 168,97 m2 de expropiación total de edificación (lote 110), para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-F-A del plano S8R-29478-1, son los siguientes: Norponiente: Tramo AB en 4,78 mts con Remigio Castro. Nororiente: Tramo BC en 3,21 mts con calle Carvallo, y tramo CD en 11,64 mts con calle Carvallo. Suroriente: Tramo DE en 5,54 mts con Rol 80-13. Surponiente: Tramo EF en 12,52 mts con resto Rol 80-12, y tramo FA en 2,12 mts con resto Rol 80-12. Conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión de Peritos integrada por la arquitecta Vianet del Pilar Quijón Torres, y los arquitectos René Dagoberto Guzmán Escalona y Andrés Javier Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $50.913.219.-, reajustada conforme lo establece el artículo 5º del D.L. 2.186 ascendiendo a una suma total de $51.880.570.
+
+Director Serviu Región del Biobío.
