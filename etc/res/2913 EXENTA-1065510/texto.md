@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.913 del 31/07/2014, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Sgto. Aldea 278, Rol de avalúo Nº 00050-00011 de la comuna de Coronel, de aparente dominio de Gernica Finternbuch Germania. La parte afecta a expropiación tiene una superficie de 74,88 m2., de terreno, y 110,76 m2 de expropiación total de edificación (lote 87), para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-F-G-A del plano S8R-29455-1, son los siguientes: Nororiente: Tramo AB en 1,44 mts con calle Sgto. Aldea, y tramo CD en 8,84 mts con calle Sgto. Aldea. Norponiente: Tramo BC en 0,52 mts con calle Sgto. Aldea, y tramo GA en 7,02 mts con Rol 50-10. Suroriente: Tramo DE en 7,36 mts con Rol 50-12; Surponiente: Tramo EF en 4,76 mts con resto Rol 50-11, y tramo FG en 5,55 mts con resto Rol 50-11. Conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión de Peritos integrada por la arquitecta Vianet del Pilar Quijón Torres, y los arquitectos René Dagoberto Guzmán Escalona y Andrés Javier Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $41.627.125.-, reajustada conforme lo establece el artículo 5º del D.L. 2.186 ascendiendo a una suma total de $42.418.040.
+
+Director Serviu Región del Biobío.
