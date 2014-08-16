@@ -1,0 +1,11 @@
+ORDENA INSTRUIR PROCESO ADMINISTRATIVO A ESTABLECIMIENTO EDUCACIONAL QUE INDICA
+
+Superintendencia de Educación Escolar, por resolución exenta Nº 2014/PA/05/0382 de fecha 20 de marzo de 2014, ordenó instruir proceso administrativo al Establecimiento Educacional Escuela Particular Nº 22 San Rafael, R.B.D. Nº 2051-6, comuna de San Antonio, ubicado en calle Luis Araya Nº 2140, Las Barrancas, San Antonio, cuyo sostenedor es Sociedad Educacional Cebrián y Cía. Ltda., RUT 76.130.238-8, representante legal doña Macarena Cebrián López, RUT 13.335.227-9, por presuntas contravenciones a la normativa educacional, designando fiscal investigador, formulación de cargos y otorgando plazo para presentar descargos de acuerdo a lo siguiente:
+
+- **1.-** Que, a través de Acta de Fiscalización Nº 1.405.00735 de fecha 18 de marzo de 2014, se constataron los hechos que configuran presuntas contravenciones a la normativa educacional.
+
+- **2.-** Que conforme los antecedentes que constan el proceso, se ordenó instruir proceso a por el siguiente cargo: Cargo 1: Número de Hallazgo: 64 Establecimiento no presenta continuidad de Servicio Educacional Durante el año Escolar. Número de Sustento: 64.00: Establecimiento no presenta continuidad de Servicio Educacional Durante el año Escolar. Norma transgredida: Artículos 10 letra f), 45 y 46 del decreto con fuerza de ley Nº 2 de 2009 del Ministerio de Educación. Tipo Infraccional: Infracción Grave, artículo 76 letra c) de la ley 20.529, en relación a lo prescrito en el artículo 46 del decreto con fuerza de ley Nº 2 de 2009 del Ministerio de Educación.
+
+- **3.-** Desígnese Fiscal Instructor a don Gonzalo Patricio Gac Soto, funcionario de la Dirección Regional de la Superintendencia de Educación Escolar, Región de Valparaíso.
+
+- **4.-** Señálese que el sostenedor dispone, de acuerdo a lo prescrito en el artículo 70 de la ley Nº 20.529, de un plazo de diez días hábiles, contado desde la fecha de notificación, para presentar descargos y los medios de prueba que estime pertinentes ante la Fiscalía de la Dirección Regional ubicada en calle Limache Nº3405, piso 10, El Salto, comuna de Viña del Mar.
