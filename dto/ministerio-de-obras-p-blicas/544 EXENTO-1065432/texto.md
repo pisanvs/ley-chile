@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 544, de 15 de abril de 2014, se modificó el numeral segundo del Decreto MOP. (Exento) Nº 2791, de 17 de noviembre de 2010, a fin de individualizar correctamente el lote de terreno Nº 7, ubicado en la comuna de Ovalle, que figura a nombre de MARIN SAMUEL ROJO Y CIA LTDA, rol de avalúo 174-55, superficie 3.995 m2., complementando el informe de tasación referido al lote Nº 7, emitido por la Comisión de Peritos el 18 de agosto de 2010, mediante acta emanada de la misma comisión de 09 de enero de 2014, expropiado con motivo de la obra: "Habilitación Costanera Río Limarí, Ovalle", Comuna de Ovalle, Provincia de Limarí, IV Región de Coquimbo.
+
+Fiscal del Ministerio de Obras Públicas.
