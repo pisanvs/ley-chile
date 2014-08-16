@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.911 del 31/07/2014, Serviu Región del Biobío ordenó expropiación Parcial del inmueble ubicado en Carvallo 488, Rol de Avalúo Nº 00080-00017 de la comuna de Coronel, de aparente dominio de Neira Porteno Pedro. La parte afecta a expropiación tiene una superficie de 30,97 m2. de terreno, y 78,01 m2 de expropiación total de edificación (lote 115), para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-29483-1, son los siguientes: Norponiente: Tramo AB en 4,68 mts con Rol 80-16. Nororiente: Tramo BC en 6,85 mts con calle Carvallo. Suroriente: Tramo CD en 4,43 mts con Rol 80-18; Surponiente: Tramo DA en 6,76 mts con resto Rol 80-17. Conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión de Peritos integrada por la arquitecta Vianet del Pilar Quijón Torres, y los arquitectos René Dagoberto Guzmán Escalona y Andrés Javier Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $22.893.700.-, reajustada conforme lo establece el artículo 5º del D.L. 2.186 ascendiendo a una suma total de $23.328.680.
+
+Director Serviu Región del Biobío.
