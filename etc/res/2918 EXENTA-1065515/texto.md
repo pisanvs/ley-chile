@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.918, del 31/07/2014, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Cousiño 220, Rol de avalúo Nº 00079-00010 de la comuna de Coronel, de aparente dominio de Laxague Usquiman María. La parte afecta a expropiación tiene una superficie de 31,89 m2. de terreno, y la superficie afecta a expropiación total de edificaciones (a) y (b) es de 196,18 m2, para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-A del plano S8R-29468-1, son los siguientes: Norponiente: Tramo AB en 14,80 mts con calle Cousiño; Nororiente: Tramo BC en 5,45 mts con Rol 79-11; Suroriente: Tramo CA en 15,62 mts en línea curva con resto Rol 79-10. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por la arquitecta Vianet del Pilar Quijón Torres, y los arquitectos René Dagoberto Guzmán Escalona y Andrés Javier Tobar Beluzán, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $77.707.491.-, reajustada conforme lo establece el artículo 5º del DL 2.186 ascendiendo a una suma total de $79.183.933.
+
+Director Serviu Región del Biobío.
