@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.915 del 31/07/2014, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Los Carrera 812, Rol de avalúo Nº 00021-0004 de la comuna de Coronel, de aparente dominio de Cárdenas Garrido Rosalía María. La parte afecta a expropiación tiene una superficie de 89,00 m2. de terreno, y 81,97 m2 de expropiación de edificación (lote 121), para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel Tramo IV entre calles Pedro Aguirre Cerda y Lota", comuna de Coronel, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-F-G-H-A del plano S8R-29489-1, son los siguientes: Norponiente: Tramo AB en 10,61 mts con calle Los Carrera; tramo GH en 4,01 mts con Rol 21-3. Nororiente: Tramo BC en 6,15 mts con calle Los Carrera; tramo DE en 4,71 mts con Rol 21-5. Suroriente: Tramo CD en 9,08 mts con Rol 21-5; tramo EF en 5,43 mts con Rol 21-5; Surponiente: Tramo FG en 4,25 mts con Rol 21-3; tramo HA en 6,55 mts con Rol 21-3. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por la constructor Roxana Cecilia Abarzúa Gajardo, el arquitecto René Dagoberto Guzmán Escalona y la arquitecto Carolina del Pilar Zuloaga Sanhueza, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $23.193.766.-, reajustada conforme lo establece el artículo 5º del D.L. 2.186 ascendiendo a una suma total de $23.286.541.
+
+Director Serviu Región del Biobío.
