@@ -110,7 +110,7 @@ COMPROMISO IMPLICITO: Corresponde a aquellos gastos que por su naturaleza o conv
 
 CLASIFICADOR DE INGRESOS Y GASTOS
 
-2.Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
+2. Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
 
 Subt. Item Asig.
 
@@ -159,6 +159,8 @@ Subt. Item Asig.
 002 Derechos de Explotación ENAP
 
 003 Gasolinas, Petróleo Diesel y Otros
+
+01 03 004 Derechos de Extracción Ley de Pesca
 
 04 Impuestos a los Actos Jurídicos
 
@@ -572,6 +574,10 @@ el Código del Trabajo
 
 y Comisiones
 
+004 Prestaciones de Servicios
+
+en Programas Comunitarios.
+
 22 BIENES Y SERVICIOS DE CONSUMO
 
 01 Alimentos y Bebidas
@@ -759,6 +765,10 @@ Infantiles
 010 Servicios de Suscripción y
 
 Similares.
+
+011 Servicios de Producción y
+
+Desarrollo de Eventos.
 
 999 Otros
 
@@ -2456,6 +2466,40 @@ fines específicos, de acuerdo con las
 
 disposiciones legales vigentes
 
+004 Prestaciones de Servicios en
+
+Programas Comunitarios
+
+Comprende la contratación de
+
+personas naturales sobre la
+
+base de honorarios, para la
+
+prestación de servicios
+
+ocasionales y/o transitorios,
+
+ajenos a la gestión administrativa
+
+interna de las respectivas
+
+municipalidades, que estén
+
+directamente asociados al
+
+desarrollo de programas en
+
+beneficio de la comunidad, en
+
+materias de carácter social,
+
+cultural, deportivo, de
+
+rehabilitación o para enfrentar
+
+situaciones de emergencia
+
 22 BIENES Y SERVICIOS DE CONSUMO
 
 Comprende los gastos por adquisiciones de
@@ -3597,6 +3641,22 @@ de información por medios
 electrónicos de transmisión de datos,
 
 textos o similares.
+
+011 Servicios de Producción y Desarrollo
+
+de Eventos
+
+Son los gastos por concepto de
+
+contratación de personas jurídicas,
+
+para la producción y desarrollo integral
+
+de eventos sociales, culturales
+
+y deportivos, que realizan en beneficio
+
+de la comunidad las municipalidades.
 
 999 Otros
 
