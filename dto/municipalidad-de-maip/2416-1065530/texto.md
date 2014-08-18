@@ -1,0 +1,27 @@
+OTORGA PLAZO DE 30 DÍAS HÁBILES PARA EJECUTAR EL CIERRO Y LIMPIEZA DE INMUEBLE UBICADO EN MAIPÚ
+
+Maipú, 10 de junio de 2014.- Con esta fecha se decreta lo que sigue:
+
+Núm. 2.416.- Vistos: En virtud de Informe Nº 23/2012, de la Dirección de Obras Municipales; Informe Ambiental de abril del año 2012, de la Dirección de Aseo, Ornato y Gestión Ambiental; los operativos de limpiezas efectuados por la Municipalidad de Maipú, de fecha 29 de febrero del año 2012, 01, 02, 03, 04, de marzo del año 2012. Todas éstas efectuadas a la propiedad ubicada en Resto Lote 1 C-3, Pajonal, comuna de Maipú; lo establecido en el artículo 58 bis del decreto ley 3.063 de 1979, sobre Rentas Municipales; lo dispuesto en el artículo 2.5.1. del decreto supremo 47 del Ministerio de Vivienda y Urbanismo de 1992, que fija el texto de la Ordenanza General de la Ley Generalde Urbanismo y Construcciones; el decreto alcaldicio 2.477 de 18 de junio de 2003, que aprueba la Ordenanza Municipal de Protección del Medio Ambiente para la comuna de Maipú, el decreto alcaldicio Nº 6.539 de 3 de diciembre de 2007 que designa en el cargo de Secretario Municipal a don José Gustavo Ojeda Espinoza; la Sentencia de Proclamación que designa como Alcalde de la comuna de Maipú, a don Christian Vittori Muñoz, pronunciada el 30 de noviembre del año 2012, por el Primer Tribunal Electoral de la Región Metropolitana; y en virtud de las facultades conferidas en el artículo número 63º del DFL 1 de 2006, del Ministerio de Interior, que fija el texto refundido,coordinado y sistematizado de la ley Nº18.695, Orgánica Constitucional de Municipalidades, y
+
+Considerando:
+
+1.- Que, en el terreno privado ubicado en el Resto Lote 1 C-3 Pajonal, que limita al sur con la calle Primo de Rivera, al norte con la calle Alaska, al poniente con la Avenida Lumen y al oriente con la línea férrea paralela a Avenida Presidente Salvador Allende, comuna de Maipú, se ha constatado que el sitio eriazo se encuentra en situación de abandono por sus dueños y que éste ha sido un foco de insalubridad, vertedero de residuos y microbasural, que ha afectado constante y prolongadamente durante los años a los vecinos del entorno a dicho inmueble.
+
+2.- Que no obstante los reiterados operativos de limpiezas efectuados por la Municipalidad de Maipú, de fecha 29 de febrero del año 2012, 01, 02, 03, 04, de marzo del año 2012. Todas éstas efectuadas a la propiedad ubicada en Resto Lote 1 C-3, Pajonal, que constataron el estado de abandono e insalubridad del sitio eriazo,ubicado en Resto Lote 1 C-3 Pajonal, de propiedad de doña Elisa Walker Arangua y otros, Rol de Avalúo Nº 02071-072, ubicado en la comuna deMaipú, que limita al sur con la calle Primo de Rivera, al norte con la calle Alaska, al poniente con la Avenida Lumen y al oriente con la línea férrea paralela a Avenida Presidente Salvador Allende.
+
+3.- Que, el artículo 58 bis de la Ley de Rentas Municipales, citada en los vistos, faculta a los municipios para declarar como propiedad abandonada a los inmuebles con o sin edificación, que no se encuentren habitados permanentemente, o que estén desatendidos por sus dueños, ya sea por falta de cierros, protecciones adecuadas, aseo o mantención, o por otras circunstancias manifiestas de abandono o deterioro queafecten negativamente su entorno inmediato.
+
+4.- Que, de acuerdo al artículo 2.5.1., de la Ordenanza General de la Ley General de Urbanismo y Construcciones, citada en los vistos, el Alcalde deberá notificar a los dueños de propiedades abandonadas, con ysin edificaciones, respecto de las mejoras o reparacionesque deban ejecutarse en dichas propiedades, relativas a cierro, higiene y mantención, otorgando un plazo prudencial para ello y a cuyo vencimiento, si no se hubieren realizado las obras ordenadas, el Alcalde, mediante decreto alcaldicio fundado, declarará como "propiedad abandonada" los inmuebles que se encuentren en tal situación, de conformidad a lo establecido en el artículo 58 bis del decreto ley Nº 3.063, de 1979, sobre Rentas Municipales.
+
+Decreto:
+
+1.- Dispónese otorgar un plazo de 30 días hábiles, contados desde la fecha de notificación de este actoadministrativo, para ejecutar el cierro y limpieza del inmueble ubicado en Resto Lote 1 C-3, Pajonal, Rol de Avalúo Nº 02071-072, ubicado en la comuna de Maipú, que limita al Norte, en línea curva y discontinua con lote Uno C-dos y otros propietarios; Sur, con calle Primo de Rivera; Poniente, con calle pública hoy Lumen; Oriente, en línea quebrada con otros propietarios. De propiedad de doña Elisa Walker Arangua y otros, con domicilio en Luis Carrera Nº 2376, Departamento Nº 204, comuna de Vitacura.
+
+2.- Notifíquese el presente decreto alcaldicio, personalmente por parte del Secretario Municipal, y un extracto de este en el Diario Oficial.
+
+3.- Transcurrido el plazo de 30 días, sin haber dado cumplimiento al cierro y limpieza ordenado, procédase a efectuar el decreto alcaldicio fundado que declare abandonada la propiedad a que se refiere.
+
+4.- Publíquese el presente decreto en la página web de la Municipalidad de Maipú.
+
+Comuníquese, transcríbase a las Direcciones de Control, Asesoría Jurídica, Administración y Finanzas, Secretaría Comunal de Planificación, AdministraciónMunicipal, Dirección de Obras, Secretaría Municipal, y hecho archívese.-Christian Vittori Muñoz, Alcalde.- José Gustavo Ojeda Espinoza, Secretario Municipal.
