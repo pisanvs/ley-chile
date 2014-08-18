@@ -1,0 +1,21 @@
+RECTIFICA DECRETO ALCALDICIO Nº 2.416, DE 2014
+
+Maipú, 4 de agosto de 2014.- Con esta fecha se decreta lo que sigue:
+
+Núm. 3.331.- Vistos: El decreto alcaldicio Nº 2.416 de fecha 10 de junio de 2014; la carta Nº 155/2012, de la Dirección de Obras Municipales; Informe Ambiental de abril del año 2012, de la Dirección de Aseo, Ornato y Gestión Ambiental; los operativos de limpiezas efectuados por la municipalidad de Maipú, de fecha 29 de febrero del año 2012, 01, 02, 03, 04 de marzo del año 2012. Todas estas efectuadas a la propiedad ubicada en Resto Lote 1 C-3, Pajonal, comuna de Maipú; lo dispuesto en el artículo 2.5.1. del decreto supremo 47 del Ministerio de Vivienda y Urbanismo de 1992, que fija el texto de la Ordenanza General dela Ley General de Urbanismo y Construcciones; el decreto alcaldicio Nº 2.477 de 18 de junio de 2003, que aprueba la Ordenanza Municipal de Protección del Medio Ambiente para la comuna de Maipú; los Memorándum Nº 104 de 13 de junio de 2014, y Nº 126 de 21 de julio de 2014, del Secretario Municipal; el decreto alcaldicio Nº 6.539 de 3 de diciembre de 2007 que designa en el cargo de Secretario Municipal a don José Gustavo Ojeda Espinoza; el decreto alcaldicio Nº 7.952 de 13 de diciembre de 2012, que establece el orden de subrogancias en caso de ausencia o impedimento del Alcalde; y en virtud de las facultades conferidas en el artículo número 63º del DFL 1 de 2006, del Ministerio del Interior, que fija el texto refundido,coordinado y sistematizado de la ley Nº 18.695, Orgánica Constitucional de Municipalidades, y
+
+Considerando:
+
+1. Que, revisado el título inscrito de la propiedad, cuya limpieza se ordena en el decreto alcaldicio Nº 2.416 de 10 de junio de 2014, se advierte que los límites son: Al Norte, en línea curva y discontinua con lote Uno C-dos y otros propietarios; Sur, con calle Primo de Rivera; Poniente, con calle pública hoy Lumen; Oriente, en línea quebrada con otros propietarios, y no los de al sur con la calle Primo de Rivera, al norte con la calle Alaska, al poniente con la Avenida Lumen y al oriente con la línea férrea paralela a Avenida Presidente Salvador Allende.
+
+2. Que, por otra parte, los memorándum Nº 104 de 13 de junio de 2014, y Nº 126 de 21 de julio de 2014, del Secretario Municipal, dan cuenta que el decreto alcaldicio Nº 2.416 de 10 de junio de 2014, fue notificado personalmente a don Ricardo AlfonsoWalker Campos, y a don Juan Ricardo Walker Arengua, mientras que a doña Elisa Walker Arangua por carta certificada. Por su parte, los demás propietarios, donCarlos José Walker Arangua, doña María Magdalena Walker Budge, don Juan Ignacio Walker Campos, don Sebastián Walker Campos, doña Margarita María Walker Sánchez y don Carlos José Walker Sánchez, no fueron habidos y se ignora su actual paradero.
+
+Decreto:
+
+1. Rectifíquese el punto uno del decreto alcaldicio 2.416 de 10 de junio de 2014, en el sentido de establecer los deslindes del predio ubicado en el Resto Lote Uno C-3, denominado Pajonal, en el siguiente sentido "al Norte, en línea curva y discontinua con lote Uno C-dos y otros propietarios; Sur, con calle Primo de Rivera; Poniente, con calle pública hoy Lumen; Oriente, en línea quebrada con otros propietarios".
+
+2. Notifíquese el presente decreto alcaldicio a don Ricardo Alfonso Walker Campos, don Juan Ricardo Walker Arangua y doña Elisa Walker Arangua, por carta certificada, dando cumplimiento al inciso 1 delartículo 46 de la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado.
+
+3. Publíquese en el Diario Oficial el decreto alcaldicio Nº 2.416, de 10 de junio de 2014 y eI presente decreto alcaldicio, en cumplimiento de lo previsto en el inciso 3 del artículo 45 y 48 letra c) de la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado.
+
+Comuníquese, transcríbase a las Direcciones de Control, Asesoría Jurídica, Administración y Finanzas, Secretaría Comunal de Planificación, AdministraciónMunicipal, Dirección de Obras, Secretaría Municipal, y hecho archívese.- Alejandro Bustamante Neira, Alcalde (S).- José Gustavo Ojeda Espinoza, Secretario Municipal.
