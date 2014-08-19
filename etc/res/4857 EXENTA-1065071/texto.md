@@ -1,6 +1,6 @@
 DEJA SIN EFECTO CONCURSO PÚBLICO Y DEJA SIN EFECTO RESOLUCION Nº 9.225 EXENTA, DE 2013
 
-Núm. 4.857 exenta.- Santiago, 28 de julio de 2014.- Vistos: La ley Nº19.880; el DFL 29/2004, del Ministerio de Hacienda, que refunde, coordina y sistematiza la Ley Nº 18.834 sobre Estatuto Administrativo; artículo 27 de la ley Nº 19.882; DS Nº 69/2004 del Ministerio de Hacienda, que contiene el Reglamento sobre Concursos del Estatuto Administrativo; resolución Nº 1.600/2008 de la Contraloría General de la República; dictámenes Nºs 6.142 y 10.853, ambos de 2014, de la Contraloría General de la República; resolución exenta Nº 9.225, Bases Administrativas y Anexos de Llamado a Concurso Interno de Jefe de Departamento, Directivo Tercer Nivel Jerárquico, de fecha 5 de diciembre de 2013.
+Núm. 4.857 exenta.- Santiago, 28 de julio de 2014.- Vistos: La ley Nº19.880; el DFL 29/2004, del Ministerio de Hacienda, que refunde, coordina y sistematiza la Ley Nº 18.834 sobre Estatuto Administrativo; artículo 27 de la ley Nº 19.882; DS Nº 69/2004 del Ministerio de Hacienda, que contiene el Reglamento sobre Concursos del Estatuto Administrativo; resolución Nº 1.600/2008 de la Contraloría General de la República; dictámenes Nºs 6.142 y 10.853, ambos de 2014, de la Contraloría General de la República; resolución exenta Nº 9.225, Bases Administrativas y Anexos de Llamado a Concurso Público de Jefe de Departamento, Directivo Tercer Nivel Jerárquico, de fecha 5 de diciembre de 2013.
 
 Considerando:
 
@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1º Déjese sin efecto el concurso interno para proveer el cargo de jefe/a de departamento grado 8º E.U.R., directivo tercer nivel jerárquico, con funciones en el Departamento de Planificación Regional de las Secretarías Ministeriales de Educación de las regiones de Coquimbo y la Araucanía; y,
+1º Déjese sin efecto el Concurso Público para proveer el cargo de jefe/a de departamento grado 8º E.U.R., directivo tercer nivel jerárquico, con funciones en el Departamento de Planificación Regional de las Secretarías Ministeriales de Educación de las regiones de Coquimbo y la Araucanía; y,
 
 2º Déjese sin efecto las respectivas bases administrativas y anexos, aprobadas por la resolución exenta Nº 9.225 de 2013, del Ministerio de Educación.
 
