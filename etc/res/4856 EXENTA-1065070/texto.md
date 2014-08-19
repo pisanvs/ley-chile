@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1º Déjese sin efecto el concurso interno para proveer el cargo de jefe/a de departamento grado 8º E.U.R., directivo tercer nivel jerárquico, con funciones en el Departamento de Planificación Regional de las Secretarías Ministeriales de Educación de las regiones de Coquimbo, Libertador General Bernardo O'Higgins, del Biobío, Aysén y Metropolitana del Ministerio de Educación; y,
+1º Déjese sin efecto el concurso interno para proveer el cargo de jefe/a de departamento grado 8º EUR, directivo tercer nivel jerárquico, con funciones en el Departamento de Planificación Regional de la Secretaría Ministerial de Educación de la Región del Biobío, del Ministerio de Educación,
 
 2º Déjese sin efecto las respectivas bases administrativas y anexos, aprobadas por la resolución exenta Nº 9.227 de 2013, del Ministerio de Educación.
 
