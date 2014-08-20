@@ -618,6 +618,8 @@ Montt L.C.S.
 
 26,760 Nuevo Palomar R. Llay Llay/Los Andes
 
+43,704 El Laberinto Ramal Llay Llay- Los Andes
+
 5,560 El Sauce R. Los Andes/Río Blanco
 
 3,380 Bascuñán Ramal Circunvalación
@@ -636,7 +638,9 @@ Montt L.C.S.
 
 7,613 Santa Elena Ramal Circunvalación
 
-2,466 B. del Mercado R. Alameda/Barrancas
+2,466 B. del R. Alameda/Barrancas
+
+Mercado
 
 9,390 La Capilla R. Alameda/Barrancas
 
@@ -670,91 +674,189 @@ Montt L.C.S.
 
 24,810 O'Higgins R. Paine/Talagante
 
-99,038 Sin Nombre R. Rucapequén/Concepción
+99,038 Sin Nombre R. Rucapequén/
 
-127,650 Paicaví R. Rucapequén/Concepción
+Concepción
 
-128,415 Aníbal Pinto R. Rucapequén/Concepción
+127,650 Paicaví R. Rucapequén/
 
-128,675 Calle Rengo R. Rucapequén/Concepción
+Concepción
 
-128,930 Calle Angol R. Rucapequén/Concepción
+128,415 Aníbal Pinto R. Rucapequén/
 
-129,050 Calle Prat R. Rucapequén/Concepción
+Concepción
 
-129,340 Andalién R. Rucapequén/Concepción
+128,675 Calle Rengo R. Rucapequén/
 
-34,100 Sin Nombre Ramal San Rosendo/Talcahuano
+Concepción
 
-39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
+128,930 Calle Angol R. Rucapequén/
 
-Variante
+Concepción
 
-Hualqui -
+129,050 Calle Prat R. Rucapequén/
+
+Concepción
+
+129,340 Andalién R. Rucapequén/
+
+Concepción
+
+34,100 Sin Nombre Ramal San
+
+Rosendo/
+
+Talcahuano
+
+39,065 Cruce Nº1 Ramal San
+
+Variante Rosendo-
+
+Hualqui - Talcahuano
 
 Quilacoya
 
-41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
+41,625 Cruce Nº2 Ramal San
 
-Variante
+Variante Rosendo-
 
-Hualqui -
+Hualqui - Talcahuano
 
 Quilacoya
 
-45,500 Hualqui Ramal San Rosendo/Talcahuano
+45,500 Hualqui Ramal San
 
-49,200 Periquillo R. San Rosendo/Talcahuano
+Rosendo/
 
-68,530 O'Higgins R. San Rosendo/Talcahuano
+Talcahuano
 
-72,960 Corhabit R. San Rosendo/Talcahuano
+49,200 Periquillo R. San
 
-76,070 Los Perales R. San Rosendo/Talcahuano
+Rosendo/
 
-80,695 La Higuera R. San Rosendo/Talcahuano
+Talcahuano
 
-82,300 Hualpén R. San Rosendo/Talcahuano
+68,530 O'Higgins R. San
 
-83,390 Bilbao R. San Rosendo/Talcahuano
+Rosendo/
 
-84,200 La Unión R. San Rosendo/Talcahuano
+Talcahuano
 
-85,026 Blanco R. San Rosendo/Talcahuano
+72,960 Corhabit R. San
 
-50,978 Forestal R. Curanilahue/Concepción
+Rosendo/
 
-20,710 O'Higgins R. Renaico/Traiguén y
+Talcahuano
+
+76,070 Los Perales R. San
+
+Rosendo/
+
+Talcahuano
+
+80,695 La Higuera R. San
+
+Rosendo/
+
+Talcahuano
+
+82,300 Hualpén R. San
+
+Rosendo/
+
+Talcahuano
+
+83,390 Bilbao R. San
+
+Rosendo/
+
+Talcahuano
+
+84,200 La Unión R. San
+
+Rosendo/
+
+Talcahuano
+
+85,026 Blanco R. San
+
+Rosendo/
+
+Talcahuano
+
+50,978 Forestal R.
+
+Curanilahue/
+
+Concepción
+
+20,710 O'Higgins R. Renaico/
+
+Traiguén y
 
 Traiguén/Púa
 
 0,200 Los Sauces
 
-Guadaba Ramal Los Sauces/Lebu
+Guadaba Ramal Los
 
-2,821 Panamericana Ramal Temuco/Carahue
+Sauces/Lebu
 
-24,635 Circunvalación Ramal Antilhue/Valdivia
+2,821 Panamericana Ramal Temuco/
+
+Carahue
+
+24,635 Circunvalación Ramal Antilhue
+
+/Valdivia
 
 Valdivia
 
-27,280 Collico Ramal Antilhue/Valdivia
+27,280 Collico Ramal
 
-13,360 Intersección Ramal Alameda-San
+Antilhue/
 
-Calle Tres Antonio
+Valdivia
+
+13,360 Intersección Ramal Alameda
+
+-San Antonio
+
+Calle Tres
 
 Poniente con
 
-Camino Melipilla
+Camino
 
-22,940 Cerro El Plomo Ramal Concepción -
+Melipilla
+
+22,940 Cerro El Plomo Ramal
+
+Concepción-
 
 Curanilahue
 
-24,190 Los Molineros Ramal Concepción-
+24,190 Los Molineros Ramal
+
+Concepción-
 
 Curanilahue
+
+1,784 Brasil Ferrocarril Arica
+
+a La Paz
+
+3,116 Santa María Ferrocarril Arica
+
+a La Paz
+
+3,847 Los Artesanos Ferrocarril Arica
+
+a La Paz
+
+5,726 Amador Neghme Ferrocarril Arica
+
+a La Paz
 
 2º.- Modifícase el Nº 2 del Decreto Supremo Nº 500 en el sentido que en los cruces públicos a nivel ubicados en la red ferroviaria y ramales que se indican, la Empresa de los Ferrocarriles del Estado sólo estará obligada a mantener en funciones un servicio práctico de señales, que permita a los que transitan por ellos percibir a la distancia la proximidad de un cruzamiento:
 
@@ -2081,6 +2183,108 @@ Oriente Ramal a Los Muermos
 Oriente Ramal a Los Muermos
 
 68,920 Río Frío Pte. Ramal a Los Muermos
+
+Km Nombre Lugar
+
+0,203 Chacabuco Ferrocarril Arica
+
+La Paz
+
+4,436 Isla Alacrán Ferrocarril Arica
+
+La Paz
+
+5,142 Yerbas Buenas Ferrocarril Arica
+
+La Paz
+
+6,489 Mejillones Ferrocarril Arica
+
+La Paz
+
+7,162 Capitán Avalos Ferrocarril Arica
+
+La Paz
+
+15,355 Camino Interior 1 Ferrocarril Arica
+
+La Paz
+
+20,029 Camino Interior 2 Ferrocarril Arica
+
+La Paz
+
+36,640 Poconchile Ferrocarril Arica
+
+La Paz
+
+111,750 Puquios Ferrocarril Arica
+
+La Paz
+
+124,780 Km. 124,780 Ferrocarril Arica
+
+La Paz
+
+128,983 Km. 128,983 Ferrocarril Arica
+
+La Paz
+
+132,603 Km. 132,603 Ferrocarril Arica
+
+La Paz
+
+139,793 Alcérreca Ferrocarril Arica
+
+Oriente La Paz
+
+145,320 Cruce A 109 Ferrocarril Arica
+
+La Paz
+
+152,900 Km. 152,900 Ferrocarril Arica
+
+La Paz
+
+160,430 Humapalca Ferrocarril Arica
+
+La Paz
+
+163,265 Km. 163,265 Ferrocarril Arica
+
+La Paz
+
+166,036 Industrial Ferrocarril Arica
+
+Poniente La Paz
+
+177,258 Km. 177,258 Ferrocarril Arica
+
+La Paz
+
+180,300 Km. 180,300 Ferrocarril Arica
+
+La Paz
+
+183,284 Km. 183,284 Ferrocarril Arica
+
+La Paz
+
+196,932 Km. 196,932 Ferrocarril Arica
+
+La Paz
+
+199,217 Km. 199,217 Ferrocarril Arica
+
+La Paz
+
+201,408 Km. 201,408 Ferrocarril Arica
+
+La Paz
+
+203,324 Cruce Frontera Ferrocarril Arica
+
+La Paz
 
 3°.- El cambio de un cruce de la nómina del artículo N° 2 a la nómina del artículo N° 1 será dispuesto previo informe técnico de la Empresa de los Ferrocarriles del Estado, por Decreto Supremo del Ministerio de Transportes y Telecomunicaciones, en el que se deberá señalar al responsable del financiamiento de las obras que ello implica.
 
