@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.146 de 13 de agosto de 2014 de esta Subsecretaría, modifica resolución Nº1.770 de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 9 B, fijando el número máximo de ejemplares a ingresar para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 13 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
