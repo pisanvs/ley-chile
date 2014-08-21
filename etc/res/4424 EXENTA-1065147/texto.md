@@ -10,7 +10,7 @@ Resolución:
 
 Durante el periodo señalado, el Serviu de la Región de Tarapacá procederá a la recepción de proyectos habitacionales con los documentos y antecedentes que deben acompañarlos, por parte de las entidades patrocinantes.
 
-2. Los proyectos deberán cumplir los requisitos y condiciones establecidos en la "Pauta de Condiciones Mínimas y de Selección de Proyectos Habitacionales Privados con Integración Social" adjunta, que forma parte integrante de esta resolución. El precio de las viviendas no podrá exceder de 2.000 Unidades de Fomento (UF).
+2. Los proyectos deberán cumplir los requisitos y condiciones establecidos en la "Pauta de Condiciones Mínimas y de Selección de Proyectos Habitacionales Privados con Integración Social" adjunta, que forma parte integrante de esta resolución. El precio de las viviendas no podrá exceder de 2.200 Unidades de Fomento (UF).
 
 3. Los proyectos presentados participarán en un proceso de preselección y serán precalificados por una Comisión Evaluadora integrada por funcionarios del Serviu de la Región de Tarapacá, del Ministerio de Vivienda y Urbanismo y por el Delegado Presidencial para la Reconstrucción de la Región.
 
@@ -40,15 +40,17 @@ Habiéndose sancionado la selección definitiva de los proyectos, con su nómina
 
 a) Personas que tengan la calidad de damnificados por la catástrofe a que se refiere el Resuelvo 1. de la presente resolución.
 
-b) Beneficiarios del DS Nº 1 y del DS Nº 49, ambos decretos de este Ministerio, del año 2011.
+b) Beneficiarios del DS Nº 1 y del DS Nº 49 de llamados efectuados hasta marzo de 2014. Los beneficiarios del Título I, o de los tramos 1 y 2 del Título I del DS Nº1 referido, podrán adquirir viviendas de hasta 2.200 Unidades de Fomento.
 
 c) Personas que no tengan la calidad de damnificados y que podrán optar al subsidio habitacional, para lo que deberán acreditar un ahorro mínimo de 50 Unidades de Fomento y cumplir con los demás requisitos y condiciones establecidos para el Título II y en los artículos 16, 17 y 18 del DS Nº 1 (V. y U.), de 2011, en lo que fuera procedente.
+
+Mediante resoluciones del Serviu, se aprobarán las nóminas de postulantes seleccionados correspondientes a las personas a que se refieren las letras a) y c) del inciso anterior.
 
 8. El número total de viviendas para los proyectos que se presenten en este llamado será de 1.000 unidades.
 
 9. El monto de recursos destinados al financiamiento del subsidio directo será de 400.000 Unidades de Fomento.
 
-10. Quienes adquieran una vivienda de los proyectos habitacionales seleccionados en el llamado dispuesto por esta resolución, podrán optar a los siguientes montos máximos de subsidio, para los tramos de precio de vivienda que se señalan, según corresponda:
+10. Quienes adquieran una vivienda de los proyectos habitacionales seleccionados en el llamado dispuesto por esta resolución, podrán optar a los siguientes montos máximos de subsidio, según corresponda:
 
 .
 
@@ -62,9 +64,11 @@ Conforme a los gastos que rinda, el beneficiario damnificado obtendrá un subsid
 
 11.1. Presentar un proyecto habitacional de hasta 300 viviendas, que cuente con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales respectiva, que incluya a lo menos, los porcentajes mínimos de viviendas a que se refiere el Ítem 4 de la tabla inserta en el Punto 6 de la Pauta.
 
+En caso de no contar con permiso de edificación ni con anteproyecto aprobado, la entidad patrocinante podrá presentar el comprobante de ingreso del expediente emitido por la Dirección de Obras Municipales respectiva, junto con el informe favorable de un Revisor Independiente a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones.
+
 11.2. Al presentar el proyecto habitacional al Serviu, la entidad patrocinante deberá acompañar los antecedentes señalados en las letras a), b) y en las letras c1), c2) y c3) del artículo 48 del DS Nº 1 (V. y U.), de 2011, además de los planos de arquitectura y detalles del equipamiento, áreas verdes y espacios comunes.
 
-11.3. La entidad patrocinante deberá presentar la Ficha Informativa del Proyecto, de acuerdo a formato proporcionado por el Serviu. En caso de no contar con permiso de edificación, se deberán presentar los antecedentes del anteproyecto aprobado.
+11.3. La entidad patrocinante deberá presentar la Ficha Informativa del Proyecto, de acuerdo a formato proporcionado por el Serviu.
 
 Si el permiso de edificación del proyecto está en trámite de modificación para cumplir con las condiciones y requisitos establecidos en el llamado especial dispuesto por esta resolución, se deberá presentar el permiso de edificación original, copia de la solicitud de ingreso de la modificación de dicho permiso a la Dirección de Obras Municipales y los nuevos planos correspondientes a esta modificación, firmados y timbrados por la empresa constructora.
 
@@ -158,9 +162,11 @@ Si el proyecto no se ejecuta o no llega a término, las familias postuladas y as
 
 Si un beneficiario renuncia al proyecto, se producirá la renuncia automática al subsidio.
 
-16. Los Certificados de Subsidio Habitacional correspondientes al DS Nº 1 y al DS Nº 49, ambos de Vivienda y Urbanismo, de 2011, se pagarán según lo dispuesto en el artículo 33 del DS Nº 1 (V. y U.), de 2011.
+La renuncia se acreditará con la carta de renuncia del interesado firmada ante Notario. En el caso de beneficiarios con subsidio, se deberá adjuntar además el respectivo certificado de subsidio.
 
-No se consideran anticipos a cuenta del pago del subsidio, lo que es aplicable a ambos Programas de Subsidio.
+Si a consecuencia de renuncias el proyecto queda con un porcentaje de damnificados inscritos menor al mínimo señalado en el punto 7 de la Pauta, la entidad patrocinante deberá reemplazarlos por otros damnificados para mantener a lo menos dicho porcentaje mínimo.
+
+16. Los subsidios otorgados a través del llamado dispuesto por esta resolución y los Certificados de Subsidio Habitacional correspondientes al DS Nº 1 y al DS Nº 49, ambos de Vivienda y Urbanismo, de 2011, se pagarán según lo dispuesto en el artículo 33 del DS Nº 1 (V. y U.), de 2011.
 
 17. Si el beneficiario requiere de un crédito hipotecario complementario, para enterar el financiamiento de la vivienda se aplicará lo dispuesto en los artículos 69 al 74 del DS Nº 1 (V. y U.), de 2011.
 
@@ -199,6 +205,8 @@ c. Que el establecimiento de salud primaria o de nivel superior de atención má
 d. Que la vía más cercana al terreno por la cual circula un servicio de transporte público, se encuentre a una distancia recorrible peatonalmente no mayor a 500 metros, medidos desde el punto más cercano del terreno.
 
 e. Que el equipamiento comercial, deportivo o cultural existente, de escala mediana o mayor más cercano, según los artículos 2.1.33 y 2.1.36 de la Ordenanza General de Urbanismo y Construcciones, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno.
+
+A consideración de la Comisión Evaluadora, se podrán aprobar proyectos que no cumplan totalmente con algunas de las condiciones mínimas señaladas anteriormente.
 
 2. Cumplir con lo señalado en el artículo 47 del DS Nº 1 (V. y U.), de 2011, que se transcribe a continuación:
 
@@ -269,3 +277,5 @@ Número de damnificados inscritos en el proyecto / total de viviendas del proyec
 El Serviu dictará una resolución con los proyectos seleccionados, que incluirá la nómina de damnificados inscritos en los respectivos proyectos que serán beneficiados con el subsidio habitacional.
 
 Los damnificados de proyectos que no resultaron seleccionados podrán inscribirse en uno que esté incluido en la resolución de selección, siempre que dicho proyecto tenga viviendas disponibles.
+
+> **Nota.** El 7.2 del numeral 7 de la Resolución 4853 Exenta, Vivienda, publicada el 21.08.2014, modifica la presente norma en el sentido de reemplazar en el Ítem 3 la fila "Se incentiva el desarrollo de proyectos con mayores superficies de vivienda" de la manera que la citada norma indica.
