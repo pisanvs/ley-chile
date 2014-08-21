@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.153, de 14 de agosto de 2014, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 570 de 2004, de esta Subsecretaría, que autorizó a CORPESCA S.A., para ampliar actividades pesqueras extractivas con la nave "Eperva 49", respecto del recurso hidrobiológico Jibia, en las áreas marítimas comprendidas entre la XV a II regiones, respectivamente, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 14 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
