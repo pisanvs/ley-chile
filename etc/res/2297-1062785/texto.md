@@ -10,7 +10,7 @@ c) Lo dispuesto en el artículo 68 letras h) y k) de la ley Nº 18.556 y artícu
 
 Resuelvo:
 
-Acógese la solicitud de inscripción de la entidad denominada "Partido Ecologista Verde" en las Regiones I de Tarapacá, II de Antofagasta, III de Atacama, Metropolitana de Santiago, VIII del Biobío, XIV de Los Ríos, X de Los Lagos y XI de Aysén del General Carlos Ibáñez del Campo.
+Acógese la solicitud de inscripción de la entidad denominada "Partido Ecologista Verde" en las Regiones I de Tarapacá, II de Antofagasta, III de Atacama, IV Región de Coquimbo, Metropolitana de Santiago, VIII del Biobío, XIV de Los Ríos, X de Los Lagos y XI de Aysén del General Carlos Ibáñez del Campo.
 
 2.- Inscríbase al partido en el Registro de Partidos Políticos una vez transcurrido el plazo contemplado en el artículo 14 de la mencionada ley.
 
