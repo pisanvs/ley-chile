@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.158, de 14 de agosto de 2014, de esta Subsecretaría, recházanse las solicitudes números 210101060, 210103141, 210103107, 210103148, 210103150, 210103115, 210103137, 210103127, 210103126, 210103117, 210103116, 210103120, 210103118, 210103140 y 210103062, individualizadas en la resolución extractada y publicada en www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
