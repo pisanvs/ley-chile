@@ -46,7 +46,7 @@ b) Deberán guardar estricta reserva y no utilizar en beneficio propio o ajeno l
 
 c) Deberán abstenerse del debate y de la votación que se refieran a asuntos que los involucren o en que puedan tener interés, de acuerdo a las normas y procedimientos que se establezcan sobre esta materia en el reglamento interno.
 
-Cualquier incumplimiento de las obligaciones anteriores será causal de cesación en el cargo y hará exigibles las responsabilidades civiles o penales que pudieren corresponder a quienes contravengan lo señalado en el inciso anterior, sin perjuicio de las sanciones administrativas que puedan ser procedentes.
+Cualquier incumplimiento de las obligaciones anteriores será causal de cesación en el cargo y hará exigibles las responsabilidades civiles o penales que pudieren corresponder a quienes contravengan lo señalado en el inciso anterior, sin perjuicio de las sanciones administrativas que puedan ser procedentes. Sin perjuicio de lo anterior cualquier integrante del Comité cesará en el cargo por disposición del Ministro de Hacienda manifestada mediante resolución.
 
 #### Artículo 5º
 
