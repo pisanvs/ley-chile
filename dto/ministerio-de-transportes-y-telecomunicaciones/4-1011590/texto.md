@@ -20,15 +20,17 @@ Sobre la implementación del subsidio al Programa de Apoyo al Transporte Regiona
 
 #### Artículo 1°
 
-Para efectos de la asignación de los recursos a que se refiere el artículo 5º, letra a) de la ley Nº 20.378, el Programa de Apoyo al Transporte Regional, en adelante y para efectos de este reglamento, "el Programa", contempla las siguientes categorías de subsidios:
+Para efectos de la asignación de los recursos a que se refiere el artículo 5º de la ley Nº 20.378, el Programa de Apoyo al Transporte Regional, en adelante y para efectos de este reglamento, "el Programa", contempla las siguientes categorías de subsidios:
 
 i) Subsidios al transporte público remunerado en zonas aisladas;
 
 ii) Subsidios al transporte escolar;
 
-iii) Subsidios que promuevan el transporte público en las Regiones de Arica y Parinacota, Tarapacá, Aysén, Magallanes y la Antártica Chilena y las Provincias de Palena y Chiloé, cuando el uso por parte de los estudiantes del transporte público mayor sea significativamente menor al resto del país;
+iii) Subsidios orientados a la promoción y fortalecimiento del transporte público en las zonas rurales del país;
 
-iv) Otros programas que favorezcan el transporte público, entre los que se considerará un programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares a que se refiere la ley Nº 18.700, en aquellas localidades rurales que no cuenten con recorridos habituales o cuyos servicios en esos días sean insuficientes para cubrir la demanda existente, siendo determinados por el Ministerio de Transportes y Telecomunicaciones en base a una solicitud de la respectiva Intendencia y previo informe favorable del Secretario Regional Ministerial de Transportes y Telecomunicaciones correspondiente. Los respectivos procesos de contratación asociados a la implementación del programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares, serán realizados por las Intendencias Regionales directamente o por medio de las Gobernaciones Provinciales, debiendo ajustarse para ello a lo prescrito en el artículo 7º de este reglamento. La supervisión de la debida ejecución de los convenios estará a cargo de la respectiva Intendencia, la que deberá arbitrar las medidas pertinentes al efecto y dar cuenta al Ministerio de Transportes y Telecomunicaciones.
+iv) Subsidios que promuevan el transporte público en las Regiones de Arica y Parinacota, Tarapacá, Aysén, Magallanes y la Antártica Chilena y las Provincias de Palena y Chiloé, cuando el uso del transporte público mayor sea significativamente menor al resto del país;
+
+v) Otros programas que favorezcan el transporte público y la seguridad y educación vial, entre los que se considerará un programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares a que se refiere la ley Nº 18.700, en aquellas localidades rurales que no cuenten con recorridos habituales o cuyos servicios en esos días sean insuficientes para cubrir la demanda existente, siendo determinados por el Ministerio de Transportes y Telecomunicaciones en base a una solicitud de la respectiva Intendencia y previo informe favorable del Secretario Regional Ministerial de Transportes y Telecomunicaciones correspondiente. Los respectivos procesos de contratación asociados a la implementación del programa de servicios de transporte público de pasajeros para los días de realización de elecciones populares, serán realizados por las Intendencias Regionales directamente o por medio de las Gobernaciones Provinciales, debiendo ajustarse para ello a lo prescrito en el artículo 7º de este reglamento. La supervisión de la debida ejecución de los convenios estará a cargo de la respectiva Intendencia, la que deberá arbitrar las medidas pertinentes al efecto y dar cuenta al Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 2º
 
@@ -40,7 +42,7 @@ Los proyectos a que se refiere el presente reglamento, se destinarán a mejorar 
 
 #### Artículo 3º
 
-La selección de los proyectos para zonas aisladas y para otros programas que favorezcan el transporte público a los que se asignarán recursos, conforme al inciso segundo del artículo 2°, se efectuará de acuerdo al siguiente procedimiento:
+La selección de los proyectos para zonas aisladas, zonas rurales y para otros programas que favorezcan el transporte público a los que se asignarán recursos, conforme al inciso segundo del artículo 2°, se efectuará de acuerdo al siguiente procedimiento:
 
 i) El llamado a presentar proyectos será efectuado por el Ministerio. Los términos que regirán la convocatoria estarán disponibles en su sitio web.
 
@@ -74,7 +76,7 @@ v) Monto de los recursos requeridos.
 
 #### Artículo 5°
 
-El Ministerio podrá considerar proyectos que fomenten el transporte público en las Regiones de Arica y Parinacota; Tarapacá; Aysén del G. Carlos Ibáñez del Campo; Magallanes y la Antártica Chilena, y las Provincias de Palena y Chiloé; cuando la tasa de viajes escolares por Tarjeta Nacional Estudiantil, en adelante TNE, que resulta de dividir el número total de viajes escolares por el número de TNE correspondientes a la misma zona, sea menor al 30% del promedio de las regiones del país.
+El Ministerio podrá considerar proyectos que fomenten el transporte público en las Regiones de Arica y Parinacota; Tarapacá; Aysén del G. Carlos Ibáñez del Campo; Magallanes y la Antártica Chilena, y las Provincias de Palena y Chiloé; cuando la tasa de viajes escolares por Tarjeta Nacional Estudiantil, en adelante TNE, que resulta de dividir el número total de viajes escolares por el número de TNE correspondientes a la misma zona, sea menor al 30% del promedio de las regiones del país; o cuando la tasa de viajes totales por habitante, que resulta de dividir el número total de viajes en transporte público mayor, por el número de habitantes correspondientes a la región, provincia o comuna de que se trate, sea menor al 30% del promedio de las regiones del país.
 
 Podrán presentar proyectos que postulen a esta categoría de subsidio los Municipios, las Intendencias, las Gobernaciones, los Ministerios u otras entidades públicas. Dichas postulaciones deberán presentarse ante las respectivas Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones, o a través del sitio web del Ministerio, todo ello conforme a los términos que establezca el Ministerio.
 
@@ -84,11 +86,9 @@ El Ministerio realizará el análisis de los proyectos presentados y los selecci
 
 Sobre la distribución de los recursos entre proyectos
 
-#### Artículo 6°
+#### Artículo 6º
 
-Sobre la base del límite regional asignado anualmente para financiar el Programa de Apoyo al Transporte Regional, según lo establecido en el reglamento del artículo 2° de la ley Nº 20.378, y una vez descontados los montos requeridos para financiar aquellos proyectos del Programa de Apoyo al Transporte Regional comprometidos contractualmente en años anteriores, el subsidio restante podrá destinarse a financiar nuevos proyectos según las distintas categorías de subsidios definidas en el artículo 1° de este reglamento. Si la suma de los montos de subsidio requeridos por los proyectos seleccionados de acuerdo a lo señalado en los artículos 3°, 4° y 5° de este reglamento es inferior al total de recursos disponibles, la distribución de recursos se realizará para la totalidad de dichos proyectos.
-
-Con todo, deberá darse estricto cumplimiento a lo prescrito en el artículo 12º, del reglamento del artículo 2 de la ley N° 20.378.
+En la determinación del monto de subsidio asignado anualmente para financiar el Programa de Apoyo al Transporte Regional, deberá considerarse lo establecido en el inciso cuarto del artículo 2 de la ley Nº20.378, respecto a la distribución regional de los recursos.
 
 ## Título III
 
@@ -102,7 +102,7 @@ Excepcionalmente, el Ministerio o las otras entidades públicas podrán acudir a
 
 #### Artículo 8º
 
-Las bases de licitación o, según corresponda, los convenios originados para el otorgamiento de los subsidios previstos en los numerales i), ii), iii) y iv) del artículo 1° de este reglamento, deberán establecer las exigencias, condiciones y términos para su operación así como también respecto de la transferencia de los recursos que corresponda.
+Las bases de licitación o, según corresponda, los convenios originados para el otorgamiento de los subsidios previstos en los numerales i), ii), iii), iv) y v) del artículo 1° de este reglamento, deberán establecer las exigencias, condiciones y términos para su operación así como también respecto de la transferencia de los recursos que corresponda.
 
 #### Artículo 9°
 
