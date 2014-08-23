@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA A SALMONES CHAICAS S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77314035423, de fecha 13/08/2014, otorga, a contar del 1º del mes siguiente al de publicación, al contribuyente Salmones Chaicas S.A., RUT Nº 76.125.666-1, la calidad de Agente Retenedor del Impuesto al Valor Agregado, en la comercialización de especies hidrobiológicas, establecido en la resolución Ex. Nº3.311 de 2000 de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1º de julio de 2000.
