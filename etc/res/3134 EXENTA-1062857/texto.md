@@ -22,6 +22,8 @@ La primera selección se realizará con los inscritos en cada modalidad al últi
 
 La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 850.000 Unidades de Fomento.
 
+Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados.
+
 2. Sin perjuicio del cumplimiento de los requisitos establecidos en el DS Nº 1 y en el DS Nº 49, ambos de Vivienda y Urbanismo, de 2011, los damnificados que se inscriban para cada modalidad de aplicación del subsidio, deberán cumplir con los siguientes requisitos:
 
 a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo.
@@ -30,7 +32,7 @@ b) Declaración de núcleo familiar según formato provisto por el Serviu. No se
 
 c) Formulario de elección de modalidad de aplicación de subsidio, según formato provisto por el Serviu.
 
-d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio con pago de subsidio posterior o Construcción en Sitio Propio con pago por avance de obras, deberá acreditar que el sitio está emplazado en una zona segura o mitigable, lo que deberá ser acreditado por la Dirección de Obras Municipales y la disponibilidad de terreno mediante alguno de los siguientes documentos:
+d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio con pago de subsidio posterior o Construcción en Sitio Propio con pago por avance de obras, deberá acreditar disponibilidad de terreno mediante alguno de los siguientes documentos:
 
 i. Copia de la inscripción de dominio con certificado de vigencia a nombre del damnificado o de su cónyuge, o de ambos cónyuges en comunidad o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
@@ -52,15 +54,15 @@ b) Acreditación de Ficha de Protección Social.
 
 c) Acreditación de ingreso familiar bajo los máximos permitidos.
 
-d) Haber obtenido algún beneficio anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional.
+d) Haber obtenido algún beneficio anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o ser propietario de otros inmuebles; o si lo fuere su cónyuge.
 
 e) Del impedimento a que se refiere el artículo 15, del DS Nº 49 (V. y U.), de 2011, para damnificados unipersonales, que no acrediten núcleo familiar, y que sean propietarios de la vivienda siniestrada.
 
 f) Del requisito de acreditar disponibilidad de sitio libre de hipotecas y gravámenes.
 
-4. No podrán recibir el subsidio habitacional las personas que aun cuando tengan la calidad de damnificados, sean propietarios, ellos o su cónyuge, de otro inmueble de carácter habitacional, salvo que éste haya resultado igualmente destruido a causa de los sismos a que se refiere el considerando de esta resolución. Tampoco podrán recibir el subsidio habitacional las personas o sus cónyuges que cuenten con un certificado de subsidio habitacional vigente.
+4. No obstante lo señalado en la letra d) del Resuelvo 3., no podrán inscribirse en alguna de las modalidades de aplicación del subsidio los arrendatarios o allegados que, aun cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo fuera su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
 
-Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha, los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.), de 1995, o si lo estuviere su cónyuge o conviviente.
+Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha ni los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº120 (V. y U.), de 1995, o si lo estuviere su cónyuge.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta Resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
@@ -74,9 +76,9 @@ En el caso de viviendas nuevas, se deberá presentar planta de arquitectura de l
 
 En el caso de una vivienda usada, se deberá presentar la tasación comercial de la vivienda, la que deberá contener el informe de aceptabilidad requerido por el Manual de Tasaciones para el Subsidio Habitacional, aprobado por resolución Nº 347 (V. y U.), de 2004. En caso que no sea posible presentar la planta de arquitectura de la vivienda con timbre de la Dirección de Obras Municipales respectiva, la misma tasación deberá señalar que la vivienda cumple con los recintos mínimos señalados en el inciso segundo de este número.
 
-Si el damnificado tiene derechos sobre un sitio, para inscribirse en esta modalidad deberá haber iniciado los trámites de cesión del terreno al Serviu, lo que deberá ser acreditado por éste.
+Si el damnificado tiene derechos sobre un sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe, para inscribirse en esta modalidad deberá haber iniciado los trámites de cesión del terreno al Serviu, lo que deberá ser acreditado por éste.
 
-7. Los beneficiarios en las modalidades de Adquisición de Vivienda nueva o usada podrán aplicar el subsidio a la adquisición o construcción de una vivienda económica de hasta 2.000 Unidades de Fomento, a través del DS Nº 1 (V. y U.), de 2011. La vivienda se financiará con el subsidio, más aportes propios y/o crédito hipotecario de ser el caso.
+7. Los beneficiarios en las modalidades de Adquisición de Vivienda nueva o usada podrán aplicar el subsidio a la adquisición de una vivienda económica de hasta 2.000 Unidades de Fomento, a través del DS Nº 1 (V. y U.), de 2011. La vivienda se financiará con el subsidio, más aportes propios y/o crédito hipotecario de ser el caso.
 
 A quienes opten por las modalidades señaladas en el inciso anterior, no les será exigible los requisitos señalados en las letras c), d) y m) del artículo 16 del DS Nº 1 (V. y U.), de 2011.
 
@@ -94,9 +96,11 @@ Conforme a los gastos que rinda, el beneficiario obtendrá un subsidio adicional
 
 9. El Certificado de Subsidio Habitacional tendrá una vigencia de seis meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota o de Tarapacá, según corresponda.
 
-10. Para el pago del Certificado de Subsidio Habitacional, se estará a los dispuesto en los artículos 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
+10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
-En caso que el beneficiario o su cónyuge tengan derechos en comunidad sobre una vivienda, para proceder al pago del subsidio se deberá acreditar que han cedido dichos derechos, mediante la correspondiente escritura pública inscrita, salvo que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en que el beneficiario o su cónyuge sean comuneros.
+En caso que el beneficiario hubiese tenido derechos sobre un sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y haya iniciado los trámites de cesión del terreno al Serviu, conforme a lo señalado en el inciso quinto del Resuelvo 6. de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33 del DS Nº1 (V. y U ), de 2011.
+
+Cuando hayan debido cederse los derechos sobre un sitio, de conformidad con lo señalado en el inciso precedente, para proceder al pago del subsidio se deberá acreditar que se han cedido dichos derechos mediante la correspondiente escritura pública inscrita.
 
 Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, de acuerdo a lo señalado en la letra c) del artículo 35 del DS Nº 1 (V. y U.), de 2011.
 
@@ -109,6 +113,8 @@ El precio de la compraventa será el señalado en la respectiva escritura de com
 Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio siniestrado sobre el cual el interesado tiene derechos y el respectivo plano de arquitectura.
 
 12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
+
+En caso de autoconstrucción de la vivienda en que no haya contrato de construcción o de provisión de la vivienda, a que se refiere la letra j) del inciso primero del artículo 34 del DS Nº1 (V. y U ), de 2011, para pagar el subsidio se deberá presentar tasación comercial o informe que indique el costo de la vivienda y que cumple con los requisitos y condiciones exigidos en esta resolución, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del MINVU, en la subespecialidad de Tasaciones, en cuyo caso se pagarán 4 Unidades de Fomento al consultor que realice la tasación o el informe, de ser el caso.
 
 El beneficiario obtendrá además los siguientes subsidios adicionales:
 
@@ -132,15 +138,13 @@ iii. Informe técnico de evaluación de daños de elementos constructivos patrim
 
 13. El Certificado de Subsidio Habitacional, tendrá una vigencia de doce meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota o de Tarapacá, según corresponda.
 
-14. Para el pago del Certificado de Subsidio Habitacional, se estará a los dispuesto en los artículos 32 y letras a) e i) del artículo 34 del DS Nº 1 (V. y U.), 2011.
-
-Al solicitar el pago del subsidio, el beneficiario deberá presentar declaración jurada en que se comprometa a no enajenar la vivienda en un plazo de cinco años, contados a partir de la fecha de la recepción municipal.
+14. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y letras a) e i) del artículo 34 del DS Nº 1 (V. y U.), 2011.
 
 En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se exigirá que los ceda para el pago del subsidio.
 
 ### Párrafo 4º — Modalidad de ejecución mediante Construcción en Sitio Propio con pago por avance de obras
 
-15. La presente modalidad corresponderá a proyectos de reposición de la vivienda del propietario damnificado, en el sitio de su propiedad, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
+15. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
 16. En esta alternativa, el valor de la vivienda a construir corresponderá al valor de los subsidios obtenidos más el valor de aportes adicionales en caso que corresponda. No se considerará la opción a crédito hipotecario.
 
@@ -156,7 +160,9 @@ c) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento según corres
 
 d) Subsidio para viviendas de carácter patrimonial, de hasta 100 Unidades de Fomento, para aquellas que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, siempre que contribuyan a la recuperación del patrimonio arquitectónico y/o urbano del entorno, dando cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley Nº 17.288 Sobre Monumentos Nacionales y la Ley General de Urbanismo y Construcciones y su Ordenanza. En aquellas áreas o localidades en que no exista una declaración de Zona de Conservación Histórica o Zona Típica o Pintoresca, o tratándose de inmuebles que no se encuentren declarados de Conservación Histórica o Monumento Histórico, y donde sin embargo se reconozca un valor patrimonial arquitectónico que preservar, podrá autorizarse la aplicación del subsidio señalado mediante resoluciones fundadas de la Seremi de Vivienda y Urbanismo de la región respectiva, en las que deberá establecerse el perímetro del área o la identificación del inmueble en cuestión, y los elementos de diseño y/o de emplazamiento que otorgan dicho carácter patrimonial, y que deberán respetarse en los proyectos a presentar.
 
-e) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
+e) Subsidio para la instalación de sistemas solares térmicos, de hasta 40 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbres. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
+
+f) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
 
 i. Elaboración, tramitación y aprobación de los proyectos de arquitectura, estructuras, especialidades, de mitigaciones de riesgo, de habilitación del terreno, especificaciones técnicas, presupuestos.
 
@@ -170,7 +176,7 @@ v. Informar a la familia respecto a las modalidades de aplicación del presente 
 
 vi. Pago de gastos administrativos, tales como el valor del permiso de edificación, recepción final municipal, gastos notariales y del Conservador de Bienes Raíces.
 
-El Serviu pagará hasta un 40% de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta un 20% contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y el saldo final contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
+El Serviu pagará hasta 28 Unidades de Fomento de este subsidio adicional a la entidad o profesional competente que haya desarrollado el proyecto y que determine el beneficiario, una vez tramitada la resolución que otorga el subsidio y calificado el proyecto; hasta 14 Unidades de Fomento contra el certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y 28 Unidades de Fomento contra la presentación de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales y de las respectivas boletas, facturas o comprobantes en que estén señalados los montos gastados.
 
 Tratándose de proyectos que cumplan las condiciones para obtener el incremento de subsidio de hasta 100 Unidades de Fomento a que se refiere el literal anterior, los honorarios que correspondan a la Entidad Patrocinante por la prestación de servicios de asistencia técnica, se incrementarán hasta por un monto de 30 Unidades de Fomento por familia, para lo que deberán desarrollarse además las siguientes labores:
 
@@ -196,17 +202,21 @@ f) Contrato de Construcción con empresa constructora, o Declaración de Autocon
 
 19. Una vez que el proyecto se encuentre calificado, el Serviu respectivo procederá automáticamente a la adscripción del beneficiario al proyecto, emitiendo el respectivo certificado de adscripción. Las obras de construcción de la vivienda deberán iniciarse a más tardar 45 días corridos después de la adscripción al proyecto por parte del Serviu.
 
-20. Para los efectos de proceder al pago del subsidio de los beneficiarios del presente llamado que apliquen su subsidio mediante esta modalidad, regirán las disposiciones establecidas en el DS Nº 49 (V. y U.), de 2011, salvo por las siguientes:
+No se requerirá que el Serviu dicte la resolución a que se refiere el inciso final del artículo 61, ni que el beneficiario suscriba la Declaración de Adscripción a que alude el artículo 62, ambos del DS Nº 49 (V. y U.), de 2011.
 
-a) El certificado de recepción municipal exigido en la letra h) del artículo 76 del DS Nº 49 (V. y U.), de 2012, será reemplazado por un certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento de las obras deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
+20. El Serviu pagará el subsidio, deducido el monto de los giros efectuados por concepto de anticipos a cuenta del pago de éste, si los hubiere, contra la presentación de los siguientes documentos:
+
+a) Certificado del Departamento Técnico del Serviu en el que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y en estos casos, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras a que se refiere el artículo 59 del DS Nº 49 (V. y U.), de 2011, una vez recibidas las obras por Serviu. La boleta de buena ejecución y buen comportamiento de las obras deberá tener vigencia a partir de esta recepción y deberá caucionar además la obtención de la recepción definitiva de la vivienda por parte de la Dirección de Obras Municipales.
 
 b) El constructor podrá entregar una Boleta de Garantía única, ya sea por cada beneficiario o por el total de beneficiarios respecto del cual ejecute las obras, para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos cuarto, quinto, sexto y séptimo del artículo 59 del DS Nº 49 (V. y U.), de 2011. Dicha Boleta de Garantía deberá encontrarse vigente al momento de solicitar los anticipos por avance de obra, y será responsabilidad de Serviu informar del vencimiento de ésta a la Empresa Constructora, 15 días antes de perder la vigencia y solicitar la prórroga.
 
+Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº49 (V. y U.), de 2011.
+
 ### Párrafo 5º — Consideraciones técnicas para proyectos de Construcción en Sitio Propio.
 
-21. Los proyectos habitacionales que sean presentados al presente llamado en la modalidad de Construcción en Sitio Propio con pago por avance de obras deberán cumplir con el siguiente estándar técnico:
+21. Los proyectos habitacionales que sean presentados al presente llamado en las modalidades de Construcción en Sitio Propio con pago posterior o Construcción en Sitio Propio con pago por avance de obras, deberán cumplir con el siguiente estándar técnico:
 
-a) Superficie construida de a lo menos 45 metros cuadrados.
+a) Superficie construida de a lo menos 45 m2 y que no exceda de los 140 m2, cuyo valor o costo de construcción no exceda de 2.000 Unidades de Fomento.
 
 b) Un programa arquitectónico de a lo menos 4 recintos conformados: un dormitorio con cabida para una cama de dos plazas, un dormitorio con cabida para una cama de una plaza, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina.
 
@@ -218,7 +228,7 @@ e) En los proyectos específicos a desarrollar, se podrá utilizar parte de la e
 
 22. Podrán prestar los servicios de asistencia técnica a las familias damnificadas que sean atendidas mediante la presente resolución, las siguientes entidades y/o profesionales, las que serán consideradas Entidad Patrocinante para todos los efectos, en las modalidades que se señalan:
 
-a) Entidades Patrocinantes, con convenio marco regional vigente en las Regiones de Arica y Parinacota y de Tarapacá, o en otras regiones del país, que suscriban addendum para operar en las regiones señaladas de acuerdo a formato proporcionado por la Seremi de Vivienda y Urbanismo de dichas regiones. El addendum señalado deberá estar suscrito con anterioridad al primer pago por la prestación de servicios de asistencia técnica. Estas entidades podrán operar en las modalidades reguladas por el DS Nº 49 (V. y U.), de 2011.
+a) Entidades Patrocinantes, con convenio marco regional vigente en las Regiones de Arica y Parinacota y de Tarapacá, o en otras regiones del país, que suscriban addendum para operar en las regiones señaladas de acuerdo a formato proporcionado por la Seremi de Vivienda y Urbanismo de dichas regiones. El addendum señalado deberá estar suscrito con anterioridad al primer pago por la prestación de servicios de asistencia técnica. Estas entidades podrán operar en las modalidades reguladas por el DS Nº 49 (V. y U.), de 2011. Tratándose de Municipalidades de las Regiones de Arica y Parinacota y de Tarapacá, que actúen como Entidad Patrocinante, no será exigible la suscripción del Convenio Marco correspondiente, pese a lo cual, la Municipalidad deberá acreditar ante Serviu que cuenta con las capacidades suficientes para otorgar la asistencia técnica a las familias damnificadas.
 
 b) Las Entidades Patrocinantes definidas en el artículo 1º del DS Nº 1 (V. y U.), de 2011, en la modalidad de Construcción en Sitio Propio con pago posterior, regulada por el DS Nº 1 referido.
 
@@ -234,9 +244,9 @@ e) Los Serviu de las Regiones de Arica y Parinacota y de Tarapacá, directamente
 
 24. Para los damnificados que opten por la modalidad de ejecución de Construcción en Sitio Propio con pago por avance de obras, conforme a lo establecido en el párrafo 4º de la presente resolución, y que además declaren aplicar dicho beneficio a través del procedimiento para Autoconstrucción Asistida, se establecerán las condiciones del presente Párrafo.
 
-25. El subsidio se aplicará mediante una tarjeta personal e intransferible que el Serviu respectivo, emitirá a nombre del beneficiario una vez aprobado el proyecto. Esta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio de hasta 600 Unidades de Fomento otorgado, podrán adicionarse los subsidios complementarios señalados en las letras b), c) y d) del Resuelvo 17 de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el Resuelvo 33.
+25. El subsidio se aplicará mediante una tarjeta personal e intransferible que el Serviu respectivo, emitirá a nombre del beneficiario una vez aprobado el proyecto. Esta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio de hasta 600 Unidades de Fomento otorgado, podrán adicionarse los subsidios complementarios señalados en las letras a), b), c), d) y e) del Resuelvo 17 de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el Resuelvo 33.
 
-Podrá destinarse hasta 90 Unidades de Fomento, deducibles del subsidio base, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida. Tanto éste, como el monto destinado a la demolición y retiro de escombros, si corresponden, no serán incorporados a la tarjeta.
+Podrá destinarse hasta 270 Unidades de Fomento, deducibles del subsidio base, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida. Tanto éste, como el monto destinado a la demolición y retiro de escombros, si corresponden, no serán incorporados a la tarjeta.
 
 26. El Serviu cargará la tarjeta para la adquisición de los materiales de construcción contra los siguientes hitos:
 
@@ -322,7 +332,7 @@ i) En caso que la Entidad Patrocinante no dé cumplimiento a las obligaciones se
 
 j) Para los pagos de subsidios y de los honorarios por concepto de servicios de asistencia técnica bajo esta modalidad sólo podrá exigirse el cumplimiento de las condiciones establecidas en la presente resolución, no siendo aplicable las exigencias contenidas para esos efectos en el DS Nº 49 (V. y U.), de 2011, ni las señaladas por la resolución Nº 420 (V. y U.), de 2012.
 
-k) Los honorarios que percibirán las Entidades Patrocinantes, por las labores de asistencia técnica bajo esta modalidad, alcanzarán un monto de hasta 70 Unidades de Fomento, y se pagarán en cuatro parcialidades: 10 Unidades de Fomento al momento de la calificación del proyecto respectivo, 25 Unidades de Fomento al momento de autorizada la segunda carga, 10 Unidades de Fomento una vez efectuada la recepción de las obras terminadas por parte del Serviu y 25 Unidades de Fomento una vez emitido el certificado de recepción definitiva de obras de edificación por parte de la Dirección de Obras Municipales respectiva.
+k) Los honorarios que percibirán las Entidades Patrocinantes, por las labores de asistencia técnica bajo esta modalidad, alcanzarán un monto de hasta 80 Unidades de Fomento, y se pagarán en cuatro parcialidades: 30 Unidades de Fomento al momento de la calificación del proyecto respectivo, 15 Unidades de Fomento al momento de autorizada la segunda carga, 15 Unidades de Fomento una vez efectuada la recepción de las obras terminadas por parte del Serviu y 20 Unidades de Fomento una vez emitido el certificado de recepción definitiva de obras de edificación por parte de la Dirección de Obras Municipales respectiva.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
