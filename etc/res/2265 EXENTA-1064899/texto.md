@@ -12,11 +12,11 @@ Aplícase, a todos los centros de cultivo de salmónidos ubicados en agua de mar
 
 1º La primera ventana de tratamiento para la XI Región tendrá lugar entre los días 17 y 28 de julio de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 28.
 
-2º La primera ventana de tratamiento para la X Región tendrá lugar entre los días 16 y 25 de agosto de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 32.
+2º La primera ventana de tratamiento para la X Región tendrá lugar entre los días 13 y 22 de agosto de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 32.
 
 3º La segunda ventana de tratamiento para la XI Región tendrá lugar entre los días 26 de agosto y 06 de septiembre de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 34.
 
-4º La segunda ventana de tratamiento para la X Región tendrá lugar entre los días 25 de septiembre y 04 de octubre de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 38.
+4º La segunda ventana de tratamiento para la X Región tendrá lugar entre los días 22 de septiembre y 01 de octubre de 2014. Los centros de cultivo que deberán realizar el tratamiento coordinado de invierno, son aquellos que reporten un número promedio de Hembras Ovígeras (HO) >= 1.5 durante la semana 38.
 
 5º Los tratamientos destinados a reducir los niveles de infestación, se deberán realizar, utilizando estratégicamente productos farmacéuticos, mediante sistemas cerrados de tratamientos por inmersión, bajo prescripción Médico Veterinaria y cumpliendo el protocolo e indicaciones técnicas establecidas por el o los Laboratorios Fabricantes. El tratamiento por baño deberá considerar todas las jaulas del centro que cuenten con peces al momento de la aplicación, deberá ser autorizado previamente por el Servicio (FTA) y deberá enviar la eficacia del mismo (IPT), conforme lo establecido en el PSEVC-Caligidosis.
 
