@@ -40,9 +40,11 @@ Estudio.
 
 Región Metropolitana.
 
-- Coordenadas Geográficas : 33° 26' 04" Latitud Sur; 70° 35' 58"
+- Coordenadas Geográficas : 33° 26' 04" Latitud Sur;
 
-Longitud Oeste. Datum PSAD 56.
+70° 35' 58" Longitud Oeste.
+
+Datum PSAD 56.
 
 Planta Transmisora.
 
@@ -50,9 +52,11 @@ Planta Transmisora.
 
 Región.
 
-- Coordenadas Geográficas : 37° 26' 15" Latitud Sur; 72° 22' 30"
+- Coordenadas Geográficas : 37° 26' 18" Latitud Sur;
 
-Longitud Oeste. Datum PSAD 56.
+72° 22' 57,4" Longitud Oeste.
+
+Datum PSAD 56.
 
 Características Técnicas del Sistema Radiante que Cambia:
 
