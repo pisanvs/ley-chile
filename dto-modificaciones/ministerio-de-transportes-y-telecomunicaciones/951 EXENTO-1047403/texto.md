@@ -48,9 +48,11 @@ Planta Transmisora:
 
 VIII Región.
 
-- Coordenadas geográficas : 37°26'15" Latitud Sur; 72°
+- Coordenadas geográficas : 37° 26' 18" Latitud Sur;
 
-22' 30" Longitud Oeste.
+72° 22' 57,4" Longitud
+
+Oeste.
 
 Datum PSAD 56.
 
