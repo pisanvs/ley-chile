@@ -14,7 +14,7 @@ Decreto:
 
 1.- Autorízase la circulación de los vehículos, propiedad del Instituto de Desarrollo Agropecuario, en algunas Direcciones Regionales, en días sábados en la tarde, domingos y festivos, sin sujeción a la jornada ordinaria de trabajo, en las labores del Instituto de Desarrollo Agropecuario y se procede a sustituir las letras b), c), d), e), g), i), k), l) y o) del decreto exento Nº 392, de 2009, del Ministerio de Agricultura, por las siguientes:
 
-b) Camioneta Mazda modelo BT50, doble cabina, año 2012, Nº de Motor WLAT 1271057, color blanco, inscripción Registro Nacional de Vehículos Motorizados DLST-83-7, Patente DLST-83-7, Inventario 4-735-1, se destina a la Dirección de la XV Región del Instituto de Desarrollo Agropecuario.
+b) Station Wagon Nissan X Trail Full 4WD 2.5, año 2010, Nº de motor QR25928937A, color plateado metálico, Inscripción Registro Nacional de Vehículos Motorizados CJFX.39-1, Patente CJFX.39-1, Inventario 4-752-1, se destina a la Dirección de la II Región del Instituto de Desarrollo Agropecuario.
 
 c) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 951680, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBYB.20-0, patente DBYB.20-0, inventario 4-595-1, se destina a la Dirección de la III Región del Instituto de Desarrollo Agropecuario.
 
@@ -22,7 +22,7 @@ d) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25110537B, color bl
 
 e) Station Wagon Suzuki Gran Vitara GLX Sport, año 2012, Nº de motor M16A-1618399, color plateado plata, inscripción Registro Nacional de Vehículos Motorizados DKWH.68-8, patente DKWH.68-8, inventario 4-679-1, se destina a la Dirección de la V Región del Instituto de Desarrollo Agropecuario
 
-g) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25159539B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-30-8, patente DBRD-30-8, inventario 4-629-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
+g) Station Wagon Nissan X Trail S MT, año 2011, Nº de motor QR25160248B, color blanco perla, Inscripción Registro Nacional de Vehículos Motorizados DBRD.31-6, Patente DBRD.31-6, Inventario 4-627-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
 
 i) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 939711, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ.86-9, patente DBXZ.86-9, inventario 4-601-1, se destina a la Dirección de la IX Región del Instituto de Desarrollo Agropecuario.
 

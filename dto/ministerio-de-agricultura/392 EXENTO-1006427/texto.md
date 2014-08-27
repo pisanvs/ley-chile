@@ -18,7 +18,7 @@ Decreto:
 
 a) Camioneta Chevrolet Modelo Dmax TH 3.0, doble cabina, año 2011, Nº de Motor 939399, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ-92-3, Inventario 4-603-1, se destina a la Dirección de la Región de Tarapacá del Instituto de Desarrollo Agropecuario.
 
-b) Camioneta Mazda modelo BT50, doble cabina, año 2012, Nº de Motor WLAT 1271057, color blanco, inscripción Registro Nacional de Vehículos Motorizados DLST-83-7, Patente DLST-83-7, Inventario 4-735-1, se destina a la Dirección de la XV Región del Instituto de Desarrollo Agropecuario.
+b) Station Wagon Nissan X Trail Full 4WD 2.5, año 2010, Nº de motor QR25928937A, color plateado metálico, Inscripción Registro Nacional de Vehículos Motorizados CJFX.39-1, Patente CJFX.39-1, Inventario 4-752-1, se destina a la Dirección de la II Región del Instituto de Desarrollo Agropecuario
 
 c) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 951680, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBYB.20-0, patente DBYB.20-0, inventario 4-595-1, se destina a la Dirección de la III Región del Instituto de Desarrollo Agropecuario.
 
@@ -26,9 +26,9 @@ d) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25110537B, color bl
 
 e) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25160248B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-31-6, patente DBRD-31-6, inventario 4-627-1, se destina a la Dirección de la V Región del Instituto de Desarrollo Agropecuario.
 
-f) Station Wagon Suzuki Gran Nomade 2.0 GLX Sport, año 2009, Nº Motor J20A-671547, color gris grafito, inscripción Registro Nacional de Vehículos Motorizados CBBL.98-6, patente CBBL.98-6, inventario 4-519-1, se destina a la Dirección de la VI Región del Instituto de Desarrollo Agropecuario.
+f) Station Wagon Nissan X Trail, año 2011, Nº de motor QR25117058B, color blanco perlado, Inscripción Registro Nacional de Vehículos Motorizados CZZH.20-0, Patente CZZH-20-0, Inventario 4-568-1, se destina a la Dirección de la VI Región del Instituto de Desarrollo Agropecuario.
 
-g) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25159539B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-30-8, patente DBRD-30-8, inventario 4-629-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
+g) Station Wagon Nissan X Trail S MT, año 2011, Nº de motor QR25160248B, color blanco perla, Inscripción Registro Nacional de Vehículos Motorizados DBRD.31-6, Patente DBRD.31-6, Inventario 4-627-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
 
 h) Camioneta Chevrolet Modelo Dmax TH 3.0, doble cabina, año 2011, Nº de Motor 952153, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ-91-5, Inventario 4-604-1, se destina a la Dirección de la VIII Región del Instituto de Desarrollo Agropecuario.
 
