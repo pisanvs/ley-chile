@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES SIMOC LIMITADA"
+
+Por resolución exenta Nº 213, de 7 de agosto de 2014 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 445, de 2012, a "Centro de Evaluación y Certificación de Competencias Laborales Simoc Limitada", RUT Nº 76.232.112-2, a los siguientes perfiles ocupacionales del Sector Construcción, Subsector Edificación: Administrativo de Obra (POSCE1), Bodeguero (POSCE2), Capataz (POSCE6), Rigger (POSCE7), Trazador (POSCE12) Pintor (POSCE16), Gasfiter (POSCE18), Instalador de Artefactos Sanitarios (POSCE20), Instalador de Corrientes Débiles (POSCE21) y Maestro General en Obras Menores (POSCE22). La ampliación de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
