@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.217, de 21 de agosto de 2014, de esta Subsecretaría, rectifíquese el numeral 1.- de la resolución exenta Nº 2.179 de 2014, que otorgó a Friosur VII S.A., hoy PESQUERA SUR AUSTRAL S.A., una ampliación del plazo otorgado en el numeral 4º de la resolución exenta Nº 2.861, de 2006, de esta Subsecretaría, en el sentido de señalar que el año de esta última resolución es "2006" y no como allí se indica.
+
+Valparaíso, 20 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
