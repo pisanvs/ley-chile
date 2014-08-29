@@ -1,0 +1,5 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DEL IVA A CONTRIBUYENTE QUE INDICA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77314034188 de fecha 07/07/2014., otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Paulina Schencke Michel RUT Nº 6.315.625-6, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de ganado vivo, establecido en la resolución Ex. Nº3.721 del 28 julio del 2000 de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 1º de agosto de 2000.
+
+Osorno, 7 de julio de 2014.- Luis Hermosilla Mansilla, Jefe Unidad SII Osorno.
