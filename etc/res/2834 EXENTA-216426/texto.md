@@ -320,7 +320,7 @@ Peronospora tabacina.
 
 11. Las semillas que presenten modificaciones o manipulaciones genéticas, deberán ceñirse a las normas específicas para estos casos y solicitar el permiso de internación respectivo en el Departamento de Protección Agrícola del Servicio.
 
-12. Las semillas de Cannabis sativa, no tienen declaraciones adicionales; sin embargo las mismas serán autorizadas mediante la emisión de una resolución caso a caso, por el Departamento de Protección Agrícola del SAG, la cual para emitirse deberá contar en forma previa con la autorización establecida en el artículo 2º de la ley 19.366 de 1995 y su reglamento, el decreto Nº 565, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, de 1995.
+12. Las semillas de Cannabis sativa, no tienen declaraciones adicionales sin embargo las mismas serán autorizadas mediante la emisión de una resolución caso a caso, por la División de Protección Agrícola y Forestal del SAG, la cual para emitirse deberá contar en forma previa con la autorización establecida en el artículo 9º de la ley 20.000 y su reglamento, aprobado mediante el decreto del Ministerio del Interior Nº 867, de 2007, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
 
 13. Derógase la resolución Nº 833 del 05 de julio de 1985, letra B y de la resolución Nº 1144 de 1981 el Género Nicotiana
 
