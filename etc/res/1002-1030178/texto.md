@@ -102,9 +102,13 @@ k) Elaborar los informes que soliciten los tribunales, el Ministerio Público y 
 
 l) Responder las solicitudes de acceso a la información, de acuerdo con las disposiciones de la ley Nº 20.285.
 
+En virtud de lo anterior, los Contralores Regionales podrán, a solicitud de los interesados, informar respecto de las peticiones que se les formulen y que consten en la documentación de que dispongan.
+
 m) Ratificar la aplicación de la medida disciplinaria de destitución a los directores de las asociaciones de funcionarios, de conformidad con el inciso primero del artículo 25 de la ley Nº 19.296.
 
-En virtud de lo anterior, los Contralores Regionales podrán, a solicitud de los interesados, informar respecto de las peticiones que se les formulen y que consten en la documentación de que dispongan.
+n) Instruir los sumarios administrativos e investigaciones sumarias que disponga el Contralor Regional, los que se sustanciarán en conformidad a las normas contempladas en la Ley Orgánica y en el Reglamento de Sumarios de la Contraloría General.
+
+En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, el sobreseimiento, absolución o las medidas disciplinarias serán propuestas al Contralor General por intermedio del Contralor Regional.
 
 ### Párrafo 2º
 
@@ -120,15 +124,11 @@ En el ejercicio de la función de control externo las Contralorías Regionales t
 
 a) Efectuar las inspecciones y auditorías dispuestas por el Contralor Regional, ya sea de oficio o a petición de autoridades, jefes de servicios, funcionarios o particulares;
 
-b) Instruir los sumarios administrativos e investigaciones sumarias que disponga el Contralor Regional, los que se sustanciarán en conformidad a las normas contempladas en la Ley Orgánica y en el Reglamento de Sumarios de la Contraloría General.
+b) Formular los reparos, previa visación de la Unidad Jurídica Regional y conforme a las instrucciones del Contralor General, para hacer efectiva la responsabilidad civil a que hubiere lugar y realizar las actuaciones encomendadas por el Tribunal de Cuentas.
 
-En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, el sobreseimiento, absolución o las medidas disciplinarias serán propuestas al Contralor General por intermedio del Contralor Regional.
+c) Efectuar, previa visación de la Unidad Jurídica Regional y del Comité Judicial, las denuncias al Ministerio Público.
 
-c) Formular los reparos, previa visación de la Unidad Jurídica Regional y conforme a las instrucciones del Contralor General, para hacer efectiva la responsabilidad civil a que hubiere lugar y realizar las actuaciones encomendadas por el Tribunal de Cuentas.
-
-d) Efectuar, previa visación de la Unidad Jurídica Regional y del Comité Judicial, las denuncias al Ministerio Público.
-
-e) Intervenir en la destrucción e incineración de documentos, especies valoradas y otros efectos de acuerdo a las instrucciones del Contralor General.
+d) Intervenir en la destrucción e incineración de documentos, especies valoradas y otros efectos de acuerdo a las instrucciones del Contralor General.
 
 ### Párrafo 3º
 
