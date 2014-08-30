@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.179, de 20 de agosto de 2014, de esta Subsecretaría, amplíese por un año, a contar del 10 de agosto de 2014, el plazo otorgado en el numeral 4º de la resolución exenta Nº 2.861 de 2006, de esta Subsecretaría, a Friosur VII S.A., hoy PESQUERA SUR AUSTRAL S.A., para iniciar actividades pesqueras extractivas con la nave en construcción denominada "BEC286106", con excepción de aquellas especies cuya caducidad haya sido declarada mediante resolución, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 20 de agosto de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
