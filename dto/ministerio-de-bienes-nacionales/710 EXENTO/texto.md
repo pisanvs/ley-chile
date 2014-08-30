@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA SOCIEDAD "GENERADORA DEL PACÍFICO S.A."
+
+Mediante decreto exento Nº 710, de 7 de agosto de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Generadora del Pacífico S.A.", RUT Nº 76.010.367-5, el inmueble fiscal formado por los Lotes a y b, ubicado en el Camino Público C-397, altura Km. 0,8 Sector Ojancos Viejos, comuna de Copiapó, provincia de Copiapó, Región de Atacama, enrolado en el Servicio de Impuestos Internos con los Nºs 7181-5 y 7181-6; amparado por la inscripción global que rola a fojas 527 vta. Nº 500, del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1964; de una superficie de 15,38 has, singularizado en el Plano Nº 03101-1.449-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 615,20.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
