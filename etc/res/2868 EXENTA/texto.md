@@ -82,6 +82,8 @@ venir con cubiertas plásticas y selladas.
 
 4. El USDA/APHIS deberá comunicar al SAG la presencia de cualquier brote de las plagas antes mencionadas en el Estado de Arizona y el establecimiento de áreas reglamentadas o bajo cuarentena, en un período no superior a las 96 horas de sucedido el evento.
 
+En el caso que los envíos estén compuestos por frutas que deriven de híbridos interespecificos de alguna de las especies de cítricos que están reguladas en esta resolución, deberán cumplir con las declaraciones adicionales y requisitos fitosanitarios correspondientes a cada especie parental
+
 5. La partida será inspeccionada a su arribo al país por los profesionales del SAG destacados en el puerto de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias y, con la documentación adjunta, resolverán su internación.
 
 6. Esta resolución entrará en vigencia después de 60 días de su publicación en el Diario Oficial.
