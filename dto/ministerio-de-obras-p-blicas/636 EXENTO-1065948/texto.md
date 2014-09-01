@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº 636 de 13 de agosto de 2014, se desistió de la expropiación del lote Nº61, ordenada por el Decreto MOP (Exento) Nº2730 de 21 de noviembre de 2012, debido a que el lote expropiado no resulta necesario para la obra "Mejoramiento Ruta Interlagos T-835, T-905, Sector Cayurruca - Trapi - Crucero". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
