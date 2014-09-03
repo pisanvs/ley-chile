@@ -1,0 +1,5 @@
+CREA MODELO DE CERTIFICADO Nº 40, QUE ACREDITA DONACIONES CON FINES CULTURALES A QUE SE REFIERE EL ARTÍCULO 8º DE LA LEY Nº 18.985, SUSTITUIDO POR LA LEY Nº 20.675, DE 2013
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 89 del 29 de agosto de 2014, que establece que las Instituciones donatarias a que se refiere el artículo 8º de la Ley Nº 18.985, sustituido por el artículo único de la Ley Nº 20.675, de 2013, con el fin de acreditar las donaciones que se efectúen, deberán emitir a los donantes, el Certificado Nº 40, denominado "Acredita Donaciones efectuadas con fines culturales, según artículo 8º Ley Nº 18.985", cuyo modelo se adjunta a la presente resolución, documento que deberá ser emitido por cada donación que se reciba.
+
+El texto íntegro de esta resolución está publicado en la oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto, de 2014.
