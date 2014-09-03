@@ -1,4 +1,4 @@
-ESTABLECE ZONA PRIORITARIA DE INTERVENCIÓN Y SELECCIONA AL BARRIO GLORIAS NAVALES, DE LA COMUNA DE VIÑA DEL MAR, REGIÓN DE VALPARAÍSO, PARA EL DESARROLLO DEL PROGRAMA DE RECUPERACIÓN DE BARRIOS
+ESTABLECE ZONA PRIORITARIA DE INTERVENCIÓN Y SELECCIONA AL BARRIO EMBLEMÁTICO EXPRESOS VIÑA DEL MAR - GLORIAS NAVALES, DE LA COMUNA DE VIÑA DEL MAR, REGIÓN DE VALPARAÍSO, PARA EL DESARROLLO DEL PROGRAMA DE RECUPERACIÓN DE BARRIOS
 
 Santiago, 5 de julio de 2013.- Hoy se resolvió lo que sigue:
 
@@ -16,7 +16,7 @@ a) La necesidad de mejorar la calidad de vida de los habitantes de barrios que p
 
 b) Que mediante información estadística georreferenciada disponible a una escala territorial adecuada en virtud de un trabajo conjunto de la Comisión de Estudios Habitacionales y Urbanos, de la Secretaría Ejecutiva de Desarrollo de Barrios y de la Secretaría Ministerial Regional de la Región de Valparaíso, conforme a criterios objetivos y cuantificables de deterioro urbano y vulnerabilidad social, se ha establecido como zona prioritaria de intervención un sector ubicado en la comuna de Viña del Mar.
 
-c) Que el Secretario Regional de Vivienda y Urbanismo de la Región de Valparaíso, mediante oficio señalado en la letra c) de los Vistos de esta resolución, ha manifestado la necesidad de establecer al Barrio Glorias Navales como Barrio Emblemático en la comuna de Viña del Mar, atendido a que este sector es uno de los más segregados, vulnerables y estigmatizados de la ciudad, dicto la siguiente
+c) Que el Secretario Regional de Vivienda y Urbanismo de la Región de Valparaíso, mediante oficio señalado en la letra c) de los Vistos de esta resolución, ha manifestado la necesidad de establecer al Barrio Emblemático Expresos Viña del Mar - Glorias Navales como Barrio Emblemático en la comuna de Viña del Mar, atendido a que este sector es uno de los más segregados, vulnerables y estigmatizados de la ciudad, dicto la siguiente
 
 Resolución:
 
