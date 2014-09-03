@@ -48,7 +48,7 @@ Créanse secciones juveniles masculinas en los establecimientos penitenciarios q
 
 a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
 
-b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector de Huantajaya, comuna de Alto Hospicio, provincia de Iquique, I Región de Tarapacá.
+b.- Complejo Penitenciario de Iquique, ubicado en calle Estación s/n, ciudad, comuna y provincia de Iquique, I Región de Tarapacá.
 
 c.- Complejo Penitenciario de Antofagasta, ubicado en sector Salar del Carmen, comuna y provincia de Antofagasta, II Región de Antofagasta.
 
@@ -60,7 +60,7 @@ f.- Complejo Penitenciario de Valparaíso, ubicado en el camino La Pólvora, esq
 
 g.- Centro de Detención Preventiva Rengo, ubicado en Avenida Bisquertt Nº 205, comuna de Rengo, provincia de Cachapoal, VI Región del Libertador General Bernardo O'Higgins.
 
-h.- Centro de Cumplimiento Penitenciario de Talca, ubicado en calle 4 Norte Nº 550, de la comuna y provincia de Talca, VII Región del Maule.
+h.- Centro de Cumplimiento Penitenciario de Cauquenes, ubicado en Avenida Comunidad Redentorista Nº 75, Cauquenes, Región del Maule.
 
 i.- Complejo Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Biobío.
 
@@ -77,6 +77,8 @@ n.- Centro de Detención Preventiva de Puerto Aysén, ubicado en calle Alcalde A
 ñ.- Complejo Penitenciario de Punta Arenas, ubicado en Avenida Circunvalación Nº 2080, de la comuna de Punta Arenas, provincia de Magallanes, XII Región de Magallanes y de la Antártica Chilena.
 
 o.- Centro de Detención Preventiva Puente Alto, ubicado en calle Irarrázabal Nº 0991, comuna de Puente Alto, provincia de Cordillera, Región Metropolitana.
+
+p.- Centro de Cumplimiento Penitenciario de Río Bueno, ubicado en calle Ejército Libertador Nº 665, comuna de Río Bueno, provincia de Valdivia, XIV Región de Los Ríos.
 
 #### Artículo 3º
 
