@@ -14,7 +14,7 @@ Decreto:
 
 1º Nómbrase a las personas que se indican a continuación, como Síndico Privado de Quiebras, quienes ejercerán sus funciones en todo el territorio nacional, a contar de la fecha de la publicación del presente decreto en el Diario Oficial:
 
-a) Federico José Tarja Pérez, RUN Nº 13.386.865-8.
+a) Federico José Tabja Pérez, RUN Nº 13.386.865-8.
 
 b) Patricio Andrés Martínez Díaz, RUN Nº 10.637.762-6, y
 
