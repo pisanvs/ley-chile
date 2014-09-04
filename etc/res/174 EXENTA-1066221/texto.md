@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 174 EXENTA, DE 2014
+
+Por resolución exenta Nº 174, de 8 de agosto de 2014, de la Secretaría Regional Ministerial de la Región de Aysén del General Carlos Ibáñez del Campo, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Aysén del General Carlos Ibáñez del Campo, celebrado con el concesionario Sociedad de Revisiones Denham Limitada, aprobados por la resolución exenta Nº 239, de fecha 16 de agosto de 2004, de la citada Secretaría Regional, hasta el día 31 de diciembre de 2015 o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado a licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta región, a través de la resolución Nº 289, de 26 de diciembre de 2013, cualquiera que ocurra primero.
+
+Alejandra Aguilar Gallardo, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Aysén del General Carlos Ibáñez del Campo.
