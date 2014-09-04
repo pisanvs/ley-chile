@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 340 EXENTA, DE 2014, QUE RECTIFICA RESOLUCIÓN Nº 67 EXENTA, DE 2014
+
+Mediante resolución exenta Nº 340, de 4 de agosto de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se rectificó la resolución exenta Nº 67, de 2014, de la misma Secretaría Regional, en el sentido de modificar en el Considerando 1º y Resuelvos 1º y 4º letra a), el nombre del representante legal de la sociedad de taxis colectivos Nueva Cordimar Ltda., indicándose como representante legal a don "Wilfredo Gómez Riquelme", donde antes decía don "Wilfredo Gómez Mellado".
+
+El extracto de la referida resolución Nº 67, que se publicó en este medio con fecha 2 de agosto de 2014, presentaba un error en el mismo sentido que la resolución. Mediante la presente se rectifica la publicación antedicha, debiendo señalar como representante legal de la sociedad de taxis colectivos Nueva Cordimar Ltda. a don "Wilfredo Gómez Riquelme", donde antes decía don "Wilfredo Gómez Mellado". En todo lo demás entiéndase vigente la publicación originalmente efectuada.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
