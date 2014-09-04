@@ -1390,7 +1390,7 @@ La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apela
 
 #### Artículo 61
 
-Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; la Corte de Apelaciones de Valparaíso, en cinco salas; las Cortes de Apelaciones de Concepción y San Miguel, en seis salas, y la Corte de Apelaciones de Santiago en diez salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
+Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; la Corte de Apelaciones de Valparaíso, en cinco salas; las Cortes de Apelaciones de Concepción y San Miguel, en seis salas, y la Corte de Apelaciones de Santiago en diez salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el primer día hábil de diciembre del año anterior a aquel en que hayan de funcionar las salas en cada Corte de Apelaciones.
 
 No obstante, para los efectos de lo dispuesto en los incisos séptimo y noveno del artículo 66, las Cortes de Apelaciones designarán cada dos años, mediante auto acordado, a los miembros del tribunal que deberán integrar la sala a la que corresponda el conocimiento, en forma exclusiva o preferente, de los asuntos tributarios y aduaneros. Se preferirá para su integración a aquellos ministros que posean conocimientos especializados en estas materias, salvo en el caso del inciso séptimo del referido artículo, en el que los ministros deberán necesariamente poseer dichos conocimientos.
 
@@ -1842,11 +1842,11 @@ Si en alguna ocasión y por motivos graves y urgentes, acordare el tribunal reta
 
 5°) Disponer la formación de la estadística del movimiento judicial de la Corte Suprema y de las Cortes de Apelaciones, en conformidad a los estados bimestrales que éstas deben pasar;
 
-6°) Adoptar las medidas convenientes para que las causas de que conocen la Corte Suprema y las Cortes de Apelaciones, se fallen dentro del plazo que establece la ley y velar porque las Cortes de Apelaciones cumplan igual obligación respecto de las causas de que conocen los jueces de sus respectivas jurisdicciones;
+6°) Adoptar las medidas convenientes para que las causas de que conocen la Corte Suprema y las Cortes de Apelaciones, se fallen dentro del plazo que establece la ley y velar porque las Cortes de Apelaciones cumplan igual obligación respecto de las causas de que conocen los jueces de sus respectivas jurisdicciones, y
 
-7°) Oír y resolver las reclamaciones que se interpongan contra los subalternos de la Corte Suprema; y
+7°) Oír y resolver las reclamaciones que se interpongan contra los subalternos de la Corte Suprema.
 
-8°) Designar a uno de los miembros del Tribunal para que quede de turno durante el feriado de vacaciones.
+8°) Suprimido.
 
 El Ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
 
@@ -3540,33 +3540,15 @@ Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas 
 
 #### Artículo 313
 
-Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
-
-Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal, laboral y de familia.
+Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que corresponderá a un feriado anual de un mes.
 
 #### Artículo 314
 
-Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En las comunas o agrupaciones de comunas en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
-
-Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
-
-La habilitación a que se refiere el inciso anterior deberá ser solicitada ante el tribunal que ha de quedar de turno, y en aquellos lugares en que haya más de un Juzgado de turno, la solicitud quedará sujeta a la distribución de causas a que se refiere el inciso primero. Sin embargo, en este último caso, y siempre que se trate de un asunto que con anterioridad al feriado esté conociendo uno de los Juzgados que quede de turno, la solicitud de habilitación se presentará ante él.
-
-El Tribunal deberá pronunciarse sobre la concesión de habilitación dentro del plazo de 48 horas contado desde la presentación de la solicitud respectiva. La resolución que la rechace será fundada. En caso de ser acogida, deberá notificarse por cédula a las partes.
-
-En Santiago, los Tribunales deberán remitir, salvo lo dispuesto en el inciso tercero de este artículo, las causas habilitadas a la Corte de Apelaciones para su distribución.
-
-En todo caso, las partes, de común acuerdo, podrán suspender la tramitación de cualquier asunto durante el feriado judicial.
+Derogado.
 
 #### Artículo 315
 
-Durante el mismo período deberá quedar actuando una Sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca. Dicha Sala tendrá las facultades y atribuciones que corresponden al tribunal pleno, con excepción de los desafueros de diputados y senadores.
-
-En Santiago permanecerán en funciones durante el feriado de vacaciones dos salas, de acuerdo con el turno que al efecto determine la Corte de Apelaciones, las que reunidas y con un quórum mínimo de cinco miembros tendrán las facultades y atribuciones que se indican en el inciso precedente.
-
-Con todo, el pleno de cada Corte de Apelaciones podrá acordar el funcionamiento de más salas durante el feriado de vacaciones, por razones de buen servicio.
-
-El Ministro más antiguo de cada Corte de Apelaciones, que forme parte de la Sala a que se refiere este artículo, tendrá las facultades y atribuciones del Presidente del Tribunal.
+La Corte Suprema, mediante auto acordado dictado en diciembre de cada año, sobre la base de la información que le proporcionen la Corporación Administrativa del Poder Judicial y las Cortes de Apelaciones, podrá determinar el número de salas en que ella misma y estas últimas funcionarán durante el mes de febrero del año siguiente. Las salas que sesionen durante el mes de febrero podrán conocer de las apelaciones en que otra sala haya decretado orden de no innovar.
 
 #### Artículo 316
 
@@ -3796,11 +3778,11 @@ No tendrán derecho a permiso los funcionarios suplentes que entren a subrogar a
 
 #### Artículo 343
 
-Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado permiso por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de permiso, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
+El feriado anual de los funcionarios judiciales se otorgará siempre que no hayan usado permiso por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de permiso, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
 
-No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni tampoco dos o más jueces de letras de una misma comuna o agrupación de comunas cuando ello perjudique al servicio, a juicio de la autoridad que debe conceder el feriado.
+No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni tampoco dos o más jueces de letras de una misma comuna o agrupación de comunas cuando ello perjudique al servicio, a juicio de la autoridad que debe conceder el feriado. En ningún caso podrán hacer uso del feriado anual conjuntamente el juez y el secretario de un mismo tribunal.
 
-No podrán acumularse más de dos períodos de feriado, pudiendo la autoridad referida autorizar el fraccionamiento en dos partes iguales del total acumulado, pero en todo caso dentro de un mismo año calendario.
+No podrán acumularse más de dos períodos de feriado, pudiendo la autoridad referida autorizar el fraccionamiento en dos partes del total acumulado, pero en todo caso dentro de un mismo año calendario, sin que pueda una de las fracciones ser inferior a quince días.
 
 #### Artículo 344
 
@@ -4882,9 +4864,7 @@ Los procuradores deberán asistir a la secretaría de los tribunales a instruirs
 
 #### Artículo 477
 
-Las obligaciones de residencia y asistencia cesan durante los días feriados.
-
-Esta disposición no regirá en el feriado de vacaciones con los notarios, conservadores y archivos, con los juzgados que queden de turno, ni con los auxiliares que determinen los tribunales colegiados para el funcionamiento de sus respectivas salas de verano.
+Las obligaciones de residencia y asistencia cesan durante los días feriados que señala el artículo 313.
 
 #### Artículo 478
 
@@ -5025,10 +5005,6 @@ Las funciones de los secretarios, receptores, procuradores, notarios, conservado
 #### Artículo 497
 
 Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias, permisos y feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
-
-La disposición del artículo 343 regirá con los Secretarios de los tribunales que no tienen derecho al feriado indicado en el artículo 313.
-
-Los presidentes de la Cortes de Apelaciones fijarán un turno entre sus secretarios en forma que el feriado a que dicho artículo se refiere, no perjudique las labores del tribunal.
 
 ## Título XIII
 

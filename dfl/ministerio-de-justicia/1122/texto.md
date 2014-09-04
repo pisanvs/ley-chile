@@ -2038,8 +2038,6 @@ El que se sienta perjudicado por algún fallo arbitral, podrá reclamar de él a
 
 Esta reclamación, que se tramitará como juicio sumario, no obstará a que dicho fallo se cumpla y surta efecto durante el juicio, a menos que el Juez, a petición de parte y como medida precautoria, decrete su suspensión mediante resolución ejecutoriada. Las apelaciones que se interpongan con motivo de estas medidas precautorias, se agregarán extraordinariamente, sin necesidad de que las partes comparezcan y sin que se pueda suspender de manera alguna la vista del recurso ni inhabilitar a los miembros del Tribunal.
 
-En estas reclamaciones procederá siempre la habilitación del feriado de vacaciones.
-
 #### Artículo 248°
 
 Habrá un secretario de la comunidad que, con el carácter de Ministro de Fe, estará encargado de autorizar las resoluciones de las juntas, del directorio y del presidente y de redactar y autorizar todas las actas.
@@ -2240,7 +2238,7 @@ Los miembros de la junta de vigilancia que se sientan perjudicados por un acuerd
 
 Esta reclamación deberá deducirse en contra del directorio de la junta de vigilancia, representada por su presidente que se cursará sin más trámite que un comparendo al cual concurrirán las partes con todos sus medios de prueba. La reclamación deberá resolverse dentro de los ocho días siguientes a la celebración del comparendo.
 
-La notificación inicial al presidente del directorio se hará por cédula. El feriado de vacaciones se entenderá siempre habilitado para los efectos de esta reclamación. La resolución que el Juez dicte será apelable en lo devolutivo y el recurso se verá en la forma señalada por el artículo 247.
+La notificación inicial al presidente del directorio se hará por cédula. La resolución que el Juez dicte será apelable en lo devolutivo y el recurso se verá en la forma señalada por el artículo 247.
 
 #### Artículo 276°
 

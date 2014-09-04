@@ -5010,7 +5010,7 @@ Los plazos que se establecen en este Libro son fatales, salvo aquellos estableci
 
 En estos casos, el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
 
-Los términos de días que establece este Título se entenderán suspendidos durante los días feriados. El feriado de vacaciones a que se refiere el artículo 313 del Código Orgánico de Tribunales no regirá respecto de las causas laborales.
+Los términos de días que establece este Título se entenderán suspendidos durante los días feriados.
 
 #### Artículo 436
 

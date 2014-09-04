@@ -262,9 +262,9 @@ Los Empleados de Escalafón del Personal Subalterno que sean designados a contra
 
 #### Artículo 10
 
-o- Los Receptores sólo tendrán derecho a un mes de feriado cada año, el cual será remunerado. Dicha remuneración será equivalente al sueldo base mensual de que goce el secretario del juzgado de letras de mayor jerarquía del territorio jurisdiccional en que ejerzan sus funciones. Los receptores harán uso del feriado de acuerdo con el orden que el efecto establezca la respectiva Corte de Apelaciones.
+Los Receptores sólo tendrán derecho a un feriado anual remunerado de un mes. Dicha remuneración será equivalente al sueldo base mensual de que goce el Secretario del Juzgado de Letras de mayor jerarquía del territorio jurisdiccional en que ejerzan sus funciones. Los Receptores harán uso del feriado de acuerdo con el orden que al efecto establezca la respectiva Corte de Apelaciones.
 
-Esta remuneración será de cargo fiscal y las Tesorerías respectivas la pagarán directamente a los receptores dentro los cinco últimos días del mes de Enero de cada año, previa presentación de un certificado expedido por el Secretario de la Corte de Apelaciones correspondiente o por el Secretario del Juzgado en que el Receptor actúa, y en el cual se acredite que el interesado se encontraba en posesión de su cargo al 31 de Diciembre del año anterior.
+Esta remuneración será de cargo fiscal y las Tesorerías respectivas la pagarán directamente a los Receptores dentro de los cinco últimos días del mes anterior a aquel en que se hará uso del feriado antes señalado, previa presentación de un certificado expedido por el Secretario de la Corte de Apelaciones correspondiente o por el Secretario del Juzgado en que el Receptor actúa, y en el cual se acredite que el interesado se encontraba en posesión de su cargo, a lo menos, los doce meses anteriores.
 
 #### Artículo 11
 
