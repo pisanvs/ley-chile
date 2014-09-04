@@ -1,32 +1,42 @@
-REGLAMENTO SOBRE INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES TASADORAS ESTABLECIDAS POR LA LEY GENERAL DE SERVICIOS ELÉCTRICOS
+MODIFICA REGLAMENTO SOBRE INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN DE HOMBRES BUENOS ESTABLECIDA EN LOS ARTÍCULOS 63, 64 y 65 DEL DECRETO CON FUERZA DE LEY Nº 4/20.018, DE 2006
 
-Núm. 113.- Santiago, 3 de abril de 2007.- Visto:
+Núm. 52.- Santiago, 7 de abril de 2014.- Vistos:
 
-1. Lo dispuesto en los artículos 32º número 6, y 35º de la Constitución Política de la República.
+1. Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República;
 
-2. Lo dispuesto en los artículos 63º, 64º y 65º del decreto con fuerza de ley Nº 4/20.018 del Ministerio de Economía, Fomento y Reconstrucción, de 2006, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería de 1982, Ley General de Servicios Eléctricos, en adelante LGSE.
+2. La ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL Nº 2.224, de 1978 y a otros cuerpos legales;
 
-3. El decreto Nº 193, del Ministerio de Economía, Fomento y Reconstrucción de 1983, y sus modificaciones.
+3. El decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en adelante e indistintamente la "Ley General de Servicios Eléctricos";
 
-### 4. La resolución Nº 520 de la Contraloría General de la República, de 1996
+4. La ley Nº 20.701, sobre Procedimiento para Otorgar Concesiones Eléctricas;
+
+5. Lo dispuesto en el artículo 19 de la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado;
+
+6. Lo dispuesto en los artículos 3º, 6º, 7º y 8º de la ley Nº 19.799, sobre Documentos Electrónicos y Firma Electrónica y Servicios de Certificación de dicha Firma;
+
+7. El decreto supremo Nº 113, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba Reglamento sobre integración y funcionamiento de la Comisión de Hombres Buenos establecida en los artículos 63, 64 y 65 del decreto con fuerza de ley Nº 4/20.018, de 2006;
+
+8. La resolución Nº 1.600, de 2008, de la Contraloría General de la República; y
 
 Considerando:
 
-1º.- Que, se ha tornado necesario sustituir el reglamento vigente sobre la integración y funcionamiento de la comisión de Hombres Buenos que designa el Ministro de Economía, Fomento y Reconstrucción, en adelante e indistintamente el Ministro, a fin de introducir las reformas que permitan optimizar el proceso de constitución de servidumbres eléctricas que deben imponerse como consecuencia del inicio y desarrollo de los proyectos eléctricos.
+1. Que la ley Nº 20.701, sobre Procedimiento para Otorgar Concesiones Eléctricas, modificó los artículos 63 y siguientes de la Ley General de Servicios Eléctricos, referidos a la integración y funcionamiento de las Comisiones de Hombres Buenos, pasando éstas a denominarse Comisiones Tasadoras y estableciendo cambios respecto a los procedimiento para integrarlas y para efectuar la avaluación de los perjuicios causados por la imposición forzosa de servidumbres eléctricas.
 
-2º.- Que, entre otras materias, se reglamenta la designación de los integrantes de estas comisiones compuestas por Hombres Buenos, sustituyendo el requisito actual de acreditación de profesiones determinadas, por un criterio de experiencia e idoneidad para el desempeño de la función a ser ponderado por el Ministro. Además, se precisan los plazos en que debe resolverse esa designación.
+2. Que la ley señalada en el considerando anterior, junto con modificar la denominación de las Comisiones Tasadoras cambió el procedimiento para elaborar el registro de las personas habilitadas para integrarlas. Asimismo, se modificaron las reglas procedimentales para designar a los integrantes de dichas comisiones y se establecieron normas que promueven la transparencia en la designación de sus miembros, mediante el empleo de mecanismos electrónicos, además de regular los honorarios de sus integrantes.
 
-3º.- Que, asimismo, para alcanzar un mejor desempeño de la comisión de Hombres Buenos es aconsejable, por un lado, hacer más atractiva su integración de parte de los profesionales más idóneos, a través de un aumento de los honorarios y, por otro, establecer algunas exigencias mínimas para su funcionamiento.
+3. Que el decreto supremo Nº 113, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, aprobó el Reglamento sobre integración y funcionamiento de la Comisión de Hombres Buenos establecida en los artículos 63, 64 y 65 del decreto con fuerza de ley Nº 4/20.018, de 2006.
 
-4º.- Que, el artículo 63º, de la LGSE, establece la designación de una comisión compuesta de tres Hombres Buenos para que oyendo a las partes, practique el avalúo de las indemnizaciones que deben pagarse al propietario del predio sirviente si no se produjere acuerdo entre éste y el interesado sobre el valor de los terrenos.
+4. Que resulta necesario modificar las disposiciones contenidas en el reglamento indicado en el considerando precedente, a fin de dar un debido cumplimiento a lo dispuesto en la ley Nº 20.701.
 
-5º.- Que, el artículo 64º, de la LGSE, señala que la comisión de Hombres Buenos debe reunirse en días y horas que determine la Superintendencia de Electricidad y Combustibles, en adelante e indistintamente la Superintendencia.
-
-6º.- Que, el artículo 65º, de la LGSE señala que, una vez practicado el avalúo por la comisión de Hombres Buenos, la Superintendencia lo pondrá en conocimiento de los interesados y los afectados, mediante carta certificada,
+5. Que el ejercicio de la potestad reglamentaria de ejecución implica dictar las disposiciones que se consideren necesarias para la plena aplicación de las leyes, potestad que se ejerce complementando las materias que han sido expresamente remitidas a un reglamento por la ley citada en los considerandos precedentes y colaborando para que todas sus disposiciones sean coherentes y armónicas entre sí, en un mismo acto administrativo para facilitar su comprensión y aplicación.
 
 Decreto:
 
-Apruébase el siguiente "Reglamento sobre Integración y Funcionamiento de las Comisiones Tasadoras establecidas por la Ley General de Servicios Eléctricos":
+Modifíquese el decreto supremo Nº 113, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, que Aprueba Reglamento sobre integración y funcionamiento de la Comisión de Hombres Buenos establecida en los artículos 63, 64 y 65 del decreto con fuerza de ley Nº 4/20.018, de 2006, en el siguiente sentido:
+
+a) Reemplácese su Título por el siguiente, cada vez que éste sea mencionado: "Reglamento sobre Integración y Funcionamiento de las Comisiones Tasadoras establecidas por la Ley General de Servicios Eléctricos".
+
+b) Reemplácense sus artículos 1º, 2º, 3º, 4º, 5º y 6º, por los que siguen:
 
 #### Artículo 1º
 
@@ -86,7 +96,9 @@ Prohibiciones.
 
 No podrán integrar una comisión tasadora aquellos tasadores que tengan un vínculo laboral o de prestación de servicios con la empresa concesionaria o con los dueños de los predios sirvientes que deban avaluarse. Lo anterior no será aplicable en caso de verificarse la situación prevista en el inciso segundo del artículo 63º de la ley.
 
-La comisión tasadora no podrá ser integrada por más de un miembro que pertenezca a la administración centralizada o descentralizada del Estado, sin perjuicio del deber de cumplimiento de las normas de jornada laboral y probidad administrativa.
+La comisión tasadora no podrá ser integrada por más de un miembro que pertenezca a la administración centralizada o descentralizada del Estado, sin perjuicio del deber de cumplimiento de las normas de jornada laboral y probidad administrativa.".
+
+c) Agréguense los siguientes artículos 7º, 8º, 9º y 10, nuevos, pasando su actual artículo 7º a ser 11, y elimínense sus actuales artículos 8º, 9º y 10:
 
 #### Artículo 7º
 
@@ -130,7 +142,11 @@ Entrega del informe de la comisión tasadora.
 
 Una vez practicado el avalúo por la comisión tasadora, ésta hará entrega del informe a que se refiere el artículo 64º de la Ley a la Superintendencia, la que lo pondrá en conocimiento de los concesionarios y de los dueños de los inmuebles afectados, mediante carta certificada.
 
-De no existir servicio de correos que permita la entrega de la tasación mediante carta certificada, el concesionario podrá encomendar la notificación de la tasación a un notario público del lugar, quien además certificará el hecho de no existir el mencionado servicio. En caso de no poder practicarse la notificación por carta certificada, la Superintendencia ordenará al concesionario que notifique el avalúo a través de los medios de notificación establecidos en el artículo 27º de la ley.
+De no existir servicio de correos que permita la entrega de la tasación mediante carta certificada, el concesionario podrá encomendar la notificación de la tasación a un notario público del lugar, quien además certificará el hecho de no existir el mencionado servicio. En caso de no poder practicarse la notificación por carta certificada, la Superintendencia ordenará al concesionario que notifique el avalúo a través de los medios de notificación establecidos en el artículo 27º de la ley.".
+
+d) Modifíquese su artículo 7º, que ha pasado a ser 11, en el siguiente sentido:
+
+1. Reemplácese su inciso primero por el siguiente:
 
 #### Artículo 11
 
@@ -140,9 +156,11 @@ Los honorarios de las comisiones tasadoras serán de cargo del concesionario y f
 
 a) Tratándose de líneas eléctricas: 10 unidades de fomento como base por predio, más una unidad de fomento por cada 500 metros de longitud de la línea.
 
-b) Tratándose de centrales generadoras y subestaciones eléctricas: 10 unidades de fomento como base por predio, más una unidad de fomento por cada 5000 metros cuadrados de terreno afectado.
+b) Tratándose de centrales generadoras y subestaciones eléctricas: 10 unidades de fomento como base por predio, más una unidad de fomento por cada 5000 metros cuadrados de terreno afectado.".
 
-En caso que en el predio objeto de la tasación se constituyan en forma simultánea y para un mismo proyecto, servidumbres para establecer instalaciones tanto de la letra
+2. Agréguense los siguientes incisos segundo y tercero, nuevos, pasando el actual inciso segundo a ser el inciso final:
+
+"En caso que en el predio objeto de la tasación se constituyan en forma simultánea y para un mismo proyecto, servidumbres para establecer instalaciones tanto de la letra
 
 - **a)** como de la letra b), se considerará para el cálculo del honorario de cada tasador solo una base de 10 unidades de fomento por predio, más las unidades de fomento adicionales que correspondan, de acuerdo a lo señalado en las letras
 
@@ -150,10 +168,8 @@ En caso que en el predio objeto de la tasación se constituyan en forma simultá
 
 - **b)** precedentes.
 
-Los honorarios deberán ser pagados dentro de los 30 días siguientes a que se evacúe el informe a que se refiere el artículo 64º de la Ley.
+Los honorarios deberán ser pagados dentro de los 30 días siguientes a que se evacúe el informe a que se refiere el artículo 64º de la Ley.".
 
-Los gastos de traslado y alojamiento de los integrantes de la comisión en los viajes que la misma realice serán cubiertos por el interesado.
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Máximo Pacheco M., Ministro de Energía.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Alejandro Ferreiro Yazigi, Ministro de Economía, Fomento y Reconstrucción.
-
-Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Ana María Correa López, Subsecretaria de Economía.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
