@@ -32,11 +32,13 @@ d) El(la) Director(a) del Instituto de Desarrollo Agropecuario (INDAP);
 
 e) Un representante de la Corporación de Fomento de la Producción (CORFO);
 
-f) Un representante del Ministerio de Hacienda. g) El Coordinador General del Comité Coordinador de Asuntos Internacionales del Ministerio de Agricultura.
+f) Un representante del Ministerio de Hacienda.
 
-h) 12 representantes del sector privado y sus respectivos suplentes, de los cuales 9 deberán estar vinculados al Sector Exportador Silvoagropecuario y 3 vinculados a la Agricultura Campesina, todos designados por el Ministro de Agricultura.
+g) Eliminado.
 
-Los Consejeros a los que se refiere la letra g), durarán un año en el cargo desde la fecha de su designación, entendiéndose renovadas sus designaciones por igual período de tiempo, a menos que con 30 días de anticipación al término del período respectivo, se designen nuevos Consejeros en su reemplazo.
+h) 13 representantes del sector privado y sus respectivos suplentes, de los cuales 9 deberán estar vinculados al Sector Exportador Silvoagropecuario y 4 vinculados a la Agricultura Campesina, todos designados por el Ministro de Agricultura.
+
+Los Consejeros a los que se refiere la letra h), durarán un año en el cargo, entendiéndose prorrogadas sus designaciones por igual período de tiempo y mientras no se disponga su reemplazo
 
 2. Funciones: Serán funciones del Consejo, asesorar a las autoridades referidas en el artículo 1º de este decreto, en las siguientes materias:
 
@@ -128,7 +130,7 @@ sino con productos de mayor valor agregado.
 
 c) Proponer acciones de promoción comercial de empresas exportadoras silvoagropecuarias dirigidas a productos con mayor grado de elaboración en el ámbito nacional o regional.
 
-4. Funcionamiento del Consejo: El Consejo sesionará en forma ordinaria dos veces al año. La primera, al inicio del período respectivo y la segunda, en el mes anterior a la fecha de término del período. Podrán celebrarse sesiones extraordinarias las veces que sea necesario, a solicitud de a lo menos tres de sus miembros, la que deberá ser canalizada a través del Presidente del Consejo.
+4.- Funcionamiento del Consejo: El Consejo sesionará en forma ordinaria dos veces al año. La primera sesión se efectuará entre los meses de enero y junio, y la segunda, entre los meses de julio y diciembre de cada año. Podrá sesionar extraordinariamente a solicitud escrita de a lo menos tres de sus miembros, dirigida al Presidente del Consejo.
 
 Para que el Consejo pueda sesionar, deberá contar con la presencia de a lo menos nueve de sus miembros, entre los que deberán estar siempre presentes cinco representantes del sector público. En caso que los Consejeros se vean imposibilitados de asistir a una sesión por causa justificada, podrán ser reemplazados, los Consejeros Públicos, por sus subrogantes legales y, los Consejeros Privados, por sus suplentes previamente designados.
 
@@ -148,7 +150,7 @@ Posterior a cada sesión, la Secretaría Ejecutiva deberá elaborar un Acta que 
 
 #### Artículo 3º
 
-Corresponderá a la Subsecretaría de Agricultura por el Ministerio de Agricultura y a la DIRECON, la aprobación de los proyectos que hayan sido propuestos previamente por el Consejo. Las decisiones sobre aprobación de los proyectos y asignación de recursos, será formalizada mediante actos administrativos de la DIRECON. De la misma manera, corresponderá a dicho organismo la administración de los recursos y la aprobación de las bases de los concursos del Fondo.
+Corresponderá a la Subsecretaría de Agricultura por el Ministerio de Agricultura y a la Direcon, la aprobación de los proyectos que hayan sido propuestos previamente por el Consejo. Las decisiones sobre aprobación de los proyectos y asignación de recursos, serán formalizadas mediante actos administrativos de la Direcon. De la misma manera, corresponderá a dicho organismo la administración de los recursos y la aprobación, previa consulta a la Subsecretaría de Agricultura, de las bases de los concursos del Fondo.
 
 #### Artículo 4º
 
