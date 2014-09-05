@@ -1,0 +1,29 @@
+CREA CENTRO DE EDUCACION Y TRABAJO CERRADO EN EL CENTRO DE DETENCIÓN PREVENTIVA DE TALTAL
+
+Santiago, 3 de julio de 2014.- Hoy se decretó lo que sigue:
+
+Núm. 540.- Vistos: Las atribuciones previstas en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en el decreto ley Nº 3.346, de 1980, que Fija el Texto de la Ley Orgánica del Ministerio de Justicia; en el decreto supremo Nº 1.597, de 1980, Reglamento Orgánico del Ministerio de Justicia; en el decreto ley Nº 2.859, de 1979, del Ministerio de Justicia, que Fija Ley Orgánica de Gendarmería de Chile; en el decreto supremo Nº 681, de 1981, del Ministerio de Justicia, que crea el Centro de Detención Preventiva de Taltal; en el decreto Nº 943, de 2010, del Ministerio de Justicia, que Aprueba Reglamento que Establece un Estatuto Laboral y de Formación para el Trabajo Penitenciario; en el decreto supremo Nº 518, de 1998, del Ministerio de Justicia, que Aprueba "Reglamento de Establecimientos Penitenciarios"; en la resolución exenta Nº 24, de 24 de abril de 1988, del Subsecretario de Bienes Nacionales que deroga resolución exenta Nº 006 de 21-02-1980 y destina lotes 1, 2 y 4 en Taltal, Región de Antofagasta; en el oficio ordinario Nº 14.00.00.589/2014, de 28 de abril de 2014, del Director Nacional de Gendarmería de Chile, que solicita la creación de un Centro de Educación y Trabajo Cerrado en el Centro de Detención Preventiva de Taltal; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1º.- Que, de acuerdo a lo establecido en el inciso primero del artículo 64 del decreto Nº 943, de 2010, del Ministerio de Justicia, que Aprueba Reglamento que Establece un Estatuto Laboral y de Formación para el Trabajo Penitenciario, los Centros de Educación y Trabajo "...constituyen establecimientos penitenciarios o parte de ellos, destinados a contribuir en el proceso de reinserción social de las personas condenadas, proporcionando o facilitándoles un trabajo regular y remunerado, capacitación o formación laboral, psicosocial y educación, que sean necesarios para tal propósito. Sin perjuicio que en cumplimiento de este objetivo, puedan constituir unidades económicas productivas y comerciales de bienes y servicios.".
+
+2º.- Que, se requiere contar con Centros de Educación y Trabajo que respondan a diversos criterios de régimen interno, los cuales potencien la labor productiva de la población penal que alberga el Centro de Detención Preventiva de Taltal, en el marco del nuevo estatuto laboral institucional, contenido en el citado decreto supremo Nº 943, teniendo en consideración factores tales como el comportamiento delictual y el avance de la rehabilitación en dicha población.
+
+3º.- Que, de acuerdo al inciso segundo del artículo 69 del decreto Nº 943, de 2010, del Ministerio de Justicia, que Aprueba Reglamento que Establece un Estatuto Laboral y de Formación para el Trabajo Penitenciario: "La proposición de creación de un CET deberá estar acompañada de un proyecto o estudio que defina las actividades productivas, de capacitación laboral, localización de los recursos, legalidad y viabilidad económica y productiva".
+
+4º.- Que, mediante oficio ordinario Nº 14.00.00.589/2014, de 28 de abril de 2014, del Director Nacional de Gendarmería de Chile, dirigido al Ministro de Justicia, se solicita la creación de un Centro de Educación y Trabajo Cerrado en el Centro de Detención Preventiva de Taltal y se remite copia del informe técnico relativo a la implementación del Centro de Educación y Trabajo Cerrado en el Centro de Detención Preventiva de Taltal, en cumplimiento de la norma legal citada en el considerando anterior.
+
+5º.- Que, del Informe Técnico, antes referido, se extraen las características de la unidad económica, creada a partir de una actividad productiva, que permitirá capacitar laboralmente a los internos y generar, de acuerdo a lo señalado en él, recursos que tomarán la forma, tanto de incentivos económicos para los internos que desarrollen labores, como de los montos para reinversión en la creación de nuevas actividades de reinserción social.
+
+6º.- Que, consta también, en la información proporcionada por el Informe en comento, la existencia de una superficie de extensión suficiente, dentro del Centro de Detención Preventiva, para la habilitación de las dependencias requeridas.
+
+Decreto:
+
+1º.- Creáse, un "Centro de Educación y Trabajo Cerrado" al interior del inmueble fiscal urbano, ubicado en calle Sargento Aldea Nº 506, de la comuna de Taltal, Región de Antofagasta, destinado al Ministerio de Justicia - Gendarmería de Chile, por parte del Ministerio de Bienes Nacionales, y en el que funciona el Centro de Detención Preventiva de Taltal, creado por decreto supremo Nº 681, de 1981, del Ministerio de Justicia.
+
+2º.- La dirección y administración interna del establecimiento penitenciario que se crea, corresponderán a Gendarmería de Chile y se regirán por lo establecido en el Reglamento de Establecimientos Penitenciarios, contenido en el decreto Nº 518, de 1998, del Ministerio de Justicia y sus modificaciones; por las normas ordinarias y generales que regulan el funcionamiento interno de los establecimientos penitenciarios y por las resoluciones que se dicten al efecto por el Director Nacional de Gendarmería de Chile.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- José Antonio Gómez Urrutia, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Marcelo Albornoz Serrano, Subsecretario de Justicia.
