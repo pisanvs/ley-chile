@@ -8,29 +8,195 @@ Proyecto de ley:
 
 "Renueva y modifica el procedimiento de regularización de ampliaciones de viviendas sociales contemplado en la ley N° 20.251.
 
-#### Artículo 1°
+#### Artículo 1º
 
-Los propietarios de viviendas sociales, emplazadas en áreas urbanas o rurales, podrán por una sola vez, dentro del plazo de dos años contado desde la publicación de esta ley, regularizar las ampliaciones de hasta 25 m² de superficie que hubieren efectuado en dichas viviendas, cumpliendo además con los requisitos que se señalan a continuación:
+Los propietarios de viviendas sociales existentes, emplazadas en áreas urbanas o rurales podrán, por una sola vez, dentro del plazo de dos años contado desde la publicación de esta ley, regularizar las ampliaciones que, sumadas a lo construido, no superen los 90 metros cuadrados de superficie, cumpliendo además con los requisitos que se señalan a continuación:
 
-1) No estar emplazadas en zonas de riesgo o protección, en franjas declaradas de utilidad pública o en bienes nacionales de uso público.
+1) No estar emplazadas en áreas de riesgo o protección, en terrenos declarados de utilidad pública o en bienes nacionales de uso público.
 
-2) A la fecha de la regularización no deben existir reclamaciones escritas pendientes por incumplimiento de normas urbanísticas ingresadas con anterioridad a la fecha de publicación de la presente ley, ante la Dirección de Obras Municipales o el juzgado de policía local respectivo.
+2) No tener, a la fecha de la regularización, reclamaciones escritas pendientes por incumplimiento de normas urbanísticas ingresadas con anterioridad a la fecha de publicación de la presente ley ante la Dirección de Obras Municipales o el juzgado de policía local respectivo.
 
-3) Las ampliaciones deben cumplir con las normas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores.
+3) Cumplir con las normas que se indican a continuación, para garantizar la habitabilidad, seguridad y estabilidad de las viviendas ampliadas, y con las normas aplicables a las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, que correspondan:
 
-4) El propietario deberá presentar ante la Dirección de Obras Municipales respectiva, una solicitud de permiso y recepción simultánea, acompañada de los siguientes documentos:
+MATERIA NORMAS DE HABITABILIDAD
 
-a) Declaración simple del propietario, señalando ser titular del dominio del inmueble y que la ampliación cumple con las normas de habitabilidad, seguridad, estabilidad e instalaciones interiores.
+Altura La altura mínima de piso a cielo,
 
-b) Especificaciones Técnicas resumidas y un plano esquemático que grafique la planta y el perfil de la ampliación, señalando las medidas y superficie a regularizar.
+medida en obra terminada, que
 
-Tratándose de ampliaciones en segundo piso o superior la solicitud deberá ser firmada por un arquitecto, o bien, contar con un informe favorable de inspección de la Dirección de Obras Municipales.
+debe ser de 2,30 m, podrá ser
 
-La Dirección de Obras Municipales, dentro de los noventa días siguientes a la presentación de la solicitud, deberá pronunciarse, con el solo mérito de los documentos a que se refiere este artículo y, si procediere, otorgará el correspondiente certificado de regularización.
+rebajada hasta en un 20%. La
 
-En lo referido a la aplicación de este artículo, los funcionarios municipales quedarán exentos de lo dispuesto en el artículo 22 de la Ley General de Urbanismo y Construcciones, sobre responsabilidad funcionaria.
+medida vertical mínima de
 
-Las regularizaciones que se efectúen de conformidad al presente artículo, estarán exentas de los derechos municipales establecidos en el artículo 130 de la Ley General de Urbanismo y Construcciones.
+obra terminada en pasadas
+
+peatonalesbajo vigas o
+
+instalaciones horizontales
+
+de 2,0 m podrá ser rebajada
+
+hasta en un 20%.
+
+Terminación Interior El estándar de terminaciones
+
+no podrá ser inferior al definido
+
+en la Ordenanza General de
+
+Urbanismo y Construcciones
+
+para una obra gruesa habitable.
+
+Ventilación Los locales habitables deberán
+
+tener, al menos, una ventana que
+
+permita la entrada de aire y
+
+luz del exterior. Sin embargo,
+
+se admitirán ventanas fijas
+
+selladas siempre que se
+
+contemplen ductos de ventilación
+
+adecuados y que no se trate
+
+de dormitorios o recintos en
+
+los que se consulten artefactos
+
+de combustión de cualquier tipo.
+
+No obstante lo anterior, los
+
+baños, cocinas y lavaderos,
+
+cuando no contemplen ventana
+
+al exterior que permita la
+
+renovación de aire, deberán
+
+ventilarse mediante un ducto,
+
+individual o colectivo, de
+
+sección libre no interrumpida
+
+de, al menos, 0,16 m², la
+
+dimensión señalada podrá
+
+reducirse en caso de
+
+contemplarse tiraje forzado.
+
+MATERIA NORMAS DE SEGURIDAD
+
+CONTRA INCENDIOS
+
+Resistencia al Fuego Las viviendas aisladas,
+
+pareadas o continuas, de hasta
+
+2 pisos, cuya superficie
+
+edificada sea inferior o
+
+igual a 140 m², tendrán
+
+una resistencia al fuego a
+
+lo menos F-15 en todos sus
+
+elementos y componentes
+
+soportantes, siempre que
+
+el muro de adosamiento o
+
+muro divisorio, según
+
+corresponda, cumpla con
+
+las exigencias de muros
+
+divisorios entre unidades.
+
+Adosamientos En toda el área de
+
+adosamiento deberá
+
+construirse en el deslinde
+
+un muro de adosamiento
+
+con una altura mínima de
+
+2,0 m y con una resistencia
+
+mínima al fuego de F-60.
+
+Tratándose de edificaciones
+
+adosadas al deslinde, el
+
+muro de adosamiento deberá
+
+llegar hasta la cubierta del
+
+cuerpo adosado. Además, el
+
+adosamiento deberá contemplar
+
+un sistema de evacuación de
+
+aguas lluvia que no afecte
+
+a los predios vecinos.
+
+MATERIA NORMAS DE ESTABILIDAD
+
+Cálculo Estructural No se exige proyecto de
+
+cálculo estructural, siempre
+
+que en la solicitud de
+
+permiso de regularización
+
+el profesional responsable
+
+deje constancia de que
+
+la obra reúne las
+
+condiciones de estabilidad
+
+exigidas por la Ordenanza
+
+respecto del tipo de
+
+construcción
+
+de que se trate.
+
+4) Presentar ante la Dirección de Obras Municipales respectiva una solicitud de permiso y recepción simultánea, acompañada de los siguientes documentos:
+
+a) Declaración simple del propietario, en que señale ser titular del dominio del inmueble y que no existen respecto de dicho bien raíz las reclamaciones a que se refiere el número 2) precedente.
+
+b) Especificaciones Técnicas resumidas y un plano que grafique la planta, la elevación principal y un corte de la ampliación, señalando las medidas y superficie de la vivienda existente y de la ampliación a regularizar, suscritos por un profesional competente.
+
+c) Informe de un profesional competente que certifique que la ampliación cumple con las normas de habitabilidad, seguridad, estabilidad e instalaciones interiores señaladas en el número 3) precedente, y que no se emplaza en los terrenos a que se refiere el número 1). Para estos efectos, se entenderá por profesionales competentes cualquiera de los señalados en el artículo 17 de la Ley General de Urbanismo y Construcciones.
+
+La Dirección de Obras Municipales, dentro de los noventa días siguientes a la presentación de la solicitud, revisará el cumplimiento de las normas urbanísticas a que se refiere el número 1) precedente y, con el solo mérito de los documentos a que se refiere el número 4) del presente artículo, otorgará el correspondiente certificado de regularización, si fuere procedente.
+
+Las regularizaciones que se efectúen de conformidad al presente artículo estarán exentas de los derechos municipales establecidos en el artículo 130 de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2°
 

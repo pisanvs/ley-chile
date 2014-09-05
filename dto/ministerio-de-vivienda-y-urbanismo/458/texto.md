@@ -1352,6 +1352,8 @@ El Juez de Policía Local aplicará la sanción en esta parte conforme a la liqu
 
 Verificado el pago en este último caso, se extenderá un certificado final, trámite con el cual se entenderá regularizada la construcción, sin otros requisitos, siempre que no vulnere las disposiciones del Plan Regulador.
 
+A las ampliaciones de viviendas a que se refiere el inciso primero del artículo 166, que cumplan con los requisitos establecidos en dicha norma, les serán aplicables las disposiciones anteriores. En tales casos, la multa establecida en el inciso segundo del presente artículo podrá condonarse.
+
 ### Párrafo 4° — .- De las obligaciones del Urbanizador
 
 #### Artículo 134
@@ -1666,29 +1668,19 @@ La limitación de los porcentajes antes señalados no regirá en las zonas en qu
 
 #### Artículo 166
 
-A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbana o rural, en materia de planes reguladores y normas técnicas sólo les serán aplicables las disposiciones que se indican a continuación:
+A los permisos para ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbanas o rurales, sólo les serán aplicables las disposiciones que se indican a continuación:
 
-a) Disposiciones de los planes reguladores referidas a zonas de riesgo o protección, declaraciones de utilidad pública y uso de suelo.
+a) Las disposiciones de los planes reguladores referidas a áreas de riesgo o protección, declaraciones de utilidad pública y uso de suelo.
 
-b) Normas técnicas de las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, cuando corresponda, y las demás que establece el Reglamento Especial de Viviendas Económicas.
+b) Las normas que establezca la Ordenanza General de Urbanismo y Construcciones para garantizar la habitabilidad, seguridad y estabilidad de las viviendas ampliadas, y las normas vigentes aplicables a las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, que correspondan.
 
-El cumplimiento de dichas disposiciones y normas será certificado sólo por el profesional competente que suscriba la solicitud del permiso de edificación y de recepción de obras.
+El cumplimiento de dichas disposiciones y normas será certificado por el profesional competente que suscriba la solicitud del permiso de edificación y de recepción de obras.
 
-Las disposiciones de este artículo también serán aplicables a:
+Las disposiciones de este artículo también serán aplicables a las edificaciones construidas con anterioridad al 31 de julio de 1959.
 
-1) La regularización de las ampliaciones a que se refiere el inciso primero.
+Los permisos de edificación y la recepción definitiva de las obras a que se refiere este artículo se tramitarán conforme al procedimiento simplificado que para estos efectos establecerá la Ordenanza General.
 
-2) La regularización de una segunda o tercera vivienda en el mismo predio que originalmente contó con una vivienda social, en cuyo caso el valor de 520 unidades de fomento se aplicará, separadamente, a cada vivienda adicional.
-
-3) La regularización de edificaciones construidas con anterioridad al 31 de julio de 1959.
-
-Las municipalidades podrán desarrollar programas de regularización de grupos de viviendas sociales o viviendas sociales ampliadas conforme a este artículo, en cuyo caso podrán aprobarse los permisos y recepciones de los distintos propietarios en forma simultánea.
-
-En las regularizaciones, el certificado señalado en el inciso segundo podrá reemplazarse por un informe favorable de inspección de la Dirección de Obras Municipales.
-
-Los permisos de edificación y la recepción definitiva de las obras que trata este artículo se tramitarán conforme al procedimiento simplificado que para estos efectos establecerá la Ordenanza General.
-
-Los derechos municipales serán los que se establecen en el artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados, a lo menos, en 50% en los casos contemplados en el presente artículo.
+Los derechos municipales serán los que se establecen en el artículo 130, rebajados en el 50%.
 
 #### Artículo 167°
 
