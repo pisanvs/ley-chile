@@ -330,7 +330,7 @@ Tabla 5: Coeficientes de Indexación, Obra de Ampliación SING.
 
 La empresa responsable deberá realizar la licitación de la construcción de cada obra de ampliación especificada en los numerales 1 y 2 del presente artículo y en el numeral 1 del artículo tercero, a través de un proceso de licitación público, abierto y transparente, auditable por la Superintendencia de Electricidad y Combustibles, en adelante e indistintamente la ''Superintendencia'', de acuerdo a las condiciones establecidas en el artículo 94 de la ley.
 
-El proceso de licitación y adjudicación de las obras indicadas en los numerales 1 y 2 del presente artículo y en el numeral 1 del artículo tercero deberá estar finalizado dentro de los siguientes 120 días corridos, contados desde la fecha de publicación del presente decreto en el Diario Oficial.
+El proceso de licitación y adjudicación de las obras indicadas en los numerales 1 y 2 del presente artículo y en el numeral 1 del artículo tercero deberá estar finalizado dentro de los siguientes 150 días corridos, contados desde la fecha de publicación del presente decreto en el Diario Oficial.
 
 Las empresas responsables de las licitaciones podrán licitar en conjunto o por separado las obras de ampliación indicadas en los numerales 1 y 2 del presente artículo y en el numeral 1 del artículo tercero, sea conformando grupos de obras o licitando éstas de manera individual. Lo anterior, es sin perjuicio de las condiciones establecidas en los numerales 1.1, 1.2, 1.5, 1.6, 1.7 y 4.1.2 del presente artículo.
 
