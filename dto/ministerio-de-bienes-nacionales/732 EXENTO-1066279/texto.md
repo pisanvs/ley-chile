@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DEL MAULE A I. MUNICIPALIDAD DE TALCA
+
+Mediante decreto exento Nº 732, de 25 de agosto de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa a la I. Municipalidad de Talca, RUT Nº 69.110.400-1, el inmueble fiscal ubicado en calle 1 Sur Nº 1841, comuna y provincia de Talca, Región del Maule, enrolado en el Servicio de Impuestos Internos con el Nº 705-3, inscrito a nombre del Fisco a fojas 532 Nº 528, del Registro de Propiedad del Conservador de Bienes Raíces de Talca, correspondiente al año 1982, de una superficie de 2.760,19 metros cuadrados, singularizado en el Plano Nº 07101-3.540-C.U. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.245,46.
+
+La concesión se otorga para ejecutar y desarrollar un proyecto consistente en la construcción de un Centro Comercial y estacionamientos para la instalación de los comerciantes ambulantes de la ciudad de Talca. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Abogada Jefa de División Jurídica.
