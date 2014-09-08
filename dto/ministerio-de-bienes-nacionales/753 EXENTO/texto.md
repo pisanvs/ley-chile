@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA SOCIEDAD "ENERBOSCH S.A."
+
+Mediante decreto exento Nº 753, de 26 de agosto de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Enerbosch S.A.", RUT Nº 76.028.873-K, el inmueble fiscal ubicado en el Camino Público C-243, altura Km. 10,80, Sector Sierra Caballo Muerto, comuna Diego de Almagro, provincia de Chañaral, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº 7000-95, amparado por la inscripción global que rola a fojas 111 vta. Nº 105 del Registro de Propiedad del Conservador de Bienes Raíces de Diego de Almagro, correspondiente al año 1996, de una superficie de 12,06 ha, singularizado en el Plano Nº 03202-1.334-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 187,14.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Abogada Jefa de División Jurídica.
