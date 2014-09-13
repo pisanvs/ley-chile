@@ -64,7 +64,7 @@ Salida: Desde el recinto continúa por Membrillar, O'Higgins, Av. Independencia,
 
 Hermanos Clark, Puente David García.
 
-3º Fíjanse al interior de la zona urbana de la comuna de Los Andes los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural para ingresar o salir del recinto ubicado en calle Esmeralda Nº 231 de Los Andes:
+3º Fíjanse al interior de la zona urbana de la comuna de Los Andes, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural, para ingresar o salir del recinto ubicado en calle Esmeralda Nº145 de Los Andes:
 
 a) Servicios desde y hacia San Felipe:
 
@@ -88,27 +88,17 @@ Salida: Desde el recinto continúa por Esmeralda, Av. Santa Teresa de Los Andes,
 
 Chacabuco, Av. Pascual Baburizza.
 
-d) Servicios desde y hacia el Sector Oriente de la
+d) Servicios desde y hacia el sector Oriente de la comuna de Los Andes:
 
-comuna de Los Andes:
+Acceso: Ruta 60 Ch, General del Canto, Av. Argentina Oriente, Av. Argentina, Rancagua, Esmeralda hasta el recinto.
 
-Acceso: Ruta 60 Ch, General del Canto, Av.
-
-Argentina Oriente, Av. Argentina, Rancagua, Esmeralda hasta el recinto.
-
-Salida: Desde el recinto continúa por Esmeralda, Santa Rosa, O'Higgins, Av. Independencia, General del Canto, Ruta 60 Ch; o bien, desde el recinto continúa por Esmeralda, Papudo, Av. Argentina, Av.
-
-Argentina Oriente, Ruta 60 Ch.
+Salida: Desde el recinto continúa por Esmeralda, Santa Rosa, O'Higgins, Av. Independencia, General Del Canto, Ruta 60 Ch; o bien, desde el recinto continúa por Esmeralda, Papudo, Av. Argentina, Av. Argentina Oriente, Ruta 60 CH, o bien, Esmeralda, Membrillar, O'Higgins, Independencia, Av. Argentina Oriente, Ruta 60 Ch.
 
 e) Servicios desde y hacia San Esteban (continúen o no hacia San Felipe):
 
-Acceso: Puente David García, Hermanos Clark, Av.
+Acceso: Puente David García, Hermanos Clark, Av. Argentina, Rancagua, Esmeralda hasta el recinto; o bien, Puente David García, Hermanos Clark, Av. Argentina, Carlos Díaz, Av. Argentina, Rancagua, Esmeralda hasta el recinto.
 
-Argentina, Rancagua, Esmeralda hasta el recinto; o bien, Puente David García, Hermanos Clark, Av.
-
-Argentina, Carlos Díaz, Av. Argentina, Rancagua, Esmeralda hasta el recinto.
-
-Salida: Desde el recinto continúa por Esmeralda, Papudo, Av. Argentina, Av. Hermanos Clark, Puente David García.
+Salida: Desde el recinto continúa por Esmeralda, Papudo, Av. Argentina, Av. Hermanos Clark, Puente David García, o bien, Esmeralda, Membrillar, O'Higgins, Independencia, Av. Argentina Oriente, Av. Argentina, Av. Hermanos Clark, Puente David García
 
 4º Fíjanse al interior de la zona urbana de la comuna de Los Andes los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural para ingresar o salir del recinto ubicado en Elías Foncea S/Nº esquina de Raúl Vargas de Los Andes:
 
