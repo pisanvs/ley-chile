@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1º.- Prohíbase el tránsito de camiones en ambos sentidos, por la Ruta 16, en el tramo que une Iquique con Alto Hospicio, de lunes a viernes entre las 06:00 hrs a las 14:30 hrs y las 15:30 hrs y las 23:00 hrs. y sábado entre las 06:00 hrs. y las 14:30 hrs.
+1. Prohíbase la circulación de camiones en sentido Alto Hospicio-Iquique por la ruta 16 entre las 06:00-09:00 horas, los días lunes a viernes y en sentido Iquique-Alto Hospicio los días lunes a viernes entre las 06:00-09:00 horas, entre las 12:00-23:00 horas, y los sábados entre las 12:30-16:00 horas.
 
 De la presente restricción se exceptúan los camiones que trabajan para la Dirección Regional de Vialidad, los camiones que trasladen desechos sólidos domiciliarios y los camiones que se encuentran trabajando para el abastecimiento producto de la emergencia, camiones de carrocería betoneros utilizados en obras de construcción y camiones que se encuentren trabajando para superar la emergencia contratado por organismos públicos, estos últimos deberán portar el permiso entregado por la Institución Pública para el cual están operando.
 
