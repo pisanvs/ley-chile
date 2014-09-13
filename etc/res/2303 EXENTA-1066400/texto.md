@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.303, de 4 de septiembre de 2014, de esta Subsecretaría, modifícase la resolución exenta Nº 1.829, de 2014, que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación directa de langostino amarillo y langostino colorado entre la II y la VIII regiones, año 2014", en sentido de reemplazar el inciso 2º del numeral 3º por el siguiente:
+
+"No obstante lo anterior, sólo se permitirán actividades extractivas y de prospección durante el mes de septiembre del presente año, en las Regiones II, III y VIII, en conformidad con lo dispuesto en el decreto exento Nº 471, de 2014, del Ministerio de Economía, Fomento".
+
+Valparaíso, 4 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
