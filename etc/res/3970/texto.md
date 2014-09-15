@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución Nº 3.970 de fecha 03/09/2014, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 079-0, propiedad singularizada como sitio número uno del loteo Ernesto Hernández Vásquez, comuna de Padre Las Casas, Rol de Avalúo Nº 2119-10, superficie a expropiar aproximada de 59,00 metros cuadrados, de aparente dominio de la sucesión intestada quedada al fallecimiento de doña Sofía del Carmen Urra Lagos y don Juan Campos formada por sus hijos legítimos, Elena del Carmen, Juan Segundo, Sara Isabel, Osvaldo Antonio y Hernán Alejandro, todos Campos Urra. Las acciones que le corresponden a la hija fallecida doña María Edith Campos Urra, transmitidos a su cónyuge sobreviviente don Guillermo González Contreras y dos de sus hijos Mabel Haydee y Guillermo Antonio, ambos González Campos. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto y Julio Hernán Rosas Vega, constructor civil, fijó monto indemnización provisional en $5.063.687, según Informe Nº 079-0/2014 de fecha 01/09/2014, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
