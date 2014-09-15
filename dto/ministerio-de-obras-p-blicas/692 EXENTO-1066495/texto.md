@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 692, de 29 de agosto de 2014, se dejó sin efecto el Decreto Exento MOP. Nº 534, de 30 de junio de 2014 y asimismo, se tuvo por desistida la expropiación del lote de terreno Nº 163L3, ordenada por Decreto Exento MOP Nº 1356, de 30 de agosto de 2013, correspondiente a la obra "PROYECTO LINEA 3 LA REINA - HUECHURABA, SECTOR: AV. MANUEL ANTONIO MATTA".
+
+Fiscal del Ministerio de Obras Públicas.
