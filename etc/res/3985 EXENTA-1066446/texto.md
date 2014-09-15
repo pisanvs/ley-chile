@@ -1,0 +1,7 @@
+DISPONEN EXPROPIACIONES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.985, de 5 de septiembre de 2014, Serviu Región del Libertador General Bernardo O'Higgins, ordenó la expropiación total de un inmueble ubicado en Calle E. Riquelme A. Hurtado, comuna de Rengo, Rol de Avalúo Nº 68-05, superficie aproximada a expropiar 221,65 m2 de terreno, delimitada en polígono respectivo, conforme al Plano elaborado por Jorge Albornoz Díaz, Ingeniero Civil, Proyecto "Mejoramiento Eje Vial Ernesto Riquelme" comuna de Rengo. De aparente dominio de Cooperativa de Viviendas Padre Hurtado, inscrito a fojas 225 Nº 177 del Registro de Propiedad del Conservador de Bienes Raíces de Rengo del año 1961. Comisión Tasadora, integrada por Sergio Shipley Rubio, Ingeniero Civil; Jorge Rosales Flores, Constructor Civil y Carlos Henríquez Durán, Arquitecto, según Informe de fecha 6 de diciembre de 2013. Monto provisional $24.561.000, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director Serviu Región Libertador Bernardo O'Higgins.
