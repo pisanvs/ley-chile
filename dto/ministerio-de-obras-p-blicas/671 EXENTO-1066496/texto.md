@@ -1,0 +1,1 @@
+Por Decreto M.O.P. (EXENTO) Nº 671 de 22 de agosto de 2014, se dejó sin efecto el Decreto MOP (Exento) Nº1788 de 30 de agosto de 2012, que ordenó la expropiación del lote Nº66-C, por no haber sido totalmente tramitado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186 de 1978.
