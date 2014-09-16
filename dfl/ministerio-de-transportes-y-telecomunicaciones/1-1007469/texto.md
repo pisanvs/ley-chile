@@ -1856,7 +1856,7 @@ En las infracciones señaladas en los artículos 200, Nº 26 y 201, Nº 10, se e
 
 #### Artículo 176
 
-En todo accidente del tránsito en que se produzcan lesiones, el conductor que participe en los hechos estará obligado a detener su marcha, prestar la ayuda que fuese necesaria y dar cuenta a la autoridad policial más inmediata, entendiéndose por tal cualquier funcionario de Carabineros que estuviere próximo al lugar del hecho, para los efectos de la denuncia ante el Tribunal correspondiente.
+En todo accidente del tránsito en que se produzcan lesiones o muerte, el conductor que participe en los hechos estará obligado a detener su marcha, prestar la ayuda que fuese posible y dar cuenta a la autoridad policial más inmediata, entendiéndose por tal cualquier funcionario de Carabineros que estuviere próximo al lugar del hecho, para los efectos de la denuncia ante el Tribunal correspondiente.
 
 #### Artículo 177
 
@@ -1914,7 +1914,7 @@ Cuando fuere necesario someter a una persona a un examen científico para determ
 
 Sin perjuicio de lo dispuesto en el artículo anterior, el conductor y el peatón que hayan tenido participación en un accidente de tránsito del que resulten lesionados o muertos serán sometidos a una prueba respiratoria o de otra naturaleza destinada a establecer la presencia de alcohol o de sustancias estupefacientes o sicotrópicas en sus cuerpos. En esos casos, los funcionarios de Carabineros deberán practicar al conductor y peatón las pruebas respectivas y, de carecer en el lugar de los elementos técnicos necesarios para ello, o de proceder la práctica de la alcoholemia, los llevarán de inmediato al establecimiento de salud más próximo. Se aplicarán al efecto las reglas del inciso precedente.
 
-La negativa injustificada a someterse a las pruebas o exámenes a que se refieren este artículo y el artículo 182, o la circunstancia de huir del lugar donde se hubiere ejecutado la conducta delictiva, en su caso, serán apreciadas por el juez como un antecedente calificado, al que podrá dar valor suficiente para establecer el estado de ebriedad o influencia de sustancias estupefacientes o sicotrópicas en que se encontraba el imputado.
+INCISO SUPRIMIDO.
 
 #### Artículo 184
 
@@ -2012,7 +2012,21 @@ El que, a cualquier título que sea, explote un vehículo de transporte público
 
 #### Artículo 195
 
-El incumplimiento, a sabiendas, de lo señalado en el artículo 168 será sancionado con multa de tres a siete unidades tributarias mensuales y con la suspensión de su licencia hasta por un mes. El incumplimiento, a sabiendas, de lo señalado en el artículo 176 será sancionado con la suspensión de la licencia de conductor por un plazo máximo de doce meses y si el juez así lo estimare, presidio menor en grado mínimo a medio, salvo que las lesiones producidas tengan el carácter de leves, en cuyo caso se aplicará la sanción del inciso primero del artículo 193.
+El incumplimiento de la obligación de dar cuenta a la autoridad de todo accidente en que sólo se produzcan daños, señalada en el artículo 168, será sancionado con multa de tres a siete unidades tributarias mensuales y con la suspensión de la licencia hasta por un mes.
+
+El incumplimiento de la obligación de detener la marcha, prestar la ayuda posible y dar cuenta a la autoridad de todo accidente en que se produzcan lesiones, señalada en el artículo 176, se sancionará con la pena de presidio menor en su grado medio, inhabilidad perpetua para conducir vehículos de tracción mecánica y multa de siete a diez unidades tributarias mensuales.
+
+Si en el caso previsto en el inciso anterior las lesiones producidas fuesen de las señaladas en el número 1º del artículo 397 del Código Penal o se produjese la muerte de alguna persona, el responsable será castigado con la pena de presidio menor en su grado máximo, inhabilidad perpetua para conducir vehículos de tracción mecánica, multa de once a veinte unidades tributarias mensuales y con el comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal. Para los efectos de determinar la pena prevista en este inciso, será aplicable lo dispuesto en los artículos 196 bis y 196 ter de esta ley.
+
+Las penas previstas en este artículo se impondrán al conductor conjuntamente con las que le correspondan por la responsabilidad que le pueda caber en el respectivo delito o cuasidelito, de conformidad con lo dispuesto en el artículo 74 del Código Penal.
+
+#### Artículo 195 bis
+
+La negativa injustificada de un conductor a someterse a las pruebas respiratorias u otros exámenes científicos destinados a establecer la presencia de alcohol o de sustancias estupefacientes o psicotrópicas en el cuerpo, previstos en el artículo 182, será sancionada con multa de tres a diez unidades tributarias mensuales y con la suspensión de su licencia hasta por un mes.
+
+En caso de accidentes que produzcan lesiones de las comprendidas en el número 1º del artículo 397 del Código Penal o la muerte de alguna persona, la negativa injustificada del conductor que hubiese intervenido en ellos a someterse a las pruebas respiratorias evidenciales o a los exámenes científicos señalados en el artículo 183 de esta ley para determinar la dosificación de alcohol en la sangre o la presencia de drogas estupefacientes o sicotrópicas, o la realización de cualquier maniobra que altere sus resultados, o la dilación de su práctica con ese mismo efecto, serán castigadas con la pena de presidio menor en su grado máximo, multa de once a veinte unidades tributarias mensuales, inhabilidad perpetua para conducir vehículos de tracción mecánica y comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal. Para los efectos de determinar la pena prevista en este inciso, será aplicable lo dispuesto en los artículos 196 bis y 196 ter de esta ley.
+
+La pena prevista en el inciso anterior se impondrá al conductor conjuntamente con la que le corresponda por la responsabilidad que le pueda caber en el respectivo delito o cuasidelito, de conformidad con lo dispuesto en el artículo 74 del Código Penal.
 
 #### Artículo 196
 
@@ -2020,9 +2034,35 @@ El que infrinja la prohibición establecida en el inciso segundo del artículo 1
 
 Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones graves o menos graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales, además de la suspensión de la licencia de conducir por el término de treinta y seis meses en el caso de producirse lesiones menos graves, y de cinco años en el caso de lesiones graves. En caso de reincidencia, el juez deberá decretar la cancelación de la licencia.
 
-Si se causaren algunas de las lesiones indicadas en el artículo 397 Nº 1 del Código Penal o la muerte de una o más personas, se impondrán las penas de presidio menor en su grado máximo y multa de ocho a veinte unidades tributarias mensuales, además de la pena de inhabilidad perpetua para conducir vehículos de tracción mecánica.
+Si se causare alguna de las lesiones indicadas en el número 1º del artículo 397 del Código Penal o la muerte de alguna persona, se impondrán las penas de presidio menor en su grado máximo, en el primer caso, y de presidio menor en su grado máximo a presidio mayor en su grado mínimo, en el segundo. En ambos casos, se aplicarán también las penas de multa de ocho a veinte unidades tributarias mensuales, de inhabilidad perpetua para conducir vehículos de tracción mecánica y el comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal.
 
-INCISOS DEROGADOS.
+Al autor del delito previsto en el inciso precedente se le impondrá el máximum o el grado máximo de la pena corporal allí señalada, según el caso, conjuntamente con las penas de multa, inhabilidad perpetua para conducir vehículos motorizados y comiso que se indican, si concurriere alguna de las circunstancias siguientes:
+
+1.- Si el responsable hubiese sido condenado anteriormente por alguno de los delitos previstos en este artículo, salvo que a la fecha de comisión del delito hubieren transcurrido los plazos establecidos en el artículo 104 del Código Penal respecto del hecho que motiva la condena anterior.
+
+2.- Si el delito hubiese sido cometido por un conductor cuya profesión u oficio consista en el transporte de personas o bienes y hubiere actuado en el ejercicio de sus funciones.
+
+3.- Si el responsable condujere el vehículo con su licencia de conducir cancelada, o si ha sido inhabilitado a perpetuidad para conducir vehículos motorizados.
+
+#### Artículo 196 bis
+
+Para determinar la pena en los casos previstos en los incisos tercero y cuarto del artículo 196, el tribunal no tomará en consideración lo dispuesto en los artículos 67, 68 y 68 bis del Código Penal y, en su lugar, aplicará las siguientes reglas:
+
+1.- Si no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal podrá recorrer toda la extensión de la pena señalada por la ley al aplicarla.
+
+2.- Si, tratándose del delito previsto en el inciso tercero del artículo 196, concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena de presidio menor en su grado máximo. Si concurren una o más agravantes y ninguna atenuante, aplicará la pena de presidio mayor en su grado mínimo.
+
+3.- Si, tratándose del delito establecido en el inciso cuarto del artículo 196, concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado mínimo. Si concurren una o más agravantes y ninguna atenuante, la impondrá en su grado máximo. Para determinar en tales casos el mínimo y el máximo de la pena, se dividirá por mitad el período de su duración: la más alta de estas partes formará el máximo y la más baja el mínimo.
+
+4.- Si concurren circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras.
+
+5.- El tribunal no podrá imponer una pena que sea mayor o menor al marco fijado por la ley. Con todo, podrá imponerse la pena inferior en un grado si, tratándose de la eximente del número 11 del artículo 10 del Código Penal, concurriere la mayor parte de sus requisitos, pero el hecho no pudiese entenderse exento de pena.
+
+#### Artículo 196 ter
+
+Respecto del delito previsto en el inciso tercero del artículo 196, será aplicable lo previsto en la ley Nº 18.216, conforme a las reglas generales. Sin embargo, la ejecución de la respectiva pena sustitutiva quedará en suspenso por un año, tiempo durante el cual el condenado deberá cumplir en forma efectiva la pena privativa de libertad a la que fuere condenado.
+
+Con todo, no se aplicará en estas situaciones lo dispuesto en el artículo 38 de dicha ley y en ningún caso la sustitución de la pena privativa de libertad implicará la sustitución o suspensión del cumplimiento de las multas, comiso e inhabilitaciones impuestas.
 
 #### Artículo 197
 
@@ -2298,9 +2338,11 @@ En los casos que, como consecuencia de la aplicación de lo dispuesto en los art
 
 #### Artículo 209
 
-El conductor que hubiere sido condenado a las penas de suspensión o inhabilitación perpetua para conducir vehículos de tracción mecánica o animal, y fuere sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta, será castigado con prisión en su grado máximo y multa de hasta diez unidades tributarias mensuales.
+El conductor que hubiere sido condenado a las penas de suspensión o inhabilitación perpetua para conducir vehículos de tracción mecánica o animal, y fuere sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta, será castigado con presidio menor en su grado mínimo y multa de hasta diez unidades tributarias mensuales.
 
 Si los delitos a que se refieren los artículos 193 y 196 de la presente ley, fueren cometidos por quien no haya obtenido licencia de conducir, o que, teniéndola, hubiese sido cancelada o suspendida, el tribunal deberá aumentar la pena en un grado.
+
+Lo previsto en el presente artículo no se aplicará a quienes fueren condenados por los delitos contemplados en los incisos tercero y cuarto del artículo 196.
 
 ## Título XVIII
 
