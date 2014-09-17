@@ -14,7 +14,7 @@ Oficialícese como miembros titulares y suplentes del Consejo Zonal de Pesca de 
 
 1. El Director Zonal de Pesca, quien presidirá el Consejo.
 
-2. El Director Regional del Servicio Nacional de Pesca de la V Región.
+2. El Director Regional del Servicio Nacional de Pesca y Acuicultura de la VIII Región.
 
 3. El Gobernador Marítimo de la VIII Región.
 
