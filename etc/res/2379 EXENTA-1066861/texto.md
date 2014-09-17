@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.379, de 10 de septiembre de 2014, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura que se encuentran dentro de Los Parques Nacionales Alberto De Agostini y Bernardo O'Higgins, en la XII Región, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 158 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
