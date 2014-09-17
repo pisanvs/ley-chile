@@ -502,7 +502,7 @@ Las penas de inhabilitación absoluta perpetua o temporal para cargos, empleos, 
 
 1º La privación de todos los cargos, empleos, oficios y profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad que tenga el condenado.
 
-2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguno de los beneficios de la ley Nº 18.216, como alternativa a la pena principal.
+2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguna de las penas de la ley Nº 18.216 como sustitutiva de la pena principal.
 
 La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
 
@@ -2150,13 +2150,13 @@ El empleado público que solicitare o aceptare recibir mayores derechos de los q
 
 #### Artículo 248 bis
 
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación especial o absoluta para cargos u oficios públicos temporales en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en su grado medio, y además, con la pena de inhabilitación absoluta para cargos u oficios públicos temporal en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
 
-Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación especial o absoluta para cargo u oficio público perpetuas, además de las penas de reclusión y multa establecidas en el inciso precedente.
+Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación absoluta para cargo u oficio público, perpetua, además de las penas de reclusión y multa establecidas en el inciso precedente.
 
 #### Artículo 249
 
-El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación especial perpetua e inhabilitación absoluta temporal, o bien con inhabilitación absoluta perpetua para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación absoluta, temporal o perpetua, para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
 
 Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público, la que no será inferior, en todo caso, a la de reclusión menor en su grado medio.
 
@@ -2166,7 +2166,7 @@ El que ofreciere o consintiere en dar a un empleado público un beneficio econó
 
 Tratándose del beneficio ofrecido en relación con las acciones u omisiones del artículo 248, el sobornante será sancionado, además, con la pena de reclusión menor en su grado mínimo.
 
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo a medio, en el caso del beneficio consentido.
 
 Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, si al sobornante le correspondiere una pena superior por el crimen o simple delito de que se trate, se estará a esta última.
 
@@ -3222,7 +3222,7 @@ ART.391.
 
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
 
-1.° Con presidio mayor en su grado medio a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
+1.° Con presidio mayor en su grado máximo a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 
 Primera.- Con alevosía.
 
@@ -3234,7 +3234,7 @@ Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al of
 
 Quinta.- Con premeditación conocida.
 
-2.º Con presidio mayor en sus grados mínimo a medio en cualquier otro caso.
+2.º Con presidio mayor en su grado medio en cualquier otro caso.
 
 #### Artículo 392
 
@@ -3245,6 +3245,8 @@ Si no constare tampoco quienes causaron lesiones graves al ofendido, se impondr�
 #### Artículo 393
 
 El que con conocimiento de causa prestare auxilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
+
+.
 
 ### II. Del infanticidio
 
@@ -3925,6 +3927,12 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 8.° A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas.
 
 9.° Al que, con ánimo de defraudar, con o sin representación de persona natural o jurídica dedicada al rubro inmobiliario o de la construcción, suscribiere o hiciere suscribir contrato de promesa de compraventa de inmueble dedicado a la vivienda, local comercial u oficina, sin cumplir con las exigencias establecidas por el artículo 138 bis de la Ley General de Urbanismo y Construcciones, siempre que se produzca un perjuicio patrimonial para el promitente comprador.
+
+10.° A los que maliciosamente obtuvieren para sí, o para un tercero, el pago total o parcialmente indebido de un seguro, sea simulando la existencia de un siniestro, provocándolo intencionalmente, presentándolo ante el asegurador como ocurrido por causas o en circunstancias distintas a las verdaderas, ocultando la cosa asegurada o aumentando fraudulentamente las pérdidas efectivamente sufridas.
+
+Si no se verifica el pago indebido por causas independientes de su voluntad, se aplicará el mínimo o, en su caso, el grado mínimo de la pena.
+
+La pena se determinará de acuerdo con el monto de lo indebidamente solicitado.
 
 #### Artículo 471
 
