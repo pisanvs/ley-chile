@@ -14,7 +14,7 @@ I Como representante del sector público:
 
 1. El Director Zonal de Pesca, quien presidirá el Consejo.
 
-2. El Director Regional del Servicio Nacional de Pesca de la XI Región.
+2. El Director Regional del Servicio Nacional de Pesca y Acuicultura de la X Región.
 
 3. El Gobernador Marítimo de la X Región.
 
