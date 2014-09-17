@@ -616,11 +616,7 @@ Las empresas estarán obligadas a adoptar y poner en práctica las medidas de pr
 
 El incumplimiento de las medidas acordadas por el Departamento de Prevención o por el Comité Paritario, cuando hayan sido ratificadas por el respectivo organismo administrador, será sancionado en la forma que preceptúa el artículo 68°.
 
-Lo dispuesto en este artículo no se aplicará a las actividades a que se refiere el artículo 162°-A del decreto ley 2.200, de 1978.
-
 > **Nota.** El DTO 54, Trabajo, publicado el 11.03.1969, aprobó el Reglamento para la constitución y funcionamiento de los Comités Paritarios.
-
-> **Nota.** NOTA 1: El DL 2200, de 1978, a que se hace referencia en este texto, fue derogado por el Nº 6 del artículo Segundo de la LEY 18620, publicada el 06.07.1987, por lo que referencia a su Art. 162-A debe entenderse hecha al actual Art. 96 del Código del Trabajo.
 
 #### Artículo 66° Bis
 
@@ -633,6 +629,20 @@ Asimismo, corresponderá al mandante, velar por la constitución y funcionamient
 > **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
 > **Nota.** NOTA 1: El DTO 76, Trabajo, publicado el 18.01.2007, fijó el Reglamento para la aplicación del presente artículo.
+
+#### Artículo 66 ter
+
+Las empresas de muellaje estarán obligadas a constituir un Comité Paritario de Higiene y Seguridad en cada puerto, terminal o frente de atraque en que presten regularmente servicios, siempre que, sumados los trabajadores permanentes y eventuales de la misma, trabajen habitualmente más de 25 personas, conforme al promedio mensual del año calendario anterior.
+
+Los trabajadores integrantes del Comité Paritario indicado en el inciso anterior deberán ser elegidos entre los trabajadores portuarios permanentes y eventuales de la respectiva entidad empleadora, en la forma que señale el reglamento.
+
+Sin perjuicio de lo señalado en el inciso primero, cuando en un mismo puerto presten servicios dos o más entidades empleadoras de las señaladas en el artículo 136 del Código del Trabajo, cada una de ellas deberá otorgar las facilidades necesarias para la integración, constitución y funcionamiento de un Comité Paritario de Higiene y Seguridad, cuyas decisiones en las materias de su competencia serán obligatorias para todas estas entidades empleadoras y sus trabajadores.
+
+Al Comité Paritario de Higiene y Seguridad corresponderá la coordinación de los Comités Paritarios de empresa y el ejercicio de aquellas atribuciones que establece el artículo 66, en los casos y bajo las modalidades que defina el reglamento.
+
+Los representantes de los trabajadores ante el Comité Paritario de Higiene y Seguridad serán elegidos por éstos, en la forma que determine el reglamento. Corresponderá igualmente al reglamento establecer un mecanismo por el cual las distintas entidades empleadoras obligadas designen a sus representantes ante el Comité Paritario de Higiene y Seguridad.
+
+El Comité a que hace referencia este artículo se denominará para todos los efectos legales Comité Paritario de Higiene y Seguridad de Faena Portuaria.
 
 #### Artículo 67°
 

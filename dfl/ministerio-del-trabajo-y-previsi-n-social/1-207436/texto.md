@@ -1210,11 +1210,17 @@ Del contrato de los trabajadores portuarios eventuales
 
 Se entiende por trabajador portuario, todo aquel que realiza funciones de carga y descarga de mercancías y demás faenas propias de la actividad portuaria, tanto a bordo de naves y artefactos navales que se encuentren en los puertos de la República, como en los recintos portuarios.
 
-Las funciones y faenas a que se refiere el inciso anterior podrán ser realizadas por trabajadores portuarios permanentes, por trabajadores afectos a un convenio de provisión de puestos de trabajo y por otros trabajadores eventuales.
+Las funciones y faenas a que se refiere el inciso anterior sólo podrán ser realizadas por trabajadores portuarios permanentes, por trabajadores afectos a un convenio de provisión de puestos de trabajo y por otros trabajadores eventuales.
 
 El trabajador portuario, para desempeñar las funciones a que se refiere el inciso primero, deberá efectuar un curso básico de seguridad en faenas portuarias en un Organismo Técnico de Ejecución autorizado por el Servicio Nacional de Capacitación y Empleo, el que deberá tener los requisitos y la duración que fije el reglamento.
 
 El ingreso a los recintos portuarios y su permanencia en ellos será controlado por la autoridad marítima, la cual, por razones fundadas de orden y seguridad, podrá impedir el acceso de cualquier persona.
+
+Sin perjuicio de las facultades a que se refiere el inciso anterior, las empresas concesionarias de frentes de atraque que administren terminales portuarios y las empresas de muellaje que operen en puertos privados deberán cumplir las obligaciones que le imponga el Sistema de Control de Cumplimiento de la Normativa Laboral Portuaria, a que se refiere el artículo siguiente.
+
+#### Artículo 133 bis
+
+La Dirección del Trabajo coordinará con la autoridad marítima un Sistema de Control de Cumplimiento de la Normativa Laboral Portuaria, destinado a controlar el acceso y permanencia de los trabajadores a que se refiere este párrafo a los recintos portuarios, velando porque la prestación de los servicios que realicen se efectúe de manera segura y lo sea en virtud de alguna de las modalidades contractuales previstas en el inciso segundo del artículo anterior.
 
 #### Artículo 134
 
@@ -1246,6 +1252,12 @@ En el contrato deberá dejarse constancia de la hora de su celebración;
 
 b) la jornada ordinaria de trabajo se realizará por turno, tendrá la duración que las partes convengan y no podrá ser superior a ocho ni inferior a cuatro horas diarias.
 
+Tratándose de turnos de más de cuatro horas, los trabajadores portuarios, independientemente de su modalidad contractual, tendrán derecho a un descanso de media hora, irrenunciable, conforme a lo señalado en el inciso primero del artículo 34. Sin perjuicio de lo anterior, no se podrá extender la duración de los turnos definidos de conformidad con la normativa vigente.
+
+El descanso deberá otorgarse simultánea o alternadamente a todos los trabajadores, permitiéndoles empezar el descanso para colación en el período de tiempo comprendido entre las 3,5 y 5 horas de iniciado el turno, resguardando la seguridad de los trabajadores y de las faenas en el recinto portuario. Los empleadores deberán concordar cualquiera de estas modalidades con las organizaciones representativas de los trabajadores a quienes afecten. En todo caso, las dotaciones asignadas en una nave deberán tomar el descanso en forma que se garantice siempre la seguridad y salud de los trabajadores.
+
+Será responsabilidad del concesionario del frente de atraque, de las empresas de muellaje en aquellos frentes multioperados y, en el caso de los puertos privados, de las empresas de muellaje que operen dicho puerto, mantener instalaciones adecuadas para que los trabajadores portuarios puedan hacer uso efectivo del descanso señalado en el párrafo segundo. Las empresas mencionadas deberán registrar el otorgamiento del descanso mediante el sistema a que se refiere el artículo 33.
+
 El empleador podrá extender la jornada ordinaria sobre lo pactado siempre que deban terminarse las faenas de carga y descarga, sin que, en ningún caso, ésta pueda exceder de diez horas diarias.
 
 Las horas trabajadas en exceso sobre la jornada pactada se considerarán extraordinarias, se pagarán con un recargo del cincuenta por ciento de la remuneración convenida y deberán liquidarse y pagarse conjuntamente con la remuneración ordinaria del respectivo turno;
@@ -1274,7 +1286,9 @@ Si el empleador pusiere término al respectivo contrato de trabajo en cualquier 
 
 #### Artículo 142
 
-Los convenios de provisión de puestos de trabajo a que se refiere el artículo 134, se regirán por las siguientes normas: a) Deberán contener, por parte del o de los empleadores que lo suscriban, la garantía de un número de ofertas de acceso al puesto de trabajo suficientes para asegurar al menos, el equivalente al valor del ingreso mínimo de un mes en cada trimestre calendario, para cada uno de los trabajadores que formen parte del convenio.
+Los convenios de provisión de puestos de trabajo a que se refiere el artículo 134, se regirán por las siguientes normas:
+
+a) Deberán contener, por parte del o de los empleadores que lo suscriban, la garantía de un número de ofertas de acceso al puesto de trabajo suficientes para asegurar mensualmente, al menos, el equivalente al valor del ingreso mínimo mensual, para cada uno de los trabajadores que formen parte del convenio.
 
 b) Un empleador y un trabajador podrán suscribir los convenios de provisión de puestos de trabajo que estimen conveniente.
 
