@@ -762,6 +762,18 @@ El trabajador al que se refiere el inciso primero gozará de fuero laboral por u
 
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
 
+#### Artículo 66 bis
+
+Las trabajadoras mayores de cuarenta años de edad y los trabajadores mayores de cincuenta, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
+
+El tiempo para realizar los exámenes, señalado en el inciso anterior, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
+
+Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
+
+El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
+
+Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
+
 #### Artículo 67
 
 Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
