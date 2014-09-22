@@ -1,6 +1,6 @@
 DECRETO LEY N° 2.224
 
-CREA COMISION NACIONAL DE ENERGIA
+CREA EL MINISTERIO DE ENERGÍA Y LA COMISION NACIONAL DE ENERGÍA
 
 Núm. 2.224.- Santiago, 25 de Mayo de 1978.- Visto: lo dispuesto en los decretos leyes N° 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
 
@@ -14,7 +14,7 @@ Del Ministerio de Energía
 
 #### Artículo 1º
 
-Derogado
+El Ministerio de Energía es el órgano superior de colaboración del Presidente de la República en las funciones de gobierno y administración del sector energía.
 
 #### Artículo 2°
 
@@ -66,15 +66,19 @@ Mediante un reglamento expedido a través del Ministerio de Energía, se estable
 
 j) Suscribir en representación del Estado, con los requisitos y bajo las condiciones que el Presidente de la República fije por decreto supremo, los contratos especiales de operación relativos a hidrocarburos y materiales atómicos naturales a que se refiere el inciso décimo del número 24º del artículo 19 de la Constitución Política; ejercer, directamente o por intermedio de un organismo o empresa del Estado, funciones y derechos que el decreto supremo y el correspondiente contrato especial de operación antes mencionado le señalen; y celebrar, en representación del Estado, y previo informe favorable del organismo correspondiente, contratos de servicio que tengan por objeto la ejecución de determinados trabajos relacionados con la exploración de yacimientos de hidrocarburos y materiales atómicos naturales. Tratándose de la suscripción de contratos especiales de operación relativos a materiales atómicos naturales, será necesario el informe previo favorable del Consejo de la Comisión Chilena de Energía Nuclear.
 
--k) Cumplir las demás funciones y tareas que las leyes o el Gobierno le encomienden concernientes a la buena marcha y desarrollo del sector energía.
+k) Capacitar y fomentar la capacitación y actualización técnica, en materias relacionadas con sus funciones, de los funcionarios de los órganos de la Administración del Estado enumerados en el artículo 1º, inciso segundo, de la ley Nº 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley Nº1/19.653, de 2001, del Ministerio Secretaría General de la Presidencia. Esta capacitación también podrá efectuarse a los particulares.
+
+l) Fomentar y facilitar la participación de personas naturales o jurídicas, con o sin fines de lucro, en la formulación de políticas, planes y normas, en materias de competencia del Ministerio.
+
+m) Cumplir las demás funciones y tareas que las leyes o el Gobierno le encomienden concernientes a la buena marcha y desarrollo del sector energía.
 
 #### Artículo 5º
 
 La conducción del Ministerio corresponderá al Ministro de Energía, en conformidad con las políticas e instrucciones que imparta el Presidente de la República. La administración interna del Ministerio corresponderá al Subsecretario de Energía, quién será el Jefe Superior del Servicio y coordinará la acción de los servicios públicos del sector.
 
-La organización interna del Ministerio, las denominaciones y funciones que correspondan a cada una de las unidades que sean establecidas, serán determinadas por resolución del Ministro. Para los efectos de establecer la referida estructura interna, se considerarán como áreas funcionales, entre otras, mercado energético, energías renovables, eficiencia energética, medio ambiente y desarrollo sustentable, energización rural y social, estudios y desarrollo energético.
+La organización interna del Ministerio, las denominaciones y funciones que correspondan a cada una de las unidades que sean establecidas, serán determinadas por resolución del Ministro. Para los efectos de establecer la referida estructura interna, se considerarán como áreas relevantes del sector, entre otras, mercado energético, energías renovables, eficiencia energética, medio ambiente y desarrollo sustentable, energización rural y social, estudios y desarrollo energético, y la participación y diálogo ciudadano.
 
-Sin perjuicio de lo dispuesto por el inciso segundo del artículo 62 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio del Interior, que fija el texto refundido, coordinado, sistematizado y actualizado de la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, el Ministerio de Energía contará con seis Secretarías Regionales Ministeriales, las que representarán al Ministerio en una o más regiones. Mediante decreto supremo se establecerán las regiones que le corresponderán a cada una de ellas, así como la ciudad en la que tendrá su asiento el Secretario Regional Ministerial. Para estos efectos, se deberán considerar las características comunes del territorio y las condiciones y potencialidades de desarrollo energético de las regiones.
+Habrá una Secretaría Regional Ministerial en cada una de las regiones en que se divide administrativamente el país, a cargo de un Secretario Regional Ministerial, quien será el representante del Ministerio en la región.
 
 ## Título II
 
