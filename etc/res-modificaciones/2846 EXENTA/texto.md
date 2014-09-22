@@ -56,7 +56,7 @@ o) Incorporar como cuarto período de descanso de la agrupación de concesiones 
 
 p) Incorporar como cuarto período de descanso de la agrupación de concesiones Nº 28 C, ubicada en la XI Región, el siguiente período "Junio-Agosto 2016".
 
-q) Incorporar como cuarto período de descanso de la agrupación de concesiones Nº 30 B, ubicada en la XI Región, el siguiente período "Noviembre 2015-Enero 2016".
+q) Incorporar como cuarto período de descanso de la agrupación de concesiones Nº 30 B, ubicada en la XI Región, el siguiente período, "noviembre 2016-enero 2017".
 
 r) Incorporar como cuarto período de descanso de la agrupación de concesiones Nº 31 A, ubicada en la XI Región, el siguiente: "Febrero-Abril 2016".
 
@@ -67,6 +67,8 @@ t) Incorporar como cuarto período de descanso de la agrupación de concesiones 
 #### Artículo segundo
 
 En virtud de la rectificación precedente, y respecto de las agrupaciones de concesiones que se indican a continuación, el cuadro de períodos de descanso sanitario contenido en el inciso final del artículo tercero de la resolución exenta Nº 1.449, de 2009, citada en Vistos, corresponde al siguiente:
+
+> **Nota.** El numeral 1° letra b, de la Resolución 3246 Exenta, Economía, publicada el 22.09.2014, modifica el cuadro de concesiones, en el sentido de establecer el período de descanso de la agrupación de concesiones Nº 30 B y de su cuarto período de descanso, donde dice: "noviembre 2015-enero 2016", debe decir "noviembre 2016-enero 2017.
 
 #### Artículo tercero
 
