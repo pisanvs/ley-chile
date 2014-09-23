@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA A LA SOCIEDAD "CRUCERO SOLAR MATRIZ SPA"
+
+Mediante decreto exento Nº 777, de 2 de septiembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Crucero Solar Matriz SpA", RUT Nº 76.306.992-3, el inmueble fiscal ubicado a 5 km. al Norte del Cruce de la Ruta 5 con Ruta 24, formado por los Lotes A, B y C, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con los Nos 6700-42, 6700-43 y 6700-44, amparado por la inscripción global que rola a fojas 6 Nº 6 del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 1996, de una superficie total de 416,61 ha, singularizado en el Plano Nº 02302-4.327-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 3.100.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto, con su texto íntegro, se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
