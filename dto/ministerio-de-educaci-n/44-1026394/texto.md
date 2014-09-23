@@ -28,7 +28,7 @@ Determínase la forma de ejecutar el Plan de Formación de Directores, de confor
 
 El presente Reglamento determina la forma de ejecución del Plan de Formación de Directores, en adelante "el Plan", destinado a profesionales de la educación, con el propósito de adquirir, desarrollar y reforzar competencias para ejercer el cargo de director de un establecimiento educacional.
 
-Podrán participar en este Plan los profesionales de la educación, incluidos aquellos que actualmente ejercen la función de director. A lo menos el 50% de los recursos que para estos efectos contempla la ley Nº 20.481 se destinarán a los profesionales de la educación que actualmente ejercen cargos directivos.
+Podrán participar en este Plan los profesionales de la educación, incluidos aquellos que actualmente ejercen la función de director.
 
 #### Artículo 2º
 
