@@ -28,49 +28,69 @@ Resolución:
 
 1. Llámase a postulación nacional en condiciones especiales, para el otorgamiento de los siguientes tipos de subsidios del Programa de Protección del Patrimonio Familiar, definidos en el DS Nº 255 (V. y U.), de 2006, y sus modificaciones, que regula ese Programa:
 
-1.1 Título I, Equipamiento Comunitario y/o Mejoramiento del Entorno.
+1.1 Título I, Equipamiento Comunitario y/o
+
+Mejoramiento del Entorno.
 
 1.2 Título II, Mejoramiento de la Vivienda.
 
-1.2.1 Se incluyen los Proyectos de Habitabilidad que digan relación
+1.2.1 Se incluyen los Proyectos de Habitabilidad
 
-con facilitar el desplazamiento al interior de la vivienda de
+que digan relación con facilitar el
 
-personas con discapacidad que requieran del uso permanente de
+desplazamiento al interior de la vivienda
 
-silla de ruedas, los que se regirán por lo indicado en el
+de personas con discapacidad que requieran
 
-resuelvo 4 de esta resolución, y los de "Obras de
+del uso permanente de silla de ruedas, los
 
-Innovaciones de Eficiencia Energética", que tengan como fin
+que se regirán por lo indicado en el
 
-el instalar un Sistema Solar Térmico (colector solar) en la
+resuelvo 4 de esta resolución, y los de
 
-vivienda, los que se regirán por lo indicado en el resuelvo 6
+"Obras de Innovaciones de Eficiencia
 
-de esta resolución.
+Energética", que tengan como fin el
 
-Para este tipo de proyectos de habitabilidad que consulten el
+instalar un Sistema Solar Térmico
 
-cambio de cubierta con asbesto-cemento, se incrementará el
+(colector solar) en la vivienda, los que
 
-monto del subsidio en un 20%.
+se regirán por lo indicado en el resuelvo
 
-1.2.2 Proyectos de Habitabilidad del Título II, destinados al
+6 de esta resolución.
 
-Acondicionamiento Térmico de la vivienda conforme a lo
+Para este tipo de proyectos de habitabilidad
 
-indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de
+que consulten el cambio de cubierta con
 
-2006, en las regiones del L. Bernardo O'Higgins, del Maule,
+asbesto-cemento, se incrementará el monto
 
-del Biobío, de la Araucanía, de Los Ríos, de Los Lagos y de
+del subsidio en un 20%.
 
-Aysén, y además a proyectos del resto de las regiones que se
+1.2.2 Proyectos de Habitabilidad del Título II,
 
-ubiquen en zona térmica IV o superior, según lo detallado en
+destinados al Acondicionamiento Térmico de
 
-el resuelvo 7 de la presente resolución.
+la vivienda conforme a lo indicado en el
+
+#### Artículo 6º bis
+
+del DS Nº 255 (V. y U.),
+
+de 2006, en las regiones del L. Bernardo
+
+O'Higgins, del Maule,del Biobío, de la
+
+Araucanía, de Los Ríos, de Los Lagos y de
+
+Aysén, y además a proyectos del resto de
+
+las regiones que se ubiquen en zona
+
+térmica IV o superior, según lo detallado
+
+en el resuelvo 7 de la presente resolución.
 
 1.3 Título III, Ampliación de la Vivienda, incluyendo proyectos especiales definidos en el resuelvo 5 de esta resolución, destinados a acoger a un Adulto Mayor, o en caso de ser este último el propietario de la vivienda a intervenir, a albergar a uno o más familiares que vengan a residir con él.
 
@@ -102,91 +122,123 @@ Se podrán aumentar los recursos del presente llamado con cargo a los recursos a
 
 5.1 Los postulantes que sean familiares de un Adulto Mayor, cuyo proyecto tenga como destino acogerlo en su vivienda, deberán cumplir con las siguientes condiciones:
 
-5.1.1 Presentar carta compromiso del postulante y/o del Adulto
+5.1.1 Presentar carta compromiso del postulante
 
-Mayor que habitará la vivienda, que indique que este último
+y/o del Adulto Mayor que habitará la
 
-morará en ella. El Serviu se reserva el derecho de verificar
+vivienda, que indique que este último morará
 
-el cumplimiento de esta condición y en caso de no cumplirla y
+en ella.
 
-que la vivienda intervenida no cumpla con las condiciones
+El Serviu se reserva el derecho de verificar
 
-habitacionales mínimas, el beneficiario del subsidio deberá
+el cumplimiento de esta condición y en caso
 
-hacer devolución al Serviu respectivo del monto de subsidio
+de no cumplirla y que la vivienda
 
-entregado para este proyecto.
+intervenida no cumpla con las condiciones
 
-5.1.2 El proyecto de ampliación debe corresponder a un proyecto de
+habitacionales mínimas, el beneficiario del
 
-nuevo dormitorio de acuerdo a lo señalado en la letra c.1), y
+subsidio deberá hacer devolución al Serviu
 
-el proyecto de baño de acuerdo a lo señalado en la letra
+respectivo del monto de subsidio entregado
 
-c.4), ambos del Título III, Ampliación de la Vivienda, del
+para este proyecto.
 
-#### Artículo 5º
+5.1.2 El proyecto de ampliación debe corresponder
 
-del DS Nº 255 (V. y U.), de 2006. El dormitorio a
+a un proyecto de nuevo dormitorio de acuerdo
 
-construir deberá contar con el metraje mínimo que permita que
+a lo señalado en la letra c.1), y el
 
-en él puedan ubicarse dos camas, con 2 closets, con el
+proyecto de baño de acuerdo a lo señalado
 
-espacio suficiente para el desplazamiento dentro de éste. El
+en la letra c.4), ambos del Título III,
 
-baño deberá contar con acceso directo desde el dormitorio. El
+Ampliación de la Vivienda, del artículo 5º
 
-estándar de ambos deberá cumplir con el cuadro normativo
+del DS Nº 255 (V. y U.), de 2006. El
 
-contenido en el DS Nº 255 (V. y U.), de 2006.
+dormitorio a construir deberá contar
 
-5.1.3 Si el Adulto Mayor tuviera algún grado de discapacidad, el
+con el metraje mínimo que permita que
 
-recinto que lo acoja y el baño deberán contar con las
+en él puedan ubicarse dos camas, con
 
-facilidades que le permitan utilizarlo adecuadamente. En
+2 closets, con el espacio suficiente
 
-estos casos Serviu deberá verificar que la solución propuesta
+para el desplazamiento dentro de éste. El
 
-contemple las medidas necesarias para su uso según el tipo de
+baño deberá contar con acceso directo desde
+
+el dormitorio. El estándar de ambos deberá
+
+cumplir con el cuadro normativo contenido
+
+en el DS Nº 255 (V. y U.), de 2006.
+
+5.1.3 Si el Adulto Mayor tuviera algún grado de
+
+discapacidad, el recinto que lo acoja y
+
+el baño deberán contar con las facilidades
+
+que le permitan utilizarlo adecuadamente.
+
+En estos casos Serviu deberá verificar que
+
+la solución propuesta contemple las medidas
+
+necesarias para su uso según el tipo de
 
 discapacidad.
 
-5.1.4 El Adulto Mayor que es acogido no puede ser propietario de
+5.1.4 El Adulto Mayor que es acogido no puede
 
-una vivienda.
+ser propietario de una vivienda.
 
 5.2 En caso de proyectos en que el postulante sea un Adulto Mayor propietario de la vivienda a intervenir, y que la propuesta contemple una ampliación que tenga como destino acoger a un familiar que pueda ayudarlo y cuidarlo, se deberá cumplir con las siguientes condiciones:
 
-5.2.1 Carta compromiso que indique que el proyecto de ampliación
+5.2.1 Carta compromiso que indique que el proyecto
 
-está destinado a acoger voluntariamente a uno o más
+de ampliación está destinado a acoger
 
-familiares en su vivienda.
+voluntariamente a uno o más familiares
 
-5.2.2 El proyecto de ampliación podrá corresponder al mismo tipo de
+en su vivienda.
 
-proyecto definido en el punto 5.1.2 precedente, en caso de
+5.2.2 El proyecto de ampliación podrá corresponder
 
-que la vivienda a intervenir tenga un solo baño, o a proyecto
+al mismo tipo de proyecto definido en el
 
-de dos dormitorios siempre que la vivienda, una vez
+punto 5.1.2 precedente, en caso de que la
 
-intervenida, no sobrepase los 4 dormitorios. El estándar de
+vivienda a intervenir tenga un solo baño, o
 
-los recintos a ejecutar también deberá cumplir con lo
+a proyecto de dos dormitorios siempre que
 
-señalado en el aludido punto 5.1.2, excepto que en caso de
+la vivienda, una vez intervenida, no
 
-ejecutarse un baño, no será exigencia que el acceso a éste
+sobrepase los 4 dormitorios. El estándar
 
-sea por el nuevo dormitorio.
+de los recintos a ejecutar también deberá
 
-5.2.3 El familiar a ser acogido para acompañar al Adulto Mayor no
+cumplir con lo señalado en el aludido
 
-puede ser propietario de una vivienda.
+punto 5.1.2, excepto que en caso de
+
+ejecutarse un baño, no será exigencia que
+
+el acceso a éste sea por el nuevo
+
+dormitorio.
+
+5.2.3 El familiar a ser acogido para acompañar
+
+al Adulto Mayor no puede ser propietario de
+
+una vivienda.
 
 5.3 Los proyectos de ampliación de una vivienda que tengan por objeto acoger a un Adulto Mayor o sea éste quien desee integrar a uno o más familiares en su vivienda, obtendrán 80 puntos adicionales a los ya establecidos en el DS Nº 255 (V. y U.), de 2006.
 
@@ -200,31 +252,41 @@ puede ser propietario de una vivienda.
 
 Los proyectos de Innovación de Eficiencia Energética presentados a este llamado deberán dar cumplimiento a dicho Itemizado en todos aquellos ítems relacionados con los elementos a instalar y al funcionamiento de los equipos. Este Itemizado contiene las especificaciones técnicas mínimas que la División Técnica de Estudio y Fomento Habitacional del Minvu ha definido para el buen desempeño de estos sistemas.
 
+Para la segunda selección a realizarse con proyectos calificados hasta el 30 de octubre de 2014, regirá el nuevo Itemizado denominado "Itemizado Técnico para Sistemas Solares Térmicos - Minvu, Sistemas individuales para Viviendas" el que se adjunta a la presente resolución.
+
 6.4 El contratista ejecutor de las obras deberá presentar una boleta bancaria de garantía de acuerdo a lo señalado en el artículo 35, del DS 255 (V. y U.), de 2006, que deberá garantizar como mínimo por dos años la instalación, ejecución y buen funcionamiento de las obras.
 
 6.5 A los factores de puntaje definidos para el Título II, en el artículo 28 del DS Nº 255 (V. y U.), de 2006, se agregan los siguientes factores adicionales, cuyos puntajes se aplicarán a los proyectos presentados en cada una de las selecciones de este llamado:
 
-6.5.1 Por Contribución Solar del SST (CS*) mayor a la Contribución
+6.5.1 Por Contribución Solar del SST (CS*) mayor
 
-Solar Mínima exigida (CSM*), hasta en un 15%, según fórmula
+a la Contribución Solar Mínima exigida
 
-por zona climática, conforme a Norma Técnica de la ley Nº
+CSM*), hasta en un 15%, según fórmula por
 
-20.365:
+zona climática, conforme a Norma Técnica
+
+de la ley Nº 20.365:
 
 .
 
-* La contribución solar mínima exigida se obtiene de la tabla
+* La contribución solar mínima exigida se
 
-del Capítulo III "Verificación del Cumplimiento de la
+obtiene de la tabla del Capítulo III
 
-Contribución Solar Mínima", de la Norma Técnica que determina
+"Verificación del Cumplimiento de la
 
-algoritmo para la verificación de la contribución solar
+Contribución Solar Mínima", de la Norma
 
-mínima de los Sistemas Solares Térmicos acogidos a la
+Técnica que determina algoritmo para la
 
-franquicia tributaria de la ley Nº 20.365, donde CS?CSM*0,85.
+verificación de la contribución solar
+
+mínima de los Sistemas Solares Térmicos
+
+acogidos a la franquicia tributaria de
+
+la ley Nº 20.365, donde CS?CSM*0,85.
 
 6.5.2 Por tipo de sistema:
 
@@ -238,69 +300,91 @@ franquicia tributaria de la ley Nº 20.365, donde CS?CSM*0,85.
 
 .
 
-6.5.5 Por materialidad de la protección de la aislación térmica:
+6.5.5 Por materialidad de la protección
+
+de la aislación térmica:
 
 .
 
-6.5.6 Por tipo de vidrio de la cubierta del colector: En caso que
+6.5.6 Por tipo de vidrio de la cubierta del
 
-el proyecto contemple colectores planos con cubierta de
+colector:
 
-vidrio templado, se entregará puntaje adicional si éste es de
+En caso que el proyecto contemple colectores
 
-alta transparencia, conforme a la tabla siguiente:
+planos con cubierta de vidrio templado, se
+
+entregará puntaje adicional si éste es de
+
+alta transparencia, conforme a la tabla
+
+siguiente:
 
 .
 
-6.5.7 Por tipo de SAA (sistema de aporte auxiliar) instalado: En el
+6.5.7 Por tipo de SAA (sistema de aporte auxiliar)
 
-caso que la vivienda no posea un SAA y el proyecto contemple
+instalado: En el caso que la vivienda no
 
-la incorporación de un SAA, o en el caso que la vivienda
+posea un SAA y el proyecto contemple la
 
-posea un SAA y el proyecto contemple su recambio, se
+incorporación de un SAA, o en el caso que
 
-entregará puntaje adicional según el tipo de SAA, conforme a
+la vivienda posea un SAA y el proyecto
+
+contemple su recambio, se entregará puntaje
+
+adicional según el tipo de SAA, conforme a
 
 la siguiente tabla:
 
 .
 
-* Calefón Solar es aquel que ajusta la temperatura de salida
+* Calefón Solar es aquel que ajusta la
 
-a un valor determinado, independiente de la temperatura y
+temperatura de salida a un valor
 
-caudal de agua que ingresa.
+determinado, independiente de la
+
+temperatura y caudal de agua que
+
+ingresa.
 
 6.5.8 Por demanda de la vivienda:
 
 .
 
-6.5.9 Por garantía del colector: Se otorgará puntaje adicional
+6.5.9 Por garantía del colector: Se otorgará
 
-por años de garantía de los equipos, por sobre la mínima
+puntaje adicional por años de garantía
 
-exigida en el Itemizado Técnico de Sistemas Solares
+de los equipos, por sobre la mínima
 
-Térmicos Unifamiliares (5 años).
+exigida en el Itemizado Técnico de
 
-.
+Sistemas Solares Térmicos Unifamiliares
 
-6.5.10 Por garantía del acumulador: Se otorgará puntaje adicional
-
-por años de garantía de los equipos, por sobre la mínima
-
-exigida en el Itemizado Técnico de Sistemas Solares
-
-Térmicos Unifamiliares (5 años).
+(5 años).
 
 .
 
-6.5.11 Aquellos grupos que estén constituidos por hasta un máximo
+6.5.10 Por garantía del acumulador: Se otorgará
 
-de 30 integrantes, se les premiará con 30 puntos
+puntaje adicional por años de garantía de
 
-adicionales.
+los equipos, por sobre la mínima exigida
+
+en el Itemizado Técnico de Sistemas
+
+Solares Térmicos Unifamiliares (5 años).
+
+.
+
+6.5.11 Aquellos grupos que estén constituidos por
+
+hasta un máximo de 30 integrantes, se les
+
+premiará con 30 puntos adicionales.
 
 6.6 La obtención de un subsidio destinado a la instalación de sistemas solares térmicos a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiados en este llamado, siempre que no se trate del mismo tipo de obra.
 
@@ -308,11 +392,15 @@ adicionales.
 
 6.7.1 Nociones básicas del sistema solar térmico.
 
-6.7.2 Uso eficiente de la instalación solar térmica.
+6.7.2 Uso eficiente de la instalación solar
 
-6.7.3 Cuidado y mantención del sistema solar térmico, por medio de
+térmica.
 
-un catálogo que se les entregará a los beneficiarios.
+6.7.3 Cuidado y mantención del sistema solar
+
+térmico, por medio de un catálogo que se
+
+les entregará a los beneficiarios.
 
 7. En caso de Proyectos de Habitabilidad del Título II, de Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda, se tendrán las siguientes consideraciones especiales:
 
@@ -334,73 +422,99 @@ Las situaciones de excepción deben asegurar a lo menos la intervención del com
 
 7.3 Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a este llamado:
 
-7.3.1 Puntajes adicionales por condiciones de la vivienda original:
+7.3.1 Puntajes adicionales por condiciones de la
 
-a) Puntaje adicional por ubicación del proyecto. Se otorgará un
+vivienda original:
 
-puntaje mayor a aquellos proyectos ubicados en zonas térmicas
+a) Puntaje adicional por ubicación del proyecto.
 
-más desfavorables:
+Se otorgará un puntaje mayor a aquellos
 
-.
+proyectos ubicados en zonas térmicas más
 
-b) Puntaje adicional por grado de cumplimiento de las exigencias
-
-establecidas en el artículo 4.1.10 de la Ordenanza General de
-
-Urbanismo y Construcciones, antes de la intervención proyectada:
+desfavorables:
 
 .
 
-En caso que la vivienda no cumpla las exigencias en más de un
+b) Puntaje adicional por grado de cumplimiento
 
-tipo de elemento, se deben sumar los puntajes asignados a cada
+de las exigencias establecidas en el artículo
 
-elemento que no da cumplimiento.
+4.1.10 de la Ordenanza General de Urbanismo
 
-c) 100 puntos adicionales a proyectos que contemplen viviendas que
+y Construcciones, antes de la intervención
 
-usen calefactores o cocinas a leña y que se emplacen dentro de
+proyectada:
 
-comunas declaradas como zonas saturadas y que tengan un Plan de
+.
 
-Descontaminación Atmosférica vigente.
+En caso que la vivienda no cumpla las
 
-7.3.2 Puntajes adicionales por mejoras por sobre lo establecido en
+exigencias en más de un tipo de elemento,
 
-el artículo 4.1.10 de la Ordenanza General de Urbanismo y
+se deben sumar los puntajes asignados a
+
+cada elemento que no da cumplimiento.
+
+c) 100 puntos adicionales a proyectos que
+
+contemplen viviendas que usen calefactores
+
+o cocinas a leña y que se emplacen dentro
+
+de comunas declaradas como zonas saturadas
+
+y que tengan un Plan de Descontaminación
+
+Atmosférica vigente.
+
+7.3.2 Puntajes adicionales por mejoras por sobre
+
+lo establecido en el artículo 4.1.10 de
+
+la Ordenanza General de Urbanismo y
 
 Construcciones:
 
-a) Puntaje adicional por diseño higrotérmico de la solución a
+a) Puntaje adicional por diseño higrotérmico de
 
-incorporar en los elementos de muro y piso ventilado. Se
+la solución a incorporar en los elementos de
 
-otorgarán 30 puntos adicionales si la aislación térmica
+muro y piso ventilado. Se otorgarán 30 puntos
 
-considerada es proyectada por la cara exterior del elemento.
+adicionales si la aislación térmica considerada
 
-b) Puntaje adicional por mejoras al proyecto por sobre lo
+es proyectada por la cara exterior del
 
-establecido en el artículo 4.1.10 de la Ordenanza General de
+elemento.
 
-Urbanismo y Construcciones:
+b) Puntaje adicional por mejoras al proyecto
+
+por sobre lo establecido en el artículo
+
+4.1.10 de la Ordenanza General de Urbanismo
+
+y Construcciones:
 
 .
 
-En caso que la vivienda sea intervenida en más de un tipo de
+En caso que la vivienda sea intervenida en más
 
-elemento por sobre las exigencias establecidas en la
+de un tipo de elemento por sobre las exigencias
 
-Reglamentación Térmica (RT), se deben sumar los puntajes
+establecidas en la Reglamentación Térmica (RT),
 
-asignados a cada elemento, de acuerdo con la tabla anterior.
+se deben sumar los puntajes asignados a cada
 
-c) Ventanas: Priorización por cambio de ventana con vidrio
+elemento, de acuerdo con la tabla anterior.
 
-monolítico a ventana de doble vidriado hermético (DVH) en
+c) Ventanas: Priorización por cambio de ventana
 
-recintos habitables (estar-comedor, dormitorios):
+con vidrio monolítico a ventana de doble
+
+vidriado hermético (DVH) en recintos habitables
+
+(estar-comedor, dormitorios):
 
 .
 
@@ -416,7 +530,9 @@ recintos habitables (estar-comedor, dormitorios):
 
 7.6.3 Calefacción.
 
-7.6.4 Producción de vapor de agua al interior de la vivienda.
+7.6.4 Producción de vapor de agua al interior de
+
+la vivienda.
 
 7.6.5 Uso eficiente de la energía.
 
