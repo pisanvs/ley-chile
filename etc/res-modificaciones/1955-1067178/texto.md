@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 1.955, de 17 de junio de 2014, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Cultivadora de Salmones Linao S.A., sociedad chilena, RUT 79.736.490-8, con domicilio en Ruta 226, Km. 6, Puerto Montt, para incorporar en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.204, de 24 de julio de 1995, modificada por resolución 1.268, de 20 de octubre de 2008, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 9.087, de 7 de noviembre de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, el cultivo del grupo de especies salmónidos y aumentar la producción, solicitud Nº 211105014, de 25 de agosto de 2011, ubicada en Bahía Linao, Sector Huelden, comuna de Ancud, provincia de Chiloé, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 159, de 22 de febrero de 1995, modificada por resolución exenta 2.365, de 17 de agosto de 2006, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 434, del 15 de febrero de 2013, modificada por resolución exenta 1.699, de 2 de julio de 2013, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 28 de julio de 2014.- Por orden del Subsecretario para las Fuerzas Armadas, Camilo Mirosevic Verdugo, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
