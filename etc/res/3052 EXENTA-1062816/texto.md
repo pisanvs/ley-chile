@@ -16,13 +16,13 @@ Resolución:
 
 Durante el período señalado, el Serviu recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, para cada modalidad, con los documentos que deben acompañarlas, sólo en las Oficinas del Serviu Región de Valparaíso o en los lugares de atención que éste disponga al efecto.
 
-Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos en cada modalidad al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos para cada una de ellas, las que serán sancionadas por resolución de la Ministra de Vivienda y Urbanismo y publicadas en el Diario Oficial.
+Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos en cada modalidad al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos para cada una de ellas, las que serán sancionadas por resolución de la Ministra de Vivienda y Urbanismo y publicadas en el Diario Oficial. Los beneficiarios de subsidio en alguna de las modalidades de aplicación señaladas en las letras a), b), c) o d) de la tabla del inciso primero de este Resuelvo, podrán aplicarlo en una región distinta a la Región de Valparaíso.
 
 La primera selección se realizará con los inscritos en cada modalidad al último día hábil del mes de junio.
 
 La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 1.500.000 Unidades de Fomento.
 
-Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados.
+Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados, hubiesen estado o no residiendo en la vivienda siniestrada.
 
 2. Sin perjuicio del cumplimiento de los requisitos establecidos en el DS Nº 1 y en el DS Nº 49, ambos de Vivienda y Urbanismo, de 2011, los damnificados que se inscriban para cada modalidad de aplicación del subsidio deberán cumplir con los siguientes requisitos:
 
@@ -32,7 +32,7 @@ b) Declaración de núcleo familiar según formato provisto por el Serviu. No se
 
 c) Formulario de elección de modalidad de aplicación de subsidio, según formato provisto por el Serviu.
 
-d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio o Densificación Predial con pago de subsidio posterior, Construcción en Sitio Propio con pago por avance de obras o Densificación Predial en Condominios, deberá acreditar que el sitio está emplazado en una zona segura o mitigable, lo que deberá ser acreditado por la Dirección de Obras Municipales y la disponibilidad de terreno mediante alguno de los siguientes documentos:
+d) En caso que el damnificado opte por la modalidad de Construcción en Sitio Propio con pago de subsidio posterior o Densificación Predial con pago de subsidio posterior, Construcción en Sitio Propio con pago por avance de obras o Densificación Predial en Condominios, deberá acreditar la disponibilidad de terreno mediante alguno de los siguientes documentos, sea que esté o no ubicado en la zona afectada por la catástrofe:
 
 i. Copia de la inscripción de dominio con certificado de vigencia a nombre del damnificado o de su cónyuge, o de ambos cónyuges en comunidad o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
@@ -47,6 +47,8 @@ v. En caso que el inmueble poseído por el damnificado o por su cónyuge se encu
 vi. Para las modalidades de Densificación Predial en Condominios o Densificación Predial con pago posterior, los damnificados no propietarios deberán acreditar disponibilidad de sitio mediante declaración jurada notarial del propietario del inmueble en que autorice al interesado para la construcción de la vivienda y conformación de copropiedad.
 
 vii. Tratándose de damnificados que tengan derechos en comunidad sobre un terreno o si los tiene su cónyuge o conviviente u otro miembro del núcleo familiar declarado, deberá presentar certificado de dominio vigente o copia de la escritura en que consten dichos derechos o el instrumento que acredite tal condición, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de inscripción.
+
+En caso que el sitio esté ubicado en la zona afectada por la catástrofe, se deberá acreditar que el sitio está emplazado en una zona segura o mitigable, lo que deberá ser acreditado por la Dirección de Obras Municipales.
 
 3. Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos, condiciones o impedimentos establecidos en el DS Nº 1 y el DS Nº 49, ambos de este Ministerio, de 2011, según corresponda:
 
@@ -65,6 +67,32 @@ f) Del requisito de acreditar disponibilidad de sitio libre de hipotecas y grav�
 4. No obstante lo señalado en la letra d) del Resuelvo 3, no podrán inscribirse en alguna de las modalidades de aplicación del subsidio los arrendatarios o allegados que, aún cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo sea su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
 
 Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados que tengan algún certificado de subsidio vigente a la fecha ni los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del sector vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.) de 1995, o si lo estuviere su cónyuge.
+
+No obstante lo indicado en el inciso primero de este Resuelvo, los arrendatarios o allegados que acrediten disponibilidad de terreno conforme a la letra
+
+- **d)** del Resuelvo 2, podrán inscribirse en las modalidades de aplicación del subsidio de Construcción en Sitio Propio con pago de subsidio posterior o Densificación Predial con pago de subsidio posterior, Construcción en Sitio Propio con pago por avance de obras o Densificación Predial en Condominios, a que se refieren las letras b),
+
+- **c)** y
+
+- **d)** de la tabla del inciso primero del Resuelvo 1 de esta resolución.
+
+Los damnificados que se inscriban en alguna de las alternativas a que se refieren las letras b),
+
+- **c)** y
+
+- **d)** de la tabla del inciso primero del Resuelvo 1, que acrediten disponibilidad de un terreno conforme a la letra
+
+- **d)** de Resuelvo 2 de esta resolución, ubicado en una zona que no fue afectada por la catástrofe, deberán haber iniciado los trámites de cesión al Serviu del sitio en que estaba emplazada la vivienda siniestrada, lo que deberá ser acreditado por el Serviu. Para el pago del subsidio, la cesión deberá acreditarse mediante la correspondiente escritura pública inscrita.
+
+En caso que los damnificados que se inscriban en alguna de las alternativas a que se refieren las letras b),
+
+- **c)** y
+
+- **d)** de la tabla del inciso primero del Resuelvo 1, sean propietarios de más de una vivienda siniestrada, sólo podrán inscribirse acreditando disponibilidad por uno de esos sitios, conforme a la letra
+
+- **d)** del Resuelvo 2 de esta resolución, sitio en que deberá construirse la vivienda cuya construcción se financiará con aplicación del subsidio habitacional.
+
+Los damnificados que residían en una zona que no fue afectada por la catástrofe y que no habitaban la vivienda siniestrada, podrán inscribirse en alguna de las modalidades de aplicación del subsidio a que se refiere esta resolución, siempre y cuando no sean propietarios de otra vivienda, a menos que acrediten que la vivienda se encuentra inhabitable, lo que deberá ser certificado por la Dirección de Obras Municipales respectiva
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
@@ -87,8 +115,6 @@ Si el damnificado tiene derechos sobre un sitio en que estaba emplazada la vivie
 A quienes opten por las modalidades señaladas en el inciso anterior, no les será exigible los requisitos señalados en las letras c), d) y m) del artículo 16 del DS Nº 1 (V. y U.), de 2011.
 
 En la Declaración de Núcleo sólo podrá incluirse a los hijos que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
-
-Los beneficiarios del subsidio en la modalidad de Adquisición de Vivienda podrán aplicarlo en una región distinta a la Región de Valparaíso.
 
 Si el beneficiario requiere de un crédito hipotecario complementario, para enterar el financiamiento de la vivienda se aplicará lo dispuesto en los artículos 69 al 74 del DS Nº 1 (V. y U.), de 2011.
 
@@ -114,7 +140,7 @@ El precio de la compraventa será el señalado en la respectiva escritura de com
 
 11. El subsidio que se aplique en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, se regirá en lo que fuere procedente por el DS Nº 1 (V. y U.), de 2011.
 
-Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio siniestrado sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura.
+Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura.
 
 12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
 
@@ -142,7 +168,7 @@ En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se
 
 ### Párrafo 4º — Modalidad de ejecución mediante Construcción en Sitio Propio con pago por avance de obras.
 
-15. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
+15. La presente modalidad corresponderá a proyectos de construcción de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
 16. En esta alternativa, el valor de la vivienda a construir corresponderá al valor de los subsidios obtenidos más el valor de aportes adicionales en caso que corresponda. No se considerará la opción a crédito hipotecario.
 
@@ -204,7 +230,7 @@ Los beneficiarios de la presente modalidad estarán eximidos de inscribir las pr
 
 ### Párrafo 5º — Modalidad de ejecución mediante Densificación Predial en Condominios.
 
-21. La presente modalidad corresponderá a proyectos de reposición de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., y de hasta dos viviendas adicionales en el mismo terreno, conformando una copropiedad de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
+21. La presente modalidad corresponderá a proyectos de construcción de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., y de hasta dos viviendas adicionales en el mismo terreno, conformando una copropiedad de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria, mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
 22. En esta alternativa, el valor de las viviendas a construir corresponderá al monto de los subsidios obtenidos por cada una de las familias más los aportes adicionales, si los hubiere. No se considerará crédito hipotecario para el financiamiento de las viviendas.
 
