@@ -142,6 +142,8 @@ Los Serviu podrán, a través de los profesionales que designe al efecto, verifi
 
 El número máximo de inmuebles que podrán ser seleccionados en este llamado por cada región son los siguientes:
 
+14. Autorízase a la Seremi de Vivienda y Urbanismo respectiva, para establecer todas las normas necesarias para la aplicación del Programa de Recuperación de Condominios Sociales: Segunda Oportunidad, a solicitud fundada del Serviu, informándose a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo. Esta facultad no regirá en el caso que la materia se refiera o tenga como consecuencia una modificación de los montos de los recursos asignados por la presente resolución.
+
 > **Nota.** La letra c) del numeral 1 de la Resolución 1309 Exenta, publicada el 06.03.2014, dispone sustituir el Resuelvo 10 de la presente norma. No obstante, la citada norma referirse al Resuelvo 1C.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).

@@ -68,6 +68,18 @@ b) De los impedimentos para postular al programa dispuesto en las letras a) y f)
 
 c) Del monto máximo de la vivienda a adquirir o financiar a través del subsidio dispuesto en los artículos 2 y 3, pudiendo optar a un crédito hipotecario como complemento del subsidio y del aporte adicional para concretar la solución habitacional.
 
+d) Del requisito establecido en la letra b) del Artículo 14, que dice relación con la presentación del certificado de permanencia definitiva, para los postulantes de nacionalidad extranjera.
+
+e) Del requisito establecido en la letra c) del Artículo 14, que dice relación con la necesidad de cumplir con ahorro mínimo.
+
+f) Del requisito establecido en el número 2 de la letra h) del Artículo 14, relativo a requisitos y condiciones de Declaración de Núcleo.
+
+g) Del requisito establecido en la letra l) del Artículo 14, que dice relación con la declaración del monto total de ingresos de núcleo familiar.
+
+h) De los impedimentos para postular establecidos en las letras c) y d) del Artículo 15, relativo a los miembros del núcleo familiar declarado que no correspondan al propietario, asignatario, su cónyuge o conviviente.
+
+i) De los impedimentos para postular establecidos en la letra g) del Artículo 15, relativo a las personas naturales que no acreditan núcleo familiar.
+
 9. Sólo será exigible como estándar técnico a las viviendas nuevas o usadas adquiridas por medio de este subsidio el programa arquitectónico de a lo menos 3 recintos conformados dispuestos en el artículo 44 del DS Nº 49 (V. y U.), de 2011. Estos recintos deberán contar con la recepción municipal respectiva.
 
 10. Corresponderá al Serviu respectivo la verificación del cumplimiento de los requisitos para aprobar la asignación de los recursos señalados en los eesuelvos 3, 4, 5 y 6, determinando los montos definitivos a asignar.

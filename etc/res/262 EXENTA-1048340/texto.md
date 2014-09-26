@@ -136,6 +136,8 @@ Los Serviu podrán, a través de sus funcionarios, verificar la veracidad de los
 
 El número máximo de inmuebles que podrán acogerse a este llamado por cada conjunto son los siguientes:
 
+13. Autorízase a la Seremi de Vivienda y Urbanismo respectiva, para establecer todas las normas necesarias para la aplicación del Programa de Recuperación de Condominios Sociales: Segunda Oportunidad, a solicitud fundada del Serviu, informándose a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo. Esta facultad no regirá en el caso que la materia se refiera o tenga como consecuencia una modificación de los montos de los recursos asignados por la presente resolución.
+
 El Minvu podrá redistribuir el número de viviendas disponibles para la selección entre los conjuntos señalados, dependiendo de la cantidad de postulaciones válidas, a través de la resolución de selección del presente llamado.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
