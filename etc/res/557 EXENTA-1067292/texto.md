@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 557 EXENTA, DE 2014
+
+Por resolución exenta Nº 557 de 15 de septiembre de 2014, de la Secretaría Regional Ministerial de la Región de Los Lagos, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Lagos, celebrado con los concesionarios TÜV Rheinland Andino S.A. y Revisiones Los Lagos Limitada, aprobados por las resoluciones exentas Nº 442 y Nº 443, ambas de fecha 23 de agosto de 2004 de la citada Secretaría Regional, hasta el día 30 de diciembre de 2015 o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región, a través de la resolución Nº 91, de 10 de febrero de 2014, modificada por las resoluciones Nº145, de 26 de mayo de 2014 y Nº183, de 30 de julio de 2014, cualquiera que ocurra primero.
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región de Los Lagos.
