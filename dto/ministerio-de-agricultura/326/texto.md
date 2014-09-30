@@ -32,87 +32,195 @@ La precalificación será realizada por el jefe directo del funcionario.
 
 De los factores, subfactores y su ponderación
 
-#### Artículo 4º
+Artículo Nº 4.- Los funcionarios serán evaluados por los siguientes factores y subfactores:
 
-La calificación del personal del Instituto de Desarrollo Agropecuario considerará la evaluación de los siguientes Factores, Subfactores y conceptos que tendrán una ponderación diferenciada de acuerdo a lo siguiente:
+1. Factor Rendimiento: Considera el trabajo realizado productivamente en un período de tiempo y la eficacia de la labor, es decir, la obtención de los resultados esperados.
 
-1. Factor de Calificación: Logro de Metas para estamentos: Directivos, Profesionales, Técnicos, Administrativos y Auxiliares 40%:
+Comprenderá la valoración del subfactor Calidad de trabajo, dado por los elementos que se detallan a continuación:
 
-Las metas individuales se fijarán los primeros 15 días del mes de septiembre entre el evaluador y evaluado, y se hará a través de la herramienta de Evaluación del Desempeño, en donde quedará un registro escrito.
+1.1. Calidad de trabajo:
 
-2. Factores y Subfactores de Calificación Estamento Directivos, Profesionales, Técnicos, Administrativos y Auxiliares 20%:
+1.1.a. Entrega respuestas rápidas, oportunas y que satisfacen las necesidades de los usuarios (externos e internos).
 
-.
+1.1.b. Muestra exactitud y precisión en trabajos solicitados.
 
-. Factores de Calificación, sólo para Jefaturas:
+1.1.c. Cumple con el programa de trabajo acordado previamente.
 
-.
+1.1.d. Absorbe eficientemente un mayor volumen de trabajo, sin deterioro de la calidad.
 
-3. Factores de Calificación Conductas Transversales Minagri 40%.
+2. Factor Condiciones Personales: Evalúa las aptitudes y actitudes del funcionario, relacionadas con la adquisición y aplicación de conocimientos, grado de autonomía y el modo en que interactúa con los miembros de su entorno laboral. Comprenderá la valoración de los subfactores, dados por los elementos que se detallan a continuación:
 
-Las competencias a evaluar (según estamento) a nivel de todo el sector del agro serán:
+2.1. Aplicación de conocimientos:
 
-a. Orientación a la Eficacia: "Habilidad para gestionar recursos, atendiendo a plazos y calidad, para alcanzar los resultados y objetivos definidos".
+2.1.a. Adquiere y comparte nuevos conocimientos.
 
-.
+2.1.b. Mejora la realización del trabajo asignado.
 
-b. Trabajo en Equipo: "Habilidad para colaborar, desarrollar y aportar a otros en el cumplimiento de objetivos y metas".
+2.2. Flexibilidad:
 
-..
+2.2.a. Se adapta a nuevas formas de trabajo.
 
-#### Artículo 5º
+2.2.b. Tiene habilidad para juzgar y ponderar un problema y tomar una decisión adecuada.
 
-Ponderaciones
+2.3. Relaciones interpersonales:
 
-Deberá multiplicarse el promedio de cada factor para obtener la puntuación respectiva, la cual será única para todos los estamentos del Servicio, entiéndanse estos como: Directivos, Profesionales, Técnicos, Administrativos y Auxiliares, de acuerdo al siguiente cuadro:
+2.3.a. Promueve un clima de trabajo de armonía, comunicación y respeto, cooperando con sus compañeros.
 
-..
+2.3.b. Se incorpora activamente a equipos de trabajo, colaborando en la obtención de los objetivos.
 
-#### Artículo 6º
+2.3.c. Tiene voluntad de servicio con los usuarios de la institución.
 
-El proceso de calificación evaluará Factores y Subfactores, los cuales se señalarán por medio de los siguientes conceptos, que tendrán la siguiente puntuación:
+2.4. Iniciativa y creatividad:
 
-..
+2.4.a. Se anticipa a las circunstancias que se desarrollan en su quehacer y propone soluciones alternativas.
 
-#### Artículo 7º
+2.5. Disposición:
 
-A cada concepto se le asigna una puntuación determinada, representada por números enteros, donde el evaluador deberá marcar en la herramienta de Evaluación del Desempeño cada factor y subfactor con sólo una alternativa.
+2.5.a. Colabora activamente en situaciones imprevistas y/o emergentes.
+
+3. Factor Comportamiento Funcionario: Evalúa la conducta del funcionario en el cumplimiento de sus obligaciones.
+
+Comprenderá la valoración de los subfactores, dados por los elementos que se detallan a continuación:
+
+3.1. Asistencia y puntualidad:
+
+3.1.a. Cumple con la asistencia, horario y lugar requerido para su trabajo.
+
+3.2. Cuidado de los bienes públicos:
+
+3.2.a. Promueve el buen uso de los bienes (muebles e inmuebles) y los utiliza adecuadamente.
+
+3.3. Cumplimiento de reglamentos:
+
+3.3.a. Cumple con los reglamentos y normas de la institución.
+
+4. De Dirección y Gestión: Evalúa aspectos específicos de gestión y obtención de resultados. Comprenderá la valoración de los subfactores, dados por los elementos que se detallan a continuación:
+
+4.1. Gestión:
+
+4.1.a. Planifica, dirige, organiza y evalúa el quehacer institucional para el logro de la misión en el ámbito que le corresponde.
+
+4.2. Liderazgo:
+
+4.2.a. Motiva, comunica y desarrolla trabajo en equipo, aprovechando las capacidades y fortalezas de las personas para el logro de los objetivos institucionales.
+
+4.3. Representación institucional:
+
+4.3.a. Representa eficientemente a la institución en el ámbito que le corresponde.
+
+Artículo Nº 5.- La evaluación de cada uno de los subfactores para efecto de los informes cuatrimestrales y puntaje para la precalificación y calificación, estará dada por los siguientes conceptos:
+
+Concepto Ptje. Descripción
+
+equivalente
+
+MB Muy bueno 5 Observa un desempeño
+
+óptimo y siempre
+
+con aspectos meritorios
+
+de conformidad a lo
+
+requerido.
+
+B Bueno 4 Observa un buen
+
+desempeño con
+
+algunos aspectos
+
+meritorios en
+
+relación a lo
+
+requerido.
+
+S Satisfactorio 3 Observa un desempeño
+
+adecuado
+
+en relación a lo
+
+requerido.
+
+R Regular 2 En variadas
+
+ocasiones su
+
+desempeño es
+
+inferior a lo
+
+requerido
+
+D Deficiente 1 La mayoría de
+
+las veces su
+
+desempeño es
+
+inferior a lo
+
+requerido.
+
+Artículo N° 6º.- El personal será evaluado según las siguientes funciones:
+
+### 1. Funciones Directivas y/o de Gestión
+
+### 2. Funciones Profesionales
+
+### 3. Funciones Técnicas
+
+### 4. Funciones Administrativas
+
+### 5. Funciones Auxiliares y Choferes
+
+Artículo N° 7º.- La ponderación de los factores evaluados, según la función, será la siguiente:
+
+Factor Funciones
+
+1 2 3 4 5
+
+1 Rendimiento 2,5 4,0 4,0 4,0 3,5
+
+2 Condiciones personales 2,5 4,0 4,0 3,0 2,5
+
+3 Comportamiento funcionario 1,5 2,0 2,0 3,0 4,0
+
+4 De dirección y gestión 3,5 0 0 0 0
 
 Del procedimiento y las listas
 
-#### Artículo 8º
+Artículo N° 8º.- Cada subfactor será evaluado en el casillero del concepto correspondiente, según el puntaje de 1 a 5 indicado en el artículo Nº 5 de este reglamento. Luego, para obtener el puntaje por cada factor, se sacará el promedio aritmético de los subfactores asociados a cada factor y este valor será multiplicado por la ponderación por función que se indica en el artículo Nº 7.
 
-Para el cálculo del puntaje final asignado a los factores, se promediará, luego se multiplicará por la constante 10 y, finalmente, se multiplicarán por el porcentaje que se establece para cada uno de ellos.
+El valor obtenido de la suma del resultado anterior será ubicado en el rango de lista que se menciona en el artículo Nº 9.
 
-#### Artículo 9º
+Podrán ser utilizados todos los cálculos con 2 decimales.
 
-Tanto los puntos asignados a los factores como el resultado se expresarán hasta con dos decimales. En todo caso, si el tercer decimal fuera igual o superior a cinco se subirá la nota al decimal siguiente.
+Artículo N° 9º.- Los funcionarios serán ubicados en las listas de calificaciones de acuerdo con el siguiente puntaje:
 
-La asignación de cada nota deberá ser fundada en circunstancias acaecidas durante el respectivo período de calificación.
+Lista Nº 1, de Distinción de 40,01 a 50 puntos
 
-#### Artículo 10º
+Lista Nº 2, Buena, de 26,01 a 40 puntos
 
-Los funcionarios serán ubicados de acuerdo a su puntaje en una de las siguientes listas:
+Lista Nº 3, Condicional de 18,01 a 26 puntos
 
-..
+Lista Nº 4, de Eliminación, de 10 a 18 puntos
+
+Artículo N° 10º.- Se realizará una entrevista de evaluación, la cual será personal e individual con el funcionario, para notificar cada uno de los informes (2) y la precalificación (1). El objetivo es orientar al funcionario acerca de cómo mejorar su desempeño.
 
 ## Título II
 
 De los Instrumentos Auxiliares de Evaluación
 
-#### Artículo 11º
+Artículo N° 11º.- La Junta Calificadora, sin perjuicio del artículo Nº 36 del Estatuto Administrativo, para adoptar sus resoluciones deberá tener en consideración la información vertida en:
 
-El período calificatorio comprenderá doce meses del desempeño del funcionario, partiendo el 1 de septiembre al último día hábil del mes de agosto del año siguiente.".
+. Dos informes de evaluación.
 
-El jefe/a directo, con el fin de cumplir con dicha obligación, deberá emitir un informe parcial de desempeño del personal de su dependencia, el cual abarcará desde el 1 de septiembre al último día hábil de febrero, con el objeto de cumplir con la evaluación respectiva, conservando la debida garantía de los derechos funcionarios.
+Estos informes serán elaborados por el precalificador, el primero deberá abarcar los meses de septiembre a diciembre y realizarse durante el mes de enero. El segundo deberá efectuarse durante el mes de mayo y comprenderá el período de enero a abril.
 
-El informe deberá ser notificado al funcionario evaluado dentro de los quince primeros días de marzo y será incluido en la respectiva hoja de vida.
-
-El/la Jefe/a directo/a será responsable de realizar una entrevista de evaluación con cada uno de sus funcionarios, la que será personal e individual, tendiendo a una orientación recíprocamente beneficiosa para ambas partes, en busca del mejoramiento del desempeño de manera continua.
-
-En el informe de desempeño se dejará constancia de la notificación y toma de conocimiento por parte del funcionario evaluado, debiendo éste, si lo considera oportuno, dejar establecidas, en un plazo no mayor a dos días hábiles, a contar de la fecha de notificación, las observaciones correspondientes a su evaluación del desempeño.
-
-En paralelo, el/la Jefe/a Directo/a fijará las metas y las comunicará a las personas a su cargo, los primeros quince días de marzo.
+Los objetivos de estos informes son orientar al funcionario sobre la evolución de su desempeño y formar parte de los antecedentes que la Junta Calificadora debe tener en consideración para adoptar sus resoluciones.
 
 De la Junta Calificadora y el Representante de los
 
