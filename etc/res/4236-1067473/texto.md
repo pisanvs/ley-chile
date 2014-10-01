@@ -1,0 +1,5 @@
+ORDENAN EXPROPIACIONES DE PARTES DE LOTES QUE INDICA; NOTIFICACIÓN
+
+Por resolución Nº 4.236 de fecha 17/09/2014, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación del Lote Nº 0223-0, inmueble consistente en Lote 8 A-3, resultante de la fusión de la subdivisión de la hijuela Nº 8 del Lote A, lugar Llahuallín, comuna de Padre Las Casas, Rol de Avalúo Nº 2170-26, superficie a expropiar aproximada de 255,20 metros cuadrados, de aparente dominio de Luis Aladino Santander Tralma. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Julio Hernán Rosas Vega, Constructor Civil, fijo monto Indemnización Provisional en $94.497.364.- según Informe Nº 0223-0 de fecha 15/09/2014, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
