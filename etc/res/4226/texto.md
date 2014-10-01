@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIONES DE PARTES DE LOTES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.226 de fecha 17/09/2014, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre las Casas, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 206-0, inmueble Hijuela Nº 1 del Lote C del plano divisorio del predio encabezado por don Colimilla Burgos, ubicado en calle Huichahue Nº 823, del lugar Llahuallín, comuna de Padre las Casas, Rol de Avalúo Nº 3366-359, superficie a expropiar aproximada de 361,55 metros cuadrados, de aparente dominio de sucesión intestada quedada al fallecimiento de Jermán Jara o Germán Jara, formada por sus hijos María Inés, Juan Pablo, Sara del Carmen, Virginia del Carmen, Víctor Manuel, José Reinaldo, Sergio Alejandro, todos Jara Lagos; por Elizabeth Margarita y Lucy Elena, ambas de apellidos Jara Queupumil, y por doña Sara Lagos Zúñiga. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto; Arturo Osvaldo Cantos Oyarzún, Arquitecto y Julio Hernán Rosas Vega, Constructor Civil, fijó monto Indemnización Provisional en $26.174.611, según Informe Nº 206-0/2014 de fecha 15/09/2014, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
