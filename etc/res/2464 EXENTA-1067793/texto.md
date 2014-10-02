@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.464, de 23 de septiembre de 2014, de esta Subsecretaría, recházanse las solicitudes números 210100054 y 210100057, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca. cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y en el artículo 14 del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 23 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
