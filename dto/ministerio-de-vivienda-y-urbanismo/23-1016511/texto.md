@@ -540,8 +540,6 @@ sobre rasantes y distanciamientos establecidos en la Ordenanza General
 
 de Construcciones y Urbanización.
 
-> **Nota.** El numeral 1 del Decreto 7920, Municipalidad de Arauco, publicado 14.12.2018, modifica la presente norma en el sentido de modificar el cuadro de la Zona equipamiento especial D, de la manera que la citada norma indica
-
 #### Artículo 19 A (art. 2)
 
 <!-- parte:9512357 -->
