@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.477, de 23 de septiembre de 2014, de esta Subsecretaría, recházase la solicitud Nº 213121002, presentada por TRUSAL S.A., ubicada en Isla Capitán Aracena, XII Región, en virtud del artículo 14 del DS Nº 290 de 1993, de este Ministerio y publicada íntegramente en la página web www.subpesca.cl.
+
+Valparaíso, 23 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
