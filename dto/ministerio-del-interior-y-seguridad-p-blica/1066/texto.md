@@ -1,0 +1,17 @@
+OTORGA AUTORIZACIÓN ESTABLECIDA POR EL ARTÍCULO 7º DEL DECRETO LEY Nº 1.939, DE 1977, MODIFICADO POR LEY Nº 19.256
+
+Núm. 1.066.- Santiago, 6 de mayo de 2014.- Visto: Lo informado por la Dirección Nacional de Fronteras y Límites del Estado en sus Oficios Reservados R. R. E. E. (Difrol) Nº F - 06 y F-24, de fechas 5 de febrero de 2014 y 25 de abril de 2014, respectivamente, y lo informado por el Estado Mayor de la Defensa Nacional en su oficio Res. Emco Dope (R) Nº 6800 / 603/ 4, de 17 de abril de 2014 y; lo dispuesto por el artículo 32 Nº 6 de la Constitución Política de la República de Chile; en el artículo 7º del decreto ley Nº 1.939, de 1977, modificado por la ley 19.256, que regula la adquisición de derechos sobre inmuebles situados en zonas fronterizas; en el Reglamento para la aplicación de dicho artículo contenido en el decreto supremo Nº 232, de 1994, del Ministerio de Relaciones Exteriores, modificado por el decreto supremo Nº 1.583, de 1994, del mismo Ministerio; en el DFL Nº 4 de 1967, de Relaciones Exteriores; la resolución Nº 1.600, de 2008 de la Contraloría General de la República y la solicitud planteada por doña Nora Allende, de nacionalidad argentina a S.E. el Presidente de la República, mediante la cual recaba autorización para adquirir mediante compra el dominio de un inmueble de una superficie de 7.048 metros cuadrados, sector Valle Las Trancas, Predio Los Petriles, Hijuela Nº 1, Parcela 12, comuna de Pinto, Provincia de Ñuble, Región del Biobío; inscrito a fojas 232 vta. Nº 282 del Registro de Propiedad del Conservador de Bienes Raíces de Chillán del año 2000 y a fojas 7332 vta. Nº 7087 del Registro de Propiedad del Conservador de Bienes Raíces de Chillán año 2013 y considerando que la operación referida tiene como objetivo destinar el inmueble como establecimiento turístico y es plenamente compatible con el interés nacional
+
+Decreto:
+
+#### Artículo primero
+
+Autorízase, según lo dispuesto por el artículo 7º del decreto ley 1.939, de 1977, modificado por la ley 19.256, a doña Nora Allende, nacionalidad argentina, titular del Permiso de Permanencia Definitiva Nº 406.009, otorgado por resolución exenta Nº 9.446 de 2013, del Ministerio del interior y Seguridad Pública y cédula de identidad chilena para extranjeros Nº 23.786.704-1, para adquirir mediante compra, y para sí, un inmueble de una superficie de 7.048 metros cuadrados, sector Valle Las Trancas, Predio Los Petriles, Hijuela Nº 1, Parcela 12, comuna de Pinto, Provincia de Ñuble, Región del Biobío; inscrito a fojas 232 vta. Nº 282 del Registro de Propiedad del Conservador de Bienes Raíces de Chillán del año 2000 y a fojas 7332 vta. Nº 7087 del Registro de Propiedad del Conservador de bienes Raíces de Chillán año 2013.
+
+#### Artículo segundo
+
+Déjase establecido que la autorización para comprar que se otorga por el presente decreto a la persona extranjera antes individualizada, sólo le habilitará para destinar el inmueble a la finalidad que fundamenta la respectiva solicitud.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Rodrigo Peñailillo Briceño, Ministro del Interior y Seguridad Pública.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- Jorge Burgos Varela, Ministro de Defensa Nacional.
+
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Mahmud Aleuy Peña y Lillo, Subsecretario del Interior.
