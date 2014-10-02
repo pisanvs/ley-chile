@@ -498,8 +498,6 @@ sobre rasantes y distanciamientos establecidos en la Ordenanza General
 
 de Construcciones y Urbanización.
 
-> **Nota.** El numeral 1 del Decreto 7920, Municipalidad de Arauco, publicado 14.12.2018, modifica la presente norma en el sentido de modificar el cuadro de la Zona equipamiento especial D, de la manera que la citada norma indica
-
 #### Artículo 19
 
 A.- Para los proyectos que se emplacen en las áreas de riesgo de inundación y de remoción en masa definidas en el Plano MH-02, será exigible las condiciones señaladas en el artículo 2.1.17 de la Ordenanza General de Urbanismo y Construcciones. Cumplida dichas condiciones, las normas urbanísticas serán las establecidas para las zonas respectivas.
