@@ -26,13 +26,15 @@ Resolución:
 
 1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 22 de diciembre ambas fechas inclusive, o hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en sus Títulos II y III, para la reparación de viviendas de familias damnificados por los sismos ocurridos el 1 y 2 de abril de 2014, en las regiones de Tarapacá y de Arica y Parinacota, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 332 (V. y U.), de 2000, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 30 de junio de 2014.
+Primera selección: 30 de junio de 2014
 
-Segunda selección: 29 de agosto de 2014.
+Segunda selección: 29 de agosto de 2014
 
-Tercera selección: 30 de octubre de 2014.
+Tercera selección: 30 de septiembre de 2014
 
-Cuarta selección : 22 de diciembre de 2014.
+Cuarta selección: 30 de octubre de 2014
+
+Quinta selección: 22 de diciembre de 2014
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -165,6 +167,8 @@ Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulan
 9.4. Para las selecciones de este llamado, se aplicarán los factores de puntaje indicados en el artículo 28 del DS Nº 255 (V. y U.), de 2006.
 
 9.5. Los subsidios entregados por este llamado serán compatibles con eventuales futuros beneficios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda. Sin embargo, las personas beneficiadas por este llamado no podrán optar a un subsidio de este Ministerio para obtener o construir viviendas, a excepción de aquellos beneficiados que hayan postulado en calidad de arrendatarios con la autorización del propietario.
+
+El postulante damnificado que tenga un subsidio vigente del Programa de Protección del Patrimonio Familiar podrá postular en este llamado. En caso que las obras del subsidio regular se encuentren iniciadas Serviu deberá evaluar si corresponde ejecutar la obra o paralizarla, hasta la aplicación del subsidio de sismo, en estos casos se podrá considerar como causal de prórroga la paralización de la obra. En el caso de los damnificados que postulan en calidad de arrendatarios y que paralelamente se encuentren postulando a otros Programas Habitacionales de este Ministerio, se permitirá su postulación en el llamado sismo, siempre que el postulante exprese su autorización por escrito .
 
 9.6. En este llamado se encontrarán habilitadas para postular proyectos las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe en que postularán un proyecto, deberán previamente suscribir un addéndum al convenio celebrado con alguna de las Seremi de Vivienda y Urbanismo del país que lo mantenga vigente, en el que se dejará constancia de la habilitación para postular proyectos a este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente, pese a lo cual el Municipio deberá acreditar ante Serviu que cuenta con las capacidades suficientes para otorgar la asistencia técnica a las familias damnificadas.
 
