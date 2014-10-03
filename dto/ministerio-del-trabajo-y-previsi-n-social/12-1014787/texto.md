@@ -46,7 +46,9 @@ Definiciones. Para los efectos del presente Reglamento los siguientes conceptos 
 
 8. Entrega: Acto material que efectúa la Dirección General del Crédito Prendario, poniendo a disposición del adjudicatario el inmueble, una vez que se haya practicado la inscripción en el Conservador de Bienes Raíces respectivo;
 
-9. Escritura de compraventa: Acto solemne, consistente en el otorgamiento en la forma prescrita por la ley de una escritura pública que contiene el contrato de compraventa sobre el inmueble subastado y que debe ser suscrita por el adjudicatario y por el juez que conoce de la ejecución de la sentencia o que ordenó la enajenación temprana;
+9.- Escritura de compraventa.
+
+Acto solemne, consistente en el otorgamiento en la forma prescrita por la ley de una escritura pública que contiene el contrato de compraventa sobre el inmueble subastado y que debe ser suscrita por el adjudicatario y por el Director General del Crédito Prendario o en quien éste delegue dicha facultad en representación del Fisco de Chile.
 
 10. Formulario de Oferta: Formato único en el cual deben presentarse las ofertas;
 
@@ -152,21 +154,25 @@ Obligaciones asociadas al Inmueble. En el evento de que el bien objeto de venta 
 
 #### Artículo 17
 
-Enunciación del adjudicatario, resolución y promesa de compraventa. Finalizada la audiencia de subasta o en el caso del artículo 13 del presente Reglamento, el encargado de la subasta proclamará al adjudicatario. Por su parte, la Dirección General del Crédito Prendario tendrá un plazo de diez días hábiles para emitir la resolución de adjudicación correspondiente, la cual será notificada por carta certificada al adjudicatario.
+Enunciación del adjudicatario, resolución y promesa de compraventa.
 
-Notificado el adjudicatario, tendrá un plazo de cinco días hábiles para consignar el 15% del valor adjudicado mediante vale vista, el cual se imputará al precio total de la compraventa y servirá además para garantizar el cumplimiento de las obligaciones que adquiere en su calidad de adjudicatario.
+Finalizada la audiencia de subasta o en el caso del artículo 13 del presente Reglamento, el encargado de la subasta proclamará al adjudicatario. Por su parte, la Dirección General del Crédito Prendario tendrá un plazo de diez días hábiles para emitir la resolución de adjudicación correspondiente, la cual será notificada por carta certificada al adjudicatario. Esta resolución fijará los plazos, condiciones y lugar de suscripción de la escritura de compraventa.
 
-Para el caso de que por cualquier circunstancia que no sea imputable a dolo o culpa del adjudicatario no sea posible suscribir en un plazo de quince días hábiles, luego de la notificación de la resolución de adjudicación la escritura de compraventa, el Servicio podrá, por resolución fundada a solicitud del interesado, extender este plazo por única vez hasta por quince días hábiles adicionales.
+Notificado el adjudicatario, tendrá un plazo de cinco días hábiles para consignar el 15% del valor adjudicado, mediante vale vista a nombre de la Dirección General del Crédito Prendario, el cual se imputará al precio total de la compraventa. Dicho documento servirá además para garantizar el cumplimiento de las obligaciones que adquiere en su calidad de adjudicatario.
 
-En el caso del inciso anterior, la DICREP se encargará de oficiar al tribunal, siendo el juez que firme el instrumento el encargado de fijar los plazos, condiciones y lugar de la suscripción.
+Para el caso de que por cualquier circunstancia que no sea imputable a dolo o culpa del adjudicatario, no sea posible suscribir la escritura de compraventa en el plazo de quince días hábiles luego de la notificación de la resolución de adjudicación, el Servicio podrá, por resolución fundada y previa solicitud del interesado, extender este plazo por única vez hasta por quince días hábiles adicionales.
 
 #### Artículo 18
 
-Del pago. El pago deberá ser al contado y deberá materializarse por medio de vale vista, transferencia bancaria o depósito en la cuenta corriente de la DICREP. Una vez verificado éste, la Dirección General del Crédito Prendario en un plazo de cinco días hábiles oficiará al tribunal que dispuso el decomiso o enajenación temprana.
+Del pago.
+
+El pago deberá ser al contado y deberá materializarse por medio de vale vista, transferencia bancaria o depósito en la cuenta corriente de la Dirección General del Crédito Prendario.
 
 #### Artículo 19
 
-Escrituración. En ningún caso se oficiará al tribunal antes del pago total del precio y de las deudas asociadas, de haberlas.
+Escrituración.
+
+En ningún caso se suscribirá la escritura de compraventa por parte de la Dirección General del Crédito Prendario antes del pago total del precio y de las deudas asociadas, de haberlas.
 
 #### Artículo 20
 
