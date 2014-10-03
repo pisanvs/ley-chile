@@ -1024,91 +1024,125 @@ fotocopia del RUT.
 
 b) La Aduana deberá:
 
-O Revisar si procede aceptar la solicitud.
+O Revisar si procede aceptar la
 
-Para estos efectos, se deberá tener
+solicitud. Para estos efectos,
 
-presente que mediante una SMDA sólo se
+se deberá tener presente que
 
-pueden corregir errores de tipo formal, es
+mediante una SMDA sólo se pueden
 
-decir, que no incidan en la valoración o en
+corregir errores de tipo formal,
 
-la clasificación de las mercancías, salvo
+es decir, que no incidan en la
+
+valoración o en la clasificación
+
+de las mercancías, salvo
 
 un caso de error manifiesto.
 
-O Verificar la correcta confección de la
+O Verificar la correcta confección
 
-solicitud e ingresar sus datos al sistema
+de la solicitud e ingresar sus
 
-computacional, para la validación
+datos al sistema computacional,
 
-correspondiente. El ingreso de la solicitud
+para la validación
 
-se deberá realizar de acuerdo al
+correspondiente. El ingreso de
 
-procedimiento establecido en el Apéndice Nº
+la solicitud se deberá realizar
 
-1 de este Capítulo.
+de acuerdo al procedimiento
 
-O Una vez que las modificaciones introducidas
+establecido en el Apéndice Nº 1
 
-sean validadas y aprobadas por el sistema
+de este Capítulo.
 
-computacional, éste asignará de manera
+O Una vez que las modificaciones
 
-automática el número de la resolución que
+introducidas sean validadas y
 
-ordena la corrección del documento de pago
+aprobadas por el sistema
 
-en los términos solicitados, el que deberá
+computacional, éste asignará
 
-ser señalado en los ejemplares de la SMDA
+de manera automática el número
 
-por el fiscalizador a cargo de la
+de la resolución que ordena la
 
-modificación.
+corrección del documento de
 
-O Ingresar al sistema electrónico de
+pago en los términos
 
-denuncias, con perfil Funcionario y
+solicitados, el que deberá ser
 
-registrar un formulario denuncia, cuando
+señalado en los ejemplares de
+
+la SMDA por el fiscalizador a
+
+cargo de la modificación.
+
+O Ingresar al sistema electrónico
+
+de denuncias, con perfil
+
+Funcionario y registrar un
+
+formulario denuncia, cuando
 
 corresponda.
 
-O Conservar un ejemplar del documento
+O Conservar un ejemplar del
 
-corregido y archivarlo con la SMDA.
+documento corregido y
 
-O Tratándose de correcciones en el RUT del
+archivarlo con la SMDA.
 
-consignatario, la Aduana deberá enviar a la
+O Tratándose de correcciones
 
-oficina del Servicio de Impuestos Internos
+en el RUT del consignatario,
 
-respectiva, una copia de la declaración de
+la Aduana deberá enviar a
 
-ingreso y de la SMDA, para los fines
+la oficina del Servicio de
 
-pertinentes.
+Impuestos Internos respectiva,
 
-O Al momento de la notificación, entregar al
+una copia de la Declaración
 
-Despachador los ejemplares correspondientes
+de Ingreso y de la SMDA para
 
-del documento corregido y de la SMDA
+los fines pertinentes, y,
 
-aceptada.
+adicionalmente, copia de
 
-Posteriormente, el interesado deberá concurrir
+ambos documentos al Servicio
 
-personalmente a la oficina de la Tesorería de su
+de Tesorería de su respectiva
 
-jurisdicción, presentando copia de la DIN y de la
+jurisdicción.
 
-SMDA para efectuar el desabono y abono respectivo.
+O Al momento de la notificación,
+
+entregar al Despachador los
+
+ejemplares correspondientes del
+
+documento corregido y de la
+
+SMDA aceptada.
+
+El interesado podrá concurrir
+
+personalmente a la oficina de la
+
+Tesorería de su jurisdicción, presentando
+
+copia de la DIN y de la SMDA para efectuar
+
+el desabono y abono respectivo.
 
 2.1.2 Errores que implican modificación en el total
 
@@ -6909,3 +6943,5 @@ El funcionario que emite el formulario de Giro Comprobante de Pago en Pesos F-16
 > **Nota.** El Numeral 2 de la Resolución 3928, Hacienda, publicado el 16.05.2013, modifica la presente norma en el sentido de sustituir las hojas Cap. IV-7 y Cap. IV-8 y agregar la hoja Cap. 8-A.
 
 > **Nota.** NOTA 1 El Numeral 2 de la Resolución 9422 Exenta, Hacienda, publicado 23.09.2013, modifica la presente norma en el sentido de sustituir las hojas Cap. III-1 y Cap. III-2.
+
+> **Nota.** NOTA 2 El Numeral 3 de la Resolución 5271 Exenta, Hacienda, publicado 03.10.2014, modifica la presente norma en el sentido de sustituir las hojas Cap. II - 2.
