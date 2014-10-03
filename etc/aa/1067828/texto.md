@@ -1,0 +1,15 @@
+AUTO ACORDADO DE LA CORTE DE APELACIONES DE CHILLÁN SOBRE DISTRIBUCIÓN DE PROCEDIMIENTOS CONCURSALES CONTEMPLADOS EN LA LEY 20.720
+
+En Chillán, a diez de septiembre de dos mil catorce, se reunió extraordinariamente el Pleno de esta Corte de Apelaciones, bajo la presidencia de su titular Ministro don Darío Silva Gundelach, con la asistencia de los señores Ministros don Guillermo Arcos Salinas, don Christian Hansen Kaulen y don Claudio Arias Córdova.
+
+1º. Que, de conformidad con lo dispuesto en el artículo tercero inciso segundo de la ley número 20.720, que sustituye el régimen concursal vigente por una Ley de reorganización y liquidación de empresas y personas y perfecciona el rol de la Superintendencia del ramo, cuya vigencia se encuentra diferida para el día 10 de octubre del año en curso y las instrucciones impartidas por la Excma. Corte Suprema sobre la materia, esta Corte de Apelaciones debe determinar la forma en que se distribuirán las causas concursales entre los juzgados de letras asiento de Corte de su jurisdicción;
+
+2º. Que, de acuerdo con lo previsto en el citado cuerpo legal, para determinar la forma de distribución de los asuntos concursales entre los juzgados civiles de la jurisdicción que tienen la calidad de asiento de Corte, esto es, el Primer y Segundo Juzgados Civiles, debe tenerse en cuenta la radicación preferente en el que cuente con la capacitación en derecho concursal, en especial sobre las disposiciones de la ley 20.720 y las leyes especiales que rijan en estas materias;
+
+3º. Que la Academia Judicial mediante oficio 192 de 22 de mayo pasado, informó los cursos de capacitación sobre la mencionada ley y, que por acuerdo de su Consejo Directivo aprobó un plan de capacitación para el presente año, dictando dieciséis cursos a lo largo de todo el país, dirigido a jueces y secretarios de los juzgados en que eventualmente pueda recaer el conocimiento de estas materias, capacitación que realizó en el mes de julio último la magistrada del Segundo Juzgado Civil de esta ciudad, encontrándose pendiente la capacitación del secretario de dicho tribunal y del juez y secretario del Primer Juzgado Civil;
+
+4º. Que por lo anterior, se determina que, en tanto no se encuentren capacitados ambos jueces y secretarios de los Juzgados Civiles con asiento en esta ciudad, la competencia para conocer de las causas concursales corresponderá al Segundo Juzgado Civil, servido por la juez doña Claudia Arenas González, tribunal al que se distribuirán dichas causas. Una vez que se encuentren todos capacitados, se incorporará al sistema de distribución automatizado, aleatorio y equitativo de distribución de estos asuntos, lo que será informado en el Diario Oficial con treinta días de antelación.
+
+5º. Este Auto Acordado comenzará a regir a las 00:00 horas del día en que entre en vigencia la ley 20.720.
+
+Carolina Vásquez Epuñan, Secretaria Titular.
