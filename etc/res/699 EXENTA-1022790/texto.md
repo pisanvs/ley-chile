@@ -210,7 +210,7 @@ Además, se podrá pagar hasta tres anticipos contra avance de obras cuando se c
 
 La boleta de garantía entregada para caucionar el primer anticipo sin avance de obras por un 20% o 40%, podrá ser devuelta una vez que se ha acreditado el avance de obras por el 100%. El giro por el anticipo solicitado será descontado proporcionalmente en los avances de obras de 30%, 60%, 90% y 100% respectivamente.
 
-El monto total del subsidio no anticipado se pagará contra certificado del Departamento Técnico del Serviu en que acredite que las obras se encuentran completamente terminadas conforme al proyecto aprobado.
+El monto total del subsidio no anticipado se pagará contra certificado de la Inspección Técnica de Obras en que acredite que las obras se encuentran completamente terminadas conforme al proyecto aprobado y el certificado de Recepción Final emitido por la Dirección de Obras del Municipio correspondiente.
 
 5.7 En los proyectos que se presenten a través de esta modalidad no será exigible el Plan de Habilitación Social, establecido en el Título IX del Capítulo Primero del DS Nº174 (V. y U.), de 2005.
 
