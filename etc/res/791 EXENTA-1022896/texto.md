@@ -144,7 +144,7 @@ La boleta de garantía entregada para caucionar el primer anticipo sin avance de
 
 Para el pago de los anticipos, no será necesario que esté inscrita en el Conservador de Bienes Raíces respectivo la prohibición de enajenar a favor de Serviu señalada en el artículo 53 del DS N° 174 (V. y U.), de 2005.
 
-El monto total del subsidio no anticipado se pagará contra certificado del Departamento Técnico del Serviu que acredite que las obras se encuentran completamente terminadas conforme al proyecto aprobado.
+El monto total del subsidio no anticipado se pagará contra certificado de la Inspección Técnica de obras que acrediten que las obras se encuentran completamente terminadas conforme al proyecto aprobado y el certificado de Recepción Final emitido por la Dirección de Obras del Municipio correspondiente.
 
 Una vez recibidas las obras por SERVIU, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras señalada en el artículo 25 del DS Nº 174 (V. y U.), de 2005. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de dicha recepción, y deberá caucionar, además, la obtención de la recepción definitiva de obras por parte de la Dirección de Obras Municipales, del sello verde de las instalaciones de gas contemplado en la normativa de la Superintendencia de Electricidad y Combustibles, cuando corresponda.
 
