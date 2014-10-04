@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.494, de 26 de septiembre de 2014, de esta Subsecretaría, recházase la solicitud Nº 207031023, presentada por SOCIEDAD COMERCIAL CONTRERAS Y CONTRERAS COMPAÑÍA LIMITADA, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 14 ter y 15 del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 26 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
