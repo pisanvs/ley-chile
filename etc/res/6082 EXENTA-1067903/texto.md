@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.082 EXENTA, DE 2014, QUE MODIFICA NÓMINA DE POSTULANTES SELECCIONADOS A SUBSIDIO HABITACIONAL
+
+Resolución exenta Nº 6.082, de fecha 1 de octubre de 2014, dispone modificación de la nómina de postulantes seleccionados del Primer Llamado Extraordinario 2011 del Sistema Integrado de Subsidio Habitacional, eliminando a don Héctor Fidel Hidalgo Novoa, postulante seleccionado en ese llamado, de la nómina correspondiente a la Región del Biobío, Título I, e incluyéndolo en la nómina correspondiente a la Región de Los Lagos, Título I; rectificando el Certificado de Subsidio Habitacional Serie A-2011 F01-02529, extendido a su favor, señalando como región de aplicación del subsidio la Región de Los Lagos.
+
+Como consecuencia de lo dispuesto en el número anterior, rebájase en uno (1) el número de postulantes seleccionados y en 370 UF el monto de recursos necesarios para financiar el subsidio directo para la atención de los postulantes seleccionados en la Región del Biobío, Título I, en el Primer Llamado Extraordinario 2011 del Sistema Integrado de Subsidio Habitacional, y auméntese en uno (1) el número de postulantes seleccionados y en 370 UF el monto de recursos necesarios para financiar el subsidio directo de dicho postulante, en la Región de Los Lagos, Título I, en el llamado referido.
+
+Como consecuencia de lo anterior, no se modifica el número de postulantes seleccionados, ni el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.
+
+Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
