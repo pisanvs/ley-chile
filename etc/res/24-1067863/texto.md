@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍCIMA CORTE DE APELACIONES DE PUERTO MONTT
+
+Por resolución SII Nº 24, de 18 de agosto de 2014, se designó a doña Lorena Águila Díaz, RUT Nº 9.315.753-2, como Secretaria Titular, y a doña Fernanda Vera Tapia, RUT Nº 15.614.711-7, como Secretaria Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Puerto Montt.
