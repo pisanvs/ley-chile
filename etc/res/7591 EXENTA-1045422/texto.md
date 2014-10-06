@@ -284,29 +284,55 @@ plazo se considerará la fecha y hora
 
 de arribo efectivo de la nave.
 
-4.3 Los plazos establecidos anteriormente no regirán
+4.3 Los plazos establecidos anteriormente
 
-tratándose de la situación señalada en el segundo
+no regirán, tratándose de la situación
 
-### Párrafo d — el numeral 3.2 anterior, así como
+señalada en el segundo párrafo del
 
-tampoco en el caso de cargas embarcadas en
+numeral 3.2 anterior, en cuyo caso los
 
-puertos peruanos con destino a Arica, en
+mensajes de los conocimientos de
 
-particular desde Ilo, en cuyo caso los mensajes
+embarque deberán ser transmitidos a
 
-de los conocimientos de embarque deberán ser
+más tardar, dentro de las 24 horas
 
-transmitidos, a más tardar, dentro de las 24
+corridas siguientes a la recepción
 
-horas corridas siguientes a la recepción efectiva
+efectiva de la nave al puerto. Tampoco
 
-de la nave al puerto. En estos casos se deberá
+regirán tratándose de cargas embarcadas
 
-incorporar en el mensaje del conocimiento de
+en los puertos peruanos de Callao, Ilo
 
-embarque el código de observación 01.
+y Matarani cuando su puerto de
+
+desembarque sea Arica, Iquique o
+
+Antofagasta, o los puertos que dependen
+
+de dichas Aduanas, evento en el cual
+
+los mensajes deberán ser transmitidos
+
+a lo menos, con 24 horas de anticipación
+
+al arribo estimado de la nave,
+
+tratándose de cargas embarcadas en
+
+Callao, o con 10 horas de anticipación,
+
+para cargas embarcadas en Ilo o
+
+Matarani. En todos estos casos, se
+
+deberá incorporar en el mensaje del
+
+conocimiento de embarque el código
+
+de observación 01.
 
 4.4 En los casos de carga consolidada en
 
@@ -844,27 +870,41 @@ respuesta a estas solicitudes a más
 
 tardar, dentro de los dos días hábiles
 
-siguientes a la fecha de su presentación
+siguientes a la fecha de su presentación.
 
-9.5 Las aclaraciones que se soliciten
+Las aclaraciones que se soliciten respecto
 
-respecto de los campos Consignatario,
+de los campos Consignatario, Embarcador,
 
-Embarcador, Cantidad de Bultos, Tipo
+Cantidad de Bultos, Tipo de bultos y
 
-de bultos y peso (en todos sus niveles);
+peso (en todos sus niveles); Cantidad
 
-Cantidad y Descripción de las mercancías
+y Descripción de las mercancías
 
 (en todos sus niveles); Fecha de zarpe,
 
-Transbordo; Sellos, Marcas de los Bultos
+Transbordo; Sellos, Marcas de los
 
-y Emisor del Conocimiento de Embarque,
+Bultos y Emisor del Conocimiento de
 
-quedarán a la espera de la autorización
+Embarque, quedarán a la espera de la
 
-por parte de un funcionario de Aduanas.
+autorización por parte de un
+
+funcionario de Aduanas.
+
+9.5 La solicitud de aclaración de un mensaje de
+
+conocimiento de embarque se deberá presentar a
+
+la Aduana respectiva dentro de los siete días
+
+corridos siguientes a la fecha de zarpe de la
+
+nave. Con posterioridad, estas aclaraciones
+
+estarán sujetas a sanción.
 
 9.6 Estando conformado el manifiesto, el campo
 
@@ -956,27 +996,35 @@ tanto, se deba reemplazar el mensaje de acuerdo
 
 a lo señalado en el numeral 9.2 anterior.
 
-10.3 La anulación de un mensaje de conocimiento de
+10.3 La anulación de un mensaje de conocimiento
 
-embarque, estando conformado el manifiesto,
+de embarque estando conformado el
 
-deberá contar previamente con una aprobación de
+manifiesto, deberá ser solicitada por vía
 
-la Aduana de presentación del manifiesto, y sólo
+electrónica mediante un Mensaje de
 
-cuando ésta la haya autorizado se podrá realizar
+Anulación. Estos mensajes de anulación
 
-la transmisión electrónica de la misma. La Aduana
+quedarán a la espera de una aprobación o
 
-otorgará un número y fecha de aceptación de la
+rechazo por parte de la Aduana de
 
-anulación, los que deberán ser señalados en el
+tramitación del Manifiesto, la que podrá
 
-mensaje de la anulación electrónica que se envíe,
+pedir mayores antecedentes para evaluar
 
-en el recuadro Observaciones del B/L asociado
+la petición, debiendo dar respuesta a estas
 
-al código 09.
+solicitudes dentro de los dos días hábiles
+
+siguientes a la fecha de su presentación,
+
+o de la presentación de los antecedentes
+
+que hubieren sido requeridos, según
+
+corresponda.
 
 10.4 La solicitud de anulación de un mensaje de
 
@@ -988,15 +1036,7 @@ corridos siguientes a la fecha de zarpe de la
 
 nave. Con posterioridad, estas anulaciones
 
-estarán sujetas a sanción. Por su parte, el
-
-mensaje de anulación del conocimiento de
-
-embarque se deberá transmitir a más tardar el
-
-día hábil siguiente a la aceptación de dicha
-
-anulación.
+estarán sujetas a sanción.
 
 10.5 La anulación del mensaje de un conocimiento de
 

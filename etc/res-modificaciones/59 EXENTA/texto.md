@@ -36,9 +36,9 @@ Los datos asociados a estos mensajes deberán ser transmitidos al sistema del Se
 
 "9.4 Dependiendo del campo que se solicita aclarar y del estado de tramitación del documento de transporte, la aclaración podrá ser autorizada en forma automática por el sistema o quedará en espera de aprobación por parte de un funcionario de Aduana, quien podrá pedir mayores antecedentes para evaluar la petición. Las Aduanas deberán dar respuesta a estas solicitudes a más tardar, dentro de los dos días hábiles siguientes a la fecha de su presentación".
 
-1.6 Sustitúyase el numeral 9.5 por el siguiente:
+1.6 Agréguese como segundo párrafo del numeral 9.4 el siguiente:
 
-"9.5 Las aclaraciones que se soliciten respecto de los campos Consignatario, Embarcador, Cantidad de Bultos, Tipo de bultos y peso (en todos sus niveles); Cantidad y Descripción de las mercancías (en todos sus niveles); Fecha de zarpe, Transbordo; Sellos, Marcas de los Bultos y Emisor del Conocimiento de Embarque, quedarán a la espera de la autorización por parte de un funcionario de Aduanas.
+"Las aclaraciones que se soliciten respecto de los campos Consignatario, Embarcador, Cantidad de Bultos, Tipo de bultos y peso (en todos sus niveles); Cantidad y Descripción de las mercancías (en todos sus niveles); Fecha de zarpe, Transbordo; Sellos, Marcas de los Bultos y Emisor del Conocimiento de Embarque, quedarán a la espera de la autorización por parte de un funcionario de Aduanas.
 
 1.7 En el numeral 9.5, elimínase la frase "Por su parte, la aclaración electrónica del conocimiento de embarque se deberá transmitir en forma inmediata o a más tardar el día corrido siguiente a la aceptación de dicha aclaración".
 
