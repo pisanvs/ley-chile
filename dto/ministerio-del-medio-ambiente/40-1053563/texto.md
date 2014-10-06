@@ -142,763 +142,147 @@ Presas, drenajes, desecación, dragado, defensa o alteración, significativos, d
 
 a.1. Presas cuyo muro tenga una altura superior
 
-a cinco metros (5 m) medidos desde el
-
-coronamiento hasta el nivel del terreno
-
-natural, en el plano vertical que pasa por
-
-el eje de éste y que soportará el
-
-embalse de las aguas, o que generen un
-
-embalse con una capacidad superior a
-
-cincuenta mil metros cúbicos (50.000 m3).
+a cinco metros (5 m) medidos desde el coronamiento hasta el nivel del terreno natural, en el plano vertical que pasa por el eje de éste y que soportará el embalse de las aguas, o que generen un embalse con una capacidad superior a cincuenta mil metros cúbicos (50.000 m3).
 
 a.2. Drenaje o desecación de:
 
-a.2.1 Vegas y bofedales ubicados en las Regiones
+a.2.1 Vegas y bofedales ubicados en las Regiones de Arica y Parinacota, Tarapacá y Antofagasta, cualquiera sea su superficie de terreno a recuperar y/o afectar.
 
-de Arica y Parinacota, Tarapacá y
-
-Antofagasta, cualquiera sea su superficie
-
-de terreno a recuperar y/o afectar.
-
-a.2.2 Suelos "ñadis", cuya superficie de terreno
-
-a recuperar y/o afectar sea igual o
-
-superior a doscientas hectáreas (200 ha).
+a.2.2 Suelos "ñadis", cuya superficie de terreno a recuperar y/o afectar sea igual o superior a doscientas hectáreas (200 ha).
 
 a.2.3 Turberas.
 
-a.2.4 Cuerpos naturales de aguas superficiales
+a.2.4 Cuerpos naturales de aguas superficiales tales como lagos, lagunas, pantanos, marismas, vegas, albúferas, humedales o bofedales, exceptuándose los identificados en los literales anteriores, cuya superficie de terreno a recuperar y/o afectar sea igual o superior a diez hectáreas (10 ha), tratándose de las Regiones de Arica y Parinacota a la Región de Coquimbo; o a veinte hectáreas (20 ha), tratándose de las Regiones de Valparaíso a la Región del Maule, incluida la Región Metropolitana de Santiago; o a treinta hectáreas (30 ha), tratándose de las Regiones del Bío Bío a la Región de Magallanes y Antártica Chilena.
 
-tales como lagos, lagunas, pantanos,
+a.3. Dragado de fango, grava, arenas u otros materiales de cuerpos de aguas continentales, en una cantidad igual o superior a veinte mil metros cúbicos (20.000 m³) de material total a extraer y/o a remover, tratándose de las Regiones de Arica y Parinacota a la Región de Atacama, o en una cantidad de cincuenta mil metros cúbicos (50.000 m³) de material total a extraer y/o a remover, tratándose de las Regiones de Coquimbo a la Región de Magallanes y Antártica Chilena, incluida la Región Metropolitana de Santiago. Dragado de fango, grava, arenas u otros materiales de cursos o cuerpos de aguas marítimas, en una cantidad igual o superior a cincuenta mil metros cúbicos (50.000 m³) de material total a extraer y/o a remover.
 
-marismas, vegas, albúferas, humedales o
+Se entenderá por dragado la extracción y/o movimiento de material del lecho de cuerpos y cursos de aguas continentales o marítimas, por medio de cualquier tipo de maquinaria con el objeto de ahondar y/o limpiar.
 
-bofedales, exceptuándose los identificados
+a.4. Defensa o alteración de un cuerpo o curso de aguas continentales, tal que se movilice una cantidad igual o superior a cincuenta mil metros cúbicos de material (50.000 m³), tratándose de las Regiones de Arica y Parinacota a la Región de Coquimbo, o cien mil metros cúbicos (100.000 m³), tratándose de las Regiones de Valparaíso a la Región de Magallanes y Antártica Chilena, incluida la Región Metropolitana de Santiago.
 
-en los literales anteriores, cuya
+Se entenderá por defensa o alteración aquellas obras de regularización o protección de las riberas de estos cuerpos o cursos, o actividades que impliquen un cambio de trazado de su cauce, o la modificación artificial de su sección transversal, todas de modo permanente.
 
-superficie de terreno a recuperar y/o
+La alteración del lecho del curso o cuerpo de agua y de su ribera dentro de la sección que haya sido declarada área preferencial para la pesca recreativa deberá someterse al Sistema de Evaluación de Impacto Ambiental, independiente de la cantidad de material movilizado.
 
-afectar sea igual o superior a diez
-
-hectáreas (10 ha), tratándose de las
-
-Regiones de Arica y Parinacota a la Región
-
-de Coquimbo; o a veinte hectáreas (20 ha),
-
-tratándose de las Regiones de Valparaíso a
-
-la Región del Maule, incluida la Región
-
-Metropolitana de Santiago; o a treinta
-
-hectáreas (30 ha), tratándose de las
-
-Regiones del Bío Bío a la Región de
-
-Magallanes y Antártica Chilena.
-
-a.3. Dragado de fango, grava, arenas u otros
-
-materiales de cuerpos de aguas continentales, en
-
-una cantidad igual o superior a veinte mil metros
-
-cúbicos (20.000 m³) de material total a extraer
-
-y/o a remover, tratándose de las Regiones de
-
-Arica y Parinacota a la Región de Atacama, o en
-
-una cantidad de cincuenta mil metros cúbicos
-
-(50.000 m³) de material total a extraer y/o a
-
-remover, tratándose de las Regiones de Coquimbo a
-
-la Región de Magallanes y Antártica Chilena,
-
-incluida la Región Metropolitana de Santiago.
-
-Dragado de fango, grava, arenas u otros
-
-materiales de cursos o cuerpos de aguas
-
-marítimas, en una cantidad igual o superior a
-
-cincuenta mil metros cúbicos (50.000 m³) de
-
-material total a extraer y/o a remover.
-
-Se entenderá por dragado la extracción y/o
-
-movimiento de material del lecho de cuerpos y
-
-cursos de aguas continentales o marítimas, por
-
-medio de cualquier tipo de maquinaria con el
-
-objeto de ahondar y/o limpiar.
-
-a.4. Defensa o alteración de un cuerpo o curso de
-
-aguas continentales, tal que se movilice una
-
-cantidad igual o superior a cincuenta mil metros
-
-cúbicos de material (50.000 m³), tratándose de
-
-las Regiones de Arica y Parinacota a la Región de
-
-Coquimbo, o cien mil metros cúbicos (100.000 m³),
-
-tratándose de las Regiones de Valparaíso a la
-
-Región de Magallanes y Antártica Chilena,
-
-incluida la Región Metropolitana de Santiago.
-
-Se entenderá por defensa o alteración aquellas
-
-obras de regularización o protección de las
-
-riberas de estos cuerpos o cursos, o actividades
-
-que impliquen un cambio de trazado de su cauce, o
-
-la modificación artificial de su sección
-
-transversal, todas de modo permanente.
-
-La alteración del lecho del curso o cuerpo de
-
-agua y de su ribera dentro de la sección que haya
-
-sido declarada área preferencial para la pesca
-
-recreativa deberá someterse al Sistema de
-
-Evaluación de Impacto Ambiental, independiente de
-
-la cantidad de material movilizado.
-
-a.5. La ejecución de obras o actividades que impliquen
-
-alteración de las características del glaciar.
+a.5. La ejecución de obras o actividades que impliquen alteración de las características del glaciar.
 
 b) Líneas de transmisión eléctrica de alto voltaje y sus subestaciones.
 
-b.1. Se entenderá por líneas de transmisión eléctrica
+b.1. Se entenderá por líneas de transmisión eléctrica de alto voltaje aquellas líneas que conducen energía eléctrica con una tensión mayor a veintitrés kilovoltios (23 kV).
 
-de alto voltaje aquellas líneas que conducen
-
-energía eléctrica con una tensión mayor a
-
-veintitrés kilovoltios (23 kV).
-
-b.2. Se entenderá por subestaciones de líneas de
-
-transmisión eléctrica de alto voltaje aquellas
-
-que se relacionan a una o más líneas de
-
-transporte de energía eléctrica y que tienen por
-
-objeto mantener el voltaje a nivel de transporte.
+b.2. Se entenderá por subestaciones de líneas de transmisión eléctrica de alto voltaje aquellas que se relacionan a una o más líneas de transporte de energía eléctrica y que tienen por objeto mantener el voltaje a nivel de transporte.
 
 c) Centrales generadoras de energía mayores a 3 MW.
 
 d) Reactores y establecimientos nucleares e instalaciones relacionadas.
 
-d.1. Se entenderá por establecimiento nuclear las
+d.1. Se entenderá por establecimiento nuclear las dependencias en las que se procesan, manipulan, utilizan, almacenan, tratan o disponen materiales que contengan nucleídos fisionables en una concentración y purezas tales que, por sí solos o en combinación con otras sustancias, sean capaces de producir un proceso sostenido de fisión nuclear, salvo el uranio natural y el uranio empobrecido.
 
-dependencias en las que se procesan, manipulan,
-
-utilizan, almacenan, tratan o disponen materiales
-
-que contengan nucleídos fisionables en una
-
-concentración y purezas tales que, por sí solos o
-
-en combinación con otras sustancias, sean capaces
-
-de producir un proceso sostenido de fisión
-
-nuclear, salvo el uranio natural y el uranio
-
-empobrecido.
-
-Se entenderá por instalaciones relacionadas, las
-
-instalaciones radiactivas ubicadas dentro de un
+Se entenderá por instalaciones relacionadas, las instalaciones radiactivas ubicadas dentro de un
 
 establecimiento nuclear.
 
 e) Aeropuertos, terminales de buses, camiones y ferrocarriles, vías férreas, estaciones de servicio, autopistas y los caminos públicos que puedan afectar áreas protegidas.
 
-e.1. Se entenderá por aeropuerto el aeródromo público
+e.1. Se entenderá por aeropuerto el aeródromo público que se encuentra habilitado para la salida y llegada de aeronaves en vuelos internacionales.
 
-que se encuentra habilitado para la salida y
+Se entenderá por aeródromo toda área delimitada, terrestre o acuática, habilitada por la autoridad aeronáutica y destinada a la llegada, salida y maniobra de aeronaves en la superficie.
 
-llegada de aeronaves en vuelos internacionales.
+e.2. Se entenderá por terminales de buses aquellos recintos que se destinen para la llegada y salida de buses que prestan servicios de transporte de pasajeros y cuya capacidad sea igual o superior a cincuenta (50) sitios para el estacionamiento de dichos vehículos.
 
-Se entenderá por aeródromo toda área delimitada,
+e.3. Se entenderá por terminales de camiones aquellos recintos que se destinen para el estacionamiento de camiones, que cuenten con infraestructura de almacenaje y transferencia de carga y cuya capacidad sea igual o superior a cincuenta (50) sitios para el estacionamiento de vehículos medianos y/o pesados.
 
-terrestre o acuática, habilitada por la autoridad
+e.4. Se entenderá por terminales de ferrocarriles aquellos recintos que se destinen para el inicio y finalización de una o más vías férreas de trenes urbanos, interurbanos y/o subterráneos.
 
-aeronáutica y destinada a la llegada, salida y
+e.5. Se entenderá por vía férrea aquella línea de rieles que se habilite para el desplazamiento de trenes urbanos e interurbanos y las estaciones para embarque y desembarque de pasajeros o de carga. Se exceptuarán las vías o líneas férreas al interior de faenas industriales o mineras.
 
-maniobra de aeronaves en la superficie.
+e.6. Se entenderá por estaciones de servicio los locales destinados al expendio de combustibles líquidos o gaseosos para vehículos motorizados u otros usos, sea que presten o no otro tipo de servicios, cuya capacidad de almacenamiento sea igual o superior a doscientos mil litros (200.000 L).
 
-e.2. Se entenderá por terminales de buses aquellos
+e.7. Se entenderá por autopistas a las vías diseñadas con dos o más pistas unidireccionales por calzada separadas físicamente por una mediana, diseñadas para una velocidad de circulación igual o superior a ciento veinte kilómetros por hora (120 km/h), con prioridad absoluta al tránsito, con control total de los accesos, segregadas físicamente de su entorno y que se conectan a otras vías a través de enlaces.
 
-recintos que se destinen para la llegada y salida
-
-de buses que prestan servicios de transporte de
-
-pasajeros y cuya capacidad sea igual o superior a
-
-cincuenta (50) sitios para el estacionamiento de
-
-dichos vehículos.
-
-e.3. Se entenderá por terminales de camiones aquellos
-
-recintos que se destinen para el estacionamiento
-
-de camiones, que cuenten con infraestructura de
-
-almacenaje y transferencia de carga y cuya
-
-capacidad sea igual o superior a cincuenta (50)
-
-sitios para el estacionamiento de vehículos
-
-medianos y/o pesados.
-
-e.4. Se entenderá por terminales de ferrocarriles
-
-aquellos recintos que se destinen para el inicio
-
-y finalización de una o más vías férreas de
-
-trenes urbanos, interurbanos y/o subterráneos.
-
-e.5. Se entenderá por vía férrea aquella línea de
-
-rieles que se habilite para el desplazamiento de
-
-trenes urbanos e interurbanos y las estaciones
-
-para embarque y desembarque de pasajeros o de
-
-carga. Se exceptuarán las vías o líneas férreas
-
-al interior de faenas industriales o mineras.
-
-e.6. Se entenderá por estaciones de servicio los
-
-locales destinados al expendio de combustibles
-
-líquidos o gaseosos para vehículos motorizados u
-
-otros usos, sea que presten o no otro tipo de
-
-servicios, cuya capacidad de almacenamiento sea
-
-igual o superior a doscientos mil litros (200.000
-
-L).
-
-e.7. Se entenderá por autopistas a las vías diseñadas
-
-con dos o más pistas unidireccionales por calzada
-
-separadas físicamente por una mediana, diseñadas
-
-para una velocidad de circulación igual o
-
-superior a ciento veinte kilómetros por hora (120
-
-km/h), con prioridad absoluta al tránsito, con
-
-control total de los accesos, segregadas
-
-físicamente de su entorno y que se conectan a
-
-otras vías a través de enlaces.
-
-e.8. Se entenderá que los caminos públicos pueden
-
-afectar áreas protegidas, cuando se localicen en
-
-las áreas definidas en el inciso quinto del
-
-#### Artículo 8
-
-de este Reglamento.
+e.8. Se entenderá que los caminos públicos pueden afectar áreas protegidas, cuando se localicen en las áreas definidas en el inciso quinto del artículo 8 de este Reglamento.
 
 f) Puertos, vías de navegación, astilleros y terminales marítimos.
 
-f.1. Se entenderá por puerto al conjunto de espacios
+f.1. Se entenderá por puerto al conjunto de espacios terrestres, infraestructura e instalaciones, así como aquellas áreas marítimas, fluviales o lacustres de entrada, salida, atraque, desatraque y permanencia de naves mayores, todos ellos destinados a la prestación de servicios para la actividad comercial y/o productiva, excluyendo aquellos cuyo fin sea únicamente la conectividad interna del territorio.
 
-terrestres, infraestructura e instalaciones, así
+f.2. Se entenderá por vías de navegación aquellas vías marítimas, fluviales o lacustres, que se construyan para los efectos de uso de navegación para cualquier propósito. Asimismo, se entenderán comprendidos aquellos cursos o cuerpos naturales de agua que se acondicionen hasta alcanzar las características de uso de navegación.
 
-como aquellas áreas marítimas, fluviales o
+f.3. Se entenderá por astilleros aquellos sitios o lugares con instalaciones apropiadas y características, donde se construyen o reparan naves o embarcaciones, excluyéndose los varaderos, hangares o diques flotantes.
 
-lacustres de entrada, salida, atraque, desatraque
-
-y permanencia de naves mayores, todos ellos
-
-destinados a la prestación de servicios para la
-
-actividad comercial y/o productiva, excluyendo
-
-aquellos cuyo fin sea únicamente la conectividad
-
-interna del territorio.
-
-f.2. Se entenderá por vías de navegación aquellas vías
-
-marítimas, fluviales o lacustres, que se
-
-construyan para los efectos de uso de navegación
-
-para cualquier propósito. Asimismo, se entenderán
-
-comprendidos aquellos cursos o cuerpos naturales
-
-de agua que se acondicionen hasta alcanzar las
-
-características de uso de navegación.
-
-f.3. Se entenderá por astilleros aquellos sitios o
-
-lugares con instalaciones apropiadas y
-
-características, donde se construyen o reparan
-
-naves o embarcaciones, excluyéndose los
-
-varaderos, hangares o diques flotantes.
-
-f.4. Se entenderá por terminal marítimo al fondeadero
-
-para buques tanques, que cuenta con instalaciones
-
-apropiadas consistentes en cañerías conductoras
-
-destinadas a la carga o descarga de combustibles,
-
-mezclas oleosas o productos líquidos.
+f.4. Se entenderá por terminal marítimo al fondeadero para buques tanques, que cuenta con instalaciones apropiadas consistentes en cañerías conductoras destinadas a la carga o descarga de combustibles, mezclas oleosas o productos líquidos.
 
 g) Proyectos de desarrollo urbano o turístico, en zonas no comprendidas en alguno de los planes evaluados estratégicamente de conformidad a lo establecido en el párrafo 1º bis del Título II de la Ley. Se entenderá por planes a los instrumentos de planificación territorial.
 
-g.1. Se entenderá por proyectos de desarrollo urbano
+g.1. Se entenderá por proyectos de desarrollo urbano aquellos que contemplen obras de edificación y/o urbanización cuyo destino sea habitacional, industrial y/o de equipamiento, de acuerdo a las siguientes especificaciones:
 
-aquellos que contemplen obras de edificación y/o
+g.1.1. Conjuntos habitacionales con una cantidad igual o superior a ochenta (80) viviendas o, tratándose de vivienda social, vivienda progresiva o infraestructura sanitaria, a ciento sesenta (160) viviendas.
 
-urbanización cuyo destino sea habitacional,
+g.1.2. Proyectos de equipamiento que correspondan a predios y/o edificios destinados en forma permanente a salud, educación, seguridad, culto, deporte, esparcimiento, cultura, comercio, servicios, fines científicos o sociales y que contemplen al menos una de las siguientes características:
 
-industrial y/o de equipamiento, de acuerdo a las
+a) superficie construida igual o mayor a cinco mil metros cuadrados (5.000 m²);
 
-siguientes especificaciones:
+b) superficie predial igual o mayor a veinte mil metros cuadrados (20.000 m²);
 
-g.1.1. Conjuntos habitacionales con una cantidad
+c) capacidad de atención, afluencia o permanencia simultánea igual o mayor a ochocientas (800) personas;
 
-igual o superior a ochenta (80) viviendas
+d) doscientos (200) o más sitios para el estacionamiento de vehículos.
 
-o, tratándose de vivienda social, vivienda
+g.1.3. Urbanizaciones y/o loteos con destino industrial de una superficie igual o mayor a treinta mil metros cuadrados (30.000 m²).
 
-progresiva o infraestructura sanitaria, a
+g.2. Se entenderá por proyectos de desarrollo turístico aquellos que contemplen obras de edificación y urbanización destinados en forma permanente al hospedaje y/o equipamiento para fines turísticos, tales como centros para alojamiento turístico; campamentos de turismo o campings; sitios que se habiliten en forma permanente para atracar y/o guardar naves especiales empleadas para recreación; centros y/o canchas de esquí, playas, centros de aguas termales u otros, que contemplen al menos una de las siguientes características:
 
-ciento sesenta (160) viviendas.
+a) superficie construida igual o mayor a cinco mil metros cuadrados (5.000 m²);
 
-g.1.2. Proyectos de equipamiento que correspondan
+b) superficie predial igual o mayor a quince mil metros cuadrados (15.000 m²);
 
-a predios y/o edificios destinados en
-
-forma permanente a salud, educación,
-
-seguridad, culto, deporte, esparcimiento,
-
-cultura, comercio, servicios, fines
-
-científicos o sociales y que contemplen al
-
-menos una de las siguientes
-
-características:
-
-a) superficie construida igual o mayor a
-
-cinco mil metros cuadrados (5.000
-
-m²);
-
-b) superficie predial igual o mayor a
-
-veinte mil metros cuadrados (20.000
-
-m²);
-
-c) capacidad de atención, afluencia o
-
-permanencia simultánea igual o mayor
-
-a ochocientas (800) personas;
-
-d) doscientos (200) o más sitios para el
-
-estacionamiento de vehículos.
-
-g.1.3. Urbanizaciones y/o loteos con destino
-
-industrial de una superficie igual o mayor
-
-a treinta mil metros cuadrados (30.000
-
-m²).
-
-g.2. Se entenderá por proyectos de desarrollo
-
-turístico aquellos que contemplen obras de
-
-edificación y urbanización destinados en forma
-
-permanente al hospedaje y/o equipamiento para
-
-fines turísticos, tales como centros para
-
-alojamiento turístico; campamentos de turismo o
-
-campings; sitios que se habiliten en forma
-
-permanente para atracar y/o guardar naves
-
-especiales empleadas para recreación; centros y/o
-
-canchas de esquí, playas, centros de aguas
-
-termales u otros, que contemplen al menos una de
-
-las siguientes características:
-
-a) superficie construida igual o mayor a cinco
-
-mil metros cuadrados (5.000 m²);
-
-b) superficie predial igual o mayor a quince
-
-mil metros cuadrados (15.000 m²);
-
-c) capacidad de atención, afluencia o
-
-permanencia simultánea igual o mayor a
+c) capacidad de atención, afluencia o permanencia simultánea igual o mayor a
 
 trescientas (300) personas;
 
-d) cien (100) o más sitios para el
+d) cien (100) o más sitios para el estacionamiento de vehículos;
 
-estacionamiento de vehículos;
+e) capacidad igual o superior a cien (100) camas;
 
-e) capacidad igual o superior a cien (100)
+f) doscientos (200) o más sitios para acampar; o
 
-camas;
-
-f) doscientos (200) o más sitios para acampar;
-
-o
-
-g) capacidad para un número igual o superior a
-
-cincuenta (50) naves.
+g) capacidad para un número igual o superior a cincuenta (50) naves.
 
 h) Proyectos industriales o inmobiliarios que se ejecuten en zonas declaradas latentes o saturadas.
 
-h.1. Se entenderá por proyectos inmobiliarios aquellos
+h.1. Se entenderá por proyectos inmobiliarios aquellos loteos o conjuntos de viviendas que contemplen obras de edificación y/o urbanización, así como los proyectos destinados a equipamiento, y que presenten alguna de las siguientes características:
 
-loteos o conjuntos de viviendas que contemplen
+h.1.1. Que se emplacen en áreas de extensión urbana o en área rural, de acuerdo al instrumento de planificación correspondiente y requieran de sistemas propios de producción y distribución de agua potable y/o de recolección, tratamiento y disposición de aguas servidas;
 
-obras de edificación y/o urbanización, así como
+h.1.2. Que den lugar a la incorporación al dominio nacional de uso público de vías expresas o troncales;
 
-los proyectos destinados a equipamiento, y que
+h.1.3. Que se emplacen en una superficie igual o superior a siete hectáreas (7 ha) o consulten la construcción de trescientas (300) o más viviendas; o
 
-presenten alguna de las siguientes
+h.1.4. Que consulten la construcción de edificios de uso público con una capacidad para cinco mil (5.000) o más personas o con mil (1.000) o más estacionamientos.
 
-características:
-
-h.1.1. Que se emplacen en áreas de extensión
-
-urbana o en área rural, de acuerdo al
-
-instrumento de planificación
-
-correspondiente y requieran de sistemas
-
-propios de producción y distribución de
-
-agua potable y/o de recolección,
-
-tratamiento y disposición de aguas
-
-servidas;
-
-h.1.2. Que den lugar a la incorporación al
-
-dominio nacional de uso público de vías
-
-expresas o troncales;
-
-h.1.3. Que se emplacen en una superficie igual o
-
-superior a siete hectáreas (7 ha) o
-
-consulten la construcción de trescientas
-
-(300) o más viviendas; o
-
-h.1.4. Que consulten la construcción de edificios
-
-de uso público con una capacidad para
-
-cinco mil (5.000) o más personas o con mil
-
-(1.000) o más estacionamientos.
-
-Se exceptuarán dichos proyectos de su
-
-ingreso al Sistema de Evaluación de
-
-Impacto Ambiental en aquellas zonas
-
-declaradas latentes o saturadas, que
-
-cuenten con un Plan de Prevención o
-
-Descontaminación vigente, dictado de
-
-acuerdo al artículo 44 de la Ley y se
-
-permita el desarrollo de proyectos
-
-inmobiliarios en un Instrumento de
-
-Planificación Territorial aprobado
-
-ambientalmente conforme a la Ley.
-
-h.2. Se entenderá por proyectos industriales aquellas
-
-urbanizaciones y/o loteos con destino industrial
-
-de una superficie igual o mayor a veinte
-
-hectáreas (20 ha); o aquellas instalaciones
-
-industriales que generen una emisión diaria
-
-esperada de algún contaminante causante de la
-
-saturación o latencia de la zona, producido o
-
-generado por alguna(s) fuente(s) del proyecto o
-
-actividad, igual o superior al cinco por ciento
-
-(5%) de la emisión diaria total estimada de ese
-
-contaminante en la zona declarada latente o
-
-saturada, para ese tipo de fuente(s).
+h.2. Se entenderá por proyectos industriales aquellas urbanizaciones y/o loteos con destino industrial de una superficie igual o mayor a veinte hectáreas (20 ha); o aquellas instalaciones industriales que generen una emisión diaria esperada de algún contaminante causante de la saturación o latencia de la zona, producido o generado por alguna(s) fuente(s) del proyecto o actividad, igual o superior al cinco por ciento (5%) de la emisión diaria total estimada de ese contaminante en la zona declarada latente o saturada, para ese tipo de fuente(s).
 
 i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas, comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos, turba o greda.
 
-i.1. Se entenderá por proyectos de desarrollo minero
+i.1. Se entenderá por proyectos de desarrollo minero aquellas acciones u obras cuyo fin es la extracción o beneficio de uno o más yacimientos mineros y cuya capacidad de extracción de mineral es superior a cinco mil toneladas mensuales (5.000 t/mes).
 
-aquellas acciones u obras cuyo fin es la
+i.2. Se entenderá por prospecciones al conjunto de obras y acciones a desarrollarse con posterioridad a las exploraciones mineras, conducentes a minimizar las incertidumbres geológicas, asociadas a las concentraciones de sustancias minerales de un proyecto de desarrollo minero, necesarias para la caracterización requerida y con el fin de establecer los planes mineros en los cuales se base la explotación programada de un yacimiento, que consideren cuarenta (40) o más plataformas, incluyendo sus respectivos sondajes, tratándose de las Regiones de Arica y Parinacota a la Región de Coquimbo, o veinte (20) o más plataformas, incluyendo sus respectivos sondajes, tratándose de las Regiones de Valparaíso a la Región de Magallanes y Antártica Chilena, incluida la Región Metropolitana de Santiago.
 
-extracción o beneficio de uno o más yacimientos
+Se entenderá por exploraciones al conjunto de obras y acciones conducentes al descubrimiento, caracterización, delimitación y estimación del potencial de una concentración de sustancias minerales, que eventualmente pudieren dar origen a un proyecto de desarrollo minero, que consideren menos plataformas que las indicadas en el inciso anterior, según las regiones respectivas.
 
-mineros y cuya capacidad de extracción de mineral
+i.3. Se entenderá por proyectos de disposición de residuos y estériles aquellos en que se dispongan residuos masivos mineros resultantes de la extracción o beneficio, tales como estériles, minerales de baja ley, residuos de minerales tratados por lixiviación, relaves, escorias y otros equivalentes, que provengan de uno o más proyectos de desarrollo minero que por sí mismos o en su conjunto tengan una capacidad de extracción considerada en la letra i.1. anterior.
 
-es superior a cinco mil toneladas mensuales
+i.4. Se entenderá por proyecto de desarrollo minero correspondientes a petróleo y gas, aquellas acciones u obras cuyo fin es la explotación de yacimientos, comprendiendo las actividades posteriores a la perforación del primer pozo exploratorio y la instalación de plantas procesadoras.
 
-(5.000 t/mes).
+i.5. Se entenderá que los proyectos o actividades de extracción de áridos o greda son de dimensiones industriales cuando:
 
-i.2. Se entenderá por prospecciones al conjunto de
+i.5.1 Tratándose de extracciones en pozos o canteras, la extracción de áridos y/o greda sea igual o superior a diez mil metros cúbicos mensuales (10.000 m³/mes), o a cien mil metros cúbicos (100.000 m³) totales de material removido durante la vida útil del proyecto o actividad, o abarca una superficie total igual o mayor a cinco hectáreas (5 ha);
 
-obras y acciones a desarrollarse con
+i.5.2 Tratándose de extracciones en un cuerpo o curso de agua, el volumen total de material a remover durante la vida útil del proyecto o actividad sea igual o superior a veinte mil metros cúbicos (20.000 m³) tratándose de las Regiones de Arica y Parinacota a Coquimbo, o a cincuenta mil metros cúbicos (50.000 m³), tratándose de las Regiones de Valparaíso a Magallanes y Antártica Chilena, incluida la Región Metropolitana de Santiago;
 
-posterioridad a las exploraciones mineras,
+i.5.3 Tratándose de extracciones de arena en playa, entendiéndose por ésta aquella porción de territorio comprendida entre la línea de baja y alta marea, la extracción sea igual o superior a cincuenta mil metros cúbicos (50.000 m3) durante la vida útil del proyecto.
 
-conducentes a minimizar las incertidumbres
-
-geológicas, asociadas a las concentraciones de
-
-sustancias minerales de un proyecto de desarrollo
-
-minero, necesarias para la caracterización
-
-requerida y con el fin de establecer los planes
-
-mineros en los cuales se base la explotación
-
-programada de un yacimiento, que consideren
-
-cuarenta (40) o más plataformas, incluyendo sus
-
-respectivos sondajes, tratándose de las Regiones
-
-de Arica y Parinacota a la Región de Coquimbo, o
-
-veinte (20) o más plataformas, incluyendo sus
-
-respectivos sondajes, tratándose de las Regiones
-
-de Valparaíso a la Región de Magallanes y
-
-Antártica Chilena, incluida la Región
-
-Metropolitana de Santiago.
-
-Se entenderá por exploraciones al conjunto de
-
-obras y acciones conducentes al descubrimiento,
-
-caracterización, delimitación y estimación del
-
-potencial de una concentración de sustancias
-
-minerales, que eventualmente pudieren dar origen
-
-a un proyecto de desarrollo minero, que
-
-consideren menos plataformas que las indicadas en
-
-el inciso anterior, según las regiones
-
-respectivas.
-
-i.3. Se entenderá por proyectos de disposición de
-
-residuos y estériles aquellos en que se dispongan
-
-residuos masivos mineros resultantes de la
-
-extracción o beneficio, tales como estériles,
-
-minerales de baja ley, residuos de minerales
-
-tratados por lixiviación, relaves, escorias y
-
-otros equivalentes, que provengan de uno o más
-
-proyectos de desarrollo minero que por sí mismos
-
-o en su conjunto tengan una capacidad de
-
-extracción considerada en la letra i.1. anterior.
-
-i.4. Se entenderá por proyecto de desarrollo minero
-
-correspondientes a petróleo y gas, aquellas
-
-acciones u obras cuyo fin es la explotación de
-
-yacimientos, comprendiendo las actividades
-
-posteriores a la perforación del primer pozo
-
-exploratorio y la instalación de plantas
-
-procesadoras.
-
-i.5. Se entenderá que los proyectos o actividades de
-
-extracción de áridos o greda son de dimensiones
-
-industriales cuando:
-
-i.5.1 Tratándose de extracciones en pozos o
-
-canteras, la extracción de áridos y/o greda
-
-sea igual o superior a diez mil metros
-
-cúbicos mensuales (10.000 m³/mes), o a cien
-
-mil metros cúbicos (100.000 m³) totales de
-
-material removido durante la vida útil del
-
-proyecto o actividad, o abarca una
-
-superficie total igual o mayor a cinco
-
-hectáreas (5 ha);
-
-i.5.2 Tratándose de extracciones en un cuerpo o
-
-curso de agua, el volumen total de material
-
-a remover durante la vida útil del proyecto
-
-o actividad sea igual o superior a veinte
-
-mil metros cúbicos (20.000 m³) tratándose
-
-de las Regiones de Arica y Parinacota a
-
-Coquimbo, o a cincuenta mil metros cúbicos
-
-(50.000 m³), tratándose de las Regiones de
-
-Valparaíso a Magallanes y Antártica
-
-Chilena, incluida la Región Metropolitana
-
-de Santiago;
-
-i.5.3 Tratándose de extracciones de arena en
-
-playa, entendiéndose por ésta aquella
-
-porción de territorio comprendida entre la
-
-línea de baja y alta marea, la extracción
-
-sea igual o superior a cincuenta mil metros
-
-cúbicos (50.000 m3) durante la vida útil
-
-del proyecto.
-
-i.6. Se entenderá que toda extracción de turba tiene
-
-características industriales. Se entenderá por
-
-turba aquella mezcla de restos vegetales en
-
-distintos grados de descomposición, presentes en
-
-las turberas y que se diferencia de los vegetales
-
-que se encuentran en su superficie dentro de los
-
-cuales se incluye, entre otros, al musgo
-
-sphagnum, y con los que se conecta
-
-funcionalmente.
+i.6. Se entenderá que toda extracción de turba tiene características industriales. Se entenderá por turba aquella mezcla de restos vegetales en distintos grados de descomposición, presentes en las turberas y que se diferencia de los vegetales que se encuentran en su superficie dentro de los cuales se incluye, entre otros, al musgo sphagnum, y con los que se conecta funcionalmente.
 
 j) Oleoductos, gasoductos, ductos mineros u otros análogos.
 
@@ -908,131 +292,31 @@ Se exceptúan las redes de distribución y aquellos ductos destinados al transpo
 
 k) Instalaciones fabriles, tales como metalúrgicas, químicas, textiles, productoras de materiales para la construcción, de equipos y productos metálicos y curtiembres, de dimensiones industriales. Se entenderá que estos proyectos o actividades son de dimensiones industriales cuando se trate de:
 
-k.1. Instalaciones fabriles cuya potencia instalada
+k.1. Instalaciones fabriles cuya potencia instalada sea igual o superior a dos mil kilovoltios-ampere (2.000 KVA), determinada por la suma de las capacidades de los transformadores de un establecimiento industrial.
 
-sea igual o superior a dos mil kilovoltios-ampere
+Tratándose de instalaciones fabriles en que se utilice más de un tipo de energía y/o combustibles, el límite de dos mil kilovoltios-ampere (2.000 KVA) considerará la suma equivalente de los distintos tipos de energía y/o combustibles utilizados.
 
-(2.000 KVA), determinada por la suma de las
+Aquellas instalaciones fabriles que, cumpliendo con los criterios anteriores, se emplacen en loteos o uso de suelo industrial, definido a través de un instrumento de planificación territorial que haya sido aprobado ambientalmente conforme a la Ley, sólo deberá ingresar al SEIA si cumple con el criterio indicado en el numeral h.2 de este mismo artículo.
 
-capacidades de los transformadores de un
-
-establecimiento industrial.
-
-Tratándose de instalaciones fabriles en que se
-
-utilice más de un tipo de energía y/o
-
-combustibles, el límite de dos mil kilovoltios-
-
-ampere (2.000 KVA) considerará la suma
-
-equivalente de los distintos tipos de energía y/o
-
-combustibles utilizados.
-
-Aquellas instalaciones fabriles que, cumpliendo
-
-con los criterios anteriores, se emplacen en
-
-loteos o uso de suelo industrial, definido a
-
-través de un instrumento de planificación
-
-territorial que haya sido aprobado ambientalmente
-
-conforme a la Ley, sólo deberá ingresar al SEIA
-
-si cumple con el criterio indicado en el numeral
-
-h.2 de este mismo artículo.
-
-k.2. Instalaciones fabriles correspondientes a
-
-curtiembres cuya capacidad de producción
-
-corresponda a una cantidad igual o superior a
-
-treinta metros cuadrados diarios (30 m²/día) de
-
-materia prima de cueros.
+k.2. Instalaciones fabriles correspondientes a curtiembres cuya capacidad de producción corresponda a una cantidad igual o superior a treinta metros cuadrados diarios (30 m²/día) de materia prima de cueros.
 
 l) Agroindustrias, mataderos, planteles y establos de crianza, lechería y engorda de animales, de dimensiones industriales. Se entenderá que estos proyectos o actividades son de dimensiones industriales cuando se trate de:
 
-l.1. Agroindustrias donde se realicen labores u
+l.1. Agroindustrias donde se realicen labores u operaciones de limpieza, clasificación de productos según tamaño y calidad, tratamiento de deshidratación, congelamiento, empacamiento, transformación biológica, física o química de productos agrícolas, y que tengan capacidad para generar una cantidad total de residuos sólidos igual o superior a ocho toneladas por día (8 t/día) en algún día de la fase de operación del proyecto; o agroindustrias que reúnan los requisitos señalados en los literales h.2. o k.1., según corresponda, ambos del presente artículo
 
-operaciones de limpieza, clasificación de
+l.2. Mataderos con capacidad para faenar animales en una tasa total final igual o superior a quinientas toneladas mensuales (500 t/mes), medidas como canales de animales faenados; o mataderos que reúnan los requisitos señalados en los literales h.2. o k.1., según corresponda, ambos del presente artículo.
 
-productos según tamaño y calidad, tratamiento de
+l.3. Planteles y establos de crianza, lechería y/o engorda de animales, donde puedan ser mantenidos en confinamiento en patios de alimentación, por más de un mes continuado, un número igual o superior a:
 
-deshidratación, congelamiento, empacamiento,
+l.3.1 Trescientas (300) unidades animal de ganado bovino de carne;
 
-transformación biológica, física o química de
+l.3.2 Doscientas (200) unidades animal de ganado bovino de leche;
 
-productos agrícolas, y que tengan capacidad para
+l.3.3 Tres mil (3.000) animales porcinos menores de veinticinco kilos (25 kg) o setecientos cincuenta (750) animales porcinos mayores de veinticinco kilos (25 kg); o
 
-generar una cantidad total de residuos igual o
+l.3.4 Dos mil quinientas (2.500) unidades animal de ganado ovino o caprino.
 
-superior a ocho toneladas por día (8 t/día) en
-
-algún día de la fase de operación del proyecto; o
-
-agroindustrias que reúnan los requisitos
-
-señalados en los literales h.2. o k.1., según
-
-corresponda, ambos del presente artículo.
-
-l.2. Mataderos con capacidad para faenar animales en
-
-una tasa total final igual o superior a
-
-quinientas toneladas mensuales (500 t/mes),
-
-medidas como canales de animales faenados; o
-
-mataderos que reúnan los requisitos señalados en
-
-los literales h.2. o k.1., según corresponda,
-
-ambos del presente artículo.
-
-l.3. Planteles y establos de crianza, lechería y/o
-
-engorda de animales, donde puedan ser mantenidos
-
-en confinamiento en patios de alimentación, por
-
-más de un mes continuado, un número igual o
-
-superior a:
-
-l.3.1 Trescientas (300) unidades animal de ganado
-
-bovino de carne;
-
-l.3.2 Doscientas (200) unidades animal de ganado
-
-bovino de leche;
-
-l.3.3 Tres mil (3.000) animales porcinos menores
-
-de veinticinco kilos (25 kg) o setecientos
-
-cincuenta (750) animales porcinos mayores
-
-de veinticinco kilos (25 kg); o
-
-l.3.4 Dos mil quinientas (2.500) unidades animal
-
-de ganado ovino o caprino.
-
-l.4. Planteles y establos de crianza, engorda, postura
-
-y/o reproducción de animales avícolas con
-
-capacidad para alojar diariamente una cantidad
-
-igual o superior a:
+l.4. Planteles y establos de crianza, engorda, postura y/o reproducción de animales avícolas con capacidad para alojar diariamente una cantidad igual o superior a:
 
 l.4.1. Ochenta y cinco mil (85.000) pollos;
 
@@ -1040,21 +324,9 @@ l.4.2. Sesenta mil (60.000) gallinas;
 
 l.4.3. Dieciséis mil quinientos (16.500) pavos; o
 
-l.4.4. Una cantidad equivalente en peso vivo
+l.4.4. Una cantidad equivalente en peso vivo igual o superior a ciento cincuenta toneladas (150 t) de otras aves.
 
-igual o superior a ciento cincuenta
-
-toneladas (150 t) de otras aves.
-
-l.5. Planteles y establos de crianza, lechería y/o
-
-engorda de otros animales, con capacidad para
-
-alojar diariamente una cantidad equivalente en
-
-peso vivo igual o superior a cincuenta toneladas
-
-(50 t).
+l.5. Planteles y establos de crianza, lechería y/o engorda de otros animales, con capacidad para alojar diariamente una cantidad equivalente en peso vivo igual o superior a cincuenta toneladas (50 t).
 
 m) Proyectos de desarrollo o explotación forestales en suelos frágiles, en terrenos cubiertos de bosque nativo, industrias de celulosa, pasta de papel y papel, plantas astilladoras, elaboradoras de madera y aserraderos, todos de dimensiones industriales.
 
@@ -1062,113 +334,17 @@ Se entenderá por proyectos de desarrollo o explotación forestal aquellos que, 
 
 Se entenderá que los proyectos señalados en los incisos anteriores son de dimensiones industriales cuando se trate de:
 
-m.1. Proyectos de desarrollo o explotación forestal
+m.1. Proyectos de desarrollo o explotación forestal que abarquen una superficie única o continua de corta de cosecha final o corta de regeneración por tala rasa de más de veinte hectáreas anuales (20 ha/año), tratándose de las Regiones de Arica y Parinacota a la Región de Coquimbo, de doscientas hectáreas anuales (200 ha/año), tratándose de las Regiones de Valparaíso y la Región Metropolitana de Santiago, de quinientas hectáreas anuales (500 ha/año), tratándose de las Regiones del Libertador General Bernardo O'Higgins a la Región de Aysén, o de mil hectáreas anuales (1.000 ha/año), tratándose de la Región de Magallanes y Antártica Chilena, y que se ejecuten en:
 
-que abarquen una superficie única o continua de
+m.1.1. Suelos frágiles, entendiéndose por tales aquellos susceptibles de sufrir erosión severa debido a factores limitantes intrínsecos, tales como pendiente, textura, estructura, profundidad, drenaje, pedregosidad u otros, según las variables y los criterios de decisión señalados en el artículo 22 del Decreto Supremo Nº 193, de 1998, del Ministerio de Agricultura; o
 
-corta de cosecha final o corta de regeneración
+m.1.2. Terrenos cubiertos de bosque nativo, entendiéndose por tales aquellos terrenos con presencia de bosque nativo, definidos de acuerdo a la Ley N° 20.283, sobre Recuperación del Bosque Nativo y Fomento Forestal. Se entenderá por superficie única o continua la cantidad total de hectáreas de bosques continuos en que se ejecute el proyecto de desarrollo o explotación forestal.
 
-por tala rasa de más de veinte hectáreas anuales
+m.2. Plantas astilladoras cuyo consumo de madera, como materia prima, sea igual o superior a treinta metros cúbicos sólidos sin corteza por hora (30 m³ ssc/h); o las plantas que reúnan los requisitos señalados en los literales h.2. o k.1., según corresponda, ambos del presente artículo.
 
-(20 ha/año), tratándose de las Regiones de Arica
+m.3. Aserraderos y plantas elaboradoras de madera, entendiéndose por estas últimas las plantas elaboradoras de paneles o de otros productos, cuyo consumo de madera, como materia prima, sea igual o superior a treinta metros cúbicos sólidos sin corteza por hora (30 m³ ssc/h); o los aserraderos y plantas que reúnan los requisitos señalados en los literales h.2. o k.1., según corresponda, ambos del presente artículo.
 
-y Parinacota a la Región de Coquimbo, de
-
-doscientas hectáreas anuales (200 ha/año),
-
-tratándose de las Regiones de Valparaíso y la
-
-Región Metropolitana de Santiago, de quinientas
-
-hectáreas anuales (500 ha/año), tratándose de las
-
-Regiones del Libertador General Bernardo
-
-O'Higgins a la Región de Aysén, o de mil
-
-hectáreas anuales (1.000 ha/año), tratándose de
-
-la Región de Magallanes y Antártica Chilena, y
-
-que se ejecuten en:
-
-m.1.1. Suelos frágiles, entendiéndose por tales
-
-aquellos susceptibles de sufrir erosión
-
-severa debido a factores limitantes
-
-intrínsecos, tales como pendiente,
-
-textura, estructura, profundidad, drenaje,
-
-pedregosidad u otros, según las variables
-
-y los criterios de decisión señalados en
-
-el artículo 22 del Decreto Supremo Nº 193,
-
-de 1998, del Ministerio de Agricultura; o
-
-m.1.2. Terrenos cubiertos de bosque nativo,
-
-entendiéndose por tales aquellos terrenos
-
-con presencia de bosque nativo, definidos
-
-de acuerdo a la Ley N° 20.283, sobre
-
-Recuperación del Bosque Nativo y Fomento
-
-Forestal.
-
-Se entenderá por superficie única o
-
-continua la cantidad total de hectáreas de
-
-bosques continuos en que se ejecute el
-
-proyecto de desarrollo o explotación
-
-forestal.
-
-m.2. Plantas astilladoras cuyo consumo de madera, como
-
-materia prima, sea igual o superior a treinta
-
-metros cúbicos sólidos sin corteza por hora (30
-
-m³ ssc/h); o las plantas que reúnan los
-
-requisitos señalados en los literales h.2. o
-
-k.1., según corresponda, ambos del presente
-
-artículo.
-
-m.3. Aserraderos y plantas elaboradoras de madera,
-
-entendiéndose por estas últimas las plantas
-
-elaboradoras de paneles o de otros productos,
-
-cuyo consumo de madera, como materia prima, sea
-
-igual o superior a treinta metros cúbicos sólidos
-
-sin corteza por hora (30 m³ ssc/h); o los
-
-aserraderos y plantas que reúnan los requisitos
-
-señalados en los literales h.2. o k.1., según
-
-corresponda, ambos del presente artículo.
-
-m.4. Toda industria de celulosa, pasta de papel y
-
-papel será considerada de dimensiones
-
-industriales.
+m.4. Toda industria de celulosa, pasta de papel y papel será considerada de dimensiones industriales.
 
 n) Proyectos de explotación intensiva, cultivo y plantas procesadoras de recursos hidrobiológicos.
 
@@ -1176,453 +352,93 @@ Se entenderá por proyectos de explotación intensiva aquellos que impliquen la 
 
 Asimismo, se entenderá por proyectos de cultivo de recursos hidrobiológicos aquellas actividades de acuicultura, organizadas por el hombre, que tienen por objeto engendrar, procrear, alimentar, cuidar y cebar recursos hidrobiológicos a través de sistemas de producción extensivos y/o intensivos, que se desarrollen en aguas continentales, marítimas y/o estuarinas o requieran de suministro de agua, y que contemplen:
 
-n.1. Una producción anual igual o mayor a quinientas
+n.1. Una producción anual igual o mayor a quinientas toneladas (500 t) y/o superficie de cultivo igual o superior a cien mil metros cuadrados (100.000 m²) tratándose de macroalgas;
 
-toneladas (500 t) y/o superficie de cultivo igual
+n.2. Una producción anual igual o mayor a trescientas toneladas (300 t) y/o superficie de cultivo igual o superior a sesenta mil metros cuadrados (60.000 m²), tratándose de moluscos filtradores; o una producción anual igual o superior a cuarenta toneladas (40 t) tratándose de otras especies filtradoras, a través de un sistema de producción extensivo;
 
-o superior a cien mil metros cuadrados (100.000
+n.3. Una producción anual igual o superior a treinta y cinco toneladas (35 t) tratándose de equinodermos, crustáceos y moluscos no filtradores, peces y otras especies, a través de un sistema de producción intensivo;
 
-m²) tratándose de macroalgas;
+n.4. Una producción anual igual o superior a quince toneladas (15 t) cuando el cultivo se realice en ríos navegables en la zona no afecta a marea; o el cultivo de cualquier recurso hidrobiológico que se realice en ríos no navegables o en lagos cualquiera sea su producción anual; o
 
-n.2. Una producción anual igual o mayor a trescientas
+n.5. Una producción anual igual o superior a ocho toneladas (8 t), tratándose de peces; o del cultivo de microalgas y/o juveniles de otros recursos hidrobiológicos que requieran el suministro y/o evacuación de aguas de origen continental, marina o estuarina, cualquiera sea su producción anual.
 
-toneladas (300 t) y/o superficie de cultivo igual
-
-o superior a sesenta mil metros cuadrados (60.000
-
-m²), tratándose de moluscos filtradores; o una
-
-producción anual igual o superior a cuarenta
-
-toneladas (40 t) tratándose de otras especies
-
-filtradoras, a través de un sistema de producción
-
-extensivo;
-
-n.3. Una producción anual igual o superior a treinta y
-
-cinco toneladas (35 t) tratándose de
-
-equinodermos, crustáceos y moluscos no
-
-filtradores, peces y otras especies, a través de
-
-un sistema de producción intensivo;
-
-n.4. Una producción anual igual o superior a quince
-
-toneladas (15 t) cuando el cultivo se realice en
-
-ríos navegables en la zona no afecta a marea; o
-
-el cultivo de cualquier recurso hidrobiológico
-
-que se realice en ríos no navegables o en lagos
-
-cualquiera sea su producción anual; o
-
-n.5. Una producción anual igual o superior a ocho
-
-toneladas (8 t), tratándose de peces; o del
-
-cultivo de microalgas y/o juveniles de otros
-
-recursos hidrobiológicos que requieran el
-
-suministro y/o evacuación de aguas de origen
-
-continental, marina o estuarina, cualquiera sea
-
-su producción anual.
-
-Asimismo, se entenderá por plantas procesadoras
-
-de recursos hidrobiológicos, las instalaciones
-
-fabriles cuyo objetivo sea la elaboración de
-
-productos mediante la transformación total o
-
-parcial de cualquier recurso hidrobiológico o sus
-
-partes, incluyendo las plantas de proceso a bordo
-
-de barcos fábrica o factoría, que utilicen como
-
-materia prima una cantidad igual o superior a
-
-quinientas toneladas mensuales (500 t/mes) de
-
-biomasa, en el mes de máxima producción; o las
-
-plantas que reúnan los requisitos señalados en
-
-los literales h.2. o k.1., según corresponda,
-
-ambos del presente artículo.
+Asimismo, se entenderá por plantas procesadoras de recursos hidrobiológicos, las instalaciones fabriles cuyo objetivo sea la elaboración de productos mediante la transformación total o parcial de cualquier recurso hidrobiológico o sus partes, incluyendo las plantas de proceso a bordo de barcos fábrica o factoría, que utilicen como materia prima una cantidad igual o superior a quinientas toneladas mensuales (500 t/mes) de biomasa, en el mes de máxima producción; o las plantas que reúnan los requisitos señalados en los literales h.2. o k.1., según corresponda, ambos del presente artículo.
 
 ñ) Producción, almacenamiento, transporte, disposición o reutilización habituales de sustancias tóxicas, explosivas, radioactivas, inflamables, corrosivas o reactivas. Se entenderá que estos proyectos o actividades son habituales cuando se trate de:
 
-ñ.1. Producción, disposición o reutilización de
+ñ.1. Producción, disposición o reutilización de sustancias tóxicas que se realice durante un semestre o más, en una cantidad igual o superior a diez mil kilogramos diarios (10.000 kg/día).
 
-sustancias tóxicas que se realice durante un
+Capacidad de almacenamiento de sustancias tóxicas en una cantidad igual o superior a treinta mil kilogramos (30.000 kg). Se entenderá por sustancias tóxicas en general, aquellas señaladas en la Clase 6, División 6.1 de la NCh 382. Of 2004, o aquella que la reemplace.
 
-semestre o más, en una cantidad igual o superior
+Los residuos se considerarán sustancias tóxicas si se encuentran en alguna de las hipótesis de los artículos 12, 13 y 14 del Decreto Supremo N° 148, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
 
-a diez mil kilogramos diarios (10.000 kg/día).
+ñ.2. Producción, disposición o reutilización de sustancias explosivas, que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a dos mil quinientos kilogramos diarios (2.500 kg/día).
 
-Capacidad de almacenamiento de sustancias tóxicas
+Capacidad de almacenamiento de sustancias explosivas en una cantidad igual o superior a dos mil quinientos kilogramos (2.500 kg).
 
-en una cantidad igual o superior a treinta mil
+Se entenderá por sustancias explosivas aquellas señaladas en la Clase 1, División 1.1 de la NCh 382. Of 2004, o aquella que la reemplace.
 
-kilogramos (30.000 kg).
+ñ.3. Producción, disposición o reutilización de sustancias inflamables que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a ochenta mil kilogramos diarios (80.000 kg/día).
 
-Se entenderá por sustancias tóxicas en general,
+Capacidad de almacenamiento de sustancias inflamables en una cantidad igual o superior a ochenta mil kilogramos (80.000 kg).
 
-aquellas señaladas en la Clase 6, División 6.1 de
+Se entenderá por sustancias inflamables en general, aquellas señaladas en la Clase 2, División 2.1, 3 y 4 de la NCh 382. Of 2004, o aquella que la reemplace.
 
-la NCh 382. Of 2004, o aquella que la reemplace.
+Los residuos se considerarán sustancias inflamables si presentan cualquiera de las propiedades señaladas en el artículo 15 del decreto supremo Nº 148, que aprueba reglamento sanitario sobre manejo de residuos peligrosos, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9 del presente artículo
 
-Los residuos se considerarán sustancias tóxicas
+ñ.4. Producción, disposición o reutilización de sustancias corrosivas o reactivas que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a ciento veinte mil kilogramos diarios (120.000 kg/día).
 
-si se encuentran en alguna de las hipótesis de
+Capacidad de almacenamiento de sustancias corrosivas o reactivas en una cantidad igual o superior a ciento veinte mil kilogramos (120.000 kg).
 
-los artículos 12, 13 y 14 del Decreto Supremo N°
+Se entenderá por sustancias corrosivas, aquellas señaladas en la Clase 8 de la NCh 382. Of 2004, o aquella que la reemplace.
 
-148, de 2003, del Ministerio de Salud, o aquel
+Se entenderá por sustancias reactivas, aquellas señaladas en la Clase 5 de la NCh 382. Of 2004, o aquella que la reemplace.
 
-que lo reemplace. Para efectos de su disposición
+Los residuos se considerarán sustancias corrosivas o reactivas si se encuentran en las hipótesis de los artículos 17 o 16 del Decreto Supremo N° 148, de 2003, del Ministerio de Salud, respectivamente, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
 
-o reutilización, deberá estarse a lo dispuesto en
+ñ.5. Transporte por medios terrestres de sustancias tóxicas, explosivas, inflamables, corrosivas o reactivas que se realice durante un semestre o más, en una cantidad igual o superior a cuatrocientas toneladas diarias (400 t/día), entendiéndose por tales a las sustancias señaladas en las letras anteriores.
 
-la letra o.9. de este artículo.
+ñ.6. Producción, almacenamiento, disposición o reutilización de sustancias radioactivas, en la forma de material sólido radiactivo dispersable o de cápsulas no selladas de material radiactivo en cantidades superiores a los límites A2 del Decreto Supremo Nº 12, de 1985, del Ministerio de Minería, o superiores a 5000 A1 para materiales sólidos no dispersable o cápsulas selladas que contengan material radiactivo, y que se realice con una periodicidad mayor o igual que una vez a la semana y por un periodo mayor a seis meses.
 
-ñ.2. Producción, disposición o reutilización de
+ñ.7. Transporte por medios terrestres de sustancias radioactivas que, tratándose de transporte internacional, requerirían de aprobación multilateral, que se realice con una periodicidad mayor o igual que una vez a la semana y por un periodo mayor a seis meses.
 
-sustancias explosivas, que se realice durante un
-
-semestre o más, y con una periodicidad mensual o
-
-mayor, en una cantidad igual o superior a dos mil
-
-quinientos kilogramos diarios (2.500 kg/día).
-
-Capacidad de almacenamiento de sustancias
-
-explosivas en una cantidad igual o superior a dos
-
-mil quinientos kilogramos (2.500 kg).
-
-Se entenderá por sustancias explosivas aquellas
-
-señaladas en la Clase 1, División 1.1 de la NCh
-
-382. Of 2004, o aquella que la reemplace.
-
-ñ.3. Producción, disposición o reutilización de
-
-sustancias inflamables que se realice durante
-
-un semestre o más, y con una periodicidad
-
-mensual o mayor, en una cantidad igual o
-
-superior a ochenta mil kilogramos diarios
-
-(80.000 kg/día). Capacidad de almacenamiento
-
-de sustancias inflamables en una cantidad
-
-igual o superior a ochenta mil kilogramos
-
-(80.000 kg).
-
-Se entenderá por sustancias inflamables
-
-en general, aquellas señaladas en la
-
-Clase 2, División 2.1, 3 y 4 de la NCh
-
-382. Of 2004, o aquella que la reemplace.
-
-ñ.4. Producción, disposición o reutilización de
-
-sustancias corrosivas o reactivas que se realice
-
-durante un semestre o más, y con una periodicidad
-
-mensual o mayor, en una cantidad igual o superior
-
-a ciento veinte mil kilogramos diarios (120.000
-
-kg/día).
-
-Capacidad de almacenamiento de sustancias
-
-corrosivas o reactivas en una cantidad igual o
-
-superior a ciento veinte mil kilogramos (120.000
-
-kg).
-
-Se entenderá por sustancias corrosivas, aquellas
-
-señaladas en la Clase 8 de la NCh 382. Of 2004, o
-
-aquella que la reemplace.
-
-Se entenderá por sustancias reactivas, aquellas
-
-señaladas en la Clase 5 de la NCh 382. Of 2004, o
-
-aquella que la reemplace.
-
-Los residuos se considerarán sustancias
-
-corrosivas o reactivas si se encuentran en las
-
-hipótesis de los artículos 17 o 16 del Decreto
-
-Supremo N° 148, de 2003, del Ministerio de Salud,
-
-respectivamente, o aquel que lo reemplace. Para
-
-efectos de su disposición o reutilización, deberá
-
-estarse a lo dispuesto en la letra o.9. de este
-
-artículo.
-
-ñ.5. Transporte por medios terrestres de sustancias
-
-tóxicas, explosivas, inflamables, corrosivas o
-
-reactivas que se realice durante un semestre o
-
-más, en una cantidad igual o superior a
-
-cuatrocientas toneladas diarias (400 t/día),
-
-entendiéndose por tales a las sustancias
-
-señaladas en las letras anteriores.
-
-ñ.6. Producción, almacenamiento, disposición o
-
-reutilización de sustancias radioactivas, en la
-
-forma de material sólido radiactivo dispersable o
-
-de cápsulas no selladas de material radiactivo en
-
-cantidades superiores a los límites A2 del
-
-Decreto Supremo Nº 12, de 1985, del Ministerio de
-
-Minería, o superiores a 5000 A1 para materiales
-
-sólidos no dispersable o cápsulas selladas que
-
-contengan material radiactivo, y que se realice
-
-con una periodicidad mayor o igual que una vez a
-
-la semana y por un periodo mayor a seis meses.
-
-ñ.7. Transporte por medios terrestres de sustancias
-
-radioactivas que, tratándose de transporte
-
-internacional, requerirían de aprobación
-
-multilateral, que se realice con una periodicidad
-
-mayor o igual que una vez a la semana y por un
-
-periodo mayor a seis meses.
-
-Se entenderá por transporte por medios terrestres
-
-de sustancias radiactivas, el transporte en forma
-
-de fuentes no selladas o fuentes selladas de
-
-material dispersable, en cantidades superiores a
-
-los límites A2 del Decreto Supremo Nº 12, de
-
-1985, del Ministerio de Minería, o superiores a
-
-5000 A1 para el caso de fuentes selladas no
-
-dispersables, y que se realice con una
-
-periodicidad mayor o igual que una vez a la
-
-semana y por un periodo mayor a seis meses.
+Se entenderá por transporte por medios terrestres de sustancias radiactivas, el transporte en forma de fuentes no selladas o fuentes selladas de material dispersable, en cantidades superiores a los límites A2 del Decreto Supremo Nº 12, de 1985, del Ministerio de Minería, o superiores a 5000 A1 para el caso de fuentes selladas no dispersables, y que se realice con una periodicidad mayor o igual que una vez a la semana y por un periodo mayor a seis meses.
 
 o) Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de agua o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos.
 
 Se entenderá por proyectos de saneamiento ambiental al conjunto de obras, servicios, técnicas, dispositivos o piezas que correspondan a:
 
-o.1. Sistemas de alcantarillado de aguas servidas que
+o.1. Sistemas de alcantarillado de aguas servidas que atiendan a una población igual o mayor a diez mil 10.000) habitantes.
 
-atiendan a una población igual o mayor a diez mil
+o.2. Sistemas de alcantarillado o evacuación de aguas lluvias, cuando se interconecten con redes de alcantarillado de aguas servidas que atiendan a una población igual o mayor a diez mil (10.000) habitantes.
 
-(10.000) habitantes.
+o.3. Sistemas de agua potable que comprendan obras que capten y conduzcan agua desde el lugar de captación hasta su entrega en el inmueble del usuario, considerando los procesos intermedios, y que atiendan a una población igual o mayor a diez mil (10.000) habitantes.
 
-o.2. Sistemas de alcantarillado o evacuación de aguas
+o.4. Plantas de tratamiento de aguas de origen domiciliario, que atiendan a una población igual o mayor a dos mil quinientos (2.500) habitantes.
 
-lluvias, cuando se interconecten con redes de
-
-alcantarillado de aguas servidas que atiendan a
-
-una población igual o mayor a diez mil (10.000)
-
-habitantes.
-
-o.3. Sistemas de agua potable que comprendan obras que
-
-capten y conduzcan agua desde el lugar de
-
-captación hasta su entrega en el inmueble del
-
-usuario, considerando los procesos intermedios, y
-
-que atiendan a una población igual o mayor a diez
-
-mil (10.000) habitantes.
-
-o.4. Plantas de tratamiento de aguas de origen
-
-domiciliario, que atiendan a una población igual
-
-o mayor a dos mil quinientos (2.500) habitantes.
-
-o.5. Plantas de tratamiento y/o disposición de
-
-residuos sólidos de origen domiciliario, rellenos
-
-sanitarios, estaciones de transferencia y centros
-
-de acopio y clasificación que atiendan a una
-
-población igual o mayor a cinco mil (5.000)
-
-habitantes.
+o.5. Plantas de tratamiento y/o disposición de residuos sólidos de origen domiciliario, rellenos sanitarios, estaciones de transferencia y centros de acopio y clasificación que atiendan a una población igual o mayor a cinco mil (5.000) habitantes.
 
 o.6. Emisarios submarinos.
 
-o.7. Sistemas de tratamiento y/o disposición de
+o.7. Sistemas de tratamiento y/o disposición de residuos industriales líquidos, que cumplan al menos alguna de las siguientes condiciones:
 
-residuos industriales líquidos, que cumplan al
+o.7.1 Contemplen dentro de sus instalaciones lagunas de estabilización;
 
-menos alguna de las siguientes condiciones:
+o.7.2 Que sus efluentes se usen para el riego, infiltración, aspersión y humectación de terrenos o caminos;
 
-o.7.1 Contemplen dentro de sus instalaciones
+o.7.3 Que den servicio de tratamiento a residuos provenientes de terceros, u
 
-lagunas de estabilización;
+o.7.4 Traten efluentes con una carga contaminante media diaria igual o superior al equivalente a las aguas servidas de una población de cien (100) personas, en uno o más de los parámetros señalados en la respectiva norma de descargas de residuos líquidos.
 
-o.7.2 Que sus efluentes se usen para el riego,
+o.8. Sistemas de tratamiento, disposición y/o eliminación de residuos industriales sólidos con una capacidad igual o mayor a treinta toneladas día (30 t/día) de tratamiento o igual o superior a cincuenta toneladas (50 t) de disposición.
 
-infiltración, aspersión y humectación de
+o.9. Sistemas de tratamiento, disposición y/o eliminación de residuos peligrosos con una capacidad de veinticinco kilos día (25 kg/día) para aquellos que estén dentro de la categoría de "tóxicos agudos" según DS 148/2003 Ministerio de Salud; y de mil kilos día (1000 kg/día) para otros residuos peligrosos.
 
-terrenos o caminos;
+o.10 Sistemas de tratamiento, disposición y/o eliminación de residuos especiales provenientes de establecimientos de salud, con capacidad mayor o igual a doscientos cincuenta kilogramos diarios (250 kg/día).
 
-o.7.3 Que den servicio de tratamiento a residuos
+o.11 Reparación o recuperación de áreas que contengan contaminantes, que abarquen, en conjunto, una superficie igual o mayor a diez mil metros cuadrados (10.000 m²), salvo que se trate de medidas que formen parte de una propuesta de plan de reparación a que se refiere el artículo 43 de la Ley Orgánica de la Superintendencia del Medio Ambiente, cuyo texto fue fijado por el artículo segundo de la Ley Nº 20.417, caso en el cual se aplicará lo dispuesto en dicha disposición y en su Reglamento.
 
-provenientes de terceros, u
-
-o.7.4 Traten efluentes con una carga contaminante
-
-media diaria igual o superior al
-
-equivalente a las aguas servidas de una
-
-población de cien (100) personas, en uno o
-
-más de los parámetros señalados en la
-
-respectiva norma de descargas de residuos
-
-líquidos.
-
-o.8. Sistemas de tratamiento, disposición y/o
-
-eliminación de residuos industriales sólidos
-
-con una capacidad igual o mayor a treinta
-
-toneladas día (30 t/día) de tratamiento o
-
-igual o superior a cincuenta toneladas
-
-(50 t) de disposición.
-
-o.9. Sistemas de tratamiento, disposición y/o
-
-eliminación de residuos peligrosos con
-
-una capacidad de veinticinco kilos día
-
-(25 kg/día) para aquellos que estén dentro
-
-de la categoría de "tóxicos agudos"
-
-según DS 148/2003 Ministerio de Salud; y
-
-de mil kilos día (1000 kg/día) para otros
-
-residuos peligrosos.
-
-o.10 Sistemas de tratamiento, disposición y/o
-
-eliminación de residuos especiales provenientes
-
-de establecimientos de salud, con capacidad mayor
-
-o igual a doscientos cincuenta kilogramos diarios
-
-(250 kg/día).
-
-o.11 Reparación o recuperación de áreas que contengan
-
-contaminantes, que abarquen, en conjunto, una
-
-superficie igual o mayor a diez mil metros
-
-cuadrados (10.000 m²), salvo que se trate de
-
-medidas que formen parte de una propuesta de plan
-
-de reparación a que se refiere el artículo 43 de
-
-la Ley Orgánica de la Superintendencia del Medio
-
-Ambiente, cuyo texto fue fijado por el artículo
-
-segundo de la Ley Nº 20.417, caso en el cual se
-
-aplicará lo dispuesto en dicha disposición y en
-
-su Reglamento.
-
-Se entenderá por tratamiento las actividades en
-
-las que se vean modificadas las características
-
-químicas y/o biológicas de las aguas o residuos.
-
-Quedan excluidas expresamente las actividades
-
-relacionadas con la selección, segregación y
-
-manipulación de residuos sólidos que no
-
-contemplen reacciones químicas ni biológicas en
-
-sus procesos.
+Se entenderá por tratamiento las actividades en las que se vean modificadas las características químicas y/o biológicas de las aguas o residuos. Quedan excluidas expresamente las actividades relacionadas con la selección, segregación y manipulación de residuos sólidos que no contemplen reacciones químicas ni biológicas en sus procesos.
 
 p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita.
 
@@ -1632,59 +448,11 @@ Se entenderá por aplicación masiva los planes y programas destinados a preveni
 
 r) Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas, forestales e hidrobiológicas que utilicen organismos genéticamente modificados con fines de producción y en áreas no confinadas.
 
-r.1. Para efectos de este Reglamento, se entenderá que
+r.1. Para efectos de este Reglamento, se entenderá que no tienen fines de producción aquellas actividades y proyectos que utilicen organismos genéticamente modificados con fines de investigación, entendiendo por tal, aquella actividad orientada a la obtención de nuevos conocimientos, a generar cambios genéticos conducentes a la creación de nuevas variedades o híbridos no comerciales o para dar solución a problemas o interrogantes de carácter científico o tecnológico.
 
-no tienen fines de producción aquellas
+r.2. Se entenderá por áreas confinadas, los locales, instalaciones, estructuras físicas o predios que cuenten con límites de aislamiento reproductivo o medidas de bioseguridad, sean físicas o biológicas, destinadas a evitar la liberación de organismos genéticamente modificados al medio ambiente o limitar en forma efectiva su cruzamiento con especies sexualmente compatibles.
 
-actividades y proyectos que utilicen organismos
-
-genéticamente modificados con fines de
-
-investigación, entendiendo por tal, aquella
-
-actividad orientada a la obtención de nuevos
-
-conocimientos, a generar cambios genéticos
-
-conducentes a la creación de nuevas variedades o
-
-híbridos no comerciales o para dar solución a
-
-problemas o interrogantes de carácter científico
-
-o tecnológico.
-
-r.2. Se entenderá por áreas confinadas, los locales,
-
-instalaciones, estructuras físicas o predios que
-
-cuenten con límites de aislamiento reproductivo o
-
-medidas de bioseguridad, sean físicas o
-
-biológicas, destinadas a evitar la liberación de
-
-organismos genéticamente modificados al medio
-
-ambiente o limitar en forma efectiva su
-
-cruzamiento con especies sexualmente compatibles.
-
-El Ministerio sectorial correspondiente, con
-
-acuerdo del Ministerio del Medio Ambiente,
-
-establecerá mediante resolución las medidas
-
-generales de bioseguridad que permitan la
-
-utilización de organismos genéticamente
-
-modificados en áreas confinadas, bajo los
-
-parámetros establecidos en el literal r.2.
-
-precedente.
+El Ministerio sectorial correspondiente, con acuerdo del Ministerio del Medio Ambiente, establecerá mediante resolución las medidas generales de bioseguridad que permitan la utilización de organismos genéticamente modificados en áreas confinadas, bajo los parámetros establecidos en el literal r.2. precedente.
 
 s) Cotos de caza, en virtud del artículo 10 de la Ley Nº 19.473, que sustituye texto de la Ley N° 4.061, sobre Caza, y artículo 609 del Código Civil.
 
@@ -3260,7 +2028,7 @@ En caso que el titular del proyecto o actividad haya solicitado expresamente que
 
 En tal caso, el titular deberá asimismo acompañar un número suficiente de ejemplares del Estudio o de la Declaración de Impacto Ambiental, según sea el caso, para su distribución a los órganos de la Administración del Estado con competencia ambiental que participarán de la evaluación, el Gobierno Regional, el Municipio, la autoridad marítima competente, y para los requerimientos de la participación de la comunidad, cuando corresponda.
 
-En caso de tramitación electrónica, el titular sólo deberá acompañar el número de copias necesarias para los requerimientos de la participación ciudadana, cuando corresponda, el que equivaldrá al total de Municipalidades y Gobiernos Regionales en cuyos territorios se realizarán las obras materiales que contemple el proyecto o actividad, así como de Direcciones Regionales y Dirección Ejecutiva del Servicio, según corresponda.
+En caso de tramitación electrónica, el titular sólo deberá acompañar el número de copias necesarias para los requerimientos de la participación ciudadana cuando corresponda realizarla, el que equivaldrá al total de Municipalidades y Gobiernos Regionales en cuyos territorios se realizarán las obras materiales que contemple el proyecto o actividad, así como de Direcciones Regionales y Dirección Ejecutiva del Servicio, según corresponda.
 
 #### Artículo 30
 
@@ -3344,7 +2112,7 @@ La resolución a que se refiere el inciso precedente sólo podrá dictarse dentr
 
 En contra de la resolución que se dicte sólo podrá deducirse recurso de reposición dentro del plazo de cinco días contado desde la respectiva notificación. El recurso deberá resolverse dentro del plazo de veinte días.
 
-Para los efectos del presente artículo se entenderá que el Estudio carece de información relevante o esencial para su evaluación, cuando sobre la base de los antecedentes presentados, no es posible evaluar la presencia o generación de efectos, características o circunstancias del artículo 11 de la Ley, determinar si las medidas de mitigación, reparación y compensación propuestas son adecuadas, así como la efectividad del plan de seguimiento.
+Para los efectos del presente artículo se entenderá que el Estudio carece de información relevante para su evaluación, cuando no se describen todas las partes, obras o acciones del proyecto o actividad sometido al Sistema de Evaluación de Impacto Ambiental, o sus distintas etapas; y se entenderá que carece de información esencial para su evaluación cuando, sobre la base de los antecedentes presentados, no es posible evaluar la presencia o generación de efectos, características o circunstancias del artículo 11 de la ley, ni determinar si las medidas de mitigación, reparación y compensación propuestas son adecuadas, así como tampoco la efectividad del plan de seguimiento.
 
 #### Artículo 37
 
@@ -3384,7 +2152,7 @@ i) Las asociadas a determinar si el plan de seguimiento es adecuado para verific
 
 El informe consolidado será notificado al titular del proyecto o actividad, otorgándosele un plazo para que las solicitudes contenidas en él sean respondidas, suspendiéndose de pleno derecho, en el intertanto, el término que restare para finalizar la evaluación del respectivo Estudio.
 
-Si en el caso señalado en el inciso anterior estuviese vigente un período de participación ciudadana, al término de éste se deberá remitir al titular un anexo con las observaciones restantes de la comunidad que hubiesen sido declaradas admisibles, con el objeto que se pronuncie sobre ellas conforme a lo señalado en el artículo siguiente.
+Si en el caso señalado en el inciso anterior estuviese vigente un período de participación ciudadana, al término de éste se deberá remitir al titular un anexo con las observaciones restantes de la comunidad que hubiesen sido declaradas admisibles, con el objeto que se pronuncie sobre ellas en la Adenda, conforme a lo señalado en el artículo siguiente.
 
 El proponente podrá solicitar la extensión del plazo otorgado para responder las solicitudes a que se refiere este artículo hasta por dos veces, siempre y cuando lo solicite dentro del plazo original. La solicitud de extensión del plazo otorgado será resuelta por la Comisión de Evaluación o el Director Ejecutivo, según corresponda. En caso afirmativo, se mantendrá la suspensión.
 
@@ -3526,7 +2294,7 @@ La resolución a que se refiere el inciso precedente sólo podrá dictarse dentr
 
 En contra de la resolución que se dicte sólo podrá deducirse recurso de reposición dentro del plazo de cinco días contado desde la respectiva notificación. El recurso deberá resolverse en el plazo de veinte días.
 
-Para los efectos del presente artículo se entenderá que la Declaración carece de información relevante o esencial para su evaluación, cuando sobre la base de los antecedentes presentados, no es posible determinar la inexistencia de efectos, características o circunstancias del artículo 11 de la Ley.
+Para los efectos del presente artículo se entenderá que la Declaración carece de información relevante para su evaluación cuando no se describen todas las partes, obras o acciones del proyecto o actividad sometido al Sistema de Evaluación de Impacto Ambiental, o sus distintas etapas; y se entenderá que carece de información esencial para su evaluación, cuando, sobre la base de los antecedentes presentados, no es posible determinar la inexistencia de efectos, características o circunstancias del artículo 11 de la ley.
 
 #### Artículo 49
 
@@ -4036,9 +2804,7 @@ Las actas de las reuniones a que se refieren los incisos anteriores podrán serv
 
 #### Artículo 87
 
-Aviso radial.
-
-El proponente deberá anunciar la presentación del Estudio o Declaración de Impacto Ambiental mediante la emisión de, al menos, cinco avisos transmitidos a su costa, en medios de radiodifusión de alcance local de la comuna o comunas del área de influencia del proyecto o actividad, y si no existieren, de la provincia respectiva, entre las 9:00 y 21:00 horas, en días distintos y dentro de los cinco días siguientes a la publicación del extracto o listado de proyecto o actividad, respectivamente.
+Aviso radial. El proponente deberá anunciar la presentación del Estudio o Declaración de Impacto Ambiental mediante la emisión de, al menos, cinco avisos transmitidos a su costa, en medios de radiodifusión de alcance local de la comuna o comunas del área de influencia del proyecto o actividad, y si no existieren, de la provincia respectiva, entre las 9:00 y 21:00 horas, en días distintos y dentro de los cinco días siguientes a la publicación del extracto o listado de proyecto o actividad, respectivamente.
 
 Para efectos de lo dispuesto en el artículo 13 de la Ley Nº 20.433, que crea los Servicios de Radiodifusión Comunitaria Urbana, se entenderá que estos avisos constituyen menciones de servicios.
 
@@ -4046,19 +2812,21 @@ En su presentación, el titular propondrá el medio de radiodifusión y el texto
 
 Cada aviso contendrá, al menos, lo siguiente:
 
-1) Nombre de la persona natural o jurídica titular del proyecto o actividad;
+1) Nombre del proyecto o actividad;
 
-2) Lugar de emplazamiento del proyecto o actividad;
+2) Nombre de la persona natural o jurídica titular del proyecto o actividad;
 
-3) Indicación del tipo de proyecto o actividad de que se trata;
+3) Lugar de emplazamiento del proyecto o actividad;
 
-4) El lugar en donde se encuentran disponibles los antecedentes del Estudio o Declaración de Impacto Ambiental, para su acceso al público;
+4) El lugar donde se encuentran disponibles los antecedentes del Estudio o Declaración de Impacto Ambiental, para su acceso al público;
 
-5) La fecha hasta la cual se podrán formular observaciones y la forma de hacerlo, en el caso de los Estudios de Impacto Ambiental, y la fecha hasta la cual se puede solicitar el proceso de participación ciudadana de Declaraciones de Impacto Ambiental, cuando corresponda.
+5) La fecha hasta la cual se podrán formular observaciones y la forma de hacerlo, en el caso de los Estudios de Impacto Ambiental, y la fecha hasta la cual se podrá solicitar el proceso de participación ciudadana en las Declaraciones de Impacto Ambiental a que se refiere el artículo 94 de este reglamento.
 
 La emisión de estos avisos deberá ser acreditada por el proponente por medio de la entrega de una grabación contenida en un soporte electrónico o digital, así como de un certificado expedido por el respectivo medio de radiodifusión, donde indique los días y horarios en que los avisos fueron transmitidos, los que serán incorporados al expediente. Este certificado deberá ser entregado dentro de los diez días siguientes al último aviso radial.
 
 Con todo, los proponentes podrán solicitar al Director Regional o al Director Ejecutivo del Servicio, según corresponda, reemplazar el proceso de radiodifusión por otro de similar alcance, en aquellos casos en que éste resulte en extremo oneroso, o bien, cuando no sea posible realizarlo por razones técnicas. El Director Regional o el Director Ejecutivo del Servicio resolverán mediante resolución fundada. En caso de acoger la solicitud, se establecerá de manera precisa el medio y forma en la cual se cumplirá la obligación establecida en este artículo.
+
+En caso que los avisos no cumplan con las condiciones establecidas en el presente artículo y dicho incumplimiento sea susceptible de afectar la adecuada participación de la comunidad, el Director Ejecutivo o el Director Regional, según corresponda, podrá suspender la tramitación del proceso de evaluación, ordenando que se realice nuevamente la publicación a que se refieren los artículos 28 y 30 de la ley, así como también los avisos a que se refiere este artículo.
 
 ### Párrafo 2º
 
@@ -4166,15 +2934,15 @@ Los interesados en acceder al contenido de la Declaración de Impacto Ambiental 
 
 Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos o actividades que generen cargas ambientales para las comunidades próximas, entendiendo por éstas, aquellas ubicadas en el área donde se manifiestan los impactos ambientales del proyecto. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de diez días, contado desde la publicación en el Diario Oficial del proyecto o actividad sometido a Declaración de Impacto Ambiental de que se trate.
 
-Cuando la resolución que decrete la realización del proceso indicado en el inciso anterior deba comunicarse a un gran número de personas y ello dificulte considerablemente la práctica de la diligencia, se podrá publicar un aviso en el Diario Oficial y en un diario o periódico de la capital de la región o de circulación nacional, según corresponda.
+La resolución que decrete la realización del proceso indicado en el inciso anterior se notificará mediante la publicación de un aviso en el Diario Oficial y en un diario o periódico de la capital de la región o de circulación nacional, según corresponda.
 
-Tratándose de los proyectos o actividades sometidos a evaluación de conformidad de acuerdo a lo establecido en el artículo 18 ter de la Ley y del artículo 68 del Reglamento, el plazo para la realización del proceso de participación ciudadana será de diez días.
+Tratándose de los proyectos o actividades sometidos a evaluación de conformidad de acuerdo a lo establecido en el artículo 18 ter de la ley y del artículo 68 del Reglamento, el plazo para la realización del proceso de participación ciudadana será de diez días.
 
 Se entenderá que provocan cargas ambientales aquellos proyectos o actividades que generan beneficios sociales y que ocasionan externalidades ambientales negativas en localidades próximas durante su construcción u operación.
 
-Se considera que generan cargas ambientales únicamente los proyectos o actividades cuyas tipologías correspondan a las letras a.1, b), c), d), e), f), j), y o) del artículo 3 de este Reglamento o que contengan partes, obras o acciones a las que apliquen dichas tipologías, así como cualquier otro proyecto o actividad cuyo objetivo consista en satisfacer necesidades básicas de la comunidad, tales como proyectos de saneamiento, agua potable, energía, entre otros.
+Se considera que generan cargas ambientales los proyectos o actividades cuyas tipologías correspondan a las letras a.1, b), c), d), e), f), j) y o) del artículo 3 de este Reglamento o que contengan partes, obras o acciones a las que apliquen dichas tipologías, así como cualquier otro proyecto o actividad cuyo objetivo consista en satisfacer necesidades básicas de la comunidad, tales como proyectos de saneamiento, agua potable, energía, entre otros.
 
-Las Declaraciones de Impacto Ambiental para los proyectos o actividades señalados en el inciso anterior deberán ser ingresadas al órgano competente entre los días dieciocho (18) a veinte (20) de cada mes. Si se ingresaran antes, se entenderán ingresadas a partir del día dieciocho (18) o el día hábil siguiente del mes. Si se ingresan con posterioridad, se entenderán ingresadas a partir del día dieciocho (18) o el día hábil siguiente del mes posterior al de su presentación.
+Las Declaraciones de Impacto Ambiental para los proyectos o actividades señalados en el inciso anterior deberán ser ingresadas hasta el día dieciocho (18) de cada mes. Si se ingresaren antes, se entenderán ingresadas el día dieciocho (18) del mes correspondiente, o el día hábil anterior. Si se ingresaren con posterioridad, se entenderán ingresadas el día dieciocho (18) o el día hábil anterior del mes posterior al de su presentación.
 
 #### Artículo 95
 
