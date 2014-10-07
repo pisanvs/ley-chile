@@ -12,7 +12,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Fíjanse las pautas generales a que deberán ajustarse los fabricantes, armadores, importadores o sus representantes legales en Chile, de carrocerías de buses destinadas a prestar servicios interurbanos de transporte público de pasajeros, para efectos de la acreditación de las condiciones de seguridad que establece el Decreto Supremo N° 175 de 24 de noviembre de 2006, del Ministerio de Transportes y Telecomunicaciones.
+Fíjanse las pautas generales a que deberán ajustarse los fabricantes, armadores, importadores o sus representantes legales en Chile, de carrocerías de buses destinadas a prestar servicios interurbanos de transporte público o privado de pasajeros, para efectos de la acreditación de las condiciones de seguridad que establece el Decreto Supremo N° 175 de 24 de noviembre de 2006 y el decreto supremo Nº 158 de 7 de agosto de 2013, ambos, del Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 2°
 
@@ -26,7 +26,7 @@ A más tardar, diez días antes de la fecha programada para la presentación del
 
 #### Artículo 4°
 
-Los vehículos deberán presentarse en el Centro en la fecha indicada de acuerdo a la programación definida por éste, para la verificación de cumplimiento de los requisitos señalados en el D. S. 175/2006 y la validación, cuando corresponda de los datos indicados en los antecedentes presentados en los Anexos B y C.
+Los vehículos deberán presentarse en el Centro en la fecha indicada de acuerdo a la programación definida por éste, para la verificación de cumplimiento de los requisitos señalados en los decretos supremos Nº 175/2006 y Nº 158/2013 y la validación, cuando corresponda de los datos indicados en los antecedentes presentados en los Anexos B y C.
 
 El Centro, en un plazo máximo de 7 días contados desde la presentación de los vehículos, emitirá un pronunciamiento respecto del cumplimiento de los requisitos antes mencionados.
 
@@ -34,7 +34,7 @@ El Centro, en un plazo máximo de 7 días contados desde la presentación de los
 
 En el evento que la carrocería cumpla con las condiciones de seguridad antes descritas, el Centro procederá a otorgar al interesado la correspondiente acreditación de las condiciones de seguridad y criterios de construcción de dicha carrocería, mediante un documento en el cual se consignará el código de acreditación, marca y modelo de carrocería, pesos por eje con carrocería de cada configuración presentada, marca y modelo de chasis del vehículo donde será instalada la carrocería y las normas que se han acreditado respecto de cada sistema o componente.
 
-Sobre la base de las indicaciones emanadas del fabricante, armador, importador o sus representantes legales en Chile, los vendedores en el país de buses dotados de carrocerías destinadas a prestar servicios interurbanos de transporte público de pasajeros y respecto de las cuales se haya acreditado que cumplen con lo dispuesto en el Decreto Supremo Nº 175 de 2006 citado, se obligarán a entregar a sus compradores un certificado individual de acreditación en original y dos copias, cuyo formato y contenido se indican en el Anexo D que forma parte de la presente Resolución, por cada bus que comercialicen.
+Sobre la base de las indicaciones emanadas del fabricante, armador, importador o sus representantes legales en Chile, los vendedores en el país de buses dotados de carrocerías destinadas a prestar servicios interurbanos de transporte público o privado de pasajeros y respecto de las cuales se haya acreditado que cumplen con lo dispuesto en el Decreto Supremo Nº 175 de 2006 y en el decreto supremo Nº 158 de 2013 citados, se obligarán a entregar a sus compradores un certificado individual de acreditación en original y dos copias, cuyo formato y contenido se indican en el Anexo D que forma parte de la presente Resolución, por cada bus que comercialicen.
 
 Una copia del certificado individual de acreditación deberá presentarse en la Planta Revisora, al momento de solicitar la primera revisión técnica del bus, oportunidad en que se revisarán aquellos aspectos señalados en el Manual de Procedimientos e Interpretación de Resultados Clase A. La segunda copia deberá adjuntarse a la solicitud de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros.
 
@@ -46,6 +46,8 @@ El horario de recepción de los antecedentes en el Centro, será de lunes a vier
 
 Anótese y publíquese.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
 
-NOTA: VER DIARIO OFICIAL DE 20.04.2007, PAGINA 5
+VER DIARIO OFICIAL DE 20.04.2007, PAGINA 5
 
 > **Nota.** El numeral 6º de la Resolución 1913 Exenta, Transportes, publicada 26.08.2013, modifica la presente norma en el sentido de reemplazar anexos A, B, C Y E, los cuales no fueron publicados en el Diario Oficial.
+
+> **Nota.** NOTA 1 El numeral 6º del artículo 1° de la Resolución 2398 Exenta, Transportes, publicada 07.10.2014, modifica la presente norma en el sentido de reemplazar anexos A, B, D Y E, los cuales no fueron publicados en el Diario Oficial.
