@@ -12,9 +12,11 @@ Polla Chilena de Beneficencia S.A. podrá administrar modalidades de premiación
 
 Son modalidades de premiación instantánea aquellas en que el apostador puede conocer de inmediato el resultado de su apuesta y que deben tener un programa de premios preestablecido en función del valor neto de la emisión. La emisión será parte integrante de uno o más sorteos de Lotería Tradicional y, en consecuencia, no podrán ser más de 26 ó 27, según corresponda, en cada año calendario. La emisión anticipada tendrá como número y fecha de sorteo el número y fecha del sorteo de la Lotería Tradicional del cual sea parte integrante.
 
+Para tal efecto, Polla Chilena de Beneficencia S.A podrá efectuar emisiones de boletos en papel determinados, definidos y autorizados previamente por Polla Chilena de Beneficencia S.A. Asimismo, el apostador podrá jugar a través de boletos virtuales determinados, definidos y autorizados previamente por Polla Chilena de Beneficencia S.A., interactuando directamente con el sistema informático de dicha empresa. En ambos casos, los premios serán descubiertos en su zona de premiación a través de la mecánica que Polla Chilena de Beneficencia S.A. determine, apareciendo o descubriéndose el resultado de la apuesta.
+
 #### Artículo 3°
 
-Los premios, distribuidos aleatoriamente entre los boletos, serán obtenidos por los apostadores, entre otras formas, descubriendo zonas cubiertas o logrando aciertos según la mecánica del sistema de premiación instantánea. El programa de premios de cada emisión será parte integrante del programa de premios del sorteo de Lotería Tradicional al cual se encuentre integrado.
+Los premios, distribuidos aleatoriamente entre los boletos, de papel y/o virtuales, serán obtenidos por los apostadores, entre otras formas, descubriendo zonas cubiertas o logrando aciertos según la mecánica del sistema de premiación instantánea. El programa de premios de cada emisión será parte integrante del programa de premios del sorteo de Lotería Tradicional al cual se encuentre integrado.
 
 #### Artículo 4°
 
@@ -22,7 +24,7 @@ A las modalidades de premiación instantánea les serán aplicables todas las no
 
 #### Artículo 5°
 
-Los boletos de las modalidades de premiación instantánea deberán contener, a lo menos, el precio unitario de venta, el número y fecha del sorteo de Lotería Tradicional del cual sea parte integrante, las instrucciones del sistema de premiación, un extracto de las condiciones del mismo, las categorías o niveles de premios a los que los apostadores podrán optar.
+Los boletos, papel y/o virtuales, de las modalidades de premiación instantánea deberán contener, a lo menos, el precio unitario de venta, el número y fecha del sorteo de Lotería Tradicional del cual sea parte integrante, las instrucciones del sistema de premiación, un extracto de las condiciones del mismo, las categorías o niveles de premios a los que los apostadores podrán optar.
 
 #### Artículo 6°
 
