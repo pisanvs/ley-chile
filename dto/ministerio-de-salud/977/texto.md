@@ -492,6 +492,8 @@ e) Hielo granizado saborizado con jarabes naturales o artificiales, en la medida
 
 - Preservar los insumos en condiciones que impidan su contaminación
 
+f) Quesos y cecinas provenientes de fábricas autorizadas, fraccionados y envasados en las mismas fábricas, siempre y cuando dichos puestos de venta dispongan de un sistema de frío que permita mantener a temperatura de refrigeración (máximo 5º C) los productos alimenticios antes señalados. En el caso de cecinas crudas maduradas, éstas podrán mantenerse sin refrigeración, pero en lugar seco y fresco (máximo 12º C). Queda prohibido el fraccionamiento de los alimentos anteriormente mencionados en tales puestos
+
 Las implementaciones exigidas precedentemente para la comercialización de los productos alimenticios señalados en la letra d) deberán mantenerse en perfectas condiciones, en forma permanente.
 
 > **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que las modificaciones introducidas al presente artículo rigen a contar de 180 días desde su publicación.
@@ -543,6 +545,8 @@ Para otorgar la autorización la autoridad sanitaria deberá disponer de los ant
 #### Artículo 75
 
 Se permite la venta de la bebida tradicional "Mote con Huesillos" provenientes de establecimientos autorizados en carros móviles especialmente diseñados para tales efectos, los cuales tendrán una vitrina para el mote y dispondrán de un doble estanque para el jugo y además de cucharas y vasos desechables. Deberán contar con depósitos con tapa para la acumulación y posterior eliminación de desperdicios.
+
+Se permite la venta de jugos de frutas cítricas en carros móviles especialmente diseñados para tales efectos, los cuales tendrán, formando parte de su estructura, un estanque para el agua potable con capacidad mínima de 30 litros, un lavamanos, un receptáculo para el agua utilizada con una capacidad igual o superior a la del estanque de agua potable, una vitrina para la fruta, un depósito con tapa para la acumulación y posterior eliminación de los desperdicios, un sistema de extracción del jugo de frutas por prensado, un dispensador de vasos y bombillas desechables. Para el lavado de las superficies, se deberá disponer de un sistema de aplicación de agua y detergente por aspersión y de secado con toallas desechables. La materia prima deberá estar lavada y almacenada en buenas condiciones sanitarias. La elaboración del jugo deberá hacerse a pedido y en presencia del comprador. No se permite la adición de agua, hielo u otro ingrediente al producto final. Además, deberán cumplir con lo dispuesto en la letra i) del artículo 74b.
 
 ### Párrafo IX
 
