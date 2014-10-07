@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 489 EXENTA, DE 2014
+
+Por resolución exenta Nº 489, de 9 de julio de 2014, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins aprobó los planes y programas del curso B, de "M y C Escuela de Conductores Limitada", RUT: 76.350.619-3, conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores, representada legalmente por Marcelo Claudio Madina Avendaño, tendrá como Director a Juan Claudio Quinteros Olmos, y su sede estará ubicada en Avenida Einstein Nº 519, comuna de Rancagua. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas, 12 horas prácticas, con un total de 20 horas pedagógicas.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
