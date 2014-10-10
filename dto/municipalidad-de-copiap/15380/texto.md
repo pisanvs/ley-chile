@@ -1,0 +1,19 @@
+DEJA SIN EFECTO DECLARACIÓN DE UTILIDAD PÚBLICA VÍA DE SERVICIO TRAMO AVDA. HENRÍQUEZ ENTRE AVDA. CIRCUNVALACIÓN Y CALLE ALGARROBO
+
+Núm. 15.380.- Copiapó, 3 de octubre de 2014.- Vistos: Declaración de Utilidad Pública publicada en el Diario Oficial en fecha 2 de agosto de 2014; el decreto Nº 3.381 de fecha 6 de diciembre de 2002 que Aprobó la Actualización del Plan Regulador Comunal de Copiapó y su publicación en el Diario Oficial de fecha 17 de diciembre de 2002; el decreto Nº 373 de fecha 7 de febrero de 2005 que aprobó enmienda artículo 13 de la Ordenanza Local y su publicación en Diario Oficial de fecha 16 de febrero de 2005; el decreto Nº 723 de fecha 22 de marzo de 2005 que deja sin efecto el Traslado de Conrado Araya y su publicación en Diario Oficial de fecha 2 de abril de 2005; el decreto Nº 1.858 de fecha 18 de agosto de 2009 que fusiona el perfil Avenida Los Carrera y su publicación en Diario Oficial de fecha 26 de agosto de 2009; el decreto Nº 2.057 de fecha 8 de julio de 2011 que Fija Normas Urbanísticas a Terrenos que Caducaron la Declaración de Utilidad Pública y su publicación en Diario Oficial de fecha 8 de agosto de 2008; la ley Nº 19.939 que modificó el artículo 33º de la ley Nº 18.695; el certificado Nº 10/2014 de la Secretaria Municipal, certifica que en sesión ordinaria Nº 6, realizada el día 4 de febrero de 2014, el Honorable Concejo Comunal aprobó por unanimidad la Declaración de Utilidad Pública de la Vía de Servicio correspondiente a la Avda. Henríquez, entre Avda. Circunvalación Ignacio Carrera Pinto y la calle Algarrobo, de acuerdo a lo dispuesto en el inciso segundo del artículo 33º Ley Orgánica Constitucional de Municipalidades; la resolución Nº 1.600, de 2008, de la Contraloría General de la Republica, y las facultades que me confiere el DFL Nº 1 de 2006, del Ministerio del Interior, que aprueba el texto refundido, coordinado y sistematizado de la ley 18.695, Orgánica Constitucional de Municipales y sus modificaciones posteriores.
+
+Considerando:
+
+1. Que, con fecha 2 de agosto de 2014 esta corporación edilicia publica en el Diario Oficial declaratoria de utilidad pública de acuerdo a lo dispuesto en el inciso segundo del artículo 33º Ley Orgánica Constitucional de Municipalidades, para la ejecución del proyecto "Construcción Prolongación Avenida Henríquez, Copiapó".
+
+2. Que, dada la situación actual que atraviesa la economía regional y nacional y en virtud de lo indicado en el artículo 1º de la ley 18.695, Orgánica Constitucional de Municipalidades, es que este municipio decide replantear su presupuesto, con el objeto de satisfacer necesidades más urgentes de la comunidad, dejando todo proceso de expropiación postergado.
+
+3. Que, este municipio publicó en el Diario Oficial la mentada declaración de utilidad pública, con la intención de adquirir la propiedad de dos inmuebles, los cuales se individualizaron a través de los planos citados en el acto publicado, pero que en virtud de la antedicha reorganización presupuestaria no contará con los recursos financieros necesarios para el pago de indemnizaciones, por lo cual no es factible, llevar a cabo proceso expropiatorio alguno.
+
+Decreto:
+
+I. Déjase sin efecto la "Declaración de Utilidad Pública de la Vía de Servicio correspondiente a la Avda. Henríquez, entre Avda. Circunvalación Ignacio Carrera Pinto y la calle Algarrobo", de acuerdo a lo publicado en el Diario Oficial en fecha 2 de agosto de 2014.
+
+### II. Publícase en Diario Oficial el presente acto administrativo para su debida publicidad
+
+Maglio Cicardini Neyra, Alcalde.- Emma Susana Gaete Castillo, Secretaria Municipal.
