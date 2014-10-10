@@ -8,7 +8,11 @@ Considerando: Que el reglamento del Programa de Subsidio de Arriendo de Vivienda
 
 Resolución:
 
-1º.- Establécese que el Núcleo Familiar postulante deberá tener un ingreso mínimo mensual promedio de 8 Unidades de Fomento y éste no podrá exceder de 25, según su valor vigente al último día del mes anterior al del periodo de postulación.
+1º.- Establécese que el Núcleo Familiar postulante deberá tener un ingreso mínimo mensual promedio de 7 Unidades de Fomento y éste no podrá exceder de 25, según su valor vigente al último día del mes anterior al del periodo de postulación.
+
+Por cada integrante del núcleo familiar que exceda de tres, el ingreso máximo mensual del grupo familiar se incrementará en 8 Unidades de Fomento.
+
+El ingreso mensual del núcleo familiar corresponderá al ingreso bruto menos los descuentos legales.
 
 2º.- El puntaje de la Ficha de Protección Social del Núcleo Familiar postulante no podrá exceder de 13.484 puntos.
 
