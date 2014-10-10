@@ -278,7 +278,7 @@ Se prohíbe hacer pesquisas de oficio para inquirir si los comerciantes tienen o
 
 #### Artículo 42
 
-Los tribunales no pueden ordenar de oficio, ni a instancia de parte, la manifestación y reconocimiento general de los libros, salvo en los casos de sucesión universal, comunidad de bienes, liquidación de las sociedades legales o convencionales y quiebras.
+Los tribunales no pueden ordenar de oficio, ni a instancia de parte, la manifestación y reconocimiento general de los libros, salvo en los casos de sucesión universal, comunidad de bienes, liquidación de las sociedades legales o convencionales y procedimiento concursal de liquidación.
 
 #### Artículo 43
 
@@ -422,7 +422,7 @@ La responsabilidad de los corredores por razón de las operaciones de su oficio 
 
 #### Artículo 64
 
-Las quiebras de los corredores se presumen fraudulentas.
+Derogado.
 
 #### Artículo 65
 
@@ -1502,7 +1502,7 @@ El comisionista debe comunicar oportunamente al interesado todas las noticias re
 
 El comisionista que habiendo recibido fondos para evacuar un encargo, los distrajere para emplearlos en un negocio propio, abonará al comitente el interés legal del dinero desde el día en que hubieren entrado a su poder dichos fondos, y deberá también indemnizarle los perjuicios resultantes de la falta de cumplimiento del encargo.
 
-Incurrirá además en las penas del abuso de confianza, y en caso de quiebra será tratado como fallido fraudulento.
+Incurrirá además en las penas del abuso de confianza.
 
 #### Artículo 252
 
@@ -1708,7 +1708,7 @@ Hay entrega virtual si antes que las mercaderías se hallen a disposición del c
 
 #### Artículo 287
 
-Goza asimismo el comisionista, para ser pagado preferentemente a los demás acreedores del comitente, del derecho de retener el producto de las mercaderías consignadas, sea cual fuere la forma en que exista al tiempo de la quiebra del comitente.
+Goza asimismo el comisionista, para ser pagado preferentemente a los demás acreedores del comitente, del derecho de retener el producto de las mercaderías consignadas, sea cual fuere la forma en que exista al tiempo en que el comitente tenga la calidad de deudor en un procedimiento concursal de liquidación.
 
 #### Artículo 288
 
@@ -1768,7 +1768,7 @@ Expedidas las mercaderías, cesa la responsabilidad del comisionista, y ellas co
 
 #### Artículo 300
 
-El comisionista goza del derecho de retención que sanciona el artículo 284, aun respecto de las mercaderías que se encontraren en tránsito al tiempo de la quiebra de su comitente.
+El comisionista goza del derecho de retención que sanciona el artículo 284, aun respecto de las mercaderías que se encontraren en tránsito al tiempo en que el comitente tenga la calidad de deudor en un procedimiento concursal de liquidación.
 
 #### Artículo 301
 
@@ -1880,7 +1880,7 @@ Fuera de los libros cuya teneduría prescribe el artículo 25, el comisionista d
 
 Es obligación del comisionista asegurar las mercaderías que remitiere por cuenta ajena, teniendo orden y provisión para hacerlo, o dar pronto aviso a su comitente si no pudiere realizar el seguro por el precio y condiciones que le designaren sus instrucciones.
 
-Ocurriendo la quiebra del asegurador, pendiente el riesgo de las mercaderías, el comisionista deberá renovar el seguro, aun cuando no tenga encargo especial al efecto.
+Teniendo el asegurador la calidad de deudor en un procedimiento concursal de liquidación, pendiente el riesgo de las mercaderías, el comisionista deberá renovar el seguro, aun cuando no tenga encargo especial al efecto.
 
 #### Artículo 322
 
@@ -2268,7 +2268,7 @@ En uno y otro caso el socio moroso responderá de los daños y perjuicios que la
 
 Los acreedores personales de un socio no podrán embargar durante la sociedad el aporte que éste hubiere introducido; pero les será permitido solicitar la retención de la parte de interés que en ella tuviere para percibirla al tiempo de la división social.
 
-Tampoco podrán concurrir en la quiebra de la sociedad con los acreedores sociales; pero tendrán derecho para perseguir la parte que corresponda a su deuda en el residuo de la masa concursada.
+Tampoco podrán concurrir al procedimiento concursal de liquidación de la sociedad con los acreedores sociales; pero tendrán derecho para perseguir la parte que corresponda a su deuda en el residuo de la masa concursada.
 
 #### Artículo 381
 
@@ -2500,7 +2500,7 @@ Pasados los cuatro años, los socios no liquidadores no serán obligados a decla
 
 #### Artículo 422
 
-La prescripción no tiene lugar cuando los socios verifican por sí mismos la liquidación o la sociedad se encuentra en quiebra.
+La prescripción no tiene lugar cuando los socios verifican por sí mismos la liquidación o la sociedad tiene la calidad de deudor en un procedimiento concursal de liquidación.
 
 #### Artículo 423
 
@@ -3482,6 +3482,8 @@ Si el sobreseguro proviene de mala fe del asegurado, el contrato será nulo, no 
 
 Transmisión del seguro. Transmitida la propiedad de la cosa asegurada por título universal o singular, el seguro correrá en provecho del causahabiente desde el momento en que los riesgos le correspondan, a menos que el seguro hubiere sido consentido por el asegurador en consideración a la persona del causante. Terminado el seguro por esta causa, se aplicará lo dispuesto en el inciso segundo del artículo 520.
 
+> **Nota.** El numeral 9 del artículo 347 de la Ley 20720, Economía, publicada el 09.01.2014, modificó el presente articulo de la forma siguiente: "a) Sustitúyense, en el inciso primero, la frase inicial "Declarada la quiebra" por "Dictada la resolución de liquidación", y el término "fallido" por "deudor"; b) Reemplázase, en el inciso segundo, la frase "si ocurriere la quiebra", por "si se dictare la resolución de liquidación"; c) Sustitúyese, en el inciso tercero, la frase "Si el fallido o el administrador de la quiebra", por la que sigue: "Si el deudor en el procedimiento concursal de liquidación o el liquidador." Sin embargo los textos señalados no se encuentran en la versión vigente, por lo que no ha sido posible su actualización.
+
 #### Artículo 560
 
 Transferencia del seguro. Si el objeto del seguro o el interés asegurable fueren transferidos, cesará el seguro de pleno derecho al expirar el término de quince días, contado desde la transferencia, a menos que el asegurador acepte que éste continúe por cuenta del adquirente o que la póliza sea a la orden.
@@ -3660,14 +3662,6 @@ Ninguna de estas convenciones exonerará al asegurador directo de su obligación
 
 Normas imperativas del reaseguro. Las disposiciones de los artículos 585 y 586 son de carácter imperativo.
 
-#### Artículo 559
-
-Declarada la quiebra del asegurador pendientes los riesgos, el asegurado podrá solicitar la rescisión del seguro o exigir que el concurso afiance el cumplimiento de las obligaciones del fallido.
-
-Goza de la misma opción el asegurador, si ocurriere la quiebra del asegurado antes de pagarse la prima.
-
-Si el fallido o el administrador de la quiebra no otorgare fianza dentro de los tres días siguientes al de la notificación de la demanda, el seguro quedará rescindido.
-
 Sección Tercera. De los seguros de personas
 
 #### Artículo 588
@@ -3810,7 +3804,7 @@ Los embargos o retenciones de valores llevados a la cuenta corriente sólo son e
 
 La cuenta corriente se concluye por el advenimiento de la época fijada por la convención o antes de él por consentimiento de las partes.
 
-Se concluye también por la muerte natural o civil, la interdicción, la demencia, la quiebra o cualquier otro suceso legal que prive a alguno de los contratantes de la libre disposición de sus bienes.
+Se concluye también por la muerte natural o civil, la interdicción, la demencia, la dictación de la resolución de liquidación o cualquier otro suceso legal que prive a alguno de los contratantes de la libre disposición de sus bienes.
 
 #### Artículo 612
 
@@ -6244,7 +6238,7 @@ El tribunal de puerto o lugar de la retención o arraigo, resolverá toda cuesti
 
 #### Artículo 1034
 
-No podrá incoarse ningún procedimiento judicial con relación al transporte de mercancías regido por este párrafo, en un lugar distinto de los especificados en los dos artículos anteriores. Ello sin perjuicio de la facultad para ejercitar medidas prejudiciales o cautelares, de la facultad para incoar el procedimiento arbitral que se indica en la sección siguiente, o de la competencia especial que se disponga para los juicios de quiebras.
+No podrá incoarse ningún procedimiento judicial con relación al transporte de mercancías regido por este párrafo, en un lugar distinto de los especificados en los dos artículos anteriores. Ello sin perjuicio de la facultad para ejercitar medidas prejudiciales o cautelares, de la facultad para incoar el procedimiento arbitral que se indica en la sección siguiente, o de la competencia especial que se disponga para los procedimientos concursales de liquidación.
 
 #### Artículo 1035
 
@@ -7460,11 +7454,11 @@ A la solicitud para la apertura del procedimiento se acompañará una nómina de
 
 #### Artículo 1215
 
-El tribunal, luego de examinar si los cálculos del proponente sobre el monto del fondo, se ajustan a las disposiciones pertinentes del párrafo 1 del título IV o del párrafo 3 del título V de este Libro, según corresponda, dictará un auto por el que declarará iniciado el procedimiento. Simultáneamente, se pronunciará sobre las modalidades ofrecidas para la constitución del fondo, ordenando su cumplimiento si las aprueba. En la misma resolución señalará la suma que el peticionario deberá poner a disposición del tribunal, para cubrir las costas del procedimiento y designará un síndico titular y uno suplente para que conduzca y ejecute todas las actuaciones y operaciones que se le encomiendan en este párrafo. Estos nombramientos deberán recaer en personas que integren la nómina de síndicos a que se refiere la Ley de Quiebras, y sin que se requiera su designación o ulterior ratificación por la junta de acreedores.
+El tribunal, luego de examinar si los cálculos del proponente sobre el monto del fondo, se ajustan a las disposiciones pertinentes del párrafo 1 del título IV o del párrafo 3 del título V de este Libro, según corresponda, dictará un auto por el que declarará iniciado el procedimiento. Simultáneamente, se pronunciará sobre las modalidades ofrecidas para la constitución del fondo, ordenando su cumplimiento si las aprueba. En la misma resolución señalará la suma que el peticionario deberá poner a disposición del tribunal, para cubrir las costas del procedimiento y designará un liquidador titular y uno suplente para que conduzca y ejecute todas las actuaciones y operaciones que se le encomiendan en este párrafo. Estos nombramientos deberán recaer en personas que integren la nómina de liquidadores a que se refiere la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, y sin que se requiera su designación o ulterior ratificación por la junta de acreedores.
 
 #### Artículo 1216
 
-Cuando para la constitución del fondo se entregue dinero, el tribunal lo depositará en un banco, con conocimiento del síndico y de los interesados. Los reajustes e intereses que se obtengan incrementarán el fondo en beneficio de los acreedores. Si el fondo ha sido constituido mediante una garantía, su importe devengará los intereses corrientes en el lugar de asiento del tribunal, de lo que se dejará constancia en el documento constitutivo de la garantía.
+Cuando para la constitución del fondo se entregue dinero, el tribunal lo depositará en un banco, con conocimiento del liquidador y de los interesados. Los reajustes e intereses que se obtengan incrementarán el fondo en beneficio de los acreedores. Si el fondo ha sido constituido mediante una garantía, su importe devengará los intereses corrientes en el lugar de asiento del tribunal, de lo que se dejará constancia en el documento constitutivo de la garantía.
 
 #### Artículo 1217
 
@@ -7482,9 +7476,27 @@ Desde la fecha de dictación de la resolución indicada en el artículo 1217, se
 
 Sección Segunda. De la verificación e impugnación y oposición a la constitución del fondo.
 
+#### Artículo 1220
+
+Dictada la resolución que se menciona en el artículo 1217, el liquidador informará, por carta certificada, de la constitución del fondo a todos los acreedores cuyos nombres y domicilios fueron señalados por el requirente en la nómina aludida en el artículo 1214.
+
+La mencionada información a los acreedores contendrá:
+
+1º. Copia de la resolución prevista en el artículo 1217;
+
+2º. El nombre y dirección de quien ha requerido la constitución del fondo y a qué título;
+
+3º.El nombre de la nave y su lugar de matrícula;
+
+4º. Una relación sucinta del acontecimiento en que se produjeron los daños;
+
+5°. El monto del crédito del destinatario de la comunicación, según el requirente, y
+
+6°. La indicación de que dispone del plazo que señala el artículo siguiente para verificar su crédito.
+
 #### Artículo 1221
 
-Despachadas que fueren las cartas con la información indicada, el síndico extractará la misma información y la publicará junto con la nómina a que se refiere el artículo 1214, por una vez en el Diario Oficial y en un diario de circulación en el lugar en que funciona el tribunal ante el cual se ha abierto el procedimiento, indicando que los acreedores disponen de treinta días consecutivos a contar de la última de estas publicaciones para verificar sus créditos y acompañar los documentos que los justifiquen.
+Despachadas que fueren las cartas con la información indicada, el liquidador extractará la misma información y la publicará junto con la nómina a que se refiere el artículo 1214, por una vez en el Diario Oficial y en un diario de circulación en el lugar en que funciona el tribunal ante el cual se ha abierto el procedimiento, indicando que los acreedores disponen de treinta días consecutivos a contar de la última de estas publicaciones para verificar sus créditos y acompañar los documentos que los justifiquen.
 
 #### Artículo 1222
 
@@ -7494,21 +7506,21 @@ Las oposiciones u objeciones se tramitarán conforme al procedimiento sumario, c
 
 #### Artículo 1223
 
-En todos los procedimientos a que se refiere este párrafo, el síndico obrará como parte y procurará que se dé curso progresivo a los autos, empleando los medios que se contemplan en las leyes con tal objeto.
+En todos los procedimientos a que se refiere este párrafo, el liquidador obrará como parte y procurará que se dé curso progresivo a los autos, empleando los medios que se contemplan en las leyes con tal objeto.
 
 #### Artículo 1224
 
-El síndico formará la nómina de los acreedores con derecho a participar en la distribución del fondo, y propondrá al juez el pago de los créditos. La distribución se hará respetando las normas sobre preferencias o privilegios que se establecen en este Libro.
+El liquidador formará la nómina de los acreedores con derecho a participar en la distribución del fondo, y propondrá al juez el pago de los créditos. La distribución se hará respetando las normas sobre preferencias o privilegios que se establecen en este Libro.
 
 El saldo del fondo se distribuirá a prorrata del monto de los créditos afectos a la limitación y que no gocen de preferencia o privilegio.
 
 #### Artículo 1225
 
-Cuando hubiere créditos cuya impugnación o declaración no hubiere sido resuelta, el síndico hará las reservas proporcionales que considere prudentes, repartiendo entretanto el resto del fondo según las reglas anteriores.
+Cuando hubiere créditos cuya impugnación o declaración no hubiere sido resuelta, el liquidador hará las reservas proporcionales que considere prudentes, repartiendo entretanto el resto del fondo según las reglas anteriores.
 
 #### Artículo 1226
 
-En lo no dispuesto en este Libro, la verificación e impugnación de los créditos y los repartos se regirán por las normas pertinentes de la Ley de Quiebras. Igualmente, se aplicarán a los síndicos las causales de cesación en el cargo que establece dicha ley.
+En lo no dispuesto en este Libro, la verificación e impugnación de los créditos y los repartos se regirán por las normas pertinentes de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. Igualmente, se aplicarán a los liquidadores las causales de cesación en el cargo que establece dicha ley.
 
 #### Artículo 1227
 
@@ -7694,1393 +7706,763 @@ Podrá interrumpirse sucesivamente el plazo de prescripción mediante declaraci�
 
 # Libro IV
 
-"De las quiebras"
+De las quiebras.
 
-> **Nota.** El Art. único inciso segundo de la Ley 20.080, publicada el 24.11.2005 ordenó incorporar la Ley 18.175 y sus modificaciones al Código de Comercio, sin señalar la secuencia numérica correspondiente en el presente Código. Excluyó de ésta incorporación, el Título II, el que se mantiene en la Ley 18.175 como Ley Orgánica de la Superintendencia de Quiebras.
+> **Nota.** El N° 20 del Artículo 347, de la Ley 20720, publicada el 09.01.2014, deroga, a contar de nueve meses de la fecha de publicación, el Libro IV del presente Código. No obstante lo anterior, el artículo Primero Transitorio de la citada ley, dispuso que las quiebras, convenios y cesiones de bienes que se encontraban tramitación y aquellas que se hayan iniciado antes de su entrada en vigencia, se regirán por las disposiciones contendidas en el Libro IV del Código de Comercio. Por otra parte, el Artículo duodécimo Transitorio, dispone que el artículo 38 y el Título XIII, ambos del Libro IV del citado Código, quedarán vigentes para todos los efectos relativos a la persecución de los delitos contemplados en sus disposiciones y perpetrados con anterioridad a la entrada en vigencia de esta ley, sin perjuicio de las normas relativas a la pena, en que regirá lo dispuesto en el artículo 18 del Código Penal. El texto previo a la derogación dispuesta por la Ley 20720, puede ser consultado en las versiones anteriores de la norma.
 
 ## Título I
 
-Disposiciones Generales
+Disposiciones Generales Derogado.
 
 #### Artículo 1°
 
-La presente ley trata de los siguientes concursos: la quiebra; los convenios regulados en el Título XII; y las cesiones de bienes del Título XV.
-
-El juicio de quiebra tiene por objeto realizar en un solo procedimiento los bienes de una persona natural o jurídica, a fin de proveer al pago de sus deudas, en los casos y en la forma determinados por la ley.
+Derogado.
 
 #### Artículo 2°
 
-La quiebra produce para el fallido y todos sus acreedores un estado indivisible.
-
-Comprenderá, en consecuencia, todos los bienes de aquél y todas sus obligaciones aun cuando no sean de plazo vencido, salvo aquellos bienes y obligaciones que la ley expresamente exceptúe.
+Derogado.
 
 #### Artículo 3°
 
-El juicio de quiebra se tramitará en dos ramos principales: el de Quiebra y el de Administracion. En el primero se tramitará también la verificación de créditos.
+Derogado.
 
 #### Artículo 4°
 
-Aun cuando entre los acreedores haya personas que gocen de fuero especial, conocerá del juicio de quiebra el tribunal que sería competente sin esa circunstancia.
+Derogado.
 
 #### Artículo 5°
 
-Toda cuestión que se suscite en el juicio de quiebra o en materia de convenios se tramitará como incidente a menos que la ley señale un procedimiento diverso.
-
-Salvo las excepciones expresamente contempladas en esta ley, las apelaciones se concederán en el solo efecto devolutivo y gozarán de preferencia para su agregación extraordinaria a la tabla y para su fallo.
-
-Los términos de días establecidos en esta ley se entenderán suspendidos durante los feriados, a menos que ella misma o el tribunal, por motivos fundados, disponga lo contrario.
-
-Los expedientes relativos a los concursos de que trata la presente ley, sólo podrán ser retirados por la Superintendencia de Quiebras, el síndico o el experto facilitador. En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o piezas del proceso, el trámite se cumplirá, sin excepción, remitiendo, a costa del peticionario o de la parte que hubiere interpuesto el recurso o realizado la gestión que origina la petición, las copias o fotocopias respectivas. Éstas deberán ser debidamente certificadas, en cada hoja, por el secretario del tribunal.
+Derogado.
 
 #### Artículo 6°
 
-Siempre que esta ley o el tribunal ordene que una resolución se notifique por avisos, se entenderá que debe publicarse un aviso en el Diario Oficial. El aviso, aprobado en su texto por el tribunal, contendrá un extracto de la petición y copia íntegra de la resolución, a menos que esta ley o el tribunal disponga lo contrario.
+Derogado.
 
 ## Título II
 
-De la Superintendencia de Quiebras
-
-> **Nota.** Las disposiciones del presente Título II se encuentran contenidas en la Ley 18175, publicada el 28.10.1982, que en virtud de lo preceptuado en el artículo único de la LEY 20080, publicada el 24.11.2005, se mantiene como "Ley Orgánica de la Superintendencia de Quiebras" en la citada Ley 18175.
+De la Superintendencia de Quiebras Derogado.
 
 ## Título III
 
-De los Síndicos
+De los Síndicos Derogado.
 
-1.- De la nómina nacional de síndicos.
+1.- De la nómina nacional de síndicos. Derogado.
 
 #### Artículo 14°
 
-Existirá una nómina nacional de síndicos integrada por aquellas personas legalmente investidas como tales por la autoridad competente.
+Derogado.
 
 #### Artículo 15°
 
-El nombramiento de los síndicos que conformarán la nómina se hará por decreto expedido a través del Ministerio de Justicia.
+Derogado.
 
 #### Artículo 16°
 
-Sólo podrán optar a ser nombrados síndicos las personas que tengan el título de ingeniero con a lo menos diez semestres de estudios o contador auditor o de contador público, otorgados por universidades del Estado o reconocidas por éste o de abogado, que hayan ejercido la profesión a lo menos por cinco años, y que aprueben el examen a que se refiere el inciso siguiente.
-
-Los postulantes a integrar la nómina de síndicos deberán aprobar un examen de conocimientos ante la Superintendencia de Quiebras, la que deberá señalar fecha para rendirlo, a lo menos dos veces al año.
-
-Los síndicos que integran la nómina deberán rendir un examen de conocimientos ante la misma Superintendencia, con una frecuencia no superior a tres años.
-
-El síndico que repruebe el examen quedará suspendido para asumir en nuevas quiebras, convenios o cesiones de bienes, y deberá rendirlo otra vez, dentro del año calendario siguiente, en la fecha que fije la Superintendencia para todos los que se encuentren en la misma situación. Si en esa oportunidad reprueba nuevamente, dejará de formar parte de la nómina nacional de síndicos.
-
-Los exámenes contemplarán exigencias comunes para todos los postulantes o síndicos que lo rindan conjuntamente en cada oportunidad. El Superintendente deberá señalar con la debida anticipación las materias que incluirán los exámenes.
+Derogado.
 
 #### Artículo 17°
 
-No podrán ser síndicos, las personas que a continuación se expresan:
-
-1. Las que hubieren sido declaradas en quiebra, o se encontraren en estado de notoria insolvencia, y las que, dentro de los dos años anteriores a la declaración de quiebra de una persona jurídica, hubieren actuado como directores o administradores de ella;
-
-2. Las que hayan sido condenadas por crimen o simple delito; 3.- Las que desempeñen un cargo o función públicos, sea en instituciones del Estado, en la Administración Central o en instituciones o empresas semifiscales, municipales, autónomas u organismos creados por aquél o dependientes de él, aunque no sean del nombramiento del Presidente de la República ni reciban remuneración del Estado.
-
-No obstante, no regirá esta incompatibilidad respecto de las personas que desempeñen un cargo o función en instituciones de educación superior;
-
-4. Las que tuvieren incapacidad física o mental para ejercer el cargo, y
-
-5. Las que hubieren dejado de integrar la nómina nacional en virtud de las causales señaladas en los números 3, 4, 5, 6, 7, 8, 10, 11 y 12 del artículo 22.
+Derogado.
 
 #### Artículo 18°
 
-Toda persona interesada en desempeñar la actividad de síndico podrá, en cualquier tiempo, presentar su solicitud ante el Ministerio de Justicia a través de la Superintendencia de Quiebras.
-
-En dicha solicitud deberá expresar si desea ejercer en todo el territorio nacional o en una o más regiones.
-
-Los interesados deberán acompañar a su solicitud los antecedentes que acrediten el cumplimiento de los requisitos a que se refiere el artículo 16° y una declaración jurada en la que se exprese no estar afecto a ninguna de las inhabilidades contempladas en el artículo 17°.
+Derogado.
 
 #### Artículo 19°
 
-La inclusión o exclusión de una persona de la nómina nacional de síndicos se publicará en el Diario Oficial.
+Derogado.
 
 #### Artículo 20°
 
-El Ministerio de Justicia deberá mantener en forma permanente y debidamente actualizada la nómina nacional de síndicos, con indicación de las respectivas profesiones o actividades y domicilios. Dicha lista tendrá carácter público.
+Derogado.
 
 #### Artículo 21°
 
-Las personas que figuren en la nómina nacional podrán desempeñar sus funciones en cualquier lugar o región del país, a menos que expresaren su voluntad de ejercer sólo en una o más regiones.
+Derogado.
 
-Será obligatorio el desempeño en la región en que el síndico estuviere domiciliado y en aquellas que se hubieren indicado en la solicitud a que se refiere el artículo 18°.
+#### Artículo 21° bis
 
-Los gastos de traslado y otros necesarios para el desempeño de las funciones del síndico, cuando su domicilio fuere distinto del domicilio del fallido, se considerarán como gastos de administración de la quiebra y, en caso de no ser aprobados por la junta de acreedores en su primera reunión, serán regulados por el tribunal que conozca de la quiebra.
-
-#### Artículo 21 bis
-
-La junta de acreedores, en su primera reunión ordinaria, deberá acordar si exige o no al síndico una garantía de fiel desempeño de su cargo y, en caso afirmativo, la clase y monto de ella.
-
-El síndico deberá mantener vigente la garantía mientras subsista su responsabilidad.
+Derogado.
 
 #### Artículo 22°
 
-Los síndicos serán excluidos de la nómina nacional en los casos siguientes:
+Derogado.
 
-1. Por haber sido nombrados en contravención a los artículos 16°, 17°, 18° inciso tercero y 19°;
-
-2. Por inhabilidad sobreviniente de acuerdo con las causales mencionadas en el artículo 17°;
-
-3. Por intervenir a cualquier título en quiebras que no estuvieren o hayan estado a su cargo, salvo las actuaciones que le correspondan en su calidad de síndico, de acreedor NOTAcon anterioridad a la quiebra, de representante legal en conformidad al artículo 43 del Código Civil, y de lo previsto en el artículo 28. La delegación parcial de funciones establecida en este último artículo deberá ser conocida y aprobada en la siguiente junta de acreedores;
-
-4. Por adquirir para sí o para terceros cualquier clase de bienes en las quiebras, convenios o cesiones de bienes en que intervengan como síndico;
-
-5. Por enajenar cualquier clase de bienes de las quiebras o cesiones de bienes en que intervenga como síndico a su cónyuge; a alguna persona jurídica en que tenga interés económico directo o indirecto; a los socios o accionistas de sociedades en las cuales tenga participación, salvo aquellas que se encuentren inscritas en el Registro de Valores; a las personas con las que posea bienes en comunidad, con excepción de los copropietarios a que se refiere la ley Nº19.537, sobre Propiedad Inmobiliaria; a sus dependientes; a los profesionales o técnicos que le presten servicios; y a sus ascendientes y descendientes y colaterales por consanguinidad o afinidad hasta el segundo grado inclusive;
-
-6. Por proporcionar u obtener cualquier ventaja en las quiebras o cesiones de bienes en que intervenga como síndico;
-
-7. Por negarse, sin causa justificada, a aceptar una designación;
-
-8. Por haberse declarado judicialmente, por sentencia firme, su responsabilidad civil o penal, en conformidad con el artículo 38°;
-
-9. Por renuncia presentada ante el Ministerio de Justicia, sin perjuicio de las obligaciones y responsabilidades por las funciones que ya hubiere asumido;
-
-10. Por sentencia ejecutoriada que rechace la cuenta definitiva que debe presentar en conformidad a la ley;
-
-11. Por infracciones reiteradas que en su conjunto constituyan una conducta grave, o por infracción grave a las disposiciones legales o reglamentariasNOTA o a las instrucciones que imparta la Superintendencia en uso de sus atribuciones;
-
-12. Por haber sido removido de su cargo en el caso del número 9 del artículo 8°, y
-
-13. Por reprobar por segunda vez el examen, en el caso del inciso cuarto del artículo 16, y
-
-14. Por muerte.
-
-Producidas las NOTAcircunstancias señaladas en los números precedentes, el Ministerio de Justicia, de oficio o a petición del juez de la quiebra o de la Superintendencia, dictará el decreto de exclusión respectivo.
-
-El síndico NOTApodrá reclamar de su exclusión ante la Corte de Apelaciones de su domicilio dentro de los cinco días de notificado el decreto. La Corte conocerá el reclamo en cuenta, con audiencia de las partes y sin ulterior recurso, debiendo apreciarse la prueba en conciencia.
-
-Sin perjuicio de la cesación del síndico en el cargo, subsistirá la obligación de rendir cuenta de su gestión, cuando proceda, así como la responsabilidad civil, penal y administrativa en que pudiere haber incurrido.
-
-El síndico que cese anticipadamente en el cargo deberá hacer entrega de los bienes y antecedentes de cada quiebra, convenio o cesión de bienes bajo su administración o intervención al nuevo síndico titular, dentro de cinco días contados desde la fecha en que este último haya asumido.
-
-En caso de incumplimiento de esta obligación o de la de rendir su cuenta de administración, el tribunal de la quiebra, de oficio o a petición de cualquier interesado, requerirá el cumplimiento de ellas bajo el apercibimiento señalado en el artículo 238 del Código de Procedimiento Civil, caso en el cual las multas establecidas en dicha disposición podrán alcanzar hasta 60 unidades de fomento, sin perjuicio de que el nuevo síndico titular incaute inmediatamente los bienes y antecedentes de la quiebra, de acuerdo con los artículos 94 y siguientes de esta ley.
-
-2.- De la designación de síndico y la asunción al cargo.
+2.- De la designación de síndico y la asunción al cargo. Derogado.
 
 #### Artículo 23°
 
-Sólo podrán ser designados síndicos de una quiebra aquellas personas que, a la época de solicitarse la respectiva declaración de quiebra, formaban parte de la nómina a que se refiere al artículo 14°, y que permanezcan en ella al momento de su nombramiento por el juez o por la junta de acreedores.
+Derogado.
 
 #### Artículo 24°
 
-No podrán ser designados síndicos de una quiebra, convenio o cesión de bienes:
-
-1. El cónyuge ni los parientes, hasta el cuarto grado de consanguinidad o segundo de afinidad del fallido o deudor; y de los que hayan sido directores titulares o administradores de la persona jurídica, en los dos años anteriores a la quiebra, proposición de convenio o solicitud de cesión de bienes;
-
-2. Los acreedores y deudores del fallido o deudor y todos los que tuvieren un interés directo o indirecto en la quiebra, convenio o cesión de bienes;
-
-3. Los administradores de bienes del fallido o deudor que fuere persona natural y los que hubieren tenido tal calidad dentro de los dos años anteriores a la declaración de quiebra, convenio o cesión de bienes, como asimismo los trabajadores de los acreedores y deudores de aquél;
-
-4. Los que tengan objetada la cuenta en alguna de sus quiebras, desde el momento en que se insistiere en uno o más reparos. Sin embargo, si las objeciones no estuvieren respaldadas por la opinión favorable de la Superintendencia de Quiebras el síndico podrá ser designado, y
-
-5. Los que estuvieren suspendidos en conformidad a lo dispuesto en el Nº 5 del artículo 8º.
+Derogado.
 
 #### Artículo 25°
 
-El tribunal, junto con declarar la quiebra, designará un síndico titular y otro suplente, en conformidad con los artículos 42 ó 44, según corresponda, que tendrán el carácter de provisionales en tanto no los ratifique la junta de acreedores o hasta que entren en funciones los que ésta designare.
-
-Si el síndico designado como titular cesare definitivamente en su cargo, asumirá el suplente, el que continuará hasta la total tramitación de la quiebra. Si faltare éste, la junta de acreedores o el tribunal, de oficio o a petición de cualquier interesado, hará nuevas designaciones. Los síndicos designados en conformidad a este inciso deberán asumir aun cuando la quiebra no tenga bienes o fondos por repartir o su cuenta final esté aprobada.
-
-No se aplicará lo dispuesto en el inciso precedente al síndico que estuviere impedido transitoriamente y que hubiere constituido mandatario conforme al artículo 28°.
-
-Si el síndico se encontrare suspendido, asumirá el suplente por todo el período que dure la suspensión o impedimento. Igual norma se aplicará cuando el síndico se encontrare transitoriamente impedido para desempeñar el cargo sin haber constituido mandatario.
+Derogado.
 
 #### Artículo 26°
 
-Los síndicos, titulares o suplentes, provisionales o definitivos, asumirán su cargo previa aceptación y juramento ante el ministro de fe que les notifique su designación.
+Derogado.
 
-Se dejará constancia en autos de la notificación, aceptación y juramento, o de la negativa fundada, en su caso.
-
-El juramento recaerá sobre el fiel desempeño del cargo, que comprenderá, en todo caso, el resguardo de los intereses generales de los acreedores y el pronto cumplimiento de su cometido.
-
-El síndico titular entrará en funciones tan pronto acepte y preste juramento, sin esperar la constancia procesal a que se refiere el inciso segundo.
-
-El síndico que no aceptare el cargo y que, en el acto de notificársele su designación o dentro de tercero día, no presentare excusa fundada, o que, habiéndola presentado, ésta hubiere sido calificada de insuficiente por el tribunal, será eliminado de la nómina una vez cumplido el plazo señalado o ejecutoriada la sentencia que resuelva el incidente, según corresponda. Para estos efectos, el juez comunicará tales hechos al Ministerio de Justicia.
-
-3.- De las atribuciones y deberes de los síndicos.
+3.- De las atribuciones y deberes de los síndicos. Derogado.
 
 #### Artículo 27°
 
-El síndico representa los intereses generales de los acreedores, en lo concerniente a la quiebra, y representa también los derechos del fallido, en cuanto puedan interesar a la masa, sin perjuicio de las facultades de aquéllos y de éste determinadas por la ley.
-
-Le incumbe especialmente:
-
-1. Actuar en resguardo de dichos intereses y derechos, en juicio y fuera de él, con plena representación del fallido y de los acreedores;
-
-2. Hacer las publicaciones e inscripciones de la declaración de quiebra, y remitir, a los acreedores que residan en el extranjero, las cartas a que se refiere el N° 7 del artículo 52°;
-
-3. Exigir del fallido que le suministre la imformación que juzgue necesaria para el mejor desempeño de su cargo, y le entregue sus libros, papeles y documentos;
-
-4. Cerrar los libros de comercio del fallido;
-
-5. Abrir la correspondencia del fallido con intervención del tribunal, y retener las cartas y documentos que tengan relación con los negocios de la quiebra;
-
-6. Proponer la fecha de la cesación de pagos;
-
-7. Recibirse bajo inventario de los bienes de la quiebra y administrarlos en conformidad a la ley;
-
-8. Continuar provisionalmente el giro de los establecimientos del fallido, con conocimiento de éste;
-
-9. Continuar efectivamente el giro del fallido con autorización del tribunal o con acuerdo de la junta de acreedores, según corresponda;
-
-10. Cobrar los créditos del activo de la quiebra;
-
-11. Celebrar compromisos o transacciones previo acuerdo de la junta de acreedores;
-
-12. Contratar préstamos para subvenir a los gastos de la quiebra, debiendo informar de ello en la próxima reunión de la junta de acreedores;
-
-13. Ceder a título oneroso los derechos que el fallido tenga en sociedades, comunidades o asociaciones o pedir su disolución, liquidación o partición, a falta de interesados.
-
-Al efecto, representará al fallido en los actos y contratos que deban realizarse u otorgarse, en el nombramiento de árbitros o liquidadores y en los respectivos juicios de liquidación y partición;
-
-14. Exigir rendición de cuentas de cualquiera que haya administrado bienes del fallido;
-
-15. Impugnar los créditos en conformidad a lo dispuesto en el párrafo primero del Título X;
-
-16. Realizar los bienes de la quiebra;
-
-17. Depositar a interés en un banco o institución financiera, los fondos que perciba, en cuenta separada para cada quiebra y a nombre de ésta, y abrir una cuenta corriente con los fondos indispensables para solventar los gastos que aquélla demande;
-
-18. Hacer repartos de fondos, en la forma dispuesta en el párrafo segundo del Título X;
-
-19. Desempeñar las funciones de interventor o depositario en los casos que esta ley determina;
-
-20. Servir de síndico en los concursos de hipotecarios que se abran dentro de la quiebra y llevar cuenta separada de todo lo concerniente a cada uno de ellos;
-
-21. Comunicar, dento de los diez días siguientes al de su asunción al cargo, la declaratoria de quiebra al Servicio de Tesorerías del domicilio del fallido;
-
-22. Ejecutar los acuerdos legalmente adoptados por la junta de acreedores dentro del ámbito de su competencia, y
-
-23. Ejercer las demás facultades y cumplir las demás obligaciones que la ley le asigna.
+Derogado.
 
 #### Artículo 28°
 
-El síndico podrá delegar parte de sus funciones, bajo su propia responsabilidad y a su costa, en mandatarios que designe de la nómina nacional de síndicos y que no estén afectos a las inhabilidades del artículo 24°. La delegación y aceptación deberán constar en instrumento público, copia del cual se agregará a los autos y de ella se dará cuenta en la próxima reunión de la junta de acreedores. De igual forma se procederá para poner término a la delegación.
+Derogado.
 
-4.- De la cuenta del síndico y de la cesación en el cargo.
+4.- De la cuenta del síndico y de la cesación en el cargo. Derogado.
 
-#### Artículo 29
+#### Artículo 29°
 
-El síndico rendirá periódicamente cuentas provisorias de su gestión a la junta de acreedores, en la forma y plazos que establezca la Superintendencia de Quiebras en conformidad al número 3 del artículo 8º. Estos plazos no podrán ser superiores a seis meses.
-
-El pronunciamiento de la junta de acreedores respecto de las cuentas provisorias no impedirá objetar la cuenta definitiva en las materias incluidas en ellas.
-
-Si el síndico no presentare cualquiera de las cuentas provisorias señaladas en este artículo, la Superintendencia podrá aplicarle una multa a beneficio fiscal de hasta 15 unidades de fomento.
+Derogado.
 
 #### Artículo 30°
 
-El síndico rendirá cuenta definitiva de su gestión a más tardar a los treinta días siguientes a aquel en que hubieren vencido los plazos establecidos en los artículos 109° y 130°. Deberá rendirla antes, sin embargo, en caso de que se hubieren agotado los fondos o se hubieren pagado íntegramente los créditos reconocidos y no haya impugnaciones por resolver, o todos los acreedores hubieren convenido desistirse de la quiebra o remitir sus créditos. Deberá, asimismo, rendir cuenta cuando hubiere cesado anticipadamente en el cargo.
+Derogado.
 
-Lo dispuesto en este artículo es sin perjuicio de las facultades que confiere a la junta de acreedores el artículo 116°.
+#### Artículo 31°
 
-La cuenta definitiva se presentará al tribunal, el que ordenará notificarla mediante aviso. El tribunal citará a una junta de acreedores, la que deberá celebrarse al decimoquinto día siguiente a su notificación. El aviso contendrá un extracto de la cuenta definitiva e indicará el lugar, día y hora de celebración de la respectiva junta. Conjuntamente con la presentación de la cuenta definitiva al tribunal, el síndico deberá remitir copia de ella a la Superintendencia de Quiebras.
-
-A contar de la fecha fijada para la junta, háyase ésta realizado o no, los acreedores y el fallido que no se hayan pronunciado a favor de la aprobación de la cuenta y la Superintendencia de Quiebras, dispondrán del plazo de treinta días hábiles para objetar la cuenta rendida por el síndico.
-
-#### Artículo 31
-
-En caso de que algún acreedor, el fallido o la Superintendencia objetaren la cuenta, el síndico dispondrá del plazo de diez días, contado desde la última notificación por cédula de la o las objeciones, para contestar fundadamente las observaciones. Si no obstante la contestación, de la que se dará traslado por el plazo de diez días al o los objetantes, cualquiera de ellos insistiere en sus objeciones, el tribunal resolverá en definitiva, previo informe de la Superintendencia, el que deberá ser evacuado dentro de treinta días.
-
-La aprobación de la cuenta definitiva impide el ejercicio de las facultades fiscalizadoras de la Superintendencia en relación a las partidas contenidas en ella, sin perjuicio de lo establecido en el artículo 1465 del Código Civil.
+Derogado.
 
 #### Artículo 32°
 
-El síndico cesará en su cargo en la quiebra, convenio o cesión de bienes:
+Derogado.
 
-1. Por haber dado cumplimiento a su cometido;
+5.- De la remuneración del síndico. Derogado.
 
-2. Por no haberse confirmado la designación del síndico provisional;
+#### Artículo 33°
 
-3. Por la revocación de la junta de acreedores;
+Derogado.
 
-4. Por renuncia, que deberá ser justificada y aceptada por la junta de acreedores o, en su defecto, por el tribunal;
+#### Artículo 34°
 
-5. Por haber dejado de formar parte de la nómina nacional de síndicos, salvo el caso del N° 9 del artículo 22°, y
-
-6. Por sobrevenir alguna de las causales de inhabilidad contempladas en los números 1, 2 y 3 del artículo 24. El síndico deberá dar cuenta al juez de la causa y a la Superintendencia de Quiebras de la inhabilidad que le afecte. El incumplimiento de la mencionada obligación será constitutivo de falta grave. Declarada la inhabilidad por el tribunal el síndico cesará en su cargo.
-
-La declaración de inhabilidad no podrá ser opuesta a terceros de buena fe.
-
-> **Nota.** La letra d) del N° 12 del Art. Único de la Ley 20004, publicada el 08.03.2005, eliminó el N° 7 de la presente norma.
-
-5.- De la remuneración del síndico.
-
-#### Artículo 33
-
-El síndico definitivo tendrá como remuneración única por el ejercicio de sus funciones el honorario determinado en la forma señalada en el artículo siguiente. Dicho honorario constituirá gasto de administración de la quiebra, y con cargo a éste el síndico deberá costear los gastos de su oficina, las remuneraciones de sus trabajadores, todo pago de honorarios a abogados, contadores, asesores, cualquier otra clase de profesionales, técnicos y prestadores de servicios que haya contratado para el cumplimiento de su cometido, y la parte del honorario del ministro de fe a que se refiere el artículo 94, en cuanto exceda el arancel fijado para los notarios. Lo anterior no se aplicará a los gastos comprendidos en el inciso 1º del artículo 111.
-
-Se prohíbe al síndico percibir de la quiebra, por sí o por interpósita persona, cualquier ingreso adicional al honorario señalado, sin perjuicio de los honorarios que pudieren corresponderle en conformidad al artículo 113, como administrador de la continuación del giro.
-
-#### Artículo 34
-
-El honorario único a que se refiere el artículo anterior será proporcional al monto de los repartos de fondos que se efectúen en la quiebra, salvo lo dispuesto para el primer tramo en este artículo, de acuerdo con la escala expresada en unidades de fomento que se señala a continuación, según su valor en pesos a la fecha del respectivo reparto:
-
-Sobre la parte que exceda de 0 y no sobrepase de 2.000 Unidades de Fomento, 20,00%.
-
-Sobre la parte que exceda de 2.000 y no sobrepase las 4.000 Unidades de Fomento, 15,00%.
-
-Sobre la parte que exceda de 4.000 y no sobrepase las 8.000 Unidades de Fomento, 11,00%.
-
-Sobre la parte que exceda de 8.000 y no sobrepase las 16.000 Unidades de Fomento, 8,00%.
-
-Sobre la parte que exceda de 16.000 y no sobrepase las 32.000 Unidades de Fomento, 6,00%.
-
-Sobre la parte que exceda de 32.000 y no sobrepase las 64.000 Unidades de Fomento, 4,00%.
-
-Sobre la parte que exceda de 64.000 y no sobrepase las 130.000 Unidades de Fomento, 3,00%.
-
-Sobre la parte que exceda de 130.000 y no sobrepase las 260.000 Unidades de Fomento, 2,25%.
-
-Sobre la parte que exceda de 260.000 y no sobrepase las 520.000 Unidades de Fomento, 1,75%.
-
-Sobre la parte que exceda de 520.000 y no sobrepase 1.000.000 de Unidades de Fomento, 1,50%.
-
-Sobre la parte que exceda de 1.000.000 de Unidades de Fomento, 1%.
-
-El primer tramo de la tabla se calculará sobre los ingresos de la quiebra cuando no hubiere repartos o si por su aplicación a los repartos correspondiere al síndico un honorario inferior a 15 unidades de fomento, y en este caso el honorario no podrá exceder de esta cantidad.
-
-En todos los repartos de fondos que el síndico efectúe, deducirá previamente la cantidad que le corresponda por honorarios.
-
-Para el cálculo del honorario que corresponda al síndico en cada reparto, la tabla precedente se aplicará en la forma progresiva descrita, a partir del respectivo tramo. En consecuencia, para la aplicación de la tabla y determinación del porcentaje de honorario que le corresponde en cada reparto, deberá considerarse el monto total distribuido en repartos anteriores.
-
-No obstante lo señalado anteriormente, en junta de acreedores se podrá convenir y fijar un honorario inferior o superior al establecido en este artículo.
-
-Para los efectos de acordar un honorario superior al de la tabla, bastará el voto favorable de cada uno de los acreedores que acepten concurrir al pago del exceso a su propio cargo y sólo a ellos corresponderá su pago. Estos acreedores podrán convenir con el síndico los valores correspondientes y su forma de pago, de lo cual deberá quedar constancia en actas. El acta de la respectiva junta será título ejecutivo suficiente para efectuar el cobro por el síndico a los acreedores de los valores que se convengan. Dicha acta deberá ser firmada además por todos los acreedores que han accedido al aumento de los honorarios.
-
-En junta extraordinaria de acreedores se podrán autorizar al síndico definitivo anticipos que no podrán exceder del diez por ciento de los ingresos en dinero efectivo que se hayan producido en la quiebra hasta ese momento, ni del veinticinco por ciento del honorario de la tabla correspondiente a los dos primeros tramos, ni del diez por ciento en los tramos siguientes. En caso alguno, el total de anticipos podrá exceder del treinta y tres por ciento de los honorarios que correspondan al síndico. Para estos efectos, la tabla de este artículo se aplicará sobre los ingresos efectivos que hasta ese momento se hayan producido en la quiebra.
+Derogado.
 
 #### Artículo 35°
 
-Los honorarios que correspondan al síndico provisional, cuando no fuere ratificado por la junta de acreedores, o al síndico definitivo, cuando cesare anticipadamente en el cargo, serán acordados entre éstos y la junta de acreedores. A falta de acuerdo serán fijados por el tribunal de la quiebra.
+Derogado.
 
-Lo dispuesto en el inciso precedente se aplicará al síndico suplente que asuma como titular.
+#### Artículo 36°
 
-En los casos a que se refiere el inciso cuarto del artículo 25°, los honorarios del síndico suplente serán fijados por el juez con cargo a los honorarios del síndico titular.
-
-#### Artículo 36
-
-No obstante lo dispuesto en el artículo 33 y previo acuerdo adoptado en junta extraordinaria de acreedores, el síndico podrá contratar, con cargo a los gastos de la quiebra, personas naturales o jurídicas para que efectúen actividades especializadas debidamente calificadas como tales por la junta.
-
-Las actividades especializadas deberán referirse directamente al cuidado y mantención del activo del fallido, a la realización del mismo y a su entrega material. La contratación se hará previo informe del síndico el cual contendrá los fundamentos de la misma, el grado y alcance de la actividad y la forma en que se beneficiarán los acreedores o se evitarán perjuicios al activo incautado.
-
-Sólo previo acuerdo adoptado para cada caso en junta extraordinaria de acreedores se podrán recabar informes especializados sobre materias o asuntos de directo interés para la masa, con cargo a los gastos de la quiebra.
-
-Los acuerdos a que se refiere este artículo se adoptarán por acreedores que representen, a lo menos, dos tercios del pasivo de la quiebra, con derecho a voto y podrán ser objetados por el fallido o cualquiera de los acreedores, fundados en que se trata de una actividad comprendida en el artículo 33, dentro de treinta días de celebrada la junta extraordinaria en que se hayan adoptado. La objeción no suspenderá la vigencia del acuerdo y se tramitará como incidente. El juez fallará previo informe de la Superintendencia de Quiebras.
-
-No se requerirá la autorización señalada en este artículo para la contratación de la persona especialmente técnica a que se refiere el número 2 del artículo 94.
-
-El Síndico, su cónyuge y sus parientes, hasta el cuarto grado de consanguinidad o segundo de afinidad, no podrán tener participación alguna en los actos o contratos que se ejecuten o celebren en conformidad a este artículo, como tampoco podrán participar como socios, accionistas, trabajadores o asesores de las personas jurídicas que sean contratadas para las actividades o informes indicados. La transgresión a esta prohibición será constitutiva de la causal de exclusión de la nómina nacional, prevista en el número 6 del artículo 22.
+Derogado.
 
 #### Artículo 37°
 
-Si la quiebra careciere de bienes o si éstos fueren insuficientes para el pago de los honorarios que pudieren corresponder al síndico, éste sólo tendrá derecho a una remuneración de quince unidades de fomento, que serán pagadas por la Superintendencia con cargo a su presupuesto, al igual que la notificación por aviso de la sentencia de quiebra, la que se hará en extracto, y la notificación de la resolución que tenga por presentada la cuenta definitiva, que sólo contendrá la mención de haberse presentado dicha cuenta. Las demás notificaciones que deban practicarse por aviso, se efectuarán por el estado diario.
+Derogado.
 
-Para los efectos de la notificación por cédula a que se refiere el inciso quinto del artículo 42, se aplicará el privilegio de pobreza en las quiebras de que trata este artículo y el receptor estará obligado a efectuar la notificación, sin esperar la resolución del incidente de que trata el Título XIII del Código de Procedimiento Civil, si éste se promoviere.
-
-6.- De la responsabilidad de los síndicos.
+6.- De la responsabilidad de los síndicos. Derogado.
 
 #### Artículo 38°
 
-El síndico que se concertare con el deudor, con algún acreedor o tercero para proporcionarle alguna ventaja indebida o para obtenerla para sí, será penado con presidio menor en su grado máximo a presidio mayor en su grado mínimo, salvo que cualquiera de los actos delictuosos que hubiere cometido en el desempeño de su cargo tuviere asignada mayor pena, pues entonces se aplicará ésta. Será, además, castigado con inhabilidad especial perpetua para ejercer el cargo de síndico.
-
-La responsabilidad civil del síndico, que alcanzará hasta la culpa levísima, se perseguirá en juicio sumario y sólo una vez presentada la cuenta definitiva.
+Derogado.
 
 ## Título IV
 
-De la declaración de quiebra
+De la declaración de quiebra Derogado.
 
 #### Artículo 39°
 
-La quiebra podrá ser declarada a solicitud del deudor o de uno o varios de sus acreedores.
+Derogado.
 
 #### Artículo 40°
 
-El deudor podrá ser declarado en quiebra aunque tenga un sólo acreedor, siempre que concurran los demás requisitos legales.
+Derogado.
 
 #### Artículo 41°
 
-El deudor que ejerza una actividad comercial, industrial, minera o agrícola, deberá solicitar la declaración de su quiebra antes de que transcurran quince días contados desde la fecha en que haya cesado en el pago de una obligación mercantil.
+Derogado.
 
 #### Artículo 42°
 
-El deudor, al solicitar la declaración de su quiebra, deberá presentar por duplicado:
-
-1. Un inventario o relación detallada de todos sus bienes, con expresión del lugar en que se encuentren, de su valor estimativo y de los gravámenes que los afecten;
-
-2. Una relación de los bienes que, en conformidad a la ley, están excluidos de la quiebra,
-
-3. Una relación de los juicios que tuviere pendientes;
-
-4. Un estado de las deudas, con expresión del nombre y domicilio de los acreedores y de la naturaleza de los respectivos títulos, y
-
-5. Una memoria de las causas directas o inmediatas del mal estado de sus negocios, debiendo ella dar cuenta de la inversión del producto de las deudas contraídas y de los demás bienes adquiridos en el año último. El deudor que llevare contabilidad completa presentará, además, su último balance y la cuenta de ganancias y pérdidas.
-
-Si el deudor fuere una sociedad colectiva o en comandita, las piezas indicadas serán firmadas por todos los socios colectivos que invistan esta calidad por el contrato social y se hallen presentes en el domicilio de la sociedad.
-
-Si el deudor fuere otra clase de persona jurídica, las piezas en referencia serán firmadas por sus administradores.
-
-Para los efectos de designar un síndico titular y uno suplente en la sentencia que declare la quiebra, el juez citará previamente, en conformidad con lo dispuesto en los incisos siguientes, a los tres acreedores que figuren con los mayores créditos en el estado de deudas presentado por el deudor, o a los que hubiera si fueran menos, con el fin de que señalen los nombres de los síndicos respectivos, y sólo a éstos el tribunal deberá designar en la sentencia.
-
-Los acreedores señalados serán citados mediante notificación efectuada por cédula, en la cual se indicará el nombre del acreedor y su domicilio, además del objeto de la citación. El tribunal comisionará al receptor de turno para efectuar esta notificación, tan pronto como se haya recibido la solicitud de declaración de quiebra del deudor. La audiencia tendrá lugar dentro de tercer día de efectuada la última notificación, la que el receptor deberá practicar a más tardar el tercero día después de dictada la resolución que la disponga. La notificación extemporánea no invalidará la audiencia señalada. El incumplimiento de esta obligación será sancionado según lo dispuesto en el inciso tercero del artículo 393 del Código Orgánico de Tribunales. Los derechos que correspondan al receptor gozarán de la preferencia que establece el número 4 del artículo 2472 del Código Civil.
-
-La audiencia se llevará a efecto con el o los acreedores que asistan, y en ella se nominará a los síndicos. Si asistiere más de un acreedor, la elección se efectuará por la mayoría del total pasivo con derecho a voto, conforme al importe que aparezca en el estado de deudas. Si no compareciere ningún acreedor, el tribunal repetirá por una vez el procedimiento con los tres acreedores siguientes, o con los que hubiera si fueran menos. En caso de que lo señalado resultare imposible de aplicar, se designará al síndico mediante sorteo, en el cual deberán incluirse los nombres de todos los síndicos habilitados para ejercer en el territorio jurisdiccional del tribunal. En estos procedimientos no se dará lugar a incidentes, debiendo resolver el tribunal de plano cualquier asunto que se presente y su resolución no será susceptible de recurso alguno.
+Derogado.
 
 #### Artículo 43°
 
-Cualquiera de los acreedores podrá solicitar la declaración de quiebra, aun cuando su crédito no sea exigible, en los siguientes casos:
+Derogado.
 
-1. Cuando el deudor que ejerza una actividad comercial, industrial, minera o agrícola, cese en el pago de una obligación mercantil con el solicitante, cuyo título sea ejecutivo;
+#### Artículo 44°
 
-2. Cuando el deudor contra el cual existieren tres o más títulos ejecutivos y vencidos, provenientes de obligaciones diversas, y estuvieren iniciadas, a lo menos, dos ejecuciones, no hubiere presentado en todas éstas, dentro de los cuatro días siguientes a los respectivos requerimientos, bienes bastantes para responder a la prestación que adeude y las costas, y
-
-3. Cuando el deudor se fugue del territorio de la República o se oculte dejando cerradas sus oficinas o
-
-establecimientos, sin haber nombrado persona que administre sus bienes con facultades para dar cumplimiento a sus obligaciones y contestar nuevas demandas.
-
-> **Nota.** La letra b) del N° 6 del Artículo Único de la Ley 20073, publicada el 29.11.2005, deroga el N° 4 de la presente norma.
-
-#### Artículo 44
-
-En la solicitud de declaración de quiebra presentada por un acreedor se señalará la causal que la justifica y los hechos constitutivos de dicha causal y se acompañarán documentos para acreditar los fundamentos de la petición o se ofrecerán las pruebas que correspondan. Además, se señalará el nombre del síndico titular y el del síndico suplente, y sólo a ellos el tribunal deberá designar en la sentencia que declare la quiebra.
-
-Junto con solicitar la quiebra, el acreedor peticionario deberá acompañar vale vista o boleta bancaria a la orden del tribunal por una suma equivalente a cien unidades de fomento, para subvenir a los gastos iniciales de la quiebra. Dicha suma será considerada como un crédito del solicitante en contra del fallido, que gozará de la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+Derogado.
 
 #### Artículo 45°
 
-El juzgado se pronunciará sobre la solicitud de quiebra a la brevedad posible, con audiencia del deudor, y deberá cerciorarse, por todos los medios a su alcance, de la efectividad de las causales invocadas.
-
-La audiencia del deudor sólo tendrá carácter informativo, no dará lugar a incidente, y en ella éste podrá consignar fondos suficientes para el pago de los créditos que hubieren servido de base a la solicitud de quiebra y las costas correspondientes, en cuyo caso no procederá la declaración de quiebra.
-
-Si la solicitud fuere desechada en definitiva, el deudor podrá demandar indemnización de perjuicios al acreedor, si probare que éste ha procedido culpable o dolosamente.
-
-Para los efectos indicados en el inciso primero de este artículo se notificará al deudor personalmente o en la forma prevista en el artículo 44° del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio.
+Derogado.
 
 #### Artículo 46°
 
-No podrán solicitar la declaración de quiebra, en sus respectivos casos, el marido acreedor de su mujer, la mujer acreedora de su marido, el hijo acreedor de su padre y el padre acreedor de su hijo.
+Derogado.
 
 #### Artículo 47°
 
-El socio comanditario no puede demandar la declaración de quiebra de la sociedad a que pertenece; pero, si es acreedor particular de la misma, puede provocarla en este carácter.
+Derogado.
 
 #### Artículo 48°
 
-La quiebra de la mujer casada y separada total o parcialmente de bienes sólo comprenderá sus bienes propios, sin perjuicio de las responsabilidades del marido y de la sociedad conyugal, en su caso.
-
-La quiebra del menor adulto que administre su peculio profesional o industrial comprenderá únicamente los bienes de este peculio.
+Derogado.
 
 #### Artículo 49°
 
-En los demás casos, los incapaces sólo podrán ser declarados en quiebra a causa de obligaciones válidamente contraídas por intermedio o con intervención de sus representantes legales o con autorización de la justicia.
-
-En todo caso, los incapaces conservarán las acciones que les correspondan contra sus representantes legales.
-
-Las indemnizaciones que obtenga el incapaz en conformidad al inciso precedente y los bienes que adquiera en virtud de títulos posteriores a la declaración de quiebra, no ingresarán a ésta ni podrán ser perseguidos por los acreedores de fecha anterior a esa declaración.
+Derogado.
 
 #### Artículo 50°
 
-La sucesión del deudor podrá ser declarada en quiebra a petición de los herederos o de cualquier acreedor, siempre que la causa que la determine se hubiere producido antes de la muerte del deudor y que la solicitud se presente dentro del año siguiente al fallecimiento. La declaración de quiebra producirá de derecho el beneficio de separación a favor de los acreedores del difunto.
-
-Las disposiciones de la quiebra se aplicarán sólo al patrimonio del causante.
+Derogado.
 
 #### Artículo 51°
 
-La quiebra de una sociedad colectiva o en comandita importa la quiebra individual de los socios solidarios que la componen; pero la quiebra de uno de éstos no constituye en quiebra a la sociedad. No obstante, se tramitarán separadamente ante el mismo tribunal la quiebra de la sociedad y la de los socios solidarios, y concurrirán en las quiebras de los socios los acreedores personales de éstos con los acreedores sociales.
-
-La quiebra de la sociedad en comandita no importa la quiebra de los socios comanditarios, aun cuando éstos sean solidariamente responsables por haberse mezclado en la administración, pero podrán ser declarados en quiebra cuando hayan tolerado la inserción de su nombre en la razón social.
+Derogado.
 
 #### Artículo 52°
 
-Sin perjuicio de lo dispuesto en el artículo 169 del Código de Procedimiento Civil, la sentencia definitiva que declare la quiebra contendrá, además:
-
-1. La determinación de si el deudor está o no comprendido en el artículo 41°. En este caso se estará a la actividad que el deudor ejercía a la fecha en que contrajo la obligación;
-
-2. La designación de un síndico provisional titular y de uno suplente y la orden de que el síndico se incaute de todos los bienes del fallido, sus libros y documentos, bajo inventario y de que se le preste, para este objeto, el auxilio de la fuerza pública por el jefe más inmediato, con la exhibición de la copia autorizada de la declaratoria de quiebra;
-
-3. La orden de que las oficinas de correos y telégrafos entreguen al síndico la correspondencia y despachos telegráficos cuyo destinario sea el fallido, para los efectos de lo preceptuado en el número 5 del artículo 27°;
-
-4. La orden de acumular al juicio de quiebra todos los juicios contra el fallido que estuvieren pendientes ante otros tribunales de cualquier jurisdicción y que puedan afectar sus bienes, salvo las excepciones legales;
-
-5. La advertencia al público de que no debe pagar ni entregar mercaderías al fallido, so pena de nulidad de los pagos y entregas; y la orden a las personas que tengan bienes o papeles pertenecientes al fallido, para que los pongan, dentro de tercero día, a disposición del síndico, bajo pena de ser tenidos por encubridores o cómplices de la quiebra;
-
-6. La orden de hacer saber a todos los acreedores residentes en el territorio de la República que tienen el plazo de treinta días contado desde la fecha de la publicación de la sentencia, para que se presenten con los documentos justificativos de sus créditos bajo el apercibimiento de que les afectarán los resultados del juicio sin nueva citación;
-
-7. La orden de notificar, por carta aérea certificada, la quiebra a los acreedores que se hallen fuera de la República y mandarles que dentro del plazo establecido en el número anterior, aumentado con el de emplazamiento correspondiente que se expresará en cada carta, comparezcan al juicio con los documentos justificativos de sus créditos, bajo el apercibimiento indicado en el número precedente;
-
-8. La orden de inscribir la declaración de quiebra en el Registro de Interdicciones y Prohibiciones de Enajenar del Conservador de Bienes Raíces del departamento en que se hubiere declarado la quiebra y también en el de los Conservadores correspondientes a cada uno de los inmuebles pertenecientes al fallido, y
-
-9. La indicación precisa del lugar, día y hora en que se celebrará la primera junta de acreedores.
+Derogado.
 
 #### Artículo 53°
 
-Cuando la quiebra se produzca por desaparecimiento o fuga del deudor, la resolución que la declare designará un curador especial para que represente al fallido.
+Derogado.
 
 #### Artículo 54°
 
-La sentencia que declare la quiebra se notificará al fallido, a los acreedores y a terceros por medio de un aviso.
+Derogado.
 
 #### Artículo 55°
 
-Inmediatamente de pronunciada la sentencia que declare la quiebra, el secretario del tribunal cuidará que se notifique, a la brevedad posible, al síndico provisional, titular y suplente.
-
-El secretario podrá notificar por sí o encomendando esta diligencia a otro ministro de fe.
+Derogado.
 
 #### Artículo 56°
 
-Contra la sentencia que declare la quiebra sólo podrá entablarse el recurso especial de reposición a que se refieren los artículos siguientes.
+Derogado.
 
 #### Artículo 57°
 
-El fallido, los acreedores y los terceros interesados, podrán pedir al tribunal, dentro del plazo fatal de diez días hábiles, contados desde la notificación a que se refiere el artículo 54°, que reponga la resolución declaratoria de quiebra, dejándola sin efecto o rectificándola en cuanto a la determinación a que se refiere el número 1 del artículo 52°. Esta rectificación podrá también ser pedido por el síndico.
-
-El recurso especial de reposición se tramitará como incidente. En él será parte el que lo hubiere interpuesto y podrán también serlo el fallido, el que hubiere solicitado la quiebra y el síndico.
-
-Los demás acreedores y los terceros interesados podrán intervenir como coadyuvantes.
-
-Si durante la tramitación del recurso especial de reposición se decretare la suspensión del procedimiento o se dictare orden de no innovar con posterioridad a la incautación de los bienes, ello no obstará a que el síndico realice todos los actos de administración necesarios para la debida conservación del activo de la quiebra. Corresponderá al tribunal que la hubiere dictado resolver en audiencia verbal cualquier diferencia que se suscite entre el síndico y el peticionario. El síndico sólo podrá vender los bienes expuestos a próximo deterioro, sin perjuicio de que con acuerdo del deudor, o con autorización judicial ante la negativa de éste, podrá también vender los bienes sujetos a desvalorización inminente o de dispendiosa conservación. Si la suspensión o la orden de no innovar se concede antes de la incautación de bienes, en la resolución se establecerá que el síndico deberá actuar como interventor, con indicación de las atribuciones de que estará premunido. La remuneración del síndico será establecida en la misma resolución y no podrá ser inferior al 75% ni superior al total de la remuneración del gerente o representante legal del fallido. En los demás casos el mismo tribunal resolverá en conciencia.
+Derogado.
 
 #### Artículo 58°
 
-Las resoluciones que se dictendurante la tramitación del incidente especial de reposición serán inapelables.
-
-La sentencia que acoja la reposición será apelable en ambos efectos.
+Derogado.
 
 #### Artículo 59°
 
-La resolución que niegue lugar a la declaración de quiebra no será susceptible del recurso especial de reposición a que se refiere esta ley, pero será siempre apelable en ambos efectos.
+Derogado.
 
 #### Artículo 60°
 
-El deudor que no esté comprendido en el artículo 41° tendrá derecho a que la masa le dé alimentos a él y su familia. También tendrá este derecho el deudor a que se refiere dicho artículo, si hubiere solicitado su propia quiebra.
-
-La obligación de dar alimentos se suspenderá si en contra del fallido se dicta auto de apertura del juicio oral, y cesará si es condenado en definitiva por quiebra culpable o fraudulenta, o por alguno de los delitos a que se refiere el artículo 466° del Código Penal.
-
-La cuantía de los alimentos será determinada por el tribunal que conoce de la quiebra, con audiencia del síndico y de los acreedores.
-
-La solicitud del fallido se notificará al síndico personalmente o por cédula y a los acreedores, por avisos.
+Derogado.
 
 ## Título V
 
-De la fijación de la fecha de la cesación de pagos
+De la fijación de la fecha de la cesación de pagos Derogado.
 
 #### Artículo 61°
 
-El síndico, dentro del plazo de sesenta días corridos desde que hubiere asumido el cargo, propondrá al tribunal la fecha de cesación de pagos del fallido. El juzgado ordenará notificar por avisos esta proposición.
-
-El fallido, los acreedores o los terceros interesados tendrán, para objetar dicha proposición, el plazo de diez días contado desde la notificación a que se refiere el inciso anterior.
-
-Terminado el plazo de diez días sin que se hubieren formulado objeciones o tramitadas las que se hubieren presentado, el tribunal fijará la fecha de la cesación de pagos y su resolución será notificada por el estado diario.
-
-Esta resolución sólo será susceptible del recurso de apelación.
+Derogado.
 
 #### Artículo 62°
 
-En caso de quiebra de un deudor no comprendido en el artículo 41°, la fecha de la cesación de pagos será aquella en que primero se produjo la exigibilidad de algunos de los títulos ejecutivos que existan en su contra.
+Derogado.
 
 #### Artículo 63°
 
-La cesación de pagos no podrá ser fijada en un día anterior en más de dos años a la fecha de la resolución que declare la quiebra.
+Derogado.
 
 ## Título VI
 
-De los efectos de la declaración de quiebra
+De los efectos de la declaración de quiebra Derogado.
 
-1.- Efectos inmediatos.
+1.- Efectos inmediatos. Derogado.
 
 #### Artículo 64°
 
-Pronunciada la declaración de quiebra, el fallido queda inhibido de pleno derecho de la administración de todos sus bienes presentes, salvo aquellos que sean inembargables.
-
-El desasimiento no transfiere la propiedad de los bienes del fallido a sus acreedores, sino sólo la facultad de disponer de ellos y de sus frutos hasta pagarse de sus créditos.
-
-La administración de que es privado el fallido pasa de derecho al síndico, quien la ejercerá con arreglo a las disposiciones de esta ley. En consecuencia, no podrá el fallido comparecer en juicio como demandante ni como demandado, en lo relacionado con los bienes comprendidos en la quiebra, sin perjuicio de tenérsele como coadyuvante. Pero podrá ejercitar por sí mismo todas las acciones que exclusivamente se refieran a su persona y que tengan por objeto derechos inherentes a ella, y ejecutar todos los actos conservativos de sus bienes en caso de negligencia del síndico.
-
-La administración que conserva el fallido de los bienes personales de la mujer e hijos, de los que tenga el usufructo legal, quedará sujeta a la intervención del síndico mientras subsista el derecho del marido, padre o madre en falencia. El síndico cuidará de que los frutos líquidos que produzcan estos bienes ingresen a la masa, deducidas las cargas legales o convencionales que los graven. El tribunal, con audiencia del síndico y del fallido, determinará la cuota de los frutos que correspondan al fallido para sus necesidades y las de su familia, habida consideración a su rango social y a la cuantía de los bienes bajo intervención.
-
-El síndico podrá figurar como parte coadyuvante en los juicios de separación de bienes y de divorcio en que el fallido sea demandado o demandante.
+Derogado.
 
 #### Artículo 65°
 
-El desasimiento comprende también los bienes futuros que adquiera el fallido a título gratuito; pero sin extinguir la responsabilidad de las cargas con que le hayan sido transferidos o transmitidos y sin perjuicio de los derechos de los acreedores hereditarios.
-
-La administración de los bienes futuros que adquiera el fallido a título oneroso con posterioridad a la declaración de quiebra, podrá ser sometida a intervención, y los acreedores sólo tendrán derecho a los beneficios líquidos que se obtengan, pero se dejará al fallido lo necesario para sus alimentos, como en el caso del inciso cuarto del artículo anterior.
+Derogado.
 
 #### Artículo 66°
 
-La sentencia que declara la quiebra fija irrevocablemente los derechos de todos los acreedores en el estado que tenían el día de su pronunciamiento, sin perjuicio de los casos especialmente previstos por la ley.
+Derogado.
 
 #### Artículo 67°
 
-En virtud de la declaración de quiebra, quedan vencidas y exigibles, respecto del fallido, todas sus deudas pasivas, para el solo efecto de que los acreedores puedan intervenir en la quiebra y percibir los dividendos que correspondan al valor actual de sus respectivos créditos, con más los reajustes e intereses que les correspondan, desde la fecha de la declaratoria.
-
-El valor actual de los créditos reajustables en moneda nacional, no vencidos a la fecha de la declaración de quiebra y que devenguen intereses, será el capital más el reajuste convenido e intereses devengados hasta el día de la declaratoria.
-
-El valor actual de los créditos reajustables en moneda nacional, no vencidos a la fecha de la declaración de quiebra y que no devenguen intereses, será el capital más el reajuste convenido hasta la fecha de la declaratoria.
-
-El valor actual de los créditos no reajustables en moneda nacional, no vencidos a la fecha de la declaración de quiebra y que devenguen intereses, será el capital más los intereses devengados hasta el día de la declaratoria.
-
-El valor actual de los créditos no reajustables en moneda nacional, no vencidos a la fecha de la declaración de quiebra y que no devenguen intereses, se determinará descontando del capital los intereses corrientes para operaciones de crédito de dinero no reajustable desde el día de la declaratoria hasta el día de los respectivos vencimientos.
-
-Si no fuere posible determinar el índice de reajustabilidad o si éste hubiere perdido su vigencia, se aplicará lo dispuesto en el inciso cuarto de este artículo.
-
-No obstante que la exigibilidad de que trata este artículo se refiere sólo al fallido, si éste fuere aceptante de una letra de cambio, librador de un letra no aceptada o suscriptor de un pagaré, los demás obligados pagarán inmediatamente.
+Derogado.
 
 #### Artículo 68°
 
-En virtud de la declaración de quiebra y desde la fecha de ésta, las deudas del fallido, vencidas y las actualizadas de conformidad con el artículo precedente:
-
-1.- Se reajustarán y devengarán intereses según lo pactado en la convención, en el caso del inciso segundo del artículo anterior;
-
-2.- Se reajustarán según lo pactado, en el caso de inciso tercero del mismo artículo, y
-
-3.- Devengarán intereses corrientes para operaciones de crédito de dinero no reajustables en el caso de los incisos cuarto y quinto del artículo precedente.
-
-El síndico podrá impugnar los intereses pactados en caso de estimarlos excesivos.
-
-Las obligaciones contraídas en moneda extranjera de acuerdo al decreto 471, del Ministerio de Economía, Fomento y Reconstrucción, de 1977, se pagarán en la misma moneda establecida en la convención y devengarán el interés pactado en ella.
-
-Los reajustes y los intereses, en su caso, gozarán de iguales preferencias y privilegios que los respectivos capitales.
+Derogado.
 
 #### Artículo 69°
 
-La declaración de quiebra impide toda compensación que no hubiere operado antes por el ministerio de la ley, entre las obligaciones recíprocas del fallido y acreedores, salvo que se trate de obligaciones conexas, derivadas de un mismo contrato o de una misma negociación y aunque sean exigibles en diferentes plazos.
-
-Para efectos de lo establecido en el inciso anterior, se entenderá que revisten el carácter de obligaciones conexas aquellas que, aun siendo en distinta moneda, emanen de operaciones de derivados, tales como futuros, opciones, swaps, forwards u otros instrumentos o contratos de derivados suscritos entre las mismas partes, en una o más oportunidades, bajo ley chilena o extranjera, al amparo de un mismo convenio marco de contratación de los reconocidos por el Banco Central de Chile y que incluyan un acuerdo de compensación en caso de quiebra o de liquidación forzosa. El Banco Central de Chile podrá determinar los términos y condiciones generales de los convenios marco de contratación referidos, en que sea parte una empresa bancaria o cualquier otro inversionista institucional, considerando para ello los convenios de general aceptación en los mercados internacionales.
-
-Cada una de las obligaciones que emanen de operaciones de derivados efectuadas en la forma antedicha, se entenderá de plazo vencido, líquida y actualmente exigible a la fecha de la declaración de quiebra y su valor se calculará a dicha fecha de acuerdo a sus términos y condiciones. Luego, las compensaciones que operen por aplicación del inciso precedente, serán calculadas y ejecutadas simultáneamente en dicha fecha.
-
-En caso que una de las partes sea un banco establecido en Chile, sólo procederá dicha compensación tratándose de operaciones con productos derivados cuyos términos y condiciones se encuentren autorizados por el Banco Central de Chile.
+Derogado.
 
 #### Artículo 70°
 
-Todos los juicios pendientes contra el fallido ante otros tribunales de cualquiera jurisdicción y que puedan afectar sus bienes, se acumularán al juicio de la quiebra.
-
-Los nuevos juicios que se entablen contra la masa se sustanciarán también ante el tribunal que conozca de la quiebra.
-
-Sin embargo, los juicios posesorios, los de desahucio, los de terminación inmediata del arrendamiento, los de que actualmente estuvieren conociendo jueces árbitros, y los que, según la ley, deban someterse a compromiso, seguirán sustanciándose o se promoverán ante el tribunal que conoce o deba conocer de ellos.
-
-Los juicios ordinarios agregados a la quiebra seguirán tramitándose con arreglo al procedimiento que corresponda según su naturaleza, hasta que quede ejecutoriada la sentencia definitiva. Condenado el fallido, el síndico dará cumplimiento a lo resuelto en la forma que corresponda.
-
-Los juicios ejecutivos, cuando haya excepciones opuestas, se seguirán tramitando con el síndico hasta que se dicte sentencia de término. Los demás se paralizarán en el estado en que se encuentren y los acreedores usarán de su derecho en la forma que establece esta ley. Cuando al tiempo de la declaración de quiebra hubiere pendiente algún juicio ejecutivo por obligaciones de hacer y existieren ya depositados los fondos para el objeto, continuará la tramitación establecida para esta clase de juicios, hasta la total inversión de dichos fondos o hasta la conclusión de la obra que con ellos deba pagarse. En los demás casos, sólo podrá el acreedor continuar o iniciar sus gestiones para que se considere su crédito por el valor de los perjuicios declarados o que se declaren.
-
-Los embargos y medidas precautorias que estuvieren decretados en los juicios que se agreguen a la quiebra quedarán sin valor desde que ella se declare, siempre que se refieran a bienes que, sin aguardar el resultado de dichos juicios, deban realizarse en la quiebra o ingresar a ella.
+Derogado.
 
 #### Artículo 71°
 
-La declaración de quiebra suspende el derecho de los acreedores para ejecutar individualmente al fallido, pero los acreedores hipotecarios y prendarios podrán iniciar o llevar adelante sus acciones en los bienes afectos a la seguridad de sus respectivos créditos.
-
-En las ejecuciones que promuevan dichos acreedores servirá de depositario el síndico.
-
-La formación de concurso especial de hipotecarios, respecto de una finca gravada, suspende también el derecho de cada uno de ellos para perseguirla separadamente.
-
-Cuando a algún acreedor corresponda el derecho de retención, en los casos señalados por las leyes, no podrá privársele de la cosa retenida sin que previamente se le pague o se le asegure el pago de su crédito. La procedencia del derecho legal de retención podrá ser declarada aun después de la sentencia de quiebra.
-
-Durante los treinta días siguientes a la declaración de quiebra, el arrendador no podrá perseguir, por los arriendos vencidos, la realización de los muebles destinados a la explotación de los negocios del fallido, sin perjuicio de su derecho para solicitar las providencias conservativas que le convengan. Si el arrendamiento hubiere expirado por alguna causa legal, el arrendador podrá exigir la entrega del inmueble arrendado y entablar las acciones a que haya lugar en derecho.
+Derogado.
 
 #### Artículo 72°
 
-Son inoponibles los actos y contratos que el fallido ejecute o celebre después de dictada la sentencia que declara la quiebra, con relación a los bienes de la masa, aun cuando no se hayan practicado las inscripciones en los registros respectivos del Conservador de Bienes Raíces.
+Derogado.
 
 #### Artículo 73°
 
-La declaración de quiebra no priva al fallido del ejercicio de sus derechos civiles, ni le imponen inhabilidades sino en los casos expresamente determinados por las leyes.
+Derogado.
 
-2.- Efectos retroactivos de la declaración de quiebra de todo deudor.
+2.- Efectos retroactivos de la declaración de quiebra de todo deudor. Derogado.
 
 #### Artículo 74°
 
-Son inoponibles a la masa los actos o contratos a título gratuito que hubiere ejecutado o celebrado el deudor desde los diez días anteriores a la fecha de la cesación de pagos y hasta el día de la declaración de quiebra.
-
-Si el acto o contrato fuere a favor de un descendiente, ascendiente o colateral dentro del cuarto grado, aunque se proceda por interposición de un tercero, los diez días señalados en el inciso primero se extenderán hasta los ciento veinte días anteriores a la fecha de la cesación de pagos.
+Derogado.
 
 #### Artículo 75°
 
-Con respecto a los demás actos o contratos ejecutados o celebrados por el deudor en cualquier tiempo, con anterioridad a la fecha de la declaración de quiebra, se observará lo prevenido en el artículo 2468° del Código Civil.
+Derogado.
 
-Se presume que el deudor conocía el mal estado de sus negocios desde los diez días anteriores a la fecha de cesación de pagos.
-
-3.- Efectos retroactivos especiales de la declaración de quiebra del deudor que ejerciere una actividad comercial, industrial, minera o agrícola.
+3.- Efectos retroactivos especiales de la declaración de quiebra del deudor que ejerciere una actividad comercial, industrial, minera o agrícola. Derogado.
 
 #### Artículo 76°
 
-Son inoponibles a la masa los siguientes actos o contratos ejecutados o celebrados por el deudor desde los diez días anteriores a la fecha de la cesación de pagos y hasta el día de la declaración de la quiebra:
-
-1.- Todo pago anticipado, sea de deuda civil o comercial, y sea cual fuere la manera en que se verifique. Se entiende que el fallido anticipa también el pago cuando descuenta efectos de comercio o facturas a su cargo, y cuando lo verifica renunciando al plazo estipulado a su favor;
-
-2.- Todo pago de deuda vencida que no sea ejecutado en la forma estipulada en la convención. La dación en pago de efectos de comercio equivale a pago en dinero, y
-
-3.- Toda hipoteca, prenda o anticresis constituidas sobre bienes del fallido para asegurar obligaciones anteriormente contraídas.
+Derogado.
 
 #### Artículo 77°
 
-Son inoponibles a la masa los pagos no comprendidos en el número 2 del artículo anterior y los actos o contratos a título oneroso, ejecutados o celebrados por el deudor a contar de la fecha de la cesación de pagos y hasta el día de la declaración de la quiebra, siempre que los acreedores pagados y los que hubieren contratado con el fallido hubieren tenido conocimiento de la cesación de pagos.
-
-Las compensaciones que hubieren operado desde la fecha de la cesación de pagos hasta el día de la declaración de quiebra, son inoponibles a la masa si se hubieren efectuado con créditos adquiridos contra el fallido por cesión o endoso, con tal que el cesionario haya tenido conocimiento de la cesación de pagos al tiempo de la cesión o endoso.
+Derogado.
 
 #### Artículo 78°
 
-Si el fallido hubiere pagado letras de cambio o pagarés después de la fecha asignada a la cesación de pagos y antes de la declaración de quiebra, no podrá exigirse la devolución de la cantidad pagada sino de la persona por cuya cuenta se hubiere verificado el pago.
-
-En los dos casos propuestos, será menester probar que la persona a quien se exija la devolución tenía conocimiento de la cesación de pagos a la fecha en que fue girada la letra o transferido el pagaré.
+Derogado.
 
 #### Artículo 79°
 
-Los contratos hipotecarios válidamente celebrados podrán ser inscritos hasta el día de la declaración de quiebra.
+Derogado.
 
-Con todo, las inscripciones hechas después de los diez días anteriores a la cesación de pagos son inoponibles a la masa si hubieren transcurrido más de quince días entre la fecha del instrumento constitutivo de la hipoteca y la fecha de la inscripción.
+4.- Disposiciones comunes a los dos párrafos precedentes. Derogado.
 
-Este plazo se aumentará a razón de un día por cada cien kilómetros de distancia entre el lugar en que se hubiere constituido la hipoteca y el lugar donde deba hacerse la inscripción.
+#### Artículo 80°
 
-4.- Disposiciones comunes a los dos párrafos precedentes.
+Derogado.
 
-#### Artículo 80
+#### Artículo 81°
 
-Las acciones a que se refieren los los Párrafos 2º y 3º del Título VI prescribirán en el plazo de dos años, contados desde la fecha del acto o contrato, plazo que se suspenderá en favor de los acreedores por el lapso de otros dos años desde la fecha de la resolución que declara la quiebra.
+Derogado.
 
-> **Nota.** El N° 10 del Artículo único de la Ley 20073, publicada el 29.11.2005, ordena reemplazar la expresión "dos párrafos precedentes", sin considerar el artículo "los" ubicado antes de la expresión que ordena reemplazar.
-
-#### Artículo 81
-
-Las acciones a que se refieren los dos párrafos precedentes se tramitarán con arreglo al procedimiento sumario, y podrán ser ejercitadas por el síndico, previo acuerdo de la junta de acreedores, o individualmente por cualquiera de los acreedores, en ambos casos, en interés de la masa.
-
-En la adopción del acuerdo de ejercitar algunas de las acciones referidas, no tendrá derecho a voto el acreedor en la quiebra en contra de quien se ejercitarán las acciones, sea por sí o por cualquier otra persona natural o jurídica que esté vinculada en forma directa o indirecta. Tampoco se considerarán sus créditos para los efectos de determinar el quórum a que se refiere el artículo 102.
-
-Los acreedores que individualmente entablen dichas acciones en beneficio de la masa, tendrán derecho, si obtuvieren en el juicio, para que se les indemnice con los ingresos de la quiebra de todo gasto y para que se les abone el honorario correspondiente a sus servicios, todos los cuales gozarán de la preferencia del Nº1 del artículo 2472 del Código Civil.
-
-En caso de pérdida, soportarán ellos solos los gastos y no tendrán derecho a remuneración.
-
-5.- De la reivindicación, resolución y retención.
+5.- De la reivindicación, resolución y retención. Derogado.
 
 #### Artículo 82°
 
-Podrán ser reivindicados los efectos de comercio y cualquier otro documento de crédito no pagado y existente al tiempo de la declaración de
-
-quiebra en poder del fallido o de un tercero que los conserve a nombre de aqúel, siempre que el propietario los haya entregado o remitido al fallido por un título no traslaticio de dominio.
+Derogado.
 
 #### Artículo 83°
 
-Podrán ser también reivindicadas, en todo o en parte, mientras puedan ser identificadas, las mercaderías consignadas al fallido a título de depósito, comisión de venta o a cualquier otro que no transfiera dominio.
-
-Vendidas las mercaderías, el propietario de ellas podrá reivindicar el precio o la parte de precio que, al tiempo de la declaración de quiebra, no hubiere sido pagado o compensado entre el fallido y el comprador.
-
-No se entiende pagado el precio por la simple dación de documentos de crédito, firmados o transferidos por el comprador a favor del fallido; y si existieren tales documentos en poder de éste, el propietario podrá reivindicarlos, siempre que acredite su origen e identidad.
+Derogado.
 
 #### Artículo 84°
 
-Lo dispuesto en los dos artículos precedentes no obsta al derecho legal de retención o al de prenda que corresponda al fallido.
+Derogado.
 
 #### Artículo 85°
 
-Fuera de los casos mencionados en los artículos precedentes, podrán también entablarse las acciones reivindicatorias que procedan, en conformidad a las reglas generales del derecho.
-
-Las tercerías de dominio que estuvieren iniciadas al tiempo de la declaración de quiebra continuarán tramitándose en conformidad al procedimiento que corresponda.
+Derogado.
 
 #### Artículo 86°
 
-El contrato de compraventa podrá resolverse por falta de cumplimiento de las obligaciones del comprador fallido, salvo cuando se trate de cosas muebles que hayan llegado a poder de éste.
+Derogado.
 
 #### Artículo 87°
 
-Mientras estén en camino las cosas muebles vendidas y remitidas al fallido, el vendedor no pagado podrá dejar sin efecto la tradición, recuperar la posesión y pedir la resolución de la compraventa.
-
-El vendedor podrá también retener las cosas vendidas hasta el entero pago de su crédito.
+Derogado.
 
 #### Artículo 88°
 
-En caso de que las cosas a que se refiere el artículo anterior hayan sido vendidas durante su tránsito a un tercero de buena fe, a quien se hubiere transferido la factura, conocimiento o carta de porte, el vendedor no podrá usar de las acciones que le confiere dicho artículo.
-
-Pero si el nuevo comprador no hubiere pagado el precio antes de la declaración de la quiebra, el vendedor primitivo podrá demandar su entrega hasta la concurrencia de la cantidad que se le deba.
+Derogado.
 
 #### Artículo 89°
 
-Para los efectos de lo dispuesto en los dos artículos precedentes, se entiende que las cosas muebles están en camino desde el momento en que las reciben los agentes encargados de su conducción, hasta que queden en poder del comprador fallido o de la persona que lo represente.
+Derogado.
 
 #### Artículo 90°
 
-En caso de resolución de la compraventa, el vendedor estará obligado a reembolsar a la masa los abonos a cuenta que hubiere recibido.
+Derogado.
 
 #### Artículo 91°
 
-El comisionista que ha pagado o se ha obligado a pagar con sus propios fondos las mercaderías compradas y remitidas por orden y cuenta del fallido, puede ejercitar las mismas acciones concedidas al vendedor por el artículo 87°.
+Derogado.
 
 #### Artículo 92°
 
-Aparte de los casos expresamente señalados por las leyes, la retención tendrá lugar siempre que la persona que ha pagado o se ha obligado a pagar por el fallido, tenga en su poder mercaderías o valores de crédito que pertenezcan a aquél, con tal que la tenencia nazca de un hecho voluntario del fallido, anterior al pago o a la obligación, y que esos objetos no hayan sido remitidos con un destino determinado.
+Derogado.
 
 #### Artículo 93°
 
-En los casos a que se refieren los artículos precedentes, el síndico podrá oponerse a la resolución o retención y exigir la entrega de las cosas vendidas o retenidas, pagando la deuda, intereses, costas y perjuicios, o dando caución que asegure el pago.
+Derogado.
 
 ## Título VII
 
-De la incautación e inventario
+De la incautación e inventario Derogado.
 
 #### Artículo 94°
 
-Asumido oficialmente el cargo, el síndico deberá:
-
-1.- Adoptar de inmediato, en presencia del secretario del tribunal o de un notario o de otro ministro de fe designado por el juez, las providencias necesarias para recoger los libros, documentos y bienes del fallido y para colocarlos en lugar seguro si se estima que peligran o corren riesgos donde se encuentran;
-
-2.- Formar, a más tardar al día siguiente hábil y en presencia del secretario del tribunal, de un notario o de otro ministro de fe designado por el tribunal, inventario de todos los libros, correspondencia, documentos y bienes del deudor, debiendo dejar constancia del estado de las maquinarias, útiles y equipos, para lo cual podrá hacerse acompañar de una persona especialmente técnica atendido el giro del fallido. Igualmente, deberá dejar constancia de todo derecho o pretensión formulado por terceros en relación con los bienes inventariados, y
-
-3.- Agregar el inventario a los autos a más tardar al día siguiente hábil al de su facción. La resolución que tenga por agregado el inventario a los autos se notificará por aviso.
+Derogado.
 
 #### Artículo 95°
 
-Si aparecieren nuevos bienes por inventariar, se aplicará, en lo pertinente, lo dispuesto en el artículo precedente.
+Derogado.
 
 #### Artículo 96°
 
-El fallido está obligado a indicar y a poner a disposición del síndico todos sus libros, documentos, bienes y antecedentes.
-
-Si el deudor ha fallecido o se ha fugado, esta obligación incumbe a sus colaboradores más próximos.
+Derogado.
 
 #### Artículo 97°
 
-Si no apareciere ningún bien perteneciente al fallido, se dejará constancia de ello en un acta y el tribunal, expirado el plazo establecido en el artículo siguiente o desechadas las observaciones a que él se refiere, pronunciará el sobreseimiento temporal de la quiebra, el cual se comunicará por el tribunal, mediante correo certificado, al fallido, a los acreedores y al síndico. Este dispondrá de un plazo de treinta días corridos para presentar su cuenta con todos los antecedentes y se procederá conforme lo dispuesto en los artículos 29° al 31°.
+Derogado.
 
 #### Artículo 98°
 
-El fallido o los acreedores que tengan objeciones que hacer al inventario, las formularán en el plazo de quince días contados desde la fecha de publicación del aviso a que se refiere el N° 3 del artículo 94°.
+Derogado.
 
 #### Artículo 99°
 
-El síndico podrá, hasta la primera junta de acreedores y según lo estime conveniente a los intereses de la masa, cerrar bajo sello y paralizar la actividad del todo o parte de los locales, oficinas y establecimientos del fallido, o bien, continuar su giro provisionalmente, en forma total o parcial.
-
-En la continuación provisional del giro del fallido, el síndico sólo podrá ejecutar aquellos actos que tiendan a facilitar la realización de los bienes y preparar una liquidación progresiva. No obstante y si hubiere causas graves que lo justifiquen, podrá el síndico, con autorización del tribunal, iniciar de inmediato la continuación efectiva del giro.
+Derogado.
 
 #### Artículo 100°
 
-Las obligaciones contraídas por el síndico en la continuación del giro a que se refiere el artículo anterior sólo podrán hacerse efectivas sobre los bienes comprendidos en la quiebra, sin perjuicio del derecho preferente de los acreedores privilegiados e hipotecarios y de lo dispuesto en el artículo 114.
+Derogado.
 
 ## Título VIII
 
-De las Juntas de Acreedores
+De las Juntas de Acreedores Derogado.
 
-1.- Disposiciones generales.
+1.- Disposiciones generales. Derogado.
 
 #### Artículo 101°
 
-Los acreedores se reunirán en junta de acuerdo a las disposiciones del presente Título.
+Derogado.
 
 #### Artículo 102°
 
-En las juntas de acreedores que se celebren durante el juicio de quiebra sólo tendrán derecho a votar:
-
-a) los acreedores cuyos créditos estén reconocidos, y
-
-b) los acreedores cuyos créditos no se encuentren reconocidos y a los cuales, ciñéndose al procedimiento que se establece en el inciso siguiente, el juez de la quiebra les reconozca derecho de votar.".
-
-En el día hábil, que no sea sábado, inmediatamente anterior al señalado para la celebración de la junta, se efectuará una audiencia verbal ante el juez de la quiebra, en la cual el síndico le informará por escrito acerca de la verosimilitud de la existencia y monto de los créditos todavía no reconocidos, pero que hayan sido verificados a más tardar el segundo día hábil, que no sea sábado, anterior a la fecha en que corresponda la celebración de esa audiencia. En ésta, oyendo previamente a los acreedores, el juez resolverá en única instancia y sobre la base de los antecedentes disponibles cuáles de los créditos no reconocidos, estén o no impugnados, y por qué monto tendrán derecho a votar en esa junta. El juez apreciará los antecedentes en conciencia. El reconocimiento de derecho a voto sólo producirá efectos para la junta en referencia y en nada limitará la libertad del síndico y de los acreedores para impugnar el crédito y sus preferencias de acuerdo con lo dispuesto en los artículos 131 y siguientes, ni la del juez para resolver la impugnación.
-
-La audiencia referida se efectuará el día señalado, a la hora que comience a funcionar el tribunal.
-
-Las reuniones de la junta se constituirán cuando concurran dos o más acreedores que representen un porcentaje no inferior al veinticinco por ciento de los créditos con derecho a voto, salvo que esta ley establezca un quórum especial.
-
-Los acuerdos se adoptarán con el voto conforme de no menos de dos acreedores que sumen mayoría absoluta de los créditos presentes en la reunión con derecho a voto, salvo que la ley exija una mayoría especial. En caso de empate, corresponderá decidir a quien presida la reunión.
-
-Los acreedores que hayan verificado, pero que carezcan de derecho a voto tendrán solamente derecho a concurrir a la reunión y a dejar constancia escrita de sus observaciones, bajo su firma, en documento que se agregará al acta pertinente.
-
-El síndico asistirá sólo con derecho a voz, pudiendo exigir que se deje constancia de su opinión en el acta. Podrá también hacerse acompañar de aquellas personas, que en atención a sus conocimientos o profesión, estime necesario para que, si la junta lo acuerda, puedan ser oídas.
-
-El fallido sólo tendrá derecho a voz y a exigir que se deje constancia de su opinión en acta, salvo los casos en que la ley requiera expresamente su consentimiento.
+Derogado.
 
 #### Artículo 103°
 
-La asistencia de los acreedores y del fallido podrá ser personal o a través de mandatario. El mandato deberá constar en instrumento público o en instrumento privado, y, en este último caso, la firma del mandante deberá ser autorizada por el secretario del tribunal o por un notario. Se entenderá que el mandatario tiene idénticas facultades que las de su mandante, no obstante cualquier limitación que hubiere podido establecerse.
-
-Se prohíbe otorgar mandato para asistir a junta a más de una persona, salvo para el caso de su reemplazo, pero un mismo mandatario puede serlo de uno o más acreedores.
+Derogado.
 
 #### Artículo 104°
 
-Se prohíbe fraccionar los créditos después de declarada la quiebra y conferir mandato por una parte o fracción de un crédito. El contraventor y los que representen las porciones del crédito perderán el derecho a asistir a las reuniones de la junta.
+Derogado.
 
-Todos los que hagan valer porciones de un crédito fraccionado dentro de los treinta días anteriores a la declaración de quiebra, se contarán como una sola persona y emitirán un solo voto, procediéndose en la forma establecida en el inciso final de este artículo.
-
-Las disposiciones precedentes no serán aplicables al crédito dividido como consecuencia de la liquidación de una sociedad, o de la partición de una comunidad que no esté exclusivamente formada por dicho crédito.
-
-El crédito perteneciente a una comunidad será representado por uno solo de los comuneros. Si no se avinieren a la designación del representante, cualquiera de ellos podrá solicitar tal designación al tribunal.
-
-2.- De la primera junta de acreedores.
+2.- De la primera junta de acreedores. Derogado.
 
 #### Artículo 105°
 
-La primera junta de acreedores se realizará en la sede del tribunal o en el lugar ad hoc que éste hubiere designado, no antes de treinta días ni después de cuarenta días hábiles contados desde la publicación de la sentencia que declara la quiebra.
+Derogado.
 
 #### Artículo 106°
 
-La primera junta se constituirá cuando concurran dos o más acreedores con derecho a voto, que representen en conjunto dos tercios del pasivo de la quiebra, a lo menos. Si no se reuniere el quórum expresado se dejará constancia de ello y el tribunal practicará una segunda citación para no antes de cinco ni después de diez días hábiles, indicando el lugar, día, hora y naturaleza de la reunión, así como la circunstancia de tratarse de segunda citación. La notificación se efectuará por aviso y la reunión se celebrará con los acreedores que asistan.
+Derogado.
 
 #### Artículo 107°
 
-La reunión será presidida por el juez y actuará como ministro de fe el secretario del tribunal o quien hubiere sido designado por dicho magistrado.
-
-De lo tratado en la reunión se dejará constancia en un acta que será suscrita por el presidente y el secretario y que se incorporará en un libro especial que será llevado por el síndico. Copia autorizada de la misma se agregará a los autos.
+Derogado.
 
 #### Artículo 108°
 
-En la primera junta se tratará especialmente sobre las siguientes materias:
-
-1.- Oír la cuenta que debe presentar el síndico provisional sobre el estado preciso de los negocios del fallido, de su activo y pasivo, y de la labor por él realizada;
-
-2.- Ratificación del síndico provisional, titular y suplente, o designación de quienes habrán de reemplazarlos, salvo lo dispuesto en el inciso primero del artículo siguiente. El síndico titular y suplente provisionales continuarán en sus funciones hasta que asuman sus reemplazantes;
-
-3.- Acordar lugar, día y hora de las reuniones ordinarias, las que deberán celebrarse, a lo menos, mensualmente; debiendo la primera reunión ordinaria llevarse a cabo entre los treinta y los cuarenta y cinco días corridos, salvo que la junta y el síndico acuerden otra fecha;
-
-4.- Designar de entre los acreedores con derecho a voto o sus representantes, un presidente y un secretario, titular y suplente, para las futuras reuniones. Si concurrieren menos de cuatro personas, se procederá solamente a la designación de presidente y secretario titulares, y
-
-5.- Cualquier otro acuerdo necesario para el más adecuado cumplimiento de las funciones que a la junta y al síndico competen.
+Derogado.
 
 #### Artículo 109°
 
-Si de la cuenta presentada por el síndico apareciere que el producto probable de la realización del activo de la quiebra no excederá de 2.000 unidades de fomento, se procederá a la realización sumaria del activo. En este caso, el síndico provisional pasará a tener el carácter de definitivo y liquidará el activo en la forma más conveniente para los intereses de la masa, en un plazo no superior a seis meses.
+Derogado.
 
-Si el fallido o cualquiera de los acreedores no estuviere de acuerdo con la estimación del valor del activo presentada por el síndico, deberá así manifestarlo en la misma junta. Sobre esta objeción el tribunal resolverá a más tardar dentro del quinto día, pudiendo solicitar informe pericial si lo estimare necesario. En contra de la resolución que se pronuncie sobre el valor probable del activo, no procederá recurso alguno.
-
-No se admitirá otra objeción al valor estimado del activo ni a la adopción del procedimiento de realización sumaria del mismo que la señalada en el inciso precedente.
-
-3.- De las reuniones ordinarias y extraordinarias y de la continuación efectiva del giro del fallido.
+3.- De las reuniones ordinarias y extraordinarias y de la continuación efectiva del giro del fallido. Derogado.
 
 #### Artículo 110°
 
-La junta se reunirá ordinariamente en el lugar, día y hora acordados en la primera reunión.
+Derogado.
 
 #### Artículo 111°
 
-En la primera reunión ordinaria el síndico deberá presentar un informe completo, un programa de realización del activo, un plan de pago del pasivo y una estimación de los gastos de administración de la quiebra. En NOTA 3todo caso, los gastos de administración de la quiebra deberán ajustarse a las instrucciones generales de la Superintendencia de Quiebras.
-
-Si lo estimare adecuado, propondrá la continuación efectiva del giro total o parcial de las actividades del fallido o la enajenación de todo o parte del activo como un conjunto, o ambas.
-
-> **Nota.** La letra b) del N° 24 del Artículo Único de la Ley 20004, publicada el 08.03.2005, deroga los incisos tercero y final de la presente norma.
+Derogado.
 
 #### Artículo 112°
 
-La continuación efectiva del giro del fallido, total o parcial, podrá proponerse en cualquier oportunidad por el síndico o por dos o más acreedores. Para su aprobación se requerirá el acuerdo de los acreedores que representen a lo menos los dos tercios del pasivo de la quiebra con derecho a voto de conformidad a lo dispuesto en el artículo 102.
-
-Si la continuación del giro comprendiere bienes constituídos en prenda o hipoteca o afectos al derecho legal de retención, no se suspenderá el derecho de los respectivos acreedores para ejercer sus acciones en los bienes afectos a la seguridad de sus créditos, a menos que consientan expresamente en dicha continuación.
-
-Para obtener la mayoría a que se refiere el inciso primero de este artículo, los acreedores que estuvieren por la continuación podrán excluir a los disidentes, pagándoles la cuota que les corresponda atendidos el carácter y preferencia del crédito y el importe del activo de la quiebra, o asegurándoles su pago.
-
-La determinación de esta cuota y del plazo y garantía para el pago, en su caso, podrá fijarse por el tribunal, oyendo al síndico y a los acreedores, a falta de acuerdo entre éstos.
+Derogado.
 
 #### Artículo 113°
 
-El acuerdo de continuar efectivamente el giro del fallido deberá ser fundado y contener, al menos, la determinación del objeto y de los bienes a que se extiende la autorización, la designación de su administración y las facultades especiales que le son conferidas, en las que podrán comprenderse las conducentes a la obtención de los recursos necesarios para ello, y el plazo de duración que no podrá exceder de un año. El plazo acordado podrá ser prorrogado, por una sola vez, hasta por un año, mediante acuerdo adoptado al menos quince días antes de su expiración. El acuerdo de prórroga deberá adoptarse por la correspondiente mayoría exigida por el inciso primero del artículo precedente. En este caso, la administración deberá recaer, necesariamente en persona distinta del síndico.
-
-Cuando la administración del giro no sea ejercida por el síndico, éste, sin perjuicio de las atribuciones que le confiere la ley como administrador de los bienes de la quiebra no comprendidos en la continuación del giro, tendrá, sobre dicha administración, las facultades que indica el artículo 200.
-
-Todo conflicto que pudiere suscitarse entre el síndico y la administración del giro con motivo del ejercicio de sus respectivas funciones, será resuelto por el juez de la quiebra incidentalmente y en única instancia, oyendo previamente a la Superintendencia de Quiebras.
-
-Los administradores de la continuación del giro tendrán las responsabilidades inherentes a todo mandatario y estarán sujetos al control de la Superintendencia en la misma forma que los síndicos.
-
-Con todo, si los acreedores hubieren acordado la enajenación de los activos que componen la continuación del giro como unidad económica en funcionamiento en conformidad al artículo 124, se podrá prorrogar la continuidad del giro por el período indispensable para el perfeccionamiento de su enajenación previa autorización judicial, aunque con ello se excedan los plazos señalados en el inciso primero.
-
-En todos los actos de administración que realicen los órganos y personas que tengan injerencia en ello, deberá dejarse constancia del hecho de existir una continuación efectiva del giro mediante la incorporación en el nombre o en la razón social del fallido, de la expresión "en continuación de giro", precedida de las respectivas firmas, sin lo cual será solidariamente responsable de las obligaciones contraídas, quien hubiere celebrado el contrato o ejecutado el acto correspondiente.
+Derogado.
 
 #### Artículo 114°
 
-Los créditos provenientes de la continuación efectiva total o parcial del giro del fallido podrán perseguirse solamente en los bienes comprendidos en ella y gozarán de preferencia para el pago respecto de los demás acreedores del fallido, pero no alcanzarán a los bienes hipotecados, pignorados o retenidos en favor de los acreedores que no hubieren consentido en la continuación del giro. Los créditos de la continuación efectiva del giro preferirán a los de los acreedores hipotecarios, prendarios y retencionarios que hubieren dado su aprobación a dicha continuación, sólo en el caso que los bienes no gravados comprendidos en la continuación efectiva del giro, fueren insuficientes para satisfacerlos. La diferencia, si la hubiere, será soportada por los señalados acreedores hipotecarios, prendarios y retencionarios a prorrata del monto de sus respectivos créditos en la quiebra y hasta la concurrencia del valor de liquidación de los bienes dados en garantía de sus respectivos créditos.
-
-El acreedor hipotecario, prendario o retencionario, que pague más del porcentaje que le correspondiere de conformidad al inciso anterior, se subrogará por el exceso en los derechos de los acreedores del giro, en conformidad a las normas del párrafo 8 del Título XIV del Libro IV del Código Civil.
-
-En el caso de que en la continuación efectiva del giro se obtengan excedentes, éstos corresponderán a los acreedores del fallido sólo hasta la concurrencia del monto de sus créditos, reajustes e intereses, que corresponda pagar en la quiebra, deducidos los gastos. El remanente, si lo hubiere, pertenecerá al fallido.
+Derogado.
 
 #### Artículo 115°
 
-Sin perjuicio de lo dispuesto en el inciso segundo del artículo 112, la continuación del giro no entorpecerá los procedimientos de la quiebra, ni la realización de los bienes del fallido no comprendidos en la autorización, pero suspenderá los derechos de los acreedores prendarios, hipotecarios y retencionarios que hubieren aprobado la continuación del giro, para iniciar o proseguir en forma separada sus acciones para la realización de los bienes comprendidos dentro de la continuación del giro, afectos a la seguridad de sus respectivos créditos.
+Derogado.
 
 #### Artículo 116°
 
-Corresponderá a la junta de acreedores en sus reuniones ordinarias, conocer y pronunciarse sobre el informe periódico del síndico y sobre las proposiciones que éste le presentare, formular proposiciones y, en general, adoptar todos los acuerdos que estime necesarios.
-
-En uso de sus facultades, la junta de acreedores designará administrador de la continuación efectiva del giro, establecerá la estructura de esa administración y las facultades que le otorga en conformidad con lo dispuesto en el artículo 113. Si la administración de la continuación del giro fuere entregada al síndico de la quiebra, éste sólo podrá ejercerla hasta por un año no prorrogable. Si se continuare el giro excediendo este plazo, la junta de acreedores deberá designar administrador distinto del síndico.
-
-En el caso de haberse acordado la continuación efectiva del giro del fallido, su administración deberá necesariamente dar mensualmente cuenta de su gestión, mediante estados de avance y cuentas parciales.
+Derogado.
 
 #### Artículo 117°
 
-La junta de acreedores se reunirá en sesión extraordinaria cuando así lo decretare el juez, de oficio o a petición del síndico, del Superintendente o de acreedores que representen al menos un cuarto del pasivo con derecho a voto. Además, se reunirá en sesión extraordinaria cuando así lo acuerde la junta en una sesión anterior. En todo caso, deberá señalarse el objeto preciso de la reunión y en ella sólo podrán tratarse aquellas materias que hubieren sido objeto de su convocatoria.
-
-Sólo en reunión extraordinaria y por mayoría absoluta del pasivo con derecho a voto podrá acordarse la revocación del síndico.
-
-Para la designación de un nuevo síndico se procederá en la forma establecida en el artículo 106°.
+Derogado.
 
 #### Artículo 118°
 
-La convocatoria a reuniones extraordinarias se efectuará por medio de un aviso publicado en el Diario Oficial, con al menos siete días corridos de anticipación.
-
-La citación será hecha por el síndico y deberá, al menos, individualizar la quiebra y expresar el lugar, día, hora y objeto de la reunión.
+Derogado.
 
 #### Artículo 119°
 
-De lo tratado en cada reunión se dejará constancia en un libro especial de actas que será llevado por el síndico. Las actas serán suscritas por el presidente, el secretario y el o los acreedores designados en la respectiva sesión. Copia de ellas, autorizada por el secretario, se agregará a los autos dentro de tercero día y se entregará a los acreedores cuando lo soliciten.
+Derogado.
 
 ## Título IX
 
-De la realización del Activo
+De la realización del Activo Derogado.
 
 #### Artículo 120°
 
-Salvo el caso de realización sumaria del activo de la quiebra, a que se refiere el artículo 109, el síndico procederá a su realización ateniéndose a los acuerdos de la junta de acreedores, si los hay, a las disposiciones que se expresan a continuación.
+Derogado.
 
 #### Artículo 121°
 
-El síndico, provisional o definitivo, podrá vender en cualquier momento, al martillo o en venta privada, los bienes expuestos a próximo deterioro o a una desvalorización inminente y los que exijan una conservación dispendiosa.
+Derogado.
 
 #### Artículo 122°
 
-Las especies corporales muebles se venderán al martillo y los valores mobiliarios que tengan cotización bursátil, en remate en bolsa de valores.
-
-El síndico podrá enajenar por un precio alzado los créditos activos de morosa o difícil realización.
-
-Todos los demás bienes corporales o incorporales, se venderán en pública subasta ante el juez que conoce de la quiebra, en conformidad a los trámites del juicio ejecutivo, o en licitación pública cuyas bases deberán ser aprobadas por la junta de acreedores.
+Derogado.
 
 #### Artículo 123°
 
-No obstante lo dispuesto en el artículo anterior, la junta de acreedores, con el voto favorable de más de la mitad del pasivo de la quiebra con derecho a voto y del fallido, podrá acordar, en cualquier tiempo, una forma diferente de realización de los bienes de la masa y las modalidades de la misma.
-
-Si la junta de acreedores acordare efectuar la realización de los bienes en subasta pública y al mejor postor, no será necesario contar con el voto favorable de faliido. La subasta deberá efectuarse ante el juez que conoce de la quiebra.
-
-Sin perjuicio de lo establecido en los incisos anteriores, el síndico podrá formular oposición fundada a dicho acuerdo, dentro de tercero día, debiendo resolver el juez, según lo dispuesto en el artículo 5° de esta ley.
+Derogado.
 
 #### Artículo 124°
 
-Los acreedores, que reúnan más de la mitad del total pasivo de la quiebra, podrán acordar la enajenación de todo o parte del activo de la misma como un conjunto o unidad económica, en subasta pública y al mejor postor. Esta deberá efectuarse ante el juez que conoce de la quiebra.
-
-Sin perjuicio de lo establecido en el inciso anterior, el síndico podrá formular oposición fundada a dicho acuerdo, dentro de tercero día, debiendo resolver el juez, según lo dispuesto en el artículo 5° de esta ley.
+Derogado.
 
 #### Artículo 125°
 
-En las bases de la enajenación como unidad económica se deberá señalar, a lo menos, lo siguiente:
-
-1. Los bienes que integran la unidad económica, cualquiera sea su naturaleza.
-
-Si se tratare de la enajenación de un conjunto de bienes ubicados en un bien raíz no perteneciente al fallido, el síndico incluirá en las bases los derechos que el fallido tenga en el mismo, cualquiera que sea el tenor de la convención o la naturaleza de los hechos en que se funda la posesión, uso o mera tenencia del inmueble.
-
-Cuando en la unidad económica hubiere bienes afectos a gravámenes constituidos en favor de terceros, se indicará específicamente en las bases la proporción que en el precio total corresponda a cada uno de dichos bienes, para el solo efecto que tales terceros puedan hacer valer los derechos que procedan dentro del juicio de quiebra.
-
-2. Precio mínimo, forma de pago, plazos, garantías y demás modalidades y condiciones de la enajenación.
-
-> **Nota.** La letra b) del N° 3 del Artículo 1° de la Ley 19144, publicada el 13.06.1992, deroga el N° 3 de la presente norma.
+Derogado.
 
 #### Artículo 126°
 
-Acordada la enajenación como unidad económica, se suspende el derecho de los acreedores hipotecarios, prendarios, retencionarios y otros acreedores para iniciar o proseguir en forma separada las acciones dirigidas a obtener la realización de los bienes comprendidos dentro de la unidad económica, afectos a la seguridad de sus respectivos créditos.
+Derogado.
 
 #### Artículo 127°
 
-Si ofrecida la unidad económica conforme con las bases, no hubiere interesados, se procederá nuevamente a ofrecerla en subasta pública y al mejor postor, pudiendo, en tal caso, rebajarse el precio hasta los dos tercios del fijado en aquéllas. Con todo, si se deseare introducir otras modificaciones a las bases para este segundo llamamiento, deberá contarse nuevamente con la aprobación de los acreedores en los términos indicados en el artículo 124.
-
-Si en una segunda oportunidad tampoco hubiera interesados, continuará la realización de los bienes conforme con las normas pertinentes de esta ley.
+Derogado.
 
 #### Artículo 128°
 
-La enajenación como unidad económica deberá constar en escritura pública en la que se insertarán, en lo pertinente, todas las piezas que den cuenta de las actuaciones referidas en los artículos anteriores, la que servirá de suficiente título para requerir el alzamiento de todos los gravámenes, prohibiciones o embargos que afecten a los bienes comprendidos en una o más de las unidades económicas que se enajenen.
-
-La aprobación de las bases se entenderá como suficiente autorización para los efectos contemplados en los números 3 y 4 del artículo 1.464° del Código Civil.
+Derogado.
 
 #### Artículo 129°
 
-Los bienes que integran la unidad económica enajenada se entenderán constituidos en hipoteca o prenda sin desplazamiento, según sea la naturaleza de ellos, por el solo ministerio de la ley, para caucionar los saldos insolutos de precio y cualquiera otra obligación que el adquirente haya asumido como consecuencia de la adquisición, salvo que la junta de acreedores, al pronunciarse sobre las bases respectivas, hubiese excluido expresamente determinados bienes de tales gravámenes.
+Derogado.
 
 #### Artículo 130°
 
-Cualquiera sea la forma de realización del activo, ésta deberá efectuarse en el menor tiempo posible y, en todo caso, dentro del plazo de seis meses, contado desde la primera junta de acreedores, deberá encontrarse realizado el total de los bienes de la masa, con la sola excepción de los inmuebles, respecto de los cuales dicho plazo será de nueve meses. Ambos plazos podrán ser prorrogados por el tribunal por una sola vez por un máximo de seis meses, siempre que el síndico lo solicite con a lo menos quince días de anticipación a su vencimiento.
-
-Lo dispuesto en el inciso precedente se entiende con exclusión de los bienes comprendidos en la continuación efectiva del giro del fallido. En tal caso, los plazos establecidos en dicho inciso se contarán desde el vencimiento del término acordado para la continuación del giro. Lo dispuesto en este artículo no tendrá aplicación cuando el activo de la quiebra deba realizarse conforme al artículo 109°.
+Derogado.
 
 ## Título X
 
-De la liquidación del pasivo
+De la liquidación del pasivo Derogado.
 
-1.- De la verificación de créditos.
+1.- De la verificación de créditos. Derogado.
 
 #### Artículo 131°
 
-Todos los acreedores residentes en el territorio de la República, sin excepción alguna, tendrán el plazo de treinta días, a contar de la notificación de la declaración de quiebra, para verificar sus créditos y alegar sus preferencias ante el tribunal que conozca de ella.
+Derogado.
 
 #### Artículo 132°
 
-Lo preceptuado en el artículo precedente será aplicable incluso a los acreedores que suministren servicios de utilidad pública, quienes deberán verificar los créditos correspondientes a suministros anteriores a la declaración de quiebra y no podrán, con posterioridad a ella, suspender éstos, salvo autorización del tribunal, previa audiencia del síndico.
-
-Los créditos correspondientes a servicios de utilidad pública que se suministren con posterioridad a la declaratoria de quiebra, se considerarán incluidos en el N° 4 del artículo 2.472° del Código Civil.
-
-La suspensión del servicio en contravención a lo dispuesto en el inciso primero de este artículo, será considerada como un acto que tiende a impedir la libre competencia y será sancionada con arreglo al decreto ley 211, de 1973.
+Derogado.
 
 #### Artículo 133°
 
-En la solicitud que se presente, los acreedores indicarán, para los efectos del artículo 131°, lo que se les deba por concepto de capital e intereses y acompañarán los títulos justificativos de sus créditos así como su subordinación, si ésta existiese, debiendo entregar en secretaría dos copias simples de la solicitud y de sus anexos. Se aplicará, respecto de las copias de la solicitud y de sus anexos, lo preceptuado en los incisos tercero, cuarto y quinto del artículo 31° del Código de Procedimiento Civil.
+Derogado.
 
 #### Artículo 134°
 
-El juzgado mandará anunciar por aviso, a costa de la masa, los créditos que se presenten a la verificación, y deberá indicarse en el aviso el monto de ellos a título de capital e intereses, su origen, las preferencias alegadas y la individualización precisa del acreedor.
-
-Al mismo tiempo, el secretario del juzgado remitirá al síndico la copia del escrito de verificación y de los títulos justificativos, previa certificación de estar conformes estas piezas con los originales agregados a los autos.
+Derogado.
 
 #### Artículo 135°
 
-El síndico hará un prolijo examen de los créditos que se presenten a la verificación y de las preferencias alegadas, investigando su origen, cuantía y legitimidad por todos los medios a su alcance.
-
-Si no encontrare justificado el crédito o la preferencia reclamada, deberá deducir la demanda de impugnación que corresponda.
+Derogado.
 
 #### Artículo 136°
 
-Una vez vencido el plazo establecido en el artículo 131°, el tribunal, de oficio o a petición del síndico, del fallido o de cualquier acreedor, declarará cerrado el procedimiento de verificación para los acreedores residentes en el territorio de la República. A falta de petición del síndico, del fallido o de algún acreedor, el juez lo declarará cerrado de oficio, dentro de los quince días corridos siguientes a la expiración del plazo a que se refiere el citado artículo.
-
-La declaración se notificará por aviso dentro de quinto día.
+Derogado.
 
 #### Artículo 137°
 
-El síndico, los acreedores y el fallido podrán interponer demanda de impugnación contra los créditos, desde el momento en que se haya agregado a los autos la respectiva solicitud y hasta quince días después de notificada la resolución que da por cerrado el procedimiento de verificación.
-
-El síndico y los acreedores podrán deducir demanda de impugnación, también dentro del mismo plazo, en contra de las preferencias reclamadas. En el caso de los créditos subordinados, las demandas de impugnación relacionadas con tal subordinación sólo podrán ser deducidas entre los acreedores a quienes afecta la respectiva subordinación. Sin perjuicio de lo anterior, el síndico, los demás acreedores y el fallido, pueden impugnar los créditos y preferencias en conformidad a las reglas generales vigentes. La tramitación de la demanda de impugnación, referida a la subordinación, no impedirá el reparto a los demás acreedores comunes no comprendidos en la subordinación respectiva.
+Derogado.
 
 #### Artículo 138°
 
-Los créditos que no hayan sido impugnados dentro del plazo a que se refiere el artículo precedente se tendrán por reconocidos y no podrán ser objeto de impugnación o reclamación posterior alguna.
-
-El síndico podrá, sin embargo, hacer reservas con respecto a algunos de ellos y en este caso tendrá un plazo adicional de diez días, contados desde el vencimiento del plazo señalado en el artículo anterior, dentro del cual podrá impugnarlos.
+Derogado.
 
 #### Artículo 139°
 
-Vencidos los términos de emplazamiento que corresponda a los acreedores residentes en el extranjero, el juzgado, de oficio o a petición del síndico, del fallido o de alguno de los acreedores, declarará cerrado, respecto de aquéllos, el procedimiento de verificación, y se procederá en lo demás de acuerdo con lo dispuesto en los artículos precedentes.
+Derogado.
 
 #### Artículo 140°
 
-Los acreedores que no hayan verificado oportunamente sus créditos o preferencias, podrán hacerlo mientras haya fondos por repartir, en cualquier tiempo, para ser considerados en los repartos futuros. La solicitud de verificación será notificada al síndico por cédula y al fallido y acreedores por aviso, a costa del solicitante.
-
-En este caso, las impugnaciones deberán deducirse dentro de quince días, contados desde la notificación a que se refiere el inciso precedente.
+Derogado.
 
 #### Artículo 141°
 
-Cada impugnación se tramitará en cuaderno separado, sin perjuicio de las acumulaciones que procedan, según las reglas generales.
-
-La demanda de impugnación se notificará al demandado personalmente o en la forma prescrita en el artículo 44° del Código de Procedimiento Civil, el que dispondrá de seis días fatales para responder. En lo demás, se aplicará el procedimiento a que se refiere el inciso primero del artículo 5° de esta ley.
+Derogado.
 
 #### Artículo 142°
 
-El síndico podrá intervenir como parte coadyuvante en toda impugnación, cuando no figure en ella como parte principal. Velará, en todo caso, porque el procedimiento siga su curso, sin dilaciones, para lo cual acusará las rebeldías en que puedan incurrir las partes y reclamará el fallo oportuno de la causa en primera o segunda instancia.
+Derogado.
 
 #### Artículo 143°
 
-Expirado el plazo de quince días subsiguiente a la clausura del procedimiento de verificación para los acreedores residentes en el territorio de la República, o el plazo adicional a que se refiere el artículo 138°, en su caso, el síndico formará la nómina de los acreedores cuyos créditos no hubieren sido impugnados, con anotación de las preferencias que les correspondan y de los que se les deba por capital e intereses. Dicha nómina se agregará a los autos y se notificará a los acreedores por medio de aviso, que la contendrá íntegramente.
-
-Esta nómina deberá ser completada, con las mismas formalidades, con los créditos que se reconozcan posteriormente y con los que se hubieren omitido por error.
-
-Sólo los acreedores que figuren en las nóminas referidas podrán participar en las distribuciones que haga el síndico.
+Derogado.
 
 #### Artículo 144°
 
-El acreedor por obligaciones suscritas, endosadas o garantizadas solidariamente por personas fallidas, podrá presentarse en todas las quiebras, sean simultáneas o sucesivas, por el valor nominal de sus créditos, hasta su completo pago, y participar de los dividendos que dé cada una de ellas.
+Derogado.
 
 #### Artículo 145°
 
-Las masas de los codeudores o fiadores no tienen derecho para demandarse entre sí el reembolso de los dividendos que cada una de ellas hubiere dado, a no ser que los dividendos pagados excedan de la cantidad a que asciende el crédito.
-
-En este último caso, la suma excedente se aplicará, según el orden y naturaleza de las obligaciones, a las masas de los codeudores o fiadores que, en conformidad a las reglas generales, tengan derecho a repetir contra los otros.
+Derogado.
 
 #### Artículo 146°
 
-El acreedor de obligaciones solidarias que hubiere recibido alguna cantidad a cuenta de su crédito, antes de que ninguno de los codeudores o fiadores se encuentre en quiebra, figurará en las masas de las quiebras de estos últimos que posteriormente se declararen sólo por la suma que se le quedare debiendo.
+Derogado.
 
-El fiador que haya verificado el pago parcial entrará a la quiebra por la suma a que asciende ese pago, y el codeudor, por la cantidad que exceda a la parte que le correspondía soportar en la deuda y, en ambos casos, con los intereses a que haya lugar hasta la fecha de la declaración de quiebra.
-
-2.- De la Graduación de créditos y su pago.
+2.- De la Graduación de créditos y su pago. Derogado.
 
 #### Artículo 147°
 
-Los acreedores serán pagados en la forma y orden de preferencia establecidos en las leyes y, en el caso de los acreedores valistas, con pleno respeto a la subordinación de créditos a que se refiere el artículo 2489 del Código Civil. Para su eficacia, la subordinación deberá ser alegada al momento de la verificación del crédito por parte del acreedor beneficiario o bien notificarse al síndico, si se establece en una fecha posterior.
+Derogado.
 
 #### Artículo 148°
 
-El síndico hará el pago de los créditos privilegiados de la primera clase que no hubieren sido objetados, en el orden de preferencia que les corresponda, tan pronto como haya fondos para ello; reservará lo necesario para el pago de los créditos de la misma clase, cuyo monto o privilegio esté en litigio, y para la atención de los gastos subsiguientes de la quiebra.
-
-Los créditos a que se refieren los números 1 y 4 del artículo 2.472° del Código Civil no necesitarán de verificación, salvo los señalados en el inciso siguiente.
-
-Las costas personales del acreedor peticionario de la quiebra, gozarán de la preferencia del número 1 del artículo 2472 del Código Civil, y los gastos de la petición de la quiebra por parte del deudor gozarán de la preferencia establecida en el número 4 del artículo 2472 del Código Civil, hasta los siguientes límites: el 2% del crédito invocado si éste no excede de 10.000 unidades de fomento y el 1% en lo que exceda de dicho valor. Para estos efectos, si la quiebra es solicitada por el propio deudor, y éste invocare más de un crédito, se estará a aquél en cuyo pago hubiere cesado en primer lugar. El saldo, si lo hubiere, se considerará valista.
-
-Los créditos mencionados en el N° 5 del mismo artículo serán pagados con cargo a los primeros fondos del fallido de que se pueda disponer, administrativamente, siempre que existan antecedentes documentarios que los justifiquen y aun antes de su verificación.
-
-Igualmente, se pagarán sin necesidad de verificación previa y en los términos establecidos en el inciso anterior, los créditos por las indemnizaciones convencionales de origen laboral hasta el límite de un equivalente a un mes de remuneración por cada año de servicio y fracción superior a seis meses, y por las indemnizaciones legales del mismo origen que sean consecuencia de la aplicación de las causales señaladas en el artículo 3° de la Ley N° 19.010.
-
-Las restantes indemnizaciones de origen laboral así como la que sea consecuencia del reclamo del trabajador de conformidad a la letra b) del artículo 11 de la Ley N° 19.010, se pagarán con el solo mérito de sentencia judicial ejecutoriada que así lo ordene.
-
-Al efectuar los pagos preceptuados en los incisos tercero y cuarto, el síndico cuidará que el monto del saldo del activo sea suficiente para asegurar el pago de los créditos de mejor derecho.
-
-En la forma establecida en el inciso primero de este artículo se hará, en seguida, el pago de los créditos de la cuarta clase.
-
-Los créditos privilegiados de la primera clase preferirán a todo otro crédito preferente o privilegiado establecido por leyes especiales.
-
-Los titulares de los créditos laborales que gocen de las preferencias de los números 5 y 8 del artículo 2472 del Código Civil podrán verificar condicionalmente sus respectivos créditos con el solo mérito de la presentación de la demanda interpuesta con anterioridad a la quiebra o con la notificación al síndico de la demanda interpuesta con posterioridad a la declaración de quiebra ante el tribunal competente, y el síndico deberá reservar fondos suficientes para el evento de que se acoja dicha demanda, sin perjuicio de los pagos administrativos que procedan.
-
-En caso de quiebra, hay objeto ilícito en la renuncia de cualquier monto de los créditos a que se refieren los números 5, 6 y 8 del artículo 2472 del Código Civil, sin perjuicio de la transacción convencional o judicial que se celebre con posterioridad a la notificación de la sentencia de primera instancia del juicio laboral o previsional respectivo.
+Derogado.
 
 #### Artículo 149°
 
-Los acreedores de la segunda clase, incluidos los que gocen del derecho de retención judicialmente declarado, podrán ser pagados sin aguardar las resultas de la quiebra, siempre que se asegure lo necesario para pagar los créditos de la primera clase si los demás bienes de la masa no parecieren suficientes para satisfacerlos.
-
-Con tal objeto, dichos acreedores podrán iniciar, ante el tribunal que conozca de la quiebra, los procedimientos que correspondan, o continuar ante él los ya iniciados en otros juzgados si prefirieren no dejar en manos del síndico la realización de los bienes gravados.
-
-El síndico podrá, si lo considera conveniente para la masa, exigir la entrega de la cosa dada en prenda o retenida, siempre que pague la deuda o deposite, a la orden del tribunal, su valor estimativo en dinero, sobre el cual se hará efectivo el privilegio.
+Derogado.
 
 #### Artículo 150°
 
-Los acreedores de la tercera clase se pagarán en la forma que determinan los artículos 2.477°, 2.478°, 2.479° y 2.480° del Código Civil.
-
-Los concursos especiales de hipotecarios que se formen sin declaración de quiebra se regirán por las disposiciones del Código Civil y del Procedimiento Civil.
+Derogado.
 
 #### Artículo 151°
 
-Toda vez que se reúna la cantidad suficiente para hacer a los acreedores comunes un abono no inferior al cinco por ciento, reservando lo necesario para los gastos de la quiebra, para responder a los créditos impugnados y a los de los acreedores residentes en el extranjero que no hayan alcanzado a comparecer, el síndico hará ese reparto, conforme a la nómina formada con arreglo al artículo 143°. El reparto será anunciado por aviso y por carta certificada a todo acreedor.
-
-En el caso de créditos afectos a subordinación, el o los acreedores subordinados contribuirán al pago de sus respectivos acreedores beneficiarios, a prorrata, con lo que les correspondiere en dicho reparto de su crédito subordinado.
+Derogado.
 
 #### Artículo 152°
 
-El acreedor condicional podrá exigir la consignación de los dividendos que le corresponderían cumplida la condición, o su entrega bajo caución suficiente de restituirlos a la masa , con el interés corriente, para el caso de que la condición no se verifique.
+Derogado.
 
 #### Artículo 153°
 
-Cuando un acreedor fuere a la vez deudor del fallido, sin que hubiere operado la compensación, las sumas que a aquél le correspondan se aplicarán al pago de su deuda, aunque no estuviere vencida.
+Derogado.
 
 #### Artículo 154°
 
-La demanda de los acreedores morosos no suspenderá la realización de los repartos; pero si, pendiente el reconocimiento de estos nuevos créditos se ordenare otro reparto, serán dichos acreedores comprendidos en él, por la suma que corresponda, en conformidad al siguiente inciso, con calidad de que sea mantenida en depósito hasta que sus créditos queden reconocidos.
-
-Reconocidos sus créditos, los reclamantes tendrán derecho a exigir que los dividendos que les hubieren correspondido en las distribuciones precedentes, sean de preferencia cubiertos con los fondos no repartidos; pero no podrán demandar a los acreedores pagados en los anteriores repartos la devolución de cantidad alguna, aun cuando los bienes de la quiebra no alcancen a cubrir íntegramente sus dividendos insolutos.
+Derogado.
 
 #### Artículo 155°
 
-La cantidad reservada para los acreedores residentes fuera del territorio de la República permanecerá en depósito hasta el vencimiento del duplo del término de emplazamiento que les corresponda y, vencido este plazo, se aplicará al pago de los créditos reconocidos.
+Derogado.
 
 #### Artículo 156°
 
-Si algún acreedor comprendido en la nómina de distribución no compareciere a recibir lo que le corresponda tres meses después de la notificación del reparto, el síndico depositará su importe en arcas fiscales a la orden de dicho acreedor.
+Derogado.
 
 ## Título XI
 
-Del sobreseimiento en los procedimientos de la quiebra
+Del sobreseimiento en los procedimientos de la quiebra Derogado.
 
-1.- Del sobreseimiento en general.
+1.- Del sobreseimiento en general. Derogado.
 
 #### Artículo 157°
 
-El sobreseimiento de la quiebra puede ser temporal o definitivo.
+Derogado.
 
-El sobreseimiento temporal suspende provisoriamente los procedimientos de la quiebra.
-
-El sobreseimiento definitivo pone fin al estado de quiebra.
-
-2.- Del sobreseimiento temporal. (ARTS. 158-163)
+2.- Del sobreseimiento temporal. (ARTS. 158-163) Derogado.
 
 #### Artículo 158°
 
-El tribunal dará lugar al sobreseimiento temporal:
-
-1. Cuando, de conformidad con el artículo 97°, no apareciere ningún bien perteneciente a la masa, o
-
-2. Cuando resultare de la cuenta presentada por el síndico en la primera junta de acreedores que el producto probable de la realización del activo no alcanzare para cubrir los gastos de prosecución de la quiebra y se procediere, de acuerdo con el artículo 109°, a la realización sumaria del activo. En este caso el sobreseimiento temporal se decretará de oficio, una vez finalizada la realización sumaria del activo y distribuido el excedente que de ella pudiere haber resultado.
+Derogado.
 
 #### Artículo 159°
 
-En el caso del N° 1 del artículo anterior, el sobreseimiento temporal sólo se ordenará a solicitud del síndico, la que se notificará en igual forma que la declaratoria de quiebra.
-
-Si alguno de los acreedores se opusiere dentro del término de siete días, se tramitará su oposición como incidente.
+Derogado.
 
 #### Artículo 160°
 
-No se dará lugar al sobreseimiento si se justificare la existencia de bienes o un tercero anticipare los fondos suficientes para la prosecución de la quiebra. En el primer caso se seguirá el procedimiento dirigido a la realización sumaria de los bienes y en el segundo, el procedimiento normal establecido en esta ley.
-
-Los anticipos a que se refiere el inciso precedente gozarán del privilegio concedido a las costas judiciales y se pagarán con los primeros fondos que se obtengan.
+Derogado.
 
 #### Artículo 161°
 
-El sobreseimiento temporal deja subsistente el estado de quiebra, pero restituye a los acreedores el derecho de ejecutar individualmente al fallido.
+Derogado.
 
 #### Artículo 162°
 
-Mientras no se pronunciare el sobreseimiento definitivo, el fallido, cualquier acreedor o persona interesada, podrá solicitar que se deje sin efecto el sobreseimiento temporal:
-
-1.- Si se acreditare la existencia de valores suficientes en dinero o en especies para atender a los gastos de prosecución de la quiebra, o
-
-2.- Si se depositaren a disposición del tribunal los fondos suficientes para igual objeto, a los que se aplicará lo preceptuado en el inciso segundo del artículo 160°.
+Derogado.
 
 #### Artículo 163°
 
-Acogida la solicitud a que se refiere el artículo anterior, se reponen las cosas al estado que tenían antes de pronunciada la resolución de sobreseimiento, pero no habrá derecho para reclamar la entrega de las sumas que los acreedores hubieren percibido en el ejercicio de las acciones individuales entabladas por ellos contra el deudor.
+Derogado.
 
-3.- Del sobreseimiento definitivo.
+3.- Del sobreseimiento definitivo. Derogado.
 
 #### Artículo 164°
 
-Tiene lugar el sobreseimiento definitivo:
-
-1. Cuando todos los acreedores convienen en desistirse de la quiebra o remiten sus créditos;
-
-2. Cuando el deudor o un tercero por él, consigna el importe de las costas y los créditos vencidos y cauciona los demás a satisfacción de los acreedores, y
-
-3. Cuando todos los créditos hayan sido cubiertos en capital e intereses con el producto de los bienes realizados en la quiebra.
+Derogado.
 
 #### Artículo 165°
 
-Se sobreseerá también definitivamente, aun cuando las deudas no se hubieren alcanzado a cubrir con el producto de la realización de todos los bienes de la quiebra, siempre que concurran los siguientes requisitos:
-
-1.- Que hayan transcurrido dos años contados desde que hubiere sido aprobada la cuenta definitiva del síndico;
-
-2.- Que, habiendo terminado el procedimiento de calificación de la quiebra por sentencia ejecutoriada, haya sido calificada de fortuita, y
-
-3.- Que el deudor no haya sido condenado por alguno de los delitos contemplados en el artículo 466° del Código Penal.
-
-El sobreseimiento de que trata este artículo extingue, además, las obligaciones del fallido por los saldos insolutos de sus deudas anteriores a la declaración de quiebra, sin perjuicio de distribuirse entre los acreedores el producto de los bienes adquiridos con posterioridad y ya ingresados a la quiebra, con arreglo al inciso segundo del artículo 65°.
+Derogado.
 
 #### Artículo 166°
 
-La solicitud de sobreseimiento definitivo se notificará por aviso.
-
-Dentro del término de quince días siguientes a la notificación, podrán deducirse oposiciones, las que se tramitarán como incidentes entre el deudor y el opositor. La resolución será apelable en ambos efectos.
+Derogado.
 
 #### Artículo 167°
 
-Ejecutoriada la sentencia que declare el sobreseimiento definitivo, cesa el estado de quiebra y se cancelarán las inscripciones que se hubieren practicado en la oficina del Conservador de Bienes Raíces.
+Derogado.
 
 #### Artículo 168°
 
-Ejecutoriada la sentencia que declare el sobreseimiento definitivo y siempre que hubiere terminado por sentencia ejecutoriada el respectivo proceso a que se refieren los N.os 2 y 3 del artículo 165°, se hará entrega al deudor de los bienes sobrantes, de sus libros y papeles, y del remanente, si lo hubiere.
-
-Si no se cumplieren los requisitos señalados en el inciso anterior y no se pudiere aplicar lo dispuesto en el inciso segundo del artículo 25, en caso de incapacidad física o mental o muerte del síndico, los libros y papeles del deudor serán entregados a la Superintendencia de Quiebras.
+Derogado.
 
 ## Título XII
 
-DE LOS ACUERDOS EXTRAJUDICIALES Y DE LOS CONVENIOS JUDICIALES
+DE LOS ACUERDOS EXTRAJUDICIALES Y DE LOS CONVENIOS JUDICIALES Derogado.
 
-### 1. De los Acuerdos Extrajudiciales
+### 1. De los Acuerdos Extrajudiciales Derogado
 
 #### Artículo 169°
 
-Cualquier acuerdo extrajudicial celebrado entre el deudor, antes de su declaración de quiebra, y uno o más de sus acreedores relativo al pago de sus obligaciones o a la administración de sus bienes, sólo obliga a quienes lo suscriban, aun cuando se le denomine convenio.
+Derogado.
 
 #### Artículo 170°
 
-Lo dispuesto en el artículo anterior no será aplicable a los convenios regulados por la Ley General de Bancos y por el decreto con fuerza de ley Nº 251, de 1931, sobre Compañías de Seguros y a otros convenios regulados por la ley.
+Derogado.
 
-### 2. Del Convenio Judicial Preventivo
+### 2. Del Convenio Judicial Preventivo Derogado
 
-#### Artículo 171
+#### Artículo 171°
 
-El convenio judicial preventivo es aquél que el deudor propone, con anterioridad a la declaración de quiebra y en conformidad a las disposiciones de este Párrafo. Comprende todas sus obligaciones existentes a la fecha de las resoluciones a que se refieren las letras a) y b) del artículo 200, aun cuando no sean de plazo vencido, salvo las que la ley expresamente exceptúe.
+Derogado.
 
-#### Artículo 172
+#### Artículo 172°
 
-Sin perjuicio de lo dispuesto en el artículo anterior, el acreedor que se encuentre en alguno de los casos previstos en los números 1 y 2 del artículo 43, podrá solicitar al tribunal competente que ordene al deudor, o a la sucesión del deudor formular proposiciones de convenio judicial preventivo dentro del plazo de 30 días contado desde la notificación efectuada en la forma prevista en el inciso final del artículo 45. La no presentación del convenio dentro del plazo indicado, acarreará, necesariamente, la quiebra del deudor y el tribunal la declarará de oficio.
-
-En el caso del inciso anterior el deudor podrá, dentro de cinco días contados desde la notificación de la solicitud, manifestar que se acoge irrevocablemente al artículo 177 ter, y el juez citará a la junta de acreedores a que se refiere dicha disposición.
-
-El derecho del acreedor no podrá ser ejercido por las personas a que se refiere el inciso tercero del artículo 177 bis. Si se ejerciere respecto de la sucesión del deudor, se aplicará lo dispuesto en el artículo 50.
-
-Una vez notificada su solicitud, el acreedor no podrá retirarla o desistirse de ella. Tampoco podrá ser objeto de transacción de ninguna clase. El pago hecho al acreedor solicitante después de presentada su petición será nulo de pleno derecho.
-
-Contra la resolución que ordene al deudor presentar un convenio, sólo podrá entablarse recurso de reposición; y contra la que resuelva la reposición no procederá recurso alguno. En este caso el plazo a que se refiere el inciso primero será de 20 días, contado desde la resolución que falle la reposición.
-
-Si el tribunal desecha la solicitud del acreedor, éste podrá pedir la quiebra en conformidad a la presente ley; pero si la petición de quiebra se basa en la misma causal invocada y en idéntico fundamento de hecho, deberá solicitarla ante el tribunal que desestimó la solicitud.
+Derogado.
 
 #### Artículo 173°
 
@@ -9150,7 +8532,7 @@ Derogado.
 
 Derogado.
 
-### 3. Del Convenio simplemente judicial
+### 3. Del Convenio simplemente judicial Derogado
 
 #### Artículo 186°
 
@@ -9168,7 +8550,7 @@ Derogado.
 
 Derogado.
 
-### 4. De la aprobación de los Convenios Judiciales
+### 4. De la aprobación de los Convenios Judiciales Derogado
 
 #### Artículo 190°
 
@@ -9210,7 +8592,7 @@ Derogado.
 
 Derogado.
 
-### 5. De los efectos del convenio
+### 5. De los efectos del convenio Derogado
 
 #### Artículo 200°
 
@@ -9248,13 +8630,13 @@ Derogado.
 
 Derogado.
 
-### 6. Del rechazo del convenio
+### 6. Del rechazo del convenio Derogado
 
 #### Artículo 209°
 
 Derogado.
 
-### 7. De la nulidad e incumplimiento del convenio
+### 7. De la nulidad e incumplimiento del convenio Derogado
 
 #### Artículo 210°
 
@@ -9290,109 +8672,33 @@ Derogado.
 
 ## Título XIII
 
-De los delitos relacionados con las quiebras
+De los delitos relacionados con las quiebras Derogado.
 
-1.- De la calificación de la quiebra.
+1.- De la calificación de la quiebra. Derogado.
 
 #### Artículo 218°
 
-La quiebra del deudor a que se refiere el artículo 41° puede ser fortuita, culpable o fraudulenta.
+Derogado.
 
 #### Artículo 219°
 
-La quiebra se presume culpable en los siguientes casos:
-
-1.- Si el deudor ha pagado a un acreedor en perjuicio de los demás, después de la cesación de pagos;
-
-2.- Si los gastos domésticos o personales del fallido hubieren sido excesivos, habida consideración a su capital, a su rango social y al número de personas de su familia;
-
-3.- Si el fallido hubiere perdido fuertes sumas en cualquier especie de juego, en apuestas cuantiosas o en operaciones aventuradas de bolsa;
-
-4.- Si el deudor no hubiere solicitado su quiebra, en el caso del artículo 41, o si la manifestación que hiciere no reuniese las condiciones que prescribe el artículo 42;
-
-5.- Si el deudor fuere declarado en quiebra, por segunda vez, sin haber cumplido las obligaciones que hubiere contraído en un convenio precedente;
-
-6.- Si se ausentare o no compareciere al tiempo de la declaración de quiebra o durante el curso del juicio, o si se negare a dar al síndico explicaciones sobre sus negocios;
-
-7.- Si hubiere prestado fianzas o contraído por cuenta ajena obligaciones desproporcionadas a la situación que tenía cuando las contrajo, sin garantías suficientes;
-
-8.- Si hubiere hecho donaciones desproporcionadas a su situación de fortuna, considerada en el momento de hacerlas;
-
-9.- Si no tuviere libros o inventarios o si teniéndolos, no hubieren sido llevados los libros con la regularidad exigida de tal suerte que no manifiesten la verdadera situación de su activo y pasivo. Respecto de quienes no estén obligados a llevar libros de contabilidad, se aplicarán las normas sobre tributación simplificada establecidas por el Servicio de Impuestos Internos;
-
-10.- Si no se conservare las cartas que se le hubieren dirigido con relación a sus negocios;
-
-11.- Si hubiere omitido la inscripción de los documentos que ordena la ley, y
-
-12.- Si agravase el mal estado de sus negocios durante el período a que se refiere el inciso primero del artículo 177 bis.
+Derogado.
 
 #### Artículo 220°
 
-Se presume fraudulenta la quiebra del deudor:
+Derogado.
 
-1.- Si hubiere ocultado bienes;
-
-2.- Si hubiere reconocido deudas supuestas;
-
-3.- Si hubiere supuesto enajenaciones, con perjuicio de sus acreedores;
-
-4.- Si hubiere comprometido en sus propios negocios los bienes que hubiere recibido en depósito, comisión o administración, o en el desempeño de un cargo de confianza;
-
-5.- Si, posteriormente a la declaración de quiebra, hubiere percibido y aplicado a sus propios usos, bienes de la masa;
-
-6.- Si, después de la fecha asignada a la cesación de pagos, hubiere pagado a un acreedor, en perjuicio de los demás, anticipándole el vencimiento de una deuda;
-
-7.- Si ocultare o inutilizare sus libros, documentos y demás antecedentes;
-
-8.- Si, con intención de retardar la quiebra, el deudor hubiere comprado mercaderías para venderlas por menor precio que el corriente, contraído préstamos a un interés superior al corriente de plaza, puesto en circulación valores de crédito o empleado otros arbitrios ruinosos para hacerse de fondos;
-
-9.- Si, inmediatamente después de haber comprado mercaderías al fiado, las vendiere con pérdidas;
-
-10.- Si, antes o después de la declaración de quiebra, hubiere comprado para sí por interposición de un tercero y a nombre de éste, bienes de cualquier clase;
-
-11.- Si no resultare de sus libros la existencia o salida del activo de su último inventario, o del dinero y valores de cualquier otra especie que hubieren entrado en su poder posteriormente a la facción de aquél;
-
-12.- Si, en estado de manifiesta insolvencia, hubiere hecho donaciones cuantiosas;
-
-13.- Si hubiere celebrado convenios privados con algunos acreedores en perjuicio de la masa;
-
-14.- Si se ausentare o fugare, llevándose una parte de sus haberes;
-
-15.- Si el deudor, dentro del ejercicio en el cual cese en el pago de sus obligaciones o en el inmediatamente anterior, hubiere omitido, falseado o desvirtuado información de aquella que ha debido proporcionar de conformidad a la ley, acerca de su real situación legal, económica o financiera, y
-
-16.- En general, siempre que hubiere ejecutado dolosamente una operación cualquiera que disminuya su activo o aumente su pasivo.
-
-2.- De los cómplices de quiebra fraudulenta.
+2.- De los cómplices de quiebra fraudulenta. Derogado.
 
 #### Artículo 221°
 
-Se presume que son cómplices de quiebra fraudulenta:
+Derogado.
 
-1.- Los que, de acuerdo con el fallido, supusieren créditos o alteraren los verdaderos en cantidad o fecha;
-
-2.- Los que auxiliaren al fallido para ocultar o sustraer sus bienes, sea cual fuere su naturaleza, antes o después de la declaración de quiebra;
-
-3.- Los que, con conocimiento de la declaración de quiebra, ocultaren bienes, documentos o papeles de propiedad del fallido que tuvieren en su poder, o los entregaren a éste y no al síndico;
-
-4.- Los que, después de la declaración de quiebra, admitieren cesiones o endosos del fallido;
-
-5.- Los acreedores legítimos que celebraren convenios privados con el fallido en perjuicio de la masa;
-
-6.- Los que, con conocimiento de la cesación de pagos, obtuvieren el pago anticipado del todo o parte de su crédito, y
-
-7.- Los agentes, corredores o comisionistas que, después de declarada la quiebra, intervinieren en cualquier operación comercial del fallido, con perjuicio de la masa.
-
-En los demás casos se aplicarán las reglas generales que, sobre complicidad, establece el Código Penal.
-
-3.- Del procedimiento de calificación.
+3.- Del procedimiento de calificación. Derogado.
 
 #### Artículo 222°
 
-Declarada la quiebra, la junta de acreedores podrá efectuar denuncia y cualquier acreedor podrá efectuar denuncia o interponer querella criminal si estimare que se configura alguno de los hechos previstos en los artículos 219, 220 y 221.
-
-Si no se ejerciere acción penal, pero hubiere mérito para que se investiguen esos hechos, la Superintendencia de Quiebras los denunciará al Ministerio Público, poniendo en su conocimiento la declaración de quiebra y los demás antecedentes que obraren en su poder.
-
-Lo dispuesto en los incisos precedentes no obsta a la facultad del Ministerio Público para iniciar de oficio la investigación criminal.
+Derogado.
 
 #### Artículo 223°
 
@@ -9412,357 +8718,201 @@ Derogado.
 
 #### Artículo 227°
 
-Los honorarios de abogados en el proceso de calificación de la quiebra no podrán ser de cargo de la masa.
+Derogado.
 
 #### Artículo 228°
 
-La muerte del fallido durante la tramitación no obsta al procedimiento de calificación, a fin de establecer en definitiva el carácter de la quiebra y perseguir a los demás responsables.
+Derogado.
 
-> **Nota.** El Artículo 7° de la Ley 19806, publicada el 31.05.2002, deroga los incisos primero y segundo de la presente norma.
-
-4.- De las penas.
+4.- De las penas. Derogado.
 
 #### Artículo 229°
 
-La quiebra culpable será penada con presidio menor en cualquiera de sus grados.
-
-La quiebra fraudulenta será sancionada con presidio menor, en su grado medio a presidio mayor en su grado mínimo, salvo que cualquiera de los actos delictuosos que el fallido hubiere cometido tuviere asignada mayor pena, pues entonces se aplicará ésta.
+Derogado.
 
 #### Artículo 230°
 
-Sin perjuicio de la pena que corresponda con arreglo al Código Penal, la sentencia de término que condene a una persona como cómplice de una quiebra fraudulenta, dispondrá:
-
-1.- La pérdida de cualquier derecho que tenga en la masa;
-
-2.- El reintegro a la misma de los bienes, derechos y acciones sobre cuya sustracción hubiere recaído su complicidad, y
-
-3.- La indemnización de los perjuicios irrogados a la masa.
+Derogado.
 
 #### Artículo 231°
 
-El cónyuge y los ascendientes o descendientes consanguíneos o afines del fallido, que, con conocimiento de la quiebra, hubieren sustraído bienes perteneciente a ésta, no serán considerados cómplices de quiebra fraudulenta, pero serán castigados como procesados
-
-comunes de hurto sin tomarse en consideración su calidad de cónyuge o de pariente.
+Derogado.
 
 #### Artículo 232°
 
-Los gerentes, directores o administradores de una persona jurídica declarada en quiebra, cuyo giro quede comprendido en el artículo 41°, serán castigados, sin perjuicio de la responsabilidad civil que les pueda afectar, como procesados
-
-de quiebra culpable o fraudulenta, según el caso, cuando en la dirección de los negocios del fallido y con conocimiento de la situación de éstos, hubieren ejecutado alguno de los actos o incurrido en alguna de las omisiones a que se refieren los artículos 219° y 220°, o cuando hubieren autorizado expresamente dichos actos u omisiones.
-
-Serán castigados con reclusión o relegación menores en su grado mínimo a medio si se han repartido dividendos a los socios, a propuesta del directorio, a sabiendas que no correspondían a utilidades efectivas. La pena se elevará en un grado si esos repartos han ocasionado la quiebra.
+Derogado.
 
 #### Artículo 233°
 
-Los factores o representantes del fallido que sea persona natural serán castigados como autores de quiebra culpable o fraudulenta si, en representación de su principal o mandante y en conocimiento de la situación de éste, hubieren ejecutado sin órdenes o instrucciones suyas algunos de los actos o hubieren incurrido en algunas de las omisiones a que se refieren los artículos 219° y 220°.
-
-Las inhabilidades, medidas preventivas y penas que procedan, se aplicarán, en el caso de incapaces, a los representantes legales que hubieren intervenido en los actos o contratos que produjeron el mal estado de los negocios o en los que den fundamento para declarar la quiebra culpable o fraudulenta.
+Derogado.
 
 #### Artículo 234°
 
-Las disposiciones del presente Título no se aplicarán al deudor no comprendido en el artículo 41°, el que quedará sujeto a las prescripciones del Código Penal.
-
-Sin embargo, le serán aplicables en lo que corresponda, si su quiebra hubiere sido declarada por la causal del Nº 3 del artículo 43.
+Derogado.
 
 ## Título XIV
 
-De la rehabilitación del fallido
+De la rehabilitación del fallido Derogado.
 
 #### Artículo 235°
 
-La rehabilitación hace cesar todas las inhabilidades que las leyes imponen al fallido.
+Derogado.
 
 #### Artículo 236°
 
-La rehabilitación del fallido se produce por el solo ministerio de la ley, en todos aquellos casos en que el procedimiento de calificación de la quiebra concluya sin sentencia condenatoria por el delito de quiebra culpable o fraudulenta.
+Derogado.
 
 #### Artículo 237°
 
-El fallido rehabilitado en las condiciones del artículo anterior, gozará del beneficio de competencia que acuerda al deudor insolvente el número 6 del artículo 1.626° del Código Civil, mientras no se haya sobreseído definitivamente en el caso del artículo 165° de esta ley.
+Derogado.
 
 #### Artículo 238°
 
-El fallido culpable o fraudulento podrá ser rehabilitado, si justificare que ha cumplido las penas que se le hubieren impuesto o que ha sido indultado, y, en todo caso, que ha satisfecho íntegramente sus deudas.
+Derogado.
 
 #### Artículo 239°
 
-La demanda de rehabilitación del fallido culpable o fraudulento se interpondrá ante el tribunal que haya conocido de la quiebra, y se sustanciará con el Superintendente.
-
-Podrán también apersonarse en el juicio de rehabilitación los acreedores cuyos créditos no hubieren sido enteramente pagados.
-
-La demanda de rehabilitación se notificará en igual forma que la declaratoria de quiebra y se sustanciará con arreglo a los trámites del juicio sumario.
-
-La sentencia que concede la rehabilitación será publicada en los diarios que designe el fallido.
+Derogado.
 
 #### Artículo 240°
 
-Transcurrido un año desde la notificación de la declaratoria de quiebra, el fallido no comprendido en el artículo 41° podrá solicitar su rehabilitación ante el tribunal que haya conocido de la quiebra, siempre que se encuentre en alguno de estos casos:
-
-1.- Que no se hayan deducido acciones criminales en su contra dentro de dicho plazo;
-
-2.- Derogado.
-
-3.- Que, habiendo sido condenado el fallido en alguno de dichos juicios criminales, hubiere cumplido las penas y satisfecho íntegramente las deudas.
-
-A todos los deudores comprendidos en el artículo 1° del ARTÍCULO UNDÉCIMO de la ley que fija normas especiales para empresas de menor tamaño se les aplicará lo dispuesto en este artículo aunque se encuentren comprendidos en el artículo 41 y el plazo de la rehabilitación será de seis meses contado desde que se hubiere declarado la quiebra.
-
-La solicitud de rehabilitación se notificará en igual forma que la declaratoria de quiebra.
-
-Dentro del término de los quince días siguientes a la notificación, podrán deducirse oposiciones por el Superintendente o, en el caso del número 3, por los acreedores cuyos créditos no hubieren sido enteramente pagados. Las oposiciones se tramitarán en juicio sumario entre el fallido, el Superintendente y el opositor.
-
-La sentencia que conceda la rehabilitación será publicada en los diarios que designe el fallido.
+Derogado.
 
 ## Título XV
 
-De la cesión de bienes
+De la cesión de bienes Derogado.
 
-1.- De la cesión de bienes en general.
+1.- De la cesión de bienes en general. Derogado.
 
 #### Artículo 241°
 
-El deudor no comprendido en el artículo 41° podrá hacer cesión de bienes, de acuerdo con lo dispuesto en el artículo 1.614° del Código Civil, cuando no se encuentre en alguno de los casos enumerados en el artículo 43° de esta ley, en cuanto le sean aplicables.
+Derogado.
 
-Al hacer la cesión, dará cumplimiento a lo dispuesto en el artículo 42°.
-
-2.- De la cesión de bienes a un solo acreedor.
+2.- De la cesión de bienes a un solo acreedor. Derogado.
 
 #### Artículo 242°
 
-Si el deudor tuviere un solo acreedor, la solicitud en que haga la cesión será puesta en conocimiento de éste para que exprese, dentro del plazo de seis días, si la acepta o la rechaza.
-
-La oposición se tramitará conforme a las reglas del juicio del sumario.
+Derogado.
 
 #### Artículo 243°
 
-Si se hubiere iniciado acción ejecutiva en contra del deudor, éste sólo podrá hacer cesión de bienes a su acreedor dentro del plazo de seis días contado desde el requerimiento, y se observará en adelante lo dispuesto en el artículo anterior.
-
-La cesión no suspenderá los trámites del juicio ejecutivo, y se formará cuaderno separado con todo lo relativo a su sustanciación.
+Derogado.
 
 #### Artículo 244°
 
-Aceptada la cesión por anuencia del acreedor o por resolución del tribunal, podrá el acreedor dejar al deudor la administración de los bienes y hacer con él los arreglos que estime convenientes.
-
-A falta de este acuerdo, se procederá a la realización de los bienes cedidos en conformidad a las reglas del procedimiento de apremio del juicio ejecutivo.
-
-El acreedor desempeñará las funciones de depositario, y tendrá además la representación judicial y extrajudicial de los derechos del deudor en todos los asuntos que afecten a los bienes cedidos; pero no podrá celebrar transacciones ni compromisos voluntarios sin la anuencia del deudor.
-
-Los fondos que se obtengan de la realización de los bienes se aplicarán al pago del crédito, a medida que se perciban, sin más trámite.
-
-El acreedor rendirá la cuenta de su administración como en el caso del depositario de los bienes embargados en el juicio ejecutivo.
+Derogado.
 
 #### Artículo 245°
 
-Si el deudor tuviere la libre administración de sus bienes, podrá entregar desde luego al acreedor, en pago de su obligación, los que comprendan la cesión, apreciados de común acuerdo.
+Derogado.
 
-Si entre los bienes cedidos hubiere alguno de la clase que se menciona en el inciso segundo del artículo 1.801 del Código Civil, el acuerdo deberá reducirse a escritura pública.
-
-3.- De la cesión de bienes a varios acreedores.
+3.- De la cesión de bienes a varios acreedores. Derogado.
 
 #### Artículo 246°
 
-Si el deudor que no se encontrare comprendido en el artículo 41°, tuviere más de un acreedor, el tribunal, al dar curso a la solicitud en que se haga la cesión de bienes, dispondrá:
-
-1.- La designación, en calidad de depositario, en la forma prevista en el artículo 42, de un síndico de la nómina nacional, para que se reciba de los bienes y documentos del deudor, bajo inventario confeccionado ante el secretario del tribunal o el ministro de fe que el juez designare;
-
-2.- Que el síndico informe al tribunal sobre las causas del mal estado de los negocios de este último;
-
-3.- Que todos los acreedores residentes en el territorio de la República se presenten, dentro del plazo de treinta días, con los documentos justificativos de sus créditos bajo apercibimiento de proseguirse la tramitación sin volver a citar a ningún ausente;
-
-4.- Que se despachen las correspondientes cartas aéreas certificadas para hacer saber la cesión a los acreedores que se hallen fuera de la República, ordenándoles que en el término de emplazamiento, que se expresará en cada carta, comparezcan con los documentos justificativos de sus créditos, bajo el apercibimiento indicado en el número precedente, y
-
-5.- Que se notifique la cesión de bienes al síndico y a los acreedores en la forma dispuesta para la declaratoria de quiebra.
+Derogado.
 
 #### Artículo 247°
 
-El síndico, dentro del plazo de quince días contado desde la notificación de la cesión, informará al tribunal sobre las causas del mal estado de los negocios del deudor. La presentación del informe será notificada a los acreedores por aviso.
+Derogado.
 
 #### Artículo 248°
 
-Dentro de los plazos señalados en los números 3 y 4 del artículo 246°, aumentados en seis días, los acreedores podrán exigir al deudor que pruebe su inculpabilidad en el mal estado de sus negocios, o rechazar la cesión en alguno de los casos señalados en el artículo 1.617° del Código Civil.
+Derogado.
 
 #### Artículo 249°
 
-Vencido el plazo señalado en el artículo anterior sin que los acreedores hayan ejercitado su derecho, el tribunal declarará aceptada la cesión de bienes y esta resolución se notificará por aviso.
+Derogado.
 
 #### Artículo 250°
 
-La oposición de los acreedores a la cesión se sustanciará con audiencia del síndico y del deudor, con arreglo al procedimiento del juicio sumario.
+Derogado.
 
-4.- Disposiciones comunes a los dos párrafos precedentes.
+4.- Disposiciones comunes a los dos párrafos precedentes. Derogado.
 
 #### Artículo 251°
 
-La sentencia que rechace la cesión de bienes declarará, a la vez, la quiebra del deudor.
-
-En forma previa a la dictación de la sentencia se procederá a designar en conformidad al artículo 42, al síndico titular y al síndico suplente, no pudiendo recaer dichos nombramientos en quienes hubieren ejercido el cargo a que se refiere el artículo 246.
-
-El proceso seguirá sustanciándose en el estado en que se encuentre, por todos los trámites de la quiebra, sirviendo de suficiente llamamiento a los acreedores el practicado en conformidad a los números 3 y 4 del artículo 246°.
+Derogado.
 
 #### Artículo 252°
 
-La sentencia que rechace la cesión y declare la quiebra no será susceptible de recurso especial de reposición, pero podrá interponerse en su contra el recurso de apelación.
+Derogado.
 
 #### Artículo 253°
 
-Con respecto a los actos o contratos ejecutados o celebrados por el deudor que ha hecho cesión de bienes, se aplicará lo dispuesto en los artículos 2.467° y 2.468° del Código Civil.
+Derogado.
 
 #### Artículo 254°
 
-La obligación que el número 3 del artículo 1.619° del Código Civil impone al deudor prescribirá en el plazo de cinco años contado desde que se haya aceptado la cesión.
+Derogado.
 
 #### Artículo 255°
 
-Se aplicará a la cesión de bienes, en cuanto no se opongan a su naturaleza, las demás disposiciones de esta ley.
+Derogado.
 
-TITULO FINAL
+TITULO FINAL Derogado.
 
 #### Artículo 256°
 
-Derógase la ley 4.558, sobre Quiebras, cuyo texto refundido fue fijado por decreto supremo 1.297, del Ministerio de Justicia, de 23 de junio de 1931.
+Derogado.
 
 #### Artículo 257°
 
-Deróganse los artículos 91° y 188° del decreto ley 830, de 1974, que aprobó el Código Tributario y los decretos leyes 1.509, de 1976 y 2.379, de 1978.
+Derogado.
 
 #### Artículo 258°
 
-Suprímese, en el inciso primero del artículo 32° del decreto con fuerza de ley 263, de 1953, la frase "por las Sindicaturas de Quiebras".
+Derogado.
 
 #### Artículo 259°
 
-Sustitúyese el artículo 835° del Código de Comercio por el siguiente:
-
-#### Artículo 835°
-
-Son créditos privilegiados sobre la nave o su precio:
-
-1.- La prima de aviso, gratificación y costos de salvataje y salvamento, los gastos de pilotaje y practicaje;
-
-2.- Todas las deudas que durante el último viaje hubiere contraído el capitán en beneficio de la nave con el objeto de satisfacer cualquiera necesidad urgente e inevitable, inclusas las causadas por la toma de víveres a los pasajeros y las provenientes de la venta de una parte del cargamento hecho con el indicado objeto, y
-
-3.- Las indemnizaciones debidas por el valor de las mercaderías cargadas y no entregadas y por las averías sufridas por culpa del capitán o de la tripulación y de las que se deban al pasajero en razón de los objetos introducidos a la nave y puestos al cuidado del capitán.".
+Derogado.
 
 #### Artículo 260°
 
-Introdúcense las siguientes modificaciones a la ley 4.702 sobre Compraventa de Cosas Muebles a Plazo:
-
-1.- Reemplázase el inciso segundo del artículo 20° por el siguiente: "Desempeñará el cargo de depositario provisional y definitivo, el martillero que el juez designe en el mandamiento de ejecución y embargo. No obstante, cuando la especie dada en prenda sea un elemento esencial de trabajo del deudor, indispensable para su sustento y de su familia, o sea un bien destinado al servicio público, desempeñará el cargo de depositario provisional y definitivo el propio deudor, bajo las responsabilidades que implica dicho cargo. Estas circunstancias las calificará el juez de la causa. No obstante, cuando la especie dada en prenda sea un vehículo motorizado, la designación de depositario provisional y definitivo será expresamente renunciable".
-
-2.- Reemplázase el inciso primero del artículo 22° por el siguiente:
-
-"La venta de la cosa prendada se efectuará por medio del martillero designado por el juez, a costa del deudor. El remate no podrá efectuarse antes de los quince días siguientes a la notificación del mandamiento de ejecución".
-
-3.- Reemplázase el inciso tercero del artículo 29° por el siguiente:
-
-"Cuando se ampliare el embargo, después de la realización de la prenda, se aplicará lo dispuesto en el inciso anterior, pero el cargo de depositario será desempeñado por el martillero designado por el juez para la subasta".
-
-4.- Sustitúyese el artículo 32° por el siguiente:
-
-#### Artículo 32°
-
-En caso de quiebra del deudor el acreedor será pagado con el producto de la prenda, sin aguardar las resultas de aquélla, en la forma dispuesta en el artículo 149° de la Ley de Quiebras."
-
-5.- Sustitúyese el artículo 37° por el siguiente:
-
-#### Artículo 37°
-
-Sin perjuicio de la responsabilidad civil o penal que proceda en conformidad a las leyes, los depositarios serán castigados, en caso de negligencia grave, con multa de diez a veinte unidades tributarias.
-
-Si se concertaren con el deudor, acreedor o terceros, para proporcionarles alguna ventaja indebida, serán penados con presidio o relegación menores en cualquiera de sus grados e inhabilitación especial perpetua para el cargo de martillero.
-
-Las disposiciones de este artículo no obstarán a las reclamaciones y medidas de orden administrativo que pudieren producirse."
-
-6.- Derógase el artículo 28°.
+Derogado.
 
 #### Artículo 261°
 
-Sustitúyese el artículo 2.472° del Código Civil por el siguiente:
-
-#### Artículo 2
-
-472° La primera clase de crédito comprende los que nacen de las cusas que en seguida se enumeran:
-
-1.- Las costas judiciales que se causen en el interés general de los acreedores;
-
-2.- Las expensas funerales necesarias del deudor difunto;
-
-3.- Los gastos de enfermedad del deudor. Si la enfermedad hubiere durado más de seis meses, fijará el juez, según las circunstancias, la cantidad hasta la cual se extienda la preferencia;
-
-4.- Los gastos en que se incurra para poner a disposición de la masa los bienes del fallido, los gastos de administración de la quiebra, de realización del activo y los préstamos contratados por el síndico para los efectos mencionados;
-
-5.- Las remuneraciones de los trabajadores y las asignaciones familiares;
-
-6.- Las cotizaciones adeudadas a organismos de Seguridad Social o que se recauden por su intermedio, para ser destinadas a ese fin, como asimismo, los créditos del fisco en contra de las entidades administradoras de fondos de pensiones por los aportes que aquél hubiere efectuado de acuerdo con el inciso tercero del artículo 42° del decreto ley 3.500, de 1980;
-
-7.- Los artículos necesarios de subsistencia suministrados al deudor y su familia durante los últimos tres meses;
-
-8.- Las indemnizaciones legales y convencionales de origen laboral que correspondan a los trabajadores, que estén devengadas a la fecha en que se hagan valer y hasta un límite del equivalente a quince ingresos mínimos mensuales por trabajador. Por el exceso, si lo hubiere, se considerarán valistas;
-
-9.- Los créditos del fisco por los impuestos de retención y de recargo.".
+Derogado.
 
 #### Artículo 262°
 
-Las disposiciones legales que hagan referencia a la ley 4.558, que se deroga, se entenderán hechas a esta ley, en las materias a que dichas disposiciones se refieren.
+Derogado.
 
 #### Artículo 263°
 
-A contar de la fecha de término de la existencia legal de la Sindicatura Nacional de Quiebras se entenderán destinados a la Superintendencia todos los bienes muebles o inmuebles que estén actualmente en uso o destinados a la referida Sindicatura.
+Derogado.
 
-## Artículos transitorios
+Artículos Transitorios Derogado.
 
 #### Artículo 1°
 
-Las quiebras y cesiones de bienes en actual tramitación y aquellas cuyas solicitudes se presenten hasta dentro de los diez días corridos contados desde la fecha de la publicación a que se refiere el inciso siguiente, se regirán por las disposiciones de la ley 4.558 y del decreto ley 1.509, de 1976.
-
-El Ministerio de Justicia deberá publicar en el Diario Oficial la primera nómina nacional de síndicos dentro de los noventa días contados desde la vigencia de esta ley.
-
-Con todo, deberá publicarla aun antes de dicho plazo cuando se encontraren veinte síndicos inscritos en dicha nómina.
-
-> **Nota.** El artículo 2° de la Ley 18238, publicada el 01.09.1983, declaró, interpretando el inciso primero de la presente norma, que la vigencia extraordinaria que en dicho inciso se confiere a la Ley 4558, deberá entenderse en relación con lo dispuesto en el artículo 3° transitorio de aquella ley, de modo que las quiebras en las que se hubieren cumplido los trámites establecidos en el inciso segundo de ese artículo 3° transitorio, han debido y deberán sujetarse a las normas procesales de la Ley 18175.
+Derogado.
 
 #### Artículo 2°
 
-Sin perjuicio de lo establecido en el artículo precedente, en todas aquellas quiebras que carezcan de bienes o en que éstos no alcancen a cubrir los gastos necesarios para su prosecución, el respectivo tribunal, de oficio o a petición de parte, dentro del plazo de sesenta días corridos desde la vigencia de esta ley, deberá decretar el sobreseimiento temporal. La resolución se notificará mediante la publicación de un aviso en el periódico señalado para la publicación de la declaración de quiebra, si hubiere bienes; y en la forma prescrita en el artículo 50° del Código de Procedimiento Civil, si careciere de ellos.
-
-Las solicitudes de alzamiento del sobreseimiento temporal y la consecuente prosecución de la quiebra se tramitarán de acuerdo con las disposiciones de esta ley.
+Derogado.
 
 #### Artículo 3°
 
-Sin perjuicio de lo preceptuado en los dos artículos precedentes, todas las quiebras deberán sujetarse a las normas procesales que establece la presente ley, transcurrido el plazo de un año desde su vigencia.
-
-Para los efectos de lo señalado en el inciso anterior y dentro de los nueve meses siguientes a la vigencia de esta ley, la Sindicatura Nacional de Quiebras deberá:
-
-1.- Rendir cuenta de su administración, de conformidad con lo dispuesto en los artículos 25°, 26° y 27° de la ley 4.558, y
-
-2.- Proponer al tribunal de la quiebra tres nombres de las personas que figuren en la nómina nacional de síndicos para las designaciones a que haya lugar.
-
-> **Nota.** El inciso 2° del artículo 2° de la ley 18.238, declaró, interpretando el inciso segundo del artículo 3° transitorio de la presente ley, que el verdadero sentido del plazo de nueve meses que en dicho inciso se impone a la Sindicatura Nacional de Quiebras, es permitir que, desde la fecha de publicación de la referida ley, las quiebras puedan sujetarse a las normas procesales que ella establece, sin perjuicio de lo dispuesto en el inciso primero del mismo artículo.
+Derogado.
 
 #### Artículo 4°
 
-Declárase en extinción la Sindicatura Nacional de Quiebras, la que se entenderá subsistente para el solo efecto de lo preceptuado en los artículos 1°, 2° y 3° transitorios.
-
-Facúltase al Presidente de la República para que, dentro del plazo de un año, suprima los cargos que considere innecesarios en dicha Sindicatura.
-
-El personal en actual servicio que cese en sus funciones con motivo del ejercicio de la facultad a que se refiere el inciso precedente, y que no cumpla con los requisitos para acogerse a jubilación, gozará del beneficio establecido en la letra e) del artículo 29° del decreto ley 2.879, de 1979.
-
-Sin embargo, no tendrá derecho a los beneficios mencionados en el inciso anterior el personal que sea contratado en la Superintendencia de Quiebras, entendiéndose que dicha contratación será sin solución de continuidad.
+Derogado.
 
 #### Artículo 5°
 
-Los derechos y obligaciones de la Sindicatura Nacional de Quiebras, se traspasarán, por el ministerio de la ley, a la Superintendencia de Quiebras, transcurrido un año desde la vigencia de esta ley.
+Derogado.
 
 #### Artículo 6°
 
-Los cargos de la Sindicatura Nacional de Quiebras serán compatibles con los de la Superintendencia.
-
-Sin embargo, los funcionarios sólo percibirán la remuneración a que opten, de uno de los cargos servidos.
-
-La dotación máxima de la Superintendencia de Quiebras y de la Sindicatura Nacional de Quiebras, en tanto coexistan no podrá exceder en conjunto de 72 plazas.
+Derogado.
 
 #### Artículo 7°
 
-Los gastos que importe la aplicación de esta ley durante el año 1982 se dispondrán por decreto del Ministerio de Hacienda con cargo al presupuesto vigente de la Sindicatura Nacional de Quiebras.
+Derogado.
 
 #### Artículo Final
 
