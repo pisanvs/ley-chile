@@ -1,0 +1,33 @@
+FIJA ARANCEL DE LOS MEDIADORES DE LA SUPERINTENDENCIA DE EDUCACIÓN PARA EL AÑO 2014
+
+Núm. 1.025 exenta.- Santiago, 2 de octubre de 2014.- Visto: Lo dispuesto en los artículos Nºs 6 y 7, del decreto Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Constitución Política de la República de Chile; en el artículo 2º del decreto con fuerza de ley Nº 1/19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, de 2000; en la ley Nº 20.529, de 2011, del Ministerio de Educación, sobre el Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su Fiscalización; en el decreto Nº 208, de 2014, del Ministerio de Educación, que nombra al Superintendente de Educación en calidad de Transitorio y Provisorio; en el decreto con fuerza de ley Nº 5, de 2012, del Ministerio de Educación; en la Ley Nº 20.713, de 2013, del Ministerio de Hacienda, que fija el Presupuesto para el año 2014; en la resolución exenta Nº 933 de 2014, de la Superintendencia de Educación; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1.- Que, la Ley Nº 20.529, crea la Superintendencia de Educación, como un servicio público funcionalmente descentralizado y territorialmente desconcentrado, dotado de personalidad jurídica y patrimonio propio y que se relaciona con el Presidente de la República por intermedio del Ministerio de Educación.
+
+2.- Que, el objeto de la Superintendencia de Educación, en adelante la "Superintendencia", es fiscalizar, de conformidad a la ley, que los sostenedores de establecimientos educacionales reconocidos oficialmente por el Estado se ajusten a las leyes, reglamentos e instrucciones que dicte la Superintendencia, lo que conformará la normativa educacional. Asimismo, fiscalizará la legalidad del uso de los recursos por los sostenedores de los establecimientos subvencionados y que reciban aporte estatal y, respecto de los sostenedores de los establecimientos particulares pagados, fiscalizará la referida legalidad sólo en caso de denuncia. Además, atenderá las denuncias y reclamos de los miembros de la comunidad educativa, aplicando las sanciones que en cada caso corresponda.
+
+3.- Que, los artículos Nºs 57 y 58 de la ley Nº 20.529, establecen que la Superintendencia recibirá los reclamos que formulen los miembros de la comunidad educativa u otros directamente interesados, en materias de su competencia, entendiéndose por reclamo la petición formal realizada a la Superintendencia en orden a que ésta intervenga como mediador en la controversia existente entre el reclamante y alguna de las entidades fiscalizadas.
+
+4.- Que, el artículo 62 del mismo cuerpo legal, establece que corresponderá a la Superintendencia fijar, mediante normas de general aplicación, los requisitos que deberán cumplir los mediadores, así como las normas generales de procedimiento a las que deberán sujetarse para la mediación de estos reclamos.
+
+5.- Que, por resolución exenta Nº 933, de fecha 15 de septiembre del 2014, de la Superintendencia de Educación, se instruyeron las normas generales para la mediación de reclamos y para el funcionamiento del registro de mediadores, estableciéndose en su artículo 15 que el Superintendente dictará anualmente una resolución que establecerá los montos de los aranceles de los mediadores del país y el procedimiento y disposiciones que aseguren que aquellos reclamantes que carecen de recursos para financiar un procedimiento de esta naturaleza, puedan acogerse a las normas especiales que sobre el particular se dicten.
+
+6.- Que, la Ley Nº 20.713, de 2013, que fija el Presupuesto del Sector Público para el año 2014, estableció en su Partida 09, Capítulo 02, Programa 01, Subtítulo 21, Glosa 02, letra d) presupuesto destinado a financiar los honorarios de los mediadores que intervengan en audiencias de mediación, a que se refiere el artículo 62 de la ley Nº 20.529.
+
+Resuelvo:
+
+1. Fíjese, el arancel máximo que pueden percibir los mediadores inscritos en el Registro de Mediadores que establece la resolución exenta Nº 933, de fecha 15 de septiembre de 2014, de la Superintendencia de Educación, en la suma única y no reajustable de $70.000.- (setenta mil pesos), por cada hora de sesión realizada durante un proceso de mediación.
+
+2. Establézcase, que en aquellos casos en que la sesión de mediación sea inferior a una hora, el valor de la fracción de tiempo será calculado proporcionalmente. Las sesiones que se realicen durante el proceso de mediación no podrán tener una duración mayor a una hora cronológica y cada proceso de mediación no podrá considerar más de 4 sesiones.
+
+3. Dispóngase, que las mediaciones que se realicen por la Superintendencia de Educación, desde la fecha de publicación en el Diario Oficial de la referida resolución exenta Nº 933, de 2014, de la Superintendencia, y hasta el 31 de diciembre del 2014, serán gratuitas para todos los intervinientes, y su costo los asumirá la Superintendencia conforme al arancel fijado en el resuelvo primero del presente documento.
+
+4. Establézcase, que para proceder al pago del o los mediadores, estos deberán presentar un informe por cada sesión de mediación realizada, con un máximo de 4 sesiones, por cada proceso de mediación; informe el cual debe incluir el Acta Final del proceso. Dichos informes deberán ser presentados y validados por el Encargado Regional de Denuncias de la respectiva Dirección Regional de la Superintendencia de Educación, quien deberá aprobar el o los informes que presenten los mediadores.
+
+Una vez que los informes cuenten con el visto bueno del funcionario referido, éste solicitará a el o los mediadores que emitan la boleta de honorarios respectiva.
+
+5. Impútese, el gasto que irrogue el cumplimiento de la presente resolución, al Programa 01, Subtítulo 21, Glosa 02, letra d) presupuesto destinado a financiar los honorarios de los mediadores que intervengan en audiencias de mediación, a que se refiere el artículo 62 de la ley Nº 20.529, del presupuesto vigente de la Superintendencia de Educación para el año 2014.
+
+Anótese, comuníquese y publíquese.- Alexis Ramírez Orellana, Superintendente de Educación (PT).
