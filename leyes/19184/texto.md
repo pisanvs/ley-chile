@@ -212,7 +212,127 @@ Regiones) 8 8
 
 20
 
-.
+PLANTA DE PROFESIONALES
+
+Profesional 6 1
+
+Profesionales 7 3
+
+Profesionales 8 17
+
+Profesionales 9 10
+
+Profesionales 10 10
+
+Profesionales 11 12
+
+Profesionales 12 15
+
+Profesionales 13 22
+
+Profesionales 14 92
+
+Profesionales 15 235
+
+Profesionales 16 142
+
+Profesionales 17 80
+
+Profesionales 18 4
+
+-----
+
+653
+
+PLANTA DE TECNICOS
+
+Técnico 10 1
+
+Técnicos 11 2
+
+Técnicos 12 5
+
+Técnicos 13 2
+
+Técnico 14 1
+
+Técnico 15 1
+
+Técnico 16 1
+
+Técnicos 19 50
+
+Técnicos 20 121
+
+Técnicos 21 168
+
+Técnicos 22 193
+
+Técnicos 23 157
+
+Técnicos 24 56
+
+Técnicos 25 4
+
+-----
+
+762
+
+PLANTA DE ADMINISTRATIVOS
+
+Administrativos 12 3
+
+Administrativos 13 10
+
+Administrativos 14 17
+
+Administrativos 15 17
+
+Administrativos 16 12
+
+Administrativos 17 11
+
+Administrativos 18 9
+
+Administrativos 19 6
+
+Administrativos 20 3
+
+Administrativos 21 3
+
+Administrativos 22 3
+
+----
+
+94
+
+PLANTA DE AUXILIARES
+
+Auxiliares 19 15
+
+Auxiliares 20 45
+
+Auxiliares 21 55
+
+Auxiliares 22 87
+
+Auxiliares 23 110
+
+Auxiliares 24 85
+
+Auxiliares 25 83
+
+Auxiliares 26 23
+
+Auxiliares 27 20
+
+Auxiliares 28 20
+
+-----
+
+543
+
+TOTAL CARGOS PLANTA 2.062
 
 En la Planta de Profesionales, los cargos que se indican serán desempeñados por profesionales que cumplan las funciones que se señalan:
 
@@ -226,13 +346,11 @@ Diez cargos grado 15°; cuarenta y un cargos grado 16°; ochenta cargos grado 17
 
 En la Planta de Técnicos, un cargo grado 10° será desempeñado por un técnico que cumpla funciones de Programación.
 
+> **Nota.** El artículo 1º del DFL 6, Educación, publicado el 05.11.2003, crea, a contar desde esta fecha, en la planta de personal de la Junta Nacional de Jardines Infantiles, Servicio dependiente del Ministerio de Educación, los siguientes cargos, todos ellos del Estamento Profesional: Escalafón GradoNº de cargos Estamento EUS 1 Profesional Profesional de Gestión 5 1 Profesional Profesional de Gestión 6 1 Profesional Profesional de Gestión 8 3 Profesional Profesional de Gestión 9.
+
 > **Nota.** NOTA 1: El artículo primero, Nº 3, del DFL 8, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional (XIV Región), grado 8, en la Planta de personal de Directivos de la Junta Nacional de Jardines Infantiles.
 
 > **Nota.** NOTA 2: El artículo primero, Nº 3, del DFL 12, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional (XV Región), grado 8, en la Planta de personal de Directivos de la Junta Nacional de Jardines Infantiles.
-
-> **Nota.** NOTA 3 La letras a), b), c) del artículo 42 de la Ley 20883, Hacienda, publicada el 02.12.2015, modifica la presente norma en el sentido de transformar los grados del Director Regional Metropolitano Grado 6 en Director Regional Metropolitano Grado 5º, Directores Regionales IV, V, VII y VIII Regiones Grado 7º en Grado 6º, Directores Regionales I, II, III, VI, IX, X, XI, XII, XIV y XV Grado 8º en Grado 7º, cada vez que queden vacantes por cualquier causal.
-
-> **Nota.** NOTA 4 El artículo primero, Nº 4, del DFL 18, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional de Ñuble, grado 7°, en la Planta de personal de Directivos de la Junta Nacional de Jardines Infantiles.
 
 #### Artículo 3°
 
