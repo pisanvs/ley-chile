@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.594, de 6 de octubre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.338 de 2010, sólo en cuanto autorizó a PESQUERA OMEGA LTDA., para realizar actividades pesqueras extractivas con la nave "Elena S", respecto del recurso hidrobiológico Jibia, en el área marítima comprendida entre la XV a XII Regiones, Isla de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 6 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
