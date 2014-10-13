@@ -176,7 +176,17 @@ Con relación a la aprobación de los proyectos y nómina de familias selecciona
 
 14. Los Proyectos de Integración Social considerarán Asesoría Social, de acuerdo a lo establecido en el artículo 62 del DS Nº 1 (V. y U.), de 2011, para todas las familias beneficiadas que apliquen su subsidio habitacional en este tipo de proyectos.
 
-15. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 681 de 2013, de este Ministerio y que fueron aprobados técnicamente por la Comisión Evaluadora, pero que no cumplieron con los porcentajes mínimos de postulantes exigidos, tendrán plazo hasta el 16 de mayo de 2014 para presentarlos, de una sola vez. Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 7.081, de 2013, de este Ministerio, para los cuales se formularon observaciones, tendrán plazo hasta el 16 de mayo de 2014 para subsanarlas en un mismo acto. Los postulantes presentados, en el caso del DS Nº 1 (V. y U.), de 2011, deberán ser beneficiarios de subsidio habitacional y en el caso de postulantes del DS Nº 49 (V. y U.), de 2011, contar con CGOH al 31 de marzo de 2014.
+Conforme a los gastos que rindan, los beneficiarios del DS Nº 49 (V. y U.), de 2011 y los del Título I tramo 1 del DS Nº 1 (V. y U.), de 2011, obtendrán un subsidio adicional de hasta 10 Unidades de Fomento para el pago de los aranceles que correspondan para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, inscripción en el Conservador de Bienes Raíces y asesoría inmobiliaria y/o legal. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, junto a los demás antecedentes exigidos para el pago del subsidio.
+
+Esto es válido para todas las familias beneficiadas que apliquen su subsidio habitacional en los Proyectos de Integración Social de los llamados dispuestos por las resoluciones exentas Nº 8.916, de 2012, Nº 681, de 2013, y Nº 7.081, de 2013, todas de este Ministerio.
+
+Los dos incisos precedentes se aplicarán siempre que resulten más favorables para los beneficiarios respectivos, pero solo en relación a aquellas actuaciones aún no realizadas y/o a los efectos aún no producidos.
+
+15. Los postulantes presentados, en el caso del DS Nº 1 (V. y U.), de 2011, deberán ser beneficiarios de subsidio habitacional y en el caso de las familias del DS Nº 49 (V. y U.), de 2011, deben contar con Certificado de Grupo Organizado Hábil (CGOH) al último día del mes anterior a la postulación, entendiéndose que la postulación se efectúa al momento de presentar a las familias al SERVIU.
+
+Las entidades patrocinantes que presentaron proyectos en los llamados dispuestos por las resoluciones exentas Nº 8.916, de 2012, y Nº 681, de 2013, ambas de este Ministerio y que fueron aprobados técnicamente por la Comisión Evaluadora. pero que no cumplieron con los porcentajes mínimos de postulantes exigidos en los respectivos llamados, tendrán un plazo de 6 meses, contados desde la fecha de la resolución que sancione la selección de los proyectos, para presentar en una sola oportunidad, las nóminas de familias integrantes de los proyectos, de acuerdo a dichos porcentajes. El mismo plazo será válido para presentar el Permiso de Edificación.
+
+Las entidades patrocinantes que presentaron proyectos en el llamado dispuesto por la resolución exenta Nº 7.081, de 2013, de este Ministerio, para los cuales se formularon observaciones, tendrán plazo hasta el 16 de mayo de 2014 para subsanarlas en un mismo acto.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Francisco Irarrázaval Mena, Ministro de Vivienda y Urbanismo (S).
 
