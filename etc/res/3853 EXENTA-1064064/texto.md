@@ -100,11 +100,13 @@ a) Para primera selección, hasta el 14 de agosto de 2014.
 
 b) Para segunda selección, hasta el 30 de octubre de 2014.
 
+c) Para tercera selección, hasta el 12 de diciembre de 2014.
+
 2. Los recursos involucrados para este llamado ser la primera selección de los proyectos postulantes al concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
 .
 
-Para la segunda selección el monto de recursos se determinará atendiendo al saldo de recursos del programa disponible de cada región tras la primera selección de este llamado, en la resolución del Ministro de Vivienda y Urbanismo que apruebe dicha selección.
+Para la segunda selección el monto de recursos se determinará atendiendo al saldo de recursos del programa disponible de cada región tras la primera selección de este llamado, en la resolución del Ministro de Vivienda y Urbanismo que apruebe dicha selección. Igualmente, para la tercera selección el monto de recursos equivaldrá al saldo que resulte disponible después de la segunda selección
 
 3. El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
