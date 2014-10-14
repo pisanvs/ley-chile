@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.631, de 7 de octubre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.504, de 2004, que autorizó a BRACPESCA S.A. para ampliar actividades pesqueras extractivas con la nave en construcción "BEC Nº 3013-03", respecto de los recursos hidrobiológicos Congrio dorado en el área marítima comprendida entre la V a VIII Regiones, con arrastre, y Jibia en el área marítima comprendida entre la XV a IIl regiones, con espinel, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Declárase asimismo la caducidad total de la resolución exenta Nº 650, de 2005, de esta Subsecretaría, que autorizó a Bracpesca S.A., para realizar actividades pesqueras extractivas con la nave en construcción antes individualizada respecto del recurso Jibia, en el área marítima correspondiente XV a XII regiones, con poteras.
+
+Valparaíso, 7 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S)
