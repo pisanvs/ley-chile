@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.633, de 7 de octubre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.507, de 2004, sólo en cuanto autorizó a BRACPESCA S.A., para ampliar actividades pesqueras extractivas con la nave en construcción "BEC Nº 3012-03", respecto del recurso hidrobiológico Jibia en el área marítima comprendida entre la XV a III Regiones, con espinel, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Declárase asimismo la caducidad total de la resolución exenta Nº 341, de 2005, que autorizó a Bracpesca S.A., para realizar actividades pesqueras extractivas con la nave en construcción antes individualizada respecto del recurso Jibia, en las áreas marítimas comprendidas entre la IV y la XII Regiones, con espinel, y XV a XII Regiones, con poteras, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto.
+
+Valparaíso, 7 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
