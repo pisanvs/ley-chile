@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por decreto exento Nº 6.825 de fecha 28 de agosto de 2014, de la Ilustre Municipalidad de Valdivia y conforme lo prescriben los artículo 33 y 65 letra f) de la Ley Orgánica Constitucional de Municipalidades; artículo 6 y ss. del DL 2.186/1978 y artículo 59 de la Ley General de Urbanismo y Construcciones, se decretó la expropiación del Lote nº 8, ubicado en calle Carlos Hilcker Nº 107, comuna de Valdivia, de 380 M2 de superficie de terreno, Rol de avalúo Nº 103-23, de propiedad de don Cristian Mauricio Cárdenas Muñoz para destinarlo al Proyecto de Mejoramiento Avenida Errázuriz - Valdivia. La comisión de peritos integrada por los señores María Soledad Núñez Arroyo, ingeniero agrónomo; Yaschala Maribel Yáñez Riffo, ingeniero constructor y Patricio Fernando Casagrande Ulloa, ingeniero civil industrial según informe de fecha 18 de agosto de 2014 que determinó el monto de indemnización provisional en $79.431.000, pagadera al contado.
+
+Omar Sabat Guzmán - Alcalde. Nino Bernucci Díaz - Secretario Municipal.
