@@ -44,17 +44,19 @@ R e s u e l v o:
 
 1.- Déjase sin efecto la Resolución D.G.A. Nº 17, de fecha 15 de enero de 1997, que declaró área de restricción para nuevas explotaciones de aguas subterráneas en el acuífero del Valle del Río Petorca, provincia de Petorca, V Región.
 
-2.- Declárase área de restricción para nuevas explotaciones de aguas subterráneas en el acuífero del Valle del Río Petorca, provincia de Petorca, Quinta Región.
+2.- Decláranse como áreas de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común de Río Pedernal, Estero Las Palmas, Río del Sobrante, Petorca Poniente y Petorca Oriente, de la cuenca del río Petorca, en la provincia de Petorca, Región de Valparaíso.
 
-La zona de restricción declarada corresponde a la superficie de la Cuenca Hidrográfica del Valle del Río Petorca, desde sus nacientes hasta la desembocadura en el mar.
+Los sectores hidrogeológicos de aprovechamiento común que se declaran área de restricción se encuentran representados geográficamente en el Mapa 1, del Informe Técnico DARH Nº 95, de 21 de marzo de 2014, del Departamento de Administración de Recursos Hídricos, de la Dirección General de Aguas, los que se entienden formar parte integrante de la presente resolución.
+
+Establécese que la Dirección General de Aguas, considerando la demanda comprometida en los sectores acuíferos: Río Pedernal, Estero Las Palmas, Río del Sobrante, Petorca Poniente, Petorca Oriente, estima que no es posible otorgar más derechos de aprovechamiento de aguas subterráneas, en carácter de provisionales de los ya otorgados.
 
 3.- Establécese que el área de restricción que se declara en virtud de la presente Resolución sólo regirá para aquellas solicitudes que se presenten a contar de la fecha de su publicación en el Diario Oficial, sin perjuicio de lo estipulado en los artículos 22 y 141 inciso final del Código de Aguas.
 
 4.- La Dirección General de Aguas, de oficio o a petición de cualquier usuario, podrá alzar en cualquier momento la presente declaración de área de restricción, en aquellos casos en que nuevos estudios demuestren que no existen los riesgos que motivaron su declaración.
 
-5.- En virtud de la presente declaración de área de restricción se dará origen a la formación de una comunidad de aguas subterráneas formada por todos los usuarios de aguas subterráneas comprendidas en ella.
+5.- En virtud de las declaraciones de áreas de restricción se dará origen a la formación de comunidades de aguas subterráneas para los sectores hidrogeológicos de aprovechamiento común denominados Río Pedernal, Estero Las Palmas, Río del Sobrante, Petorca Poniente y Petorca Oriente compuestas por todos los usuarios de aguas subterráneas comprendidos en dichos sectores.
 
-La organización de dicha comunidad de aguas deberá promoverse en la forma prevista en los artículos 187 o188 y siguientes del Código de Aguas, según corresponda, dentro del plazo de 90 días contados desde la fecha de publicación en el Diario Oficial de la presente Resolución. La Dirección General de Aguas velará por el cumplimiento de lo anterior, adoptando para ello las iniciativas que fueren procedentes.
+La organización de dichas comunidades de aguas deberá promoverse en la forma prevista por los artículos 187 o 188 y siguientes del Código de Aguas. La Dirección General de Aguas velará por el cumplimiento de lo anterior, adoptando para ello las iniciativas que sean procedentes.
 
 6.- Estáblecese que en el área de restricción que se declara, la Dirección General de Aguas exigirá a las comunidades de aguas o a los usuarios individuales la instalación de un sistema de medición periódica de la situación de las aguas subterráneas y de los caudales explotados, pudiendo requerir en cualquier momento la información que se obtenga.
 
