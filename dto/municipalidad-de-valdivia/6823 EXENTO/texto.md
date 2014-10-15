@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por decreto exento Nº 6.823 de fecha 28 de agosto de 2014, de la Ilustre Municipalidad de Valdivia y conforme lo prescriben los artículo 33 y 65 letra f) de la Ley Orgánica Constitucional de Municipalidades; artículo 6 y ss. del DL 2.186/1978 y artículo 59 de la Ley General de Urbanismo y Construcciones, se decretó la expropiación del Lote nº 6, ubicado en General Schneider Nº 229, comuna de Valdivia, de 891 M2 de superficie de terreno a expropiar, Rol de avalúo Nº 103-45, que forma parte de un terreno de mayor extensión de propiedad de Fundación de Beneficencia Hogar de Cristo para destinarlo al Proyecto de Mejoramiento Avenida Errázuriz - Valdivia. La comisión de peritos integrada por los señores María Soledad Núñez Arroyo, ingeniero agrónomo; Yaschala Maribel Yañez Riffo, ingeniero constructor y Patricio Fernando Casagrande Ulloa, ingeniero civil industrial, según informe de fecha 18 de agosto de 2014 determinó el monto de Indemnización provisional en $240.132.000, pagadera al contado.
+
+Omar Sabat Guzmán Alcalde. Nino Bernucci Díaz- Secretario Municipal.
