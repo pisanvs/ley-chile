@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE LOTES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.849, de fecha 3 de octubre de 2014 de Serviu Metropolitano, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 52, correspondiente al inmueble ubicado en PJ Río Petorca 18 DP 16 V Rep Venezuela y las otras direcciones de los departamentos que conforman la copropiedad de Villa Venezuela, Rol de Avalúo Nº 3101-1 al 30, 3102-1 al 30, 3301-1 al 30, 3302-1 al 30, 3401-1 al 30, 3402-1 al 30, 3403-1 al 30, 3501-1 al 30, 3502-1 al 30, de la Comuna de San Joaquín, Región Metropolitana, de aparente dominio de Parra Aros Nolberto y los otros propietarios de los departamentos que conforman la copropiedad de Villa Venezuela, con una superficie aproximada de 26,15 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Corredor de Transporte Público Vicuña Mackenna Norte". La Comisión de Peritos integrada por los señores Paola Van de Wyngard Soto, arquitecto; Pablo Mansilla Aravena, ingeniero agrónomo y Nicolás Romero Morales, ingeniero de ejecución, mediante Informe de fecha 20 de marzo de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $8.090.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director (P. y T.) Serviu Metropolitano.
