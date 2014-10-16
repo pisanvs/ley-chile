@@ -34,7 +34,7 @@ Resuelvo:
 
 4) Evaluación de las propuestas.
 
-5) Dictación del acto administrativo que adjudique cada uno de los concursos por un monto total de hasta 500 Unidades Tributarias Mensuales (UTM) por adjudicatario de concurso.
+5) Dictación del acto administrativo que adjudique cada uno de los concursos por un monto total de hasta 5.000 Unidades Tributarias Mensuales (UTM) por adjudicatario de concurso.
 
 2º La presente resolución empezará a regir una vez que se encuentre totalmente tramitada.
 
