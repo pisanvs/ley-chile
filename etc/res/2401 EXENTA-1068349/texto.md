@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.401, de 12 de septiembre de 2014, de esta Subsecretaría, amplíese por doce meses, a contar del 10 de agosto de 2014, el plazo otorgado en el numeral 7º de la resolución exenta Nº 937, de 2006, a Pesquera El Golfo S.A., hoy BLUMAR S.A., para continuar desarrollando las actividades pesqueras extractivas con la nave en construcción "BEC937-2006", con excepción de aquellas especies cuya caducidad haya sido declarada mediante resolución, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 12 de septiembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
