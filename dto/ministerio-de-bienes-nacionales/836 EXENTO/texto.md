@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "ENEL GREEN POWER CHILE LIMITADA"
+
+Mediante decreto exento Nº 836 de 30 de septiembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Enel Green Power Chile Limitada", RUT Nº 96.920.110-0, el inmueble fiscal formado por los Lotes A, B y C, ubicados en el Sector Sub-Estación Andes, comuna y provincia de Antofagasta, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con los Nos 6800-20, 6800-21 y 6800-22; amparado por la inscripción global que rola a fojas 3497 vta. Nº 3775 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; de una superficie total de 35.762 ha., singularizado en el Plano Nº 02101-8.422-CR. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 2.618.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza Extracto.-
+
+Nivia Palma Manríquez, Abogada, Jefa División Jurídica.
