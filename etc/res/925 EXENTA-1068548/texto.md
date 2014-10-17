@@ -1,0 +1,19 @@
+CONCEDE INCREMENTO SOBRE EL SUELDO BASE MENSUAL DE MÉDICOS BECARIOS DE LAS ESPECIALIDADES DE MEDICINA DE URGENCIA, MEDICINA INTENSIVA, ANESTESIOLOGíA Y MEDICINA FAMILIAR
+
+Núm. 925 exenta.- Santiago, 8 de octubre de 2014.- Vistos: Lo dispuesto en el artículo 43 del DFL Nº 1, de 2011, que fija texto refundido, coordinado y sistematizado de la ley Nº15.076; el artículo 11 de la ley Nº 19.664 que establece normas especiales para Profesionales funcionarios que indica de los Servicios de Salud y modifica la ley Nº 15.076; la resolución Nº 1.600/08 de la Contraloría General de la República; el decreto supremo Nº136, de 2004, que aprueba el Reglamento Orgánico del Ministerio de Salud; el decreto supremo Nº32, de 2014, que designa Subsecretaria de Redes Asistenciales a D. Angélica Paz Verdugo Sobral; y resolución Ex. Nº 647 de 31 de mayo de 2012, todas del Ministerio de Salud; y en virtud de las facultades conferidas en el artículo 8 del DFL Nº1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº2.763, de 1979, y de las leyes Nos 18.933 y 18.469;
+
+Considerando:
+
+1. Que según lo dispuesto en el artículo 43 del DFL Nº 1, de 2011, que fija texto refundido, coordinado y sistematizado de la ley Nº15.076, que en su inciso segundo señala que el monto de las becas destinadas al perfeccionamiento de una especialidad médica, dental, químico-farmacéutica o bioquímica, será una "cantidad equivalente al sueldo base mensual por 44 horas semanales de trabajo, el que podrá ser incrementado por el Ministerio de Salud hasta en un 100% para programas de interés nacional, fundado en razones epidemiológicas o de desarrollo de modelos de atención de salud, más los derechos o aranceles que impliquen el costo de la formación".
+
+2. Que la aplicación de la norma señalada resulta armonioso con el Plan Nacional de Formación de Médicos Especialistas, el cual constituye uno de los compromisos programáticos de esta Secretaría de Estado, buscando incentivar la especialización médica mediante el fomento de programas de formación y el incremento de la contratación de especialistas a nivel país, apuntando a reducir las brechas en el Sistema Público de Salud, adoptando medidas a corto plazo que incorporen un incentivo en ciertas especialidades que resultan falentes en las regiones del país y de preponderancia a nivel de atención primaria de salud, las cuales debe tenderse a potenciar y otorgar condiciones que faciliten su desarrollo.
+
+3. Que, ante tales premisas, resulta del todo coherente y de conveniencia para los fines perseguidos, incorporar un incremento específico sobre el monto mensual de las becas destinadas al perfeccionamiento de especialidades de profesionales regulados por la norma precitada, razón por la que dicto la siguiente,
+
+Resolución:
+
+1. Concédese un incremento del 50% sobre el sueldo base mensual equivalente, por 44 horas semanales de trabajo, a los profesionales médicos regulados por la ley 15.076, que acceden a becas destinadas al perfeccionamiento de una especialidad médica en Medicina de Urgencia, Medicina Intensiva, Anestesiología y Medicina Familiar, y que ingresan a programas de formación durante el período comprendido entre el año 2015-2020, y mientras dure el proceso formativo, y sin perjuicio de los reajustes legales correspondientes, incrementos y bonificaciones previsionales del artículo 42 de la ley Nº 19.664 y al pago de los derechos o aranceles que impliquen el costo de la formación.
+
+Anótese, comuníquese y publíquese.- Angélica Verdugo Sobral, Subsecretaría de Redes Asistenciales.
+
+Transcribo para su conocimiento resolución Ex. Nº925 de 08-10-2014.- Saluda atentamente a Ud., Jaime Burrows Oyarzún, Subsecretario de Salud Pública.
