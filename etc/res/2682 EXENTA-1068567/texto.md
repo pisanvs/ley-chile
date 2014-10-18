@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.682, de 10 de octubre de 2014, de esta Subsecretaría, declárase la caducidad de las resoluciones exentas Nº 2.753 de 2007, Nº 387, Nº 2.227 y Nº 2.399, todas de 2012, que autorizaron a SOCIEDAD PESQUERA LANDES S.A., para realizar actividades pesqueras extractivas con la nave "Huachinango", en las áreas marítimas, sobre los recursos hidrobiológicos y con los artes de pesca señalados en las citadas resoluciones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Valparaíso, 10 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
