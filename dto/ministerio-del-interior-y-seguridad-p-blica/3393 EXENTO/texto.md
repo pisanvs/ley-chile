@@ -6,7 +6,7 @@ Núm. 3.393 exento.- Vistos: Lo dispuesto en la ley Nº 10.262, de 1952; la ley 
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Fundación Niño y Patria", para realizar una colecta pública en todo el territorio nacional, el día viernes 28 de noviembre de 2014.
+1.- Autorízase a la entidad denominada "Fundación Niño y Patria", para realizar una colecta pública en todo el territorio nacional, el día viernes 12 de diciembre de 2014.
 
 2.- Las utilidades producto de esta colecta, serán invertidas en mejorar la calidad de vida de los niños y niñas asistidos, consistente en optimizar los espacios físicos para entretención y recreación, adquisición de implementos de bienes de uso y consumo, asimismo, potenciar programas financiados con recursos propios de la Institución.
 
