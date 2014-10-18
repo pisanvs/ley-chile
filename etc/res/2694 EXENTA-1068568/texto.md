@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.694, de 10 de octubre de 2014, de esta Subsecretaría, modifica resolución Nº 2.275 de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 21C, fijando el número máximo de ejemplares a ingresar por estructura de cultivo para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
