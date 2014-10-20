@@ -1,0 +1,3 @@
+DISPONE METODOLOGÍA DE CÁLCULO PARA DETERMINAR ORDEN DE PRECEDENCIA DE POSTULANTES A PRÁCTICO DE PUERTO Y OFICIALES DE LA MMN QUE POSTULAN A PRÁCTICO DE CANALES
+
+Resolución DGTM y MM Ord. Nº 12100/75 Vrs., del 15 de septiembre de 2014, que dispone metodología de cálculo para determinar orden de precedencia de postulantes a Práctico de Puerto y Oficiales de la MMN que postulan a Práctico de Canales.
