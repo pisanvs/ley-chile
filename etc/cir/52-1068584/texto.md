@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LA MODIFICACIÓN EFECTUADA POR LA LEY Nº 20.780, DE 2014, A LA TASA DEL IMPUESTO DE PRIMERA CATEGORÍA Y LOS PAGOS PROVISIONALES MENSUALES
+
+Extracto de circular del Servicio de Impuestos Internos Nº 52, de fecha 10 de octubre de 2014, la cual tiene por objeto instruir sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría, a raíz de las modificaciones efectuadas a la Ley sobre Impuesto a la Renta por la ley Nº 20.780, de 2014.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de octubre de 2014.
