@@ -470,13 +470,13 @@ b) Otros productos de Tabaco:
 
 - Comercial Pinares: Purito Café Crème Arome sin filtro.
 
-- Comercial Pinares: Punto Café Crème Blue.
+- Comercial Pinares: Purito Café Crème Blue.
 
 - Comercial Pinares: Purito Café Crème French Vanilla.
 
 - Comercial Pinares: Purito Café Crème Italian Machiato.
 
-- Comercial Pinares: Punto Café Crème.
+- Comercial Pinares: Purito Café Crème
 
 - Euromaxx Ltda. Cigarrillos Jaisalmer Blue Caja x 20 Cigarrillos
 
