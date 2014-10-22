@@ -182,8 +182,6 @@ Total 46
 
 > **Nota.** NOTA 1: El artículo primero, Nº 3, del DFL 34, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional (XIV) Región), grado 5, en la planta de personal de Directivos, Directivos afectos al Sistema de Alta Dirección Pública, del Servicio Médico Legal.
 
-> **Nota.** NOTA 2 El numeral 3 del artículo primero del Decreto con Fuerza de Ley 9, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5°, afecto al Sistema de Alta Dirección Pública, segundo nivel jerárquico, en la planta de personal de Directivos del Servicio Médico Legal.
-
 #### Artículo 2º
 
 Establécense los requisitos que en cada caso se señalan, para el ingreso y promoción en las plantas que a continuación se indican:
