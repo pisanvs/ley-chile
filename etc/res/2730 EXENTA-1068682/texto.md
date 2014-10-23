@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.730, de 15 de octubre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.360 de 2013, sólo en cuanto autorizó a SOCIEDAD PESQUERA LANDES S.A., para realizar actividades pesqueras extractivas con la nave "Walrus", respecto del recurso hidrobiológico Jibia, en el área marítima de la V Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Valparaíso, 15 de octubre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
