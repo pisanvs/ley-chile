@@ -1892,6 +1892,8 @@ b) Las pisciculturas que mantengan reproductores que hayan sido obtenidos de un 
 
 c) Las pisciculturas que no se encuentren en ninguna de las situaciones señaladas en los literales anteriores, incluidas las que se dediquen a engorda, deberán contar con tratamiento de los efluentes en el plazo de tres años contados desde la entrada en vigencia del presente decreto.
 
+Exceptúase de esta exigencia a las pisciculturas que toman y descargan agua de un mismo curso o cuerpo de agua que nace, corre y muere dentro de la misma heredad.
+
 #### Artículo 7
 
 DEROGADO.

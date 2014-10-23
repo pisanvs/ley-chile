@@ -1814,7 +1814,13 @@ a) El centro es integrante de una agrupación de concesiones que tiene descanso 
 
 b) El centro ha operado con un máximo de 600.000 peces por ciclo productivo dentro del periodo.
 
-El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 33 meses dentro del cual sólo podrá operarse un ciclo productivo de Salmón del Atlántico Salmón salar o un máximo de dos ciclos productivos de cualquiera de las especies Trucha arcoiris Oncorhynchus mykiss o de Salmón coho Oncorynchus kisutch.
+El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 33 meses dentro del cual sólo podrá operarse un ciclo productivo de Salmón del Atlántico Salmón salar o un máximo de dos ciclos productivos de cualquiera de las especies Trucha arcoiris Oncorhynchus mykiss o de Salmón coho Oncorynchus kisutch. Esta misma excepción será aplicable a las regiones de Los Lagos y de Aysén a solicitud de los titulares de los centros de cultivo integrantes de la agrupación de concesiones, siempre que se cumplan las siguientes condiciones:
+
+a) La agrupación no haya estado sometida a una medida de emergencia sanitaria en el último período productivo;
+
+b) Los informes ambientales de los centros de cultivo integrantes de la agrupación dan cuenta de aerobia;
+
+c) Se acredite un buen desempeño sanitario en el último período productivo conforme a los niveles de mortalidad y demás indicadores sanitarios referidos a una enfermedad o infección sometidos a un programa de control, los que serán determinados por resolución de la Subsecretaría.
 
 Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación.
 
@@ -1988,7 +1994,7 @@ A la densidad de cultivo que hubiere fijado el Servicio por resolución vigente 
 
 #### Artículo 58
 
-S. En los casos en que la agrupación hubiere obtenido una clasificación en bioseguridad media o baja, la densidad de cultivo que se hubiere fijado para la misma no será aplicable a los centros de cultivo integrantes de la agrupación que hubieren obtenido individualmente una clasificación en bioseguridad alta, correspondiente al tramo de pérdidas inferiores al 13%, conforme al artículo 24 A. En tal caso, la densidad aplicable corresponderá a aquella que será fijada conforme a la resolución a que se refiere el artículo 24 A.
+S. En los casos en que la agrupación hubiere obtenido una clasificación en bioseguridad media o baja, la densidad de cultivo que se hubiere fijado para la misma no será aplicable a los centros de cultivo integrantes de la agrupación que hubieren obtenido individualmente una clasificación en bioseguridad alta, correspondiente al tramo de pérdidas inferiores al 13%, conforme al artículo 24 A. En tal caso, la densidad aplicable corresponderá a aquella que será fijada conforme a la resolución a que se refiere el artículo 24 A. En el caso que dentro del período productivo respectivo se hubiesen realizado dos ciclos, se considerará la segunda clasificación de bioseguridad obtenida por el centro de cultivo.
 
 #### Artículo 58
 
