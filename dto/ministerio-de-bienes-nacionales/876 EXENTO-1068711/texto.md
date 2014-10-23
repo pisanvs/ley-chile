@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A I. MUNICIPALIDAD DE JUAN FERNÁNDEZ
+
+Mediante decreto exento Nº 876 de 14 de octubre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a I. Municipalidad de Juan Fernández, RUT Nº69.252.300-8, el inmueble fiscal que corresponde a los sitios 45 y 46, ambos de la manzana 19, ubicados en la calle Lord Anson, ex calle El Yunque S/Nº, Isla Robinson Crusoe, comuna de Juan Fernández, provincia de Valparaíso, Región de Valparaíso; amparado por la inscripción fiscal en mayor cabida que rola a fojas 506 Nº1361, del Registro de Propiedad del Conservador de Bienes Raíces de Valparaíso, correspondiente al año 1911; de una superficie aproximada de 8.788,20 y 7.236,50 metros cuadrados, respectivamente, singularizados en el Plano Nº 05104-3.839-C.U. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para utilizar el inmueble fiscal en la ejecución del proyecto educacional denominado "Reposición Colegio Insular Robinson Crusoe". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Nivia Palma Manríquez, Abogada, Jefa División Jurídica.
