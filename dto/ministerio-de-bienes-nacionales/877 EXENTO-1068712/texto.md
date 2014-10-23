@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A I. MUNICIPALIDAD DE JUAN FERNÁNDEZ
+
+Mediante decreto exento Nº 877 de 14 de octubre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a I. Municipalidad de Juan Fernández, RUT Nº 69.252.300-8, el inmueble fiscal que corresponde al Sitio 47 de la Manzana 19, ubicado en la calle Circunvalación S/Nº, Isla Robinson Crusoe, comuna de Juan Fernández, provincia de Valparaíso, Región de Valparaíso; amparado por la inscripción Fiscal en mayor cabida que rola a fojas 506 Nº 1361, del Registro de Propiedad del Conservador de Bienes Raíces de Valparaíso, correspondiente al año 1911; de una superficie aproximada de 26.200 metros cuadrados, singularizado en el Plano Nº 05104-5.969-C.U. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para utilizar el inmueble fiscal en la ejecución del proyecto educacional denominado "Reposición Colegio Insular Robinson Crusoe". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
