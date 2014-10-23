@@ -20,6 +20,4 @@ Resuelvo:
 
 3. Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tránsito.
 
-> **Nota.** El N° 1 de la Resolución 393 Exenta, Transportes, publicada el 31.07.2015, modifica la presente norma, en el sentido de reemplazar en el cuadro del resuelvo primero, la frase "30 de julio de 2015" por "30 de diciembre de 2015".
-
 Anótese y publíquese.- Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
