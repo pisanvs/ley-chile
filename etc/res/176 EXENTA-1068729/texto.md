@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "CENTRO INTEGRADO DE CERTIFICACIÓN DE COMPETENCIAS LABORALES S.A."
+
+Por resolución exenta Nº 176, de 3 de julio de 2014 y conforme lo dispuesto en la ley Nº 20.267, que crea el Sistema Nacional de Certificación de Competencias Laborales y perfecciona el Estatuto de Capacitación y Empleo, y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 511 de 28 de diciembre de 2012 a "Centro Integrado de Certificación de Competencias Laborales S.A.", RUT Nº 76.237.829-9, a los siguientes perfiles ocupacionales del Sector Transporte, Subsector Marítimo Portuario: Operador de Grúa Horquilla (POTMP015), Operador de Grúa Portacontenedores (POTMP016), Control Tránsito (POTMP017), Guarda Almacén (POTMP018), Guardia Portalón (POTMP019), Operador Grúa Móvil Multipropósito (POTMP020), Operador Grúa RTG (POTMP021), Planimetrista (POTMP022) y Portalonero (POTMP023). La ampliación de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
