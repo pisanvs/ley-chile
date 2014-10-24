@@ -4,7 +4,7 @@ Núm. 54 exenta.- Santiago, 8 de enero de 1999.- Vistos: Las facultades conferid
 
 R e s u e l v o:
 
-Fíjanse las siguientes exigencias sanitarias para la internación a Chile de animales de la Clase Reptilia, excluidos los destinados a Zoológico, cuya internación estará afecta a las exigencias establecidas en la resolución Nº2602/97, específicas para animales de zoológico.
+Fíjanse las siguientes exigencias sanitarias para la internación a Chile de animales de la Clase Reptilia, excluidos los destinados a Zoológico, cuya internación estará afecta a las exigencias establecidas en la resolución 6.259 de 2012, que Fija exigencias sanitarias para la internación a Chile de animales de zoológico, silvestres y exóticos y deroga resoluciones que indica.
 
 #### Artículo 1
 
@@ -32,6 +32,6 @@ g) El transporte desde el lugar de origen hasta el lugar de embarque se realizó
 
 #### Artículo 2
 
-Al arribo al país los animales serán sometidos a un período cuarentenario de 21 días como mínimo, en un lugar que para tal efecto autorice la Dirección Regional del SAG correspondiente. La detección, durante este período, de agentes causantes de enfermedades transmisibles, implicará el sacrificio o re-exportación de la partida.
+Al arribo al país los animales serán sometidos a un período cuarentenario de un mínimo de 5 días, en un lugar que para tal efecto autorice la Dirección Regional del SAG correspondiente. La detección, durante este período, de agentes causantes de enfermedades transmisibles, implicará el sacrificio o re-exportación de la partida.
 
 Anótese, transcríbase y publíquese.- Antonio Yaksic Soulé, Director Nacional Servicio Agrícola y Ganadero.
