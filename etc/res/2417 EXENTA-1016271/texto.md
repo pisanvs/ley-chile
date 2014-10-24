@@ -652,21 +652,21 @@ atingentes al personal de la
 
 Dirección de Servicio.
 
-8º.- Jefe del Depto. Desarrollo de las Personas
+8º JEFA DEL DEPARTAMENTO DE FORMACIÓN Y CAPACITACIÓN
 
-a) En base a los procedimientos de
+a) En base a los procedimientos
 
-selección vigentes, autorizar la
+de selección vigentes, autorizar
 
-asistencia y/o participación del
+la asistencia y/o participación
 
-personal de la Dirección de
+del personal de la Dirección de
 
 Servicio, a las actividades de
 
 capacitación, incluidas aquellas
 
-del art. 46 inciso 2º de la
+del artículo 46 inciso 2º de la
 
 ley 19.664.
 
