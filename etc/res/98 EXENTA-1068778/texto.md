@@ -1,0 +1,7 @@
+CREA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Y ESTABLECE FUNCIONES Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 98, del 21 de octubre de 2014, que establece:
+
+La ley Nº 20.780 de 2014 en su Art. 15 modifica el Art. 1º del DFL Nº 1, del Ministerio de Hacienda que fija las plantas de personal del Servicio de Impuestos Internos, crea dos cargos de Jefe de Departamento Subdirección; y que en su Art. 16, agrega en el Art. 3º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el decreto con fuerza de ley Nº 7, de Hacienda, de 1980, el siguiente párrafo "Una de las Subdirecciones tendrá como objeto principal desarrollar políticas y programas especiales destinados a otorgar apoyo, información y asistencia a las empresas de menor tamaño a que se refiere la ley Nº 20.416, y a otros contribuyentes de escaso movimiento económico, tales como los señalados en el artículo 22 de la Ley sobre Impuesto a la Renta, con el objeto de facilitar su cumplimiento tributario.".
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de octubre de 2014.
