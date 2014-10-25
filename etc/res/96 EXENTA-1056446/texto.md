@@ -114,21 +114,23 @@ Términos y Condiciones señalados en www.micitybox.cl.
 
 h) Indemnizaciones:
 
-. Indemnizaciones: Cuando un
+. Cuando un envío se extravíe, sufra averías o sea despojado de su
 
-envío se extravíe, sufra averías o
+contenido o de parte de él, el cliente, entendiendo por tal, quien
 
-sea despojado de su contenido o de parte de él, el cliente,
+arrienda el apartado postal, tendrá derecho a que la Empresa de Correos
 
-entendiendo por tal, quien arrienda el apartado postal,
+de Chile le pague una indemnización de 100% del monto real de la
 
-tendrá derecho a que la Empresa de Correos de Chile le
+pérdida, avería o despojo, con tope de 35 UF, siempre que el cliente
 
-pague una indemnización, de acuerdo a las condiciones
+haya pre alertado el envío, conforme a lo señalado en los "términos y
 
-estipuladas en la normativa de cada servicio postal con
+condiciones del servicio" y acredite el contenido y su valor.
 
-el cual fue despachado el envío desde el origen.
+. En cualquier otro caso, el extravío, avería o despojo del contenido
+
+del envío o de parte de él se indemnizará con 3 UF.
 
 i) Prohibiciones y Restricciones:
 
@@ -183,5 +185,7 @@ Según se menciona en la letra e) anterior, los envíos que sobrepasen las dimen
 cuenta internacional, en dólares.
 
 4º La presente resolución comenzará a regir a contar del día de su publicación en el Diario Oficial de la República de Chile.
+
+> **Nota.** El numeral II de la Resolución 92 Exenta, Empresa de Correos, publicada el 25.10.2014, modifica la presente norma en el sentido de prorrogar el plan piloto en 60 días.
 
 Anótese, regístrese y comuníquese.- Pablo Montané Alliende, Gerente General Empresa de Correos de Chile.
