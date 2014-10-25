@@ -1,0 +1,5 @@
+ESTABLECE FUNCIONES DEL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 97, del 21 de octubre de 2014, que reemplaza el número 4 letra a) de la resolución Nº379, del 4 de diciembre de 1991, por el siguiente: Departamento de Análisis Selectivo del Cumplimiento Tributario; Departamento de Análisis Masivo del Cumplimiento Tributario; Departamento de Gestión del Cumplimiento Tributario; Departamento de Sistemas de Fiscalización; Departamento de Control de Gestión y Procesos; Oficina de Apoyo Legal y Administrativo; Oficina de Fiscalización y Análisis Especiales; Oficina de Fiscalización Informática; Oficina de Gestión de Riesgos; Oficina de Fiscalización Remota; Oficina de Control de proyectos y calidad de procesos; y fija las atribuciones de los departamentos y oficinas que conforman el Departamento Subdirección de Fiscalización.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de octubre, de 2014.
