@@ -1,0 +1,3 @@
+Por resolución Nº 2.809 exenta, de 22 de octubre de 2014, de esta Subsecretaría, declárase la caducidad de las resoluciones exentas Nº 83, Nº 256 y Nº 2.913, todas de 2012, Nº 389 y Nº 805, ambas de 2013, que autorizaron a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Saint Pierre", en las áreas marítimas, sobre los recursos hidrobiológicos y con los artes de pesca señalados en las citadas resoluciones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en visto de la resolución extractada.
+
+Valparaíso, 22 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
