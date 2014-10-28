@@ -6,7 +6,7 @@ Núm. 4.424 exenta.- Visto: El DS Nº 104, de Interior, de 1977, que fija el tex
 
 Resolución:
 
-1. Llámase, hasta el 30 de septiembre de 2014, a postulación en condiciones especiales para la selección de Proyectos Habitacionales en las comunas de Iquique y Alto Hospicio en la Región de Tarapacá, destinados a la atención de los damnificados por la catástrofe derivada del sismo de gran magnitud ocurrido en el mes de abril de 2014 que afectó a las Regiones de Arica y Parinacota y de Tarapacá, para el Sistema Integrado de Subsidio Habitacional, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011.
+1. Llámase, hasta el 28 de noviembre de 2014, a postulación en condiciones especiales para la selección de Proyectos Habitacionales en las comunas de Iquique y Alto Hospicio en la Región de Tarapacá, destinados a la atención de los damnificados por la catástrofe derivada del sismo de gran magnitud ocurrido en el mes de abril de 2014 que afectó a las Regiones de Arica y Parinacota y de Tarapacá, para el Sistema Integrado de Subsidio Habitacional, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011.
 
 Durante el periodo señalado, el Serviu de la Región de Tarapacá procederá a la recepción de proyectos habitacionales con los documentos y antecedentes que deben acompañarlos, por parte de las entidades patrocinantes.
 
@@ -26,6 +26,8 @@ La nómina de proyectos seleccionados, así como la de los beneficiarios del sub
 
 4. El Serviu tendrá un plazo de 30 días corridos, a partir de la fecha de la total tramitación de la resolución que apruebe la selección definitiva de proyectos con nómina de damnificados a que se refiere el número anterior, para suscribir un convenio con la entidad patrocinante en el que, a lo menos, deberá constar la aprobación del proyecto; la empresa constructora que ejecutará las obras del proyecto; la cantidad de viviendas que integran el proyecto; la cantidad de viviendas destinadas a los damnificados que eligieron viviendas del proyecto, a las que se aplicará el subsidio habitacional; el plazo para la recepción definitiva correspondiente al total de las viviendas del proyecto, que no podrá exceder de 18 meses a contar del mes siguiente al del inicio de las obras, lo que deberá ser verificado por el Serviu; requisitos exigidos; sanciones en caso que no se ejecute el proyecto y demás actos que incidan en la aplicación práctica de lo dispuesto en la presente resolución. Los convenios serán aprobados por resolución del Director Serviu.
 
+Si el proyecto aprobado no se encuentra ubicado dentro del territorio operacional de la empresa sanitaria o no ha sido aprobado conforme al artículo 55 de la Ley General de Urbanismo y Construcciones, para la suscripción del convenio entre el Serviu y la entidad patrocinante a que se refiere el inciso anterior, se deberá presentar el Convenio de Prestación de Servicios suscrita por la empresa sanitaria. Para su firma, el Secretario Regional Ministerial de Vivienda y Urbanismo podrá certificar que la ejecución del Proyecto de Integración Social, para el cual se requiere extender los servicios sanitarios, es relevante para el Ministerio de Vivienda y Urbanismo.
+
 5. El plazo para iniciar obras no podrá exceder de 60 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la entidad patrocinante.
 
 La entidad patrocinante deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por éste.
@@ -40,7 +42,7 @@ Habiéndose sancionado la selección definitiva de los proyectos, con su nómina
 
 a) Personas que tengan la calidad de damnificados por la catástrofe a que se refiere el Resuelvo 1. de la presente resolución.
 
-b) Beneficiarios del DS Nº 1 y del DS Nº 49 de llamados efectuados hasta marzo de 2014. Los beneficiarios del Título I, o de los tramos 1 y 2 del Título I del DS Nº1 referido, podrán adquirir viviendas de hasta 2.200 Unidades de Fomento.
+b) Beneficiarios del DS Nº 1 y del DS Nº 49, ambos decretos de este Ministerio, de 2011. Los beneficiarios del Título I, o de los tramos 1 y 2 del Título I del DS Nº1 referido, podrán adquirir viviendas de hasta 2.200 Unidades de Fomento.
 
 c) Personas que no tengan la calidad de damnificados y que podrán optar al subsidio habitacional, para lo que deberán acreditar un ahorro mínimo de 50 Unidades de Fomento y cumplir con los demás requisitos y condiciones establecidos para el Título II y en los artículos 16, 17 y 18 del DS Nº 1 (V. y U.), de 2011, en lo que fuera procedente.
 
@@ -62,7 +64,7 @@ Conforme a los gastos que rinda, el beneficiario damnificado obtendrá un subsid
 
 11. Para postular al llamado a que se refiere el Resuelvo 1. de esta resolución, la entidad patrocinante deberá cumplir con:
 
-11.1. Presentar un proyecto habitacional de hasta 300 viviendas, que cuente con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales respectiva, que incluya a lo menos, los porcentajes mínimos de viviendas a que se refiere el Ítem 4 de la tabla inserta en el Punto 6 de la Pauta.
+11.1. Presentar un proyecto habitacional de hasta 400 viviendas, que cuente con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales respectiva, que incluya a lo menos, los porcentajes mínimos de viviendas a que se refiere el Ítem 4 de la tabla inserta en el Punto 6 de la Pauta.
 
 En caso de no contar con permiso de edificación ni con anteproyecto aprobado, la entidad patrocinante podrá presentar el comprobante de ingreso del expediente emitido por la Dirección de Obras Municipales respectiva, junto con el informe favorable de un Revisor Independiente a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones.
 
@@ -208,37 +210,13 @@ e. Que el equipamiento comercial, deportivo o cultural existente, de escala medi
 
 A consideración de la Comisión Evaluadora, se podrán aprobar proyectos que no cumplan totalmente con algunas de las condiciones mínimas señaladas anteriormente.
 
-2. Cumplir con lo señalado en el artículo 47 del DS Nº 1 (V. y U.), de 2011, que se transcribe a continuación:
+2. Los proyectos presentados en este llamado, deberán cumplir como mínimo con lo siguiente:
 
-"a) Estar ubicado dentro del límite urbano fijado por el
+2.1. Estar ubicado dentro del límite urbano fijado por el respectivo instrumento de planificación territorial, o contar con la aprobación de la Secretaría Regional Ministerial de Vivienda y Urbanismo de acuerdo a lo señalado en el Artículo 55 de la Ley General de Urbanismo y Construcciones.
 
-respectivo instrumento de planificación
+2.2. Que el terreno donde se emplaza el loteo posea al menos un frente con acceso directo a una vía local o de categoría mayor existente.
 
-territorial, o contar con la aprobación
-
-de la Secretaría Regional Ministerial de Vivienda y Urbanismo de
-
-acuerdo a lo señalado en el Artículo 55 de la Ley General de
-
-Urbanismo y Construcciones.".
-
-"b) Estar ubicado dentro del territorio operacional de la empresa
-
-sanitaria correspondiente y/o presentar Convenio de Prestación de
-
-Servicios otorgado por la empresa sanitaria, salvo que se trate de
-
-un proyecto aprobado conforme a lo señalado en el artículo 55 de
-
-la Ley General de Urbanismo y Construcciones.".
-
-"c) Que el terreno donde se emplaza el loteo posea al menos un
-
-frente con acceso directo a una vía local o de categoría mayor
-
-existente.".
-
-Todos los requisitos antes mencionados, deberán ser acreditados por la entidad patrocinante mediante certificados o documentos emitidos por algún organismo público competente o, en casos debidamente justificados, por un organismo privado.
+Todos los requisitos antes mencionados deberán ser acreditados por la entidad patrocinante mediante certificados o documentos emitidos por algún organismo público competente o, en casos debidamente justificados, por un organismo privado.
 
 3. Todas las viviendas del proyecto deberán cumplir con lo establecido en la resolución exenta Nº 4.832 (V. y U.), de 2012, en relación a espacios y usos mínimos para el mobiliario e Itemizado Técnico.
 
@@ -279,3 +257,7 @@ El Serviu dictará una resolución con los proyectos seleccionados, que incluir�
 Los damnificados de proyectos que no resultaron seleccionados podrán inscribirse en uno que esté incluido en la resolución de selección, siempre que dicho proyecto tenga viviendas disponibles.
 
 > **Nota.** El 7.2 del numeral 7 de la Resolución 4853 Exenta, Vivienda, publicada el 21.08.2014, modifica la presente norma en el sentido de reemplazar en el Ítem 3 la fila "Se incentiva el desarrollo de proyectos con mayores superficies de vivienda" de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 El 5.2.1, del 5.2 del numeral 5 de la Resolución 6926 Exenta, Vivienda, publicada el 20.10.2014, modifica la presente norma en el sentido de sustituir en el Ítem 3 "Tipologías de Viviendas" la fila "Si bien se requiere que el conjunto habitacional sea homogéneo, es necesario que las tipologías de viviendas tengan diferencias claramente identificables" de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 El 5.2.2, del 5.2 del numeral 5 de la Resolución 6926 Exenta, Vivienda, publicada el 20.10.2014, modifica la presente norma en el sentido de Reemplázase el Ítem 4, "Precios de las Viviendas", por el que la citada norma indica.
