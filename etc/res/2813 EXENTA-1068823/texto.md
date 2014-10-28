@@ -1,0 +1,3 @@
+Por resolución Nº 2.813 exenta, de 22 de octubre de 2014, de esta Subsecretaría, recházanse las solicitudes números 213122078, 213122079, 213122077, 213122075, 213122076, 210100022, 213122086, 213122088, 213122087, 213122089 y 213122090, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y en el artículo 14 del DS Nº 290, de 1993, de este Ministerio
+
+Valparaíso, 22 de octubre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
