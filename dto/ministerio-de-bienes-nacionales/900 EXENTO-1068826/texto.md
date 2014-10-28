@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A I. MUNICIPALIDAD DE SAN ANTONIO
+
+Mediante decreto exento Nº 900 de 17 de octubre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la I. Municipalidad de San Antonio, R.U.T. Nº 69.073.400-1, el inmueble fiscal ubicado en Avenida La Playa Nº 322, ex-205, Sector de Llolleo, comuna y provincia de San Antonio, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el Nº 8000-18; inscrito a nombre del Fisco a fojas 1093 Nº 755, del Registro de Propiedad del Conservador de Bienes Raíces de San Antonio, correspondiente al año 1995; de una superficie aproximada de 228.903,90 metros cuadrados, singularizado en el Plano Nº V-7-5994-C.U. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble fiscal a la ejecución y operación del proyecto denominado Parque Deportivo y Recreativo del Pacífico San Antonio. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Óscar Manquilef Parra, Abogado, Jefe de División Jurídica (S).
