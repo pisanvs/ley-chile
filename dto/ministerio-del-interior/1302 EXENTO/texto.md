@@ -10,25 +10,7 @@ Decreto:
 
 #### Artículo primero
 
-Autorízase la circulación en días sábado en la tarde, domingo y festivos, exento del uso del disco fiscal indicado en el artículo 3º del DL Nº 799, de 1974, al vehículo que se individualiza, propiedad del Ministerio Público, y asignado al uso del Fiscal Regional de la Región Metropolitana Oriente.
-
-Vehículo : Automóvil
-
-Marca : Mazda
-
-Modelo : 6 2.5
-
-Color : Gris Claro
-
-Año : 2009
-
-Nº Motor : L510236987
-
-Nº Chassis : JM7GH425591122194
-
-I.R.N.V.M. : BZDP.38-9
-
-Placa única : BZDP.38
+DEROGADO.
 
 #### Artículo segundo
 
