@@ -50,7 +50,7 @@ k. De lo establecido en los artículos 25 y 28, referentes a la forma de selecci
 
 ### 4. Podrán postular al presente llamado proyectos en:
 
-a. Inmuebles regidos por la Ley de Copropiedad Inmobiliaria que presenten deterioro físico, vulnerabilidad social y que posean una antigüedad superior a 5 años, contados desde la fecha del Acta de Recepción de Obras, emitido por la Dirección de Obras Municipales respectiva.
+a. Inmuebles regidos por la Ley de Copropiedad Inmobiliaria que presenten deterioro físico, vulnerabilidad social y que posean una antigüedad superior a 5 años, contados desde la fecha del Acta de Recepción de Obras, emitido por la Dirección de Obras Municipales respectiva. Excepcionalmente la Seremi por causa justificada, podrá aceptar postulaciones de inmuebles que posean una antigüedad inferior a 5 años.
 
 b. Inmuebles regidos por la Ley de Copropiedad Inmobiliaria que hayan sido beneficiados por llamados extraordinarios para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales, sólo en aquellos proyectos y partidas que no fueron intervenidas anteriormente por el Programa.
 
@@ -104,6 +104,8 @@ El resultado de esta evaluación será sancionado por el acto administrativo cor
 
 14. Los recursos disponibles para este llamado se distribuirán regionalmente según el siguiente cuadro:
 
+.
+
 A partir del mes de mayo de 2014, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones, a fin de garantizar la completa asignación de subsidios del presente llamado.
 
 15. La ejecución de los proyectos seleccionados y los gastos de asistencia técnica serán financiados con los recursos disponibles de este llamado, incluidas las obras de acondicionamiento térmico y de eficiencia energética, conforme lo establecido en el Resuelvo 14 de la presente resolución.
@@ -148,7 +150,9 @@ Para optar a los incrementos y/o adiciones expresadas, la Seremi deberá autoriz
 
 22. Para el presente llamado no se requerirá la emisión de certificados de subsidio. Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el representante legal del grupo postulante e informes y antecedentes requeridos y aprobados por el Serviu. Un profesional competente de la Seremi deberá visar la recepción final y el último pago de las obras.
 
-Los pagos de la ejecución de las obras y asistencia técnica se podrán efectuar contra avance físico en hasta cuatro cuotas de montos iguales, al 25%, 50%, 75% y 100% de la ejecución del proyecto, previa entrega de una boleta de garantía tomada a favor del Serviu, por un monto equivalente al 5% del total del contrato de construcción. En casos fundados a solicitud del Serviu y previa autorización de la Seremi respectiva, se podrán efectuar pagos contra avance físico del 10%, con un máximo de 10 estados de pago, por montos que no excedan al 10% del total del proyecto, previa entrega de una boleta de garantía tomada a favor del Serviu por un monto equivalente al 5% del total del contrato de construcción.
+Los pagos de la ejecución de las obras y asistencia técnica se podrán efectuar contra avance físico en hasta cuatro cuotas de montos iguales, al 25%, 50%, 75% y 100% de la ejecución del proyecto, previa entrega de una boleta de garantía por fiel cumplimiento de contrato, tomada a favor del Serviu, por un monto equivalente al 5% del total del contrato de construcción. En casos fundados a solicitud del Serviu y previa autorización de la Seremi respectiva, se podrán efectuar pagos contra avance físico del 10%, con un máximo de 10 estados de pago, por montos que no excedan al 10% del total del proyecto, previa entrega de una boleta de garantía por fiel cumplimiento de contrato, tomada a favor del Serviu por un monto equivalente al 5% del total del contrato de construcción. El último pago de ejecución de obras y Asistencia Técnica asociada a proyectos del Título III, del DS 255 (V. y U.), de 2006, se verificará una vez acompañado el certificado de recepción municipal.
+
+Las boletas de garantía por fiel cumplimiento del contrato serán devueltas una vez terminada la ejecución de las obras, previa entrega de una boleta que garantice la calidad de las obras ejecutadas, por un monto equivalente al 2% del valor del contrato y cuyo plazo no sea inferior a un año.
 
 23. El subsidio tendrá una vigencia de 12 meses contados desde la fecha de la resolución de selección. Si habiendo expirado su vigencia o estando próxima a expirar, no concurrieren los requisitos exigidos para proceder a su pago, el Seremi, si la disponibilidad presupuestaria lo permite, podrá por una sola vez mediante resolución fundada dictada a petición del Serviu, otorgar un plazo adicional al de la vigencia del subsidio de hasta 180 días corridos, cuando se acredite a satisfacción del Serviu alguna de las siguientes circunstancias:
 
