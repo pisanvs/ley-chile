@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE METROPOLITANA, A FUNDACIÓN DE AYUDA AL NIÑO LIMITADO
+
+Mediante decreto exento Nº 899 de 17 de octubre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la Fundación de Ayuda al Niño Limitado (Coanil), R.U.T. Nº 70.267.000-4, el inmueble fiscal individualizado como Lote A, ubicado en Avenida Larraín Nº 9940, comuna de La Reina, provincia de Santiago, Región Metropolitana de Santiago; enrolado en el Servicio de Impuestos Internos con el Nº 6030-5; inscrito a nombre del Fisco a fojas 72116 Nº 48695, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1989; de una superficie aproximada de 6.511,53 metros cuadrados, singularizado en el Plano Nº 13113-6113-C.U. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para utilizar el inmueble fiscal como residencia y escuela para personas que presentan discapacidad intelectual, efectuando las inversiones de infraestructura que el proyecto requiera. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Óscar Manquilef Parra, Abogado, Jefe de División Jurídica (S).
