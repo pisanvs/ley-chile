@@ -44,15 +44,7 @@ Se eximen de la aplicación de esta condición las comunas insulares de Isla de 
 
 a) Nómina que incluya individualización completa de cada integrante del Comité, señalando sus
 
-RES 4490 EXENTA,
-
-VIVIENDA
-
-#### Artículo único
-
-Nos. 1 y 2
-
-D.O. 04.12.2006nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de cada uno de ellos.
+nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de cada uno de ellos.
 
 b) Identificación de la comuna, centro poblado (ciudad, pueblo o villorrio), calle, pasaje o acera y el tramo respectivo. En el caso de aceras, el nombre del proyecto deberá indicar si contempla ambos costados de la vía o sólo uno, identificándolo mediante el punto cardinal correspondiente (norte, sur, oriente o poniente). Se deberá señalar si el proyecto postula a pavimentación o a repavimentación.
 
@@ -540,31 +532,41 @@ h) Acta de Reunión en que conste que el proyectista expuso el proyecto al respe
 
 i) Presupuesto del proyecto que señale claramente el valor unitario del metro cuadrado de pavimentación o de repavimentación a aplicar, según sea el caso, el cual deberá ser igual o inferior a los valores indicados para cada región en las siguientes tablas respectivamente:
 
+.
+
 (1) El valor límite de los pavimentos y/o repavimentos para la comuna de Camarones es:
+
+.
 
 El valor límite de los pavimentos y/o repavimentos para la comuna de Putre es:
 
+.
+
 El valor límite de los pavimentos y/o repavimentos para la comuna de Gral. Lagos es:
 
-(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es de $63.000/m2 en adocretos y $73.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
+.
 
-Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $61.500/m2 y en adoquín canteado es de $68.500/m2.
+Para las aceras en adocreto de Arica sus valores límites en pavimentos es $37.000/m2 y en repavimento $40.000/m2.
 
-En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de la Provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $64.500/m2 y de adoquín canteado es de $68.500/m2, tanto para calles como pasajes.
+(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es de $66.500/m2 y $68.500/m2 en adocretos y $64.500/m2 y $66.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para la localidad de Socaire es de $93.000/m2, tanto para calles como para pasajes.
+Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $63.000/m2 y $65.000/m2 y en adoquín canteado es de $62.000/m2 y $63.000/m2.
 
-En el caso de los pavimentos y/o repavimentos de aceras, el valor límite para la comuna de San Pedro de Atacama es de $54.000/m2.
+En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de Provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $60.500/m2 y de adoquín canteado es de $59.000/m2, tanto para calles como pasajes.
 
-(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el correspondiente valor límite de pavimentación es de $110.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación y de repavimentación es de $128.000/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite para pavimentos y repavimentos respectivamente será de $115.000/m2 y $91.000/m2, en pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $128.000/m2.
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $116.000/m2 y $123.000 respectivamente, tanto para calles como para pasajes.
 
-El valor límite de los pavimentos y/o repavimentos de aceras en la comuna de O'Higgins es de $40.000/m2.
+En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es $135.000/m2 y de $142.000/m2 respectivamente.
 
-(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $62.000/m2 y de repavimentación en aceras es de $66.000/m2.
+(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva SEREMI, el correspondiente valor límite de pavimentación es de $120.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación en adocreto es $96.000/m2 y de repavimentación en adocreto es $115.000/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite en adocreto para pavimentos es $102.000/m2 y para repavimentos es $119.000/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $128.000/m2.
 
-(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $69.000/m2 en calles, $58.000 en pasajes y $24.000/m2 en aceras, y de repavimentación son $57.000/m2 en calles, $48.000/m2 en pasajes y $20.000/m2 en aceras.
+Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $38.000/m2 y de repavimentos $47.000/m2.
 
-Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $60.000/m2 en calles, $50.000 en pasajes y $20.000/m2 en aceras, y de repavimentación son $61.000/m2 en calles, $52.000/m2 en pasajes y $21.000/m2 en aceras.
+(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $64.000/m2 y de repavimentación en aceras es de $68.000/m2.
+
+(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $74.000/m2 en calles, $63.000 en pasajes y $29.000/m2 en aceras, y de repavimentación son $76.000/m2 en calles, $65.000/m2 en pasajes y $27.000/m2 en aceras.
+
+Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $62.000/m2 en calles, $52.000 en pasajes y $21.000/m2 en aceras, y de repavimentación son $66.000/m2 en calles, $58.000/m2 en pasajes y $23.000/m2 en aceras.
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -806,14 +808,6 @@ Los responsables del Programa de Pavimentación Participativa en la Secretaría 
 
 17º.- Derógase la resolución exenta Nº 1.930 (V. y U.), de 1997, publicada en el Diario Oficial de 4 de agosto de 1997 y sus modificaciones.
 
-> **Nota.** El Nº 1º D) de la RES 2983 Exenta, vivienda, publicada el 10.09.2005, ordena sustituir la letra c), del inciso segundo, de la letra i), del número 3º, por la siguiente: "c) En el caso de las comunas de Ovalle, Canela e Illapel de la IV Región, de las comunas de Valparaíso y de Viña del Mar de la V Región y de las comunas de Penco, Tomé, Talcahuano, Lota, Coronel y Lebu de la VIII Región, en atención a sus características morfológicas, que demandan la ejecución de obras especiales de estabilización de suelos y de canalización de aguas lluvias en el espacio público, el valor límite de pavimentación podrá ser incrementado, sólo por concepto de obras anexas imprescindibles, hasta en $20.000 por metro cuadrado." Sin embargo, la citada letra que se indica no existe, por tanto, no se ha incorporado al presente texto actualizado.
-
-> **Nota.** NOTA 2: Las letras E) y F) del Nº 1 de la RES 5644 exenta, Vivienda, publicada el 22.08.2008, modificaron la letra c) del inciso 3º de la letra i), en el siguiente sentido: "E) Reemplázase en la letra c) del inciso tercero de la letra i) del número 3º, el guarismo $20.000 por el guarismo $25.000. F) Agrégase a la letra c) del inciso tercero de la letra i) del número 3º, el siguiente inciso: "Excepcionalmente en otras comunas, la Seremi, con aprobación del Serviu respectivo, podrá autorizar la aplicación del beneficio especificado en el inciso anterior a aquellos proyectos que presenten situaciones extremas y fundadas de requerimientos de mayores obras anexas imprescindibles para la pavimentación y que por esta razón superen el Valor Límite de Pavimentación fijado en esta resolución.". Por no estar incorporada la citada letra, según lo que se expone en nota anterior, no se ha ingresado al presente texto actualizado.
-
-> **Nota.** NOTA 3 Los Numerales 3 y 4 de la Resolución 6900 Exenta, Vivienda, publicada el 28.09.2013, modificaron las letras b) y c) de la letra i) del número 3º, en el siguiente sentido; 3. Agréguese el siguiente inciso a continuación del primer inciso en la letra b) de la letra i) del número 3º: "Cuando la postulación a pavimentación o repavimentación de la calzada de una calle incluya la pavimentación o repavimentación de sus respectivas aceras, hasta un 10%. 4. Reemplázase en el primer inciso de la letra c) en la letra i) del número 3º, el monto "$25.000" por el ponderador "1,6. Sin embargo las citadas letras que se indican no existen, por lo tanto, no se han incorporado al presente texto actualizado.
-
-> **Nota.** NOTA 4 El Numeral Nº 4 de la Resolución 8009 Exenta, Vivienda, publicada el 13.11.2013, modifica la presente norma en el sentido de reemplazar la letra a) del tercer inciso de la letra i) del número 3º por la siguiente nueva letra a): "a) Distancia entre la localidad donde se ubica el proyecto postulado y aquella que presente el menor valor referencial en la Región: . 10% ciudades y pueblos localizados en el entorno inmediato. . 20% ciudades y pueblos localizados en las zonas intermedias. . 30% ciudades y pueblos localizados en zonas apartadas. Sin embargo la citada letra a) no existe, por lo tanto, no se ha incorporado al presente texto actualizado.
-
 #### Artículo 1º
 
 transitorio: Durante el año 2004 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 31 de Julio de 2004.
@@ -843,6 +837,10 @@ transitorio. Durante el año 2012 el proceso de selección de proyectos efectuad
 #### Artículo 7º
 
 transitorio. Durante el año 2013, el día 2 de diciembre será la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica, y el día 13 de diciembre será la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo.
+
+#### Artículo 8º
+
+transitorio: Durante el año 2014, el día 30 de octubre será la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica y el día 15 de noviembre será la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
