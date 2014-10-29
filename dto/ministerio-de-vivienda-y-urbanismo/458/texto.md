@@ -276,6 +276,18 @@ De la Planificación Urbana en particular
 
 La planificación urbana se efectuará en cuatro niveles de acción, que corresponden a cuatro tipos de áreas: nacional, regional, intercomunal y comunal.
 
+Cada instrumento de planificación urbana tendrá un ámbito de competencia propio en atención al área geográfica que abarca y a las materias que puede regular, en el cual prevalecerá sobre los demás.
+
+Sin perjuicio de lo anterior, los instrumentos podrán establecer, sólo para territorios no planificados, disposiciones transitorias con carácter supletorio sobre las materias propias del otro nivel, sea éste superior o inferior, las que quedarán sin efecto al momento de entrar en vigencia el instrumento de planificación territorial que contenga las normas correspondientes a ese ámbito de competencia. Estas disposiciones transitorias no serán imperativas para el nuevo instrumento.
+
+#### Artículo 28 bis
+
+A través de planos de detalle podrá fijarse con exactitud los trazados y anchos de los espacios declarados de utilidad pública en los planes reguladores comunales, seccionales o intercomunales, siempre que no los modifiquen.
+
+Los planos de detalle serán elaborados por el municipio o por la Secretaría Regional Ministerial de Vivienda y Urbanismo, según especifiquen planes de nivel comunal o intercomunal. Cuando los confeccione el municipio deberá solicitar un informe a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva sobre el proyecto de plano, y cuando los elabore esta última, deberá requerir informe de los municipios afectados. Si el informe no se emite dentro de quince días hábiles contados desde su recepción se entenderá que no hay observaciones, salvo que la autoridad correspondiente solicite, dentro de dicho plazo, una prórroga por igual período.
+
+Con el mérito de todos estos antecedentes, y un informe que justifique la propuesta y su consistencia con el instrumento especificado, el proyecto será sometido a la aprobación del concejo municipal, si se trata de planes comunales o seccionales, o a la del consejo regional, en el caso de los planes intercomunales. Los planos serán promulgados por decreto alcaldicio o resolución del intendente, según sea el caso.
+
 ### Párrafo 1° — .- De la Planificación Urbana Nacional
 
 #### Artículo 29°
@@ -446,7 +458,7 @@ Estas modificaciones no podrán ser contrarias a los preceptos de este cuerpo le
 
 #### Artículo 46
 
-En los casos en que, para la aplicación del Plan Regulador Comunal, se requiera de estudios más detallados, ellos se harán mediante Planos Seccionales en que se fijarán con exactitud los trazados y anchos de calles, zonificación detallada, las áreas de construcción obligatoria, de remodelación, conjuntos armónicos, terrenos afectados por expropiaciones, etc.
+En los casos en que, para la aplicación del Plan Regulador Comunal, se requiera de estudios más detallados, ellos se harán mediante Planos Seccionales en que se fijarán la zonificación detallada, las áreas de construcción obligatoria, de remodelación, conjuntos armónicos, terrenos afectados por expropiaciones, etc.
 
 En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccionales, los que se aprobarán conforme a lo prescrito en el inciso primero del artículo 43.
 
@@ -484,7 +496,7 @@ Los trazados de los Planes Reguladores Comunales se realizarán por el municipio
 
 (b) las adquisiciones hechas en licitación pública o compra directa por la Municipalidad, de acuerdo con su Ley Orgánica. En el caso de compra directa, el precio no podrá exceder de la tasación respectiva que efectúe la Dirección de Obras Municipales. Para estas adquisiciones, no regirá lo dispuesto en el artículo 49° de la ley N° 17.235, y
 
-(c) las cesiones de terrenos que se urbanicen, de acuerdo con las disposiciones de la presente ley y sus Ordenanzas, que se destinen a calles, avenidas, plazas, espacios públicos y otros fines.
+(c) las cesiones de terrenos que se urbanicen, de acuerdo con las disposiciones de esta ley y su ordenanza general.
 
 ## Capítulo III
 
@@ -534,23 +546,25 @@ Igualmente, el otorgamiento de patentes municipales será concordante con dicho 
 
 #### Artículo 59
 
-Decláranse de utilidad pública, por los plazos que se indican en los incisos siguientes, los terrenos localizados en áreas urbanas y de extensión urbana consultados en los planes reguladores comunales e intercomunales destinados a vías expresas, troncales, colectoras, locales y de servicio y parques intercomunales y comunales, incluidos sus ensanches.
+Decláranse de utilidad pública todos los terrenos consultados en los planes reguladores comunales, planes reguladores intercomunales y planes seccionales destinados a circulaciones, plazas y parques, incluidos sus ensanches, en las áreas urbanas, así como los situados en el área rural que los planes reguladores intercomunales destinen a vialidades.
 
-Vencidos dichos plazos, caducará automáticamente la declaratoria de utilidad pública y todos sus efectos. Las nuevas normas urbanísticas aplicables a dichas áreas deberán ser fijadas dentro del plazo de seis meses, contado desde la caducidad de la declaratoria, por la municipalidad respectiva, mediante decreto alcaldicio, previo informe de la Secretaría Regional Ministerial de Vivienda y Urbanismo, asimilándolas a las de la zona predominante de las adyacentes al terreno.
+Los propietarios de terrenos afectos a declaratoria de utilidad pública podrán solicitar a la municipalidad o a la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda, que a través de planos de detalle se grafique con exactitud la parte de sus terrenos afecta a utilidad pública cuando el plan intercomunal o comunal no lo haya establecido, debiendo tales planos aprobarse dentro de los seis meses siguientes.
 
-Los plazos de caducidad para las declaratorias de utilidad pública de los terrenos ubicados en el área urbana, según su destino, serán de diez años para las vías expresas, y de cinco años para las vías troncales y colectoras y los parques intercomunales y comunales.
+#### Artículo 59 bis
 
-El plazo de caducidad de las declaratorias de utilidad pública de los terrenos ubicados en áreas de extensión urbana, cualquiera sea su destino, será de diez años, pudiendo prorrogarse por una vez por igual lapso.
+Entretanto se procede a la expropiación o adquisición de los terrenos a que se refiere el artículo precedente, la parte afectada del inmueble estará sujeta a las siguientes reglas:
 
-El plazo establecido para las declaratorias de utilidad pública de los terrenos ubicados en el área urbana destinados a vías troncales y colectoras y a parques intercomunales, podrá ser prorrogado, por una sola vez, por igual período. La prórroga se tramitará conforme al procedimiento establecido para la modificación del respectivo instrumento de planificación territorial.
+a) Si a la fecha de la declaratoria existieran construcciones, no podrá aumentarse su volumen, salvo para las excepciones que autoriza el artículo 62 de esta ley y siempre que hubieren contado con los permisos respectivos.
 
-En los terrenos afectos a la declaración de utilidad pública y, mientras se procede a su expropiación o adquisición, no se podrá aumentar el volumen de las construcciones existentes a la fecha de aprobación del respectivo plan regulador, en la parte del inmueble que esté afecta a dicha declaratoria si ésta fuere parcial.
+No obstante, si producto de un caso fortuito o fuerza mayor las construcciones existentes experimentasen daños que las dejen inutilizables, podrá autorizarse su reconstrucción hasta completar el volumen de la edificación que existía previamente, siempre que ésta hubiere contado con los permisos respectivos.
 
-Caducada la declaratoria de utilidad pública, el inmueble afectado no podrá ser declarado nuevamente afecto a utilidad pública para los mismos usos incluidos en una declaratoria anterior, a menos que el acto expropiatorio se dicte dentro del plazo de sesenta días contado desde la fecha de entrada en vigencia de la nueva declaratoria. Expirado dicho plazo, caducará automáticamente la declaratoria de utilidad pública.
+Con todo, tratándose de viviendas podrá aumentarse el volumen o reconstruirse hasta dos pisos, conforme a lo señalado en la letra siguiente.
 
-Los planes reguladores no podrán declarar de utilidad pública terrenos ubicados en áreas rurales.
+b) Si a la fecha de la declaratoria no existieran construcciones, sólo se admitirá la edificación de una vivienda de hasta dos pisos de altura en los lotes recepcionados a la fecha de la declaratoria, conforme a las reglas que establezca la Ordenanza General. Construida ésta, quedará sujeta al régimen de la letra precedente. En las referidas viviendas se permitirán las actividades que admite el artículo 162 de esta ley.
 
-Lo dispuesto en los incisos precedentes no afectará ni se aplicará en modo alguno a los procesos de expropiación autorizados en otras normas legales.
+c) Excepcionalmente, la Dirección de Obras Municipales podrá permitir otras construcciones o alteraciones en las construcciones existentes, en los términos y con las limitaciones prescritos en el artículo 121.
+
+Lo dispuesto en este artículo será sin perjuicio de las limitaciones establecidas en otras disposiciones de esta ley o en otras leyes.
 
 #### Artículo 60°
 
@@ -756,11 +770,9 @@ DEROGADO
 
 DEROGADO
 
-#### Artículo 88°
+#### Artículo 88
 
-Siempre que una propiedad adquiera mayor valor a consecuencia de una expropiación parcial de ella, se deducirá del monto de la indemnización el mayor valor que adquiera la parte no expropiada, con motivo del destino que se dé a la parte expropiada.
-
-Si este mayor valor fuere superior al monto que se fije para la expropiación, se considerará, en este caso, compensado totalmente el precio de la expropiación con el referido mayor valor. La Ordenanza determinará las normas para calcular los mayores valores y deducciones a que se refiere el inciso primero.
+Tratándose de expropiaciones parciales se deducirá o imputará del monto de la indemnización el cambio de valor que adquiera la parte no expropiada como consecuencia de las inversiones que realice el Estado vinculadas con dicha expropiación, o del plan o instrumento de planificación que declaró la utilidad pública.
 
 #### Artículo 89
 
@@ -806,11 +818,11 @@ DEROGADO
 
 DEROGADO
 
-#### Artículo 99°
+#### Artículo 99
 
-Mientras una Municipalidad no haga efectiva la expropiación de los terrenos declarados de utilidad pública o no edificables, de acuerdo a lo prescrito en los artículos 59° y 60° de esta ley, se suspenderá a su respecto el pago de las contribuciones de bienes raíces, siempre que dichos terrenos no generen renta alguna.
+Mientras una municipalidad no haga efectiva la expropiación de los terrenos declarados de utilidad pública de acuerdo a lo prescrito en el artículo 59, la parte afectada de dichos inmuebles estará exenta del pago de contribuciones.
 
-Esta suspensión de pago deberá solicitarse a la Oficina de Impuestos Internos respectiva, adjuntando certificado de la Dirección de Obras Municipales que acredite que los terrenos, conforme al Plan Regulador Comunal, han sido declarados de utilidad pública o no edificables.
+Para hacer efectiva esta exención, el interesado deberá acompañar al Servicio de Impuestos Internos un certificado de informaciones previas que acredite qué parte del predio se encuentra declarada de utilidad pública en virtud del instrumento de planificación respectivo.
 
 ### Párrafo 5° — .- Del pago de las expropiaciones en Viviendas Económicas
 
@@ -1176,19 +1188,15 @@ Contra las resoluciones del Alcalde que ordenaren la demolición de obras ejecut
 
 #### Artículo 121°
 
-En los terrenos a que se refiere el artículo 59° no podrán efectuarse nuevas construcciones y si estuvieren edificados, no será permitido reconstruir los edificios, alterarlos o repararlos.
-
-Sin embargo, por motivos justificados, podrá la Dirección de Obras Municipales, previa autorización del Municipio, permitir la construcción, reconstrucción parcial u otras alteraciones en los edificios a que se refiere el inciso precedente, siempre que el propietario del inmueble renuncie por escritura pública a toda indemnización o pago por dichas mejoras u obras, cuando posteriormente se lleve a cabo la expropiación. En dicha escritura se fijará el valor de expropiación y el plazo dentro del cual deberá adoptarse la línea oficial, siendo de su cargo la demolición. La escritura será inscrita en el Registro de Gravámenes del Conservador de Bienes Raíces y la renuncia afectará a todos los sucesores del renunciante, a cualquier título, en el dominio del inmueble.
+La Dirección de Obras Municipales podrá, previa autorización del municipio, permitir nuevas construcciones u otras alteraciones en las construcciones existentes en los terrenos a que se refiere el artículo 59, distintas de las que admite el artículo 59 bis, siempre que el propietario del inmueble renuncie por escritura pública a toda indemnización o pago por dichas mejoras u obras, cuando posteriormente se lleve a cabo la expropiación. En dicha escritura se fijará el valor de expropiación y el plazo dentro del cual deberá adoptarse la línea oficial, siendo de su cargo la demolición. La escritura será inscrita en el Registro de Gravámenes del Conservador de Bienes Raíces y la renuncia afectará a todos los sucesores del renunciante, a cualquier título, en el dominio del inmueble.
 
 En caso de incumplimiento del interesado, la Municipalidad podrá desalojar el edificio con el auxilio de la fuerza pública y demolerlo en la parte que corresponda por cuenta del propietario, sin perjuicio de las acciones legales que correspondan, hasta el reintegro total de los costos del desalojo y la demolición. Los gastos de la demolición y desalojo podrán imputarse al valor de la expropiación.
 
 #### Artículo 122
 
-En casos calificados de interés general, las Direcciones de Obras Municipales podrán transitoriamente autorizar transformaciones de edificios, aunque éstos no adopten la altura obligatoria, siempre que se ciñan de inmediato a la línea oficial de edificación y cumplan con las demás disposiciones de las Ordenanzas General y Local, y que el propietario ceda gratuitamente los terrenos que resulten afectados por expropiación.
+En los antejardines fijados en los planes reguladores sólo podrán efectuarse las construcciones que estén expresamente admitidas en la Ordenanza General de esta ley o en la ordenanza del respectivo instrumento de planificación.
 
-Si con posterioridad a la cesión gratuita caducare la declaratoria de utilidad pública, el cedente podrá solicitar a la municipalidad la restitución del inmueble cedido. La municipalidad deberá realizar dicha restitución, a título gratuito, en un plazo no superior a tres meses desde el requerimiento. Los costos que se originen serán de cargo del solicitante.
-
-En los edificios ubicados en terrenos afectados por antejardines contemplados en los Planes Reguladores, sólo podrá efectuarse reconstrucciones, ampliaciones y otras alteraciones siempre que el propietario del inmueble se comprometa por escritura pública a adoptar la línea oficial de edificación en el plazo que señale la Dirección de Obras Municipales. Si al vencimiento del plazo no se adoptare la línea oficial, la Municipalidad quedará facultada para aplicar sanciones, sin perjuicio de ordenar la demolición correspondiente, conforme a lo señalado en el N° 4 del artículo 148.
+Sin perjuicio de lo anterior, podrán autorizarse construcciones provisorias, conforme al artículo 124.
 
 #### Artículo 123°
 

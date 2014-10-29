@@ -102,6 +102,8 @@ j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorio
 
 k) Aprobar los planes reguladores comunales y los planes seccionales de comunas que formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, y pronunciarse sobre el proyecto de plan regulador comunal o de plan seccional de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal.
 
+l) Aprobarlos planos de detalle de los planes reguladores comunales y de los planes seccionales.
+
 Las municipalidades tendrán, además, las atribuciones no esenciales que le confieren las leyes o que versen sobre materias que la Constitución Política de la República expresamente ha encargado sean reguladas por la ley común.
 
 Sin perjuicio de las funciones y atribuciones de otros organismos públicos, las municipalidades podrán colaborar en la fiscalización y en el cumplimiento de las disposiciones legales y reglamentarias correspondientes a la protección del medio ambiente, dentro de los límites comunales.
@@ -302,7 +304,7 @@ Adscrito a esta unidad existirá el asesor urbanista, quien requerirá estar en 
 
 a) Asesorar al alcalde y al concejo en la promoción del desarrollo urbano;
 
-b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar los planes seccionales para su aplicación, y
+b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar losplanos de detalle y planes seccionales, en su caso, y
 
 c) Informar técnicamente las proposiciones sobre planificación urbana intercomunal, formuladas al municipio por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
@@ -828,7 +830,7 @@ El alcalde requerirá el acuerdo del concejo para:
 
 a) Aprobar el plan comunal de desarrollo y el presupuesto municipal, y sus modificaciones, como asimismo los presupuestos de salud y educación, los programas de inversión correspondientes y las políticas de recursos humanos, de prestación de servicios municipales y de concesiones, permisos y licitaciones;
 
-b) Aprobar el plan regulador comunal, los planes seccionales y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
+b) Aprobar el plan regulador comunal, los planes seccionales y sus planos de detalle,y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
 
 c) Establecer derechos por los servicios municipales y por los permisos y concesiones;
 
@@ -1322,7 +1324,7 @@ Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad d
 
 La información y documentos municipales son públicos. En dicha oficina deberán estar disponibles, para quien los solicite, a lo menos los siguientes antecedentes:
 
-a) El plan comunal de desarrollo, el presupuesto municipal y el plan regulador comunal con sus correspondientes seccionales, y las políticas específicas.
+a) El plan comunal de desarrollo, el presupuesto municipal y el plan regulador comunal con sus correspondientes seccionales, incluyendo sus respectivos planos de detalle, y las políticas específicas.
 
 b) El reglamento interno, el reglamento de contrataciones y adquisiciones, la ordenanza de participación y todas las ordenanzas y resoluciones municipales.
 

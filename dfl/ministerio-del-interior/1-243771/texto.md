@@ -136,7 +136,7 @@ b) Tener cumplidos 21 años de edad y reunir los requisitos generales para el in
 
 c) No estar inhabilitado para el ejercicio de funciones o cargos públicos;
 
-d) No hallarse declarado en quiebra calificada como culpable o fraudulenta por sentencia ejecutoriada, y
+d) No haber sido condenado por delitos concursales del Código Penal, y
 
 e) Residir en la región respectiva, a lo menos, en los últimos dos años anteriores a su designación.
 
@@ -294,7 +294,7 @@ d) Disponer, supervisar y fiscalizar las obras que se ejecuten con cargo a su pr
 
 e) Aplicar las políticas definidas en el marco de la estrategia regional de desarrollo;
 
-f) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos e intercomunales, y los planes reguladores comunales y seccionales, conforme a lo establecido en los párrafos segundo y tercero de la letra c) del artículo 36;
+f) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos e intercomunales y sus respectivos planos de detalle, los planes reguladores comunales y los planes seccionales, conforme a lo establecido en los párrafos segundo y tercero de la letra c) del artículo 36;
 
 g) Formular y priorizar proyectos de infraestructura social básica y evaluar programas, cuando corresponda;
 
@@ -366,7 +366,7 @@ n) Informar al consejo regional oportunamente respecto de las proposiciones de p
 
 ñ) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones;
 
-o) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales conforme a las normas de la Ley General de Urbanismo y Construcciones;
+o) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales y los planos de detalle de planes reguladores intercomunales, conforme a las normas de la Ley General de Urbanismo y Construcciones;
 
 p) Responder, dentro del plazo de veinte días hábiles y por escrito, los actos de fiscalización que realice el consejo en su conjunto y las informaciones solicitadas por los consejeros en forma individual;
 
@@ -586,6 +586,8 @@ i) Oficializar la comunicación acerca de la adopción de acuerdos del consejo s
 
 4) Planes Reguladores Intercomunales.
 
+4 bis) Planos de Detalle.
+
 5) Convenios de Programación.
 
 6) Convenios Territoriales.
@@ -660,13 +662,13 @@ a) Aprobar el reglamento que regule su funcionamiento, en el que se podrá conte
 
 b) Aprobar los reglamentos regionales;
 
-c) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos y los planes reguladores intercomunales propuestos por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
+c) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos y los planes reguladores intercomunales, así como los planos de detalle de estos últimos, propuestos por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
 Aprobar los planes reguladores comunales y los planes seccionales de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, previamente acordados por las municipalidades, en conformidad con la Ley General de Urbanismo y Construcciones, sobre la base del informe técnico que deberá emitir la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 No obstante lo anterior, le corresponderá pronunciarse sobre los planes reguladores comunales y los planes seccionales de comunas que, formando parte de un territorio normado por un plan regulador metropolitano o intercomunal, hayan sido objeto de un informe técnico desfavorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, sólo respecto de aquellos aspectos que hayan sido objetados en dicho informe.
 
-El consejo regional deberá pronunciarse dentro del plazo de noventa días, contado desde su recepción, cuando se trate de planes regionales de desarrollo urbano, planes reguladores metropolitanos o intercomunales. Tratándose de planes reguladores comunales y seccionales, el pronunciamiento deberá emitirse dentro del plazo de sesenta días. Transcurridos que sean dichos plazos, se entenderá aprobado el respectivo instrumento de planificación;
+El consejo regional deberá pronunciarse dentro del plazo de noventa días, contado desde su recepción, cuando se trate de planes regionales de desarrollo urbano, planes reguladores metropolitanos o intercomunales. Tratándose de planos de detalle de planes reguladores intercomunales, planes reguladores comunales y planes seccionales, el pronunciamiento deberá emitirse dentro del plazo de sesenta días. Transcurridos que sean dichos plazos, se entenderá aprobado el respectivo instrumento de planificación;
 
 d) Aprobar, modificar o sustituir el plan de desarrollo de la región y el proyecto de presupuesto regional, así como sus respectivas modificaciones, sobre la base de la proposición del intendente;
 
