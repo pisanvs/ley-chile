@@ -36,6 +36,8 @@ Resuelvo:
 
 > **Nota.** NOTA 7 El artículo 1° de la Resolución 996 Exenta, Transportes, publicada el 24.05.2013, prorroga la vigencia de la presente norma a contar del 1 de mayo de 2013 y hasta el 31 de octubre de 2014, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
 
+> **Nota.** NOTA 8 El artículo 1° de la Resolución 2695 Exenta, Transportes, publicada el 29.10.2014, prorroga la vigencia de la presente norma a contar del 1 de noviembre de 2014 y hasta el 30 de abril de 2016, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
+
 #### Artículo 1º
 
 Establécense las siguientes condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de las comunas de Concepción, Chiguayante, Hualqui, Talcahuano, Hualpén, San Pedro de la Paz y Penco.
@@ -437,6 +439,8 @@ El costo de estas capacitaciones no podrá superar el valor de cuatro Unidades d
 15. Sanciones
 
 De acuerdo a lo establecido en el Decreto Supremo Nº 212/92, cualquier incumplimiento de lo establecido en la presente Resolución, dará lugar a la aplicación de las sanciones contempladas en dicho reglamento, sin perjuicio del cobro de garantías establecido en el artículo 94º bis C del referido cuerpo reglamentario, salvo las expresamente contenidas en esta resolución.
+
+Para efectos de lo dispuesto en el párrafo anterior, y en relación a lo señalado en el artículo 92, literal c), del decreto supremo Nº 212/92, se entenderá que hay abandono de servicios sin causa justificada en las presentes condiciones de operación, cuando se constatare un cumplimiento de frecuencias igual o menor a 20%, en tres días, verificado en un lapso de 15 días durante el período 2, según medición que deberá realizarse a no más de 500 metros del terminal inscrito para el servicio o recinto habilitado, y cuando se constataren al menos 2 mediciones con cumplimiento de frecuencias menor o igual al 30% en el período 2 o período 4, verificado en un lapso de 15 días, según medición que deberá realizarse a no más de 500 metros del terminal inscrito para el servicio o recinto habilitado.
 
 16. Supletoriedad del Decreto Supremo Nº 212/92
 
