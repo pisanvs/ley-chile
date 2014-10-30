@@ -24,8 +24,10 @@ Resuelvo:
 
 . 30% de préstamo médico sobre el valor arancel de los PAD dentales del grupo 25-03.
 
-3.- Déjanse, sin efecto, las siguientes resoluciones exentas que establecían porcentajes de préstamos médicos; punto 2 de la resolución exenta 2D/Nº929 de 02.04.2003, Res. exenta 3E/Nº 2.258 del 29.08.2005, Res. exenta 3E/Nº 2.627 del 04.10.2005, Res. exenta 3E/Nº 2.911 del 06.09.2013 y Res. exenta 3E/Nº 2.274 de 9 de julio de 2014.
+3.- Con todo, la Directora Nacional del Fondo Nacional de Salud, mediante resolución fundada, podrá, cuando circunstancias excepcionales y calificadas lo ameriten, otorgar préstamos médicos respecto de prestaciones no señaladas en los números anteriores o por montos superiores a los porcentajes allí fijados.
 
-4.- Impútese el gasto que irrogara el otorgamiento de los préstamos médicos a que se refiere esta resolución, al ítem de gasto de la Modalidad Libre Elección, Subtítulo 32 Ítem 05 del Presupuesto del Fondo Nacional de Salud.
+4.- Déjanse, sin efecto, las siguientes resoluciones exentas que establecían porcentajes de préstamos médicos; punto 2 de la resolución exenta 2D/Nº929 de 02.04.2003, Res. exenta 3E/Nº 2.258 del 29.08.2005, Res. exenta 3E/Nº 2.627 del 04.10.2005, Res. exenta 3E/Nº 2.911 del 06.09.2013 y Res. exenta 3E/Nº 2.274 de 9 de julio de 2014.
+
+5.- Impútese el gasto que irrogara el otorgamiento de los préstamos médicos a que se refiere esta resolución, al ítem de gasto de la Modalidad Libre Elección, Subtítulo 32 Ítem 05 del Presupuesto del Fondo Nacional de Salud.
 
 Anótese, publíquese, comuníquese y archívese.- Jeanette Vega Morales, Directora Nacional Fondo Nacional de Salud.
