@@ -140,41 +140,9 @@ I.R.N.V.M. : CGJR. 29-K
 
 Ciudad : Valparaíso.
 
-8.-Vehículo : Camioneta
+8.- ELIMINADO.
 
-Marca : Chevrolet
-
-Modelo : D-MAX THCC 3.0D 4WD DAB
-
-Año : 2010
-
-Color : Blanco
-
-Nº Motor : 856540
-
-Nº Chasis : MPATFS77HAT100234
-
-I.R.N.V.M. : CHBV. 31-2
-
-Ciudad : Talcahuano.
-
-9.-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D-MAX TH 3.0D 4WD DAB
-
-Año : 2010
-
-Color : Blanco
-
-Nº Motor : 856512
-
-Nº Chasis : MPATFS77HAT100233
-
-I.R.N.V.M. : CKKS. 70-8
-
-Ciudad : Talcahuano.
+9.- ELIMINADO.
 
 10.Vehículo : Station Wagon
 
