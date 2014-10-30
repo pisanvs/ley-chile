@@ -12,7 +12,7 @@ Considerando:
 
 Resolución:
 
-1.- Delégase, en el Director Zonal Centro Norte; en el Director Zonal Norte; en el Director Zonal Centro Sur; en el Director Zonal Sur; sus subrogantes o suplentes, según corresponda, la facultad prevista en el inciso sexto del artículo 161 del DFL Nº 1, de 2005, del Ministerio de Salud, de condonar total o parcialmente, en casos excepcionales y por motivos fundados, la diferencia de cargo del afiliado, por concepto de pago de prestaciones médicas otorgadas en la Modalidad Institucional, en los casos que se presenten en el respectivo territorio de su jurisdicción; respecto del territorio correspondiente a la Región Metropolitana y a la VI Región, esta facultad queda radicada en el Director Nacional.
+1.- Delégase, en el Director Zonal Centro Norte; en el Director Zonal Norte; en el Director Zonal Centro Sur; en el Director Zonal Sur; sus subrogantes o suplentes, según corresponda, la facultad prevista en el inciso sexto del artículo 161 del DFL Nº 1, de 2005, del Ministerio de Salud, de condonar total o parcialmente, en casos excepcionales y por motivos fundados, la diferencia de cargo del afiliado, por concepto de pago de prestaciones médicas otorgadas en la Modalidad Institucional, en los casos que se presenten en el respectivo territorio de su jurisdicción; y en el Jefe del Departamento Gestión Financiera del Seguro, su subrogante o suplente, según corresponda, respecto del territorio correspondiente a la Región Metropolitana y a la VI Región.
 
 2.- Apruébase el siguiente procedimiento con arreglo al cual deberán tramitarse y resolverse las solicitudes de condonación de copagos por prestaciones otorgadas en la Modalidad de Atención Institucional.
 
