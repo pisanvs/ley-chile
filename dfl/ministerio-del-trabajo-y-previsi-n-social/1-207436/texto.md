@@ -592,7 +592,9 @@ Si las partes convinieren un sistema de gratificaciones, éstas no podrán ser i
 
 Los establecimientos mineros, industriales, comerciales o agrícolas, empresas y cualesquiera otros que persigan fines de lucro, y las cooperativas, que estén obligados a llevar libros de contabilidad y que obtengan utilidades o excedentes líquidos en sus giros, tendrán la obligación de gratificar anualmente a sus trabajadores en proporción no inferior al treinta por ciento de dichas utilidades o excedentes. La gratificación de cada trabajador con derecho a ella será determinada en forma proporcional a lo devengado por cada trabajador en el respectivo período anual, incluidos los que no tengan derecho.
 
-Art.48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.
+#### Artículo 48
+
+Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital. Para estos efectos, no se considerarán como parte del capital propio los ajustes que ordenan efectuar los números 8° y 9° del artículo 41 de la referida ley, por disposición del inciso segundo del referido número 8°.
 
 Respecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.
 
@@ -700,7 +702,7 @@ Estos privilegios cubrirán los reajustes, intereses y multas que correspondan a
 
 Para los efectos de lo dispuesto en el número 5 del artículo 2472 del Código Civil, se entiende por remuneraciones, además de las señaladas en el inciso primero del artículo 41, las compensaciones en dinero que corresponda hacer a los trabajadores por feriado anual o descansos no otorgados.
 
-El privilegio por las indemnizaciones legales y convencionales previsto en el número 8 del artículo 2472 del Código Civil, no excederá, respecto de cada beneficiario, de un monto igual a tres ingresos mínimos mensuales por cada año de servicio y fracción superior a seis meses, con un límite de diez años; el saldo, si lo hubiere, será considerado crédito valista. Si hubiere pagos parciales, éstos se imputarán al máximo referido.
+El privilegio por las indemnizaciones legales y convencionales previsto en el número 8 del artículo 2472 del Código Civil, se regirá por lo establecido en dicha norma. Si hubiere pagos parciales, éstos se imputarán al máximo referido.
 
 Sólo gozarán de privilegio estos créditos de los trabajadores que estén devengados a la fecha en que se hagan valer.
 
@@ -835,6 +837,12 @@ No tendrán derecho a feriado los trabajadores de las empresas o establecimiento
 #### Artículo 75
 
 Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
+
+#### Artículo 75 bis
+
+La regla dispuesta en el artículo anterior será igualmente aplicable por los meses de diciembre, enero y febrero a los trabajadores que se hayan desempeñado a lo menos durante seis meses en forma continua como manipuladores de alimentos para empresas que presten los servicios de alimentación en establecimientos de educación parvularia, escolar y preescolar de conformidad con la ley Nº 19.886, y cuyos contratos de trabajo se encontraren vigentes al mes de noviembre.
+
+Asimismo, si el contrato de los trabajadores señalados en el inciso anterior terminare por aplicación de la causal contenida en el inciso primero del artículo 161, el trabajador tendrá derecho, además de la indemnización por años de servicio respectiva, a las remuneraciones correspondientes a la totalidad del plazo que va entre la fecha de terminación y el día anterior al mes de inicio del siguiente año escolar, siempre que el contrato hubiere estado vigente a lo menos por seis meses en forma continua dentro del respectivo año escolar.
 
 #### Artículo 76
 
@@ -2018,6 +2026,40 @@ a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del
 
 b) La obligación de efectuar el aporte tendrá una duración de once años en relación con cada trabajador, plazo que se contará desde el 1º de enero de 1991, o desde la fecha de inicio de la relación laboral, si ésta fuere posterior. El monto de la indemnización quedará determinado por los aportes correspondientes al período respectivo, más la rentabilidad que se haya obtenido de ellos.
 
+#### Artículo 163 bis
+
+El contrato de trabajo terminará en caso que el empleador fuere sometido a un procedimiento concursal de liquidación. Para todos los efectos legales, la fecha de término del contrato de trabajo será la fecha de dictación de la resolución de liquidación. En este caso, se aplicarán las siguientes reglas:
+
+1.- El liquidador deberá comunicar al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato de trabajo, el término de la relación laboral en virtud de la causal señalada en este artículo, adjuntando a dicha comunicación un certificado emitido por la Superintendencia de Insolvencia y Reemprendimiento que deberá indicar el inicio de un procedimiento concursal de liquidación respecto del empleador, así como el tribunal competente, la individualización del proceso y la fecha en que se dictó la resolución de liquidación correspondiente. El liquidador deberá realizar esta comunicación dentro de un plazo no superior a seis días hábiles contado desde la fecha de notificación de la resolución de liquidación por el tribunal que conoce el procedimiento concursal de liquidación. El error u omisión en que se incurra con ocasión de esta comunicación no invalidará el término de la relación laboral en virtud de la causal señalada en este artículo.
+
+Dentro del mismo plazo, el liquidador deberá enviar copia de la comunicación mencionada en el inciso anterior a la respectiva Inspección del Trabajo. Las Inspecciones del Trabajo tendrán un registro de las comunicaciones de término de contrato de trabajo que se les envíen, el que se mantendrá actualizado con las comunicaciones recibidas en los últimos treinta días hábiles.
+
+La Inspección del Trabajo, de oficio o a petición de parte, constatará el cumplimiento de lo establecido en este número. En caso de incumplimiento por parte del liquidador, la Inspección del Trabajo deberá informar a la Superintendencia de Insolvencia y Reemprendimiento, la que podrá sancionar los hechos imputables al liquidador, de conformidad con lo establecido en el artículo 338 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, sin perjuicio de la responsabilidad que le pueda corresponder en virtud del Párrafo 7 del Título IX del Libro Segundo del Código Penal.
+
+Estas normas se aplicarán de forma preferente a lo establecido en el artículo 162 y en ningún caso se producirá el efecto establecido en el inciso quinto de dicho artículo.
+
+2.- El liquidador, en representación del deudor, deberá pagar al trabajador una indemnización en dinero, sustitutiva del aviso previo, equivalente al promedio de las tres últimas remuneraciones mensuales devengadas, si es que las hubiere. En el caso de que existan menos de tres remuneraciones mensuales devengadas, se indemnizará por un monto equivalente al promedio de las últimas dos o, en defecto de lo anterior, el monto a indemnizar equivaldrá a la última remuneración mensual devengada.
+
+3.- Si el contrato de trabajo hubiere estado vigente un año o más, el liquidador, en representación del deudor, deberá pagar al trabajador una indemnización por años de servicio equivalente a aquélla que el empleador estaría obligado a pagar en caso que el contrato terminare por alguna de las causales señaladas en el artículo 161. El monto de esta indemnización se determinará de conformidad a lo establecido en los incisos primero y segundo del artículo 163. Esta indemnización será compatible con la establecida en el número 2 anterior.
+
+4.- No se requerirá solicitar la autorización previa del juez competente respecto de los trabajadores que al momento del término del contrato de trabajo tuvieren fuero.
+
+Con todo, tratándose de trabajadores que estuvieren gozando del fuero maternal señalado en el artículo 201, el liquidador, en representación del deudor, deberá pagar una indemnización equivalente a la última remuneración mensual devengada por cada uno de los meses que restare de fuero. Si el término de contrato ocurriere en virtud de este artículo, mientras el trabajador se encontrare haciendo uso de los descansos y permisos a que se refiere el artículo 198, no se considerarán para el cálculo de esta indemnización las semanas durante las cuales el trabajador tenga derecho a los subsidios derivados de aquéllos. Esta indemnización será compatible con la indemnización por años de servicio que deba pagarse en conformidad al número 3 anterior, y no lo será respecto de aquella indemnización regulada en el número 2 precedente.
+
+5.- El liquidador deberá poner a disposición del trabajador el respectivo finiquito a lo menos diez días antes de la expiración del período de verificación ordinaria de créditos que establece la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+
+El finiquito suscrito por el trabajador se entenderá como antecedente documentario suficiente para justificar un pago administrativo, sin perjuicio de los otros documentos que sirven de fundamento para su pago conforme al artículo 244 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+
+El finiquito suscrito por el trabajador deberá ser autorizado por un Ministro de Fe, sea éste Notario Público o Inspector del Trabajo, aun cuando las cotizaciones previsionales se encuentren impagas. Deberá, además, ser acompañado por el liquidador al Tribunal que conoce del procedimiento concursal de liquidación, dentro de los dos días siguientes a su suscripción. Este finiquito se regirá por las siguientes reglas:
+
+a) Se entenderá como suficiente verificación de los créditos por remuneraciones, asignaciones compensatorias e indemnizaciones que consten en dicho instrumento;
+
+b) Si el trabajador hiciere reserva de acciones al suscribir el finiquito, la verificación o pago administrativo estará limitada a las cantidades aceptadas por el trabajador, y
+
+c) Cualquier estipulación que haga entender que el trabajador renuncia total o parcialmente a sus cotizaciones previsionales se tendrá por no escrita.
+
+Con todo, el liquidador deberá reservar fondos, si los hubiere, respecto de aquellos finiquitos no suscritos por los trabajadores o no acompañados por el liquidador al tribunal que conoce del procedimiento concursal de liquidación dentro del plazo señalado en el párrafo tercero de este número, por un período de treinta días contado desde la fecha en que el correspondiente finiquito fue puesto a disposición del respectivo trabajador.
+
 #### Artículo 164
 
 No obstante lo señalado en el artículo anterior, las partes podrán, a contar del inicio del séptimo año de la relación laboral, sustituir la indemnización que allí se establece por una indemnización a todo evento, esto es, pagadera con motivo de la terminación del contrato de trabajo, cualquiera que sea la causa que la origine, exclusivamente en lo que se refiera al lapso posterior a los primeros seis años de servicios y hasta el término del undécimo año de la relación laboral.
@@ -2106,7 +2148,7 @@ Si el trabajador hubiese invocado la causal de la letra b) o f) del número 1 de
 
 #### Artículo 172
 
-Para los efectos del pago de las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
+Para los efectos del pago de las indemnizaciones a que se refieren los artículos 163 bis,168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
 
 Si se tratare de remuneraciones variables, la indemnización se calculará sobre la base del promedio percibido por el trabajador en los últimos tres meses calendario.
 
@@ -2340,7 +2382,7 @@ M.- El Director del Trabajo podrá, por resolución fundada, ordenar la cancelac
 
 a) por incumplimientos reiterados y graves de la legislación laboral o previsional, o
 
-b) por quiebra de la empresa de servicios transitorios, salvo que se decrete la continuidad de su giro.
+b) por tener la empresa de servicios transitorios la calidad de deudora en un procedimiento concursal de liquidación, salvo que se decrete la continuidad de sus actividades económicas.
 
 Para los efectos de la letra a) precedente, se entenderá que una empresa incurre en infracciones reiteradas cuando ha sido objeto de tres o más sanciones aplicadas por la autoridad administrativa o judicial, como consecuencia del incumplimiento de una o más obligaciones legales, en el plazo de un año. Se considerarán graves todas aquellas infracciones que, atendidos la materia involucrada y el número de trabajadores afectados, perjudiquen notablemente el ejercicio de los derechos establecidos en las leyes laborales, especialmente las infracciones a las normas contenidas en los Capítulos II, V y VI del Título I del LIBRO I de este Código, como asimismo las cometidas a las normas del Título II del LIBRO II del mismo texto legal.
 
