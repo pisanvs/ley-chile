@@ -444,25 +444,7 @@ Destinación : Servicio Nacional de Aduanas
 
 40.- ELIMINADO
 
-41.- Vehículo . Minibús
-
-Marca : Hyundai
-
-Modelo : H1 SVX 2.5
-
-Año : 2006
-
-Color : Blanco
-
-Nº Motor : D4BH5200633
-
-Chasis Nº : KMJWWH7HP6U703197
-
-I.R.N.V.M. : WC.1896-4
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
+41.- ELIMINADO.
 
 42.- Vehículo . Camioneta
 
