@@ -2,7 +2,7 @@ ACUERDO ADOPTADO POR EL CONSEJO DEL BANCO CENTRAL DE CHILE EN SU SESIÓN EXTRAOR
 
 Certifico que el Consejo del Banco Central de Chile, en su Sesión Extraordinaria Nº 1861E, celebrada el 22 de octubre de 2014, adoptó el siguiente acuerdo:
 
-1861E-01-141022 - Retribución del Agente Fiscal por concepto del Fondo de Estabilización Económica y Social (FEES) y del Fondo de Reserva de Pensiones (FRP) para el período comprendido entre el 1º de marzo y el 31 de diciembre de 2015.
+1861E-01-141022 - Retribución del Agente Fiscal por concepto del Fondo de Estabilización Económica y Social (FEES) y del Fondo de Reserva de Pensiones (FRP) para el período comprendido entre el 1º de enero y el 31 de diciembre de 2015.
 
 1. Aceptar la retribución comunicada al Banco mediante oficio Nº 2.014, de fecha 10 de octubre de 2014, del señor Ministro de Hacienda, por concepto de la Agencia Fiscal que se ejercerá durante el período comprendido entre el 1º de enero y el 31 de diciembre de 2015, ascendente a USD 957.404 (novecientos cincuenta y siete mil cuatrocientos cuatro dólares de los Estados Unidos de América) para el caso del Fondo de Estabilización Económica y Social, y a USD 947.984 (novecientos cuarenta y siete mil novecientos ochenta y cuatro dólares de los Estados Unidos de América) en lo concerniente al Fondo de Reserva de Pensiones, aceptada mediante acuerdo Nº 1321-01-070222 de fecha 22 de febrero de 2007, en relación con el decreto supremo Nº 1.383 de 2006, modificado por decreto supremo Nº 1.618, de 2012, ambos del Ministerio de Hacienda, en lo sucesivo "decreto de Agencia".
 
