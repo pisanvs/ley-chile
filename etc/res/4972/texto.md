@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL Y PARCIAL DE LOTES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.972, de fecha 22/10/2014, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 236-0, propiedad consistente en sitio que consta de 22 metros de frente por 50 metros de fondo y que corresponde a una parte de la hijuela Nº 13 del plano de hijuelación de la ex reserva Colimilla Burgos del lugar Llahuallín de la comuna de Padre Las Casas, Rol de avalúo Nº 2.166-11, superficie a expropiar aproximada de 146,2 metros cuadrados, de aparente dominio de la sucesión intestada quedada al fallecimiento de doña Sonia Ester Verdugo Bastías, formada por sus hijos Sergio Andrés y Ester Alison Garrido Verdugo, y la sucesión intestada quedada al fallecimiento de don Remigio Alfredo Garrido Rebolledo, formada por Didier Alonso y Diógeno Alfredo, ambos de apellidos Garrido Fuentealba; por Sergio Andrés y Ester Alison Garrido Verdugo, y don Benjamín Alberto y Joaquín Alonso, ambos Garrido Sánchez, en representación de Armín Omar Garrido Fuentealba. Comisión de peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto; Arturo Osvaldo Cantos Oyarzún, arquitecto, y Julio Hernán Rosas Vega, constructor civil, fijó monto Indemnización Provisional en $ 108.002.501.- según Informe Nº 0236-0, de fecha 17/10/2014, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
