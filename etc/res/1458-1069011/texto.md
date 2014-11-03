@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES QUE ACOGEN REPOSICIONES EN CONTRA DE LA RESOLUCIÓN Nº197 DE 2014
+
+En virtud de lo ordenado por el artículo 58 de la ley Nº 19.880, se informa que desde el 23 de septiembre de 2014 a la fecha se han acogido los siguientes recursos de reposición interpuestos por instituciones incluidas en la Nómina que contiene la resolución Nº 197 de esta Superintendencia de fecha 22 de julio de 2014, las que en consecuencia han quedado excluidas de dicho listado en virtud de los antecedentes que presentan, los que dan cuenta que no cumplen con los requisitos copulativos dispuestos en el artículo Tercero Transitorio de la ley Nº 20.715 para quedar sus operaciones sujetas a la fiscalización de este Organismo.
+
+Jorge Cayazzo González, Superintendente de Bancos e Instituciones Finacieras Subrogante.
