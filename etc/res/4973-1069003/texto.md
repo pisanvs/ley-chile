@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL Y PARCIAL DE LOTES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.973, de fecha 22/10/2014, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Mejoramiento Interconexión Vial Temuco - Padre Las Casas, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 240-0, retazo de sitio de doce y medio metros de frente por cincuenta metros de fondo, que es parte de un retazo de mayor extensión de la hijuela número trece del plano de hijuelación ubicado en Llahuallín, de la comuna de Padre Las Casas, Rol de avalúo Nº 2.166-15, superficie a expropiar aproximada de 71,40 metros cuadrados, de aparente dominio de la sucesión intestada quedada al fallecimiento de Doris Rivas Godoy formada por Genoveva Ruth Contreras Rivas, Juan Exequiel Vega Coronado, Nancy del Pilar Contreras Coronado y Adriana Cristina Contreras Coronado. Comisión de peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto; Arturo Osvaldo Cantos Oyarzún, arquitecto, y Julio Hernán Rosas Vega, constructor civil, fijó monto Indemnización Provisional en $52.032.050.- según Informe Nº 0240-0, de fecha 17/10/2014, pagadero contado.
+
+Director (S). Serviu Región de la Araucanía.
