@@ -56,7 +56,7 @@ En los decretos que se dicten por aplicación de las normas 1.4 y 1.6 al 1.9 pre
 
 1.11 Incrementos o reducciones de transferencias del ítem 24.02 o 33.02, según corresponda, aprobadas en la Ley de Presupuestos, con las modificaciones de ingresos y de gastos que procedan, tanto en la entidad otorgante, como en el organismo receptor.
 
-2. Por decretos del Ministerio de Hacienda, que deberá también suscribir el Ministro del ramo correspondiente, se efectuarán:
+### 2. Sólo por decreto del Ministerio de Hacienda, se efectuarán:
 
 a) TRASPASOS, en Gastos:
 
@@ -83,16 +83,6 @@ b) OTRAS MODIFICACIONES:
 2.10 Ajustes presupuestarios, con reducciones o incrementos, entre subtítulos o ítems de ingresos y ajuste en los gastos, según corresponda.
 
 2.11 Modificaciones de la distribución del aporte fiscal libre entre los diferentes programas del mismo capítulo.
-
-No obstante, por aplicación de las normas señaladas en las letras
-
-- **a)** y
-
-- **b)** precedentes, el subtítulo 21 no podrá ser incrementado ni disminuido, debiendo éste regirse en materia de traspasos por la norma 1.7 de este Título. Asimismo, las disposiciones a que se refieren las letras
-
-- **a)** y
-
-- **b)** tampoco se aplicarán al subtítulo 35, el cual se regirá por las normas 1.2 y 1.3 señaladas en el presente Título, ni a los demás casos que tienen normas específicas en los Títulos I y II del presente decreto.
 
 ### III. PROGRAMAS DE INVERSIÓN REGIONAL DE LOS GOBIERNOS REGIONALES
 
@@ -162,17 +152,15 @@ Incrementos, reducciones y ajustes, de ingresos y gastos.
 
 a) Las normas del presente decreto que se refieren a los ítems comprenden, también, a las asignaciones en que están subdivididos o puedan subdividirse.
 
-b) Los decretos a que se refieren los Títulos I y II, sólo deberán ser firmados por el Ministro de Hacienda. En los casos que se incluyan materias no consideradas en dichos títulos, deberán ser firmados además por el Ministro del Ramo.
+b) Los decretos Ministeriales, a que se refieren las disposiciones precedentes, serán firmados con la fórmula "Por orden del Presidente de la República" y necesitarán la visación de la Dirección de Presupuestos.
 
-c) Los decretos Ministeriales, a que se refieren las disposiciones precedentes, serán firmados con la fórmula "Por orden del Presidente de la República" y necesitarán la visación de la Dirección de Presupuestos.
+c) Los montos a que den lugar las modificaciones presupuestarias deberán incluirse con números enteros, en miles de $ y/o miles de US$, según corresponda.
 
-d) Los montos a que den lugar las modificaciones presupuestarias deberán incluirse con números enteros, en miles de $ y/o miles de US$, según corresponda.
+d) Las normas sobre traspasos a que se refiere el presente decreto podrán efectuarse, asimismo, por incrementos o reducciones presupuestarias.
 
-e) Las normas sobre traspasos a que se refiere el presente decreto podrán efectuarse, asimismo, por incrementos o reducciones presupuestarias.
+e) Los montos considerados en la glosa asociada al subtítulo 21, correspondiente a convenios con personas naturales, no podrán ser incrementados mediante transferencias del Tesoro Público o traspasos del subtítulo 22, salvo en casos debidamente calificados a través de decreto fundado del Ministerio de Hacienda.
 
-f) Los montos considerados en la glosa asociada al subtítulo 21, correspondiente a convenios con personas naturales, no podrán ser incrementados mediante transferencias del Tesoro Público o traspasos del subtítulo 22, salvo en casos debidamente calificados a través de decreto fundado del Ministerio de Hacienda.
-
-g) Las normas de este decreto no serán aplicables cuando contravengan disposiciones fijadas expresamente en la ley Nº 20.713 y en otras normas legales sobre administración financiera y presupuestaria del Estado.
+f) Las normas de este decreto no serán aplicables cuando contravengan disposiciones fijadas expresamente en la ley Nº 20.713 y en otras normas legales sobre administración financiera y presupuestaria del Estado.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
