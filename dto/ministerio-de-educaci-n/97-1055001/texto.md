@@ -28,15 +28,15 @@ a) "Beca Bicentenario" es aquella dirigida a estudiantes de buen rendimiento aca
 
 Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les eximirá de rendir la PSU y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
-Adicionalmente, esta beca estará destinada a aquellos estudiantes que se encuentren en cursos superiores en las instituciones precedentemente descritas, y cumplan los requisitos que se establecen en el artículo 23.
+Adicionalmente, esta beca estará destinada a aquellos estudiantes que se encuentren en cursos superiores en las instituciones precedentemente descritas, y cumplan los requisitos que se establecen en el artículo 24.
 
-b) "Beca Juan Gómez Millas". Es aquella dirigida a estudiantes de buen rendimiento académico egresados de enseñanza media y que se matriculen como alumnos en alguna de las instituciones de educación superior a que se refiere el artículo 52 del DFL (Ed.) Nº 2, de 2010, que tengan el carácter de instituciones autónomas y se encuentren acreditadas institucionalmente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, de conformidad a la ley Nº 20.129. Asimismo, podrán optar a este beneficio los estudiantes de cursos superiores, que cumplan con los requisitos establecidos para esta beca en los artículos 25 y 74, letra c) del presente reglamento.
+b) "Beca Juan Gómez Millas". Es aquella dirigida a estudiantes de buen rendimiento académico egresados de enseñanza media y que se matriculen como alumnos en alguna de las instituciones de educación superior a que se refiere el artículo 52 del DFL (Ed.) Nº 2, de 2010, que tengan el carácter de instituciones autónomas y se encuentren acreditadas institucionalmente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, de conformidad a la ley Nº 20.129. Asimismo, podrán optar a este beneficio los estudiantes de cursos superiores, que cumplan con los requisitos establecidos para esta beca en los artículos 26 y 74, letra c) del presente reglamento.
 
 Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les eximirá de rendir la PSU y se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, se podrá otorgar a estudiantes extranjeros provenientes de América Latina y el Caribe de comprobada necesidad socioeconómica, que se matriculen en las instituciones de educación superior mencionadas anteriormente, que cumplan con los requisitos de admisión relativos a calidad académica asimilables a los puntajes de la Prueba de Selección Universitaria de las universidades chilenas.
 
-c) "Beca Nuevo Milenio". Está dirigida a estudiantes de buen rendimiento académico que se matriculen en primer año, o en cursos superiores que accedan a este beneficio por primera vez, de carreras técnicas de nivel superior y profesionales en instituciones que se encuentren acreditadas de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Tratándose de carreras profesionales, éstas deberán ser impartidas por institutos profesionales y, tratándose de alumnos de cursos superiores que accedan por primera vez a este beneficio, las carreras profesionales deberán encontrarse acreditadas de acuerdo a la citada normativa, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
+c) "Beca Nuevo Milenio". Está dirigida a estudiantes de buen rendimiento académico que se matriculen en primer año, o en cursos superiores que accedan a este beneficio por primera vez, de carreras técnicas de nivel superior y profesionales en instituciones que se encuentren acreditadas de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Tratándose de carreras profesionales, éstas deberán ser impartidas por institutos profesionales.
 
 Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
@@ -48,7 +48,9 @@ e) "Beca Vocación de Profesor". Es aquella dirigida a estudiantes que hayan obt
 
 Asimismo, se podrá otorgar este beneficio a aquellos estudiantes provenientes de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo y que hayan obtenido a lo menos 580 puntos promedio en la PSU de las pruebas de Lenguaje y Comunicación y Matemáticas.
 
-Adicionalmente, esta beca está dirigida a aquellos estudiantes que se encuentren matriculados en el último año de una licenciatura no conducente a alguno de los títulos profesionales señalados en el inciso 2º del artículo 63 del DFL (Ed.) Nº 2, de 2010, y que opten por un ciclo o programa de formación pedagógica elegible para licenciados al año siguiente o subsiguiente, de acuerdo a lo establecido en el artículo 42 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos 2 años, de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el último año de licenciatura y el programa de formación pedagógica de una duración máxima de cuatro semestres.
+Adicionalmente, esta beca está dirigida a aquellos estudiantes que se encuentren matriculados en el último año de una licenciatura y que opten por un ciclo o programa de formación pedagógica elegible para licenciados al año siguiente o subsiguiente, de acuerdo a lo establecido en el artículo 42 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos 2 años, de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el último año de licenciatura y el programa de formación pedagógica de una duración máxima de cuatro semestres.
+
+Por otra parte, considera financiamiento para becas destinadas a quienes posean el grado de licenciado o título profesional, de una carrera de 8 o más semestres, en un área afín a los planes de enseñanza media, cuando opten por un ciclo o programa de formación pedagógica elegible, de acuerdo a lo establecido en el artículo 45 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos 2 años, de conformidad a la Ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el programa de formación pedagógica de una duración máxima de cuatro semestres.
 
 Los beneficiarios de esta beca, una vez obtenido el título profesional, deberán cumplir con la obligación de ejercer su profesión en los establecimientos educacionales determinados en el presente reglamento, en los plazos y formas establecidos en el Título VIII, Párrafo 5º.
 
@@ -126,7 +128,9 @@ h) "Beca Nivelación Académica". Es aquella dirigida a estudiantes meritorios d
 
 Adicionalmente, este programa podrá financiar planes de nivelación de instituciones que incorporen alumnos provenientes de establecimientos respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial, conforme al artículo Nº 64 del DFL Nº 2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370 con las normas no derogadas del DFL Nº 1, de 2005, del Ministerio de Educación. En este caso, los planes serán aprobados por el Ministerio de Educación en un plazo extraordinario, según lo determine la División de Educación Superior de dicha Secretaría de Estado.
 
-i) "Beca de Articulación". Este beneficio se otorgará a estudiantes meritorios, egresados o titulados de carreras técnicas de nivel superior dentro de los dos años precedentes al año de postulación y, que habiendo obtenido un promedio de notas de educación media igual o superior a 5,0 (cinco coma cero), deseen continuar sus estudios en carreras conducentes a títulos profesionales, en instituciones de educación superior acreditadas, conforme a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Para la selección de los postulantes, se considerará el nivel socioeconómico del alumno y su familia, junto a su rendimiento académico.
+i) "Beca de Articulación". Este beneficio se otorgará a estudiantes meritorios, egresados o titulados de carreras técnicas de nivel superior dentro de los cuatro años precedentes al año de postulación y, que habiendo obtenido un promedio de notas de educación media igual o superior a 5,0 (cinco coma cero), deseen continuar sus estudios en carreras conducentes a títulos profesionales, en instituciones de educación superior acreditadas, conforme a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Para la selección de los postulantes, se considerará el nivel socioeconómico del alumno y su familia, junto a su rendimiento académico.
+
+j) Beca de reubicación alumnos Universidad del Mar" (en adelante, "Beca de Reubicación") que se asignará a estudiantes matriculados al 31 de mayo de 2013 en la Universidad del Mar, y que durante el año 2014 se matriculen en Instituciones de educación superior que cuenten con acreditación institucional vigente al 30 de junio de 2013, conforme a la Ley Nº 20.129.
 
 #### Artículo 2º
 
@@ -140,7 +144,7 @@ Para los efectos del presente reglamento, se entenderá por "Arancel de referenc
 
 Por regla general, las becas del presente decreto son incompatibles entre sí, salvo que la suma de los recursos obtenidos por un alumno beneficiario sea inferior a $1.150.000 (un millón ciento cincuenta mil pesos) y esta cifra no sobrepase el arancel real de la carrera.
 
-Se exceptúan de esta norma los beneficiarios de la Beca Nivelación Académica, quienes también podrán obtener cualquier otra beca, con excepción de la Beca de Articulación.
+Se exceptúan de esta norma los beneficiarios de la Beca Nivelación Académica, quienes también podrán obtener cualquier otra beca, con excepción de la Beca de Articulación y de Reubicación.
 
 #### Artículo 4º
 
@@ -168,9 +172,11 @@ Los recursos para financiar las becas señaladas en el artículo 1º, serán dis
 
 Las becas no podrán hacerse efectivas en programas o carreras a distancia o semipresenciales, programas especiales de titulación, ni en programas de postgrados o postítulos y cualquier otro programa o carrera que haya sido informado por la institución de Educación Superior, en el mes de diciembre, como plan especial de estudios en la Oferta Académica vigente al Sistema Nacional de Información de Educación Superior (SIES).
 
+Sin perjuicio de lo señalado anteriormente, la Beca de Reubicación será procedente cuando se trate de alumnos reubicados según las normas del Título XII - A del presente reglamento.
+
 #### Artículo 9º
 
-Los estudiantes podrán obtener la asignación inicial de beneficios, excluidas las renovaciones, dos veces como máximo.
+Los estudiantes podrán obtener la asignación inicial de beneficios, excluidas las renovaciones, dos veces como máximo, con excepción de la Beca de Reubicación.
 
 El alumno que curse simultáneamente dos o más carreras sólo podrá optar al beneficio de la beca en una de ellas.
 
@@ -190,19 +196,21 @@ a) Ser chileno(a).
 
 Se exceptúan aquellos estudiantes extranjeros provenientes de América Latina y el Caribe de comprobada necesidad socioeconómica, que podrán optar a la Beca Juan Gómez Millas, siempre que cumplan con los requisitos académicos establecidos por las respectivas instituciones de Educación Superior para su Proceso de Admisión Especial de Extranjeros.
 
+Asimismo, se exceptúan de este requisito los alumnos que opten por la Beca de Reubicación, siempre que den cumplimiento a los requisitos establecidos en el Título XII-A del presente reglamento.
+
 b) Contar con Licencia de Enseñanza Media.
 
 En el caso de estudiantes que hayan cursado sus estudios de enseñanza media en el extranjero, sólo les será exigible el reconocimiento de estudios.
 
-c) Acreditar que, dadas las condiciones socioeconómicas del postulante y las de su grupo familiar, necesita ayuda para financiar sus estudios. Lo anterior se entiende sin perjuicio de lo dispuesto para las Becas para Estudiantes Hijos de Profesionales de la Educación, Vocación de Profesor y de Reparación en el presente reglamento.
+c) Acreditar que, dadas las condiciones socioeconómicas del postulante y las de su grupo familiar, necesita ayuda para financiar sus estudios. Quedan exceptuados de este requisito los beneficiarios de las Becas Vocación de Profesor, de Reparación y de Reubicación.
 
-d) Demostrar un rendimiento académico satisfactorio, de acuerdo con las normas que se establecen para cada una de las becas, obteniendo el puntaje PSU requerido, en los casos que corresponda.
+d) Demostrar un rendimiento académico satisfactorio, de acuerdo con las normas que se establecen para cada una de las becas, obteniendo el puntaje PSU requerido, en los casos que corresponda, con excepción de la Beca de Reubicación.
 
-e) Matricularse en una institución de educación superior que se encuentre acreditada de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, sin perjuicio de lo establecido para la Beca de Reparación, Beca Hijo de Profesionales de la Educación y la situación excepcional del artículo 3º transitorio del presente reglamento.
+e) Matricularse en una institución de educación superior que se encuentre acreditada de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, sin perjuicio de lo establecido para la Beca de Reparación, Beca Hijo de Profesionales de la Educación, la Beca de Reubicación y la situación excepcional del artículo 3º transitorio del presente reglamento.
 
 #### Artículo 12
 
-Los requisitos objetivos que deban cumplir los estudiantes para la asignación de los beneficios establecidos en el presente reglamento, se aplicarán a los alumnos que ingresen a primer año y a los de cursos superiores. Los estudiantes beneficiarios de años anteriores, estarán sujetos para el solo efecto de los requisitos de renovación y monto de sus becas a la reglamentación vigente al momento de la obtención del beneficio.
+Los requisitos objetivos que deban cumplir los estudiantes para la asignación de los beneficios establecidos en el presente reglamento, se aplicarán a los alumnos que ingresen a primer año y a los de cursos superiores. Los estudiantes beneficiarios de años anteriores, estarán sujetos para el solo efecto de los requisitos de renovación; al cumplimiento de los requisitos académicos establecidos en el reglamento.
 
 #### Artículo 13
 
@@ -226,7 +234,7 @@ En caso que el Ministerio no cuente con las notas del postulante en sus registro
 
 #### Artículo 16
 
-Los alumnos de cursos superiores que no han sido asignatarios de los beneficios reglamentados en este decreto durante el período anterior a la matrícula respectiva, podrán postular a las Becas Bicentenario, Juan Gómez Millas, Nuevo Milenio y la de Hijos de Profesionales de la Educación.
+Los alumnos de cursos superiores que no han sido asignatarios de los beneficios reglamentados en este decreto durante el período anterior a la matrícula respectiva, podrán postular a las Becas Bicentenario, Juan Gómez Millas, Nuevo Milenio, de Reubicación y la de Hijos de Profesionales de la Educación.
 
 En estos casos, además de lo dispuesto en el artículo 11 del presente reglamento y las condiciones establecidas respecto de cada una de las becas, deberán cumplir con los siguientes requisitos:
 
@@ -238,9 +246,11 @@ En estos casos, además de lo dispuesto en el artículo 11 del presente reglamen
 
 4. Cumplir con el avance académico establecido en el artículo 74.
 
+Tratándose de la Beca de Reubicación, no se aplicarán estos requisitos.
+
 #### Artículo 17
 
-Para los efectos de acceder a las becas de que trata el presente reglamento, los postulantes no podrán contar previamente con título técnico de nivel superior o profesional. Lo anterior, es sin perjuicio de lo dispuesto en el Título XII, a propósito de la Beca de Articulación.
+Para los efectos de acceder a las becas de que trata el presente reglamento, los postulantes no podrán contar previamente con título técnico de nivel superior o profesional. Sin embargo, se exceptúan de esta restricción los postulantes a las Becas de Articulación, Vocación de Profesor y de Reubicación.
 
 ## Título III
 
@@ -250,7 +260,7 @@ Del Procedimiento de Postulación
 
 La postulación a las becas señaladas en el artículo 1º del presente reglamento, tanto para los estudiantes que ingresan como alumnos nuevos, como para estudiantes de cursos superiores que postulan por primera vez a los beneficios, será el siguiente:
 
-1. El procedimiento de postulación a las becas, se realizará electrónicamente a través del "FUAS", dispuesto a través de la página web www.becasycreditos.cl. Posteriormente, el postulante deberá entregar los antecedentes que justifiquen lo declarado al momento de su postulación en la institución de educación superior donde haga efectiva su matrícula, en los casos que corresponda.
+1. El procedimiento de postulación a las becas, se realizará electrónicamente a través del "FUAS", dispuesto a través de la página web www.becasycreditos.cl. Posteriormente, el postulante deberá entregar los antecedentes que justifiquen lo declarado al momento de su postulación en la institución de educación superior donde haga efectiva su matrícula, en los casos que corresponda. Para aquellas becas que no requieren acreditar una situación socioeconómica se dispondrá de un formulario específico para la postulación, en el sitio web señalado.
 
 2. El postulante deberá acreditar su situación de necesidad socioeconómica mediante el FUAS. El Formulario Único de Acreditación Socioeconómica será considerado como única fuente válida de información respecto a las diferente etapas que contempla el proceso de postulación a las becas, siendo responsabilidad del postulante informarse sobre las fechas del calendario de postulación.
 
@@ -262,13 +272,15 @@ La postulación a las becas señaladas en el artículo 1º del presente reglamen
 
 6. El postulante deberá aceptar los "términos y condiciones" establecidos por el Ministerio de Educación, tanto para el proceso de postulación, como para acceder al formulario de postulación (FUAS).
 
-7. Para todos los efectos, se considerará que la postulación finaliza con la presentación de los antecedentes socioeconómicos que respaldan lo declarado en el FUAS, documentos que deben ser presentados en la Institución de Educación Superior donde se encuentre matriculado el postulante, a excepción de lo dispuesto a propósito de las Becas de Estudiantes para Hijos de Profesionales de la Educación, Vocación de Profesor y de Reparación.
+7. Para todos los efectos, se considerará que la postulación finaliza con la presentación de los antecedentes socioeconómicos que respaldan lo declarado en el FUAS, documentos que deben ser presentados en la Institución de Educación Superior donde se encuentre matriculado el postulante, a excepción de lo dispuesto a propósito de las Becas de Estudiantes para Hijos de Profesionales de la Educación, Vocación de Profesor, de Reparación y de Reubicación.
 
 #### Artículo 19
 
 Las instituciones de educación superior deberán recibir los antecedentes socioeconómicos que los postulantes preseleccionados, que tengan obligación de acreditarse socioeconómicamente, entreguen al momento de matricularse y estarán obligadas a mantenerlos en sus archivos por un período no inferior a la duración real de la carrera.
 
 Además, todas las instituciones de educación superior deberán acreditar la condición socioeconómica de cada postulante cuando corresponda, mediante la revisión de los antecedentes mínimos solicitados a éste durante el proceso de matrícula, según procedimiento que defina cada año para estos efectos el Ministerio de Educación. Junto con lo anterior, las instituciones estarán facultadas para solicitar documentación adicional que permita comprobar y validar la situación socioeconómica del grupo familiar del postulante.
+
+Adicionalmente, el Ministerio de Educación podrá verificar la veracidad de la información proporcionada por los postulantes, solicitando información a entidades públicas o privadas.
 
 #### Artículo 20
 
@@ -320,55 +332,15 @@ Para optar a la Beca Bicentenario el postulante deberá cumplir, además de los 
 
 2. Pertenecer al primer, segundo o tercer quintil de menores ingresos de la población del país.
 
-3. Tener un buen rendimiento académico. Para determinar esta condición, se debe distinguir:
+3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que por primera vez postulan a esta beca, deberán cumplir el siguiente requisito relacionado con el puntaje PSU obtenido según el quintil de ingreso per cápita a que pertenezca el estudiante:
 
-a) Postulantes que ingresan a primer año: según el
+- Si pertenece al primer quintil, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
 
-quintil de ingreso per cápita a que pertenezca
+- Si pertenece al segundo quintil, deberán haber obtenido en la Prueba de Selección Universitaria, un puntaje promedio igual o superior a 525 puntos.
 
-el estudiante.
+- Si pertenece al tercer quintil, deberán haber obtenido en la Prueba de Selección Universitaria, un puntaje promedio igual o superior a 550 puntos.
 
-- Si pertenece al primer quintil, deberán haber
-
-obtenido en la Prueba de Selección Universitaria
-
-un puntaje promedio igual o superior a 500 puntos.
-
-- Si pertenece al segundo quintil, deberán haber
-
-obtenido en la Prueba de Selección Universitaria,
-
-un puntaje promedio igual o superior a 525 puntos.
-
-- Si pertenece al tercer quintil, deberán haber
-
-obtenido en la Prueba de Selección Universitaria,
-
-un puntaje promedio igual o superior a 550 puntos.
-
-b) Postulantes de cursos superiores: haber obtenido en
-
-la Prueba de Selección Universitaria, un puntaje
-
-promedio igual o superior a 550 puntos.
-
-c) Se exceptuarán de rendir la PSU aquellos postulantes
-
-en situación de discapacidad, según certificado
-
-vigente al 31 de diciembre del año anterior al
-
-proceso de asignación de becas respectivo. En su
-
-reemplazo, se les exigirá tener un promedio de
-
-notas de enseñanza media igual o superior a 5,0
-
-(cinco coma cero). Para estos efectos, se podrá
-
-otorgar el número de becas que establezca la Ley de
-
-Presupuestos de cada año.
+Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año
 
 #### Artículo 25
 
@@ -386,31 +358,13 @@ Para optar a la Beca Juan Gómez Millas, además de los requisitos señalados en
 
 2. Pertenecer al primer, segundo o tercer quintil de menores ingresos de la población del país.
 
-3. Tener buen rendimiento académico, en el siguiente sentido:
+3. Tener buen rendimiento académico. Para determinar esta condición, los alumnos que por primera vez postulan a esta beca, deberán cumplir el siguiente requisito relacionado con el puntaje PSU obtenido según el quintil de ingreso per cápita a que pertenezca el estudiante:
 
-a) Postulantes que ingresan a primer año:
+- Si pertenece al primer quintil, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos. Si pertenece al segundo quintil, deberán haber obtenido en la Prueba de Selección Universitaria, un puntaje promedio igual o superior a 525 puntos.
 
-- Si pertenece al primer quintil, debe haber
+- Si pertenece al tercer quintil, deberán haber obtenido en la Prueba de Selección Universitaria, un puntaje promedio igual o superior a 550 puntos.
 
-obtenido en la Prueba de Selección Universitaria
-
-un puntaje promedio igual o superior a 500 puntos.
-
-- Si pertenece al segundo quintil, debe haber
-
-obtenido en la Prueba de Selección Universitaria,
-
-un puntaje promedio igual o superior a 525 puntos.
-
-- Si pertenece al tercer quintil, debe haber
-
-obtenido en la Prueba de Selección Universitaria,
-
-un puntaje promedio igual o superior a 550 puntos.
-
-b) Postulantes de cursos superiores: haber obtenido en la Prueba de Selección Universitaria con que ingresó a la institución, un puntaje promedio igual o superior a 550 puntos, entre la prueba de matemáticas y lenguaje y comunicación.
-
-Se exceptuarán de este requisito aquellos postulantes con discapacidad, con certificado acreditativo vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5.0. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
+Se exceptuarán de este requisito aquellos postulantes con discapacidad, con certificado otorgado por el Servicio de Registro Civil e Identificación al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5.0. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
 Asimismo, no les será aplicable este requisito a aquellos estudiantes extranjeros provenientes de América Latina y el Caribe, de comprobada necesidad socioeconómica que se matriculen en alguna de las instituciones de educación superior mencionadas en el numeral 1º, y que cumplan con los requisitos de admisión relativos a calidad académica asimilable a los puntajes de la Prueba de Selección Universitaria de las universidades chilenas. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
@@ -422,7 +376,7 @@ Se entenderá que el alumno se encuentra en una "situación de comprobada necesi
 
 #### Artículo 28
 
-La beca cubrirá, como máximo, el valor del arancel de referencia de la respectiva carrera, con un tope anual de $1.150.000 (un millón ciento cincuenta mil pesos).
+La beca cubrirá, como máximo, el valor del arancel real de la respectiva carrera, con un tope anual de $1.150.000 (un millón ciento cincuenta mil pesos).
 
 ## Título VI
 
@@ -464,7 +418,7 @@ un promedio de notas de enseñanza media igual o
 
 superior a cinco coma cero (5.0.).
 
-d) Si se trata de carreras profesionales, éstas deberán ser impartidas por Institutos Profesionales y, en el caso de los postulantes de cursos superiores que optan por primera vez al beneficio, además dichas carreras deberán estar acreditadas de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
+d) Si se trata de carreras profesionales, éstas deberán ser impartidas por Institutos Profesionales.
 
 La Ley de Presupuestos de cada año establecerá el número de cupos disponibles para alumnos en situación de discapacidad.
 
@@ -532,13 +486,17 @@ Generalidades
 
 Se entenderá por carreras de pedagogía, para los efectos del presente decreto, aquellas que otorguen el título profesional de profesor/a o educador/a, conforme a lo dispuesto en el artículo 63 del DFL Nº 2, de 2010, del Ministerio de Educación y en el artículo 2º de la ley 19.070.
 
+Asimismo, se entenderá por áreas afines a los planes de enseñanza media todas las asignaturas y sectores de aprendizaje que se imparten en dicho nivel, según lo establecido por las bases curriculares vigentes al momento de la postulación, tanto de enseñanza media científico humanista, como de técnico profesional.
+
 #### Artículo 37
 
 Podrán postular a la Beca Vocación de Profesor, en los términos en que ha sido definida en el artículo 1º del presente reglamento:
 
 a) Los estudiantes que se matriculen por primera vez como alumnos de primer año en carreras de pedagogía elegibles, en los términos del Párrafo 2º del presente Título.
 
-b) Los estudiantes que cursen el último año de una carrera de licenciatura no conducente a alguno de los títulos profesionales, según el artículo 63 del DFL Nº 2 (Ed.) de 2010, y que se matriculen en un programa o ciclo de formación pedagógica elegible para licenciados. Esta beca se otorgará por el último año de licenciatura y el período que comprenda la malla curricular del programa o ciclo de formación pedagógica que haya sido informado como carrera elegible por la institución en el proceso de oferta académica correspondiente al año anterior al proceso, con un máximo de cuatro semestres. Para postular a esta beca, los estudiantes de esta clase de licenciaturas deberán cumplir los requisitos señalados en el artículo 44 del presente reglamento.
+b) Los estudiantes que cursen el último año de una carrera de licenciatura que se matriculen en un programa o ciclo de formación pedagógica elegible para licenciados. Esta beca se otorgará por el último año de licenciatura y el período que comprenda la malla curricular del programa o ciclo de formación pedagógica que haya sido informado como carrera elegible por la institución en el proceso de oferta académica correspondiente al año anterior al proceso, con un máximo de cuatro semestres. Para postular a esta beca, los estudiantes de esta clase de licenciaturas deberán cumplir los requisitos señalados en el artículo 44 del presente reglamento.
+
+c) Los licenciados y/o profesionales, de una carrera de 8 o más semestres, en áreas afines a los planes de enseñanza media y que se matriculen en un programa o ciclo de formación pedagógica elegible.
 
 #### Artículo 38
 
@@ -562,13 +520,13 @@ De la Elegibilidad de Carreras de Pedagogía. Sólo serán elegibles para hacer 
 
 3. Debe ser declarada por la institución en la oferta académica del año correspondiente como carrera elegible en todas sus sedes, modalidades y jornadas;
 
-4. Que, al menos, el 85% de los matriculados como estudiantes de primer año en la carrera, hayan obtenido un puntaje mínimo de 500 puntos promedio en la Prueba de Selección Universitaria. De este modo, se aceptará hasta un máximo del 15% de estudiantes de cada carrera elegible que ingresen teniendo un puntaje promedio en la PSU inferior a 500 puntos, o bien, sin PSU rendida, bajo las condiciones de admisión que la propia institución establezca. Para efectos de dicho cálculo, se considerarán las tres generaciones ingresadas a la carrera con anterioridad al proceso de admisión. Por tanto, la limitación del 15% de los alumnos que ingresan a la institución con un puntaje inferior a 500 puntos promedio PSU, se aplicará incluso tratándose de estudiantes que ingresan a cursos superiores.
+4. Que, al menos, el 85% de los matriculados como estudiantes de primer año en la carrera, hayan obtenido un puntaje mínimo de 500 puntos promedio en la Prueba de Selección Universitaria. De este modo, se aceptará hasta un máximo del 15% de estudiantes de cada carrera elegible que ingresen teniendo un puntaje promedio en la PSU inferior a 500 puntos, o bien, sin PSU rendida, bajo las condiciones de admisión que la propia institución establezca. Para efectos de dicho cálculo, se considerará la generación ingresada a la carrera con anterioridad al proceso de admisión inmediatamente anterior.
 
 5. La institución que la imparte debe comprometerse por escrito a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional al arancel de referencia y matrícula, establecido anualmente para la carrera por el Ministerio de Educación, de conformidad a lo establecido en el artículo 47 del presente Reglamento.
 
 #### Artículo 41
 
-Para dar cumplimiento al requisito del puntaje de corte indicado en el numeral 4 del artículo anterior, las Instituciones de Educación Superior enviarán a más tardar el 30 de septiembre de cada año, la información de sus matriculados al Ministerio de Educación. En caso que la institución no entregue dicha información íntegramente o si de la revisión efectuada se detecta que en una o más carreras no se respetó el requisito de puntaje de corte establecido en el artículo anterior, dicha(s) carrera(s) no podrá(n) ser elegible (s) durante los próximos dos procesos de asignación de la Beca Vocación de Profesor.
+Para dar cumplimiento al requisito del puntaje de corte indicado en el numeral 4 del artículo anterior, las Instituciones de Educación Superior enviarán a más tardar el 30 de septiembre de cada año, la información de sus matriculados al Ministerio de Educación. En caso que la institución no entregue dicha información íntegramente o si de la revisión efectuada se detecta que en una o más carreras no se respetó el requisito de puntaje de corte establecido en el artículo anterior, dicha(s) carrera(s) no podrá(n) ser elegible (s) durante el próximo proceso de asignación de la Beca Vocación de Profesor.
 
 Podrán quedar exentos del cálculo de puntaje de corte señalado en el inciso anterior, aquellos alumnos provenientes de instituciones respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial conforme al artículo 64 del DFL Nº 2, de 2009, de Educación, en la medida que la institución receptora haya suscrito convenios con el Ministerio de Educación a fin de ofrecer alternativas de continuidad de estudios para los alumnos provenientes de dichas instituciones.
 
@@ -602,15 +560,21 @@ b) Haber obtenido un promedio de notas de enseñanza media que se encuentre en e
 
 Respecto de los postulantes señalados en el literal b) del artículo 37, del presente instrumento, deberán cumplir con los siguientes requisitos:
 
-a) Tener la condición de alumno regular y estar matriculado para el año de postulación a la beca, en el último año de una licenciatura -según información entregada por la institución de educación superior donde cursa sus estudios- no conducente a alguno de los títulos profesionales que indica el inciso 2º del artículo 63 del DFL Nº 2 (Ed.) del 2010.
+a) Tener la condición de alumno regular y estar matriculado para el año de postulación a la beca, en el último año de una licenciatura -según información entregada por la institución de educación superior donde cursa sus estudios-.
 
 b) Haber obtenido a lo menos 600 puntos promedio en la Prueba de Selección Universitaria correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
 
-c) Tener un avance curricular mínimo del 70% de la carrera, considerando un plazo máximo de cuatro (4) años contados desde la fecha de ingreso a la licenciatura no conducente a alguno de los títulos profesionales que indica el inciso 2º del artículo 63 del DFL Nº 2 (Ed.) del 2010.
+c) Tener un avance curricular mínimo del 70% de la carrera, considerando un plazo máximo de cuatro (4) años contados desde la fecha de ingreso a la licenciatura.
 
 #### Artículo 45
 
-La postulación a la beca para ambos casos del artículo 37, se realizará electrónicamente a través de la página web www.becavocaciondeprofesor.cl y de acuerdo a lo dispuesto en el Título III de este reglamento.
+Los postulantes a los cupos dispuestos para la modalidad de la letra c) del referido artículo 37, deberán cumplir los siguientes requisitos:
+
+1. Tener el grado de licenciado o título profesional, de una carrera de 8 o más semestres, en un área afín a los planes de enseñanza media.
+
+2. Matricularse en una Institución de Educación Superior que se encuentre acreditada institucionalmente, por a lo menos dos (2) años, de conformidad a lo dispuesto en la Ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, para estudiar Programas o ciclos de formación en pedagogía que dicha institución declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
+
+3. La institución que la imparte debe comprometerse por escrito a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional al arancel de referencia y matrícula, establecido anualmente para la carrera por el Ministerio de Educación, de conformidad a lo establecido en el artículo 48 del presente Reglamento. La postulación a la beca para todos los casos del artículo 37, se realizará electrónicamente a través de la página web www.becavocaciondeprofesor.cl y de acuerdo a lo dispuesto en el Título III de este reglamento.
 
 #### Artículo 46
 
@@ -632,9 +596,9 @@ Respecto de los postulantes señalados en la letra a) del artículo 37, los bene
 
 #### Artículo 48
 
-Respecto de los postulantes señalados en la letra b) del artículo 37, los beneficios se determinarán de acuerdo a los siguientes criterios:
+Respecto de los postulantes señalados en las letras b) y c) del artículo 37, los beneficios se determinarán de acuerdo a los siguientes criterios:
 
-1. La beca cubrirá el arancel real y la matrícula correspondiente tanto para el último año de Licenciatura, como para el período que comprenda la malla curricular del programa o ciclo de formación pedagógica, según la duración de la carrera establecida en la oferta académica correspondiente al año de su postulación, la que no podrá superar un máximo de 4 semestres.
+1. En el caso de la letra b), la beca cubrirá el arancel real y la matrícula correspondiente tanto para el último año de Licenciatura, como para el período que comprenda la malla curricular del programa o ciclo de formación pedagógica, según la duración de la carrera establecida en la oferta académica correspondiente al año de su postulación. En el caso de la letra c), la beca cubrirá el arancel real y la matrícula del programa o ciclo de formación pedagógica, según la duración establecida en la oferta académica correspondiente al año de su postulación. En ambos casos, sólo se financiará el ciclo pedagógico por un máximo de 4 (cuatro) semestres, debiendo costear el alumno el exceso si el programa fuese de mayor duración.
 
 2. Se considerará como arancel y matrícula real, el valor de la beca del año anterior, reajustado conforme a la variación que registre el Índice de Precios al Consumidor del mismo año.
 
@@ -668,7 +632,7 @@ Todo lo anterior, deberá cumplirse dentro de un plazo máximo de 12 años conta
 
 #### Artículo 52
 
-Los beneficiarios de la Beca Vocación de Profesor de acuerdo a lo establecido en la letra b) del artículo 37, deberán obtener el título profesional de Profesor/a y ejercer dicha profesión trabajando en un establecimiento educacional regido por el DFL (Ed.) Nº 2 de 1998 y/o por el decreto ley (Ed.) Nº 3.166, de 1980, por a lo menos la cantidad de años equivalentes a la duración regular del ciclo o programa de formación pedagógico (sin considerar la licenciatura), con una jornada semanal mínima de 30 horas lectivas, o su equivalente. En el caso que el beneficiario realice esta labor en los establecimientos mencionados que se encuentren en regiones distintas a la Región Metropolitana, podrán disminuir su obligación de retribución en un máximo de 6 meses, si el ciclo pedagógico consta de dos semestres, o un año, si el ciclo pedagógico consta de tres o cuatro semestres.
+Los beneficiarios de la Beca Vocación de Profesor de acuerdo a lo establecido en las letras b) y c) del artículo 37, deberán obtener el título profesional de Profesor/a y ejercer dicha profesión trabajando en un establecimiento educacional regido por el DFL (Ed.) Nº 2 de 1998 y/o por el decreto ley (Ed.) Nº 3.166, de 1980, por a lo menos la cantidad de años equivalentes a la duración regular del ciclo o programa de formación pedagógico (sin considerar la licenciatura), con una jornada semanal mínima de 30 horas lectivas, o su equivalente. En el caso que el beneficiario realice esta labor en los establecimientos mencionados que se encuentren en regiones distintas a la Región Metropolitana, podrán disminuir su obligación de retribución en un máximo de 6 meses, si el ciclo pedagógico consta de dos semestres, o un año, si el ciclo pedagógico consta de tres o cuatro semestres.
 
 En aquellas áreas con menor demanda curricular, podrá convenirse entre el beneficiario y el Ministerio de Educación una cantidad de horas semanales lectivas menor a la de 30 horas, con el objeto de dar cumplimiento efectivo a la obligación.
 
@@ -752,7 +716,7 @@ Las becas que se otorguen tendrán por objeto cubrir el valor del arancel y matr
 
 #### Artículo 61
 
-En el caso de los estudiantes que postulen con posterioridad al primer año de carrera, se les otorgará la beca regulada por este título, sólo por el tiempo que reste para completar la malla curricular, contado desde el año de ingreso a la carrera y con un máximo de dos semestres de suspensión durante la carrera previo a la postulación, según lo dispuesto en el artículo 80. La duración de la carrera será acreditada según información entregada por la respectiva institución en la oferta académica del año correspondiente.
+En el caso de los estudiantes que postulen con posterioridad al primer año de carrera, se les otorgará la beca regulada por este título, sólo por el tiempo que reste para completar la malla curricular, contado desde el año de ingreso a la carrera y con un máximo de dos semestres de suspensión durante la carrera previo a la postulación, según lo dispuesto en el artículo 79. La duración de la carrera será acreditada según información entregada por la respectiva institución en la oferta académica del año correspondiente.
 
 #### Artículo 62
 
@@ -818,7 +782,7 @@ Para optar a la Beca de Articulación, además de los requisitos señalados en e
 
 3. Haber obtenido en la enseñanza media un promedio de notas igual o superior a cinco coma cero (5,0).
 
-4. Haber egresado o encontrarse titulado de carreras técnicas de nivel superior, dentro de los dos (2) años precedentes al año en que se hará efectiva la matrícula.
+4. Haber egresado o encontrarse titulado de carreras técnicas de nivel superior, dentro de los cuatro (4) años precedentes al año en que se hará efectiva la matrícula.
 
 #### Artículo 70
 
@@ -838,6 +802,34 @@ Se utilizarán como criterios de asignación del beneficio el nivel socioeconóm
 
 La beca cubrirá, como máximo, el valor del arancel de la respectiva carrera, con un tope anual de $750.000 (setecientos cincuenta mil pesos).
 
+## Título XII — A
+
+De la Beca de Reubicación
+
+#### Artículo 72 bis
+
+La Beca de Reubicación se asignará a estudiantes matriculados al 31 de mayo de 2013 en la Universidad del Mar, y que durante el año 2014 se matriculen en Instituciones de educación superior que cuenten con acreditación institucional vigente al 30 de junio de 2013, conforme a la Ley Nº 20.129.
+
+#### Artículo 72 ter
+
+Los requisitos específicos para acceder a este beneficio, junto con los establecidos en el artículo 11 del presente reglamento, son los siguientes:
+
+1) Tener matrícula vigente al 31 de mayo de 2013 en la Universidad del Mar, lo que se acreditará a través de las bases de datos con que cuenta el Ministerio de Educación, y subsidiariamente, a través de un documento presentado por el mismo alumno que dé cuenta de encontrarse matriculado a esa época.
+
+2) Matricularse en alguna Institución de educación superior con acreditación institucional vigente al 30 de junio de 2013, conforme a la Ley Nº 20.129.
+
+#### Artículo 72 quáter
+
+La beca considera el financiamiento a partir del año 2014 de los estudios que curse el estudiante al momento de su postulación, cubriendo como máximo el valor del arancel de referencia de la respectiva carrera.
+
+Sin perjuicio de lo dispuesto en el artículo 8 del presente reglamento, la Beca de Reubicación podrá asignarse a alumnos que cursen planes especiales de nivelación u otro tipo de programa que haya dispuesto la institución en que se reubicaron como pre requisito para acceder a la continuidad de estudios. En estos casos, el financiamiento cubrirá como máximo el arancel de referencia de la carrera a la que ingresará el estudiante una vez aprobado el plan o programa antes descrito, y en cuanto a su financiamiento, será aplicable el artículo 5º del presente reglamento, ya que se considerarán equivalentes a un programa de formación inicial.
+
+Asimismo, se asignará a alumnos reubicados en virtud de un convenio de colaboración académica y movilidad estudiantil celebrado por el Ministerio de Educación.
+
+#### Artículo 72
+
+quinquies.- Este beneficio será renovable en las condiciones que establece el presente reglamento, y se prolongará por la duración regular de la carrera que curse al momento de la asignación. En el caso de los estudiantes que postulen con posterioridad al primer año de carrera, o a quienes se les hayan convalidado estudios previos, se les otorgará la beca regulada por este título, sólo por el tiempo que reste para completar la malla curricular, excluyendo procesos de titulación y práctica, en aquellos casos en que no estén incluidos en la malla curricular.
+
 ## Título XIII
 
 De la Renovación del Beneficio
@@ -852,15 +844,11 @@ Los requisitos que deberán cumplir los beneficiarios para renovar las becas a q
 
 a) Mantener la condición de alumno regular de la carrera e institución de educación superior en la que fue otorgado el beneficio o en la cual el Ministerio de Educación aprobó el cambio. Las instituciones de educación superior deberán informar cada año, a la División de Educación Superior del Ministerio de Educación, la nómina que acredita la matrícula en la respectiva institución en los plazos establecidos por la División de Educación Superior.
 
-b) Tener una condición socioeconómica que justifique la renovación del beneficio, lo cual será evaluado según el procedimiento que defina para estos efectos el Ministerio de Educación. Este requisito no será exigible en el caso de aquellas becas que no requieren acreditar nivel socioeconómico para su obtención.
+b) Haber aprobado, a lo menos, el 60% de las asignaturas inscritas durante el primer año académico. Para los cursos superiores, deberá tener aprobado el 70% de las asignaturas inscritas en el año anterior. En el caso de la Beca de Reubicación, este requisito no será exigible.
 
-c) Haber aprobado, a lo menos, el 60% de las asignaturas inscritas durante el primer año académico. Para los cursos superiores, deberá tener aprobado el 70% de las asignaturas inscritas en el año anterior.
+c) En el caso de alumnos renovantes a quienes se asignó la beca del cupo especial para estudiantes con discapacidad, se exigirá como mínimo el 50% de aprobación sobre las asignaturas inscritas del año anterior. El mismo porcentaje se exigirá en caso de la Beca de Reubicación.
 
-d) De manera excepcional, en el caso de estudiantes no videntes cuya discapacidad visual sea igual o mayor al 70%, acreditada mediante certificado vigente, se exigirá, a lo menos, el 50% de aprobación sobre las asignaturas inscritas del año anterior. La misma excepción se aplicará para aquellos alumnos renovantes a quienes se asignó la beca del cupo especial para estudiantes con discapacidad.
-
-En el caso de alumnos renovantes que obtuvieron el beneficio en años anteriores, deberán mantener los requisitos de otorgamiento establecidos en la Ley de Presupuestos y el Reglamento de Becas del año de obtención respectivo.
-
-La beca será renovada año a año por un periodo máximo igual a la duración de la carrera informada por la Institución de Educación Superior al Ministerio de Educación según la oferta académica respectiva.
+La beca será renovada año a año por un período máximo igual a la duración de la carrera informada por la Institución de Educación Superior al Ministerio de Educación según la oferta académica respectiva.
 
 ## Título XIV
 
@@ -990,11 +978,19 @@ b) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba
 
 c) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba de Selección Universitaria (PSU) mayor o igual a 720 (setecientos veinte) puntos, entre las pruebas de Lenguaje y Comunicación y Matemáticas.".
 
-Tercero: Para los efectos del otorgamiento en el proceso de asignación 2013 de la Beca Nuevo Milenio, antes del 31 de junio de 2013, mediante resolución fundada, el Ministro de Educación podrá eximir por una sola vez, y sólo durante el año 2013, de la exigencia de la acreditación institucional requerida, a las instituciones que justificadamente así lo soliciten.
+Tercero: Para los efectos del otorgamiento en el proceso de asignación 2014 de la Beca Nuevo Milenio, antes del 30 de marzo de 2014, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante el año 2014 de la exigencia de la acreditación institucional señalada, a aquellas instituciones que, durante el año 2013, no posean una tasa de deserción de primer año superior a un 50% y que se encuentren en alguna de las siguientes situaciones:
+
+i. Que antes del 31 de enero de 2014 hayan ingresado el informe de autoevaluación institucional a la Comisión Nacional de Acreditación.
+
+ii. Que hayan recibido recursos en el marco de la asignación Fortalecimiento de la calidad de la Educación Técnica y Profesional del año 2012 y hubieren dado cabal cumplimiento a los compromisos adquiridos en los respectivos convenios.
+
+iii. Que se trate de centros de formación técnica e institutos profesionales que se encuentren sujetos a los sistemas de examinación, de supervisión o de licenciamiento. En el caso de las instituciones que se encuentren sujetas al sistema de licenciamiento ante el Consejo Nacional de Educación, se requerirá además un informe favorable emitido por dicho organismo.
 
 Cuarto: El Ministerio de Educación podrá firmar convenios con aquellas instituciones que incorporen alumnos provenientes de instituciones respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial, conforme al artículo Nº 64 decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370 con las normas no derogadas del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Educación, en los cuales se podrá exceptuar a estos alumnos en la ponderación del 85% indicado en el artículo 40, en relación con la elegibilidad de las instituciones para hacer efectiva la Beca Vocación de Profesor.
 
-Quinto: Vigencia. El presente reglamento iniciará su vigencia a contar de su total tramitación, y no será aplicable a los alumnos que se encuentren con un proceso de postulación vigente durante 2013, siendo aplicable en estos casos el decreto Nº 116, de 2012.
+#### Artículo Quinto
+
+Transitorio.- Derogado.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Harald Beyer Burgos, Ministro de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
