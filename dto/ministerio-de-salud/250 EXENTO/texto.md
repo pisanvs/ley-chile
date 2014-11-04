@@ -30,6 +30,14 @@ Rut: 6.714.897-5
 
 Directora del Instituto de Geriatría.
 
+Cuarto Orden de Subrogancia
+
+Dr. Marcos Guillermo Vergara Iturriaga
+
+Rut: 7.403.542-6.
+
+Director Instituto de Neurocirugía Dr. Asenjo.
+
 2º Declárase que el Director subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Helia Molina Milman, Ministra de Salud.
