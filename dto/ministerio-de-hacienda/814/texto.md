@@ -14,7 +14,7 @@ La identificación señalada en el artículo anterior será aprobada a nivel de 
 
 #### Artículo 3º
 
-Las asignaciones especiales serán aprobadas mediante decreto del Ministerio de Hacienda, los que se ajustarán a lo establecido en el artículo 70 del decreto ley Nº 1.263, de 1975, y llevarán, además, la firma del Ministro del ramo respectivo.
+Las asignaciones especiales serán aprobadas mediante decreto del Ministerio de Hacienda, los que se ajustarán a lo establecido en el artículo 70 del decreto ley Nº 1.263, de 1975.
 
 No obstante lo anterior, las asignaciones especiales correspondientes a los presupuestos de los Gobiernos Regionales sancionados por la administración regional respectiva, serán aprobadas mediante resolución de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, visada por la Dirección de Presupuestos.
 
