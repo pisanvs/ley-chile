@@ -122,6 +122,8 @@ Este beneficio sólo será compatible con el regulado en el resuelvo 8.2.
 
 Con posterioridad a la selección, el Serviu podrá asignar beneficios a los propietarios y/o residentes de departamentos ubicados en UMP seleccionadas que inicialmente no adhirieron al programa, pero que posterior a la selección decidieron participar de él.
 
+8.5. Los permutantes recibirán UF 10 para solventar gastos de escrituración e inscripción.
+
 ### 9. Obligación de entrega de los departamentos desocupados
 
 En cualquier caso, los departamentos de la UMP seleccionada deberán ser entregados al Serviu libre de todo ocupante y sin deudas de servicios domiciliarios en la fecha que éste lo indique, lo que será informado al delegado respectivo.

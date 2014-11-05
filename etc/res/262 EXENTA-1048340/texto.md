@@ -116,6 +116,8 @@ Este beneficio será compatible con el regulado en el resuelvo 7.1.
 
 Este beneficio será compatible con el regulado en el resuelvo 7.2.
 
+7.5. Los permutantes recibirán UF 10 para solventar gastos de escrituración e inscripción.
+
 ### 8. Obligación de entrega de los departamentos desocupados
 
 En todo caso, los departamentos de la UMP seleccionada deberán ser entregados al Serviu libres de todo ocupante y con el pago de servicios domiciliarios al día en la fecha que éste lo indique, la que no podrá exceder de 60 días corridos desde su selección.
