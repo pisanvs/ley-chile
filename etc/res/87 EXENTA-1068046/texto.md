@@ -4,8 +4,6 @@ Núm. 87 exenta.- Santiago, 30 de septiembre de 2014.- Vistos y Considerando: El
 
 Resolución:
 
-> **Nota.** El numeral II de la Resolución 89 Exenta, Empresa de Correos de Chile, publicada el 03.11.2015, deroga en lo pertinente la presente resolución.
-
 I.- Fíjense las siguientes tarifas para el servicio Courier Nacional de CorreosChile, EMS, Encomienda Internacional, Servicio Opcional de Embalaje, Carta Certificada Express, Carta Normal y los servicios adicionales que se señalan, todos del mercado persona, de la Empresa de Correos de Chile:
 
 a) Courier Nacional de CorreosChile:
