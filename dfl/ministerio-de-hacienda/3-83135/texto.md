@@ -118,7 +118,7 @@ En las inspecciones que la Superintendencia realice, podrá integrar su propio p
 
 #### Artículo 14
 
-No obstante lo dispuesto en el artículo 7º y sin perjuicio de las normas sobre secreto bancario contenidas en el artículo 154, la Superintendencia deberá proporcionar informaciones sobre las entidades fiscalizadas al Ministro de Hacienda y al Banco Central de Chile.
+No obstante lo dispuesto en el artículo 7º y sin perjuicio de las normas sobre secreto bancario contenidas en el artículo 154, la Superintendencia deberá proporcionar informaciones sobre las entidades fiscalizadas al Ministro de Hacienda, al Banco Central de Chile y al Consejo de Estabilidad Financiera.
 
 La Superintendencia dará también a conocer al público, a lo menos tres veces al año, información sobre las colocaciones, inversiones y demás activos de las instituciones fiscalizadas y su clasificación y evaluación conforme a su grado de recuperabilidad, debiendo la información comprender la de todas las entidades referidas. Podrá, también, mediante instrucciones de carácter general, imponer a dichas empresas la obligación de entregar al público informaciones permanentes u ocasionales sobre las mismas materias.
 
@@ -153,6 +153,8 @@ año deberá ser informado por una firma de auditores externos. En las mismas in
 La Superintendencia podrá exigir hasta dos veces en cualquier época del año a una institución fiscalizada, balances generales referidos a determinadas fechas del año calendario, los cuales, si así lo dispone, deberán ser informados por los auditores externos que ésta designe.
 
 Estos balances se confeccionarán con sujeción a las normas generales que señale el Superintendente, en especial respecto de las provisiones o castigos que estime pertinentes y producirán plenos efectos para la aplicación de las disposiciones que rigen a las instituciones fiscalizadas.
+
+A su vez, con el objeto de evaluar los riesgos de la situación financiera de las entidades sujetas a su fiscalización, la Superintendencia podrá requerir a éstas, antecedentes sobre la situación financiera de todas aquellas personas o entidades que pertenezcan a su mismo grupo empresarial, que pudieren comprometer, en forma significativa, la situación financiera de la entidad fiscalizada, así como información conducente a determinar las relaciones de propiedad o control y operaciones entre ellas. Para efectos de lo dispuesto en este inciso, se define grupo empresarial de acuerdo a los términos establecidos en los artículos 96 y siguientes de la ley Nº 18.045, sobre Mercado de Valores. La información y antecedentes recabados por la Superintendencia en conformidad a este inciso quedarán sujetos al régimen y a las obligaciones de reserva contemplados en esta ley.
 
 #### Artículo 16 bis
 
@@ -302,15 +304,19 @@ Los accionistas fundadores de un banco deberán cumplir los siguientes requisito
 
 a) Contar individualmente o en conjunto con un patrimonio neto consolidado equivalente a la inversión proyectada y, cuando se reduzca a una cifra inferior, informar oportunamente de este hecho.
 
+El requisito de solvencia deberá ser cumplido en forma permanente por los accionistas controladores del banco en los términos del artículo 97 de la ley Nº 18.045, sobre Mercado de Valores, y consistirá en contar, individualmente o en conjunto, con un patrimonio neto consolidado igual, en la proporción que les corresponda, al capital básico del banco.
+
+Si no se diere cumplimiento a la exigencia señalada en el párrafo anterior por un plazo superior a aquel que la Superintendencia determine para su regularización, se presumirá, para los efectos del artículo 24, la ocurrencia de hechos graves que hagan temer por la estabilidad económica del banco. Estas medidas serán recurribles de conformidad al artículo 22.
+
 b) No haber incurrido en conductas graves o reiteradas que puedan poner en riesgo la estabilidad de la entidad que se proponen constituir o la seguridad de sus depositantes.
 
 c) No haber tomado parte en actuaciones, negociaciones o actos jurídicos de cualquier clase, contrarios a las leyes, normas o sanas prácticas financieras o mercantiles que imperan en Chile o en el extranjero.
 
 d) No encontrarse en alguna de las situaciones siguientes:
 
-i) Que se trate de un fallido no rehabilitado;
+i) Que se trate de un deudor sometido a procedimiento concursal de liquidación vigente;
 
-ii) Que en los últimos quince años, contados desde la fecha de solicitud de la autorización, haya sido director, gerente, ejecutivo principal o accionista mayoritario directamente o a través de terceros, de una entidad bancaria, de una compañía de seguros del segundo grupo o de una Administradora de Fondos de Pensiones que haya sido declarada en liquidación forzosa o quiebra, según corresponda, o sometida a administración provisional, respecto de la cual el Fisco o el Banco Central de Chile hayan incurrido en considerables pérdidas. No se considerará para estos efectos la participación de una persona por un plazo inferior a un año;
+ii) Que en los últimos quince años, contados desde la fecha de solicitud de la autorización, haya sido director, gerente, ejecutivo principal o accionista mayoritario directamente o a través de terceros, de una entidad bancaria, de una compañía de seguros del segundo grupo o de una Administradora de Fondos de Pensiones que haya sido declarada en liquidación forzosa o procedimiento concursal de liquidación, según corresponda, o sometida a administración provisional, respecto de la cual el Fisco o el Banco Central de Chile hayan incurrido en considerables pérdidas. No se considerará para estos efectos la participación de una persona por un plazo inferior a un año;
 
 iii) Que registre protestos de documentos no aclarados en los últimos cinco años en número o cantidad considerable;
 
@@ -384,7 +390,7 @@ Verificada la radicación del capital en el país y comprobado que se encuentra 
 
 #### Artículo 33
 
-El Superintendente podrá autorizar a los bancos extranjeros para mantener representaciones que actúen como agentes de negocios de sus casas matrices y tendrá sobre ellas las mismas facultades de inspección que esta ley le confiere respecto de las empresas bancarias. En caso alguno, estas representaciones podrán efectuar actos propios del giro bancario.
+El Superintendente podrá autorizar a los bancos extranjeros para mantener representaciones que actúen como agentes de negocios de sus casas matrices y tendrá sobre ellas las mismas facultades de inspección que esta ley le confiere respecto de las empresas bancarias. En caso alguno, estas representaciones podrán efectuar actos propios del giro bancario, sin perjuicio de que puedan publicitar en el país los productos o servicios de crédito de sus casas matrices que determine la Superintendencia, ajustándose a las normas generales que ésta dicte.
 
 La autorización podrá revocarse en cualquier momento si la representación no cumpliere con esta disposición o si su subsistencia fuere inconveniente.
 
@@ -820,7 +826,15 @@ Los bancos podrán efectuar las siguientes operaciones:
 
 1) Recibir depósitos y celebrar contratos de cuenta corriente bancaria.
 
-2) Emitir bonos o debentures sin garantía especial.
+2) Emitir bonos o debentures sin garantía especial. Asimismo, y con sujeción a las normas generales que dicte la Superintendencia, los bancos podrán emitir bonos sin garantía especial, con el objeto de destinar los fondos recibidos exclusivamente al otorgamiento de mutuos que se encuentren amparados por garantía hipotecaria para el financiamiento de la adquisición, construcción, reparación o ampliación de viviendas. Esta circunstancia deberá consignarse en la escritura de emisión correspondiente, junto con el plazo máximo de otorgamiento de dichos créditos con cargo a los fondos obtenidos en la colocación y con las condiciones de rescate anticipado en caso de incumplimiento de lo señalado anteriormente. Asimismo, se hará referencia de tales circunstancias en la correspondiente emisión de bonos.
+
+De acuerdo a las normas que imparta la Superintendencia, el banco emisor de los bonos destinados al financiamiento de operaciones hipotecarias podrá reemplazar la asignación de mutuos hipotecarios que otorgue, asociando estos últimos a otros créditos de igual naturaleza, de lo cual deberá dejar constancia en un registro especial que mantendrá con sujeción a dichas normas.
+
+Los mutuos hipotecarios a que se refieren los párrafos anteriores no podrán corresponder a los indicados en los numerales 5) y 7) de este artículo, sin perjuicio de lo cual se regirán por las disposiciones previstas en el Título XIII de esta ley, en lo que fuere aplicable, incluyendo el procedimiento especial a que se refieren los artículos 103 y siguientes.
+
+El Banco Central de Chile podrá ejercer, en relación con el otorgamiento por las empresas bancarias de los créditos hipotecarios a que se refiere este numeral, las facultades normativas previstas en los artículos 92 Nº 1) y 99 de esta ley, especialmente, en lo que se refiere a la inversión en valores mobiliarios de renta fija de los recursos obtenidos por el banco mediante la colocación de bonos, hasta el otorgamiento de los respectivos mutuos hipotecarios.
+
+Se aplicarán, asimismo, a los créditos hipotecarios y a los bonos que se emitan para su financiamiento, las normas previstas en los artículos 125, 126 y 134 de esta ley, entendiéndose, para todos los efectos legales, que las referencias que efectúan las citadas disposiciones a las letras de crédito regirán también en el caso de los bonos hipotecarios de que trata este numeral, debiendo la institución emisora dar cumplimiento a las obligaciones contenidas en dichos artículos respecto de la cartera de créditos hipotecarios vinculada con una determinada emisión de bonos. El mismo tratamiento será aplicable a los valores mobiliarios de renta fija a que se refiere el inciso anterior, en caso que corresponda.
 
 3) Hacer préstamos con o sin garantía.
 
@@ -908,7 +922,7 @@ a) Agentes de valores, corredores de bolsa, administradoras de fondos mutuos, de
 
 Para los efectos de la consolidación del banco matriz con sus sociedades filiales, la Superintendencia podrá solicitar directamente a estas sus estados financieros y revisar en ellas todas las operaciones, libros, registros, cuentas, documentos o informaciones que le permitan conocer su solvencia.
 
-La Superintendencia de Valores y Seguros, mediante norma de carácter general, impartirá a las sociedades corredoras de seguros, que sean filiales de bancos o personas relacionadas al banco que actúen como corredores de seguros, instrucciones destinadas a garantizar la independencia de su actuación y el resguardo del derecho del asegurado para decidir sobre la contratación de seguros y la elección del intermediario, estándoles especialmente vedado a los bancos condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado al banco.
+La Superintendencia de Valores y Seguros, mediante norma de carácter general, impartirá a las sociedades corredoras de seguros, que sean filiales de bancos o personas relacionadas al banco que actúen como corredores de seguros, instrucciones destinadas a garantizar la independencia de su actuación y el resguardo del derecho del asegurado para decidir sobre la contratación de seguros y la elección del intermediario, estándoles especialmente vedado a los bancos condicionar el otorgamiento de créditos a la contratación de de los seguros que ellos ofrezcan, pudiendo el deudor contratar libremente la póliza en cualquiera de las entidades que lo comercialicen, bajo el requisito de que se mantengan las mismas condiciones de cobertura y se considere como beneficiario del seguro al banco o a quien éste designe.
 
 b) Comprar y vender bienes corporales muebles o inmuebles sólo para realizar operaciones de arrendamiento, con o sin opción de compra, con el objeto de otorgar financiamiento total o parcial; efectuar factoraje, asesoría financiera, custodia o transporte de valores, cobranza de créditos y la prestación de servicios financieros que la Superintendencia, mediante resolución general, haya estimado que complementan el giro de los bancos. En estos casos dicha Superintendencia deberá establecer mediante resolución general las condiciones del ejercicio de los referidos giros.
 
@@ -1210,7 +1224,7 @@ El banco sólo podrá mantener esos dineros sin invertir por el tiempo necesario
 
 #### Artículo 90
 
-En caso de quiebra o liquidación de un banco, el Superintendente o el liquidador, con autorización de aquél, podrá encomendar a otra institución bancaria la atención de las comisiones de confianza que estaban a cargo de la empresa declarada en quiebra o en liquidación.
+En caso de declararse el inicio de un procedimiento concursal de liquidación de un banco, el Superintendente o el liquidador, con autorización de aquél, podrá encomendar a otra institución bancaria la atención de las comisiones de confianza que estaban a cargo de la empresa sometida al procedimiento concursal de liquidación o en liquidación.
 
 Lo mismo se aplicará si una empresa bancaria, por motivos calificados por el Superintendente, no debiere o no pudiere seguir atendiendo comisiones de confianza.
 
@@ -1508,7 +1522,7 @@ Las resoluciones que dicte la Superintendencia en virtud de este artículo no po
 
 Si se rechaza el convenio propuesto por el directorio, éste, dentro de los tres días siguientes, deberá proponer a los mismos acreedores que tuvieron derecho a votar el convenio, otro en que, mediante la capitalización de los créditos que correspondan, tenga por efecto que el banco quede con una proporción entre patrimonio efectivo y activos ponderado por riesgo que no sea inferior a 12%. Con este objeto se efectuará una nueva publicación en la forma prevista en el artículo anterior y en lo demás se aplicarán las normas contenidas en este artículo. Rechazado este convenio regirá lo dispuesto en el artículo 130.
 
-Las normas de la Ley de Quiebras no se aplican a los convenios de que trata este párrafo.
+Las normas de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas no se aplican a los convenios de que trata este Párrafo.
 
 #### Artículo 125
 
@@ -1632,7 +1646,7 @@ A medida que existan fondos disponibles, podrá el liquidador, después de reser
 
 Si por cualquier causa no alcanzaren a pagarse íntegramente las obligaciones del banco, serán ellas cubiertas a prorrata, sin perjuicio de las preferencias legales.
 
-Cuando un acreedor sea a la vez deudor del banco, la compensación tendrá lugar sólo al tiempo de los respectivos repartos de fondos hasta concurrencia de las sumas que se abonen al crédito y siempre que se cumplan los demás requisitos legales. Asimismo, se compensarán las obligaciones conexas emanadas de operaciones con productos derivados efectuadas de conformidad con lo dispuesto en el inciso segundo del artículo 69, Nº 6, de esta ley, respecto de las cuales se aplicará a la empresa bancaria en liquidación forzosa lo previsto en los incisos segundo y siguientes del artículo 69 del Libro IV del Código de Comercio. No procederán otras compensaciones durante el proceso de liquidación.
+Cuando un acreedor sea a la vez deudor del banco, la compensación tendrá lugar sólo al tiempo de los respectivos repartos de fondos hasta concurrencia de las sumas que se abonen al crédito y siempre que se cumplan los demás requisitos legales. Asimismo, se compensarán las obligaciones conexas emanadas de operaciones con productos derivados efectuadas de conformidad con lo dispuesto en el inciso segundo del artículo 69, Nº 6, de esta ley, respecto de las cuales se aplicará a la empresa bancaria en liquidación forzosa lo previsto en los incisos segundo y siguientes del artículo 140 de la Ley de Reorganización y Liquidación de Activo de Empresas y Personas. No procederán otras compensaciones durante el proceso de liquidación.
 
 El Superintendente entregará la liquidación a los accionistas desde el momento en que queden totalmente pagados los créditos de los depositantes y demás acreedores y cubiertos los gastos de la liquidación.
 
@@ -1817,6 +1831,20 @@ b) A las boletas o depósitos de garantía;
 c) A las sumas recibidas por cheques viajeros, y
 
 d) En los casos en que haya retención, prenda o embargo sobre los dineros correspondientes.
+
+#### Artículo 156 bis
+
+Las cuentas de ahorros
+
+para menores de edad, ofrecidas
+
+por los bancos regidos por esta ley,
+
+podrán ser abiertas por el padre o la
+
+madre, con independencia de quien tenga
+
+la patria potestad del menor de edad.
 
 T I T U L O XVII
 

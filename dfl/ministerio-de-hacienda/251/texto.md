@@ -132,7 +132,7 @@ Disposiciones generales
 
 El comercio de asegurar riesgos a base de primas, sólo podrá hacerse en Chile por sociedades anónimas nacionales de seguros y reaseguros, que tengan por objeto exclusivo el desarrollo de dicho giro y las actividades que sean afines o complementarias a éste, que autorice la Superintendencia mediante norma de carácter general. Las entidades aseguradoras del segundo grupo podrán constituir filiales Administradoras Generales de Fondos, a que se refiere el Título XXVII de la ley Nº 18.045, sujetándose a las normas generales que establezca la Superintendencia.
 
-Sin perjuicio de lo anterior, las entidades aseguradoras extranjeras establecidas en el territorio de un país con el cual Chile mantenga vigente un tratado internacional en el que se haya permitido la contratación de seguros de transporte marítimo internacional, aviación comercial internacional y mercancías en tránsito internacional desde ese país, podrán comercializar en Chile tales seguros. En todo caso, las compañías a las que hace referencia este inciso deberán cumplir con los términos y condiciones establecidos en los respectivos tratados y en la legislación nacional.
+Sin perjuicio de lo anterior, las entidades aseguradoras extranjeras establecidas en el exterior podrán comercializar en Chile los seguros de transporte marítimo internacional, aviación comercial internacional, mercancías en tránsito internacional y de satélites, y la carga que éstos transportan.
 
 Cualquier persona natural o jurídica podrá contratar libremente en el extranjero toda clase de seguros, a excepción de los seguros obligatorios establecidos por ley y aquellos contemplados en el decreto ley N° 3.500, de 1980, los que sólo podrán contratarse con compañías establecidas en el territorio nacional. Asimismo, las entidades aseguradoras y reaseguradoras podrán suscribir riesgos provenientes del extranjero.
 
@@ -204,6 +204,10 @@ Tales entidades, estén o no inscritas en el Registro de Valores a que se refier
 
 Las personas naturales o jurídicas que, personalmente o en conjunto, sean, conforme al artículo 97 de la ley N° 18.045, controladoras de una compañía de seguros del segundo grupo o que posean individualmente más del 10% de sus acciones, deberán enviar a la Superintendencia información fidedigna acerca de su situación financiera. La Superintendencia, mediante norma de carácter general, determinará la periodicidad y contenido de esta información, que no podrá exceder de la que exige a las sociedades anónimas abiertas.
 
+Cuando el patrimonio neto consolidado de los controladores, individualmente o en conjunto, se reduzca a un monto inferior al patrimonio de riesgo definido en la letra f) del artículo 1º y no sea subsanado en el plazo que la Superintendencia determine para estos efectos, ésta podrá instruir a las compañías, por resolución fundada, para que se abstengan de realizar las transacciones y operaciones que específicamente determine, con sus personas relacionadas o a través de ellas, hasta por un plazo de seis meses, renovable por igual período.
+
+Asimismo, en este caso, la Superintendencia podrá suspender la administración o todas o algunas de las operaciones de la compañía, en los términos que señalan los números 3º y 4º del artículo 44, renovables por igual período, designando para tal efecto un administrador de acuerdo a la letra d) del artículo 3º.
+
 #### Artículo 10
 
 El monto de los seguros, de las primas y de las indemnizaciones, se expresará en unidades de fomento, a menos que los contratos respectivos se pacten en moneda extranjera con arreglo a las disposiciones legales vigentes. Sin perjuicio de lo anterior, la Superintendencia podrá autorizar, mediante norma de carácter general, que se pacten en otros sistemas de reajustabilidad o en moneda de curso legal.
@@ -222,7 +226,13 @@ Se entenderá por seguro de crédito aquel que cubre los riesgos de pérdidas o 
 
 #### Artículo 12
 
-El monto de las indemnizaciones de los seguros sobre la vida cede exclusivamente en favor del o los beneficiarios.
+La Superintendencia, sujetándose a la ley N° 19.628, al reglamento y a la demás normativa aplicable, entregará la información sobre los seguros a quienes acrediten tener la calidad de asegurados. En caso de incapacidad judicialmente declarada o muerte de un asegurado, se entregará dicha información a quienes acrediten tener la calidad de cónyuge, hijos, padres, beneficiarios u otros legítimos interesados.
+
+En caso de consulta debidamente notificada por la Superintendencia a las aseguradoras, éstas tendrán la obligación de proporcionar a la Superintendencia la información que se indica en el inciso siguiente.
+
+El contenido específico de la información que deben proporcionar las aseguradoras será determinado por el reglamento. Las características asociadas a esa información, tales como el formato, medios de envío, plazos y otros, serán determinadas por las instrucciones o normas de carácter general que imparta la Superintendencia. La información señalada contendrá al menos la indicación de las compañías aseguradoras contratantes, la vigencia y el tipo de seguro, de acuerdo al código en el Depósito de Pólizas respectivo, estando prohibido, en su caso, informar antecedentes relacionados con la identidad del beneficiario o las condiciones establecidas para ello en el seguro. Dicha información deberá proporcionarse mientras las obligaciones de la compañía estén vigentes.
+
+La Superintendencia deberá resguardar el carácter privado de la información suministrada y deberá eliminar de sus bases de datos antes de transcurridos 60 días desde su recepción la información recibida por parte de las aseguradoras en virtud de lo establecido en este artículo.
 
 #### Artículo 13
 
@@ -402,7 +412,9 @@ El mencionado Banco, mediante acuerdo de su Consejo, establecerá anualmente los
 
 Las inversiones de la letra f) de este número, sólo se computarán como inversiones representativas de reservas técnicas generadas por operaciones realizadas por la oficina correspondiente en el país respectivo.
 
-4. Bienes raíces no habitacionales, cuya tasación comercial sea practicada al menos cada dos años, según norma de carácter general que dicte la Superintendencia. Tratándose de bienes raíces de propiedad de la compañía, sujetos a contratos de arrendamiento con opción de compra, la Superintendencia establecerá las disposiciones mínimas que deberán cumplir dichos contratos, para que el bien raíz se considere como inversión representativa.
+4. Bienes raíces, cuya tasación comercial sea practicada al menos cada dos años, según norma de carácter general que dicte la Superintendencia. Tratándose de bienes raíces de propiedad de la compañía, sujetos a contratos de arrendamiento con opción de compra, la Superintendencia establecerá las disposiciones mínimas que deberán cumplir dichos contratos, para que el bien raíz se considere como inversión representativa.
+
+No obstante lo anterior, no se aceptarán como representativos bienes raíces habitacionales sujetos a contratos de arrendamiento con o sin opción de compra suscritos con personas relacionadas a la compañía, o cuyo uso o goce haya sido cedido a éstas por cualquier motivo.
 
 5. Otros Activos:
 
@@ -484,7 +496,7 @@ j) 10°% del total, para la suma de la inversión en instrumentos de las letras 
 
 k) 3% del total en aquellos activos de la letra f) del Nº3;
 
-l) 20% del total, en aquellos activos del Nº4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo, y
+l) 25% del total, en aquellos activos del N° 4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo. Con todo, en el caso de bienes raíces no habitacionales sujetos a contratos de arrendamiento con o sin opción de compra que suscriban las compañías del segundo grupo con personas relacionadas, el límite corresponderá al 5% del total y al 5% sólo del patrimonio de riesgo para compañías del primer grupo. Adicionalmente, tratándose de bienes raíces habitacionales, se aplicará un límite del 5% del total para compañías del segundo grupo y del 5% sólo del patrimonio de riesgo para compañías del primer grupo, y
 
 m) 20% del total, en aquellos activos de la letra e) del Nº 5.
 
@@ -518,7 +530,7 @@ d) 40% del total, para la suma de la inversión en instrumentos de las letras
 
 - **e)** del Nº 1, fondos de inversión de la letra
 
-- **c)** del Nº 2, en cuanto inviertan en activos señalados en los números 10, 11, 12, 13 y 15 del artículo 5º de la ley Nº18.815, bienes raíces del Nº4, y bonos o pagarés de la letra
+- **c)** del Nº 2, en cuanto inviertan en activos señalados en los números 10, 11, 12, 13 y 15 del artículo 5º de la ley Nº18.815, bienes raíces del Nº4, activos relacionados con el sector inmobiliario incluidos en el N° 7 y bonos o pagarés de la letra
 
 - **c)** del Nºl, emitidos por sociedades securitizadoras de las señaladas en el Título XVIII de la ley Nº 18.045, que estén respaldados por títulos de crédito transferibles, relacionados con el sector inmobiliario, para compañías del segundo grupo, y 50% sólo del patrimonio de riesgo, para compañías del primer grupo;
 
@@ -572,7 +584,7 @@ a) entre un 10% y un 20% del total de los depósitos y captaciones y del total d
 
 b) entre un 20% y un 30% de la emisión o serie, en el caso de instrumentos de la letra c) del Nº 1;
 
-c) entre un 10 y 20% de la participación, en el caso de instrumentos de la letra d) del Nº1;
+c) entre un 20% y 40% de la participación, en el caso de instrumentos de la letra d) del Nº1;
 
 d) entre un 8% y un 20% del total de acciones suscritas, en el caso de instrumentos de la letra a) del Nº2, y
 
@@ -612,11 +624,7 @@ La Superintendencia estará facultada para dictar, si lo estima procedente para 
 
 #### Artículo 26
 
-La póliza de seguro puede ser nominativa o a la orden.
-
-La cesión de la póliza nominativa, o de los derechos que de ella emanen, requiere de la aceptación del asegurador y la de la póliza a la orden puede hacerse por simple endoso, sin perjuicio del artículo 518 del Código de Comercio. El crédito del asegurado, por la indemnización de un siniestro ya ocurrido, podrá cederse, conforme a las normas generales sobre la cesión de créditos.
-
-El asegurador podrá oponer al cesionario o endosatario, las excepciones que tenga contra el tomador, asegurado o beneficiario.
+Derogado.
 
 #### Artículo 27
 
@@ -635,6 +643,8 @@ El reaseguro no altera en nada el contrato celebrado entre el asegurador directo
 #### Artículo 29
 
 Las cuestiones litigiosas que se susciten con motivo de los contratos de seguros directos y reseguros sujetos a esta Ley, serán sometidas a la jurisdicción chilena, siendo nulo todo pacto en contrario.
+
+No obstante, producida una controversia sobre reaseguros, las partes podrán acordar que ella se resuelva conforme a las normas sobre arbitraje mercantil internacional previstas en la ley chilena.
 
 #### Artículo 30
 
@@ -736,7 +746,7 @@ La Superintendencia dispondrá de un plazo de 30 días, contado desde la fecha d
 
 Subsanados los defectos o atendidas las observaciones formuladas en su caso, y vencido el plazo a que se refiere el inciso precedente, la Superintendencia dará curso a lo solicitado, según corresponda.
 
-Con todo, transcurridos 60 días contados desde la presentación de la solicitud, el peticionario podrá solicitar que ésta se resuelva con los antecedentes que obran en poder de la Superintendencia. En tal circunstancia, la Superintendencia dentro de 5 días hábiles contados desde la petición referida, resolverá aprobando o rechazando la solicitud, en este último caso por resolución fundada. Si no se pronunciare dentro de dicho plazo, se entenderá rechazada la solicitud.
+Con todo, transcurridos 60 días contados desde la presentación de la solicitud, el peticionario podrá solicitar que ésta se resuelva con los antecedentes que obran en poder de la Superintendencia. En tal circunstancia, la Superintendencia dentro de 5 días hábiles contados desde la petición referida, resolverá aprobando o rechazando la solicitud, en este último caso por resolución fundada.
 
 #### Artículo 39 bis
 
@@ -756,7 +766,51 @@ Cumplidos dichos requisitos, la Superintendencia, dentro de un plazo de 30 días
 
 #### Artículo 40
 
-DEROGADO.
+Los bancos, cooperativas, agentes administradores de mutuos hipotecarios endosables, cajas de compensación de asignación familiar, y cualquier otra entidad que tenga dentro de su giro otorgar créditos hipotecarios, en adelante entidades crediticias, que en virtud de operaciones hipotecarias con personas naturales contraten seguros de desgravamen por muerte o invalidez e incendio y coberturas complementarias tales como sismo y salida de mar, por cuenta y cargo de sus clientes, con el objeto de proteger los bienes dados en garantía o el pago de la deuda frente a determinados eventos que afecten al deudor, deberán cumplir con las siguientes normas, en el proceso de licitación del que trata este artículo:
+
+1. Los seguros deberán ser contratados en forma colectiva por la entidad crediticia, para sus deudores, por medio de licitación pública con bases preestablecidas. En dicha licitación se recibirán y darán a conocer las ofertas públicamente en un solo acto.
+
+2. Las compañías cuya menor clasificación de riesgo sea igual o inferior a BBB, no podrán participar en la licitación.
+
+3. Los seguros serán asignados por la entidad crediticia al oferente que presente el menor precio, incluyendo la comisión del corredor de seguros, si correspondiere, salvo que, después de iniciado el proceso de licitación y antes de su adjudicación, se hubiese deteriorado notoriamente la solvencia de ese oferente por un hecho sobreviniente. En tal caso, el directorio o máximo órgano directivo de la entidad crediticia, pública y fundadamente, previa calificación de ese hecho por una clasificadora de riesgo señalada previamente en las bases, podrá adjudicar la licitación al segundo menor precio.
+
+La entidad crediticia podrá sustituir al corredor incluido en la oferta adjudicada, manteniendo la misma comisión de intermediación considerada en dicha oferta, siempre y cuando ello esté previsto en las bases.
+
+4. Los seguros deberán convenirse exclusivamente sobre la base de una prima expresada como un porcentaje del monto asegurado de cada riesgo. La prima incluirá la comisión del corredor de seguros, si lo hubiere, la que se expresará sólo como un porcentaje de la prima.
+
+5. No podrán estipularse comisiones o pagos a favor de la entidad crediticia asociados a la contratación o gestión de estos seguros, a la cobranza de las primas, o por cualquier otro concepto, salvo el derecho del acreedor a pagarse de su crédito con la indemnización en caso de siniestro.
+
+6. Corresponderá al deudor asegurado cualquier suma que devuelva o reembolse el asegurador por mejor siniestralidad, volumen de primas, número de asegurados u otros conceptos análogos.
+
+7. Una norma conjunta, que dictarán las Superintendencias de Valores y Seguros y de Bancos e Instituciones Financieras, regulará el proceso de licitación y las condiciones mínimas que contemplarán las bases de licitación. Dicha norma podrá considerar, entre otros, los siguientes aspectos:
+
+a. Coberturas de seguros a licitar.
+
+b. Duración de los contratos y coberturas.
+
+c. Exigencias técnicas y patrimoniales de los corredores de seguros.
+
+d. Información estadística agregada sobre la cartera a licitar que la entidad crediticia deberá entregar a los aseguradores para la realización de la oferta.
+
+e. Criterios de segmentación de la cartera a licitar.
+
+f. Servicios que se exigirán a las aseguradoras oferentes y a las corredoras de seguros.
+
+g. Medidas que la entidad crediticia podrá establecer para el resguardo de su base de datos.
+
+h. Información mínima que la entidad crediticia deberá proporcionar a la aseguradora durante la vigencia del seguro.
+
+La citada norma regulará asimismo la información mínima que las entidades crediticias, corredores de seguros y aseguradoras deberán proporcionar a los deudores asegurados respecto a la cobertura del seguro contratado y a su operación en caso de siniestro, incluyendo los criterios y plazos que se considerarán para el traspaso al deudor de las indemnizaciones que le correspondan.
+
+Todo lo anterior es sin perjuicio del derecho de los deudores a contratar individual y directamente los seguros a que se refiere este artículo, con un asegurador de su elección. En todo caso, la entidad crediticia no podrá exigir al deudor coberturas o condiciones distintas a las contempladas en los seguros licitados, ni podrá aceptar una póliza individual con menores coberturas que las de los seguros licitados.
+
+Estas disposiciones también serán aplicables a seguros asociados a créditos hipotecarios otorgados a personas jurídicas, que presenten características similares a las operaciones de personas naturales de que trata este artículo, en cuanto a objeto y fines del crédito hipotecario, de acuerdo con lo que se establezca en la norma conjunta antes señalada.
+
+Sin perjuicio de lo previsto en la letra g., los aseguradores y corredores de seguros que se adjudiquen las licitaciones deberán mantener reserva sobre las bases de datos que reciban de las entidades de crédito en virtud de la letra h., salvo que dicha entidad los dispensare. Quien las divulgue o utilice en perjuicio de la entidad de crédito, deberá responder de los daños y perjuicios que provoque, no obstante las demás sanciones que dicha infracción amerite.
+
+La Superintendencia de Valores y Seguros establecerá, por norma de carácter general, las condiciones y coberturas mínimas que deberán contemplar los seguros asociados a los créditos hipotecarios a los que se refiere este artículo, tanto para aquellos contratados directamente por el deudor como para los contratados por la entidad crediticia por cuenta de éste. La citada norma deberá ser enviada en consulta a la Superintendencia de Bancos e Instituciones Financieras.
+
+Las disposiciones de este artículo resultarán también aplicables a los seguros que se deban contratar en virtud de los contratos de arrendamiento de vivienda con promesa de compraventa, celebrados por sociedades inmobiliarias en conformidad a lo dispuesto en la ley N° 19.281.
 
 Párrafo Tercero
 
@@ -1070,7 +1124,7 @@ En caso que la compañía presente déficit de inversiones representativas de re
 
 En toda liquidación de una compañía de seguros el liquidador podrá traspasar todo o parte de la cartera y negocios a una o más compañías, en los términos del artículo 27, no siendo necesaria, en este caso, la comunicación a los asegurados, salvo si se tratara de administradoras de fondos de pensiones, respecto de los seguros a que se refiere el decreto ley N° 3.500, de 1980, sin perjuicio de la obligación de informar a éstos, en la forma que determine la Superintendencia.
 
-Asimismo, podrá celebrar convenio con los acreedores, en conformidad con las disposiciones contempladas en la ley N° 18.175 y con las normas dictadas al respecto por la Superintendencia.
+Asimismo, podrá celebrar convenio con los acreedores, en conformidad con las disposiciones contempladas en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas y con las normas dictadas al respecto por la Superintendencia.
 
 #### Artículo 75
 
@@ -1082,11 +1136,11 @@ Los gastos de liquidación serán de cuenta de la compañía.
 
 En la liquidación de una compañía de seguros del segundo grupo que posea en su cartera contratos de seguros del sistema previsional creado por el decreto ley N° 3.500, de 1980, no procederá la autorización mencionada en el inciso segundo de este artículo, miemtras subsistan obligaciones emanadas de dichos contratos.
 
-6.- De los convenios y la quiebra.
+6.- De los acuerdos de reorganización y la liquidación.
 
 #### Artículo 76
 
-En todas las situaciones de este Título, salvo en la de quiebra, la compañía de que se trate podrá presentar proposiciones de convenio extrajudicial a todos sus acreedores, las cuales previamente deben ser autorizadas por la Superintendencia para producir sus efectos.
+En todas las situaciones de este Título, salvo en la de un procedimiento concursal de liquidación, la compañía de que se trate podrá presentar proposiciones de convenio extrajudicial a todos sus acreedores, las cuales previamente deben ser autorizadas por la Superintendencia para producir sus efectos.
 
 Estas proposiciones podrán versar sobre:
 
@@ -1126,55 +1180,55 @@ Los trabajadores del deudor no votarán el convenio extrajudicial y conservarán
 
 #### Artículo 79
 
-Si algún acreedor de una compañía de seguros solicitare la declaración de quiebra de ésta, el juzgado deberá dar aviso al Superintendente, quien investigará la solvencia de la compañía. Si comprobare que la compañía puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga en sus operaciones; pero si estimare que no es posible tal prosecución, informará en tal sentido.
+Si algún acreedor de una compañía de seguros solicitare el inicio de un procedimiento concursal de liquidación de ésta, el juzgado deberá dar aviso al Superintendente, quien investigará la solvencia de la compañía. Si comprobare que la compañía puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga en sus operaciones; pero si estimare que no es posible tal prosecución, informará en tal sentido.
 
-Si al momento de ser requerido el Superintendente por el tribunal la compañía se encontrare en alguna de las etapas contempladas en el párrafo 1 y 2 de este Título, el Superintendente informará de ello al tribunal, en cuyo caso éste no dará lugar a la solicitud de quiebra.
+Si al momento de ser requerido el Superintendente por el tribunal la compañía se encontrare en alguna de las etapas contempladas en el párrafo 1 y 2 de este Título, el Superintendente informará de ello al tribunal, en cuyo caso éste no dará lugar a la demanda de liquidación forzosa.
 
-El Superintendente deberá dar su resolución en el plazo de veinte días hábiles contado desde la fecha en que sea requerido por el tribunal. Durante este plazo nadie podrá entablar contra la compañía acción judicial ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales de la quiebra.
+El Superintendente deberá dar su resolución en el plazo de veinte días hábiles contado desde la fecha en que sea requerido por el tribunal. Durante este plazo nadie podrá entablar contra la compañía acción judicial ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales del procedimiento concursal de liquidación.
 
 #### Artículo 80
 
-Propuesto un convenio judicial o declarada la quiebra de una compañía de seguros, el Superintendente o la persona que éste designe, actuará como administrador o síndico, según corresponda, con todas las facultades que le confiera el convenio o, en su caso, la ley N° 18.175, en cuanto fueren compatibles con las disposiciones de esta ley.
+Propuesto un acuerdo de reorganización judicial o dictada la resolución de liquidación de una compañía de seguros, el Superintendente o la persona que éste designe, actuará como administrador o liquidador, según corresponda, con todas las facultades que le confiera el acuerdo de reorganización o, en su caso, la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, en cuanto fueren compatibles con las disposiciones de esta ley.
 
-Declarada la quiebra, el síndico podrá citar a la junta de acreedores establecida en la ley N° 18.175, cuando lo estime necesario, para informar sobre el estado de los negocios de la fallida, sobre sus activos y pasivos, sobre la marcha del proceso de quiebra, y, en general, para proponer a la junta cualquier acuerdo que estime necesario para el más adecuado cumplimiento de las funciones que le competen.
+Dictada la resolución de liquidación, el liquidador podrá citar a la junta de acreedores establecida en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, cuando lo estime necesario, para informar sobre el estado de los negocios de la deudora, sobre sus activos y pasivos, sobre la marcha del procedimiento concursal de liquidación y, en general, para proponer a la junta cualquier acuerdo que considere necesario para el más adecuado cumplimiento de las funciones que le competen.
 
-En la realización del activo de la quiebra, el síndico dispondrá de las facultades previstas en el artículo 109 de la ley Nº 18.175, sin sujeción a los límites que éste establece.
+En la realización del activo del procedimiento concursal de liquidación, el liquidador dispondrá de las facultades previstas en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, sin sujeción a los límites que ésta establece en cuanto a los activos.
 
 #### Artículo 81
 
-En todas las quiebras de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al Ministerio Público e indicará todos los datos que permitan individualizar la persona del fallido.
+En todos los procedimientos concursales de liquidación de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al Ministerio Público e indicará todos los datos que permitan individualizar la persona del deudor.
 
-El oficio será tramitado por el síndico, quien estará obligado, además, a velar por el cumplimiento de este precepto.
+El oficio será tramitado por el liquidador, quien estará obligado, además, a velar por el cumplimiento de este precepto.
 
-Se presume que la quiebra es culpable si las reservas técnicas y el patrimonio de riesgo de la compañía no se hubieren constituido conforme a las normas legales y a las instrucciones impartidas por la Superintendencia o, en los casos que estando éstas debidamente constituídas, las inversiones representativas de estas reservas no se hubieren valorizado conforme a las normas impartidas por la Superintendencia, siempre que a consecuencia de este hecho, se determine que, a la fecha de la quiebra, no habría podido satisfacer el cumplimiento de las obligaciones provenientes de los contratos de seguros respectivos. El síndico deberá expresar esta circunstancia en el proceso de calificación.
+Constituirá una agravante de delito concursal de acuerdo a lo señalado en el Título IX del Libro Segundo, Párrafo 7, De los delitos concursales y de las defraudaciones, del Código Penal, que las reservas técnicas y el patrimonio de riesgo de la compañía no se hubieren constituido conforme a las normas legales y a las instrucciones impartidas por la Superintendencia o, en los casos que estando éstas debidamente constituídas, las inversiones representativas de estas reservas no se hubieren valorizado conforme a las normas impartidas por la Superintendencia, siempre que a consecuencia de este hecho, se determine que, a la fecha de inicio del procedimiento concursal de liquidación, no habría podido satisfacer el cumplimiento de las obligaciones provenientes de los contratos de seguros respectivos. El liquidador deberá expresar esta circunstancia en el proceso penal.
 
 #### Artículo 82
 
-Declarada la quiebra de una compañía de seguros, el síndico podrá traspasar toda o parte de la cartera y negocios a una o más compañías en los términos señalados en el inciso primero del artículo 74, y los asegurados podrán poner término anticipado al contrato en que estén pendientes los riesgos, en cuyo caso tendrán derecho a la devolución proporcional de la prima en el concurso.
+Dictada la resolución de liquidación de una compañía de seguros, el liquidador podrá traspasar toda o parte de la cartera y negocios a una o más compañías en los términos señalados en el inciso primero del artículo 74, y los asegurados podrán poner término anticipado al contrato en que estén pendientes los riesgos, en cuyo caso tendrán derecho a la devolución proporcional de la prima en el concurso.
 
-Tratándose de la quiebra de una compañía de seguros del segundo grupo, cuyas reservas técnicas por seguros de renta vitalicia regidos por el decreto ley Nº 3.500, de 1980, no estén suficientemente respaldadas por inversiones, la Superintendencia podrá autorizar el traspaso de dichos seguros, sujetando el pago de las pensiones pactadas a un plazo determinado. En la autorización del traspaso de cartera, para efectos, de lo establecido en el artículo 82 del citado decreto ley, se determinará la fecha a partir de la cual se hará efectiva la garantía estatal.
+Tratándose del procedimiento concursal de liquidación de una compañía de seguros del segundo grupo, cuyas reservas técnicas por seguros de renta vitalicia regidos por el decreto ley Nº 3.500, de 1980, no estén suficientemente respaldadas por inversiones, la Superintendencia podrá autorizar el traspaso de dichos seguros, sujetando el pago de las pensiones pactadas a un plazo determinado. En la autorización del traspaso de cartera, para efectos, de lo establecido en el artículo 82 del citado decreto ley, se determinará la fecha a partir de la cual se hará efectiva la garantía estatal.
 
 #### Artículo 83
 
-En la quiebra o liquidación de una compañía del segundo grupo que en su cartera tenga contratos de seguros cuyas obligaciones consistan en el pago de prestaciones periódicas futuras ya reconocidas o que se reconozcan, el síndico o liquidador podrá pagar dichas prestaciones, sin necesidad de verificación previa en su caso, con cargo a las inversiones que respalden las reservas técnicas hasta por un período de 12 meses, contado desde la fecha en que asumió la liquidación o quiebra.
+En el procedimiento concursal de liquidación o liquidación de una compañía del segundo grupo que en su cartera tenga contratos de seguros cuyas obligaciones consistan en el pago de prestaciones periódicas futuras ya reconocidas o que se reconozcan, el liquidador del procedimiento concursal de liquidación o liquidador podrá pagar dichas prestaciones, sin necesidad de verificación previa en su caso, con cargo a las inversiones que respalden las reservas técnicas hasta por un período de 12 meses, contado desde la fecha en que asumió la liquidación o procedimiento concursal de liquidación.
 
 #### Artículo 84
 
 En el evento de no producirse el traspaso de cartera y negocios, en los términos del artículo 82, el crédito de los asegurados proveniente de los contratos de seguro gozarán del privilegio establecido en el N° 5 del artículo 2472 del Código Civil.
 
-Con todo, los pagos por reaseguros beneficiarán a los asegurados cuyos créditos por siniestros preferirán a cualesquiera otros que se ejercieren en contra del asegurador, sin perjuicio de contribuir a los gastos de administración de la quiebra o liquidación, en su caso.
+Con todo, los pagos por reaseguros beneficiarán a los asegurados cuyos créditos por siniestros preferirán a cualesquiera otros que se ejercieren en contra del asegurador, sin perjuicio de contribuir a los gastos de administración del procedimiento concursal de liquidación o liquidación, en su caso.
 
 #### Artículo 85
 
-Declarada la quiebra de una compañía de seguros del segundo grupo, el síndico practicará la liquidación de todos aquellos contratos que originen reserva matemática o de siniestros, de acuerdo a las normas dictadas por la Superintendencia. Con el mérito de dicha liquidación el síndico deberá verificar el importe que a la fecha de declaración de quiebra representen dichas reservas de acuerdo al procedimiento señalado en los artículos 131 y siguientes de la Ley de Quiebras, asumiendo para este solo efecto la representación del asegurado, sin que ello importe reconocimiento alguno. En el evento que al asegurado se le hubiere seguido pagando prestaciones de acuerdo con el artículo 83, dichos pagos se deducirán de la respectiva reserva.
+Dictada la resolución de liquidación de una compañía de seguros del segundo grupo, el liquidador practicará la liquidación de todos aquellos contratos que originen reserva matemática o de siniestros, de acuerdo a las normas dictadas por la Superintendencia. Con el mérito de dicha liquidación, el liquidador deberá verificar el importe que a la fecha de la resolución de liquidación representen dichas reservas de acuerdo al procedimiento señalado en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, asumiendo para este solo efecto la representación del asegurado, sin que ello importe reconocimiento alguno. En el evento que al asegurado se le hubiere seguido pagando prestaciones de acuerdo al artículo 83, dichos pagos se deducirán de la respectiva reserva.
 
 #### Artículo 86
 
-En cada uno de los procedimientos contemplados en este Título, el síndico, liquidador o administrador deberá velar fundamentalmente por los intereses de los asegurados, según las preferencias establecidas en el artículo 84.
+En cada uno de los procedimientos contemplados en este Título, el liquidador o administrador deberá velar fundamentalmente por los intereses de los asegurados, según las preferencias establecidas en el artículo 84.
 
 #### Artículo 87
 
-En todo lo no previsto en este párrafo se aplicará la ley N° 18.175, sobre Quiebras.
+En todo lo no previsto en este párrafo se aplicará la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 ## Título V
 

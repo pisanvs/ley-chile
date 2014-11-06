@@ -44,6 +44,8 @@ g) Velar por la mantención del encaje de las Administradoras y que las inversio
 
 h) Disponer el examen de los libros, cuentas, archivos, documentos, contabilidad y demás bienes físicos, pertenecientes a los entes fiscalizados;
 
+A su vez, con el objeto de evaluar los riesgos a la situación financiera de las entidades sujetas a su fiscalización, la Superintendencia podrá requerirles a éstas antecedentes sobre la situación financiera de todas aquellas personas o entidades que pertenezcan a su mismo grupo empresarial, que pudieren comprometer, en forma significativa, la situación financiera de la entidad fiscalizada, así como información conducente a determinar las relaciones de propiedad o control y operaciones entre ellas. Para efectos de lo dispuesto en este inciso, se define grupo empresarial de acuerdo a los términos establecidos en el artículo 96 y siguientes de la ley Nº 18.045, sobre Mercado de Valores. La información y antecedentes recabados por la Superintendencia en conformidad con este inciso quedaran sujetos al régimen y a las obligaciones de reserva contemplados en la ley Nº 20.255.
+
 i) Interpretar la legislación y reglamentación en vigencia e impartir normas generales obligatorias para su correcta aplicación por las Administradoras;
 
 j) Absolver las consultas, peticiones o reclamos que los afiliados o beneficiarios de las Administradoras, formulen en su contra;
