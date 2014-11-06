@@ -1,0 +1,9 @@
+ADJUDICA CONCESIÓN ONEROSA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA, A DON SERGIO CRISTIAN MONTERO DAWSON
+
+Mediante decreto exento Nº 801 de 9 de septiembre de 2014, el Ministerio de Bienes Nacionales adjudicó en Concesión Onerosa contra proyecto, a don Sergio Cristian Montero Dawson, RUT Nº 8.586.619-2, el inmueble fiscal que corresponde a parte del Lote C, ubicado en parte del Predio Río Olivares, comuna de San José de Maipo, provincia de Cordillera, Región Metropolitana de Santiago, enrolado en el Servicio de Impuestos Internos con el Nº 300-6; amparado por la inscripción en mayor cabida a nombre del Fisco, que rola a fojas 1838 vta. Nº 2064 del Registro de Propiedad del Conservador de Bienes Raíces de Puente Alto, correspondiente al año 1982; de una superficie total de 10,00 hás, singularizado en el Plano Nº 13203-4759-C.R. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 101,32.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de turismo, denominado "Complejo Arcángel del Sur". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión, con la persona jurídica de nacionalidad chilena que dispone el inciso segundo del artículo 59 del DL 1.939 de 1977. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Óscar Manquilef Parra, Abogado, Jefe División Jurídica (S).
