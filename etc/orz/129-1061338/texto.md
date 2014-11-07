@@ -742,6 +742,10 @@ Las infracciones cometidas por vehículos que circulen o se estacionen en las ac
 
 En general, el incumplimiento de cualquier artículo de esta Ordenanza será denunciado al Juzgado de Policía Local.
 
+#### Artículo 88º Bis
+
+Las infracciones a la presente Ordenanza denunciadas al Juzgado de Policía Local serán sancionadas con multas que fluctuarán de 1 a 5 UTM, por cada infracción.
+
 ## Título X
 
 Otros
