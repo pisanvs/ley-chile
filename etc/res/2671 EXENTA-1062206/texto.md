@@ -28,13 +28,15 @@ Resolución:
 
 Primera selección: 30 de junio de 2014
 
-Segunda selección: 29 de agosto de 2014
+Segunda selección: 2 de septiembre de 2014
 
-Tercera selección: 30 de septiembre de 2014
+Tercera selección: 3 de octubre de 2014
 
-Cuarta selección: 30 de octubre de 2014
+Cuarta selección: 7 de noviembre de 2014
 
-Quinta selección: 22 de diciembre de 2014
+Quinta selección: 28 de noviembre de 2014
+
+Sexta selección: 22 de diciembre de 2014.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
