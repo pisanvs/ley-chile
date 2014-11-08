@@ -60,27 +60,51 @@ El COMA base (COMAn,o), se determinará utilizando la misma proporción existent
 
 Fíjase la siguiente fórmula de indexación del V.I. definitivo y del Costo de Operación, Mantenimiento y Administración, en adelante e indistintamente "COMA", para las obras de ampliación indicadas en el artículo primero.
 
-Para determinar el V.I. definitivo de cada obra de ampliación indicada en el artículo primero, a considerar para los efectos del artículo 101 y siguientes de la ley, se utilizará la siguiente fórmula:
+Para determinar el V.I. definitivo de cada obra de ampliación indicada en el artículo primero, a considerar para los efectos del artículo 101 y siguientes de la Ley, se utilizará la siguiente fórmula:
 
 .
+
+Y donde los factores α, β1, β2, β3, β4 y β5 de la fórmula señalada para las obras de ampliación Nº 1 a 16 del artículo primero son las siguientes:
+
+.
+
+Para determinar el COMA de cada obra de ampliación indicada en el artículo primero, a considerar para los efectos de los artículos 101 y siguientes de la Ley, se utilizará la siguiente fórmula:
+
+.
+
+Donde, para todas las fórmulas anteriores:
+
+VIn,k : Valor del V.I. de la obra de ampliación n para el mes k, con n = 1 a 16.
+
+COMAn,k : Valor del COMA de la obra de ampliación para el mes k, con n= 1 a 16.
+
+IPCk : Valor del Índice de Precios al Consumidor en el segundo mes anterior al mes k, publicado por el Instituto Nacional de Estadísticas (INE).
+
+DOLk : Promedio del Precio Dólar Observado, en el segundo mes anterior al mes k, publicado por el Banco Central.
+
+CPIk : Valor del índice Consumer Price Index (All Urban Consumers), en el segundo mes anterior al mes k, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: CUUR0000SA0).
+
+PFek : Valor del índice Iron and Steel, de la serie Producer Price Index - Commodities, grupo Metals and Metal Products, en el sexto mes anterior al mes k, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: WPU101).
+
+PCuk : Promedio del precio del cobre, del segundo, tercer y cuarto mes anterior al mes k, cotizado en la Bolsa de Metales de Londres (London Metal Exchange, LME), correspondiente al valor Cash Seller & Settlement mensual, publicado por el Boletín Mensual de la Comisión Chilena del Cobre, en USc/Lb.
+
+PAlk : Promedio del precio del aluminio, del segundo, tercer y cuarto mes anterior al mes k, cotizado en la Bolsa de Metales de Londres (London Metal Exchange, LME), correspondiente al valor Cash Seller & Settlement mensual, publicado por el Boletín Mensual de la Comisión Chilena del Cobre, expresado en USc/Lb.
 
 Tak : Tasa de derechos arancelarios aplicables a la importación de bienes de capital, vigente en el último día del segundo mes anterior al mes k.
 
 Los valores base para los índices antes definidos, corresponden a los que a continuación se indican:
 
-VIn,0 : Valor del V.I. de la obra de ampliación n para el mes 0, mes establecido en el artículo primero, con
+VIn,0 : Valor del V.I. de la obra de ampliación n para el mes 0, mes establecido en el artículo primero, con n= 1 a 16.
 
-N = 1 a 16.
-
-COMAn,0 : Valor del COMA de la obra de ampliación n para el mes 0, mes establecido en el artículo primero, con n = 1 a 16, determinado de acuerdo a lo estipulado en el artículo segundo.
+COMAn,0 : Valor del COMA de la obra de ampliación n para el mes 0, mes establecido en el artículo primero, con n= 1 a 16, determinado de acuerdo a lo estipulado en el artículo segundo.
 
 IPC0 : Valor del Índice de Precios al Consumidor en el segundo mes anterior al mes base establecido en el artículo primero, publicado por el Instituto Nacional de Estadísticas (INE).
 
 DOL0 : Promedio del Precio Dólar Observado, en el segundo mes anterior al base establecido en el artículo primero, publicado por el Banco Central.
 
-CPI0 : Valor del Índice Consumer Price Index (All Urban Consumers), en el segundo mes al mes base establecido en el artículo primero, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: CUUR0000SA0).
+CPI0 : Valor del índice Consumer Price Index (All Urban Consumers), en el segundo mes al mes base establecido en el artículo primero, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: CUUR0000SA0).
 
-PFe0 : Valor del Índice Iron and Steel, de la serie Producer Price Index - Commodities, grupo Metals and Metal Products, en el sexto mes anterior al mes base establecido en el artículo primero, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: WPU101).
+PFe0 : Valor del índice Iron and Steel, de la serie Producer Price Index - Commodities, grupo Metals and Metal Products, en el sexto mes anterior al mes base establecido en el artículo primero, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de EE.UU. (Código BLS: WPU101).
 
 PCuk : Promedio del precio del cobre, del segundo, tercer y cuarto mes anterior al mes base establecido en el artículo primero, cotizado en la Bolsa de Metales de Londres (London Metal Exchange, LME), correspondiente al valor Cash Seller & Settlement mensual, publicado por el Boletín Mensual de la Comisión Chilena del Cobre, en USc/Lb.
 
