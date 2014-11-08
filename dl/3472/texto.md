@@ -10,9 +10,7 @@ Decreto ley:
 
 #### Artículo 1°
 
-Créase una persona jurídica de derecho público, de duración indefinida, con domicilio en la ciudad de Santiago, denominada "Fondo de Garantía para Pequeños y medianos Empresarios", en adelante "el Fondo", destinada a garantizar los créditos, las operaciones de leasing y otros mecanismos de financiamiento autorizados al efecto por la Comisión para el Mercado Financiero, en adelante financiamiento o financiamientos, que las instituciones financieras públicas y privadas y el Servicio de Cooperación Técnica otorguen a los pequeños y medianos empresarios en la forma y condiciones señaladas en el presente decreto ley y en la reglamentación que dicte la Comisión para el Mercado Financiero.
-
-Adicionalmente, el Fondo estará destinado a garantizar créditos de postergación, créditos hipotecarios y otros contratos de mutuo de dinero o de operaciones de crédito de dinero, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+Créase una persona jurídica de derecho público, de duración indefinida, con domicilio en la ciudad de Santiago, denominada "Fondo de Garantía para Pequeños Empresarios", en adelante "el Fondo", destinada a garantizar los créditos, las operaciones de leasing y otros mecanismos de financiamiento autorizados al efecto por la Superintendencia de Bancos e Instituciones Financieras, en adelante financiamiento o financiamientos, que las instituciones financieras públicas y privadas y el Servicio de Cooperación Técnica otorguen a los pequeños empresarios en la forma y condiciones señaladas en el presente decreto ley y en la reglamentación que dicte la Superintendencia de Bancos e Instituciones Financieras.
 
 El Fondo no podrá contratar personal.
 
@@ -24,7 +22,7 @@ El patrimonio del Fondo estará formado por:
 
 a) Un aporte fiscal equivalente a 500.000 U.F.
 
-b) Las comisiones que éste perciba por el otorgamiento de la garantía del Fondo, las que serán fijadas por la Comisión para el Mercado Financiero.
+b) Las comisiones que éste perciba por el otorgamiento de la garantía del Fondo, las que serán fijadas por la Superintendencia de Bancos e Instituciones Financieras.
 
 c) El producto de las inversiones que el Fondo realice.
 
@@ -38,31 +36,23 @@ g) Un aporte fiscal de 130.000.000 de dólares moneda de los Estados Unidos de A
 
 h) Un aporte fiscal de 50.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en otras monedas extranjeras o en moneda nacional.
 
-i) Un aporte fiscal de 100.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en otras monedas extranjeras o en moneda nacional.
-
-j) Un aporte fiscal de hasta 3.000.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en otras monedas extranjeras o en moneda nacional.
-
 El Fondo estará facultado para invertir sus recursos en depósitos a plazo o en instrumentos financieros de fácil liquidez en la forma que lo determine el Banco Central de Chile.
 
 Un decreto supremo del Ministerio de Hacienda establecerá la proporción o parte del aporte fiscal señalado en la letra f) precedente que deberá mantenerse en moneda extranjera y la forma, instrumentos y proporción de éste que deberá invertirse en el exterior.
 
-El Fisco podrá efectuar retiros de capital desde el Fondo si es que éste no registra un monto de garantías tal que se supere lo instruido por la Comisión para el Mercado Financiero conforme al artículo 5° de esta ley, durante un periodo de 6 meses consecutivos. Sin embargo, habiéndose materializado tales retiros de capital, ante una superación del límite instruido conforme a dicho artículo, y a requerimiento del administrador del Fondo, el Fisco deberá restituir los recursos retirados, en el plazo de ciento veinte días contado desde la fecha del requerimiento.
-
 #### Artículo 3°
 
-Podrán optar a la garantía del Fondo los pequeños y medianos empresarios cuyas ventas netas anuales no excedan de 100.000 unidades de fomento, y los exportadores cuyo monto exportado haya sido en los dos años calendarios anteriores, en promedio, de un valor FOB igual o inferior a US$16.700.000, reajustado anualmente en el porcentaje de variación que en el año precedente haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile, según lo certifique el Banco Central de Chile, que tengan necesidades de capital de trabajo o proyectos de inversión.
+Podrán optar a la garantía del Fondo los pequeños empresarios cuyas ventas netas anuales no excedan de 25.000 unidades de fomento, y los exportadores cuyo monto exportado haya sido en los dos años calendarios anteriores, en promedio, de un valor FOB igual o inferior a US$16.700.000, reajustado anualmente en el porcentaje de variación que en el año precedente haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile, según lo certifique el Banco Central de Chile, que tengan necesidades de capital de trabajo o proyectos de inversión.
 
 También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2º de la ley Nº 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso anterior.
 
-En el caso de las empresas, cuyas ventas netas anuales superen las 25.000 unidades de fomento, o su equivalente en moneda extranjera, el Ministerio de Hacienda podrá establecer, mediante decreto supremo expedido bajo la fórmula "por orden del Presidente de la República", que estas empresas solo podrán optar a la garantía del Fondo en la medida que sus ventas netas anuales se hubiesen deteriorado en un diez por ciento, conforme a los criterios que fije el Ministerio de Hacienda en el citado decreto.
-
-La Comisión para el Mercado Financiero reglamentará la forma de determinación de los montos de las ventas anuales a que se refiere este artículo y podrá establecer normas generales para hacer incompatibles los financiamientos garantizados por el Fondo con otros financiamientos concedidos por instituciones del Estado.
+La Superintendencia de Bancos e Instituciones Financieras reglamentará la forma de determinación de los montos de las ventas anuales a que se refiere este artículo y podrá establecer normas generales para hacer incompatibles los financiamientos garantizados por el Fondo con otros financiamientos concedidos por instituciones del Estado.
 
 #### Artículo 4°
 
-Los financiamientos que garantice el Fondo serán en moneda corriente, con excepción de aquellos destinados a pequeños y medianos empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera. En todo caso, los financiamientos garantizados por el Fondo no podrán exceder en total, de 15.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa.
+Los financiamientos que garantice el Fondo serán en moneda corriente, con excepción de aquellos destinados a pequeños empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera. En todo caso, los financiamientos garantizados por el Fondo no podrán exceder en total, de 3.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa. La Superintendencia de Bancos e Instituciones Financieras podrá, mediante una norma de carácter general, elevar el monto máximo de los financiamientos a los que se refiere este inciso, sujeto a las condiciones que establezca, los que en ningún caso podrán exceder de 5.000 unidades de fomento, o su equivalente en moneda extranjera.
 
-Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento de hasta 5.000 unidades de fomento, o su equivalente en moneda extranjera, a las empresas cuyas ventas anuales no superen las 25.000 unidades de fomento, ni garantizar más del 50% del saldo deudor de cada financiamiento de hasta 15.000 unidades de fomento, o su equivalente en moneda extranjera, a las empresas cuyas ventas anuales superen las 25.000 unidades de fomento.
+Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento de hasta 3.000 unidades de fomento, ni más del 50% de dicho saldo respecto de cada financiamiento cuyo monto exceda de 3.000 unidades de fomento, o su equivalente en moneda extranjera, y no sobrepase las 5.000 unidades de fomento, o su equivalente en moneda extranjera.
 
 Respecto de los exportadores a que se refiere la última parte del inciso primero del artículo anterior, el monto máximo del financiamiento a garantizar a cada exportador no podrá exceder la cantidad de dinero en moneda nacional o en moneda extranjera, equivalente a 5.000 Unidades de Fomento. Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento.
 
@@ -78,19 +68,17 @@ Las infracciones a lo establecido en el inciso anterior serán castigadas con pr
 
 El Fondo será administrado por el Banco del Estado de Chile, quien, además, tendrá su representación legal.
 
-El Fondo y con acuerdo de la Comisión para el Mercado Financiero, deberá licitar total o parcialmente entre las diversas instituciones financieras, incluyendo el Banco del Estado de Chile, y el Servicio de Cooperación Técnica la utilización del Fondo.
+El Fondo y con acuerdo de la Superintendencia de Bancos e Instituciones Financieras, deberá licitar total o parcialmente entre las diversas instituciones financieras, incluyendo el Banco del Estado de Chile, y el Servicio de Cooperación Técnica la utilización del Fondo.
 
-El Fondo podrá caucionar obligaciones hasta por un monto que, en su conjunto, no exceda la relación que con respecto a su patrimonio determine la Comisión para el Mercado Financiero.
+El Fondo podrá caucionar obligaciones hasta por un monto que, en su conjunto, no exceda la relación que con respecto a su patrimonio determine la Superintendencia de Bancos e Instituciones Financieras.
 
-Corresponderá al Administrador del Fondo especificar, en las bases de cada licitación, las condiciones generales en que las instituciones participantes y los pequeños y medianos empresarios y exportadores podrán acceder a la garantía y hacer uso de los derechos de garantía licitados. En todo caso, en las bases se establecerá que los adjudicatarios no podrán destinar más del 50% del monto adjudicado a un solo sector económico, a las personas jurídicas y organizaciones a que se refiere el inciso segundo del artículo 3º.
+Corresponderá al Administrador del Fondo especificar, en las bases de cada licitación, las condiciones generales en que las instituciones participantes y los pequeños empresarios y exportadores podrán acceder a la garantía y hacer uso de los derechos de garantía licitados. En todo caso, en las bases se establecerá que los adjudicatarios no podrán destinar más del 50% del monto adjudicado a un solo sector económico, a las personas jurídicas y organizaciones a que se refiere el inciso segundo del artículo 3º, ni a los financiamientos cuyo monto fluctúe entre 3.000 y 5.000 unidades de fomento, o su equivalente en moneda extranjera.
 
-En las bases de licitación el administrador establecerá el porcentaje del total de garantías a licitar a empresas cuyas ventas anuales superen las 25.000 unidades de fomento, el que no podrá ser mayor al 50% del monto licitado.
-
-Con la o las instituciones adjudicatarias de la o las licitaciones a que se refiere el inciso segundo, el administrador deberá celebrar contratos en los cuales podrá establecerse el procedimiento para el otorgamiento de la garantía del Fondo, la forma de calificar si los créditos vencidos e impagos que se le presente a cobro cumplen con los requisitos para gozar de la garantía y en caso afirmativo la forma de reembolsar a la institución; la forma de invertir sus recursos en depósitos o instrumentos bancarios, y el procedimiento para la cobranza de los financiamientos pagados por el Fondo y las demás condiciones que determine la Comisión para el Mercado Financiero.
+Con la o las instituciones adjudicatarias de la o las licitaciones a que se refiere el inciso segundo, el administrador deberá celebrar contratos en los cuales podrá establecerse el procedimiento para el otorgamiento de la garantía del Fondo, la forma de calificar si los créditos vencidos e impagos que se le presente a cobro cumplen con los requisitos para gozar de la garantía y en caso afirmativo la forma de reembolsar a la institución; la forma de invertir sus recursos en depósitos o instrumentos bancarios, y el procedimiento para la cobranza de los financiamientos pagados por el Fondo y las demás condiciones que determine la Superintendencia de Bancos e Instituciones Financieras.
 
 El administrador del Fondo deberá efectuar un balance anual de sus operaciones.
 
-El Banco del Estado de Chile tendrá derecho a una comisión de administración en la forma y condiciones que fije la Comisión para el Mercado Financiero.
+El Banco del Estado de Chile tendrá derecho a una comisión de administración en la forma y condiciones que fije la Superintendencia de Bancos e Instituciones Financieras.
 
 #### Artículo 6°
 
@@ -104,11 +92,11 @@ Las instituciones remitirán a lo menos semanalmente al Fondo las sumas que haya
 
 #### Artículo 8°
 
-Si el Administrador del Fondo se negare a pagar un financiamientos que cumple con los requisitos para hacer efectiva la garantía de éste, u objeta dicho pago cuando la propia institución participante lo hubiere resuelto según sea lo convenido en el respectivo contrato, la Comisión para el Mercado Financiero resolverá la diferencia sin forma de juicio y a solicitud de alguna de las partes.
+Si el Administrador del Fondo se negare a pagar un financiamientos que cumple con los requisitos para hacer efectiva la garantía de éste, u objeta dicho pago cuando la propia institución participante lo hubiere resuelto según sea lo convenido en el respectivo contrato, la Superintendencia de Bancos e Instituciones Financieras resolverá la diferencia sin forma de juicio y a solicitud de alguna de las partes.
 
-Asimismo, corresponderá a la Comisión para el Mercado Financiero, resolver en calidad de árbitro arbitrador cualquiera dificultad que se suscite entre el administrador del Fondo y las instituciones adjudicatarias, respecto de la validez de los contratos, su vigencia, interpretación, ejecución, cumplimiento, nulidad, rescisión, resolución o terminación.
+Asimismo, corresponderá a la Superintendencia de Bancos e Instituciones Financieras, resolver en calidad de árbitro arbitrador cualquiera dificultad que se suscite entre el administrador del Fondo y las instituciones adjudicatarias, respecto de la validez de los contratos, su vigencia, interpretación, ejecución, cumplimiento, nulidad, rescisión, resolución o terminación.
 
-De las resoluciones de la Comisión para el Mercado Financiero a que se refiere este artículo, sólo se podrá interponer reclamo de acuerdo al procedimiento establecido en el artículo 22 de la ley General de Bancos, ante la Corte de Apelaciones correspondiente al domicilio del afectado. El reclamo deberá interponerse dentro del plazo de 10 días, contados desde la fecha de la resolución de la citada Comisión.
+De las resoluciones de la Superintendencia de Bancos e Instituciones Financieras a que se refiere este artículo, sólo se podrá interponer reclamo de acuerdo al procedimiento establecido en el artículo 22 de la ley General de Bancos, ante la Corte de Apelaciones correspondiente al domicilio del afectado. El reclamo deberá interponerse dentro del plazo de 10 días, contados desde la fecha de la resolución de la citada Superintendencia.
 
 #### Artículo 9°
 
@@ -116,88 +104,14 @@ Los ingresos del Fondo quedarán exentos de toda clase de impuestos o contribuci
 
 #### Artículo 10
 
-Corresponderá a la Comisión para el Mercado Financiero la fiscalización del Fondo. Este no quedará sujeto a las normas de Administración Financiera del Estado ni a las demás disposiciones aplicables al sector público.
+Corresponderá a la Superintendencia de Bancos e Instituciones Financieras la fiscalización del Fondo. Este no quedará sujeto a las normas de Administración Financiera del Estado ni a las demás disposiciones aplicables al sector público.
 
 #### Artículo 11
 
-El Fondo podrá, sujeto a las condiciones que establezca para estos efectos la Comisión para el Mercado Financiero y previa autorización del Ministerio de Hacienda, contratar con instituciones públicas o privadas, nacionales o extranjeras, mecanismos de reafianzamiento o de seguro respecto de las garantías vigentes o las que otorgue en el futuro. Asimismo, podrá convenir y pagar comisiones o primas por los reafianzamientos o seguros contratados, con cargo a sus recursos, las que no podrán exceder de una proporción que determinará la Comisión para el Mercado Financiero sobre el monto de las comisiones y el producto de las inversiones que perciba a que se refieren las letras b) y c) del artículo 2º.
+El Fondo podrá, sujeto a las condiciones que establezca para estos efectos la Superintendencia de Bancos e Instituciones Financieras y previa autorización del Ministerio de Hacienda, contratar con instituciones públicas o privadas, nacionales o extranjeras, mecanismos de reafianzamiento o de seguro respecto de las garantías vigentes o las que otorgue en el futuro. Asimismo, podrá convenir y pagar comisiones o primas por los reafianzamientos o seguros contratados, con cargo a sus recursos, las que no podrán exceder de una proporción que determinará la Superintendencia de Bancos e Instituciones Financieras sobre el monto de las comisiones y el producto de las inversiones que perciba a que se refieren las letras b) y c) del artículo 2º.
 
-#### Artículo 12
-
-El Fondo podrá garantizar créditos hipotecarios y otros créditos que se utilicen para pagar créditos hipotecarios, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
-
-No serán aplicables a esta garantía los artículos 3 y 4, ni el inciso cuarto del artículo 5 de este decreto ley.
-
-Las garantías señaladas en este artículo se regirán por las normas de este decreto ley y el reglamento de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas.
-
-#### Artículo primero
+#### Artículo único
 
 transitorio.- Se faculta al Presidente de la República para poner a disposición del Fondo que se crea en este decreto ley el aporte a que se refiere la letra a) del artículo 2° con cargo a la Ley de Presupuesto vigente.
-
-#### Artículo segundo
-
-transitorio.- Derogado.
-
-#### Artículo tercero
-
-transitorio.- Reemplázanse los incisos primero y segundo del artículo 4º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios ( Fogape ) y flexibiliza temporalmente sus requisitos y hasta el 31 de diciembre de 2021, inclusive, por los siguientes incisos primero, segundo, tercero y cuarto, pasando el actual inciso tercero a ser quinto, y así sucesivamente:
-
-#### Artículo 4º
-
-Los financiamientos que garantice el Fondo, cuando sean otorgados por instituciones que tengan acceso a financiamiento del Banco Central de Chile, deberán tener una tasa de interés nominal anual que no sea mayor a la tasa de política monetaria más el equivalente anual de una tasa de 0,6% mensual.
-
-Con todo, el Fondo no podrá:
-
-a) Garantizar más del 85% del saldo deudor de cada financiamiento, ni garantizar financiamientos que excedan el total de 6.250 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa cuyas ventas netas anuales no superen las 25.000 unidades de fomento, o su equivalente en moneda extranjera.
-
-b) Garantizar más del 80% del saldo deudor de cada financiamiento, ni garantizar financiamientos que excedan el total de 25.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa cuyas ventas netas anuales superen las 25.000 unidades de fomento, o su equivalente en moneda extranjera y no excedan de 100.000 unidades de fomento, o su equivalente en moneda extranjera.
-
-c) Eliminado.
-
-d) Eliminado.
-
-Sin perjuicio de lo anterior, el Ministerio de Hacienda podrá, mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley, aumentar el límite de cobertura del saldo deudor de cada financiamiento y aumentar, hasta el doble, el monto máximo de los financiamientos establecidos en el inciso anterior, para determinados sectores económicos que se vean mayormente afectados por la situación financiera y económica del país.
-
-Asimismo, el Ministerio de Hacienda podrá establecer mediante los decretos supremos señalados en el inciso anterior que, en caso de que el financiamiento que garantice el Fondo se caucione también con hipoteca o prenda en favor de la respectiva institución financiera, y se otorgue con el objeto de adquirir activos fijos, el Fondo podrá garantizar financiamientos que no excedan 1,5 veces los montos de los límites en unidades de fomento establecidos en el inciso segundo de este artículo. De igual manera, se podrá establecer que el Fondo también podrá garantizar financiamientos que no excedan 1,5 veces los montos de los mencionados límites en unidades de fomento, cuando el financiamiento que garantice el Fondo se otorgue con el objeto de financiar operaciones de leasing.
-
-#### Artículo cuarto
-
-transitorio.- Modifícase el artículo 5º del presente decreto ley, desde la entrada en vigencia de la ley que aumenta el capital del Fondo de Garantía para Pequeños y Medianos Empresarios (Fogape) y flexibiliza temporalmente sus requisitos y hasta el 31 de diciembre de 2021, inclusive, en el siguiente sentido:
-
-1) Elimínase en el inciso cuarto la frase "pequeños y medianos".
-
-2) Elimínase el inciso quinto.
-
-#### Artículo quinto
-
-transitorio.- El Ministerio de Hacienda podrá emitir uno o más decretos supremos, bajo la fórmula "Por orden del Presidente de la República", en los cuales establecerá los requisitos y condiciones mínimas que deben cumplir ciertas bases de licitaciones, pudiendo establecer distintos tipos o regímenes de licitaciones y sus respectivos requisitos, condiciones y criterios específicos. Asimismo, dichos decretos regularán el funcionamiento del Fondo de Garantía para Pequeños y Medianos Empresarios y todos los demás aspectos necesarios para la mejor aplicación de esta ley, sin perjuicio de las normas que corresponda dictar a la Comisión para el Mercado Financiero. El presente artículo estará vigente hasta el 31 de diciembre del año 2028. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo. El cumplimiento de estos plazos no afectarán la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente decreto ley y los referidos decretos supremos.
-
-#### Artículo sexto
-
-transitorio.- Con todo, los derechos adjudicados en licitaciones anteriores a la entrada en vigencia de los artículos segundo, tercero, cuarto y quinto transitorios de esta ley, así como aquellos fondos disponibles de licitaciones anteriores a la vigencia de los mencionados artículos, se mantendrán vigentes para quienes se los hubieran adjudicado en dicha licitación, salvo que opten expresamente por desistirse de los derechos adjudicados, optando por las condiciones establecidas en los referidos artículos, y especialmente en las condiciones que establezcan los decretos supremos expedidos por el Ministerio de Hacienda en virtud del artículo quinto transitorio de esta ley.
-
-Los financiamientos garantizados por el Fondo de Garantía para Pequeños y Medianos Empresarios con anterioridad a la entrada en vigencia de los artículos segundo, tercero, cuarto y quinto transitorios de esta ley, no se computarán para la aplicación y limitaciones que establece el artículo tercero transitorio de esta ley.
-
-#### Artículo séptimo
-
-transitorio.- Intercálase en el inciso sexto del artículo 4° del presente decreto ley, que ha pasado a ser transitoriamente inciso octavo, desde la entrada en vigencia de la ley que modifica el Fondo de Garantía para Pequeños y Medianos Empresarios (FOGAPE) con el objeto de potenciar la reactivación y recuperación de la economía, y hasta el 31 de diciembre de 2021, inclusive, entre las expresiones "gastos," y "constitución o aportes", la expresión "refinanciamientos sujetos a requisitos que se establezcan mediante los decretos supremos referidos en el artículo quinto transitorio del presente decreto ley,".
-
-#### Artículo séptimo
-
-transitorio.- Desde la entrada en vigencia de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y hasta el término de su vigencia, intercálase en el artículo 1 de este decreto ley el siguiente inciso segundo, nuevo, pasando el actual inciso segundo a ser tercero:
-
-"Adicionalmente, el Fondo estará destinado a garantizar créditos de postergación, créditos hipotecarios y otros contratos de mutuo de dinero o de operaciones de crédito de dinero, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
-
-#### Artículo octavo
-
-transitorio.- Desde la entrada en vigencia de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y hasta el término de su vigencia, agrégase en este decreto ley, el siguiente artículo 12, nuevo:
-
-#### Artículo 12
-
-El Fondo podrá garantizar créditos hipotecarios y otros créditos que se utilicen para pagar créditos hipotecarios, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
-
-No serán aplicables a esta garantía los artículos 3 y 4, ni el inciso cuarto del artículo 5 de este decreto ley.
-
-Las garantías señaladas en este artículo se regirán por las normas de este decreto ley y el reglamento de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Sergio de Castro Spikula, Ministro de Hacienda.
