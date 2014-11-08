@@ -88,19 +88,29 @@ Para instrumentos cuyo plazo de vencimiento sea superior a un año las equivalen
 
 #### Artículo 4
 
-Para los instrumentos de crédito emitidos por municipalidades de Estados Unidos y cuyo plazo de vencimiento sea inferior a un año, las equivalencias entre los niveles señalados en el inciso segundo del artículo 105 de la Ley y las clasificaciones definidas y utilizadas por las entidades internacionales reconocidas, serán las siguientes:
+Para los instrumentos de crédito emitidos por municipalidades de Estados Unidos y cuyo plazo de vencimiento sea inferior a un año, que sean clasificados en categorías de riesgo de uso específico, las equivalencias entre los niveles señalados en el inciso segundo del artículo 105 de la Ley y las clasificaciones definidas y utilizadas por estas entidades internacionales reconocidas, serán las siguientes:
 
-Ley S&P Fitch Moody´s
+Ley S&P Moody's
 
-a) Nivel 1 A-1 F1 MIG 1
+Nivel 1 SP1+ MIG 1
 
-b) Nivel 2 A-2 F2 MIG 2
+Nivel 2 SP1 MIG 2
 
-c) Nivel 3 A-3 F3 MIG 3
+Nivel 3 SP2 MIG 3
 
-d) Nivel 4 Cualquier otra clasificación no definida
+Nivel 4 Cualquier otra clasificación no definida anteriormente.
 
-anteriormente.
+Asimismo, para los instrumentos de crédito emitidos por municipalidades de Estados Unidos y cuyo plazo de vencimiento se encuentre entre uno y tres años, que sean clasificados en categorías de riesgo de uso específico, las equivalencias entre los niveles señalados en el inciso primero del artículo 105 de la Ley y las clasificaciones definidas y utilizadas por estas entidades internacionales reconocidas, serán las siguientes:
+
+Ley S&P Moody's
+
+Categoría A SP-1(+) MIG 1/MIG 2
+
+Categoría BBB SP-2 MIG 3
+
+Categoría D Cualquier otra clasificación no definida anteriormente.
+
+Para los instrumentos de crédito emitidos por municipalidades de Estados Unidos, que sean clasificados en categorías de riesgo generales por las entidades clasificadoras internacionales indicadas en el artículo 2 anterior, se utilizarán las equivalencias establecidas en los artículos 3 y 5, según corresponda.
 
 #### Artículo 5
 
@@ -122,7 +132,7 @@ Las acciones emitidas por empresas y entidades bancarias extranjeras y los certi
 
 #### Artículo 7
 
-Se evaluará el riesgo país en función de la clasificación de riesgo que tenga el país donde esté situada la bolsa de valores en la cual se encuentren inscritas las acciones o los certificados negociables, y los Fondos puedan transarlos. Se entenderá por clasificación de riesgo país la correspondiente a los instrumentos de largo plazo en moneda extranjera emitidos por el Estado extranjero o su banco central. La clasificación equivalente e indicativa de mayor riesgo asignada por al menos dos de las entidades clasificadoras internacionales indicadas en el artículo 2, deberá ser igual o superior a Categoría AA, considerando lo establecido en el artículo 3 anterior.
+Se evaluará el riesgo país en función de la clasificación de riesgo que tenga el país donde esté situada la bolsa de valores en la cual se encuentren inscritas las acciones o los certificados negociables, y los Fondos puedan transarlos. Se entenderá por clasificación de riesgo país la correspondiente a los instrumentos de largo plazo en moneda extranjera emitidos por el Estado extranjero o su Banco Central. La clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionales indicadas en el artículo 2, deberá ser igual o superior a Categoría AA, considerando lo establecido en el artículo 3 anterior.
 
 #### Artículo 8
 
@@ -164,11 +174,11 @@ El administrador de un fondo mutuo o de inversión extranjero, cuyas cuotas se e
 
 La clasificación de riesgo del país donde esté constituido el fondo mutuo o de inversión, y la sociedad administradora del mismo, deberá ser al menos Categoría A, de acuerdo con lo establecido en el artículo 3 anterior. Por su parte, la clasificación de riesgo del país donde esté constituida la matriz de la sociedad administradora deberá ser al menos Categoría BBB, conforme lo dispone el citado artículo 3.
 
-La clasificación de riesgo del país cuya regulación sea aplicable al fondo mutuo o de inversión, la sociedad administradora del mismo y la bolsa de valores en que pueda ser transada la cuota del fondo de inversión, deberá ser al menos Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior. Cuando más de un país regule al fondo mutuo o de inversión o su sociedad administradora, la clasificación de riesgo relevante será la indicativa de menor riesgo de entre aquellos países que regulen a la entidad.
+La clasificación de riesgo del país cuya regulación sea aplicable al fondo mutuo o de inversión, la sociedad administradora del mismo y la bolsa de valores en que pueda ser transada la cuota del fondo de inversión, deberá ser al menos Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior. Cuando más de un país regule al fondo mutuo o de inversión o su sociedad administradora, la clasificación de riesgo relevante será la de menor riesgo de entre aquellos países que regulen a la entidad.
 
-La clasificación de riesgo del país deberá ser asignada por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
+La clasificación del país a considerar, será la de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
 
-Sin perjuicio de lo anterior, y sólo en casos excepcionales, la Comisión podrá aprobar la clasificación de riesgo del país donde esté constituido o sea regulado el fondo mutuo o de inversión o su sociedad administradora, cuando no cumpla con los requisitos antes señalados, considerando para ello las características del incumplimiento.
+Sin perjuicio de lo anterior, y sólo en casos excepcionales, la Comisión podrá aprobar la clasificación de riesgo del país donde esté constituido o sea regulado el fondo mutuo o de inversión o su sociedad administradora, cuando ésta sea inferior a Categoría A o Categoría AA, respectivamente, y sea igual o superior a Categoría BBB, en ambos casos, considerando al efecto su clasificación de riesgo país, ponderada en conjunto con otros factores relevantes a considerar, en particular la fortaleza y estabilidad de su marco institucional.
 
 #### Artículo 16
 
@@ -226,8 +236,8 @@ Los otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por 
 
 #### Artículo 24
 
-Los títulos representativos de índices accionarios, índices de renta fija o índices de commodities extranjeros serán asimilados a cuotas de fondos de inversión extranjeros, se aprobarán cuando cumplan los requisitos exigidos a dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, los índices accionarios, índices de renta fija e índices de commodities deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo equivalente igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior.
+Los títulos representativos de índices accionarios, índices de renta fija o índices de commodities extranjeros serán asimilados a cuotas de fondos de inversión extranjeros, se aprobarán cuando cumplan los requisitos exigidos a dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, los índices accionarios, índices de renta fija e índices de commodities deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior, considerando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
 
-La clasificación de riesgo del país deberá ser asignada por al menos dos de las entidades clasificadoras internacionales del artículo 2 anterior.
+Sin perjuicio de lo anterior, y sólo en casos excepcionales, la Comisión podrá aprobar la clasificación de riesgo del país donde esté radicada la bolsa de valores o la entidad que elabora el índice, cuando ésta sea inferior a Categoría AA, y sea igual o superior a Categoría BBB, considerando al efecto su clasificación de riesgo país, ponderada en conjunto con otros factores relevantes a considerar, en particular la fortaleza y estabilidad de su marco institucional.
 
 Santiago, 23 de diciembre de 2008.- Raúl Arismendi González, Secretario.
