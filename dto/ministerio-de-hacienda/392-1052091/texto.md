@@ -34,7 +34,7 @@ En el uso de sus facultades, le corresponderá a la Dipres proponer la asignaci�
 
 #### Artículo 5°
 
-Con todo, anualmente podrá ser retirado desde el Fondo un monto no inferior a los intereses devengados de la inversión de los recursos del mismo, durante el año inmediatamente anterior, y no superior al diez por ciento (10%) de su valor inicial.
+Con todo, anualmente podrá ser retirado desde el Fondo un monto no inferior a los intereses devengados de la inversión de los recursos del mismo, durante el año inmediatamente anterior, y no superior al veinticinco por ciento (25%) de su valor inicial.
 
 #### Artículo 6º
 
