@@ -14,7 +14,7 @@ D e c r e t o:
 
 #### Artículo 1
 
-Fíjase un porcentaje máximo de desembarque de Langostino enano Pleuroncodes sp., ascendente a un 3%, medido en peso, en relación a la especie objetivo, por viaje de pesca, en calidad de fauna acompañante en la pesca dirigida al recurso anchoveta Engraulis ringens, con red de cerco, en el área marítima de la I y II regiones.
+Fíjase un porcentaje máximo de desembarque de Langostino enano Pleuroncodes sp., ascendente a un 3%, medido en peso, o de un máximo de 5 toneladas del mismo recurso, en relación a la especie objetivo, por viaje de pesca, en calidad de fauna acompañante en la pesca dirigida a especies pelágicas pequeñas con red de cerco, en el área marítima de la XV, I y II Regiones.
 
 #### Artículo 2º
 

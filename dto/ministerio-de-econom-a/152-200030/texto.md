@@ -14,7 +14,7 @@ D e c r e t o:
 
 #### Artículo 1º
 
-Fíjase un porcentaje máximo de desembarque de Pejerrey de mar Odontesthes regia, ascendente a un 2%, medido en peso, por viaje de pesca, como fauna acompañante en la pesca dirigida a especies pelágicas pequeñas con red de cerco, en el área marítima de la I y II Regiones.
+Fíjase un porcentaje máximo de desembarque de Pejerrey de mar Odontesthes regia, ascendente a un 2%, medido en peso, o un máximo de 2 toneladas del recurso, por viaje de pesca, como fauna acompañante en la pesca dirigida a especies pelágicas pequeñas con red de cerco, en el área marítima de la XV, I y II Regiones.
 
 #### Artículo 2º
 
