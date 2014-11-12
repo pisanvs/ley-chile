@@ -1,0 +1,9 @@
+Por resolución exenta Nº2.962, de 6 de noviembre de 2014, de esta Subsecretaría, modifícase la resolución exenta Nº2.571 de 2013, modificada mediante resolución exenta Nº830 de 2014, ambas de esta Subsecretaría, que autorizó un programa de investigación del descarte para las unidades de pesquería de Merluza cola y su fauna acompañante, declaradas en régimen de plena explotación, en las áreas marítimas comprendidas entre la V a la X Regiones y XI a XII Regiones, con participación de naves industriales que utilicen red de arrastre, en el sentido de incorporar el siguiente numeral 9º bis:
+
+"9º bis.- Asimismo, autorízase la participación del Buque de Investigación "Abate Molina", en el programa de descarte de merluza de cola y su fauna acompañante, con redes de arrastre de media agua y planctónicas que no afecten el fondo marino, en el marco de pescas de investigación otorgadas de conformidad con el Título VII, Párrafo 3º de la Ley General de Pesca y Acuicultura,
+
+En estos casos la nave podrá extraer los recursos en las cantidades autorizadas en la respectiva pesca de investigación, debiendo dejar constancia de la cuantificación de las capturas totales y de la devolución al mar de las especies capturadas en calidad de especie objetivo y fauna acompañante, una vez efectuados los respectivos muestreos, así como la captura incidental y la forma en que ésta se realiza.".
+
+El texto íntegro de la presente resolución se publicará en lo sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 6 de noviembre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
