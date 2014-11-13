@@ -120,27 +120,81 @@ registradas para el mismo, ante la
 
 Autoridad Fiscalizadora.
 
-c. La demás documentación contemplada
+c. Acreditar mediante un certificado emitido
 
-en el numeral 1 del Acuerdo N° 1602E-01,
+por un perito idóneo con especialidad
 
-según se trate de un siniestro o de
+documental, la autenticidad de cada uno
 
-un hecho que revista caracteres de
+de los billetes inutilizados que se
 
-delito, considerando especialmente lo
+presenten para su canje.
 
-previsto en su letra e), y en la
+Sin perjuicio de lo anterior, las
 
-letra f) o g) según corresponda, todo
+empresas bancarias o transportadoras de
 
-lo cual es sin perjuicio de los
+valores podrán eximirse de presentar el
 
-análisis o certificaciones que, por
+citado certificado si en la solicitud de
 
-su parte, pueda efectuar o requerir
+canje respectiva solicitan expresamente
 
-el BCCh.
+que el Banco Central de Chile efectúe, a
+
+costo de la empresa solicitante, el
+
+análisis y verificación de cada uno de
+
+los billetes presentados a canje.
+
+Se entenderá por costo del peritaje de
+
+autenticidad de los billetes presentados
+
+a canje, el valor unitario resultante de
+
+la estimación del costo promedio de
+
+autentificación, custodia y uso de
+
+equipamiento especializado en los billetes
+
+entintados inutilizados por el uso de
+
+tecnologías disuasivas, el cual se
+
+establece en el Anexo Nº 3 del Reglamento
+
+Operativo.
+
+Dicho costo se incluirá en la factura que
+
+el Banco Central de Chile emitirá a la
+
+empresa solicitante, en los términos
+
+indicados en el numeral 9 del Reglamento
+
+Operativo.
+
+La demás documentación contemplada en el
+
+numeral 1 del Acuerdo Nº 1602E-01, según se
+
+trate de un siniestro o de un hecho que
+
+revista caracteres de delito, considerando
+
+especialmente lo previsto en sus letras f)
+
+o g) según corresponda, todo lo cual es sin
+
+perjuicio de los análisis o certificaciones
+
+que, por su parte, pueda efectuar o
+
+requerir el Banco Central de Chile.
 
 d. Hacer entrega de los billetes
 
@@ -232,6 +286,8 @@ Disposiciones transitorias
 
 ### 14. SUPRIMIDO
 
-> **Nota.** El Numeral 3º del Certificado S/N, Banco Central, publicado el 17.12.2013, sustituye el Anexo Nº 3 relativo al costo de reposición de los billetes que sean objeto de canje, sin embargo el citado anexo no fue publicado
+> **Nota.** El Numeral 2º del Certificado S/N, Banco Central, publicado el 13.11.2014, sustituye el Anexo Nº 3 relativo al costo de reposición de los billetes que sean objeto de canje, sin embargo el citado anexo no fue publicado.
+
+> **Nota.** NOTA 1 El Numeral 3º del Certificado S/N, Banco Central, publicado el 17.12.2013, sustituye el Anexo Nº 3 relativo al costo de reposición de los billetes que sean objeto de canje, sin embargo el citado anexo no fue publicado.
 
 Santiago, 14 de julio de 2011.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
