@@ -1,4 +1,4 @@
-IDENTIFICA FUENTES PROBABLES DE ENERGIA GEOTERMICA
+REGLAMENTO ESPECIAL QUE IDENTIFICA FUENTES PROBABLES DE ENERGÍA GEOTÉRMICA
 
 Santiago, 28 de abril de 2000.- Hoy se decretó lo que sigue:
 
@@ -18,13 +18,9 @@ D e c r e t o:
 
 Fuentes Probables de Energía Geotermica
 
-VER LISTADO EN DIARIO OFICIAL DE 28.06.2000.
+.
 
-PAGINAS 10 - 13
-
-2.- Decláranse identificadas, en el listado mencionado en el número precedente, las fuentes probables de energía geotérmica mencionadas en el inciso final del artículo 16 de la ley 19.657, conforme a la Región, provincia, comuna, coordenada U.T.M. de sus vértices y superficie, que para cada una de ellas se señala en el referido listado.
-
-> **Nota.** El Art. único del DTO 78, Minería, publicado el 03.05.2001, modificó el presente listado en la forma que indica y por no haberse ingresado el listado por restricciones técnicas temporales, no se ha podido construir su texto actualizado
+2.- Decláranse identificadas, en el listado mencionado en el número precedente, las fuentes probables de energía geotérmica mencionadas en el inciso final del artículo 16 de la ley 19.657, conforme a la Región, provincia, comuna, coordenada U.T.M. de sus vértices y superficie estimada, que para cada una de ellas se señala en el referido listado.
 
 Anótese, tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- José de Gregorio Rebeco, Ministro de Minería.
 
