@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 5.977 EXENTA, DE 2014
+
+Mediante resolución exenta Nº5.977, de 27 de octubre de 2014, el Servicio Nacional de Capacitación y Empleo, dispone el cese de su inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Jeno Patricio Aguilar Soto Capacitaciones Empresa Individual de Responsabilidad Limitada (Mas Capacitaciones Empresa Individual de Responsabilidad Limitada)", RUT 76.158.745-5 contenida en la resolución exenta Nº 10.451 de fecha 9 de noviembre de 2011, modificada por resolución exenta Nº545 de fecha 17 de enero de 2012, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del art. 21 de la ley 19.518.
+
+Santiago, 27 de octubre de 2014.- Marcia Pardo González, Jefa del Departamento de Desarrollo y Regulación de Mercado (PT).
