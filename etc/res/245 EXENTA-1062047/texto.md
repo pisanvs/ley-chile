@@ -26,7 +26,7 @@ c) El transporte escolar debidamente inscrito, los que deberán portal el certif
 
 d) El transporte privado remunerado de pasajeros, debidamente autorizados.
 
-e) Vehículos de emergencia, de servicio (entiéndase de aquellos que están destinados a superar las emergencias, de Fuerzas Armadas, de Orden y Seguridad, así como móviles adscritos al Programa Nacional de Fiscalización y los demás vehículos de uso fiscal o municipal, siempre que se encuentren debidamente identificados y en ejercicio de sus funciones.
+e) Vehículos de emergencia, de servicio (entiéndase aquellos que están destinados a superar las emergencias, de Fuerzas Armadas, de Orden y Seguridad, así como móviles adscritos al Programa Nacional de Fiscalización, siempre que se encuentren debidamente identificados y en ejercicio de sus funciones).
 
 f) Coches mortuorios y los vehículos que formen parte de servicios funerarios.
 
