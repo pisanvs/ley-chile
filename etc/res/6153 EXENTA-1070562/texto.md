@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por Resolución Exenta Nº 6153, de fecha 05 de noviembre de 2014, se ordenó la expropiación TOTAL, conforme a las normas del Decreto Ley Nº 2.186 de 1978, del denominado Lote Nº172, correspondiente al inmueble ubicado en EL SALTO 2898 SAN CRISTOBAL, Rol de Avalúo N° 4975-11, de la Comuna de , Región Metropolitana, de aparente dominio de MATURANA BRITO GUSTAVO BERNES, con una superficie aproximada de 257,65 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto “HABILITACIÓN CORREDOR DE TRANSPORTE PÚBLICO AV. DORSAL, ENTRE AV. CARDENAL JOSE MARÍA CARO Y AV. EL SALTO”. La Comisión de Peritos integrada por los señores ALFREDO IRIZARRI VALDERRAMA, Arquitecto; ANGÉLICA SEURA ROJAS, Arquitecto y LORENA GAJARDO ALARCÓN, Ingeniero Constructor, mediante Informe de fecha 05 de noviembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $121.474.455, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186 de 1978.-
+
+DIRECTOR (T. y P.) SERVIU METROPOLITANO.
