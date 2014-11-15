@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº932 de 23 de octubre de 2014, se modificó el numeral segundo del Decreto MOP (Exento) Nº2938 de 4 de diciembre de 2012 , que ordenó la expropiación del Lote Nº3, para la obra: "Diseño de Obras Fluviales Río Andalien, Esteros Nonguén y Palomares", en el sentido de agregar el propietario y rol de avalúo según el certificado del Servicio de Impuestos Internos, relativo a la propiedad afecta a expropiación, quedando: HERRERA GIOVANNETTI SANTE A y HERRERA GIOVANNETTI SANTE ARTE, rol de avalúo 1290-3 y 1290-4, Comuna de Penco, superficies 120.627 y 151.350 m2. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas (TP).
