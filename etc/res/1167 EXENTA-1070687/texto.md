@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº1.167 rectificada por resolución exenta Nº1.169, ambas de fecha 4 de noviembre de 2014, de Serviu Región de Arica y Parinacota, se ordenó la expropiación conforme a las normas del decreto ley Nº2.186 de 1978, del inmueble denominado Lote H-4 de la subdivisión del predio Chacalluta, Rol de avalúo Nº3000-436 de la comuna y provincia de Arica, de una superficie aproximada de 20,432 hectáreas, de aparente dominio de doña María Cambiaso Laneri y otros, individualizado en el plano SVU 1614 protocolizado en la Notaría Pública de Arica de don Armando Sánchez Risi bajo el Repertorio Nº4648-2014 e inscrito en mayor cabida a fojas 5698 Nº2948 del Registro de Propiedad del Conservador de Bienes Raíces de Arica del año 2002, el cual es necesario para la ejecución del proyecto de macrourbanización "Nuevo Norte" de la ciudad de Arica destinada a proyectos habitacionales. La Comisión de Peritos integrada por don Sergio Carrasco Cruzat, don Jorge Vásquez Morales y don Manuel Fuentes Marambio, Arquitectos, mediante informe de fecha 30 de agosto de 2014 fijó la indemnización provisional por causa de la referida expropiación en la suma de 214.536 unidades de fomento equivalentes al 4 de noviembre de 2014 a $5.224.370.000, la que se pagará de contado.-
+
+Julio Valenzuela Ramírez. Director (P. y T.) Serviu Región de Arica y Parinacota.
