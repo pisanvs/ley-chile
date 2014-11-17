@@ -40,9 +40,11 @@ Acogiendo la recomendación de la Comisión Interamericana de Telecomunicaciones
 
 Las bandas de frecuencias 698 - 703 MHz y 803 - 806 MHz serán destinadas a bandas de guarda.
 
+Las bandas 703 - 713 y 758 - 768 MHz quedarán reservadas, para su uso total o parcial, por parte del Estado para atender las necesidades de protección pública y socorro en caso de catástrofe o emergencia. La asignación de frecuencias de dichas bandas quedará sujeta al resultado de los estudios y medidas de compatibilidad con el servicio de radiodifusión televisiva digital que emplea la banda de frecuencias adyacente.
+
 #### Artículo 2º
 
-Las autorizaciones para el uso de frecuencias de esta canalización se otorgarán mediante concesiones, las que serán asignadas mediante concurso público. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
+Las autorizaciones para el uso de frecuencias de esta canalización se otorgarán mediante concesiones, las que serán asignadas mediante concurso público, excepto en el caso señalado en el inciso final del artículo 1° de la presente norma. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
 
 #### Artículo 3º
 
@@ -58,11 +60,15 @@ En caso de eventuales interferencias entre concesionarias del servicio que opere
 
 Las concesionarias del servicio que operen en las bandas de frecuencias reguladas en la presente norma, podrán ubicar las radioestaciones terminales de usuario del servicio fijo en cualquier parte de la zona de servicio autorizada y podrán reubicarlas dentro de ella de acuerdo a la demanda, constituyendo radioestaciones móviles para efectos de lo dispuesto en el numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones.
 
-DISPOSICIÓN TRANSITORIA
+DISPOSICIONES TRANSITORIAS
 
-#### Artículo único
+#### Artículo Primero
 
 La Subsecretaría de Telecomunicaciones, en coordinación con el Consejo Nacional de Televisión, establecerá el procedimiento aplicable para obtener el despeje de las frecuencias de los canales analógicos 54 (710 - 716 MHz) en Santiago y 57 (728 - 734 MHz) en Valparaíso, del Servicio de Radiodifusión Televisiva.
+
+#### Artículo Segundo
+
+La Subsecretaría de Telecomunicaciones, mediante estudios teóricos o pruebas experimentales realizadas directamente u obtenidas de la comunidad internacional, de ser necesario podrá establecer medidas de mitigación para prevenir eventuales interferencias.
 
 Anótese y publíquese en el Diario Oficial.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
