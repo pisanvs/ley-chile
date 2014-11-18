@@ -8,11 +8,9 @@ Decreto:
 
 #### Artículo 1º
 
-Declárase Zona Típica el sector que se indica de la ciudad de Puerto Varas, cuyos límites son: Norte: Línea quebrada desde punto distante a 48 mts. aproximadamente del eje calle Machwual y 50 mts. eje calle San José, en una longitud aproximada de 160 mts. Baja en línea recta hasta borde norte calle San José en 40 mts., y continúa al oriente por el borde norte de la calle San José en línea quebrada aproximadamente 560 mts.
+Declárase Zona Típica el sector que se indica de la ciudad de Puerto Varas, cuyos límites son:
 
-Oriente: Línea quebrada desde extremo oriente del límite norte, distante 35 mts. del eje de calle San Bernardo, hacia el Sur en una longitud aproximada de 150 mts. Poniente: Línea recta desde extremo poniente del límite norte, distante a 48 mts. al poniente del eje calle Machwual, hacia el Sur, en una longitud aproximada de 120 mts.
-
-Sur: Línea recta desde límite poniente hasta intersección de calles San Javier y línea vieja en una longitud de 190 mts. aproximadamente, siguiendo por borde sur de calle San Javier en línea recta en 100 mts. aproximadamente continuando por borde poniente de calle Dr. Otto Bader en toda su longitud, 120 mts. aproximadamente y luego hacia el Oriente en línea recta 140 mts. aproximadamente hasta borde poniente calle San Ignacio. Baja al Sur en línea recta en una extensión de 130 mts. Continuando en línea recta, por borde sur calle María Brumm hasta borde oriente calle Purísima, subiendo en línea recta 240 mts. aproximadamente y cerrando en línea quebrada hasta el límite oriente en 230 mts. aproximadamente.
+El área del polígono tiene una superficie aproximada de 212.962,78 m2 según se delimita por el polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-1 del plano adjunto, que forma parte del presente decreto.
 
 #### Artículo 2º
 
