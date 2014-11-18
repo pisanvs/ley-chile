@@ -6,7 +6,7 @@ D e c r e t o:
 
 #### Artículo primero
 
-Otórgase a Gasoducto Atacama Compañía Limitada, Rol Unico Tributario 78.882.820-9, una concesión definitiva para establecer, operar y explotar el servicio público de transporte de gas natural a través de la ruta "Paso de Jama-Mejillones", en la Segunda Región.
+Otórgase a GasAtacama Chile S.A., RUT Nº 78.932.860-9, una concesión definitiva para establecer, operar y explotar el servicio público de transporte de gas natural a través de la ruta "Paso de Jama-Mejillones", en la Segunda Región.
 
 #### Artículo segundo
 
@@ -16,25 +16,15 @@ a) PUNTOS DE ORIGEN Y DESTINOS DE LA RUTA PASO DE
 
 JAMA-MEJILLONES
 
-Punto de origen : Paso de Jama (Frontera), comuna de San
+Datum WGS 84, Zona 19:
 
-Pedro de Atacama, Provincia de El Loa, II
+.
 
-Región de Antofagasta.
+Coordenadas UTM Datum PSAD 56:
 
-Coordenadas U.T.M.: 7.429 Km N - 698 Km
+.
 
-E.
-
-Destino : Puerta de Entrada (City Gate) Mejillones,
-
-comuna de Mejillones, Provincia de
-
-Antofagasta, II Región de Antofagasta.
-
-Coordenadas U.T.M.: 7.446 Km N - 356 Km
-
-E.
+El flujo del gasoducto es bidireccional, y tanto el City Gate (Puerta de entrada) como el Paso Jama pueden ser indistintamente puntos de origen o de destino.
 
 b) RUTA PROYECTADA PARA CONSTRUIR EL SISTEMA DE TRANSPORTE
 
@@ -42,145 +32,9 @@ El transporte de gas natural se realizará a través del Paso de Jama de la Cord
 
 La ruta del trazado del gasoducto, así como los bienes nacionales de uso público que se ocuparán, producto del paso del gasoducto, se indica en el plano signado como "Plano Nº 2, Gasoducto Atacama", de acuerdo al listado señalado a continuación:
 
-LISTADO DE BIENES DE USO PUBLICO QUE SE OCUPARAN O CRUZARAN Y PUNTOS EN COORDENADAS UTM QUE DESCRIBIRA EL TRAZADO DEL GASODUCTO
+LISTADO DE BIENES DE USO PÚBLICO QUE SE OCUPARÁN O CRUZARÁN Y PUNTOS EN COORDENADAS UTM QUE DESCRIBIRÁ EL TRAZADO DEL GASODUCTO:
 
-Número Cruce con Superficie Coordenadas UTM
-
-de Camino/río/ferrocarril Camino Aproximadas
-
-Cruce Norte Este
-
-1 Camino sin Rol-Huella No Corresponde 7.430,200 694,200
-
-2 Camino sin Rol-Huella No Corresponde 7.434,200 681,200
-
-3 Quebrada de Agua No Corresponde 7.435,000 667,300
-
-Escondida y Huella
-
-4 Quebrada Quepiaco y No Corresponde 7.443,000 649,200
-
-Huella
-
-5 Quebrada Pena Blanca No Corresponde 7.445,000 647,000
-
-6 Quebrada Quepiaco No Corresponde 7.446,500 644,000
-
-7 Quebrada Las Bateas No Corresponde 7.458,000 620,200
-
-8 Camino 27-CH Tierra 7.462,850 617,700
-
-9 Quebrada El Zarzo No Corresponde 7.464,000 617,200
-
-10 Quebrada Corrales Blanco No Corresponde 7.465,000 613,400
-
-11 Quebrada del Cajón No Corresponde 7.464,400 594,000
-
-12 Camino del Cajón Tierra 7.465,800 592,400
-
-13
-
-14 Quebrada El Valle Chico No Corresponde 7.466,200 592,000
-
-15 Camino B-235 Tierra 7.474,900 588,650
-
-16 Río Vilama No Corresponde 7.466,100 587,850
-
-17 Río San Pedro No Corresponde 7.477,350 582,050
-
-18 Quebrada s/n No Corresponde 7.478,500 576,650
-
-19 Quebrada s/n No Corresponde 7.479,600 576,000
-
-20 Camino B-207 Tierra 7.492,480 552,420
-
-21 Camino Sin Rol Tierra 7.495,300 546,350
-
-22 Camino B-195 Tierra 7.500,650 534,900
-
-23 Quebrada s/n No Corresponde 7.502,600 530,600
-
-24 Camino sin Rol Tierra 7.506,500 523,500
-
-25 Camino sin Rol Tierra 7.507,650 521,800
-
-26 Camino 23-CH Pavimentada 7.510,350 516,700
-
-27 Camino sin Rol Tierra 7.510,350 514,700
-
-28 Camino B-165 Tierra 7.509,050 507,100
-
-29 Ferrocarril Trocha No Corresponde 7.508,500 503,200
-
-Angosta
-
-30 Ruta 25 Pavimentada 7.508,550 502,900
-
-31 Camino sin Rol - Huella Tierra 7.506,900 499,200
-
-32 Camino sin Rol - Huella Tierra 7.506,000 498,050
-
-33 Camino sin Rol - Huella Tierra 7.501,300 492,250
-
-34 Camino sin Rol - Huella Tierra 7.499,800 490,400
-
-35 Quebrada s/n No Corresponde 7.496,300 451,600
-
-36 Camino sin Rol Tierra 7.491,300 439,050
-
-37 Ruta 5 Pavimentada 7.490,100 437,600
-
-38 Ferrocarril Trocha No Corresponde 7.484,000 423,700
-
-Angosta
-
-39 Quebrada s/n No Corresponde 7.483,000 416,200
-
-40 Quebrada Ordonez No Corresponde 7.460,800 395,000
-
-41 Quebrada Ordonez No Corresponde 7.459,000 392,400
-
-42 Quebrada Ordonez No Corresponde 7.444,000 384,000
-
-43 Quebrada Mejillones No Corresponde 7.440,600 371,550
-
-44 Camino B-240 (a mina) Tierra 7.440,250 370,900
-
-45 Quebrada Mejillones No Corresponde 7.440,350 370,250
-
-46 Camino B-240 (a mina) Tierra 7.440,400 370,000
-
-47 Camino B-240 (a mina) Tierra 7.440,200 369,100
-
-48 Quebrada Mejillones No Corresponde 7.440,250 369,050
-
-49 Quebrada Mejillones No Corresponde 7.440,400 368,350
-
-50 Camino B-240 (a mina) Tierra 7.440,400 368,250
-
-51 Camino B-240 (a mina) Tierra 7.440,600 367,300
-
-52 Quebrada Mejillones No Corresponde 7.440,650 367,000
-
-53 Ruta 1 Pavimentada 7.441,600 362,700
-
-54 Camino B-262 Ripiada 7.445,000 357,800
-
-55 Zona Pantanosa No Corresponde 7.445,350 646,800
-
-56 Futura línea de agua, No Corresponde 7.465,100 612,800
-
-conducción Zapaleri
-
-57 Antigua aducción No Corresponde 7.508,750 505,600
-
-de agua Calama -
-
-Antofagasta (Ex Toconce)
-
-58 Nueva Aducción de agua No Corresponde 7.500,050 487,650
-
-Calama - Antofagasta
+.
 
 Nota:
 
@@ -266,37 +120,17 @@ FUERZA AEREA
 
 Los planos de las servidumbres que se impondrán en las propiedades fiscales, municipales o particulares, los cuales son expresamente aprobados, se detallan a continuación:
 
-1) Plano General de Servidumbres:
-
-Signado por Gasoducto Atacama Ltda. como plano Nº 1, cuyo título es "Propiedades Fiscales Municipales Particulares objeto del servicio predial (Artículo 6 punto 9)".
+1) Plano General de Servidumbres, signado por Gasoducto Atacama Ltda. como Plano Nº 1, se reemplaza por el plano D100-ML-1000 rev.3.
 
 2) Planos de detalles de las servidumbres y de los bienes nacionales de uso público que serán objeto de ocupación y cruzamiento contenidos en:
 
-Volumen I : Indice de Mapas de Alineamiento. Planos de
+- Volumen I Índice de Mapas de Alineamiento. Planos de Alineamiento Nº 1 al Nº 30 (Km 0.0 al Km 104.7), se reemplaza por Volumen I Planos de Alineamiento As-Built de GasAtacama D100-ML-1001 al D100-ML-1030 (km. 0,0 al km. 104,2).
 
-Alineamiento Nº 1 al Nº 30 (Km 0,0 al Km
+- Volumen II Índice de Mapas de Alineamiento. Planos de Alineamiento Nº 31 al Nº 60 (Km 104.7 al Km 203.4), se reemplaza por Planos de Alineamiento As-Built de GasAtacama D100-ML-1031 al D100-ML-1060 (km. 104,2 al km. 204,2).
 
-104,7)
+- Volumen III Índice de Mapas de Alineamiento. Planos de Alineamiento Nº 61 al Nº 90 (Km 203.4 al Km 304.5), se reemplaza por Planos de Alineamiento As-Built de GasAtacama D100-ML-1061 al D100-ML-1090. (km.204,2 al km. 306,2).
 
-Volumen II : Indice de Mapas de Alineamiento. Planos de
-
-Alineamiento Nº 31 al Nº 60 (Km 104,7 al Km
-
-203,4)
-
-Volumen III : Indice de Mapas de Alineamiento. Planos de
-
-Alineamiento Nº 61 al Nº 90 (Km 203,4 al Km
-
-304,5)
-
-Volumen IV : Indice de Mapas de Alineamiento. Planos de
-
-Alineamiento Nº 91 al Nº 121 (Km 304,5 al Km
-
-408)
-
-Nota : A objeto de complementar los planos anteriores, el proyecto considera fotografías aéreas de la ruta que sigue el gasoducto.
+- Volumen IV Índice de Mapas de Alineamiento. Planos de Alineamiento Nº 91 al Nº 121 (Km 304.5 al Km 408), se reemplaza por Planos de Alineamiento As-Built de GasAtacama D100-ML-1091 al D100-ML-1121 (km.306,2 al km. 410,852).
 
 #### Artículo séptimo
 
