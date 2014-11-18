@@ -30,7 +30,15 @@ transporte de automóviles 14,40 m
 
 c.5) Remolque 11,00 m
 
-c.6) Tracto-camión con semirremolque 18,60 m
+c.6) Tracto-camión con semirremolque.
+
+Para el caso que se transporten
+
+exclusivamente vehículos, esta
+
+combinación podrá alcanzar
+
+hasta 22,40 m 18,60 m
 
 c.7) Camión con remolque o cualquier
 
@@ -48,7 +56,7 @@ el transporte de automóviles 22,40 m
 
 En el caso del largo del remolque no será considerada la barra de acoplamiento, la que sí se considera en el largo total de la combinación camión con remolque.
 
-La combinación tracto-camión con semirremolque especial para el transporte de automóviles que exceda los 18,00 m de largo, sólo podrá circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de esta combinación deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
+Las combinaciones tracto-camión con semirremolque especial para el transporte de automóviles y tractocamión con semirremolque cuando se transporten exclusivamente vehículos, que excedan los 18,00 m de largo, sólo podrán circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de estas combinaciones deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
 
 No obstante lo señalado en la letra c.7) anterior, las combinaciones de vehículos formadas por más de tres unidades separables que excedan de 15,00 m de largo, requerirán de una autorización especial de la Dirección de Vialidad, para circular por las vías públicas.
 
