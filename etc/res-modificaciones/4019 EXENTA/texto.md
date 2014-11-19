@@ -34,6 +34,8 @@ Resolución:
 
 4. Comprométanse los recursos disponibles, para la selección del mes de abril de 2013, del Llamado en Condiciones Especiales de 2013 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren ampliaciones para adultos mayores, sistemas solares térmicos, mejoramiento de viviendas de personas con discapacidad o acondicionamiento térmico de viviendas, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica según la distribución por título y por región señalada en el siguiente cuadro:
 
+.
+
 5. Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3. de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante, con su respectiva cédula de identidad, y el puntaje obtenido por el grupo o persona.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
