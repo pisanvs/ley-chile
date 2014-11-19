@@ -1,4 +1,4 @@
-DISPONE LLAMADO EXTRAORDINARIO A POSTULACIÓN DEL PROGRAMA PROTECCIÓN DEL PATRIMONIO FAMILIAR REGLAMENTADO POR EL DECRETO Nº 255, DE 2006, CORRESPONDIENTE AL TÍTULO II, MEJORAMIENTO DE LA VIVIENDA, DESTINADO A LA ATENCIÓN DE DAMNIFICADOS DE REGIÓN DE TARAPACÁ
+DISPONE LLAMADO EXTRAORDINARIO A POSTULACIÓN DEL PROGRAMA PROTECCIÓN DEL PATRIMONIO FAMILIAR REGLAMENTADO POR EL DECRETO Nº 255, DE 2006, EN SU MODALIDAD REGULADA POR EL CAPITULO II, DESTINADO A LA ATENCIÓN DE DAMNIFICADOS DE REGIÓN DE TARAPACÁ
 
 Núm. 544 exenta.- Iquique, 3 de octubre de 2014.- Vistos:
 
@@ -94,9 +94,9 @@ Los proyectos posibles de atender son:
 
 8.1 De lo dispuesto en los incisos segundo y tercero del artículo 15, referido a la incompatibilidad con el beneficio para proyectos del mismo tipo, recibidos anteriormente, excepto para los casos de subsidios vigentes, los cuales deberán ser autorizados por Serviu mediante resolución.
 
-8.2 De los requisitos del programa indicados en el artículo 16 letra a), en relación con ser propietario de la vivienda en la forma que se indica en el punto 9.2 inciso tercero de la presente resolución.
+8.2 De los requisitos del programa indicados en el artículo 16 letra a), en relación con ser propietario de la vivienda.
 
-8.3 Respecto de los proyectos a presentar se considerarán eximidos de los artículos 16, letra d), y 21, letra e) referidos a que la vivienda sea Objeto del Programa,
+8.3 Respecto de los proyectos a presentar se considerarán eximidos de los artículos 16, letras a), b), c), d), e), g), y 21, letra e) referidos a que la vivienda sea Objeto del Programa,
 
 8.4 De los antecedentes generales para postular a cualquier título exigidos en el artículo 21 en sus letras k); II) referido a nómina contratos) y en el punto n.3) de la letra n).
 
@@ -164,11 +164,11 @@ No obstante, en caso de postular proyectos de distintos Títulos o más de un pr
 
 Primer Pago: Correspondiente a los servicios de Organización de la Demanda y Desarrollo y Postulación del Proyecto. Se pagará un 35% del valor total de la Asistencia Técnica, una vez seleccionados los condominios y aprobado por Serviu el proyecto correspondiente.
 
-Segundo Pago: Correspondiente a los servicios de Seguimiento de la Obra e Inspección Técnica. Se pagará por estas labores el 45% del valor total de la Asistencia Técnica, en caso que el condominio donde se aplica el subsidio cuente con subsidio adicional para suelo salino, se incrementará en 2 UF la asistencia técnica asignada a esta etapa.
+Segundo Pago: Correspondiente a los servicios de Seguimiento de la Obra e Inspección Técnica el que puede efectuarse contra avance de hasta cuatro cuotas de montos proporcionales al avance real de la ejecución del proyecto, en caso que el condominio donde se aplica el subsidio cuente con subsidio adicional para suelo salino, se incrementará en 2 UF la asistencia técnica asignada a esta etapa.
 
 Con todo, cuando las labores de Asistencia Técnica sean ejecutadas por la propia empresa constructora, corresponderá a Serviu el desarrollo de la labor de inspección técnica de obras, sea que la ejecute de forma directa con sus propios profesionales o con el apoyo de personas naturales o jurídicas contratadas para dicha labor, las que podrán o no encontrarse inscritas en el Registro Nacional de Consultores del Minvu, regido por el DS Nº 135 (V. y U.), de 1978. Para la referida contratación Serviu contará con los recursos dispuestos para este segundo pago de la Asistencia Técnica.
 
-Tercer Pago: Corresponde a los servicios de Acompañamiento Social, Elaboración de Plan de Riesgo, seguimientos de obras comunitarias del Proceso de Construcción y Revisión de Obras Post Entrega. Se pagará por estas labores el 20% del valor total de la Asistencia Técnica, una vez que se certifique la realización conforme de las actividades comprendidas en esta área. En la labor de acompañamiento social a el o los beneficiarios en el período de construcción, la Entidad deberá informar permanentemente a las familias sobre el estado de avance de las obras, debiendo realizarse, a lo menos, una reunión mensual en la que la PSAT deberá dar a conocer su estado de avance, explicitando los plazos para su ejecución, los problemas presentados y sus posibles soluciones, desarrollando una labor de información y de coordinación del trabajo de la empresa constructora con las familias. La primera de estas reuniones se realizará a los 5 días de haberse iniciado las obras. No obstante dicho plazo, la Entidad estará obligada de informar a las familias cuando el proyecto lleve un 50% de avance físico y al momento en que éste finalice conforme. De todas estas reuniones deberá dejarse constancia en las actas correspondientes. En la labor de revisión de obras post entrega, la PSAT deberá evaluar el producto alcanzado y, en caso de descubrirse fallas constructivas en la obra, coordinar con la constructora su reparación. Adicionalmente, tratándose de proyectos emplazados en suelo salino, la Entidad deberá informar a las familias que componen cada proyecto, de los cuidados requeridos para la mantención de sus viviendas.
+Tercer Pago: Se incrementará el monto total de Asistencia Técnica en 3 UF por unidad beneficiada por plan de habilitación social, el que Corresponde a los servicios de Acompañamiento Social, Elaboración de Plan de Riesgo, seguimientos de obras comunitarias del Proceso de Construcción y Revisión de Obras Post Entrega. Elaboración o modificación participativa del Reglamento interno de Copropiedad. Se pagará por estas labores el 20% del valor total de la Asistencia Técnica, una vez que se certifique la realización conforme de las actividades comprendidas en esta área. En la labor de acompañamiento social a el o los beneficiarios en el período de construcción, la Entidad deberá informar permanentemente a las familias sobre el estado de avance de las obras, debiendo realizarse, a lo menos, una reunión mensual en la que la PSAT deberá dar a conocer su estado de avance, explicitando los plazos para su ejecución, los problemas presentados y sus posibles soluciones, desarrollando una labor de información y de coordinación del trabajo de la empresa constructora con las familias. La primera de estas reuniones se realizará a los 5 días de haberse iniciado las obras. No obstante dicho plazo, la Entidad estará obligada de informar a las familias cuando el proyecto lleve un 50% de avance físico y al momento en que éste finalice conforme. De todas estas reuniones deberá dejarse constancia en las actas correspondientes. En la labor de revisión de obras post entrega, la PSAT deberá evaluar el producto alcanzado y, en caso de descubrirse fallas constructivas en la obra, coordinar con la constructora su reparación. Adicionalmente, tratándose de proyectos emplazados en suelo salino, la Entidad deberá informar a las familias que componen cada proyecto, de los cuidados requeridos para la mantención de sus viviendas.
 
 En este último pago se debe presentar al Serviu un expediente con los siguientes productos:
 
@@ -178,7 +178,9 @@ b. Plan de Emergencia, aprobado por vecinos e instituciones responsables.
 
 c. Carta suscrita por el Comité de Administración declarando plena satisfacción con el procedimiento realizado.
 
-d. Oficio con visto bueno de la Seremi que exprese conformidad con los productos logrados.
+d) Elaboración participativa del Reglamento de copropiedad: En la eventualidad de contar la comunidad beneficiada ya con un reglamento, se deberá modificar participativamente, adaptando sus disposiciones a la nueva realidad y necesidades del Conjunto Habitacional, especialmente a incluir el plan de emergencia señalado y todo aquello que diga relación a la mantención y cuidado de las obras del proyecto ejecutado.
+
+e. Oficio con visto bueno de la Seremi que exprese conformidad con los productos logrados.
 
 Los valores correspondientes a estas tres etapas, se pagarán a la PSAT o institución contratada, por proyecto beneficiado, una vez que éste informe al Serviu del término total y satisfactorio de las labores y la consecución de los productos correspondientes para cada etapa de asistencia técnica, excepto en el caso del primer pago que se entenderá que ha completado las labores una vez otorgado el subsidio.
 
