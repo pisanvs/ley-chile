@@ -274,4 +274,20 @@ emergencia que ocurran
 
 en dicha comuna.
 
+1409 Fono Emergencia Temuco La recepción de llamadas
+
+atendidas por personal del
+
+Departamento de Seguridad
+
+e Información de la
+
+Municipalidad de Temuco,
+
+respecto de situaciones
+
+de emergencia que ocurran
+
+en dicha comuna.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
