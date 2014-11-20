@@ -4,7 +4,7 @@ Núm. 72.- Santiago, 21 de marzo de 2014.- Visto: Las facultades que me confiere
 
 Decreto:
 
-1.- Desígnase al Sr. Waldo Rubén Bustos Streeter, RUN 5.943.219-2, en el cargo de Director de Primer Nivel de la Planta Directiva del Servicio de Salud Antofagasta, grado 2 EUS, 80% de Asignación de Alta Dirección, en calidad de suplente, en forma transitoria y provisional, mientras se efectúa el proceso de selección pertinente, nombramiento que no podrá exceder un periodo de seis meses a contar del 19 de marzo de 2014.
+1.- Desígnase al Sr. Waldo Rubén Bustos Streeter, RUN 5.943.219-2, en el cargo de Director de Primer Nivel de la Planta Directiva del Servicio de Salud Antofagasta, grado 2 EUS, 80% de Asignación de Alta Dirección, en calidad de suplente, en forma transitoria y provisional, mientras se efectúa el proceso de selección pertinente, nombramiento que no podrá exceder un periodo de seis meses a contar del 24 de marzo de 2014.
 
 2.- El desempeño de estas funciones está afecto a rendición de fianza y por razones impostergables de buen servicio, la persona en referencia asumirá en la fecha indicada, sin esperar la total tramitación de este decreto.
 
