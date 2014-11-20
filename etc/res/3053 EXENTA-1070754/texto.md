@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.053, de 13 de noviembre de 2014, de esta Subsecretaría, recházase la solicitud Nº 213121010, presentada por ALEJANDRO EDUARDO RUIZ GONZÁLEZ, para centro de cultivo en Estero Vogel, Isla Riesco, XII Región, conforme lo dispuesto en el artículo 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 13 de noviembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
