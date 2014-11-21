@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-I. Llámese a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, por un monto total de 327.200 Unidades de Fomento, de conformidad a lo autorizado mediante la resolución exenta Ministerial Nº 6.065 de fecha 30 de septiembre de 2014, indicada en los vistos del presente acto.
+I. Llámese a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, por un monto total de 151.000 Unidades de Fomento, de conformidad a lo autorizado mediante la resolución exenta Ministerial Nº 6.065 de fecha 30 de septiembre de 2014, indicada en los vistos del presente acto.
 
 II. Establézcase como fecha de inicio para postular al concurso ya señalado, el día posterior a la publicación de la presente resolución en el Diario Oficial, finalizando el mismo con fecha 30 de octubre del presente año.
 
