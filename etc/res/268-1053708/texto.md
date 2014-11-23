@@ -56,35 +56,29 @@ de promoción y/o ascensos;
 
 6) Aprobar y resolver las prórrogas de contratas;
 
-7) Suscribir y aprobar contrataciones, modificaciones,
+7) Suscribir y aprobar contrataciones, prórrogas y
 
-prórrogas y términos de contratos a honorarios,
+término de contratos a honorarios:
 
-salvo si se cumple a su respecto alguna cualquiera
+a) Que se paguen por mensualidades, cuya
 
-de las siguientes condiciones:
+cuantía mensual sea superior a 36 UTM y no
 
-a) Que estén sometidos a toma de razón de acuerdo a
+excedan de las 75 UTM;
 
-la normativa de la Contraloría General de la
+b) A suma alzada o cualquier otra modalidad de
 
-República, o
+pago, cuyo monto total sea superior a 36
 
-b) Se refieran a asesores/as directos/as del/la
+UTM y no excedan las 75 UTM.
 
-Ministro/a Presidente/a o de su Gabinete, o
+Lo anterior, sin perjuicio de la facultad
 
-tengan la calidad de agente público cualquiera
+delegada en la jefatura del Departamento de
 
-sea su dependencia.
+Recursos Humanos señalada en el numeral 2 del
 
-Lo anterior, sin perjuicio de la facultad delegada
-
-en la Jefatura del Departamento de Recursos Humanos
-
-señalada en el numeral 2 de la letra C del presente
-
-artículo.
+literal C del presente artículo.
 
 8) Autorizar designaciones en Comisión de Servicio
 
