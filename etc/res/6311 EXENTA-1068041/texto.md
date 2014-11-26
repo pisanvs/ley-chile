@@ -28,13 +28,13 @@ a) Para postular presencialmente, el postulante deberá acudir directamente a la
 
 b) Las personas que postulen en forma individual vía internet, a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación y la información ingresada y registrada en el sistema, será válida para todos los efectos de la postulación y del proceso de selección.
 
-La postulación vía internet podrá realizarse entre los días 24 y 30 de noviembre de 2014 y entre los días 9 y 17 de diciembre de 2014, todas las fechas inclusive.
+La postulación vía internet podrá realizarse entre los días 24 y 30 de noviembre de 2014 y entre los días 9 y 23 de diciembre de 2014, todas las fechas inclusive.
 
-La postulación presencial se iniciará el día 9 de diciembre y se extenderá hasta el día 17 de diciembre de 2014, ambas fechas inclusive.
+La postulación presencial se iniciará el día 9 de diciembre y se extenderá hasta el día 23 de diciembre de 2014, ambas fechas inclusive.
 
 Las postulaciones recibidas físicamente hasta la fecha indicada, y que no hayan sido ingresadas al sistema informático, podrán digitarse en diferido, para lo cual se entregará un comprobante de recepción de los antecedentes al postulante, comprobante que en ningún caso implicará que se trata de una postulación hábil.
 
-3. Para participar de la postulación colectiva, los grupos postulantes deberán contar con Certificado de Grupo Organizado Hábil, emitido a más tardar el día 17 de diciembre de 2014. Los grupos seleccionados mediante el presente llamado deberán vincularse a un proyecto habitacional en un plazo no mayor a 12 meses a contar de la fecha de publicación de la selección respectiva en el Diario Oficial.
+3. Para participar de la postulación colectiva, los grupos postulantes deberán contar con Certificado de Grupo Organizado Hábil, emitido a más tardar el día 23 de diciembre de 2014. Los grupos seleccionados mediante el presente llamado deberán vincularse a un proyecto habitacional en un plazo no mayor a 12 meses a contar de la fecha de publicación de la selección respectiva en el Diario Oficial.
 
 4. Los recursos involucrados por Región del país para la selección de postulantes son los siguientes:
 
