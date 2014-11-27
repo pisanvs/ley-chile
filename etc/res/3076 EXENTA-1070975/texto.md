@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.076, de 19 de noviembre de 2014, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Programa manejo y monitoreo de mareas rojas en las regiones de Los Lagos, Aysén y Magallanes, VIII Etapa 2014-15".El objetivo consiste en disponer de un sistema oportuno de muestreo, detección y cuantificación periódico del veneno paralizante de los mariscos VPM, veneno diarreico de los mariscos VDM y veneno amnésico de los mariscos VAM, además de las especies nocivas fuentes primarias de las toxinas (Alexandrium catenella, A. ostenfeldii, A cf. Tamarense, Dinophysis acuta, Dinophysis acuminata, Protoceratium reticulatum, Pseudo-nitzschia cf. Australis y P. cf. pseudodelicatissima, respectivamente), adecuado a la realidad geográfica de las regiones de Los Lagos, Aysén y Magallanes.
+
+La pesca de investigación se efectuará por el término de 16 meses contados desde la fecha de la presente resolución, en las aguas interiores y canales adyacentes de la Región de Los Lagos, Región de Aysén y de la Región de Magallanes, donde podrá muestrear los recursos indicados en la resolución extractada, en los términos allí señalados.
+
+El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
