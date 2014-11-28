@@ -446,7 +446,7 @@ Cancélase la personalidad jurídica a la Corporación Universidad del Mar, cons
 
 #### Artículo 3°
 
-Lo dispuesto en los artículos precedentes regirá a partir del 28 de febrero de 2015, sin perjuicio de que el Ministerio de Educación podrá, mediante resolución fundada, antes del vencimiento de dicha fecha y por una sola vez, extender el plazo por un máximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicación de sus alumnos en otras instituciones de educación superior cercanas, requieran seguir funcionando.
+Lo dispuesto en los artículos precedentes regirá a partir del 28 de febrero de 2018, sin perjuicio de que el Ministerio de Educación podrá, mediante resolución fundada, antes del vencimiento de dicha fecha, extender el plazo por un máximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicación de sus alumnos en otras instituciones de educación superior cercanas, requieran seguir funcionando.
 
 Con todo, la universidad no podrá admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, para los años académicos 2013 y siguientes.
 
