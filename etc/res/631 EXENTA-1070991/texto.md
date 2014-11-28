@@ -1,0 +1,9 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO "AMPLIACIÓN CENTRAL HORNOPIRÉN"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº40/2012 del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental (el Reglamento), se comunica que, mediante resolución exenta Nº631/2014, del Director del Servicio de Evaluación Ambiental (SEA) de la Región de Los Lagos, de fecha 17 de octubre de 2014, se ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación de la Declaración de Impacto Ambiental (DIA) del proyecto "Ampliación Central Hornopirén" presentado por Sagesa S.A., por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19300.
+
+El proyecto corresponde a una modificación de central generadora de energía mayor a 3 MW; de aquellas contempladas en el literal c) del artículo 10 de la ley Nº19.300 y el literal c) del artículo 3 del Reglamento, que generan cargas ambientales, conforme a lo dispuesto en el artículo 94 del Reglamento. Cualquier persona, natural o jurídica, podrá formular observaciones al proyecto, debidamente fundadas y por escrito, ante la Dirección Regional del SEA, ubicada en Avenida Diego Portales 2000, piso 4, Puerto Montt, haciendo referencia expresa al nombre del Proyecto (Ampliación Central Hornopirén). El plazo de 20 días hábiles para efectuar observaciones se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA en la dirección ya señalada. Además, puede accederse a ella a través del sitio web www.sea.gob.cl.-
+
+Alfredo Wendt Scheblein, Director Regional del Servicio de Evaluación Ambiental, Región de Los Lagos.
