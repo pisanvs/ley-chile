@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº5.824 EXENTA, DE 2014
+
+Mediante resolución exenta Nº5.824, de fecha 17 de octubre de 2014, el Servicio Nacional de Capacitación y Empleo, fijó a contar del 3 de noviembre del presente año, en 8 horas cronológicas el mínimo de duración de las actividades de capacitación que ejecuten los organismos técnicos de capacitación al amparo de la franquicia tributaria consagrada en el artículo 36 del Estatuto de Capacitación y Empleo, dejándose sin efecto las resoluciones exentas Nº10.507 de 30 de diciembre de 2013, Nº465 de 29 de enero de 2014, Nº1.156, de 10 de marzo del presente año y cualquier otra, todas de este Servicio Nacional, en aquella parte que estuviere en contradicción con la presente resolución y que se refiera al mínimo de horas cronológicas que fija el presente acto administrativo.
+
+Santiago, 17 de octubre de 2014.- Pedro Goic Boroevic, Director Nacional.
