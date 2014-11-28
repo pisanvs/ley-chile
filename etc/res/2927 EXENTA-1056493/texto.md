@@ -68,6 +68,20 @@ i. Mes de noviembre de 2014:
 
 Día domingo 2, desde las 17:00 a las 23:00 horas, en dirección Sur.
 
+j) Mes de diciembre de 2014
+
+Día viernes 5, desde las 15:00 a las 23:00 hrs, en dirección al Norte.
+
+Día sábado 6, desde las 07:00 a las 15:00 hrs., en dirección Norte.
+
+Día lunes 8, desde las 17:00 a las 23:00 hrs., en dirección Sur.
+
+Día miércoles 31, desde las 15:00 a las 23:00 hrs., en dirección al Norte.
+
+k) Mes de enero de 2015
+
+Día domingo 4, desde las 17:00 a las 23:00 hrs., en dirección Sur.
+
 2. La obra deberá permanecer debidamente señalizada de conformidad al Manual de Señalización de Tránsito del Ministerio de Transportes y Telecomunicaciones y Manual de Carreteras, de conformidad al artículo 96 del DFL 1/07, citado en Visto.
 
 3. Carabineros de Chile dispondrá de las medidas de gestión necesarias que aseguren el buen desplazamiento de vehículos, así como del cumplimiento de las disposiciones contenidas en la presente resolución. También podrá disponer la ampliación o disminución de los horarios y tramos de restricción de tránsito, en caso de que la situación del momento así lo amerite.
