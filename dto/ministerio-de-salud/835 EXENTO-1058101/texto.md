@@ -10,9 +10,13 @@ Primer Orden de Subrogancia
 
 Subdirector Médico Servicio de Salud Metropolitano Occidente.
 
-Segundo Orden de Subrogancia
+Segundo orden de Subrogancia:
 
-Jefe Departamento de Auditoría Servicio de Salud Metropolitano Occidente.
+Subdirector de Recursos Físicos y Financieros del Servicio de Salud Occidente.
+
+Tercer orden de Subrogancia:
+
+Subdirector de Recursos Humanos del Servicio de Salud Occidente.
 
 2º Declárase que el Director subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
