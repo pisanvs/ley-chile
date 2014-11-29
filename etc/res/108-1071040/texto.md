@@ -1,0 +1,7 @@
+AUTORIZA A DELEGAR LAS FACULTADES QUE INDICA Y REVOCA AUTORIZACIONES DE DELEGACIÓN DE FACULTADES QUE SEÑALA
+
+Extracto de resolución del Servicio de Impuestos Internos Nº 108, del 25 de noviembre de 2014, que establece:
+
+Autoriza al Director Regional de la XIII Dirección Regional Metropolitana, Santiago Centro y al Director Regional de la XIV Dirección Regional Metropolitana, Santiago Poniente, a delegar en los Jefes de Departamentos de Procedimientos Administrativos la facultad de aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nºs. 3, 6, 7, 10, 15, 16, 17, 19, 20 y 21 y en el artículo 109, ambos del Código Tributario, cuando no se haya reclamado de ellas, y además, conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto, y revócanse las autorizaciones conferidas a estos Directores Regionales para delegar en los Jefes de Departamentos Jurídicos de sus dependencias las facultades señaladas.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de noviembre de 2014.
