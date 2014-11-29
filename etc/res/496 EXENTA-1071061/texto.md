@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN EXENTA Nº 496 DE 2014, QUE PRORROGA CONTRATO DE CONCESIÓN QUE INDICA
+
+Por resolución exenta Nº 496 de 24 de noviembre de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región del Biobío, celebrado con el concesionario Prestotec Limitada, aprobado por la resolución exenta Nº 317, de 8 de noviembre de 2004, de la citada Secretaría Regional, hasta el día 31 de diciembre de 2015 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esa Región, a través de la resolución Nº 288, de 26 de diciembre de 2013, modificada por la resolución Nº 120, de 10 de abril de 2014, cualquiera que ocurra primero.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
