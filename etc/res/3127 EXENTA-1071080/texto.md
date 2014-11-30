@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.127, de 20 de noviembre de 2014, de esta Subsecretaría, recházanse solicitudes números 207122243, 210110035, 99042003, 210110117 y 210110097, señaladas en la resolución extractada, y publicada en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura y 14 bis del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 20 de noviembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
