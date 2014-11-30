@@ -1,0 +1,9 @@
+EXTRACTO DE DECRETO Nº 31, DE 2014
+
+Por decreto de Educación Nº31, de fecha 15 de enero de 2014, y de conformidad con lo dispuesto en el DL Nº3.166, de 1980, y su Reglamento, fijado por DS Nº5.077, del mismo año, se ha aprobado la modificación de convenio celebrada con fecha 4 de diciembre de 2013 entre el Ministerio de Educación y la Fundación Almirante Carlos Condell, referida a la administración delegada del establecimiento educacional "Instituto del Mar Almirante Carlos Condell" (ex Liceo Industrial A-8).
+
+En la modificación de convenio se estableció que mediante resolución exenta Nº 948, de 21 de junio de 2012, rectificada por resolución exenta Nº760, de 6 de junio de 2013, la Secretaría Ministerial de Educación de la Región de Tarapacá reconoció al establecimiento educacional "Instituto del Mar Almirante Carlos Condell" el nivel de Educación Básica a partir del año escolar 2012, con un curso de séptimo básico y un curso de octavo básico, por lo que el establecimiento educacional cuenta al mes de abril de 2013 con 18 cursos, una matrícula de 488 alumnos de enseñanza media y 54 alumnos de enseñanza básica, e imparte Formación General de 7º y 8º básico y 1º y 2º medio y las especialidades de Mecánica Industrial, Mecánica Automotriz, Acuicultura y Operación Portuaria.
+
+Además, se establece que si bien de acuerdo a lo dispuesto en el decreto ley 3.166, el establecimiento educacional es de Educación Media Técnico Profesional, el establecimiento, debidamente autorizado por el Ministerio de Educación, además imparte los cursos de séptimo y octavo de Educación Básica, por cuyos alumnos el administrador podrá cobrar subvención educacional estatal.
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
