@@ -1,0 +1,7 @@
+RECTIFICA PUBLICACIÓN EFECTUADA CON FECHA 15 DE NOVIEMBRE DE 2014, EN EL SENTIDO QUE INDICA A CONTINUACIÓN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.640, de fecha 5 de noviembre de 2014, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 661-224, correspondiente al inmueble ubicado en Collaguasi 530 block A Dp 14 Parinacota, Rol de Avalúo Nº 661-224, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Mella Valdés José Luis, con una superficie aproximada de 43,63 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Recuperación de Condominios Sociales: Segunda Oportunidad, Segundo Llamado Especial". La Comisión de Peritos integrada por los señores Soledad Herrera Zúñiga, Ingeniero Civil; Pablo Berríos Pirnat, Arquitecto y Roberto Correa Bezanilla, Arquitecto, mediante Informe de fecha 5 de noviembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $13.590.933, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186 de 1978.
+
+Director (T. y P.) Serviu Metropolitano.
