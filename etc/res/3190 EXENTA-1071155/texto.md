@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.190, de 25 de noviembre de 2014, de esta Subsecretaría, modifica resolución Nº 2.828 de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 19 A, fijando el número máximo de ejemplares a ingresar para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
