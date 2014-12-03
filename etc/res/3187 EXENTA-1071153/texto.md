@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.187, de 25 de noviembre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.983 de 2013, sólo en cuanto autorizó a SOCIEDAD PESQUERA LANDES S.A., para realizar actividades pesqueras extractivas con la nave "Surmar I", respecto del recurso hidrobiológico Raya volantín, en el área marítima comprendida entre la II a VII Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
