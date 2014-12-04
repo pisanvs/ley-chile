@@ -32,7 +32,7 @@ Resolución:
 
 8. Exímese a los postulantes de este llamado de lo dispuesto en el número 5 de la letra h) del artículo 14 del DS Nº 49 (V. y U.), de 2011, que sólo permite una postulación por Ficha de Protección Social, a aquellas familias en cuyas Fichas de Protección Social se encuentren inscritos siete o más integrantes, constituyendo distintos núcleos familiares, los que deberán cumplir con todos los requisitos para la postulación y no estar afectos a ninguno de los otros impedimentos para postular que establece el citado reglamento
 
-9. Los recursos destinados a nivel nacional para la selección de los postulantes ascienden a 600.000 Unidades de Fomento.
+9. Los recursos destinados a nivel nacional para la selección de los postulantes ascienden a 296.800 Unidades de Fomento.
 
 10. El número de postulantes seleccionados a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, estableciendo un monto único nacional de 800 Unidades de Fomento, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones, las que serán sancionadas mediante resolución.
 
