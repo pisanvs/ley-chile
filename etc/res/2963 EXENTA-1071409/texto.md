@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.963, de 6 de noviembre de 2014 de esta Subsecretaría, modifíquese la resolución exenta Nº 2.765, de 2014, que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2013-27 denominado "Estimación de índices de reclutamiento para merluza del sur y merluza de cola en la zona sur y austral de Chile", en el sentido de sustituir la letra e) del numeral 8º, por la siguiente:
+
+"e) Informar y documentar las capturas y su destino conforme un formulario que proporcionará el Servicio Nacional de Pesca y Acuicultura, el cual contendrá a lo menos la cantidad y composición de las capturas, georreferenciadas y por lance, la cuantificación de la devolución al mar de las especies capturadas en calidad de especie objetivo y fauna acompañante, una vez efectuados los respectivos muestreos, así como la captura incidental y la forma en que ésta realiza.".
+
+Valparaíso, 6 de noviembre de 2014.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
