@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A FUNDACIÓN DE AYUDA AL NIÑO LIMITADO (COANIL)
+
+Mediante decreto exento Nº 965, de 12 de noviembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a Fundación de Ayuda al Niño Limitado, RUT Nº 70.267.000-4, el inmueble fiscal ubicado en calle Canadá Nº 5351, de la comuna de San Joaquín, provincia de Santiago, Región Metropolitana de Santiago, enrolado en el Servicio de Impuestos Internos con el Nº 5110-33; inscrito a nombre del Fisco a fojas 140 Nº 179, del Registro de Propiedad del Conservador de Bienes Raíces de San Miguel, correspondiente al año 1981; de una superficie total aproximada de 1.879,10 metros cuadrados, singularizado en el Plano Nº 13129-3964-C.U. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para que la entidad destine el inmueble fiscal como residencia para niños y jóvenes víctimas de vulneraciones graves de derechos y para efectuar las inversiones de infraestructura que el proyecto requiera, con el objeto de cumplir con la finalidad propuesta. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
