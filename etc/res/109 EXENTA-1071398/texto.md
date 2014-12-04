@@ -1,0 +1,5 @@
+INCORPORA A LAS ADMINISTRADORAS DE FONDOS DE INVERSIÓN Y DE FONDOS MUTUOS A LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL 1807
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 109, del 27 de noviembre de 2014, que establece: Incorpora a las Administradoras de Fondos de Inversión y Administradoras de Fondos Mutuos a la obligación de presentar la Declaración Jurada Anual Formulario Nº1807 cuando, en conformidad a lo dispuesto en el artículo 67 del artículo primero de la ley Nº 20.712, lleven a cabo la fusión, división o transformación de los fondos que administren o de sus series, conforme a los requisitos y procedimientos que determine la Superintendencia mediante norma de carácter general.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de noviembre, de 2014.
