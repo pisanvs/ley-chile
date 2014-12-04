@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.367, de 7 de noviembre de 2014, de este Servicio, se complementó la resolución exenta Nº 1.721 de 10 de junio de 2014, del Servicio Nacional de Pesca y Acuicultura, que implementó y regularizó las inscripciones en el Registro Artesanal de acuerdo a la res. ex. Nº 3.115 de 2013, de la Subsecretaría de Pesca y Acuicultura, agregando categoría y/o recursos a las categorías de recolector de orilla, alguero o buzo apnea, en el sentido de agregar en el listado del resuelvo 1.- de dicho acto, a don Temístocles Octavio Calderón Cortés, cédula de identidad Nº3.889.813-2, RPA Nº 930191, en la III Región de Atacama, agregando a la categoría de recolector de orilla, alguero o buzo apnea, los recursos Huiro, Huiro palo, Chascón o Huiro negro y luche, con el método de extracción recolección.
+
+El texto íntegro de resolución indicada, se encuentra publicado con esta fecha en el dominio electrónico del Servicio Nacional de Pesca y Acuicultura y en el de la Subsecretaría de Pesca y Acuicultura.
+
+En Valparaíso, a 7 de noviembre de 2014.- Ana María Urrutia Garay, Directora Nacional (S) Servicio Nacional de Pesca y Acuicultura.
