@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "PATTERN CHILE DEVELOPMENT HOLDINGS SpA"
+
+Mediante decreto exento Nº 964, de 11 de noviembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Pattern Chile Development Holdings SpA", RUT Nº 76.321.088-K, el inmueble fiscal ubicado a 40,00 Kms. al Noreste de la ciudad de Taltal, comuna de Taltal, provincia y Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con el Nº 5000-3; amparado por la inscripción global que rola a fojas 41 vta. Nº 44 del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, correspondiente al año 1977; de una superficie total de 301,13 has, singularizado en el Plano Nº 02104-8.400-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 1.975.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza Extracto.-
+
+Nivia Palma Manríquez, Jefa División Jurídica.
