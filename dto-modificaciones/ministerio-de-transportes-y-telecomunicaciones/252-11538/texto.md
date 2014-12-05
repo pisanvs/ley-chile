@@ -164,9 +164,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-158,500 Convento Viejo Sector Alameda/Pto.
+158,500 Convento Sector Alameda/Pto.
 
-Montt L.C.S.
+Viejo Montt L.C.S.
 
 165,925 Monterilla Sector Alameda/Pto.
 
@@ -176,9 +176,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-177,720 Sarmiento Norte Sector Alameda/Pto.
+177,720 Sarmiento Sector Alameda/Pto.
 
-Montt L.C.S.
+Norte Montt L.C.S.
 
 178,450 Sarmiento Sur Sector Alameda/Pto.
 
@@ -224,9 +224,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-207,685 Estación Itahue Sector Alameda/Pto.
+207,685 Estación Sector Alameda/Pto.
 
-Montt L.C.S.
+Itahue Montt L.C.S.
 
 217,740 Camarico Sector Alameda/Pto.
 
@@ -252,9 +252,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-269,200 Est. San Javier Sector Alameda/Pto.
+269,200 Est. San Sector Alameda/Pto.
 
-Montt L.C.S.
+Javier Montt L.C.S.
 
 271,700 Pangal Sector Alameda/Pto.
 
@@ -328,9 +328,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-340,000 Estación Parral Sector Alameda/Pto.
+340,000 Estación Sector Alameda/Pto.
 
-Montt L.C.S.
+Parral Montt L.C.S.
 
 351,700 Perquilauquén Sector Alameda/Pto.
 
@@ -348,9 +348,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-372,900 Vicuña Mackenna Sector Alameda/Pto.
+372,900 Vicuña Sector Alameda/Pto.
 
-Montt L.C.S.
+Mackenna Montt L.C.S.
 
 374,050 0'Higgins Sector Alameda/Pto.
 
@@ -442,9 +442,9 @@ Norte Sector Alameda/Pto.
 
 Montt L.C.S.
 
-499,300 San Rosendo Sur Sector Alameda/Pto.
+499,300 San Rosendo Sector Alameda/Pto.
 
-Montt L.C.S.
+Sur Montt L.C.S.
 
 501,450 Sin Nombre Sector Alameda/Pto.
 
@@ -500,9 +500,9 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-662,170 Calle Valdivia Sector Alameda/Pto.
+662,170 Calle Sector Alameda/Pto.
 
-Montt L.C.S
+Valdivia Montt L.C.S
 
 662,410 Calle Bilbao Sector Alameda/Pto.
 
@@ -532,9 +532,9 @@ Montt L.C.S.
 
 Montt L.C.S
 
-688,668 Turingia Norte Sector Alameda/Pto.
+688,668 Turingia Sector Alameda/Pto.
 
-Montt L.C.S.
+Norte Montt L.C.S.
 
 689,250 Valparaíso Sector Alameda/Pto.
 
@@ -560,67 +560,107 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-1074,791 Pelluco Alto Sector Alameda/Pto.
+ELIMINADO
 
-Montt L.C.S.
+5,730 Dorsal Línea Yungay/
 
-1075,731 Pelluco Bajo Sector Alameda/Pto.
+Puerto
 
-Montt L.C.S.
+10,000 Quilicura Línea Yungay/
 
-1077,985 Frigorífico Sector Alameda/Pto.
+Puerto
 
-Montt L.C.S.
+20,450 Colina Línea Yungay/
 
-5,730 Dorsal Línea Yungay/Puerto
+Puerto
 
-10,000 Quilicura Línea Yungay/Puerto
+49,250 Til Til Línea Yungay/
 
-20,450 Colina Línea Yungay/Puerto
+Puerto
 
-49,250 Til Til Línea Yungay/Puerto
+92,050 Santa Teresa Línea Yungay/
 
-92,050 Santa Teresa Línea Yungay/Puerto
+Puerto
 
-93,350 O'Higgins Línea Yungay/Puerto
+93,350 O'Higgins Línea Yungay/
 
-118,740 Centenario Línea Yungay/Puerto
+Puerto
 
-120,000 Callejón Guerra Línea Yungay/Puerto
+118,740 Centenario Línea Yungay/
 
-123,557 La Palmilla Línea Yungay/Puerto
+Puerto
 
-126,250 Pocochay Línea Yungay/Puerto
+120,000 Callejón Guerra Línea Yungay/
 
-130,553 Chacabuco Línea Yungay/Puerto
+Puerto
 
-131,792 La Tetera Línea Yungay/Puerto
+123,557 La Palmilla Línea Yungay/
 
-162,650 Cementerio Línea Yungay/Puerto
+Puerto
 
-176,600 Lusitania Línea Yungay/Puerto
+126,250 Pocochay Línea Yungay/
 
-177,680 La Lora Línea Yungay/Puerto
+Puerto
 
-178,554 La Parroquia 1 Línea Yungay/Puerto
+130,553 Chacabuco Línea Yungay/
 
-178,577 La Parroquia 2 Línea Yungay/Puerto
+Puerto
 
-182,700 Portales Línea Yungay/Puerto
+131,792 La Tetera Línea Yungay/
 
-185,080 Simón Bolívar Línea Yungay/Puerto
+Puerto
 
-0,182 San Pedro R. San Pedro/Ventanas
+162,650 Cementerio Línea Yungay/
 
-1,040 Troncal R. San Pedro/Ventanas
+Puerto
 
-2,170 Morandé R. Llay Llay/Los Andes
+176,600 Lusitania Línea Yungay/
 
-26,760 Nuevo Palomar R. Llay Llay/Los Andes
+Puerto
 
-43,704 El Laberinto Ramal Llay Llay- Los Andes
+177,680 La Lora Línea Yungay/
 
-5,560 El Sauce R. Los Andes/Río Blanco
+Puerto
+
+178,554 La Parroquia 1 Línea Yungay/
+
+Puerto
+
+178,577 La Parroquia 2 Línea Yungay/
+
+Puerto
+
+182,700 Portales Línea Yungay/
+
+Puerto
+
+185,080 Simón Bolívar Línea Yungay/
+
+Puerto
+
+0,182 San Pedro R. San Pedro/
+
+Ventanas
+
+1,040 Troncal R. San Pedro/
+
+Ventanas
+
+2,170 Morandé R. Llay Llay/
+
+Los Andes
+
+26,760 Nuevo Palomar R. Llay Llay/
+
+Los Andes
+
+43,704 El Laberinto Ramal Llay Llay-
+
+Los Andes
+
+5,560 El Sauce R. Los Andes/
+
+Río Blanco
 
 3,380 Bascuñán Ramal Circunvalación
 
@@ -638,9 +678,7 @@ Montt L.C.S.
 
 7,613 Santa Elena Ramal Circunvalación
 
-2,466 B. del R. Alameda/Barrancas
-
-Mercado
+2,466 B. del Mercado R. Alameda/Barrancas
 
 9,390 La Capilla R. Alameda/Barrancas
 
@@ -674,171 +712,89 @@ Mercado
 
 24,810 O'Higgins R. Paine/Talagante
 
-99,038 Sin Nombre R. Rucapequén/
+99,038 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
+127,650 Paicaví R. Rucapequén/Concepción
 
-127,650 Paicaví R. Rucapequén/
+128,415 Aníbal Pinto R. Rucapequén/Concepción
 
-Concepción
+128,675 Calle Rengo R. Rucapequén/Concepción
 
-128,415 Aníbal Pinto R. Rucapequén/
+128,930 Calle Angol R. Rucapequén/Concepción
 
-Concepción
+129,050 Calle Prat R. Rucapequén/Concepción
 
-128,675 Calle Rengo R. Rucapequén/
+129,340 Andalién R. Rucapequén/Concepción
 
-Concepción
+34,100 Sin Nombre Ramal San Rosendo/Talcahuano
 
-128,930 Calle Angol R. Rucapequén/
+39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
 
-Concepción
+Variante
 
-129,050 Calle Prat R. Rucapequén/
-
-Concepción
-
-129,340 Andalién R. Rucapequén/
-
-Concepción
-
-34,100 Sin Nombre Ramal San
-
-Rosendo/
-
-Talcahuano
-
-39,065 Cruce Nº1 Ramal San
-
-Variante Rosendo-
-
-Hualqui - Talcahuano
+Hualqui -
 
 Quilacoya
 
-41,625 Cruce Nº2 Ramal San
+41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
 
-Variante Rosendo-
+Variante
 
-Hualqui - Talcahuano
+Hualqui -
 
 Quilacoya
 
-45,500 Hualqui Ramal San
+45,500 Hualqui Ramal San Rosendo/Talcahuano
 
-Rosendo/
+49,200 Periquillo R. San Rosendo/Talcahuano
 
-Talcahuano
+68,530 O'Higgins R. San Rosendo/Talcahuano
 
-49,200 Periquillo R. San
+72,960 Corhabit R. San Rosendo/Talcahuano
 
-Rosendo/
+76,070 Los Perales R. San Rosendo/Talcahuano
 
-Talcahuano
+80,695 La Higuera R. San Rosendo/Talcahuano
 
-68,530 O'Higgins R. San
+82,300 Hualpén R. San Rosendo/Talcahuano
 
-Rosendo/
+83,390 Bilbao R. San Rosendo/Talcahuano
 
-Talcahuano
+84,200 La Unión R. San Rosendo/Talcahuano
 
-72,960 Corhabit R. San
+85,026 Blanco R. San Rosendo/Talcahuano
 
-Rosendo/
+50,978 Forestal R. Curanilahue/Concepción
 
-Talcahuano
-
-76,070 Los Perales R. San
-
-Rosendo/
-
-Talcahuano
-
-80,695 La Higuera R. San
-
-Rosendo/
-
-Talcahuano
-
-82,300 Hualpén R. San
-
-Rosendo/
-
-Talcahuano
-
-83,390 Bilbao R. San
-
-Rosendo/
-
-Talcahuano
-
-84,200 La Unión R. San
-
-Rosendo/
-
-Talcahuano
-
-85,026 Blanco R. San
-
-Rosendo/
-
-Talcahuano
-
-50,978 Forestal R.
-
-Curanilahue/
-
-Concepción
-
-20,710 O'Higgins R. Renaico/
-
-Traiguén y
+20,710 O'Higgins R. Renaico/Traiguén y
 
 Traiguén/Púa
 
 0,200 Los Sauces
 
-Guadaba Ramal Los
+Guadaba Ramal Los Sauces/Lebu
 
-Sauces/Lebu
+2,821 Panamericana Ramal Temuco/Carahue
 
-2,821 Panamericana Ramal Temuco/
-
-Carahue
-
-24,635 Circunvalación Ramal Antilhue
-
-/Valdivia
+24,635 Circunvalación Ramal Antilhue/Valdivia
 
 Valdivia
 
-27,280 Collico Ramal
+27,280 Collico Ramal Antilhue/Valdivia
 
-Antilhue/
+13,360 Intersección Ramal Alameda-San
 
-Valdivia
-
-13,360 Intersección Ramal Alameda
-
--San Antonio
-
-Calle Tres
+Calle Tres Antonio
 
 Poniente con
 
-Camino
+Camino Melipilla
 
-Melipilla
-
-22,940 Cerro El Plomo Ramal
-
-Concepción-
+22,940 Cerro El Plomo Ramal Concepción -
 
 Curanilahue
 
-24,190 Los Molineros Ramal
-
-Concepción-
+24,190 Los Molineros Ramal Concepción-
 
 Curanilahue
 
@@ -1304,33 +1260,61 @@ Montt L.C.S.
 
 39,150 Estrella
 
-de Chile San Pedro/Ventanas
+de Chile San Pedro/
 
-6,914 Chagres Ramal Llay Llay/Los Andes
+Ventanas
 
-19,464 Panquehue Ramal Llay Llay/Los Andes
+6,914 Chagres Ramal Llay Llay/
 
-30,815 El Puente Ramal Llay Llay/Los Andes
+Los Andes
 
-31,618 Dardignac Ramal Llay Llay/Los Andes
+19,464 Panquehue Ramal Llay Llay/
 
-32,023 12 Febrero Ramal Llay Llay/Los Andes
+Los Andes
 
-37,000 Curimón Ramal Llay Llay/Los Andes
+30,815 El Puente Ramal Llay Llay/
 
-40,510 El Bosque Ramal Llay Llay/Los Andes
+Los Andes
 
-41,795 San Rafael Ramal Llay Llay/Los Andes
+31,618 Dardignac Ramal Llay Llay/
 
-42,000 La Tortilla Ramal Llay Llay/Los Andes
+Los Andes
 
-44,980 La Junta Ramal Llay Llay/Los Andes
+32,023 12 Febrero Ramal Llay Llay/
 
-45,900 Cementerio Ramal Llay Llay/Los Andes
+Los Andes
 
-1,100 Hnos. Clark Ramal Los Andes/Río Blanco
+37,000 Curimón Ramal Llay Llay/
 
-37,500 Guardia Vieja Ramal Los Andes/Río Blanco
+Los Andes
+
+40,510 El Bosque Ramal Llay Llay/
+
+Los Andes
+
+41,795 San Rafael Ramal Llay Llay/
+
+Los Andes
+
+42,000 La Tortilla Ramal Llay Llay/
+
+Los Andes
+
+44,980 La Junta Ramal Llay Llay/
+
+Los Andes
+
+45,900 Cementerio Ramal Llay Llay/
+
+Los Andes
+
+1,100 Hnos. Clark Ramal Los Andes/
+
+Río Blanco
+
+37,500 Guardia Vieja Ramal Los Andes/
+
+Río Blanco
 
 0,500 Guillermo Mann Ramal Circunvalación
 
@@ -1358,19 +1342,33 @@ de Chile San Pedro/Ventanas
 
 108,200 Llolleo Ramal a Barrancas
 
-4,350 Victoria Ramal Paine/Talagante
+4,350 Victoria Ramal Paine/
 
-5,950 Viluco Ramal Paine/Talagante
+Talagante
 
-8,010 Campusano Ramal Paine/Talagante
+5,950 Viluco Ramal Paine/
 
-9,110 Estancillla Ramal Paine/Talagante
+Talagante
 
-15,650 Sin Nombre Ramal Paine/Talagante
+8,010 Campusano Ramal Paine/
 
-15,860 Sin Nombre Ramal Paine/Talagante
+Talagante
 
-19,460 Sin Nombre Ramal Paine/Talagante
+9,110 Estancillla Ramal Paine/
+
+Talagante
+
+15,650 Sin Nombre Ramal Paine/
+
+Talagante
+
+15,860 Sin Nombre Ramal Paine/
+
+Talagante
+
+19,460 Sin Nombre Ramal Paine/
+
+Talagante
 
 0,240 Centinela Ramal a Pichilemu
 
@@ -1404,21 +1402,7 @@ de Chile San Pedro/Ventanas
 
 55,800 Peralillo Ote. Ramal a Pichilemu
 
-56,340 Peralillo Pte. Ramal a Pichilemu
-
-62,980 Población Ramal a Pichilemu
-
-71,370 Sin Nombre Ramal a Pichilemu
-
-72,040 Marchigüe Ramal a Pichilemu
-
-82,050 Alcones Ramal a Pichilemu
-
-87,520 San Miguel Ramal a Pichilemu
-
-108,540 Larraín Alcalde Ramal a Pichilemu
-
-117,870 Puente Negro Ramal a Pichilemu
+ELIMINADO
 
 1,915 El Mirador Ramal Talca/Constitución
 
@@ -1506,185 +1490,213 @@ Poniente R. Rucapequén/Concepción
 
 128,040 Tucapel R. Rucapequén/Concepción
 
-1,720 Sin Nombre Ramal a Polcura
-
-6,000 Sin Nombre Ramal a Polcura
-
-11,130 Charrúa Ramal a Polcura
-
-22,980 Sin Nombre Ramal a Polcura
-
-33,280 Sin Nombre Ramal a Polcura
-
-47,300 Cholguán Ramal a Polcura
-
-49,440 Huépil Ramal a Polcura
-
-49,860 Huépil Oriente Ramal a Polcura
-
-53,190 Sin Nombre Ramal a Polcura
-
-54,430 Sin Nombre Ramal a Polcura
-
-57,620 Sin Nombre Ramal a Polcura
-
-61,120 Trupán Ramal a Polcura
-
-62,200 Sin Nombre Ramal a Polcura
-
-64,034 Sin Nombre Ramal a Polcura
-
-66,290 Sin Nombre Ramal a Polcura
+ELIMINADO
 
 75,600 Polcura Ramal a Polcura
 
-8,380 Buenuraqui Ramal San Rosendo/Talcahuano
+8,380 Buenuraqui Ramal San Rosendo/
 
-29,070 Unihue Ramal San Rosendo/Talcahuano
+Talcahuano
 
-51,630 Pablo Paip Ramal San Rosendo/Talcahuano
+29,070 Unihue Ramal San Rosendo/
 
-59,835 Chiguayante Ramal San Rosendo/Talcahuano
+Talcahuano
 
-63,200 La Mochita Ramal San Rosendo/Talcahuano
+51,630 Pablo Paip Ramal San Rosendo/
 
-68,530 Sanatorio Ramal San Rosendo/Talcahuano
+Talcahuano
 
-69,142 Ercilla Ramal San Rosendo/Talcahuano
+59,835 Chiguayante Ramal San Rosendo/
 
-70,517 Los Carreras Ramal San Rosendo/Talcahuano
+Talcahuano
 
-72,960 Lorenzo Arenas Ramal San Rosendo/Talcahuano
+63,200 La Mochita Ramal San Rosendo/
 
-76,840 Santa Leonor Ramal San Rosendo/Talcahuano
+Talcahuano
 
-79,088 Los Cóndores Ramal San Rosendo/Talcahuano
+68,530 Sanatorio Ramal San Rosendo/
 
-85,500 A.Villarroel Ramal San Rosendo/Talcahuano
+Talcahuano
 
-0,400 Sin Nombre Ramal Concepción/Curanilahue
+69,142 Ercilla Ramal San Rosendo/
+
+Talcahuano
+
+70,517 Los Carreras Ramal San Rosendo/
+
+Talcahuano
+
+72,960 Lorenzo Arenas Ramal San Rosendo/
+
+Talcahuano
+
+76,840 Santa Leonor Ramal San Rosendo/
+
+Talcahuano
+
+79,088 Los Cóndores Ramal San Rosendo/
+
+Talcahuano
+
+85,500 A.Villarroel Ramal San Rosendo/
+
+Talcahuano
+
+0,400 Sin Nombre Ramal Concepción/
+
+Curanilahue
 
 5,270 Bío Bío L.
 
-Coloradas Ramal Concepción/Curanilahue
+Coloradas Ramal Concepción/
+
+Curanilahue
 
 6,680 Bío Bío
 
-L. Coloradas Ramal Concepción/Curanilahue
+L. Coloradas Ramal Concepción/
 
-26,615 Sin Nombre Ramal Concepción/Curanilahue
+Curanilahue
 
-27,260 Cruz Mora Ramal Concepción/Curanilahue
+26,615 Sin Nombre Ramal Concepción/
 
-27,800 Coronel Ramal Concepción/Curanilahue
+Curanilahue
 
-58,650 Carampangue Ramal Concepción/Curanilahue
+27,260 Cruz Mora Ramal Concepción/
 
-89,881 Curanilahue Ramal Concepción/Curanilahue
+Curanilahue
 
-7,285 Sin Nombre R. Concepción/Curanilagüe
+27,800 Coronel Ramal Concepción/
 
-22,700 Sin Nombre R. Concepción/Curanilagüe
+Curanilahue
 
-25,990 Sin Nombre R. Concepción/Curanilagüe
+58,650 Carampangue Ramal Concepción/
+
+Curanilahue
+
+89,881 Curanilahue Ramal Concepción/
+
+Curanilahue
+
+7,285 Sin Nombre R. Concepción/
+
+Curanilagüe
+
+22,700 Sin Nombre R. Concepción/
+
+Curanilagüe
+
+25,990 Sin Nombre R. Concepción/
+
+Curanilagüe
 
 28,024 Escuadrón
 
-Coronel R. Concepción/Curanilagüe
+Coronel R. Concepción/
 
-28,151 Sin Nombre R. Concepción/Curanilagüe
+Curanilagüe
+
+28,151 Sin Nombre R. Concepción/
+
+Curanilagüe
 
 28,302 Escuadrón
 
-Coronel R. Concepción/Curanilagüe
+Coronel R. Concepción/
 
-28,750 Coronel/Lota R. Concepción/Curanilagüe
+Curanilagüe
 
-36,462 Lota R. Concepción/Curanilagüe
+28,750 Coronel/Lota R. Concepción/
 
-36,545 Lota Sur R. Concepción/Curanilagüe
+Curanilagüe
 
-47,500 Lota Laraquete R. Concepción/Curanilagüe
+36,462 Lota R. Concepción/
 
-55,961 Laraquete R. Concepción/Curanilagüe
+Curanilagüe
 
-64,439 Ramadilla R. Concepción/Curanilagüe
+36,545 Lota Sur R. Concepción/
 
-78,280 Colico R. Concepción/Curanilagüe
+Curanilagüe
+
+47,500 Lota Laraquete R. Concepción/
+
+Curanilagüe
+
+55,961 Laraquete R. Concepción/
+
+Curanilagüe
+
+64,439 Ramadilla R. Concepción/
+
+Curanilagüe
+
+78,280 Colico R. Concepción/
+
+Curanilagüe
 
 79,567 Colico
 
-Curanilahue R. Concepción/Curanilagüe
+Curanilahue R. Concepción/
+
+Curanilagüe
 
 80,936 Colico
 
-Curanilahue R. Concepción/Curanilagüe
+Curanilahue R. Concepción/
 
-89,560 Sin Nombre R. Concepción/Curanilagüe
+Curanilagüe
 
-1,850 Sin Nombre R. Sta. Fe/Sta. Bárbara
+ELIMINADO
 
-3,050 Sin Nombre R. Sta. Fe/Sta. Bárbara
+1,850 Sin Nombre R. Sta. Fe/Sta.
 
-6,630 Sin Nombre R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-9,330 Candelaria R. Sta. Fe/Sta. Bárbara
+3,050 Sin Nombre R. Sta. Fe/Sta.
 
-14,440 Sin Nombre R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-19,570 Sin Nombre R. Sta. Fe/Sta. Bárbara
+6,630 Sin Nombre R. Sta. Fe/Sta.
 
-20,090 Los Angeles R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-20,740 Sin Nombre R. Sta. Fe/Sta. Bárbara
+9,330 Candelaria R. Sta. Fe/Sta.
 
-21,803 Sin Nombre R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-22,760 Sin Nombre R. Sta. Fe/Sta. Bárbara
+14,440 Sin Nombre R. Sta. Fe/Sta.
 
-24,100 Sin Nombre R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-27,250 Sin Nombre R. Sta. Fe/Sta. Bárbara
+19,570 Sin Nombre R. Sta. Fe/Sta.
 
-33,950 Sin Nombre R. Sta. Fe/Sta. Bárbara
+Bárbara
 
-35,295 Cuñibal R. Sta. Fe/Sta. Bárbara
+ELIMINADO
 
-38,310 Sin Nombre R. Sta. Fe/Sta. Bárbara
+59,690 Santa Bárbara R. Sta. Fe/
 
-41,690 Llano
+Sta. Bárbara
 
-Blanco. Pte. R. Sta. Fe/Sta. Bárbara
+0,230 Sin Nombre R. Coigüe/
 
-42,310 Llano
+Nacimiento
 
-Blanco. Ote. R. Sta. Fe/Sta. Bárbara
+2,060 Sin Nombre R. Coigüe/
 
-51,510 Mañil R. Sta. Fe/Sta. Bárbara
+Nacimiento
 
-54,900 Sin Nombre R. Sta. Fe/Sta. Bárbara
+5,040 Sin Nombre R. Coigüe/
 
-58,315 Sin Nombre R. Sta. Fe/Sta. Bárbara
-
-59,690 Santa Bárbara R. Sta. Fe/Sta. Bárbara
-
-0,230 Sin Nombre R. Coigüe/Nacimiento
-
-2,060 Sin Nombre R. Coigüe/Nacimiento
-
-5,040 Sin Nombre R. Coigüe/Nacimiento
+Nacimiento
 
 6,600 Est. Coigüe
 
-Norte Ramal Coigüe/Mulchén
+Norte Ramal Coigüe/
 
-7,600 Negrete Ramal Coigüe/Mulchén
+Mulchén
 
-15,450 Rapelco Ramal Coigüe/Mulchén
-
-40,870 Mulchén
-
-Poniente Ramal Coigüe/Mulchén
+ELIMINADO
 
 41,500 Mulchén Oriente Ramal Coigüe/Mulchén
 
@@ -1858,183 +1870,55 @@ Pehuén Ramal Los Sauces/Lebu
 
 143,000 Sin Nombre Ramal Los Sauces/Lebu
 
-14,090 Chufquén
+ELIMINADO
 
-Oriente Ramal Quino/Galvarino
+0,330 Cajón Ramal Cajón/
 
-14,710 Chufquén Pte. Ramal Quino/Galvarino
-
-25,370 Galvarino
-
-Oriente Ramal Quino/Galvarino
-
-29,000 Galvarino
-
-Poniente Ramal Quino/Galvarino
-
-0,350 Púa Ramal a Lonquimay
-
-0,600 Sin Nombre Ramal a Lonquimay
-
-2,942 Púa Collinco Ramal a Lonquimay
-
-9,562 Púa Collinco Ramal a Lonquimay
-
-19,115 Selva Oscura Ramal a Lonquimay
-
-19,640 Selva Os.
-
-Oriente Ramal a Lonquimay
-
-29,536 Cautín Ramal a Lonquimay
-
-29,970 Sin Nombre Ramal a Lonquimay
-
-37,473 Rari Ruca Ramal a Lonquimay
-
-44,835 Sin Nombre Ramal a Lonquimay
-
-47,821 Sin Nombre Ramal a Lonquimay
-
-48,290 Curacautín Ramal a Lonquimay
-
-55,395 Sin Nombre Ramal a Lonquimay
-
-67,405 Manzanar Ramal a Lonquimay
-
-79,668 Malalcahuello Ramal a Lonquimay
-
-80,395 Malalcahuello
-
-Ote. Ramal a Lonquimay
-
-82,070 Sin Nombre Ramal a Lonquimay
-
-84,400 Sin Nombre Ramal a Lonquimay
-
-85,910 Sin Nombre Ramal a Lonquimay
-
-87,640 Boca Norte Ramal a Lonquimay
-
-95,900 Triángulo Ramal a Lonquimay
-
-96,300 Sierra Nevada Ramal a Lonquimay
-
-0,330 Cajón Ramal Cajón/Vilcún
+Vilcún
 
 8,650 Cajón Gral.
 
-López Ramal Cajón/Vilcún
+López Ramal Cajón/
+
+Vilcún
 
 15,000 General
 
-López Pte. Ramal Cajón/Vilcún
+López Pte. Ramal Cajón/
+
+Vilcún
 
 15,800 Gral. López
 
-Oriente Ramal Cajón/Vilcún
+Oriente Ramal Cajón/
+
+Vilcún
 
 25,200 Gral.
 
-López Vilcún Ramal Cajón/Vilcún
+López Vilcún Ramal Cajón/
 
-26,900 Vilcún Ramal Cajón/Vilcún
+Vilcún
 
-27,710 Vilcún Oriente Ramal Cajón/Vilcún
+26,900 Vilcún Ramal Cajón/
 
-1,190 Gral. Mackenna Ramal Temuco/Carahue
+Vilcún
 
-1,225 Calle O'Higgins Ramal Temuco/Carahue
+27,710 Vilcún Oriente Ramal Cajón/
 
-1,325 Aldunate Ramal Temuco/Carahue
+Vilcún
 
-1,600 Prat Ramal Temuco/Carahue
+ELIMINADO
 
-2,525 Calle Prieto Ramal Temuco/Carahue
+55,800 Carahue Ramal Temuco/
 
-15,330 Labranza Ramal Temuco/Carahue
+Carahue
 
-15,950 Labranza Pte. Ramal Temuco/Carahue
-
-23,600 Boroa Ramal Temuco/Carahue
-
-24,260 Boroa Pte. Ramal Temuco/Carahue
-
-33,450 Sin Nombre Ramal Temuco/Carahue
-
-39,450 Sin Nombre Ramal Temuco/Carahue
-
-43,930 Ranquilco Ramal Temuco/Carahue
-
-44,550 Ranquilco Pte. Ramal Temuco/Carahue
-
-50,650 Sin Nombre Ramal Temuco/Carahue
-
-55,800 Carahue Ramal Temuco/Carahue
-
-6,630 Freire Allipén Ramal a Cunco
-
-12,535 Allipén Ramal a Cunco
-
-13,150 Allipén Oriente Ramal a Cunco
-
-21,545 Radal Ramal a Cunco
-
-22,140 Radal Pte. Ramal a Cunco
-
-24,140 Sin Nombre Ramal a Cunco
-
-30,160 Choroico Pte. Ramal a Cunco
-
-30,790 Choroico
-
-Oriente Ramal a Cunco
-
-35,000 Los Laureles Ramal a Cunco
-
-35,510 Sin Nombre Ramal a Cunco
-
-37,710 Sin Nombre Ramal a Cunco
-
-43,940 Las Hortensias Ramal a Cunco
-
-44,550 Las Hortensias
-
-Ote. Ramal a Cunco
-
-48,500 Sin Nombre Ramal a Cunco
-
-50,130 Sin Nombre Ramal a Cunco
-
-55,380 Sin Nombre Ramal a Cunco
-
-56,560 Cunco Pte. Ramal a Cunco
+ELIMINADO
 
 57,040 Cunco Oriente Ramal a Cunco
 
-0,330 Loncoche Ramal a Villarrica
-
-0,638 Sin Nombre Ramal a Villarrica
-
-1,234 Sin Nombre Ramal a Villarrica
-
-10,016 Ancahual Ramal a Villarrica
-
-22,625 Huiscapi Pte. Ramal a Villarrica
-
-23,250 Huiscapi
-
-Oriente Ramal a Villarrica
-
-24,250 Sin Nombre Ramal a Villarrica
-
-33,550 Ñancul Pte. Ramal a Villarrica
-
-34,180 Ñancul Oriente Ramal a Villarrica
-
-36,980 Sin Nombre Ramal a Villarrica
-
-41,726 Villarrica Ramal a Villarrica
+ELIMINADO
 
 0,652 Lanco Ramal a Panguipulli
 
@@ -2080,83 +1964,49 @@ Oriente Ramal a Panguipulli
 
 52,897 Panguipulli Ramal a Panguipulli
 
-0,480 Antilhue Ramal Antilhue/Valdivia
+0,480 Antilhue Ramal Antilhue/
 
-1,193 Circ. Antilhue Ramal Antilhue/Valdivia
+Valdivia
 
-4,210 Sin Nombre Ramal Antilhue/Valdivia
+1,193 Circ. Antilhue Ramal Antilhue/
 
-5,230 Chincuín Ramal Antilhue - Valdivia
+Valdivia
 
-9,635 Pishuinco Ramal Antilhue/Valdivia
+4,210 Sin Nombre Ramal Antilhue/
 
-16,180 Huellelhue Ramal Antilhue/Valdivia
+Valdivia
 
-22,665 Sin Nombre Ramal Antilhue/Valdivia
+5,230 Chincuín Ramal Antilhue -
 
-25,820 Sin Nombre Ramal Antilhue/Valdivia
+Valdivia
 
-27,787 Valdivia Ramal Antilhue/Valdivia
+9,635 Pishuinco Ramal Antilhue/
 
-1,074 Cocule
+Valdivia
 
-Río Bueno Ramal a Lago Ranco
+16,180 Huellelhue Ramal Antilhue/
 
-12,730 Cocule
+Valdivia
 
-Río Bueno Ramal a Lago Ranco
+22,665 Sin Nombre Ramal Antilhue/
 
-13,015 Cocule
+Valdivia
 
-Río Bueno Ramal a Lago Ranco
+25,820 Sin Nombre Ramal Antilhue/
 
-13,140 Cocule
+Valdivia
 
-Río Bueno Ramal a Lago Ranco
+27,787 Valdivia Ramal Antilhue/
 
-13,372 Cocule
+Valdivia
 
-Río Bueno Ramal a Lago Ranco
-
-13,610 Cocule
-
-Río Bueno Ramal a Lago Ranco
-
-13,770 Cocule
-
-Río Bueno Ramal a Lago Ranco
+ELIMINADO
 
 13,940 Cocule
 
 Río Bueno Ramal a Lago Ranco
 
-14,738 Río Bueno Pte. Ramal a Lago Ranco
-
-15,558 Río Bueno
-
-Oriente Ramal a Lago Ranco
-
-23,255 Sin Nombre Ramal a Lago Ranco
-
-27,785 Sin Nombre Ramal a Lago Ranco
-
-29,720 Sin Nombre Ramal a Lago Ranco
-
-30,270 Crucero Pte. Ramal a Lago Ranco
-
-31,090 Crucero Oriente Ramal a Lago Ranco
-
-37,115 Trapi Pte. Ramal a Lago Ranco
-
-37,910 Trapi Ramal a Lago Ranco
-
-45,680 Vivanco Pte. Ramal a Lago Ranco
-
-46,220 Vivanco Oriente Ramal a Lago Ranco
-
-53,485 Ignao Ramal a Lago Ranco
-
-65,745 Lago Ranco Ramal a Lago Ranco
+ELIMINADO
 
 1,900 Sin Nombre Ramal a Los Muermos
 
@@ -2186,7 +2036,7 @@ Oriente Ramal a Los Muermos
 
 Km Nombre Lugar
 
-0,203 Chacabuco Ferrocarril Arica
+0, 203 Chacabuco Ferrocarril Arica
 
 La Paz
 
