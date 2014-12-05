@@ -26,7 +26,7 @@ Las disposiciones de la ley Nº 20.765 que crea un Mecanismo de Estabilización 
 
 a) Gasolina automotriz.
 
-Esta categoría comprende toda gasolina que se utilice en vehículos motorizados terrestres que transiten por calles, caminos y vías públicas en general.
+Esta categoría comprende toda gasolina independiente de su octanaje, que se encuentre gravada en su primera venta o importación con el impuesto específico establecido en la ley Nº 18.502, y que se utilice en vehículos motorizados terrestres que transiten por calles, caminos y vías públicas en general.
 
 b) Petróleo diésel.
 
@@ -84,6 +84,10 @@ El precio de paridad a determinar para cada semana será el valor de paridad de 
 
 Los precios de paridad que se determinen regirán a partir del jueves siguiente a la fecha del decreto que los establezca.
 
+#### Artículo 3º bis
+
+En el caso de las gasolinas automotrices, los precios de referencia y paridad señalados en los artículos 2º y 3º del presente reglamento, se determinarán para aquellas que tengan un precio representativo de un mercado internacional relevante. La determinación de la existencia de un precio representativo en un mercado internacional relevante será realizada por la Comisión con consulta a los productores e importadores nacionales.
+
 #### Artículo 4º
 
 Para efectos del presente reglamento, se entenderá por dólar observado, el valor del dólar de Estados Unidos de América observado publicado por el Banco Central de Chile en el Diario Oficial. Para efectos del cálculo del promedio simple del dólar observado en una semana a que se hace referencia en el presente reglamento, en caso de que alguno de los días comprendidos en dicho período fuese inhábil, se considerará sólo el promedio simple del dólar observado de los días hábiles bancarios de la semana respectiva.
@@ -120,7 +124,7 @@ Gas licuado de petróleo : 1,40 UTM por m3
 
 De conformidad con lo establecido en el artículo 3º de la ley, al componente base señalado en el artículo precedente se sumará o restará un componente variable, consistente en un mecanismo integrado por impuestos o créditos fiscales específicos de tasa variable que incrementarán o rebajarán el componente base, y por ende el Impuesto Específico a los Combustibles a aplicar, conforme a lo señalado en los siguientes numerales:
 
-1) Se determinará, en cada semana de vigencia, el "precio base" para cada uno de los combustibles cubiertos por el mecanismo a que se refiere la ley. El "precio base" corresponderá a la mejor proyección que pueda realizar el Ministerio de Hacienda respecto del precio que informará próximamente la Empresa Nacional del Petróleo para la Región Metropolita, asumiendo que el componente variable del impuesto específico es cero. El "precio base" deberá incluir el impuesto al valor agregado y el componente base del impuesto específico que corresponda a ese combustible.
+1) Se determinará, en cada semana de vigencia, el "precio base" para cada uno de los combustibles cubiertos por el mecanismo a que se refiere la ley. Tratándose de la gasolina automotriz, dicho "precio base" se determinará para aquellas a que se refiere el artículo 3º bis del presente reglamento. El "precio base" corresponderá a la mejor proyección que pueda realizar el Ministerio de Hacienda respecto del precio que informará próximamente la Empresa Nacional del Petróleo para la Región Metropolita, asumiendo que el componente variable del impuesto específico es cero. El "precio base" deberá incluir el impuesto al valor agregado y el componente base del impuesto específico que corresponda a ese combustible.
 
 2) El "precio base" determinado de acuerdo al numeral anterior, deberá compararse con el precio informado por la Empresa Nacional del Petróleo para la Región Metropolita, en su informe semanal de precios, la semana anterior.
 
@@ -136,15 +140,15 @@ b. Si el componente variable del impuesto específico variable es igual o mayor 
 
 6) El componente variable del Impuesto Específico del gas natural comprimido de consumo vehicular será igual al monto del componente variable, sea impuesto o crédito, según corresponda, del gas licuado de petróleo de consumo vehicular en el mismo período multiplicado por 1,5195.
 
-7) Para el caso de la gasolina automotriz, se considerará aquella que presente el mayor volumen de primera venta e importación en el año calendario anterior, de acuerdo a la información entregada por la Comisión.
+7) Tratándose de mezclas de gasolina automotriz, el componente variable del impuesto específico será el resultado de un promedio ponderado de los componentes variables de cada una de las gasolinas que componen la mezcla, utilizando como ponderadores las proporciones que cada una de ellas represente en dicha mezcla.
 
 #### Artículo 9º
 
 La Comisión deberá informar semanalmente al Ministerio de Hacienda los antecedentes relativos a precios de paridad y referencia para los efectos de lo señalado en el artículo 3º de la ley.
 
-El Ministerio de Hacienda deberá estimar semanalmente la diferencia en la recaudación tributaria que hubiese correspondido a la aplicación del componente base del impuesto específico y la que se ha producido desde la entrada en operación del mecanismo. En el caso en que dicha diferencia supere el equivalente en pesos a US$500 millones de acuerdo al dólar observado promedio existente en dicho periodo, se hará converger el componente variable del impuesto específico a cero, a un ritmo tal que en un lapso de doce semanas a partir de esa fecha no se acumule una diferencia adicional mayor al equivalente en pesos a US$ 100 millones, sobre la base del dólar observado vigente a esa misma fecha.
+El Ministerio de Hacienda deberá estimar semanalmente la diferencia en la recaudación tributaria que hubiese correspondido a la aplicación del componente base del impuesto específico y la que se ha producido desde la entrada en operación del mecanismo. En caso que la acumulación de dicha diferencia recaudatoria, respecto del conjunto de los combustibles cubiertos por el mecanismo a que se refiere la ley, supere el equivalente en pesos a US$500 millones de acuerdo al dólar observado promedio existente en dicho periodo, se hará converger el componente variable del impuesto específico, de cada combustible, a cero en un plazo de hasta doce semanas. Esta convergencia se materializará multiplicando el componente variable del impuesto específico de cada combustible por un factor equivalente al resultado de la resta entre doce y el número de semanas transcurridas desde la fecha en que se haya estimado se produjo la superación de los US$500 millones precitados, todo ello dividido por doce. Con todo, si en dicho lapso se estima una diferencia adicional mayor al equivalente en pesos a US$100 millones, sobre la base del tipo de cambio vigente a esa fecha, el mecanismo finalizará su funcionamiento la semana en la que se haya acumulado dicha suma.
 
-La diferencia entre la recaudación que hubiese correspondido a la aplicación del componente base del impuesto específico y la que efectivamente se ha producido, se estimará multiplicando el componente variable del impuesto específico de cada semana por el consumo semanal estimado de cada combustible. Esta estimación se actualizará en función de la información sobre la recaudación del impuesto específico de los combustibles que publica trimestralmente la Dirección de Presupuestos. Para efectos de determinar el ritmo de convergencia del componente variable del impuesto específico a los combustibles en caso que se haya superado el equivalente en pesos a los US$ 500 millones a que se refiere el inciso anterior, se deberá proyectar la diferencia en recaudación, en base a una proyección de todos los precios utilizados en el Mecanismo de Estabilización de los Precios de los Combustibles, y los valores de consumo de combustibles proyectados.
+La diferencia entre la recaudación que hubiese correspondido a la aplicación del componente base del impuesto específico y la que efectivamente se ha producido, se estimará multiplicando el componente variable del impuesto específico de cada semana por el consumo semanal estimado de cada combustible. Esta estimación se actualizará en función de la información sobre la recaudación del impuesto específico de los combustibles que publica trimestralmente la Dirección de Presupuestos.
 
 Para lo anterior, el Ministerio de Hacienda solicitará los informes que sean necesarios a las instituciones pertinentes, conforme a las facultades que le otorga la ley.
 
@@ -155,6 +159,10 @@ El monto del Impuesto Específico se expresará en Unidades Tributarias Mensuale
 El Impuesto Específico a aplicar se considerará restringido al cuarto decimal, redondeándolo, y para su cálculo se utilizará el valor de la UTM publicado por el Banco Central de Chile, vigente el día de entrada en vigencia de los precios de referencia y paridad.
 
 El Impuesto Específico a aplicar a los combustibles referidos en el artículo 1º de este reglamento, será el informado por el Servicio de Impuestos Internos a más tardar el día jueves de la semana en que empiece a regir el decreto de precios de referencia respectivo. Para estos efectos, dicho decreto determinará tanto el componente variable como el Impuesto Específico final resultante para cada combustible, el que se aplicará desde ese jueves hasta el miércoles de la semana siguiente. Copia de dicho decreto será enviado al Servicio de Impuestos Internos para su información, de manera simultánea a su publicación.
+
+#### Artículo 10º bis
+
+Sin perjuicio de lo dispuesto en el inciso tercero del artículo 3º de la ley, para el cálculo de la base imponible del impuesto al valor agregado, en el caso de mezclas de gasolina automotriz, se estará, respecto al componente variable del impuesto específico, a lo dispuesto en el número 7) del inciso primero del artículo 8º del presente reglamento.
 
 #### Artículo 11º
 
