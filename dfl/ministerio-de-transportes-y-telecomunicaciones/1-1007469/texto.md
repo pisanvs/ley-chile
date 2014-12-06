@@ -622,7 +622,9 @@ El Repertorio será cerrado diariamente por el Oficial de Registro Civil e Ident
 
 El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición.
 
-En los casos en que el título translaticio de dominio sea autorizado por Notario u otro Ministro de fe, éste deberá requerir la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.
+En los casos en que el título traslaticio de dominio sea autorizado por un notario u otro ministro de fe, éste deberá requerir del vendedor un certificado del Registro de Multas del Tránsito no pagadas, al momento de la celebración del contrato, y solicitar la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.
+
+El comprador responderá sólo por las multas empadronadas que figuren en el certificado emitido por el Servicio de Registro Civil e Identificación al momento de la compra. Dicho Servicio se abstendrá de anotar la multa impaga en el Registro de Multas de Tránsito no Pagadas, si el propietario del vehículo que figura en el Registro de Vehículos Motorizados es distinto de quien lo era a la fecha de la infracción. Lo anterior no obsta a la responsabilidad de la persona condenada al pago de la multa.
 
 La inscripción de dominio de los vehículos deberá indicar el domicilio del propietario.
 
