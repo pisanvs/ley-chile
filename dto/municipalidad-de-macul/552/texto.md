@@ -1898,6 +1898,46 @@ Antejardín frente a calle Aucopujo : 5 mts.
 
 Antejardín frente a pasaje Lago Parinacota : 3 mts.
 
+ZR-7 - ZONA RESIDENCIAL, DENSIDAD BAJA 2-M
+
+USOS PERMITIDOS:
+
+-- RESIDENCIAL
+
+-- ÁREAS VERDES - ESPACIO PÚBLICO.
+
+-- EQUIPAMIENTO:
+
+TIPOS:
+
+USOS PROHIBIDOS:
+
+. EQUIPAMIENTOS
+
+TIPOS:
+
+. ACTIVIDADES PRODUCTIVAS:
+
+. INDUSTRIAL DE TODO TIPO, TALLERES Y ALMACENAMIENTO.
+
+. TALLERES MOLESTOS CALIFICADOS POR MINSAL.
+
+. INFRAESTRUCTURA
+
+. INSTALACIÓN DE TORRES SOPORTE DE ANTENAS Y SISTEMAS RADIANTES DE TRANSMISIÓN DE TELECOMUNICACIONES.
+
+CUADRO DE NORMAS URBANÍSTICAS:
+
+DISPOSICIONES COMPLEMENTARIAS:
+
+-- Densidad bruta máxima: 200 hab/há
+
+-- Los dos pisos de altura indicados, incluyen éstos más la mansarda, la que deberá corresponder a la habilitación de la techumbre, considerándose ésta como un piso más, debiendo cumplir con todo el resto de la reglamentación.
+
+-- Todos los proyectos que se desarrollen dentro de los límites de las áreas de restricción de aeródromos graficadas en el plano PRMAC-1, deberán ceñirse además a lo dispuesto en el artículo 26º de la ordenanza local del P.R.C de Macul. (AR-2).
+
+-- Todos los proyectos que se desarrollen en las proximidades de líneas de alta tensión deberán cumplir con los distanciamientos establecidos en el artículo 26º de la ordenanza local del P.R.C. de Macul. (AR-3).
+
 ZI e - ZONA INDUSTRIAL EXCLUSIVA
 
 Usos permitidos:
@@ -3565,3 +3605,5 @@ ASESORIA URBANA
 > **Nota.** NOTA 4 El Nº 2 del Decreto 974, Municipalidad de Macul, publicado el 20.07.2010, modifica la presente norma en el sentido de restituir el Uso de Suelo de dos predios que en dicha norma se indican, restableciéndolos conforme a lo dispuesto por los Planos de Subdivisión respectivos.
 
 > **Nota.** NOTA 5 El artículo único del N° 2 del Decreto 1111, Municipalidad de Macul, publicado el 23.07.2010, modifica la presente norma, en el sentido de incorporar en las Zonas de Equipamiento Recreacional y Deportivo Comunal, ZE-dc, diversas modificaciones, las que no fueron incorporadas por razones técnicas.
+
+> **Nota.** NOTA 6 El numeral 1 del Artículo Único del Nº 2 del Decreto 1408, Municipalidad de Macul, publicado el 28.06.2013, modifica la presente norma, en el sentido de reemplazar las características de la vía Luis Durand, en el tramo ubicado entre Av. El Líbano y Av. Macul, por los dos nuevos tramos que la citada norma indica.
