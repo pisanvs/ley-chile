@@ -98,7 +98,7 @@ Para participar de este llamado los proyectos deben contar con Certificado de Ca
 
 a) Para primera selección, hasta el 14 de agosto de 2014.
 
-b) Para segunda selección, hasta el 30 de octubre de 2014.
+b) Para segunda selección, hasta el 10 de noviembre de 2014.
 
 c) Para tercera selección, hasta el 12 de diciembre de 2014.
 
@@ -553,6 +553,8 @@ la vivienda.
 13. Los proyectos se deberán ingresar en las Oficinas de Partes de los Serviu correspondientes a la región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu disponga, el que deberá ser debidamente informado por correo electrónico a las Entidades Patrocinantes.
 
 14. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS Nº 255 (V. y U.), de 2006.
+
+> **Nota.** El N° 2 de la Resolución 8161 Exenta, Vivienda, publicada el 10.12.2014, aclara la presente norma, en el sentido que los recursos señalados en el cuadro inserto en el Numeral 2°, son los recursos involucrados exclusivamente para la primera selección del llamado y que estos fueron ajustados en el Resuelvo número 2 de la resolución exenta Nº 6.308 (V. y U.), de fecha 8 de octubre de 2014.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
