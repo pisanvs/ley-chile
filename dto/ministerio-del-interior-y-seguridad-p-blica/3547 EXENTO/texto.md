@@ -332,41 +332,9 @@ I.R.N.V.M. : DCXL.76-6
 
 Placa única : DCXL.76
 
-Vehículo : Automóvil
+DEROGADO.
 
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q061212
-
-Chasis : 9FBLSRADBBM036207
-
-Color : Gris Estrella
-
-I.R.N.V.M. : DCXL.64-2
-
-Placa única : DCXL.64
-
-Vehículo : Furgón
-
-Marca : Peugeot
-
-Modelo : Partner Origin 1.6 HDI 75HP
-
-Año : 2011
-
-Motor : 10JBBV0119745
-
-Chasis : VF3GC9HWCBN523079
-
-Color : Blanco Banquise
-
-I.R.N.V.M. : DFZS.52-0
-
-Placa única : DFZS.52
+Derogado.
 
 Fiscalía Local de Chacabuco
 
@@ -390,121 +358,23 @@ Placa única : DGTR.70
 
 Fiscalía Regional Metropolitana Oriente
 
-Vehículo : Station Wagon
-
-Marca : JAC
-
-Modelo : Refine 2.8
-
-Año : 2011
-
-Motor : B4000552
-
-Chasis : LJ16AA3C2C7090178
-
-Color : Blanco
-
-I.R.N.V.M. : DGTR.79-3
-
-Placa única : DGTR.79
+Derogado.
 
 Fiscalía Local de Las Condes
 
-Vehículo : Automóvil
-
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q064276
-
-Chasis : 9FBLSRADBBM037278
-
-Color : Gris Comet
-
-I.R.N.V.M. : DCXL.66-9
-
-Placa única : DCXL.66
+Derogado.
 
 Fiscalía Local de Ñuñoa
 
-Vehículo : Automóvil
-
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q061106
-
-Chasis : 9FBLSRADBBM036205
-
-Color : Gris Comet
-
-I.R.N.V.M. : DCXL.74-K
-
-Placa única : DCXL.74
+Derogado.
 
 Fiscalía Local de La Florida
 
-Vehículo : Automóvil
-
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q066883
-
-Chasis : 9FBLSRADBCM038391
-
-Color : Gris Estrella
-
-I.R.N.V.M. : DCXL.79-0
-
-Placa única : DCXL.79
+Derogado.
 
 Fiscalía Local de Flagrancia y Violencia Intrafamiliar (Fiscalía Regional Metropolitana Oriente)
 
-Vehículo : Automóvil
-
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q064275
-
-Chasis : 9FBLSRADBBM037280
-
-Color : Gris Comet
-
-I.R.N.V.M. : DCXL.73-1
-
-Placa única : DCXL.73
-
-Vehículo : Automóvil
-
-Marca : Renault
-
-Modelo : Logan Dynamique 1.6
-
-Año : 2011
-
-Motor : F710Q046763
-
-Chasis : 9FBLSRADBBM032463
-
-Color : Blanco Artica
-
-I.R.N.V.M. : DCXL.80-4
-
-Placa única : DCXL.80
+Derogado.
 
 Fiscalía Regional Metropolitana Occidente
 

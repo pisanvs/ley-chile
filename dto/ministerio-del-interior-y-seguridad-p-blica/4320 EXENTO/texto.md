@@ -32,10 +32,6 @@ I.N.R.V.M. : GPTD.70-0
 
 Patente : GPTD.70
 
-> **Nota.** El artículo tercero del Decreto 7297 Exento, Interior, publicado el 16.04.2015, deja sin efecto la autorización, otorgada por la presente norma, para circular en horario inhábil y en días sábados en la tarde, domingos y festivos, a los vehículos patente única DWCP.65, FJYL.88 y FCGJ.61.
-
-> **Nota.** NOTA 1 El artículo tercero del Decreto 4440 Exento, Interior, publicado el 16.02.2023, deja sin efecto la autorización de circulación en horario inhábil y en días sábados en la tarde, domingos y festivos, respecto del vehículo placa única GPTD-70, otorgada en el presente artículo.
-
 #### Artículo segundo
 
 Autorízase la circulación en horario inhábil y en días sábados en la tarde, domingos y festivos, con disco fiscal, a los vehículos que se individualizan, asignados al uso de las fiscalías que se señalan:
