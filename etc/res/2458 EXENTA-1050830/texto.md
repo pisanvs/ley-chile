@@ -40,15 +40,7 @@ C. prunivora (Lep.: Tortricidae) y Anarsia
 
 lineatella (Lep.: Gelechiidae).
 
-. El envío ha sido sometido a un tratamiento
-
-fungicida en pre y post cosecha contra Monilinia
-
-fructicola según el Procedimiento Operacional
-
-Estándar definido por USDA/APHIS para el control
-
-de esta plaga.
+. Eliminado.
 
 . El envío ha sido sometido a un tratamiento
 
@@ -106,15 +98,7 @@ C. prunivora (Lep.: Tortricidae) y Anarsia
 
 lineatella (Lep.: Gelechiidae).
 
-. El envío ha sido sometido a un tratamiento
-
-fungicida en pre y post cosecha contra Monilinia
-
-fructicola según el Procedimiento Operacional
-
-Estándar definido por USDA/APHIS para el control
-
-de esta plaga.
+. Eliminado.
 
 . El envío ha sido sometido a un tratamiento
 
