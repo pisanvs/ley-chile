@@ -1,0 +1,43 @@
+INCORPORA NUEVAS MUNICIPALIDADES AL SISTEMA DE REGISTRO ELECTRÓNICO DE DECRETOS ALCALDICIOS RELATIVOS A LAS MATERIAS DE PERSONAL QUE INDICA
+
+Santiago, 1 de diciembre de 2014.- Con esta fecha se ha resuelto lo siguiente:
+
+Núm. 573.- Considerando:
+
+Que conforme a la Constitución Política de la República corresponde a la Contraloría General ejercer el control de legalidad de los actos de la Administración del Estado.
+
+Que de acuerdo a lo dispuesto en el artículo 53 de la ley Nº 18.695, Orgánica Constitucional de Municipalidades, las resoluciones que dicten las entidades edilicias estarán exentas del trámite de toma de razón, pero deberán registrarse ante esta Contraloría General cuando afecten a funcionarios municipales. Para tal objeto, este Órgano Contralor debe llevar un registro del personal municipal en la forma y condiciones en que lo hace para el resto del sector público, debiendo las municipalidades remitir los antecedentes que éste les solicite.
+
+Que la forma en que se llevará a cabo dicho registro se encuentra establecida en las resoluciones Nº 1.600, de 2008, que Fija Normas sobre Exención del Trámite de Toma de Razón, y Nº 908, de 2011, que Fija Normas Sobre Registro Electrónico de Decretos y Resoluciones Exentos Relativos a las Materias que Indica, ambas de esta Contraloría General.
+
+Que, por su parte, la circular Nº 15.700, de 2012, complementada por el oficio circular Nº 33.701, de 14 de mayo de 2014, de este Órgano de Control, ha establecido los actos administrativos municipales sujetos a registro.
+
+Que a fin de velar por el debido cumplimiento de la función pública, por la eficiente e idónea administración de los medios públicos, por el derecho de los funcionarios a conocer y disponer de la información relativa a los actos administrativos que los afectan, y por la utilidad que significa para las municipalidades el mantener al día la información de su personal, es que resulta conveniente utilizar las actuales tecnologías de la información para facilitar y hacer más expedito dicho trámite, tanto para los municipios como para esta Contraloría General.
+
+Que, a partir del presente año el registro de los actos administrativos de las municipalidades que más adelante se indican, se realizará electrónicamente a través del "Sistema de Información y Control del Personal de la Administración del Estado", en adelante, "SIAPER", plataforma web que ha desarrollado la Contraloría General como herramienta de apoyo para el ejercicio del control de juridicidad de los actos administrativos y de fiscalización que en materia de personal le corresponde realizar.
+
+Que, de esta manera, el registro de los actos administrativos que tradicionalmente se materializa mediante el envío de dichos documentos por parte de las Municipalidades a la Contraloría, será sustituido por un sistema de registro electrónico, de tal manera que la información esencial de cada acto administrativo sea ingresada directamente a SIAPER a través de formularios que deberán completar los propios municipios, quedando los correspondientes actos administrativos en soporte papel, junto a sus antecedentes, en cada institución para posterior revisión y fiscalización de Contraloría.
+
+Que, este sistema de registro electrónico se ha ido implementando gradualmente respecto de toda la Administración del Estado a partir del año 2011, de manera tal que hoy, todas las entidades del sector no municipal de la Administración del Estado, con excepción de las empresas públicas y los servicios de salud, se encuentran trabajando con este sistema.
+
+Que, mediante resolución Nº 323, de 2013, que Fija Normas sobre Registro Electrónico de Decretos Alcaldicios Relativos a las Materias de Personal que Indica, complementada por la resolución Nº 457, de 15 de julio de 2014, de este Órgano Contralor, se establece que el registro de las materias señaladas en ellas se efectuará electrónicamente a través de la plataforma web que para estos efectos disponga la Contraloría General.
+
+Que, mediante la primera de las resoluciones antes citadas, se incorporaron a partir del 1 de agosto de 2013 al reseñado sistema de registro electrónico 24 municipalidades, y luego por resolución Nº 178, de 2014, de esta Contraloría General, se sumaron 154 municipios a contar del 2 de mayo del año en curso, correspondiendo en esta nueva etapa sumar a los últimos 167 municipios a contar del 1 de diciembre de 2014.
+
+Vistos: Las facultades que me confiere la Constitución Política de la República; lo dispuesto en los incisos quinto y sexto del artículo 10 de la ley Nº 10.336, de Organización y Atribuciones de esta Contraloría General; lo señalado en la Ley 20.776, sobre Procedimiento de Toma de Razón y Registro Electrónicos; lo establecido en el artículo 53 de la ley Nº 18.695, Orgánica Constitucional de Municipalidades; la circular Nº 15.700, de 2012, de este Órgano de Control, complementada por el oficio circular Nº 33.701, de 14 de mayo de 2014; y lo señalado en las resoluciones Nº 1.600, de 2008, que Fija Normas sobre Exención del Trámite de Toma de Razón, Nº 908, de 2011, que Fija Normas Sobre Registro Electrónico de Decretos y Resoluciones Exentos Relativos a las Materias que Indica; Nº 323, de 23 de mayo de 2013, que Fija Normas sobre Registro Electrónico de Decretos Alcaldicios Relativos a las Materias de Personal que Indica, complementada por la resolución Nº 457, de 15 de julio de 2014, y la resolución Nº 178, de 2014, que Incorpora Nuevas Municipalidades al Sistema de Registro Electrónico, todas de esta Contraloría General.
+
+Resuelvo:
+
+#### Artículo 1
+
+La resolución Nº 323, de 23 de mayo de 2013, que Fija Normas sobre Registro Electrónico de Decretos Alcaldicios Relativos a las Materias de Personal que Indica, complementada por la resolución Nº 457, de 2014, ambas de esta Contraloría General, entrará en vigencia el día 1 de diciembre de 2014, para las municipalidades que a continuación se indican: Alto Hospicio, Camiña, Colchane, Huara, Pica, Pozo Almonte, Alto del Carmen, Caldera, Chañaral, Diego de Almagro, Freirina, Huasco, Tierra Amarilla, Vallenar, Angol, Carahue, Cholchol, Collipulli, Cunco, Curacautín, Curarrehue, Ercilla, Freire, Galvarino, Gorbea, Lautaro, Loncoche, Lonquimay, Los Sauces, Lumaco, Melipeuco, Nueva Imperial, Padre Las Casas, Perquenco, Pitrufquén, Pucón, Purén, Renaico, Saavedra, Teodoro Schmidt, Toltén, Traiguén, Victoria, Vilcún, Villarrica, Buin, Calera de Tango, Cerrillos, Cerro Navia, Colina, Conchalí, La Florida, La Pintana, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Providencia, Pudahuel, Recoleta, San Bernardo, San Joaquín, San José de Maipo, San Miguel, Santiago, Talagante, Algarrobo, Calle Larga, Cartagena, Casablanca, Catemu, Concón, El Tabo, Isla de Pascua, Juan Fernández, Limache, Llay Llay, Los Andes, Olmué, Panquehue, Puchuncaví, Putaendo, Quilpué, Quintero, Rinconada, San Antonio, San Esteban, San Felipe, Santa María, Santo Domingo, Villa Alemana, Viña del Mar, Codegua, Coinco, La Estrella, Lolol, Malloa, Marchihue, Mostazal, Nancagua, Olivar, Palmilla, Peralillo, Peumo, Placilla, Pumanque, Curepto, Licantén, Longaví, Rauco, Retiro, San Clemente, Villa Alegre, Yerbas Buenas, Alto Biobío, Antuco, Cobquecura, Coihueco, Hualpén, Laja, Lebu, Mulchén, Negrete, Ninhue, Ñiquén, Pinto, Portezuelo, Quilaco, Quillón, Quirihue, Ranquil, San Ignacio, San Rosendo, Santa Juana, Tirúa, Aysén, Chile Chico, Cisnes, Cochrane, Guaitecas, Lago Verde, O'Higgins, Río Ibáñez, Tortel, Cabo de Hornos, Laguna Blanca, Natales, Porvenir, Primavera, Río Verde, San Gregorio, Timaukel, Torres del Paine, Corral, Futrono, La Unión, Lago Ranco, Lanco, Los Lagos, Máfil, Mariquina, Paillaco, Panguipulli, Río Bueno, Camarones, General Lagos y Putre.
+
+#### Artículo 2
+
+Las entidades edilicias que se incorporan por medio de la presente resolución al señalado sistema de registro electrónico, deberán, a partir del 1 de enero de 2015, utilizar una numeración única y correlativa para sus decretos alcaldicios que se refieran a las materias indicadas en las resoluciones citadas en el artículo precedente.
+
+El sistema impedirá el registro de aquellos actos de un municipio que posean el mismo número y año de un acto ya registrado.
+
+Anótese, tómese razón y publíquese.- Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Lo que transcribo a Ud. para su conocimiento.- Victoria Narvéz Alonso, Secretaria General Contraloría General de la República.
