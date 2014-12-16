@@ -92,27 +92,11 @@ Los períodos de vigencia para la aplicación de cada decreto supremo que establ
 
 Valores piso y techo
 
-Los valores piso y techo del trigo para el período comprendido entre diciembre del año 2003 y diciembre del año 2014, serán los siguientes:
+Los valores piso y techo del trigo serán los siguientes:
 
-Valores piso y techo del trigo según período de vigencia
+Valor piso : 114
 
-Período de vigencia Valor piso Valor techo
-
-16-dic-2003 hasta 15-dic-2007 128 148
-
-16-dic-2007 hasta 15-dic-2008 126 146
-
-16-dic-2008 hasta 15-dic-2009 124 144
-
-16-dic-2009 hasta 15-dic-2010 122 142
-
-16-dic-2010 hasta 15-dic-2011 120 140
-
-16-dic-2011 hasta 15-dic-2012 118 138
-
-16-dic-2012 hasta 15-dic-2013 116 136
-
-16-dic-2013 hasta 15-dic-2014 114 134
+Valor techo : 134
 
 #### Artículo 7
 
@@ -140,27 +124,11 @@ Los períodos de vigencia para la aplicación de cada decreto supremo que establ
 
 Valores piso y techo
 
-Los valores piso y techo del azúcar para el período comprendido entre diciembre del año 2003 y noviembre del año 2014, serán los siguientes:
+Los valores piso y techo del azúcar serán los siguientes:
 
-Valores piso y techo del azúcar según período de vigencia
+Valor piso : 238
 
-Período de vigencia Valor piso Valor techo
-
-1-dic-2003 hasta 30-nov-2007 310 339
-
-1-dic-2007 hasta 30-nov-2008 304 332
-
-1-dic-2008 hasta 30-nov-2009 298 325
-
-1-dic-2009 hasta 30-nov-2010 292 319
-
-1-dic-2010 hasta 30-nov-2011 286 313
-
-1-dic-2011 hasta 30-nov-2012 269 294
-
-1-dic-2012 hasta 30-nov-2013 253 276
-
-1-dic-2013 hasta 30-nov-2014 238 259
+Valor techo : 259
 
 #### Artículo 11
 
