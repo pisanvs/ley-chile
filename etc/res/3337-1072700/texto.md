@@ -1,0 +1,5 @@
+OFICIALIZA NOMINACIÓN DE MIEMBROS DEL SECTOR PRIVADO DEL COMITÉ DE MANEJO HUEPO Y NAVAJUELA EN LA BAHÍA DE CORRAL
+
+Por resolución Nº 3.337, de 10 de diciembre de 2014, de esta Subsecretaría, se designa como miembros del Comité de Manejo de Huepo y Navajuela en la Bahía de Corral: en representación del sector artesanal primer cargo a José Martel Villanueva, como titular, y a José Beroiza Matias, como suplente, en el segundo cargo, a José Enrique Chaura Ñanco, como titular y a Edison Díaz Pérez, como suplente, en el tercer cargo a Óscar Bahamondez Millán, como titular, y a Ricardo Díaz, en el cuarto cargo a Serio Agüero Parada, como titular, y José Leopoldo Fernández Ramírez, como suplente. Declárase vacante el quinto, sexto y sétimo cargo en representación del sector artesanal. En representación de las plantas de proceso a José Escobar Galaz, como titular, y a Francisca San Martín Sepúlveda, como suplente.
+
+Valparaíso, 10 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
