@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.292, de 2 de diciembre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.929, de 2012, sólo en cuanto autorizó a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Puerto Williams", respecto del recurso hidrobiológico Reineta en el área marítima comprendida entre el paralelo 47ºL.S, y el paralelo 57ºL.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 2 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
