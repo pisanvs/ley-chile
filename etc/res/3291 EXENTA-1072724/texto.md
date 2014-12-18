@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.291, de 2 de diciembre de 2014, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.337, de 2014, sólo en cuanto autorizó a PESQUERA OMEGA LTDA. para realizar actividades pesqueras extractivas con la nave "Christina S", respecto del recurso hidrobiológico Jibia, en el área marítima comprendida entre la XV a XII Regiones, Isla de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 2 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
