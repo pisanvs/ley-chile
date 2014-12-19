@@ -558,7 +558,7 @@ ESPECIFICAS
 
 #### Artículo 25°
 
-Las zonas de usos de suelo establecidas y sus límites, están graficadas en el plano PRSM-1 y en el plano PRSM-3 ( ENMIENDA ) y son las siguientes:
+Las zonas de usos de suelo establecidas y sus límites, están graficadas en el plano PRSM-1 y en el plano M3-ZU2'-PRSM y en el plano PRSM-3 ( ENMIENDA ) y son las siguientes:
 
 VER DIARIO OFICIAL DE 28.10.2005, PÁGINA 11.
 
@@ -770,9 +770,13 @@ DISPOSICIONES COMPLEMENTARIAS:
 
 Sobre esta altura el sistema de agrupamiento es aislado.
 
-* Se aplicará, para todos los sistemas de agrupamiento, cuando sea el caso, el inciso tercero del Art. 8º de la presente Ordenanza.
+* ELIMINADA.
 
 * En esta zona, se aplica la restricción de altura de edificación correspondiente a áreas de aproximación de aeródromo, indicada en el Art.26° de esta Ordenanza.
+
+DISPOSICIÓN ESPECIAL:
+
+Conforme con las facultades delegadas por la Ordenanza General de Urbanismo y Construcciones, en el polígono delimitado por las calles Soto Aguilar al sur, Ramón Subercaseaux al norte, Ricardo Morales al oriente y Los Castaños al poniente, se podrán emplazar equipamientos medianos de educación superior en predios que enfrentan vías de servicio, colectoras, troncales o expresas.
 
 ZONA ZU 2-A RESIDENCIAL DE RENOVACIÓN
 
@@ -932,6 +936,54 @@ para uso de visitas, a los cuales se accederá
 
 directamente desde el espacio público.
 
+ZONA ZU-2' RESIDENCIAL DE RENOVACIÓN'
+
+Usos permitidos:
+
+1. Residencial Vivienda.
+
+2. Áreas Verdes: Parque, plazas, jardines.
+
+Usos prohibidos:
+
+. Equipamiento científico.
+
+. Equipamiento de comercio.
+
+. Equipamiento de culto y cultura.
+
+. Equipamiento de deporte.
+
+. Equipamiento de educación.
+
+. Equipamiento de esparcimiento.
+
+. Equipamiento de salud.
+
+. Equipamiento de seguridad.
+
+. Equipamiento de servicios.
+
+. Equipamiento social.
+
+. Actividades productivas.
+
+. Actividades de servicio de carácter similar al industrial.
+
+. Infraestructura.
+
+* A= Aislado.
+
+* P= Pareado.
+
+Disposiciones complementarias:
+
+. Densidad máxima: 1.800 Hab./ha.
+
+. Los antejardines no pueden utilizarse para estacionamiento de vehículos.
+
+. Las construcciones pareadas no podrán sobrepasar los 9 m de altura medidos en el deslinde con los predios vecinos y su profundidad máxima será de 15m o el equivalente al 40% del fondo del predio cuando la profundidad de éste sea inferior a 25m. Sobre esta altura el sistema de agrupamiento es aislado.
+
 ZONA ZU-3
 
 INDUSTRIAL EXCLUSIVA
@@ -1038,7 +1090,7 @@ plantas de tratamiento de aguas servidas.
 
 CUADRO DE NORMAS URBANÍSTICAS:
 
-VER DIARIO OFICIAL DE 28.10.2005, PÁGINA 13.
+VER DIARIO OFICIAL DE 28.10.2005, PÁGINA 13.NOTA 1
 
 ² * A= Aislado
 
@@ -1275,6 +1327,44 @@ de edificación correspondiente a áreas de
 aproximación de aeródromo, indicada en el Art. 26°
 
 de esta Ordenanza.
+
+Zona ZU-4': INDUSTRIAL MIXTA:
+
+Usos Permitidos
+
+1. Residencial: Vivienda, sin perjuicio de lo cual, se permite el comercio en el 1er piso. Aquellos usos definidos en el art. 2.1.25 de la OGUC y los complementos a vivienda establecidos en el art. 2.1.26 de la OGUC.
+
+2. Equipamiento: Científico, comercio, culto y cultura correspondiente a canales de televisión y radioemisoras, deporte, educación, esparcimiento, salud, seguridad, servicios, social.
+
+3. Actividades Productivas: Almacenamiento y Actividades de Servicio de Impacto similar al Industrial calificados como inofensivos, industrias calificadas como inofensivas, talleres calificados como inofensivos, talleres o servicios artesanales calificados como inofensivos, vivienda del cuidador. Los "terminales de distribución" de cualquier tipo se considerarán para estos efectos como establecimientos de almacenamiento o bodegas. Todas estas actividades se autorizarán conforme al certificado de calificación que acredite su calidad de actividades productivas "Inofensivas".
+
+4. Infraestructura: De transporte como estacionamientos, estación ferroviaria, instalaciones de telecomunicaciones y antenas de telefonía celular, rodoviarios y terminales de locomoción colectiva urbana, terminal de locomoción colectiva interurbana, terminales de taxis y radiotaxis, terminales de transporte terrestre. Sanitaria como canales de riego e Infraestructura energética como ductos de distribución de gas.
+
+5. Áreas Verdes: Parque, plazas, jardines.
+
+Usos Prohibidos
+
+Equipamiento de deporte correspondiente a coliseos, estadios, gimnasio, medialuna, piscina, sauna y baño turco.
+
+Equipamiento de esparcimiento correspondiente a hoteles y moteles.
+
+Equipamiento de salud correspondiente a casa de reposo, centro de diálisis, clínica de recuperación médica, clínica psiquiátrica, clínica veterinaria, consultorio, dispensario, hogar de ancianos, hospital.
+
+Equipamiento de seguridad correspondiente a cárceles y centros de detención.
+
+Establecimientos industriales peligrosos, insalubres o contaminantes y molestos.
+
+Infraestructura correspondiente a disposición transitoria o final de residuos sólidos, estación ferroviaria, estaciones y talleres del metro, plantas de tratamiento de aguas servidas.
+
+Disposiciones Complementarias:
+
+En cada predio de carácter industrial solo podrán consultarse viviendas para cuidadores.
+
+Se prohíbe el adosamiento para toda actividad productiva.
+
+La Dirección de Obras Municipales solicitará a la Secretaría Regional Ministerial de Salud de la Región Metropolitana la fiscalización y seguimiento de los establecimientos industriales de acuerdo a resolución 5.081 del 12.03.93 de Sesma - Minsal - Diario Oficial de 18 de marzo de 1993 y al Programa de Control de Emisiones de Fuentes Fijas en cuanto a residuos industriales sólidos y generación de contaminantes atmosféricos.
+
+En esta zona, se aplica la restricción de altura de edificación correspondiente a áreas de aproximación de aeródromo, indicada en el art. 26º de esta Ordenanza.
 
 ZONA ZU-5
 
@@ -1570,8 +1660,6 @@ son las que siguen:
 
 Canchas de Tenis Soto Aguilar
 
-Complejo Deportivo Tatio
-
 Estadio Municipal de San Miguel
 
 Gimnasio Colón América
@@ -1771,6 +1859,10 @@ Todos aquellos no incluidos como permitidos.
 Disposiciones complementarias:
 
 * Los Inmuebles de Conservación Histórica se regirán por lo dispuesto en el Artículo 20º de la presente ordenanza y se aplicarán las normas urbanísticas y disposiciones complementarias de la zona circundante cuando se autorice su intervención.
+
+> **Nota.** El numeral 1.1 del N° 1 del Decreto 3162 Exento, Municipalidad de San Miguel, publicado el 18.12.2014, modifica el cuadro de zonas de uso de suelo establecidas y sus límites, graficadas en el plano PRSM-1 en el inciso primero de la presente norma, en el sentido de intercalar, después de la fila de usos de suelo Industrial, Zona ZU-4 Industrial Mixta, la siguiente fila: ZONA ZU-4, INDUSTRIAL MIXTA.
+
+> **Nota.** NOTA 1 El numeral 1.1 del N° 1 del Decreto 3163 Exento, Municipalidad de San Miguel, publicado el 18.12.2014, modifica la presente norma, en el sentido de intercalar en la segunda y tercera columna del cuadro inserto en el presente artículo, después de la fila de usos de suelo "Residencial", "ZONA ZU-2, Residencial de Renovación", la siguiente fila: ZONA ZU-2 RESIDENCIAL DE RENOVACIÓN.
 
 #### Artículo 26°
 
