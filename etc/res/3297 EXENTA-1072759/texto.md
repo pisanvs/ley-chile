@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.297, de 5 de diciembre de 2014, de esta Subsecretaría, autorízase al CENTRO DE ESTUDIOS PESQUEROS S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia relacionados con el Proyecto FIP 2014-03 denominado "Programa plurianual de marcaje y recaptura de Bacalao de profundidad a escala nacional, etapa I, 2014".
+
+La pesca de investigación se efectuará en el área de la unidad de pesquería artesanal de Bacalao de profundidad, comprendida entre el límite norte de la XV Región y hasta el paralelo 47º L.S., entre la fecha de la presente resolución y el 31 de diciembre de 2014, ambas fechas inclusive, en la que podrán participar las embarcaciones indicadas en la resolución extractada, las que podrán capturar una cuota máxima total de 19.760 kilos del recurso Bacalao de profundidad, distribuidas en las zonas de operación, puerto de desembarque, número de embarcaciones y captura máxima por embarcación allí señalados.
+
+El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 5 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
