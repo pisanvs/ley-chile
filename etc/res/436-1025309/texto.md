@@ -54,71 +54,19 @@ Departamento Secretaría General
 
 2) Dictar Órdenes del Día, indicando al personal que integrará el turno semanal en la Región Metropolitana, para situaciones de emergencia, a proposición del Departamento respectivo.
 
-3) Adquirir, ejecutar actos y celebrar contratos en
-
-los términos previstos en la letra v) de la ley Nº
-
-16.752, hasta 400 UTM y dictar las resoluciones que
-
-aprueben dichos contratos, entendiéndose incluida
-
-en esta facultad todo el proceso de propuesta
-
-pública, privada o trato directo, según
-
-correspondiere; dictar las resoluciones que
-
-justifiquen la necesidad de recurrir a uno u otro
-
-sistema de contratación y la adjudicación de los
+3) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) de la ley Nº 16.752, hasta 400 UTM y dictar las resoluciones que aprueben dichos contratos, entendiéndose incluida en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere; dictar las resoluciones que justifiquen la necesidad de recurrir a uno u otro sistema de contratación y la adjudicación de los
 
 respectivos contratos".
 
-4) Ejecutar los actos y celebrar los contratos que se
+4) Ejecutar los actos y celebrar los contratos que se requieran para la conservación, reparación y mantención de los bienes fiscales muebles e inmuebles; aseo; jardines y otros servicios auxiliares y dictar las resoluciones que aprueben dichos contratos, hasta 500 UTM, entendiéndose incluida en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere; dictar las resoluciones que justifiquen la necesidad de recurrir a uno y otro sistema de contratación y la adjudicación de los respectivos contratos.
 
-requieran para la conservación, reparación y
+5) Celebrar contratos de obra pública, entendiéndose incluido en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere, y la adjudicación del contrato, hasta 200 UTM.
 
-mantención de los bienes fiscales muebles e
-
-inmuebles; aseo; jardines y otros servicios
-
-auxiliares y dictar las resoluciones que aprueben
-
-dichos contratos, hasta 500 UTM, entendiéndose
-
-incluida en esta facultad todo el proceso de
-
-propuesta pública, privada o trato directo, según
-
-correspondiere; dictar las resoluciones que
-
-justifiquen la necesidad de recurrir a uno y otro
-
-sistema de contratación y la adjudicación de los
-
-respectivos contratos.
-
-5) Celebrar contratos de obra pública, entendiéndose
-
-incluido en esta facultad todo el proceso de
-
-propuesta pública, privada o trato directo, según
-
-correspondiere, y la adjudicación del contrato,
-
-hasta 200 UTM.
-
-6) Responder las solicitudes de información y dictar
-
-los demás actos administrativos durante el
-
-procedimiento de acceso a la información,
-
-establecido por la ley Nº 20.285
+6) Responder las solicitudes de información y dictar los demás actos administrativos durante el procedimiento de acceso a la información, establecido por la ley Nº 20.285
 
 Subdepartamento Museo Nacional Aeronáutico y del Espacio
 
-1) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) del artículo 3 de la ley Nº 16.752 hasta 400 UTM y dictar resoluciones aprobando dichos contratos.
+1) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) del artículo 3 de la ley Nº 16.752 hasta 800 UTM y dictar resoluciones aprobando dichos contratos.
 
 2) Ejecutar los actos y celebrar los contratos que se requieran para conservación, reparación y mantención de los bienes fiscales muebles e inmuebles; aseo; jardines y otros servicios auxiliares y dictar resoluciones aprobando dichos contratos hasta 200 UTM.
 
@@ -157,6 +105,14 @@ Departamento Seguridad Operacional
 3) Requerir al titular de una licencia y/o habilitaciones aeronáuticas que acredite de nuevo algunos o todos los requisitos que dieron origen para el otorgamiento de aquellas, siempre que existan razones justificadas.
 
 4) Otorgar, renovar y suspender Permisos Especiales de Operaciones.
+
+5) Dispensar a un solicitante de licencia aeronáutica del cumplimiento de un requisito específico sicofísico, cuando a juicio del Comité Mixto Médico Operativo la aptitud global, dada por la adaptación del sistema orgánico, aparato u órgano considerado permita concluir que las alteraciones o limitaciones detectadas no afectan la seguridad de vuelo";
+
+6) Aprobar el funcionamiento de entrenadores sintéticos de vuelo para la ejecución de maniobras exigidas durante la demostración de pericia, para los efectos del otorgamiento de una licencia o habilitación;
+
+7) Conceder los privilegios de instrucción reconocida a instituciones, organismos o empresas aéreas;
+
+8) Suspender las atribuciones de licencias y habilitaciones al personal aeronáutico que no acredite los requisitos que dieron origen a su otorgamiento, cuando fuere requerido al efecto.
 
 Subdepartamento Operaciones
 
@@ -222,7 +178,7 @@ Departamento Aeródromos y Servicios Aeronáuticos
 
 12) Otorgar permisos para efectuar dentro del territorio nacional vuelos destinados a espectáculos públicos o demostrativos.
 
-13) Certificar los embalajes de mercancías peligrosas, a requerimiento de los particulares.
+13) SUPRIMIDA.
 
 14) Disponer la suspensión de vuelo de aeronaves en mora por el no pago de la Tasa Operacional Anual, prevista en el artículo 30 del decreto supremo (Av) Nº 172 de 1974, Reglamento de Tasas y Derechos Aeronáuticos.
 
@@ -233,6 +189,8 @@ Subdepartamento Servicios de Aeródromos
 1) Otorgar la certificación correspondiente a aquellas instalaciones que no constituyen obstáculo a la navegación aérea, en conformidad a lo dispuesto por el decreto supremo Nº 173 de 2004, del Ministerio de Defensa Nacional, Reglamento de Aeródromos y, además, otorgar la certificación correspondiente en el proceso de certificación de mástil de altura, establecido en el decreto supremo Nº 126 de 1997 del Ministerio de Transportes y Telecomunicaciones, Reglamento de Radiodifusión Sonora.
 
 2) Controlar, inspeccionar y fiscalizar el estado operativo de los aeropuertos y aeródromos públicos y privados, donde operan aeronaves con peso mayor a 11.400 kilogramos o 25.080 libras, y helipuertos públicos y privados cuya resistencia soporte aeronaves de peso superior a 5.700 kilogramos.
+
+3) Certificar los embalajes de mercancías peligrosas, a requerimiento de los particulares.
 
 Subdepartamento Aeropuerto Arturo Merino Benítez
 
@@ -268,7 +226,7 @@ Subdepartamentos Zonas Aeroportuarias Norte, Central, Sur y Austral
 
 8) Autorizar la apertura ocasional de aeródromos al tránsito aéreo internacional, de su jurisdicción
 
-Los Aeropuertos y Aeródromos de Chacalluta, Diego Aracena, Cerro Moreno, Desierto de Atacama, El Loa, La Florida, Mataveri, Carriel Sur, Pichoy, Cañal Bajo, Maquehue, El Tepual, Balmaceda y Carlos Ibáñez del Campo.
+Los Aeropuertos y Aeródromos de Chacalluta, Diego Aracena, Cerro Moreno, Desierto de Atacama, El Loa, La Florida, Mataveri, Carriel Sur, Pichoy, Cañal Bajo, Aeropuerto de La Araucanía de Temuco, El Tepual, Balmaceda, Carlos Ibáñez del Campo y Mocopulli de Chiloé.
 
 1) Autorizar licencias médicas al personal de su dependencia.
 
