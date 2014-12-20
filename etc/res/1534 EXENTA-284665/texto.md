@@ -26,7 +26,7 @@ Fíjase la siguiente norma técnica que establece la numeración para servicios 
 
 #### Artículo 1°
 
-Para efectos de la aplicación de la presente norma, se entenderá que un servicio de emergencia es un servicio telefónico que se presta a la comunidad, sin fines de lucro y que tiene por finalidad salvaguardar la vida y los bienes de las personas.
+Para efectos de la aplicación de la presente norma, se entenderá que un servicio de emergencia es un servicio telefónico que se presta a la comunidad, sin fines de lucro y que tiene por finalidad salvaguardar la vida y los bienes de las personas. En caso de que la institución proveedora del servicio de emergencia lo desee, podrá utilizar, además, mensajería de texto y multimedial.
 
 #### Artículo 2°
 
@@ -78,7 +78,7 @@ Derógase la Resolución Exenta N° 177, de 1988, de la Subsecretaría.
 
 #### Artículo 12°
 
-Asígnase a los servicios de emergencia la numeración establecida en el Apéndice adjunto, el cual formará parte integrante de la presente norma.
+Asígnase a los servicios de emergencia la numeración establecida en el Apéndice adjunto, el cual formará parte integrante de la presente norma. La numeración asignada permitirá a la respectiva institución utilizarla también para servicios de emergencia mediante el empleo de plataformas, propias o de terceros, de mensajería de texto y multimedial.
 
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
