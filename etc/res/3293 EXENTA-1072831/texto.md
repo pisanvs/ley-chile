@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.293, de 2 de diciembre de 2014, de esta Subsecretaría, déjase sin efecto la resolución exenta Nº 1.608 de 2007, que autorizó a PESQUERA BÍO BÍO S.A. para desarrollar actividades pesqueras extractivas en aguas internacionales con la nave "Biomar V", en virtud de la renuncia presentada por Pesquera Bío Bío S.A. y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 2 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
