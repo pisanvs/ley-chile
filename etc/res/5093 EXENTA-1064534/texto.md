@@ -18,7 +18,7 @@ Resuelvo:
 
 2. La presente resolución será aplicada respecto de los hemoderivados, a los elaborados con posterioridad al 23 de mayo de 2014.
 
-3. La presente resolución permanecerá vigente hasta el 22 de noviembre de 2014, momento en que será reevaluada sobre la base de nuevos antecedentes científicos que puedan surgir.
+### 3. La presente resolución permanecerá vigente hasta el 31 de marzo de 2015
 
 4. Derógase la resolución Nº 3.581 de 2014, que suspende la importación de cerdos vivos y hemoderivados de origen porcino, en forma transitoria, desde países infectados con virus de la diarrea epidémica porcina.
 
