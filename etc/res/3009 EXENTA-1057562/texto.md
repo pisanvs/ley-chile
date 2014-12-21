@@ -16,7 +16,15 @@ Resuelvo:
 
 Determínanse, conforme al artículo 120 C de la Ley General de Pesca y Acuicultura, citada en Vistos, como incumplimientos menores que darán lugar a disconformidades las siguientes:
 
-1. El artículo 5º inciso 5º, del DS Nº 320, de 2001, citado en Vistos, referido a la mantención del plan de contingencia en el centro de cultivo.
+1. Las disposiciones del DS N° 320, citado en Vistos, que se mencionan a continuación:
+
+a) Artículo 4 letra b), en lo relativo a la mantención de la limpieza de las playas y terrenos de playas aledaños a los centros de cultivo de todo residuo sólido generado por la acuicultura.
+
+b) Artículo 4 letra g), en lo relativo al uso de elementos de flotación que no permitan ningún tipo de desprendimiento de los materiales que los componen.
+
+c) Artículo 5° incisos primero y quinto, referidos a la mantención de un plan de contingencias en todo centro de cultivo.
+
+d) Artículo 9° numeral 1, letra a parte final, en lo referido a la prohibición de acopiar o mantener redes en sectores aledaños a los centros de cultivo.
 
 2. Las disposiciones del DS Nº 319, de 2001, citado en Vistos, que se mencionan a continuación:
 
