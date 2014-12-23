@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A SEGUROS CLC S.A.
+
+Certifico: Que por resolución exenta Nº307, de fecha 10 de diciembre de 2014, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Seguros CLC S.A., acordada en junta extraordinaria de accionistas celebrada el 27 de agosto de 2014 y reducida a escritura pública con fecha 1 de septiembre de 2014, en la Notaría de Santiago de doña Nancy de la Fuente Hernández, domiciliada en Huérfanos Nº 1117, oficina Nº 1014, modificada por escritura pública de fecha 3 de noviembre de 2014, según lo observado en oficio Nº 27.679, de 2014, otorgada en la notaría antes singularizada.
+
+La reforma consiste en un aumento del capital social, de $3.064.624.749.-, dividido en 15.717 acciones, de una misma serie, sin valor nominal y de un mismo valor, íntegramente suscrito y pagado, a $3.399.238.240.-, dividido en 17.500 acciones ordinarias, nominativas, de una sola serie, sin valor nominal, de igual valor cada una, mediante la emisión de 1.783 acciones de pago, por un monto total de $334.613.491.-, íntegramente suscrito y pagado, modificando los artículos quinto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 10 de diciembre de 2014.- Carmen Undurraga Martínez, Secretario General.
