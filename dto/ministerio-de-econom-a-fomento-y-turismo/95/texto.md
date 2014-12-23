@@ -120,7 +120,9 @@ En cada apoyo deberá individualizarse la persona natural o jurídica que lo oto
 
 En el evento de existir empate en los apoyos de uno o más postulantes, la designación se efectuará por sorteo en las dependencias de la Subsecretaría, ante Notario Público.
 
-En caso de existir cupos de representación vacantes en el Comité, por no haber existido postulantes o porque éstos no acreditaron los requisitos para ser designados, el Subsecretario declarará dicha vacancia en la misma resolución de designación. No se realizará nuevo llamado a los cargos vacantes hasta la fecha en que se deba renovar el Comité de Manejo respectivo.
+En casos de existir cupos de representación vacantes en el Comité, por no haber existido en él postulantes, porque estos no acreditaron los requisitos para ser designados o por renuncia conjunta del miembro titular y suplente, el Subsecretario declarará dicha vacancia mediante resolución, y abrirá un período extraordinario de postulación para llenar dichos cargos. El período extraordinario será fijado por resolución del Subsecretario y no podrá ser inferior a 15 días hábiles contados desde la publicación en el Diario Oficial de la resolución que inicia dicho período extraordinario.
+
+No podrán presentar nominaciones o apoyos aquellas personas que hayan obtenido un cargo, en el período ordinario de postulación, a otros cargos declarados vacantes en el mismo Comité.
 
 #### Artículo 8º
 
