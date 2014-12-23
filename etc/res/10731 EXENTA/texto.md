@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 10.731 EXENTA, DE 2014
+
+Por resolución exenta Nº 10.731, de fecha 16 de diciembre de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Instituto de Capacitación de Tránsito Conducción .cl Ltda." o "Conducción.cl", cuyos representantes legales son los señores Danilo Previsto Gutiérrez Orellana, RUT Nº 6.696.897-9, y César Antonio Gutiérrez Aguilera, RUT Nº 14.339.027-6, la que tendrá lugar de funcionamiento en las sedes ubicadas en José Perotti Nº 5510-Z, comuna de Macul (Director señor Álvaro Sebastián Espinosa Brieba, RUT Nº 8.337.687-2), y Huérfanos Nº 903, oficina 318, comuna de Santiago (Director señor Jaime Cristián Orellana Meza, RUT Nº 9.615.256-6).
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
