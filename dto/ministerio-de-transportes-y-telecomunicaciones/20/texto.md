@@ -26,9 +26,11 @@ c) Los que cursen estudios en establecimientos educacionales no subvencionados p
 
 El Ministerio de Educación es el único organismo autorizado para acreditar la calidad de estudiante regular de los niveles básico y medio a que se refiere el artículo 1° de este decreto, tanto en jornada diurna, vespertina como nocturna.
 
+Los establecimientos de educación de los niveles básico, medio y superior, públicos o privados, que registren estudiantes que hayan perdido la calidad de alumno regular, comunicarán tal circunstancia, tan pronto tomen conocimiento, a la Junta Nacional de Auxilio Escolar y Becas, con el objeto que ésta requiera a la entidad correspondiente el bloqueo o inhabilitación del respectivo documento, para los efectos de su uso en los servicios de transporte público con tarifa liberada o rebajada.
+
 #### Artículo 3°
 
-Para los efectos de este Decreto, se denomina Pase Escolar al documento que acredita la calidad de estudiante regular de enseñanza básica y media y permite el traslado de los alumnos en sus viajes realizados con motivo de estudio, en cualquiera de los medios de transporte público de pasajeros de la región, incluidos microbuses, taxibuses, trolebuses, y ferrocarriles de servicio metropolitano (Metro, Merval); tratándose de los ferrocarriles de servicio metropolitano, el pase escolar deberá llevar un sello especial, cuyas características establecerá por resolución el Ministerio de Transportes y Telecomunicaciones, así como la fecha a partir de la cual dicho sello será exigible. El Pase será exigible a los estudiantes de quinto año de enseñanza básica a cuarto año de enseñanza media.
+Para los efectos de este decreto, se denomina Pase Escolar al documento a través del cual la Administración acredita la calidad de estudiante regular de enseñanza básica y media y que permite el traslado de los alumnos en sus viajes realizados con motivo de estudio durante el año escolar; y en todo caso durante los demás meses del año, incluidos enero y febrero, en cualquiera de los medios de transporte público de pasajeros de la región, incluidos microbuses, taxibuses, trolebuses, y ferrocarriles de servicio metropolitano (Metro, Merval y los demás que correspondan). El Pase será exigible a los estudiantes que cursen desde el quinto año de enseñanza básica al cuarto año de enseñanza media.
 
 La confección y entrega del Pase Escolar será de responsabilidad del Ministerio de Educación, sin perjuicio de la que corresponde al Ministerio de Transportes y Telecomunicaciones.
 
@@ -36,9 +38,15 @@ En casos especiales, el Pase Escolar podrá ser confeccionado y entregado por en
 
 Las entidades privadas que participen en la confección y entrega del Pase deberán informar de su gestión al finalizar el primero y segundo semestre de cada año y cada vez que sea requerido por cualquiera de los Ministerios de Educación o de Transportes y Telecomunicaciones. Tendrán acceso a la misma información todos los empresarios del transporte que participen en el sistema de Pase Escolar en la región.
 
-La entrega de los Pases se hará a los estudiantes registrados en las listas que proporcionará la Junta Nacional de Auxilio Escolar y Becas.
+En todo caso, las directrices metodológicas sobre la confección y entrega del pase escolar, tales como su soporte, diseño, elementos tecnológicos, de seguridad y vigencia, serán determinadas conjuntamente por el Ministerio de Transportes y Telecomunicaciones y el Ministerio de Educación, a través de la Junta Nacional de Auxilio Escolar y Becas.
 
 INCISO SUPRIMIDO
+
+La entrega del Pase tendrá lugar respecto de los estudiantes aludidos en el artículo 1º del presente decreto que se encuentren registrados en las listas que proporcionará la Junta Nacional de Auxilio Escolar y Becas.
+
+En caso de extravío, hurto o robo del Pase, el estudiante afectado podrá solicitar su reposición, debiendo acompañar al efecto copia de la constancia o denuncia efectuada ante el organismo competente, en que conste su pérdida, hurto o robo, según corresponda.
+
+La información sobre los pases entregados y reposiciones, deberá ser entregada por la Junta Nacional de Auxilio Escolar y Becas, anualmente y en formato electrónico al Ministerio de Transportes y Telecomunicaciones, a más tardar el último día hábil del mes de mayo de cada año. Dicho traspaso de información se efectuará conforme al convenio u otro tipo de instrumento análogo o similar que las partes suscriban, y de acuerdo a las disposiciones establecidas en la ley Nº 19.628, sobre Protección de Datos Personales.
 
 #### Artículo 3º bis
 
@@ -54,11 +62,9 @@ En lo pertinente y no contradicho por este artículo, es aplicable respecto de l
 
 #### Artículo 4°
 
-El Pase Escolar podrá ser de enseñanza básica o enseñaza media e indicará la jornada en la que se imparte la enseñanza, esto es, si ella es diurna, vespertina o nocturna y la modalidad de enseñanza.
+El Pase Escolar podrá ser de enseñanza básica o enseñaza media e indicará la jornada en la que se imparte la enseñanza, esto es, si ella es diurna, vespertina o nocturna y la modalidad de enseñanza. El Pase Escolar tendrá validez de lunes a domingo las 24 horas del día.
 
-El Pase Escolar regirá de Lunes a Domingo las 24 horas del día durante todo el año escolar. Los alumnos de la educación técnico profesional que deban realizar prácticas profesionales, según certifique el establecimiento al que pertenecen, podrán también hacer uso del beneficio durante los meses de verano, debiendo portar el certificado correspondiente.
-
-Los pases que expiren en determinado año escolar podrán ser utilizados hasta el 31 de mayo del año siguiente a su expedición.
+Los pases que expiren en determinado año, podrán ser utilizados hasta el 31 de mayo del año siguiente a su expedición.
 
 #### Artículo 5°
 
@@ -72,17 +78,17 @@ El Pase es un documento público, personal e intransferible; su facilitación in
 
 #### Artículo 7°
 
-Para los efectos de este decreto se denomina Pase de Educación Superior al documento que acredita la calidad de alumno regular de educación superior Pública y Privada y permite el traslado para viajes con motivo de estudio, en cualquiera de los medios descritos en el artículo 3º de este decreto.
+Para los efectos de este decreto se denomina Pase de Educación Superior al documento a través del cual la Administración acredita la calidad de alumno regular de educación superior Pública y Privada y que permite el traslado para viajes con motivo de estudio, durante el año escolar; y en todo caso durante los demás meses del año, incluidos enero y febrero, en cualquiera de los medios descritos en el artículo 3º de este decreto.
 
-El Ministerio de Educación, a través de las Secretarías Regionales Ministeriales, fijará los cupos anuales de estudiantes de Educación Superior que tendrán derecho a rebaja tarifaria,.
+El Ministerio de Educación, a través de las Secretarías Regionales Ministeriales, fijará los cupos anuales de estudiantes de Educación Superior que tendrán derecho a rebaja tarifaria,. El Pase de Educación Superior tendrá validez de lunes a domingo las 24 horas del día.
 
-El Pase de Educación Superior regirá de Lunes a Domingo las 24 horas del día durante todo el año escolar. En el caso de los alumnos que deban realizar prácticas profesionales o cursar actividades curriculares, según certifique la institución a la que pertenecen, podrán también hacer uso del beneficio durante los meses de verano, debiendo portar el certificado correspondiente.".
+INCISO DEROGADO
 
 Los alumnos de educación superior que deseen obtener el pase deberán postular al beneficio ante su propia institución.
 
 La selección interna de los alumnos beneficiarios corresponderá a cada establecimiento de Educación Superior, debiendo favorecer a aquellos en situación de desmedro socio-económico, de acuerdo a las instrucciones que imparta el Ministerio de Educación, con la participación del Ministerio de Transportes y Telecomunicaciones en lo que se refiere al uso de la red de transporte público.
 
-La confección y entrega del Pase de Educación Superior se realizará de conformidad a lo prescrito en el inciso 2º, 3º y 4º del artículo 3.
+La confección, entrega, uso y reposición del Pase de Educación Superior se realizará de conformidad a lo prescrito en el artículo 3º del presente decreto, y en los respectivos actos administrativos que regulen tales procedimientos.
 
 La entrega de estos Pases se hará a los estudiantes registrados en las listas que proporcionarán los respectivos establecimientos de Educación Superior Públicos y Privados, en conformidad a los cupos definidos en el inciso segundo de este mismo artículo y a los procedimientos que, en caso necesario establezca el Ministerio de Educación.
 
@@ -97,6 +103,16 @@ Deróganse las disposiciones vigentes relativas a otorgamiento y uso de Pase Esc
 #### Artículo 9°
 
 La Coordinación y Supervisión Nacional del Sistema de Pases estarán radicadas en el Ministerio de Educación.
+
+#### Artículo 10º
+
+El titular del Pase Escolar o del Pase de Educación Superior deberá exhibir dicho documento público para acceder a los medios de transporte a que se refiere el artículo 3º de este decreto. Las personas que no sean titulares del pase respectivo, no podrán acceder al transporte público con liberación o rebaja tarifaria.
+
+Carabineros de Chile y los Inspectores Fiscales y Municipales, supervigilarán el correcto uso del Pase Escolar y del Pase de Educación Superior. En caso de que constaten incumplimientos sobre el particular, requerirán el pase respectivo, efectuarán la denuncia correspondiente adjuntando a la misma aquel documento, y entregarán al infractor constancia de ella, con la individualización de quien efectúa el control y el organismo a quien se remitirá la denuncia.
+
+Carabineros de Chile y los Inspectores Fiscales y Municipales, deberán informar a la entidad competente acerca de la denuncia efectuada, y de sus circunstancias, la que adoptará las medidas que sean del caso, incluida la inutilización del pase respectivo para su uso en los servicios de transporte público remunerado de pasajeros, cuando corresponda.
+
+La entidad competente podrá requerir a las empresas de ferrocarriles de servicio metropolitano información acerca del uso del pase respectivo, para los fines señalados precedentemente.
 
 #### Artículo transitorio
 
