@@ -96,7 +96,7 @@ Acceso a Michaihue.
 
 . Puente Llacolén, desde Arturo Prat hasta Pedro Aguirre Cerda.
 
-. Puente Chacabuco, Pedro Aguirre Cerda, Ruta San Pedro - Coronel, By Pass Coronel, Acceso a Puerto de Coronel, By Pass Lota Ruta Patagual Sur y Ruta Lota- Arauco, desde Arturo Prat con Chacabuco hasta el límite urbano Metropolitano Sur de Concepción.
+. El tramo urbano de la Ruta 150, Concepción - Tomé, desde la Ruta 156 en Concepción hasta la Ruta O-300 en Tomé a través de las siguientes vías: Ruta Penco - Concepción, By Pass Penco, Ruta Tomé - Penco, Ruta 150, el par vial constituido por Variante Caracoles, Ruta 150 y Nueva Almirante Latorre, y su conexión con la Ruta O-300 a través de: Latorre, Caracol y Aguas Buenas.
 
 . El tramo urbano de la Ruta 156, Ruta de la Madera, Concepción - Santa Juana - Coihue, desde el Puente Chacabuco hasta el límite urbano Metropolitano Sur de Concepción; a través de: Ernesto Pinto Lagarrigue, Ruta Santa Juana - Patagual, Lautaro, ex By Pass e Irarrázaval.
 
@@ -150,7 +150,7 @@ Antuco:
 
 6º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
-> **Nota.** El DTO 678, Obras Públicas, publicado el 06.09.2004, modifica la presente norma, en el sentido de eliminar como camino público en la VIII Región del Bío-Bío al tramo Urbano de la Ruta 160, Concepción-Tres Pinos-Lebu, comprendido entre el Puente Bío Bío Antiguo y el Acceso a Michaihue, en el área urbana de San Pedro de la Paz. Por otra parte, se agrega y declara como como caminos públicos, las siguientes calles o avenidas: . El tramo urbano de la Ruta O-274, en el área urbana de Tomé, conocido como Acceso a la Caleta Cocholgüe; desde intersección Enrique Molina hasta Caleta Cocholgüe. . El tramo urbano de la Ruta O-480, en el área urbana de Talcahuano, conocido como Acceso a la Caleta Tumbes; desde intersección Fuerte Borgoño hasta Caleta Tumbes.
+> **Nota.** El DTO 678, Obras Públicas, publicado el 06.09.2004, modifica la presente norma, en el sentido de eliminar como camino público en la VIII Región del Bío-Bío al tramo Urbano de la Ruta 160, Concepción-Tres Pinos-Lebu, comprendido entre el Puente Bío Bío Antiguo y el Acceso a Michaihue, en el área urbana de San Pedro de la Paz. Por otra parte, se agrega y declara como como caminos públicos, las siguientes calles o avenidas:. El tramo urbano de la Ruta O-274, en el área urbana de Tomé, conocido como Acceso a la Caleta Cocholgüe; desde intersección Enrique Molina hasta Caleta Cocholgüe.. El tramo urbano de la Ruta O-480, en el área urbana de Talcahuano, conocido como Acceso a la Caleta Tumbes; desde intersección Fuerte Borgoño hasta Caleta Tumbes.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Obras Públicas y Transportes y Telecomunicaciones.
 
