@@ -18,23 +18,7 @@ DEROGADA.
 
 Fiscalía Regional de la Región de Arica y Parinacota
 
-Vehículo : Automóvil
-
-Marca : Toyota
-
-Modelo : Camry
-
-Color : gris metálico
-
-Año : 2008
-
-Nº Motor : 2GR0325047
-
-Nº Chasis : JTNBK40K873024899
-
-I.R.N.V.M. : BBVZ.79-8
-
-Placa Única : BBVZ.79-8
+DEROGADA.
 
 Fiscalía Regional de la Región Metropolitana Sur
 
