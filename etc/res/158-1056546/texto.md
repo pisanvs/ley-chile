@@ -46,7 +46,7 @@ los procesos de licitación, que hayan suscrito el contrato
 
 respectivo con la Defensoría.
 
-A ellos corresponde la calidad de defensores penales públicos y les compete efectuar la defensa de los derechos de las personas imputadas de la comisión de hechos ilícitos, asegurando que la persecución y enjuiciamiento criminal se realicen bajo los principios del debido proceso y la presunción de inocencia.
+A ellos corresponde la calidad de defensores penales públicos y les compete efectuar la defensa de los derechos de las personas imputadas de la comisión de hechos ilícitos, asegurando que la persecución y enjuiciamiento criminal se realicen bajo los principios del debido proceso y la presunción de inocencia, como asimismo, velando por que el cumplimiento de las eventuales condenas se verifique bajo estricto respeto a las condiciones impuestas por ésta y la legalidad que debe guiar su efectiva ejecución
 
 1.2. DE LA DEFENSORIA PENAL PÚBLICA
 
@@ -54,7 +54,7 @@ La Defensoría Penal Pública es un servicio público descentralizado funcionalm
 
 1.3. DE LA NATURALEZA Y ALCANCE DE LAS PRESENTES BASES
 
-El presente marco administrativo, constituye las Bases Administrativas y Técnicas para las licitaciones establecidas en la Ley N° 19.718, las que han sido aprobadas por el Consejo de Licitaciones de la Defensa Penal Pública, las que deben ser complementadas para cada licitación de acuerdo al formato y la información señalada en el Anexo N°1 de las presentes.
+El presente marco administrativo, constituye las Bases Administrativas y Técnicas para las licitaciones establecidas en la ley Nº 19.718, las que han sido aprobadas por el Consejo de Licitaciones de la Defensa Penal Pública, las que deben ser complementadas para cada licitación de acuerdo al formato y la información señalada en el Anexo Nº 1 de las presentes bases.
 
 Las Defensorías Regionales efectuarán sus llamados conforme a estas Bases.
 
@@ -188,9 +188,13 @@ señalado en la letra anterior y la exigencia de mínimos o máximos en
 
 los abogados a proponer;
 
-e) Indicación de si en la localidad que se licita el servicio, éste se
+e) Indicación de si en la localidad que se licita el servicio, éste
 
-extenderá desde la primera audiencia judicial;
+se extenderá desde primera audiencia judicial, o, en su caso,
+
+indicación de la etapa procesal que se licita en la localidad
+
+correspondiente;
 
 f) El monto de recursos disponibles para la adjudicación y posterior
 
@@ -262,9 +266,13 @@ La licitación de defensa penal pública se sujetará al siguiente calendario ti
 
 .
 
+(*) Fecha estimativa de conformidad con lo previsto por la resolución Nº 1.600 de 2008, de la Contraloría General de la República.
+
+(**) Fecha estimativa, según lo dispuesto en el punto 6.13 de las presentes bases.
+
 3.3. DE LA REUNIÓN INFORMATIVA Y TÉCNICA
 
-A fin de entregar información sobre el proceso licitatorio, la preparación de ofertas y la ejecución del contrato, de modo de asistir a una mejor formulación de las mismas, el Anexo 1 señalará la fecha y hora de una reunión informativa y técnica a realizarse en el marco del proceso.
+A fin de entregar información sobre el proceso licitatorio, la preparación de ofertas y la ejecución del contrato, de modo de asistir a una mejor formulación de las mismas, el Anexo 1 señalará la fecha y el lugar de una reunión informativa y técnica a realizarse en el marco del proceso.
 
 3.4. DE LAS CONSULTAS, RESPUESTAS Y ACLARACIONES
 
@@ -284,7 +292,7 @@ Los plazos de días establecidos en las presentes bases son de carácter hábil.
 
 3.6.DE LA RECEPCIÓN Y APERTURAS DE LAS OFERTAS
 
-Las ofertas deberán presentarse en formato electrónico a través del portal de Internet de ChileCompra, www.mercadopublico.cl, no estarán sujetas a condición alguna y serán de carácter irrevocable. Excepcionalmente, la Garantía de Seriedad de la Oferta a que se refiere el punto 4.3. de estas bases podrá entregarse materialmente en soporte papel, dentro del plazo para el cierre de recepción de ofertas, de acuerdo al calendario señalado en el punto 3.2. de estas bases, en la Oficina de Partes de la Defensoría Regional respectiva, hasta la hora del cierre de recepción de ofertas señalada en el calendario.
+Las ofertas deberán presentarse en formato electrónico a través del portal de internet de ChileCompra, www.mercadopublico.cl, no estarán sujetas a condición alguna y serán de carácter irrevocable. Excepcionalmente, la Garantía de Seriedad de la Oferta a que se refiere el punto 4.3. de estas bases podrá entregarse materialmente en soporte papel, dentro del plazo la recepción de ofertas, de acuerdo al calendario señalado en el punto 3.2. de estas bases, en la Oficina de Partes de la Defensoría Regional respectiva.
 
 La Defensoría podrá aumentar el plazo para el cierre de la recepción de las ofertas cuando el número de oferentes recibidos fuere inferior a tres. Dicha extensión se hará mediante resolución del Defensor Nacional publicada en el portal de internet de ChileCompra al menos 24 horas antes del cierre inicial programado. La prolongación de cierre será de 5 días y significará un aumento equivalente para los plazos de apertura de la oferta técnica y económica.
 
@@ -368,7 +376,7 @@ La garantía de seriedad de la oferta entregada por el oferente cuya oferta haya
 
 A los participantes no adjudicados, se les devolverá la garantía una vez suscrito el respectivo contrato con el adjudicatario, pudiendo ser retirada por quienes no les haya sido adjudicada la licitación, dentro de los 10 días posteriores a la fecha de la total tramitación de la resolución que apruebe el contrato con el adjudicatario, en la misma dirección en que fue ingresada. Respecto de los oferentes que hubieren sido eliminados en la etapa de evaluación general y rechazo inmediato de las ofertas a que se refiere el punto 5.4. de estas bases, la boleta podrá ser retirada dentro de los 10 días posteriores a la fecha de la notificación del Acta del Comité que los excluye de la licitación.
 
-En caso que la licitación sea declarada desierta, las garantías de seriedad que se hubieran entregado se devolverán una vez que se encuentre totalmente tramitada la respectiva resolución que declara la deserción.
+En caso que la licitación sea declarada desierta, las garantías de seriedad que se hubieran entregado se devolverán una vez que se encuentre totalmente tramitada la respectiva resolución que declara desierta la licitación.
 
 Será obligación de los proponentes el retiro dentro del plazo establecido. La Defensoría Penal Pública no se responsabilizará por la tenencia de los documentos con posterioridad a dicho plazo.
 
@@ -420,7 +428,7 @@ c4) Todos los antecedentes señalados en el punto 4.4.A precedente respecto de c
 
 c5) Cartas compromiso de cada uno de los abogados presentados en el equipo propuesto, en que estos señalan comprometerse a prestar los servicios de defensa penal pública en las condiciones de estas bases, y la regulación jurídica respectiva, así como comprometen su dedicación y tiempo a la prestación de defensa penal pública, en los términos de la propuesta, según formato contenido en el Anexo 11
 
-c6) Certificados emanados de la Dirección del Trabajo competente, que acredite la existencia o no de deudas previsionales o de remuneraciones pendientes.
+c6) Certificados Oficiales emanados de la Dirección del Trabajo competente, que acredite la existencia o no de deudas previsionales o de remuneraciones pendientes
 
 c7) Declaración jurada según Anexo 8 de estas bases.
 
@@ -470,19 +478,13 @@ Si dentro de ese plazo no se puede efectuar la adjudicación, la Defensoría se 
 
 5.1. DE LA PRESENTACIÓN DE LAS OFERTAS
 
-Las ofertas deberán presentarse electrónicamente en el Sistema de Información de ChileCompra, a través del portal www.mercadopublico.cl, en forma separada la oferta técnica de la oferta económica:
+Las ofertas deberán presentarse electrónicamente en el Sistema de Información de ChileCompra, a través del portal www.mercadopublico.cl, de acuerdo con los componentes siguientes:
 
-a) La Oferta Técnica se denominará "Antecedentes Generales y Oferta
+a) Antecedentes Administrativos, según lo indicado en el punto 4.4.
 
-Técnica. Licitación Servicio de Defensa Penal Pública", según el
+b) Propuesta Técnica Licitación Servicio de Defensa Penal Pública, según el contenido señalado en el punto 4.5 precedente.
 
-contenido señalado en el punto 4 precedente.
-
-b) La Oferta Económica se denominará "Oferta Económica. Licitación
-
-Servicio de Defensa Penal Pública", y deberá presentarse al tenor de
-
-lo señalado en el punto 4.6 de estas bases.
+c) La Oferta Económica de Licitación Servicio de Defensa Penal Pública, al tenor de lo señalado en el punto 4.6 de estas bases.
 
 5.2. DE LA APERTURA DE LAS OFERTAS TÉCNICAS
 
@@ -620,41 +622,9 @@ factor Apoyo Administrativo:
 
 Efectuada esta evaluación, sólo se continuará evaluando aquellas propuestas que cumplen con el nivel satisfactorio exigido para cada uno de los subfactores antes detallados. Las ofertas que no satisfagan dichos niveles quedarán fuera del proceso, de lo que se dejará constancia en el acta respectiva.
 
-b. En segundo lugar, se analizará si el abogado que participa como
+b. En segundo lugar, se analizará si el abogado que participa como persona natural, o todos los abogados integrantes de la propuesta presentada por una persona jurídica, cumplen con los requerimientos establecidos en el factor "Número y Dedicación de abogados disponibles", de acuerdo a las bases técnicas. Efectuada esta evaluación, sólo se continuará evaluando aquellas propuestas que cumplen con el nivel satisfactorio exigido para este factor. Las ofertas que no satisfagan dichos niveles quedarán fuera del proceso, de lo que se dejará constancia en el acta respectiva.
 
-persona natural, o todos los abogados integrantes de la propuesta
-
-presentada por una persona jurídica, cumplen con los requerimientos
-
-establecidos en el factor "Número y Dedicación de abogados
-
-disponibles", de acuerdo a las bases técnicas. Efectuada esta
-
-evaluación, sólo se continuará evaluando aquellas propuestas que
-
-cumplen con el nivel satisfactorio exigido para cada este factor.
-
-Las ofertas que no satisfagan dichos niveles quedarán fuera del
-
-proceso, de lo que se dejará constancia en el acta respectiva.
-
-c. En tercer término, se analizará si el abogado que participa como
-
-persona natural, o a lo menos uno de los abogados integrantes de la
-
-propuesta presentada por una persona jurídica, cumple con el
-
-requerimiento establecido en el factor "Permanencia y habitualidad
-
-en el ejercicio de la profesión en la región respectiva". Efectuada
-
-esta evaluación, sólo se continuará evaluando aquellas propuestas
-
-que cumplen con el nivel satisfactorio exigido para cada este
-
-factor. Las ofertas que no satisfagan dichos niveles quedarán fuera
-
-del proceso, de lo que se dejará constancia en el acta respectiva.
+c. En tercer término, se analizará si el abogado que participa como persona natural, o a lo menos uno de los abogados integrantes de la propuesta presentada por una persona jurídica, cumple con el requerimiento establecido en el factor "Permanencia y habitualidad en el ejercicio de la profesión en la región respectiva". Efectuada esta evaluación, sólo se continuará evaluando aquellas propuestas que cumplen con el nivel satisfactorio exigido para este factor. Las ofertas que no satisfagan dichos niveles quedarán fuera del proceso, de lo que se dejará constancia en el acta respectiva.
 
 d. En cuarto término y respecto de aquellas ofertas que pasaron la
 
@@ -701,6 +671,8 @@ y Calificación de los profesionales que postulan", de conformidad
 con sus pesos relativos de cada factor. Este valor resultará en el
 
 puntaje final de la oferta técnica.
+
+El puntaje mínimo para superar la evaluación técnica será de 35 puntos, considerando el puntaje obtenido a partir de los pasos señalados aplicada la ponderación de 70% que corresponde a ésta.
 
 6.3. DE LA EVALUACIÓN DE LA OFERTA ECONÓMICA
 
@@ -760,7 +732,7 @@ Aquel contratado al que se le hubiere puesto término al contrato por causales d
 
 Tratándose de aquellos que lo hubieren prestado, el descuento procederá respecto de cualquier llamado que se efectúe dentro de los tres años posteriores al término ejecutoriado del contrato.
 
-Para efectos del descuento sólo se considerará la ejecución del contrato inmediatamente anterior a la nueva licitación que se convoca y en la región de que se trata, y el descuento sólo será procedente respecto de la sanción que figure en el Registro a que se refiere el 8.11 de estas bases.
+Para efectos del descuento se considerará la ejecución de cualquier contrato anterior a la nueva licitación que se convoca en cualquier localidad del país, y sólo será procedente respecto de la o las sanciones que figuren en el Registro a que se refiere el 8.11 de estas bases por el lapso de tres años.
 
 6.6. DE LA ADICIÓN DE PUNTAJES
 
@@ -770,7 +742,7 @@ Si de los pagos variables trimestrales que corresponden a la prestadora, según 
 
 Si de los pagos variables trimestrales que corresponden a la prestadora, según el punto 7.9. b) de estas bases, a ésta le hubiere correspondido percibirlos al menos en el 50% de los trimestres en que fueron repartidos con un 100% de cumplimiento, corresponderá agregar 2 puntos.
 
-La adición indicada, no será acumulativa, considerando sólo la ejecución del contrato originado en la licitación inmediatamente anterior a la nueva licitación que se convoca y en la región y zona de que se trata, que haya estado vigente por al menos dos años en los últimos tres años.
+La adición indicada considerará la ejecución de cualquier contrato anterior a la nueva licitación que se convoca en cualquier localidad del país, y no será acumulativa, por lo que podrá ser alegada solo una vez por cada contrato, y siempre que haya estado vigente dentro de los últimos tres años.
 
 6.7. DEL RECHAZO DE PROPUESTAS
 
@@ -892,7 +864,7 @@ La Defensoría Regional respectiva tendrá amplias facultades para determinar en
 
 Bajo ninguna circunstancia podrá darse inicio a la ejecución del contrato si no se encuentran en operación todas las condiciones de carácter material y humanas incluidas en la oferta.
 
-En todo caso, transcurridos 30 días desde la firma de contrato, sin que se haya dado inicio a la ejecución del mismo, por causales imputables a la prestadora, habilitará la solicitud de término de contrato, conforme lo establece el punto 8.8 letra B.1.5 de las presentes Bases Administrativas.
+En todo caso, el transcurso de 30 días desde la firma de contrato, sin que se haya dado inicio a la ejecución del mismo por causales imputables a la prestadora, habilitará la solicitud de término de contrato, conforme lo establece el punto 8.8 letra B.1.5 de las presentes Bases Administrativas.
 
 7.3. DE LAS INHABILIDADES E INCOMPATIBILIDADES
 
@@ -998,7 +970,7 @@ Si por cualquier causa imputable al adjudicatario, no se suscribe el contrato de
 
 En estos casos la Defensoría Regional respectiva deberá informar al Comité de Adjudicación Regional correspondiente, dentro del plazo de 10 días, para que de acuerdo al mérito del procedimiento y al listado de ofertas a que se refiere el número 6.8., proceda a seleccionar la o las propuestas que reemplazarán aquella cuya adjudicación fue dejada sin efecto. Se procederá a la nueva adjudicación en conformidad a las normas generales establecidas en estas bases, debiendo dejarse constancia de todo lo obrado en el acto de adjudicación respectivo.
 
-De no ser posible la adjudicación, deberá declararse la deserción sobre el porcentaje asignado al contrato que no fue posible suscribir.
+De no ser posible la adjudicación, deberá declararse desierta la licitación sobre el porcentaje asignado al contrato que no fue posible suscribir.
 
 7.8. DE LA DEVOLUCION DE LA GARANTIA DE SERIEDAD DE LA OFERTA
 
@@ -1330,9 +1302,9 @@ Si durante la ejecución del contrato, la prestadora necesita introducir cambios
 
 8.4.C) DE LA OBLIGACIÓN DE CUMPLIMIENTO DE NORMATIVAS LABORALES Y PREVISIONALES
 
-Los contratantes deberán dar cumplimiento a la normativa laboral y previsional, respecto del personal propuesto para la licitación, cuando procediere, incluyendo la suscripción de los respectivos contratos con los abogados de la propuesta cuando éstos no fueren socios administradores de la persona jurídica adjudicada. En cada liquidación de pago, la Defensoría Regional respectiva exigirá al contratante la acreditación de haber dado oportuno y cabal cumplimiento a sus obligaciones previsionales y laborales, conforme a la modalidad y procedimientos exigidos en el Reglamento del artículo 183 C del Código del Trabajo.
+Los contratantes deberán dar cumplimiento a la normativa laboral y previsional, respecto del personal propuesto para la licitación, cuando procediere, incluyendo la suscripción de los respectivos contratos con los abogados de la propuesta cuando éstos no fueren socios administradores de la persona jurídica adjudicada. Dentro de estas obligaciones se encontrará la de cumplimiento de las condiciones de remuneración y empleo ofertadas por la prestadora, las cuales se verificarán de acuerdo con las instrucciones del Defensor Nacional.
 
-Dentro de estas obligaciones se encontrará la de cumplimiento de las condiciones de remuneración y empleo ofertadas, a que se refiere el punto 6.1.A. de estas bases.
+La Defensoría Regional respectiva exigirá al contratante la acreditación de haber dado oportuno y cabal cumplimiento a sus obligaciones previsionales y laborales, conforme a la modalidad y procedimientos exigidos en el Reglamento del artículo 183 C del Código del Trabajo.
 
 OTRAS OBLIGACIONES DEL CONTRATO
 
@@ -1748,13 +1720,15 @@ días distintos, se procederá a la notificación por carta
 
 certificada;
 
-d) La formalización del acuerdo de término anticipado de un contrato,
+d) La formalización del acuerdo de término anticipado de un
 
-acarrea necesariamente el que se hagan efectivas las garantías de
+contrato, acarrea necesariamente el que se hagan efectivas
 
-adecuada prestación de los servicios licitados y de fiel
+las garantías de adecuada prestación de los servicios licitados
 
-cumplimiento del contrato;
+y de fiel cumplimiento del contrato, contenidas en el numeral 10
+
+de las presentes bases
 
 e) Sin perjuicio de lo señalado en la letra a) precedente, se exigirá
 
@@ -2096,7 +2070,7 @@ El Anexo deberá indicar también el número máximo de causas año por cada abo
 
 1.2.3. Cobertura
 
-Cuando por necesidades de cobertura de defensa, en todas las localidades en que incida el llamado, los servicios que se contraten a través de la licitación y la prestación de defensa asociada se extiendan desde la primera audiencia judicial, el Anexo 1 lo señalará claramente.
+Por necesidades de cobertura de defensa, en todas las localidades en que incida el llamado, los servicios que se contraten a través de la licitación y la prestación de defensa asociada se extenderán a la prestación completa o a una etapa procesal específica, la que se señalará claramente en el Anexo 1.
 
 1.2.4. Fondos disponibles
 
@@ -2229,6 +2203,8 @@ Los puntajes que entrega este subfactor se indican a continuación, conjuntament
 .
 
 Si el abogado que forma parte de la propuesta no cumpliere con el nivel mínimo señalado en el cuadro precedente, se entenderá que su puntaje es cero, para el tipo de audiencia respectivo.
+
+Se homologarán para estos efectos, las gestiones consistentes en audiencias preparadas por egresados de derecho en el marco de la práctica profesional desarrollada en la Defensoría Penal Pública, otorgándoseles el puntaje respectivo según sea el número de audiencias consignadas en su informe de práctica, siempre que ésta haya sido aprobada con calificación "sobresaliente" o "muy buena" por la Corporación de Asistencia Judicial
 
 3.3.2. Subfactor calificación de los profesionales que postulan
 
@@ -2502,9 +2478,11 @@ b) Obligación de preparación y capacitación permanente
 
 Los contratantes deberán asistir a las jornadas de preparación que la Defensoría Penal Pública imparta y que se consideren necesarias para el adecuado desarrollo de su cometido. Esta obligación deberá cumplirse conforme lo establecen los puntos 8.4.E y 4, de las Bases Administrativas y Técnicas, respectivamente.
 
-c) Obligación de comparecencia y cumplimiento de instrucciones de delegación
+c) Obligación de cumplimiento de normativas laborales y previsionales
 
-Es una obligación del contrato, la comparecencia personal del abogado contratante o integrante de la propuesta de una persona jurídica contratante, a las audiencias y demás diligencias y actuaciones que así lo requieran y en las que haya sido designado o delegado para la defensa en las respectivas causas. Lo anterior deberá ceñirse a lo dispuesto en el punto 8.4.F de las Bases.
+Los contratantes deberán dar cumplimiento a la normativa laboral y previsional, respecto del personal propuesto para la licitación, cuando procediere, incluyendo la suscripción de los respectivos contratos con los abogados de la propuesta cuando éstos no fueren socios administradores de la persona jurídica adjudicada. Dentro de estas obligaciones se encontrará la de cumplimiento de las condiciones de remuneración y empleo ofertadas por la prestadora, las cuales se verificarán de acuerdo con las instrucciones del Defensor Nacional.
+
+La Defensoría Regional respectiva exigirá al contratante la acreditación de haber dado oportuno y cabal cumplimiento a sus obligaciones previsionales y laborales, conforme a la modalidad y procedimientos exigidos en el Reglamento del artículo 183 C del Código del Trabajo.
 
 d) Obligación de cumplir instructivos
 
@@ -3061,5 +3039,31 @@ Firma del abogado integrante de una propuesta"
 3. ESTABLÉCESE que los contratos de prestación del servicio de defensa penal que hayan sido adjudicados al amparo de lo dispuesto por la Resolución Afecta N°135, de fecha 27 de mayo de 2010, que aprobó anterior texto de bases administrativas y técnicas generales y anexos para la licitación pública del servicio de defensa penal, seguirán rigiéndose por sus disposiciones hasta su total término y finiquito; y
 
 4. PUBLÍQUESE la presente Resolución, una vez totalmente tramitada, en la página web institucional para así dar cumplimiento a la normativa de transparencia activa contenida en la Ley N° 20.285, sobre Acceso a la Información Pública.
+
+> **Nota.** El numeral 3 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de reemplazar en el punto 1 del Anexo 1 el cuadro denominado "Cobertura desde la primera audiencia de la forma que la propia norma indica.
+
+> **Nota.** NOTA 1 El numeral 4 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de sustituir el cuadro referente al Subfactor "Apoyo Administrativo Secretaria y Recepcionista", de la forma que la propia norma indica.
+
+> **Nota.** NOTA 2 El numeral 6 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de agregar en el punto 3 especificaciones relativas a "Apoyo personal administrativo" lo que la propia norma indica.
+
+> **Nota.** NOTA 3 El numeral 7 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de sustituir en el punto 5 los indicadores de control, por lo que la propia norma indica.
+
+> **Nota.** NOTA 4 El numeral 8 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de sustituir en el punto 6, indicadores de pago variable, por lo que la propia norma indica.
+
+> **Nota.** NOTA 5 El numeral 9 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de sustituir el punto IV.1, por lo que la propia norma indica.
+
+> **Nota.** NOTA 6 El numeral 10 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de sustituir el punto IV.2, por lo que la propia norma indica.
+
+> **Nota.** NOTA 7 El numeral 11 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de agregar el punto V.1, a continuación del indicador signado con el número 8 los indicadores que la propia norma indica.
+
+> **Nota.** NOTA 8 El numeral 12 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de agregar el punto V.2, a continuación del indicador signado con el número 8 los indicadores que la propia norma indica.
+
+> **Nota.** NOTA 9 El numeral 13 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de agregar el punto V.1, a continuación del indicador signado con el número 6 los indicadores que la propia norma indica.
+
+> **Nota.** NOTA 10 El numeral 14 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de agregar el punto V.2, a continuación del indicador signado con el número 6 los indicadores que la propia norma indica.
+
+> **Nota.** NOTA 11 El numeral 21 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de intercalar en el punto 1, Del Llamado a Licitación, a continuación del Calendario el cuadro que la propia norma indica.
+
+> **Nota.** NOTA 12 El numeral 35 del artículo N° 2, Justicia, publicado el 26.12.2014, modifica la presente norma en el sentido de reemplazar el punto III.32, el cuadro allí contenido por el que la propia norma indica.
 
 Anótese, tómese razón y publíquese.- Georgy Schubert Studer, Defensor Nacional.
