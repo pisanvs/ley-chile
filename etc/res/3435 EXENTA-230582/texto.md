@@ -616,7 +616,7 @@ stricto"
 
 . Longidorus elongatus
 
-3. Las plantas, estacas y ramillas deben haber sido sometidas a un tratamiento de desinfestación contra insectos y ácaros, con productos registrados en el país de origen. Además, deben haber sido sometidas a un tratamiento con fungicidas benzimidazoles u otros debidamente calificados para el control de Monilinia fructicola. En ambos casos se debe señalar en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, los productos, tipo de aplicación y dosis utilizadas.
+3. Las plantas, estacas y ramillas deben haber sido sometidas a un tratamiento de desinfestación contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizada.
 
 4. Para la certificación de las declaraciones adicionales de las plagas señaladas a continuación, se requiere utilizar las siguientes técnicas analíticas:
 
