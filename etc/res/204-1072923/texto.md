@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 204, DE 2014, DICTADA EN CONJUNTO POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES Y EL MINISTERIO DE HACIENDA
+
+Por resolución Nº 204, de 5 de septiembre de 2014, tomada de razón con alcance por la Contraloría General de la República con fecha 1º de diciembre de 2014, se aprobó el Addendum al Contrato Ad Referéndum de Concesión de Uso de Vías para la Prestación de Servicios de Transporte Público Urbano Remunerado de Pasajeros Mediante Buses, suscrito con fecha 30 de mayo de 2014 entre la empresa Buses Metropolitana S.A., concesionaria de la Unidad de Negocio Nº 5, y el Ministerio de Transportes y Telecomunicaciones. Texto íntegro de la resolución Nº 204, de 2014, y de su alcance, se encuentra en la página web www.dtpm.cl.
+
+Cristian Bowen Garfias, Ministro de Transportes y Telecomunicaciones (S).
