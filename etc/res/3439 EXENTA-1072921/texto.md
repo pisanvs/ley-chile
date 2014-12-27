@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.439, de 18 de diciembre de 2014, de esta Subsecretaría, recházase solicitud de PRODUCTOS DEL MAR VENTISQUEROS S.A., para modificar concesión de acuicultura transferida por resolución Nº 901, de 2008, de Subsecretaría para las Fuerzas Armadas, en virtud del artículo 142 letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
