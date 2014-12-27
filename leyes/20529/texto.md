@@ -966,7 +966,11 @@ d) Cuando exista atraso reiterado en el pago de las remuneraciones o de las coti
 
 e) Cuando, por causa imputable al sostenedor, se suspendan reiteradamente los servicios básicos para el buen funcionamiento del local escolar. Se entenderá por suspensión reiterada la no disponibilidad del servicio básico en un período de tres días hábiles consecutivos o cinco días hábiles en un período de seis meses.
 
-Tratándose de las causales señaladas en las letras b), c), d) y e) precedentes, el Director Regional citará al sostenedor y propondrá al Superintendente el nombramiento del administrador provisional, si procediere. Dicho nombramiento se notificará por carta certificada al sostenedor para que éste, dentro del plazo de cinco días hábiles contados desde dicha notificación, pueda reclamar administrativamente ante el Superintendente de esa designación.
+f) Cuando, tratándose de los establecimientos municipales, se solicite por parte del sostenedor la renuncia al reconocimiento oficial del establecimiento educacional y de ello se derive una grave afectación al derecho a la educación de los y las estudiantes matriculados en dicho establecimiento.
+
+g) Cuando un sostenedor abandone, durante el año escolar, su proyecto educativo, dejando de prestar el servicio educacional en el establecimiento de su dependencia.
+
+Tratándose de las causales señaladas en las letras b), c), d), e), f) y g) precedentes, el Director Regional citará al sostenedor y propondrá al Superintendente el nombramiento del administrador provisional, si procediere. Dicho nombramiento se notificará por carta certificada al sostenedor para que éste, dentro del plazo de cinco días hábiles contados desde dicha notificación, pueda reclamar administrativamente ante el Superintendente de esa designación.
 
 El nombramiento del administrador provisional será una atribución privativa e indelegable del Superintendente.
 
@@ -990,6 +994,8 @@ Sin perjuicio de lo anterior, el sostenedor será responsable de todas las oblig
 
 El nombramiento de administrador provisional procederá sin perjuicio de hacer efectiva la garantía establecida en el artículo 56 del decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
 
+Mientras dure la administración provisional de un establecimiento específico, excepcionalmente y por resolución fundada del Ministerio de Educación con la visación del Ministro de Hacienda, se podrán dejar sin efecto las retenciones de pago adoptadas por aplicación de lo previsto en el inciso segundo del artículo 54 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 2, del mismo Ministerio, de 1996, sobre Subvención del Estado a Establecimientos Educacionales; del artículo 69 de la presente ley, o en razón de otras medidas de carácter administrativo que hayan tenido por objeto la disminución o no pago de la subvención escolar.
+
 #### Artículo 92
 
 El administrador provisional asumirá las facultades que competen al sostenedor del establecimiento educacional en el cual desempeñará su cargo y tendrá las facultades consignadas en el artículo 2.132 del Código Civil.
@@ -1000,7 +1006,7 @@ a) Asumir la representación legal del establecimiento, sea particular subvencio
 
 b) Asegurar la continuidad escolar y procurar la disponibilidad de matrícula para los alumnos del establecimiento, de conformidad a lo establecido en esta ley.
 
-c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 y otros aportes regulares que entregue el Estado.
+c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 , otros aportes regulares que entregue el Estado, así como los que pudiere disponer la ley de Presupuestos del Sector Público para asegurar la continuidad del servicio educacional del establecimiento correspondiente, solamente hasta el término del año escolar respectivo, siempre que concurran las siguientes circunstancias: i) que los aportes regulares que deba recibir no sean suficientes para financiar las remuneraciones del personal docente y asistentes de la educación, el pago de suministros básicos y demás gastos indispensables para su funcionamiento; ii) que los hechos que originaron el nombramiento del administrador provisional se produzcan durante el transcurso del año escolar respectivo, y iii) que dichos recursos se destinen íntegramente al pago relacionado con los gastos señalados en el numeral i) precedente.
 
 d) Pagar las obligaciones derivadas del servicio educacional desde el momento que asume sus funciones, con el límite de los recursos que reciba para su gestión, de acuerdo a las prioridades que establezca y procurando el buen desempeño del establecimiento educacional.
 
@@ -1009,6 +1015,8 @@ e) Poner término a la relación laboral del personal del establecimiento educac
 f) Constituir prenda sobre los bienes del establecimiento, cuando sea estrictamente necesario para garantizar el buen funcionamiento del establecimiento.
 
 g) Devolver la administración de los bienes al sostenedor al término de su gestión.
+
+h) Coordinar, en caso de pérdida definitiva del reconocimiento oficial del Estado por parte del establecimiento educacional, por renuncia o revocación, la reubicación de los y las estudiantes en conjunto con la Secretaría Regional Ministerial de Educación correspondiente, y adoptar todas las medidas necesarias para asegurar su derecho a la educación.
 
 Las facultades del administrador provisional serán indelegables.
 
