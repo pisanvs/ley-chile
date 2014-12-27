@@ -34,7 +34,11 @@ c) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámese a postulación a los Condominios de Viviendas Sociales afectados por el sismo del 1 y 2 de abril de 2014, emplazados en la región de Tarapacá, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes; del Título II Mejoramiento de la Vivienda, letras b, 1), b. 2), b. 3) y b. 4) del artículo 5º del DS Nº 255 (V. y U.) de 2006 y sus modificaciones, y del DS Nº 332 (V. y U.) de 2000, y sus modificaciones. Los postulantes serán seleccionados por la Secretaría Regional Ministerial de Vivienda y Urbanismo (Seremi) mensualmente, mediante resolución, a partir del mes de noviembre de 2014, si cuentan con calificación hasta el último día hábil del mes que precede la selección. La primera selección se realizará con los proyectos que cuenten con calificación respectiva al 30 de octubre de 2014.
+1. Llámese a postulación a los Condominios de Viviendas Sociales afectados por el sismo del 1 y 2 de abril de 2014, emplazados en la región de Tarapacá, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes; del Título II Mejoramiento de la Vivienda, letras b, 1), b. 2), b. 3) y b. 4) del artículo 5º del DS Nº 255 (V. y U.) de 2006 y sus modificaciones, y del DS Nº 332 (V. y U.) de 2000, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
+
+Primera selección: 05 de diciembre de 2014.
+
+Segunda selección: 19 de diciembre de 2014
 
 2. La postulación a este llamado se hará de forma colectiva, mediante subsidio a la comunidad de copropietarios. Dicho beneficio se asociará al RUT de la Copropiedad y Roles de las unidades que componen el proyecto. Se entenderá como copropiedad formalizada, a aquella que cuente con un reglamento y comité de administración. De no estar formalizadas, Serviu designará un Administrador Provisional, mediante resolución, validada por las familias beneficiarias.
 
