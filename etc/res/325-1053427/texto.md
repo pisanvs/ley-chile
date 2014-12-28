@@ -24,9 +24,9 @@ Establécese la forma de distribución y el uso de los recursos contemplados en 
 
 #### Artículo 1º
 
-Los recursos del Fondo de Apoyo a la Educación Pública Municipal de Calidad se asignarán a los establecimientos educacionales del sector municipal, ya sean administrados directamente por las municipalidades o a través de corporaciones municipales, que cuenten con reconocimiento oficial del Estado y con una matrícula mayor a cero (0) en abril de 2012 y de 2013, conforme a los siguientes criterios de distribución:
+Los recursos del Fondo de Apoyo a la Educación Pública Municipal de Calidad se asignarán a los establecimientos educacionales del sector municipal, ya sean administrados directamente por las municipalidades o a través de corporaciones municipales, que cuenten con reconocimiento oficial del Estado y con una matrícula mayor a cero (0) en abril de 2014, conforme a los siguientes criterios de distribución:
 
-a) Monto Basal: Se asignará a los establecimientos educacionales un monto base de un millón de pesos ($1.000.000) más el equivalente a lo asignado a cada establecimiento en el mes de enero de 2013 por concepto de subvención anual de apoyo al mantenimiento, conforme al artículo 37 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+a) Monto Basal: Se asignará a los establecimientos educacionales un monto base de trescientos mil pesos ($300.000).
 
 b) Monto Variable: Al monto basal que corresponda a cada establecimiento educacional, se distribuirán adicionalmente recursos a aquellos establecimientos educacionales que cuenten con treinta o más alumnos en total que hayan rendido el SIMCE de educación básica el año 2009, el año 2010 y/o el año 2011, y/o treinta o más alumnos en total que hayan rendido el SIMCE de educación media el año 2008 y/o el año 2010.
 
@@ -102,19 +102,7 @@ k) Financiamiento de las asignaciones especiales de incentivo profesional a las 
 
 #### Artículo 3º
 
-Para acceder a los recursos asignados por el Ministerio de Educación, el sostenedor deberá formular un plan de fortalecimiento de los establecimientos educacionales bajo su administración, el cual debe ajustarse a las acciones señaladas en el artículo precedente. Dicho plan deberá ser ingresado a contar de la publicación del acto administrativo que asigne los recursos del fondo hasta el día treinta (30) de septiembre de 2013, en el link habilitado para estos efectos en la página web www.comunidadescolar.cl, o en la oficina de partes de la Secretaría Regional Ministerial respectiva en caso que dicho link no se encuentre en funcionamiento, lo que será comunicado a través de la página web institucional del Ministerio de Educación (www.mineduc.cl). El Subsecretario de Educación podrá excepcionalmente y por razones fundadas prorrogar este plazo por un máximo de sesenta (60) días corridos contados desde el vencimiento, a través del correspondiente acto administrativo.
-
-Las acciones del plan de fortalecimiento deben ser sugeridas por el director de cada establecimiento educacional y ratificadas por el sostenedor. Dichas acciones deberán tener asociadas metas e indicadores objetivos de mejora, los cuales serán incorporados al convenio de desempeño que establece la ley Nº 20.501, para los directores elegidos por Alta Dirección Pública, o bien al acuerdo que para estos efectos suscriba sostenedor y director, cuando el nombramiento de este último no haya pasado por este proceso, una vez suscrito el convenio entre el Ministerio de Educación y el sostenedor.
-
-Los sostenedores a su vez podrán formular su plan de fortalecimiento, conforme a la oferta de proyectos que el Ministerio de Educación pondrá a disposición en el link ya referido y que se ajustarán a las acciones señaladas en el artículo precedente.
-
-El plan de fortalecimiento será revisado por el Ministerio de Educación dentro del plazo de veinte (20) días hábiles contados desde su recepción, y podrá aprobarlo u observarlo.
-
-En caso de efectuarse observaciones, el Ministerio dentro del plazo de dos (2) días hábiles, se las notificará por carta certificada al sostenedor, el que tendrá el plazo de quince (15) días corridos contados desde la comunicación de las mismas para subsanarlas y entregar el plan nuevamente al Ministerio, el que deberá revisarlo dentro de los diez (10) días corridos siguientes a su recepción.
-
-Las acciones del plan de fortalecimiento junto a las metas e indicadores objetivos de mejora se incorporarán al convenio que el sostenedor deberá suscribir con el Ministerio de Educación.
-
-Los recursos deberán ser entregados por el sostenedor al respectivo establecimiento educacional directamente o a través de bienes o servicios contratados por el mismo para el cumplimiento del convenio, o a través del municipio o la Corporación Municipal.
+Derogado
 
 Anótese, tómese razón y publíquese.- Carolina Schmidt Zaldívar, Ministra de Educación.
 
