@@ -482,11 +482,13 @@ La publicación de los dividendos se hará tan pronto como se conozca el resulta
 
 En caso que la Junta de Comisarios modificare el orden de llegada después de haberse dado la orden de pago, dicha modificación no afectará en modo alguno a las apuestas mutuas, las que deberán ser pagadas de acuerdo a la primitiva orden.
 
-#### Artículo 36
+#### Artículo 36º
 
-Cuando en una carrera tomen parte dos o más caballos de un mismo stud o seudónimo, ellos deberán correr en corral, para los efectos de las apuestas mutuas. Esta disposición no regirá en caso de que, una vez ratificadas las inscripciones para una reunión, se comunique al respectivo hipódromo la transferencia de un fina sangre, en cuya virtud hubiere procedido la formación de un corral.
+Cuando en una carrera tomen parte dos o más caballos de un mismo stud o seudónimo, el directorio de cada institución hípica determinará si ellos deberán correr en corral, para efectos de las apuestas mutuas. Esta comunicación deberá darse en el programa oficial de carreras al inicio de cada año calendario y regirá por todo ese período.
 
-Los caballos mantendrán su corral para efecto de las apuestas mutuas, si luego de ser ratificado en la respectiva carrera y antes de su largada, se hubiere producido una transferencia o un cambio de stud o seudónimo.
+En caso que el hipódromo hubiere determinado hacer efectivo los corrales, esta disposición no regirá en caso de que, una vez ratificadas las inscripciones para una reunión, se comunique al respectivo hipódromo la transferencia de un fina sangre, en cuya virtud hubiere procedido la formación de un corral.
+
+Los caballos mantendrán su corral para efecto de las apuestas mutuas, si luego de ser ratificados en la respectiva carrera y antes de su largada, se hubiere producido una transferencia o cambio de stud o seudónimo.
 
 #### Artículo 37
 
@@ -2004,29 +2006,19 @@ La Junta de Comisarios deberá sancionar severamente, con suspensión y/o multa,
 
 #### Artículo 228
 
-En caso de performances abiertamente contradictorias o de conducción maliciosa de un caballo, se presumirá la responsabilidad de su jinete y preparador, la que podrá alcanzar al propietario, si la Junta de Comisarios de acuerdo a los antecedentes de la investigación, estima que se le puede presumir su participación en dichos actos. La Junta de Comisarios deberá aplicar, en su caso, cualquiera de las siguientes sanciones: a) Al jinete, suspensión por uno a tres meses;
+En caso de performances abiertamente contradictorias o de conducción maliciosa de un caballo, se presumirá la responsabilidad de su jinete y preparador, la que podrá alcanzar al propietario, si la Junta de Comisarios de acuerdo a los antecedentes de la investigación, estima que se le puede presumir su participación en dichos actos.
 
-b) Al preparador, suspensión desde 17 días hasta
+La Junta de Comisarios deberá aplicar, en su caso, cualquiera de las siguientes sanciones:
 
-tres meses y multa que fije la Junta de
+a) Al jinete, suspensión por uno a tres meses;
 
-Comisarios;
+b) Al preparador, suspensión desde 17 días hasta tres meses y multa que fije la Junta de Comisarios;
 
-c) Al propietario, cuando proceda, con la suspensión
-
-del uso de sus colores por 17 días a tres meses y
-
-multa que fijará la Junta de Comisarios. Durante
-
-la vigencia de esta sanción, el propietario no
-
-podrá correr, traspasar ni arrendar los caballos
-
-que participen con los colores afectados por
-
-dicha sanción.
+c) Al propietario, cuando proceda, con la suspensión del uso de sus colores por 17 días a tres meses y multa que fijará la Junta de Comisarios. Durante la vigencia de esta sanción, el propietario no podrá correr, traspasar ni arrendar los caballos que participen con los colores afectados por dicha sanción.
 
 La aplicación de estos castigos se entiende sin perjuicio de que si la Junta estima necesaria una sanción mayor, ejercite el derecho que le otorga la letra r) del artículo 53 del presente Reglamento.
+
+La Junta de Comisarios podrá aplicar las sanciones de las letras a), b) y c) precedentes al jinete, preparador y propietario del caballo que perteneciendo a un mismo stud o seudónimo no hayan corrido en corral y hubieren incurrido en las conductas descritas en el inciso primero.
 
 #### Artículo 229
 
@@ -2111,6 +2103,10 @@ b) Lleguen con falta de medio kilo o más respecto al peso de salida anotado en 
 c) Sean culpables de un acto fraudulento relacionado con su peso;
 
 d) Tengan contacto con otras personas antes de verificar su peso, siempre que, a juicio de la Junta de Comisarios, este hecho pueda envolver un acto doloso, y
+
+e) Si a juicio de la Junta de Comisarios la presencia del infractor en la carrera hubiera influido en el resultado de ella, podrá distanciar además al compañero de corral que haya figurado en tabla.
+
+Idéntica facultad tendrá la Junta en el caso de dos caballos de un mismo stud o seudónimo que no hubiere corrido en corral.
 
 2°.- Con multa, cuyo monto fijará la Junta de Comisarios, y/o con suspensión, cuando un jinete, luego de disputada la carrera, llegue con exceso de un kilo o más con respecto al peso de salida anotado en el Registro de Carreras, salvo que, a juicio del Juez de Peso este hecho se deba al estado de la cancha.
 
