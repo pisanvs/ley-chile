@@ -18,7 +18,7 @@ Resolución:
 
 Las personas que postulen como titulares vía internet a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación y la información ingresada y registrada en el sistema, será válida para todos los efectos de la postulación y del proceso de selección.
 
-2º.- El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 823.200 Unidades de Fomento.
+2º.- El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 343.392 Unidades de Fomento.
 
 3º.- La cantidad de familias a seleccionar se distribuirán regionalmente según el cuadro que se presenta a continuación:
 
