@@ -184,7 +184,7 @@ b) Subsidio para obras de habilitación del terreno, de hasta 300 Unidades de Fo
 
 c) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento según corresponda, en los términos establecidos en la letra d) del artículo 7 del DS Nº 49 (V. y U.), de 2011.
 
-d) Subsidio para la instalación de sistemas solares térmicos, de hasta 40 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbres. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
+d) Subsidio para la instalación de sistemas solares térmicos, de hasta 55 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbres. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
 
 e) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
 
@@ -248,7 +248,7 @@ c) Subsidio adicional de hasta 150 Unidades de Fomento en caso que la superficie
 
 d) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento según corresponda, en los términos establecidos en la letra d) del artículo 7 del DS Nº 49 (V. y U.), de 2011.
 
-e) Subsidio para la instalación de sistemas solares térmicos, de hasta 40 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbre. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
+e) Subsidio para la instalación de sistemas solares térmicos, de hasta 55 Unidades de Fomento. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbre. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
 
 f) Hasta 70 Unidades de Fomento para el pago de honorarios por la prestación de servicios de asistencia técnica, destinadas al financiamiento de los siguientes servicios:
 
