@@ -68,7 +68,7 @@ Además, corresponderá a ambos, la coordinación de las convocatorias y el regi
 
 ### 5. Sesiones del Consejo
 
-5.1 El Consejo se reunirá ordinariamente dos veces al año en los meses de junio y octubre, con los miembros que asistan. Para estos efectos, las organizaciones de la sociedad civil participantes deberán estar inscritas en el Registro, a lo menos 15 días antes de la fecha de la respectiva sesión.
+5.1 El Consejo se reunirá ordinariamente cinco veces al año, con los miembros que asistan. Para estos efectos, las organizaciones de la sociedad civil participantes deberán estar inscritas en el Registro, a lo menos 15 días antes de la fecha de la respectiva sesión.
 
 Las convocatorias se realizarán con una anticipación de 15 días, mediante la publicación de un aviso en la página web de Aduanas y en un diario de circulación nacional, en el que se indicará la fecha, hora y lugar donde se llevará a cabo la sesión y una enunciación de los principales temas a tratar.
 
