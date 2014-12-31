@@ -62,7 +62,7 @@ Es un Plan que promueve, de forma especial, el fomento de las actividades produc
 
 III.- Ámbito de Aplicación.
 
-El presente Plan se aplicará en las comunas de Monte Patria, Punitaqui Combarbalá y Canela en la Región de Coquimbo; Cauquenes, Empedrado y Chanco, en la Región del Maule; y Lebu, Arauco, Cañete, Contulmo, Curanilahue, Los Álamos y Tirúa, en la Región del Biobío.
+El presente Plan se aplicará en las comunas de Monte Patria, Punitaqui Combarbalá y Canela en la Región de Coquimbo; Cauquenes, Empedrado, Pelluhue y Chanco, en la Región del Maule; Lebu, Arauco, Cañete, Contulmo, Curanilahue, Los Álamos y Tirúa, en la Región del Biobío; y Chaitén, en la Región de Los Lagos
 
 IV.- Objetivos.
 
