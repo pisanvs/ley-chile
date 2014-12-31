@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "ENERGÍAS RENOVABLES FOTONES DE CHILE SpA"
+
+Mediante decreto exento Nº 1.020, de 1 de diciembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Energías Renovables Fotones de Chile SpA", RUT Nº 76.143.492-6, el inmueble fiscal formado por los Lotes A, B y C, ubicado a 6 Km. de la localidad María Elena, en la intersección de la Ruta 5 con Ruta B-168, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con los Nos 6903-28; 6903-23 y 6903-24, amparado por la inscripción global que rola a fojas 6 vta. Nº 6 del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 1996, de una superficie total de 864,63 ha, singularizado en el Plano Nº 02302-4.359-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 5.154.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de Concesión. El decreto, con su texto íntegro, se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
