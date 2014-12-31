@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº903 EXENTA, DE 2014
+
+Por resolución exenta Nº 903, de fecha 3 de diciembre de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autoriza a Otec Fénix Capacitaciones Limitada, RUT Nº 76.089.226-2, representada legalmente por doña Patricia Ester de Lourdes Madina Avendaño, Cédula Nacional de Identidad Nº 10.956.536-9 y por Doña Beatriz del Carmen González Aranguiz RUT Nº 10.442.250-0, para impartir cursos de capacitación a los titulares de licencias de conductor Clase A-2, obtenida con anterioridad al 8 de marzo de 1997, vigentes al 23 de junio de 2011, para optar a las licencias de conductor profesional Clases A-3 y A-5, según decreto supremo Nº 61/2001, del Ministerio de Transportes y Telecomunicaciones, el cual tendrá lugar de funcionamiento en Av. Membrillar Nº 93, comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
