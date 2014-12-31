@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A I. MUNICIPALIDAD DE COLINA
+
+Mediante decreto exento Nº 1.073, de 3 de diciembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a I. Municipalidad de Colina, RUT Nº 69.071.500-7, el inmueble fiscal que corresponde al Lote A del Macrolote A1-12, ubicado en Carretera General San Martin Nº 1160, comuna de Colina, provincia de Santiago, Región Metropolitana; amparado por la inscripción Fiscal en mayor cabida que rola a fojas 26.521 Nº 40011, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 2010; de una superficie aproximada de 5.000 metros cuadrados, singularizado en el Plano Nº 13.301-3.970-C.U. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para utilizar el inmueble fiscal en la ejecución de un proyecto que permita desarrollar iniciativas emprendedoras, empresariales y sociales, y como una incubadora de microempresas. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Nivia Palma Manríquez, Jefa de División Jurídica.
