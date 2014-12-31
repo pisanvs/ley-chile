@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA SOCIEDAD "RENOVALIA CHILE DOS SpA"
+
+Mediante decreto exento Nº 1.021, de 1 de diciembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Renovalia Chile Dos SpA", RUT Nº 76.242.062-7, el inmueble fiscal formado por los lotes a, b y c, ubicado en la Ruta 5 Norte, altura Km. 778, Sector Llano de Los Lirios, comuna y provincia de Copiapó, Región de Atacama, enrolados en el Servicio de Impuestos Internos con los Nos 7215-2; 7215-3 y 7215-4, amparado por la inscripción global que rola a fojas 527 vta. Nº 500 del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1964, de una superficie total de 110,252 ha, singularizado en el Plano Nº 03101-1.387-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de Concesión. La renta anual de la Concesión del inmueble será de UF 1.846.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto, con su texto íntegro, se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.Autoriza extracto.-
+
+Nivia Palma Manríquez, Jefa División Jurídica.
