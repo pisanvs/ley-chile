@@ -2,7 +2,7 @@ LEY Nº. 18291, DE 1984.
 
 LA PRESENTE LEY TIENE EL CARÁCTER DE SECRETA Y POR CONSIGUIENTE, SU TEXTO HA SIDO PUBLICADO EN UNA EDICIÓN RESTRINGIDA DEL DIARIO OFICIAL.
 
-> **Nota.** El artículo único de la Ley 19006, publicada el 22.11.1990, modifica la presente ley en el sentido de aumentar la planta y grados que la citada norma indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta.
+> **Nota.** El artículo único de la Ley 19006, publicada el 22.11.1990, modifica la presente ley en el sentido de aumentar la planta y grados en la forma que la citada norma indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta.
 
 > **Nota.** NOTA 1 El artículo 1 de la Ley 19127, publicada el 08.02.1992, modifica la presente ley en el sentido de aumentar la planta y grados en la forma que la citada norma indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta.
 
@@ -12,4 +12,6 @@ LA PRESENTE LEY TIENE EL CARÁCTER DE SECRETA Y POR CONSIGUIENTE, SU TEXTO HA SI
 
 > **Nota.** NOTA 4 El artículo 1º de la Ley 20231, publicada el 29.11.2007, modifica la presente ley, en el sentido de aumentar planta en el grado que la citada norma indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta.
 
-> **Nota.** NOTA 5 El artículo 3º de la Ley 20490, publicada el 25.02.2011, modifica la presente ley en la forma que indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta. Dicha modificación no ha podido ser efectuada porque la presente Ley tiene carácter de secreta.
+> **Nota.** NOTA 5 El artículo 3º de la Ley 20490, publicada el 25.02.2011, modifica la presente ley en la forma que indica. No obstante, dicha modificación no ha podido ser efectuada porque la presente ley tiene el carácter de secreta. Dicha modificación no ha podido ser efectuada porque la presente ley tiene carácter de secreta.
+
+> **Nota.** NOTA 6 El artículo 1º de la Ley 20801, publicada el 31.12.2014, modifica la presente ley en el sentido de aumentar la planta en el grado que la citada norma indica. Asimismo, su artículo primero transitorio dispone que el aumento de plantas tendrá una aplicación gradual. No obstante, dicha modificación no ha podido ser incorporada porque la presente ley tiene el carácter de secreta.
