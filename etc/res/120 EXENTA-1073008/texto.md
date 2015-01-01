@@ -1,0 +1,5 @@
+DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 120, del 26 de diciembre de 2014, que delega en el Subdirector de Asistencia al Contribuyente, la facultad establecida en el inciso tercero del artículo 56º de la Ley sobre Impuesto a las Ventas y Servicios contenida en el DL 825, de 1974, de autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de boletas, facturas, facturas de compra, guías de despacho, liquidaciones, notas de débito y notas de crédito.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre, de 2014.
