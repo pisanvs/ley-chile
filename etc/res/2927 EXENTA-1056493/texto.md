@@ -76,8 +76,6 @@ Día sábado 6, desde las 07:00 a las 15:00 hrs., en dirección Norte.
 
 Día lunes 8, desde las 17:00 a las 23:00 hrs., en dirección Sur.
 
-Día miércoles 31, desde las 15:00 a las 23:00 hrs., en dirección al Norte.
-
 k) Mes de enero de 2015
 
 Día domingo 4, desde las 17:00 a las 23:00 hrs., en dirección Sur.
