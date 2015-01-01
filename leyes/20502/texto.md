@@ -1,6 +1,6 @@
 LEY NÚM. 20.502
 
-CREA EL MINISTERIO DEL INTERIOR Y EL SERVICIO NACIONAL PARA LA PREVENCIÓN Y REHABILITACIÓN DEL CONSUMO DE DROGAS Y ALCOHOL, Y MODIFICA DIVERSOS CUERPOS
+CREA EL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA Y EL SERVICIO NACIONAL PARA LA PREVENCIÓN Y REHABILITACIÓN DEL CONSUMO DE DROGAS Y ALCOHOL, Y MODIFICA DIVERSOS CUERPOS
 
 LEGALES
 
@@ -10,7 +10,7 @@ Proyecto de ley:
 
 ## Título I
 
-Del Ministerio del Interior
+Del Ministerio del Interior y Seguridad Pública
 
 #### Artículo 1º
 
@@ -20,87 +20,59 @@ Asimismo, le corresponderá la gestión de los asuntos y procesos administrativo
 
 Además de las funciones que esta ley le señale, el Ministerio del Interior y Seguridad Pública será el sucesor legal, sin solución de continuidad, del Ministerio del Interior, y tendrá todas las atribuciones que las leyes le confieren.
 
-#### Artículo 2
+#### Artículo 2°
 
-Suprimido.
+Para los efectos de lo dispuesto en el inciso segundo del artículo 101 de la Constitución Política de la República, el Ministerio del Interior y Seguridad Pública será el Ministerio encargado de la seguridad pública.
+
+Las Fuerzas de Orden y Seguridad Pública dependerán de este Ministerio y se regirán por sus respectivas leyes orgánicas.
 
 #### Artículo 3°
 
-Además de las facultades ya existentes para el Ministerio del Interior en otras materias, a éste le corresponde:
+Además de las facultades ya existentes para el Ministerio del Interior en otras materias, corresponderá al Ministerio del Interior y Seguridad Pública:
 
-a) Coordinar políticamente los distintos ministerios, de acuerdo con las directrices que al efecto disponga el Presidente o la Presidenta de la República.
+a) Proponer al Presidente de la República la Política Nacional de Seguridad Pública Interior, coordinarla, actualizarla y evaluarla periódicamente, tanto a nivel nacional como regional y comunal, en su caso. La formulación de dicha política tendrá en consideración la evidencia surgida de estudios que determinen aquellas medidas y programas que puedan tener mayor impacto en la reducción del delito y la violencia.
 
-b) Ejercer la coordinación intersectorial y seguimiento programático de la gestión del Gobierno, especialmente en la preparación de decisiones que afecten a más de un Ministerio; servir de apoyo técnico a los Comités Interministeriales que lo requieran; e informar al Presidente o Presidenta de la República respecto de la necesidad de introducir innovaciones a la organización y procedimientos de la Administración del Estado.
+b) Velar por la mantención del orden público en el territorio nacional.
 
-c) Efectuar estudios y análisis de corto y de mediano plazo relevantes para las decisiones políticas y someterlos a la consideración de la Presidencia de la República u otros ministerios.
+En cumplimiento de esta facultad, el Ministerio solicitará a las Fuerzas de Orden y Seguridad Pública, al menos semestralmente, informes, antecedentes y estadísticas tendientes a materializar una evaluación de las medidas y programas adoptados por dichas Fuerzas para una eficaz, racional y eficiente mantención del orden público, tales como aquellos relativos a la distribución del personal; medidas para el control e investigación de delitos; los datos sobre la ocurrencia de delitos en los cuadrantes donde se aplique el plan respectivo junto con las acciones y medidas adoptadas a su respecto; nóminas de niños o niñas en situación de vulnerabilidad y los datos sobre las políticas y planes preventivos, de control e investigación de hechos delictivos, entre otros.
 
-d) Supervigilar al organismo encargado de coordinar la actividad de las unidades de auditoría interna de los servicios públicos dependientes o relacionados con el Ejecutivo.
+c) Encomendar y coordinar las acciones y programas que los demás Ministerios y los Servicios Públicos desarrollen en relación con la Política Nacional de Seguridad Pública Interior, evaluarlas y controlarlas, decidiendo su implementación, continuación, modificación y término, así como la ejecución de las políticas gubernamentales en materias de control y prevención del delito, de rehabilitación y de reinserción social de infractores de ley, sin perjuicio de llevar a cabo directamente los que se le encomienden.
 
-e) Adoptar, a través de la Subsecretaría de Desarrollo Regional y Administrativo, todas las medidas necesarias orientadas a la descentralización administrativa y fiscal y a la equidad territorial del Estado, en base a una coordinación con los gobiernos regionales y locales; así como la orientación del desarrollo regional, provincial y local, conforme se regula en el decreto con fuerza de ley N° 1-18.359, de 1985, del Ministerio del Interior, que traspasa y asigna funciones a la Subsecretaría de Desarrollo Regional y Administrativo.
+d) Mantener y desarrollar un sistema actualizado de procesamiento de datos, documentos y otros antecedentes que no permitan la singularización de personas determinadas, con el fin de evaluar el estado de la seguridad pública interior y la eficacia de las políticas públicas en la materia a nivel nacional, regional y comunal, y la situación de los organismos dependientes del Ministerio, para cuyo efecto requerirá, al menos semestralmente, la información y documentación pertinente a los órganos e instituciones del Estado vinculados con la seguridad pública interior. También podrá elaborar estadísticas relacionadas con la seguridad pública interior y difundirlas. Tales estadísticas se referirán, por lo menos, a la victimización, revictimización, el temor y las denuncias. Del mismo modo, deberán considerarse factores de riesgo relevantes que puedan incidir en el fenómeno delictivo, todo ello a nivel nacional, regional y comunal.
 
-f) Velar por el desarrollo regional y local del país, de acuerdo con las políticas, planes y programas definidas por el Gobierno Central, y los planes y programas aprobados por los gobiernos regionales, teniendo especialmente en cuenta el desarrollo de territorios considerados como zonas extremas y zonas rezagadas en materia social.
+e) Autorizar, regular, supervisar, controlar y ejercer las demás atribuciones, en la forma que señale la ley, en materia de seguridad privada.
 
-g) Colaborar con el Presidente o Presidenta de la República en la conducción del gobierno interior del Estado.
+f) Encargar la realización de estudios e investigaciones que tengan relación directa con el orden público, la prevención y el control del delito, la rehabilitación y reinserción social de los delincuentes y la victimización.
 
-h) Velar por la correcta ejecución de las leyes electorales.
+g) Promover, coordinar y fomentar medidas de prevención y control de la delincuencia, la violencia y la reincidencia delictual.
 
-i) Proponer las reformas legislativas o administrativas que considere necesarias en materia migratoria, y supervigilar, formular, implementar y supervisar políticas, planes y programas relativos a migración, así como de protección de refugiados, sin perjuicio de las atribuciones del Servicio Nacional de Migraciones en estas materias.
+h) Definir y evaluar las medidas orientadas al control de los delitos y aquellas que permitan una adecuada respuesta policial a las infracciones de la ley penal, pudiendo solicitar a las Fuerzas de Orden y Seguridad Pública y a cualquier otro organismo público, informes sobre planes, medidas, distribución del personal o cualquier otra información que considere conducente y necesaria para dar cumplimiento a esta función.
 
-j) Proponer las normas sobre división política y administrativa del país y la fijación de los distintos límites territoriales y husos horarios aplicables en el territorio nacional.
+i) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la elaboración, ejecución y evaluación de las políticas, planes y programas de seguridad interior y orden público.
 
-k) Controlar el funcionamiento del Diario Oficial y asegurar el cumplimiento de sus fines y objetivos, pudiendo dictar los reglamentos necesarios para el desempeño de su cometido.
+j) Evaluar el cumplimiento de las metas y objetivos de los planes y programas de seguridad pública a cargo de las instituciones policiales, para lo cual fijará y aplicará modelos, sistemas y,o estrategias de evaluación de la gestión de las funciones, planes y programas de dichas instituciones, que contemplen la evaluación del cumplimiento de metas y parámetros, tales como un programa de distribución del personal que cumpla criterios básicos de descentralización y satisfacción de necesidades locales; transparencia activa y pasiva y eficiencia en el uso de recursos.
 
-l) Conducir las relaciones con el Congreso Nacional que no correspondan a otros ministerios.
-
-m) Coordinar la prevención, respuesta y reconstrucción frente a desastres y emergencias.
-
-n) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la elaboración, ejecución y evaluación de las políticas, planes y programas de su competencia.
-
-o) Coordinar la prevención y respuesta frente a conflictos sociales que sean de competencia de los organismos sectoriales, en coordinación con los ministerios que correspondan, para su diagnóstico y manejo.
-
-p) Administrar la Red de Conectividad del Estado.
-
-q) Ejecutar las disposiciones del decreto ley N° 799, de 1974, del Ministerio del Interior, que deroga ley N° 17.054 y dicta en su reemplazo disposiciones que regulan uso y circulación de vehículos estatales.
-
-r) Coordinar con el Ministerio de Bienes Nacionales la disposición de los bienes municipales.
-
-s) Prestar soporte administrativo para el otorgamiento de las pensiones de gracia.
-
-t) Coordinarse con la Junta Nacional de Cuerpos de Bomberos y los Cuerpos de Bomberos en materias que tengan relación con los órganos de la Administración del Estado.
-
-u) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
-
-> **Nota.** El artículo 1 del DFL 2-21730, publicado el 04.03.2025, dispone que el literal m) del presente artículo, introducido por la ley 21730, publicada el 05.02.2025, entrará en vigor de acuerdo a lo que disponga la ley a que se refiere el artículo décimo transitorio del citado cuerpo legal.
+k) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
 
 #### Artículo 4°
 
-La estructura orgánica funcional del Ministerio será la siguiente:
+El Ministro del Interior y Seguridad Pública deberá efectuar la coordinación sectorial e intersectorial para el logro de los objetivos que se hayan fijado en materia de seguridad pública interior, orden público, prevención, rehabilitación y reinserción social.
 
-a) El Ministro o Ministra.
-
-b) La Subsecretaría del Interior.
-
-c) La Subsecretaría de Desarrollo Regional y Administrativo.
-
-d) Los delegados presidenciales regionales y provinciales.
-
-Sin perjuicio de lo anterior, un reglamento expedido por el Ministerio del Interior, con sujeción a la planta y a la dotación máxima, determinará la organización interna del Ministerio y las denominaciones y funciones que correspondan a cada una de las unidades establecidas para el cumplimiento de las funciones que le sean asignadas, de conformidad a lo dispuesto en la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, promulgado en 2000 y publicado en 2001, del Ministerio Secretaría General de la Presidencia.
+Para el cumplimiento de lo dispuesto en el inciso anterior, el diseño y la evaluación de los planes y programas que se ejecuten en dichos ámbitos deberán ser autorizados por el Ministerio del Interior y Seguridad Pública.
 
 #### Artículo 5°
 
-Sin perjuicio de la facultad del Presidente o de la Presidenta de la República de encomendar a uno o más ministros tareas específicas de coordinación, el Ministro o Ministra del Interior realizará la coordinación política del gabinete ministerial.
+El Ministerio del Interior y Seguridad Pública informará semestralmente al Senado y a la Cámara de Diputados, por medio de las comisiones que estas Corporaciones designen, acerca de los avances en la implementación y los resultados parciales de los programas de seguridad pública.
 
-Para el cumplimiento de sus funciones, le corresponderán, especialmente, las siguientes atribuciones:
+#### Artículo 6º
 
-a) Proponer al Presidente o Presidenta de la República los proyectos de ley, de reglamentos, instrucciones, políticas y programas dentro del ámbito de su competencia.
+Existirá un Consejo Nacional de Seguridad Pública Interior, presidido por el Ministro del Interior y Seguridad Pública e integrado por el Ministro de Justicia, el Subsecretario del Interior, el Subsecretario de Prevención del Delito, el Subsecretario de Justicia, un representante de la Corte Suprema designado por ésta, el Fiscal Nacional del Ministerio Público, el Defensor Nacional de la Defensoría Penal Pública, el General Director de Carabineros de Chile, el Director General de la Policía de Investigaciones de Chile, el Director Nacional de Gendarmería de Chile, el Director Nacional del Servicio Nacional de Menores, el Director Nacional del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, y el Presidente de la Asociación Chilena de Municipalidades.
 
-b) Requerir informes a los diferentes ministros y ministras respecto del cumplimiento de las funciones y atribuciones que la ley les entrega, y efectuar propuestas en orden al cumplimiento eficaz y eficiente de las mismas conforme a las definiciones presidenciales y políticas nacionales.
+Un Subsecretario designado al efecto por el Ministro del Interior y Seguridad Pública actuará como Secretario del Consejo.
 
-c) Las demás que le encomienden las leyes.
+Este Consejo tendrá carácter consultivo y asesorará al Ministerio del Interior y Seguridad Pública en la elaboración de la Política Nacional de Seguridad Pública Interior.
 
-#### Artículo 6
-
-Suprimido.
+El Consejo sesionará, como mínimo, una vez por semestre. Asimismo, a lo menos una vez al año, deberá oír a los representantes de la sociedad civil en la forma que determine el Consejo.
 
 ## Título II
 
@@ -108,15 +80,15 @@ De las Subsecretarías
 
 #### Artículo 7°
 
-En el ejercicio de sus atribuciones, el Ministro o la Ministra del Interior contará con la colaboración inmediata de la Subsecretaría del Interior y de la Subsecretaría de Desarrollo Regional y Administrativo.
+En el ejercicio de sus atribuciones en materia de seguridad pública interior y orden público, el Ministro del Interior y Seguridad Pública contará con la colaboración inmediata de las Subsecretarías del Interior y de Prevención del Delito. Asimismo, contará con la Subsecretaría de Desarrollo Regional y Administrativo para el cumplimiento de las funciones relativas al desarrollo regional y local y demás que le confiere a la misma la legislación vigente, así como también, las tareas que le encomiende el Ministro del Interior y Seguridad Pública.
 
-Los jefes o las jefas superiores de estas Subsecretarías serán los Subsecretarios o las Subsecretarias del Interior y de Desarrollo Regional y Administrativo, respectivamente.
+Los jefes superiores de estas Subsecretarías serán los Subsecretarios del Interior, de Prevención del Delito y de Desarrollo Regional y Administrativo, respectivamente.
 
-El Ministro o la Ministra será subrogado o subrogada por el Subsecretario o la Subsecretaria del Interior y, a falta de éste o ésta, por el o la de Desarrollo Regional y Administrativo, sin perjuicio de la facultad del Presidente o Presidenta de la República para nombrar como subrogante a otro Secretario o Secretaria de Estado.
+El Ministro será subrogado por el Subsecretario del Interior y, a falta de éste, sucesivamente por el de Desarrollo Regional y Administrativo y por el de Prevención del Delito, sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
 
 #### Artículo 8°
 
-Las Subsecretarías del Interior y de Desarrollo Regional y Administrativo, tendrán todas aquellas funciones y atribuciones que se encuentran establecidas en la Ley Orgánica Constitucional sobre Bases Generales de la Administración del Estado y en las demás normas legales que las regulen.
+Las Subsecretarías del Interior, de Desarrollo Regional y Administrativo y de Prevención del Delito tendrán todas aquellas funciones y atribuciones que se encuentran establecidas en la Ley Orgánica Constitucional sobre Bases Generales de la Administración del Estado y en las demás normas legales que las regulen.
 
 Asimismo, podrán formular planes y programas en el ámbito de sus funciones, ejecutarlos y evaluarlos.
 
@@ -134,35 +106,75 @@ En cumplimiento de tales funciones, podrá celebrar acuerdos o convenios con ins
 
 #### Artículo 10
 
-Suprimido.
+Sin perjuicio del ejercicio de las atribuciones que el Ministro le delegue, así como del cumplimiento de las tareas que aquél le encargue, el Subsecretario del Interior deberá, especialmente, ocuparse de los asuntos de naturaleza administrativa de las Fuerzas de Orden y Seguridad Pública y de los organismos del sector que corresponda; en especial, elaborar los decretos, resoluciones, órdenes ministeriales y oficios relativos a nombramientos, ascensos, retiros, renuncias, comisiones de servicios nacionales a otros organismos del Estado y al extranjero y, en general, todos aquellos actos administrativos orientados a la resolución de solicitudes, beneficios u otros asuntos que interesen al personal de las Fuerzas de Orden y Seguridad Pública en servicio activo, al personal en retiro y a los familiares de todos los anteriores.
+
+La Subsecretaría del Interior deberá mantener actualizado el registro especial establecido por el Título V de la ley Nº 20.000.
 
 #### Artículo 11
 
-Eliminado.
+La Subsecretaría del Interior será la sucesora, para todos los efectos legales, reglamentarios y contractuales, de las Subsecretarías de Carabineros e Investigaciones, y le corresponderá hacerse cargo de los derechos y obligaciones de los que éstas fueren titulares y que existieren o se encontraren pendientes a la fecha de su supresión. Toda mención que se haga en leyes, reglamentos u otras normas a tales Subsecretarías se entenderá efectuada, a partir de esa fecha, a la Subsecretaría del Interior.
 
-### Párrafo 2° — De la Subsecretaría de Prevención del Delito.- Eliminado.
+### Párrafo 2°
+
+De la Subsecretaría de Prevención del Delito
 
 #### Artículo 12
 
-Eliminado.
+Créase en el Ministerio del Interior y Seguridad Pública una Subsecretaría de Prevención del Delito, que será el órgano de colaboración inmediata del Ministro en todas aquellas materias relacionadas con la elaboración, coordinación, ejecución y evaluación de políticas públicas destinadas a prevenir la delincuencia, a rehabilitar y a reinsertar socialmente a los infractores de ley, sin perjuicio del ejercicio de las atribuciones que el Ministro le delegue, así como del cumplimiento de las tareas que aquél le encargue.
 
 #### Artículo 13
 
-Eliminado.
+Para el cumplimiento de sus funciones, la Subsecretaría de Prevención del Delito tendrá a su cargo la gestión de la totalidad de los planes y programas del Ministerio del Interior y Seguridad Pública en relación con la prevención del delito, la rehabilitación y la reinserción de infractores de ley.
 
-## Título III — De la Ejecución Territorial de la Política de Seguridad Pública.- Eliminado.
+Asimismo, coordinará los planes y programas que los demás Ministerios y Servicios Públicos desarrollen en este ámbito. Para tal efecto, articulará las acciones que éstos ejecuten, así como las prestaciones y servicios que otorguen, de manera de propender a su debida coherencia y a la eficiencia en el uso de los recursos.
+
+Corresponderá, además, a la Subsecretaría de Prevención del Delito:
+
+a) Evaluar los planes, programas, acciones, prestaciones y servicios de las entidades referidas en el inciso segundo de este artículo, pudiendo encargar, si se estima pertinente, evaluaciones externas independientes.
+
+b) Proponer al Ministro del Interior y Seguridad Pública las políticas, normas, planes y programas en el campo de la prevención del delito, la rehabilitación y la reinserción social de infractores de ley.
+
+c) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la ejecución de las políticas, planes y programas de prevención, rehabilitación y reinserción social de infractores de ley.
+
+d) Asesorar al Ministro del Interior y Seguridad Pública en el cumplimiento de las funciones que a éste le asigna el artículo 3° en lo relativo a la prevención del delito, la rehabilitación y la reinserción.
+
+e) Proponer al Ministro del Interior y Seguridad Pública las políticas y programas en materias de prevención del consumo de estupefacientes, sustancias psicotrópicas e ingestión abusiva de alcohol, y de tratamiento, rehabilitación y reinserción social de las personas afectadas por dichas sustancias, siempre que se trate de infractores de ley.
+
+## Título III
+
+De la Ejecución Territorial de la Política de Seguridad Pública
 
 #### Artículo 14
 
-Eliminado.
+La ejecución de la Política Nacional de Seguridad Pública Interior a nivel regional, provincial y local, adaptada de acuerdo a las realidades respectivas en caso de ser necesario, se llevará a cabo por intermedio de los Intendentes.
+
+Para ejecutar esta labor, los Intendentes podrán, especialmente:
+
+a) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluidas las municipalidades, que tengan relación directa con los planes y programas de la Política Nacional de Seguridad Pública Interior.
+
+b) Evaluar el desarrollo de planes y programas ejecutados en el territorio de su jurisdicción.
+
+c) Disponer la realización de estudios y encuestas que tengan relación directa con la ejecución de los planes y programas de la Política Nacional de Seguridad Pública Interior.
+
+d) Implementar medidas de prevención de la delincuencia y aquellas orientadas a disminuir la violencia y la reincidencia delictual.
 
 #### Artículo 15
 
-Eliminado.
+Corresponderá a los Intendentes la coordinación con los municipios en materias de seguridad pública, de manera que la Política Nacional de Seguridad Pública Interior dé cuenta de la realidad local.
+
+Para estos efectos, los Intendentes establecerán instancias que permitan recibir las propuestas de las gobernaciones y de los municipios para la elaboración de la Política Nacional de Seguridad Pública Interior.
+
+Cada municipio podrá llevar a cabo directamente planes y programas en materia de prevención y de seguridad ciudadana, de manera coherente con la Política Nacional de Seguridad Pública Interior.
 
 #### Artículo 16
 
-Eliminado.
+En cada región del país existirá un Consejo Regional de Seguridad Pública Interior, presidido por el Intendente e integrado por los Gobernadores Provinciales, los alcaldes de los municipios de la región, el Secretario Regional Ministerial de Justicia, un representante de la Corte de Apelaciones respectiva designado por ésta, el Fiscal Regional del Ministerio Público, el Defensor Regional de la Defensoría Penal Pública, el Jefe de Zona de Carabineros de Chile, el Jefe de Región Policial de la Policía de Investigaciones de Chile, el Director Regional de Gendarmería de Chile, el Director Regional del Servicio Nacional de Menores, y el Director Regional del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol.
+
+Este Consejo tendrá carácter consultivo y asesorará al Intendente en la implementación y coordinación de la Política Nacional de Seguridad Pública Interior a nivel regional, provincial y local.
+
+Dicho Consejo se reunirá a lo menos una vez por semestre.
+
+El Consejo contará con un Secretario Ejecutivo designado por el Intendente, a quien le corresponderá coordinar las acciones del Consejo en la aplicación de la Política de Seguridad Pública Interior. El Secretario Ejecutivo levantará acta de las sesiones del Consejo y enviará copia de las mismas al Subsecretario de Prevención del Delito.
 
 ## Título IV
 
@@ -170,9 +182,11 @@ Del Personal
 
 #### Artículo 17
 
-El personal de planta y a contrata del Ministerio del Interior estará afecto a las disposiciones de la ley N° 18.834, sobre Estatuto Administrativo; al régimen de remuneraciones del decreto ley N° 249, de 1974, y su legislación complementaria, y al decreto ley N° 3.500, de 1980, que establece un nuevo sistema de pensiones.
+El personal de planta y a contrata del Ministerio del Interior y Seguridad Pública estará afecto a las disposiciones de la ley N° 18.834, sobre Estatuto Administrativo; al régimen de remuneraciones del decreto ley N° 249, de 1974, y su legislación complementaria, y al decreto ley N° 3.500, de 1980, que establece un nuevo sistema de pensiones.
 
-El personal de la Subsecretaría del Interior estará conformado por los funcionarios que integran su planta de personal establecida por el decreto con fuerza de ley N° 1- 18.834, del Ministerio del Interior, de 1990 y por los funcionarios a contrata asimilados a dicha planta.
+El personal de la Subsecretaría del Interior estará conformado por los funcionarios que integran su planta de personal establecida por el decreto con fuerza de ley N° 1- 18.834, del Ministerio del Interior, de 1990; por los funcionarios de las Subsecretarías de Carabineros e Investigaciones que pasen a integrarla conforme a las reglas establecidas en esta ley; por los funcionarios a contrata asimilados a dicha planta, y por el personal de las Fuerzas de Orden y Seguridad Pública destinado a prestar servicios a requerimiento del Ministro del Interior y Seguridad Pública o del Subsecretario del Interior.
+
+El personal de las Fuerzas de Orden y Seguridad Pública destinado a prestar servicios en la Subsecretaría del Interior percibirá, exclusivamente, las remuneraciones que les correspondan como miembros de las respectivas instituciones.
 
 ## Título V
 
@@ -180,7 +194,7 @@ Del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Droga
 
 #### Artículo 18
 
-Créase el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, servicio público descentralizado, dotado de personalidad jurídica y patrimonio propio, sometido a la supervigilancia del Presidente de la República por intermedio del Ministerio del Interior.
+Créase el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, servicio público descentralizado, dotado de personalidad jurídica y patrimonio propio, sometido a la supervigilancia del Presidente de la República por intermedio del Ministerio del Interior y Seguridad Pública.
 
 El Servicio estará sujeto a las normas del Sistema de Alta Dirección Pública establecido en la ley N° 19.882.
 
@@ -194,7 +208,7 @@ En cumplimiento de dicho objeto corresponderá al Servicio:
 
 a) Ejecutar las políticas y programas propias de su objeto.
 
-b) Colaborar con el Ministro o la Ministra de Seguridad Pública, y con el Subsecretario o la Subsecretaria de Prevención del Delito, en el ámbito de sus atribuciones, en la elaboración de políticas en materia de prevención del consumo de estupefacientes, sustancias psicotrópicas e ingestión abusiva de alcohol, y de tratamiento, rehabilitación y reinserción social de las personas afectadas por dichos estupefacientes y sustancias psicotrópicas, cuando estas conductas constituyan un factor de riesgo para la comisión de delitos.
+b) Colaborar con el Ministro del Interior y Seguridad Pública, y con el Subsecretario de Prevención del Delito, en el ámbito de sus atribuciones, en la elaboración de políticas en materia de prevención del consumo de estupefacientes, sustancias psicotrópicas e ingestión abusiva de alcohol, y de tratamiento, rehabilitación y reinserción social de las personas afectadas por dichos estupefacientes y sustancias psicotrópicas, cuando estas conductas constituyan un factor de riesgo para la comisión de delitos.
 
 c) Impulsar y apoyar, técnica y financieramente, programas, proyectos y actividades de Ministerios o Servicios Públicos destinados a la prevención del consumo de drogas y alcohol, así como al tratamiento, rehabilitación y reinserción social de las personas afectadas por la drogadicción y el alcoholismo, y ejecutarlos, en su caso.
 
@@ -202,7 +216,7 @@ d) Elaborar una estrategia nacional de prevención del consumo de drogas y alcoh
 
 e) Administrar el fondo establecido por el artículo 46 de la ley Nº 20.000.
 
-f) Vincularse con organismos nacionales que se ocupen de temas propios de su competencia, y celebrar con ellos acuerdos y convenios para realizar proyectos de interés común. Con el mismo propósito podrá también, previa autorización del Ministerio del Interior, relacionarse con organismos internacionales.
+f) Vincularse con organismos nacionales que se ocupen de temas propios de su competencia, y celebrar con ellos acuerdos y convenios para realizar proyectos de interés común. Con el mismo propósito podrá también, previa autorización del Ministerio del Interior y Seguridad Pública, relacionarse con organismos internacionales.
 
 g) Elaborar, aprobar y desarrollar programas de capacitación y difusión, orientados a la prevención del consumo de drogas y alcohol, y estimular la participación ciudadana en estas materias.
 
@@ -210,11 +224,9 @@ h) Certificar, de acuerdo a criterios técnicos, los proyectos cuyo financiamien
 
 i) Mantener una base de datos actualizada y pública que contenga información sobre los objetivos, metas comprometidas, entidades beneficiadas, presupuestos y acciones realizadas durante la ejecución y evaluación de los planes y programas del Servicio, y recopilar, sistematizar y analizar los antecedentes relevantes sobre el fenómeno de las drogas y el alcohol.
 
-j) Celebrar acuerdos o convenios con instituciones públicas o privadas, nacionales o internacionales, incluyendo las municipalidades, que permitan la ejecución, análisis, evaluación o implementación de políticas, planes y programas de prevención del consumo de drogas y alcohol, así como el tratamiento, rehabilitación y reinserción social de las personas afectadas por la drogadicción y el alcoholismo.
+j) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la ejecución de las políticas, planes y programas de prevención del consumo de drogas y alcohol, así como el tratamiento, rehabilitación y reinserción social de las personas afectadas por la drogadicción y el alcoholismo.
 
-k) Administrar los bienes inmuebles incautados que el juez de garantía destine provisoriamente al Servicio, y rendir cuenta de su gestión a dicho juez a lo menos trimestralmente.
-
-l) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
+k) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
 
 #### Artículo 20
 

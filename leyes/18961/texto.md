@@ -26,7 +26,9 @@ Corresponderá exclusivamente a la Institución y a su personal el uso del emble
 
 #### Artículo 3°
 
-Carabineros de Chile podrá establecer los servicios policiales que estime necesarios para el cumplimiento de sus finalidades específicas, de acuerdo con la Constitución Política y la ley.
+Carabineros de Chile podrá establecer los servicios policiales que estime necesarios para el cumplimiento de sus finalidades específicas, de acuerdo con la Constitución Política y la legislación respectiva.
+
+En todo caso, y en cumplimiento de la función constitucional de garantizar el orden público y la seguridad pública interior, la distribución del personal y de los medios asociados al establecimiento de servicios policiales deberá ser informada en forma global, al menos semestralmente, al Ministerio del Interior y Seguridad Pública. Un reglamento fijará el alcance de la desagregación de la información relativa a la distribución antes referida.
 
 Es misión esencial de la Institución desarrollar actividades tendientes a fortalecer su rol de policía preventiva.
 
@@ -122,7 +124,7 @@ El personal Civil de Nombramiento Supremo e Institucional ocupará plazas de gra
 
 #### Artículo 7°
 
-La Dirección General podrá contratar en forma temporal, y cuando las necesidades del servicio lo requieran, a profesionales, técnicos, administrativos y trabajadores a jornal o a trato, quienes quedarán sometidos a la jerarquía y disciplina de Carabineros de Chile y demás materias que determinen las leyes, en lo que sea pertinente.
+La Dirección General podrá contratar en forma temporal, cuando las necesidades del servicio lo requieran e informando semestralmente al Ministerio del Interior y Seguridad Pública, a profesionales, técnicos, administrativos y trabajadores a jornal o a trato, quienes quedarán sometidos a la jerarquía y disciplina de Carabineros de Chile y demás materias que determinen las leyes, en lo que sea pertinente.
 
 Este personal no integrará la Planta Institucional y sus remuneraciones u honorarios se pagarán con cargo a la ley de presupuestos, leyes especiales o con fondos propios de sus organismos internos.
 
@@ -182,7 +184,7 @@ El cambio de Escalafón procederá sólo en casos debidamente calificados por el
 
 #### Artículo 16
 
-El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República llamar al Servicio, hasta por un período de cinco años, a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determine el Estatuto del Personal. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director.
+El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República, informando al Ministerio del Interior y Seguridad Pública, llamar al Servicio, hasta por un período de cinco años, a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determine el Estatuto del Personal. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director.
 
 A propuesta del General Director, el Presidente de la República, mediante decreto supremo, establecerá el número de empleos y grados del personal de nombramiento supremo e institucional que podrá ser llamado al Servicio. Dicho decreto deberá contar, además, con la firma del Ministro de Hacienda.
 
@@ -194,7 +196,7 @@ Del Desarrollo Profesional
 
 #### Artículo 17
 
-Carabineros de Chile mantendrá un sistema de desarrollo profesional para todo el personal, tendiente a obtener, complementar, actualizar y perfeccionar sus conocimientos, destrezas y aptitudes, pudiendo además actuar como organismo técnico de capacitación.
+Carabineros de Chile mantendrá un sistema de desarrollo profesional para todo el personal, tendiente a obtener, complementar, actualizar y perfeccionar sus conocimientos, destrezas y aptitudes, el que se adaptará, a lo menos cada diez años, a las necesidades de seguridad pública interior y de mantención del orden público, como al cumplimiento de las demás funciones que le encomiendan la Constitución y la ley, pudiendo además actuar como organismo técnico de capacitación.
 
 #### Artículo 18
 
@@ -212,7 +214,7 @@ El personal que cuente con el respectivo patrocinio Institucional tendrá acceso
 
 El desarrollo profesional comprenderá cursos habilitantes para el ascenso, perfeccionamiento y especialización del personal.
 
-Para los fines precedentes, el General Director podrá celebrar convenios con instituciones públicas o privadas, nacionales o extranjeras.
+Para los fines precedentes, el General Director podrá celebrar convenios con instituciones públicas o privadas, nacionales o extranjeras, informando semestralmente al Ministerio del Interior y Seguridad Pública.
 
 #### Artículo 21
 
@@ -272,7 +274,13 @@ Los ascensos de los Oficiales y Empleados Civiles de Nombramiento Supremo se efe
 
 Los Oficiales Generales ascenderán por antigüedad; los Coroneles y Tenientes Coroneles, por mérito, y los demás Oficiales, por mérito y antigüedad.
 
-El General Director podrá disponer ascensos extraordinarios del personal de Nombramiento Institucional para premiar acciones de excepcional abnegación o como reconocimiento póstumo.
+El General Director podrá disponer ascensos extraordinarios del personal de Nombramiento Institucional para premiar acciones de excepcional abnegación o como reconocimiento póstumo. En los casos de fallecimiento de personal del grado de Suboficial de Carabineros, y de aquellos cuyo deceso ocurra con ocasión de un procedimiento estrictamente policial en que participe en cumplimiento de su deber, podrá ordenarse su promoción póstuma hasta el grado de Suboficial Mayor de Carabineros.
+
+Tratándose de Oficiales de Carabineros, esta promoción extraordinaria podrá disponerse como reconocimiento póstumo, mediante decreto supremo expedido por intermedio del Ministerio respectivo, a proposición del General Director, al grado inmediatamente superior al del empleo que se encontraba sirviendo el causante.
+
+En caso de que un Oficial resulte muerto o invalidado con ocasión de un procedimiento estrictamente policial en el que haya participado en el cumplimiento de su deber, el ascenso extraordinario podrá disponerse hasta en dos grados inmediatamente superiores al grado del empleo que se encontraba sirviendo el causante.
+
+El ascenso extraordinario de los Oficiales conforme a lo dispuesto en los incisos tercero y cuarto sólo se podrá cursar hasta el grado de General de Carabineros.
 
 El personal que no hubiere podido ascender por encontrarse sometido a proceso a sumario administrativo, recobrará todos sus derechos cuando una sentencia a firme lo absuelva o sobresea definitivamente o cuando la resolución final del sumario administrativo anule la sanción o imponga otra que no le impida ascender. En tal caso, al disponerse la promoción recuperará, para todos los efectos legales y reglamentarios, el tiempo que habría servido en su nuevo grado a no mediar la causal de impedimento.
 
@@ -530,7 +538,7 @@ La pensión de retiro se computará sobre la base del 100% de la última remuner
 
 La fracción de año correspondiente a cada mes completo se computará a razón de un doce avo de treinta avo y la fracción de seis meses o más se computará como año completo. Asimismo, la pensión se computará con trienio cumplido si al interesado le faltaren seis meses o menos para enterarlo al momento de hacer efectivo su retiro.
 
-La pensión de retiro del personal femenino con 25 años de servicios o 20 años de servicios y 55 años de edad, se calculará con un aumento de dos años si son viudas y de un año por cada hijo.
+La pensión de retiro del personal femenino con 25 años de servicios o 20 años de servicios y 55 años de edad, se calculará con un aumento de un año por cada hijo.
 
 El personal que se reincorpore al servicio en su mismo empleo o plaza, pierde el goce de la pensión de retiro concedida, pero tiene derecho a que el tiempo anterior de servicios le sea abonado para lo efectos de su posterior retiro.
 
@@ -562,13 +570,13 @@ Cabo 2°.
 
 #### Artículo 61
 
-Son servicios efectivos en Carabineros los prestados por el personal en cualquiera de las Instituciones de la Defensa Nacional en el ejercicio activo de sus respectivos empleos, afectos a la Dirección de Previsión de Carabineros o Caja de Previsión de la Defensa Nacional o en las comisiones que el Presidente de la República le confíe, aunque sean ajenas a las funciones de dichos empleos.
+Son servicios efectivos en Carabineros los prestados por el personal en cualquiera de las Instituciones de la Defensa Nacional o de las Fuerzas de Orden y Seguridad Pública en el ejercicio activo de sus respectivos empleos, afectos a la Dirección de Previsión de Carabineros o Caja de Previsión de la Defensa Nacional o en las comisiones que el Presidente de la República le confíe, aunque sean ajenas a las funciones de dichos empleos.
 
-Asimismo, serán servicios efectivos todo el tiempo de permanencia como Aspirante a Oficial en la Escuela de Carabineros y como Carabinero Alumno en los planteles de formación institucional; el primer año de estudio en las Escuelas Institucionales de las Fuerzas Armadas, aprobado con Valer Militar, respecto de quienes ingresen a dichas escuelas sin haber hecho el Servicio Militar; los dos últimos años de estudio en la Escuela Militar, Naval, de Aviación, de Servicio Femenino Militar, de la Policía de Investigaciones, de las Escuelas de Ingenieros de la Armada y Pilotines, Escuela de Suboficiales, de Armas en el Ejército, la Escuela de Grumetes, la Escuela de Artesanos y otras en que funcionen cursos de grumetes de la Armada y la Escuela de Especialidades de la Fuerza Aérea, o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido en el respectivo establecimiento, y el tiempo servido como conscripto y aprendiz de las Fuerzas Armadas.
+Asimismo, serán servicios efectivos todo el tiempo de permanencia como Aspirante a Oficial en la Escuela de Carabineros y como Carabinero Alumno en los planteles de formación institucional; el primer año de estudio en las Escuelas Institucionales de las Fuerzas Armadas, aprobado con Valer Militar, respecto de quienes ingresen a dichas escuelas sin haber hecho el Servicio Militar; los dos últimos años de estudio en la Escuela Militar, Naval, de Aviación, de Servicio Femenino Militar, de la Policía de Investigaciones, de las Escuelas de Ingenieros de la Armada y Pilotines, Escuela de Suboficiales, de Armas en el Ejército, la Escuela de Grumetes, la Escuela de Artesanos y otras en que funcionen cursos de grumetes de la Armada y la Escuela de Especialidades de la Fuerza Aérea, o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido en el respectivo establecimiento, y el tiempo servido como conscripto y aprendiz de las Fuerzas Armadas, siempre que dichos períodos hayan sido cotizados en la Caja de Previsión de la Defensa Nacional o Dirección de Previsión de Carabineros de Chile, según corresponda.
 
-Se considerarán también servicios efectivos los dos últimos años o 4 últimos semestres de estudios profesionales de los Oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria y del Servicio Religioso de los escalafones de Carabineros. Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre el sueldo base del grado 14 de la escala de sueldos de Carabineros.
+El tiempo computable en las calidades mencionadas en el inciso anterior no podrá exceder, en ningún caso, de tres años en total.
 
-El tiempo computable en las calidades mencionadas en los dos incisos anteriores no podrá exceder, en ningún caso, de tres años en total.
+> **Nota.** El N° 4 del Artículo 9° de la Ley 20735, publicada el 12.03.2014, deroga el inciso tercero de la presente norma.
 
 #### Artículo 62
 
@@ -579,6 +587,8 @@ Serán, asimismo, computables los servicios válidamente prestados en cualquier 
 Se computarán igualmente para el retiro los años de abonos otorgados al personal por accidentes sufridos en actos del servicio.
 
 También se computará el tiempo reconocido en conformidad a la ley N° 10.986, sobre continuidad de la previsión y el declarado compatible para el retiro o jubilación para todos los efectos legales por cualquier ley de carácter general o particular.
+
+Se considerarán servicios computables los dos últimos años o cuatro últimos semestres de estudios profesionales de los Oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria, Servicio Religioso, de los Escalafones de Carabineros. Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre el sueldo base del grado 14 de la escala de sueldos de Carabineros.
 
 Los servicios a que se refiere este artículo no se computarán para completar los veinte años de servicios efectivos requeridos para impetrar pensión de retiro.
 
@@ -664,27 +674,39 @@ Del Montepío e Indemnizaciones.
 
 Al montepío tienen derecho los siguientes asignatarios del causante:
 
-En primer grado, la viuda o, en su caso, el viudo que siendo inválido absoluto o mayor de sesenta y cinco años no perciba pensión o rentas de ninguna naturaleza;
+En primer grado, la viuda o el viudo.
 
-En segundo grado, los hijos legítimos y naturales;
+El o la cónyuge sobreviviente de un pensionado, para ser beneficiario de pensión de montepío, debe haber contraído matrimonio con el causante a lo menos con tres años de anterioridad a la fecha de su fallecimiento. Esta limitación no se aplicará si a la época del fallecimiento existieren hijos comunes o si la cónyuge se encontrare embarazada, o si el causante falleciere en acto determinado del servicio.
 
-En tercer grado, el padre legítimo inválido absoluto o mayor de sesenta y cinco años;
+En segundo grado, los hijos.
 
-En cuarto grado, la madre legítima viuda, o la madre natural, sea soltera o viuda;
+Los hijos e hijas, para ser beneficiarios de montepío, deberán ser solteros y cumplir uno de los siguientes requisitos:
 
-En quinto grado, las hermanas solteras huérfanas, menores de veintiún años de edad o de veintitrés años si fueren estudiantes, cuyos medios propios de vida sean iguales o inferiores a una suma equivalente en ingresos mínimos a un sueldo vital y medio mensual de la Región Metropolitana de Santiago vigente al 14 de agosto de 1981.
+a) Ser menores de 18 años de edad.
 
-Los asignatarios de montepío, a excepción de los de primer grado, percibirán su pensión respectiva disminuída en un veinticinco por ciento. La cuota anual inferior a una suma equivalente en ingresos mínimos a dos sueldos vitales mensuales de la Región Metropolitana de Santiago, vigentes al 14 de agosto de 1981, no estará afecta a esta restricción.
+b) Ser mayores de 18 años de edad y menores de 24, si son estudiantes de cursos regulares de enseñanza básica, media, técnica o superior. La calidad de estudiante deberá tenerla a la fecha del fallecimiento del causante o adquirirla antes de los 24 años de edad.
 
-Si el causante de montepío dejare viuda o viudo con derecho a montepío e hijos legítimos de anteriores matrimonios o hijos naturales, la pensión se distribuirá entre aquélla, aquél y éstos, en la forma que se determine por la resolución ministerial.
+c) Ser inválido o incapaz absoluto, cualquiera sea su edad. Para estos efectos, la invalidez o incapacidad absoluta puede producirse después del fallecimiento del causante, pero antes de que cumplan las edades máximas establecidas en las letras a) o b) de este inciso, según corresponda.
 
-Para los efectos de este artículo, la madre legítima anulada de matrimonio y no vuelta a casar, será considerada como madre viuda.
+La invalidez de los asignatarios de montepío será declarada como tal sólo cuando sea acreditada por la Comisión Médica o de Sanidad competente de la Institución a que pertenecía el causante.
 
-Al personal soltero sin hijos que falleciere a consecuencia de un acto del servicio y cuyo padre legítimo no pudiere gozar del montepío por no reunir las condiciones exigidas por la ley, le sucederá la madre legítima aún cuando estuviere casada con aquél. A falta de ésta le sucederán los hermanos solteros huérfanos hasta que cumplan 21 años de edad o 23 años si fueren estudiantes, a menos que acreditaren invalidez o incapacidad absoluta.
+En tercer grado, los padres, siempre que a la época del fallecimiento del imponente sean causantes de asignación familiar, reconocidos por el organismo competente.
 
-Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ella por partes iguales. No obstante, si entre los asignatarios hubiere alguno afectado por una invalidez o incapacidad absoluta, podrá establecerse por resolución ministerial una forma especial de distribución.
+A falta de viuda o viudo con derecho a montepío, sucederán los hijos; a falta de éstos, los padres causantes de asignación familiar.
 
-Se entiende que a falta de la cónyuge viuda o, en su caso, del viudo que, siendo inválido absoluto o mayor de sesenta y cinco años, no perciba pensión o rentas de ninguna naturaleza, suceden los hijos legítimos y naturales y, a falta de éstos, los demás asignatarios, de acuerdo con el orden de precedencia indicado en este artículo.
+Los asignatarios de los grados segundo y tercero percibirán su pensión disminuida en un veinticinco por ciento.
+
+Si el causante dejare viuda o viudo con derecho a montepío e hijos de anteriores matrimonios o no matrimoniales, la pensión se distribuirá entre aquélla, aquél y éstos, en la siguiente forma:
+
+a) Cada hijo de anteriores matrimonios o no matrimoniales recibirá la proporción de la pensión que le hubiese correspondido a la viuda o viudo, de no haber existido estos hijos, determinada como el cociente entre el 40% y el número total de asignatarios del segundo grado.
+
+b) La viuda o viudo recibirá el 100% de la pensión de montepío, a menos que existan hijos de anteriores matrimonios o no matrimoniales, en cuyo caso el porcentaje de la pensión de montepío que corresponda aplicar será determinado conforme a lo señalado en la letra a) precedente.
+
+En el caso del personal soltero o divorciado, sin hijos, que fallezca a consecuencia de un acto determinado del servicio, tendrán derecho a montepío los padres.
+
+Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales.
+
+El personal que fallezca en servicio activo dará derecho a sus asignatarios de montepío a percibir, de acuerdo al grado de precedencia antedicho, el sueldo y demás remuneraciones de que haya disfrutado hasta la fecha del cese respectivo, el que se expedirá de inmediato después de otorgado el montepío o, a más tardar, dentro de los noventa días siguientes. La resolución que otorgue el montepío deberá dictarse dentro del plazo de seis meses contados desde la fecha del fallecimiento.
 
 #### Artículo 71
 
@@ -828,7 +850,7 @@ Con todo, el gasto que demande la ejecución de actividades provenientes de situ
 
 #### Artículo 89
 
-(93).- De los gastos netamente policiales, calificados como tales en la Ley de Presupuestos a proposición del General Director, que se efectúen dentro de su Presupuesto de Gastos, tanto en moneda nacional o extranjera, deberá rendirse cuenta en forma reservada.
+(93).- De los gastos netamente policiales, calificados como tales en la Ley de Presupuestos a proposición del General Director, que se efectúen dentro de su Presupuesto de Gastos, tanto en moneda nacional o extranjera, deberá rendirse cuenta en forma reservada al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, sin perjuicio de las obligaciones de rendición e información existentes en otros cuerpos legales.
 
 Los gastos reservados cuyos montos serán fijados anualmente, no podrán ser inferiores a los decretados inicialmente para tal efecto en el año 1989, actualizados mediante el procedimiento establecido en el artículo 88 de la presente ley. Dichos gastos serán fijados por decreto supremo, expedido por el Ministro del Interior y Seguridad Pública y suscrito, además, por el Ministro de Hacienda y tendrá la sola obligación de rendir cuenta en forma global y reservada, mediante Certificados de Buena Inversión.
 

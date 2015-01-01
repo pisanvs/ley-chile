@@ -986,6 +986,12 @@ El pago de la presente gratificación se materializará mediante la dictación a
 
 Esta asignación de carácter no imponible, no se considerará para el cálculo de la asignación de zona y será compatible con los sobresueldos establecidos en el artículo 48, letras a), b), y e), e incompatible con todas las gratificaciones de este artículo.
 
+g) De Protección de Autoridades: El personal de fila de Orden y Seguridad que, siendo de dotación del Grupo Guardia de Palacio, del Grupo Escolta Presidencial, del Departamento Seguridad Presidencial y del Departamento Protección Personas Importantes (PPI), cumpla efectivamente servicios de conformidad con lo dispuesto en el inciso sexto del artículo 3º de la ley Nº18.961, orgánica constitucional de Carabineros de Chile, podrá percibir una gratificación especial equivalente al 20 por ciento del sueldo base más la diferencia por goce de sueldos superiores.
+
+El pago de la presente gratificación se materializará a través de un decreto anual del Ministerio del Interior y Seguridad Pública, expedido bajo la fórmula "Por orden del Presidente de la República" y, además, suscrito por el Ministro de Hacienda, donde se establecerá la dotación y número de beneficiarios por cada una de las unidades señaladas en el inciso anterior.
+
+La presente gratificación no será imponible, no se considerará para el cálculo de la asignación de zona, será compatible con los sobresueldos establecidos en las letras a), b) y e) del artículo 48º, e incompatible con las demás gratificaciones de este artículo.
+
 #### Artículo 52°
 
 DEROGADO
