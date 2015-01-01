@@ -52,17 +52,17 @@ Todas las piezas que forman el expediente disciplinario se irán agregando suces
 
 Las observaciones deberán ser precisas y concretas, encontrarse debidamente fundamentadas, indicarse los hechos constitutivos de la o las infracciones que se imputan al interesado, la norma legal, reglamentaria o instrucción que se da por infringida, la forma cómo tales hechos han afectado los deberes que establece la normativa vulnerada y la participación que le cabría al interesado.
 
-Las observaciones serán notificadas al interesado conforme al artículo 20.
+Las observaciones serán notificadas al interesado conforme al artículo 16.
 
 #### Artículo 5
 
-El interesado tendrá el plazo de 10 días, contado desde la notificación de las observaciones, para aceptarlas o para efectuar los descargos que considere pertinentes.
+El interesado tendrá el plazo de 10 días, contado desde la notificación de las observaciones, para aceptarlas o para efectuar los descargos que considere pertinentes. Este plazo podrá prorrogarse hasta por 5 días, a solicitud fundada del interesado.
 
 Si el interesado no formula descargos o acepta las observaciones, el Jefe del Departamento de Fiscalización emitirá un informe consignando este hecho y remitirá el expediente disciplinario al Director Regional o Administrador de Aduana respectivo, quien lo enviará al Director Nacional, proponiendo fundadamente la sanción que corresponda.
 
 #### Artículo 6
 
-Al contestar las observaciones, el afectado podrá acompañar todos los antecedentes y documentos en que fundamenta su defensa.
+Al contestar las observaciones, el afectado podrá acompañar todos los antecedentes y documentos en que fundamenta su defensa. Asimismo, si lo estimare, podrá renunciar al término probatorio a que se refiere el artículo 7 siguiente, debiendo señalarlo de manera expresa, caso en que se deberá proceder de conformidad al artículo 9.
 
 #### Artículo 7
 
@@ -72,11 +72,13 @@ El Departamento de Fiscalización de la Dirección Regional o el Administrador d
 
 #### Artículo 8
 
-La prueba se apreciará conforme a las reglas de la sana crítica y sólo será admisible la prueba documental y pericial.
+La prueba se apreciará en conciencia y el interesado podrá rendir las pruebas que estime necesarias para su defensa. Lo anterior, sin perjuicio de la facultad del Jefe del Departamento de Fiscalización de la Dirección Regional o Administración de Aduana respectiva de rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada.
+
+En aquellos casos en que proceda prueba testimonial, ésta deberá rendirse mediante declaración jurada ante Notario Público o un Oficial del Registro Civil donde no hubiere notaría.
 
 #### Artículo 9
 
-Vencido el término probatorio, el Jefe del Departamento de Fiscalización, en el plazo de 30 días, remitirá un informe, visado por el Departamento Jurídico o el asesor jurídico, según proceda, al Director Regional o Administrador de Aduana respectivo, debiendo contener una exposición breve de los hechos investigados, una síntesis de las alegaciones, pruebas rendidas y las consideraciones de hecho y de derecho que sean necesarias para la resolución del asunto.
+Vencido el término probatorio, el Jefe del Departamento de Fiscalización, en el plazo de 30 días, remitirá un informe, visado por el Departamento Jurídico o el asesor jurídico, según proceda, con indicación de la fecha, nombre y firma del abogado revisor, al Director Regional o Administrador de Aduana respectivo, debiendo contener una exposición breve de los hechos investigados, una síntesis de las alegaciones, pruebas rendidas y las consideraciones de hecho y de derecho que sean necesarias para la resolución del asunto.
 
 #### Artículo 10
 
@@ -88,7 +90,7 @@ Medidas disciplinarias
 
 La Subdirección de Fiscalización analizará las propuestas formuladas por el Director Regional o Administrador de Aduana respectivo, pudiendo instruir las diligencias que considere pertinentes.
 
-No obstante lo anterior, la Subdirección de Fiscalización podrá devolver el expediente disciplinario a la Dirección Regional o a la Administración de Aduana que proceda, en caso de incumplimiento del procedimiento a que se refieren los artículos anteriores, a objeto se subsanen las falencias que se detecten.
+No obstante lo anterior, la Subdirección de Fiscalización podrá devolver el expediente disciplinario a la Dirección Regional o a la Administración de Aduana que proceda, en caso de incumplimiento del procedimiento a que se refieren los artículos anteriores, a objeto se subsanen las falencias que se detecten, las que deberán ser evacuadas en el plazo de 10 días, contados desde su recepción.
 
 #### Artículo 12
 
@@ -114,9 +116,9 @@ Salvo caso fortuito o fuerza mayor, el procedimiento a que se refiere la present
 
 #### Artículo 16
 
-Las notificaciones que se realicen de acuerdo al procedimiento a que se refiere la presente resolución se harán por escrito, por carta certificada, dirigida al domicilio que el interesado hubiere designado en su primera presentación o con posterioridad. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de correos que corresponda.
+Las notificaciones que se realicen de acuerdo al procedimiento a que se refiere la presente resolución se harán por escrito, por carta certificada, dirigida al domicilio que el interesado hubiere designado en su primera presentación o con posterioridad a ella, y en su defecto, al que conste en los Registros de la Aduana. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de correos que corresponda.
 
-Las notificaciones podrán, también, hacerse de modo personal por medio de un funcionario de aduanas, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio del interesado, dejando constancia de tal hecho.
+Las notificaciones podrán, también, hacerse de modo personal por medio de un funcionario de aduanas, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio que corresponda, de conformidad a lo dispuesto en el inciso anterior, dejando constancia de tal hecho.
 
 Asimismo, las notificaciones podrán hacerse en las oficinas del Servicio Nacional de Aduanas, si el interesado se apersonare a recibirla, firmando en el expediente la debida recepción. Si el interesado requiriera copia del acto o resolución que se le notifica, se le dará sin más trámite en el mismo momento.
 
