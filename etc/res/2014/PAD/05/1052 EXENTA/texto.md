@@ -1,0 +1,11 @@
+RESOLUCIÓN QUE ORDENA INSTRUIR PROCEDIMIENTO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2014/PAD/05/1052, de fecha 30 de octubre de 2014, ordenó instruir proceso administrativo al Establecimiento Educacional Centro Educacional para Párvulos Happy Kids, R.B.D. 14.855-5, comuna de San Antonio, ubicado en calle El Ancla Nº 850, San Antonio, cuyo sostenedor es la Sociedad Benavente y Soto Limitada, RUT 76.083.844-6, cuyo representante legal es don Luis Benavente Bustos, RUT 12.054.864-6, por presuntas contravenciones a la normativa educacional, designando fiscal investigador, formulando cargo y otorgando un plazo para presentar descargos. 1.- Que, a través de Acta de Fiscalización Nº 140502346, de fecha 9 de octubre de 2014, se constataron los hechos que configuran presuntas contravenciones a la normativa educacional. 2.- Que conforme los antecedentes que constan el proceso, se ordenó instruir proceso a por el siguiente cargo: Cargo 1: Número de Hallazgo y Sustento: 24.00: Establecimiento no utiliza la subvención en el propósito determinado por la ley o convenio suscrito. Normas transgredidas: Artículos 6, 7 y 34 de la ley 20.248; 24, 25, 26 y 27 del decreto 235; 10 letra
+
+- **f)** del DFL 2 de 2009; 50 del DFL 2 de 1998; 5 del decreto 469 de 2013, todos del Ministerio de Educación. Tipo Infraccional: Infracción Grave, vulnerando el artículo 50 inciso tercero letra
+
+- **g)** del DFL 2 de 1998 del Ministerio de Educación, en relación al artículo 76 letra
+
+- **h)** de la ley 20.529 y a lo prescrito en el artículo 34 de la ley 20.248. 3.- Desígnese Fiscal Instructor a don José Gastón Vela-Ruiz Costa, Fiscal de la Dirección Regional de la Superintendencia de Educación, Región de Valparaíso. 4.- Se deja constancia que el sostenedor dispone, de acuerdo a lo prescrito en el artículo 70 de la ley Nº 20.529, de un plazo de diez días hábiles, contado desde la fecha de notificación, para presentar sus descargos y los medios de prueba que estime pertinentes ante la Fiscalía de la dirección regional, ubicada en calle Limache Nº 3405, piso 10, comuna de Viña del Mar.
+
+Rosa Lozano Riquelme, Directora Regional (PT), Superintendencia de Educación Región de Valparaíso.
