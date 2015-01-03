@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES QUE RECTIFICAN PUBLICACIONES QUE INDICAN Y ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.456, de fecha 17 de diciembre de 2014, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº1, correspondiente al inmueble ubicado en Panamericana Norte con Avda. José María Caro, Rol de Avalúo sin rol, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Instituto Nacional del Deporte, con una superficie aproximada de 9.857.761,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Proyecto Habitacional Ind Cancha 3". La Comisión de Peritos integrada por los señores Leonardo Bastías Tessada, constructor civil; Claudio Castro Araya, constructor civil y Itsang Lu Chen, arquitecto, mediante Informe de fecha 14 de noviembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $823.350.197, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director (T. y P.) Serviu Metropolitano.
