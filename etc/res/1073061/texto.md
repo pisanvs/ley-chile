@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES QUE RECTIFICAN PUBLICACIONES QUE INDICAN Y ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Rectifica publicación efectuada con fecha 15 de diciembre de 2014, en el sentido que indica a continuación. Por resolución exenta Nº 7.082, de fecha 3 de diciembre de 2014, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 34, correspondiente al inmueble ubicado en José Fco Vergara 011, Rol de Avalúo Nº 25-27, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Valenzuela González Luis, con una superficie aproximada de 207,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Ampliación Avenida San Martín". La Comisión de Peritos integrada por los señores Mónica Conejeros Rudloff, ingeniero agrónomo; Ivanka Aliaga Jofré, constructor civil y Andrés Echeverría Campo, ingeniero agrónomo, mediante Informe de fecha 1 de diciembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $127.483.065, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director (T. y P.) Serviu Metropolitano.
