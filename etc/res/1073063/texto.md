@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES QUE RECTIFICAN PUBLICACIONES QUE INDICAN Y ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Rectifica publicación efectuada con fecha 15 de diciembre de 2014, en el sentido que indica a continuación. Por resolución exenta N° 7.092 de fecha, 3 de diciembre de 2014, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 29-2, correspondiente al inmueble ubicado en San Luis 032 San Luis, Rol de Avalúo Nº 111-29, de la comuna de Quilicura, Región Metropolitana, de aparente dominio de Olivares Alarcón Rodolfo, con una superficie aproximada de 67,07 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Ampliación Avenida San Martín". La Comisión de Peritos integrada por los señores Paola Domingo Porcella, constructor civil; Loreto Isabel Hernández Ríos, ingeniero agrónomo y Daniel Zamudio Wehrhahn, ingeniero civil, mediante Informe de fecha 1 de diciembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $35.454.750, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director (T. y P.) Serviu Metropolitano.
