@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES QUE RECTIFICAN PUBLICACIONES QUE INDICAN Y ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.458, de fecha 17 de diciembre de 2014, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº1, correspondiente al inmueble ubicado en San Alfonso 2141 M. San Eugenio, Rol de Avalúo Nº1481-27, de la comuna de Estación Central Región Metropolitana, de aparente dominio de Inmobiliaria Nueva Vía S A, con una superficie aproximada de 26.104,10 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Proyecto Habitacional Maestranza San Eugenio". La Comisión de Peritos integrada por los señores Lorena Gajardo Alarcón, Ingeniero Constructor; Fernando Senerman Mandel, Arquitecto y Soledad Herrera Zúñiga, Ingeniero Civil, mediante Informe de fecha 18 de noviembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.869.818.755, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director (T. y P.) Serviu Metropolitano
