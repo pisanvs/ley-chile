@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.389, de 15 de diciembre de 2014, de esta Subsecretaría, modifícase el inciso 1º del numeral 3º de la resolución exenta Nº 1.829, de 2014, que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación directa de langostino amarillo y langostino colorado entre la II y la VIII regiones, año 2014", en el sentido de señalar que el estudio se extenderá hasta el 31 de diciembre de 2014, inclusive.
+
+Valparaíso, 15 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
