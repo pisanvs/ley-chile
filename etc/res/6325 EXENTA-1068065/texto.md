@@ -16,7 +16,7 @@ Considerando: Que existen familias de la Región de Arica y Parinacota que prese
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región de Arica y Parinacota para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, por un monto total de 280.832 Unidades de Fomento.
+1. Autorízase a la Secretaría Regional Ministerial de la Región de Arica y Parinacota para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, por un monto total de 273.471,15 Unidades de Fomento.
 
 2. Los grupos postulantes a este llamado deberán ser ingresados a la plataforma informática que este Ministerio ha dispuesto para dichos efectos debiendo quedar en estado Hábil con anterioridad al cierre de dicho llamado, el que no podrá superar el 15 de noviembre de 2014.
 
@@ -28,7 +28,7 @@ Resolución:
 
 6. Mediante resolución de la Secretaría Regional Ministerial de la Región de Arica y Parinacota, que se deberá publicar en el Diario Oficial, se aprobará la nómina de grupos seleccionados, la que deberá ser informada con fecha máxima al 30 de noviembre de 2014, a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-7. Impútase el monto total de 280.832 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Arica y Parinacota, para el Programa Fondo Solidario de Elección de Vivienda del año 2014.
+7. Impútase el monto total de 273.471,15 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Arica y Parinacota, para el Programa Fondo Solidario de Elección de Vivienda del año 2014.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
