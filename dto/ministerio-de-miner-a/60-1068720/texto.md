@@ -50,7 +50,7 @@ La Comisión estará integrada por las siguientes personas:
 
 15. José Manuel Riesco Larraín, C.I: 4.773.788-5
 
-16. Ana Lya Del Carmen Uriarte Rodríguez, C.I: 7.515.870-K
+16. Valentina Alejandra Durán Medina, Cédula Nacional de Identidad Número: 7.931.778-0.
 
 17. María Daniela Desormeaux Rojas, C.I: 13.433.604-8
 
