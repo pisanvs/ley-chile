@@ -36,9 +36,9 @@ Resolución:
 
 1. Llámese a postulación a los Condominios de Viviendas Sociales afectados por el sismo del 1 y 2 de abril de 2014, emplazados en la región de Tarapacá, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes; del Título II Mejoramiento de la Vivienda, letras b, 1), b. 2), b. 3) y b. 4) del artículo 5º del DS Nº 255 (V. y U.) de 2006 y sus modificaciones, y del DS Nº 332 (V. y U.) de 2000, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 05 de diciembre de 2014.
+Primera selección: 22 de diciembre de 2014.
 
-Segunda selección: 19 de diciembre de 2014
+Segunda selección: 31 de diciembre de 2014.
 
 2. La postulación a este llamado se hará de forma colectiva, mediante subsidio a la comunidad de copropietarios. Dicho beneficio se asociará al RUT de la Copropiedad y Roles de las unidades que componen el proyecto. Se entenderá como copropiedad formalizada, a aquella que cuente con un reglamento y comité de administración. De no estar formalizadas, Serviu designará un Administrador Provisional, mediante resolución, validada por las familias beneficiarias.
 
@@ -86,7 +86,7 @@ Los proyectos posibles de atender son:
 
 3.2.3 Proyecto de Mejoramiento de Bienes Comunes Edificados: Se considera en este caso sólo reparaciones de bienes comunes edificados distintas a las señaladas en el punto 3.1.2, tales como techumbre o fachada dañados.
 
-4. Los recursos disponibles para este llamado son 205.000 UF.
+4. Los recursos disponibles para este llamado son 300.000 UF.
 
 5. El número de proyectos seleccionados en la Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles.
 
@@ -150,7 +150,7 @@ El listado de proyectos seleccionados será priorizado conforme a esta tabla por
 
 .
 
-Con todo, el Seremi, mediante resolución fundada y si la disponibilidad presupuestaria lo permite, podrá otorgar un complemento extraordinario al monto de subsidio establecido en la tabla anterior, de hasta 100 UF por unidad, en el caso que el condominio de viviendas sociales beneficiado requiera reparaciones calificadas como necesarias por un profesional de la Seremi, como por ejemplo en sus fundaciones y/o redes de servicios.
+Con todo, el Seremi, mediante resolución fundada y si la disponibilidad presupuestaria lo permite, podrá otorgar un complemento extraordinario al monto de subsidio establecido en la tabla anterior para daño mayor, de hasta 100 UF por unidad, y de hasta 50 UF al monto de subsidio establecido en la tabla anterior para daño menor, en el caso que el condominio de viviendas sociales beneficiado requiera reparaciones calificadas como necesarias por un profesional de la Seremi. Se entenderán reparaciones necesarias, en el caso del complemento extraordinario del daño mayor, las que se requieran, por ejemplo, en sus fundaciones y/o redes de servicios.
 
 15. En este llamado se encontrarán habilitadas para postular proyectos las PSAT con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región de Tarapacá, deberán previamente suscribir un addendum al convenio celebrado con alguna de las Seremi de Vivienda y Urbanismo del país que lo mantenga vigente, en el que se dejará constancia de la habilitación para postular proyectos a este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Además, deberá acreditar ante la Seremi que cuenta con oficinas adecuadas para la atención personalizada de público en esta Región. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente, pese a lo cual el Municipio deberá acreditar ante Serviu que cuenta con las capacidades suficientes para otorgar la asistencia técnica a las familias damnificadas.
 
