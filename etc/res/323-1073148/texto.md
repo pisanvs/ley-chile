@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE SEGUROS DE VIDA SURA S.A.
+
+Certifico: Que por resolución exenta Nº 323, de fecha 30 de diciembre de 2014, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Seguros de Vida Sura S.A., acordada en juntas extraordinarias de accionistas de 24 de septiembre de 2014, reducida a escritura pública el 26 de ese mes, y 24 de noviembre de 2014, reducida a escritura pública el 26 de ese mes, complementadas por escritura pública de 16 de diciembre de 2014, según requerimiento efectuado por oficios Nº 27.393, Nº 29.703 y Nº 32.688, todos de 2014, todas las escrituras otorgadas en la Notaría de Santiago de don Humberto Santelices Narducci, domiciliado en Avenida El Bosque Norte 047, Las Condes.
+
+La reforma consiste en aumentar el capital social de $57.426.824.320 dividido en 11.036.142 acciones de una misma serie, sin valor nominal, íntegramente suscrito y pagado a $77.426.824.320 dividido en 14.687.287 acciones, mediante la emisión de 3.651.145 acciones por la suma de $20.000.000.000, a suscribir y pagar dentro del plazo de 3 años contado desde el 24 de septiembre de 2014. Se modifican artículos cuarto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 30 de diciembre de 2014.- Carmen Undurraga Martínez, Secretaria General.
