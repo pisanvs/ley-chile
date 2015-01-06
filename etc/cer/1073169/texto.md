@@ -1,0 +1,5 @@
+CERTIFICADO
+
+Certifico que por resolución Nº E-221-2015, de fecha 2 de enero de 2015, y en virtud de los acuerdos de fusión tomados en las juntas extraordinarias de accionistas de Principal Institutional Chile S.A., hoy Administradora de Fondos de Pensiones Argentum S.A., de fechas 26 de septiembre y 9 de diciembre de 2014, y en las juntas extraordinarias de accionistas de Administradora de Fondos de Pensiones Cuprum S.A., de fechas 26 de septiembre y 19 de diciembre de 2014, se aprobó la fusión de estas sociedades, incorporándose Administradora de Fondos de Pensiones Cuprum S.A. a Administradora de Fondos de Pensiones Argentum S.A., que la absorbe, pasando la continuadora legal a denominarse Administradora de Fondos de Pensiones Cuprum S.A.
+
+Santiago, 2 de enero de 2015.- María Lorena Salinas Cucullu, Superintendenta de Pensiones.
