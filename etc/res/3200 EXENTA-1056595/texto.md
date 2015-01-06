@@ -78,10 +78,4 @@ c) Para mantener la inscripción en el Registro de Naves durante el año calenda
 
 9.- Transcríbase copia de la presente resolución al Servicio Nacional de Pesca y Acuicultura y a la Dirección General del Territorio Marítimo y Marina Mercante.
 
-> **Nota.** La Resolución 3281 Exenta, Economía, publicada el 09.12.2015, modifica la presente norma en el sentido de excluir, al recurso Merluza de cola como especie asociada a las pesquerías de Anchoveta y Sardina común, con cerco, en el área marítima de la V a la X Regiones.
-
-> **Nota.** NOTA 1 La Resolución 1475 Exenta, Economía, publicada el 19.05.2016, modifica la presente norma en el sentido de excluir, al recurso Merluza de tres aletas como especie asociada a la pesquería de Merluza del sur, con espinel o palangre, en las unidades de pesquerías norte exterior y sur exterior, comprendidas entre los paralelos 41º28,6' L. S. y 47º00' L. S. y entre los paralelos 47º00' L. S. y 57º00 L. S., respectivamente.
-
-> **Nota.** NOTA 2 Las letras A, B, C y D de la Resolución 3986 Exenta, Economía, publicada el 11.01.2020, modifican la presente norma en el sentido de incorporar y eliminar en el numeral 1 las especies asociadas al arte de pesca, por unidad de pesquería, que podrán capturar los titulares de licencias transables de pesca, y asimismo incorporar y eliminar en el numeral 2 las especies asociadas al arte de pesca, por unidad de pesquería, que podrán capturar los titulares de permisos extraordinarios de pesca de la manera que la citada norma indica.
-
 Anótese, comuníquese y publíquese en el Diario Oficial, y a texto íntegro en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
