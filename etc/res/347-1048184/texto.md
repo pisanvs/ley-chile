@@ -2584,39 +2584,47 @@ presentación.
 
 Las Aduanas deberán llevar un sistema de control
 
-que les permita comprobar que los despachadores han
+que les permita comprobar que los despachadores
 
-presentado dentro de plazo las SMDA respecto de
+han presentado dentro de plazo las SMDA respecto
 
-cargos no reclamados ni repuestos. La presentación
+de cargos no reclamados ni repuestos. La
 
-extemporánea de estas SMDA dará lugar a una
+presentación extemporánea de estas SMDA dará
 
-denuncia por infracción al artículo 176 de la
+lugar a una denuncia por infracción al artículo
 
-Ordenanza de Aduanas. Por su parte, si dentro del
+176 de la Ordenanza de Aduanas. Por su parte,
 
-plazo de 30 días hábiles contados desde la fecha de
+si dentro del plazo de 30 días hábiles contados
 
-expedición de la carta certificada referida en el
+desde la fecha de expedición de la carta
 
-párrafo precedente, el agente de aduanas no
+certificada referida en el párrafo precedente,
 
-presenta la SMDA, la Aduana deberá remitir los
+el agente de aduanas no presenta la SMDA, la
 
-antecedentes a la Subdirección de Fiscalización
+Aduana deberá remitir los antecedentes al
 
-para los efectos que el Director Nacional aplique
+Departamento de Agentes Especiales de la
 
-la jurisdicción disciplinaria de conformidad a lo
+Subdirección de Fiscalización, para los
 
-dispuesto en el artículo 202 de la Ordenanza de
+efectos de que dicha unidad, encargada de
 
-Aduanas. Sin perjuicio de lo anterior, la Aduana
+efectuar una evaluación integral del
 
-deberá proceder a tramitar de inmediato la
+comportamiento de los despachadores, determine
 
-respectiva SMDA aplicando el procedimiento
+instruir a las Aduanas respecto de la apertura
+
+de expedientes disciplinarios, en caso que
+
+correspondiere. Sin perjuicio de lo anterior, la
+
+Aduana deberá proceder a tramitar de inmediato
+
+la respectiva SMDA aplicando el procedimiento
 
 establecido en el numeral 2.2. de este Capítulo.
 
