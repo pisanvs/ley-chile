@@ -1,0 +1,5 @@
+INSTRUYE SOBRE EL RÉGIMEN OPCIONAL Y TRANSITORIO, VIGENTE DURANTE EL AÑO COMERCIAL 2015, DE PAGO SOBRE LAS RENTAS ACUMULADAS EN EL FUT AL 31 DE DICIEMBRE DE 2014, Y SOBRE LOS RETIROS EN EXCESO QUE SE MANTENGAN A ESA FECHA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 70, de fecha 31 de diciembre de 2014, la cual tiene por objeto impartir instrucciones sobre el régimen opcional y transitorio vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha, que estableció la ley Nº 20.780.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de diciembre de 2014.
