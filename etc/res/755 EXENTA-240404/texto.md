@@ -150,7 +150,7 @@ f.3) Las emisiones espúreas de estos aparatos, deberán estar 50 dB bajo el niv
 
 f.4) Alternativamente, a los requisitos señalados en los puntos f.1) a f.3), se aceptarán radioalarmas que operen en cualquier frecuencia, sujetos al requerimiento de que la intensidad de campo en la frecuencia fundamental, no exceda de 15 microvolts/metro a una distancia de
 
-g) Sistemas de Comunicaciones de Implantación Médica (MICS) que operen en la banda de frecuencias 402-405 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
+g) Sistemas de Comunicaciones de Implantación Médica (MICS) que operen en la banda de frecuencias 401 - 406 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
 
 h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
@@ -247,6 +247,14 @@ donde fC es la frecuencia central del ancho de banda a -10 dB.
 Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las disposiciones establecidas en el Apéndice 1 de la presente resolución y no deben ser empleados para el funcionamiento de juguetes ni operarse a bordo de aeronaves, barcos o satélites.
 
 j.6) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
+
+j.7) Operen, al interior de inmuebles, en la banda de frecuencias de 57 a 64 GHz, con las siguientes características técnicas:
+
+- Potencia máxima de salida del transmisor: 500 mW.
+
+- Potencia máxima radiada: 43 dBm.
+
+Estos equipos no podrán emplearse en aeronaves, satélites y sensores de perturbaciones de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija.
 
 #### Artículo 2º
 
