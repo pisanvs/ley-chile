@@ -16,7 +16,7 @@ Durante el período señalado, el Serviu recibirá las solicitudes de postulaci�
 
 La selección de los beneficiarios y la determinación del puntaje individual para decidir la prelación de los postulantes se efectuará sumando cada uno de los puntajes obtenidos por el postulante, de acuerdo a los factores señalados en el artículo 65 del DS Nº 1 (V. y U.), de 2011.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los beneficiarios, será de 45.900 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los beneficiarios, será de 71.500 Unidades de Fomento.
 
 2. Sin perjuicio del cumplimiento de los requisitos establecidos en el DS Nº 1 (V. y U.), de 2011, los postulantes deberán cumplir con los siguientes requisitos:
 
