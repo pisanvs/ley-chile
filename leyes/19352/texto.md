@@ -164,8 +164,6 @@ TOTAL GENERAL 1.235
 
 > **Nota.** NOTA 2 El numeral 1° del artículo 7° de la Ley 20803, publicada el 08.01.2015, modifica la presente norma en el sentido de crear un cargo grado 4º en la planta de profesionales, un cargo grado 12º en la planta de administrativos y un cargo grado 18º en la planta de auxiliares.
 
-> **Nota.** NOTA 3 El artículo primero, Nº 2 del DFL 17, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 6°, en la planta de personal de Directivos del Servicio Agrícola y Ganadero.
-
 #### Artículo 2°
 
 Los actuales Jefes de Sección y Jefes de Oficina que, por efectos de la aplicación de esta ley, sean nombrados Jefes de Departamento y cesen con posterioridad a estas funciones por habérseles pedido la renuncia, tendrán derecho a ocupar un cargo del mismo grado en la planta correspondiente según los requisitos que cumplan.
