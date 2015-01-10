@@ -100,8 +100,6 @@ e) Evaluación, Control y Reclamaciones.
 
 Dentro de la función de evaluación se comprenderá el estudio, diseño y ejecución de los programas de fiscalización y evaluación permanente respecto de las personas naturales y jurídicas que presten servicios de defensa penal pública.
 
-Dentro de la Unidad de Estudios existirá un área de defensa penal de adolescentes que asesorará en la definición de criterios y directrices técnicas generales que orienten el trabajo institucional en los aspectos relacionados con la defensa penal juvenil y propondrá al Defensor Nacional todas aquellas políticas y acciones destinadas a garantizar la especialización de la defensa penal.
-
 #### Artículo 9°
 
 Un Director Administrativo Nacional organizará y supervisará las unidades administrativas del Servicio, sobre la base de las instrucciones generales, objetivos, políticas y planes de acción que fije el Defensor Nacional.
@@ -400,8 +398,6 @@ Total Planta 457
 
 > **Nota.** NOTA 2: El artículo primero, Nº 5, del DFL 34, Hacienda, publicado el 02.10.2007, crea un cargo Defensor Regional, grado 3, un cargo de Director Administrativo Regional, grado 4º, y un cargo de Jefe de Unidad Defensoría Regional, grado 4, en la planta de personal de la Defensoría Penal Pública.
 
-> **Nota.** NOTA 3 Los numerales 4 y 5 del artículo primero del Decreto con Fuerza de Ley 9, Hacienda, publicado el 09.07.2018, crea un cargo de Defensor Regional, grado 3°, en la planta de personal de la Defensoría Penal Pública, asimismo, crea un cargo de Director Administrativo Regional, grado 4° y un cargo de Jefe de Unidad Defensoría Regional, grado 4, en la planta de personal de la Defensoría Penal Pública.
-
 #### Artículo 29
 
 Para el ingreso y promoción en las plantas y cargos, además de los requisitos generales establecidos en la ley N° 18.834, sobre Estatuto Administrativo, se requerirá cumplir con las siguientes exigencias:
@@ -563,8 +559,6 @@ Excepcionalmente, la Defensoría podrá cobrar, total o parcialmente, la defensa
 Para estos efectos considerará, al menos, su nivel de ingreso, capacidad de pago y el número de personas del grupo familiar que de ellos dependan, en conformidad con lo que señale el reglamento.
 
 Siempre que correspondiere cobrar a algún beneficiario por la prestación del servicio de la defensa penal, se le deberá informar de ello en cuanto se dé inicio a las gestiones en su favor, entregándole copia del arancel existente y de las modalidades de pago del servicio.
-
-Lo dispuesto en los incisos segundo a cuarto precedentes no será aplicable a los servicios de defensa penal de adolescentes.
 
 #### Artículo 37
 
