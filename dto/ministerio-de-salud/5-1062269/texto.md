@@ -28,8 +28,6 @@ C.- Tercer tramo, 5% de Asignación de Desempeño Difícil: 20.24% del total nac
 
 > **Nota.** La letras b, c, y d del numeral 5° del Decreto 180, Salud, publicado el 09.01.2015, modifican la presente norma en el sentido de introducir cambios en los cuadros de la manera que la citada norma indica.
 
-> **Nota.** NOTA 1 El numeral 1° del decreto 10, Salud , publicado el 28.07.2015, modifica la presente norma en el sentido de incorporar al numeral 2° los Servicios de Atención Primaria de Urgencia urbanos que la citada norma indica.
-
 Anótese, tómese razón y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.
 
 Transcribo para su conocimiento decreto afecto Nº 5, de 16-01-2014.- Saluda atentamente a Ud., Jaime Burrows Oyarzún, Subsecretario de Salud Pública.
