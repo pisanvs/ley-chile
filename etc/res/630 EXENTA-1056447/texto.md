@@ -16,13 +16,13 @@ Resuelvo:
 
 3º Desígnase a los funcionarios del Consejo para la Transparencia que a continuación se indican para practicar las notificaciones a que se refiere el resolutivo 1º:
 
-1. Sra. Paola Patricia González Abarca, cédula nacional de identidad Nº 11.632.930-1, Jefa de la Unidad de Gestión Documental de la Dirección de Administración, Finanzas y Personas.
+1. Sr. Felipe Andrés Riquelme Romero, cédula nacional de identidad Nº16.719.804-K, administrativo de Oficina de Partes de la Dirección de Administración, Finanzas y Personas.
 
-2. Sra. Teresa Elvira Gallardo del Pino, cédula nacional de identidad Nº 11.837.217-K, Encargada de Oficina de Partes de la Dirección de Administración, Finanzas y Personas.
-
-3. Sr. Gabriel Valentín Henríquez Cifuentes, cédula nacional de identidad Nº 7.410.993-4, Administrativo de Oficina de Partes de la Dirección de Administración, Finanzas y Personas,
+2. Sr. Jorge Edmundo González Herrera, cédula nacional de identidad Nº5.714.722-9, auxiliar y chofer de la Dirección de Administración, Finanzas y Personas,
 
 4. Sr. Alejandro de Tránsito Soto Gatica, cédula nacional de identidad Nº 9.337.865-2, Administrativo de Oficina de Partes de la Dirección de Administración, Finanzas y Personas.
+
+La designación indicada tendrá vigencia mientras los citados funcionarios se encuentren prestando servicios efectivos en el Consejo para la Transparencia, es decir, terminados sus respectivos contratos de trabajo por cualquier causa, se revocará automáticamente la facultad entregada por este acto.
 
 4º Publíquese la presente resolución en el Diario Oficial, de conformidad a lo establecido en la letra b) del artículo 48 de la ley Nº 19.880, y en la página de Transparencia Activa del Consejo para la Transparencia, bajo la categoría de "Actos y resoluciones con efectos sobre terceros".
 
