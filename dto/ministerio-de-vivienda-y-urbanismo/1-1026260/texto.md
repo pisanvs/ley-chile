@@ -92,9 +92,9 @@ De los fondos presupuestarios para el subsidio. El subsidio habitacional se otor
 
 Del precio de la vivienda. Para los efectos del cálculo del subsidio el precio de la vivienda deberá expresarse en Unidades de Fomento (UF) y se determinará según el tipo de operación a la cual se aplique:
 
-a) En el caso de operaciones de compraventa que se financien con crédito hipotecario complementario, se estará al precio estipulado en la escritura de compraventa respectiva; o tratándose de cooperativas, en la escritura de adjudicación a sus socios.
+a) En el caso de operaciones de compraventa que se financien con crédito hipotecario complementario, se estará al precio estipulado en la escritura de compraventa respectiva; o tratándose de cooperativas, en la escritura de adjudicación a sus socios. Lo anterior también se aplicará en operaciones de compraventa de viviendas nuevas sin crédito hipotecario.
 
-b) En operaciones de construcción en sitio propio o densificación predial, se estará al costo total de la vivienda señalado en el contrato de construcción o de provisión de la vivienda.
+b) En operaciones de construcción en sitio propio o densificación predial, se estará al presupuesto indicado en el permiso de edificación, en base a las tablas de costos unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones, incrementado en un 30%.
 
 c) En el caso de adquisición de viviendas usadas que no requieran crédito hipotecario, se considerará el mayor valor entre el precio estipulado en la escritura de compraventa y el de la tasación comercial de la vivienda, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad Tasaciones.
 
