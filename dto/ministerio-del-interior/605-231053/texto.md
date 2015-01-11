@@ -28,17 +28,17 @@ Decreto:
 
 #### Artículo primero
 
-Los nacionales de Australia, Canadá y Estados Unidos de México, quedarán afectos al pago de la Tarjeta de Turismo al momento de ingresar al país, en las condiciones que a continuación se indican:
+Los nacionales de Australia y Estados Unidos de México, quedarán afectos al pago de la Tarjeta de Turismo al momento de ingresar al país, en las condiciones que a continuación se indican:
 
 Australia: El pago de la Tarjeta de Turismo tendrá una validez de tres meses, con derecho a múltiples entradas.
 
-Canadá: El pago de la Tarjeta de Turismo tendrá validez por un período igual al de vigencia del pasaporte de su titular, con derecho a múltiples entradas.
+ELIMIMADO.
 
 Estados Unidos de México: El pago de la Tarjeta de Turismo tendrá una validez equivalente al permiso de turismo de su titular, con derecho a una sola entrada.
 
 #### Artículo segundo
 
-Los derechos que se pagarán por la Tarjeta de Turismo serán equivalentes al valor que Australia y Canadá exige a los chilenos por concepto de gastos de tramitación en la emisión de las respectivas visaciones. En el caso de los Estados Unidos de México dicho valor será equivalente al que deben pagar los chilenos para ingresar a ese país como turistas.
+Los derechos que se pagarán por la Tarjeta de Turismo serán equivalentes al valor que Australia exige a los chilenos por concepto de gastos de tramitación en la emisión de las respectivas visaciones. En el caso de los Estados Unidos de México dicho valor será equivalente al que deben pagar los chilenos para ingresar a ese país como turistas.
 
 El Ministerio del Interior, previo informe del Ministerio de Relaciones Exteriores, determinará los valores a los que se hace referencia en el inciso primero, mediante la fijación de una tabla de valores la que cada vez que se dicte o sea readecuada conforme a las condiciones descritas precedentemente, deberá ser puesta en conocimiento de la Contraloría General de la República y de la Tesorería General de la República.
 
