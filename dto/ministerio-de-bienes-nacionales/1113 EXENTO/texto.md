@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "ENEL GREEN POWER CHILE LIMITADA"
+
+Mediante decreto exento Nº 1.113 de 15 de diciembre de 2014, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Enel Green Power Chile Limitada", RUT Nº 96.920.110-0, el inmueble fiscal formado por los Lotes A, B, y C, ubicado en el Salar de Imilac, comuna y provincia de Antofagasta, Región de Antofagasta, enrolados en el Servicio de Impuestos Internos con los Nºs 36000-19; 36000-20; y 36000-21; amparado por la inscripción global que rola a fojas 3497 vta. Nº 3775 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; de una superficie total de 122,52 hás, singularizado en el Plano Nº 02101-8.474-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de U.F. 897.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
