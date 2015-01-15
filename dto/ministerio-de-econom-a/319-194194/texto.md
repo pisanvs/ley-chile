@@ -470,6 +470,8 @@ l) Prohibir o restringir el uso de centros de acopio;
 
 m) Exigir la certificación por parte de un certificador de la condición sanitaria.
 
+n) Extender el período productivo hasta un plazo de 33 meses a la agrupación de concesiones de Los Lagos o Aysén en que se encuentre el o los centros de cultivo incluidos en la emergencia sanitaria y solo cuando esta última haya sido decretada en el último tercio del período productivo respectivo y no sea posible efectuar la cosecha de todos los centros integrantes de la agrupación, haciendo improbable dar cumplimiento al descanso sanitario coordinado. Esta extensión del período productivo regirá sólo por el período en que se declaró la emergencia
+
 Las medidas indicadas precedentemente se aplicarán por el plazo de seis meses, prorrogable por una sola vez por igual término. Vencido este plazo o su prórroga deberá dictarse el programa sanitario específico de control de la enfermedad.
 
 No se aplicará el plazo señalado en el inciso anterior en el caso de la letra g) del inciso 1º. En tales casos, el titular del centro de cultivo deberá proceder a destruir la totalidad de la población del centro inmediatamente de recibida la notificación de la resolución del Servicio, de acuerdo a su plan de contingencia. Si la medida ha sido fundada en una infección o enfermedad de Lista 1, el plazo máximo para dar cumplimiento a la destrucción será de una semana.

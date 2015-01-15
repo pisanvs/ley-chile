@@ -1872,7 +1872,7 @@ El plazo de permanencia mínima de un año en tierra para reproductores de Salmo
 
 Los titulares de centros de cultivo ubicados en mar o estuario que a la fecha de la publicación de este reglamento mantengan reproductores de las especies Salmo salar u Oncorhynchus mykiss, no les será aplicables los descansos coordinados de las agrupaciones de concesiones.
 
-Los centros señalados en el inciso anterior podrán mantener reproductores por el plazo de cuatro años contados desde la fecha de publicación del presente reglamento. Vencido dicho plazo, no podrán mantenerse reproductores en dichos centros, salvo que se cumplan las condiciones establecidas en el Título VI, párrafo 2º del presente reglamento.
+Los centros señalados en el inciso anterior podrán mantener reproductores por el plazo de seis años contados desde la fecha de publicación del presente reglamento. Vencido dicho plazo, no podrán mantenerse reproductores en dichos centros, salvo que se cumplan las condiciones establecidas en el Título VI, párrafo 2º del presente reglamento.
 
 #### Artículo 4º
 
@@ -1890,7 +1890,7 @@ a) Las pisciculturas que tengan reproductores provenientes desde el mar, deberá
 
 b) Las pisciculturas que mantengan reproductores que hayan sido obtenidos de un ciclo completo en piscicultura, deberán contar con tratamiento de los efluentes en el plazo de un año contado desde la entrada en vigencia del presente decreto; y,
 
-c) Las pisciculturas que no se encuentren en ninguna de las situaciones señaladas en los literales anteriores, incluidas las que se dediquen a engorda, deberán contar con tratamiento de los efluentes en el plazo de tres años contados desde la entrada en vigencia del presente decreto.
+c) Las pisciculturas que no se encuentren en ninguna de las situaciones señaladas en los literales anteriores, incluidas las que se dediquen a engorda, deberán contar con tratamiento de los efluentes en el plazo de cinco años contados desde la entrada en vigencia del presente decreto.
 
 Exceptúase de esta exigencia a las pisciculturas que toman y descargan agua de un mismo curso o cuerpo de agua que nace, corre y muere dentro de la misma heredad.
 
