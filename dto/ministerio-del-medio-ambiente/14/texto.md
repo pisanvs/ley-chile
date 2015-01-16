@@ -28,13 +28,31 @@ La Dirección General de Aguas velará por la preservación de la naturaleza y l
 
 Para cada mes del año, el caudal ecológico mínimo en el punto de captación solicitado se determinará considerando los siguientes criterios:
 
-a. El caudal equivalente al veinte por ciento del caudal medio mensual de la respectiva fuente superficial con el límite máximo del veinte por ciento del caudal medio anual establecido en el artículo 129 bis 1 del Código de Aguas.
+a) Para aquellos cauces donde se constituyeron derechos con un caudal ecológico mínimo, considerando como fórmula de cálculo el criterio del diez por ciento del caudal medio anual, se considerará el cincuenta por ciento del caudal de probabilidad de excedencia de noventa y cinco por ciento, para cada mes, con las restricciones siguientes:
 
-b. La utilización de estadísticas hidrológicas de los últimos 25 años.
+i. Para aquellos meses, en los cuales el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia es menor al diez por ciento del caudal medio anual, el caudal ecológico mínimo para ese mes será el diez por ciento del caudal medio anual.
 
-c. En el caso de que para una fuente determinada no exista esta estadística, la Dirección General de Aguas la generará utilizando el método hidrológico más adecuado al caso concreto, de aquellos conocidos y aceptados por la técnica, lo que deberá quedar claramente fundado en el informe técnico de que trata el artículo 5º.
+ii. Para aquellos meses, en los cuales el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia es mayor a diez por ciento del caudal medio anual y menor al veinte por ciento del caudal medio anual, el caudal ecológico mínimo será el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia.
 
-Para aquellos derechos de aprovechamiento de agua cuya captación se haga mediante un embalse, el cumplimiento del caudal ecológico mínimo que se fije se verificará inmediatamente aguas abajo de la barrera ubicada en el álveo.
+iii. Para aquellos meses, en los cuales el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia es mayor al veinte por ciento del caudal medio anual, el caudal ecológico mínimo será el veinte por ciento del caudal medio anual.
+
+b) Para aquellos cauces donde se constituyeron derechos con un caudal ecológico mínimo del menor cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia, se considerará como caudal ecológico mínimo el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia, para cada mes, con las restricciones siguientes:
+
+i. Para aquellos meses, en los cuales el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia es menor al veinte por ciento del caudal medio anual, el caudal ecológico mínimo será el cincuenta por ciento del caudal con probabilidad de excedencia del noventa y cinco por ciento.
+
+ii. Para aquellos meses, en los cuales el cincuenta por ciento del caudal con noventa y cinco por ciento de probabilidad de excedencia es mayor al veinte por ciento del caudal medio anual, el caudal ecológico mínimo, en esos meses, será el veinte por ciento del caudal medio anual.
+
+c) Para aquellos cauces donde no existen derechos con caudal ecológico mínimo, se aplicará, para los nuevos derechos, el criterio establecido en la letra b) con las mismas restricciones.
+
+d) Respecto a los cauces que presenten un comportamiento hídrico que no se ajuste a las fórmulas señaladas en los literales a) y b), tales como vertientes, el criterio para establecer el caudal ecológico es el veinte por ciento del caudal del promedio de los aforos, como valor constante sin variación mensual.
+
+e) Para los lagos y lagunas, con salida, el caudal ecológico será el que se determine en el desagüe, el cual se evaluará en base a los criterios definidos en las letras a) y b) según corresponda.
+
+f) Para aquellos derechos de aprovechamiento de agua cuya captación se haga mediante un embalse, el cumplimiento del caudal ecológico mínimo calculado con los criterios definidos en las letras a) o b), según corresponda se verificará inmediatamente aguas abajo de la barrera ubicada en el álveo.
+
+El cálculo se realizará utilizando estadísticas hidrológicas de al menos 25 años, dependiendo de la estadística con la cual se cuente en el cauce, y en el evento de contar con una estadística de mayor extensión, se preferirá esta última. De no existir esta estadística para una fuente determinada, la Dirección General de Aguas utilizará el método hidrológico más adecuado al caso concreto, de aquellos conocidos y aceptados por la técnica, lo que deberá quedar claramente fundado en el informe técnico.
+
+En el caso de que exista en el tramo analizado un derecho de aprovechamiento de aguas constituido con un caudal ecológico mayor al calculado en la letra a), se mantendrá el caudal ecológico mayor para el nuevo derecho, con la limitación que no podrá exceder del veinte por ciento del caudal medio anual de la respectiva fuente superficial.
 
 #### Artículo 4º
 
@@ -64,7 +82,7 @@ a) Cuando se pretenda conservar aquellas especies hidrobiológicas que se encuen
 
 b) Cuando existan fuentes superficiales que se encuentren localizadas en cualquier porción de territorio, delimitada geográficamente y establecida mediante acto de autoridad pública, colocada bajo protección oficial con la finalidad de asegurar la diversidad biológica, tutelar la preservación de la naturaleza y conservar el patrimonio ambiental, o aguas arriba de éstas, que tengan una calidad tal que permita la sustentación de las especies protegidas del área, o
 
-c) Cuando existan impactos significativos que alteren factores bióticos y abióticos, físicos, químicos y biológicos, que aseguran el resguardo de la estructura, dinámica y funcionamiento de los ecosistemas asociados a la fuente de agua superficial, con el fin de mantener los servicios ambientales que prestan. Para estos efectos se considerarán las siguientes variables ambientales:
+c) Cuando existan impactos significativos que alteren factores bióticos y abióticos, físicos, químicos y biológicos, que aseguran el resguardo de la estructura, dinámica y funcionamiento de los ecosistemas asociados a la fuente de agua superficial, con el fin de mantener los servicios ecosistémicos que prestan. Para estos efectos se considerarán las siguientes variables ambientales:
 
 i. Los valores de las concentraciones en la calidad
 
