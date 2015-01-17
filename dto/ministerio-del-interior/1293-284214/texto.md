@@ -102,7 +102,7 @@ PROCEDIMIENTO DE DISTRIBUCIÓN DEL FCM
 
 Compensación comuna Isla de Pascua
 
-Para los efectos de lo señalado en el inciso tercero del artículo 38 de la Ley Sobre Rentas Municipales, el monto de la compensación correspondiente a la Municipalidad de Isla de Pascua será de 1,7 veces la suma del gasto en personal y en bienes y servicios de consumo del año anteprecedente al del cálculo. El monto que cada año se asigne para la referida Municipalidad se indicará en el Decreto Supremo que anualmente establecerá los coeficientes comunales, conforme a lo determinado por el presente Reglamento.
+Para los efectos de lo señalado en el inciso tercero del artículo 38 de la Ley Sobre Rentas Municipales, el monto de la compensación correspondiente a la Municipalidad de Isla de Pascua será de 2 veces la suma del gasto en personal y en bienes y servicios de consumo del año anteprecedente al del cálculo. El monto que cada año se asigne para la referida Municipalidad se indicará en el Decreto Supremo que anualmente establecerá los coeficientes comunales, conforme a lo determinado por el presente Reglamento.
 
 #### Artículo 4º
 
