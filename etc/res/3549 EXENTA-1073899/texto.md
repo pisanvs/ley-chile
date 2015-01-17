@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.549, de 24 de diciembre de 2014, de esta Subsecretaría, déjese sin efecto las resoluciones Nº 83 y Nº 84, ambas de 2014, ambas de esta Subsecretaría, que caducaron parcialmente las resoluciones exentas Nº 1.444 de 2007, Nº 782 de 2001 y Nº 1.439 de 1997, Nº 2.699 de 2000, respecto de las naves Biomar III y Biomar V, en cuanto al recurso hidrobiológico Jibia, en el área marítima comprendida entre la IV Región al paralelo 41º28,6' L.S. y en el área marítima de la XV a la I Regiones, de conformidad con lo expresado en la parte considerativa de la resolución extractada y lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Otórgase el plazo de un año para reiniciar operaciones pesqueras extractivas en el área marítima, con las naves y respecto del recurso señalado en el numeral anterior, contado desde la fecha de publicación del extracto de la presente resolución.
+
+Valparaíso, 24 de diciembre de 2014.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura
