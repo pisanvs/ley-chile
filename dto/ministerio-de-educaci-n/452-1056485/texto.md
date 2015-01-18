@@ -2046,7 +2046,7 @@ Asimismo, deróganse el artículo 2º y el artículo transitorio del decreto sup
 
 #### Artículo primero
 
-Las bases curriculares para la educación media formación diferenciada técnico-profesional que se establecen en el presente decreto, entrarán en vigencia el año 2015. No obstante lo anterior, aquellos establecimientos educacionales que deseen presentar planes y programas propios de acuerdo a las bases curriculares establecidas por el presente decreto, podrán hacerlo a partir de la publicación de este.
+Las bases curriculares para la educación media formación diferenciada técnico-profesional que se establecen en el presente decreto, entrarán en vigencia el año 2016. No obstante lo anterior, aquellos establecimientos educacionales que deseen presentar planes y programas propios de acuerdo a las bases curriculares establecidas por el presente decreto, podrán hacerlo a partir de la publicación de este.
 
 #### Artículo segundo
 
