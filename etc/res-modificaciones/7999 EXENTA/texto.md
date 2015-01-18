@@ -18,13 +18,7 @@ Resolución:
 
 1. Modifícase la resolución exenta Nº 5.902 (V. y U.), de 2014, en el sentido de sustituir en su Resuelvo 9., el guarismo "600.000" por "296.800".
 
-2. Apruébase la nómina de postulantes individuales seleccionados para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda en la alternativa de postulación individual, y los recursos respectivos, para las regiones de Arica y Parinacota, Tarapacá, Atacama, Coquimbo, Valparaíso, Libertador Bernardo O'Higgins, Maule, Biobío, la Araucanía, Los Ríos, Los Lagos, Aysén del General Carlos Ibáñez del Campo y Metropolitana, correspondiente al concurso cuyo proceso de postulación se efectuó hasta el día 21 de octubre de 2014, en el llamado efectuado por la resolución exenta Nº 5.902 (V. y U.), de 2014, nómina que se agrega a continuación:
-
-Modalidad Adquisición Vivienda Construida o Adscripción a proyecto nómina de oferta
-
-.
-
-Modalidad Construcción en Sitio Propio
+2. Apruébase la nómina de postulantes individuales, seleccionados para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, modalidad adquisición de vivienda construida, adscripción a proyecto de la nómina de oferta o construcción en sitio propio, según corresponda, y los recursos respectivos, para las Regiones de Arica y Parinacota, Tarapacá, Atacama, Coquimbo, Valparaíso, Libertador Bernardo O'Higgins, Maule, Biobío, La Araucanía, Los Ríos, Los Lagos, Aysén del General Carlos Ibáñez del Campo y Metropolitana, correspondiente al concurso cuyo proceso de postulación se efectuó hasta el día 21 de octubre de 2014, en el llamado efectuado por la resolución exenta Nº 5.902 (V. y U.), de 2014, nómina que se agrega a continuación:
 
 .
 
