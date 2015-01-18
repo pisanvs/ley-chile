@@ -34,7 +34,9 @@ Resolución:
 
 9. Los recursos destinados a nivel nacional para la selección de los postulantes ascienden a 296.800 Unidades de Fomento.
 
-10. El número de postulantes seleccionados a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, estableciendo un monto único nacional de 800 Unidades de Fomento, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones, las que serán sancionadas mediante resolución.
+10. Los postulantes al presente llamado obtendrán un subsidio de un monto único de hasta 800 Unidades de Fomento, al que se adicionarán los recursos correspondientes a la prestación de servicios de asistencia técnica e inspección técnica de obras, según corresponda y el subsidio para personas con discapacidad a que alude la letra d) del artículo 7, del DS Nº 49 (V. y U.), de 2011.
+
+11. El número de postulantes seleccionados a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo 9. de esta resolución, estableciendo un monto promedio de imputación de 800 Unidades de Fomento, que serán calculados de acuerdo a la modalidad de aplicación de cada subsidio, pudiendo practicarse redistribuciones, las que serán sancionadas mediante Resolución.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
