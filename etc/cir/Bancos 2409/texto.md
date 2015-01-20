@@ -2254,6 +2254,12 @@ El sistema de prevención de lavado de activos y financiamiento del terrorismo i
 
 La evaluación de las temáticas contempladas en este Capítulo, es parte del proceso de supervisión, evaluación y clasificación por gestión, de que trata el Capítulo 1-13 de esta Recopilación.
 
+### IV. Disposiciones transitorias
+
+Mediante la Circular N° 51 de la Unidad de Análisis Financiero, de 29 de diciembre de 2014, cuyo extracto fue publicado en el Diario Oficial el 7 de enero de 2015, dicho servicio impartió las instrucciones a las que deben ceñirse los bancos que intervengan en las operaciones que se acojan al sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero, de acuerdo a lo establecido en el artículo 24 transitorio de la Ley N° 20.780.
+
+Los bancos deberán adecuar sus sistemas de información y controles preventivos, a efectos de cumplir con la citada norma, considerando que el mencionado régimen de declaración rige a partir del 1 de enero de 2015.
+
 CAPITULO 1-15 (Bancos)
 
 MATERIA:
