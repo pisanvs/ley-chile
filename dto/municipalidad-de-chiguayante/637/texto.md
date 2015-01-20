@@ -3752,6 +3752,28 @@ estructurante.
 
 2,00 m. de altura.
 
+ZONA ESPECIAL RESIDENCIA Y EQUIPAMIENTO ZRE
+
+USOS PERMITIDOS:
+
+- Residencial.
+
+- Equipamiento: De las siguientes clases:
+
+Culto y Cultura: Sólo aquello destinados al desarrollo espiritual - religioso; centros culturales y bibliotecas.
+
+Comercio: Sólo centros y locales comerciales.
+
+Servicios.
+
+- Espacio Público.
+
+- Área Verde.
+
+CONDICIONES DE SUBDIVISIÓN, URBANIZACIÓN Y EDIFICACIÓN:
+
+.
+
 ZONA ESPECIAL DE INDUSTRIA CONSOLIDADA ZI.
 
 Esta zona corresponde a los polígonos industriales existentes graficados en el plano PRCH-2.
