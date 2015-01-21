@@ -8,7 +8,9 @@ Decreto:
 
 #### Artículo único
 
-Declárase Monumento Histórico el Cerro Primo de Rivera o Los Pajaritos, de la comuna de Maipú, provincia de Santiago, Región Metropolitana, limitado al Norte con cota 474; al Sur con calle Anunciación; al Oriente con calle Cecilia y al Poniente con Avenida Ramón Freire.
+Declárase Monumento Histórico el Cerro Primo de Rivera o Los Pajaritos, de la comuna de Maipú, provincia de Santiago, Región Metropolitana, limitado al Norte por el cierro del predio, al sur del canal Zanjón de la Aguada; al Sur con la línea de solera norte de la calle Anunciación; al Oriente con la línea de solera de la calle Cecilia y al Poniente con la línea de solera de la Avenida Los Pajaritos.
+
+El área protegida tiene una superficie aproximada de 50.497,31 mts.2, como se grafica en el polígono con las letras A-B-C-D-E-F-G-H-I-A, del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
 
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Raúl Allard Neumann, Ministro de Educación Subrogante.
 
