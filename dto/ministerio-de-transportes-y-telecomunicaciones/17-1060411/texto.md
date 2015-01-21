@@ -66,7 +66,7 @@ Superficie delimitada por una intensidad de campo mayor o igual que 72 dB (µV/m
 
 - Plazo término de obras : 30 días.
 
-- Plazo inicio de transmisiones : 60 días.
+- Plazo inicio de transmisiones: 60 días.
 
 - Potencia diurna : 1.000 W.
 
@@ -80,7 +80,11 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de radiación : Omnidireccional.
 
-- Ganancia máxima : -0,55 dB (referidos a una antena vertical corta).
+- Ganancia máxima : -0,55 dB
+
+(referidos a una
+
+antena vertical corta).
 
 - Polarización : Vertical.
 
@@ -90,7 +94,9 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Altura antena : 51,4 m.
 
-- Pérdidas en cables y conectores : 0,5 dB.
+- Pérdidas en cables y
+
+conectores : 0,5 dB.
 
 - Otras pérdidas : 0,5 dB.
 
@@ -98,21 +104,41 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del estudio principal : San Pablo Nº 2271, comuna de Santiago, Región Metropolitana.
+- Ubicación del
 
-- Coordenadas geográficas : 33º26'05" Latitud Sur.
+estudio principal : San Pablo Nº 2271,
 
-70º40'06" Longitud Oeste.
+comuna de Santiago,
+
+Región Metropolitana.
+
+- Coordenadas geográficas : 36º47'16,55"
+
+Latitud Sur.
+
+73º09'17,66"
+
+Longitud Oeste.
 
 Datum WGS 84.
 
-- Ubicación de la planta transmisora
+- Ubicación de la
 
-y sistema radiante : Sector Hualpén, comuna de Talcahuano, VIII Región.
+planta transmisora
 
-- Coordenadas geográficas : 36º47'09" Latitud Sur.
+y sistema radiante : Sector Hualpén,
 
-73º09'01" Longitud Oeste.
+comuna de Talcahuano,
+
+VIII Región.
+
+- Coordenadas geográficas : 36º47'09"
+
+Latitud Sur.
+
+73º09'01"
+
+Longitud Oeste.
 
 Datum WGS 84.
 
