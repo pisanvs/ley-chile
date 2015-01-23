@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.159 EXENTA, DE 2014
+
+Mediante resolución exenta Nº 1.159, de fecha 02.12.2014, de esta Secretaría Regional, se otorgó Reconocimiento Oficial a la Escuela de Conductores Profesionales o Clase A, denominada Escuela de Conductores Latinoamericana S.p.A., nombre de fantasía "Instituto Latinoamericano de Capacitación S.p.A.", RUT 76.330.682-8, representada legalmente por don Francisco Javier Olivares Tolmo, RUT 9.590.352-5, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A2, A3, A4 y A5. La Escuela de Conductores estará ubicada en Chacabuco Nº 261, oficinas 3 y 4, Curicó, y su taller mecánico en Los Vidales, sitio 3, Curicó.
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones, Región del Maule.
