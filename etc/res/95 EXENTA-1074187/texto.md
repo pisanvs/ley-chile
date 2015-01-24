@@ -1,0 +1,3 @@
+Por resolución exenta Nº 95, de 16 de enero de 2015, de esta Subsecretaría, recházanse las solicitudes números 212110004, 210110027, 210110030, 210110082, 210110106, 213122128, 213122127, 213122133, 213122132, 213122131, 213122130, 213121028 y 213121029, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 16 de enero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
