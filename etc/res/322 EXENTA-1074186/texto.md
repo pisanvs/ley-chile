@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE LIBERTY COMPAÑÍA DE SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 322, de fecha 26 de diciembre de 2014, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Liberty Compañia de Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 30 de septiembre de 2014, reducida a escritura pública el 3 de octubre de 2014 en la Notaría de doña María Angélica Zagal Cisternas y complementada por escritura pública de 7 de noviembre de 2014, según requerimiento efectuado por oficio Nº 28.454 de 2014, otorgada en la Notaría de doña Roser Clara Navarro Bello, ambas notarías domiciliadas en Catedral 1267, Santiago.
+
+La reforma consiste en aumentar el capital social de $31.134.733.280 dividido en 2.020.433.922 acciones de una misma serie, sin valor nominal, íntegramente suscrito y pagado, a $33.074.360.081 dividido en 2.115.338.620 acciones, mediante la emisión de 94.904.698 acciones por la suma de $1.939.626.801, a suscribir y pagar dentro del plazo de 180 días contado desde esta fecha. Se modifican artículos quinto y transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 26 de diciembre de 2014.- Carmen Undurraga Martínez, Secretaria General.
