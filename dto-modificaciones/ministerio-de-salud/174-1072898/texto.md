@@ -54,7 +54,7 @@ Decreto:
 
 1.- Modifícase el decreto Nº 94, de 2013, del Ministerio de Salud, que determina el aporte estatal para las entidades administradoras de salud municipal por el período comprendido entre los meses de enero a diciembre de 2014, en la siguiente forma:
 
-1º.- Sustitúyese, en su artículo 1º la cifra "$638.416.655.236" (Seiscientos treinta y ocho mil cuatrocientos dieciséis millones, seiscientos cincuenta y cinco mil, doscientos treinta y seis pesos)" por la siguiente: $637.822.002.936 (Seiscientos treinta y siete mil ochocientos veintidós millones, dos mil novecientos treinta y seis pesos).
+1º.- Sustitúyese, en su artículo 1º la cifra "$638.416.655.236" (Seiscientos treinta y ocho mil cuatrocientos dieciséis millones, seiscientos cincuenta y cinco mil, doscientos treinta y seis pesos)" por la siguiente: $640.389.522.117 (Seiscientos cuarenta mil trescientos ochenta y nueve millones quinientos veintidós mil ciento diecisiete pesos).
 
 2º.- Sustitúyese, en la letra c) del artículo 2º, el valor básico por Asignación de Desempeño Difícil mensual para la comuna de Alto Hospicio, del territorio del Servicio de Salud Iquique, la cifra de "$15.744.187" (Quince millones setecientos cuarenta y cuatro mil ciento ochenta y siete pesos), por la siguiente: $14.347.673 (Catorce millones trescientos cuarenta y siete mil seiscientos setenta y tres pesos).
 
