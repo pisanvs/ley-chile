@@ -14,7 +14,7 @@ Apruébase el siguiente reglamento sobre Notificación de Enfermedades Transmisi
 
 Se considerarán enfermedades de notificación obligatoria las que a continuación se indican, con su correspondiente periodicidad:
 
-a) De Notificación Inmediata La sospecha de casos de Botulismo, Brucelosis, Carbunco, Cólera, Dengue, Difteria, Enfermedad Invasora por Haemophilus Influenzae, Enfermedad Meningocócica, Fiebre Amarilla, Fiebre del Nilo Occidental, Infecciones Respiratorias Agudas Graves (incluidas las neumonías que requieren hospitalización) Leptospirosis, Malaria, Meningitis Bacteriana (incluida enfermedad Meningocócica) Peste, Poliomielitis, Rabia humana, Sarampión, Sars, Síndrome Pulmonar por Hantavirus, Triquinosis y Rubéola.
+a) De Notificación Inmediata La sospecha de casos de Botulismo, Brucelosis, Carbunco, Cólera, Dengue, Difteria, Enfermedad Invasora por Haemophilus Influenzae, Enfermedad Meningocócica, Fiebre Amarilla, Fiebre del Nilo Occidental, Fiebre hemorrágica (causada por virus Ébola u otros agentes) Infecciones Respiratorias Agudas Graves (incluidas las neumonías que requieren hospitalización) Leptospirosis, Malaria, Meningitis Bacteriana (incluida enfermedad Meningocócica) Peste, Poliomielitis, Rabia humana, Sarampión, Sars, Síndrome Pulmonar por Hantavirus, Triquinosis y Rubéola.
 
 La ocurrencia de toda agrupación de casos relacionados en el tiempo y en el espacio, donde se sospeche una causa infecciosa transmisible, incluidos los Brotes de Enfermedades Transmitidas por Alimentos.
 
