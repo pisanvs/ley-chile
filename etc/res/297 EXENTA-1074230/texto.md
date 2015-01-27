@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES INTEGRA LTDA."
+
+Por resolución exenta Nº 297, de 7 de noviembre de 2014 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 97, de 16 de abril de 2014, a Centro de Evaluación y Certificación de Competencias Laborales Integra Ltda., RUT Nº 76.458.900-9, a los siguientes perfiles ocupacionales del Sector Educación, Subsector Capacitación Laboral: Facilitador de Capacitación (P-8549-2320-001-V01). La ampliación de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.
+
+Ximena Concha Bañados, Secretaria Ejecutiva.
