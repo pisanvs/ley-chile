@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 23 EXENTA, DE 2015
+
+Por resolución exenta Nº 23, de 12 de enero de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se aprobaron los planes y programas de los cursos A3 y A5 Especiales con Simulador de Inmersión Total a la Escuela de Conductores Automóvil Club de Chile Limitada, RUT: 77.323.230-K, representada legalmente por señor José Manuel Martínez Vásquez, RUT 23.548.779-9, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional Clases A-3 y A-5, en la sede ubicada en calle Mujica Nº 179, comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
