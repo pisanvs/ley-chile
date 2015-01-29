@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos, Nº 4 de 21 de enero de 2015, que autoriza a las instituciones sin fines de lucro, Fundación Nacional de Orquestas Juveniles e Infantiles de Chile, RUT Nº 75.991.930-0; Fundación Amigos de Jesús, RUT Nº 65.044.194-K; Fundación Cristo de la Noche, RUT Nº 65.083.378-3; Fundación por Una Carrera, RUT Nº 65.999.628-6; Comité de Adelanto y Desarrollo Comunitario Ebenecer, RUT Nº 65.018.711-3 y Religiosas de María Inmaculada RUT Nº70.023.890-3 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero de 2015.
