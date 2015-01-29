@@ -36,11 +36,11 @@ Dentro de estos servicios, constituyen una subcategoría los servicios de radiod
 
 b) Servicios públicos de telecomunicaciones, destinados a satisfacer las necesidades de telecomunicaciones de la comunidad en general. Estos deberán estar diseñados para interconectarse con otros servicios públicos de telecomunicaciones.
 
-c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telecomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
+c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telcomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
 
 d) Servicios de aficionados a las radiocomunicaciones, cuya finalidad es la intercomunicación radial y la experimentación técnica y científica, llevadas a cabo a título personal y sin fines de lucro.
 
-e) Servicios intermedios de telecomunicaciones, constituidos por los servicios prestados por terceros, a través de instalaciones y redes, destinados a satisfacer las necesidades de los concesionarios o permisionarios de telecomunicaciones en general, o a prestar servicio telefónico de larga distancia a la comunidad en general.
+e) Servicios intermedios de telecomunicaciones, constituidos por los servicios prestados por terceros, a través de instalaciones y redes, destinados a satisfacer las necesidades de los concesionarios o permisionarios de telecomunicaciones en general, o a prestar servicio telefónico de larga distancia internacional a la comunidad en general.
 
 Tratándose de concesionarios de servicios intermedios de telecomunicaciones que únicamente provean infraestructura física para telecomunicaciones, sólo les serán exigibles a efectos de obtener, instalar, operar y explotar la concesión, aquellos requisitos que establezca el reglamento dictado al efecto por el Ministerio.
 
@@ -99,6 +99,20 @@ En situaciones de emergencia resultantes de fenómenos de la naturaleza o fallas
 La obligación contenida en este artículo se entenderá cumplida con la sola retransmisión de los mensajes de alerta por parte del concesionario, permisionario o licenciatario, a los usuarios a quienes les presten servicios de telecomunicaciones de conformidad con lo dispuesto en el artículo 3º, quedando exentos de responsabilidad en caso de fuerza mayor o hecho fortuito.
 
 Los concesionarios, permisionarios o licenciatarios no asumirán responsabilidad por el contenido del mensaje que deban retransmitir.
+
+#### Artículo 7º ter
+
+En todo proyecto de loteo o de edificación conformado por varias unidades enajenables o de dominio exclusivo, estén o no acogidas al régimen de copropiedad inmobiliaria, debe velarse por la libre elección de cada unidad en la contratación y recepción de servicios de telecomunicaciones.
+
+Para efectos de lo anterior, los proyectos que consideren instalaciones de telecomunicaciones deberán contar con la capacidad necesaria para que diversos operadores de telecomunicaciones puedan suministrar sus servicios en condiciones competitivas, de conformidad con la normativa técnica respectiva. La obligación rige tanto para instalaciones interiores como exteriores, independiente de la naturaleza de los bienes en que éstas se emplacen.
+
+El propietario o arrendatario de una unidad que forme parte de uno de estos proyectos tendrá derecho a elegir libremente al o a los proveedores de servicios de telecomunicaciones de su preferencia. Serán inoponibles los acuerdos o decisiones que prohíban el ingreso de empresas de telecomunicaciones adoptados por la asamblea de copropietarios, el Comité de Administración o el propietario, en su caso.
+
+#### Artículo 7º quáter
+
+Para los efectos de lo dispuesto en el artículo anterior, los titulares de los referidos proyectos deberán inscribirlos en un registro público y electrónico que será implementado y mantenido por la Subsecretaría, con el objeto de que los operadores de telecomunicaciones puedan adoptar las medidas pertinentes para prestar sus servicios en dichos proyectos. El cumplimiento de lo anterior deberá verificarse para efectos de la recepción definitiva de las obras.
+
+Un reglamento dictado por el Ministerio de Transportes y Telecomunicaciones, con la concurrencia del Ministerio de Vivienda y Urbanismo, regulará la forma de inscripción de los proyectos en el registro a que hace mención este artículo, la oportunidad en que ésta deberá llevarse a cabo, los supuestos que se encontrarían eximidos de dicha inscripción y la información que deberá acompañarse de cada proyecto, así como los aspectos técnicos que deberán cumplir las instalaciones con el objeto de que en su construcción se asegure el libre acceso de los operadores de telecomunicaciones.
 
 ## Título II
 
@@ -414,25 +428,25 @@ Estos planes deberán ser aprobados y modificados por decreto supremo y no podr�
 
 #### Artículo 24 bis
 
-El concesionario de servicio público telefónico deberá establecer un sistema de multiportador discado que permita al suscriptor o usuario del servicio público telefónico seleccionar los servicios de larga distancia, nacional e internacional, del concesionario de servicios intermedios de su preferencia. Este sistema deberá permitir la selección del servicio intermedio en cada llamada de larga distancia, tanto automática como por vía de operadora, marcando el mismo número de dígitos para identificar a cualquier concesionario de servicios intermedios. Los dígitos de identificación de cada concesionario de servicios intermedios serán asignados mediante sorteos efectuados por la Subsecretaría de Telecomunicaciones.
+El concesionario de servicio público telefónico deberá establecer un sistema de multiportador discado que permita al suscriptor o usuario del servicio público telefónico seleccionar los servicios de larga distancia internacional, del concesionario de servicios intermedios de su preferencia. Este sistema deberá permitir la selección del servicio intermedio en cada llamada de larga distancia internacional, tanto automática como por vía de operadora, marcando el mismo número de dígitos para identificar a cualquier concesionario de servicios intermedios. Los dígitos de identificación de cada concesionario de servicios intermedios serán asignados mediante sorteos efectuados por la Subsecretaría de Telecomunicaciones.
 
-El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todo concesionario de servicios intermedios que prevea servicios de larga distancia, igual clase de accesos o conexiones a la red telefónica. Asimismo, no podrá discriminar entre otros, en modo alguno, especialmente, respecto de la calidad, extensión, plazo, valor y precio de los servicios que les preste con motivo o en razón del acceso o uso del sistema multiportador.
+El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todo concesionario de servicios intermedios que prevea servicios de larga distancia internacional, igual clase de accesos o conexiones a la red telefónica. Asimismo, no podrá discriminar entre otros, en modo alguno, especialmente, respecto de la calidad, extensión, plazo, valor y precio de los servicios que les preste con motivo o en razón del acceso o uso del sistema multiportador.
 
-Los concesionarios de servicios intermedios podrán establecer un sistema de multiportador contratado, opcional, que permita al suscriptor elegir los servicios de larga distancia, nacional o internacional, del concesionario de servicios intermedios de su preferencia, mediante convenio, por un período dado.
+Los concesionarios de servicios intermedios podrán establecer un sistema de multiportador contratado, opcional, que permita al suscriptor elegir los servicios de larga distancia internacional, del concesionario de servicios intermedios de su preferencia, mediante convenio, por un período dado.
 
-El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todos los concesionarios de servicios intermedios que presten servicios de larga distancia, en igualdad de condiciones económicas, comerciales, técnicas y de información, las facilidades que sean necesarias para establecer y operar el sistema de multiportador contratado.
+El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todos los concesionarios de servicios intermedios que presten servicios de larga distancia internacional, en igualdad de condiciones económicas, comerciales, técnicas y de información, las facilidades que sean necesarias para establecer y operar el sistema de multiportador contratado.
 
-Las funciones de medición, tasación, facturación y cobranza de los servicios de larga distancia las efectuarán las empresas prestadoras de dichos servicios, sin perjuicio de que éstas puedan realizarlas contratando el todo o parte de tales funciones con el concesionario de servicio público telefónico, quien estará obligado a prestar dicho servicio una vez requerido, según tarifas fijadas de acuerdo con lo establecido en los artículo 30 a 30 J, por los Ministerios de Transportes y Telecomunicaciones y de Economía, Fomento y Reconstrucción, en adelante "los Ministerios", los cuales también deberán aprobar o fijar el formato, dimensiones y demás detalles de la cuenta �nica que recibirá el suscriptor.
+Las funciones de medición, tasación, facturación y cobranza de los servicios de larga distancia internacional las efectuarán las empresas prestadoras de dichos servicios, sin perjuicio de que éstas puedan realizarlas contratando el todo o parte de tales funciones con el concesionario de servicio público telefónico, quien estará obligado a prestar dicho servicio una vez requerido, según tarifas fijadas de acuerdo con lo establecido en los artículo 30 a 30 J, por los Ministerios de Transportes y Telecomunicaciones y de Economía, Fomento y Reconstrucción, en adelante "los Ministerios", los cuales también deberán aprobar o fijar el formato, dimensiones y demás detalles de la cuenta única que recibirá el suscriptor.
 
-El concesionario de servicio público telefónico deberá efectuar, a su costa, las modificaciones que sean necesarias para conectar a los concesionarios de servicios intermedios de larga distancia que lo soliciten. Las tarifas que podrá cobrar el concesionario de servicio público telefónico a los concesionarios de servicios intermedios para recuperar estos costos, como asimismo las condiciones y los plazos en que deberán efectuarse las modificaciones referidas, deberán ser aprobadas o fijadas por los Ministerios.
+El concesionario de servicio público telefónico deberá efectuar, a su costa, las modificaciones que sean necesarias para conectar a los concesionarios de servicios intermedios de larga distancia internacional que lo soliciten. Las tarifas que podrá cobrar el concesionario de servicio público telefónico a los concesionarios de servicios intermedios para recuperar estos costos, como asimismo las condiciones y los plazos en que deberán efectuarse las modificaciones referidas, deberán ser aprobadas o fijadas por los Ministerios.
 
-Los concesionarios de servicio público telefónico no podrán dar información alguna respecto de los concesionarios de servicios intermedios, estando facultados solamente, en igualdad de condiciones y formato, para incluir, en las guías telefónicas y demás publicaciones de circulación entre sus suscriptores, los dígitos de identificación, según lo establece el Plan Técnico Fundamental de Numeración Telefónica, como también los países y códigos de acceso para servicios de larga distancia, nacional e internacional.
+Los concesionarios de servicio público telefónico no podrán dar información alguna respecto de los concesionarios de servicios intermedios, estando facultados solamente, en igualdad de condiciones y formato, para incluir, en las guías telefónicas y demás publicaciones de circulación entre sus suscriptores, los dígitos de identificación, según lo establece el Plan Técnico Fundamental de Numeración Telefónica, como también los países y códigos de acceso para servicios de larga distancia internacional.
 
-Toda modificación de las redes telefónicas deberá ser informada, con la debida anticipación, por el concesionario de servicio público telefónico, a todos los concesionarios de servicios intermedios que presten servicios de larga distancia, en términos no discriminatorios.
+Toda modificación de las redes telefónicas deberá ser informada, con la debida anticipación, por el concesionario de servicio público telefónico, a todos los concesionarios de servicios intermedios que presten servicios de larga distancia internacional, en términos no discriminatorios.
 
-El concesionario de servicio público telefónico deberá poner a disposición de los concesionarios de servicios intermedios que provean servicios de larga distancia, en términos no discriminatorios, toda la información relevante relativa a los suscriptores y usuarios y a los tráficos cursados. La especificación de esta información, de los medios para suministrarla y de las tarifas aplicables por este concepto, serán aprobados o fijados por los Ministerios.
+El concesionario de servicio público telefónico deberá poner a disposición de los concesionarios de servicios intermedios que provean servicios de larga distancia internacional, en términos no discriminatorios, toda la información relevante relativa a los suscriptores y usuarios y a los tráficos cursados. La especificación de esta información, de los medios para suministrarla y de las tarifas aplicables por este concepto, serán aprobados o fijados por los Ministerios.
 
-El concesionario de servicios intermedios que provea servicios de larga distancia afectos a fijación tarifaria, según lo establecido en el artículo 29, estará obligado a proveer estos servicios a otros concesionarios de servicios intermedios que presten también servicios de larga distancia, en condiciones no discriminatorias.
+El concesionario de servicios intermedios que provea servicios de larga distancia internacional afectos a fijación tarifaria, según lo establecido en el artículo 29, estará obligado a proveer estos servicios a otros concesionarios de servicios intermedios que presten también servicios de larga distancia internacional, en condiciones no discriminatorias.
 
 Todo convenio suscrito por concesionarios de servicio público telefónico o concesionario de servicios intermedios, que diga relación a las disposiciones de este artículo y a su reglamento, deberá ser remitido a la Subsecretaría de Telecomunicaciones, dentro de los veinte días siguientes a la fecha de su celebración.
 
@@ -582,15 +596,15 @@ Con todo, ningún concesionario de servicio público telefónico y suministrador
 
 Los concesionarios de servicios de telecomunicaciones podrán instalar sus propios sistemas o usar los de otras empresas, de acuerdo con las concesiones que les hayan sido otorgadas.
 
-Sin embargo, sólo empresas concesionarias de servicios intermediios de telecomunicaciones constituidas como sociedades anónimas abiertas, las que podrán ser filiales o coligadas de empresas concesionarias de servicios públicos de telecomunicaciones, podrán instalar, operar y explotar medios que provean funciones de conmutación o transmisión de larga distancia correspondientes al servicio público telefónico, prestar servicios de telefonía de larga distancia nacional e internacional, y establecer convenios con corresponsales extranjeros para ese efecto.
+SUPRIMIDO.
 
-En todo caso, los concesionarios de servicios intermedios de telecomunicaciones que presten servicio telefónico de larga distancia, podrán ofrecer comunicaciones telefónicas de larga distancia nacionales e internacionales, en centros de atención directa a público, previa comunicación a la Subsecretaría de Telecomunicaciones. Asimismo, los concesionarios de servicio público telefónico podrán instalar, operar y explotar teléfonos públicos fuera de su zona de servicio, previa comunicación a la mencionada Subsecretaría.
+En todo caso, los concesionarios de servicios intermedios de telecomunicaciones que presten servicio telefónico de larga distancia internacional, podrán ofrecer comunicaciones telefónicas de larga distancia internacional, en centros de atención directa a público, previa comunicación a la Subsecretaría de Telecomunicaciones. Asimismo, los concesionarios de servicio público telefónico podrán instalar, operar y explotar teléfonos públicos fuera de su zona de servicio, previa comunicación a la mencionada Subsecretaría.
 
-Los concesionarios de servicios públicos de telecomunicaciones no podrán comercializar servicios por cuenta de concesionarios de servicios intermedios de telecomunicaciones que presten servicios de larga distancia, y viceversa.
+SUPRIMIDO.
 
-Todos los concesionarios y permisionarios de servicios de telecomunicaciones tendrán acceso al uso de sistemas por satélite y cables internacionales, en condiciones de igualdad en lo técnico y económico, según los términos de la concesión o permiso, lo que hayan convenido las partes y sin perjuicio de lo establecido en el inciso segundo de este artículo.
+Todos los concesionarios y permisionarios de servicios de telecomunicaciones tendrán acceso al uso de sistemas por satélite y cables internacionales, en condiciones de igualdad en lo técnico y económico, según los términos de la concesión o permiso y lo que hayan convenido las partes.
 
-Toda comunicación que exceda una zona primaria será considerada de larga distancia para los efectos de esta ley.
+Toda comunicación que exceda el territorio nacional será considerada de larga distancia internacional para los efectos de esta ley.
 
 #### Artículo 27
 
@@ -629,12 +643,6 @@ Un reglamento determinará los procedimientos y modalidades a que deberá sujeta
 #### Artículo 28 bis
 
 Los reclamos que se formulen por, entre o en contra de concesionarios, usuarios y particulares en general, y que se refieran a cualquier cuestión derivada de la presente ley, de los cuerpos reglamentarios y de los planes y normas técnicas, cuyo cumplimiento deba ser vigilado por la Subsecretaría de Telecomunicaciones, serán resueltos por este organismo, oyendo a las partes. Un reglamento establecerá la forma de tramitación y los requisitos que deben cumplir las diligencias y actuaciones.
-
-#### Artículo 29
-
-Los precios o tarifas de los servicios públicos de telecomunicaciones, dentro del territorio nacional y hacia el exterior, serán libremente convenidos entre los proveedores del servicio y los usuarios.
-
-Lo anterior será también aplicable a los servicios intermedios que contraten entre sí las distintas empresas, entidades o personas que intervengan en su prestación.
 
 ## Título IV
 
@@ -728,7 +736,7 @@ De las Tarifas.
 
 Los precios o tarifas de los servicios públicos de telecomunicaciones y de los servicios intermedios que contraten entre sí las distintas empresas, entidades o personas que intervengan en su prestación, serán libremente establecidos por los proveedores del servicio respectivo sin perjuicio de los acuerdos que puedan convenirse entre éstos y los usuarios.
 
-No obstante, si en el caso de servicios públicos telefónicos local y de larga distancia nacional e internacional, excluida la telefonía móvil y en el de servicios de conmutación y/o transmisión de señales provistas como servicio intermedio o bien como circuitos privados, existiere una calificación expresa por parte de la Comisión Resolutiva, creada por el Decreto Ley N° 211 de 1973, en cuanto a que las condiciones existentes en el mercado no son suficientes para garantizar un régimen de libertad tarifaria, los precios o tarifas del servicio calificado serán fijados de acuerdo a las bases y procedimientos que se indican en este Título. En todo caso, si las condiciones se modificaren y existiere pronunciamiento en tal sentido por parte de dicha Comisión Resolutiva, el servicio dejará de estar afecto a la fijación de tarifas.
+No obstante, si en el caso de servicios públicos telefónicos local y de larga distancia internacional, excluida la telefonía móvil y en el de servicios de conmutación y/o transmisión de señales provistas como servicio intermedio o bien como circuitos privados, existiere una calificación expresa por parte de la Comisión Resolutiva, creada por el Decreto Ley N° 211 de 1973, en cuanto a que las condiciones existentes en el mercado no son suficientes para garantizar un régimen de libertad tarifaria, los precios o tarifas del servicio calificado serán fijados de acuerdo a las bases y procedimientos que se indican en este Título. En todo caso, si las condiciones se modificaren y existiere pronunciamiento en tal sentido por parte de dicha Comisión Resolutiva, el servicio dejará de estar afecto a la fijación de tarifas.
 
 #### Artículo 30°
 
