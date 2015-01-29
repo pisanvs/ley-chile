@@ -88,7 +88,79 @@ APÉNDICE
 
 Este apéndice es parte integrante de la norma técnica que establece la numeración para servicios de emergencia y el procedimiento de asignación correspondiente.
 
-.
+Número Servicio de Para tener acceso a:
+
+Emergencia
+
+130 Incendios La recepción de llamadas de
+
+Forestales emergencia, atendidas por
+
+personal de CONAF,
+
+correspondientes a la
+
+prevención
+
+y aviso de ocurrencia de
+
+incendios forestales.
+
+131 Ambulancias La recepción de llamadas de
+
+emergencia, atendidas por
+
+personal del Ministerio de
+
+Salud, que tienen relación
+
+con la salud de las
+
+personas.
+
+132 Bomberos La recepción de llamadas de
+
+emergencia atendidas por
+
+personal del Cuerpo de
+
+Bomberos de Chile.
+
+133 Carabineros de Chile La recepción de llamadas de
+
+emergencia, es decir, robos,
+
+asaltos, homicidios,
+
+agresiones, accidentes de
+
+tránsito u otros
+
+hechos que afecten
+
+gravemente a
+
+las personas.
+
+134 Investigaciones La recepción de llamadas de
+
+emergencia atendidas por
+
+personal de la Policía de
+
+Investigaciones.
+
+135 Fono Drogas La atención de denuncias y
+
+recepción de información por
+
+personal de Carabineros de
+
+Chile, sobre focos de
+
+tráfico y consumo
+
+de drogas.
 
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
@@ -119,6 +191,230 @@ lugares
 cordilleranos
 
 y agrestes.
+
+137 Búsqueda y La recepción de llamadas de
+
+Salvamento Marítimo emergencia atendidas
+
+por personal de la Armada de
+
+Chile, correspondientes a
+
+accidentes en Playas y
+
+roqueríos, accidentes
+
+portuarios, alertas de
+
+naves en emergencia y
+
+situaciones similares,
+
+con el objeto de
+
+brindar auxilio a las
+
+personas accidentadas.
+
+138 Aéreo de La recepción de llamadas de
+
+Rescate (SAR) emergencia atendidas por
+
+personal de la Fuerza Aérea
+
+de Chile, correspondientes a
+
+la búsqueda de aeronaves
+
+y salvamento de sus
+
+ocupantes que estén en
+
+peligro o perdidos en el
+
+territorio chileno, a la
+
+búsqueda de personas
+
+extraviadas o accidentadas
+
+en la cordillera y a la
+
+evacuación de damnificados
+
+durante catástrofes
+
+naturales.
+
+139 Informaciones La recepción de llamadas por
+
+Policiales personal de Carabineros de
+
+Chile para la atención de
+
+Consultas relativas a la
+
+actividad policial
+
+143 Fonoacción La recepción de llamadas
+
+para la atención de
+
+consultas o presentación de
+
+denuncias al Ministerio de
+
+Transpones y
+
+Telecomunicaciones, por
+
+humos visibles en vehículos
+
+motorizados, por calidad de
+
+servicio del transporte
+
+público o de las plantas de
+
+revisión técnica.
+
+147 Fono Niños La recepción de llamadas de
+
+emergencia atendidas por
+
+personal especializado de
+
+Carabineros de Chile,
+
+respecto de amenazas o
+
+vulneraciones de los
+
+derechos de los niños, niñas
+
+y adolescentes menores de
+
+edad, en el ámbito del
+
+maltrato infantil y abuso
+
+sexual.
+
+149 Fono Familia La recepción de llamadas por
+
+personal de Carabineros
+
+de Chile para la atención de
+
+consultas, con el objeto
+
+de solicitar información de
+
+orientación y efectuar
+
+denuncias relativas a
+
+maltrato dentro del núcleo
+
+familiar.
+
+1400 Botes Salvavidas La recepción de llamadas de
+
+Puerto Montt emergencia atendidas por
+
+personal del Cuerpo de
+
+Voluntarios de Botes
+
+Salvavidas de Puerto Montt,
+
+a objeto de proveer, entre
+
+otros servicios,
+
+rescate marítimo y terrestre
+
+de personas con riesgo
+
+vital, en la zona primaria
+
+de Puerto Montt, que
+
+comprende las Provincias de
+
+Llanquihue, Chiloe y Palena.
+
+1402 Fono La recepción de llamadas
+
+Emergencia atendidas por personal de la
+
+Las Condes Dirección de Seguridad
+
+Ciudadana y Emergencias de
+
+la Municipalidad
+
+de Las Condes, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicha comuna.
+
+1403 Fono La recepción de llamadas
+
+Emergencia atendidas por personal
+
+Vitacura de la Dirección de
+
+Operaciones de
+
+la Municipalidad de
+
+Vitacura,
+
+respecto de situaciones de
+
+emergencia que ocurran en
+
+dicha comuna
+
+1404 Servicio de Rescate La recepción de llamadas de
+
+Asociación Chilena emergencia por personal de
+
+de Seguridad Empresas de Servicios
+
+Externos Asociación Chilena
+
+de Seguridad S. A. (ESACHS),
+
+a objeto de gestionar la
+
+asistencia médica
+
+y el respectivo despacho de
+
+ambulancias en todas las
+
+regiones del país.
+
+1411 Fono El Metro La recepción de
+
+Emergencia llamadas atendidas por
+
+El Metro personal del Metro
+
+S. A. respecto de
+
+situaciones de emergencia
+
+que ocurran en sus
+
+instalaciones y red de
+
+transporte, en la Región
+
+Metropolitana.
 
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
@@ -289,5 +585,41 @@ respecto de situaciones
 de emergencia que ocurran
 
 en dicha comuna.
+
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+
+1415 Fono Emergencia El La recepción de llamadas
+
+Quisco atendidas por personal de
+
+la Unidad de Inspección
+
+y Vigilancia de la
+
+Municipalidad de El
+
+Quisco, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicha
+
+comuna.
+
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+
+1418 Fono Emergencia Maipú La recepción de llamadas
+
+atendidas por personal
+
+de la Municipalidad de
+
+Maipú, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicha
+
+comuna.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
