@@ -1,0 +1,5 @@
+Por resolución exenta Nº 96, de 16 de enero de 2015, de esta Subsecretaría, déjese sin efecto la resolución Nº 3.191 de 2014, ambas de esta Subsecretaría, que caducó parcialmente la resolución exenta Nº 1.716 de 2004, respecto de la naves fábrica "Cabo de Hornos", en cuanto a los recursos hidrobiológicos Merluza del sur y Congrio dorado, en el área marítima comprendida entre el paralelo 44º30' L.S. y el paralelo 47º L.S., de conformidad con Lo expresado en la parte considerativa de la resolución extractada y lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Otórgase el plazo de un año para reiniciar operaciones pesqueras extractivas en el área marítima, con la nave y respecto de los recursos antes señalados, contado desde la fecha de la fuerza mayor invocada, esto es desde junio de 2014.
+
+Valparaíso, 16 de enero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura.
