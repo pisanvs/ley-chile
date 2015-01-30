@@ -842,6 +842,10 @@ transitorio. Durante el año 2013, el día 2 de diciembre será la fecha de cier
 
 transitorio: Durante el año 2014, el día 30 de octubre será la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica y el día 15 de noviembre será la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo.
 
+#### Artículo 9º
+
+Transitorio: Las postulaciones de la comuna de Valparaíso que participen y resulten seleccionadas en el 24º Proceso de Selección de Proyectos que realiza la Secretaría Regional Ministerial de Vivienda y Urbanismo de Valparaíso, estarán exentas de realizar aportes complementarios por obras anexas, imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos aprobados por el Servicio de Vivienda y Urbanización de Valparaíso, en consideración al decreto que señala a la comuna de Valparaíso zona afectada por catástrofe.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
