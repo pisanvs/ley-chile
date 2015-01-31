@@ -36,6 +36,16 @@ Salida:
 
 Av. España (límite comunal) - Puente Capuchinos - Caleta Abarca - Av. Marina - Puente Ecuador - 1 Norte - Camino Troncal (límite comunal).
 
+d) Servicios provenientes de las provincias de San Felipe y Los Andes, que utilizan la vía Troncal Sur.
+
+Ingreso:
+
+Troncal Sur (límite comunal) - Limache - Viana - Av. España (límite comunal).
+
+Salida:
+
+Av. España (límite comunal) - Álvarez - Quinta - Errázuriz -Eduardo Grove - Álvarez - Troncal Sur (límite comunal).
+
 2º Fíjanse al interior de la zona urbana de la comuna de Viña del Mar, los siguientes trazados que deberán utilizar los taxis colectivos que presten servicios de locomoción colectiva rural provenientes de la provincia de Petorca y/o comunas de Quintero y Puchuncaví para ingresar o salir del área de estacionamientos ubicada al interior del terminal rodoviario emplazado en Av. Valparaíso Nº 1.050 en la comuna de Viña del Mar:
 
 Ingreso:
@@ -46,7 +56,7 @@ Av. Benidorm - Av. Libertad - Pte. Libertad - Plaza Latorre - Plaza José Fco. V
 
 Salida:
 
-Terminal Rodoviario - Pasaje San Luis - Crucero - Arlegui - Quilpué - Av. Valparaíso - Simón Bolívar - Alvares - Plaza Sucre - Bohn - Quillota - Av. Marina - Puente Mercado - 5 Oriente - 6 Oriente - Av. Benidorm - Av. Alessandri - Camino Internacional - Rotonda Santa Julia - Ruta 60 Ch. - Ruta F-30E (Límite Comunal); o bien, Terminal Rodoviario - Pasaje San Luis - Crucero - Arlegui - Quilpué - Av. Valparaíso - Simón Bolívar - Alvares - Plaza Sucre - Bohn - Quillota - Av. Marina - Puente Mercado - Av. Uno Norte - Av. Libertad - Av. Benidorm - Av. Alessandri - Camino Internacional - Rotonda Santa Julia - Ruta 60 Ch. - Ruta F-30E (Límite Comunal)."
+Terminal Rodoviario - Pasaje San Luis - Crucero - Arlegui - Quilpué - Av. Valparaíso - Simón Bolívar - Alvares - Plaza Sucre - Bohn - Quillota - Av. Marina - Puente Mercado - 5 Oriente - 6 Oriente - Av. Benidorm - Av. Alessandri - Camino Internacional - Rotonda Santa Julia - Ruta 60 Ch. - Ruta F-30E (Límite Comunal); o bien, Terminal Rodoviario - Pasaje San Luis - Crucero - Arlegui - Quilpué - Av. Valparaíso - Simón Bolívar - Alvares - Plaza Sucre - Bohn - Quillota - Av. Marina - Puente Mercado - Av. Uno Norte - Av. Libertad - Av. Benidorm - Av. Alessandri - Camino Internacional - Rotonda Santa Julia - Ruta 60 Ch. - Ruta F-30E (Límite Comunal).
 
 3º Fíjanse al interior de la zona urbana de la comuna de Viña del Mar, los siguientes trazados que deberán utilizar los taxis colectivos que presten servicios de locomoción colectiva rural provenientes de las provincias de San Felipe, Los Andes y Quillota para ingresar o salir del terminal rodoviario ubicado en Av. Valparaíso Nº 1050 en la comuna de Viña del Mar:
 
@@ -72,6 +82,6 @@ Recinto - Alvares - Sucre - Bohn - Quillota- Av. Marina - Puente Mercado - Av. 1
 
 6º Carabineros de Chile e inspectores fiscales y municipales fiscalizarán el fiel cumplimiento de la presente resolución.
 
-> **Nota.** El N° 2 de la RES 1805 exenta, Transportes, publicada el 27.10.2003, dispuso que esta modificación tendrá vigencia hasta la implementación del Proyecto Definitivo del Par Vial Viana-Alvares, oportunidad en que deberán hacerse las modificaciones necesarias.
+> **Nota.** El N° 2 de la Resolución 1805 Exenta, Transportes, publicada el 27.10.2003, dispuso que esta modificación tendrá vigencia hasta la implementación del Proyecto Definitivo del Par Vial Viana-Alvares, oportunidad en que deberán hacerse las modificaciones necesarias.
 
 Anótese y publíquese.- Maritza Robledo Fernández, Secretario Regional Ministerial de Transportes y Telecomunicaciones Subrogante V Región.
