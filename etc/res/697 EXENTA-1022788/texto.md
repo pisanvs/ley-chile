@@ -204,6 +204,8 @@ La boleta de garantía entregada para caucionar el primer anticipo sin avance de
 
 El monto total del subsidio no anticipado se pagará contra certificado de la Inspección Técnica de Obras en que acredite que las obras se encuentran completamente terminadas conforme al proyecto aprobado y el certificado de Recepción Final emitido por la Dirección de Obras del Municipio correspondiente.
 
+El monto total del subsidio no anticipado se pagará contra certificado de la Inspección Técnica de Obras en que acredite que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y el certificado de Recepción Final emitido por la Dirección de Obras del Municipio correspondiente.
+
 5.7 En los proyectos que se presenten a través de esta modalidad no será exigible el Plan de Habilitación Social, establecido en el Título IX del Capítulo Primero del DS Nº174 (V. y U.), de 2005.
 
 6. Los beneficiarios de los llamados especiales de la modalidad de adquisición de vivienda construida efectuados mediante las resoluciones exentas N° 2.966 (V. y U.), de 2010, y Nº 366 (V. y U.), de 2011, podrán adscribirse a proyectos de las tipologías de Construcción en Nuevos Terrenos, Construcción Colectiva en Zonas Rurales y Alteración o Reparación de Inmuebles, que se encuentren en preparación en el Banco de Proyectos, o bien se encuentren seleccionados, según las resoluciones exentas Nº 2.965 (V. y U.), de 2010, y N° 697 (V. y U.), de 2011, en este último caso, la adscripción podrá efectuarse toda vez que algún beneficiario de ese proyecto renuncie o sea excluido del proyecto habitacional, según lo establecido en el inciso 1° del artículo 50, del DS N° 174 (V. y U.), de 2005.
