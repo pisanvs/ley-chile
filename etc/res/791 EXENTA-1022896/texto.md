@@ -148,7 +148,7 @@ El monto total del subsidio no anticipado se pagará contra certificado de la In
 
 Una vez recibidas las obras por SERVIU, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras señalada en el artículo 25 del DS Nº 174 (V. y U.), de 2005. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de dicha recepción, y deberá caucionar, además, la obtención de la recepción definitiva de obras por parte de la Dirección de Obras Municipales, del sello verde de las instalaciones de gas contemplado en la normativa de la Superintendencia de Electricidad y Combustibles, cuando corresponda.
 
-En estos proyectos de construcción el constructor podrá entregar una Boleta de Garantía única, colectiva o individual, para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos 4, 5, 6 y 7 del artículo 25 del DS N° 174 (V. y U.), de 2005. Dicha Boleta de Garantía deberá encontrarse vigente al momento de solicitar los anticipos por avance de obra, y será responsabilidad de Serviu informar el vencimiento de ésta a la Empresa Constructora 15 días antes de perder la vigencia y solicitar la prórroga.
+El monto total del subsidio no anticipado se pagará contra certificado de la Inspección Técnica de obras que acrediten que las obras se encuentran completamente terminadas conforme al proyecto aprobado, y el certificado de Recepción Final emitido por la Dirección de Obras del Municipio correspondiente.
 
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
