@@ -40,17 +40,23 @@ Los y las estudiantes que cumplan su escolaridad con adecuaciones de aceleració
 
 Fíjanse las edades mínimas de ingreso a la modalidad de educación de adultos regular de la siguiente manera:
 
-a) A cualquier nivel de Educación Básica 18 años.
+a) A cualquier nivel de Educación Básica 15 años.
 
-b) Primer Nivel de Educación Media 17 años.
-
-c) Segundo Nivel de Educación Media 18 años.
+b) Primer, Segundo y Tercer nivel de Educación Media 17 años.
 
 Dichas edades deberán estar cumplidas como máximo al 30 de junio del año lectivo correspondiente.
 
 #### Artículo 5º
 
-Excepcionalmente, los directores de establecimientos educacionales que imparten educación de adultos regular podrán, fundadamente, sobre la base de informes presentados por los postulantes, autorizar el ingreso de jóvenes con edades inferiores a las establecidas en el artículo precedente por razones inherentes a situaciones de carácter socioeconómicas o civiles que justifiquen el ingreso a dicha modalidad, siempre y cuando no sea inferior a 14 años. Con todo, estos casos de excepción no podrán superar el 20% del total de la matrícula del establecimiento al momento de matricularse. Dichos informes y sus antecedentes, deberán estar disponibles en el establecimiento educacional para las visitas de fiscalización.
+Excepcionalmente los directores de los establecimientos que imparten educación de adultos modalidad regular podrán, fundamentadamente sobre la base de informes presentados por los postulantes, autorizar el ingreso de jóvenes con edades inferiores a las edades establecidas en el artículo precedente, por razones inherentes a situaciones tales como retraso pedagógico, egresar de un proyecto de reinserción educativa u otras de carácter socioeconómicas que justifiquen el ingreso a dicha modalidad. El porcentaje de alumnos que podrá autorizarse no deberá exceder del 20% de la matrícula total del establecimiento.
+
+En el caso de matrícula de menores derivados por un tribunal de justicia, sólo se requerirá la respectiva orden judicial para su ingreso y no serán considerados para determinar el porcentaje anteriormente señalado.
+
+A los establecimientos educacionales, que cuenten con reconocimiento oficial, al interior de los centros privativos de libertad para menores o que presten servicio educativo en estos centros, no se les aplicará el porcentaje máximo de matrícula.
+
+Los menores que iniciaron sus estudios en educación de adultos con edades inferiores a las señaladas, podrán continuarlos sin requerir una nueva autorización. Asimismo, los alumnos que se trasladan de un establecimiento de educación de adultos a otro de la misma modalidad, con edades distintas a las exigidas, ya sea por la autorización del director del establecimiento, o derivados por un tribunal o autorizados por la Secretaría Ministerial de Educación, podrán continuar su trayectoria educativa sin requerir una nueva autorización.
+
+Los antecedentes que se tuvieron a la vista para otorgar dicha autorización deberán estar disponibles en el establecimiento educacional para las visitas de fiscalización.
 
 #### Artículo 6º
 
@@ -58,7 +64,7 @@ Fíjase la edad mínima de ingreso a la modalidad de educación de adultos flexi
 
 #### Artículo 7º
 
-Las situaciones de edades no previstas en la modalidad de educación de adultos regular y/o flexible reglamentadas en el presente decreto, podrán ser resueltas en el ámbito de sus competencias por el Jefe de la División de Educación General del Ministerio de Educación.
+Las situaciones de edades no previstas en la modalidad de educación de adultos regular, reglamentadas en el presente decreto, podrán ser resueltas en el ámbito de sus competencias por el Secretario Regional Ministerial.
 
 #### Artículo 8º
 
