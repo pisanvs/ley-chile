@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE TIL TIL
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº9.218, de 16 de diciembre de 2014, conforme artículo 5º transitorio Código Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 98, de fecha 27 de enero de 1986, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de Parcelación "Santa Ana", de la comuna de Til Til, Región Metropolitana, en el sentido de establecer que los derechos de aprovechamiento de aguas aprobados en la resolución antes mencionada son de naturaleza superficial, de carácter consuntivos, de ejercicio eventual y continuo, que se extraen de la fuente, cuenca y hoya hidrográfica del río Aconcagua, primera sección, ubicados en la provincia de Los Andes, Región de Valparaíso. Publicación hecha conforme artículo 13º ley Nº 18.377.
+
+Director Nacional.
