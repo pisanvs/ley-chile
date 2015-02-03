@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE TIL TIL
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº9.219, del 16 de diciembre de 2014 , conforme artículo 5º transitorio Código Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 1.003, de fecha 9 de julio de 1984, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de Parcelación "Nueva Esperanza", de la comuna de Til Til, Región Metropolitana, formado por los predios "Hijuela Las Casas de la Antigua Hacienda Polpaico" y "Resto del Fundo San Manuel", en el sentido de establecer que los derechos de aprovechamiento de aguas aprobados en la resolución antes mencionada son de naturaleza superficial, de carácter consuntivo, de ejercicio eventual y continuo, que se extraen de la fuente, cuenca y hoya hidrográfica del río Aconcagua, primera sección, ubicados en la provincia de Los Andes, Región de Valparaíso. Publicación hecha conforme artículo 13º ley Nº 18.377.
+
+Director Nacional.
