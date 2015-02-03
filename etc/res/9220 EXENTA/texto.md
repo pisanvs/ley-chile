@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE TIL TIL
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 9.220, de 16 de diciembre de 2014, conforme artículo 5º transitorio Código Aguas, determinó que los derechos de aprovechamiento de agua de los sectores efectivamente expropiado y reconocido como Reserva, del predio denominado "Resto del Fundo San Manuel" de la comuna de Til Til, Región Metropolitana, que se distribuyeron por Acta de Acuerdo suscrita ante Notario de Santiago, don Raúl Undurraga Laso, suplente del titular don Luis Álvarez Azócar, con fecha 8 de junio de 1979, entre la Oficina de Normalización Agraria y el propietario expropiado, son de carácter consuntivo y continuo. Los pozos se encuentran ubicados en la comuna de Til Til, provincia de Chacabuco, Región Metropolitana. Publicación hecha conforme artículo 13º ley Nº 18.377.
+
+Director Nacional.
