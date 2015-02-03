@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.817 de 22 de diciembre de 2014, rectificada por resolución exenta Nº 223 de 22 de enero de 2015, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Dos Norte 46, Rol de Avalúo Nº 3508-12, de la comuna de Talcahuano, de aparente dominio de Oporto Hormazabal Diordando. La parte afecta a expropiación tiene una superficie de 158,00 m2 de terreno, con todo lo edificado y plantado y cuyos linderos particulares se encuentran enmarcados en el polígono A- B- C- D- E- A del plano S8R-31.737-2, y son: Nororiente: Tramo AB en 8,4 metros con Rol 3508-2; Suroriente: Tramo BC en 19,0 metros con Rol 3508-4; Surponiente: Tramo CD en 8,3 metros con Calle 2 Norte; Norponiente: Tramo DE en 12,3 metros con Rol 3508-3; Tramo EA en 6,7 metros con Rol 3508-11; para la ejecución de las obras del Proyecto Construcción Corredor Transporte Público, Colón: Perales - Alessandri, de la comuna de Talcahuano. Conforme artículo 51 ley 16.391 y DL 2186. Comisión de Peritos integrada por Consuelo Loreto Zuloaga Sanhueza, arquitecto; Priscila Andrea Encalada Rueda, arquitecto; y Miguel Ramón Vera Musso, arquitecto, según informe de fecha 20 de noviembre de 2014 fijó monto provisional indemnización, en la suma de $16.938.356.- pagadera de contado.
+
+Director Serviu Región del Biobío.
