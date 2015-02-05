@@ -16,6 +16,8 @@ Resuelvo:
 
 3.- El polígono Nº 1 involucra totalmente a la comuna de Putaendo. Está determinado por 16 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
 
+ELIMINADO.
+
 4.- El polígono Nº 2 involucra parcialmente a las comunas de Calle Larga, Los Andes, Panquehue, Putaendo, Rinconada, San Esteban, San Felipe y Santa María. Está determinado por 57 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
 
 5.- El polígono Nº 3 involucra parcialmente a la comuna de Catemu. Está determinado por 21 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
@@ -23,6 +25,8 @@ Resuelvo:
 6.- El polígono Nº 4 involucra parcialmente a la comuna de Catemu. Está determinado por 22 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
 
 7.- El polígono Nº 5 involucra parcialmente a la comuna de Llay Llay. Está determinado por 19 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
+
+ELIMINADO.
 
 8.- El polígono Nº 6 involucra parcialmente a las comunas de Hijuelas y La Calera. Está determinado por 20 vértices, incluyendo las siguientes coordenadas UTM señaladas a continuación:
 
