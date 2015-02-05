@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS DE "AVALCHILE SEGUROS DE CRÉDITO Y GARANTÍA S.A."
+
+Certifico: Que por resolución exenta Nº 18, de 28 de enero de 2015, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Avalchile Seguros de Crédito y Garantía S.A.", acordada en Junta Extraordinaria de Accionistas de 18 de noviembre de 2014, cuya acta consta en escritura pública de fecha 20 de noviembre de 2014 y escritura pública rectificatoria de fecha 31 de diciembre de 2014, ambas otorgadas ante el Notario de Santiago don Cosme Fernando Gomila Gatica, con domicilio en Paseo Ahumada Nº 341, piso 4, Santiago.
+
+La modificación consiste en el aumento del capital social de $2.758.832.280.-, dividido en 275.486 acciones de una misma serie y sin valor nominal íntegramente suscrito y pagado, a $3.508.832.280.- dividido en 350.486 acciones de una misma serie y sin valor nominal, mediante la emisión de 75.000 acciones de pago, correspondiente a $750.000.000.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 28 de enero de 2015.- Carmen Undurraga Martínez, Secretario General.
