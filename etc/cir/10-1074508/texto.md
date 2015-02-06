@@ -1,0 +1,5 @@
+INSTRUYE SOBRE MODIFICACIONES EFECTUADAS A LA LEY SOBRE IMPUESTO A LA RENTA, POR LA LEY Nº 20.780, QUE RIGEN A CONTAR DEL 1 DE ENERO DE 2015
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 10, de fecha 30 de enero de 2015, la cual tiene por objeto instruir sobre las modificaciones a la Ley sobre Impuesto a la Renta, efectuadas por el artículo segundo de las disposiciones transitorias de la Ley Nº 20.780, que rigen a contar del 1 de enero de 2015. Entre ellas se cuentan las modificaciones a los artículos 14, 17 Nº 7, 17 Nº 8, 31 Nº 3, 38 bis de la Ley sobre Impuesto a la Renta, así como de otras normas relacionadas.
+
+El texto íntegro de esta Circular está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SIl en el mes de enero de 2015.
