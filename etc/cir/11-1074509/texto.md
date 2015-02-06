@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LA DEROGACIÓN DEL ARTÍCULO 57 BIS DE LA LIR A CONTAR DEL 1 DE ENERO DE 2017, Y SOBRE CIERTAS MODIFICACIONES EFECTUADAS A PARTIR DEL 1 DE ENERO DE 2015 AL BENEFICIO TRIBUTARIO QUE CONTEMPLA DICHO ARTÍCULO
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 11, de fecha 30 de enero de 2015, la cual tiene por objeto instruir sobre las modificaciones efectuadas a contar del 1 de enero de 2015 al beneficio tributario contenido en el artículo 57 bis de la Ley sobre Impuesto a la Renta, sobre su derogación a partir del 1 de enero de 2017 y respecto al tratamiento tributario del saldo de ahorro por las inversiones que se efectúen hasta el 31.12.2016 y se hayan acogido a dicha norma legal, todas ellas, efectuadas por la Ley Nº 20.780.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de enero de 2015.
