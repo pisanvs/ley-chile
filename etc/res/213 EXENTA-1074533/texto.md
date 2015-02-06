@@ -1,0 +1,3 @@
+Por resolución exenta Nº 213, de 28 de enero de 2015, de esta Subsecretaría, recházanse las solicitudes números 213122125, 213122148, 213122145, 213122147, 213122149, 213122146, 213122144, 213122137, 213122162 y 213122153, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 28 de enero de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
