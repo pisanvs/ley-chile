@@ -1,0 +1,5 @@
+INCORPORA PERFIL A ALCANCE DE ACREDITACIÓN A "SOCIEDAD DE CERTIFICACIÓN DE COMPETENCIAS LABORALES LIMITADA O MG CERTIFICA LTDA."
+
+Por resolución exenta Nº 260, de 3 de octubre de 2014, y conforme lo dispuesto en la ley Nº 20.267, que crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo, y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se incorpora al alcance de la acreditación otorgada mediante resolución exenta Nº 134, de 30 de mayo de 2014, a "Sociedad de Certificación de Competencias Laborales Limitada o MG Certifica Ltda., RUT Nº 76.237.325-4, el siguiente perfil ocupacional del Sector Construcción, Subsector Edificación: Rigger (POSCE7 v.2). La incorporación del perfil al alcance de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.
+
+Ximena Concha Bañados, Secretaria Ejecutiva Comisión del Sistema Nacional de Certificación de Competencias Laborales.
