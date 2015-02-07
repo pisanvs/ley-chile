@@ -988,7 +988,7 @@ Los agentes policiales estarán obligados a detener a quienes sorprendieren in f
 
 No obstará a la detención la circunstancia de que la persecución penal requiriere instancia particular previa, si el delito flagrante fuere de aquellos previstos y sancionados en los artículos 361 a 366 quater del Código Penal.
 
-La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
+La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto, al que fuere sorprendido infringiendo las condiciones impuestas en virtud de las letras a), b), c) y d) del artículo 17 ter de la ley Nº 18.216 y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
 
 En los casos de que trata este artículo, la policía podrá ingresar a un lugar cerrado, mueble o inmueble, cuando se encontrare en actual persecución del individuo a quien debiere detener, para el solo efecto de practicar la respectiva detención.
 
@@ -1095,6 +1095,8 @@ Para estimar si la libertad del imputado resulta o no peligrosa para la segurida
 Se entenderá especialmente que la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando se encontrare sujeto a alguna medida cautelar personal, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
 
 Se entenderá que la seguridad del ofendido se encuentra en peligro por la libertad del imputado cuando existieren antecedentes calificados que permitieren presumir que éste realizará atentados en contra de aquél, o en contra de su familia o de sus bienes.
+
+> **Nota.** La letra b) del Artículo 3 de la Ley 20603, publicada el 27.06.2012, modifica el presente artículo en el sentido de reemplazar en el inciso cuarto, la oración "gozando de alguno de los beneficios alternativos a la ejecución de las penas alternativas o restrictivas de libertad contemplados en la ley" por lo siguiente: "cumpliendo alguna de las penas sustitutivas a la ejecución de las penas privativas o restrictivas de libertad contempladas en la ley", pero dicha modificación no fue posible hacerla debido a una inconsistencia en el texto.
 
 #### Artículo 141
 
@@ -1268,13 +1270,17 @@ f) La prohibición de comunicarse con personas
 
 determinadas, siempre que no se afectare el derecho a
 
-defensa, y
+defensa;
 
 g) La prohibición de aproximarse al ofendido o su
 
 familia y, en su caso, la obligación de abandonar el
 
-hogar que compartiere con aquél.
+hogar que compartiere con aquél, y
+
+h) La prohibición de poseer, tener o portar armas
+
+de fuego, municiones o cartuchos.
 
 El tribunal podrá imponer una o más de estas
 
@@ -1928,9 +1934,7 @@ La presencia del defensor del imputado en la audiencia en que se ventilare la so
 
 Si el querellante o la víctima asistieren a la audiencia en que se ventile la solicitud de suspensión condicional del procedimiento, deberán ser oídos por el tribunal.
 
-Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto, los contemplados en los artículos 361 a 366 bis
-
-y 367 del Código Penal y conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
+Tratándose de imputados por delitos de homicidio, secuestro, robo con violencia o intimidación en las personas o fuerza en las cosas, sustracción de menores, aborto; por los contemplados en los artículos 361 a 366 bis y 367 del Código Penal; por los delitos señalados en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; por los delitos o cuasidelitos contemplados en otros cuerpos legales que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, y por conducción en estado de ebriedad causando la muerte o lesiones graves o gravísimas, el fiscal deberá someter su decisión de solicitar la suspensión condicional del procedimiento al Fiscal Regional.
 
 Al decretar la suspensión condicional del procedimiento, el juez de garantía establecerá las condiciones a las que deberá someterse el imputado, por el plazo que determine, el que no podrá ser inferior a un año ni superior a tres. Durante dicho período no se reanudará el curso de la prescripción de la acción penal. Asimismo, durante el término por el que se prolongare la suspensión condicional del procedimiento se suspenderá el plazo previsto en el artículo 247.
 
@@ -2958,7 +2962,7 @@ Decisión absolutoria y medidas cautelares personales. Comunicada a las partes l
 
 #### Artículo 348
 
-Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las medidas alternativas a la privación o restricción de libertad previstas en la ley.
+Sentencia condenatoria. La sentencia condenatoria fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley.
 
 La sentencia que condenare a una pena temporal deberá expresar con toda precisión el día desde el cual empezará ésta a contarse y fijará el tiempo de detención, prisión preventiva y privación de libertad impuesta en conformidad a la letra a) del artículo 155 que deberá servir de abono para su cumplimiento. Para estos efectos, se abonará a la pena impuesta un día por cada día completo, o fracción igual o superior a doce horas, de dichas medidas cautelares que hubiere cumplido el condenado.
 
@@ -3356,7 +3360,7 @@ Reiteración de faltas. En caso de reiteración de faltas de una misma especie s
 
 #### Artículo 398
 
-Suspensión de la imposición de condena por falta. Cuando resulte mérito para condenar por la falta imputada, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses. En tal caso, no procederá acumular esta suspensión con alguno de los beneficios contemplados en la ley N° 18.216.
+Suspensión de la imposición de condena por falta. Cuando resulte mérito para condenar por la falta imputada, pero concurrieren antecedentes favorables que no hicieren aconsejable la imposición de la pena al imputado, el juez podrá dictar la sentencia y disponer en ella la suspensión de la pena y sus efectos por un plazo de seis meses. En tal caso, no procederá acumular esta suspensión con alguna de las penas sustitutivas contempladas en la ley N° 18.216.
 
 Transcurrido el plazo previsto en el inciso anterior sin que el imputado hubiere sido objeto de nuevo requerimiento o de una formalización de la investigación, el tribunal dejará sin efecto la sentencia y, en su reemplazo, decretará el sobreseimiento definitivo de la causa.
 
@@ -3448,7 +3452,7 @@ Fallo en el procedimiento abreviado. Terminado el debate, el juez dictará sente
 
 La sentencia condenatoria no podrá emitirse exclusivamente sobre la base de la aceptación de los hechos por parte del imputado.
 
-En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las medidas alternativas consideradas en la ley, cuando correspondiere.
+En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las penas sustitutivas consideradas en la ley, cuando correspondiere.
 
 La sentencia no se pronunciará sobre la demanda civil que hubiere sido interpuesta.
 
@@ -3464,7 +3468,7 @@ c) La exposición clara, lógica y completa de cada uno de los hechos que se die
 
 d) Las razones legales o doctrinales que sirvieren para calificar jurídicamente cada uno de los hechos y sus circunstancias y para fundar su fallo;
 
-e) La resolución que condenare o absolviere al acusado. La sentencia condenatoria fijará las penas y se pronunciará sobre la aplicación de alguna de las medidas alternativas a la privación o restricción de libertad previstas en la ley;
+e) La resolución que condenare o absolviere al acusado. La sentencia condenatoria fijará las penas y se pronunciará sobre la aplicación de alguna de las penas sustitutivas a la privación o restricción de libertad previstas en la ley;
 
 f) El pronunciamiento sobre las costas, y g) La firma del juez que la hubiere dictado.
 
@@ -3524,11 +3528,11 @@ Tratándose de la situación contemplada en el inciso tercero del mismo artícul
 
 Pluralidad de sujetos. Si aparecieren implicados individuos que no gozaren de fuero, se seguirá adelante el procedimiento en relación con ellos.
 
-### Párrafo 2º — Intendentes y Gobernadores
+### Párrafo 2º — Intendentes , Gobernadores y Presidentes de Consejos Regionales
 
 #### Artículo 423
 
-Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de un intendente o de un gobernador, en lo que fuere pertinente.
+Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de un intendente, de un gobernador o de un presidente de consejo regional, en lo que fuere pertinente.
 
 ## Título V
 
@@ -3826,7 +3830,7 @@ de seguridad
 
 #### Artículo 466
 
-Intervinientes . Durante la ejecución de la pena o de la medida de seguridad, sólo podrán intervenir ante el competente juez de garantía el ministerio público, el imputado y su defensor.
+Intervinientes . Durante la ejecución de la pena o de la medida de seguridad, sólo podrán intervenir ante el competente juez de garantía el ministerio público, el imputado, su defensor y el delegado a cargo de la pena sustitutiva de prestación de servicios en beneficio de la comunidad, de libertad vigilada o de libertad vigilada intensiva, según corresponda.
 
 El condenado o el curador, en su caso, podrán ejercer durante la ejecución de la pena o medida de seguridad todos los derechos y facultades que la normativa penal y penitenciaria le otorgare.
 
@@ -3842,7 +3846,7 @@ Ejecución de la sentencia penal. Las sentencias condenatorias penales no podrá
 
 Cuando el condenado debiere cumplir pena privativa de libertad, el tribunal remitirá copia de la sentencia, con el atestado de hallarse firme, al establecimiento penitenciario correspondiente, dando orden de ingreso. Si el condenado estuviere en libertad, el tribunal ordenará inmediatamente su aprehensión y, una vez efectuada, procederá conforme a la regla anterior.
 
-Si la sentencia hubiere concedido una medida alternativa a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
+Si la sentencia hubiere concedido una pena sustitutiva a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
 
 Asimismo, ordenará y controlará el efectivo cumplimiento de las multas y comisos impuestos en la sentencia, ejecutará las cauciones en conformidad con el artículo 147, cuando procediere, y dirigirá las comunicaciones que correspondiere a los organismos públicos o autoridades que deban intervenir en la ejecución de lo resuelto.
 

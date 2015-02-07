@@ -22,31 +22,17 @@ e) Expulsión, en el caso señalado en el artículo 34.
 
 f) Prestación de servicios en beneficio de la comunidad.
 
-No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 150 A, 150 B, 361, 362, 363, 365 bis, 366 incisos primero y segundo, 366 bis, 372 bis, 390, 390 bis, 390 ter, 391 y 411 quáter del Código Penal; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código. Tampoco procederá respecto de aquellos delitos contra la vida y la integridad física de funcionarios de Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile.
-
-Asimismo, tampoco procederá respecto de los funcionarios de las Fuerzas Armadas y servicios de su dependencia, en cumplimiento del deber, exclusivamente, en el marco de funciones de resguardo del orden público, tales como las que se ejercen durante estados de excepción constitucional, en protección de la infraestructura crítica, resguardo de fronteras y funciones de policía, cuando correspondan o cuando se desempeñan en el marco de sus funciones fiscalizadoras.
+No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 361, 362, 372 bis, 390 y 391 del Código Penal; en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código.
 
 En ningún caso podrá imponerse la pena establecida en la letra f) del inciso primero a los condenados por crímenes o simples delitos señalados por las leyes números 20.000, 19.366 y 18.403. No se aplicará ninguna de las penas sustitutivas contempladas en esta ley a las personas que hubieren sido condenadas con anterioridad por alguno de dichos crímenes o simples delitos en virtud de sentencia ejecutoriada, hayan cumplido o no efectivamente la condena, a menos que les hubiere sido reconocida la circunstancia atenuante prevista por el artículo 22 de la ley Nº 20.000.
-
-Tampoco podrán imponerse las penas establecidas en el inciso primero a los condenados por crímenes o simples delitos contemplados en la ley N° 17.798, salvo que les hubiere sido reconocida la circunstancia atenuante prevista en el artículo 17 C de dicho cuerpo legal.
-
-Tratándose de simples delitos previstos en dicha ley y no encontrándose en el caso del inciso anterior, sólo procederán las penas sustitutivas de reclusión parcial y libertad vigilada intensiva.
 
 Tampoco podrá el tribunal aplicar las penas señaladas en el inciso primero a los autores del delito consumado previsto en el artículo 436, inciso primero, del Código Penal, que hubiesen sido condenados anteriormente por alguno de los delitos contemplados en los artículos 433, 436 y 440 del mismo Código.
 
 Para los efectos de esta ley, no se considerarán las condenas por crimen o simple delito cumplidas, respectivamente, diez o cinco años antes de la comisión del nuevo ilícito.
 
-Igualmente, si una misma sentencia impusiere a la persona dos o más penas privativas de libertad, se sumará su duración, y el total que así resulte se considerará como la pena impuesta a efectos de su eventual sustitución y para la aplicación de la pena mixta del artículo 33.
-
 #### Artículo 2°
 
 En los casos de faltas, regirá lo dispuesto en el artículo 398 del Código Procesal Penal o en la ley Nº 18.287, según sea el tribunal que conozca del proceso.
-
-#### Artículo 2° bis
-
-Las penas del artículo 1° y el régimen del artículo 33 sólo serán aplicables por los delitos previstos en los artículos 433, 436 inciso primero, 440, 443, 443 bis y 448 bis del Código Penal, a aquellos condenados respecto de quienes se tome la muestra biológica para la obtención de la huella genética, de acuerdo a las previsiones de la ley N°19.970, sin perjuicio del cumplimiento de los requisitos que, para cada una de las penas sustitutivas o para el régimen intensivo del artículo 33, establecen esta ley y su reglamento.
-
-Para el cumplimiento de lo dispuesto en el inciso anterior, el tribunal deberá ordenar la diligencia señalada en la respectiva sentencia. En aquellos casos en que el condenado, debidamente notificado, no compareciere para tales efectos, el tribunal podrá revocar la pena sustitutiva y ordenar que se cumpla la pena efectiva.
 
 ## Título I
 
@@ -112,7 +98,7 @@ La reclusión parcial podrá disponerse:
 
 a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia no excediere de tres años;
 
-b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito, o lo hubiese sido a una pena privativa o restrictiva de libertad que no excediere de dos años, o a más de una, siempre que en total no superaren de dicho límite. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito. No obstante lo anterior, si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubieren sido impuestas dos reclusiones parciales, no será procedente la aplicación de esta pena sustitutiva. Respecto de los delitos comprendidos en los Párrafos 1 a 4 bis del Título IX del Libro Segundo y en el artículo 456 bis A, todos del Código Penal, con excepción de aquellos contemplados en los artículos 438; 448, inciso primero, y 448 quinquies de ese cuerpo legal, no será procedente la aplicación de esta pena sustitutiva si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubiere sido impuesta al condenado una reclusión parcial, y
+b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito, o lo hubiese sido a una pena privativa o restrictiva de libertad que no excediere de dos años, o a más de una, siempre que en total no superaren de dicho límite. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito. No obstante lo anterior, si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubieren sido impuestas dos reclusiones parciales, no será procedente la aplicación de esta pena sustitutiva, y
 
 c) Si existieren antecedentes laborales, educacionales o de otra naturaleza similar que justificaren la pena, así como si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito, permitieren presumir que la pena de reclusión parcial lo disuadirá de cometer nuevos ilícitos.
 
@@ -234,7 +220,7 @@ La libertad vigilada intensiva podrá decretarse:
 
 a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia fuere superior a tres años y no excediere de cinco, o
 
-b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 390 bis, 390 ter, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter inciso segundo, y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
+b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
 
 En los casos previstos en las dos letras anteriores, deberán cumplirse, además, las condiciones indicadas en ambos numerales del inciso segundo del artículo anterior.
 
@@ -540,9 +526,9 @@ De la regla especial aplicable a los extranjeros
 
 #### Artículo 34
 
-Si el condenado a una pena igual o inferior a cinco años de presidio o reclusión menor en su grado máximo fuere un extranjero que no residiere legalmente en el país, el juez, de oficio o a petición de parte, podrá sustituir el cumplimiento de dicha pena por la expulsión de aquél del territorio nacional. La misma sustitución se aplicará respecto del extranjero que resida legalmente en el país, a menos que el juez, fundadamente, establezca que su arraigo en el país aconseje no aplicar esta medida, debiendo recabar para estos efectos un informe técnico al Servicio Nacional de Migraciones, el que deberá ser evacuado al tenor del artículo 129 de la Ley de Migración y Extranjería. No procederá esta sustitución respecto de los delitos cometidos con infracción de la ley Nº 20.000 y de los incisos segundo, tercero, cuarto y quinto del artículo 168 de la Ordenanza de Aduanas, ni de los condenados por los delitos contemplados en el párrafo V bis, de los delitos de tráfico ilícito de migrantes y trata de personas, del Título octavo del Libro Segundo del Código Penal.
+Si el condenado a una pena igual o inferior a cinco años de presidio o reclusión menor en su grado máximo fuere un extranjero que no residiere legalmente en el país, el juez, de oficio o a petición de parte, podrá sustituir el cumplimiento de dicha pena por la expulsión de aquél del territorio nacional.
 
-A la audiencia que tenga por objetivo resolver acerca de la posible sustitución de la pena privativa de libertad por la expulsión del territorio nacional deberá ser citado el Ministerio del Interior y Seguridad Pública, a fin de ser oído. Si se ordenare la expulsión, deberá oficiarse a la Policía de Investigaciones de Chile para efectos de que lleve a cabo la implementación de esta pena y se ordenará la internación del condenado hasta la ejecución de la misma, debiendo informarse de ello al Servicio Nacional de Migraciones.
+A la audiencia que tenga por objetivo resolver acerca de la posible sustitución de la pena privativa de libertad por la expulsión del territorio nacional deberá ser citado el Ministerio del Interior y Seguridad Pública, a fin de ser oído. Si se ordenare la expulsión, deberá oficiarse al Departamento de Extranjería del Ministerio mencionado para efectos de que lleve a cabo la implementación de esta pena y se ordenará la internación del condenado hasta la ejecución de la misma.
 
 El condenado extranjero al que se le aplicare la pena de expulsión no podrá regresar al territorio nacional en un plazo de diez años, contado desde la fecha de la sustitución de la pena.
 

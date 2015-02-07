@@ -210,7 +210,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
 
-20.° Ejecutarlo portando armas de fuego o de aquellas referidas en el artículo 132.
+20.° Ejecutarlo portando armas de aquellas referidas en el artículo 132.
 
 21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
 
@@ -570,7 +570,7 @@ Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades
 
 4.° La multa.
 
-En caso de concurso o quiebra, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
+En caso de un procedimiento concursal, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
 
 #### Artículo 49
 
@@ -3304,7 +3304,7 @@ En los casos de este artículo y del anterior, se estará a lo dispuesto en el 3
 
 #### Artículo 403 bis
 
-El que enviare cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o integridad corporal de las personas, será penado con presidio mayor en su grado mínimo.
+Derogado.
 
 ### IV. Del duelo
 
@@ -3740,12 +3740,6 @@ Derogado.
 
 Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
 
-En los delitos de robo y hurto, la pena correspondiente será elevada en un grado cuando los culpables hagan uso de armas o sean portadores de ellas.
-
-En el caso del delito de hurto, el aumento de la pena contemplado en el inciso anterior se producirá si las armas que se portan son de fuego, cortantes o punzantes. Tratándose de otras armas, la mera circunstancia de portarlas no aumentará la pena si, a juicio del tribunal, fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
-
-Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
-
 #### Artículo 450 bis
 
 En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
@@ -3846,27 +3840,71 @@ Serán castigados con las penas del artículo 459, los que teniendo derecho para
 
 El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales.
 
-### VII. De las defraudaciones
+### VII. De los delitos concursales y de las defraudaciones
 
 #### Artículo 463
 
-El quebrado que fuere declarado en el caso de insolvencia fraudulenta, con arreglo al Código de Comercio, sufrirá la pena de presidio o extrañamiento menores en cualesquiera de sus grados.
+El que dentro de los dos años anteriores a la resolución de liquidación a que se refiere el Capítulo IV de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas ejecutare actos o contratos que disminuyan su activo o aumenten su pasivo sin otra justificación económica o jurídica que la de perjudicar a sus acreedores, será castigado con la pena de presidio menor en su grado medio a máximo.
+
+#### Artículo 463 bis
+
+Será castigado con la pena de presidio menor en su grado medio a presidio mayor en su grado mínimo, el deudor que realizare alguna de las siguientes conductas:
+
+1º Si dentro de los dos años anteriores a la resolución de reorganización o liquidación, ocultare total o parcialmente sus bienes o sus haberes.
+
+2º Si después de la resolución de liquidación percibiere y aplicare a sus propios usos o de terceros, bienes que deban ser objeto del procedimiento concursal de liquidación.
+
+3º Si después de la resolución de liquidación, realizare actos de disposición de bienes de su patrimonio, reales o simulados, o si constituyere prenda, hipoteca u otro gravamen sobre los mismos.
+
+#### Artículo 463 ter
+
+Será castigado con la pena de presidio menor en su grado mínimo a medio el deudor que realizare alguna de las siguientes conductas:
+
+1º Si durante el procedimiento concursal de reorganización o liquidación, proporcionare al veedor o liquidador, en su caso, o a sus acreedores, información o antecedentes falsos o incompletos, en términos que no reflejen la verdadera situación de su activo o pasivo.
+
+2º Si no hubiese llevado o conservado los libros de contabilidad y sus respaldos exigidos por la ley que deben ser puestos a disposición del liquidador una vez dictada la resolución de liquidación, o si hubiese ocultado, inutilizado, destruido o falseado en términos que no reflejen la situación verdadera de su activo y pasivo.
+
+#### Artículo 463 quáter
+
+Será castigado como autor de los delitos contemplados en los artículos 463, 463 bis y 463 ter quien, en la dirección o administración de los negocios del deudor, sometido a un procedimiento concursal de reorganización o de liquidación, hubiese ejecutado alguno de los actos o incurrido en alguna de las omisiones allí señalados, o hubiese autorizado expresamente dichos actos u omisiones.
 
 #### Artículo 464
 
-El quebrado que fuese declarado en el caso de insolvencia culpable, según el mismo Código, será castigado con presidio o extrañamiento menores en sus grados mínimos a medios.
+Será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con la sanción accesoria de inhabilidad especial perpetua para ejercer el cargo, el veedor o liquidador designado en un procedimiento concursal de reorganización o liquidación, que realice alguna de las siguientes conductas:
+
+1º Si se apropiare de bienes del deudor que deban ser objeto de un procedimiento concursal de reorganización o liquidación.
+
+2º Si defraudare a los acreedores, alterando en sus cuentas de administración los valores obtenidos en el procedimiento concursal de reorganización o liquidación, suponiendo gastos o exagerando los que hubiere hecho.
+
+3º Si proporcionare ventajas indebidas a un acreedor, al deudor o a un tercero.
+
+#### Artículo 464 bis
+
+El veedor o liquidador designado en un procedimiento concursal de reorganización o de liquidación que aplicare en beneficio propio o de un tercero bienes del deudor que sean objeto de un procedimiento concursal de reorganización o de liquidación será castigado con presidio menor en su grado medio a máximo y con la pena accesoria de inhabilidad especial perpetua para ejercer el cargo.
+
+#### Artículo 464 ter
+
+El que sin tener la calidad de deudor, veedor, liquidador, o de aquellos a los que se refiere el artículo 463 quáter, incurra en alguno de los delitos previstos en este Párrafo, valiéndose de un sujeto que sí tenga esa calidad, será castigado como autor del delito respectivo.
+
+Si sólo lo induce o coopera con él, será castigado con la pena que le correspondería si tuviera la calidad exigida por la ley, rebajada en un grado.
 
 #### Artículo 465
 
-En los casos de los dos artículos precedentes, si la pérdida ocasionada a los acreedores no llegare al veinte por ciento de sus respectivos créditos, se impondrán las penas en su grado inferior.
+La persecución penal de los delitos contemplados en este Párrafo sólo podrá iniciarse previa instancia particular del veedor o liquidador del proceso concursal respectivo; de cualquier acreedor que haya verificado su crédito si se tratare de un procedimiento concursal de liquidación, lo que se acreditará con copia autorizada del respectivo escrito y su proveído; o en el caso de un procedimiento concursal de reorganización, de todo acreedor a quien le afecte el acuerdo de reorganización de conformidad a lo establecido en el artículo 66 del Capítulo III de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-Cuando la pérdida exceda del cincuenta por ciento, las penas se aplicarán en su grado superior.
+Si se tratare de delitos de este Párrafo cometidos por veedores o liquidadores, la Superintendencia de Insolvencia y Reemprendimiento deberá denunciarlos si alguno de los funcionarios de su dependencia toma conocimiento de aquéllos en el ejercicio de sus funciones. Además, podrá interponer querella criminal, entendiéndose para este efecto cumplidos los requisitos que establece el inciso tercero del artículo 111 del Código Procesal Penal.
 
-Si antes de pronunciarse la sentencia no se hubiere liquidado el concurso, el tribunal regulará prudencialmente la pérdida tomando por base los antecedentes del caso.
+Cuando se celebren acuerdos reparatorios de conformidad al artículo 241 y siguientes del Código Procesal Penal, los términos de esos acuerdos deberán ser aprobados previamente por la junta de acreedores respectiva y las prestaciones que deriven de ellos beneficiarán a todos los acreedores, a prorrata de sus respectivos créditos, sin distinguir para ello la clase o categoría de los mismos.
+
+Conocerá de los delitos concursales regulados en este Párrafo el tribunal con competencia en lo criminal del domicilio del deudor.
+
+#### Artículo 465 bis
+
+Las disposiciones contenidas en los artículos anteriores de este Párrafo referidas al deudor sólo se aplicarán a los señalados en el número 13) del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 #### Artículo 466
 
-El deudor no dedicado al comercio que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
+La persona deudora definida en el número 25)del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
 
 En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, contratos simulados.
 
@@ -4010,11 +4048,11 @@ Cuando el fuego se comunicare del objeto que el culpable se propuso quemar, a ot
 
 #### Artículo 480
 
-Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersión o varamiento de nave, inundación, destrucción de puentes, explosión de minas o máquinas de vapor, y en general por la aplicación de cualquier otro agente o medio de destrucción tan poderoso como los expresados.
+Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersión o varamiento de nave, inundación, destrucción de puentes o máquinas de vapor, y en general por la aplicación de cualquier otro agente o medio de destrucción tan poderoso como los expresados.
 
 #### Artículo 481
 
-El que fuere aprehendido con bombas explosivas o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos expresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
+El que fuere aprehendido con artefactos, implementos o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos expresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
 
 #### Artículo 482
 
@@ -4152,7 +4190,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 3.° Derogado.
 
-4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
+4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 
 5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar.
 

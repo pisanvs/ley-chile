@@ -1104,7 +1104,7 @@ Medidas cautelares en protección de la víctima. El juez de familia deberá dar
 
 5. Decretar la prohibición de celebrar actos o contratos.
 
-6. Prohibir el porte y tenencia o incautar cualquier arma de fuego. De ello se informará, según corresponda, a la Dirección General de Movilización, a la Comandancia de Guarnición o al Director del Servicio respectivo para los fines legales y reglamentarios que correspondan.
+6.- Prohibir el porte y tenencia de cualquier arma de fuego, municiones y cartuchos; disponer la retención de los mismos, y prohibir la adquisición o almacenaje de los objetos singularizados en el artículo 2º de la ley Nº17.798, sobre Control de Armas. De ello se informará, según corresponda, a la Dirección General de Movilización, a la Comandancia de Guarnición o al Director del Servicio respectivo para los fines legales y reglamentarios pertinentes. Con todo, el imputado podrá solicitar ser excluido de estas medidas en caso de demostrar que sus actividades industriales, comerciales o mineras requieren de alguno de esos elementos.
 
 7. Decretar la reserva de la identidad del tercero denunciante.
 
