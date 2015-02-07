@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 10.254 EXENTA, DE 2014
+
+Por resolución exenta Nº 10.254, de fecha 5 de noviembre de 2014, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, Escuela de Conductores No Profesionales o Clase B "Capacitaciones Capacitando Chile Limitada" o "Capacitando Chile", RUT Nº 77.724.510-4, cuyo representante legal es el señor Sergio Orellana Opazo, RUT Nº 7.957.345-0, y director el señor Patricio Alberto Orellana Orrego, RUT Nº 8.965.283-9, la que tendrá su lugar de funcionamiento en el local ubicado en Avda. Santa Rosa Nº 47, oficina 701, comuna de Santiago.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
