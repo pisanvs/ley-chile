@@ -62,12 +62,6 @@ Entiéndase por eje triple a un conjunto de tres ejes, cuya distancia entre cent
 
 No obstante, los límites señalados anteriormente para cada conjunto de ejes, cualquier subcombinación de ejes del conjunto deberá respetar los límites máximos asignados a ella en forma individual.
 
-2.1.1. Establézcase, como peso máximo del primer eje (delantero), el siguiente:
-
-Entiéndase, por eje simple rodado simple, al elemento constituido por un solo Eje no articulado y neumáticos a cada lado del Eje, con ancho de rodadura mayor o igual a 315 mm.
-
-Los vehículos que no cumplan con estas características establecidas, o que en su diseño no permita aumentar su límite de peso en forma segura, seguirán teniendo un límite de 7 toneladas en el primer eje conforme a lo establecido en el N° 2.1. del decreto supremo N° 158, de 1980 del Ministerio de Obras Públicas.
-
 2.2. Peso bruto total, medido en toneladas, en función de la distancia entre centros de ruedas extremas del vehículo, medido en metros.
 
 2.2.1. Combinación de un camión con uno o varios remolques: 45, cualquiera sea la distancia entre centros de ruedas extremas.
