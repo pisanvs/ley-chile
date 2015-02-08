@@ -36,11 +36,7 @@ Para la tercera selección el monto de recursos se determinará atendiendo al sa
 
 4. Comprométense los recursos disponibles, para la selección del mes de noviembre de 2014, del Segundo Llamado en Condiciones Especiales de 2014 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren personas discapacitadas, proyectos de ampliación para adulto mayor, proyectos de eficiencia energética y de acondicionamiento térmico, entre otros, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica, según la distribución por título y por región señalada en el siguiente cuadro:
 
-.
-
 5. Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3. de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante, con su respectiva cédula de identidad, y el puntaje obtenido por el grupo o persona.
-
-> **Nota.** El numeral 2° de la Resolución 7576 Eenta, Vivienda, publicada el 06.10.2015, modifica la presente norma en el sentido de imputar la diferencia de 209 Unidades de Fomento, por los subsidios asignados a los recursos autorizados a la región Metropolitana para el Programa de Protección del Patrimonio Familiar del año 2015.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
