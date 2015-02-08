@@ -328,11 +328,11 @@ d) Profesionales competentes de acuerdo a la Ley General de Urbanismo y Construc
 
 e) El Serviu de la Región de Valparaíso, directamente, o a través de personas naturales o jurídicas contratadas para esta labor, los cuales podrán estar o no inscritos en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo, regulado por el DS Nº 135 (V. y U.), de 1978, en cualquier modalidad. El Serviu determinará en el contrato respectivo las condiciones para la prestación del servicio.
 
-29. La inspección técnica de las obras será desarrollada por el Serviu de la Región de Valparaíso, directamente por medio de sus profesionales o con el apoyo de personas naturales o jurídicas contratadas para esta labor, disponiéndose para el pago de este servicio de hasta 18 Unidades de Fomento por vivienda. El Serviu determinará en el contrato respectivo las condiciones para la prestación del servicio así como el régimen de visitas a obra.
+29. La inspección técnica de las obras será desarrollada por el Serviu de la Región de Valparaíso, directamente por medio de sus profesionales o con el apoyo de personas naturales o jurídicas contratadas para esta labor, disponiéndose para el pago de este servicio de hasta 18 Unidades de Fomento por vivienda. El Serviu determinará en el contrato respectivo las condiciones para la prestación del servicio así como el régimen de visitas a obra. Este monto podrá destinarse al pago de la Inspección Técnica de las Obras de la modalidad descrita en el párrafo 7º siguiente, cuyo régimen de inspección y pago será determinado por el Serviu de la Región de Valparaíso.
 
 ### Párrafo 7º — Aplicación por Autoconstrucción Asistida en las modalidades de Construcción en Sitio Propio con pago por avance de obra o Densificación Predial en Condominios.
 
-30. Los damnificados que opten por las modalidades de Construcción en Sitio Propio con pago por avance de obras, y de Densificación Predial en Condominios, en este último caso siempre que se trate de viviendas aisladas de hasta 2 pisos, conforme a lo establecido en los Párrafos 4º y 5º de la presente resolución, podrán aplicar dicho beneficio a través del procedimiento de Autoconstrucción Asistida para lo cual les serán aplicables las condiciones que señala el presente Párrafo.
+30. Los damnificados que opten por las modalidades de Construcción en Sitio Propio con pago por avance de obras, y de Densificación Predial en Condominios, en este último caso siempre que se trate de viviendas aisladas o pareadas de hasta 2 pisos, conforme a lo establecido en los Párrafos 4º y 5º de la presente resolución, podrán aplicar dicho beneficio a través del procedimiento de Autoconstrucción Asistida para lo cual les serán aplicables las condiciones que señala el presente Párrafo.
 
 31. El subsidio se aplicará mediante una tarjeta personal e intransferible que el Serviu emitirá a nombre del beneficiario una vez aprobado el proyecto. Esta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio de hasta 600 Unidades de Fomento otorgado podrán adicionarse los subsidios complementarios señalados en las letras a), b) y c) del resuelvo 17 de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el resuelvo 39.
 
@@ -386,7 +386,7 @@ c) Una vez presentada la factura o boleta al Serviu, éste dispondrá de 10 día
 
 38. La mano de obra complementaria, las obras de demolición y retiro de escombros serán pagadas conforme el siguiente detalle:
 
-a) Deberán ser contratadas por la Entidad Patrocinante, a quien se le pagará hasta el monto máximo señalado para ambos efectos, debiendo ésta, a su vez, pagar íntegramente a quien contrate para dichas labores, cuando corresponda, dando cumplimiento en forma directa o indirecta a todas las obligaciones emanadas de las leyes sociales respecto del personal que labora en las faenas, incluyendo el personal de las empresas subcontratistas.
+a) Deberán ser contratadas por la Entidad Patrocinante, a quien se le pagará hasta el monto máximo señalado para ambos efectos, debiendo ésta, a su vez, pagar íntegramente a quien contrate para dichas labores, cuando corresponda, dando cumplimiento en forma directa o indirecta a todas las obligaciones emanadas del contrato respecto del personal que labora en las faenas, incluyendo el personal de las empresas subcontratistas.
 
 b) Para los efectos de aplicar el monto destinado a mano de obra, a obras de demolición y/o retiro de escombros, deberá presentarse un acta suscrita por la Entidad Patrocinante y el beneficiario, en que se incluya la identificación de las personas o servicios que serán contratados, y el costo de los mismos, además de copia del contrato correspondiente.
 
@@ -394,11 +394,11 @@ c) El costo de la mano de obra complementaria, las obras de demolición y retiro
 
 d) En caso de tratarse de un proyecto certificado previamente por el Serviu o el Minvu, de conformidad con lo establecido en la letra c) del resuelvo 27, el costo de la mano de obra complementaria, las obras de demolición y retiro de escombros, si corresponde, se pagará de una sola vez junto a la carga 2.
 
-e) En el caso que el beneficiario asuma la ejecución de las obras los recursos destinados a mano de obra podrán ser pagados directamente a éste, los que se pagarán en la forma indicada en la letra a) del presente resuelvo.
+e) En el caso que el beneficiario asuma la ejecución de las obras los recursos destinados a mano de obra podrán ser pagados directamente a éste.
 
 f) El Serviu podrá proceder al pago de las obras de demolición y retiro de escombros, si correspondiera, una vez que haya sido entregada la tarjeta para adquisición de materiales al beneficiario respectivo.
 
-g) Para proceder al pago de cada parcialidad de la mano de obra complementaria, la Entidad Patrocinante deberá acreditar el cumplimiento y pago de las obligaciones establecidas en las leyes sociales, mediante certificados expedidos por los Organismos e Instituciones pertinentes.
+g) Para proceder al pago de cada parcialidad de la mano de obra complementaria, la Entidad Patrocinante deberá acreditar el cumplimiento y pago de las obligaciones establecidas en los contratos.
 
 39. Cada beneficiario contará con un servicio de Asistencia Técnica e Inspección Técnica de Obras a cargo de la Entidad Patrocinante de su inscripción, quien será responsable de la ejecución de las siguientes labores, sean estas efectuadas por sí mismas o por terceros:
 
