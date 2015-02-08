@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 611 EXENTA, DE 2015, QUE AUTORIZA A INSTITUTO DE GESTIÓN DEL TRANSPORTE SpA PARA IMPARTIR CURSO QUE INDICA
+
+Por resolución exenta Nº 611, de fecha 2 de febrero de 2015, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Escuela de Conductores Profesionales "Instituto de Gestión del Transporte SpA", cuyo nombre de fantasía es "IGT SpA", RUT Nº 76.130.549-2, representada legalmente por la señora Rosa Blanca Palma Rodríguez, para impartir Curso Especial con Simulador de Inmersión Total, conducente a la obtención de licencia de conductor profesional Clase A-5, en Santo Domingo Nº 979, 3º piso, comuna de Santiago.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana (S).
