@@ -24,9 +24,9 @@ Resolución:
 
 .
 
-3. Los recursos comprometidos conforme al Resuelvo 2. de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 3.052 (V. y U.), de 2014, se detallan en el siguiente cuadro, considerando que los montos de subsidio de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica, son referenciales:
+3. Asígnase un monto de 18 Unidades de Fomento a cada uno de las personas beneficiadas en el resuelvo 2 de la presente resolución, para el pago por las labores de Inspección Técnica de Obra, conforme a la resolución Nº 420 (V. y U.), de 2012, que fija procedimiento para la prestación de servicios de asistencia técnica, jurídica y social para el programa Fondo Solidario de Elección de Vivienda.
 
-.
+4. Los recursos comprometidos conforme al Resuelvo 2. de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 3.052 (V. y U.), de 2014, se detallan en el siguiente cuadro, considerando que los montos de subsidio de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica, son referenciales:
 
 El monto definitivo a considerar para cada postulante seleccionado, será determinado al momento de la adscripción al proyecto por parte del damnificado beneficiado.
 
