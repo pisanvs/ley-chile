@@ -1,0 +1,3 @@
+Por resolución exenta Nº 282, de 3 de febrero de 2015, de esta Subsecretaría, recházanse las solicitudes números 210110020 sector 3, 213110002 sector 4, 213122284, 213122280 y 213121027, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 3 de febrero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
