@@ -108,25 +108,9 @@ Definiciones y Normas Generales
 
 Definiciones. En esta Ordenanza, los siguientes términos tienen el significado que se indica:
 
-Area Libre: ELIMINADA
-
-Centro de Reparación Automotor: ELIMINADA
-
-Centro de Servicio Automotriz: ELIMINADA
-
-Mansarda: ELIMINADA
-
 Piso retirado: es aquel cuyo volumen edificado no supera una altura máxima de 3,00 m. y se inscribe dentro de un plano inclinado en un ángulo de 45° aplicado a partir de la intersección de los planos de fachada con el plano de cielo del piso inmediatamente inferior. Para todos los efectos legales y reglamentarios se considera como piso construido habitable. Sobre este piso retirado sólo se permitirán salas de máquinas y otras instalaciones.
 
 Planta de Revisión Técnica: es aquel equipamiento de comercio, que cumpliendo con las exigencias establecidas en el capítulo 11 del título 4 de la Ordenanza General de Urbanismo y Construcciones, se destina a la revisión de vehículos motorizados para cumplir con las normas para la circulación de vehículos por el territorio nacional, emanadas del Ministerio de Transportes y Telecomunicaciones.
-
-Glosario y Normas Generales
-
-Coeficiente de área libre: número que multiplicado por la superficie total del predio, descontadas de esta última las áreas declaradas de utilidad pública, determina el mínimo de metros cuadrados que deben ser destinados al área de uso libre abierta al menos por dos lados que puede ser destinada a jardín, patio de juego, terraza o circulación peatonal.
-
-En el caso del uso de suelo residencial, al menos una superficie equivalente al 60% de estas áreas, debe destinarse exclusivamente a arborización y vegetación cubre suelo, generando una capa vegetal con una profundidad no menor a 0,40 m.
-
-Coeficiente de área libre especial: número que multiplicado por la superficie total del predio descontadas de esta última las áreas declaradas de utilidad pública, determina el mínimo de metros cuadrados que deben ser destinados al área de uso público no edificable que debe ser destinada exclusivamente a circulación peatonal y esparcimiento, y que no se considera bien nacional de uso público.
 
 ### 2. Normas Generales sobre Loteos y
 
@@ -240,11 +224,13 @@ Estos estacionamientos deberán tener ancho y largo mínimo, de acuerdo a lo se�
 
 6. Los estándares de estacionamiento son los que se establecen en el cuadro siguiente, por tipo de destino. Las cifras intermedias resultantes se aproximarán al entero superior. Cuando dicho resultado sea inferior a 1 estacionamiento, se exigirá un estacionamiento.
 
+.
+
 7. Se establece una franja de 300 m., medidos desde la Línea Oficial de Av. Vicuña Mackenna y Av. Américo Vespucio, en que los proyectos destinados a viviendas de hasta l50 m2 construidos, podrán disminuir en un 50% la exigencia de estacionamientos. Para optar al beneficio indicado, los predios deberán contar con, a lo menos, un 70% de su superficie comprendida en la franja señalada.
 
-8. Tácitamente derogado por circular DDU Nº227 del 1º de diciembre de 2009.
+8. ELIMINADO.
 
-9. Tácitamente derogado por circular DDU Nº227 del 1º de diciembre de 2009.
+9. ELIMINADO.
 
 #### Artículo 16
 
@@ -318,47 +304,11 @@ Congelamiento. Todos aquellos usos de suelo existentes que no sean compatibles c
 
 #### Artículo 23
 
-DEROGADO.
-
-#### Artículo 24
-
-DEROGADO.
-
-#### Artículo 25
-
-ELIMINADO
-
-#### Artículo 26
-
-DEROGADO.
-
-#### Artículo 27
-
-DEROGADO.
-
-#### Artículo 28
-
-DEROGADO.
-
-#### Artículo 29
-
-ELIMINADO
-
-#### Artículo 30
-
-DEROGADO.
-
-#### Artículo 31
-
-DEROGADO.
-
-#### Artículo 32
-
 Centro de Servicio Automotor y Estaciones de servicio automotor. Para este tipo de actividades, dadas sus especiales características, se ha establecido la siguiente normativa, con la cual se regulará su emplazamiento en la comuna, sin perjuicio de cumplir con todas las normas de seguridad emanadas del servicio competente.
 
 Normas:
 
-1. Podrán instalarse Centro de Servicio Automotor y Estaciones de servicio automotor, en cualquier zona de la Comuna cuyo uso de suelo lo permita y en predios con acceso directo a vías estructurantes intercomunales o comunales.
+1. Podrán instalarse Centro de Servicio Automotor, Lavados de Autos y Estaciones de servicio automotor, en cualquier zona de la Comuna cuyo uso de suelo lo permita y en predios con acceso directo a vías estructurantes intercomunales o comunales.
 
 Sin perjuicio de lo anterior, no se permite el emplazamiento de estas actividades en vías que presenten un ancho menor a 20 metros entre líneas oficiales. Los accesos y salidas frente a vías expresas deben aplicar lo dispuesto por la misma Ordenanza General de Urbanismo y Construcciones.
 
@@ -382,9 +332,9 @@ d) Queda prohibido el estacionamiento de vehículos con carga inflamable. Sólo 
 
 5. Cuando se desarrollen dos o más de las actividades señaladas en el numeral 1, deberán acogerse a la norma más restrictiva.
 
-> **Nota.** La letra "D" del Nº 15 del artículo único del DTO 430 exento, M. de La Florida, publicado el 25.06.2007, agrupó las disposiciones de las letras a), b), c) y d) en la en una tabla, la que no se ha incorporado por razones técnicas temporales al presente texto actualizado.
+> **Nota.** La letra "D" del Nº 15 del artículo único del Decreto 430 exento, M. de La Florida, publicado el 25.06.2007, agrupó las disposiciones de las letras a), b), c) y d) en la en una tabla, la que no se ha incorporado por razones técnicas temporales al presente texto actualizado.
 
-#### Artículo 33
+#### Artículo 24
 
 Actividades Productivas. En todo el territorio comunal regulado por el presente Plan Regulador, las actividades industriales, de almacenamiento y/o de impacto similar al industrial, se regirán por lo establecido por la normativa vigente.
 
@@ -400,7 +350,7 @@ Zonificación, usos de suelo y normas específicas
 
 ### 1. De la Zonificación
 
-#### Artículo 34
+#### Artículo 25
 
 Zonas. Para los efectos de la aplicación del presente Plan Regulador y su Ordenanza, el territorio urbano de la comuna de La Florida estará formado, en primer lugar, por dos tipos de áreas superpuestas:
 
@@ -410,45 +360,47 @@ Zonas. Para los efectos de la aplicación del presente Plan Regulador y su Orden
 
 En segundo lugar, por zonas que poseen normas de edificación y de usos en forma conjunta, que son las siguientes: Zonas de Equipamiento de Áreas Verdes, que se designan en el Plano con la sigla "AV"; Zonas de Equipamiento Deporte, cuya sigla en Plano corresponde a las letras ED; Zonas Especiales, que se indican en el Plano con la sigla "ESP"; Zonas de Resguardo de Equipamiento de Infraestructura, que se designan con la sigla "RI"; Zonas de Restricción, cuya sigla será la letra "R"; Zona de Protección Ecológica con Desarrollo Controlado, señalada en el Plano con la sigla "PEDC-3", los Inmuebles de Conservación Histórica, cuya sigla en el Plano será las letras "ICH" y las Zonas del Sector Centro cuyas siglas en elplano serán Z-AA1; Z-AA2; Z-AA+CB/CM; Z- AA+CM y Z-AM, las que se encuentran graficadas en el plano PRLF-1/07 y PRLF-2/07.
 
-#### Artículo 35
+#### Artículo 26
 
 Áreas Características de Edificación. La ubicación y los límites de las áreas características de edificación serán las indicadas en el Plano PRLF-1 y sus reglamentaciones en los artículos específicos de esta Ordenanza.
 
 Las áreas características de edificación son las siguientes:
 
-VER DIARIO OFICIAL DE 17.08.2001, PAGINA 14
+.
 
-> **Nota.** El artículo 1º Nº 14 del Decreto Nº 766 exento, Municipalidad de la Florida, publicado el 19.03.2013, modifica la presente norma en el sentido de reemplazar la fila "16. E-AI1 de la manera que la propia norma indica.
-
-#### Artículo 36
+#### Artículo 27
 
 Áreas de Usos de Suelo. La ubicación y los límites de las áreas de usos de suelo serán las indicadas en el Plano PRLF-2 y sus reglamentaciones señaladas en los artículos específicos de esta Ordenanza.
 
 Las áreas de usos de suelo son las siguientes:
 
+|
+
 > **Nota.** El Nº 17 del artículo único del DTO 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. La citada actualización, no se ha incorporado por razones técnicas temporales.
 
-#### Artículo 37
+#### Artículo 28
 
 Pertenecerán a las diferentes áreas características de edificación y de usos de suelo, todos aquellos predios que en más de un 70% de su superficie se encuentran ubicados al interior de los límites de las áreas graficadas en los Planos PRLF-1 y PRLF-2.
 
 La aplicación del inciso anterior no implica que en aquellos casos en que los límites están graficados al interior de una manzana, un predio extienda el área hasta enfrentar una calle que pertenece a una área de menor densidad o intensidad de uso.
 
-#### Artículo 38
+#### Artículo 29
 
 Zonas con Normas de Edificación y Uso del Suelo Conjunta. La ubicación y los límites de las áreas con normas de edificación y uso de suelo conjuntas, serán las indicadas en los planos PRLF-1 y PRLF-2 y sus reglamentaciones en los artículos específicos de esta Ordenanza. Las áreas son las siguientes:
 
-VER DIARIO OFICIAL DE 17.08.2001, PAGINA 14
+VER DIARIO OFICIAL DE 17.08.2001, PAGINA 14.
 
 > **Nota.** El Nº 18 del artículo único del DTO 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. La citada actualización, no se ha incorporado por razones técnicas temporales.
 
 > **Nota.** NOTA 1 El artículo 1º Nº 16 del Decreto 766 Exento, M. DE LA FLORIDA, publicado el 19.03.2013, modifica la presente norma en el sentido de reemplazar en el cuadro, las filas que la propia norma indica.
 
+> **Nota.** NOTA 2 El artículo Único Nº 6 del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, modifica la presente norma en el sentido de reemplazar en el cuadro, las filas que en ella indica.
+
 ### 2. De los Usos de Suelo y Normas Específicas
 
 de Subdivisión Predial y Edificación.
 
-#### Artículo 39
+#### Artículo 30
 
 Condiciones de Edificación. Los proyectos de edificación, subdivisión y/o loteos que se emplacen en las Áreas Características de Edificación indicadas en el artículo 35 de la presente Ordenanza, tendrán que cumplir con las normas específicas que se detallan en las tablas siguientes.
 
@@ -456,15 +408,19 @@ No obstante y sin perjuicio del cumplimiento de las condiciones detalladas en la
 
 VER DIARIO OFICIAL DE 17.08.2001, PAGINAS 15 - 18
 
-</NOTA>
+> **Nota.** El artículo único del Decreto 393 Exento, M. de La Florida, publicado el 05.07.2006, modifica la presente norma en el sentido de aplicar enmiendas a éste artículo en la forma que la citada norma señala.
 
-> **Nota.** El artículo único del DTO 393 Exento, M. de La Florida, publicado el 05.07.2006, modifica la presente norma en el sentido de aplicar enmiendas a éste artículo en la forma que la citada norma señala.
-
-> **Nota.** NOTA 1: El Nº 19 del artículo único del DTO 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. La citada actualización, no se ha incorporado por razones técnicas temporales.<NOTA: NOTA AL PIE 43 - 0> El artículo 1º Nº 17 del Decreto 766 Exento, M. DE LA FLORIDA, publicado el 19.03.2013, modifica el presente norma en el sentido de reemplazar las tablas Área E-AB1, Área E-AB2,Área E-AB3, Área E-AB4, Área E-AB5, Área E-AM1, Área E-AM2, Área E-AM3, Área E-AM4, Área E-AA1, Área E-AA2 y Área E-A1 de la manera que la propia norma indica.</NOTA>
+> **Nota.** NOTA 1: El Nº 19 del artículo único del Decreto 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. La citada actualización, no se ha incorporado por razones técnicas temporales.
 
 > **Nota.** NOTA 2 El artículo 1º Nº 17 del Decreto 766 Exento, M. DE LA FLORIDA, publicado el 19.03.2013, modifica el presente norma en el sentido de reemplazar las tablas Área E-AB1, Área E-AB2,Área E-AB3, Área E-AB4, Área E-AB5, Área E-AM1, Área E-AM2, Área E-AM3, Área E-AM4, Área E-AA1, Área E-AA2 y Área E-A1 de la manera que la propia norma indica.
 
-#### Artículo 40
+> **Nota.** NOTA 3 El Artículo 3° del Decreto 77, Vivienda, publicado el 04.03.2014, modifica la presente norma, en el sentido de agregar a continuación del cuadro Nº 12, un nuevo cuadro Nº 13.
+
+> **Nota.** NOTA 4 El Artículo 4° del Decreto 77, Vivienda, publicado el 04.03.2014, modifica la presente norma, en el sentido de establecer para la nueva Área E-AB6 (Edificación Aislada Baja densidad Nº 6), indicada en el nuevo Cuadro Nº 13, una superficie de Subdivisión Predial Mínima de 140 m2.
+
+> **Nota.** NOTA 5 El N° 7 del Artículo Único del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, modifica la presente norma, en el sentido de reemplazar las tablas Área E-AB1, Área E-AB2, Área E-AB3, Área E-AB4, Área E-AB5, Área E-AM1, Área E-AM2, Área E-AM3, Área E-AM4, Área E-AA1, Área E-AA2 y Área E-A1 por las nuevas tablas que en ella se indica.
+
+#### Artículo 31
 
 Usos de Suelo Permitidos y Prohibidos. Los proyectos de edificación, subdivisión y/o loteos que se emplacen en las Áreas de Usos de Suelo indicadas en el artículo 36 de la presente Ordenanza, podrán optar a localizar los usos de suelo y actividades que a continuación se señalan, debiendo cumplir en cada caso con las restricciones indicadas, sin perjuicio de las restricciones y exigencias que en forma expresa señalen otras leyes, normas y estatutos
 
@@ -502,7 +458,7 @@ ELIMINADO.
 
 > **Nota.** El Nº 20 del artículo único del DTO 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. La citada actualización, no se ha incorporado por razones técnicas temporales.
 
-#### Artículo 41
+#### Artículo 32
 
 Zonas con Normas Conjuntas: Los proyectos de edificación, subdivisión y/o loteo que se emplacen en las Zonas indicadas en el artículo 39 de la presente Ordenanza, deberán cumplir con las normas de edificación y de uso de suelo que expresamente para ellas se señalan a continuación:
 
@@ -750,9 +706,7 @@ biblioteca y jardín, Av. Vicuña Mackenna
 
 N° 10208.
 
-ICH-7. Centro Médico Alemán, Av. Vicuña Mackenna
-
-N° 8840.
+ICH-7. ELIMINADO.
 
 ICH-8. Casa Antigua de Fundo, Av. La Florida
 
@@ -804,11 +758,7 @@ esta Ordenanza Local.
 
 9. Zonas del Sector Centro
 
-Estas zonas aplicarán todas las presentes
-
-disposiciones generales de esta Ordenanza Local,
-
-además de las siguientes condiciones particulares definidas para ellas:
+Estas zonas aplicarán todas las presentes disposiciones generales de esta Ordenanza Local, además de las siguientes condiciones particulares definidas para ellas:
 
 A) Normas Particulares sobre Loteo y Edificación Antejardines. Los antejardines definidos en esta Ordenanza no podrán ser utilizados para el emplazamiento de estanques de gas licuado. Además, en todos los conjuntos habitacionales de vivienda en altura, en conjuntos de oficinas y/o en todos los edificios en altura acogidos a la Ley de Copropiedad Inmobiliaria tipo A, los antejardines no podrán entregarse para goce y uso exclusivo de ninguna vivienda, oficina o departamento del conjunto o edificio.
 
@@ -1700,19 +1650,7 @@ Máxima Libre
 
 10. Disposiciones sobre Propaganda
 
-La instalación de propaganda y publicidad en la
-
-propiedad pública y/o privada dentro del límite
-
-urbano comunal, deberá ceñirse a lo establecido en el artículo 2.7.10 de la Ordenanza General de Urbanismo y Construcciones, y a los procedimientos que señala la Ordenanza Local sobre Publicidad y Propaganda, respetando las exigencias estipuladas para la solicitud de permisos, diseño, instalación y mantención, en la medida que esta Ordenanza Local de Publicidad y Propaganda no contravenga lo dispuesto por la OGUC.
-
-En las vías troncales, colectoras y de servicio asociadas a vías expresas, podrán localizarse instalaciones de publicidad cuyas dimensiones no superen los 2 metros de alto por 1 metro de ancho, con un máximo de 0,40 m de espesor. Se permitirá como máximo una instalación por cada 100 metros lineales, considerando cada borde de la vía en forma independiente. Se exceptúan de lo anterior los elementos transitorios determinados por la Ordenanza Local sobre Publicidad y Propaganda en su artículo 27, referido a publicidad en los frentes de sitios eriazos.
-
-Se permitirá la publicidad asociada al mobiliario urbano, siempre que ésta quede supeditada al elemento que le sirve de soporte.
-
-En la propiedad privada sólo se admitirán las instalaciones de publicidad cuando éstas se relacionen con la actividad específica que se desarrolla en el predio. No se permitirán las instalaciones de publicidad de empresas que realizan la actividad económica de publicidad, con excepción de los casos señalados en el capítulo 4 de la Ordenanza Local sobre Publicidad y Propaganda, párrafo 21.2.3, referidos a letreros publicitarios sobre cubierta de edificios.
-
-La obtención de las autorizaciones respectivas se regirá por lo señalado en la Ordenanza General de Urbanismo y Construcciones y por la Ordenanza Local sobre Publicidad y Propaganda.
+La instalación de propaganda y publicidad en la propiedad pública y/o privada dentro del límite urbano comunal, deberá ceñirse a lo establecido en el artículo 2.7.10 de la Ordenanza General de Urbanismo y Construcciones, y a los procedimientos que señala la Ordenanza Local sobre Publicidad y Propaganda, respetando las exigencias estipuladas para la solicitud de permisos, diseño, instalación y mantención, en la medida que esta Ordenanza Local de Publicidad y Propaganda no contravenga lo dispuesto por la OGUC.
 
 > **Nota.** El Nº 21 del artículo único del DTO 430 Exento, M. de la Florida, publicado el 26.05.2007, modifica la presente norma. Algunas actualizaciones, no se ha incorporado al presente texto actualizado por razones técnicas temporales.
 
@@ -1722,15 +1660,17 @@ La obtención de las autorizaciones respectivas se regirá por lo señalado en l
 
 > **Nota.** NOTA 3 El artículo 1º Nº 19 del Decreto 766 Exento, M. DE LA FLORIDA, publicado el 19.03.2013, modifica la presente norma de la manera que la citada norma indica.
 
+> **Nota.** NOTA 4 El N° 9 del Artículo Único del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, introduce diversas modificaciones a los cuadros contenidos en la presente norma, en la forma que en ella se indica.
+
 ## Capítulo V
 
 Vialidad
 
-#### Artículo 42
+#### Artículo 33
 
 Las avenidas, calles, pasajes y, en general, todas las vías públicas del Plan Regulador de la Florida, son las que actualmente existen, las cuales mantienen sus anchos entre líneas oficiales, salvo aquellas que expresamente se indican como afectas a ensanches o aperturas de nuevas vías.
 
-#### Artículo 43
+#### Artículo 34
 
 Con el objeto de facilitar el desplazamiento de personas con discapacidad, por espacios de uso público, se deberá cumplir, a lo menos, con las siguientes prescripciones:
 
@@ -1748,7 +1688,7 @@ En los casos de reposiciones de las veredas o calzadas, se deberán construir di
 
 6. En las vías de mayor flujo peatonal, los semáforos deberán contar con señales auditivas, para las personas con discapacidad visual.
 
-#### Artículo 44
+#### Artículo 35
 
 Vialidad Estructurante. La vialidad estructurante de la comuna de La Florida se encuentra constituida por las vías que se grafican con esa denominación en el Plano PRLF-3 y que se caracterizan en los cuadros que se presentan a continuación:
 
@@ -1758,7 +1698,7 @@ VER DIARIO OFICIAL DE 17.08.2001, PAGINAS 25 - 32
 
 > **Nota.** NOTA 1: El DTO 60 Exento, M. de la Florida, publicado el 09.02.2009, modifica la tabla contenida en la presente norma. La citada modificación no se ha incorporado al presente texto actualizado por restricciones técnicas temporales.
 
-#### Artículo 45
+#### Artículo 36
 
 transitorio: "Las vías locales y de servicio, a diferencia de las de mayor jerarquía, están afectas a declaratoria de utilidad pública en los términos señalados en el artículo Nº 33 de la ley Nº 18.695 "Orgánica Constitucional de Municipalidades".
 
