@@ -26,6 +26,20 @@ Para la Educación Media Técnico-Profesional regirán los elementos de enseñan
 
 Las exigencias de elementos de enseñanza y material didáctico mínimos que se establecen en el presente decreto se harán exigibles a los sostenedores a contar de su publicación.
 
+#### Artículo 2º bis
+
+Los establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998 y por el decreto ley Nº 3.166, de 1980, deberán manifestar en forma expresa su voluntad para recibir o rechazar los textos escolares de educación básica y media, que adquiera el Ministerio de Educación, consignándola en la plataforma que dicha Cartera de Estado disponga al efecto. Podrán aceptarlos en forma parcial, cuando algunos de ellos no se ajusten a su programa de estudio o a su proyecto educativo.
+
+Aquellos establecimientos que acepten recibir los textos escolares por parte del Ministerio de Educación, deberán entregarlos a título gratuito a los alumnos y alumnas matriculados en el establecimiento, durante el año lectivo que corresponda, así como también, aquellos textos que se encuentran dirigidos a su cuerpo docente.
+
+El Ministerio de Educación pondrá a disposición de los respectivos directores, un acta de compromiso para la recepción y entrega de los textos escolares a que se refiere el inciso anterior, la que será suscrita, incorporada al sistema informático que para tal efecto dispone el Ministerio y remitida en la forma y plazo a que se refiere el inciso 5º, por el director del establecimiento educacional.
+
+Los establecimientos educacionales que opten por rechazar los textos escolares que entrega el Ministerio de Educación, deberán informar de esta decisión a los centros de padres y apoderados y de alumnos, respectivamente. El documento informativo deberá contar con los motivos que fundamenten tal decisión, y será suscrito por el director del establecimiento educacional.
+
+Una copia del documento a que se refiere el inciso anterior, deberá ser remitida a la Secretaría Regional Ministerial de Educación que corresponda, a más tardar el último día hábil del mes de marzo del año en que serán utilizados y entregada a los padres y/o apoderados al momento de proceder a matricular a el o los alumnos.
+
+Cualquier incumplimiento de lo señalado en este artículo por parte del sostenedor, estará afecto al procedimiento dispuesto en el párrafo 5º del Título III de la ley Nº 20.529.
+
 #### Artículo 3º
 
 Los establecimientos educacionales que a la fecha de la publicación de este decreto, cuenten con reconocimiento oficial y aquellos cuya solicitud se encuentre pendiente o en trámite, incluyendo las solicitudes para crear un nivel o una modalidad educativa diferente, seguirán rigiéndose por lo dispuesto en el decreto Nº 53, de 2011, del Ministerio de Educación, hasta el término del año escolar 2013, fecha después de la cual será totalmente aplicable lo dispuesto en el artículo 4º del presente decreto.
