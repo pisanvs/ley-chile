@@ -18,7 +18,9 @@ Resolución:
 
 .
 
-2. Los recursos comprometidos conforme al Resuelvo 1. de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 3.134 (V. y U.), de 2014, cuyo cierre de postulación se efectuó el día 29 de agosto de 2014, se detallan en el siguiente cuadro, considerando los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica:
+2. Asígnase un monto de 18 Unidades de Fomento, a cada una de las personas beneficiadas en el resuelvo 1 de la presente resolución, para el pago por las labores de Inspección Técnica de Obra, conforme a la resolución Nº 420 (V. y U.), de 2012, que fija procedimiento para la prestación de servicios de asistencia técnica, jurídica y social para el programa Fondo Solidario de Elección de Vivienda.
+
+3. Los recursos comprometidos conforme al Resuelvo 1. de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 3.134 (V. y U.), de 2014, cuyo cierre de postulación se efectuó el día 29 de agosto de 2014, se detallan en el siguiente cuadro, considerando los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica:
 
 Región Nº Familias Monto
 
@@ -26,9 +28,9 @@ Selección Subsidios
 
 (UF)
 
-Tarapacá 44 37.400
+Tarapacá 44 38.192
 
-Total 44 37.400
+Total 44 38.192
 
 El monto definitivo a considerar para cada postulante seleccionado, será determinado al momento de la adscripción al proyecto, por parte del damnificado beneficiado.
 
