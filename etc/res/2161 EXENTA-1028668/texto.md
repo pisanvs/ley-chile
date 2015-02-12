@@ -56,19 +56,29 @@ La presente norma de aplicación general obliga a la Subsecretaría de Pesca en 
 
 ## Título II — De los mecanismos de participación ciudadana
 
-#### Artículo 4º
+#### Artículo 4
 
-Los mecanismos de participación ciudadana en la Subsecretaría de Pesca constituyen instancias de diálogo constantes y fluidas entre este órgano y los miembros activos de la ciudadanía, actúen agrupados o individualmente.
+Los mecanismos de participación ciudadana en la Subsecretaría de Pesca y Acuicultura constituyen instancias de diálogo constante y fluido entre este órgano de la Administración del Estado y los miembros activos de la ciudadanía, actúen agrupados o individualmente.
 
-En concordancia con lo señalado, se constituyen las siguientes modalidades y formas específicas de participación ciudadana en la Subsecretaría de Pesca:
+En concordancia con lo señalado, se constituyen las siguientes modalidades y formas específicas de participación ciudadana en la Subsecretaría de Pesca y Acuicultura:
 
-1. Cuenta Pública Participativa.
+1.- Cuenta Pública Participativa
 
-2. Consejos de la Sociedad Civil.
+2.- Consejos de la Sociedad Civil
 
-3. Consulta Ciudadana.
+3.- Consulta Ciudadana
 
-4. Acceso a la información relevante.
+4.- Acceso a la Información Relevante
+
+Sin perjuicio de lo anterior, esta Subsecretaría podrá incorporar como mecanismos de participación los siguientes:
+
+a.- Audiencias Públicas
+
+b.- Cabildos Ciudadanos, Territoriales y Sectoriales
+
+c.- Encuentros de Diálogo Participativo
+
+d.- Plataformas Digitales Participativas.
 
 De la Cuenta Pública Participativa
 
@@ -92,7 +102,7 @@ La Subsecretaría de Pesca contará con un Consejo de la Sociedad Civil de cará
 
 El Consejo estará conformado por los miembros del Consejo Nacional de Pesca, los que serán convocados al efecto. Su integración y convocatoria se efectuará conforme las normas que lo rigen establecidas en la Ley General de Pesca y Acuicultura.
 
-Este consejo será autónomo e independiente en sus decisiones, sus atribuciones son consultivas y su principal función es acompañar la toma de decisiones de las políticas que impulse la Subsecretaría de Pesca.
+Estos consejos serán autónomos e independientes y formarán parte del Consejo General de Pesca y por lo tanto del Consejo de la Sociedad Civil del Ministerio de Economía, Fomento y Turismo, en lo relativo a temas pesqueros y acuícolas, respectivamente.
 
 De la Consulta Ciudadana
 
