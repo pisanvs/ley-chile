@@ -1,0 +1,3 @@
+Por resolución exenta Nº 307, de 5 de febrero de 2015, de esta Subsecretaría, recházanse las solicitudes números 213122222, 213122194, 213122223, 213121026, 213122196, 213122197, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y en el artículo 14 del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 5 de febrero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
