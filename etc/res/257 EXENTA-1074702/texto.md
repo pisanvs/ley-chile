@@ -1,0 +1,3 @@
+Por resolución exenta Nº 257, de 3 de febrero de 2015, de esta Subsecretaría, amplíese por doce meses, a contar del 31 de enero de 2015, el plazo otorgado en el numeral 5º de la resolución exenta Nº 3.165 de 2014, a DERIS S.A., para continuar desarrollando actividades pesqueras extractivas con la nave fábrica "Puerto Williams", en el área marítima comprendida entre los paralelos 47º L.S. y 57º L.S., por fuera de las líneas de base recta, con palangre, sobre los recursos hidrobiológicos Merluza del sur y Congrio dorado, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 3 de febrero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
