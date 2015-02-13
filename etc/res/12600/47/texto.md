@@ -1,0 +1,7 @@
+DISPONE Y ESTABLECE PROCEDIMIENTO PARA LA CONFECCIÓN Y PRESENTACIÓN DE PLANES DE CONTINGENCIA DE RESPUESTA, CONTRA LA CONTAMINACIÓN DE LAS AGUAS POR HIDROCARBUROS U OTRAS SUSTANCIAS NOCIVAS LÍQUIDAS CONTAMINANTES O, QUE SEAN SUSCEPTIBLES DE CONTAMINAR, MATERIAL MÍNIMO DE RESPUESTA Y LINEAMIENTOS PARA EMPRESAS DEDICADAS A LAS TAREAS DE CONTENCIÓN, RECUPERACIÓN, LIMPIEZA Y DISPOSICIÓN FINAL DE LOS RESIDUOS RECUPERADOS
+
+Por resolución DGTM y MM Ord. Nº 12600/47 Vrs., del 27 de enero de 2015, se aprueba la Circular DGTM y MM Nº A-53/003, de la misma fecha, la cual "Dispone y establece el procedimiento para la confección y presentación de planes de contingencia de respuesta, contra la contaminación de las aguas por hidrocarburos u otras sustancias nocivas líquidas contaminantes o, que sean susceptibles de contaminar, material mínimo de respuesta y lineamientos para empresas dedicadas a las tareas de contención, recuperación, limpieza y disposición final de los residuos recuperados".
+
+El texto íntegro de esta resolución está publicado en la página web de la Dirección General del Territorio Marítimo y de Marina Mercante (www.directemar.cl).
+
+Valparaíso, 27 de enero de 2015.- Osvaldo Schwarzenberg Ashton, Vicealmirante, Director General.- Rodrigo Ramírez Daneri, Capitán de Navío JT, Jefe Depto. Jurídico.
