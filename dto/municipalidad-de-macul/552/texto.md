@@ -236,6 +236,10 @@ Líneas, Antejardines y Cierros: Según el artículo 1.1.2 de la O.G.U.C., se di
 
 ² Antejardín: es el área entre la línea oficial y la línea de edificación, regulada en el instrumento de planificación territorial y cuyo ancho está definido para cada Zona en el capítulo V de esta Ordenanza.
 
+No se autorizará la construcción de subterráneos en los antejardines. Sólo se permitirá la construcción de caseta de guardias o de vigilancia, pérgolas, construcciones destinadas a portería y estacionamientos de visitas.
+
+No se permitirá el funcionamiento de actividades productivas ni de equipamientos en los antejardines de los predios que enfrentan a la Av. Macul.
+
 Los cierros exteriores tendrán una altura máxima de 2 mts. debiendo ser transparentes al menos en un 60% de su longitud. Los cierros interiores entre predios tendrán la misma altura y en las Zonas Industriales los cierros deberán tener una altura de 2.5 mts.
 
 Los cierros en esquinas deberán formar los ochavos que se exigen en los artículos 2.5.3 al 2.5.7 de la Ordenanza General de Urbanismo y Construcciones.
@@ -262,7 +266,7 @@ En las zonas ZM-1, ZM-2, ZM-3, ZM-4, ZM-5, ZR-6, ZI-m, las excavaciones para sub
 
 Estacionamientos:
 
-Las normas referidas a los estacionamientos serán las establecidas en el artículo 7.1.2 del Plan Regulador Metropolitano de Santiago, y por los artículos 2.4.1 al 2.4.5 de la Ordenanza General de Urbanismo y Construcciones y las de la presente Ordenanza.
+Las normas referidas a los estacionamientos serán las establecidas en el artículo 7.1.2 del Plan Regulador Metropolitano de Santiago, y por los artículos 2.4.1 al 2.4.6 de la Ordenanza General de Urbanismo y Construcciones y las de la presente Ordenanza.
 
 Los edificios que se construyan, habiliten, cambien de destino, o se regularicen dentro de la Comuna, deberán cumplir, dentro del mismo predio que genera la obligación o en otros predios, con las normas y estándares mínimos de estacionamientos que se señalan en el presente artículo. Estos últimos están referidos al uso y destino de las edificaciones.
 
@@ -270,9 +274,17 @@ Cuando en un mismo proyecto se consulten dos o más destinos, el número total d
 
 Las rampas de acceso y salida de estacionamientos situados a distintos niveles que el de la calzada, deberán consultar, dentro del predio y a partir de la línea oficial, un tramo horizontal de un largo no inferior a 5 mts. o 10 mts. según se trate de automóviles o buses, camiones y similares respectivamente.
 
-Con frente a las vías estructurantes establecidas, cuyos flujos vehiculares sean iguales o superiores a 300 vehículos hora por pista, el emplazamiento de proyectos que generan la obligación de 100 o más unidades de estacionamiento, sólo se autorizará si junto con la respectiva solicitud de aprobación se acompaña un estudio que justifique y resuelva los accesos y salidas de vehículos con sus respectivos flujos, debidamente dimensionados y compatibilizados con los flujos de la red estructurante en que se inserten. Para los efectos de la medición de los flujos se estará a lo dispuesto en la descripción contenida en la Sección 3.404 del Manual de Vialidad Urbana, aprobado por D.S. N° 12, del MINVU, de 1984, se permitirá estacionamiento en antejardines siempre que no se ocupe un área superior al 30% del total del mismo.
+Con frente a las vías estructurantes establecidas, cuyos flujos vehiculares sean iguales o superiores a 300 vehículos hora por pista, el emplazamiento de proyectos que generan la obligación de 100 o más unidades de estacionamiento, sólo se autorizará si junto con la respectiva solicitud de aprobación se acompaña un estudio que justifique y resuelva los accesos y salidas de vehículos con sus respectivos flujos, debidamente dimensionados y compatibilizados con los flujos de la red estructurante en que se inserten. Para los efectos de la medición de los flujos se estará a lo dispuesto en la descripción contenida en la Sección 3.404 del Manual de Vialidad Urbana, aprobado por D.S. N° 12, del MINVU, de 1984.
 
-Los estacionamientos ubicados al nivel de primer piso no podrán adosarse a las ventanas, debiendo mantener una distancia mínima de 5 mts. respecto de estas. Además, en todos los edificios que corresponda según lo señalado en el Art. 7.1.2.9 del PRMS deberá contemplarse un 15% más de estacionamientos para visitas.
+Los estacionamientos ubicados a nivel de primer piso, en los Condominios de Vivienda tipo A y en los Edificios de Departamentos Habitacionales, no podrán adosarse a los vanos, debiendo mantener una distancia mínima de 5 m respecto de éstos, excepto los que enfrenten a salas de basura, bodegas y recintos de lavandería.
+
+En todos los edificios residenciales y de uso público deberá contemplarse un 20% adicionales de estacionamientos para visitas, cuando el resultado de la aplicación de los estándares genere 20 o menos estacionamientos y un 15% adicionales de estacionamientos para visitas, cuando el resultado de la aplicación de los estándares genere sobre 20 estacionamientos.
+
+Se permitirá el estacionamiento para visitas en el antejardín, contemplado en el inciso anterior, hasta un máximo correspondiente a 1/3 del frente del predio y de no completarse en este espacio, el resto de la dotación exigida deberá ubicarse en otro sector, pudiendo ser parte del área ocupada para los demás estacionamientos del proyecto.
+
+En todos los Edificios de Uso Público, que tengan una carga superior a 100 personas y en todos los Edificios Colectivos de Viviendas se deberá considerar un estacionamiento de bicicleta cada 10 estacionamientos de autos, debiendo cumplir, además, con lo dispuesto en el Art. 2.4.1. bis de la OGUC.
+
+Los estacionamientos de vehículos adosados de forma "aculatado recto" (perpendicular al deslinde) o aculatado oblicuo, a nivel de primer piso, deberán contemplar la instalación de barreras que impidan que los vehículos impacten los muros medianeros.
 
 Los estándares de estacionamiento serán los que se indican en el cuadro siguiente, según el destino y tipo de las edificaciones. Las cifras intermedias resultantes se aproximarán al entero superior.
 
@@ -286,13 +298,11 @@ VIVIENDA SOCIAL No se exige.
 
 VIVIENDA COLECTIVA, LEY 19.537 Y RESIDENCIAS PARA ADULTOS MAYORES AUTOVALENTES. (1)
 
-- De 0 a 50 m2 1 por cada 5 viviendas
+- De 0 a 70 m2 1 por cada 1 viviendas
 
-- De 51 a 100 m2 1 por cada 3 viviendas
+- Sobre 70 y hasta 100 m2 1.5 por cada 1 viviendas y
 
-- De 101 a 150 m2 1 por cada 1 viviendas
-
-- De más de 150 m2 2 por cada vivienda
+- Sobre 100 m2 2 por cada vivienda
 
 EQUIPAMIENTO DE SALUD
 
@@ -306,17 +316,17 @@ EQUIPAMIENTO DE EDUCACION (1)
 
 - Establecimientos de
 
-Enseñanza Técnica 1 por cada 20 alumnos
+Enseñanza Técnica 1 por cada 10 alumnos
 
 y Superior.
 
 - Establecimientos de Enseñanza Media y Básica y Básica
 
-Especial. 1 por cada 80 alumnos
+Especial. 1 por cada 40 alumnos
 
 - Establecimientos de Enseñanza
 
-Prebásica. 1 por cada 60 alumnos.
+Prebásica. 1 por cada 40 alumnos.
 
 - Centros de Investigación 1 por cada 200 m2
 
@@ -338,7 +348,7 @@ espectadores
 
 y Bowling 2 por cada cancha
 
-- Multicanchas 5 por cada cancha
+- Multicanchas y futbolito 8 por cada cancha
 
 - Canchas de Fútbol y Rugby 10 por cada cancha
 
@@ -394,9 +404,15 @@ y Prensa escrita. 1 por cada 150 m2
 
 útiles.
 
-EQUIPAMIENTO DE COMERCIO - Supermercados, Mercados, Grandes Tiendas, Agrupaciones Comerciales de más de 500 m2 edificados.
+EQUIPAMIENTO DE COMERCIO |!
 
-Mínimo 3 estacionamientos. 1 por cada 50 m2
+- Supermercados, Mercados,
+
+Grandes Tiendas,
+
+Agrupaciones Comerciales
+
+de más de 500 m2 edificados. 1 por cada 50 m2
 
 útiles. (2)
 
@@ -408,7 +424,11 @@ Mínimo 3 estacionamientos. 1 por cada 70 m2 útiles.
 
 de menos de 200 m2
 
-edificados. 1 por cada 120m2 útiles.
+edificados. 1 por cada 60m2 útiles.
+
+- Agrupaciones Comerciales
+
+de 200 a 500 m2 edificados 1 por cada 70 m2 útiles (2)
 
 - Hotel, Apart-Hotel,
 
@@ -434,15 +454,15 @@ líquidos y gaseosos. Venta
 
 de maquinaria.
 
-Mínimo 3 estacionamientos. 1 por cada 150 m2
+Mínimo 4 estacionamientos. 1 por cada 70 m2
 
 de recinto. (2)
 
-- Restaurantes, Fuentes de
+- Restaurantes y Bares 1 por cada 20 m2 útiles (2)"
 
-Soda, Bares y Discotecas. 1 por cada 30 m2 útiles.
+"Fuentes de Soda 1 por cada 30 m2 útiles (2)" y
 
-(2)
+"Pub y Discotecas 1 por cada 15 m2 útiles (2)".
 
 EQUIPAMIENTO DE SERVICIOS PUBLICOS O PRIVADOS Y PROFESIONALES.
 
@@ -466,9 +486,13 @@ de oficinas hasta
 
 Dentales, Laboratorios
 
-Clínicos. 1 por cada 70 m2
+Clínicos. 1 por cada 50 m2
 
 útiles. (1)
+
+Escuela de conductores.
+
+Mínimo 3 estacionamientos 1 cada 50 m2 útiles
 
 EQUIPAMIENTO DE SERVICIOS ARTESANALES
 
@@ -930,77 +954,11 @@ Los servicios artesanales y los profesionales se entenderán siempre incluidos e
 
 Cuando un proyecto contemple actividades de dos o más tipos de equipamiento se admitirán todas ellas si al menos dos tercios de la superficie edificada con tal destino fuere compatible con uso de suelo contemplado en el presente plan, y las demás actividades no estuvieren expresamente prohibidas en el mismo.
 
-Artículo Nº 23 Escalas del Equipamiento Para los efectos de la aplicación del presente plan y de conformidad a lo dispuesto en el artículo 2.1.36 de la O.G.U.C. se distinguirán cuatro escalas de equipamiento, independientes de su clase. Estas escalas se dividirán de acuerdo a la carga de ocupación y cantidad de estacionamientos requeridos para el equipamiento y su ubicación estará condicionada a la categoría de la vía que enfrentan y por la cual acceden.
+Artículo Nº 23 Escalas del Equipamiento
 
-Las escalas son las siguientes:
+Para los efectos de la aplicación del presente plan, se distinguirán cuatro escalas de equipamiento, divididas según su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan, conforme a lo dispuesto en el Artículo 2.1.36 de la OGUC.
 
-1. Equipamiento Mayor: el que contempla una carga de
-
-ocupación sobre las 4.000 personas y requiere más
-
-de 800 estacionamientos; en este caso, sólo se
-
-podrá ubicar en predios que enfrenten vías
-
-expresas.
-
-2. Equipamiento Mediano: el que contempla una carga
-
-de ocupación de hasta 4.000 personas y no requiere
-
-más de 800 estacionamientos; en este caso, se podrá
-
-ubicar en predios que enfrenten vías troncales o
-
-expresas. También el que contempla una carga de
-
-ocupación de hasta 3.000 personas y no requiera
-
-más de 500 estacionamientos; en este caso, se
-
-podrá ubicar en predios que enfrentan vías
-
-colectoras, troncales o expresas.
-
-3. Equipamiento Menor: el que contempla una carga de
-
-ocupación de hasta 1.000 personas y no requiere
-
-más de 250 estacionamientos; en este caso, se
-
-podrá ubicar en predios que enfrenten vías de
-
-servicio, colectoras, troncales o expresas.
-
-4. Equipamiento Básico: el que contempla una carga
-
-de ocupación de hasta 250 personas y no requiere
-
-más de 50 estacionamientos; en este caso, se podrá
-
-ubicar en predios que enfrenten vías locales, de
-
-servicio, colectoras, troncales o expresas.
-
-Para la aplicación de las normas anteriores se entenderá que los trazados viales urbanos se clasificarán de acuerdo al Capítulo 3 del Título 2 de la Ordenanza General de Urbanismo y Construcciones, como sigue:
-
-* Vías Expresas
-
-* Vías Troncales
-
-* Vías Colectoras
-
-* Vías de Servicio
-
-* Vías Locales
-
-* Pasajes
-
-Como parte de la política de protección del medio ambiente y de conformidad a lo dispuesto en la letra h) de artículo 3° del Decreto Supremo N° 131, del Ministerio de Secretaria General de la Presidencia, publicado en el Diario Oficial del 2/09/98, los edificios de uso público con capacidad de más de 5.000 personas o con más de 1.000 estacionamientos deberán presentar un Estudio de Impacto Ambiental.
-
-Igualmente, se deberá procurar que el emplazamiento del edificio con afluencia masiva de público no provoque impactos negativos, tanto en el tránsito vehicular de las vías que lo enfrentan como en la calidad ambiental de la zona respectiva, debiendo los propietarios solventar los estudios necesarios de las obras correspondientes para la adecuada solución del proyecto y las respectivas obras en general.
-
-Asimismo, con el objeto de facilitar la accesibilidad y desplazamiento de personas con discapacidad, toda edificación colectiva, cuya carga de ocupación sea mayor a 50 personas, y todo edificio de uso público deberá cumplir con los requisitos señalados en el Art. 4.1.7. de la O.G.U.C.
+Para la aplicación de las normas anteriores se entenderá que los trazados viales urbanos de uso público intercomunales y comunales destinados a la circulación vehicular, atendiendo a su función principal, sus condiciones fundamentales y estándares de diseño, se clasifican conforme a lo dispuesto en los Artículos 2.3.2 y 2.3.3 de la OGUC.
 
 ## Capítulo V
 
@@ -1202,9 +1160,7 @@ deberán incluir un Estudio Geotécnico.
 
 de esta misma Ordenanza; a nivel de
 
-suelo sólo podrán ocupar el 30 % del área libre,
-
-y en ningún caso en el antejardín.
+suelo sólo podrán ocupar el 30 % del área libre.
 
 * Los servicios artesanales sólo se autorizarán
 
@@ -1326,9 +1282,7 @@ Disposiciones complementarias:
 
 * Los estacionamientos a nivel de terreno sólo podrán
 
-ocupar el 50 % del área libre, y en ningún caso en
-
-el antejardín.
+ocupar el 50 % del área libre.
 
 * El equipamiento comercial y talleres de esta zona
 
@@ -1462,9 +1416,7 @@ primer tramo del cuadro anterior.
 
 de esta misma ordenanza; al nivel de
 
-suelo sólo podrán ocupar el 30 % del área libre,
-
-y en ningún caso en el antejardín.
+suelo sólo podrán ocupar el 30 % del área libre.
 
 * Los servicios artesanales sólo se autorizarán
 
@@ -1590,7 +1542,7 @@ de esta misma ordenanza; al nivel
 
 de suelo sólo podrán ocupar el 30 % del área
 
-libre, y en ningún caso en el antejardín.
+libre.
 
 * Los servicios artesanales sólo se autorizarán
 
@@ -1726,9 +1678,7 @@ Disposiciones complementarias:
 
 de esta misma ordenanza; a nivel de
 
-suelo sólo podrán ocupar el 30 % del área libre,
-
-y en ningún caso en el antejardín.
+suelo sólo podrán ocupar el 30 % del área libre.
 
 * Los servicios artesanales sólo se autorizarán como
 
