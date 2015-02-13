@@ -1,0 +1,11 @@
+MODIFICACIÓN DE DECLARACIÓN DE PRINCIPIOS DEL PARTIDO "RENOVACIÓN NACIONAL"
+
+Por resolución O-Nº 14, de fecha 5 de febrero de 2015, se dispuso la publicación del siguiente extracto, para los efectos señalados en el artículo 29 de la Ley Nº 18.603.
+
+"En Santiago de Chile, a 30 de enero de 2015, ante don Francisco Javier Leiva Carvajal, Abogado, Notario Titular de la Segunda Notaría de Santiago, suscriben escritura pública que contiene la modificación de Declaración de Principios del Partido "Renovación Nacional" los señores Cristian Monckeberg Bruner y Mario Desbordes Jiménez, Presidente y Secretario General, respectivamente.
+
+La modificación introducida en la Declaración de Principios del Partido "Renovación Nacional" fue aprobada por el Consejo General en sesión celebrada los días 22 y 23 de noviembre de 2014 y ratificada por los afiliados el día 20 de diciembre de 2014, según consta en las Actas Notariales correspondientes.
+
+La referida reforma modifica la Declaración de Principios, que se expresa en los siguientes numerales: Uno: Persona y Derechos Humanos; Dos: Rol Fundamental de la Familia; Tres: Nación e Interculturalidad; Cuatro: República, Democracia Representativa y Ciudadanía Responsable; Cinco: Libertad, Rol del Estado, Principio de Subsidiariedad y Sociedad Solidaria; Seis: Sociedad Civil, Derecho de Asociación y Partidos Políticos; Siete: Estado de Derecho y Seguridad, Paz Social y Condena al Terrorismo; Ocho: Regionalización y Gobiernos; Nueve: Instituciones y Prosperidad General; Diez: Participación, Transparencia y Probidad; Once: Economía Social de Mercado; Doce: Emprendimiento, Legítima Retribución y Responsabilidad Social Empresarial; Trece: Impulso a la Competencia, Defensa de los Consumidores y Rechazo a los Abusos; Catorce: Libertad de Enseñanza, Derecho a la Educación y Acceso a la Cultura; Quince: Trabajo y Régimen Laboral; Dieciséis: Salud, Medio Ambiente y Desarrollo Sustentable; Diecisiete: Seguridad, Defensa y Fuerzas Armadas y de Orden; Dieciocho: Chile en el Mundo.".
+
+Eduardo Charme Aguirre, Director.
