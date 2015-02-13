@@ -872,7 +872,7 @@ En servicios interurbanos se permitirá el funcionamiento de radios, tocacasetes
 
 Antes de iniciar cada servicio, en los buses que cuenten con un sistema de reproducción de imágenes deberá exhibirse un video de seguridad de tránsito con mensajes informativos y educativos relacionados con el uso de cinturón de seguridad cuando corresponda, el transporte seguro de bultos y equipaje de mano, cómo actuar en caso de accidentes y el derecho de los pasajeros a que se respeten los límites de velocidad.
 
-En aquellos servicios no provistos de los medios audiovisuales antes referidos, deberá disponerse de una cartilla u otro medio escrito con mensajes sobre los temas a que alude el inciso anterior en todos los asientos.
+En aquellos servicios no provistos de los medios audiovisuales antes referidos, deberá disponerse de una cartilla u otro medio escrito con mensajes sobre los temas a que alude el inciso anterior en todos los asientos o adherida en la ventana ubicada al costado de cada dos asientos o de cada asiento cuando exista sólo uno.
 
 #### Artículo 67°
 
@@ -1168,7 +1168,7 @@ a. Por incumplimiento a lo dispuesto por el artículo 38º del presente reglamen
 
 b. Cobro de una tarifa superior a la registrada y/o calculada por la Secretaría Regional, cuando corresponda;
 
-c. Por la acumulación de tres infracciones a las normas técnicas y de seguridad aplicables a los vehículos, constatadas por parte de inspectores del Ministerio de Transportes y Telecomunicaciones, dentro del plazo de 180 días contados desde la fecha de la primera infracción.
+c. Por la acumulación de tres infracciones a las normas técnicas y de seguridad aplicables a los vehículos, constatadas por parte de inspectores del Ministerio de Transportes y Telecomunicaciones, dentro del plazo de 180 días corridos contados desde la fecha de la primera infracción.
 
 d. Por haber obtenido su certificado revisión técnica en contravención a lo dispuesto en el artículo 31º de este reglamento.
 
