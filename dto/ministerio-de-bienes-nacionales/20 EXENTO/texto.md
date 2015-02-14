@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A SOCIEDAD "ANDES MAINSTREAM SpA"
+
+Mediante decreto exento Nº 20, de 20 de enero de 2015, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto, a la sociedad "Andes Mainstream SpA", RUT Nº 76.037.037-1, el inmueble fiscal ubicado a 13,5 Km. al Suroeste de la intersección Ruta 5 con Ruta B-800, del lugar denominado Pampa Los Changos, comuna de Taltal, provincia y Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con el Nº 5001-2; amparado por la inscripción global que rola a fojas 41 vta. Nº 44 del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, correspondiente al año 1977; de una superficie total de 558,58 ha., singularizado en el Plano Nº 02104-8.486-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 4.793.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa División Jurídica.
