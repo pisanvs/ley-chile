@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE TARAPACÁ, A LA CORPORACIÓN MUSEO DEL SALITRE
+
+Mediante decreto exento Nº 6, de 14 de enero de 2015, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la Corporación Museo del Salitre, RUT Nº 75.579.400-7, el inmueble fiscal que corresponde al Lote "C", ubicado en el Cruce Ruta 16-Ruta 5, del lugar denominado Salitreras Humberstone, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con el Nº 2000-1; inscrito en mayor cabida a nombre del Fisco a fojas 1396 Nº 1366, del Registro de Propiedad del Conservador de Bienes Raíces de Pozo Almonte, correspondiente al año 1983; de una superficie aproximada de 1.922,30 metros cuadrados, singularizado en el Plano Nº 01401-1.112-C.R. La concesión se otorga por un plazo de 18 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para desarrollar el proyecto "Portal de Acceso al Sitio Patrimonio de la Humanidad Oficinas Salitreras Santiago Humberstone y Santa Laura", donde se construye la nueva vía de acceso a las salitreras. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
