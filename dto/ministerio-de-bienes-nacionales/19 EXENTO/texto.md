@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A SOCIEDAD "PAMPA SOLAR NORTE CUATRO SpA"
+
+Mediante decreto exento Nº 19, de 20 de enero de 2015, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto, a la sociedad "Pampa Solar Norte Cuatro SpA", RUT Nº 76.272.227-5, el inmueble fiscal ubicado en la Ruta 5 Km. 1.112 aproximadamente a 33 Km. al Sureste de la Ciudad de Taltal, comuna de Taltal, provincia de Antofagasta, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con el Nº 5000-11; amparado por la inscripción global que rola a fojas 41 vta. Nº 44 del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, correspondiente al año 1977; de una superficie total de 1,09 ha., singularizado en el Plano Nº 02104-8.510-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 24,00.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto que consiste en una subestación eléctrica para atender a los proyectos generadores de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa División Jurídica.
