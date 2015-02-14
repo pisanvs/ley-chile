@@ -18,15 +18,7 @@ Exploración Pellado: 100.000 hectáreas
 
 5. Que con fecha 17 de enero de 2014, la empresa Compañía de Energía SpA, en virtud del derecho exclusivo establecido en el artículo 14 de la ley Nº 19.657, solicitó el otorgamiento de una concesión de explotación de energía geotérmica sobre el área denominada "Pellado", ubicada en la Región del Maule, provincias de Talca y Linares, comunas de San Clemente y Colbún, de 16.000 hectáreas de extensión y cuyas coordenadas UTM referidas al Sistema de Referencia Geocéntrico para las Américas (Sirgas), de los vértices de su cara superior, expresados en metros, son las siguientes:
 
-Vértice Norte Este
-
-V1 6.024.620 334.815
-
-V2 6.024.620 344.815
-
-V3 6.008.620 344.815
-
-V4 6.008.620 334.815
+.
 
 6. Que en cumplimiento de lo previsto en el artículo 13 de la ley Nº 19.657, la empresa solicitante realizó las publicaciones del extracto de la solicitud de concesión con fecha 1 de febrero de 2014 en el Diario Oficial; con fecha 10 y 12 de febrero de 2014 en el diario de circulación nacional "Las Últimas Noticias"; con fecha 11 y 12 de febrero de 2014 en el diario de circulación regional "El Centro", de la Región del Maule. Asimismo, acompañó el certificado de difusión radial emitido por don Carlos Quintero Verdugo, representante de Radioemisora Exitosa Ltda., que da cuenta que con fecha 11 de febrero de 2014, a las 08:00, 14:00, y el día 12 de febrero a las 8:00 hrs., se difundieron a través de la emisora "Exitosa" tres mensajes radiales del extracto de la solicitud de concesión de exploración de energía geotérmica "Pellado".
 
@@ -54,8 +46,6 @@ V4 6.008.620 334.815
 
 Decreto:
 
-> **Nota.** El artículo único del Decreto 149 Exento, Energía, publicado el 17.04.2015, rectifica la presente norma en el sentido de reemplazar las tablas de coordenadas UTM insertas en sus considerandos quinto y sexto. Sin embargo, el considerando sexto carece de tabla.
-
 1º Otórguese, de conformidad a la ley Nº 19.657, la concesión de explotación de energía geotérmica denominada "Pellado", a la empresa Compañía de Energía SpA, Nº RUT 76.024.528-3, ubicada en la Región del Maule, provincias de Talca y Linares, comunas de San Clemente y Colbún, de 16.000 hectáreas de extensión y cuyas coordenadas UTM referidas al Sistema de Referencia Geocéntrico para las Américas (Sirgas), de los vértices de su cara superior, expresados en metros, son las siguientes:
 
 Vértice Este Norte
@@ -79,8 +69,6 @@ V4 6.008.620 334.815
 5º La concesionaria deberá informar al Ministerio de Energía, en el mes de marzo de cada año, el avance verificado en la ejecución del proyecto comprometido, durante el año calendario precedente. Específicamente, deberá informar acerca de las actividades e inversiones realizadas, con indicación del porcentaje de cumplimiento a esa fecha del programa de trabajo y de las respectivas inversiones comprometidas, de acuerdo a lo señalado en el numeral 3º precedente, debiendo, además, acompañar los documentos que respalden lo informado. La concesionaria también podrá entregar los informes adicionales que estime conveniente, en períodos distintos al indicado.
 
 6º Lo establecido en el presente acto administrativo es sin perjuicio de las autorizaciones medioambientales que debe obtener la concesionaria en virtud de la legislación vigente.
-
-> **Nota.** El numeral 1° del Decreto 74 Exento, Energía, publicado el 16.04.2025, declara la renuncia parcial, por parte de la empresa Compañía de Energía SpA, a la concesión de explotación de energía geotérmica denominada "Pellado", otorgada mediante el presente decreto; y por consiguiente, su numeral 2° modifica el resuelvo primero de esta misma norma, en el sentido de reducir el área de la cara superficial de la concesión desde 16.000 hectáreas a 5.544 hectáreas, cuyas nuevas coordenadas UTM de los vértices limítrofes, en metros, referidas al Sistema de Referencia Geocéntrico para las Américas (“SIRGAS”), Huso 19 Sur, son aquellas que la mencionada norma indica.
 
 Anótese, tómese razón, notifíquese y publíquese.- Por orden de la Presidenta de la República, Máximo Pacheco M., Ministro de Energía.
 
