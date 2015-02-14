@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE SAN ANTONIO
+
+Mediante decreto exento Nº 7, de 14 de enero de 2015, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la I. Municipalidad de San Antonio, RUT Nº 69.073.400-1, el inmueble fiscal signado como Lote 1, ubicado en Calle José Miguel Carrera Verdugo Nº 1053, Cerro La Viuda, sector Llolleo, de la comuna y provincia de San Antonio, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el Nº 8295-1; inscrito en mayor cabida a nombre del Fisco a fojas 2856 vta. Nº 1912, del Registro de Propiedad del Conservador de Bienes Raíces de San Antonio, correspondiente al año 1987; de una superficie aproximada de 1.432,00 metros cuadrados, singularizado en el Plano Nº 05601-3912-C.U. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para desarrollar el proyecto de readecuación y ampliación de infraestructura, del Centro de Salud Familiar (Cesfam), denominado "Reposición Cesfam Llolleo". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
