@@ -172,6 +172,52 @@ o) Los artículos 14 y 15 transitorios sobre protección de derechos previsional
 
 Además, será aplicable la ley Nº19.345, que dispuso la aplicación de la ley Nº16.744, sobre accidentes del trabajo y enfermedades profesionales, a los trabajadores del sector público.
 
+#### Artículo 13 bis
+
+Los médicos-cirujanos, farmacéuticos o químicos-farmacéuticos, bioquímicos y cirujanos dentistas del hospital Padre Alberto Hurtado que, durante más de veinte años hayan prestado, de acuerdo con las obligaciones estipuladas en sus contratos, servicios de guardia nocturna y en días domingo o festivos, quedarán exentos de la obligación de prestar dichos servicios y conservarán los derechos que esas funciones les conferían, cualquiera sea la modalidad de contratación en que actualmente se desempeñan o pasen a desempeñar en el futuro.
+
+Para efectos del cómputo del plazo de veinte años a que se refiere el inciso anterior, se considerará todo lapso servido, sea en calidad de reemplazante, suplente, a contrata o interino desempeñado conforme a la ley Nº 15.076 o a las modalidades de contratación establecidas en los artículos 14 y 15 del presente decreto con fuerza de ley.
+
+La liberación de guardia a que se refiere este artículo será incompatible con el beneficio consultado en el artículo 44 del decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado de la ley Nº15.076.
+
+#### Artículo 13 ter
+
+Los médicos-cirujanos, farmacéuticos o químicos-farmacéuticos, bioquímicos y cirujanos dentistas del hospital Padre Alberto Hurtado, que cumplan con los requisitos para acogerse al beneficio señalado en el artículo anterior, y deseen ser liberados de la obligación de prestar servicios de guardia nocturna y en días domingo o festivos, deberán solicitar este beneficio al Director del hospital antes del 31 de agosto de cada año. Dicha autoridad reconocerá este beneficio mediante resolución.
+
+Para los efectos de hacer efectivo el derecho a que se refiere el artículo 13 bis y el inciso precedente, por el solo ministerio de la ley, se crearán contratos de carácter indefinido adicionales, en extinción, a contar del 1 de enero del año siguiente al de la solicitud respectiva, los que pasarán a ser servidos por los beneficiarios, automáticamente a partir de esa fecha, a contar de la cual expirarán en funciones en el contrato que a la misma tenían en el hospital Padre Alberto Hurtado.
+
+Los referidos profesionales conservarán en el contrato indefinido adicional o en cualquiera que pasen a desempeñar en el futuro, una incompatibilidad de once horas y todos los demás derechos que esas funciones les conferían de acuerdo a lo señalado en el artículo 13 bis anterior, con excepción del descanso compensatorio especial a que se refiere el artículo siguiente.
+
+Los contratos de carácter indefinido adicionales, en extinción, que se creen en virtud del inciso segundo de este artículo, no se considerarán aumento de dotación para ningún efecto legal. Además, respecto de los profesionales que desempeñen contratos de veintiocho horas semanales, conllevarán la obligación de trabajar veintidós horas semanales.
+
+El presente artículo será incompatible con lo dispuesto en el artículo 6º de la ley Nº 19.230.
+
+#### Artículo 13 quáter
+
+Los médicos-cirujanos, farmacéuticos o químicos-farmacéuticos, bioquímicos y cirujanos dentistas del hospital Padre Alberto Hurtado que trabajen permanentemente en sistemas de turnos nocturnos y en días domingo o festivos, en cargos de veintiocho horas semanales, tendrán derecho en cada año calendario a un descanso compensatorio especial de diez días hábiles, compatible con el feriado legal, con goce de todas sus remuneraciones. Este descanso se hará efectivo, además, en las demás jornadas de horas semanales que los citados profesionales pudieran servir en forma compatible con las veintiocho horas, y que desempeñen en el mismo hospital.
+
+Este descanso compensatorio especial deberá usarse en forma continua dentro del año calendario, no podrá acumularse al feriado legal y tendrá que estar separado de éste o de la fracción no inferior a diez días, si el feriado se toma en forma fraccionada, por no menos de tres meses.
+
+Sin embargo, si por necesidades del servicio, el Director del hospital anticipa o posterga la época en que se pida el descanso compensatorio, el profesional podrá solicitar, por una sola vez, su acumulación para usarlo conjuntamente con el del año siguiente.
+
+La normativa a que se refiere este artículo será incompatible con la establecida en el artículo 5º de la ley Nº 19.230.
+
+#### Artículo 13
+
+quinquies.- Los trabajadores del hospital Padre Alberto Hurtado que laboran efectiva y permanentemente en puestos de trabajo que requieren atención las veinticuatro horas del día, en sistema de turnos rotativos, nocturnos y en días sábados, domingos y festivos, a excepción de los pertenecientes a la planta directiva de personal de exclusiva confianza del artículo 35 y de los médicos-cirujanos, farmacéuticos o químicos-farmacéuticos, bioquímicos y cirujanos dentistas, cualquiera que sea la jornada semanal de trabajo, tendrán derecho a optar por uno de los siguientes beneficios:
+
+1) Un descanso compensatorio especial de diez días hábiles al año, con goce de remuneraciones y compatible con el feriado legal.
+
+El referido descanso deberá usarse en forma continua dentro de cada año calendario, no podrá acumularse al feriado legal y tendrá que estar separado de éste por un plazo no inferior a tres meses.
+
+Sin embargo, si por necesidades del servicio el Director del hospital anticipa o posterga la época en que se pida el descanso compensatorio, el funcionario podrá solicitar, por una sola vez, su acumulación para usarlo conjuntamente con el del año siguiente.
+
+2) Un estipendio mensual, imponible y tributable, equivalente a los montos vigentes establecidos en el numeral 2 del artículo 3º de la ley Nº19.264. Este estipendio no servirá de base de cálculo de ninguna remuneración o beneficio económico.
+
+La opción que establece este artículo deberá efectuarse por el trabajador antes del 30 de junio de cada año, para regir el año calendario siguiente. El establecimiento dejará constancia en la resolución respectiva que reconoce el beneficio. Si no manifestare su voluntad dentro de dicho plazo, se entenderá que opta por el descanso compensatorio.
+
+El derecho a obtener el beneficio a que se refiere el presente artículo estará limitado a una cantidad máxima de 430 trabajadores del hospital Padre Alberto Hurtado.
+
 #### Artículo 14
 
 Los trabajadores del Establecimiento, salvo aquellos de exclusiva confianza, serán seleccionados previo concurso público. Las contrataciones que importen para el personal la promoción a un grado superior, se dispondrán previo concurso interno.
