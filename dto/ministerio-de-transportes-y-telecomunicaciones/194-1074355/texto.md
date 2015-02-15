@@ -157,3 +157,23 @@ Datum: WGS84.
 Anótese, comuníquese, tómese razón, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República, Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Subdivisión Jurídica
+
+Cursa con alcances el decreto N° 194, de 2014, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Telecomunicaciones
+
+N° 100.616.- Santiago, 26 de diciembre de 2014.
+
+La Contraloría General ha dado curso al documento del rubro, que otorga una concesión de radiodifusión sonora en frecuencia modulada para la localidad de Hualqui, pero cumple con hacer presente que de conformidad con los antecedentes adjuntos, la razón social de la concesionaria es "Sociedad de Comunicación Medio a Medio Limitada", y que el memorándum N° 56/C, de la Subsecretaría de Telecomunicaciones, es de fecha 1 de julio de 2013, y no como se indica en el decreto en análisis.
+
+Saluda atentamente a Ud., por orden del Contralor General de la República, Jefe Subdivisión Jurídica, División de Infraestructura y Regulación.
+
+Al señor
+
+Ministro de Transportes y Telecomunicaciones
+
+Presente.
