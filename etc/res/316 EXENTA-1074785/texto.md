@@ -1,0 +1,3 @@
+Por resolución exenta Nº 316, de 6 de febrero de 2015, de esta Subsecretaría, modifica resolución Nº 3.577, de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 18 C, fijando el número máximo de ejemplares a ingresar por estructura de cultivo para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 6 de febrero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
