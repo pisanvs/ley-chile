@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 1364, de 29 de diciembre de 2014, se tuvo por desistida la expropiación del lote de terreno Nº 107L6, ordenada por Decreto Exento MOP Nº 234, de 15 de abril de 2014, correspondiente a la obra "PROYECTO LINEA 6 LAS CONDES - CERRILLOS, SECTOR: AV. PORTUGAL". Por Decreto Exento MOP Nº 5, de 26 de enero de 2015, se modificó el numeral segundo del Decreto Exento MOP. Nº 1364, de 29 de diciembre de 2014, en el sentido que donde dice "...la restitución de los dineros consignados en la cuenta corriente del 8º Juzgado Civil de Santiago", debe decir "...20º Juzgado Civil de Santiago.
+
+Fiscal del Ministerio de Obras Públicas (TP)
