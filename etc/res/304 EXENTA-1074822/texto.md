@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 304, de 28 de enero de 2014, del Serviu Región del Biobío, se rectifica resolución exenta Nº 4.369, de 25 de diciembre de 2014, este Servicio que ordenó expropiación parcial de inmueble ubicado en Cautín 327 R. Schneider, Rol de Avalúo Nº 5300-1 de la comuna de Hualpén, de aparente dominio de Escuela E 478 Soc Const Est Edu S.A. Rectifícase la resolución exenta Nº 4.369, de fecha 25.12.2014, en su resuelvo Nº 1, en cuanto a la expropiación parcial del inmueble ubicado en Cautín 327 R. Schneider Rol de Avalúo Nº 5300-1, comuna de Hualpén y no Talcahuano como erróneamente se indicó, debiendo reemplazarse la comuna de Talcahuano por la comuna de Hualpén. La presente resolución se entenderá parte integrante de la resolución exenta Nº 4.369 de 25.12.2014.
+
+Director Serviu Región del Biobío.
