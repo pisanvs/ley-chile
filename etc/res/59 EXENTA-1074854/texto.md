@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 59 EXENTA, DE 2015
+
+Resolución exenta Nº 59, de 26 de enero de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, aprueba Contrato Ad-Referéndum de Concesión 3 para operar una planta revisora clase AB en la comuna de Puerto Montt y una planta revisora clase AB en la comuna de Osorno, en la Región de Los Lagos, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos y el concesionario "Revisiones Los Lagos Limitada", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial de Transportes y Telecomunicaciones, X Región de Los Lagos.
