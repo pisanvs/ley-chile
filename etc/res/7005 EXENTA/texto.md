@@ -26,7 +26,7 @@ Fíjase la siguiente nómina técnica para el uso de la banda de frecuencias 4.9
 
 <!-- parte:9084486 -->
 
-Destínese la banda de frecuencias 4.900 - 4.930 MHz para ser utilizada en forma compartida en las regiones V y Metropolitana, para proveer enlaces móviles de televisión, excluidos los sistemas de vigilancia y control por video a distancia.
+Destínese la banda de frecuencias 4.900 - 4.930 MHz para ser utilizada en forma compartida en las regiones V, VI y Metropolitana, para proveer enlaces móviles de televisión, excluidos los sistemas de vigilancia y control por video a distancia.
 
 #### Artículo 2º
 
