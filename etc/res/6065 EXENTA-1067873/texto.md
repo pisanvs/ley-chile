@@ -30,7 +30,7 @@ Resolución:
 
 Mediante resolución de la Secretaría Regional Ministerial de la Región de Antofagasta, que se deberá publicar en el Diario Oficial, se aprobará la nómina de grupos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio con fecha máxima al 15 de noviembre del presente año. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-9. Impútase el monto de 151.000 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Antofagasta, para el Programa Fondo Solidario de Elección de Vivienda del año 2014.
+9. Impútase el monto de 150.943,5 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Antofagasta, para el Programa Fondo Solidario de Elección de Vivienda del año 2014.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
