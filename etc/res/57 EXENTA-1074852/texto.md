@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 57 EXENTA, DE 2015,
+
+Resolución exenta Nº 57, de 26 de enero de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, aprueba Contrato Ad-Referéndum de Concesión 1 para operar una Planta Revisora Clase AB en la comuna de Puerto Montt, una planta revisora clase AB en la comuna de Ancud y una planta revisora Clase B en la comuna de Puerto Varas, en la Región de Los Lagos, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos y el concesionario "Inspectorate Servicios de Inspección Chile Limitada", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial de Transportes y Telecomunicaciones X Región de Los Lagos.
