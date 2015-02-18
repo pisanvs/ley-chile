@@ -76,13 +76,19 @@ b) Durante el segundo y tercer año de goce del beneficio, debe ser promovido al
 
 c) Durante el cuarto año de goce del beneficio, en los casos de estudiantes que cursen educación técnico profesional, deben ser promovidos al año académico siguiente con un promedio anual igual o superior a 5.0.
 
-Los requisitos para renovar la Beca en Educación Superior son:
+Los requisitos para renovar la beca en Educación Superior son:
 
-a) Acreditar la calidad de alumno regular, semestralmente.
+a) Acreditar la calidad de alumno regular, semestralmente, y
 
-b) Haber aprobado, a lo menos, el 50% de las asignaturas inscritas semestralmente.
+b) No haber sobrepasado la duración máxima como beneficiario, considerando la malla curricular proporcionada cada año por la institución de educación superior respectiva e informada en la oferta académica del año de obtención del beneficio, excluyéndose de este periodo el proceso de titulación, periodos de congelación autorizados por Junaeb, prácticas profesionales o laborales, salvo que estos se encuentren incluidos formalmente en la duración de la malla curricular.
 
-c) La Beca sólo podrá otorgarse durante el período reglamentario de duración de la carrera de conformidad a lo que se indique en la malla curricular proporcionada cada año por la institución respectiva e informada en la oferta académica del año de obtención del beneficio, excluyéndose de este período el proceso de titulación, períodos de congelación autorizados por Junaeb, período de prácticas profesionales o laborales, salvo que éstos se encuentren incluidos formalmente en la duración de la misma malla curricular.
+Sin perjuicio de lo anterior podrá renovarse la beca en Educación Superior después de terminados los estudios regulares, por el tiempo que sea necesario para la obtención del título correspondiente, según los siguientes períodos:
+
+. Carreras de hasta 5 semestres de duración: máximo un semestre
+
+. Carreras de hasta 9 semestres de duración: máximo un año
+
+. Carreras de hasta 10 y más semestres de duración: máximo dos años
 
 Para efectos del presente decreto, los programas de formación inicial, tales como bachilleratos, college, y módulos de licenciatura conducentes a título pedagógico, serán considerados como parte integrante del currículum de la carrera profesional, por la que el estudiante en definitiva opte, por ello, en estos casos, se entenderá como período reglamentario de duración, la suma de los años de dicho programa más los años de la carrera propiamente tal. Las prácticas profesionales o prácticas laborales se considerarán dentro de la duración de la carrera, siempre que sean parte de la malla curricular, entendiendo por esto que sean parte de un semestre académico.
 
