@@ -1,0 +1,7 @@
+AUTORIZA DELEGACIÓN DE FACULTAD QUE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 8, del 13 de febrero de 2015, que autoriza a los Directores Regionales para delegar, mediante resolución, en los Jefes de Departamentos de Avaluaciones, la facultad de dejar sin efecto o caducar los beneficios, franquicias y exenciones establecidas en el DFL Nº 2, de 1959.
+
+. En virtud de lo dispuesto en el inciso segundo del artículo 42 del DFL Nº 7, de 1980, de Hacienda, Ley Orgánica del Servicio de impuestos Internos, que dispone que los Directores Regionales se encuentran facultados para dejar sin efecto o caducar los beneficios, franquicias y exenciones de que goza una vivienda económica, mediante la presente resolución, se autoriza para que estos deleguen dicha facultad en los Jefes de Departamentos de Avaluaciones de sus respectivas jurisdicciones, si se comprobare la existencia de alguna infracción prevista, ya sea, en el artículo 5º, como en el artículo 18 del DFL Nº 2, de 1959.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de febrero, de 2015.
