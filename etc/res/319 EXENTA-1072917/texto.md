@@ -1,40 +1,54 @@
 AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS A "BTG PACTUAL CHILE S.A. COMPAÑÍA DE SEGUROS DE VIDA"
 
-Certifico: Que por escritura pública de fecha 22 de agosto de 2013, otorgada en la 36a Notaría de Santiago de don Sergio Carmona Barrales, con domicilio en Ahumada Nº 312, oficina Nº 236, comuna de Santiago; "BTG Pactual Chile SpA", RUT Nº 76.209.165-8, representada por doña Verónica Montero Purviance y por don Enrique Pérez Alarcón, todos domiciliados en Avenida Costanera Sur Nº 2730, Torre B, piso 19, comuna de Las Condes y "BTG Pactual Chile Servicios Financieros S.A.'', representada por don Alejandro Montero Purviance y por don Juan Andrés Camus Camus, todos domiciliados en Avenida Costanera Sur, Nº 2730, Torre B, piso 19, comuna de Las Condes; constituyeron sociedad anónima denominada "BTG Pactual Chile S.A. Compañía de Seguros de Vida".
+Certifico: Que por escritura pública de fecha 22 de agosto de 2014, otorgada en la 36a Notaría de Santiago de don Sergio Carmona Barrales, con domicilio en Ahumada Nº 312, oficina Nº 236, comuna de Santiago; "BTG Pactual Chile SpA", RUT Nº 76.209.165-8, representada por doña Verónica Montero Purviance y por don Enrique Pérez Alarcón, todos domiciliados en Avenida Costanera Sur Nº 2730, Torre B, piso 19, comuna de Las Condes y "BTG PACTUAL CHILE SERVICIOS FINANCIEROS S.A. Rut. Nº 79.884.170-K'', representada por don Alejandro Montero Purviance y por don Juan Andrés Camus Camus, todos domiciliados en Avenida Costanera Sur, Nº 2730, Torre B, piso 19, comuna de Las Condes; constituyeron sociedad anónima denominada "BTG Pactual Chile S.A. Compañía de Seguros de Vida".
 
 Que por resolución exenta Nº 319 de 19 de diciembre de 2014 de la Superintendencia de Valores y Seguros, se autorizó su existencia y se aprobaron sus estatutos.
 
 EXTRACTO ESTATUTOS
 
-Nombre : "BTG Pactual Chile S.A. Compañía de Seguros de Vida".
+Nombre : "BTG Pactual Chile S.A. Compañía de Seguros de
 
-Domicilio : Comuna y Ciudad de Santiago.
+Vida".
+
+Domicilio : Ciudad de Santiago.
 
 Duración : Indefinida.
 
-Objeto : Asegurar los riesgos de las personas o garantizar a éstas a base
+Objeto : Asegurar los riesgos de las personas o
 
-de primas, dentro o al término de un plazo, un capital, una
+garantizar a éstas a base de primas,
 
-póliza saldada o una renta para el asegurado o sus beneficiarios,
+dentro o al término de un plazo, un
 
-de acuerdo a lo establecido en los artículos cuarto y octavo del
+capital, una póliza saldada o una renta
 
-DFL Nº 251, como asimismo, emprender cualquier otra actividad que
+para el asegurado o sus beneficiarios,
 
-la Superintendencia de Valores y Seguros, a través de una norma
+de acuerdo a lo establecido en los
 
-de carácter general u otra clase de normativa, autorice o declare
+artículos cuarto y octavo del DFL Nº
 
-afines o complementarias al giro propio de las compañías de
+251, como asimismo, emprender cualquier
 
-seguros de vida.
+otra actividad que la Superintendencia
 
-Capital : $3.541.000.000.- dividido en 1.000.000 de acciones nominativas,
+de Valores y Seguros, a través de una
 
-de una serie y sin valor nominal, el que se encuentra íntegramente
+norma de carácter general u otra clase
 
-suscrito, enterado y pagado.
+de normativa, autorice o declare afines
+
+o complementarias al giro propio de
+
+las compañías de seguros de vida.
+
+Capital : $3.541.000.000.- dividido en 1.000.000
+
+de acciones nominativas, de una serie
+
+y sin valor nominal, el que se encuentra
+
+íntegramente suscrito, enterado y pagado.
 
 Directorio: 5 miembros que duran 3 años en sus funciones.
 
