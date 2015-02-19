@@ -16,7 +16,7 @@ De la naturaleza, objeto y funciones
 
 #### Artículo 1º
 
-Créase la Unidad de Análisis Financiero (UAF), con el objeto de prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica, para la comisión de alguno de los delitos descritos en el artículo 27 de esta ley.
+Créase la Unidad de Análisis Financiero (UAF), con el objeto de prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica, para la comisión de alguno de los delitos descritos en el artículo 27 de esta ley, y en el artículo 8º de la ley Nº 18.314.
 
 La Unidad de Análisis Financiero será un servicio público descentralizado, con personalidad jurídica y patrimonio propios, que se relacionará con el Presidente de la República por medio del Ministerio de Hacienda.
 
@@ -24,13 +24,13 @@ El jefe superior del servicio tendrá el título de Director y se regirá por la
 
 #### Artículo 2º
 
-La Unidad de Análisis Financiero sólo tendrá las siguientes atribuciones y funciones, las que podrá desarrollar y ejercer en cualquier lugar del territorio nacional:
+La Unidad de Análisis Financiero tendrá las siguientes atribuciones y funciones, las que podrá desarrollar y ejercer en cualquier lugar del territorio nacional:
 
 a) Solicitar, verificar, examinar y archivar la información a que se refiere el artículo 3° de esta ley.
 
 b) Solicitar a cualquiera de las personas naturales o jurídicas contempladas en el artículo 3° de esta ley, los antecedentes que con ocasión de la revisión de una operación sospechosa previamente reportada a la Unidad o detectada por ésta en ejercicio de sus atribuciones, resulten necesarios y conducentes para desarrollar o completar el análisis de dicha operación y los que deba recabar de conformidad con la letra g) del presente artículo. Las personas requeridas estarán obligadas a proporcionar la información solicitada, en el término que se les fije.
 
-Si los antecedentes a que se refiere este literal estuvieren amparados por el secreto o reserva, o deban requerirse a una persona no contemplada en el artículo 3° de esta ley, la solicitud deberá ser autorizada previamente por el ministro de la Corte de Apelaciones de Santiago, que el Presidente de dicha Corte designe por sorteo en el acto de hacerse el requerimiento. El ministro resolverá, sin audiencia ni intervención de terceros. Tanto la solicitud de antecedentes amparados por el secreto o reserva que haga la Unidad, como la resolución del tribunal, deberán fundarse en hechos específicos que las justifiquen, de los que se dejará expresa constancia en ambos documentos. Si la petición es rechazada, la Unidad de Análisis Financiero podrá apelar. La apelación será conocida en cuenta y sin más trámite por la sala de cuentas de la mencionada Corte, tan pronto se reciban los antecedentes. El expediente se tramitará en forma secreta y será devuelto íntegramente a la Unidad, fallado que sea el recurso.
+Si los antecedentes a que se refiere este literal estuvieren amparados por el secreto o reserva, o deban requerirse a una persona no contemplada en el artículo 3° de esta ley, la solicitud deberá ser autorizada previamente por un ministro de la Corte de Apelaciones de Santiago, quien resolverá, sin audiencia ni intervención de terceros dentro del plazo de tres días contado desde la presentación de la misma. Corresponderá al Presidente de esta Corte designar, una vez al año y por sorteo, a dos de sus miembros para cumplir esta labor. Si ninguno de los ministros estuviere en funciones, corresponderá otorgar la autorización al Presidente de la Corte o a quien lo subrogue. Tanto la solicitud de antecedentes amparados por el secreto o reserva que haga la Unidad, como la resolución del tribunal, deberán fundarse en hechos específicos que las justifiquen, de los que se dejará expresa constancia en ambos documentos. Si la petición es rechazada, la Unidad de Análisis Financiero podrá apelar. La apelación será conocida en cuenta y sin más trámite por la sala de cuentas de la mencionada Corte, tan pronto se reciban los antecedentes. El expediente se tramitará en forma secreta y será devuelto íntegramente a la Unidad, fallado que sea el recurso.
 
 El otorgamiento de los antecedentes requeridos de conformidad a esta letra será gratuito y libre de toda clase de derechos e impuestos.
 
@@ -38,7 +38,7 @@ No quedarán sometidas a lo dispuesto en el presente literal, las personas que n
 
 c) Disponer exámenes periciales, los que podrá encomendar a instituciones públicas o privadas.
 
-d) Organizar, mantener y administrar archivos y bases de datos, pudiendo integrarlos, con el debido resguardo y protección, a las redes de información nacionales e internacionales para el adecuado cumplimiento de sus funciones.
+d) Organizar, mantener y administrar archivos, bases de datos y registros, pudiendo integrarlos, con el debido resguardo y protección, a las redes de información nacionales e internacionales para el adecuado cumplimiento de sus funciones.
 
 e) Recomendar medidas a los sectores público y privado para prevenir la comisión de los delitos del artículo 27 de esta ley.
 
@@ -54,7 +54,7 @@ j) Imponer las sanciones administrativas que establece esta ley.
 
 Bajo ningún respecto la Unidad de Análisis Financiero podrá ejercer competencias propias del Ministerio Público o de los Tribunales de Justicia. Asimismo, sólo podrá utilizar la información que reciba para los propósitos establecidos en esta ley, no pudiendo en caso alguno darla a conocer o entregarla a organismos o servicios distintos del Ministerio Público.
 
-Cuando, del examen de los antecedentes referidos en las letras que anteceden, el Director de la Unidad de Análisis Financiero estime que aparecen indicios de que se ha cometido alguno de los delitos a que se refiere el artículo 27 de esta ley, deberá disponer su inmediata remisión al Ministerio Público. Asimismo, el Ministerio Público podrá requerir a la Unidad el envío de los antecedentes que estén en su poder y que sean necesarios para las investigaciones de lavado de activos que practique, se hayan iniciado de oficio, por denuncia o por querella, cualquiera sea la fase en que ellas se encuentren.
+Cuando, del examen de los antecedentes referidos en las letras que anteceden, el Director de la Unidad de Análisis Financiero estime que aparecen indicios de que se ha cometido alguno de los delitos a que se refiere el artículo 27 de esta ley o el artículo 8º de la ley Nº 18.314, deberá disponer su inmediata remisión al Ministerio Público. Asimismo, el Ministerio Público podrá requerir a la Unidad el envío de los antecedentes que estén en su poder y que sean necesarios para las investigaciones de lavado de activos que practique, se hayan iniciado de oficio, por denuncia o por querella, cualquiera sea la fase en que ellas se encuentren.
 
 ### Párrafo 2º
 
@@ -62,15 +62,17 @@ Del deber de informar
 
 #### Artículo 3º
 
-Las personas naturales y las personas jurídicas que se señalan a continuación, estarán obligadas a informar sobre los actos, transacciones u operaciones sospechosas que adviertan en el ejercicio de sus actividades: los bancos e instituciones financieras; empresas de factoraje; empresas de arrendamiento financiero; las empresas de securitización; las administradoras generales de fondos y las administradoras de fondos de inversión; el Comité de Inversiones Extranjeras; las casas de cambio y otras entidades que estén facultadas para recibir moneda extranjera; las emisoras y operadoras de tarjetas de crédito; las empresas de transferencia y transporte de valores y dinero; las bolsas de comercio; los corredores de bolsa; los agentes de valores; las compañías de seguros; los administradores de fondos mutuos; los operadores de mercados de futuro y de opciones; las sociedades administradoras y los usuarios de zonas francas; los casinos, salas de juego e hipódromos; los titulares de permisos de operación de juegos de azar en naves mercantes mayores, con capacidad de pernoctación a bordo, y que tengan entre sus funciones el transporte de pasajeros con fines turísticos; los agentes de aduana; las casas de remate y martillo; los corredores de propiedades y las empresas dedicadas a la gestión inmobiliaria; los notarios; los conservadores las administradoras de fondos de pensiones, y las sociedades anónimas deportivas profesionales, regidas por la ley N° 20.019.
+Las personas naturales y las personas jurídicas que se señalan a continuación, estarán obligadas a informar sobre operaciones sospechosas que adviertan en el ejercicio de sus actividades: los bancos e instituciones financieras; empresas de factoraje; empresas de arrendamiento financiero; las empresas de securitización; las administradoras generales de fondos y las sociedades que administren fondos de inversión privados; las casas de cambio y otras entidades que estén facultadas para recibir moneda extranjera; las emisoras y operadoras de tarjetas de crédito; las empresas de transferencia y transporte de valores y dinero; las bolsas de valores y las bolsas de productos, así como cualquier otra bolsa que en el futuro esté sujeta a la supervisión de la Superintendencia de Valores y Seguros; los corredores de bolsa; los agentes de valores; las compañías de seguros; los administradores de fondos mutuos; los operadores de mercados de futuro y de opciones; las sociedades administradoras y los usuarios de zonas francas; los casinos, salas de juego e hipódromos; los titulares de permisos de operación de juegos de azar en naves mercantes mayores, con capacidad de pernoctación a bordo, y que tengan entre sus funciones el transporte de pasajeros con fines turísticos; los agentes de aduana; las casas de remate y martillo; los corredores de propiedades y las empresas dedicadas a la gestión inmobiliaria; los notarios; los conservadores las administradoras de fondos de pensiones; las organizaciones deportivas profesionales, regidas por la ley Nº 20.019; las cooperativas de ahorro y crédito; las representaciones de bancos extranjeros y las empresas de depósito de valores regidas por la ley Nº 18.876.
 
-Se entiende por operación sospechosa todo acto, operación o transacción que, de acuerdo con los usos y costumbres de la actividad de que se trate, resulte inusual o carente de justificación económica o jurídica aparente, sea que se realice en forma aislada o reiterada.
+Se entiende por operación sospechosa todo acto, operación o transacción que, de acuerdo con los usos y costumbres de la actividad de que se trate, resulte inusual o carente de justificación económica o jurídica aparente o pudiera constituir alguna de las conductas contempladas en el artículo 8º de la ley Nº 18.314, o sea realizada por una persona natural o jurídica que figure en los listados de alguna resolución del Consejo de Seguridad de las Naciones Unidas, sea que se realice en forma aislada o reiterada.
 
 Corresponderá a la Unidad de Análisis Financiero señalar a las entidades a que se refiere este artículo, las situaciones que especialmente habrán de considerarse como indiciarias de operaciones o transacciones sospechosas, en sus respectivos casos.
 
 Para los efectos de la obligación señalada en el inciso primero de este artículo, las personas allí indicadas deberán designar un funcionario responsable de relacionarse con la Unidad de Análisis Financiero.
 
 Las disposiciones legales, reglamentarias, contractuales o de cualquier otra índole sobre secreto o reserva de determinadas operaciones o actividades no impedirán el cumplimiento de la obligación de informar establecida en el presente artículo. Lo anterior es también aplicable si la Unidad solicita la entrega o exhibición de los antecedentes que el sujeto obligado tuvo en consideración para reportar la operación sospechosa.
+
+Las superintendencias y los demás servicios y órganos públicos señalados en el inciso segundo del artículo 1º de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, estarán obligados a informar sobre operaciones sospechosas que adviertan en el ejercicio de sus funciones. Sin perjuicio de lo anterior, estas entidades no estarán sujetas a las obligaciones contenidas en el inciso cuarto de este artículo y a lo dispuesto en el artículo 5º de esta ley, así como tampoco a las sanciones y al procedimiento establecido en el Título II de la presente ley.
 
 La información proporcionada de buena fe en conformidad a esta ley, eximirá de toda responsabilidad legal a quienes la entreguen.
 
@@ -82,11 +84,11 @@ En estos casos, la información será recabada directamente por el Servicio Naci
 
 #### Artículo 5º
 
-Las entidades descritas en el artículo 3° deberán además mantener registros especiales por el plazo mínimo de cinco años, e informar a la Unidad de Análisis Financiero cuando ésta lo requiera, de toda operación en efectivo superior a cuatrocientas cincuenta unidades de fomento o su equivalente en otras monedas.
+Las entidades descritas en el artículo 3° deberán además mantener registros especiales por el plazo mínimo de cinco años, e informar a la Unidad de Análisis Financiero cuando ésta lo requiera, de toda operación en efectivo superior a diez mil dólares de los Estados Unidos de América o su equivalente en pesos chilenos, según el valor del dólar observado el día en que se realizó la operación.
 
 #### Artículo 6º
 
-Prohíbese a las personas e instituciones señaladas en el artículo 3º, inciso primero, y a sus empleados, informar al afectado o a terceras personas, la circunstancia de haberse requerido o remitido información a la Unidad de Análisis Financiero, como asimismo, proporcionarles cualquier otro antecedente al respecto.
+Prohíbese a las personas e instituciones señaladas en el artículo 3º, incisos primero y sexto, y a sus empleados, informar al afectado o a terceras personas, la circunstancia de haberse requerido o remitido información a la Unidad de Análisis Financiero, como asimismo, proporcionarles cualquier otro antecedente al respecto.
 
 Igual prohibición regirá para quienes sean requeridos en conformidad a la letra b) del artículo 2°, y para las personas que presten servicios a cualquier título a las personas e instituciones aludidas en el inciso anterior, que hayan tenido conocimiento de la circunstancia de haberse requerido o remitido información a la Unidad de Análisis Financiero.
 
@@ -144,7 +146,7 @@ Esta prohibición se mantendrá indefinidamente después de haber cesado en su c
 
 Sin perjuicio de lo dispuesto precedentemente, el Director de la Unidad deberá concurrir anualmente a la Comisión de Hacienda de la Cámara de Diputados con el objeto de informar sobre aspectos generales de su gestión, en sesión secreta.
 
-Se exceptúan del deber de secreto las informaciones y antecedentes que requiera el fiscal del Ministerio Público o el tribunal que conozca del procedimiento criminal por alguno de los delitos a que se refieren los artículos 27 y 28.
+Se exceptúan del deber de secreto las informaciones y antecedentes que requiera el fiscal del Ministerio Público o el tribunal que conozca del procedimiento criminal por alguno de los delitos a que se refieren los artículos 27 y 28, como también de aquellos que le sirven de base y que se señalan en la letra a) del artículo 27.
 
 #### Artículo 14
 
@@ -158,7 +160,7 @@ Las comisiones de servicio de funcionarios pertenecientes a cualquier organismo 
 
 #### Artículo 15
 
-Queda estrictamente prohibido al personal que preste servicios, a cualquier título, en la Unidad de Análisis Financiero el uso o consumo, en lugares públicos o privados, de toda clase de substancias estupefacientes o psicotrópicas a que se refiere el artículo 1° de la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas, y el porte o tenencia de dichas sustancias. Se exceptúan aquellas destinadas exclusivamente a la atención de un tratamiento médico.
+Queda estrictamente prohibido al personal que preste servicios, a cualquier título, en la Unidad de Análisis Financiero el uso o consumo, en lugares públicos o privados, de toda clase de substancias estupefacientes o psicotrópicas a que se refiere el artículo 1° de la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas, y el porte o tenencia de dichas sustancias. Se exceptúan aquellas destinadas exclusivamente a la atención de un tratamiento médico.
 
 Será causal de destitución del cargo o de término del contrato, según corresponda, el uso o consumo injustificado de tales sustancias.
 
@@ -212,9 +214,11 @@ Las personas naturales o jurídicas que no cumplan con las obligaciones o debere
 
 a) Serán infracciones leves el no dar cumplimiento a las instrucciones impartidas por la Unidad de Análisis Financiero en virtud del artículo 2º, letra f), de esta ley;
 
-b) Serán infracciones menos graves las contravenciones a lo dispuesto en los artículos 4° y 5° de esta ley;
+b) Serán infracciones menos graves las contravenciones a lo dispuesto en el artículo 5º;
 
-c) Serán infracciones graves el no dar cumplimiento a las obligaciones contenidas en los artículos 2º, letra b), y 3º de esta ley.
+c) Será infracción grave el no dar cumplimiento a las obligaciones contenidas en los artículos 2º, letra b), 3° y 41 de esta ley.
+
+No se aplicará el procedimiento regulado en este Título a las infracciones del artículo 4º, las que serán sancionadas de conformidad con lo dispuesto en el artículo 39.
 
 #### Artículo 20
 
@@ -233,8 +237,6 @@ Para la aplicación de esta sanción, se deberá acreditar por la Unidad de Aná
 a) Amonestación, y
 
 b) Multa a beneficio fiscal hasta por un monto equivalente a 3.000 Unidades de Fomento.
-
-En el caso del incumplimiento de la obligación contenida en el artículo 4º, se tomará en especial consideración, además, el monto de los valores no declarados, no pudiendo, en caso alguno, la multa superar el treinta por ciento de éstos.
 
 3.- Sanciones por infracciones graves:
 
@@ -314,7 +316,7 @@ Disposiciones Varias
 
 Será castigado con presidio mayor en sus grados mínimo a medio y multa de doscientas a mil unidades tributarias mensuales:
 
-a) El que de cualquier forma oculte o disimule el origen ilícito de determinados bienes, a sabiendas de que provienen, directa o indirectamente, de la perpetración de hechos constitutivos de alguno de los delitos contemplados en la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas; en la ley Nº 18.314, que determina las conductas terroristas y fija su penalidad; en el artículo 10 de la ley Nº 17.798, sobre control de armas; en el Título XI de la ley Nº18.045, sobre mercado de valores; en el Título XVII del decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, Ley General de Bancos; en los Párrafos 4, 5, 6, 9 y 9 bis del Título V del Libro II del Código Penal y, en los artículos 141, 142, 366 quáter, 367, 411 bis, 411 ter, 411 quáter y 411 quinquies del Código Penal; o bien, a sabiendas de dicho origen, oculte o disimule estos bienes.
+a) El que de cualquier forma oculte o disimule el origen ilícito de determinados bienes, a sabiendas de que provienen, directa o indirectamente, de la perpetración de hechos constitutivos de alguno de los delitos contemplados en la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas; en la ley Nº 18.314, que determina las conductas terroristas y fija su penalidad; en el artículo 10 de la ley Nº 17.798, sobre control de armas; en el Título XI de la ley Nº 18.045, sobre mercado de valores; en el Título XVII del decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, ley General de Bancos; en el artículo 168 en relación con el artículo 178, Nº 1, ambos del decreto con fuerza de ley Nº 30, del Ministerio de Hacienda, de 2005, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 213, del Ministerio de Hacienda, de 1953, sobre Ordenanza de Aduanas; en el inciso segundo del artículo 81 de la ley Nº 17.336, sobre propiedad intelectual; en los artículos 59 y 64 de la ley Nº 18.840, orgánica constitucional del Banco Central de Chile; en el párrafo tercero del número 4º del artículo 97 del Código Tributario; en los párrafos 4, 5, 6, 9 y 9 bis del Título V y 10 del Título VI, todos del Libro Segundo del Código Penal; en los artículos 141, 142, 366 quinquies, 367, 374 bis, 411 bis, 411 ter, 411 quáter, 411 quinquies, y los artículos 468 y 470, Nº 8, ambos en relación al inciso final del artículo 467 del Código Penal, o bien, a sabiendas de dicho origen, oculte o disimule estos bienes.
 
 b) El que adquiera, posea, tenga o use los referidos bienes, con ánimo de lucro, cuando al momento de recibirlos ha conocido su origen ilícito.
 
@@ -322,11 +324,13 @@ Se aplicará la misma pena a las conductas descritas en este artículo si los bi
 
 Para los efectos de este artículo, se entiende por bienes los objetos de cualquier clase apreciables en dinero, corporales o incorporales, muebles o inmuebles, tangibles o intangibles, como asimismo los documentos o instrumentos legales que acreditan la propiedad u otros derechos sobre los mismos.
 
-Si el autor de alguna de las conductas descritas en la letra a) no ha conocido el origen de los bienes por negligencia inexcusable, la pena señalada en el inciso primero será rebajada en dos grados.
+Si el autor de alguna de las conductas descritas en las letras a) o b) no ha conocido el origen de los bienes por negligencia inexcusable, la pena privativa de libertad que corresponda de acuerdo al inciso primero o final de este artículo será rebajada en dos grados.
 
 La circunstancia de que el origen de los bienes aludidos sea un hecho típico y antijurídico de los señalados en la letra a) del inciso primero no requerirá sentencia condenatoria previa, y podrá establecerse en el mismo proceso que se substancie para juzgar el delito tipificado en este artículo.
 
 Si el que participó como autor o cómplice del hecho que originó tales bienes incurre, además, en la figura penal contemplada en este artículo, será también sancionado conforme a ésta.
+
+En todo caso, la pena privativa de libertad aplicable en los casos de las letras a) y b) no podrá exceder de la pena mayor que la ley asigna al autor del crimen o simple delito del cual provienen los bienes objeto del delito contemplado en este artículo, sin perjuicio de las multas y penas accesorias que correspondan en conformidad a la ley.
 
 #### Artículo 28
 
@@ -352,6 +356,8 @@ Agrégase, en el artículo 14 de la Ley General de Bancos, cuyo texto refundido,
 
 La investigación de los delitos a que se refieren los artículos 27 y 28 de esta ley será siempre secreta para los terceros ajenos al procedimiento y también para los terceros afectados por una investigación preliminar del fiscal. Respecto del imputado y de los demás intervinientes, la investigación será secreta cuando así lo disponga el fiscal, por un plazo máximo de seis meses, renovables con autorización del juez de garantía, por una sola vez y por igual término.
 
+Sólo una vez formalizada la investigación por los delitos de los artículos 27 y 28 de esta ley, el imputado podrá solicitar al juez de garantía que limite el secreto en cuanto a las piezas o actuaciones abarcadas por él.
+
 A estas investigaciones no les será aplicable lo dispuesto en el artículo 186 del Código Procesal Penal, en la medida que se haya decretado su secreto en los términos señalados en el inciso precedente.
 
 El que entregue o difunda información de cualquier naturaleza acerca de antecedentes de la investigación incurrirá en la pena de presidio menor en sus grados medio a máximo. Esta prohibición y sanción se extenderá a los funcionarios que hubieren participado en la investigación y a todo aquel que, de cualquier modo, informe, difunda o divulgue información relativa a una investigación e, incluso, al hecho de estarse realizando ésta.
@@ -364,13 +370,13 @@ y, en general, cuanto conduzca a evitar la conversión del provecho ilícito en 
 
 #### Artículo 33
 
-Sin perjuicio de lo dispuesto en la presente ley, serán aplicables respecto de los delitos establecidos en los artículos 27 y 28, todas las normas de la ley N° 19.366, sobre tráfico ilícito de estupefacientes y substancias psicotrópicas, y las que contenga cualquier otra ley que la sustituya o modifique, que se refieran a las siguientes materias:
+Sin perjuicio de lo dispuesto en la presente ley, serán aplicables respecto de los delitos establecidos en los artículos 27 y 28, todas las normas de la ley Nº 20.000, sobre tráfico ilícito de estupefacientes y substancias psicotrópicas, y las que contenga cualquier otra ley que la sustituya o modifique, que se refieran a las siguientes materias:
 
 a) Investigación: se comprenden, especialmente, la colaboración de organismos del Estado, la facultad del Ministerio Público para efectuar actuaciones fuera del territorio nacional o sin previo conocimiento del afectado y la cooperación internacional en general; levantamiento del secreto bancario; gratuidad de los antecedentes requeridos durante la investigación;
 
 técnicas especiales de investigación, como la entrega u operación vigilada, la utilización de agentes encubiertos e informantes, la interceptación de comunicaciones y demás medios técnicos; protección de las personas que hayan colaborado con la investigación, incluyendo el resguardo de su identidad e imagen, cambio de identidad, secreto de determinadas actuaciones, registros o documentos como medida de protección cuando exista riesgo para su seguridad, sanciones en caso de infracción, y posibilidad de prestar testimonio de manera anticipada;
 
-b) Inhabilidades de abogados;
+b) Inhabilidades de abogados, sólo cuando la investigación por lavado de dinero lo sea en relación a un hecho típico y antijurídico base castigado en las leyes Nos 20.000 o 18.314, o en el artículo 10 de la ley Nº 17.798, o en los artículos 141, 142, 411 bis, 411 ter, 411 quáter y 411 quinquies del Código Penal.
 
 c) Medidas cautelares e incautaciones: posibilidad de disponer medidas cautelares sin comunicación previa al afectado, objetos susceptibles de incautación y comiso y destino de los bienes incautados o del producto de los mismos, y
 
@@ -389,6 +395,64 @@ Con todo, los artículos 12 y 22 de la ley Nº 19.366, en lo que concierne a la 
 #### Artículo 35
 
 Toda referencia hecha en cualquier ley o reglamento a los tipos penales contenidos en los artículos 12 y 22 de la ley N° 19.366, en lo concerniente a la asociación ilícita para lavar dinero, debe entenderse hecha a las conductas descritas en los artículos 27 y 28 de la presente ley, según corresponda.
+
+#### Artículo 36
+
+Los bienes incautados o el producto de los decomisados en investigaciones por lavado de activos podrán ser destinados, en los términos que establecen los artículos 40 y 46 de la ley Nº 20.000, en todo o parte, a la persecución de dicho ilícito.
+
+#### Artículo 37
+
+Durante la investigación de los delitos contemplados en los artículos 27 y 28 de esta ley, en aquellos casos en que como consecuencia de actos u omisiones del imputado no pudiera decretarse la incautación o alguna medida cautelar real sobre los bienes que sean objeto o producto de los mismos, el tribunal con competencia en lo penal que corresponda podrá decretar, a solicitud del fiscal y mediante resolución fundada, la incautación o alguna de las medidas cautelares reales establecidas en la ley, sobre otros bienes que sean de propiedad del imputado por un valor equivalente a aquel relacionado con los delitos, con excepción de aquellos que declara inembargables el artículo 445 del Código de Procedimiento Civil.
+
+Asimismo, ante una solicitud de autoridad competente extranjera, realizada en virtud de un requerimiento de asistencia penal internacional por alguno de los delitos señalados en el inciso anterior, se podrá decretar, en los mismos términos expresados en el inciso precedente, la incautación o medidas cautelares reales de bienes por un valor equivalente a aquellos relacionados con el delito investigado.
+
+En el evento de dictarse sentencia condenatoria, y no habiéndose incautado o cautelado bienes relacionados con el delito sino sólo aquellos de un valor equivalente, el tribunal con competencia en lo penal que corresponda podrá, en la misma sentencia, decretar el comiso de aquellos bienes incautados o cautelados de conformidad a lo establecido en el inciso primero.
+
+#### Artículo 38
+
+Las personas naturales y jurídicas señaladas en el artículo 3º de esta ley estarán obligadas a informar a la Unidad de Análisis Financiero todos los actos, transacciones u operaciones realizadas o que intente realizar alguna de las personas naturales o jurídicas individualizadas en las listas confeccionadas por el Comité establecido en las resoluciones números 1.267, de 1999; 1.333, de 2000, y 1.390, de 2002, del Consejo de Seguridad de las Naciones Unidas y sus subsecuentes resoluciones o cualquiera otra que las adicione o reemplace, y que estén contenidas en decretos supremos publicados en el Diario Oficial.
+
+Igualmente, estarán obligadas a informar de todos los actos, transacciones u operaciones realizadas o que intente realizar alguna persona natural o jurídica que haya cometido, cometa o intente cometer actos de terrorismo o participar en ellos o facilitar su comisión.
+
+Dentro de las veinticuatro horas siguientes a la recepción de los antecedentes que acreditan que las personas naturales o jurídicas individualizadas en las listas a que hace referencia el inciso primero pretenden realizar un acto, transacción u operación financiera, la Unidad de Análisis Financiero deberá solicitar a un ministro de la Corte de Apelaciones de Santiago, la adopción de una o más medidas necesarias para evitar el uso, aprovechamiento, beneficio o destino de cualquier clase de bienes, valores o dinero materia del acto, transacción u operación, sin previo aviso al afectado y por un plazo determinado. La vigencia de las medidas decretadas por el Ministro de Corte no podrá exceder de treinta días, plazo que podrá prorrogarse, por resolución fundada, por él o por el tribunal competente. La solicitud será resuelta de plano por ese ministro, sin audiencia ni intervención de terceros y en el más breve plazo, el que no podrá exceder de veinticuatro horas.
+
+Para estos efectos, el Presidente de dicha Corte designará por sorteo a dos de sus miembros, por el plazo de un año, debiendo presentarse la solicitud ante cualquiera de ellos. Si ninguno de los Ministros estuviere en funciones, corresponderá otorgar la autorización al Presidente de la Corte o a quien le subrogue.
+
+Entre las medidas que se podrán ordenar, se entenderán incluidas la prohibición de transferencia, conversión, disposición o movimiento de fondos u otros bienes durante el plazo de vigencia de la medida.
+
+Presentada la solicitud a la Corte, y dentro del plazo de las veinticuatro horas siguientes, la Unidad hará entrega, reservadamente, de todos los antecedentes al Fiscal Nacional, para que el Ministerio Público se ocupe de la tramitación judicial.
+
+Una vez expirado el plazo señalado en el inciso tercero, la medida decretada por el Ministro de la Corte de Apelaciones dejará de tener efecto de forma inmediata, sin necesidad de resolución que así lo declare.
+
+La Unidad de Análisis Financiero, dentro del plazo máximo de veinticuatro horas contado desde que se haya acogido la solicitud indicada en el inciso tercero, comunicará su contenido a la persona natural o jurídica que haya reportado los actos, transacciones u operaciones financieras para que adopte inmediatamente las medidas decretadas por el respectivo Ministro de la Corte de Apelaciones de Santiago. Asimismo, dentro del plazo máximo de las setenta y dos horas siguientes a que tales medidas fueron decretadas, informará a el o a los afectados por dicha resolución. Esta comunicación se dirigirá al domicilio que el o los afectados tuvieren registrados en la entidad que hubiere reportado la operación o al correo electrónico que figure en tales registros. En ella se incluirán todos los antecedentes indicados en el inciso tercero.
+
+Mientras esta medida se encuentre vigente, los afectados por ella podrán apelar ante la Corte de Apelaciones de Santiago, para obtener su revocación. La Corte de Apelaciones deberá resolver el recurso en el más breve plazo, previo informe de la Unidad de Análisis Financiero, para lo cual podrá abrir, de oficio o a petición de parte, un término probatorio especial, el que no podrá exceder de tres días.
+
+En caso de que por resolución judicial se revoque las medidas indicadas en los incisos tercero y quinto, o haya expirado el término por el que se les decretó, la Unidad de Análisis Financiero comunicará esta situación a la persona natural o jurídica que haya reportado los actos, transacciones u operaciones realizadas, y que motivaron la respectiva investigación.
+
+Para los efectos de lo dispuesto en este artículo, la Unidad de Análisis Financiero periódicamente pondrá a disposición de todas las personas indicadas en el artículo 3º de esta ley, los listados confeccionados por el Comité establecido por el Consejo de Seguridad de las Naciones Unidas, y que tienen su origen en las resoluciones mencionadas en el inciso primero de este artículo. Asimismo, la Unidad de Análisis Financiero deberá informar al Ministerio de Relaciones Exteriores de los antecedentes recopilados que digan relación con las personas naturales o jurídicas que figuran en dichos listados, para efectos que éste lo informe a la Organización de las Naciones Unidas.
+
+#### Artículo 39
+
+La infracción de lo dispuesto en el artículo 4º estará sujeta al control y fiscalización del Servicio Nacional de Aduanas, el cual podrá aplicar a la persona que porte o transporte moneda en efectivo o instrumentos negociables al portador y que no los hubiere declarado, una multa a beneficio fiscal de hasta el 30% de la moneda en efectivo o del valor de dichas monedas o instrumentos no declarados, y tomará en especial consideración, el monto de los valores no declarados.
+
+Para efectos de lo señalado en el inciso anterior, el Servicio Nacional de Aduanas podrá retener el treinta por ciento de la moneda en efectivo o el cien por ciento de los instrumentos negociables al portador no declarados. En caso de oposición a la retención, los funcionarios del Servicio podrán requerir directamente el auxilio de la fuerza pública, de conformidad con lo establecido en el artículo 24 y en el Título VI, ambos de la ley orgánica del Servicio Nacional de Aduanas.
+
+La retención establecida en este artículo deberá ser notificada a la persona en el mismo acto, haciendo mención expresa y por escrito de los hechos que la constituyen, de las normas infringidas, la identificación de la persona a la que se ha efectuado la retención, la sanción que podría ser impuesta y los demás hechos fundantes que dieron lugar a la retención.
+
+La imposición de la multa definitiva o la reclamación de la misma se sujetará al procedimiento establecido en el Título II del Libro Tercero de la Ordenanza de Aduanas, salvo lo que dispone el inciso cuarto del artículo 185 del mencionado cuerpo legal.
+
+#### Artículo 40
+
+Todas las personas naturales o jurídicas indicadas en el inciso primero del artículo 3º, que sean o no supervisadas por alguna superintendencia, y sin perjuicio de su obligación de designar un funcionario responsable ante la Unidad de Análisis Financiero, deberán inscribirse en un registro que la Unidad mantendrá de acuerdo a lo dispuesto en la letra d) del artículo 2º de esta ley, y que deberá implementar en el plazo de noventa días hábiles contado desde la publicación de esta ley en el Diario Oficial.
+
+Una vez inscritas, las personas indicadas en el inciso anterior deberán informar a la Unidad de Análisis Financiero cualquier cambio relevante en su situación legal, en los términos que señalen las instrucciones generales que para estos efectos dictará la Unidad.
+
+La Unidad de Análisis Financiero podrá hacer público el nombre y el rol único tributario de las personas naturales y las personas jurídicas señaladas en el artículo 3º de esta ley y que se registren de acuerdo al presente artículo.
+
+#### Artículo 41
+
+El funcionario público que, en razón de su cargo, tome conocimiento de alguno de los delitos contemplados en los artículos 6º, 7º, 13 y 31 de esta ley y omita denunciarlo al Ministerio Público, a los funcionarios de Carabineros de Chile o de la Policía de Investigaciones, o ante cualquier tribunal con competencia en lo criminal, será castigado con presidio menor en sus grados medio a máximo y multa de cuarenta a cuatrocientas unidades tributarias mensuales.
 
 ARTICULOS TRANSITORIOS
 

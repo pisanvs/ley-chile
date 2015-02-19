@@ -128,7 +128,7 @@ En todo caso, los bancos y sociedades financieras deberán cumplir con la obliga
 
 18.045, sobre Mercado de Valores, sea que sus acciones estén o no inscritas en el Registro de Valores. En caso de incumplimiento de dicha obligación, podrá proporcionar la información la Superintendencia.
 
-La Superintendencia deberá mantener permanentemente una nómina de los depositantes de los bancos, indicando su rol único tributario (RUT).
+La Superintendencia deberá mantener permanentemente una nómina de los depositantes de los bancos, indicando su rol único tributario (RUT), la identificación del tipo de cuenta o producto y su número de registro interno.
 
 #### Artículo 15
 
@@ -1803,6 +1803,8 @@ En todo caso, los bancos podrán dar a conocer las operaciones señaladas en los
 La justicia ordinaria y la militar, en las causas que estuvieren conociendo, podrán ordenar la remisión de aquellos antecedentes relativos a operaciones específicas que tengan relación directa con el proceso, sobre los depósitos, captaciones u otras operaciones de cualquier naturaleza que hayan efectuado quienes tengan carácter de parte o imputado en esas causas u ordenar su examen, si fuere necesario.
 
 Los fiscales del Ministerio Público, previa autorización del juez de garantía, podrán asimismo examinar o pedir que se les remitan los antecedentes indicados en el inciso anterior, que se relacionen directamente con las investigaciones a su cargo.
+
+Con todo, en las investigaciones seguidas por los delitos establecidos en los artículos 27 y 28 de la ley Nº 19.913, los fiscales del Ministerio Público, con autorización del juez de garantía, otorgada por resolución fundada dictada en conformidad con el artículo 236 del Código Procesal Penal, podrán requerir la entrega de todos los antecedentes o copias de documentos sobre depósitos, captaciones u otras operaciones de cualquier naturaleza, de personas, comunidades, entidades o asociaciones de hecho que sean objeto de la investigación y que se relacionen con aquélla.
 
 #### Artículo 155
 

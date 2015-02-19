@@ -18,7 +18,7 @@ El Banco deberá mantener en estricta reserva, respecto de terceros, el movimien
 
 No obstante, los Tribunales de Justicia podrán ordenar la exhibición de determinadas partidas de la cuenta corriente en causas civiles y criminales seguidas con el librador. Igual medida podrá disponer el Ministerio Público, con autorización del juez de garantía, en las investigaciones a su cargo.
 
-Con todo, en las investigaciones criminales seguidas contra empleados públicos por delitos cometidos en el ejercicio de sus funciones, el Ministerio Público, con autorización del juez de garantía, podrá ordenar la exhibición del movimiento completo de sus cuentas corrientes y de los respectivos saldos.
+Con todo, en las investigaciones criminales seguidas contra empleados públicos por delitos cometidos en el ejercicio de sus funciones, el Ministerio Público, con autorización del juez de garantía, podrá ordenar la exhibición del movimiento completo de sus cuentas corrientes y de los respectivos saldos. Asimismo, en las investigaciones seguidas por los delitos establecidos en los artículos 27 y 28 de la ley Nº 19.913, el Ministerio Público, con autorización del juez de garantía, otorgada por resolución fundada dictada en conformidad con el artículo 236 del Código Procesal Penal, podrá requerir la entrega de todo antecedente relacionado con cuentas corrientes bancarias, incluidos, entre otros, sus movimientos completos, saldos, estados de situación y demás antecedentes presentados para su apertura, de personas, comunidades, entidades o asociaciones de hecho que sean objeto de la investigación y que se relacionen con aquélla.
 
 #### Artículo 2°
 
