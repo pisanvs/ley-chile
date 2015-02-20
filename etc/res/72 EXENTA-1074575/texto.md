@@ -34,9 +34,9 @@ Resolución:
 
 1. Llámese a postulación a los Condominios de Viviendas Sociales afectados por los sismos del 1 y 2 de abril de 2014, emplazados en la Región de Tarapacá, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar, correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes, letras a.1) y a.3); del Título, II Mejoramiento de la Vivienda, letra b.4) del artículo 5º del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 332 (V. y U.), de 2000, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 15 de febrero de 2015.
+Primera selección: 16 de febrero de 2015.
 
-Segunda selección: 15 de marzo de 2015.
+Segunda selección: 16 de marzo de 2015.
 
 Tercera selección: 30 de marzo de 2015.
 
@@ -89,6 +89,8 @@ Los proyectos posibles de atender son:
 4. Los recursos disponibles para este llamado son 200.000 UF.
 
 5. El número de proyectos seleccionados en la Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles.
+
+Si para la reparación de bienes comunes de la copropiedad beneficiada por el presente llamado se hace necesario ejecutar obras dentro de una o varias unidades de las viviendas que la componen, dichas obras podrán financiarse con cargo a los recursos asignados en el resuelvo 4.
 
 6. Sólo podrán participar en este llamado extraordinario los condominios afectados por los terremotos de fecha 1 y 2 de abril de 2014 de la Región de Tarapacá. Deberán acreditar dicha circunstancia al momento de la postulación, con la ficha de catastro del respectivo condominio, donde se acredite la existencia de daños en lo bienes comunes de la copropiedad.
 
@@ -200,7 +202,7 @@ c) Que encontrándose la obra en ejecución, se registra un avance de obras igua
 
 22. La Seremi, en coordinación con Serviu, tendrá la facultad de conocer y fiscalizar todos los procedimientos realizados por las PSAT y Empresas Contratistas en el marco del presente llamado, pudiendo requerir documentación, proyectos y todo antecedente necesario para velar por el correcto funcionamiento del llamado. En el marco de esta función, podrá revisar y requerir modificaciones a contratos, proyectos, planes, diagnósticos y priorización de obras, expediente de postulación, entre otros.
 
-23. Exímase al presente llamado de dar cumplimiento al plazo de publicación en el Diario Oficial de la resolución que convoque el presente llamado, establecido en el inciso tercero del artículo 13 del decreto supremo Nº 255 (V. y U.), de 2006, pudiendo publicarse con 15 días corridos de antelación a la fecha de inicio de la postulación.
+23. Exímase del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS Nº 255 (V. y U.), de 2006, referido a la publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos a la fecha del inicio del proceso de selección.
 
 24. En todo aquello no regido por el presente llamado, se aplicarán las disposiciones que correspondan del DS Nº 255 (V. y U.), de 2005.
 
