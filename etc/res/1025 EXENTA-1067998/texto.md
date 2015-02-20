@@ -22,12 +22,12 @@ Resuelvo:
 
 2. Establézcase, que en aquellos casos en que la sesión de mediación sea inferior a una hora, el valor de la fracción de tiempo será calculado proporcionalmente. Las sesiones que se realicen durante el proceso de mediación no podrán tener una duración mayor a una hora cronológica y cada proceso de mediación no podrá considerar más de 4 sesiones.
 
-3. Dispóngase, que las mediaciones que se realicen por la Superintendencia de Educación, desde la fecha de publicación en el Diario Oficial de la referida resolución exenta Nº 933, de 2014, de la Superintendencia, y hasta el 31 de diciembre del 2014, serán gratuitas para todos los intervinientes, y su costo los asumirá la Superintendencia conforme al arancel fijado en el resuelvo primero del presente documento.
+3. Dispóngase, que las mediaciones que se realicen por la Superintendencia de Educación, desde la fecha de publicación en el Diario Oficial de la referida resolución exenta Nº 933, de 2014, de la Superintendencia, y hasta el día 30 de julio de 2015, serán gratuitas para todos los intervinientes y su costo lo asumirá la Superintendencia conforme al arancel fijado en el resuelvo primero del presente documento.
 
 4. Establézcase, que para proceder al pago del o los mediadores, estos deberán presentar un informe por cada sesión de mediación realizada, con un máximo de 4 sesiones, por cada proceso de mediación; informe el cual debe incluir el Acta Final del proceso. Dichos informes deberán ser presentados y validados por el Encargado Regional de Denuncias de la respectiva Dirección Regional de la Superintendencia de Educación, quien deberá aprobar el o los informes que presenten los mediadores.
 
 Una vez que los informes cuenten con el visto bueno del funcionario referido, éste solicitará a el o los mediadores que emitan la boleta de honorarios respectiva.
 
-5. Impútese, el gasto que irrogue el cumplimiento de la presente resolución, al Programa 01, Subtítulo 21, Glosa 02, letra d) presupuesto destinado a financiar los honorarios de los mediadores que intervengan en audiencias de mediación, a que se refiere el artículo 62 de la ley Nº 20.529, del presupuesto vigente de la Superintendencia de Educación para el año 2014.
+5. Impútese, el gasto que irrogue el cumplimiento de la presente resolución, al ítem 09.02.01.21.003.001 del presupuesto vigente de esta Superintendencia destinado financiar los honorarios de los mediadores que intervengan en audiencias de mediación.
 
 Anótese, comuníquese y publíquese.- Alexis Ramírez Orellana, Superintendente de Educación (PT).
