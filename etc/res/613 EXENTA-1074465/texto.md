@@ -36,17 +36,17 @@ a) Acreditación de ahorro mínimo.
 
 b) Acreditación de Ficha de Protección Social.
 
-3. Declaración del monto total de ingresos del núcleo familiar. El número de seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde.
+c) Declaración del monto total de ingresos del núcleo familiar. El número de seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde.
 
-4. Se seleccionarán los beneficiados de acuerdo a un orden de prelación que establecerá la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá tomando en consideración los siguientes puntajes de selección:
+3. Se seleccionarán los beneficiados de acuerdo a un orden de prelación que establecerá la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá tomando en consideración los siguientes puntajes de selección:
 
-5. El subsidio habitacional podrá aplicarse sólo en el proyecto denominado "Conjunto Habitacional Las Dunas", el que está siendo desarrollado por el Serviu de la Región de Tarapacá.
+4. El subsidio habitacional podrá aplicarse sólo en el proyecto denominado "Conjunto Habitacional Las Dunas", el que está siendo desarrollado por el Serviu de la Región de Tarapacá.
 
-6. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la adscripción al respectivo proyecto calificado por parte del postulante seleccionado.
+5. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la adscripción al respectivo proyecto calificado por parte del postulante seleccionado.
 
-7. Mediante resolución de la Secretaría Regional Ministerial de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de seleccionados, la que deberá ser informada con fecha máxima al 31 de marzo de 2015, a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+6. Mediante resolución de la Secretaría Regional Ministerial de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de seleccionados, la que deberá ser informada con fecha máxima al 31 de marzo de 2015, a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-8. Impútese el monto total de 141.750 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Tarapacá, para el Programa de Reconstrucción del Fondo Solidario de Elección de Vivienda del año 2015.
+7. Impútese el monto total de 141.750 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Tarapacá, para el Programa de Reconstrucción del Fondo Solidario de Elección de Vivienda del año 2015.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
