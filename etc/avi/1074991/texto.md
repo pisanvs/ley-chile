@@ -1,0 +1,5 @@
+SOLICITUD DE RECTIFICACIÓN EXTRACTOS DE RESOLUCIONES Nos 386 Y 423, DE 2015
+
+En la edición del Diario Oficial Nº 41.085, del martes 17 de febrero de 2015, se publicó resolución Nº 386, de 2015, que "inicia proceso de designación de miembros titulares y suplentes del Comité de Manejo de las Pesquerías de Recursos Bentónicos de la Región de Magallanes y Antártica Chilena", y en la edición del Diario Oficial Nº 41.086, del miércoles 18 de febrero de 2015, se publicó resolución Nº 423, de 2015, que "inicia proceso de designación de miembros titulares y suplentes del Comité de Manejo de Anchoveta y Sardina española III - IV Regiones". Ambos actos administrativos serán publicados en la edición del Diario Oficial correspondiente al día martes 24 de febrero de 2015. En virtud de lo señalado, las publicaciones del martes 17 y miércoles 18 de febrero, ambas de 2015 antes referidas, no deberán tenerse en consideración para ningún efecto.
+
+Valparaíso, 19 de febrero de 2015.- Alejandro Gertosio Ramírez, Subsecretario de Pesca y Acuicultura (S)
