@@ -20,11 +20,15 @@ PRESUPUESTO 2015
 
 Ítem Montos en pesos $
 
-(A) Honorarios y remuneraciones 1.300.825.073
+(A) Honorarios y
+
+remuneraciones 1.300.825.073
 
 1 Honorarios expertos 1.154.676.443
 
-2 Honorarios Secretario Abogado 61.857.667
+2 Honorarios Secretario
+
+Abogado 61.857.667
 
 3 Jefe Administrativo 18.956.532
 
@@ -32,13 +36,19 @@ PRESUPUESTO 2015
 
 5 Asistente Administrativo 9.834.543
 
-6 Otros gatos personal administrativo 1.576.041
+6 Otros gatos personal
+
+administrativo 1.576.041
 
 7 Colación personal administrativo 2.607.021
 
-8 Provisión de Indemnización del Personal 27.596.970
+8 Provisión de Indemnización
 
-9 Provisión por estimación de inflación 12.580.407
+del Personal 27.596.970
+
+9 Provisión por
+
+estimación de inflación 12.580.407
 
 (B) Estudios y Asesorías 60.000.000
 
@@ -46,15 +56,21 @@ PRESUPUESTO 2015
 
 1 Alimentos y bebidas 1.055.667
 
-2 Materiales y útiles de oficina 172.752
+2 Materiales y útiles
+
+de oficina 172.752
 
 3 Materiales y útiles de aseo 428.840
 
-4 Materiales e insumos computación 2.251.975
+4 Materiales e insumos
+
+computación 2.251.975
 
 5 Servicio de Electricidad 2.263.419
 
-6 Servicio Telefónico y Banda Ancha 3.798.682
+6 Servicio Telefónico y
+
+Banda Ancha 3.798.682
 
 7 Mantenimiento de oficinas 1.367.659
 
@@ -70,7 +86,9 @@ PRESUPUESTO 2015
 
 14 Gastos comunes edificio 5.746.176
 
-15 Arriendo sala audiencias públicas 6.810.523
+15 Arriendo sala
+
+audiencias públicas 6.810.523
 
 16 Primas y gastos de seguros 383.635
 
@@ -80,7 +98,9 @@ PRESUPUESTO 2015
 
 19 Software y licencias 2.000.000
 
-(D) Gastos operación Subsecretaría de Energía 30.050.000
+(D) Gastos operación Subsecretaría
+
+de Energía 30.050.000
 
 Honorarios 16.800.000
 
@@ -97,6 +117,8 @@ Total mensual (A+B+C+D) 1.470.375.197
 Cabe señalar que los valores indicados se pueden redistribuir internamente, no excediendo el monto presupuestado.
 
 II. Establécese la siguiente prorrata para las empresas que se mencionan, para el financiamiento del presupuesto del Panel de Expertos y la contribución expresada en pesos que a cada empresa corresponde enterar, según la aplicación de dicha prorrata, para el pago de la suma de $1.383.938.786, (un mil trescientos ochenta y tres millones novecientos treinta y ocho mil setecientos ochenta y seis pesos) monto que se agrega al remanente del presupuesto del año 2014 de $86.436.411 (ochenta y seis millones cuatrocientos treinta y seis mil cuatrocientos once pesos) para cubrir el total del presupuesto del año 2015 por $1.470.375.197.- (mil cuatrocientos setenta millones trescientos setenta y cinco mil ciento noventa y siete).
+
+.
 
 III. Requiérase de pago a las Empresas que no cumplieran con la obligación del inciso segundo del artículo 24 del decreto supremo Nº 181, de 2004, del Ministerio de Economía, Fomento y Reconstrucción, que aprobó el Reglamento del Panel de Expertos establecido en el Título VI de la Ley General de Servicios Eléctricos, serán requeridas de pago una vez que se cumpla con el respectivo trámite de entrega de información, y su aporte se adicionará al presupuesto del año 2015.
 
