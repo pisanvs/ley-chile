@@ -1,0 +1,3 @@
+Por resolución exenta Nº 486, de 17 de febrero de 2015, de esta Subsecretaría, modifica resolución Nº 3.576 de 2014, de esta Subsecretaría, que fija densidades máximas de cultivo para la agrupación 23 B, fijando el número máximo de ejemplares a ingresar por estructura de cultivo para el centro de cultivo que indica en la resolución extractada.
+
+Valparaíso, 17 de febrero de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
