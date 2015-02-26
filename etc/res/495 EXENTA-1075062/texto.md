@@ -1,0 +1,3 @@
+Por resolución exenta Nº 495, de 17 de febrero de 2015, de esta Subsecretaría, recházanse las solicitudes números 212110033 sector 7, 212110038, 211110076 sector 4, 210110108 sector 2, 212110033 sector 3, 212110032, 211110042, 210100031, 210110112, 212110031, 210100044 sector 2, 211100002, 210110101 sector 1, 213110002 sector 3, 213110015, 210100018, 212110019, 211110041 y 211100007, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud artículo 5º de la ley 20.434 y 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de febrero de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
