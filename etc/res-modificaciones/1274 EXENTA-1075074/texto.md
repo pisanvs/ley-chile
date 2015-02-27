@@ -1,0 +1,21 @@
+MODIFICA RESOLUCIÓN Nº 7.386 DE 2014 QUE ESTABLECE REQUISITOS FITOSANITARIOS PARA LA IMPORTACIÓN DE SEMILLAS DE ESPECIES HORTÍCOLAS, CHACRAS, AROMÁTICAS Y MEDICINALES, PROCEDENTES DE TODO ORIGEN
+
+Núm. 1.274 exenta.- Santiago, 19 de febrero de 2015.- Vistos: Lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero; el decreto ley Nº 3.557 de 1980, sobre Protección Agrícola; el decreto ley Nº 16 de 1995, del Ministerio de Relaciones Exteriores que promulga el "Acuerdo de Marrakech", por el que se establece la Organización Mundial del Comercio y los acuerdos anexos que indica; la resolución del Servicio Agrícola y Ganadero Nº 7.386 de 2014.
+
+Considerando:
+
+1. Que el Servicio Agrícola y Ganadero, en adelante SAG, es la autoridad nacional encargada de la protección fitosanitaria del país.
+
+2. Que, el SAG está facultado para establecer los requisitos fitosanitarios para la importación al país de artículos reglamentados a fin de prevenir la introducción y dispersión de plagas reglamentadas.
+
+3. Que, mediante la resolución Nº7.386 de 2014, se estableció para las bacterias cuarentenarias: Acidovorax avenae ssp. citrulli, Curtobacterium flaccumfaciens pv. flaccumfaciens, Pseudomonas syringae pv. lachrymans, Pseudomonas syringae pv. pisi, Xanthomonas campestris pv. cucurbitae y Xanthomonas hortorum pv. carotae (=X. campestris pv. carotae), a través de la vía semillas de especies hortícolas, chacras, aromáticas y medicinales, la declaración adicional: El envío proviene de un semillero que fue inspeccionado y analizado (especificar técnica de diagnóstico) durante el período de crecimiento activo y encontrado libre de bacterias o bien, el envío se encuentra libre de bacterias de acuerdo con el resultado del análisis oficial de laboratorio, indicando la técnica de diagnóstico utilizada.
+
+4. Que, se ha considerado necesario posponer la entrada en vigor de los requisitos establecidos en la resolución Nº 7.386/2014, referente a semillas de las especies: Citrullus lanatus (= C. vulgaris), Coriandrum sativum, Cucumis melo, Cucumis metuliferus, Cucumis sativus, Cucurbita ficicolia, Cucurbita foetidissima, Cucurbita maxima, Cucurbita moschata, Cucurbita pepo, Cucurbita pepo var. medullosa, Daucus carota, Lablad purpureus (= Dolichos lablad), Phaseolus coccineus (= P. multiflorus), Phaseolus lunatus, Phaseolus vulgaris, Pisum sativum, Vigna mungo (= Phaseolus mungo), Vigna radiata var. radiata (= Phaseolus aureus) y Vigna unguiculata (= Vigna sinensis), hospedantes de bacterias cuarentenarias, para que las empresas productoras y exportadoras de las semillas mencionadas y las Organizaciones Nacionales de Protección Fitosanitaria, logren adecuar sus procesos de certificación fitosanitaria y no afectar los procesos de intercambio de las semillas ya cosechadas y que se encuentran en stock o almacenadas.
+
+Resuelvo:
+
+1. Modifícase la resolución Nº7.386 de 2014, que "Establece requisitos fitosanitarios para la importación de semillas de especies hortícolas, chacras, aromáticas y medicinales, procedentes de todo origen, en lo siguiente:
+
+Agréguese un nuevo resuelvo, Nº14, con el siguiente texto: "Los países que cuentan con existencia o stock de semillas de las especies Citrullus lanatus (= C. vulgaris), Coriandrum sativum, Cucumis melo, Cucumis metuliferus, Cucumis sativus, Cucurbita ficicolia, Cucurbita foetidissima, Cucurbita maxima, Cucurbita moschata, Cucurbita pepo, Cucurbita pepo var. medullosa, Daucus carota, Lablad purpureus (= Dolichos lablad), Phaseolus coccineus (= P. multiflorus), Phaseolus lunatus, Phaseolus vulgaris, Pisum sativum, Vigna mungo (= Phaseolus mungo), Vigna radiata var. radiata (= Phaseolus aureus) y Vigna unguiculata (= Vigna sinensis), y que no puedan cumplir con la declaración adicional establecida para el caso de las bacterias, podrán hasta el 31 de diciembre de 2015 cumplir con la siguiente declaración adicional: "El envío proviene de un semillero que fue inspeccionado durante el período de crecimiento activo y encontrado libre de (indicar nombre de la bacteria)".
+
+Anótese, comuníquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S).
