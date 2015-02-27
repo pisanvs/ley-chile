@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS DE "COMPAÑÍA DE SEGUROS DE VIDA CÁMARA S.A."
+
+Certifico: Que por resolución exenta Nº43 de 19 de febrero de 2015 de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Compañía de Seguros de Vida Cámara S.A.", acordada en Junta Extraordinaria de Accionistas de 8 de enero de 2015, cuya acta consta en escritura pública de fecha 13 de enero de 2015, otorgada ante el Notario de Santiago don Patricio Zaldívar Mackenna, con domicilio en Bandera Nº 341, oficina 857, Santiago.
+
+La modificación consiste en el aumento del capital social de $27.688.829.431.-, dividido en 3.145.808.590 acciones nominativas, de una misma serie, sin valor nominal y de igual valor, encontrándose $1.500.000.003.- correspondiente a 170.419.371 acciones, pendientes de pago, a $37.688.829.427.- dividido en 4.281.937.727 acciones de una misma serie y sin valor nominal y de igual valor, mediante la emisión de 1.136.129.137 acciones de pago, correspondiente a $9.999.999.996.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 19 de febrero de 2015.- Carmen Undurraga Martínez, Secretario General.
