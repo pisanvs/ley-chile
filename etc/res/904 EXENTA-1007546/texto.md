@@ -478,11 +478,7 @@ b) Otros productos de Tabaco:
 
 - Comercial Pinares: Purito Café Crème
 
-- Euromaxx Ltda. Cigarrillos Jaisalmer Blue Caja x 20 Cigarrillos
-
-- Euromaxx Ltda. Cigarrillos Jaisalmer Menthol Caja x 20 Cigarrillos
-
-- Euromaxx Ltda. Cigarrillos Jaisalmer Red Caja x 20 Cigarrillos
+- ELIMINADO
 
 - Guido Eugenio Hernández Iter Gold Carlo Blue, Cajetilla BOX de 20 cigarrillos.
 
