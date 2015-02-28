@@ -1,0 +1,5 @@
+APRUEBA CONTRATO AD REFERENDUM DE CONCESIÓN 2
+
+Resolución exenta Nº 60, de 2 de febrero de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región de Magallanes y la Antártica Chilena, aprueba Contrato Ad-Referéndum de Concesión 2 para operar una planta revisora clase AB en la comuna de Punta Arenas, en la Región de Magallanes y la Antártica Chilena, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y la Antártica Chilena y el concesionario "Revisiones Técnicas Davison Limitada", con vigencia de diez años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XII Región de Magallanes y la Antártica Chilena.
