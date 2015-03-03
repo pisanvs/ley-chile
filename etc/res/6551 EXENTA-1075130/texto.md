@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.551 EXENTA, DE 2014, QUE RECTIFICA RESOLUCIÓN NÚMERO 5.949 EXENTA DE 2006
+
+El Servicio Agrícola y Ganadero, por resolución exenta Nº 6.551 de fecha 1 de septiembre de 2014 rectificó la resolución exenta Nº 5.949 de fecha 1 de diciembre de 2006 que aclaró la resolución exenta Nº 1.322 de fecha 3 de agosto de 1988, que aprobó el Estudio Técnico de División Derechos de Aprovechamiento de Aguas del "Proyecto de Parcelación San Ramón", ubicado en la comuna de Petorca, Región de Valparaíso, con el objeto de expresar en litros por segundo la distribución de derechos de aprovechamiento de aguas del Pozo Hinojal o Vinagral y aclarar que la Parcela Nº 13 y no la 23 participa en el cuadro de distribución de dichos derechos. Estos derechos son de carácter consuntivo, de ejercicio permanente y continuo y corresponden a don Servando del Carmen Villalobos Villalobos, siendo, en consecuencia, la Parcela Nº 13 la poseedora del siguiente porcentaje de distribución de derechos de aprovechamiento de aguas del Pozo Hinojal o Vinagral: 43,07% por 12,92 litros por segundo.
+
+Ministro de fe.
