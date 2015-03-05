@@ -1,0 +1,3 @@
+Por resolución exenta Nº 560, de 26 de febrero de 2015, de esta Subsecretaría, recházanse las solicitudes números 212110035 sector 0, 212110037 sector 0, 213122239, 213122238, 213122247, 213101008 y 212100015, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura y en el artículo 14 del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 26 de febrero de 2015.- Alejandro Gertosio Ramírez, Subsecretario de Pesca y Acuicultura (S).
