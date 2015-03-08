@@ -18,19 +18,17 @@ El Ministerio del Interior determinará los valores señalados en el inciso ante
 
 Con excepción de aquellos casos en que, conforme a los procedimientos establecidos en los dos incisos precedentes, las respectivas visaciones estén exentas del pago de derechos, pagarán un derecho equivalente a quince dólares de los Estados Unidos de América las visaciones otorgadas a los siguientes extranjeros:
 
-a) El hijo de chileno.
+- **a)** El hijo de chileno.
 
-b) El cónyuge de chileno y los hijos de aquél.
+- **b)** El cónyuge de chileno y los hijos de aquél.
 
-c) Los padres de chileno.
+- **c)** Los padres de chileno.
 
-d) Aquellos beneficiarios de visaciones de residencia en la condición de dependientes.
+- **d)** Aquellos beneficiarios de visaciones de residencia en la condición de dependientes.
 
-e) El hijo de extranjeros transeúntes.
+- **e)** El hijo de extranjeros transeúntes.
 
-f) Suprimido.
-
-No obstante lo anterior, las niñas, niños y adolescentes, se encontrarán exentos del pago de derechos en cualquier caso y circunstancia.
+- **f)** Los menores de 18 años a la fecha de la solicitud de la visación de residencia.
 
 #### Artículo 2 bis
 
@@ -39,8 +37,6 @@ Estará exenta del pago de derechos, la visa otorgada conforme a lo dispuesto en
 #### Artículo 3°
 
 El valor que pagarán los extranjeros por las actuaciones correspondientes a la prórroga del permiso de turismo, será igual para todos ellos y equivalente, en moneda nacional, a la suma de 100 dólares de los Estados Unidos de América.
-
-> **Nota.** El artículo único del Decreto 281, Interior, publicado el 03.10.2020, indica que desde la publicación de la citada norma y mientras se mantenga el estado de excepción constitucional de catástrofe por calamidad pública en el territorio de Chile, dispuesto mediante decreto supremo N° 104, de 2020, del Ministerio del Interior y Seguridad Pública, y sus eventuales prórrogas, el valor que pagarán los extranjeros por las actuaciones correspondientes a la prórroga del permiso de turismo a que se refiere la presente norma, será igual para todos ellos y equivalente, en moneda nacional, a la suma de 1 dólar de los Estados Unidos de América.
 
 #### Artículo 4°
 
