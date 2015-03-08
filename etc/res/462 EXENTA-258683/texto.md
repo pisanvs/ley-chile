@@ -70,7 +70,7 @@ Independencia Cotapo Prieto Sentido N-S
 
 Av.
 
-Independencia Echeverría José Pérez Sentido S-N
+Independencia Echeverría José P�rez Sentido S-N
 
 Cotapo
 
@@ -216,6 +216,22 @@ Av. Vicuña Av. Manuel Ñuble Norte-Sur
 
 Mackenna Antonio Matta
 
+Lord Tarapacá General S-N
+
+Cochrane- Mackenna
+
+Hermanos
+
+Amunátegui
+
+Av.General
+
+Mackenna-Ismael
+
+Valdés Teatinos Miraflores Sentido P-O.
+
+Vergara
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
@@ -224,7 +240,7 @@ b) Vehículos de emergencia, del Programa de Fiscalización de la Subsecretaría
 
 c) Vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista exclusiva por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
 
-d) Buses de transporte público de pasajeros rurales e interurbanos, sólo en el caso de la Av. Libertador Bernardo O'Higgins (Alameda), siempre y cuando en sus certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros figure dicha vía como parte de su trazado.
+d) Buses de transporte público rural e interurbano que utilicen Av. Libertador Bernardo O'Higgins (Alameda) y, buses de transporte público rural que usen calle San Diego, siempre y cuando dichas vías se encuentren incorporadas en los respectivos certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, como parte de sus trazados
 
 Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte estas pistas exclusivas con el único objetivo de acceder o egresar desde su residencia o el lugar de estacionamiento habitual, podrán hacerlo restringidamente, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, las maniobras de ingreso o salida respecto de pistas exclusivas en relación a las que no lo son, se realizará de la siguiente forma:
 
