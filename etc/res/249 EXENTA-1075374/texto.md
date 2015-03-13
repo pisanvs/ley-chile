@@ -1,0 +1,9 @@
+Por resolución exenta Nº 249, de 30 de enero de 2015, de esta Subsecretaría, autorízase a CLAUDIO ALEJANDRO GONZÁLEZ WEBAR, para efectuar una pesca de investigación de conformidad con el Proyecto de Iniciación Fondecyt 2014 (11140087) "Historical and Recent Biogeographical Patterns and Processes in Southern Ocean Marine Molluscs with Contrasting Developmental Modes".
+
+El objetivo consiste en buscar comprender de mejor manera los patrones de distribución de los linajes evolutivos en especies de moluscos del Océano Austral. Para esto se incluirán distintos grupos de moluscos (Nacella, Margarella, Kerguelenella y Yoldia) que se encuentran distribuidos en distintas provincias del Océano Austral, tales como la costa austral de Sudamérica, Antártica e islas sub-Antárticas (Falkland/Malvinas, Marion, Kerguelén, Macquarie, Campbell). En base a las diferencias en sus secuencias de DNA será posible determinar las relaciones entre los linajes provenientes de distintas provincias del Océano Austral así como también procesos involucrados en el origen y en diversificación de estos. Paralelamente, será posible evaluar el efecto de los ciclos glaciales sobre la diversidad y estructura genética de las poblaciones y hacer comparaciones entre provincias del Océano Austral.
+
+La pesca de investigación se efectuará por el término de 3 años contados desde la fecha de la presente resolución, en ecosistemas intermareales rocosos a lo largo del Estrecho de Magallanes, Canal Beagle, Tierra del Fuego, Isla Navarino, Cabo de Hornos e Islas Diego Ramirez, donde podrá extraer las especies indicadas en la resolución extractada, en los términos allí señalados.
+
+El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 30 de enero de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
