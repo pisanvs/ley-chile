@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 522 EXENTA, DE 2014
+
+Por resolución exenta Nº 522, del 12 de diciembre de 2014, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos ubicado en Av. Eduardo Frei Nº 1725, comuna de Curanilahue, provincia de Arauco, Región del Biobío, de responsabilidad de la Sociedad de Taxis Colectivos Curanilahue Compañía Limitada, rol único tributario Nº 77.513.920-K. El tipo de terminal es un terminal clasificado en Categoría "B-50", conforme a la tabla establecida en el artículo 4.13.8, del Capítulo 13 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La capacidad máxima del terminal corresponde a 50 vehículos de conformidad al inciso quinto del artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones. Hará uso del terminal referido el servicio de vehículos taxis colectivos urbanos de Curanilahue, cuyo responsable es la Sociedad de Taxis Colectivos Curanilahue Compañía Limitada, rol único tributario Nº 77.513.920-K, servicio de vehículos taxis colectivos urbanos de la comuna de Curanilahue, con recorrido Troncal: Av. Eduardo Frei - Sargento Aldea - Prat - Luis Cruz Martínez; Variante 1: Av. Eduardo Frei - Prat - R. Samora - Av. Bernardo O'Higgins; Variante 2: Av. Eduardo Frei - Pedro Aguirre Cerda - Tucapel - Los Pinos.
+
+- **A)** El representante legal de la línea usuaria del terminal es: don Julio Celestino Aguayo Velásquez, rol único tributario Nº 8.874.742-9 y don Héctor Antoliano Cisterna Navarro, rol único tributario Nº 11.156.629-1 con domicilio en Pedro León Ugalde Nº 330 de la comuna de Curanilahue.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima de 50 vehículos.
+
+- **C)** El administrador del terminal será don Julio Celestino Aguayo Velásquez, rol único tributario Nº 8.874.742-9 con domicilio en Pedro León Ugalde Nº 330 de la comuna de Curanilahue. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
