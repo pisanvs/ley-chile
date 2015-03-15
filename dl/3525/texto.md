@@ -56,11 +56,13 @@ Toda persona, natural o jurídica, que acredite una capacidad de extracción de 
 
 15.- Otorgar, cuando le sean solicitados, certificados de origen y calidad de productos mineros que se destinen a la exportación.
 
-16.- Eliminado.
+16.- Requerir, conforme al artículo 21 del Código de Minería, a toda persona que realice o haya realizado, por sí o a través de terceros, trabajos de exploración geológica básica, la entrega de la información de carácter general que al respecto obtenga.
 
-17. Declarar las alertas derivadas de actividad volcánica o erupción y remoción en masa, que puedan afectar a la población, en sus niveles y cobertura, y comunicarlas de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
+Se entenderá por información de carácter general, el conjunto de antecedentes, tales como muestras, mapas, levantamientos, tablas o estudios, obtenidos de los trabajos de exploración geológica básica.
 
-18. Declarar la alerta de amenazas derivadas de emergencias mineras de gran alcance, en sus niveles y cobertura, y comunicarla de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
+El incumplimiento del requerimiento de información que efectúe el Servicio, conforme al párrafo anterior, podrá ser sancionado con multa de hasta 100 unidades tributarias anuales.
+
+Un reglamento establecerá las definiciones, plazos, condiciones y procedimiento para el ejercicio de la presente atribución, así como aquel para la aplicación de la multa precitada de conformidad a lo establecido en la ley Nº 19.880.
 
 ## Título II
 

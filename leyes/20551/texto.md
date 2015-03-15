@@ -280,7 +280,7 @@ De los auditores y del Registro Público de Auditores Externos. Podrán desempe�
 
 El Servicio sólo podrá inscribir en el Registro a quienes acrediten cumplir con los siguientes requisitos:
 
-1. Persona natural que cuente con título profesional relacionado con las ciencias vinculadas a la industria minera, entre otros, ingenieros de minas, ingenieros de ejecución en minas o geólogos, y que acreditaren experiencia en el área de a lo menos cinco años.
+1. Persona natural que cuente con título profesional relacionado con las ciencias vinculadas a la industria minera, entre otros, ingenieros de minas, ingenieros de ejecución en minas o geólogos, y que acreditaren experiencia en el área de a lo menos diez años.
 
 2. Sociedades de profesionales o personas jurídicas constituidas en conformidad a la ley, cuyo objeto contemple la auditoría de planes de cierre de faenas mineras, en que tuvieren participación o fueren integradas por profesionales que cumplan con los requisitos señalados en el numeral anterior.
 
@@ -680,13 +680,7 @@ A.1) Certificados de depósito a la vista, boletas bancarias de garantía a la v
 
 Los instrumentos señalados precedentemente deberán ser tomados a nombre y favor de la empresa minera, y puestos a disposición del Servicio, debidamente endosados en garantía, cuando corresponda atendida su naturaleza, para caucionar el cumplimiento de la obligación de cierre.
 
-Asimismo, podrán otorgarse pólizas de garantía a primer requerimiento emitidas por compañías de seguros nacionales. En este caso, la indemnización deberá ser pagada al Servicio a su mera solicitud, de conformidad con lo señalado en el artículo 44, dentro del plazo que establece la póliza, caso en el cual la aseguradora no podrá exigir que el requerimiento contenga mayor información que la identificación de la póliza, del asegurado y del monto reclamado. El asegurador no podrá oponer excepción alguna para condicionar, diferir o incumplir el pago de la indemnización.
-
-El asegurador deberá indemnizar al Servicio la totalidad de los costos de las medidas y actividades que dejó de cumplir la empresa minera, de acuerdo a la resolución que el Servicio dictó de conformidad con el artículo 44, hasta el monto asegurado que contemple el plan de cierre.
-
-Los instrumentos categoría A.1), con excepción de las pólizas de garantía, que hubieren sido propuestos por la empresa minera y aprobados por el Servicio, deberán ser entregados en custodia al Depósito Central de Valores, cuando corresponda, o depositarse en una institución financiera autorizada para tales efectos. La administración, renovación, sustitución y reemplazo de los instrumentos categoría A.1) corresponderán a la empresa minera, la que deberá solicitar al Servicio la autorización correspondiente para realizar cambios o alteraciones a su identidad y vigencia, mediante la remisión de copias digitales de los certificados de las instituciones antes descritas, que acrediten las características y montos de los instrumentos respectivos.
-
-Los requisitos y condiciones a los que deberán sujetarse las pólizas de garantía a primer requerimiento, así como la clasificación de riesgo que deberán cumplir las aseguradoras, serán establecidas en el reglamento de la presente ley.
+Los instrumentos categoría A.1), que hubieren sido propuestos por la empresa minera y aprobados por el Servicio, deberán ser entregados en custodia al Depósito Central de Valores, cuando corresponda, o depositarse en una institución financiera autorizada para tales efectos. La administración, renovación, sustitución y reemplazo de los mismos corresponderán a la empresa minera, la que deberá informar al Servicio su identidad y vigencia, mediante la remisión de copias digitales de los certificados de las instituciones antes descritas, que acrediten las características y montos de los instrumentos respectivos.
 
 A.2) Instrumentos financieros representativos de captaciones o de deuda comprendidos en el artículo 45 del decreto ley N° 3.500, de 1980, con clasificación de riesgo de a lo menos clase A nacional o equivalente internacional.
 
@@ -795,8 +789,6 @@ El Servicio será competente para fiscalizar el cumplimiento de los planes de ci
 Para efectos de lo establecido en el artículo anterior, la valorización de los planes de cierre aprobados por el Servicio, en virtud del Título X del Reglamento de Seguridad Minera, deberá efectuarse mediante la aprobación ambiental de la fase de cierre del mismo, cuando procediere obtenerla, de acuerdo a las normas de la ley N° 19.300.
 
 El proceso de valorización respecto de la fase de cierre deberá efectuarse en el plazo de dos años, de manera que integre los aspectos ambientales y sectoriales aprobados por las autoridades competentes.
-
-Las empresas que se hayan acogido al régimen indicado en este artículo deberán actualizar sus planes de cierre, en lugar de realizar la primera auditoría periódica del artículo 18 de la presente ley, en el mismo plazo de cinco años señalado en dicha disposición. Esto es sin perjuicio del deber de auditar periódicamente, en adelante, sus planes de cierre de conformidad a la ley. Lo anterior no afectará las facultades fiscalizadoras del Servicio.
 
 #### Artículo tercero
 
