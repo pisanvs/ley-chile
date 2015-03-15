@@ -4,7 +4,7 @@ Certifico: Que por resolución exenta Nº 59, de fecha 5 de marzo de 2015, esta 
 
 1) La reforma de estatutos consiste en aumentar el número de directores de 5 a 7, modificando el artículo séptimo de los estatutos.
 
-2) Se sanea defecto de publicaciones del certificado que da cuenta de la existencia de la compañía, efectuadas en el Diario Oficial con fechas 26/12/2014 y 18/02/2015.
+2) Se sanea defecto de publicaciones del certificado que da cuenta de la existencia de la compañía, efectuadas en el Diario Oficial con fechas 26 de diciembre de 2014 y 18 de febrero de 2015, correspondientes a la escritura pública de fecha 22 de agosto de 2014, otorgada en la Notaría de Santiago de don Sergio Carmona Barrales, con domicilio en Ahumada Nº 312, oficina Nº 236.
 
 3) Demás estipulaciones constan en escritura extractada.
 
