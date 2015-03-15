@@ -22,9 +22,9 @@ Resolución:
 
 3. Los recursos comprometidos conforme al Resuelvo 1. de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 3.134 (V. y U.), de 2014, cuyo cierre de postulación se efectuó el día 31 de diciembre de 2014, se detallan en el siguiente cuadro, considerando los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica:
 
-.
-
 El monto definitivo a considerar para cada postulante seleccionado, será determinado al momento de la adscripción al proyecto, por parte del damnificado beneficiado.
+
+> **Nota.** Los literales a), b) y c) del N° 1 de la Resolución 1542 Exenta, Vivienda, publicada el 14.03.2015, modifican el resuelvo 1 de la presente norma en el sentido que la propia norma señala.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
