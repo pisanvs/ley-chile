@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº 69 de 27 de febrero de 2015, se desistió de la expropiación de los lotes Nº50 y 51, ordenada por el Decreto MOP (Exento) Nº1989 de 18 de noviembre de 2013, modificado por el Decreto MOP (Exento) Nº530 de 30 de junio de 2014, para la obra. "Mejoramiento Ruta I-796, Cabrería - Auquinco, " debido a que fueron eliminados. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas (TP").
