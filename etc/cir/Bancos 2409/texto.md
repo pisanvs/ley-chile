@@ -1306,6 +1306,68 @@ Estos sistemas o mecanismos deberán permitir tener una vista integral y oportun
 
 Las transferencias electrónicas de fondos dentro del mercado financiero pueden ser utilizadas como una herramienta más para realizar el lavado de activos. Para mitigar el riesgo de dicha práctica por esta vía, es necesario que las instituciones bancarias, complementando los esquemas de autentificación robusta, cuenten con mecanismos o herramientas de identificación, evaluación de riesgos, monitoreo y detección de lavado de activos, para facilitar dos aspectos principales: la detección de patrones predefinidos en la operación de lavado de activo y el rastreo transaccional para la detección de formas o prácticas emergentes mediante el análisis de las desviaciones de comportamiento respecto a los estándares de cada uno de los clientes.
 
+### 5. Cajeros automáticos
+
+5.1 Generalidades.
+
+Los bancos son responsables, ya sea que el servicio se preste directamente o a través de terceros, del debido funcionamiento de su red de cajeros automáticos y del cumplimiento de los requisitos que se establecen a continuación. Dichos requerimientos se refieren a actividades relacionadas con la reposición de efectivo, mantención periódica de los dispositivos, monitoreo continuo del funcionamiento de las redes y sistemas sobre los que se sustenta el servicio, así como la oportuna resolución de los incidentes que pongan en riesgo la continuidad operacional.
+
+Asimismo, dichas entidades deben velar por el cumplimiento de las exigencias legales en materia de seguridad pública aplicables a los cajeros automáticos y transporte de valores, precaviendo que tal responsabilidad se encuentre resguardada en los contratos que se celebren con terceros, especialmente cuando los dispositivos se encuentren ubicados fuera de las dependencias de un banco.
+
+5.2 Definiciones.
+
+Período de funcionamiento predefinido: Corresponde al lapso dentro del cual cada uno de sus cajeros automáticos tendrá la capacidad de dispensar dinero de manera continua.
+
+Para efectos de determinar el período de funcionamiento predefinido de cada cajero automático, se deben considerar los horarios de funcionamiento de los establecimientos donde estos se encuentran emplazados.
+
+Indicador de disponibilidad de servicio o Uptime: Se refiere al tiempo, respecto de un período de funcionamiento predefinido, en que los cajeros automáticos estuvieron habilitados para efectuar giros de dinero.
+
+Indicador de indisponibilidad de servicio o Downtime: Período de tiempo dentro del lapso de funcionamiento predefinido, en que los cajeros automáticos no se encontraron habilitados para efectuar giros de dinero.
+
+El Downtime de un cajero automático se computará como el cociente entre el tiempo en que el dispositivo no permitió realizar transacciones de retiro de efectivo y el período de funcionamiento predefinido
+
+5.3 Estándares mínimos de disponibilidad de servicio.
+
+La disponibilidad de servicio de los cajeros automáticos no podrá ser inferior a 95%. Por lo tanto, el Downtime de la red de cajeros automáticos de cada entidad deberá mantenerse dentro de un rango no superior al 5%. Esto, sin perjuicio de las políticas que defina el Directorio de cada entidad, relativas a establecer un límite de Downtime inferior.
+
+Además de aquellas situaciones que puedan ser catalogadas como caso fortuito o fuerza mayor, las instituciones bancarias podrán descontar en dicha medición aquellos tiempos de indisponibilidad producidos por la necesidad de realizar ajustes a su dotación de cajeros automáticos, que se encuentren en proceso de adaptación a cambios en las regulaciones en materia de seguridad pública, debiendo para el efecto remitir a esta Superintendencia el plan asociado a su implementación. Asimismo, se podrán descontar del cómputo las indisponibilidades que resulten de actos vandálicos que inhabiliten la operatividad de los dispositivos. También se podrán restar aquellos casos relacionados con remodelaciones, traslados o cierres de los locales, cuando se trate de cajeros emplazados en establecimientos no dependientes de la administración de la propia institución, sin perjuicio de que esta situación deba ser adecuadamente informada a los usuarios.
+
+El cómputo del referido índice de disponibilidad corresponderá a lo siguiente:
+
+.
+
+5.4 Requisitos de gestión.
+
+Sin perjuicio de las disposiciones contenidas en los números 1 y 2 del presente Capítulo y de lo indicado en materia de administración de riesgo operacional en el Capítulo 1-13 de esta Recopilación, el banco deberá contemplar dentro de sus políticas de gestión las siguientes medidas:
+
+5.4.1. Sistemas de monitoreo.
+
+Las entidades deben disponer de sistemas de monitoreo que permitan detectar, de manera continua, las fallas y causas que impidan el normal funcionamiento de los cajeros automáticos. Los sistemas de monitoreo dispuestos por las entidades deberán mantenerse activos durante la totalidad del período de funcionamiento predefinido de los dispositivos y contar con medidas de contingencia en caso de falla del sistema principal.
+
+5.4.2 Información de gestión.
+
+Los bancos deben mantener un sistema de información de gestión, que permita una oportuna identificación de las situaciones que afectan los índices de disponibilidad, tales como las fluctuaciones de demanda de efectivo, fallas en el funcionamiento del dispositivo o de su red de cajeros, así como la naturaleza, frecuencia y origen de las mismas. Dicho sistema debe generar los antecedentes necesarios para una adecuada y oportuna evaluación, tanto del cumplimiento de los estándares de disponibilidad de servicio definidos por la entidad, como de los establecidos en este Capítulo.
+
+La información generada deberá ser dada a conocer periódicamente al Directorio o a quién haga sus veces, para una adecuada toma de decisiones.
+
+5.4.3 Políticas y procedimientos de funcionamiento de los cajeros automáticos.
+
+Los bancos deben mantener políticas y procedimientos formales, aprobados por el Directorio, para administrar los riesgos operacionales relacionados con el funcionamiento de su red de cajeros automáticos, el cumplimiento de los niveles mínimos de disponibilidad de servicio y los planes de regularización de los dispositivos afectados por siniestros graves, que puedan requerir la reposición de los mismos.
+
+Las políticas y procedimientos también deben referirse a las condiciones generales que deberán cumplir los lugares donde se encuentren emplazados los dispositivos, acordes con la cobertura geográfica que se contempla mantener y la naturaleza o el tipo de establecimientos en que sean instalados (ej. sucursales del propio banco, estaciones de servicios, centros comerciales, etc.). Asimismo, deben considerar directrices para el establecimiento de las condiciones contractuales mínimas para la instalación de cajeros fuera de las dependencias de la institución.
+
+El área o función que será responsable de la observancia de dichas políticas deberá quedar claramente definida.
+
+5.4.4 Manejo de incidentes.
+
+Para responder a los eventos que impidan el normal funcionamiento de los dispositivos, la institución deberá contar con la estructura necesaria para el manejo de incidentes, que le permitan evaluar cada situación y tomar oportunamente las medidas para su regularización.
+
+La información que se presente al público, acerca de los problemas de funcionamiento de los cajeros automáticos deberá dar cuenta, en términos generales, del plazo estimado para las restitución del servicio.
+
+5.5 Información a la Superintendencia.
+
+Las instituciones bancarias deberán mantener sistemas de información que les permitan generar estadísticas del funcionamiento de su red de cajeros automáticos (identificación de los terminales, ubicación, disponibilidad de servicio, horarios de funcionamiento predefinidos, cantidad de interrupciones, causales de indisponibilidad, etc.), las cuales deben estar disponibles a solicitud de la Superintendencia".
+
 CAPITULO 1-8 (Bancos y Financieras)
 
 MATERIA:
