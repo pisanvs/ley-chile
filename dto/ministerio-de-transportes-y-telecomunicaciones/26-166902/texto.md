@@ -30,7 +30,7 @@ Para los fines del presente decreto, los elementos de seguridad que se señalan 
 
 9. Sistema antibloqueo de frenos (ABS): es aquel que, bajo ciertas situaciones de frenado, permite que las ruedas no se bloqueen, facilitando al conductor el control del vehículo;
 
-10. Sistema de protección al ocupante: conjunto de elementos estructurales de la carrocería que brindan protección a los ocupantes del ve-hículo en caso de colisión, choque o volca-dura;
+10. Sistema de protección al ocupante: conjunto de elementos estructurales de la carrocería que brindan protección a los ocupantes del vehículo en caso de colisión, choque o volcadura;
 
 11. Pretensor para cinturón de seguridad: es aquel sistema que, en caso de colisión, mejora la efectividad del cinturón en resguardo de la seguridad del ocupante;
 
@@ -38,15 +38,13 @@ Para los fines del presente decreto, los elementos de seguridad que se señalan 
 
 13. Espejo retrovisor abatible: es aquel que, en caso de golpe, cede en el sentido contrario al de marcha del vehículo.
 
-14.- Sistema Recordatorio de Uso del Cinturón de Seguridad: Sistema que tiene por objeto avisar al conductor cuando no utiliza el cinturón de seguridad.
-
-15.- Anclajes para los sistemas o asientos de seguridad para niños: Las partes de la estructura del vehículo o del asiento o de cualquier otra parte del vehículo, a las cuales se deben sujetar los sistemas o asientos de seguridad para niños.
+14.- SUPRIMIDO.
 
 16.- Programa electrónico de estabilidad (ESP): Función de control electrónico de un vehículo que mejora la estabilidad dinámica del mismo.
 
 #### Artículo 3º
 
-Será obligatorio para todos los vehículos a que se refiere el artículo 1º de este decreto, estar provistos de los elementos señalados en los números 1), 2), 4), 6), 7) y 13) del artículo anterior. Además, para los vehículos livianos de pasajeros serán obligatorios los elementos indicados en los números 3), 5), 9), 10), 14), 15) y 16) del mismo artículo. Las obligaciones anteriores serán exigibles, salvo que los vehículos estén construidos o equipados con otros elementos equivalentes, de modo que cumplan los objetivos del artículo precedente. Asimismo se exceptúa de la obligación relativa al número 15) del artículo 2º a las camionetas livianas o furgones con un peso bruto vehicular menor a 2.700 kg y que son derivadas de vehículos que fueron originalmente diseñados para el transporte de pasajeros. Con todo, los siguientes elementos deberán atenerse a las modalidades que se indican:
+Será obligatorio para todos los vehículos a que se refiere el artículo 1º de este decreto, estar provistos de los elementos señalados en los números 1), 2), 4), 6), 7) y 13) del artículo anterior. Además, para los vehículos livianos de pasajeros serán obligatorios los elementos indicados en los números 3), 5) y 10) del mismo artículo. Las obligaciones anteriores serán exigibles, salvo que los vehículos estén construidos o equipados con otros elementos equivalentes, de modo que cumplan los objetivos del artículo precedente. Con todo, los siguientes elementos deberán atenerse a las modalidades que se indican:
 
 a) El cinturón de seguridad a que se refiere el número 1) será obligatorio tanto para los asientos delanteros como para los traseros. Los cinturones deberán reunir las características del artículo 2º del decreto Nº 30, de 1985, antes referido y, tratándose de los asientos adyacentes a las puertas, deberán ser de tres puntos. En el caso de asientos traseros intermedios o adyacentes a puertas corredizas u orientados hacia atrás, de asientos abatibles y otros equivalentes, los cinturones podrán ser de dos puntos. Lo mismo ocurrirá respecto de los asientos traseros de camionetas de cabina y media y de vehículos convertibles.
 
@@ -62,7 +60,7 @@ Sin perjuicio de los elementos de los artículos anteriores, el Ministerio estab
 
 #### Artículo 6º
 
-Las normas que deberán cumplir los elementos mencionados en el artículo 2º, o sus equivalentes, en su caso, serán las establecidas por el Code Federal of Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea o por las Regulaciones de Seguridad definidas por la Comisión Económica Europea de las Naciones Unidas, Brasil, Japón o Corea, según determine el Ministerio.
+Las normas que deberán cumplir los elementos mencionados en el artículo 2º, o sus equivalentes, en su caso, serán las establecidas por el Code Federal of Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea o por las Regulaciones de Seguridad definidas por Brasil, Japón o Corea, según determine el Ministerio.
 
 #### Artículo 7º
 
@@ -70,7 +68,7 @@ El Ministerio, dentro del plazo de sesenta días de publicado este decreto, dict
 
 #### Artículo 8º
 
-Tratándose de vehículos livianos de pasajeros, los elementos de seguridad señalados en los números 8), 11) y 12) serán optativos; en el caso de vehículos livianos comerciales, serán optativas los consignados en los números 3), 5), 8) a 12),y 16 todos del artículo 2°. Sin embargo, cuando los vehículos motorizados livianos definidos por el decreto supremo Nº 211/91, homologados o no, vengan provistos de alguno o algunos de ellos y se pretenda comercializarlos o publicitarlos con esa característica, los fabricantes, armadores, importadores o sus representantes, deberán estar en condiciones de acreditar a los eventuales interesados, que ellos cumplen con las normas del artículo 6º, para cuyo efecto deberán contar con un certificado que lo señale, documento que deberán mantener a disposición del Ministerio para cuando les sea requerido.
+Tratándose de vehículos livianos de pasajeros, los elementos de seguridad señalados en los números 8), 9), 11), 12) y 16) serán optativos; en el caso de vehículos livianos comerciales, serán optativas los consignados en los números 3), 5), 8) a 12),y 16 todos del artículo 2°. Sin embargo, cuando los vehículos motorizados livianos definidos por el decreto supremo Nº 211/91, homologados o no, vengan provistos de alguno o algunos de ellos y se pretenda comercializarlos o publicitarlos con esa característica, los fabricantes, armadores, importadores o sus representantes, deberán estar en condiciones de acreditar a los eventuales interesados, que ellos cumplen con las normas del artículo 6º, para cuyo efecto deberán contar con un certificado que lo señale, documento que deberán mantener a disposición del Ministerio para cuando les sea requerido.
 
 Además, las personas mencionadas en el inciso anterior deberán colocar un rótulo en los vehículos de que se trata, que contenga un listado de todos los elementos optativos a que se refiere el inciso anterior, en el que se señale determinadamente con cuál o cuáles cuenta el vehículo que se ofrece y de cuáles carece. El rótulo deberá reunir las características y colocarse o adherirse en los vehículos, según determine el Ministerio.
 
