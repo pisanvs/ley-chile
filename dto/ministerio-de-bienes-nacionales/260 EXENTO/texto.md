@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE EL TABO
+
+Mediante decreto exento Nº 260, de 9 de febrero de 2015 del Ministerio de Bienes Nacionales, se otorgó la concesión de uso gratuito a la I. Municipalidad de El Tabo, RUT Nº 69.073.700-0, de los inmuebles fiscales signados como Lotes Nos 6 y 7, ubicados en Calle Armando Celis s/nº, comuna de El Tabo, provincia de San Antonio, Región de Valparaíso; enrolados en el Servicio de Impuestos Internos con los Nos 670-264 y 670-265 respectivamente; amparados por inscripción en mayor cabida a nombre del Fisco a fojas 53 vta. Nº 110, del Registro de Propiedad del Conservador de Bienes Raíces de San Antonio, correspondiente al año 1920, singularizado en el Plano Nº V-73016-C.U., con una superficie de 2.914,00 m2. y 460,40 m2., respectivamente. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para la realización de un proyecto educacional consistente en la instalación de un Liceo Técnico Profesional, anexo al Colegio El Tabo. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada, Jefa de División Jurídica.
