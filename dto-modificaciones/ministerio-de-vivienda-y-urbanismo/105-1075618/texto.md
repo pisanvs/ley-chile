@@ -1,20 +1,24 @@
-APRUEBA REGLAMENTO DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
+MODIFICA DECRETO Nº 49, DE 2011, QUE REGLAMENTA EL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
 
-Santiago, 13 de septiembre de 2011.- Hoy se decretó lo que sigue:
+Santiago, 8 de septiembre de 2014.- Hoy se decretó lo que sigue:
 
-Núm. 49.- Visto: El artículo 17 del DL Nº 539, de 1974; el DL Nº 1.305, de 1976, y en especial lo dispuesto en su artículo 13° letra a); la ley Nº 16.391 y en especial lo previsto en el artículo 2°, números 6 y 13; y los artículos 32, número 6° y 35, de la Constitución Política de la República de Chile,
+Núm. 105.- Visto: El DS Nº 49 (V. y U.), de 2011, y sus modificaciones, que reglamenta el Programa Fondo Solidario de Elección de Vivienda; el DL Nº 1.305, de 1975; la Ley Nº 16.391; las facultades que me confiere el número 6º del artículo 32 de la Constitución Política de la República de Chile; la resolución Nº 1.600 de la Contraloría General de la República, y
 
-Decreto:
+Considerando: La necesidad de introducir ajustes y modificaciones al Reglamento del Programa Fondo Solidario de Elección de Vivienda, con el objeto de promover la atención de familias, especialmente aquellas beneficiadas que no cuentan con un proyecto asociado; reajustar montos de subsidio y simplificar procedimientos.
 
-Apruébase el siguiente Reglamento:
+#### Artículo primero
 
-Programa Habitacional Fondo Solidario de Elección de Vivienda
+<!-- parte:9582414 -->
+
+Modifícase el DS Nº 49 (V. y U.), de 2011, en el sentido de reemplazar su texto por el que sigue:
+
+"Programa Habitacional Fondo Solidario de Elección de Vivienda
 
 Capítulo I: Del Programa Habitacional para familias vulnerables
 
-#### Artículo 1
+#### Artículo 1 (art. primero)
 
-<!-- parte:9608114 -->
+<!-- parte:9582417 -->
 
 Objetivo del Programa Habitacional Fondo Solidario de Elección de Vivienda
 
@@ -24,9 +28,9 @@ El programa está destinado a atender preferentemente a las familias del primer 
 
 Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo podrán impartirse instrucciones a los Servicios de Vivienda y Urbanización, en adelante también SERVIU, para la aplicación y/o aclaración de las disposiciones del presente reglamento.
 
-#### Artículo 2
+#### Artículo 2 (art. primero)
 
-<!-- parte:9608115 -->
+<!-- parte:9582418 -->
 
 Del Subsidio Habitacional
 
@@ -42,9 +46,9 @@ Capítulo II: De la Operatoria del Programa
 
 ### Párrafo I — De los Requisitos y Alternativas de Postulación
 
-#### Artículo 3
+#### Artículo 3 (art. primero)
 
-<!-- parte:9608118 -->
+<!-- parte:9582421 -->
 
 Requisitos generales y antecedentes para postular
 
@@ -114,9 +118,9 @@ m) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios a
 
 Al momento de la postulación, el interesado podrá otorgar su autorización al SERVIU para que, en caso de resultar seleccionado, entregue datos de su postulación a terceros, para el solo efecto que éstos puedan hacerle llegar información de viviendas u otra que pueda orientarlo en la elección de la solución habitacional.
 
-#### Artículo 4
+#### Artículo 4 (art. primero)
 
-<!-- parte:9608119 -->
+<!-- parte:9582422 -->
 
 Impedimentos para postular y para aplicar el subsidio habitacional
 
@@ -148,9 +152,9 @@ h) Las personas naturales que no acrediten núcleo familiar. Se exceptúan de es
 
 5. Las personas en condición de viudez, acreditada con certificado de matrimonio y de defunción del cónyuge. Si esta condición se configura respecto del postulante con posterioridad a la asignación del beneficio y hasta el pago del subsidio, se permitirá igualmente la aplicación del beneficio.
 
-#### Artículo 5
+#### Artículo 5 (art. primero)
 
-<!-- parte:9608120 -->
+<!-- parte:9582423 -->
 
 Excepciones a los impedimentos para postular
 
@@ -186,9 +190,9 @@ j) Cuando el postulante de la tipología de Construcción en Sitio Propio haya s
 
 Las excepciones aquí establecidas serán aplicables aun cuando el postulante o alguno de los miembros de su núcleo familiar fueren propietarios de más de una vivienda o caseta sanitaria, y concurrieren respecto de todas ellas alguna de las circunstancias descritas en las letras precedentes.
 
-#### Artículo 6
+#### Artículo 6 (art. primero)
 
-<!-- parte:9608121 -->
+<!-- parte:9582424 -->
 
 Postulación con exención de requisitos
 
@@ -196,9 +200,9 @@ Mediante resoluciones fundadas, el Ministro de Vivienda y Urbanismo o el SEREMI 
 
 Si como consecuencia de las exenciones autorizadas no es posible calcular alguno o algunos de los factores de puntaje a que alude el artículo 24, el postulante no obtendrá puntaje por dicho concepto.
 
-#### Artículo 7
+#### Artículo 7 (art. primero)
 
-<!-- parte:9608122 -->
+<!-- parte:9582425 -->
 
 Alternativas de postulación
 
@@ -228,9 +232,9 @@ ii. En caso que el grupo postule para desarrollar un proyecto de Densificación 
 
 La postulación colectiva deberá estar vinculada a un proyecto habitacional y a una Entidad Patrocinante, quien efectuará dicha postulación.
 
-#### Artículo 8
+#### Artículo 8 (art. primero)
 
-<!-- parte:9608123 -->
+<!-- parte:9582426 -->
 
 Del procedimiento para la postulación individual para la adquisición o adscripción de una vivienda
 
@@ -240,9 +244,9 @@ Al momento del ingreso de los antecedentes para la postulación, los interesados
 
 ### Párrafo II — De los Proyectos Habitacionales
 
-#### Artículo 9
+#### Artículo 9 (art. primero)
 
-<!-- parte:9608125 -->
+<!-- parte:9582428 -->
 
 Del Proyecto Habitacional
 
@@ -258,9 +262,9 @@ c) Construcción en Sitio Propio (CSP): La construcción de una vivienda en el s
 
 d) Pequeño Condominio (PC): Proyecto habitacional acogido al régimen de copropiedad inmobiliaria regulado por la Ley 19.537, que se desarrolla en un predio urbano, en el cual se construyen de 2 a 9 soluciones habitacionales y opcionalmente equipamiento.
 
-#### Artículo 10
+#### Artículo 10 (art. primero)
 
-<!-- parte:9608126 -->
+<!-- parte:9582429 -->
 
 De los antecedentes para la presentación de los proyectos.
 
@@ -334,9 +338,9 @@ n) Documento en que se describa la Etapa de Proyecto del Plan de Acompañamiento
 
 ### Párrafo III — Del Banco de Postulaciones
 
-#### Artículo 11
+#### Artículo 11 (art. primero)
 
-<!-- parte:9608128 -->
+<!-- parte:9582431 -->
 
 Del Banco de Postulaciones
 
@@ -344,9 +348,9 @@ El Banco de Postulaciones es un módulo de preparación, evaluación y postulaci
 
 El Banco se encontrará permanentemente abierto para recibir postulaciones, las que podrán ser ingresadas sin esperar llamados a concurso. No obstante lo anterior, el Ministro de Vivienda y Urbanismo podrá disponer, mediante resoluciones, el cierre y/o apertura del Banco por un período determinado o indefinidamente, pudiendo también cerrarse en forma parcial respecto de aquellas regiones en que el SERVIU y la SEREMI respectiva así lo soliciten de manera conjunta.
 
-#### Artículo 12
+#### Artículo 12 (art. primero)
 
-<!-- parte:9608129 -->
+<!-- parte:9582432 -->
 
 Del ingreso de los antecedentes para la postulación
 
@@ -354,9 +358,9 @@ El grupo organizado deberá ser ingresado al Banco de Postulaciones junto con el
 
 El ingreso de los antecedentes para la postulación se efectuará directamente en las oficinas que el SERVIU respectivo dispondrá para tal efecto, así como en las municipalidades acreditadas para ello por el SERVIU respectivo, o en otros servicios públicos con los cuales se suscriban los respectivos convenios, con arreglo a la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, o a través de los medios electrónicos que se establezcan para estos efectos.
 
-#### Artículo 13
+#### Artículo 13 (art. primero)
 
-<!-- parte:9608130 -->
+<!-- parte:9582433 -->
 
 De la evaluación de Proyectos
 
@@ -374,9 +378,9 @@ Durante el período establecido para subsanar las observaciones, podrán produci
 
 La información contenida en la base de datos y en el archivo físico del Banco será actualizada por el SERVIU si la Entidad Patrocinante aporta nuevos antecedentes para responder a las observaciones formuladas en el proceso de revisión, de modo de contar con la información completa y definitiva en relación a los proyectos habitacionales.
 
-#### Artículo 14
+#### Artículo 14 (art. primero)
 
-<!-- parte:9608131 -->
+<!-- parte:9582434 -->
 
 De la Permanencia en el Banco de Postulaciones
 
@@ -388,9 +392,9 @@ Durante la vigencia de la postulación y hasta el día hábil anterior al inicio
 
 Las modificaciones que se introduzcan a los proyectos que afecten los aspectos relacionados con el estándar técnico de los conjuntos habitacionales, de la vivienda, del equipamiento y los requisitos técnicos para la obtención de subsidios complementarios regulados en el presente reglamento, y en el Cuadro Normativo de Proyectos Habitacionales y Tabla de Espacios de Usos Mínimos para el Mobiliario e Itemizado Técnico de Construcción, deberán ser aprobados por el SERVIU respectivo y por las familias que los integran. Asimismo, en los casos que el SERVIU estime que los cambios modifican sustancialmente el proyecto, entendiendo que ello ocurre cuando se trata de modificaciones de emplazamiento, de localización, de tipología del conjunto y de la vivienda, entre otras, podrá devolver los antecedentes, eliminándolo del Banco de Postulaciones.
 
-#### Artículo 15
+#### Artículo 15 (art. primero)
 
-<!-- parte:9608132 -->
+<!-- parte:9582435 -->
 
 De la Calificación de proyectos
 
@@ -406,9 +410,9 @@ c) Si al momento del ingreso de los antecedentes no se hubiere acreditado fehaci
 
 Que el proyecto cuente con Certificado de Calificación Condicionada no impide la postulación de su grupo asociado, sin embargo se deberá subsanar su condicionalidad con anterioridad al momento de suscribir el acta de entrega de terreno para iniciar las obras de construcción.
 
-#### Artículo 16
+#### Artículo 16 (art. primero)
 
-<!-- parte:9608133 -->
+<!-- parte:9582436 -->
 
 De los Proyectos ingresados con viviendas disponibles
 
@@ -416,9 +420,9 @@ Los proyectos de Construcción en Nuevos Terrenos podrán ser ingresados al SERV
 
 Las Entidades Patrocinantes también podrán ingresar Proyectos Técnicos de la tipología Construcción en Nuevos Terrenos sin postulantes asociados, los que serán evaluados y calificados de acuerdo a lo indicado en el presente párrafo. Esta facultad no será aplicable para el caso de los Megaproyectos, donde cada etapa deberá contar con postulantes asociados de acuerdo a las condiciones señaladas en el inciso precedente.
 
-#### Artículo 17
+#### Artículo 17 (art. primero)
 
-<!-- parte:9608134 -->
+<!-- parte:9582437 -->
 
 De la Nómina de Oferta de Proyectos
 
@@ -430,9 +434,9 @@ La Entidad Patrocinante que presente un proyecto técnico, deberá establecer un
 
 La adscripción al proyecto habitacional que forme parte de la Nómina de Oferta la realizará el beneficiario en el SERVIU, a través del Sistema Informático u otro medio de que el MINVU disponga para tal efecto, obteniendo en dicho momento un Comprobante de Adscripción al Proyecto.
 
-#### Artículo 18
+#### Artículo 18 (art. primero)
 
-<!-- parte:9608135 -->
+<!-- parte:9582438 -->
 
 Vigencia de la aprobación del proyecto técnico
 
@@ -442,9 +446,9 @@ Si el proyecto técnico no cumple con lo establecido en el inciso precedente, se
 
 ### Párrafo IV — Del Terreno
 
-#### Artículo 19
+#### Artículo 19 (art. primero)
 
-<!-- parte:9608137 -->
+<!-- parte:9582440 -->
 
 Del terreno
 
@@ -464,9 +468,9 @@ La tasación de terrenos de propiedad del SERVIU, en los que se comprometa el de
 
 ### Párrafo V — De la Selección y Asignación de Subsidios Habitacionales
 
-#### Artículo 20
+#### Artículo 20 (art. primero)
 
-<!-- parte:9608139 -->
+<!-- parte:9582442 -->
 
 Llamados a procesos de selección
 
@@ -480,17 +484,17 @@ Podrán participar de los llamados que se efectúen, tratándose de postulacione
 
 El proceso de selección se desarrollará entre la fecha máxima establecida para la obtención de la calificación del proyecto habitacional en postulaciones colectivas, o la fecha de inicio de postulaciones individuales, fijadas en la resolución que efectúe el llamado a concurso en el cual se encuentre participando el grupo, y la de publicación en el Diario Oficial de la resolución de selección correspondiente. Durante este proceso no podrán producirse reemplazos en los grupos postulantes.
 
-#### Artículo 21
+#### Artículo 21 (art. primero)
 
-<!-- parte:9608140 -->
+<!-- parte:9582443 -->
 
 Llamados en Condiciones Especiales
 
 Sin perjuicio de lo señalado en el artículo anterior, el Ministro de Vivienda y Urbanismo podrá efectuar o autorizar a la SEREMI, mediante resoluciones fundadas, la realización de llamados a procesos de selección en condiciones especiales. Dichas resoluciones establecerán cuáles de los requisitos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dicho proceso y/o cuáles requisitos, condiciones y exigencias podrán ser eximidas, condicionadas o modificadas.
 
-#### Artículo 22
+#### Artículo 22 (art. primero)
 
-<!-- parte:9608141 -->
+<!-- parte:9582444 -->
 
 De los Puntajes
 
@@ -498,9 +502,9 @@ La determinación del puntaje individual se efectuará sumando cada uno de los f
 
 En el caso de la postulación colectiva, se sumarán los puntajes individuales que obtenga cada uno de los postulantes del grupo conforme al artículo siguiente y se dividirá por el número total de familias integrantes de éste. En el caso de grupos asociados a Megaproyectos, este puntaje será calculado sobre la base del total de familias asociadas a las distintas etapas del Megaproyecto. El resultado que se obtenga será el puntaje del grupo que postula al subsidio respectivo.
 
-#### Artículo 23
+#### Artículo 23 (art. primero)
 
-<!-- parte:9608142 -->
+<!-- parte:9582445 -->
 
 De la selección
 
@@ -516,9 +520,9 @@ Los grupos asociados a Megaproyectos podrán ser seleccionados si los recursos d
 
 En caso de empate, si los recursos no alcanzaren para atender a todos los que se encuentren en tal situación, se dará prioridad a quienes tengan un mayor puntaje por Núcleo Familiar, luego a quienes tengan un mayor puntaje en el factor de Vulnerabilidad Social y finalmente mayor puntaje en el factor de Vulnerabilidad Habitacional, según corresponda, y en caso de mantenerse el empate, se dirimirá por sorteo.
 
-#### Artículo 24
+#### Artículo 24 (art. primero)
 
-<!-- parte:9608143 -->
+<!-- parte:9582446 -->
 
 Factores de Puntaje
 
@@ -558,21 +562,29 @@ c) Vulnerabilidad Habitacional
 
 Se considerará como Puntaje de Vulnerabilidad Habitacional (PtjeVH) aquel que resulte de la siguiente ecuación:
 
-.
+Donde:
+
+HacR: Corresponde al índice de hacinamiento del núcleo familiar del postulante, según la siguiente clasificación:
+
+Índice de Hacinamiento Valor
+
+Hasta 2 0
+
+Entre 2,1 y 2,5 0,25
+
+Entre 2,6 y 3,0 0,5
+
+Entre 3,1 y 3,5 0,75
+
+De 3,6 o más 1
 
 Índice de hacinamiento: Corresponde al cuociente entre el número de personas y el número de dormitorios, calculado en base a los antecedentes consignados en la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante.
 
 Tipo: Corresponde a la variable Tipo de Vivienda de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
 
-.
-
 Agua: Corresponde a la variable disponibilidad de agua de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
 
-.
-
 Excretas: Corresponde a la variable sistema de eliminación de excretas de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
-
-.
 
 d) Antigüedad de la postulación
 
@@ -586,13 +598,13 @@ ii. Colectiva
 
 e) Antigüedad y permanencia del ahorro
 
-5 puntos por cada mes de Antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
+5 puntos por cada mes de antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
 
 20 puntos si el promedio del saldo medio mensual del semestre previo al ingreso de los antecedentes de la postulación es igual o superior al 12,5% del saldo acreditado en dicho momento.
 
-#### Artículo 25
+#### Artículo 25 (art. primero)
 
-<!-- parte:9608144 -->
+<!-- parte:9582447 -->
 
 De la aprobación de la nómina de postulantes seleccionados
 
@@ -600,9 +612,9 @@ Tratándose de llamados nacionales, las nóminas de postulantes seleccionados se
 
 En caso que las resoluciones indicadas en el inciso precedente no publiquen las nóminas de postulantes beneficiados, éstas se deberán publicar en un periódico de circulación nacional o en el sitio web del MINVU o del SERVIU y/o de la SEREMI respectiva durante los 15 días posteriores a la publicación de dicha resolución. Las nóminas de postulantes seleccionados deberán contener a lo menos el número de cédula de identidad del postulante y el puntaje obtenido. En caso de postulaciones colectivas, deberán indicar además el nombre y código de la agrupación.
 
-#### Artículo 26
+#### Artículo 26 (art. primero)
 
-<!-- parte:9608145 -->
+<!-- parte:9582448 -->
 
 De los reclamos
 
@@ -612,9 +624,9 @@ Sólo serán atendidos los reclamos fundados en errores de hecho no imputables a
 
 Los postulantes, sean individuales o colectivos, cuyos reclamos fueren acogidos y cuyos puntajes fueren superiores al puntaje de corte del respectivo llamado, serán incluidos en una nueva nómina de postulantes seleccionados, la que será aprobada mediante resolución fundada del Ministro de Vivienda y Urbanismo, de acuerdo a la prelación que les corresponda. Los subsidios que se otorguen se imputarán a los recursos autorizados correspondientes al año del llamado a postulación.
 
-#### Artículo 27
+#### Artículo 27 (art. primero)
 
-<!-- parte:9608146 -->
+<!-- parte:9582449 -->
 
 De la Asignación Especial de Subsidios
 
@@ -628,9 +640,9 @@ a) Cuando sea necesaria la disposición inmediata de los terrenos que ocupan, co
 
 b) Cuando existan razones de seguridad o salubridad, en la medida que esté comprometida la integridad física o la vida de las familias.
 
-#### Artículo 28
+#### Artículo 28 (art. primero)
 
-<!-- parte:9608147 -->
+<!-- parte:9582450 -->
 
 Del Certificado de Subsidio
 
@@ -654,9 +666,9 @@ Si un certificado de subsidio fuere objeto de pérdida por cualquier causal, el 
 
 ### Párrafo VI — De la Ejecución de las Obras
 
-#### Artículo 29
+#### Artículo 29 (art. primero)
 
-<!-- parte:9608149 -->
+<!-- parte:9582452 -->
 
 Del Contrato de Construcción
 
@@ -692,9 +704,9 @@ Sin perjuicio de las responsabilidades del contratista establecidas en la LGUC y
 
 En los casos donde el SERVIU actúe como Entidad Patrocinante, la contratación de obras estará regida por las disposiciones del DS Nº 236 (V. y U.), de 2002. Sin perjuicio de lo anterior, en estos casos, podrá contratar la ejecución de obras a contratistas inscritos en Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, regulado por el DS Nº 63 (V. y U.), de 1997.
 
-#### Artículo 30
+#### Artículo 30 (art. primero)
 
-<!-- parte:9608150 -->
+<!-- parte:9582453 -->
 
 De las Garantías en el Contrato de Construcción
 
@@ -708,9 +720,9 @@ La boleta señalada en el inciso anterior será devuelta al contratista siempre 
 
 En lugar de la boleta bancaria de garantía a que se refiere este artículo, el contratista podrá entregar Certificado de Fianza emitido por una Institución de Garantía Recíproca regida por la Ley Nº 20.179, clasificada en categoría A en el Registro respectivo que lleva la Superintendencia de Bancos e Instituciones Financieras, que cumpla con los mismos requisitos exigidos para la boleta bancaria de garantía.
 
-#### Artículo 31
+#### Artículo 31 (art. primero)
 
-<!-- parte:9608151 -->
+<!-- parte:9582454 -->
 
 De la Ejecución del Subsidio Mediante el Procedimiento de Autoconstrucción Asistida
 
@@ -736,9 +748,9 @@ Cada beneficiario, o grupo de beneficiarios que opten por el procedimiento de au
 
 Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo se podrán establecer aspectos más específicos respecto del procedimiento de autoconstrucción asistida del que trata el presente artículo, estableciendo criterios objetivos y procedimientos no discriminatorios para regular esta modalidad de ejecución.
 
-#### Artículo 32
+#### Artículo 32 (art. primero)
 
-<!-- parte:9608152 -->
+<!-- parte:9582455 -->
 
 Del inicio de obras
 
@@ -750,9 +762,9 @@ Capítulo III: Del Financiamiento
 
 ### Párrafo I — De los Subsidios
 
-#### Artículo 33
+#### Artículo 33 (art. primero)
 
-<!-- parte:9608155 -->
+<!-- parte:9582458 -->
 
 Financiamiento de la vivienda
 
@@ -760,21 +772,19 @@ Para efectos de financiar el precio de la vivienda el beneficiario deberá aplic
 
 El subsidio habitacional estará compuesto por un subsidio base y/o los subsidios complementarios señalados en los artículos 34 y 35 del presente reglamento, según corresponda.
 
-#### Artículo 34
+#### Artículo 34 (art. primero)
 
-<!-- parte:9608156 -->
+<!-- parte:9582459 -->
 
 Montos del Subsidio Base
 
 El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación será el siguiente:
 
-.
-
 Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que juste el monto a que se refiere el inciso anterior, con el objeto de determinar el monto del subsidio base en cada comuna del país y/o determinadas localidades. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local de construcción o adquisición de la vivienda objeto de este programa.
 
-#### Artículo 35
+#### Artículo 35 (art. primero)
 
-<!-- parte:9608157 -->
+<!-- parte:9582460 -->
 
 Subsidios complementarios
 
@@ -800,9 +810,9 @@ Adicionalmente, tratándose de proyectos de Construcción en Nuevos Terrenos u o
 
 6. Que la vía más cercana al terreno por la cual circula un servicio de transporte público operativo se encuentre a una distancia recorrible peatonalmente no mayor a 500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
-Que el equipamiento comercial o deportivo o cultural existente y más cercano, de escala mediana o mayor según los artículos 2.1.33 y 2.1.36 de la OGUC, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
+7. Que el equipamiento comercial o deportivo o cultural existente y más cercano, de escala mediana o mayor según los artículos 2.1.33 y 2.1.36 de la OGUC, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
-Que el área verde pública conformada, de superficie igual o mayor a 5.000 metros cuadrados, se encuentre ubicada a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
+8. Que el área verde pública conformada, de superficie igual o mayor a 5.000 metros cuadrados, se encuentre ubicada a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
 Las distancias señaladas deberán ser corroboradas por la SEREMI mediante los mecanismos de que ésta disponga, tales como visitas a terreno, certificados o documentos emitidos por algún organismo público competente en materia de educación, salud, transporte y planificación territorial, entre otros. Las distancias señaladas deberán ser calculadas mediante recorridos a través de bienes nacionales de uso público.
 
@@ -898,9 +908,9 @@ Para la aplicación de este subsidio complementario, en cualquiera de sus altern
 
 ### Párrafo II — Movilidad Habitacional
 
-#### Artículo 36
+#### Artículo 36 (art. primero)
 
-<!-- parte:9608159 -->
+<!-- parte:9582462 -->
 
 Bono de Movilidad Habitacional
 
@@ -920,17 +930,17 @@ b) Escritura de compraventa de la vivienda adquirida con constancia de la inscri
 
 ### Párrafo III — De los instrumentos y la acreditación del ahorro
 
-#### Artículo 37
+#### Artículo 37 (art. primero)
 
-<!-- parte:9608161 -->
+<!-- parte:9582464 -->
 
 Ahorro mínimo
 
 Para postular a los Subsidios Habitacionales regulados por este reglamento, el postulante deberá acreditar haber enterado un ahorro mínimo de 10 Unidades de Fomento en alguno de los instrumentos señalados en el artículo siguiente. En postulaciones colectivas, los postulantes del tercer quintil de vulnerabilidad definido por el Ministerio de Desarrollo Social, o quienes sean considerados dentro de él para efectos de la postulación al presente programa, como resultado de sus condiciones de carencia habitacional, de acuerdo a lo indicado en el inciso segundo del artículo 1 del presente reglamento, deberán acreditar un ahorro mínimo de 15 Unidades de Fomento.
 
-#### Artículo 38
+#### Artículo 38 (art. primero)
 
-<!-- parte:9608162 -->
+<!-- parte:9582465 -->
 
 De los instrumentos para mantener el ahorro
 
@@ -948,9 +958,9 @@ e) Otro tipo de cuentas de ahorro regidas por las normas dictadas al efecto por 
 
 Para los efectos del presente reglamento, todos los instrumentos señalados precedentemente se denominarán cuentas de ahorro.
 
-#### Artículo 39
+#### Artículo 39 (art. primero)
 
-<!-- parte:9608163 -->
+<!-- parte:9582466 -->
 
 De la acreditación del ahorro para postular al Subsidio Habitacional
 
@@ -964,17 +974,17 @@ La certificación que acredite el ahorro mínimo, expresado en Unidades de Fomen
 
 En caso que los integrantes del grupo opten por asociarse a un proyecto habitacional que establezca un monto de ahorro mayor al mínimo requerido para efectos de la postulación, éste deberá acreditar haber sido enterado conforme lo dispuesto en el inciso precedente, salvo en el caso de operaciones de Adquisición de Vivienda Construida, en que el ahorro adicional, si corresponde, deberá acreditarse al momento de firmar la respectiva compraventa.
 
-#### Artículo 40
+#### Artículo 40 (art. primero)
 
-<!-- parte:9608164 -->
+<!-- parte:9582467 -->
 
 De la información del ahorro
 
 La entidad captadora informará al SERVIU, por un medio electrónico o a través de un certificado, que el titular de la cuenta no ha efectuado giros ni se le han realizado cargos desde el día hábil anterior al ingreso de la postulación individual o del grupo organizado al Banco de Postulaciones y hasta la fecha de emisión del certificado de ahorro o de la entrega al MINVU de la información correspondiente. En caso de no contar o no entregarse esta acreditación, la respectiva postulación podrá ser dejada sin efecto.
 
-#### Artículo 41
+#### Artículo 41 (art. primero)
 
-<!-- parte:9608165 -->
+<!-- parte:9582468 -->
 
 De la suspensión para girar el ahorro
 
@@ -1000,9 +1010,9 @@ Capítulo IV: Estándar Técnico de los Conjuntos Habitacionales, de la Vivienda
 
 ### Párrafo I — De los requisitos técnicos para los Proyectos Habitacionales
 
-#### Artículo 42
+#### Artículo 42 (art. primero)
 
-<!-- parte:9608168 -->
+<!-- parte:9582471 -->
 
 Estándar Técnico de los Conjuntos en Proyectos Habitacionales de Construcción
 
@@ -1014,9 +1024,9 @@ Cuando se trate de edificios colectivos de viviendas, todas las fachadas del edi
 
 Los proyectos de Construcción en Nuevos Terrenos deberán considerar cierres perimetrales, en deslindes y frentes para todos los lotes del conjunto, de acuerdo a las características que se establezcan en las resoluciones a que se refieren los artículos 43 y 44 de este reglamento. Deberá evitarse que se enfrenten cierros opacos, concentrados a lo largo de una vía, como asimismo conformando áreas verdes por más de uno de sus costados.
 
-#### Artículo 43
+#### Artículo 43 (art. primero)
 
-<!-- parte:9608169 -->
+<!-- parte:9582472 -->
 
 Estándar Técnico de las Viviendas en Proyectos Habitacionales de Construcción
 
@@ -1044,7 +1054,7 @@ Las viviendas que contemplen inicialmente dos o menos dormitorios, deberán cons
 
 De acuerdo a lo anterior, el programa arquitectónico de la vivienda, según la dotación inicial de dormitorios, será el siguiente:
 
-.
+La superficie construida inicial de la vivienda no deberá ser inferior a:
 
 Excepcionalmente, y tratándose de proyectos de Construcción en Sitio Propio, Pequeño Condominio y Densificación Predial, el SERVIU podrá eximir del cumplimiento del requisito de presentar proyecto de ampliación y de alcanzar la superficie construida inicial señalada en el cuadro precedente, siempre que la aplicación de las normas de edificación, técnicas y urbanísticas contenidas en la OGUC y/o en el Instrumento de Planificación Territorial correspondiente no lo permitan, en función de las características del terreno, en cuyo caso de igual forma los recintos de la vivienda deberán cumplir las condiciones establecidas en el Cuadro Normativo de Proyectos Habitacionales y en la Tabla de Espacios de Usos Mínimos para el Mobiliario.
 
@@ -1056,17 +1066,17 @@ Tratándose de viviendas para postulantes unipersonales correspondientes a perso
 
 Tratándose de viviendas destinadas a familias con integrantes adultos mayores, en las que se aplique Subsidio de Densificación en Altura, estas deberán ubicarse preferentemente en el piso que cuente con acceso directo al exterior y cercanas a las áreas verdes del conjunto, cuando corresponda.
 
-#### Artículo 44
+#### Artículo 44 (art. primero)
 
-<!-- parte:9608170 -->
+<!-- parte:9582473 -->
 
 Materialidad Constructiva
 
 El proyecto, según el tipo y zona geográfica correspondiente, deberá cumplir con los requisitos mínimos determinados en el Itemizado Técnico de Construcción, aprobado por resolución del MINVU. Los SEREMI podrán aprobar Itemizados Técnicos Regionales, propuestos por los respectivos SERVIU, los que deberán ser informados a la División Técnica de Estudio y Fomento Habitacional del MINVU.
 
-#### Artículo 45
+#### Artículo 45 (art. primero)
 
-<!-- parte:9608171 -->
+<!-- parte:9582474 -->
 
 De las Viviendas Tipo
 
@@ -1076,9 +1086,9 @@ Asimismo, la División Técnica de Estudio y Fomento Habitacional del Ministerio
 
 El SERVIU respectivo, o la División Técnica de Estudio y Fomento Habitacional del Ministerio de Vivienda y Urbanismo, según corresponda, dispondrán como máximo de 30 días hábiles desde el ingreso de los antecedentes del proyecto para la evaluación de la tipología de vivienda tipo presentada por la entidad patrocinante. Producto de la referida evaluación, la tipología será informada con o sin observaciones, emitiéndose la respectiva certificación y adjuntándose las observaciones en caso que corresponda. Los proyectos que ingresen al Banco de Postulaciones incorporando tipologías de vivienda tipo, deberán acompañar el certificado de evaluación en conjunto con el resto de los antecedentes del proyecto.
 
-#### Artículo 46
+#### Artículo 46 (art. primero)
 
-<!-- parte:9608172 -->
+<!-- parte:9582475 -->
 
 Del equipamiento de los proyectos habitacionales
 
@@ -1088,23 +1098,21 @@ Para los Proyectos Habitacionales de menos de 30 viviendas presentados de acuerd
 
 En Proyectos Habitacionales de 30 o más viviendas, se deberá considerar como mínimo la conformación del equipamiento, área verde y/o espacio público que se señala a continuación y el adicional definido según lo señalado en el inciso anterior.
 
-.
-
 Sólo en casos debidamente justificados, mediante resolución fundada, el Director del SERVIU podrá eximir del cumplimiento del estándar de equipamiento dispuesto en el presente artículo, pudiendo exigir el reemplazo de estas obras por otras equivalentes, cuando en razón de las características del terreno en que se emplace el proyecto no sea posible cumplir con las obras y/o las superficies señaladas.
 
 ### Párrafo II — De los Requisitos Técnicos para la Adquisición de Viviendas Construidas
 
-#### Artículo 47
+#### Artículo 47 (art. primero)
 
-<!-- parte:9608174 -->
+<!-- parte:9582477 -->
 
 Estándar Técnico en la adquisición de viviendas nuevas
 
 Las viviendas destinadas a la aplicación de un subsidio para la Adquisición de Vivienda Nueva, deberán cumplir como mínimo con el estándar que señala el artículo 42 del presente reglamento, con las dimensiones y espacios de separación mínimos indicados en el Cuadro Normativo de Proyectos Habitacionales y en la Tabla Espacios de Usos Mínimos para el Mobiliario, según corresponda, y con la materialidad establecida en el Itemizado Técnico de Construcción, aprobado por resolución del Ministro de Vivienda y Urbanismo.
 
-#### Artículo 48
+#### Artículo 48 (art. primero)
 
-<!-- parte:9608175 -->
+<!-- parte:9582478 -->
 
 Estándar Técnico en la adquisición de viviendas usadas
 
@@ -1114,9 +1122,9 @@ Capítulo V: De la Gestión de la Demanda y el Plan de Acompañamiento Social
 
 ### Párrafo I — De la Gestión de la Demanda
 
-#### Artículo 49
+#### Artículo 49 (art. primero)
 
-<!-- parte:9608178 -->
+<!-- parte:9582481 -->
 
 Del Sistema de Información y Gestión Territorial de la Demanda
 
@@ -1126,9 +1134,9 @@ El MINVU pondrá a disposición de todos los SERVIU del país una plataforma inf
 
 ### Párrafo II — Del Plan de Acompañamiento Social
 
-#### Artículo 50
+#### Artículo 50 (art. primero)
 
-<!-- parte:9608180 -->
+<!-- parte:9582483 -->
 
 Plan de Acompañamiento Social
 
@@ -1144,9 +1152,9 @@ Por otra parte, la Entidad Patrocinante deberá procurar la entrega de las respe
 
 b) Etapa Posterior de Apoyo a la Conformación del Nuevo Barrio: etapa que comenzará desde la entrega material de las viviendas y, como mínimo, hasta los nueve meses siguientes de producida ésta, para proyectos de Construcción en Nuevos Terrenos. Esta etapa será ejecutada por el SERVIU, directamente o a través de personas naturales o jurídicas que seleccione para su desarrollo. En este último caso, las labores a ejecutar podrán ser contratadas por separado o en conjunto, debiendo asegurar el desarrollo integral de todas ellas.
 
-#### Artículo 51
+#### Artículo 51 (art. primero)
 
-<!-- parte:9608181 -->
+<!-- parte:9582484 -->
 
 Propósitos y áreas del Plan de Acompañamiento Social
 
@@ -1158,31 +1166,11 @@ A) Área de Ingreso de la Postulación al sistema de postulación del MINVU:
 
 Concretar la postulación de las familias que cumplen con los requisitos establecidos en el presente reglamento, en la alternativa de solución habitacional más pertinente para cada una de ellas.
 
-a.1 Informar e involucrar a las familias
+a.1 Informar e involucrar a las familias en el diseño del proyecto habitacional y del Plan de Acompañamiento Social correspondiente a la Etapa de Diseño y Ejecución del Proyecto.
 
-en el diseño del proyecto habitacional
+a.2 Aprobar el proyecto habitacional y la Etapa de Diseño y Ejecución del Proyecto del Plan de Acompañamiento Social, por parte de los integrantes del grupo organizado.
 
-y del Plan de Acompañamiento Social
-
-correspondiente a la Etapa de Diseño
-
-y Ejecución del Proyecto.
-
-a.2 Aprobar el proyecto habitacional y
-
-la Etapa de Diseño y Ejecución del
-
-Proyecto del Plan de Acompañamiento
-
-Social, por parte de los integrantes
-
-del grupo organizado.
-
-a.3. Realizar la postulación de las
-
-familias, de acuerdo al
-
-presente reglamento.
+a.3. Realizar la postulación de las familias, de acuerdo al presente reglamento.
 
 B) Área de seguimiento del proyecto habitacional:
 
@@ -1248,9 +1236,9 @@ Capítulo VI: Asistencia Técnica, Jurídica y Social, el Contratista y la fisca
 
 ### Párrafo I — De las Entidades Patrocinantes
 
-#### Artículo 52
+#### Artículo 52 (art. primero)
 
-<!-- parte:9608184 -->
+<!-- parte:9582487 -->
 
 De las Entidades Patrocinantes
 
@@ -1266,9 +1254,9 @@ El SERVIU podrá actuar como Entidad Patrocinante, previa autorización del Secr
 
 ### Párrafo II — Asistencia Técnica, Jurídica y Social para proyectos de construcción
 
-#### Artículo 53
+#### Artículo 53 (art. primero)
 
-<!-- parte:9608186 -->
+<!-- parte:9582489 -->
 
 De la Asistencia Técnica, Jurídica y Social para proyectos habitacionales de construcción
 
@@ -1312,9 +1300,9 @@ Los pagos que el SERVIU deba realizar por las actividades, trámites y gestiones
 
 ### Párrafo III — Asistencia Técnica y Jurídica en Adquisición de Vivienda Construida
 
-#### Artículo 54
+#### Artículo 54 (art. primero)
 
-<!-- parte:9608188 -->
+<!-- parte:9582491 -->
 
 Asistencia Técnica y Jurídica en Adquisición de Vivienda Construida Usada
 
@@ -1342,9 +1330,9 @@ En aquellas operaciones en que la tasación a que se refiere la letra c) precede
 
 Si el precio de venta excediere en más de un 20% el valor de la respectiva tasación realizada por la asesoría técnica o el SERVIU, este objetará el pago del subsidio, devolviendo la totalidad de los antecedentes de la operación.
 
-#### Artículo 55
+#### Artículo 55 (art. primero)
 
-<!-- parte:9608189 -->
+<!-- parte:9582492 -->
 
 Asistencia Técnica y Jurídica en Adquisición de Vivienda Construida Nueva
 
@@ -1356,9 +1344,9 @@ Si el precio de venta excediere en más de un 20% el valor de la tasación exigi
 
 ### Párrafo IV — De la Fiscalización Técnica de Obras (FTO) para Proyectos de Construcción
 
-#### Artículo 56
+#### Artículo 56 (art. primero)
 
-<!-- parte:9608191 -->
+<!-- parte:9582494 -->
 
 Fiscalización Técnica de Obras
 
@@ -1370,9 +1358,9 @@ Capítulo VII: De los Procedimientos Administrativos
 
 ### Párrafo I — De los Reemplazos, Fallecimientos y Cesiones
 
-#### Artículo 57
+#### Artículo 57 (art. primero)
 
-<!-- parte:9608194 -->
+<!-- parte:9582497 -->
 
 De los reemplazos
 
@@ -1384,9 +1372,9 @@ Tratándose de reemplazos de familias de grupos postulantes que no han obtenido 
 
 Los beneficiarios fallecidos podrán ser igualmente reemplazados en caso que no sea aplicable el procedimiento de sustitución señalado en el artículo 58 de este reglamento.
 
-#### Artículo 58
+#### Artículo 58 (art. primero)
 
-<!-- parte:9608195 -->
+<!-- parte:9582498 -->
 
 Del Fallecimiento del Beneficiario
 
@@ -1396,9 +1384,9 @@ El fallecimiento que dé origen a esta sustitución se acreditará mediante el r
 
 Las normas precedentes se aplicarán desde la fecha de postulación hasta la expiración del plazo de vigencia del respectivo certificado de subsidio, o de su prórroga o de su nuevo plazo, en su caso. Si dicho certificado ya hubiere sido emitido al producirse el deceso, será reemplazado por otro certificado a nombre del sustituto designado.
 
-#### Artículo 59
+#### Artículo 59 (art. primero)
 
-<!-- parte:9608196 -->
+<!-- parte:9582499 -->
 
 De la mujer casada que postula al Subsidio Habitacional y la cesión del Certificado de Subsidio
 
@@ -1406,9 +1394,9 @@ La mujer casada que postule al subsidio habitacional se presumirá separada de b
 
 ### Párrafo II — De las Obligaciones y prohibiciones que afectan a la vivienda construida o adquirida con aplicación del Subsidio Habitacional y medidas en caso de infracción
 
-#### Artículo 60
+#### Artículo 60 (art. primero)
 
-<!-- parte:9608198 -->
+<!-- parte:9582501 -->
 
 Obligaciones y Prohibiciones
 
@@ -1424,9 +1412,9 @@ Las prohibiciones antes señaladas se inscribirán en el respectivo registro del
 
 Solo en casos debidamente justificados y por resolución fundada, a solicitud del beneficiario del subsidio o de quien pueda sucederlo en sus derechos, el SERVIU podrá autorizar la enajenación, el gravamen, o cesión del uso y goce de la vivienda antes del vencimiento del plazo de las referidas prohibiciones.
 
-#### Artículo 61
+#### Artículo 61 (art. primero)
 
-<!-- parte:9608199 -->
+<!-- parte:9582502 -->
 
 Infracciones a las Disposiciones de este Reglamento
 
@@ -1438,21 +1426,19 @@ Las infracciones a las disposiciones de este reglamento, detectadas con posterio
 
 Los efectos en caso de infracciones que sean imputables a la Entidad Patrocinante, quedarán establecidos en el convenio que suscriba con la SEREMI, de acuerdo a lo señalado en al artículo 52 del presente reglamento.
 
-#### Artículo 62
+#### Artículo 62 (art. primero)
 
-<!-- parte:9608200 -->
+<!-- parte:9582503 -->
 
 Prohibición de Venta entre Parientes
 
 El subsidio destinado a la adquisición de una vivienda construida, ya sea nueva o usada, no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, situación que involucra a los siguientes parientes:
 
-.
-
 La prohibición a que se refiere el inciso anterior no regirá en caso que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en que el postulante seleccionado o su cónyuge sean comuneros, en cuyo caso el monto del subsidio que se pagará corresponderá al porcentaje de los derechos sobre la vivienda que adquiera el postulante de los otros comuneros.
 
-#### Artículo 63
+#### Artículo 63 (art. primero)
 
-<!-- parte:9608201 -->
+<!-- parte:9582504 -->
 
 Autorización de Venta
 
@@ -1468,9 +1454,9 @@ El otorgamiento por el SERVIU de las autorizaciones a que se refieren los inciso
 
 ### Párrafo III — Prórrogas y Nuevos Plazos
 
-#### Artículo 64
+#### Artículo 64 (art. primero)
 
-<!-- parte:9608203 -->
+<!-- parte:9582506 -->
 
 Autorización de prórrogas o nuevos plazos
 
@@ -1492,9 +1478,9 @@ Los subsidios prorrogarán automáticamente su vigencia por 12 meses más cuando
 
 Los beneficiarios que se encuentren asociados a un proyecto que resulte eliminado por no haber iniciado sus obras, no haber obtenido certificado de calificación definitiva o no haber alcanzado la factibilidad de ejecución dentro de los plazos correspondientes, y a cuyo subsidio restare menos de 12 meses de vigencia, obtendrán automáticamente una prórroga de vigencia de 12 meses adicionales a la vigencia original.
 
-#### Artículo 65
+#### Artículo 65 (art. primero)
 
-<!-- parte:9608204 -->
+<!-- parte:9582507 -->
 
 Alternativas de aplicación en casos especiales
 
@@ -1508,9 +1494,9 @@ c) Aplicar el subsidio a la adquisición de una vivienda construida, nueva o usa
 
 ### Párrafo IV — Del pago del subsidio
 
-#### Artículo 66
+#### Artículo 66 (art. primero)
 
-<!-- parte:9608206 -->
+<!-- parte:9582509 -->
 
 Subsidio aplicado al pago del precio de la Adquisición de Vivienda Construida, nueva o usada
 
@@ -1534,9 +1520,9 @@ e) Escritura pública a que se redujo el permiso de edificación, tratándose de
 
 Para proceder al pago, el SERVIU exigirá la presentación de los documentos señalados en el presente artículo, sea durante la vigencia del Subsidio o a más tardar dentro de los 90 días corridos posteriores al vencimiento del mismo, siempre que se acredite que la escritura respectiva y la solicitud de recepción municipal fueron ingresadas a trámite al Conservador de Bienes Raíces y al Municipio, respectivamente, durante la vigencia del Certificado de Subsidio.
 
-#### Artículo 67
+#### Artículo 67 (art. primero)
 
-<!-- parte:9608207 -->
+<!-- parte:9582510 -->
 
 Subsidio aplicado al pago del precio de la construcción de una vivienda.
 
@@ -1572,9 +1558,9 @@ En caso de acreditarse disponibilidad de terrenos fiscales en trámite de cesió
 
 Para proceder al pago, el SERVIU exigirá la presentación, a más tardar a los 90 días corridos posteriores al vencimiento del subsidio, de los documentos señalados en el presente artículo, siempre que se acredite que la escritura respectiva y la solicitud de recepción municipal fueron ingresadas a trámite al Conservador de Bienes Raíces y al Municipio, respectivamente, durante la vigencia de dicho subsidio.
 
-#### Artículo 68
+#### Artículo 68 (art. primero)
 
-<!-- parte:9608208 -->
+<!-- parte:9582511 -->
 
 Pago de anticipos para adquisición del terreno en proyectos de construcción
 
@@ -1588,9 +1574,9 @@ b) Copia del respectivo contrato de construcción.
 
 En los casos de grupos beneficiados donde el SERVIU o el municipio respectivo asuma como Entidad Patrocinante las labores de Asistencia Técnica, Jurídica y Social, el SERVIU podrá autorizar el giro anticipado a cuenta del pago del subsidio para la adquisición del terreno, en forma previa a la elaboración del proyecto, debiendo realizar las labores que se señalan en la letra b) del artículo 53.
 
-#### Artículo 69
+#### Artículo 69 (art. primero)
 
-<!-- parte:9608209 -->
+<!-- parte:9582512 -->
 
 Pago de anticipos para la construcción
 
@@ -1618,9 +1604,9 @@ a) El valor del avance físico de obras correspondiente a partidas terminadas, c
 
 b) El monto total de las garantías entregadas al SERVIU para caucionar los giros anticipados, que se encuentren vigentes y que hayan sido extendidas de acuerdo al artículo 71 de este reglamento.
 
-#### Artículo 70
+#### Artículo 70 (art. primero)
 
-<!-- parte:9608210 -->
+<!-- parte:9582513 -->
 
 Pago de anticipos contra recepción de viviendas
 
@@ -1628,9 +1614,9 @@ Una vez recepcionadas las viviendas por parte de la Dirección de Obras Municipa
 
 La boleta mencionada en el inciso anterior deberá ser pagadera a la vista a su sola presentación, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en 90 días al de la vigencia del subsidio, expresada en Unidades de Fomento. Esta boleta de garantía deberá incluir, además, una cantidad adicional correspondiente a una proyección de intereses, calculada de acuerdo a una tasa porcentual que se fijará por resoluciones del Ministro de Vivienda y Urbanismo, en base al promedio de los intereses pagados por los Bancos e Instituciones Financieras para los depósitos en Cuenta de Ahorro a Plazo para la Vivienda.
 
-#### Artículo 71
+#### Artículo 71 (art. primero)
 
-<!-- parte:9608211 -->
+<!-- parte:9582514 -->
 
 Boleta de garantía para el pago de anticipos para la construcción
 
@@ -1648,9 +1634,9 @@ En lugar de la boleta bancaria de garantía a que se refiere este artículo, el 
 
 Capítulo VIII: Definiciones Generales
 
-#### Artículo 72
+#### Artículo 72 (art. primero)
 
-<!-- parte:9608213 -->
+<!-- parte:9582516 -->
 
 Definiciones
 
@@ -1696,108 +1682,70 @@ SERVIU, que se encuentran disponibles para la adscripción de los postulantes be
 
 1.19. Vivienda Usada: Vivienda que al momento de la compraventa ha sido transferida al menos en una ocasión, o cuenta con recepción municipal definitiva mayor a tres años".
 
-DISPOSICIONES TRANSITORIAS DEL PRESENTE DECRETO :
+#### Artículo segundo
 
-> **Nota.** Disposiciones Transitorias correspondientes al Decreto 105, Vivienda, publicado el 20.05.2015.
+<!-- parte:9582517 -->
+
+Modifícase el artículo 74 del DS Nº 174 (V. y U.), de 2005, en la siguiente forma:
+
+a) Elimínase en su inciso primero la expresión "se efectúe al contado y que éste";
+
+b) Reemplázase en su inciso tercero la frase "quien lo endosará nominativamente a favor del SERVIU", por la oración "o con un Certificado de Subsidio otorgado al comprador, en su caso, instrumentos que serán endosados nominativamente a favor del SERVIU";
+
+c) Sustitúyese en su inciso tercero la frase "el SERVIU podrá hacer efectivo el depósito a plazo endosado a su favor", por "el SERVIU podrá hacer efectiva esta garantía".
+
+d) En el inciso cuarto, reemplázase la oración "a reendosar el depósito a plazo" por la frase "a reendosar el depósito a plazo o el certificado de subsidio en los casos que este último actúe como garantía".
+
+#### Artículo tercero
+
+<!-- parte:9582518 -->
+
+Establécese que las disposiciones transitorias contenidas en DS Nº 49 (V. y U.), de 2011, y sus modificaciones se mantienen vigentes en todo aquello que no sea modificado por el presente decreto y para los efectos que aún sean procedentes.
+
+DISPOSICIONES TRANSITORIAS DEL PRESENTE DECRETO:
 
 #### Artículo 1º transitorio
 
-<!-- parte:9608215 -->
+<!-- parte:9582520 -->
 
 En el caso de los subsidios otorgados al amparo del DS Nº 174 (V. y U.), de 2005, en la modalidad de adquisición de vivienda construida, el SERVIU sólo podrá autorizar prórrogas o ampliaciones de plazo de vigencia de subsidios conforme a lo dispuesto en el artículo 3º transitorio del DS Nº 49 (V. y U.), de 2011, hasta un plazo de 120 días corridos a partir de la publicación en el Diario Oficial del presente decreto.
 
 #### Artículo 2º transitorio
 
-<!-- parte:9608216 -->
+<!-- parte:9582521 -->
 
 Las modificaciones al DS Nº 49 (V. y U.), de 2011, dispuestas por el presente decreto, regirán para los llamados a selección que se realicen desde la fecha de su publicación en el Diario Oficial, pudiendo aplicarse a partir de esa fecha, incluso a proyectos y grupos o familias beneficiados con anterioridad, por ser más favorables para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
 #### Artículo 3º transitorio
 
-<!-- parte:9608217 -->
+<!-- parte:9582522 -->
 
 Las Entidades Patrocinantes que desarrollen proyectos para grupos beneficiados con cargo al programa 2012 bajo la modalidad de Grupos sin Proyecto del DS Nº 49 (V. y U.), de 2011, o que los adscriban en proyectos que cuenten con viviendas disponibles en la Nómina de Oferta, durante los 120 días posteriores a la publicación del presente decreto en el Diario Oficial, tendrán derecho a percibir un incremento de un 40% en los honorarios correspondientes a los servicios de las áreas A1, A2, A3, C2 y C3, establecidos en la resolución 420 (V. y U.), de 2012, que fija el procedimiento para la prestación de servicios de asistencia técnica, jurídica y social al programa de vivienda aprobado por el DS Nº 49 (V. y U.), de 2011. En caso de que lo hagan con posterioridad a los 120 días señalados, o que el grupo sin proyecto asociado haya sido beneficiado con cargo al programa del año 2013 o 2014, las entidades tendrán derecho a percibir un incremento de 25% de los honorarios correspondientes a los servicios de las áreas A1, A2, A3, C2 y C3 ya señaladas. Con todo, las Entidades Patrocinantes que se acojan a esta disposición transitoria, deberán efectuar el diagnóstico participativo del grupo patrocinado al que se refiere el artículo 50 del presente decreto, a más tardar al terminar el primer mes de iniciada la ejecución de las obras.
 
 #### Artículo 4º transitorio
 
-<!-- parte:9608218 -->
+<!-- parte:9582523 -->
 
 Las familias que hayan sido beneficiadas bajo la modalidad de Grupos sin Proyecto en el marco del DS Nº 49 (V. y U.), de 2011, y que a la fecha de la publicación del presente decreto en el Diario Oficial no se encuentren asociadas a un proyecto habitacional, podrán adscribir individual o grupalmente a viviendas disponibles en la Nómina de Oferta de Proyectos, conforme lo dispuesto en el artículo 17 del presente reglamento, o bien, aplicar su subsidio de forma individual a la adquisición de una Vivienda Construida nueva o usada.
 
 #### Artículo 5º transitorio
 
-<!-- parte:9608219 -->
+<!-- parte:9582524 -->
 
 Las familias que se encuentren en grupos ingresados en el Banco de Grupos Sin Proyecto del DS Nº 49 (V. y U.), de 2011, a la fecha de la publicación del presente decreto en el Diario Oficial, podrán asociarse a proyectos técnicos que ingresen al banco para efectos de postular.
 
 #### Artículo 6º transitorio
 
-<!-- parte:9608220 -->
+<!-- parte:9582525 -->
 
 Las modificaciones a los requerimientos de conformación de áreas verdes establecidos en el número 8 de la letra a) del artículo 35, entrarán en vigencia 120 días corridos después de la publicación del presente decreto en el Diario Oficial.
 
 #### Artículo 7º transitorio
 
-<!-- parte:9608221 -->
+<!-- parte:9582526 -->
 
 Las personas damnificadas beneficiadas con un subsidio sin aplicar en la modalidad de Construcción en Sitio Propio por Autoconstrucción y Vivienda Tipo en el marco del Plan de Reconstrucción del terremoto del 27 de febrero de 2010, podrán optar a la homologación de dicho subsidio a las condiciones del DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
 
-DISPOSICIONES TRANSITORIAS
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
-> **Nota.** El artículo tercero del Decreto 105, Vivienda, publicado el 20.03.2015, establece que las disposiciones transitorias contenidas en la presente norma y sus modificaciones se mantienen vigentes en todo aquello que no sea modificado por el presente decreto y para los efectos que aún sean procedentes.
-
-#### Artículo 1° transitorio
-
-<!-- parte:9252744 -->
-
-Los proyectos calificados, de forma definitiva o condicional, según lo prescrito en el DS Nº 174 (V. y U), de 2005, podrán mantener dicha calificación hasta por 12 meses, plazo que se contará desde la fecha de entrada en vigencia del reglamento que se aprueba por el presente decreto, salvo que el grupo organizado conjuntamente con la Entidad de Gestión Inmobiliaria Social, EGIS, se desistan por escrito ante el Serviu respectivo.
-
-Los proyectos habitacionales precedentemente indicados pasarán a formar parte de la Nómina de Oferta, quedando las viviendas reservadas para el grupo postulante, o el postulante individual, en el caso del Capítulo Tercero. Dichos proyectos deberán postular a los llamados a concurso que se dispongan mediante el presente reglamento.
-
-Sin perjuicio de lo anterior, las familias podrán renunciar al respectivo proyecto habitacional y optar a otro proyecto de la Nómina de Oferta. En el caso que el proyecto al que las familias renuncien sea de Construcción en Nuevos Terrenos, podrá ser elegido por otros beneficiarios del programa que se aprueba por este decreto.
-
-Los proyectos que a la fecha de entrada en vigencia del reglamento que se aprueba por el presente decreto cuenten con Certificado de Proyecto Ingresado al Banco de Proyectos, serán evaluados según lo establecido en el DS Nº 174 (V. y U), de 2005, pudiendo obtener Certificado de Calificación hasta un plazo de 180 días corridos a partir de dicha fecha, luego de lo cual pasarán a formar parte de la Nómina de Oferta según lo establece el inciso segundo de este artículo. Los proyectos que no obtengan la calificación en el plazo señalado, serán eliminados del Banco, debiendo todos sus antecedentes devolverse a la EGIS correspondiente.
-
-El procedimiento para la prestación de los Servicios de Asistencia Técnica, incluida la Inspección Técnica de Obras, y los honorarios correspondientes, en los proyectos a que se refiere este artículo, se encontrarán regulados por lo dispuesto en la resolución Nº 533 (V. y U.), de 1997.
-
-#### Artículo 2° transitorio
-
-<!-- parte:9252745 -->
-
-Los grupos postulantes que a la fecha de publicación en el Diario Oficial del reglamento que se aprueba por el presente instrumento, se encuentren integrando proyectos con Certificado de Proyecto Ingresado en el Banco de Proyectos del DS Nº 174 (V. y U.), de 2005, serán traspasados automáticamente al Banco de Grupos Postulantes, en calidad de Grupo Organizado Hábil, con lo cual podrán participar en 3 llamados a postulación consecutivos al sistema que se aprueba por este decreto, conservando las exigencias de postulación con que ingresaron a dicho programa. Los postulantes individuales del Capítulo Tercero podrán participar en 3 llamados a postulación consecutivos al sistema que se aprueba por este decreto, conservando las exigencias de postulación con que ingresaron a dicho programa.
-
-#### Artículo 3° transitorio
-
-<!-- parte:9252746 -->
-
-Las prórrogas y las ampliaciones del plazo de vigencia de subsidios de las modalidades de construcción y adquisición de vivienda construida, de inicio de obras y de levantamiento de condicionalidades del Programa Fondo Solidario de Vivienda, reguladas por el DS Nº 174 (V. y U.), de 2005, podrán ser tramitadas de acuerdo al artículo 67 del reglamento que se aprueba por este decreto.
-
-#### Artículo 4° transitorio
-
-<!-- parte:9252747 -->
-
-Los beneficiarios de subsidios de la modalidad de Adquisición de Vivienda Construida del Programa Fondo Solidario de Vivienda, regulado por el DS Nº 174 (V. y U.), de 2005, otorgados ya sea a través de llamados regulares, especiales y asignaciones directas, podrán aplicarlos a proyectos de la Nómina de Oferta de Proyectos a que se refieren los artículos 61 y siguientes del sistema que se aprueba por el presente decreto, que cuenten con viviendas disponibles, por los montos de subsidios correspondientes al respectivo proyecto de construcción.
-
-#### Artículo 5° transitorio
-
-<!-- parte:9252748 -->
-
-Tratándose de grupos postulantes en que al menos un 60% de las familias que los componen forman parte del Catastro de Campamentos elaborado por el MINVU, vigente a la fecha de entrada en vigencia del reglamento que se aprueba por este instrumento, no será necesario para postular al Programa Fondo Solidario de Elección de Vivienda que cumplan con los requisitos establecidos para la postulación colectiva en el inciso final del artículo 19 del aludido sistema.
-
-#### Artículo 6° transitorio
-
-<!-- parte:9252749 -->
-
-En caso de proyectos seleccionados a través del DS Nº 174 (V. y U.), de 2005, podrá anticiparse el 100% del monto total de los subsidios para ser destinados a la ejecución de las obras, cuando se acredite la disponibilidad de terrenos fiscales en trámite de cesión por el Ministerio de Bienes Nacionales, sin la deducción del 10%, exigida en el inciso segundo del artículo 79 del reglamento que se aprueba por este decreto, pudiendo además hacerse devolución de la o las boletas bancarias de garantía que caucionan los anticipos para la ejecución física de las obras, contra recepción municipal e informe del ITO que señale que éstas se ejecutaron en su totalidad y conforme al proyecto aprobado por el Serviu.
-
-Cuando se proceda a la recontratación de obras de proyectos seleccionados a través del DS Nº 174 (V. y U.), de 2005, podrá aplicarse lo establecido en el inciso tercero del artículo 79 del reglamento que se aprueba por este instrumento.
-
-#### Artículo 7° transitorio
-
-<!-- parte:9252750 -->
-
-Las EGIS a las que se refiere el DS Nº 174 (V. y U.), de 2005, que hubieren suscrito la versión del Convenio Marco Regional que comenzó a regir a contar del mes de octubre del año 2010, podrán actuar como Entidades Patrocinantes, siempre que suscriban, para tal efecto, un Addéndum al convenio referido con la Seremi respectiva.
-
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
-
-Lo que transcribo, para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
+Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
