@@ -1,14 +1,16 @@
-APRUEBA REGLAMENTO DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
+MODIFICA DECRETO Nº 49, DE 2011, QUE REGLAMENTA EL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
 
-Santiago, 13 de septiembre de 2011.- Hoy se decretó lo que sigue:
+Santiago, 8 de septiembre de 2014.- Hoy se decretó lo que sigue:
 
-Núm. 49.- Visto: El artículo 17 del DL Nº 539, de 1974; el DL Nº 1.305, de 1976, y en especial lo dispuesto en su artículo 13° letra a); la ley Nº 16.391 y en especial lo previsto en el artículo 2°, números 6 y 13; y los artículos 32, número 6° y 35, de la Constitución Política de la República de Chile,
+Núm. 105.- Visto: El DS Nº 49 (V. y U.), de 2011, y sus modificaciones, que reglamenta el Programa Fondo Solidario de Elección de Vivienda; el DL Nº 1.305, de 1975; la Ley Nº 16.391; las facultades que me confiere el número 6º del artículo 32 de la Constitución Política de la República de Chile; la resolución Nº 1.600 de la Contraloría General de la República, y
 
-Decreto:
+Considerando: La necesidad de introducir ajustes y modificaciones al Reglamento del Programa Fondo Solidario de Elección de Vivienda, con el objeto de promover la atención de familias, especialmente aquellas beneficiadas que no cuentan con un proyecto asociado; reajustar montos de subsidio y simplificar procedimientos.
 
-Apruébase el siguiente Reglamento:
+#### Artículo Primero
 
-Programa Habitacional Fondo Solidario de Elección de Vivienda
+Modifícase el DS Nº 49 (V. y U.), de 2011, en el sentido de reemplazar su texto por el que sigue:
+
+"Programa Habitacional Fondo Solidario de Elección de Vivienda
 
 Capítulo I: Del Programa Habitacional para familias vulnerables
 
@@ -510,21 +512,29 @@ c) Vulnerabilidad Habitacional
 
 Se considerará como Puntaje de Vulnerabilidad Habitacional (PtjeVH) aquel que resulte de la siguiente ecuación:
 
-.
+Donde:
+
+HacR: Corresponde al índice de hacinamiento del núcleo familiar del postulante, según la siguiente clasificación:
+
+Índice de Hacinamiento Valor
+
+Hasta 2 0
+
+Entre 2,1 y 2,5 0,25
+
+Entre 2,6 y 3,0 0,5
+
+Entre 3,1 y 3,5 0,75
+
+De 3,6 o más 1
 
 Índice de hacinamiento: Corresponde al cuociente entre el número de personas y el número de dormitorios, calculado en base a los antecedentes consignados en la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante.
 
 Tipo: Corresponde a la variable Tipo de Vivienda de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
 
-.
-
 Agua: Corresponde a la variable disponibilidad de agua de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
 
-.
-
 Excretas: Corresponde a la variable sistema de eliminación de excretas de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
-
-.
 
 d) Antigüedad de la postulación
 
@@ -538,7 +548,7 @@ ii. Colectiva
 
 e) Antigüedad y permanencia del ahorro
 
-5 puntos por cada mes de Antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
+5 puntos por cada mes de antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
 
 20 puntos si el promedio del saldo medio mensual del semestre previo al ingreso de los antecedentes de la postulación es igual o superior al 12,5% del saldo acreditado en dicho momento.
 
@@ -700,8 +710,6 @@ Montos del Subsidio Base
 
 El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación será el siguiente:
 
-.
-
 Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que juste el monto a que se refiere el inciso anterior, con el objeto de determinar el monto del subsidio base en cada comuna del país y/o determinadas localidades. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local de construcción o adquisición de la vivienda objeto de este programa.
 
 #### Artículo 35
@@ -730,9 +738,9 @@ Adicionalmente, tratándose de proyectos de Construcción en Nuevos Terrenos u o
 
 6. Que la vía más cercana al terreno por la cual circula un servicio de transporte público operativo se encuentre a una distancia recorrible peatonalmente no mayor a 500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
-Que el equipamiento comercial o deportivo o cultural existente y más cercano, de escala mediana o mayor según los artículos 2.1.33 y 2.1.36 de la OGUC, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
+7. Que el equipamiento comercial o deportivo o cultural existente y más cercano, de escala mediana o mayor según los artículos 2.1.33 y 2.1.36 de la OGUC, se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 2.500 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
-Que el área verde pública conformada, de superficie igual o mayor a 5.000 metros cuadrados, se encuentre ubicada a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
+8. Que el área verde pública conformada, de superficie igual o mayor a 5.000 metros cuadrados, se encuentre ubicada a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
 Las distancias señaladas deberán ser corroboradas por la SEREMI mediante los mecanismos de que ésta disponga, tales como visitas a terreno, certificados o documentos emitidos por algún organismo público competente en materia de educación, salud, transporte y planificación territorial, entre otros. Las distancias señaladas deberán ser calculadas mediante recorridos a través de bienes nacionales de uso público.
 
@@ -958,7 +966,7 @@ Las viviendas que contemplen inicialmente dos o menos dormitorios, deberán cons
 
 De acuerdo a lo anterior, el programa arquitectónico de la vivienda, según la dotación inicial de dormitorios, será el siguiente:
 
-.
+La superficie construida inicial de la vivienda no deberá ser inferior a:
 
 Excepcionalmente, y tratándose de proyectos de Construcción en Sitio Propio, Pequeño Condominio y Densificación Predial, el SERVIU podrá eximir del cumplimiento del requisito de presentar proyecto de ampliación y de alcanzar la superficie construida inicial señalada en el cuadro precedente, siempre que la aplicación de las normas de edificación, técnicas y urbanísticas contenidas en la OGUC y/o en el Instrumento de Planificación Territorial correspondiente no lo permitan, en función de las características del terreno, en cuyo caso de igual forma los recintos de la vivienda deberán cumplir las condiciones establecidas en el Cuadro Normativo de Proyectos Habitacionales y en la Tabla de Espacios de Usos Mínimos para el Mobiliario.
 
@@ -995,8 +1003,6 @@ Los proyectos de construcción, incluyendo proyectos habitacionales de construcc
 Para los Proyectos Habitacionales de menos de 30 viviendas presentados de acuerdo a este reglamento, deberá observarse lo señalado en la OGUC, sin perjuicio que deberán conformarse las áreas verdes de acuerdo a las exigencias mínimas establecidas en el Itemizado Técnico de Construcción a que hace referencia el artículo 44, y el equipamiento, área verde o espacio público que se defina de acuerdo al proceso participativo contemplado para estos efectos en el Plan de Acompañamiento Social.
 
 En Proyectos Habitacionales de 30 o más viviendas, se deberá considerar como mínimo la conformación del equipamiento, área verde y/o espacio público que se señala a continuación y el adicional definido según lo señalado en el inciso anterior.
-
-.
 
 Sólo en casos debidamente justificados, mediante resolución fundada, el Director del SERVIU podrá eximir del cumplimiento del estándar de equipamiento dispuesto en el presente artículo, pudiendo exigir el reemplazo de estas obras por otras equivalentes, cuando en razón de las características del terreno en que se emplace el proyecto no sea posible cumplir con las obras y/o las superficies señaladas.
 
@@ -1056,31 +1062,11 @@ A) Área de Ingreso de la Postulación al sistema de postulación del MINVU:
 
 Concretar la postulación de las familias que cumplen con los requisitos establecidos en el presente reglamento, en la alternativa de solución habitacional más pertinente para cada una de ellas.
 
-a.1 Informar e involucrar a las familias
+a.1 Informar e involucrar a las familias en el diseño del proyecto habitacional y del Plan de Acompañamiento Social correspondiente a la Etapa de Diseño y Ejecución del Proyecto.
 
-en el diseño del proyecto habitacional
+a.2 Aprobar el proyecto habitacional y la Etapa de Diseño y Ejecución del Proyecto del Plan de Acompañamiento Social, por parte de los integrantes del grupo organizado.
 
-y del Plan de Acompañamiento Social
-
-correspondiente a la Etapa de Diseño
-
-y Ejecución del Proyecto.
-
-a.2 Aprobar el proyecto habitacional y
-
-la Etapa de Diseño y Ejecución del
-
-Proyecto del Plan de Acompañamiento
-
-Social, por parte de los integrantes
-
-del grupo organizado.
-
-a.3. Realizar la postulación de las
-
-familias, de acuerdo al
-
-presente reglamento.
+a.3. Realizar la postulación de las familias, de acuerdo al presente reglamento.
 
 B) Área de seguimiento del proyecto habitacional:
 
@@ -1322,8 +1308,6 @@ Prohibición de Venta entre Parientes
 
 El subsidio destinado a la adquisición de una vivienda construida, ya sea nueva o usada, no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, situación que involucra a los siguientes parientes:
 
-.
-
 La prohibición a que se refiere el inciso anterior no regirá en caso que el subsidio se aplique a la adquisición de derechos hereditarios en una vivienda en que el postulante seleccionado o su cónyuge sean comuneros, en cuyo caso el monto del subsidio que se pagará corresponderá al porcentaje de los derechos sobre la vivienda que adquiera el postulante de los otros comuneros.
 
 #### Artículo 63
@@ -1552,9 +1536,23 @@ SERVIU, que se encuentran disponibles para la adscripción de los postulantes be
 
 1.19. Vivienda Usada: Vivienda que al momento de la compraventa ha sido transferida al menos en una ocasión, o cuenta con recepción municipal definitiva mayor a tres años".
 
-DISPOSICIONES TRANSITORIAS DEL PRESENTE DECRETO :
+#### Artículo segundo
 
-> **Nota.** Disposiciones Transitorias correspondientes al Decreto 105, Vivienda, publicado el 20.05.2015.
+Modifícase el artículo 74 del DS Nº 174 (V. y U.), de 2005, en la siguiente forma:
+
+a) Elimínase en su inciso primero la expresión "se efectúe al contado y que éste";
+
+b) Reemplázase en su inciso tercero la frase "quien lo endosará nominativamente a favor del SERVIU", por la oración "o con un Certificado de Subsidio otorgado al comprador, en su caso, instrumentos que serán endosados nominativamente a favor del SERVIU";
+
+c) Sustitúyese en su inciso tercero la frase "el SERVIU podrá hacer efectivo el depósito a plazo endosado a su favor", por "el SERVIU podrá hacer efectiva esta garantía".
+
+d) En el inciso cuarto, reemplázase la oración "a reendosar el depósito a plazo" por la frase "a reendosar el depósito a plazo o el certificado de subsidio en los casos que este último actúe como garantía".
+
+#### Artículo tercero
+
+Establécese que las disposiciones transitorias contenidas en DS Nº 49 (V. y U.), de 2011, y sus modificaciones se mantienen vigentes en todo aquello que no sea modificado por el presente decreto y para los efectos que aún sean procedentes.
+
+DISPOSICIONES TRANSITORIAS DEL PRESENTE DECRETO:
 
 #### Artículo 1º
 
@@ -1584,48 +1582,6 @@ transitorio: Las modificaciones a los requerimientos de conformación de áreas 
 
 transitorio: Las personas damnificadas beneficiadas con un subsidio sin aplicar en la modalidad de Construcción en Sitio Propio por Autoconstrucción y Vivienda Tipo en el marco del Plan de Reconstrucción del terremoto del 27 de febrero de 2010, podrán optar a la homologación de dicho subsidio a las condiciones del DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
 
-DISPOSICIONES TRANSITORIAS
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
-> **Nota.** El artículo tercero del Decreto 105, Vivienda, publicado el 20.03.2015, establece que las disposiciones transitorias contenidas en la presente norma y sus modificaciones se mantienen vigentes en todo aquello que no sea modificado por el presente decreto y para los efectos que aún sean procedentes.
-
-#### Artículo 1°
-
-transitorio. Los proyectos calificados, de forma definitiva o condicional, según lo prescrito en el DS Nº 174 (V. y U), de 2005, podrán mantener dicha calificación hasta por 12 meses, plazo que se contará desde la fecha de entrada en vigencia del reglamento que se aprueba por el presente decreto, salvo que el grupo organizado conjuntamente con la Entidad de Gestión Inmobiliaria Social, EGIS, se desistan por escrito ante el Serviu respectivo.
-
-Los proyectos habitacionales precedentemente indicados pasarán a formar parte de la Nómina de Oferta, quedando las viviendas reservadas para el grupo postulante, o el postulante individual, en el caso del Capítulo Tercero. Dichos proyectos deberán postular a los llamados a concurso que se dispongan mediante el presente reglamento.
-
-Sin perjuicio de lo anterior, las familias podrán renunciar al respectivo proyecto habitacional y optar a otro proyecto de la Nómina de Oferta. En el caso que el proyecto al que las familias renuncien sea de Construcción en Nuevos Terrenos, podrá ser elegido por otros beneficiarios del programa que se aprueba por este decreto.
-
-Los proyectos que a la fecha de entrada en vigencia del reglamento que se aprueba por el presente decreto cuenten con Certificado de Proyecto Ingresado al Banco de Proyectos, serán evaluados según lo establecido en el DS Nº 174 (V. y U), de 2005, pudiendo obtener Certificado de Calificación hasta un plazo de 180 días corridos a partir de dicha fecha, luego de lo cual pasarán a formar parte de la Nómina de Oferta según lo establece el inciso segundo de este artículo. Los proyectos que no obtengan la calificación en el plazo señalado, serán eliminados del Banco, debiendo todos sus antecedentes devolverse a la EGIS correspondiente.
-
-El procedimiento para la prestación de los Servicios de Asistencia Técnica, incluida la Inspección Técnica de Obras, y los honorarios correspondientes, en los proyectos a que se refiere este artículo, se encontrarán regulados por lo dispuesto en la resolución Nº 533 (V. y U.), de 1997.
-
-#### Artículo 2°
-
-transitorio. Los grupos postulantes que a la fecha de publicación en el Diario Oficial del reglamento que se aprueba por el presente instrumento, se encuentren integrando proyectos con Certificado de Proyecto Ingresado en el Banco de Proyectos del DS Nº 174 (V. y U.), de 2005, serán traspasados automáticamente al Banco de Grupos Postulantes, en calidad de Grupo Organizado Hábil, con lo cual podrán participar en 3 llamados a postulación consecutivos al sistema que se aprueba por este decreto, conservando las exigencias de postulación con que ingresaron a dicho programa. Los postulantes individuales del Capítulo Tercero podrán participar en 3 llamados a postulación consecutivos al sistema que se aprueba por este decreto, conservando las exigencias de postulación con que ingresaron a dicho programa.
-
-#### Artículo 3°
-
-transitorio. Las prórrogas y las ampliaciones del plazo de vigencia de subsidios de las modalidades de construcción y adquisición de vivienda construida, de inicio de obras y de levantamiento de condicionalidades del Programa Fondo Solidario de Vivienda, reguladas por el DS Nº 174 (V. y U.), de 2005, podrán ser tramitadas de acuerdo al artículo 67 del reglamento que se aprueba por este decreto.
-
-#### Artículo 4°
-
-transitorio. Los beneficiarios de subsidios de la modalidad de Adquisición de Vivienda Construida del Programa Fondo Solidario de Vivienda, regulado por el DS Nº 174 (V. y U.), de 2005, otorgados ya sea a través de llamados regulares, especiales y asignaciones directas, podrán aplicarlos a proyectos de la Nómina de Oferta de Proyectos a que se refieren los artículos 61 y siguientes del sistema que se aprueba por el presente decreto, que cuenten con viviendas disponibles, por los montos de subsidios correspondientes al respectivo proyecto de construcción.
-
-#### Artículo 5°
-
-transitorio. Tratándose de grupos postulantes en que al menos un 60% de las familias que los componen forman parte del Catastro de Campamentos elaborado por el MINVU, vigente a la fecha de entrada en vigencia del reglamento que se aprueba por este instrumento, no será necesario para postular al Programa Fondo Solidario de Elección de Vivienda que cumplan con los requisitos establecidos para la postulación colectiva en el inciso final del artículo 19 del aludido sistema.
-
-#### Artículo 6°
-
-transitorio. En caso de proyectos seleccionados a través del DS Nº 174 (V. y U.), de 2005, podrá anticiparse el 100% del monto total de los subsidios para ser destinados a la ejecución de las obras, cuando se acredite la disponibilidad de terrenos fiscales en trámite de cesión por el Ministerio de Bienes Nacionales, sin la deducción del 10%, exigida en el inciso segundo del artículo 79 del reglamento que se aprueba por este decreto, pudiendo además hacerse devolución de la o las boletas bancarias de garantía que caucionan los anticipos para la ejecución física de las obras, contra recepción municipal e informe del ITO que señale que éstas se ejecutaron en su totalidad y conforme al proyecto aprobado por el Serviu.
-
-Cuando se proceda a la recontratación de obras de proyectos seleccionados a través del DS Nº 174 (V. y U.), de 2005, podrá aplicarse lo establecido en el inciso tercero del artículo 79 del reglamento que se aprueba por este instrumento.
-
-#### Artículo 7°
-
-transitorio. Las EGIS a las que se refiere el DS Nº 174 (V. y U.), de 2005, que hubieren suscrito la versión del Convenio Marco Regional que comenzó a regir a contar del mes de octubre del año 2010, podrán actuar como Entidades Patrocinantes, siempre que suscriban, para tal efecto, un Addéndum al convenio referido con la Seremi respectiva.
-
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
-
-Lo que transcribo, para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
+Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
