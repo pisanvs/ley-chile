@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A SOCIEDAD "PAMPA SOLAR SUR DOS SPA"
+
+Mediante decreto exento Nº 290, de 9 de febrero de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto a la sociedad "Pampa Solar Sur Dos SpA", RUT Nº 76.272.208-9, el inmueble fiscal compuesto por los Lotes A, B y C, ubicados en la Ruta 5 Km. 1.071, aproximadamente a 4,9 km. al Sur de la intersección Ruta 5 con Ruta B-955, comuna de Taltal, provincia y Región de Antofagasta, enrolados en el Servicio de Impuestos Internos con los Nos 4000-32, 4000-33 y 4000-34, respectivamente, amparados por la inscripción global que rola a fojas 41 vta. Nº 44 del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, correspondiente al año 1977, de una superficie aproximada de 187,35 ha, singularizado en el Plano Nº 02104-8.517-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.521.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Abogada Jefa de División Jurídica.
