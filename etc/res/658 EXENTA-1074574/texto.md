@@ -1,4 +1,4 @@
-LLAMA A POSTULACIÓN EXTRAORDINARIA PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN SUS TÍTULOS II Y III, MEJORAMIENTO Y AMPLIACIÓN DE LA VIVIENDA, REGULADO POR EL DECRETO Nº 255, DE 2006, DESTINADO A LA ATENCIÓN DE LOS DAMNIFICADOS DE LA REGIÓN DE TARAPACÁ
+LLAMA A POSTULACIÓN EXTRAORDINARIA PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN SUS TÍTULOS II y III, MEJORAMIENTO Y AMPLIACIÓN DE LA VIVIENDA, REGULADO POR EL DS Nº255 (V. Y U.), DE 2006, DESTINADO A LA ATENCIÓN DE LOS DAMNIFICADOS DE LAS REGIONES ARICA Y PARINACOTA Y DE TARAPACA.
 
 Santiago, 3 de febrero de 2015.- Hoy se resolvió lo que sigue:
 
@@ -24,11 +24,11 @@ d) Que es importante realizar esfuerzos adicionales para poder llegar con ayuda 
 
 Resolución:
 
-1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 31 de marzo del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la región si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en sus Títulos II y III, para la reparación de viviendas de familias damnificadas por los sismos ocurridos el 1 y 2 de abril de 2014, en la Región de Tarapacá, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 104 (de Interior), de 1977, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu de la Región de Tarapacá, en lo sucesivo también Serviu, antes de las siguientes fechas de cierre de los procesos de postulación:
+1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 31 de marzo del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para las regiones si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en sus Títulos II y III, para la reparación de viviendas de familias damnificadas por los sismos ocurridos el 1 y 2 de abril de 2014, en las regiones de Arica y Parinacota y de Tarapacá, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 104 (de Interior) de 1977, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por SERVIU de las regiones de Arica y Parinacota y de Tarapacá, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 27 de febrero de 2015
+Primera selección: 27 de febrero de 2015, para la Región de Tarapacá.
 
-Segunda selección: 31 de marzo de 2015
+Segunda selección: 31 de marzo de 2015, para ambas regiones.
 
 2.- La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -100,13 +100,15 @@ Notas:
 
 ***El monto adicional de Asistencia Técnica para regularizaciones se puede incrementar en 2 UF por cada informe y/o certificado requerido (electricidad, agua potable y alcantarillado y gas), llegando a un máximo de 11 UF.
 
-5. El monto de recursos que se destinará para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución será de 89.500 UF.
+5. El monto de recursos que se destinarán para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución se distribuirán regionalmente según el siguiente cuadro, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministro de Vivienda y Urbanismo:
 
-El número de proyectos seleccionados en la región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
+El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
+
+Si realizada la segunda selección de este llamado no hubiese sido posible, por falta de postulantes, asignar el total de subsidios en una región según la distribución señalada en cuadro precedente, la Subsecretaria de Vivienda y Urbanismo podrá reasignar estos recursos a la otra región mediante resolución dictada al efecto.
 
 6. En caso que en alguna de las selecciones los recursos definidos no alcanzaren para atender la totalidad de las postulaciones ingresadas, la selección se efectuará considerando el orden de prelación que determine el puntaje de los postulantes, hasta enterar el total de los recursos disponibles.
 
-7. Solo podrán participar en este llamado extraordinario los damnificados por los terremotos de fecha 1 y 2 de abril de 2014 de la Región de Tarapacá. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con daños tras la aplicación de la Ficha de Catastro extendida por el Serviu. Para acreditar los daños de la vivienda a intervenir se deberá presentar un documento expedido por el Serviu en el que se señalará la individualización del propietario del inmueble afectado, indicando su cédula de identidad, dirección de la propiedad y una breve descripción de los daños. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al Serviu, el que tendrá como máximo 5 días hábiles para efectuarlo. En el caso de los Condominios de Vivienda Social, esta calidad será definida por el Serviu cuando estos hayan sido ejecutados por el o por sus antecesores legales.
+7. Sólo podrán participar en este llamado extraordinario los damnificados por los terremotos de fecha 1 y 2 de abril de 2014 de las regiones de Arica y Parinacota y de Tarapacá. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con daños tras la aplicación de la Ficha de Catastro extendida por el SERVIU. Para acreditar los daños de la vivienda a intervenir se deberá presentar un documento expedido por el SERVIU en el que se señalará la individualización del propietario del inmueble afectado, indicando su cédula de identidad; dirección de la propiedad y una breve descripción de los daños. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 5 días hábiles para efectuarlo. En el caso de los Condominios de Vivienda Social esta calidad será definida por el SERVIU cuando estos hayan sido ejecutados por él o por sus antecesores legales.
 
 8. Exímese a los postulantes a que alude esta resolución de los requisitos exigidos en los siguientes artículos del DS Nº 255 (V. y U.), de 2006:
 
@@ -268,7 +270,7 @@ Sin perjuicio de lo anterior, se pagará el 30% del total de los honorarios si e
 
 Asimismo, se pagará 1 UF del total de los honorarios, si a juicio de la Asistencia Técnica el subsidio no era factible de aplicar en la propiedad una vez realizada la visita, situación de la cual deberá dejarse constancia en el sistema informático del Minvu,
 
-21. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para la Región de Tarapacá en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el cuadro del punto Nº 5 de esta resolución.
+21. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Arica y Parinacota y de Tarapacá en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el cuadro del punto Nº5 de esta resolución.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministro de Vivienda y Urbanismo.
 
