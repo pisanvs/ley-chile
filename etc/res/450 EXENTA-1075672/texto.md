@@ -1,0 +1,3 @@
+Por resolución exenta Nº450, de 13 de febrero de 2015, de esta Subsecretaria, modifícase la resolución Nº2.461 de 2011, de esta Subsecretaría, que autorizó a COMERCIAL PANAMERICANA S.A., a realizar actividades de acuicultura experimental sobre la especie Abalón rojo, en el sentido de incorporar dos concesiones de acuicultura para realizar las actividades experimentales, en los términos indicados en la resolución extractada.
+
+Valparaíso, 13 de febrero de 2015.- Alejandro Gertosio Ramírez, Subsecretario de Pesca y Acuicultura (S).
