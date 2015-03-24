@@ -19148,7 +19148,7 @@ En el caso de entidades que mantengan servicios externalizados en países que pi
 
 La responsabilidad por la gestión global de los riesgos y funciones de control deberá mantenerla la entidad en el país. Lo anterior es sin perjuicio que en algunas entidades internacionales existan, para efectos de una administración consolidada de sus casas matrices, coordinaciones matriciales entre el personal establecido en el extranjero y personal local.
 
-Por otra parte, la institución deberá comunicar a esta Superintendencia de forma inmediata cualquier evento derivado de la externalización de un servicio determinado, que pueda implicar el incumplimiento por parte de la entidad de instrucciones legalmente impartidas por esta Superintendencia, de obligaciones para con los clientes de la entidad o bien que signifiquen fallas relevantes, que afecten aspectos tales como: la continuidad del negocio, la seguridad de la información, la calidad de los servicios, e imagen de la entidad.
+Por otra parte, en cumplimiento de lo dispuesto en el Capítulo 20-8 de esta Recopilación, la institución deberá comunicar en forma inmediata a esta Superintendencia, cuando corresponda, los incidentes operacionales relevantes que afecten un servicio externalizado en el país o en el exterior.
 
 ### 7. Acceso a la información por parte del supervisor
 
@@ -19347,3 +19347,27 @@ iii) Actividades de investigación de mercado y marketing: encuestas de producto
 iv) Otros: Servicios de arrendamiento.
 
 Sin perjuicio de lo señalado, para estas actividades la entidad deberá velar por el debido cumplimiento de cualquier aspecto legal o regulatorio que ponga en riesgo la adecuada provisión del servicio, como por ejemplo, las leyes laborales. Asimismo, dependerá de cada entidad establecer las condiciones que deben ser ponderadas antes de exceptuar a un servicio o actividad de alguna de las medidas de gestión de riesgo de que trata este Capítulo, de acuerdo a las características particulares de cada institución.
+
+## Capítulo 20-8
+
+COMUNICACIÓN INMEDIATA DE INCIDENTES OPERACIONALES RELEVANTES.
+
+Los bancos deberán comunicar de inmediato a esta Superintendencia, para el solo efecto de mantenerla informada, los incidentes operacionales relevantes.
+
+Se entiende que son relevantes aquellos eventos que afecten la continuidad del negocio, la seguridad de la información o la imagen de la institución.
+
+La información se enviará tan pronto se identifique el incidente, mediante un correo electrónico dirigido a la casilla habilitada por esta Superintendencia para recibir tales comunicaciones en cualquier horario, tanto de días hábiles como inhábiles. El correo deberá incluir la siguiente información:
+
+- Nombre de la entidad informante.
+
+- Datos de la persona encargada de enviar la información: nombre, cargo, correo electrónico y teléfono celular.
+
+- Fecha y hora de inicio del evento.
+
+- Explicación del incidente: la situación que originó y su causa inmediata.
+
+- Proveedores involucrados, señalando su participación en el proceso afectado por el incidente, cuando sea el caso.
+
+- Estimación de tipo y número de clientes afectados, cuando corresponda.
+
+El encargado de enviar la información, o quien lo reemplace, deberá ser una persona de nivel ejecutivo, designado por la institución tanto para ese efecto como para responder eventuales consultas de esta Superintendencia.
