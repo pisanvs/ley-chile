@@ -34,9 +34,9 @@ La administración del Servicio de Bienestar corresponderá al Consejo Administr
 
 a) El Director del Servicio de Salud, o la persona que éste designe en su reemplazo, quien lo presidirá;
 
-b) El Subdirector Administrativo;
+b) El Subdirector/a de Recursos Físicos y Financieros;
 
-c) El Jefe del Departamento de Recursos Humanos; y
+c) El Subdirector/a de la Subdirección de las Personas y
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
@@ -124,7 +124,7 @@ a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fu
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
 
-Si ambos padres fuesen afiliados, el beneficio lo percibirá la madre.
+Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
@@ -248,9 +248,15 @@ h) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualq
 
 #### Artículo 21º
 
-Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal y contra ella sólo podrán girar conjuntamente el Jefe de Bienestar y el funcionario que designe el Director de la Institución.
+Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal y contra ella sólo podrán girar conjuntamente el/la Jefe de Bienestar y el/la funcionario/a que designe el Director/a de la Institución.
 
-En caso de ausencia o impedimento de estos giradores, serán reemplazados para estos efectos, por el Director de la Institución y el Jefe del Departamento de Recursos Humanos, a falta de éstos, por el funcionario que el Consejo Administrativo designe.
+En caso de ausencia o impedimento de estos giradores, serán reemplazados para estos efectos, por el Director/a de la institución y el Subdirector/a de las Personas.
+
+#### Artículo 21º bis
+
+Eventualmente, y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad a lo dispuesto en el artículo 3º del DL Nº1.056, de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda, y sólo respecto de los recursos provenientes de ventas de activos o excedentes estacionales de caja, según lo dispuesto en el artículo 2º del DL Nº1.263, de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados.
+
+El monto de los fondos y la forma en que serán depositados será determinado anualmente por el Consejo Administrativo.
 
 ## Título VI
 
