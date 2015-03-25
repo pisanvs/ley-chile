@@ -56,7 +56,7 @@ La Comisión deberá velar porque las propuestas que formule sean relevantes, co
 
 La Comisión deberá entregar a la Presidenta de la República un informe de estado de avance, durante el mes de octubre de 2014, que resuma los testimonios de los participantes de las audiencias realizadas y contenga el diagnóstico sobre el funcionamiento del Sistema de Pensiones, identificando sus principales deficiencias.
 
-Asimismo, deberá elaborar un informe final que contenga las propuestas de solución a las deficiencias identificadas en el diagnóstico, el que será entregado a la Presidenta de la República en el mes de enero de 2015. Con la entrega de dicho informe finaliza el funcionamiento de la Comisión.
+Asimismo, deberá elaborar un informe final que contenga las propuestas de solución a las deficiencias identificadas en el diagnóstico, el que será entregado a la Presidenta de la República en el mes de agosto de 2015. En el mes de septiembre de 2015 finaliza el funcionamiento de la Comisión.
 
 #### Artículo quinto
 
