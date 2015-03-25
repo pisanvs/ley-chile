@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 102 EXENTA, DE 2015
+
+Por resolución exenta Nº 102, de 2 de marzo de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador Bernardo O'Higgins, otorga reconocimiento oficial a la Escuela de Conductores Profesionales Fénix Capacitaciones Limitada, RUT 76.089.226-2, representada legalmente por las señoras Patricia Ester de Lourdes Madina Avendaño y Beatriz del Carmen González Aránguiz, cédulas de identidad Nºs. 10.956.536-9 y 10.442.250-0, respectivamente, para impartir cursos conducentes a la obtención de la licencia de conductor profesional Clase A-2, en su sede ubicada en Avenida Membrillar Nº 93, y taller mecánico en Calle El Teniente Nº 210, Población Centenario, ambos de la comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
