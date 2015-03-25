@@ -1,0 +1,3 @@
+Por resolución exenta Nº 718, de 17 de marzo de 2015, declárase la caducidad total de las resoluciones exentas Nº 3.544, de 2003, Nº 3.282, Nº 3.452 y Nº 3.336, todas de 2004, Nº 2.013 y Nº 2.221, ambas de 2005, Nº 118, Nº 2.547 y Nº 2.548, todas de 2006, y Nº 3.230, de 2010, de esta Subsecretaría de Pesca y Acuicultura, que autorizaron a FOODCORP S.A. para realizar actividades pesqueras extractivas con la naves en construcción BEC Nº 3544 de 2003, BEC Nº 3282 de 2004, BEC Nº 3336 de 2004, BEC Nº 2013 de 2005, BEC Nº 2221 de 2005 y BEC Nº 3230 de 2010.
+
+Valparaíso, 17 de marzo de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
