@@ -1,0 +1,7 @@
+INICIA PROCESO DE REVISIÓN DE RESOLUCIÓN 212/2008, QUE CALIFICA AMBIENTALMENTE EL "PROYECTO ESPERANZA"
+
+Se informa a la ciudadanía que, mediante resolución exenta Nº 86, de fecha 11 de marzo de 2015, la Comisión de Evaluación de la Región de Antofagasta ha resuelto iniciar procedimiento de revisión de la resolución exenta Nº 212/2008, que calificó ambientalmente favorable el EIA del proyecto "Proyecto Esperanza", cuyo titular es Minera Esperanza, de conformidad con los artículos 25 quinquies ley Nº 19.300 y 39 ley Nº 19.880.
+
+La ciudadanía, podrá examinar el expediente del procedimiento, el que se encuentra disponible para su consulta de lunes a viernes, 9:00 a 14:00 horas en las oficinas del Servicio de Evaluación Ambiental, Región Antofagasta, ubicadas en Avenida Croacia Nº 0336, Antofagasta y formular observaciones debidamente justificadas por escrito. Para ello dispondrán de un plazo de 15 días hábiles contado desde la fecha de la presente publicación. Las observaciones deberán ser dirigidas por escrito a la dirección antes señalada, a la Comisión de Evaluación de la Región de Antofagasta, indicando el nombre del proyecto, individualización y domicilio de la persona que realiza la observación.
+
+Felipe Lerzundi Rivas, Director Regional (S) SEA Secretario Comisión de Evaluación Región de Antofagasta.
