@@ -8,6 +8,10 @@ Decreto:
 
 Apruébase el siguiente Reglamento de Disciplina de Carabineros de Chile, Nº 11:
 
+> **Nota.** El Decreto 456, Defensa, promulgado el 02.10.1985, modificatorio de la presente norma, no ha sido publicado en el Diario Oficial, por lo que las modificaciones que introduce no han podido incorporarse en su texto actualizado.
+
+> **Nota.** NOTA 1 El N° 6 del Art. Primero del Decreto 1592, Interior, publicado el 26.03.2015, modifica la presente norma, en el sentido de incorporar un nuevo Título IX "De las notificaciones y plazos", pasando el actual Título IX a ser Título X; el X a ser XI; el XI a ser XII; el XII a ser XIII, y el XIII a ser XIV, sin embargo, la versión disponible de la presente norma, no tiene Título XIII.
+
 ## Título I
 
 Generalidades
@@ -96,9 +100,11 @@ Deben guardar, además, la reserva y discreción necesarias para evitar que se r
 
 #### Artículo 12º
 
-Antes de aplicar una sanción debe oírse al afectado.
+Cuando la falta se establezca fehacientemente por la observación de la jefatura con facultades disciplinarias, se requerirá explicaciones verbales al inculpado como trámite previo a la aplicación de una sanción. Igual procedimiento se verificará cuando el personal sea sorprendido en falta por un funcionario más antiguo y, por tal razón, sea pasado a presencia de su jefatura con facultades disciplinarias.
 
-Cuando una falta no se establezca fehacientemente por la observación del Jefe o por la propia confesión del inculpado y, en general, cuando existan dudas sobre los hechos o grado de responsabilidad, deberá esclarecerse de conformidad con las normas dadas en el Reglamento de Sumarios Administrativos, cuando se trate de faltas graves o hechos de importancia, o mediante indagaciones verbales o escritas en los demás casos.
+Las faltas que no se adviertan de manera indubitada, o bien, que el inculpado no confiese su responsabilidad, deberán ser esclarecidas a través de una investigación, la que se someterá, en lo pertinente, a las normas contenidas en el Reglamento de Sumarios Administrativos, constando su declaración indagatoria por escrito, como sus descargos y recursos. En caso que el inculpado se niegue a prestar declaración indagatoria, o bien, no concurra a la citación efectuada con tal objeto, se dejará constancia del hecho y de la circunstancia de haber sido convocado a la diligencia, continuándose con la tramitación de la indagación administrativa.
+
+Con todo, cuando se trate de hechos de tal naturaleza que importen la comisión de infracciones disciplinarias graves, o bien, supongan el otorgamiento de beneficios al personal o sus familiares, se procederá a la instrucción de un sumario administrativo.
 
 También, antes de aplicar la sanción, el superior con potestad disciplinaria tendrá la obligación de verificar, personalmente, la forma como ésta incidirá en el próximo proceso calificatorio y clasificatorio del afectado, para lo cual deberá revisar la clasificación del año anterior, e incluso las restantes sanciones aplicadas en el año calificatorio.
 
@@ -404,7 +410,7 @@ El arresto se empezará a contar desde el día y hora en que el afectado haya si
 
 #### Artículo 28º
 
-Por principio, todo superior con facultades disciplinarias, podrá suspender, postergar, modificar o anular, las sanciones que hubiere impuesto, previa solicitud de reconsideración que en tal sentido y por escrito formularen los afectados, cuando circunstancias justificadas así lo aconsejen o cuando se compruebe fehacientemente, con nuevos antecedentes, que se ha cometido algún error o injusticia.
+Por principio, todo superior con facultades disciplinarias, podrá modificar o invalidar, las sanciones que hubiere impuesto, previa solicitud de reconsideración que en tal sentido y por escrito formularen los afectados, cuando circunstancias justificadas así lo aconsejen o cuando se compruebe fehacientemente, con nuevos antecedentes, que se ha cometido algún error o injusticia.
 
 Podrán también ejercer esta atribución, los Jefes superiores del sancionador, sobre la base de una reclamación del afectado. Los mismos podrán aumentar, dentro de sus facultades, las sanciones aplicadas por sus subordinarlos, pero en forma y de manera tal que no sufra la autoridad de quien la impuso.
 
@@ -718,15 +724,11 @@ Gobierno su llamado a retiro, disponibilidad, suspensión
 
 del empleo o separación del servicio, según corresponda.
 
-5º) De quinto grado. Correspondiente al Jefe del
+5º) De quinto grado. Correspondiente al Inspector
 
-Consejo Asesor Superior, Inspector General, Jefes de
+General, Jefes de Direcciones, Jefes de Zona, y Oficiales
 
-Direcciones, Jefes de Zona, Prefecto Jefe
-
-de Santiago y Oficiales Generales de Orden y Seguridad,
-
-quienes podrán aplicar:
+Generales de Orden y Seguridad, quienes podrán aplicar:
 
 a) A Oficiales superiores: amonestación, reprensión
 
@@ -770,35 +772,13 @@ sobre todo el personal que presta servicios en la
 
 Institución.
 
-Podrá incluso disponer, con motivo del aniversario
-
-institucional, festividades patrias u otras semejantes,
-
-que se suspenda, con carácter colectivo, el cumplimiento
-
-de las medidas disciplinarias aplicadas al personal. Si
-
-no se indicare que la suspensión es sólo por el día o
-
-lapso determinado, se entenderá que comprende todo el
-
-tiempo que faltare a los que estuvieren cumpliendo
-
-arresto. No obstante la suspensión del arresto quedará
-
-referida a su cumplimiento y no a la anotación que se
-
-hubiere efectuado o que correspondiere anotar en la Hoja
-
-de Vida del afectado.
-
 Para aplicar la disponibilidad, suspensión del
 
 empleo, calificación de servicios y separación del
 
-servicio, deberá recabar del Ministerio de Defensa
+servicio, deberá recabar del Ministerio del Interior
 
-Nacional la dictación de un decreto supremo,
+y Seguridad Pública la dictación de un decreto supremo,
 
 acompañando, en todo caso, el sumario administrativo o
 
@@ -808,7 +788,7 @@ inculpado.
 
 #### Artículo 36
 
-o- El General Subdirector tendrá la competencia disciplinaria de quinto grado para sancionar las faltas que presenciare y de sexto grado para aquellas en que deba conocer o intervenir la Dirección General, de cuya resolución podrá reclamarse ante el General Director.
+o- El General Subdirector tendrá la competencia disciplinaria de quinto grado para sancionar las faltas que presenciare y de sexto grado para aquellas en que deba conocer o intervenir la Dirección General.
 
 #### Artículo 37
 
@@ -866,43 +846,47 @@ o- Los superiores sin atribuciones disciplinarias, cuando sorprendan o tengan co
 
 ## Título VIII
 
-De los reclamos y su trámite
+DE LOS RECURSOS
 
 #### Artículo 40
 
-o- Todo miembro de Carabineros que se considere sancionado injustamente, vejado u ofendido en su dignidad, menoscabado en sus derechos o desautorizado en sus facultades, podrá presentar reclamos.
+o- La resolución que impone una sanción disciplinaria podrá ser reclamada ante el superior directo de quien la emitió, a través del recurso jerárquico.
 
 #### Artículo 41
 
-o- Todo reclamo deberá hacerse individualmente y siguiendo el conducto regular.
-
-Si un mismo hecho puede dar motivo a varios reclamos, cada uno de los afectados presentará separadamente el suyo.
+o- No conforme con lo resuelto, el afectado podrá apelar ante el superior directo del jefe que resolvió el recurso jerárquico, quien resolverá en última instancia.
 
 #### Artículo 42
 
-o- Todo reclamo deberá hacerse por escrito en forma respetuosa y dirigido al superior inmediato del Jefe contra el cual se reclama, debiendo éste cursarlo dentro de las veinticuatro horas, sin opinar sobre su contenido.
+o- Si la medida disciplinaria es impuesta por el General Subdirector, el afectado sólo tendrá derecho a interponer el recurso jerárquico ante el General Director.
 
-No obstante, los reclamos podrán formularse verbalmente por los Cabos y Carabineros. Asimismo, el personal podrá presentar reclamos verbales cuando con motivo de visitas de inspección o entrega de unidades, los Jefes correspondientes consulten individual o colectivamente, acerca de los reclamos que tengan o deseen manifestar.
-
-Si el reclamante estuviere imposibilitado para hacer su reclamo por escrito, podrá hacerlo en su nombre cualquier funcionario más antiguo, de la Unidad en donde sirve.
+Si la sanción es aplicada por el General Director, el afectado sólo podrá presentar recurso de reposición.
 
 #### Artículo 43
 
-o- Los reclamos por sanciones disciplinarias, deberán presentarse veinticuatro horas después de haberse tomado conocimiento de éstas y antes de que transcurran dos días desde esa fecha.
+o- Sin perjuicio de lo dispuesto en los artículos precedentes, tratándose de sanciones disciplinarias expulsivas, el recurso de apelación que se interponga será conocido y resuelto por el General Director en última instancia.
 
-El plazo para los reclamos de otra naturaleza en contra de una medida aplicada por un superior, vencerá a los cuatro días de haber acontecido los hechos que los motivan.
+## Título IX
+
+DE LAS NOTIFICACIONES Y PLAZOS
 
 #### Artículo 44
 
-o- Si hubiere motivos justificados que impidieren al reclamante hacer su presentación en los plazos reglamentarios establecidos, podrá el afectado manifestar su deseo de hacerlo, pidiendo, al mismo tiempo, un plazo para la reunión de los antecedentes necesarios que abonen su reclamación, caso en el cual el Jefe que deba resolverla, podrá concederle la prórroga en resolución fundada.
-
-> **Nota.** El Nº 16 del Decreto 403, Defensa, publicado el 09.11.2000, reemplazó en el presente artículo el número "dos" por "cinco". Esta modificación no se ha podido ingresar, por cuanto no se encuentra la palabra que se trata de modificar.
+o- Para todos los efectos legales y reglamentarios, el personal tendrá por domicilio aquel que tenga registrado en la Alta Repartición, Repartición, Unidad o Destacamento en que presta servicios, correspondiéndole al funcionario, comunicar oportunamente y por escrito a su Jefatura cualquier cambio del mismo.
 
 #### Artículo 45
 
-o- Todo reclamo se referirá exclusivamente al hecho que lo motiva y se fundará en situaciones reales y no en apreciaciones o presunciones personales; deberá contener además, los antecedentes o medios que justifiquen o comprueben la veracidad de lo que se expone.
+o- Las notificaciones que se practiquen en un procedimiento disciplinario se efectuarán en forma personal al afectado, entregando copia íntegra del acto administrativo respectivo.
 
-La reincidencia en formular reclamos o apelaciones infundados, se estimará como falta grave a la disciplina.
+Si no fuere posible practicar la notificación en forma personal, por cualquier impedimento, de lo cual se dejará constancia, la notificación se efectuará por carta certificada, remitiendo copia íntegra del acto que se notifica, dirigida al domicilio fijado o registrado, según sea el caso, de conformidad al artículo precedente.
+
+Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de correos del domicilio del personal.
+
+#### Artículo 45 bis
+
+El respectivo recurso se dirigirá a la autoridad que deba resolver, y se presentará por escrito ante la jefatura que haya notificado al afectado de la resolución que se impugna, dentro del plazo fatal de cinco días hábiles siguientes a su notificación.
+
+Los plazos de días establecidos en el presente reglamento son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos.
 
 #### Artículo 46
 
@@ -918,9 +902,7 @@ o- Las sanciones disciplinarias deberán anotarse en el Libro de Vida correspond
 
 o- Las reglas relativas a reclamos, contenidas en el presente Título y las del Título X, no derogan a las que sobre la misma materia señala el Reglamento de Sumarios Administrativos, y serán aplicables a las sanciones no determinadas en sumarios administrativos a ni investigaciones sumarias.
 
-.
-
-## Título IX
+## Título X
 
 De las apelaciones y su trámite
 
@@ -934,6 +916,8 @@ En la apelación se precisarán circunstanciadamente las razones de su fundament
 
 El Jefe contra cuya resolución se apela, lo cursará a la autoridad encargada de fallar, acompañando los antecedentes que incidan en la materia.
 
+> **Nota.** El N° 7 del Art. Primero del Decreto 1592, Interior, publicado el 26.03.2015, modifica la presente norma. Sin embargo, los textos no coinciden, razón por la cual, no ha sido posible confeccionar su texto actualizado.
+
 #### Artículo 51º
 
 Los afectados, siguiendo siempre el conducto regular podrán apelar del fallo recaído en sus anteriores reclamaciones, pudiendo llegar por este medio hasta el Presidente de la República.
@@ -946,13 +930,15 @@ Las solicitudes de reconsideración y los reclamos, no suspenden la sanción dis
 
 La excepción anterior no regirá cuando la eliminación sea aplicada en alguno de los casos de bajas por circunstancias obligadas contemplados en el Reglamento de Selección y Ascensos del Personal de Carabineros, Nº 8.
 
-## Título X
+## Título XI
 
 Del conducto regular
 
 #### Artículo 53º
 
 Se entenderá por conducto regular, el procedimiento a que deben atenerse los funcionarios de la Institución para dirigirse a sus superiores y llegar hasta la más alta autoridad institucional, para exponer sus reclamos o apelaciones.
+
+> **Nota.** El N° 8 del Art. Primero del Decreto 1592, Interior, publicado el 26.03.2015, modifica la presente norma. Sin embargo, los textos no coinciden, razón por la cual, no ha sido posible confeccionar su texto actualizado.
 
 #### Artículo 54º
 
@@ -980,7 +966,7 @@ A ningún funcionario de Carabineros le será lícito denegar el permiso o autor
 
 En caso de serle denegada esta petición, el subalterno quedará autorizado para hablar con dicho superior, a quien hará presente la circunstancia de la denegación.
 
-## Título XI
+## Título XII
 
 Definiciones
 
@@ -1012,7 +998,7 @@ Superior: Tiene el mismo alcance que se determina en el artículo 430º del Cód
 
 Superior directo: Es el que tiene mando o acción disciplinaria directa e inmediata sobre determinados subalternos.
 
-## Título XII
+## Título XIII
 
 Disposiciones generales
 
