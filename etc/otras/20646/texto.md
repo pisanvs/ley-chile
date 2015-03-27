@@ -22,35 +22,59 @@ El otorgamiento de la asignación que establece la presente ley se sujetará a l
 
 a) Se concederá en función del mejoramiento del trato a los usuarios de los establecimientos pertenecientes a los servicios de salud referidos en el inciso segundo del artículo 1°, y se determinará mediante el resultado obtenido de la aplicación del instrumento de evaluación contemplado en los literales siguientes.
 
-b) La Subsecretaría de Redes Asistenciales deberá definir el instrumento de evaluación, el que podrá ser actualizado cada tres años. Dicho instrumento deberá contener la aplicación de una encuesta de percepción del trato a los usuarios de los establecimientos de los servicios de salud.
+b) La Subsecretaría de Redes Asistenciales, previo informe del Comité Técnico que estará integrado por un representante de dicha Subsecretaría y uno de la Dirección de Presupuestos, deberá definir el instrumento de evaluación, el que podrá ser actualizado a partir de los dos años de uso. Dicho instrumento deberá contener la aplicación de una encuesta de percepción del trato a los usuarios de los establecimientos de los servicios de salud.
 
-c) La aplicación del instrumento de evaluación será efectuada anualmente por expertos externos a los servicios de salud. La contratación de dichos expertos se efectuará por la Subsecretaría de Redes Asistenciales a través del procedimiento dispuesto en la ley Nº19.886, y será de su cargo. La aplicación de dicho procedimiento será de responsabilidad de la Subsecretaría de Redes Asistenciales. Con todo, las bases técnicas de la respectiva licitación deberán contar con la aprobación de la Dirección de Presupuestos.
+c) La aplicación del instrumento de evaluación será efectuada anualmente por expertos externos a los servicios de salud. La contratación de dichos expertos se efectuará por la Subsecretaría de Redes Asistenciales a través del procedimiento dispuesto en la ley Nº19.886, y será de su cargo. La aplicación de dicho procedimiento será de responsabilidad de la Subsecretaría de Redes Asistenciales. Con todo, los respectivos términos de referencia o las bases técnicas deberán contar con la aprobación de la Dirección de Presupuestos.
 
 d) El instrumento de evaluación se aplicará respecto de los usuarios mayores de 15 años que hayan recibido atención en los servicios de salud durante el período de aplicación del respectivo instrumento. La selección muestral será aleatoria y representativa de los servicios de salud evaluados, conforme a la metodología que determine el respectivo reglamento.
 
-e) Los establecimientos a que se refiere la letra a), que hubieren obtenido en el instrumento de evaluación a lo menos un puntaje de 60% o su equivalente, se ordenarán en forma decreciente según el puntaje obtenido en la aplicación de dicho instrumento, clasificándose en los tres niveles siguientes:
+e) Los establecimientos a que se refiere la letra a) que hubieren obtenido en el instrumento de evaluación a lo menos un puntaje de 65% o su equivalente, se distribuirán según nivel de complejidad en Alta Complejidad, Mediana Complejidad y Baja Complejidad. Seguidamente, en cada nivel se ordenarán en forma decreciente según el puntaje obtenido en la aplicación de dicho instrumento, clasificándose de acuerdo a los siguientes tramos:
 
-Nivel 1: el 33% de los establecimientos que hayan obtenido los mejores resultados en el proceso de evaluación.
+i. Tramo 1: el 33% de los establecimientos que hayan obtenido los mejores resultados en el proceso de evaluación.
 
-Nivel 2: el 33% siguiente de los establecimientos.
+ii. Tramo 2: el 33% siguiente de los establecimientos.
 
-Nivel 3: el 34% restante de los establecimientos, hasta completar el 100%.
+iii. Tramo 3: el 34% restante de los establecimientos, hasta completar el 100%.
 
-Con todo, los establecimientos señalados en el artículo 1°, para acceder al beneficio, deberán alcanzar en el instrumento de evaluación, a lo menos, un puntaje del 60% o su equivalente.
+Respecto a las direcciones de los servicios de salud para su clasificación en alguno de los tramos definidos, éstos se ordenarán en forma decreciente acorde al puntaje asignado, el que será equivalente al resultado del promedio obtenido de la suma de los puntajes logrados por los establecimientos de su dependencia.
 
-f) Los expertos externos señalados en el literal c), una vez aplicado el instrumento de evaluación, deberán entregar a la Subsecretaría de Redes Asistenciales el resultado de dicha aplicación y los demás antecedentes que se definan en las respectivas bases de licitación.
+Con todo, los establecimientos señalados en el artículo 1º, para acceder al beneficio deberán alcanzar en el instrumento de evaluación, a lo menos, un 65% o su equivalente.
 
-g) El proceso de evaluación se efectuará en el primer semestre de cada año. Con todo, los períodos de evaluación que se establezcan no podrán ser distintos para los establecimientos de salud.
+Para la distribución de los establecimientos, según su nivel de complejidad, deberán considerarse las normas pertinentes del decreto con fuerza de ley Nº 1, del Ministerio de Salud, promulgado el año 2005 y publicado el año 2006.
 
-Un reglamento dictado por el Ministerio de Salud, suscrito además por el Ministro de Hacienda, regulará los contenidos mínimos, aspectos y metodología que deberá considerar el instrumento de evaluación, los elementos y procedimientos que deberá contemplar, como también cualquier otra norma necesaria para el adecuado otorgamiento de la asignación establecida por esta ley.
+Para efectos de esta norma, previo a la aplicación del instrumento de evaluación, la Subsecretaría de Redes Asistenciales, a más tardar el mes de mayo de cada año, deberá dictar una resolución exenta que determine el nivel de complejidad que corresponda a los establecimientos sometidos a evaluación. Una copia de dicha resolución deberá ser remitida a la Dirección de Presupuestos.
+
+f) No obstante lo dispuesto en los literales anteriores, si por efecto de la metodología de evaluación empleada se producen cifras con decimales, el corte de cada tramo para el ordenamiento de los establecimientos se ajustará al entero más cercano y se iniciará el siguiente tramo con los restantes establecimientos que sigan en orden decreciente.
+
+g) En caso que dos o más establecimientos de salud obtuvieren el mismo puntaje final, la Subsecretaría de Redes Asistenciales procederá a resolver dicha situación aplicando criterios de desempate, los que serán definidos para tal efecto en el reglamento respectivo.
+
+h) Los expertos externos señalados en el literal c), una vez aplicado el instrumento de evaluación, deberán entregar a la Subsecretaría de Redes Asistenciales el resultado de dicha aplicación y los demás antecedentes que se definan en los términos de referencia o en las respectivas bases de licitación.
+
+i) La aplicación de la encuesta se efectuará hasta el 15 de septiembre de cada año. Con todo, los períodos de evaluación que se establezcan no podrán ser distintos para los establecimientos de salud.
+
+Un reglamento dictado por el Ministerio de Salud, suscrito además por el Ministro de Hacienda, regulará los contenidos mínimos y aspectos que deberá considerar el instrumento de evaluación, la metodología, los criterios de desempate a que alude el literal g), los elementos y procedimientos que deberá contemplar dicha evaluación, así como las normas de funcionamiento del Comité Técnico y cualquier otra regulación necesaria para el adecuado otorgamiento del beneficio.
 
 El citado reglamento deberá dictarse dentro de los 120 días siguientes a la fecha de publicación de esta ley en el Diario Oficial.
 
+#### Artículo 3º bis
+
+Se podrá suspender la aplicación del instrumento de evaluación respecto de uno más establecimientos, en los siguientes casos:
+
+a) Cuando exista una situación de alerta sanitaria declarada conforme al artículo 36 del Código Sanitario.
+
+b) Cuando en el establecimiento se produzcan hechos fortuitos o imprevistos derivados de catástrofes; daños graves en su infraestructura, o actos de violencia o acciones terroristas que impidan o alteren gravemente su capacidad para atender a los usuarios.
+
+En todo caso, la suspensión de la aplicación del instrumento, de acuerdo a lo dispuesto en el inciso anterior, deberá ser ordenada mediante resolución exenta fundada de la Subsecretaría de Redes Asistenciales, la cual deberá indicar los medios de verificación de la ocurrencia de las causales. Además, se requerirá previamente un informe del Comité Técnico establecido en la letra b) del artículo 3º.
+
+En las situaciones señaladas en este artículo, el monto de la asignación de mejoramiento de trato al usuario que percibirán los funcionarios de los establecimientos a los que no se les aplicó el instrumento de evaluación corresponderá al asignado al tramo en que se clasificó al establecimiento el año anterior.
+
 #### Artículo 4°
 
-Para efectos de proceder al pago de la asignación el Subsecretario de Redes Asistenciales, mediante resolución exenta visada por la Dirección de Presupuestos, determinará un listado con los establecimientos que corresponda ubicados en orden decreciente en tres niveles, de acuerdo al puntaje obtenido en la aplicación del instrumento de evaluación señalado en el artículo 3°.
+Para efectos de proceder al pago de la asignación, el Subsecretario de Redes Asistenciales, mediante resolución exenta visada por la Dirección de Presupuestos, determinará un listado con los establecimientos que corresponda, distribuidos según nivel de complejidad, y clasificados en orden decreciente en tres tramos, de acuerdo al puntaje obtenido en la aplicación del instrumento de evaluación señalado en el artículo 3º.
 
-El monto anual de la asignación corresponderá a $255.000 para aquellos funcionarios de establecimientos ubicados en el primer nivel, a $190.000 para aquéllos situados en el segundo nivel, y a $125.000 para aquéllos ubicados en el tercer nivel.
+Respecto a las direcciones de los Servicios de Salud para su clasificación en algunos de los tramos definidos, se aplicará lo establecido en el literal e) del artículo 3º.
+
+El monto anual de la asignación corresponderá a $255.000 para aquellos funcionarios de establecimientos ubicados en el primer tramo, a $190.000 para aquéllos situados en el segundo tramo, y a $125.000 para aquéllos ubicados en el tercer tramo.
 
 El valor de la asignación corresponderá a una jornada máxima de 44 horas semanales y será proporcional a las horas contratadas.
 

@@ -66,9 +66,9 @@ En las situaciones señaladas en este artículo, el monto de la asignación de m
 
 Exclusivamente y para efectos de la aplicación del artículo 5°, el Subsecretario de Redes Asistenciales mediante resolución exenta visada por la Dirección de Presupuestos, determinará para cada año un valor hora de la asignación, dividiendo el monto señalado en el artículo 9° por la sumatoria de los factores siguientes:
 
-a) Dos veces el total de horas contratadas mensualizadas de todos los establecimientos ubicados en el tramo 1, referido en el artículo anterior.
+a) Tres veces el total de horas contratadas mensualizadas de todos los establecimientos ubicados en el tramo 1, referido en el artículo anterior.
 
-b) Una coma cinco veces el total de horas contratadas mensualizadas de todos los establecimientos ubicados en el tramo 2, referido en el artículo anterior.
+b) Dos veces el total de horas contratadas mensualizadas de todos los establecimientos ubicados en el tramo 2, referido en el artículo anterior.
 
 c) El total de horas contratadas mensualizadas, de los establecimientos que quedaren ubicados en el tramo 3, referido en el artículo anterior.
 
@@ -78,13 +78,13 @@ A más tardar el 30 de julio de cada año las entidades y establecimientos de sa
 
 El monto de la asignación para cada funcionario dependerá del tramo en que esté clasificado el establecimiento donde aquél se desempeñe, conforme a lo siguiente:
 
-1) La asignación de los funcionarios que se desempeñan en los establecimientos ubicados en el 33% mejor evaluado corresponderá a 2 veces el valor hora multiplicado por las horas de cada funcionario contratadas en dicho establecimiento.
+1) La asignación de los funcionarios que se desempeñan en los establecimientos ubicados en el 33% mejor evaluado corresponderá a 3 veces el valor hora multiplicado por las horas de cada funcionario contratadas en dicho establecimiento.
 
-2) La asignación de los funcionarios que se desempeñen en los establecimientos ubicados en el segundo 33% corresponderá a 1,5 veces el valor hora multiplicado por las horas de cada funcionario contratadas en el respectivo establecimiento.
+2) La asignación de los funcionarios que se desempeñen en los establecimientos ubicados en el segundo 33% corresponderá a dos veces el valor hora multiplicado por las horas de cada funcionario contratadas en el respectivo establecimiento.
 
 3) La asignación de los funcionarios que se desempeñen en los establecimientos ubicados en el 34% restante corresponderá al valor hora multiplicado por las horas de cada funcionario contratadas en el respectivo establecimiento.
 
-Para efectos del pago se considerará el promedio de horas contratadas por el funcionario durante el primer semestre del año respectivo. En ningún caso el valor a enterar de conformidad a los numerales 1), 2) y 3) del inciso anterior podrán ser superiores a los valores a pagar a los tramos primero, segundo y tercero, respectivamente, señalados en el inciso tercero del artículo 4° de la ley N° 20.646
+Para efectos del pago se considerará el promedio de horas contratadas por el funcionario durante el primer semestre del año respectivo.
 
 Todos los funcionarios del establecimiento de atención primaria de salud municipal o entidad administradora percibirán la asignación, sin distinción de categorías funcionarias, de conformidad al tramo de cumplimiento respectivo y, en todo caso, en proporción a las horas contratadas, con un máximo de 44 horas.
 
@@ -106,9 +106,9 @@ La asignación no servirá de base de cálculo para ninguna otra remuneración o
 
 #### Artículo 9°
 
-Los recursos presupuestarios de que trata esta ley sólo podrán concederse hasta por un monto máximo anual de $24.707.147.000. A contar del año 2027, dicha cantidad se reajustará anualmente en el porcentaje que resulte de sumar aquel que se determine para el reajuste de las remuneraciones del sector público más el porcentaje en que anualmente se incremente la población inscrita en los establecimientos de atención primaria de salud, conforme lo dispuesto en el inciso penúltimo del artículo 18 del decreto con fuerza de ley Nº 1, del Ministerio de Salud, promulgado el año 2005 y publicado el año 2006, y validada por el Fondo Nacional de Salud. Mediante resolución exenta de la Subsecretaría de Redes Asistenciales, la que se dictará a más tardar en el mes de abril, se establecerá el porcentaje en que se reajustará el monto máximo anual antes señalado, previa visación de la Dirección de Presupuestos.
+Los recursos presupuestarios de que trata esta ley sólo podrán concederse hasta por un monto máximo anual de $9.893.540 miles. A contar del año 2016, dicha cantidad se reajustará anualmente en el porcentaje que resulte de sumar aquel que se determine para el reajuste de las remuneraciones del sector público más el porcentaje en que anualmente se incremente la población inscrita en los establecimientos de atención primaria de salud, conforme lo dispuesto en el inciso penúltimo del artículo 18 del decreto con fuerza de ley Nº 1, del Ministerio de Salud, promulgado el año 2005 y publicado el año 2006, y validada por el Fondo Nacional de Salud. Mediante resolución exenta de la Subsecretaría de Redes Asistenciales, la que se dictará a más tardar en el mes de abril, se establecerá el porcentaje en que se reajustará el monto máximo anual antes señalado, previa visación de la Dirección de Presupuestos.
 
-A contar del año 2027 se podrán otorgar anualmente aportes extraordinarios a la cantidad señalada en el inciso primero, en la medida que aumente la dotación de atención primaria de salud municipal derivada exclusivamente de los siguientes factores: la puesta en marcha de nuevos establecimientos de salud debidamente recepcionados o la implementación y ejecución de nuevos programas de salud; u otros aumentos de dotación que se contemplen en futuros cuerpos legales. El monto de estos aportes extraordinarios, cuando corresponda, se fijará anualmente mediante decreto supremo del Ministerio de Salud suscrito además por el Ministro de Hacienda, dictado bajo la fórmula "Por Orden del Presidente de la República".
+A contar del año 2016 se podrán otorgar anualmente aportes extraordinarios a la cantidad señalada en el inciso primero, en la medida que aumente la dotación de atención primaria de salud municipal derivada exclusivamente de los siguientes factores: la puesta en marcha de nuevos establecimientos de salud debidamente recepcionados o la implementación y ejecución de nuevos programas de salud; u otros aumentos de dotación que se contemplen en futuros cuerpos legales. El monto de estos aportes extraordinarios, cuando corresponda, se fijará anualmente mediante decreto supremo del Ministerio de Salud suscrito además por el Ministro de Hacienda, dictado bajo la fórmula "Por Orden del Presidente de la República".
 
 DISPOSICIONES TRANSITORIAS
 
