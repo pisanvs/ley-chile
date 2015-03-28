@@ -388,8 +388,6 @@ iv. Sistema para el registro de la dosis mínima de ozono aportada, con indicaci
 
 2. La aprobación del sistema de tratamiento permanecerá vigente mientras se mantengan las condiciones previstas en la presente resolución, que se tuvieron en consideración por el Servicio para otorgar su aprobación. Para tal efecto, el Servicio podrá realizar, cuando lo estime procedente, inspecciones a las embarcaciones.
 
-> **Nota.** El numeral 1° de la Resolución 8227 Exenta, Economía, publicada el 07.10.2015, modifica la presente norma en el sentido de establecer que los antecedentes que los armadores deben presentar ante la Unidad de Salud Animal del Servicio, deberán ser presentados, a contar de su publicación, ante el Departamento de Gestión de Programas de Fiscalización de la Acuicultura (GPFA), en su Dirección Nacional en Valparaíso.
-
 #### Artículo segundo
 
 En el plazo de 2 años contados desde la publicación de la resolución aprobatoria del presente programa en el Diario Oficial, los sistemas nuevos de desinfección mediante UV deberán estar validados por terceras partes reconocidas e independientes, de acuerdo a los estándares internacionales de la Agencia de Protección Medioambiental de Estados Unidos (USEPA), o la Asociación Alemana Técnica y Científica para Gas y Agua (DVGW), o el Instituto Austríaco de Normas (ÖNORM) o el Instituto Investigador de Agua Nacional USA (NWRI / AwwaRF). En estos casos, la verificación podrá realizarse por un certificador de la desinfección cada dos años.
