@@ -26,9 +26,17 @@ Resolución:
 
 1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 31 de marzo del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para las regiones si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en sus Títulos II y III, para la reparación de viviendas de familias damnificadas por los sismos ocurridos el 1 y 2 de abril de 2014, en las regiones de Arica y Parinacota y de Tarapacá, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 104 (de Interior) de 1977, y sus modificaciones. Sólo podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por SERVIU de las regiones de Arica y Parinacota y de Tarapacá, antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Primera selección: 27 de febrero de 2015, para la Región de Tarapacá.
+Primera selección: 27 de Febrero de 2015
 
-Segunda selección: 31 de marzo de 2015, para ambas regiones.
+Segunda selección: 31 de Marzo de 2015
+
+Tercera selección: 29 de Mayo de 2015
+
+Cuarta selección: 31 de Julio de 2015
+
+Quinta selección: 30 de Septiembre de 2015
+
+Solo podrán ingresar proyectos, en las selecciones que se realizarán durante los meses de mayo, julio y septiembre, las Entidades Patrocinantes que cuenten con proyectos precalificados por SERVIU al 31 de marzo de 2015.
 
 2.- La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -133,6 +141,8 @@ Si realizada la segunda selección de este llamado no hubiese sido posible, por 
 8.7.3 Tratándose de proyectos que aborden o afecten bienes comunes de un condominio, Acta de la Asamblea de Copropietarios en que conste el acuerdo adoptado de conformidad a la Ley Nº 19.537, aprobando el proyecto (letra f).
 
 8.8 Contar con Ficha de Protección Social de acuerdo a los artículos 16 letra b) y 21 letra d)
+
+8.9 De lo establecido en el artículo 37 letra a) en relación al endoso del certificado de subsidio y letra e) del mismo artículo, respecto a la carta del beneficiario que señala que las obras están terminadas conforme al contrato suscrito, para los casos de negativa injustificada del beneficiario de endosar y/o de recepcionar conforme las obras, siempre que se cuente con los informes del Prestador de Asistencia Técnica y del Supervisor SERVIU que certifique que los trabajos fueron ejecutados conforme al proyecto y no presenten observaciones.
 
 9. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
