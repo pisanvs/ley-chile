@@ -328,9 +328,19 @@ e) Atendida la especial naturaleza de este llamado, el Serviu de la Región de V
 
 31. Los damnificados que opten por las modalidades de Construcción en Sitio Propio con pago por avance de obras, y de Densificación Predial en Condominios, en este último caso siempre que se trate de viviendas aisladas o pareadas de hasta 2 pisos, conforme a lo establecido en los Párrafos 4º y 5º de la presente resolución, podrán aplicar dicho beneficio a través del procedimiento de Autoconstrucción Asistida para lo cual les serán aplicables las condiciones que señala el presente Párrafo.
 
-32. El subsidio se aplicará mediante una tarjeta personal e intransferible que el Serviu emitirá a nombre del beneficiario una vez aprobado el proyecto. Ésta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio de hasta 600 Unidades de Fomento otorgado, podrán adicionarse los subsidios complementarios señalados en las letras a), b) y c) del Resuelvo 17 de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el Resuelvo 40.
+32. El subsidio se aplicará mediante una tarjeta personal e intransferible que el SERVIU emitirá a nombre del beneficiario una vez aprobado el proyecto. Ésta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los materiales a utilizar en la construcción de la vivienda. Al subsidio base de hasta 600 Unidades de Fomento otorgado, podrán adicionarse los subsidios complementarios señalados en las letras a),
 
-Podrá destinarse hasta 270 Unidades de Fomento, deducibles del subsidio base, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida. Tanto éste, como el monto destinado a la demolición y retiro de escombros, si corresponden, no serán incorporados a la tarjeta.
+- **b)** y
+
+- **c)** del resuelvo 17 y letras a), b),
+
+- **c)** y
+
+- **d)** del resuelvo 23, de la presente resolución. Para la Asistencia Técnica se actuará de acuerdo a lo dispuesto en el resuelvo 40.
+
+En el caso de que se adicionen los subsidios complementarios mencionados en el inciso anterior, el SERVIU de la Región de Valparaíso determinará, de acuerdo a las características de cada proyecto, los montos de estos subsidios que podrán destinarse a la carga de la tarjeta para la compra de materiales.
+
+Podrá destinarse hasta 270 Unidades de Fomento, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida.
 
 33. El Serviu cargará la tarjeta para la adquisición de los materiales de construcción contra los siguientes hitos:
 
