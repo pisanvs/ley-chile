@@ -40,6 +40,8 @@ Otiorrhynchus cribricollis Curculionidae Coleoptera
 
 Parlatoria oleae Diaspididae Hemiptera
 
+Pollinia pollini Asterolecaniidae Hemíptera
+
 Pseudaulacaspis
 
 pentagona
