@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº 13 de 5 de febrero de 2015, se desistió de la expropiación del lote Nº1, ordenada por el Decreto MOP (Exento) Nº1325 de 30 de agosto de 2013, para la obra "RECINTO RED IMPULSIÓN AP CERRO LA CRUZ", Comuna de Pichilemu, VI Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas (TP).
