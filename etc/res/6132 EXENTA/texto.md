@@ -1,0 +1,7 @@
+RECTIFICA PUBLICACIÓN EFECTUADA CON FECHA 15 DE NOVIEMBRE DE 2014, EN EL SENTIDO QUE INDICA A CONTINUACIÓN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 6.132, de fecha 5 de noviembre de 2014, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº73, correspondiente al inmueble ubicado en P Donoso 585 P Donoso Vergara, Rol de Avalúo Nº 5036-6, de la Comuna de Recoleta, Región Metropolitana, de aparente dominio de Berríos Sepúlveda Alfonso Sergio Y, con una superficie aproximada de 630,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Av. Dorsal, entre Av. Cardenal José María Caro y Av. El Salto". La Comisión de Peritos, integrada por los señores Francisca Arenas Stone, arquitecto; Fernando Merino de la Cerda, Arquitecto, y Roberto Sohrens Camus, arquitecto, mediante informe de fecha 5 de noviembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $177.961.280, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Director Serviu Metropolitano.
