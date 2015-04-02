@@ -1,0 +1,7 @@
+MODIFICAN NÓMINAS DE BENEFICIARIOS DE SUBSIDIO HABITACIONAL QUE INDICA
+
+NOTIFICACIÓN
+
+Por resoluciones exentas Nº 1.024 y 1.025 (Serviu RM), ambas de fecha 23 de febrero de 2015, se modifica nómina original de beneficiarios de subsidio habitacional DS Nº 174 de V. y U., del año 2005, de los Proyectos "Wetripantu I" y "Wetripantu II", en el sentido de eliminar a las siguientes beneficiarias: Sra. Nicole Andrea Fernández Inostroza, RUT Nº 17.110.011-9; Sra. Danaes Alejandra Mazuela Riquelme, Rut Nº 10.862.460-4; Sra. Carmen Gloria Ibáñez Montoya, RUT Nº 12.966.036-8; y Sra. Angélica del Carmen Lienlaf Carimán, Rut Nº 15.248.173-K. En virtud de lo dispuesto en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, las resoluciones exentas podrán ser objeto del recurso de reposición establecido en el artículo 59, pudiendo en un plazo de cinco días hábiles, contados a partir de la fecha de publicación, presentar por escrito su recurso acompañando documentación referida a la propiedad habitación, agrícola o sitio eriazo que registran en el Servicio de Impuestos Internos, dirigido al Serviu Metropolitano, Oficina de Información, Reclamos y Sugerencias (OIRS), ubicado en calle Arturo Prat Nº 80, comuna de Santiago, en el horario de atención de público desde las 09:00 hasta las 14:00 horas.
+
+Director Serviu Metropolitano.
