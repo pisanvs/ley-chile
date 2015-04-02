@@ -1,0 +1,7 @@
+MODIFICAN NÓMINAS DE BENEFICIARIOS DE SUBSIDIO HABITACIONAL QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 963 (Seviu RM), de fecha 17 de febrero de 2015, se modifica nómina original de beneficiarios de subsidio habitacional DS Nº 174, de V. y U., del año 2005, del proyecto "La Estrella", en el sentido de eliminar a los siguientes beneficiarios: Sr. Marcelo del Carmen Arenas Cáceres, RUT 11.607.544-k, Sr. Miguel Guillermo Ramírez Novoa, RUT 12.731.540-k. En virtud de lo dispuesto en la ley Nº 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos del Estado, las resoluciones exentas podrán ser objeto del Recurso de Reposición establecido en el artículo 59, pudiendo en un plazo de 5 días hábiles, contados a partir de la fecha de publicación, presentar por escrito su recurso acompañando documentación referida a la propiedad habitación, agrícola o eriazo que registran en el Servicio de Impuestos Internos, dirigido al Serviu Metropolitano, Oficina de Información, Reclamos y Sugerencias (OIRS), ubicada en calle Arturo Prat Nº80, comuna de Santiago, en el horario de atención de público desde las 9:00 y las 14:00 horas.
+
+Director Serviu Metropolitano.
