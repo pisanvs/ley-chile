@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA SOCIEDAD "CARRERA PINTO MATRIZ SpA"
+
+Mediante decreto exento Nº224, de 6 de febrero de 2015, rectificado por decreto (exento) Nº339 de 16 de marzo de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Carrera Pinto Matriz SpA", RUT Nº76.306.998-2, el inmueble fiscal formado por los Lotes a, b y c, ubicado en la Ruta C-17, altura Km. 50, del Sector Llano de Varas, comuna y provincia de Copiapó, Región de Atacama, enrolado en el Servicio de Impuestos Internos con los Nº 7147-21, 7147-22 y 7147-23, respectivamente; amparado por la inscripción global que rola a fojas 527 vta. Nº500, del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1964; de una superficie total de 349,456 has, singularizado en el Plano Nº 03101-1.419-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 5.422,72.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
