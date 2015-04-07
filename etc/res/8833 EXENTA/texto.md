@@ -326,7 +326,7 @@ F3.- Firma del informe
 
 El informe de alcoholemia impreso será entregado al perito que efectuó el análisis, para su firma. Este revisará los datos del informe en conjunto con los datos de la Boleta de Alcoholemia, para que constate la coincidencia de todos los antecedentes que aparecen en ella con el informe impreso que recibe para firmar.
 
-Ante la ausencia temporal o impedimento del perito ejecutor para cotejar los datos y estampar su firma, la jefatura del Departamento de Laboratorios y/o el Director Regional correspondiente, previa consulta al Área Técnica respectiva, designará un perito revisor que cumplirá la misma labor y firmará bajo su nombre y responsabilidad el informe de alcoholemia.
+Hecho lo anterior, un perito revisor cotejará los datos señalados y en señal de conformidad con la labor pericial ejecutada por el primero, estampará su firma en ese sentido. En caso contrario deberá formular sus observaciones al perito ejecutor con copia a la Jefatura Técnica directa.
 
 La constancia de los despachos de cada informe, será verificada por el encargado administrativo, quien firmará y fechará cada informe al reverso dando conformidad de que los datos de carácter administrativo entregados en el informe se encuentran conformes, acorde a los antecedentes e informaciones otorgadas.
 
@@ -375,3 +375,5 @@ Aquellos casos no contemplados en el presente documento, pasarán al Sr. Directo
 La implementación de lo establecido en la presente normativa, se aplicará a nivel nacional en el Servicio Médico Legal, en forma gradual, de acuerdo a las posibilidades presupuestarias en lo que diga relación a ello, y atendida la calendarización que determine la Subdirección Médica del Servicio en coordinación con los Directores Regionales.
 
 VER DIARIO OFICIAL DE 30.09.2010, PÁGINA 23, CUERPO I.
+
+> **Nota.** La letra b) del numeral I de la Resolución 10649 Exenta, Servicio Médico Legal, publicada el 06.04.2015, modifico la presente norma en el sentido de incorporar al final del parrafo III la siguiente frase: "Se informa que respecto de la reserva de manchas de sangre en papel filtro, para una eventual verificación de identidad por ADN ésta se mantendrá por el periodo de 5 años, y dicha verificación se realizará exclusivamente por orden del Ministerio Público o Tribunal correspondiente".
