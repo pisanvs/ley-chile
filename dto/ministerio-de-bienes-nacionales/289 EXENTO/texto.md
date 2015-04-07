@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA SOCIEDAD "HYDROCHILE S.A."
+
+Mediante decreto exento Nº 289, de 9 de febrero de 2015, rectificado por decreto (exento) Nº340 de 16 de marzo de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Hydrochile S.A.", RUT Nº76.778.250-0, el inmueble fiscal formado por los Lotes a, b y c, ubicado en la Ruta C-17, altura Km. 54, del Sector Llano de Varas, comuna y provincia de Copiapó, Región de Atacama, enrolado en el Servicio de Impuestos Internos con los Nº 7147-16, 7147-17 y 7147-18, respectivamente; amparado por la inscripción global que rola a fojas 527 vta. Nº500, del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1964; de una superficie total de 187,048 hás, singularizado en el Plano Nº 03101-1.392-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 2.902,52.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
