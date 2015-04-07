@@ -1,6 +1,6 @@
 FIJA OBLIGATORIEDAD DE PORTAR DOCUMENTO QUE SEÑALA EN TAXIS COLECTIVOS URBANOS DE LA REGIÓN DE VALPARAÍSO
 
-Núm. 2.569 exenta.- Valparaíso, 26 de septiembre de 2014.- Visto: Lo dispuesto en el artículo 49º bis del DS Nº 212/92, modificado por el DS Nº 97, de 31 de mayo de 1993, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, publicado en el Diario Oficial de 8 de julio de 1993; resolución Nº 9 de 19 de febrero de 1996 de esta Seremi; Carta solicitud Folio 2211 de 2 de junio de 2014 del Consejo Regional de Taxis Colectivos Agretacov, demás normativa atingente y,
+Núm. 2.569 exenta.- Valparaíso, 26 de septiembre de 2014.- Visto: Lo dispuesto en el artículo 49º bis del DS Nº 212/92, modificado por el DS Nº 97, de 31 de mayo de 1993, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, publicado en el Diario Oficial de 8 de julio de 1993; resolución Nº 9 de 19 de febrero de 1996 de esta Seremi; Carta solicitud Folio 3216, de 18 de agosto de 2014, del Consejo Regional de Taxis Colectivos Contacol, demás normativa atingente y,
 
 Considerando:
 
@@ -16,7 +16,7 @@ Resuelvo:
 
 . Formato:
 
-- Hoja tamaño carta
+- Hoja cuyo tamaño será de 21 cm. de alto y 10 cm. de ancho.
 
 - Fondo de color blanco
 
@@ -45,6 +45,12 @@ Resuelvo:
 - Espacio para observaciones y firma del despachador o inspector
 
 . El documento deberá estar dividido en dos secciones:
+
+Ambas secciones deberán estar divididas por un sistema de prepicado u otro que facilite su desprendimiento. Las dimensiones serán:
+
+. Control Interno: 7 cm. de alto por 10 cm. de ancho;
+
+. Control Externo: 14 cm. de alto por 10 cm. de ancho.
 
 Una copia para control interno y otra que deberá portar el móvil en todo su recorrido
 
