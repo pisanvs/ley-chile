@@ -1,0 +1,7 @@
+DELEGA FACULTADES EN LOS JEFES DE DEPARTAMENTOS DE AVALUACIONES QUE INDICA
+
+Extracto de resoluciones exentas que autorizan a los Jefes de Departamentos de Avaluaciones la facultad de dejar sin efecto o caducar los beneficios, franquicias y exenciones establecidas en el DFL Nº 2, de 1959.
+
+. Por resoluciones exentas Nos 55 de 16.02.2015, 42 de 18.02.2015, 31 de 23.02.2015, 672 de 07.03.2015, 166 de 20.02.2015, 50 de 19.02.2015, 75 de 26.02.2015, 5 de 02.03.2015, 145 de 02.03.2015, 280 de 24.03.2015, 41 de 20.03.2015, 10 de 18.02.2015, 19 de 16.02.2015, 16 de 20.02.2015, 384 de 03.03.2015, 149 de 13.03.2015, 48 de 19.02.2015, 22 de 19.02.2015, 171 de 19.02.2015, los Directores Regionales de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX Direcciones Regionales del Servicio de Impuestos Internos, respectivamente, delegaron en los Jefes de Departamentos de Avaluaciones la facultad de dejar sin efecto o caducar los beneficios, franquicias y exenciones de aquellas viviendas económicas en que se comprobare la existencia de alguna infracción en conformidad a lo establecido en el artículo 5º del DFL Nº 2, de 1959; como asimismo, la facultad para declarar la caducidad de dichos beneficios, franquicias y exenciones en los casos previstos en el artículo 18 del mismo cuerpo legal.
+
+Los textos íntegros de estas resoluciones están publicados en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerán en el Boletín del SII en el mes de marzo de 2015.
