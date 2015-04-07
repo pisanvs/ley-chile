@@ -1,0 +1,5 @@
+PLAZO Y PROCEDIMIENTO PARA DAR AVISO DE PÉRDIDAS DE EXISTENCIAS, O PÉRDIDA O INUTILIZACIÓN DE LIBROS DE CONTABILIDAD, PRODUCTO DE LAS GRAVES INUNDACIONES DEL 25 DE MARZO DE 2015
+
+Extracto de circular del Servicio de Impuestos Internos Nº 23, del 31 de marzo de 2015, sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de la catástrofe ocurrida en la Región de Atacama y las comunas de Antofagasta y Taltal, el 25 de marzo de 2015.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de marzo de 2015.
