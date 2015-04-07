@@ -1,0 +1,7 @@
+MODIFICA Y COMPLEMENTA DECRETO Nº 506 EXENTO, DE 2014 Y AUTORIZA NUEVO PLAZO PARA SUSCRIBIR ESCRITURA PÚBLICA DE CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGION DE ATACAMA, A SOCIEDAD "CENTRAL SOLAR DESIERTO I SpA"
+
+Mediante decreto (exento) Nº 338, de 16 de marzo de 2015, el Ministerio de Bienes Nacionales modificó y complementó el decreto (exento) Nº506 de 12 de junio de 2014 y autorizó, a la sociedad "Central Solar Desierto I SpA", RUT Nº76.238.126-5, nuevo plazo para suscribir la escritura pública de concesión onerosa para ejecutar un proyecto de Energía Renovable No Convencional, en un inmueble fiscal ubicado en el Sector Llano Indio de Plata, comuna Diego de Almagro, provincia de Chañaral, Región de Atacama, enrolado en el Servicio de Impuestos Internos con el Nº7000-79, amparado por la inscripción global fiscal de fojas 111 vta. Nº105 del Registro de Propiedad del Conservador de Bienes Raíces de Diego de Almagro del año 1996, de una superficie aproximada de 89,48 Hás, singularizado en el Plano Nº03202-1778-C.R. Otras modificaciones en el decreto referido. El decreto (exento) Nº506 de 2014 fue publicado en el D.O. el día 5 de julio de 2014.
+
+El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del presente extracto. Los decretos mencionados con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Nivia Palma Manríquez, Jefa División Jurídica.
