@@ -218,13 +218,13 @@ Declárase que las exenciones previstas en la ley Nº16.528 o la normativa que l
 
 #### Artículo 5º
 
-Suspéndese el ingreso de solicitudes, cualquiera sea la especie o grupo de especies a cultivar, en la XI Región de Aysén del General Carlos Ibáñez del Campo, entre la fecha de la publicación de la presente ley en el Diario Oficial y el 31 de diciembre de 2015.
+Suspéndese el ingreso de solicitudes, cualquiera sea la especie o grupo de especies a cultivar, en la XI Región de Aysén del General Carlos Ibáñez del Campo, entre la fecha de la publicación de la presente ley en el Diario Oficial y el 8 de abril de 2020.
 
 #### Artículo 6º
 
 Las concesiones de acuicultura para el cultivo de peces, ubicadas dentro de las franjas de distancia obligatoria entre las macro zonas establecidas por la Subsecretaría de Pesca, cuyos titulares soliciten relocalizarlas en otros sectores hasta el 8 de abril de 2015, gozarán de una exención del aumento de la patente que, por esta ley, se establece por el plazo de cinco años contado desde la fecha de notificación de la resolución que otorga la concesión relocalizada en el nuevo sector.
 
-En caso de sobreposición entre solicitudes de relocalización o entre éstas y otro tipo de solicitudes, las que correspondan a solicitudes de relocalización de concesiones ubicadas en franjas de distancias obligatorias entre macro zonas preferirán frente a cualquiera otra solicitud, siempre que se presente la solicitud antes de la aprobación del proyecto técnico de aquella a la que se sobrepone y, en todo caso, hasta el 8 de abril de 2015.
+En caso de sobreposición entre solicitudes de relocalización o entre éstas y otro tipo de solicitudes, las que correspondan a solicitudes de relocalización de concesiones ubicadas en franjas de distancias obligatorias entre macro zonas preferirán frente a cualquiera otra solicitud, siempre que se presente la solicitud antes de la aprobación del proyecto técnico de aquella a la que se sobrepone y, en todo caso, hasta el 8 de abril de 2020.
 
 Sin perjuicio de lo anterior, no regirá esta preferencia respecto de las solicitudes de relocalización presentadas antes del 1 de enero de 2012.
 
@@ -252,7 +252,7 @@ La obligación del Servicio Nacional de Pesca, a que se refiere el artículo 122
 
 #### Artículo cuarto
 
-Sin perjuicio de lo señalado en el inciso tercero del artículo 2º de la ley Nº 20.434, las solicitudes de concesión de acuicultura de peces presentadas en la XI Región de Aysén del General Carlos Ibáñez del Campo, que a la fecha de publicación de la presente ley tengan resolución de calificación ambiental favorable y tengan como antecedente el requerimiento de la Subsecretaría de Pesca para ingreso al Sistema de Evaluación de Impacto Ambiental, serán suspendidas en su tramitación hasta el 8 de abril de 2015, renovándose la tramitación sólo en el caso que los espacios solicitados no hayan sido otorgados en concesión de acuicultura producto de una solicitud de relocalización y cumplan los requisitos legales y reglamentarios vigentes.".
+Sin perjuicio de lo señalado en el inciso tercero del artículo 2º de la ley Nº 20.434, las solicitudes de concesión de acuicultura de peces presentadas en la XI Región de Aysén del General Carlos Ibáñez del Campo, que a la fecha de publicación de la presente ley tengan resolución de calificación ambiental favorable y tengan como antecedente el requerimiento de la Subsecretaría de Pesca para ingreso al Sistema de Evaluación de Impacto Ambiental, serán suspendidas en su tramitación hasta el 8 de abril de 2020, renovándose la tramitación sólo en el caso que los espacios solicitados no hayan sido otorgados en concesión de acuicultura producto de una solicitud de relocalización y cumplan los requisitos legales y reglamentarios vigentes.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

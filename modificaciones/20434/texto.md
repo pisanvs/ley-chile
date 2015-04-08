@@ -524,7 +524,7 @@ La Subsecretaría de Pesca deberá determinar, previo informe de la Autoridad Ma
 
 INCISO DEROGADO.
 
-Vencido el plazo de cinco años, contado desde la fecha de publicación de esta ley, en la Décima Región de Los Lagos y en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, sólo se otorgarán nuevas concesiones de acuicultura de peces en las áreas apropiadas para la acuicultura vigentes a la fecha de publicación de esta ley, en el evento de que existan nuevos espacios disponibles originados por la renuncia o declaración de caducidad de concesiones actualmente vigentes. Los espacios disponibles serán determinados por la Subsecretaría de Pesca previo informe técnico. Las nuevas concesiones se otorgarán de conformidad con las disposiciones de la presente ley y de los reglamentos vigentes a la fecha de otorgamiento.
+Vencido el plazo de diez años, contado desde la fecha de publicación de esta ley, en la Décima Región de Los Lagos y en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, sólo se otorgarán nuevas concesiones de acuicultura de peces en las áreas apropiadas para la acuicultura vigentes a la fecha de publicación de esta ley, en el evento de que existan nuevos espacios disponibles originados por la renuncia o declaración de caducidad de concesiones actualmente vigentes. Los espacios disponibles serán determinados por la Subsecretaría de Pesca previo informe técnico. Las nuevas concesiones se otorgarán de conformidad con las disposiciones de la presente ley y de los reglamentos vigentes a la fecha de otorgamiento.
 
 #### Artículo 3º
 
@@ -552,7 +552,7 @@ Vencido el plazo máximo señalado para que el Gobierno Regional proponga modifi
 
 #### Artículo 5º
 
-Los centros de cultivo de peces en las Regiones Décima de Los Lagos, y Undécima de Aysén del General Carlos Ibáñez del Campo y Duodécima de Magallanes y Antártica Chilena podrán relocalizarse, en la misma región, dentro de una agrupación de concesiones fijada por la Subsecretaría o el Servicio, según corresponda, o cambiarse a otra, cumpliendo con los siguientes requisitos:
+Los centros de cultivo de peces en las Regiones Décima de Los Lagos, y Undécima de Aysén del General Carlos Ibáñez del Campo podrán relocalizarse, en la misma región, dentro de una agrupación de concesiones fijada por la Subsecretaría o el Servicio, según corresponda, o cambiarse a otra, cumpliendo con los siguientes requisitos:
 
 a) Mantener el grupo de especies hidrobiológicas y área de la concesión autorizada.
 
@@ -560,11 +560,11 @@ b) Presentar una renuncia a la concesión de que es titular. En caso de no otorg
 
 c) La solicitud de concesión de reemplazo deberá ubicarse dentro de áreas apropiadas para el ejercicio de la acuicultura, dar cumplimiento a la zonificación del borde costero que establece esta ley y someterse a los requisitos establecidos en el artículo 79 de la Ley General de Pesca y Acuicultura.
 
-Toda relocalización de concesiones deberá someterse al Sistema de Evaluación de Impacto Ambiental.
+Toda relocalización de concesiones deberá someterse al Sistema de Evaluación de Impacto Ambiental y presentar un plan de abandono y cierre.
 
 La concesión de reemplazo quedará sometida al mismo régimen que la concesión original. Por el solo ministerio de la ley, la hipoteca que grave una concesión se extenderá a aquella que la reemplace de conformidad a lo previsto en el presente artículo, conservando la fecha de constitución de la hipoteca sobre la concesión original.
 
-El titular de dos o más concesiones de acuicultura podrá fusionarlas, sometiéndose a las condiciones antes señaladas. Asimismo, podrá dividir una concesión para fusionar una o más de sus fracciones a otras concesiones de su misma titularidad. En el caso de concesiones de acuicultura ubicadas en el Fiordo de Aisén o en la comuna de Chaitén de la Décima Región de Los Lagos, cada una de las fracciones que resulten de una división podrá ser objeto de relocalización. En estos casos se requerirá la autorización del acreedor hipotecario, si corresponde.
+El titular de dos o más concesiones de acuicultura podrá fusionarlas, sometiéndose a las condiciones antes señaladas. Asimismo, podrá dividir una concesión para fusionar una o más de sus fracciones a otras concesiones de su misma titularidad. En el caso de concesiones de acuicultura ubicadas en el Fiordo de Aisén o en la comuna de Chaitén de la Décima Región de Los Lagos, cada una de las fracciones que resulten de una división podrá ser objeto de relocalización, pero en ningún caso se podrá dar lugar a más de dos concesiones nuevas. En estos casos se requerirá la autorización del acreedor hipotecario, si corresponde.
 
 Para efectuar la relocalización y las fusiones, el reglamento podrá fijar una distancia inferior a la establecida en virtud del artículo 87 de la Ley General de Pesca y Acuicultura, entre los centros de cultivo integrantes de agrupaciones de concesiones.
 
@@ -575,6 +575,14 @@ Asimismo, tendrá preferencia en la relocalización la solicitud cuyo objeto sea
 En los casos en que exista superposición entre solicitudes de relocalización y exista una zonificación del borde costero aprobada por decreto supremo, se dará preferencia a aquella solicitud que implique la renuncia a una concesión de acuicultura ubicada en un sector definido de uso incompatible con la acuicultura y la relocalización en un sector definido de uso compatible con dicha actividad. En los demás casos, se estará al procedimiento general.
 
 Asimismo, se considerará que la concesión de acuicultura se encuentra en un área de uso incompatible con la acuicultura, conforme al criterio de incompatibilidad fijado mediante la zonificación del borde costero, cuando quede emplazada en un sector que sea declarado por la Subsecretaría como una franja de distancia obligatoria entre agrupaciones de concesiones o de macro zonas por razones sanitarias y con el solo mérito del acto que así lo establezca, de conformidad con el reglamento a que se refiere el artículo 86.
+
+#### Artículo 5º bis
+
+Los centros de cultivo de peces ubicados en la Duodécima Región de Magallanes y Antártica Chilena podrán relocalizarse en la misma región, conforme a lo indicado en los incisos primero a quinto del artículo anterior y sometiéndose a las condiciones específicas que se señalan en el presente artículo.
+
+Se dará preferencia a la solicitud de relocalización de la concesión ubicada en una franja de distancia obligatoria entre macro zonas establecidas de conformidad con el reglamento a que se refiere el artículo 86 de la ley Nº 18.892, General de Pesca y Acuicultura, frente a toda otra solicitud de concesión de acuicultura o de relocalización. Asimismo, se dará preferencia a las solicitudes de relocalización de concesiones que se ubiquen en aguas marítimas de parques nacionales, respecto a cualquier solicitud de concesión o de relocalización de concesión.
+
+En los casos en que dos o más solicitudes de relocalización gocen de la misma preferencia y se ubiquen en una misma área o en áreas cuya asignación conjunta resulte incompatible, se asignará la nueva concesión a la solicitud ingresada con fecha anterior al Servicio Nacional de Pesca y Acuicultura, rechazándose todas las demás. Con todo, en el caso antes señalado, si las solicitudes que gozan de preferencia corresponden a una solicitud de relocalización de concesión ubicada en una franja de distancia obligatoria entre macro zonas establecidas de conformidad con el reglamento a que se refiere el artículo 86 de la ley Nº 18.892, General de Pesca y Acuicultura, y una solicitud de relocalización de concesiones que se ubiquen en aguas marítimas de parques nacionales, gozará de preferencia entre ellas esta última.
 
 #### Artículo 6º
 
