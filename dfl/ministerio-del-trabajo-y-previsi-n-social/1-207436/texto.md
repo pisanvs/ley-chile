@@ -478,7 +478,7 @@ Exceptúanse de lo ordenado en los artículos anteriores los trabajadores que se
 
 8.- en calidad de deportistas profesionales o de trabajadores que desempeñan actividades conexas.
 
-Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal.
+Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal. En el caso de los trabajadores a que se refiere el número 7 del inciso anterior, sea cual fuere la jornada de trabajo en la que se desempeñen, las horas ordinarias trabajadas en día domingo deberán ser remuneradas con un recargo de, a lo menos, un 30%, calculado sobre el sueldo convenido para la jornada ordinaria. Dicho recargo deberá liquidarse y pagarse conjuntamente con las remuneraciones del respectivo período. El valor de la hora ordinaria y el recargo señalado serán la base de cálculo a efectos de la determinación, en su caso, del valor de la hora extraordinaria trabajada en dichos días domingo.
 
 Las empresas exceptuadas del descanso dominical deberán otorgar un día de descanso a la semana en compensación a las actividades desarrolladas en día domingo, y otro por cada festivo en que los trabajadores debieron prestar servicios, aplicándose la norma del artículo 36. Estos descansos podrán ser comunes para todos los trabajadores, o por turnos para no paralizar el curso de las labores.
 
@@ -491,6 +491,12 @@ Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo
 La vigencia de la resolución será por el plazo de cuatro años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de cuatro años.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
+
+#### Artículo 38 bis
+
+Sin perjuicio de lo señalado en el inciso cuarto del artículo anterior, los trabajadores a que se refiere el número 7 del inciso primero del mismo artículo gozarán, adicionalmente a ello, de siete días domingo de descanso semanal durante cada año de vigencia del contrato de trabajo. Solo mediante acuerdo escrito entre el empleador y los trabajadores, o con el o los sindicatos existentes, hasta tres de dichos domingos podrán ser reemplazados por días sábado, siempre que se distribuyan junto a un domingo también de descanso semanal. Este derecho al descanso dominical no podrá ser compensado en dinero, ni acumulado de un año a otro.
+
+Este artículo no se aplicará a los trabajadores contratados por un plazo de treinta días o menos, ni a aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
 
 #### Artículo 39
 
@@ -626,7 +632,7 @@ DE LA PROTECCION A LAS REMUNERACIONES
 
 #### Artículo 54
 
-Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas y los de casa particular.
+Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas.
 
 A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre.
 
@@ -1444,6 +1450,16 @@ Se aplicarán también las disposiciones de este capítulo a los choferes de cas
 
 > **Nota.** El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que la modificación de la presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
 
+#### Artículo 146 bis
+
+Sin perjuicio de lo dispuesto en el número 3 del artículo 10, el contrato de los trabajadores de casa particular deberá indicar el tipo de labor a realizar y el domicilio específico donde deberán prestarse los servicios, así como también, en su caso, la obligación de asistencia a personas que requieran atención o cuidados especiales.
+
+#### Artículo 146 ter
+
+El empleador deberá entregar una copia del contrato de trabajo debidamente firmado al trabajador. Asimismo, deberá registrarlo dentro de los quince días siguientes a su celebración en la sede o en el sitio electrónico de la respectiva Inspección del Trabajo, con indicación de las mismas estipulaciones pactadas, a fin de facilitar la fiscalización de la existencia de la relación laboral y de las condiciones de empleo. La Inspección del Trabajo mantendrá la reserva de la identidad de las partes y del domicilio en que se prestan los servicios y sólo podrá utilizar la información disponible para la finalidad de fiscalización o para proporcionarla a los tribunales de justicia, previo requerimiento.
+
+El empleador que sea requerido en el domicilio indicado por un inspector del trabajo en ejercicio de sus facultades de fiscalización, relativas a las condiciones laborales de los trabajadores de casa particular, podrá aceptar su ingreso a este domicilio o solicitar la fijación de otro día y hora para acudir a las dependencias de la Inspección del Trabajo con la documentación que le sea requerida.
+
 #### Artículo 147
 
 Las dos primeras semanas de trabajo se estimarán como período de prueba y durante ese lapso podrá resolverse el contrato a voluntad de cualquiera de las partes siempre que se dé un aviso con tres días de anticipación, a lo menos, y se pague el tiempo servido.
@@ -1464,21 +1480,23 @@ El descanso semanal de los trabajadores de casa particular que no vivan en la ca
 
 Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las siguientes normas:
 
-a) Tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
+a) Tendrán derecho a descanso semanal los días domingo.
 
-b) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
+c) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
 
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
+> **Nota.** El numeral 4 del la Ley 20786, publicada el 27-10-2014, introdujo la siguiente letra b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente. Esta letra entrara en vigencia el 21.11.2015
+
 #### Artículo 151
 
-La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
+La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes y en moneda de curso legal, sin que pueda comprender los alimentos y la habitación, los cuales siempre serán de cargo del empleador.
 
-La remuneración mínima en dinero de los trabajadores de casa particular estará sujeta a lo previsto en el inciso tercero del artículo 44 de este Código.
+> **Nota.** El numeral 5° b) del artículo único de la ley 20786, publicada el 27.10.2014, suprimió los incisos segundo, tercero y cuarto de la presente norma.
 
-Los trabajadores que no vivan en la casa del empleador y se desempeñen a jornadas parciales o presten servicios sólo algunos días a la semana, tendrán derecho a una remuneración mínima no inferior a la referida en el inciso anterior, proporcionalmente calculada en relación con la jornada o con los días de trabajo.
+#### Artículo 151 bis
 
-Las prestaciones de casa habitación y alimentación de los trabajadores de casa particular no serán imponibles para efectos previsionales.
+Ningún empleador podrá condicionar la contratación de trabajadores de casa particular, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, al uso de uniformes, delantales o cualquier otro distintivo o vestimenta identificadores en espacios, lugares o establecimientos públicos como parques, plazas, playas, restaurantes, hoteles, locales comerciales, clubes sociales y otros de similar naturaleza.
 
 #### Artículo 152
 
