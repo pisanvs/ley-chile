@@ -14,6 +14,36 @@ Disposiciones Generales
 
 El presente reglamento establece normas para la aplicación del artículo 2º de la ley Nº 20.773, sobre la integración, constitución y funcionamiento de los Comités Paritarios de Higiene y Seguridad de Faena Portuaria de las Empresas de Muellaje y de los Comités Paritarios de Higiene y Seguridad de Faena Portuaria, cuando en un mismo puerto presten servicios dos o más entidades empleadoras de las señaladas en el artículo 136 del Código del Trabajo.
 
+#### Artículo 2º
+
+La constitución y funcionamiento de los Comités Paritarios de Higiene y Seguridad de Faena Portuaria, se regirán por las normas contenidas en el DS Nº 54, de 1969, del Ministerio del Trabajo y Previsión Social, salvo respecto de aquellas materias reguladas expresamente en el presente reglamento:
+
+#### Artículo 3º
+
+Para los efectos de este reglamento se entenderá por:
+
+a) Entidad empleadora o empresa de muellaje, aquella que tiene por objeto efectuar la movilización de la carga entre la nave y los recintos portuarios a los medios de transporte terrestre y viceversa, y para cuya operación emplea a trabajadores portuarios permanentes y/o eventuales.
+
+b) Trabajador portuario, aquel trabajador que cumple funciones de carga y/o descarga de mercancías entre la nave o artefacto naval y los recintos portuarios a los medios de transporte terrestre y viceversa, como asimismo, los que laboran en faenas que aparezcan directa e inseparablemente relacionadas con las anteriores, tales como la movilización que se inicia y termina al interior de los aludidos recintos, la que se efectúa para el acopio o almacenaje de la descarga dentro de ellos, la que tiene lugar desde los recintos portuarios a la nave o artefacto naval y viceversa.
+
+c) Trabajador portuario eventual, aquel trabajador que presta servicios en virtud de un contrato de trabajo, cuya duración no sea superior a veinte días.
+
+d) Trabajador portuario permanente, aquel trabajador que presta servicios en virtud de un contrato de trabajo, regido por las reglas generales de la legislación laboral.
+
+e) Puerto, terminal o recinto portuario, aquel espacio terrestre legalmente determinado, delimitado y divisible, sea operativa o geográficamente, que comprende los muelles, frentes de atraque y terrenos e infraestructura, donde se efectúan labores de movilización y almacenamiento de carga y descarga de naves y artefactos navales, y demás faenas o funciones propias de la actividad portuaria.
+
+f) Frente de atraque, aquella infraestructura de un puerto que corresponde a un módulo operacionalmente independiente con uno o varios sitios y sus correspondientes áreas de respaldo, cuya finalidad es el atraque de buques, esencialmente para operaciones de transferencia de carga o descarga de mercaderías u otras actividades de naturaleza portuaria.
+
+g) Faena portuaria, aquella actividad que tenga por objeto efectuar la carga y descarga entre la nave, puerto, terminal, recinto portuario o frente de atraque, y los medios de transportes, y viceversa, sea que éstos se ejecuten por trabajadores portuarios permanentes y/o eventuales.
+
+#### Artículo 4°
+
+Para los fines del presente reglamento, se considerarán Comités Paritarios de Higiene y Seguridad de Faena Portuaria a los siguientes:
+
+a) Comités Paritarios de Higiene y Seguridad de Faena Portuaria de Empresas de Muellaje o Comités Paritarios de Empresas de Muellaje: aquellos que la empresa de muellaje respectiva se encuentra obligada a constituir en cada puerto, terminal o frente de atraque en que presten regularmente servicios, siempre que, sumados los trabajadores permanentes y eventuales de la misma entidad empleadora, trabajen habitualmente más de 25 personas, conforme al promedio mensual del año calendario anterior.
+
+b) Comités Paritarios de Higiene y Seguridad de Faena Portuaria de dos o más Empresas de Muellaje o Comités Paritarios de Puerto: aquellos que deben constituirse cuando en un mismo puerto presten servicios dos o más entidades empleadoras de las señaladas en el artículo 136 del Código del Trabajo, cuando en su conjunto ocupen más de 25 trabajadores, conforme al promedio mensual del año calendario anterior.
+
 ## Título II
 
 De la Integración, Constitución y Funcionamiento de los Comités Paritarios de Higiene y Seguridad de Faena Portuaria de Empresas de Muellaje
