@@ -474,13 +474,15 @@ El V.I. referencial del proyecto es de 81,91 millones de dólares, moneda de los
 
 El COMA referencial se establece en 1,23 millones de dólares (1,5% del V.I. referencial), moneda de los Estados Unidos de América.
 
-1.2 Línea 2x500 kV Pichirropulli - Puerto Montt, energizada en 220 kV
+1.2 Línea 2x500 kV Pichirropulli - Nueva Puerto Montt, energizada en 220 kV
 
 1.2.1 Descripción general y ubicación de la obra.
 
-El proyecto consiste en la construcción de una nueva línea de transmisión 2x500 kV Pichirropulli - Puerto Montt, energizada en 220 kV, incluyendo las obras necesarias en 220 kV en las subestaciones Puerto Montt y Pichirropulli.
+El proyecto consiste en la construcción de una nueva línea de transmisión 2x500 kV Pichirropulli - Nueva Puerto Montt, energizada en 220 kV, incluyendo las obras necesarias en 220 kV en las subestaciones Nueva Puerto Montt y Pichirropulli.
 
-El proyecto de detalle así como las bases de licitación definirán los requisitos mínimos que deberán cumplir las instalaciones, como capacidad térmica, reactores de línea, cable de guardia, entre otras.
+El proyecto incluye la construcción de la subestación seccionadora Nueva Puerto Montt y el seccionamiento de las líneas 2x220 kV Rahue - Puerto Montt en la nueva subestación.
+
+El proyecto de detalle así como las bases de licitación definirán los requisitos mínimos que deberán cumplir las instalaciones, como capacidad térmica (línea y barras), ubicación, equipamiento, espacios disponibles, reactores de línea, cable de guardia, entre otras.
 
 1.2.2 Equipos de alta tensión.
 
@@ -590,7 +592,7 @@ Los llamados a licitación serán públicos e internacionales y se efectuarán p
 
 a) Plazo para el llamado a licitación: a más tardar 30 días contados desde la publicación del decreto de plan de expansión en el Diario Oficial.
 
-b) Plazo para la adjudicación: a más tardar 360 días contados desde el inicio del proceso de licitación.
+b) Plazo para la adjudicación: a más tardar 450 días contados desde el inicio del proceso de licitación.
 
 c) Plazo de inicio de las obras: a más tardar 30 días contados desde la publicación en el Diario Oficial del respectivo decreto de adjudicación que establece el artículo 97 de la ley.
 
@@ -751,6 +753,10 @@ Todos los costos derivados de compra de terrenos, expropiaciones y otros similar
 Las Bases deberán establecer que la responsabilidad directa por el cumplimiento de la normativa ambiental aplicable a los proyectos es de los proponentes que resulten adjudicados y que, en consecuencia, éstos deben contemplar el cumplimiento de estos aspectos al formular los plazos de ejecución de los proyectos.
 
 Asimismo, todos los costos derivados del cumplimiento de la normativa ambiental, aplicable a los proyectos, son de cargo de los adjudicatarios, y deberán internalizarlos en sus ofertas económicas.
+
+> **Nota.** El Numeral 1° del Decreto 134 Exento, Energía, publicado el 07.04.2015, modifica la presente norma en el sentido de reemplazar la expresión "Puerto Montt" por "Nueva Puerto Montt"
+
+> **Nota.** NOTA 1 El Numeral 6° del Decreto 134 Exento, Energía, publicado el 07.04.2015, modifica la presente norma en el sentido de reemplazar la expresión "Puerto Montt" por "Nueva Puerto Montt"
 
 #### Artículo tercero
 
