@@ -38,41 +38,31 @@ Fíjanse las siguientes fórmulas tarifarias para calcular los precios máximos 
 
 1.1. Definición de las Fórmulas Tarifarias
 
-1.1.1. Cargo fijo mensual por cliente
-
-($/mes): CFCL
+1.1.1. Cargo fijo mensual por cliente ($/mes): CFCL
 
 CFCL = CF * IN1
 
-1.1.2. Cargo variable por consumo de
+1.1.2. Cargo variable por consumo de agua potable en
 
-agua potable en período no
-
-punta($/m³): CVAP
+período no punta ($/m³): CVAP
 
 CVAP = CV1 * IN2 + CV4 * IN5
 
-1.1.3. Cargo variable por consumo de
+1.1.3. Cargo variable por consumo de agua potable en
 
-agua potable en período punta
-
-($/m³): CVAPP
+período punta ($/m³): CVAPP
 
 CVAPP = CV2 * IN3 + CV5 * IN6
 
-1.1.4. Cargo variable por sobreconsumo
+1.1.4. Cargo variable por sobreconsumo de agua
 
-de agua potable en período punta
-
-($/m³): CVAPP2
+potable en período punta ($/m³): CVAPP2
 
 CVAPP2 = CV3 * IN4 + CV6 * IN7
 
-1.1.5. Cargo variable por servicio de
+1.1.5. Cargo variable por servicio de alcantarillado
 
-alcantarillado de aguas servidas
-
-($/m³): CVAL
+de aguas servidas ($/m³): CVAL
 
 CVAL = CV7 * IN8 + CV8 * IN9
 
@@ -104,69 +94,53 @@ INi = ai * IIPC + bi * IIPMII + ci * IIPMNI
 
 Donde:
 
-IIPC: Índice del Índice de Precios
+IIPC: Índice del Índice de Precios al Consumidor, o el
 
-al Consumidor, o el que lo
+que lo reemplace, calculado como IPC/IPCo, en que
 
-reemplace, calculado como IPC/IPCo,
+IPC es el Índice de Precios al Consumidor,
 
-en que IPC es el Índice de Precios
+publicado por el INE e IPCo el correspondiente a
 
-al Consumidor, publicado por el INE
-
-e IPCo el correspondiente a diciembre
-
-de 2011, IPCo = 107,02 (Base, anual
+diciembre de 2011, IPCo = 107,02 (Base, anual
 
 2009=100).
 
-IIPMII: Índice del Índice de Precios al
+IIPMII: Índice del Índice de Precios al por Mayor de
 
-por Mayor de Productos Importados
+Productos Importados Categoría Industrias
 
-Categoría Industrias Manufactureras,
+Manufactureras, o el que lo reemplace, calculado
 
-o el que lo reemplace, calculado
+como IPMII/IPMIIo, en que IPMII es el Índice de
 
-como IPMII/IPMIIo, en que IPMII es
+Precios al por Mayor de Productos Importados
 
-el Índice de Precios al por Mayor
+Categoría Industrias Manufactureras, publicado
 
-de Productos Importados Categoría
+por el INE e IPMIIo el correspondiente a
 
-Industrias Manufactureras, publicado
-
-por el INE e IPMIIo el
-
-correspondiente a diciembre de
-
-2011, IPMIIo = 115,55 (Base,
+diciembre de 2011, IPMIIo = 115,55 (Base,
 
 noviembre 2007=100).
 
-IIPMNI: Índice del Índice de Precios
+IIPMNI: Índice del Índice de Precios al por Mayor de
 
-al por Mayor de Productos Nacionales
+Productos Nacionales Categoría Industrias
 
-Categoría Industrias Manufactureras,
+Manufactureras, o el que lo reemplace, calculado
 
-o el que lo reemplace, calculado
+como IPMNI/IPMNIo, en que IPMNI es el Índice de
 
-como IPMNI/IPMNIo, en que IPMNI
+Precios al por Mayor de Productos Nacionales
 
-es el Índice de Precios al por Mayor
+Categoría Industrias Manufactureras, publicado
 
-de Productos Nacionales Categoría
+por el INE e IPMNIo el correspondiente a
 
-Industrias Manufactureras, publicado
+diciembre de 2011, IPMNIo = 119,70 (Base,
 
-por el INE e IPMNIo el
-
-correspondiente a diciembre de
-
-2011, IPMNIo = 119,70
-
-(Base, noviembre 2007=100).
+noviembre 2007=100).
 
 A continuación se indican los valores de ai, bi y ci, para el respectivo INi.
 
@@ -198,41 +172,23 @@ Para la aplicación de este incremento se requiere previamente la autorización 
 
 . Sea posterior al 01.01.2017, y
 
-. La ejecución de las obras
+. La ejecución de las obras consideradas en su
 
-consideradas en su Plan de
+Plan de Desarrollo para dar cumplimiento a la
 
-Desarrollo para dar
+norma de arsénico o que hayan sido instruidas
 
-cumplimiento a la norma de
+por la Superintendencia de Servicios Sanitarios
 
-arsénico o que hayan sido
+para dar cumplimiento a la calidad de servicio,
 
-instruidas por la
+según corresponda. Cuando no existan obras
 
-Superintendencia de
+comprometidas en el Plan de Desarrollo o la
 
-Servicios Sanitarios
+Superintendencia no hubiere instruido al
 
-para dar cumplimiento a
-
-la calidad de servicio,
-
-según corresponda. Cuando
-
-no existan obras
-
-comprometidas en el Plan
-
-de Desarrollo o la
-
-Superintendencia no
-
-hubiere instruido al
-
-respecto, deberá verificar
-
-el cumplimiento de la
+respecto, deberá verificar el cumplimiento de la
 
 norma NCH409.
 
@@ -254,41 +210,25 @@ Para la aplicación de este incremento se requiere previamente la autorización 
 
 . Sea posterior al 01.01.2017, y
 
-. La ejecución de las obras
+. La ejecución de las obras consideradas en su
 
-consideradas en su Plan de
+Plan de Desarrollo para dar cumplimiento a la
 
-Desarrollo para dar
+norma de arsénico o que hayan sido instruidas
 
-cumplimiento a la norma de
+por la Superintendencia de Servicios Sanitarios
 
-arsénico o que hayan sido
+para dar cumplimiento a la calidad de servicio,
 
-instruidas por la
+según corresponda. Cuando no existan obras
 
-Superintendencia de
+comprometidas en el Plan de Desarrollo o la
 
-Servicios Sanitarios para
+Superintendencia no hubiere instruido al
 
-dar cumplimiento a
+respecto, deberá verificar el cumplimiento de la
 
-la calidad de servicio,
-
-según corresponda. Cuando no
-
-existan obras comprometidas
-
-en el Plan de Desarrollo
-
-o la Superintendencia
-
-no hubiere instruido al
-
-respecto, deberá
-
-verificar el cumplimiento
-
-de la norma NCH409.
+norma NCH409.
 
 2.4. Cargo variable por servicio de sobreconsumo de agua potable en período punta
 
@@ -308,39 +248,25 @@ Para la aplicación de este incremento se requiere previamente la autorización 
 
 . Sea posterior al 01.01.2017, y
 
-. La ejecución de las obras
+. La ejecución de las obras consideradas en su
 
-consideradas en su Plan de
+Plan de Desarrollo para dar cumplimiento a la
 
-Desarrollo para dar
+norma de arsénico o que hayan sido instruidas
 
-cumplimiento a la norma de
+por la Superintendencia de Servicios Sanitarios
 
-arsénico o que hayan sido
+para dar cumplimiento a la calidad de servicio,
 
-instruidas por la
+según corresponda. Cuando no existan obras
 
-Superintendencia de Servicios
+comprometidas en el Plan de Desarrollo o la
 
-Sanitarios para dar
+Superintendencia no hubiere instruido al
 
-cumplimiento a la calidad
+respecto, deberá verificar el cumplimiento de la
 
-de servicio, según corresponda.
-
-Cuando no existan obras
-
-comprometidas en el Plan
-
-de Desarrollo o la
-
-Superintendencia no hubiere
-
-instruido al respecto, deberá
-
-verificar el cumplimiento
-
-de la norma NCH409.
+norma NCH409.
 
 2.5. Cargo variable por servicio de alcantarillado de aguas servidas
 
@@ -350,59 +276,31 @@ SubGrupo 1: En el sistema de Arica, para el servicio de alcantarillado de aguas 
 
 SubGrupo 2: En los sistemas en los que exista el servicio de alcantarillado de aguas servidas, el cargo CV8 se incrementará en $CAT2 x FAT, considerando, para este efecto, las siguientes dos situaciones:
 
-Situación inicial: Considera los
+Situación inicial: Considera los sistemas de las
 
-sistemas de las
+localidades de Iquique, Pozo
 
-localidades de
+Almonte, La Tirana, Huara, Pica y
 
-Iquique, Pozo
+Matilla.
 
-Almonte,
+Situación final: Se aplica cuando se agregan las
 
-La Tirana,
+localidades de La Huayca y/o
 
-Huara, Pica
+Pisagua a las localidades
 
-y Matilla.
+consideradas en la Situación
 
-Situación final: Se aplica cuando
+Inicial, esto es, cuando se
 
-se agregan las
+complete la construcción y puesta
 
-localidades
+en marcha del alcantarillado y
 
-de La Huayca
+tratamiento de aguas servidas de
 
-y/o Pisagua
-
-a las localidades
-
-consideradas
-
-en la Situación
-
-Inicial, esto es,
-
-cuando se complete
-
-la construcción
-
-y puesta
-
-en marcha del
-
-alcantarillado
-
-y tratamiento
-
-de aguas
-
-servidas de
-
-estas
-
-localidades.
+estas localidades.
 
 Donde CAT1, CAT2, se definen como el Cargo Adicional por Tratamiento (CAT) de aguas servidas, cuyos valores son los siguientes:
 
@@ -448,39 +346,21 @@ Valores asociados a la cantidad de horas de muestreo:
 
 Valores por tipo de análisis:
 
-Tipo de Análisis $ / Análisis
-
-Grupo 1 2.185
-
-Grupo 2 5.574
-
-Grupo 3 9.586
-
-Grupo 4 7.031
-
-Grupo 5 6.019
-
-Grupo 6 8.806
-
-Grupo 7 40.129
+.
 
 La definición de los grupos es la siguiente:
 
 Grupo 1: Ph y temperatura.
 
-Grupo 2: Sólidos suspendidos y
+Grupo 2: Sólidos suspendidos y sólidos
 
-sólidos sedimentables.
+sedimentables.
 
-Grupo 3: DBO5, aceites y grasas,
+Grupo 3: DBO5, aceites y grasas, CN y B.
 
-CN y B.
+Grupo 4: Cd, Ni, Pb, Zn, Cu, Al, Mn, Cr total,
 
-Grupo 4: Cd, Ni, Pb, Zn, Cu, Al,
-
-Mn, Cr total, Cr+6, Ptotal,
-
-Nitrógeno amoniacal,
+Cr+6, Ptotal, Nitrógeno amoniacal,
 
 sulfuros, sulfatos.
 
@@ -510,53 +390,27 @@ El índice IN10 corresponde a lo definido en el punto 1.3 de este decreto.
 
 La empresa podrá cobrar por concepto de corte y reposición del suministro a usuarios morosos los siguientes cargos en las instancias que se indican:
 
-Visita por Corte: Opera cuando
+Visita por Corte: Opera cuando el prestador,
 
-el prestador,
+concurriendo al domicilio en
 
-concurriendo
+mora, le concede último plazo de
 
-al domicilio
+pago de a lo menos 3 días.
 
-en mora, le
+1a Instancia: Cargo por corte y reposición normal en
 
-concede último
+llave de paso.
 
-plazo de pago
+2a Instancia: Cargo por corte y reposición con retiro
 
-de a lo menos
+de pieza en llave de paso o
 
-3 días.
+alternativamente instalando un
 
-1a Instancia: Cargo por corte y
+dispositivo especial de bloqueo de la
 
-reposición normal
-
-en llave de paso.
-
-2a Instancia: Cargo por corte y
-
-reposición con
-
-retiro de pieza
-
-en llave de paso
-
-o alternativamente
-
-instalando un
-
-dispositivo
-
-especial de
-
-bloqueo de la
-
-llave de paso,
-
-o utilizando
-
-obturador u
+llave de paso, o utilizando obturador u
 
 otro mecanismo.
 
@@ -592,43 +446,35 @@ El índice IN14 corresponde al definido en el punto 1.3 de este decreto.
 
 Los montos máximos a cobrar por concepto de aportes de financiamiento reembolsables por capacidad serán los siguientes:
 
-4.1.1. Aportes de financiamiento
+4.1.1. Aportes de financiamiento reembolsables por
 
-reembolsables por capacidad
-
-de producción de agua potable
+capacidad de producción de agua potable
 
 ($/m³): AFRP.
 
 AFRP = CCP*IN15
 
-4.1.2. Aportes de financiamiento
+4.1.2. Aportes de financiamiento reembolsables por
 
-reembolsables por capacidad
+capacidad de distribución de agua potable
 
-de distribución de agua
-
-potable ($/m³): AFRD.
+($/m³): AFRD.
 
 AFRD = CCD*IN16
 
-4.1.3. Aportes de financiamiento
+4.1.3. Aportes de financiamiento reembolsables por
 
-reembolsables por capacidad
+capacidad de recolección de aguas servidas
 
-de recolección de aguas
-
-servidas ($/m³): AFRR.
+($/m³): AFRR.
 
 AFRR = CCR*IN17
 
-4.1.4. Aportes de financiamiento
+4.1.4. Aportes de financiamiento reembolsables por
 
-reembolsables por capacidad
+capacidad de disposición de aguas servidas
 
-de disposición de aguas
-
-servidas($/m³): AFRT.
+($/m³): AFRT.
 
 AFRT = CCT*IN18
 
@@ -733,10 +579,6 @@ Los niveles de calidad para las atenciones de emergencias son los establecidos e
 Las fórmulas tarifarias a que se refiere este decreto, se aplicarán a los consumos que se determinen de las lecturas realizadas a contar del 4 de marzo del año 2013, las que tendrán una vigencia de cinco años.
 
 Sin perjuicio de las reliquidaciones a las que haya lugar conforme a lo dispuesto en el artículo 12º del DFL MOP Nº 70/88, déjese sin efecto el decreto del Ministerio de Economía, Fomento y Reconstrucción Nº 8/2008, a partir del 4 de marzo del año 2013.
-
-> **Nota.** El Decreto 5, Economía, publicado el 21.02.2018, modifica la presente norma en el sentido de prorrogar el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas del Altiplano S.A., por otro período de cinco años contados a partir del 4 de marzo de 2018.
-
-> **Nota.** NOTA 1 El artículo primero del Decreto 24 Exento, Economía, publicado el 15.04.2023, modifica la presente norma en el sentido de prorrogar el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas del Altiplano S.A., por otro período de cinco años, contados a partir del 4 de marzo de 2023.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
 
