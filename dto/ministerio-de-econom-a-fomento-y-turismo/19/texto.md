@@ -382,10 +382,6 @@ Sin perjuicio de las reliquidaciones que sean procedentes conforme a lo dispuest
 
 - Decreto N°78/2007.
 
-> **Nota.** El Decreto 208, Economía, publicado el 10.01.2017, prorroga el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas Magallanes S.A. fijadas en el presente Decreto, por otro período de cinco años contados a partir del 18 de diciembre de 2016.
-
-> **Nota.** NOTA 1 El numeral 1 del Decreto 21 Exento, Economía, publicado el 30.11.2021, prorroga el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas Magallanes S.A., fijadas en el presente Decreto, por otro período de cinco años contados a partir del 18 de diciembre de 2021.
-
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Tomás Flores Jaña, Subsecretario de Economía y Empresas de Menor Tamaño.

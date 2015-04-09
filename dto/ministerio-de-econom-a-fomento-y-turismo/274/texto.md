@@ -482,10 +482,6 @@ Sin perjuicio de las reliquidaciones a que haya lugar conforme a lo dispuesto en
 
 - Decreto N°320/2005, a partir del 6 de enero del año 2011.
 
-> **Nota.** El Decreto 203, Economía, publicado el 03.03.2016, modifica la presente norma en el sentido de prorrogar el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas Araucanía S.A. fijadas en el presente Decreto, por otro período de cinco años contados a partir del 6 de enero de 2016.
-
-> **Nota.** NOTA 1 El Decreto 104 Exento, Economía, publicado el 16.09.2021, modifica la presente norma en el sentido de prorrogar el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Aguas Araucanía S.A. fijadas en el presente Decreto, por otro período de cinco años, contados a partir del 6 de enero de 2021.
-
 Anótese, tómese razón y publíquese.- "Por orden del Presidente de la República".- Juan Andrés Fontaine Talavera, Ministro de Economía, Fomento y Turismo.
 
 Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Tomás Flores Jaña, Subsecretario de Economía y Empresas de Menor Tamaño.
