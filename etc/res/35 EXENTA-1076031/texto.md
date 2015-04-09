@@ -1,0 +1,5 @@
+AUTORIZA DELEGAR FACULTADES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 35 del 1 de abril de 2015, que autoriza a los Directores Regionales de las I Dirección Regional Iquique, II Dirección Regional Antofagasta, III Dirección Regional Copiapó, y XII Dirección Regional Punta Arenas, para delegar en los funcionarios que se especifican en cada caso, la facultad de aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nos 15 y 16 y en el artículo 109, ambos del Código Tributario, cuando no se haya reclamado de ellas, como asimismo, para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de abril de 2015.
