@@ -50,8 +50,6 @@ Resolución:
 
 1. Comprométanse los recursos para la selección del Llamado Extraordinario para Damnificados dispuesto por la resolución exenta Nº 544, de 2014 y sus modificaciones, de esta Seremi, según la distribución señalada en el siguiente cuadro:
 
-.
-
 2. Fíjese el número de postulantes seleccionados en la Región de Tarapacá de acuerdo a la distribución regional de recursos consignada en el resuelvo número 14º para los proyectos que se financiarán conforme lo dispone el resuelvo 15º, ambos de la resolución exenta Nº955 (V. y U.) de 2014, y sus modificaciones, y según se indica en la tabla que a continuación se inserta:
 
 .
