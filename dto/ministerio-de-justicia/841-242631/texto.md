@@ -382,6 +382,8 @@ Complejidad
 
 Para el cálculo del monto a transferir por valor base fijo, se considerará la parte del valor unitario base indicada en el presente artículo más los factores que correspondan conforme al Párrafo V del presente Título, todo ello multiplicado por el número de plazas convenidas. En el caso del valor base variable, la parte del valor unitario indicado en este precepto más los factores correspondientes se multiplicarán por el número de niños atendidos en el mes, los que simultáneamente no podrán superar las plazas convenidas. Dará lugar al pago íntegro de la subvención por niño atendido la intervención del niño, niña o adolescente por el mes completo, de lo contrario únicamente se pagará la fracción del valor correspondiente.
 
+El valor base de la USS se incrementará progresivamente en un 7%, 10%, 10% y 10%, durante los años 2012, 2013, 2014 y 2015, respectivamente y en forma proporcional en sus valores fijo y variable, hasta completar el valor base indicado en conformidad con la siguiente tabla:
+
 Párrafo Tercero. Diagnóstico
 
 #### Artículo 31
@@ -608,6 +610,10 @@ Valor Base Criterio a Aplicar
 
 9,3 USS mensual Zona
 
+Para aquellos programas que desarrollen como modalidad la atención de niños, niñas y adolescentes en explotación sexual comercial infantil, el valor base se incrementará progresivamente en un 20%, 17% y 15%, durante los años 2014, 2015 y 2016, respectivamente, hasta completar el valor base indicado en conformidad con la siguiente tabla:
+
+.
+
 d.3) Programa de Fortalecimiento Familiar:
 
 Valor Base Criterio a Aplicar
@@ -628,9 +634,31 @@ e.2) Programa de Familias de Acogida Especializada
 
 Valor Base Factores
 
-6,7 USS mensual Zona
+Zona
 
 Complejidad
+
+El valor base de la
+
+USS se incrementará
+
+progresivamente en un
+
+12%, 9%, y 10%, durante
+
+los años 2014, 2015 y
+
+2016 respectivamente,
+
+hasta completar el
+
+valor base indicado
+
+en conformidad con la
+
+siguiente tabla:
+
+.
 
 e.3) Programa de Familias de Acogida para niños, niñas y adolescentes con discapacidad
 
@@ -643,6 +671,10 @@ Discapacidad
 f) Programa de emergencia.
 
 Este programa se pagará conforme a lo señalado en el artículo anterior y con el tope máximo previsto en el artículo 30 de la ley Nº 20.032. No serán aplicables a estos programas los criterios previstos en el artículo 29 del mismo cuerpo legal para los efectos de incrementar el valor de la subvención.
+
+> **Nota.** El numeral 1° del artículo 1° del Decreto 806, Justicia, publicada el 09.04.2015, modifica la presente norma en el sentido de sustituir la frase "Programa de Apoyo Psicosocial para adolescentes privados de libertad" por la frase "Programa de Apoyo Psicosocial para adolescentes privados de libertad y en el medio libre".
+
+> **Nota.** NOTA 1 El numeral 2° del artículo 1° del Decreto 806, Justicia, publicada el 09.04.2015, modifica la presente norma en el sentido de sustituir la frase "Línea de atención de apresto laboral para adolescentes privados de libertad" por la frase "Línea de atención de apresto y capacitación laboral para adolescentes privados de libertad y en el medio libre".
 
 Párrafo Quinto. De los Criterios
 
