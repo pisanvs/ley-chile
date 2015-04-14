@@ -2476,7 +2476,7 @@ No se consideran a la vista los depósitos en cuentas de ahorro a plazo, que par
 
 3.- Renovaciones automáticas.
 
-Según lo indicado en el Capítulo III.B.1, las renovaciones automáticas de depósitos o captaciones deben pactarse estableciendo un plazo de tres días hábiles bancarios a contar del vencimiento para su retiro, luego del cual se entenderá renovado desde la fecha de vencimiento y por un plazo idéntico al primitivo.
+Según lo indicado en el Capítulo III.B.1, las renovaciones automáticas de depósitos o captaciones deben pactarse estableciendo un plazo para su retiro que comprenda los tres días hábiles bancarios siguientes al día de su vencimiento. Luego de dicho plazo, se entenderá renovado desde la misma fecha de vencimiento y por un plazo idéntico al primitivo.
 
 Cada vez que los bancos efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
 
