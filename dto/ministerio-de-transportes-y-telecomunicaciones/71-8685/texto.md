@@ -22,25 +22,215 @@ Decreto:
 
 Apruébase el siguiente Plan de Radiodifusión Televisiva, de cuyo cumplimiento corresponde velar a la Subsecretaría de Telecomunicaciones.
 
+PARTE I: PLAN DE TELEVISIÓN DIGITAL (Plan TVD)
+
+## Título I
+
+Objeto, alcance y definiciones
+
+#### Artículo 1º
+
+El presente plan (en adelante Plan TVD) tiene por objeto establecer un ordenamiento de las frecuencias destinadas al Servicio de Radiodifusión Televisiva Digital, con el propósito de lograr un uso racional y eficiente del espectro radioeléctrico, así como establecer los parámetros técnicos de planificación y control de dicho servicio. Asimismo, a fin de conseguir un tránsito ordenado y un eficiente uso del espectro radioeléctrico en el proceso de digitalización de la televisión, el presente Plan TVD regula además los procedimientos y normas para definir las frecuencias de reemplazo de las concesiones de televisión analógica que se digitalicen y para nuevas concesiones de televisión digital.
+
+#### Artículo 2º
+
+Para efectos de la aplicación del Plan TVD, los términos que se indican a continuación tendrán el siguiente significado:
+
+a) Canal de radiofrecuencia de televisión digital: Elemento mínimo de la canalización destinada a radiodifusión televisiva digital, cuyo ancho de banda nominal es de 6 MHz.
+
+b) Clasificación de concesionarias:
+
+b.1) Nacionales: Aquellas que sean titulares de concesiones que, consideradas en su conjunto, contemplen cualquier nivel de presencia en más del 50% de las regiones del país, sin que para ello se exija una cobertura geográfica continua.
+
+b.2) Regionales: Aquellas que sean titulares de concesiones que, consideradas en su conjunto, contemplen cualquier nivel de presencia en una o más regiones, pero en no más del 50% de las regiones del país. En caso de presencia en sólo una región, dichas concesiones deberán comprender, dentro de su zona de servicio, un alcance efectivo igual o superior al 25% de la población regional, o una cobertura igual o superior al 50% de las comunas de dicha región, sin que para ello se exija una cobertura geográfica continua.
+
+b.3) Locales: Aquellas que sean titulares de concesiones que, consideradas en su conjunto, contemplen presencia en sólo una región, comprendiendo dentro de ella un alcance efectivo inferior al 25% de su población y con una cobertura inferior al 50% de las comunas de dicha región.
+
+b.4) Locales de carácter comunitario: Aquellas personas jurídicas de derecho privado, sin fines de lucro, que sean titulares de una sola concesión dentro de los márgenes de presencia establecidos para las concesionarias de cobertura local y que no podrán formar cadenas ni redes de manera permanente. Dichas concesionarias deberán velar por la promoción del desarrollo social y local, debiendo dar cabida a aquella producción realizada por grupos sociales o personas que residan en la zona de cobertura de su concesión. Podrán ser concesionarias locales de carácter comunitario las juntas de vecinos y demás organizaciones comunitarias constituidas de conformidad a la Ley 19.418, las comunidades agrícolas y las comunidades y asociaciones indígenas, entre otros. No podrán ser concesionarias locales de carácter comunitario las organizaciones político partidistas.
+
+c) Estación de relleno (Gapfiller): Estación retransmisora de baja potencia destinada a reforzar la señal al interior de la respectiva zona de servicio.
+
+d) Definición de señales HD y SD: Alta Definición (HD): resolución 1280x720, barrido progresivo, y 1920x1080, barrido interlineado. Definición Estándar (SD): resolución 720x480, barrido interlineado.
+
+e) Full-seg: Operación con los 13 segmentos en que el sistema ISDB-T distribuye la información de video, audio y datos, que permite la transmisión de la información a receptores fijos y móviles.
+
+f) Número virtual del canal: Número identificador empleado por los televidentes para sintonizar un canal digital, que podrá ser único, acorde a las categorías regional o nacional.
+
+g) One-seg: Operación con el segmento central de los 13 segmentos destinado a la transmisión de audio, video y datos a receptores móviles.
+
+h) Señal primaria o principal: Es la primera señal en ser exhibida cuando se selecciona un canal de radiofrecuencias. Las restantes señales del mismo canal se denominan secundarias.
+
+i) Solución complementaria: Aquella que permite a las concesionarias con cobertura nacional el empleo, como parte de las respectivas concesiones de que sean titulares, de medios complementarios a los establecidos en el Plan TVD para la prestación del servicio de televisión de libre recepción a fin de alcanzar las coberturas exigidas en zonas geográficamente aisladas o de difícil recepción, con una calidad acorde a lo señalado en el artículo 8º del Plan TVD. Estas soluciones podrán agregar elementos adicionales al receptor comercial normado para el servicio de televisión de libre recepción, pero no podrán afectar el carácter libre y directo de las transmisiones para los usuarios, debiendo las concesionarias garantizar que los receptores requeridos estén habilitados para recibir la totalidad de las señales, principales y secundarias, que tengan cobertura nacional en la respectiva zona de servicio y opten por implementar soluciones complementarias.
+
+j) Zona de cobertura: Zona asociada a una estación transmisora en el interior de la cual se puede recepcionar televisión digital sin que se garantice protección contra interferencias.
+
+k) Zona de servicio: Parte de la zona de cobertura, asociada a una estación transmisora, dentro de la cual se puede recepcionar televisión digital debiendo cumplirse con las relaciones de protección establecidas en el Plan TVD y en la que, por ende, se garantiza protección contra interferencias. La zona de servicio tendrá una tolerancia de hasta un 30% en la dirección de máxima radiación que permita, sin riesgos de interferencias perjudiciales y sin desvirtuar el proyecto técnico que se tuvo presente en la asignación de la concesión, grados de libertad para modificar la ubicación de la estación transmisora y/o las características técnicas del sistema radiante.
+
+l) Zona de sombra: Zona que, estando inmersa en la zona de servicio, debido a las particularidades del entorno, presenta intensidades de campo eléctrico inferior a la intensidad de campo eléctrico que define el contorno de la zona de servicio.
+
+El significado de los términos técnicos empleados en el Plan TVD que no se encuentren definidos en este artículo será el que les otorgue el Plan General de Uso del Espectro Radioeléctrico, las normas técnicas dictadas por la Subsecretaría de Telecomunicaciones, en adelante e indistintamente la Subsecretaría, los estándares ABNT NBR relativos a televisión digital, los acuerdos del FORO ISDB-T Internacional o la Unión Internacional de Telecomunicaciones, en el mismo orden de prelación en que dichas fuentes se citan.
+
+## Título II
+
+Reserva de frecuencias para televisión digital
+
+#### Artículo 3º
+
+De acuerdo a lo establecido en el Plan General de Uso del Espectro Radioeléctrico y lo dispuesto en decreto supremo Nº 136, de 2009, del Ministerio de Transportes y Telecomunicaciones, y resolución exenta Nº 7.219, de 2009, de la Subsecretaría de Telecomunicaciones, se reserva para el servicio de radiodifusión televisiva digital los canales de la banda UHF que se señalan en el Cuadro Nº 1.
+
+Cuadro Nº 1 Canales banda UHF
+
+Las frecuencias señaladas en el presente artículo serán reservadas para la transición de las concesiones de radiodifusión televisiva analógicas a la tecnología digital y para el otorgamiento de futuras concesiones, estas últimas, de acuerdo a lo que establezca el Consejo Nacional de Televisión de conformidad al inciso segundo del artículo 50º de la Ley Nº 18.838.
+
+## Título III
+
+Aspectos técnicos
+
+#### Artículo 4º
+
+La zona de servicio de una estación transmisora de televisión digital será la zona geográfica en torno a ella delimitada por el contorno cuya intensidad de campo eléctrico sea de 48 dBµV/m para la banda UHF1, sin exceder los 60 km medidos desde la estación transmisora. Para efectos de cálculo y planificación, el valor de la intensidad del campo eléctrico al modelar teóricamente el sistema se considerará el 90% de las ubicaciones y el 50% del tiempo, con una antena de recepción externa a 10 metros de altura. La potencia del transmisor será la mínima necesaria para atender la respectiva zona de servicio.
+
+Sin perjuicio de lo anterior, para las concesionarias de categoría nacional, en las áreas que cuenten con Plan Regulador Metropolitano, también deberá darse cumplimiento a un segundo contorno, denominado contorno urbano, que estará delimitado por el valor de la intensidad del campo eléctrico de 66 dBµV/m, calculado para el 90% de las ubicaciones y el 50% del tiempo, con una antena de recepción externa a 10 metros de altura. Este contorno contendrá a lo menos el 90% de la parte urbana definida por el instrumento de planificación territorial de la zona de servicio de la concesión respectiva, sin exceder los 15 km medidos desde la estación transmisora, en la dirección de máxima radiación.
+
+--------------------------------------------------------------------------------------------------
+
+1 Para establecer el valor del contorno de la zona de sercvicio y de las relaciones de protección, se considera señales con modulación digital 64 QAM, Modo 3 (ISDB-T), FEC 3/4 y una antena receptora de 10 dBd.
+
+#### Artículo 5º
+
+Dentro de la zona de servicio se deberá cumplir con las relaciones de protección establecidas en el artículo 15º del Plan TVD. A su vez, las zonas al exterior del contorno de la zona de servicio que, por particularidades topográficas, tengan un valor de intensidad de campo eléctrico igual o superior al señalado en el inciso primero del artículo 4º, no serán consideradas parte de la zona de servicio y, por ende, no tendrán protección contra interferencias.
+
+#### Artículo 6º
+
+Las concesionarias podrán instalar estaciones de relleno, las que formarán parte de la concesión, emplearán la misma frecuencia de la estación cuya zona de servicio se rellena y no deberán alterar el contorno de esta última. Será de exclusiva responsabilidad de la concesionaria no afectar la calidad de la recepción en el resto de su zona de servicio.
+
+Las anteriores estaciones de relleno se incorporarán a la concesión a través de los correspondientes procedimientos de otorgamiento o modificación establecidos en la Ley Nº 18.838, debiendo pronunciarse acerca de aquella el correspondiente informe técnico de la Subsecretaría.
+
+#### Artículo 7º
+
+Para fines de estimación de la zona de servicio, se empleará el método de cálculo basado en el modelo de predicción de propagación descrito en la Recomendación P.1546-4 de la UIT-R, de acuerdo al detalle que se establezca mediante normativa complementaria. En caso de diferencias entre los resultados propuestos por la postulante o concesionaria, según el caso, y los obtenidos por la Subsecretaría, primarán estos últimos.
+
+#### Artículo 8º
+
+Las concesionarias deberán adoptar las medidas técnicas que aseguren la calidad de recepción de su señal dentro de su zona de servicio, cumpliendo con los parámetros establecidos en el Plan TVD y en la normativa técnica complementaria que dicte la Subsecretaría. Asimismo, las señales HD y SD deberán cumplir, según el caso, con los estándares mínimos que a continuación se señalan:
+
+- Tasa de transmisión de datos para recepción con alta definición (HD): 8 Mbps con codificación fija y 5 Mbps si se emplea multiplexación estadística.
+
+- Tasa de transmisión de datos para recepción con definición estándar (SD): 3 Mbps con codificación fija y 2,5 Mbps si se emplea multiplexación estadística.
+
+#### Artículo 9º
+
+Las concesionarias de carácter nacional podrán emplear soluciones complementarias para la prestación del servicio de televisión de libre recepción a fin de alcanzar la cobertura exigida de las zonas de servicio de sus concesiones en zonas geográficamente aisladas o de difícil recepción.
+
+En caso de implementarse soluciones complementarias, éstas deberán tener una calidad acorde a lo señalado en el artículo 8º anterior y no podrán afectar el carácter libre y directo de las transmisiones para los usuarios del servicio.
+
+La solución complementaria, que deberá ajustarse a la normativa técnica de telecomunicaciones, se incorporará como parte del respectivo título concesional a través de los correspondientes procedimientos de otorgamiento o modificación de concesión establecidos en la Ley Nº 18.838, debiendo pronunciarse acerca de aquélla el correspondiente informe técnico de la Subsecretaría.
+
+En los proyectos técnicos que contengan las soluciones a que se refiere este artículo, los concesionarios deberán explicitar las condiciones bajo las cuales se obligan a garantizar que los receptores requeridos estén habilitados para recibir la totalidad de las señales, principales y secundarias, de las concesionarias que tengan cobertura nacional en la respectiva zona de servicio y opten por implementar soluciones complementarias, considerando, en la zona y a la fecha de inicio de los servicios comprometidos, la tecnología y los equipamientos disponibles. Cuando así resulte necesario, la Subsecretaría establecerá, mediante resolución, las características técnicas detalladas de las posibles soluciones complementarias.
+
+Las concesionarias que empleen estas soluciones complementarias no podrán cobrar al usuario final por la recepción de la señal de televisión de libre recepción que se preste a través de las mismas, ni dentro de su zona de servicio ni en las zonas que reciban las señales de la solución complementaria por desborde de las mismas.
+
+#### Artículo 10º
+
+En el caso de modificaciones de concesión que involucren cambios de ubicación de las estaciones transmisoras y/o características técnicas del sistema radiante, se entenderá que éstas se encuentran dentro del margen de tolerancia de la zona de servicio, señalado en la letra k) del artículo 2º del Plan TVD, no alterando esta última, si el aumento de la zona de servicio es como máximo un 30% en la dirección de mayor cambio respecto de la zona de servicio originalmente autorizada para televisión digital, en la medida que sea técnicamente factible. En todos los casos en que se modifique la ubicación de la estación transmisora, ésta deberá permanecer dentro de la zona de servicio original.
+
+#### Artículo 11º
+
+Para efectos del otorgamiento de concesiones de radiodifusión televisiva digital, independientemente de la clasificación a que se refiere la letra b) del artículo 2º del Plan TVD, las asignaciones se realizarán por localidad o localidades y asociadas a una zona de servicio específica. En todos los casos la asignación de nuevas frecuencias y la modificación de las concesiones existentes dependerán de la factibilidad técnica, determinada esencialmente por la obligación de no causar interferencias a las frecuencias ya asignadas.
+
+#### Artículo 12º
+
+Las solicitudes de concesión que se presenten ante el Consejo deberán acompañar un proyecto técnico, debidamente respaldado por un ingeniero o técnico especializado en telecomunicaciones, en que se especifiquen las modalidades de transmisión a emplear, propias o contratadas a terceros, además del detalle pormenorizado de las instalaciones y operación de la concesión a que se postula, el tipo de emisión, la zona de servicio y demás antecedentes exigidos por la Ley Nº 18.838 y las bases del respectivo concurso. Asimismo, deberán acompañarse los antecedentes técnicos que den cuenta de cómo se garantizará el uso efectivo del espectro radioeléctrico asignado y la calidad de servicio.
+
+#### Artículo 13º
+
+Una concesionaria será considerada de cobertura nacional o regional si en la primera solicitud de concesión que efectúe declara que conformará, dentro de un plazo que no excederá de los cinco años, un proyecto nacional o regional, según sea el caso, aunque las condiciones de presencia, cobertura o alcance efectivo que se establecen en el artículo 2º, letra b), del Plan TVD no se satisfagan con la primera concesión solicitada.
+
+En caso que una concesionaria no cumpla con las coberturas declaradas en su primera solicitud dentro de cinco años, perderá su carácter de nacional o regional, según sea el caso, ante lo cual deberá adecuar su concesión a alguna de las categorías señaladas en el artículo 2º del Plan TVD.
+
+#### Artículo 14º
+
+La Subsecretaría mantendrá permanentemente informado al público, mediante un sistema de consulta electrónica, de las frecuencias que se han asignado para prestar el servicio de radiodifusión televisiva digital.
+
+#### Artículo 15º
+
+Se considerará que una estación transmisora se encuentra libre de interferencias cuando en su zona de servicio se cumplen las relaciones de protección de la señal deseada respecto al nivel de la señal interferente, entre canales digitales, tanto en el mismo canal como en canales adyacentes, que se indica en el Cuadro Nº 2.
+
+Cuadro Nº 2 Relaciones de protección (dB) para canales UHF
+
+La intensidad de campo eléctrico interferente se determinará considerando, en el método de cálculo, una probabilidad del 50% de las ubicaciones y el 50% del tiempo.
+
+#### Artículo 16º
+
+Para permitir el empleo de canales adyacentes en una misma localidad, las estaciones deberán estar colocalizadas o co-ubicadas, en los términos señalados en el presente artículo.
+
+Se considerarán colocalizadas las antenas que se encuentren en la misma estructura soporte de antena o en estructuras diferentes separadas entre sí hasta 2.000 metros cuando ambas estaciones son digitales. Las correspondientes estaciones transmisoras se considerarán protegidas si se cumple con las relaciones mínimas de potencia radiada, entre la potencia efectiva radiada (ERP) del canal deseado y la ERP del canal interferente, adyacente, de -24 dB para emisiones digitales.
+
+#### Artículo 17º
+
+La emisión espectral de la transmisión fuera del ancho de banda asignado a la señal digital, deberá cumplir con las atenuaciones mínimas, señaladas en la Figura Nº 1 y el Cuadro Nº 3, respecto de la potencia media del transmisor, especificada en función de la desviación de la frecuencia de la portadora central de la señal digital.
+
+Figura Nº 1 Máscara de transmisión digital
+
+Cuadro Nº 3 Especificación de la máscara de transmisión digital
+
+#### Artículo 18º
+
+Se empleará máscara crítica para los transmisores cuya potencia sea mayor o igual a 8 kW, en UHF; máscara subcrítica para los transmisores de menor potencia pero superiores a 10 W, y no crítica para transmisores de menor potencia, mientras no se produzcan interferencias con canales adyacentes.
+
+## Título IV
+
+Otras disposiciones
+
+#### Artículo 19º
+
+Los canales que queden despejados como resultado del proceso de digitalización, quedarán disponibles para el servicio que establezca la normativa aplicable a la respectiva banda de frecuencias.
+
+#### Artículo 20º
+
+El titular de una concesión de radiodifusión televisiva digital que ejerza su derecho a transmitir utilizando medios radioeléctricos propios, otorgados en virtud de su concesión, independientemente de las otras actividades que pueda desarrollar en razón de la misma, deberá destinar la totalidad de su capacidad de transmisión para la emisión de una o más señales de televisión de libre recepción, de una calidad consistente con las condiciones tecnológicas y competitivas del mercado televisivo, y según las condiciones que fije el Plan TVD y su normativa complementaria, por lo cual no podrán imponer a los usuarios ningún tipo de cobro.
+
+Además, la concesionaria que cuente con los medios radioeléctricos necesarios para la transmisión de señales de radiodifusión televisiva digital deberá ofrecer el remanente no utilizado de su capacidad de transmisión, mediante ofertas públicas y no discriminatorias, a cualquier concesionaria de radiodifusión televisiva de libre recepción. Por cada canal de radiofrecuencias de 6 MHz, deberán estar disponibles a lo menos 2 señales de televisión -señal principal y una secundaria-, además del canal one-seg. Las señales secundarias podrán ser empleadas para la transmisión de emisiones propias, obteniendo al efecto las pertinentes concesiones con medios de terceros, o, en su defecto, las señales que quedaren disponibles deberán ponerse a disposición de terceras concesionarias, a través de la publicación de una Oferta de Facilidades, que deberá estar vigente mientras exista remanente, en condiciones no discriminatorias. Mientras no se use el remanente por parte de terceros, la concesionaria podrá hacer uso de la capacidad total del canal.
+
+Será requisito esencial para aquellas concesionarias de carácter nacional, con medios radioeléctricos propios, el que transmitan su señal principal con una calidad de alta definición, acorde al artículo 8º del Plan TVD.
+
+Asimismo, aquellas señales aptas para ser recibidas por equipos o dispositivos móviles, técnicamente denominadas "one seg", deberán ser siempre de libre recepción.
+
+#### Artículo 21º
+
+En caso de implementarse servicios interactivos, se deberá cumplir las especificaciones establecidas en las normas ABNT NBR 15606 de Brasil, referidas al middleware Ginga.
+
+#### Artículo 22º
+
+La verificación del cumplimiento del presente Plan y las respectivas fiscalizaciones se efectuarán conforme al protocolo de medición que, siguiendo los procedimientos que al respecto establezcan los estándares ABNT NBR relativos a televisión digital, los acuerdos del FORO ISDB-T Internacional y la Unión Internacional de Telecomunicaciones, dicte la Subsecretaría mediante resolución. El protocolo que se dicte deberá incluir el procedimiento para comprobar la cobertura digital de al menos el 85% de la población en la zona de servicio de la concesión de que se trate a que se refiere el inciso primero del artículo 15 quáter de la Ley Nº 18.838, considerando la intensidad de campo eléctrico definido para la zona de servicio, señalada en el artículo 4º del Plan TVD, en relación con la información oficial de población del INE.
+
+Para alcanzar la cobertura de la zona de servicio en zonas de sombra, la Subsecretaría regulará mediante resolución los casos en que se requiera instalar una estación de relleno sobre la base de parámetros objetivos y no discriminatorios considerando la normativa internacional existente en la materia. La concesionaria podrá ofrecer supletoriamente una solución complementaria para cubrir el área de sombra antes mencionada, en los términos que se establece en el artículo 9º del PTVD, en cuyo caso no será necesaria una estación de relleno.
+
+#### Artículo 23º
+
+Las características técnicas de la señal digital, en las materias no estipuladas en el Plan TVD, se deberán ajustar a las normas complementarias que dicte la Subsecretaría y a los estándares ABNT NBR relativos a televisión digital y lo acordado en el FORO ISDB-T Internacional.
+
+PARTE II: PLAN DE TELEVISIÓN ANALÓGICA
+
 ## Capítulo I
 
 Disposiciones Generales
 
 ## Título 1 — Objetivo y Alcance.
 
-#### Artículo 1°
+#### Artículo 24°
 
 Este Plan tiene por objeto establecer un ordenamiento racional de las bandas de frecuencias de VHF y UHF atribuidas al Servicio de Radiodifusión Televisiva, con el propósito de lograr un uso eficiente del espectro radioeléctrico.
 
 Asimismo, cumple con la finalidad de establecer una calidad técnica mínima de las emisiones de las estaciones del Servicio de Radiodifusión Televisiva y la compatibilidad entre las distintas señales emitidas por dichas estaciones.
 
-#### Artículo 2°
+#### Artículo 25°
 
 El presente Plan se aplica a todas las estaciones del Servicio de Radiodifusión Televisiva que operen en el territorio nacional en las bandas de VHF y UHF.
 
 ## Título 2 — Terminología y Definiciones.
 
-#### Artículo 3°
+#### Artículo 26°
 
 La terminología empleada en el presente Plan, será la que aparece en el Plan General de Uso del Espectro Radioeléctrico (Decreto del Ministerio de Transportes y Telecomunicaciones, N° 15, de 24 de Marzo de 1983) y en el Convenio Internacional de Telecomunicaciones y sus reglamentos administrativos, sin perjuicio de las siguientes definiciones:
 
@@ -218,13 +408,13 @@ Bases Técnicas
 
 ## Título 1 — Canalización de las Bandas.
 
-#### Artículo 4°
+#### Artículo 27°
 
 La distribución y numeración de los canales de la Radiodifusión Televisiva en las bandas VHF y UHF será la indicada en el Anexo A.
 
 ## Título 2 — Intensidades de Campo Utilizable de Referencia.
 
-#### Artículo 5°
+#### Artículo 28°
 
 Se considerarán las siguientes intensidades de campo utilizable de referencia (Eref) al aplicar el presente Plan:
 
@@ -248,7 +438,7 @@ _________|______________|______________|______________|
 
 Estos valores representan la intensidad de campo a 10 m sobre el suelo en el punto de recepción.
 
-#### Artículo 6°
+#### Artículo 29°
 
 Los valores indicados para el contorno Clase A, corresponden a los valores medianos de intensidad de campo en la antena de recepción, que dan una calidad satisfactoria de imagen en zonas urbanas, habida cuenta del ruido del receptor, del ruido cósmico, de las interferencias causadas por las instalaciones industriales y domésticas y la atenuación debida a los edificios y, en ausencia de interferencias debidas a otras emisiones de televisión.
 
@@ -256,25 +446,25 @@ Los valores indicados para el contorno Clase B, corresponden a los valores media
 
 ## Título 3 — Zona de Servicio de la Estación
 
-#### Artículo 7°
+#### Artículo 30°
 
 El cálculo de la suma de servicio de la estación se efectuará en función de la zona de cubrimiento especificada para la estación y como resultado de la aplicación del presente Plan. Dicha zona de servicio quedará determinada por el contorno Clase A, para estaciones con potencia radiada aparente (p.r.a.) menores o iguales a 100 vatios, y por el contorno Clase B para estaciones con potencia radiada aparente (p.r.a.) mayores a 100 vatios.
 
-#### Artículo 8°
+#### Artículo 31°
 
 Será responsabilidad del operador el cálculo, según corresponda, del (o de los) contorno (s) Clase A y/o B de acuerdo al procedimiento detallado en el Capítulo IV, Título 2; Método de Cálculo.
 
-#### Artículo 9°
+#### Artículo 32°
 
 Para estaciones con potencia radiada aparente (p.r.a.) mayores a 100 vatios la zona delimitada por un contorno Clase A, deberá comprender como mínimo el 90% del área definida por el área consolidada de la (s) localidad (es) que será (n) servida (s). Para estaciones con p.r.a. menores o iguales a 100 vatios, dicho contorno deberá comprender el 100% del área consolidada de la localidad.
 
-#### Artículo 10°
+#### Artículo 33°
 
 Los valores de las intensidades de campo a proteger en zonas limítrofes, se determinarán por acuerdo entre las administraciones interesadas.
 
 ## Título 4 — Relaciones de Protección.
 
-#### Artículo 11°
+#### Artículo 34°
 
 Las estaciones de televisión deberán cumplir con las siguientes relaciones de protección en radiofrecuencia, para las portadoras de video de la señal deseada e interferente, a la entrada del receptor. En la determinación de estas relaciones se ha considerado una relación entre las potencias de las portadoras de video y audio de 10 dB.
 
@@ -304,15 +494,15 @@ portadora de video interferente = 4 dB portadora de audio interferente = -5 dB
 
 ## Título 5 — Potencias Máximas y Mínimas.
 
-#### Artículo 12°
+#### Artículo 35°
 
 Para los efectos del presente Plan, las estaciones con p.r.a. de la señal de video menor o igual a 100 vatios, se denominarán estaciones de baja potencia.
 
-#### Artículo 13°
+#### Artículo 36°
 
 Los valores mínimos de p.r.a. quedarán determinados a partir de la p.r.a. necesaria para establecer el valor de la intensidad de campo utilizable de referencia en el contorno de la zona de servicio a cubrir.
 
-#### Artículo 14°
+#### Artículo 37°
 
 Los valores máximos de p.r.a. de la señal de video, referidos a una altura efectiva de la antena transmisora de 300 metros para los canales del 2 al 13 y de 600 metros para los canales del 21 al 69, serán los siguientes:
 
@@ -322,11 +512,11 @@ b) Canales 7 al 13 316 kW (25 dBk)
 
 c) Canales 21 al 69 2.000 kW (33 dBk)
 
-#### Artículo 15°
+#### Artículo 38°
 
 Para alturas diferentes a las indicadas, la p.r.a. máxima de la señal de video será la que se determine en las curvas de la Figura II.1.
 
-#### Artículo 16°
+#### Artículo 39°
 
 El rango de variación de la relación entre las potencias radiadas aparentes video/audio, considerando el valor medio cuadrático de la portadora en la cresta de la envolvente de modulación para el video, y el valor medio, cuadrático de la portadora sin modular para el audio, será de 10/1 a 20/1.
 
@@ -336,23 +526,23 @@ Requisitos Técnicos
 
 ## Título 1 — Características de las Señales.
 
-#### Artículo 17°
+#### Artículo 40°
 
 Las características técnicas básicas de las señales de video y de las señales de sincronismo emitidas por las estaciones transmisoras del Servicio de Radiodifusión Televisiva, corresponderán a las especificadas por el Comité Consultivo Internacional de Radiocomunicaciones para el Sistema M y para el Sistema de Televisión en Color NTSC, según el detalle que se indica en el Anexo B1 del presente Plan.
 
-#### Artículo 18°
+#### Artículo 41°
 
 Las señales de video y audio transmitidas en las bandas especificadas en el Anexo A, serán de libre recepción por el público en general y no podrán ser codificadas.
 
-#### Artículo 19°
+#### Artículo 42°
 
 Las transmisiones de audio de las estaciones de televisión, podrán ser monofónicas o estereofónicas. En el caso de ser estereofónicas, deberán ajustarse a la Norma BTSC (Broadcast Television Systems Comitee) descrita en el Anexo B3.
 
-#### Artículo 20°
+#### Artículo 43°
 
 Las señales de televisión radiadas por una estación de radiodifusión televisiva, deberán ser polarizadas horizontalmente. En casos excepcionales, calificados por la Subsecretaría de Telecomunicaciones, ésta podrá autorizar una polarización diferente de la indicada.
 
-#### Artículo 21°
+#### Artículo 44°
 
 La señal de televisión transmitida podrá ser heterodinada una sola vez durante su transporte desde la estación transmisora hacia la zona de servicio a cubrir. En el caso en que la señal a heterodinar sea obtenida fuera de la zona de servicio, ésta no estará sujeta a protección contra interferencias perjudiciales.
 
@@ -360,7 +550,7 @@ Para el transporte de la señal deberán utilizarse enlaces del tipo microonda, 
 
 ## Título 2 — Tolerancia de Frecuencias.
 
-#### Artículo 22°
+#### Artículo 45°
 
 Los transmisores de las estaciones del Servicio de Radiodifusión Televisiva, deberá cumplir los requisitos de tolerancia de frecuencia que se indican en el Anexo B2 del presente Plan.
 
@@ -370,7 +560,7 @@ Procedimientos del Plan
 
 ## Título 1 — Curvas de propagación.
 
-#### Artículo 23°
+#### Artículo 46°
 
 Para los cálculos de propagación se utilizarán las curvas contenidas en las Figuras IV.1, IV.2, IV.3 y IV.4.
 
@@ -380,19 +570,19 @@ Cuando la radiación está referida a un elemento hipotéticamente isotrópico, 
 
 Para valores de potencia radiada aparente diferentes de 1 kW, a los valores de intensidad de campo obtenidos de las curvas debe sumársele 10 log P (dB), donde P es la potencia expresada en kW.
 
-#### Artículo 24°
+#### Artículo 47°
 
 La altura de la antena transmisora se considera referida al nivel medio del terreno, a que alude el Artículo 3°, letra j).
 
-#### Artículo 25°
+#### Artículo 48°
 
 La altura de la antena receptora se considera referida al terreno donde ésta se encuentra instalada.
 
-#### Artículo 26°
+#### Artículo 49°
 
 Para definir de grado de irregularidad del terreno (rugosidad) se utilizará el parámetro _h, cuya determinación se especifica en los Artículos 3°, letra i), 33° y 34°.
 
-#### Artículo 27°
+#### Artículo 50°
 
 Las curvas de propagación de las figuras IV.1, IV.2, IV.3 y IV.4 representan los valores de intensidad de campo rebasados en el 50% de las ubicaciones para porcentajes de tiempo del 50% y 10% en las bandas de VHF y UHF.
 
@@ -402,11 +592,11 @@ Para distancias menores a 10 km. el valor de _ h se considera invariable e igual
 
 ## Título 2 — Método de Cálculo.
 
-#### Artículo 28°
+#### Artículo 51°
 
 El método de cálculo que se especifica a continuación se aplicará para distancias mayores de 2 km.
 
-#### Artículo 29°
+#### Artículo 52°
 
 Los cálculos de propagación se efectuarán mediante la utilización de las curvas contenidas en las Figuras IV.1, IV.2, IV.3, IV.4. Los contornos que definen las zonas de servicio se calcularán a partir de las curvas de propagación correspondientes al 50% de las ubicaciones y 50% del tiempo, según la banda que corresponda (Figuras IV.1 y IV.3).
 
@@ -416,21 +606,21 @@ Para distancias menores de 10 km. el cálculo de la señal interferente se efect
 
 A las curvas indicadas se les aplicará los factores de corrección de las Figuras IV.5, IV.6, IV.7, IV.8 y IV.9, según corresponda. En casos particularmente difíciles de compatibilizar, se emplearán los factores de corrección señalados en las Figuras IV.10 y IV.11.
 
-#### Artículo 30°
+#### Artículo 53°
 
 En los casos en que la altura efectiva de la antena transmisora sea menor que 37,5 mts., se utilizará la curva correspondiente a h = 37,5 m. Cuando la altura efectiva sea mayor que 1.200 mts., se utilizará la curva correspondiente al espacio libre.
 
-#### Artículo 31°
+#### Artículo 54°
 
 Para el cálculo de los contornos de intensidad de campo utilizable o para el cálculo de la señal interferente, se considerarán las potencias en la cresta de la envolvente del transmisor de video.
 
-#### Artículo 32°
+#### Artículo 55°
 
 Los puntos que definen la zona de servicio se determinarán considerando a lo menos 8 radiales uniformemente distribuidos con centro en la ubicación de la antena transmisora, a partir del norte geográfico. No obstante, se podrán trazar radiales adicionales, si ninguno de los 8 radiales especificados pasan por una zona de interés por cubrir o si es necesario estudiar una interferencia.
 
 Dichos puntos representarán la distancia a la cual se obtiene la intensidad de campo utilizable de referencia en la dirección de cada radial, considerando en cada caso la potencia radiada, la altura efectiva y el factor de rugosidad del terreno.
 
-#### Artículo 33°
+#### Artículo 56°
 
 Para la determinación del factor de rugosidad _ h del perfil topográfico deben utilizarse mapas con una escala 1:50.000. El trayecto a considerar se dividirá en intervalos equidistantes de a lo máximo 500m cada uno.
 
@@ -438,7 +628,7 @@ El trayecto a considerar para la determinación de _ h será entre 10 y 50 km, p
 
 Cuando el punto considerado se encuentre a distancias menores de 50 km del transmisor, el trayecto a considerar será el comprendido entre 10 km y el punto en estudio.
 
-#### Artículo 34°
+#### Artículo 57°
 
 El númnero (n) de puntos obtenidos del artículo anterior se tabularán según sus alturas de menor a mayor tomando como referencia el nivel del mar.
 
@@ -448,7 +638,7 @@ La altura inferior para determinar _ h, valor excedido el 90% de la veces (H (90
 
 _ h = H (10) - H (90)
 
-#### Artículo 35°
+#### Artículo 58°
 
 La corrección de la intensidad de campo indicada en el artículo 27°, debido a valores diferentes de _ h, se aplicará en dos situaciones:
 
@@ -456,7 +646,7 @@ a) Cuando se requiera determinar la intensidad de campo para una distancia y un 
 
 b) Cuando se requiera determinar la distancia al contorno clase A o B para las intensidades de campo utilizables de referencia, indicadas en el artículo 5°, de una estación transmisora, con una potencia dada, ésta se determinará por iteración sucesiva aplicando las Figuras IV.7 o IV.8 con las Figuras IV.1 o IV.3, respectivamente. Se comenzará con una distancia estimada en función del alcance para cada radial de la zona a cubrir, hasta que la intensidad de campo corregida por _ h y potencia, tenga un error menor o igual a 1 dB con respecto a la intensidad de campo utilizable de referencia.
 
-#### Artículo 36°
+#### Artículo 59°
 
 En los casos en que sea necesario aumentar la precisión de la previsiones de la intensidad de campo tanto en VHF como en UHF, en una pequeña zona de recepción, podrá efectuarse una correccción en función del "Angulo de Despejamiemto". Este ángulo debe ser representativo de los ángulos de la zona de recepción, medidos entre la horizontal de la antena receptora y la línea que supera todos los obstáculos a una distancia de 16 km en dirección del transmisor. En la figura IV.10 se indica que el signo convencional de _ es negativo si la recta que supera los obstáculos se halla por encima de la horizontal.
 
@@ -464,7 +654,7 @@ La Figura IV.11 representa el factor de corrección en función del ángulo de d
 
 Las correcciones para ángulos de despejamiento no comprendidos entre 5° y 0,5° pueden determinarse por interpolación lineal de la figura, con valores límites de 30 dB en ondas métricas y 40 dB en ondas decimétricas a 1,5° y, de 40 db en ondas métricas y decimétricas a 15°, a condición de que no excedan los valores de intensidad de campo en el espacio libre.
 
-#### Artículo 37°
+#### Artículo 60°
 
 Los valores de intensidad de campo utilizable Eu en el borde de la zona de servicio de cualquier emisor, que se encuentre en presencia de posibles interferencias, deberán ser menores o iguales al valor de la intensidad de campo utilizable de referencia definida en artículo 5°, para dicho emisor.
 
@@ -474,21 +664,21 @@ El valor de intensidad de campo utilizable en cada punto, se calculará mediante
 
 Banda VHF.
 
-#### Artículo 38°
+#### Artículo 61°
 
 Para la evaluación de la propagación de señales transmitidas por los canales 2 al 13 se utilizarán las curvas de las figuras IV.1 y IV.2.
 
-#### Artículo 39°
+#### Artículo 62°
 
 Para valores de _ h diferentes de 50 m y distancias desde el transmisor mayores de 10 km, deberá aplicarse el factor de corrección obtenido de la curva de la figura IV.7.
 
 En los casos en que el cálculo de - h arroje valores mayores que 1000m, deberá utilizarse el factor correspondiente a 1000m.
 
-#### Artículo 40°
+#### Artículo 63
 
 Las correcciones para porcentajes de las ubicaciones distintos del 50%, pueden obtenerse de la figura IV.5.
 
-#### Artículo 41°
+#### Artículo 64°
 
 En aquellos casos en que sea necesario aumentar la precisión de los valores de intensidad de campo en función de la altura de la antena receptora, deberán aplicarse las siguientes reducciones de los valores obtenidos de las curvas al considerar como altura de antena receptora 3 m en lugar de 10 m:
 
@@ -506,19 +696,19 @@ Los valores indicados se aplican a distancias de hasta 50 Km. Para distancias su
 
 Banda UHF.
 
-#### Artículo 42°
+#### Artículo 65°
 
 Para la evaluación de la propagación de señales transmitidas por los canales 21 al 69 se utilizarán las curvas de las figuras IV.3 y IV.4.
 
-#### Artículo 43°
+#### Artículo 66°
 
 Para valores de _ h diferentes de 50 m y distancias desde el transmisor mayores de 10 km. deberá aplicarse el factor de corrección obtenido de la curva de la figura IV.8. En los casos en que el cálculo de _ h arroje valores mayores que 1000 m, deberá utilizarse el factor correspondiente a 1000 m.
 
-#### Artículo 44°
+#### Artículo 67°
 
 Las correcciones para porcentajes de las ubicaciones distintos del 50% pueden obtenerse de la Figura IV.6.
 
-#### Artículo 45°
+#### Artículo 68°
 
 Para cambios de antena receptora de 10 m a 3 m con respecto al suelo, aplíquense las siguientes reducciones a los valores de intensidad de campo:
 
@@ -532,21 +722,21 @@ Los valores indicados se aplican a distancias de hasta 50 Km. Para distancias su
 
 ## Título 3 — Asignación de Canales.
 
-#### Artículo 46°
+#### Artículo 69°
 
 De la canalización indicada en el Anexo A, los canales admisibles para una misma ubicación deberán ajustarse a lo estipulado en la Tabla IV.2. En la determinación de dicha Tabla han sido considerados los efectos interferentes señalados en la Tabla IV.1, para cada canal de la banda respectiva. Sin embargo, la factibilidad de asignación de los canales deberá cumplir con el Artículo 37.
 
-#### Artículo 47°
+#### Artículo 70°
 
 Para el caso de asignación de canales en cualquier ubicación, las distancias mínimas de ubicación de los canales adyacentes, cocanales y canal imagen, quedarán determinadas en función de la intensidad de campo utilizable y las relaciones de protección establecidos en el presente Plan.
 
 CAPITULO V Disposiciones Finales
 
-#### Artículo 48°
+#### Artículo 71°
 
 Derógase el Decreto N° 7039 del 28 de Octubre de 1958 "Reglamento de Estaciones de Radiocomunicaciones que utilicen frecuencias superiores a 29,7 MHz".
 
-#### Artículo 49°
+#### Artículo 72°
 
 Los equipos, las instalaciones y el funcionamiento de las estaciones de radiodifusión Televisiva, estarán afectos a las normas técnicas que para tal efecto dicte la Subsecretaría de Telecomunicaciones.
 
@@ -1739,14 +1929,6 @@ anterior, hasta que el incremento (0.5 - pc)
 De esta forma se obtendrá el valor de Eu
 
 (dB ( u V/m)).
-
-## Capítulo VI
-
-Disposiciones Transitorias
-
-#### Artículo 1
-
-° Las estaciones de televisión que no se ajusten a los parámetros técnicos establecidos en los artículos 21° del presente Plan, tendrán un plazo de 2 años, contados a partir de la publicación de éste en el Diario Oficial, para readecuar sus equipos e instalaciones.
 
 Anótese, regístrese, tómese razón, comuníquese y publíquese en el Diario Oficial.- AUGUSTO PINOCHET UGARTE, Capitán General, Presidente de la República.- Carlos Silva Echiburu, Ministro de Transportes y Telecomunicaciones
 
