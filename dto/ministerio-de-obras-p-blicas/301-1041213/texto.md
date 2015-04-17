@@ -366,8 +366,6 @@ similar a lo establecido en el punto
 
 > **Nota.** El Decreto 314, Obras Públicas, publicado el 10.02.2014, modifica la presente norma en el sentido de asignar como caminos nacionales y caminos nacionales con carácter de internacional a las rutas que se indica en la Región de Magallanes y de la Antártica Chilena.
 
-> **Nota.** NOTA 1 Los numerales 2 a 6 del Decreto 127, Obras Públicas, publicado el 02.03.2018, modifica la presente norma en el sentido de declarar como camino nacional, asignar rol N° 30 y rol N° 32 a los caminos que indica la citada norma.
-
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Laurence Golborne Riveros, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., María Loreto Silva Rojas, Subsecretaria de Obras Públicas.
