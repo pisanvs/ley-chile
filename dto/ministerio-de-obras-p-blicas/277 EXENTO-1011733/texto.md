@@ -102,7 +102,7 @@ S/R Nuevo Trazado, Sector: Boyeruca - Puente
 
 Llico.
 
-J-956 Lipimávida - Llico por El Alto.
+J-956 Lipim�vida - Llico por El Alto.
 
 J-840 Pichibudi - Variante El Aquelarre.
 
@@ -133,6 +133,8 @@ TALCA:
 . El tramo urbano de la Ruta K-60, desde el límite urbano Poniente hasta su intersección con la Avenida Circunvalación Río Claro, a través de Camino a Pencahue.
 
 . El Sistema Vial que interconecta la Ruta 5 con las Rutas K-55 y 115-CH, desde el límite urbano oriente hasta la Ruta 5, a través de: 21 Norte, Av. Las Rastras, Av. Puertas Negras y Av. Pehuenche Sur.
+
+. El tramo urbano de la Ruta K-511, desde la Ruta 5 a la Ruta K-55, a través de: Av. Batalla de Lircay y Av. San Valentín.
 
 CAUQUENES:
 
