@@ -1,0 +1,5 @@
+SUSPENDE TRANSITORIAMENTE LA INSCRIPCIÓN EN EL REGISTRO ARTESANAL EN LA PESQUERÍA QUE INDICA POR PERIODO QUE SEÑALA
+
+Por resolución exenta Nº 970, de 10 de abril de 2015, de esta Subsecretaría, por el término de seis años desde la fecha de publicación de la presente resolución de conformidad a lo establecido en la Ley General de Pesca y Acuicultura, la inscripción en los Registros Pesqueros Artesanales de la XV Región de Arica y Parinacota, I Región de Tarapacá, II Región de Antofagasta, III Región de Atacama, IV Región de Coquimbo, V Región de Valparaíso, VI Región del Libertador General Bernardo O'Higgins, VII Región del Maule, VIII Región del Biobío, IX Región de la Araucanía, XIV Región de Los Ríos, X Región de Los Lagos y XI Región de Aysén, en todas sus categorías, sección de pesquería del recurso Macha, por haber alcanzado el estado de plena explotación en dichas áreas de pesca.
+
+Valparaíso, 10 de abril de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
