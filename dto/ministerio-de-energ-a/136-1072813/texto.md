@@ -18,7 +18,15 @@ Exploración Pellado: 100.000 hectáreas
 
 5. Que con fecha 17 de enero de 2014, la empresa Compañía de Energía SpA, en virtud del derecho exclusivo establecido en el artículo 14 de la ley Nº 19.657, solicitó el otorgamiento de una concesión de explotación de energía geotérmica sobre el área denominada "Pellado", ubicada en la Región del Maule, provincias de Talca y Linares, comunas de San Clemente y Colbún, de 16.000 hectáreas de extensión y cuyas coordenadas UTM referidas al Sistema de Referencia Geocéntrico para las Américas (Sirgas), de los vértices de su cara superior, expresados en metros, son las siguientes:
 
-.
+Vértice Norte Este
+
+V1 6.024.620 334.815
+
+V2 6.024.620 344.815
+
+V3 6.008.620 344.815
+
+V4 6.008.620 334.815
 
 6. Que en cumplimiento de lo previsto en el artículo 13 de la ley Nº 19.657, la empresa solicitante realizó las publicaciones del extracto de la solicitud de concesión con fecha 1 de febrero de 2014 en el Diario Oficial; con fecha 10 y 12 de febrero de 2014 en el diario de circulación nacional "Las Últimas Noticias"; con fecha 11 y 12 de febrero de 2014 en el diario de circulación regional "El Centro", de la Región del Maule. Asimismo, acompañó el certificado de difusión radial emitido por don Carlos Quintero Verdugo, representante de Radioemisora Exitosa Ltda., que da cuenta que con fecha 11 de febrero de 2014, a las 08:00, 14:00, y el día 12 de febrero a las 8:00 hrs., se difundieron a través de la emisora "Exitosa" tres mensajes radiales del extracto de la solicitud de concesión de exploración de energía geotérmica "Pellado".
 
@@ -45,6 +53,8 @@ Exploración Pellado: 100.000 hectáreas
 17. Que mediante memo DER Nº 214/2013, de fecha 30 de septiembre de 2014, la División de Energías Renovables del Ministerio de Energía evacuó un Informe Técnico relativo al proyecto contenido en la solicitud de concesión de explotación de energía geotérmica denominada "Pellado", en el que se recomienda el otorgamiento de la concesión de explotación de energía geotérmica antes referida, por las razones que allí se indican.
 
 Decreto:
+
+> **Nota.** El artículo único del Decreto 149 Exento, Energía, publicado el 17.04.2015, rectifica la presente norma en el sentido de reemplazar las tablas de coordenadas UTM insertas en sus considerandos quinto y sexto. Sin embargo, el considerando sexto carece de tabla.
 
 1º Otórguese, de conformidad a la ley Nº 19.657, la concesión de explotación de energía geotérmica denominada "Pellado", a la empresa Compañía de Energía SpA, Nº RUT 76.024.528-3, ubicada en la Región del Maule, provincias de Talca y Linares, comunas de San Clemente y Colbún, de 16.000 hectáreas de extensión y cuyas coordenadas UTM referidas al Sistema de Referencia Geocéntrico para las Américas (Sirgas), de los vértices de su cara superior, expresados en metros, son las siguientes:
 
