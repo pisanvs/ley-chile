@@ -144,6 +144,8 @@ Si realizada la segunda selección de este llamado no hubiese sido posible, por 
 
 8.8 Contar con Ficha de Protección Social de acuerdo a los artículos 16 letra b) y 21 letra d).
 
+8.9 De lo establecido en el artículo 37 letra a) en relación al endoso del certificado de subsidio y letra e) del mismo artículo, respecto a la carta del beneficiario que señala que las obras están terminadas conforme al contrato suscrito, para los casos de negativa injustificada del beneficiario de endosar y/o de recepcionar conforme las obras, siempre que se cuente con los informes del Prestador de Asistencia Técnica y del Supervisor SERVIU que certifique que los trabajos fueron ejecutados conforme al proyecto y no presenten observaciones.
+
 9. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 9.1. Solo podrán participar de este llamado las familias que cuenten con ficha de catastro de su vivienda realizada por Serviu.
