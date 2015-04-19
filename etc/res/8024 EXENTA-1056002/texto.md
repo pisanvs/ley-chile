@@ -40,45 +40,67 @@ No obstante la distribución de recursos a que se refiere la Tabla precedente, s
 
 3. Las familias podrán postular hasta el día 4 de diciembre del presente año en la forma que se dispone a continuación:
 
-3.a Podrán postular directamente por internet a través de los
+3.a Podrán postular directamente por internet a
 
-medios electrónicos que se establezcan al efecto, para lo
+través de losmedios electrónicos que se
 
-cual deberán contar con la clave única entregada por Servicio
+establezcan al efecto, para lo cual deberán
 
-de Registro Civil e Identificación y la información ingresada
+contar con la clave única entregada por
 
-y registrada en el sistema será válida para todos los efectos
+Servicio de Registro Civil e Identificación
 
-de la postulación y del proceso de selección.
+y la información ingresada y registrada en
 
-3.b Quienes opten por no postular a través de internet,
+el sistema será válida para todos los
 
-deberán hacerlo directamente en las oficinas de Serviu,
+efectos de la postulación y del proceso
 
-en aquellas oficinas municipales que Serviu determine para
+de selección.
 
-estos efectos, o a través de las oficinas de la Red
+3.b Quienes opten por no postular a través
 
-Multiservicios del Estado "Chile Atiende", en todas las
+de internet, deberán hacerlo directamente
+
+en las oficinas de Serviu, en aquellas
+
+oficinas municipales que Serviu determine
+
+para estos efectos, o a través de las
+
+oficinas de la Red Multiservicios del
+
+Estado "Chile Atiende", en todas las
 
 regiones del país.
 
-3.c Aquellos postulantes que, por circunstancias ajenas a su
+3.c Aquellos postulantes que, por
 
-voluntad, no puedan concretar su postulación antes del día 4
+circunstancias ajenas a su voluntad,
 
-de diciembre, ya sea a través de internet o presencialmente en
+no puedan concretar su postulación
 
-los locales descritos en el punto precedente, deberán
+antes del día 4 de diciembre, ya sea
 
-contactarse directamente con Serviu hasta esa fecha,
+a través de internet o
 
-para coordinar la realización de la postulación de forma
+presencialmente en los locales
 
-presencial en esa institución, para lo cual contarán como un
+descritos en el punto precedente,
 
-plazo máximo hasta el día 6 de diciembre.
+deberán contactarse directamente
+
+con Serviu hasta esa fecha, para
+
+coordinar la realización de la
+
+postulación de forma presencial
+
+en esa institución, para lo cual
+
+contarán como un plazo máximo
+
+hasta el día 6 de diciembre.
 
 4. Los montos de subsidio que se otorgarán en el presente llamado, serán los indicados en la tabla a continuación, más los respectivos honorarios por concepto de Asistencia Técnica:
 
@@ -86,125 +108,205 @@ plazo máximo hasta el día 6 de diciembre.
 
 5. Establécense para el presente llamado, las siguientes condiciones especiales:
 
-5.1 Como Viviendas Objeto del Programa se considerarán las Viviendas
+5.1 Como Viviendas Objeto del Programa se
 
-Sociales, Viviendas construidas por Serviu y/o las Viviendas
+considerarán las Viviendas Sociales,
 
-cuyo avalúo fiscal de sus construcciones, excluido el valor del
+Viviendas construidas por Serviu y/o
 
-terreno, sea igual o inferior a 350 unidades de fomento, a la
+las Viviendas cuyo avalúo fiscal de
 
-fecha de la presente resolución. Para el caso de las postulaciones
+sus construcciones, excluido el
 
-por internet, esta consulta será realizada internamente por el
+valor del terreno, sea igual o
 
-Ministerio de Vivienda y Urbanismo, mediante los canales vigentes
+inferior a 350 unidades de fomento,
 
-para estos efectos, mientras que para postulaciones presenciales,
+a la fecha de la presente
 
-esta condición deberá ser acreditada por el postulante presentando
+resolución. Para el caso de las
 
-el Certificado de Avalúo Fiscal Detallado de la propiedad.
+postulaciones por internet, esta
 
-5.2 Sólo podrán ser objeto de reparación viviendas unifamiliares,
+consulta será realizada
 
-entendidas estas últimas como todas aquellas que, independiente
+internamente por el Ministerio
 
-de su sistema de agrupamiento, no correspondan a Condominios
+de Vivienda y Urbanismo, mediante
+
+los canales vigentes para estos
+
+efectos, mientras que para
+
+postulaciones presenciales,
+
+esta condición deberá ser
+
+acreditada por el postulante
+
+presentando el Certificado de
+
+Avalúo Fiscal Detallado de la
+
+propiedad.
+
+5.2 Sólo podrán ser objeto de
+
+reparación viviendas
+
+unifamiliares, entendidas
+
+estas últimas como todas
+
+aquellas que, independiente
+
+de su sistema de agrupamiento,
+
+no correspondan a Condominios
 
 de Viviendas Sociales.
 
-5.3 En el caso sucesiones, sólo podrá postular un integrante de ésta
+5.3 En el caso sucesiones, sólo podrá
 
-y siempre que no cuente con una segunda propiedad con destino
+postular un integrante de ésta
+
+y siempre que no cuente con una
+
+segunda propiedad con destino
 
 habitacional.
 
-5.4 Al momento de la postulación el beneficiario deberá otorgar un
+5.4 Al momento de la postulación el
 
-mandato en favor de Serviu, autorizando a este último a girar de
+beneficiario deberá otorgar un
 
-su Libreta de Ahorro el equivalente al ahorro mínimo exigido
+mandato en favor de Serviu,
 
-para el Título al cual postula, según lo establecido en el
+autorizando a este último a
 
-#### Artículo 9º
+girar de su Libreta de Ahorro el
 
-del DS Nº 255 (V. y U.), de 2006.
+equivalente al ahorro mínimo
 
-5.5 Para proceder a la selección del llamado se aplicarán los
+exigido para el Título al cual
 
-factores de puntajes señalados en la letra a) del artículo 28
+postula, según lo establecido
 
-del DS Nº 255 (V. y U.), de 2006, y será por estricto orden de
+en el artículo 9º del DS Nº 255
 
-prelación hasta completar los recursos asignados a la región.
+(V. y U.), de 2006.
 
-6. Los postulantes a este llamado especial no estarán afectos, o serán
+5.5 Para proceder a la selección del
+
+llamado se aplicarán los factores
+
+de puntajes señalados en la letra
+
+a) del artículo 28 del DS Nº 255
+
+(V. y U.), de 2006, y será por
+
+estricto orden de prelación hasta
+
+completar los recursos asignados
+
+a la región.
+
+### 6. Los postulantes a este llamado especial no estarán afectos, o serán
 
 eximidos, de cumplir los siguientes requisitos y condiciones establecidos en el DS Nº 255 (V. y U.), de 2006:
 
-6.1 De los montos de subsidio a que se refiere el artículo 6º.
+6.1 De los montos de subsidio a que se refiere el
 
-6.2 De lo establecido en las letras h), k) y p), todas del artículo
+#### Artículo 6º
 
-16, en relación a contar con un Prestador de Servicios de
+6.2 De lo establecido en las letras h), k) y p),
 
-Asistencia Técnica o Entidad Patrocinante (sólo en la etapa de
+todas del artículo 16, en relación a contar
 
-postulación), contar con un constructor o contratista y contar
+con un Prestador de Servicios de Asistencia
+
+Técnica o Entidad Patrocinante (sólo en la
+
+etapa de postulación), contar con un
+
+constructor o contratista y contar
 
 con permiso de edificación, respectivamente.
 
-6.3 De los antecedentes generales para postular a que se refiere el
+6.3 De los antecedentes generales para postular
 
-#### Artículo 21
+a que se refiere el artículo 21, en sus
 
-, en sus letras: h), relacionado con el contrato con
+letras: h), relacionado con el contrato
 
-el PSAT, j), referido a contar con Plan Habilitación Social, l)
+con el PSAT, j), referido a contar con
 
-que señala sobre Contrato de Construcción, y ll), que exige
+Plan Habilitación Social, l) que señala
 
-nómina de obras del Contratista.
+sobre Contrato de Construcción, y ll),
 
-6.4 De los antecedentes especiales para postular a que se refiere el
+que exige nómina de obras del
+
+Contratista.
+
+6.4 De los antecedentes especiales para
+
+postular a que se refiere el
 
 #### Artículo 23
 
-6.5 De la exigencia referida al Plan de Habilitación Social,
+6.5 De la exigencia referida al Plan de
 
-contenida en los artículos 23 bis y 23 ter.
+Habilitación Social, contenida en
 
-6.6 De las exigencias contenidas en el Párrafo XI del Capítulo
+los artículos 23 bis y 23 ter.
 
-Primero, referido al Proceso de Selección, conformado por los
+6.6 De las exigencias contenidas en el
+
+### Párrafo XI — del Capítulo Primero,
+
+referido al Proceso de Selección,
+
+conformado por los
 
 artículos 24, 24 bis, 25, 26 y 27.
 
-6.7 De los factores de puntaje a que se refiere el artículo 28 letra
+6.7 De los factores de puntaje a que se
+
+refiere el artículo 28 letra
 
 c).
 
-6.8 De lo establecido en el inciso segundo del artículo 32 bis,
+6.8 De lo establecido en el inciso segundo
 
-respecto del monto a pagar por los Servicios de Asistencia
+del artículo 32 bis, respecto del monto
 
-Técnica, en cuanto a que deba regirse por lo indicado en la
+a pagar por los Servicios de Asistencia
+
+Técnica, en cuanto a que deba regirse
+
+por lo indicado en la
 
 resolución Nº 533 (V. y U.), de 1997.
 
-6.9 De lo dispuesto en los artículos 33, 34, 35 y 36, que conforman el
+6.9 De lo dispuesto en los artículos 33, 34,
 
-### Párrafo XV — del Capítulo Primero, referido al Contratista o
+35 y 36, que conforman el párrafo XV
 
-Constructor.
+del Capítulo Primero, referido al
 
-6.10 De lo dispuesto en los artículos 37 y 37 bis, que conforman el
+Contratista o Constructor.
 
-### Párrafo XVI — del Capítulo Primero, referido a los documentos
+6.10 De lo dispuesto en los artículos 37 y
 
-exigidos para el pago del subsidio.
+37 bis, que conforman el párrafo XVI
+
+del Capítulo Primero, referido a los
+
+documentos exigidos para el pago del
+
+subsidio.
 
 7. Apruébase el listado de materiales de construcción que podrán ser adquiridos mediante este subsidio, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma. Sin embargo, en caso de ser requerido, se autorizará a cada Serviu para que mediante resoluciones fundadas pueda incorporar a este listado nuevos materiales o herramientas.
 
@@ -214,69 +316,117 @@ No obstante lo señalado en los incisos precedentes, en casos específicos estos
 
 9. La operatoria mediante la cual se hará efectiva la entrega de este subsidio a las familias que resulten beneficiadas será la siguiente:
 
-9.1 Las familias deberán seleccionar una Entidad Patrocinante (EP) y/o
+9.1 Las familias deberán seleccionar una Entidad
 
-Prestador de Servicios de Asistencia Técnica (PSAT), con su
+Patrocinante (EP) y/o Prestador de Servicios
 
-respectivo Convenio Marco vigente, quien deberá realizar una
+de Asistencia Técnica (PSAT), con su
 
-visita a la vivienda con el objeto evaluar y determinar las obras
+respectivo Convenio Marco vigente, quien
 
-de mejoramiento y/o reparaciones que se realizarán en el inmueble
+deberá realizar una visita a la vivienda
 
-de acuerdo a lo indicado en los puntos 10 y 11 de la presente
+con el objeto evaluar y determinar las obras
 
-resolución.
+de mejoramiento y/o reparaciones que se
 
-9.2 Una vez determinadas las obras de mejoramiento por parte de la
+realizarán en el inmueble de acuerdo a
 
-EP/PSAT, y encontrándose éstas aprobadas por parte de Serviu, este
+lo indicado en los puntos 10 y 11 de
 
-último procederá con la entrega de una tarjeta al beneficiario,
+la presente resolución.
 
-individualizada con sus datos, la cual le permitirá a éste
+9.2 Una vez determinadas las obras de
 
-realizar hasta un máximo de 4 compras de materiales de
+mejoramiento por parte de la EP/PSAT, y
 
-construcción en centros ferreteros y/o lugares relativos a la
+encontrándose éstas aprobadas por parte
+
+de Serviu, este último procederá con la
+
+entrega de una tarjeta al beneficiario,
+
+individualizada con sus datos, la cual
+
+le permitirá a éste realizar hasta
+
+un máximo de 4 compras de materiales
+
+de construcción en centros ferreteros
+
+y/o lugares relativos a la
 
 venta de éstos.
 
-Al momento de recibir la tarjeta, el beneficiario deberá suscribir
+Al momento de recibir la tarjeta, el
 
-ante el Serviu una declaración jurada, la que deberá contener las
+beneficiario deberá suscribir
+
+ante el Serviu una declaración
+
+jurada, la que deberá contener las
 
 siguientes estipulaciones:
 
-a. Obligarse a utilizar los materiales de construcción adquiridos
+a. Obligarse a utilizar los materiales
 
-mediante este subsidio, en la realización de obras de
+de construcción adquiridos
+
+mediante este subsidio, en la
+
+realización de obras de
 
 mejoramiento de su vivienda.
 
-b. Comprometerse a ejecutar las obras, siguiendo las indicaciones
+b. Comprometerse a ejecutar las
 
-técnicas impartidas por el Prestador de Servicios de
+obras, siguiendo las indicaciones
+
+técnicas impartidas por el
+
+Prestador de Servicios de
 
 Asistencia Técnica.
 
-c. Contar con los medios para gestionar de manera personal, la
+c. Contar con los medios para
 
-mano de obra con la que se ejecutarán las obras de
+gestionar de manera personal, la
 
-mejoramiento de la propiedad o, en su defecto, poder
+mano de obra con la que se
+
+ejecutarán las obras de
+
+mejoramiento de la propiedad
+
+o, en su defecto, poder
 
 realizarla personalmente.
 
-d. Declarar estar en pleno conocimiento que la mala utilización
+d. Declarar estar en pleno
 
-de este subsidio facultará a Serviu para solicitar la
+conocimiento que la mala
 
-restitución parcial o total del monto de subsidio otorgado, y
+utilización de este subsidio
 
-perseguir las acciones civiles y penales que ello implique si
+facultará a Serviu para
 
-se determina que se ha generado algún perjuicio hacia un
+solicitar la restitución
+
+parcial o total del monto
+
+de subsidio otorgado, y
+
+perseguir las acciones
+
+civiles y penales que
+
+ello implique si
+
+se determina que se
+
+ha generado algún
+
+perjuicio hacia un
 
 tercero.
 
@@ -288,195 +438,329 @@ Si luego de tres meses de seleccionadas las familias, estas no han encontrado un
 
 11. Será responsabilidad de las EP/PSAT que participen de este llamado la realización de las siguientes labores de Asistencia Técnica:
 
-11.1 Elaborar una Carpeta Técnica con el Proyecto de Mejoramiento que
+11.1 Elaborar una Carpeta Técnica con el Proyecto de
 
-se realizará en la propiedad, la cual deberá contener los
+Mejoramiento que se realizará en la propiedad,
+
+la cual deberá contener los
 
 siguientes antecedentes:
 
-11.1.1 Ficha de identificación del beneficiario y de la propiedad
+11.1.1 Ficha de identificación del beneficiario
 
-en formato que será proporcionado por cada Serviu.
+y de la propiedad en formato que será
 
-11.1.2 Informe resumido en formato proporcionado por Serviu, con
+proporcionado por cada Serviu.
 
-el estado de situación de la propiedad, el cual indicará
+11.1.2 Informe resumido en formato proporcionado
 
-las principales problemáticas identificadas en la vivienda
+por Serviu, con el estado de situación
 
-y las propuestas de intervención acordadas conjuntamente
+de la propiedad, el cual indicará
+
+las principales problemáticas
+
+identificadas en la vivienda y las
+
+propuestas de intervención acordadas
+
+conjuntamente
 
 con el beneficiario.
 
-11.1.3 Cubicación y presupuesto estimativo de los materiales de
+11.1.3 Cubicación y presupuesto estimativo
 
-construcción que se requerirán para las distintas partidas
+de los materiales de construcción
+
+que se requerirán para las
+
+distintas partidas
 
 de las obras de mejoramiento.
 
-Este presupuesto será en pesos, con IVA incluido, y por el
+Este presupuesto será en pesos,
 
-equivalente al monto de subsidio otorgado, y estará
+con IVA incluido, y por el
 
-ordenado en 2 etapas, la primera que comprenderá hasta la
+equivalente al monto de subsidio
 
-utilización aproximada del 35% del monto del subsidio y la
+otorgado, y estará ordenado en
 
-segunda que deberá considerar el resto de los materiales
+2 etapas, la primera que
 
-por el equivalente al 65% restante del monto del subsidio.
+comprenderá hasta la
 
-La conversión del monto del subsidio, desde unidades de
+utilización aproximada del
 
-fomento a pesos, se realizará con el valor UF
+35% del monto del subsidio y la
 
-correspondiente a la fecha de la presente resolución.
+segunda que deberá considerar el
 
-11.2 Una vez aprobada la Carpeta Técnica a que se refiere el punto 11.1
+resto de los materiales
 
-precedente, la EP/PSAT deberá digitar en el sistema informático
+por el equivalente al 65% restante
 
-del Minvu los datos correspondientes al proyecto de reparación,
+del monto del subsidio.
 
-con el objeto de activar la tarjeta que le permitirá al
+La conversión del monto del
 
-beneficiario realizar la compra de los materiales de construcción
+subsidio, desde unidades de
 
-equivalentes a la primera etapa del presupuesto.
+fomento a pesos, se realizará
 
-En ese instante, el beneficiario dispondrá de aproximadamente el
+con el valor UF correspondiente
 
-35% del monto del subsidio, con el cual podrá realizar un máximo
+a la fecha de la presente resolución.
 
-de 2 compras en establecimientos distintos o en un mismo lugar.
+11.2 Una vez aprobada la Carpeta Técnica a que
 
-11.3 Una vez adquiridos los materiales de construcción, la EP/PSAT
+se refiere el punto 11.1 precedente, la
 
-deberá asesorar a las familias respecto de los procedimientos
+EP/PSAT deberá digitar en el sistema
 
-técnicos a realizar y aspectos mínimos a considerar en los
+informático del Minvu los datos
 
-distintos procesos constructivos que se ejecutarán en la propiedad.
+correspondientes al proyecto de
 
-11.4 Otorgar el visto bueno de las obras, concluida la primera etapa de
+reparación, con el objeto de activar
 
-ejecución, con el objeto de autorizar o no la activación de la
+la tarjeta que le permitirá al
 
-segunda carga de la tarjeta para que el beneficiario realice la
+beneficiario realizar la compra
+
+de los materiales de construcción
+
+equivalentes a la primera etapa
+
+del presupuesto.
+
+En ese instante, el beneficiario
+
+dispondrá de aproximadamente el
+
+35% del monto del subsidio, con
+
+el cual podrá realizar un máximo
+
+de 2 compras en establecimientos
+
+distintos o en un mismo lugar.
+
+11.3 Una vez adquiridos los materiales de
+
+construcción, la EP/PSAT deberá asesorar
+
+a las familias respecto de los
+
+procedimientos técnicos a realizar y
+
+aspectos mínimos a considerar en los
+
+distintos procesos constructivos que
+
+se ejecutarán en la propiedad.
+
+11.4 Otorgar el visto bueno de las obras,
+
+concluida la primera etapa de
+
+ejecución, con el objeto de
+
+autorizar o no la activación de la
+
+segunda carga de la tarjeta para
+
+que el beneficiario realice la
 
 compra de los materiales que restan.
 
-11.5 Elaborar, durante el transcurso de las obras de mejoramiento, un
+11.5 Elaborar, durante el transcurso de
 
-Informe Técnico donde queden consignadas las principales
+las obras de mejoramiento, un
 
-observaciones que éste visualice al proceso constructivo.
+Informe Técnico donde queden
 
-11.6 Velar por la correcta aplicación del subsidio por parte del
+consignadas las principales
 
-beneficiario, en caso contrario, informar a Serviu respecto a
+observaciones que éste visualice
+
+al proceso constructivo.
+
+11.6 Velar por la correcta aplicación
+
+del subsidio por parte del
+
+beneficiario, en caso contrario,
+
+informar a Serviu respecto a
 
 cualquier anomalía.
 
-11.7 Dar cumplimiento a lo señalado en el punto 16 de la presente
+11.7 Dar cumplimiento a lo señalado en
+
+el punto 16 de la presente
 
 resolución.
 
 12. Aquellos proveedores de materiales de construcción que deseen participar en este Programa, deberán dar cumplimiento de los siguientes requisitos:
 
-12.1 Suscribir un Convenio con el Serviu respectivo, el que deberá
+12.1 Suscribir un Convenio con el Serviu respectivo,
 
-considerar, al menos, las siguientes estipulaciones:
+el que deberá considerar, al menos,
 
-12.1.1 Contar con acceso a internet para realizar las operaciones
+las siguientes estipulaciones:
 
-que se indican en los puntos sucesivos.
+12.1.1 Contar con acceso a internet para
 
-12.1.2 Comprometerse a utilizar correctamente la clave personal
+realizar las operaciones
 
-que le será otorgada, mediante la cual podrá tener acceso
+que se indican en los puntos
 
-como usuario externo al sistema informático del Minvu, para
+sucesivos.
 
-el registro de las ventas de materiales de construcción que
+12.1.2 Comprometerse a utilizar correctamente
 
-éste realice.
+la clave personal que le será otorgada,
 
-12.1.3 Estar en conocimiento del listado de materiales que podrá
+mediante la cual podrá tener acceso
 
-vender a las familias beneficiadas con este subsidio, el
+como usuario externo al sistema
 
-cual se adjunta como anexo según se indica en el punto 7 de
+informático del Minvu, para el registro
 
-la presente resolución.
+de las ventas de materiales de
 
-12.1.4 Vender solamente los materiales autorizados en la lista a
+construcción que éste realice.
 
-que se refiere el punto precedente y/o aquellos autorizados
+12.1.3 Estar en conocimiento del listado de
 
-por Serviu mediante resoluciones regionales.
+materiales que podrá vender a las
 
-Adicionalmente, comprometerse a vender a los beneficiarios
+familias beneficiadas con este
 
-sólo los materiales que vengan detallados en el presupuesto
+subsidio, el cual se adjunta como
 
-que ellos presenten, el cual habrá sido elaborado por la
+anexo según se indica en el punto
+
+7 de la presente resolución.
+
+12.1.4 Vender solamente los materiales
+
+autorizados en la lista a
+
+que se refiere el punto precedente
+
+y/o aquellos autorizados
+
+por Serviu mediante resoluciones
+
+regionales.
+
+Adicionalmente, comprometerse a
+
+vender a los beneficiarios
+
+sólo los materiales que vengan
+
+detallados en el presupuesto
+
+que ellos presenten, el cual
+
+habrá sido elaborado por la
 
 EP/PSAT y aprobado por Serviu.
 
-12.1.5 Declarar conocer la documentación requerida por Serviu,
+12.1.5 Declarar conocer la documentación
 
-para realizar el cobro de las ventas realizadas, la cual se
+requerida por Serviu, para realizar
 
-encuentra detallada en el presente documento.
+el cobro de las ventas realizadas,
 
-12.1.6 En caso de existir cambio de materiales de construcción por
+la cual se encuentra detallada en
 
-parte del beneficiario, no reembolsar bajo ningún argumento
+el presente documento.
 
-dinero en efectivo al mismo sino sólo otros materiales
+12.1.6 En caso de existir cambio de
 
-autorizados en la lista respectiva.
+materiales de construcción por
 
-12.1.7 Conocer las condiciones generales del Programa y con ello
+parte del beneficiario, no
 
-estar en conocimiento que el no cumplimiento de requisitos
+reembolsar bajo ningún argumento
 
-y compromisos suscritos en dicho Convenio facultará a
+dinero en efectivo al mismo
 
-Serviu para determinar su eliminación del listado de
+sino sólo otros materiales
 
-proveedores de materiales de construcción, sin perjuicio de
+autorizados en la lista
 
-perseguir las acciones civiles y penales que ello implique
+respectiva.
 
-si se determina que ha generado algún perjuicio hacia un
+12.1.7 Conocer las condiciones generales
+
+del Programa y con ello estar en
+
+conocimiento que el no cumplimiento
+
+de requisitos y compromisos suscritos
+
+en dicho Convenio facultará a Serviu
+
+para determinar su eliminación del
+
+listado de proveedores de materiales
+
+de construcción, sin perjuicio de
+
+perseguir las acciones civiles y
+
+penales que ello implique si se
+
+determina que ha generado algún
+
+perjuicio hacia un
 
 tercero.
 
-12.2 Previo a la realización de una venta, el proveedor deberá
+12.2 Previo a la realización de una venta, el
 
-verificar la identidad del beneficiario, solicitar la tarjeta que
+proveedor deberá verificar la identidad del
 
-lo hace acreedor del subsidio y comprobar con ello la existencia
+beneficiario, solicitar la tarjeta que
 
-de saldo disponible para la realización de la compra de
+lo hace acreedor del subsidio y comprobar
 
-materiales, a través del sistema informático del Minvu.
+con ello la existencia de saldo disponible
 
-12.3 Generar una boleta o factura a nombre del beneficiario, con el
+para la realización de la compra de
 
-detalle y monto unitario de cada uno de los materiales vendidos.
+materiales, a través del sistema
 
-12.4 Registrar en el sistema informático del Minvu los datos de la
+informático del Minvu.
 
-venta realizada y con ello imprimir en forma inmediata el
+12.3 Generar una boleta o factura a nombre
 
-comprobante que le entregará el sistema informático, con los datos
+del beneficiario, con el
 
-de la operación y un código de validación de la misma, el cual
+detalle y monto unitario de cada
 
-deberá ser firmado por el beneficiario y por la persona que
+uno de los materiales vendidos.
+
+12.4 Registrar en el sistema informático del
+
+Minvu los datos de la venta realizada y
+
+con ello imprimir en forma inmediata el
+
+comprobante que le entregará el sistema
+
+informático, con los datos de la operación
+
+y un código de validación de la misma,
+
+el cual deberá ser firmado por el
+
+beneficiario y por la persona que
 
 realiza la venta de los materiales.
 
@@ -498,35 +782,55 @@ Adicionalmente, si una vez realizada la segunda compra de la segunda etapa, qued
 
 16. Una vez terminada la intervención en la vivienda y para acreditar la finalización de las obras, se exigirá a la EP/PSAT el cumplimiento de los siguientes requisitos y documentos:
 
-16.1 Visto bueno en el sistema informático del Minvu en un módulo
+16.1 Visto bueno en el sistema informático del Minvu
 
-especialmente habilitado para ello.
+en un módulo especialmente habilitado para
 
-16.2 Informe Técnico a que se refiere el punto 11.5 de la presente
+ello.
 
-resolución, el cual deberá incorporar al final del proceso un
+16.2 Informe Técnico a que se refiere el punto
 
-anexo firmado por la EP/PSAT que certifique que los materiales
+11.5 de la presente resolución, el cual
 
-adquiridos por el beneficiario fueron utilizados en la obra y que
+deberá incorporar al final del proceso un
 
-éstas se desarrollaron de acuerdo al apoyo técnico que él
+anexo firmado por la EP/PSAT que certifique
+
+que los materiales adquiridos por el
+
+beneficiario fueron utilizados en la
+
+obra y que éstas se desarrollaron de
+
+acuerdo al apoyo técnico que él
 
 proporcionó.
 
-16.3 Documento suscrito por el beneficiario que indique su conformidad
+16.3 Documento suscrito por el beneficiario
 
-con el trabajo realizado por la EP/PSAT, según documento tipo
+que indique su conformidad
 
-proporcionado por el Serviu para estos efectos.
+con el trabajo realizado por la
 
-En caso de no contar con el documento a que se refiere el punto
+EP/PSAT, según documento tipo
 
-precedente, Serviu tendrá la facultad de emitir su conformidad con
+proporcionado por el Serviu para estos
 
-el término del proceso, siempre que a juicio de dicho Servicio se
+efectos.
 
-cumpla con las condiciones establecidas para este subsidio.
+En caso de no contar con el documento a
+
+que se refiere el punto precedente, Serviu
+
+tendrá la facultad de emitir su
+
+conformidad con el término del proceso,
+
+siempre que a juicio de dicho Servicio se
+
+cumpla con las condiciones establecidas
+
+para este subsidio.
 
 17. Los procedimientos para la recepción de los trabajos por parte de Serviu serán los establecidos por cada Servicio.
 
@@ -538,101 +842,171 @@ Si transcurrido el plazo de vigencia de los subsidios otorgados a través del pr
 
 19. En complemento a lo dispuesto en los puntos 14 y 18 precedentes, los honorarios por concepto de Prestación de Servicios de Asistencia Técnica serán los siguientes:
 
-19.1 30% del total de los honorarios una vez concluida la primera fase
+19.1 30% del total de los honorarios una vez concluida
 
-de ejecución de las obras de acuerdo a lo señalado en el punto 14
+la primera fase de ejecución de las obras de
+
+acuerdo a lo señalado en el punto 14
 
 de la presente resolución.
 
-19.2 60% del total de los honorarios, si además de ejecutada la primera
+19.2 60% del total de los honorarios, si además
 
-etapa según lo indicado en el punto 19.1 precedente, el avance del
+de ejecutada la primera etapa según lo
 
-proyecto es igual o superior al 50%.
+indicado en el punto 19.1 precedente,
 
-19.3 80% del total de los honorarios, si además de ejecutada la primera
+el avance del proyecto es igual o
 
-etapa según lo indicado en el punto 19.1 precedente, el avance del
+superior al 50%.
+
+19.3 80% del total de los honorarios, si
+
+además de ejecutada la primera
+
+etapa según lo indicado en el punto
+
+19.1 precedente, el avance del
 
 proyecto es igual o superior al 70%.
 
-Si el proyecto se ejecutó en su totalidad se pagará el total de
+Si el proyecto se ejecutó en su
 
-los honorarios a que se refiere la tabla inserta en el resuelvo 4
+totalidad se pagará el total de
+
+los honorarios a que se refiere
+
+la tabla inserta en el resuelvo 4
 
 de la presente resolución.
 
-Sin perjuicio de lo anterior, se pagará el 30% del total de los
+Sin perjuicio de lo anterior, se
 
-honorarios si el beneficiario desiste de aplicar el subsidio, pero
+pagará el 30% del total de los
 
-la Asistencia Técnica ya ha visitado la vivienda, ha elaborado el
+honorarios si el beneficiario desiste
 
-proyecto de mejoramiento y ha ingresado los datos de este último
+de aplicar el subsidio, pero
 
-en el sistema informático del Minvu; o si las personas no
+la Asistencia Técnica ya ha visitado
 
-utilizaron la segunda carga de la tarjeta porque el PSAT no dio
+la vivienda, ha elaborado el
 
-visto bueno a las obras en la primera etapa, lo cual deberá quedar
+proyecto de mejoramiento y ha
 
-consignado en un informe escrito que será elaborado en un formato
+ingresado los datos de este último
+
+en el sistema informático del Minvu;
+
+o si las personas no
+
+utilizaron la segunda carga de la
+
+tarjeta porque el PSAT no dio
+
+visto bueno a las obras en la
+
+primera etapa, lo cual deberá quedar
+
+consignado en un informe escrito
+
+que será elaborado en un formato
 
 proporcionado por Serviu.
 
-Asimismo, se pagará el 20% del total de los honorarios si a juicio
+Asimismo, se pagará el 20% del total
 
-de la Asistencia Técnica el subsidió no era factible de aplicar en
+de los honorarios si a juicio
 
-la propiedad una vez realizada la visita, situación de la cual
+de la Asistencia Técnica el subsidió
 
-deberá dejarse constancia en el sistema informático del Minvu.
+no era factible de aplicar en
+
+la propiedad una vez realizada la
+
+visita, situación de la cual
+
+deberá dejarse constancia en el
+
+sistema informático del Minvu.
 
 20. Para el pago a los proveedores de materiales de construcción, Serviu solicitará los siguientes antecedentes:
 
-20.1 Comprobante con el código de validación de la operación, entregado
+20.1 Comprobante con el código de
 
-por el soporte informático del Ministerio de Vivienda y Urbanismo,
+validación de la operación, entregado
 
-el cual debe encontrarse firmado por el proveedor y por el
+por el soporte informático del
+
+Ministerio de Vivienda y Urbanismo,
+
+el cual debe encontrarse firmado
+
+por el proveedor y por el
 
 beneficiario.
 
-20.2 Copia de factura o boleta, con el detalle y cantidad de materiales
+20.2 Copia de factura o boleta, con el
 
-entregados, y en caso de no constar en éstos, deberá acompañarse
+detalle y cantidad de materiales
 
-copia de la correspondiente Guía de Despacho, debiendo estar
+entregados, y en caso de no constar
 
-firmada por el beneficiario como forma de acreditar la recepción
+en éstos, deberá acompañarse
+
+copia de la correspondiente Guía
+
+de Despacho, debiendo estar
+
+firmada por el beneficiario como
+
+forma de acreditar la recepción
 
 conforme de los materiales.
 
-Serviu deberá revisar el detalle de las boletas y/o facturas
+Serviu deberá revisar el detalle de
 
-presentadas por el proveedor y sólo pagará aquellos materiales de
+las boletas y/o facturas
 
-construcción autorizados en la lista a que se refiere el punto 7
+presentadas por el proveedor y
 
-de la presente resolución y verificando, a la vez, que éstos
+sólo pagará aquellos materiales de
 
-coincidan con los materiales indicados en el presupuesto elaborado
+construcción autorizados en la
+
+lista a que se refiere el punto 7
+
+de la presente resolución y
+
+verificando, a la vez, que éstos
+
+coincidan con los materiales
+
+indicados en el presupuesto elaborado
 
 por la EP/PSAT.
 
-En caso que algunos de los elementos detallados en la boleta o
+En caso que algunos de los elementos
 
-factura no se encuentren incluidos en el listado a que se refiere
+detallados en la boleta o
 
-el inciso precedente, dicho documento podrá ser pagado igualmente;
+factura no se encuentren incluidos
 
-sin embargo, estos elementos serán descontados y no se
+en el listado a que se refiere
 
-considerarán en la liquidación del monto a pagar.
+el inciso precedente, dicho documento
+
+podrá ser pagado igualmente;
+
+sin embargo, estos elementos serán
+
+descontados y no se considerarán en
+
+la liquidación del monto a pagar.
 
 21. Mediante resolución del Ministerio de Vivienda y Urbanismo se aprobarán las nóminas de los postulantes seleccionados y la redistribución de recursos a que se refiere el inciso final del resuelvo 1. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS Nº 255 (V. y U.), de 2006, y en la página web del Minvu.
 
-22. Los subsidios a que se refiere la presente resolución tendrán una vigencia de 14 meses a contar de la fecha de la presente resolución.
+22. Los subsidios a que se refiere la presente resolución tendrán una vigencia de 20 meses a contar de la fecha de la resolución de selección respectiva.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 

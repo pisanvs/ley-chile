@@ -202,7 +202,7 @@ En caso que algunos de los elementos detallados en la boleta o factura no se enc
 
 20. Mediante resolución del Ministerio de Vivienda y Urbanismo se aprobarán las nóminas de los postulantes seleccionados. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS Nº 255 (V. y U.), de 2006, y en la página web del Minvu.
 
-21. Los subsidios a que se refiere la presente resolución, tendrán una vigencia de 14 meses a contar de la fecha de la resolución de selección respectiva.
+21. Los subsidios a que se refiere la presente resolución, tendrán una vigencia de 20 meses a contar de la fecha de la resolución de selección respectiva.
 
 22. Los subsidios habitacionales que se otorguen conforme a la presente resolución, se imputarán a los recursos dispuestos para cada región para el Programa de Protección del Patrimonio Familiar del año 2013, regulado por el DS Nº 255 (V. y U.), de 2006.
 
