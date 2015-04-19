@@ -196,6 +196,28 @@ El Consejo de Fomento de la Música Nacional podrá celebrar convenios con entid
 
 El reglamento establecerá la forma en que se efectuará la certificación de los porcentajes convenidos, así como la ponderación que se asignará a las entidades que hayan suscrito los acuerdos mencionados en el inciso anterior, en los concursos, licitaciones y campañas indicadas en los números 5) y 10) del artículo 3º.
 
+Sin perjuicio de lo dispuesto en el inciso primero, las radioemisoras que operen concesiones de radiodifusión sonora, en su programación diaria deberán emitir al menos una quinta parte (20%) de música nacional, medida sobre el total de canciones emitidas, distribuida durante la jornada diaria de transmisión de cada emisora, sin que pueda acumularse más de la mitad del total de la emisión de la música en horario nocturno, esto es de 22:00 a 06:00.
+
+En cumplimiento de la obligación dispuesta en los incisos anteriores, las emisoras podrán incluir los programas de difusión de música u otras expresiones culturales, de compositores, artistas o creadores indígenas según lo establecido en los artículos 1º y 7º de la ley Nº 19.253.
+
+Del porcentaje de música nacional a que se refieren los incisos anteriores, a lo menos un veinticinco por ciento (25%) deberá estar destinado a:
+
+a) Composiciones o interpretaciones musicales emergentes, entendiéndose por tales aquellas grabadas en fonogramas en los últimos tres años contados desde la fecha de la emisión radial, o
+
+b) Composiciones o interpretaciones de identificación regional o local, de acuerdo al área de concesión.
+
+El porcentaje mínimo a que se refieren los incisos precedentes se contará del total de las canciones u obras musicales emitidas que constaren en la planilla de ejecución diaria elaborada por cada radiodifusora.
+
+#### Artículo 15 bis
+
+La radioemisora que faltare a las normas sobre porcentajes mínimos de emisión de música nacional, estatuidas en el artículo anterior, será sancionada con multa de cinco a cincuenta unidades tributarias mensuales, la que se duplicará en caso de reincidencia.
+
+El juicio a que se procediere en aplicación del inciso precedente se tramitará según las reglas del Título XI del Libro III del Código de Procedimiento Civil.
+
+#### Artículo 15 ter
+
+Instáurase el 4 de octubre de cada año como el "Día de la Música y de los Músicos Chilenos".
+
 #### Artículo 16
 
 El Registro de la Propiedad Intelectual que recibe el depósito legal a que se refiere el artículo 75 de la ley Nº 17.336, sobre Propiedad Intelectual, entregará, a la Biblioteca Nacional, uno de los ejemplares de las obras musicales, impresos o grabados, para archivar, proteger, investigar, difundir y exhibir la producción musical nacional.
