@@ -48,21 +48,21 @@ Calle
 
 Patricio Sargento Ernesto El
 
-Lynch Aldea Riquelme Bosque 05.01.15 15.04.15
+Lynch Aldea Riquelme Bosque 05.01.15 17.04.15
 
 Calle
 
 Ernesto Patricio Eleuterio El
 
-Riquelme Lynch Ramírez Bosque 05.01.15 15.04.15
+Riquelme Lynch Ramírez Bosque 05.01.15 15.05.15
 
 Ernesto Eleuterio Padre El
 
-Riquelme Ramírez Hurtado Bosque 15.04.15 05.08.15
+Riquelme Ramírez Hurtado Bosque 16.05.15 30.07.15
 
 Padre Ernesto Vicuña La
 
-Hurtado Riquelme Mackenna Cisterna 05.01.15 15.04.15
+Hurtado Riquelme Mackenna Cisterna 05.01.15 08.05.15
 
 Podrán ingresar excepcionalmente en los tramos señalados, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto "Rotura de Colector de Aguas Servidas Riquelme - Padre Hurtado, La Cisterna, comuna de La Cisterna" y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual.
 
