@@ -184,8 +184,6 @@ Para los efectos de las leyes laborales, se considerarán mayores de edad y pued
 
 Los menores de dieciocho años y mayores de quince podrán celebrar contratos de trabajo sólo para realizar trabajos ligeros que no perjudiquen su salud y desarrollo, siempre que cuenten con autorización expresa del padre o madre; a falta de ellos, del abuelo o abuela paterno o materno; o a falta de éstos, de los guardadores, personas o instituciones que hayan tomado a su cargo al menor, o a falta de todos los anteriores, del inspector del trabajo respectivo. Además, previamente, deberán acreditar haber culminado su Educación Media o encontrarse actualmente cursando ésta o la Educación Básica. En estos casos, las labores no deberán dificultar su asistencia regular a clases y su participación en programas educativos o de formación. Los menores de dieciocho años que se encuentren actualmente cursando su Enseñanza Básica o Media no podrán desarrollar labores por más de treinta horas semanales durante el período escolar. En ningún caso los menores de dieciocho años podrán trabajar más de ocho horas diarias. A petición de parte, la Dirección Provincial de Educación o la respectiva Municipalidad, deberá certificar las condiciones geográficas y de transporte en que un menor trabajador debe acceder a su educación básica o media.
 
-Lo establecido en el inciso anterior se aplicará respecto de los menores de quince años, en las situaciones calificadas en que se permite su contratación en los espectáculos y actividades artísticas a que hacen referencia los artículos 15, inciso segundo y 16.
-
 El inspector del trabajo que hubiere autorizado al menor en los casos de los incisos anteriores, pondrá los antecedentes en conocimiento del Tribunal de Familia que corresponda, el que podrá dejar sin efecto la autorización si lo estimare inconveniente para el trabajador.
 
 Otorgada la autorización, se aplicarán al menor las normas del artículo 246 del Código Civil y será considerado plenamente capaz para ejercitar las acciones correspondientes.
@@ -195,6 +193,8 @@ La autorización exigida en el inciso segundo no se aplicará a la mujer casada,
 Un reglamento del Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará las actividades consideradas como peligrosas para la salud y el desarrollo de los menores de dieciocho años que impidan, en consecuencia, celebrar contratos de trabajo en conformidad a los incisos anteriores, debiendo actualizarse dicho listado cada dos años.
 
 Las empresas que contraten los servicios de menores de dieciocho años, deberán registrar dichos contratos en la respectiva Inspección Comunal del Trabajo.
+
+> **Nota.** El N° 1 del Artículo Único de la Ley 20821, publicada el 18.04.2015, suprime el inciso tercero de la presente norma.
 
 #### Artículo 14
 
@@ -208,11 +208,15 @@ El empleador que contratare a un menor de veintiún años sin haber cumplido el 
 
 Queda prohibido el trabajo de menores de dieciocho años en cabarets y otros establecimientos análogos que presenten espectáculos vivos, como también en los que expendan bebidas alcohólicas que deban consumirse en el mismo establecimiento.
 
-Podrán, sin embargo, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, actuar en aquellos espectáculos los menores de edad que tengan expresa autorización de su representante legal y del respectivo Tribunal de Familia.
+En ningún caso se podrá autorizar a menores de edad para trabajar en recintos o lugares donde se realicen o exhiban espectáculos de significación sexual.
+
+#### Artículo 15 bis
+
+Los menores de dieciocho años y mayores de quince podrán actuar en espectáculos vivos que no se desarrollen en cabarets u otros establecimientos similares o en aquellos en que se expendan bebidas alcohólicas que deban ser consumidas en el mismo establecimiento, siempre que cuenten con autorización de su representante legal y del respectivo Tribunal de Familia. Esta última autorización se otorgará previa verificación del cumplimiento de los requisitos previstos en el artículo 13, inciso segundo y cuando dicha actuación no sea peligrosa para la salud, seguridad o moralidad del menor.
 
 #### Artículo 16
 
-En casos debidamente calificados, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, y con la autorización de su representante legal o del respectivo Tribunal de Familia, podrá permitirse a los menores de quince años que celebren contrato de trabajo con personas o entidades dedicadas al teatro, cine, radio, televisión, circo u otras actividades similares.
+En casos debidamente calificados, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, y con la autorización de su representante legal y del respectivo Tribunal de Familia, podrá permitirse a los menores de quince años que celebren contratos para participar en espectáculos de teatro, cine, radio, televisión, circo u otras actividades similares.
 
 #### Artículo 17
 
@@ -497,6 +501,10 @@ La vigencia de la resolución será por el plazo de cuatro años. No obstante, e
 Sin perjuicio de lo señalado en el inciso cuarto del artículo anterior, los trabajadores a que se refiere el número 7 del inciso primero del mismo artículo gozarán, adicionalmente a ello, de siete días domingo de descanso semanal durante cada año de vigencia del contrato de trabajo. Solo mediante acuerdo escrito entre el empleador y los trabajadores, o con el o los sindicatos existentes, hasta tres de dichos domingos podrán ser reemplazados por días sábado, siempre que se distribuyan junto a un domingo también de descanso semanal. Este derecho al descanso dominical no podrá ser compensado en dinero, ni acumulado de un año a otro.
 
 Este artículo no se aplicará a los trabajadores contratados por un plazo de treinta días o menos, ni a aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
+
+#### Artículo 38 ter
+
+En el caso de los trabajadores señalados en el número 7 del artículo 38, los días de descanso semanal no podrán coincidir con los días feriados establecidos en la ley Nº19.973.
 
 #### Artículo 39
 
