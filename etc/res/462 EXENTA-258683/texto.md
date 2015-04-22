@@ -70,7 +70,7 @@ Independencia Cotapo Prieto Sentido N-S
 
 Av.
 
-Independencia Echeverría José P�rez Sentido S-N
+Independencia Echeverría José Pérez Sentido S-N
 
 Cotapo
 
@@ -231,6 +231,12 @@ Mackenna-Ismael
 Valdés Teatinos Miraflores Sentido P-O.
 
 Vergara
+
+Av. Manuel
+
+Antonio Av. Viel Av. Vicuña Mackenna Ambos sentidos.
+
+Matta
 
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
