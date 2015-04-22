@@ -2172,7 +2172,7 @@ La citada ley N° 19.913 establece que las personas naturales y las personas jur
 
 Asimismo, define por operación sospechosa, todo acto, operación o transacción que, de acuerdo con los usos y costumbres de la actividad de que se trate, resulte inusual o carente de justificación económica o jurídica aparente, sea que se realice en forma aislada o reiterada.
 
-De acuerdo con dicha ley, los bancos están obligados a reportar operaciones sospechosas, a mantener registros especiales por el plazo mínimo de cinco años e informar a la Unidad de Análisis Financiero cuando esta lo requiera, de toda operación en efectivo superior al equivalente de 450 unidades de fomento en cualquier moneda.
+De acuerdo con dicha ley, los bancos están obligados a reportar operaciones sospechosas, a mantener registros especiales por el plazo mínimo de cinco años e informar a la Unidad de Análisis Financiero cuando esta lo requiera, de toda operación en efectivo superior al equivalente a 10.000 dólares de los Estados Unidos de América o su equivalente en pesos, según el valor del dólar observado el día en que se realizó la operación. Asimismo, deben informar todos los actos, transacciones u operaciones que se indican en el artículo 38 de la Ley N° 19.913.
 
 En todo caso, cabe tener presente lo dispuesto en el artículo 154 de la Ley General de Bancos acerca de la reserva y secreto bancario y en el artículo 6° de la Ley N° 19.913, sobre prohibición de informar al afectado o a terceras personas sobre la información enviada a la UAF u otros antecedentes al respecto.
 
@@ -2774,7 +2774,7 @@ Asimismo, no existe inconveniente legal para que dos o más personas abran una c
 
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
-1.5. Cuentas corrientes a nombre del partidor de una sucesión y de personas naturales o jurídicas en quiebra.
+1.5. Cuentas corrientes a nombre del partidor de una sucesión y de personas naturales o jurídicas en un procedimiento concursal de liquidación.
 
 a) A nombre del partidor de una sucesión.
 
@@ -2782,15 +2782,15 @@ La sucesión hereditaria no es persona jurídica, razón por la cual no se abren
 
 Sin embargo, cuando se ha designado partidor de una herencia, por instrucciones del Colegio de Abogados dicho partidor debe depositar el dinero de la comunidad en una institución bancaria. La cuenta en tal caso se denomina "Sucesión de don .... de la cual es partidor don .... ". El partidor debe acreditar su nombramiento y la aceptación del cargo. Para girar sobre los fondos deberá acompañar el acuerdo adoptado con tal objeto en el juicio de partición.
 
-b) A nombre de una quiebra.
+b) A nombre de un Procedimiento Concursal de Liquidación.
 
-El N° 17 del artículo 27 de la Ley N° 18.175 establece entre las obligaciones de un síndico de quiebra "Depositar a interés en un banco o institución financiera los fondos que perciba, en cuenta separada para cada quiebra y a nombre de ésta, y abrir una cuenta corriente con los fondos indispensables para solventar los gastos que aquella demande".
+El N° 9 del artículo 36 de la Ley N° 20.720 establece entre los deberes del Liquidador "Depositar a interés en una institución financiera los fondos que perciba, en cuenta separada para cada Procedimiento Concursal de Liquidación y a nombre de éste, y abrir una cuenta corriente con los fondos para solventarlo".
 
-En consecuencia y para que los síndicos puedan dar cumplimiento a la obligación legal antedicha, los bancos a los que se les solicite recibir tales depósitos, registrarán éstos a nombre de la quiebra correspondiente, seguido del nombre del respectivo síndico.
+En consecuencia y para que los liquidadores puedan dar cumplimiento a la obligación legal antedicha, los bancos a los que se les solicite recibir tales depósitos, registrarán éstos a nombre del procedimiento concursal de liquidación correspondiente, seguido del nombre del respectivo liquidador.
 
-Igual procedimiento deben aplicar para la apertura de la cuenta corriente, de la cual el síndico girará para pagar los gastos que demande la quiebra.
+Igual procedimiento deben aplicar para la apertura de la cuenta corriente, de la cual el liquidador girará para pagar los gastos que demande el procedimiento concursal de liquidación.
 
-Por las especiales características de estas cuentas y atendidos los requisitos que obligan a los partidores y síndicos a establecerlas, los bancos no debieran aplicar a ellas las condiciones que, en general pudieran exigir para una cuenta corriente, relativas a mantener un saldo mínimo o registrar un determinado movimiento.
+Por las especiales características de estas cuentas y atendidos los requisitos que obligan a los partidores y liquidadores a establecerlas, los bancos no debieran aplicar a ellas las condiciones que, en general pudieran exigir para una cuenta corriente, relativas a mantener un saldo mínimo o registrar un determinado movimiento.
 
 1.6. Cuentas corrientes a nombres de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
