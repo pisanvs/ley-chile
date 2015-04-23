@@ -1,0 +1,5 @@
+AUTORIZA A "BUSES LUIS BECKER E.I.R.L." PARA EFECTUAR TRANSPORTE INTERNACIONAL TERRESTRE DE PASAJEROS
+
+Por resolución exenta Nº640, de 26 de marzo de 2015, del Departamento de Asuntos Internacionales de la Subsecretaría de Transportes, se autorizó a la empresa chilena "Buses Luis Becker E.I.R.L." para efectuar transporte internacional terrestre de pasajeros, por cinco (5) años a contar de la fecha de la resolución que otorga la autorización, renovable, entre Coyhaique (Chile) y Puerto Natales (Chile), en tránsito por territorio argentino, utilizando los pasos fronterizos Río Jeinemeni y Río Don Guillermo, y como alternativos los pasos Huemules y Dorotea, efectuando 1 (una) frecuencia semanal de ida y vuelta.
+
+Pablo Ortiz Méndez, Jefe Departamento de Asuntos Internacionales, Subsecretaría de Transportes
