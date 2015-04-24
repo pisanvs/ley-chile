@@ -16,9 +16,13 @@ Especie Origen Requisito Fitosanitario
 
 Amaranto
 
-(Amaranthus México Sin declaraciones
+(Amaranthus México Sin declaraciones adicionales
 
-Hypochondriacus) adicionales
+Hypochondriacus)
+
+Azadirachta indica Estados Unidos Sin declaración adicional
+
+de Norteamérica
 
 Camelina
 
@@ -42,7 +46,7 @@ de crecimiento activo y
 
 encontrado libre de
 
-Colletotrichum capsici, o
+Colletotrichum capsici,o
 
 La partida fue sometida a
 
