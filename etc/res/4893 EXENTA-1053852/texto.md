@@ -22,7 +22,7 @@ Resuelvo:
 
 Para otorgar esta declaración adicional, la inspección correspondiente debe ser realizada por los inspectores del Ministerio de Ganadería, Agricultura y Pesca (MGAP), sobre la base de 600 tubérculos (60 papas de 10 sacos) con un 95% de confianza, para detectar un nivel de infección de un 0,5% y, en el caso de detectar tubérculos sospechosos, esta inspección deberá contemplar el corte y picado de ellos.
 
-2.2 El envío se encuentra libre de: Phytophthora insfestans tipo de apareamiento A2, Ralstonia solanacearum raza 1, Ditylenchus dipsaci (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+2.2 El envío se encuentra libre de Phytophthora insfestans tipo de apareamiento A2, de acuerdo con el resultado de un análisis oficial de laboratorio.
 
 3. Los productores y las empacadoras destinadas a procesar tubérculos de papa de consumo con destino al mercado chileno, deberán estar inscritos en un registro designado por el Ministerio de Ganadería, Agricultura y Pesca (MGAP) de Uruguay, el que le asignará un código a cada productor y empacadora.
 
