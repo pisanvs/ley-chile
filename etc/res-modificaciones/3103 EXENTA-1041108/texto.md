@@ -102,7 +102,7 @@ Las emisiones generadas por la última antena que se instale en una ubicación, 
 
 #### Artículo 5º
 
-Las concesionarias de servicio público de telefonía, de transmisión de datos y servicios públicos del mismo tipo y de radiodifusión sonora y televisiva, deberán proveer a la Subsecretaría, en el mes de julio de cada año, un informe de mediciones de cada una de las antenas en operación. En dicho informe se deberán actualizar las mediciones correspondientes a las nuevas antenas instaladas o modificadas en los últimos 12 meses anteriores a marzo de cada año.
+Las concesionarias de servicio público de telefonía, de transmisión de datos y servicios públicos del mismo tipo, deberán proveer a la Subsecretaría, en el mes de julio de cada año, un informe de mediciones de cada una de las antenas en operación. En dicho informe se deberán actualizar las mediciones correspondientes a las nuevas antenas instaladas o modificadas en los últimos 12 meses anteriores a marzo de cada año.
 
 El informe de mediciones antes indicado, deberá detallar los valores de densidad de potencia de las instalaciones individuales de su servicio y la contribución individual de otros servicios que se detecten en el mismo punto de medición. Además de las mediciones antes señaladas, las referidas concesionarias deberán enviar en dicha oportunidad las mediciones de una muestra aleatoria y representativa del parque total de antenas antiguas, excluyendo las nuevas y modificadas. El diseño de dicha muestra debe basarse en criterios de antigüedad respecto de la última medición.
 
@@ -128,9 +128,9 @@ h) Altura de la torre (en metros);
 
 i) Fecha de última medición (dd/mm/aaaa);
 
-j) Valor individual en mW/cm² por cada sector (con 5 decimales);
+j) Valor individual en µW/cm2 por cada sector (con 5 decimales);
 
-k) Valor con la contribución de todas las señales en mW/cm² en cada sector (con 5 decimales);
+k) Valor con la contribución de todas las señales en µW/cm2 en cada sector (con 5 decimales);
 
 l) Distancia del punto de medición de cada sector con respecto a la ubicación de la antena (en metros);
 
@@ -138,9 +138,9 @@ m) Identificación de empresa que efectúa la medición en terreno.
 
 Las concesionarias antes referidas, deberán comunicar a la Subsecretaria, para su aprobación, el Plan de Medición que utilizarán para la confección del referido informe, el que necesariamente deberá incluir un programa de medición y diseño muestral, que contenga al menos la cantidad de mediciones, tipos de estaciones base, nivel de confianza y error muestral, debiendo en todo caso informar con, a lo menos dos meses de antelación, cualquier modificación que se realice a dicho plan.
 
-La Subsecretaría podrá requerir, además, los respectivos planes de medición e informes de medición de densidad de potencia o de intensidad de campo eléctrico respecto de antenas correspondientes a concesionarias, permisionarias y licenciatarias de otros servicios de telecomunicaciones, así como de las instituciones señaladas en el artículo 11º de la ley.
+La Subsecretaría podrá requerir, además, los informes de medición de densidad de potencia o de intensidad de campo eléctrico respecto de antenas correspondientes a concesionarias, permisionarias y licenciatarias de otros servicios de telecomunicaciones, así como de las instituciones señaladas en el artículo 11º de la ley.
 
-Las concesionarias de servicio público de telefonía, de transmisión de datos y servicios públicos del mismo tipo y de radiodifusión sonora y televisiva, deberán publicar en su sitio web el parque con la totalidad de las antenas que poseen, con el registro de las mediciones de densidad de potencia y con el detalle indicado en el inciso cuarto del presente artículo. Dicho registro deberá actualizarse mensualmente con las nuevas instalaciones o sus modificaciones, y también con las mediciones producto del informe anual que se indica en el inciso primero del presente artículo. La referida publicación deberá permitir a los usuarios consultar la densidad de potencia según la dirección, comuna y región donde las antenas estén instaladas.
+Las concesionarias de servicio público de telefonía, de transmisión de datos y servicios públicos del mismo tipo, deberán publicar en su sitio web el parque con la totalidad de las antenas que poseen, con el registro de las mediciones de densidad de potencia y con el detalle indicado en el inciso cuarto del presente artículo. Dicho registro deberá actualizarse mensualmente con las nuevas instalaciones o sus modificaciones, y también con las mediciones producto del informe anual que se indica en el inciso primero del presente artículo. La referida publicación deberá permitir a los usuarios consultar la densidad de potencia según la dirección, comuna y región donde las antenas estén instaladas.
 
 El presente artículo no será aplicable a las antenas de las concesionarias de servicios comunitarios y ciudadanos de radiodifusión de libre recepción.
 
