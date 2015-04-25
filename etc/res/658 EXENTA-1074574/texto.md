@@ -28,7 +28,7 @@ Resolución:
 
 Primera selección: 27 de Febrero de 2015
 
-Segunda selección: 31 de Marzo de 2015
+Segunda selección: 1 de abril de 2015
 
 Tercera selección: 29 de Mayo de 2015
 
