@@ -382,6 +382,10 @@ La definición de los índices contenidos en estas fórmulas es la siguiente:
 
 .
 
+#### Artículo cuarto
+
+Reemplácense, a partir del 29 de enero de 2015 y sólo para los efectos de la aplicación de la ley Nº 20.805 que modificó el artículo 157º de la Ley, las tablas contenidas en los numerales 1.2. y 2.2. del Artículo segundo del presente decreto supremo, por la tabla que se indica a continuación:
+
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Jimena Jara Quilodrán, Ministra de Energía (S).
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
