@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA A LA SOCIEDAD "ENEL GREEN POWER CHILE LIMITADA"
+
+Mediante decreto exento Nº 383, de 7 de abril de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra Proyecto, a la sociedad "Enel Green Power Chile Limitada", RUT Nº 96.920.110-0, el inmueble fiscal formado por los Lotes A y B, ubicado en el lugar Alto Ramírez, comuna y provincia de Arica, Región de Arica y Parinacota, enrolado en el Servicio de Impuestos Internos con los Nos 3411-80 y 3411-81, amparado por la inscripción global que rola a fojas 25 vta. Nº 60 del Registro de Propiedad del Conservador de Bienes Raíces de Arica, correspondiente al año 1935, de una superficie de 236,22 ha, singularizado en el Plano Nº 15101-1851-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.222,70.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto, Óscar Manquilef Parra, Abogado, Jefe de División Jurídica (S).
