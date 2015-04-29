@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA SOCIEDAD "DOMEYKO OESTE TRES SpA"
+
+Mediante decreto exento Nº 386, de 7 de abril de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a la sociedad "Domeyko Oeste Tres SpA", R.U.T. Nº 76.238.065-K, el inmueble fiscal formado por los Lotes A1, A2, B y C, ubicado en la ruta B-55, Km. 62.600, comuna y provincia de Antofagasta, Región de Antofagasta, enrolado en el Servicio de Impuestos Internos con los Nºs 45002-13, 45002-14, 45002-15 y 45002-16, amparado por la inscripción global que rola a fojas 3497 vta. Nº 3775 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014, de una superficie de 121,22 hás, singularizado en el Plano Nº 02101-8.536-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de U.F. 1.134.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de energía renovable no convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Oscar Manquilef Parra, Jefe de División Jurídica (S).
