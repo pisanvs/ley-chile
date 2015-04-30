@@ -10,7 +10,7 @@ Decreto:
 
 NCh990. EOf.73, Ingeniería mecánica. Conducción de fluidos. Tuberías y piezas especiales de acero. Soldadura en obra.
 
-NCh996. EOf.73, Ingeniería sanitaria. Agua Potable. Manejo, transporte y almacenamiento de tuberías de acero.
+NCh996. EOf.73, DEROGADA.
 
 2°- Corresponderá al expresado Instituto Nacional de Investigaciones Tecnológicas y Normalización publicar una minuta del presente decreto en el Diario Oficial y el texto íntegro de estas normas en la Revista Chilena de Racionalización, órgano oficial del mencionado instituto.
 
