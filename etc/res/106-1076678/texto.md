@@ -1,0 +1,33 @@
+DELEGA EN EL SECRETARIO REGIONAL MINISTERIAL DE EDUCACIÓN DE LA REGIÓN METROPOLITANA LA FACULTAD DE FIRMAR BAJO LA FÓRMULA "POR ORDEN DE LA SUBSECRETARIA DE EDUCACIÓN" EN MATERIA QUE INDICA
+
+Núm. 106.- Santiago, 23 de marzo de 2015.
+
+Considerando:
+
+1º. Que, la glosa 02, de la Partida: Ministerio del Interior-Gobiernos Regionales de la Ley Nº 20.798, de Presupuestos del Sector Público correspondiente al año 2015, común para todos los programas 02 de los Gobiernos Regionales y para el programa 03 del Gobierno Regional de Magallanes y Antártica Chilena, en su Nº 5.1 señala que con cargo a los recursos que se incluyan en el subtítulo 33 se podrán financiar entre otras transferencias, las que se realicen a instituciones cuyos presupuestos se aprueben en la antedicha ley;
+
+2º. Que, teniendo en cuenta lo señalado, la Secretaría Regional Ministerial de Educación de la Región Metropolitana, formula el "Programa de Transferencia de Convivencia Escolar y Alerta Temprana de Deserción Escolar en Establecimientos Educacionales Municipales de la Región Metropolitana" Código BIP Nº 30312822, a financiar por el Fondo Nacional de Desarrollo Regional (FNDR), el cual es aprobado por el Consejo Regional a propuesta del Intendente y recomendada favorablemente por la Comisión de Educación y Cultura, mediante el acuerdo Nº 288-14, que consta en el certificado de acuerdos de la sesión extraordinaria Nº 4, de fecha 29 de diciembre de 2014, del Consejo Regional Metropolitano de Santiago, adjudicándose en consecuencia un monto de M$1.460.251 (mil cuatrocientos sesenta millones doscientos cincuenta y un mil pesos), a efectos de la implementación de dicho proyecto;
+
+3º. Que, según establece la mencionada glosa 02, número 5.1, de la ley Nº 20.798, las creaciones y modificaciones del ítem de transferencias y las correspondientes disminuciones o incrementos en otros ítems se podrán efectuar, a partir de la fecha de publicación de la mencionada ley, mediante resolución de la Subsecretaría de Desarrollo Regional y Administrativo, la que deberá ser visada por la Dirección de Presupuestos;
+
+4º. Que, en atención a lo anterior, a través de la resolución Nº 47, de 2015, del Subsecretario de Desarrollo Regional y Administrativo, se modifica el presupuesto vigente del programa 02 del Gobierno Regional de la Región Metropolitana de Santiago, creando en el subtítulo 33, Transferencias de Capital, la asignación 813 C, Secretaría Regional Ministerial de Educación, Transferencia Convivencia Escolar y Alerta Temprana de la Deserción (30312822-0), resolución que debe cumplir con el trámite de ser visada por la Dirección de Presupuestos y demás que correspondan en derecho;
+
+5º. Que, refiriéndose a los mencionados recursos, señala la referida glosa 02 Nº 5.1 de la ley Nº 20.798, que no serán incorporados en los presupuestos de las entidades receptoras, sin perjuicio de que éstas deberán rendir cuenta de su utilización a la Contraloría General de la República;
+
+6º. Que, además, sin perjuicio de que los recursos transferidos se regirán por la normativa de la institución receptora, en los convenios respectivos, celebrados entre los gobiernos regionales y dichas instituciones, se establecerán los procedimientos y condiciones bajo los cuales se efectuará la aplicación de los recursos que se transfieren;
+
+7º. Que, en virtud de los principios de eficiencia, eficacia y celeridad, contemplados en la Ley Nº 18.575, Orgánica Constitucional de Bases de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, y en la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, se hace necesario agilizar la tramitación de documentos que provocan un recargo innecesario en el despacho de la Subsecretaria de Educación;
+
+8º. Que, teniendo en cuenta los considerandos anteriores, resulta útil y concordante con lo indicado en ellos, la delegación, al Secretario Regional Ministerial de Educación de la Región Metropolitana, de la facultad para suscribir el convenio referido en el considerando Nº 6, en los términos expresados en el artículo 41, de la antedicha ley Nº 18.575, bajo la fórmula "Por orden de la Subsecretaria de Educación", una vez que los fondos se encuentren disponibles, y
+
+Visto:
+
+Lo dispuesto en la Ley Nº 20.798, de Presupuestos del Sector Público correspondiente al año 2015; el decreto ley Nº 1.028, de 1975, que precisa las atribuciones y deberes de los Subsecretarios de Estado; el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la ley Nº 18.956, que reestructura el Ministerio de Educación Pública; el certificado de acuerdos de la sesión extraordinaria Nº 4, de fecha 29 de diciembre de 2014, del Consejo Regional Metropolitano de Santiago; la resolución Nº 47, de 2015, del Subsecretario de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública; los oficios ordinarios Nos 514, del 10 de febrero de 2015, de la Intendenta (S) de la Región Metropolitana de Santiago, y 467, de 24 de febrero de 2015, del Secretario Regional Ministerial de Educación de la Región Metropolitana; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República,
+
+Resuelvo:
+
+#### Artículo 1º
+
+Deléguese en el Secretario Regional Ministerial de Educación de la Región Metropolitana de Santiago, la facultad de suscribir, bajo la fórmula "Por orden de la Subsecretaria de Educación", el convenio de transferencia de recursos con el Gobierno Regional de la Región Metropolitana para la implementación del Programa Convivencia Escolar y Alerta Temprana de la Deserción, Código BIP Nº 30312822-0, según lo establecido en el Nº 5.1 de la glosa 02, de la partida: Ministerio del Interior - Gobiernos Regionales de la Ley Nº 20.798, de Presupuestos del Sector Público correspondiente al año 2015, común para todos los programas 02 de los Gobiernos Regionales y para el programa 03 del Gobierno Regional de Magallanes y Antártica Chilena.
+
+Anótese, tómese razón y publíquese.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
