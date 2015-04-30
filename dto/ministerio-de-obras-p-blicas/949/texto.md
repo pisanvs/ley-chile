@@ -8,17 +8,23 @@ D e c r e t o
 
 Decláranse Normas Oficiales de la República de Chile, las siguientes:
 
-NCh2313/7 Aguas residuales-Métodos de análisis-Parte 7:
+NCh2313/7 Aguas residuales-Métodos de
 
-Determinación de hidrocarburos totales.
+análisis-Parte 7:
 
-NCh2313/14 Aguas residuales-Métodos de análisis-Parte 14:
+Determinación de hidrocarburos
 
-Determinación de cianuro total.
+totales.
 
-NCh2313/15 Aguas residuales-Métodos de análisis-Parte 15:
+NCh2313/14 Aguas residuales-Métodos de
 
-Determinación de fósforo total.
+análisis-Parte 14:
+
+Determinación de cianuro
+
+total.
+
+NCh2313/15 Derogada.
 
 #### Artículo 2º
 
@@ -26,13 +32,21 @@ El presente decreto se publicará en el Diario Oficial. El texto íntegro de las
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, las normas individualizadas en el Artículo 1º, se denominarán como sigue:
 
-NCh2313/7.Of97 Aguas residuales-Métodos de análisis-Parte 7:
+NCh2313/7.Of97 Aguas residuales-Métodos
 
-Determinación de hidrocarburos totales.
+de análisis-Parte 7:
 
-NCh2313/14.Of97 Aguas residuales-Métodos de análisis-Parte 14:
+Determinación de
 
-Determinación de cianuro total.
+hidrocarburos totales.
+
+NCh2313/14.Of97 Aguas residuales-Métodos
+
+de análisis-Parte 14:
+
+Determinación de cianuro
+
+total.
 
 NCh2313/15.Of97 Derogada.
 

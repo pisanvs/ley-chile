@@ -6,29 +6,41 @@ D e c r e t o:
 
 ### 1. Artículo 1º Declárase Norma Oficial de la República, las siguientes:
 
-NCh 2313/16 Aguas residuales - Métodos de análisis - Parte 16:
+NCh 2313/16 Aguas residuales - Métodos de
 
-Determinación de nitrógeno amoniacal.
+análisis - Parte 16:
 
-NCh 2313/17 Aguas residuales - Métodos de análisis - Parte 17:
+Determinación de
 
-Determinación de sulfuro total.
+nitrógeno amoniacal.
 
-NCh 2313/18 Aguas residuales - Métodos de análisis - Parte 18:
+NCh 2313/17 Aguas residuales - Métodos de
 
-Determinación de sulfato disuelto por calcinación de
+análisis - Parte 17:
+
+Determinación de
+
+sulfuro total.
+
+NCh 2313/18 Aguas residuales - Métodos de
+
+análisis - Parte 18:
+
+Determinación de sulfato
+
+disuelto por calcinación de
 
 residuo.
 
-NCh 2313/21 Aguas residuales - Métodos de análisis - Parte 21:
+NCh 2313/21 DEROGADA.
 
-Determinación del poder espumógeno.
+NCh 2313/24 Aguas residuales - Métodos de
 
-NCh 2313/24 Aguas residuales - Métodos de análisis - Parte 24:
+análisis - Parte 24:
 
-Determinación de la demanda química de oxígeno
+Determinación de la demanda
 
-(DQO).
+química de oxígeno (DQO).
 
 2. Artículo 2º El presente Decreto se publicará en el Diario Oficial. El texto íntegro de las normas será publicado en documentos oficiales del mencionado Instituto.
 
@@ -36,25 +48,33 @@ A contar de la fecha de publicación de este Decreto en el Diario Oficial, las n
 
 NCh 2313/16 Of. 97 DEROGADA.
 
-NCh 2313/17 Of. 97 Aguas residuales - Métodos de análisis - Parte
+NCh 2313/17 Of. 97 Aguas residuales - Métodos
 
-17: Determinación de sulfuro total.
+de análisis - Parte 17:
 
-NCh 2313/18 Of. 97 Aguas residuales - Métodos de análisis - Parte
+Determinación de sulfuro
 
-18: Determinación de sulfato disuelto por
+total.
 
-calcinación de residuo.
+NCh 2313/18 Of. 97 Aguas residuales - Métodos
 
-NCh 2313/21 Of. 97 Aguas residuales - Métodos de análisis - Parte
+de análisis - Parte 18:
 
-21: Determinación del poder espumógeno.
+Determinación de sulfato
 
-NCh 2313/24 Of. 97 Aguas residuales - Métodos de análisis - Parte
+disuelto por calcinación
 
-24: Determinación de la demanda química de
+de residuo.
 
-oxígeno (DQO).
+NCh 2313/21 Of. 97 DEROGADA.
+
+NCh 2313/24 Of. 97 Aguas residuales - Métodos
+
+de análisis - Parte 24:
+
+Determinación de la demanda
+
+química de oxígeno (DQO).
 
 3. Artículo 3º El Instituto Nacional de Normalización deberá enviar tres ejemplares de dichas normas debidamente certificada su conformidad con el texto oficial a la Contraloría General de la República, y además, proporcionar gratuitamente, el mismo número de ejemplares al Ministerio que las declara Normas Chilenas Oficiales de la República.
 

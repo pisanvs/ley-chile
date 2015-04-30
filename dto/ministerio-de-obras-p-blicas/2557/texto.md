@@ -8,23 +8,11 @@ D e c r e t o :
 
 Decláranse Normas Oficiales de la República de Chile, las siguientes normas chilenas con sus respectivos códigos y títulos de identificación.
 
-NCh2313/20.Of1998 Aguas residuales - Métodos de análisis
+NCh2313/20.Of1998 Aguas residuales - Métodos de análisis - Parte 20: Determinación de trihalometanos (THM) - Método por cromatografía gaseosa con detector de captura electrónica (ECD).
 
-- Parte 20: Determinación de trihalometanos (THM) -
+NCh2313/27.Of1998 Aguas residuales - Métodos de análisis - Parte 27: Determinación de surfactantes aniónicos - Método para sustancias activas al azul de metileno (SAAM).
 
-Método por cromatografía gaseosa con detector de captura electrónica (ECD).
-
-NCh2313/27.Of1998 Aguas residuales - Métodos de análisis
-
-- Parte 27: Determinación de surfactantes aniónicos -
-
-Método para sustancias activas al azul de metileno (SAAM).
-
-NCh2313/28.Of1998 Aguas residuales - Métodos de análisis
-
-- Parte 28: Determinación de nitrógeno Kjeldahl -
-
-Métodos potenciométrico con digestión previa.
+NCh2313/28.Of1998 DEROGADA.
 
 #### Artículo 2º
 

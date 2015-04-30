@@ -12,25 +12,25 @@ Decláranse Normas Oficiales de la República de Chile las siguientes normas chi
 
 NCh141.Of1999 Yeso - Terminología.
 
-NCh142.Of1999 Yeso crudo - Especificaciones.
+NCh142.Of1999 Yeso crudo -
 
-NCh347.Of1999 Construcción - Disposiciones de seguri-
+Especificaciones.
 
-dad en demolición.
+NCh347.Of1999 Construcción - Disposiciones
 
-NCh348.Of1999 Cierros provisionales - Requisitos gene-
+de seguridad en demolición.
 
-rales de seguridad.
+NCh348.Of1999 Cierros provisionales -
 
-NCh349.Of1999 Construcción - Disposiciones de seguri-
+Requisitos generales de
 
-dad en excavación.
+seguridad.
 
-NCh1105.Of1999 Ingeniería sanitaria - Alcantarillado de
+NCh349.Of1999 Construcción - Disposiciones
 
-aguas residuales - Diseño y cálculo de
+de seguridad en excavación.
 
-redes.
+NCh1105.Of1999 Derogada.
 
 #### Artículo 2º
 
