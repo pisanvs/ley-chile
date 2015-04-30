@@ -98,21 +98,17 @@ veterinarios acreditados (MVA).
 
 infectados o cuarentenados a recintos de rodeo.
 
-3. En el control obligatorio se aplicarán, según corresponda, las medidas sanitarias indicadas en el numeral anterior, considerando las siguientes zonas geográficas:
+3. El control obligatorio de la tuberculosis se aplicará considerando las siguientes zonas epidemiológicas en el territorio nacional:
 
-3.1 Zona I: Predios ubicados en las regiones de la
+Zona de erradicación Norte: Predios bovinos ubicados en las Regiones de Arica-Parinacota, Tarapacá y Antofagasta.
 
-Araucanía, de Los Ríos, de Los Lagos, Aysén y
+Zona de control: Predios bovinos ubicados en las Regiones de Atacama, Coquimbo, Valparaíso, Metropolitana, O'Higgins, Maule, y Biobío, exceptuando la Provincia de Arauco.
 
-Magallanes.
-
-3.2 Zona II: Predios ubicados en las restantes
-
-regiones del país.
+Zona de erradicación Sur: Predios ubicados en las Regiones de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena y de la Provincia de Arauco, de la Región del Biobío.
 
 4. Para efectos de la presente resolución se entenderá por predio, todo lugar físico, con límites definidos, que cuente con un RUP, donde exista una unidad o sistema productivo de animales, independiente de la cantidad y si éstos se encuentran en forma temporal o permanente.
 
-5. Se prohíbe el traslado de bovinos de predios ubicados en la zona II de control hacia la zona I de erradicación, salvo las siguientes excepciones:
+5. Se prohíbe el traslado de bovinos de predios ubicados en la zona de control hacia las zonas de erradicación, salvo las siguientes excepciones:
 
 a. Animales provenientes de predios declarados oficialmente libres de tuberculosis.
 
@@ -298,9 +294,9 @@ ingreso.
 
 12.1 Se aplicará en todos los predios infectados
 
-por tuberculosis bovina que se ubiquen en la
+por tuberculosis bovina que se ubiquen en
 
-zona I.
+las zonas de erradicación.
 
 Adicionalmente, durante los años 2011 y 2012,
 
@@ -574,11 +570,13 @@ determinar el predio de origen de los animales.
 
 ### 15. El recinto ferial tendrá las siguientes obligaciones:
 
-15.1 En los recintos de la zona I, instruir que al
+15.1 En los recintos de las zonas de erradicación,
 
-término del remate de terneros provenientes de
+instruir que al término del remate de
 
-predios cuarentenados, sean trasladados a su
+terneros provenientes de predios
+
+cuarentenados, sean trasladados a su
 
 destino final con formulario de movimiento
 
@@ -600,13 +598,13 @@ con destino a matadero, CFA o predio
 
 lazareto.
 
-15.3 Los recintos feriales ubicados en la zona II de
+15.3 Los recintos feriales ubicados en la zona de
 
 control podrán autorizar la salida de animales
 
-directamente a mataderos o CFA ubicados en la
+directamente a mataderos o CFA ubicados en las
 
-zona I de erradicación siempre que cuenten con
+zonas de erradicación siempre que cuenten con
 
 inspección médico veterinaria SAG, debiendo
 
@@ -740,13 +738,11 @@ detalle del o los predios que aportarán
 
 animales, indicando aquellos que
 
-pertenecen a la zona de I de
+pertenecen a las zonas de erradicación.
 
-erradicación.
+18.3 Los recintos de rodeo de las zonas de
 
-18.3 Los recintos de rodeo de la zona I
-
-de erradicación no podrán permitir
+erradicación no podrán permitir
 
 la entrada de animales que hayan
 
@@ -766,15 +762,13 @@ posteriormente al mismo predio.
 
 18.4 Los propietarios de un predio
 
-ubicado en la Zona I de
+ubicado en las zonas de erradicación
 
-erradicación que deseen movilizar
+que deseen movilizar animales para
 
-animales para participar en
+participar en actividades de rodeo
 
-actividades de rodeo ubicado en la
-
-Zona II de control y cuyos
+ubicado en la Zona de control y cuyos
 
 bovinos requieren sean devueltos
 
@@ -934,7 +928,7 @@ anteriormente y la información de salida de
 
 animales.
 
-20. Todos los predios lecheros ubicados en la Zona I, deberán efectuar un diagnóstico anual de tuberculosis, en los términos establecidos por el Servicio.
+20. Todos los predios lecheros ubicados en las zonas de erradicación, deberán efectuar un diagnóstico anual de tuberculosis, en los términos establecidos por el Servicio.
 
 21. Establécese la compartimentación como herramienta para avanzar en el reconocimiento oficial de una condición sanitaria de libre de tuberculosis en una determinada subpoblación animal, para lo cual, el Servicio emitirá un Certificado Oficial que señale dicha condición.
 
