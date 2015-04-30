@@ -126,6 +126,14 @@ Esta línea tiene como propósito fortalecer el interés social de los jóvenes,
 
 Para la ejecución de esta línea se entregarán fondos destinados a financiar la realización de trabajos voluntarios, capacitaciones, talleres, jornadas, seminarios, encuentros y mesas de trabajo por parte de organizaciones estudiantiles y sociales, tales como centros de alumnos, centros comunitarios, federaciones de estudiantes, centros de apoderados, docentes, organizaciones sociales y otros miembros de la comunidad estudiantil.
 
+4.- Evaluar y mejorar la oferta pública de educación superior de nivel técnico.
+
+Esta línea tiene como propósito estudiar, diagnosticar y evaluar la oferta pública de educación técnica de nivel superior en todas las regiones del país, que se articule con otros niveles educativos como establecimientos educacionales y universidades, como con el mundo del trabajo, así como también, con las necesidades de desarrollo regionales.
+
+Para la ejecución de esta línea, se podrán financiar convenios con instituciones públicas y/o privadas, para el desarrollo de investigaciones y proyectos, tendientes mejorar y evaluar la oferta técnica de educación superior en las regiones del país.
+
+Se incluyen en esta línea, entre otros, actividades de diagnóstico, estudios y proyectos sobre la infraestructura de las edificaciones existentes de los Centros de Formación Técnica, desarrollo de diseños de arquitectura y especialidades, así como la revisión de los antecedentes técnicos, legales y regularización de títulos de dominio de dichos centros.
+
 #### Artículo 3º
 
 Convenios de colaboración y transferencia.
