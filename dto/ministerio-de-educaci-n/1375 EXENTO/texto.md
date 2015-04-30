@@ -14,25 +14,7 @@ Decreto:
 
 Autorízase a los vehículos indicados en este decreto para circular los días sábados en la tarde, domingos y festivos y sin el disco distintivo señalado en el artículo 3º del decreto ley Nº 799 de 1974, pertenecientes al Ministerio de Educación:
 
-1.- Vehículo : Automóvil
-
-Marca : Nissan
-
-Modelo : DATALCFB15EHATJX-0
-
-Año Fabricación : 2006
-
-Nº Motor : QG18568297T
-
-Nº Chassis : 3N1CB51S3ZL040791
-
-Reg. Nacional
-
-Vehículos
-
-Motorizados : WR 3841-6
-
-Nº Placa Unica : WR 3841-6
+1.- DEROGADO.
 
 2.- Vehículo : Automóvil
 
@@ -74,25 +56,7 @@ Motorizados : WR 3843-2
 
 Nº Placa Unica : WR 3843-2
 
-4.- Vehículo : Automóvil
-
-Marca : Nissan
-
-Modelo : DATALCFB15EHATJX-0
-
-Año Fabricación : 2006
-
-Nº Motor : QG18569224T
-
-Nº Chassis : 3N1CB51S4ZL040816
-
-Reg. Nacional
-
-Vehículos
-
-Motorizados : WR 3845-9
-
-Nº Placa Unica : WR 3845-9
+4.- DEROGADO.
 
 5.- Vehículo : Automóvil
 
@@ -114,25 +78,7 @@ Motorizados : WK 9961-3
 
 Nº Placa Unica : WK 9961-3
 
-6.- Vehículo : Automóvil
-
-Marca : Hyundai
-
-Modelo : Elantra 2.0 GLS AT AC 2AB
-
-Año fabricación : 2008
-
-Nº motor : G4GC7112400
-
-Nº chasis : KMHDU41DP8U393483
-
-Reg. Nacional
-
-Vehículos
-
-Motorizados : BPFV.83-0
-
-Placa única : BPFV.83-0
+6.- DEROGADO.
 
 7.- Vehículo : Automóvil
 
@@ -174,25 +120,7 @@ Motorizados : BKJS.35-0
 
 Placa única : BKJS.35-0
 
-9.- Vehículo : Station Wagon
-
-Marca : Subaru
-
-Modelo : Forester 2.0
-
-Año : 2007
-
-Nº Motor : D114347
-
-Nº Chassis : G127420
-
-Reg. Nacional
-
-Vehículos
-
-Motorizados : NW.3981-4
-
-Nº Placa Unica : NW.3981-4
+9.- DEROGADO.
 
 10.- Vehículo : Station Wagon
 
@@ -252,7 +180,7 @@ Vehículos
 
 Motorizados : XV.2896-4
 
-Placa Única : XV.2896-4
+Placa Única : XV.2896-4.
 
 #### Artículo segundo
 
