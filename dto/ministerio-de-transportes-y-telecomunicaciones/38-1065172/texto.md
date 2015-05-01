@@ -28,8 +28,6 @@ El Programa de Inversiones se orienta principalmente a fortalecer el desarrollo 
 
 Asimismo, este programa de inversiones está enfocado en incentivar el aumento en el transporte de carga, duplicando los volúmenes actuales, junto con desarrollar nuevos proyectos de transporte de servicios de pasajeros suburbano en la zona sur-poniente de la Región Metropolitana.
 
-.
-
 1 Programa de Continuidad y Seguridad Operacional
 
 El Programa de Continuidad y Seguridad Operacional tiene por objetivo resguardar la integridad de la infraestructura de la red ferroviaria de EFE y filiales, asegurando las condiciones necesarias para el desarrollo del transporte ferroviario establecidos en la normativa vigente, garantizando así la seguridad, la confiabilidad y la disponibilidad de canales de circulación para la operación ferroviaria, de esta manera también se fomenta la explotación comercial en el trasporte de carga y de pasajeros por lo que se aseguran las condiciones necesarias para el desarrollo del transporte ferroviario establecido en la normativa vigente.
@@ -109,6 +107,12 @@ En cuanto a las Propiedades, se considera el cierre perimetral, limpieza y demol
 1.2.5 Sistemas y Equipamiento de Seguridad
 
 Este proyecto contempla dos aspectos puntuales de la seguridad en las instalaciones de EFE, por un lado se considera la optimización de los sistemas de extinción de incendios, que permitirá proteger de mejor manera los activos, información y sistemas de EFE de este tipo de siniestros. Por otro lado, se contempla el mejoramiento en los sistemas de intrusión en las Subestaciones eléctricas, lo cual permitirá hacer más confiable la operación de estos equipos, evitando robos que puedan afectar la continuidad y seguridad de la operación ferroviaria.
+
+1.2.6 Ejecución Limpieza y Rehabilitación de 31 transformadores de subestaciones eléctricas (SSEE) con partículas de Policloruro de Bifenilos (PCB), Etapa 3.
+
+El objetivo de este proyecto es la limpieza y la rehabilitación de 31 transformadores que se encuentran contaminados.
+
+Actualmente, existen 31 transformadores que están ubicados en las subestaciones rectificadoras que están contaminados con askareles, que es una sustancia peligrosa, la que debe ser eliminada antes del año 2025. Esto último, como consecuencia de la suscripción por parte de Chile del Convenio de Estocolmo.
 
 1.3 Subprograma Optimización y Control de Señalización
 
@@ -267,6 +271,26 @@ En la línea de modernización de EFE y de su creciente desarrollo de servicios 
 Se requiere adquirir una herramienta para la planificación de capacidad de la infraestructura y modelamiento del tráfico, a partir de un modelo que replica las vías y los servicios que se entregan, representando la capacidad instalada, a partir del cual se permita el estudio de modificaciones, e impacto de nuevos servicios, logrando una planificación de las intervenciones necesarias de la infraestructura para los servicios modelados que permitan afrontar un aumento o cambio en la demanda de servicios, con una simulación de escenarios para atender necesidades de nuevos o más exigentes servicios.
 
 Es decir, se requiere una herramienta que permita orientar las planificaciones o gestiones sobre la capacidad de la vía hacia la estrategia de negocio, desarrollándolo de manera eficiente, equilibrando los costos, el desarrollo y la calidad del servicio (satisfacción al cliente), obteniendo beneficios en cuanto a ayudar a la toma de decisiones en relación a la estrategia de negocio, a la gestión de riesgos y la compatibilidad de los cambios con la tecnología existente.
+
+2.2.6 Ejecución Sistema de Información Geográfica de Infraestructura
+
+EFE posee activos por un valor de MMUSD 1.500 en vías, equipamientos e instalaciones repartidos a lo largo de 2.000 kilómetros y no dispone de un inventario consolidado y de acceso rápido, limitando las posibilidades de agregación de valor. Junto con ello, EFE se ha definido como una empresa en que una de sus principales áreas es el servicio de infraestructura. Por lo tanto, se requiere contar con una herramienta de inventario multicapas y multiservicios para la gestión de los activos y su ubicación en la red ferroviaria, visualizándolos de forma gráfica y geo-referenciada.
+
+Una de las áreas de administración de activos abordada por la industria ferroviaria, incluso antes de los Enterprise Resource Planning (ERP), fue el desarrollo de un inventario geográfico computarizado de los activos de infraestructura denominado "Ejecución Sistema de Información Geográfica de Infraestructura".
+
+Estos inventarios incluyen:
+
+. Información general sobre los activos y su ubicación en la red ferroviaria (por ejemplo: rieles, agujas, durmientes, puentes, equipos de seguridad al costado de la vía, etc.)
+
+. Historia del ciclo de vida de los componentes (fechas de instalación, costos)
+
+. Informes sobre la condición de los activos
+
+. Información sobre el trazado general, como alineación/curvatura de las vías, sobre elevación, gradiente, entre otros
+
+. Datos y restricciones operacionales relacionados, como límites de carga y velocidad
+
+La disponibilidad de esta información computarizada permite tener una mejor administración del mantenimiento, que son indispensables para planificar programas de trabajo, hacer el seguimiento de las fallas, registrar los resultados de las inspecciones en terreno, planificar los horarios de servicio y fundamentalmente, garantizar que las inversiones en el mantenimiento de la red se canalicen hacia las áreas de mayor prioridad.
 
 2.3 Subprograma Optimización Operacional
 
@@ -788,6 +812,18 @@ El impacto generado por las actuales condiciones de mercado, incidieron en el au
 
 .
 
+4.4.5 Obras Civiles Adicionales
+
+En la minuta explicativa anexada se describen y enumeran las causas de cada una de las partidas de los ítems que tienen aumentos de costos. Los montos asociados a estos costos se expresan en la Tabla siguiente:
+
+4.4.6 "Estación Central y San Bernardo";
+
+El mejoramiento de los proyectos de "Estación Central y San Bernardo", cuyo objetivo es el mejoramiento integral de la infraestructura con intervenciones como la instalación de pasarelas para permitir el mejor desplazamiento de los pasajeros de tercera edad y capacidades diferentes, la adecuación de los flujos de desplazamiento con barreras de protección y torniquetes de control y la elevación de los andenes adecuándolos a la altura de los nuevos trenes.
+
+4.4.7 "Mejoramiento 4 Estaciones";
+
+El proyecto contempla el mejoramiento de las estaciones Buin, Paine, San Francisco y Rancagua, que incluye modificación de andenes, accesos peatonales, boleterías, señales y equipamientos.
+
 4.5 Ferrocarriles Suburbanos Concepción
 
 4.5.1 Renovación Material Rodante Corto Laja
@@ -808,6 +844,8 @@ Realizar un estudio que considere distintas opciones de construcción de un sist
 
 Contempla la construcción de la estación ferroviaria "Cinco Pinos", en la comuna de San Bernardo asociado al Servicio Rancagua Express, considerando Obras Civiles, Urbanización, desvíos de tránsito, construcción de catenaria y asistencia de operación.
 
+4.7 Proyectos Regionales Express. Los proyectos tienen por objeto incentivar el desarrollo del transporte de pasajeros en distintas regiones del país, con servicios que presenten servicios confiables, seguros, cómodos y rápidos, con un alto nivel de servicio, y que a su vez fomenten el desarrollo económico de cada una de las regiones.
+
 5 Inversiones
 
 5.1 Plan de Inversiones
@@ -824,8 +862,6 @@ Nota 2: En la Tabla "Plan de Inversiones": Subprograma 3.1 hace referencia a lo 
 
 El Plan Trienal de Inversiones se financia mediante Aportes Fiscales, Endeudamiento con 100% Garantía del Estado, Venta de Activos, Convenios provenientes de la Ley Espejo Transantiago y Bonos de Carbono, de acuerdo a la siguiente distribución:
 
-.
-
 Notas:
 
 1. Bono Carbono: EFE puede emitir bonos de carbono al migrar carga del modo rodoviario al modo ferroviario, que presenta menor emisión de carbono por unidad transportada, La empresa contempla transar dichos bonos en el Sistema de Bonos de Contaminación. Este es un proyecto que se encuentra en desarrollo.
@@ -840,21 +876,13 @@ Notas:
 
 6. Aportes Privados: Aportes que deben realizar los porteadores o los generadores de carga con pago inmediato o diferido, para financiar inversiones que se ejecuten en la red de EFE. En el caso de pago diferido debe firmarse un convenio entre EFE y el porteador o generador de la carga, en que éste se comprometa a determinados pagos que permitan servir la deuda que EFE contraiga para ejecutar las inversiones involucradas.
 
+> **Nota.** Las letras h, i, j, k, l y m, del N° 1 del Artículo 1° del Decreto 289, Transportes, publicado el 30.04.2015, introduce diversas modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
+
 #### Artículo 2º
 
-El Plan Trienal considera fuentes de financiamiento y niveles de prioridad para la ejecución de proyectos en sus distintos programas, de acuerdo con lo que se establece en la tabla "Proyectos de Inversiones".
-
-Para una misma fuente de financiamiento, deben ejecutarse primero los proyectos con mayor nivel de prioridad.
-
-Tabla: "Proyectos de Inversiones"
-
-.
+La ejecución de los proyectos del programa quedará condicionada a la disponibilidad de recursos para el financiamiento que corresponda a cada proyecto, según lo dispuesto en los artículos 1º.
 
 #### Artículo 3º
-
-La ejecución de los proyectos del programa quedará condicionada a la disponibilidad de recursos para el financiamiento que corresponda a cada proyecto, según lo dispuesto en los artículos 1º y 2º.
-
-#### Artículo 4º
 
 Los proyectos del Programa de Inversiones 2014-2016 deberán contar con una Evaluación de Rentabilidad Social, la cual deberá ser aprobada por el Ministerio de Desarrollo Social, y con una evaluación del efecto de los proyectos sobre los flujos financieros de EFE.
 
