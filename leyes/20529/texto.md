@@ -366,7 +366,7 @@ Los órganos de la Agencia son el Consejo y el Secretario Ejecutivo.
 
 #### Artículo 33
 
-El Consejo estará constituido por cinco miembros de destacada experiencia en la actividad educativa, nombrados por el Ministro de Educación, previa selección conforme al Sistema de Alta Dirección Pública. En su conformación se velará por garantizar el pluralismo del mismo.
+El Consejo estará constituido por cinco miembros de destacada experiencia en la actividad educativa, nombrados por el Ministro de Educación, previa selección conforme al Sistema de Alta Dirección Pública. En su conformación se velará por garantizar el pluralismo del mismo, debiendo, al menos, uno de ellos contar con un reconocido prestigio, conocimiento y experiencia en la educación parvularia.
 
 El Consejo designará de entre sus miembros a un Presidente, quien durará en el cargo tres años, pudiendo ser reelegido por una vez.
 
@@ -1061,6 +1061,22 @@ De la organización de la Superintendencia
 #### Artículo 99
 
 Un funcionario de la exclusiva confianza del Presidente de la República, con el título de Superintendente de Educación, será el Jefe Superior de la Superintendencia y tendrá la representación judicial y extrajudicial de la misma.
+
+La organización interna de la Superintendencia considerará una Intendencia de Educación Parvularia, cuya función será elaborar los criterios técnicos que permitan orientar el ejercicio de las atribuciones de aquella respecto de establecimientos educacionales que impartan educación parvularia y que cuenten con reconocimiento oficial del Estado o la autorización, en su caso.
+
+Sin perjuicio de las atribuciones de la Superintendencia, señaladas en el artículo 49 de esta ley, corresponderá especialmente a la Intendencia:
+
+1) Elaborar y proponer los criterios técnicos, de acuerdo con la alta especialidad del nivel de educación parvularia, que orienten la función fiscalizadora de la Superintendencia respecto de los establecimientos que la imparten.
+
+2) Proponer al Superintendente la interpretación administrativa de la normativa educacional aplicable a los establecimientos que imparten educación parvularia.
+
+3) Proponer al Superintendente instrucciones de general aplicación al sector sujeto a su competencia.
+
+4) Elaborar índices, estadísticas y estudios relativos al sistema de educación parvularia.
+
+5) Las demás que le encomienden las leyes o reglamentos.
+
+La Intendencia estará a cargo de un Intendente de Educación Parvularia, directivo afecto al segundo nivel jerárquico de la Superintendencia, para los efectos del artículo trigésimo séptimo de la ley Nº 19.882.
 
 #### Artículo 100
 

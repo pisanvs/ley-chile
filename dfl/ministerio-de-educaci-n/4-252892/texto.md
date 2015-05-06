@@ -18,7 +18,7 @@ EUS. Cargos
 
 Ministro B 1
 
-Subsecretario C 1
+Subsecretario de Educación C 1
 
 Total 2
 

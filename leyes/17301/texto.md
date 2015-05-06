@@ -184,10 +184,6 @@ Los auxiliares de educadores de párvulos estarán sometidos al régimen de prev
 
 En el reglamento respectivo se establecerá un escalafón especial para los profesionales que sirvan como funcionarios de la Junta.
 
-Los técnicos de educación parvularia de la Junta, que se encuentren cursando la carrera conducente al título universitario de Educador de Párvulos, podrán realizar las prácticas profesionales exigidas para la obtención del grado académico de Licenciado en Educación o el título indicado, en los jardines infantiles en los cuales desarrollen sus funciones laborales. Esta disposición también se aplicará a dichos trabajadores que ejerzan funciones en iguales condiciones en establecimientos financiados vía transferencia de fondos.
-
-Un reglamento del Ministerio de Educación, visado por la Dirección de Presupuestos, regulará los requisitos y condiciones que permitan complementar y asegurar que la aplicación del inciso anterior no impida el cumplimiento de la obligación de los establecimientos educacionales de nivel parvulario de contar con personal idóneo, suficiente y en la proporción establecida por la normativa vigente.
-
 #### Artículo 24°
 
 El Fisco y las Municipalidades podrán transferir, gratuitamente, a la Junta sitios y terrenos de su propiedad para la instalación de jardines infantiles.

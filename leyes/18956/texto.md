@@ -68,13 +68,17 @@ No obstante, el Ministerio de Educación brindará el apoyo técnico directament
 
 El Ministerio de Educación tendrá la siguiente organización básica:
 
-a) El Ministro y su Gabinete;
+a) El Ministro y su Gabinete.
 
-b) La Subsecretaría, con las Divisiones de Educación General, de Educación Superior, de Extensión Cultural, de Planificación y Presupuesto; los Departamentos Jurídico, de Administración General, y el denominado Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, y
+b) La Subsecretaría de Educación, con las Divisiones de Educación General, de Educación Superior, de Extensión Cultural, de Planificación y Presupuesto; los Departamentos Jurídico, de Administración General, y el denominado Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas.
 
-c) Las Secretarías Regionales Ministeriales y sus respectivos Departamentos funcionales y territoriales que correspondan.
+c) La Subsecretaría de Educación Parvularia.
+
+d) Las Secretarías Regionales Ministeriales y sus respectivos Departamentos funcionales y territoriales que correspondan.
 
 Las demás unidades de nivel jerárquico inferior serán establecidas en conformidad a lo dispuesto en el artículo 17.
+
+El Ministro de Educación será subrogado por el Subsecretario de Educación y, en caso de ausencia o impedimento de éste, por el Subsecretario de Educación Parvularia. Lo anterior se aplicará sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
 
 ## Título II
 
@@ -86,7 +90,7 @@ El Ministro es el colaborador directo e inmediato del Presidente de la Repúblic
 
 #### Artículo 5°
 
-La Subsecretaría es el órgano de colaboración directa del Ministro. Le corresponderá, en general, la admnistración interna del Ministerio y la coordinación de los órganos y servicios públicos del sector, y el cumplimiento de las demás funciones que en materias de su competencia le encomiende la ley y el Ministro.
+La Subsecretaría de Educación es el órgano de colaboración directa del Ministro. Le corresponderá, en general, la admnistración interna del Ministerio y la coordinación de los órganos y servicios públicos del sector, y el cumplimiento de las demás funciones que en materias de su competencia le encomiende la ley y el Ministro.
 
 #### Artículo 6°
 

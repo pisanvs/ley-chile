@@ -1148,7 +1148,7 @@ a) Un académico o profesional de reconocida trayectoria, designado por el Presi
 
 b) Dos profesionales de la educación que ejerzan labores docentes en el ámbito municipal y particular respectivamente, designados por el Presidente de la República, previa consulta, en el caso de al menos uno de ellos, a la organización gremial más representativa de los profesionales de la educación.
 
-c) Cuatro académicos o profesionales de reconocido prestigio propuestos por el Presidente de la República para ser ratificados en el Senado por los dos tercios de los senadores en una sola votación, debiendo dos de ellos contar con un reconocido prestigio en el área de la educación parvularia, básica o media.
+c) Cuatro académicos o profesionales de reconocido prestigio propuestos por el Presidente de la República para ser ratificados en el Senado por los dos tercios de los senadores en una sola votación, debiendo, al menos, tres de ellos contar con un reconocido prestigio en el área de la educación parvularia, básica o media, correspondiendo uno a cada nivel.
 
 d) Dos académicos, designados, uno por el Consejo de Rectores de las Universidades Chilenas y otro elegido por los rectores de las universidades privadas autónomas acreditadas en reunión citada para ese efecto por el Jefe de la División de Educación Superior del Ministerio de Educación.
 
