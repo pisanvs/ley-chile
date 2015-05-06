@@ -44,6 +44,10 @@ i) Instituto Forestal.
 
 j) Subsecretaría de Pesca.
 
+k) Carabineros de Chile;
+
+l) Policía de Investigaciones de Chile.
+
 #### Artículo 3
 
 <!-- parte:6581395 -->
