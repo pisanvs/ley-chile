@@ -32,6 +32,14 @@ Calidad Jurídica : Titular
 
 Calidad Jurídica : Titular
 
+5.- Nombre : Mejías Letelier Crisólogo Humberto
+
+Cargo : Profesional
+
+RUT : 6.128.701-9
+
+Calidad Jurídica : Titular
+
 Anótese, comuníquese, publíquese y archívese.- Por orden de la Presidenta de la República, Nicolás Eyzaguirre Guzmán, Ministro de Educación.
 
 Lo que transcribo a usted, para su concimiento, Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
