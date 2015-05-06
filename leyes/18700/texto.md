@@ -34,17 +34,21 @@ Ningún candidato podrá figurar en más de una declaración en elecciones que s
 
 En las elecciones de Parlamentarios dos o más partidos políticos podrán acordar un pacto electoral.
 
+En las elecciones de diputados y senadores, al interior de cada pacto electoral, los partidos políticos integrantes de dicho pacto podrán, cada uno, asociarse con candidatos independientes.
+
 El pacto electoral regirá en todas las regiones del país en que uno o más de los partidos políticos integrantes del mismo se encuentren legalmente constituidos.
 
 Las declaraciones de candidaturas que presente el pacto electoral, sólo podrán incluir candidatos de los partidos políticos que se encuentren legalmente constituidos en la respectiva región.
 
+De la totalidad de declaraciones de candidaturas a diputado o senador declaradas por los partidos políticos, hayan o no pactado, ni los candidatos hombres ni las candidatas mujeres podrán superar el sesenta por ciento del total respectivo. Este porcentaje será obligatorio y se calculará con independencia de la forma de nominación de las candidaturas. La infracción de lo señalado precedentemente acarreará el rechazo de todas las candidaturas declaradas a diputados o a senadores, según corresponda, del partido que no haya cumplido con este requisito.
+
 El pacto electoral deberá formalizarse ante el Director del Servicio Electoral, en forma previa al vencimiento del plazo y a las declaraciones de candidaturas, mediante la presentación de una declaración suscrita por los Presidentes y Secretarios de los partidos políticos integrantes del pacto, que deberá indicar la decisión de concurrir en lista conjunta en una elección de Parlamentarios y que existe afinidad entre sus declaraciones programáticas.
 
-El pacto electoral se entenderá constituido a contar de la fecha de su formalización. Los partidos políticos que hubieren constituido un pacto no podrán acordar otro a menos que aquél fuere dejado sin efecto. Se podrá dejar sin efecto un pacto electoral cuando los partidos que lo integren hayan dado cumplimiento a lo dispuesto en el artículo 29, inciso primero, de la ley N° 18.603, y exista acuerdo unánime entre ellos. Este acuerdo deberá ser comunicado al Director del Servicio Electoral, mediante una declaración suscrita por los Presidentes y Secretarios de los partidos políticos de que se trate, antes del vencimiento del plazo para presentar candidaturas.
+El pacto electoral se entenderá constituido a contar de la fecha de su formalización. Los partidos políticos que hubieren constituido un pacto o una asociación con candidaturas independientes no podrán acordar otro a menos que aquél fuere dejado sin efecto. Se podrá dejar sin efecto un pacto electoral o una asociación con candidaturas independientes cuando los partidos que lo integren hayan dado cumplimiento a lo dispuesto en el artículo 29, inciso primero, de la ley N° 18.603, y exista acuerdo unánime entre ellos. Este acuerdo deberá ser comunicado al Director del Servicio Electoral, mediante una declaración suscrita por los Presidentes y Secretarios de los partidos políticos de que se trate, antes del vencimiento del plazo para presentar candidaturas.
 
 #### Artículo 4°
 
-Las declaraciones de candidaturas a Senadores o Diputados que presenten los partidos políticos o los pactos electorales, podrán incluir hasta dos candidatos por circunscripción senatorial o distrito según corresponda.
+En el caso de las declaraciones de candidaturas para la elección de diputados y senadores, los partidos políticos o pactos electorales podrán presentar en cada distrito o circunscripción un máximo de candidatos equivalente al número inmediatamente superior al del número de parlamentarios que corresponda elegir en el distrito o circunscripción de que se trate.
 
 En el caso de las declaraciones de candidaturas de partidos políticos, los candidatos de la lista deberán estar afiliados a un mismo partido político.
 
@@ -144,9 +148,15 @@ De la Inscripción de Candidaturas
 
 #### Artículo 17
 
-El Consejo del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo para declaración de candidaturas, deberá aceptarlas o rechazarlas. Para tal efecto dictará las resoluciones respectivas que se publicarán dentro de tercer día en el Diario Oficial.
+El Consejo del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo para efectuar la declaración de candidaturas, deberá dictar una resolución que se notificará al correo electrónico que los partidos políticos y candidatos independientes deberán informar en el momento de la declaración, la que se pronunciará sobre:
 
-El Consejo del Servicio Electoral deberá rechazar las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los artículos 25, 48 y 50 de la Constitución Política de la República, o que se encuentren en alguna de las situaciones previstas en el artículo 57 de la Constitución. Asimismo, rechazará las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los Párrafos 1° a 3° de este Título.
+a) La aceptación o rechazo de cada una de las declaraciones de candidaturas a diputado o senador, declaradas por cada partido político, pacto electoral o candidatura independiente. El Consejo del Servicio Electoral deberá rechazar las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los artículos 25, 48 y 50 de la Constitución Política de la República, o que se encuentren en alguna de las situaciones previstas en su artículo 57. Asimismo, deberá rechazar las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los párrafos 1º a 3º de este título.
+
+b) La aceptación o rechazo de la totalidad de las declaraciones de candidaturas a diputado o senador, según corresponda, declaradas por cada partido político, en conformidad a lo dispuesto en los incisos cuarto y quinto del artículo 3º bis. El Consejo del Servicio Electoral deberá rechazar la totalidad de las declaraciones de candidaturas a diputado o senador, según corresponda, realizadas por los partidos políticos, estén o no en pacto electoral, que no cumplan con el porcentaje de sexos establecido en el inciso quinto de dicho artículo.
+
+Los partidos políticos cuya totalidad de declaraciones de candidaturas a diputado o senador, según corresponda, sean rechazadas en conformidad a lo dispuesto en la letra b) de este artículo, podrán corregirlas ante el Servicio Electoral dentro de los cuatro días hábiles siguientes a la fecha del despacho del correo electrónico que notifica la resolución a que alude el inciso primero, con el fin de ajustarse al porcentaje de sexos dispuesto en el inciso quinto del artículo 3º bis, ya sea retirando declaraciones de candidaturas o declarando otras nuevas.
+
+Dentro de los cinco días siguientes de vencido el plazo para presentar la corrección, el Consejo del Servicio Electoral dictará una nueva resolución aceptando o rechazando las declaraciones nuevas y rechazando o aceptando, según proceda, la totalidad de las declaraciones de candidaturas a diputados o a senadores, según corresponda, la que deberá ser publicada dentro de tercer día en el Diario Oficial. En tal oportunidad también se publicarán en el mismo medio la aceptación o rechazo de cada una de las declaraciones de candidaturas a parlamentarios declaradas por cada partido político, pacto electoral o candidatura independiente.
 
 #### Artículo 18
 
@@ -198,6 +208,8 @@ El Director del Servicio Electoral, en audiencia pública que tendrá lugar a la
 
 Para estos efectos, tratándose de elecciones de Senadores y Diputados, se realizará un sorteo con letras del abecedario en número igual al de las listas declaradas por los partidos políticos o pactos electorales. La primera letra que arroje el sorteo se asignará a la lista primeramente declarada y las restantes letras a las demás en el orden de su recepción. Atribuidas las letras a cada lista, el orden de éstas se ajustará al que tienen en el abecedario. La letra que se asigne a la lista de un partido o pacto electoral será la misma para todas sus declaraciones en las diferentes circunscripciones senatoriales y distritos del país.
 
+En el caso de un pacto electoral, el orden de precedencia de los partidos dentro de la cédula electoral para cada circunscripción o distrito será el señalado por el pacto electoral en la declaración de candidaturas y, a falta de éste, será resuelto por el Servicio Electoral mediante sorteo.
+
 A cada candidatura independiente a Diputado o Senador el Director le asignará un número cardinal correlativo de acuerdo con el orden de su recepción. La numeración que se dé a las nóminas será la que siga al último número asignado a los candidatos declarados en listas, de acuerdo con lo dispuesto en el inciso cuarto del artículo 24.
 
 Si las candidaturas fueren a Presidente de la República, se hará un sorteo con números en igual cantidad al de las candidaturas, asignando el primer número que arroje el mismo, al candidato primeramente declarado, y los restantes, a los demás candidatos en el orden de sus respectivas declaraciones. Atribuidos los números, los nombres de los candidatos serán colocados en el orden correlativo correspondiente. Para los efectos de lo previsto en el inciso segundo del artículo 26 de la Constitución Política, los candidatos que correspondan mantendrán en la cédula de votación sus respectivos números y orden.
@@ -210,9 +222,9 @@ A continuación del nombre de cada candidato incluido en una lista correspondien
 
 Las listas se colocarán en el orden alfabético que corresponda a las letras que les hayan sido asignadas, y luego se colocarán las nóminas de acuerdo con los números que les hayan correspondido.
 
-Dentro de cada lista, se pondrán los nombres de los candidatos en el orden indicado en la declaración, asignándoles un número correlativo desde el uno hasta la cantidad total de candidatos declarados para la misma circunscripción senatorial o distrito, comenzando la numeración con los candidatos a Senadores y siguiendo con los candidatos a Diputados.
+El orden de precedencia de los candidatos de un partido y sus independientes asociados dentro de la cédula electoral para cada circunscripción o distrito será el señalado por el partido en la declaración de candidaturas y, a falta de éste, será resuelto por el Servicio Electoral mediante sorteo.
 
-Al lado izquierdo del número de cada candidato, habrá una raya horizontal a fin de que el elector pueda marcar su preferencia completando una cruz con una raya vertical.
+Al lado izquierdo del número de cada candidato, habrá una raya horizontal destinada a que el elector pueda marcar su preferencia completando una cruz con una raya vertical.
 
 #### Artículo 25
 
@@ -1124,13 +1136,31 @@ Si ninguno de los candidatos a Presidente de la República hubiere obtenido la m
 
 #### Artículo 109 bis
 
-En el caso de elecciones de Parlamentarios, el Tribunal proclamará elegidos Senadores o Diputados a los dos candidatos de una misma lista, cuando ésta alcanzare el mayor número de sufragios y tuviere un total de votos que excediere el doble de los que alcanzare la lista o nómina que le siguiere en número de sufragios.
+En el caso de elecciones de diputados y senadores, el Tribunal Calificador de Elecciones proclamará elegidos a los candidatos, conforme a las reglas establecidas en el procedimiento que a continuación se detalla:
 
-Si ninguna lista obtuviere los dos cargos, elegirá un cargo cada una de las listas o nóminas que obtengan las dos más altas mayorías de votos totales de lista o nómina, debiendo el Tribunal proclamar elegidos Senadores o Diputados a aquellos candidatos que, dentro de cada lista o nómina, hubieren obtenido las más altas mayorías.
+1.- El Tribunal Calificador de Elecciones determinará las preferencias emitidas a favor de cada lista y de cada uno de los candidatos que la integran.
 
-Si el segundo cargo por llenar correspondiere con igual derecho a dos o más listas o nóminas, el Tribunal proclamará electo al candidato que hubiere reunido mayor cantidad de preferencias individuales.
+2.- Se aplicará el sistema electoral de coeficiente D'Hondt, para lo cual se procederá de la siguiente manera:
 
-En caso de empate entre candidatos de una misma lista o entre candidatos de distintas listas o nóminas, que a su vez estuviesen empatadas, el Tribunal procederá, en audiencia pública, a efectuar un sorteo entre ellos, y proclamará electo al que salga favorecido.
+a) Los votos de cada lista se dividirán por uno, dos, tres y así sucesivamente hasta la cantidad de cargos que corresponda elegir.
+
+b) Los números que han resultado de estas divisiones se ordenarán en orden decreciente hasta el número correspondiente a la cantidad de cargos que se eligen en cada distrito electoral o circunscripción senatorial.
+
+c) A cada lista o pacto electoral se le atribuirán tantos escaños como números tenga en la escala descrita en la letra b).
+
+3.- En el caso de las listas conformadas por un solo partido político, el Tribunal Calificador de Elecciones proclamará electos a los candidatos que hayan obtenido las más altas mayorías individuales de cada lista, de acuerdo al número de cargos que le correspondan a cada una de ellas, luego de aplicar las reglas descritas precedentemente.
+
+4.- En el caso de los pactos electorales, se aplicarán las siguientes reglas para determinar cuántos escaños le corresponden a cada uno de ellos:
+
+a) Se calculará el total de los votos de cada partido político o, en su caso, de la suma de cada partido político y las candidaturas independientes asociadas a ese partido.
+
+b) Se dividirá por uno, dos, tres y así sucesivamente, hasta la cantidad de cargos asignados al pacto electoral.
+
+c) A cada partido político o, en su caso, a cada partido y las candidaturas independientes asociadas a éste, se le atribuirán tantos escaños como números tenga en la escala descrita en la letra b) precedente.
+
+d) El Tribunal Calificador de Elecciones proclamará elegidos a los candidatos que hayan obtenido las más altas mayorías individuales de cada partido político o, en su caso, de cada partido, considerando las candidaturas independientes asociadas éste dentro de un pacto electoral, de acuerdo a los cupos obtenidos por cada uno de ellos.
+
+En caso de empate entre candidatos de una misma lista, o entre candidatos de distintas listas que a su vez estén empatadas, el Tribunal Calificador de Elecciones procederá en audiencia pública a efectuar un sorteo entre ellos, y proclamará elegido al que salga favorecido.
 
 ## Título VI
 
@@ -1694,175 +1724,129 @@ DE LOS DISTRITOS ELECTORALES Y CIRCUNSCRIPCIONES SENATORIALES PARA LAS ELECCIONE
 
 #### Artículo 178
 
-Para la elección de los miembros de la Cámara de Diputados habrá sesenta distritos electorales, cada uno de los cuales elegirá dos Diputados.
+Para la elección de los miembros de la Cámara de Diputados habrá veintiocho distritos electorales, cada uno de los cuales elegirá el número de diputados que se indica en el artículo siguiente.
 
 #### Artículo 179
 
-Los distritos electorales serán los siguientes: 1er. distrito, constituido por las comunas de Arica, Camarones, Putre y General Lagos;
+Los distritos electorales serán los siguientes:
 
-2° distrito, constituido por las comunas de Iquique, Huara, Camiña, Colchane, Pica y Pozo Almonte;
+1er distrito, constituido por las comunas de Arica, Camarones, Putre y General Lagos, que elegirá 3 diputados.
 
-3er. distrito, constituido por las comunas de Tocopilla, María Elena, Calama, Ollague y San Pedro de Atacama;
+2º distrito, constituido por las comunas de Iquique, Alto Hospicio, Huara, Camiña, Colchane, Pica y Pozo Almonte, que elegirá 3 diputados.
 
-4° distrito, constituido por las comuna de Antofagasta, Mejillones, Sierra Gorda y Taltal;
+3er distrito, constituido por las comunas de Tocopilla, María Elena, Calama, Ollagüe, San Pedro de Atacama, Antofagasta, Mejillones, Sierra Gorda y Taltal, que elegirá 5 diputados.
 
-5° distrito, constituido por las comunas de Chañaral, Diego de Almagro y Copiapó;
+4º distrito, constituido por las comunas de Chañaral, Diego de Almagro, Copiapó, Caldera, Tierra Amarilla, Vallenar, Freirina, Huasco y Alto del Carmen, que elegirá 5 diputados.
 
-6° distrito, constituido por las comunas de Caldera, Tierra Amarilla, Vallenar, Freirina, Huasco y Alto del Carmen;
+5º distrito, constituido por las comunas de La Serena, La Higuera, Vicuña, Paihuano, Andacollo, Coquimbo, Ovalle, Río Hurtado, Combarbalá, Punitaqui, Monte Patria, Illapel, Salamanca, Los Vilos y Canela, que elegirá 7 diputados.
 
-7° distrito, constituido por las comuna de La Serena, La Higuera, Vicuña, Paihuano y Andacollo;
+6º distrito, constituido por las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Puchuncaví, Quintero, Nogales, Calera, La Cruz, Quillota, Hijuelas, Los Andes, San Esteban, Calle Larga, Rinconada, San Felipe, Putaendo, Santa María, Panquehue, Llaillay, Catemu, Olmué, Limache, Villa Alemana y Quilpué, que elegirá 8 diputados.
 
-8° distrito, constituido por las comuna de Coquimbo, Ovalle y Río Hurtado;
+7º distrito, constituido por las comunas de Valparaíso, Juan Fernández, Isla de Pascua, Viña del Mar, Concón, San Antonio, Santo Domingo, Cartagena, El Tabo, El Quisco, Algarrobo y Casablanca, que elegirá 8 diputados.
 
-9° distrito, constituido por las comuna de Combarbalá, Punitaqui, Monte Patria, Illapel, Salamanca, Los Vilos y Canela;
+8º distrito, constituido por las comunas de Colina, Lampa, Tiltil, Quilicura, Pudahuel, Estación Central, Cerrillos y Maipú, que elegirá 8 diputados.
 
-10° distrito, constituido por las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Puchuncaví, Quintero, Nogales, Calera, La Cruz, Quillota e Hijuelas;
+9º distrito, constituido por las comunas de Conchalí, Renca, Huechuraba, Cerro Navia, Quinta Normal, Lo Prado, Recoleta e Independencia, que elegirá 7 diputados.
 
-11er. distrito, constituido por las comunas de Los Andes, San Esteban, Calle Larga, Rinconada, San Felipe, Putaendo, Santa María, Panquehue, Llaillay y Catemu;
+10º distrito, constituido por las comunas de Providencia, Ñuñoa, Santiago, Macul, San Joaquín y La Granja, que elegirá 8 diputados.
 
-12° distrito, constituido por las comunas de Olmué, Limache, Villa Alemana y Quilpué;
+11º distrito, constituido por las comunas de Las Condes, Vitacura, Lo Barnechea, La Reina y Peñalolén, que elegirá 6 diputados.
 
-13er. distrito, constituido por las comunas de Valparaíso, Juan Fernández e Isla de Pascua;
+12º distrito, constituido por las comunas de La Florida, Puente Alto, Pirque, San José de Maipo y La Pintana, que elegirá 7 diputados.
 
-14° distrito, constituido por la comuna de Viña del Mar;
+13º distrito, constituido por las comunas de El Bosque, La Cisterna, San Ramón, Pedro Aguirre Cerda, San Miguel y Lo Espejo, que elegirá 5 diputados.
 
-15° distrito, constituido por las comunas de San Antonio, Santo Domingo, Cartagena, El Tabo, El Quisco, Algarrobo y Casablanca;
+14º distrito, constituido por las comunas de San Bernardo, Buin, Paine, Calera de Tango, Talagante, Peñaflor, El Monte, Isla de Maipo, Melipilla, María Pinto, Curacaví, Alhué, San Pedro y Padre Hurtado, que elegirá 6 diputados.
 
-16° distrito, constituido por las comunas de Colina, Lampa, Tiltil, Quilicura y Pudahuel;
+15º distrito, constituido por las comunas de Rancagua, Mostazal, Graneros, Codegua, Machalí, Requínoa, Rengo, Olivar, Doñihue, Coinco, Coltauco, Quinta de Tilcoco y Malloa, que elegirá 5 diputados.
 
-17° distrito, constituido por las comunas de Conchalí, Renca y Huechuraba;
+16º distrito, constituido por las comunas de San Fernando, Chimbarongo, San Vicente, Peumo, Pichidegua, Las Cabras, Placilla, Nancagua, Chépica, Santa Cruz, Lolol, Pumanque, Palmilla, Peralillo, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe y Paredones, que elegirá 4 diputados.
 
-18° distrito, constituido por las comunas de Cerro Navia, Quinta Normal y Lo Prado;
+17º distrito, constituido por las comunas de Curicó, Teno, Romeral, Molina, Sagrada Familia, Hualañé, Licantén, Vichuquén, Rauco, Talca, Curepto, Constitución, Empedrado, Pencahue, Maule, San Clemente, Pelarco, Río Claro y San Rafael, que elegirá 7 diputados.
 
-19° distrito, constituido por las comunas de Recoleta e Independencia;
+18º distrito, constituido por las comunas de Linares, Colbún, San Javier, Villa Alegre, Yerbas Buenas, Longaví, Retiro, Parral, Cauquenes, Pelluhue y Chanco, que elegirá 4 diputados.
 
-20° distrito, constituido por las comunas de Estación Central, Cerrillos y Maipú;
+19º distrito, constituido por las comunas de Chillán, Coihueco, Pinto, San Ignacio, El Carmen, Pemuco, Yungay, Chillán Viejo, San Fabián, Ñiquén, San Carlos, San Nicolás, Ninhue, Quirihue, Cobquecura, Treguaco, Portezuelo, Coelemu, Ránquil, Quillón, Bulnes, Cabrero y Yumbel, que elegirá 5 diputados.
 
-21er. distrito, constituido por las comunas de Providencia y Ñuñoa;
+20º distrito, constituido por las comunas de Talcahuano, Hualpén, Concepción, San Pedro de la Paz, Chiguayante, Tomé, Penco, Florida, Hualqui, Coronel y Santa Juana, que elegirá 8 diputados.
 
-22° distrito, constituido por la comuna de Santiago;
+21er distrito, constituido por las comunas de Lota, Lebu, Arauco, Curanilahue, Los Álamos, Cañete, Contulmo, Tirúa, Los Ángeles, Tucapel, Antuco, Quilleco, Alto Biobío, Santa Bárbara, Quilaco, Mulchén, Negrete, Nacimiento, San Rosendo y Laja, que elegirá 5 diputados.
 
-23er. distrito, constituido por las comunas de Las Condes, Vitacura y Lo Barnechea;
+22º distrito, constituido por las comunas de Angol, Renaico, Collipulli, Ercilla, Los Sauces, Purén, Lumaco, Traiguén, Victoria, Curacautín, Lonquimay, Melipeuco, Vilcún, Lautaro, Perquenco y Galvarino, que elegirá 4 diputados.
 
-24° distrito, constituido por las comunas de La Reina y Peñalolén;
+23er distrito, constituido por las comunas de Temuco, Padre Las Casas, Carahue, Nueva Imperial, Saavedra, Cholchol, Teodoro Schmidt, Freire, Pitrufquén, Cunco, Pucón, Curarrehue, Villarrica, Loncoche, Gorbea y Toltén, que elegirá 7 diputados.
 
-25° distrito, constituido por las comunas de Macul, San Joaquín y La Granja;
+24º distrito, constituido por las comunas de Valdivia, Lanco, Mariquina, Máfil, Corral, Panguipulli, Los Lagos, Futrono, Lago Ranco, Río Bueno, La Unión y Paillaco, que elegirá 5 diputados.
 
-26° distrito, constituido por la comuna de La Florida;
+25º distrito, constituido por las comunas de Osorno, San Juan de la Costa, San Pablo, Puyehue, Río Negro, Purranque, Puerto Octay, Fresia, Frutillar, Llanquihue, Puerto Varas y Los Muermos, que elegirá 4 diputados.
 
-27° distrito, constituido por las comunas de El Bosque, La Cisterna y San Ramón;
+26º distrito, constituido por las comunas de Puerto Montt, Cochamó, Maullín, Calbuco, Castro, Ancud, Quemchi, Dalcahue, Curaco de Vélez, Quinchao, Puqueldón, Chonchi, Queilén, Quellón, Chaitén, Hualaihué, Futaleufú y Palena, que elegirá 5 diputados.
 
-28° distrito, constituido por las comunas de Pedro Aguirre Cerda, San Miguel y Lo Espejo;
+27º distrito, constituido por las comunas de Coihaique, Lago Verde, Aisén, Cisnes, Guaitecas, Chile Chico, Río Ibáñez, Cochrane, O'Higgins y Tortel, que elegirá 3 diputados.
 
-29° distrito, constituido por las comunas de Puente Alto, Pirque, San José de Maipo y La Pintana;
+28º distrito, constituido por las comunas de Natales, Torres del Paine, Punta Arenas, Río Verde, Laguna Blanca, San Gregorio, Porvenir, Primavera, Timaukel, Cabo de Hornos y Antártica, que elegirá 3 diputados.
 
-30° distrito, constituido por las comunas de San Bernardo, Buin, Paine y Calera de Tango;
+El número de diputados que se elegirá por distrito se actualizará en los plazos y en la forma que prescribe el artículo 179 bis.
 
-31er. distrito, constituido por las comunas de Talagante, Peñaflor, El Monte, Isla de Maipo, Melipilla, María Pinto, Curacaví, Alhué y San Pedro;
+#### Artículo 179 bis
 
-32° distrito, constituido por la comuna de Rancagua;
+Corresponderá al Consejo Directivo del Servicio Electoral actualizar, cada diez años, la asignación de los 155 escaños de diputados entre los 28 distritos establecidos en el artículo anterior, de acuerdo con el siguiente procedimiento:
 
-33er. distrito, constituido por las comunas de Mostazal, Graneros, Codegua, Machalí, Requínoa, Rengo, Olivar, Doñihue, Coinco, Coltauco, Quinta de Tilcoco y Malloa;
+a) Los 155 escaños se distribuirán proporcionalmente entre los 28 distritos en consideración a la población de cada uno de ellos, en base a los datos proporcionados por el último censo oficial de la población realizado por el Instituto Nacional de Estadísticas. Dicha proporcionalidad consistirá en distribuir a prorrata los cargos entre los distritos electorales, de acuerdo a la fórmula dispuesta en el artículo 109 bis de esta ley.
 
-34° distrito, constituido por las comunas de San Fernando, Chimbarongo, San Vicente, Peumo, Pichidegua y Las Cabras;
+b) No obstante lo anterior, ningún distrito podrá elegir menos de 3 ni más de 8 diputados. En el caso que, en virtud del cálculo dispuesto en la letra a), uno o más distritos superen dicho límite, los cargos excedentes volverán a distribuirse en forma proporcional a la población entre los distritos que no hubieren alcanzado el tope.
 
-35° distrito, constituido por las comunas de Placilla, Nancagua, Chépica, Santa Cruz, Lolol, Pumanque, Palmilla, Peralillo, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe y Paredones;
+c) Para los efectos de proceder a la actualización indicada, el Consejo Directivo del Servicio Electoral se constituirá especialmente el tercer día hábil del mes de abril del año subsiguiente al de la realización del último censo oficial. En caso que el año de esta actualización coincidiera con aquel en que se celebran elecciones de diputados, el Consejo Directivo del Servicio Electoral se constituirá especialmente el tercer día hábil del mes de abril del año inmediatamente anterior a dicha elección.
 
-36° distrito, constituido por las comunas de Curicó, Teno, Romeral, Molina, Sagrada Familia, Hualañé, Licantén, Vichuquén y Rauco;
+d) El Consejo Directivo del Servicio Electoral tendrá un plazo de diez días para decidir la nueva distribución de escaños. Adoptado el acuerdo, éste se publicará en el Diario Oficial y se notificará a la Cámara de Diputados, todo ello dentro de las cuarenta y ocho horas siguientes.
 
-37° distrito, constituido por la comuna de Talca;
+Dentro de los cinco días siguientes a la publicación señalada, cualquier ciudadano podrá recurrir ante el Tribunal Calificador de Elecciones objetando la forma en que el Consejo Directivo del Servicio Electoral aplicó las letras a) y b) de este artículo.
 
-38° distrito, constituido por las comunas de Curepto, Constitución, Empedrado, Pencahue, Maule, San Clemente, Pelarco y Río Claro;
+Requerido, el Tribunal dispondrá de diez días para resolver si confirma o modifica el acuerdo del Consejo Directivo del Servicio Electoral. Contra esta decisión no procederá recurso alguno.
 
-39° distrito, constituido por las comunas de Linares, Colbún, San Javier, Villa Alegre y Yerbas Buenas;
-
-40° distrito, constituido por las comunas de Longaví, Retiro, Parral, Cauquenes, Pelluhue y Chanco;
-
-41er. distrito, constituido por las comunas de Chillán, Coihueco, Pinto, San Ignacio, El Carmen, Pemuco y Yungay;
-
-42° distrito, constituido por las comunas de San Fabián, Ñiquén, San Carlos, San Nicolás, Ninhue, Quirihue, Cobquecura, Treguaco, Portezuelo, Coelemu, Ranquil, Quillón, Bulnes, Cabrero y Yumbel;
-
-43er. distrito, constituido por la comuna de Talcahuano;
-
-44° distrito, constituido por la comuna de Concepción;
-
-45° distrito, constituido por las comunas de Tomé, Penco, Florida, Hualqui, Coronel y Santa Juana;
-
-46° distrito, constituido por las comunas de Lota, Lebu, Arauco, Curanilahue, Los Alamos, Cañete, Contulmo y Tirúa;
-
-47° distrito, constituido por las comunas de Los Angeles, Tucapel, Antuco, Quilleco, Santa Bárbara, Quilaco, Mulchén, Negrete, Nacimiento, San Rosendo y Laja;
-
-48° distrito, constituido por las comunas de Angol, Renaico, Collipulli, Ercilla, Los Sauces, Purén, Lumaco y Traiguén;
-
-49° distrito, constituido por las comunas de Victoria, Curacautín, Lonquimay, Melipeuco, Vilcún, Lautaro, Perquenco y Galvarino;
-
-50° distrito, constituido por la comuna de Temuco;
-
-51er. distrito, constituido por las comunas de Carahue, Nueva Imperial, Saavedra, Teodoro Schmidt, Freire y Pitrufquén;
-
-52° distrito, constituido por las comunas de Cunco, Pucón, Curarrehue, Villarrica, Loncoche, Gorbea y Toltén;
-
-53er. distrito, constituido por las comunas de Valdivia, Lanco, Mariquina, Máfil y Corral;
-
-54° distrito, constituido por las comunas de Panguipulli, Los Lagos, Futrono, Lago Ranco, Río Bueno, La Unión y Paillaco;
-
-55° distrito, constituido por las comunas de Osorno, San Juan de la Costa y San Pablo;
-
-56° distrito, constituido por las comunas de Puyehue, Río Negro, Purranque, Puerto Octay, Fresia, Frutillar, Llanquihue, Puerto Varas y Los Muermos;
-
-57° distrito, constituido por las comunas de Puerto Montt, Cochamó, Maullín y Calbuco;
-
-58° distrito, constituido por las comunas de Castro, Ancud, Quemchi, Dalcahue, Curaco de Vélez, Quinchao, Puqueldón, Chonchi, Queilén, Quellón, Chaitén, Hualaihué, Futaleufú y Palena;
-
-59° distrito, constituido por las comunas de Coihaique, Lago Verde, Aisén, Cisnes, Guaitecas, Chile Chico, Río Ibáñez, Cochrane, O'Higgins y Tortel;
-
-60° distrito, constituido por las comunas de Natales, Torres del Paine, Punta Arenas, Río Verde, Laguna Blanca, San Gregorio, Porvenir, Primavera, Timaukel, Navarino y La Antártica.
+En cualquier caso, con o sin recurso, la determinación definitiva de la asignación de escaños deberá publicarse en el Diario Oficial en los primeros diez días del mes de febrero del año de que se trate.
 
 #### Artículo 180
 
-Para la elección de los miembros del Senado, cada región constituirá una circunscripción senatorial, excepto las regiones V, de Valparaíso; Metropolitana de Santiago; VII, del Maule; VIII, del Bíobío, y IX, de la Araucanía, que se dividirán en dos circunscripciones senatoriales, respectivamente. Cada circunscripción senatorial elegirá dos Senadores.
+El Senado se compone de 50 miembros.
 
-> **Nota.** El artículo undécimo transitorio de la LEY 20174, publicada 05.04.2007, dispone que las modificaciones introducidas a la presente norma, entrarán en vigor treinta días antes de la oportunidad señalada en el inciso primero del artículo 6º de la ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, esto es, el 15.08.2009.
+Para la elección de los senadores, cada región constituirá una circunscripción senatorial.
+
+Cada circunscripción elegirá el número de senadores que se indica a continuación:
+
+1ª circunscripción, constituida por la XV Región de Arica y Parinacota, 2 senadores.
+
+2ª circunscripción, constituida por la I Región de Tarapacá, 2 senadores.
+
+3ª circunscripción, constituida por la II Región de Antofagasta, 3 senadores.
+
+4ª circunscripción, constituida por la III Región de Atacama, 2 senadores.
+
+5ª circunscripción, constituida por la IV Región de Coquimbo, 3 senadores.
+
+6ª circunscripción, constituida por la V Región de Valparaíso, 5 senadores.
+
+7ª circunscripción, constituida por la Región Metropolitana de Santiago, 5 senadores.
+
+8ª circunscripción, constituida por la VI Región de O'Higgins, 3 senadores.
+
+9ª circunscripción, constituida por la VII Región del Maule, 5 senadores.
+
+10ª circunscripción, constituida por la VIII Región del Bío Bío, 5 senadores.
+
+11ª circunscripción, constituida por la IX Región de La Araucanía, 5 senadores.
+
+12ª circunscripción, constituida por la XIV Región de Los Ríos, 3 senadores.
+
+13ª circunscripción, constituida por la X Región de Los Lagos, 3 senadores.
+
+14ª circunscripción, constituida por la XI Región de Aisén del General Carlos Ibáñez del Campo, 2 senadores.
+
+15ª circunscripción, constituida por la XII Región de Magallanes y de la Antártica Chilena, 2 senadores.
 
 #### Artículo 181
 
-Las circunscripciones senatoriales serán las siguientes: 1a., Circunscripción, constituida por la I Región, de Tarapacá;
-
-2a. Circunscripción, constituida por la II Región, de Antofagasta;
-
-3a. Circunscripción, constituida por la III Región, de Atacama;
-
-4a. Circunscripción, constituida por la IV Región, de Coquimbo;
-
-5a. Circunscripción, constituida por los distritos electorales Nos. 10, 11 y 12 de la V Región, de Valparaíso;
-
-6a. Circunscripción, constituida por los distritos electorales Nos. 13, 14 y 15 de la V Región, de Valparaíso;
-
-7a. Circunscripción, constituida por los distritos electorales Nos. 16, 17, 18, 19, 20, 22, 30 y 31 de la Región Metropolitana de Santiago;
-
-8a. Circunscripción, constituida por los distritos electorales Nos. 21, 23, 24, 25, 26, 27, 28 y 29 de la Región Metropolitana de Santiago;
-
-9a. Circunscripción, constituida por la VI Región, del Libertador General Bernardo O'Higgins;
-
-10a. Circunscripción, constituida por los distritos electorales Nos. 36, 37 y 38 de la VII Región, del Maule;
-
-11a. Circunscripción, constituida por los distritos electorales Nos. 39 y 40 de la VII Región, del Maule;
-
-12a. Circunscripción, constituida por los distritos electorales Nos. 42, 43, 44 y 45 de la VIII Región, del Bíobío;
-
-13a. Circunscripción, constituida por los distritos electorales Nos. 41, 46 y 47 de la VIII Región, del Bíobío;
-
-14a. Circunscripción, constituida por los distritos electorales Nos. 48 y 49 de la IX Región, de La Araucanía:;
-
-15a. Circunscripción, constituida por los distritos electorales Nos. 50, 51 y 52 de la IX Región, de La Araucanía;
-
-16a. Circunscripción, constituida por la XIV Región, de Los Ríos;
-
-17a. Circunscripción, constituida por la X Región, de Los Lagos;
-
-18a. Circunscripción, constituida por la XI Región, Aisén del General Carlos Ibáñez del Campo, y 19a. Circunscripción, constituida por la XII Región, de Magallanes y de la Antártica Chilena.
-
-> **Nota.** El artículo undécimo transitorio de la LEY 20174, publicada 05.04.2007, dispone que las modificaciones introducidas a la presente norma, entrarán en vigor treinta días antes de la oportunidad señalada en el inciso primero del artículo 6º de la ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, esto es, el 15.08.2009.
+Derogado.
 
 ## Título XII
 
@@ -2283,6 +2267,20 @@ La Junta Electoral de la provincia de Palena designará a los vocales que deban 
 El Director del Servicio Electoral determinará los Colegios Escrutadores a los que les corresponda practicar el escrutinio de las mesas receptoras de sufragios de la Circunscripción Electoral de Chaitén que hubieren funcionado el día de las elecciones, y establecerá el lugar donde realizarán su cometido.
 
 Dentro de los 20 días siguientes a las elecciones, el director del Servicio Electoral procederá a revisar los cuadernos de firmas de las mesas receptores de sufragios de la Circunscripción Electoral de Chaitén que hubieren funcionado, en forma paralela, en las diferentes localidades, con el objeto de detectar a los electores que pudieren haber votado dos o más veces. De existir algún caso, deberá hacer la denuncia que corresponda ante el Ministerio Público.
+
+#### Artículo 23
+
+La regla especial del artículo 3º bis, inciso quinto, sólo tendrá aplicación en los procesos electorales parlamentarios de 2017, 2021, 2025 y 2029.
+
+#### Artículo 24
+
+Para los efectos de completar la nueva integración del Senado de la República, en las elecciones parlamentarias que deben celebrarse en noviembre de 2017 corresponderá que se renueven completamente las circunscripciones que corresponden a regiones impares.
+
+En el caso de las circunscripciones que corresponden a las regiones pares y Metropolitana, los parlamentarios elegidos en 2013 seguirán en sus funciones hasta completar su período de ocho años. En las elecciones de 2021, estas circunscripciones elegirán al total de los senadores que les corresponde.
+
+#### Artículo 25
+
+La facultad del Consejo Directivo del Servicio Electoral a que se refiere el artículo 179 bis se ejercerá por primera vez el año subsiguiente al del censo oficial del año 2022.
 
 JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la Junta de Gobierno.- RODOLFO STANGE OELCKERS, General Director, General Director de Carabineros, Miembro de la Junta de Gobierno.- HUMBERTO GORDON RUBIO, Teniente General de Ejército, Miembro de la Junta de Gobierno.
 

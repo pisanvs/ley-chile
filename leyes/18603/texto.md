@@ -34,7 +34,7 @@ Los partidos políticos no podrán intervenir en el ejercicio de las atribucione
 
 #### Artículo 3°
 
-Los partidos políticos existirán como tales cuando se hubieren constituido legalmente en a lo menos ocho de las Regiones en que se divide políticamente el país o en un mínimo de tres de ellas, siempre que estas últimas fueren geográficamente contiguas.
+Los partidos políticos existirán como tales cuando se hubieren constituido legalmente en al menos una de las regiones en que se divide políticamente el país.
 
 El ámbito de acción de los partidos políticos se circunscribirá, en lo relativo a las actividades señaladas en el inciso primero del artículo 2°, sólo a las Regiones donde estén legalmente constituidos.
 
@@ -72,9 +72,9 @@ La administración y la eventual liquidación del patrimonio de un partido polí
 
 #### Artículo 6°
 
-El partido político en formación podrá proceder a la afiliación de sus miembros, para lo cual dispondrá de un plazo de doscientos diez días. Será necesario que se afilie al partido un número de ciudadanos con derecho a sufragio equivalente, a lo menos, al 0,5 por ciento del electorado que hubiere sufragado en la última elección de Diputados en cada una de las Regiones donde esté constituyéndose, según el escrutinio general practicado por el Tribunal Calificador de Elecciones.
+El partido político en formación podrá proceder a la afiliación de sus miembros, para lo cual dispondrá de un plazo de doscientos diez días. Será necesario que se afilie al partido un número de ciudadanos con derecho a sufragio equivalente, a lo menos, al 0,25 por ciento del electorado que hubiere sufragado en la última elección de Diputados en cada una de las Regiones donde esté constituyéndose, según el escrutinio general practicado por el Tribunal Calificador de Elecciones.
 
-La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano con derecho a sufragio ante cualquier notario de la región respectiva, o ante el oficial del Registro Civil, si en la comuna donde la persona tenga su domicilio no hubiere notario.
+La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano con derecho a sufragio ante cualquier notario de la región respectiva, o ante el oficial del Registro Civil, si en la comuna donde la persona tenga su domicilio no hubiere notario. Los notarios no podrán negarse a recibir la declaración a que hace referencia este artículo y no podrán cobrar por este servicio.
 
 Las declaraciones podrán ser individuales o colectivas y contendrán, respecto de cada afiliado, su nombre completo, apellidos, domicilio, fecha de nacimiento y cédula nacional de identidad. Cada afiliado deberá acreditar personalmente ante el ministro de fe su condición de ciudadano habilitado para votar en la Región respectiva y declarar bajo juramento no estar afiliado a otro partido político inscrito o en formación ni estar o haber estado participando en la formación de un partido político en los últimos doscientos cuarenta días.
 
@@ -82,7 +82,7 @@ La Directiva Central provisional podrá excluir, sin expresión de causa, a cual
 
 #### Artículo 7°
 
-Cumplidos los requisitos a que se refieren los artículos 5° y 6°, y reunido el número de afiliados a que alude este último artículo en a lo menos ocho de las Regiones en que se divide políticamente el país o en un mínimo de tres de ellas, siempre que fueren geográficamente contiguas, se solicitará al Director del Servicio Electoral que proceda a inscribir el partido en el Registro de Partidos Políticos. La solicitud deberá ser firmada por el presidente y por el secretario del partido en formación.
+Cumplidos los requisitos a que se refieren los artículos 5º y 6º, y reunido el número de afiliados a que alude este último artículo en una de las regiones en que se divide políticamente el país, se solicitará al Director del Servicio Electoral que proceda a inscribir el partido en el Registro de Partidos Políticos. La solicitud deberá ser firmada por el presidente y por el secretario del partido en formación.
 
 Si transcurridos tres días fatales contados desde la expiración del plazo a que se refiere el inciso primero del artículo precedente, no se hubiere dado cumplimiento a lo dispuesto en el inciso anterior, caducará el derecho a la inscripción. El notario hará constar esta circunstancia al margen de la escritura correspondiente, a requerimiento del Director del Servicio Electoral.
 
@@ -242,11 +242,15 @@ Corresponderán al Consejo General, entre otras, las siguientes atribuciones:
 
 - **c)** aprobar o rechazar el balance;
 
-- **d)** proponer a los afiliados las modificaciones a la declaración de principios, la reforma de estatutos, la disolución del partido, la fusión con otro, la aprobación de un pacto electoral en elecciones de Parlamentarios o su retiro del mismo, y la persona del candidato a la presidencia de la República, proclamándola oportunamente como tal;
+- **d)** proponer a los afiliados las modificaciones a la declaración de principios, la reforma de estatutos, la disolución del partido, la fusión con otro;
 
-- **e)** aprobar o rechazar las proposiciones que se efectúen de acuerdo al artículo 31, y
+- **e)** Aprobar un pacto electoral en las elecciones de parlamentarios o su retiro del mismo y la persona del candidato a la presidencia de la República, proclamándola oportunamente como tal;
 
-- **f)** requerir del presidente del partido que convoque a los afiliados a pronunciarse de acuerdo con el artículo 29.
+- **f)** aprobar o rechazar las proposiciones que se efectúen de acuerdo al artículo 31, y
+
+- **g)** requerir del presidente del partido que convoque a los afiliados a pronunciarse de acuerdo con el artículo 29.
+
+> **Nota.** La letra a) del N° 4, del Artículo 3° de la Ley 20840, publicada el 05.05.2015, ordena suprimir en el literal d) la oración "la aprobación de un pacto electoral en elecciones de Parlamentarios o su retiro del mismo, y la persona del candidato a la presidencia de la República, proclamándola oportunamente como tal", sin hacer mención a la coma (,) ubicada antes de "la", quedando una coma (,) y un punto y coma (;) seguidos después de aplicada la modificación. En el presente texto actualizado se ha eliminado la coma (,).
 
 #### Artículo 27
 
@@ -372,7 +376,7 @@ Los partidos políticos se disolverán:
 
 1°.- Por acuerdo de los afiliados, a proposición del Consejo General, de conformidad con el artículo 29;
 
-2°.- Por no alcanzar el cinco por ciento de los sufragios válidamente emitidos en una elección de Diputados, en cada una de a lo menos ocho Regiones o en cada una de a lo menos tres Regiones contiguas, en su caso;
+2°.- Por no alcanzar en la región en que está legalmente constituido el 2,5 por ciento de los sufragios válidamente emitidos en la última elección de diputados. En el caso de los partidos que se encuentren inscritos en más de una región, la disolución procederá cuando no hayan alcanzado el indicado umbral del 2,5 por ciento en más de la mitad de dichas regiones.
 
 3°.- Por fusión con otro partido;
 
@@ -384,11 +388,11 @@ Los partidos políticos se disolverán:
 
 7°.- Por sentencia del Tribunal Constitucional que declare inconstitucional al partido político, de acuerdo con lo dispuesto en los artículos 19, número 15, inciso sexto y 82, número 7°, de la Constitución Política.
 
-En caso de pacto electoral, y para los efectos previstos en el número 2° del inciso precedente, los votos obtendios por los candidatos sólo favorecerán al partido político al cual éstos se encuentren afiliados.
+En caso de pacto electoral, y para los efectos previstos en el número 2° del inciso precedente, los votos obtenidos por los candidatos sólo favorecerán al partido político al cual éstos se encuentren afiliados.
 
-No obstante, si un partido político incurriere en la situación prevista en el número 2° de este artículo
+No obstante, si un partido político incurre en la situación prevista en el número 2º de este artículo, pero elige al menos dos parlamentarios, sean diputados o senadores, conservará su calidad de tal.
 
-en una o más Regiones, pero eligiere al menos cuatro parlamentarios, sean Diputados o Senadores, conservará su calidad de tal y podrá desarrollar las actividades señaladas en el inciso primero del artículo 2° en las mismas Regiones donde se encontraba legalmente constituido con anterioridad. Si incurriere en la situación prevista en el número 4° en una o más Regiones, pero matuviere el mínimo de ellas exigido por la ley, conservará su calidad de tal, pero no podrá desarrollar las actividades señaladas en el inciso primero del artículo 2° en aquellas donde su número de afiliados hubiere disminuido en más de un cincuenta por ciento. El Director de Servicio Electoral anotará esta circunstancia al margen de la respectiva inscripción en el Registro de Partidos Políticos.
+Si incurre en la situación prevista en el número 4º en una o más regiones, pero mantiene el mínimo de ellas exigido por la ley, conservará su calidad de tal, pero no podrá desarrollar las actividades señaladas en el inciso primero del artículo 2º en aquellas donde su número de afiliados haya disminuido en más del 50 por ciento. El Director del Servicio Electoral anotará esta circunstancia al margen de la respectiva inscripción en el Registro de Partidos Políticos.
 
 #### Artículo 43
 

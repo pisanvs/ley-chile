@@ -746,11 +746,23 @@ El plazo de prescripción para las faltas o infracciones establecidas en esta le
 
 El mayor gasto que represente la aplicación de esta ley para el Servicio Electoral se financiará con cargo a los recursos que se contemplen en el presupuesto del año respectivo. Si tales recursos no fueren suficientes, el Ministerio de Hacienda podrá suplementarlos con cargo al ítem 50-01-03-25-33.104 de la Partida Tesoro Público del presupuesto del sector público del mismo año.
 
-#### Artículo transitorio
+Disposiciones transitorias.
+
+#### Artículo primero
 
 Los partidos políticos tendrán el plazo de seis meses, contado desde la vigencia de la presente ley, para adecuar su funcionamiento a las disposiciones sobre contabilidad, balances, límites y publicidad que ésta establece. Dentro del mismo plazo deberán adecuar a las normas del artículo 21 cualquier entidad que haya cumplido las funciones señaladas en dicho artículo o disolverlas, traspasando sus bienes al partido, a la entidad recaudadora que se forme de conformidad a lo dispuesto en esta ley o a un instituto de formación que se registre en el Servicio Electoral. Los traspasos de bienes que se produzcan de conformidad a esta norma quedarán exentos de toda clase de impuestos.
 
 Los plazos a que se refieren los artículos 54 de la presente ley y 54 y 153 A que esta ley introduce a las leyes Nº 18.603 y Nº 18.700, respectivamente, se aplicarán a todas las elecciones verificadas con anterioridad a su entrada en vigencia.".
+
+#### Artículo segundo
+
+Sin perjuicio de lo dispuesto en esta ley, y sólo para los efectos de las elecciones parlamentarias de 2017, 2021, 2025 y 2029, en el caso de las mujeres candidatas a diputadas y a senadoras que hayan sido proclamadas electas por el Tribunal Calificador de Elecciones, los partidos políticos a los que pertenezcan tendrán derecho a un monto de quinientas unidades de fomento por cada una de ellas.
+
+Con cargo a dichos recursos, los partidos políticos podrán implementar programas y desarrollar actividades de fomento a la inclusión y participación de las mujeres en política.
+
+#### Artículo tercero
+
+Para las elecciones parlamentarias de 2017, 2021, 2025 y 2029, las candidatas a senadoras y diputadas tendrán derecho a un reembolso adicional de sus gastos electorales, de cargo fiscal, de 0,0100 unidades de fomento por cada voto obtenido, en conformidad al procedimiento dispuesto en el artículo 15 de esta ley.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

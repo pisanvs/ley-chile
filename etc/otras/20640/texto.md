@@ -58,13 +58,13 @@ De la Decisión de Participar en las Elecciones Primarias
 
 Los partidos políticos podrán participar en la elección primaria para la nominación de candidatos a los cargos de Presidente de la República y de Alcalde, en forma individual o en conjunto con otros partidos y candidatos independientes conformando un pacto electoral, y con el objeto de nominar un candidato para cada cargo en el territorio electoral que corresponda.
 
-En la elección primaria para la nominación de candidatos a los cargos de Parlamentarios, para cada territorio electoral, los partidos políticos podrán participar:
+En la elección primaria para la nominación de candidatos a los cargos de parlamentarios, para cada territorio electoral, los partidos políticos podrán participar:
 
-a) En forma individual, sin haber suscrito un pacto electoral con otros partidos, y con el objeto de determinar sus dos candidatos.
+a) En forma individual, sin haber suscrito un pacto electoral con otros partidos, y con el objeto de determinar uno o más de sus candidatos.
 
-b) En forma individual, habiendo suscrito un pacto electoral con otros partidos, y con el objeto de determinar su propio candidato dentro del pacto.
+b) En forma individual, habiendo suscrito un pacto electoral con otros partidos, y con el objeto de determinar uno o más de sus candidatos dentro del pacto.
 
-c) En conjunto con otros partidos con los cuales ha suscrito un pacto electoral, y con el objeto de determinar los dos candidatos de dicho pacto.
+c) En conjunto con otros partidos con los cuales ha suscrito un pacto electoral, y con el objeto de determinar la totalidad de los candidatos de dicho pacto.
 
 En la elección conjunta de Presidente y de Parlamentarios podrá haber un pacto electoral para las elecciones presidenciales y otro diferente para las elecciones parlamentarias.
 
@@ -272,7 +272,9 @@ De la Calificación de la Elección Primaria
 
 Resultará nominada para la elección definitiva, en el caso de las elecciones Presidenciales o de Alcalde, aquella o aquellas candidaturas que hubieren obtenido la mayor votación individual.
 
-En el caso de las elecciones parlamentarias, será elegida la o las mayores votaciones individuales, según corresponda.
+En el caso de las elecciones parlamentarias y cuando los partidos políticos participen de la forma señalada en las letras a) o b) del inciso segundo del artículo 7º, serán nominados como candidatos para la elección definitiva en cada territorio electoral las mayores votaciones individuales hasta completar el número de cargos definido en la declaración de candidaturas conforme al inciso primero del artículo 16.
+
+En el caso de las elecciones parlamentarias y cuando los partidos políticos participen en pacto electoral de la forma señalada en la letra c) del inciso segundo del artículo 7º, los candidatos nominados para la elección definitiva en cada territorio electoral serán determinados conforme al procedimiento señalado en el artículo 109 bis de la ley Nº 18.700, considerando para estos efectos que constituyen una lista los candidatos de un mismo partido y sus candidaturas independientes asociadas.
 
 #### Artículo 31
 
@@ -385,6 +387,10 @@ La presente ley comenzará a regir a partir del día de su publicación, siempre
 #### Artículo segundo
 
 El gasto fiscal que irrogue la puesta en marcha de la presente iniciativa durante el primer año de su vigencia, se financiará con cargo a reasignaciones del presupuesto del Ministerio del Interior y Seguridad Pública y, en lo que faltare, con cargo a la Partida Tesoro Público.".
+
+#### Artículo tercero
+
+El partido político que decidiere someterse al sistema de elecciones primarias contemplado en los artículos 3º y siguientes de la presente ley para los períodos electorales parlamentarios de los años 2017, 2021, 2025 y 2029 sólo podrá someter a dicho procedimiento hasta el cuarenta por ciento del total de candidaturas a diputado o senador que pueda declarar en la elección definitiva, vayan o no en pacto electoral.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
