@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 476 EXENTA, DE 2015, QUE MODIFICA RESOLUCIÓN N° 818 EXENTA, DE 2010
+
+Por resolución exenta N° 476, de 22 de abril 2015, se modificó la resolución exenta N°818, de 13 de septiembre de 2010, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, mediante la cual se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Sociedad de Capacitación Ríos y Muñoz Limitada", con nombre de fantasía "Conductores Chaitén Limitada", RUT N° 76.059.044-4, representada legalmente por doña Evelyn Marcela Ríos Tapia, RUT N° 13.949.055-K, para impartir cursos conducentes a obtención de licencia de conductor profesional Clases A2, A3, A4 y A5; en el sentido de autorizar como sede aquella ubicada en calle Sargento Aldea N° 688, oficinas 6-7, y su taller mecánico ubicado en Los Vidales sitio N° 3, ambos de la comuna de Curicó.
+
+-Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule
