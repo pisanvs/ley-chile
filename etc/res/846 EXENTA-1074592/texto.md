@@ -18,6 +18,8 @@ Resolución:
 
 1. Llámase a partir de la fecha de publicación de la presente resolución en el Diario Oficial hasta las fechas que se indican, y por la cantidad de cupos de subsidio que se señalan a continuación, a postulación nacional al Subsidio Habitacional Extraordinario para Proyectos de Integración Social, regulado por el DS Nº 116 (V. y U.), de 2014, para proyectos sin inicio de obras o con avance de obras de hasta un 25% a la fecha de entrada en vigencia del decreto referido, períodos en que los Serviu respectivos procederán directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos por dicho reglamento y esta resolución.
 
+.
+
 Para el ingreso y aprobación de los proyectos, el Serviu podrá operar mediante los sistemas electrónicos que disponga el Ministerio de Vivienda y Urbanismo (Minvu) para estos efectos.
 
 Los proyectos sin inicio de obras podrán ser desarrollados en comunas de más de 40.000 habitantes y en comunas de más de 10.000 y de hasta 40.000 habitantes, conforme a lo establecido en artículo 1º del DS Nº 116 precitado. Los proyectos con avance de obras, deberán estar ejecutándose en comunas de más de 10.000 habitantes. La cantidad de habitantes se establecerá de acuerdo a la población comunal al año 2013, según las proyecciones del Instituto Nacional de Estadísticas (INE).
