@@ -146,19 +146,19 @@ De la Propiedad Intelectual
 
 #### Artículo 17
 
-El Registro Conservatorio de la Propiedad Intelectual se rige por el Decreto- Ley número 345, de 17 de Marzo de 1925; por el Reglamento establecido en el Decreto del Ministerio de Educación Pública núm. 1,063, de 19 de Mayo de 1925; por lo dispuesto en el Decreto del mismo Ministerio núm. 5,255, de 8 de Agosto de 1925, y por las disposiciones del presente Reglamento.
+El Departamento de Derechos Intelectuales, cuya jefatura corresponde al Conservador Abogado de Derechos Intelectuales, y que tiene a su cargo el Registro de la Propiedad Intelectual, se regirá por la Ley Nº 17.336 sobre Propiedad Intelectual, sus modificaciones y los reglamentos que correspondan.
 
 #### Artículo 18
 
-Las funciones de Conservador de la Propiedad Intelectual corresponden al Director General; pero el manejo de los registros y su cuidado, la escritura de las inscripciones, el arreglo y custodia del archivo, la atención del público y de la correspondencia, y, en general, todas las actividades materiales necesarias para el buen funcionamiento del servicio, son de cargo de la Secretaría de la Dirección General.
+Derogado.
 
 #### Artículo 19
 
-Además de las inscripciones a que se refiere el artículo 10 del decreto núm. 1,063, de 19 de Mayo de 1925, el Director General deberá inscribir las prohibiciones de enajenar y los embargos recaídos en el Derecho de Propiedad Intelectual.
+Derogado.
 
 #### Artículo 20
 
-Para los efectos del artículo 5.° del Decreto-Ley núm. 345, se considerarán como nacionales las obras extranjeras producidas o publicadas en Chile.
+Derogado.
 
 Del Depósito de Publicaciones Oficiales
 
@@ -1112,23 +1112,9 @@ No obstante, el Director General podrá modificar temporalmente este horario, se
 
 #### Artículo 168
 
-La entrada al Museo será pagada, y costará un peso por persona, a excepción de los días Domingos y festivos en que será gratuita.
+La Entrada al Museo Histórico Nacional, como a los demás museos que se encuentran bajo la dirección superior de la Dirección de Bibliotecas, Archivos y Museos será liberada de pago para los visitantes, durante todos los días en que estos abran sus puertas al público.
 
-Sin embargo, tendrán acceso gratuito al Museo:
-
-a) El personal dependiente de la Dirección General;
-
-b) Los profesores de los establecimientos de educación pública y particular, siempre que comprueben su calidad de tales;
-
-c) Los artistas en general y los alumnos de la Escuela de Bellas Artes y de la de Arte Aplicado, siempre que obtengan del Director del Museo una tarjeta que para el efecto se concederá, en vista de un certificado expedido por el Director de la respectiva escuela;
-
-d) Los alumnos de los establecimientos de educación pública o particular, cuando vayan conducidos por uno de sus profesores. Este deberá anotar en un libro especial, bajo su firma, el nombre del colegio o escuela a que pertenece y el número de alumnos visitantes.
-
-El personal del Museo dará al profesor las facilidades necesarias para que dé a los alumnos sus explicaciones sobre los objetos expuestos; y
-
-e) Los jefes, oficiales, sub-oficiales y tropa del Ejército, de la Armada y del Cuerpo de Carabineros, siempre que vistan uniforme.
-
-> **Nota.** NOTA 2: El decreto N° 1.002, de Educación de 1956, modifica el artículo 168° del presente decreto, en el sentido de que tendrán acceso gratuito a los Museos del Estado además de las personas señaladas en dicho artículo, los artistas miembros de la Asociación Internacional de Artes Plásticas y del Consejo Internacional de Museos.
+Excepcionalmente, podrá cobrarse por la entrada a los museos referidos en el inciso primero, por períodos limitados de tiempo, cuando las necesidades del servicio o la realización de actividades en las dependencias de los museos señalados lo hagan necesario, lo que deberá ser aprobado por resolución fundada de la Dirección Nacional de Bibliotecas, Archivos y Museos.
 
 Del Director
 
@@ -1224,7 +1210,7 @@ El Director General podrá nombrar, a propuesta del Director del Museo y sin der
 
 #### Artículo 179
 
-Regirán también para el Museo Nacional de Historia Natural las disposiciones contenidas en los artículos 167, 168, a excepción de la letra e) que no regirá; 169 y 170, a excepción de la letra a) de este último.
+Regirán también para el Museo Nacional de Historia Natural las disposiciones contenidas en los artículos 167, 168, 169 y 170, a excepción de la letra a) de este último.
 
 #### Artículo 180
 
@@ -1276,7 +1262,7 @@ Museo Nacional de Bellas Artes
 
 #### Artículo 183
 
-Regirán también para el Museo Nacional de Bellas Artes las disposiciones contenidas en los artículos 167, 168, a excepción de la letra e); 169 y 170, a excepción de las letras a) y g).
+Regirán también para el Museo Nacional de Bellas Artes las disposiciones contenidas en los artículos 167, 168, 169 y 170, a excepción de las letras a) y g).
 
 De las copias y reproducciones
 
@@ -1340,9 +1326,7 @@ Los gastos que las exposiciones originen serán de cargo de los exponentes, quie
 
 #### Artículo 196
 
-Se permitirá cobrar una entrada al recinto de las exposiciones particulares. Cuando éstas sean gratuitas y sus visitantes no entren a las demás salas del Museo, no se cobrará entrada alguna.
-
-En todo caso, las personas que por el presente Reglamento tengan acceso libre al Museo, lo tendrán también a las exposiciones.
+Derogado
 
 #### Artículo 197
 
