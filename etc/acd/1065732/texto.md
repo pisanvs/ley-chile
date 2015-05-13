@@ -18,9 +18,9 @@ El Consejo Nacional de Televisión, en el ejercicio de sus facultades constituci
 
 6. Al menos dos de las cuatro horas de programación cultural deberán transmitirse en horarios de alta audiencia, que se fijan en este Reglamento, quedando a criterio de cada concesionaria determinar el día y la hora dentro de dichos horarios.
 
-7. El horario de alta audiencia será el comprendido entre las 18:30 horas y las 00:00 horas en los días de lunes a viernes.
+7. De lunes a domingo, ambos días inclusive, el horario de alta audiencia será el comprendido entre las 18:30 Horas y las 00:00 Horas.
 
-8. Las restantes horas obligatorias de programación cultural deberán transmitirse entre las 9:00 horas y las 00.00 horas de los días sábado y domingo.
+8. De lunes a domingo, ambos días inclusive, las restantes horas obligatorias de programación cultural deberán transmitirse entre las 09:00 Horas y las 18:03 Horas.
 
 9. Desde el punto de vista de la supervisión y para ser considerados en la medición, los programas deberán ser emitidos íntegramente en los horarios señalados en los números 7 y 8 anteriores.
 
