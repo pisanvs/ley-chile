@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 246 EXENTA, DE 2015, QUE APRUEBA CONTRATO ADE REFERÉNDUM DE CONCESIÓN DE PLANTAS REVISORAS DE VEHÍCULOS MOTORIZADOS QUE SEÑALA
+
+Resolución exenta Nº246, de 15 abril de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, aprueba Contrato Ad-Referéndum de Concesión 2 para operar una planta revisora clase AB en la comuna de Temuco y una planta revisora clase AB en la comuna de Angol, en la Región de la Araucanía, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía y el concesionario "A. Denham y Cía. Ltda.", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Doris Tello Arriagada, Secretaria Regional Ministerial de Transportes y Telecomunicaciones, IX Región de la Araucanía.
