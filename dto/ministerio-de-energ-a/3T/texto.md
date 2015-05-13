@@ -1,0 +1,165 @@
+FIJA PRECIOS DE NUDO PROMEDIO EN EL SISTEMA INTERCONECTADO CENTRAL, CON MOTIVO DE LAS FIJACIONES DE PRECIOS SEÑALADAS EN EL ARTÍCULO 158º DE LA LEY GENERAL DE SERVICIOS ELÉCTRICOS
+
+Núm. 3T.- Santiago, 26 de febrero de 2015.
+
+Vistos:
+
+1. Lo dispuesto en el artículo 35 de la Constitución Política de la República;
+
+2. Lo dispuesto en el DL Nº 2.224, de 1978, que crea el Ministerio de Energía y la Comisión Nacional de Energía;
+
+3. Lo dispuesto en el decreto con fuerza de ley Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, ley General de Servicios Eléctricos, en materia de Energía Eléctrica, en adelante e indistintamente, la "ley", especialmente lo establecido en sus artículos 157º, 158º, 161º, 171º y 172º;
+
+4. Lo dispuesto en el decreto supremo Nº 86, de 29 de agosto de 2012, del Ministerio de Energía, que aprueba reglamento para la fijación de precios de nudo, en adelante el "Reglamento";
+
+5. Lo establecido en el decreto supremo Nº 14, de 14 de febrero de 2012, del Ministerio de Energía, que fija tarifas de sistema de subtransmisión y de transmisión adicional y sus fórmulas de indexación, en adelante "decreto 14";
+
+6. Lo dispuesto en el decreto supremo Nº 1T, de 5 de noviembre de 2012, del Ministerio Energía, que fija fórmulas tarifarias aplicables a los suministros sujetos a precios regulados que se señalan, efectuados por las empresas concesionarias de distribución que se indican, en adelante "decreto 1T";
+
+7. Lo dispuesto en el decreto supremo Nº 2T, de 21 de marzo de 2013, del Ministerio de Energía, que fija peajes de distribución aplicables al servicio de transporte que presten las empresas concesionarias de servicio público de distribución que señala, en adelante "decreto 2T";
+
+8. Lo dispuesto en el decreto supremo Nº 1T, de 30 de abril de 2014, del Ministerio de Energía, que fija Precios de Nudo para Suministros de Electricidad;
+
+9. Lo dispuesto en el decreto supremo Nº 2T, de 24 de febrero de 2015, del Ministerio de Energía, que fija Precios de Nudo Promedio en el Sistema Interconectado Central, con motivo de las fijaciones de precios señaladas en el artículo 158º de la ley General de Servicios Eléctricos;
+
+10. Lo informado por la Comisión Nacional de Energía, en adelante e indistintamente la "Comisión", en su resolución exenta Nº 462, de fecha 1º de octubre de 2014, rectificada por su resolución exenta Nº 27, de fecha 20 de enero de 2015, en adelante "resolución exenta 462";
+
+11. Lo informado por la Comisión al Ministerio de Energía, mediante su oficio CNE Of. Ord. Nº 87, de fecha 24 de febrero de 2015, modificado por el oficio CNE, Of. Ord. Nº 141, de fecha 1º de abril de 2015, y
+
+12. Lo establecido en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que de conformidad a lo establecido en el artículo 158º de la ley, corresponde fijar por decreto del Ministerio de Energía, expedido bajo la fórmula "por orden del Presidente de la República", los precios promedio que las concesionarias de servicio público de distribución, en adelante e indistintamente las "concesionarias", deben traspasar a sus clientes regulados;
+
+2. Que dicho decreto debe ser dictado con motivo de las fijaciones de precios señaladas en el artículo 171º de la ley, con ocasión de la entrada en vigencia de algún contrato de suministro licitado conforme al artículo 131º y siguientes de la ley, o cuando se indexe algún precio contenido en un contrato de suministro vigente, según lo dispuesto en los artículos 161º y 172º de la ley;
+
+3. Que con fecha 30 de abril de 2014, el Ministerio de Energía dictó el decreto 1T que fija los Precios de Nudo de Corto Plazo de acuerdo a lo establecido en el artículo 171º de la ley;
+
+4. Que de acuerdo a lo señalado en la resolución exenta 462, de la aplicación del decreto supremo Nº 1T, de 30 de abril de 2014, del Ministerio de Energía, se constató que el día 1º de octubre de 2014, el precio de nudo de la energía en el Sistema Interconectado Central alcanzó una variación acumulada al alza superior al 10%, resultando por lo tanto procedente la aplicación de lo dispuesto en el artículo 158º letra c) de la ley;
+
+5. Que de conformidad a lo establecido en el inciso tercero del artículo 157º de la ley, las reliquidaciones entre empresas concesionarias deberán ser calculadas por la Dirección de Peajes, en adelante e indistintamente "DP", del respectivo Centro de Despacho Económico de Carga, en adelante "CDEC"; y
+
+6. Que la Comisión, según lo dispuesto en el artículo 158º de la ley, remitió al Ministerio de Energía, mediante oficio CNE Of. Ord. Nº 87, de fecha 24 de febrero 2015, modificado por el oficio CNE Of. Ord. Nº 141, de fecha 1 de abril de 2015, el Informe Técnico que contiene el cálculo de los nuevos precios de nudo promedio para cada empresa concesionaria de distribución, según lo establecido en el artículo 157º de la ley,
+
+Decreto:
+
+Fíjanse los siguientes precios de nudo promedio y las condiciones de aplicación de los mismos, para los suministros de electricidad destinados a clientes sometidos a regulación de precios, en adelante e indistintamente, "clientes regulados" o "clientes", en virtud de lo señalado en los artículos 157º y siguientes de la ley. Estos precios se aplicarán desde la publicación del presente decreto en el Diario Oficial, sin perjuicio de su entrada en vigencia a contar del 1 de octubre de 2014, de acuerdo a lo dispuesto en el artículo 158º de la ley, y de las reliquidaciones necesarias, según el artículo 171º de la ley.
+
+1 DEFINICIONES Y CONSIDERACIONES
+
+1.1 Precios de Nudo de Largo Plazo de energía y potencia
+
+Son aquellos precios que debe pagar una concesionaria a su suministrador en virtud del contrato de suministro respectivo, suscrito a partir de las licitaciones públicas reguladas en conformidad a los artículos 131º y siguientes de la ley.
+
+1.2 Precios de Nudo de Corto Plazo de energía y potencia de punta
+
+Son aquellos precios fijados semestralmente, en los meses de abril y octubre de cada año, conforme a lo establecido en el artículo 160º de la ley.
+
+1.3 Consideraciones Generales
+
+Para los efectos del presente decreto, el precio de nudo promedio corresponderá al promedio de los precios de nudo de largo plazo para los suministros, conforme a la modelación de los contratos de las concesionarias, ponderando cada precio por el volumen de suministro correspondiente.
+
+En el caso que una concesionaria, a la fecha de entrada en vigencia del presente decreto, tenga suministros sujetos a precio de nudo de corto plazo, el precio de nudo promedio se obtendrá considerando esos suministros con criterios similares a los contratos licitados, constituyéndose entonces como un contrato recogido en el cálculo del precio de nudo promedio.
+
+La modelación de los contratos de suministro, elaborada por la Comisión con ocasión de la realización de su Informe Técnico, considera los índices disponibles al momento en que realiza el cálculo. Lo anterior, sin perjuicio del pago que deban realizar las concesionarias a sus suministradores, de acuerdo a lo establecido en sus respectivos contratos.
+
+2 PRECIOS DE NUDO PROMEDIO APLICABLES A CLIENTES REGULADOS EN ZONAS DE CONCESIÓN DE LAS RESPECTIVAS CONCESIONARIAS
+
+2.1 Precio de nudo promedio aplicables a clientes regulados
+
+Para efectos de la determinación de los precios de nudo promedio a utilizar en las fórmulas tarifarias de las concesionarias, según se establece en el decreto 1T, se considerarán los precios que se presentan en la tabla subsiguiente, donde se indican los AR correspondientes, para cada concesionaria y sector de nudo asociado a sistema de subtransmisión en donde se ubica el cliente respectivo, considerando la siguiente clasificación para las empresas distribuidoras presentes en más de un sector de nudo:
+
+*En el caso de las comunas que están asociadas a dos sectores de subtransmisión, la concesionaria deberá asignar el cliente al sistema que le corresponda de acuerdo la información que sustenta el proceso anual de "Ingresos de Explotación" entregado a la SEC.
+
+Los precios de nudo de energía y potencia promedio en nivel de distribución para cada concesionaria fueron calculados de acuerdo a las fórmulas, parámetros y definiciones considerados en el Informe Técnico de la Comisión.
+
+Donde:
+
+Pe : Precio de nudo de la energía en nivel de distribución, en [$/kWh].
+
+Pp : Precio de nudo de la potencia en nivel de distribución, en [$/kW/mes].
+
+AR : Ajuste o recargo a nivel de distribución aplicable a los clientes regulados de la empresa concesionaria, resultante de la aplicación del artículo 157º de la ley y de la incorporación de los cargos de reliquidaciones que correspondan, en [$/kWh]. Se entenderá que el factor AR corresponde a un ajuste cuando su valor sea negativo y a un recargo cuando su valor sea positivo.
+
+ARbase: Ajuste o recargo base a nivel de distribución, según lo establecido en el artículo 157º de la ley, sin considerar los cargos de reliquidaciones, en [$/kWh].
+
+PNEP : Precio de nudo de la energía promedio para todas las subestaciones troncales de generación-transporte de la concesionaria, en [$/kWh].
+
+PNPP : Precio de nudo de la potencia de punta promedio para todas las subestaciones troncales de generación-transporte de la concesionaria, en $/kW/mes]. Los valores del PNPP son iguales a los del precio de nudo de potencia a nivel troncal (PNPT), para los efectos de las fórmulas tarifarias establecidas en el decreto 1T.
+
+Para el caso particular de los sistemas medianos de Cochamó y Hornopirén pertenecientes a la zona de concesión de SAESA, no será aplicable el cargo correspondiente al parámetro AR.
+
+2.2 Indexación de precios de nudo promedio en subestaciones de generación transporte
+
+Los precios de nudo promedio de energía y potencia fijados mediante el presente decreto, serán actualizados con ocasión de la indexación de cualquiera de los contratos de suministro modelados conforme lo establecido en el Informe Técnico, el cual da origen a los cálculos de dichos precios.
+
+Las fórmulas de indexación y los rezagos de los índices de los contratos de suministro modelados, son los contenidos en dicho Informe Técnico.
+
+3 GRAVÁMENES E IMPUESTOS
+
+Las tarifas establecidas en el presente decreto son netas y no incluyen el impuesto al valor agregado ni otros impuestos o tributos que sean de cargo de los clientes.
+
+4 RELIQUIDACIONES
+
+4.1 Mecanismo de reliquidación de la DP
+
+La DP del CDEC respectivo determinará las reliquidaciones entre concesionarias producto de la aplicación del artículo 157º de la ley. A ese efecto, para cada concesionaria deberá reliquidar, a más tardar dentro de los primeros 15 días corridos de cada mes, respecto del mes anterior, los montos asociados a la aplicación del factor ARbase del precio traspasado al cliente final, establecido en el número 2.1 del presente decreto, considerando lo siguiente:
+
+a) Para cada concesionaria y a partir de los volúmenes de energía facturados para el suministro de clientes regulados, deberá calcular el monto asociado a la valorización, producto de la aplicación del factor ARbase correspondiente, señalado en el número 2.1 del presente decreto, que resulta de aplicar la siguiente expresión:
+
+Donde:
+
+MFAR: Monto facturado por la concesionaria por ajuste o recargo, en [$].
+
+ARibase: Ajuste o recargo base del sector de nudo asociado a sistema subtransmisión "i" de la empresa concesionaria, establecido en el artículo 157º de la ley, sin considerar los cargos de reliquidaciones, en [$/kWh].
+
+EFACTATi: Energía facturada a clientes regulados finales en el nivel de alta tensión de distribución del sector "i" de la concesionaria, en [kWh].
+
+EFACTBTi: Energía facturada a clientes regulados finales en el nivel de baja tensión de distribución del sector "i" de la concesionaria, en [kWh].
+
+PEAT: Factor de expansión de pérdidas de energía en alta tensión, indicado en el número 7.6 del Artículo Primero del decreto 1T.
+
+PEBT: Factor de expansión de pérdidas de energía en baja tensión, indicado en el número 7.6 del Artículo Primero del decreto 1T.
+
+NSN: Cantidad de sectores de subtransmisión de la concesionaria.
+
+Cuando la energía facturada esté conformada por fracciones de tiempo en que se hayan incluido distintos ajustes o recargos, el monto recaudado se determinará a partir de la proporción de días en los cuales se encuentre vigente el ajuste o recargo que en cada caso corresponda.
+
+b) La valorización de dicho monto (MFAR) se denominará, para cada concesionaria, Valorización del Ajuste (VA) o bien Valorización del Recargo (VR), según lo siguiente:
+
+c) La DP del CDEC respectivo deberá validar la información entregada por las concesionarias. Asimismo, a partir de la suma de la totalidad de los VA y VR del sistema eléctrico, obtenidos según la letra anterior, deberá determinar la valorización total de ajustes del sistema (VTAS) y la valorización total de recargos del sistema (VTRS), según corresponda.
+
+d) La VTRS deberá ser transferida a las concesionarias con ajustes a prorrata de sus respectivos VA. Por su parte, las concesionarias que hayan aplicado recargos en sus tarifas finales, deberán transferirlos a prorrata de sus respectivos VR.
+
+Sin perjuicio de lo anterior, en caso que la VTRS sea superior a la de la VTAS, el monto total que deberán transferir las concesionarias que aplican recargos, será igual a la VTAS.
+
+e) Las concesionarias deberán hacer efectiva la reliquidación, procediendo a realizar el pago correspondiente, a más tardar 3 días contados desde la determinación de los montos a reliquidar por la DP. Asimismo, deberán informar a esta última los pagos recibidos o realizados con ocasión de dicha reliquidación, conforme al formato que para ello establezca la DP.
+
+f) La respectiva DP deberá contabilizar en cuentas individuales por concesionaria los montos correspondientes a los saldos resultantes de la aplicación de la reliquidación, de modo que ellos sean considerados en las reliquidaciones posteriores que mensualmente efectúe.
+
+g) La respectiva DP deberá Informar a la Comisión y a la Superintendencia de Electricidad y Combustibles, dentro de los 25 primeros días corridos de cada mes, el detalle de los resultados de las reliquidaciones indicadas en la letra d) anterior y los volúmenes de energía determinados de acuerdo a la letra a) de este número.
+
+h) Conjuntamente con el envío de la información a que hace referencia la letra anterior, la DP deberá informar a la Comisión los volúmenes de energía y potencia asociados a los contratos de suministro, de acuerdo a los formatos que ésta establezca.
+
+4.2 Determinación de excedente o déficit de recaudaciones
+
+En virtud de lo establecido en el inciso final del artículo 134º de la ley y en el literal h) del artículo 79 del Reglamento, la Comisión determinará los excedentes o déficit de recaudación producto de las reliquidaciones realizadas conforme el número 4.1 del presente decreto y de la diferencia de precios y volúmenes de energía y potencia que resultaren de la aplicación del presente decreto con respecto a los contratos de suministro modelados con información actualizada.
+
+Los excedentes o déficits de recaudación corresponderán a la diferencia que resulte entre la aplicación de los precios contenidos en el presente decreto sobre los volúmenes de energía y potencia a que se refiere la letra h) del número 4.1 precedente, incorporando a su vez las reliquidaciones a que dé origen la letra d) del número 4.1 de este decreto y las facturaciones teóricas del cumplimiento de los contratos de suministro de las concesionarias.
+
+La facturación teórica anteriormente mencionada corresponde al monto que resulte de considerar los volúmenes de energía y potencia señalados en la letra h) del número 4.1 del presente decreto, valorizados a los precios calculados por la Comisión para los contratos de suministros, debidamente indexados con los índices definitivos del mes correspondiente.
+
+La Comisión deberá considerar en la elaboración del siguiente Informe Técnico de Fijación de Precios de Nudo Promedio, de acuerdo a la información de la cual disponga, los montos de excedentes o déficits de recaudación para ser reconocidos en la determinación del nivel tarifario del siguiente período, con motivo de las fijaciones de precios señaladas en el artículo 171º de la ley.
+
+4.3 Obligaciones de la concesionaria
+
+De conformidad a lo dispuesto en el literal i) del artículo 79 del Reglamento, para la determinación de los montos afectos a reliquidación a que hace referencia el número 4.1 del presente decreto por parte de la DP del CDEC respectivo, las concesionarias deberán entregar toda la información requerida en la forma que para dichos efectos la Comisión establezca, a más tardar dentro de los primeros 8 días corridos de cada mes.
+
+4.4 Intereses y reajustes
+
+Los cálculos que realicen la DP y la Comisión en la aplicación de las reliquidaciones que correspondan de acuerdo a este número 4, deberán incluir el cálculo de los intereses y reajustes que procedan.
+
+Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Máximo Pacheco M., Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Loreto Cortés Alvear, Jefe División Jurídica, Subsecretaría de Energía.
