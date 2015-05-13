@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº245 EXENTA, DE 2015, QUE APRUEBA CONTRATO AD REFERÉNDUM PARA OPERAR PLANTAS REVISORAS DE VEHÍCULOS MOTORIZADOS QUE INDICA
+
+Resolución exenta Nº245, de 15 de abril de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, aprueba Contrato Ad-Referéndum de Concesión 3 para operar una planta revisora clase AB en la comuna de Temuco y una planta revisora clase AB en la comuna de Villarrica, en la Región de la Araucanía, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía y el concesionario "TÜV Rheinland Andino S.A.", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Doris Tello Arriagada, Secretaria Regional Ministerial de Transportes y Telecomunicaciones, IX Región de la Araucanía.
