@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 247 EXENTA, DE 2015, QUE APRUEBA CONTRATO AD REFERÉNDUM DE CONCESIÓN PARA OPERAR PLANTAS REVISORAS DE VEHÍCULOS QUE INDICA
+
+Resolución exenta Nº247, de 15 abril de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, aprueba Contrato Ad-Referéndum de Concesión 1 para operar una planta revisora clase AB en la comuna de Temuco, una planta revisora clase AB en la comuna de Victoria y una Unidad Móvil, en la Región de la Araucanía, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía y el concesionario "Sociedad Applus Revisiones Técnicas de Chile S.A.", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Doris Tello Arriagada, Secretaría Regional Ministerial Transportes y Telecomunicaciones IX Región de La Araucanía
