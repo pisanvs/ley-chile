@@ -32,7 +32,9 @@ Décimo primero: Que en la comuna de Valdivia de la Región de Los Ríos se han 
 
 Décimo segundo: Que de acuerdo a la Norma primaria de calidad ambiental para MP2.5, se define como niveles que originan situaciones de pre emergencia ambiental para material particulado respirable MP-2.5, aquellos en que la concentración de 24 horas se encuentre dentro del rango 110-169 μg/m³ y de situaciones de emergencia dentro del rango 170 μg/m³ o superior.
 
-Décimo tercero: Que la exposición a altos niveles de MP 2.5 genera un riesgo a la salud pública aumentando las enfermedades respiratorias en adultos mayores, niños, embarazadas y pacientes crónicos.
+Asimismo, y de acuerdo a la norma Primaria de calidad ambiental para MP-10, se define como niveles que originan situaciones de pre emergencia ambiental para material particulado respirable MP-10, aquellos en que la concentración de 24 horas se encuentre dentro del rango 240-329 μg/m³, y de situaciones de emergencia dentro del rango 330 μg/m3 o superior.
+
+Décimo tercero: Que la exposición a altos niveles de MP 2.5 y MP 10 genera un riesgo a la salud pública aumentando las enfermedades respiratorias en adultos mayores, niños, embarazadas y pacientes crónicos.
 
 Décimo cuarto: Que el Código Sanitario otorga facultades a la SEREMI de Salud para tomar decisiones que contribuyan a disminuir factores de riesgo para la salud pública.
 
@@ -50,14 +52,16 @@ Resolución:
 
 5. Establézcase que, en episodios de emergencia ambiental, las prohibiciones establecidas precedentemente regirán desde las 18:00 hasta las 06:00 hrs. del día siguiente; para la calefacción domiciliaria regirá según los polígonos definidos por la autoridad sanitaria y no se podrán encender calefactores. Para episodios continuos de Emergencia Ambiental, dichas prohibiciones para fuentes fijas industriales, comerciales y comunitarias se prolongará hasta las 06:00 hrs. del día siguiente.
 
-6. Créase una comisión de Evaluación Atmosférica, conformada por la Seremi de Salud de Los Ríos, Seremi de Medio Ambiente y un representante del Intendente de la Región de Los Ríos, cuyo propósito es evaluar diariamente las condiciones de calidad del aire en las comunas ya señaladas, para definir eventuales modificaciones de la presente resolución, en cuanto a los sectores y horarios en los cuales regirá la prohibición.
+6.- En el caso de tratarse de situaciones de pre emergencia o emergencia originadas por el alza en los parámetros de MP 10, las medidas indicadas en los números anteriores serán facultativas y no imperativas, dado que la fuente de origen de la misma puede ser diversa y de difícil control.
 
-7. Para el cumplimiento de todo lo anterior, la Autoridad Sanitaria, con la información de proyección de la calidad del aire, del pronóstico meteorológico y de modelo predictivo del Ministerio del Medio Ambiente, a través del programa aire perteneciente al Departamento de Acción Sanitaria, informará al Dpto. de comunicaciones, quien pondrá en conocimiento de la población, al menos con 10 horas de anticipación, por los medios más expeditos e idóneos, la obligación de cumplir con las prohibiciones precedentes, según corresponda al estado de pre emergencia o emergencia ambiental.
+7. Créase una comisión de Evaluación Atmosférica, conformada por la Seremi de Salud de Los Ríos, Seremi de Medio Ambiente y un representante del Intendente de la Región de Los Ríos, cuyo propósito es evaluar diariamente las condiciones de calidad del aire en las comunas ya señaladas, para definir eventuales modificaciones de la presente resolución, en cuanto a los sectores y horarios en los cuales regirá la prohibición.
 
-8. Infórmese a la población de las medidas en días de pre emergencia y emergencia ambiental, a través de los medios de comunicación masiva, locales o nacionales según corresponda.
+8. Para el cumplimiento de todo lo anterior, la Autoridad Sanitaria, con la información de proyección de la calidad del aire, del pronóstico meteorológico y de modelo predictivo del Ministerio del Medio Ambiente, a través del programa aire perteneciente al Departamento de Acción Sanitaria, informará al Dpto. de comunicaciones, quien pondrá en conocimiento de la población, al menos con 10 horas de anticipación, por los medios más expeditos e idóneos, la obligación de cumplir con las prohibiciones precedentes, según corresponda al estado de pre emergencia o emergencia ambiental.
 
-9. Publíquese, la presente resolución en el Diario Oficial, Diario Austral de Los Ríos, y página web de esta Secretaría Regional Ministerial de Salud. El incumplimiento será sancionado de acuerdo a lo establecido en el Código Sanitario.
+9. Infórmese a la población de las medidas en días de pre emergencia y emergencia ambiental, a través de los medios de comunicación masiva, locales o nacionales según corresponda.
 
-10. La presente resolución entrará en vigencia a contar del mes de junio de 2015, sin esperar su publicación en el Diario Oficial si fuese necesario, en razón de la urgencia requerida para adoptar las medidas necesarias a fin de hacer frente a los episodios de Pre-Emergencia y Emergencia Ambiental; y dicha vigencia se extenderá hasta el 30 de septiembre de 2015, sin perjuicio de adelantar o poner término anticipado a la misma si las condiciones ambientales así lo ameritan.
+10. Publíquese, la presente resolución en el Diario Oficial, Diario Austral de Los Ríos, y página web de esta Secretaría Regional Ministerial de Salud. El incumplimiento será sancionado de acuerdo a lo establecido en el Código Sanitario.
+
+11. La presente resolución entrará en vigencia a contar del 8 de abril de 2015, sin esperar su publicación en el Diario Oficial si fuese necesario, en razón de la urgencia requerida para adoptar las medidas necesarias a fin de hacer frente a los episodios de Pre-Emergencia y Emergencia Ambiental; y dicha vigencia se extenderá hasta el 30 de septiembre de 2015, sin perjuicio de adelantar o poner término anticipado a la misma si las condiciones ambientales así lo ameritan.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Guillermo Ramírez Andrade, Secretario Regional Ministerial de Salud Región de Los Ríos.
