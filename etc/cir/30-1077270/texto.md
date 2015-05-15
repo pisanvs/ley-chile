@@ -1,0 +1,5 @@
+INSTRUYE RESPECTO DE LA INCORPORACIÓN DEL NUEVO ARTÍCULO 41 G A LA LEY SOBRE IMPUESTO A LA RENTA, EFECTUADA POR LA LEY Nº 20.780, SOBRE EL CÓMPUTO EN CHILE DE LAS RENTAS PASIVAS PERCIBIDAS O DEVENGADAS POR EMPRESAS CONTROLADAS EN EL EXTERIOR
+
+Extracto de circular del Servicio de Impuestos Internos Nº 30, del 8 de mayo de 2015, la cual tiene por objeto impartir instrucciones sobre las normas que regulan el cómputo de rentas pasivas percibidas o devengadas por las empresas controladas en el exterior, que rige a contar del 1 de enero de 2016, respecto de las rentas pasivas que deban computarse en Chile a partir de esa fecha.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2015.
