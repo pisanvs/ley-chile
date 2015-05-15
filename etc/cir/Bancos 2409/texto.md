@@ -1704,27 +1704,25 @@ C) Administración del riesgo operacional.
 
 D) Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
 
-E) Administración de la estrategia de negocios y gestión del capital.
+E) Prevención del lavado de activos y del financiamiento del terrorismo.
 
-F) Gestión de la calidad de atención a los usuarios y transparencia de información.
+F) Administración de la estrategia de negocios y gestión del capital.
 
-G) Prevención del lavado de activos y del financiamiento del terrorismo.
+G) Gestión de la calidad de atención a los usuarios y transparencia de información.
 
 H) Gestión de la función de auditoría interna y rol del comité de auditoría.
 
-Las materias indicadas en las letras A), B),
+Las materias indicadas en las letras A), B), C),
 
-- **C)** y
+- **D)** y
 
-- **D)** se relacionan principalmente con el seguimiento oportuno de los riesgos. Las señaladas en las letras
+- **E)** se relacionan principalmente con el seguimiento oportuno de los riesgos. Las señaladas en las letras
 
-- **E)** y
+- **F)** y
 
-- **F)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia y finalmente aquellas mencionadas en las letras
+- **G)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia y, finalmente, la mencionada en la letra
 
-- **G)** y
-
-- **H)** están relacionadas con el control interno, aun cuando este último aspecto también está inserto en aquellas materias incorporadas al seguimiento oportuno de riesgos. Respecto a los sistemas de información para toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
+- **H)** guarda relación con el control interno. Respecto a los sistemas de información para la toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
 
 A) Administración del riesgo de crédito y gestión global del proceso de crédito.
 
@@ -1862,57 +1860,7 @@ Una gestión óptima en relación con lo señalado en este numeral, la mostrarí
 
 - En el caso de las filiales, el banco ha establecido mecanismos que le permiten asegurarse de que las políticas relativas a riesgos, son consistentes con sus propias políticas. Asimismo, puede obtener mediciones consolidadas de los riesgos más relevantes, utilizando metodologías adecuadas a la escala y complejidad de los negocios llevados a cabo.
 
-E) Administración de la estrategia de negocios y gestión del capital.
-
-La evaluación comprende el proceso global de diseño, formulación y seguimiento de la estrategia de negocios como también la elaboración y control de los planes desarrollados por el banco.
-
-Será objeto de calificación la forma en que el banco administra el proceso de formulación de su estrategia de negocios, en lo que se refiere al manejo de los fundamentos e información que le otorgan un grado razonable de viabilidad como, asimismo, la manera en que las condiciones generales del entorno y de la entidad, particularmente en lo relativo a necesidades de capital, han sido incorporadas en su definición.
-
-Debe tenerse presente, tal como se señaló en el numeral 4.1 del título I, que existe una estrecha relación entre los niveles de capital mantenidos por el banco y la estrategia de negocios. En rigor, el mero cumplimiento de los requisitos mínimos de capital establecidos en la ley constituye un acatamiento a las disposiciones normativas, pero no refleja necesariamente una gestión razonada de los requerimientos de capital idóneos a la estrategia de negocios de la entidad.
-
-En este sentido, se examinará si el proceso de planificación tiene en cuenta el análisis de los requerimientos de capital actuales y futuros del banco con relación a sus objetivos estratégicos, así como respecto de la implementación de los procesos de gestión de riesgo y de sus controles internos, como base de una evaluación eficaz de la suficiencia de capital mantenido por la entidad.
-
-Una buena gestión en relación con lo descrito puede manifestarse en lo siguiente:
-
-- El Directorio comprende la naturaleza y el nivel del riesgo asumido por el banco y la forma en que este riesgo se corresponde con niveles de capital suficientes y con sus planes de negocios. En este sentido, el Directorio contempla la planificación del capital como un elemento fundamental para la definición, implementación y logro de los objetivos estratégicos.
-
-- El análisis de los requerimientos de capital y los riesgos, son parte integral del proceso de formulación de la estrategia de negocios. En efecto, dicha estrategia recoge con claridad las necesidades de capital del banco y sus fundamentos, los aportes de capital previstos, el nivel y composición de capital deseable y las fuentes externas de capital, como también el nivel y perfil de riesgo proyectado para las distintas líneas de negocios.
-
-- El banco realiza análisis permanentes del entorno económico y de sus condiciones internas, así como de su posición comparativa en el mercado, que le permiten mantener una estrategia bien fundada y sostenible.
-
-- La estrategia de negocios ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitida a los niveles pertinentes. El Directorio manifiesta su plena concordancia respecto a la orientación, ejecución y a su concreción.
-
-- La entidad cuenta con sistemas de información que permiten una supervisión efectiva sobre el cumplimiento de los planes de negocios, la naturaleza y cuantía de los riesgos, como también respecto de la adecuación de capital económico y regulatorio.
-
-- La estrategia de negocios está sujeta a revisiones periódicas, bajo procedimientos que permiten acciones correctivas oportunas o redefiniciones de los objetivos o planes de acción. Esto contempla una evaluación rigurosa de los requerimientos de capital y la realización de pruebas de tensión que incorporan posibles acontecimientos o cambios en las condiciones de mercado que pudieran afectar negativamente al banco.
-
-- El banco ha establecido metas, plazos y responsables del cumplimiento de los planes de negocios y se han asignado los recursos necesarios para ello.
-
-F) Gestión de la calidad de atención a los usuarios y transparencia de información.
-
-La buena calidad en la atención de los clientes así como la calidad de la información que les es divulgada, constituyen aspectos importantes de la imagen que los bancos proyectan y, por cierto, son concordantes con una adecuada gestión de la entidad.
-
-La evaluación de esta materia contempla la existencia de políticas y procedimientos que consideren la adecuada atención de sus clientes, la administración de controversias y la entrega de información al público con los cobros que afectan a los productos y servicios ofrecidos por el banco.
-
-Es también parte de este examen, comprobar si la función de auditoría es suficientemente independiente para permitir una adecuada cobertura y profundidad de las revisiones que se efectúen sobre la materia y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
-
-A modo de ejemplo, revelan una buena gestión sobre la materia, los siguientes aspectos:
-
-- Políticas y procedimientos formalmente establecidos de transparencia de la información referida a los atributos de los productos y sus tarifas, de modo que cumplan las condiciones necesarias para una adecuada toma de decisiones por parte de los clientes. Lo anterior comprende la información entregada tanto al inicio de la relación comercial con el cliente, como durante todo el período que dure la relación contractual con este.
-
-- Políticas y procedimientos formalmente establecidos, que consideren aspectos tales como la gestión de los reclamos, la existencia de canales formales de recepción de reclamos, la atención de consultas y solicitudes del público, la existencia de código de buenas prácticas comerciales, la capacitación al personal, la entrega de normas y procedimientos para la administración de los fraudes y de otros hechos delictuosos.
-
-- La existencia y funcionamiento de unidades especializadas que cuenten con las herramientas y los recursos humanos y tecnológicos adecuados al tamaño del banco para administrar eficientemente las consultas y los reclamos del público.
-
-- La existencia de informes de gestión que permitan identificar los tipos de reclamos, consultas y solicitudes, los productos involucrados en las presentaciones, los canales de recepción y el cumplimiento de estándares de respuesta, los que periódicamente deben ser dados a conocer al Directorio o a quién haga sus veces.
-
-- La participación del Directorio en la aprobación de políticas y procedimientos; y de alguna de las instancias de la alta administración, en la definición de estándares de calidad, resolución de controversias y promoción de acciones correctivas.
-
-- La adecuada divulgación, cuando corresponda, de las políticas, procedimientos y estándares de calidad hacia las filiales y sociedades de apoyo del banco, y su posterior control.
-
-- La presencia de la función de auditoría interna en la revisión del proceso de atención de clientes y administración de reclamos.
-
-G) Prevención del lavado de activos y del financiamiento del terrorismo.
+E) Prevención del lavado de activos y del financiamiento del terrorismo.
 
 La evaluación comprende un análisis del rol que desempeña el Directorio sobre las actividades de prevención de lavado de activos y del financiamiento del terrorismo, así como también la existencia de un marco de políticas y procedimientos, los que deben ser acordes al tamaño y complejidad de las operaciones del banco y sus filiales.
 
@@ -1940,6 +1888,56 @@ En este sentido, revelan una buena gestión, por ejemplo, situaciones o hechos c
 
 - La función de auditoría realiza actividades periódicas e independientes de aquellas desarrolladas por el oficial de cumplimiento, con el objeto de verificar la adherencia a las políticas y procedimientos del banco para la detección y seguimiento de esas operaciones ilícitas. Su rol también comprende el análisis de las políticas y procedimientos, los sistemas de control, los planes de capacitación del personal, entre otros.
 
+F) Administración de la estrategia de negocios y gestión del capital.
+
+La evaluación comprende el proceso global de diseño, formulación y seguimiento de la estrategia de negocios como también la elaboración y control de los planes desarrollados por el banco.
+
+Será objeto de calificación la forma en que el banco administra el proceso de formulación de su estrategia de negocios, en lo que se refiere al manejo de los fundamentos e información que le otorgan un grado razonable de viabilidad como, asimismo, la manera en que las condiciones generales del entorno y de la entidad, particularmente en lo relativo a necesidades de capital, han sido incorporadas en su definición.
+
+Debe tenerse presente, tal como se señaló en el numeral 4.1 del título I, que existe una estrecha relación entre los niveles de capital mantenidos por el banco y la estrategia de negocios. En rigor, el mero cumplimiento de los requisitos mínimos de capital establecidos en la ley constituye un acatamiento a las disposiciones normativas, pero no refleja necesariamente una gestión razonada de los requerimientos de capital idóneos a la estrategia de negocios de la entidad.
+
+En este sentido, se examinará si el proceso de planificación tiene en cuenta el análisis de los requerimientos de capital actuales y futuros del banco con relación a sus objetivos estratégicos, así como respecto de la implementación de los procesos de gestión de riesgo y de sus controles internos, como base de una evaluación eficaz de la suficiencia de capital mantenido por la entidad.
+
+Una buena gestión en relación con lo descrito puede manifestarse en lo siguiente:
+
+- El Directorio comprende la naturaleza y el nivel del riesgo asumido por el banco y la forma en que este riesgo se corresponde con niveles de capital suficientes y con sus planes de negocios. En este sentido, el Directorio contempla la planificación del capital como un elemento fundamental para la definición, implementación y logro de los objetivos estratégicos.
+
+- El análisis de los requerimientos de capital y los riesgos, son parte integral del proceso de formulación de la estrategia de negocios. En efecto, dicha estrategia recoge con claridad las necesidades de capital del banco y sus fundamentos, los aportes de capital previstos, el nivel y composición de capital deseable y las fuentes externas de capital, como también el nivel y perfil de riesgo proyectado para las distintas líneas de negocios.
+
+- El banco realiza análisis permanentes del entorno económico y de sus condiciones internas, así como de su posición comparativa en el mercado, que le permiten mantener una estrategia bien fundada y sostenible.
+
+- La estrategia de negocios ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitida a los niveles pertinentes. El Directorio manifiesta su plena concordancia respecto a la orientación, ejecución y a su concreción.
+
+- La entidad cuenta con sistemas de información que permiten una supervisión efectiva sobre el cumplimiento de los planes de negocios, la naturaleza y cuantía de los riesgos, como también respecto de la adecuación de capital económico y regulatorio.
+
+- La estrategia de negocios está sujeta a revisiones periódicas, bajo procedimientos que permiten acciones correctivas oportunas o redefiniciones de los objetivos o planes de acción. Esto contempla una evaluación rigurosa de los requerimientos de capital y la realización de pruebas de tensión que incorporan posibles acontecimientos o cambios en las condiciones de mercado que pudieran afectar negativamente al banco.
+
+- El banco ha establecido metas, plazos y responsables del cumplimiento de los planes de negocios y se han asignado los recursos necesarios para ello.
+
+G) Gestión de la calidad de atención a los usuarios y transparencia de información.
+
+La buena calidad en la atención de los clientes así como la calidad de la información que les es divulgada, constituyen aspectos importantes de la imagen que los bancos proyectan y, por cierto, son concordantes con una adecuada gestión de la entidad.
+
+La evaluación de esta materia contempla la existencia de políticas y procedimientos que consideren la adecuada atención de sus clientes, la administración de controversias y la entrega de información al público con los cobros que afectan a los productos y servicios ofrecidos por el banco.
+
+Es también parte de este examen, comprobar si la función de auditoría es suficientemente independiente para permitir una adecuada cobertura y profundidad de las revisiones que se efectúen sobre la materia y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
+
+A modo de ejemplo, revelan una buena gestión sobre la materia, los siguientes aspectos:
+
+- Políticas y procedimientos formalmente establecidos de transparencia de la información referida a los atributos de los productos y sus tarifas, de modo que cumplan las condiciones necesarias para una adecuada toma de decisiones por parte de los clientes. Lo anterior comprende la información entregada tanto al inicio de la relación comercial con el cliente, como durante todo el período que dure la relación contractual con este.
+
+- Políticas y procedimientos formalmente establecidos, que consideren aspectos tales como la gestión de los reclamos, la existencia de canales formales de recepción de reclamos, la atención de consultas y solicitudes del público, la existencia de código de buenas prácticas comerciales, la capacitación al personal, la entrega de normas y procedimientos para la administración de los fraudes y de otros hechos delictuosos.
+
+- La existencia y funcionamiento de unidades especializadas que cuenten con las herramientas y los recursos humanos y tecnológicos adecuados al tamaño del banco para administrar eficientemente las consultas y los reclamos del público.
+
+- La existencia de informes de gestión que permitan identificar los tipos de reclamos, consultas y solicitudes, los productos involucrados en las presentaciones, los canales de recepción y el cumplimiento de estándares de respuesta, los que periódicamente deben ser dados a conocer al Directorio o a quién haga sus veces.
+
+- La participación del Directorio en la aprobación de políticas y procedimientos; y de alguna de las instancias de la alta administración, en la definición de estándares de calidad, resolución de controversias y promoción de acciones correctivas.
+
+- La adecuada divulgación, cuando corresponda, de las políticas, procedimientos y estándares de calidad hacia las filiales y sociedades de apoyo del banco, y su posterior control.
+
+- La presencia de la función de auditoría interna en la revisión del proceso de atención de clientes y administración de reclamos.
+
 H) Gestión de la función de auditoría interna y rol del comité de auditoría.
 
 La existencia de una sólida función de auditoría interna se caracteriza por entregar una opinión independiente respecto de la calidad de los sistemas de control interno y del cumplimiento de las políticas y procedimientos, de manera de identificar, medir y controlar razonablemente los riesgos presentes y potenciales que pueden existir.
@@ -1966,25 +1964,23 @@ A continuación se describen algunos elementos que constituyen una buena gestió
 
 La clasificación según gestión será fundamentada por este Organismo en la notificación mencionada en el numeral 3.2 del título I de este Capítulo. En dicha comunicación se darán a conocer los resultados de la evaluación, indicándose las debilidades que hayan sido determinantes en caso de calificarse en el nivel B o C. Esto no es óbice, claro está, para informar también acerca de aquellas deficiencias observadas que no hayan sido gravitantes para la clasificación, cualquiera sea el nivel de gestión en que el banco quede clasificado.
 
-Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen por si solo requisitos que deban cumplirse para una clasificación en el más alto nivel de gestión, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación. Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las materias señaladas en el numeral 3.2 precedente, la Superintendencia utilizará la siguiente escala en la evaluación de las materias revisadas:
+Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen por si solo requisitos que deban cumplirse para una clasificación en el más alto nivel de gestión, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación.
 
-1 EN CUMPLIMIENTO TOTAL: La entidad cumple integralmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. No existen deficiencias apreciables.
+Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las materias referidas con el seguimiento oportuno de los riesgos señaladas en el numeral 3.2 precedente, la Superintendencia utilizará la siguiente escala en la evaluación de las materias revisadas:
 
-2 EN CUMPLIMIENTO MATERIAL: La entidad cumple en forma significativa con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Aun cuando se identifican algunas debilidades en procesos específicos de alguna función, ellas se pueden considerar menores y no requieren esfuerzos importantes por parte del banco para superarlas.
+1 CUMPLIMIENTO: La entidad cumple integralmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. No existen deficiencias apreciables.
 
-3 EN CUMPLIMIENTO ACEPTABLE: La entidad cumple satisfactoriamente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Se identifican algunas debilidades en procesos específicos de ciertas funciones, las cuales deben ser corregidas oportunamente para evitar un deterioro paulatino de la solidez del banco. La solución de tales debilidades se considera necesaria.
+2 CUMPLIMIENTO MATERIAL: La entidad cumple en forma significativa con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Aun cuando se identifican algunas debilidades en procesos específicos de alguna función, ellas se pueden considerar acotadas, sin perjuicio de lo cual su corrección debe ser atendida por la entidad a objeto de alcanzar los más altos estándares de gestión de riesgos.
 
-4 EN CUMPLIMIENTO INSATISFACTORIO: La entidad no cumple en forma razonable con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Se identifican debilidades en los procesos que componen diversas funciones, entre las que se encuentran algunas relevantes. La corrección de estas debilidades debe ser efectuada con la mayor prontitud.
+3 CUMPLIMIENTO INSATISFACTORIO: La entidad no cumple en forma razonable con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Se identifican debilidades en los procesos que componen diversas funciones, entre las que se encuentran algunas relevantes. La corrección de estas debilidades debe ser efectuada con la mayor prontitud.
 
-5 EN INCUMPLIMIENTO: La entidad incumple materialmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. La solución de tales debilidades se considera indispensable.
+4 INCUMPLIMIENTO: La entidad incumple materialmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. La solución de sus debilidades se considera indispensable.
 
-Como se comprenderá, las diversas circunstancias que podrían incidir en una clasificación desfavorable de las materias auditadas no son susceptibles de traducirse a situaciones hipotéticas que caractericen el tipo y gravedad de deficiencias probables.
+Como se comprenderá, las diversas circunstancias que podrían incidir en una clasificación desfavorable de las materias auditadas no son susceptibles de traducirse en situaciones hipotéticas que caractericen el tipo y gravedad de deficiencias probables.
 
-Por consiguiente, en la información de este título no se entregan pautas para evitar una calificación desfavorable. Por una parte, no procede que este Organismo establezca normas de administración interna con el propósito de clasificar a un banco en función de su cumplimiento y, por otra, una calificación favorable no podría asegurarse reaccionando frente a las posibles revisiones de esta Superintendencia.
+Desde la perspectiva de la gestión global de un banco, las debilidades que pudiere presentar en las materias que se han mencionado pueden reflejar indirectamente debilidades en la cultura de riesgo de la institución evaluada. Aun cuando este último aspecto no se califica ni forma parte del fundamento de la clasificación, deberá ser tenido en cuenta por los propios bancos evaluados, como el elemento que determina, en definitiva, la calidad de su gestión.
 
-Conviene tener en cuenta, en todo caso, que desde la perspectiva de la gestión global de un banco, las debilidades que pudiere presentar en las materias que se han mencionado pueden reflejar indirectamente debilidades en la cultura de riesgo de la institución evaluada.
-
-Si bien ese aspecto no se califica ni forma parte del fundamento de la clasificación, según lo descrito en los numerales anteriores, deberá ser tenido en cuenta por los propios bancos evaluados, como el elemento que determina, en definitiva, la calidad de su gestión.
+Conviene tener en cuenta que aquellas materias relacionadas con la capacidad para enfrentar escenarios de contingencia y la relacionada con el control interno, si bien no son sujeto de calificación individual, dependiendo de la magnitud de las debilidades podrán afectar la clasificación final de la gestión del banco.
 
 ### 5. Evaluación de la gestión por la propia empresa
 
