@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE MELIPILLA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 8.895, del 2 de diciembre de 2014, conforme artículo 5º transitorio Código de Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 498, de fecha 18 de febrero de 1999, que complementó la resolución exenta Nº 646, de fecha 21 de abril de 1992, que aprobó la División de los Derechos de Aprovechamiento entre el sector excluido de la expropiación y el sector expropiado del predio denominado "Hijuela B del Fundo Santa Eugenia", de la comuna de Melipilla, Región Metropolitana, en el sentido de establecer que los derechos de aprovechamiento de aguas provenientes de la Vertiente Matancilla se dividirán en términos porcentuales de acuerdo a las superficies regadas de cada lote del plano de subdivisión de la parte expropiada del predio. Publicación hecha conforme artículo 13º ley Nº 18.377.
+
+Director Nacional.
