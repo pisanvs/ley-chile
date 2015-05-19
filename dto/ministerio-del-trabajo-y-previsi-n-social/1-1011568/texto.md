@@ -94,6 +94,10 @@ Si el Programa Pro Empleo determinare la necesidad de suplementar fondos en este
 
 El plazo establecido en el inciso anterior se contará desde la publicación del acto administrativo que incorpora este numeral al presente decreto.
 
+14.- Por el plazo de 3 meses, prorrogable por una sola vez por resolución fundada del Subsecretario del Trabajo, los requisitos establecidos en las letras c), d), e) y f)del numeral Nº 2 del presente decreto, no serán exigibles a los beneficiarios y beneficiarias del Programa de Inversión en la Comunidad de la Subsecretaría del Trabajo que habiten en la región de Atacama y las comunas de Antofagasta y Taltal.
+
+El plazo establecido en el inciso anterior se contará desde la fecha del acto administrativo que incorpora este numeral al presente decreto.
+
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
 
 Lo que transcribo a usted para su conocimiento, Mauricio Jélvez Maturana, Subsecretario del Trabajo.
