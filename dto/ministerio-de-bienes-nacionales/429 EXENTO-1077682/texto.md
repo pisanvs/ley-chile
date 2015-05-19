@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A FUNDACIÓN LAS ROSAS DE AYUDA FRATERNA
+
+Mediante decreto exento Nº 429 de 17 de abril de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a Fundación Las Rosas de Ayuda Fraterna, RUT Nº 70.543.600-2, el inmueble fiscal que corresponde al Lote H, ubicado en Autopista Concepción - Talcahuano Nº 3281-A, de Lomas Verdes, comuna y provincia de Concepción, Región del Biobío, inscrito a nombre del Fisco a fojas 423 vta. Nº 454, del Registro de Propiedad del Conservador de Bienes Raíces de Concepción, correspondiente al año 1990; de una superficie aproximada de 17.120 metros cuadrados, singularizado en el Plano de Subdivisión Nº VIII-2-8748-C.U. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para ejecutar en el inmueble fiscal el proyecto denominado "Construcción Hogar Concepción Fundación Las Rosas", en el cual se realizarán talleres de kinesioterapia, terapia ocupacional y espiritual, con alojamiento y alimentación para los beneficiarios. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación del presente extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Nivia Palma Manríquez, Jefa de División Jurídica.
