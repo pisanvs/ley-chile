@@ -66,7 +66,7 @@ e) Certificado de matrícula vigente de la embarcación, cuya inscripción se pr
 
 f) Certificado vigente de Navegabilidad de Nave Menor o Certificado General de Seguridad, según corresponda, de la embarcación que se pretende inscribir.
 
-g) ELIMINADO.
+g) Copia de documento en que se acredite por la Autoridad Marítima, la inspección de la instalación y correcto funcionamiento del dispositivo de posicionamiento automático en el mar.
 
 h) Título o contrato, otorgado ante Notario Público, en que se otorgue la tenencia o el riesgo de explotación de la embarcación al titular requirente de la inscripción.
 
