@@ -66,7 +66,7 @@ Del Mecanismo de Rendición de Cuenta Pública del Uso de los Recursos
 
 <!-- parte:9400676 -->
 
-La cuenta pública del uso de los recursos a que se refiere este Reglamento deberá rendirse anualmente, debiendo presentarse los respectivos estados anuales de resultados, y, si procede, los informes consolidados del período respectivo, antes del 31 de enero del año calendario siguiente al período a rendir.
+La cuenta pública del uso de los recursos a que se refiere este Reglamento deberá rendirse anualmente, debiendo presentarse los respectivos estados anuales de resultados, y, si procede, los informes consolidados del período respectivo, antes del 30 de abril del año calendario siguiente al período a rendir.
 
 Para estos efectos, se deberán utilizar los formatos estandarizados e instrumentos que fije la Superintendencia de Educación, los cuales podrán consistir, por ejemplo, en formularios electrónicos.
 
@@ -121,6 +121,12 @@ La Superintendencia de Educación fijará mediante instrucciones de carácter ge
 <!-- parte:9400683 -->
 
 En caso de infracción a alguna de las disposiciones de este Reglamento, se adoptarán las medidas y sanciones que expresamente señala la normativa legal vigente en materia educacional, previo proceso administrativo legalmente tramitado.
+
+#### Artículo transitorio
+
+<!-- parte:9601160 -->
+
+La cuenta pública del uso de los recursos recibidos durante el año 2014, deberá rendirse antes del 30 de junio del año 2015.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra de Educación.
 
