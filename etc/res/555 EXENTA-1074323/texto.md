@@ -12,11 +12,11 @@ Considerando: Que a causa de los incendios acaecidos con fecha 12, 13 y 14 de ab
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales en la Región de Valparaíso, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto habitacional, para proyectos habitacionales que incluyan familias damnificadas por el incendio acaecido en la comuna de Valparaíso el mes de abril del año 2014, y que cuenten con Certificado de Calificación hasta el día 31 de marzo de 2015, y 30 de abril de 2015.
+1. Llámase a concurso en condiciones especiales en la Región de Valparaíso, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto habitacional, para proyectos habitacionales que incluyan familias damnificadas por el incendio acaecido en la comuna de Valparaíso el mes de abril del año 2014, y que cuenten con Certificado de Calificación hasta el día 1º de junio de 2015.
 
 2. Para completar la cabida y proceder a la selección de los proyectos, deberá realizarse el siguiente proceso:
 
-a) Entre el 1º y 10 de Abril y el 1º y 10 de mayo de 2015, el SERVIU organizará una exposición para que los damnificados puedan conocer los proyectos calificados para su posterior inscripción.
+a) Entre el 2º y 12 de junio de 2015, el SERVIU organizará una exposición para que los damnificados puedan conocer los proyectos calificados para su posterior inscripción.
 
 b) Concluida la exposición a que se refiere el literal anterior, las familias podrán vincularse a los proyectos calificados.
 
@@ -55,6 +55,8 @@ e) Luego de la selección de los proyectos, y en caso de existir viviendas dispo
 15. El monto de subsidio podrá incrementarse en hasta 55 Unidades de Fomento, en el caso que se aplique en proyectos que consideren la instalación de Sistemas Solares Térmicos. Los proyectos deberán incluir el costo de instalación y de refuerzo de techumbres. Deberá incluirse el detalle de las obras correspondientes en el presupuesto de obras y en las especificaciones técnicas del proyecto.
 
 16. Para la adquisición del terreno, el SERVIU de la Región de Valparaíso podrá otorgar anticipos a cuenta del pago de los subsidios por el valor total del mismo, cuando el proyecto se encuentre selecionado. En estos casos, el dominio del terreno debe quedar inscrito a nombre del referido SERVIU.
+
+17. El estándar técnico de los proyectos habitacionales estará determinado por el Itemizado Técnico de Construcción vigente. Excepcionalmente, el Director del Serviu de la Región de Valparaíso podrá eximir a los proyectos habitacionales del cumplimiento de uno o más requisitos del Itemizado Técnico de Construcción referentes a especialidades, siempre y cuando el proyecto en cuestión cumpla con las normas vigentes de construcción establecidas en los reglamentos decretados por los organismos competentes que rigen los servicios.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
