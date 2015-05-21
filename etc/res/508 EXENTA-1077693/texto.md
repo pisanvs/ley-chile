@@ -40,13 +40,13 @@ a) Prohibición de funcionamiento de todo tipo de quemas libres dentro del radio
 
 b) Prohibición de funcionamiento de chimeneas de hogar abierto dentro del radio urbano.
 
-c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña y otros derivados tales como aserrín, chips, despuntes, etc., y carbón, dentro del radio urbano entre las 18:00 y 24:00 horas.
+c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña u otros dendroenergéticos sólidos tales como aserrín, chips, despuntes y carbón dentro del radio urbano, entre las 18:00 y 24:00 horas.
 
-d) Prohibición de funcionamiento de fuentes fijas comerciales y edificios comunitarios que utilicen como combustible leña, entre las 18:00 y 24:00 horas, dentro del radio urbano.
+d) Prohibición de funcionamiento de fuentes fijas comerciales y en edificios comunitarios que utilicen como combustible leña, entre las 18:00 y 24:00 horas, dentro del radio urbano.
 
-e) Prohíbase la actividad física en las clases de Educación Física, en los Establecimiento Educacionales de cualquier nivel.
+e) Prohíbase la actividad física al aire libre que se realicen en las clases de educación física, en los establecimiento educacionales de cualquier nivel.
 
-f) Prohíbase realizar al aire libre, todo tipo de actividades deportivas, sean estas individuales o masivas.
+f) Derogado.
 
 II.- Aplíquese las siguientes medidas sanitarias extraordinarias para la ciudad de Osorno, en periodo de Emergencia Ambiental:
 
@@ -54,22 +54,28 @@ a) Prohibición de funcionamiento de todo tipo de quemas libres dentro del radio
 
 b) Prohibición de funcionamiento de chimeneas de hogar abierto dentro del radio urbano.
 
-c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña y otros derivados tales como aserrín, chips, despuntes, etc., y carbón, dentro del radio urbano entre las 18:00 y 24:00 horas.
+c) Prohibición de funcionamiento de fuentes fijas industriales que usen como combustible leña u otros dendroenergéticos sólidos tales como aserrín, chips, despuntes y carbón dentro del radio urbano, entre las 18:00 y 24:00 horas.
 
-d) Prohibición de funcionamiento de fuentes fijas comerciales y edificios comunitarios que utilicen como combustible leña, entre las 18:00 y 24:00 horas dentro del radio urbano.
+d) Prohibición de funcionamiento de fuentes fijas comerciales y en edificios comunitarios que utilicen como combustible leña, entre las 18:00 y 24:00 horas, dentro del radio urbano.
 
-e) Se restringe la emisión de humos visibles provenientes de artefactos unitarios a leña (cocinas, estufas, salamandras, etc.) entre las 18:00 y 24:00 horas en el polígono informado por la Autoridad Sanitaria.
+e) Se restringe la emisión de humos visibles provenientes de artefactos unitarios a leña (cocinas, estufas, salamandras etc.) entre las 18:00 y 24:00 horas, en el o los polígonos informado por la autoridad sanitaria.
 
-f) Prohíbase la actividad física que se realicen en las clases de Educación Física en los Establecimiento Educacionales de cualquier nivel.
+f) Prohíbase la actividad física que se realicen en las clases de educación física en los establecimientos educacionales de cualquier nivel.
 
-g) Prohíbase realizar al aire libre y en espacios cerrados, todo tipo de actividades deportivas sean éstas individuales o masivas.
+g) Prohíbase realizar todo tipo de actividades deportivas masivas.Asistenciales, Establecimientos Educacionales y Establecimientos de Larga Estadía de Adultos Mayores (ELEAM).
 
 III.- Establécese que las medidas sanitarias indicadas en los numeral I y II, no se aplicarán al funcionamiento de los Establecimientos Asistenciales, Establecimientos Educacionales y Establecimientos de Larga Estadía de Adultos Mayores (ELEAM).
 
 IV.- Se recomienda en Episodios de Pre-Emergencia y Emergencia Ambiental, no realizar actividad física por niños y mujeres embarazadas, pacientes crónicos y adultos mayores; asimismo, se recomienda el uso de mascarillas.
 
+V.- Por razones de buen servicio, su entrada en vigencia corresponde a la fecha de su dictación, sin esperar su publicación en el Diario Oficial, y cuya duración se extenderá hasta el día 30 de septiembre de 2015, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así los permiten.
+
 V.- Téngase presente que la restricción de humos visibles en el periodo de Emergencia Ambiental, se aplicará para 7 polígonos definidos para la ciudad de Osorno. El o los polígonos en los cuales se aplicará la medida de restricción, será informado por la Autoridad Sanitaria con una anticipación debida, a través de los medios de difusión y la página web de esta Secretaría Regional Ministerial de Salud: www.seremisaludloslagos.cl.
 
 VI.- Publíquese la presente resolución Sanitaria en el Diario Oficial y en la página web de esta Secretaría Regional Ministerial de Salud: www.seremisaludloslagos.cl
+
+> **Nota.** El Numeral IV de la Resolución 566 Exenta, Salud, publicada el 20.05.2015, modifica la presente norma en el sentido de indicar que las medidas sanitarias indicadas en los numerales I y II, no se aplicarán al funcionamiento de los establecimientos asistenciales, Establecimiento de Larga Estadía de Adultos Mayores (ELEAM), Hogares de Menores y Establecimientos Educacionales, salvo las medidas establecidas en el numeral I letra e), y numeral II letras f) y g) referido a estos últimos.
+
+> **Nota.** NOTA 1 El Numeral V de la Resolución 566 Exenta, Salud, publicada el 20.05.2015, modifica la presente norma en el sentido de recomendar: a) En episodios de Pre-Emergencia, se recomienda a la población no realizar actividades físicas, entre las 18:00 y 24:00 horas.b) En episodios de Pre-Emergencia, se recomienda realizar en las clases de educación física en los establecimientos educacionales de cualquier nivel, sólo actividades de bajo impacto cardiovascular.c) En episodios de Pre-Emergencia y Emergencia Ambiental, se recomienda a los pacientes crónicos de enfermedades respiratorias y cardiovasculares de todas las edades, adultos mayores y embarazadas, no realizar actividades físicas.d) En episodio de Pre-Emergencia y Emergencia Ambiental, se recomienda el uso de mascarillas a los pacientes crónicos de enfermedades respiratorias y cardiovasculares de todas las edades, adultos mayores, niños y embarazadas.
 
 Anótese, comuníquese y publíquese.- Eugenia Schnake Valladares, Secretaria Regional Ministerial de Salud, Región de Los Lagos.
