@@ -76,7 +76,7 @@ Desígnanse como integrantes del Consejo Fiscal Asesor a las siguientes personas
 
 2.- Sra. Andrea Repetto Lisboa, RUT Nº 8.795.355-6, por cuatro años.
 
-3.- Sr. Oscar Landerretche Moreno, RUT Nº 8.366.611-0, por cuatro años.
+3.- Sr. Juan Pablo Medina Guzmán, RUT: 10.524.743-5, hasta el 31 de mayo de 2018.
 
 4.- Sr. Hermann González Bravo, RUT Nº 13.565.713-1, por cuatro años.
 
