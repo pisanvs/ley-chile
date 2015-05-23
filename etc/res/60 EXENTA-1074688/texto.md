@@ -40,27 +40,25 @@ a. Estar dispuesto a participar en las instancias de entrenamiento y/o capacitac
 
 b. Participar en las actividades establecidas para la preparación y desarrollo de la evaluación.
 
-c. En los casos que se le indique, realizar las tareas encomendadas en forma personal.
+c. En los casos que se me indique, realizar las tareas encomendadas en forma personal.
 
-d. Responder las consultas y/o aclaraciones que se les soliciten.
+d. Responder las consultas y/o aclaraciones que se me soliciten.
 
-e. Ajustarse estrictamente a los procedimientos establecidos y a la Pauta de Evaluación definida.
+e. Ajustarme estrictamente a los procedimientos establecidos y a la Pauta de Evaluación definida.
 
-f. Fundar sus opiniones.
+f. Fundar mis opiniones.
 
 g. Emitir juicios independientes.
 
-h. Aportar conclusiones consistentes con las calificaciones. El evaluador debe expresar con claridad los aspectos que llevan a sus conclusiones, sean éstas positivas o negativas.
+h. Aportar conclusiones consistentes con las calificaciones, y expresar con claridad los aspectos que lleven a mis conclusiones, sean éstas positivas o negativas.
 
-i. Realizar la evaluación y completar los instrumentos correspondientes en los plazos que se le indiquen.
+i. Realizar la evaluación y completar los instrumentos correspondientes en los plazos que se me indiquen.
 
-j. Debe mantener bajo su custodia la información y documentación que se le entregue a propósito del respectivo proceso, no pudiendo hacer entrega de ella a terceros, con excepción de aquellos que componen el equipo de trabajo.
+j. Mantener bajo custodia la información y documentación que se me entregue a propósito del respectivo proceso, no pudiendo hacer entrega de ella a terceros, con excepción de aquellos que componen el equipo de trabajo.
 
-k. Toda comunicación que se efectúe vía correo electrónico deberá realizarse a través del correo institucional, no pudiendo utilizarse en estos procesos los correos personales, salvo que, en casos calificados sea autorizado por escrito por el coordinador del proyecto que corresponda.
+k. Informar en el marco de la Ley 20.730, que Regula el Lobby, mis actuaciones durante el ejercicio de mis funciones como integrante de las Comisiones Evaluadoras, en lo que respecta a las audiencias o reuniones que me sean solicitadas, así como donativos recibidos o viajes realizados en dicho periodo.
 
-Firma __________________
-
-Fecha __________________"
+l. Toda comunicación que efectúe vía correo electrónico debo realizarla a través del correo institucional, no pudiendo utilizar en estos procesos los correos personales, salvo en casos calificados, debiendo dejar constancia de ello en el acta respectiva.
 
 2. La referida Declaración Jurada deberá ser suscrita por cada uno de los miembros de las comisiones evaluadoras, tanto en su calidad de titulares como de reemplazantes, una vez designados mediante el acto administrativo dictado por la autoridad competente y con anterioridad a la fecha de apertura de las ofertas.
 
