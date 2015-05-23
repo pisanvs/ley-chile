@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DEL IVA A CARNES PERLAS DEL SUR LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº77315044647 de fecha 29 de abril de 2015, otorga, a contar del 1 º del mes siguiente al de esta publicación, al contribuyente Carnes Perlas del Sur Limitada, RUT Nº 76.143.548-5, la calidad de Agente Retenedor Anticipo Carne, establecido en la resolución Ex. Nº3.722 del 28 de julio del 2000 de la Dirección Nacional del Servicio de Impuestos Internos.
