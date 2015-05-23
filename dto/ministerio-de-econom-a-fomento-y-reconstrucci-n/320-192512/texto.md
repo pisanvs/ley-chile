@@ -46,7 +46,7 @@ j) ELIMINADA k) ELIMINADA l) Ley: Ley Nº 18.892 General de Pesca y Acuicultura 
 
 m) Módulo de cultivo: Balsa individual, grupo de balsas unidas o cualquier tipo de estructura utilizada para el confinamiento de los recursos hidrobiológicos. En el caso del cultivo en líneas, el módulo lo constituye una agrupación de líneas donde se cultiva un solo grupo de especies.
 
-n) Producción: resultado de la suma de todos los egresos, expresados en toneladas, kilos o unidades, y del remanente existente en un centro de cultivo en un período determinado.
+n) Producción: resultado de la suma de todos los egresos, expresados en toneladas, kilos o unidades, y del remanente existente en un centro de cultivo en un período determinado. En el caso de las pisciculturas se entenderá por producción el resultado de la suma de todos los egresos, expresados en toneladas, kilos o unidades, descontados los ingresos de ejemplares efectuados en el mismo período.
 
 o) ELIMINADA
 
@@ -65,6 +65,8 @@ u) Limpieza in situ: actividad de remoción de materiales de las artes de cultiv
 v) Artes de cultivo: Elementos o sistemas utilizados para la realización de acuicultura. Se comprenden dentro de éstos las redes, linternas, cuelgas y demás elementos destinados a la contención de especies en cultivo, así como los elementos de fijación, flotación y protección de los mismos.
 
 Asimismo, cuando el presente reglamento se refiera a redes se entenderá por éstas a las redes peceras y redes loberas que se utilizan en los centros de cultivo de peces.
+
+x) Piscicultura: centro de cultivo emplazado en un terreno cualquiera sea su régimen de propiedad o uso, que se abastece de aguas provenientes de derechos de aprovechamiento de aguas o de aguas provenientes del ejercicio de una concesión marítima, inscrito en el Registro Nacional de Acuicultura.
 
 #### Artículo 3º
 
@@ -222,7 +224,7 @@ Estará prohibida la instalación de cerquillos u otras estructuras destinadas a
 
 Los centros con sistemas de producción extensivo ubicados en porciones de agua y fondo deberán mantener una distancia mínima de 200 metros entre sí y de 400 metros respecto de centros con sistemas de producción intensivo. Quedarán excluidos de esta exigencia los cultivos de macroalgas fijadas al sustrato.
 
-Los cultivos suspendidos de macroalgas deberán mantener una distancia mínima de 50 metros entre sí y respecto de otros centros.
+INCISO ELIMINADO.
 
 #### Artículo 12º
 
@@ -238,7 +240,7 @@ Sistemas de Producción Intensivos
 
 Los centros con sistemas de producción intensivo ubicados en porciones de agua y fondo deberán conservar una distancia mínima entre sí de 1,5 millas náuticas. La distancia mínima de dichos centros respecto de centros con sistemas de producción extensivos, deberá ser de 400 metros.
 
-Los centros de cultivo intensivos, cuya alimentación se base exclusiva y permanentemente en macroalgas, deberán mantener una distancia mínima de 400 metros entre sí y respecto de otros centros.
+Los centros de cultivo intensivos, cuya alimentación se base exclusiva y permanentemente en macroalgas, deberán mantener una distancia mínima de 400 metros entre sí y respecto de otros centros. En el caso que este tipo de cultivo se encuentre emplazado en las regiones XV, I, II, llI o IV, no se aplicará la distancia señalada.
 
 #### Artículo 13 bis
 
@@ -268,7 +270,7 @@ La CPS será exigible sólo a los proyectos en sectores de agua y fondo que deba
 
 La CPS contendrá los elementos que deberá considerar la autoridad pesquera para evaluar ambientalmente los proyectos y si procediere, otorgar el correspondiente Permiso Ambiental Sectorial.
 
-El titular de un centro de cultivo no podrá superar los niveles de producción informados en la solicitud de concesión o autorización de acuicultura aprobada por la autoridad competente.
+El titular de un centro de cultivo no podrá superar los niveles de producción aprobados en la resolución de calificación ambiental. En el caso de las pisciculturas que no cuenten con resolución de calificación ambiental, no podrán superarse los niveles de producción previstos en el proyecto técnico aprobado por la Subsecretaría y que se encuentre vigente.
 
 #### Artículo 16º
 
@@ -296,7 +298,7 @@ En los centros de cultivo de esmoltificación de peces, los muestreos de la INFA
 
 En los casos que corresponda, será responsabilidad del titular del centro de cultivo informar con la debida anticipación la fecha en que comenzará la cosecha. Si el titular del centro de cultivo decide cosechar antes de la fecha informada, deberá comunicarlo inmediatamente al Servicio.
 
-En los casos de centros de cultivo con sistema de producción extensivo y los de producción intensiva que se alimenten exclusiva y permanentemente de macroalgas, la INFA deberá ser entregada cada dos años. En estos casos, la oportunidad en que deberán realizarse los muestreos será determinada por la resolución a que se refiere el artículo 16 del presente reglamento.
+En los casos de centros de cultivo con sistema de producción extensivo y los de producción intensiva que se alimenten exclusiva y permanentemente de macroalgas, la INFA deberá ser entregada cada dos años, salvo que el centro de cultivo haya obtenido dos informes ambientales consecutivos cuyos resultados den cuenta de una condición aeróbica, en cuyo caso la periodicidad de entrega será de tres años. En el evento que a un centro de cultivo le haya sido aplicable la excepción indicada, si obtiene un informe ambiental que dé cuenta de una condición anaeróbica, deberá volver a la entrega de informes ambientales cada dos años. En estos casos, la oportunidad en que deberán realizarse los muestreos será determinada por la resolución a que se refiere el artículo 16 del presente reglamento.
 
 La INFA deberá ser presentada por los titulares de los centros de cultivo dentro de los dos meses siguientes al término de los muestreos.
 
