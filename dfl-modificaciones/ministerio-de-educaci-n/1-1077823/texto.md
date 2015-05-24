@@ -1,26 +1,26 @@
-MODIFICA REQUISITOS PARA EL INGRESO Y PROMOCIÓN DE LA PLANTA DE PERSONAL DE LA JUNTA NACIONAL DE JARDINES INFANTILES
+MODIFICA PLANTA DE PERSONAL DE LA JUNTA NACIONAL DE JARDINES INFANTILES Y ESTABLECE ASIGNACIÓN POR EJERCICIO EFECTIVO Y CONTINUO DE LA FUNCIÓN DE DIRECCIÓN DE JARDÍN INFANTIL Y DE SUPERVISIÓN
 
-D.F.L. Núm. 1.- Santiago, 28 de agosto de 2009.- Vistos: Lo dispuesto en el artículo 64 de la Constitución Política de la República y la facultad que me ha conferido el artículo 34 de la ley Nº 20.313, dicto el siguiente
+DFL Núm. 1.- Santiago, 29 de enero de 2015.
+
+Vistos:
+
+Lo dispuesto en el artículo 64 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; la facultad que me ha conferido el artículo primero transitorio de la Ley Nº 20.781, dicto el siguiente
 
 Decreto con fuerza de ley:
 
+## Título I
+
+MODIFICA PLANTA DE PERSONAL DE LA JUNTA NACIONAL DE JARDINES INFANTILES
+
 #### Artículo 1º
 
-Sustitúyanse los requisitos para el ingreso y promoción de la planta de personal de la Junta Nacional de Jardines Infantiles, establecidos en la ley Nº 19.184, por los siguientes:
+Sustitúyanse las plantas de profesionales, técnicos, administrativos y auxiliares de la Junta Nacional de Jardines Infantiles contenidas en el artículo 2º de la Ley Nº 19.184 por las que se indican:
 
-I.- PLANTA DE DIRECTIVOS.
+.
 
-Directivo Grado 2°, afecto al Sistema de Alta Dirección Pública:
+#### Artículo 2º
 
-Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a siete años.
-
-Directivos Grado 5° al 8°, ambos inclusive, afectos al Sistema de Alta Dirección Pública:
-
-Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a seis años.
-
-Directivos Grado 5°, afectos al artículo 8º del Estatuto Administrativo:
-
-Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cinco años.
+Sustitúyanse los requisitos para el ingreso y promoción de las plantas de profesionales, técnicos, administrativos y auxiliares de la Junta Nacional de Jardines Infantiles, establecidos en el decreto con fuerza de ley Nº 1, de 2009, del Ministerio de Educación, por los siguientes:
 
 I.- PLANTA DE PROFESIONALES.
 
@@ -332,30 +332,44 @@ Grados 24º al 26º:
 
 Licencia de educación media o equivalente.
 
-#### Artículo final
+#### Artículo 3º
 
-Los requisitos señalados en el artículo anterior no serán exigibles a los funcionarios que, en servicio a la fecha de entrada en vigencia del presente decreto con fuerza de ley, desempeñen cargos en calidad de titulares y a contrata, en la medida que se mantengan desempeñando dichos cargos en esas mismas calidades. Tampoco serán exigibles respecto de aquellos funcionarios a contrata indicados precedentemente, cuyos contratos se prorroguen conservando el grado y planta de asimilación que tenían a la mencionada data.
+En la planta de profesionales de la Junta Nacional de Jardines Infantiles, el número de cargos que se indican, a lo menos, serán desempeñados por profesionales que cumplan funciones de dirección de establecimientos de educación parvularia o pedagógicas: ocho cargos en grado 6º, seis cargos en grado 7º, siete cargos en grado 8º, cuatro cargos en grado 9º y dos cargos en grado 10º.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
+En la planta de técnicos de la Junta Nacional de Jardines Infantiles, el número de cargos que se indican, a lo menos, serán desempeñados por técnicos a que se refiere la letra B "Otras Funciones Técnicas" del artículo anterior: dos cargos en grado 11º, cinco cargos en grado 12º, dos cargos en grado 13º, un cargo en grado 14º, un cargo en grado 15º y un cargo en grado 16º.
 
-Lo que transcribo para su conocimiento.- Cristián Martínez Ahumada, Subsecretario de Educación.
+## Título II
 
-CONTRALORÍA GENERAL DE LA REPÚBLICA
+DE LA ASIGNACIÓN POR EJERCICIO EFECTIVO Y CONTINUO DE LA FUNCIÓN DE DIRECCIÓN DE JARDÍN INFANTIL Y DE SUPERVISIÓN EN LA JUNTA NACIONAL DE JARDINES INFANTILES
 
-División Jurídica
+#### Artículo 4º
 
-Cursa con alcance el decreto con fuerza de ley Nº 1, de 2009, del Ministerio de Educación
+Establécese, a contar de la fecha de publicación del presente decreto con fuerza de ley, una asignación de dirección de jardín infantil y de supervisión para el personal de la Junta Nacional de Jardines Infantiles perteneciente a la planta de profesionales y a contrata asimilado a esa planta, que desempeñe funciones de dirección de jardín infantil y de supervisión en dicha institución.
 
-Nº 65.609.- Santiago, 24 de noviembre de 2009.
+#### Artículo 5º
 
-Esta Contraloría General ha tomado razón del decreto con fuerza de ley Nº 1, de 2009, del Ministerio de Educación, que modifica los requisitos para el ingreso y promoción de la planta de personal de la Junta Nacional de Jardines Infantiles, establecidos en la ley Nº 19.184.
+El monto de la asignación a que se refiere el presente Título ascenderá a $96.000.- brutos mensuales. Dicho monto se pagará al personal que efectiva y continuamente hubiere desempeñado labores durante un mes completo en las funciones señaladas en el artículo anterior.
 
-No obstante lo anterior, en relación con la expresión "validados", utilizada en diversos niveles cuyos requisitos se regulan en el artículo 1º del texto normativo en estudio, cumple con hacer presente que dicho término debe entenderse comprensivo del reconocimiento, revalidación y convalidación de títulos profesionales que le corresponde efectuar a la Universidad de Chile, de acuerdo a lo establecido en el artículo 6º del decreto con fuerza de ley Nº 3, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 153, de 1981, de la misma Secretaría de Estado, que aprueba los Estatutos de esa Casa de Estudios Superiores, sin perjuicio, por cierto, de lo que se establece en los Tratados Internacionales vigentes sobre la materia.
+El personal señalado en el artículo anterior que sólo hubiere desempeñado labores durante algunos días del mes, percibirá un monto proporcional al número de días efectivamente trabajados, siempre que dicho desempeño hubiere sido de, al menos, 10 días hábiles continuos dentro del mes.
 
-Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+La asignación se devengará mensualmente y se pagará en el mes siguiente a que ello ocurra, tendrá el carácter de imponible y tributable, no servirá de base de cálculo de ninguna otra remuneración y se reajustará conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector público.
 
-A la señora
+Para efectos de la presente asignación, el Ministerio de Educación, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", visado por la Dirección de Presupuestos, determinará anualmente el número de profesionales que, por desempeñar la función de dirección de jardín infantil y de supervisión, tendrán derecho a percibir la asignación a que se refiere el presente Título. Para la fijación de ese número deberá considerarse el número de establecimientos de educación parvularia existentes en la Junta Nacional de Jardines Infantiles.
 
-Ministra de Educación
+El pago de la asignación se extinguirá cuando se deje de cumplir lo establecido en el artículo 4º del presente decreto con fuerza de ley.
 
-Presente.
+Para los efectos de lo señalado en los incisos anteriores, se entenderá que no ha habido un desempeño efectivo de labores durante los períodos en que el personal se ha encontrado haciendo uso de permisos, licencias médicas o se ausentare de sus labores sin causa justificada.
+
+#### Artículo 6º
+
+Sin perjuicio de lo señalado en el inciso final del artículo 5º del presente decreto con fuerza de ley, el personal beneficiario de la asignación tendrá derecho a ella durante el período en que hiciere uso de su feriado legal y cuando la Junta Nacional de Jardines Infantiles deje de funcionar, conforme a lo dispuesto en los artículos 103 y 105, respectivamente, del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo. De igual modo, aquellos directores de las Asociaciones de Funcionarios de la Junta Nacional de Jardines Infantiles que desempeñen funciones de dirección de jardín infantil y de supervisión, tendrán derecho a percibir la asignación establecida en el presente Título, durante el período de permiso a que se refieren los artículos 31 y 59 de la Ley Nº 19.296.
+
+Asimismo, el personal beneficiario de la asignación a que se refiere el presente Título, tendrá derecho a ella durante el período de descanso de maternidad establecido en el inciso primero del artículo 195 del Código del Trabajo.
+
+#### Artículo 7º
+
+Los funcionarios de la Junta Nacional de Jardines Infantiles pertenecientes a la planta de profesionales y a contrata asimilados a dicha planta, que desempeñen labores de dirección de jardín infantil y de supervisión en reemplazo de quienes sirven esas funciones, tendrán derecho a la asignación establecida en el presente Título, si el cargo titular se encontrare vacante o el cargo no sea desempeñado por el titular por cualquier motivo, siempre que el reemplazo sea por, a lo menos, 15 días continuos.
+
+Anótese, tómese razón y publíquese.- RODRIGO PEÑAILILLO BRICEÑO, Vicepresidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Educación.- Alberto Arenas de Mesa, Ministro de Hacienda.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
