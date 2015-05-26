@@ -182,7 +182,7 @@ d-12) Otras condiciones del contrato, e
 
 d-13) Información histórica del consumo de suministro de los últimos 5 años.
 
-e) Aspectos Generales del Proceso de Licitación, incluyendo: Domicilio y Encargado del Proceso, Publicidad y Llamado a Licitación, Adquisición de las Bases, Información mínima a disposición de los Proponentes, y publicación de la información contenida en las Propuestas;
+e) Aspectos Generales del Proceso de Licitación, incluyendo: Publicidad y Llamado a Licitación, Adquisición de las Bases, Información mínima a disposición de los Proponentes, y publicación de la información contenida en las Propuestas;
 
 f) Condiciones y requisitos para los Oferentes o Proponentes, incluyendo: Características de los consorcios o asociaciones; Garantías; Antecedentes exigidos para acreditar solvencia, y demás información a presentar por los oferentes;
 
@@ -306,7 +306,7 @@ III Del llamado a Licitación
 
 <!-- parte:9592604 -->
 
-Las Concesionarias deberán realizar los correspondientes llamados a licitación dentro de los 3 días siguientes a la notificación de la resolución que aprueba las Bases, de acuerdo a las condiciones que en ellas se establezcan.
+Las Concesionarias deberán realizar los correspondientes llamados a licitación dentro de los 10 días siguientes a la notificación de la resolución que aprueba las Bases, de acuerdo a las condiciones que en ellas se establezcan.
 
 #### Artículo 17º (art. primero)
 
