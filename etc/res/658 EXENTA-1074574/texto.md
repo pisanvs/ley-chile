@@ -36,7 +36,7 @@ Cuarta selección: 31 de Julio de 2015
 
 Quinta selección: 30 de Septiembre de 2015
 
-Solo podrán ingresar proyectos, en las selecciones que se realizarán durante los meses de mayo, julio y septiembre, las Entidades Patrocinantes que cuenten con proyectos precalificados por SERVIU al 31 de marzo de 2015.
+Párrafo eliminado.
 
 2.- La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
