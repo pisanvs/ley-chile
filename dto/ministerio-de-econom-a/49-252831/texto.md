@@ -166,6 +166,12 @@ c. Por haberse dejado sin efecto la resolución que autorizó el respectivo cent
 
 El titular de todo tipo de centro de acopio o centro de faenamiento deberá dar cumplimiento a las normas contempladas para estas actividades en el reglamento sanitario y ambiental dictados de conformidad con el procedimiento establecido en los artículos 86 y 87 de la Ley respectivamente.
 
+Los centros de acopio de peces exóticos deberán mantener una distancia de 1,5 millas náuticas con centros de cultivo; 7 millas náuticas respecto de los centros dedicados a la reproducción de peces y de 3 millas náuticas respecto de centros de smoltificación de peces.
+
+Los centros de acopio de especies endémicas deberán mantener una distancia de 200 metros con centros de cultivo con sistemas de producción extensiva y 400 metros con centros de cultivo con sistemas de producción intensiva.
+
+Las solicitudes que no cumplan con las distancias antes mencionadas serán rechazadas, salvo que se trate de centros de acopio que puedan acogerse a la excepción contemplada en el artículo 16 F letra e). En estos casos, se deberá entregar junto con la solicitud del centro de acopio, el instrumento público o privado en que conste el acuerdo que se indica en dicha disposición. Verificada esta circunstancia, la Subsecretaría incorporará en la resolución que aprueba la operación del centro de acopio la condición de mantener vigente el acuerdo al momento en que se verifique el supuesto previsto en el artículo 16 F letra e), lo que deberá acreditarse ante el Servicio. De no mantenerse vigente dicho acuerdo al momento de pretender operar bajo el supuesto mencionado, el centro de acopio no podrá operar.
+
 #### Artículo 16
 
 La resolución que autorizó la instalación de centros de acopio o centros de faenamiento quedará sin efecto:
@@ -210,11 +216,17 @@ l) El titular deberá adoptar las medidas necesarias para evitar el escape de ej
 
 m) Las estructuras que se instalen para la mantención de los ejemplares en centros de acopio flotantes, con excepción de sus sistemas de anclaje, no podrán tener una distancia menor a los dos metros con el fondo marino.
 
+Podráautorizarse, por resolución de la Subsecretaría, previo informe técnico, la instalación de estructuras que cumplan la misma función de las redes peceras y loberas. Para tales efectos, deberá presentarse una solicitud a la Subsecretaría con seis meses de anticipación a la instalación programada. A tal solicitud deberán acompañarse los antecedentes técnicos y científicos que la sustenten y que acrediten que no existe riesgo ambiental o sanitario derivado de las estructuras que se solicita instalar.
+
 n) Los registros de operación del centro de acopio deberán contener información sobre el ingreso y salida de las especies hidrobiológicas que sean mantenidas en el centro de acopio. El registro deberá ser trazable e inviolable.
 
 o) En los casos que el centro de acopio se encuentre en zonas en que exista una agrupación de concesiones, se someterá a un descanso de 30 días corridos antes del término del período de descanso de la correspondiente agrupación.
 
-p) No podrá realizarse lavado de redes in situ, ni aun bajo las condiciones establecidas en el DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+Excepcionalmente se autorizará la mantención de redes peceras y loberas, así como las estructuras que cumplan la función de las redes, durante el período de descanso. Para tales efectos, el titular del centro de acopio deberá presentar seis meses antes del descanso, una solicitud a la Subsecretaría acompañando un informe técnico que acredite que no existe riesgo ambiental ni sanitario por la permanencia de las estructuras en el agua.
+
+p) Podrá realizarse lavado in situ de redes peceras y loberas y de las estructuras que cumplan la función de las redes, bajo las condiciones establecidas en los DS Nº 319 y Nº 320, ambos de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+No se aplicarán a los centros de acopios de recursos bentónicos las condiciones señaladas en las letra g) y o) anteriores.
 
 #### Artículo 16
 
@@ -230,7 +242,7 @@ C. El titular de un centro de acopio o de un centro de faenamiento o quien sea d
 
 #### Artículo 16
 
-D. Anualmente el Servicio clasificará, de acuerdo a su nivel de bioseguridad, a los centros de acopio en bioseguridad alta y baja. Una resolución de la Subsecretaría, previo informe técnico, fijará los elementos que el Servicio considerará para la clasificación de cada centro de acopio. Dicha resolución establecerá, además, el puntaje y la ponderación que se asignará a cada elemento que se defina y los rangos de clasificación. Los resultados de la clasificación de bioseguridad deberán emitirse tres meses antes del vencimiento de la concesión respectiva.
+D. Anualmente el Servicio clasificará, de acuerdo a su nivel de bioseguridad, a los centros de acopio de peces exóticos en bioseguridad alta y baja. Una resolución de la Subsecretaría, previo informe técnico, fijará los elementos que el Servicio considerará para la clasificación de cada centro de acopio. Dicha resolución establecerá, además, el puntaje y la ponderación que se asignará a cada elemento que se defina y los rangos de clasificación. Los resultados de la clasificación de bioseguridad deberán emitirse tres meses antes del vencimiento de la concesión respectiva.
 
 #### Artículo 16
 
