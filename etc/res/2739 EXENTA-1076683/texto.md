@@ -24,7 +24,7 @@ Resolución:
 
 2. Autorízase a la Secretaría Regional Ministerial de la Región del Maule para establecer las condiciones especiales requeridas para la participación de los grupos con sus proyectos asociados en el llamado autorizado mediante el resuelvo precedente, de acuerdo a lo establecido en el artículo 21 del DS Nº 49 (V. y U.), de 2011, cuyo texto fue reemplazado por el artículo primero del DS Nº105 (V. y U.), de 2014.
 
-3. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, los proyectos asociados a los grupos postulantes deben contar con certificado de Calificación Definitiva o Condicional hasta el 15.05.2015.
+3. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto vinculado, los proyectos asociados a los grupos postulantes deben contar con certificado de Calificación Definitiva o Condicional hasta el 29.05.2015.
 
 4. El número de grupos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde.
 
