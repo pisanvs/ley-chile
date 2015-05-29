@@ -1,0 +1,29 @@
+ESTABLECE GUÍA METODOLÓGICA PARA EL DESARROLLO E IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN DE INTEGRIDAD DE REDES, QUE INDICA
+
+Núm. 8.265 exenta.- Santiago, 30 de abril de 2015.
+
+Visto:
+
+Lo dispuesto en la ley Nº 18.410, Orgánica de esta Superintendencia; el decreto supremo Nº 280, de 2010, del Ministerio de Economía, Fomento y Turismo, que aprueba el "Reglamento de Seguridad para el Transporte y la Distribución de Gas de Red", y la resolución exenta Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1º Que el artículo 3º Nºs. 34, 36 de la ley Nº 18.410, establece que corresponde a la Superintendencia de Electricidad y Combustibles aplicar e interpretar administrativamente las disposiciones legales y reglamentarias cuyo cumplimiento le corresponde vigilar, e impartir instrucciones de carácter general a las empresas y entidades sujetas a su fiscalización, como asimismo adoptar las medidas tendientes a corregir las deficiencias que observare, con relación al cumplimiento de las leyes, reglamentos y demás normas cuya supervigilancia le corresponde.
+
+2º Que el decreto supremo Nº 280, de 2010, del Ministerio de Economía, Fomento y Turismo, en adelante DS Nº 280, que aprobó el "Reglamento de Seguridad para el Transporte y la Distribución de Gas de Red", en su artículo 20º, estipula que los propietarios u operadores de toda red de gas deberán contar con un Sistema de Gestión de Integridad de Redes, en adelante SGIR, que aplique a las redes y manejo del gas de red, debidamente documentado y con los elementos indicados en dicho artículo.
+
+3º Que el Ministerio de Energía, con el objetivo de conocer el nivel de desarrollo e implementación de los SGIR de las empresas de gas de red, encargó el año 2011 a la empresa consultora Dandilion Ingeniería Ltda., el estudio SGIR I: "Levantamiento de información sobre la realidad de cada empresa de gas respecto de la implementación del Sistema de Gestión de Integridad de Redes" para cuya contraparte técnica requirió el apoyo de la Superintendencia de Electricidad y Combustibles, correspondiendo a ésta evaluar el estado de avance e implementación del sistema en las empresas a fines del año 2011, todo esto en cumplimiento del artículo 20º del DS Nº 280, y de cuya evaluación se obtuvo un bajo avance de ejecución del proyecto de desarrollo e implementación SGIR de la industria del gas de red.
+
+4º Que el Ministerio de Energía, con el objetivo de conocer un nuevo estado de avance del desarrollo e implementación de los SGIR de las empresas de gas de red, con especial énfasis en la evaluación de las actividades de control de gestión, encargó el año 2013 a la empresa consultora Dandilion Ingeniería Ltda., el estudio SGIR II: "Desarrollo de Guía Metodológica de Sistema de Gestión de Integridad de Redes" para cuya contraparte técnica requirió nuevamente el apoyo de la Superintendencia de Electricidad y Combustibles, correspondiendo a ésta evaluar, a comienzos del año 2014, el grado de implementación del sistema. De dicha revisión se concluyó que existía un mayor grado de cumplimiento de la industria del gas de red que en el estudio indicado en el Considerando anterior, pero que de todas formas subsistían oportunidades de mejora para la industria. Adicionalmente dicho estudio concluyó que la falta de implementación reportada en los resultados de los estudios anteriores, tuvo relación con una serie de interpretaciones unilaterales y ambiguas efectuadas por las empresas de gas de red, particularmente por una falta de definición sobre conceptos, principios y obligaciones exigidas a éstas a partir de los requisitos del SGIR.
+
+Adicionalmente, se reportó una dificultad evidente para las empresas al intentar demostrar el cumplimiento de las actividades asociadas al SGIR, como también una incipiente implementación de sistemas de control de gestión. Finalmente se demostró que los modelos de evaluación utilizados, no se ajustaban completamente a los modelos de desarrollo e implementación de SGIR de las empresas al momento de realizar los análisis de los estudios.
+
+5º Que por lo señalado en los considerandos precedentes, al año 2014, es un hecho que existen diversos niveles de desarrollo en el diseño e implementación de los SGIR de las empresas de gas de red, y desde luego grandes diferencias en su aplicación, por lo que se hace necesario, en el marco del estudio SGIR II, interpretar la normativa e informar criterios precisos, a través de lo que se ha denominado una Guía Metodológica, que sirva como herramienta estandarizada y estructurada que facilite el cumplimiento de la norma, permitiendo que las empresas identifiquen sus áreas de riesgo individuales, analicen las causas de éstos, y tomen acciones para su gestión, todo bajo un modelo estandarizado.
+
+6º Que la Guía Metodológica elaborada en el contexto indicado en el Considerando precedente, requiere ser oficializada por esta Superintendencia, para que sea adoptada y utilizada por la industria del gas de red, para el cumplimiento del artículo 20º, del DS Nº 280.
+
+Resuelvo:
+
+1º Establécese la Guía Metodológica elaborada bajo el estudio del Ministerio de Energía durante el año 2014, SGIR II: "Desarrollo de Guía Metodológica de Sistema de Gestión de Integridad de Redes", para que sea adoptada y utilizada para el cumplimiento del decreto supremo Nº 280, de 2010, del Ministerio de Economía, Fomento y Turismo, la cual se puede descargar en formato PDF desde la página web de la Superintendencia: http//www.sec.cl/portal/page?_pageid=33,6017751&amp;_dad=portal&amp;_schema=PORTAL.
+
+Anótese, notifíquese y publíquese.- Jack Nahmías Suárez, Superintendente de Electricidad y Combustibles (S).
