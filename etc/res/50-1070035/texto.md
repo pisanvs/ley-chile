@@ -24,7 +24,7 @@ Resuelvo:
 
 I. "CREACIÓN Y OBJETIVOS DEL COMITÉ
 
-1º Créase un Comité dependiente de esta Corporación que actuará bajo la personalidad jurídica de ésta, con el nombre de "Comité de Innovación en el Sector Público", en adelante e indistintamente, "el Comité". Dicho Comité será de aquellos a que se refiere el inciso tercero del artículo 7º del decreto con fuerza de ley Nº 211, de 1960, del Ministerio de Hacienda y se regirá adicionalmente por las normas del presente instrumento.
+1º Créase un Comité dependiente de esta Corporación, que actuará bajo la personalidad jurídica de ésta, con el nombre de "COMITÉ DE INNOVACIÓN EN EL SECTOR PÚBLICO", que podrá identificarse también con la denominación "Laboratorio de Gobierno", en adelante e indistintamente, "el Comité". Dicho Comité será de aquellos a que se refiere el inciso tercero del artículo 7º del decreto con fuerza de ley Nº 211, de 1960, del Ministerio de Hacienda y se regirá adicionalmente por las normas del presente instrumento.
 
 2º El Comité tendrá los siguientes objetivos:
 
