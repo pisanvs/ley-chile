@@ -1600,7 +1600,7 @@ El que extrajere o capturare por cualquier medio recursos hidrobiológicos prove
 
 El tribunal ordenará el comiso de los equipos de buceo y de las embarcaciones utilizadas en la perpetración del delito.".
 
-113) Sustitúyese en el artículo 108, letra e), la conjunción copulativa "y", entre los guarismos "119" y "139", por una coma (,) y agrégase a continuación del guarismo "139" la expresión "y 139 bis".
+113) NUMERAL ELIMINADO.
 
 114) Modifícase el artículo 142 en el sentido siguiente:
 
@@ -1676,7 +1676,7 @@ b) En caso que no se asigne el área a una organización de pescadores artesanal
 
 La caducidad será declarada por decreto del Ministro, suscrito "por orden del Presidente de la República", previo informe de la Subsecretaría, y publicado de conformidad con el artículo 174 de esta ley. Caducada el área, se comunicará al Ministerio de Defensa Nacional y quedará sin efecto por el solo ministerio de la ley la destinación que se haya otorgado.".
 
-118) Derógase la letra c) del artículo 146.
+118) Derógase la letra c) del numeral 1 del artículo 146.
 
 119) Elimínase la letra c) del artículo 152.
 
@@ -2090,7 +2090,7 @@ Artículo vigésimo primero.- Los Comités Científicos Técnicos deberán comen
 
 Las medidas de administración y manejo que se adopten durante el plazo a que se refiere el inciso anterior se adoptarán mediante decreto expedido a través del Ministerio de Economía, Fomento y Turismo, previo informe técnico fundado de la Subsecretaría de Pesca y del Instituto de Fomento Pesquero, en caso de establecimiento o modificaciones de las cuotas globales de captura.
 
-Artículo vigésimo segundo.- No se establecerán nuevas áreas de manejo y explotación de recursos bentónicos, ni serán tramitadas ampliaciones a los sectores decretados bajo este régimen, por el plazo de tres años a contar de la entrada en vigencia de la presente ley. Sin embargo, en ambos casos se considerarán ingresadas, para efectos de esta ley, todas aquellas solicitudes presentadas hasta seis meses después de la entrada en vigencia de la misma.
+Artículo vigésimo segundo.- No se establecerán nuevas áreas de manejo y explotación de recursos bentónicos, ni serán tramitadas ampliaciones a los sectores decretados bajo este régimen, por el plazo de tres años a contar de la entrada en vigencia de la presente ley. Con todo, en el plazo antes señalado, podrán establecerse las áreas de manejo y explotación de recursos bentónicos y ampliaciones a áreas decretadas, cuyo establecimiento o ampliación haya sido solicitado hasta el 9 de agosto de 2013 inclusive.
 
 Artículo vigésimo tercero.- Los pescadores artesanales inscritos en la XIV Región de Los Ríos que hubieren informado desembarque al Servicio Nacional de Pesca, en el marco de una o más pescas de investigación a las que se refiere el artículo 1° de la ley N° 20.560, en la X Región de Los Lagos, y cuya participación haya sido establecida por resolución de la Subsecretaría de Pesca, podrán optar por quedar inscritos en esta última región en la o las pesquerías a que se refiere el artículo antes señalado y en las que haya sido reconocida su participación.
 

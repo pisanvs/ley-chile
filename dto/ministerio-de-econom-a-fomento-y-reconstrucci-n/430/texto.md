@@ -354,329 +354,47 @@ FACULTADES DE CONSERVACION DE LOS RECURSOS HIDROBIOLOGICOS
 
 En cada área de pesca, independientemente del régimen de acceso a que se encuentre sometida, el Ministerio, mediante decreto supremo fundado, con informe técnico de la Subsecretaría y comunicación previa al Comité Científico Técnico, correspondiente y demás informes que se requieran de acuerdo a las disposiciones de la presente ley, para cada uno de los casos señalados en este inciso, podrá establecer una o más de las siguientes prohibiciones o medidas de administración de recursos hidrobiológicos:
 
-a) Veda biológica por especie en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada. Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes.
+a) Veda biológica por especie en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada. Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes. Sin perjuicio de lo anterior, el decreto que establezca la veda podrá señalar un periodo referencial respecto de su duración, quedando condicionado su inicio y término a la verificación de determinados indicadores biológicos que serán determinados por el respectivo Comité Científico Técnico. La verificación de los indicadores deberá comunicarse por la página de dominio electrónico de la Subsecretaría.
 
-Sin perjuicio de lo anterior,
-
-el decreto que establezca
-
-la veda podrá señalar un
-
-periodo referencial respecto
-
-de su duración, quedando
-
-condicionado su inicio y
-
-término a la verificación
-
-de determinados indicadores
-
-biológicos que serán determinados
-
-por el respectivo Comité
-
-Científico Técnico. La
-
-verificación de los
-
-indicadores deberá
-
-comunicarse por la página
-
-de dominio electrónico
-
-de la Subsecretaría.
-
-Veda extractiva por especie o por
-
-sexo en un área determinada. Esta veda
-
-sólo se podrá establecer inicialmente
-
-por un período de hasta dos años y
-
-deberá contar con un informe técnico
-
-del Comité Científico correspondiente.
-
-En caso de renovación de la misma, se
-
-establecerá por el período que determine
-
-el Comité Científico respectivo.
+Veda extractiva por especie o por sexo en un área determinada. Esta veda sólo se podrá establecer inicialmente por un período de hasta dos años y deberá contar con un informe técnico del Comité Científico correspondiente. En caso de renovación de la misma, se establecerá por el período que determine el Comité Científico respectivo.
 
 b) Prohibición de captura temporal o permanente de especies protegidas por convenios internacionales de los cuales Chile es parte.
 
-c) Fijación de cuotas anuales de
+c) Fijación de cuotas anuales de captura por especie en un área determinada o cuotas globales de captura. Estas cuotas globales de captura se podrán determinar por períodos de hasta tres años, debiendo siempre establecerse la magnitud anual. En el evento que no se capture la totalidad en un determinado año no se podrá traspasar al año siguiente.
 
-captura por especie en un área
+Podrán establecerse fundadamente las siguientes deducciones a la cuota global de captura:
 
-determinada o cuotas globales de
+- Cuota para investigación: Se podrá deducir para fines de investigación hasta un 2% de la cuota global de captura para cubrir necesidades de investigación. Para lo anterior, la Subsecretaría deberá informar al Consejo Nacional de Pesca los proyectos de investigación para el año calendario siguiente y las toneladas requeridas para cada uno de ellos. Dicho listado deberá publicarse en la página de dominio electrónico de la Subsecretaría.
 
-captura. Estas cuotas globales de
+- Cuota para imprevistos: Se podrá deducir para imprevistos hasta un 1% de la cuota global de captura al momento de establecer la cuota o durante el año calendario. Los criterios para la asignación de esta reserva por la Subsecretaría serán propuestos por ésta y aprobados por la mayoría de los miembros en ejercicio del Consejo Nacional de Pesca y se publicará en la página de dominio electrónico de la Subsecretaría.
 
-captura se podrán determinar por
+- Cuota de reserva para consumo humano de las empresas de menor tamaño de conformidad con la ley N° 20.416: se podrá reservar hasta el 1% de la cuota global de captura de las especies, con excepción de los recursos bentónicos, los demersales y las algas, para licitarla entre los titulares de las plantas de proceso inscritas en el Registro que lleva el Servicio y que califiquen como empresas de menor tamaño, para realizar actividades de transformación sobre dichas especies y destinarlas exclusivamente a la elaboración de productos para el consumo humano directo.
 
-períodos de hasta tres años, debiendo
+La cuota no licitada acrecerá a la cuota global de captura. La licitación se efectuará cada tres años, de conformidad con las reglas establecidas en un reglamento que deberá establecer cortes que permitan la participación de todas las plantas que califiquen.
 
-siempre establecerse la magnitud
+La cuota sólo podrá ser extraída por armadores artesanales debidamente inscritos en el Registro Pesquero. La inscripción deberá corresponder a la misma pesquería objeto de la licitación y sólo permitirá operar en el área autorizada a la respectiva embarcación.
 
-anual. En el evento que no se capture
+Los adjudicatarios de la subasta sólo podrán procesarla para consumo humano directo quedando prohibido su traspaso o venta antes de dicho proceso.
 
-la totalidad en un determinado año no
+En el caso de las pesquerías de pequeños pelágicos, con excepción del jurel y la caballa, salvo en el caso de las pesquerías de pez espada y tiburón, se podrá reservar del porcentaje a licitar una parte para destinarla exclusivamente a carnada.
 
-se podrá traspasar al año siguiente.
+Esta reserva se adjudicará mediante licitación, en la que sólo podrán participar armadores artesanales inscritos en la pesquería de que se trate.
 
-Podrán establecerse fundadamente las
+Las normas de la licitación serán establecidas en un reglamento y deberá garantizarse que ésta se efectúe en cortes que permitan la participación de todas las categorías dentro de los armadores artesanales.
 
-siguientes deducciones a la cuota
+Las deducciones a que se refieren los párrafos anteriores se efectuarán de la cuota global anual de captura en forma previa al fraccionamiento de la cuota entre el sector pesquero artesanal e industrial.
 
-global de captura:
+En la determinación de la cuota global de captura se deberá:
 
-- Cuota para investigación: Se
+1. Mantener o llevar la pesquería hacia el rendimiento máximo sostenible considerando las características biológicas de los recursos explotados.
 
-podrá deducir para fines de
+2. Fijar su monto dentro del rango determinado por el Comité Científico Técnico en su informe técnico, que será publicado a través de la página de dominio electrónico del propio Comité o de la Subsecretaría.
 
-investigación hasta un 2% de la
+No obstante lo anterior, en el caso de las pesquerías de recursos bentónicos el Comité Científico Técnico establecerá criterios para la determinación de la cuota global, cuando corresponda, considerando la información disponible y las particularidades de los recursos de que se trate.
 
-cuota global de captura para cubrir
+3. Cualquier modificación de la cuota global de captura que implique un aumento o disminución de la misma, deberá sustentarse en nuevos antecedentes científicos, debiendo someterse al mismo procedimiento establecido para su determinación.
 
-necesidades de investigación. Para
-
-lo anterior, la Subsecretaría deberá
-
-informar al Consejo Nacional de Pesca
-
-los proyectos de investigación para el
-
-año calendario siguiente y las
-
-toneladas requeridas para cada uno
-
-de ellos. Dicho listado deberá
-
-publicarse en la página de dominio
-
-electrónico de la Subsecretaría.
-
-- Cuota para imprevistos: Se
-
-podrá deducir para imprevistos hasta
-
-un 1% de la cuota global de captura
-
-al momento de establecer la cuota o
-
-durante el año calendario. Los
-
-criterios para la asignación de esta
-
-reserva por la Subsecretaría serán
-
-propuestos por ésta y aprobados por
-
-la mayoría de los miembros en
-
-ejercicio del Consejo Nacional de
-
-Pesca y se publicará en la página
-
-de dominio electrónico de la
-
-Subsecretaría.
-
-- Cuota de reserva para consumo
-
-humano de las empresas de menor
-
-tamaño de conformidad con la
-
-ley N° 20.416: se podrá reservar
-
-hasta el 1% de la cuota global de
-
-captura de las especies, con
-
-excepción de los recursos
-
-bentónicos, los demersales y las
-
-algas, para licitarla entre los
-
-titulares de las plantas de proceso
-
-inscritas en el Registro que lleva el
-
-Servicio y que califiquen como
-
-empresas de menor tamaño, para
-
-realizar actividades de
-
-transformación sobre dichas
-
-especies y destinarlas
-
-exclusivamente a la elaboración de
-
-productos para el consumo humano
-
-directo.
-
-La cuota no licitada acrecerá a
-
-la cuota global de captura. La
-
-licitación se efectuará cada tres
-
-años, de conformidad con las
-
-reglas establecidas en un reglamento
-
-que deberá establecer cortes que
-
-permitan la participación de todas
-
-las plantas que califiquen.
-
-La cuota sólo podrá ser extraída
-
-por armadores artesanales
-
-debidamente inscritos en el Registro
-
-Pesquero. La inscripción deberá
-
-corresponder a la misma pesquería
-
-objeto de la licitación y sólo
-
-permitirá operar en el área
-
-autorizada a la respectiva
-
-embarcación.
-
-Los adjudicatarios de la subasta
-
-sólo podrán procesarla para
-
-consumo humano directo quedando
-
-prohibido su traspaso o venta antes
-
-de dicho proceso.
-
-En el caso de las pesquerías de
-
-pequeños pelágicos, con excepción
-
-del jurel y la caballa, salvo en el
-
-caso de las pesquerías de pez espada
-
-y tiburón, se podrá reservar del
-
-porcentaje a licitar una parte para
-
-destinarla exclusivamente a carnada.
-
-Esta reserva se adjudicará
-
-mediante licitación, en la que sólo
-
-podrán participar armadores
-
-artesanales inscritos en la pesquería
-
-de que se trate.
-
-Las normas de la licitación
-
-serán establecidas en un reglamento
-
-y deberá garantizarse que ésta se
-
-efectúe en cortes que permitan la
-
-participación de todas las categorías
-
-dentro de los armadores artesanales.
-
-Las deducciones a que se
-
-refieren los párrafos anteriores se
-
-efectuarán de la cuota global anual
-
-de captura en forma previa al
-
-fraccionamiento de la cuota entre el
-
-sector pesquero artesanal e industrial.
-
-En la determinación de la cuota
-
-global de captura se deberá:
-
-1. Mantener o llevar la
-
-pesquería hacia el rendimiento
-
-máximo sostenible considerando las
-
-características biológicas de los
-
-recursos explotados.
-
-2. Fijar su monto dentro del
-
-rango determinado por el Comité
-
-Científico Técnico en su informe
-
-técnico, que será publicado a través
-
-de la página de dominio electrónico
-
-del propio Comité o de la
-
-Subsecretaría.
-
-No obstante lo anterior, en el
-
-caso de las pesquerías de recursos
-
-bentónicos el Comité Científico
-
-Técnico establecerá criterios para
-
-la determinación de la cuota global,
-
-cuando corresponda, considerando
-
-la información disponible y las
-
-particularidades de los recursos de
-
-que se trate.
-
-3. Cualquier modificación de la
-
-cuota global de captura que
-
-implique un aumento o disminución
-
-de la misma, deberá sustentarse en
-
-nuevos antecedentes científicos,
-
-debiendo someterse al mismo
-
-procedimiento establecido para su
-
-determinación.
+Para el desarrollo de la actividad de pesca artesanal de jurel ejercida sólo con línea de mano a bordo de embarcaciones sin cubierta inferiores a 12 metros de eslora, la Subsecretaría reservará, antes del fraccionamiento entre sectores, un límite anual, en porcentaje o toneladas que será del 0,040% de la cuota global anual de captura.
 
 d) Declaración de áreas específicas y delimitadas que se denominan Parques Marinos, destinados a preservar unidades ecológicas de interés para la ciencia y cautelar áreas que aseguren la mantención y diversidad de especies hidrobiológicas, como también aquellas asociadas a su hábitat. Para la declaración se consultará a los Ministerios que corresponda. Los Parques Marinos quedarán bajo la tuición del Servicio y en ellos no podrá efectuarse ningún tipo de actividad, salvo aquellas que se autoricen con propósitos de observación, investigación o estudio. Las declaraciones de parques marinos, a que hacen mención esta letra, serán realizadas mediante decreto del Ministerio del Medio Ambiente.
 
@@ -684,77 +402,11 @@ e) Declaración de Reservas Marinas, mediante decreto del Ministerio del Medio A
 
 f) Establecimiento de porcentaje de desembarque de especies como fauna acompañante.
 
-En aquellas pesquerías de
+En aquellas pesquerías de especies pelágicas pequeñas en que las especies constituyan una pesquería mixta y que su estado de explotación haga que las cuotas de captura sean significativamente diferentes, que además se encuentren en estado de plena explotación y que el sector pesquero artesanal esté sometido al régimen artesanal de extracción, en la fracción artesanal de la cuota global de captura la Subsecretaría podrá establecer, por región y organización, una cuota objetivo para la especie dominante y una cuota en calidad de fauna acompañante de la especie minoritaria, fijando porcentajes de ésta respecto de ambas especies, medido en peso para cada viaje de pesca.
 
-especies pelágicas pequeñas en
+En los casos en que la cuota de fauna acompañante se haya agotado y exista remanente sin capturar de la cuota de la especie objetivo, la Subsecretaría podrá autorizar la continuidad de la operación en la región u organización correspondiente, autorizando que el Servicio impute la captura de la especie minoritaria a la especie dominante, en una proporción de uno es a tres, con un límite equivalente al 25% de la cuota global de captura que se haya fijado para la especie minoritaria.
 
-que las especies constituyan una
-
-pesquería mixta y que su estado de
-
-explotación haga que las cuotas de
-
-captura sean significativamente
-
-diferentes, que además se encuentren
-
-en estado de plena explotación y que
-
-el sector pesquero artesanal esté
-
-sometido al régimen artesanal de
-
-extracción, en la fracción artesanal
-
-de la cuota global de captura la
-
-Subsecretaría podrá establecer, por
-
-región y organización, una cuota
-
-objetivo para la especie dominante
-
-y una cuota en calidad de fauna
-
-acompañante de la especie
-
-minoritaria, fijando porcentajes
-
-de ésta respecto de ambas
-
-especies, medido en peso para cada
-
-viaje de pesca.
-
-En los casos en que la cuota
-
-de fauna acompañante se haya
-
-agotado y exista remanente sin
-
-capturar de la cuota de la especie
-
-objetivo, la Subsecretaría podrá
-
-autorizar la continuidad de la
-
-operación en la región u organización
-
-correspondiente, autorizando que el
-
-Servicio impute la captura de la
-
-especie minoritaria a la especie
-
-dominante, en una proporción de uno
-
-es a tres, con un límite equivalente
-
-al 25% de la cuota global de captura
-
-que se haya fijado para la especie
-
-minoritaria.
+En el caso de aquellas pesquerías pelágicas pequeñas en que las especies constituyan una pesquería mixta y que se encuentren sometidas a un programa o plan de conformidad con el artículo 7º A, se podrá autorizar que la totalidad o un porcentaje de las capturas efectuadas en cualquiera de dichas especies sean imputadas, en forma conjunta, a la sumatoria de las cuotas globales que al efecto se establezcan. Para los efectos antes indicados, se permitirá el desembarque de los recursos previa certificación de éstos.
 
 #### Artículo 4°
 
@@ -1750,6 +1402,10 @@ Mediante Resolución de la Subsecretaría, se establecerá, anualmente, el unive
 
 A.- Para los efectos tanto de la aplicación de la licencia transable de pesca como de los permisos extraordinarios de pesca, se deberá fijar anualmente una cuota global de captura para cada una de las unidades de pesquería administradas bajo este sistema, de conformidad con lo dispuesto en esta Ley.
 
+#### Artículo 28
+
+B.- Los titulares de licencias transables de pesca clase A o B deberán dar cumplimiento a lo establecido en el artículo 17.
+
 #### Artículo 29
 
 Las naves que se utilicen para hacer efectivos los derechos provenientes de licencias transables de pesca o de los permisos extraordinarios de pesca, sea que cuenten o no con autorización de pesca de conformidad a esta ley, deberán inscribirse previamente en el Registro que para estos efectos llevará el Servicio. La inscripción en el Registro de Naves habilitará a la nave a operar en la unidad de pesquería que corresponda a la licencia transable de pesca o al permiso extraordinario de pesca, por un período equivalente al de la vigencia de dicha licencia o permiso. No obstante, en cualquier momento la nave podrá desinscribirse y volverse a inscribir ya sea por el mismo titular, o por otro.
@@ -1890,173 +1546,19 @@ Asimismo, el capitán de la nave con la cual se cometa la infracción establecid
 
 #### Artículo 40
 
-C.- Al titular,
+C.- Al titular, arrendatario o mero tenedor de una licencia transable de pesca o permiso extraordinario de pesca, cuyas naves inscritas desembarquen y no informen sus capturas de acuerdo con el procedimiento a que se refiere el artículo 63; no dé cumplimiento al procedimiento de certificación a que se refiere el artículo 64 E de esta ley; o realice sus capturas con una nave no inscrita, se le sancionará administrativamente con una multa que se determinará de la siguiente forma:
 
-arrendatario o mero tenedor de una
+a) una parte de la multa será a todo evento de 1.000 unidades tributarias mensuales y, b) la otra parte de la multa será equivalente al resultado de multiplicar el valor de sanción de la especie respectiva, vigente a la fecha de la infracción, por el doble de las toneladas del recurso hidrobiológico que hayan sido objeto de la infracción.
 
-licencia transable de pesca o permiso
+Al titular, arrendatario o mero tenedor de una licencia transable de pesca o permiso extraordinario de pesca, cuyas naves inscritas para capturar efectúen descartes en contravención a las normas de esta ley, o efectúen operaciones de pesca extractiva en áreas de reserva artesanal no autorizadas conforme al artículo 47 de esta ley o efectúen capturas en una unidad de pesquería distinta a la inscrita, se le sancionará administrativamente con una multa que se determinará de conformidad con el procedimiento del inciso anterior, pero aplicando en la multiplicación el triple de las toneladas que hayan sido objeto de la infracción.
 
-extraordinario de pesca, cuyas naves
+Al titular, arrendatario o mero tenedor de una licencia transable de pesca o permiso extraordinario de pesca que efectúe operaciones de pesca sin estar inscrito en el Registro del artículo 29, se le sancionará administrativamente con una multa que se determinará con el procedimiento del inciso anterior.
 
-inscritas desembarquen y no informen
+El armador que efectúe operaciones de pesca en pesquerías administradas por licencias transables de pesca o permisos extraordinarios de pesca, sin contar con una licencia o permiso, o sin que éstos se encuentren inscritos en el Registro a que se refiere el artículo 30, será sancionado de conformidad con el procedimiento del inciso primero, aplicándosele una multa, a todo evento, de 1.200 unidades tributarias mensuales, y en la multiplicación se aplicará el triple de las toneladas objeto de la infracción.
 
-sus capturas de acuerdo con el
+En caso que no puedan establecerse las toneladas objeto de la infracción, en la determinación de la multa se aplicará el resultado de multiplicar el valor de sanción de la especie respectiva, vigente a la fecha de la infracción, por las toneladas promedio de las capturas desembarcadas por viaje de pesca de la nave en el año inmediatamente anterior. Si la nave no operó durante el año calendario anterior se considerará el promedio de dos naves que tengan las mayores capturas por viaje de pesca y de similares características náuticas, arte o aparejo de pesca y pesquería objeto de la infracción. Tratándose de buques fábrica, será el promedio de las capturas informadas para un período de cinco días del período o año calendario inmediatamente anterior.
 
-procedimiento a que se refiere el
-
-#### Artículo 63
-
-; no dé cumplimiento al
-
-procedimiento de certificación a que
-
-se refiere el artículo 64 E de esta
-
-ley; o realice sus capturas con una
-
-nave no inscrita, se le sancionará
-
-administrativamente con una multa que
-
-se determinará de la siguiente forma:
-
-a) una parte de la multa será a
-
-todo evento de 1.000 unidades
-
-tributarias mensuales y, b) la otra
-
-parte de la multa será equivalente al
-
-resultado de multiplicar el valor de
-
-sanción de la especie respectiva,
-
-vigente a la fecha de la infracción,
-
-por el doble de las toneladas del
-
-recurso hidrobiológico que hayan
-
-sido objeto de la infracción.
-
-Al titular, arrendatario o mero
-
-tenedor de una licencia transable de
-
-pesca o permiso extraordinario de
-
-pesca, cuyas naves inscritas para
-
-capturar efectúen descartes en
-
-contravención a las normas de esta
-
-ley, o efectúen operaciones de pesca
-
-extractiva en áreas de reserva
-
-artesanal no autorizadas conforme al
-
-#### Artículo 47
-
-de esta ley o efectúen
-
-capturas en una unidad de pesquería
-
-distinta a la inscrita, se le
-
-sancionará administrativamente con
-
-una multa que se determinará de
-
-conformidad con el procedimiento del
-
-inciso anterior, pero aplicando en la
-
-multiplicación el triple de las
-
-toneladas que hayan sido objeto de
-
-la infracción.
-
-Al titular, arrendatario o mero
-
-tenedor de una licencia transable
-
-de pesca o permiso extraordinario
-
-de pesca que efectúe operaciones
-
-de pesca sin estar inscrito en el
-
-Registro del artículo 29, se le
-
-sancionará administrativamente
-
-con una multa que se determinará
-
-con el procedimiento del inciso
-
-anterior.
-
-En caso que no puedan
-
-establecerse las toneladas objeto
-
-de la infracción, en la determinación
-
-de la multa se aplicará el resultado
-
-de multiplicar el valor de sanción de
-
-la especie respectiva, vigente a la
-
-fecha de la infracción, por las
-
-toneladas promedio de las capturas
-
-desembarcadas por viaje de pesca de
-
-la nave en el año inmediatamente
-
-anterior. Si la nave no operó durante
-
-el año calendario anterior se
-
-considerará el promedio de dos
-
-naves que tengan las mayores capturas
-
-por viaje de pesca y de similares
-
-características náuticas, arte o
-
-aparejo de pesca y pesquería objeto
-
-de la infracción. Tratándose de
-
-buques fábrica, será el promedio de
-
-las capturas informadas para un
-
-período de cinco días del período
-
-o año calendario inmediatamente
-
-anterior.
-
-Asimismo, el capitán de la nave
-
-con la cual se cometa la infracción
-
-establecida en el inciso segundo
-
-será sancionado con una multa de
-
-100 a 300 unidades tributarias
-
-mensuales.
+Asimismo, el capitán de la nave con la cual se cometa la infracción establecida en el inciso segundo será sancionado con una multa de 100 a 300 unidades tributarias mensuales.
 
 #### Artículo 40
 
@@ -2170,7 +1672,7 @@ Dicho crédito será igual al 50% del impuesto específico que hayan pagado por 
 
 #### Artículo 44
 
-Cuando el titular de una autorización o permiso sea una persona jurídica con aporte de capital extranjero, las naves pesqueras que requiera para hacerlo efectivo deberán estar matriculadas a su nombre, conforme con lo dispuesto en la Ley de Navegación.
+Cuando el titular de una autorización, licencia o permiso sea una persona jurídica con aporte de capital extranjero, las naves pesqueras que requiera para hacerlo efectivo deberán estar matriculadas a su nombre, conforme con lo dispuesto en la Ley de Navegación.
 
 #### Artículo 45
 
@@ -2400,7 +1902,7 @@ en pesquerías con acceso cerrado
 
 o suspendido, de conformidad con
 
-los artículos 33 y 50, que importen
+los artículos 24 y 50, que importen
 
 un aumento de sus características
 
@@ -2450,151 +1952,27 @@ determine el reglamento.
 
 #### Artículo 50
 
-A.- Se inscribirán en el
+A.- Se inscribirán en el Registro Artesanal las solicitudes de inscripción que recaigan sobre las pesquerías que se encuentran incorporadas en una nómina que determinará la Subsecretaría por región.
 
-Registro Artesanal las solicitudes
+La Subsecretaría establecerá, mediante resolución, la nómina de pesquerías y las especies que la constituyen por región, el respectivo arte o aparejo de pesca y categoría de pescador artesanal que la puede extraer, y que conformarán el Registro Artesanal. En caso de la Isla de Pascua, el Registro Artesanal será independiente del de la V Región de Valparaíso. Dicha nómina se deberá actualizar, a lo menos, cada dos años.
 
-de inscripción que recaigan sobre
+La solicitud de inscripción será denegada cuando concurra alguna de las siguientes causales:
 
-las pesquerías que se encuentran
+a) Encontrarse suspendida transitoriamente la inscripción de la pesquería solicitada en el Registro Artesanal, de conformidad con los artículos 20, 24 y 50 de esta ley.
 
-incorporadas en una nómina que
+b) Constituir la o las pesquerías solicitadas, unidades de pesquerías declaradas en régimen de recuperación o de desarrollo incipiente, según lo dispuesto en el Párrafo 3º del Título III de esta ley.
 
-determinará la Subsecretaría por
+c) Constituir la o las especies solicitadas, en conformidad a una nómina que establecerá la Subsecretaría de Pesca, fauna acompañante o especies asociadas en el caso de los recursos bentónicos de las pesquerías señaladas en las letras a) o b) anteriores, salvo que el solicitante se encuentre inscrito en ellas.
 
-región.
+En el evento que la especie solicitada no se encuentre en la nómina el Servicio deberá remitir dicha solicitud a la Subsecretaría la que deberá pronunciarse en el plazo de un mes, incluyendo en la nómina las respectivas especies y artes o denegándola mediante resolución fundada en virtud de las siguientes causales:
 
-La Subsecretaría establecerá,
+a) Por no tener distribución geográfica en el área solicitada.
 
-mediante resolución, la nómina
-
-de pesquerías y las especies que
-
-la constituyen por región, el
-
-respectivo arte o aparejo de pesca
-
-y categoría de pescador artesanal
-
-que la puede extraer, y que
-
-conformarán el Registro Artesanal.
-
-En caso de la Isla de Pascua, el
-
-Registro Artesanal será independiente
-
-del de la V Región de Valparaíso.
-
-Dicha nómina se deberá actualizar,
-
-a lo menos, cada dos años.
-
-La solicitud de inscripción
-
-será denegada cuando concurra
-
-alguna de las siguientes causales:
-
-a) Encontrarse suspendida
-
-transitoriamente la inscripción
-
-de la pesquería solicitada en
-
-el Registro Artesanal, de
-
-conformidad con los artículos
-
-20, 33 y 50 de esta ley.
-
-b) Constituir la o las
-
-pesquerías solicitadas,
-
-unidades de pesquerías
-
-declaradas en régimen de
-
-recuperación o de desarrollo
-
-incipiente, según lo
-
-dispuesto en el Párrafo
-
-3º del Título III de esta ley.
-
-c) Constituir la o las
-
-especies solicitadas, en
-
-conformidad a una nómina
-
-que establecerá la
-
-Subsecretaría de Pesca,
-
-fauna acompañante de
-
-las pesquerías señaladas
-
-en las letras a) o b)
-
-anteriores, salvo que el
-
-solicitante se encuentre
-
-inscrito en ellas.
-
-En el evento que la
-
-especie solicitada no
-
-se encuentre en la
-
-nómina el Servicio
-
-deberá remitir dicha
-
-solicitud a la
-
-Subsecretaría la que
-
-deberá pronunciarse
-
-en el plazo de un mes,
-
-incluyendo en la nómina
-
-las respectivas especies
-
-y artes o denegándola
-
-mediante resolución
-
-fundada en virtud de
-
-las siguientes causales:
-
-a) Por no tener
-
-distribución geográfica
-
-en el área solicitada.
-
-b) Cuando la actividad
-
-solicitada sea contraria
-
-a la normativa pesquera
-
-vigente.
+b) Cuando la actividad solicitada sea contraria a la normativa pesquera vigente.
 
 #### Artículo 50
 
-B.- Las inscripciones
-
-en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
+B.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 24 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
 
 El reemplazo operará en forma indivisible respecto de todas las categorías, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
 
@@ -2606,67 +1984,21 @@ Para estos efectos, se deberá presentar una solicitud ante el Servicio, en que 
 
 El reemplazante deberá ser pescador artesanal inscrito en el Registro Artesanal en cualquiera de sus categorías y cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
 
-El armador reemplazante deberá, además, acreditar el título de
+El armador reemplazante deberá, además, acreditar el título de dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 28.
 
-dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 29.
-
-El Servicio deberá llevar un
-
-Registro Público de las solicitudes
-
-y reemplazos autorizados, por
-
-región.
+El Servicio deberá llevar un Registro Público de las solicitudes y reemplazos autorizados, por región.
 
 El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
 
-Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos,
+Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos, dos años, consecutivos o no, en los últimos cuatro años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
 
-dos años, consecutivos o no, en
+Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo 63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de los buzos y de los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
 
-los últimos cuatro años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
+En el caso que se modifique parcialmente la integración de una comunidad o persona jurídica, el o los nuevos integrantes o socios deberán cumplir con el requisito de habitualidad antes señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
 
-Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo
+El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta, ni los ascendientes del reemplazado, ni a los colaterales hasta el tercer grado de consanguinidad o afinidad, inclusive.
 
-63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de los buzos y de los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
-
-En el caso que se modifique parcialmente la integración de una comunidad o persona jurídica, el o los nuevos integrantes o socios deberán cumplir con el requisito de habitualidad antes
-
-señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
-
-El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta,
-
-ni los ascendientes del
-
-reemplazado, ni a los colaterales
-
-hasta el tercer grado de consanguinidad
-
-o afinidad, inclusive.
-
-Con todo, para los efectos
-
-de lo dispuesto en el inciso
-
-séptimo del presente artículo,
-
-se considerará acreditada la
-
-habitualidad durante el lapso
-
-en que la mujer se encuentre en
-
-estado de gravidez, así como
-
-aquel en que esté gozando del
-
-descanso de maternidad a que
-
-se refiere el artículo 195,
-
-inciso primero, del Código
-
-del Trabajo.
+Con todo, para los efectos de lo dispuesto en el inciso séptimo del presente artículo, se considerará acreditada la habitualidad durante el lapso en que la mujer se encuentre en estado de gravidez, así como aquel en que esté gozando del descanso de maternidad a que se refiere el artículo 195, inciso primero, del Código del Trabajo.
 
 El reemplazo no operará respecto de la categoría de recolector de orilla, alguero y buzo apnea, ni podrá ser invocada por el reemplazante.
 
@@ -2728,9 +2060,7 @@ DEL REGISTRO NACIONAL DE PESCADORES ARTESANALES
 
 Para inscribirse en el Registro Artesanal deberán cumplirse los siguientes requisitos:
 
-a) Ser persona natural, chilena o extranjera con permanencia definitiva, o ser persona jurídica de conformidad con el artículo
-
-2°, N°29, de esta ley.
+a) Ser persona natural, chilena o extranjera con permanencia definitiva, o ser persona jurídica de conformidad con el artículo 2°, N°28, de esta ley.
 
 b) Haber obtenido el título o matrícula de la Autoridad Marítima que lo habilite para desempeñarse como tal. Este requisito no será aplicable a la categoría de recolector de orilla, alguero y buzo apnea.
 
@@ -2738,17 +2068,7 @@ c) Acreditar domicilio en la región especificando comuna y caleta base en la cu
 
 d) Los pescadores artesanales, para estar en el Registro, deberán acreditar residencia efectiva de al menos tres años consecutivos en la Región respectiva.
 
-Las notificaciones de todas
-
-las actuaciones que digan relación
-
-con la inscripción podrán ser
-
-practicadas en el domicilio
-
-acreditado de conformidad
-
-con la letra c).
+Las notificaciones de todas las actuaciones que digan relación con la inscripción podrán ser practicadas en el domicilio acreditado de conformidad con la letra c).
 
 #### Artículo 52
 
@@ -2774,243 +2094,37 @@ El incumplimiento en la comunicación antes mencionada se sancionará conforme a
 
 #### Artículo 55
 
-El Servicio Nacional de
+El Servicio Nacional de Pesca deberá, en el mes de junio de cada año, caducar la inscripción en el Registro Artesanal en los siguientes casos:
 
-Pesca deberá, en el mes de
+a) Si el pescador artesanal o su embarcación no realizan actividades pesqueras extractivas por tres años sucesivos, salvo caso fortuito o fuerza mayor debidamente acreditados.
 
-junio de cada año, caducar
+En el evento que se configure una causal de caso fortuito o fuerza mayor, ésta deberá ser invocada ante el Servicio antes del vencimiento del plazo establecido en el inciso anterior, en cuyo caso el Servicio podrá autorizar la ampliación del plazo en hasta un año, contado desde el vencimiento del plazo de tres años antes indicado.
 
-la inscripción en el Registro
-
-Artesanal en los siguientes casos:
-
-a) Si el pescador artesanal o
-
-su embarcación no realizan actividades
-
-pesqueras extractivas por tres años
-
-sucesivos, salvo caso fortuito o
-
-fuerza mayor debidamente acreditados.
-
-En el evento que se configure
-
-una causal de caso fortuito o fuerza
-
-mayor, ésta deberá ser invocada ante
-
-el Servicio antes del vencimiento
-
-del plazo establecido en el inciso
-
-anterior, en cuyo caso el Servicio
-
-podrá autorizar la ampliación del
-
-plazo en hasta un año, contado
-
-desde el vencimiento del plazo
-
-de tres años antes indicado.
-
-Se entenderá por captura lo
-
-informado en el formulario de
-
-desembarque, debidamente
-
-recepcionado por el Servicio,
-
-conforme al artículo 63 de esta ley.
+Se entenderá por captura lo informado en el formulario de desembarque, debidamente recepcionado por el Servicio, conforme al artículo 63 de esta ley.
 
 b) Si el pescador artesanal fuere reincidente en las infracciones a que se refieren las letras b) y f) del artículo 110.
 
 c) Si al pescador artesanal se le cancelare su matrícula por la autoridad marítima.
 
-d) Si el pescador artesanal fuere
+d) Si el pescador artesanal fuere condenado por alguno de los delitos que sancionan los artículos 135 ó 136, o no mantiene los requisitos de inscripción establecidos en los artículos 51 ó 52.
 
-condenado por alguno de los
+e) Si el armador artesanal no paga la patente pesquera a que se refiere el artículo 50 D por dos años consecutivos.
 
-delitos que sancionan los artículos
-
-135 ó 136, o no mantiene los
-
-requisitos de inscripción
-
-establecidos en los artículos 51 ó 52.
-
-e) Si el armador artesanal no paga
-
-la patente pesquera a que se refiere el
-
-#### Artículo 50
-
-D por dos años
-
-consecutivos.
-
-f) No contar con el certificado
-
-de navegabilidad otorgado por
-
-la Autoridad Marítima vigente
-
-por tres años consecutivos.
+f) No contar con el certificado de navegabilidad otorgado por la Autoridad Marítima vigente por tres años consecutivos.
 
 La caducidad será declarada por resolución del Director Nacional del Servicio. El afectado podrá reclamar de ella ante el Subsecretario. El reglamento determinará los plazos máximos en que podrá hacerse efectivo el reclamo y la posterior resolución del Subsecretario.
 
-La inscripción quedará sin efecto
+La inscripción quedará sin efecto por defunción del pescador artesanal. No obstante, su sucesión, mediante mandatario común, tendrá el derecho de presentar al Servicio, dentro del plazo de dos años de ocurrido el fallecimiento del causante, copia autorizada de la resolución que otorga la posesión efectiva, para que dicha autoridad proceda a asignar la inscripción a la persona que designe la sucesión y que cumpla con los requisitos establecidos en los artículos 51 y 52 de esta ley. Con todo, la sucesión podrá optar, en el mismo plazo antes señalado, por mantener la inscripción a nombre de la comunidad hereditaria. Dentro del mismo plazo, la sucesión podrá reemplazar la inscripción conforme a las normas del artículo 50 B.
 
-por defunción del pescador
+En el caso que el causante hubiese tenido la categoría de armador artesanal, y durante el tiempo que transcurra entre el fallecimiento del mismo y el plazo indicado en el inciso anterior, la sucesión podrá asignar provisionalmente la inscripción en el Registro a la misma comunidad hereditaria o a una persona que reúna los requisitos establecidos en el artículo 51 de esta ley, quien podrá continuar desarrollando las actividades con la o las embarcaciones correspondientes a la inscripción del causante. Vencido el plazo antes señalado, sin que se hubiere efectuado la asignación definitiva, quedará sin efecto la inscripción.
 
-artesanal. No obstante, su
+Con todo, si un pescador artesanal desaparece como consecuencia de un accidente ocurrido durante las faenas de pesca y no es posible ubicar su cuerpo, una vez transcurridos diez días de su búsqueda oficial, la sucesión mediante mandatario común podrá, previa acreditación de ese hecho, solicitar se le otorgue el derecho a reservar la vacante en forma provisoria, hasta por un plazo de cinco años o hasta que se inscriba la resolución que concede la posesión efectiva de sus bienes. Durante los mismos plazos, la sucesión podrá ejercer el derecho a que se refieren los incisos anteriores.
 
-sucesión, mediante mandatario
+En el plazo de dos meses a contar de la resolución del Servicio a que se refiere el inciso primero, la Subsecretaría deberá dictar la resolución estableciendo el número de vacantes, si procede de conformidad al inciso noveno del artículo 50 de esta ley.
 
-común, tendrá el derecho de
+Para proveer la vacante sólo se considerará a los pescadores artesanales que cumplan las reglas de habitualidad establecidas en el artículo 50 B.
 
-presentar al Servicio, dentro del
-
-plazo de dos años de ocurrido el
-
-fallecimiento del causante, copia
-
-autorizada de la resolución que
-
-otorga la posesión efectiva, para
-
-que dicha autoridad proceda a
-
-asignar la inscripción a la persona
-
-que designe la sucesión y que
-
-cumpla con los requisitos establecidos
-
-en los artículos 51 y 52 de esta ley. Con
-
-todo, la sucesión podrá optar, en el
-
-mismo plazo antes señalado, por
-
-mantener la inscripción a nombre de
-
-la comunidad hereditaria. Dentro del
-
-mismo plazo, la sucesión podrá
-
-reemplazar la inscripción conforme
-
-a las normas del artículo 50 A.
-
-En el caso que el causante hubiese
-
-tenido la categoría de armador
-
-artesanal, y durante el tiempo que
-
-transcurra entre el fallecimiento
-
-del mismo y el plazo indicado en
-
-el inciso anterior, la sucesión
-
-podrá asignar provisionalmente la
-
-inscripción en el Registro a la
-
-misma comunidad hereditaria o a
-
-una persona que reúna los requisitos
-
-establecidos en el artículo 51 de
-
-esta ley, quien podrá continuar
-
-desarrollando las actividades con
-
-la o las embarcaciones correspondientes
-
-a la inscripción del causante. Vencido
-
-el plazo antes señalado, sin que
-
-se hubiere efectuado la asignación
-
-definitiva, quedará sin efecto
-
-la inscripción.
-
-Con todo, si un pescador artesanal
-
-desaparece como consecuencia de un
-
-accidente ocurrido durante las
-
-faenas de pesca y no es posible
-
-ubicar su cuerpo, una vez transcurridos
-
-diez días de su búsqueda oficial,
-
-la sucesión mediante mandatario
-
-común podrá, previa acreditación
-
-de ese hecho, solicitar se le otorgue
-
-el derecho a reservar la vacante en
-
-forma provisoria, hasta por un plazo
-
-de cinco años o hasta que se inscriba
-
-la resolución que concede la posesión
-
-efectiva de sus bienes. Durante los
-
-mismos plazos, la sucesión podrá
-
-ejercer el derecho a que se refieren
-
-los incisos anteriores.
-
-En el plazo de dos meses a
-
-contar de la resolución del Servicio
-
-a que se refiere el inciso primero,
-
-la Subsecretaría deberá dictar la
-
-resolución estableciendo el número
-
-de vacantes, si procede de
-
-conformidad al inciso noveno del
-
-#### Artículo 50
-
-de esta ley.
-
-Para proveer la vacante sólo se
-
-considerará a los pescadores
-
-artesanales que cumplan las reglas
-
-de habitualidad establecidas en el
-
-#### Artículo 50
-
-B.
-
-La inscripción en las listas de
-
-espera caducará en el plazo de tres
-
-años a contar de la inscripción.
+La inscripción en las listas de espera caducará en el plazo de tres años a contar de la inscripción.
 
 ### Párrafo 3°
 
@@ -3088,129 +2202,15 @@ Del Régimen Artesanal de Extracción
 
 #### Artículo 55
 
-I.- Además de las
+I.- Además de las facultades de administración de los recursos hidrobiológicos establecidas en el Párrafo Primero del Título II y de lo previsto en el artículo 48, en las pesquerías que tengan su acceso suspendido conforme a los artículos 50 ó 24 de esta ley, podrá establecerse por decreto, previo informe técnico de la Subsecretaría y consulta al Consejo Zonal de Pesca respectivo, y con consulta o a solicitud de las organizaciones de pescadores artesanales, un sistema denominado "Régimen Artesanal de Extracción". Este régimen consistirá en la asignación de la fracción artesanal de la cuota global de captura en una determinada Región, ya sea por área o flota, tamaño de las embarcaciones, caleta, organizaciones de pescadores artesanales o individualmente.
 
-facultades de administración de los
+Para estos efectos se considerarán, según corresponda, los pescadores artesanales debidamente inscritos en el Registro Pesquero Artesanal en la respectiva pesquería, la caleta, la organización, o el tamaño de las embarcaciones.
 
-recursos hidrobiológicos establecidas
+La asignación de la fracción artesanal de la cuota global se efectuará por resolución del Subsecretario, de acuerdo a la historia real de desembarques de la Caleta, Organización, pescador artesanal o tamaño de las embarcaciones, según corresponda, y teniendo en cuenta la sustentabilidad de los recursos hidrobiológicos.
 
-en el Párrafo Primero del Título II y
+No obstante lo anterior, en caso de catástrofe natural declarada por la autoridad competente, la Subsecretaría podrá no considerar el o los años durante los cuales estuvo vigente dicha declaración para efectos de determinar la historia real de desembarque. Del mismo modo, la Subsecretaría no considerará las capturas que se imputen a la reserva de la cuota global anual fijada para efectos de atender necesidades sociales urgentes, establecida de conformidad con lo dispuesto en el párrafo primero de la letra c) del artículo 3°.
 
-de lo previsto en el artículo 48, en
-
-las pesquerías que tengan su acceso
-
-suspendido conforme a los artículos
-
-50 ó 33 de esta ley, podrá
-
-establecerse por decreto, previo
-
-informe técnico de la Subsecretaría
-
-y consulta al Consejo Zonal de
-
-Pesca respectivo, y con consulta o a
-
-solicitud de las organizaciones de
-
-pescadores artesanales, un sistema
-
-denominado "Régimen Artesanal de
-
-Extracción". Este régimen consistirá
-
-en la asignación de la fracción
-
-artesanal de la cuota global de
-
-captura en una determinada Región, ya
-
-sea por área o flota, tamaño de las
-
-embarcaciones, caleta, organizaciones
-
-de pescadores artesanales o
-
-individualmente.
-
-Para estos efectos se
-
-considerarán, según corresponda, los
-
-pescadores artesanales debidamente
-
-inscritos en el Registro Pesquero
-
-Artesanal en la respectiva pesquería,
-
-la caleta, la organización, o el
-
-tamaño de las embarcaciones.
-
-La asignación de la fracción
-
-artesanal de la cuota global se
-
-efectuará por resolución del
-
-Subsecretario, de acuerdo a la
-
-historia real de desembarques de la
-
-Caleta, Organización, pescador
-
-artesanal o tamaño de las
-
-embarcaciones, según corresponda,
-
-y teniendo en cuenta la
-
-sustentabilidad de los recursos
-
-hidrobiológicos.
-
-No obstante lo anterior, en caso
-
-de catástrofe natural declarada por
-
-la autoridad competente, la
-
-Subsecretaría podrá no considerar el
-
-o los años durante los cuales estuvo
-
-vigente dicha declaración para
-
-efectos de determinar la historia
-
-real de desembarque. Del mismo
-
-modo, la Subsecretaría no considerará
-
-las capturas que se imputen a la
-
-reserva de la cuota global anual
-
-fijada para efectos de atender
-
-necesidades sociales urgentes,
-
-establecida de conformidad con lo
-
-dispuesto en el párrafo primero de
-
-la letra c) del artículo 3°.
-
-Una vez establecido el Régimen
-
-Artesanal de Extracción, el
-
-Subsecretario podrá, por resolución,
-
-organizar días de captura, los que
-
-podrán ser continuos o discontinuos.
+Una vez establecido el Régimen Artesanal de Extracción, el Subsecretario podrá, por resolución, organizar días de captura, los que podrán ser continuos o discontinuos.
 
 #### Artículo 55
 
@@ -3252,251 +2252,25 @@ M.- En caso de muerte de un pescador artesanal, si no se ha reservado la vacante
 
 #### Artículo 55
 
-N.- Dentro del marco
+N.- Dentro del marco del Régimen Artesanal de Extracción establecido de conformidad con el artículo 48 A, los titulares de asignaciones podrán ceder las toneladas asignadas para el respectivo año calendario a otro titular de la misma región o a titulares de otras regiones, siempre que se trate de una misma unidad poblacional. También se podrán celebrar estos actos jurídicos en beneficio de uno o más pescadores artesanales inscritos en el Registro Artesanal en el recurso respectivo no sometidos al régimen y dentro de la misma unidad poblacional.
 
-del Régimen Artesanal
+Asimismo, los titulares de asignación artesanal a que se refiere el inciso anterior podrán ceder total o parcialmente las toneladas asignadas para un año calendario a un titular de licencia transable de pesca de la especie de que se trate, quienes podrán extraerlas de acuerdo a su normativa y dentro de la unidad de pesquería autorizada, debiendo ésta siempre efectuarse dentro de la misma unidad poblacional.
 
-de Extracción establecido
+En el caso de régimen artesanal de extracción por área, flota u organizaciones, en la solicitud de cesión deberá constar el acuerdo de la mayoría absoluta de los pescadores artesanales que formen parte de las distintas unidades de dicho régimen.
 
-de conformidad con el
+La Subsecretaría, mediante resolución fundada, autorizará las cesiones a que se refiere el inciso anterior.
 
-#### Artículo 48
+El Servicio llevará, de oficio, un registro público de traspasos que estará disponible en su página de dominio electrónico, en el que se registrará la cesión celebrada, debiendo constar en ella el cedente y el cesionario y las toneladas objeto de la cesión, así como el listado de los pescadores artesanales propiamente tales que hayan participado en el último zarpe de la embarcación del cedente, en su caso, de conformidad con el registro de zarpe otorgado por la Autoridad Marítima o en el contrato de embarque, cualquiera que conste en la solicitud de cesión. En el evento de que las toneladas objeto de la cesión superen los saldos de asignación disponibles al momento de la autorización, ésta se realizará hasta el límite disponible. En estos casos y dependiendo del régimen contractual o laboral que rija la relación entre el armador y el patrón o tripulantes, se deberá pagar la parte acordada en el respectivo contrato o la remuneración correspondiente, por el traspaso de cuota que se haya efectuado.
 
-A, los
+En los casos antes regulados las capturas se imputarán al titular original de la asignación.
 
-titulares de asignaciones
+No obstante lo anterior, el titular de la asignación sólo podrá ceder, en un período de tres años corridos, hasta el 50% de la cuota asignada para dicho período.
 
-podrán ceder las toneladas
+La limitación del inciso anterior no regirá respecto de la pesquería de merluza austral y congrio dorado en las regiones X, de Los Lagos; XI, de Aysén del General Carlos Ibáñez del Campo, y XII, de Magallanes y Antártica Chilena.
 
-asignadas para el respectivo
+La infracción a la obligación señalada en
 
-año calendario a otro titular
-
-de la misma región o a
-
-titulares de otras regiones,
-
-siempre que se trate de una
-
-misma unidad poblacional.
-
-También se podrán celebrar
-
-estos actos jurídicos en
-
-beneficio de uno o más
-
-pescadores artesanales
-
-inscritos en el Registro
-
-Artesanal en el recurso
-
-respectivo no sometidos
-
-al régimen y dentro de
-
-la misma unidad poblacional.
-
-Asimismo, los titulares de
-
-asignación artesanal a que se
-
-refiere el inciso anterior podrán
-
-ceder total o parcialmente las
-
-toneladas asignadas para un año
-
-calendario a un titular de licencia
-
-transable de pesca de la especie de
-
-que se trate, quienes podrán
-
-extraerlas de acuerdo a su normativa
-
-y dentro de la unidad de pesquería
-
-autorizada, debiendo ésta siempre
-
-efectuarse dentro de la misma unidad
-
-poblacional.
-
-En el caso de régimen artesanal
-
-de extracción por área, flota u
-
-organizaciones, en la solicitud de
-
-cesión deberá constar el acuerdo de
-
-la mayoría absoluta de los pescadores
-
-artesanales que formen parte de las
-
-distintas unidades de dicho régimen.
-
-La Subsecretaría,
-
-mediante resolución
-
-fundada, autorizará
-
-las cesiones a que se
-
-refiere el inciso
-
-anterior.
-
-El Servicio llevará,
-
-de oficio, un registro
-
-público de traspasos
-
-que estará disponible
-
-en su página de dominio
-
-electrónico, en el que
-
-se registrará la cesión
-
-celebrada, debiendo
-
-constar en ella el
-
-cedente y el cesionario
-
-y las toneladas objeto
-
-de la cesión, así como
-
-el listado de los
-
-pescadores artesanales
-
-propiamente tales que
-
-hayan participado en
-
-el último zarpe de la
-
-embarcación del
-
-cedente, en su caso,
-
-de conformidad
-
-con el registro de
-
-zarpe otorgado por la
-
-Autoridad Marítima o
-
-en el contrato de
-
-embarque, cualquiera
-
-que conste en la
-
-solicitud de cesión.
-
-En el evento de que
-
-las toneladas objeto
-
-de la cesión superen
-
-los saldos de asignación
-
-disponibles al momento
-
-de la autorización,
-
-ésta se realizará hasta
-
-el límite disponible.
-
-En estos casos y dependiendo
-
-del régimen contractual o
-
-laboral que rija la relación
-
-entre el armador y el patrón
-
-o tripulantes, se deberá
-
-pagar la parte acordada
-
-en el respectivo contrato
-
-o la remuneración
-
-correspondiente, por el
-
-traspaso de cuota que
-
-se haya efectuado.
-
-En los casos antes
-
-regulados las capturas
-
-se imputarán al titular
-
-original de la asignación.
-
-No obstante lo anterior,
-
-el titular de la asignación
-
-sólo podrá ceder, en un período
-
-de tres años corridos, hasta
-
-el 50% de la cuota asignada
-
-para dicho período.
-
-La limitación del inciso
-
-anterior no regirá respecto de la
-
-pesquería de merluza austral y
-
-congrio dorado en las regiones X, de
-
-Los Lagos; XI, de Aysén del General
-
-Carlos Ibáñez del Campo, y XII, de
-
-Magallanes y Antártica Chilena.
-
-La infracción a la
-
-obligación señalada en
-
-el inciso anterior será
-
-causal de caducidad de
-
-la inscripción en el
-
-Registro Artesanal del
-
-pescador o pescadores
-
-titulares de la
-
-asignación y de la
-
-embarcación artesanal,
-
-en su caso.
+el inciso séptimo será causal de caducidad de la inscripción en el Registro Artesanal del pescador o pescadores titulares de la asignación y de la embarcación artesanal, en su caso.
 
 > **Nota.** La letra d) del N° 49, artículo 1° de la Ley 20657, publicada el 09.02.2013, incorpora un nuevo inciso octavo, pasando el actual a ser noveno. Sin embargo, el anterior inciso octavo hacía referencia al "inciso anterior", es decir, al séptimo, por lo que para mantener la correspondencia debió modificarse dicha frase.
 
@@ -3812,6 +2586,16 @@ hidrobiológicos, serán establecidos
 
 mediante resolución del Servicio.
 
+La entrega de la información
+
+que conforme a este artículo deba
+
+realizarse, se hará de manera
+
+simple, completa, fidedigna y
+
+oportuna.
+
 #### Artículo 63 bis
 
 Los armadores pesqueros artesanales e industriales deberán informar la recalada de la nave, antes de su arribo a puerto, en los casos, forma y condiciones que establezca el Servicio mediante resolución.
@@ -3904,7 +2688,7 @@ infractor en las sanciones que al
 
 efecto se prevén en el artículo
 
-113 B de esta ley.
+113 D de esta ley.
 
 #### Artículo 64
 
@@ -3920,7 +2704,7 @@ A.- Habrá un sistema de posicionamiento automático de naves pesqueras y de inv
 
 #### Artículo 64
 
-B.- Los armadores de naves pesqueras industriales de embarcaciones artesanales de una eslora total igual o superior a 15 metros y embarcaciones transportadoras, así como para las embarcaciones artesanales de una eslora total igual o superior a doce metros e inferior a quince metros inscritas en pesquerías pelágicas con el arte de cerco matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar. Con excepción de las embarcaciones que efectúan operaciones extractivas inscritas en recursos bentónicos.
+B.- Los armadores de naves pesqueras industriales; de embarcaciones artesanales de una eslora total igual o superior a 15 metros y embarcaciones transportadoras, así como para las embarcaciones artesanales de una eslora total igual o superior a doce metros e inferior a quince metros inscritas en pesquerías pelágicas con el arte de cerco matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar. Con excepción de las embarcaciones que efectúan operaciones extractivas inscritas en recursos bentónicos.
 
 La misma obligación deberán cumplir los armadores de naves matriculadas en Chile que operen en aguas no jurisdiccionales; los armadores de naves que, estando o no estando matriculadas en Chile, realicen pesca de investigación dentro o fuera de las aguas jurisdiccionales; y los armadores de buques fábricas que operen en aguas jurisdiccionales o en la alta mar. Asimismo, esta obligación será aplicable a los armadores de naves pesqueras o buques fábricas de pabellón extranjero que sean autorizados a recalar en los puertos de la República.
 
@@ -4866,243 +3650,35 @@ DE LA INVESTIGACION PARA LA ADMINISTRACION PESQUERA
 
 #### Artículo 91
 
-La Subsecretaría
+La Subsecretaría elaborará el programa de investigación necesario para la regulación de la pesca y la acuicultura.
 
-elaborará el programa de
+El programa generará un conjunto de observaciones sistemáticas en el tiempo y áreas geográficas determinadas, de los recursos hidrobiológicos y sus ecosistemas, cuyo análisis permita conocer su estado de situación, patrones y tendencias. Asimismo, tal programa comprenderá la investigación y el monitoreo y análisis de las condiciones oceanográficas, ambientales y sanitarias apropiadas para el ejercicio sustentable de la acuicultura. Los resultados de la ejecución del programa de investigación servirán de base para la fundamentación de las medidas de administración y conservación, así como, en general, del proceso de toma de decisiones para la actividad pesquera extractiva y de acuicultura.
 
-investigación necesario para la
+El programa de investigación tendrá proyectos de carácter permanente y otros de carácter ocasional. Sin perjuicio de lo anterior, los permanentes podrán ser revisados en el tiempo, conforme al incremento de la demanda de conocimiento de las variables relevantes para la regulación de la actividad pesquera y de acuicultura.
 
-regulación de la pesca y la
+Para la elaboración del programa, la Subsecretaría podrá requerir propuestas de investigación a los Consejos Nacional y Zonales de Pesca y a la Comisión Nacional de Acuicultura. Asimismo, deberá requerir propuestas de investigación a los Comités Científicos Técnicos, así como al Instituto de Fomento Pesquero. La Subsecretaría efectuará el requerimiento en el mes de enero del año anterior en que deba regir el programa y los organismos requeridos tendrán hasta el 31 de marzo para enviar sus propuestas.
 
-acuicultura.
-
-El programa generará un conjunto
-
-de observaciones sistemáticas en el
-
-tiempo y áreas geográficas
-
-determinadas, de los recursos
-
-hidrobiológicos y sus ecosistemas,
-
-cuyo análisis permita conocer su
-
-estado de situación, patrones y
-
-tendencias. Asimismo, tal programa
-
-comprenderá la investigación y el
-
-monitoreo y análisis de las
-
-condiciones oceanográficas,
-
-ambientales y sanitarias apropiadas
-
-para el ejercicio sustentable de la
-
-acuicultura. Los resultados de la
-
-ejecución del programa de
-
-investigación servirán de base para
-
-la fundamentación de las medidas de
-
-administración y conservación, así
-
-como, en general, del proceso de
-
-toma de decisiones para la actividad
-
-pesquera extractiva y de acuicultura.
-
-El programa de investigación
-
-tendrá proyectos de carácter
-
-permanente y otros de carácter
-
-ocasional. Sin perjuicio de lo
-
-anterior, los permanentes podrán ser
-
-revisados en el tiempo, conforme al
-
-incremento de la demanda de
-
-conocimiento de las variables
-
-relevantes para la regulación de la
-
-actividad pesquera y de acuicultura.
-
-Para la elaboración del
-
-programa, la Subsecretaría podrá
-
-requerir propuestas de investigación
-
-a los Consejos Nacional y Zonales de
-
-Pesca y a la Comisión Nacional de
-
-Acuicultura, así como al Instituto de
-
-Fomento Pesquero. Asimismo, deberá
-
-requerir propuestas a los Comités
-
-Científicos Técnicos, así como al
-
-Instituto de Fomento Pesquero. La
-
-Subsecretaría efectuará el
-
-requerimiento en el mes de enero del
-
-año anterior en que deba regir el
-
-programa y los organismos requeridos
-
-tendrán hasta el 31 de marzo para
-
-enviar sus propuestas.
-
-Con la información obtenida, la
-
-Subsecretaría elaborará el programa
-
-de investigación priorizado,
-
-aprobándolo mediante resolución y
-
-será publicado en su página de
-
-dominio electrónico.
+Con la información obtenida, la Subsecretaría elaborará el programa de investigación priorizado, aprobándolo mediante resolución y será publicado en su página de dominio electrónico.
 
 #### Artículo 92
 
-El programa de
+El programa de investigación básica o permanente para la regulación pesquera y de acuicultura, podrá ser efectuado por el Instituto de Fomento Pesquero y en él se deberán considerar al menos:
 
-investigación básica o permanente
+a) La evaluación directa de biomasa y abundancia de los recursos pesqueros.
 
-para la regulación pesquera y de
+b) La evaluación de stock mediante modelamientos, con el objeto de determinar el estado de situación y posibilidades de explotación biológicamente sustentable o captura total permisible.
 
-acuicultura, podrá ser efectuado por
+c) El monitoreo y seguimiento sistemático de las pesquerías, dinámica poblacional y sus condiciones oceanográficas.
 
-el Instituto de Fomento Pesquero
+d) El monitoreo o seguimiento de las actividades de acuicultura, de las especies hidrobiológicas que constituyan plagas y la obtención de la información oceanográfica requerida para asegurar el ejercicio sustentable de esta última.
 
-y en él se deberán considerar al
+e) Los programas referidos al estado sanitario y ambiental de las áreas en que se realiza acuicultura.
 
-menos:
+Dentro del programa de investigación básica que será ejecutado por el Instituto de Fomento Pesquero, se podrá contemplar una reserva de emergencia para financiar proyectos o actividades fundadas en cambios en las condiciones oceanográficas y ambientales que causen, a su vez, alteraciones o cambios en el comportamiento de los recursos surgidos en forma imprevista. El monto de dichos proyectos deberá imputarse al presupuesto anual de la investigación básica y no podrá exceder del 3% del mismo.
 
-a) La evaluación directa de
+El Instituto de Fomento Pesquero podrá subcontratar la ejecución de los proyectos que constituyan el programa de investigación básica, lo que deberá efectuar de conformidad con la ley Nº 19.886.
 
-biomasa y abundancia de los recursos
-
-pesqueros.
-
-b) La evaluación de stock
-
-mediante modelamientos, con el
-
-objeto de determinar el estado de
-
-situación y posibilidades de
-
-explotación biológicamente
-
-sustentable o captura total
-
-permisible.
-
-c) El monitoreo y seguimiento
-
-sistemático de las pesquerías,
-
-dinámica poblacional y sus
-
-condiciones oceanográficas.
-
-d) El monitoreo o seguimiento de
-
-las actividades de acuicultura, de las
-
-especies hidrobiológicas que
-
-constituyan plagas y la obtención de
-
-la información oceanográfica
-
-requerida para asegurar el ejercicio
-
-sustentable de esta última.
-
-e) Los programas referidos al
-
-estado sanitario y ambiental de
-
-las áreas en que se realiza
-
-acuicultura.
-
-Dentro del programa de
-
-investigación básica que será
-
-ejecutado por el Instituto de
-
-Fomento Pesquero, se podrá
-
-contemplar una reserva de
-
-emergencia para financiar proyectos
-
-o actividades fundadas en cambios en
-
-las condiciones oceanográficas y
-
-ambientales que causen, a su vez,
-
-alteraciones o cambios en el
-
-comportamiento de los recursos
-
-surgidos en forma imprevista. El
-
-monto de dichos proyectos deberá
-
-imputarse al presupuesto anual de la
-
-investigación básica y no podrá
-
-exceder del 3% del mismo.
-
-El Instituto de Fomento Pesquero
-
-podrá subcontratar la ejecución de
-
-los proyectos que constituyan el
-
-programa de investigación básica, lo
-
-que deberá efectuar mediante
-
-licitación pública.
-
-La investigación contenida en el
-
-programa de investigación que no
-
-sea efectuada por el Instituto de
-
-Fomento Pesquero podrá ser
-
-efectuada a través del Fondo de
-
-Investigación Pesquera.
+La investigación contenida en el programa de investigación que no sea efectuada por el Instituto de Fomento Pesquero podrá ser efectuada a través del Fondo de Investigación Pesquera.
 
 #### Artículo 92
 
@@ -5696,103 +4272,15 @@ Serán sancionados con multa de 3 a 300 unidades tributarias mensuales el armado
 
 Iguales sanciones se aplicarán al o a los responsables de proporcionar información falsa acerca de la posición de la nave en las situaciones previstas en los artículos 64 B y 64 D.
 
-Las personas naturales o
+INCISO DEROGADO
 
-jurídicas que realicen actividades
+La omisión de la entrega o la entrega incompleta de la información
 
-de acuicultura y entreguen
+a que se refieren los artículos 63, 63 bis y 63 ter será sancionada con multa de 3 a 30 unidades tributarias mensuales.
 
-información falsa acerca de la
+En caso que la información entregada en cumplimiento del artículo 63 ter sea falsa, la sanción será de multa de 50 a 300 unidades tributarias mensuales.
 
-operación de los centros de
-
-cultivo de que sean titulares
-
-a cualquier título, serán
-
-sancionados con multas de
-
-50 a 300 unidades tributarias
-
-mensuales. En caso de
-
-reincidencia, la sanción se
-
-duplicará.
-
-La omisión de la entrega o
-
-la entrega incompleta de la
-
-información a que se refiere el
-
-#### Artículo 63 ter
-
-será sancionada
-
-con multa de 3 a 30 unidades
-
-tributarias mensuales.
-
-Las personas naturales o
-
-jurídicas que realicen actividades
-
-de acuicultura a cualquier título y
-
-entreguen información falsa acerca
-
-de la operación de los centros de
-
-cultivo de que son titulares, o sobre
-
-la condición sanitaria de los mismos
-
-referida a las enfermedades de alto
-
-riesgo, serán sancionados con multas
-
-de 500 a 3.000 UTM y suspensión de
-
-operaciones hasta por dos ciclos de
-
-cultivo consecutivos. La misma
-
-sanción será impuesta a quienes
-
-entreguen información incompleta o
-
-subreportes o entreguen información
-
-fuera de plazo, salvo que se trate en
-
-este último caso de la información a
-
-que se refiere el artículo 118 ter
-
-letra g), en cuyo evento se aplicará
-
-el procedimiento y la sanción
-
-indicada en dicha norma. Serán
-
-sancionadas de la misma forma, las
-
-personas naturales o jurídicas que
-
-realicen actividades sometidas a las
-
-medidas de protección previstas en
-
-los reglamentos a que se refieren
-
-los artículos 86 y 87 de esta ley y
-
-que incurran en las conductas antes
-
-señaladas. En caso de reincidencia,
-
-la sanción se duplicará.
+Las personas naturales o jurídicas que realicen actividades de acuicultura a cualquier título y entreguen información falsa acerca de la operación de los centros de cultivo de que son titulares, o sobre la condición sanitaria de los mismos referida a las enfermedades de alto riesgo, serán sancionados con multas de 500 a 3.000 UTM y suspensión de operaciones hasta por dos ciclos de cultivo consecutivos. La misma sanción será impuesta a quienes entreguen información incompleta o subreportes o entreguen información fuera de plazo, salvo que se trate en este último caso de la información a que se refiere el artículo 118 ter letra g), en cuyo evento se aplicará el procedimiento y la sanción indicada en dicha norma. Serán sancionadas de la misma forma, las personas naturales o jurídicas que realicen actividades sometidas a las medidas de protección previstas en los reglamentos a que se refieren los artículos 86 y 87 de esta ley y que incurran en las conductas antes señaladas. En caso de reincidencia, la sanción se duplicará.
 
 > **Nota.** El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que la modificación introducida al presente artículo rige a contar de sesenta días después de su publicación en el Diario Oficial.
 
@@ -6382,7 +4870,7 @@ Procederá de igual forma el Ministerio Público cuando se le denuncie la perpet
 
 #### Artículo 129
 
-Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca, equipo y traje de buceo, según corresponda, y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, quedando en poder del denunciado en calidad de depositario provisional, bajo la responsabilidad legal del artículo 470, Nº 1, del Código Penal, mientras el juez competente determine su destino, conforme las facultades establecidas en el presente artículo, con excepción de los materiales biológicos o patológicos, respecto de los cuales, salvo los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial.
+Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca, equipo y traje de buceo, según corresponda, y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, los cuales podrán quedar en poder del denunciado en calidad de depositario provisional, bajo la responsabilidad legal del artículo 470, Nº 1, del Código Penal, mientras el juez competente determine su destino, o bien ser puestos en forma inmediata a disposición del tribunal conforme las facultades establecidas en el presente artículo, con excepción de los materiales biológicos o patológicos, respecto de los cuales, salvo los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial.
 
 Podrá el juez de la causa, tratándose de especies hidrobiológicas incautadas, en su estado natural o procesadas, y actuando como representante legal de su propietario, ordenar a un almacén general de depósito u otro establecimiento similar el bodegaje de ellas y su inmediata subasta por intermedio de un martillero público que designe al efecto. El producto de la subasta, luego de descontarse el valor de los servicios de bodegaje, martillo y otros proporcionados, deberá depositarse en la cuenta corriente del tribunal en garantía del pago de las multas que pudieren ser aplicadas.
 
@@ -6936,7 +5424,7 @@ En el Consejo Zonal de la XI Región, uno representará a los armadores industri
 
 h) Tres Consejeros en representación de las organizaciones gremiales de oficiales de naves especiales; de tripulantes de naves especiales; de trabajadores de la industria, todas ellas legalmente constituidas.
 
-i) Tres consejeros en representación de las organizaciones gremiales legalmente constituidas del sector pesquero artesanal, entre los cuales deberán quedar representados, los armadores artesanales, los pescadores artesanales propiamente tales y los mariscadores o algueros.
+i) Tres consejeros en representación de las organizaciones gremiales legalmente constituidas del sector pesquero artesanal, entre los cuales deberán quedar representados, los armadores artesanales, los pescadores artesanales propiamente tales y los mariscadores o algueros. En caso que el Consejo Zonal agrupe a más de una región, cada uno de los miembros antes señalados deberá representar a lo menos a una región, independiente de la categoría de que se trate.
 
 j) Integrará también los Consejos Zonales un representante de todas las entidades jurídicas sin fines de lucro que en sus estatutos tengan como objeto fundamental, conjunta o separadamente, dos de los siguientes fines: defensa del medio ambiente o la preservación de los recursos naturales o la investigación. Este representante ante cada Consejo Zonal será designado por el Presidente de la República.
 
@@ -7132,33 +5620,9 @@ No obstante lo anterior, cuando se trate de pesquerías que no hayan alcanzado e
 
 Prohíbese la operación de barcos madres o nodrizas y pontones donde se procese la pesca, con sin propulsión, en las aguas interiores, mar territorial y zona económica exclusiva del país; prohíbese además la operación de buques transportadores de pescado en pesquerías declaradas en plena explotación, recuperación y desarrollo incipiente o con su acceso cerrado.
 
-No obstante lo anterior, el
+No obstante lo anterior, el Servicio sólo podrá autorizar el uso de embarcaciones de transporte en pesquerías contempladas en el inciso anterior, en cuyo caso deberá establecer el área de operación, el uso obligatorio de posicionamiento automático en el mar y certificación de desembarque, así como un sistema de control de la información de desembarque de la nave transportadora y de las capturas de la o las naves o pescadores a los cuales les ha transportado sus capturas.
 
-Servicio sólo podrá autorizar el uso
-
-de embarcaciones de transporte en
-
-pesquerías contempladas en el
-
-inciso anterior, en cuyo caso deberá
-
-establecer el área de operación, el
-
-uso obligatorio de posicionamiento
-
-automático en el mar y certificación
-
-de desembarque, así como un sistema
-
-de control de la información de
-
-desembarque de la nave transportadora
-
-y de las capturas de la o las naves o
-
-pescadores a los cuales les ha
-
-transportado sus capturas.
+Sin perjuicio de lo indicado en el inciso precedente, el Servicio estará facultado para autorizar que embarcaciones pesqueras artesanales que efectúen faenas de pesca en las Regiones de Los Lagos, de Aysén del General Carlos Ibáñez del Campo y de Magallanes y Antártica Chilena desarrollen, además, la actividad de embarcación de transporte, en la forma y condiciones que se fijen mediante resolución.
 
 Las infracciones a estas prohibiciones serán sancionadas conforme al artículo 115.
 
