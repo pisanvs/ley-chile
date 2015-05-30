@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 362 EXENTA, DE 2015
+
+Mediante resolución exenta Nº 362, de fecha 20.05.2015, el Serviu Región de Coquimbo dispuso declarar en estudio para expropiación el inmueble denominado Parcela 225, Colonia de Peñuelas, Coquimbo, de aparente propiedad de Jorge Osvaldo Pizarro Molina, Bella Niris Pizarro Molina, Sergio Rolacido Pizarro Molina, Waldo Alejandro Pizarro Sierra, Lorena Soledad Gloria Pizarro Sierra Y Lenia Solange Pizarro Sierra, Rol de Avalúo Nº 915-19 de la comuna de Coquimbo. El propietario, poseedores o detentadores del bien están obligados a permitir a los funcionarios de la entidad expropiante la práctica de las diligencias indispensables para el reconocimiento del inmueble, de lo contrario el Serviu podrá requerir al juez competente la fuerza pública sin forma de juicio con facultades de allanamiento y descerrajamiento según lo dispone el artículo 2 del DL 2.186/78 que aprueba la Ley Orgánica de Expropiaciones.
+
+Director (P y T) Serviu Región de Coquimbo.
