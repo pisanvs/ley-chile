@@ -56,6 +56,8 @@ Población Objetivo:
 
 - Inmunodeficiencias congénitas o adquiridas.
 
+- Hipertensión en tratamiento farmacológico.
+
 2º.- El esquema de inmunización y los establecimientos responsables de la ejecución son aquellos establecidos en el decreto Nº 6, de 2010, del Ministerio de Salud.
 
 3º.- La campaña de vacunación del año 2015 se implementará a partir del 1º de marzo hasta el 30 de junio de ese año o hasta que se haya cumplido el objetivo de 90% de cobertura a nivel nacional.
