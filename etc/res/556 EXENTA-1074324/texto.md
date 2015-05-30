@@ -94,7 +94,7 @@ Si el beneficiario o uno o más integrantes del núcleo familiar declarado estuv
 
 Conforme a los gastos que rinda, el beneficiario obtendrá un subsidio adicional de hasta 15 Unidades de Fomento en caso de compra de una vivienda nueva, y de 30 Unidades de Fomento en caso de compra de una vivienda usada, para el pago de Asistencia Técnica y los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, informe de aceptabilidad, inscripción en el Conservador de Bienes Raíces y asesoría inmobiliaria y/o legal. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas, en que estén señalados los montos gastados, junto a los demás antecedentes exigidos para el pago del subsidio.
 
-9. El Certificado de Subsidio Habitacional tendrá una vigencia de seis meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota o de Tarapacá, según corresponda.
+9. El Certificado de Subsidio Habitacional tendrá una vigencia de dieciocho meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota o de Tarapacá, según corresponda.
 
 10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
