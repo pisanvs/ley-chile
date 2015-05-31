@@ -26,7 +26,7 @@ La certificación de productos orgánicos agrícolas se regirá exclusivamente p
 
 El Sistema será de adscripción voluntaria para todos aquellos que participen, en cualquier forma, en el mercado interno y externo de productos orgánicos. Sin embargo, sólo los productores, elaboradores y demás participantes en el mercado que se hayan adscrito formalmente al Sistema y cumplan con sus normas podrán usar, en la rotulación, identificación o denominación de los productos que manejan, las expresiones "productos orgánicos" o sus equivalentes, tales como "productos ecológicos" o "productos biológicos" y utilizar el sello oficial que exprese esa calidad.
 
-En el caso de comercialización directa a los consumidores, ya sea en ferias, tiendas, mercados locales u otros, por parte de agricultores ecológicos (pequeños productores, familiares, campesinos e indígenas), insertos en procesos propios de organización y control social, previamente registrados en el organismo fiscalizador, éstos podrán tener sistemas propios y alternativos de certificación, una vez que esté asegurada a los consumidores y al órgano fiscalizador, la rastreabilidad del producto y el libre acceso a los locales de producción o procesamiento.
+En el caso de comercialización, ya sea en ferias, tiendas, mercados locales u otros, por parte de agricultores ecológicos (pequeños productores, familiares, campesinos e indígenas), insertos en procesos propios de organización y control social, previamente registrados en el organismo fiscalizador, éstos podrán tener sistemas propios y alternativos de certificación, una vez que esté asegurada a los consumidores y al órgano fiscalizador, la rastreabilidad del producto y el libre acceso a los locales de producción o procesamiento.
 
 #### Artículo 4º
 
