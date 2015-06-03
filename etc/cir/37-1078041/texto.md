@@ -1,0 +1,5 @@
+INSTRUYE SOBRE EL NUEVO RÉGIMEN DE RENTA PRESUNTA Y LAS MODIFICACIONES AL RÉGIMEN DE TRIBUTACIÓN SOBRE LAS RENTAS PROVENIENTES DE LA EXPLOTACIÓN DE BIENES RAÍCES, QUE RIGEN A CONTAR DEL 1º DE ENERO DE 2016, A RAÍZ DE LAS MODIFICACIONES EFECTUADAS POR LA LEY Nº 20.780, A LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de circular del Servicio de Impuestos internos Nº 37, de fecha 28 de mayo de 2015, la cual tiene por objeto impartir instrucciones sobre el nuevo régimen de tributación en base a renta presunta de los contribuyentes que tengan como actividad la explotación de bienes raíces agrícolas, la minería y el transporte terrestre de carga ajena o de pasajeros, conforme al nuevo texto del artículo 34 de la Ley sobre Impuesto a la Renta, modificado por la ley Nº 20.780. También se instruye sobre las modificaciones efectuadas al régimen de tributación que afecta a las rentas provenientes de la explotación de bienes raíces.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SIl en el mes de mayo de 2015.
