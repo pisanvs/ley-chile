@@ -1,0 +1,5 @@
+INCORPORA PERFIL A "CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES UNIVERSIDAD TECNOLÓGICA METROPOLITANA, UTEM"
+
+Por resolución exenta Nº90, de 10 de abril de 2015 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se incorpora al alcance de la acreditación otorgada mediante resolución exenta Nº 20, de 16 de enero de 2014 a "Centro de Evaluación y Certificación de Competencias Laborales Universidad Tecnológica Metropolitana, UTEM", RUT Nº70.729.100-1, el siguiente perfil ocupacional del Sector Suministro de Gas, Electricidad y Agua, Subsector Electricidad: Instalador Eléctrico (P-4322-7411-001-V02).
+
+Ximena Concha Bañados, Secretaria Ejecutiva Comisión del Sistema Nacional de Certificación de Competencias Laborales.
