@@ -1,0 +1,5 @@
+INSTRUYE SOBRE EL CRÉDITO ESTABLECIDO POR LA LEY Nº20.780, POR LOS DESEMBOLSOS QUE EFECTÚEN LOS CONTRIBUYENTES DIRECTAMENTE RELACIONADOS CON LA IMPLEMENTACIÓN Y APLICACIÓN DE LOS SISTEMAS DE MARCACIÓN Y TRAZABILIDAD QUE DICHA LEY ESTABLECE
+
+Extracto de circular del Servicio de Impuestos Internos Nº36, de fecha 27 de mayo de 2015, la cual tiene por objeto impartir instrucciones sobre la aplicación del crédito de carácter tributario que procede por los desembolsos directamente relacionados con la implementación y aplicación de los sistemas de trazabilidad o marcación de bienes o productos establecidos en el artículo 13 bis del decreto ley Nº828 de 1974 y en el artículo 60 quinquies del Código Tributario.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2015.
