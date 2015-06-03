@@ -44,9 +44,11 @@ c) Declaración del monto total de ingresos del núcleo familiar. El número de 
 
 5. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la adscripción al respectivo proyecto calificado por parte del postulante seleccionado.
 
-6. Mediante resolución de la Secretaría Regional Ministerial de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de seleccionados, la que deberá ser informada con fecha máxima al 31 de marzo de 2015, a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+6. Mediante resolución de la Secretaría Regional Ministerial de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de seleccionados, la que deberá ser informada con fecha máxima al 31 de mayo de 2015, a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 7. Impútese el monto total de 141.750 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región de Tarapacá, para el Programa de Reconstrucción del Fondo Solidario de Elección de Vivienda del año 2015.
+
+> **Nota.** La resolución 3781 Exenta, Vivienda, publicada el 02.06.2015, modifica la presente norma, en el sentido de reemplazar en su Resuelvo 7, la expresión "31 de marzo" por la expresión "31 de mayo", sin embargo, dicho resuelvo no contiene la referencia señalada, por lo que el texto fue actualizado en su resuelvo 6, que si la contiene.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
