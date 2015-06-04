@@ -66,6 +66,6 @@ Resolución:
 
 4. Publíquese a lo menos en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener a lo menos, la comuna, el Título y la modalidad de proyecto del cual se trate, y la individualización de cada postulante.
 
-5. Impútase el monto total de 251.145,5 Unidades de Fomento, asignados mediante esta resolución, a los recursos dispuestos para el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2014, y de Reconstrucción, para esta región.
+5. Impútase el monto total de 251,037,24 Unidades de Fomento, asignados mediante esta resolución, a los recursos dispuestos para el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2014, y de Reconstrucción, para esta región.
 
 Anótese, comuníquese, publíquese y archívese.- Ricardo Carvajal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
