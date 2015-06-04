@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº124 EXENTA, DE 2015, QUE MODIFICA RESOLUCIÓN N°215 EXENTA, DE 2014, QUE OTORGÓ RECONOCIMIENTO OFICIAL A LA ESCUELA DE CONDUCTORES PROFESIONALES "LEIVA Y ORTIZ LIMITADA"
+
+Por resolución exenta Nº 124, de 22 de abril de 2015, se modificó la resolución exenta Nº215, de 23 de mayo de 2014, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, mediante la cual se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Leiva y Ortiz Limitada", nombre de fantasía "Surcentral Limitada", RUT Nº76.105.466-K, representada legalmente por doña Mariela de Lourdes Ortiz Plaza, RUT Nº12.131.451-7 y don Rodrigo Andrés Leiva Agurto, RUT Nº 13.716.966-5, para impartir cursos conducentes a la obtención de licencias de conductor profesional clase A-2 y A-4, en el sentido de cambiar el taller mecánico, ubicándose el nuevo taller en calle O'Higgins Nº2330, de la comuna de Chiguayante.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
