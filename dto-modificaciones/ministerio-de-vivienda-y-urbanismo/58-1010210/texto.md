@@ -32,7 +32,7 @@ Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamient
 
 #### Artículo transitorio
 
-En tanto los Planes Reguladores Comunales no establezcan la dotación de estacionamientos para bicicletas a que se refiere el artículo 2.4.1. bis de la Ordenanza General de Urbanismo y Construcciones, agregado por el presente decreto, los edificios de uso público que se proyecten con una carga de ocupación superior a 1.000 personas deberán incluir, como mínimo, una estructura para estacionamiento de bicicletas con capacidad para estacionar 1 bicicleta por cada 10 estacionamientos para vehículos motorizados que contemple el proyecto, los que deberán estar emplazados a no más de 50 metros de distancia a alguno de los accesos a la edificación, y contar con implementos de sujeción que permitan su fijación mediante cerraduras, llaves o similares.
+DEROGADO
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 

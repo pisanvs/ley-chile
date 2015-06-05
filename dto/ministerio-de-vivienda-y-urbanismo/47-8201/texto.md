@@ -72,7 +72,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Calle ciega»: la que tiene acceso solamente a una vía.
 
-«Calzada»: parte de una vía destinada al tránsito de vehículos.
+«Calzada»: parte de una vía destinada a la circulación de vehículos motorizados y no motorizados.
 
 «Capacidad máxima de edificación»: margen volumétrico máximo construible en cada predio, resultado de la aplicación de las normas sobre línea de edificación, rasantes, distanciamientos, alturas, coeficientes de ocupación de suelo, constructibilidad, densidad y demás normas urbanísticas, con sus respectivas normas de beneficios especiales en cada caso.
 
@@ -88,7 +88,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Centro de servicio automotor»: recinto destinado a la prestación de servicios para vehículos que no signifiquen labores de taller mecánico.
 
-«Ciclovía»: vía destinada exclusivamente al tránsito de vehículos menores, tales como, bicicletas, motos de baja cilindrada, triciclos y otros, cuyas características pueden corresponder a las de ciclopistas o a las de ciclobandas.
+«Ciclovía»: Se estará a lo dispuesto en el inciso octavo del artículo 2º de la ley de tránsito Nº18.290, o sus modificaciones.
 
 «Coeficiente de constructibilidad»: número que multiplicado por la superficie total del predio, descontadas de esta última las áreas declaradas de utilidad pública, fija el máximo de metros cuadrados posibles de construir sobre el terreno.
 
@@ -138,7 +138,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Desmonte»:rebaje de terrenos no rocosos en la ladera de un cerro, que no requiere refuerzo estructural.
 
-«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
+«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.".
 
 «Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
@@ -160,7 +160,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificio comercial»: el destinado principalmente al comercio de mercaderías.
 
-«Edificio de estacionamiento»: el destinado a guardar uno o más automóviles u otros vehículos motorizados.
+«Edificio de estacionamiento»: el destinado a guardar vehículos motorizados y/o no motorizados.
 
 «Edificio de oficinas»: el conformado por recintos destinados a la prestación de servicios profesionales, administrativos, financieros, de seguros, intermediación de intangibles y otros análogos.
 
@@ -202,7 +202,7 @@ a 100 personas.
 
 «Estudio de seguridad»: evaluación de las condiciones de seguridad que ofrece una construcción o un proyecto de construcción a sus posibles ocupantes, suscrito por un profesional competente.
 
-«Fachada»: cualquiera de los paramentos exteriores de un edificio.
+«Fachada»: cualquiera de los paramentos exteriores de un edificio.".
 
 «Fachada con vano»: paramento exterior de una edificación, desde el suelo natural hasta su punto más alto, que incluye entrantes y salientes, tales como puertas, ventanas, bow-windows, balcones, terrazas, azoteas, loggias, escaleras y pasillos exteriores, salvo que los vanos se ubiquen a una altura superior a 1,8 m con respecto al nivel interior del piso que sirven.
 
@@ -212,7 +212,9 @@ a 100 personas.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
+
+Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instalación de publicidad»: todo elemento publicitario ubicado en la vía pública o que pueda ser visto u oído desde la misma.
 
@@ -262,7 +264,7 @@ a 100 personas.
 
 «Norma oficial»: DEROGADO.
 
-«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).
+«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
@@ -424,13 +426,13 @@ a 100 personas.
 
 «Unidad funcional independiente»: la que, formando parte de una edificación colectiva, permite su utilización en forma independiente del resto de la edificación, tales como departamentos, oficinas y locales comerciales, sin perjuicio de que se acceda a ella a través de espacios de uso común.
 
-«Urbanizar»: ejecutar el pavimento de las calles y pasajes, las plantaciones y obras de ornato, las instalaciones sanitarias y energéticas, con sus obras de alimentación y desagües de aguas servidas y aguas lluvias, y las obras de defensa y de servicio del terreno.
+«Urbanizar»: ejecutar, ampliar o modificar cualquiera de las obras señaladas en el artículo 134 de la Ley General de Urbanismo y Construcciones que correspondan según el caso, en el espacio público o en el contemplado con tal destino en el respectivo Instrumento de Planificación Territorial o en un proyecto de loteo.
 
 «Uso de suelo»: conjunto genérico de actividades que el Instrumento de Planificación Territorial admite o restringe en un área predial, para autorizar los destinos de las construcciones o instalaciones.
 
 «Vereda»: parte pavimentada de la acera.
 
-«Vía»: espacio destinado al tránsito.
+«Vía»: espacio destinado a la circulación de vehículos motorizados y no motorizados y/o peatones.
 
 «Vía de evacuación»: circulación horizontal y vertical de un edificio, que permite la salida fluida de personas en situaciones de emergencia, desde el acceso de cada unidad hasta un espacio exterior libre de riesgo, comunicado a la vía pública.
 
@@ -438,7 +440,7 @@ a 100 personas.
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -2234,7 +2236,7 @@ b) Sus calzadas permiten desplazamientos a grandes distancias, con una recomenda
 
 c) Tiene gran capacidad de desplazamiento de flujos vehiculares, mayor a 4.000 vehículos/hora considerando ambos sentidos.
 
-d) Flujo predominante de automóviles, con presencia de locomoción colectiva y vehículos de carga. Prohibición de circulación para vehículos de tracción animal y humana.
+d) Flujo predominante de automóviles, con presencia de locomoción colectiva y vehículos de carga. Prohibición de circulación para vehículos de tracción animal.
 
 e) Sus cruces con otras vías o con circulaciones peatonales preferentemente deberán ser a distintos niveles.
 
@@ -2252,7 +2254,7 @@ k) Debe estar conformada por un solo cauce, bidireccional, debidamente canalizad
 
 l) En general deben consultar vías locales, que estarán provistas de aceras en su lado exterior, de un ancho mínimo de 4 m.
 
-m) No se contempla en ellas la existencia de ciclovías.
+m) ELIMINADA.
 
 2. Vía troncal:
 
@@ -2262,7 +2264,7 @@ b) Sus calzadas permiten desplazamientos a grandes distancias, con una recomenda
 
 c) Tiene alta capacidad de desplazamiento de flujos vehiculares, mayor a 2.000 vehículos/hora, considerando ambos sentidos.
 
-d) Flujo predominante de locomoción colectiva y automóviles. Restricción para vehículos de tracción animal y humana.
+d) Flujo predominante de locomoción colectiva y automóviles. Restricción para vehículos de tracción animal.
 
 e) Sus cruces con otras vías o circulaciones peatonales pueden ser a cualquier nivel, manteniéndose la preferencia de esta vía sobre las demás, salvo que se trate de cruces con vías expresas, las cuales siempre son preferenciales. Sus cruces a nivel con otras vías troncales deben ser controlados.
 
@@ -2284,7 +2286,7 @@ k) Puede estar conformada por un solo cauce, bidireccional, con o sin mediana, o
 
 l) Deberán existir aceras a ambos costados, cada una de ellas de 3,5 de ancho mínimo, en su condición más desfavorable.
 
-m) En el caso de existir ciclovías, ellas deben ser ciclopistas.
+m) ELIMINADA.
 
 3. Vía colectora:
 
@@ -2316,7 +2318,7 @@ k) Puede estar conformada por un sólo cauce, bidireccional, con o sin mediana, 
 
 l) Deberán existir aceras a ambos costados, cada una de ellas de 3 m de ancho mínimo.
 
-m) Puede o no existir ciclovías.
+m) ELIMINADA.
 
 4. Vía de servicio:
 
@@ -2344,7 +2346,7 @@ k) Debe estar conformada por un sólo cauce.
 
 l) Deberán existir aceras a ambos costados, cada una de ellas de 2,5 m de ancho mínimo, en su condición más desfavorable.
 
-m) Puede no existir ciclovías.
+m) ELIMINADA.
 
 5. Vía local:
 
@@ -2372,9 +2374,11 @@ k) Cuando este tipo de vía cuente con acceso desde un solo extremo, la mayor di
 
 l) Deberán existir aceras a ambos costados, cada una de allas de 2 m de ancho mínimo.
 
-m) No se contempla en ella la presencia de ciclovías.
+m) ELIMINADA.
 
-Con todo, tratándose de vías urbanas existentes, para la ejecución de un proyecto de pavimentación, de mejoramiento del estándar de la calzada, de repavimentación, reparación, remodelación, adecuación de los perfiles existentes o implementación de ciclovías, no será requisito cumplir con los criterios, condiciones y estándares de diseño que se establecen en el inciso primero de este artículo, siempre que se cumpla como mínimo con los siguientes requisitos, según corresponda:
+En las vías expresas, troncales, colectoras y de servicio estarán permitidas las ciclovías, siempre que cumplan los requisitos de segregación contemplados en el artículo 2.3.2. bis de esta Ordenanza. En las vías locales, no se requerirá segregación
+
+Con todo, tratándose de vías urbanas existentes, para la ejecución de un proyecto de pavimentación, de mejoramiento del estándar de la calzada, de repavimentación, reparación, remodelación, adecuación de los perfiles existentes redistribución del espacio de la calzada, medidas de gestión de velocidad o implementación de ciclovías, no será requisito cumplir con los criterios, condiciones y estándares de diseño que se establecen en el inciso primero de este artículo, siempre que se cumpla como mínimo con los siguientes requisitos, según corresponda:
 
 a) En las vías de una pista que contemplen locomoción colectiva, el ancho mínimo de su calzada pavimentada no será inferior a 6,50 metros.
 
@@ -2384,9 +2388,25 @@ b) En las vías de una pista que no contemplen locomoción colectiva, el ancho m
 
 c) En las vías de una pista que contemplen flujo eventual de vehículos, el ancho mínimo de su calzada pavimentada no será inferior a 4,00 metros.
 
+d) Tratándose de la implementación de ciclovías, observar las características de segregación referidas en el numeral 2 del artículo 2.3.2 bis, debiendo aplicarse conforme a la velocidad fijada por la autoridad respectiva
+
 En los casos a que se refieren las letras a), b) y c), precedentes, deberán contemplarse aceras a ambos costados, cada una de ellas de un ancho mínimo de 2,00 metros. Excepcionalmente y por razones fundadas, el Servicio de Vivienda y Urbanización respectivo, podrá autorizar la disminución de este ancho.
 
-Las ciclovías serán permitidas en todas las vías existentes, debiendo ubicarse preferentemente en el espacio de las aceras.
+INCISO DEROGADO
+
+#### Artículo 2
+
+3.2. bis. Las ciclovías se definirán considerando las siguientes características:
+
+1.- Deben formar parte de la calzada de una vía. Excepcionalmente, cuando se requiera conectar ciclovías, podrán ubicarse en la mediana o en un bandejón, o como parte de la acera, sin afectar la vereda.
+
+2.- Deberán contemplar elementos de segregación según la velocidad de diseño de la vía en que se emplazan, de acuerdo al siguiente detalle:
+
+a) En vías con velocidades de diseño mayores a 50 km/h la ciclovía requerirá segregación física, que consistirá en una franja demarcada de seguridad de mínimo 50 cm de ancho, en cuyo eje se dispondrán elementos separadores que impidan su invasión lateral por vehículos motorizados, pero que permitan su atravieso a los vehículos a energía humana que transitan por la ciclovía. Los separadores deberán inscribirse en una envolvente definida por ángulos de 45º aplicados en los bordes de la franja de seguridad y un plano paralelo al pavimento de la calzada a 50 cm de altura; deberán tener características geométricas y de materialidad que minimicen los efectos sobre los usuarios de la ciclovía en caso de caídas y deberán tener elementos reflectantes y ser preferentemente desmontables, para permitir la mantención de la calzada.
+
+b) En vías con velocidades de diseño entre 30 y 50 km/h la ciclovía requerirá sólo una segregación visual, que consistirá en una franja demarcada de seguridad de entre 30 y 50 cm de ancho, en cuyo eje se dispondrán tachas o tachones viales reflectantes a una distancia no mayor a 1 m entre sí.
+
+c) Las vías con velocidad de diseño inferior a 30 km/h no requerirán ciclovías segregadas.
 
 #### Artículo 2
 
@@ -2446,7 +2466,7 @@ Excepcionalmente, en los casos de predios interiores se podrá aceptar que acced
 
 #### Artículo 2
 
-3.7. Las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, al efectuar los estudios de la vialidad urbana necesarios para la elaboración de los Planes Reguladores Intercomunales o Metropolitanos, deberán considerar las indicaciones contenidas en el Volumen 3 "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana", del Manual de Vialidad Urbana, aprobado por D.S. Nº12, del Ministerio de Vivienda y Urbanismo, de 1984, o en el instrumento que lo reemplace.
+3.7. Las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, al efectuar los estudios de la vialidad urbana necesarios para la elaboración de los Planes Reguladores Intercomunales o Metropolitanos, considerarán en su calidad de carácter indicativo, las recomendaciones contenidas en el Manual de Vialidad Urbana, aprobado por DS Nº 827, de 2008, del Ministerio de Vivienda y Urbanismo, o en el instrumento que lo reemplace, en tanto tales indicaciones no se contrapongan con esta Ordenanza.
 
 Asimismo, los Planes Reguladores Intercomunales o Metropolitanos podrán disponer las condiciones de diseño que deberán considerar los Planes Reguladores Comunales o Seccionales en las intervenciones que contemplaren sobre las vías propias del nivel superior de planificación territorial.
 
@@ -2480,21 +2500,23 @@ Los proyectos de ampliación deberán cumplir con la dotación de estacionamient
 
 #### Artículo 2
 
-4.1. bis El Plan Regulador Comunal podrá considerar una dotación mínima de estacionamientos para bicicletas, a los cuales sólo les serán aplicables las disposiciones de este artículo.
+4.1. bis Asimismo, todo edificio que se construya deberá proyectarse con una dotación mínima de estacionamientos para bicicletas, de acuerdo a lo que fije el Plan Regulador Comunal en función de la carga de ocupación o de la cantidad de estacionamientos para automóviles del proyecto. Esta exigencia podrá cumplirse descontando parte de los estacionamientos requeridos para automóviles según la proporción que determine el mismo instrumento de planificación.
 
-Los estacionamientos para bicicletas deberán tener un ancho mínimo de 0,5 m. y 1,5 m. de largo. Dicho ancho mínimo podrá reducirse hasta en un 20% cuando los estacionamientos para bicicletas se dispongan como estacionamientos que se enfrenten y ocupen la misma estructura de apoyo.
+Los estacionamientos para bicicletas deberán ubicarse preferentemente a nivel de la vía que da acceso al edificio, o en su defecto, se deberán proveer los medios adecuados a su acceso expedito para adultos mayores y niños, tales como rampas de pendiente inferior a 15º y/o ascensores.
 
-Los estacionamientos para bicicletas deberán contar con una estructura de apoyo y se dispondrán de manera horizontal, oblicua o vertical sobre el piso o muros, debiendo disponerse de los implementos de sujeción que permitan su fijación mediante cerraduras, llaves o similares.
+Los estacionamientos para bicicletas deberán tener un ancho mínimo de 0,5 m y un largo mínimo de 1,5 m, no podrán ubicarse sobrepuestos y deberán contar con una estructura de apoyo que permita la sujeción y amarre de las bicicletas en al menos el marco y otro punto.
 
-Los estacionamientos para bicicletas deberán estar emplazados a no más de 50 metros de distancia a algunos de los accesos a la edificación que genera la obligación.
+Asimismo, deberán estar emplazados a no más de 50 metros de distancia de alguno de los accesos peatonales a la edificación que genera la obligación.
 
 Las exigencias de estacionamientos para bicicletas deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios que consulten estacionamientos para bicicletas y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio.
 
 Para los casos de estacionamientos para bicicletas ubicados en otros predios, la distancia entre los accesos de uno y otro inmueble, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 50 m.
 
-Tratándose del cumplimiento de las exigencias de estacionamientos en otros predios, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos.
+Tratándose del cumplimiento de la exigencia de estacionamientos en otros predios o edificaciones, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos y en caso de término del arriendo o transferencia del dominio de la propiedad, deberá reemplazarlo por otro título o contrato que garantice la continuidad de la obligación.
 
-Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamientos para bicicletas a la vivienda unifamiliar.
+Excepcionalmente, y sólo en aquellos casos que el proyecto no pueda dar cumplimiento al distanciamiento a que se refiere el inciso cuarto de este artículo, los estacionamientos para bicicletas podrán emplazarse en el espacio público, previa autorización expresa de la municipalidad respectiva.
+
+Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamientos para bicicletas a la vivienda unifamiliar
 
 #### Artículo 2
 
@@ -6214,7 +6236,7 @@ Las edificaciones construidas o que se construyan al interior de terminales de s
 
 #### Artículo 4
 
-13.3. Los accesos a los terminales de servicios de locomoción colectiva urbana, así como los espacios interiores, deberán diseñarse y construirse de acuerdo con los criterios técnicos contenidos en el Manual de Vialidad Urbana "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana" (Redevu), aprobado por el Ministerio de Vivienda y Urbanismo, mediante DS Nº 12 (V. y U.) de 1984.
+13.3. Los accesos a los terminales de servicios de locomoción colectiva urbana, así como los espacios interiores, deberán diseñarse y construirse de acuerdo con los criterios técnicos contenidos en el Manual de Vialidad Urbana "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana" (Redevu), aprobado por DS Nº827, de 2008, del Ministerio de Vivienda y Urbanismo, o en el instrumento que lo reemplace, en tanto tales indicaciones no se contrapongan con esta Ordenanza.
 
 #### Artículo 4
 
