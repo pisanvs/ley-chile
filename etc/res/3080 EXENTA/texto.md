@@ -36,7 +36,7 @@ La condición de las plagas bajo control oficial de erradicación , una vez logr
 
 #### Artículo Sexto
 
-El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis y Globodera pallida genera un área libre de plagas, indicadas en el artículo vigésimo primero, y cuya reglamentación se regirá por las Resoluciones específicas en esta materia.
+El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis, Globodera pallida y Phoma exigua var. Foveata genera un área libre de plagas, indicadas en el artículo vigésimo primero, y cuya reglamentación se regirá por las Resoluciones específicas en esta materia.
 
 #### Artículo Séptimo
 
@@ -104,11 +104,11 @@ ctavo: Se faculta a los inspectores del Servicio, destacados en los puertos de i
 
 noveno: Todas las personas naturales o jurídicas que detecten plagas cuarentenarias listadas en los Artículos vigésimo y vigésimo primero, o plagas no listadas consideradas ausentes del territorio nacional, están obligadas a declarar su presencia al Servicio, en forma inmediata a su detección, no pudiendo publicar su determinación hasta tanto no se tenga conocimiento y se realice la verificación y determine oficialmente la situación de la plaga en el territorio nacional y se evalúe su factibilidad de control oficial.
 
-Artículo Vigésimo: Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental:
+Artículo vigésimo: Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental:
 
-.
+..
 
-Artículo Vigésimo Primero: La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación:
+Artículo vigésimo primero: La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometidas a control oficial de contención, supresión o erradicación:
 
 .
 
