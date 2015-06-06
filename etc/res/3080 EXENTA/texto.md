@@ -48,7 +48,7 @@ La condición de las plagas bajo control oficial de erradicación , una vez logr
 
 <!-- parte:8428200 -->
 
-El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis y Globodera pallida genera un área libre de plagas, indicadas en el artículo vigésimo primero, y cuya reglamentación se regirá por las Resoluciones específicas en esta materia.
+El control oficial de contención de las plagas Thecaphora (Angiosorus) solani, Ralstonia solanacearum (raza 3, biovar 2), Globodera rostochiensis, Globodera pallida y Phoma exigua var. Foveata genera un área libre de plagas, indicadas en el artículo vigésimo primero, y cuya reglamentación se regirá por las Resoluciones específicas en esta materia.
 
 #### Artículo séptimo
 
@@ -150,13 +150,13 @@ Todas las personas naturales o jurídicas que detecten plagas cuarentenarias lis
 
 Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental:
 
-.
+..
 
 #### Artículo vigésimo primero
 
 <!-- parte:8428215 -->
 
-La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación:
+La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometidas a control oficial de contención, supresión o erradicación:
 
 .
 
