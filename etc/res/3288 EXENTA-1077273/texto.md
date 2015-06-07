@@ -178,19 +178,19 @@ En cuanto a la etapa de Seguimiento de resultados y respuestas a los ciudadanos,
 
 #### Artículo 8º
 
-Materias de Interés Ciudadano para el Sector Vivienda y consulta simplificada. Se requerirá conocer la opinión de las personas a través de una consulta ciudadana virtual en las propuestas de modificaciones de la Ordenanza General de Urbanismo y Construcciones (OGUC), en virtud del interés ciudadano que éstas revisten. Para estos efectos la propuesta deberá publicarse en el sitio web institucional del MINVU, acompañada por una breve minuta que explique su lógica y contenido, en un lenguaje claro y accesible. La minuta describirá el problema o necesidad que motiva la elaboración o modificación de la política, plan, proyecto o normativa, los objetivos perseguidos, la propuesta en sí misma y los efectos esperados. Se incluirá, además, un recuadro comparado con la redacción actual y la nueva redacción que se propone.
+Materias de Interés Ciudadano para el Sector Vivienda y consulta simplificada. Se requerirá conocer la opinión de las personas a través de una consulta ciudadana virtual en las propuestas de modificaciones de la Ordenanza General de Urbanismo y Construcciones (OGUC), en virtud del interés ciudadano que éstas revisten. Para estos efectos la propuesta deberá publicarse en el sitio web institucional del MINVU, acompañada por una breve minuta que explique su lógica y contenido, en un lenguaje claro y accesible. La minuta describirá el problema o necesidad que motiva la modificación, sus objetivos, la propuesta en sí misma y los efectos esperados. Se incluirá, además, un recuadro comparado con la redacción actual y la nueva redacción que se propone.
 
-Cuando la naturaleza de la modificación de la OGUC o razones de interés público exijan una tramitación urgente, o en los casos en que la comprensión de su contenido requiera de conocimientos técnicos o especializados, podrá realizarse una consulta simplificada en reemplazo de la regulada en el artículo 7º, la que estará dirigida a organizaciones que estén especialmente afectadas por la medida o puedan suministrar antecedentes que contribuyan a su perfeccionamiento. La consulta simplificada deberá realizarse de manera informada, pluralista y representativa y contemplará, al menos:
+Cuando la naturaleza de la modificación de la OGUC o razones de interés público exijan una tramitación urgente, la consulta podrá omitirse consignando las razones en los considerandos de aquélla. Con todo, en estos casos y en aquéllos en que la comprensión del contenido de la modificación requiera de conocimientos técnicos o especializados, podrá realizarse una consulta simplificada en reemplazo de la regulada en el artículo 7º, la que estará dirigida a organizaciones que estén especialmente afectadas por la medida o puedan suministrar antecedentes que contribuyan a su perfeccionamiento. La consulta simplificada deberá realizarse de manera informada, pluralista y representativa y contemplará, al menos:
 
 a) La remisión de la propuesta de modificación a las organizaciones que participen en ella;
 
-b) La entrega de un plazo a dichas organizaciones, de al menos cinco días hábiles, para que formulen sus observaciones o aportes; y
+b) La entrega de un plazo a dichas organizaciones, de al menos cinco días hábiles, para que formulen sus observaciones o aportes, y
 
 c) La publicación en el sitio web del MINVU de la propuesta y de las observaciones o aportes recibidos.
 
 #### Artículo 9º
 
-Materias en que pueden realizarse consultas públicas. El Ministerio de Vivienda y Urbanismo y las SEREMI podrán también efectuar consultas ciudadanas respecto de otros temas o materias, como, por ejemplo:
+Materias en que pueden realizarse consultas públicas. El Ministerio de Vivienda y Urbanismo y las SEREMI podrán también efectuar consultas ciudadanas virtuales, presenciales o simplificadas respecto de otros temas o materias, como, por ejemplo:
 
 a) Políticas, planes y programas;
 
@@ -200,7 +200,7 @@ c) Proyectos y planes de inversión, tanto habitacionales como urbanos;
 
 d) Aspectos relativos a la gestión interna y la calidad de los servicios que se entregan a las personas y
 
-e) Aquellos que la legislación determine que son materia de participación ciudadana.
+e) Aquéllos que la legislación determine que son materia de participación ciudadana.
 
 ### 5. Del Consejo de la Sociedad Civil
 
