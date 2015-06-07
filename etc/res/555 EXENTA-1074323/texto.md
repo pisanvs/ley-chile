@@ -12,11 +12,11 @@ Considerando: Que a causa de los incendios acaecidos con fecha 12, 13 y 14 de ab
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales en la Región de Valparaíso, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto habitacional, para proyectos habitacionales que incluyan familias damnificadas por el incendio acaecido en la comuna de Valparaíso el mes de abril del año 2014, y que cuenten con Certificado de Calificación hasta el día 1º de junio de 2015.
+1. Llámase a concurso en condiciones especiales en la Región de Valparaíso, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva con proyecto habitacional, para proyectos habitacionales que incluyan familias damnificadas por el incendio acaecido en la comuna de Valparaíso el mes de abril del año 2014, y que cuenten con Certificado de Calificación hasta el día 30 de junio de 2015.
 
 2. Para completar la cabida y proceder a la selección de los proyectos, deberá realizarse el siguiente proceso:
 
-a) Entre el 2º y 12 de junio de 2015, el SERVIU organizará una exposición para que los damnificados puedan conocer los proyectos calificados para su posterior inscripción.
+a) A medida que los proyectos sean calificados, el SERVIU organizará una exposición para que los damnificados puedan conocerlos para su posterior inscripción.
 
 b) Concluida la exposición a que se refiere el literal anterior, las familias podrán vincularse a los proyectos calificados.
 
