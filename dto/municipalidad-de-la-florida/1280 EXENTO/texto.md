@@ -10,7 +10,7 @@ Vistos:
 
 3. El Plan Regulador Comunal de La Florida aprobado por resolución Nº 47 de fecha 6 de diciembre de 2000 del Gobierno Regional Metropolitano, publicado en el Diario Oficial el 17 de agosto de 2001 y sus rectificaciones, enmiendas y modificaciones posteriores.
 
-4. El decreto Nº 129 de 29 de agosto de 2014; el decreto exento Nº 533 de 198 de febrero de 2015, en general, lo dispuesto en la ley Nº 19.880, sobre bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado y las facultades que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades.
+4. El decreto Nº 129 de 29 de agosto de 2014; el decreto exento Nº 533 de 18 de febrero de 2013, en general, lo dispuesto en la ley Nº 19.880, sobre bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado y las facultades que me confiere la ley Nº 18.695, Orgánica Constitucional de Municipalidades.
 
 Considerando:
 
