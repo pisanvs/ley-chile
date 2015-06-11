@@ -32,7 +32,7 @@ Patente : FWST 82-9
 
 2. Exímase del uso del disco distintivo estatal establecido en el inciso 1º del artículo 3º del decreto ley Nº799, de 1974, del Ministerio del Interior, al vehículo Station Wagon Hyundai New Tucson GL 2.0, Placa Patente Nº FWST 82-9, arrendado por el Servicio Agrícola y Ganadero.
 
-3. Autorízase para que el vehículo antes señalado sea guardado, de manera excepcional y en casos debidamente informados y calificados por el Director Nacional del Servicio Agrícola y Ganadero, en el domicilio particular del funcionario Víctor Eduardo Farías Cavieres, quien tiene a su cargo la conducción habitual del mismo, ubicado en Alfredo Rosende Nº 974, comuna de Recoleta.
+3.- Autorízase para que el vehículo antes señalado sea guardado, de manera excepcional y en casos debidamente informados y calificados por el Director Nacional del Servicio Agrícola y Ganadero, en el domicilio particular del funcionario Manuel Moreno Jaña, quien tiene a su cargo la conducción habitual del mismo, ubicado en calle 9 de Julio Nº 5989, Block 33, Departamento 20, Comuna de Lo Prado.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Furche G., Ministro de Agricultura.- Rodrigo Peñailillo Briceño, Ministro del Interior y Seguridad Pública.
 
