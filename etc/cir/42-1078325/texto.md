@@ -1,0 +1,5 @@
+MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.780, DE 29 DE SEPTIEMBRE DE 2014, RELACIONADAS CON LA INCLUSIÓN EN LA NORMATIVA TRIBUTARIA DEL IMPUESTO AL VALOR AGREGADO EN LA VENTA DE INMUEBLES EFECTUADA POR VENDEDORES HABITUALES
+
+Extracto de circular del Servicio de Impuestos Internos N° 42 del 5 de junio de 2015, sobre modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 2°, 8°, 9°, 12° letra F, 16° letras D y G, 18°,19°, y 23° N° 6 del D.L. N° 825, de 1974, y normas transitorias respectivas, relacionadas con la inclusión en la normativa tributaria sobre el Impuesto al Valor Agregado en la venta de inmuebles efectuada por vendedores habituales.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio, de 2015.
