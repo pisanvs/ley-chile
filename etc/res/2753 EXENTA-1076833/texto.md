@@ -32,11 +32,7 @@ Resolución:
 
 1.1 Este subsidio se asignará a las familias que cumplan con todos los requisitos que establece esta resolución, una vez que éstos concurran a las oficinas del SERVIU respectivo para hacerlo efectivo y manifiesten formalmente su interés en recibirlo. Lo anterior será sancionado posteriormente a través de resoluciones de asignación que apruebe las nóminas de beneficiados, las que serán publicadas en el Diario Oficial y en la página web del Ministerio de Vivienda y Urbanismo.
 
-1.2 Las familias podrán participar de este llamado, retirando sus tarjetas de los SERVIU respectivos hasta el día 30 de septiembre del presente año, o hasta agotarse los recursos disponibles para este llamado, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
-
-No obstante lo anterior, el último día que Serviu podrá entregar tarjetas será el 21 de diciembre de 2015, aun cuando existan recursos disponibles para el llamado.
-
-1.3 La vigencia de los subsidios entregados a través de esta resolución será hasta el 1° de agosto de 2016
+1.2 Las familias podrán participar de este llamado hasta el día 30 de noviembre del presente año o hasta agotarse los recursos disponibles para este llamado, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
 
 2. Solo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo que afectó a la Región de Atacama y las comunas de Antofagasta y Taltal de la Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con daño reparable leve, tras la aplicación de la Ficha de Catastro extendida por el SERVIU, lo que será verificado por SERVIU en línea al momento de la postulación. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 5 días hábiles para efectuarlo.
 
@@ -80,11 +76,11 @@ No obstante lo anterior, el último día que Serviu podrá entregar tarjetas ser
 
 Región Unidades de Fomento
 
-Antofagasta 36.355,85
+Antofagasta 38.600
 
-Atacama 143.487,49
+Atacama 130.000
 
-Total 179.843,34
+Total 168.600
 
 El número de familias beneficiadas en cada Región, alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, efectuándose la asignación por orden de llegada, siempre que cumplan los requisitos que se establecen en esta resolución, hasta enterar el total de los recursos disponibles para la respectiva región.
 
