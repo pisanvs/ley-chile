@@ -130,9 +130,9 @@ c) En el sentido Sur Oriente-Sur, a través de las siguientes vías, Avenida Cop
 
 Chañaral:
 
-* El tramo urbano de la Ruta 5, Longitudinal Norte, desde el Límite Urbano Nororiente hasta el Límite Urbano Poniente de Chañaral, a través de Ruta 5, Longitudinal Norte.
+. El tramo urbano de la Ruta 5, Ruta 5 Norte Longitudinal, desde el límite urbano nororiente hasta el límite urbano poniente, a través de Ruta 5 Norte Longitudinal y su variante, a través de: Diego de Almeyda, Merino Jarpa y su futura conexión con Ruta 5 Norte Longitudinal.
 
-* El tramo urbano de la Ruta C-120, Chañaral - Pan de Azúcar, desde el Límite Urbano Norte de Chañaral hasta su intersección con la Ruta 5, a través del Camino Chañaral - Pan de Azúcar.
+. El tramo urbano de la Ruta C-120, Chañaral - Pan de Azúcar, desde el límite urbano norte hasta su intersección Ruta 5 Norte Longitudinal, a través del Camino Chañaral - Pan de Azúcar.
 
 Vallenar:
 
