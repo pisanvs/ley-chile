@@ -478,7 +478,7 @@ Tratándose de normas técnicas de instalaciones o de urbanización, deberán se
 
 1.6. En las Secretarías Regionales Ministeriales de Vivienda y Urbanismo se mantendrán, a disposición de las personas que lo soliciten, los siguientes documentos:
 
-1. Los pronunciamientos que éstas emitan en cumplimiento de las facultades que les otorga la Ley General de Urbanismo y Construcciones.
+1. Los pronunciamientos que éstas emitan en cumplimiento de las facultades que les otorga la Ley General de Urbanismo y Construcciones. Las interpretaciones que efectúen a los Instrumentos de Planificación Territorial, deberán estar publicadas en los sitios web de cada una de las respectivas Secretarías Regionales Ministeriales.
 
 2. Los planos, ordenanzas y memorias explicativas de los planes reguladores intercomunales, comunales y seccionales de la respectiva región, incluyendo sus modificaciones y enmiendas.
 
@@ -1000,11 +1000,11 @@ A contar del inicio del proceso de aprobación de un proyecto de Instrumento de 
 
 Sólo se considerarán copias auténticas de los planos y demás documentos que conforman un Instrumento de Planificación Territorial las transcripciones debidamente certificadas.
 
-Los planos que conformen un Instrumento de Planificación Territorial deberán confeccionarse sobre base aerofotogramétrica o satelital, debidamente georreferenciada.
+Los planos que conformen un Instrumento de Planificación Territorial deberán confeccionarse sobre base aerofotogramétrica o satelital, debidamente georreferenciada y según lo establecido en el Patrón Nacional de Instrumentos de Planificación Territorial que para los efectos instruya la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo a través de circulares.
 
-La representación gráfica de los planos de los Instrumentos de Planificación Territorial, tanto en su versión impresa como digital, deberá elaborarse de conformidad a las simbologías y los tramos que se señalen en el Patrón Nacional para la Representación de Instrumentos de Planificación Territorial.
+El Patrón Nacional de Instrumentos de Planificación Territorial contendrá los requerimientos técnicos de información digital base para la elaboración de dichos instrumentos, o modificación de los mismos, incluyendo la estandarización del formato gráfico de los planos que representen la información normativa.
 
-El Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial se aprobará mediante Resolución del Ministerio de Vivienda y Urbanismo.
+Junto con los planos que deban enviarse para su archivo a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, deberá entregarse una versión de los mismos en formato digital.
 
 De la planificación urbana regional
 
