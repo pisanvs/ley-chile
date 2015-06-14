@@ -92,73 +92,51 @@ tanto la actividad pesquera extractiva como la
 
 actividad de transformación de recursos
 
-hidrobiológicos a través de plantas de procesamiento.
+hidrobiológicos a través de plantas de
 
-b) Trabajador dela industria pesquera extractiva: persona
+procesamiento.
 
-que presta servicios en virtud de un contrato de trabajo
+b) Trabajador de la industria pesquera extractiva:
 
-en una empresa industrial pesquera extractiva realizando
+persona que presta servicios en virtud de un
 
-funciones propias de flota industrial tales como
+contrato de trabajo en una empresa industrial
 
-patrones, pilotos, motoristas y tripulantes, o de
+pesquera extractiva.
 
-actividades ligadas estrictamente a la pesca extractiva
+c) Ex trabajador de la industria pesquera extractiva:
 
-como guachimanes, rederos, descargadores, y radio
+persona que ha prestado servicios en virtud de un
 
-operadores.
+contrato de trabajo en una empresa pesquera
 
-c) Ex trabajador dela industria pesquera extractiva: Persona
+extractiva, y que ha perdido su trabajo como
 
-que ha prestado servicios en virtud de un contrato de
+consecuencia de la aplicación de la Ley 18.892,
 
-trabajo en una empresa pesquera extractiva, realizando
+por una causa no imputable al trabajador.
 
-funciones propias de flota industrial tales como
+d) Trabajador de la industria pesquera de
 
-aquellas señaladas en el literal anterior; y que ha
+procesamiento: persona que presta servicios
 
-perdido su trabajo como consecuencia de la aplicación
+en virtud de un contrato de trabajo en una
 
-de la ley 18.892, por una causa no imputable al trabajador.
+planta de procesamiento de recursos hidrobiológicos.
 
-d) Trabajador de la industria pesquera de procesamiento:
+e) Ex trabajador de la industria pesquera de
 
-persona que presta servicios en virtud de un contrato
+procesamiento: persona que ha prestado servicios
 
-de trabajo en una planta de procesamiento de recursos
+en virtud de un contrato de trabajo en una planta
 
-hidrobiológicos, realizando funciones estrictamente
+de procesamiento de recursos hidrobiológicos, y
 
-propias de este tipo de plantas, tales como operador,
+que ha perdido su trabajo como consecuencia de
 
-operario de planta, supervisores de planta,
+la aplicación de la ley 18.892, por una causa
 
-desconchadores, mecánicos, despinadores, fileteadores,
-
-evisceradores o limpiadores, calibradores, prensadores,
-
-emparrilladores y empacadores.
-
-e) Ex trabajador de la industria pesquera de procesamiento:
-
-Persona que ha prestado servicios en virtud de un
-
-contrato de trabajo en una planta de procesamiento de
-
-recursos hidrobiológicos, realizando funciones
-
-estrictamente propias de este tipo de plantas tales
-
-como aquellas señaladas en el literal anterior; que
-
-haya perdido su trabajo como consecuencia de la
-
-aplicación de la ley 18.892, por una causa no
-
-imputable al trabajador.
+no imputable al trabajador.
 
 ## Título II
 
@@ -182,9 +160,11 @@ Por otra parte, este programa comprende la entrega de un beneficio complementari
 
 Los postulantes al programa a que se refiere este título deberán cumplir los siguientes requisitos:
 
-a) Ser ex trabajador del sector pesquero en los términos
+a) Ser ex trabajador del sector pesquero en los
 
-dispuestos en el artículo 6º del presente reglamento.
+términos dispuestos en el artículo 6º del
+
+presente reglamento.
 
 b) Haber terminado la relación laboral en la industria
 
@@ -198,21 +178,23 @@ término de contrato previstas en los numerales 4,
 
 posterior al día 1 de enero del año 2013.
 
-c) Registrar cesantía efectiva con posterioridad a la
+c) Registrar cesantía efectiva con posterioridad a
 
-pérdida del empleo que haga valer para los efectos
+la pérdida del empleo que haga valer para los
 
-de su postulación. Se entenderá que existe cesantía
+efectos de su postulación. Se entenderá que existe
 
-efectiva cuando el postulante registre a lo menos un
+cesantía efectiva cuando el postulante registre a
 
-período de 3 meses sin trabajo remunerado,
+lo menos un periodo de un (1) mes sin trabajo
 
-inmediatamente a continuación de la fecha de pérdida
+remunerado, inmediatamente a continuación de la
 
-del empleo que invoque para postular, o dentro de
+fecha de pérdida del empleo que invoque para
 
-los seis meses siguientes a la fecha antes señalada.
+postular, o dentro de los tres meses siguientes
+
+a la fecha antes señalada.
 
 d) No tener contrato de trabajo vigente en algún empleo
 
@@ -220,17 +202,19 @@ cuya remuneración sea igual o superior al 70% de la
 
 última remuneración que hubiere obtenido antes del
 
-despido invocado, a la fecha de la postulación al Programa.
+despido invocado, a la fecha de la postulación
+
+al Programa.
 
 e) Contar con una antigüedad de a lo menos 120
 
 meses de trabajo efectivo, de manera continua o
 
-discontinua, en la industria pesquera, contados hacia
+discontinua, en la industria pesquera, contados
 
-atrás desde la fecha del término de la relación
+hacia atrás desde la fecha del término de la
 
-laboral invocada.
+relación laboral invocada.
 
 Los documentos y forma en que se acreditarán los requisitos antes señalados se establecerán en cada uno de los programas sancionados a través del acto administrativo respectivo dictado por la Subsecretaría de Pesca y Acuicultura.
 
@@ -245,6 +229,16 @@ a) Edad del postulante (15%):
 b) Antigüedad de trabajo en la industria pesquera (70%):
 
 c) Meses de cesantía efectiva (15%):
+
+Meses de Cesantía Efectiva
+
+Meses Puntos
+
+Desde 7 meses 30
+
+Desde 4 a 6 meses 20
+
+Desde 1 a 3 meses 10
 
 #### Artículo 11
 
@@ -318,7 +312,9 @@ extractivo, deben además contar con matrícula
 
 vigente en calidad de tripulante u oficial de
 
-naves especiales al momento de postulación al Programa.
+naves especiales al momento de postulación al
+
+Programa.
 
 2. Ex Trabajadores de la industria pesquera
 
@@ -340,23 +336,23 @@ término de contrato previstas en los numerales 4, 5
 
 posterior al 1 de enero del año 2013.
 
-c) Registrar cesantía efectiva con posterioridad al
+c) Registrar cesantía efectiva con posterioridad a la
 
-término de la relación laboral que haga valer para
+pérdida del empleo que haga valer para los efectos
 
-los efectos de su postulación. Se entenderá que
+de su postulación. Se entenderá que existe cesantía
 
-existe cesantía efectiva cuando el postulante
+efectiva cuando el postulante registre a lo menos
 
-registre a lo menos un período de 3 meses sin trabajo
+un periodo de un (1) mes sin trabajo remunerado,
 
-remunerado, inmediatamente a continuación de la
+inmediatamente a continuación de la fecha de pérdida
 
-fecha de término de la relación laboral que invoque
+del empleo que invoque para postular, o dentro
 
-para postular, o dentro de los seis meses siguientes
+de los tres meses siguientes a la fecha antes
 
-a la fecha antes señalada.
+señalada.
 
 d) Contar con una antigüedad en la industria
 
@@ -387,6 +383,16 @@ a) Edad del postulante (15%):
 b) Antigüedad de trabajo en la industria pesquera (70%):
 
 c) Meses de cesantía efectiva (15%):
+
+Meses de Cesantía Efectiva
+
+Meses Puntos
+
+Desde 7 meses 30
+
+Desde 4 a 6 meses 20
+
+Desde 1 a 3 meses 10
 
 #### Artículo 20
 
@@ -432,11 +438,13 @@ Los postulantes al programa a que se refiere este título deberán cumplir los s
 
 1. Trabajadores activos de la industria pesquera
 
-a) Ser trabajador activo de la industria pesquera en los
+a) Ser trabajador activo de la industria pesquera en
 
-términos dispuestos en el artículo 6ºdel presente
+los términos dispuestos en el artículo 6ºdel
 
-reglamento, a la fecha de postulación al programa.
+presente reglamento, a la fecha de postulación
+
+al programa.
 
 b) Tener una antigüedad de a lo menos 36 meses
 
@@ -476,33 +484,31 @@ y 171, todos del Código del Trabajo, con fecha
 
 posterior al 1 de enero del año 2013.
 
-c) Registrar cesantía efectiva con posterioridad al
+c) Registrar cesantía efectiva con posterioridad a la
 
-término de la relación laboral que haga valer para
+pérdida del empleo que haga valer para los efectos
 
-los efectos de su postulación. Se entenderá que
+de su postulación. Se entenderá que existe cesantía
 
-existe cesantía efectiva cuando el postulante registre
+efectiva cuando el postulante registre a lo menos
 
-a lo menos un período de 3 meses sin trabajo remunerado,
+un periodo de un (1) mes sin trabajo remunerado,
 
-inmediatamente a continuación de la fecha de término
+inmediatamente a continuación de la fecha de pérdida
 
-de la relación laboral que invoque para postular, o
+del empleo que invoque para postular, o dentro de
 
-dentro de los seis meses siguientes a la fecha antes
-
-señalada.
+los tres meses siguientes a la fecha antes señalada.
 
 d) Contar con una antigüedad en la industria
 
-pesquera de a lo menos 36 meses de trabajo, de manera
+pesquera de a lo menos 36 meses de trabajo, de
 
-continua o discontinua, en la industria pesquera,
+manera continua o discontinua, en la industria
 
-contados hacia atrás desde la fecha del término de
+pesquera, contados hacia atrás desde la fecha
 
-la relación laboral.
+del término de la relación laboral.
 
 e) Tener enseñanza media completa rendida
 
@@ -527,6 +533,16 @@ a) Edad del postulante (15%):
 b) Antigüedad de trabajo de en la Industria pesquera (70%):
 
 c) Meses de Cesantía efectiva (15%):
+
+Meses de Cesantía Efectiva
+
+Meses Puntos
+
+Desde 7 meses 30
+
+Desde 4 a 6 meses 20
+
+Desde 1 a 3 meses 10
 
 #### Artículo 28
 
@@ -706,21 +722,21 @@ del Trabajo, entre el día 1º de enero del año 2013 y
 
 hasta la fecha de postulación al programa.
 
-c) Registrar cesantía efectiva con posterioridad al
+c) Registrar cesantía efectiva con posterioridad a la
 
-término de la relación laboral que haga valer para
+pérdida del empleo que haga valer para los efectos
 
-los efectos de su postulación. Se entenderá que existe
+de su postulación. Se entenderá que existe cesantía
 
-cesantía efectiva cuando el postulante registre a lo
+efectiva cuando el postulante registre a lo menos
 
-menos un período de 3 meses sin trabajo remunerado,
+un periodo de un (1) mes sin trabajo remunerado,
 
-inmediatamente a continuación de la fecha de término
+inmediatamente a continuación de la fecha de pérdida
 
-de la relación laboral que invoque para postular, o
+del empleo que invoque para postular, o dentro
 
-dentro de los seis meses siguientes a la fecha antes
+de los tres meses siguientes a la fecha antes
 
 señalada.
 
@@ -734,13 +750,17 @@ e) Contar con una antigüedad de a lo menos
 
 industria pesquera extractiva o de procesamiento,
 
-contados hacia atrás desde la fecha de su postulación.
+contados hacia atrás desde la fecha de su
+
+postulación.
 
 f) No ser beneficiario de alguna pensión estatal o
 
 jubilación anticipada o por enfermedad. Esta
 
-información será requerida directamente al Ministerio
+información será requerida directamente al
+
+Ministerio
 
 del Trabajo y Previsión Social por el Director
 
@@ -765,6 +785,16 @@ a) Edad del postulante (25%):
 b) Antigüedad de trabajo en la industria pesquera (20%)
 
 c) Meses de cesantía efectiva (20%):
+
+Meses de Cesantía Efectiva
+
+Meses Puntos
+
+Desde 7 meses 30
+
+Desde 4 a 6 meses 20
+
+Desde 1 a 3 meses 10
 
 d) Remuneración imponible al momento de la postulación al Programa, respecto de un nuevo empleo: (35%):
 
