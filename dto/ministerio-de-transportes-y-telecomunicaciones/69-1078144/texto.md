@@ -45,3 +45,23 @@ Otórgase la concesión de Servicio Público de Transmisión de Datos, a la empr
 Anótese, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República, Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº 69, de 2015, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Telecomunicaciones
+
+Nº 41.435.- Santiago, 25 de mayo de 2015.
+
+La Contraloría General ha dado curso al documento del rubro, que otorga una concesión de servicio público de transmisión de datos a la empresa que indica, pero cumple con hacer presente que, en lo sucesivo, esa Cartera de Estado deberá velar que en los actos administrativos como el de la especie, esto es, sujetos al control preventivo de juridicidad, deben incluir en las órdenes de tramitación la fórmula "tómese razón", lo que se ha omitido en esta oportunidad.
+
+Saluda atentamente a Ud., por orden del Contralor General de la República, Juan Carlos Lillo, Jefe Subdivisión Jurídica, División de Infraestructura y Regulación.
+
+Al señor
+
+Ministro de Transportes y Telecomunicaciones
+
+Presente.
