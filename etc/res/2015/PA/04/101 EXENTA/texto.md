@@ -1,0 +1,13 @@
+RESOLUCIÓN Nº 2.015/PA/04/101 EXENTA, DE 2015, QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO QUE INDICA
+
+La Superintendencia de Educación, por resolución exenta Nº 2.015/PA/04/101, de fecha 11 de marzo de 2015, ordenó instruir proceso administrativo al Establecimiento Educacional Jardín Infantil Michey Mouse, RBD Nº 13453-8, de la comuna de Coquimbo, ubicado en Pasaje Parque Nacional Nahuelbuta Nº 1520, Bosque San Carlos, Coquimbo, cuyo sostenedor es Sociedad Educacional Pizarro y Covarrubias Ltda., RUT Nº 76.085.255-4, representada legalmente por doña Patricia A. Covarrubias Rojas, RUT 7.533.340-4, por presuntas contravenciones a la normativa educacional, designando fiscal investigador, formulando cargos y otorgando un plazo para presentar descargos de acuerdo a lo siguiente:
+
+- **1.-** Que a través de acta de fiscalización Nº 1.504.00.149, de fecha 4 de marzo de 2015, se constataron hechos que configuran presuntas contravenciones a la normativa educacional.
+
+- **2.-** Que conforme los antecedentes que constan en el proceso, se ordenó instruir proceso administrativo por el siguiente cargo: Número de Hallazgo (39) Establecimiento no presenta rendiciones de cuentas. Número de sustento (39.00) Establecimiento no presenta rendiciones de cuentas. El hecho que origina el sustento: El sostenedor del establecimiento educacional no realiza la rendición de cuentas, correspondiente a los recursos recibidos por la Subvención de Mantenimiento del período 2013, en la forma y plazos instruidos por la Superintendencia de Educación Escolar. Norma transgredida: Artículos 54 de la Ley Nº 20.529. Artículo 5 del Decreto con Fuerza de Ley Nº 2, de 1998, del Ministerio de Educación. Artículos 7 letra a) y 32 de la Ley Nº 20.248. Artículos 24 al 27 del Decreto Supremo Nº 235, de 2008, del Ministerio de Educación. Tipo infraccional: Infracción Grave. Artículo 76 letra a) de la Ley 20.529.
+
+- **3.-** Se designó fiscal instructor a doña Pía Contreras Alonso, funcionaria de la Dirección Regional de la Superintendencia de Educación, Región de Coquimbo.
+
+- **4.-** Se deja constancia que el sostenedor dispone, de acuerdo a lo prescrito en el artículo 70 de la Ley 20.529, de un plazo de 10 días hábiles, contado desde la fecha de notificación, para presentar descargos y los medios de prueba que estime pertinentes ante la Fiscalía de la Dirección Regional, ubicada en calle Matta Nº 695, comuna de La Serena.
+
+Paulina Román Ramos. Encargada Unidad Jurídica, Superintendencia de Educación, Región de Coquimbo.
