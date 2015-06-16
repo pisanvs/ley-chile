@@ -12,7 +12,7 @@ A.- Instrucciones a las empresas de servicios de telefonía móvil:
 
 3. Las instrucciones contenidas en esta letra A.- entrarán en vigencia 60 días después de la publicación en el Diario Oficial del extracto de estas Instrucciones de Carácter General, y serán aplicables a todos los planes de prepago y post pago que comercialicen las empresas de servicios de telefonía móvil a partir de esa fecha;
 
-4. Las instrucciones contenidas en esta letra A.- regirán hasta la entrada en vigencia del próximo decreto de fijación tarifaria de los servicios señalados en el artículo 25 inciso final de la Ley N° 18.168 General de Telecomunicaciones. A partir de esa fecha, los planes de prepago y post pago que comercialicen las empresas de servicios de telefonía móvil no podrán contener diferenciación de tarifas o de minutos incluidos en un plan, fundada en la red de destino de la llamada;
+4. Las instrucciones contenidas en esta letra A.- regirán hasta la entrada en vigencia del próximo decreto de fijación tarifaria de los servicios señalados en el artículo 25 inciso final de la ley N°18.168 General de Telecomunicaciones. A partir de esa fecha, los planes de prepago y post pago que comercialicen las empresas de servicios de telefonía móvil no podrán contener diferenciación de tarifas o de minutos incluidos en un plan, fundada en la red de destino de la llamada. Se entenderá que no están fundadas en la red de destino de la llamada las diferencias de tarifas o minutos contenidas en los planes de telefonía móvil que incluyan dos o más números o usuarios, contratados por una única persona natural o jurídica, en relación con las llamadas que se cursen entre dichos números o usuarios.
 
 -------------------------------------------------
 
