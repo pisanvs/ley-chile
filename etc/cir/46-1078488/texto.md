@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES EFECTUADAS POR LA LEY Nº 20.780, DE 2014, A LOS ARTÍCULOS 41 A, 41 B, 41 C Y 41 D, DE LA LEY SOBRE IMPUESTO A LA RENTA, QUE RIGEN A CONTAR DEL 1º DE ENERO DE 2017
+
+Extracto de circular del Servicio de Impuestos Internos Nº 46, de fecha 11 de junio de 2015, la cual tiene por objeto instruir sobre las modificaciones efectuadas por la ley Nº 20.780, de 2014, a los artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1º de enero de 2017, así como también refundir a partir de la fecha señalada, las instrucciones impartidas con anterioridad por dicho Servicio sobre la materia.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en junio de 2015.
