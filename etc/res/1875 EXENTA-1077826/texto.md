@@ -1,6 +1,4 @@
-PROPUESTA DE RESOLUCIÓN DE ASISTENCIA TÉCNICA QUE REEMPLAZA LA RESOLUCIÓN Nº420, DE 2012
-
-FIJA PROCEDIMIENTO PARA LA PRESTACIÓN DE SERVICIOS DE ASISTENCIA TÉCNICA, JURÍDICA Y SOCIAL A PROGRAMA DE VIVIENDA APROBADO POR EL D.S. Nº 49, DE 2014, Y SUS MODIFICACIONES
+FIJA PROCEDIMIENTO PARA LA PRESTACIÓN DE SERVICIOS DE ASISTENCIA TÉCNICA, JURÍDICA Y SOCIAL A PROGRAMA DE VIVIENDA APROBADO POR D.S. Nº 49 (V. y U.), de 2011, Y SUS MODIFICACIONES
 
 Santiago, 20 de marzo de 2015.- Hoy se resolvió lo que sigue:
 
@@ -166,6 +164,8 @@ El Serviu podrá considerar como realizada la actividad respectiva, o aprobado e
 
 . Tratándose de proyectos asociados a grupos conformados por familias pertenecientes a pueblos originarios o a agrupaciones de inmigrantes, o a otros grupos de la población que presenten características étnico culturales propias, el desarrollo de todos los servicios de asistencia técnica establecidos en esta resolución, especialmente los referidos al Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto, y la Elaboración de Proyectos Técnicos y Contratación de Obras, las EP deberán considerar, para cada caso, las características, particularidades y requerimientos que presentan dichos grupos, a objeto de ser técnicamente eficientes para ejecutar el proyecto habitacional y de equipamiento urbano aprobado, así como socialmente efectivos para garantizar la pertinencia cultural y grupal en el trabajo de acompañamiento que hacen las EP con las familias y colectivos que aparecen como beneficiarios de los servicios profesionales prestados.
 
+> **Nota.** El numero 1.3 del numeral 1 de la Resolución 4217 Exenta, Vivienda, publicada el 17.06.2015, modifica la presente norma en el sentido de eliminar en la parte relativa a "Elaboración de las Escrituras e Inscripción en el Conservador de Bienes Raíces" las expresiones "hipotecas," y "e Hipoteca.
+
 #### Artículo 3º
 
 DEL PAGO DEL SUBSIDIO DE ASISTENCIA TÉCNICA
@@ -324,7 +324,7 @@ Del mismo modo, en casos excepcionales, tales como desastres naturales, cambios 
 
 . La segunda, equivalente al 30%, una vez desarrollado el diagnóstico de las familias, aprobado el proyecto habitacional por estas mismas y alcanzado el 50% de avance físico de las obras.
 
-. La tercera, equivalente al 20%, una vez desarrolladas todas las actividades comprometidas en este servicio, recepcionadas las obras, inscritas las viviendas y/o las hipotecas y gravámenes y terminado el proceso de post venta.
+. La tercera, equivalente al 20%, una vez desarrolladas todas las actividades comprometidas en este servicio, recepcionadas las obras, inscritas las viviendas y/o gravámenes y terminado el proceso de post venta.
 
 Tratándose de proyectos postulados y seleccionados en un número menor de beneficiarios, respecto al cupo total que dispone el proyecto, las tres etapas de pago que establece este servicio, se ejecutarán contabilizando dicho número, el que no contempla las familias adscritas con posterioridad a la selección del proyecto o en la etapa de ejecución de obras. Posteriormente, junto al pago de la tercera y última etapa, Serviu deberá adicionar un pago más por el servicio, considerando justamente los beneficiarios adscritos con posterioridad a la selección del proyecto y antes del término de la post venta, pagando sólo el 70% del valor unitario de la asistencia técnica por estas familias, utilizando para ello el procedimiento que se señala en el numeral 5.2.9. de este artículo.
 
@@ -340,7 +340,7 @@ En los casos que corresponda, una vez transferidas e inscritas las viviendas par
 
 5.2.3.- Gestión Legal. El pago correspondiente al Servicio Gestión Legal, se efectuará en un 100%, una vez desarrolladas las actividades que establece este servicio y recepcionadas las viviendas por parte de la DOM e inscritas las viviendas en el CBR.
 
-En aquellos casos en que no se requiera la transferencia de la vivienda al beneficiario, dicho requisito de pago será reemplazado por la inscripción en el Conservador de Bienes Raíces respectivo de la hipoteca de primer grado y la prohibición de gravar, enajenar y celebrar acto o contrato alguno que importe cesión de uso y goce del inmueble, sea a título gratuito u oneroso, a favor del Serviu, o por las declaraciones juradas en el sentido de conocer las prohibiciones contenidas tanto en el artículo 13 de la ley Nº 19.253 como en el artículo 819 del Código Civil, en los casos que los beneficiarios sean titulares de dominio o derecho de goce de tierras indígenas o titulares de derecho real de uso, respectivamente.
+En aquellos casos en que no se requiera la transferencia de la vivienda al beneficiario, dicho requisito de pago será reemplazado por la inscripción en el Conservador de Bienes Raíces respectivo de la prohibición de gravar, enajenar y celebrar acto o contrato alguno que importe cesión de uso y goce del inmueble, sea a título gratuito u oneroso, a favor del Serviu, o por las declaraciones juradas en el sentido de conocer las prohibiciones contenidas tanto en el artículo 13 de la ley Nº 19.253 como en el artículo 819 del Código Civil, en los casos que los beneficiarios sean titulares de dominio o derecho de goce de tierras indígenas o titulares de derecho real de uso, respectivamente.
 
 5.2.4.- Gestión Técnica y Social de Proyectos. El pago correspondiente al Servicio Gestión Técnica y Social de Proyectos, se efectuará en tres etapas:
 
@@ -348,7 +348,7 @@ En aquellos casos en que no se requiera la transferencia de la vivienda al benef
 
 . La segunda, equivalente al 20% del valor del servicio, contra avance físico de un 50% del proyecto habitacional, de acuerdo a informe emitido por el fiscalizador de obras y ratificado por el Serviu.
 
-. La tercera, equivalente al 30% restante del servicio, contra la recepción de obras por parte de Serviu y la DOM, la inscripción de la vivienda y/o de las hipotecas y gravámenes correspondientes, y terminado el proceso de post venta y resueltas las observaciones técnicas del proyecto.
+. La tercera, equivalente al 30% restante del servicio, contra la recepción de obras por parte de Serviu y la DOM, la inscripción de la vivienda y/o gravámenes correspondientes, y terminado el proceso de post venta y resueltas las observaciones técnicas del proyecto.
 
 Tratándose de proyectos postulados y seleccionados en un número menor de beneficiarios, respecto al cupo total que dispone el proyecto, las tres etapas de pago que establece este servicio se ejecutarán contabilizando dicho número, el que no contempla las familias adscritas con posterioridad a la selección del proyecto o en la etapa de ejecución de obras. Posteriormente, junto al pago de la tercera y última etapa, Serviu deberá adicionar un pago más por el servicio, considerando justamente los beneficiarios adscritos con posterioridad a la selección del proyecto y antes del término de la post venta, pagando sólo el 70% del valor unitario de la asistencia técnica por estas familias, utilizando para ello el procedimiento que se señala en el numeral 5.2.9 de este artículo.
 
@@ -362,9 +362,9 @@ Modalidad de Pago de la Exploración Geotécnica asociada a Construcción en Sue
 
 Cuando el servicio es ejecutado o contratado por una Entidad Patrocinante externa, ésta deberá acreditar ante el Serviu el método utilizado, la institución que lo ejecutó y el costo que tuvo el respectivo ensayo o medición. Este pago no podrá superar el costo del ensayo ni los valores máximos establecidos en la presente resolución, debiendo efectuarse estando vigentes los subsidios que se aplicarán en el terreno correspondiente.
 
-5.2.7.- Modalidad de Pago para la Calificación Energética de Viviendas. El pago correspondiente a la calificación energética de viviendas, para proyectos CNT o MP, se efectuará a la EP cuando todas las viviendas del proyecto obtengan la Etiqueta de Eficiencia Energética por medio del Sistema de Calificación Energética de Viviendas de Chile, reglamentado por el Ministerio de Vivienda y Urbanismo y obtenida la recepción definitiva de obras por parte de la DOM, cuando corresponda.
+5.2.7.- Modalidad de Pago para la Calificación Energética de Viviendas. El pago correspondiente a la calificación energética de viviendas, para proyectos CNT o MP, se efectuará a la EP cuando todas las viviendas del proyecto obtengan la Etiqueta de Eficiencia Energética por medio del Sistema de Calificación Energética de Viviendas de Chile, reglamentado por el Ministerio de Vivienda y Urbanismo y obtenida la recepción definitiva de obras por parte de la DOM.
 
-5.2.8.- Modalidad de Pago para Proyectos que contemplen Obras de Eficiencia Energética. El pago de la asistencia técnica para estos proyectos, se efectuará una vez recepcionadas las viviendas por Serviu y la DOM, cuando corresponda.
+5.2.8.- Modalidad de Pago para Proyectos que contemplen Obras de Eficiencia Energética. El pago de la asistencia técnica para estos proyectos, se efectuará una vez recepcionadas las viviendas por Serviu y la DOM.
 
 5.2.9.- Modalidad de Pago para Proyectos CNT o MP con incremento de asistencia técnica y modificación del número de beneficiarios entre la selección y el término del proyecto. Para calcular el pago de AT en proyectos postulados y seleccionados con un número menor de beneficiarios respecto al cupo total del proyecto, y que reciban incrementos al subsidio de asistencia técnica, el pago se establecerá bajo el siguiente procedimiento:
 
@@ -654,9 +654,9 @@ Asimismo, tampoco podrán efectuar, solicitar, recibir, ni hacerse prometer pago
 
 #### Artículo 6º
 
-DE LOS SERVICIOS DE ASISTENCIA TÉCNICA PARA LA MODALIDAD DE AUTOEJECUCIÓN ASISTIDA PARA PROYECTOS DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
+DE LOS SERVICIOS DE ASISTENCIA TÉCNICA PARA LA MODALIDAD DE AUTOCONSTRUCCIÓN ASISTIDA PARA PROYECTOS DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA
 
-La Modalidad de Autoejecución Asistida, cuya responsabilidad en materia de asistencia técnica recae en una EP, y que aplica para beneficiarios individuales o grupos de beneficiarios de las tipologías CSP y DP, comprende el desarrollo de las siguientes actividades:
+La Modalidad de Autoconstrucción Asistida, cuya responsabilidad en materia de asistencia técnica recae en una EP, y que aplica para beneficiarios individuales o grupos de beneficiarios de las tipologías CSP y DP, comprende el desarrollo de las siguientes actividades:
 
 Tratándose de proyectos individuales emplazados en Territorios Especiales o Localidades Aisladas, el Serviu adicionará 10 UF más para la ejecución de los servicios de asistencia técnica, consignados con los números 1), 2) y 3), de la tabla anterior. 5 UF se cancelarán contra la obtención de los productos señalados en los numerales 1) y 2) de la tabla precedente, Verificación del Estado Situación del Inmueble y el Terreno y, Elaboración de Proyectos de Arquitectura, Loteo y Urbanización y, las 5 UF restantes, contra la obtención de los productos señalados en el numeral 3) de la tabla precedente, esto es Recepción y Aprobación de los Informes correspondientes y Recepción conforme de Serviu y de la DOM de la vivienda, e inscripción de las prohibiciones y gravámenes en el CBR. Para el servicio de Fiscalización Técnica de Obras, número 4) de la misma tabla, se adicionarán 10 UF más, pagaderas contra la realización de la actividad y la recepción de las obras por el Serviu y la DOM.
 
@@ -732,7 +732,7 @@ DISPOSICIONES TRANSITORIAS:
 
 #### Artículo 1º
 
-transitorio: Las disposiciones establecidas a través de la presente resolución, regirán para los llamados a selección que se realicen a partir de la fecha de su publicación en el Diario Oficial, pudiendo aplicarse desde esa fecha, incluso a proyectos con calificación condicional o definitiva y/o familias beneficiadas con anterioridad cuyas obras no se hayan iniciado, cuando sean más favorables para ellas, siempre y cuando los subsidios asignados para estas familias se rijan por las nuevas disposiciones vigentes para el DS 49 (V. y U.), de 2015, incorporadas a partir de la tramitación del DS 105 (V. y U.), de 2015. En estos casos, los valores a pagar por los servicios de asistencia técnica y fiscalización técnica de obras, serán establecidos o calculados de acuerdo a lo señalado en la presente resolución. Pese a lo anterior, para estos casos, cabe aclarar lo siguiente:
+transitorio: Las disposiciones establecidas a través de la presente resolución, regirán para los llamados a selección que se realicen a partir de la fecha de su publicación en el Diario Oficial, pudiendo aplicarse desde esa fecha, incluso a proyectos con calificación condicional o definitiva y/o familias beneficiadas con anterioridad cuyas obras no se hayan iniciado, cuando sean más favorables para ellas, siempre y cuando los subsidios asignados para estas familias se rijan por las nuevas disposiciones vigentes para el D.S. Nº 49 (V. y U.), de 2011, incorporadas a partir de la tramitación del D.S. Nº 105 (V. y U.), de 2014. En estos casos, los valores a pagar por los servicios de asistencia técnica y fiscalización técnica de obras, serán establecidos o calculados de acuerdo a lo señalado en la presente resolución. Pese a lo anterior, para estos casos, cabe aclarar lo siguiente:
 
 Tratándose del servicio C1, Organización de la Demanda, regulado por la resolución Nº 420, V. y U., de 2012, en caso de haberse pagado el total del honorario correspondiente contra la asignación del subsidio a las familias, este monto deberá descontarse del primer pago que se ejecuta por el servicio Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto, que equivale al 50% del monto total del servicio.
 
@@ -740,7 +740,7 @@ Tratándose del servicio C3, Plan de Habilitación Social Post Entrega, regulado
 
 #### Artículo 2º
 
-transitorio: Conforme a lo dispuesto en el Artículo 3º transitorio del DS 105 (V. y U.), de 2015, acerca del pago de asistencia técnica para grupos de beneficiarios seleccionados bajo la modalidad de grupos sin proyecto del DS 49 (V. y U.), de 2011, de los programas 2012, 2013 y 2014, que se adscriban a proyectos de la nómina de oferta de Serviu o para los que desarrollen proyectos específicos las Entidades Patrocinantes, cabe precisar que, tratándose de proyectos regulados por la presente resolución, cuando se aplique el incremento en los valores de asistencia de las áreas A1, A2 y A3, éstas se asimilarán al servicio Elaboración de Proyectos Técnicos y Contratación de Obras. Asimismo, el incremento correspondiente a las áreas C2 y C3, se asimilará al Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto. De este modo, y tratándose sólo de proyectos regulados por la presente resolución, ambos servicios verán incrementado el pago de la asistencia técnica en los porcentajes definidos en el artículo 3º transitorio del DS 105 (V. y U.), de 2015, para cada familia beneficiada bajo la modalidad señalada en dicho artículo, pago que se efectuará conforme al plazo y procedimiento descrito en el numeral 5.2.9 del artículo 3º de la presente resolución.
+transitorio: Conforme a lo dispuesto en el Artículo 3º transitorio del D.S. Nº 105 (V. y U.), de 2014, acerca del pago de asistencia técnica para grupos de beneficiarios seleccionados bajo la modalidad de grupos sin proyecto del DS 49 (V. y U.), de 2011, de los programas 2012, 2013 y 2014, que se adscriban a proyectos de la nómina de oferta de Serviu o para los que desarrollen proyectos específicos las Entidades Patrocinantes, cabe precisar que, tratándose de proyectos regulados por la presente resolución, cuando se aplique el incremento en los valores de asistencia de las áreas A1, A2 y A3, éstas se asimilarán al servicio Elaboración de Proyectos Técnicos y Contratación de Obras. Asimismo, el incremento correspondiente a las áreas C2 y C3, se asimilará al Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto. De este modo, y tratándose sólo de proyectos regulados por la presente resolución, ambos servicios verán incrementado el pago de la asistencia técnica en los porcentajes definidos en el artículo 3º transitorio del DS 105 (V. y U.), de 2015, para cada familia beneficiada bajo la modalidad señalada en dicho artículo, pago que se efectuará conforme al plazo y procedimiento descrito en el numeral 5.2.9 del artículo 3º de la presente resolución.
 
 Anótese y publíquese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
