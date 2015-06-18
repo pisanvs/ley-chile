@@ -228,6 +228,8 @@ Las solicitudes mediante las cuales se ejerzan los demás derechos estatutarios 
 
 El Contralor Regional podrá suscribir convenios en los que se establezcan beneficios para los funcionarios de su dependencia afiliados al Departamento de Bienestar de la institución, y además podrá celebrar convenios con salas cunas.
 
+El Contralor Regional podrá suscribir convenios para la utilización de las salas o auditorios de la respectiva Contraloría Regional
+
 #### Artículo 18
 
 <!-- parte:9187553 -->
