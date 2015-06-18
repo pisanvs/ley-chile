@@ -110,6 +110,8 @@ Notas:
 
 5. El monto de recursos que se destinarán para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución se distribuirán regionalmente según el siguiente cuadro, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministro de Vivienda y Urbanismo:
 
+.
+
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 Si realizada la segunda selección de este llamado no hubiese sido posible, por falta de postulantes, asignar el total de subsidios en una región según la distribución señalada en cuadro precedente, la Subsecretaria de Vivienda y Urbanismo podrá reasignar estos recursos a la otra región mediante resolución dictada al efecto.
