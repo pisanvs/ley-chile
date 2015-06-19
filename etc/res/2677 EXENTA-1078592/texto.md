@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.677 EXENTA, DE 2015
+
+Mediante la resolución exenta Nº 2.677, de 9 de junio de 2015, del Servicio Nacional de Capacitación y Empleo, se modificó el texto de la resolución exenta Nº 2.313, de fecha 14 de mayo de 2015, que refunde la "Estructura Orgánica del Servicio Nacional de Capacitación y Empleo", y se deja sin efecto la resolución exenta Nº 3.208, de fecha 27 de junio de 2014, que delegó facultades en el Jefe del Departamento de Desarrollo y Regulación de Mercado para, finalmente, delegar facultades al Jefe del Departamento de Empleo y Capacitación en Empresas. El texto íntegro de la resolución exenta Nº 2.677, de 9 de junio de 2015, de este Servicio Nacional, se encuentra publicado en la página www.sence.cl.
+
+Santiago, 9 de junio de 2015.- Pedro Goic Boroevic, Director Nacional.
