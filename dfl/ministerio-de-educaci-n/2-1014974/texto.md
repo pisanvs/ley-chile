@@ -770,11 +770,13 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para su realización. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integrarán, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos, tanto en los órganos encargados de la gestión y dirección de ella, como en la elección de las autoridades unipersonales o colegiadas;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integrarán, sus atribuciones y duración de los respectivos cargos;
 
-f) Los títulos profesionales y grados académicos de licenciado que otorgará inicialmente, y
+f) Que ninguna normativa interna ni ningún acto ni contrato entre la universidad y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos;
 
-g) Disposiciones relativas a modificación de estatutos y a su disolución.
+g) Los títulos profesionales y grados académicos de licenciado que otorgará inicialmente, y
+
+h) Disposiciones relativas a modificación de estatutos y a su disolución.
 
 #### Artículo 57
 
@@ -904,9 +906,11 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos tanto en los órganos encargados de la gestión o dirección de ella, como en la elección de las autoridades unipersonales o colegiadas, y
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
 
-f) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
+f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y
+
+g) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
 
 #### Artículo 68
 
@@ -986,9 +990,11 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos tanto en los órganos encargados de la gestión o dirección de ella, como en la elección de las autoridades unipersonales o colegiadas, y
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
 
-f) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
+f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y
+
+g) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
 
 #### Artículo 76
 

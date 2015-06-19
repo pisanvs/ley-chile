@@ -36,6 +36,8 @@ Cualquiera persona natural o jurídica podrá crear Centros de Formación Técni
 
 Para tal efecto los organizadores deberán dictar el reglamento por el que habría de regirse el Centro de Formación Técnica.
 
+Para los efectos de lo dispuesto en este artículo, los estatutos, normativa interna o cualquier acto o contrato entre los centros de formación técnica y sus estudiantes o personal docente o no docente no podrán contener disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos.
+
 #### Artículo 6°
 
 Los organizadores de un Centro de Formación Técnica, deberán enviar al Ministerio de Educación una solicitud de funcionamiento, que contendrá los siguientes antecedentes:
@@ -46,7 +48,7 @@ b) - Indicación precisa del nombre y domicilio de la entidad.
 
 c) - Fines que se propone.
 
-d) - Reglamentos de la Institución.
+d) - Los reglamentos de la institución, los que deberán dictarse con sujeción a lo dispuesto en el artículo anterior.
 
 e) - El Plan de Estudios y los respectivos Programas de cada Carrera y los títulos que se otorgarán.
 

@@ -182,7 +182,7 @@ Los estatutos de las Universidades deberán contemplar, en todo caso, lo siguien
 
 #### Artículo 22°
 
-Para los efectos de lo dispuesto en el N° 4 del artículo anterior, la forma de gobierno de la nueva entidad deberá excluir necesariamente la participación con derecho a voto de los alumnos y de los funcionarios administrativos en los órganos encargados de la gestión y dirección de ella, como asimismo, en la elección de las autoridades unipersonales o colegiadas.
+Los estatutos, normativa interna o cualquier acto o contrato entre las universidades y sus estudiantes o personal académico o no académico no podrán contener disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos.
 
 #### Artículo 23°
 

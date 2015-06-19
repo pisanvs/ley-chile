@@ -46,7 +46,9 @@ De la creación de los Institutos Profesionales
 
 Cualquiera persona natural o jurídica podrá crear Institutos Profesionales de conformidad con las normas de esta ley.
 
-Para tal efecto los organizadores deberán dictar el reglamento por el que habrá de regirse el Instituto Profesional. El reglamento deberá contener, en todo caso, disposiciones que establezcan la forma de administración del organismo, excluyéndose necesariamente la participación con derecho a voto de los alumnos y funcionarios administrativos, no directivos, en los órganos encargados de su dirección, como asimismo en la elección de sus autoridades.
+Para tal efecto los organizadores deberán dictar el reglamento por el que habrá de regirse el Instituto Profesional. El reglamento deberá contener, en todo caso, disposiciones que establezcan la forma de administración del organismo.
+
+En caso alguno los estatutos, normativa interna o cualquier acto o contrato entre los institutos profesionales y sus estudiantes o personal docente y no docente podrán contener disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos.
 
 #### Artículo séptimo
 
