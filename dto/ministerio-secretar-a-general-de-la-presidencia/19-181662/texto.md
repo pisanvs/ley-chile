@@ -208,7 +208,7 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 5. Rechazos de demandas de nulidad de patentes industriales.
 
-6. Convenios de investigación pesquera celebrados por la Subsecretaría de Pesca o por el Consejo de Investigación Pesquera, cualquiera sea su monto.
+6. Aprobar Convenios de investigación en el marco del programa de investigación básica o permanente para la regulación pesquera y de Acuicultura a que alude el artículo 92 A de la Ley General de Pesca y Acuicultura.
 
 7. Establecimiento de áreas de manejo y explotación de recursos bentónicos.
 
