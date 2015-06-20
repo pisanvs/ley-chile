@@ -20,7 +20,7 @@ Resuelvo:
 
 Fíjase en el marco del proceso de evaluación del desempeño profesional docente para el año 2015, la calendarización de etapas y actividades que a continuación se indica:
 
-1.- Distribución y entrega de Portafolios a los/as docentes que serán evaluados/as durante el proceso 2015: entre el 22 de junio y el 3 de julio de 2015.
+1.- Distribución y entrega de Portafolios a los/as docentes que serán evaluados/as durante el proceso 2015: entre el 22 de junio y el 10 de julio de 2015.
 
 2.- Período de elaboración de los portafolios por los/as docentes: entre el 27 de julio y el 16 de octubre de 2015.
 
@@ -28,9 +28,9 @@ Fíjase en el marco del proceso de evaluación del desempeño profesional docent
 
 4.- Proceso de corrección de Portafolios: del 21 de diciembre de 2015 al 29 de enero de 2016.
 
-5.- Período de funcionamiento de las Comisiones Comunales de Evaluación: entre el 23 y el 27 de febrero de 2016.
+5.- Período de funcionamiento de las Comisiones Comunales de Evaluación: entre el 22 y el 26 de febrero de 2016.
 
-6.- Entrega de Informes de Resultados a los/as docentes entre el 16 y el 20 de marzo de 2016.
+6.- Entrega de Informes de Resultados a los/as docentes entre el 14 y el 18 de marzo de 2016.
 
 #### Artículo 2º
 
