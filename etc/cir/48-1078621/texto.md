@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES EFECTUADAS POR LA LEY Nº 20.780, AL RÉGIMEN TRIBUTARIO PARA LA MICRO, PEQUEÑA Y MEDIANA EMPRESA CONTENIDO EN LA LEY SOBRE IMPUESTO A LA RENTA, QUE RIGEN A CONTAR DEL 1 DE ENERO DE 2017
+
+Extracto de circular del Servicio de Impuestos Internos Nº 48, de fecha 15 de junio de 2015, la cual tiene por objeto impartir y refundir las instrucciones sobre las modificaciones efectuadas por la ley Nº 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en el artículo 14 ter de la Ley sobre Impuesto a la Renta, que rigen a contar del 1 de enero de 2017.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio de 2015.
