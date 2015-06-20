@@ -1,0 +1,7 @@
+REVOCA DELEGACIONES DE FACULTADES QUE INDICA Y DELEGA ATRIBUCIONES QUE SEÑALA
+
+Mediante resolución ex. Nº 752, de 4 de junio de 2015, de la V Dirección Regional Valparaíso del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) Nº 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1º del DFL Nº 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado se contiene en el decreto con fuerza de ley Nº 1-19.653, de 13 de diciembre de 2000, del Ministerio Secretaría General de la Presidencia; resolución Nº 1.600 de la Contraloría General de la República de 30 de octubre de 2008, se dictó resolución que revoca delegaciones de facultades que indica y delega atribuciones en el Jefe de Unidad, en el Jefe de Grupo de Fiscalización y funcionarios del Grupo de Atención y Asistencia, todos de la Unidad de Viña del Mar, según se expresa en la resolución cuyo extracto se publica.
+
+Texto íntegro de este documento, está publicado en www.sii.cl, de conformidad a lo dispuesto en la ley 20.285.
+
+Erica Morales Lártiga, Directora Regional.
