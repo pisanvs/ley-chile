@@ -12296,10 +12296,6 @@ Capítulo B-1 hoja 7
 
 A efectos prácticos, cuando se trate de financiamiento de proyectos o de préstamos especializados cuyas fuentes de pago sean los flujos de caja del proyecto o bienes financiados, las operaciones no se disociarán de los respectivos deudores, debiendo quedar encasilladas también dentro de las categorías indicadas.
 
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 7
-
 2.1.2 Factores mínimos a considerar para el encasillamiento de deudores.
 
 Los bancos deben contar con procedimientos formalizados para evaluar y clasificar a sus deudores conforme a su calidad crediticia y a las condiciones que deben darse para encasillarlos en las categorías de riesgo mencionadas en el numeral 2.1.1 anterior, considerando al menos los factores descritos a continuación, los que deberán ser complementados con criterios internos específicos delineados en la política y documentación de gestión de riesgo de crédito referidas en el numeral 1.1 anterior.
@@ -12380,17 +12376,17 @@ PP = Porcentaje de Provisión (según categoría en que deba encasillarse la Tas
 
 Todos los créditos del deudor deberán mantenerse en la Cartera en Incumplimiento hasta tanto no se observe una normalización de su capacidad o conducta de pago, sin perjuicio de proceder al castigo de cada crédito en particular que cumpla la condición señalada en el título II del Capítulo B-2. Para remover a un deudor de la Cartera en Incumplimiento, una vez superadas las circunstancias que llevaron a clasificarlo en esta cartera según las presentes normas, deberán cumplirse al menos las siguientes condiciones copulativas:
 
-i) Ninguna obligación del deudor con el banco ha dejado de servirse en la oportunidad y por el monto que correspondía.
+i) Ninguna obligación del deudor con el banco presenta un atraso superior a 30 días corridos.
 
 ii) No se le han otorgado nuevos refinanciamientos para pagar sus obligaciones.
 
 iii) Al menos uno de los pagos efectuados incluye amortización de capital.
 
-iv) Si el deudor tuviere algún crédito con pagos parciales en periodos inferiores a seis meses, ya ha efectuado más de un pago.
+iv) Si el deudor tuviere algún crédito con pagos parciales en periodos inferiores a seis meses, ya ha efectuado dos pagos.
 
-v) Si el deudor debe pagar cuotas mensuales por uno o más créditos, se han pagado al menos seis cuotas consecutivas.
+v) Si el deudor debe pagar cuotas mensuales por uno o más créditos, ha pagado cuatro cuotas consecutivas.
 
-vi) El deudor no aparece con deudas directas impagas en la información que refunde esta Superintendencia.
+vi) El deudor no aparece con deudas directas impagas en la información que refunde esta Superintendencia, salvo por montos insignificantes.
 
 3 Modelos basados en análisis grupal
 
@@ -12398,13 +12394,9 @@ Las evaluaciones grupales resultan pertinentes para abordar un alto número de o
 
 Las evaluaciones grupales de que se trata requieren de la conformación de grupos de créditos con características homogéneas en cuanto a tipo de deudores y condiciones pactadas, a fin de establecer, mediante estimaciones técnicamente fundamentadas y siguiendo criterios prudenciales, tanto el comportamiento de pago del grupo de que se trate como de las recuperaciones de sus créditos incumplidos y, consecuentemente, constituir las provisiones necesarias para cubrir el riesgo de la cartera.
 
-Los bancos podrán utilizar dos métodos alternativos para determinar las provisiones para los créditos minoristas que se evalúen en forma grupal.
+Los bancos podrán utilizar, en el caso en que este Organismo no disponga el uso de una metodología estándar para determinar las provisiones, dos métodos alternativos para los créditos minoristas que se evalúen en forma grupal.
 
 Bajo el primer método, se recurrirá a la experiencia recogida que explica el comportamiento de pago de cada grupo homogéneo de deudores y de recuperación por la vía de ejecución de garantías y acciones de cobranza cuando corresponda, para estimar directamente un porcentaje de pérdidas esperadas que se aplicará al monto de los créditos del grupo respectivo.
-
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 11
 
 Bajo el segundo, los bancos segmentarán a los deudores en grupos homogéneos, según lo ya indicado, asociando a cada grupo una determinada probabilidad de incumplimiento y un porcentaje de recuperación basado en un análisis histórico fundamentado. El monto de provisiones a constituir se obtendrá multiplicando el monto total de colocaciones del grupo respectivo por los porcentajes de incumplimiento estimado y de pérdida dado el incumplimiento.
 
@@ -12418,7 +12410,7 @@ Los bancos deberán distinguir entre las provisiones sobre la cartera normal y s
 
 3.1 Método estándar de provisiones para créditos hipotecarios para la vivienda
 
-El factor de provisión aplicable, representado por la pérdida esperada (PE) sobre el monto de las colocaciones hipotecarias para la vivienda, dependerá del morosidad de cada préstamo y de la relación entre el monto del capital insoluto de cada préstamo y el valor de la garantía hipotecaria (PVG) que lo ampara, según se indica en la tabla siguiente:
+El factor de provisión aplicable, representado por la pérdida esperada (PE) sobre el monto de las colocaciones hipotecarias para la vivienda, dependerá de la morosidad de cada préstamo y de la relación, al cierre de cada mes, entre el monto del capital insoluto de cada préstamo y el valor de la garantía hipotecaria (PVG) que lo ampara, según se indica en la tabla siguiente:
 
 Compendio de Normas Contables
 
@@ -12426,7 +12418,7 @@ Capítulo B-1 hoja 12
 
 .
 
-En caso de que un mismo deudor mantenga más de un préstamo hipotecario para la vivienda con el banco y uno de ellos presente morosidad superior a 90 días, para efectos de determinar el porcentaje de provisiones aplicable, todos esos préstamos se asignarán al último tramo de morosidad de la tabla anterior y las provisiones para cada uno de ellos se calcularán de acuerdo a los respectivos porcentajes de PVG.
+En caso de que un mismo deudor mantenga más de un préstamo hipotecario para la vivienda con el banco y uno de ellos presente un atraso de 90 días o más, todos estos préstamos se asignarán a la cartera en incumplimiento, calculando las provisiones para cada uno de ellos de acuerdo con sus respectivos porcentajes de PVG. Los créditos deben mantenerse en esa cartera hasta que se cumplan las condiciones de salida establecidas en el numeral 3.2.
 
 Los valores asignados a las garantías hipotecarias deben ser obtenidos siguiendo los criterios de valoración establecidos en la letra b) del numeral 4.1 de este Capítulo.
 
@@ -12434,29 +12426,27 @@ Cuando se trate de créditos hipotecarios para la vivienda vinculados a programa
 
 .
 
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 13
-
 3.2 Cartera en incumplimiento
 
-La cartera en incumplimiento comprende las colocaciones y créditos contingentes asociados a los deudores que presenten un atraso igual superior a 90 días en el pago de intereses o capital incluyendo todos sus créditos, inclusive el 100% del monto de créditos contingentes, que mantengan esos mismos deudores. También comprenderá los créditos cursados para dejar vigente una operación en mora y/o aquellas operaciones otorgadas a deudores que tengan con el banco algún crédito que haya sido objeto de una reestructuración forzosa o condonación parcial de la deuda, posterior a un estado de mora y que implique una disminución de la carga financiera periódica.
+La cartera en incumplimiento comprende todas las colocaciones y el 100% del monto de los créditos contingentes, de los deudores que al cierre de un mes presenten un atraso igual o superior a 90 días en el pago de intereses o capital de algún crédito. También incluirá a los deudores a los que se les otorgue un crédito para dejar vigente una operación que presentaba más de 60 días de atraso en su pago, como asimismo a aquellos deudores que hayan sido objeto de reestructuración forzosa o condonación parcial de una deuda.
 
 Podrán excluirse de la cartera en incumplimiento: a) los créditos hipotecarios para vivienda, cuya morosidad sea inferior a 90 días; y, b) los créditos para financiamiento de estudios superiores de la Ley N° 20.027, que aún no presenten las condiciones de incumplimiento señaladas en la Circular N° 3.454 de 10 de diciembre de 2008.
 
 Todos los créditos del deudor deberán mantenerse en la Cartera en Incumplimiento hasta tanto no se observe una normalización de su capacidad o conducta de pago, sin perjuicio de proceder al castigo de cada crédito en particular que cumpla la condición señalada en el título II del Capítulo B-2. Para remover a un deudor de la Cartera en Incumplimiento, una vez superadas las circunstancias que llevaron a clasificarlo en esta cartera según las presentes normas, deberán cumplirse al menos las siguientes condiciones copulativas:
 
-i) Ninguna obligación del deudor con el banco ha dejado de servirse en la oportunidad y por el monto que correspondía.
+i) Ninguna obligación .del deudor con el banco presenta un atraso superior a 30 días corridos
 
 ii) No se le han otorgado nuevos refinanciamientos para pagar sus obligaciones.
 
 iii) Al menos uno de los pagos efectuados incluye amortización de capital.
 
-iv) Si el deudor tuviere algún crédito con pagos parciales en periodos inferiores a seis meses, ya ha efectuado más de un pago.
+iv) Si el deudor tuviere algún crédito con pagos parciales en periodos inferiores a seis meses, ya ha efectuado dos pagos.
 
-v) Si el deudor debe pagar cuotas mensuales por uno o más créditos, se han pagado al menos seis cuotas consecutivas.
+v) Si el deudor debe pagar cuotas mensuales por uno o más créditos, ha pagado cuatro cuota consecutivas.
 
-vi) El deudor no aparece con deudas directas impagas en la información que refunde esta Superintendencia.
+vi) El deudor no aparece con deudas directas impagas en la información que refunde esta Superintendencia, salvo por montos insignificantes.
+
+La condición del numeral iii) no se aplica en el caso de deudores que solamente tienen créditos para financiamiento de estudios superiores de acuerdo con la Ley N° 20.027.
 
 4 Garantía, bienes entregados en leasing y operaciones de factoraje.
 
@@ -12465,10 +12455,6 @@ vi) El deudor no aparece con deudas directas impagas en la información que refu
 Las garantías podrán ser consideradas en el cálculo de provisiones, sólo si están legalmente constituidas y mientras se cumplan todas las condiciones que permiten su eventual ejecución o liquidación a favor del banco acreedor.
 
 En todos los casos, para los fines previstos en estas normas, el banco deberá poder demostrar el efecto mitigador que tienen las garantías sobre el riesgo de crédito inherente de las exposiciones que se respalden. Para el cálculo de las provisiones a que se refiere el Nº 2 y 3 de este Capítulo, las garantías se tratarán de la siguiente forma, según corresponda:
-
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 14
 
 a) Avales y fianzas
 
@@ -12486,13 +12472,11 @@ También se podrá aplicar el método de sustitución cuando el avalista o fiado
 
 i) el fisco, la CORFO o el FOGAPE, asignándoles para este efecto la categoría A1; y
 
-ii) deudores indirectos, distintos a los señalados en el número anterior, que cuenten con estados financieros auditados y que hayan sido clasificados por el banco, aplicando estrictamente lo dispuesto en el N° 2 de este Capítulo, en una categoría superior a A3 y a la del deudor directo.
-
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 15
+ii) deudores indirectos, distintos a los señalados en el número anterior, que cuenten con estados financieros auditados y que hayan sido clasificados por el banco, aplicando estrictamente lo dispuesto en el N° 2 de este Capítulo, en una categoría hasta A3 y superior a la del deudor directo.
 
 Para proceder a realizar la sustitución que aquí se trata, el banco debe llevar a cabo el control y seguimiento y demás actos que sean necesarios a objeto de asegurar el continuo cumplimiento de todas las condiciones legales, reglamentarias y contractuales que aseguren el cobro contra el garante, conforme a la cobertura que se haya definido contractualmente para la operación.
+
+Por otra parte, el procedimiento para obtener el pago debe permitir el cobro sin que medien inconvenientes operativos, debiendo existir evidencia de que los rechazos son mínimos en relación con las solicitudes que se presenta y que no suelen presentarse demoras en los pagos.
 
 Para efectos de la sustitución en la cartera grupal, cuando se utilice el primer método indicado en el número 3 de este Capítulo, los montos avalados pueden ser utilizados para la determinación de las provisiones, teniendo en cuenta lo siguiente:
 
@@ -12526,39 +12510,23 @@ PIaval = Porcentaje de probabilidad de incumplimiento del aval, según tabla del
 
 PDIaval = Porcentaje de pérdida dado el incumplimiento del aval según tabla del numeral 2.1 de este Capítulo.
 
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 16
-
 b) Garantías reales
 
 Para efectos de aplicar el método de deducción a que se refiere el número 2.1.3 precedente o de determinar tasas de recuperación, la valoración de garantías reales (hipotecas o prendas) debe reflejar el flujo neto que se obtendría en la venta de los bienes, instrumentos de deuda o de capital, en el evento que el deudor incumpla sus obligaciones y deba recurrirse a esa segunda fuente de pago. De acuerdo con eso, el monto de recuperación de un crédito por la vía de la ejecución de garantías, corresponderá al valor actual del importe que se obtendría en la venta bajo las condiciones en las que probablemente se realizará la misma, considerando el estado en el que se encontrarán los bienes al momento de su liquidación, y descontando los gastos estimados en que se incurriría para mantenerlos y enajenarlos, todo ello en concordancia con las políticas que al respecto tenga el banco y los plazos dispuestos en la ley para la liquidación de los bienes.
 
-El valor de las garantías correspondientes a prendas sobre instrumentos financieros de deuda o de capital, debe mantenerse actualizado siguiendo los
+El valor de las garantías correspondientes a prendas sobre instrumentos financieros de deuda o de capital, debe mantenerse actualizado siguiendo los criterios indicados en el Capítulo 7-12 de la Recopilación Actualizada de Normas.
 
-criterios indicados en el Capítulo 7-12 de la Recopilación Actualizada de Normas.
-
-Para las hipotecas y prendas sobre otros bienes, el banco debe contar con estudios que sustenten los criterios utilizados para determinar los valores
-
-asignados a los bienes recibidos en garantía. Dichos estudios, además, deben dar cuenta de la relación entre los precios que efectivamente se obtendrían en una eventual liquidación y sus valores de tasación o adjudicación, considerando probables deterioros físicos y que la recuperación de créditos, mediante la venta de bienes recibidos en garantía, será más recurrente en períodos de contracción económica y bajo condiciones adversas en los mercados. En todo caso, las valoraciones de hipotecas y otros bienes deben considerar, a lo menos, tasaciones efectuadas por profesionales independientes; las estimaciones de los gastos de mantención y de transacción; y la experiencia histórica contenida en información para un período mínimo de tres años, que comprenda a lo menos un episodio de caída en la actividad económica.
+Para las hipotecas y prendas sobre otros bienes, el banco debe contar con estudios que sustenten los criterios utilizados para determinar los valores asignados a los bienes recibidos en garantía. Dichos estudios, además, deben dar cuenta de la relación entre los precios que efectivamente se obtendrían en una eventual liquidación y sus valores de tasación o adjudicación, considerando probables deterioros físicos y que la recuperación de créditos, mediante la venta de bienes recibidos en garantía, será más recurrente en períodos de contracción económica y bajo condiciones adversas en los mercados. En todo caso, las valoraciones de hipotecas y otros bienes deben considerar, a lo menos, tasaciones efectuadas por profesionales independientes; las estimaciones de los gastos de mantención y de transacción; y la experiencia histórica contenida en información para un período mínimo de tres años, que comprenda a lo menos un episodio de caída en la actividad económica.
 
 La revalorización de los bienes o el reexamen de sus condiciones físicas, deberá considerarse frente a la posibilidad de que variaciones adversas de precios o deterioros físicos de los bienes incidan en el monto de recuperación que se obtendría mediante la enajenación de los mismos. Al respecto, el banco debe mantener políticas documentadas de revaloración de las garantías.
 
-Para el cálculo de las provisiones sobre créditos contingentes que consideran garantías o incrementos de ellas como condición para los desembolsos
-
-comprometidos, deben seguirse criterios similares para estimar los valores de los bienes que cubrirán los créditos efectivos.
+Para el cálculo de las provisiones sobre créditos contingentes que consideran garantías o incrementos de ellas como condición para los desembolsos comprometidos, deben seguirse criterios similares para estimar los valores de los bienes que cubrirán los créditos efectivos.
 
 Cuando se trate de financiamiento de proyectos inmobiliarios, la valoración de las garantías correspondientes a estados de avance de obras debe considerar los ajustes necesarios para reconocer el riesgo de una eventual interrupción del proyecto.
 
-Compendio de Normas Contables
+Para determinar la relación PVG, el banco deberá considerar el valor de tasación expresado en UF registrado al momento del otorgamiento del respectivo crédito, teniendo en cuenta eventuales situaciones que en ese momento puedan estar originando alzas transitorias en los precios de las viviendas.
 
-Capítulo B-1 hoja 17
-
-Para determinar la relación PVG, el banco deberá considerar el valor de tasación registrado al momento del otorgamiento del respectivo crédito, teniendo en cuenta eventuales situaciones que en ese momento puedan estar originando alzas transitorias en los precios de las viviendas.
-
-Lo anterior es sin perjuicio de los criterios distintos de valoración de garantías que deben utilizarse para el solo efecto de la ampliación de los
-
-límites de crédito, tratados en el Capítulo 12-3 de la Recopilación Actualizada de Normas.
+Lo anterior es sin perjuicio de los criterios distintos de valoración de garantías que deben utilizarse para el solo efecto de la ampliación de los límites de crédito, tratados en el Capítulo 12-3 de la Recopilación Actualizada de Normas.
 
 c) Garantías financieras
 
@@ -12580,17 +12548,13 @@ El valor razonable ajustado de los instrumentos financieros se obtendrá aplican
 
 Las estimaciones de pérdida para efectos de constituir las provisiones según el método de evaluación que le corresponda al deudor, considerarán el valor que se obtendría en la enajenación de los bienes arrendados, tomando en cuenta el probable deterioro que presentarán los bienes en caso de incumplimiento del arrendador y los gastos asociados a su rescate y liquidación o una eventual recolocación.
 
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 18
-
 4.3 Factoring
 
 La constitución de provisiones para colocaciones de factoraje deberá considerar como contraparte al cedente de los documentos endosados al banco, cuando la cesión e efectúe con responsabilidad de este último, y al deudor de las facturas, cuando la cesión haya sido realizada sin responsabilidad del cedente.
 
 Excepcionalmente, en los casos de cesión con responsabilidad se podrá sustituir al cedente por el deudor de la factura, cuando el contrato de la operación cumpla copulativamente las siguientes condiciones:
 
-- Existe obligación de notificación notarial al deudor de la factura sobre la cesión de ésta al banco; y
+- Existe la obligación de poner en conocimiento o notificar al deudor de la factura, de un modo previsto por la ley, sobre la cesión de ésta al banco;
 
 - El deudor de la factura cumple con las condiciones establecidas en la letra a) del número 4.1 de este Capítulo; y
 
@@ -12660,7 +12624,9 @@ Capítulo B-1 hoja 20
 
 En sus visitas de inspección esta Superintendencia examinará el funcionamiento de los métodos y modelos utilizados por los bancos, como parte de la evaluación que hará de la administración del riesgo de crédito para los efectos contemplados en el Capítulo 1-13 de la Recopilación Actualizada de Normas.
 
-Serán objeto de evaluación, entre otras cosas, los procedimientos establecidos por el banco para la clasificación de sus deudores, los métodos de cálculo de probabilidades de incumplimiento, el uso de criterios suficientemente prudenciales en las metodologías de evaluación grupal y la aplicación de las pruebas a que se refiere el N° 6 de este Capítulo.
+Serán objeto de evaluación, entre otras cosas, los procedimientos establecidos por el banco para la clasificación de sus deudores, el uso de criterios suficientemente prudenciales en las metodologías de evaluación grupal y la aplicación de las pruebas a que se refiere el N° 6 de este Capítulo.
+
+Las entidades podrán, para efectos de determinación de provisiones, reemplazar los métodos estándares dispuestos para las carteras grupales, por el uso de metodologías propias, para lo cual deberán previamente solicitar la aprobación de esta Superintendencia.
 
 Como consecuencia de sus revisiones esta Superintendencia podrá pronunciarse cerca de la suficiencia de las provisiones constituidas, lo que podrá abarcar toda la cartera o limitarse a cierto tipo de deudores, de créditos o de metodologías utilizadas.
 
