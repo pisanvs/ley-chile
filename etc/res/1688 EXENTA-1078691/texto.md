@@ -1,0 +1,5 @@
+DELEGA FACULTAD QUE INDICA EN FUNCIONARIOS QUE SEÑALA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos, Dirección Regional de Valdivia, Nº 1.688, del 11 de junio de 2015, en ejercicio de la facultad delegatoria entregada en la resolución exenta del Servicio de Impuestos Internos Nº 50, de 04/06/2015, la Directora Regional de la XVII Dirección del Servicio de Impuestos Internos, ha dictado la resolución exenta Nº 1.688, de fecha 11/06/2015, en virtud de la cual, delega en los Jefes de Unidades que señala, la facultad de aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nºs 15 y 16 y en el artículo 109, ambos del Código Tributario, cuando no se haya reclamado de ellas, como asimismo, para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto.
+
+El texto íntegro de este documento está publicado en "www.sii.cl".
