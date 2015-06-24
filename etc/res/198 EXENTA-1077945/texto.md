@@ -288,7 +288,7 @@ mantenerse sobre el cauce del río Mapocho para
 
 posteriormente proseguir hacia el Valle de Conchalí
 
-por el Portezuela de La Pirámide, evitando sobrevolar
+por el Portezuelo de La Pirámide, evitando sobrevolar
 
 edificaciones, hasta alcanzar 3.500 pies de altitud.
 
