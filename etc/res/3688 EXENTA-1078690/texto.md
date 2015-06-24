@@ -1,0 +1,7 @@
+DELEGA EN LOS JEFES DE LAS UNIDADES QUE SEÑALA LA FACULTAD DE APLICAR SANCIONES Y CONDONACIONES ADMINISTRATIVAS QUE INDICA
+
+Mediante resolución Ex. Nº 3.688, del 16 de junio de 2015, de la V Dirección Regional Valparaíso del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) Nº 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en al artículo 1º del DFL Nº 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado se contiene en el decreto con fuerza de ley Nº1-19.653, de 13 diciembre de 2000, del Ministerio Secretaría General de la Presidencia; resolución Nº1.600 de la Contraloría General de la República de 30 de octubre de 2008, se dictó resolución que delega en los Jefes de las Unidades de San Felipe, Los Andes, Quillota, Villa Alemana, La Ligua y San Antonio la facultad de aplicar las sanciones y condonaciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en los artículos 97 Nº 15 y 16 y en el artículo 109, todos del Código Tributario, según se expresa en la resolución cuyo extracto se publica.
+
+Texto íntegro de este documento está publicado en www.sii.cl, de conformidad a lo dispuesto en la ley 20.285.
+
+Claudio Valdivia Campos, Director Regional (S).
