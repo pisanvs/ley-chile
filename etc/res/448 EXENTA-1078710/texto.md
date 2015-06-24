@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº 448, DE 2014, QUE AUTORIZA FUNCIONAMIENTO DE TERMINAL URBANO QUE INDICA
+
+Por resolución exenta Nº 448, de 13 de octubre de 2014, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante automóviles, ubicado en calle Michimalonco Nº 4765, de la comuna de Talcahuano, Región del Biobío, de responsabilidad de la Empresa de Transporte Convental, Colectivos Nacionales Villa Ensenada Talcahuano S. A., RUT 96.909.800-8, representada legalmente por doña Esmeralda Bustos Benavides, cédula nacional de identidad número 5.361.088-9. El tipo de terminal es un terminal clasificado en "Categoría A - 2" con capacidad para 70 vehículos, de acuerdo a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. Déjese constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxis colectivos urbanos de Talcahuano, de propiedad de la Empresa de Transporte Convental, Colectivos Nacionales Villa Ensenada Talcahuano S.A., RUT 96.909.800-8, con recorrido Troncal: Tumbes - Puerto Talcahuano - Las Canchas - Valle San Eugenio, Variante 1: Michimalonco - Av. El Pescador - Alto Horno - Río Mapocho, Variante 2: Michimalonco - Camino a Tumbes - Av. Colón - Manuel Rodríguez.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima diaria de 70 automóviles, en conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+- **C)** El administrador del terminal será doña Esmeralda Bustos Benavides, RUT Nº 5.361.088-9, con domicilio en calle Michimalonco Nº 4765, comuna de Talcahuano. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+César Arriagada Lira, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región del Bío Bío.
