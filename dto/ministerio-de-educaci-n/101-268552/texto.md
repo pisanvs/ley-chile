@@ -50,7 +50,7 @@ Los recursos podrán destinarse, en la forma establecida en el artículo anterio
 
 Dichos recursos también podrán destinarse a los establecimientos ya ingresados al régimen de jornada escolar completa diurna con el objeto de solucionar el déficit de infraestructura, equipamiento y/o mobiliario, de manera que cada establecimiento cumpla con la totalidad de las normas que regulan esta materia.
 
-Además, en forma previa a la aprobación del diseño definitivo, se podrán financiar intervenciones en los establecimientos que no se encuentren en las situaciones antes señaladas, en aquellos casos en que resulte urgente superar un déficit de áreas sanitarias, prevenir riesgos mediante la reparación de instalaciones eléctricas, reforzamiento estructural de recintos u otras medidas, o superar cualquier otro déficit de infraestructura, equipamiento y/o mobiliario que pudiere poner en riesgo la prestación del servicio educacional. Estos proyectos no podrán superar las 5.000 UTM.
+Además, en forma previa a la aprobación del diseño definitivo se podrán realizar intervenciones de conservación en los casos que resulte urgente superar un déficit de áreas sanitarias, prevenir riesgos mediante la reparación de instalaciones eléctricas, reforzamiento estructural de recintos u otras medidas, o superar cualquier otro déficit de infraestructura, equipamiento y/o mobiliario que pudiere poner en riesgo la prestación del servicio educacional.
 
 #### Artículo 4º
 
@@ -112,7 +112,7 @@ d) Tramitar ante los organismos competentes toda la documentación y antecedente
 
 e) Ejecutar el proyecto de infraestructura aprobado por el Ministerio de Educación dentro del plazo acordado con éste.
 
-f) Obtener la recepción municipal satisfactoria de las obras.
+f) Obtener la recepción municipal satisfactoria de las obras, en los casos que sea procedente.
 
 g) Cuando corresponda, ingresar el establecimiento educacional al régimen de jornada escolar completa diurna de conformidad con la normativa legal y reglamentaria vigente sobre la materia.
 
@@ -136,7 +136,7 @@ c) Obras. Se pagarán contra el cumplimiento efectivo del programa de obras espe
 
 Se entenderá por programa de obras, el calendario físico financiero de las obras correspondientes y su ejecución se justificará mediante la presentación de estados de avance que quedarán sujetos a la supervisión establecida en este reglamento.
 
-En ningún caso se podrá pagar con cargo a la asignación para infraestructura, equipamiento y mobiliario D.L. Nº 3.166 de 1980, la totalidad del monto del contrato de obras que corresponda financiar al Ministerio de Educación si no se acompaña a la solicitud final copia de la recepción municipal de las obras.
+En ningún caso se podrá pagar con cargo a la asignación para infraestructura, equipamiento y mobiliario D.L. Nº 3.166 de 1980, la totalidad del monto del contrato de obras que corresponda financiar al Ministerio de Educación si no se acompaña a la solicitud final copia de la recepción municipal de las obras, cuando corresponda.
 
 Para que procedan los pagos, será necesario que se presenten estados de pago debidamente visados por la entidad administradora, los que deberán ser aprobados por el Ministerio de Educación.
 
