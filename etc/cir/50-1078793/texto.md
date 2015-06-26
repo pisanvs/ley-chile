@@ -1,0 +1,5 @@
+FACULTAD DEL SERVICIO DE IMPUESTOS INTERNOS PARA AUTORIZAR O EXIGIR LA UTILIZACIÓN DE SISTEMAS TECNOLÓGICOS DE INFORMACIÓN QUE PERMITAN EL DEBIDO CONTROL TRIBUTARIO DE CIERTOS SECTORES DE CONTRIBUYENTES O ACTIVIDADES
+
+Extracto de circular del Servicio de Impuestos Internos Nº 50 del 22 de junio de 2015, que instruye sobre el nuevo artículo 60 ter del Código Tributario, incorporado por la ley Nº 20.780, sobre facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio de 2015.
