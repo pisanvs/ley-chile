@@ -92,6 +92,8 @@ En relación con la participación de los Pueblos Originarios, los mecanismos de
 
 Las referidas modalidades deberán considerar los avances de las tecnologías de la información, de manera que siempre se favorezca aquel procedimiento que permita constatar un hecho y agilice la gestión pública.
 
+Respecto a los Consejos de Directores de establecimientos educacionales, como mecanismo de participación, éstos funcionarán de manera regular reuniéndose mensualmente en cada una de las regiones y se constituirán en un Consejo Consultivo de las Secretarías Regionales Ministeriales de Educación, para efectos del diseño e implementación de la polílica educativa, en especial en el ámbito del fortalecimiento y desarrollo del liderazgo escolar
+
 Asimismo, en la utilización de estas modalidades la autoridad deberá velar tanto por el correcto tratamiento de los datos personales en virtud de la Ley Nº 19.628, sobre Protección de la Vida Privada, como por la no discriminación en virtud de la ley Nº 20.609, asimismo la igualdad de oportunidades e inclusión social de las personas con discapacidad, contemplada en la ley Nº 20.422, además el respeto de los Pueblos Originarios, conforme a la Ley 19.253, Convenio 169 de la OIT y demás legislación vinculante. Lo anterior, sin perjuicio de otras normas vigentes.
 
 #### Artículo 6º
@@ -130,7 +132,7 @@ Cuenta Pública Participativa: Las Cuentas Públicas Participativas son espacios
 
 El Ministerio realizará anualmente un proceso de Cuenta Pública Participativo, con el objetivo de informar a la ciudadanía sobre la gestión realizada y recoger opiniones, comentarios, inquietudes y sugerencias sobre la misma, promoviendo el control ciudadano y la corresponsabilidad social. Este proceso se efectuará de forma desconcentrada a través de las Secretarías Regionales Ministeriales de Educación respectivas y deberá realizarse durante el primer trimestre escolar del año siguiente al que se dará cuenta en el proceso.
 
-Los servicios dependientes y órganos relacionados del Ministerio mencionados en el artículo Nº 2, del presente texto, realizarán su Cuenta Pública Participativa de forma independiente. Sin perjuicio de lo anterior, con el objeto de realizarlas de forma desconcentrada territorialmente, podrán ejercer este mecanismo de forma conjunta con las Secretarías Regionales Ministeriales. Para ello, las Secretarías Regionales Ministeriales deberán establecerlo en sus propias normas generales de participación ciudadana.
+Los servicios dependientes y órganos relacionados del Ministerio mencionados en el artículo Nº 2, del presente texto, realizarán su Cuenta Pública Participativa de forma independiente. Sin perjuicio de lo anterior, con el objeto de realizarlas de forma desconcentrada territorialmente, podrán ejercer este mecanismo de forma conjunta con las Secretarías Regionales Ministeriales.
 
 #### Artículo 9º
 
@@ -158,15 +160,13 @@ Dentro de los contenidos formales mínimos definidos anteriormente deberá preci
 
 #### Artículo 10º
 
-De la opinión del Consejo de la Sociedad Civil: Antes de difundir este informe, el Ministerio de Educación consultará la opinión al Consejo de la Sociedad Civil, consignando dicha opinión en la versión final del texto de la cuenta. La Unidad de Participación difundirá este documento ampliamente para lo cual deberá encontrarse disponible en la OIRS del Ministerio y deberá ser publicado en los medios de difusión electrónicos o impresos que se disponga.
-
-El Ministerio aprobará el documento base de rendición de cuenta pública respectiva e indicará el proceso y el cronograma del mismo.
+Derogado
 
 #### Artículo 11º
 
 Ejecución Presencial: El Ministerio, sus Secretarías Regionales Ministeriales, y demás organismos desconcentrados que eventualmente lo conformen, realizarán la ejecución presencial del proceso de Cuenta Pública Participativa de la siguiente forma:
 
-a) Las autoridades convocarán con anticipación a la fecha que se fije para la realización de la rendición de cuentas a actores de la sociedad civil que estén vinculados al ámbito del Ministerio de Educación, proporcionándoles las materias a tratar en la jornada y el informe de cuenta pública a través de correo electrónico. Este proceso debe finalizar a más tardar el 30 de abril del año siguiente al que se dará cuenta en el proceso.
+a) INCISO ELIMINADO.
 
 b) En el evento, se expondrán de manera clara y precisa los contenidos referidos en el artículo 8º. Luego, se realizará una instancia de discusión a través de una metodología participativa que permita recopilar las opiniones y comentarios planteados por los ciudadanos en un espacio virtual de cierre final.
 
@@ -296,7 +296,7 @@ Del consejo de la sociedad civil
 
 Consejo de la Sociedad Civil: EL Ministerio de Educación contará con un Consejo de la Sociedad Civil Nacional, representativo de diversos sectores vinculados a la educación, de carácter consultivo, el cual se conformará de manera diversa, representativa y pluralista.
 
-El Consejo tendrá como objetivo participar con su opinión en los procesos de toma de decisión sobre las políticas, los planes, los programas y cuentas públicas.
+El Consejo tendrá como objetivo participar con su opinión en los procesos de toma de decisión sobre las políticas, los planes, los programas.
 
 #### Artículo 28º
 
