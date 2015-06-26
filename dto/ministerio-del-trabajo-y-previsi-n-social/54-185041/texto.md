@@ -44,7 +44,7 @@ c) El Subsecretario del Trabajo;
 
 d) El Director del Trabajo, y
 
-e) Tres representantes de los trabajadores, designados para tal efecto por el Presidente de la República.
+e) Tres representantes del sector laboral elegidos por las tres organizaciones sindicales de mayor grado de carácter nacional más representativas de los trabajadores.
 
 #### Artículo 5º
 
@@ -54,7 +54,7 @@ El Consejo, por la mayoría de sus miembros, en casos calificados, podrá asigna
 
 #### Artículo 6º
 
-Para discernir el Premio, el Jurado será convocado por su Presidente a más tardar el 10 de abril de cada año, y emitirá su decisión fundada, en el plazo máximo de 15 días.
+Derogado
 
 #### Artículo 7º
 
