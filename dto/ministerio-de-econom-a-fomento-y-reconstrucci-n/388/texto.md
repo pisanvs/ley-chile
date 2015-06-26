@@ -102,6 +102,8 @@ una eslora total mayor de 15 metros y de hasta
 
 metros cúbicos.
 
+No obstante lo indicado en los incisos precedentes, exceptúese del requerimiento de capacidad de bodega a aquellas embarcaciones artesanales que operen exclusivamente recursos bentónicos.
+
 ## Título II
 
 De la sustitución de embarcaciones artesanales
