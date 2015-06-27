@@ -1658,6 +1658,8 @@ de salud, requieren de cirugías en distintas etapas
 
 los grandes vasos).
 
+. Se incluyen casos de personas mayores de 15 años
+
 Para efectos de Protección Financiera, se entenderá
 
 que corresponde copago sólo en las reintervenciones tardías.
@@ -2185,6 +2187,10 @@ En el grupo de prestaciones identificados en la "Protección Financiera" bajo el
 La prestación Radioyodo Cáncer de Tiroides en menores de 15 años, el pago de la prestación se efectuará por el tratamiento completo.
 
 En quimioterapia, los esquemas de tratamiento con quimioterapia son variados, y están conformados por un conjunto de ciclos, a su vez cada ciclo está formado por un número de sesiones. El esquema de quimioterapia a administrar depende entre otros de la etapificación. Entre cada ciclo de quimioterapia suelen mediar 21 días, por cuanto se debe tener presente que en un mes calendario pueden aparecer dos ciclos del mismo esquema.
+
+, SALUD
+
+Se incluyen los tumores del Sistema Nervioso Central de crecimiento rápido, que requieren tratamiento con quimioterapia y/o radioterapia
 
 3.14. ESQUIZOFRENIA
 
@@ -2922,6 +2928,8 @@ En relación al medicamento ácido valproico de liberación prolongada, lo que s
 
 El criterio de acceso es para personas menores de 17 años, una vez confirmado el diagnóstico el tratamiento deberá mantenerse mientras exista la indicación médica.
 
+El criterio de inclusión considera que los primeros síntomas se hayan producido antes de los 17 años, no que haya sido confirmada e ingresada al GES antes de los 17 años.
+
 3.39 PREVENCIÓN SECUNDARIA ENFERMEDAD RENAL CRÓNICA TERMINAL
 
 La enfermedad renal crónica (ERC), se define por la presencia de daño renal o disminución de la función renal (según VFG), según los siguientes criterios:
@@ -2983,6 +2991,8 @@ que los explique de:
 Los criterios diagnósticos para la Esclerosis Múltiple Recurrente Remitente (EMRR) se basan en los criterios de "Mc Donald" cuyo fundamento es la evidencia de que existen, al menos, dos lesiones que puedan ser identificadas, diseminadas en el tiempo y en el espacio.
 
 La definición de un ataque o brote es generalmente aceptado como el desarrollo de síntomas neurológicos, probablemente causados por una lesión desmielinizante inflamatoria, que duran al menos 24 horas y que son comprobables objetivamente en pacientes que cursan una EMRR.
+
+El tratamiento Inmunomodulador considera los siguientes medicamentos: Interferón Beta y Acetato de Glatiramer.
 
 3.43 CÁNCER COLORECTAL EN PERSONAS DE 15 AÑOS Y MÁS
 
@@ -3125,6 +3135,8 @@ Los criterios de derivación a especialista son:
 . Persistencia de síntomas luego de 4 semanas de terminado
 
 el tratamiento.
+
+3.52. Tumores Primarios del sistema Nervioso Central en personas de 15 y más: Se excluyen los tumores de la médula espinal
 
 ### 4. DE LAS PRESTACIONES Y LA APLICACIÓN DE GARANTIAS
 
