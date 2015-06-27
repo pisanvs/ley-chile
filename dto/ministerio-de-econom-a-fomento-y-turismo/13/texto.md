@@ -346,7 +346,21 @@ Valores asociados a la cantidad de horas de muestreo:
 
 Valores por tipo de análisis:
 
-.
+Tipo de Análisis $ / Análisis
+
+Grupo 1 2.185
+
+Grupo 2 5.574
+
+Grupo 3 9.586
+
+Grupo 4 7.031
+
+Grupo 5 6.019
+
+Grupo 6 8.806
+
+Grupo 7 40.129
 
 La definición de los grupos es la siguiente:
 
