@@ -9280,6 +9280,8 @@ A estas ampliaciones no les será aplicable lo dispuesto en el artículo 1.4.17.
 
 1.11. A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, emplazadas en el área urbana o rural, sólo les serán aplicables las disposiciones de los planes reguladores referidas a uso de suelo, zonas de riesgo o protección y declaraciones de utilidad pública, y las normas técnicas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores de electricidad y, cuando corresponda, de agua potable, alcantarillado y gas.
 
+Las ampliaciones de las unidades correspondientes a edificaciones colectivas destinadas a vivienda social, se exceptúan de lo dispuesto en los incisos segundo y tercero del artículo 4.1.1. de esta Ordenanza. En todo caso, dichas ampliaciones deberán observar la altura de piso a cielo y la altura bajo vigas o instalaciones horizontales contempladas en la edificación existente, que cuente con permiso otorgado por la Dirección de Obras Municipales respectiva.
+
 No podrán acogerse a esta disposición las ampliaciones de aquellas viviendas sociales que producto de la sumatoria de la superficie original de la vivienda, más la o las ampliaciones, superen los 140 m2.
 
 Los permisos y recepciones de estas obras se tramitarán conforme al procedimiento simplificado establecido en la letra A del numeral 2. del artículo 5.1.4. y en el último inciso del artículo 5.2.6. de esta Ordenanza, respectivamente.
