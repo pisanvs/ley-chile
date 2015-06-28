@@ -814,7 +814,7 @@ Los funcionarios titulares de planta que a la fecha de publicación de esta ley,
 
 #### Artículo octavo
 
-A los funcionarios de las Plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes que sean encasillados en ellas conforme lo establecido en el artículo segundo transitorio de esta ley, se les exigirán los exámenes habilitantes para el ascenso establecidos en el artículo 17 del Estatuto del Personal, sólo a contar del día siguiente del cumplimiento del plazo señalado en el inciso primero del artículo tercero transitorio de esta ley.
+Derogado
 
 #### Artículo noveno
 

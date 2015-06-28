@@ -692,7 +692,7 @@ La fecha de los ascensos del personal afecto a este Estatuto será la misma de l
 
 #### Artículo 24
 
-Los ascensos se concederán en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, considerando el promedio de notas obtenidas en los cursos de formación correspondientes, así como el cumplimiento de los requisitos establecidos en los numerales 2), 3) y 4) del artículo 26 de este Estatuto y lo dispuesto en el reglamento correspondiente.
+Los ascensos se concederán en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, considerando la antigüedad en la institución, el orden de egreso de la Escuela de Gendarmería y el cumplimiento de los requisitos establecidos en los numerales 2), 3) y 4) del artículo 26 de este Estatuto y lo dispuesto en el reglamento correspondiente.
 
 La ponderación de los factores mencionados en el inciso anterior estará contenida en el decreto con fuerza de ley respectivo.
 
@@ -711,6 +711,8 @@ El personal de las Plantas de Oficiales Penitenciarios y de Suboficiales y Genda
 3) Haber aprobado los cursos de perfeccionamiento y los exámenes habilitantes a que se refiere el artículo 17, en las condiciones que determine el reglamento, y
 
 4) Cumplir con el requisito del tiempo mínimo en el grado.
+
+> **Nota.** El Artículo Único de la Ley 20674, publicada el 31.05.2013, establece que el Director Nacional de Gendarmería de Chile podrá, dentro del período comprendido entre el 31 de mayo de 2013 y el 30 de noviembre del año 2014, a través de resolución fundada, y existiendo vacantes, ascender a los funcionarios de la institución que no cuenten con el requisito señalado en el número 4) del presente artículo o en el artículo único transitorio del decreto con fuerza de ley Nº 2, del Ministerio de Justicia, de 2011, según sea el caso, respetando estrictamente el orden del escalafón de antigüedad dentro del respectivo grado. Asimismo, establece que la referida facultad no será aplicable a los funcionarios titulares de los cargos de Subteniente y Teniente Segundo, grados 16º y 14º, respectivamente, de la Planta de Oficiales Penitenciarios, ni a los funcionarios titulares de los cargos de Gendarme y Gendarme Segundo, grados 26º y 24º, respectivamente, de la Planta de Suboficiales y Gendarmes a quienes le será aplicable lo dispuesto en los artículos 34 A y 34 B, respectivamente, de la presente norma.
 
 #### Artículo 27°
 
