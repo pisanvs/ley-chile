@@ -1,6 +1,6 @@
 MODIFICA CONCESIÓN DE ACUICULTURA
 
-Mediante resolución 472, del 12 de febrero de 2014, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+Mediante resolución 472, del 12 de febrero de 2015, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
 
 1.- Autorízase a Fiordo Blanco S.A., sociedad chilena, RUT 96.540.710-3, en Avenida Diego Portales 2000, piso 13, Puerto Montt, para incorporar al cultivo el grupo de especies salmónidos, requerido mediante solicitud 205103124, del 15 de junio de 2005, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.341, del 15 de julio de 1998, modificada por resolución 2.179, del 11 de noviembre de 2009, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, ubicada al sur de Punta Islotes, comuna de Chaitén, provincia de Palena, X Región de Los Lagos.
 
