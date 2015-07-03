@@ -20,7 +20,7 @@ Que existen familias de algunas comunas de la Región del Maule con grupos organ
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de la Región del Maule para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva para grupos con proyecto vinculado de las comunas de San Clemente, Maule y San Javier, por un monto total de hasta 400.000 Unidades de Fomento, a realizarse durante el mes de mayo de 2015.
+1. Autorízase a la Secretaría Regional Ministerial de la Región del Maule para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva para grupos con proyecto vinculado de las comunas de San Clemente, Maule y San Javier, por un monto total de hasta 451.000 Unidades de Fomento, a realizarse durante el mes de mayo de 2015.
 
 2. Autorízase a la Secretaría Regional Ministerial de la Región del Maule para establecer las condiciones especiales requeridas para la participación de los grupos con sus proyectos asociados en el llamado autorizado mediante el resuelvo precedente, de acuerdo a lo establecido en el artículo 21 del DS Nº 49 (V. y U.), de 2011, cuyo texto fue reemplazado por el artículo primero del DS Nº105 (V. y U.), de 2014.
 
@@ -40,7 +40,7 @@ Para los efectos de determinar el número de subsidios a financiar, se considera
 
 10. Mediante resolución de la Secretaría Regional Ministerial de la Región del Maule, que se deberá publicar en el Diario Oficial, se aprobará la nómina de grupos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá estar sancionada con fecha máxima de 30 de junio de 2015. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-11. Impútase el monto de hasta 400.000 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región del Maule, para el Programa Fondo Solidario de Elección de Vivienda del año 2015.
+11. Impútase el monto de hasta 451.000 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región del Maule, para el Programa Fondo Solidario de Elección de Vivienda del año 2015.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
