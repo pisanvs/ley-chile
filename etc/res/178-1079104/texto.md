@@ -1,38 +1,44 @@
-REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO DE DISTRIBUCIÓN DE LOS RECURSOS DEL FONDO DE INCENTIVO AL MEJORAMIENTO DE LA GESTIÓN MUNICIPAL
+SUSTITUYE EL TEXTO DE LA RESOLUCIÓN Nº 115, DE 16 DE MAYO DE 2012, DE LA SUBSECRETARÍA DE DESARROLLO REGIONAL Y ADMINISTRATIVO QUE REGLAMENTA EL PROCEDIMIENTO DE DISTRIBUCIÓN DE LOS RECURSOS DEL FONDO DE INCENTIVO AL MEJORAMIENTO DE LA GESTIÓN MUNICIPAL (E1659/2015)
 
-Núm. 115.- Santiago, 16 de mayo de 2012.- Vistos:Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Glosa 09 del Programa 03, correspondiente a la Subsecretaría de Desarrollo Regional y Administrativo de la Ley de Presupuestos del Sector Público de 2012, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+Núm. 178.- Santiago, 8 de junio de 2015.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 18.359, que crea el cargo de Subsecretario de Desarrollo Regional y Administrativo en el Ministerio del Interior; en el DFL Nº 1-18.359, de 1985, del Ministerio del Interior, que traspasa y asigna funciones a la Subsecretaría de Desarrollo Regional y Administrativo; en la Ley Nº 20.798 de Presupuestos del Sector Público año 2015, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-1.- Que, la Ley Nº 20.557, de Presupuestos del Sector Público año 2012, considera en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, el Fondo de Incentivo al Mejoramiento de la Gestión Municipal.
+1. Que, la Ley Nº 20.798, de Presupuestos del Sector Público para el año 2015, considera en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, el Fondo de Incentivo al Mejoramiento de la Gestión Municipal.
 
-2.- Que, conforme lo dispone la Ley de Presupuestos del Sector Público año 2012, en la Glosa 09 del Programa 03, correspondiente a la Subsecretaría de Desarrollo Regional y Administrativo, Programas de Desarrollo Local, es necesario dictar un reglamento que establezca los procedimientos de distribución de los citados recursos.
+2. Que, la citada ley, en la Glosa 08 del Programa 03, correspondiente a la Subsecretaría de Desarrollo Regional y Administrativo, Programas de Desarrollo Local, dispone que para la aplicación de los recursos se regirá por lo establecido en resolución Nº 115, de 16 de mayo de 2012, de la Subsecretaría de Desarrollo Regional y Administrativo.
 
-3.- Que para la determinación del procedimiento de distribución de los recursos, se deberán considerar, entre otros, la evolución de los indicadores financieros y de gestión municipal y los parámetros estructurales de las municipalidades.
+3. Que, el procedimiento de distribución de los recursos, debe considerar, entre otros, la evolución de los indicadores financieros y de gestión municipal, además de los parámetros estructurales de las municipalidades.
 
-4.- Que, los recursos que a cada municipalidad correspondan, se incorporarán en sus respectivos presupuestos y se destinarán a iniciativas de inversión y a la adquisición de activos no financieros.
+4. Que, los recursos que a cada municipalidad correspondan, se incorporarán en sus respectivos presupuestos y se destinarán a iniciativas de inversión, adquisición de activos no financieros, transferencias de capital para el Programa de Pavimentos Participativos del Ministerio de Vivienda y Urbanismo.
 
-5.- Que, de conformidad a lo dispuesto en el artículo 5º de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, que dispone la necesaria coordinación entre los órganos del Estado, propendiendo a la unidad de acción, evitando la duplicidad o interferencia de funciones.
+5. Que, de conformidad a lo dispuesto en el artículo 5º de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, que dispone la necesaria coordinación entre los órganos del Estado, propendiendo a la unidad de acción, evitando la duplicidad o interferencia de funciones.
+
+6. Que, con el objeto de focalizar los recursos del Fondo de Incentivo al Mejoramiento de la Gestión Municipal, en los municipios de menores ingresos, es necesario sustituir el texto de la resolución Nº 115, antes citada.
 
 Resuelvo:
 
-Apruébese el siguiente Reglamento que establece el procedimiento de distribución de los recursos del Fondo de Incentivo al Mejoramiento de la Gestión Municipal, en el cual se medirá la evolución de los indicadores financieros y de gestión municipal y los parámetros estructurales de las municipalidades, entre otros aspectos necesarios para su correcto funcionamiento:
+#### Artículo único
 
-## Título I
+<!-- parte:9618558 -->
 
-Objeto y Definiciones
+Sustitúyase el texto íntegro de la resolución Nº 115, de 16 de mayo de 2012, de la Subsecretaría de Desarrollo Regional y Administrativo, que aprobó el Reglamento que establece el Procedimiento de Distribución de los Recursos del Fondo de Incentivo al Mejoramiento de la Gestión Municipal, por el siguiente:
 
-#### Artículo 1º
+#### Artículo 1º (art. único)
 
-<!-- parte:9270501 -->
+<!-- parte:9618560 -->
 
 Objeto
 
 El Fondo de Incentivo al Mejoramiento de la Gestión Municipal, propende a estimular las mejoras en la administración municipal proporcionando recursos que, en forma autónoma los municipios destinarán a la inversión que el marco legal determine, considerando la diversidad, complejidad y parámetros estructurales de estos y de sus territorios comunales.
 
-#### Artículo 2º
+#### Artículo 2º (art. único)
 
-<!-- parte:9270502 -->
+<!-- parte:9618561 -->
 
 Definiciones
 
@@ -48,9 +54,9 @@ d) Indicadores del Fondo de Incentivo al Mejoramiento de la Gestión Municipal: 
 
 e) SINIM: Corresponde al Sistema Nacional de Información Municipal, administrado por la Subsecretaría.
 
-#### Artículo 3º
+#### Artículo 3º (art. único)
 
-<!-- parte:9270503 -->
+<!-- parte:9618562 -->
 
 Determinación de los Indicadores del Fondo:
 
@@ -70,9 +76,9 @@ f) Transparencia Municipal: Indicador que mide el cumplimiento de las normas sob
 
 g) Responsabilidad en la Entrega de Información: Indicador que mide el cumplimiento de la gestión del municipio en relación a la entrega de información solicitada por SUBDERE en el marco de la ley Nº 19.602. Para este indicador se considerarán los antecedentes aportados por las Unidades o Departamentos administradores respectivos, a más tardar el 15 de abril del año del cálculo.
 
-#### Artículo 4º
+#### Artículo 4º (art. único)
 
-<!-- parte:9270504 -->
+<!-- parte:9618563 -->
 
 De la Tipología para Efectos del Fondo.
 
@@ -104,9 +110,9 @@ Con todo, se promediará cada variable por dimensión y a su vez cada una de las
 
 Sin perjuicio de lo anterior y en mérito de la actualización de las variables anteriores, la Subsecretaría podrá modificar la tipología existente.
 
-#### Artículo 5º
+#### Artículo 5º (art. único)
 
-<!-- parte:9270505 -->
+<!-- parte:9618564 -->
 
 De conformidad a las normas de la presente resolución, existirán los siguientes grupos de comunas:
 
@@ -124,15 +130,15 @@ Para efectos de maximizar la homogeneidad de las comunas de cada grupo y, a su v
 
 Para la determinación de las municipalidades que conforman cada uno de estos grupos, se considerarán los valores de los ejes demográficos territoriales y socioeconómicos, calculados en base a las variables del artículo anterior.
 
-#### Artículo 6º
+#### Artículo 6º (art. único)
 
-<!-- parte:9270506 -->
+<!-- parte:9618565 -->
 
 La distribución de los recursos del Fondo, se concentrará en los grupos de menor desarrollo, según se detalla en el artículo 11 de este Reglamento.
 
-#### Artículo 7º
+#### Artículo 7º (art. único)
 
-<!-- parte:9270507 -->
+<!-- parte:9618566 -->
 
 De las fórmulas de cálculo.
 
@@ -142,45 +148,45 @@ a) Indicador Deuda Previsional (IDPi). El indicador de deuda previsional, estar�
 
 La ponderación en el sistema de indicadores del Fondo, para el Indicador de Responsabilidad en la entrega de Información, será de un cinco por ciento para todos los grupos de municipalidades.
 
-#### Artículo 8º
+#### Artículo 8º (art. único)
 
-<!-- parte:9270508 -->
+<!-- parte:9618567 -->
 
 El Indicador final del Fondo de Incentivo al Mejoramiento de la Gestión Municipal (IdFi), estará determinado por la suma de cada uno de los Indicadores ponderados, según la siguiente fórmula:
 
 .
 
-#### Artículo 9º
+#### Artículo 9º (art. único)
 
-<!-- parte:9270509 -->
+<!-- parte:9618568 -->
 
 Con todo, para el caso de aquellos indicadores cuya fuente de información emane del SINIM, en que no se cuente con la información por falta imputable a la municipalidad, se asignará el valor cero (0). Sin embargo, en el caso de los municipios que por fuerza mayor o situaciones de catástrofe fundada, no proporcionen la información para la determinación de los distintos indicadores del Fondo, se considerará la última información disponible.
 
 En el caso de la Municipalidad de Isla de Pascua, y considerando lo dispuesto por el artículo 41 de la ley Nº 16.441, no serán considerados los indicadores de las letras c) y d) del artículo 7º, para lo cual el resto de los indicadores serán ponderados con un cuarenta por ciento el correspondiente a Reportabilidad a la Contraloría General de la República, un cuarenta por ciento para el indicador de Transparencia Municipal, un cinco por ciento el Indicador de Responsabilidad en la Presupuestación de Ingresos de Gestión Municipal y un quince por ciento el Indicador de Responsabilidad en la Entrega de Información.
 
-#### Artículo 10º
+#### Artículo 10º (art. único)
 
-<!-- parte:9270510 -->
+<!-- parte:9618569 -->
 
 Del Procedimiento de Distribución de los Recursos del Fondo:
 
 El Fondo distribuirá la totalidad de los recursos al cincuenta por ciento de las municipalidades que, una vez ponderada la información de acuerdo al sistema de indicadores de gestión del Fondo, se ubiquen en lo más alto de cada uno de los grupos establecidos por la tipología.
 
-#### Artículo 11º
+#### Artículo 11º (art. único)
 
-<!-- parte:9270511 -->
+<!-- parte:9618570 -->
 
 El monto de participación de las agrupaciones en el Fondo (MFgi), se distribuirá en un diez por ciento para el Grupo 1, quince por ciento para el Grupo 2, veinte por ciento para el Grupo 3, veinticinco por ciento para el Grupo 4, y un treinta por ciento para el Grupo 5.
 
-#### Artículo 12º
+#### Artículo 12º (art. único)
 
-<!-- parte:9270512 -->
+<!-- parte:9618571 -->
 
 Para efectos de su distribución, la Subsecretaría determinará mediante resolución en el mes de junio, los montos que a cada municipalidad le correspondan y el grupo en que cada una de ellas se ubique.
 
-#### Artículo 13º
+#### Artículo 13º (art. único)
 
-<!-- parte:9270513 -->
+<!-- parte:9618572 -->
 
 El monto de participación de los municipios en cada uno de los grupos definidos en el artículo 5º de este reglamento, estará dado por el siguiente procedimiento:
 
@@ -190,9 +196,9 @@ b) Para el cincuenta por ciento superior o igual, de los municipios de cada agru
 
 .
 
-#### Artículo 14º
+#### Artículo 14º (art. único)
 
-<!-- parte:9270514 -->
+<!-- parte:9618573 -->
 
 Del Destino de los Recursos:
 
@@ -200,9 +206,9 @@ Los recursos que cada municipalidad perciba del Fondo se deberán incorporar en 
 
 Con todo, las municipalidades que perciban recursos provenientes del Fondo deberán dar estricto cumplimiento, en lo que sea pertinente, a la resolución Nº 30, de 2015, de la Contraloría General de la República, que Fija Normas de Procedimiento sobre Rendición de Cuentas, o la norma que la reemplace.
 
-#### Artículo 15º
+#### Artículo 15º (art. único)
 
-<!-- parte:9270515 -->
+<!-- parte:9618574 -->
 
 Del Mecanismo de Información:
 
@@ -282,12 +288,12 @@ Para el caso de la comuna de Isla de Pascua y considerando lo señalado en el ar
 
 h) Con todo, si la información que la Subsecretaría debe requerir a los servicios públicos indicados en las letras precedentes, se encontrare disponible en sus respectivos sitios electrónicos, se estará a dicha información, sin ser necesaria su formal solicitud.
 
-#### Artículo 16º
+#### Artículo 16º (art. único)
 
-<!-- parte:9618935 -->
+<!-- parte:9618575 -->
 
 Publicidad de la Información:
 
 La Subsecretaría deberá publicar en su página web, mediante un sistema de libre acceso, la resolución que determina los municipios de cada grupo y los montos que a cada municipalidad le correspondan del Fondo.
 
-Anótese, tómese razón y publíquese.- Miguel Flores Vargas, Subsecretario de Desarrollo Regional y Administrativo.- Visación Dirección de Presupuestos, Ministerio de Hacienda.
+Anótese, tómese razón y publíquese.- Ricardo Cifuentes Lillo, Subsecretario de Desarrollo Regional y Administrativo.
