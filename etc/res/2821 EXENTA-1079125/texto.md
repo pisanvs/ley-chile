@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.821 EXENTA, DE 2015, QUE APROBÓ PROCEDIMIENTO EXCEPCIONAL DE VALIDACIÓN DE MONTOS Y PAGOS, EN EL MARCO DEL PROGRAMA DE CAPACITACIÓN
+
+Mediante la resolución exenta Nº 2.821, de 23 de junio de 2015, del Servicio Nacional de Capacitación y Empleo, se aprobó Procedimiento Excepcional de Validación de Montos y Pagos, para efectos de realizar procesos de pago manual en relación a Subsidios de Herramientas, Certificaciones y/o Licencias Habilitantes, en el marco del Programa de Capacitación, que también podrá denominarse "Programa de Formación para el Trabajo", primer llamado año 2014 y siguientes. El texto íntegro de la resolución exenta Nº 2.821, de 23 de junio de 2015, de este Servicio Nacional, se encuentra publicada en la página www.sence.cl.
+
+Santiago, 23 de junio de 2015.- Pedro Goic Boroevic, Director Nacional, Servicio Nacional de Capacitación y Empleo.
