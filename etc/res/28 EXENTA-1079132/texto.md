@@ -1,0 +1,13 @@
+RESUELVE PONER TÉRMINO AL PROCESO DE CONSULTA PREVIA RESPECTO DE LAS ASOCIACIONES QUE INDICA, SEGÚN LO ESTABLECIDO EN EL CONVENIO Nº 169 DE LA OIT EN EL MARCO DE LA EVALUACIÓN AMBIENTAL DEL PROYECTO "PAMPA SOLAR"
+
+Con fecha 12 de mayo de 2015, en el marco de la evaluación ambiental del proyecto "Pampa Solar", mediante resolución exenta Nº 28-2015 del Director Regional (PT) del Servicio de Evaluación Ambiental de la Región de Tarapacá, se ha ordenado poner término al Proceso de Consulta Indígena, respecto de las siguientes Asociaciones Indígenas: Asociación Indígena Aymara Cultura, Rescate, Promoción de Desarrollo del Arte Textil Aymara; Asociación Indígena Aymara Mapuche Newen Tw Le A Hyiñ Pw Peñi; Asociación Indígena Multiétnica La Pampa; Asociación Indígena Sathiri Marka; Asociación Indígena Aymara Alto Sillaguay; Asociación Indígena Aymara Artesanos Flor del Tamarugal; Asociación Indígena Aymara Pequeños Parceleros y Artesanos Castilluma; Asociación Indígena Aymara Flor del Desierto; Asociación Indígena Aymara Jallalla; Asociación Indígena Aymara Kullalla Sabury; Asociación Indígena Aymara Kusa Sabuta; Asociación Indígena Aymara Los Andes; Asociación Indígena Aymara Machaja Marka; Asociación Indígena Aymara Marka-Pahata; Asociación Indígena Aymara Migrantes Hijas de Isluga; Asociación Indígena Aymara Nayra Inti; Asociación Indígena Aymara Pampa Yapu; Asociación Indígena Aymara Santa Rosa de Villablanca; Asociación Indígena Aymara Sol Naciente; Asociación Indígena Aymara Taller Kumire; Asociación Indígena Aymara Unión Familiar y Asociación Indígena Aymara Artesanas de la Pampa Salitrera.
+
+Lo anterior, por cuanto ha transcurrido más de un año, sin que ninguna de las asociaciones mencionadas haya manifestado el propósito de participar en el presente PCI, no obstante las acciones, comunicaciones, actos y gestiones llevadas a cabo por el SEA Tarapacá en orden a buscar su participación, por lo que no es posible, a su respecto, perseverar en el presente PCI. El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Ernesto Riquelme Nº 1081, Iquique.
+
+. Además, podrá accederse a ella a través del sitio:
+
+http://seia.sea.gob.cl/archivos/2015/06/08/R.E_28_Pone_Termino_ a_ PCI._Pampa_ Solar.pdf.-
+
+Pedro Valenzuela Diez de Medina, Director Regional (PT) Servicio de Evaluación Ambiental Región de Tarapacá.
