@@ -1,0 +1,5 @@
+FACULTAD DEL SERVICIO DE IMPUESTOS INTERNOS PARA EXAMINAR LAS HOJAS SUELTAS Y SISTEMAS TECNOLÓGICOS QUE SIRVAN DE SOPORTE A LA CONTABILIDAD Y REGISTROS AUXILIARES. REQUERIMIENTO DE ANTECEDENTES CON EL FIN DE RECABAR INFORMACIÓN DEL CONTRIBUYENTE
+
+Extracto de circular del Servicio de Impuestos Internos Nº 57, del 26 de junio de 2015, que instruye sobre las modificaciones al artículo 60 del Código Tributario, incorporadas por la ley Nº20.780, sobre facultad del Servicio de Impuestos Internos para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares, y requerimiento de antecedentes con el fin de recabar información del contribuyente.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de junio de 2015.
