@@ -458,9 +458,9 @@ graecum origen adicionales
 
 6. Se aceptarán como tratamientos de fumigación las siguientes alternativas:
 
-6.1 Para Trogoderma granarium (Coleoptera: Dermestidae)
+6.1 Contra Trogoderma granarium (Coleoptera: Dermestidae) para todas las especies de granos que tienen corno requisito esta plaga:
 
-Producto: Bromuro de Metilo (presión atmosférica normal)
+FUMIGANTE: BROMURO DE METILO (presión atmosférica normal)
 
 Dosis Tiempo de Temperatura del
 
@@ -468,37 +468,55 @@ Exposición Producto
 
 (gr/m3) (horas) (°C)
 
-40 12 32,0 o más
+40 12 32,2 o más
 
-56 12 26,5 - 31,5
+56 12 26,5 - 32,1
 
-72 12 21,0 - 26,0
+72 12 21,0 - 26,4
 
-96 12 15,5 - 20,5
+96 12 15,5 - 20,9
 
-120 12 10,0 - 15,0
+120 12 10,0 - 15,4
 
-144 12 4,5 - 9,5
+144 12 4,5 - 9,9
 
-6.2 Para insectos de la Familia Bruchidae y Prostephanus truncatus (Coleoptera Bostrichidae).
+6.2 Contra Trogoderma granarium (Coleoptera: Dermestidae), sólo para granos de cebada (Hordeum vulgare) para maltear:
 
-Producto: Fosfamina
+6.2.1 Para envíos a granel:
 
-Dosis Tiempo de Temperatura del
+FUMIGANTE: FOSFINA (presión atmosférica normal)
 
-(gr/m3) Exposición Producto
+Dosis Tiempo de Temperatura mínima
+
+(grPH3/m3) Exposición del Producto
 
 (días) (°C)
 
-2.5 7 12-15
+8 11 16,0 o más
 
-2.5 6 16-20
+9 15 11,0 - 15,9
 
-2.5 5 21-25
+10 21 10,0 - 10,9
 
-2.5 4 26 o más
+6.2.2 Para envíos en contenedores:
 
-6.3 En aquellos casos en que se soliciten tratamientos contra Trogoderma granarium e insectos de la Fam. Bruchidae, será válido el tratamiento que se exige contra Trogoderma granarium.
+FUMIGANTE: FOSFINA (presión atmosférica normal)
+
+Dosis Tiempo de Temperatura mínima
+
+(grPH3/m3) Exposición del Producto
+
+(días) (°C)
+
+6 6 20,1 o más
+
+7 11 16,0 - 20,0
+
+8 15 11,0 - 15,9
+
+9 21 10,0 - 10,9
+
+6.2.3 Para el caso de granos de cebada (Hordeum vulgare) para maltear que provengan de un país de origen que no cuente con las capacidades para cumplir con los tratamientos fitosanitarios propuestos en los puntos 6.2.1 y 6.2.2, se evaluará la posibilidad de aplicación de permisos específicos de importación caso a caso, en los cuales se contemplarán medidas a aplicar en destino, resguardo u otras que el Servicio estime convenientes.
 
 7. Para el ingreso de granos provenientes de orígenes distintos a los señalados expresamente o no regulados en la presente resolución, el servicio, a petición del interesado, fijará los requisitos fitosanitarios de importación, de acuerdo al resultado del Análisis del Riesgo de Plagas.
 
