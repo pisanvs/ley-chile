@@ -60,7 +60,7 @@ De la solicitud de concesión
 
 #### Artículo 5
 
-Las solicitudes de concesión a que se refiere el artículo 11 de la Ley deberán ser ingresadas a través de la plataforma web del Ministerio de Energía, y se deberán ajustar a los requerimientos que se establecen en la Ley y en los artículos 6 y 7 del presente reglamento. Completado el trámite de ingreso, la referida plataforma web generará en forma automática un certificado que servirá como medio de verificación de que la solicitud fue recepcionada por el Ministerio. Para el caso que la referida plataforma no se encuentre disponible o el interesado no cuente con los medios necesarios para realizar la presentación digital de la solicitud, ésta podrá realizarse en papel mediante su ingreso en la oficina de Partes del Ministerio de Energía o la respectiva Secretaría Regional Ministerial.
+Las solicitudes de concesión a que se refiere el artículo 11 de la Ley deberán ser presentadas en la Oficina de Partes del Ministerio y se deberán ajustar a los requisitos que se establecen en la Ley y en los artículos 6 y 7 del presente reglamento. El funcionario encargado de la recepción de las solicitudes deberá firmar y timbrar todos los ejemplares, dejando, además, en todos ellos testimonio de la fecha y hora de su recepción.
 
 #### Artículo 6
 
@@ -112,9 +112,11 @@ La solicitud y todos los antecedentes deberán cumplir con los siguientes requis
 
 1. Redactarse en idioma español.
 
-2. Contar con un índice.
+2. Entregarse en un original y tres copias.
 
-3. Los precios y valores pecuniarios a que se haga referencia en la solicitud o en cualquiera de sus antecedentes, deberán ser expresados en dólares de los Estados Unidos de América.
+3. Contar con un índice.
+
+4. Los precios y valores pecuniarios a que se haga referencia en la solicitud o en cualquiera de sus antecedentes, deberán ser expresados en dólares de los Estados Unidos de América.
 
 #### Artículo 8
 
@@ -122,7 +124,7 @@ Derogado
 
 #### Artículo 9
 
-Las publicaciones a que alude el artículo 13 de la Ley, esto es, la publicación que debe efectuarse, por una sola vez, en el Diario Oficial, las dos publicaciones en un diario de circulación nacional y las dos publicaciones en un diario de circulación regional, deberán ser presentadas por el solicitante al Ministerio de Energía a través de la plataforma web señalada en el artículo 5, dentro del mes siguiente a la fecha de la última de las publicaciones. Asimismo, deberá acompañarse el certificado a que alude el artículo 5 del decreto Nº 205, de fecha 14 de julio de 2000, del Ministerio de Minería, que Reglamenta características Registro Público, para emisiones de mensajes radiales, de extractos de solicitud concesiones de energía geotérmica, en sectores de difícil acceso. Artículo 13 inciso tercero ley 19.657.
+Las publicaciones a que alude el artículo 13 de la Ley, esto es, la publicación que debe efectuarse, por una sola vez, en el Diario Oficial, las dos publicaciones en un diario de circulación nacional y las dos publicaciones en un diario de circulación regional, deberán acompañarse por el solicitante dentro del mes siguiente a la fecha de la última de las publicaciones. Asimismo, deberá acompañarse el certificado a que alude el artículo 5 del decreto Nº 205, de fecha 14 de julio de 2000, del Ministerio de Minería, que Reglamenta características Registro Público, para emisiones de mensajes radiales, de extractos de solicitud concesiones de energía geotérmica, en sectores de difícil acceso. Artículo 13 inciso tercero ley 19.657.
 
 #### Artículo 10
 
@@ -294,7 +296,9 @@ De las observaciones y reclamaciones a la solicitud de concesión o licitación 
 
 #### Artículo 32
 
-Las reclamaciones y observaciones deberán presentarse en la Subsecretaría de Energía a través de su Oficina de Partes o de la plataforma web del Ministerio de Energía y se tramitarán y resolverán en la forma dispuesta por el artículo 18 de la Ley.
+Las reclamaciones y observaciones deberán presentarse en la Subsecretaría de Energía y se tramitarán y resolverán en la forma dispuesta por el artículo 18 de la Ley.
+
+La presentación podrá efectuarse personalmente o a través de un representante con poder suficiente.
 
 #### Artículo 33
 
