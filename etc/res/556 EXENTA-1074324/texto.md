@@ -210,7 +210,7 @@ a) Certificado del Departamento Técnico del Serviu en el que conste que las obr
 
 b) El constructor podrá entregar una Boleta de Garantía única, ya sea por cada beneficiario o por el total de beneficiarios respecto de los cuales ejecute las obras, para garantizar el fiel, oportuno y total cumplimiento del contrato, y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos cuarto, quinto, sexto y séptimo del artículo 59 del DS Nº 49 (V. y U.), de 2011. La Boleta de Garantía de fiel cumplimiento del contrato deberá encontrarse vigente al momento de solicitar los anticipos por avance de obra, y será responsabilidad de Serviu informar del vencimiento de ésta a la Empresa Constructora, 15 días antes del término de su vigencia y solicitar la prórroga.
 
-Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº 49 (V. y U.), de 2011.
+Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº 49 (V. y U.), de 2011. En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se exigirá que los ceda para el pago del subsidio.
 
 ### Párrafo 5º — Consideraciones técnicas para proyectos de Construcción en Sitio Propio.
 
