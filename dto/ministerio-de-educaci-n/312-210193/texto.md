@@ -36,7 +36,7 @@ a) Asignación de becas anuales de retención a estudiantes de educación media 
 
 La Beca de Retención consiste en la asignación de recursos financieros al estudiante para favorecer su permanencia en el establecimiento educacional, con el objeto de alcanzar los doce años de escolaridad obligatoria, que establece el artículo 19 N° 10 de la Constitución Política de la República de Chile.
 
-A partir del año 2009 se asignará un total de hasta 19.110 Becas de Retención Escolar, incluyendo aquellos estudiantes que gozan del beneficio desde años anteriores, por un monto igual a $ 162.000.- (ciento sesenta y dos mil pesos), siempre que se consulten los recursos necesarios en la respectiva Ley de Presupuestos para el Sector Público. El monto de la Beca se reajustará anualmente de acuerdo a la variación experimentada por el Índice de Precios al Consumidor, del año anterior al ejercicio presupuestario correspondiente.
+El monto de la beca, ascenderá a la suma de $178.000 (ciento setenta y ocho mil pesos), de acuerdo a los recursos entregados en la respectiva Ley de Presupuestos para el Sector Público, y se pagará en hasta cuatro cuotas progresivas durante el período lectivo (marzo a diciembre). El monto de la beca se reajustará anualmente de acuerdo a la variación experimentada por el Índice de Precios al Consumidor, del año anterior al ejercicio presupuestario correspondiente.
 
 La Beca será administrada directamente por la Junta Nacional de Auxilio Escolar y Becas.
 
