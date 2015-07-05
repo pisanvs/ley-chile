@@ -1,0 +1,7 @@
+OFICIALIZA NOMINACIÓN DE MIEMBROS TITULARES Y SUPLENTES DEL SECTOR PRIVADO DEL COMITÉ DE MANEJO DE ANCHOVETA Y SARDINA ESPAÑOLA III-IV REGIONES
+
+Por resolución exenta Nº 1.723, de 25 de junio de 2015, de esta Subsecretaría, oficialízase como integrantes miembros titulares y suplentes del sector privado de Comité de Manejo de Anchoveta y Sardina Española III-IV regiones, de la siguiente forma. Representantes del Sector Pesquero Artesanal; a Miguel Ávalos Medina, como titular, y a Elvio Martínez Fernández, como suplente, en el primer cargo, a Giulliano Reynuaba Salas, como titular y a Nelson Andrés Núñez Arancibia, como suplente, en el segundo cargo. Declárese vacante el tercer cargo. En representación del Sector Pesquero Industrial a Ángel Cortés Barraza como titular, y a Jorge Ortúzar Gelten como suplente, en el primer cargo, a don Carlos Ernesto Santander Farías, como titular y a don Fernando Francisco Ortiz, como suplente en el segundo cargo, a don Manuel Zambra Pessini como titular y a don Raúl Yaryes Vergara como suplente, en el tercer cargo. En representación de las plantas de proceso a don Héctor Henrique Pujado Barría, como titular y a don José Luis Carreño Zamora como suplente.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 25 de junio de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
