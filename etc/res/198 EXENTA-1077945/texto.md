@@ -378,7 +378,7 @@ Conchalí por el Portezuelo de La Pirámide evitando
 
 sobrevolar edificios.
 
-2.4.2.3 Cruzado el Portezuela de La Pirámide, el ascenso deberá
+2.4.2.3 Cruzado el Portezuelo de La Pirámide, el ascenso deberá
 
 realizarse preferentemente dentro de la zona de
 
