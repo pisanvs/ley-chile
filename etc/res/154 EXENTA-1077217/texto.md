@@ -24,7 +24,7 @@ Resolución:
 
 3º Hasta el 31 de marzo de 2015 continuará empleándose el formulario actualmente en uso, aprobado por resolución Nº 790, de 5 de septiembre de 2002, de este Ministerio.
 
-4º Sin perjuicio de lo anterior, las entidades mencionadas en el Nº 1° deberán continuar tramitando las licencias médicas extendidas en el formulario vigente con anterioridad al 1 de abril de 2015, hasta el 30 de junio de 2015.
+4º Sin perjuicio de lo anterior, las entidades mencionadas en el Nº 1° deberán continuar tramitando las licencias médicas extendidas en el formulario vigente con anterioridad al 1 de abril de 2015, hasta el 30 de junio de 2016.
 
 Anótese, comuníquese y publíquese.- Jaime Burrows Oyarzún, Subsecretario de Salud Pública.
 
