@@ -1030,15 +1030,7 @@ LABORATORIO EXTERNO
 
 DE CONTROL DE CALIDAD. 80.000
 
-4122014 COMUNICACIÓN DE
-
-SUSCRIPCIÓN DE CONVENIO
-
-DE CONTROL DE
-
-CALIDAD ENTRE
-
-ESTABLECIMIENTOS. 80.000
+4122014 ELIMINADO.
 
 4122021 COPIA DE RESOLUCIÓN
 
@@ -2172,7 +2164,7 @@ Y MÁS 213.140
 
 2. Las nuevas prestaciones y aranceles entrarán en vigencia 15 días después de su publicación en el Diario Oficial, fecha en que quedará modificada la resolución exenta Nº 393, de 7 de marzo de 2001, de este Ministerio.
 
-3. Derógase la resolución exenta Nº119, de 14 de marzo de 2005, del Ministerio de Salud, sin tramitar. Anótese y publíquese.- Pedro García Aspillaga, Ministro de Salud.
+3. Derógase la resolución exenta Nº119, de 14 de marzo de 2005, del Ministerio de Salud, sin tramitar.
 
 Anótese y publíquese.- Pedro García Aspillaga, Ministro de Salud.
 
