@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº1.876 EXENTA, DE 2015
+
+Por resolución exenta Nº 1.876, de fecha 16 de junio de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso; se aprobaron los planes y programas de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Ingeniero Mateluna Bello", siendo su Director el Sr. Alexis Campos Araya, RUN Nº 12.396.298-2, la que tendrá su lugar de funcionamiento en la sede ubicada en calle Carrera Nº 1870, comuna de La Calera. Las horas pedagógicas autorizadas a la referida escuela son 11 horas teóricas, 12 horas prácticas, con un total de 23 horas pedagógicas.
+
+Patricio Cannobbio Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
