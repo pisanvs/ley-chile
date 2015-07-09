@@ -10,7 +10,11 @@ Servicio de Impuestos Internos
 
 #### Artículo 1º
 
-Derogado
+El ingreso a los cargos de planta del escalafón de Fiscalizadores del Servicio de Impuestos Internos se hará por concurso público y en el último grado vacante. La provisión de cargos en el resto de los grados, se realizará por concurso interno para aquellos funcionarios pertenecientes a la planta de Fiscalizadores.
+
+La provisión de cargos en todos los grados de la planta de Profesionales, se realizará por concurso público.
+
+En estas materias se aplicarán las normas del párrafo 1º del título II de la ley Nº 18.834, en lo que fuere pertinente.
 
 #### Artículo 2º
 
@@ -20,45 +24,93 @@ La asignación especial de estímulo contendrá los siguientes componentes:
 
 a) Una parte fija o base.
 
-b) Una parte asociada a la gestión tributaria.
+b) Una parte variable por cumplimiento de la meta institucional de disminución de la evasión.
 
-c) El incremento por desempeño colectivo otorgado por el artículo 7º de la ley Nº 19.553.
+c) El incremento por desempeño individual a que se refiere el artículo 7º de la ley Nº 19.553.
 
-Los porcentajes de la asignación especial de estímulo para los componentes fijo y asociado a la gestión tributaria señalados en las letras a) y b) precedentes, serán los determinados en el artículo 4º de esta ley.
+Los porcentajes de la asignación especial de estímulo para los componentes fijo y variable señalados en las letras a) y b) precedentes, serán los determinados en el artículo 4º de esta ley.
 
 El componente fijo de la asignación especial de estímulo no será considerado como un haber permanente para efectos del cálculo del incentivo tributario a que se refiere la letra b) del inciso séptimo del artículo 12 de la ley Nº 19.041.
 
-INCISO DEROGADO
+La parte variable, se calculará de acuerdo al porcentaje de cumplimiento del programa de reducción de la evasión, determinado por el Ministerio de Hacienda a través de un decreto expedido bajo la fórmula ''Por Orden del Presidente de la República'', que deberá emitirse anualmente antes del 30 de marzo y tendrá vigencia a contar del 1 de enero del mismo año. Para los fines de establecer el porcentaje de cumplimiento, el Ministerio de Hacienda deberá atenerse al procedimiento de cálculo establecido en el artículo 3º de esta ley. Si por cualquier causa no se expidiere el decreto, se entenderá prorrogado para el período anual siguiente el porcentaje de cumplimiento vigente en el año inmediatamente anterior a aquél en que debió hacerse la determinación.
 
-El pago de esta asignación, en sus componentes fijo y asociado a la gestión tributaria, será mensual.
+La recaudación que se considerará para el cálculo de la parte variable será aquella que cumpla con los plazos de entrega de la información mensual de recaudación tributaria que el Servicio de Impuestos Internos proporcione al de Tesorerías, los que serán establecidos en el decreto a que se refiere el inciso anterior.
 
-INCISO DEROGADO.
+El pago de esta asignación, en su componente fijo, será mensual.
 
-Los montos que los funcionarios perciban por este concepto, serán imponibles para efectos de salud y pensiones, y se considerarán rentas del Nº 1 del artículo 42 de la Ley sobre Impuesto a la Renta. El componente asociado a la gestión tributaria se considerará como una asignación vinculada al desempeño para efectos de determinar los aguinaldos de navidad y fiestas patrias, el bono de escolaridad y otros bonos que se concedan por una sola vez, de conformidad con lo establecido en la ley de reajuste general de remuneraciones para los trabajadores del sector público.
+En cambio, la parte variable, se cancelará en tres parcialidades anuales, los meses de mayo, agosto y diciembre a los funcionarios en servicio a la fecha de pago. El monto a pagar en cada cuota será el equivalente al valor acumulado en el cuatrimestre calendario respectivo, como resultado de la aplicación mensual de esta asignación en su parte variable. No obstante, el personal que deje de prestar servicios antes de completarse el cuatrimestre respectivo, tendrá derecho a la asignación en su parte variable en proporción a los meses completos efectivamente trabajados.
+
+Los montos que los funcionarios perciban por este concepto, serán imponibles para efectos de salud y pensiones, y se considerarán rentas del Nº 1 del artículo 42 de la Ley sobre Impuesto a la Renta. Para determinar las imposiciones y los impuestos a que se encuentra afecta la asignación en su componente variable, se distribuirá su monto en proporción a los meses que comprenda el período que corresponda y los cuocientes se sumarán a las respectivas remuneraciones mensuales.
+
+> **Nota.** El Art. 13 de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del 01.01.2002.
+
+> **Nota.** El artículo VIGESIMO OCTAVO de la LEY 19882, publicada el 23.06.2003, sustituye el incremento por desempeño individual, establecido en la letra c) del presente artículo, por el incremento por desempeño colectivo otorgado por el artículo 7° de la Ley 19553, cuyo texto se fija por la LEY 19882, beneficio que se concederá a contar del 1 de enero de 2004. En consecuencia, a partir de esta fecha dicho incremento será de un 4% cuando el nivel de cumplimiento de las metas de gestión prefijadas sea igual o superior al 90% y de un 2% si dicho nivel es inferior al 90% pero igual o superior al 75%. Suprímese el referido incremento por desempeño individual a contar del 1° enero de 2003.
 
 #### Artículo 3º
 
-El convenio de desempeño que se establezca para el incremento por desempeño colectivo a que se refiere la letra c) del inciso segundo del artículo anterior deberá considerar solo indicadores vinculados a la reducción de la evasión y elusión tributaria, incluyendo indicadores de fiscalización y facilitación del cumplimiento tributario para todos los equipos, unidades o áreas de trabajo que se determinen.
+La modalidad de cálculo del porcentaje de cumplimiento del programa de reducción de la evasión indicado en el inciso quinto del artículo precedente, será la siguiente:
 
-Los resultados de los indicadores señalados en el inciso anterior deberán publicarse anualmente en la página web institucional.
+a) La "Recaudación Base" inicial, será la del año 1998. Esta alcanzó la cifra de 212,400 millones de unidades tributarias mensuales (doscientos doce coma cuatro millones de unidades tributarias mensuales).
+
+b) Para cada año, la "Recaudación Base" se calculará como la recaudación base del año anterior, multiplicada por la suma de los dos siguientes factores: factor uno, más la tasa de crecimiento que registre el Producto Interno Bruto el año respectivo, este último multiplicado por el factor 1,1.
+
+c) La diferencia entre la "Recaudación Anual Efectiva", expresada en unidades tributarias mensuales y determinada de acuerdo al subtítulo "Ingresos Tributarios" de la Ley de Presupuestos registrada el año anterior, habiéndose descontado la partida correspondiente a Comercio Exterior, y la "Recaudación Base", determinada de conformidad a la letra b) de este mismo artículo, representará el aumento o disminución neta de la recaudación. Dicha diferencia, dividida por la "Recaudación Base" y llevada a porcentaje, representará el "Crecimiento Porcentual de la Recaudación Efectiva".
+
+d) El porcentaje de cumplimiento del programa de reducción de la evasión a aplicar al incentivo, en su parte variable, a que se refiere el artículo 2° y cuyos montos se especifican en el artículo 4° de esta ley, quedará entonces así determinado:
+
+- En el año 2003:
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva en el año 2002 es menor al 1,43%, el porcentaje a aplicar a la asignación variable a pagar en el año 2003 será 0%.
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva en el año 2002 es mayor o igual al 1,43%, el porcentaje a aplicar a la asignación variable a pagar en el año 2003 se determinará según la siguiente fórmula:
+
+Valor = Crecimiento Porcentual x 86,6620 - 1,2352
+
+- En el año 2004:
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva en el año 2003 es menor al 2,52%, el porcentaje a aplicar a la asignación variable a pagar en el año 2004 será 0%.
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva es mayor o igual al 2,52%, el porcentaje a aplicar a la asignación variable a pagar en el año 2004 se determinará según la siguiente fórmula:
+
+Valor = Crecimiento Porcentual x 55,9584 - 1,4079
+
+- En el año 2005:
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva en el año 2004 es menor al 2,83%, el porcentaje a aplicar a la asignación variable a pagar en el año 2005 será 0%.
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva en el año 2004 es mayor o igual al 2,83%, el porcentaje a aplicar a la asignación variable a pagar en el año 2005 se determinará según la siguiente fórmula:
+
+Valor = Crecimiento Porcentual x 46,9656 - 1,3314
+
+- En el año 2006 y siguientes:
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva del año anterior es menor al 2,45%, el porcentaje a aplicar a la asignación variable a pagar en el año siguiente será 0%.
+
+Si el Crecimiento Porcentual de la Recaudación Efectiva del año anterior es mayor o igual al 2,45%, el porcentaje a aplicar a la asignación variable a pagar en el año siguiente se determinará según la siguiente fórmula:
+
+Valor = Crecimiento Porcentual x 67,9509 - 1,6659
+
+El valor resultante de las fórmulas consignadas en esta letra d), se aproximará considerando cuatro decimales y se expresará como porcentaje con dos decimales. Este porcentaje, en ningún caso, podrá ser superior al 100%.
+
+Si con posterioridad a la publicación de esta ley entraren en vigencia leyes modificatorias de los impuestos, derechos y tributos que signifiquen modificaciones de los mismos, la recaudación base correspondiente a esa anualidad se incrementará o reducirá en la cantidad que resulte de dichas modificaciones.
+
+La nueva recaudación base rectificada conforme a lo dispuesto en el inciso anterior, será fijada mediante decreto del Ministerio de Hacienda expedido bajo la fórmula "Por Orden del Presidente de la República", y servirá para los años posteriores con los incrementos a que se refiere la letra b) de este artículo.
+
+> **Nota.** El Art. 13 de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del 01.01.2002.
 
 #### Artículo 4º
 
-Los porcentajes de la asignación especial de estímulo en su componente fijo y los porcentajes de su componente asociado a la gestión tributaria, por escalafón y grado serán los siguientes:
+Los porcentajes de la asignación especial de estímulo en su componente fijo y los porcentajes máximos de su componente variable, por escalafón y grado serán los siguientes:
 
 ESCALAFON GRADOS PORCENTAJE PORCENTAJE
 
-ASIGNACION FIJA DE LA
+ASIGNACION FIJA MAXIMO DE
 
 ASIGNACION
 
-ASOCIADO A
+VARIABLE
 
-LA GESTIÓN
-
-TRIBUTARIA
-
-DIRECTIVO 1 a 18 39% 27,0%
+DIRECTIVO 1 a 9 39% 27,0%
 
 PROFESIONAL 5 a 7 39% 27,0%
 
@@ -70,7 +122,7 @@ PROFESIONAL 5 a 7 39% 27,0%
 
 15 a 17 27% 15,0%
 
-FISCALIZADOR 9 a 11 39% 27,0%
+FISCALIZADOR 10 a 11 39% 27,0%
 
 12 a 13 36% 24,0%
 
@@ -94,17 +146,17 @@ AUXILIAR 19 a 22 25,5% 13,5%
 
 > **Nota.** NOTA 1: El Nº 1 del artículo 4º de la LEY 20212, publicada el 29.08.2007, dispone que la modificación de la presente norma, rige a contar del 1º de Enero de 2007 y para cada uno de los periodo que se indican, el porcentaje de asignación fija:ESCALAFON GRADOS AÑO AÑO AÑO A 2007 2008 2009 partir del AÑO 2010DIRECTIVO 1 a 9 35,2% 36,5% 37,7% 39%PROFESIONAL 5 AL 7 35,2% 36,5% 37,7% 39% 8 AL 10 32,2% 33,5% 34,7% 36% 11 AL 12 29,2% 30,5% 31,7% 33% 13 AL 14 26,2% 27,5% 28,7% 30% 15 AL 17 23,2% 24,5% 25,7% 27%FISCALIZADOR 10 AL 11 35,2% 36,5% 37,7% 39% 12 AL 13 32,2% 33,5% 34,7% 36% 14 31,2% 32,5% 33,7% 35% 15 29,2% 30,5% 31,7% 33%TECNICO 14 AL 16 29,2% 30,5% 31,7% 33% 17 AL 19 25,2% 26,5% 27,7% 29%ADMINISTRATIVO 16 AL 17 23,2% 24,5% 25,7% 27% 18 22,2% 23,5% 24,7% 26% 19 AL 20 21,7% 23% 24,2% 25,5%AUXILIAR 19 AL 22 21,7% 23% 24,2% 25,5%
 
-> **Nota.** NOTA 2 Los numerales 1 al 9 del articulo 3° del Decreto con Fuerza de Ley 5, Hacienda, publicado el 18.12.2025, modifican los porcentajes contenidos en el inciso primero del presente artículo, a contar del 1º de enero de 2026, para los grados que la citada norma indica..
-
 #### Artículo 5º
 
-No tendrán derecho a percibir esta asignación, en su parte asociada a la gestión tributaria, los funcionarios calificados en Lista Nº 3, Condicional o Lista Nº 4, de Eliminación, en el año anterior al del pago. Asimismo, no tendrán derecho a percibir la asignación, en su parte asociada a la gestión tributaria, los funcionarios que ingresen al Servicio, hasta que no hayan sido calificados de conformidad con las normas que los rijan para estos efectos.
+No tendrán derecho a percibir esta asignación, en su parte variable, los funcionarios calificados en Lista Nº 3, Condicional o Lista Nº 4, de Eliminación, en el período inmediatamente anterior al año de vigencia del respectivo decreto de Hacienda que fija el porcentaje de cumplimiento del programa. Asimismo, no tendrán derecho a percibir la asignación, en su parte variable, los funcionarios que ingresen al Servicio, hasta que no hayan sido calificados de conformidad con las normas que los rijan para estos efectos.
 
-Sin embargo, tendrán derecho a percibir la asignación los funcionarios que no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior; el Jefe Superior del Servicio, su subrogante legal; los miembros de la Junta Calificadora Central; los delegados del personal ante las juntas calificadoras; y los Subdirectores de Departamento de Subdirección afectos al Sistema regulado en el Título VI de la ley N° 19.882, quienes también tendrán derecho a percibir la asignación en su parte asociada a la gestión tributaria.
+Sin embargo, tendrán derecho a percibir la asignación los funcionarios que no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior; el Jefe Superior del Servicio, su subrogante legal; los miembros de la Junta Calificadora Central, y los delegados del personal ante las juntas calificadoras.
 
-Los funcionarios beneficiarios de la asignación especial de estímulo, en su parte asociada a la gestión tributaria, tendrán derecho a su percepción durante el año calendario inmediatamente siguiente a aquél que se evalúa en la calificación.
+Los funcionarios beneficiarios de la asignación especial de estímulo, en su parte variable, tendrán derecho a su percepción durante el año calendario inmediatamente siguiente a aquél que se evalúa en la calificación.
 
-No tendrán derecho a percibir la asignación, en sus componentes fijo y asociado a la gestión tributaria, los funcionarios que se acojan a permiso sin goce de remuneraciones, de conformidad al artículo 105 de la ley Nº 18.834, mientras dure el período de su ausencia.
+El funcionario que por ascenso o promoción cambiare de grado o cargo dentro de un período de pago de la asignación, percibirá la asignación en relación a las remuneraciones que correspondan a su nuevo grado o cargo, a contar del día 1 del mes siguiente al de la fecha de su ascenso o promoción, sin perjuicio de los reajustes legales de remuneraciones que pudieren corresponderle.
+
+No tendrán derecho a percibir la asignación, tanto en su componente fijo como variable, los funcionarios que se acojan a permiso sin goce de remuneraciones, de conformidad al artículo 105 de la ley Nº 18.834, mientras dure el período de su ausencia.
 
 #### Artículo 6º
 
@@ -164,17 +216,17 @@ La dictación y modificación de la resolución mencionada en el inciso sexto de
 
 #### Artículo 8º
 
-A contar del 1 de enero de 2027, los recursos presupuestarios que anualmente deberán destinarse al financiamiento de la asignación del artículo 7º no podrán exceder de 11.386 sueldos base asignados al grado 15 de la escala de sueldos base de las instituciones fiscalizadoras, vigente al 1 de enero de cada año.
+A contar del 1 de enero de 2016, los recursos presupuestarios que anualmente deberán destinarse al financiamiento de la asignación del artículo 7º no podrán exceder de 5.184 sueldos base asignados al grado 1º de la escala de sueldos base de las instituciones fiscalizadoras, vigente al 1 de enero de cada año.
 
-A contar del 1 de enero del año 2028, los recursos señalados en el inciso precedente se incrementarán en 20 sueldos base del citado grado 15, por cada 10 cupos en que aumente la dotación máxima de personal del Servicio de Impuestos Internos en relación a la establecida para el año 2026.
+A contar del 1 de enero del año 2017, los recursos señalados en el inciso precedente se incrementarán en 10,3 sueldos base del citado grado 1º, por cada 10 cupos en que aumente la dotación máxima de personal del Servicio de Impuestos Internos en relación a la establecida para el año 2016.
 
 #### Artículo 9º
 
 No le será aplicable al personal del Servicio de Impuestos Internos la asignación de modernización en su componente base e incremento por desempeño institucional establecidos en las letras a) y b) del artículo 3º y artículos 5º y 6º de la ley Nº 19.553. Tampoco le será aplicable la bonificación compensatoria dispuesta por el artículo 8º de ese cuerpo legal.
 
-El personal del Servicio de Impuestos Internos al que se aplica el artículo 2º de esta ley, tendrá derecho a una bonificación no imponible destinada a compensar, en parte, las deducciones por concepto de cotizaciones para pensiones y salud a que esté afecta la asignación especial de estímulo en sus componentes fijo y asociado a la gestión tributaria, y la totalidad del incremento individual establecido en la letra c) del artículo 3º de la ley Nº 19.553.
+El personal del Servicio de Impuestos Internos al que se aplica el artículo 2º de esta ley, tendrá derecho a una bonificación no imponible destinada a compensar, en parte, las deducciones por concepto de cotizaciones para pensiones y salud a que esté afecta la asignación especial de estímulo en sus componentes fijo y variable, y la totalidad del incremento individual establecido en la letra c) del artículo 3º de la ley Nº 19.553.
 
-La parte a ser compensada afectará al 100% del incremento individual, a 6 puntos porcentuales de la asignación especial de estímulo en su componente fijo y a 3 puntos porcentuales de su componente asociado a la gestión tributaria.
+La parte a ser compensada afectará al 100% del incremento individual, a 6 puntos porcentuales de la asignación especial de estímulo en su componente fijo y a 3 puntos porcentuales de su componente variable.
 
 El monto de la compensación será el que resulte de aplicar a los guarismos indicados en el inciso anterior, los porcentajes señalados en las letras a), b) y c) del inciso primero e inciso segundo del artículo 8º de la ley Nº 19.553, según el sistema o régimen previsional de afiliación del trabajador.
 
@@ -248,7 +300,7 @@ Directivos 3º 5
 
 Concédese a los personales de planta y a contrata del Consejo de Defensa del Estado, una bonificación de estímulo por desempeño funcionario, no imponible, la que se regulará por las normas que se pasan a expresar:
 
-a) La bonificación corresponderá al 25% de los funcionarios pertenecientes o asimilados a las plantas de Directivos, de Profesionales, de Técnicos, de Administrativos y de Auxiliares, separadamente, de mejor desempeño en el año anterior.
+a) La bonificación corresponderá al 25% de los funcionarios pertenecientes o asimilados a las plantas de Directivos, de Profesionales y de Técnicos, separadamente, de mejor desempeño en el año anterior.
 
 b) Para estos efectos, se considerará el resultado de las calificaciones que hayan obtenido los funcionarios, de conformidad con las normas que los rigen en estas materias.
 
@@ -258,13 +310,13 @@ d) La cantidad que se pague por concepto de esta bonificación, corresponderá a
 
 CARGOS GRADOS PORCENTAJE
 
-Presidente del Consejo 1B 21
+Presidente del Consejo 1B 25
 
-Abogado Consejero 1C 18
+Abogado Consejero 1C 22
 
-Directivos 2º 18
+Directivos 2º 20
 
-Directivos 3º al 6º 14
+Directivos 3º al 6º 15
 
 Directivos 7º y 8º 12
 
@@ -276,17 +328,11 @@ Profesionales 8º 12
 
 Profesionales 9º y 10º 10
 
-Profesionales 11º a 13º 7
+Profesionales 11º y 12º 7
 
 Técnicos 8º al 12º 7
 
-Técnicos 13° y 14° 7
-
-Técnicos 15º al 19º 7
-
-Administrativos 10° al 25° 7
-
-Auxiliares 20° al 25° 7
+Técnicos 15º al 19º 5
 
 e) El Presidente del Consejo, los abogados consejeros, los miembros de la Junta Calificadora Central y los delegados del personal ante las juntas calificadoras tendrán derecho, por concepto de este beneficio, al porcentaje correspondiente a sus respectivos cargos.
 

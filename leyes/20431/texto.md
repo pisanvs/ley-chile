@@ -8,87 +8,97 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Establécese una bonificación especial para el personal de planta y a contrata del Servicio de Impuestos Internos, cuyos montos serán equivalentes a los porcentajes señalados a continuación, aplicados sobre la cantidad que resulte de la suma del sueldo base asignado al grado respectivo más la asignación de fiscalización que le corresponda establecida en el artículo 6º del decreto ley Nº3.551, de 1981, y la asignación señalada en el artículo 4º de la ley Nº18.717.
+Establécese, a contar del 1 de enero de 2010, para el personal de planta y a contrata del Servicio de Impuestos Internos una bonificación anual ligada a la calidad del servicio prestado a usuarios y contribuyentes, la que será evaluada por una entidad externa al Servicio, de conformidad al procedimiento establecido en el numeral 5 del artículo 3º de esta ley.
 
-Grados Porcentajes
+Corresponderá dicha bonificación al personal que se encuentre en servicio en la referida institución a la fecha del pago de las respectivas cuotas de la bonificación.
 
-1 5,3312%
+El funcionario que por ascenso o promoción cambiare de grado o cargo dentro de un año en que corresponda el pago de la bonificación, la percibirá con relación al grado que tenía al 31 de enero del año del pago respectivo.
 
-2 5,4155%
+No tendrán derecho a percibir esta bonificación los funcionarios que sean calificados en Lista Nº 3, de Condicional, o Lista Nº 4, de Eliminación, en el periodo inmediatamente anterior al año del pago de la bonificación. Asimismo, no tendrán derecho a percibir la bonificación los funcionarios que ingresen al Servicio hasta que no hayan sido calificados en él, de conformidad con las normas que los rijan para estos efectos.
 
-3 5,4970%
+Con todo, tendrán derecho a percibir la bonificación los funcionarios que no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior; y aquellos que, de conformidad al articulo 34 del decreto con fuerza de ley Nº 29, de 2005, del Ministerio de Hacienda, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, no deben ser calificados.
 
-4 5,5791%
-
-5 5,6521%
-
-6 5,7776%
-
-7 5,8614%
-
-8 5,9875%
-
-9 6,1086%
-
-10 6,2238%
-
-11 6,4731%
-
-12 6,7562%
-
-13 7,0766%
-
-14 7,4226%
-
-15 7,8135%
-
-16 8,2961%
-
-17 9,3519%
-
-18 10,1222%
-
-19 11,3023%
-
-20 12,6834%
-
-21 14,4097%
-
-22 16,3735%
-
-23 17,7475%
-
-24 18,7640%
-
-25 22,3800%
-
-Esta bonificación se pagará mensualmente, tendrá el carácter de tributable e imponible para fines de previsión y salud y no constituirá base de cálculo de ninguna otra remuneración o beneficio legal. Dicha bonificación se considerará como una asignación vinculada al desempeño para efectos de determinar los aguinaldos de navidad y fiestas patrias, el bono de escolaridad y otros bonos que se concedan por una sola vez, de conformidad con lo establecido en la ley de reajuste general de remuneraciones para los trabajadores del sector público.
-
-No tendrán derecho a percibir esta bonificación los funcionarios que sean calificados en lista Nº3, Condicional, o lista Nº 4, de Eliminación, en el período inmediatamente anterior al año del pago de la bonificación. Asimismo, no tendrán derecho a percibirla los funcionarios que ingresen al Servicio hasta que no hayan sido calificados, de conformidad con las normas que los rijan para estos efectos.
-
-Con todo, tendrán derecho a percibir la bonificación los funcionarios que, no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior, y aquellos que no deben ser calificados, de conformidad al artículo 34 del decreto con fuerza de ley Nº29, de 2004, del Ministerio de Hacienda, que fijó el texto refundido, coordinado y sistematizado de la ley Nº18.834, sobre Estatuto Administrativo.
-
-No tendrán derecho a percibir esta bonificación los funcionarios que se acojan a permiso sin goce de remuneraciones de conformidad al artículo 110 del citado decreto con fuerza de ley, durante el período de dicho permiso.
+A los funcionarios que, de conformidad con el articulo 110 del decreto con fuerza de ley Nº 29, citado en el inciso anterior, hayan hecho uso de un permiso sin goce de sueldo el año anterior al pago de la bonificación, ésta se les pagará proporcionalmente a los meses efectivamente trabajados.
 
 #### Artículo 2º
 
-Derogado
+Los recursos que se destinarán a pagar la bonificación por calidad de servicio será el equivalente en pesos a:
+
+1) 71.709,3 unidades tributarias mensuales para el año 2010, y
+
+2) 82.332,9 unidades tributarias mensuales a partir del año 2011.
+
+Para estos efectos, se considerará la unidad tributaria mensual vigente a la fecha del pago de las cuotas respectivas.
+
+El monto anual de la bonificación equivaldrá a la suma de:
+
+1) El cuociente que resulte de dividir el equivalente al 40% del total de recursos que anualmente se destinen a su pago, de conformidad a lo establecido en el inciso primero, por el total de funcionarios del servicio que tengan derecho a percibirla, y
+
+2) El resultado que se obtenga de aplicar un porcentaje fijo sobre las remuneraciones señaladas como base de cálculo en el inciso primero del artículo 2º de la ley Nº 19.646, respecto del total de funcionarios con derecho a percibirla.
+
+Para estos efectos se entenderá como porcentaje fijo el cuociente que resulte de dividir el equivalente al 60% restante del total de recursos que anualmente se destinen a su pago de conformidad a lo establecido en el inciso primero, por la suma de las remuneraciones señaladas como base de cálculo en el inciso primero del artículo 2º de la ley Nº 19.646, del total de funcionarios con derecho a percibirla.
+
+El monto anual que corresponda a cada funcionario del Servicio de Impuestos Internos por concepto de la bonificación, se pagará en dos cuotas, conjuntamente con las remuneraciones de los meses de julio y noviembre.
+
+La bonificación no servirá de base de cálculo para ninguna otra remuneración o beneficio legal.
+
+El monto que los funcionarios perciban por concepto de la bonificación de calidad de servicio, será imponible para efectos de salud y pensiones, y se considerará renta del Nº 1º del artículo 42º de la Ley sobre Impuesto a la Renta del mes en que se perciban. Para determinar los impuestos e imposiciones a que se encuentre afecta, se distribuirá su monto en doce cuotas mensuales y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducirán de la parte que, sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad.
 
 #### Artículo 3º
 
-El Servicio de Impuestos Internos deberá definir anualmente un instrumento de medición de la percepción de los usuarios respecto de la administración tributaria.
+La concesión de la bonificación a que se refiere el artículo 1º de la presente ley, se sujetará a lo dispuesto en el presente artículo:
 
-Dicha evaluación será efectuada por una empresa externa, que será seleccionada y contratada por la Subsecretaría de Hacienda a través de los procedimientos descritos en la ley Nº19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios. La aplicación de dichos procedimientos será de responsabilidad de la Subsecretaría de Hacienda.
+1) Se concederá anualmente en función del incremento que experimente, conforme a lo establecido en el número 3, el Índice de Satisfacción Neta del usuario. Para estos efectos se entenderá por Índice de Satisfacción Neta el porcentaje que, en una escala de 1 a 7, resulte de la resta entre el porcentaje de usuarios que califican con nota 6 y 7 la satisfacción global con el servicio y la atención proporcionada, y aquel porcentaje de usuarios que califican con nota 4 o menos la satisfacción global de los mismos servicios, con un valor mínimo de 0%.
 
-La evaluación se aplicará tanto respecto a las personas naturales como a las empresas, hayan o no efectuado declaración anual de impuesto a la renta dentro del año objeto de la evaluación.
+2) Para todos los efectos legales, el Índice de Satisfacción Neta que servirá de base será de 51,5%.
 
-El Subsecretario de Hacienda fijará el grupo objetivo respecto al cual se aplicará la evaluación, el tamaño de la muestra que será utilizada, la que deberá tener un carácter aleatorio, representativo y nacional, y cualquier otra norma necesaria para la evaluación.
+3) La meta de crecimiento que deberá cumplir anualmente el Índice de Satisfacción Neta será, a partir del año 2010, la siguiente:
 
-El Servicio de Impuestos Internos deberá generar canales que permitan la participación de los funcionarios en el proceso de diseño y aplicación del instrumento de evaluación. Para estos efectos deberán establecerse a través de la Subsecretaría de Hacienda, las instancias de carácter consultivo e informativo que permitan recoger comentarios, sugerencias y alcances que formulen los funcionarios, por intermedio de sus asociaciones, si las hubiera, o del delegado del personal, en su caso.
+a) Para la medición practicada respecto del año 2009: 1,0 punto porcentual por sobre el índice base fijado en el numeral anterior.
+
+b) Para la medición practicada respecto del año 2010: 1,5 puntos porcentuales por sobre la meta exigida el año anterior.
+
+c) Para la medición practicada el año 2011: 1,5 puntos porcentuales sobre la meta exigida el año anterior.
+
+d) Para la medición practicada el año 2012: 1,5 puntos porcentuales sobre la meta exigida el año anterior.
+
+e) Para la medición practicada el año 2013: 1,0 punto porcentual sobre la meta exigida el año anterior.
+
+f) Para la medición practicada el año 2014: 1,0 punto porcentual sobre la meta exigida el año anterior.
+
+g) Para la medición practicada el año 2015: 0,5 puntos porcentuales sobre la meta exigida el año anterior.
+
+A partir del año 2016 la bonificación por calidad de atención al usuario se concederá sólo si el Índice de Satisfacción Neta es igual o superior al porcentaje fijado como meta para el año 2015.
+
+4) El monto de la bonificación se determinará en función de la siguiente tabla de cumplimiento, aplicada siempre sobre el nivel de crecimiento que haya experimentado el Índice de Satisfacción Neta en la medición del año inmediatamente anterior, respecto de la meta fijada para ese mismo año, de conformidad a lo establecido en los números anteriores:
+
+a) 100% de la bonificación si el nivel alcanzado por el Índice de Satisfacción Neta respecto de la meta es igual o superior al 97%.
+
+b) 75% de la bonificación si el nivel alcanzado por el Índice de Satisfacción Neta respecto de la meta es igual o superior al 90%, pero inferior al 97%.
+
+c) 50% de la bonificación si el nivel alcanzado por el Índice de Satisfacción Neta respecto de la meta es igual o superior al 75%, pero inferior al 90%.
+
+Cualquier crecimiento de la meta inferior al 75%, no dará derecho a bonificación alguna.
+
+El grado de cumplimiento será informado por el Ministerio de Hacienda a través de un decreto, que deberá emitirse anualmente antes del 31 de marzo del año siguiente al de la respectiva medición.
+
+5) El Índice de Satisfacción Neta se determinará anualmente a través de una encuesta a los usuarios practicada directamente a los contribuyentes en el mes de diciembre de cada año, acerca de su nivel de satisfacción global con el servicio y la calidad de atención recibida por el Servicio de Impuestos Internos. Dicha medición quedará sujeta a las siguientes reglas:
+
+a) La medición será efectuada por una empresa externa, especializada en la realización de sondeos de opinión pública. Dicha entidad será seleccionada y contratada por la Subsecretaría de Hacienda a través de los procedimientos descritos en la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios. La aplicación de dichos procedimientos será de responsabilidad de la Subsecretaría de Hacienda. Con todo, las referidas bases técnicas deberán contar con la visación de la Dirección de Presupuestos.
+
+b) La evaluación se aplicará tanto respecto a las personas naturales como a las empresas, hayan o no efectuado declaración anual de impuesto a la renta dentro del año objeto de la evaluación.
+
+c) El grupo objetivo respecto al cual se aplicará la evaluación estará compuesto por personas naturales mayores de 18 años y las empresas que hayan tenido contacto con el Servicio de Impuestos Internos a través de cualquiera de sus canales de atención en los últimos 12 meses previos a la aplicación del instrumento que determine el índice de satisfacción del usuario.
+
+La selección muestral será aleatoria, representativa y de carácter nacional.
+
+6) Mediante decreto del Ministerio de Hacienda expedido antes del 31 de marzo de cada año, bajo la fórmula "Por orden del Presidente de la República", se señalará el Índice de Satisfacción Neta alcanzado en el año respectivo, así como el incremento experimentado respecto de la meta. Igualmente dicho decreto, determinará el porcentaje de la bonificación por calidad de satisfacción al usuario que le corresponderá dicho año, según el grado de crecimiento experimentado por el Índice de Satisfacción Neta con relación a la meta. Para la dictación de este decreto se tomará como antecedente el resultado de la evaluación externa precitada.
+
+7) El Ministerio de Hacienda deberá generar canales que permitan la participación de los funcionarios en el proceso de diseño y aplicación del mecanismo de evaluación del Índice de Satisfacción Neta de usuarios. Para estos efectos deberán establecerse, a través de la Subsecretaría de Hacienda, las instancias de carácter consultivo e informativo que permitan recoger comentarios, sugerencias y alcances que formulen los funcionarios, a través de sus asociaciones, si las hubiera o del delegado del personal, en su caso.
 
 #### Artículo 4º
 
-Los funcionarios empleados a contrata, asimilados a un grado del escalafón fiscalizador o profesional del Servicio de Impuestos Internos, podrán desempeñar funciones de carácter directivo o de jefatura, las que serán asignadas, en cada caso, por el Director del Servicio mediante concurso. El referido personal, cuando le sean asignadas dichas funciones, será beneficiario de la asignación prevista en el artículo 7º de la ley Nº 19.646, en los mismos términos que los cargos de planta.
+Los funcionarios empleados a contrata, asimilados a un grado del escalafón profesional del Servicio de Impuestos Internos, podrán desempeñar funciones de carácter directivo o de jefatura, las que serán asignadas, en cada caso, por el Director del Servicio mediante concurso. El referido personal, cuando le sean asignadas dichas funciones, será beneficiario de la asignación prevista en el artículo 7º de la ley Nº 19.646, en los mismos términos que los cargos de planta.
 
 Para efectos de lo previsto en este artículo, el personal a que se le asignen dichas funciones y acceda a la referida asignación no podrá exceder del 30% de los profesionales a contrata de la institución.
 
