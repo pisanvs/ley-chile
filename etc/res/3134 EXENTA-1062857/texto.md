@@ -212,6 +212,8 @@ b) El constructor podrá entregar una Boleta de Garantía única, ya sea por cad
 
 Los beneficiarios de la presente modalidad estarán eximidos de inscribir las prohibiciones a que se refieren el artículo 34 y la letra c) del artículo 79, ambos del DS Nº49 (V. y U.), de 2011.
 
+En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se exigirá que los ceda para el pago del subsidio.
+
 ### Párrafo 5º — Consideraciones técnicas para proyectos de Construcción en Sitio Propio.
 
 21. Los proyectos habitacionales que sean presentados al presente llamado en las modalidades de Construcción en Sitio Propio con pago posterior o Construcción en Sitio Propio con pago por avance de obras, deberán cumplir con el siguiente estándar técnico:
