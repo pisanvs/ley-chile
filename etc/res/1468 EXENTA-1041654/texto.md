@@ -30,181 +30,289 @@ El presente programa se aplicará a las etapas de extracción, manejo, clasifica
 
 Para los efectos del presente programa, se entenderá por:
 
-1. Biocontención: Acciones destinadas a evitar la diseminación de
+1. Biocontención: Acciones destinadas a evitar
 
-enfermedades desde un centro de cultivo o acopio hacia otros centros o
+la diseminación de enfermedades desde un
 
-hacia especies susceptibles.
+centro de cultivo o acopio hacia otros
 
-2. Centro o Centro de cultivo: Lugar e infraestructura donde se realizan
+centros o hacia especies susceptibles.
+
+2. Centro o Centro de cultivo: Lugar e
+
+infraestructura donde se realizan
 
 actividades de acuicultura.
 
-3. Compostaje: Descomposición de la mortalidad mediante microorganismos,
+3. Compostaje: Descomposición de la mortalidad
 
-bajo condiciones aeróbicas y termófilas, lo que permite la inactivación
+mediante microorganismos,bajo condiciones
 
-y/o destrucción de patógenos.
+aeróbicas y termófilas, lo que permite la
 
-4. Desnaturalización: Proceso mediante el cual, agentes desnaturalizantes
+inactivación y/o destrucción de patógenos.
 
-físicos o químicos ocasionan la pérdida de las estructuras proteicas de
+4. Desnaturalización: Proceso mediante el cual,
 
-orden superior de las mortalidades, quedando como remanente cadenas de
+agentes desnaturalizantes físicos o químicos
 
-polímeros sin estructura tridimensional fija y sin sus propiedades
+ocasionan la pérdida de las estructuras
 
-biológicas iniciales. Dentro de estos procedimientos se incluyen el
+proteicas de orden superior de las
 
-compostaje, ensilaje e incineración, sin perjuicio de otros que
+mortalidades, quedando como remanente
 
-eventualmente pueda autorizar el Servicio.
+cadenas de polímeros sin estructura
 
-5. Ensilaje: Procedimiento de transformación de la mortalidad mediante una
+tridimensional fija y sin sus propiedades
 
-molienda y adición de ácido fórmico hasta alcanzar y mantener un pH 4
+biológicas iniciales. Dentro de estos
 
-en una mezcla homogénea.
+procedimientos se incluyen el compostaje,
+
+ensilaje e incineración, sin perjuicio
+
+de otros que eventualmente pueda autorizar
+
+el Servicio.
+
+5. Ensilaje: Procedimiento de transformación
+
+de la mortalidad mediante una molienda y
+
+adición de ácido fórmico hasta alcanzar y
+
+mantener un pH 4 en una mezcla homogénea.
 
 6. FAN: Florecimiento de Algas Nocivas.
 
-7. Incineración: Sistema de tratamiento de las mortalidades que consiste
+7. Incineración: Sistema de tratamiento de
 
-en la quema controlada de materia orgánica con el fin de generar su
+las mortalidades que consiste en la quema
 
-combustión completa hasta su conversión en cenizas, basada en la
+controlada de materia orgánica con el fin
+
+de generar su combustión completa hasta
+
+su conversión en cenizas, basada en la
 
 aplicación de calor.
 
-8. Mortalidad: Muertes producidas en una población de especies
+8. Mortalidad: Muertes producidas en una
 
-hidrobiológicas de cultivo durante un tiempo determinado.
+población de especies hidrobiológicas de
 
-9. Planta Reductora: Establecimiento emplazado en tierra que tiene por
+cultivo durante un tiempo determinado.
 
-objeto la elaboración de harina o aceite de pescado u otro subproducto,
+9. Planta Reductora: Establecimiento
 
-mediante procesos de transformación de los residuos orgánicos
+emplazado en tierra que tiene por objeto
 
-provenientes de una planta procesadora, de un centro de faenamiento,
+la elaboración de harina o aceite de
 
-centro de acopio o de cultivo.
+pescado u otro subproducto, mediante
 
-10. PSGL: Programa Sanitario General de Limpieza y Desinfección.
+procesos de transformación de los
 
-11. Reglamento: Reglamento de medidas de protección, control y
+residuos orgánicos provenientes de
 
-erradicación de enfermedades de alto riesgo para las especies
+una planta procesadora, de un centro
 
-hidrobiológicas, aprobado por DS (Minecon) Nº 319, del 24 de agosto de
+de faenamiento, centro de acopio o
 
-2001, y sus respectivas modificaciones o la normativa que lo reemplace.
+de cultivo.
+
+10. PSGL: Programa Sanitario General de
+
+Limpieza y Desinfección.
+
+11. Reglamento: Reglamento de medidas de
+
+protección, control y erradicación de
+
+enfermedades de alto riesgo para las
+
+especies hidrobiológicas, aprobado por
+
+DS (Minecon) Nº 319, del 24 de agosto
+
+de 2001, y sus respectivas modificaciones
+
+o la normativa que lo reemplace.
 
 12. Servicio: Servicio Nacional de Pesca.
 
-13. Unidad de cultivo: Corresponde a la infraestructura mínima dentro de un
+13. Unidad de cultivo: Corresponde a la
 
-centro de cultivo en que son mantenidos ovas o peces, tales como
+infraestructura mínima dentro de un
 
-bateas, estanques, balsas jaula.
+centro de cultivo en que son mantenidos
+
+ovas o peces, tales como bateas,
+
+estanques, balsas jaula.
 
 ### IV. MEDIDAS GENERALES
 
-1. Conforme al artículo 71 D del Reglamento, los titulares de los centros
+1. Conforme al artículo 71 D del
 
-de cultivo deberán garantizar la capacitación del personal involucrado
+Reglamento, los titulares de los
 
-en las diferentes etapas del manejo de mortalidad descritas en el
+centros de cultivo deberán garantizar
 
-presente programa. Lo anterior será verificable a través del registro
+la capacitación del personal involucrado
 
-de capacitación respectivo, el que deberá indicar, al menos, fecha,
+en las diferentes etapas del manejo de
 
-contenidos y responsable de impartir la capacitación. En el caso de la
+mortalidad descritas en el presente
 
-capacitación realizada al personal que clasifica las mortalidades, ésta
+programa. Lo anterior será verificable
 
-deberá ser efectuada al menos una vez al año por un Médico Veterinario
+a través del registro de capacitación
 
-calificado para esta actividad, conforme a las bases, contenidos y
+respectivo, el que deberá indicar, al
 
-términos que fije el Servicio mediante resolución.
+menos, fecha, contenidos y responsable
 
-2. Los centros de cultivo deberán mantener un manual que describa los
+de impartir la capacitación. En el caso
 
-procedimientos, el personal responsable y capacitado para ejecutar las
+de la capacitación realizada al personal
 
-operaciones descritas, la frecuencia, el lugar y las metodologías
+que clasifica las mortalidades, ésta
 
-asociadas a las etapas de extracción, manejo, clasificación,
+deberá ser efectuada al menos una vez
 
-desnaturalización, retiro desde el centro y entrega de información al
+al año por un Médico Veterinario
 
-Servicio.
+calificado para esta actividad, conforme
+
+a las bases, contenidos y términos que
+
+fije el Servicio mediante resolución.
+
+2. Los centros de cultivo deberán mantener
+
+un manual que describa los procedimientos,
+
+el personal responsable y capacitado
+
+para ejecutar las operaciones descritas, la
+
+frecuencia, el lugar y las metodologías
+
+asociadas a las etapas de extracción,
+
+manejo, clasificación, desnaturalización,
+
+retiro desde el centro y entrega de
+
+información al Servicio.
 
 ### V. MEDIDAS ESPECÍFICAS
 
 i. Etapa 1: Extracción de Mortalidades
 
-1. Cada centro deberá realizar el retiro diario de las mortalidades de
+1. Cada centro deberá realizar el retiro diario
 
-peces de cada unidad de cultivo, salvo en el caso de los centros de
+de las mortalidades de peces de cada unidad de
 
-incubación de ovas en que el retiro de mortalidades se realizará
+cultivo, salvo en el caso de los centros de
 
-conforme a la estrategia productiva establecida por la empresa,
+incubación de ovas en que el retiro de
 
-debiendo informarse al Servicio semanalmente, con la periodicidad del
+mortalidades se realizará conforme a la
 
-retiro de mortalidades que se hubiera determinado.
+estrategia productiva establecida por la
 
-2. La extracción de las mortalidades podrá realizarse mediante sistemas
+empresa, debiendo informarse al Servicio
 
-manuales o automáticos, procurando la biocontención en cada
+semanalmente, con la periodicidad del
 
-procedimiento, y considerando la limpieza y desinfección asociada a los
+retiro de mortalidades que se hubiera
 
-equipos, materiales, buzos y todo implemento utilizado en conformidad a
+determinado.
 
-lo establecido en el PSGL.
+2. La extracción de las mortalidades podrá
 
-3. Los equipos de extracción de mortalidad deberán ser de uso exclusivo d
+realizarse mediante sistemas manuales o
 
-el centro de cultivo.
+automáticos, procurando la biocontención
+
+en cada procedimiento, y considerando la
+
+limpieza y desinfección asociada a los
+
+equipos, materiales, buzos y todo implemento
+
+utilizado en conformidad a lo
+
+establecido en el PSGL.
+
+3. Los equipos de extracción de mortalidad
+
+deberán ser de uso exclusivo de el centro
+
+de cultivo.
 
 ii. Etapa 2: Manejo de Mortalidades
 
-La mantención temporal y el traslado de las mortalidades hasta el lugar
+La mantención temporal y el traslado
 
-de desnaturalización, deberá realizarse en contenedores exclusivos del
+de las mortalidades hasta el lugar de
 
-centro de cultivo, que impidan posibles derrames, acceso a predadores o
+desnaturalización, deberá realizarse en
 
-contaminaciones cruzadas hacia el medio ambiente o sobre otras
+contenedores exclusivos del centro de
 
-estructuras del centro. Durante esta etapa, las mortalidades extraídas
+cultivo, que impidan posibles derrames,
 
-deberán mantenerse separadas e identificadas por unidad de cultivo.
+acceso a predadores o contaminaciones
+
+cruzadas hacia el medio ambiente o sobre
+
+otras estructuras del centro. Durante
+
+esta etapa, las mortalidades extraídas
+
+deberán mantenerse separadas e
+
+identificadas por unidad de cultivo.
 
 iii. Etapa 3: Clasificación de Mortalidades
 
-Esta etapa se considera clave en la detección temprana de enfermedades,
+Esta etapa se considera clave en la
 
-ya que permite al centro de cultivo y a la Autoridad Sanitaria tomar
+detección temprana de enfermedades,
+
+ya que permite al centro de cultivo
+
+y a la Autoridad Sanitaria tomar
 
 acciones oportunas de control.
 
-1. Deberá realizarse en un área exclusiva para ese fin, que cuente con
+1. Deberá realizarse en un área exclusiva
 
-barreras sanitarias ubicadas al ingreso y salida del sector, adecuada
+para ese fin, que cuente con barreras
 
-iluminación y barreras físicas que impidan el acceso de predadores.
+sanitarias ubicadas al ingreso y
 
-2. Deberá hacerse sobre una superficie lavable y desinfectable,
+salida del sector, adecuada
 
-asegurándose que los fluidos resultantes sean canalizados al sistema de
+iluminación y barreras físicas que
 
-tratamiento de mortalidad y en ningún caso sean esparcidos en el medio.
+impidan el acceso de predadores.
+
+2. Deberá hacerse sobre una superficie
+
+lavable y desinfectable, asegurándose
+
+que los fluidos resultantes sean
+
+canalizados al sistema de tratamiento
+
+de mortalidad y en ningún caso sean
+
+esparcidos en el medio.
 
 3. La clasificación considerará dos niveles:
 
@@ -258,153 +366,233 @@ b. Ataque de pájaros
 
 Los criterios de cada una de las categorías son los siguientes:
 
-1) Ambiental: Corresponde a aquellos peces que mueren por causas asociadas
+1) Ambiental: Corresponde a aquellos peces
 
-a eventos ambientales. Esta categoría contempla dos subclasificaciones
+que mueren por causas asociadas a eventos
 
-específicas: "Bloom", cuando la causa se asocie a Florecimiento de
+ambientales. Esta categoría contempla dos
 
-Algas Nocivas (FAN) y "Oxígeno", cuando la causa se asocie a bajas de
+subclasificaciones específicas: "Bloom",
 
-oxígeno.
+cuando la causa se asocie a Florecimiento
 
-En cualquiera de los casos anteriores, éstos deberán estar relacionados
+de Algas Nocivas (FAN) y "Oxígeno", cuando
 
-con reportes consignados en los registros del centro de cultivo.
+la causa se asocie a bajas de oxígeno.
 
-2) Embrionaria: Corresponde a aquellas mortalidades producidas durante los
+En cualquiera de los casos anteriores,
 
-períodos de incubación, eclosión y alevín con saco.
+éstos deberán estar relacionados con
 
-3) Daño Mecánico: Corresponde a aquellos peces que murieron a causa de un
+reportes consignados en los registros del
 
-trauma asociado a eventos climáticos, mecánicos u operativos en centros
+centro de cultivo.
 
-de cultivo, tales como apriete contra mallas o estructuras sólidas de
+2) Embrionaria: Corresponde a aquellas
 
-la unidad de cultivo, muertes por asfixia debido a disminución del
+mortalidades producidas durante los períodos
 
-nivel de agua en estanques, entre otros. De estos eventos deberá quedar
+de incubación, eclosión y alevín con saco.
 
-registro en el centro de cultivo.
+3) Daño Mecánico: Corresponde a aquellos peces
 
-4) Deforme: Corresponde a aquellos peces muertos en que sólo se evidencia
+que murieron a causa de un trauma asociado a
 
-externamente la característica de deformidad de alguna de sus
+eventos climáticos, mecánicos u operativos
 
-estructuras, tales como deformidad de columna, de cola, de mandíbula,
+en centros de cultivo, tales como apriete
 
-de opérculos o de arcos branquiales, como principal característica a la
+contra mallas o estructuras sólidas de la
 
-que se le atribuye causa de muerte.
+unidad de cultivo, muertes por asfixia
 
-5) Maduro: Corresponde a aquellos peces muertos que tienen manifiestas
+debido a disminución del nivel de agua en
 
-características de madurez sexual, como cambio de color, visualización
+estanques, entre otros. De estos eventos
 
-de gónadas o dimorfismo sexual.
+deberá quedar registro en el centro de cultivo.
 
-6) Eliminación: Esta causa contempla dos subclasificaciones: "Sanitaria",
+4) Deforme: Corresponde a aquellos peces
 
-que corresponde a peces muertos producto de la eliminación por parte
+muertos en que sólo se evidencia
 
-del centro de cultivo como consecuencia de la aplicación de medidas de
+externamente la característica de
 
-control sanitarias para alguna enfermedad en particular o, bien, como
+deformidad de alguna de sus estructuras,
 
-consecuencia de medidas aplicadas según lo establecido en los programas
+tales como deformidad de columna, de cola,
 
-de vigilancia y control específicos que correspondan; y "Productiva",
+de mandíbula, de opérculos o de arcos
 
-corresponde a peces que durante manejos de la unidad de cultivo, tales
+branquiales, como principal característica
 
-como vacunaciones, graduaciones, tratamientos inyectables, traspasos,
+a la que se le atribuye causa de muerte.
 
-selecciones, etc., se eliminan activamente por mala condición
+5) Maduro: Corresponde a aquellos peces
 
-productiva (lesiones, deformaciones, peces pequeños fuera de rango de
+muertos que tienen manifiestas características
 
-peso del grupo o unidad de cultivo). De estos manejos deberá haber
+de madurez sexual, como cambio de color,
 
-registro en el centro de cultivo.
+visualización de gónadas o dimorfismo sexual.
 
-7) Otros: Corresponde a mortalidades cuyas causas no están clasificadas
+6) Eliminación: Esta causa contempla dos
 
-dentro de las otras categorías, pudiendo ser alguna de las siguientes
+subclasificaciones: "Sanitaria", que
 
-cuatro subclasificaciones: "Muestras", cuando los peces son extraídos
+corresponde a peces muertos producto de la
 
-como muestra para análisis de laboratorio, análisis anatomopatológico,
+eliminación por parte del centro de cultivo
 
-u otro tipo de análisis; "Bloat", cuando los peces presentan una severa
+como consecuencia de la aplicación de medidas
 
-distensión abdominal, de causa no infecciosa, debido a presencia de
+de control sanitarias para alguna enfermedad
 
-líquido en el estómago; "Transporte", cuando los peces mueren por
+en particular o, bien, como consecuencia de
 
-distintas causas no infecciosas durante actividades de transporte, y
+medidas aplicadas según lo establecido en los
 
-"Otros", cuando la causa no corresponde a ninguna de las categorías
+programas de vigilancia y control específicos
 
-anteriores, situación en la que se deberá individualizar la causa
+que correspondan; y "Productiva", corresponde
 
-asociada.
+a peces que durante manejos de la unidad de
 
-8) Desadaptado/Rezagado: Corresponde a aquellos peces muertos cuyas
+cultivo, tales como vacunaciones, graduaciones,
 
-características principales son ser delgados, largos, de condición
+tratamientos inyectables, traspasos, selecciones,
 
-corporal deficiente y que no crecieron durante las primeras fases de
+etc., se eliminan activamente por mala condición
 
-cultivo o que, posteriormente, por alguna razón dejaron de hacerlo. Se
+productiva (lesiones, deformaciones, peces
 
-incluyen en esta categoría aquellos peces que no esmoltificaron
+pequeños fuera de rango de peso del grupo o
 
-adecuadamente.
+unidad de cultivo). De estos manejos deberá
 
-9) Depredadores: Corresponde a aquellos peces muertos como consecuencia de
+haber registro en el centro de cultivo.
 
-ataques por depredación. Se divide en las siguientes dos
+7) Otros: Corresponde a mortalidades cuyas causas
 
-subclasificaciones: "Ataque de lobos", que corresponde a aquellos peces
+no están clasificadas dentro de las otras
 
-muertos con evidencia de daño asociado a mordedura de lobos u otros
+categorías, pudiendo ser alguna de las siguientes
 
-predadores similares, y que se asocian a avistamientos de lobos o
+cuatro subclasificaciones: "Muestras", cuando
 
-ataques en la unidad de cultivo, de lo cual deberá haber registro en el
+los peces son extraídos como muestra para análisis
 
-centro de cultivo y "Ataque de pájaros", que corresponde a aquellos
+de laboratorio, análisis anatomopatológico, u
 
-peces muertos por heridas cortopunzantes superficiales o profundas, uni
+otro tipo de análisis; "Bloat", cuando los peces
 
-o bilaterales en cuerpo y/o en base de cavidades branquiales.
+presentan una severa distensión abdominal, de
 
-10) Sin causa aparente: Corresponde a aquellos peces muertos que de acuerdo
+causa no infecciosa, debido a presencia de
 
-a la observación externa tienen características de peces sanos y donde
+líquido en el estómago; "Transporte", cuando los
 
-sólo con esta observación no se puede atribuir algún origen específico
+peces mueren por distintas causas no infecciosas
 
-como la causa definitiva de muerte. También caben en esta definición,
+durante actividades de transporte, y "Otros",
 
-aquellos peces muertos que, por sus características externas, son
+cuando la causa no corresponde a ninguna de
 
-asociados a patologías infecciosas.
+las categorías anteriores, situación en la
 
-Las mortalidades provisionalmente clasificadas como sin causa aparente
+que se deberá individualizar la causa asociada.
 
-quedarán sujetas a la clasificación de nivel secundario que
+8) Desadaptado/Rezagado: Corresponde a
 
-posteriormente se realice. Sin perjuicio de lo anterior, parte de la
+aquellos peces muertos cuyas características
 
-mortalidad se podrá mantener en esta clasificación, sólo cuando no sea
+principales son ser delgados, largos, de
 
-posible identificar la causa de muerte por alguno de los procedimientos
+condición corporal deficiente y que no
 
-o antecedentes disponibles, dentro del plazo requerido de entrega de
+crecieron durante las primeras fases de
 
-información señalado en el punto iv. de este programa.
+cultivo o que, posteriormente, por alguna
+
+razón dejaron de hacerlo. Se incluyen
+
+en esta categoría aquellos peces que no
+
+esmoltificaron adecuadamente.
+
+9) Depredadores: Corresponde a aquellos
+
+peces muertos como consecuencia de ataques
+
+por depredación. Se divide en las siguientes
+
+dos subclasificaciones: "Ataque de lobos",
+
+que corresponde a aquellos peces muertos
+
+con evidencia de daño asociado a mordedura
+
+de lobos u otros predadores similares, y
+
+que se asocian a vistamientos de lobos o
+
+ataques en la unidad de cultivo, de lo
+
+cual deberá haber registro en el centro
+
+de cultivo y "Ataque de pájaros", que
+
+corresponde a aquellos peces muertos
+
+por heridas cortopunzantes superficiales
+
+o profundas, uni o bilaterales en cuerpo
+
+y/o en base de cavidades branquiales.
+
+10) Sin causa aparente: Corresponde a
+
+aquellos peces muertos que de acuerdo a
+
+la observación externa tienen características
+
+de peces sanos y donde sólo con esta
+
+observación no se puede atribuir algún
+
+origen específico como la causa definitiva
+
+de muerte. También caben en esta definición,
+
+aquellos peces muertos que, por sus
+
+características externas, son asociados
+
+a patologías infecciosas.
+
+Las mortalidades provisionalmente
+
+clasificadas como sin causa aparente
+
+quedarán sujetas a la clasificación de
+
+nivel secundario que posteriormente se
+
+realice. Sin perjuicio de lo anterior,
+
+parte de la mortalidad se podrá mantener
+
+en esta clasificación, sólo cuando no sea
+
+posible identificar la causa de muerte por
+
+alguno de los procedimientos o antecedentes
+
+disponibles, dentro del plazo requerido
+
+de entrega de información señalado en el
+
+punto iv. de este programa.
 
 b) Nivel secundario, se efectuará diariamente sobre la mortalidad que en la etapa previa se clasificó provisoriamente como "Sin causa aparente" (Tabla 2).
 
@@ -434,7 +622,7 @@ Nivel secundario
 
 6. ISA
 
-7. ICH
+7. SIT
 
 8. Flavobacteriosis
 
@@ -448,259 +636,423 @@ Nivel secundario
 
 13. Francisellosis
 
-14. Estreptococosis
+14. HSMI
 
 15. Otras enfermedades
 
 Las definiciones para cada categoría son las siguientes:
 
-1) Vibriosis: Conjunto de enfermedades causadas por diferentes especies de
+1) Vibriosis: Conjunto de enfermedades
+
+causadas por diferentes especies de
 
 bacterias del género Vibrio.
 
-2) IPN: Enfermedad infecciosa causada por el virus de la Necrosis
+2) IPN: Enfermedad infecciosa causada
+
+por el virus de la Necrosis
 
 Pancreática Infecciosa.
 
-3) Furunculosis atípica: Enfermedad infecciosa causada por el agente
+3) Furunculosis atípica: Enfermedad
+
+infecciosa causada por el agente
 
 Aeromonas salmonicida atípica (Asa).
 
-4) Enfermedad Bacteriana del Riñón (BKD): Enfermedad infecciosa causada
+4) Enfermedad Bacteriana del Riñón
 
-por el agente Renibacterium salmoninarum.
+(BKD): Enfermedad infecciosa causada
 
-5) Síndrome Rickettsial Salmonídeo o Piscirickettsiosis (SRS): Enfermedad
+por el agente Renibacterium
 
-infecciosa causada por el agente Piscirickettsia salmonis.
+salmoninarum.
 
-6) ISA: Enfermedad infecciosa causada por el virus de la Anemia Infecciosa
+5) Síndrome Rickettsial Salmonídeo
+
+o Piscirickettsiosis (SRS):
+
+Enfermedad infecciosa causada por
+
+el agente Piscirickettsia salmonis.
+
+6) ISA: Enfermedad infecciosa causada
+
+por el virus de la Anemia Infecciosa
 
 del Salmón.
 
-7) ICH: Enfermedad infecciosa causada por el agente Ichthyophthirius
+7) "SIT (Síndrome Idiopático de la Trucha): Enfermedad
 
-multifilliis. También es conocida como Enfermedad del Punto Blanco.
+de etiología desconocida, que afecta a la especie
 
-8) Flavobacteriosis: Enfermedad infecciosa causada por un grupo bacteriano
+trucha arcoíris (Oncorhynchus mykiss) en etapa de
 
-Cytophaga-Flavobacterium-Flexibacter, siendo el agente etiológico más
+engorda y que se caracteriza por la presentación
+
+consecutiva de los siguientes signos clínicos:
+
+exoftalmia bilateral, ano protruido, ascitis
+
+e hidropericardio, entre otros.
+
+8) Flavobacteriosis: Enfermedad infecciosa
+
+causada por un grupo bacteriano
+
+Cytophaga-Flavobacterium-Flexibacter,
+
+siendo el agente etiológico más
 
 conocido Flavobacterium psychrophilum.
 
-9) Yersiniosis: Enfermedad infecciosa causada por el agente Yersinia
+9) Yersiniosis: Enfermedad infecciosa causada
 
-ruckeri. También es conocida como Enfermedad de la Boca Roja.
+por el agente Yersinia ruckeri. También
 
-10) Micosis: Enfermedad infecciosa causada por hongos de los géneros
+es conocida como Enfermedad de la Boca Roja.
 
-Saprolegnia y Exophiala, entre otros.
+10) Micosis: Enfermedad infecciosa causada
 
-11) Amebiasis branquial: Enfermedad infecciosa causada por el agente
+por hongos de los géneros Saprolegnia y
 
-Neoparamoeba spp.
+Exophiala, entre otros.
 
-12) Ictericia o Síndrome Ictérico del Salmón coho: Enfermedad de etiología
+11) Amebiasis branquial: Enfermedad infecciosa
 
-desconocida que afecta al Salmón coho (Oncorhynchus kisutch).
+causada por el agente Neoparamoeba spp.
 
-13) Francisellosis: Enfermedad infecciosa causada por el agente Francisella
+12) Ictericia o Síndrome Ictérico del Salmón
 
-spp.
+coho: Enfermedad de etiología desconocida
 
-14) Estreptococosis: Enfermedad infecciosa causada por el agente
+que afecta al Salmón coho (Oncorhynchus kisutch).
 
-Streptococcus phocae.
+13) Francisellosis: Enfermedad infecciosa
 
-15) Otras Enfermedades: Se incluirán en esta categoría todas aquellas
+causada por el agente Francisella spp.
 
-mortalidades no indicadas en la lista anterior, pero atribuibles a
+14) HSMI: Enfermedad causada por el agente Piscine reovirus.
 
-otras infecciones emergentes, parasitismos internos, trastornos
+15) Otras Enfermedades: Se incluirán en esta
 
-metabólicos o fisiológicos y otras causas conocidas. En estos casos se
+categoría todas aquellas mortalidades no
 
-deberá individualizar la causa asociada.
+indicadas en la lista anterior, pero
 
-4. Se deberá registrar el conteo y clasificación según causa del número de
+atribuibles a otras infecciones emergentes,
 
-peces muertos diariamente en cada unidad de cultivo, incluyendo: fecha;
+parasitismos internos, trastornos metabólicos
 
-nombre y firma del responsable del registro; identificación de la
+o fisiológicos y otras causas conocidas. En
 
-unidad de cultivo y desglose de mortalidades según causa de acuerdo a
+estos casos se deberá individualizar la
 
-lo establecido en el presente programa. Además, se deberán consignar
+causa asociada.
 
-las unidades de cultivo en que no se registró mortalidad y los días en
+4. Se deberá registrar el conteo y clasificación
 
-que excepcionalmente, por condiciones climáticas u otros eventos de
+según causa del número de peces muertos
 
-fuerza mayor, no se pudo extraer la mortalidad, indicando la causa del
+diariamente en cada unidad de cultivo, incluyendo:
 
-hecho.
+fecha; nombre y firma del responsable del
+
+registro; identificación de la unidad de
+
+cultivo y desglose de mortalidades según
+
+causa de acuerdo a lo establecido en el
+
+presente programa. Además, se deberán
+
+consignar las unidades de cultivo en que
+
+no se registró mortalidad y los días en
+
+que excepcionalmente, por condiciones
+
+climáticas u otros eventos de fuerza mayor,
+
+no se pudo extraer la mortalidad, indicando
+
+la causa del hecho.
 
 iv. Etapa 4: Desnaturalización de Mortalidades
 
-1. Cada centro deberá contar con un sistema de desnaturalización de
+1. Cada centro deberá contar con un sistema
 
-mortalidad. Este sistema deberá cumplir con lo señalado en el
+de desnaturalización de mortalidad. Este
+
+sistema deberá cumplir con lo señalado en el
 
 Reglamento.
 
-2. La mortalidad deberá ser desnaturalizada dentro de las 24 horas de
+2. La mortalidad deberá ser desnaturalizada
 
-extraída.
+dentro de las 24 horas de extraída.
 
-3. El sistema de desnaturalización implementado deberá contener la
+3. El sistema de desnaturalización implementado
 
-mortalidad y el producto que de él se genere, de manera tal que no
+deberá contener la mortalidad y el producto
 
-existan escurrimientos ni filtraciones. Sin perjuicio de lo anterior,
+que de él se genere, de manera tal que no
 
-deberá dar cumplimiento a las normas ambientales, de salud pública, de
+existan escurrimientos ni filtraciones. Sin
 
-salud animal y demás vigentes, y contar con las autorizaciones que
+perjuicio de lo anterior, deberá dar
 
-pueda corresponder otorgar a otras autoridades.
+cumplimiento a las normas ambientales, de
 
-4. En el caso de ensilaje, diariamente, una vez concluida la molienda y
+salud pública, de salud animal y demás
 
-previo al traspaso del ensilaje al estanque acumulador, se deberá medir
+vigentes, y contar con las autorizaciones
 
-el valor de pH del ensilado, utilizando un pHmetro digital con un rango
+que pueda corresponder otorgar a otras
 
-de 0.0 a 14.0 pH y precisión del +/- 0,1 pH. El valor obtenido deberá
+autoridades.
 
-alcanzar y mantener un valor máximo de 4,0. El pHmetro deberá ser
+4. En el caso de ensilaje, diariamente, una
 
-calibrado periódicamente de acuerdo a las instrucciones del fabricante.
+vez concluida la molienda y previo al
 
-Se deberá mantener un método o sistema alternativo de medición del pH
+traspaso del ensilaje al estanque acumulador,
 
-ante fallas del pHmetro.
+se deberá medir el valor de pH del
 
-5. Si el método de desnaturalización elegido es la incineración, la
+ensilado, utilizando un pHmetro digital
 
-temperatura y el tiempo alcanzados durante el procedimiento deberán
+con un rango de 0.0 a 14.0 pH y precisión
 
-garantizar que el material incinerado resulte en la calcinación total
+del +/- 0,1 pH. El valor obtenido deberá
 
-del mismo y, como resultado de aquel, se obtengan cenizas. Se deberá
+alcanzar y mantener un valor máximo de
 
-disponer de un horno hermético que impida el derrame de residuos hacia
+4,0. El pHmetro deberá ser calibrado
 
-el medio ambiente e instrumental necesario debidamente calibrado para
+periódicamente de acuerdo a las
 
-lecturas de temperaturas. La calibración de los sensores de temperatura
+instrucciones del fabricante.
 
-deberá realizarse de acuerdo a las indicaciones del fabricante.
+Se deberá mantener un método o sistema
 
-6. Si el método de desnaturalización elegido es el compostaje, se deberá
+alternativo de medición del pH ante
 
-mantener a toda la masa en compostaje en un nivel de temperatura mayor
+fallas del pHmetro.
 
-o igual a 55ºC por, a lo menos, 3 días consecutivos asegurando que se
+5. Si el método de desnaturalización elegido
 
-logre esta temperatura también en la periferia de la masa. El personal
+es la incineración, la temperatura y el
 
-responsable de la actividad deberá monitorear y registrar la
+tiempo alcanzados durante el procedimiento
 
-temperatura una vez al día, medida al centro y en los extremos de cada
+deberán garantizar que el material
 
-pila y en un área lo más cercana a la superficie, para verificar que se
+incinerado resulte en la calcinación total
 
-haya obtenido la temperatura señalada. El termómetro deberá ser
+del mismo y, como resultado de aquel, se
 
-calibrado periódicamente de acuerdo a las instrucciones del fabricante.
+obtengan cenizas. Se deberá disponer de
 
-7. Cada vez que se realice la desnaturalización de la mortalidad se
+un horno hermético que impida el derrame
 
-deberán registrar, al menos, los siguientes datos: fecha, hora, Nº de
+de residuos hacia el medio ambiente e
 
-ejemplares y biomasa sometida al proceso de desnaturalización, medidas
+instrumental necesario debidamente
 
-correctivas si aplican; observaciones; nombre y firma del operador
+calibrado para lecturas de temperaturas. La
 
-responsable del procedimiento.
+calibración de los sensores de temperatura
+
+deberá realizarse de acuerdo a las
+
+indicaciones del fabricante.
+
+6. Si el método de desnaturalización elegido
+
+es el compostaje, se deberá mantener a toda
+
+la masa en compostaje en un nivel de
+
+temperatura mayor o igual a 55ºC por, a lo
+
+menos, 3 días consecutivos asegurando que se
+
+logre esta temperatura también en la
+
+periferia de la masa. El personal responsable
+
+de la actividad deberá monitorear y registrar
+
+la temperatura una vez al día, medida al centro
+
+y en los extremos de cada pila y en un área
+
+lo más cercana a la superficie, para verificar
+
+que se haya obtenido la temperatura
+
+señalada. El termómetro deberá ser calibrado
+
+periódicamente de acuerdo a las instrucciones
+
+del fabricante.
+
+7. Cada vez que se realice la desnaturalización
+
+de la mortalidad se deberán registrar, al
+
+menos, los siguientes datos: fecha, hora,
+
+Nº de ejemplares y biomasa sometida al
+
+proceso de desnaturalización, medidas
+
+correctivas si aplican; observaciones;
+
+nombre y firma del operador responsable
+
+del procedimiento.
 
 Además, cuando el método de desnaturalización sea:
 
-- ensilaje se deberá registrar el volumen de ácido fórmico empleado y pH
+- ensilaje se deberá registrar el
 
-de la mezcla homogénea alcanzado en el proceso.
+volumen de ácido fórmico empleado y
 
-- incineración se deberá registrar la temperatura y tiempo alcanzados
+pH de la mezcla homogénea alcanzado
+
+en el proceso.
+
+- incineración se deberá registrar la
+
+temperatura y tiempo alcanzados
 
 durante el procedimiento.
 
-- compostaje se deberá registrar la medición diaria de la temperatura en
+- compostaje se deberá registrar la
 
-diferentes estratos de la pila de compostaje.
+medición diaria de la temperatura
 
-8. Se deberá registrar la mantención de los sistemas de desnaturalización
+en diferentes estratos de la pila
 
-y calibración de equipos (pHmetro, termómetros u otros).
+de compostaje.
+
+8. Se deberá registrar la mantención de
+
+los sistemas de desnaturalización y
+
+calibración de equipos (pHmetro,
+
+termómetros u otros).
 
 v. Etapa 5: Retiro del Producto Desnaturalizado desde el Centro de Cultivo
 
-1. El retiro deberá realizarse asegurando la biocontención, mediante
+1. El retiro deberá realizarse asegurando
 
-sistemas que sean herméticos y resistentes al producto transportado,
+la biocontención, mediante sistemas
 
-garantizando que éste no contamine el medio.
+que sean herméticos y resistentes al
 
-2. En el caso de los centros que se sometan a descanso sanitario
+producto transportado, garantizando
 
-coordinado, el producto ensilado deberá ser retirado del centro de
+que éste no contamine el medio.
 
-cultivo y proceder a la limpieza, lavado y desinfección de acuerdo a lo
+2. En el caso de los centros que se sometan
 
-establecido en el PSGL. En el caso de los centros que realizan dos
+a descanso sanitario coordinado, el
 
-ciclos dentro de un mismo período productivo coordinado, el producto
+producto ensilado deberá ser retirado
 
-ensilado podrá ser mantenido en el estanque almacenador de forma
+del centro de cultivo y proceder a la
 
-homogénea y verificando que el pH se mantenga en el valor establecido.
+limpieza, lavado y desinfección de
 
-3. La frecuencia de retiro del producto desnaturalizado desde el centro de
+acuerdo a lo establecido en el PSGL. En
 
-cultivo deberá relacionarse al volumen de generación y a la capacidad
+el caso de los centros que realizan
 
-del sistema de desnaturalización. En base a lo anterior deberá
+dos ciclos dentro de un mismo período
 
-programarse adecuadamente el retiro atendiendo a la situación sanitaria
+productivo coordinado, el producto
 
-del centro de cultivo.
+ensilado podrá ser mantenido en el
 
-4. Se deberán mantener registros del retiro del producto desnaturalizado
+estanque almacenador de forma homogénea
 
-hacia planta reductora u otro destino diferente autorizado por el
+y verificando que el pH se mantenga
 
-Servicio. Dichos registros deberán incluir, al menos, fecha y hora del
+en el valor establecido.
 
-procedimiento; volumen de retiro; nombre y matrícula de medio de
+3. La frecuencia de retiro del producto
 
-transporte marítimo o terrestre; destino final; nombre y firma del
+desnaturalizado desde el centro de
 
-responsable del traslado.
+cultivo deberá relacionarse al
+
+volumen de generación y a la capacidad
+
+del sistema de desnaturalización. En
+
+base a lo anterior deberá programarse
+
+adecuadamente el retiro atendiendo a
+
+la situación sanitaria del centro de
+
+cultivo.
+
+4. Se deberán mantener registros del
+
+retiro del producto desnaturalizado
+
+hacia planta reductora u otro destino
+
+diferente autorizado por el
+
+Servicio. Dichos registros deberán
+
+incluir, al menos, fecha y hora
+
+del procedimiento; volumen de
+
+retiro; nombre y matrícula de
+
+medio de transporte marítimo o
+
+terrestre; destino final; nombre
+
+y firma del responsable del traslado.
 
 vi. Etapa 6: Entrega de Información al Servicio Nacional de Pesca
 
-1. El titular del centro de cultivo deberá reportar semanalmente al
+1. El titular del centro de cultivo
 
-Servicio el número de mortalidades clasificadas según su causa, de
+deberá reportar semanalmente al
 
-acuerdo a la sumatoria de los registros diarios que el centro mantiene.
+Servicio el número de mortalidades
 
-2. Dicha información deberá remitirse al Servicio como máximo el tercer
+clasificadas según su causa, de
 
-día hábil de la semana siguiente, en el formato disponible en el
+acuerdo a la sumatoria de los
 
-Sistema de Información y Fiscalización de Acuicultura, SIFA, o el que
+registros diarios que el centro
 
-el Servicio determine.
+mantiene.
+
+2. Dicha información deberá remitirse
+
+al Servicio como máximo el tercer
+
+día hábil de la semana siguiente,
+
+en el formato disponible en el
+
+Sistema de Información y Fiscalización
+
+de Acuicultura, SIFA, o el que el
+
+Servicio determine.
 
 #### Artículo segundo
 
