@@ -1,0 +1,19 @@
+APRUEBA REFORMA A LOS ESTATUTOS DE ADMINISTRADORA DE FONDOS DE PENSIONES CUPRUM S.A.
+
+Certifico que por resolución Nº E-222-2015, de fecha 30 de junio de 2015, se aprobó la reforma introducida a los estatutos de la Administradora de Fondos de Pensiones Cuprum S.A., acordada en la primera junta general extraordinaria de accionistas, celebrada el, día 30 de abril de 2015, cuya acta se redujo a escritura pública con fecha 7 de mayo de 2015, ante la Notario de Santiago, doña María Soledad Santos Muñoz.
+
+En dicha Junta se adoptaron los siguientes acuerdos:
+
+- **a)** Informar sobre la actual inexistencia de la obligación de la Administradora de Fondos de Pensiones Cuprum S.A. de constituir el Comité de Directores, en virtud de no tener el porcentaje mínimo exigido por el artículo cincuenta bis, de la ley dieciocho mil cuarenta y seis;
+
+- **b)** Pronunciarse acerca de la reforma de los estatutos sociales, en orden a disminuir el número de sus directores de siete a cinco; y
+
+- **c)** Adoptar todos los acuerdos que sean necesarios para cumplir y llevar a efecto debidamente lo acordado.
+
+Para estos efectos, se modifica el artículo sexto de los estatutos Sociales, cuyo texto actual debe ser sustituido por el siguiente:
+
+#### Artículo Sexto
+
+La Sociedad será administrada por un Directorio compuesto de cinco miembros titulares a lo menos, dos de los cuales deberán tener el carácter de autónomos, de acuerdo a lo establecido en el. Decreto Ley número tres mil quinientos, de mil novecientos ochenta, la normativa aplicable y cualquiera de sus modificaciones futuras. Los directores titulares que tengan el carácter de autónomos, deberán tener respectivamente, cada uno de ellos, un director suplente, quien reemplazará al respectivo director titular autónomo, en caso de ausencia o impedimento temporal de aquél y quien debe cumplir los mismos requisitos del titular. El Directorio durará un período de tres años, al término del cual deberá renovarse totalmente.- Para ser Director no se requerirá ser accionista.- En la primera reunión que celebre el Directorio, luego de su elección, sus miembros procederán a elegir de entre ellos un Presidente que lo será también de la Sociedad, como asimismo un Vicepresidente, quien reemplazará automáticamente al primero en caso de ausencia o impedimento temporal de éste. El Directorio celebrará reuniones ordinarias una vez al mes, en las fechas y horas que el mismo predetermine, no requiriéndose en tal caso de citación especial, sin perjuicio de las comunicaciones y antecedentes que deberá hacer llegar a sus miembros el Gerente General con a lo menos una semana de anticipación. El Directorio celebrará reuniones extraordinarias cuando las cite el Presidente, por sí, o a indicación de uno o más Directores, previa calificación que el Presidente haga de la necesidad de la reunión.- En caso que la reunión sea solicitada por la mayoría de los Directores, ésta deberá celebrarse necesariamente sin que proceda dicha calificación previa.- La citación a sesiones extraordinarias de Directorio se practicará mediante carta certificada despachada a cada uno de los Directores, a lo menos con tres días de anticipación a su celebración y, deberá contener en ella, una referencia a la materia a tratarse en la Sesión.- Este plazo podrá reducirse a veinticuatro horas de anticipación, si la carta fuere entregada personalmente al director por un notario público. La citación podrá omitirse si a la Sesión concurriera la unanimidad de los Directores de la Sociedad.- Las reuniones de Directorio, ordinarias o extraordinarias, se constituirán con la mayoría absoluta del número de Directores establecidos en los Estatutos y los acuerdos se adoptarán por la mayoría absoluta de los Directores asistentes.- En caso de empate decidirá el Presidente.".
+
+Santiago, 30 de junio de 2015.- Tamara Agnic Martínez, Superintendenta de Pensiones.
