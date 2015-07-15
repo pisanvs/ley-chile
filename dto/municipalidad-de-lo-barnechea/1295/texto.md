@@ -1166,11 +1166,7 @@ Los equipamientos construidos en áreas verdes, tendrán los estacionamientos qu
 
 #### Artículo 22º
 
-En las áreas verdes de uso público sólo se autorizarán construcciones complementarias y compatibles con el carácter del área verde, permitiendo exclusivamente actividades relacionadas con lo recreacional-deportivo y de esparcimiento al aire libre. Para las actividades complementarias en ningún caso se podrá superar los porcentajes establecidos en el artículo 2.1.30 de la Ordenanza General de Urbanismo y Construcciones.
-
-En los casos en que la Municipalidad conceda su autorización, deberá otorgar la correspondiente concesión, en la cual fijará las condiciones para cada proyecto específico.
-
-CAPITULO I AREAS VERDES Y CAUCES NATURALES
+Derogado.
 
 #### Artículo 23º
 
@@ -3320,6 +3316,32 @@ En el área denominada "La Dehesa Antigua", cuyos límites generales (excluidas 
 
 CONDICIONES DE EDIFICACIÓN
 
+a.1.2) Subzona J2 de Densificación
+
+En el área destinada a Densificación signada como "J2", cuyos límites se grafican en el plano MPRC-LB-24, se podrá:
+
+CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN
+
+USO DE SUELO RESIDENCIAL
+
+Antejardín Mínimo 5 mts
+
+Coeficiente de Ocupación de Suelo Max. 0,4
+
+Coeficiente Constructibilidad Máxima 1,8
+
+Sistema de Agrupamiento Aislada
+
+Altura Máxima 17.50 mts (5 pisos)
+
+Densidad Bruta Máxima 456 h/h
+
+Rasante y Distanciamiento 70º y 3 mts con/sin vano en 1º
+
+y 2º pisos.
+
+Adosamiento O. Gral. de U. y C.
+
 a.2) Equipamiento:
 
 a.2.1) Equipamiento menor.
@@ -3849,3 +3871,5 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 > **Nota.** NOTA 10 La letra b) del artículo 2° del Decreto 314, M. de Lo Barnechea, publicado el 26.01.2013, reemplaza en el cuadro "Sistema Vial Comunal" del presente artículo las filas correspondientes a las vías L14 Comandante Malbec y L28 Robles, por las indicadas en la citada norma.
 
 > **Nota.** NOTA 11 La letra c) del artículo único del Decreto 912, Municipalidad de Lo Barnechea, publicado el 06.03.2013, modifica la presente norma en el sentido de suprimir el numeral 3 del punto a.2.2) de la Zona J. Sin embargo, el referido punto a.2.2 ha sido eliminado con anterioridad.
+
+> **Nota.** NOTA 12 La letra a) del artículo 2° del Decreto 6789, Municipalidad de Lo Barnechea, publicado el 22.12.2013, modifica la presente norma en el sentido de incorporar el plano MPRC-LB-17, que precisa el límite de aplicación de la Zona J "La Dehesa" y modificar la lámina 7 del Plano PRC-LB-1 "Zonificación" del Plan Regulador Comunal de Lo Barnechea.
