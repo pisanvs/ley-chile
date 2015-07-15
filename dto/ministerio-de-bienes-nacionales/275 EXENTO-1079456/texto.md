@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA, AL "SERVICIO REGIONAL DE VIVIENDA Y URBANIZACIÓN DE ARICA Y PARINACOTA"
+
+Mediante decreto exento Nº E-275 de 3 de julio de 2015, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, al "Servicio Regional de Vivienda y Urbanización de Arica y Parinacota", RUT Nº 61.813.000-2, el inmueble fiscal ubicado en Quebrada Encantada, comuna y provincia de Arica, Región de Arica y Parinacota; Rol Servicio de Impuestos Internos Nº 1.001-46; amparado por inscripción global a nombre del Fisco que rola a fojas 25 vta. Nº 60, del Registro de Propiedad del Conservador de Bienes Raíces de Arica, del año 1935; de una superficie aproximada de 59.300,00 metros cuadrados, singularizado en el Plano Nº 15101-1960-C.R. La Concesión se otorga por un plazo de 10 años, contados desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para la habilitación de un depósito de disposición del material contaminante, producto del proceso de descontaminación que efectuará la concesionaria, de acuerdo al "Proyecto de ampliación de reposición de espacios públicos y áreas verdes como medida de mitigación de sectores contiguos a sitio F, etapas 3 y 4 Arica". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Patricio Flores Rivas, abogado, Jefe División Jurídica.
