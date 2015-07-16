@@ -1,0 +1,7 @@
+ORDENA ESTUDIO DE EXPROPIACIÓN
+
+Por decreto alcaldicio Nº 991, de 16 de febrero de 2015, y vistos demás antecedentes citados, se ordenó estudio expropiación, previo acuerdo Concejal Municipal Nº 31 sesión ordinaria Nº 30 de 07/10/2014 que aprueba expropiación por razones utilidad pública. Considerando necesidad ordenar estudio expropiación y fijar monto indemnización provisional a través de comisión peritos profesionales habilitados nómina vigente aprobada por decreto supremo Ministerio Hacienda Región Biobío. Decreto: Primero. Nómbrese con esta fecha Comisión Tasadora peritos que fije monto provisional indemnización por expropiación retazo terreno superficie 3.689 m2 propiedad de Jorge Alvear Neira, RUT 4.426.831-0, destino construcción planta tratamiento proyecto Construcción Red Alcantarillado y Casetas Sanitarias Talcamávida, integrada por: Ángela Acuña Moreno, aacunamor@gmail.com; Cecilia Corsi Zapata, aseinstec@gmail.com; Alberto Navarrete y Asociados, secretaria@navarreteasciados.cl; Segundo. Notifíquese nombramiento Ministro de fe Municipalidad Hualqui. Tercero. Comisión evacuará informe plazo y forma del art. 4 del DL 2.186, de 1978. Cuarto. Gasto irrogue decreto imputará Subt. 31, ítem 02, Asig. 002 presupuesto municipal vigente.
+
+Anótese, regístrese y notifíquese a los profesionales designados, quienes dispondrán de tres días para comunicar la aceptación del cargo al correo electrónico secretariamunicipal@munihualqui.cl.
+
+Óscar San Martín Álvarez, Secretario Municipal.
