@@ -1,0 +1,5 @@
+DELEGA FACULTADES QUE INDICA
+
+Por Res. Ex. Nº 3.156, de 24 de junio de 2015, el suscrito delegó en los Jefes de Unidad de Angol, Victoria y Villarrica, la facultad de aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nos 15 y 16 y en el artículo 109, ambos del Código Tributario, cuando no se haya reclamado de ellas, como asimismo, para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto. El funcionario designado, al hacer uso de las facultades delegadas, deberá mencionar la referida Res. Ex., y anteponer a su firma la frase "Por orden del Director Regional". El texto íntegro de esta resolución está publicada en la Oficina Virtual del Servicio de Impuestos Internos en internet.-
+
+Christian Soto Torres, Director Regional.
