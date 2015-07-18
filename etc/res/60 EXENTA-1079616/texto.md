@@ -1,0 +1,7 @@
+DELEGA EN LOS DIRECTORES REGIONALES FACULTAD QUE SEÑALA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 60, de 10 de julio de 2015, que:
+
+Delega en los Directores Regionales, en el ámbito territorial de sus respectivas jurisdicciones, la facultad de celebrar y suscribir convenios interinstitucionales con otros organismos públicos y acuerdos de colaboración con entidades u organizaciones privadas, que estimen necesarios para el cumplimiento de los fines del Servicio, que sean de exclusivo interés regional y no consideren actividades que deban desarrollarse fuera de la jurisdicción de la Dirección Regional que participe en aquellos; así como para modificarlos y poner fin a los mismos. Se excluyen de la presente delegación, los convenios o acuerdos referidos a la entrega de información tributaria ante requerimientos de agentes externos, incluyendo la coordinación institucional para su elaboración y procesamiento, como también la definición de protocolos, convenios y normas necesarios para regular dicho proceso. Los convenios y acuerdos de colaboración que se celebren en el ejercicio de la facultad que se delega, no podrán incluir el traspaso de potestades o facultades legalmente atribuidas al Servicio, ni el traspaso de recursos Institucionales.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII, del mes de julio de 2015.
