@@ -40,4 +40,6 @@ Decreto:
 
 3.- Publíquese en el Diario Oficial de la República el presente decreto alcaldicio.
 
+> **Nota.** El N° 2 del Decreto 1182, Municipalidad de Villa Alemana, publicado el 17.07.2015, enmendó el cuadro N° 2 de la presente norma en el sentido de señalar que la numeración se inicia con el Numeral 45 y finaliza en el 104.
+
 Anótese, comuníquese, notifíquese, publíquese y archívese.- José Sabat Marcos, Alcalde.- Patricio Torres Palominos, Secretario Municipal.
