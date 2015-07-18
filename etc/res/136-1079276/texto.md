@@ -6,7 +6,7 @@ Directiva Central:
 
 Presidenta Isabel Allende Bussi
 
-Subsecretario General Pablo Velozo Alcaide
+Secretario General Pablo Velozo Alcaide
 
 Tesorero Fernando Krauss Ruz
 
