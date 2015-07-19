@@ -122,13 +122,7 @@ Av. Recoleta Av. Zapadores Av. Santa
 
 María Sentido S-N
 
-Av. Américo
-
-Vespucio Av. Larraín Paso bajo
-
-Nivel Ambos
-
-Apoquindo sentidos
+SUPRIMIDO
 
 Av. San Pablo Barros Arana Teatinos Sentido P-O
 
@@ -180,9 +174,7 @@ Carmen Curicó Av. Isabel
 
 Riquelme Sentido N-S
 
-Av. Américo Paso bajo Av. Presidente
-
-Vespucio Nivel Apoquindo Riesco Sentido S-N
+SUPRIMIDO
 
 Eje Av. Senador Bravo de Vía local Ambos
 
@@ -237,6 +229,8 @@ Av. Manuel
 Antonio Av. Viel Av. Vicuña Mackenna Ambos sentidos.
 
 Matta
+
+.
 
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
