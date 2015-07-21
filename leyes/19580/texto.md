@@ -10,7 +10,7 @@ El Ministro de Obras Públicas, mediante reglamento, definirá el tipo de maquin
 
 Por resolución del Jefe Superior del servicio respectivo, visada por el Subsecretario de Obras Públicas, se individualizará a los trabajadores que accederán al beneficio. Si fuere superior este número se preferirá a los funcionarios con mayor antigüedad en el servicio.
 
-Establécese un número máximo de 550 personas con derecho a percibir esta asignación.
+El número máximo de personas que tendrán derecho a percibir esta asignación será fijado anualmente por el Ministerio de Obras Públicas, mediante decreto fundado en criterios objetivos, expedido bajo la fórmula "Por orden del Presidente de la República", y visado por la Dirección de Presupuestos. Mientras no se dicte este primer decreto, el número máximo de personas que tendrán derecho a percibir esta asignación será de 871.
 
 ARTICULOS TRANSITORIOS
 

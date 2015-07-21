@@ -46,38 +46,6 @@ Profesionales 9° 3
 
 Profesional 11° 1
 
-Técnicos Grado EUS N° de Cargos
-
-Técnico 9° 1
-
-Técnico 10° 1
-
-Técnico 11° 1
-
-Técnico 12° 1
-
-Técnico 13° 1
-
-Técnico 14° 1
-
-Técnico 15° 1
-
-Técnico 16° 1
-
-Técnico 17° 1
-
-Técnico 18° 1
-
-Técnico 19° 1
-
-Técnico 20° 1
-
-Técnico 21° 1
-
-Técnico 22° 1
-
-Técnico 23° 1
-
 Administrativos Grado EUS Nº cargos
 
 Administrativos 13° 4
@@ -151,56 +119,6 @@ Grados 8°, 9° y 11°: Título profesional de una carrera de, a lo menos, 8 sem
 Grado 8°: a lo menos, 5 años;
 
 Grado 9°: a lo menos, 3 años.
-
-Planta de Técnicos
-
-Grados 9° y 10°, alternativamente:
-
-Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar experiencia laboral como Técnico de Nivel Superior de, a lo menos, seis años; o
-
-Haber estado desempeñando en la Dirección de Presupuestos, al 31 de diciembre de 2016, un empleo a contrata asimilado a la Planta de Técnicos de conformidad a lo dispuesto en el artículo 10 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834 sobre Estatuto Administrativo, y acreditar experiencia laboral en dicha institución de, a lo menos, siete años.
-
-Grados 11° y 12°, alternativamente:
-
-Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar experiencia laboral como Técnico de Nivel Superior de, a lo menos, cinco años; o
-
-Haber estado desempeñando en la Dirección de Presupuestos, al 31 de diciembre de 2016, un empleo a contrata asimilado a la Planta de Técnicos de conformidad a lo dispuesto en el artículo 10 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834 sobre Estatuto Administrativo, y acreditar experiencia laboral en dicha institución de, a lo menos, siete años.
-
-Grado 13°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar experiencia laboral como Técnico de Nivel Superior de, a lo menos, cuatro años; o
-
-b) Título Técnico de Nivel Medio y experiencia laboral como Técnico de, a lo menos, ocho años.
-
-Grado 14°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar experiencia laboral como Técnico de Nivel Superior de, a lo menos, dos años; o
-
-b) Título Técnico de Nivel Medio y experiencia laboral como Técnico de, a lo menos, seis años.
-
-Grado 15°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar experiencia laboral como Técnico de Nivel Superior de, a lo menos, un año; o
-
-b) Título Técnico de Nivel Medio y experiencia laboral como Técnico de, a lo menos, cuatro años.
-
-Grado 16°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste; o
-
-b) Título Técnico de Nivel Medio y experiencia laboral como Técnico de, a lo menos, dos años.
-
-Grado 17°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste; o
-
-b) Título Técnico de Nivel Medio y experiencia laboral como Técnico de, a lo menos, un año.
-
-Grados 18° al 23°, alternativamente:
-
-a) Título Técnico de Nivel Superior otorgado por un establecimiento de educación superior del Estado o reconocido por éste; o
-
-b) Título Técnico de Nivel Medio.
 
 Planta de Administrativos:
 
