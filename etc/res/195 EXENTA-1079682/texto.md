@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 195 EXENTA, DE 3 DE JUNIO DE 2015
+
+Por resolución exenta Nº 195, de 3 de junio de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se resolvió modificar la resolución exenta Nº 445, de 13 de octubre de 2014, de esta Secretaría Regional Ministerial, reemplazándose el resuelvo 1º por el siguiente: "1.- Apruébanse los planes y programas de la Escuela de Conductores Profesionales "Servicios y Capacitación Gloria Ximena Jerez Mardones E.I.R.L.", con nombre de fantasía "Bío Bío E.I.R.L.", RUT Nº 76.276.437-7, representada legalmente por doña Gloria Ximena Jerez Mardones, RUT Nº 13.509.434-K, para impartir cursos conducentes a la obtención de licencias de conductor profesional clase A-2, A-3, A-4 y A-5 en el domicilio ubicado en calle Barros Arana Nº 1409, comuna de Concepción.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
