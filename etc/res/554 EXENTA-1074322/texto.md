@@ -12,13 +12,15 @@ Resolución:
 
 1. Llámase a partir de la publicación en el Diario Oficial de la presente resolución, a inscripción al subsidio habitacional para la atención de los damnificados por los incendios ocurridos en el mes de abril del año 2014 en la comuna de Valparaíso, en las modalidades de aplicación de subsidio y hasta las fechas que a continuación se indican, regulados por los decretos que se señalan:
 
+.
+
 Durante el período señalado, el Serviu recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, para cada modalidad, con los documentos que deben acompañarlas, solo en las oficinas del Serviu Región de Valparaíso o en los lugares de atención que éste disponga al efecto.
 
 Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos en cada modalidad al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos para cada una de ellas, las que serán sancionadas por resolución de la Ministra de Vivienda y Urbanismo y publicadas en el Diario Oficial. Los beneficiarios de subsidio en alguna de las modalidades de aplicación señaladas en las letras a), b), c) o d) de la tabla del inciso primero de este Resuelvo, podrán aplicarlo en una región distinta a la Región de Valparaíso.
 
 La primera selección se realizará con los inscritos en cada modalidad al último día hábil del mes en que sea publicada la presente resolución en el Diario Oficial.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 400.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 543.863 Unidades de Fomento para el Sistema Integrado de Subsidio Habitacional y de 356.998 Unidades de Fomento para el Programa Habitacional Fondo Solidario de Elección de Vivienda.
 
 Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados, hubiesen estado o no residiendo en la vivienda siniestrada.
 
@@ -136,7 +138,7 @@ El precio de la compraventa será el señalado en la respectiva escritura de com
 
 11. El subsidio que se aplique en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, se regirá en lo que fuere procedente por el DS Nº 1 (V. y U.), de 2011.
 
-Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura. Aquellas familias que se inscriban con fecha posterior al 31 de marzo de 2015, deberán acreditar que el permiso de edificación fue solicitado a la Dirección de Obras Municipales respectiva, a más tardar el 12 de abril de 2015.
+Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación emitido por la Dirección de Obras Municipales, en que se acredite que la vivienda se construirá en el sitio sobre el cual el interesado tiene derechos o en el terreno en que fue autorizado construir, en caso de Densificación Predial, y el o los respetivos planos de arquitectura.
 
 12. Los beneficiarios de subsidio en la modalidad de Construcción en Sitio Propio o Densificación Predial con pago posterior, obtendrán un subsidio de hasta 600 Unidades de Fomento, el que deberán aplicar a la construcción de la vivienda.
 
@@ -196,7 +198,7 @@ El Serviu pagará hasta 28 unidades de fomento de este subsidio adicional a la e
 
 18. Para la presente modalidad, se deberá presentar un proyecto habitacional que será evaluado y calificado por parte del Serviu a través del Sistema Informático que el Serviu de la Región de Valparaíso disponga al efecto, conforme al procedimiento y plazos establecidos en el artículo 54 del DS Nº 49 (V. y U.), de 2011. Se deberá presentar al Serviu los antecedentes del proyecto correspondientes a:
 
-a) Permiso de Edificación aprobado por la Dirección de Obras Municipales. Aquellas familias que se inscriban con fecha posterior al 31 de marzo de 2015, deberán acreditar que el permiso de edificación fue solicitado a la Dirección de Obras Municipales respectiva, a más tardar el 12 de abril de 2015.
+a) Permiso de Edificación aprobado por la Dirección de Obras Municipales.
 
 b) Planos de arquitectura y estructuras aprobados por la Dirección de Obras Municipales.
 
@@ -262,7 +264,7 @@ El Serviu pagará hasta 28 Unidades de Fomento de este subsidio adicional a la e
 
 24. En esta modalidad, se deberá presentar un proyecto habitacional que será evaluado y calificado por parte del Serviu, haciendo uso del Sistema Informático conforme al procedimiento y plazos establecidos en el artículo 54 del DS Nº 49 (V. y U.), de 2011. Se deberá presentar al Serviu los antecedentes del proyecto correspondientes a:
 
-a) Permiso de Edificación aprobado por la Dirección de Obras Municipales acogido a copropiedad inmobiliaria. Aquellas familias que se inscriban con fecha posterior al 31 de marzo de 2015, deberán acreditar que el permiso de edificación fue solicitado a la Dirección de Obras Municipales respectiva, a más tardar el 12 de abril de 2015.
+a) Permiso de Edificación aprobado por la Dirección de Obras Municipales acogido a copropiedad inmobiliaria.
 
 b) Planos de arquitectura y estructuras aprobados por la Dirección de Obras Municipales.
 
