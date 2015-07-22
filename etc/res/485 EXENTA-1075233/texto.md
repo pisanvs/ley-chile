@@ -90,9 +90,9 @@ Según establece el artículo 41 de la misma ley, quienes, en el caso de estable
 
 2º.- Determínase que el formato del cartel a que se refiere el número anterior deberá reunir las características siguientes:
 
-a) El cartel deberá ser impreso en cartulina dúplex de 220 gramos, color blanco, en tamaño tabloide (27 centímetros de ancho por 43 centímetros de alto), orientación vertical. La letra o fuente a utilizar será Arial Narrow.
+a) El cartel deberá ser impreso en cartulina dúplex de 220 gramos, color blanco, en tamaño (27 centímetros de ancho por 57,5 centímetros de alto), orientación vertical. La letra o fuente a utilizar será Arial Narrow.
 
-b) Todo el texto del cartel deberá estar enmarcado en un recuadro de 26 centímetros por 41 centímetros, grosor 8 puntos por el borde de la página, línea color azul (pantone 293). El recuadro debe ir sin color de fondo.
+b) Todo el texto del cartel deberá estar enmarcado en un recuadro de 26 centímetros por 55,5 centímetros, grosor 8 puntos por el borde de la página, línea color azul (pantone 293). El recuadro debe ir sin color de fondo.
 
 c) El título deberá estar ubicado en la parte superior del cartel, enmarcado en un recuadro a fondo lleno color azul (pantone 293), de 2,5 centímetros de alto por 26 centímetros de ancho, centrado. El título deberá ir en dos líneas en letra mayúscula (alta) Arial Narrow 24, negrita, calada en blanco. Deberá estar centrado al medio sobre el recuadro azul.
 
