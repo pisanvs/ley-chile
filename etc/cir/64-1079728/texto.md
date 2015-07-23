@@ -1,0 +1,5 @@
+INSTRUYE SOBRE MODIFICACIONES AL CÓDIGO TRIBUTARIO, EN MATERIA DE PROCEDIMIENTOS CONCURSALES DE LIQUIDACIÓN DE EMPRESAS Y PERSONAS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 64, del 13 de julio de 2015, que instruye sobre modificaciones introducidas al Código Tributario por las leyes Nº20.780 "Reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario", y Nº 20.720, que "Sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la Superintendencia del ramo" en materia de procedimientos de liquidación de empresas y personas.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2015.
