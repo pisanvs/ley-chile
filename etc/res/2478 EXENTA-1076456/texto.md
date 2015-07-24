@@ -20,6 +20,8 @@ Resolución:
 
 2. Establécese que para que los proyectos de Construcción en Nuevos Terrenos opten al incremento de 40 Unidades de Fomento al que alude el inciso segundo, de la letra d), del artículo 35 del D.S. Nº 49 (V. y U.), de 2011, deben contemplar una densidad neta mínima de 120 viviendas por hectárea.
 
+3. La densidad neta mínima a la que se refieren los resuelvos 1. y 2. de esta resolución exenta se calculará considerando la superficie de terreno del lote habitacional en el cual se proyecta el condominio al que hace referencia el numeral 4., del inciso primero, de la letra d), del artículo 35 del DS Nº 49 (V. y U.), de 2011.
+
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jocelyn Figueroa Yousef, Subsecretaria de Vivienda y Urbanismo (S).
