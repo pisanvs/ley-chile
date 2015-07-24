@@ -188,6 +188,8 @@ k) $65.000.000.000.- (sesenta y cinco mil millones de pesos), del Fondo de Cober
 
 l) $40.000.000.000.- (cuarenta mil millones de pesos), del Fondo de Cobertura de Riesgo Pro inversión, para coberturas contingentes destinadas al desarrollo de alternativas de financiamiento de largo plazo que sean otorgadas por las instituciones financieras para la inversión de empresas con ventas de hasta UF 600.000 anuales, excluido el IVA.
 
+m) $15.500.000.000 (quince mil quinientos millones de pesos) del Fondo de Cobertura de Riesgo para Capital de Riesgo, destinado al desarrollo de la industria de Capital de Riesgo y con la finalidad de otorgar coberturas o subsidios contingentes destinados a compensar total o parcialmente a Fondos de Inversión cuyo objetivo sea el financiamiento de empresas que presenten potencial de crecimiento y/o innovación.
+
 Por las obligaciones que contraiga la Corporación de Fomento de la Producción en virtud de la aplicación del presente decreto, sólo responderá hasta el monto de los recursos que considere la contabilidad de cada fondo, cuyas operaciones deberán ser llevadas en cuentas o registros financieros separados e independientes.
 
 La Corporación de Fomento de la Producción podrá contraer obligaciones indirectas, coberturas y subsidios contingentes, hasta ocho veces el monto de cada fondo, según lo definido en el artículo primero, sin perjuicio de lo cual la Corporación podrá, para cualquiera de los Fondos de Cobertura de Riesgo señalados en el inciso primero, determinar un apalancamiento menor, en función del riesgo las carteras que cuenten con cobertura CORFO.
