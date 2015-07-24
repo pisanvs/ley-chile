@@ -38,7 +38,7 @@ Ingenieros Civiles Industriales:
 
 - Claudia Paola Montes Cancino
 
-- Tatiana Jazmín Gutiérrez Ortiz.
+- Tatiana Yasmín Gutiérrez Ortiz.
 
 REGIÓN METROPOLITANA
 
