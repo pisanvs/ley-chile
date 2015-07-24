@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 250 EXENTA, DE 2015
+
+Por resolución exenta Nº 250, de 8 de julio de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se modificó la resolución exenta Nº 178 de 20 de septiembre de 2007 de esta Secretaría Regional Ministerial, sustituyéndose el resuelvo Nº 1 por el siguiente: "Fíjanse como días de atención para efectuar las revisiones técnicas aludidas en el Considerando número uno, por parte del Concesionario "Revisiones Bío Bío Limitada", autorizado por resolución exenta Nº 98 de 2007, de esta Secretaría Regional Ministerial, para realizar revisiones técnicas a vehículos motorizados Clase A y sus remolques, los días lunes, miércoles, jueves y viernes de cada semana, desde las 8:30 a 13:00 horas y de 15:00 a 18:00 horas".
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
