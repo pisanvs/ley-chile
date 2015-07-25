@@ -104,7 +104,7 @@ El concesionario responderá preferentemente con las obras, instalaciones o mejo
 
 #### Artículo 9°
 
-Las concesiones de acuicultura podrán comprender mejoras fiscales sólo en el caso que en el Informe Técnico de la Subsecretaría de Pesca se exprese que son inherentes al desarrollo de la actividad acuícola a que se refiere la solicitud.
+Las concesiones de acuicultura podrán comprender mejoras fiscales sólo en el caso que en el Informe Técnico de la Subsecretaría de Pesca y Acuicultura se exprese que son inherentes al desarrollo de la actividad acuícola a que se refiere la solicitud.
 
 Si la concesión comprende dichas mejoras fiscales, éstas se regirán únicamente por la Ley y el presente reglamento.
 
@@ -218,13 +218,13 @@ d) ELIMINADO.
 
 e) Las personas jurídicas deberán acreditar su existencia legal, y el que ocurra a su nombre personería suficiente, mediante copia legalizada de sus estatutos, modificaciones, si las hubiere, e inscripciones en el respectivo registro.
 
-Podrán eximirse de esta obligación las personas jurídicas que se hubieren acogido a lo dispuesto en el artículo 46 de este reglamento.
+Podrán eximirse de esta obligación las personas jurídicas que se hubieren Inscrito en la sección de personas jurídicas, de conformidad con el reglamento del Registro de Concesiones de Acuicultura a que alude el artículo 81 de la Ley.
 
 Los estatutos sociales de las personas jurídicas solicitantes de concesiones de acuicultura deberán contener dentro de su giro u objeto social el ejercicio de actividades de acuicultura, económicas o productivas.
 
-f) Proyecto técnico, de acuerdo con el formulario que al efecto proporcione el Servicio, en el que deberá constar si la solicitud está referida a una concesión de acuicultura sometida a las disposiciones del artículo 80 bis u 80 ter de la Ley.
+f) Proyecto técnico, de acuerdo con el formulario que al efecto proporcione el Servicio.
 
-g) Comprobante de consignación realizada ante la Tesorería General de la República, por un monto equivalente a 42 Unidades Tributarias Mensuales por hectárea o fracción de hectárea solicitada, con un máximo de 210 Unidades Tributarias Mensuales, en el evento de corresponder a una solicitud sometida al régimen contemplado en el artículo 80 bis de la Ley.
+g) ELIMINADA.
 
 No se requerirá la consignación cuando la solicitud se refiera a concesiones para el cultivo de algas, cuya extensión total sea igual o menor a media hectárea y cuyo titular sea una persona natural que no posea más concesión que aquélla que le permite acogerse a esta excepción.
 
@@ -236,13 +236,9 @@ ELIMINADO.
 
 La solicitud deberá ser presentada en cuadruplicado y dirigida a la Subsecretaría para las Fuerzas Armadas, firmada por el representante legal o por el solicitante. Una copia de ella quedará en poder del peticionario, debidamente timbrada y firmada por el funcionario autorizado del servicio, quien, además, deberá anotar la fecha y hora de su recepción.
 
-#### Artículo 12°
+#### Artículo 12º
 
-La solicitud será ingresada y acogida a tramitación sólo cuando reúna todos los antecedentes señalados en el artículo 10 y siempre que no se encuentre en los siguientes casos:
-
-a) En caso de constituir el solicitante una persona jurídica, no tenga en su giro u objeto social el ejercicio de las actividades de acuicultura, económicas o productivas.
-
-b) Que el comprobante de consignación señalado en la letra g) del artículo 10 sea por un monto inferior al que corresponda de conformidad con la superficie de la concesión solicitada.
+La solicitud será ingresada y acogida a tramitación sólo cuando reúna todos los antecedentes señalados en el artículo 10 y, en caso de constituir el solicitante una persona jurídica, tenga en su giro u objeto social el ejercicio de las actividades de acuicultura, económicas o productivas.
 
 Admitida a trámite la solicitud, el Servicio requerirá al solicitante para que acompañe, en el plazo de cinco días hábiles, una carta que dé cuenta que ha solicitado a la Autoridad Marítima un certificado acerca de si existe o no sobreposición con cualquier otro tipo de concesión o destinación ya otorgada o en trámite, si el río de que trata la solicitud es navegable por buques de más de 100 toneladas de registro grueso y en caso de no serlo, la circunstancia de estar afectado por las mareas.
 
@@ -254,19 +250,19 @@ ELIMINADO.
 
 #### Artículo 13
 
-El Servicio informará mensualmente a Tesorería, por oficio o por medios electrónicos, sobre las solicitudes de concesiones de acuicultura sometidas al régimen previsto en el artículo 80 bis de la ley que no fueron admitidas a trámite, para que se proceda a la devolución del monto consignado.
+INCISO ELIMINADO.
 
-Acogida a trámite la solicitud de concesión de acuicultura, la Dirección Regional del Servicio deberá remitirla con todos sus antecedentes e informe técnico a la Subsecretaría de Pesca, respetando el orden de ingreso de las mismas.
+Acogida a trámite la solicitud de concesión de acuicultura, la Dirección Regional del Servicio deberá remitirla con todos sus antecedentes e informe técnico a la Subsecretaría de Pesca y Acuicultura, respetando el orden de ingreso de las mismas.
 
 En el evento que la solicitud sea modificada por su peticionario no será necesario que el Servicio emita un nuevo informe técnico de ésta.
 
 #### Artículo 14
 
-Recibida la solicitud de concesión de acuicultura por la Subsecretaría de Pesca, deberá verificarse si ella da cumplimiento a lo previsto en los artículos 67, 75 bis, 78 y 88 de la ley y a los requisitos de distancia establecidos en los reglamentos a que se refieren los artículos 86 y 87 de la ley, como también deberá analizarse el proyecto técnico a que se refiere el artículo 10 de este reglamento, presentado por el solicitante. Este análisis se realizará en base a las coordenadas geográficas referidas a la carta en que se fijaron las áreas apropiadas para el ejercicio de la acuicultura especificadas en el plano de la concesión elaborado de conformidad con el artículo 10 letra c) Nº 2 de este reglamento.
+Recibida la solicitud de concesión de acuicultura por la Subsecretaría de Pesca y Acuicultura, deberá verificarse si ella da cumplimiento a lo previsto en los artículos 67, 75 bis, 78 y 88 de la ley y a los requisitos de distancia establecidos en los reglamentos a que se refieren los artículos 86 y 87 de la ley, como también deberá analizarse el proyecto técnico a que se refiere el artículo 10 de este reglamento, presentado por el solicitante. Este análisis se realizará en base a las coordenadas geográficas referidas a la carta en que se fijaron las áreas apropiadas para el ejercicio de la acuicultura especificadas en el plano de la concesión elaborado de conformidad con el artículo 10 letra c) Nº 2 de este reglamento.
 
-En los casos en que dos o más solicitudes hubiesen ingresado el mismo día y hora, la Subsecretaría de Pesca deberá realizar un sorteo en pública audiencia para asignar el orden de tramitación correspondiente a cada una de ellas. De la fecha de dicha audiencia se deberá notificar mediante carta certificada dirigida a los titulares de las solicitudes incorporadas en el sorteo y aviso publicado en el sitio de dominio electrónico de la Subsecretaría de Pesca. Del resultado de la audiencia se dejará constancia en acta.
+En los casos en que dos o más solicitudes hubiesen ingresado el mismo día y hora, la Subsecretaría de Pesca y Acuicultura deberá realizar un sorteo en pública audiencia para asignar el orden de tramitación correspondiente a cada una de ellas. De la fecha de dicha audiencia se deberá notificar mediante carta certificada dirigida a los titulares de las solicitudes incorporadas en el sorteo y aviso publicado en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura. Del resultado de la audiencia se dejará constancia en acta.
 
-La Subsecretaría de Pesca analizará los antecedentes recibidos dentro del plazo de cuatro meses. La solicitud será denegada mediante una resolución fundada al efecto que será publicada en extracto en el Diario Oficial, en los siguientes casos:
+La Subsecretaría de Pesca y Acuicultura analizará los antecedentes recibidos dentro del plazo de cuatro meses. La solicitud será denegada mediante una resolución fundada al efecto que será publicada en extracto en el Diario Oficial, en los siguientes casos:
 
 a) Los planos presentados no dan cumplimiento a los
 
@@ -378,17 +374,17 @@ ejecución del proyecto técnico en los términos
 
 planteados por el solicitante.
 
-Si el área solicitada en concesión se encuentra total o parcialmente fuera de las áreas apropiadas para el ejercicio de la acuicultura, la Subsecretaría de Pesca remitirá la respectiva solicitud con sus antecedentes a la Subsecretaría para las Fuerzas Armadas, para que ésta proceda de la forma pertinente.
+Si el área solicitada en concesión se encuentra total o parcialmente fuera de las áreas apropiadas para el ejercicio de la acuicultura, la Subsecretaría de Pesca y Acuicultura remitirá la respectiva solicitud con sus antecedentes a la Subsecretaría para las Fuerzas Armadas, para que ésta proceda de la forma pertinente.
 
-Una vez constatado que no existen las causales de rechazo a que se refieren los incisos anteriores, la Subsecretaría de Pesca solicitará al Servicio que realice una inspección en terreno del sector solicitado e informe respecto de las profundidades del sector, y de la existencia de recursos hidrobiológicos en el sector. La inspección del Servicio se realizará de conformidad con las coordenadas geográficas señaladas en el plano de la concesión.
+Una vez constatado que no existen las causales de rechazo a que se refieren los incisos anteriores, la Subsecretaría de Pesca y Acuicultura solicitará al Servicio que realice una inspección en terreno del sector solicitado e informe respecto de las profundidades del sector, y de la existencia de recursos hidrobiológicos en el sector. La inspección del Servicio se realizará de conformidad con las coordenadas geográficas señaladas en el plano de la concesión.
 
-En el evento que la Subsecretaría de Pesca determine, en base al informe de inspección en terreno del Servicio, que no existe banco natural de recursos hidrobiológicos en el sector solicitado, publicará en su sitio electrónico el informe técnico que así lo establezca, publicación que será complementada mediante mensaje radial en una emisora con cobertura territorial del área correspondiente. En el plazo de dos meses contados desde la fecha de publicación, cualquier interesado podrá reclamar del contenido del informe técnico con antecedentes fundados ante el Subsecretario de Pesca, el que deberá resolver la presentación en el plazo de 10 días. Vencidos estos plazos deberá continuarse con la tramitación de la solicitud.
+En el evento que la Subsecretaría de Pesca y Acuicultura determine, en base al informe de inspección en terreno del Servicio, que no existe banco natural de recursos hidrobiológicos en el sector solicitado, publicará en su sitio electrónico el informe técnico que así lo establezca, publicación que será complementada mediante mensaje radial en una emisora con cobertura territorial del área correspondiente. En el plazo de dos meses contados desde la fecha de publicación, cualquier interesado podrá reclamar del contenido del informe técnico con antecedentes fundados ante el Subsecretario de Pesca y Acuicultura, el que deberá resolver la presentación en el plazo de 10 días. Vencidos estos plazos deberá continuarse con la tramitación de la solicitud.
 
 Si del informe de terreno se constatan inconsistencias en el proyecto técnico o se determina la existencia de un banco natural de recursos hidrobiológicos, la solicitud será rechazada por resolución sin más trámite.
 
 INCISOS SUPRIMIDOS.
 
-En el caso de solicitudes de concesión de acuicultura que se encuentren en zona fronteriza, la Subsecretaría de Pesca deberá solicitar la autorización correspondiente a la Dirección de Fronteras y Límites del Estado. Asimismo, respecto de todas las solicitudes deberá verificar el cumplimiento de los requisitos establecidos en el reglamento a que se refiere el artículo 87 de la ley, lo que se realizará a través del Sistema de Evaluación de Impacto Ambiental o sectorialmente, según corresponda al proyecto presentado.
+En el caso de solicitudes de concesión de acuicultura que se encuentren en zona fronteriza, la Subsecretaría de Pesca y Acuicultura deberá solicitar la autorización correspondiente a la Dirección de Fronteras y Límites del Estado. Asimismo, respecto de todas las solicitudes deberá verificar el cumplimiento de los requisitos establecidos en el reglamento a que se refiere el artículo 87 de la ley, lo que se realizará a través del Sistema de Evaluación de Impacto Ambiental o sectorialmente, según corresponda al proyecto presentado.
 
 #### Artículo 14 bis
 
@@ -398,11 +394,11 @@ Si el proyecto requiere someterse al Sistema de Evaluación de Impacto Ambiental
 
 En caso que la resolución de la Comisión de Evaluación Ambiental califique desfavorablemente el proyecto o ponga término al proceso ordenando la elaboración de un Estudio de Impacto Ambiental, el titular deberá presentar el Estudio dentro del plazo de seis meses, contado desde la fecha de notificación de la respectiva resolución.
 
-La circunstancia de haberse sometido al Sistema de Evaluación de Impacto Ambiental se acreditará mediante copia de la solicitud de ingreso, timbrada o certificada por la Comisión de Evaluación Ambiental que corresponda, la que deberá ser ingresada por el solicitante a la Subsecretaría de Pesca dentro de los diez días siguientes a la fecha de ingreso antes señalada.
+La circunstancia de haberse sometido al Sistema de Evaluación de Impacto Ambiental se acreditará mediante copia de la solicitud de ingreso, timbrada o certificada por la Comisión de Evaluación Ambiental que corresponda, la que deberá ser ingresada por el solicitante a la Subsecretaría de Pesca y Acuicultura dentro de los diez días siguientes a la fecha de ingreso antes señalada.
 
-Si el proyecto no requiere someterse al Sistema de Evaluación de Impacto Ambiental, el solicitante deberá presentar directamente a la Subsecretaría de Pesca la información establecida en el Reglamento Ambiental para la Acuicultura, contenido en el DS Nº 320 de 2001 del Ministerio de Economía, Fomento y Reconstrucción o la normativa que lo reemplace, dentro del plazo de seis meses contados desde el requerimiento realizado por la Subsecretaría de Pesca. En este caso, antes del requerimiento, la Subsecretaría de Pesca oficiará a la Comisión de Evaluación Ambiental para que certifique la circunstancia de no requerir el proyecto una evaluación de impacto ambiental.
+Si el proyecto no requiere someterse al Sistema de Evaluación de Impacto Ambiental, el solicitante deberá presentar directamente a la Subsecretaría de Pesca y Acuicultura la información establecida en el Reglamento Ambiental para la Acuicultura, contenido en el DS Nº 320 de 2001 del Ministerio de Economía, Fomento y Reconstrucción o la normativa que lo reemplace, dentro del plazo de seis meses contados desde el requerimiento realizado por la Subsecretaría de Pesca y Acuicultura. En este caso, antes del requerimiento, la Subsecretaría de Pesca y Acuicultura oficiará a la Comisión de Evaluación Ambiental para que certifique la circunstancia de no requerir el proyecto una evaluación de impacto ambiental.
 
-Transcurridos los plazos indicados sin que el solicitante se hubiere sometido al Sistema de Evaluación de Impacto Ambiental o presentado la información a que se refiere el inciso 5º de este artículo, según corresponda, se procederá al rechazo de la solicitud por resolución fundada de la Subsecretaría de Pesca.
+Transcurridos los plazos indicados sin que el solicitante se hubiere sometido al Sistema de Evaluación de Impacto Ambiental o presentado la información a que se refiere el inciso 5º de este artículo, según corresponda, se procederá al rechazo de la solicitud por resolución fundada de la Subsecretaría de Pesca y Acuicultura.
 
 Mientras se encuentren pendientes los plazos señalados en este artículo, los titulares podrán solicitar una ampliación de los mismos, no pudiendo exceder de la mitad de los plazos originalmente otorgados, de conformidad con el artículo 26 de la ley Nº 19.880.
 
@@ -422,35 +418,35 @@ Los planos complementados o elaborados de la forma indicada deberán dar cumplim
 
 En los casos de concesiones de playa o de terrenos de playa, los planos deberán indicar la línea de más alta marea y la de más baja marea, o la línea de aguas máximas y la de aguas mínimas, según corresponda y la línea de 80 metros correspondiente al terreno de playa, de conformidad a las Instrucciones Hidrográficas Nº 4, publicación SHOA Nº 3104 o la normativa que la reemplace.
 
-Una vez que los planos hayan sido revisados por la Subsecretaría de Pesca serán enviados por ésta a la Autoridad Marítima para su visación.
+Una vez que los planos hayan sido revisados por la Subsecretaría de Pesca y Acuicultura serán enviados por ésta a la Autoridad Marítima para su visación.
 
-Los planos deberán ser entregados impresos en quintuplicado, junto con su respaldo en archivo digital. El formato digital especifico del archivo que deberá ser utilizado será fijado por resolución de la Subsecretaría de Pesca.
+Los planos deberán ser entregados impresos en quintuplicado, junto con su respaldo en archivo digital. El formato digital especifico del archivo que deberá ser utilizado será fijado por resolución de la Subsecretaría de Pesca y Acuicultura.
 
 #### Artículo 15
 
-Una vez entregado el plano que cumpla con los requisitos indicados y habiéndose obtenido una resolución de calificación ambiental favorable o habiéndose verificado sectorialmente el cumplimiento de los requisitos a que se refiere el artículo 87 de la ley, la Subsecretaría de Pesca deberá, dentro del plazo de 30 días, dictar una resolución aprobando el respectivo proyecto técnico, remitiéndola con sus antecedentes a la Subsecretaría para las Fuerzas Armadas.
+Una vez entregado el plano que cumpla con los requisitos indicados y habiéndose obtenido una resolución de calificación ambiental favorable o habiéndose verificado sectorialmente el cumplimiento de los requisitos a que se refiere el artículo 87 de la ley, la Subsecretaría de Pesca y Acuicultura deberá, dentro del plazo de 30 días, dictar una resolución aprobando el respectivo proyecto técnico, remitiéndola con sus antecedentes a la Subsecretaría para las Fuerzas Armadas.
 
-En caso que la resolución de calificación ambiental rechace el proyecto o éste haya sido rechazado sectorialmente o el plano sea entregado fuera de plazo o no cumpla con las condiciones a que se refiere el artículo 14 ter, la Subsecretaría de Pesca procederá a denegar la solicitud sin más trámite.
+En caso que la resolución de calificación ambiental rechace el proyecto o éste haya sido rechazado sectorialmente o el plano sea entregado fuera de plazo o no cumpla con las condiciones a que se refiere el artículo 14 ter, la Subsecretaría de Pesca y Acuicultura procederá a denegar la solicitud sin más trámite.
 
 Si el solicitante es una persona jurídica deberá, en el plazo de un mes contado desde la notificación de la resolución de aprobación del proyecto técnico, acompañar a la Subsecretaría para las Fuerzas Armadas un certificado de vigencia de la persona jurídica y de su representante legal de fecha no anterior a tres meses.
 
 #### Artículo 15 bis
 
-Sin perjuicio de lo señalado en los artículos anteriores, en el evento de que se establezca la zonificación del borde costero en la forma prevista en el artículo 67 de la ley, las solicitudes que se encuentren en áreas definidas de uso incompatible con la acuicultura, cualquiera sea su estado de tramitación, deberán ser denegadas por resolución fundada de la Subsecretaría de Pesca o la Subsecretaría para las Fuerzas Armadas, según corresponda.
+Sin perjuicio de lo señalado en los artículos anteriores, en el evento de que se establezca la zonificación del borde costero en la forma prevista en el artículo 67 de la ley, las solicitudes que se encuentren en áreas definidas de uso incompatible con la acuicultura, cualquiera sea su estado de tramitación, deberán ser denegadas por resolución fundada de la Subsecretaría de Pesca y Acuicultura o la Subsecretaría para las Fuerzas Armadas, según corresponda.
 
 #### Artículo 16
 
-Al Ministerio de Defensa Nacional le corresponderá el otorgamiento de toda concesión de acuicultura, mediante la dictación de una resolución de la Subsecretaría para las Fuerzas Armadas que indicará el régimen a que queda sometida la concesión, de conformidad con el artículo 80 bis u 80 ter de la ley e individualizará las coordenadas geográficas indicadas en el plano elaborado conforme al artículo 14 ter y las coordenadas de los vértices de la concesión referidas a la carta en que fueron fijadas las áreas apropiadas para el ejercicio de la acuicultura.
+Al Ministerio de Defensa Nacional le corresponderá el otorgamiento de toda concesión de acuicultura, mediante la dictación de una resolución de la Subsecretaría para las Fuerzas Armadas que individualizará las coordenadas geográficas indicadas en el plano elaborado conforme al artículo 14 ter y las coordenadas de los vértices de la concesión referidas a la carta en que fueron fijadas las áreas apropiadas para el ejercicio de la acuicultura.
 
-Esta resolución, que será la misma en la que el Ministerio de Defensa Nacional de pronuncie sobre la solicitud del interesado, se dictará en el plazo de 90 días, contado desde que se reciban los antecedentes remitidos por la Subsecretaría de Pesca.
+Esta resolución, que será la misma en la que el Ministerio de Defensa Nacional de pronuncie sobre la solicitud del interesado, se dictará en el plazo de 90 días, contado desde que se reciban los antecedentes remitidos por la Subsecretaría de Pesca y Acuicultura.
 
 #### Artículo 16 bis
 
-El titular de la concesión sometida al régimen del artículo 80 ter de la ley, podrá solicitar a la Subsecretaria de Pesca el cambio de régimen al del artículo 80 bis de la ley, efectuando la consignación a que se refiere el artículo 77 de la ley. Una vez modificada la resolución que aprobó el proyecto técnico, se remitirán los antecedentes a la Subsecretaría para las Fuerzas Armadas, para que modifique la resolución que otorgó la respectiva concesión.
+Eliminado.
 
 #### Artículo 17°
 
-El Ministerio de Defensa Nacional deberá remitir copia de todas las resoluciones que se otorguen para concesiones de acuicultura a la Subsecretaría de Pesca, al Servicio, a la Dirección General del Territorio Marítimo y de Marina Mercante, a la Tesorería Provincial correspondiente, y al Servicio de Impuestos Internos cuando comprenda terrenos de playa o playas, para los efectos de la ley N° 17.235.
+El Ministerio de Defensa Nacional deberá remitir copia de todas las resoluciones que se otorguen para concesiones de acuicultura a la Subsecretaría de Pesca y Acuicultura, al Servicio, a la Dirección General del Territorio Marítimo y de Marina Mercante, a la Tesorería Provincial correspondiente, y al Servicio de Impuestos Internos cuando comprenda terrenos de playa o playas, para los efectos de la ley N° 17.235.
 
 #### Artículo 18
 
@@ -458,27 +454,27 @@ Las resoluciones de concesión de acuicultura serán remitidas al solicitante po
 
 En el evento que no se cumpla con cualquiera de las obligaciones indicadas en el inciso precedente, se dejará sin efecto la resolución respectiva. No obstante, el titular de la concesión podrá acreditar, pendiente el plazo original, que no cumplió por caso fortuito o fuerza mayor. En dicho caso el titular contará con un nuevo plazo que no podrá exceder de tres meses contado desde la fecha de la notificación de la resolución que acogió dicho caso fortuito o fuerza mayor, para realizar la publicación o solicitar la entrega, según corresponda.
 
-En el plazo de un mes, contado desde la entrega material, la Autoridad Marítima deberá informar esta circunstancia a la Subsecretaría para las Fuerzas Armadas, la que deberá inscribir la concesión en el Registro de Concesiones de Acuicultura.
+En el plazo de un mes, contado desde la entrega material, la Autoridad Marítima deberá informar esta circunstancia a la Subsecretaría para las Fuerzas Armadas y a la de Pesca y Acuicultura, debiendo esta última dejar constancia de la inscripción en el Registro de Concesiones de Acuicultura.
 
 #### Artículo 19
 
-Con el mérito de la resolución denegatoria de las solicitudes de concesión de acuicultura tramitadas de conformidad con el régimen establecido en el artículo 80 bis de la Ley y agotados los recursos administrativos y judiciales, o transcurrido el plazo para la interposición de los recursos administrativos ordinarios establecidos en el párrafo 2° del Capítulo IV de la ley N° 19.880, la Subsecretaría de Pesca o para las Fuerzas Armadas, según corresponda, informarán mediante oficio o por medios electrónicos, a Tesorería General de la República que corresponde proceder a la devolución del 90% del monto consignado.
+Eliminado.-
 
 #### Artículo 20°
 
-El proyecto técnico señalado en el artículo 10, letra f), como sus modificaciones, deberán ser aprobados por resolución de la Subsecretaría de Pesca, debiendo, en uno u otro caso, comprender el número y dimensiones de las estructuras a instalar y un programa de producción.
+El proyecto técnico señalado en el artículo 10, letra f), como sus modificaciones, deberán ser aprobados por resolución de la Subsecretaría de Pesca y Acuicultura, debiendo, en uno u otro caso, comprender el número y dimensiones de las estructuras a instalar y un programa de producción.
 
 Si vencido el período de vigencia del proyecto técnico, el titular de la concesión no manifiesta otra voluntad, se entenderá renovado el proyecto técnico aprobado originalmente, respecto al último año.
 
 #### Artículo 21
 
-El titular de una concesión de acuicultura podrá solicitar su modificación para incluir en ella una o más especies diferentes a las concedidas inicialmente. La Subsecretaría para las Fuerzas Armadas podrá autorizar la modificación por resolución, previo informe técnico favorable de la Subsecretaría de Pesca.
+El titular de una concesión de acuicultura podrá solicitar su modificación para incluir en ella una o más especies diferentes a las concedidas inicialmente. La Subsecretaría para las Fuerzas Armadas podrá autorizar la modificación por resolución, previo informe técnico favorable de la Subsecretaría de Pesca y Acuicultura.
 
-A la solicitud deberá adjuntarse un nuevo proyecto técnico, el que deberá ser aprobado por la Subsecretaría de Pesca. En el caso que la solicitud de modificación se refiera a una ampliación de área de una concesión de acuicultura sometida al régimen del artículo 80 bis de la ley, deberá adjuntarse el comprobante de la consignación efectuada de conformidad con la letra g) del artículo 10 del presente reglamento y deberá considerar exclusivamente la superficie de la ampliación solicitada. Las reducciones de área y toda otra modificación no requerirán la consignación.
+A la solicitud deberá adjuntarse un nuevo proyecto técnico, el que deberá ser aprobado por la Subsecretaría de Pesca y Acuicultura.
 
-Cuando el titular de una concesión de acuicultura solicite una modificación del sector otorgado, se sujetará a lo dispuesto en la ley y la reglamentación pertinente. En estos casos, el proyecto técnico, el cronograma de actividades y los planos indicados en el artículo 10º de este reglamento, deberán estar referidos a un solo sector que comprenda la nueva área total de la concesión modificada, debiendo la Subsecretaría para las Fuerzas Armadas modificar sus resoluciones en el mismo sentido.
+Cuando el titular de una concesión de acuicultura solicite una modificación del sector otorgado, se sujetará a lo dispuesto en la ley y la reglamentación pertinente. En estos casos, el proyecto técnico y los planos indicados en el artículo 10º de este reglamento, deberán estar referidos a un solo sector que comprenda la nueva área total de la concesión modificada, debiendo la Subsecretaría para las Fuerzas Armadas modificar sus resoluciones en el mismo sentido.
 
-Las modificaciones indicadas en el presente artículo iniciarán su trámite ante el Servicio y se someterán al procedimiento previsto en los artículos 14 y 14 bis.
+Las modificaciones indicadas en el presente artículo iniciarán su trámite ante el Servicio y se someterán al procedimiento previsto en los artículos 14, 14 bis y 14 ter.
 
 #### Artículo 21° bis
 
@@ -546,7 +542,7 @@ Además deberán inscribirse en dicho registro las personas que desarrollen acti
 
 #### Artículo 23°
 
-En el evento de fallecimiento del titular de una concesión de acuicultura, la sucesión, mediante mandatario común, deberá solicitar a la Subsecretaría para las Fuerzas Armadas dentro del plazo de un año de ocurrido el fallecimiento, la concesión otorgada al causante, para cuyo efecto deberá acompañar, además, copia autorizada del auto de posesión efectiva, para que dichas autoridades procedan a dictar una nueva resolución en favor de los herederos. En este caso, las mejoras que haya introducido el concesionario no pasarán a beneficio fiscal.
+En el evento de fallecimiento del titular de una concesión de acuicultura, la sucesión, mediante mandatario común, deberá solicitar a la Subsecretaría para las Fuerzas Armadas dentro del plazo de dos años de ocurrido el fallecimiento, la concesión otorgada al causante, para cuyo efecto deberá acompañar, además, copia autorizada del auto de posesión efectiva, para que dichas autoridades procedan a dictar una nueva resolución en favor de los herederos. En este caso, las mejoras que haya introducido el concesionario no pasarán a beneficio fiscal.
 
 #### Artículo 24º
 
@@ -564,15 +560,9 @@ Tratándose de playa o terrenos de playa, se demarcará en forma visible en el t
 
 Las personas que no requieran de concesión de acuicultura, previo al inicio de sus operaciones, deberán solicitar su inscripción en el Registro Nacional de Acuicultura, de conformidad con lo dispuesto en el reglamento respectivo, acreditando el cumplimiento de los reglamentos contenidos en los artículos 86 y 87 de la ley, para lo cual deberán acompañar un proyecto técnico y la resolución de calificación ambiental que lo aprueba.
 
-## Título IV — {ARTS. 25-30}
-
-De la transferencia y arrendamiento de las
-
-concesiones de acuicultura
-
 #### Artículo 25°
 
-ELIMINADO.
+Eliminado.
 
 #### Artículo 26
 
@@ -594,39 +584,15 @@ Eliminado.
 
 Eliminado.
 
-## Título V
-
-DEL EJERCICIO DE LOS DERECHOS DE CONCESIONES DE ACUICULTURA
-
-SOMETIDAS AL REGIMEN DEL 80 BIS.
-
 #### Artículo 30 bis
 
-El régimen previsto en el artículo 80 bis de la ley otorga a los titulares de concesiones de acuicultura sometidas a él y previo el cumplimiento de los requisitos de operación previstos, los siguientes derechos:
-
-a) Transferir o celebrar cualquier otro negocio jurídico que tenga por objeto la concesión;
-
-b) Pedir la restitución de la mitad del monto que hubiere consignado de conformidad con lo dispuesto en los incisos 2° y 3° del artículo 77 de la ley, y;
-
-c) Obtener la ampliación del plazo establecido en el artículo 69 bis para iniciar actividades, por el plazo máximo de cuatro años adicionales, pudiendo obtener en casos calificados una nueva ampliación de plazo hasta un año.
-
-Los derechos señalados precedentemente podrán ser invocados conjunta o separadamente, debiendo en todo caso acreditar la calidad de actual titular de la concesión respecto de la cual se ejerce el derecho respectivo.
-
-Para ejercer los derechos señalados en las letras
-
-- **a)** y
-
-- **b)** precedentes, el titular deberá acreditar haber operado la concesión durante un año dando cumplimiento a los niveles mínimos de operación fijados en el reglamento o acreditar tener la calidad de acuicultor habitual. Para ejercer el derecho establecido en la letra
-
-- **c)** el titular deberá acreditar la calidad de acuicultor habitual.
-
-El cumplimiento de los requisitos de operación exigidos en el artículo 80 bis de la ley se acreditará mediante certificados emitidos por el Servicio en que constará la inscripción en el Registro Nacional de Acuicultura, fecha de la entrega material y operación informada de conformidad con las disposiciones comunes contenidas en el Título V de la Ley General de Pesca y Acuicultura. De la misma forma se acreditará la calidad de acuicultor habitual, en los términos señalados en el artículo 28 del presente reglamento.
+Eliminado.
 
 #### Artículo 30 ter
 
 Eliminado.
 
-## Título VI — {ARTS. 31-36}
+## Título IV — {ARTS. 31-36}
 
 De las caducidades de las concesiones de acuicultura
 
@@ -658,7 +624,7 @@ Las concesiones de acuicultura terminan por renuncia voluntaria de su titular a 
 
 En el caso de renuncia total o parcial la Subsecretaría para las Fuerzas Armadas, deberá dictar una nueva resolución para fijar la extensión restringida de la concesión.
 
-## Título VII — {ARTS. 37-39}
+## Título V — {ARTS. 37-39}
 
 De la patente única de acuicultura
 
@@ -666,7 +632,7 @@ De la patente única de acuicultura
 
 Los titulares de concesiones de acuicultura pagarán anualmente una patente única de acuicultura de conformidad con el artículo 84 de la ley. Para tales efectos, la Subsecretaria para las Fuerzas Armadas emitirá los cargos de las patentes de acuicultura en el mes de octubre del año anterior a aquél en que sea exigible el pago.
 
-En el caso de las concesiones de acuicultura que sean otorgadas con posterioridad al 31 de octubre de cada año, los cargos de las patentes de acuicultura que correspondan deberán ser emitidos a más tardar el 15 de enero del año siguiente o el día siguiente hábil si aquel fuera sábado, domingo o festivo.
+En el caso de los nuevos otorgamientos de concesiones de acuicultura, el cargo de la patente única de acuicultura deberá ser emitido dentro del mes calendario siguiente a la fecha de publicación del extracto de la resolución que las otorga en el Diario Oficial
 
 Asimismo, si la inscripción de la transferencia de concesión de acuicultura se practica en un año calendario distinto de aquel en que fue solicitada, conforme con lo previsto en el artículo 81 inciso final de la ley, será el nuevo titular inscrito el responsable del pago de la patente única de acuicultura correspondiente al año en que se efectúe la inscripción.
 
@@ -676,11 +642,11 @@ La patente se pagará en la Tesorería correspondiente a la jurisdicción del lu
 
 #### Artículo 39°
 
-La Subsecretaría para las Fuerzas Armadas remitirá copia de la resolución a la Tesorería General de la República, con la certificación de haberse publicado en el Diario Oficial, para los efectos del cobro de la patente única de acuicultura.
+La Subsecretaría para las Fuerzas Armadas remitirá copia de la resolución a la Tesorería General de la República, con la certificación de haberse publicado en el Diario Oficial, para los efectos de recaudar de la patente única de acuicultura.
 
 Los concesionarios deberán mantener permanentemente actualizados sus domicilios ante la Subsecretaría para las Fuerzas Armadas.
 
-## Título VIII — {ARTS. 40-45}
+## Título VI — {ARTS. 40-45}
 
 De la acreditación de procedencia de especies producidas en las concesiones de acuicultura
 
@@ -708,19 +674,17 @@ Las guías de libre tránsito y la visación de los demás documentos señalados
 
 Deróganse los artículos 15 y 16 del Decreto Supremo N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
 
-## Título IX — {ARTS. 46-51}
+## Título VII — {ARTS. 46-51}
 
-Disposiciones varias Artículo 46°.- La Subsecretaría de Pesca llevará un registro de antecedentes de personas jurídicas solicitantes de concesiones de acuicultura el que se elaborará con las copias legalizadas de sus estatutos, modificaciones si las hubiere, inscripciones en el respectivo registro y el mandato de su representante, con la certificación de vigencia correspondiente.
+Disposiciones varias
 
-Dicho registro será actualizado anualmente mediante la certificación de vigencia de la constitución de la persona jurídica y del mandato del que comparece a su nombre. Para tales efectos, las personas jurídicas que se sometan a dicho registro deberán enviar en el mes de febrero de cada año, los certificados de vigencia correspondientes.
+#### Artículo 46°
 
-Toda modificación que se realice durante el año deberá ser comunicada a la Subsecretaría adjuntando la copia legalizada correspondiente con su inscripción en el registro respectivo. Será responsabilidad de la persona jurídica respectiva mantener actualizada en el registro la información acerca del mandato de su representante legal.
-
-Podrán inscribirse en el registro contemplado en el presente artículo, las personas jurídicas que realicen actividades de acuicultura sin necesidad de concesión de acuicultura.
+ELIMINADO.
 
 #### Artículo 46° bis
 
-Toda comunicación requerimiento o notificación que se realice al solicitante, durante el trámite de otorgamiento o entrega de la concesión de acuicultura, por el Servicio, la Subsecretaría de Pesca o para las Fuerzas Armadas o la Autoridad Marítima, será remitida por carta certificada al domicilio señalado en la solicitud, debiendo el solicitante comunicar oportunamente todo cambio del mismo.
+Toda comunicación requerimiento o notificación que se realice al solicitante, durante el trámite de otorgamiento o entrega de la concesión de acuicultura, por el Servicio, la Subsecretaría de Pesca y Acuicultura o para las Fuerzas Armadas o la Autoridad Marítima, será remitida por carta certificada al domicilio señalado en la solicitud, debiendo el solicitante comunicar oportunamente todo cambio del mismo.
 
 Asimismo, toda comunicación remitida al solicitante por carta certificada establecida en el presente reglamento, cualquiera sea su objeto, se entenderá notificada al tercer día hábil posterior a la fecha de entrega de la carta respectiva a la oficina de correos del domicilio del organismo requirente, debiendo contarse todos los plazos a partir de la notificación.
 
@@ -740,7 +704,7 @@ e) Dar cuenta a la Subsecretaría para las Fuerzas Armadas de cualquier infracci
 
 #### Artículo 47° bis
 
-La Autoridad Marítima comunicará, dentro de los primeros 15 días del mes, al Servicio Nacional de Pesca, la nómina de concesiones que han sido entregadas durante el mes anterior, indicando la fecha en que ella hubiere sido requerida por el titular y la fecha en que la entrega se hubiere efectivamente verificado.
+La Autoridad Marítima comunicará, dentro de los primeros 15 días del mes, al Servicio Nacional de Pesca y Acuicultura, la nómina de concesiones que han sido entregadas durante el mes anterior, indicando la fecha en que ella hubiere sido requerida por el titular y la fecha en que la entrega se hubiere efectivamente verificado.
 
 #### Artículo 48°
 
@@ -768,11 +732,11 @@ Transitorio: En los casos a que se refiere el artículo 5° transitorio inciso 6
 
 - **f)** del artículo 10°, inciso 1°, de este reglamento.
 
-b) Copia autorizada por la Subsecretaría de Pesca del plano que sirvió de antecedente a ésta para la dictación de su resolución, salvo que contenga errores u omisiones que hagan necesaria su adecuación o reemplazo, en cuyo caso, se deberá dar cumplimiento a lo dispuesto en el artículo 10° inciso primero letra c) de este reglamento, a menos que existan planos confeccionados por el Ministerio de Bienes Nacionales, visados por el Servicio Hidrográfico y Oceanográfico de la Armada, cualquiera sea su escala, para lo cual bastará con indicar las correspondientes coordenadas geográficas del área solicitada, en base a éste, sin necesidad de acompañar plano alguno.
+b) Copia autorizada por la Subsecretaría de Pesca y Acuiculturadel plano que sirvió de antecedente a ésta para la dictación de su resolución, salvo que contenga errores u omisiones que hagan necesaria su adecuación o reemplazo, en cuyo caso, se deberá dar cumplimiento a lo dispuesto en el artículo 10° inciso primero letra c) de este reglamento, a menos que existan planos confeccionados por el Ministerio de Bienes Nacionales, visados por el Servicio Hidrográfico y Oceanográfico de la Armada, cualquiera sea su escala, para lo cual bastará con indicar las correspondientes coordenadas geográficas del área solicitada, en base a éste, sin necesidad de acompañar plano alguno.
 
 c) Certificado emitido por la Autoridad Marítima, a petición de la Subsecretaría de Marina, en cuanto a si existe o no sobreposición con cualquier otro tipo de concesión marítima otorgada o en trámite.
 
-d) Para los efectos del informe indicado en el artículo 13°, será suficiente aquel que sirvió de fundamento para la dictación de la resolución de la Subsecretaría de Pesca, que autorizó la correspondiente realización de actividades de acuicultura de que se trata.
+d) Para los efectos del informe indicado en el artículo 13°, será suficiente aquel que sirvió de fundamento para la dictación de la resolución de la Subsecretaría de Pesca y Acuicultura, que autorizó la correspondiente realización de actividades de acuicultura de que se trata.
 
 #### Artículo 2°
 
@@ -798,7 +762,7 @@ transitorio. La Subsecretaría no rechazará las solicitudes de acuicultura que 
 
 a) Su titular haya presentado la correspondiente declaración o estudio de impacto ambiental al Sistema de Evaluación de Impacto Ambiental;
 
-b) La Subsecretaría de Pesca haya enviado a su titular una carta dejando sin efecto el requerimiento del artículo 14 bis de este reglamento; y
+b) La Subsecretaría de Pesca y Acuicultura haya enviado a su titular una carta dejando sin efecto el requerimiento del artículo 14 bis de este reglamento; y
 
 c) Su titular haya presentado un desistimiento a la tramitación indicada en la letra a) anterior.
 
