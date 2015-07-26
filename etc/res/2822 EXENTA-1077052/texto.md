@@ -20,7 +20,7 @@ Resolución:
 
 Durante el período señalado, el SERVIU recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, con los documentos que deben acompañarlas, en los lugares de atención que éste disponga al efecto.
 
-Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos, las que serán sancionadas por resoluciones del Ministro de Vivienda y Urbanismo y publicadas en el Diario Oficial.
+Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos, las que serán sancionadas por resoluciones del Ministro de Vivienda y Urbanismo y publicadas en el Diario Oficial. En casos de urgente necesidad habitacional, los subsidios podrán ser asignados antes del plazo señalado, con los inscritos a la fecha de la asignación.
 
 Las nóminas de los seleccionados serán publicadas en el sitio web del MINVU o del SERVIU y/o de la SEREMI de Vivienda y Urbanismo respectiva, y/o en los medios que el MINVU disponga al efecto, las que deberán contener a lo menos el número de cédula de identidad del beneficiario.
 
@@ -28,7 +28,7 @@ La primera selección se realizará con los inscritos al último día hábil del
 
 La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 295.000 Unidades de Fomento.
 
-Podrán inscribirse en este llamado especial los damnificados que sean propietarios, hubiesen estado o no residiendo en la vivienda siniestrada, los arrendatarios o los allegados, cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo. Los propietarios de viviendas podrán optar por adquirir otra vivienda, siempre que efectúen los trámites de cesión de derechos al SERVIU respecto del inmueble afectado por la catástrofe aludida.
+Podrán inscribirse en este llamado especial los damnificados que sean propietarios, hubiesen estado o no residiendo en la vivienda siniestrada, los arrendatarios o los allegados, cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe o que sin haber resultado destruida o irreparable, estuviere emplazada en un área de riesgo determinada en el respectivo instrumento de planificación territorial, o en otras zonas en que se considere que hay riesgo para la población, establecidas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo. Los propietarios de viviendas podrán optar por adquirir otra vivienda, siempre que efectúen los trámites de cesión de derechos al Serviu respecto del inmueble afectado por la catástrofe aludida o que esté emplazado en las zonas señaladas.
 
 2. Sin perjuicio del cumplimiento de las exigencias establecidas en el DS Nº 1 (V. y U.), de 2011, los damnificados deberán cumplir con los siguientes requisitos:
 
@@ -36,7 +36,7 @@ a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y U
 
 b) Declaración de Núcleo Familiar según formato provisto por el SERVIU. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Sólo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
 
-c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberá haber iniciado los trámites de cesión de derechos sobre el terreno al SERVIU, lo que deberá ser acreditado por éste.
+c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda, haya resultado o no totalmente destruida o inhabitable por la catástrofe y éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberá haber iniciado los trámites de cesión de derechos sobre el terreno al Serviu, lo que deberá ser acreditado por éste.
 
 3. Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos, condiciones o impedimentos establecidos en el DS Nº 1 (V. y U.), 2011, según corresponda:
 
@@ -56,9 +56,9 @@ Tampoco podrán inscribirse los damnificados que tengan algún certificado de su
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
-6. La vivienda a la que se aplique el subsidio habitacional podrá ser una vivienda nueva o usada; no podrá exceder de 140 m&amp;sup2; y deberá contar con a lo menos 3 recintos conformados por un dormitorio, que deberá corresponder al dormitorio principal, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina, no exigiéndose que cumpla con el programa arquitectónico ni con el Itemizado Técnico de Construcción, a que se refieren los artículos 42 y 43 del DS Nº 1 (V. y U.), de 2011.
+6. La vivienda a la que se aplique el subsidio habitacional podrá ser una vivienda nueva o usada; no podrá exceder de 140 m&sup2; y deberá contar con a lo menos 3 recintos conformados por un dormitorio, que deberá corresponder al dormitorio principal, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina, no exigiéndose que cumpla con el programa arquitectónico ni con el Itemizado Técnico de Construcción, a que se refieren los artículos 42 y 43 del DS Nº 1 (V. y U.), de 2011.
 
-La vivienda que se adquiera con aplicación de este subsidio, no podrá estar emplazada en una zona de riesgo determinada en el respectivo instrumento de planificación territorial, ni tampoco en nuevas áreas de riesgo determinadas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo correspondiente que no estén previamente contempladas en el señalado instrumento de planificación.
+La vivienda que se adquiera con aplicación de este subsidio no podrá estar emplazada en un área de riesgo determinada en el respectivo instrumento de planificación territorial, ni en otras zonas en que se considere que hay riesgo para la población, establecidas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia. La determinación de estas zonas será para el solo efecto de identificar aquellas en que el subsidio no podrá ser aplicado.
 
 7. Los beneficiarios podrán aplicar el subsidio a la adquisición de una vivienda económica en cualquier región del país, la que deberán señalar al momento de su inscripción al subsidio.
 
