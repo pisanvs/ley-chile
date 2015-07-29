@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A EXPORTADORA E IMPORTADORA MINERALES Y CHATARRA LIMITADA
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII, por resolución exenta Nº 77315047789, de fecha 21-07-2015, otorga a contar del 1º del mes siguiente al de esta publicación en el Diario Oficial, a Exportadora e Importadora Minerales y Chatarra Limitada, RUT Nº 76.301.707-9, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de chatarra, conforme lo establecido en la resolución exenta Nº 7, de fecha 28-01-2003, de la Dirección Nacional del Servicio, publicada en el Diario Oficial del día 03-02-2003.
