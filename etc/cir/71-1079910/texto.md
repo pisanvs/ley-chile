@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY Nº 20.780, A LA LEY SOBRE IMPUESTO A LA RENTA, RELACIONADAS CON LA TRIBUTACIÓN ESTABLECIDA EN SUS ARTÍCULOS 21 Y 74 Nº 4, A LAS ESCALAS DE RENTAS Y TASAS CONTENIDAS EN LOS ARTÍCULOS 43 Nº 1 Y 52, Y LA INCORPORACIÓN DEL NUEVO ARTÍCULO 52 BIS A DICHA LEY
+
+Extracto de circular del Servicio de Impuestos Internos Nº 71, de fecha 23 de julio de 2015, la cual tiene por objeto impartir instrucciones sobre las modificaciones efectuadas por la ley Nº 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el Nº 4, del artículo 74. También se instruye sobre las modificaciones incorporadas a las escalas de rentas y tasas contenidas en los artículos 43 Nº 1 y 52 de la Ley sobre Impuesto a la Renta, y la incorporación del nuevo artículo 52 bis a dicha ley.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2015.
