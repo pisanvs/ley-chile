@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY Nº 20.780 A LA LEY SOBRE IMPUESTO A LA RENTA, RELACIONADAS CON LAS NORMAS PARA LA ARMONIZACIÓN DE LOS NUEVOS REGÍMENES GENERALES DE TRIBUTACIÓN Y SOBRE LAS OBLIGACIONES DE INFORMAR AL SERVICIO QUE TENDRÁN LAS EMPRESAS, TODO ELLO, A CONTAR DEL 1 DE ENERO DE 2017
+
+Extracto DE Circular del Servicio de Impuestos Internos Nº 68, de fecha 23 de julio de 2015, la cual tiene por objeto impartir instrucciones sobre las modificaciones incorporadas por la ley Nº 20.780 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1 de enero de 2017, particularmente sobre las normas para la armonización de dichos regímenes y nuevas obligaciones de informar al servicio que tendrán las empresas.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2015.
