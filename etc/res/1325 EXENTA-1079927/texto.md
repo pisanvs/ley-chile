@@ -1,0 +1,5 @@
+APRUEBA PLANES Y PROGRAMAS DE ESCUELA DE CONDUCTORES QUILLOTA LIMITADA
+
+Por resolución exenta Nº 1.325, de fecha 11 de mayo de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprobaron los planes y programas de enseñanza para la obtención de licencia de conductor Clase B a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Quillota Limitada", cuyo nombre de fantasía es "Escuela de Conductores Quillota Ltda.", RUT Nº 77.269.360-5, siendo su director el Sr. Juan Alonso Vicencio Moyano, RUN Nº 16.288.147-7, la que tendrá su lugar de funcionamiento en la sede ubicada en Av. Condell Nº 310, comuna de Quillota. Las horas pedagógicas autorizadas a la referida escuela son 10 horas teóricas, 12 horas prácticas, con un total de 22 horas pedagógicas.
+
+Maritza Robledo Fernández, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
