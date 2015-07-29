@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY Nº 20.780 A LA LEY SOBRE IMPUESTO A LA RENTA, RELACIONADAS CON EL RÉGIMEN DE IMPUTACIÓN TOTAL DEL CRÉDITO POR IMPUESTO DE PRIMERA CATEGORÍA EN LOS IMPUESTOS FINALES QUE RIGE A CONTAR DEL 1º DE ENERO DE 2017
+
+Extracto de circular del Servicio de Impuestos Internos Nº 66, de fecha 23 de julio de 2015, la cual tiene por objeto impartir instrucciones sobre las modificaciones incorporadas por la ley Nº 20.780 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1º de enero de 2017, particularmente sobre el régimen de imputación total del crédito por Impuesto de Primera Categoría en los impuestos finales.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2015.
