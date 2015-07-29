@@ -86,6 +86,18 @@ Ruta G-149, Cruce Ruta 5 - Liray - Cruce Ruta 73.
 
 Ruta G-460, Cruce G-46 - Isla de Maipo.
 
+Ruta G-46, Cruce Ruta 5 - Paine - Carampangue - Cruce G-40.
+
+Ruta G-51, Cruce Ruta 5 - Alto Jahuel - Cruce G-45-H.
+
+Ruta G-54, Cruce Ruta 5 - Melipilla.
+
+Ruta G-74-F, Ruta G-78 - Bollenar - Cuesta Ibacache.
+
+Ruta G-505, Cruce Ruta G-51 - Linderos - Paine - Cruce Ruta 5.
+
+Ruta G-531, Cruce Ruta G-45-H - J.M. Balmaceda - Cruce G-505.
+
 3º Declárense Caminos Públicos en el continuo urbano de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Metrópoli de Santiago:
@@ -225,6 +237,62 @@ La Islita
 norte hasta el límite urbano sur, a través de:
 
 calle Balmaceda.
+
+ALTO JAHUEL
+
+. El tramo urbano de la Ruta G-51, desde límite urbano oriente hasta la zona urbana centro, a través Camino Buin-Alto Jahuel (T58S).
+
+BOLLENAR
+
+. El tramo urbano de la Ruta G-74-F, desde límite urbano sur hasta el límite urbano norte, a través Camino a Valparaíso.
+
+BUIN
+
+. El tramo urbano de la Ruta G-51, desde zona urbana centro hasta el límite urbano oriente, a través Camino Buin-Alto Jahuel (T58S).
+
+. El tramo urbano de la Ruta G-505, desde zona urbana centro-oriente hasta el límite urbano sur, a través Avenidas Javiera Carrera y Francisco Javier Krugger.
+
+CHAMPA
+
+. El tramo urbano de la Ruta G-54, desde límite urbano oriente hasta el límite urbano poniente, a través Avenida Darío Pavez o Camino Champa-Melipilla (T63S).
+
+LA ISLITA
+
+. El tramo urbano de la Ruta G-46, desde zona urbana centro hasta límite urbano norte, a través Camino Paine-Lonquén-Carampangue (T68S).
+
+LONQUÉN
+
+. El tramo urbano de la Ruta G-46, desde límite urbano norte hasta límite urbano sur, a través Camino Paine-Lonquén-Carampangue (T59S).
+
+MELIPILLA
+
+. El tramo urbano de la Ruta G-74-F, desde zona urbana centro hasta el límite urbano norte, a través Avenida José Massoud Sarquis o Camino a Valparaíso (E27P).
+
+TALAGANTE
+
+. El tramo urbano de la Ruta G-46, desde límite urbano oriente hasta límite urbano poniente, a través Camino Paine-Lonquén-Carampangue (T59S).
+
+PABELLÓN
+
+. El tramo urbano de la Ruta G-54, desde límite urbano suroriente hasta el límite urbano norponiente, a través Camino Champa-Melipilla (T63S).
+
+PAINE
+
+. El tramo urbano de la Ruta G-505, desde límite urbano norte hasta el límite urbano sur, a través Avenida General Baquedano.
+
+. El tramo urbano de la Ruta G-531, desde el límite urbano poniente hasta la zona urbana centro, a través Avenida 18 de Septiembre (T59S).
+
+PINTUÉ
+
+. El tramo urbano de la Ruta G-54, desde límite urbano oriente hasta el límite urbano poniente, a través Camino Champa-Melipilla (T63S).
+
+SAN JOSÉ
+
+. El tramo urbano de la Ruta G-74-F, desde límite urbano sur hasta el límite urbano norte, a través Camino a Valparaíso.
+
+VILUCO
+
+. El tramo urbano de la Ruta G-46, desde el límite urbano oriente hasta el límite urbano poniente, a través Camino Paine-Lonquén-Carampangue (T59S).
 
 5º Las vías declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
