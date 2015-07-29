@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY Nº 20.780, A LOS Nos 5, 6 Y 8 DEL ARTÍCULO 17, 18 Y A LOS Nos 8 Y 9, DEL INCISO 1º, DEL ARTÍCULO 41, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA, Y REEMPLAZA DOS EJEMPLOS CONTENIDOS EN LA CIRCULAR Nº 42 DE 2015
+
+Extracto de circular del Servicio de Impuestos Internos Nº 70, de fecha 23 de julio de 2015, la cual tiene por objeto impartir instrucciones sobre las modificaciones efectuadas por la ley Nº 20.780 a los Nos 5, 6 y 8 del artículo 17, 18 y a los Nos 8 y 9, del inciso 1º, del artículo 41, ambos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1 de enero de 2017, y reemplaza dos ejemplos contenidos en la circular Nº 42, de 2015.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2015.
