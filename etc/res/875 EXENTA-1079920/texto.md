@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL "PROYECTO EÓLICO LA CABAÑA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta Nº 875, de fecha 1 de julio de 2015, del Director Ejecutivo del Servicio de Evaluación Ambiental (SEA), se ha resuelto dar inicio a un proceso de participación ciudadana para la evaluación ambiental de la Declaración de Impacto Ambiental del "Proyecto Eólico La Cabaña", cuyo titular es La Cabaña SpA., emplazado en las comunas de Angol, Renaico, Collipulli y Mulchén. Lo anterior, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la Ley Nº 19.300, contados a partir de la fecha de la presente publicación.
+
+Conforme a la descripción del "Proyecto Eólico La Cabaña", las tipologías en virtud de las cuales ingresa al SEIA corresponden a aquellas contempladas en el artículo 3º del DS Nº 40/2012, letras c) Centrales generadoras de energía mayores a 3 MW, b.1) Líneas de transmisión eléctrica de alto voltaje y b.2) Subestaciones. El proyecto genera carga ambiental, pues se cumple con los requisitos contemplados normativamente; estos son: i) la generación de beneficios sociales y ii) externalidades ambientales negativas en localidades próximas durante su construcción y operación.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal de 20 días hábiles para efectuarlas ante el SEA, contados a partir de la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Ejecutiva del SEA, ubicada en Miraflores 222, piso 20, Santiago. Además, puede accederse a ella a través del sitio web www.sea.gob.cl.
+
+Jorge Troncoso Contreras, Director Ejecutivo del Servicio de Evaluación Ambiental.
