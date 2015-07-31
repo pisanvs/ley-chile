@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase, a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 15 de diciembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para las regiones si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, para la reparación de viviendas de familias damnificadas, de la Región de Atacama y de las comunas de Antofagasta y Taltal de la Región de Antofagasta, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 104 (de Interior), de 1977, y sus modificaciones.
 
-Las selecciones serán mensuales y podrán participar de éstas las familias que cuenten con informes técnicos aprobados por el SERVIU de las regiones de Antofagasta y Atacama al último día hábil de cada mes.
+Las selecciones serán mensuales y podrán participar de éstas las familias que cuenten con informes técnicos aprobados por el SERVIU de las regiones de Antofagasta y Atacama al último día hábil de cada mes y de forma exclusiva para la selección del mes de junio de 2015 hasta el día 3 de julio de 2015.
 
 2. Sólo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo, que afectó a la Región de Atacama y las comunas de Antofagasta y Taltal de la Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con "daño reparable moderado" y "daño reparable mayor", tras la aplicación de la Ficha de Catastro extendida por el SERVIU. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 10 días hábiles para efectuarlo.
 
@@ -306,9 +306,9 @@ señalado en el informe técnico.
 
 Pago Etapa 2: Al SERVIU en su calidad de EP y/o a
 
-las EP privadas y públicas se les pagarán
+las EP privadas se les pagarán los
 
-los servicios de Asistencia Técnica en
+servicios de Asistencia Técnica en
 
 2 cuotas, de acuerdo a lo siguiente:
 
