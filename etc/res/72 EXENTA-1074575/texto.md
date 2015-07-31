@@ -42,6 +42,8 @@ Tercera selección: 30 de marzo de 2015.
 
 Cuarta Selección: 15 de mayo de 2015.
 
+Quinta selección: 31 de julio de 2015.
+
 2. La postulación a este llamado se hará de forma colectiva, mediante subsidio a la comunidad de copropietarios. Dicho beneficio se asociará al RUT de la Copropiedad y Roles de las unidades que componen el proyecto. Se entenderá como copropiedad formalizada, a aquella que cuente con un reglamento y comité de administración. De no estar formalizadas, Serviu designará un Administrador Provisional, mediante resolución, validada por las familias beneficiarias.
 
 ### 3. Se podrán presentar proyectos en las siguientes modalidades:
@@ -88,7 +90,7 @@ Los proyectos posibles de atender son:
 
 3.2.3 Proyecto de Mejoramiento de Bienes Comunes Edificados: Se consideran en este caso sólo reparaciones de bienes comunes edificados distintas a las señaladas en el punto 3.1.2, tales como techumbre o fachada dañados.
 
-4. Los recursos disponibles para este llamado son 611.000 UF.
+4. Los recursos disponibles para este llamado son 1.111.000 UF.
 
 5. El número de proyectos seleccionados en la Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles.
 
