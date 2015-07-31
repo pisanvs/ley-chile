@@ -852,6 +852,8 @@ ERRORES DETECTADOS EN LOS DOCUMENTOS DE PAGO
 
 Los errores detectados en los documentos de pago de las DIN, que se desarrollan en este Capítulo, deberán ser corregidos a través del documento denominado "Solicitudes de Modificación de Documento Aduanero (SMDA)". Sin embargo, todos aquellos errores que no sean evidentes o manifiestos, y que sean de aquellas materias reclamables conforme al artículo 117 de la Ordenanza de Aduanas, deberán ser tramitados a través del procedimiento de reclamaciones regulado en los artículos 117 y siguientes del mismo cuerpo legal.
 
+Las Aduanas no deberán formular denuncias, en caso que la corrección del documento de pago sea solicitada por el despachador en forma de autodenuncio, sin que previamente se haya realizado respecto de la operación, un procedimiento de fiscalización que haya instruido la presentación de la Solicitud de Modificación a Documento Aduanero, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
+
 A. ERRORES DETECTADOS EN LAS DECLARACIONES DE INGRESO
 
 1. DECLARACIONES DE INGRESO CON EL DOCUMENTO DE PAGO
@@ -2074,6 +2076,8 @@ Una vez firmada la resolución que resuelve la reposición, el funcionario que c
 
 La notificación debe realizarse por carta certificada remitiéndose copia de ésta. Dicha notificación se entenderá practicada al tercer día de ser expedida, la que en todo caso deberá efectuarse antes de los 50 días hábiles contados desde su ingreso. Cuando se cuente con la dirección de correo electrónico del interesado, el funcionario encargado notificará asimismo la resolución por esta misma vía.
 
+Las Aduanas no deberán formular denuncias, en caso que la solicitud o la corrección del documento de pago sea solicitada por el despachador en forma de autodenuncio, sin que haya mediado respecto de la operación, un procedimiento de fiscalización que haya instruido la presentación de la solicitud respectiva, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
+
 2. DOCUMENTOS QUE SE ORIGINAN EN EL SERVICIO NACIONAL DE ADUANAS
 
 El Servicio Nacional de Aduanas emitirá los siguientes documentos relacionados con el sistema de pagos:
@@ -2843,6 +2847,10 @@ sentencia.
 Las denuncias serán conocidas y sancionadas según sea su cuantía, de acuerdo a los procedimientos establecidos en los artículos 185 y 186 de la Ordenanza de Aduanas o en el artículo 187 del mismo texto legal.
 
 Las denuncias deberán ser registradas en el Formulario de Denuncia que contempla el Sistema DECARE, cuya utilización será obligatoria para el registro y seguimiento de todas las denuncias que se emitan por los funcionarios del Servicio, por concepto de contravenciones, delitos aduaneros y otras infracciones cuya resolución le compete al Servicio Nacional de Aduanas en virtud de leyes especiales. El Formulario de denuncia en papel será utilizado sólo para eventos de contingencia en que no haya sistema electrónico en línea, debiendo el funcionario denunciante ingresarla en el sistema una vez repuesto éste.
+
+No obstante lo anterior, las Aduanas no formularán denuncias a quien incurriere en una contravención aduanera a que se refieren los artículos 173, 174, 175 y 176 de la Ordenanza de Aduanas, siempre que el infractor pusiere el hecho en su conocimiento antes de cualquier procedimiento de fiscalización y se hubieren pagado los derechos aduaneros correspondientes, de ser procedentes.
+
+Para dichos efectos, se entenderá como "procedimiento de fiscalización", las actuaciones, actos, solicitudes, requerimientos, acciones o gestiones llevadas a cabo por las Aduanas, en forma anterior, coetánea o posterior al despacho o a una destinación aduanera, tendiente a controlar, verificar, revisar, comprobar, cerciorarse o constatar un instrumento, documento, antecedente o acción que diga relación o que ncida en un despacho aduanero o en una destinación aduanera, actividad toda tendiente, en definitiva a verificar o comprobar el cumplimiento de una instrucción, prescripción o norma aduanera, cualquiera sea su naturaleza o tipo.
 
 2.3.1. DENUNCIAS REGIDAS POR EL PROCEDIMIENTO
 
@@ -3626,41 +3634,7 @@ Aduanero, o bien, una vez resuelto éste y confirmada
 
 la procedencia de la multa, según sea el caso.
 
-2.3.1.8 AUTODENUNCIO
-
-Se podrá eximir de la multa a quien incurriere en una
-
-contravención aduanera, pero pusiere este hecho en
-
-conocimiento del Servicio antes de cualquier
-
-fiscalización o requerimiento por parte de éste y, en
-
-su caso, pagare los derechos aduaneros
-
-correspondientes. El funcionario analizará las
-
-circunstancias del caso y determinará si otorga la
-
-exención, decisión que deberá ser fundada, dejando
-
-constancia en el acta y adjuntando ésta al expediente
-
-digital en el sistema.
-
-Para estos efectos, deberán considerarse
-
-especialmente circunstancias tales como, el tiempo
-
-transcurrido entre la infracción y el autodenuncio,
-
-si hubo diferencia de derechos dejados de percibir,
-
-el monto de ésta y la frecuencia o habitualidad con
-
-la que el infractor presenta estas solicitudes.
-
-2.3.1.9 RECLAMACIÓN DE LA MULTA APLICADA.
+2.3.1.8 RECLAMACIÓN DE LA MULTA APLICADA.
 
 El afectado por la multa impuesta por la autoridad
 
@@ -4166,39 +4140,7 @@ emitirá el giro F16 por la multa aplicada sin
 
 allanamiento notificada originalmente.
 
-2.3.2.9 AUTODENUNCIO
-
-Se podrá eximir de la multa a quien incurriere en una
-
-contravención aduanera, pero pusiere este hecho en
-
-conocimiento del Servicio antes de cualquier
-
-fiscalización o requerimiento por parte de éste y, en
-
-su caso, pagare los derechos aduaneros
-
-correspondientes. El funcionario analizará las
-
-circunstancias del caso y determinará si otorga la
-
-exención, decisión que deberá ser fundada, dejando
-
-constancia en el acta.
-
-Para estos efectos, deberán considerarse en especial
-
-circunstancias tales como, el tiempo transcurrido
-
-entre la infracción y el autodenuncio, si hubo
-
-diferencia de derechos dejados de percibir, el monto
-
-de ésta, y la frecuencia o habitualidad con la que el
-
-infractor presenta estas solicitudes.
-
-2.3.2.10 RECLAMACIÓN DE LA MULTA
+2.3.2.9 RECLAMACIÓN DE LA MULTA
 
 Las multas aplicadas podrán ser reclamadas ante el
 
@@ -4257,6 +4199,8 @@ los resultados de la reclamación, registrando la
 multa final que se hubiere aplicado por sentencia de
 
 término.
+
+Las Aduanas no deberán formular denuncias, en caso que la formulación del cargo o la solicitud de corrección del documento de pago hubiere sido solicitada por el despachador en forma de autodenuncio, sin que haya mediado respecto de la operación, un procedimiento de fiscalización que haya generado la formulación del cargo o la presentación de la solicitud respectiva, y se hubieren pagado los derechos aduaneros correspondientes, si procedieren.
 
 3. PROCEDIMIENTO GENERAL PARA EL OTORGAMIENTO DE LA RENUNCIA DE LA ACCIÓN PENAL EN LAS DENUNCIAS PENALES DEL SISTEMA DECARE (ARTÍCULO 189 INCISO 4° DE LA ORDENANZA DE ADUANAS)
 
@@ -6953,3 +6897,5 @@ El funcionario que emite el formulario de Giro Comprobante de Pago en Pesos F-16
 > **Nota.** NOTA 1 El Numeral 2 de la Resolución 9422 Exenta, Hacienda, publicado 23.09.2013, modifica la presente norma en el sentido de sustituir las hojas Cap. III-1 y Cap. III-2.
 
 > **Nota.** NOTA 2 El Numeral 3 de la Resolución 5271 Exenta, Hacienda, publicado 03.10.2014, modifica la presente norma en el sentido de sustituir las hojas Cap. II - 2.
+
+> **Nota.** NOTA 3 El Numeral 2 de la Resolución 3939, Hacienda, publicado el 30.07.2015, modifica la presente norma en el sentido de sustituir las páginas CAP. II-1; CAP. III-1; CAP. III-6; CAP. III-10; CAP. III-14; CAP. III-17 y CAP. III-18.
