@@ -78,13 +78,11 @@ juglandis y Melanconis juglandis.
 
 1.5 El envío se encuentra libre de Xiphinema
 
-americanum sensu lato, Xiphinema americanum
+americanum sensu lato y Xiphinema americanum
 
-sensu stricto y Cacopaurus pestis, de acuerdo
+sensu stricto, de acuerdo con el resultado
 
-con el resultado de un análisis oficial de
-
-laboratorio.
+de un análisis oficial de laboratorio.
 
 2. El material debe haber sido sometido a un tratamiento de desinfectación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tiempo de exposición y dosis utilizada.
 
