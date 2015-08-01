@@ -12,12 +12,14 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en la Ruta 5 Sur, sector Angostura de Paine, en ambos sentidos de tránsito, entre los kilómetros 52 y 57,5, en las fechas y horarios que a continuación se indican:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados en la Ruta 5 Sur, sector Angostura de Paine, en ambos sentidos de tránsito, entre los kilómetros 50 y 55,7, en las fechas y horarios que a continuación se indican:
 
 .
 
 2.- Podrán ingresar excepcionalmente en el tramo señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con proyecto: "Terceras Pistas Tramo II y Nueva Plaza de Peajes Angostura".
 
 3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tránsito.
+
+> **Nota.** La letra b de la Resolución 3520 Exenta, Transportes, publicada el 31.07.2015, modifica la presente norma en el sentido de reemplazar la frase: "30 de julio de 2015" por: "30 de octubre de 2015".
 
 Anótese y publíquese.- Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
