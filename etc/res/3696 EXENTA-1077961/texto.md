@@ -22,7 +22,7 @@ b) Que de acuerdo al catastro realizado en la región señalada en el consideran
 
 Resolución:
 
-1.- Llámese, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a postulación extraordinaria y simplificada del Programa de Protección del Patrimonio Familiar en su Título II, destinado a la atención de las familias damnificadas de la provincia de Llanquihue y de la comuna de Puerto Octay, Región de Los Lagos, para el otorgamiento de subsidios individuales destinados a financiar la adquisición de materiales para la reparación de las viviendas. El subsidio a otorgar será de un monto de $1.000.000 (un millón de pesos) para cada beneficiario, el cual se entregará a través de una tarjeta habilitada para la compra de materiales.
+1.- Llámese, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a postulación extraordinaria y simplificada del Programa de Protección del Patrimonio Familiar en su Título II, destinado a la atención de las familias damnificadas de la provincia de Llanquihue y de la comuna de Puerto Octay, Región de Los Lagos, para el otorgamiento de subsidios individuales destinados a financiar la adquisición de materiales para la reparación de las viviendas. El subsidio a otorgar será de un monto de $1.000.000 (un millón de pesos) para cada beneficiario afectado con "daño reparable leve" y de $1.500.000 (un millón y medio de pesos) para cada beneficiario con "daño reparable moderado", daños determinados según la ficha de Catastro de Damnificados del Minvu, este subsidio se entregará a través de una tarjeta habilitada para la compra de materiales.
 
 1.1 Este subsidio se asignará a las familias que cumplan con todos los requisitos que establece esta resolución, una vez que concurran a las oficinas del Serviu respectivo para hacerlo efectivo y manifiesten formalmente su interés en recibirlo.
 
@@ -34,9 +34,9 @@ Resolución:
 
 2.1 Tener la calidad de damnificado, lo que se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto.
 
-2.2 Sólo podrán participar de este llamado las personas damnificadas que cuenten con viviendas unifamiliares calificadas con "daño reparable leve", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo, lo que será verificado por Serviu en línea al momento de la postulación. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al Serviu, el que tendrá como máximo 5 días hábiles para efectuarlo.
+2.2 Sólo podrán participar de este llamado las personas damnificadas que cuenten con viviendas unifamiliares calificadas con "daño reparable leve" o con "daño reparable moderado", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo, lo que será verificado por Serviu en línea al momento de la postulación. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al Serviu, el que tendrá como máximo 5 días hábiles para efectuarlo.
 
-2.3 Ser propietario o asignatario del inmueble afectado, o cónyuge de alguno de ellos. Podrán igualmente participar en este llamado los familiares, arrendatarios o inquilinos, trabajadores u otros ocupantes a título oneroso o gratuito, que a la fecha de la emergencia se hubieren encontrado haciendo uso de las viviendas que hayan resultado con daño moderado leve. En este caso el familiar, arrendatario o inquilino, trabajador u ocupante de la vivienda deberá acompañar declaración jurada notarial expresa, por la cual el propietario de la vivienda autoriza la aplicación del subsidio y constituye en favor del familiar, arrendatario o inquilino, trabajador u ocupante derecho real de uso por a lo menos 3 años, contados desde la fecha de la declaración.
+2.3 Ser propietario o asignatario del inmueble afectado, o cónyuge de alguno de ellos. Podrán igualmente participar en este llamado los familiares, arrendatarios o inquilinos, trabajadores u otros ocupantes a título oneroso o gratuito, que a la fecha de la emergencia se hubieren encontrado haciendo uso de las viviendas que hayan resultado con "daño reparable leve" o con "daño reparable moderado". En este caso el familiar, arrendatario o inquilino, trabajador u ocupante de la vivienda deberá acompañar declaración jurada notarial expresa, por la cual el propietario de la vivienda autoriza la aplicación del subsidio y constituye en favor del familiar, arrendatario o inquilino, trabajador u ocupante derecho real de uso por a lo menos 3 años, contados desde de fecha de la declaración.
 
 2.4 Podrán postular a este llamado las familias que hayan sido beneficiadas con un subsidio del Programa de Protección del Patrimonio Familiar que aún no haya sido pagado, siempre que Serviu evalúe previamente y certifique que ambas reparaciones son compatibles.
 
@@ -78,7 +78,7 @@ Resolución:
 
 4.7 De lo indicado en las letras a), b), c), d) y e) del inciso cuarto del artículo 37, concerniente a los documentos exigidos para el pago del subsidio.
 
-5. La cantidad de recursos que se destinará para financiar los proyectos de reparación a que se refiere el punto 1 de esta resolución, será de 14.000 unidades de fomento.
+5. La cantidad de recursos que se destinará para financiar los proyectos de reparación a que se refiere el punto 1 de esta resolución, será de 60.000 unidades de fomento.
 
 El número de familias beneficiadas alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según lo señalado en inciso anterior, efectuándose la asignación por orden de llegada, siempre que cumplan los requisitos que se establecen en esta resolución, hasta enterar el total de los recursos disponibles para la región.
 
