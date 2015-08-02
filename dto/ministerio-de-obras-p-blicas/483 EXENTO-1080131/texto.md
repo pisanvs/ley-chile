@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 483, de 08 de julio de 2015, y en base a la facultad otorgada por el artículo 3º letra a), 10 letra c),14º letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 10, para la obra "Mejoramiento Camino 64D305 Altovalsol - Las Rojas - Pelicana", que figura a nombre de GALVEZ ROJAS LIDIA, rol de avalúo 1034-567, Comuna de LA SERENA, Región de Coquimbo, superficie 85 m2. La Comisión de Peritos integrada por PABLO FLORES SALINAS, LUIS MUÑOZ CARVAJAL y MAURICIO ANDUEZA PEREZ, mediante informe de tasación de 19 de julio de 2014, complementada por acta de fecha 21 de enero de 2015, fijó el monto de la indemnización provisional en la cantidad de $1.156.000.- para el lote Nº 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas. (S)
