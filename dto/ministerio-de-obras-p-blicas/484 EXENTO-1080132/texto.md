@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº484, de 10 de julio de 2015, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 91-A, para la obra: AMPLIACION RUTA 5, VARIOS TRAMOS, SECTOR BIFURCACION PUPELDE QUELLON, TRAMO 2 COLONIA YUNGAY QUELLON, Comuna de QUELLON, X Región DE LOS LAGOS, que figura a nombre de CARCAMO DIAZ FRANCISCO O, rol de avalúo 167-27, superficie 411 m2. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, PATRICIO FERNANDO CASAGRANDE ULLOA y SONIA CATALINA GALLEGOS BLANCH, mediante informe de tasación de 09 de septiembre de 2013, fijó el monto de la indemnización provisional en la cantidad de $2.791.760 para el lote Nº91-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas (S).
