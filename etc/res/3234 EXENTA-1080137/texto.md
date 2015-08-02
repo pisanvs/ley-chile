@@ -1,0 +1,7 @@
+RECTIFICA PUBLICACIÓN EFECTUADA CON FECHA 15 DE MAYO DE 2015, EN EL SENTIDO QUE INDICA A CONTINUACIÓN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.234, de fecha 3 de junio de 2015, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº47-A, correspondiente al inmueble ubicado en M.A. Matta 1336 Lote 1 B, Rol de Avalúo Nº 110-322, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Walmart Chile Inmobiliaria S.A., con una superficie aproximada de 162,41 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Eje Manuel Antonio Matta (Quilicura) Transantiago". La Comisión de Peritos, integrada por los señores Patricia Morales Rivera, Constructor Civil, Gustavo Picero García, Arquitecto, y Eric Ehrenfeld Allera, Arquitecto, mediante informe de fecha 1 de diciembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $43.162.900, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Director Serviu Metropolitano.
