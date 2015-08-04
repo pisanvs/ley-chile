@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 233, DE 2013, DICTADA EN CONJUNTO POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES Y EL MINISTERIO DE HACIENDA
+
+Por resolución Nº 233, de 24 de octubre de 2013, tomada de razón por la Contraloría General de la República con fecha 30 de junio de 2015, se aprobó la Modificación al Contrato de Prestación de los Servicios Complementarios de Emisión y Post-Venta del Medio de Acceso y Provisión de Red de Comercialización y Carga del Medio de Acceso al Sistema de Transporte Público de Pasajeros de Santiago, suscrito entre el Ministerio de Transportes y Telecomunicaciones y la Empresa de Transportes de Pasajeros Metro S.A., con fecha 14 de junio de 2013. Texto íntegro de la resolución Nº 233, de 2013, se encuentra en la página web www.dtpm.cl.
+
+Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
