@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.663 EXENTA, DE 2015, QUE RECTIFICA RESOLUCIÓN QUE INDICA
+
+Por resolución exenta Nº 1.556 de fecha 25 de junio de 2015, rectificada por resolución exenta Nº 1.633, de fecha 6 de julio de 2015, ambas del Departamento de Asuntos Internacionales de la Subsecretaría de Transportes, se autorizó a la empresa chilena "Carlos Silva Puratic" para efectuar transporte internacional terrestre de pasajeros, por 5 meses, plazo que comenzará a correr una vez transcurridos 60 días a contar de la fecha de la citada resolución rectificatoria, entre Puerto Natales (Chile) y Calafate (Argentina), y viceversa, utilizando el pazo fronterizo Laurita, Dorotea o Río Don Guillermo, Monte Aymond, con tres (3) frecuencias semanales de ida y vuelta.
+
+Enrique Arce Klein, Departamento de Asuntos Internacionales, Subsecretaría de Transportes.
