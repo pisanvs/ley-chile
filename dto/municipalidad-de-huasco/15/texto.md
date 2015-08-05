@@ -36,6 +36,12 @@ ORDENANZA DERECHOS DE ASEO INDUSTRIAL
 
 La presente Ordenanza tiene por objeto normar sobre la determinación del costo real del Servicio de Aseo Industrial que corresponde cancelar en la comuna de Huasco, a cada establecimiento, oficina, sitios eriazos, relacionados a industrias o a las propias industrias de la comuna, y comercios o industrias considerados grandes contribuyentes, cuya actividad industrial y comercial implique una externalidad e impacto que requiera de la actuación del servicio del Municipio a fin de minimizar sus impactos entre los habitantes de la comuna de Huasco.
 
+Para los efectos de establecer los contribuyentes afectos a esta Ordenanza, que se considerarán como grandes contribuyentes, corresponderá a todo Establecimiento de Comercio que posea industrias instaladas en la comuna, con un capital propio declarado igual o superior a doscientos veintinueve UTM, y cuya actividad suponga como externalidad a soportar por el Municipio la emisión legal de residuos de cualquier naturaleza que requieran de una actividad de limpieza y recuperación por parte de la Municipalidad de Huasco, Municipio en espacios públicos, bienes nacionales de uso público y los bienes que administra a cualquier título. Asimismo, en caso de empresas cuya actividad ocasione externalidades en el aseo y ornato de la comuna que requieran de la actividad municipal antes señalada, también se aplicará el cobro, aun cuando, por cualquier causa, no paguen su Patente Comercial en la comuna, considerándoseles para estos efectos que poseen presuntamente un capital igual o superior a doscientas veintinueve UTM, para el cálculo correspondiente.
+
+El Cobro del Derecho Unitario considerará el monto determinado anualmente como gasto imputable a estos contribuyentes, y se determinará finalmente prorrateando proporcionalmente entre ellos, según sus correspondientes porcentajes de capital declarado o presunto.
+
+Los contribuyentes que no se encuentren en estas condiciones se normarán por la Ordenanza que se dicte al efecto, en todo lo que no contravenga la presente Ordenanza.
+
 #### Artículo 2
 
 La fijación de tarifas o montos, procedimientos de cobranzas del derecho que la Municipalidad de Huasco cobrará por el servicio de aseo, limpieza industrial y extracción de residuos, se regirán por las disposiciones contenidas en los artículos 6º, 7º y 48 DL 3.063 de 1979, sobre Rentas Municipales y sus modificaciones posteriores y por las normas de la presente Ordenanza.
@@ -78,7 +84,7 @@ Estos costos se considerarán aun cuando las industrias se hagan cargo de sus pr
 
 #### Artículo 7
 
-Los rubros de gastos señalados en el artículo anterior se imputarán en un ochenta y nueve por ciento al costo del servicio para la definición de los costos del servicio de aseo, y el saldo restante se entenderá corresponde al simple aseo domiciliario y de pequeños comercios, que dispondrá de su propia ordenanza.
+Los rubros de gastos señalados en el artículo anterior se imputarán hasta un máximo de ochenta por ciento al costo, según el aporte en el gasto que determine la Dirección de Administración y Finanzas cada año del servicio para la definición de los costos del servicio de aseo, y el saldo restante se entenderá corresponde al simple aseo domiciliario y de pequeños comercios, que dispondrá de su propia ordenanza.
 
 #### Artículo 8
 
@@ -90,9 +96,9 @@ El valor anual de la tarifa unitaria se determinará dividiendo el costo total a
 
 #### Artículo 10
 
-Las grandes industrias, tales como madereras, acereras, centrales eléctricas, grandes pesqueras, puertos mecanizados de gran envergadura, y otras empresas de gran envergadura, aun cuando no se encuentren en funcionamiento pero cuyas estructuras arrojen material que ensucie las calles tales como óxidos de fierro, o sirvan de albergue para el vandalismo o la vagancia y que hagan necesaria su continua limpieza en sus inmediaciones, deberán cancelar un valor dos veces superior al valor unitario correspondiente según la presente ordenanza.
+Las grandes industrias, tales como madereras, acereras, centrales eléctricas, grandes pesqueras, puertos mecanizados de gran envergadura, y otras empresas de gran envergadura, aun cuando no se encuentren en funcionamiento pero cuyas estructuras arrojen material que ensucie las calles tales como óxidos de fierro, o sirvan de albergue para el vandalismo o la vagancia y que hagan necesaria su continua limpieza en sus inmediaciones, deberán cancelar un valor dos por ciento superior al valor unitario correspondiente según la presente ordenanza.
 
-Si además emiten material particulado sedimentable, que requiera de la remoción de entre muros y calles públicas, esto es, administradas por el Municipio, deberán cancelar el cuadruplo de lo establecido en el inciso anterior. Para estos efectos se considera que emite material particulado sedimentable toda industria cuyo registro de emisiones consten en el Municipio por cualquier información del SAG o del Servicio de Salud u otros organismos con competencia ambiental.
+Si además emiten material particulado sedimentable, que requiera de la remoción de entre muros y calles públicas, esto es, administradas por el Municipio, deberán cancelar un cuatro por ciento más que lo establecido en el inciso anterior. Para estos efectos se considera que emite material particulado sedimentable toda industria cuyo registro de emisiones consten en el Municipio por cualquier información del SAG o del Servicio de Salud u otros organismos con competencia ambiental.
 
 En el caso de la existencia de depósitos de materiales volubles y sedimentables, o material particulado que pertenezcan a alguna industria, pequeña o grande sea emisora de fuentes aéreas, gaseosas o producto de la remoción de tierras por construcciones, extracción de áridos y movimientos de tierra, dicha industria deberá pagar un derecho de aseo especial, en atención a la naturaleza de su residuo y su relación con las condiciones climatológicas y de viento de Huasco que haga ensuciar las calles y caminos de Huasco, el que será calculado en base a la superficie del depósito, o del sitio removido o de extracción, en la proporción de 0.5 UTM x M3, trimestralmente, derecho que deberá cancelarse conjuntamente con el derecho de aseo de que trata esta Ordenanza.
 
