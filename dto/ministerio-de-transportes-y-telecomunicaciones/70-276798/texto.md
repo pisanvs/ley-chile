@@ -34,7 +34,11 @@ La Comisión Asesora estará formada por:
 
 6. Un representante del Comité Sistema de Empresas (SEP) de la Corporación de Fomento de la Producción.
 
-7. Un representante del Ministerio de Defensa Nacional, Subsecretaría de Marina.
+7. Un representante del Ministerio de Defensa Nacional, Subsecretaría para las Fuerza Armadas.
+
+8. Un representante del Ministerio del Trabajo y Previsión Social.
+
+9. Un representante del Ministerio de Vivienda y Urbanismo.
 
 #### Artículo cuarto
 
@@ -114,7 +118,9 @@ Estudio.
 
 Los representantes de aquellas organizaciones que deseen formar parte del Consejo deberán solicitarlo formalmente al Secretario Ejecutivo, quien a su vez presentará a la Comisión las solicitudes que se reciban. Ésta resolverá fundadamente las solicitudes y dará respuesta por intermedio del Secretario Ejecutivo. En caso de que, transcurridos 90 días desde la presentación de la solicitud por parte del requirente, no se haya dado respuesta, se entenderá automáticamente como aceptada.
 
-Aquellas instituciones que hayan sido aceptadas como miembros del Consejo deberán informar al Secretario Ejecutivo el nombre del representante, su dirección postal, número de teléfono y dirección electrónica, con el fin de poder enviar la información que sea objeto de consulta al Consejo.
+Sin perjuicio de lo anterior, el Ministerio de Transportes y Telecomunicaciones por sí o a través del Secretario Ejecutivo, podrá invitar a formar parte del Consejo Consultivo a nuevos miembros permanentes o temporales.
+
+Aquellas instituciones que hayan sido invitadas o aceptadas como miembros del Consejo deberán informar al Secretario Ejecutivo el nombre del representante, su dirección postal, número de teléfono y dirección electrónica, con el fin de poder enviar la información que sea objeto de consulta al Consejo.
 
 #### Artículo noveno
 
