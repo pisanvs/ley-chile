@@ -108,13 +108,7 @@ Los armadores de embarcaciones prestadoras de servicios deberán informar al Ser
 
 #### Artículo transitorio
 
-El Administrador del Sistema podrá autorizar la utilización provisoria de dispositivos no certificados que hayan sido instalados en las embarcaciones de la acuicultura con anterioridad a la publicación del presente decreto en el Diario Oficial, siempre que sean compatibles con la Estación Fiscalizadora.
-
-Los armadores de las naves a que se refiere el inciso anterior deberán informar dicha situación al Administrador del Sistema en un plazo de 15 días desde la publicación del presente decreto en el Diario Oficial.
-
-Asimismo, los armadores de las embarcaciones de la acuicultura que se encuentren en la hipótesis del inciso primero, tendrán un plazo de 6 meses desde la publicación del presente decreto en el Diario Oficial, para obtener la certificación del dispositivo a que se refiere el artículo 6º letra b).
-
-Transcurrido este plazo, ninguna de esas naves podrá utilizar dispositivos no certificados por el Administrador del Sistema.
+Eliminado
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Juan Andrés Fontaine Talavera, Ministro de Economía, Fomento y Turismo.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.
 
