@@ -1,4 +1,4 @@
-REGLAMENTO DE SISTEMA DE POSICIONAMIENTO AUTOMATICO DE NAVES PESQUERAS Y DE INVESTIGACION PESQUERA Y DE LAS EMBARCACIONES PRESTADORAS DE SERVICIOS DE LA ACUICULTURA
+REGLAMENTO DE SISTEMA DE POSICIONAMIENTO AUTOMATICO DE NAVES PESQUERAS, DE TRANSPORTE Y DE INVESTIGACION PESQUERA Y DE LAS EMBARCACIONES PRESTADORAS DE SERVICIOS DE LA ACUICULTURA
 
 Núm. 139.- Santiago, 27 de marzo de 1998.- Visto: Lo dispuesto en el artículo 32 Nº 8 de la Constitución Política de la República; la Ley General de Pesca y Acuicultura Nº 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; el D.F.L. Nº 5 de 1983; la ley Nº 19.521; la consulta formulada al Consejo Nacional de Pesca, informada mediante carta (C.N.P.) Nº 1 de 20 de enero de 1998.
 
@@ -22,13 +22,13 @@ Disposiciones Generales
 
 <!-- parte:8337699 -->
 
-El sistema de posicionamiento automático de naves pesqueras y de investigación pesquera, y de embarcaciones prestadoras de servicios en los casos en que sea procedente en el mar se regirá por las disposiciones establecidas en la ley General de Pesca y Acuicultura modificada por la ley Nº 19.521 y por las disposiciones del presente reglamento.
+El sistema de posicionamiento automático de naves pesqueras, de transporte y de investigación pesquera, y de embarcaciones prestadoras de servicios en los casos en que sea procedente en el mar se regirá por las disposiciones establecidas en la ley General de Pesca y Acuicultura y por las disposiciones del presente reglamento.
 
 #### Artículo 2º
 
 <!-- parte:8337701 -->
 
-Los armadores de naves pesqueras industriales matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar.
+Los armadores de naves pesqueras industriales, de embarcaciones artesanales de una eslora total igual o superior a 15 metros, de embarcaciones artesanales de una eslora total igual o superior a doce metros e inferior a quince metros inscritas en pesquerías pelágicas con el arte de cerco, y de embarcaciones de transporte, matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar. Lo cual es sin perjuicio del cumplimiento de la obligación de instalar a bordo y mantener en funcionamiento el referido dispositivo en los demás casos en que la normativa legal así lo disponga.
 
 La misma obligación deberán cumplir los armadores de naves matriculadas en Chile que operen en aguas no jurisdiccionales; los armadores de naves que, estando o no estando matriculadas en Chile, realicen pesca de investigación dentro o fuera de las aguas jurisdiccionales; y los armadores de buques fábricas que operen en aguas jurisdiccionales o en la alta mar. Asimismo, esta obligación será aplicable a los armadores de naves pesqueras o buques fábricas de pabellón extranjero que sean autorizados a recalar en los puertos de la República.
 
@@ -94,7 +94,9 @@ la Dirección General del Territorio
 
 Marítimo y Marina Mercante y el
 
-Servicio Nacional de Pesca.
+Servicio Nacional de Pesca y
+
+Acuicultura.
 
 d) Reporte básico: Reporte básico: Es la
 
@@ -160,7 +162,9 @@ Marítimo y Marina Mercante, o, en
 
 adelante, La Dirección General.
 
-g) Servicio: El Servicio Nacional de Pesca.
+g) Servicio: El Servicio Nacional de Pesca y
+
+Acuicultura.
 
 h) Ley General de
 
@@ -206,7 +210,11 @@ servicios: Embarcaciones que prestan
 
 servicios a los centros de
 
-cultivo, entendiéndose por
+cultivo, integrantes de
+
+agrupaciones de concesiones,
+
+entendiéndose por
 
 tales el servicio de
 
@@ -214,7 +222,7 @@ transporte de peces vivos,
 
 peces muertos y sus productos,
 
-alimentos, personal, redes y
+alimentos, redes y
 
 demás elementos destinados a
 
@@ -228,6 +236,32 @@ flotación y protección de
 
 los mismos.
 
+k) Embarcación
+
+de transporte: Nave utilizada para el
+
+traslado de capturas de
+
+embarcaciones pesqueras,
+
+desde la zona de pesca
+
+hasta el puerto de
+
+desembarque. Estas embarcaciones
+
+deberán inscribirse en el
+
+registro especial que para
+
+estos efectos llevará el
+
+Servicio.
+
+l) Subsecretaría: Subsecretaría de Pesca y
+
+Acuicultura
+
 > **Nota.** El artículo 2º del DTO 41, Economía, publicado el 20.04.2004, dispuso que la modificación a la presente norma, entrará en vigencia transcurridos 6 meses desde su publicación.
 
 ## Título II
@@ -240,7 +274,7 @@ Automático
 
 <!-- parte:8337703 -->
 
-El Sistema de Posicionamiento Automático, en adelante el Sistema, deberá garantizar:
+El Sistema deberá garantizar:
 
 a) La generación y transmisión de los reportes básicos de la nave en forma automática, sin intervención de terceros.
 
@@ -282,9 +316,9 @@ jurisdicción nacional de conformidad con el artículo 2º del presente reglamen
 
 <!-- parte:8337705 -->
 
-El dispositivo de posicionamiento automático, en adelante, el dispositivo, deberá cumplir con los siguientes requerimientos técnicos y de diseño:
+El dispositivo, cumplir con los siguientes requerimientos técnicos y de diseño:
 
-a) Debe ser de construcción resistente y, salvo las antenas, integrar en una sola unidad los elementos de posicionamiento y transmisión quedando la conexión entre ambos elementos al interior de la unidad contenedora. Todos los cables y conectores exteriores deberán estar protegidos contra cortes y desconexiones accidentales.
+a) Debe ser de construcción resistente y, salvo las antenas, integrar en una sola unidad los elementos de posicionamiento y transmisión quedando la conexión entre ambos elementos al interior de la unidad contenedora. Todos los cables y conectores exteriores deberán estar protegidos contra cortes y desconexiones accidentales, así como protegidos de las condiciones meteorológicas y oceanográficas del medio.
 
 b) Deberá generar y transmitir en forma automática un mensaje de encendido o apagado, cuando se active o desactive el equipo.
 
@@ -314,7 +348,7 @@ Del Administrador del Sistema
 
 A la Dirección General, en su calidad de Administrador del Sistema, le corresponderán las siguientes funciones:
 
-a) Establecer las nóminas informativas de los proveedores de servicios y dispositivos a que se refiere este Reglamento y de la o las primeras estaciones receptoras que prestarán el servicio de transmisión para el funcionamiento del sistema, las que deberán publicarse a lo menos una vez al año.
+a) Establecer las nóminas informativas de los proveedores de servicios y dispositivos a que se refiere este Reglamento y de la o las primeras estaciones receptoras que prestarán el servicio de transmisión para el funcionamiento del sistema, las que deberán publicarse cada vez que ésta sufra modificaciones.
 
 b) Certificar que el dispositivo, incluido sus accesorios, se ajustan a los requerimientos técnicos y de diseño establecidos en el presente Reglamento.
 
@@ -324,7 +358,7 @@ d) Verificar que la instalación del dispositivo, incluido los accesorios necesa
 
 e) Informar a la nave sobre la falla del dispositivo tan pronto como sea detectada por su propia estación monitora.
 
-f) Confirmar a la nave la señal de encendido y transmisión conforme del dispositivo.
+f) Confirmar a la nave la transmisión conforme del dispositivo.
 
 g) Autorizar la modificación del código de identificación del dispositivo.
 
@@ -332,9 +366,13 @@ h) Prever la incorporación de elementos al dispositivo que impidan la adulterac
 
 i) Autorizar la remoción de los elementos instalados al dispositivo de conformidad con la letra h) del presente artículo;
 
-j) Aprobar el formato de transmisión del reporte básico del dispositivo y de cualquier otro mensaje utilizado en las comunicaciones con el dispositivo; y
+j) Aprobar el formato de transmisión del reporte básico del dispositivo y de cualquier otro mensaje utilizado en las comunicaciones con el dispositivo;
 
 k) Descertificar cuando el dispositivo deje de cumplir con alguno de los requerimientos técnicos y de diseño establecidos en el presente Reglamento.
+
+l) Para las embarcaciones prestadoras de servicios de la acuicultura, en casos excepcionales, previa solicitud del armador, el Administrador del sistema autorizará el cambio de dispositivo y la consecuente remoción de su(s) sello(s) en un puerto no habilitado.
+
+Por su parte, el armador deberá solicitar la inspección y sellado del nuevo equipo a la Autoridad Marítima Local en su primera recalada a puerto habilitado.
 
 > **Nota.** El artículo 2º del DTO 41, Economía, publicado el 20.04.2004, dispuso que la modificación a la presente norma, entrará en vigencia transcurridos 6 meses desde su publicación.
 
@@ -366,7 +404,7 @@ Las naves adoptarán el procedimiento de zarpe y comprobación de equipos en fun
 
 <!-- parte:8337711 -->
 
-El Servicio, previo informe técnico de la Subsecretaría de Pesca, establecerá mediante resolución, la frecuencia de transmisión del reporte básico por pesquería, tipo de flota, y de dispositivo. Asimismo, el Servicio, previo informe técnico de la Subsecretaría de Pesca, establecerá la frecuencia de transmisión para las naves de la acuicultura.
+El Servicio, previo informe técnico de la Subsecretaría, establecerá mediante resolución, previa consulta al Administrador del Sistema la frecuencia de transmisión del reporte básico por pesquería, tipo de flota, y de dispositivo. Asimismo, el Servicio, previo informe técnico de la Subsecretaría, establecerá la frecuencia de transmisión para las naves de la acuicultura.
 
 El intervalo de frecuencia podrá ser de hasta un minuto tratándose de dispositivos que no se encuentren en condiciones de responder a las estaciones fiscalizadoras, y no podrá ser modificado sino en virtud de otra resolución del servicio.
 
@@ -412,7 +450,7 @@ Para naves que realicen pesca de investigación, la resolución que habilite dic
 
 <!-- parte:8337718 -->
 
-Los armadores de embarcaciones prestadoras de servicios deberán informar al Servicio el nombre, matrícula y señal distintiva de la nave y actividad o servicio que presta. En caso de prestar más de un servicio de la acuicultura, conforme a la normativa vigente, deberán indicarse todos ellos.
+Los armadores de embarcaciones prestadoras de servicios deberán informar al Servicio el nombre, matrícula y señal distintiva de la nave tipo de embarcación; material de construcción de la bodega, cubierta y casco; TRG; capacidad de bodega; velocidad máxima y crucero; eslora, manga y puntal; y actividad o servicio que presta. En caso de prestar más de un servicio de la acuicultura, conforme a la normativa vigente, deberán indicarse todos ellos.
 
 #### Artículo 15
 
@@ -421,6 +459,12 @@ Los armadores de embarcaciones prestadoras de servicios deberán informar al Ser
 Cuando una nave sea notificada que debe retornar a puerto habilitado debido a la falla de su dispositivo a bordo, el capitán, el armador o el representante legal de este último, cuando corresponda, deberá informar el origen y causa de la falla al Administrador de Sistema, dentro de las 12 horas posteriores a su recalada.
 
 > **Nota.** El artículo 2º del DTO 41, Economía, publicado el 20.04.2004, dispuso que la modificación a la presente norma, entrará en vigencia transcurridos 6 meses desde su publicación.
+
+#### Artículo 16º
+
+<!-- parte:9626188 -->
+
+La infracción a las disposiciones legales y reglamentarias del presente reglamento será sancionada con las penas y conforme al procedimiento establecido en la Ley General de Pesca y Acuicultura.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.
 
