@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 409 EXENTA, DE 27 DE JULIO DE 2015, QUE PRORROGA CONTRATOS DE CONCESIÓN QUE INDICA
+
+Por resolución exenta Nº 409, de 27 de julio de 2015, de la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región del Libertador General Bernardo O'Higgins, celebrados con los concesionarios Revisiones Técnicas El Libertador Ltda. y Revisiones Serviden Ltda., aprobados por las resoluciones exentas Nº 333 y Nº 334, respectivamente, ambas de fecha 6 de julio de 2004, de la citada Secretaría Regional, hasta el día 31 de diciembre de 2016.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de TransporteS y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
