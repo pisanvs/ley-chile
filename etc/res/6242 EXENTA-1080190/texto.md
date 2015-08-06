@@ -1,0 +1,27 @@
+ESTABLECE EXCEPCIÓN AL PLAZO ESTABLECIDO EN EL ARTICULO 4º LETRA B) DEL D.S. Nº 129, DE 2013, RESPECTO DE LAS CALETAS QUE INDICA
+
+Núm. 6.242 exenta.- Valparaíso, 22 de julio de 2015.
+
+Vistos:
+
+Ord./VIII/Nº 14.553, de fecha 14 de enero de 2014, por medio del cual el Director Regional de Pesca y Acuicultura del Biobío, solicita al Subdirector de Pesquerías, que modifique el plazo de entrega de información a que se refiere el artículo 4º letra b) del D.S. Nº 129 del año 2013; Ord./P.A./Nº 35.855, de fecha 23 de enero de 2014, mediante el cual el Subdirector de Pesquerías solicita al mencionado Director Regional, la emisión de un informe técnico; Ord./VIII/Nº 15.562, de fecha 11 de marzo de 2014, mediante el cual, el precitado Director Regional, remite informe técnico al Subdirector de Pesquerías; hoja de envío/GIA/Nº 54271, por medio de la cual, el Jefe del Departamento de Gestión de la Información, Atención de Usuarios y Estadísticas Sectoriales, solicita al Departamento Jurídico la elaboración de la respectiva resolución; lo dispuesto en el decreto con fuerza de ley Nº 5 del año 1983, y sus modificaciones, del Ministerio de Economía, Fomento y Reconstrucción, actualmente Ministerio de Economía, Fomento y Turismo; la Ley General de Pesca y Acuicultura Nº 18.892, y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 430, del año 1991, del Ministerio recién citado; la ley Nº 19.880 que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; el decreto supremo Nº 129 del año 2013, del Ministerio de Economía, Fomento y Turismo; y la resolución Nº 1.600 del año 2008, de la Contraloría General de la República.
+
+Considerando:
+
+Que el decreto supremo Nº 129 del año 2013, que Establece Reglamento para la Entrega de Información de Pesca y Acuicultura y la Acreditación de Origen, en su artículo 4º letra b) numeral 2, dispone, a propósito de la declaración de desembarque de los armadores artesanales, que "el armador deberá declarar en los formularios dispuestos por el Servicio en formato electrónicos los que deberán ser entregados al Servicio o a quien éste designe, a más tardar al día siguiente hábil de ocurrido el desembarque. El Servicio podrá modificar el procedimiento y plazo anterior, teniendo en consideración la distancia del lugar de desembarque y las dificultades de acceder a una oficina del Servicio".
+
+Que mediante Ord./VIII/Nº 14.553, de fecha 14 de enero de 2014, citado en Vistos, el Director Regional de Pesca y Acuicultura del Biobío, solicitó al Subdirector de Pesquerías del Servicio Nacional de Pesca y Acuicultura, la modificación del plazo de entrega de información, mencionado en la norma citada precedentemente. Lo anterior, respecto de armadores artesanales que se encuentran operando en caletas alejadas de las oficinas del Servicio en la Región del Biobío, como asimismo, respecto de localidades en que la condición económica y de conectividad es precaria.
+
+Que mediante Ord./VIII/Nº 15.562, de fecha 11 de marzo de 2014, citado en Vistos, el precitado Director Regional remitió un informe técnico señalando los fundamentos para que este Servicio permita la entrega de declaraciones de desembarque, por motivos de lejanía o dificultad de acceso, de acuerdo a lo dispuesto en el ya mencionado artículo 4º letra b) numeral 2), del D.S. Nº 129 del año 2013.
+
+Que, en dicho informe, se concluye que dadas las condiciones de alejamiento y aspectos territoriales, es necesario y equitativo aplazar la entrega de información para aquellas embarcaciones de una eslora inferior a 12 metros que presenten declaraciones de desembarque de recursos no sometidos a la medida de administración de cuota. Por otro lado, sólo se sugiere dar un mayor plazo a aquellas embarcaciones que desembarquen en caletas que tengan, en base a criterios adoptados en el Informe Técnico, una clasificación de dificultad mediana o mayor, en relación a la distancia con alguna oficina del Servicio. Por último, el informe concluye señalando que no se debe establecer una nómina de embarcaciones, sino que un criterio más general (caletas) debido a la dinámica propia del Registro Pesquero Artesanal.
+
+Que, conforme a los antecedentes aportados y al informe técnico acompañado al presente expediente, procede acoger la referida solicitud de modificación del plazo para la entrega de información de desembarque, a que se refiere el artículo 4º letra b) numeral 2, del decreto supremo Nº 129, del año 2013.
+
+Resuelvo:
+
+Acógese la solicitud de modificación del plazo de entrega de la declaración de desembarque artesanal, establecido en el artículo 4º letra b) numeral 2, del decreto supremo Nº 129 del año 2013, en el sentido de aplazar la entrega de ésta, a más tardar el día 12 del mes siguiente de ocurrido el desembarque, sólo para aquellas embarcaciones de una eslora inferior a 12 metros que presenten desembarques de recursos no sometidos a la medida de administración de cuota, en las caletas que se indican a continuación:
+
+.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- José Miguel Burgos González, Director Nacional Servicio Nacional de Pesca y Acuicultura.
