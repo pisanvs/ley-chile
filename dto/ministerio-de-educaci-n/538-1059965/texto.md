@@ -34,6 +34,8 @@ El formulario estará disponible en cada Dirección Regional, o bien en la pági
 
 En el formulario deberá indicar la región o regiones en que ofrece sus servicios.
 
+En caso que la persona que requiera inscripción sea jurídica, deberá además indicar en el formulario de solicitud de inscripción, la naturaleza jurídica de la entidad.
+
 #### Artículo 3º
 
 El postulante, persona natural, interesado en integrar este Registro, deberá acompañar a su solicitud, debidamente firmada e individualizada, los siguientes documentos, a saber:
@@ -50,9 +52,11 @@ El postulante, persona natural, interesado en integrar este Registro, deberá ac
 
 a) No estar afecto a ninguna de las inhabilidades e incompatibilidades a que se refiere la ley Nº 20.529, Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y demás normativa aplicable.
 
+Sin perjuicio de las inhabilidades señaladas, no podrán desempeñar labores de administrador provisional los condenados por alguno de los delitos contemplados en las leyes Nos 20.005, 20.066 y 20.594 que modifica el artículo 39 bis del Código Penal.
+
 b) Que los antecedentes que se adjuntan son auténticos, fidedignos, veraces y plenamente vigentes a la fecha de su presentación.
 
-6. Todos aquellos antecedentes, documentos u otros, que permitan acreditar una experiencia de a lo menos 5 años, en gestión de establecimientos educacionales.
+6. Todos aquellos antecedentes, documentos u otros, que permitan acreditar una experiencia de a lo menos 5 años, en gestión de establecimientos educacionales como docente, directivo o sostenedor.
 
 7. Cualquier otra información que pueda exigir la Superintendencia a través de su Dirección Regional, para precisar, aclarar o verificar los antecedentes o documentos que se indican precedentemente.
 
@@ -66,7 +70,7 @@ Además, respecto de la persona jurídica postulante a integrar el Registro, se 
 
 1. Copia de la inscripción con vigencia de la constitución de la sociedad, en el Registro de Comercio, del Conservador de Bienes Raíces, y sus estatutos vigentes.
 
-2. Certificado de vigencia de la sociedad, otorgado por el Conservador de Bienes Raíces respectivo.
+2. Certificado de vigencia de poder del Registro de Comercio, del Conservador de Bienes Raíces respectivo.
 
 3. Copia de la publicación de la sociedad en el Diario Oficial.
 
@@ -77,6 +81,8 @@ Además, respecto de la persona jurídica postulante a integrar el Registro, se 
 6. Todo antecedente, documento u otros, que permitan acreditar una experiencia de a lo menos 5 años, en gestión de establecimientos educacionales tanto de la persona jurídica como de uno de sus socios.
 
 7. Cualquier otra información que pueda exigir la Superintendencia a través de su Dirección Regional, para precisar, aclarar o verificar los antecedentes o documentos que se indican precedentemente.
+
+8. En el caso de las sociedades constituidas o migradas al sistema electrónico establecido en la Ley Nº 20.659, que Simplifica el Régimen de Constitución, Modificación y Disolución de las Sociedades Comerciales, les serán exigidos los documentos necesarios de acuerdo a lo establecido en dicha legislación.
 
 Los documentos deberán adjuntarse en formato papel, respaldados por un CD, además de tener una antigüedad máxima de 60 días, contados desde la fecha de su otorgamiento hasta el ingreso de la solicitud, en la Dirección Regional de la Superintendencia de Educación respectiva.
 
@@ -176,6 +182,8 @@ Los honorarios mensuales que perciba el administrador provisional, en el ejercic
 
 Sin perjuicio de lo anterior, los honorarios mensuales del administrador provisional no pueden ser inferiores a 75 UF ni superiores a 150 UF.
 
+De acuerdo a lo anterior, el 10% de la subvención mensual que perciba como honorarios, se respaldará mediante boleta de honorarios, la que será entregada en la Secretaría Regional Ministerial respectiva. Por otra parte, en el caso de recibir el complemento de la remuneración señalado, deberá entregar otra boleta de honorarios en la dirección nacional de la Superintendencia de Educación.
+
 #### Artículo 17º
 
 La Superintendencia deberá mantener a disposición del público un listado con los honorarios percibidos por los administradores provisionales, de conformidad lo establece la ley Nº 20.285, sobre acceso a la información pública.
@@ -211,6 +219,70 @@ La cesación en el cargo de administrador provisional será dispuesta mediante r
 #### Artículo 21º
 
 En contra de las resoluciones que sobre la materia tratadas en el presente reglamento se dicten, procederán los recursos que contempla la ley Nº 19.880.
+
+## Título VII
+
+Informes y Rendición de Cuentas
+
+#### Artículo 22º
+
+Dentro de los diez días siguientes a la fecha en que asume sus funciones, el administrador provisional levantará un acta que dé cuenta del estado administrativo y financiero del establecimiento educacional, la que será entregada a la Superintendencia.
+
+Para el cumplimiento de lo anterior, el administrador provisional podrá, de acuerdo a la sustitución establecida en el artículo 91 de la ley Nº 20.529, solicitar al sostenedor toda la información que estime necesaria para llevar a cabo su mandato. Además, el sostenedor deberá hacer entrega formal del establecimiento educacional al administrador provisional designado, permitiendo siempre el libre acceso a las dependencias, con el objeto que pueda desempeñar sus funciones.
+
+En caso que el sostenedor no realizara la entrega de la información solicitada o lo hiciera de manera inexacta o incompleta, o no permita el acceso al establecimiento educacional, el administrador provisional denunciará este hecho a la Superintendencia, quien podrá en virtud de los antecedentes expuestos, iniciar un procedimiento administrativo por eventual infracción a las normas establecidas al respecto en la ley Nº 20.529.
+
+#### Artículo 23º
+
+El administrador provisional deberá presentar un plan de trabajo a la Superintendencia, dentro de los veinte días siguientes a su nombramiento, el cual deberá considerar el estado pedagógico, administrativo y financiero en que se encuentre el establecimiento y deberá enfocarse en generar acciones que tiendan a asegurar el adecuado funcionamiento del establecimiento educacional y a dar continuidad del servicio educativo. Por su parte, la Superintendencia de Educación tendrá un plazo de diez días hábiles contados desde la entrega del plan de trabajo para aprobar u observar el plan de trabajo. En caso de tener observaciones o requerir aclaraciones, éstas deberán comunicarse al Administrador provisional dentro de un día hábil siguiente al término de la revisión.
+
+El administrador provisional por su parte, tendrá un plazo de cinco días hábiles, contados desde la recepción de las observaciones u/o aclaraciones, para corregirlas y entregarlas a la Superintendencia, la que deberá revisarlas dentro de los cinco días hábiles siguientes a la fecha de su recepción y aprobar o rechazar el plan de trabajo.
+
+#### Artículo 24º
+
+El administrador provisional deberá presentar informes trimestrales de avance de su gestión técnica y pedagógica, administrativa y financiera, dentro de los diez días siguientes al vencimiento del plazo de tres meses, contados desde la notificación de la resolución que lo designa.
+
+Por su parte, la Superintendencia de Educación tendrá un plazo de diez días hábiles contados desde la entrega del informe para aprobar u observar el avance. En caso de tener observaciones o requerir aclaraciones, éstas deberán comunicarse al administrador provisional dentro de un día hábil siguiente al término de la revisión.
+
+El administrador provisional por su parte, tendrá un plazo de cinco días hábiles, contados desde la recepción de las observaciones y/o aclaraciones, para corregirlas y entregarlas a la Superintendencia, la que deberá revisarlas dentro de los cinco días hábiles siguientes a la fecha de su recepción y aprobarlas o rechazarlas.
+
+En caso que el administrador provisional no entregue los informes en los plazos antes señalados, así como de mantenerse las observaciones, sin que sean subsanadas o aclaradas por ésta, la Superintendencia podrá poner término anticipado al nombramiento.
+
+Asimismo deberá dar cuenta documentada de su gestión al Superintendente dentro de los veinte días siguientes al término de sus funciones. Por su parte, la Superintendencia de Educación tendrá un plazo de quince días hábiles contados desde la entrega del informe para aprobar u observarlo. El administrador provisional por su parte, tendrá un plazo de cinco días hábiles, contados desde la recepción de las observaciones u/o aclaraciones, para corregirlas y entregarlas a la Superintendencia, la que deberá revisarlas dentro de los cinco días hábiles siguientes a la fecha de su recepción y aprobarlas o rechazarlas.
+
+Los señalados informes deberán contener:
+
+a) Información relativa a aspectos técnicos y pedagógicos.
+
+Comprenderá materias de plan de estudios, evaluación y promoción, asistencia y retención, gestión de la convivencia escolar, acciones de integración, relación familia escuela, entre otros.
+
+b) El estado de la situación administrativa y financiera del establecimiento educacional.
+
+Comprenderá ámbitos de gestión de los recursos humanos, gestión de recursos financieros y administrativos, y gestión de recursos educativos.
+
+#### Artículo 25º
+
+Para la administración de los recursos percibidos durante su gestión, el administrador provisional deberá tener cuentas corrientes exclusivas, de acuerdo a los requerimientos legales.
+
+El administrador provisional deberá rendir cuenta mensual del uso de los recursos percibidos, mediante los procedimientos ordinarios vigentes sujetándose a lo establecido por la normativa educacional.
+
+El Administrador provisional responderá de la culpa leve en su administración.
+
+## Título VIII
+
+Del término de la gestión del Administrador Provisional
+
+#### Artículo 26º
+
+Las facultades y atribuciones del administrador provisional cesan de pleno derecho al finalizar el año escolar, salvo lo establecido en el inciso segundo del artículo 94 de la ley Nº 20.529.
+
+El Director Regional de la Superintendencia dictará una resolución con el solo objeto de constatar y comunicar el término de funciones del cargo del administrador provisional por haber finalizado el año escolar.
+
+Al término de su gestión, el administrador provisional tendrá un plazo de 10 días hábiles desde la notificación de la resolución que constata el término de su labor, para hacer entrega al sostenedor de toda la documentación referente a la gestión realizada en el establecimiento durante su administración y del recinto educacional, levantándose acta de esta entrega, la que deberá ser firmada, con o sin observaciones, por el sostenedor y el ministro de fe designado por el Director Regional de la Superintendencia para tal efecto.
+
+El Director Regional de la Superintendencia respectiva, mediante resolución, designará como ministro de fe a un funcionario de su dependencia, el que deberá ser notificado personalmente de dicha designación, para efectos de comparecer al acto de entrega.
+
+La Superintendencia de Educación, podrá impartir instrucciones para la aplicación de este reglamento, en virtud de la facultad que le otorga el artículo Nº 49, letra m), de la Ley Nº 20.529.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra de Educación.
 
