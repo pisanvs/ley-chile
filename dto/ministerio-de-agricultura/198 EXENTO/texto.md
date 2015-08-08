@@ -42,7 +42,7 @@ Decreto:
 
 7. Si al presentarse el personal, no es posible realizar la labor por razones no atribuibles al SAG, se cobrará el tiempo cautivo, según el valor establecido en el decreto Nº142 de 1990, antes mencionado, artículo 1º, letra c), o el que lo reemplace, equivalente a 0,5 UTM por hora por funcionario, al titular de la variedad o su representante.
 
-8. Estas tarifas, por corresponder a actividades comprometidas en el número 4 del artículo 20 de la Ley sobre Impuesto a la Renta (DL 824 de 1974), están afectas al impuesto al valor agregado (IVA), por lo que para obtener el monto a pagar, se deben incrementar con el valor de dicho impuesto.
+8. Estas tarifas, por no corresponder a actividades comprometidas en los números 3 y 4 del artículo 20 de la Ley sobre Impuesto a la Renta (DL Nº 824 de 1974), no están afectas al impuesto al valor agregado (IVA), de acuerdo a lo señalado en el artículo 2º Nº 2 de la Ley sobre Impuesto a las Ventas y Servicios.
 
 9. Modifícase el decreto exento Nº538, de 2007, del Ministerio de Agricultura, en el sentido de derogar su numeral 4.
 
