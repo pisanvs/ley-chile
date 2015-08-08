@@ -1476,7 +1476,7 @@ Facúltase al Presidente de la República para que, dentro del plazo de un año,
 
 Otórganse a las siguientes Universidades e Institutos Profesionales:
 
-Universidades de Chile, Universidad de Santiago, Universidad de Tarapacá, Universidad de Antofagasta, Universidad de Atacama, Universidad de La Serena, Universidad de Valparaíso, Universidad de Talca, Universidad de Bío-Bío, Universidad de La Frontera, Universidad de Magallanes, Universidad Arturo Prat, Universidad de Playa Ancha, Universidad Metropolitana, Instituto Profesional de Santiago, Instituto Profesional de Chillán, Instituto Profesional de Valdivia e Instituto Profesional de Osorno, las facultades que siguen:
+Universidades de Chile, Universidad de Santiago, Universidad de Tarapacá, Universidad de Antofagasta, Universidad de Atacama, Universidad de La Serena, Universidad de Valparaíso, Universidad de O'Higgins, Universidad de Aysén, Universidad de Talca, Universidad de Bío-Bío, Universidad de La Frontera, Universidad de Magallanes, Universidad Arturo Prat, Universidad de Playa Ancha, Universidad Metropolitana, Instituto Profesional de Santiago, Instituto Profesional de Chillán, Instituto Profesional de Valdivia e Instituto Profesional de Osorno, las facultades que siguen:
 
 a) Prestar servicios remunerados, tales como asistencia técnica, investigación y de toda otra clase, a personas naturales o jurídicas de derecho público o privado, nacionales, extranjeras o internacionales, en las áreas de conocimiento o de competencia de los respectivos organismos,
 
