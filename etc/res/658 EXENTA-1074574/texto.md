@@ -34,7 +34,9 @@ Tercera selección: 29 de Mayo de 2015
 
 Cuarta selección: 31 de Julio de 2015
 
-Quinta selección: 30 de Septiembre de 2015
+Quinta selección: 31 de agosto de 2015
+
+Sexta selección: 30 de septiembre de 2015
 
 Párrafo eliminado.
 
@@ -57,6 +59,10 @@ Las viviendas que registren el tipo de daño precedentemente indicado podrán se
 3.1.1 Título II, Proyecto de Seguridad de la Vivienda: Se considerará toda obra de reparación necesaria para recuperar la seguridad estructural en la vivienda; esto permitirá la reparación de todo tipo de elementos estructurales y colaborantes, tales como vigas, pilares, muros, cadenas, estructura de techumbre, cubierta y reparación de fundaciones.
 
 3.1.2 Título III, Ampliación de la Vivienda: Se considera la reposición de elementos y/o recintos de la vivienda que hayan sido o deban ser demolidos, mediante la construcción de un nuevo recinto.
+
+También contempla obras tales como mejoramiento y estabilización de suelos, nivelación de terrenos bajo la cota solera, obras de demolición y/o para mantener ampliaciones de similar superficie a la actual. Para estos casos se podrá aplicar el subsidio de incremento para ampliación, señalado en la tabla "Montos de Subsidios" del Resuelvo 4.
+
+El subsidio de incremento señalado precedentemente sólo será aplicable a las familias cuyas viviendas se encuentren ubicadas en los polígonos establecidos por resolución del Director Serviu de la región.
 
 3.1.3 Título II, Proyecto de Mejoramiento de Bienes Comunes Edificados: Se considera la reparación de Elementos Estructurales para recuperar la seguridad estructural en la vivienda y de las instalaciones del Condominio
 
@@ -99,6 +105,8 @@ Con esta modalidad se podrán atender viviendas unifamiliares y unidades de un c
 Para determinar la modalidad a la cual pertenece el tipo de proyecto, se considerará que a lo menos un 60% del monto del subsidio se destine a partidas relacionadas con el tipo de mejoras descritas anteriormente, pudiéndose utilizar el saldo, si fuera necesario, en obras de terminación para que la vivienda vuelva a su estado previo a estos sismos.
 
 4. Los montos, según los tipos de proyectos definidos en el punto anterior, serán los descritos en los siguientes cuadros:
+
+.
 
 Notas:
 
