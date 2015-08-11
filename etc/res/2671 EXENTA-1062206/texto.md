@@ -32,11 +32,11 @@ Segunda selección: 2 de septiembre de 2014
 
 Tercera selección: 3 de octubre de 2014
 
-Cuarta selección: 7 de noviembre de 2014
+Cuarta selección : 7 de noviembre de 2014
 
-Quinta selección: 28 de noviembre de 2014
+Quinta selección : 28 de noviembre de 2014
 
-Sexta selección: 22 de diciembre de 2014.
+Sexta selección : 22 de diciembre de 2014.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -207,6 +207,8 @@ En todo aquello que no se contraponga con lo dispuesto en la presente resolució
 - En caso que el proyecto cuente con un ITO externo, se podrá pagar de acuerdo al avance físico de obras acreditado mediante informe del ITO, visado por el Serviu. El Serviu, mediante resolución, determinará la frecuencia máxima de estos pagos. En caso que el proyecto haya contemplado un permiso de edificación, se podrá pagar por esta modalidad hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
 - En caso que el proyecto haya contemplado un permiso de edificación, el contratista cobre al finalizar la obra, este podrá cobrar hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+
+- Para la modalidad de obras señaladas en el Punto 3.1.3 del Resuelvo 3., los pagos por la ejecución de las obras respectivas se podrán efectuar en proporción al avance físico, con un máximo de 10 estados de pago, previa entrega de una boleta de garantía tomada a favor del Serviu, por un monto equivalente al 2% del total del contrato de construcción, para garantizar el fiel cumplimiento del contrato y la buena calidad de las obras ejecutadas, con vigencia por dos años, contados desde la fecha de solicitud del primer estado de pago, debiendo cumplir con las demás exigencias establecidas en la letra d) del artículo 37 del DS Nº 255 (V. y U.) de 2006.
 
 Disposiciones específicas a proyectos a ejecutar por Autoejecución Asistida:
 
