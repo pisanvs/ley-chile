@@ -202,9 +202,7 @@ sido analizadas y encontradas
 
 libres de Cherry Leaf Roll virus,
 
-Cherry Necrotic Rusty Mottle
-
-disease, Peach Latent Mosaic
+Peach Latent Mosaic
 
 viroid, Peach X disease phytoplasma
 
