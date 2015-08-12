@@ -42,6 +42,14 @@ i) Autoridad Fiscalizadora: el organismo público encargado de resolver las soli
 
 j) Registro de Homologación: La nómina e identificación de las máquinas y demás implementos expresamente autorizados por la Superintendencia para el desarrollo de los juegos de azar en los casinos de juego.
 
+k) Oferta Económica: monto de dinero expresado en unidades de fomento, ofrecido por una sociedad postulante a un permiso de operación o renovación del mismo y recaudado por el Servicio de Tesorerías, que será pagado anualmente a la municipalidad correspondiente a la comuna en que se encuentre ubicado el casino.
+
+La oferta económica constituirá una suma de dinero adicional al porcentaje del impuesto establecido en el artículo 59, y su pago deberá ser garantizado por la sociedad postulante mediante alguno de los instrumentos establecidos en esta ley.
+
+l) Oferta Técnica: conjunto de propuestas realizadas por la sociedad operadora postulante, que deberá considerar cada uno de los requisitos establecidos en las bases técnicas, de conformidad a lo dispuesto en los artículos 17, 18, 20, 21 bis y 23 de la presente ley.
+
+m) Bases Técnicas: conjunto de normas y especificaciones, elaboradas por la Superintendencia, que deben cumplir las sociedades postulantes para ser evaluadas.
+
 ## Título II
 
 De los juegos, apuestas y servicios anexos
@@ -208,7 +216,7 @@ g) El domicilio de la sociedad deberá corresponder al lugar en que se explotar�
 
 #### Artículo 18
 
-Los accionistas de las sociedades operadoras podrán ser personas naturales o jurídicas, que cumplan con los antecedentes comerciales que el reglamento establezca y justifiquen el origen de los fondos que destinarán a la sociedad, lo cual, en todo caso, verificará la Superintendencia. Tratándose de accionistas personas naturales, éstas, además, no deben haber sido condenadas por delito que merezca pena aflictiva.
+Los accionistas de las sociedades operadoras podrán ser personas naturales o jurídicas, que cumplan con los antecedentes señalados en el inciso final de este artículo y justifiquen el origen de los fondos que destinarán a la sociedad, lo cual, en todo caso, verificará la Superintendencia. Tratándose de accionistas personas naturales, éstas, además, no deben haber sido condenadas por delito que merezca pena aflictiva.
 
 No podrán formar parte del directorio de la sociedad operadora, además de las personas comprendidas en las inhabilidades contempladas en la ley N° 18.046, quienes no cumplan con los requisitos establecidos en el inciso anterior, en lo que corresponda.
 
@@ -216,27 +224,39 @@ Los accionistas y los directores de las entidades operadoras no podrán asumir n
 
 Cualquier modificación en la composición accionaria o en los estatutos de la sociedad operadora sólo podrá efectuarse previa autorización de la Superintendencia; asimismo, todo nuevo partícipe en la referida sociedad deberá sujetarse a los requisitos legales y someterse a la investigación de antecedentes que efectúe la entidad fiscalizadora como si se tratare de un accionista original.
 
+Para cumplir con lo señalado en los incisos anteriores, la Superintendencia estará facultada para investigar los antecedentes comerciales, tributarios, financieros, administrativos, civiles y penales necesarios para verificar los requisitos que la ley establece. Además, podrá solicitar a la sociedad postulante, si lo estima pertinente, justificar el origen de los fondos que destinarán a financiar su propuesta a un permiso de operación.
+
 #### Artículo 19
 
-Las solicitudes de permisos de operación o de renovaciones de los mismos, deberán efectuarse de conformidad al siguiente procedimiento y en los períodos que se indican:
+Las solicitudes de permisos de operación o de renovaciones de los mismos deberán efectuarse en los periodos que se indican y de conformidad al siguiente procedimiento:
 
-a) Las solicitudes de nuevos permisos de operación deberán anunciarse formalmente durante el primer bimestre de cada año, mediante un formulario elaborado por la Superintendencia, indicándose el lugar en donde se propone la instalación del casino de juego.
+a) Resolución de apertura: con una antelación que no podrá superar los cuarenta y ocho ni ser inferior a treinta y seis meses, contados desde la fecha de vencimiento de los permisos en actual explotación, la Superintendencia deberá dictar una resolución declarando formalmente abierto el proceso de otorgamiento o de renovación de permisos de operación, según corresponda.
 
-Al efecto, deberá acompañarse la escritura social y demás antecedentes y acuerdos relativos a la constitución de la sociedad, así como aquéllos en que consten los poderes de los gerentes y apoderados que los autoricen para tramitar ante la Superintendencia las solicitudes de permiso de operación, licencias de juegos y servicios anexos.
+Dicha resolución deberá señalar el plazo y lugar para el retiro de las bases técnicas y la fecha, hora y lugar de entrega de las ofertas técnicas y económicas. Asimismo, deberá publicarse en extracto en el Diario Oficial y, completa, en un diario de circulación nacional de conformidad a las reglas que establecerá el reglamento respectivo.
 
-b) Las solicitudes de renovación de permisos de operación de casinos de juego en ejercicio, deberán anunciarse por sus respectivos operadores entre los 240 y los 210 días anteriores al día del vencimiento del permiso vigente.
+Sin perjuicio de lo dispuesto en el párrafo primero, tratándose de los permisos de operación que se extingan por aplicación de alguna de las causales previstas en las letras b), c), d) y e) del artículo 30 de esta ley, la Superintendencia deberá dictar la resolución antes señalada dentro de un plazo no superior a ciento ochenta ni inferior a ciento veinte días, contado desde que quede ejecutoriada la resolución que dé lugar a la extinción del correspondiente permiso en los términos definidos en el reglamento. En todo caso, esta última resolución deberá contener la declaración de vacancia del respectivo permiso de operación y señalar expresamente el plazo en que se declarará abierto formalmente el proceso de otorgamiento de los permisos de operación correspondientes.
 
-En todo caso, efectuado un anuncio de solicitud de permiso de operación o de renovación, la Superintendencia publicará un aviso de éste en un diario de circulación nacional, y otro de la Región solicitada, dentro de los cinco días siguientes, el que contendrá la individualización de la sociedad solicitante y la indicación del lugar propuesto para el funcionamiento del respectivo casino de juego.
+b) Audiencia de presentación de ofertas: en el día y lugar señalado por la resolución de apertura, el que en todo caso deberá ser entre los noventa y los ciento veinte días siguientes a la publicación de aquella, se llevará a cabo la audiencia de presentación de la oferta técnica y económica de cada uno de los postulantes. En dicha audiencia, que será pública, la Superintendencia abrirá la oferta técnica y verificará que contenga cada uno de los documentos solicitados. Por su parte, un representante del Consejo Resolutivo custodiará, con los resguardos correspondientes, la oferta económica hasta la audiencia respectiva.
+
+c) Evaluación: dentro de los ciento veinte días siguientes a la audiencia señalada en el literal anterior, la Superintendencia deberá llevar a cabo el proceso de evaluación de las ofertas técnicas. Dicha evaluación, acompañando el expediente respectivo e indicando el puntaje ponderado de cada uno de los solicitantes, será propuesta al Consejo Resolutivo, el que ratificará, solicitará la revisión del mismo o pondrá término a la evaluación, en su caso, en el plazo de cuarenta días contado desde la recepción de los expedientes. De requerirse la revisión de los puntajes, el Superintendente deberá pronunciarse en el plazo máximo de cinco días contado desde el requerimiento.
+
+El Superintendente no dará curso a la evaluación de las solicitudes que no den cumplimiento a los requisitos establecidos en los artículos 17, 18, 20 y 21 bis de la presente ley.
+
+d) Resolución de evaluación: concluida la evaluación, la Superintendencia dictará una resolución pronunciándose sobre la misma, indicando los puntajes ponderados finales de cada uno de los postulantes o lo señalado en el párrafo segundo del literal precedente, según corresponda, y citará a la audiencia de apertura de la oferta económica a aquellos que hubiesen obtenido el puntaje mínimo ponderado.
+
+e) Audiencia de apertura de la oferta económica: dentro de los cinco días siguientes a la publicación de la resolución de evaluación, deberá llevarse a cabo la audiencia pública de apertura de la oferta económica, en la cual un representante del Consejo Resolutivo deberá abrir los sobres que contengan las ofertas de aquellos postulantes que hayan superado el puntaje mínimo ponderado establecido en esta ley.
+
+f) Resolución de otorgamiento, denegación o renovación de los permisos: dentro de los cinco días siguientes a la fecha de la audiencia de apertura de la oferta económica, el Superintendente deberá dictar la resolución de otorgamiento, denegación o renovación de los permisos.
 
 #### Artículo 20
 
-Dentro de los treinta días siguientes al vencimiento de los respectivos plazos indicados en el artículo anterior para anunciar una solicitud de permiso de operación o de renovación, las sociedades que lo hicieron formalizarán su solicitud ante la Superintendencia, debiendo acompañarse, a lo menos:
+La oferta técnica deberá contener y acompañar, en su caso, a lo menos:
 
-a) Los antecedentes personales, comerciales y tributarios de los accionistas;
+a) Los antecedentes personales, comerciales y tributarios de los accionistas, en la forma que establezca el reglamento, para verificar el cumplimiento de los requisitos que exige la ley;
 
 b) El proyecto integral y su plan de operación, el cual contendrá, a lo menos, las obras o instalaciones a desarrollar; el cronograma de ejecución; el programa de inversiones directas que comprenda el proyecto y las inversiones complementarias que sean necesarias para su desarrollo;
 
-c) El informe económico-financiero, que comprenderá, a lo menos, un estudio presupuestario; los flujos financieros correspondientes; la rentabilidad proyectada; y la descripción y origen de las fuentes de financiamiento del proyecto.
+c) La oferta económica y el informe económico-financiero, el cual comprenderá, a lo menos, un estudio presupuestario; los flujos financieros correspondientes; la rentabilidad proyectada; y la descripción y origen de las fuentes de financiamiento del proyecto.
 
 En todo caso, al menos un 40% del financiamiento del respectivo casino de juegos debe estar constituido por aporte de la propia sociedad;
 
@@ -250,51 +270,67 @@ g) Los estudios técnicos, comerciales y turísticos que el solicitante estime n
 
 h) Un certificado, emitido por el Servicio de Impuestos Internos, que dé cuenta del hecho de encontrarse al día la sociedad operadora y sus accionistas en el cumplimiento de sus obligaciones tributarias;
 
-i) Un depósito en dinero, por el monto que establezca el reglamento, para proveer al pago de los gastos de precalificación que deba efectuar la autoridad fiscalizadora de conformidad a lo dispuesto en el artículo siguiente;
+i) Un depósito en dinero, por el monto que establezca el reglamento, para proveer al pago de los gastos que deba efectuar la autoridad fiscalizadora de conformidad a lo dispuesto en el artículo siguiente;
 
-j) Una boleta de garantía, emitida a favor de la Superintendencia de Casinos de Juego, en la forma y por el monto que establezca el reglamento, para garantizar el cabal cumplimiento de lo dispuesto en el artículo 28, y
+j) Una boleta de garantía, emitida a favor de la Superintendencia de Casinos de Juego, en la forma y por el monto que establezca el reglamento, para garantizar el cabal cumplimiento de lo dispuesto en el artículo 28;
 
-k) Los demás antecedentes que establezca el reglamento.
+k) Una caución o garantía, pagadera a la vista y de carácter irrevocable, emitida a favor de la Superintendencia de Casinos de Juego, por el monto y de acuerdo a las modalidades que establezca el reglamento, para garantizar el cabal y oportuno cumplimiento del pago de la oferta económica, y
+
+l) Los demás antecedentes que establezca el reglamento.
 
 En lo demás, el procedimiento de tramitación de un permiso de operación se regulará también en el reglamento.
 
 #### Artículo 21
 
-Previo al estudio y evaluación de un permiso de operación de un casino de juego, la Superintendencia iniciará un proceso de precalificación de la sociedad solicitante y, en particular, de todos sus accionistas, para cuyo efecto tendrá amplias facultades para investigar los antecedentes personales, comerciales, tributarios y penales de los accionistas, incluidas las personas naturales que integren las sociedades accionistas, como asimismo el origen de los capitales aportados.
+La Superintendencia tendrá facultades para investigar los antecedentes en conformidad a lo establecido en el inciso final del artículo 18, incluidas las personas naturales que integren las sociedades accionistas, como asimismo el origen de los capitales aportados, tanto respecto a las exigencias establecidas en dicho artículo como las señaladas en los artículos 17, 20 y 21 bis.
 
-La investigación de precalificación se basará tanto en los antecedentes presentados por los propios accionistas, como también sobre aquellos que la Superintendencia recabe en ejercicio de sus atribuciones.
+Los costos de este proceso serán asumidos por la sociedad solicitante, conforme a lo establecido en la letra i) del artículo 20.
 
-Los costos del proceso de precalificación serán asumidos por la sociedad solicitante, conforme a lo establecido en la letra i) del artículo precedente.
+Las atribuciones establecidas en el presente artículo serán, del mismo modo, ejercidas por la Superintendencia cada vez que, ya otorgado un permiso de operación, se produjeren modificaciones en la composición accionaria o en el capital de la sociedad, como asimismo cuando se incorpore un nuevo partícipe en la sociedad operadora.
 
-El resultado de la precalificación de la sociedad solicitante y de todos sus accionistas, constituirá la condición necesaria para el inicio del proceso de evaluación tendiente al otorgamiento del permiso de operación.
+#### Artículo 21 bis
 
-Las atribuciones establecidas en el presente artículo también se ejercerán por la Superintendencia, cada vez que, ya otorgado un permiso de operación, se produjeren modificaciones en la composición accionaria o en el capital de la sociedad, como asimismo cuando se incorpore un nuevo partícipe en la sociedad operadora.
+Se considerarán como únicas causales para que la sociedad solicitante no continúe con la etapa de evaluación, junto con el incumplimiento de los requisitos establecidos en los artículos 17, 18 y 20, que esta o sus accionistas se encuentren en alguna de las siguientes circunstancias:
 
-Las demás normas que regulen el proceso de precalificación se establecerán en el reglamento.
+a) En estado de insolvencia.
+
+b) Haber sido, en los últimos quince años, director, gerente o accionista en una sociedad operadora a la cual se haya revocado su permiso de operación.
+
+c) Haber aportado a la Superintendencia información falsa, incompleta, inconsistente, adulterada o manifiestamente errónea respecto de sus antecedentes.
+
+d) No haber acompañado los antecedentes requeridos por la Superintendencia para llevar a cabo la evaluación en tiempo y forma.
+
+e) Ser socio o administrador de empresas o sociedades que mantengan deudas impagas con el Fisco, cuyo plazo para el pago se encuentre vencido.
+
+f) Haber sido sancionado administrativamente, mediante resolución firme, por tres o más infracciones graves en los últimos cinco años por incumplimiento de las normas que regulan la actividad de los casinos.
+
+g) Haber sido sancionada la persona jurídica, por alguno de los delitos contemplados en la ley Nº20.393; o los accionistas personas naturales en virtud de lo dispuesto en los artículos 27 o 28 de la ley Nº19.913, en la ley Nº18.314 o en los artículos 250 y 251 bis del Código Penal.
+
+Asimismo, la causal a que se refiere este literal también se configurará en aquellos casos en que los accionistas, sean personas jurídicas o naturales, hayan sido condenados por delitos equivalentes en el extranjero.
 
 #### Artículo 22
 
-Respecto de cada solicitud de operación que se presente, la Superintendencia deberá recabar informe del gobierno regional respectivo y de la municipalidad correspondiente a la comuna en donde se propone el funcionamiento del casino de juego. Asimismo, la Superintendencia requerirá del Servicio Nacional de Turismo y del Ministerio del Interior los informes correspondientes, para dar cumplimiento a lo dispuesto en el artículo siguiente.
+Respecto de cada solicitud de operación que se presente, la Superintendencia deberá requerir informe a los siguientes órganos:
 
-Sin perjuicio de lo anterior, la Superintendencia requerirá, además, los informes que estime pertinentes a cualquier órgano de la Administración del Estado para que, dentro de la esfera de su competencia, emita un pronunciamiento técnico sobre la solicitud de operación, como asimismo respecto de la sociedad solicitante y de sus accionistas. Asimismo, la Superintendencia podrá recabar cualquier otro informe o investigación que estime conveniente para mejor resolver y requerir de la solicitante cuantas aclaraciones e informaciones complementarias considere oportuno.
+a) Ministerio del Interior y Seguridad Pública, que se pronunciará respecto de las consideraciones de seguridad y orden público que reúna el lugar de emplazamiento y su entorno inmediato.
+
+b) Servicio Nacional de Turismo, que se pronunciará respecto de la calidad de territorio turísticamente consolidado o de claro potencial turístico del lugar de emplazamiento del casino de juego cuyo permiso de operación se solicita.
+
+c) Intendencia de la región en que se emplazaría el establecimiento, que se pronunciará respecto de la comuna propuesta por el postulante y el impacto en el desarrollo regional.
+
+d) Municipalidad de la comuna en que se emplazaría el establecimiento, que se pronunciará respecto del impacto y la viabilidad logística de llevar a cabo el proyecto en la comuna.
+
+Dichos informes serán ponderados en la forma establecida en el reglamento.
+
+Los órganos requeridos y la Superintendencia podrán solicitar al postulante la información necesaria para mejor resolver y requerir las aclaraciones e informaciones complementarias que consideren oportunas.
 
 #### Artículo 23
 
-El cumplimiento íntegro de los requisitos legales y reglamentarios exigidos para el otorgamiento de un permiso de operación, como asimismo el resultado de la precalificación de antecedentes de la sociedad solicitante y de sus accionistas, en los términos previstos en el artículo 21, constituyen condiciones previas y necesarias para dar inicio al proceso de evaluación y de resolución de toda solicitud de operación de casino de juego.
+Junto con el cumplimiento de los requisitos establecidos en los artículos 17, 18, 20 y 21 bis, las sociedades postulantes serán sometidas a una evaluación de los criterios y factores que se señalan a continuación, aplicando al efecto la ponderación que para cada uno de ellos establezca el reglamento:
 
-Verificado lo anterior, la Superintendencia procederá a evaluar la solicitud de operación, teniendo en consideración los siguientes criterios y factores, y aplicando al efecto la ponderación que para cada uno de ellos establezca el reglamento:
+1.- Los informes favorables de los organismos señalados en el artículo 22.
 
-1.- El informe favorable emitido por el gobierno regional, respecto de la comuna de emplazamiento propuesta por la solicitante, así como su impacto en el desarrollo regional. Este informe será especialmente considerado en la ponderación de la totalidad de los criterios y factores evaluados.
-
-2.- El informe favorable emitido por la municipalidad respectiva sobre el impacto y los efectos del proyecto integral en el desarrollo en la comuna.
-
-3.- La calidad de territorio turísticamente consolidado o de claro potencial turístico del lugar de emplazamiento del casino de juego cuyo permiso de operación se solicita, en virtud del informe que al efecto emita el Servicio Nacional de Turismo.
-
-Se ponderará en forma especialmente favorable para estos efectos, la existencia de un proyecto integral que, junto con tener en cuenta la operación de un casino de juegos, amplíe la infraestructura turística y cultural de la zona en que haya de localizarse.
-
-4.- Las consideraciones de seguridad y orden público que reúna el lugar de emplazamiento y su entorno inmediato, según el informe que al efecto emita el Ministerio del Interior.
-
-5.- Las cualidades del proyecto integral y su plan de operación, considerando al efecto los siguientes factores específicos:
+2.- Las cualidades del proyecto integral y su plan de operación, considerando al efecto los siguientes factores específicos:
 
 a) El incremento de la oferta turística de la zona de emplazamiento.
 
@@ -308,27 +344,23 @@ e) Los efectos económico-sociales que la instalación del establecimiento haya 
 
 f) El monto de la inversión total del proyecto a ejecutar por la solicitante.
 
-6.- La evaluación del desempeño o ejercicio operacional del casino de juego, cuando se trate de una solicitud de renovación del permiso de operación de un establecimiento en actual funcionamiento.
+3.- La evaluación del desempeño o ejercicio operacional del casino de juego, cuando se trate de una solicitud de renovación del permiso de operación de un establecimiento en actual funcionamiento.
 
-Para estos efectos, el Superintendente deberá constituir al interior de la Superintendencia, y presidido por él, un Comité Técnico de Evaluación.
+Para estos efectos, el Superintendente deberá constituir al interior de la Superintendencia, y presidido por él, un Comité Técnico de Evaluación, cuyo funcionamiento e integración se determinará de conformidad al reglamento.
 
 #### Artículo 24
 
-Dentro del término de 90 días, contado desde el vencimiento del plazo establecido en el artículo 20, la Superintendencia deberá efectuar la precalificación que señala la ley y evaluar la solicitud, todo lo cual deberá quedar consignado en el expediente que se confeccionará al efecto. Dicho plazo podrá ser prorrogado por un máximo de treinta días, por resolución fundada de la Superintendencia.
-
-Cumplido lo anterior, y dentro del plazo antes señalado, el Superintendente, acompañando el expediente respectivo, formulará una proposición sobre la correspondiente solicitud, fundada en la evaluación y ponderación de cada uno de los criterios y factores señalados en el artículo anterior, la cual se someterá a conocimiento y decisión del Consejo Resolutivo de la Superintendencia.
+Eliminado
 
 #### Artículo 25
 
-El Consejo Resolutivo, en ejercicio de las atribuciones exclusivas que le encomienda la presente ley, deberá pronunciarse sobre la proposición formulada por el Superintendente, dentro del plazo de treinta días.
+Para obtener un permiso de operación se debe alcanzar, al menos, el 60% de la suma total de los puntajes ponderados establecidos en el reglamento y, a su vez, haber presentado la oferta económica más alta. El empate de las ofertas técnicas y económicas deberá ser dirimido conforme a lo establecido en el reglamento.
 
-El Consejo Resolutivo no podrá autorizar un permiso de operación a ningún solicitante que no alcance el 60% de la suma total de los puntajes ponderados establecidos en el reglamento.
-
-Con todo, la sociedad operadora que solicite la renovación de un permiso de operación vigente tendrá derecho preferente para la obtención del permiso cuando, a lo menos, iguale el mejor puntaje ponderado que arroje el proceso de evaluación entre distintos solicitantes.
+Con todo, la sociedad operadora que solicite la renovación de un permiso de operación vigente tendrá derecho preferente para la obtención del permiso cuando, habiendo igualado con otra sociedad postulante en la oferta económica, hubiere obtenido un puntaje ponderado mayor en la etapa de evaluación técnica.
 
 #### Artículo 26
 
-La resolución que otorgue, deniegue o renueve el permiso de operación de un casino de juego deberá ser fundada, conforme a los criterios establecidos en el artículo 23, y estar basada en los antecedentes que obren en poder de la Superintendencia.
+La resolución que otorgue, deniegue o renueve el permiso de operación de un casino de juego deberá dictarse dentro del plazo establecido en el literal f) del artículo 19, ser fundada, conforme a los criterios establecidos en el artículo 23, y estar basada en los antecedentes que obren en poder de la Superintendencia.
 
 La resolución que otorgue o renueve el permiso de operación deberá publicarse en el Diario Oficial, por una vez y en extracto, dentro del plazo de diez días, contados desde su dictación.
 
@@ -348,19 +380,33 @@ c) Nombre o individualización del casino de juego que se autoriza;
 
 d) Ubicación y domicilio del establecimiento en donde necesariamente deberá funcionar el casino de juego que se autoriza;
 
-e) Plazo de vigencia del permiso de operación, y
+e) Plazo de vigencia del permiso de operación;
 
-f) Licencias de juego otorgadas y servicios anexos autorizados.
+f) Licencias de juego otorgadas y servicios anexos autorizados, y
+
+g) El monto de la oferta económica comprometido por la sociedad postulante.
+
+#### Artículo 27 bis
+
+En contra de las resoluciones de evaluación y otorgamiento, denegación o renovación de los permisos de operación, se podrá interponer el recurso de reposición contemplado en el artículo 10 de la ley Nº18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº1, de 2000, del Ministerio Secretaría General de la Presidencia, en el plazo de cinco días hábiles contado desde el día siguiente a la notificación de la respectiva resolución. La Superintendencia dispondrá de diez días hábiles para resolver.
+
+Los postulantes que estimen que las resoluciones de la Superintendencia no se ajustan a la ley, a los reglamentos o disposiciones que le corresponda aplicar podrán reclamar de las mismas ante la Corte de Apelaciones de Santiago, dentro del plazo de diez días hábiles contado desde la notificación.
+
+Por la interposición del reclamo no se suspenderán los efectos del acto reclamado, ni podrá la Corte decretar medida alguna con ese objeto mientras se encuentre pendiente la reclamación.
+
+La Corte de Apelaciones dará traslado de la reclamación a la Superintendencia, notificándola por oficio y esta dispondrá de un plazo de diez días hábiles contado desde que se notifique la reclamación interpuesta, para formular observaciones.
+
+Evacuado el traslado por la Superintendencia, o vencido el plazo de que dispone para formular observaciones, el tribunal ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes. La Corte dictará sentencia dentro del término de quince días. Contra la resolución de la Corte de Apelaciones no procederá recurso alguno.
 
 #### Artículo 28
 
-La sociedad deberá desarrollar el proyecto integral autorizado dentro del plazo establecido en el plan de operación, el cual no podrá exceder de dos años tratándose del inicio de la operación del casino de juego propiamente tal, y de tres años para el cumplimiento de las demás obras o instalaciones que comprenda el proyecto; todo ello contado desde la publicación de la resolución que otorga el permiso de operación. Lo anterior, sin perjuicio que, antes del vencimiento de los referidos plazos, la sociedad hubiere obtenido de la Superintendencia una prórroga, la que sólo podrá otorgarla por razones fundadas.
+La sociedad deberá desarrollar el proyecto integral autorizado dentro del plazo establecido en el plan de operación, el cual no podrá exceder de dos años contados desde la publicación de la resolución que otorga el permiso de operación. Lo anterior, sin perjuicio que, antes del vencimiento del referido plazo, la sociedad hubiere obtenido de la Superintendencia una prórroga, la que sólo podrá otorgarla por razones fundadas.
 
-Vencidos los respectivos plazos o la prórroga, sin que se haya dado cumplimiento a las actividades correspondientes, el permiso de operación se entenderá revocado para todo efecto, no pudiendo aquél solicitarse nuevamente por el mismo peticionario sino una vez transcurrido tres años, contados desde el vencimiento del respectivo plazo o de la prórroga, según corresponda. Sin perjuicio de lo anterior, la Superintendencia procederá a hacer efectiva la boleta de garantía indicada en la letra j) del artículo 20.
+Vencido el plazo o la prórroga, sin que se haya dado cumplimiento a las actividades correspondientes, el permiso de operación se entenderá revocado para todo efecto, no pudiendo aquél solicitarse nuevamente por el mismo peticionario sino una vez transcurrido tres años, contados desde el vencimiento del respectivo plazo o de la prórroga, según corresponda. Sin perjuicio de lo anterior, la Superintendencia procederá a hacer efectiva la boleta de garantía indicada en la letra j) del artículo 20.
 
 El operador que se encuentre en condiciones de iniciar la operación de un casino de juego deberá comunicarlo a la Superintendencia, la que dispondrá de 30 días para revisar el estricto cumplimiento de las obligaciones legales y reglamentarias necesarias para iniciar las actividades. Verificado dicho cumplimiento, la Superintendencia expedirá un certificado en el que conste tal circunstancia, documento que habilitará para dar inicio a la operación del casino de juego. Si la Superintendencia observare algunas materias, las señalará expresamente mediante resolución. En este último caso, el operador deberá subsanar tales observaciones y solicitar una nueva revisión, con el objeto que la Superintendencia expida el certificado indicado y así poder dar inicio a la operación. Tal certificado, con indicación de la fecha de vencimiento del respectivo permiso de operación, deberá ser publicado por la Superintendencia en el Diario Oficial, dentro del plazo de diez días desde su otorgamiento. En ningún caso podrá iniciarse el funcionamiento parcial de un casino de juego.
 
-El mismo procedimiento establecido en el inciso precedente, se aplicará respecto del cumplimiento por parte de la sociedad operadora, de las demás obras o instalaciones que comprenda el proyecto integral autorizado por la Superintendencia.
+Las circunstancias acreditadas por la sociedad operadora, a efectos del otorgamiento del certificado referido en el inciso anterior, deberán mantenerse durante toda la vigencia del permiso de operación, lo que será fiscalizado por la Superintendencia de acuerdo a sus facultades. En caso de perderse alguna de dichas condiciones procederá la revocación conforme a la causal dispuesta en el artículo 31, letra a).
 
 #### Artículo 29
 
@@ -382,7 +428,7 @@ b) Renuncia del operador, en la forma y condiciones que determine el reglamento;
 
 c) Disolución de la sociedad anónima operadora;
 
-d) Quiebra del operador, y
+d) Por encontrarse el operador sometido a un procedimiento concursal de liquidación, y
 
 e) Revocación.
 
@@ -402,13 +448,13 @@ e) Explotar juegos no autorizados o prohibidos;
 
 f) Transferir la propiedad o el uso del permiso de operación o de las licencias de juego otorgadas;
 
-g) Explotar servicios anexos no autorizados en el permiso de operación, sin contar previamente con la autorización de la Superintendencia;
+g) Explotar servicios anexos no contemplados en el permiso de operación, sin contar previamente con la autorización de la Superintendencia;
 
 h) Contratar con terceros la administración o prestación de los servicios anexos, sin contar previamente con la autorización correspondiente;
 
 i) Introducir modificaciones sustanciales al establecimiento en que funcione el casino de juego, sin contar previamente con la autorización de la Superintendencia;
 
-j) Infringir gravemente las instrucciones que imparta la Superintendencia en ejercicio de sus funciones legales y reglamentarias;
+j) Infringir gravemente las instrucciones que imparta la Superintendencia en ejercicio de sus funciones legales y reglamentarias, en relación a las actividades que deban realizarse en los casinos;
 
 k) Negar la información requerida por la Superintendencia en los plazos que ella determine, no suministrarla de acuerdo a las exigencias definidas por aquélla y, en general, obstaculizar grave y reiteradamente las acciones de fiscalización;
 
@@ -421,6 +467,8 @@ n) Negar el pago total o parcial de los premios provenientes de los juegos;
 ñ) Disminuir, durante la vigencia del permiso de operación, el capital social mínimo establecido en el reglamento y no haber enterado este mínimo dentro del plazo de noventa días, señalado en la letra c) del artículo 17, y
 
 o) Haber incurrido los administradores o gerentes de la sociedad operadora de un casino de juegos, o quienes hagan las veces de tales, en las conductas prescritas en los números 4 y 5 del artículo 97 del Código Tributario, una vez agotados los procedimientos administrativos y judiciales que corresponda incoar frente a tales infracciones, de conformidad al referido cuerpo legal, y previo informe del Servicio de Impuestos Internos.
+
+p) No haber dado cumplimiento, en tiempo y forma, a la oferta económica presentada para optar al permiso de operación, o a las obligaciones establecidas en el artículo 20, letra k), y en el inciso primero del artículo 61 bis.
 
 Revocado el permiso de operación de un casino de juegos, quedará vacante la cuota correspondiente a dicho permiso, operando en tal caso plenamente las normas sobre otorgamiento de permisos de operación contenidas en el Párrafo 1º del Título IV de la presente ley.
 
@@ -483,6 +531,18 @@ La Superintendencia tendrá las siguientes funciones y atribuciones:
 7.- Convenir con otros organismos de la Administración del Estado o con entidades privadas debidamente acreditadas ante la Superintendencia, la realización de acciones específicas o la prestación de servicios que permitan complementar el ejercicio de sus atribuciones.
 
 8.- Homologar las máquinas e implementos de juego que podrán utilizarse en los casinos de juego, para cuyo efecto la Superintendencia mantendrá un registro actualizado. El reglamento determinará el procedimiento de homologación.
+
+9.- Velar porque las sociedades operadoras fiscalizadas cumplan con las leyes y reglamentos que las rigen y con las instrucciones, circulares y demás órdenes que la Superintendencia emita, sin perjuicio de las facultades que pudieran corresponder a otros organismos fiscalizadores.
+
+10.- Requerir que las sociedades operadoras proporcionen al público, a través de los medios que la Superintendencia determine, la información estrictamente necesaria para conocer el funcionamiento de la industria, velando porque esta sea suficiente, oportuna y veraz.
+
+La Superintendencia podrá efectuar directamente las publicaciones necesarias para dar cumplimiento a lo señalado en el párrafo anterior. Asimismo, podrá disponer la publicidad de medidas, instrucciones o información relativa a las sociedades operadoras o casinos de juego.
+
+11.- Elaborar y difundir índices, estadísticas y estudios relativos a las sociedades operadoras y a los casinos de juegos.
+
+12.- Atender las consultas del público y resolver los reclamos que se formulen en contra de un casino de juego o de una sociedad operadora.
+
+13.- Ejercer las demás facultades que esta y otras leyes o normas vigentes le confieran.
 
 #### Artículo 38
 
@@ -610,13 +670,17 @@ Corresponderá al Superintendente:
 
 11.- Imponer las sanciones y multas que establecen la presente ley y las demás disposiciones legales que regulen la actividad de los casinos de juego.
 
-12.- Examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, cuentas, archivos, documentos y correspondencia de las entidades fiscalizadas, y requerir de sus representantes y personal en general todos los antecedentes que juzgue necesarios para la mejor inteligencia de las labores de fiscalización. Las mismas facultades tendrá el Superintendente respecto de los terceros que administren y presten servicios anexos en el casino de juego.
+12.- Examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, actas,cuentas, archivos, documentos y correspondencia de las sociedades operadoras, sus socios, accionistas, directores y administradores, siempre que se refieran a la operación de los casinos, y requerir de sus representantes y personal en general todos los antecedentes que juzgue necesarios para la mejor inteligencia de las labores de fiscalización. Las mismas facultades tendrá el Superintendente respecto de los terceros que administren y presten servicios anexos en el casino de juego.
 
 El Superintendente, mediante resolución, determinará aquellos libros, archivos y documentos de las entidades fiscalizadas que deberán estar permanentemente disponibles para su examen en el propio establecimiento en donde funcione el casino de juego.
 
 13.- Realizar visitas inspectivas, directamente o por intermedio de sus inspectores o funcionarios, a las entidades sometidas a su fiscalización, con la frecuencia que estime conveniente. Como asimismo, destacar personal de la Superintendencia de manera permanente en las distintas dependencias de un casino de juego.
 
-14.- Citar a cualquier persona que preste servicios en o para un casino de juego a prestar declaración, bajo juramento, acerca de cualquier hecho o circunstancia cuyo conocimiento estimare necesario para esclarecer alguna operación de las entidades fiscalizadas o la conducta de su personal.
+14.- Citar a los socios y accionistas, sean personas naturales o jurídicas, de las sociedades operadoras, a comparecer y,o a prestar declaración bajo juramento, acerca de cualquier hecho o circunstancia cuyo conocimiento estimare necesario para esclarecer alguna operación de dichas entidades o la conducta de su personal o ejercer sus facultades de fiscalización.
+
+Las personas indicadas en el artículo 361 del Código de Procedimiento Civil no estarán obligadas a comparecer y declararán por escrito.
+
+El Superintendente podrá requerir del juez de turno en lo civil competente la aplicación del procedimiento de apremio contemplado en los artículos 93 y 94 del Código Tributario, en contra de las personas que, habiendo sido citadas bajo apercibimiento y sin causa justificada, no concurran a declarar.
 
 15.- Suspender, total o parcialmente, el funcionamiento de un casino de juego cuando el operador no cumpla con las normas necesarias para el adecuado desarrollo de sus actividades, de conformidad con la ley y sus reglamentos. El operador podrá solucionar los reparos en el plazo que, al efecto, determine el Superintendente.
 
@@ -656,9 +720,11 @@ No se podrán desarrollar y explotar los juegos de azar que la presente ley esta
 
 #### Artículo 46
 
-Las infracciones a esta ley que no tengan señalada una sanción especial serán penadas con multa a beneficio fiscal de tres a noventa unidades tributarias mensuales. En caso de reincidencia, dentro de un período no superior a un año, estas multas se duplicarán.
+Las infracciones de esta ley, de sus reglamentos, y de las instrucciones y órdenes que imparta la Superintendencia, que no tengan señalada una sanción especial, serán sancionadas con amonestación o multa a beneficio fiscal de cinco a ciento cincuenta unidades tributarias mensuales, sin perjuicio de las sanciones establecidas en otros cuerpos legales.
 
-Serán responsables del pago de la multa los directores, gerentes y apoderados que tengan facultades generales de administración y, subsidiariamente, la sociedad operadora del casino de juego.
+#### Artículo 46 bis
+
+Serán sancionados con amonestación o multa de quince a doscientas unidades tributarias mensuales, las sociedades operadoras de casinos de juego que, durante el período que va entre el otorgamiento del permiso de operación y el inicio de operaciones del casino, no cumplan con las normas legales o reglamentarias o con las instrucciones impartidas por la Superintendencia.
 
 #### Artículo 47
 
@@ -678,7 +744,7 @@ Las personas señaladas en el inciso primero del artículo 15 que infringieren l
 
 #### Artículo 50
 
-Sin perjuicio de lo establecido en el artículo 31, será sancionada con multa de ciento cincuenta a seiscientas unidades tributarias mensuales la sociedad operadora que explotare juegos no autorizados o prohibidos. Tratándose de la operación de servicios anexos no contemplados en el permiso o no autorizados, será sancionada con multa de noventa a trescientas unidades tributarias mensuales.
+Sin perjuicio de lo establecido en el artículo 31, será sancionada con multa de ciento cincuenta a dos mil unidades tributarias mensuales la sociedad operadora que incurra en alguna de las conductas descritas en dicho artículo y que no tenga señalada una sanción diversa en el presente Título. Con todo, lo anterior no será aplicable tratándose de la causal contemplada en el literal a) del referido artículo.
 
 #### Artículo 51
 
@@ -693,6 +759,10 @@ El que utilice máquinas o implementos de juego no autorizados será sancionado 
 #### Artículo 53
 
 El que maliciosamente alterare, destruyere o inutilizare los libros, registros y demás instrumentos en que deben asentarse los montos con que abren y cierran los juegos, será sancionado con multa de hasta noventa unidades tributarias mensuales.
+
+#### Artículo 53 bis
+
+Serán responsables del pago de la multa las sociedades operadoras y, subsidiariamente, sus directores, gerentes y apoderados siempre que tengan facultades generales de administración. En caso de reincidencia dentro de un período no superior a un año, las multas podrán duplicarse.
 
 #### Artículo 54
 
@@ -740,6 +810,10 @@ Transcurrido el plazo sin que se hubiere interpuesto el recurso o rechazado este
 
 A las actividades que se realicen de conformidad con esta ley no les serán aplicables los artículos 277, 278 y 279 del Código Penal.
 
+#### Artículo 56 bis
+
+Las acciones de la Superintendencia para imponer las sanciones a las que se refiere este Párrafo, prescribirán en el plazo de tres años desde la ocurrencia de las infracciones respectivas. Dicho plazo se interrumpirá con la notificación de la formulación de cargos por los hechos constitutivos de las mismas.
+
 ## Título VII
 
 De la afectación
@@ -775,6 +849,16 @@ El Servicio de Tesorerías recaudará el referido impuesto y pondrá a disposici
 #### Artículo 61
 
 Los impuestos establecidos en los artículos precedentes se sujetarán en todo a lo dispuesto en el Código Tributario, contenido en el artículo 1° del decreto ley N° 830, de 1974, y serán fiscalizados por el Servicio de Impuestos Internos.
+
+#### Artículo 61 bis
+
+La oferta económica comprometida en la propuesta para optar al permiso de operación por la sociedad operadora deberá enterarse de acuerdo a los plazos y condiciones que establezca el reglamento.
+
+El Servicio de Tesorerías recaudará los recursos por concepto de oferta económica comprometida por la sociedad operadora, los que ingresarán al patrimonio de la municipalidad respectiva.
+
+#### Artículo 61 ter
+
+Si el monto de la oferta económica comprometida por la sociedad operadora no se entera oportuna e íntegramente en las condiciones que establezca el reglamento, la Superintendencia procederá a hacer efectiva la garantía indicada en el artículo 20, letra k), sin perjuicio de lo dispuesto en el artículo 31, letra p), de la presente ley.
 
 #### Artículo 62
 
@@ -838,7 +922,7 @@ Las disposiciones de la presente ley comenzarán a regir a contar del centésimo
 
 Los casinos de juegos que se encuentren en operación al momento de la publicación de esta ley continuarán rigiéndose por las normas legales, administrativas y contractuales que les son propias, hasta la fecha en que el respectivo contrato de concesión o su prórroga o renovación, vigentes a esa misma fecha, se extinga definitivamente por cualquier causa.
 
-En todo caso, cualquier nuevo contrato de concesión o las prórrogas o renovaciones de los contratos vigentes a la fecha en que entre a regir la presente ley, que se dispongan con posterioridad a ésta, sólo podrán extenderse hasta el 31 de diciembre de 2015. Al efecto, dichos nuevos contratos, prórrogas o renovaciones podrán acordarse y suscribirse por el total del período que reste hasta la última fecha antes señalada, no siendo aplicable en tal caso la restricción de plazo establecida en la letra i) del artículo 65 de la ley N°18.695, Orgánica Constitucional de Municipalidades.
+En todo caso, cualquier nuevo contrato de concesión o las prórrogas o renovaciones de los contratos vigentes a la fecha en que entre a regir la presente ley, que se dispongan con posterioridad a ésta, sólo podrán extenderse hasta el 31 de diciembre de 2017. Al efecto, dichos nuevos contratos, prórrogas o renovaciones podrán acordarse y suscribirse por el total del período que reste hasta la última fecha antes señalada, no siendo aplicable en tal caso la restricción de plazo establecida en la letra i) del artículo 65 de la ley N°18.695, Orgánica Constitucional de Municipalidades.
 
 Con todo, las normas sobre fiscalización y sanciones que este cuerpo legal contempla se aplicarán a los casinos señalados en el inciso primero, a partir de la fecha de vigencia establecida en el artículo precedente.
 
@@ -848,9 +932,21 @@ Corresponderá a la Superintendencia de Casinos de Juego, en virtud de las atrib
 
 #### Artículo 3°
 
-Sin perjuicio de lo dispuesto en el artículo anterior, las leyes actualmente vigentes, a través de las cuales se ha autorizado la instalación y funcionamiento de casinos de juego en las comunas de Arica, Iquique, Coquimbo, Viña del Mar, Pucón, Puerto Varas y Puerto Natales, se entenderán derogadas desde la fecha en que las concesiones amparadas por dichas leyes se extingan definitivamente por cualquier causa y, en todo caso, a partir del 1 de enero de 2016.
+Sin perjuicio de lo dispuesto en el artículo anterior, las leyes actualmente vigentes, a través de las cuales se ha autorizado la instalación y funcionamiento de casinos de juego en las comunas de Arica, Iquique, Coquimbo, Viña del Mar, Pucón, Puerto Varas y Puerto Natales, se entenderán derogadas desde la fecha en que las concesiones amparadas por dichas leyes se extingan definitivamente por cualquier causa y, en todo caso, a partir del 1 de enero de 2018.
 
-Con posterioridad a dicha fecha, las comunas señaladas en el inciso anterior tendrán derecho preferente a ser sede de un casino de juegos, cuando el proyecto postulado para alguna de ellas al menos iguale el mejor puntaje ponderado de otro proyecto propuesto para una comuna distinta de aquéllas.
+A partir de dicha fecha, las comunas señaladas en el inciso anterior continuarán siendo sede de un casino de juego por un total de tres períodos de quince años cada uno. Una vez vencido el último de los referidos períodos, la sede podrá ser renovada por plazos sucesivos de quince años, salvo resolución fundada del Consejo Resolutivo en contrario. Con todo, no podrá excederse el número máximo de permisos de operación autorizados conforme a lo dispuesto en el inciso primero del artículo 16 de la presente ley.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, el proceso de asignación del permiso de operación se desarrollará en la misma forma y condiciones indicadas en el Título IV de este cuerpo legal, con las siguientes excepciones:
+
+i. La Superintendencia deberá dictar la resolución de apertura del proceso dentro del plazo de ciento veinte días contado desde la fecha de entrada en vigencia de esta ley. Para estos efectos, el Consejo Resolutivo de la Superintendencia, previa proposición de esta, determinará las condiciones especiales para el otorgamiento del permiso de operación, que considerarán, entre otras, una oferta económica mínima garantizada, la construcción o ampliación de la infraestructura turística de la comuna donde haya de instalarse el casino y el porcentaje de trabajadores que se desempeñan para el actual concesionario que continuarán prestando servicios, que no podrá ser inferior al 80%. La propuesta que formule la Superintendencia deberá efectuarse previa audiencia de los alcaldes de las comunas a que se refiere el inciso primero del presente artículo, sin perjuicio de que, una vez efectuada dicha propuesta, el Consejo Resolutivo deberá oír a las referidas autoridades si estas lo solicitan.
+
+ii. Los casinos de juego que a la fecha de entrada en vigencia de esta ley se encuentren en actual operación en razón de una concesión municipal, podrán seguir operando en las condiciones convenidas con la municipalidad respectiva en conformidad a las normas que resultan aplicables en la especie, hasta la fecha en que se dé inicio a la operación de los nuevos permisos otorgados según lo dispuesto en el numeral i) precedente.
+
+Con todo, las condiciones especiales para el otorgamiento de permisos de operación señaladas en el numeral i del inciso precedente podrán ser fijadas, indistintamente, para los períodos de quince años o sus posteriores renovaciones, a que se refiere el inciso segundo de este artículo.
+
+Los permisos de operación otorgados con anterioridad a la modificación de la presente ley se regirán por las normas vigentes al tiempo de su otorgamiento, salvo que las normas posteriores impliquen mejores condiciones para su operación.
+
+En todo lo demás, regirán las normas permanentes de la presente ley.
 
 #### Artículo 4°
 
