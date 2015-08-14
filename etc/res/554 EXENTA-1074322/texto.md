@@ -20,7 +20,7 @@ Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos 
 
 La primera selección se realizará con los inscritos en cada modalidad al último día hábil del mes en que sea publicada la presente resolución en el Diario Oficial.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 543.863 Unidades de Fomento para el Sistema Integrado de Subsidio Habitacional y de 356.998 Unidades de Fomento para el Programa Habitacional Fondo Solidario de Elección de Vivienda.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 543.863 Unidades de Fomento para el Sistema Integrado de Subsidio Habitacional y de 547.448 Unidades de Fomento para el Programa Habitacional Fondo Solidario de Elección de Vivienda.
 
 Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados, hubiesen estado o no residiendo en la vivienda siniestrada.
 
@@ -342,7 +342,7 @@ e) Atendida la especial naturaleza de este llamado, el Serviu de la Región de V
 
 En el caso de que se adicionen los subsidios complementarios mencionados en el inciso anterior, el SERVIU de la Región de Valparaíso determinará, de acuerdo a las características de cada proyecto, los montos de estos subsidios que podrán destinarse a la carga de la tarjeta para la compra de materiales.
 
-Podrá destinarse hasta 270 Unidades de Fomento, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida.
+Podrá destinarse hasta el 45% del Subsidio Base y hasta el 45% del Subsidio de Habilitación, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida.
 
 33. El Serviu cargará la tarjeta para la adquisición de los materiales de construcción contra los siguientes hitos:
 
