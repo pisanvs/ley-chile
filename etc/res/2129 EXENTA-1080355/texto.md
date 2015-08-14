@@ -1,0 +1,7 @@
+RECTIFICA RESOLUCIÓN Nº 1.724 EXENTA, DE 2015, DE ESTA SUBSECRETARÍA QUE OFICIALIZA NOMINACIÓN DE MIEMBROS TITULARES Y SUPLENTES DEL SECTOR PRIVADO DEL COMITÉ DE MANEJO DE JUREL XV - X REGIONES, SECTOR PESQUERO ARTESANAL E INDUSTRIAL EN LOS CARGOS QUE INDICA
+
+Por resolución exenta Nº 2.129, de 7 de agosto de 2015, de esta Subsecretaría, rectifíquese el numeral 1.- de la resolución exenta Nº 1.724 de 2015, de esta Subsecretaría que oficializó la nominación de miembros titulares y suplentes del sector privado de Comité de Manejo de Jurel XV-X Regiones, Sector Pesquero Artesanal e Industrial en los cargos declarados vacantes mediante resolución exenta Nº 24 de 2015, de esta Subsecretaría, en el sentido de individualizar al representante titular del Sector Pesquero Industrial correspondiente a la Unidad de Pesquería V-IX Regiones, del Comité de Manejo de Jurel XV-X Regiones, como don Luis Felipe Moncada Arroyo, RUT Nº 7.004.553-2.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 7 de agosto de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
