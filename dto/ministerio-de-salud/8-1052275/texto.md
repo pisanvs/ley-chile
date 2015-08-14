@@ -86,95 +86,103 @@ A. Especialidades Médicas Primarias y Derivadas (Subespecialidades)
 
 21. Geriatría.
 
-22. Hematología.
+22. Ginecología Pediátrica
 
-23. Imageneología.
+y de la Adolescencia
 
-24. Infectología.
+23. Hematología.
 
-25. Inmunología.
+24. Imageneología.
 
-26. Laboratorio clínico.
+25. Infectología.
 
-27. Medicina familiar.
+26. Inmunología.
 
-28. Medicina física y rehabilitación.
+27. Laboratorio clínico.
 
-29. Medicina interna.
+28. Medicina familiar.
 
-30. Medicina intensiva adulto
+29. Medicina física y rehabilitación.
 
-31. Medicina intensiva pediátrico.
+30. Medicina interna.
 
-32. Medicina legal.
+31. Medicina intensiva adulto
 
-33. Medicina nuclear.
+32. Medicina intensiva pediátrico.
 
-34. Medicina de urgencia.
+33. Medicina legal.
 
-35. Nefrología adulto.
+34. Medicina Materno Fetal
 
-36. Nefrología pediátrico.
+35. Medicina nuclear.
 
-37. Neonatología.
+36. Medicina de urgencia.
 
-38. Neurocirugía.
+37. Nefrología adulto.
 
-39. Neurología adultos.
+38. Nefrología pediátrico.
 
-40. Neurología pediátrica.
+39. Neonatología.
 
-41. Obstetricia y ginecología.
+40. Neurocirugía.
 
-42. Oftalmología.
+41. Neurología adultos.
 
-43. Oncología médica.
+42. Neurología pediátrica.
 
-44. Otorrinolaringología.
+43. Obstetricia y ginecología.
 
-45. Pediatría.
+44. Oftalmología.
 
-46. Psiquiatría adultos.
+45. Oncología médica.
 
-47. Psiquiatría pediátrica y de la adolescencia.
+46. Otorrinolaringología.
 
-48. Radioterapia oncológica.
+47. Pediatría.
 
-49. Reumatología.
+48. Psiquiatría adultos.
 
-50. Salud pública.
+49. Psiquiatría pediátrica y de la adolescencia.
 
-51. Traumatología y ortopedia.
+50. Radioterapia oncológica.
 
-52. Urología.
+51. Reumatología.
+
+52. Salud pública.
+
+53. Traumatología y ortopedia.
+
+54. Urología.
 
 B. Especialidades Odontológicas Primarias y Derivadas (Subespecialidades)
 
 1. Cirugía y traumatología buco maxilofacial.
 
-2. Endodoncia.
+2. Cirugía Bucal
 
-3. Imagenología oral y maxilofacial.
+3. Endodoncia.
 
-4. Implantología buco maxilofacial.
+4. Imagenología oral y maxilofacial.
 
-5. Odontología legal.
+5. Implantología buco maxilofacial.
 
-6. Odontopediatría.
+6. Odontología legal.
 
-7. Ortodoncia y ortopedia dento maxilofacial.
+7. Odontopediatría.
 
-8. Patología oral.
+8. Ortodoncia y ortopedia dento maxilofacial.
 
-9. Periodoncia.
+9. Patología oral.
 
-10. Rehabilitación oral.
+1O. Periodoncia.
 
-11. Salud pública.
+11. Rehabilitación oral.
 
-12. Somato-Prótesis.
+12. Salud pública.
 
-13. Trastornos temporomandibulares y dolor orofacial.
+13. Somato-Prótesis.
+
+14. Trastornos temporomandibulares y dolor orofacial.
 
 Dentro del marco reglamentario que el presente decreto establece, corresponderá al Ministerio de Salud dictar las normas técnicas operativas necesarias para uniformar y homologar los mecanismos y procedimientos que, de acuerdo a lo establecido en el Nº 13 del artículo 4°, del DFL Nº 1, de 2005, del Ministerio de Salud, deberán dar a conocer las entidades certificadoras autorizadas por el Ministerio de Salud para otorgar la certificación de las especialidades que este Reglamento dispone, normas que incluirán las siguientes materias:
 
@@ -388,29 +396,7 @@ La Superintendencia de Salud podrá, en cualquier tiempo, proponer fundadamente 
 
 #### Artículo 13
 
-Cualquier persona natural o jurídica podrá solicitar la incorporación de especialidades al Sistema de Certificación establecido en este reglamento, petición que estará sujeta a las normas contenidas en la ley Nº19.880.
-
-La solicitud deberá ser presentada ante el Ministro de Salud, quien la remitirá, junto con un informe técnico emanado de la Subsecretaría de Redes Asistenciales, al Presidente de la República quien podrá ponderar, entre otros aspectos, los siguientes:
-
-1. Presencia a nivel nacional de profesionales con
-
-formación comprobable en el área de la
-
-especialidad de que se trate.
-
-2. Existencia de programas formales de formación y
-
-entrenamiento de la especialidad , impartido por
-
-una Universidad del Estado o reconocida por
-
-éste, que cumpla con la normativa vigente.
-
-3. Existencia de sociedades científicas que agrupen
-
-a los especialistas en el área.
-
-Si el Presidente de la República ponderare favorablemente la solicitud, la especialidad será incorporada mediante acto administrativo modificatorio del presente decreto totalmente tramitado.
+Derogado
 
 #### Artículo 14
 
@@ -442,7 +428,13 @@ Para que los profesionales indicados en los numerales anteriores se acojan a lo 
 
 #### Artículo tercero
 
-Los reconocimientos de certificaciones de especialidades otorgados en virtud de las disposiciones transitorias contenidas en el decreto supremo Nº 57, de 2007, del Ministerio de Salud, mantendrán su vigencia y por el mismo plazo en que fueron otorgados. Ahora bien, tratándose de profesionales a los que se les hubiere reconocido como certificada la especialidad por poseer un título o grado académico relativo a dichas especialidades otorgado por una Universidad del Estado o reconocida por éste, la vigencia del reconocimiento expirará el día 6 de noviembre del año 2018.
+Los reconocimientos de certificaciones de especialidades otorgados en virtud de las disposiciones transitorias contenidas en el decreto supremo Nº 57, de 2007, de los Ministerios de Salud y de Educación, mantendrán su vigencia hasta el día 31 de diciembre de 2019.
+
+#### Artículo cuarto
+
+Entre el 1 de enero de 2015 y el 31 de diciembre de 2019, quienes posean un título universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
+
+En la tramitación de las solicitudes de inscripción precedentemente señaladas se estará a lo dispuesto en el inciso final del artículo primero transitorio.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.- Harald Beyer Burgos, Ministro de Educación.
 
