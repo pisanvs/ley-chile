@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES CERTIFICA CL S.A.
+
+Por resolución exenta Nº 132, de 12 de mayo de 2015 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 513 de 28 de diciembre de 2012 a "Certifica CL S.A.", RUT Nº 76.239.234-8, a los siguientes perfiles ocupacionales del Sector Gastronomía, Hotelería y Turismo, Subsector Turismo: Agente de Viajes (P-7912-4221-001-V02), Informador Turístico (P-7912-4221-002-V01), Anfitrión (P-7912-4224-001-V02), Guía Turístico General (P-7912-5113-001-V02).
+
+Ximena Concha Bañados, Secretaria Ejecutiva Comisión del Sistema Nacional de Certificación de Competencias Laborales.
