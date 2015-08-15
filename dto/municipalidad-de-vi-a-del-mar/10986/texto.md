@@ -164,6 +164,10 @@ Estas sanciones se aplicarán cada vez que se constate la comisión de las infra
 
 La aplicación de estas sanciones no libera al infractor de su obligación de indemnizar perjuicios de conformidad a las reglas generales.
 
+#### Artículo 15º
+
+"El cumplimiento de los preceptos de esta Ordenanza será vigilado y fiscalizado por los inspectores municipales y por los agentes del Cuerpo de Carabineros de Chile.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y en la página web municipal y archívese.- Virginia Reginato Bozzo, Alcaldesa.- María Cristina Rayo Sanhueza, Secretario Municipal.
 
 Lo que comunico a Ud. para su conocimiento y fines correspondientes.- Saluda a usted, Secretario.
