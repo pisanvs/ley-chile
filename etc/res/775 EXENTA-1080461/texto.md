@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCIÓN N° 775 EXENTA, DE FECHA 31/07/2015, QUE APRUEBA PROCEDIMIENTO ADMINISTRATIVO
+
+La Superintendencia de Educación aprobó mediante resolución exenta N° 775, de fecha 31 de julio de 2015, proceso instruido por resolución exenta N° 613, de fecha 26 de mayo de 2015, ordenó instruir proceso administrativo al Establecimiento Educacional Escuela Particular Las Gaviotas RBD N° 6703-2, ubicado en Codihue- Rincón de la Comuna de Nueva Imperial, cuyo sostenedor es doña Magdalena Paineo Curiñir, RUN N° 5.541.503-K, por presuntas contravenciones a la normativa educacional, designando fiscal investigador, formulando cargo y otorgando un plazo para presentar descargos de acuerdo a lo siguiente: 1.- Que a través de Acta de Fiscalización N° 1.509.01.384, de fecha 26 de mayo de 2015, se constataron hechos que configuran presuntas contravenciones a la normativa educacional. 2.- Que conforme los antecedentes que constan en el proceso, se ordenó instruir proceso administrativo por el siguiente cargo: Número de Hallazgo 24 Establecimiento no utiliza la subvención en el propósito determinado por la ley o convenio suscrito Número de Sustento (24.00) Establecimiento no utiliza la subvención en el propósito determinado por la ley o convenio suscrito. Norma transgredida: Artículo 6° letra
+
+- **e)** y 7° letra
+
+- **f)** de la ley N° 20.248, de 2008, de Educación y lo prescrito en el artículo 5° del decreto N° 469, de 2013, de Educación que aprueba reglamento sobre rendición de cuenta pública de uso de recursos. Tipo Infraccional: Infracción Grave, artículo 76 letras
+
+- **b)** y
+
+- **h)** de la ley N° 20.529 en relación a lo prescrito en el artículo 50 inciso tercero letra
+
+- **i)** del DFL N° 2, de 1998, del Ministerio de Educación y artículo 34 de la ley N° 20.248, de 2008. 3.- Se designó Fiscal Instructor a doña Carolina Arriagada Uribe, funcionaria de la Dirección Regional de la Superintendencia de Educación, Región de la Araucanía. 4.- Se deja constancia que el sostenedor dispone, de acuerdo a lo prescrito en el artículo 70 de la ley N° 20.529, de un plazo de diez días hábiles, contado desde la fecha de notificación, para presentar descargos y los medios de prueba que estime pertinentes ante la Fiscalía de la Dirección Regional ubicada en calle San Martín N° 895, comuna de Temuco, en horario de lunes a viernes desde las 9:00 horas hasta las 14:00 horas. 5.- Se notificó mediante el Diario Oficial con fecha 15 de julio de 2015. 6.- Se certificó por la Fiscal Instructora con fecha 31 de julio de 2015, la no presentación de descargos por parte de la sostenedora. 7.- Por resolución exenta N° 775, de fecha 31 de julio de 2015, se aprueba proceso administrativo y se aplica sanción de multa de 515 Unidades Tributarias Mensuales, por el cargo Uno, formulado y confirmado y se ordena su notificación. 8.- Se deja constancia que el sostenedor tiene un plazo de 15 días hábiles contados desde la fecha de la notificación para presentar Recurso de Reclamación al tenor de lo dispuesto en el artículo 84 de la ley N° 20.529.-
+
+Daniella Maureira, Coordinación de Procesos Fiscalía. Superintendencia de Educación
