@@ -26,9 +26,9 @@ Resuelvo:
 
 * "La partida se encuentra libre de Premnotrypes lathitorax, Meloidogyne chitwoodi, Rhigopsidius tucumanus y Rhigopsidius piercei"
 
-• La partida se encuentra libre de Phyrdenus muriceus (Coleoptera. Curculionidae).
+* La partida se encuentra libre de Phyrdenus muriceus (Coleoptera. Curculionidae).
 
-Para otorgar esta declaración adicional la inspección correspondiente debe ser realizada por los inspectores de SENASA, sobre la base de 600 tubérculos (60 papas de 10 sacos) con un 95% de confianza, para detectar un nivel de infección de un 0,5%, y en el caso de detectar tubérculos sospechosos esta inspección deberá contemplar el corte y picado de ellos.
+Para otorgar esta declaración adicional, la inspección correspondiente debe ser realizada por los inspectores SENASA, sobre la base de 900 tubérculos (60 papas de 15 sacos) con un 99% de confianza, para detectar un nivel de infección de un 0.5%, esta inspección debe contemplar el corte y picado de, al menos, 50 tubérculos.
 
 En el mismo certificado se indicará el número y código RENSPA del productor, código del exportador y centro de empaque e inspección utilizado.
 
@@ -41,6 +41,8 @@ Además, deberá constar en la sección correspondiente del Certificado Fitosani
 1.7 Previo al inicio de cada temporada de exportación, el Servicio Nacional de Sanidad y Calidad Agroalimentaria deberá remitir a este Servicio los antecedentes de las instalaciones para la realización del tratamiento con antibrotante.
 
 1.8 El Servicio Agrícola y Ganadero autorizará, mediante resolución de la División de Protección Agrícola, las instalaciones para la realización del tratamiento con antibrotante, una vez evaluadas dichas instalaciones, en conjunto con el Servicio Nacional de Sanidad y Calidad Agroalimentaria. La autorización tendrá vigencia por un año, pudiendo ser prorrogada por igual período por el Servicio Agrícola y Ganadero previo informe favorable de la autoridad fitosanitaria de Argentina.
+
+1.9 Los lugares de producción de donde se obtengan los tubérculos de papa con destino a Chile, deberán estar ubicados en la misma provincia en que se encuentran las plantas procesadoras de papas (Solanum tuberosum) frescas de exportación para consumo habilitadas por el Servicio Agrícola y Ganadero, siendo el cumplimiento de este requisito, responsabilidad de SENASA.
 
 2. Adicionalmente, cada partida de tubérculos de papa para consumo deberá cumplir con las siguientes condiciones:
 
