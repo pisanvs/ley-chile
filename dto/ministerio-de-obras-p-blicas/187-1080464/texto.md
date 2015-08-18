@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto número 187, del Ministerio de Obras Públicas, de fecha 24 de junio de 2015, íntegramente tramitado el 15 de julio de 2015, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el sector denominado "Sector Parque Cautín" Comuna de Temuco, Provincia de Cautín, IX Región de la Araucanía.
+
+El área comprendida en la concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas que se otorgan se encuentra identificada y delimitada en el plano denominado "Ampliación Territorio Operacional de agua potable y aguas servidas sector ?Parque Cautín' de Temuco Provincia de Cautín Región de la Araucanía, contenido: sector de ampliación ?Parque Cautín' territorio operacional planta general" que forma parte integrante del presente decreto y archivado en la Superintendencia de Servicios Sanitarios bajo el código Nº SC-09-29-B. Se espera que en el primer establecimiento (2020) contar con 350 arranques de agua potable y 350 uniones domiciliarias de alcantarillado, cantidad que aumentará a 764, en ambos casos hacia el final del periodo (año 2030).
+
+El servicio público de producción de agua potable del sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a), de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26 del DS MOP número 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC-09-29-B, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 20 de julio de 2015, en la 27a Notaría de Santiago de don Eduardo Avello Concha y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-09-29-B.
+
+Santiago, 27 de julio de 2015.- Magaly Espinosa Sarria, Superintendenta de Servicios Sanitarios.
