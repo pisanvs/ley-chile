@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº 486 de 17 de julio de 2015, se desistió de la expropiación del lote C, ordenada por el Decreto MOP (Exento) Nº 794 de 31 de mayo de 2010, por acuerdo de servidumbre con el propietario del sector donde dicho lote se emplaza, necesario para la obra "Proyecto "Colector Interceptor Mapocho Segunda Etapa, Comuna de Maipú Provincia de Santiago, Región Metropolitana". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
