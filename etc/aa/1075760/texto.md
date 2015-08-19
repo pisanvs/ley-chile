@@ -4,6 +4,8 @@ En Antofagasta, a diez de marzo de dos mil quince, se reunió en sesión extraor
 
 De conformidad a lo dispuesto en los artículos 96 de la Constitución Política de la República y 34 de la ley Nº 18.593, de los Tribunales Electorales Regionales, publicada el día 9 de enero de 1987 y sus modificaciones posteriores, que en lo sucesivo se mencionará como la "Ley", resolvió reglamentar las normas relativas al Procedimiento establecidas en ella, mediante la dictación del siguiente Auto Acordado:
 
+Sin perjuicio de lo dispuesto en el "Título II. Del Procedimiento Común" y en el "Título III. De la Calificación de las Elecciones de Carácter Gremial y de los Grupos Intermedios de acuerdo con lo dispuesto en el artículo 10 Nº 1 de la Ley Nº 18.593, de los Tribunales Electorales Regionales", del "Autoacordado del Tribunal Calificador de Elecciones que regula la Tramitación y los Procedimientos que deben aplicar los Tribunales Electorales Regionales" de fecha 7 de junio de 2012, se dispone:
+
 ### I. DEL PROCEDIMIENTO ORDINARIO
 
 1) El Tribunal resolverá los asuntos de que conozca, "en cuenta" o "previa vista de la causa", según corresponda.
@@ -48,7 +50,7 @@ El reclamante deberá retirar el correspondiente aviso extractado debidamente au
 
 12) Cuando corresponda recibir la causa a prueba, se abrirá para ello un término de diez días hábiles y se señalará determinadamente los hechos sustanciales, pertinentes y controvertidos sobre los que ella deberá recaer. La misma resolución señalará el día y la hora en que se recibirá la testimonial, la que deberá realizarse, en una audiencia que se fijará dentro de los últimos cuatro días del probatorio, conforme a lo establecido en el numeral 15 siguiente. Esta resolución se notificará a las partes, personalmente o mediante cédula, sin perjuicio de lo dispuesto en los incisos tercero y cuarto del artículo 27 de la ley Nº 18.593 de los Tribunales Electorales Regionales, respecto de designar domicilio conocido dentro del radio urbano de Antofagasta, de lo contrario todas las resoluciones producirán sus efectos desde que se dicten, sin necesidad de notificación y mientras no se efectúe dicha designación.
 
-13) Las partes podrán pedir reposición de la resolución que reciba la causa a prueba, dentro de tercero día de notificada y, en este caso, el término probatorio comenzará a correr desde que se notifique por el estado diario la resolución que falle la última reposición.
+13) Las partes podrán pedir reposición de la resolución que reciba la causa a prueba, dentro de quinto día de notificada y, en este caso, el término probatorio comenzará a correr desde que se notifique por el estado diario la resolución que falle la última reposición.
 
 14) Dentro de los tres días siguientes a la última notificación de la resolución a que se refiere el Párrafo II precedente, cuando no se haya pedido reposición en conformidad al artículo anterior y en el caso contrario, dentro de los tres días siguientes a la notificación por el estado de la resolución que se pronuncie sobre la última solicitud de reposición, cada parte deberá presentar una nómina de los testigos de que piensa valerse, con expresión de sus nombres y apellidos, domicilio y profesión u oficio. Sólo podrán presentarse hasta dos testigos por punto de prueba.
 
