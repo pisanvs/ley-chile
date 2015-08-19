@@ -3776,7 +3776,7 @@ totalidad de la información asociada, esta quedará a
 
 disposición del jefe revisor correspondiente.
 
-2.3.2.5 REVISIÓN DEL JEFE REVISOR
+2.3.2.2 REVISIÓN DEL JEFE REVISOR
 
 Será obligación del Jefe revisor designado, entrar al
 
@@ -3886,7 +3886,7 @@ las denuncias y oportuna emisión de los giros
 
 respectivos.
 
-2.3.2.6 DE LA UNIDAD DE AUDIENCIAS.
+2.3.2.3 DE LA UNIDAD DE AUDIENCIAS.
 
 En esta Unidad se hará un análisis somero de
 
@@ -3946,7 +3946,7 @@ aprobar la denuncia y a practicar la notificación al
 
 interesado.
 
-2.3.2.7 NOTIFICACIÓN DE LA DENUNCIA.
+2.3.2.4 NOTIFICACIÓN DE LA DENUNCIA.
 
 La notificación de la denuncia a la o las personas a
 
@@ -4092,7 +4092,7 @@ más de un infractor, se deberá considerar la
 
 fecha de la última notificación.
 
-2.3.2.8 ALLANAMIENTO A LA DENUNCIA
+2.3.2.5 ALLANAMIENTO A LA DENUNCIA
 
 Una vez notificado, el denunciado podrá allanarse a
 
@@ -4140,7 +4140,7 @@ emitirá el giro F16 por la multa aplicada sin
 
 allanamiento notificada originalmente.
 
-2.3.2.9 RECLAMACIÓN DE LA MULTA
+2.3.2.6 RECLAMACIÓN DE LA MULTA
 
 Las multas aplicadas podrán ser reclamadas ante el
 
