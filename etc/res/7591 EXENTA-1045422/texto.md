@@ -236,9 +236,9 @@ se deberá transmitir solamente el encabezado
 
 del manifiesto consignando este hecho.
 
------------------------------------------------------------
+-----------------------------------------------------
 
-1Cuando no se conozca el arribo de la nave con la
+1 Cuando no se conozca el arribo de la nave con la
 
 anticipación suficiente para cumplir con el plazo de
 
@@ -262,37 +262,43 @@ que representa a la empresa transportista que
 
 los emita, o por sus propios emisores.
 
-4.2 El envío de los mensajes de los conocimientos de
+4.2 El envío de los mensajes de los
 
-embarque se podrá efectuar desde que el
+conocimientos de embarque se podrá
 
-encabezado del manifiesto haya sido numerado por
+efectuar desde que el encabezado del
 
-el sistema de Aduanas y, a lo menos, 48 horas
+manifiesto haya sido numerado por el
 
-corridas antes del arribo estimado de la nave.
+sistema de Aduanas, y a lo menos,
 
-No obstante lo anterior, en caso que la nave
+96 horas corridas antes del arribo
 
-recale en el puerto después del arribo
+estimado de la nave.
 
-estimado originalmente informado, para
+No obstante lo anterior, en caso que
 
-determinar los B/L presentados fuera de
+la nave recale en el puerto después
 
-plazo se considerará la fecha y hora
+del arribo estimado originalmente
 
-de arribo efectivo de la nave.
+informado, para determinar los B/L
+
+presentados fuera de plazo se
+
+considerará la fecha y hora de
+
+arribo efectivo de la nave.
 
 4.3 Los plazos establecidos anteriormente
 
-no regirán, tratándose de la situación
+no regirán tratándose de la situación
 
 señalada en el segundo párrafo del
 
-numeral 3.2 anterior, en cuyo caso los
+numeral 3.2 anterior, en cuyo caso
 
-mensajes de los conocimientos de
+los mensajes de los conocimientos de
 
 embarque deberán ser transmitidos a
 
@@ -300,77 +306,135 @@ más tardar, dentro de las 24 horas
 
 corridas siguientes a la recepción
 
-efectiva de la nave al puerto. Tampoco
+efectiva de la nave al puerto.
 
-regirán tratándose de cargas embarcadas
+Tampoco regirán tratándose de
 
-en los puertos peruanos de Callao, Ilo
+cargas embarcadas en puertos de
 
-y Matarani cuando su puerto de
+Panamá, Colombia y Ecuador, en cuyo
+
+caso el plazo para la transmisión
+
+de los mensajes deberá corresponder
+
+a 48 horas corridas previas al
+
+arribo estimado de la nave.
+
+En el caso de cargas embarcadas en
+
+los puertos peruanos de Callao, Ilo
+
+y Matarani, cuando su puerto de
 
 desembarque sea Arica, Iquique o
 
-Antofagasta, o los puertos que dependen
+Antofagasta, o los puertos que
 
-de dichas Aduanas, evento en el cual
+dependen de dichas Aduanas, los
 
-los mensajes deberán ser transmitidos
+mensajes de los conocimientos de
 
-a lo menos, con 24 horas de anticipación
+embarque deberán ser transmitidos
 
-al arribo estimado de la nave,
+a lo menos, con 24 horas de
 
-tratándose de cargas embarcadas en
+anticipación al arribo estimado de
 
-Callao, o con 10 horas de anticipación,
+la nave, tratándose de cargas
 
-para cargas embarcadas en Ilo o
+embarcadas en Callao, o con 10
 
-Matarani. En todos estos casos, se
+horas de anticipación, para cargas
 
-deberá incorporar en el mensaje del
+embarcadas en Ilo o Matarani. En
 
-conocimiento de embarque el código
+caso que el puerto de desembarque
 
-de observación 01.
+sea distinto a los anteriormente
 
-4.4 En los casos de carga consolidada en
+señalados, los mensajes deberán
 
-contenedores para uno o más consignatarios
+ser transmitidos a lo menos con 48
 
-o de bultos sueltos, por los que se
+horas de anticipación al arribo
 
-hubieren emitido conocimientos de embarque
+estimado de la nave.
 
-"hijos", o "nietos", será condición para
+4.4 En los casos de carga consolidada
 
-aceptar el envío de los datos asociados a
+en contenedores para uno o más
 
-estos conocimientos de embarque que
+consignatarios o de bultos sueltos,
 
-previamente se haya enviado el mensaje del
+por los que se hubieren emitido
 
-conocimiento de embarque del cual derivan
+conocimientos de embarque "hijos",
 
-y que se haga referencia a él. Estos
+o "nietos", será condición para
 
-mensajes deberán ser transmitidos a lo
+aceptar el envío de los datos
 
-menos, 24 horas corridas antes del arribo
+asociados a estos conocimientos de
 
-estimado de la nave. En caso que no se
+embarque que previamente se haya
 
-pueda cumplir con este plazo debido a
+enviado el mensaje del conocimiento
 
-que no ha sido recibido por el sistema
+de embarque del cual derivan y que
 
-el mensaje del conocimiento de embarque
+se haga referencia a él.
 
-del cual deriva, su transmisión se
+Estos mensajes deberán ser
 
-deberá efectuar dentro de las 24 horas
+transmitidos a lo menos, 48 horas
 
-corridas siguientes al envío de éste.
+corridas previas al arribo estimado
+
+de la nave, tratándose de
+
+conocimientos de embarque que derivan
+
+de otro cuyo plazo de presentación
+
+es de 96 horas corridas antes de su
+
+arribo estimado, o a lo menos, 24 horas
+
+corridas previas al arribo estimado de
+
+la nave, tratándose de conocimientos de
+
+embarque que derivan de otro cuyo
+
+plazo de presentación es de 48 horas
+
+corridas previas a su arribo estimado.
+
+En caso que no se pueda cumplir con
+
+estos plazos debido a que no ha sido
+
+recibido por el sistema el mensaje del
+
+conocimiento de embarque del cual
+
+deriva, su transmisión se deberá efectuar
+
+dentro de las 24 horas corridas
+
+siguientes al envío de éste. Lo
+
+anterior también es válido para los
+
+B/L que deriven de alguno de aquellos
+
+a que se hace referencia en el tercer
+
+### Párrafo d — el numeral 4.3
+
+anterior.
 
 Los datos asociados a estos mensajes
 
@@ -476,7 +540,7 @@ día hábil siguiente al canje.
 
 -----------------------------------------------------------
 
-2Los almacenistas podrán retirar desde las Unidades Control
+2 Los almacenistas podrán retirar desde las Unidades Control
 
 Zonas Primarias las aperturas de los mafiestos con carga
 
@@ -732,7 +796,19 @@ siguientes al zarpe de la nave. Con
 
 posterioridad, estas aclaraciones estarán
 
-sujetas a sanción.
+sujetas a sanción, con excepción de los
+
+casos en que la aclaración sea solicitada
+
+por el emisor del mensaje en forma de
+
+autodenuncio, sin que haya mediado respecto
+
+de la operación, un procedimiento de
+
+fiscalización que haya Instruido la
+
+aclaración respectiva.
 
 7.5 No obstante lo señalado en el numeral anterior,
 
@@ -888,9 +964,11 @@ Transbordo; Sellos, Marcas de los
 
 Bultos y Emisor del Conocimiento de
 
-Embarque, quedarán a la espera de la
+Embarque, Sentido de la Operación,
 
-autorización por parte de un
+Almacenista, quedarán a la espera
+
+de la autorización por parte de un
 
 funcionario de Aduanas.
 
@@ -904,7 +982,19 @@ corridos siguientes a la fecha de zarpe de la
 
 nave. Con posterioridad, estas aclaraciones
 
-estarán sujetas a sanción.
+estarán sujetas a sanción, con excepción de los
+
+casos en que la aclaración sea solicitada
+
+por el emisor del mensaje en forma de
+
+autodenuncio, sin que haya mediado respecto
+
+de la operación, un procedimiento de
+
+fiscalización que haya Instruido la
+
+aclaración respectiva.
 
 9.6 Estando conformado el manifiesto, el campo
 
@@ -1096,7 +1186,7 @@ del conocimiento de embarque el almacenista al
 
 que se deberán entregar las mercancías, a más
 
-tardar, 96 horas corridas antes del arribo de
+tardar, 144 horas corridas antes del arribo de
 
 la nave, información que también deberá ser
 
