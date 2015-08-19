@@ -346,7 +346,7 @@ e) El Serviu de la Región de Valparaíso, directamente, o a través de personas
 
 En el caso de que se adicionen los subsidios complementarios mencionados en el inciso anterior, el Serviu de la Región de Valparaíso determinará, de acuerdo a las características de cada proyecto, la parte de estos subsidios que se cargarán en la tarjeta para la compra de materiales de construcción.
 
-Podrán destinarse hasta 270 Unidades de Fomento, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante beneficiado al sistema informático de Autoconstrucción Asistida.
+Podrá destinarse hasta el 45% del Subsidio Base y hasta el 45% del Subsidio de Habilitación, para la contratación de mano de obra, lo que deberá quedar establecido al momento de ingresar al postulante al sistema informático de Autoconstrucción Asistida.
 
 32. El Serviu cargará la tarjeta para la adquisición de los materiales de construcción contra los siguientes hitos:
 
