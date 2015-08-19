@@ -16,7 +16,7 @@ a) En el considerando primero, sustitúyese el guarismo "15" por "18". El texto 
 
 b) En el considerando cuarto, sustitúyese la expresión "12 bis" por el guarismo "14". El texto resultante es el siguiente:
 
-"CUARTO: Que, según indica el inciso cuarto de la disposición mencionada, los suplentes de Ministro tendrán las mismas prohibiciones, obligaciones e inhabilidades que los Ministros y regirán para ellos las mismas causales de implicancia que afectan a éstos, pero no cesarán en sus funciones al cumplir 75 años de edad ni se les aplicará la incompatibilidad con funciones docentes a que se refiere el artículo 12 bis 14 de la misma Ley, y".
+"CUARTO: Que, según indica el inciso cuarto de la disposición mencionada, los suplentes de Ministro tendrán las mismas prohibiciones, obligaciones e inhabilidades que los Ministros y regirán para ellos las mismas causales de implicancia que afectan a éstos, pero no cesarán en sus funciones al cumplir 75 años de edad ni se les aplicará la incompatibilidad con funciones docentes a que se refiere el artículo 14 de la misma Ley, y".
 
 A título explicativo, se deja constancia de que las dos modificaciones anteriores se justifican en tanto las referencias que se ajustan son anterior a la dictación del decreto con fuerza de ley Nº 5, del año 2010, del Ministerio Secretaría General de la Presidencia, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 17.997, Orgánica Constitucional del Tribunal Constitucional.
 
