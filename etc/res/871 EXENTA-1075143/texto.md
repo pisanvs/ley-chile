@@ -16,15 +16,15 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécese, de lunes a viernes, excepto festivos, entre las 7:00 hrs. y las 21:00 hrs., como medida de gestión de tránsito, según sentido de circulación, una vía exclusiva con prioridad para transporte público urbano prestado mediante buses, en los tramos de las siguientes vías:
+1.- Establécese, de lunes a viernes, excepto festivos, en los horarios que se indican en el numeral siguiente, como medida de gestión de tránsito, según sentido de circulación, una vía exclusiva con prioridad para transporte público urbano prestado mediante buses, en los tramos de las siguientes vías:
 
 .
 
 2.- La calzada de las referidas vías exclusivas prioritarias operará bajo las siguientes condiciones:
 
-a) La pista del costado derecho, cuando la calzada tenga dos pistas, y la pista derecha y central, cuando aquella disponga de tres pistas será de uso exclusivo para buses de transporte público urbano (Transantiago).
+a) La pista del costado derecho, cuando la calzada tenga dos pistas, y la pista derecha y central, cuando aquella disponga de tres pistas será de uso exclusivo para buses de transporte público urbano (Transantiago). Estas pistas funcionarán entre las 7:00 hrs. y las 21:00 hrs.
 
-b) El resto de las pistas, según sentido de tránsito, será de uso exclusivo, tanto para buses de transporte público urbano (Transantiago) como de taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo. Asimismo, podrán circular en estas pistas vehículos de transporte remunerado de escolares y los acondicionados para personas con discapacidad a que se refiere el artículo 6º de la ley Nº 17.238.
+b) El resto de las pistas, según sentido de tránsito, será de uso exclusivo, tanto para buses de transporte público urbano (Transantiago) como de taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo. Asimismo, podrán circular en estas pistas vehículos de transporte remunerado de escolares y los acondicionados para personas con discapacidad a que se refiere el artículo 6º de la ley Nº 17.238. En dichas pistas la exclusividad funcionará sólo entre 7:30 hrs. y 10:00 hrs. y; entre 17:00 y 21:00 hrs.
 
 Sin perjuicio de lo señalado precedentemente, en todas las pistas de estas vías exclusivas prioritarias podrán circular también los vehículos de emergencia, del Programa de Fiscalización de la Subsecretaría de Transportes; de los municipios, destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales y los utilizados por la inspección fiscal del "Contrato de Concesión Habilitación Corredor de Transporte Público Av. Santa Rosa Sector Alameda - A. Vespucio" y por el concesionario de dicha obra para labores de mantención de las vías señaladas; siempre que éstos se encuentren debidamente identificados como tales.
 
