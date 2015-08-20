@@ -10,7 +10,7 @@ Fíjase la fecha de cumplimiento del Art. 45º del decreto supremo Nº 212/92 de
 
 a) Para los servicios que se inscriban antes del 30 de noviembre de 2000, en el Registro Nacional de Servicios de Transporte de la IX Región, el 31 de diciembre de 2001.
 
-b) Para los servicios que se inscriban a contar del 1º de diciembre de 2000 en el Registro Nacional de Servicios de Transporte de la IX Región, al momento de inscribirse.
+b) Para los servicios que se inscriban a contar del 1º de diciembre de 2000 en el Registro Nacional de Servicios de Transporte de la IX Región, al momento de inscribirse. En todo caso, esta exigencia no será aplicable para los servicios de taxis colectivos que se inscriban en el Registro Nacional de Servicios de Transporte Público de Pasajeros al amparo de la ley Nº 20.474, los que deberán dar cumplimiento a dicha exigencia en un plazo de 24 meses a contar de la fecha de la solicitud de inscripción del servicio de taxi colectivo de que se trate.
 
 c) No obstante lo señalado en las letras precedentes, todos los servicios urbanos deberán, en el intertanto, iniciar y finalizar sus servicios desde recintos habilitados fuera de la vía pública, y que cuenten con las dimensiones suficientes para la flota del servicio, establecidas en el D.S. 47/92, del Ministerio de Vivienda y Urbanismo.
 
