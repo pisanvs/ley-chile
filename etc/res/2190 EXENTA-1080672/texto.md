@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución exenta Nº 2.190, de 11 de agosto de 2015, de esta Subsecretaría, declárase la caducidad de las resoluciones exentas Nº 1.635 y Nº 1.636, ambas de 2011, que autorizaron a Pesquera del Estrecho S.A., para iniciar actividades pesqueras extractivas con las naves en construcción "BEC Nº 1635/2011" y "TEC Nº 1636/2011", en el área marítima comprendida entre la XV a X Regiones e Islas Oceánicas, por fuera del área de reserva artesanal, sobre el recurso hidrobiológico Albacora o Pez espada y otros recursos no sometidos a plena explotación y desde la XV a la XII Regiones e Islas Oceánicas sobre el recurso hidrobiológico Jibia, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 11 de agosto de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
