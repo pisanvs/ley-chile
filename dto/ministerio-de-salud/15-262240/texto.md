@@ -224,7 +224,7 @@ b) Haber prestado, en los últimos doce meses, asesoría en materias de calidad 
 
 La entidad acreditadora que estime encontrarse en alguna de las situaciones referidas, rechazará sobre esa base la designación como evaluadora comunicándolo a la Intendencia y, si se tratare de un evaluador en particular lo excluirá completamente del proceso al que ha sido convocada. Si la incompatibilidad se produce durante la evaluación comunicará inmediatamente a la Intendencia la circunstancia sobreviniente y detendrá el proceso en curso. Ante esta situación, la Intendencia procederá a designar una nueva entidad evaluadora y ordenará la devolución de los aranceles pagados.
 
-En el mes de enero de cada año, las entidades acreditadoras deberán presentar a la Intendencia de Prestadores una declaración sobre las relaciones comerciales que la entidad, sus propietarios, socios y evaluadores tuvieren con prestadores institucionales de salud, sus representantes o administradores, así como de toda actividad de asesoría o capacitación en salud que, respecto de estas instituciones, hubieren ejecutado durante el año anterior.
+En los meses de enero y julio de cada año, las entidades acreditadoras deberán presentar a la Intendencia de Prestadores una declaración sobre las relaciones comerciales que la entidad, sus propietarios, socios y evaluadores tuvieren con prestadores institucionales de salud, sus representantes o administradores, así como de toda actividad de asesoría o capacitación en salud que, respecto de estas instituciones, hubieren ejecutado durante el año anterior.
 
 La Intendencia de Prestadores establecerá el formato de dicha declaración y podrá solicitar las aclaraciones que considere necesarias.
 
@@ -318,27 +318,27 @@ El arancel aplicable a las acreditaciones de establecimientos institucionales de
 
 A. Atención Cerrada:
 
-a) de alta complejidad: 120 UTM
+a) De alta complejidad: 300 UTM
 
-b) de mediana complejidad: 100 UTM
+b) De mediana complejidad: 200 UTM
 
-c) de baja complejidad: 60 UTM
+c) De baja complejidad: 150 UTM
 
 B. Atención Abierta:
 
-a) de alta complejidad: 100 UTM
+a) De alta complejidad: 180 UTM
 
-b) de mediana complejidad: 80 UTM
+b) De mediana complejidad: 160 UTM
 
-c) de baja complejidad: 40 UTM.
+c) De baja complejidad: 140 UTM
 
-II.- Estándares específicos:
+### II. Estándares específicos:
 
-A. Atención Cerrada: 20 UTM por cada seis estándares o fracción inferior a ese número
+A. Atención Cerrada: 20 UTM por cada seis estándares o fracción inferior a ese número.
 
-B. Atención Abierta: 10 UTM por cada seis estándares o fracción inferior a ese número
+B. Atención Abierta: 10 UTM por cada seis estándares o fracción inferior a ese número.
 
-Recargo por distancia: 20 UTM por distancia superior a 450 kilómetros de vías terrestres o más de seis horas de traslado por el medio habitualmente disponible, entre el prestador y la sede más cercana de la entidad acreditadora.
+Recargo por distancia: 40 UTM por distancia superior a 150 kilómetros entre el prestador y la sede más cercana de la entidad acreditadora.
 
 #### Artículo 36
 
