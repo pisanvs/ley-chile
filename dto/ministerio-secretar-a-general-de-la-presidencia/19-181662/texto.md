@@ -196,6 +196,8 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 10. Autorización de aportes a corporaciones privadas sin fines de lucro, a que se refiere la ley Nº 19.367.
 
+11. Declaración de Normas Oficiales del ámbito de la infraestructura pública, de la administración de recursos hídricos y de los servicios sanitarios de agua potable y alcantarillado.
+
 ### V. MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCION
 
 1. Declaración de Normas Oficiales.
