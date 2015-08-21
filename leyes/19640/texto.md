@@ -18,6 +18,12 @@ El Ministerio Público realizará sus actuaciones procesales a través de cualqu
 
 Los fiscales, en los casos que tengan a su cargo, dirigirán la investigación y ejercerán la acción penal pública con el grado de independencia, autonomía y responsabilidad que establece esta ley.
 
+Sin perjuicio de lo dispuesto en el inciso primero, el Ministerio Público también podrá realizar sus actuaciones procesales ante los tribunales de garantía, a través de los abogados asistentes de fiscal, con excepción de la comparecencia a las audiencias de juicio oral. Para tal efecto, será necesaria la delegación expresa y específica para la actuación de que se trate, por parte de un fiscal del Ministerio Público, a dichos profesionales.
+
+El Fiscal Nacional, en el ejercicio de sus atribuciones, regulará la forma en que se delegará esta facultad.
+
+A los abogados asistentes de fiscal les será aplicable lo dispuesto en los artículos 9º, 9º bis y 9º ter, las inhabilidades establecidas en el Título IV, y las normas sobre responsabilidad aplicables a los fiscales.
+
 #### Artículo 3º
 
 En el ejercicio de su función, los fiscales del Ministerio Público adecuarán sus actos a un criterio objetivo, velando únicamente por la correcta aplicación de la ley. De acuerdo con ese criterio, deberán investigar con igual celo no sólo los hechos y circunstancias que funden o agraven la responsabilidad del imputado, sino también los que le eximan de ella, la extingan o la atenúen.
@@ -148,7 +154,7 @@ Dentro de los diez días siguientes a la recepción de la propuesta y en sesión
 
 #### Artículo 16
 
-El Fiscal Nacional durará diez años en su cargo y no podrá ser designado para el período siguiente.
+El Fiscal Nacional durará ocho años en su cargo y no podrá ser designado para el período siguiente.
 
 Si el Fiscal Nacional dejare de servir su cargo por razones diversas de la expiración del plazo legal de duración de sus funciones, la Corte Suprema llamará a concurso público dentro de tercero día de ocurrido ese hecho.
 
@@ -212,7 +218,7 @@ d) División de Administración y Finanzas;
 
 e) División de Informática, y
 
-f) División de Atención a las Víctimas y Testigos, que tendrá por objeto velar por el cumplimiento de las tareas que a este respecto le encomiende al Ministerio Público la ley procesal penal.
+f) División de Atención a las Víctimas y Testigos, que tendrá por objeto velar por el cumplimiento de las tareas que a este respecto le encomiende al Ministerio Público la ley procesal penal. Asimismo, le corresponderá prestar asesoría a quienes sean víctimas de delitos que la ley califica como terroristas.
 
 Un Director Ejecutivo Nacional organizará y supervisará las unidades administrativas de la Fiscalía Nacional, sobre la base de las instrucciones generales que dicte el Fiscal Nacional.
 
@@ -296,7 +302,7 @@ En el caso de la Región Metropolitana de Santiago, si debieren proveerse dos o 
 
 #### Artículo 30
 
-Los Fiscales Regionales durarán diez años en el ejercicio de sus funciones y no podrán ser designados como tales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
+Los Fiscales Regionales durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como tales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
 
 Los Fiscales Regionales cesarán en su cargo al cumplir 75 años de edad.
 
@@ -386,6 +392,28 @@ El Fiscal Regional será subrogado por el fiscal adjunto que determine mediante 
 
 Procederá la subrogación por el solo ministerio de la ley, cuando por cualquier motivo el Fiscal Regional se encuentre impedido de desempeñar su cargo.
 
+### Párrafo 4º — BIS
+
+DEL SISTEMA DE ANÁLISIS CRIMINAL Y FOCOS INVESTIGATIVOS
+
+#### Artículo 37 bis
+
+Créase el Sistema de Análisis Criminal y Focos Investigativos, en adelante "el Sistema", para el fortalecimiento de la persecución penal, mediante la incorporación de estrategias de análisis e investigación sobre mercados delictuales u otras estructuras de criminalidad reconocibles.
+
+El Sistema estará compuesto por unidades de análisis criminal y unidades de focos investigativos.
+
+Las unidades de análisis criminal, que formen parte del Sistema, tendrán las siguientes funciones:
+
+a) Generar información mediante el análisis estratégico de los datos agregados provenientes de delitos contra la propiedad y, en general, de aquellos de mayor connotación social, calificados por el Fiscal Nacional, ya sea que su investigación se encuentre vigente o terminada.
+
+b) Efectuar reportes de la información analizada sobre criminalidad regional, identificación de patrones comunes en ciertos tipos de delitos, reconocimiento de imputados y cualquier otro que se requiera en relación con un tipo de criminalidad específica.
+
+c) Formular orientaciones y diseñar procedimientos estándares de gestión eficiente de la información que permitan el logro de los resultados propuestos por el Ministerio Público.
+
+Los informes y reportes elaborados por las unidades de análisis criminal en ejercicio de las funciones señaladas en el inciso anterior podrán ser declarados reservados para los efectos de lo dispuesto en el artículo 21 de la ley Nº20.285.
+
+Las unidades de focos investigativos del Sistema dependerán de cada Fiscalía Regional, debiendo coordinarse operativamente con las fiscalías locales de la respectiva región, y estarán compuestas por fiscales adjuntos, quienes ejercerán la acción penal, adoptarán medidas de protección a víctimas y testigos, y dirigirán la investigación en aquellos delitos que hayan sido objeto de estudio de las unidades de análisis criminal del Sistema.
+
 ### Párrafo 5º
 
 De las fiscalías locales y los fiscales adjuntos
@@ -406,7 +434,13 @@ La ubicación de las fiscalías locales en el territorio de cada Fiscalía Regio
 
 Cuando una fiscalía local cuente con más de un fiscal adjunto, la distribución de los casos entre los distintos fiscales adjuntos será realizada por el fiscal jefe de conformidad a las instrucciones que al respecto imparta el Fiscal Nacional. En todo caso, la distribución de casos deberá hacerse siempre sobre la base de criterios objetivos, tales como la carga de trabajo, la especialización y la experiencia.
 
-En aquellos casos en que la fiscalía local cuente con un solo fiscal adjunto, el fiscal regional, mediante resolución fundada, determinará el ayudante de fiscal adjunto que actuará como subrogante de aquél cuando, por cualquier motivo, se encuentre impedido de desempeñar el cargo.
+En todos los casos en que el fiscal adjunto se encontrare impedido de desempeñar el cargo por cualquier causa será subrogado, por el solo ministerio de la ley, con todas sus facultades y obligaciones, por el abogado asistente perteneciente a la misma fiscalía, designado por el Fiscal Regional.
+
+Si la subrogación a que se refiere el inciso anterior se ejerciera por más de catorce días, el abogado asistente que subrogue al fiscal percibirá una remuneración equivalente a la del fiscal titular por todo el tiempo que dicho profesional hubiere ejercido como subrogante.
+
+En el caso de que persista la circunstancia o el impedimento por más de treinta días, el Fiscal Regional podrá designar a un abogado asistente en calidad de suplente, percibiendo la misma remuneración que le corresponde al titular. Asimismo, podrá contratarse a un abogado quien realizará las labores del abogado asistente que está ejerciendo la suplencia.
+
+Si un cargo de fiscal adjunto se encontrare vacante, el Fiscal Regional podrá designar a un abogado asistente de fiscal en calidad de suplente, percibiendo la misma remuneración que le corresponde al titular. En todo caso, la suplencia no podrá extenderse por más de seis meses, al término de los cuales deberá nombrarse un titular.
 
 Sin perjuicio de su pertenencia a una fiscalía local, en el ejercicio de las tareas que les asigna la ley los fiscales adjuntos podrán realizar actuaciones y diligencias en todo el territorio nacional, de conformidad a las normas generales que establezca el Fiscal Nacional.
 
@@ -492,7 +526,7 @@ Incurrirá en responsabilidad administrativa el jefe de la unidad a la que, en r
 
 La responsabilidad disciplinaria de los fiscales por los actos realizados en el ejercicio de sus funciones podrá hacerse efectiva por la autoridad superior respectiva, de acuerdo con el procedimiento regulado en los artículos siguientes, según corresponda.
 
-Para efecto de lo dispuesto en los incisos segundo y tercero del artículo 132, de los artículos 132 bis y 190 y del inciso primero del artículo 191 del Código Procesal Penal, serán aplicables a los abogados asistentes del fiscal, en lo pertinente, las normas sobre responsabilidad de los fiscales.
+Para efecto de lo dispuesto en el inciso tercero del artículo 2º de esta ley, los incisos segundo y tercero del artículo 132, los artículos 132 bis y 190 y el inciso primero del artículo 191 del Código Procesal Penal, serán aplicables a los abogados asistentes del fiscal, en lo pertinente, las normas sobre responsabilidad de los fiscales.
 
 #### Artículo 49
 
@@ -570,39 +604,39 @@ Son causales de inhabilitación:
 
 1º. Tener el fiscal parte o interés en el caso de cuya investigación se trate;
 
-2º. Ser el fiscal cónyuge o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, de alguna de las partes, de sus representantes legales o de sus abogados;
+2º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, de alguna de las partes, de sus representantes legales o de sus abogados;
 
-3º. Ser el fiscal cónyuge o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, del juez de garantía o de alguno de los miembros del tribunal del juicio oral ante quienes deba desempeñar sus funciones;
+3º. Ser el fiscal cónyuge, conviviente civil, o pariente por consanguinidad o afinidad en cualquiera de los grados de la línea recta y en la colateral por consanguinidad o afinidad hasta el segundo grado inclusive, del juez de garantía o de alguno de los miembros del tribunal del juicio oral ante quienes deba desempeñar sus funciones;
 
 4°. Ser el fiscal tutor o curador de alguna de las partes, albacea de alguna sucesión, o administrador o representante de alguna persona jurídica que sea parte en el caso de cuya investigación se trate;
 
-5°. Tener el fiscal, personalmente, su cónyuge, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado, causa pendiente que deba fallar como juez o investigación que deba dirigir como fiscal, alguna de las partes;
+5°. Tener el fiscal, personalmente, su cónyuge, conviviente civil, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado, causa pendiente que deba fallar como juez o investigación que deba dirigir como fiscal, alguna de las partes;
 
-6°. Ser o haber sido el fiscal, su cónyuge o alguno de sus ascendientes o descendientes, heredero o legatario instituido en testamento por alguna de las partes;
+6°. Ser o haber sido el fiscal, su cónyuge, conviviente civil, o alguno de sus ascendientes o descendientes, heredero o legatario instituido en testamento por alguna de las partes;
 
 7º. Ser alguna de las partes heredero o legatario instituido en testamento por el fiscal;
 
-8°. Tener pendiente alguna de las partes pleito civil o criminal con el fiscal, con su cónyuge, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+8°. Tener pendiente alguna de las partes pleito civil o criminal con el fiscal, con su cónyuge, conviviente civil, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
 El pleito deberá haber sido promovido antes de haberse denunciado el hecho de cuya investigación se trate;
 
-9º. Ser el fiscal socio colectivo, comanditario, de responsabilidad limitada o de hecho de alguna de las partes, serlo su cónyuge o alguno de los ascendientes o descendientes del mismo fiscal, o alguno de sus parientes colaterales dentro del segundo grado;
+9º. Ser el fiscal socio colectivo, comanditario, de responsabilidad limitada o de hecho de alguna de las partes, serlo su cónyuge, conviviente civil, o alguno de los ascendientes o descendientes del mismo fiscal, o alguno de sus parientes colaterales dentro del segundo grado;
 
 10. Tener el fiscal la calidad de accionista de una sociedad anónima que sea parte en el caso de cuya investigación se trate;
 
-11. Tener el fiscal con alguna de las partes amistad que se manifieste por actos de estrecha familiaridad, o tenerla su cónyuge, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado;
+11. Tener el fiscal con alguna de las partes amistad que se manifieste por actos de estrecha familiaridad, o tenerla su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado;
 
 12. Tener el fiscal con alguna de las partes enemistad, odio o resentimiento que haga presumir que no se halla revestido de la debida objetividad;
 
-13. Haber el fiscal, su cónyuge, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada la gratitud del fiscal;
+13. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada la gratitud del fiscal;
 
-14. Haber el fiscal, su cónyuge, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, aceptado, después de iniciada la investigación, dádivas o servicios de alguna de las partes, cualquiera que sea su valor o importancia;
+14. Haber el fiscal, su cónyuge, conviviente civil, alguno de sus ascendientes o descendientes, o alguno de sus parientes colaterales dentro del segundo grado, aceptado, después de iniciada la investigación, dádivas o servicios de alguna de las partes, cualquiera que sea su valor o importancia;
 
 15. Tener alguna de las partes relación laboral con el fiscal o viceversa, y
 
-16. Ser el fiscal deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+16. Ser el fiscal deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge, conviviente civil, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
-Sin embargo, no tendrá aplicación la causal del presente número si fuere parte alguna de las entidades fiscalizadas por la Superintendencia de Seguridad Social, la Superintendencia de Administradoras de Fondos de Pensiones, la Superintendencia de Instituciones de Salud Previsional, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el fiscal o contra alguna otra de las personas señaladas o viceversa.
+Sin embargo, no tendrá aplicación la causal del presente número si fuere parte alguna de las entidades fiscalizadas por la Superintendencia de Seguridad Social, la Superintendencia de Pensiones, la Superintendencia de Salud, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el fiscal o contra alguna otra de las personas señaladas o viceversa.
 
 #### Artículo 56
 
@@ -622,7 +656,7 @@ La información de oficio sobre la concurrencia de una causal de inhabilitación
 
 #### Artículo 59
 
-Las inhabilitaciones que afecten a un fiscal adjunto serán resueltas por el Fiscal Regional respectivo. Las que afecten a un Fiscal Regional serán resueltas por el Fiscal Nacional y las que afecten a este último por tres Fiscales Regionales, designados por sorteo de conformidad al reglamento.
+Las inhabilitaciones que afecten a un fiscal adjunto serán resueltas por el Fiscal Regional respectivo. Las que afecten a un Fiscal Regional serán resueltas por el Fiscal Nacional y las que afecten a este último por tres Fiscales integrantes del Consejo General, excluido el Fiscal Nacional, designados por sorteo de conformidad al reglamento.
 
 Si se rechaza la concurrencia de la causal, el fiscal continuará con la investigación del caso.
 
@@ -640,9 +674,9 @@ No podrán ser fiscales quienes tengan alguna incapacidad o incompatibilidad que
 
 #### Artículo 61
 
-El Fiscal Nacional y los Fiscales Regionales no podrán ser cónyuge del Presidente de la República, ni estar vinculados con él por parentesco de consanguinidad o afinidad en línea recta ni colateral hasta el cuarto grado de consanguinidad o afinidad, o por adopción.
+El Fiscal Nacional y los Fiscales Regionales no podrán ser cónyuge o conviviente civil del Presidente de la República, ni estar vinculados con él por parentesco de consanguinidad o afinidad en línea recta ni colateral hasta el cuarto grado de consanguinidad o afinidad, o por adopción.
 
-Tampoco podrán desempeñarse como fiscales en la Fiscalía Nacional, o dentro de una misma Fiscalía Regional, o en cualquier cargo dentro de una misma fiscalía, los cónyuges y las personas que tengan entre sí los vínculos mencionados en el inciso anterior.
+Tampoco podrán desempeñarse como fiscales en la Fiscalía Nacional, o dentro de una misma Fiscalía Regional, o en cualquier cargo dentro de una misma fiscalía, los cónyuges o convivientes civiles y las personas que tengan entre sí los vínculos mencionados en el inciso anterior.
 
 #### Artículo 62
 
@@ -652,9 +686,9 @@ Las funciones de los fiscales del Ministerio Público son de dedicación exclusi
 
 Los fiscales que se desempeñen en el Ministerio Público estarán afectos a las siguientes prohibiciones:
 
-a) Ejercer la profesión de abogado, salvo que se trate de actuaciones en que estén involucrados directamente sus intereses, los de su cónyuge, sus parientes por consanguinidad en línea recta o quienes se encuentren vinculados a él por adopción;
+a) Ejercer la profesión de abogado, salvo que se trate de actuaciones en que estén involucrados directamente sus intereses, los de su cónyuge, conviviente civil, sus parientes por consanguinidad en línea recta o quienes se encuentren vinculados a él por adopción;
 
-b) Intervenir, en razón de sus funciones, en asuntos en que tengan interés personal o en que lo tengan el cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive;
+b) Intervenir, en razón de sus funciones, en asuntos en que tengan interés personal o en que lo tengan el cónyuge, conviviente civil, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive;
 
 c) Comparecer, sin previa comunicación a su superior jerárquico, ante los tribunales de justicia como parte personalmente interesada, testigo o perito, respecto de hechos de que hubiere tomado conocimiento en el ejercicio de sus funciones, o declarar en procedimiento en que tengan interés el Estado o sus organismos;
 
@@ -668,7 +702,7 @@ g) Usar su autoridad o cargo con fines ajenos a sus funciones;
 
 h) Tomar, en las elecciones populares o en los actos que las preceden, más parte que la de emitir su voto personal; participar en reuniones, manifestaciones u otros actos de carácter político, o efectuar cualquiera actividad de la misma índole dentro del Ministerio Público, e
 
-i) Incurrir, a sabiendas, en alguna causal de inhabilitación, o permitir que incurran en ella su cónyuge o alguno de los parientes que pueden generarla.
+i) Incurrir, a sabiendas, en alguna causal de inhabilitación, o permitir que incurran en ella su cónyuge, conviviente civil, o alguno de los parientes que pueden generarla.
 
 #### Artículo 64
 
@@ -742,7 +776,9 @@ f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni h
 
 Los funcionarios del Ministerio Público, salvo aquellos de exclusiva confianza, serán seleccionados previo concurso público de antecedentes.
 
-Excepcionalmente, por resolución fundada del Fiscal Nacional, podrán utilizarse otros sistemas de selección, los que, en todo caso, deberán garantizar la debida transparencia y objetividad, basándose en la evaluación de los méritos e idoneidad de los postulantes.
+Excepcionalmente, por resolución fundada, el Fiscal Nacional podrá autorizar la realización de concursos internos de funcionarios u otros sistemas de selección, los que en todo caso, deberán garantizar la debida transparencia y objetividad, basándose en la evaluación de los méritos e idoneidad de los postulantes.
+
+En el caso de los concursos internos de funcionarios, éstos se regirán por las bases que, al afecto, el Fiscal Nacional dicte, las que deberán garantizar su publicidad y transparencia. Las bases serán incorporadas en el llamado al concurso interno y contemplarán parámetros objetivos e iguales para todos los funcionarios del país, debiendo considerarse, entre otros, los siguientes: evaluaciones obtenidas; conocimientos específicos del cargo que se trate de proveer; antigüedad en la institución y antigüedad en el grado respectivo, todo conforme al reglamento que sobre esta materia dictará el Fiscal Nacional.
 
 #### Artículo 71
 
@@ -768,7 +804,7 @@ Fiscal Nacional 1 I
 
 Fiscal Regional 18 III
 
-Fiscal Adjunto 647 IV-IX
+Fiscal Adjunto 769 IV-VIII
 
 Funcionarios
 
@@ -782,13 +818,15 @@ Regional 18 III
 
 Jefe de Unidad 73 III-V
 
-Profesionales 975 VI-XI
+Profesionales 1.178 VI-XI
 
-Técnicos 529 IX-XIV
+Técnicos 611 IX-XIV
 
-Administrativos 1.136 XI-XVII
+Administrativos 1.306 XI-XVII
 
-Auxiliares 389 XVIII-XIX
+Auxiliares 389 XVII-XIX
+
+A los profesionales que desempeñen funciones de abogado asistente de fiscal se les asignarán los grados entre el VIII y el XI.
 
 El Fiscal Nacional, teniendo presente las necesidades de funcionamiento del Ministerio Público a nivel nacional y las disponibilidades presupuestarias, determinará anualmente, previo informe del Consejo, la dotación de personal de la institución, incluyendo el número de cargos de planta vacantes que se proveerá, hasta el máximo señalado en cada nivel.
 
@@ -814,7 +852,95 @@ Los Fiscales Regionales tendrán una remuneración equivalente a la del Presiden
 
 La remuneración del fiscal adjunto que se desempeñe como jefe de fiscalía local no podrá ser superior a la del grado IV del escalafón superior del Poder Judicial ni inferior a la del grado V del mismo escalafón, incluidas todas las asignaciones que le correspondan.
 
-Los demás fiscales adjuntos no podrán tener una remuneración superior a la del grado VI ni inferior a la del grado IX del referido escalafón, incluidas todas las asignaciones que les correspondan.
+Los demás fiscales adjuntos no podrán tener una remuneración superior a la del grado VI ni inferior a la del grado VIII del referido escalafón, incluidas todas las asignaciones que les correspondan.
+
+#### Artículo 75 bis
+
+Los fiscales adjuntos que ocupen los grados VIII a VI, inclusive, tendrán un sistema de ascenso, de carácter técnico y reglado, por el cual podrán acceder sucesivamente a grados jerárquicos inmediatamente superiores. Sin perjuicio de lo establecido en el inciso segundo del artículo 75, mediante este sistema de ascenso los fiscales podrán acceder hasta el grado V inclusive, de acuerdo al presente artículo.
+
+Los procesos de promoción interna de que trata este artículo se realizarán cada dos años, mediante un sistema que garantice su publicidad y transparencia, y en ellos obtendrán el respectivo ascenso los fiscales que cumplan los siguientes requisitos:
+
+1) Haber permanecido en el cargo que ocuparen a la fecha de postulación, como mínimo, el número de años que se establece a continuación:
+
+Fiscal Adjunto Grado Antigüedad en el cargo
+
+VI 7
+
+VII 7
+
+VIII 6
+
+2) No haber sido sancionado, durante los últimos dos años, con alguna medida disciplinaria o administrativa.
+
+3) Haber sido calificado, durante los tres últimos años, con una nota promedio en la evaluación de desempeño individual, igual o superior a 95 % de la respectiva escala de evaluación.
+
+4) Haber aprobado, durante su tiempo de permanencia en el respectivo grado, cursos de perfeccionamiento, diplomados o maestrías, o bien aprobar un examen de conocimientos, todo ello en la forma y condiciones que determine el Fiscal Nacional.
+
+En todo caso, en el respectivo proceso de promoción sólo podrá ascender hasta un número de postulantes que no supere el 15% de la planta de fiscales adjuntos. Si se excediere esa cifra, se preferirá a quienes hubieren obtenido mejor nota en la evaluación de desempeño individual, durante los últimos tres años. De continuar la igualdad, se priorizará a los fiscales adjuntos que tengan mayor antigüedad en la institución.
+
+La promoción de los fiscales adjuntos antes señalados se realizará solamente conforme a este artículo.
+
+#### Artículo 75 ter
+
+Los profesionales, los técnicos, los administrativos y los auxiliares, con contrato indefinido del Ministerio Público y que no sean de exclusiva confianza, tendrán un sistema de ascenso, de carácter técnico y reglado, por el cual podrán acceder sucesivamente a grados jerárquicos inmediatamente superiores en su respectiva planta de personal.
+
+Los procesos de promoción interna de que trata el presente artículo se realizarán cada dos años, mediante un sistema que garantice su publicidad y transparencia, y en ellos obtendrán el respectivo ascenso los funcionarios señalados en el inciso anterior que cumplan los siguientes requisitos:
+
+1) Haber permanecido en el cargo que ocuparen a la fecha de postulación, como mínimo, el número de años que se establece a continuación:
+
+PROFESIONAL Grado Antigüedad en el cargo
+
+VII 7
+
+VIII 7
+
+IX 6
+
+X 5
+
+XI 4
+
+TÉCNICO Grado Antigüedad en el cargo
+
+X 7
+
+XI 7
+
+XII 6
+
+XIII 5
+
+XIV 4
+
+ADMINISTRATIVO Grado Antigüedad en el cargo
+
+XII 7
+
+XIII 7
+
+XIV 7
+
+XV 6
+
+XVI 5
+
+XVII 4
+
+AUXILIAR Grado Antigüedad en el cargo
+
+XVIII 7
+
+XIX 6
+
+2) No haber sido sancionado, durante los últimos dos años, con alguna medida disciplinaria o administrativa.
+
+3) Haber sido calificado, durante los tres últimos años, con una nota promedio en la evaluación de desempeño individual, igual o superior a 95 % de la respectiva escala de evaluación.
+
+4) Haber aprobado, durante su tiempo de permanencia en el respectivo grado, cursos de perfeccionamiento, diplomados o maestrías, o bien aprobar un examen de conocimientos, todo ello en la forma y condiciones que determine el Fiscal Nacional.
+
+En todo caso, en el respectivo proceso de promoción sólo podrá ascender hasta un número de postulantes que no supere el 15% de la respectiva planta de personal. Si se excediere esa cifra, se preferirá a quienes hubieren obtenido mejor nota en la evaluación de desempeño individual, durante los últimos tres años. De continuar la igualdad, se priorizará a los funcionarios que tengan mayor antigüedad en la institución.
+
+La promoción de los funcionarios antes señalados se realizará conforme a las reglas de este artículo, sin perjuicio de que puedan postular a concursos internos.
 
 #### Artículo 76
 
@@ -844,7 +970,7 @@ Grados XI a XVII del escalafón de empleados, sin asignación profesional.
 
 Nivel 5, Auxiliares:
 
-Grados XVIII a XIX del escalafón de empleados, sin asignación profesional.
+Grados XVII a XIX del escalafón de empleados, sin asignación profesional.
 
 #### Artículo 77
 
@@ -971,6 +1097,18 @@ El Ministerio Público se sujetará a las normas de la Ley de Administración Fi
 La Ley de Presupuestos del Sector Público deberá consultar anualmente los recursos necesarios para el funcionamiento del Ministerio Público.
 
 Para estos efectos, el Fiscal Nacional comunicará al Ministerio de Hacienda las necesidades presupuestarias del Ministerio Público dentro de los plazos y de acuerdo con las modalidades establecidas para el sector público.
+
+## Título IX
+
+PLAN INSTITUCIONAL ANUAL
+
+#### Artículo 91
+
+El Ministerio Público, en el mes de abril de cada año, deberá publicar en su página web un Plan Institucional Anual que contenga, entre otros: la misión, las principales líneas de acción, los objetivos estratégicos, los bienes o servicios y los indicadores de desempeño o elementos de similar naturaleza que posibiliten la medición del grado de cumplimiento en sus distintas líneas de acción, y por región, dando cuenta del cumplimiento efectivo de su misión institucional, esto es, la eficiencia y eficacia en la persecución penal y el mejoramiento en la atención de víctimas, junto con la evaluación del grado de cumplimiento del Plan Institucional Anual del año anterior.
+
+Un reglamento interno, el que deberá dictarse dentro de los ciento ochenta días contados desde la entrada en vigencia del presente Título, regulará el procedimiento de elaboración y los contenidos específicos del Plan.
+
+El Fiscal Nacional dará cuenta pública de los resultados del Plan Institucional Anual de conformidad al artículo 21. Además, la referida cuenta se publicará en la página web institucional.
 
 ## Artículos transitorios
 
