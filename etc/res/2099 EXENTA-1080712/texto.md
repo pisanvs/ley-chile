@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN NÚMERO 2.099 EXENTA, DE 2015
+
+Por resolución exenta Nº 2099 de fecha 13 de julio de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprobaron los planes y programas de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores no Profesionales o Clase B "Escuela de Conductores Ruta Cinco Limitada", cuyo nombre de fantasía es "Escuela de Conductores Ferrari Ltda.", RUT Nº 77.407.110-5, representada legalmente por doña María Antonieta Leiva Torres, RUN Nº 10.038.170-2, siendo su Director el Sr. Marcos Arancibia Cavieres, RUN Nº 10.594.490-K, la que tendrá su lugar de funcionamiento en la sede ubicada en Las Araucarias Nº 1370, El Rayado, comuna de La Ligua. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas, 12 horas prácticas, con un total de 22 horas pedagógicas.
+
+Patricio Cannobbio Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Valparaíso.
