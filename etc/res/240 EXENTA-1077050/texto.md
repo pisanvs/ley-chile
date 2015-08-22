@@ -78,15 +78,25 @@ a) Dispóngase el uso de mascarillas en pacientes crónicos, adultos mayores, ni
 
 b) Recomiéndase mantener controles de salud y vacunas al día en niños, adultos mayores y gestantes, además de evitar la exposición a humo de tabaco y en general a la contaminación atmosférica ambiental.
 
-c) Prohíbase la realización de clases de educación física en los establecimientos educacionales de cualquier nivel.
+c) Prohíbase la realización de actividades físicas de mediana y alta intensidad en clases de educación física en los establecimientos educacionales de cualquier nivel.
 
 d) Prohíbase el funcionamiento de fuentes fijas en organismos de la administración del Estado, que usen como combustible leña. Exceptúese aquellas fuentes fijas que usen pellets o briquetas. Además, se exceptúan de esta prohibición los Establecimientos Educacionales y recintos Asistenciales de Salud, dependientes de organismos de la administración del Estado.
 
-e) Prohíbase el funcionamiento de más de una fuente fija particular o comunitaria de calefacción, en horario de 16:00 a 23:59 horas, que usen como combustible leña. Exceptúese aquellas fuentes fijas que usen pellets o briquetas.
+e) Prohíbase el funcionamiento de más de una fuente fija particular o comunitaria, en horario de 16:00 a 23:59 hrs., que usen como combustible leña. Exceptúense aquellas fuentes fijas que usen pellets o briquetas.
 
 f) Recomiéndase a la población de la ciudad de Coyhaique usar leña seca y picada, hacer mantenimiento regular a los equipos que utilicen leña, mantener la leña encastillada bajo techo o cubierta y protegida de la humedad del suelo.
 
 g) Prohíbase la realización de actividades físicas al aire libre.
+
+h) Prohíbase la incineración libre, sea en la vía pública o en los recintos privados, de hojas secas, basuras u otros desperdicios, así como la autorización de "quemas controladas"; de conformidad con el decreto supremo 276/1980; en el polígono definido por el decreto 33/2012; que declara a la ciudad de Coyhaique como zona saturada, cuyos límites geográficos son los siguientes y que se aprecian en documento anexo a la presente resolución:
+
+La delimitación de la Zona Saturada inicia en el Río Simpson (vértice 1: UTM E= 723486; UTM N= 4943078,20), luego se extiende hacia el Este hasta el Cerro Castillo (vértice 2: UTM E= 731818,56; UTM N= 4943603,91).
+
+Luego, sigue en dirección hacia el Noreste llegando a la intersección con el cruce R240/x-589 (vértice 3: UTM E= 739907,45; UTM N= 4951444,12).
+
+Sigue hacia el Noreste hasta llegar a la Laguna Verde (vértice 4: UTM E= 731661,85; UTM N= 4953758,26).
+
+Continúa hacia el Noroeste hasta la central Eólica Alto Baguales (vértice 5: UTM E= 725844,61; UTM N= 4954413,09) finalmente, se extiende hacia el Suroeste alcanzando al vértice 1, el cual corresponde al Río Simpson.
 
 Tercero: En episodios de emergencia ambiental, definido en el considerando 3º de la parte considerativa de la presente resolución, dispóngase las siguientes medidas:
 
@@ -100,7 +110,7 @@ d) Prohíbase el funcionamiento de chimeneas de hogar abierto, con fines de cale
 
 Cuarto: Dispóngase las más amplia difusión de las presentes medidas.
 
-Quinto: Dispóngase que las medidas indicadas para los estados de Preemergencia y Emergencia operarán desde las 8:00 horas y hasta las 7:59 del día siguiente, conforme a las mediciones obtenidas del Sistema de Información Nacional de Calidad del Aire. Tales medidas estarán dispuestas diariamente para conocimiento público en el sitio web institucional de la Seremi de Salud Aysén www.seremidesaludaysen.gov.cl, a las 8:00 AM.
+Quinto: Dispóngase que las medidas indicadas para los estados de Pre-emergencia y Emergencia, serán establecidas por la SEREMI de Salud, el día anterior al día en que rija la medida, y operarán desde las 00:00 horas y hasta las 23:59 horas del día respectivo, conforme a la evaluación efectuada por los equipos técnicos de la SEREMI de Salud, obtenida del Sistema de Información Nacional de Calidad del Aire, información meteorológica e información proporcionada por la Secretaría Regional Ministerial del Medio Ambiente. Tales medidas serán publicadas a las 17:30 horas, diariamente, para conocimiento público, en el sitio web de la SEREMI de Salud de Aysén www.seremidesaludaysen.gov.cl, y a través de los medios de comunicación locales.
 
 Sexto: Publíquese la presente resolución en el Diario Oficial.
 
