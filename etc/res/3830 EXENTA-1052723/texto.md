@@ -60,7 +60,7 @@ Resuelvo:
 
 "Las plantas para plantar provienen de la Empresa Barberet & Blanc S.A., reconocida por SAG-Chile, encontrándose libres de: Liriomyza trifolii (Dip., Agromyzidae), Bemisia argentifolii (Hem., Aleyrodidae), Epichoristodes acerbella (Lep., Tortricidae), Cacoecimorpha pronubana (Lep., Tortricidae), Mamestra brassicae (Lep., Noctuidae), Carnation Ringspot virus, Erwinia chrysantemi, Phialophora cinerescens y Xiphinema diversicaudatum".
 
-3. El período de vigencia del reconocimiento del Centro de Producción Barberet & Blanc S.A., código ES-14-30-2443, tendrá una validez de dos años y podrá ser prorrogada basándose en informes periódicos con evaluación positiva enviados por la ONPF de España y los resultados de las inspecciones fitosanitarias del SAG en el puerto de ingreso.
+3. El reconocimiento del Centro de Producción Barberet & Blanc S.A. código ES-14-30-2443, para el envío de esquejes de clavel (Dianthus spp.) desde España a Chile, tendrá validez hasta el 31 de diciembre de 2015.
 
 4. El Centro de Producción podrá perder su condición de Reconocido, hecho que se establecerá mediante resolución fundada, en caso que la inspección de rutina en el punto de ingreso detecte la presencia de plagas calificadas como cuarentenarias e identificadas mediante Análisis Oficial de Laboratorio, u otra que el Servicio determine.
 
