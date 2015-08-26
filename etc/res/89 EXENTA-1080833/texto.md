@@ -1,0 +1,5 @@
+INCORPORA PERFIL A "CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA"
+
+Por resolución exenta Nº 89, de 10 de abril de 2015, rectificada por resolución exenta Nº 212 de 23 de julio de 2015 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se incorpora al alcance de la acreditación otorgada mediante resolución exenta Nº 158, de 17 de abril de 2013, ampliado mediante resoluciones exentas Nº 321 de 27 de noviembre de 2014 y 390 de 29 de diciembre de 2014 al "Centro de Evaluación y Certificación de Competencias Laborales Universidad Técnica Federico Santa María, RUT Nº 81.668.700-4, el siguiente perfil ocupacional del Sector Construcción, Subsector Instalaciones Eléctricas, de Gasfitería y Climatización: Instalador Eléctrico Clase D (P-4322-7411-001-V02).
+
+Ximena Concha Bañados, Secretaria Ejecutiva Comisión del Sistema Nacional de Certificación de Competencias Laborales.
