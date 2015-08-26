@@ -656,6 +656,120 @@ Sanvitalia procumbens Asteraceae
 
 Scabiosa causasica Dipsaceae
 
+Adansonia digitata L. Malvaceae
+
+Anemone coronaria L. Ranunculaceae
+
+Aristida purpurea Nutt. Poaceae
+
+Calamagrosti sarundinacea
+
+L. ) Roth, Poaceae
+
+Calamagrostis epigejos
+
+(L.) Roth Poaceae
+
+Dasylirion quadrangulatum
+
+S.Watson Asparagaceae
+
+Dioon edule Lindl. Zamiaceae
+
+Dioon spinulosum Dyer
+
+ex Eichler Zamiaceae
+
+Echium plantagineum L. Boraginaceae
+
+Echium vulgare L. Boraginaceae
+
+Juncus tenuis Willd. Juncaceae
+
+Macrozamia communis
+
+L.A.S. Johnson Zamiaceae
+
+Malcolmia marítima
+
+(L.) W. T. Aiton
+
+(Sin: Cheiranthus maritimusL) Brassicaceae
+
+Nolina durangensis Trel. Asparagaceae
+
+Osteospermum spp Asteraceae
+
+Paeonia rockii (S.G.Haw
+
+& Lauener) T.Hong & J.J.Li Paeoniaceae
+
+Parajubea torallyi
+
+(G.Martens) Burret Arecaceae
+
+Paulownia tomentosa
+
+(Thunb.) Steud. Paulowniaceae
+
+Pentas lanceolata
+
+(Forssk.) Deflers Rubiaceae
+
+Phedimus hybridus (L.)
+
+'t Hart (Sin.: Sedum
+
+hybridum L.) Crassulaceae
+
+Phedimus kamtschaticus
+
+(Fisch.) 't Hart (Sin.:
+
+Sedum kamtschaticum
+
+Fisch.) Crassulaceae
+
+Phedimus middendorffianus
+
+(Maxim.) 't Hart
+
+(Sin.: Sedum middendorffianum) Crassulaceae
+
+Ptilotus exaltatus Nees Amaranthaceae
+
+Ravenea rivularis Jum.
+
+& H.Perrier Arecaceae
+
+Reseda tutea L. Resedaceae
+
+Sedum acre L. Crassulaceae
+
+Sedum stefco Stef. Crassulaceae
+
+Sedum telephium L.
+
+(Sin.: Sedum purpurascens
+
+W. D. J. Koch; Hylotelephium
+
+telephium (L.) H. Ohba
+
+subsp. telephium) Crassulaceae
+
+Tropaeolum peregrinum L. Tropaeolaceae
+
+Yucca rigida (Engelmann)
+
+ex Trelease Asparagaceae
+
+Yucca rostrata Engelmann
+
+ex Trelease Asparagaceae
+
+Zelkova spp. Ulmaceae
+
 2. Las semillas de las especies ornamentales que a continuación se detallan, deben estar amparadas por el Certificado Fitosanitario emitido por la Organización Nacional de Protección Fitosanitaria del país de origen, el que debe contener las declaraciones adicionales que se señalan:
 
 ESPECIE FAMILIA DECLARACION ADICIONAL
@@ -920,19 +1034,21 @@ Trithrinax campestres.
 
 3. Las semillas deben encontrarse libres de suelo y de semillas de malezas cuarentenarias y no cuarentenarias reglamentadas, condición que se verificará en la inspección fitosanitaria en el puerto de ingreso.
 
-4. En los casos en que se requiera como declaración adicional que el envío se encuentre libre de una plaga, se aceptará como tal, la declaración que las semillas provienen de un área o país libre de la plaga respectiva.
+4. En el caso de semillas de las especies Anemone coronaria, Paeonia rockii y Pentas lanceolata, el envío deberá venir libre de restos vegetales.
 
-5. Para el ingreso de especies no incluidas en esta resolución, y para aquellas que han sido objeto de modificaciones genéticas, se requerirá la autorización del Servicio, previo el Análisis de Riesgo correspondiente.
+5. En los casos en que se requiera como declaración adicional que el envío se encuentre libre de una plaga, se aceptará como tal, la declaración que las semillas provienen de un área o país libre de la plaga respectiva.
 
-6. Los germoplasmas y muestras para evaluación deberán someterse a los mismos requerimientos que las partidas comerciales. Sin embargo, el ingreso de material destinado a investigación, podrá ser autorizado por el Servicio sin un Análisis de Riesgo, previa evaluación de las condiciones de bioseguridad.
+6. Para el ingreso de especies no incluidas en esta resolución, y para aquellas que han sido objeto de modificaciones genéticas, se requerirá la autorización del Servicio, previo el Análisis de Riesgo correspondiente.
 
-7. Para la internación de las semillas de las especies Echinocereus ferreirianus ssp. Lindsayi y Echinocereus schmollii, deberá darse cumplimiento a lo establecido en la Convención sobre Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre (CITES).
+7. Los germoplasmas y muestras para evaluación deberán someterse a los mismos requerimientos que las partidas comerciales. Sin embargo, el ingreso de material destinado a investigación, podrá ser autorizado por el Servicio sin un Análisis de Riesgo, previa evaluación de las condiciones de bioseguridad.
 
-8. A su arribo al país, las semillas serán inspeccionadas por los profesionales del Servicio destacados en el puerto habilitado de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias y, con la documentación adjunta, resolverán su internación.
+8. Para la internación de las semillas de las especies Echinocereus ferreirianus ssp. Lindsayi, Echinocereus schmollii y Ravenea rivularis, deberá darse cumplimiento a lo establecido en la Convención sobre Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre (CITES).
 
-9. Deróganse las Resoluciones de este Servicio Nos 1.144 del 13 de mayo de 1981, 898 del 16 de junio de 1982, y 2.012 del 25 de septiembre de 1987 y sus modificaciones.
+9. A su arribo al país, las semillas serán inspeccionadas por los profesionales del Servicio destacados en el puerto habilitado de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias y, con la documentación adjunta, resolverán su internación.
 
-10. La presente Resolución entrará a regir 30 días después de su publicación en el Diario Oficial.
+10. Deróganse las Resoluciones de este Servicio Nos 1.144 del 13 de mayo de 1981, 898 del 16 de junio de 1982, y 2.012 del 25 de septiembre de 1987 y sus modificaciones.
+
+11. La presente Resolución entrará a regir 30 días después de su publicación en el Diario Oficial.
 
 11. Los tratamientos de fumigación deberán estar detallados en la sección correspondiente del Certificado Fitosanitario, especificando forma de aplicación, producto químico empleado, dosis, tiempo de exposición, temperatura de aplicación, en los casos que corresponda.
 
