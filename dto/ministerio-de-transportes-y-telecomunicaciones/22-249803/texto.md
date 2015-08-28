@@ -100,6 +100,8 @@ Podrán utilizar dispositivos luminosos, fijos o giratorios, de luces intermiten
 
 - Vehículos utilizados por la Oficina Nacional de Emergencia (Onemi) que circulen para atender las emergencias, desastres y catástrofes que puedan ocurrir dentro del territorio nacional.
 
+- Vehículos utilizados por el Servicio Médico Legal para el traslado de personas fallecidas.
+
 #### Artículo 9º
 
 Los vehículos motorizados, que en su fabricación hayan sido dotados de luces de circulación diurna podrán utilizarlas.
