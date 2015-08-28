@@ -1006,9 +1006,11 @@ naves.
 
 23.Paso Buta Mallin Permanente Paso de personas e
 
-37º12'24" importación, exportación
+37º12'24" importación,
 
-71º07'06" y tránsito de graneles
+71º07'06" exportación y
+
+tránsito de graneles
 
 líquidos y gaseosos.
 
@@ -1017,6 +1019,14 @@ líquidos y gaseosos.
 39°07' S (Rogativas Indígenas)
 
 71°25' W"
+
+25. Aeródromo La Permanente Paso de personas y
+
+Araucanía todo tipo de
+
+38º55'33.24" S operaciones
+
+72º39'05.73" W aduaneras
 
 L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
@@ -1611,6 +1621,44 @@ las localidades de
 Posesión en Chile y el
 
 Cóndor en Argentina
+
+31. Puerto Otway
+
+52º56,5'S
+
+71º43,5'W
+
+Permanente
+
+Paso de personas y
+
+todo tipo de
+
+operaciones
+
+aduaneras
+
+32. Terminal
+
+Marítimo
+
+Patagonia
+
+Sur Ltda.
+
+51º41'51" S
+
+72º31'32" W
+
+Permanente
+
+Paso de personas y
+
+todo tipo de
+
+operaciones
+
+aduaneras
 
 > **Nota.** El DTO 29 EXENTO, Hacienda, publicado el12.02.1999 agregó un nuevo punto habilitado con el Nº 23. Con anterioridad el DTO 377 Exento, Hacienda, publicado el 23.12.1998, agregó un punto habilitado con el mismo numeral.
 
