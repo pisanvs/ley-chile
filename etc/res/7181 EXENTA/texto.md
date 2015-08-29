@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 7.181 EXENTA, DE 2015
+
+Por resolución exenta Nº 7.181 de 10 de agosto de 2015, de este Servicio, conforme lo dispuesto en el artículo 28 inciso tercero, letra a), del DFL Nº 5 del año 1983, y sus modificaciones, del actual Ministerio de Economía, Fomento y Turismo, y con el objeto de fiscalizar las zonas de uso exclusivo para la pesca artesanal establecidas en los artículos 47 y 47 bis de La Ley General de Pesca y Acuicultura, se procedió a determinar las franjas de mar territorial de una y cinco millas medidas desde las líneas de base normales, a partir del límite norte de la República y hasta el paralelo 43º25'42" de latitud sur, con la finalidad de incorporarlas en la cartografía del software de Monitoreo Satelital de Naves Pesqueras, empleado actualmente por la Dirección General del Territorio Marítimo y de Marina Mercante, como por el Servicio Nacional de Pesca y Acuicultura.
+
+El texto íntegro de la resolución indicada, se encuentra publicado con esta fecha en el sitio de dominio electrónico del Servicio Nacional de Pesca y Acuicultura.
+
+En Valparaíso, a 10 de agosto de 2015.- José Miguel Burgos González, Director Nacional, Servicio Nacional de Pesca y Acuicultura.
