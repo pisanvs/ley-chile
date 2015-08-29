@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A FERBOCAR CHILE CONSTRUCCIONES S.A.
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII, por resolución exenta Nº 77315048078, de fecha 29/07/2015, otorga a contar del 1º del mes siguiente al de esta publicación en el Diario Oficial, a Ferbocar Chile Construcciones S.A., RUT Nº 76.247.945-1, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de servicios referidas a la ejecución de contratos de Instalación o Confección de Especialidades y a Contratos Generales de Construcción, incluidos los movimientos de tierra, conforme lo establecido en la resolución exenta Nº 142, de fecha 26-12-2005, de la Dirección Nacional del Servicio, publicada en el Diario Oficial del día 29-12-2005.
+
+Claudio Ambiado Araya, Director Regional.
