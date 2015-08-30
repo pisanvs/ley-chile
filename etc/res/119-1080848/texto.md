@@ -1277,3 +1277,33 @@ Las vías colectoras en la provincia de Limarí serán las siguientes:
 ### 2. Publíquese en el Diario Oficial el texto íntegro de esta resolución
 
 Anótese, tómese razón, comuníquese, publíquese y archívese.- Hanne Utreras Peyrin, Intendente Regional, Gobierno Regional de Coquimbo.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+Contraloría Regional de Coquimbo
+
+Unidad Jurídica
+
+Cursa con alcance la resolución N° 119, de 2014, del Gobierno Regional de Coquimbo
+
+N° 1.501.- La Serena, 31 de marzo de 2015.
+
+Esta Entidad de Control ha dado curso a la resolución del epígrafe, que pro¬mulga el Plan Regulador Intercomunal de la Provincia de Limarí, por encontrarse ajustada a derecho, pero cumple con hacer presente que, de acuerdo a los antecedentes acompañados, se entiende que:
+
+1. El quinto tramo de la vía colectora D- 597 llega hasta el límite Norponiente de la zona ZEU 4, acorde se grafica en el plano PRIL-04 que se viene aprobando, y no como se anota en el pertinente cuadro de vialidad del "ARTÍCULO TRANSITORIO 18 VIALIDAD ESTRUCTURANTE" de la Ordenanza Local (OL).
+
+2. La vía troncal RP-1 comienza en la intersección con la Ruta 5, según se grafica en el plano PRIL-02 y no de la forma en que se señala en el respectivo cuadro de vialidad del artículo 33 de la OL.
+
+3. La denominación "Subcategoría: Equipamiento de Culto y Devoción" de la Zona ZP-PC del artículo 27 de la OL corresponde a la clasificación que efectúa el instrumento de planificación en examen en función de las características de los monumentos nacionales que se reconocen en dicha zona.
+
+4. Los usos de suelo permitidos en el Área Rural 1 (AR-1), regulada en el artículo 31 de la OL, son sin perjuicio de lo previsto en el inciso primero del artículo 55 de la Ley General de Urbanismo y Construcciones, aprobada por el decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, según el cual, fuera de los límites urbanos pueden construirse conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el Subsidio del Estado, y en los términos que indica.
+
+Con los alcances que anteceden, se ha tomado razón del acto administrativo del rubro.- Saluda atentamente a Ud., Eduardo Díaz Araya, Contralor Regional de Coquimbo, Contraloría General de la República.
+
+A la señora
+
+Intendente
+
+Gobierno Regional de Coquimbo
+
+Presente.
