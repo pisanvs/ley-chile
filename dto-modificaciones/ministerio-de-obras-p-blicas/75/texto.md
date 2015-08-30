@@ -252,7 +252,9 @@ licitación.
 
 El costo preliminar aproximado previsto por el
 
-Ministerio para una obra.
+Ministerio para una obra, excluido el
+
+Impuesto al Valor Agregado.
 
 24) Presupuesto Oficial:
 
@@ -262,7 +264,9 @@ Ministerio, de las cantidades, precios
 
 unitarios y precio total previsto para una obra
 
-y que representa su opinión sobre su valor.
+y que representa su opinión sobre su valor,
+
+excluido el Impuesto al Valor Agregado.
 
 25) Licitación:
 
@@ -682,7 +686,7 @@ Cada registro estará, a su vez, dividido en tres categorías, atendiendo a la e
 
 #### Artículo 10
 
-Para obras cuyo presupuesto estimativo exceda en un 30% el límite superior fijado para las primeras categorías de los registros, las Direcciones abrirán en cada oportunidad un Registro Especial de acuerdo con las bases que se fijen en cada caso.
+Para obras cuyo presupuesto estimativo exceda de 480.000 Unidades Tributarias Mensuales, las Direcciones abrirán en cada oportunidad un Registro especial de acuerdo con las bases que se fijen en cada caso.
 
 Las Direcciones podrán abrir Registros Especiales, aun cuando el presupuesto estimativo sea inferior al indicado en el inciso anterior, en aquellos casos en que las características técnicas de la obra o condiciones especiales para su construcción u otra circunstancia aconsejen, a su juicio, adoptar esta medida. En este caso el Jefe del Departamento de Registros de la Dirección General de Obras Públicas verificará, certificará e informará fundadamente que no es técnicamente factible usar uno o más de los registros existentes. El Departamento de Registros deberá llevar un registro de las obras para las cuales se creó este Registro Especial, en el cual se identifiquen claramente las condiciones especiales de la obra, las circunstancias que el Servicio tuvo en consideración para recurrir a este Registro Especial, registros involucrados en los trabajos realizados para el desarrollo de la obra y mediante los cuales se llamó a licitación, proponentes precalificados, contratista que se adjudicó el contrato y el desempeño obtenido en él, incluyendo la calificación obtenida.
 
@@ -1004,7 +1008,7 @@ Para los diversos registros, se considerarán como obras de primera, segunda y t
 
 El contratista al momento de su inscripción en el Registro de Obras Mayores, deberá acreditar tener una capacidad económica mínima equivalente al 15% de los límites superiores señalados en el artículo 28 para cada categoría de obra.
 
-El Ministerio de Obras Públicas podrá llamar a licitación como obras de primera categoría, - sin recurrir a Registros Especiales - , para la contratación de obras cuyo valor exceda hasta en un 30% los límites superiores de las primeras categorías señaladas para cada tipo de registro.
+El Ministerio de Obras Públicas podrá llamar a licitación como obras de primera categoría -sin recurrir a Registros Especiales- para la contratación de obras cuyo presupuesto estimativo no exceda de 480.000 Unidades Tributarias Mensuales; pudiendo las empresas, con registro vigente en dicha categoría, constituir un consorcio regido por el artículo 11 de este Reglamento, permitiendo complementar sus capacidades económicas, para participar en el proceso de licitación.
 
 Para acreditar la capacidad económica mínima exigida, el contratista deberá presentar estados financieros preparados conforme a principios contables generalmente aceptados, con revisión efectuada por auditores externos con inscripción vigente en la Superintendencia de Valores y Seguros.
 
@@ -1533,6 +1537,10 @@ Las bases administrativas indicarán la categoría de cada registro, con sujeci�
 Los contratistas inscritos en una categoría del registro, superior a la indicada en las bases de una licitación, podrán también participar en dicha licitación.
 
 Los contratistas inscritos en el Registro de Obras Mayores quedarán habilitados para desempeñarse como contratistas de Obras Menores en los registros equivalentes definidos en la tabla de equivalencias entre registros de contratistas, que se menciona en el artículo 63 de este Reglamento.
+
+Los contratistas de cada categoría en que se divide el registro de obras mayores, que no sea la primera, y de cada categoría en que se divide el registro de obras menores, podrán postular a licitaciones y a contratos cuyo presupuesto estimativo corresponda hasta un máximo de un 30% del rango que conforma la categoría inmediatamente superior a aquella en que se encontraren registrados.
+
+Para ejercer la facultad establecida en el inciso anterior, dos o más contratistas inscritos en una misma categoría podrán constituir un consorcio para alcanzar la capacidad económica requerida por la obra correspondiente.
 
 #### Artículo 70
 
