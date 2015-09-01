@@ -22,7 +22,7 @@ Decreto:
 
 #### Artículo 1º
 
-Créase una comisión asesora del Presidente de la República, para el establecimiento de un "Sistema Integrado de Comercio Exterior", en adelante la "Comisión", que tendrá la misión de asesorarlo en todo cuanto diga relación con la identificación, formulación y ejecución de planes, programas, medidas y demás actividades relativas al diseño y desarrollo de un sistema integrado de comercio exterior y a servir de instancia de coordinación entre los organismos con competencias asociadas a estas materias.
+Créase una comisión asesora del Presidente de la República, para el establecimiento de un "Sistema Integrado de Comercio Exterior", en adelante la "Comisión", que tendrá la misión de asesorarlo en todo cuanto diga relación con la identificación, formulación y ejecución de planes, programas, medidas y demás actividades relativas al diseño operación, mantención y desarrollo de un sistema integrado de comercio exterior y a servir de instancia de coordinación entre los organismos con competencias asociadas a estas materias.
 
 #### Artículo 2º
 
@@ -34,23 +34,27 @@ b) Estudiar la legislación nacional vigente aplicable en la materia y proponer 
 
 c) Servir de instancia de colaboración en la coordinación de los organismos públicos que tengan competencias asociadas a los procesos y operaciones de comercio exterior, en especial para la preparación de propuestas de facilitación y simplificación de procesos y para la aplicación de las medidas que en el marco de la Comisión se acuerden;
 
-d) Elaborar y entregar al Presidente de la República un primer informe 120 días después de constituida formalmente la Comisión, un segundo informe en diciembre de 2011 y un informe final en diciembre de 2012, que contenga una evaluación de los avances alcanzados por la Comisión, el nivel de desempeño de la institucionalidad del comercio exterior y las recomendaciones para su desarrollo, además de los informes específicos que se requieran o emanen del desarrollo de sus tareas, y
+d) Elaborar y entregar al Presidente de la República un informe anual, que contenga una evaluación de los avances alcanzados por la Comisión, el nivel de desempeño de la institucionalidad y desarrollos tecnológicos asociados al "Sistema Integrado de Comercio Exterior", implementados en el periodo y las metas asociadas a su desarrollo en el año siguiente, además de los informes específicos que le sean requeridos en relación con su misión.
 
-e) Las demás tareas que sean necesarias y pertinentes para el cumplimiento de su cometido de asesoría al Presidente de la República.
+e) Articular la interrelación entre el sector privado y los organismos públicos con competencias en materias de comercio exterior, en torno a los objetivos descritos en su misión.
+
+f) Las demás tareas que sean necesarias y pertinentes para el cumplimiento de su cometido de asesoría al Presidente de la República.
 
 #### Artículo 3º
 
 La Comisión estará integrada por los siguientes miembros:
 
-a) El Subsecretario de Hacienda, quien la presi-dirá;
+a) El Subsecretario de Hacienda, quien la presidirá;
 
 b) El Subsecretario de Relaciones Exteriores;
 
 c) El Subsecretario de Economía y Empresas de Menor Tamaño;
 
-d) La Subsecretaria de Salud Pública, y
+d) El Subsecretario de Salud Pública;
 
-e) El Subsecretario de Agricultura.
+e) El Subsecretario de Agricultura;
+
+f) El Subsecretario de Minería.
 
 Sin perjuicio de lo anterior, la Comisión podrá convocar e invitar a participar a otros funcionarios de la Administración del Estado, así como a personalidades de reconocida competencia de los ámbitos político, social, científico o académico.
 
