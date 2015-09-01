@@ -1,0 +1,5 @@
+INCORPORA PERFIL A "ASOCIACIÓN DE EMPRESAS ELÉCTRICAS A.G."
+
+Por resolución exenta Nº 88, de 10 de abril de 2015, rectificada por resolución exenta Nº 212 de 23 de julio de 2015 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se incorpora al alcance de la acreditación otorgada mediante resolución exenta Nº 446, de 14 de diciembre de 2012, a la "Asociación de Empresas Eléctricas A.G., RUT Nº 70.022.920-3, el siguiente perfil ocupacional del Sector Construcción, Subsector Instalaciones Eléctricas, de Gasfitería y Climatización: Instalador Eléctrico Clase D (P-4322-7411-001-V02).-
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
