@@ -28,7 +28,7 @@ Resuelvo:
 
 1º Prohíbese la circulación de vehículos motorizados de cuatro o más ruedas, de acuerdo al último dígito de su placa patente única.
 
-2º Esta restricción regirá desde su publicación en el Diario Oficial, y se extenderá hasta el día 31 de agosto de 2015.
+2º Esta restricción regirá desde su publicación en el Diario Oficial, y se extenderá hasta el día 30 de septiembre de 2015.
 
 3º La medida será aplicable de lunes a viernes, excepto días festivos, entre las 08:00 y las 20:00 horas, en toda el área urbana de la comuna de Copiapó de acuerdo al siguiente calendario:
 
