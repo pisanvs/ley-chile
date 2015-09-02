@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN DE INMUEBLE QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.728 del 17 de agosto de 2015, SERVIU Región del Libertador General Bernardo O'Higgins, ordenó la expropiación total de un inmueble ubicado en Avenida El Sol s/n esquina suroriente Av. La Victoria, comuna de Rancagua, Rol de Avalúo Nº 9050-01, superficie a expropiar 5.119,09 m&sup2; aproximadamente de terreno, delimitada en polígono respectivo, conforme al plano aprobado por Rodrigo Alvarez Alfaro, Arquitecto, Programa de Recuperación de Barrios, Barrio La Victoria, comuna de Rancagua, por el encargado de la Unidad de Estudios y Proyectos, y por el Jefe del Departamento Técnico del SERVIU VI Región. De aparente dominio de Transportes Guidexe Limitada, inscrito a fojas 1932 Nº 1106 del Registro de Propiedad del Conservador de Bienes Raíces de Rancagua del año 2004. Comisión Tasadora, integrada por Alejandra Quintanilla Guerra, Ingeniero Agrónomo; Carlos Henríquez Durán, Arquitecto y Manuel San Martín Vargas, Constructor Civil, según informe de fecha 1 de abril de 2015. Monto provisional $150.849.344, cuyo pago se realizará mediante depósito en cuenta corriente del Tribunal correspondiente.
+
+Director SERVIU Región Libertador Bernardo O' Higgins.
