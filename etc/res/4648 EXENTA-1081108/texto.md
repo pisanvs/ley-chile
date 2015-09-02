@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.648, de fecha 19 de agosto de 2015, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº158-A, correspondiente al inmueble ubicado en V Mackenna 6420 LC 1 y Las Otras Direcciones del Loteo Vicuña Mackenna Oriente Nº 6260, Rol de Avalúo Nº 64-1 al 20, de la comuna de La Florida, Región Metropolitana, de aparente dominio de Laborda Farías Carlos y Los Otros Propietarios del Loteo Vicuña Mackenna Nº 6260, con una superficie aproximada de 243,81 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Corredor de Transporte Público Vicuña Mackenna Norte". La Comisión de Peritos integrada por los señores Mufida Abuawad Elias, Arquitecto; Juan Sohrens Péndola, Arquitecto y Leonardo Bastías Tessada, Constructor Civil, mediante Informe de fecha 1 de julio de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $117.845.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
