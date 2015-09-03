@@ -130,9 +130,7 @@ Aeronave (ACFT)
 
 Es todo vehículo apto para el traslado de personas o cosas, y destinado a desplazarse en el espacio aéreo, en el que se sustenta por reacción del aire con independencia del suelo.
 
-Aeronave Pilotada a Distancia (RPA)
-
-Aeronave no tripulada que es pilotada desde una estación de pilotaje a distancia.
+. Aeronave Pilotada a Distancia: Aeronave que no lleva a bordo un piloto a los mandos.
 
 Aerostato
 
@@ -296,9 +294,7 @@ Estación aeronáutica
 
 Estación terrestre del servicio móvil aeronáutico. En ciertos casos, una estación aeronáutica puede estar instalada, por ejemplo, a bordo de un barco o de una plataforma sobre el mar.
 
-Estación de pilotaje a distancia
-
-El componente del sistema de aeronave pilotada a distancia que contiene el equipo que se utiliza para pilotar una aeronave a distancia.
+ELIMINADA.
 
 Estación de radio de control aeroterrestre
 
@@ -354,9 +350,7 @@ c) se ajuste a la presión de 1.013,2 hPa, podrá usarse para indicar niveles de
 
 Los términos "altitud" y "altura", usados en a) y b), indican altitud y alturas altimétricas más bien que altitudes y alturas geométricas.
 
-Observador RPA
-
-Una persona capacitada y competente, designada por el explotador, quien mediante observación visual de la aeronave pilotada a distancia, ayuda al piloto a distancia en la realización segura del vuelo.
+ELIMINADA.
 
 Oficina de notificación de los servicios de tránsito aéreo (ARO)
 
@@ -374,9 +368,7 @@ Operación con visibilidad directa visual
 
 Operación en la cual el piloto a distancia u observador RPA mantiene contacto visual directo sin ayudas con la aeronave pilotada a distancia.
 
-Piloto a distancia
-
-Persona designada por el explotador para desempeñar funciones esenciales para la operación de una aeronave pilotada a distancia y para operar los controles de vuelo, según corresponda, durante el tiempo de vuelo.
+. Piloto a Distancia: Persona designada por el explotador para operar los controles de vuelo de una aeronave pilotada a distancia durante e! tiempo de vuelo. A falta de persona designada, se presumirá que el piloto es quien dirige la operación de vuelo.
 
 Piloto al mando
 
@@ -512,9 +504,7 @@ Sistema anticolisión de a bordo (ACAS)
 
 Sistema de aeronave basado en señales del respondedor del radar secundario de vigilancia (SSR) que funciona independientemente del equipo instalado en tierra, para proporcionar aviso al piloto sobre posibles conflictos entre aeronaves dotadas de respondedores SSR.
 
-Sistema de aeronave pilotada a distancia (RPAS)
-
-Aeronave pilotada a distancia, su estación o sus estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente según lo especificado en el diseño de tipo.
+ELIMINADA.
 
 Sustancias psicoactivas
 
@@ -653,6 +643,12 @@ Espacio aéreo de dimensiones definidas sobre el territorio o las aguas jurisdic
 Zona restringida (R)
 
 Espacio aéreo de dimensiones definidas sobre el territorio o las aguas jurisdiccionales de un Estado, dentro del cual está restringido el vuelo de las aeronaves, de acuerdo con determinadas condiciones especificadas.
+
+. "Operación Autónoma: Una operación durante la cual una aeronave pilotada a distancia vuela sin intervención de piloto en la gestión de vuelo";
+
+. "Operación con Visibilidad Directa Visual (VLOS): Operación en la cual la tripulación remota mantiene contacto visual directo con la aeronave para dirigir su vuelo y satisfacer las responsabilidades de separación y anticolisión"
+
+. "Áreas Pobladas: Zonas en las que existan centros urbanos o se desarrollen actividades que convoquen la aglomeración de personas al aire libre".
 
 Capítulo "B"
 
@@ -884,19 +880,7 @@ condiciones de las restricciones y cuente
 
 con el permiso de la autoridad aeronáutica.
 
-(h) Aeronave pilotada a distancia
-
-Las aeronaves pilotadas a distancia deben
-
-utilizarse de modo que se reduzca al mínimo
-
-el peligro para las personas, bienes u
-
-otras aeronaves, y de conformidad con las
-
-condiciones establecidas en el Anexo "D".
-
-(i) Vuelos de sanidad y/o asistencia
+(h) Vuelos de sanidad y/o asistencia
 
 (1) Los vuelos de sanidad y/o asistencia
 
@@ -947,6 +931,42 @@ el otorgamiento de prioridad
 operacional por parte de los Servicios
 
 de Control de Tránsito Aéreo.
+
+91.102 "Aeronaves Pilotadas a Distancia":
+
+(a) Toda aeronave pilotada a distancia deberá contar con autorización de la DGAC previo a realizar cualquier operación de vuelo.
+
+(b) Dicha autorización será otorgada para cada operación (caso a caso), previa entrega por parte del solicitante del formulario Anexo "D" debidamente completado y siempre que la DGAC evalúe que operación prevista no constituya riesgo para las personas o para otras aeronaves.
+
+(c) La cancelación de un vuelo ya autorizado deberá ser comunicado a la DGAC tan pronto como sea posible.
+
+(d) Si se tratare de operaciones a realizarse sobre áreas pobladas, se deberá dar cumplimiento a las condiciones establecidas en la Norma Aeronáutica DAN 151.
+
+(e) Ninguna aeronave pilotada a distancia se utilizará sobre el territorio de otro Estado sin la previa autorización especial concedida por el Estado en el que se efectuará el vuelo.
+
+(f) Durante la operación de una aeronave pilotada a distancia quedará prohibido:
+
+1) poner en riesgo la vida o integridad de las personas;
+
+2) poner en riesgo la propiedad pública o privada;
+
+3) afectar derechos de terceros, especialmente en su privacidad y su intimidad;
+
+4) operar en forma descuidada o temeraria, poniendo en riesgo a otras aeronaves en tierra o en el espacio aéreo;
+
+5) operar a una distancia menor de dos (2) kilómetros de la prolongación del eje de la pista y una distancia menor de un (1) kilómetro paralelo al eje de la pista de un aeródromo, y a una altura no superior a 400 pies (130 metros);
+
+6) operar sobre zonas prohibidas o peligrosas;
+
+7) operar sobre zonas restringidas publicadas por la DGAC, a menos que cuente con autorización de ésta;
+
+8) operar sin tomar conocimiento de los NOTAMS vigentes publicados por la DGAC;
+
+9) operar más de una aeronave en forma simultánea;
+
+10) operar bajo la influencia de las drogas o el alcohol;
+
+11) operar en las áreas donde se combate un incendio por medio de aeronaves tripuladas.
 
 91.103 Prevención de colisiones
 
@@ -4714,60 +4734,4 @@ TABLAS DE NIVELES DE CRUCERO
 
 ANEXO "D"
 
-SISTEMA DE AERONAVES PILOTADAS A DISTANCIA
-
-1. Ningún sistema de aeronave pilotada a distancia (RPAS) que participe en la navegación aérea nacional se utilizará sin la previa autorización de la DGAC.
-
-2. Ninguna RPA se utilizará sobre el territorio de otro Estado sin la autorización especial concedida por el Estado donde se efectuará el vuelo. Esta autorización puede formularse como acuerdos entre los Estados en cuestión.
-
-3. No podrá utilizarse una RPA sobre alta mar sin coordinación previa con la autoridad marítima (Directemar) y los Servicios de Tránsito Aéreo, correspondientes.
-
-4. La autorización y coordinación a que se refieren 2 y 3 deberán obtenerse y efectuarse antes del despegue.
-
-5. Los RPAS en Chile se utilizarán de conformidad con las condiciones establecidas por la DGAC.
-
-6. Los planes de vuelo en Chile se presentarán de conformidad con lo establecido en esta Norma Aeronáutica.
-
-7. Previo a la operación de un RPA se notificará a los Servicios de Tránsito Aéreo:
-
-a) descripción de la operación prevista (que incluya
-
-el tipo de operación o el propósito), reglas de
-
-vuelo, operación con visibilidad directa visual
-
-(VLOS), si corresponde, fecha del vuelo previsto,
-
-punto de partida, destino, velocidades de crucero,
-
-niveles de crucero, ruta que ha de seguirse,
-
-duración/frecuencia del vuelo, otras;
-
-b) requisitos de despegue y aterrizaje;
-
-c) capacidades de comunicaciones, navegación y
-
-vigilancia:
-
-1) frecuencias y equipo de comunicaciones de
-
-seguridad operacional aeronáutica, incluyendo
-
-comunicaciones ATC, incluidos los medios de
-
-comunicación alternativos;
-
-2) equipo de navegación; y
-
-3) equipo de vigilancia (p. ej. transpondedor
-
-SSR, ADS-B emisión).
-
-d) capacidades de detectar y eludir; y
-
-e) procedimientos de emergencia, incluyendo falla de
-
-comunicaciones con el ATC.
-
-8. En caso de una cancelación de vuelo, el explotador o el piloto a distancia lo notificará a todas las autoridades competentes tan pronto como sea posible.
+.
