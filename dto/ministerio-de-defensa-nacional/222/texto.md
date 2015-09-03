@@ -144,6 +144,26 @@ Funciones y atribuciones del Director General
 
 El Director General de Aeronáutica Civil, en adelante Director General, tiene como función básica ejercer la dirección, organización y control superior de los recursos humanos, materiales, financieros y de información para que las actividades aeronáuticas que se desarrollan dentro del espacio aéreo controlado por Chile y aquellas que ejecutan en el extranjero empresas aéreas nacionales se realicen en forma segura y eficiente.
 
+#### Artículo 6º bis
+
+Mediante resolución del Director General de Aeronáutica Civil se designará al personal de seguridad aeroportuaria que podrá usar armas y elementos disuasivos.
+
+El personal de seguridad aeroportuaria que se encuentre designado y especialmente entrenado podrá usar armas y elementos disuasivos para prevenir actos de interferencia ilícita, definidos en el decreto supremo Nº 63, de 26 mayo de 2008, del Ministerio de Defensa Nacional, que aprueba Reglamento Seguridad, Protección de la Aviación Civil contra Actos de Interferencia Ilícita (DAR 17); ello, conforme a lo preceptuado en la Ley Nº 17.798, sobre Control de Armas y Elementos Similares y su Reglamento Complementario.
+
+El Director General de Aeronáutica Civil propondrá al Ministro de Defensa Nacional, de acuerdo a lo señalado en el artículo 3º inciso 4º de la Ley Nº 17.798, la cantidad de armamento y elementos disuasivos que esta norma consagra, debiendo utilizarse en los diversos aeródromos del país.
+
+Asimismo, el Director General de Aeronáutica Civil distribuirá el armamento indicado en el inciso precedente, conforme a los grados de amenaza para la aviación civil.
+
+El Director General de Aeronáutica Civil dictará instrucciones para el procedimiento de la entrega y custodia de las armas, municiones y elementos disuasivos, al inicio, durante y al concluir la jornada de trabajo del personal.
+
+De igual manera, impartirá instrucciones para que el personal conozca el funcionamiento, empleo y métodos de conservación del armamento y munición que corresponda efectuar.
+
+El personal de seguridad aeroportuaria que efectúe labores específicamente de prevención de actos de interferencia ilícita deberá ser instruido permanentemente acerca del funcionamiento, porte, uso y manipulación de las armas asignadas.
+
+Las armas y elementos disuasivos autorizados serán utilizadas para vigilancia perimetral, control de acceso y vigilancia en el área de movimiento en los recintos aeroportuarios, para prevenir actos de interferencia ilícita y todos aquellos casos en que exista peligro grave e inminente para la seguridad de la aviación civil.
+
+Se prohíbe al personal de seguridad aeroportuaria facilitar, a cualquier título, armas, municiones, elementos disuasivos, elementos de protección o accesorios de propiedad fiscal, aun en forma eventual, a personas ajenas a la Dirección General de Aeronáutica Civil o a otros funcionarios de la Institución.
+
 #### Artículo 7
 
 Para el logro de su cometido, el Director General contará con todas las atribuciones y funciones que le asignan las leyes y reglamentos vigentes entre las que se destacan:
