@@ -38,37 +38,31 @@ El Consejo estará integrado por las siguientes personas:
 
 1. Subsecretario(a) de Educación, quien lo presidirá.
 
-2. Coordinador(a) de Fortalecimiento de la Educación Pública, del Ministerio de Educación.
+2. Jefe(a) División de Planificación y Presupuesto del Ministerio de Educación.
 
 3. Jefe(a) División de Educación General del Ministerio de Educación.
 
 4. Mónica del Carmen Luna González, RUT Nº 9.407.873-3, Directora de Educación, representante de la Corporación Municipal de Peñalolén.
 
-5. Luis Gonzalo Navarrete Muñoz, RUT Nº 7.058.431-K, residente de la Comisión de Educación de la Asociación Chilena de Municipalidades.
+5. Luis Gonzalo Navarrete Muñoz, RUT Nº 7.058.431-K, Presidente de la Comisión de Educación de la Asociación Chilena de Municipalidades.
 
-6. Juan Enrique Jara Troncoso, RUT Nº 7.224.890-2, Jefe DAEM Municipalidad de Requínoa.
+6. Juan Enrique Jara Troncoso, RUT Nº 7.224.890-2, Jefe DAEM de la Municipalidad de Requínoa.
 
 7. Dagmar Raczynski Von Oppen, RUT Nº 4.775.750-9, Asesorías para el Desarrollo, en calidad de Experta.
 
 8. Sylvia Eyzaguirre Tafra, RUT Nº 9.910.669-7, Investigadora del Centro de Estudios Públicos (CEP), en calidad de Experta.
 
-9. Mirentzu Susanna Anaya Ottone, RUT Nº 13.336.330-0, Directora de Políticas Educativas, Educación 2020, en calidad de Experta.
+9. Ricardo Nicolás Gutiérrez Lafrentz, RUT Nº 13.548.747-3, Secretario General de la Corporación de Salud y Educación de la Municipalidad de Las Condes.
 
-10. Ricardo Nicolás Gutiérrez Lafrentz, RUT Nº 13.548.747-3, Secretario General de la Corporación de Salud y Educación de la Municipalidad de Las Condes.
+10. Mario Enrique Leyton Soto, RUT Nº 3.325.069-K, Primer Director del CPEIP, Premio Nacional de Educación 2009, Profesor USACH, en calidad de Experto.
 
-11. Luis Hernán Navarro Navarro, RUT Nº 9.264.426-K, Director de Postgrados Universidad Santo Tomás, en calidad de Experto.
+11. Sebastián Enrique Donoso Díaz, RUT Nº 5.899.194-5, Investigador CIAE Universidad de Chile, Instituto de Investigación y Desarrollo Educacional Universidad de Talca, en calidad de Experto.
 
-12. Mario Enrique Leyton Soto, RUT Nº 3.325.069-K, Primer Director del CPEIP, Premio Nacional de Educación 2009, Profesor USACH, en calidad de Experto.
+12. Carlos Edmundo Leyton Labarca, RUT Nº 7.326.496-0, Director Escuela Rural de Ciruelos, comuna de Pichilemu.
 
-13. Sebastián Enrique Donoso Díaz, RUT Nº 5.899.194-5, Investigador CIAE Universidad de Chile, Instituto de Investigación y Desarrollo Educacional Universidad de Talca, en calidad de Experto.
+13. Claudio Fernando Ihl Dausend, RUT Nº 6.322.057-4, Director Liceo Técnico Profesional, CEAT, de San Pedro de la Paz.
 
-14. Carlos Edmundo Leyton Labarca, RUT Nº 7.326.496-0, Director Escuela Rural de Ciruelos comuna de Pichilemu.
-
-15. Claudio Fernando Ihl Dausend, RUT Nº 6.322.057-4, Director Liceo Técnico Profesional, CEAT de San Pedro de la Paz.
-
-16. Carlos Alberto Fernández López, RUT Nº 9.587.502-5, Director Instituto Nacional de Maipú.
-
-La función de los miembros del presente Consejo no es delegable, sin perjuicio de lo dispuesto en el artículo séptimo del presente acto administrativo.
+14, Carlos Alberto Fernández López, RUT Nº 9.587.502-5, Director Instituto Nacional de Maipú.
 
 #### Artículo 5º
 
