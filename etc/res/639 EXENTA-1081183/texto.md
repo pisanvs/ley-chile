@@ -1,0 +1,5 @@
+DELEGA EN LOS JEFES DE UNIDAD DE SAN BERNARDO, BUIN Y LA FLORIDA FACULTADES QUE INDICA
+
+Mediante resolución exenta 16.00 Nº 639 de 24 de agosto de 2015, el Director Regional perteneciente a la XVI Dirección Regional Metropolitana Santiago Sur, delegó en los Jefes de Unidad de San Bernardo, Buin y La Florida las siguientes facultades:
+
+Aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nos 15 y 16 y en el artículo 109 ambos, del Código Tributario, cuando no se hayan reclamado de ellas, como asimismo, para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto.
