@@ -9510,11 +9510,11 @@ Las entidades sujetas a la fiscalización de esta Superintendencia entregarán d
 
 El banco matriz publicará sus estados financieros anuales en forma conjunta con los estados financieros de sus filiales que tengan la obligación de publicarlos según las normas que las rigen.
 
-12.2. Presentación de estados de situación trimestrales a esta Superintendencia.
+12.2. Estados financieros intermedios.
 
-Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija.
+Además de los estados financieros anuales auditados, las sociedades filiales fiscalizadas por esta Superintendencia deberán preparar estados financieros intermedios no auditados, referidos al 31 de marzo, 30 de junio y 30 de septiembre de cada año. Dichos estados deberán ser enviados a este Organismo de acuerdo con las instrucciones impartidas a dichas sociedades.
 
-Cuando se trate de sociedades fiscalizadas por otra superintendencia, los bancos matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige la Superintendencia de Valores y Seguros.
+Al tratarse de sociedades que no estén sujetas a la fiscalización de esta Superintendencia, los estados financieros intermedios que ellas deban preparar de acuerdo con las normas que las rigen, serán enviados también a este Organismo por el banco matriz, dentro del plazo en que éste debe entregar sus estados financieros intermedios.
 
 13. Realización directa de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de la Ley General de Bancos.
 
