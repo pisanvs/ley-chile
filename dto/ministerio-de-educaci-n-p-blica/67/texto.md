@@ -14,15 +14,13 @@ Decreto
 
 #### Artículo Único
 
-Declárase Zona Típica la Plaza Muñoz Gamero de Punta Arenas y los siguientes edificios que la acotan, conforme al plano que se adjunta y que forma parte integrante del presente decreto:
+Declárase Zona Típica la Plaza Muñoz Gamero de Punta Arenas y los siguientes edificios que la acotan, conforme al plano que se adjunta y que forma parte integrante del presente decreto.
 
-Lado Norte: N°s. 700 al 798: 1) Club de la Unión N° 716, 2) Comandancia Guarnición s/n, 3) Casino de Oficiales N° 778 y 4) City Bank N° 764-782.
+Fíjanse los límites de la Zona Típica Plaza Muñoz Gomero de Punta Arenas y de los edificios que la acotan, declarada como tal por el decreto supremo Nº 67, de 22 de febrero de 1991, del Ministerio de Educación, ubicada en la comuna Punta Arenas, provincia de Magallanes, región de Magallanes y Antártica Chilena, como a continuación se indica:
 
-Lado Oriente: N°s 1001 al 1099: 5) Hotel Cabo de Hornos N°, 1025, 6) Banco Edwards N° 1055, 7) Banco O Higgins N° 1073.
+.
 
-Lado Sur: N°s 701 al 799: 8) Banco del Estado, 9) Casa España - Teatro Cervantes N°s. 765/771, 10) Sede de la I. Municipalidad N° 745 y 11) Sede de la Empresa Nacional de Petróleo N° 1101.
-
-Lado Poniente: N°s. 1000 a 1098: 12) La Iglesia Matriz. 13) Casa de La Intendencia N° 1072, 14) La Gobernación N° 1028.
+El área protegida tiene una superficie aproximada de 62.841,63 mts.2, según se delimita por el polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-1, del plano adjunto, que forma parte del presente decreto.
 
 Anótese, tómese razón y publiquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Raúl Allard Neumann, Ministro de Educación subrogante.
 
