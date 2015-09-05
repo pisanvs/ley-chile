@@ -10,7 +10,7 @@ Resolución:
 
 ### Párrafo 1º — Disposiciones Generales.
 
-1. Llámase a partir de la publicación en el Diario Oficial de la presente resolución y hasta el 31 de julio de 2015, ambas fechas inclusive, a inscripción al subsidio habitacional para la atención de los damnificados por los sismos de gran magnitud ocurridos en el mes de abril en las Regiones de Arica y Parinacota y de Tarapacá, en las modalidades de aplicación del subsidio que a continuación se indican, regulados por los decretos que se señalan:
+1. Llámase a partir de la publicación en el Diario Oficial de la presente resolución y hasta el 30 de septiembre de 2015, ambas fechas inclusive, a inscripción al subsidio habitacional para la atención de los damnificados por los sismos de gran magnitud ocurridos en el mes de abril en las Regiones de Arica y Parinacota y de Tarapacá, en las modalidades de aplicación del subsidio que a continuación se indican, regulados por los decretos que se señalan:
 
 .
 
@@ -20,7 +20,9 @@ Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos 
 
 La primera selección se realizará con los inscritos en cada modalidad al último día hábil del mes en que sea publicada la presente resolución en el Diario Oficial.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 560.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será la que se indica en la siguiente tabla:
+
+.
 
 Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados.
 
