@@ -238,6 +238,8 @@ En los sitios de esquina afectados por antejardines en dos de sus lados se podr�
 
 En la zona Z-3, en el área correspondiente a la Población Lautaro, y en la zona Z-2.A, se elimina la exigencia de antejardín para las edificaciones con uso de suelo de equipamiento de las clases social y deporte.
 
+En las zonas Z-7 y Z-8, no serán exigibles los antejardines para las edificaciones que enfrentan Av. Las Industrias con uso de suelo de equipamiento.
+
 > **Nota.** El numeral 1 letras a y b del Artículo 1 de la Enmienda al Plan Regulador de San Joaquín, anexado en el Decreto 1696, Municipalidad de San Joaquín, publicado el 11.11.2011, modifica la presente norma, en el sentido de eliminar la exigencia de antejardín en la zona Z.3, para el área correspondiente a la Población Lautaro y aumentar en un 21,4% el coeficiente de ocupación de suelo en la zona Z.3, para el área correspondiente a la Población Lautaro.
 
 > **Nota.** NOTA 1 El N° 3 del Artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, agrega a la presente norma lo siguiente: "Z15, Z16 y Z16 A".
