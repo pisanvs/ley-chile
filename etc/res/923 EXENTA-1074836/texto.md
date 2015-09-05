@@ -20,9 +20,9 @@ b) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámase a postulación a los Condominios de Viviendas Sociales Tipo A vivienda colectiva en altura emplazados en las regiones de Arica y Parinacota, Antofagasta, Atacama, Coquimbo, Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía, de Los Ríos, de Los Lagos, Magallanes y Metropolitana para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes dentro del terreno de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b. 4) y b. 5) del artículo 5º del DS Nº255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
+1. Llámase a postulación a los Condominios de Viviendas Sociales Tipo A vivienda colectiva en altura emplazados en las regiones de Arica y Parinacota, Antofagasta, Atacama, Coquimbo, Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía, de Los Ríos, de Los Lagos, de Aysén, Magallanes y Metropolitana para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y el entorno de los condominios participantes dentro del terreno de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b. 4) y b. 5) del artículo 5º del DS Nº255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
 
-Los postulantes podrán ser seleccionados por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo (Seremi), mediante resoluciones exentas, en los meses de mayo, junio, julio, septiembre y noviembre de 2015.
+Los postulantes podrán ser seleccionados por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo (Seremi), mediante resoluciones exentas, en los meses de mayo, junio, julio, septiembre y noviembre de 2015. De manera excepcional, las regiones de Araucanía y Los Ríos, podrán seleccionar en el mes de agosto y la Región de Aysén podrá seleccionar durante el mes de diciembre de 2015
 
 Excepcionalmente, las Seremi podrán efectuar una selección durante el mes de abril de 2015, para aquellos proyectos que habiendo sido certificados y calificados en 2014, los Serviu determinen mediante oficio que su calificación se encuentra vigente.
 
@@ -110,7 +110,7 @@ Dicha prelación, se realizará en base a los factores descritos a continuación
 
 .
 
-El resultado de esta evaluación, será sancionado mediante un acta de la Comisión Evaluadora y deberá ser notificado mediante carta certificada a la entidad que presentó la postulación, en un plazo máximo de 15 días hábiles, explicitando el mecanismo de evaluación. Tras dicho plazo, las entidades que presentaron el expediente podrán presentar sus apelaciones a la Seremi respectiva, durante los siguientes 15 días hábiles.
+Tras dicho plazo, las entidades que presentaron el expediente, podrán realizar sus apelaciones a la Seremi respectiva, durante los siguientes 5 días hábiles.
 
 13. Los recursos disponibles para este llamado, se distribuirán regionalmente según el siguiente cuadro:
 
@@ -160,7 +160,7 @@ Para las obras del título III, del artículo 5º, del decreto supremo Nº 255 (
 
 4.- Subsidio de riesgo: En casos de extrema necesidad, relativos a fallas graves en redes de servicios u otras situaciones que representen un riesgo manifiesto para las familias, la Seremi, podrá autorizar al Serviu, en virtud de un informe técnico que lo fundamente, a incrementar el subsidio en hasta 50 UF por beneficiario, para la intervención de redes de servicios, tratamiento de suelos, reparaciones estructurales, entre otros.
 
-Para optar a los incrementos y/o adiciones expresadas, la Seremi deberá autorizarlos en la resolución exenta que declara al condominio como objeto del programa.
+Para optar a los incrementos y/o adiciones expresadas, la Seremi deberá autorizarlos en la resolución exenta que declara al condominio como objeto del programa. Si ejecutadas las partidas asociadas a los subsidios complementarios para plagas y asbesto cemento, se generasen excedentes de recursos, estos se podrán utilizar en otras partidas dentro del mismo título, bajo autorización expresa del Departamento de Obras del Serviu respectivo y siempre que no superen el 10% del presupuesto aprobado de dichos complementos.
 
 19. Los proyectos postulados deberán contar con el acuerdo de Asamblea Ordinaria de Copropietarios si la copropiedad está formalizada, y con la aprobación del 50% de los copropietarios cuando éstos no se encuentren organizados bajo la Ley de Copropiedad Inmobiliaria.
 
@@ -168,7 +168,7 @@ Adicionalmente, en el caso de proyectos correspondientes al Título III, del art
 
 20. Para el presente llamado no se requerirá la emisión de certificados de subsidio. Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el representante legal del grupo postulante e informes y antecedentes requeridos y aprobados por el Serviu. Para el último pago de las obras, el acta de conformidad debe incluir la firma de un profesional competente de la Seremi respectiva. Además, en el caso de proyectos del Título III, del DS 255 (V. y U.) de 2006, dicho pago se verificará una vez acompañado el certificado de recepción municipal.
 
-Los pagos por la ejecución de las obras y la asistencia técnica se podrán efectuar hasta en cinco estados de pago equivalentes en monto al porcentaje de avance físico de obras, acreditado mediante informe del ITO, visado por el Serviu. El monto máximo de recursos que podrá girarse al contratista o constructor en los primeros cuatro pagos, no podrá exceder el 70% del total del precio del contrato. En casos fundados, Serviu podrá efectuar pagos contra avance físico del 10%, con un máximo de 10 estados de pago.
+Los pagos por la ejecución de las obras y la asistencia técnica se podrán efectuar hasta en cinco estados de pago equivalentes en monto al porcentaje de avance físico de obras, acreditado mediante informe del ITO, visado por el Serviu. El monto máximo de recursos que podrá girarse al contratista o constructor en los primeros cuatro pagos, no podrá exceder el 70% del total del precio del contrato. En casos fundados, Serviu podrá efectuar pagos contra avance físico del 10%, con un máximo de 7 estados de pago, reservando el 30% del total del precio del contrato para el último pago.
 
 En cualquier caso, antes del inicio de las obras, se deberá entregar una boleta de garantía que caucione tanto el fiel cumplimiento del contrato como la buena calidad de las obras ejecutadas. Dicha boleta deberá extenderse por un plazo mínimo de 2 años y por un monto equivalente al 2% del precio total del contrato.
 
@@ -198,7 +198,7 @@ El Serviu podrá contratar con cargo a los recursos de asistencia técnica y de 
 
 Excepcionalmente, mediante autorización escrita por parte del Serviu, antes del inicio de las obras, se permitirá que los profesionales del área de la construcción que actúen como PSAT, puedan atender y/o supervisar simultáneamente a un número superior a 80 viviendas.
 
-La Seremi, en conjunto con el Serviu, deberá fiscalizar que la demanda atendida y en postulación, no supere la categoría establecida en el convenio marco de la PSAT respectiva. En caso contrario, será exigible la actualización de categoría en un plazo convenido con la Seremi. Asimismo, deberá velar por la idoneidad, cantidad y permanencia de los profesionales dispuestos por la PSAT para la atención de sus proyectos.
+La Seremi, en conjunto con el Serviu, deberá fiscalizar que la demanda atendida y en postulación, no supere la categoría establecida en el convenio marco de la PSAT respectiva. En caso contrario y en base a sus facultades, la Seremi deberá disponer las medidas que estime necesarias desde el proceso de selección y hasta el cierre del proceso de apelación. Asimismo, deberá velar por la idoneidad, cantidad y permanencia de los profesionales dispuestos por la PSAT para la atención de sus proyectos.
 
 La Seremi podrá dejar sin efecto la postulación de una PSAT y/o determinar su reemplazo con el acuerdo de las familias y/o comunidad de copropietarios beneficiarios, cuando se evidencie retraso manifiesto o calidad deficiente en las obligaciones y los productos comprometidos por contratos de asistencia técnica vigentes, establecidos en el convenio marco, y aquellos establecidos en la presente resolución exenta.
 
