@@ -228,13 +228,17 @@ c) Administrar colonias, refugios, casas de huéspedes u otros inmuebles para el
 
 d) Participar en la organización y/o financiamiento, total o parcial, respecto de sus afiliados, de la celebración del aniversario de la Institución, Fiestas Patrias, Año Nuevo y Navidad; y de los obsequios para los afiliados y/o sus cargas familiares, en el caso de este último evento. El Consejo Administrativo, mediante acuerdo, fijará los rangos de edad de las personas para el otorgamiento del beneficio de Navidad.
 
+e) Otorgar a sus afiliados y/o causantes de asignación familiar obsequios y/o bonos en el marco de ocasiones especiales, tales como, cumpleaños del afiliado y/o sus cargas familiares, Fiestas Patrias, Día del Niño, Día de la Secretaria, Día de la Mujer, Día del Padre, Día de la Madre y Año Nuevo, previamente adquiridos por el Bienestar con cargo a sus propios recursos.
+
+f) Entregar a sus afiliados y causantes de asignación familiar vales de mercadería, vales de vestuario, vales de multitiendas o tiendas de retail, vales de alimentación, vales de gas, vales para útiles escolares, previamente adquiridos por el Bienestar con cargo a sus recursos propios.
+
 El Consejo Administrativo podrá establecer las exigencias relativas a certificados, comprobantes, antecedentes y/o fijar montos que estime necesarios para el otorgamiento de los beneficios que se indican precedentemente.
 
 Además, podrá celebrar, a través del Jefe Superior del Servicio, convenios con personas naturales y/o jurídicas para cumplir los objetivos señalados en el presente artículo.
 
 #### Artículo 19
 
-Bienestar podrá financiar todo o parte, con cargo a sus propios recursos, de acuerdo a su disponibilidad presupuestaria, seguros de vida para sus afiliados y seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares, que no se encuentren cubiertos por los respectivos sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+Bienestar podrá financiar todo o parte, con cargo a sus propios recursos, de acuerdo a su disponibilidad presupuestaria, seguros de vida para sus afiliados y seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares, que no se encuentren cubiertos por los respectivos sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros. Asimismo, el Bienestar podrá financiar, con cargo a sus recursos propios, otros seguros de diversa naturaleza que vayan en directa protección del patrimonio del afiliado y/o cargas familiares, protegiéndole de catástrofes y/o siniestros. Todo lo anterior, de acuerdo a la disponibilidad presupuestaria del Servicio de Bienestar, sin perjuicio que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
 
 ## Título VI — Disposiciones generales
 
