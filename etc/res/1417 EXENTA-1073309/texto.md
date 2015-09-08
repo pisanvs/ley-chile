@@ -26,19 +26,19 @@ a) Vehículo saliente: Minibús con capacidad mayor a 0 plazas. (Montos expresad
 
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $820.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
-b) Vehículo saliente: Buses, trolebuses y taxibuses con capacidad entre 0 y 38 plazas inclusive. (Montos expresados en millones de pesos)
+b) Vehículo Saliente: Buses, Trolebuses y Taxibuses con capacidad de entre 0 y 38 plazas inclusive. (Montos expresados en millones de pesos).
 
 .
 
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $1.450.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
-c) Vehículo saliente: Buses, trolebuses y taxibuses con capacidad entre 39 y 67 plazas inclusive. (Montos expresados en millones de pesos)
+c) Vehículo Saliente: Buses, Trolebuses y Taxibuses con capacidad de entre 39 y 67 plazas inclusive. (Montos expresados en millones de pesos).
 
 .
 
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $2.070.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
-d) Vehículo saliente: Buses, trolebuses y taxibuses con capacidad mayor o igual a 68 plazas. (Montos expresados en millones de pesos)
+d) Vehículo Saliente: Buses, Trolebuses y Taxibuses con capacidad mayor o igual a 68 plazas. (Montos expresados en millones de pesos).
 
 .
 
