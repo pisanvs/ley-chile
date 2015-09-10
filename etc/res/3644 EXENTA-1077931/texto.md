@@ -32,10 +32,6 @@ Considerando:
 
 Resolución:
 
-> **Nota.** El numeral 1 de la Resolución 8302 Exenta, Vivienda, publicada el 04.11.2015, modifica la presente norma en el sentido de reemplazar en la nómina de familias beneficiadas de la Región Metropolitana las filas de los beneficiarios que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 9383 Exenta, Vivienda, publicada el 07.12.2015, modifica la presente norma en el sentido de reemplazar en la nómina de familias beneficiadas de la Región de la Araucanía las filas de los beneficiarios que la citada norma indica.
-
 1. Modifíquese la tabla indicada en el Resuelvo 3. de la resolución exenta Nº 1.178 del 20 de febrero, que señala los recursos asignados por región para el Primer Llamado del año 2015:
 
 2. Apruébanse las nóminas de postulantes seleccionados en el mes de abril de 2015 para el otorgamiento de subsidios habitacionales correspondientes al Primer Llamado en Condiciones Especiales de 2015 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren ampliaciones para adultos mayores, mejoramiento de viviendas de personas con discapacidad, de eficiencia energética y de acondicionamiento térmico, dispuesto en el Resuelvo 1. de la resolución exenta Nº 1.178 (V. y U), de 2015, nóminas que se adjuntan y se entenderán formar parte integrante de esta resolución, y fíjase el número de postulantes seleccionados por región según se indica en la siguiente tabla:
@@ -43,8 +39,6 @@ Resolución:
 3. Comprométense los recursos disponibles para la selección en el mes de abril de 2015 del Primer Llamado en Condiciones Especiales de 2015 del Programa de Protección del Patrimonio Familiar en sus Títulos I, II y III, especialmente para proyectos que consideren ampliaciones para adultos mayores, sistemas solares térmicos, mejoramiento de viviendas de personas con discapacidad, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica, según la distribución por título y por región señalada en el siguiente cuadro:
 
 4. Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 2. de esta resolución, las que deberán contener a lo menos la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva Cédula de Identidad y el puntaje obtenido por el grupo o persona.
-
-> **Nota.** El numeral 1° de la Resolución 7753 Exenta, Vivienda, publicada el 13.10.2015, modifica la presente norma en el sentido de complementar la presente norma otorgando un incremento de los recursos dispuestos para la atención de las 2 familias, de la comuna de Placilla, Región del Libertador General Bernardo O'Higgins y de asignar a éstas los subsidios que les correspondía entregar, ascendentes a 37.8 UF para cada una de ellas y que por error de digitación no le fueron otorgados, ademas impútase la diferencia de 75,6 Unidades de Fomento, por los subsidios asignados y reflejados en la Tabla inserta en la presente norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
