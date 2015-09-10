@@ -18,6 +18,8 @@ Resolución:
 
 .
 
+> **Nota.** El numeral 1 de la Resolución 6728 Exenta, Vivienda, publicada el 09.09.2015, modifica la presente norma en el sentido de reemplazar al sujeto pasivo don Juan Pablo Gramsch Labra, a esa fecha jefe de la División de Política Habitacional, por don José Luis Sepúlveda Soza, actual titular de dicha División.
+
 Anótese, comuníquese y publíquese.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Alberto Peña Cortés, Ministro de Fe Subrogante.
