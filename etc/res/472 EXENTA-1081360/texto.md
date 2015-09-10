@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 472 EXENTA, DE 24 DE AGOSTO DE 2015
+
+Por resolución exenta Nº 472, de 24 de agosto de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se aprobaron los planes y programas de la Escuela de Conductores Profesionales "Escuela de Conductores Profesionales y Capacitaciones Fénix Madina Limitada", cuyo nombre de fantasía es "Fénix Conductores Limitada", RUT: 76.418.911-6, representada legalmente por doña Patricia Ester de Lourdes Madina Avendaño, cédula de identidad Nº 10.956.536-9, para impartir cursos conducentes a la obtención de la licencia de conductor profesional Clases A-2, A-3, A-4 y A-5 en su sede ubicada en calle Hermano Claudio Nº 385, de la comuna de Rancagua.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
