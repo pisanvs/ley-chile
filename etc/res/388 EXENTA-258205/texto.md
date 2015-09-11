@@ -20,49 +20,21 @@ Resuelvo:
 
 Dichas vías, cuyos tramos y sentidos de circulación de exclusividad se describen en los siguientes cuadros, funcionarán de lunes a viernes, excepto festivos, entre las 7:30 hrs. y las 10:00 hrs., y entre las 17:00 y las 21:00 hrs., con excepción de los ejes correspondientes a San Pablo, Av. José Joaquín Pérez e Irarrázaval, que sólo operarán entre las 7:30 hrs. y las 10:00 hrs.
 
-a) EJE SANTA ROSA - MAC IVER
+a) AV. SANTA ROSA
 
 Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-Eliminado.
+Av. Santa Rosa Placer Amazonas Habitual S-N
 
-Av. Santa Rosa Placer Av. Libertador Habitual S-N
+Av. Santa Rosa Padre Av. Libertador Habitual S-N
 
-Bernardo
+Alonso Bernardo
 
-O'Higgins
+de O'Higgins
 
-(Alameda)
-
-Mac Iver Av. Ismael Valdés Habitual S-N
-
-Libertador Vergara
-
-Bernardo
-
-O'Higgins
-
-(Alameda)
-
-Av. Santa Rosa Placer Av. Libertador Habitual S-N
-
-Bernardo
-
-O'Higgins
-
-(Alameda)
-
-Mac Iver Av. Ismael Valdés Habitual S-N
-
-Libertador Vergara
-
-Bernardo
-
-O'Higgins
-
-(Alameda)
+Ovalle (Alameda)
 
 b) EJE SAN DIEGO - BANDERA
 
@@ -166,6 +138,154 @@ O'Higgins
 
 (Alameda)
 
+Si durante la vigencia de una Alerta Sanitaria por concentración ambiental de material particulado fino MP 2.5, se declara, por la Secretaría Regional Ministerial Metropolitana de Salud, condición de preemergencia o emergencia ambiental, de conformidad con el artículo 5 del DS Nº 12, de 2011, del Ministerio del Medio Ambiente; salvo en días sábados, domingos y festivos; en forma adicional a las vías ya indicadas, funcionarán extraordinariamente entre las 7:30 hrs. y las 10:00 hrs. y, entre las 17:00 y las 21:00 hrs., como vías exclusivas y, mientras persista dicha condición ambiental, aquellas que se indican en el siguiente cuadro, según sus tramos y sentidos de tránsito:
+
+VÍA EXCLUSIVA DESDE HASTA SENTIDO
+
+Av. Los Av. Américo Av. 5 de Ambos
+
+Pajaritos Vespucio Abril sentidos
+
+Gran Avenida Placer Av. Ambos
+
+José Miguel Departamen- sentidos
+
+Carrera tal
+
+San Diego Placer Tarapacá Sur-Norte
+
+Nataniel Cox Padre BioBío Norte-Sur
+
+Miguel de
+
+Olivares
+
+Amunátegui Av. General Sur-Norte
+
+Libertador Mackenna
+
+Bernardo
+
+O' Higgins
+
+(Alameda)
+
+Av. Vicuña Barón Av. Sur-Norte
+
+Mackenna Pierre de Libertador
+
+Coubertin Bernardo
+
+O' Higgins
+
+(Alameda)
+
+Av. Vicuña Anahi Av. Sur-Norte
+
+Mackenna Departamen-
+
+Oriente tal
+
+Av. Vicuña Av.
+
+Mackenna Departamen- Don Pepe Norte-Sur
+
+Poniente tal
+
+Av. Santa Av. Av. Ambos
+
+Rosa Lo Ovalle Américo sentidos
+
+Vespucio
+
+Av. Tobalaba Av. Troncos Norte-Sur
+
+Providencia Viejos
+
+Av. Tobalaba Troncos Av. Sur-Norte
+
+Viejos Apoquindo
+
+San Pablo Matucana Teatinos Poniente-
+
+Oriente
+
+Francisco Román Tobalaba Poniente-
+
+Bilbao Diaz Oriente
+
+Francisco Tobalaba Av. Oriente-
+
+Bilbao Vicuña Poniente
+
+Mackenna
+
+Eje Los Lota Sucre Norte-Sur
+
+Leones-
+
+General
+
+José
+
+Artigas
+
+Eje Los Sucre Av. Sur-Norte
+
+Leones- Providencia
+
+General
+
+José
+
+Artigas
+
+Recoleta Dorsal Av. Ambos
+
+Cardenal sentidos
+
+José
+
+María
+
+Caro
+
+Independencia Dorsal Aníbal Norte-Sur
+
+Pinto
+
+Independencia Echeverría Dorsal Sur-Norte
+
+Puente Padre Santa Av. Norte-Sur
+
+Hurtado- María Cardenal
+
+Bandera José
+
+María
+
+Caro
+
+Puente Av. Av. Santa Sur-Norte
+
+La Paz Cardenal María
+
+José
+
+María
+
+Caro
+
+Av. La Paz Santa Echeverría Sur-Norte
+
+María
+
+Echeverría Av. Independen- Oriente-
+
+La Paz cia Poniente
+
+Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga restricción vehicular, según último dígito de placa patente, durante los aludidos episodios de preemergencia y emergencia ambiental por PM 2.5, podrá disponer que sólo parte de las vías, tramos y/o sentidos de tránsito indicados en el cuadro, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los ya señalados.
+
 2.- Los vehículos que podrán circular por estas
 
 vías exclusivas serán los siguientes:
@@ -212,11 +332,11 @@ identificados como tales;
 
 f) Vehículos de transporte remunerado de escolares;
 
-g) Vehículos acondicionados para personas
+g) Vehículos importados de conformidad con el
 
-discapacitadas a que se refiere el artículo 60
+#### Artículo 48
 
-de la ley Nº 17.238;
+de la ley Nº 20.422.
 
 h) Vehículos que circulen por Av. Santa Rosa
 
@@ -237,6 +357,48 @@ de dicha obra para labores de mantención de las
 vías señaladas; siempre que éstos se encuentren
 
 debidamente identificados como tales.
+
+i) Vehículos que con ocasión de programas,
+
+estudios o actividades que se realicen en todo
+
+o parte de dichas vías o que se relacionen
+
+directamente con el uso de aquellas, deban
+
+necesariamente circular por las mismas.
+
+Tratándose de las letras g) e i)
+
+precedentes, el interesado deberá obtener
+
+autorización previa de la Secretaría Regional
+
+Ministerial Metropolitana de Transportes y
+
+Telecomunicaciones, la que se otorgará
+
+mediante resolución, siempre que se acredite,
+
+con la documentación respectiva, que el o
+
+los vehículos presentados se comprenden en
+
+alguna de las situaciones allí descritas. En
+
+dicha resolución deberán establecerse en forma
+
+determinada los vehículos que se autoricen,
+
+el plazo, horario, tramos y demás condiciones
+
+de circulación vial que se estimen
+
+necesarias. El documento en que conste
+
+dicha autorización o su copia autorizada,
+
+deberá portarse siempre en el vehículo.
 
 Los vehículos no contemplados en las letras
 
