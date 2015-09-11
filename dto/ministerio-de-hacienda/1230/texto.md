@@ -288,7 +288,9 @@ ciones aduaneras.
 
 8. Puerto de Permanente Paso de personas y
 
-Mejillones todo tipo de
+Mejillones todo tipo de opera-
+
+ciones aduaneras.
 
 9.Aeropuerto Permanente Paso de personas y
 
@@ -326,7 +328,9 @@ San Pedro de Atacama.
 
 23º52'17''S operaciones de
 
-67º16'11''W importación de
+67º16'11''W importación y
+
+exportación de
 
 energía eléctrica.
 
@@ -360,13 +364,15 @@ Paso Jama Sur importación, exportación
 
 67º03'W líquidos y gaseosos
 
-18. Terminal marítimo
+18. Terminal
+
+marítimo
 
 GNL Mejillones Permanente Paso de tripulantes,
 
-23°03' S, 70°22' W importación y
+23°03' S, importación y
 
-exportación de
+70°22' W exportación de
 
 graneles líquidos y
 
@@ -754,9 +760,9 @@ Viña del Mar ciones aduaneras.
 
 GNL Quintero tripulantes,
 
-importación y
+32º, 46'S importación y
 
-exportación de
+71º, 30'W exportación de
 
 graneles
 
@@ -764,7 +770,7 @@ líquidos y
 
 gaseosos
 
-32º, 46'S 71º, 30'W y rancho de
+y rancho de
 
 naves.
 
@@ -1574,7 +1580,7 @@ Posesión y operaciones de
 
 52°13' S importación de
 
-68°57' W graneles gaseosos D.O. 28.08.2003
+68°57' W graneles gaseosos
 
 y líquidos.
 
