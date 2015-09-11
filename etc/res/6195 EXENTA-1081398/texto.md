@@ -1,0 +1,7 @@
+DELEGA EN LOS JEFES DE LAS UNIDADES DE LOS ÁNGELES, CHILLÁN, SAN CARLOS, TALCAHUANO Y LEBU FACULTADES QUE INDICA
+
+Mediante resolución exenta Nº 6.195 del 01.09.2015, de la VIII Dirección Regional Concepción del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) Nº7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1º del DFL Nº 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el decreto con fuerza de ley Nº1-19.653, de 13 diciembre 2000, del Ministerio Secretaría General de la Presidencia; resolución Nº 1.600, de la Contraloría General de la República, de 30 de octubre de 2008; se dictó resolución que delega en los Jefes de las Unidades de Los Ángeles, Chillán, San Carlos, Talcahuano y Lebu la facultad de aplicar, condonar o anular las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en los artículos 97 Nº 15 y 16 y en el artículo 109, todos del Código Tributario, según se expresa en la resolución cuyo extracto se publica.
+
+Texto íntegro de este documento está publicado en www.sii.cl de conformidad a lo dispuesto en la ley 20.285.
+
+Teresa Conejeros Peña, Directora Regional.
