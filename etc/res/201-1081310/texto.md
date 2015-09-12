@@ -12,7 +12,7 @@ Visto:
 
 Resuelvo:
 
-1º Créase la Circunscripción Electoral denominada "Los Molles" en la comuna de Quilpué, provincia de Valparaíso, V Región de Valparaíso, cuyo territorio jurisdiccional será: al Norte, Límite comunas de Villa Alemana, Limache y Olmué; al Sur, Límite con comunas de Valparaíso, Casablanca y Curacaví; al Este, Límite con comunas de Tiltil y Lampa; y, al Oeste, Ruta F-560 desde límite con la comuna de Villa Alemana hasta intersección con ruta F-50; línea recta imaginaria desde la intersección de ruta F-560 con ruta F-50, cruzando la intersección de la ruta F-740 con Quebrada Patagual, hasta llegar al límite con la comuna de Valparaíso.
+1º Créase la Circunscripción Electoral denominada "Los Molles" en la comuna de Quilpué, Provincia de Marga Marga, V Región de Valparaíso, cuyo territorio jurisdiccional será: al Norte, Límite comunas de Villa Alemana, Limache y Olmué; al Sur, Límite con comunas de Valparaíso, Casablanca y Curacaví; al Este, Límite con comunas de Tiltil y Lampa; y, al Oeste, Ruta F-560 desde límite con la comuna de Villa Alemana hasta intersección con ruta F-50; línea recta imaginaria desde la intersección de ruta F-560 con ruta F-50, cruzando la intersección de la ruta F-740 con Quebrada Patagual, hasta llegar al límite con la comuna de Valparaíso.
 
 2º Modifícase el territorio jurisdiccional de la Circunscripción Electoral Quilpué, en el sentido que el territorio de dicha circunscripción será el actual, excepto el asignado a la nueva Circunscripción Electoral Los Molles.
 
