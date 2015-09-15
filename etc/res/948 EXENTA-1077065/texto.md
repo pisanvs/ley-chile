@@ -40,6 +40,8 @@ Resolución:
 
 1. Comprométanse los recursos asignados a la Región de Valparaíso, mediante resolución exenta Nº 923 de fecha 11 de febrero de 2015, a la selección efectuada en el mes de abril del presente año, para el desarrollo de proyectos en Condominios de Viviendas Sociales, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de asistencia técnica, según la distribución que se señala a continuación:
 
+.
+
 2. Apruébense las nóminas de postulantes y copropiedades seleccionadas para el otorgamiento de subsidios habitacionales correspondientes al mes de abril de 2015, de acuerdo con lo dispuesto en el resuelvo número 1 de la resolución exenta Nº 923 (V. y U.) de 2015. Estas nóminas se adjuntan y se entenderán forman parte de la presente resolución.
 
 3. Fíjese el número de postulantes seleccionados en la Región de Valparaíso de acuerdo a la distribución regional de recursos consignada en el resuelvo número 13º de la resolución exenta Nº 923, de fecha 11 de febrero de 2015, para los proyectos que se financiarán conforme lo dispone el resuelvo 14 de la resolución ya indicada, según se indica en la tabla que a continuación se inserta:
