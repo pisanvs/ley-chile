@@ -32,7 +32,7 @@ Resolución:
 
 Los postulantes serán seleccionados por la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo (Seremi) mediante resolución exenta, a partir del mes de noviembre 2015, si cuentan con calificación hasta el último día hábil del mes que precede a la selección. Sin perjuicio de lo anterior, y para casos excepcionales, la selección no podrá exceder al 18 de diciembre de 2015.
 
-2. Los recursos totales comprometidos para este Llamado Especial, incluye el monto del subsidio más la asistencia técnica respectiva, que ascienden a UF 40.000.
+2. Los recursos totales comprometidos para este llamado Especial, incluye el monto del subsidio más la asistencia técnica respectiva, que ascienden a UF 60.000.
 
 El proceso del llamado regional comprenderá las siguientes etapas:
 
@@ -130,7 +130,7 @@ g) Se aceptará sólo como intervención la reparación de las redes en su condi
 
 h) En caso de obras de reparación de techumbres se deberá adjuntar planos con solución de aguas lluvias correspondientes.
 
-i) En caso de que el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá cumplir con las disposiciones del artículo 60 de la Ley General de Urbanismo y Construcciones.
+i) En caso de que el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá cumplir con las disposiciones del artículo 60 de la Ley General de Urbanismo y Construcciones, y asimismo acompañar el comprobante de ingreso de la documentación al Departamento de Desarrollo Urbano para la solicitud de intervención en Inmueble de ZCH o ICH según lo establecido en el inciso 2º del art. 60 de la Ley General de Urbanismo y Construcciones.
 
 j) Se deberá adjuntar carta de adhesión con un mínimo del 70%, en la cual los postulantes declaren estar de acuerdo con el tipo de proyecto que se realizará. Dada la complejidad de los proyectos sanitarios se exigirá una adhesión del 90% y que la carta mencione el compromiso por parte de los postulantes de dar las facilidades y permisos necesarios para la ejecución de los trabajos.
 
@@ -161,6 +161,8 @@ b) Complemento: Se podrá complementar el subsidio base, señalado en la letra a
 Para optar a los montos de subsidios complementarios expresados anteriormente, el Serviu deberá autorizarlos en el proceso de aprobación de proyectos.
 
 Si ejecutadas las partidas complementarias de Asbesto Cemento y/o Erradicación de Plagas, se generasen excedentes de recursos, estos se podrán utilizar en otras partidas dentro del mismo título, bajo autorización expresa del Departamento de Obras de Serviu Metropolitano y siempre que no superen el 10% del presupuesto aprobado para dichos complementos.
+
+c) Podrán repararse con cargo a este subsidio, todas aquellas partidas de carácter colectivo tanto al interior como al exterior de la vivienda, cuando sea necesario recuperar la funcionalidad del conjunto y cuyo deterioro afecte gravemente las condiciones de seguridad y habitabilidad de este, siempre que el presupuesto no exceda el monto máximo de subsidio.
 
 14. Aportes adicionales; se podrá complementar el monto del subsidio, lo cual será considerado como un factor de puntaje según lo dispone el resuelvo Nº 17 de la presente resolución. En el caso que el aporte sea municipal se deberá acreditar mediante copia del acuerdo del concejo municipal.
 
@@ -195,6 +197,8 @@ Además, la Seremi podrá dejar sin efecto la postulación de un PSAT municipal 
 Para el pago final de las obras, el PSAT deberá contar con la aprobación de los informes y antecedentes requeridos por parte de Serviu para recepcionar el 100%; luego de esta recepción deberá adjuntar Acta de Certificación firmada por un profesional competente de la Seremi respectiva.
 
 Además, el PSAT deberá acreditar en Serviu, a más tardar a los 90 días corridos posteriores al vencimiento del subsidio, que obtuvo el Acta de Conformidad de la Seremi dentro del plazo de vigencia tanto del subsidio como de la boleta de garantía.
+
+El PSAT deberá presentar copia de la notificación en un diario de circulación nacional, de no ser habido el arrendador en los plazos estipulados en la resolución en mención.
 
 21. En cualquier caso, previo al inicio de obras, se deberá entregar una boleta de garantía que caucione tanto el fiel cumplimiento del contrato como la buena calidad de las obras ejecutadas. Dicha boleta deberá extenderse por un plazo mínimo de 2 años y por un monto equivalente al 2% del valor total del contrato, instrumento de garantía que regido por la Circular Nº 793, de 3 de julio de 2003, de la Subsecretaría de Vivienda y Urbanismo.
 
