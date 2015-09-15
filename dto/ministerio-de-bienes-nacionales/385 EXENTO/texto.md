@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LOS RÍOS, AL CENTRO CULTURAL MUSEO Y MEMORIA DE NELTUME
+
+Mediante decreto exento Nº E-385 de 9 de septiembre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al Centro Cultural Museo y Memoria de Neltume, RUT Nº 65.464.880-8, el inmueble fiscal signado como Sitio 14 de la Manzana Nº 10, ubicado en Avenida Los Robles S/N, Neltume, comuna de Panguipulli, Provincia de Valdivia, Región de Los Ríos; Rol Servicio de Impuestos Internos Nº 300-14; inscrito a mayor cabida a nombre del Fisco a fs. 102 vta. Nº 156 del Registro de Propiedad del Conservador de Bienes Raíces de Panguipulli correspondiente al año 1990; singularizado en el plano Nº X-1-5018-C.R.; con una superficie aproximada de 2.059,55 metros cuadrados. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al "Centro Cultural Museo y Memoria de Neltume" y para la implementación de una "Biblioteca Pública". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Patricio Flores Rivas, Abogado, Jefe División Jurídica.
