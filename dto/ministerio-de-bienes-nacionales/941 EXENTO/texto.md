@@ -1,0 +1,7 @@
+AUTORIZA MODIFICACIÓN Y COMPLEMENTACIÓN DE CONTRATO DE CONCESIÓN ONEROSA QUE RECAE EN INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A FOTOVOLTAICA SOL DEL NORTE LIMITADA
+
+Mediante decreto (exento) Nº 941 de 3 de septiembre de 2015, el Ministerio de Bienes Nacionales autorizó la modificación y complementación del contrato de concesión onerosa directa de inmueble fiscal, celebrado entre el Fisco de Chile-Ministerio de Bienes Nacionales y Fotovoltaica Sol del Norte Limitada, para ejecutar el proyecto de ERNC "Huerta Solar Sol del Norte". La concesionaria dispondrá de un plazo de treinta y seis (36) meses, contados desde la celebración del contrato de concesión de fecha 4 de febrero de 2013, para ejecutar el referido proyecto de ERNC, hasta que se encuentre en condiciones de inyectar energía al Sistema Interconectado del Norte Grande. Demás condiciones en el decreto mencionado, que se encuentra disponible en su texto íntegro, en el sitio web del Ministerio de Bienes Nacionales.
+
+La escritura pública de modificación y complementación del contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del presente extracto.
+
+Autoriza extracto.- Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
