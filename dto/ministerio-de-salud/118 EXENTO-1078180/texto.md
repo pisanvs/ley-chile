@@ -24,7 +24,7 @@ Considerando:
 
 Decreto
 
-1º.- Apruébase la Norma Técnica Nº 158 sobre "Requisitos para la aplicación del Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP) en Establecimientos de Alimentos".
+1º.- Apruébase la Norma Técnica Nº 174 sobre "Requisitos para la aplicación del Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP) en Establecimientos de Alimentos".
 
 2º.- El texto que se aprueba en virtud del presente acto administrativo consta en un documento de diecisiete (17) páginas que forma parte integrante del presente decreto, cuyo original será visado por el Sr. Subsecretario de Salud Pública.
 
