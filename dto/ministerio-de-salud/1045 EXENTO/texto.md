@@ -4,23 +4,23 @@ Núm. 1.045 exento.- Santiago, 19 de diciembre de 2014.- Visto: Lo dispuesto en 
 
 Decreto:
 
-1.- Establécese a contar del 22 de diciembre de 2014 el siguiente orden de subrogancia del cargo del director del Servicio Salud de Chiloé, en caso de ausencia o impedimento del titular o suplente, será el siguiente:
+1.- Establécese a contar del 11 de agosto de 2015 el siguiente orden de subrogancia del cargo del director del Servicio Salud de Chiloé, en caso de ausencia o impedimento del titular o suplente, será el siguiente:
 
-Primer orden de Subrogancia
+Primer orden de subrogancia
+
+Gladys Marcela Cárcamo Hemmelman
+
+Rut: 8.738.546-9
+
+Subdirectora Administrativa Servicio de Salud Chiloé
+
+Segundo orden de subrogancia
 
 Francisco Javier Molina Vera
 
-RUT: 10.422.147-5
+Rut: 10.422.147-5
 
-Suplente ley 19.664.
-
-Segundo orden de Subrogancia
-
-Ramón Rebolledo
-
-RUT: 9.011.773-4
-
-Subdirector Administrativo Servicio de Salud Chiloé (T y P).
+Suplente Ley 19.664.
 
 2.- Declárase que el Director subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
