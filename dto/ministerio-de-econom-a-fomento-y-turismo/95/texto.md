@@ -106,7 +106,7 @@ Esta resolución y el informe técnico respectivo serán publicados en texto ín
 
 #### Artículo 7º
 
-Una vez culminado el proceso de selección de postulantes, la Subsecretaría, mediante resolución designará como integrantes del Comité de Manejo a los postulantes titulares y sus suplentes que cumplan con los requisitos de representación y que hayan resultado designados por cada uno de los sectores.
+Una vez culminado el proceso de selección de postulantes, la Subsecretaría, mediante resolución designará como integrantes del Comité de Manejo a los postulantes titulares y sus suplentes que cumplan con los requisitos de representación y que hayan resultado designados por cada uno de los sectores. No se podrá presentar una misma dupla de miembros titulares y suplentes para postular a dos o más cargos en un mismo Comité.
 
 En el caso de los representantes de los pescadores artesanales, serán designados como miembros titulares y sus suplentes, a los postulantes que adjunten la mayor cantidad de apoyos de pescadores artesanales inscritos en la respectiva pesquería, región o zona, de acuerdo con la ponderación de cada uno de ellos, según lo disponga la resolución a que se refiere el artículo anterior. Este apoyo podrá manifestarse individualmente por los pescadores artesanales o a través de las organizaciones de pescadores artesanales, computándose en este último caso, para efectos de apoyo, sólo a los pescadores artesanales que suscriban la respectiva acta en la cual la organización manifiesta el apoyo y que se encuentren inscritos en la pesquería objeto del respectivo plan de manejo.
 
@@ -158,13 +158,21 @@ Para los efectos de asesorar a la Subsecretaría en la elaboración, implementac
 
 #### Artículo 14
 
-A las sesiones del Comité sólo podrán asistir sus integrantes titulares o suplentes, en los casos de ausencias de los primeros, y aquellas personas que sean invitadas por el Presidente, de conformidad con el inciso segundo del artículo 5º del presente reglamento.
+A las sesiones del Comité, junto con sus integrantes titulares, podrán asistir con derecho a voz sus suplentes, y aquellas personas que sean invitadas por el Presidente, de conformidad con el inciso segundo del artículo 5º del presente reglamento.
+
+En caso que a una sesión de Comité de Manejo acuda el miembro titular y el suplente, sólo podrá concurrir al consenso del que habla el artículo 12 de este Reglamento, el miembro titular.
 
 Las actas, informes y opiniones del Comité quedarán disponibles a través de la Subsecretaría, de conformidad con el artículo 15 del presente reglamento.
 
 #### Artículo 15
 
 Todas las consultas y requerimientos que se efectúen a los Comités de Manejo serán efectuados por escrito, en soporte digital o papel, a través de la Subsecretaría. De la misma forma las recomendaciones emanadas de los respectivos Comités deberán remitirse por escrito a la Subsecretaría, adjuntando el Acta de la sesión en que dichas recomendaciones fueron acordadas.
+
+#### Artículo 15 bis
+
+Tratándose de los Comité de Manejo a que se refiere el artículo 8º de la Ley General de Pesca y Acuicultura, éstos podrán requerir anualmente al Comité Científico Técnico respectivo, para que en una sesión aborde las materias de su competencia y que sean de interés del Comité de Manejo.
+
+La citada sesión del Comité Científico Técnico deberá realizarse antes del mes de agosto del respectivo año calendario, y deberá contar con presencia de un representante de los pescadores artesanales, del sector pesquero industrial y de las plantas de proceso, del respectivo Comité de Manejo.
 
 ## Título IV — - De la cesación de los integrantes de los Comités de Manejo
 
@@ -194,7 +202,7 @@ Si un miembro del Comité cesare en su cargo antes del vencimiento del plazo por
 
 #### Artículo transitorio
 
-Hasta por el plazo de dos años contados desde la publicación del presente reglamento en el Diario Oficial podrán permanecer vigentes las mesas público-privadas que se hubieren constituido de conformidad con la ley Nº 20.560, asociadas a planes de manejo de recursos bentónicos de invertebrados y algas y a los planes de manejo a que se refiere el artículo octavo transitorio de la ley Nº 20.657 sobre los recursos erizo, almeja y luga en la Región de Los Lagos y de Aysén y huiro en la Región de Atacama. Al término del plazo antes señalado deberán realizarse los llamados a designación de los integrantes de los Comités de Manejo de conformidad con las normas de este reglamento.
+Hasta por el plazo de cuatro años contados desde la publicación del presente reglamento en el Diario Oficial podrán permanecer vigentes las mesas público-privadas que se hubieren constituido de conformidad con la ley Nº 20.560, asociadas a planes de manejo de recursos bentónicos de invertebrados y algas y a los planes de manejo a que se refiere el artículo octavo transitorio de la ley Nº 20.657 sobre los recursos erizo, almeja y luga en la Región de Los Lagos y de Aysén y huiro en la Región de Atacama. Al término del plazo antes señalado deberán realizarse los llamados a designación de los integrantes de los Comités de Manejo de conformidad con las normas de este reglamento.
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Félix de Vicente Mingo, Ministro de Economía, Fomento y Turismo.
 
