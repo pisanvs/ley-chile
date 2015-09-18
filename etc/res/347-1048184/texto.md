@@ -2966,6 +2966,18 @@ deberá seleccionar el mismo jefe revisor que
 
 figure como tal en el cargo.
 
+La denuncia por infracción al artículo 176
+
+letra o), deberá ser ingresada directamente por
+
+el encargado del control y gestión del Informe
+
+de Variación del Valor (IVV), con perfil Jefe
+
+Revisor, quien además, deberá aprobarla en el
+
+mismo acto, para que quede en estado Generada.
+
 2.3.1.2 REVISIÓN DEL JEFE REVISOR
 
 Será obligación del Jefe revisor designado,
