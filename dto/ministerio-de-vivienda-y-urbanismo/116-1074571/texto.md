@@ -128,6 +128,8 @@ b) Para las familias de sectores medios a que se refiere el artículo 2º del pr
 
 En el caso de familias de sectores medios a que se refiere el artículo 2º del presente reglamento, que hayan sido asignatarias de un subsidio habitacional sin aplicar, éste se homologará al subsidio habitacional señalado en la tabla precedente, no siendo necesario que enteren el monto del ahorro mínimo indicado en dicha tabla.
 
+En caso que en un proyecto se hubiese completado el porcentaje de viviendas destinadas a las Familias Vulnerables, los beneficiarios de subsidio del Título I, Tramo 1, del Sistema integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, podrán ser considerados como Familias de Sectores Medios en la medida que cumplan las condiciones para financiar su vivienda con recursos adicionales o crédito hipotecario. En este caso accederán a los montos de subsidio señalados en la tabla precedente no siendo necesario que enteren el ahorro mínimo indicado en dicha tabla.
+
 c) Subsidio para gastos operacionales para familias vulnerables.
 
 Conforme a los gastos que rindan, los beneficiarios obtendrán un subsidio adicional de hasta 10 Unidades de Fomento para el pago de los aranceles que correspondan para cubrir costos de escrituración, notaría e inscripción en el Conservador de Bienes Raíces. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, junto a los demás antecedentes exigidos para el pago del subsidio.
@@ -270,11 +272,13 @@ Por resolución del Ministro de Vivienda de Urbanismo se podrán efectuar las re
 
 Convenio con Entidades Desarrolladoras y Plazos.
 
-El Serviu tendrá un plazo de 30 días corridos, a partir de la fecha de la total tramitación de la resolución que apruebe la selección definitiva de proyectos, para suscribir un convenio con la entidad desarrolladora. En el convenio deberá constar a lo menos: La aprobación del proyecto; la empresa constructora que ejecutará las obras del proyecto; la cantidad de viviendas que integran el proyecto; la cantidad de viviendas que integran a familias vulnerables y sectores medios; el plazo para la recepción definitiva correspondiente al total de las viviendas del proyecto; requisitos exigidos; sanciones en caso que no se ejecute el proyecto, de acuerdo a lo señalado en artículo 18 del presente reglamento; y demás actos que incidan en la aplicación práctica de lo dispuesto en la resolución que llame a postulación a proyectos y en el presente reglamento. Los convenios serán aprobados por resolución del Director Serviu.
+El Serviu tendrá un plazo de 30 días corridos, a partir de la fecha de la total tramitación de la resolución que apruebe la selección definitiva de proyectos, para suscribir un convenio con la entidad desarrolladora. Si por causas justificadas o de fuerza mayor que a juicio del Serviu no hagan posible la suscripción del convenio en el plazo señalado, se podrá suscribir el convenio en un plazo posterior, el que no podrá exceder de 150 días a partir de la fecha de la total tramitación de la resolución que apruebe la selección definitiva de proyectos. En el convenio deberá constar, a lo menos: la aprobación del proyecto; la empresa constructora que ejecutará las obras del proyecto; la cantidad de viviendas que integran el proyecto; la cantidad de viviendas destinadas a familias vulnerables y sectores medios; el plazo para la recepción definitiva correspondiente al total de las viviendas del proyecto; requisitos exigidos; sanciones en caso que no se ejecute el proyecto, de acuerdo a lo señalado en artículo 18 del presente reglamento; y demás actos que incidan en la aplicación práctica de lo dispuesto en la resolución que llame a postulación a proyectos y en el presente reglamento. Los convenios serán aprobados por resolución del Director Serviu.
 
 El plazo máximo para iniciar obras no podrá exceder de 45 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la entidad desarrolladora.
 
 El plazo para el inicio de las obras podrá prorrogarse, por razones fundadas calificadas por el Director del Serviu, por una sola vez, por un máximo de hasta 30 días corridos. La entidad desarrolladora deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por este.
+
+También por razones fundadas, calificadas por el Director Serviu, se podrá otorgar un nuevo plazo a la entidad desarrolladora para iniciar obras, por una sola vez, el que en todo caso no podrá exceder de 180 días, contados desde la fecha de la resolución que aprueba el convenio a que se refiere el inciso primero precedente.
 
 El plazo para la recepción municipal del total de las viviendas del proyecto será de hasta 18 meses a contar del primer día del mes siguiente al de la fecha del inicio de las obras, y sólo podrá prorrogarse en una sola oportunidad y hasta por 180 días, mediante resoluciones fundadas del Secretario Regional Ministerial de Vivienda y Urbanismo. La prórroga de este plazo sólo podrá autorizarse con anterioridad a su vencimiento.
 
@@ -449,6 +453,10 @@ Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo se determina
 Todos los actos administrativos que se originen del presente reglamento se publicarán en el Diario Oficial, sin perjuicio de su publicación en otros medios que el Minvu estime convenientes.
 
 Por razones de urgencia, la Contraloría General de la República se servirá tomar razón del presente decreto en el plazo de cinco días.
+
+#### Artículo 1º
+
+transitorio. Los beneficiarios de subsidios de llamados efectuados a partir del año 2014 por este Ministerio, en cualquiera de sus Programas Habitacionales, destinados a la atención de damnificados como consecuencia de sismos o catástrofes en zonas que el Ministerio del Interior ha declarado como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por el DS Nº 104 de Interior de 1997, podrán adquirir viviendas en proyectos seleccionados conforme a este reglamento, pudiendo optar a viviendas destinadas a familias vulnerables, o de sectores medios; en este último caso solo si se trata de damnificados que han obtenido un subsidio regulado por el DS Nº1 (V. y U.), de 2011. Los damnificados podrán aplicar los montos de subsidio dispuestos en los llamados referidos si resultan más convenientes y también ser considerados para determinar el Bono por Captación de Subsidios, de acuerdo a lo señalado en el artículo 7º de este decreto.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
