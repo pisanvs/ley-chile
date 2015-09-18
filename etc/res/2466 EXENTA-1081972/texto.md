@@ -1,0 +1,7 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución Nº 2.466 exenta, de 10 de septiembre de 2015, de esta Subsecretaría, declárase la caducidad total de las resoluciones exentas Nº 989 y Nº 1.427, ambas de 2004, Nº 2.861 de 2007, Nº 1.603, Nº 3.349 y Nº 3.350 todas de 2008, Nº1.837 y Nº 3.817 ambas de 2010, Nº 1.307 de 2012, Nº 2.237 de 2007, Nº 3.247 de 2012 y Nº480 de 2013, todas de esta Subsecretaría, que autorizaron a Foodcorp Chile S.A., para realizar actividades pesqueras extractivas con las naves "Chivilingo I", "Marpro I" y "Ligrunn", respecto de los recursos y en las áreas marítimas que en cada una de ellas se indica, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Declárase asimismo la caducidad parcial de las resoluciones exentas resolución Nº 1.507 de 2004 y Nº 1.688 de 2010, ambas esta Subsecretaría, solo en cuanto autorizaron a Foodcorp Chile S.A. para realizar actividades pesqueras extractivas con las naves "Don Manuel" y "Cazador" en el área marítima comprendida entre las V a VII y IX a X Regiones respecto del recurso hidrobiológico Jibia.
+
+Valparaíso, 10 de septiembre de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
