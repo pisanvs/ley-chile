@@ -242,6 +242,10 @@ c) Vehículos que se aproximen a un cruce para virar a la derecha, podrán ingre
 
 d) Buses de transporte público rural e interurbano que utilicen Av. Libertador Bernardo O'Higgins (Alameda) y, buses de transporte público rural que usen calle San Diego, siempre y cuando dichas vías se encuentren incorporadas en los respectivos certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, como parte de sus trazados
 
+e) Vehículos utilizados para labores de mantención y conservación de paraderos por la empresa concesionaria, en cumplimiento del contrato de concesión "Estaciones de Transbordo para Transantiago", debidamente identificados por la misma para tal función, los que podrán circular, para el solo efecto de realizar las labores antes referidas, por pistas de uso exclusivo de la Av. Libertador Bernardo O'Higgins (Alameda), en ambos sentidos, y por las pistas de uso exclusivo de las siguientes vías, en los tramos y, según sentido de tránsito indicado en el presente cuadro:
+
+.
+
 Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte estas pistas exclusivas con el único objetivo de acceder o egresar desde su residencia o el lugar de estacionamiento habitual, podrán hacerlo restringidamente, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, las maniobras de ingreso o salida respecto de pistas exclusivas en relación a las que no lo son, se realizará de la siguiente forma:
 
 i) El ingreso a la pista exclusiva podrá efectuarse en cualquiera de las demarcaciones correspondientes a los dos cruces anteriores a la ubicación de la residencia o estacionamiento respectivo.
