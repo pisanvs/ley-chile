@@ -1892,17 +1892,35 @@ Los Informes ALFA y DELTA son documentos base
 
 y se respaldan en información que se registra
 
-en los formatos normalizados: Encuesta Familiar
+en los formatos normalizados: Ficha Básica de
 
-Unica de Emergencia (EFU); Informe Unico de
+Emergencia (FIBE); Informe Único de Evaluación
 
-Evaluación de Daños y Necesidades Infraestructura
+de Daños y Necesidades Infraestructura y
 
-y Servicios (EDANIS) y la Planilla Unica de
+Servicios (EDANIS) y la Planilla Única de
 
 Recepción, Entrega y Disponibilidad de Elementos
 
-de Socorro (REDES).
+de Socorro (REDES). La Ficha Básica de
+
+Emergencia (FIBE) es un documento cuya
+
+administración reside en la Subsecretaría
+
+de Servicios Sociales del Ministerio de
+
+Desarrollo Social (MDS), quien coordina su
+
+aplicación en conjunto con los municipios
+
+afectados y cuyo análisis es entregado
+
+periódicamente a la Oficina Nacional de
+
+Emergencia para la toma de decisiones
+
+asociada a la respuesta a la emergencia.
 
 El propósito de estos instrumentos es normalizar
 
@@ -1960,7 +1978,7 @@ La responsabilidad de administrar recursos, ya sea ante una emergencia o un desa
 
 7. Procedimiento general de elaboración y flujo de Información de Emergencia
 
-Los Directores de Protección Civil o Emergencia son los responsables de la elaboración de los Informes ALFA y DELTA y de la coordinación de la aplicación correcta de los instrumentos normalizados de respaldo EFU, EDANIS y REDES, en su respectiva área jurisdiccional.
+Los directores de protección civil o emergencia son los responsables de la elaboración de los informes ALFA y DELTA y de la coordinación de la aplicación correcta de los instrumentos normalizados de respaldo FIBE, EDANIS y REDES, en su respectiva área jurisdiccional.
 
 El procedimiento general para elaboración de los informes y flujos de información que se generan en los niveles municipal, provincial y regional es el siguiente:
 
@@ -1974,13 +1992,13 @@ elaborar, en el más breve plazo, un Informe ALFA.
 
 Si el evento destructivo genera daños a las
 
-personas y/o a viviendas -damnificados, heridos,
+personas y/o a viviendas - damnificados,
 
-muertos, desaparecidos- se debe coordinar la
+heridos, muertos, desaparecidos - se debe
 
-aplicación a cada familia de la encuesta EFU
+coordinar la aplicación a cada familia de
 
-(Area Social).
+la encuesta FIBE (Área Social).
 
 Si el evento destructivo genera daños a la
 
@@ -2036,29 +2054,49 @@ REDES actualizada, referente a elementos de
 
 socorro.
 
-Las encuestas familiares únicas de emergencia,
+Las Fichas Básicas de Emergencia, FIBE,
 
-EFU, como los informes de daños de
+como los informes de daños de
 
-infraestructura y servicios, EDANIS, que
+infraestructura y servicios, EDANIS,
 
-respaldan la información consignada en los
+que respaldan la información consignada
 
-informes ALFA o DELTA, deben permanecer
+en los informes ALFA o DELTA, deben
 
-disponibles y ser utilizados en la Municipalidad
+permanecer disponibles y ser utilizados
 
-respectiva. Copias de estos documentos pueden
+en la municipalidad respectiva. Copia de
 
-ser requeridas por Autoridades Superiores o
+estos documentos, pueden ser requeridas
 
-Sectoriales como antecedentes específicos y
+por autoridades superiores o sectoriales
 
-válidos para elaborar, por ejemplo, un Plan
+como antecedentes específicos y válidos
 
-de Rehabilitación o Reconstrucción a nivel
+para elaborar, por ejemplo, un plan de
 
-Regional.
+rehabilitación o reconstrucción a nivel
+
+regional. La Ficha Básica de Emergencia
+
+(FIBE) es un documento cuya administración
+
+reside en la Subsecretaría de Servicios
+
+Sociales del Ministerio de Desarrollo
+
+Social (MDS), quien coordina su aplicación
+
+en conjunto con los municipios afectados
+
+y cuyo análisis es entregado periódicamente
+
+a la Oficina Nacional de Emergencia para la
+
+toma de decisiones asociada a la respuesta
+
+a la emergencia.
 
 7.2. Nivel Provincial
 
@@ -2142,23 +2180,43 @@ ocurrencia de emergencias o desastres en las
 
 respectivas Municipalidades.
 
-Ante la ocurrencia de un evento destructivo que
+Ante la ocurrencia de un evento destructivo
 
-requiera la conformación de Equipos de Trabajo
+que requiera la conformación de equipos de
 
-a nivel provincial para apoyar la gestión de
+trabajo a nivel provincial para apoyar la
 
-evaluación de daños y necesidades en las comunas
+gestión de evaluación de daños y necesidades
 
-afectadas, el Director o Encargado Provincial
+en las comunas afectadas, el Director o
 
-de Protección Civil y Emergencia velará para
+Encargado Provincial de Protección Civil y
 
-que estos equipos trabajen coordinadamente con
+Emergencia velará para que estos equipos
 
-las municipalidades y ocupen los formatos EFU
+trabajen coordinadamente con las municipalidades
 
-y EDANIS, incluidos en el presente manual.
+y ocupen los formatos FIBE y EDANIS, incluidos
+
+en el presente manual. La Ficha Básica de
+
+Emergencia (FIBE) es un documento cuya
+
+administración reside en la Subsecretaría de
+
+Servicios Sociales del Ministerio de Desarrollo
+
+Social (MDS), quien coordina su aplicación en
+
+conjunto con los municipios afectados y cuyo
+
+análisis es entregado periódicamente a la
+
+Oficina Nacional de Emergencia para la toma
+
+de decisiones asociada a la respuesta a la
+
+emergencia
 
 7.3. Nivel Regional
 
@@ -2248,13 +2306,35 @@ gestión de evaluación de daños y necesidades
 
 en las comunas afectadas, el Director Regional
 
-de Protección Civil y Emergencia velará para
+de Protección Civil y Emergencia en conjunto
 
-que estos equipos trabajen coordinadamente con
+con el SEREMI de Desarrollo Social velará
 
-las municipalidades y ocupen los formatos EFU
+para que estos equipos trabajen coordinadamente
 
-y EDANIS, incluidos en el presente manual.
+con las municipalidades y ocupen los formatos
+
+FIBE y EDANIS, incluidos en el presente
+
+manual. La Ficha Básica de Emergencia (FIBE)
+
+es un documento cuya administración reside
+
+en la Subsecretaría de Servicios Sociales
+
+del Ministerio de Desarrollo Social (MDS),
+
+quien coordina su aplicación en conjunto
+
+con los municipios afectados y cuyo análisis
+
+es entregado periódicamente a la Oficina
+
+Nacional de Emergencia para la toma de
+
+decisiones asociada a la respuesta a la
+
+emergencia.
 
 La siguiente figura resume el flujo de
 
@@ -2262,35 +2342,7 @@ información, de acuerdo a los Informes que
 
 corresponde elaborar en cada nivel:
 
-INCIDENTE O EMERGENCIA GRAVE
-
-EMERGENCIA O DESASTRE
-
-ONEMI CONSOLIDADA REDES
-
-NACIONAL
-
-INTENDENCIA CONSOLIDA REDES
-
-REGIONAL
-
-GOBERNACION CONSOLIDA REDES
-
-PROVINCIAL
-
-MUNICIPAL
-
-ALFA ALFA/DELTA REDES
-
-COMUNAL
-
-EFU/EDANIS
-
-APB/CFG
-
-D.P.CIVIL
-
-04/1998
+.
 
 ANEXOS
 
@@ -2300,7 +2352,7 @@ ANEXOS
 
 3. FORMATO E INSTRUCTIVO INFORME DE EMERGENCIA GRAVE O DESASTRE: INFORME DELTA
 
-4. FORMATO Y GUIA PARA EL USO DE LA ENCUESTA FAMILIAR UNICA DE EMERGENCIA: ENCUESTA EFU
+4. FORMATO Y GUIA PARA EL USO DE LA FICHA BASICA DE EMERGENCIA: FICHA FIBE
 
 5. FORMATO Y GUIA PARA EL USO DEL INFORME UNICO DE EVALUACION DE DAÑOS Y NECESIDADES INFRAESTRUCTURA Y SERVICIOS: INFORME EDANIS
 
@@ -2348,7 +2400,7 @@ Terminado el evento, un Informe ALFA también puede resumir la información rele
 
 Sí. Existen tres instrumentos normalizados que permiten respaldar la información contenida en un informe ALFA o DELTA:
 
-a. La Encuesta Familiar Unica (EFU) de Emergencia, que respalda documentalmente la evaluación de daños a las Personas y Viviendas y que consigna las Necesidades básicas, como consecuencia de una emergencia o desastre de origen natural o antrópico.
+a. La Ficha Básica de Emergencia (FIBE), que respalda documentalmente la evaluación de daños a las Personas y percepción de daño en Viviendas y que consigna las Necesidades básicas, como consecuencia de una emergencia o desastre de origen natural o antrópico. Esta Ficha es administrada por la Subsecretaría de Servicios Sociales del Ministerio de Desarrollo Social (MDS), quien coordina su aplicación en conjunto con los municipios afectados y cuyo análisis es entregado periódicamente a la Oficina Nacional de Emergencia para la toma de decisiones asociada a la respuesta a la emergencia.
 
 b. El Informe Unico de Evaluación de Daños y Necesidades en Infraestructura y Servicios (EDANIS), que respalda documentalmente los daños a los Servicios Básicos e Infraestructura y permite detectar sus necesidades básicas para superar la situación de emergencia.
 
@@ -2380,115 +2432,7 @@ Recuerde que a nivel comunal, provincial, regional y nacional (ONEMI), se maneja
 
 Completado el informe ALFA o DELTA, éstos se guardan en un archivador o carpeta especial para estos efectos. Junto a los formularios, se debe anexar toda la información que se haya recibido de otros servicios o instituciones, si es el caso, y que se refieran a la misma situación.
 
-PLAN DEDO$ INFORME ALFA
-
-OFICINA NACIONAL DE EMERGENCIA-MINISTERIO DEL INTERIOR
-
-INFORME DE INCIDENTE O EMERGENCIA Nº
-
-1. IDENTIFICACION: REGION: PROVINCIA: COMUNA:
-
-FUENTE: FONO:
-
-2. TIPO DE EVENTO DESCRIPCION DEL EVENTO:
-
-SISMO (ESCALA MERCALLI)
-
-I II III IV V VI VII VIII IX X
-
-XI XII
-
-INUNDACION INCENDIO URBANO
-
-TEMPORAL SUST. PELIGROSAS
-
-DESLIZAMIENTO ACC. MULT. VICTIMAS
-
-ACT. VOLCANICA CORTE ENERGIA ELECT.
-
-INC. FORESTAL CORTE AGUA POTABLE
-
-OTRO
-
-OCURRENCIA: DIRECCION/UBICACION: U
-
-HORA DIA MES AÑO 200 R
-
-3. DAÑOS SERVICIOS BASICOS,
-
-INFRAESTRUCTURA Y
-
-OTROS:
-
-PERSONAS Nº VIVIENDAS Nº
-
-AFECTADAS DAÑO MENOR
-
-HABITABLE
-
-DAMNIFICADAS DAÑO MAYOR
-
-NO HABITABLE
-
-HERIDAS DESTRUIDAS
-
-IRRECUPERABLE
-
-MUERTAS
-
-DESAPARECIDAS NO EVALUADAS
-
-ALBERGADOS
-
-MONTO ESTIMADO DE DAÑOS
-
-($)
-
-4. DECISIONES ACCIONES Y INMEDIATAS: OPORTUNIDAD
-
-SOLUCIONES (TPO)
-
-RESTABLECIMIENTO:
-
-5. RECURSOS INVOLUCRADOS TIPO (HUMANO-MATERIAL-TECNICO
-
--MONETARIO)
-
-GASTO ESTIMADO ($):
-
-6. EVALUACION DE NECESIDADES 7. CAPACIDAD DE
-
-RESPUESTA
-
-NO SE REQUIERE (RECURSOS
-
-SUFICIENTES)
-
-SE REQUIERE (INDICAR
-
-CANTIDAD, TIPO Y MOTIVOS)
-
-NIVEL NIVEL NIVEL NIVEL
-
-I II III IV
-
-RECURSO RECURSO RECURSO RECURSO
-
-LOCAL LOCAL APOYO APOYO
-
-HABI- REFOR- NIVEL NIVEL
-
-TUAL ZADO REGIONAL
-
-NACIONAL
-
-8. OBSERVACIONES
-
-9. RESPONSABLE DEL INFORME
-
-IDENTIFICACION: FECHA: HORA:
-
-¡Use letra clara!
+.
 
 INSTRUCTIVO INFORME DE INCIDENTE O EMERGENCIA (INFORME
 
@@ -2994,325 +2938,137 @@ Se indicará cualquier información útil para la toma de decisiones o aclarator
 
 - Identificación de quien elabora el informe - Fecha y hora de elaboración
 
-INSTRUCTIVO INFORME DE EMERGENCIA GRAVE O DESASTRE
+.
 
-INFORME DELTA
+GUIA DE APLICACIÓN DE LA FICHA BÁSICA DE EMERGENCIA FIBE
 
-1. IDENTIFICACION DEL LUGAR AFECTADO
+Protocolo: Organización del levantamiento de Catastro de afectados de acuerdo al Plan de Emergencia
 
-Región, Provincia y Comuna
+Manejo de la Emergencia: corresponde al desarrollo de una gestión integral que involucra: el control del evento, sus impactos en la población, bienes y entorno, el establecimiento de alertas, la evacuación, la coordinación y movilidad de recursos, la evaluación de daños y necesidades y la permanente información a la autoridad superior y a la comunidad, entre muchas otras acciones.
 
-2. TIPO DE EVENTO
+De acuerdo a lo anterior, un mismo evento o incidente adverso puede constituir una emergencia para un sistema y desastre para otro. Por otro lado, lo que para un sistema como el nivel local puede constituir un desastre, debido a que superó su capacidad de respuesta, para el sistema como el nivel nacional puede constituir una emergencia.
 
-Anotar el tipo de evento generador del daño (sismo, inundación, explosión, incendio urbano, incendio forestal, accidente con sustancias peligrosas, accidentes, con múltiples víctimas, etc.) Ocurrencia: se indica el día, mes, año y la hora de ocurrencia o inicio del evento destructivo.
+La capacidad de respuesta en relación a los daños, las pérdidas y el impacto, son los únicos factores objetivos que permiten determinar, en el mínimo tiempo posible, la dimensión de un evento, con el fin de priorizar y disponer las acciones más efectivas para el control de la situación.
 
-3. EVALUACION DE DAÑOS
+Para una mayor claridad en la delimitación entre situaciones de emergencias, desastres o catástrofes, se han establecido cuatro niveles, en relación a la capacidad de respuesta:
 
-3.1. Personas
+Nivel I: Situación que es atendida con recursos locales habitualmente disponibles para emergencias en un territorio en particular. Por ejemplo: el rompimiento de una matriz de agua es atendido por el servicio de emergencia propio de la empresa de agua potable respectiva; el incendio de una o dos viviendas es combatido por la Compañía de Bomberos del sector y Carabineros de la Tenencia local estable un perímetro de seguridad en el área del siniestro.
 
-En esta tabla se registran en número los daños
+Nivel II: Situación que es atendida con recursos locales adicionales o reforzados, dispuestos para emergencias, sin exceder su capacidad. Normalmente se establece una coordinación a nivel comunal. Por ejemplo: ante el rompimiento de una matriz de agua potable cuya reparación tardará algunos días, el Municipio debe contratar camiones aljibes en la misma localidad, para abastecer a la población.
 
-directos que con ocasión de la emergencia o
+Nivel III: Situación que sobrepasa la capacidad local de respuesta. Se establece una coordinación a nivel provincial o regional. Por ejemplo: para el combate de un incendio forestal de grandes proporciones, la Dirección Regional de la ONEMI solicita apoyo a la Intendencia Regional para coordinar operativos (Bomberos, CONAF, entre otros.) y para la contratación de aviones cisterna.
 
-desastre, han afectado a las personas.
+Nivel IV: Situación que sobrepasa la capacidad regional, requiriéndose el apoyo de recursos dispuestos y/o coordinados por el nivel nacional. Por ejemplo: terremoto, cuyos efectos sobrepasan siempre la capacidad regional de respuesta, ante lo cual se debe establecer una coordinación superior para las operaciones multisectoriales que permitan superar la situación.
 
-- Heridos: Nº de personas que con ocasión de una
+Generalmente, los eventos destructivos de los niveles I y II se asocian con el concepto de emergencia y los niveles III y IV con el concepto de desastre, cabe destacar que respecto al nivel IV también esta pudiese ser catalogada como catástrofe.
 
-emergencia o desastre son atendidos en los
+Cuando la emergencia es del nivel local (I y II), la coordinación de la ejecución de la ficha estará a cargo del Alcalde.
 
-servicios de salud.
+Cuando la Emergencia escale a nivel regional o nacional (interregional) la coordinación de la ejecución de la ficha estará a cargo del Intendente asesorado por el SEREMI de Gobierno Interior y el SEREMI del Ministerio de Desarrollo Social.
 
-- Muertos: Nº de personas que con ocasión de
+Preparación inicial:
 
-una emergencia o desastre fallecen y han sido
+Se debe establecer un equipo de coordinación con un responsable de los estamentos indicados anteriormente de acuerdo al nivel de emergencia.
 
-plenamente identificadas como tales por las
+Análisis de mapas actualizados de las zonas urbanas a escala 1:5.000, 1:10.000 o 1:15.000, dependiendo del tamaño y complejidad de la ciudad y demarcación de la o las áreas afectadas.
 
-instancias correspondientes.
+Identificación de las manzanas y nombres de calles.
 
-- Desaparecidos: Nº de personas que con ocasión
+Definición de área de trabajo: Esto implica trazar en un mapa (o varios), las diferentes "zonas" en las que se dividirá la labor de recolección de datos. Asignación de nombres a las zonas de trabajo
 
-de una emergencia o desastre presuntamente han
+Asignación de zonas de trabajo a Encargados de Equipos de levantamiento de catastro de emergencia, quienes tendrán bajo su responsabilidad la aplicación del instrumento de caracterización ante emergencias.
 
-fallecido o no han sido encontradas y por tanto
+Equipos de Catastro: Una cuadrilla formada por entrevistadores capacitados que levantarán los datos directamente en terreno.
 
-no han podido ser calificadas como tales por
+Cada Encargado de Equipo tendrá máximo 20 entrevistadores a su cargo.
 
-las instancias correspondientes.
+Individualización de los entrevistadores: Antes de salir a terreno, los entrevistadores (as) serán registradas con su RUT, profesión u oficio, número de celular, y correo electrónico. Este registro y la correspondiente acreditación lo llevará el MDS.
 
-- Adulto: persona de 15 o más años de edad.
+Instrucciones operativas:
 
-- Menor: persona menor de 15 años de edad.
+Antes de salir a terreno es necesario realizar una última revisión del protocolo verificando la unificación de criterios, y resolver cualquier tipo de duda. Esto implica que en el caso de la FIBE, este chequeo del protocolo lo realice el Director (a) de Desarrollo Comunitario de cada Municipio asesorado por Director Comunal de Protección Civil y Emergencia en las emergencias del nivel local; y en las de nivel regional por el Delegado del SEREMI de MDS en la escala regional y el Director Regional de Protección Civil y Emergencia
 
-3.2. Personas damnificadas fuera de albergue
+En emergencias de nivel nacional, la coordinación la asumirá la División de Focalización de la Subsecretaría de Servicios Sociales de MDS.
 
-En esta tabla se registra el total de familias
+Equipo de digitadores de los datos recogidos en la FIBE: Es necesario que se determine (antes de salir a terreno), si los digitadores serán personas diferentes a las personas que salen a terreno, o si esta tarea será asumida por los mismos equipos de trabajo que registran los datos en terreno.
 
-y personas damnificadas.
+Levantamiento de la FIBE en terreno: Los equipos de trabajo salen a terreno y levantan datos únicamente de las zonas que han sido asignadas.
 
-- Damnificado: quien ha sufrido, en su persona
+Los Encargados de Zonas de Catastro deben supervisar y controlar el trabajo de captura de datos en terreno a través de los medios disponibles (radio; teléfono celular, mensajería instantánea, entre otros). Esta fase resulta fundamental para asegurar datos confiables, para la posterior validación de datos.
 
-o en sus bienes, especialmente
+Evaluación y corrección: Los responsables de zonas, en conjunto con la autoridad coordinadora evaluarán el progreso del trabajo y realizarán las correcciones de equipo y zonas necesarias.
 
-en su condición de habitabilidad,
+Reportes de Datos: Informe periódico de datos recolectados El coordinador debe supervisar que los datos se digiten eficaz y eficientemente en la Plataforma de la Ficha Básica de Emergencia de la Subsecretaría de Desarrollo Social.
 
-daños evaluables y cuantificables
+La División de Focalización de la Subsecretaría de Servicios Sociales de MDS será la responsable de validar la información subida a la Plataforma de la Ficha Básica de Emergencia de la Subsecretaría de Desarrollo Social. Una vez validados los datos, publicará con acceso restringido a las autoridades que deben tomar decisiones, las Fichas FIBE.
 
-provocados directamente por una
+1. ¿Qué es la FIBE?
 
-emergencia o desastre, como
+Es un instrumento de catastro que se aplica en terreno en el o las áreas afectadas como consecuencia de una emergencia, para identificar a los afectados y sus grupos familiares.
 
-también los familiares que vivan
+Previa validación de los datos personales del encuestado y/o su grupo familiar, con datos del Servicio de Registro Civil, de la Ficha de Protección Social o instrumento de estratificación vigente y otras bases administrativas, y calificado como damnificado, facilita ordenar y priorizar la respuesta del Estado.
 
-a sus expensas. También se
+2. ¿Cuándo se aplica la FIBE?
 
-considerará damnificada a la
+La ficha debe aplicarse toda vez que se presente un evento que generare algún tipo de daño a las personas o a sus bienes. Este cuestionario debe aplicarse a partir de las primeras horas en caso de Emergencias de Escala Local o a partir de las primeras 24 horas de ocurrida la emergencia, una vez que hayan operado los procedimientos de resguardo vital de la comunidad.
 
-persona que por la misma causa
+3. ¿Quiénes aplican la Ficha de Emergencia?
 
-haya perdido su fuente laboral,
+La ficha es aplicada por personal de los departamentos sociales del municipio de la comuna afectada en Emergencias de nivel Local; por entrevistadores capacitados y autorizados por el SEREMI de MDS según se trate de Emergencias de Escala Provincial, Regional o Nacional, siempre en coordinación con el o los Directores de Desarrollo Comunitario de los municipios afectados, en coordinación con los Directores de Protección Civil y Emergencia respectivos.
 
-ocupación o empleo.
+4. ¿Cómo se efectúa la coordinación para la aplicación de la ficha?
 
-3.3. Personas damnificadas en albergue
+Ante la ocurrencia de un evento catalogado como emergencia, los equipos sociales del municipio se autoconvocan en la Municipalidad respectiva y quedan a disposición de la autoridad competente, quien realizará la definición de actividades para la gestión de aplicación del instrumento.
 
-En esta tabla se registran los albergues
+En Emergencias de Escala Regional o Nacional los Equipos de catastro se autoconvocarán en la Intendencia o lugar preestablecido en el Plan Regional de Catastro o Emergencia.
 
-habilitados (Escuelas, Postas, Unidades
+5. ¿Qué variables incluye la ficha?
 
-Vecinales, Recintos Municipales, etc.)
+Incluye variables de conformación del grupo familiar y una caracterización básica de éste, así como una serie de consultas de situación de pérdida, medidas como la diferencia entre el estado actual de los afectados respecto al anterior a ocurrida la emergencia. Los datos registrados en este cuestionario representan un insumo básico para poder efectuar una eficiente toma de decisiones. La ficha contiene los siguientes módulos:
 
-indicando para cada uno de ellos, el Nº de
+. Dirección del Hogar
 
-familias, desglosadas en Nº de adultos,
+. Composición del grupo Familiar
 
-Nº de menores y el total de personas albergadas.
+. Información de la Vivienda
 
-7.- EVALUACION PRELIMINAR DE LA VIVIENDA
+. Ubicación de dónde está durmiendo el grupo familiar
 
-Breve descripción del daño:
+. Damnificado laboral
 
-Sin daño
+. Necesidades detectadas
 
-Con daño menor
+Asimismo se deben registrar al pie de página los datos de entrevistador y entrevistado, con sus respectivas cédulas de identidad o documentos de identificación.
 
-Con daño mayor recuperable
+La persona encuestada firmará la declaración de veracidad de la información entregada al encuestador, y se quedará con un comprobante del llenado de dicha ficha.
 
-Destruida/irrecuperable
+6. ¿Dónde se aplica la Ficha Básica de Emergencia?
 
-8.- DETERMINACION CALIDAD DE DAMNIFICADO
+Pueden presentarse diversas situaciones de ubicación de las familias afectadas. El cuestionario puede aplicarse en el domicilio del grupo familiar o bien en una ubicación distinta, tal como un albergue o el domicilio de un familiar. En cualquiera de estos últimos casos, en que la familia no se encuentre en su domicilio, debe entregar la información correspondiente a su vivienda, tal como la dirección y necesidades asociadas.
 
-El grupo familiar, ¿Sufrió daños en las personas o en sus bienes a tal punto que le impidan desarrollar sus actividades en su hogar en forma normal?
+7. ¿Quiénes pueden responder la Ficha Básica de Emergencia?
 
-No Si Explique
+La encuesta puede responderla cualquier integrante del grupo familiar que sea mayor de edad. Los casos excepcionales, como por ejemplo familias que no tengan integrantes mayores de edad, pueden ser visados por el Municipio.
 
-El Jefe de Hogar, ¿Perdió su ocupación o empleo como consecuencia de la emergencia o desastre?
+8. ¿Para qué sirve la información recopilada en la Ficha Básica de Emergencia?
 
-No Si Explique
+La información recopilada en la Ficha y validada en la Unidad de Catastro en Emergencia de MDS, es vital para ordenar y entregar la respuesta del Estado y con ello gestionar y validar las acciones necesarias para suplir las necesidades básicas de la población que pudieron resultar mermadas producto de la emergencia.
 
-9.- NECESIDADES BASICAS DETECTADAS
+9. ¿Qué sucede si la información que el informante del grupo familiar entrega en la Ficha Básica de Emergencia no es veraz?
 
-Especificar
+Si la información entregada no es veraz, se invalidará la calidad de damnificado de la persona encuestada y su grupo familiar. Asimismo, si los datos entregados por el informante del grupo familiar no tienen relación con la realidad, se estudiará la pertinencia de iniciar acciones legales contra el informante del grupo familiar.
 
-Alimentos
+10. ¿Qué registro queda de la aplicación del instrumento?
 
-Vestuario
+La Ficha es llenada en un formulario autocopiativo, con un original y dos copias o en un dispositivo electrónico preparado para tal efecto. En el caso de llenado en papel, el original queda en poder del municipio, la primera copia es entregada al informante del grupo familiar y la segunda copia se almacena en la Secretaría Regional Ministerial del Ministerio de Desarrollo Social. Y en el caso de llenado digital, se entregara una impresión de este llenado al municipio respectivo y un comprobante al grupo familiar de que fue encuestado.
 
-Colchones/frazadas
+11. ¿Cómo se puede realizar seguimiento a una Ficha Básica de Emergencia?
 
-Mat. de Construcción
+Todos los formularios tienen en el extremo superior derecho un número de folio por evento, el cual puede ser consultado en el municipio para conocer detalles de la encuesta aplicada.
 
-Viv. de Emergencia
+12. ¿Dónde se puede obtener información de las variables incluidas en el cuestionario?
 
-Atención de Salud
-
-Traslado albergue
-
-Otros
-
-10.- SOLUCIONES ADOPTADAS DURANTE LA VERIFICACION
-
-11.- DEFINICION DE PRIORIDADES
-
-1 Albergados y/o 2 Damnificados y
-
-Viv. Destruida Viv. Daño Mayor
-
-3 Damnificados y 4 Otro caso:
-
-Viv. Daño Menor
-
-Nombre Encuestador Firma Encuestador
-
-SOLUCION DE EMERGENCIA (USO MUNICIPALIDAD)
-
-No corresponde Requiere otro tipo Entrega de
-
-de solución solución según
-
-guías
-
-municipales.
-
-Informe de Soluciones de Emergencia:
-
-Nombre Fecha Firma
-
-GUIA PARA EL USO DE LA ENCUESTA FAMILIAR UNICA DE
-
-EMERGENCIA
-
-EFU
-
-¿Qué es la Encuesta Familiar Unica (EFU) de Emergencia?
-
-Es un instrumento de evaluación de daños sobre las variables fundamentales destinadas a identificar y priorizar las necesidades de familias -con cuantificaciones de las personas que las integran- potencialmente damnificadas con ocasión de un evento destructivo.
-
-Este formulario se utiliza específicamente ante la ocurrencia de situaciones de emergencia o desastre de origen natural o humano (antrópico), no siendo conveniente el uso de otros formatos diseñados para objetivos sociales distintos, puesto que puede confundir la evaluación concreta del impacto de un evento destructivo.
-
-¿Con qué objetivos?
-
-a. Normalizar a nivel nacional el proceso de encuestaje de personas afectadas por un evento destructivo, reduciendo los niveles de redundancia e inconsistencia de la información.
-
-b. Identificar objetivamente a las personas damnificadas y detectar sus necesidades básicas esenciales para superar la situación de emergencia por la ocurrencia de un evento destructivo determinado.
-
-c. Respaldar documentalmente los ítems Daños a las Personas, Vivienda y Necesidades, en los Informes ALFA y DELTA preparados a nivel comunal.
-
-¿Cuándo se debe utilizar la encuesta EFU?
-
-Esta encuesta se debe utilizar en todo evento destructivo en el cual resulten afectadas personas, con daños en sus viviendas.
-
-¿Cuáles son las variables incluidas en el instrumento?
-
-Las principales variables que incluye el instrumento son:
-
-- Identificación del jefe de hogar y su grupo familiar.
-
-- Identificación de la vivienda afectada en cuanto a
-
-ocupación, tenencia, situación de terreno y servicios
-
-básicos.
-
-- Situación económica del grupo familiar.
-
-- Evaluación preliminar de daños de la vivienda.
-
-- Determinación de calidad de damnificado.
-
-- Necesidades básicas esenciales detectadas.
-
-- Soluciones adoptadas.
-
-¿Quién elabora la Encuesta Familiar Unica de Emergencia?
-
-El instrumento está diseñado para ser utilizado por Asistentes Sociales, y sólo cuando sea posible, conformando equipo con personal técnico en evaluación de viviendas.
-
-¿Quién coordina la aplicación de la Encuesta?
-
-La aplicación de la encuesta debe ser coordinada por el nivel municipal.
-
-Si la magnitud del evento destructivo requiere de equipos externos a la Municipalidad para apoyar la gestión local, éstos deben trabajar coordinadamente con la instancia municipal correspondiente.
-
-¿Cómo se hace operativo el proceso de encuestaje?
-
-Al producirse un evento destructivo, con daños en viviendas, se generan dos procesos complementarios entre sí:
-
-a. Las personas potencialmente afectadas se presentan en la Municipalidad denunciando la situación que los afecta.
-
-Se llena la Encuesta Unica en el ítem 1.Solicitud, registrándose la fecha, el nombre y cédula de identidad del solicitante, la dirección y el requerimiento específico.
-
-Las solicitudes traspasadas al equipo de Asistentes Sociales de la municipalidad para su verificación, evaluación de la denuncia en terreno generando cursos de acción o adoptando y registrando soluciones de emergencia inmediatas.
-
-b. Uno o varios equipos salen a terreno a evaluar zonas o áreas afectadas por un evento destructivo, verificando y evaluando daños directos a las personas y sus bienes, generando cursos de acción o adoptando y registrando soluciones de emergencia inmediatas.
-
-¿Para qué me sirven los resultados de la encuesta EFU?
-
-Los resultados de la aplicación de la encuesta permiten determinar en una forma simple, clara y realista:
-
-- las personas efectivamente damnificadas
-
-- el daño en las viviendas
-
-- las necesidades básicas para superar la situación
-
-de emergencia de las personas damnificadas
-
-- el registro de las necesidades y elementos de
-
-socorro efectivamente entregados.
-
-¿Existe alguna prioridad para la aplicación de la encuesta EFU?
-
-Sí. Existen cuatro niveles de prioridad para la aplicación de la encuesta EFU:
-
-Prioridad 1: personas (familias) damnificadas en
-
-albergues y aquellas cuya vivienda ha
-
-resultado destruida o en condición
-
-irrecuperable.
-
-Dentro de esta prioridad se consideran
-
-también aquellas familias de las cuales
-
-uno o varios de sus integrantes hayan
-
-resultado muertos, heridos o
-
-desaparecidos con ocasión de la
-
-emergencia o desastre.
-
-Prioridad 2: personas (familias) damnificadas cuya
-
-vivienda ha resultado con daños mayores
-
-y son recuperables.
-
-Prioridad 3: personas (familias) damnificadas cuya
-
-vivienda ha resultado con daños menores,
-
-recuperables en el corto plazo.
-
-Prioridad 4: Otros casos.
-
-La escala de prioridades se considera directamente proporcional a la entrega de elementos de socorro requeridos por una familia para cubrir las necesidades básicas esenciales generadas por la situación de emergencia o desastre de origen natural o humano (antrópico).
-
-¿Dónde se centralizan las encuestas efectuadas?
-
-Una vez completada una encuesta, ya sea por equipos municipales o externos, éstas deben centralizarse a nivel de municipalidad, evitándose el encuestaje reiterado sobre las mismas familias.
-
-Si no hay un respaldo a nivel municipal, se supone que la encuesta no ha sido efectuada.
-
-¿Dónde registro los elementos entregados a las familias damnificadas?
-
-Existen dos posibilidades de registrar los elementos de socorro entregados a una familia damnificada:
-
-a. En el momento de realizar la encuesta en terreno, entregando elementos o soluciones urgentes requeridas, si corresponde. En este caso se anotan en el ítem 10. SOLUCIONES ADOPTADAS DURANTE LA VERIFICACION de la encuesta EFU (Ej. traslado a albergue, entrega de alimentos, etc.)
-
-b. Entrega de elementos de socorro con posterioridad a la aplicación de la encuesta de acuerdo a prioridades y disponibilidad. En este caso se anotan en el cuadro SOLUCION DE EMERGENCIA-USO MUNICIPALIDAD.
-
-Si los elementos entregados durante la verificación son suficientes o durante la aplicación de la encuesta EFU en terreno se establece que la familia no reúne los requisitos para ser considerada damnificada, se dejará constancia en esta misma sección.
-
-¿Qué se debe hacer una vez que se han solucionado las necesidades básicas detectadas en una encuesta EFU?
-
-Al dar solución de emergencia a una familia, significa que se avanza en la gestión local de atención a las personas damnificadas. Por lo tanto, se debe proceder a actualizar las cifras indicadas en los informes ALFA o DELTA, restando las cantidades que correspondan en los ítems Daños a las Personas y Vivienda.
-
-¿Qué otros beneficios entrega la encuesta EFU?
-
-Adicionalmente a la información que entrega durante el período de emergencia, la encuesta EFU proporciona los siguientes beneficios:
-
-a. Permite mantener un archivo actualizado y realista de las atenciones efectivamente realizadas por el nivel comunal.
-
-b. Permite determinar las necesidades concretas de las personas, según el tipo de evento destructivo. A la vez, constituye una base de información para conformar a futuro un acopio de elementos de emergencia requeridos de acuerdo a la realidad local, como medida de preparación para eventos posteriores.
-
-c. Permite constituir una base de datos para estructurar obras y programas de prevención y mitigación, incorporándolos al desarrollo local.
-
-d. Permite contar con un documento de respaldo para las Municipalidades, frente a los casos en que se requiera emitir certificaciones a damnificados que optan a beneficios o programas de rehabilitación o reconstrucción generados por otras instancias, cuando el evento destructivo así lo amerite.
+En el reverso del cuestionario está detallada en forma general cada uno de los módulos y variables que deben ser levantadas. Por otra parte existe un instructivo que detalla cada variable incluida en el cuestionario y orienta en la aplicación del instrumento. Asimismo hay un curso en línea en la página del Ministerio de Desarrollo Social. Para información adicional, es posible consultar en el departamento social de cada municipio.
 
 OFICINA NACIONAL DE EMERGENCIA-MINISTERIO DEL INTERIOR
 
