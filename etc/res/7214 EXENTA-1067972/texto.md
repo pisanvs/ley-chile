@@ -28,53 +28,39 @@ Resuelvo:
 
 2. Para fines de esta resolución, se entenderá por tipo de material lo siguiente:
 
-a.- Plantas en Maceta: Planta de maceta que puede venir con o sin maceta. Planta herbácea con o sin flores, cuyo tamaño debe estar acorde con el tamaño de la especie, no excediendo los 80 cm para las especies de mayor tamaño y no deben haber sido recortadas.
+a.- Planta: Planta adulta leñosa con raíz, hojas, tallos, con o sin flores y de un tamaño determinado según especie.
 
-b.- Plantines: Planta joven herbácea, con crecimiento del primer año, con raíz, tallos y máximo 6 hojas verdaderas, que no han sido recortadas ni han producido flores.
+b.- Plantas en Maceta: Planta herbácea con o sin flores, lista para consumo, cuyo tamaño no excede de tres a cuatro veces el tamaño del contenedor o maceta.
 
-c.- Esquejes: Trozo de tallo, hoja o raíz, que contiene ápice, que se utiliza con fines de propagación. Los esquejes de tallo pueden ser herbáceos, semileñosos y leñosos.
+c.- Plantines: Planta joven herbácea con raíz, hojas y tallos, sin flores.
 
-### 3. Eliminado
+d.- Esquejes: Trozo de tallo, hoja o raíz, que contiene ápice, que se utiliza con fines de propagación. Los esquejes de tallo pueden ser herbáceos, semileñosos y leñosos.
 
-4. Además el material deberá cumplir con los siguientes requisitos fitosanitarios que se verificarán en la inspección fitosanitaria en el punto de ingreso:
+3. El material a importar debe proceder de un programa de producción bajo certificación oficial o de Viveros o Centros de Repositorios de germoplasma, que se encuentren bajo el control del organismo fitosanitario oficial del país exportador.
 
-4.1. El envío debe proceder de sitios de producción y empacadoras inscritas y registradas, cada uno de ellos, con un código único, asignado por el organismo fitosanitario oficial del país de origen.".
+4. Además, el material deberá cumplir con los siguientes requisitos fitosanitarios que se verificarán en la inspección fitosanitaria en el punto de ingreso:
 
-4.2. Los envases deberán ser de primer uso, cerrados, resistentes a la manipulación y etiquetados o rotulados con al menos la siguiente información: país de origen, especie vegetal, código de lugar de producción y código de la empacadora".
+4.1. El envío deberá estar libre de suelo.
 
-4.3. El envío debe venir en un envase que permita cumplir con lo requerido en el punto 4.2, no se permite el ingreso de material vegetal sin el etiquetado o rotulado correspondiente.
+4.2. Los sustratos y/o materiales acompañantes destinados a amortiguar o conservar la humedad deberán dar cumplimiento a lo establecido en la normativa vigente que establece requisitos fitosanitarios para el ingreso de sustratos inertes para vegetales.
 
-4.4. El envío deberá estar libre de suelo.
+4.3. Los envases deberán ser de primer uso, no permitiéndose el reenvase, cerrados, resistentes a la manipulación y etiquetados o rotulados de acuerdo a normativa SAG vigente.
 
-4.5. Los sustratos y/o materiales acompañantes destinados a amortiguar o conservar la humedad deberán dar cumplimiento a lo establecido en la normativa vigente que establece requisitos fitosanitarios para el ingreso de sustratos inertes para vegetales.
-
-5. El envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen correspondiente, en el que consten las siguientes declaraciones adicionales:
-
-5.1 El material procede de un programa de producción oficial o de Viveros o Centros de Repositorios de germoplasma (indicar el tipo de programa), que se encuentra bajo el control de (indicar el nombre del organismo fitosanitario oficial del país de origen).
-
-5.2 En el Certificado Fitosanitario se debe indicar el código único, del lugar de producción y del empaque.
-
-5.3 Además, se debe indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales específicas para cada especie y tipo de material que a continuación se señalan:
+5. El envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen correspondiente, en el que consten las siguientes declaraciones adicionales específicas para cada especie y tipo de material que a continuación se señalan:
 
 .
-
-5.4 Las especies Aloe arborescens, Areca spp., Bismarckia nobilis, Phoenix spp. y Washingtonia spp., además deberán cumplir con la siguiente declaración adicional: El lugar de producción fue inspeccionado durante el último período de crecimiento activo y encontrado libre de Opogona sacchari (Lep.: Tineidae).
 
 6. Los híbridos interespecíficos entre especies señaladas en la presente resolución, deberán cumplir con todas las Declaraciones Adicionales establecidas para cada una de las especies que conforman el híbrido.
 
 7. Se aceptará para cada especie y tipo de material especificado en el resuelvo Nº5 de la presente resolución, como declaración adicional alternativa, que la/s plaga/s no está(n) presentes en el país de origen.
 
-8. Los envíos de plantas y partes de plantas de: Acer spp. (excepto A. platanoides), Cotoneaster spp, Dianthus spp., Fraxinus spp, Hedera spp., Hydrangea spp., Ilex spp., Jasminus spp., Nandina domestica, Photinia spp. y Rhododendron spp., deberán cumplir con la medida fitosanitaria de Cuarentena de Posentrada.
+8. Los envíos de plantas y partes de plantas de: Acer spp. (excepto A. platanoides), Cotoneaster spp, Dianthus spp., Fraxinus spp, Hedera spp., Hydrangea spp., Ilex spp., Jasminus spp., Nandina domestica, Photinia spp, Rhododendron spp., deberán cumplir con la medida fitosanitaria de Cuarentena de Posentrada.
 
-Los envíos de plantas y partes de plantas de Aechmea fasciata, Aloe arborescens, Archontophoenix spp., Areca spp., Bactris spp., Bambusa spp., Begonia spp., Bismarckia nobilis, Bouganvillea spp., Bromelia spp. Caryota spp., Chamaedorea spp., Chrysalidocarpus spp., Cocos spp., Cordyline spp., Cycas spp., Dieffenbachia spp., Dracaena spp., Echinocactus spp., Echinopsis spp., Euphorbia pulcherrima, Euphorbia trigona, Ferocactus spp., Ficus spp.(excepto Ficus carica), Gloxinia spp., Guzmania spp., Gymnocalycium spp., Hohenbergia spp., Nidularium spp., Notocactus spp., Philodendron spp., Phoenix spp, Strelitzia spp., Tillandsia spp., Vriesea spp., Washingtonia spp.,Wodyetia bifurcata y Yucca spp., deberán ingresar a Cuarentena de Posentrada, cuando procedan de Costa Rica o de países con presencia de Opogona sacchari.
+Los envíos de plantas y partes de plantas de: Chrysanthemum frutescens (Argyranthemum frutescens), Chrysanthemum maximum, Chrysanthemum morifolium y Chrysanthemum parthenium deberán ingresar a Cuarentena de Posentrada, cuando procedan de países con presencia de Chrysanthemun stem necrosis virus.
 
-Los envíos de plantas y partes de plantas de: Chrysanthemum frutescens (Argyranthemum frutescens), Chrysanthemum maximum, Chrysanthemum morifolium y Chrysanthemum parthenium deberán ingresar a Cuarentena de Posentrada cuando procedan de países con presencia de Chrysanthemun stem necrosis virus.
+Así también, las plantas y partes de plantas de Cordyline spp., procedentes de países con presencia de 'Candidatus Phytoplasma australiense' (Australian grapevine yellows phytoplasma) deberán cumplir con la medida fitosanitaria de Cuarentena de Posentrada.
 
-Los envíos de plantas y partes de plantas de Cordyline spp. procedentes de países con presencia de 'Candidatus Phytoplasma australiense' (Australian grapevine yellows phytoplasma) deberán cumplir con la medida fitosanitaria de Cuarentena de Posentrada.
-
-Los envíos de plantas y partes de plantas de: Geranium dissectum, Lavandula angustifolia, Lavandula dentata, Lavandula stoechas, Phoenix reclinata, Phoenix roebelenii, Rosa californica, Rosa floribunda, Tillandsia usneoides, Verbena litoralis y Vinca spp., procedentes de países con presencia de Xylella fastidiosa, deberán cumplir con la medida fitosanitaria de Cuarentena de Posentrada.
-
-Previo a la importación del material, el importador deberá contar con la autorización del lugar de cuarentena, la que debe ser presentada en el punto de entrada habilitado al momento del arribo de la mercadería al país. Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y Ganadero que establecen regulaciones para material vegetal en régimen de Cuarentena de Posentrada.
+Previo a la importación del material, el importador deberá contar con la autorización del lugar de cuarentena, la que debe ser presentada en el puerto de ingreso al momento del arribo de la mercadería al país. Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y Ganadero que establecen regulaciones para material vegetal en régimen de Cuarentena de Posentrada.
 
 9. Las especies vegetales señaladas en el resuelvo Nº 8 podrán acogerse a cuarentena de posentrada en estación cuarentenaria Nº 4, cuando procedan de Centros de Producción Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, de acuerdo a la resolución que establece regulaciones para ingreso de material vegetal a nivel de cuarentena de posentrada de centros.
 
@@ -91,25 +77,5 @@ Previo a la importación del material, el importador deberá contar con la autor
 15. La presente resolución entrará en vigencia 180 días después de su publicación en el Diario Oficial, salvo lo dispuesto en el numeral 8 precedente respecto de las especies Chrysanthemum frutescens (Argyranthemum frutescens), Chrysanthemum maximum, Chrysanthemum morifolium, Chrysanthemum parthenium, Cordyline spp., Hedera spp., Hydrangea spp., Ilex spp. y Nandina domestica, lo cual será exigible a contar del 1 de marzo de 2016.
 
 > **Nota.** El N° 1 de la resolución 8703 exenta, Agricultura, publicada el 13.12.2014, modificó la presente norma en el sentido de eliminar de su resuelvo 5°, para la especie Cotoneaster spp., tipo de material plantines y esquejes con o sin raíz, la declaración adicional establecida en el segundo párrafo para Monilinia fructicola, quedando su texto de la siguiente forma: "El lugar de producción fue inspeccionado durante (especificar el período) y las muestras extraídas fueron sometidas a análisis oficial de laboratorio, encontrándose libre de Monilinia fructigena".
-
-> **Nota.** NOTA 1 El N°1, 1.1 de la resolución 6722 exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar en su resuelvo 5, después de cada último párrafo en la columna referida a declaraciones adicionales de las especies que se especifican en ella, las declaraciones adicionales que en la misma se indican.
-
-> **Nota.** NOTA 2 El numeral 1° de la Resolución 7677 Exenta, Agricultura, publicada el 11.10.2019, modifica la presente norma en el sentido de agregar los resuelvos 2, 3, 4 y 5 que suspenden los envíos procedentes de Costa Rica de las especies ornamentales que se indican, hasta evaluar y establecer en conjunto con la ONPF de Costa Rica, un manejo de riesgo adecuado para Opogona sacchari en plantas para plantar de uso ornamental, hospedantes de esta plaga. Los envíos de las especies ornamentales hospedantes de Opogona sacchari procedentes de Costa Rica de fecha anterior a esta suspensión, estarán exentos, sin embargo no ha sido posible incorporar al texto actualizado por no ser coincidir con el que se dispone.
-
-> **Nota.** NOTA 3 El N° 5 de la Resolución 8017 Exenta, Agricultura, publicada el 27.11.2020, modifica el presente resuelvo en el sentido de eliminar para Dracaena spp., en "Declaraciones Adicionales", la plaga cuarentenaria: "Selenothrips rubrocinctus (Thys.: Thrypidae).
-
-> **Nota.** NOTA 4 El N° 6 de la Resolución 8017 Exenta, Agricultura, publicada el 27.11.2020, modifica el presente resuelvo en el sentido de eliminar para Cotoneaster spp., en "Declaraciones Adicionales", lo siguiente: "y Apple Apple stem grooving virus (=Citrus tatter leaf virus).".
-
-> **Nota.** NOTA 5 El N° 7 de la Resolución 8017 Exenta, Agricultura, publicada el 27.11.2020, modifica el presente resuelvo en el sentido de eliminar para Nandina domestica, en "Declaraciones Adicionales", el siguiente párrafo: "Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar método de diagnóstico) en el momento óptimo para la detección de la plaga y encontradas libre de Apple stem grooving virus (=Citrus tatter leaf virus).".
-
-> **Nota.** NOTA 6 El numerales 2° y 3° de la Resolución 293 Exenta, Agricultura, publicada el 26.01.2021, modifica la presente norma en el sentido de indicar que el numeral 4.2 se encuentra vigente salvo lo referido a código de lugar de producción y código de la empacadora, lo cual entrará en vigencia a contar del 1 de julio de 2021, asimismo resuelvos 4.1, 4.3, 5.1 y 5.2 entrarán en vigencia a contar del 1 de julio de 2021.
-
-> **Nota.** NOTA 7 La Resolución 4205 exenta, Agricultura, publicada el 15.07.2021, modifica el resuelvo destinado a suspender en carácter emergencial y provisorio los envíos procedentes de Costa Rica, que había sido agregado por Resolución 7677 Exenta, Agricultura, publicada el 11.10.2019, de la manera que la citada norma indica.
-
-> **Nota.** NOTA 8 Los numerales 1.3. y 1.4. de la Resolución 3570 Exenta, Agricultura, publicada el 15.06.2023, eliminan de la presente norma, los resuelvos que dispusieron la suspensión de los envíos de las especies ornamentales que indica, procedentes de Costa Rica, incorporados por las Resoluciones 4205 Exenta y 7677 Exenta, ambas de Agricultura, publicadas el 15.07.2021 y 11.10.2019, respectivamente.
-
-Disposición transitoria:
-
-En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 5, para las especies Fraxinus americana, Fraxinus dipetala, Fraxinus pennsylvanica, Geranium dissectum, Hedara hélix, Lavandula angustifolia, Lavandula dentata, Lavandula stoechaas, Nandina domestica, Phoenix reclinata, Phoenix roebelenii, Rosa californica, Rosa floribunda, Tillandsia usneoides, Verbena litoralis y Vinca spp., esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
 
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional.
