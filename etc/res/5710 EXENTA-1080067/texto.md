@@ -16,7 +16,7 @@ Resolución:
 
 2. Para la postulación individual, se efectuarán procesos de selección en los meses de agosto y septiembre y octubre, con los proyectos calificados en el Banco de Postulaciones dispuesto para dichos efectos hasta los días viernes 14 de agosto, 15 de septiembre y 16 de octubre, respectivamente, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
 
-3. Para la postulación colectiva, se efectuarán procesos de selección en los meses de Agosto, Septiembre, Octubre, Noviembre y Diciembre, con los proyectos calificados para dichos efectos hasta el último día hábil de los meses señalados en el presente inciso, o hasta agotar la totalidad de recursos dispuestos para cada Región.
+3. Para la postulación colectiva, se efectuarán procesos de selección en los meses de agosto, septiembre, octubre y noviembre, con los proyectos calificados para dichos efectos hasta el último día hábil de los meses señalados en el presente inciso, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
 
 4. Los recursos involucrados por Región del país para la selección de postulantes son los siguientes:
 
@@ -41,8 +41,6 @@ En caso de resultar seleccionados, para acceder al premio al ahorro dispuesto en
 12. Los montos de subsidio a imputar corresponderán a los montos resultantes de la calificación del proyecto en el marco del DS Nº 49 (V. y U.), de 2011, incluyendo aquellos proyectos postulantes con ocasión del Resuelvo 6, precedente.
 
 13. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos o postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** El numeral 2° de la Resolución 8490 Exenta, Vivienda, publicado el 09.11.2015, modifica la presente norma, en el sentido de reemplazar el segundo inciso de su resuelvo 6, sin embargo, no es posible construir el texto actualizado en los términos que la citada norma indica, porque el referido resuelvo no contiene inciso segundo.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
