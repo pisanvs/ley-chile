@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS DE "ORION SEGUROS GENERALES S.A."
+
+Certifico: Que por resolución exenta Nº 268 de 14 de septiembre de 2015 de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Orion Seguros Generales S.A.", acordada en Junta Extraordinaria de Accionistas de 23 de abril de 2015, cuya acta consta en escritura pública de fecha 15 de mayo de 2015 y escrituras complementarias de fechas 3 y 28 de agosto de 2015, todas otorgadas ante el Notario de Santiago don Juan Ricardo San Martín Urrejola, con domicilio en Huérfanos Nº 835, piso 18, Santiago.
+
+La modificación consiste en el aumento del capital social de $2.899.829.263.-, dividido en 2.700.000.000 acciones nominativas, de una misma serie y sin valor nominal, íntegramente suscrito y pagado, a $5.371.060.587.- dividido en 3.700.000.000 acciones nominativas, de una misma serie y sin valor nominal, mediante la capitalización de la cuenta de resultado por $1.471.231.324.- sin la emisión de acciones de pago; y mediante la emisión de 1.000.000.000 acciones de pago, correspondiente a $1.000.000.000.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 14 de septiembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
