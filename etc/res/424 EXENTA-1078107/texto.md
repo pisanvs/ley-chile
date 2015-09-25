@@ -32,7 +32,13 @@ Resolución:
 
 1.- Llámese a postulación en condiciones especiales, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II: Mejoramiento de la Vivienda, letras b.1), b.2), b.3), b.5) del artículo 5 del DS Nº255 (V. y U.), de 2006, y sus modificaciones, destinados al desarrollo de proyectos de Seguridad, Habitabilidad, Mantención de las viviendas, como Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, para viviendas emplazadas dentro de los polígonos de los barrios "Villa Santa Rosa" de la comuna de Alto Hospicio, y "Gómez Carreño" de la comuna de Iquique, seleccionados por el "Programa Quiero mi Barrio".
 
-Los postulantes serán seleccionados por la Secretaría Regional Ministerial de Vivienda y Urbanismo (Seremi) mediante resolución, los meses de septiembre y noviembre, ambos de 2015, si cuentan con calificación hasta el último día hábil del mes que precede la selección. La primera selección se realizará con los proyectos que cuenten con calificación respectiva al 31 de agosto de 2015.
+Los postulantes serán seleccionados por la Secretaría Regional de Vivienda y Urbanismo (Seremi).
+
+. Para la primera selección se postulará desde el día 17 de agosto hasta el día 11 de septiembre, ambos de 2015, debiendo ser seleccionados los beneficiarios desde el día 14 al día 30 de septiembre del 2015.
+
+. Para la segunda selección se postulará desde el día 5 al día 30, ambos de octubre del 2015, debiendo ser seleccionados los beneficiarios desde el día 1 al 30 de noviembre de 2015.
+
+En ambos llamados, los proyectos ingresados al Serviu, y previamente a ser seleccionados, deberán contar con la calificación respectiva
 
 2.- Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos y condiciones del DS Nº255 (V. y U.), de 2006:
 
