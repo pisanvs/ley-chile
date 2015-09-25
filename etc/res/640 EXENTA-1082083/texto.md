@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 640 EXENTA, DE 2015
+
+Por resolución exenta Nº 640 de fecha 3 de marzo de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se revocó, de conformidad con el artículo 37 de la Ley de Tránsito, el reconocimiento oficial otorgado por resolución exenta Nº 28 de fecha 8 de marzo de 2002, modificada por resoluciones exentas Nos 1.938/2003, 3.754/2011, 160/2012 y 1.232/15, todas de esta Secretaría Ministerial, a la Escuela de Conductores Profesionales "Instituto Tecnológico del Aconcagua Ltda." o "ITAC Ltda." de la comuna de Quillota, RUT Nº 77.396.230-8, ubicada en calle O'Higgins Nº 179, oficinas 3 y 4 de la referida comuna, representada legalmente por doña Katia Hurtado Bravo y don Eduardo Mardones Rivera.
+
+Patricio Cannobbio Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
