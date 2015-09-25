@@ -1,0 +1,15 @@
+REVOCA DECRETO ALCADICIO Nº 1.609 EXENTO, DE 2014
+
+Núm. 1.540.- Antofagasta, 14 de septiembre de 2015.
+
+Vistos:
+
+El decreto alcaldicio exento Nº 1.609/2014, de fecha 16 de octubre de 2014, por el cual se inicia el proceso invalidatorio del decreto alcaldicio Nº 683/2010 ex., de fecha 17 de junio de 2010, por el cual se asignaron los usos de suelo al sector denominado Esmeralda, enrolado bajo el Nº 477-3 en los lotes A-1 y A-2, cuya superficie es de 4,6 hectáreas de uso de suelo industrial y bodegaje, a uso de suelo asimilado a zonificación C1B definido en la Ordenanza Local del Plan Regulador vigente del año 2002, según lo establecido en el artículo 2.1.14 de la Ley General de Urbanismo y Construcciones y de acuerdo a los dictámenes Nº 54.778 del 27 de agosto de 2013 y Nº 4.083, del 17 de enero de 2014, de la Contraloría General de la República; el oficio Nº 53.352, del 3 de julio de 2015, de la Contraloría General de la República, sobre legalidad del acto administrativo que da inicio al procedimiento de invalidación del decreto alcaldicio Nº 683/2010 ex.; la orden de servicio C-15-9227, del 11 de agosto de 2015, de Alcaldía; el informe Nº 536/2015, del 4 de septiembre de 2015, de la Dirección de Asesoría Jurídica, mediante el cual solicita disponer la dictación del decreto alcaldicio que ordene la revocación del decreto alcaldicio Nº 1.609/2015 ex.; las instrucciones impartidas por Alcaldía mediante orden de servicio C-15-9227, del 7 de septiembre de 2015, para la dictación del decreto alcaldicio respectivo; lo dispuesto en el Art. 12 de la ley Nº 18.695; y en uso de las facultades legales que me confiere el DFL Nº 1, de fecha 9 de mayo de 2006, del Ministerio del Interior, que fijó el texto refundido, coordinado y sistematizado la ley Nº 18.695, Orgánica Constitucional de Municipalidades, dicto el siguiente:
+
+Decreto:
+
+1.- Revóquese el decreto alcaldicio Nº 1.609/2014 ex., de fecha 16 de octubre de 2014, por el cual se inicia el proceso invalidatorio del decreto alcaldicio Nº 683/2010 ex., de fecha 17 de junio de 2010, por el cual se asignaron los usos de suelo al sector denominado Esmeralda, enrolado bajo el Nº 477-3 en los lotes A-1 y A-2, con una superficie de 4,6 hectáreas de uso de suelo industrial y bodegaje, en virtud a oficio Nº 53.352, del 3 de julio de 2015, de la Contraloría General de la República e informe Nº 536/2015, del 4 de septiembre de 2015, de la Dirección de Asesoría Jurídica, de conformidad a lo señalado en la parte expositiva del presente instrumento.
+
+2.- Encomiéndese a la Dirección de Gabinete de Alcaldía, a través de su Departamento de Prensa, la publicación del presente documento en el Diario Oficial y la página web de la Municipalidad de Antofagasta, en virtud al Artículo Nº 12, de la ley Nº 18.695 y al Asesor Urbanista velar por el fiel cumplimiento del presente decreto.
+
+Anótese, comuníquese y archívese.- Karen Rojo Venegas, Alcaldesa.- Héctor Ávalos Araya, Secretario Municipal.
