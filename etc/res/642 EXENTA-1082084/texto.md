@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 642 EXENTA, DE 2015
+
+Por resolución exenta Nº 642 de fecha 3 de marzo de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se revocó, de conformidad con el artículo 37 de la Ley de Tránsito, el reconocimiento oficial otorgado por resolución exenta Nº 2.590 de fecha 1 de octubre de 2013, de esta Secretaría Ministerial, a la Escuela de Conductores Profesionales "Instituto Tecnológico del Aconcagua Ltda." o "ITAC Ltda." de la comuna de La Ligua, RUT Nº 77.396.230-8, ubicada en calle Serrano Nº 121, oficina 1 de la referida comuna, representada legalmente por doña Katia Hurtado Bravo y don Eduardo Mardones Rivera.
+
+Patricio Cannobbio Opazo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
