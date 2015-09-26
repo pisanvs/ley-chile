@@ -470,11 +470,13 @@ Región Administrativa de Biobío, y en él se
 
 encuentran las siguientes Áreas:
 
-a) Chillán, cuyo límite está definido por la
+a) Chillán, cuyo límite está definido por
 
-comuna del mismo nombre y las comunas de
+la comuna del mismo nombre y las comunas
 
-Bulnes, San Carlos y Chillán Viejo.
+de Bulnes, San Carlos, Chillan Viejo
+
+y Ñiquén.
 
 b) Quillón, cuyo límite está definido por la
 
@@ -550,17 +552,17 @@ En las etiquetas de los envases de los vinos se podrán señalar las Regiones, S
 
 Los vinos se clasificarán en tres categorías:
 
-a) Vinos con denominación de origen. Son los vinos provenientes de las regiones vitícolas señaladas en el artículo 1º, elaborados con las cepas que se indican en la letra b) del artículo 3º y que cumplen con los demás requisitos establecidos para esta categoría en el presente decreto.
+a) Vinos con Denominación de Origen. Son los vinos provenientes de las regiones vitícolas señaladas en el artículo 1º o de las áreas o comunas que posean como denominación de origen especial Secano Interior, elaborados con las cepas que se indican en la letra b) del artículo 3º o en el artículo 3º bis, y que cumplen con los demás requisitos establecidos para esta categoría en el presente decreto
 
 b) Vinos sin denominación de origen. Son los vinos elaborados con uvas obtenidas en cualquier región del país, pertenecientes a las cepas que se indican en la letra b) del artículo 3º o con otras cepas viníferas tradicionales no incluidas en dicha nómina.
 
-c) Vinos de mesa. Son los vinos obtenidos de uvas de mesa.
+c) Vinos elaborados con uva de mesa. Son los vinos obtenidos de uvas de mesa.
 
 Los vinos, según su categoría, podrán indicar en sus etiquetas menciones de zonificación o denominación de origen, cepaje, año de cosecha, y la expresión ''Embotellado en Origen'', de acuerdo a las normas que más adelante se establecen.
 
-#### Artículo 3°
+#### Artículo 3º
 
-La denominación de origen de Regiones, Subregiones, Zonas y Áreas señaladas en el artículo 1°, podrá usarse en las etiquetas solamente bajo las siguientes condiciones:
+Las denominaciones de origen de Regiones, Subregiones, Zonas y Áreas señaladas en el artículo 1º y la denominación de origen especial señalada en el Artículo 3º Bis, podrán usarse en las etiquetas bajo las siguientes condiciones:
 
 a) A lo menos el 75 por ciento del vino debe ser producido con uvas provenientes del lugar geográfico indicado. Este porcentaje podrá enterarse con vinos producidos por terceros productores siempre que dichos vinos hayan sido previamente certificados respecto a su procedencia geográfica, cepaje y año de cosecha, por el Servicio Agrícola y Ganadero o por una empresa certificadora autorizada por éste de acuerdo a las normas de este decreto.
 
@@ -672,7 +674,7 @@ e) El vino con denominación de origen deberá ser envasado en el territorio nac
 
 #### Artículo 3º Bis
 
-La denominación de origen especial "Secano Interior" podrá señalarse en las etiquetas seguido de la respectiva área vitivinícola, siempre que corresponda a vinos de los cepajes País y Cinsault y que éstos provengan exclusivamente de las áreas de secano de Rauco, Romeral, Molina, Sagrada Familia, Talca, Pencahue, San Clemente, San Rafael, San Javier, Villa Alegre, Parral, Linares, Cauquenes, Chillán, Quillón, Portezuelo, Coelemu o Yumbel. Los límites geográficos de cada una de las áreas indicadas serán los que para cada una de ellas se indican en el artículo 1º precedente. Podrán usar también esta denominación especial, seguida del nombre de las comunas de Curepto o Ñiquén, los vinos provenientes de las cepas indicadas, obtenidos en las áreas de secano de dichas divisiones administrativas.
+La denominación de origen especial "Secano Interior", podrá señalarse en la etiqueta seguido de la respectiva Sub región, Zona o Área vitivinícola, siempre que corresponda a vinos de los cepajes País o Cinsault y que éstos provengan exclusivamente de las áreas de secano de Rauco, Romeral, Molina, Sagrada Familia, Talca, Pencahue, San Clemente, San Rafael, San Javier, Villa Alegre, Parral, Linares, Cauquenes, Chillán, Quillón, Portezuelo, Coelemu o Yumbel. Los límites geográficos de cada una de las áreas indicadas serán los que para cada una de ellas se indican en el artículo 1º precedente. Podrán usar también esta denominación especial, seguido del nombre de las comunas de Bulnes, Curepto, Florida, Ninhue, Ñiquén, Quirihue, Ránquil, San Nicolás, San Carlos o Treguaco, los vinos provenientes de las cepas indicadas, obtenidos en las áreas de secano de dichas divisiones administrativas.
 
 El cepaje País tiene como sinónimos internacionalmente aceptados, los de Mission y Criolla.
 
@@ -684,9 +686,9 @@ Tratándose de mezcla y cuando la totalidad del vino sea de un mismo cepaje, las
 
 Las etiquetas de los vinos con denominación de origen, podrán hacer mención de la variedad de uva con que fueron producidos, cuando cumplan los siguientes requisitos:
 
-a) El cepaje indicado debe intervenir en la mezcla en una proporción no inferior al 75 por ciento, y debe corresponder a alguna de las variedades indicadas en la letra b) del Artículo 3°.
+a) El cepaje indicado debe intervenir en la mezcla en una proporción no inferior al 75 por ciento, y debe corresponder a alguna de las variedades indicadas en la letra b) del Artículo 3º para el caso de las denominaciones de origen del Artículo 1º o a las variedades del 3º Bis para el caso de la denominación de origen especial Secano Interior".
 
-b) En la etiqueta se podrá indicar mezcla de 2 o más variedades, en orden decreciente de importancia, cuando la totalidad del vino provenga de las variedades nombradas, señalando en la etiqueta en forma destacada los porcentajes de cada una de ellas, información que puede ser repetida en otro lugar del envase sin indicar los porcentajes. Los componentes de la mezcla, en este caso, deben corresponder a algunas de las variedades indicadas en la letra b) del artículo 3º.
+b) En la etiqueta se podrá indicar mezcla de 2 o más variedades, en orden decreciente de importancia, cuando la totalidad del vino provenga de las variedades nombradas, señalando en la etiqueta en forma destacada los porcentajes de cada una de ellas, información que puede ser repetida en otro lugar del envase sin indicar los porcentajes. Los componentes de la mezcla, en este caso, deben corresponder a algunas de las variedades indicadas en la letra b) del Artículo 3º, en el artículo 3º Bis o en ambos artículos.
 
 #### Artículo 5°
 
@@ -796,21 +798,21 @@ c) Cuando se haga mención del año de cosecha, los vinos del año indicado debe
 
 d) Los requisitos indicados en las letras precedentes deberán ser verificados por el Servicio Agrícola y Ganadero o por una empresa certificadora, autorizada por éste.
 
-En ningún caso podrán mezclarse vinos de mesa con vinos o mostos provenientes de variedades de cepas viníferas tradicionales.
+En ningún caso podrán mezclarse vinos elaborados con uva de mesa con vinos o mostos provenientes de variedades de cepas viníferas tradicionales.
 
-#### Artículo 10º bis
+#### Artículo 10 bis
 
-Los vinos espumosos podrán señalar en sus etiquetas menciones de cepaje, año de cosecha y denominación de origen de Regiones, Subregiones, Zonas y Áreas señaladas en el artículo 1º de este decreto, cuando cumplan los siguientes requisitos:
+Los vinos espumosos podrán señalar en sus etiquetas menciones de cepaje, año de cosecha, y denominación de origen de Regiones, Subregiones, Zonas y Áreas señaladas en los Artículos 1º o 3º bis de este decreto, cuando cumplan los siguientes requisitos:
 
-a) El cepaje indicado debe intervenir en la mezcla en una proporción no inferior al 75% y podrá corresponder a alguna de las variedades indicadas en la letra b) del artículo 3º o 3º bis, de acuerdo a las condiciones señaladas en este artículo.
+a) El cepaje indicado debe intervenir en la mezcla en una proporción no inferior al 75% y podrá corresponder a alguna de las variedades indicadas en la letra b) del artículo 3º o a las del 3º bis, de acuerdo a las condiciones señaladas en este artículo.
 
-b) En la etiqueta se podrá indicar mezcla de 2 o más variedades, en orden decreciente de importancia, cuando la totalidad del vino provenga de las variedades nombradas, señalando en la etiqueta en forma destacada los porcentajes de cada una de ellas, información que puede ser repetida en otro lugar del envase sin indicar los porcentajes. Los componentes de la mezcla, en este caso, deben corresponder a algunas de las variedades indicadas en la letra b) del artículo 3º.
+b) En la etiqueta se podrá indicar mezcla de 2 o más variedades, en orden decreciente de importancia, cuando la totalidad del vino provenga de las variedades nombradas, señalando en la etiqueta en forma destacada los porcentajes de cada una de ellas, información que puede ser repetida en otro lugar del envase sin indicar los porcentajes. Los componentes de la mezcla, en este caso, deben corresponder a algunas de las variedades indicadas en la letra b) del Artículo 3º, en el artículo 3º bis o en ambos artículos.
 
 c) A lo menos el 75% del vino debe ser producido con uvas provenientes del lugar geográfico indicado.
 
 d) Cuando se haga mención del año de cosecha, los vinos del año indicado deben intervenir en la mezcla en una proporción no inferior al 75%.
 
-e) Los requisitos indicados en las letras precedentes deberán ser verificados por el Servicio Agrícola y Ganadero o por una empresa certificadora autorizada por éste, de conformidad con el artículo 13 de este Reglamento.
+e) Los requisitos indicados en las letras precedentes deberán ser verificados por el Servicio Agrícola y Ganadero o por una empresa certificadora autorizada por éste.
 
 #### Artículo 10 ter
 
