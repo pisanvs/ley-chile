@@ -12420,19 +12420,7 @@ Para tratar las diferencias de criterios contables que pudieren existir con las 
 
 El presente Compendio se refiere a los PCGA chilenos que aún no han sido emitidos por el Colegio de Contadores de Chile A.G. La aplicación de los nuevos criterios contables en lo que ese Colegio se encuentra todavía trabajando a la fecha de emisión de las presentes normas, dependerá, en consecuencia, de la finalización de ese trabajo. No obstante, los criterios que deberán aplicarse para la preparación de los estados financieros son conocidos de antemano, puesto que el proyecto de nuevas normas locales persigue la adopción integral de los criterios internacionales acordados por el IASB.
 
-### 6. Disposiciones de carácter transitorio incluidas en este Compendio
-
-Los estados que se indican en el Capítulo C-1, no consideran los últimos cambios introducidos por el IASB a la NIC1 y que rigen a contar del año 2009.
-
-Tanto los formatos del balance general y del estado de resultados que se tratan en ese Capítulo, como asimismo algunas instrucciones contenidas en este Compendio, se refieren a la corrección monetaria.
-
-Lo anterior tiene un carácter transitorio, considerando que la aplicación de los formatos de los estados y el criterio de corrección monetaria se aplicarán para el año 2008.
-
-También conviene señalar que algunas de las limitaciones a la aplicación de los criterios contables de general aceptación pueden ser objeto de cambios en lo futuro, especialmente aquellas que guardan relación con disposiciones legales o reglamentarias y las normas sobre provisiones sobre colocaciones en general.
-
-En lo que toca a las provisiones, atendiendo la evolución y el progreso alcanzado en el desarrollo de modelos internos avanzados fiables por parte de los bancos y en función de los antecedentes y experiencia en la materia que esta Superintendencia y los bancos en general vayan adquiriendo a través del tiempo, las normas podrán ser modificadas para revisar los componentes que determinan su cálculo, por ejemplo, en lo que respecta a las probabilidades de incumplimiento o a la posibilidad de incorporar modelación para determinar la tasa recupero esperado. Por esa razón, es altamente recomendable que los bancos que decidan transitar a modelos de provisiones más avanzados, dediquen el mejor de sus esfuerzos para ampliar y mejorar sus bases de datos y perfeccionar sus técnicas de modelación. La capacidad de modelación del riesgo de crédito y el uso de los modelos resultantes en la gestión del riesgo de crédito en los bancos (donde, entre otros aspectos, la prueba de uso, es primordial) serán antecedentes esenciales al momento que este Organismo evalúe la pertinencia de realizar cambios en la normativa en el sentido señalado.
-
-Las disposiciones transitorias que tienen que ver con la primera aplicación de los cambios que contiene este Compendio en relación con las normas vigentes a la fecha de su emisión, se incluyen en el Capítulo E.
+### 6. Suprimido
 
 Compendio de Normas Contables
 
@@ -13140,19 +13128,15 @@ d) Boletas de garantía
 
 Corresponde a las boletas de garantía enteradas con pagaré a que se refiere el Capítulo 8-11 de la Recopilación Actualizada de Normas.
 
-e) Cartas de garantía interbancarias
-
-Corresponde a las cartas de garantía emitidas según lo previsto en el título II del Capítulo 8-12 de la Recopilación Actualizada de Normas.
-
-f) Líneas de crédito de libre disposición
+e) Líneas de crédito de libre disposición
 
 Considera los montos no utilizados de líneas de crédito que permiten a los clientes hacer uso del crédito sin decisiones previas por parte del banco (por ejemplo, con el uso de tarjetas de crédito o sobregiros pactados en cuentas corrientes).
 
-g) Otros compromisos de crédito
+f) Otros compromisos de crédito
 
 Comprende los montos no colocados de créditos comprometidos, que deben ser desembolsados en una fecha futura acordada o cursados al ocurrir los hechos previstos contractualmente con el cliente, como puede suceder en el caso de líneas de crédito vinculadas al estado de avance de proyectos de construcción o similares.
 
-h) Otros créditos contingentes
+g) Otros créditos contingentes
 
 Incluye cualquier otro tipo de compromiso del banco que pudiere existir y que puede dar origen a un crédito efectivo al producirse ciertos hechos futuros. En general, comprende operaciones infrecuentes tales como la entrega en prenda de instrumentos del banco para garantizar el pago de operaciones de crédito entre terceros u operaciones con derivados contratados por cuenta de terceros que pueden implicar una obligación de pago y no se encuentran cubiertos con depósitos.
 
@@ -15296,7 +15280,7 @@ Incluye otros créditos y cuentas por cobrar, separados según:
 
 1309.9.01 Créditos complementarios
 
-En este ítem se informarán los créditos cursados para la adquisición, ampliación, reparación o construcción de la vivienda, complementarios a los otorgados mediante los mutuos hipotecarios incluidos en las líneas 1304.1, 1304.1 ó 1304.3.
+En este ítem se informarán los créditos cursados para la adquisición, ampliación, reparación o construcción de la vivienda, complementarios a los otorgados mediante los mutuos hipotecarios incluidos en las líneas 1304.1, 1304.2, 1304.4 o 1304.5.
 
 1309.9.11 Créditos de enlace
 
@@ -15591,6 +15575,8 @@ Aquellas cuentas corrientes con saldos deudores se incluyen en las respectivas l
 Comprende las cuentas a la vista en general, incluidas las reguladas por el Banco
 
 Central de Chile como "Cuentas de ahorro a la vista".
+
+2100.2.07 Tarjetas de pago con provisión de fondos
 
 2100.3 Otras obligaciones a la vista
 
