@@ -40,9 +40,7 @@ b. Reemplácese su numeral XV por lo siguiente:
 
 XV. "Tareas y Responsabilidades del Centro de Despacho y Control".
 
-3. Modifícase el artículo 3-3, en el siguiente sentido:
-
-En literal a) reemplácese: "IEEE Std 693-2005" por la norma "IEC Std 693-2005".
+3. ELIMINADO.
 
 4. Modifícase el artículo 3-14, en el siguiente sentido:
 
