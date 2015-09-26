@@ -28,7 +28,7 @@ Toda persona tiene derecho asimismo a elegir libremente, de acuerdo a sus creenc
 
 #### Artículo 5º
 
-Corresponderá a los organismos que integran el Sistema Nacional de Servicios de Salud definido en el artículo 2º, inciso segundo, del decreto con fuerza de ley Nº 1, de 2005 ya citado, de conformidad con los planes y programas correspondientes aprobados por el Ministerio de Salud, entregar a la población que lo requiera, los métodos de anticoncepción autorizados en el país de que dispongan conforme a la prescripción del profesional competente según situación particular, sean éstos hormonales como no hormonales, tales como, aquellos combinados de estrógeno y progestágeno, de progestágeno solo, hormonales de emergencia y no hormonales, naturales o artificiales, a excepción de aquellos cuyo objetivo o efecto directo sea provocar un aborto.
+Corresponderá a los organismos que integran el Sistema Nacional de Servicios de Salud definido en el artículo 2º, inciso segundo, del decreto con fuerza de ley Nº 1, de 2005 ya citado, de conformidad con los planes y programas correspondientes aprobados por el Ministerio de Salud, entregar a la población que lo requiera, los métodos de anticoncepción autorizados en el país de que dispongan, sean éstos hormonales como no hormonales, tales como, aquellos combinados de estrógeno y progestágeno, de progestágeno solo, hormonales de emergencia y no hormonales, naturales o artificiales, a excepción de aquellos cuyo objetivo o efecto directo sea provocar un aborto.
 
 #### Artículo 6º
 
