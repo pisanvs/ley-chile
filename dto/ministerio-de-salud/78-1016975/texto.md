@@ -1600,9 +1600,9 @@ El presente reglamento entrará en vigencia 180 días después de su publicació
 
 - **a)** las existentes a la fecha de su publicación, incluidas aquellas cuya autorización esté en trámite a esa fecha, que deban realizar cambios importantes en sus instalaciones o proyectos, tendrán un plazo de dos años;
 
-- **b)** aquellas empresas que ni aún con el análisis de consecuencia den cumplimiento a los requisitos de distanciamiento de las instalaciones que en este reglamento se establecen, que deban trasladarse o realizar modificaciones de construcción o nuevas construcciones en el mismo sitio, dispondrán de un plazo de cinco años; y,
+- **b)** aquellas empresas que ni aún con el análisis de consecuencia den cumplimiento a los requisitos de distanciamiento de las instalaciones que en este reglamento se establecen, que deban trasladarse o realizar modificaciones de construcción o nuevas construcciones en el mismo sitio, dispondrán de un plazo de seis años; y,
 
-- **c)** aquellas empresas que tengan más de 2 sucursales y que deban realizar modificaciones de envergadura al interior de sus instalaciones, tales como sistemas de extinción automático de incendios, tendrán un plazo de cinco años.
+- **c)** aquellas empresas que tengan más de 2 sucursales y que deban realizar modificaciones de envergadura al interior de sus instalaciones, tales como sistemas de extinción automático de incendios, tendrán un plazo de seis años.
 
 Aquellas instalaciones afectas a alguno de los plazos adicionales de cumplimiento que se establecen en el inciso anterior, deberán solicitar igualmente su Autorización Sanitaria acompañando el respectivo proyecto de adaptación, en que indiquen los cambios que realizarán para dicho cumplimiento y los plazos necesarios para ello.
 
