@@ -1,0 +1,5 @@
+PLAZO Y PROCEDIMIENTO PARA DAR AVISO DE PÉRDIDAS DE EXISTENCIAS, O PÉRDIDA O INUTILIZACIÓN DE LIBROS DE CONTABILIDAD, PRODUCTO DEL TERREMOTO DE 16 DE SEPTIEMBRE DE 2015
+
+Extracto de circular del Servicio de Impuestos Internos Nº 78, de fecha 22 de septiembre de 2015, la cual tiene por objeto instruir sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 16 de septiembre de 2015, así como los efectos de la dictación del decreto supremo Nº 1.227 de 2015.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de septiembre, de 2015.
