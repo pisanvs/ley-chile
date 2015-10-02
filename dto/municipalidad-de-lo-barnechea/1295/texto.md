@@ -2004,6 +2004,8 @@ ZONA K "LA DEHESA ALTA"
 
 Zona L "Circunvalación Vial"
 
+Zona LL "Equipamiento de Culto".
+
 ZONA M "AVDA. LA DEHESA"
 
 ZONA N "INTERES CULTURAL"
@@ -2048,6 +2050,8 @@ al Uso Residencial.
 
 (N7) ELIMINADA.
 
+(N8) Condición especial de altura máxima de 20 metros para la nave central del culto y de 30 metros para campanarios en el uso Culto"
+
 ZONA A "PUEBLO LO BARNECHEA"
 
 CONDICIONES DE USO DE SUELO
@@ -2086,7 +2090,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto Museos
+Culto (N8) Museos
 
 Cultura Bibliotecas
 
@@ -2240,7 +2244,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto Museos
+Culto (N8) Museos
 
 Cultura Bibliotecas
 
@@ -3536,6 +3540,36 @@ b.) Usos de Suelo Prohibidos
 
 Todos aquellos que no estén expresamente permitidos o que no cumplan con las exigencias establecidas para los usos restringidos. En forma explícita se prohíbe el uso de suelo equipamiento.
 
+Zona LL "Equipamiento de Culto"
+
+Esta zona está constituida por los sitios numerados del 1 al 6 en el listado que se incluye a continuación, los que se grafican en el plano MPRC-LB-20.
+
+EQUIPAMIENTO DE CULTO
+
+.
+
+CONDICIONES DE USO DE SUELO
+
+a.) Usos Permitidos y Restringidos
+
+a.1 Equipamiento:
+
+TIPO EQUIPAMIENTO
+
+Culto-Cultura Templos, santuarios, sinagogas, mezquitas, Museos,
+
+Bibliotecas
+
+Nota: Se permitirán todas aquellas actividades complementarias al destino culto-cultura.
+
+b.) Usos Prohibidos
+
+Todos aquellos que no estén expresamente permitidos.
+
+CONDICIONES DE EDIFICACIÓN
+
+.
+
 ZONA M "AVDA. LA DEHESA"
 
 CONDICIONES DE USO DE SUELO
@@ -3570,7 +3604,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto Museos
+Culto (N8) Museos
 
 Cultura Jardines Botánicos
 
@@ -3873,3 +3907,5 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 > **Nota.** NOTA 11 La letra c) del artículo único del Decreto 912, Municipalidad de Lo Barnechea, publicado el 06.03.2013, modifica la presente norma en el sentido de suprimir el numeral 3 del punto a.2.2) de la Zona J. Sin embargo, el referido punto a.2.2 ha sido eliminado con anterioridad.
 
 > **Nota.** NOTA 12 La letra a) del artículo 2° del Decreto 6789, Municipalidad de Lo Barnechea, publicado el 22.12.2013, modifica la presente norma en el sentido de incorporar el plano MPRC-LB-17, que precisa el límite de aplicación de la Zona J "La Dehesa" y modificar la lámina 7 del Plano PRC-LB-1 "Zonificación" del Plan Regulador Comunal de Lo Barnechea.
+
+> **Nota.** NOTA 13 La letra a) del artículo único del Decreto 5655, Municipalidad de Lo Barnechea, publicado el 01.10.2015, modifica la presente norma en el sentido de reemplazar las filas del artículo 20, indicadas en la citada norma.
