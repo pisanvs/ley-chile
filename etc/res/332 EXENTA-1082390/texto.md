@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 332 EXENTA, DE 2015
+
+Resolución exenta Nº 332, de 28 de agosto de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Biobío, aprueba Contrato Ad-Referéndum de Concesión 6 para operar una planta revisora clase AB en la comuna de San Carlos y una planta revisora clase AB en la comuna de Los Ángeles, en la Región del Biobío, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío y el concesionario "Eca Control y Asesoramiento S.A.", con fecha 14 de julio de 2015, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+César Arriagada Lira. Secretario Regional Ministerial de Transportes y Telecomunicaciones, VIII Región del Biobío.
