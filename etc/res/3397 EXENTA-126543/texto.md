@@ -10,7 +10,7 @@ Fíjase las siguientes exigencias sanitarias para la internación a Chile de car
 
 El certificado debe establecer además que:
 
-a) El país o la zona de procedencia ha sido declarado libre de Fiebre Aftosa con o sin vacunación, Peste Porcina Africana, Enfermedad Vesicular del Cerdo y Peste Porcina Africana ante la Organización Mundial de Sanidad Animal (OIE).
+a) El país o la zona de procedencia ha sido declarado libre de Fiebre Aftosa sin vacunación, Peste Porcina Africana, Peste Porcina Clásica y Enfermedad Vesicular del Cerdo ante la Organización Mundial de Sanidad Animal (OlE).
 
 b) Los animales de los que proceden las carnes:
 
@@ -59,5 +59,7 @@ al siguiente modelo:
 .
 
 > **Nota.** El N° 3 de la Resolución 4211 Exenta, Agricultura, publicada el 03.08.2013, modifica la presente norma, en el sentido de reemplazar en el modelo de certificado sanitario oficial, el Punto 1 de la sección IV de la Certificación Sanitaria, por el siguiente:"Del país o zona de procedencia:1. ..................... 6(indicar país de procedencia), región ..............................7 está declarado libre de Fiebre Aftosa con o sin vacunación, Peste Porcina Africana, Enfermedad Vesicular del Cerdo y Peste Porcina Clásica ante la Organización Mundial de Sanidad Animal OIE).".
+
+> **Nota.** NOTA 1 El Numeral 1° letra b, de la Resolución 7095 Exenta, Agricultura, publicada el 03.10.2015, modifica la presente norma, en el sentido de reemplazar en el modelo de certificado sanitario oficial, contenido en su numeral 7, el número 1 de la Sección IV: Certificación Sanitaria, por el siguiente: "1. Del país o zona de procedencia: .......................6, región.........................7 está declarado libre de Fiebre Aftosa sin vacunación, Peste Porcina Africana, Enfermedad Vesicular del Cerdo y Peste Porcina Clásica ante la Organización Mundial de Sanidad Animal (OIE).
 
 Anótese, transcríbase y publíquese.- Antonio Yaksic Soule, Director Nacional Servicio Agrícola y Ganadero.
