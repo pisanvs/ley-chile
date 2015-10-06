@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A I. MUNICIPALIDAD DE JUAN FERNÁNDEZ
+
+Mediante decreto exento Nº E-421, de 15 de septiembre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a I. Municipalidad de Juan Fernández, RUT Nº 69.252.300-8, el inmueble fiscal signado como Sitio 11 de la manzana 1, ubicado en calle Larraín Alcalde Nº 34, Isla Robinson Crusoe, comuna de Juan Fernández, Provincia y Región de Valparaíso; Rol Servicio de Impuestos Internos Nº 1-11; inscrito en mayor cabida a nombre del Fisco a fs. 506 Nº 1361, en el Registro de Propiedad del Conservador de Bienes Raíces de Valparaíso, correspondiente al año 1911; I.D. Catastral Nº 47311; singularizado en el plano Nº V-6-4646-C.U., lámina A; con una superficie aproximada de 652,70 metros cuadrados. La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble concesionado para el desarrollo del Proyecto "Reposición Sede Club Deportivo Social y Restorán Cumberland - Poblado de San Juan Bautista, comuna de Juan Fernández", que contempla la construcción y funcionamiento permanente de una nueva Sede Social. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Patricio Flores Rivas, abogado, Jefe División Jurídica.
