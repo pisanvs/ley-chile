@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A CENTRO CULTURAL DE PLAYA ANCHA
+
+Mediante decreto exento Nº E-422 de 15 de septiembre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a Centro Cultural de Playa Ancha, RUT Nº 74.209.600-9, los inmuebles fiscales signados como Lote 10 de la manzana A y Lote 1 de la manzana C, ubicados en Cerro Playa Ancha, comuna y Provincia de Valparaíso, Región de Valparaíso; Rol Servicio de Impuestos Internos Nos 1122-11 y 1134-2 respectivamente; inscritos en mayor cabida a nombre del Fisco a fs. 3996 vta. Nº 4014, en el Registro de Propiedad del año 1995, a fs. 3238 vta. Nº 4428 en el Registro de Propiedad del año 1986, y a fajas 3997 vta. Nº 4016 en el Registro de Propiedad del año 1995, todas del Conservador de Bienes Raíces de Valparaíso, singularizado en el plano Nº V-6-6229-C.U.; con una superficie total aproximada de 6.130,40 metros cuadrados. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar los inmuebles concesionados para la construcción, habilitación y mantención del Complejo Deportivo David Pizarro; además de un Centro Demostrativo Ecológico del Buen Vivir y actividades comunitarias. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Patricio Flores Rivas, abogado, Jefe de División Jurídica.
