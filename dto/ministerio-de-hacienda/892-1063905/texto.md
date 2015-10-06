@@ -26,11 +26,7 @@ De esta manera, se desvinculará el gasto público de la evolución natural y c�
 
 De la Meta de Balance Estructural.
 
-Considerando la situación de déficit estructural con la que terminó la administración anterior, la presente administración se ha fijado como meta fiscal converger gradualmente a una situación de balance estructural en el año 2018, equivalente a un cero por ciento del Producto Interno Bruto anual.
-
-Esta meta es condicional a la oportuna aprobación e implementación del proyecto de ley de reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario (Mensaje Nº 24-362), que genera los ingresos fiscales necesarios para cumplir con la precitada convergencia. Asimismo, esta meta se mantendrá salvo que situaciones macroeconómicas objetivas justifiquen una modificación de la misma.
-
-Así quedarán sentadas las bases para que en los años posteriores a 2018 se pueda retomar una situación de superávit estructural, necesaria para asegurar una dinámica de acumulación de activos que permita hacer frente a compromisos futuros, pasivos contingentes y eventuales emergencias del sector público.
+La meta fiscal de la presente administración será, a partir del año 2016 y hasta 2018, reducir el déficit estructural en aproximadamente un cuarto de punto porcentual del Producto Interno Bruto cada año, medido este último con parámetros estructurales comparables de un año a otro.
 
 #### Artículo 3º
 
