@@ -38,6 +38,8 @@ Quinta selección: 31 de agosto de 2015
 
 Sexta selección: 30 de septiembre de 2015
 
+Séptima selección: 30 de octubre de 2015
+
 Párrafo eliminado.
 
 2.- La postulación a este llamado se podrá realizar en forma colectiva o individual.
