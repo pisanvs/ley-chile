@@ -40,7 +40,7 @@ Se entenderá que el deudor se encuentra al día en el servicio de su deuda, cua
 
 #### Artículo 4º
 
-Los deudores cuyas obligaciones pecuniarias pendientes con instituciones financieras o sus cesionarias, provengan de créditos hipotecarios, de mutuos hipotecarios endosables, obtenidos para enterar el precio de la vivienda adquirida o construida con aplicación del subsidio habitacional correspondiente a programas de subsidio a los que se refiere el artículo 1º del presente decreto, serán beneficiarios de un subsidio adicional destinado al pago de la prima de un seguro de desempleo para trabajadores dependientes y de incapacidad temporal para trabajadores independientes por todo el plazo que resta del crédito.
+Los deudores cuyas obligaciones pecuniarias pendientes con instituciones financieras o sus cesionarias, provengan de créditos hipotecarios, de mutuos hipotecarios endosables, obtenidos para enterar el precio de la vivienda adquirida o construida con aplicación del subsidio habitacional correspondiente a programas de subsidio regulados a través de los decretos supremos Nos 40, de 2004, y 1, de 2011, así como también aquellos deudores beneficiados con el D.S. Nº 12, de 2011, todos del Ministerio de Vivienda y Urbanismo., serán beneficiarios de un subsidio adicional destinado al pago de la prima de un seguro de desempleo para trabajadores dependientes y de incapacidad temporal para trabajadores independientes por todo el plazo que resta del crédito.
 
 El seguro de desempleo o de incapacidad temporal a que se refiere el inciso anterior, deberá cubrir como mínimo el pago de seis meses de dividendo y operará en forma posterior a la indemnización de cualquier otro seguro de desempleo o de incapacidad temporal asociada al mismo crédito hipotecario.
 
