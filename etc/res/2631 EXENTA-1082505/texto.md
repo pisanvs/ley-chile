@@ -1,0 +1,5 @@
+RECTIFICA RESOLUCIÓN Nº 2.465 EXENTA, DE 2015, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta Nº 2.631, de 24 de septiembre de 2015, de esta Subsecretaría, déjase sin efecto la resolución exenta Nº 2.508, de 2015, de esta Subsecretaría, y rectifíquese la resolución exenta Nº 2.465, de 2015, que autorizó al Centro de Investigación Aplicada del Mar S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo Reproductivo de la Anchoveta (Engraulis ringens) en la XV, I y II Región. Período invierno-primavera 2015", en el sentido de señalar que el periodo de dicha pesca de investigación se extenderá desde la fecha de la dictación de la presente resolución hasta el día 15 de octubre de 2015 y no la fecha que allí se indica y el RPI de la nave Trueno I por 1133.
+
+Valparaíso, 24 de septiembre de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
