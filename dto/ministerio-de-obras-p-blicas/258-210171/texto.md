@@ -194,7 +194,7 @@ Hualpín
 
 Labranza:
 
-. El tramo urbano de la Ruta S-30-40, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de 1 Norte.
+. El tramo urbano de la Ruta S-30, desde el límite urbano poniente hasta el límite urbano oriente, a través del par vial calle 1 Norte y calle 1 Sur.
 
 Las Hortensias:
 
