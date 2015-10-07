@@ -546,27 +546,33 @@ El valor límite de los pavimentos y/o repavimentos para la comuna de Gral. Lago
 
 .
 
-Para las aceras en adocreto de Arica sus valores límites en pavimentos es $37.000/m2 y en repavimento $40.000/m2.
+(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es de $66.500/m2 y $68.500/m2 en adocretos y $65.000/m2 y $66.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
 
-(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es de $66.500/m2 y $68.500/m2 en adocretos y $64.500/m2 y $66.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
+Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $64.000/m2 y $65.000/m2 y en adoquín canteado es de $64.000/m2 y $64.000/m2.
 
-Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $63.000/m2 y $65.000/m2 y en adoquín canteado es de $62.000/m2 y $63.000/m2.
+En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $62.000/m2 y de adoqu�n canteado es de $60.000/m2, tanto para calles como pasajes.
 
-En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de Provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $60.500/m2 y de adoquín canteado es de $59.000/m2, tanto para calles como pasajes.
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $128.000/m2 y $136.000 respectivamente, tanto para calles como para pasajes.
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $116.000/m2 y $123.000 respectivamente, tanto para calles como para pasajes.
+En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es $149.000/m2 y de $157.000/m2 respectivamente.
 
-En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es $135.000/m2 y de $142.000/m2 respectivamente.
+(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva SEREMI, el correspondiente valor límite de pavimentación es de $130.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación en adocreto respectivamente es $82.000/m2 y $100.000/m2 y de repavimentación en adocreto respectivamente es $104.000/m2 y $121.000/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Ñirehuao, Río Tranquilo y Cerro Castillo, el valor límite en adocreto para pavimentos es $112.000/m2 y para repavimentos es $125.000/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $135.000/m2.
 
-(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva SEREMI, el correspondiente valor límite de pavimentación es de $120.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación en adocreto es $96.000/m2 y de repavimentación en adocreto es $115.000/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite en adocreto para pavimentos es $102.000/m2 y para repavimentos es $119.000/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $128.000/m2.
+Para aceras en la comuna de O'Higgins y en las localidades de la comuna de Aysén distintas a la ciudad de Aysén, el valor límite de los pavimentos es $40.000/m2 y de repavimentos $51.000/m2. En el caso de comuna de Guaitecas, en aceras el valor límite de los pavimentos es $30.000/m2 y de repavimentos $42.000/m2.
 
-Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $38.000/m2 y de repavimentos $47.000/m2.
+(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $67.000/m2 y de repavimentación en aceras es de $71.000/m2.
 
-(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $64.000/m2 y de repavimentación en aceras es de $68.000/m2.
+(6) En las comunas de la provincia de Palena, los valores límites de pavimentación son $78.000/m2 en calles, $67.000 en pasajes y $32.000/m2 en aceras, y de repavimentación son $81.000/m2 en calles, $71.000/m2 en pasajes y $34.000/m2 en aceras.
 
-(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $74.000/m2 en calles, $63.000 en pasajes y $29.000/m2 en aceras, y de repavimentación son $76.000/m2 en calles, $65.000/m2 en pasajes y $27.000/m2 en aceras.
+Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $62.000/m2 en calles, $52.000 en pasajes y $22.000/m2 en aceras, y de repavimentación son $66.000/m2 en calles, $58.000/m2 en pasajes y $24.000/m2 en aceras.
 
-Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $62.000/m2 en calles, $52.000 en pasajes y $21.000/m2 en aceras, y de repavimentación son $66.000/m2 en calles, $58.000/m2 en pasajes y $23.000/m2 en aceras.
+(7) En las comunas de la provincia de Cardenal Caro y comunas de Lolol y Panquehue, los valores límites de pavimentación y de repavimentación son:
+
+.
+
+(8) En la comuna de Corral, los valores límites de pavimentación y de repavimentación son:
+
+.
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -808,6 +814,8 @@ Los responsables del Programa de Pavimentación Participativa en la Secretaría 
 
 17º.- Derógase la resolución exenta Nº 1.930 (V. y U.), de 1997, publicada en el Diario Oficial de 4 de agosto de 1997 y sus modificaciones.
 
+> **Nota.** Por inconvenientes técnicos no se pudo realizar el texto actualizado de los numerales 2 y 3 de la Resolución 7102 Exenta, Vivienda, publicada el 22.09.2015.
+
 #### Artículo 1º
 
 transitorio: Durante el año 2004 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 31 de Julio de 2004.
@@ -845,6 +853,10 @@ transitorio: Durante el año 2014, el día 30 de octubre será la fecha de cierr
 #### Artículo 9º
 
 Transitorio: Las postulaciones de la comuna de Valparaíso que participen y resulten seleccionadas en el 24º Proceso de Selección de Proyectos que realiza la Secretaría Regional Ministerial de Vivienda y Urbanismo de Valparaíso, estarán exentas de realizar aportes complementarios por obras anexas, imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos aprobados por el Servicio de Vivienda y Urbanización de Valparaíso, en consideración al decreto que señala a la comuna de Valparaíso zona afectada por catástrofe.
+
+#### Artículo 10°
+
+Transitorio: En atención al decreto N° 1.227, de Interior, de 2015, que señala como zonas afectadas por catástrofe a la Provincia de Choapa y a la comuna de Coquimbo, producto del sismo de alta intensidad y del posterior tsunami, ocurridos el día 16 de septiembre de 2015 y que afectaron especialmente a esas localidades, el año 2015 en la Región de Coquimbo, la fecha de cierre en el Servicio de Vivienda y Urbanización para la recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 30 de octubre, y el día 16 de noviembre será la fecha de cierre para recepción de postulaciones en la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
