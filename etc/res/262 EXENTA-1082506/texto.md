@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "UNIVERSIDAD TECNOLÓGICA METROPOLITANA, UTEM"
+
+Por resolución exenta Nº 262, de 1 de septiembre de 2015 y conforme lo dispuesto en la ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 20 de 16 de enero de 2014 a Universidad Tecnológica Metropolitana UTEM, RUT Nº 70.729.100-1, a los siguientes perfiles ocupacionales del Sector Construcción, Subsector Instalaciones Eléctricas, de Gasfitería y Climatización: Instalador de Gas Clase 3 (P-4322-7126-002-V02) e Inspector de Gas (P 4322-3123-001-V02).-
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
