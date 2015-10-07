@@ -108,6 +108,8 @@ A solicitud del fabricante, armador, importador o sus representantes, al momento
 
 Las motocicletas de cilindrada inferior o igual a 50 centímetros cúbicos y con una velocidad máxima inferior o igual a 45 km/h, deberán cumplir con los niveles máximos de monóxido de carbono (CO), hidrocarburos totales (HCT) y óxidos de nitrógeno (NOx), medidos en gramos por kilómetro recorrido (gr/km), que se indican en la Tabla 2.
 
+Por su parte, las motocicletas de dos ruedas, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite seis meses después de la fecha de publicación en el Diario Oficial del DS. N° 26, de 18 de mayo de 2015, del Ministerio del Medio Ambiente, sólo podrán circular por el territorio nacional si son mecánicamente aptas para cumplir indistintamente, en condiciones normalizadas de medición, con los niveles máximos de emisión que se indican en la Tabla 1, Tabla 2 o Tabla 3 del presente artículo.
+
 #### Artículo 4º
 
 Para los efectos de acreditar o verificar el cumplimiento de la presente norma de emisión, las condiciones normalizadas de medición serán:
@@ -116,9 +118,9 @@ a) Las establecidas por la Agencia de Protección Ambiental de los Estados Unido
 
 b) Las previstas por la Comunidad Europea en la Directiva 97/24/CE.
 
-#### Artículo 5º
+#### Artículo 5°
 
-Corresponderá al Ministerio de Transportes y Telecomunicaciones certificar y fiscalizar el cumplimiento de la norma de emisión.
+La Superintendencia del Medio Ambiente fiscalizará la presente norma de emisión, sin perjuicio de las atribuciones que le correspondan al Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 6º
 
