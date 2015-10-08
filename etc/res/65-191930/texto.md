@@ -816,6 +816,8 @@ No obstante lo anterior, para el uso de suelo Equipamiento de la clase Cultura e
 
 Su área figura graficada en el Plano PRCLR-01/2010 y las normas urbanísticas se indican en la siguiente Tabla Nº 2:
 
+.
+
 No obstante lo anterior, a los proyectos de ampliación de edificaciones existentes, que no impliquen densificación, no se les exigirán ni le aplicarán los distanciamientos, el sistema de agrupamiento, los adosamientos y antejardines mayores a los ya consolidados, y sólo deberán dar cumplimiento a lo señalado en los artículos 2.6.2 y 2.6.3 de la OGUC. En estos casos, en la zona A-1se podrá aumentar hasta en un 50% la ocupación de suelo.
 
 Normas Complementarias:
@@ -823,6 +825,8 @@ Normas Complementarias:
 - Si los estacionamientos se desarrollan en subterráneo, se podrá aumentar el coeficiente de ocupación de suelo en 0.1.
 
 - A los predios que enfrentan la acera oriente de la calle Güemes entre la Plaza Bombero Soto y la avenida Larraín, y a los predios que enfrenten la acera poniente de la calle Joaquín Godoy entre la Plaza Bombero Soto y la avenida Larraín, no se les exigirán antejardines, y el distanciamiento mínimo a medianero será el indicado en el artículo 2.6.3.- de la OGUC. Adicionalmente, a estos predios se les permitirán adosamientos desde la línea de edificación de acuerdo al artículo 2.6.2.- de la OGUC.
+
+> **Nota.** El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
 
 #### Artículo 24
 
@@ -970,6 +974,8 @@ Las demás normas urbanísticas aplicables para cada una de estas zonas son las 
 
 Su área figura graficada en el Plano PRCLR -01/2010 y las normas urbanísticas se indican en la siguiente Tabla Nº 13:
 
+.
+
 Normas Complementarias:
 
 - En edificios de Equipamiento el antejardín se
@@ -982,11 +988,15 @@ Estudios de Impacto sobre el Sistema de
 
 Transporte Urbano, en su caso.
 
+> **Nota.** NOTA 1 El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
+
 #### Artículo 24
 
 4.2.- Zonas C-1, C-2 y C-3
 
 Su área figura graficada en el Plano PRCLR -01/2010 y las normas urbanísticas se indican en la siguiente Tabla Nº 14:
+
+.
 
 No obstante lo anterior, a los proyectos de ampliación de edificaciones existentes, que no impliquen densificación, no se les exigirán ni le aplicarán los distanciamientos, el sistema de agrupamiento, los adosamientos y antejardines mayores a los ya consolidados, y solo deberán dar cumplimiento a lo señalado en los artículos 2.6.2 y 2.6.3 de la OGUC. En estos casos, en las zonas C-1, C-2 y C-3, se podrá aumentar hasta en un 50% la ocupación de suelo.
 
@@ -997,6 +1007,8 @@ Normas Complementarias:
 subterráneo, se podrá aumentar el coeficiente de
 
 ocupación de suelo en 0.1.
+
+> **Nota.** NOTA 2 El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
 
 #### Artículo 24
 
