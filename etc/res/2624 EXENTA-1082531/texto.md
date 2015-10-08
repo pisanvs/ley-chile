@@ -1,0 +1,5 @@
+AUTORIZA A DERIS S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS EXTRACTIVAS QUE SEÑALA
+
+Por resolución exenta Nº 2.624 de esta Subsecretaría, autorízase a Deris S.A., para ampliar actividades pesqueras extractivas con la nave fábrica "Puerto Ballena", en las áreas marítimas que a continuación se indican, donde podrá capturar, los siguientes recursos hidrobiológicos: a) En el área marítima comprendida entre los paralelos 44º30' L.S. y 57º L.S., por fuera de las líneas de base recta, con palangre: Brótula, Cabrilla, Calamar, Chancharro, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Tollo o fume, Pejerrata, Pota del Atlántico, Pulpo, Sierra y Tollo de cachos; b) En el área marítima comprendida entre los paralelos 47º L.S. y 57º L.S., por fuera de las líneas base recta, con palangre: Pejerrata o granadero, Congrio negro y Marrajo o tiburón.
+
+Valparaíso, 22 de septiembre de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
