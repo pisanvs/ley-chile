@@ -28,6 +28,14 @@ Las selecciones serán mensuales y podrán participar de éstas las familias que
 
 2. Sólo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo, que afectó a la Región de Atacama y las comunas de Antofagasta y Taltal de la Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con "daño reparable moderado" y "daño reparable mayor", tras la aplicación de la Ficha de Catastro extendida por el SERVIU. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 10 días hábiles para efectuarlo.
 
+Quedarán excluidos de participar en este llamado los damnificados de la Región de Atacama, que:
+
+2.1 Posean viviendas emplazadas en la zona crítica A, calificados con daño reparable moderado o mayor, según Ficha de Catastro extendida por Serviu.
+
+2.2 Las viviendas ubicadas en la zona crítica B, calificadas con daño reparable mayor, según Ficha de Catastro extendida por Serviu.
+
+Lo anterior de acuerdo a la clasificación de las áreas de riesgo transitorias, denominadas zonas críticas establecidas en la resolución 205 de la Secretaria Regional Ministerial de Vivienda y Urbanismo (S), de fecha 21 de julio de 2015.
+
 3. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
 ### 4. Se podrán presentar proyectos en las siguientes modalidades:
