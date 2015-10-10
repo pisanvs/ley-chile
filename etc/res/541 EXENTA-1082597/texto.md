@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 541 EXENTA DE 22 DE SEPTIEMBRE DE 2015
+
+Por resolución exenta Nº 541 de 22 de septiembre de 2015, de la Secretaría Regional Ministerial de la Región de Atacama, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Atacama, celebrado con el concesionario Revisiones Atacama Ltda., aprobado por la resolución exenta Nº 240 de fecha 14 de junio de 2004 de la citada Secretaría Regional, hasta el día 31 de diciembre de 2015 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esa Región, a través de la resolución Nº 279, de 11 de diciembre de 2013, modificada por la resolución Nº 129, de 25 de abril de 2014, cualquiera que ocurra primero, y siempre que hubieren cesado las condiciones que motivan dicto acto administrativo.
+
+Ericka Portilla Barrios, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama.
