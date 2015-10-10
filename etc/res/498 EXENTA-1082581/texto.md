@@ -1,0 +1,5 @@
+SE APRUEBA NUEVO CONVENIO DE COLABORACIÓN Y CONTRATO DE COMODATO CON LA FUNDACIÓN MUSEO VIOLETA PARRA
+
+Por resolución exenta Nº 498, de 22 de septiembre de 2015, se aprueba nuevo Convenio de Colaboración y Contrato de Comodato, entre el Instituto de Previsión Social y la Fundación Museo Violeta Parra, suscrito con fecha 10 de septiembre de 2015, con la finalidad de realizar eventos artísticos culturales, relacionados con el legado de la eximia folclorista, en favor de la integración social y mejoramiento de la calidad de vida de los adultos mayores pensionados del IPS y de su entorno familiar y aprueba el "Término de Convenio de Colaboración y Contrato de Comodato", que este Instituto de Previsión Social suscribiera con la Fundación Centro Cultural Palacio de la Moneda, sobre la misma materia.
+
+Santiago, 2 de octubre de 2015.- Patricio Coronado Rojo, Director Nacional.
