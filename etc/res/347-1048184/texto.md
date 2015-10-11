@@ -2818,6 +2818,36 @@ resolución o fallo, número si corresponde y
 
 Tribunal que lo resuelve.
 
+Tratándose de recursos de reposición, relativos
+
+a solicitudes de devolución de gravámenes
+
+aduaneros, en que se deniegue total o
+
+parcialmente la restitución, la Aduana
+
+antes de ingresar y cursar la respectiva
+
+SMDA, deberá adoptar las medidas necesarias
+
+para verificar si el interesado ha deducido,
+
+dentro del plazo legal, igual pretensión ante
+
+el Tribunal Tributario y Aduanero,
+
+dirigiendo para tal efecto consulta al mismo
+
+interesado y al tribunal correspondiente. En
+
+caso afirmativo, deberá esperarse que el
+
+fallo judicial se encuentre ejecutoriado; en
+
+una situación contraria, deberá procederse
+
+a ingresar y cursar la SMDA.
+
 2.2.4. Si la resolución o fallo establece la devolución
 
 de gravámenes, el Departamento Técnico deberá
@@ -6911,3 +6941,5 @@ El funcionario que emite el formulario de Giro Comprobante de Pago en Pesos F-16
 > **Nota.** NOTA 2 El Numeral 3 de la Resolución 5271 Exenta, Hacienda, publicado 03.10.2014, modifica la presente norma en el sentido de sustituir las hojas Cap. II - 2.
 
 > **Nota.** NOTA 3 El Numeral 2 de la Resolución 3939, Hacienda, publicado el 30.07.2015, modifica la presente norma en el sentido de sustituir las páginas CAP. II-1; CAP. III-1; CAP. III-6; CAP. III-10; CAP. III-14; CAP. III-17 y CAP. III-18.
+
+> **Nota.** NOTA 4 El Numeral II de la Resolución 5785, Hacienda, publicado el 10.10.2015, modifica la presente norma en el sentido de sustituir las páginas Capítulo III-9, por la que se adjunta a esta resolución, y agrégase la hoja Capítulo III-9A.
