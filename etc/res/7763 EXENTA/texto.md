@@ -38,7 +38,7 @@ Resolución:
 
 3.1 Sólo podrán participar de este llamado las personas damnificadas que cuenten con viviendas unifamiliares calificadas con "daño reparable leve", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo.
 
-3.2 Ser propietario, asignatario o cónyuge; o arrendatario del inmueble afectado. Los arrendatarios sólo podrán postular con la autorización notarial del propietario de la vivienda. Para todos los efectos sólo se podrá aplicar un subsidio de mejoramiento por vivienda.
+3.2 Ser propietario, asignatario o cónyuge; o arrendatario del inmueble afectado. Los arrendatarios sólo podrán postular con la autorización del propietario de la vivienda, mediante declaración ante el Ministro de Fe del SERVIU o notario. Para todos los efectos sólo se podrá aplicar un subsidio de mejoramiento por vivienda.
 
 3.3 Los subsidios entregados por este llamado serán compatibles con eventuales futuros beneficios del Programa de Protección del Patrimonio Familiar u otros programas de mejoramiento de la vivienda.
 
@@ -84,15 +84,21 @@ El número de familias beneficiadas, alcanzará hasta la cantidad de subsidios s
 
 8.2 Como requisito previo a la entrega de la tarjeta para las compras de materiales, el interesado deberá suscribir ante el Serviu una declaración jurada, la que deberá contener las siguientes estipulaciones:
 
-8.2.1 Que es propietario, asignatario o cónyuge; o arrendatario de la
+8.2.1 Que es propietario, asignatario o cónyuge;
 
-vivienda a intervenir.
+o arrendatario de la vivienda
 
-8.2.2 Tanto el propietario como quien postula en calidad de
+a intervenir.
 
-arrendatario, asume el compromiso de utilizar los materiales
+8.2.2 Tanto el propietario como quien postula
 
-adquiridos con el subsidio en el mejoramiento de la vivienda
+en calidad de arrendatario, asume el
+
+compromiso de utilizar los materiales
+
+adquiridos con el subsidio en el
+
+mejoramiento de la vivienda
 
 catastrada.
 
