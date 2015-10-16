@@ -1,0 +1,15 @@
+RESOLUCIÓN EXENTA Nº 651 DE FECHA 25 DE MARZO DE 2015 QUE ACOGE PARCIALMENTE RECURSO DE RECLAMACIÓN, RECTIFICADA POR RESOLUCIÓN EXENTA Nº 1.820 DE FECHA 29 DE JULIO DE 2015
+
+La Superintendencia de Educación a través de resolución exenta Nº 651 de fecha 25 de marzo de 2015 de la Jefa División Jurídica (PT), acogió parcialmente Recurso de Reclamación interpuesto en contra de resolución exenta Nº 2013/PATO/05/1104 de 13 de noviembre de 2013 del Director Regional (PT) de la Superintendencia de Educación, Región de Valparaíso, y resuelve: 1. Acoge parcialmente Recurso de Reclamación interpuesto por doña Macarena Cebrián López, en su calidad de representante legal de la Sociedad Educacional Cebrián y Cía. Ltda., entidad sostenedora del Liceo Politécnico de Quintero RBD Nº 1851-1, de la comuna de Quintero, en contra resolución exenta Nº 2013/PATO/05/1104 de 13 de noviembre de 2013, del Director Regional (PT) de la Superintendencia de Educación, Región de Valparaíso, que aprueba Proceso Administrativo y aplica sanción de multa a beneficio fiscal de 501 UTM. 2. Rebájese, la sanción aplicada por la resolución exenta Nº 2013/PATO/05/1104 de 13 de noviembre de 2013 del Director Regional (PT) de la Superintendencia de Educación, Región de Valparaíso, a la sanción de multa a beneficio fiscal de 51 UTM. 3. Ejecútese, el pago de la multa mediante el descuento de la subvención a contar del mes siguiente, en que la presente resolución quede firme y ejecutoriada. Dicha resolución exenta fue rectificada, por resolución exenta Nº1.820 de fecha 29 de julio de 2015, de la Jefa de División Jurídica (PT), de la Superintendencia de Educación, en el siguiente sentido:
+
+- **1.-** Donde dice: "Establecimiento educacional Liceo Politécnico Quintero, RBD 1851-1, de la comuna de Quintero. Debe decir "Establecimiento educacional Escuela Particular San Rafael RBD 2051-6 de la comuna de San Antonio".
+
+- **2.-** Notifíquese la presente resolución a la entidad sostenedora de acuerdo a lo prescrito en el artículo 68 de la ley Nº 20.529.
+
+- **3.-** Remítase el expediente para los efectos señalados en el numeral precedente, a la Dirección Regional de la Superintendencia de Educación, Región de Valparaíso. Con fecha 29 de julio de 2015 la Jefa de División Jurídica, a través de resolución exenta Nº 1.820, rectificó resolución exenta Nº 651 de fecha 25 de marzo de 2015, que acoge parcialmente recurso de reclamación, en el siguiente sentido: resuelvo 1 donde dice "establecimiento educacional Liceo Politécnico Quintero RBD 1851-1, de la comuna de Quintero". Debe decir:" Establecimiento Educacional San Rafael RBD 2051-6 de la comuna de San Antonio".
+
+- **2.-** Notifíquese la presente resolución a la entidad sostenedora de acuerdo a lo prescrito en el artículo 68 de la ley Nº 20.529.
+
+- **3.-** Remítase el expediente para los efectos señalados en el numeral precedente, a la Dirección Regional de la Superintendencia de Educación, Región de Valparaíso.
+
+Sybil Abarca Carvajal, Jefa de Unidad Jurídica, Superintendencia de Educación, Región de Valparaíso.
