@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.908 del 6 de octubre de 2015, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en Estero Lagunillas 2779 B Dp 47 Mártires del Carbón, comuna de Coronel, Rol de Avalúo Nº 4061-63, de aparente dominio de Serviu (Arévalo Elmes Sandra Gimena). La edificación afecta a expropiación tiene superficie de 43,640625 m2, corresponde a 42,63 m2 de superficie útil y 1,010625 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 43,85453125 m2 y equivalen al 1,5625% del total de la propiedad común de 2806,69 m2 (lote 2), dentro de linderos señalados plano de expropiación S8R28602-M de fecha 10 de septiembre de 2015, para ejecución proyecto Ampliación y Alteración de Departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2.186 de 1978. Comisión Peritos integrada por arquitecto Juan Carlos Riveros Bassaletti y por los ingenieros civiles Orlando Javier Paredes Vásquez y Marcelo Esteban Moreno Venegas, según Informe de fecha 15.12.2014 y Acta Complementaria de fecha 23.09.2015, fijó monto indemnización provisional más reajuste artículo 5º del DL 2.186 de 1978, en $7.268.204.- pagadera de contado.
+
+Directora Serviu Región del Biobío.
