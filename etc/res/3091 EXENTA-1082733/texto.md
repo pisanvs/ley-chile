@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.091 del 6 de octubre de 2015, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en calle Laguna Quiñenco 2799 A Dp 25, del piso 2, Rol de Avalúo 4064-77 comuna de Coronel, de aparente dominio de Serviu (Moraga Castillo Emma Rosa). La superficie de edificación afecta a expropiación, conforme a plano Nº S8R 28427 M es de 43,640625 m2, corresponde a 42,63 m2 de superficie útil y 1,01062500m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 41,80704500 m2 y equivalen al 2,27270% del total de la propiedad común de 1839,51 m2 (lote 3), para la ejecución de la ampliación y reparación de los departamentos y blocks de la población Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2186. Comisión de Peritos integrada por el arquitecto Juan Carlos Riveros Bessaletti, y por los ingeniero civil Orlando Javier Paredes Vásquez y Marcelo Esteban Moreno Venegas, según informe de fecha 6 de Octubre 2014 y el Acta Complementaria de fecha 23.09.2015, fijó monto provisional, más reajuste art. 5º DL 2.186, en $9.890.189.-, pagadera de contado.
+
+Directora Serviu Región del Biobío.
