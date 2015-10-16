@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.910 del 6 de octubre de 2015, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en Laguna Quinenco 2699 B Dp 01 Comuna de Coronel, Rol de Avalúo Nº 4064-33, de aparente dominio de Henríquez Sandoval Luis y otros. La edificación afecta a expropiación tiene superficie de 43,640625 m2, corresponde a 42,63 m2 de superficie útil y 1,010625 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 35,328125 m2 y equivalen al 1,5625% del total de la propiedad común de 2261,00 m2 (lote 4), dentro de linderos señalados plano de expropiación S8R28420-M de fecha 10 de septiembre de 2015, para ejecución proyecto Ampliación y Alteración de Departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2.186 de 1978. Comisión Peritos integrada por arquitectos Carolina Andrea Contreras Tapia, Ricardo Pedro Conrado Echeverría Hohmann y constructor civil Raúl René Mena Monje, según Informe de fecha 06.10.2014 y Acta Complementaria de fecha 23.09.2015, fijó monto indemnización provisional más reajuste artículo 5º del DL 2.186 de 1978, en $8.419.490.-, pagadera de contado.
+
+Directora Serviu Región del Biobío.
