@@ -30,7 +30,7 @@ e) Luego de la selección de los proyectos, y en caso de existir viviendas dispo
 
 3. Para participar del presente llamado, a los grupos participantes no les será exigible contar con Personalidad Jurídica, conforme lo establecen los artículos 19 y 20 del DS Nº49 (V. y U.), de 2011.
 
-4. La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los proyectos que postulen al presente llamado será de 650.000 Unidades de Fomento.
+4. La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los proyectos que postulen al presente llamado será de 459.550 Unidades de Fomento.
 
 5. Respecto a los postulantes, podrán participar del presente llamado, los damnificados de los incendios acaecidos con fecha 12, 13 y 14 de abril de 2014, que se encuentren debidamente inscritos en el Registro de Damnificados, que no sean propietarios, ni él ni su cónyuge, de otro u otros inmuebles de carácter habitacional, salvo que ese o esos inmuebles se encuentren en zona de riesgo o no cuenten con factibilidad técnica para la construcción de una nueva vivienda, situación que deberá ser acreditada con el correspondiente certificado emitido por la Dirección de Obras Municipales respectiva. Tampoco podrán postular las personas o sus cónyuges que cuenten con un certificado de subsidio habitacional vigente.
 
