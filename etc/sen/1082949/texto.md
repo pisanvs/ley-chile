@@ -1,0 +1,19 @@
+ANULA DECRETO SUPREMO Nº 20, DE 2013, DEL MINISTERIO DEL MEDIO AMBIENTE
+
+En cumplimiento de lo dispuesto en el artículo 31 de la ley Nº 20.600 y resolución de 14 de octubre de 2015 del Segundo Tribunal Ambiental, se publica la parte resolutiva de la sentencia dictada el 16 de diciembre de 2014, en la causa Rol R Nº 22-2014, "Fernando Dougnac Rodríguez y otros / Ministerio del Medio Ambiente", y causas acumuladas Roles R Nº 25-2014, 28-2014, 29-2014 y 31-2014:
+
+"Se Resuelve:
+
+1.- Acoger parcialmente las Reclamaciones de Fernando Dougnac Rodríguez y otros, de 16 de enero de 2014, y de la I. Municipalidad de Tocopilla, de 29 de enero de 2014, en contra del decreto supremo Nº 20, de 2 de septiembre de 2013, del Ministerio del Medio Ambiente, publicado en el Diario Oficial el 16 de diciembre de 2013, que Establece Norma de Calidad Primaria para Material Particulado Respirable MP10, en Especial de los Valores que Definen Situaciones de Emergencia y Deroga decreto Nº 59, de 1998, del Ministerio Secretaría General de la Presidencia, por no conformarse este a la normativa vigente en cuanto a la debida fundamentación en la mantención de la norma diaria para MP10, según se desarrolló en la parte considerativa III);
+
+2.- Acoger totalmente las Reclamaciones de Ena Luminanda Pérez Navia y otros, de 28 de junio de 2014, de la I. Municipalidad de Puchuncaví, de 29 de enero de 2014, y de la I. Municipalidad de Huasco y otros, también de 29 de enero, en contra del decreto supremo Nº 20 de 2 de septiembre de 2013, del Ministerio del Medio Ambiente, publicado en el Diario Oficial el 16 de diciembre de 2013, que Establece Norma de Calidad Primaria para Material Particulado Respirable MP10, en Especial de los Valores que Definen Situaciones de Emergencia y Deroga decreto Nº 59, de 1998, del Ministerio Secretaría General de la Presidencia, por no ajustarse este a la normativa vigente en cuanto al procedimiento establecido para la revisión de normas primarias, así como por no cumplirse con la debida motivación en la derogación de la norma MP10 anual, según se desarrolló en la parte considerativa II) y IV).
+
+3.- Anular totalmente el decreto supremo Nº 20 de 2 de septiembre de 2013, del Ministerio del Medio Ambiente que Establece Norma de Calidad Primaria para Material Particulado Respirable MP10, en Especial de los Valores que Definen Situaciones de Emergencia y Deroga decreto Nº 59, de 1998, del Ministerio Secretaría General de la Presidencia. En consecuencia, a partir de la publicación en el Diario Oficial establecida en el artículo 31 de la ley Nº 20.600, se deberá entender que recobra su vigencia y validez plena el decreto supremo Nº 59 de 1998, del Ministerio Secretaría General de la Presidencia, que Establece Norma de Calidad Primaria para Material Particulado Respirable MP10, en Especial de los Valores que Definen Situaciones de Emergencia.
+
+4.- Dejar sin efecto, por nulidad consecuencial, la resolución exenta Nº 57, de 31 de diciembre de 2013, del Ministerio del Medio Ambiente, que Modifica decreto Nº 20, de 2013, en sentido que indica, publicada en el Diario Oficial de 21 de febrero de 2014.
+
+5.- Dejar sin efecto, por nulidad consecuencial, la resolución exenta Nº 850, de 2 de septiembre de 2014, del Ministerio del Medio Ambiente, que Da Inicio a la Revisión de la Norma de Calidad Primaria para Material Particulado Respirable MP10, decreto Nº 20, de 2013, publicada en el Diario Oficial de 6 de septiembre de 2014, y todo lo obrado en su conformidad hasta la fecha.
+
+6.- Ordenar al Ministerio del Medio Ambiente llevar a cabo, en el más breve plazo posible, un nuevo proceso de revisión de la norma MP10 contenida en el decreto supremo Nº 59, de 1998, del Ministerio Secretaría General de la Presidencia, de conformidad con lo dispuesto en el artículo 32 de la ley Nº 19.300 y el Reglamento respectivo.".-
+
+Alejandro Domic Seguich, Secretario Abogado, Segundo Tribunal Ambiental.
