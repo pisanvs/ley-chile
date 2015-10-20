@@ -68,7 +68,9 @@ Delégase en los Ministros de Estado la facultad de suscribir, bajo la fórmula 
 
 27.- Los que para cada año calendario, fijen los equipos, unidades o áreas de trabajo de los Ministerios y servicios Públicos, y sus respectivas metas de gestión, que dispone la ley Nº 19.553, modificada por la ley Nº 19.882, con el objeto otorgar a los funcionarios el pago del incremento de desempeño colectivo que forma parte de la asignación de modernización establecida en dicha ley.
 
-28. Disponer aportes o transferencias, con o sin convenio, de los recursos que considere anualmente la Ley de Presupuestos, con excepción de aquellos que de conformidad a la ley citada deban distribuirse directamente por las Subsecretarías correspondientes.
+28. Disponer aportes o transferencias, con o sin convenio, de los recursos que considere anualmente
+
+la Ley de Presupuestos, con excepción de aquellos que de conformidad a la ley citada deban distribuirse directamente por las Subsecretarías correspondientes.
 
 ### II. MINISTERIO DEL INTERIOR y Seguridad Pública
 
@@ -275,6 +277,8 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 26. Otorgamiento de autorizaciones para la instalación de recintos fuera de las Zonas Francas, en conformidad al artículo 5º del D.F.L. Nº 341, de Hacienda, de 1977.
 
 27. Reactualización de las cantidades expresadas en dólares, señaladas en el inciso 4º del artículo 6º de la ley 17.238.
+
+28. Reajuste de las cantidades expresadas en dólares a que se refiere la partida 0009.0200 del Capítulo 0 Arancel Aduanero, referida a los viajeros provenientes de zona franca o de zona franca de extensión.
 
 ### VII. MINISTERIO DE MINERIA
 
