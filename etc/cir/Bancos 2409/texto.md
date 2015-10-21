@@ -5916,267 +5916,165 @@ El formato de las órdenes de pago de pensiones deberá ajustarse a las instrucc
 
 ## Capítulo 6-1
 
-DOCUMENTOS Y TIMBRES DE USO CORRIENTE EN LOS BANCOS. REQUISITOS QUE DEBEN CUMPLIR.
+DOCUMENTOS PAGADEROS POR CAMARA DE COMPENSACIÓN.
 
-En la impresión de formularios y en la confección y uso de timbres, los bancos deberán ceñirse estrictamente a las normas que se imparten a continuación.
+El presente Capítulo contiene los requisitos que deben cumplir los cheques y demás documentos pagaderos por Cámara de Compensación.
 
-### 1. Cheques
+### 1. Tamaño de los documentos
 
-1.1. Tamaño de los cheque.
+El cuerpo de los formularios de todos los documentos pagaderos por Cámara de Compensación, debe tener las siguientes medidas:
 
-Los formularios de cheque que confeccionen los bancos deben ser rectangulares y ajustarse a las siguientes medidas referidas exclusivamente al cuerpo del documento:
+largo : 160,0 mm.
 
-largo : 160 mm.
-
-ancho : 70 mm.
+ancho : 70,0 mm.
 
 tolerancia : 0,9 mm.
 
-1.2. Ubicación de los antecedentes inherentes a un cheque.
+### 2. Antecedentes inherentes a los documentos
 
-Los antecedentes de los cheques deben incluirse de acuerdo con las instrucciones que se indican a continuación y de conformidad con lo dispuesto en los anexos N°s 1 y 2 de este capítulo.
+2.1. Cheques.
 
-1.2.1. Localizaciones de antecedentes y dimensiones obligatorias.
+Los antecedentes de los cheques deben incluirse siguiendo el modelo y las medidas graficadas en el Anexo N° 1 de este Capítulo, considerando lo que se indica a continuación:
 
-Los siguientes antecedentes no pueden sufrir modificaciones en cuanto al lugar de colocación y dimensiones que, en cada caso, se señalan:
+a) Número de la cuenta corriente y número del documento: El número de cuenta debe ser impreso sin guiones, es decir, sólo con números seguidos. El número del documento debe ubicarse en la misma línea y a continuación del número de la cuenta corriente separada por el signo "-". Solo debe incluir números seguidos.
 
-a) Serie y número: Debe ubicarse a 8 mm. del borde superior del cheque y a una distancia de entre 10 y 25 mm. de su borde izquierdo. El largo máximo para indicar este antecedente será de 50 mm.;
+b) Palabra "Serie" y letras o códigos internos: Se destinan dos líneas de información ubicadas en la zona superior izquierda del documento. En la primera se debe incluir la palabra "Serie" y las letras o números que la identifiquen, y la segunda queda reservada para incluir las letras o códigos que pudiere establecer el banco para efectos de seguridad.
 
-b) Número de la cuenta corriente: Debe estar localizado en la parte central del extremo superior del cheque. Toda información que se imprima debajo del número de cuenta, como nombre del titular de la cuenta corriente, nombre del banco, logotipo de éste, etc., debe cubrir un espacio que no exceda de 12 mm. de ancho contados desde el borde superior;
+c) Nombre del titular: Se consideran dos líneas para incorporar el nombre del o los titulares de la cuenta, las que deben estar ubicadas de manera centrada bajo la cuenta y número del documento. Puede ser de menor tamaño con el fin de respetar el ancho máximo.
 
-c) Importe numérico en pesos: Debe ubicarse a 10 mm. del borde superior del cheque y a 5 mm. de su lado derecho. Debe tener 3 mm. para el signo pesos, ubicado a 47 mm. del lado derecho y 42 mm. de largo para indicar el importe numérico;
+d) Importe numérico en pesos: Se debe ubicar en una zona conformada por 11 cajas unidas, a continuación del signo pesos (o del que corresponda, en caso de cuentas corrientes en moneda extranjera). Las cajas tienen por objeto inducir al girador a escribir los números con un espacio que permita un reconocimiento electrónico del importe, en recuadros impresos con tinta que no son captados por los escáneres.
 
-d) Nombre de la institución bancaria y plaza: Este antecedente debe ubicarse en la parte central, inmediatamente debajo del espacio asignado al número de la cuenta y nombre del titular, o bien en la parte baja izquierda del cheque, a no menos de 16 mm. del borde inferior. Se recomienda que la indicación escrita de la plaza vaya inmediatamente debajo del nombre del banco;
+e) Codificación de la institución, sucursal y código de seguridad: se debe imprimir el código de la institución bancaria, sucursal y código de seguridad o SAV, en ese orden y separados entre sí con el signo "-". Las respectivas codificaciones deben atenerse a lo indicado en el N° 3 de este título.
 
-e) Número de codificación del banco, plaza y oficina: Debe ser impreso en el lugar y con las dimensiones que se indican en el numeral 3.2 de este título;
+f) Ciudad de giro: Debe estar formada por una caja, para el caso de que el girador desee indicar el lugar de expedición del cheque.
 
-f) Sector para la firma del cliente: Debe ubicarse a 20 mm. del borde inferior del cheque y a 5 mm. del lado derecho del cheque, con 70 mm. del largo total de la línea para colocar la firma y 6 mm. de espacio entre la última línea en que se indica el importe en pesos y el comienzo de la línea para firmar; y,
+g) Fecha de giro: Debe estar formada por tres pares de cajas, separadas entre sí con el signo "-". Bajo las respectivas cajas deben ubicarse la letra "d", "m" y "a", a fin de que se utilice el formato día-mes-año. El uso de estas cajas, que inducen al girador a colocar cada cifra significativa con un espacio, obedece a la necesidad de permitir el reconocimiento electrónico de la fecha.
 
-g) Espacio para caracteres magnéticos. Desde el borde inferior el cheque debe contener un espacio de 16 mm. a lo largo de todo el documento, sector que no puede llevar ningún tipo de impresión por estar destinado a los caracteres magnéticos, de acuerdo con lo indicado en el numeral 3.3 de este capítulo.
+j) Nombre del beneficiario y el importe del documento expresado en palabras: Se consideran líneas impresas para estos efectos. La palabra "PESOS" será sustituida por las que correspondan, cuando se trate de cuentas corrientes en moneda extranjera.
 
-1.2.2. Localizaciones optativas.
+j) Nombre de la institución bancaria, logo, dirección y otros: Estos antecedentes deben ubicarse en una zona rectangular establecida para esos efectos.
 
-Los espacios destinados a colocar el lugar y fecha de giro, que figuran en los Anexos N°s. 1 y 2, pueden modificarse en cuanto a su ubicación, al igual que el espacio para el nombre del beneficiario y el importe del documento expresado en palabras.
+k) Sector para la firma del cliente: Incluye una zona rectangular delimitada visible. El tamaño del área es mayor del que suele ser suficiente para colocar las rúbricas, por la eventualidad de que en el futuro se incluyan códigos de seguridad vinculados con la verificación de las firmas.
 
-En todo caso, la ubicación que elijan los bancos para anotar esos datos debe armonizar con los demás elementos y evitar que interfieran con ellos.
+l) Espacio sugerido para cruzar el cheque: Se considera un espacio en la parte superior izquierda, a fin de que el girador pueda insertar las líneas paralelas (y el nombre del banco, si fuere caso) sin causar eventuales interferencias para la lectura de los datos del cheque.
 
-### 2. Otros documentos pagaderos por Cámara de Compensación
+m) Espacio para caracteres magnéticos. Se considera un espacio ubicado en la parte inferior del documento, sector que no puede llevar ningún tipo de impresión por estar destinado a los caracteres magnéticos de que trata el N° 4 de este título.
 
-2.1. Tamaño.
+2.2. Otros documentos.
 
-Las medidas uniformes de los demás documentos pagaderos por intermedio de Cámaras Compensadoras, tales como depósitos a plazo fijo, boletas de garantía, letras bancarias, depósitos o vales vista, vales bancarios, vales de cámara y otros documentos cuyos códigos se indican en el anexo N° 3, deben ser:
+Los demás documentos pagaderos por la Cámara de Compensación, tales como vales vista, depósitos a plazo fijo, boletas de garantía y otros cuyos códigos y nombres se indican en el Anexo N° 2 de este Capítulo, deben ajustarse a lo siguiente:
 
-largo : 187 mm.
+a) En el mismo lugar en que debe ubicarse el nombre del titular en el caso de los cheques, se incluirá la denominación del tipo de documento que corresponda, según lo indicado en el Anexo N° 2.
 
-ancho : 93 ó 103 mm.
+b) Los siguientes antecedentes se incluirán en la misma ubicación que la instruida para los cheques: i) el importe numérico del valor que debe pagar el banco; ii) la fecha, que corresponderá a la emisión; y iii) el espacio para los caracteres magnéticos.
 
-tolerancia : ± 0,9 mm.
+c) El número de documento, la palabra "Serie" y letras o códigos internos, la codificación de la institución, sucursal y código de seguridad, como asimismo los demás textos, sean ellos similares o diferentes a los que debe contener un cheque, podrán ubicarse en el lugar que cada banco estime más conveniente para el documento de que se trate.
 
-Queda a criterio de los propios bancos establecer el ancho que se dará a esos formularios, el que puede ser de 93 ó de 103 mm. con una tolerancia para ambos, de más o de menos 0,9 mm.
+### 3. Codificaciones
 
-2.2. Ubicación de antecedentes.
+El código de la institución corresponde al asignado por esta Superintendencia para identificar a cada banco y que aparece en el Anexo N° 3 de este Capítulo.
 
-Los antecedentes de los documentos de que se trata deben incluirse de acuerdo con las instrucciones que a continuación se señalan y que se ilustran en el anexo N° 4 de este capítulo:
+El código que individualiza a cada sucursal u oficina, debe ser asignado por los respectivos bancos. Dicho código numérico no puede ser modificado una vez asignado y, para los eventuales efectos de determinar la vigencia de los cheques, debe encontrarse vinculado con la plaza en que radica la sucursal.
 
-2.2.1. Localizaciones y dimensiones obligatorias.
+El código de seguridad interno o SAV es propio de cada banco, según lo que se indica en la letra c) del N° 4 siguiente.
 
-Los siguientes antecedentes no podrán sufrir modificaciones en cuanto a su lugar de colocación y dimensiones:
+### 4. Impresión magnética
 
-a) Número del documento: Debe colocarse en el extremo superior izquierdo. El conjunto numérico no debe exceder de 8 dígitos. En caso de requerirse una complementación para establecer serie o prefijo, ésta no puede exceder de 3 posiciones alfa numéricas, diferenciadas de la numeración correlativa por un recuadro. La línea de impresión de estos caracteres no debe exceder de 50 mm. Y debe ubicarse a 10 mm. del borde superior del documento y a una distancia de entre 10 y 25 mm. de su borde izquierdo;
+La franja inferior de todos los documentos pagaderos por la Cámara de Compensación queda destinada al proceso de impresión magnética de los datos, tal como se muestran en el Anexo Nº 4 de este Capítulo.
 
-b) Denominación y código de tipo de documento: Su ubicación debe estar en el centro de la parte superior del documento, entre el número correlativo y el importe numérico en pesos, pudiendo cubrir una extensión lineal de 70 mm.;
+Dichos datos, ordenados de derecha a izquierda a continuación del primer campo destinado a anotar el valor del documento, corresponden a lo siguiente:
 
-c) Importe numérico en pesos: Debe ubicarse a 7 mm. del lado derecho del documento y a 10 mm. de su borde superior derecho. El signo pesos se imprimirá a 54 mm. del borde derecho del documento. En los casos que corresponda se anotará en esta línea el valor final que debe pagarse;
+a) Código del tipo de documento, que permite su identificación, según los códigos indicados en el Anexo Nº 2 de este Capítulo.
 
-d) Códigos de institución, plaza y oficina: Debe localizarse inmediatamente bajo el importe numérico en pesos, en la forma que se indica en el numeral 3.2 de este capítulo;
+b) Número de cuenta corriente o número interno. En el caso de los cheques debe incluirse en número de la cuenta y, para los demás documentos, esta área queda disponible para un número interno del banco emisor.
 
-e) Firma giradora. Debe estar ubicada en la parte inferior derecha a no menos de 16 mm. del borde inferior. Si se imprime una línea de referencia, su largo no será mayor de 80 mm; y,
+c) Código de entidad y de seguridad.
 
-f) Espacio para caracteres magnéticos: Esta franja debe extenderse a todo lo largo del documento con un ancho de 16 mm. desde la parte inferior del documento, para permitir la impresión de caracteres magnéticos según lo dispuesto en el numeral 3.3 de este capítulo.
+- Las tres primeras posiciones corresponden al código de la entidad librada o emisora, según sea el caso, obligada al pago.
 
-2.2.2. Localizaciones optativas.
+- Las siguientes tres posiciones deben ser utilizadas para registrar los dígitos del código de seguridad interno (SAV). Corresponde al código encriptado de propiedad del banco librado o emisor, responsable de su generación y revisión final para el pago.
 
-Es optativo el lugar de colocación para incluir la época de pago (si se trata de un documento pagadero a la vista, a plazo o a determinada fecha); nombre de la institución; lugar de giro y fecha de emisión; beneficiario; importe en letras y otros datos.
+- La última posición debe incluir el dígito verificador del cuerpo del campo completo, obtenido por el algoritmo que es conocido por todas las entidades bancarias, quienes son responsables de su verificación al momento de recibir un documento.
 
-En todo caso, junto al nombre del banco debe aparecer el nombre y dirección de la sucursal u oficina girada.
+d) Número del documento. Corresponde al número de 7 dígitos que identifica el documento en particular dentro de su serie, asignados por el banco librado o emisor.
 
-Se recomienda mantener la distribución utilizada, de manera que se conserve una cierta uniformidad que haga fácil la lectura y manejo de estos documentos. Cualquiera que sea la ubicación que se les dé, deberá procurarse, que ella no interfiera con los espacios destinados a la información que debe colocarse en lugares expresamente señalados en el numeral anterior y que no admiten modificaciones.
+### 5. Requisitos de seguridad
 
-### 3. Otros requisitos que deben cumplir los documentos
+Todos los documentos de que trata este Capítulo, deben ser confeccionados en papel de seguridad de tipo fiduciario, vale decir, fabricado para su uso particular en documentos de fe pública por alguno de los fabricantes reconocidos que los abastecen a nivel mundial.
 
-3.1. Características del papel.
+Para la confección de los formularios se deberá cumplir estrictamente con los requisitos relativos a la verificación del origen del papel utilizado por los impresores de los documentos y con las características técnicas y elementos de protección mínimos contra eventuales falsificaciones o adulteraciones, acordados por la Asociación de Bancos e Instituciones Financieras A.G. (ABIF)
 
-El papel que se utilice para la confección de los documentos debe tener las características técnicas y de protección contra adulteración recomendadas por la Asociación de Bancos e Instituciones Financieras A.G.
+Corresponde a los bancos verificar que los productos fabricados por sus proveedores cumplen con lo acordado por dicha Asociación, sin perjuicio de los elementos adicionales de seguridad que deseen agregarle a los formularios en su adverso o reverso.
 
-3.2. Codificación de institución, plaza y oficina.
+Asimismo, los bancos deberán cuidar que las empresas proveedoras que contraten, cumplan con las condiciones necesarias para cautelar en todo momento la cadena de seguridad vinculada a los insumos que deben utilizar y a sus procesos productivos, tales como la seguridad física de sus instalaciones, el resguardo de la información, adecuados ambientes de control en los procesos de fabricación, almacenamiento y entrega de los productos, auditorías internas, trayectoria y experiencia, etc.
 
-Los documentos a cargo de los bancos, susceptibles de cobrarse por intermedio de la Cámara de Compensación, deben llevar impreso en su extremo superior derecho, a 14 mm. del borde superior y a 5 mm. del lado derecho, los números de codificación de la institución, plaza y oficina.
+### 6. Sobre la necesidad de contar con documentos físicos legibles
 
-Estos números deben imprimirse con tipos notorios, en la forma señalada en la figura 2 de la anexo N° 5 de este Capítulo. La línea de impresión debe tener 30 mm. de largo y el ancho total de impresión de los caracteres numéricos de indicación debe ser de 7 mm.
+6.1. Utilización de timbres por parte de los bancos.
 
-Los números de identificación de cada entidad aparecen en el anexo N° 6 del presente Capítulo. Este número identificará al banco en la Cámara Compensadora a través del país y rige para todas las sucursales de la misma institución. Los códigos numéricos correspondientes a las distintas plazas se indican en el anexo N° 1 del Capítulo 5-1 de esta Recopilación de Normas.
+Cualesquiera sean las modalidades que los bancos utilicen para estampar en el anverso el timbre de caja por la recepción de documento y, en el reverso, el timbre de Cámara Compensadora que da cuenta del banco y la fecha en que lo presenta a cobro, sus características no deberán entorpecer la lectura de los datos del documento ni de su imagen en general.
 
-Los números que individualizan a cada oficina deben ser asignados por los respectivos bancos en la forma que lo estimen conveniente. Sin embargo, una vez asignados, dichos números no pueden ser modificados.
+Lo mismo se aplica para los bancos que utilicen timbres protectores para imprimir y resguardar el valor del documento.
 
-3.3. Impresión magnética en los cheques y otros documentos.
+6.2 Información a los clientes sobre el llenado de los cheques.
 
-La franja inferior de los cheques y demás documentos quedará destinada al proceso de impresión magnética de los antecedentes que se muestran en el anexo N° 7 de este Capítulo.
+Corresponde a cada banco librado informar a los titulares de sus cuentas corrientes acerca de la manera en que deben llenar los cheques para posibilitar la lectura de toda la información utilizando medios electrónicos, indicando cual es el lugar más apropiado para cruzar un cheque, la forma de escribir la fecha, los montos y, en general, los números y las palabras.
 
-Corresponde a la institución girada o emisora del instrumento, imprimir los siguientes antecedentes, ordenados de derecha a izquierda, a continuación del primer espacio destinado a anotar el valor del documento:
+Para el caso de los cheques que son llenados con impresoras, debe atenderse también la necesidad de que el color de las tintas sea, a simple vista, suficientemente fuerte, lo que no solamente alcanza a los cheques preparados por los titulares, sino también a los que son llenados utilizando dispositivos de los beneficiarios para facilitar un pago con cheques, como es el caso de los sistemas automatizados en las cajas de establecimientos comerciales.
 
-a) Código del tipo de documento, que permite la identificación según lo indicado en el anexo N° 7 antes citado;
+### 7. Disposiciones transitorias
 
-b) Número de cuenta corriente en el caso de los cheques; para los demás documentos esta área queda a libre disposición del banco emisor;
+Las normas del presente Capítulo deben ser aplicadas a más tardar para los formularios de cheques que sean confeccionados a contar del 2 de enero de 2016 y para los formularios de los otros documentos que sean utilizados a partir del 2 de enero de 2017.
 
-c) Código de plaza (plaza sobre la cual se gira el documento);
+El stock de los formularios de cheques confeccionados con anterioridad a la vigencia de estas normas, podrá seguir siendo entregado a los usuarios, debiendo en todo caso tomarse las medidas para que todos dispongan de los nuevos formularios a más tardar el 31 de diciembre de 2017.
 
-d) Código entidad (código que le corresponda a la entidad librada o emisora, según sea el caso, obligada al pago); y,
+La fecha para comenzar a utilizar del código SAV que debe incorporarse a los nuevos formularios, se sujetará a lo que acuerde la ABIF en relación con los cheques y los demás documentos.
 
-e) Número de serie (número de serie que corresponda al documento).
+ANEXO N°1
 
-El valor del documento puede registrarlo la entidad girada o emisora, o bien la institución que lo reciba y cobre, según sea el caso.
-
-### 4. Timbres
-
-4.1. Timbres de cajeros.
-
-4.1.1. Timbres de cancelación mecánica.
-
-Los bancos podrán utilizar timbres de cancelación mecánica de cheques siempre que la impresión no entorpezca la lectura de información esencial del documento cancelado o la lectura de la propia impresión del timbre en documentos microfilmados, cuando corresponda.
-
-4.1.2. Timbres manuales.
-
-Los timbres de cajero manuales deben tener las siguientes características:
-
-a) La placa de impresión debe ser de hasta 3,5 cm. de diámetro o de largo, respectivamente, según sean de forma circular o rectangular, y los rasgos de tipos finos;
-
-b) Deben ser metálicos, de goma o de otros materiales que cumplan con las especificaciones técnicas requeridas y con pañete interior para tinta. En todo caso deben asegurar una impresión nítida y durable mediante tintas de seguridad con secado instantáneo;
-
-c) Las tintas deben ser de buena calidad y de colores claros, excluyéndose el uso de azules oscuros, negros, rojos fuertes, etc.; y,
-
-d) La aplicación del timbre de cajero debe hacerse al centro del cheque, recomendándose, en todo caso, no cubrir información esencial del documento.
-
-4.2. Timbres de Cámara Compensadora.
-
-Para la utilización del timbre de Cámara Compensadora a que se refiere el Capítulo 5-1 de esta Recopilación, los bancos deben ceñirse a las siguientes instrucciones.
-
-4.2.1. Características del timbre.
-
-Los timbres de cámara, tanto de aplicación manual como mecánica, tendrán las siguientes dimensiones máximas:
-
-largo : 50 mm.
-
-ancho : 50 mm.
-
-Los rasgos de los timbres deben ser finos y de números vaciados y la calidad de la tinta y su color deben tener las mismas características indicadas para los timbres de los cajeros.
-
-La ubicación de la fecha, nombre del banco y número de identificación que le ha sido asignado para la cámara, será como se señala en la figura N° 1 de la Anexo N° 5 de este capítulo.
-
-Los bancos pueden incorporar equipos de procesamiento automático de documentos, con máquinas que les impriman en su reverso los datos indispensables para la identificación de la entidad que presenta a canje el documento de que se trate, en reemplazo del timbre de uso manual y mecánico descrito precedentemente.
-
-Los bancos deben incluir en los timbres de cámara el código de identificación que les corresponda, según lo señalado en el Anexo N° 6 del presente capítulo.
-
-4.2.2. Fecha que debe consignarse en el timbre.
-
-El timbre de cámara debe consignar la fecha en que los documentos deben presentarse a cobro, esto es, la de la primera reunión de la Cámara de Compensación que corresponda.
-
-4.3. Timbres protectores.
-
-Los bancos que utilicen timbres protectores para imprimir y resguardar el valor del documento, procurarán colocarlos de manera que no interfieran con los demás datos del documento.
-
-Los timbres de protección de firmas (timbres secos o de presión) se colocarán sobre las firmas de manera que no ocupen ninguna parte de la franja inferior de 16 mm. que debe quedar totalmente libre para la impresión de los caracteres magnéticos.
-
-4.4. Timbres de endoso de bancos.
-
-El endoso de cheques de otras plazas que las empresas bancarias entreguen en depósito, debe hacerse de acuerdo a las siguientes normas:
-
-a) Aplicación en el reverso del cheque de un timbre rectangular de 50 mm. por 30 mm. que contendrá la siguiente leyenda;
-
-PARA DEPOSITAR EN CUENTA CORRIENTE
-
-FECHA
-
-NOMBRE DE LA INSTITUCION
-
-PLAZA
-
-b) Este timbre debe ser siempre estampado por el banco en los cheques de otras otras plazas que deposite en una cuenta corriente bancaria, ya que será la única forma de distinguirlos de los documentos que provienen de la Cámara de Compensación; y,
-
-c) El timbre de que se trata deberá contener además el facsímil de la firma del o de los apoderados de la entidad depositante, según lo previsto en el D.S. N° 276, de 1991, del Ministerio de Justicia, salvo que se opte por estamparla en forma manuscrita.
-
-ANEXO N° 1
+MODELO DE LOS CHEQUES
 
 .
 
-### 1. Serie y N° del cheque
+1 Número de la cuenta corriente y número de documento
 
-### 2. N° de cuenta y nombre
+2 Serie y letras o códigos internos institución
 
-### 3. Importe en pesos (Numérico)
+3 Nombre del titular
 
-### 4. Nombre del banco
+4 Importe numérico en pesos
 
-### 5. Códigos institución - plaza - oficina
+5 Codificación de institución, sucursal y código de seguridad
 
-### 6. Lugar de giro y fecha
+6 Ciudad de giro
 
-### 7. Beneficiario e importe en pesos (Alfa numérico)
+7 Fecha de giro
 
-### 8. Firma (s) giradora (s)
+8 Nombre del beneficiario y el importe del documento expresado en
 
-### 9. Franja libre reservada para la impresión de los caracteres CMC-7
+palabras
 
-ANEXO N° 2
+9 Nombre de la institución bancaria, logo, dirección y otros
 
-.
+10 Sector para la firma del cliente
 
-### 1. Serie y N° del cheque
+11 Espacio sugerido para cruzar el cheque
 
-### 2. N° de Cuenta y Nombre
-
-### 3. Importe en pesos (Numérico)
-
-### 4. Nombre del banco
-
-5. Códigos Inst.- Plaza - Oficina.
-
-### 6. Lugar de Giro y Fecha
-
-### 7. Beneficiario e Importe en pesos (Alfa numérico)
-
-### 8. Firma (s) Giradora (s)
-
-### 9. Franja libre reservada para la impresión de los caracteres CMC-7
-
-ANEXO N° 3
+12 Franja libre reservada para la impresión de los caracteres CMC-7
 
 .
 
-### 1. Número del documento
+ANEXO N°2
 
-### 2. Clase de Documento y Código de Transacción
+CÓDIGOS DE TIPO DE DOCUMENTO
 
-3- Importe en pesos (Numérico).
-
-### 4. Oportunidad de Pago
-
-### 5. Nombre del banco
-
-### 6. Códigos Entidad - Plaza - Oficina
-
-### 7. Lugar de Giro y fecha de Emisión
-
-### 8. Beneficiario, Importe en letras y otros datos
-
-### 9. Firma (s) Giradora (s)
-
-### 10. Franja libre reservada para la impresión de los caracteres CMC-7
-
-ANEXO N° 5
+Código Descripción
 
 .
 
-ANEXO N° 6
+* Los códigos que se indican deben utilizarse para los documentos cuyos formularios se ajustan a las nuevas normas de este Capítulo; para los documentos con formatos antiguos, deben mantenerse los códigos usados con anterioridad a la emisión de las presentes normas.
+
+ANEXO N°3
 
 CÓDIGO DE IDENTIFICACIÓN DE LOS BANCOS
 
@@ -6232,7 +6130,9 @@ BANCOS
 
 018 BANCO CENTRAL DE CHILE
 
-ANEXO N° 7
+ANEXO N° 4
+
+Diseño de línea MICR
 
 .
 
