@@ -1330,7 +1330,17 @@ Las sentencias que declaren la inconstitucionalidad de todo o parte de una ley, 
 
 ## Capítulo IX
 
-JUSTICIA ELECTORAL
+SERVICIO ELECTORAL Y JUSTICIA ELECTORAL
+
+#### Artículo 94 bis
+
+Un organismo autónomo, con personalidad jurídica y patrimonio propios, denominado Servicio Electoral, ejercerá la administración, supervigilancia y fiscalización de los procesos electorales y plebiscitarios; del cumplimiento de las normas sobre transparencia, límite y control del gasto electoral; de las normas sobre los partidos políticos, y las demás funciones que señale una ley orgánica constitucional.
+
+La dirección superior del Servicio Electoral corresponderá a un Consejo Directivo, el que ejercerá de forma exclusiva las atribuciones que le encomienden la Constitución y las leyes. Dicho Consejo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio. Los Consejeros durarán diez años en sus cargos, no podrán ser designados para un nuevo período y se renovarán por parcialidades cada dos años.
+
+Los Consejeros solo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República o de un tercio de los miembros en ejercicio de la Cámara de Diputados, por infracción grave a la Constitución o a las leyes, incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en Pleno, especialmente convocado al efecto, y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.
+
+La organización y atribuciones del Servicio Electoral serán establecidas por una ley orgánica constitucional. Su forma de desconcentración, las plantas, remuneraciones y estatuto del personal serán establecidos por una ley.
 
 #### Artículo 95
 
@@ -1747,6 +1757,10 @@ VIGESIMOSEXTA.- Prorrógase el mandato de los consejeros regionales en ejercicio
 La primera elección por sufragio universal en votación directa de los consejeros regionales a que se refiere el inciso segundo del artículo 113 se realizará en conjunto con las elecciones de Presidente de la República y Parlamentarios, el día 17 de noviembre del año 2013.
 
 Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva deberán entrar en vigencia antes del 20 de julio del año 2013.
+
+VIGESIMOSÉPTIMA.- No obstante lo dispuesto en el artículo 94 bis, los actuales consejeros del Consejo Directivo del Servicio Electoral cesarán en sus cargos según los períodos por los cuales fueron nombrados. Los nuevos consejeros que corresponda designar el año 2017 durarán en sus cargos seis y ocho años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. Asimismo, los nuevos nombramientos que corresponda efectuar el año 2021 durarán en sus cargos seis, ocho y diez años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. En ambos casos, el Jefe de Estado formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
+
+Quienes están actualmente en funciones no podrán ser propuestos para un nuevo período, si con dicha prórroga superan el plazo total de diez años en el desempeño del cargo.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
