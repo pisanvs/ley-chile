@@ -1824,6 +1824,26 @@ b) Los informes ambientales de los centros de cultivo integrantes de la agrupaci
 
 c) Se acredite un buen desempeño sanitario en el último período productivo conforme a los niveles de mortalidad y demás indicadores sanitarios referidos a una enfermedad o infección sometidos a un programa de control, los que serán determinados por resolución de la Subsecretaría.
 
+Podrá excepcionarse del descanso sanitario de tres meses a los centros de cultivo de la agrupación de concesiones en que se desarrollen actividades de experimentación, entendiendo por tales las que se desarrollen con los fines indicados en el artículo 2 numeral 51) de la ley. Para tales efectos, deberá solicitarse el no sometimiento al descanso sanitario mediante petición fundada que será presentada ante la Subsecretaría, indicando claramente el diseño científico de la actividad de experimentación, los objetivos, la metodología, los resultados esperados, el número de ejemplares objeto de la experimentación y el fundamento de tal número y el plazo total de mantención de los ejemplares en el centro de cultivo respectivo. Deberá fundarse específica y científicamente en la solicitud, el motivo por el cual el diseño de las actividades deben exceder la duración del período productivo. La solicitud deberá presentarse al menos tres meses antes de iniciar el descanso sanitario para que rija para el descanso sanitario posterior al período productivo siguiente.
+
+Solo se autorizará la excepción de una parte o de la totalidad del descanso sanitario, solicitada conforme al inciso anterior, cuando las actividades de experimentación conforme al diseño propuesto, excedan el período productivo de la agrupación.
+
+La excepción de la aplicación del descanso sanitario de que tratan los dos incisos precedentes se someterá a las siguientes condiciones:
+
+i. Deberá darse cumplimiento a las condiciones señaladas en el artículo 67 ter de la ley;
+
+ii. Sólo será aplicable al o los centros de cultivo en que se realice la actividad de experimentación;
+
+iii. Sólo será aplicable respecto del número de ejemplares incluidos en la solicitud de la actividad de experimentación, el que en ningún caso podrá exceder de 50.000 ejemplares de alguna de las especies Salmónidas indicadas en el artículo 21 bis del DS Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción;
+
+iv. Terminada la actividad de experimentación, el centro de cultivo en el que se llevó a cabo deberá someterse a un período de descanso sanitario de tres meses previo a iniciar operaciones u otra actividad de experimentación, sin excepciones.
+
+La excepción antes señalada no procederá o se suspenderá su aplicación de manera inmediata, si hubiere sido autorizada, en los casos en que el centro de cultivo en que se desarrollará o desarrolla la actividad de experimentación se encuentre en una zona declarada en emergencia sanitaria o infectada de acuerdo con el programa sanitario correspondiente, así declaradas por el Servicio. En los casos de suspensión de la actividad, el centro de cultivo deberá efectuar el retiro de todos los ejemplares objeto de la experimentación en el plazo máximo de 24 horas desde que el titular sea notificado por el Servicio, y quedará sometido a las medidas que hayan sido dictadas por aquél.
+
+Si por motivos que no pudieron preverse inicialmente, una actividad de experimentación que se encuentra actualmente en ejecución, requiere extenderse más allá del período productivo en que se autorizó, podrá excepcionarse del descanso sanitario por resolución de la Subsecretaría, para lo cual deberá presentarse una solicitud fundada dentro de los tres meses antes del inicio del descanso sanitario de la respectiva agrupación de concesiones. Este último plazo de tres meses no será exigible en los casos en que por las características de la actividad de experimentación, se fundamente la imposibilidad de haber previsto con dicha antelación la extensión de plazo. En tales casos, la petición del titular deberá indicar el plazo por el cual se solicita la extensión y deberá venir además debidamente fundamentada y avalada por el director o jefe de proyecto. A esta excepción se le aplicarán las mismas condiciones señaladas en el inciso 6º de este artículo.
+
+En todos los casos de actividades de experimentación a que se refieren los incisos anteriores, deberán entregarse a la Subsecretaría los resultados detallados de tales actividades, sea en informes de avance o en un informe final conforme se haya requerido al momento de autorizar la actividad respectiva conforme al artículo 67 ter de la ley.
+
 Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación.
 
 #### Artículo 58
@@ -2001,6 +2021,30 @@ S. En los casos en que la agrupación hubiere obtenido una clasificación en bio
 #### Artículo 58
 
 T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar, salvo en el caso que el titular del centro de cultivo invoque los resultados negativos en INFA de un centro de su titularidad en otra agrupación que le impide sembrar en él los ejemplares que se habían planificado, cuyo origen y existencia deberá acreditar. En cualquier caso, no se autorizará una siembra de un número mayor de peces que aquel que estaba previsto para el centro con resultados negativos en INFA.
+
+La excepción a que se refiere el inciso anterior estará sometida a las siguientes condiciones:
+
+a) El traslado de siembra sólo podrá efectuarse a una agrupación de concesiones que haya obtenido una clasificación en bioseguridad alta o media en el período productivo inmediatamente anterior. En ningún caso podrán trasladarse siembras a centros de cultivo integrantes de agrupaciones de concesiones que hubieren sido clasificadas en bioseguridad baja;
+
+b) El traslado de siembra podrá efectuarse a uno o varios centros de cultivo pertenecientes a la misma o a distintas agrupaciones de concesiones;
+
+c) El centro de cultivo al que se traslade la siembra deberá ser del mismo titular al que pertenece el centro que obtuvo los resultados negativos en el informe ambiental;
+
+d) La siembra a trasladar corresponderá al número de ejemplares que resulte de la aplicación del artículo 24 A;
+
+e) El centro de cultivo al que se traslade la siembra estará sometido a la densidad de cultivo de la agrupación concesiones a la que pertenece y al número máximo de ejemplares a ingresar por estructura de cultivo fijada para los centros de la misma;
+
+f) En ningún caso el traslado de la siembra podrá implicar que se supere el número máximo de ejemplares determinado para el centro de destino por aplicación del artículo 24 A;
+
+g) El número de ejemplares a ingresar al centro de cultivo al que se traslade la siembra, no podrá exceder el autorizado en la resolución de calificación ambiental de dicho centro, cuando corresponda.
+
+Una resolución de la Subsecretaría establecerá el porcentaje máximo en que se podrá sobrepasar el número máximo de peces a ingresar a las agrupaciones de concesiones por el motivo indicado en el presente artículo, el que en todo caso deberá ser inferior en las agrupaciones de concesiones que sean clasificadas en bioseguridad media.
+
+La resolución antes señalada establecerá, asimismo, el porcentaje máximo en que se podrá sobrepasar el número de peces a ingresar en una agrupación de concesiones que haya optado por someterse a la medida indicada en el artículo 58 l letra m), el que en ningún caso podrá exceder del porcentaje de reducción de siembra que corresponda de conformidad con el artículo 60 del presente reglamento. En los casos en que la agrupación de concesiones haya obtenido en su período productivo anterior pérdidas menores al 15%, se podrá autorizar un porcentaje de incremento para la aplicación de la excepción de este artículo, el que se fijará en la misma resolución y que no podrá ser superior a los establecidos, para las agrupaciones de concesiones con densidad de cultivo.
+
+La resolución a que se refieren los incisos precedentes deberá dictarse considerando los parámetros establecidos de conformidad con el artículo 60 del presente reglamento.
+
+El número máximo de peces a sembrar en una agrupación de concesiones corresponderá a la suma de ejemplares que consten en todas las declaraciones informadas por los titulares de los centros de cultivo de la agrupación de concesiones de acuerdo al artículo 24 del presente reglamento, descontado el número que corresponda por la reducción de siembra que haya sido aplicada de conformidad con el artículo 24 A. Asimismo, dicho número máximo considerará la disminución de ejemplares que se hubiere aplicado en virtud del porcentaje de reducción de siembra que se hubiere acordado al interior de la agrupación de concesiones, de conformidad con los artículos 59 y siguientes de este reglamento.
 
 Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien, al término de las siembras efectivas no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar.
 
