@@ -1,44 +1,32 @@
-REGLAMENTA SUBASTA DE PERMISOS EXTRAORDINARIOS DE PESCA
+MODIFICA D.S. Nº 97 DE 1996, DEL ACTUAL MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO, QUE REGLAMENTA SUBASTA DE PERMISOS EXTRAORDINARIOS DE PESCA
 
-Núm. 97.- Santiago, 26 de febrero de 1996.- Visto: El artículo 32 N° 8 de la Constitución Política de la República; la Ley N° 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; la Ley N° 18.046; el D.F.L. N° 5, de 1983; los D.S. N° 92, N° 452 y N° 655, todos de 1992 y N° 587, de 1993, todos del Ministerio de Economía, Fomento y Reconstrucción.
+Núm. 117.- Santiago, 19 de agosto de 2015.
+
+Visto:
+
+Lo dispuesto en el artículo 32 Nº 6 de la Constitución Política de la República; las leyes Nº 19.880, Nº 20.256 y Nº 20.416; la Ley General de Pesca y Acuicultura Nº 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción; el D.F.L. Nº 5 de 1983, del Ministerio de Economía, Fomento y Reconstrucción; los D.S. Nº 97 de 1996, Nº 173, de 2003 y Nº 162, de 2013, todos del actual Ministerio de Economía, Fomento y Turismo.
 
 Considerando:
 
-Que los regímenes de pesquerías en recuperación y en desarrollo incipiente habilitan a la Subsecretaría de Pesca para adjudicar en pública subasta permisos extraordinarios de pesca.
+Que mediante el D.S. Nº 97 de 1996, modificado por los D.S. Nº 173, de 2003 y Nº 162, de 2013, todos del actual Ministerio de Economía, Fomento y Turismo, se estableció el reglamento de subasta de permisos extraordinarios de pesca de aquellas pesquerías declaradas en regímenes de recuperación y de desarrollo incipiente.
 
-Que los artículos 39 y 40 de la Ley General de Pesca y Acuicultura, han dispuesto que un reglamento determine los procedimientos de la subasta y el establecimiento de cortes en los derechos a subastar, que permitan un adecuado acceso a los armadores medianos y pequeños.
+Que se hace necesario modificar el mecanismo de subasta existente, estableciendo uniformidad en los procesos de licitaciones existentes en el sector pesquero y garantizando la transparencia y participación en los mismos.
 
-Que el artículo 143 inciso final de la citada ley señala que un reglamento establecerá la forma y condiciones de la subasta de reasignación de los permisos extraordinarios de pesca.
+Que de conformidad con lo anterior se hace necesario modificar la actual normativa que reglamenta la subasta de los permisos extraordinarios de pesca.
 
 Decreto:
 
-### Párrafo 1°
+#### Artículo único
 
-Disposiciones Generales
+Modifícase el D.S. Nº 97 de 1996, modificado por los D.S. Nº 173 de 2003 y Nº 162 de 2013, todos del actual Ministerio de Economía, Fomento y Turismo, que reglamenta la subasta de permisos extraordinarios de pesca en los siguientes términos:
 
-#### Artículo 1°
+1) En el artículo 2º, en el sentido de reemplazar sus literales f) y g) por los siguientes, nuevos:
 
-El presente reglamento regula los procedimientos de la subasta de permisos extraordinarios de pesca de aquellas pesquerías declaradas en regímenes de recuperación y de desarrollo incipiente.
+"f) Subasta en sobre cerrado: Procedimiento en el cual los interesados realizan sus ofertas a la Subsecretaría, en sobre cerrado de acuerdo a los requisitos y condiciones que fijen las bases; y
 
-Para estos efectos se distinguirá entre la subasta anual, la primera subasta y la subasta de reasignación de permisos extraordinarios de pesca.
+g) Bases de subasta: El conjunto de requisitos, condiciones y especificaciones, establecidos para la realización de la subasta de permisos extraordinarios de pesca aprobados por resolución de la Subsecretaría.".
 
-#### Artículo 2°
-
-Para los efectos del presente reglamento, se dará a las palabras que a continuación se indican, el significado que se expresa:
-
-a) Ley: La Ley N° 18.892 y sus modificaciones, cuyo texto refundido fue fijado por el Decreto Supremo N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
-
-b) Subsecretaría: la Subsecretaría de Pesca y Acuicultura, del Ministerio de Economía, Fomento y Turismo; Servicio: el Servicio Nacional de Pesca y Acuicultura, del Ministerio de Economía, Fomento y Turismo.
-
-c) Corte o lote: Porcentaje de la cuota global anual de captura destinado a licitación en pública subasta.
-
-d) Cuota global anual de captura, o simplemente cuota anual: volumen físico medido en toneladas de la especie a subastar, susceptible de ser capturada anualmente en la unidad de pesquería correspondiente.
-
-e) Permiso: el permiso extraordinario de pesca.
-
-f) Subasta en sobre cerrado: Procedimiento en el cual los interesados realizan sus ofertas a la Subsecretaría, en sobre cerrado de acuerdo a los requisitos y condiciones que fijen las bases; y
-
-g) Bases de subasta: El conjunto de requisitos, condiciones y especificaciones, establecidos para la realización de la subasta de permisos extraordinarios de pesca aprobados por resolución de la Subsecretaría.
+2) Reemplázase el párrafo 2º del Reglamento por el siguiente, nuevo:
 
 ### Párrafo 2º
 
@@ -168,134 +156,18 @@ Producido el desistimiento señalado en el inciso anterior, se procederá a una 
 
 En los mismos términos a los indicados en el inciso anterior se procederá en el caso de que la subasta inicial se hubiere declarado desierta o no se hubieren adjudicado en ella todos los lotes en oferta. Para estos efectos, se entenderá declarado desierto un lote, en caso que no se presenten ofertas, o las presentadas no estén sobre el precio mínimo fijado por ley.
 
-### Párrafo 2º — bis
+3) Modifícase el artículo 18 B.-, en el sentido de incorporar la siguiente oración final, pasando a ser el punto aparte a ser punto seguido:
 
-De la Subasta de los Permisos Extraordinarios de Pesca de Bacalao de profundidad para el sector pesquero artesanal
+"Asimismo, las bases deberán indicar el orden en que se subastarán los lotes entre el sector pesquero industrial y el sector pesquero artesanal.".
 
-#### Artículo 18
+4) Elimínase el artículo 18 C.
 
-A.- En los años que se realice la subasta para el sector pesquero artesanal del 5% de la cuota global anual de la pesquería de Bacalao de profundidad, declarada en régimen de desarrollo incipiente, de conformidad con el decreto Nº 328, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, según lo dispuesto en el artículo décimo quinto transitorio de la ley Nº 20.657, ésta se realizará de conformidad con las normas del párrafo 2º del presente reglamento, con las diferencias contenidas en este párrafo.
-
-#### Artículo 18
-
-B.- Respecto a los cortes, las bases de subasta señalarán cuáles de ellos corresponderá subastar al sector artesanal y al sector industrial, debiendo existir para el sector artesanal, al menos dos cortes que no excedan cada uno el 0,5% de la cuota global de captura. Asimismo, las bases deberán indicar el orden en que se subastarán los lotes entre el sector pesquero industrial y el sector pesquero artesanal.
-
-#### Artículo 18
-
-C.- Derogado
-
-#### Artículo 18
-
-D.- Sólo podrán participar en la subasta correspondiente al sector artesanal los armadores artesanales inscritos en el Registro Artesanal de Bacalao de Profundidad y los pescadores artesanales inscritos en el Registro Artesanal de la XI Región de Aysén del General Carlos Ibáñez del Campo y de la XII Región de Magallanes y la Antártica Chilena, que hubieren acompañado la garantía de seriedad de la oferta en la oportunidad y forma señalada en las bases.
-
-#### Artículo 18
-
-E.- La garantía de seriedad de la oferta que entreguen los adjudicatarios correspondientes al sector pesquero artesanal deberá tener una vigencia de a lo menos un mes adicional a la época fijada para el pago de la primera cuota de la anualidad y será devuelta por la Subsecretaría, una vez que se reciba copia auténtica del comprobante de pago respectivo.
-
-#### Artículo 18
-
-F.- El monto total expresado en unidades tributarias mensuales de cada oferta adjudicada al sector pesquero artesanal se dividirá en diez anualidades iguales. Los pagos anuales se efectuarán en dos cuotas pagaderas en los meses de junio y diciembre, debiendo pagarse la primera cuota en el mes de junio del año siguiente a la subasta.
-
-Dentro de los 10 días contados de la fecha de la subasta, la Subsecretaría emitirá los permisos extraordinarios de pesca correspondientes a los adjudicatarios artesanales.
-
-El no pago de una de las cuotas constituirá causal de caducidad del permiso extraordinario de pesca y su titular no podrá participar en nuevas subastas.
-
-#### Artículo 18
-
-G.- En caso de caducidad o renuncia de un permiso extraordinario del sector pesquero artesanal, se procederá a la reasignación de éste, para hacerlo efectivo al año siguiente a la fecha de la caducidad, de conformidad con las normas del Párrafo 4º del presente reglamento. Esta reasignación se realizará sólo entre pescadores artesanales, pudiendo participar en ella las personas que cumplan con el requisito del artículo 18 D del presente reglamento.
-
-#### Artículo 18
-
-H.- Los permisos extraordinarios de pesca que provengan de la subasta para el sector artesanal, se deberán hacer efectivos con embarcaciones que califiquen de acuerdo a la ley como embarcación pesquera artesanal.
-
-### Párrafo 3°
-
-De la primera subasta de permisos extraordinarios de
-
-pesca
-
-#### Artículo 19°
-
-En la primera subasta se adjudicará, según corresponda, el 90% o 100% de la cuota anual de la unidad de pesquería correspondiente, por una vigencia de diez años, otorgando permisos extraordinarios de pesca con un coeficiente variable, el que disminuirá en diez por ciento cada año.
-
-Cuando se subaste el 100% de la cuota anual, éste se dividirá en 26 cortes que se subdividirán en 5 cortes de 10%, 6 cortes de 5%, 5 cortes de 2% cada uno y 10 cortes de 1% cada uno.
-
-Cuando se subaste el 90% de la cuota anual, éste se dividirá en 25 cortes que se subdividirán en 4 cortes de 10%, 6 cortes de 5%, 5 cortes de 2% y 10 cortes de 1% cada uno.
-
-Las ofertas se expresarán considerando el 1% de cada lote a subastar.
-
-#### Artículo 20°
-
-Los permisos adjudicados en la primera subasta tendrán una duración de 10 años, pudiendo explotar el ciento por ciento de los derechos emanados en éstos, sólo el primer año de su vigencia. Anualmente, y a partir del segundo año, tales derechos disminuirán en diez por ciento, de tal forma que al término de su vigencia los derechos antes mencionados habrán expirado totalmente.
-
-La Subsecretaría deberá expresar en cada uno de los permisos que expida como consecuencia de las adjudicaciones de la primera subasta como en las posteriores divisiones, transferencias o transmisiones de los mismos, el cuadro completo de las reducciones y de las anualidades adeudadas expresadas en U.T.M.
-
-#### Artículo 21°
-
-Para los efectos del pago el monto total de cada lote adjudicado se dividirá por un factor igual a 55, y el cuociente se multiplicará por 10, 9, 8, 7, 6, 5, 4, 3, 2 y 1 respectivamente. Los pagos deberán hacerse del modo señalado en los artículos 16 y 17 del presente Reglamento.
-
-#### Artículo 22°
-
-Se aplicarán a la primera subasta las disposiciones contenidas en el presente reglamento, en todo aquello que no contravengan a las de este párrafo.
-
-### Párrafo 4°
-
-De la subasta de reasignación de permisos
-
-extraordinarios de pesca
+5) Reemplázase el artículo 23º por el que a continuación se indica:
 
 #### Artículo 23º
 
-La subasta de reasignación de permisos extraordinarios de pesca prevista en los artículos 37 y 143 inciso tercero de la ley, se regirá por las disposiciones contenidas en los párrafos 1º, 2º y 5º del presente reglamento, sin perjuicio de lo dispuesto en los artículos siguientes.
+La subasta de reasignación de permisos extraordinarios de pesca prevista en los artículos 37 y 143 inciso tercero de la ley, se regirá por las disposiciones contenidas en los párrafos 1º, 2º y 5º del presente reglamento, sin perjuicio de lo dispuesto en los artículos siguientes".
 
-#### Artículo 24°
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.
 
-No podrán participar en la subasta aquellos adjudicatarios cuyos permisos hayan dado origen a la reasignación, de conformidad con la disposición legal citada precedentemente.
-
-#### Artículo 25°
-
-Para los efectos del pago, el monto total del lote adjudicado se dividirá en tantas anualidades como años de vigencia resten al permiso correspondiente.
-
-Sin perjuicio de lo anterior, y tratándose de cortes con coeficiente variable, cada anualidad se calculará dividiendo el monto total del lote adjudicado por un factor igual a un medio por n (n+1), en donde n, es el número de años de vigencia del permiso, multiplicando este resultado por cada uno de los años restantes de vigencia del permiso correspondiente a la fecha de su pago.
-
-### Párrafo 5°
-
-Asignación de permisos extraordinarios de pesca por
-
-derechos históricos de captura
-
-#### Artículo 26°
-
-Tratándose de pesquerías en desarrollo incipiente, y siempre que tenga aplicación lo dispuesto en el artículo 40 inciso 2° de la Ley, transcurrido el plazo de tres años allí establecido, se procederá a asignar permisos extraordinarios de pesca a los armadores que cuenten con autorización vigente.
-
-Cuando la suma de los porcentajes asignados sea inferior a un 10% la diferencia se deberá licitar, para lo cual se llamará a subasta pública, de conformidad con las normas contenidas en el párrafo 2° del presente Reglamento. El porcentaje a licitar se dividirá en cortes de un 1% cada uno.
-
-#### Artículo 27°
-
-Los permisos señalados en el artículo anterior, tendrán una vigencia de diez años.
-
-### Párrafo 6°
-
-Del registro de permisos extraordinarios de pesca
-
-#### Artículo 28°
-
-El Servicio Nacional de Pesca abrirá un registro por unidad de pesquería denominado Registro de Permisos Extraordinarios de Pesca, y en él se inscribirán tanto los originalmente emitidos por adjudicación en subastas, como los permisos posteriores derivados de divisiones, transferencias o transmisiones. Tratándose de arrendamientos o comodatos bastará una subinscripción de margen de la inscripción del respectivo permiso.
-
-#### Artículo 29°
-
-En el Registro se anotará el nombre completo e identificación del titular del permiso, como de la o las naves pesqueras con que podrá proceder a su explotación. Su titular podrá reemplazar o agregar otras durante la vigencia del permiso, sin que a este efecto rijan las normas sobre sustitución de naves. No obstante, estas naves reemplazadas o agregadas deberán previamente a iniciar sus operaciones en la respectiva unidad de pesquería, inscribirse en el Registro.
-
-#### Artículo 30°
-
-Para los efectos señalados en el artículo anterior, se deberá acompañar los antecedentes señalados de las letras a), c) y d) del artículo 16 de la Ley. El Servicio deberá hacer la inscripción de esta nave en el Registro en el plazo de 10 días corridos.
-
-Estas naves deberán en todo caso cumplir con las diposiciones de la Ley General de Pesca y Acuicultura, Ley de Navegación, los reglamentos pertinentes de ambas leyes, y estar por ende matriculadas en Chile.
-
-#### Artículo 31°
-
-El presente Reglamento se aplicará a las subastas que se efectúen a contar de la fecha de publicación de este Decreto Supremo en el Diario Oficial.
-
-Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.
-
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a usted, Patricio Bernal Ponce, Subsecretario de Pesca.
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Raúl Súnico Galdámez, Subsecretario de Pesca y Agricultura.
