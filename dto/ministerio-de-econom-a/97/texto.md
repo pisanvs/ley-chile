@@ -40,179 +40,225 @@ d) Cuota global anual de captura, o simplemente cuota anual: volumen físico med
 
 e) Permiso: el permiso extraordinario de pesca.
 
-f) Subasta pública al alza: procedimiento de subasta en el que los participantes expresan de viva voz sus posturas, adjudicándose el lote a quien ofrezca el mayor precio.
+f) Subasta en sobre cerrado: Procedimiento en el cual los interesados realizan sus ofertas a la Subsecretaría, en sobre cerrado de acuerdo a los requisitos y condiciones que fijen las bases; y
 
-g) Subasta pública a la baja: procedimiento de subasta en el que el martillero propone un precio inicial, disminuyéndolo de viva voz hasta que un participante acepta el precio propuesto.
+g) Bases de subasta: El conjunto de requisitos, condiciones y especificaciones, establecidos para la realización de la subasta de permisos extraordinarios de pesca aprobados por resolución de la Subsecretaría.
 
-### Párrafo 2°
+### Párrafo 2º
 
-De la subasta anual de permisos extraordinarios de
+De la subasta anual de permisos extraordinarios de pesca
 
-pesca
-
-#### Artículo 3°
+#### Artículo 3º
 
 <!-- parte:8937597 -->
 
-Anualmente, la Subsecretaría de Pesca adjudicará en pública subasta el derecho a capturar cada año, el equivalente en toneladas, al diez por ciento de la cuota global anual de captura correspondiente. El derecho de captura se extenderá por un plazo de diez años.
+Anualmente, la Subsecretaría adjudicará en pública subasta el derecho a capturar cada año, el equivalente en toneladas, al diez por ciento de la cuota global anual de captura correspondiente. El derecho de captura se extenderá por un plazo de diez años.
 
 El porcentaje señalado se dividirá en los cortes que la Subsecretaría señale en las respectivas bases administrativas. En todo caso, deberán existir al menos dos cortes no superiores a un uno por ciento cada uno.
 
-No obstante lo anterior, cuando en la primera subasta se licite el 90% de la cuota anual de conformidad con el artículo 40 de la Ley, en las tres subastas anuales siguientes se licitará sólo un 9% de la cuota global anual de captura. Este porcentaje se dividirá en 9 lotes iguales de 1% cada uno.
-
-#### Artículo 4°
+#### Artículo 4º
 
 <!-- parte:8937599 -->
 
-Las bases administrativas de cada subasta, en adelante las bases, serán fijadas mediante resolución de la Subsecretaría de Pesca, y deberán contener a lo menos, los siguientes antecedentes:
+Podrán participar en la subasta y efectuar posturas sólo las siguientes personas:
 
-i) El día, hora y lugar de la subasta, indicando la unidad de pesquería correspondiente.
+1) Las personas naturales chilenas y extranjeras con residencia definitiva en el país, las que deberán acompañar copia autorizada de su cédula de identidad.
 
-ii) El nombre del martillero público titular a cuyo cargo estará la subasta, debiendo designarse un suplente para el evento de ausencia o incapacidad del primero.
+2) Las personas jurídicas constituidas legalmente en Chile. En este caso, se deberá acreditar la existencia legal de la persona jurídica y la personería de su representante legal, la cual deberá tener una vigencia no superior a seis meses.
 
-iii) El honorario del martillero público por cada lote que adjudique.
+En el caso de personas jurídicas que tienen o cuentan con participación de capital extranjero, deberá acreditarse el hecho de haber sido autorizada esta inversión de forma previa a la subasta.
 
-iv) La fecha de apertura del Registro Especial de Participantes en la Subasta.
+En el caso de las personas naturales o jurídicas que se encuentren inscritas en el Registro Artesanal, Registro Nacional Pesquero Industrial o en el Registro de plantas de transformación a que aluden el artículo 2º Nº 2, Nº 39 y Nº 40 de la Ley, se entenderá acreditado el cumplimiento de los antecedentes señalados en los numerales anteriores en la medida que acompañen certificados de inscripción en los referidos Registros con una antigüedad no superior a un mes contados desde la fecha de la subasta.
 
-v) El número de cortes a subastar y sus respectivos porcentajes.
+Las personas naturales o jurídicas que deseen participar en la subasta deberán presentar una declaración jurada ante notario en que señale que no tiene relación directa o a través de terceras personas con otros participantes de la subasta como filial, matriz, coligada o coligante. Para estos efectos se dará a estos términos el significado que se indica en los artículos 86 y 87 de la Ley Nº 18.046, sobre Sociedades Anónimas, aun cuando la entidad correspondiente sea cualquier otra especie de sociedad o entidad jurídica.
 
-vi) El orden de la subasta.
-
-vii) La clase de subasta que se realizará para adjudicar cada corte, la que podrá ser al alza o a la baja.
-
-viii) El monto de la garantía de seriedad de la oferta a que se refiere el artículo 10 letra b), respecto de cada lote a subastar.
-
-#### Artículo 5°
+#### Artículo 5º
 
 <!-- parte:8937600 -->
 
-La subasta deberá anunciarse por medio de un aviso, que se publicará en el Diario Oficial y en un diario de circulación nacional, a lo menos dos veces, debiendo publicarse el primer aviso con a lo menos quince días corridos de anterioridad a la subasta.
+Las bases administrativas de cada subasta, en adelante las bases, serán fijadas mediante resolución de la Subsecretaría, y deberán contener al menos, los siguientes antecedentes:
 
-El anuncio deberá contener la información referida en los apartados (i), (v), vi), vii) y viii)del artículo anterior, la cuota anual correspondiente y la fecha y lugar del retiro de las bases de la subasta.
+i. Indicación del período en las que se podrán presentar los sobres de antecedentes administrativos y ofertas económicas exigidos en las bases.
 
-#### Artículo 6°
+Las bases deberán señalar las condiciones y requisitos que deberán cumplir las ofertas presentadas y los sobres de antecedentes administrativos y ofertas económicas que las contenga.
+
+ii. Indicación del día y lugar, en el que se procederá a la apertura de sobres de antecedentes administrativos y ofertas económicas de la subasta, de la unidad de pesquería correspondiente.
+
+iii. El nombre o cargo de los funcionarios que integrarán la comisión encargada de realizar el proceso de subasta, debiendo designarse suplentes para el evento de ausencia o incapacidad de los primeros.
+
+iv. El número de lotes a subastar, debiendo haber al menos dos lotes no superiores al uno por ciento;
+
+v. El orden en que se subastarán los lotes.
+
+vi. El monto de la garantía de seriedad de la oferta respecto de cada lote a subastar.
+
+#### Artículo 6º
 
 <!-- parte:8937601 -->
 
-La subasta estará a cargo de un martillero público.
+La subasta deberá anunciarse por medio de un aviso que se publicará en el sitio de dominio electrónico de la Subsecretaría, y en un diario de circulación nacional, a lo menos dos veces, debiendo publicarse el primer aviso con a lo menos quince días hábiles de anterioridad a la subasta, indicando los antecedentes y condiciones señalados en el artículo anterior.
 
-#### Artículo 7°
+Además siempre se deberá indicar la cuota global anual correspondiente y la fecha y lugar del retiro de las bases de la subasta.
+
+#### Artículo 7º
 
 <!-- parte:8937602 -->
 
-La subasta se efectuará en un solo acto, sin interrupciones hasta su total conclusión.
+La subasta se efectuará en un solo acto, sin interrupciones hasta su total conclusión, ante la presencia de un ministro de fe, la comisión encargada del proceso de subasta y de hasta dos representantes por oferente.
 
-En caso de que concurrieran a la subasta menos de 5 interesados habilitados para hacer posturas, el Subsecretario levantará un acta de esta circunstancia y a su juicio exclusivo, podrá declararla desierta.
-
-#### Artículo 8°
+#### Artículo 8º
 
 <!-- parte:8937603 -->
 
-Sólo tendrán derecho a participar en la subasta, y a efectuar posturas las siguientes personas:
+Los antecedentes señalados en el artículo 4º del presente Reglamento deberán presentarse en un sobre denominado "Sobre Nº 1 Antecedentes Administrativos" en las oficinas de la Subsecretaría que señalen las bases, hasta 5 días hábiles antes de la realización de la subasta. En el mismo "Sobre Nº 1 Antecedentes Administrativos" deberá acompañarse el documento de garantía de seriedad de la oferta a que alude el artículo 10º del presente Reglamento.
 
-a) Los armadores industriales pesqueros inscritos en el Registro Nacional Pesquero Industrial. Para estos efectos el Servicio Nacional de Pesca otorgará un certificado que exprese el nombre o razón social de la persona natural o jurídica inscrita como armador industrial y el de su representante legal, otorgado con no más de 30 días de anticipación a la fecha de la subasta.
+En forma previa a la realización de la subasta, y ante ministro de fe, se procederá a la apertura de los "Sobre Nº 1 Antecedentes Administrativos" antes señalados, dejándose constancia en un acta que se levantará al efecto si los interesados han o no acreditado los requisitos establecidos en el artículo 4º en los términos allí indicados y si se ha acompañado el documento de garantía de seriedad de la oferta, procediéndose sólo a la apertura de las ofertas económicas de aquellos que hayan cumplido con dichas exigencias.
 
-b) Las personas que previamente se hayan inscrito en el Registro Especial de Participantes en la Subasta que abrirá la Subsecretaría de Pesca, para lo cual deberán cumplir los requisitos siguientes:
-
-b.1) Identificarse por su nombre o razón social completa, acreditando documentalmente su dominio sobre la nave o naves con las cuales hará la explotación del permiso. Si el derecho sobre dicha nave o naves es diferente del dominio, deberá acreditarlo de la misma manera y tener dicho título una vigencia futura de a lo menos seis meses.
-
-Si el peticionario es una persona jurídica, deberá acompañar copia auténtica de las escrituras públicas en que conste su existencia legal, como asimismo acreditar su vigencia, y la personería de quienes actúen en su nombre.
-
-Si el peticionario es una persona jurídica con aporte de capital extranjero las naves pesqueras que requiera para hacerlo efectivo deberán estar matriculadas a su nombre, conforme con lo dispuesto en la Ley de Navegación.
-
-b.2) Características de la nave o naves que utilizará, indicando su correspondiente número de matrícula y demás informaciones que se requiera a los peticionarios de autorizaciones de pesca de conformidad con las letras c) y d) del artículo 16 de la Ley;
-
-#### Artículo 9°
+#### Artículo 9º
 
 <!-- parte:8937604 -->
 
-Las personas a que se refiere el literal b) del artículo anterior deberán solicitar al Subsecretario su inscripción en el Registro Especial con una anticipación de a lo menos cinco días corridos a la fecha de la subasta. Será obligatorio para el Subsecretario pronunciarse sobre dichas solicitudes dentro de dos días corridos, contados desde su recepción. A falta de pronunciamiento se entenderán aceptadas y se procederá a su inscripción en el Registro Especial.
+Junto con los antecedentes administrativos, los postulantes deberán presentar un sobre denominado "Sobre Nº 2 Propuesta Económica", el cual deberá contener las ofertas económicas, en sus respectivos sobres, para cada lote por los que se está interesado, cuyo valor en pesos deberá estar expresado en Unidades Tributarias Mensuales a la fecha de presentación.
 
-#### Artículo 10°
+Además, deberá presentarse un tercer sobre, identificado como "Sobre Nº 3 Desempate", el cual tendrá por objeto dirimir posibles desempates entre dos o más oferentes, de acuerdo a las reglas que se establecerán en el presente Reglamento. Este sobre deberá contener tantos sobres de desempate como lotes se desee subastar.
+
+#### Artículo 10º
 
 <!-- parte:8937605 -->
 
-Las personas facultadas para participar en la subasta, deberán dar cumplimiento a las siguientes obligaciones especiales:
+La garantía de seriedad de la oferta podrá consistir en un vale vista bancario, boleta bancaria de garantía pagadera a la vista o póliza de seguro con cláusula de ejecución inmediata y sin liquidador, emitidos por un banco o compañía de seguros establecido en Chile a nombre de la Subsecretaría, con vigencia de a lo menos 2 meses contados desde la fecha de la subasta.
 
-a) Acreditar la representación de la persona que concurrirá en su nombre, si pretende hacerlo por mandatario, o si éste es una persona distinta del que se señala en la certificación del Servicio a que se refiere la letra a) del artículo 8°, lo que deberá hacer presentando los títulos de la representación.
+En caso que un interesado no se adjudique un determinado lote, podrá utilizar la misma garantía de seriedad de la oferta para participar en la subasta de otro lote, siempre que el monto de dicha garantía sea suficiente para poder realizar esta nueva oferta.
 
-Los poderes podrán otorgarse por instrumento privado con firma autorizada ante notario.
+Con todo, la o las garantías de seriedad de la oferta que hacen posible la adjudicación no habilitarán para nuevas posturas.
 
-b) Entregar la garantía de seriedad de la oferta, debiendo otorgarse una o más garantías de seriedad, según los porcentajes de la cuota anual que el peticionario desee subastar.
-
-La o las garantías de seriedad que hicieron posible la adjudicación no habilitarán para nuevas posturas.
-
-Estos antecedentes deberán ser presentados a la Subsecretaría de Pesca, hasta las 14.00 horas del día hábil anterior al de la subasta.
-
-#### Artículo 11°
+#### Artículo 11º
 
 <!-- parte:8937606 -->
 
-La garantía de seriedad de la oferta podrá consistir en un monto en dinero efectivo, vale vista bancario o boleta bancaria de garantía pagadera a la vista, emitidos por un banco establecido en Chile a nombre de la Subsecretaría de Pesca, con vigencia de a lo menos 60 días contados desde la fecha de la subasta.
+El monto de la garantía de seriedad de la oferta por cada lote a subastar corresponderá al valor que se establezca en las bases.
 
-#### Artículo 12°
+#### Artículo 12
 
 <!-- parte:8937607 -->
 
-El monto de la garantía de seriedad de la oferta por cada corte a subastar corresponderá al valor que resulte de multiplicar el porcentaje del corte a subastar, por la cuota anual, por el valor de sanción vigente para el recurso correspondiente, por el valor de la Unidad Tributaria Mensual, en adelante U.T.M., del día de la subasta y por el coeficiente fijo sobre la cuota anual que se establezca en las bases. Podrá el instrumento bancario estar expresado en Unidades de Fomento, y en tal caso la equivalencia se hará conforme a la paridad del día de su emisión.
+El día fijado en las bases para la subasta, y en la sala habilitada al efecto, se levantará un acta de apertura de los antecedentes administrativos, en la cual quedará constancias de las personas que dieron cumplimiento a los requisitos establecidos en los artículos 4º y 10º del presente Reglamento, y del artículo 18 D, según corresponda, cuyas posturas se considerarán en la subasta.
 
-#### Artículo 13°
+Antes de la apertura de las ofertas económicas, la Comisión abrirá el sobre cerrado que contiene el precio mínimo de cada uno de los lotes que se subastarán, el que será entregado por el Subsecretario a la Comisión al inicio del acto de la subasta.
+
+Se procederá por la Comisión encargada de la subasta, en primer lugar, a la apertura de las ofertas económicas contenidas en el "Sobre Nº 2 Propuesta Económica" por lote, en el orden establecido en las bases.
+
+El valor de las ofertas deberá ser mayor o igual que el precio mínimo. Todas las ofertas bajo el precio mínimo serán rechazadas de plano.
+
+#### Artículo 13
 
 <!-- parte:8937608 -->
 
-El día de la subasta, y en la sala habilitada al efecto, existirá una hoja de asistencia, en que estarán anotadas las personas habilitadas para hacer posturas y sus representantes.
+Cada lote será adjudicado a aquel postor que efectúe la mayor oferta expresada en Unidades Tributarias Mensuales.
 
-Diez minutos antes de la hora fijada para el inicio de la subasta, se reunirán en la sala correspondiente, en sesión reservada, el Subsecretario, las personas designadas por éste para la asistencia profesional y administrativa del acto y el Martillero Público, con el objeto de fijar el precio mínimo de la subasta, expresado en U.T.M. Si se realiza una subasta a la baja, en esta misma sesión se fijará además el precio inicial de la subasta, expresado de la misma manera.
+En caso de empate entre dos o más oferentes por un lote, se resolverá el desempate inmediatamente abiertas todas las ofertas correspondiente a ese lote, mediante la apertura del "Sobre Nº 3 Desempate".
 
-Una vez fijados el precio mínimo e inicial, y a la hora fijada en las bases, se invitará exclusivamente a las personas anotadas en la hoja de asistencia a ingresar a la sala y se cerrará la puerta hasta la conclusión el acto.
+En este caso, las ofertas de desempate deberán ser de un valor superior al que se ofreció al momento del empate y cada postor podrá efectuar una y sólo una oferta por cada lote en desempate.
 
-Las personas que participen en la sesión reservada deberán permanecer en la sala desde el inicio de esta sesión y hasta el término de la subasta.
+En el caso que sólo algún(os) de los oferentes empatados haya presentado sobre de desempate, sólo participarán en éste, quienes hayan acompañado el "Sobre Nº 3 Desempate"; de acuerdo a lo establecido en el Reglamento.
 
-#### Artículo 14°
+Si ninguno de los oferentes empatados hubiera presentado el sobre de desempate, o el empate continúe una vez abiertos los sobres de desempate, se procederá a un sorteo para dirimir el empate entre los oferentes que se encuentren en esta situación y proceder a la adjudicación del lote respectivo.
+
+Los resultados del proceso de subasta serán publicados en el sitio de dominio electrónico de la Subsecretaría.
+
+#### Artículo 14
 
 <!-- parte:8937609 -->
 
-Tratándose de una subasta al alza, la subasta se realizará lote a lote, en el orden dispuesto en las bases. El martillero público comenzará la subasta con el precio mínimo fijado en la forma establecida en el artículo 13, y los interesados expresarán sus ofertas de viva voz en U.T.M. Cada lote será adjudicado a la postura más alta que se exprese.
+El proceso de apertura de sobres y de adjudicación de los lotes subastados será público y se permitirá la presencia de los representantes de los oferentes en los términos indicados en el artículo 12, quienes deberán permanecer en el lugar en que se realizará el proceso desde el inicio de la sesión hasta el término del proceso.
 
-Tratándose de una subasta a la baja, la subasta se realizará lote a lote, en el orden dispuesto en las bases. El martillero público comenzará la subasta con el precio inicial fijado en la forma establecida en el artículo 13. Si ningún interesado acepta el precio inicial, el Martillero Público irá anunciando las posturas en voz alta y en orden decreciente, a partir del precio inicial. El lote será adjudicado al primer interesado que acepte el precio anunciado por el Martillero.
-
-En el caso que dos o más interesados acepten el precio de modo simultáneo o si no hay modo indudable de establecer la precedencia, se realizará una subasta parcial al alza, exclusivamente con los interesados que hayan aceptado el precio. El lote será adjudicado, en este caso, a la postura más alta que se exprese en la subasta parcial.
-
-En caso de que ningún participante acepte el precio mínimo del lote, éste no será adjudicado por falta de interesados.
-
-Ninguna persona podrá adjudicarse un porcentaje superior al 50% del total a subastar, ya sea directamente o a través de terceras personas naturales o jurídicas con las que se relacione como filial, matriz, coligada o coligante. Para estos efectos se dará a estos términos el significado que se indica en los artículos 86 y 87 de la Ley N° 18.046, sobre Sociedades Anónimas, aun cuando la entidad correspondiente sea cualquier otra especie de sociedad o entidad jurídica.
-
-Al término de la actuación se devolverá a los participantes sus garantías de seriedad, conservándose sólo las de los adjudicatarios.
-
-#### Artículo 15°
+#### Artículo 15
 
 <!-- parte:8937610 -->
 
-Cada adjudicatario recibirá el día de la subasta un comprobante por cada lote adjudicado, el que será reemplazado por la emisión de los permisos correspondientes.
+Ninguna persona podrá adjudicarse un porcentaje superior al 50% del total a subastar, ya sea directamente o a través de terceras personas naturales o jurídicas con las que se relacione como filial, matriz, coligada o coligante conforme a lo señalado en el artículo 4º del presente reglamento.
 
-#### Artículo 16°
+Cada adjudicatario recibirá el día de la subasta un formulario para el pago de la primera anualidad en Tesorería General de la República, por cada lote, el que será reemplazado por una copia de resolución que otorgará los permisos extraordinarios de pesca.
+
+#### Artículo 16
 
 <!-- parte:8937611 -->
 
-El monto total expresado en U.T.M. de cada oferta adjudicada se dividirá en diez anualidades iguales. Los pagos se efectuarán anticipadamente en el mes de diciembre de cada año. No obstante, el primero de estos pagos deberá efectuarse de conformidad con lo dispuesto en los artículos siguientes.
+El monto total expresado en UTM de cada oferta adjudicada se dividirá en diez anualidades iguales. Los pagos se efectuarán anticipadamente en el mes de diciembre de cada año. No obstante, el primero de estos deberá efectuarse de conformidad con lo dispuesto en los artículos siguientes.
 
-#### Artículo 17°
+#### Artículo 17
 
 <!-- parte:8937612 -->
 
-El adjudicatario deberá pagar el monto correspondiente a la primera anualidad dentro de los tres días hábiles siguientes al día de la subasta.
+Sin perjuicio de lo dispuesto en el artículo anterior, el adjudicatario deberá pagar el monto correspondiente a la primera anualidad dentro de los cinco días hábiles siguientes al día de la adjudicación del lote en la subasta.
 
-Recibida por la Subsecretaría copia auténtica del comprobante de pago de la primera anualidad, se procederá a restituir la garantía de seriedad de la oferta, y a emitir el correspondiente permiso extraordinario de pesca.
+Recibida por la Subsecretaría copia auténtica del comprobante de pago de la primera anualidad, se procederá a restituir la garantía de seriedad de la oferta, y a emitir la resolución que otorgue el correspondiente permiso extraordinario de pesca, en la que constará, a lo menos, la individualización del titular, el recurso, la unidad de pesquería en que podrá extraer, el coeficiente de participación y el valor de adjudicación, el que deberá expresarse en UTM/año.
 
-#### Artículo 18°
+#### Artículo 18
 
 <!-- parte:8937613 -->
 
-El adjudicatario que no diere cumplimiento a las obligaciones de pago a que se refiere el artículo 17 en la oportunidad en él dispuesta, se entenderá por este solo hecho como desistido de su oferta. En tal caso la Subsecretaría dictará una resolución que ordene hacer efectiva la garantía de seriedad respectiva, haciendo entrega de dichos valores a la Tesorería.
+El adjudicatario que no diera cumplimiento a la obligación de pago establecida en el artículo 17 se entenderá por este solo hecho como desistido de su oferta y se hará efectiva la garantía de seriedad de la oferta. En este caso, la Subsecretaría dictará una resolución que ordene hacer efectiva la garantía de seriedad respectiva y hacer entrega de dichos valores a la Tesorería General de la República.
 
-El corte que quedase disponible por efecto de este desistimiento, se subastará dentro de noventa días a contar de la fecha de la antes referida resolución. Para este efecto el Subsecretario convocará a una nueva subasta, la que se ejecutará de acuerdo al mismo procedimiento, bastando un solo aviso publicado con diez días de anticipación a la subasta.
+Producido el desistimiento señalado en el inciso anterior, se procederá a una segunda subasta respecto de ese lote, de acuerdo a lo establecido en el presente Párrafo, bastando para este caso un solo aviso publicado en un diario de circulación nacional con diez días de anticipación a la subasta. En esa segunda subasta no podrá participar el adjudicatario que incumplió con el pago.
 
-De igual manera se procederá en el caso de que la subasta inicial se hubiese declarado desierta, o no se hubiesen adjudicado en ella todos los lotes en oferta.
+En los mismos términos a los indicados en el inciso anterior se procederá en el caso de que la subasta inicial se hubiere declarado desierta o no se hubieren adjudicado en ella todos los lotes en oferta. Para estos efectos, se entenderá declarado desierto un lote, en caso que no se presenten ofertas, o las presentadas no estén sobre el precio mínimo fijado por ley.
+
+### Párrafo 2º — bis
+
+De la Subasta de los Permisos Extraordinarios de Pesca de Bacalao de profundidad para el sector pesquero artesanal
+
+#### Artículo 18 A
+
+<!-- parte:9393544 -->
+
+En los años que se realice la subasta para el sector pesquero artesanal del 5% de la cuota global anual de la pesquería de Bacalao de profundidad, declarada en régimen de desarrollo incipiente, de conformidad con el decreto Nº 328, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, según lo dispuesto en el artículo décimo quinto transitorio de la ley Nº 20.657, ésta se realizará de conformidad con las normas del párrafo 2º del presente reglamento, con las diferencias contenidas en este párrafo.
+
+#### Artículo 18 B
+
+<!-- parte:9393545 -->
+
+Respecto a los cortes, las bases de subasta señalarán cuáles de ellos corresponderá subastar al sector artesanal y al sector industrial, debiendo existir para el sector artesanal, al menos dos cortes que no excedan cada uno el 0,5% de la cuota global de captura. Asimismo, las bases deberán indicar el orden en que se subastarán los lotes entre el sector pesquero industrial y el sector pesquero artesanal.
+
+#### Artículo 18 C
+
+<!-- parte:9393546 -->
+
+Derogado
+
+#### Artículo 18 D
+
+<!-- parte:9393547 -->
+
+Sólo podrán participar en la subasta correspondiente al sector artesanal los armadores artesanales inscritos en el Registro Artesanal de Bacalao de Profundidad y los pescadores artesanales inscritos en el Registro Artesanal de la XI Región de Aysén del General Carlos Ibáñez del Campo y de la XII Región de Magallanes y la Antártica Chilena, que hubieren acompañado la garantía de seriedad de la oferta en la oportunidad y forma señalada en las bases.
+
+#### Artículo 18 E
+
+<!-- parte:9393548 -->
+
+La garantía de seriedad de la oferta que entreguen los adjudicatarios correspondientes al sector pesquero artesanal deberá tener una vigencia de a lo menos un mes adicional a la época fijada para el pago de la primera cuota de la anualidad y será devuelta por la Subsecretaría, una vez que se reciba copia auténtica del comprobante de pago respectivo.
+
+#### Artículo 18 F
+
+<!-- parte:9393549 -->
+
+El monto total expresado en unidades tributarias mensuales de cada oferta adjudicada al sector pesquero artesanal se dividirá en diez anualidades iguales. Los pagos anuales se efectuarán en dos cuotas pagaderas en los meses de junio y diciembre, debiendo pagarse la primera cuota en el mes de junio del año siguiente a la subasta.
+
+Dentro de los 10 días contados de la fecha de la subasta, la Subsecretaría emitirá los permisos extraordinarios de pesca correspondientes a los adjudicatarios artesanales.
+
+El no pago de una de las cuotas constituirá causal de caducidad del permiso extraordinario de pesca y su titular no podrá participar en nuevas subastas.
+
+#### Artículo 18 G
+
+<!-- parte:9393550 -->
+
+En caso de caducidad o renuncia de un permiso extraordinario del sector pesquero artesanal, se procederá a la reasignación de éste, para hacerlo efectivo al año siguiente a la fecha de la caducidad, de conformidad con las normas del Párrafo 4º del presente reglamento. Esta reasignación se realizará sólo entre pescadores artesanales, pudiendo participar en ella las personas que cumplan con el requisito del artículo 18 D del presente reglamento.
+
+#### Artículo 18 H
+
+<!-- parte:9393551 -->
+
+Los permisos extraordinarios de pesca que provengan de la subasta para el sector artesanal, se deberán hacer efectivos con embarcaciones que califiquen de acuerdo a la ley como embarcación pesquera artesanal.
 
 ### Párrafo 3°
 
@@ -258,11 +304,11 @@ De la subasta de reasignación de permisos
 
 extraordinarios de pesca
 
-#### Artículo 23°
+#### Artículo 23º
 
 <!-- parte:8937619 -->
 
-La subasta de reasignación de permisos extraordinarios de pesca prevista en el artículo 143 inciso final de la Ley, se regirá por las disposiciones contenidas en los párrafos 1°, 2° y 5° del presente reglamento, sin perjuicio de lo dispuesto en los artículos siguientes.
+La subasta de reasignación de permisos extraordinarios de pesca prevista en los artículos 37 y 143 inciso tercero de la ley, se regirá por las disposiciones contenidas en los párrafos 1º, 2º y 5º del presente reglamento, sin perjuicio de lo dispuesto en los artículos siguientes.
 
 #### Artículo 24°
 
