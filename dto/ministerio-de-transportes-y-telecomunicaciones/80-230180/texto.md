@@ -78,7 +78,7 @@ Las Secretarías Regionales podrán otorgar autorizaciones provisorias, tratánd
 
 Las autorizaciones que se otorguen podrán tener carácter general o especial. Las autorizaciones especiales se otorgarán respecto de vehículos inscritos en el registro a que se refiere el artículo 4º de este reglamento y habilitarán para la realización de transporte privado remunerado de pasajeros durante los períodos de vacaciones escolares.
 
-Excepcionalmente, los servicios que cuenten con autorización general vigente podrán solicitar un permiso particular para transportar personas menores de edad, el cual se otorgará sólo para viajes específicos y respecto de vehículos determinados, los que deberán cumplir con las exigencias establecidas en la letra d) del artículo 17 del presente reglamento. En todo lo demás, estos servicios deberán cumplir con las exigencias establecidas en el presente reglamento.
+INCISO SEGUNDO DEROGADO.
 
 #### Artículo 9º
 
@@ -186,6 +186,8 @@ g) Tener una antigüedad máxima de 12 años, con excepción de la I y XII regio
 
 Las características señaladas en las letras d), e) y f) anteriores, serán aplicables sólo para los vehículos Station Wagon. Los vehículos con tracción en las 4 ruedas, no podrán ser vehículos inscritos en el Registro Nacional de Vehículos Motorizados, como automóviles. Los Station Wagon y vehículos que cuenten con tracción en las 4 ruedas, deberán contar con una Inspección visual realizada en una planta de revisión técnica de la región donde prestará servicios, que dé cuenta del cumplimiento de las características anteriores, la cual deberá ser presentada por el interesado al momento de solicitar la autorización en la Secretaría Regional correspondiente. La autorización señalada precedentemente, podrá ser requerida sólo como transporte de turistas.
 
+Asimismo, podrá prestarse servicios de transporte de turistas con vehículos de expedición, vehículos tipo Jeep y vehículos anfibios. A estos vehículos no les serán aplicables las características indicadas en el inciso segundo precedente ni lo establecido en el literal a) del artículo 17 siguiente, sin perjuicio del cumplimiento de las normas generales sobre condiciones técnicas, medidas de seguridad y fabricación. Para efectos del presente reglamento se entenderá por vehículos de expedición, vehículos tipo Jeep y vehículos anfibios, los que a continuación se describen: Son vehículos de expedición aquellos con tracción en 4 o más de sus ruedas y peso bruto vehicular entre 2.000 y 3.860 kilogramos, o aquellos con tracción en 2, 4 o más ruedas con un peso bruto vehicular superior a 3.860 kilogramos; en ambos casos, cuyas cabinas o habitáculos de pasajeros se encuentren conectados con la caja de carga o compartimento de equipaje o forme un solo cuerpo entre ésta y aquélla. Estos vehículos estarán provistos con elementos que les permitan efectuar transporte fuera de calles, caminos o vías rurales o urbanas, debiendo contar al menos con lo siguiente: sistemas de navegación satelital, herramientas de reparación en travesía, equipos de rescate y dispositivos de comunicación de largo alcance. Son vehículos tipo Jeep aquellos con tracción en las 4 ruedas, peso bruto vehicular menor a 2.700 kg., y cuya carrocería forme un solo cuerpo entre la cabina del conductor y la caja de carga, la cual debe estar montada sobre chasis (bastidor). Son vehículos anfibios aquellos que sean capaces de operar tanto en tierra como en agua. Junto a la solicitud de autorización a que se refiere el artículo 9º del presente decreto, los vehículos de expedición y tipo Jeep deberán contar con un certificado de inspección visual otorgado por una planta de revisión técnica, que dé cuenta de las características del vehículo, del cumplimiento de los elementos mínimos señalados precedentemente para cada uno de ellos y de tratarse de vehículos de expedición o tipo de Jeep, según sea el caso. En el caso de los vehículos anfibios, junto con la aludida solicitud del artículo 9º, el interesado deberá requerir la opinión técnica favorable al Ministerio de Transportes y Telecomunicaciones, que dé cuenta del estado general de vehículo y de tratarse de un vehículo anfibio.
+
 También, podrá prestarse transporte privado remunerado de pasajeros con Limusinas. Para los efectos del presente reglamento, se consideran Limusinas, aquellos vehículos que posean 4 o más puertas laterales; una distancia igual o superior a 3 metros, entre el eje delantero y el eje trasero, medido desde el centro de cada uno de ellos; y que cuentan con una cilindrada igual o superior a 2.500 c.c.
 
 Adicionalmente, para la prestación de servicios de transporte privado remunerado de pasajeros, no se podrán utilizar vehículos hechizos a que se refiere el artículo 43 de la ley 18.290. Asimismo, los buses tipo Pullman que se utilicen para prestar servicios de transporte privado remunerado de pasajeros, no podrán tener adaptaciones o modificaciones en su estructura, debiendo tratarse sólo de modelos estándar de fabricación.
@@ -198,45 +200,11 @@ a) Tener una antigüedad máxima igual a aquella que se aplica en la respectiva 
 
 En todo caso, esta antigüedad no se aplicará a los vehículos señalados en el numeral vi) de la letra d) del presente artículo, resultándoles aplicable la antigüedad señalada en dicho numeral.
 
-b) Contar con ventanas a ambos costados del vehículo y todos los vidrios deberán permitir una perfecta visibilidad desde y hacia el interior del vehículo.
+b) Contar con ventanas a ambos costados del vehículo y todos los vidrios deberán permitir una perfecta visibilidad desde y hacia el interior del vehículo. El requisito consistente en contar con ventanas a ambos costados, no será exigible a los vehículos anfibios definidos en el artículo precedente.
 
 c) En el caso de servicios interurbanos, los vehículos deberán contar, además, con un tacógrafo que registre, a lo menos, las variaciones de velocidad entre 0 y 120 km/h, el tiempo de marcha y detención y la distancia recorrida. Dichas funciones podrán ser efectuadas por equipos electrónicos de registro, los que deberán cumplir con las exigencias establecidas en la resolución Nº 137, de 1997, del Ministerio de Transportes y Telecomunicaciones. El responsable del servicio deberá mantener en su poder, por un plazo mínimo de 60 días, los documentos registradores o los archivos computacionales con la información recolectada del vehículo, los que deberán estar a disposición de Carabineros e inspectores municipales y fiscales. Este requisito no será aplicable a los vehículos señalados en los incisos segundo, tercero y cuarto del artículo 16º, ni a los vehículos inscritos en el Registro Nacional de Transporte Escolar, que presten servicios de transporte privado remunerado de pasajeros con la correspondiente autorización especial.
 
-d) Tratándose de servicios de transporte privado que cuenten con un permiso particular para el transporte de menores, los vehículos deberán cumplir, además, con las siguientes exigencias:
-
-i. Ser de cilindrada igual o superior a 1.400 cc.;
-
-ii. Tener un ancho externo total de la carrocería (sin incluir parachoques) igual o superior a 1.600 mm.;
-
-iii. Contar con un pasillo despejado que permita el acceso desde la(s) puerta(s) hacia todas las corridas de asientos, el que deberá tener un ancho mínimo de 28 cm, salvo en la zona contigua a aquellos asientos a los que se accede directamente desde la(s) puerta(s);
-
-iv. Contar con asientos dispuestos de manera que sus ocupantes miren hacia el frente;
-
-v. Contar con asientos con un respaldo de altura igual o superior a treinta y cinco centímetros (35 cm.), medida desde el plano horizontal del asiento, y;
-
-vi. En caso de vehículos de peso bruto vehicular inferior a 3.860 kilogramos, éstos deberán tener una antigüedad máxima de acuerdo a lo que se indica en el siguiente calendario:
-
-Entrada
-
-en Regiones I y Otras
-
-vigencia Región Metropolitana XII regiones
-
-Sin sello Con sello Todos los Todos los
-
-verde verde vehículos vehículos
-
-1 de enero
-
-de 2004 14 años 13 años 18 años 14 años
-
-1 de enero
-
-de 2005 11 años 12 años 18 años 12 años
-
-1 de enero
-
-de 2006 10 años 12 años 16 años 12 años
+d) DEROGADA.
 
 Sin perjuicio de las antigüedades máximas establecidas en el presente artículo, los buses del tipo "Pullman", definidos en la resolución Nº 98, de 1986, del Ministerio de Transportes y Telecomunicaciones, podrán tener una antigüedad máxima igual a la establecida para los vehículos de este tipo que prestan servicios de transporte público interurbano de pasajeros.
 
