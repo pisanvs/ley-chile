@@ -1,0 +1,3 @@
+EXCEPCIÓN DEL RÉGIMEN DE RETENCIÓN EN LAS VENTAS DE CARNES
+
+Por resolución exenta Nº 659, de fecha 20.07.2015, la X Dirección Regional Puerto Montt del Servicio de Impuestos Internos, excepciona a contar del 1º del mes siguiente de esta publicación, al contribuyente Gendarmería de Chile Centro de Cumplimiento Penitenciario de Osorno, RUT 61.004.095-0, del régimen de retención del 5% en las ventas de carnes, establecido en la resolución exenta SII Nº 3.722, del 28.07.2000.
