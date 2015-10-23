@@ -638,17 +638,15 @@ Espacio aéreo de dimensiones definidas en el cual pueden desplegarse en determi
 
 Zona prohibida (P)
 
-Espacio aéreo de dimensiones definidas sobre el territorio o las aguas jurisdiccionales de un Estado, dentro del cual está prohibido el vuelo de las aeronaves.
+Espacio aéreo de dimensiones definidas sobre el territorio nacional, dentro del cual está prohibido el vuelo de aeronaves por razones de seguridad nacional o de carácter militar.
 
-Zona restringida (R)
-
-Espacio aéreo de dimensiones definidas sobre el territorio o las aguas jurisdiccionales de un Estado, dentro del cual está restringido el vuelo de las aeronaves, de acuerdo con determinadas condiciones especificadas.
+Zona Restringida (R). Espacio aéreo de dimensiones definidas sobre el territorio nacional, dentro del cual está restringido el vuelo de las aeronaves, de acuerdo con determinadas condiciones especificadas.
 
 . "Operación Autónoma: Una operación durante la cual una aeronave pilotada a distancia vuela sin intervención de piloto en la gestión de vuelo";
 
 . "Operación con Visibilidad Directa Visual (VLOS): Operación en la cual la tripulación remota mantiene contacto visual directo con la aeronave para dirigir su vuelo y satisfacer las responsabilidades de separación y anticolisión"
 
-. "Áreas Pobladas: Zonas en las que existan centros urbanos o se desarrollen actividades que convoquen la aglomeración de personas al aire libre".
+. "Áreas Pobladas. Zonas en las que existan centro urbanos, asentamientos de personas con fines habitacionales o laborales, o en las que se desarrollen actividades que convoquen la aglomeración de personas al aire libre.".
 
 Capítulo "B"
 
@@ -954,7 +952,7 @@ de Control de Tránsito Aéreo.
 
 4) operar en forma descuidada o temeraria, poniendo en riesgo a otras aeronaves en tierra o en el espacio aéreo;
 
-5) operar a una distancia menor de dos (2) kilómetros de la prolongación del eje de la pista y una distancia menor de un (1) kilómetro paralelo al eje de la pista de un aeródromo, y a una altura no superior a 400 pies (130 metros);
+5) Operar a una distancia menor de dos (2) kilómetros de la prolongación del eje de la pista, medidos desde el umbral, y una distancia menor de un (1) kilómetro paralelo al eje de la pista de un aeródromo y a una altura superior a 400 pies (130 metros);
 
 6) operar sobre zonas prohibidas o peligrosas;
 
@@ -967,6 +965,8 @@ de Control de Tránsito Aéreo.
 10) operar bajo la influencia de las drogas o el alcohol;
 
 11) operar en las áreas donde se combate un incendio por medio de aeronaves tripuladas.
+
+(g) Se permiten las operaciones en áreas pobladas, sin requerir autorización de la DGAC, las que se efectúen con RPA fabricadas con polietileno expandido o material equivalente, de hasta un peso máximo de 750 gramos, destinadas al uso privado o recreacional y siempre que no operen a más de 50 metros de altura sobre el obstáculo o edificación de mayor altura de la zona recorrida en lugares privados, debiendo la persona que la opere responder ante cualquier daño a tercero que cause durante la operación de esta aeronave pilotada a distancia.
 
 91.103 Prevención de colisiones
 
