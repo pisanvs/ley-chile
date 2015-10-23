@@ -254,6 +254,8 @@ j.7) Operen, al interior de inmuebles, en la banda de frecuencias de 57 a 64 GHz
 
 - Potencia máxima radiada: 43 dBm.
 
+j.8) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una P.I.R.E. máxima, medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
+
 Estos equipos no podrán emplearse en aeronaves, satélites y sensores de perturbaciones de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija.
 
 #### Artículo 2º
