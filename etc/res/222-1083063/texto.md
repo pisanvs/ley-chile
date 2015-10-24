@@ -1,0 +1,17 @@
+EXTRACTO ESCRITURA DE CONSTITUCIÓN PARTIDO POLÍTICO EN FORMACIÓN "UNIDOS RESULTA EN DEMOCRACIA"
+
+Por resolución O-Nº222, de fecha 14 de octubre de 2015, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la ley Nº 18.603.
+
+Por escritura pública de fecha 14 de septiembre de 2015, ante doña Marcela Andrea Medina Ricci, Abogada, Notario Público Suplente del Titular de San Miguel don Armando Arancibia Calderón, modificada por escritura pública de fecha 2 de octubre de 2015, otorgada ante la misma Notaría, se constituyó como partido político la entidad denominada "Unidos Resulta en Democracia". Su sigla es "URD". Su lema es "Unidos Resulta". Su símbolo: "una frase inferior en color negro con el texto "unidos RESULTA", con una imagen superior de cinco líneas semicirculares cada una conteniendo un círculo y formando una cuasi estrella, cada línea y círculo en color naranja, azul, verde, púrpura y rojo respectivamente, enmarcadas en un cuadro con bordes de color negro".
+
+Declaración de Principios: Nuestro partido es una organización humanista de personas libres en su pensamiento y actuar. Su objetivo principal es el bienestar del hombre y la sociedad, somos tolerantes y diversos. Creemos en la democracia y que los partidos políticos son y deben ser el mecanismo adecuado para optar a la dirección del país. Creemos que el desarrollo de nuestra sociedad pasa por la libertad para crear, asociarse y participar. Creemos en un Estado que considera al ciudadano como persona humana en sus derechos y deberes, que vela por el cumplimiento de la ley y el orden público, protegiendo siempre a los más débiles. Asignamos al Estado un rol subsidiario donde es ineficiente e ineficaz y un rol responsable y solidario donde probadamente da respuestas satisfactorias. Creemos absolutamente en las responsabilidades individuales de los ciudadanos, donde éstos asumen las consecuencias de sus acciones, como también creemos en las responsabilidades del Estado, donde las consecuencias de las malas políticas, deben ser asumidas por los individuos responsables que representan al mismo en un determinado momento. El Estado debe ser el promotor del desarrollo de oportunidades para todos los chilenos, evitando el asistencialismo que degrada al individuo como persona. Entendemos nuestra nación como un país de hermanos. El nepotismo debe ser erradicado con firmeza de la administración del Estado y de los servicio públicos".
+
+La Directiva Central provisional estará compuesta por las siguientes personas: Presidente: Patricio Hernán Saavedra Onetto; Secretario General: Cristián Alejandro Vivian Troncoso; Primer Vice-Presidente: Hernán Víctor Saldaña Castillo; Segundo Vice-Presidente: Elizabeth Roxana Neira Cid; Secretario Ejecutivo: María Angélica Garrido Álvarez; Tesorero: Camila Andrea Aylwin Narváez.
+
+El Tribunal Supremo provisional estará integrado por las siguientes personas: Presidente: Marcos Félix Ernesto González Daza; Vice-Presidente: Juan Alfonso Araneda Lobos; Secretario: Mónica Dinelly Ortiz Vidal.
+
+En caso de muerte, renuncia, impedimento definitivo o transitorio, de uno o más de los miembros de la Directiva Central o del Tribunal Supremo provisionales, el subrogante o reemplazante será elegido por el respectivo organismo provisional, de entre los constituyentes.
+
+El domicilio común es calle Huérfanos número mil ciento sesenta, oficina mil ciento uno, ciudad de Santiago.
+
+Elizabeth Cabrera Burgos, Directora (S).
