@@ -20,6 +20,10 @@ Amaranto
 
 Hypochondriacus)
 
+Argania spinosa (L) Cualquier Sin declaración adicional
+
+Origen
+
 Azadirachta indica Estados Unidos Sin declaración adicional
 
 de Norteamérica
@@ -29,6 +33,10 @@ Camelina
 sativa Estados Unidos Sin declaración adicional
 
 (Camelina)
+
+Euphorbia Cualquier Sin declaración adicional
+
+lathyris l. Origen
 
 Jatropha
 
@@ -77,6 +85,10 @@ Jatrofa Paraguay Sin declaraciones adicionales
 (Jatropha
 
 curcas)
+
+Moringa Cualquier Sin declaración adicional
+
+oleifera Lam. Origen
 
 2. Adicionalmente las semillas deberán cumplir con los requisitos que disponen las regulaciones que fijan las normas para la investigación, producción y comercio de semillas.
 
