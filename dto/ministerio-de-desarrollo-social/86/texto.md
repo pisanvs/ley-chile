@@ -40,59 +40,51 @@ Para el cumplimiento de su cometido, corresponderá a la Comisión las siguiente
 
 #### Artículo tercero
 
-La Comisión velará para que las propuestas formuladas sean relevantes, concretas y eficaces precisando la gradualidad para su implementación.
+La Comisión velará para que las propuestas formuladas sean relevantes, concretas y eficaces, precisando la gradualidad para su implementación.
 
-La Comisión resumirá su trabajo en un informe final, que deberá ser entregado a la Presidenta de la República a más tardar el 30 de abril de 2015.
+La Comisión resumirá su trabajo en un informe final, que deberá ser entregado a la Presidenta de la República, a más tardar, el 31 de marzo de 2016. Con todo, en el evento que a la fecha señalada no se cuente con las conclusiones definitivas que permitan la entrega del citado informe, la Comisión a través de su Secretaría Ejecutiva podrá solicitar aumento de plazo, el cual será concedido mediante oficio de la Presidenta de la República.
 
 #### Artículo cuarto
 
 La Comisión estará integrada por las siguientes personas:
 
-1. Mauro Tamayo Rozas, RUN Nº 14.612.628-6 quien ejercerá las funciones de Secretario Ejecutivo
+1) Catherine Muñoz Hermosilla, RUN 14.259.764-0, quien ejercerá las funciones de Secretaria Ejecutiva.
 
-2. María Soledad Cisternas Reyes, RUN Nº 7.108.437-K.
+2) Alberto Minoletti Scaramelli, RUN 4.184.247-4.
 
-3. Alberto Minoletti Scaramelli, RUN Nº 4.184.247-4.
+3) Alberto Larraín Salas, RUN 15.330.796-2.
 
-4. Julia Lorena Fríes Monleón, RUN Nº 8.532.482-9.
+4) Judith Schönsteiner, RUN 22.895.891-3.
 
-5. Alberto Larraín Salas, RUN Nº 15.330.796-2.
+5) Enrique Accorsi Opazo, RUN 4.773.767-2.
 
-6. Claudio Nash Rojas, RUN Nº 9.908.319-0.
+6) Pamela Gutiérrez Monclus, RUN 12.881.119-2.
 
-7. Judith Schönsteiner, RUN Nº 22.895.891-3.
+7) Tomás Hernández González, RUN 7.048.983-K.
 
-8. José Bengoa Cabello, RUN Nº 4.746.283-5.
+8) Olga Balboa Oyarce, RUN 6.817.872-K.
 
-9. Enrique Accorsi Opazo, RUN Nº 4.773.767-2.
+9) Marcela Benavidez Muñoz, RUN 9.227.392-K.
 
-10. Pamela Gutiérrez Monclus, RUN Nº 12.881.119-2.
+10) Alberto Carvajal Aravena, RUN 6.441.210-8.
 
-11. Tomás Hernández González, RUN Nº 7.048.983-K
+11) Ximena Casarejos Espinoza, RUN 6.288.643-9.
 
-12. Olga Balboa Oyarce, RUN Nº 6.817.872-K.
+12) Víctor Dagnino Biassa, RUN 4.100.776-1.
 
-13. Marcela Benavides Muñoz, RUN Nº 9.227.392-K.
+13) Gladys Teresa Cuevas Lucar, RUN 6.666.855-K
 
-14. Alberto Carvajal Aravena, RUN Nº 6.441.210-8.
+14) Irma Iglesia Zuazola, RUN 7.853.807-4.
 
-15. Ximena Casarejos Espinoza, RUN Nº 6.288.643-9.
+15) María José López Güell, RUN 10.968.159-8.
 
-16. Víctor Dagnino Biassa, RUN Nº 4.100.776-1.
+16) Valeria Valdés González, RUN 16.557.430-3.
 
-17. Gladys Teresa Cuevas Lucar, RUN Nº 6.666.855-K.
+17) Gustavo Vergara Navarro, RUN 7.251.866-7.
 
-18. Catherine Muñoz Hermosilla, RUN Nº 14.259.764-0.
+18) Boris Araos Cancino, RUN 10.946.079-6.
 
-19. Irma Iglesias Zuazola, RUN Nº 7.853.807-4.
-
-20. María José López Güell, RUN Nº 10.968.159-8.
-
-21. Valeria Valdés González, RUN Nº 16.557.430-3.
-
-22. Gustavo Vergara Navarro, RUN Nº 7.251.866-7.
-
-23. Boris Araos Cancino, RUN Nº 10.946.079-6.
+19) Andrea María Slachevsky Chonchol, RUN 7.928.113-1
 
 Cada uno de sus integrantes, sin perjuicio de su pertenencia o vínculo actual o pasado a alguna institución pública o privada, no integrará la Comisión en calidad de representante de ninguna de ellas.
 
