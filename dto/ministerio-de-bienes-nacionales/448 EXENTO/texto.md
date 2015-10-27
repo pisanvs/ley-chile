@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA, A CONSEJO DE UNIDADES PASTORALES SANTIAGO CUPREM
+
+Mediante decreto exento Nº E-448 de 21 de octubre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al Consejo de Unidades Pastorales Santiago Cuprem, RUT Nº 75.795.300-5, el inmueble fiscal ubicado en calle Dieciocho Nº 164-172, comuna y provincia de Santiago, Región Metropolitana; Rol Servicio de Impuestos Internos Nº 493-8; amparado por inscripción a mayor cabida a nombre del Fisco a fs. 14.929 Nº 17.725, en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1962; singularizado en el plano Nº 13101-1411-C.U; con una superficie de 979,80 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble concesionado para el funcionamiento del Edificio Corporativo de la institución y para desarrollar en él un proyecto integral. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
