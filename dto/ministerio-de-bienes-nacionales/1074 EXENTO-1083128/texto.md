@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A I. MUNICIPALIDAD DE O'HIGGINS
+
+Mediante decreto exento Nº 1074 de 7 de octubre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a I. Municipalidad de O'Higgins, RUT Nº 69.253.500-6, el inmueble fiscal denominado "Bien Nacional Protegido Río Mosco", ubicado en el sector Cuenca del Río Mosco, comuna de O'Higgins, Provincia de Capitán Prat, Región de Aysén del General Carlos Ibáñez del Campo; Rol Servicio de Impuestos Internos Nº 221-134; amparado por inscripción global a nombre del Fisco a fs. 2 vta. Nº 2, en el Registro de Propiedad del Conservador de Bienes Raíces de Cochrane, correspondiente al año 1980; singularizado en el plano Nº XI-4-612-C.R; con una superficie de 10.316,52 hás. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble concesionado para ejecutar el Proyecto Parque Glaciar Mosco. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.- Patricio Flores Rivas, Jefe de División Jurídica.
