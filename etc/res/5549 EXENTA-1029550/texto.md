@@ -18,7 +18,11 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2011 del Sistema Integrado de Subsidio Habitacional, regulado por el D.S. Nº 1 (V. y U.), de 2011, Títulos I y II (páginas 1 a la 505), dispuesto en el número 1º de la resolución exenta N° 3.563, de este Ministerio, de 2011 y sus modificaciones, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, por Título, Región y alternativa de postulación, según se indica en la siguiente tabla:
 
+.
+
 3º.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atención de los postulantes seleccionados a que se refiere el número anterior, por Título, Región y alternativa de postulación, según se indica en la siguiente tabla:
+
+.
 
 4º.- Déjanse sin efecto las 329 solicitudes de postulación para el primer llamado 2011 del Sistema Integrado de Subsidio Habitacional regulado por el D.S. Nº 1 (V. y U.), de 2011, efectuado por el número 1º de la resolución exenta Nº 3.563, de este Ministerio, de 2011, y sus modificaciones, presentadas por las personas individualizadas en las nóminas que se acompañan (página 1 a la 30), por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
 
