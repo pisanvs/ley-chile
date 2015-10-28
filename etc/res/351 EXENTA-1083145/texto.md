@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº 351 DE 16 DE SEPTIEMBRE DE 2015
+
+Por resolución exenta Nº 351, del 16 de septiembre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío-Bío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en Calle Juan de Dios Rivera Nº 2280, Sector Barrio Norte, de la comuna de Concepción, Región del Biobío, de responsabilidad de la "Sociedad de Transportes Rengo Lientur Limitada.", rol único tributario Nº 77.337.300-0, representada legalmente por don Lorenzo Rubilar Alvarado, RUT: 3.323.851-7 y don Hermann Barón Ibarboure, RUT: 3.975.937-3. El tipo de terminal es un terminal de vehículos, con capacidad para 72 vehículos, de acuerdo a la normativa vigente a la fecha de la recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido los servicios de buses urbanos de la comuna de Concepción de la "Sociedad de Transportes Rengo Lientur Limitada.", rol único tributario Nº 77.337.300-0, representada legalmente don Lorenzo Rubilar Alvarado, RUT: 3.323.851-7 y don Hermann Barón Ibarboure, RUT: 3.975.937-3, con el siguiente recorrido: Servicio Troncal: Juan de Dios Rivera - Ejército - Camilo Henríquez - Chacabuco, Variante 1: Camilo Henríquez - Freiré - Briceño - Padre Hurtado y Variante 2: Rengo - O'Higgins - Pinto Lagarrigue - Lincoyán.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima diaria de 72 vehículos, en conformidad a la normativa vigente al momento de la recepción definitiva.
+
+- **C)** El administrador del terminal será la "Sociedad de Transportes Rengo LIentur Limitada.", rol único tributario Nº 77.337.300-0, representada legalmente por don Hermann Barón Ibarboure, RUT: 3.975.937-3 con domicilio en calle Rengo Nº 1298, comuna de Concepción. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+César Arriagada Lira, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región del Biobío.
