@@ -46,8 +46,12 @@ La distribución de los derechos respectivos entre los funcionarios mencionados 
 
 Lo dispuesto en los artículos 1°, 2° y 3°, con excepción de su inciso tercero, será aplicable, asimismo, en los contratos en que intervengan instituciones bancarias o financieras otorgando créditos hipotecarios complementarios a beneficiarios de subsidio habitacional y en los contratos de mutuo hipotecario endosable otorgados a beneficiarios del subsidio habitacional del Estado, conforme al procedimiento autorizado por los incisos cuarto, quinto y sexto del artículo 41 de la ley N°18.196. Esta normativa se aplicará igualmente respecto de los contratos que se celebren con beneficiarios del subsidio habitacional del Estado y que sean destinados a la adquisición o construcción de las viviendas sociales definidas en los artículos 3° del decreto ley N° 2.552, de 1979, y 40 de la ley N° 19.537, según corresponda.
 
-#### Artículo 5°
+#### Artículo 5º
 
-La contravención de lo dispuesto en los artículos 3° y 4° será sancionada disciplinariamente con la medida de censura por escrito. En caso de reincidencia, la sanción será la suspensión de funciones por un lapso no inferior a un mes.
+Las prohibiciones de gravar, enajenar y celebrar acto o contrato alguno que importe cesión de uso y goce de la vivienda, sea a título gratuito u oneroso, sin previa autorización del Servicio de Vivienda y Urbanización respectivo, que se hubieren establecido en razón de haberse adquirido o construido una vivienda con aplicación de un subsidio habitacional, haya sido transferida directamente por el SERVIU o un tercero, se entenderán canceladas por el solo ministerio de la ley una vez transcurrido el plazo por el cual se hubieren constituido, debiendo efectuarse las cancelaciones y anotaciones correspondientes y otorgarse los certificados que acrediten dicha circunstancia, de oficio o a requerimiento de cualquier persona, rigiendo para estos efectos lo dispuesto en el inciso segundo del artículo 3º.
+
+#### Artículo 6°
+
+La contravención de lo dispuesto en los artículos 3º, 4º y 5º será sancionada disciplinariamente con la medida de censura por escrito. En caso de reincidencia, la sanción será la suspensión de funciones por un lapso no inferior a un mes.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo.
