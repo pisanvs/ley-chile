@@ -18,7 +18,7 @@ Resuelvo:
 
 a. Del País o Zona de procedencia
 
-El país o la zona de procedencia está declarado oficialmente libre de Fiebre Aftosa con o sin vacunación, Viruela Ovina y Caprina, Peste de Pequeños Rumiantes ante la Organización Mundial de Sanidad Animal (OIE) y esta condición sanitaria ha sido evaluada favorablemente por Chile.
+El país o la zona de procedencia está declarado oficialmente libre de Fiebre Aftosa sin vacunación, Viruela Ovina y Caprina, Peste de Pequeños Rumiantes ante la Organización Mundial de Sanidad Animal (OIE) y esta condición ha sido evaluada favorablemente por Chile.
 
 b. Del Centro de Recolección y Procesamiento de Semen
 
