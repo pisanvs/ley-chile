@@ -20,11 +20,13 @@ Resuelvo:
 
 Los embriones/ovocitos objeto de intercambio deberán proceder de equipos de recolección, fijos o móviles o de centros de recolección o producción registrados, autorizados y supervisados para exportar, de conformidad con la legislación vigente en el país de origen y cumple los requisitos señalados por el Código Sanitario de los Animales Terrestres de la OIE, en su última versión.
 
-### 4. Requisitos de los Animales Donantes
+Los centros de recolección o producción de los cuales proceden los embriones/ovocitos, no podrán estar situados en un país o zona de condición sanitaria inferior a aquella exigida en la presente resolución para los animales donantes.
+
+### 4. Requisitos de los Animales Donantes (machos y hembras)
 
 a. Del país o zona de procedencia
 
-El país o la zona de procedencia debe estar declarado libre de Fiebre del Valle del Rift, Pleuroneumonía contagiosa caprina y Peste de los pequeños rumiantes, de acuerdo a lo establecido por el Código Sanitario de los Animales Terrestres.
+El país o la zona de procedencia debe estar declarado libre de Fiebre Aftosa sin vacunación, Fiebre del Valle del Rift, Pleuroneumonía contagiosa caprina y Peste de los pequeños rumiantes, de acuerdo a lo establecido por el Código Sanitario de los Animales Terrestres.
 
 b. Del Predio de Origen
 
