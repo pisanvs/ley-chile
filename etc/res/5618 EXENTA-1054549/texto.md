@@ -20,7 +20,7 @@ Resuelvo:
 
 ### II. Del país o zona de procedencia
 
-1.El país o la zona de procedencia está declarado oficialmente libre de Fiebre Aftosa con o sin vacunación, y Pleuroneumonía Contagiosa ante la Organización Mundial de Sanidad Animal (OIE) y esta condición sanitaria ha sido evaluada favorablemente por Chile.
+1. El país o la zona de procedencia está declarado oficialmente libre de Fiebre Aftosa sin vacunación y Pleuroneumonía Contagiosa ante la Organización Mundial de Sanidad Animal (OIE) y esta condición sanitaria ha sido evaluada favorablemente por Chile.
 
 ### III. Del Centro de Recolección y Procesamiento de Semen
 
