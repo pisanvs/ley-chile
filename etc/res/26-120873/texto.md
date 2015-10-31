@@ -30,18 +30,6 @@ Resolución:
 
 > **Nota.** NOTA 6 El artículo 1º del Decreto 4, M. de Santiago, publicado el 14.01.2014, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores, respecto a Sector Nº 5 Matta - Franklin, de la manera que la citada norma indica. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
 
-> **Nota.** NOTA 7 El numeral 3º del Decreto 138, Municipalidad de Santiago, publicado el 01.02.2016, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores, respecto a Sector 6 Club Hípico-Parque O'Higgins, de la manera que la citada norma indica. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
-
-> **Nota.** NOTA 8 El Artículo 1 del Decreto 4491, Municipalidad de Santiago, publicado el 31.05.2018, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
-
-> **Nota.** NOTA 9 El Artículo 1 del Decreto 5952, Municipalidad de Santiago, publicado el 13.07.2018, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
-
-> **Nota.** NOTA 10 El artículo 2° del Decreto 14529, M. de Pedro Cerda, publicado el 10.11.2018, modifica la presenten norma en el sentido de sustituir del cuadro "Estándares de Estacionamiento Vehicular" según Uso de Suelo, sustituyéndolo por el que la citada norma indica.
-
-> **Nota.** NOTA 11 El Decreto 5274, Municipalidad de Santiago, publicado el 12.06.2019, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
-
-> **Nota.** NOTA 12 Los artículos 2°, 3° y 4° del Decreto 1335 Exento, M. de Cerrillos, publicado el 19.11.2019, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
-
 #### Artículo 1°
 
 Apruébase el nuevo Plan Regulador Comunal de Santiago, en conformidad a lo indicado en la Memoria Explicativa, Ordenanza Local de Edificación, Estudio de Factibilidad de Servicios, y Plano P.R.S. 01 y Plano P.R.S.
@@ -782,7 +770,7 @@ En las zonas que se permita la construcción continua hasta una altura determina
 
 El Director de Obras podrá autorizar una variación de la altura de las edificaciones hasta en un 10% de la establecida por el Plan Regulador Comunal de Santiago, cuando sea necesario resolver problemas técnicos del proyecto.
 
-La altura total de las edificaciones aisladas, aisladas sobre continua y/o pareadas, estará limitada solamente por la aplicación de las rasantes a que se refiere el Artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones. Las edificaciones continuas deberán cumplir con la altura establecida para cada zona, en esta Ordenanza. En pasajes existentes de un ancho inferior o igual a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m. En calles y pasajes existentes de un ancho inferior a 15 m., entre líneas oficiales, se permitirá una altura máxima de continuidad igual a 12 m. Para las situaciones de predio en esquina, prevalecerá la altura máxima que establezca la calle o pasaje de mayor ancho.
+La altura total de las edificaciones aisladas, aisladas sobre continua y/o pareadas, estará limitada solamente por la aplicación de las rasantes a que se refiere el Artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones. Las edificaciones continuas deberán cumplir con la altura establecida para cada zona, en esta Ordenanza. En pasajes existentes de un ancho inferior o igual a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m. En calles y pasajes existentes de un ancho inferior a 15 m., entre líneas oficiales, se permitirá una altura máxima de continuidad igual al ancho de la vía. Para las situaciones de predio en esquina, prevalecerá la altura máxima que establezca la calle o pasaje de mayor ancho.
 
 Para los casos de calles y pasajes ya constituidos, la altura máxima de continuidad será la predominante.
 
@@ -1040,10 +1028,6 @@ VER DIARIO OFICIAL DE 30.01.2003, PAGINAS 21 - 25
 
 > **Nota.** NOTA 13 El 3.3.1, 3.3.2 del 3.3 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el cuadro de Monumentos Históricos y elimina en el listado de Inmuebles de Conservación Histórica las líneas 023 y 939.
 
-> **Nota.** NOTA 17 El Decreto 3344, de la Municipalidad de Santiago, publicado el 24.04.2018, modifica el listado de Inmuebles de Conservación Histórica, eliminando la línea 949.
-
-> **Nota.** NOTA 18 El Decreto 3345, de la Municipalidad de Santiago, publicado el 24.04.2018, modifica el listado de Inmuebles de Conservación Histórica, eliminando la línea 636.
-
 CAPITULO IV Zonificación, usos del suelo y normas especificas PARRAFO 1° Zonificación
 
 #### Artículo 29
@@ -1070,31 +1054,19 @@ a.1) Usos Permitidos:
 
 a.1.1 Residencial: Vivienda
 
-Edificaciones
+Edificaciones y locales
 
-y locales
+destinados al hospedaje,
 
-destinados al
+con las excepciones
 
-hospedaje,
-
-con las
-
-excepciones
-
-indicadas en
-
-a.2.1)
+indicadas en a.2.1)
 
 a.1.2) Equipamiento: Científico
 
-Comercio,
+Comercio, con las
 
-con las
-
-excepciones
-
-indicadas en
+excepciones indicadas en
 
 a.2.2)
 
@@ -1120,97 +1092,51 @@ a.1.6) Area Verde
 
 a.2) Usos Prohibidos:
 
-a.2.1) Residencial: Edificaciones y
+a.2.1) Residencial: Edificaciones y locales
 
-locales
+destinados al hospedaje (se
 
-destinados al
+exceptúan aquellos alojamientos
 
-hospedaje
+turísticos que se encuentren
 
-(se exceptúan
-
-aquellos
-
-alojamientos
-
-turísticos
-
-que se encuentren
-
-clasificados y/o
-
-calificados
+clasificados y/o calificados
 
 por SERNATUR).
 
-a.2.2) Equipamiento: Comercio: Ferias
+a.2.2) Equipamiento: Comercio: Ferias libres, playas
 
-libres, playas
+de estacionamiento comercial,
 
-de estacionamiento
+establecimientos de venta
 
-comercial,
+minorista de combustibles
 
-establecimientos
+líquidos y/o centros de
 
-de venta minorista
-
-de combustibles
-
-líquidos y/o centros
-
-de servicio
-
-automotriz
-
-(excepto en
+servicio automotriz (excepto en
 
 subterráneos).
 
 Edificaciones y locales destinados al hospedaje con servicios comerciales adjuntos (se exceptúan aquellos alojamientos turísticos que se encuentren clasificados y/o calificados por SERNATUR).
 
-Deporte: Estadios, canchas,
+Deporte: Estadios, canchas, centros deportivos, medialunas y/o coliseos.
 
-centros deportivos,
-
-medialunas y/o
-
-coliseos.
-
-Esparcimiento: Zoológicos,
-
-hipódromos, circos
-
-y/o parques de
-
-entretenciones,
-
-zonas de picnic,
-
-casinos de juegos
-
-y/o quintas de
-
-recreo.
+Esparcimiento: Zoológicos, hipódromos, circos y/o parques de entretenciones, zonas de picnic, casinos de juegos y/o quintas de recreo.
 
 Salud: Cementerios.
 
-Seguridad: Bases militares
-
-y/o cárceles.
+Seguridad: Bases militares y/o cárceles.
 
 a.2.3) Actividades Productivas: se exceptúan las actividades indicadas como permitidas en el punto a.1.3).
 
-a.2.4) Infraestructura:
-
-Infraestructura Sanitaria:
+a.2.4) Infraestructura: Infraestructura Sanitaria:
 
 Plantas y/o botaderos de basura.
 
-b) Superficie subdivisión
+b) Superficie subdivisión predial
 
-predial mínima: 500 m2.
+mínima: 500 m2.
 
 c) Coeficiente máximo de
 
@@ -1296,119 +1222,71 @@ a.1) Usos Prohibidos:
 
 a.1.1) Residencial: Edificaciones y locales
 
-destinados al hospedaje
+destinados al hospedaje (se
 
-(se exceptúan aquellos
+exceptúan aquellos alojamientos
 
-alojamientos turísticos
+turísticos que se encuentren
 
-que se encuentren
-
-clasificados y/o
-
-calificados
+clasificados y/o calificados
 
 por SERNATUR).
 
-a.1.2) Equipamiento: Comercio: Cabaret y/o
+a.1.2) Equipamiento: Comercio: Cabaret y/o café
 
-café espectáculos.
+espectáculos. Ferias libres.
 
-Ferias libres.
+Edificios de estacionamiento y
 
-Edificios de
+playas de estacionamiento
 
-estacionamiento
+comercial. Servicentros,
 
-y playas de
+establecimiento de venta
 
-estacionamiento
+minorista de combustibles
 
-comercial.
+líquidos y/o centros de
 
-Servicentros,
+servicio automotriz.
 
-establecimiento
+Edificaciones y locales
 
-de venta minorista
+destinados al hospedaje con
 
-de combustibles
+servicios comerciales adjuntos
 
-líquidos y/o centros
+(se exceptúan aquellos
 
-de servicio
+alojamientos turísticos que se
 
-automotriz.
+encuentren clasificados y/o
 
-Edificaciones y
+calificados por SERNATUR).
 
-locales destinados
+Esparcimiento: Hipódromos, circos, parques de
 
-al hospedaje con
+entretenciones, casinos de
 
-servicios comerciales
+juego, quintas de recreo,
 
-adjuntos (se
+juegos electrónicos y/o videos.
 
-exceptúan aquellos
+Servicios: Casas y/o salas de
 
-alojamientos
-
-turísticos que se
-
-encuentren clasificados
-
-y/o calificados por
-
-SERNATUR).
-
-Esparcimiento: Hipódromos, circos,
-
-parques de
-
-entretenciones,
-
-casinos de juego,
-
-quintas de recreo,
-
-juegos
-
-electrónicos
-
-y/o videos.
-
-Servicios: Casas y/o salas
-
-de masajes.
+masajes.
 
 a.1.3) Actividades
 
-Productivas: Se exceptúan las
+Productivas: Se exceptúan las actividades
 
-actividades
+indicadas como permitidas en el
 
-indicadas como
-
-permitidas
-
-en el punto
-
-a.1.3), de la
-
-Zona A.
+punto a.1.3), de la Zona A.
 
 a.1.4) Infraestructura:
 
-Infraestructura
-
-de Transporte: Terminales
-
-rodoviarios,
-
-ferroviarios
-
-y/o helipuertos.
+Infraestructura de Transporte: Terminales rodoviarios, ferroviarios y/o helipuertos.
 
 b) El sistema de agrupamiento será Continuo.
 
@@ -1428,109 +1306,57 @@ En la manzana comprendida por las calles Ismael Valdés Vergara, José Miguel de
 
 En el resto del sector los usos prohibidos son los siguientes:
 
-a.1.1) Residencial: Edificaciones y
+a.1.1) Residencial: Edificaciones y locales
 
-locales destinados
+destinados al hospedaje (se
 
-al hospedaje
+exceptúan aquellos alojamientos
 
-(se exceptúan
+turísticos que se encuentren
 
-aquellos
+clasificados y/o calificados
 
-alojamientos
+por SERNATUR).
 
-turísticos
+a.1.2) Equipamiento: Comercio: Cabaret y/o café
 
-que se encuentren
+espectáculos. Edificaciones y
 
-clasificados y/o
+locales destinados al hospedaje
 
-calificados por
+con servicios comerciales
 
-SERNATUR).
+adjuntos(se exceptúan aquellos
 
-a.1.2) Equipamiento: Comercio: Cabaret
+alojamientos turísticos que se
 
-y/o café
+encuentren clasificados y/o
 
-espectáculos.
+calificados por SERNATUR).
 
-Edificaciones y
+Ferias libres. Edificios de estacionamiento y
 
-locales destinados
+playas de estacionamiento
 
-al hospedaje
+comercial. Servicentros,
 
-con servicios
+establecimiento de venta
 
-comerciales
+minorista de combustibles
 
-adjuntos
+líquidos y/o centros de
 
-(se exceptúan
+servicio automotriz.
 
-aquellos
+Esparcimiento: Hipódromos, circos, parques de
 
-alojamientos
+entretenciones, casinos de
 
-turísticos
+juego, quintas de recreo,
 
-que se encuentren
+juegos electrónicos y/o videos.
 
-clasificados y/o
-
-calificados por
-
-SERNATUR).
-
-Ferias libres. Edificios de
-
-estacionamiento
-
-y playas de
-
-estacionamiento
-
-comercial.
-
-Servicentros,
-
-establecimiento
-
-de venta
-
-minorista
-
-de combustibles
-
-líquidos y/o
-
-centros de
-
-servicio
-
-automotriz.
-
-Esparcimiento: Hipódromos,
-
-circos,
-
-parques de
-
-entretenciones,
-
-casinos de juego,
-
-quintas de recreo,
-
-juegos electrónicos
-
-y/o videos.
-
-Servicios: Casas y/o salas
-
-de masajes.
+Servicios: Casas y/o salas de masajes.
 
 a.1.3) Actividades Productivas, se exceptúan las actividades indicadas como permitidas en el punto a.1.3), de la Zona A.
 
@@ -1570,43 +1396,39 @@ a.1.1) Residencial
 
 a.1.2) Equipamiento: Científico
 
-Comercio, con
+Comercio, con las
 
-las excepciones
+excepciones indicadas en
 
-indicadas
-
-en a.2.1)
+a.2.1)
 
 Culto y Cultura
 
 Deporte, con las
 
-excepciones
+excepciones indicadas en
 
-indicadas
+a.2.1)
 
-en a.2.1) Educación
+Educación
 
-Esparcimiento,
+Esparcimiento, con las
 
-con las
+excepciones indicadas en
 
-excepciones i
+a.2.1)
 
-ndicadas
-
-en a.2.1) Salud,
-
-con las excepciones
+Salud, con las excepciones
 
 indicadas en a.2.1)
 
 Seguridad, con las
 
-excepciones indicadas
+excepciones indicadas en
 
-en a.2.1) Servicios
+a.2.1)
+
+Servicios
 
 Social
 
@@ -1632,97 +1454,59 @@ a.1.6) Areas Verdes
 
 a.2) Usos Prohibidos:
 
-a.2.1) Equipamiento: Comercio: Ferias
+a.2.1) Equipamiento: Comercio: Ferias libres,
 
-libres, playas de
+playas de estacionamiento
 
-estacionamiento
+comercial, este último uso se
 
-comercial, este
-
-último uso se
-
-prohíbe en los
-
-siguientes
+prohibe en los siguientes
 
 sectores:
 
 Sector a: Zona B, comprendida al oriente de la Av. Pdte. Jorge Alessandri R. y al norte de la Alameda Libertador Bernardo O'Higgins.
 
-Sector b:
+Sector b: Norte: Límite sur de la Zona A, entre
 
-Norte: Límite sur de la
+calles San Francisco y San
 
-Zona A, entre
+Isidro.
 
-calles San Francisco
+Sur: Calle Tarapacá entre calles San
 
-y San Isidro.
+Francisco y Santa Rosa y calle
 
-Sur: Calle Tarapacá entre
-
-calles San Francisco
-
-y Santa Rosa y calle
-
-Curicó entre calles
-
-Santa Rosa y
+Curicó entre calles Santa Rosa y
 
 San Isidro.
 
-Oriente: Calle San Isidro
+Oriente: Calle San Isidro entre límite sur
 
-entre límite sur
+de la Zona A y calle Curicó.
 
-de la Zona A y
+Poniente: Calle San Francisco entre límite
 
-calle Curicó.
-
-Poniente: Calle San Francisco
-
-entre límite sur de
-
-la Zona A y calle
+sur de la Zona A y calle
 
 Tarapacá.
 
-Sector c:
+Sector c: Norte: Límite sur de la Zona A, entre
 
-Norte: Límite sur de la
+calles Lord Cochrane y San Diego.
 
-Zona A, entre
+Sur: Calle Eleuterio Ramírez entre
 
-calles Lord Cochrane
+calles Lord Cochrane y San Diego.
 
-y San Diego.
+Oriente: Calle San Diego entre límite sur
 
-Sur: Calle Eleuterio
-
-Ramírez entre
-
-calles Lord Cochrane
-
-y San Diego.
-
-Oriente: Calle San Diego
-
-entre límite sur
-
-de la Zona A y
-
-calle Eleuterio
+de la Zona A y calle Eleuterio
 
 Ramírez.
 
-Poniente: Calle Lord Cochrane
+Poniente: Calle Lord Cochrane entre Alameda
 
-entre Alameda
-
-Libertador Bernardo
-
-O.Higgins y
+Libertador Bernardo O.Higgins y
 
 calle Eleuterio Ramírez.
 
@@ -1732,9 +1516,7 @@ Esparcimiento: Hipódromos y zoológicos.
 
 Salud: Cementerios.
 
-Seguridad: Bases militares,
-
-cuarteles y/o cárceles.
+Seguridad: Bases militares, cuarteles y/o cárceles.
 
 a.2.2) Actividades Productivas, se exceptúan:
 
@@ -1806,7 +1588,9 @@ establecidos en el D.S. Nº 126 de 7 de febrero de 1983, Ministerio de Educació
 
 Zona de Conservación Histórica B3, Catedral - Almte. Barroso - Gral. Bulnes - calle Concha y Toro
 
-a) Superficie subdivisión predial mínima: 250 m2.
+a) Superficie subdivisión predial mínima: 250
+
+m2.
 
 b) Coeficiente máximo de ocupación de suelo:
 
@@ -1910,33 +1694,23 @@ a.1) Usos Permitidos:
 
 a.1.1) Residencial: Vivienda
 
-Edificaciones
+Edificaciones y locales
 
-y locales
+destinados al hospedaje, con
 
-destinados al
-
-hospedaje, con
-
-las excepciones
-
-indicadas en
+las excepciones indicadas en
 
 a.2.1)
 
 a.1.2) Equipamiento: Científico
 
-Comercio, con
-
-las excepciones
+Comercio, con las excepciones
 
 indicadas en a.2.2)
 
 Culto y Cultura
 
-Deporte, con
-
-las excepciones
+Deporte, con las excepciones
 
 indicadas en a.2.2)
 
@@ -1958,163 +1732,83 @@ indicadas en a.2.4).
 
 a.2) Usos Prohibidos:
 
-a.2.1) Residencial: Edificaciones y
+a.2.1) Residencial: Edificaciones y locales
 
-locales
+destinados al hospedaje (se
 
-destinados al
+exceptúan aquellos alojamientos
 
-hospedaje (se
+turísticos que se encuentren
 
-exceptúan aquellos
-
-alojamientos
-
-turísticos que
-
-se encuentren
-
-clasificados
-
-y/o calificados
+clasificados y/o calificados
 
 por SERNATUR).
 
-a.2.2) Equipamiento:
+a.2.2) Equipamiento: Comercio: Ferias libres,
 
-Comercio: Ferias
+supermercados, excepto si
 
-libres,
+cumplen con las siguientes
 
-supermercados,
+condiciones: Superficie
 
-excepto si
+predial máxima de 1.000 m2,
 
-cumplen con
+estacionamientos subterráneos,
 
-las siguientes
+carga y descarga al interior
 
-condiciones: S
+del predio y superficie total
 
-Superficie
+edificada de 2.000 m2. como
 
-predial máxima
+máximo. Establecimiento de
 
-de 1.000 m2,
+venta de combustibles
 
-estacionamientos
+líquidos, incluidas estaciones
 
-subterráneos,
+de servicios, servicentros y/o
 
-carga y descarga
+centros de servicios
 
-al interior
+automotriz. Venta de motores,
 
-del predio y
+máquinas y equipos y/o sus
 
-superficie total
+repuestos, venta de vehículos
 
-edificada de
+motorizados y/o repuestos de
 
-2.000 m2. como
+vehículos motorizados, venta
 
-máximo.
+de casas prefabricadas y/o
 
-Establecimiento de
+rodantes, casas de remate,
 
-venta de
+reciclaje de papeles,
 
-combustibles
+cartones, fierros, plásticos,
 
-líquidos,
+botellas y/o envases de
 
-incluidas estaciones
+cualquier tipo y playas de
 
-de servicios,
+estacionamiento comercial.
 
-servicentros y/o
+Edificaciones y locales
 
-centros de
+destinados al hospedaje con
 
-servicios
+servicios comerciales adjuntos
 
-automotriz. Venta
+(se exceptúan aquellos
 
-de motores,
+alojamientos turísticos que se
 
-máquinas y
+encuentren clasificados y/o
 
-equipos y/o sus
-
-repuestos, venta
-
-de vehículos
-
-motorizados y/o
-
-repuestos de
-
-vehículos
-
-motorizados,
-
-venta de casas
-
-prefabricadas y/o
-
-rodantes, casas
-
-de remate,
-
-reciclaje de
-
-papeles,
-
-cartones, fierros,
-
-plásticos,
-
-botellas y/o
-
-envases de
-
-cualquier tipo
-
-y playas de
-
-estacionamiento
-
-comercial.
-
-Edificaciones y
-
-locales
-
-destinados al
-
-hospedaje con
-
-servicios
-
-comerciales
-
-adjuntos
-
-(se exceptúan
-
-aquellos
-
-alojamientos
-
-turísticos que se
-
-encuentren
-
-clasificados y/o
-
-calificados por
-
-SERNATUR).
+calificados por SERNATUR).
 
 Deporte: Medialunas, baños
 
@@ -2122,17 +1816,11 @@ turcos y/o saunas.
 
 Esparcimiento: Circos, casinos
 
-de juegos,
+de juegos, quintas de recreo,
 
-quintas de recreo,
+juegos electrónicos y/o videos
 
-juegos electrónicos
-
-y/o videos
-
-y/o establecimientos
-
-de juegos
+y/o establecimientos de juegos
 
 de azar.
 
@@ -2140,9 +1828,7 @@ Salud: Cementerios.
 
 Seguridad: Bases militares,
 
-cuarteles y/o
-
-cárceles.
+cuarteles y/o cárceles.
 
 a.2.3) Actividades Productivas: se exceptúan las actividades indicadas como permitidas en el punto a.1.3).
 
@@ -2682,9 +2368,7 @@ La altura de edificación de las alas laterales, centrales o paralelas al cuerpo
 
 Sobre las alturas máximas indicadas no se admitirá la edificación aislada por sobre la continua.
 
-f) Porcentaje mínimo de área libre para usos residenciales y/o establecimientos de educación superior: 40% a nivel natural del terreno
-
-g) Porcentaje mínimo de jardines para usos
+f) Porcentaje mínimo de área libre para usos residenciales y/o establecimientos de educación superior: 40% a nivel natural del terreno g) Porcentaje mínimo de jardines para usos
 
 residenciales: 40% de la superficie destinada a área libre, debiendo considerar la plantación de 5 árboles como mínimo por cada 100m2 de la superficie destinada a jardín.
 
@@ -6400,17 +6084,9 @@ SERVICIOS PROFESIONALES NO CLASIFICADOS EN OTRA PARTE
 
 fotografía)
 
-El 3.4 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica la presente norma de la manera que la propia norma indica.
+> **Nota.** NOTA 15 El 3.2 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el texto de la Ordenanza Local del Plan Regulador Comunal de Santiago, reemplazando la denominación "PRS - 02D" por "PRS - 02E" Zona A, Letra p), Zona B, letra i) y Zona D, letra g).
 
-El numeral 3.1 del numeral 3 del Decreto 6847, Municipalidad de Santiago, publicado el 02.12.2021, modifica el Artículo 30, incorporando un nuevo Sector Especial D11 - "Población Centenario", como señala la citada norma.
-
-El 3.2 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el texto de la Ordenanza Local del Plan Regulador Comunal de Santiago, reemplazando la denominación "PRS - 02D" por "PRS - 02E" Zona A, Letra p), Zona B, letra i) y Zona D, letra g).
-
-> **Nota.** NOTA 15 > El 3.2 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el texto de la Ordenanza Local del Plan Regulador Comunal de Santiago, reemplazando la denominación "PRS - 02D" por "PRS - 02E" Zona A, Letra p), Zona B, letra i) y Zona D, letra g).EEE
-
-> **Nota.** NOTA 16 > El 3.4 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica la presente norma de la manera que la propia norma indica.
-
-> **Nota.** NOTA 17 El numeral 3.1 del numeral 3 del Decreto 6847, Municipalidad de Santiago, publicado el 02.12.2021, modifica el Artículo 30, incorporando un nuevo Sector Especial D11 - "Población Centenario", como señala la citada norma.
+> **Nota.** NOTA 16 El 3.4 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica la presente norma de la manera que la propia norma indica.
 
 CAPITULO V NORMAS MORFOLOGICAS
 
