@@ -1864,6 +1864,16 @@ La ordenanza a que alude el artículo 93 y el reglamento señalado en el artícu
 
 Los consejos comunales de organizaciones de la sociedad civil deberán quedar instalados en el plazo de 60 días, contado desde la fecha de publicación del reglamento mencionado en el inciso precedente.
 
+#### Artículo 6º
+
+No obstante lo dispuesto
+
+en el artículo 106, la próxima elección
+
+municipal se realizará el día domingo 23
+
+de octubre de 2016.
+
 Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
 
 Felipe Harboe Bascuñán, Ministro del Interior (S).
