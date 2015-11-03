@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.215 de 21 de octubre de 2015 , Serviu Región de Valparaíso, dispuesto expropiación parcial conforme al artículo 51 ley 16.391; decreto ley 2.186 de 1978 y decreto exento Nº 173 de 13 de agosto de 2015 del Minvu, del siguiente inmueble: Lote 8 ubicado en Estaciones y VS, comuna de Valparaíso, Rol SII 99328-01, dominio Empresa de Ferrocarriles del Estado, monto Indemnización $146.769.877; Lote 9 ubicado en Estaciones y VS, comuna de Valparaíso, Rol SII 99328-01, dominio Empresa de Ferrocarriles del Estado, monto Indemnización $16.594.632 y lote 10 ubicado en Estaciones y VS, comuna de Valparaíso, Rol SII 99328-01, dominio Empresa de Ferrocarriles del Estado, monto Indemnización $28.191.645; los montos indemnización provisional fueron fijados para por la Comisión Tasadora integrada por Pablo Aragón Bernal (Constructor Civil), Jorge Giacaman Valle (Arquitecto) y Alvaro Verdejo Vidal (Ingeniero Constructor), según informe de fecha agosto de 2015, los que serán pagados al contado.
