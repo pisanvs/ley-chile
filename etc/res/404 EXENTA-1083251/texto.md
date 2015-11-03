@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 404 EXENTA, DE 2015, QUE ORDENA INSTRUIR PROCEDIMIENTO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 404, de fecha 30 de marzo de 2015, ordenó instruir proceso administrativo al Establecimiento Educacional Colegio de Lenguaje Pehuen R.B.D. Nº 20061-1, ubicado en Avenida San Martín Nº0466 de la comuna de Temuco, cuyo sostenedor es Sociedad Educacional Maturana Limitada, RUN Nº 77.196.280-7. Por presuntas contravenciones a la normativa educacional, designando fiscal investigador, formulando cargo y otorgando un plazo para presentar descargos de acuerdo a lo siguiente: 1.- Que, a través de Acta de Fiscalización Nº 1.509.00.430, de fecha 4 de marzo de 2015, se constataron hechos que configuran presuntas contravenciones a la normativa educacional. 2.- Que conforme los antecedentes que constan en el proceso, se ordenó instruir proceso administrativo por el siguiente cargo: Número de Hallazgo 39 Establecimiento No Presenta Rendiciones de Cuentas. Número Sustento (39.00) Establecimiento No Presenta Rendiciones de Cuentas. Norma Transgredida: Estos hechos constituirán una infracción a lo establecido en artículo 54 de la Ley Nº 20.529 de 2011 de Educación y lo prescrito en el artículo 5º del decreto con fuerza de ley Nº 2 de 1998 del Ministerio de Educación. Artículos 7 letra
+
+- **a)** y 32 de la Ley Nº 20.248. Artículos 24 al 27 del decreto supremo Nº 235 de 2008 del Ministerio de Educación. Tipo Infraccional: Grave, Artículo 76 letra
+
+- **a)** de la Ley Nº 20.529. En relación a lo prescrito en el artículo 50 inciso tercero letra
+
+- **i)** del DFL Nº 2 de 1998 de Ministerio de Educación y artículo 34 de la ley Nº 20.248 de 2008.- Se designó Fiscal Instructor a don Jorge Quilodrán Espinoza, funcionario de la Dirección Regional de la Superintendencia de Educación, Región de la Araucanía. 4.- Se deja constancia que el sostenedor dispone, de acuerdo a lo prescrito en el artículo 70 de la ley Nº 20.529, de un plazo de diez días hábiles, contado desde la fecha de notificación, para presentar descargos y los medios de prueba que estime pertinentes ante la fiscalía de la dirección regional ubicada en calle San Martín Nº 895, comuna de Temuco, en horario de lunes a viernes desde las 9:00 horas hasta las 14:00 horas.
+
+Carolina Elgueta G., Encargada Regional de Jurídica
