@@ -56,7 +56,7 @@ El financiamiento y/o cofinanciamiento de CORFO a un Proyecto PAR no podrá exce
 
 Hasta $2.500.000.- (dos millones quinientos mil pesos) por cada empresa, para la implementación de las actividades de asistencia técnica, capacitación, consultoría y auditorías.
 
-Por cada empresa se podrá contemplar un Proyecto de Inversión, cuyo cofinanciamiento de CORFO será de hasta el 75% del total, con un monto máximo de $4.000.000 (cuatro millones de pesos).
+Por cada empresa se podrá contemplar un Proyecto de Inversión, cuyo cofinanciamiento de CORFO será de hasta el 80% del total, con un monto máximo de $4.000.000 (cuatro millones de pesos)
 
 El aporte de la empresa deberá ser siempre pecuniario.
 
