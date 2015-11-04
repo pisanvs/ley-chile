@@ -136,9 +136,9 @@ No obstante el cálculo del monto a distribuir de acuerdo a los artículos 3º y
 
 Distribución de excedentes
 
-Si en virtud de la distribución y los límites señalados en los artículos anteriores, existiese un excedente de recursos considerados en la letra c) del fondo, estos podrán distribuirse entre los sostenedores que correspondan, en caso de dificultades sobrevinientes y extraordinarias, debidamente acreditadas, que pongan en peligro la continuidad de la prestación del servicio educacional de uno o varios establecimientos de un sostenedor, lo que será determinado a través de acto administrativo fundado, sujeto a la tramitación correspondiente.
+Si en virtud de la distribución y los límites señalados en los artículos anteriores, existiese un excedente de recursos considerados en la letra c) del fondo; o si existiese un excedente de recursos considerados en el fondo por incumplimiento de compromisos establecidos en el respectivo convenio de desempeño por parte de algún sostenedor, estos podrán distribuirse entre los sostenedores que correspondan, en caso de dificultades sobrevinientes y extraordinarias, debidamente acreditadas, que pongan en peligro la continuidad de la prestación del servicio educacional de uno o varios establecimientos de un sostenedor, lo que será determinado a través de acto administrativo fundado, sujeto a la tramitación correspondiente.
 
-Con todo, los recursos que se asignen a un sostenedor bajo esta modalidad, no podrán exceder en más de un 60% los montos que se le hayan asignado en la distribución primitiva del total del fondo.
+Con todo, los recursos que se asignen a un sostenedor bajo esta modalidad, no podrán exceder en más de un 60% los montos que se le hayan asignado en la distribución primitiva del total del fondo, salvo si el incumplimiento de dicho sostenedor hubiese generado parte del excedente, en cuyo caso éste no podrá recibir nuevos recursos.
 
 Los montos que se asignen de acuerdo a lo señalado en el presente artículo, incrementarán los montos considerados en el convenio anteriormente suscrito con el sostenedor correspondiente, lo que se llevará a efecto a través de una modificación de convenio, la que se aprobará por el acto administrativo que proceda, sujeto a la tramitación correspondiente.
 
