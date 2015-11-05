@@ -1,0 +1,9 @@
+OFICIALIZA NOMINACIÓN DE MIEMBROS TITULARES Y SUPLENTES DEL SECTOR PRIVADO DEL COMITÉ DE MANEJO DE SARDINA AUSTRAL, X REGIÓN DE LOS LAGOS. DECLÁRESE VACANTE EL CARGO QUE INDICA
+
+Por resolución exenta Nº 2.817, de 21 de octubre de 2015, de esta Subsecretaría, oficialízase como integrantes miembros titulares y suplentes del sector privado de Comité de Manejo de Sardina Austral, X Región de Los Lagos, en representación del Sector Pesquero Artesanal, a don Iván Gómez Vásquez como titular y a don Juan Sanhueza Chaura como suplente, en el primer cargo; a doña Rita Soledad González González como titular y a don Juan Ramón Silva Aguilar como suplente, en el segundo cargo; a don David Roberto Maldonado Miranda como titular y a don Marco Antonio Godoy Gómez como suplente, en el tercer cargo; a don Ricardo Isaac Fernández Mancilla como titular y a don José Jaime Gatica Mansilla como suplente, en el cuarto cargo; a don Luis Jerco Guerrero Barría como titular y a don Adán Ismael Díaz Díaz como suplente, en el quinto cargo; a don Pedro Simón Baus Caro como titular y a don Francisco Alfredo Aravena Barrientos como suplente, en el sexto cargo, todos en representación de la X Región. Declárese vacante el séptimo cargo previsto para dicho sector.
+
+Oficialízase en representación del Sector Plantas de Proceso a don Cristián Rodríguez Lindemann como titular y a don Edgardo García Bernal como suplente.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 21 de octubre de 2015.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
