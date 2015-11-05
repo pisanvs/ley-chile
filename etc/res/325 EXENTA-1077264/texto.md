@@ -42,20 +42,20 @@ Resolución:
 
 2. El subsidio habitacional del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, sólo podrá aplicarse en el proyecto "Conjunto Habitacional Las Dunas" que desarrollará el SERVIU de la Región de Tarapacá, por hasta 950 Unidades de Fomento para cada una de las personas individualizadas en el Resuelvo 1 de la presente resolución.
 
-3. Asígnase un monto de hasta 50 Unidades de Fomento, correspondiente al Subsidio de Densificación en Altura, de acuerdo a lo señalado en el artículo 7 del DS Nº 49 (V. y U.), de 2011, a cada una de las personas individualizadas en el Resuelvo 1 de la presente resolución.
+3. Asígnase un monto de 110 Unidades de Fomento, correspondiente al subsidio de Densificación en Altura, de acuerdo a lo señalado en el artículo 7 del DS Nº49 (V. y U.) de 2011, a cada una de las personas individualizadas en el resuelvo 1 de la presente resolución.
 
 4. Asígnase a cada una de las 118 personas beneficiadas en la presente resolución un monto de hasta 70 Unidades de Fomento para el pago de los servicios de asistencia técnica. La prestación de servicios se regirá conforme a la resolución exenta Nº 8.312 (V. y U.), de 2013.
 
 5. Asígnase un monto de 14,43 Unidades de Fomento a cada una de las personas beneficiadas en el Resuelvo 1 de la presente resolución, para el pago por las labores de Inspección Técnica de Obra. La prestación de servicios se regirá conforme a la resolución exenta Nº 8.312 (V. y U.), de 2013.
 
-6. Los recursos comprometidos conforme los resuelvos 1 a 5 de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 71 de esta SEREMI, de 2015, cuyo cierre de postulación se efectuó el día 18 de marzo de 2015, se detallan en el siguiente cuadro, considerando los montos de subsidio referenciales del proyecto al cual se encuentran vinculados, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras:
+6. Los recursos comprometidos conforme a los resuelvo 1 a 5 de la presente resolución, para los damnificados beneficiados con un subsidio habitacional del llamado especial establecido por resolución exenta Nº 71 de esta Seremi, de 2015, cuyo cierre de postulación se efectuó el día 18 de marzo de 2015, se detallan en el siguiente cuadro, considerando los montos de subsidio referenciales del proyecto al cual se encuentran vinculados, incluidos sus respectivos servicios de inspección técnica de obras:
 
 Nº Familias Selección Monto Subsidios (UF)
 
-130 140.976
+130 139.676
 
 El monto definitivo a considerar para cada postulante seleccionado será determinado al momento de la adscripción al proyecto, por parte del damnificado beneficiado.
 
-4. Los montos asignados mediante la presente resolución, ascendentes a 140.976 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2015 del Programa de Reconstrucción Fondo Solidario de Elección de Vivienda, de la Región de Tarapacá.
+### 4. ELIMINADO
 
 Anótese, comuníquese, publíquese y archívese.- Ricardo Carvajal González, Secretario Regional Ministerial Región de Tarapacá.
