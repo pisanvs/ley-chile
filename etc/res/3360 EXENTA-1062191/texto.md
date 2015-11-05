@@ -16,6 +16,8 @@ Resuelvo:
 
 .
 
+4, 11, 18 y 25 de noviembre de 2015 13:00 14:00
+
 2.- Podrán ingresar excepcionalmente en el tramo señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con proyecto: "Terceras Pistas Tramo II y Nueva Plaza de Peajes Angostura".
 
 3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tránsito.
