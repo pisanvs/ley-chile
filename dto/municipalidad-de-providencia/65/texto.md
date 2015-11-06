@@ -46,13 +46,11 @@ Serán públicos la tarifa y sus antecedentes, de cálculo y recalculo particula
 
 La tarifa anual, calculada en unidades tributarias mensuales, tendrá una vigencia de tres años y se fijará de acuerdo al siguiente procedimiento.
 
-1.- A más tardar el 15 de Julio del año anterior a la entrada en vigencia de un nuevo período tarifario, la Dirección de Administración y Finanzas y la Dirección de Aseo, Ornato y Mantención recolectarán la información que requieran para efectuar el cálculo de la tarifa las que, a más tardar el 1°de Agosto presentarán a una comisión integrada por los directores de dichas unidades, de Control y de la Secretaría de Planificación Comunal. La Comisión deberá presentar al Alcalde la primera propuesta de tarifa a más tardar el 20 de Agosto, con el objeto de que a más tardar el 1°de Septiembre del mismo año, sea comunicada a los usuarios en los términos que se indican en el número siguiente.
+1.- A más tardar el 15 de julio del año anterior a la entrada en vigencia de un nuevo período tarifario, la Dirección de Administración y Finanzas y la Dirección de Medio Ambiente, Aseo, Ornato y Mantención recolectarán la información que requieran para efectuar el cálculo de la tarifa las que, a más tardar el 20 de agosto presentarán a una comisión integrada por los directores de dichas unidades, de Control y de la Secretaría Comunal de Planificación Comunal. La Comisión deberá presentar al Alcalde la primera propuesta de tarifa a más tardar el 15 de septiembre, con el objeto de que a más tardar el 30 de septiembre del mismo año, sea comunicada a los usuarios en los términos que se indican en el número siguiente.
 
-2.- Los usuarios del servicio podrán presentar observaciones fundadas a la proposición de la tarifa, hasta el 15 de Septiembre del año anterior a la entrada en vigencia de un nuevo período tarifario. Para ello, la Municipalidad deberá comunicar a los usuarios del servicio, mediante aviso en el Diario Oficial o en la página web de la Municipalidad
+2.- Los usuarios del servicio podrán presentar observaciones fundadas a la proposición de la tarifa, hasta el 10 de octubre del año anterior a la entrada en vigencia de un nuevo período tarifario. Para ello, la Municipalidad deberá comunicar a los usuarios del servicio, mediante aviso en el Diario Oficial o en la página web de la Municipalidad (http://www.providencia.cl/) o en un diario de entre los tres de mayor circulación de la comuna, el inicio y duración del plazo para formular sus observaciones a la proposición, de la tarifa y facilitar los antecedentes de cálculo.
 
-(http://www.providencia.cl/) o en un diario de entre los tres de mayor circulación de la comuna, el inicio y duración del plazo para formular sus observaciones a la proposición de la tarifa y facilitar los antecedentes de cálculo.
-
-3.- A más tardar el 15 de Octubre del año anterior a la entrada en vigencia de un nuevo período tarifario, el Alcalde deberá presentar la proposición de la tarifa al Concejo Municipal para su aprobación.
+3.- A más tardar el 20 de octubre del año anterior a la entrada en vigencia de un nuevo período tarifario. El Alcalde deberá presentar la proposición de la tarifa al Concejo Municipal para su aprobación.
 
 4.- A más tardar el 31 de Octubre del año anterior a la entrada en vigencia de un nuevo período tarifario, se publicará la Ordenanza Municipal que fije la tarifa para el siguiente período, la que comenzará a regir desde el primero de Enero del año respectivo.
 
@@ -117,6 +115,8 @@ b) Si se opera en forma directa con equipos y personal municipal los gastos vari
 * Gastos de mantención y operación de los recintos destinados a la prestación del servicio, tales como playas de estacionamientos, estaciones de transferencia y rellenos sanitarios.
 
 c) Si se licita parcialmente el servicio a empresas privadas, los gastos variables corresponderán a la suma de los montos establecidos en los contratos de adjudicación respectivos más los gastos variables de operación directa señalados en la letra b)anterior.
+
+d) Aprovisionamiento de fondos que requiera la implementación de proyectos e infraestructura, para cumplir con los procesos de residuos sólidos domiciliarios, campaña de difusión y educación a la comunidad.
 
 Los valores de los costos anuales se expresarán en Unidades Tributarias Mensuales al mes de Junio del año que corresponda.
 
