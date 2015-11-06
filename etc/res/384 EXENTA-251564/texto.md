@@ -10,7 +10,7 @@ Resuelvo:
 
 a) Los servicios de taxis colectivos urbanos cuyos
 
-recorridos pasan por calle Pedro Montt:
+recorridos pasan por calle Máximo Lira:
 
 * Pedro Montt, Avenida Chile, Avenida Luis Beretta
 
@@ -48,7 +48,7 @@ María:
 
 * Santa María, Diego Portales, Av. Chile, Juan
 
-Antonio Ríos, Velásquez, recorrido habitual.
+Antonio Ríos, Velásquez, Chacabuco, recorrido habitual.
 
 * Santa María, Diego Portales, Av. Chile, Chacabuco,
 
@@ -125,6 +125,14 @@ Artesanos:
 * Los Artesanos, Av. Argentina o Av. Azola, Renato
 
 Roca, recorrido habitual.
+
+m) Los servicios de taxis colectivos urbanos cuyos
+
+recorridos pasan por calle Diego Portales en
+
+dirección oriente:
+
+. Diego Portales, Las Gredas, recorrido habitual.
 
 3°.- La presente resolución entrará en vigencia 30 días después de su publicación en el Diario Oficial.
 
