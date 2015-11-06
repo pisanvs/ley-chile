@@ -74,4 +74,6 @@ El polígono Nº1 incorpora totalmente a las comunas de Talagante, Calera de Tan
 
 > **Nota.** El numeral 1 de la Resolución 2991, Agricultura, publicado el 04.11.2014, modifica la presente norma en el sentido de agregar la especie Arándano (Vaccinium corymbosum) en el Control Obligatorio de Polilla del Racimo de la Vid (Lobesia Botrana)en las mismas áreas y polígonos, que la presente norma indica.
 
+> **Nota.** NOTA 1 Los numerales 2 a 10 de la Resolución 3139, Agricultura, publicado el 05.11.2015, modifica la presente norma en el sentido de establecer como nueva área regulada por la detección de la plaga Lobesia botrana en la Región Metropolitana de Santiago, por un área definida por 8 polígonos que la citada norma indica.
+
 Publíquese, notifíquese, anótese y transcríbase.- Óscar Enrique Concha Díaz, Director Regional (TyP) Región Metropolitana.
