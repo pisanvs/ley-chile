@@ -182,13 +182,13 @@ Existirá un juzgado de garantía con asiento en cada una de las siguientes comu
 
 Primera Región de Tarapacá:
 
-Iquique, con cinco jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
+Iquique, con siete jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
 Segunda Región de Antofagasta:
 
 Tocopilla, con un juez, con competencia sobre la misma comuna.
 
-Calama, con tres jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Calama, con cuatro jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
 
 Antofagasta, con siete jueces, con competencia sobre las comunas de Mejillones, Sierra Gorda y Antofagasta.
 
@@ -226,11 +226,11 @@ Quillota, con dos jueces, con competencia sobre la misma comuna.
 
 Limache, con un juez, con competencia sobre las comunas de Limache y Olmué.
 
-Viña del Mar, con siete jueces, con competencia sobre las comunas de Viña del Mar y Concón.
+Viña del Mar, con ocho jueces, con competencia sobre las comunas de Viña del Mar y Concón.
 
 Valparaíso, con nueve jueces, con competencia sobre las comunas de Valparaíso y Juan Fernández.
 
-Quilpué, con dos jueces, con competencia sobre la misma comuna.
+Quilpué, con tres jueces, con competencia sobre la misma comuna.
 
 Villa Alemana, con dos jueces, con competencia sobre la misma comuna.
 
@@ -240,15 +240,15 @@ San Antonio, con cuatro jueces, con competencia sobre las comunas de Algarrobo, 
 
 Sexta Región del Libertador General Bernardo O'Higgins:
 
-Graneros, con un juez, con competencia sobre las comunas de Mostazal, Graneros y Codegua.
+Graneros, con dos jueces, con competencia sobre las comunas de Mostazal, Graneros y Codegua.
 
-Rancagua, con seis jueces, con competencia sobre las comunas de Rancagua, Machalí, Doñihue, Coínco y Olivar.
+Rancagua, con siete jueces, con competencia sobre las comunas de Rancagua, Machalí, Doñihue, Coínco y Olivar.
 
-San Vicente, con un juez, con competencia sobre las comunas de Coltauco, Pichidegua y San Vicente.
+San Vicente, con dos jueces, con competencia sobre las comunas de Coltauco, Pichidegua y San Vicente.
 
 Rengo, con dos jueces, con competencia sobre las comunas de Requínoa, Quinta de Tilcoco, Malloa y Rengo.
 
-San Fernando, con dos jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
+San Fernando, con tres jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
 
 Santa Cruz, con un juez, con competencia sobre las comunas de Santa Cruz, Nancagua, Lolol y Chépica.
 
@@ -260,7 +260,7 @@ Molina, con un juez, con competencia sobre la misma comuna.
 
 Constitución, con dos jueces, con competencia sobre las comunas de Constitución y Empedrado.
 
-Talca, con cuatro jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
+Talca, con cinco jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
 
 San Javier, con un juez, con competencia sobre las comunas de San Javier y Villa Alegre.
 
@@ -320,9 +320,9 @@ Osorno, con cuatro jueces, con competencia sobre las comunas de San Juan de la C
 
 Río Negro, con un juez, con competencia sobre las comunas de Río Negro, Puerto Octay y Purranque.
 
-Puerto Varas, con un juez, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas y Llanquihue.
+Puerto Varas, con dos jueces, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas y Llanquihue.
 
-Puerto Montt, con cuatro jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
+Puerto Montt, con seis jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
 
 Ancud, con un juez, con competencia sobre las comunas de Ancud y Quemchi.
 
@@ -358,29 +358,29 @@ San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo
 
 Melipilla, con tres jueces, con competencia sobre las comunas de Melipilla, San Pedro y Alhué.
 
-Talagante, con siete jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
+Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
 
 Curacaví, con dos jueces, con competencia sobre las comunas de Curacaví y María Pinto.
 
 Habrá además, con asiento en la comuna de Santiago, los siguientes juzgados de garantía:
 
-Primer Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre la comuna de Pudahuel.
+Primer Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre la comuna de Pudahuel.
 
-Segundo Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
+Segundo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
 
-Tercer Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
+Tercer Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre las comunas de Independencia y Recoleta.
 
-Cuarto Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+Cuarto Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
 
-Quinto Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
+Quinto Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
 
-Sexto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
+Sexto Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
 
-Séptimo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre la comuna de Santiago.
+Séptimo Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre la comuna de Santiago.
 
-Octavo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
 
-Noveno Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Noveno Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 
 Décimo Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
 
@@ -388,11 +388,11 @@ Undécimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sob
 
 Duodécimo Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
 
-Decimotercer Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre las comunas de Macul y Peñalolén.
+Decimotercer Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de Macul y Peñalolén.
 
-Decimocuarto Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre la comuna de La Florida.
+Decimocuarto Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre la comuna de La Florida.
 
-Decimoquinto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Ramón y La Pintana.
+Decimoquinto Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de San Ramón y La Pintana.
 
 ### Párrafo 2º
 
@@ -444,13 +444,13 @@ Existirá un tribunal de juicio oral en lo penal con asiento en cada una de las 
 
 Primera Región de Tarapacá:
 
-Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
+Iquique, con once jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
 
 Segunda Región de Antofagasta:
 
-Calama, con tres jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
+Calama, con seis jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
 
-Antofagasta, con nueve jueces, con competencia sobre las comunas de Tocopilla, María Elena, Mejillones, Sierra Gorda, Antofagasta y Taltal.
+Antofagasta, con diez jueces, con competencia sobre las comunas de Tocopilla, María Elena, Mejillones, Sierra Gorda, Antofagasta y Taltal.
 
 Tercera Región de Atacama:
 
@@ -460,19 +460,19 @@ Cuarta Región de Coquimbo:
 
 La Serena, con nueve jueces, con competencia sobre las comunas de La Higuera, Vicuña, La Serena, Coquimbo, Andacollo y Paihuano.
 
-Ovalle, con tres jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
+Ovalle, con cinco jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
 
 Quinta Región de Valparaíso:
 
-San Felipe, con tres jueces, con competencia sobre las comunas de la provincia de San Felipe.
+San Felipe, con cuatro jueces, con competencia sobre las comunas de la provincia de San Felipe.
 
-Los Andes, con tres jueces, con competencia sobre las comunas de la provincia de Los Andes.
+Los Andes, con cuatro jueces, con competencia sobre las comunas de la provincia de Los Andes.
 
 Quillota, con seis jueces, con competencia sobre las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Nogales, Calera, La Cruz, Quillota, Hijuelas, Limache y Olmué.
 
-Viña del Mar, con doce jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
+Viña del Mar, con trece jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
 
-Valparaíso, con doce jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
+Valparaíso, con quince jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
 
 San Antonio, con seis jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
 
@@ -480,9 +480,9 @@ Sexta Región del Libertador General Bernardo O'Higgins:
 
 Rancagua, con doce jueces, con competencia sobre las comunas de Mostazal, Graneros, Codegua, Rancagua, Machalí, Las Cabras, Coltauco, Doñihue, Olivar, Coinco, Requínoa, Peumo, Quinta de Tilcoco, Pichidegua, San Vicente, Malloa y Rengo.
 
-San Fernando, con tres jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
+San Fernando, con cuatro jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
 
-Santa Cruz, con tres jueces, con competencia sobre las comunas de Santa Cruz, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, Pumanque, Nancagua, Lolol y Chépica.
+Santa Cruz, con cuatro jueces, con competencia sobre las comunas de Santa Cruz, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, Pumanque, Nancagua, Lolol y Chépica.
 
 Séptima Región del Maule:
 
@@ -492,7 +492,7 @@ Talca, con seis jueces, con competencia sobre las comunas de Curepto, Río Claro
 
 Linares, con seis jueces, con competencia sobre las comunas de San Javier, Villa Alegre, Colbún, Yerbas Buenas, Linares y Longaví .
 
-Cauquenes, con tres jueces, con competencia sobre las comunas de Chanco, Cauquenes, Pelluhue, Retiro y Parral.
+Cauquenes, con cuatro jueces, con competencia sobre las comunas de Chanco, Cauquenes, Pelluhue, Retiro y Parral.
 
 Octava Región del Bío Bío:
 
@@ -506,11 +506,11 @@ Cañete, con seis jueces, con competencia sobre las comunas de Arauco, Curanilah
 
 Novena Región de La Araucanía:
 
-Angol, con tres jueces, con competencia sobre las comunas de Angol, Renaico, Collipulli, Purén, Los Sauces, Ercilla, Lumaco, Traiguén y Victoria.
+Angol, con cuatro jueces, con competencia sobre las comunas de Angol, Renaico, Collipulli, Purén, Los Sauces, Ercilla, Lumaco, Traiguén y Victoria.
 
 Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea, Cholchol y Padre Las Casas.
 
-Villarrica, con tres jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
+Villarrica, con cuatro jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
 
 Décima Región de Los Lagos:
 
@@ -518,15 +518,15 @@ Osorno, con seis jueces, con competencia sobre las comunas de San Juan de la Cos
 
 Puerto Montt, con seis jueces, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas, Llanquihue, Los Muermos, Puerto Montt, Cochamó, Maullín, Calbuco, Hualaihué, Chaitén, Futaleufú y Palena.
 
-Castro, con tres jueces, con competencia sobre las comunas de Ancud, Quemchi, Dalcahue, Castro, Curaco de Vélez, Quinchao, Chonchi, Puqueldón, Queilén y Quellón.
+Castro, con cuatro jueces, con competencia sobre las comunas de Ancud, Quemchi, Dalcahue, Castro, Curaco de Vélez, Quinchao, Chonchi, Puqueldón, Queilén y Quellón.
 
 Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 
-Coihaique, con tres jueces, con competencia sobre las comunas de Guaitecas, Cisnes, Aisén, Lago Verde, Coihaique, Río Ibáñez, Chile Chico, Cochrane, Tortel y OHiggins.
+Coihaique, con cuatro jueces, con competencia sobre las comunas de Guaitecas, Cisnes, Aisén, Lago Verde, Coihaique, Río Ibáñez, Chile Chico, Cochrane, Tortel y OHiggins.
 
 Duodécima Región de Magallanes y la Antártica Chilena:
 
-Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Navarino y Antártica.
+Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Cabo de Hornos y Antártica.
 
 Decimocuarta Región de los Ríos:
 
@@ -534,7 +534,7 @@ Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco
 
 Decimoquinta Región de Arica y Parinacota:
 
-Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones
+Arica, con diez jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones
 
 Región Metropolitana de Santiago:
 
@@ -550,19 +550,19 @@ Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El M
 
 Habrá además, con asiento en la comuna de Santiago, los siguientes tribunales de juicio oral en lo penal:
 
-Primer Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
+Primer Tribunal de Juicio Oral en lo Penal de Santiago, con doce jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
 
 Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
 
-Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
+Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con diecinueve jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
 
 Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
 
-Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con nueve jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 
 Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
 
-Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
+Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con trece jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
 
 #### Artículo 21
 
@@ -872,7 +872,7 @@ Un juzgado de letras con asiento en la comuna de Putaendo, con competencia sobre
 
 Dos juzgados de letras con asiento en la comuna de Quillota, con competencia sobre las comunas de Quillota y La Cruz;
 
-Un juzgado de letras con asiento en la comuna de Quintero, con competencia sobre las comunas de Quintero y Puchuncaví;
+Un juzgado de letras con asiento en la comuna de Quintero, con dos jueces, con competencia sobre las comunas de Quintero y Puchuncaví;
 
 Un juzgado de letras con asiento en la comuna de Calera, con dos jueces, con competencia sobre las comunas de Calera, Nogales e Hijuelas;
 
@@ -894,9 +894,9 @@ B.- JUZGADOS CON COMPETENCIA COMUN:
 
 Un juzgado con asiento en la comuna de Rengo, con competencia sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
 
-Un juzgado con asiento en la comuna de San Vicente, con competencia sobre las comunas de San Vicente y Pichidegua;
+Un juzgado con asiento en la comuna de San Vicente, con dos jueces, con competencia sobre las comunas de San Vicente y Pichidegua;
 
-Un juzgado con asiento en la comuna de Peumo, con competencia sobre las comunas de Peumo y Las Cabras;
+Un juzgado con asiento en la comuna de Peumo, con dos jueces, con competencia sobre las comunas de Peumo y Las Cabras;
 
 Dos juzgados con asiento en la comuna de San Fernando, con competencia sobre las comunas de San Fernando, Chimbarongo, Placilla y Nancagua, conservando el Segundo Juzgado de Letras de San Fernando competencia especial en materia de menores;
 
@@ -906,7 +906,7 @@ Un juzgado con asiento en la comuna de Pichilemu, con competencia sobre la misma
 
 Un juzgado con asiento en la comuna de Litueche, con competencia sobre las comunas de Navidad, Litueche y La Estrella.
 
-Un juzgado con asiento en la comuna de Peralillo, con competencia sobre las comunas de Marchihue, Paredones, Pumanque, Palmilla y Peralillo.
+Un juzgado con asiento en la comuna de Peralillo, con dos jueces, con competencia sobre las comunas de Marchihue, Paredones, Pumanque, Palmilla y Peralillo.
 
 #### Artículo 34
 
@@ -926,11 +926,11 @@ Un Juzgado con asiento en la comuna de Curepto, con competencia sobre la misma c
 
 Un Juzgado con asiento en la comuna de Licantén, con competencia sobre las comunas de Licantén, Hualañé y Vichuquén;
 
-Un Juzgado con asiento en la comuna de Molina, con competencia sobre las comunas de Molina y Sagrada Familia;
+Un Juzgado con asiento en la comuna de Molina, con dos jueces, con competencia sobre las comunas de Molina y Sagrada Familia;
 
 Dos Juzgados con asiento en la comuna de Linares, con competencia sobre las comunas de Linares, Yerbas Buenas, Colbún y Longaví;
 
-Un Juzgado con asiento en la comuna de San Javier, con competencia sobre las comunas de San Javier y Villa Alegre;
+Un Juzgado con asiento en la comuna de San Javier, con dos jueces, con competencia sobre las comunas de San Javier y Villa Alegre;
 
 Un Juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
 
@@ -956,7 +956,7 @@ Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competenc
 
 Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
 
-Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
+Un juzgado con asiento en la comuna de Bulnes, con dos jueces, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
 
 Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ranquil;
 
@@ -984,7 +984,7 @@ Un juzgado con asiento en la comuna de Lota, con competencia sobre la misma comu
 
 Un juzgado con asiento en la comuna de Coronel, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Lebu, con competencia sobre las comunas de Lebu y Los Alamos;
+Un juzgado con asiento en la comuna de Lebu, con dos jueces, con competencia sobre las comunas de Lebu y Los Alamos;
 
 Un juzgado con asiento en la comuna de Arauco, con competencia sobre la misma comuna;
 
@@ -992,7 +992,7 @@ Un juzgado con asiento en la comuna de Curanilahue, con competencia sobre la mis
 
 Un juzgado con asiento en la comuna de Cañete, con competencia sobre las comunas de Cañete, Contulmo y Tirúa, y
 
-Un juzgado con asiento en la comuna de Cabrero, con competencia sobre la misma comuna.
+Un juzgado con asiento en la comuna de Cabrero, con dos jueces, con competencia sobre la misma comuna.
 
 #### Artículo 36
 
@@ -1024,9 +1024,9 @@ Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las co
 
 Un juzgado con asiento en la comuna de Villarrica, con dos jueces, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt;
+Un juzgado con asiento en la comuna de Nueva Imperial, con dos jueces, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt;
 
-Un juzgado con asiento en la comuna de Pucón, con competencia sobre las comunas de Pucón y Curarrehue;
+Un juzgado con asiento en la comuna de Pucón, con dos jueces, con competencia sobre las comunas de Pucón y Curarrehue;
 
 Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
 
@@ -1048,7 +1048,7 @@ Un Juzgado con asiento en la comuna de Río Negro, con competencia sobre las com
 
 Un Juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
 
-Un Juzgado con asiento en la comuna de Calbuco, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Calbuco, con dos jueces, con competencia sobre la misma comuna;
 
 Un Juzgado con asiento en la comuna de Maullín, con competencia sobre la misma comuna;
 
@@ -1056,7 +1056,7 @@ Un Juzgado con asiento en la comuna de Los Muermos, con competencia sobre la mis
 
 Un Juzgado con asiento en la comuna de Castro, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queilén;
 
-Un Juzgado con asiento en la comuna de Quellón, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Quellón, con dos jueces, con competencia sobre la misma comuna;
 
 Un Juzgado con asiento en la comuna de Ancud, con competencia sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 
@@ -1106,13 +1106,13 @@ Un juzgado con asiento en la comuna de Mariquina, con dos jueces, con competenci
 
 Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
 
-Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Panguipulli, con dos jueces, con competencia sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de La Unión, con dos jueces, con competencia sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
 
-Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
+Un juzgado con asiento en la comuna de Río Bueno, con dos jueces, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
 #### Artículo 39 ter
 
@@ -1334,7 +1334,7 @@ l) El de la Corte de Concepción comprenderá las provincias de Concepción, Ara
 
 m) El de la Corte de Temuco comprenderá la Novena Región, de la Araucanía;
 
-n) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno, de la Décima Región de Los Lagos;
+n) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Ranco, de la Décimo Cuarta Región de Los Ríos, y la provincia de Osorno, de la Décima Región de Los Lagos;
 
 o) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chiloé y Palena, de la Décima Región de Los Lagos;
 
@@ -1998,7 +1998,7 @@ Se reputarán también, en todo caso, como materias de mayor cuantía, para el e
 
 1°) El derecho al goce de los créditos de un capital acensuado; y
 
-2°) Todas las cuestiones relativas a quiebras y a convenios entre el deudor y los acreedores.
+2°) Todas las cuestiones relativas a procedimientos concursales de reorganización o de liquidación entre el deudor y los acreedores.
 
 #### Artículo 132
 
@@ -2010,7 +2010,7 @@ Para determinar la gravedad o levedad en materia criminal, se estará a lo dispu
 
 No se considerará el fuero de que gocen las partes en los juicios de minas, posesorios, sobre distribución de aguas, particiones, en los que se tramiten breve y sumariamente y en los demás que determinen las leyes.
 
-Tampoco se tomará en cuenta el que tengan los acreedores en el juicio de quiebra ni el de los interesados en los asuntos no contenciosos.
+Tampoco se tomará en cuenta el que tengan los acreedores en el procedimiento concursal de liquidación ni el de los interesados en los asuntos no contenciosos.
 
 § 4. Reglas que determinan la competencia en materias civiles entre tribunales de igual jerarquía
 
@@ -2118,7 +2118,7 @@ Para aprobar o autorizar la enajenación, hipotecación o arrendamiento de inmue
 
 #### Artículo 154
 
-Será juez competente en materia de quiebras, cesiones de bienes y convenios entre deudor y acreedores el del lugar en que el fallido o deudor tuviere su domicilio.
+Será juez competente en materia de procedimientos concursales entre deudores y acreedores el del lugar en que el deudor tuviere su domicilio.
 
 #### Artículo 155
 
@@ -2362,21 +2362,21 @@ Son causas de implicancia:
 
 1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente;
 
-2°) Ser el juez consorte o pariente consanguíneo legítimo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado inclusive, o ser padre o hijo natural o adoptivo de alguna de las partes o de sus representantes legales;
+2°) Ser el juez cónyuge, conviviente civil o pariente consanguíneo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado, o ser padre o hijo adoptivo de alguna de las partes o de sus representantes legales;
 
-3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o síndico de alguna quiebra, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
+3°) Ser el juez tutor o curador de alguna de las partes, o ser albacea de alguna sucesión, o veedor o liquidador de un procedimiento concursal, o administrador de algún establecimiento, o representante de alguna persona jurídica que figure como parte en el juicio;
 
-4°) Ser el juez ascendiente o descendiente legítimo, padre o hijo natural o adoptivo del abogado de alguna de las partes;
+4°) Ser el juez ascendiente o descendiente, o padre o hijo adoptivo del abogado de alguna de las partes;
 
 5°) Haber sido el juez abogado o apoderado de alguna de las partes en la causa actualmente sometida a su conocimiento o haber intervenido en ella como mediador;
 
-6°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que deba fallar como juez alguna de las partes;
+6°) Tener el juez, su cónyuge o conviviente civil, sus ascendientes o descendientes, o su padre o hijo adoptivo, causa pendiente en que deba fallar como juez alguna de las partes;
 
-7°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
+7°) Tener el juez, su cónyuge o conviviente civil, sus ascendientes o descendientes, o su padre o hijo adoptivo, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
 
 8°) Haber el juez manifestado su dictamen sobre la cuestión pendiente, con conocimiento de los antecedentes necesarios para pronunciar sentencia; y
 
-9°) Ser el juez, su consorte, o alguno de sus ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, heredero instituído en testamento por alguna de las partes.
+9°) Ser el juez, su cónyuge o conviviente civil, alguno de sus ascendientes o descendientes o su padre o hijo adoptivo, heredero instituido en testamento por alguna de las partes.
 
 Lo dicho en este artículo es sin perjuicio de lo dispuesto en el artículo 1324 y en los incisos tercero y cuarto del artículo 1325 del Código Civil.
 
@@ -2392,23 +2392,23 @@ Respecto de los jueces con competencia criminal, son causas de implicancia, adem
 
 Son causas de recusación:
 
-1°) Ser el juez pariente consanguíneo simplemente ilegítimo en toda la línea recta y en la colateral hasta el cuarto grado inclusive, o consanguíneo legítimo en la línea colateral desde el tercero hasta el cuarto grado inclusive, o afín hasta el segundo grado también inclusive, de alguna de las partes o de sus representantes legales;
+1°) Ser el juez pariente consanguíneo en toda la línea recta y en la colateral hasta el cuarto grado, o afín hasta el segundo grado, de alguna de las partes o de sus representantes legales;
 
-2°) Ser el juez ascendiente o descendiente ilegítimo, hermano o cuñado legítimo o natural del abogado de alguna de las partes;
+2°) Ser el juez ascendiente o descendiente, hermano o cuñado del abogado de alguna de las partes;
 
 3°) Tener el juez superior alguno de los parentescos designados en el inciso precedente o en el N° 4° del artículo 195, con el juez inferior que hubiere pronunciado la sentencia que se trata de confirmar o revocar;
 
 4°) Ser alguna de las partes sirviente, paniaguado o dependiente asalariado del juez, o viceversa;
 
-5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su consorte, o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+5°) Ser el juez deudor o acreedor de alguna de las partes o de su abogado; o serlo su cónyuge o conviviente civil o alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
 Sin embargo, no tendrá aplicación la causal del presente número si una de las partes fuere alguna de las instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, la Asociación Nacional de Ahorro y Préstamo, o uno de los Servicios de Vivienda y Urbanización, a menos que estas instituciones u organismos ejerciten actualmente cualquier acción judicial contra el juez o contra alguna otra de las personas señaladas o viceversa;
 
-6°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
+6°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente que deba fallar como juez alguna de las partes;
 
-7°) Tener alguno de los ascendientes o descendientes simplemente ilegítimos del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez debe fallar;
+7°) Tener alguno de los ascendientes o descendientes del juez o los parientes colaterales del mismo dentro del segundo grado, causa pendiente en que se ventile la misma cuestión que el juez deba fallar;
 
-8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su consorte, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
+8°) Tener pendientes alguna de las partes pleito civil o criminal con el juez, con su cónyuge o conviviente civil, o con alguno de sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
 Cuando el pleito haya sido promovido por alguna de las partes, deberá haberlo sido antes de la instancia en que se intenta la recusación;
 
@@ -2416,11 +2416,11 @@ Cuando el pleito haya sido promovido por alguna de las partes, deberá haberlo s
 
 10) Haber el juez manifestado de cualquier modo su dictamen sobre la cuestión pendiente, siempre que lo hubiere hecho con conocimiento de ella;
 
-11) Ser alguno de los ascendientes o descendientes ilegítimos del juez o alguno de sus parientes colaterales dentro del segundo grado, instituído heredero en testamento por alguna de las partes;
+11) Ser alguno de los ascendientes o descendientes del juez o alguno de sus parientes colaterales dentro del segundo grado, instituido heredero en testamento por alguna de las partes;
 
 12) Ser alguna de las partes heredero instituído en testamento por el juez;
 
-13) Ser el juez socio colectivo, comanditario o de hecho de alguna de las partes, serlo su consorte o alguno de los ascendientes o descendientes del mismo juez, o alguno de sus parientes colaterales dentro del segundo grado;
+13) Ser el juez socio colectivo, comanditario o de hecho de alguna de las partes, serlo su cónyuge o conviviente civil, o alguno de los ascendientes o descendientes del mismo juez, o alguno de sus parientes colaterales dentro del segundo grado;
 
 14) Haber el juez recibido de alguna de las partes un beneficio de importancia, que haga presumir empeñada su gratitud;
 
@@ -2446,7 +2446,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 6.627 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 4.993 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 6.930 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.220 pesos.
 
 #### Artículo 199
 
@@ -2924,25 +2924,25 @@ No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los par
 
 #### Artículo 259
 
-No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal judicial de la Corte Suprema por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
+No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal judicial de la Corte Suprema por matrimonio, por un acuerdo de unión civil, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
 
-Quien sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
+Quien sea cónyuge, conviviente civil, o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
 
-En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
+En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge, conviviente civil, o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
 
-En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
+En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio, por un acuerdo de unión civil, o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
 
-Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio o alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema.
+Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio, celebraren un acuerdo de unión civil o pasaren a tener alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema. Esta última regla se aplicará también cuando las personas se encuentren unidas por un acuerdo de unión civil.
 
-El ministro de la Corte Suprema que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
+El ministro de la Corte Suprema que sea cónyuge, que tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
 
 #### Artículo 260
 
-No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal judicial de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer. El mismo impedimento se aplicará a aquellos que tengan un acuerdo de unión civil con los referidos ministros o fiscales.
 
-No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
 
-Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
+Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga un acuerdo de unión civil o alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
 
 #### Artículo 261
 
@@ -3552,7 +3552,7 @@ La Corte Suprema, mediante auto acordado dictado en diciembre de cada año, sobr
 
 #### Artículo 316
 
-Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
+Es prohibido a los jueces ejercer la abogacía; y sólo podrán defender causas personales o de sus cónyuges, convivientes civiles, ascendientes, descendientes, hermanos o pupilos.
 
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
 
@@ -3582,7 +3582,7 @@ Deben igualmente abstenerse de dar oído a toda alegación que las partes, o ter
 
 #### Artículo 321
 
-Se prohibe a todo juez comprar o adquirir a cualquier título para sí, para su cónyuge o para sus hijos las cosas o derechos que se litiguen en los juicios de que él conozca.
+Se prohibe a todo juez comprar o adquirir a cualquier título para sí, para su cónyuge, para su conviviente civil, o para sus hijos las cosas o derechos que se litiguen en los juicios de que él conozca.
 
 Se extiende esta prohibición a las cosas o derechos que han dejado de ser litigiosos, mientras no hayan transcurrido cinco años desde el día en que dejaron de serlo; pero no comprende las adquisiciones hechas a título de sucesión por causa de muerte, si el adquirente tuviere respecto del difunto la calidad de heredero abintestato.
 
@@ -4876,7 +4876,7 @@ En los permisos hasta por dos meses el notario, conservador y archivero podrá p
 
 #### Artículo 479
 
-Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, ascendientes, descendientes, hermanos o pupilos.
+Es prohibido a los auxiliares de la Administración de Justicia ejercer la abogacía y sólo podrán defender causas personales o de sus cónyuges, convivientes civiles, ascendientes, descendientes, hermanos o pupilos.
 
 Les es igualmente prohibido representar en juicio a otras personas que las mencionadas en el precedente inciso.
 
@@ -5150,7 +5150,7 @@ Todo el personal de la Corporación se regirá por las normas legales y reglamen
 
 Su nombramiento se hará directamente por la Corte Suprema previo concurso de antecedentes y examen de oposición, en su caso, a que llamará el Consejo Superior. Serán de la exclusiva confianza de la Corte Suprema y ésta podrá removerlos a su arbitrio.
 
-En ningún caso podrán ser designados como director o subdirector los cónyuges ni los parientes consanguíneos o afines de un funcionario del Escalafón Primario del Poder Judicial o de la Corporación, que se hallen dentro del segundo grado en la línea recta o del tercero en la colateral.
+En ningún caso podrán ser designados como director o subdirector los cónyuges ni los parientes consanguíneos o afines de un funcionario del Escalafón Primario del Poder Judicial o de la Corporación, que se hallen dentro del segundo grado en la línea recta o del tercero en la colateral. Este impedimento también se aplicará a las personas que tengan un acuerdo de unión civil con un funcionario del referido escalafón.
 
 La calificación anual de este personal la hará la Corte Suprema previo informe del Consejo Superior.
 

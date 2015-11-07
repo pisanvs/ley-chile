@@ -18,11 +18,11 @@ Créase un Juzgado de Letras del Trabajo, con asiento en cada una de las siguien
 
 a) Primera Región, de Tarapacá:
 
-Iquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Hospicio;
+Iquique, con tres jueces, con competencia sobre la comuna de Iquique;
 
 b) Segunda Región, de Antofagasta:
 
-Antofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; y Calama, con dos jueces, con competencia sobre las comunas de la provincia de El Loa;
+Antofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, y Sierra Gorda; y Calama, con dos jueces, con competencia sobre las comunas de la provincia de El Loa;
 
 c) Tercera Región, de Atacama:
 
@@ -60,7 +60,7 @@ Puerto Montt, con tres jueces, con competencia sobre las comunas de Puerto Montt
 
 k) Undécima Región de Aysén, del General Carlos Ibáñez del Campo: Coyhaique, con un juez con competencia sobre la misma comuna;
 
-k bis) Duodécima Región, de Magallanes y Antártica Chilena: Punta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+k bis) Duodécima Región, de Magallanes y Antártica Chilena: Punta Arenas, con un juez, con competencia sobre las comunas de la provincia de Magallanes;
 
 l) Región Metropolitana de Santiago: Santiago con veintiséis jueces, agrupados en dos juzgados, con trece jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
@@ -102,7 +102,7 @@ Juzgados con cinco jueces: cinco jueces, un administrador, tres jefes de unidad,
 
 Juzgados con trece jueces: trece jueces, un administrador, tres jefes de unidad, nueve administrativos jefe, diez administrativos 1º, ocho administrativos 2º, seis administrativos 3º y ocho auxiliares.
 
-Sin perjuicio de lo señalado en el inciso precedente, los Juzgados de Letras del Trabajo de Valparaíso y Concepción contarán con: tres jueces, un administrador, dos jefes de unidad, cuatro administrativos jefe, cuatro administrativos 1º, tres administrativos 2º, un administrativo 3º y cuatro auxiliares; y los Juzgados de Letras del Trabajo de San Bernardo y Puente Alto contarán con: dos jueces, un administrador, un jefe de unidad, dos administrativos jefe, tres administrativos 1º, dos administrativos 2º, un administrativo 3º y cuatro auxiliares.
+Sin perjuicio de lo señalado en el inciso precedente, los Juzgados de Letras del Trabajo de San Bernardo y Puente Alto contarán con: dos jueces, un administrador, un jefe de unidad, dos administrativos jefe, tres administrativos 1º, dos administrativos 2º, un administrativo 3º y cuatro auxiliares.
 
 #### Artículo 4°
 
@@ -184,9 +184,11 @@ d) Santiago, con seis jueces, con competencia sobre la provincia de Santiago, co
 
 Los Juzgados de Cobranza Laboral y Previsional que se crean en esta ley tendrán la siguiente planta de personal:
 
-Juzgados con un juez: un juez, un administrador, un administrativo jefe, tres administrativos 1°, dos administrativos 2° y un auxiliar.
+a) Juzgados con un juez: un juez, un administrador, un administrativo jefe, tres administrativos 1º, dos administrativos 2º y un auxiliar.
 
-Juzgados con seis jueces: seis jueces, un administrador, tres administrativos jefe, cinco administrativos 1°, ocho administrativos 2°, seis administrativos 3° y dos auxiliares.
+b) Juzgados con dos jueces: un administrador, un jefe de unidad, un administrativo jefe, tres administrativos 1º, tres administrativos 2º, un administrativo 3º y un auxiliar.
+
+c) Juzgados con ocho jueces: un administrador, tres jefes de unidad, tres administrativos jefe, seis administrativos 1º, ocho administrativos 2º, seis administrativos 3º y dos auxiliares.
 
 #### Artículo 10
 

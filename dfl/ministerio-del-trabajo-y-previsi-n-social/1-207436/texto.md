@@ -248,7 +248,7 @@ Para computar la proporción a que se refiere el artículo anterior, se seguirá
 
 2.- se excluirá al personal técnico especialista;
 
-3.- se tendrá como chileno al extranjero cuyo cónyuge o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
+3.- se tendrá como chileno al extranjero cuyo cónyuge o conviviente civil o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
 
 4.- se considerará también como chilenos a los extranjeros residentes por más de cinco años en el país, sin tomarse en cuenta las ausencias accidentales.
 
@@ -676,7 +676,7 @@ Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas jud
 
 El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos.
 
-Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
+Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge, conviviente civil o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
 
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
 
@@ -704,7 +704,7 @@ En los casos de los incisos anteriores, el empleador estará obligado a efectuar
 
 En caso de fallecimiento del trabajador, las remuneraciones que se adeudaren serán pagadas por el empleador a la persona que se hizo cargo de sus funerales, hasta concurrencia del costo de los mismos.
 
-El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán al cónyuge, a los hijos legítimos o naturales o a los padres legítimos o naturales del fallecido, unos a falta de los otros, en el orden indicado, bastando acreditar el estado civil respectivo.
+El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán, en orden de precedencia, al cónyuge o conviviente civil, a los hijos o a los padres del fallecido.
 
 Lo dispuesto en el inciso precedente sólo operará tratándose de sumas no superiores a cinco unidades tributarias anuales.
 
@@ -768,7 +768,7 @@ DEL FERIADO ANUAL Y DE LOS PERMISOS
 
 #### Artículo 66
 
-En el caso de muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+En el caso de muerte de un hijo así como en el de muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 
 Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
 
@@ -2770,7 +2770,7 @@ La mujer que se encuentre en el período de descanso de maternidad a que se refi
 
 Cuando la salud de un niño menor de un año requiera de atención en el hogar con motivo de enfermedad grave, circunstancia que deberá ser acreditada mediante certificado médico otorgado o ratificado por los servicios que tengan a su cargo la atención médica de los menores, la madre trabajadora tendrá derecho al permiso y subsidio que establece el artículo anterior por el período que el respectivo servicio determine. En el caso que ambos padres sean trabajadores, cualquiera de ellos y a elección de la madre, podrá gozar del permiso y subsidio referidos. Con todo, gozará de ellos el padre, cuando la madre hubiere fallecido o él tuviere la tuición del menor por sentencia judicial.
 
-Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge, en los mismos términos señalados en el inciso anterior.
+Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge o conviviente civil, en los mismos términos señalados en el inciso anterior.
 
 Si los beneficios precedentes fueren obtenidos en forma indebida, los trabajadores involucrados serán solidariamente responsables de la restitución de las prestaciones pecuniarias percibidas, sin perjuicio de las sanciones penales que por este hecho les pudiere corresponder.
 
@@ -4894,7 +4894,7 @@ Iquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Ho
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
+Antofagasta, con cuatro jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
 
 c) Tercera Región, de Atacama:
 
@@ -4906,7 +4906,7 @@ La Serena, con tres jueces, con competencia sobre las comunas de Coquimbo, La Se
 
 e) Quinta Región, de Valparaíso:
 
-Valparaíso, con tres jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;
+Valparaíso, con cinco jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;
 
 f) Sexta Región, del Libertador General Bernardo O'Higgins:
 
@@ -4920,9 +4920,7 @@ Talca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río
 
 h) Octava Región, del Bío-Bío:
 
-Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con tres jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los
-
-Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
+Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con cinco jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
 
 i) Novena Región, de la Araucanía:
 
@@ -4938,7 +4936,7 @@ l) Décimo Segunda Región, de Magallanes y Antártica Chilena:
 
 Punta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
 
-m) Santiago con veintiséis jueces, agrupados en dos juzgados, con trece jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
+m) Santiago, con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
@@ -4956,13 +4954,13 @@ Arica, con dos jueces, con competencia sobre las comunas de las provincias de Ar
 
 Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:
 
-a) Valparaíso, con un juez, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
+a) Valparaíso, con dos jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
 
-b) Concepción, con un juez, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;
+b) Concepción, con dos jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;
 
-c) San Miguel, con un juez, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
+c) San Miguel, con dos jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
 
-d) Santiago, con seis jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
+d) Santiago, con ocho jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
 
 #### Artículo 417
 
