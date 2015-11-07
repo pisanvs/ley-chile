@@ -18,11 +18,11 @@ Que existen familias pertenecientes a comunidades indígenas de algunas comunas 
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de La Araucanía para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual para familias con proyecto, en la modalidad de Construcción en Sitio Propio, de las comunas de Freire y de Lumaco, por un monto total de hasta 123.000 unidades de fomento, a realizarse durante el mes de septiembre de 2015.
+1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de La Araucanía para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual para familias con proyecto, en la modalidad de Construcción en Sitio Propio, de las comunas de Freire y de Lumaco, por un monto total de hasta 123.000 unidades de fomento, a realizarse durante el mes de Noviembre de 2015.
 
 2. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de La Araucanía para establecer las condiciones especiales requeridas para la participación de las personas con sus proyectos asociados en el llamado autorizado mediante la presente resolución, de acuerdo a lo establecido en el artículo 21 del D.S. Nº 49 (V. y U.), de 2011, cuyo texto fue reemplazado por el artículo primero del D.S. Nº 105 (V. y U.), de 2014.
 
-3. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual con proyecto, en la modalidad de Construcción en Sitio Propio, los proyectos asociados a las personas postulantes deben contar con certificado de Calificación Definitiva o Condicional otorgado hasta el 11.09.2015.
+3. A la fecha de cierre de este llamado en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual con proyecto, en la modalidad de Construcción en Sitio Propio, los proyectos asociados a las personas postulantes deben contar con certificado de Calificación Definitiva o Condicional otorgado hasta el 30.11.2015.
 
 4. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios, si corresponde.
 
@@ -30,7 +30,7 @@ Resolución:
 
 6. En el marco del presente llamado, cuando se otorgue el subsidio de habilitación, al que se refiere la letra h) del artículo 35 del D.S. Nº 49 (V. y U.), de 2011, a los proyectos que resulten beneficiados por el presente llamado y existan saldos del monto otorgado, estos podrán ser redestinados a los proyectos que así lo requieran, de acuerdo a la evaluación técnica y económica que realice el Serviu de la Región de La Araucanía.
 
-7. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de La Araucanía, que se deberá publicar en el Diario Oficial, se aprobará la nómina de personas seleccionadas, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá estar sancionada con fecha máxima de 30 de octubre de 2015. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+7. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de La Araucanía, que se deberá publicar en el Diario Oficial, se aprobará la nómina de personas seleccionadas, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá estar sancionada con fecha máxima de 31 de diciembre de 2015. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 8. Impútase el monto de hasta 123.000 unidades de fomento asignado en esta resolución, a los recursos autorizados a la Región de La Araucanía, para el Programa Habitacional Fondo Solidario de Elección de Vivienda, del año 2015.
 
