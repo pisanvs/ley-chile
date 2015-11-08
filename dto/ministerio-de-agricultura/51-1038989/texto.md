@@ -30,233 +30,387 @@ El presente Reglamento regula el "Sistema de Incentivos para la Sustentabilidad 
 
 Para los efectos de este Reglamento se entenderá por:
 
-1. Aporte financiero adicional: aquel que decida realizar el postulante, que
+1. Aporte financiero adicional: aquel que decida realizar
 
-le permite solicitar un monto de incentivo inferior al máximo posible de
+el postulante, que le permite solicitar un monto de
 
-acceder con su Plan de Manejo, a fin de obtener un puntaje mayor en el
+incentivo inferior al máximo posible de acceder con su
 
-proceso de selección, de acuerdo a lo establecido en las Bases del
+Plan de Manejo, a fin de obtener un puntaje mayor
 
-Concurso al cual postula.
+en el proceso de selección, de acuerdo a lo
 
-2. Asistencia técnica para la ejecución del Plan de Manejo: asesoría
+establecido en las Bases del Concurso al
 
-prestada al usuario por un operador acreditado, conducente a elaborar,
+cual postula.
 
-acompañar y apoyar la adecuada ejecución técnica en terreno de aquellas
+2. Asistencia técnica para la ejecución del Plan de
 
-prácticas comprometidas en el Plan de Manejo.
+Manejo: asesoría prestada al usuario por un
 
-3. Bosque: sitio poblado con formaciones vegetales en las que predominan
+operador acreditado, conducente a elaborar,
 
-árboles y que ocupa una superficie de por lo menos 5.000 metros
+acompañar y apoyar la adecuada ejecución técnica
 
-cuadrados, con un ancho mínimo de 40 metros, con cobertura de copa
+en terreno de aquellas prácticas comprometidas
 
-arbórea que supere el 10% de dicha superficie total en condiciones áridas
+en el Plan de Manejo, sólo podrán postular
 
-y semiáridas y el 25% en circunstancias más favorables, según lo
+a esta asistencia, los pequeños productores
 
-establecido en el numeral 2) del artículo 2º de la ley Nº 20.283.
+agrícolas.
 
-4. Capacitación: actividad destinada a transmitir conocimientos técnicos o
+2 bis. Asistencia técnica para la elaboración del Plan
 
-administrativos necesarios para el mejor logro de los objetivos del
+de Manejo: asesoría prestada al usuario por un
 
-Programa, implementada por el Instituto de Desarrollo Agropecuario, en
+operador acreditado para la confección de un plan
 
-adelante indistintamente INDAP, o por el Servicio Agrícola y Ganadero, en
+de manejo, la que debe contener, además de la
 
-adelante indistintamente SAG, o por terceros a su nombre y con su
+documentación exigida, una propuesta de las
 
-autorización, en materias propias del Programa.
+prácticas a postular, señalando la descripción
 
-5. Costo neto: valor de los insumos o labores susceptibles de ser
+pormenorizada de ellas y la ubicación de los potreros
 
-bonificadas sin considerar el impuesto al valor agregado, según se
+a intervenir, sólo podrán postular a esta asistencia,
 
-establezca en la Tabla Anual de Costos.
+los pequeños productores agrícolas.
 
-6. Cubierta vegetal permanente: formación vegetal herbácea o arbustiva
+3. Bosque: sitio poblado con formaciones vegetales
 
-perenne con una densidad tal que permita tanto la protección del suelo
+en las que predominan árboles y que ocupa una
 
-como su uso agropecuario, de conformidad al artículo 4º de este
+superficie de por lo menos 5.000 metros cuadrados,
 
-Reglamento.
+con un ancho mínimo de 40 metros, con cobertura
 
-7. Especialidad: práctica o grupo de prácticas sobre las cuales un operador
+de copaarbórea que supere el 10% de dicha
 
-rinde satisfactoriamente una prueba de suficiencia, que lo faculta para
+superficie total en condiciones áridas y
+
+semiáridas y el 25% en circunstancias más
+
+favorables, según lo establecido en el
+
+numeral 2) del artículo 2º de la ley
+
+Nº 20.283.
+
+4. Capacitación: actividad destinada a transmitir
+
+conocimientos técnicos o administrativos necesarios
+
+para el mejor logro de los objetivos del Programa,
+
+implementada por el Instituto de Desarrollo
+
+Agropecuario, en adelante indistintamente INDAP,
+
+o por el Servicio Agrícola y Ganadero, en adelante
+
+indistintamente SAG, o por terceros a su nombre
+
+y con su autorización, en materias propias
+
+del Programa.
+
+5. Costo neto: valor de los insumos o labores
+
+susceptibles de ser bonificadas sin considerar el
+
+impuesto al valor agregado, según se establezca
+
+en la Tabla Anual de Costos.
+
+6. Cubierta vegetal permanente: formación vegetal
+
+herbácea o arbustiva perenne con una densidad tal
+
+que permita tanto la protección del suelo como su
+
+uso agropecuario, de conformidad al artículo 4º
+
+de este Reglamento.
+
+7. Especialidad: práctica o grupo de prácticas sobre
+
+las cuales un operador rinde satisfactoriamente
+
+una prueba de suficiencia, que lo faculta para
 
 inscribirse en el Registro correspondiente.
 
-8. Exclusión de uso de áreas de protección: aquellos sectores de extrema
+8. Exclusión de uso de áreas de protección: aquellos
 
-fragilidad y escaso desarrollo de suelo, donde la única práctica posible
+sectores de extrema fragilidad y escaso desarrollo
 
-de implementar es mantener la cubierta vegetal herbácea sin carga animal
+de suelo, donde la única práctica posible de
 
-por un período mínimo de tres años.
+implementar es mantener la cubierta vegetal
 
-9. Fertilización de mantención: aquella que tiene por finalidad evitar que
+herbácea sin carga animal por un período mínimo
 
-los suelos se retrotraigan por debajo del nivel mínimo técnico alcanzado,
+de tres años.
 
-a fin de que éstos mantengan su capacidad productiva sin sufrir
+9. Fertilización de mantención: aquella que tiene
 
-degradación o pérdida de sus niveles naturales de elementos nutritivos.
+por finalidad evitar que los suelos se retrotraigan
 
-10. Fertilización de recuperación o corrección: aquella que consiste en
+por debajo del nivel mínimo técnico alcanzado, a
 
-aplicar fertilizantes al suelo para elevar su contenido actual de fósforo
+fin de que éstos mantengan su capacidad productiva
 
-u otros elementos químicos esenciales, hasta el nivel referencial
+sin sufrir degradación o pérdida de sus niveles
 
-establecido como nivel mínimo técnico.
+naturales de elementos nutritivos.
 
-11. Formación xerofítica: formación vegetal, constituida por especies
+10. Fertilización de recuperación o corrección:
 
-autóctonas, preferentemente arbustivas o suculentas, de áreas de
+aquella que consiste en aplicar fertilizantes al
 
-condiciones áridas o semiáridas ubicadas entre las Regiones de Tarapacá y
+suelo para elevar su contenido actual de fósforo u
 
-Coquimbo, incluidas la Metropolitana de Santiago y la Región de Los Ríos
+otros elementos químicos esenciales, hasta el nivel
 
-y en las depresiones interiores de las Regiones del Maule y del Biobío,
+referencial establecido como nivel mínimo técnico.
 
-según lo establecido en el numeral 14, del artículo 2º de la ley Nº
+11. Formación xerofítica: formación vegetal,
 
-20.283.
+constituida por especies autóctonas, preferentemente
 
-12. Georreferenciación: Se refiere al posicionamiento o localización de un
+arbustivas o suculentas, de áreas de condiciones
 
-punto, una línea o un área en la superficie terrestre, en un sistema de
+áridas o semiáridas ubicadas entre las Regiones
+
+de Tarapacá y Coquimbo, incluidas la Metropolitana
+
+de Santiago y la Región de Los Ríos y en las
+
+depresiones interiores de las Regiones del Maule
+
+y del Biobío, según lo establecido en el numeral
+
+14, del artículo 2º de la ley Nº 20.283.
+
+12. Georreferenciación: Se refiere al posicionamiento
+
+o localización de un punto, una línea o un área
+
+en la superficie terrestre, en un sistema de
 
 coordenadas y un datum determinado.
 
-13. Gran productor agrícola: persona que tenga esta condición por tener un
+13. Gran productor agrícola: persona que tenga
 
-nivel de ventas anuales brutas superior a las 25.000 Unidades de Fomento.
+esta condición por tener un nivel de ventas
 
-14. Labores anticipadas: aquellas prácticas realizadas con anterioridad a la
+anuales brutas superior a las 25.000 Unidades
 
-fecha de postulación del Plan de Manejo respectivo y desde una fecha
+de Fomento.
 
-definida por el Director Regional del SAG o del INDAP, según corresponda,
+14. Labores anticipadas: aquellas prácticas
 
-con opinión del Comité Técnico Regional, en adelante indistintamente CTR,
+realizadas con anterioridad a la fecha de
 
-lo que será establecido en las bases de los respectivos concursos.
+postulación del Plan de Manejo respectivo y
 
-15. Mediano productor agrícola: persona que tenga esta condición por tener un
+desde una fecha definida por el Director
 
-nivel de ventas anuales brutas superior a las 2.400 UF y que no exceda
+Regional del SAG o del INDAP, según
 
-las 25.000 UF.
+corresponda, con opinión del Comité Técnico
 
-16. Pago parcial: corresponde al pago de las prácticas, determinadas en este
+Regional, en adelante indistintamente CTR,
 
-Reglamento, efectivamente ejecutadas a una cierta etapa del año. Este
+lo que será establecido en las bases de
 
-pago no libera al agricultor de la obligación del cumplimiento de la
+los respectivos concursos.
 
-totalidad de las prácticas comprometidas en el Plan de Manejo.
+15. Mediano productor agrícola: persona que
 
-17. Pago proporcional: corresponde al pago de parte de las prácticas
+tenga esta condición por tener un nivel
 
-comprometidas en el Plan de Manejo, existiendo la imposibilidad de
+de ventas anuales brutas superior a las
 
-ejecutar las restantes, en razón de emergencia agrícola o catástrofe
+2.400 UF y que no exceda las 25.000 UF.
 
-declarada por la autoridad competente o razones de fuerza mayor,
+16. Pago parcial: corresponde al pago de las
 
-calificada por el Director Regional del SAG o INDAP, según corresponda.
+prácticas, determinadas en este Reglamento,
 
-18. Plan de Manejo de Mantención: aquel Plan de Manejo definido en la letra
+efectivamente ejecutadas a una cierta
 
-f) del artículo 2º de la ley, que contenga prácticas que eviten que los
+etapa del año. Este pago no libera al
 
-suelos se retrotraigan por debajo del nivel mínimo técnico alcanzado.
+agricultor de la obligación del cumplimiento
 
-19. Plan de Manejo de Recuperación: aquel Plan de Manejo definido en la letra
+de la totalidad de las prácticas
 
-f) del artículo 2º de la ley, que contenga prácticas destinadas a reparar
+comprometidas en el Plan de Manejo.
 
-el o los déficit químicos, físicos o biológicos que tenga un suelo
+17. Pago proporcional: corresponde al pago de
 
-determinado, para llevarlo al nivel mínimo técnico para enfrentar
+parte de las prácticas comprometidas en el
 
-adecuada y sosteniblemente el proceso productivo.
+Plan de Manejo, existiendo la imposibilidad
 
-20. Potrero: área al interior de un predio debidamente delimitado,
+de ejecutar las restantes, en razón de
 
-habitualmente a través de cercos, destinada a un mismo uso o manejo, como
+emergencia agrícola o catástrofe declarada
 
-por ejemplo cultivos anuales, hortalizas o empastadas.
+por la autoridad competente o razones de
 
-21. Práctica: tarea específica que contribuye al mantenimiento y mejora del
+fuerza mayor, calificada por el Director
 
-recurso suelo, en el ámbito de alguna de las actividades o subprogramas
+Regional del SAG o INDAP, según corresponda.
 
-establecidos en el inciso segundo del artículo 3º de la ley.
+18. Plan de Manejo de Mantención: aquel Plan de
 
-22. Prácticas agroambientales: prácticas que contribuyen al mantenimiento y
+Manejo definido en la letra f) del artículo 2º
 
-mejora del recurso suelo, a través de la puesta en marcha de métodos de
+de la ley, que contenga prácticas que eviten
 
-producción agropecuaria respetuosos con el medio ambiente, las cuales
+que los suelos se retrotraigan por debajo del
 
-eventualmente pueden ocasionar pérdida de renta o mayores costos para el
+nivel mínimo técnico alcanzado.
 
-productor.
+19. Plan de Manejo de Recuperación: aquel Plan
 
-23. Pequeño productor agrícola: persona que tenga esta calidad de acuerdo a
+de Manejo definido en la letra f) del
 
-lo establecido en la ley Nº 18.910, orgánica del INDAP; aquel productor
+#### Artículo 2º
 
-agropecuario que tenga un ingreso máximo de 2.400 UF al año por concepto
+de la ley, que contenga prácticas
 
-de ventas anuales brutas; los integrantes de las comunidades agrícolas
+destinadas a reparar el o los déficit
 
-reguladas por el decreto con fuerza de ley Nº 5, de 1968, del Ministerio
+químicos, físicos o biológicos que tenga un
 
-de Agricultura, y los integrantes de las comunidades indígenas regidas
+suelo determinado, para llevarlo al nivel mínimo
 
-por la ley Nº 19.253, cuyos ingresos por ventas brutas sean inferiores a
+técnico para enfrentar adecuada y sosteniblemente
 
-2.400 UF al año.
+el proceso productivo.
 
-24. Rotación de cultivos conservacionista: secuencia con que se alternan
+20. Potrero: área al interior de un predio
 
-cultivos de diversas características y exigencias, con el fin de lograr
+debidamente delimitado, habitualmente a
 
-el mejor aprovechamiento del suelo y a la vez mejorar sus características
+través de cercos, destinada a un mismo uso
 
-físicas, químicas y biológicas, sin exponerlo a agotamiento.
+o manejo, como por ejemplo cultivos anuales,
 
-25. Suelos degradados: aquellos que presentan un deterioro de sus cualidades
+hortalizas o empastadas.
 
-físicas, químicas o biológicas, que provocan una declinación en su
+21. Práctica: tarea específica que contribuye
 
-capacidad actual o potencial para producir, sustentablemente, bienes y
+al mantenimiento y mejora del recurso suelo,
 
-servicios.
+en el ámbito de alguna de las actividades o
 
-26. Superficie de uso agropecuario: superficie del predio que corresponde a
+subprogramas establecidos en el inciso
 
-suelos de uso actual o potencial agropecuario, clasificados según el
+segundo del artículo 3º de la ley.
 
-decreto supremo Nº 83, de 2010, del Ministerio de Agricultura.
+22. Prácticas agroambientales: prácticas que
 
-27. UF: Unidad de Fomento, considerándose el valor que ésta tenga el primer
+contribuyen al mantenimiento y mejora del
 
-día de cada mes.
+recurso suelo, a través de la puesta en
 
-28. UTM: Unidad Tributaria Mensual, considerándose el valor que ésta tenga en
+marcha de métodos de producción agropecuaria
 
-el mes de enero de cada año.
+respetuosos con el medio ambiente, las cuales
+
+eventualmente pueden ocasionar pérdida de
+
+renta o mayores costos para el productor.
+
+22 bis. Prácticas complementarias: En general son
+
+aquellas que ejecutándose en una misma
+
+superficie, con diferentes propósitos
+
+técnicos contribuyen directamente al
+
+logro de los objetivos del Programa.
+
+23. Pequeño productor agrícola: persona que
+
+tenga esta calidad de acuerdo a lo establecido en
+
+la ley Nº 18.910, orgánica del INDAP; aquel
+
+productor agropecuario que tenga un ingreso
+
+máximo de 2.400 UF al año por concepto de ventas
+
+anuales brutas; los integrantes de las
+
+comunidades agrícolas reguladas por
+
+el decreto con fuerza de ley Nº 5, de
+
+1968, del Ministerio de Agricultura, y
+
+los integrantes de las comunidades
+
+indígenas regidas por la ley Nº 19.253,
+
+cuyos ingresos por ventas brutas sean
+
+inferiores a 2.400 UF al año.
+
+24. Rotación de cultivos conservacionista:
+
+secuencia con que se alternan cultivos de
+
+diversas características y exigencias,
+
+con el fin de lograr el mejor aprovechamiento
+
+del suelo y a la vez mejorar sus
+
+características físicas, químicas y
+
+biológicas, sin exponerlo a agotamiento.
+
+25. Suelos degradados: aquellos que presentan
+
+un deterioro de sus cualidades físicas,
+
+químicas o biológicas, que provocan una
+
+declinación en su capacidad actual o
+
+potencial para producir, sustentablemente,
+
+bienes y servicios.
+
+26. Superficie de uso agropecuario: superficie
+
+del predio que corresponde a suelos de uso
+
+actual o potencial agropecuario, clasificados
+
+según el decreto supremo Nº 83, de 2010,
+
+del Ministerio de Agricultura.
+
+27. UF: Unidad de Fomento, considerándose
+
+el valor que ésta tenga el primer día de
+
+cada mes.
+
+28. UTM: Unidad Tributaria Mensual, considerándose
+
+el valor que ésta tenga en el mes de enero
+
+de cada año.
 
 ## Título II
 
@@ -266,7 +420,7 @@ De las Actividades y Prácticas Bonificables
 
 El Programa consiste en una bonificación estatal de los costos netos de las prácticas contempladas dentro de las actividades o subprogramas señalados en el artículo 3º de la ley.
 
-Las prácticas a bonificar en cada una de las Macrorregiones son las siguientes:
+Las prácticas a bonificar por el Programa son las siguientes:
 
 .
 
@@ -352,75 +506,109 @@ Por regla general, una misma superficie sólo podrá ser favorecida por este Pro
 
 Se exceptúa de lo anterior:
 
-a) Aquellas prácticas complementarias o bien cuando se trate de cero
+a) Aquellas prácticas complementarias o bien cuando se trate
 
-labranza, manejo de rastrojos, uso de arado cincel, exclusión de uso de
+de cero labranza, manejo de rastrojos, uso de arado
 
-áreas de protección, aplicación de guanos tratados, guanos rojos, compost, humus y
+cincel, exclusión de uso de áreas de protección, aplicación de
 
-abonos verdes.
+guanos tratados, guanos rojos, compost, humus y
 
-b) En planes de recuperación y en el caso de la incorporación de
+abonos verdes. Respecto de la preparación de
 
-fertilizantes de base fosfatada, una misma superficie podrá ser
+suelos arroceros y micronivelación con pala láser,
 
-beneficiada por más de una vez hasta que se haya cumplido el Plan de
+estas prácticas podrán repetirse a partir
 
-Manejo que se postule para alcanzar el máximo establecido en la letra a)
+del cuarto año calendario posterior a la de
 
-del artículo 4º de este Reglamento.
+su implementación.
 
-c) En planes de recuperación y en el caso de la incorporación de elementos
+b) En planes de recuperación y en el caso de la
 
-químicos esenciales y en particular para el caso de incorporación de
+incorporación de fertilizantes de base fosfatada,
 
-sustancias para reducir la acidez, para neutralizar la toxicidad del
+una misma superficie podrá ser beneficiada por
 
-aluminio o para reducir el nivel de salinidad y/o sodicidad, una misma
+más de una vez hasta que se haya cumplido el
 
-superficie podrá ser beneficiada hasta que se haya cumplido el Plan de
+Plan de Manejo que se postule para alcanzar el
 
-Manejo que se haya postulado para alcanzar el nivel mínimo técnico
+máximo establecido en la letra a) del artículo
 
-correspondiente.
+4º de este Reglamento.
 
-d) Las prácticas de mantención, las que podrán favorecer una misma
+c) En planes de recuperación y en el caso de la
 
-superficie hasta por un máximo de dos años.
+incorporación de elementos químicos esenciales
 
-e) Los suelos beneficiados por este Programa para el establecimiento o
+y en particular para el caso de incorporación de
 
-regeneración de coberturas vegetales, que hayan perdido su cobertura por
+sustancias para reducir la acidez, para
 
-causas no imputables a dolo o culpa del interesado, a partir del cuarto
+neutralizar la toxicidad del aluminio o para
 
-año calendario posterior al establecimiento o regeneración de la pradera
+reducir el nivel de salinidad y/o sodicidad,
 
-que haya sido bonificada, siempre que se haya cumplido con el Plan de
+una misma superficie podrá ser beneficiada hasta
 
-Manejo.
+que se haya cumplido el Plan de Manejo que
 
-f) Aquellas superficies afectadas por emergencias agrícolas o catástrofes
+se haya postulado para alcanzar el nivel
 
-declaradas por la autoridad competente, o de emergencias calificadas por
+mínimo técnico correspondiente.
 
-el INDAP de conformidad con la ley Nº 18.910, o por razones de fuerza
+d) Las prácticas de mantención, las que podrán favorecer
 
-mayor calificadas por el Director Regional respectivo, con la opinión del
+una misma superficie hasta por un máximo de
 
-CTR.
+dos años.
 
-g) Respecto de aquellas superficies intervenidas con prácticas contempladas
+e) Los suelos beneficiados por este Programa para
 
-en la letra e) del artículo 4º del presente Reglamento, la cantidad de
+el establecimiento o regeneración de coberturas
 
-veces que podrá ser intervenida esta misma superficie con las actividades
+vegetales, que hayan perdido su cobertura por
 
-de los restantes literales de dicho artículo, dependerá de la segunda
+causas no imputables a dolo o culpa del interesado,
 
-práctica que en ellos se implemente, según la evaluación de carácter
+a partir del cuarto año calendario posterior al
 
-técnico.
+establecimiento o regeneración de la pradera
+
+que haya sido bonificada, siempre que se haya
+
+cumplido con el Plan de Manejo.
+
+f) Aquellas superficies afectadas por emergencias
+
+agrícolas o catástrofes declaradas por la
+
+autoridad competente, o de emergencias calificadas
+
+por el INDAP de conformidad con la ley Nº 18.910,
+
+o por razones de fuerza mayor calificadas por el
+
+Director Regional respectivo.
+
+g) Respecto de aquellas superficies intervenidas
+
+con prácticas contempladas en la letra e) del
+
+#### Artículo 4º
+
+del presente Reglamento, la cantidad
+
+de veces que podrá ser intervenida esta misma
+
+superficie con las actividades de los restantes
+
+literales de dicho artículo, dependerá de la
+
+segunda práctica que en ellos se implemente, según
+
+la evaluación de carácter técnico.
 
 ## Título III
 
@@ -638,7 +826,7 @@ De los Laboratorios y su Acreditación
 
 #### Artículo 14
 
-Los laboratorios que practiquen los análisis requeridos por aquellos usuarios que postulen Planes de Manejo, a fin de procurar la obtención de los incentivos del Programa, deberán acreditar ante el SAG, en forma anual, que cuentan con las instalaciones necesarias, las metodologías y el personal profesional idóneo para efectuarlos.
+Los laboratorios que practiquen los análisis requeridos por aquellos usuarios que postulen Planes de Manejo, a fin de procurar la obtención de los incentivos del Programa, deberán acreditar ante el SAG, mediante la aprobación de las exigencias establecidas en el proceso de acreditación, que cuentan con las instalaciones necesarias, las metodologías y el personal profesional idóneo para efectuarlos. Esta acreditación deberá ser realizada cada dos años.
 
 Respecto de aquellos laboratorios previamente acreditados ante el Instituto Nacional de Normalización en la materia de este Programa, la acreditación será otorgada con el solo mérito del certificado expedido por el referido organismo.
 
@@ -662,51 +850,69 @@ Los Planes de Manejo serán confeccionados por operadores acreditados, quienes a
 
 El Plan de Manejo, que deberá ser firmado por el operador acreditado y por el agricultor, contendrá los siguientes antecedentes:
 
-a) Descripción pormenorizada de las prácticas que efectuará el interesado y
+a) Descripción pormenorizada de las prácticas que efectuará
 
-de la(s) actividad(es) específica(s) a ejecutar; superficie de uso
+el interesado y de la(s) actividad(es) específica(s) a
 
-agropecuario del predio y superficie objeto del Plan de Manejo; plazo de
+ejecutar; superficie de uso agropecuario del predio y
 
-ejecución, que por regla general será de un año; fecha de inicio y de
+superficie objeto del Plan de Manejo; plazo de
 
-término de las prácticas y sus etapas, cuando corresponda. Sólo en los
+ejecución, que por regla general será de un año; fecha
 
-casos en que sea técnicamente necesaria su ejecución en más de una
+de inicio y de término de las prácticas y sus etapas,
 
-temporada, lo que deberá estar justificado fundadamente en el Informe
+cuando corresponda. Sólo en los casos en que sea
 
-Técnico, el plazo de ejecución de un Plan de Manejo podrá ser de hasta
+técnicamente necesaria su ejecución en más de una temporada,
 
-tres años calendario, salvo cuando se trate de prácticas agroambientales,
+lo que deberá estar justificado fundadamente en el Informe
 
-en las cuales este plazo podrá ser de hasta cinco años calendario. Con
+Técnico, el plazo de ejecución de un Plan de Manejo podrá
 
-todo, el plazo de ejecución de los Planes de Manejo, no podrá exceder del
+ser de hasta tres años calendario, salvo cuando se trate de
 
-plazo de vigencia para el Programa establecido en la ley Nº 20.412.
+prácticas agroambientales, en las cuales este plazo podrá
 
-En todo caso, los Planes de Manejo de más de un año serán financiados en
+ser de hasta cinco años calendario. Con todo, el plazo de
 
-la medida de que existan los recursos presupuestarios disponibles en los
+ejecución de los Planes de Manejo, no podrá exceder del
+
+plazo de vigencia para el Programa establecido en la ley
+
+Nº 20.412. En todo caso, los Planes de Manejo de más de
+
+un año serán financiados en la medida de que existan
+
+los recursos presupuestarios disponibles en los
 
 años posteriores.
 
-En el caso de arrendatarios, comodatarios, usufructuarios y medieros, los
+En el caso de arrendatarios, comodatarios, usufructuarios
 
-Planes de Manejo deberán contener la superficie de uso agropecuario bajo
+y medieros, los Planes de Manejo deberán contener la
 
-arriendo, comodato, usufructo o mediería, según sea el caso, así como la
+superficie de uso agropecuario bajo arriendo, comodato,
 
-autorización expresa del propietario del predio en el cual se apliquen
+usufructo o mediería, según sea el caso, así como la
 
-los beneficios del Programa. La autorización que para estos efectos
+autorización expresa del propietario del predio en el
 
-otorgue el propietario, importará la renuncia del mismo a los beneficios
+cual se apliquen los beneficios del Programa. La
 
-del Programa, para ese predio, respecto del concurso en el cual incide la
+autorización que para estos efectos otorgue el
 
-autorización y por el tiempo que dure el Plan de Manejo que se apruebe.
+propietario, importará la renuncia del mismo a los
+
+beneficios del Programa, para ese predio, respecto
+
+del concurso en el cual incide la autorización
+
+y por el tiempo que dure el Plan de Manejo que se
+
+apruebe. Exceptúanse de la presentación de esta
+
+autorización a los usufructuarios.
 
 b) Capacidad de uso de suelo de la superficie bajo Plan de Manejo. Los
 
@@ -984,27 +1190,41 @@ en atención a que en dichas regiones los niveles de materia orgánica son
 
 notoriamente inferiores a 1,5%.
 
-Para prácticas que incorporen compost, deberá acompañarse, además, la
+Respecto de los concursos que contemplen la práctica de aplicación
 
-acreditación de la calidad de éste, mediante la presentación de los
+de compost, las bases deberán establecer los parámetros técnicos
 
-análisis de calidad correspondientes, conforme a la NCH 2880, de 2004,
+mínimos de este insumo. El cumplimiento de estos parámetros será
 
-realizados por un laboratorio acreditado. No obstante lo anterior,
+acreditado por el interesado mediante el correspondiente resultado
 
-quienes tengan la calidad de productores orgánicos certificados podrán no
+de análisis de compost, el cual deberá estar disponible, en caso
 
-presentar dicho análisis, siempre que demuestren su condición de tal. De
+de su fiscalización, según los términos establecidos en el
 
-igual manera, aquellos productores orgánicos no certificados oficialmente
+#### Artículo 46
 
-o interesados en iniciarse en este tipo de agricultura, podrán eximirse
+del presente Reglamento. No obstante lo anterior,
 
-del análisis de calidad de compost adjuntando una carta de respaldo que
+quienes tengan la calidad de productores orgánicos certificados,
 
-avale su condición de productor orgánico actual o en vías de serlo,
+podrán no presentar dicho análisis, siempre que demuestren su
 
-emitida por el SAG.
+condición de tal a través del certificado vigente respectivo,
+
+emitido por la empresa certificadora inscrita en el Servicio
+
+Agrícola y Ganadero. De igual manera, aquellos productores
+
+orgánicos no certificados oficialmente o interesados en
+
+iniciarse en este tipo de agricultura, podrán eximirse
+
+del análisis de calidad de compost adjuntando una carta
+
+de respaldo que avale su condición de productor orgánico
+
+actual o en vías de serio, emitida por el SAG.
 
 5. Eliminación, limpieza o confinamiento de impedimentos físicos o químicos:
 
@@ -1160,9 +1380,7 @@ como pequeño productor agrícola, conforme a lo dispuesto por el
 
 de la ley Nº 18.910, orgánica del INDAP.
 
-viii. Que el predio postulado no tiene un Plan de Manejo, cuya ejecución
-
-esté pendiente ante el SAG o INDAP.
+viii. ELIMINADO.
 
 ix. En caso de presentar dos predios a un mismo concurso, orden de
 
@@ -1180,7 +1398,7 @@ previamente, no haber variado la situación jurídica de la misma, o
 
 la personería de su o sus representantes.
 
-8. Fotocopia simple del documento donde conste la inscripción de dominio
+8. Fotocopia simple de la inscripción de dominio
 
 vigente del predio en el Conservador de Bienes Raíces respectivo, de una
 
@@ -1242,7 +1460,13 @@ mismo a los beneficios del Programa, para ese predio, respecto al
 
 concurso en el cual incide la autorización y por el tiempo que dure el
 
-Plan de Manejo que se apruebe.
+Plan de Manejo que se apruebe. Respecto de los contratos de
+
+arrendamiento suscritos con el Ministerio de Bienes Nacionales,
+
+el postulante sólo deberá presentar copia simple de la resolución
+
+que aprobó el contrato de arrendamiento.
 
 3. Comodatarios:
 
@@ -1316,39 +1540,31 @@ individuales de los terrenos que posean en común o los derechos reales de
 
 uso que les correspondan, de conformidad con la normativa vigente.
 
-7. Personas jurídicas:
+7. Personas Jurídicas:
 
-Tratándose de la primera postulación al Programa, fotocopia simple de la
+Tratándose de la postulación al Programa, copia autorizada de
 
-copia autorizada de la escritura de constitución social y sus
+la escritura de constitución social y sus modificaciones,
 
-modificaciones posteriores, si correspondiere; fotocopia simple de la
+si correspondiere; copia autorizada del certificado de
 
-copia autorizada de la inscripción en el Registro de Comercio con
+vigencia de la sociedad, emitido con una fecha no superior
 
-certificado de vigencia no superior a ciento ochenta días corridos del
+a noventa días corridos anteriores a la fecha de postulación,
 
-extracto de constitución social y de sus modificaciones anteriores a la
+y la personería de sus representantes con certificación de
 
-fecha de postulación al concurso respectivo, si correspondiere; fotocopia
+vigencia, no mayor a noventa días anteriores a la fecha
 
-simple de la publicación en el Diario Oficial del extracto de escritura
+de postulación al concurso respectivo. Tratándose de
 
-de constitución social y de sus modificaciones, si correspondiere, y la
+corporaciones o fundaciones sin fines de lucro, certificado
 
-personería de sus representantes con certificación de vigencia, no mayor
+de vigencia emitido por la autoridad competente, dentro de
 
-a noventa días anteriores a la fecha de postulación al concurso
+los noventa días corridos anteriores a la fecha de
 
-respectivo. Tratándose de corporaciones o fundaciones sin fines de lucro,
-
-certificado de vigencia emitido por el Ministerio de Justicia dentro de
-
-los ciento veinte días corridos anteriores a la fecha de postulación.
-
-Para los siguientes concursos, bastará acompañar sólo la declaración de
-
-no haber variado la situación jurídica de la persona jurídica.
+postulación.
 
 8. Comunero de una sucesión hereditaria:
 
@@ -1441,6 +1657,8 @@ De los postulantes
 Podrán participar y obtener los beneficios otorgados por este Programa aquellas personas, tanto naturales como jurídicas, que sean propietarias, usufructuarias, arrendatarias, medieras o comodatarias de los suelos que propongan intervenir.
 
 De conformidad al inciso 2º del artículo 8º de la ley 20.412, tendrán también la calidad de propietarios los integrantes de las comunidades hereditarias, en proporción a su cuota hereditaria; los integrantes de comunidades agrícolas reguladas por el decreto con fuerza de ley Nº 5, del Ministerio de Agricultura, de 1968, por los goces individuales de los terrenos que posean en común y por los derechos reales de uso en común que les correspondan en conformidad con esta norma legal; los integrantes de las comunidades indígenas regidas por la ley Nº 19.253, por los goces individuales de los terrenos que posean en común y por los derechos reales de uso en común que les correspondan en conformidad con esta ley; las comunidades y asociaciones indígenas reconocidas por la ley Nº 19.253; el cónyuge que explote el predio de su cónyuge propietario, y aquellas personas que hayan obtenido la inscripción de la resolución del Ministerio de Bienes Nacionales que les otorgó la posesión regular del predio en el Conservador de Bienes Raíces respectivo, de acuerdo al procedimiento establecido en el decreto ley Nº 2.695, de 1979.
+
+Con todo, los interesados en optar al incentivo ante el Instituto de Desarrollo Agropecuario o ante el Servicio Agrícola y Ganadero, según corresponda, sólo podrán presentar por concurso, un plan de manejo, por un mismo predio.
 
 #### Artículo 25
 
@@ -1714,17 +1932,25 @@ planes de manejo se ordenarán a continuación en forma decreciente según
 
 sus valores proporcionales.
 
-l) Otras variables vinculadas directamente a las propiedades del suelo: el
+l) Otras variables vinculadas directamente a las propiedades del
 
-Plan de Manejo que contemple el mayor valor de variables asociadas a las
+suelo: el Plan de Manejo que contemple el mayor valor de variables
 
-propiedades del suelo y praderas, definidas por el Director Regional
+asociadas a las propiedades del suelo y praderas, definidas por el
 
-respectivo, tendrá un puntaje máximo entre 50 y 500 puntos, según se
+Director Regional respectivo, tendrá un puntaje máximo entre 10
 
-determine en las bases. El resto de los planes de manejo se ordenarán a
+y 100 puntos, según se determine en las bases de los respectivos
 
-continuación en forma decreciente según sus valores proporcionales.
+concursos. En todo caso, la sumatoria de todas las variables de
+
+selección asociadas a este literal, no podrá ser mayor a 100 puntos
+
+por concurso. El resto de los planes de manejo, se ordenarán a
+
+continuación, en forma decreciente según sus valores
+
+proporcionales.
 
 El puntaje máximo de cada criterio será establecido en las bases de cada concurso.
 
@@ -1854,7 +2080,7 @@ Una vez efectuada la selección de los planes de manejo, este hecho será comuni
 
 #### Artículo 33
 
-Aquellos postulantes que se consideren perjudicados en el proceso de selección para la obtención de incentivos, podrán solicitar en forma escrita, dentro del plazo de 10 días corridos, contados desde la fecha de la publicación a que se refiere el inciso anterior, la reconsideración de su situación ante el Director Regional respectivo, adjuntando los antecedentes que fundamenten su petición, quien se pronunciará sobre la reconsideración dentro de los 10 días corridos desde su interposición.
+Aquellos postulantes que se consideren perjudicados en el proceso de selección, podrán solicitar en forma escrita, dentro del plazo de 10 días corridos, contados desde la fecha de la publicación a que se refiere el inciso anterior, la reconsideración de su situación ante el Director Regional respectivo, adjuntando los antecedentes que fundamenten su petición, quien se pronunciará sobre la reconsideración dentro de los 20 días corridos desde su interposición.
 
 Atendiendo a los criterios establecidos por la Dirección Regional, podrán acogerse como causales de reconsideración, todos aquellos aspectos de carácter formal, técnico y administrativo, siempre y cuando no tengan incidencia en las variables que otorgan puntaje a la postulación. En tanto no se resuelvan las reconsideraciones, no se entenderá firme la lista de seleccionados.
 
@@ -1862,7 +2088,7 @@ El hecho de estar firme la selección, se publicará en un diario de circulació
 
 #### Artículo 34
 
-Los planes de manejo seleccionados sólo podrán ser modificados en materia de fechas de ejecución de prácticas, por causas calificadas por el Director Regional correspondiente, con la opinión del CTR y previa solicitud escrita del interesado.
+Los planes de manejo seleccionados sólo podrán ser modificados en materia de fechas de ejecución de prácticas, por causas calificadas por el Director Regional correspondiente y previa solicitud escrita del interesado.
 
 #### Artículo 35
 
@@ -1882,7 +2108,7 @@ Los interesados podrán percibir incentivos respecto de una o más de las práct
 
 En el caso de que un mismo interesado presente planes de manejo en diferentes concursos, ya sea en la misma región o en otra, la prioridad de cálculo la definirá el orden de cierre de los concursos.
 
-Quienes hayan recibido incentivos sólo podrán postular a nuevos incentivos una vez que hayan cumplido totalmente el plan de manejo anterior.
+Los interesados que hayan obtenido incentivos del sistema, sólo podrán postular nuevamente al beneficio, respecto del mismo predio, una vez que hayan cumplido totalmente el plan de manejo anteriormente aprobado.
 
 #### Artículo 37
 
@@ -1950,7 +2176,7 @@ En el caso de las personas jurídicas beneficiarias de esta bonificación, el pa
 
 Para el caso de Planes de Manejo que comprendan más de una práctica, o bien esté aprobada la ejecución de una misma práctica en etapas, el beneficiario podrá solicitar el pago parcial de las prácticas o sus etapas efectivamente ejecutadas, antes de la fecha de término del Plan de Manejo o de su etapa anual. Para este efecto deberá informar la finalización de la ejecución de dichas prácticas, dentro de los 15 días corridos siguientes a su término, de acuerdo al Plan de Manejo, circunstancia que deberá certificar el SAG o INDAP, según corresponda.
 
-Será facultativo de INDAP y SAG, el aprobar este pago parcial, el cual no extingue la obligación de realizar la totalidad de las prácticas comprometidas en el Plan de Manejo seleccionado, salvo casos de fuerza mayor calificada por el respectivo Director Regional, con opinión del CTR, que le impidan la ejecución de las prácticas o etapa restante.
+Será facultativo de INDAP y SAG, el aprobar este pago parcial, el cual no extingue la obligación de realizar la totalidad de las prácticas comprometidas en el Plan de Manejo seleccionado, salvo casos de fuerza mayor calificada por el respectivo Director Regional, que le impidan la ejecución de las prácticas o etapa restante.
 
 #### Artículo 45
 
