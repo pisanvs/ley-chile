@@ -50,7 +50,7 @@ j) Firmar oficios dirigidos a Contraloría General de la República remitiendo d
 
 4º.- La delegación realizada por este acto podrá ser siempre revocada y la Alcaldesa podrá asumir las funciones delegadas en cualquier momento, previa revocación de la delegación.
 
-5º.- Cuando la delegada no esté en funciones por licencias médicas, permisos administrativos, feriados legales o cualquier otra forma legal que impida su actuar, las funciones delegadas serán reasumidas por la Sra. Alcaldesa o su subrogante en forma inmediata.
+5º.- Cuando la delegada no esté en funciones por licencias médicas, permisos administrativos, feriados legales o cualquier otra forma legal que impida su actuar, las funciones delegadas serán reasumidas en forma inmediata por el funcionario que la reemplace o por el funcionario a quien se le asigne -mediante acto administrativo- la labor de jefe(a) de la Dirección de Administración de la Educación Municipal de la I. Municipalidad de Caldera.
 
 6º.- Los decretos, instructivos, reglamentos, actos y contratos firmados deberán expresar, bajo la firma del delegado la frase "por delegación de facultades de la Alcaldesa".
 
