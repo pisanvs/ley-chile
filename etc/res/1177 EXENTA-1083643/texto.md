@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº1.177 EXENTA DE 2015
+
+En virtud de lo dispuesto en la resolución Ex. 90 de 21.09.2004 del Director del Servicio de Impuestos Internos, el suscrito ha dictado la resolución Ex. Nº 1.177 de 16.10.2015, por la cual revoca las delegaciones de facultades efectuadas por resolución Ex. Nº998 de 04.06.2014, de la Dirección Regional Metropolitana Norte del Servicio de Impuestos Internos; y ha delegado en los funcionarios indicados en lo resolutivo, las facultades de emitir a petición de los solicitantes "Certificado de exención de impuesto a las herencias", "Certificado de exención parcial del impuesto a las herencias", "Certificado de pago total a las herencias", "Certificado de haber transcurrido los plazos que tiene el servicio para revisar, liquidar y girar el impuesto a las herencias", "Certificado de exención de impuesto a las donaciones" y "Certificado de pago del impuesto a las donaciones".
+
+Hugo Horta Barahona, Director Regional.
