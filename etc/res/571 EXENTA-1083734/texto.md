@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 571 EXENTA, DE 7 DE OCTUBRE DE 2015
+
+Por resolución exenta Nº 571, de 7 de octubre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador Bernardo O'Higgins, otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Servicios de Capacitación Héctor Eduardo Poblete Pulido E.I.R.L." cuyo nombre de fantasía es "Escuela de Conductores Tránsito Seguro E.I.R.L." RUT: 76.168.452-3, representada legalmente por don Héctor Eduardo Poblete Pulido, cédula nacional de identidad Nº8.858.554-2, para impartir cursos conducentes a la obtención de la licencia de conductor profesional Clases A-2, A-3, A-4 y A-5, en su sede ubicada en Avenida Errázuriz Nº 1053 y taller mecánico en Diego Portales Nº1324, ambos de la Comuna de Santa Cruz.
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
