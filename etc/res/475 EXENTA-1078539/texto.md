@@ -30,7 +30,7 @@ Considerando:
 
 Resolución:
 
-1. Llámese a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al mejoramiento de la vivienda, conforme al DS 255 de 2006 (V. y U.) y sus modificaciones, para viviendas de los Barrios de Selección 2014 del Programa Recuperación de Barrios de la Región de Magallanes y Antártica Chilena y cuyo año de inicio de ejecución haya sido el 2014. La selección se realizará en los meses de septiembre y noviembre de 2015 proyectos que cuenten con Certificado de Calificación hasta el 7 de septiembre de 2015 y hasta el último día hábil de octubre de 2015, respectivamente.
+1. Llámese a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al mejoramiento de la vivienda, conforme al DS 255 de 2006 (V. y U.) y sus modificaciones, para viviendas de los Barrios de Selección 2014 del Programa Recuperación de Barrios de la Región de Magallanes y Antártica Chilena y cuyo año de inicio de ejecución haya sido el 2014. La selección se realizará en los meses de septiembre y noviembre de 2015 proyectos que cuenten con Certificado de Calificación hasta el 7 de septiembre de 2015 y hasta el 6 de noviembre de 2015, respectivamente.
 
 2. Exímase al presente llamado de dar cumplimiento al plazo de publicación en el Diario Oficial de la resolución que convoque a este llamado, a que se refiere el inciso tercero del artículo 13 del DS Nº 255 (V. y U.) de 2006, pudiendo publicarse esta resolución hasta quince días corridos antes de la fecha de inicio de la postulación.
 
@@ -90,7 +90,7 @@ Asbesto cemento: en obras de reparación de la envolvente o de instalaciones que
 
 Plagas: en obras de carácter estructural o de reparación de la envolvente que contemplen erradicación y/o eliminación de plagas.
 
-9.3 Los montos de Asistencia Técnica, Inspección Técnica de Obra y Plan de Habilitación Social será de acuerdo a siguiente tabla y su forma de pago, será la establecida en la resolución Nº 533, del año 1997.
+Los montos de Asistencia Técnica, Inspección Técnica de Obra y Plan de Habilitación Social será de acuerdo a siguiente tabla y su forma de pago, será la establecida en la resolución Nº 533 del año 1997.
 
 .
 
