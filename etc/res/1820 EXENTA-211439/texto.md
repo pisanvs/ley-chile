@@ -858,6 +858,12 @@ Transitorio: Las postulaciones de la comuna de Valparaíso que participen y resu
 
 Transitorio: En atención al decreto N° 1.227, de Interior, de 2015, que señala como zonas afectadas por catástrofe a la Provincia de Choapa y a la comuna de Coquimbo, producto del sismo de alta intensidad y del posterior tsunami, ocurridos el día 16 de septiembre de 2015 y que afectaron especialmente a esas localidades, el año 2015 en la Región de Coquimbo, la fecha de cierre en el Servicio de Vivienda y Urbanización para la recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 30 de octubre, y el día 16 de noviembre será la fecha de cierre para recepción de postulaciones en la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
+#### Artículo 12º
+
+Transitorio: Las postulaciones de las comunas de Valparaíso, Viña del Mar y Coquimbo, de las comunas que pertenecen a las Provincias de Choapa y Limarí y a la Región de Atacama y de toda otra comuna con decreto vigente del Ministerio del Interior y Seguridad Pública que la declare Zona Afectada por Catástrofe, que participen y resulten seleccionadas en el 25º Proceso de Selección de Proyectos del Programa de Pavimentación Participativa, que realiza la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos que señalan a dichas Comunas, Provincias y/o Región como Zona Afectada por Catástrofe.
+
+> **Nota.** La Resolución 8661 Exenta, Vivienda, publicada el 13.11.2015, modifica la presente norma en el sentido de agregar un articulo 12 transitorio, sin embargo, la numeración no es correlativa, al no existir un artículo 11 transitorio.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
