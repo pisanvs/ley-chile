@@ -106,6 +106,8 @@ Sin perjuicio de las posibles actualizaciones señaladas en el artículo 6 de es
 
 En los casos en que existan los medios electrónicos, manuales u otros para la medición continua y completa de viajes, según lo determine el Ministerio, los montos del subsidio para cada servicio determinado según lo indicado en los artículos 2º a 8º de este reglamento, podrán actualizarse trimestralmente en función del número efectivo de viajes y la disponibilidad presupuestaria.
 
+Sin perjuicio de lo señalado en el inciso anterior, en caso en que subsistan conjuntamente medios electrónicos y manuales, podrán actualizarse los montos del subsidio conforme lo indicado en este artículo, siempre que existan estudios que permitan distinguir los porcentajes de viajes realizados con uno u otro medio.
+
 ## Título VI
 
 Información y Fiscalización
