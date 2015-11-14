@@ -52,6 +52,10 @@ El etiquetado de los sucedáneos de la leche materna no deberá desincentivar la
 
 El Ministerio de Salud deberá disponer, en conjunto con el de Educación, de un sistema obligatorio de monitoreo nutricional de los alumnos de enseñanza parvularia, básica y media, el que los orientará en el seguimiento de estilos de vida saludables.
 
+En todas aquellas disposiciones de esta ley donde se utilice la expresión "menores de edad", deberá entenderse que se refiere a menores de catorce años.
+
+> **Nota.** La referencia al "artículo anterior" empleada en el inciso primero de este artículo, debe entenderse efectuada al artículo 5°, por cuanto el artículo 5 bis nuevo, es incorporado con posterioridad en la presente ley mediante el numeral 3 del artículo 1° de la ley 21362, publicada el 18.08.2021.
+
 #### Artículo 7°
 
 La publicidad de los productos descritos en el artículo 5°, no podrá ser dirigida a niños menores de catorce años.
