@@ -22,19 +22,19 @@ Este derecho de información de la empresa principal o contratista se ejercerá 
 
 El presente Reglamento regula la forma, condiciones y requisitos de la acreditación del monto y estado de cumplimiento de las obligaciones laborales y previsionales de dar de los contratistas o subcontratistas.
 
-#### Artículo 3°
+#### Artículo 3º
 
 Para los efectos de este Reglamento se entiende por:
 
-a) Certificado: el instrumento emitido por la Inspección del Trabajo o por Entidades o Instituciones Competentes, que acredita el monto y estado de cumplimiento de las obligaciones laborales y previsionales de dar del contratista y/o subcontratista respecto de sus trabajadores, incluidas las eventuales indemnizaciones legales que correspondan por término del contrato de trabajo.
+a) Certificado: El instrumento emitido por la Inspección del Trabajo, en forma presencial o en línea, o por las Entidades o Instituciones Competentes, que acredita el monto y estado de cumplimiento de las obligaciones laborales y previsionales de dar del contratista y/o subcontratista respecto de sus trabajadores, incluidas las eventuales indemnizaciones legales que correspondan por término del contrato de trabajo.
 
-b) Entidades o Instituciones Competentes: las personas jurídicas que acrediten su idoneidad técnica, profesional y procedimental para certificar debidamente el monto y estado de cumplimiento de las obligaciones laborales y previsionales.
+b) Entidades o Instituciones Competentes: Las personas jurídicas que acrediten su idoneidad técnica, profesional y procedimental para certificar debidamente el monto y estado de cumplimiento de las obligaciones laborales y previsionales.
 
-c) Empresa Principal: la persona natural o jurídica dueña de la obra, empresa o faena para la cual se desarrollan los servicios o ejecutan las obras contratadas o subcontratadas.
+c) Empresa Principal: La persona natural o jurídica dueña de la obra, empresa o faena para la cual se desarrollan los servicios o ejecutan las obras contratadas o subcontratadas.
 
-d) Contratista: la persona natural o jurídica que, en virtud de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una empresa principal.
+d) Contratista: La persona natural o jurídica que, en virtud de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una empresa principal.
 
-e) Subcontratista: la persona natural o jurídica que, en virtud de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para un contratista.
+e) Subcontratista: La persona natural o jurídica que, en virtud de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para un contratista.
 
 #### Artículo 4º
 
@@ -52,9 +52,11 @@ La acreditación del monto y estado de cumplimiento de las obligaciones laborale
 
 #### Artículo 6º
 
-La acreditación mediante certificados de la Inspección del Trabajo deberá practicarse por aquella oficina que tenga jurisdicción en el lugar o comuna en que se prestan los servicios o ejecutan las obras en régimen de subcontratación.
+La acreditación mediante certificados de la Inspección del Trabajo podrá practicarse por aquella oficina que tenga jurisdicción en el lugar o comuna en que se prestan los servicios o ejecutan las obras en régimen de subcontratación.
 
-Con todo, el Director del Trabajo, dentro de sus atribuciones, podrá autorizar que los certificados a que se refiere este artículo sean expedidos centralizadamente por la Inspección del Trabajo del domicilio de la casa matriz del contratista y tengan vigencia respecto de todas las faenas de la empresa requirente, cualquiera sea el lugar en que éstas se desarrollen.
+Asimismo, el Director del Trabajo, dentro de sus atribuciones, podrá autorizar que los certificados a que se refiere este artículo sean expedidos centralizadamente por la Inspección del Trabajo del domicilio de la casa matriz del contratista y tengan vigencia respecto de todas las faenas de la empresa requirente, cualquiera sea el lugar en que éstas se desarrollen.
+
+Además, y por resolución fundada, el Director del Trabajo podrá autorizar que los certificados a que se refiere este artículo sean expedidos centralizadamente por la o las Inspecciones del Trabajo que determine la respectiva Dirección Regional del Trabajo, correspondiente al domicilio de la faena o lugar de trabajo de la empresa requirente en que se presten los servicios o ejecutan las obras en régimen de subcontratación.
 
 #### Artículo 7º
 
@@ -74,9 +76,9 @@ La solicitud de certificado deberá presentarse mediante los formularios que deb
 
 #### Artículo 8º
 
-Para los efectos de otorgar el certificado la Inspección del Trabajo revisará que la empresa contratista o subcontratista se encuentre conforme en el pago de las remuneraciones y asignaciones en dinero, de las cotizaciones previsionales y de las indemnizaciones legales por término de contrato que correspondan. En este último caso, sólo será exigible la acreditación del pago de aquellas indemnizaciones legales que no se encuentren controvertidas judicialmente.
+Para los efectos de otorgar el certificado, la Inspección del Trabajo revisará en forma presencial o en línea, que la empresa contratista o subcontratista se encuentre conforme en el pago de las remuneraciones y asignaciones en dinero, de las cotizaciones previsionales y de las indemnizaciones legales por término de contrato que correspondan. En este último caso, sólo será exigible la acreditación del pago de aquellas indemnizaciones legales que no se encuentren controvertidas judicialmente.
 
-Se exigirá como documentación necesaria para efectuar la revisión a que se refiere el inciso anterior, al menos, los comprobantes de remuneraciones, libro auxiliar de remuneraciones y planillas de cotizaciones previsionales respectivas, así como los avisos de término de contrato o finiquitos. Para efectos de la revisión se podrá utilizar medios electrónicos de acreditación del monto y estado de cumplimiento de las obligaciones laborales y previsionales, aprobados por la autoridad correspondiente.
+Se exigirá como documentación necesaria para efectuar la revisión a que se refiere el inciso anterior, al menos, los comprobantes de remuneraciones, libro auxiliar de remuneraciones y planillas de cotizaciones previsionales respectivas, así como los avisos de término de contrato o finiquitos. Para efectos de la revisión electrónica o en línea se podrá acreditar el monto y estado del cumplimiento de las obligaciones laborales y previsionales y de las indemnizaciones legales a través de medios electrónicos idóneos, debidamente aprobados por la Dirección del Trabajo.
 
 #### Artículo 9º
 
