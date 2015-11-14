@@ -14,7 +14,7 @@ Decreto:
 
 .
 
-Superficie aproximada inmuebles a expropiar: 3.043,22 metros cuadrados.
+Superficie aproximada inmuebles a expropiar: 6.684,7 metros cuadrados.
 
 2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Iquique, si lo hubiere.
 
