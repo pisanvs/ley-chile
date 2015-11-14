@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 593 EXENTA, DE 7 DE SEPTIEMBRE DE 2015
+
+Por resolución exenta Nº 593, de fecha 7 de septiembre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, autorizó el funcionamiento del Terminal de servicios de locomoción colectiva urbana prestado mediante taxis colectivos, ubicado en calle Benjamín Franklin Nº 2370, comuna de Temuco, Región de la Araucanía. El tipo de terminal es un terminal de vehículos (TV), clasificado en "Categoría A-3". La capacidad máxima del terminal corresponde a 120 vehículos, ello de conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones, vigente a la fecha de recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **a)** Hará uso del Terminal de Vehículos el servicio de la Línea 15 de Taxis Colectivos Urbanos de Temuco, cuyo responsable es el Sindicato de Trabajadores Independientes Dueños de Taxis Colectivos Línea Nº 15 Sur, Registro Sindical Único 9010074, representada Iegalmente por don Guillermo Enrique Prieto Stuardo, RUT 9.512.046-6, con recorrido Troncal y Variante 1, en la comuna de Temuco.
+
+- **b)** El Terminal podrá ser utilizado por una cantidad máxima diaria de ciento veinte (120) Taxis Colectivos Urbanos, conforme a lo dispuesto en el inciso primero del artículo 45º del DS Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
+
+- **c)** La persona jurídica encargada de la administración del terminal será el "Sindicato de Trabajadores Independientes Dueños de Taxis Colectivos Línea Nº 15 Sur" Registro Sindical Único Nº 9010074, representada Iegalmente por don Guillermo Enrique Prieto Stuardo, RUT 9.512.046-6, domiciliado en calle Benjamín Franklin Nº 2370, en la comuna de Temuco. El público usuario de los vehículos no podrá acceder al Terminal cuyo funcionamiento se autoriza.
+
+Doris Tello Arriagada, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
