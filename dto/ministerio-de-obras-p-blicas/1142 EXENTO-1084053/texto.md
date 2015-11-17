@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 1142, de 30 de octubre de 2015, se desistió la expropiación de los lotes de terreno Nºs. 139L6-5, 139L6-6, 139L6-7, 139L6-8, 139L6-9, 139L6-11, 139L6-14, 139L6-21, 139L6-22, 139L6-25, 139L6-26, 139L6-27, 139L6-28, 139L6-29, 139L6-32, 139-L6-33, 139L6-34, 139L6-35, 139L6-36, 139L6-37, 139-L6-38, 139L6-39, 139L6-40 y 139L6-41, ordenada por Decretos Exentos MOP Nºs. 369, 370, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 442 y 460, de fechas 20 y 30 de mayo, 10 y 13 de junio, todos de 2014.
+
+Fiscal del Ministerio de Obras Públicas.
