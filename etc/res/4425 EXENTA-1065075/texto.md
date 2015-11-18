@@ -28,7 +28,7 @@ La nómina de proyectos seleccionados así como la de los beneficiarios del subs
 
 5. El plazo para iniciar obras no podrá exceder de 60 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la entidad patrocinante.
 
-La entidad patrocinante deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por éste.
+La entidad patrocinante deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por éste. El plazo para el inicio de obras podrá prorrogarse por razones fundadas calificadas por el Director Serviu.
 
 6. La recepción definitiva del total de las viviendas del proyecto, no podrá exceder de 18 meses a contar del mes siguiente al del inicio de las obras.
 
@@ -136,7 +136,7 @@ No se consideran anticipos a cuenta del pago del subsidio, lo que es aplicable a
 
 18. Una vez que la respectiva empresa constructora o la entidad patrocinante comunique al Serviu el inicio de las obras, éste podrá otorgar, por una sola vez, un préstamo de enlace hasta por un plazo máximo de dos años, en las condiciones que señala la presente resolución, a la empresa constructora que tenga a su cargo la construcción del proyecto o a la entidad patrocinante que haya suscrito el contrato de construcción con la empresa constructora.
 
-Este préstamo no podrá exceder de 200 Unidades de Fomento por cada vivienda que forme parte del proyecto. Tanto su otorgamiento como su restitución se expresarán en Unidades de Fomento. No se concederá más de un préstamo para el financiamiento de viviendas de un mismo proyecto.
+Este préstamo no podrá exceder de 400 Unidades de Fomento por cada vivienda que forme parte del proyecto. Tanto su otorgamiento como su restitución se expresarán en Unidades de Fomento. No se concederá más de un préstamo para el financiamiento de viviendas de un mismo proyecto.
 
 La empresa constructora o la entidad patrocinante deberá caucionar la correcta inversión y oportuna y total devolución del préstamo mediante boleta bancaria de garantía, nominativa y pagadera a la vista, previo aviso de 30 días, por un monto igual al del préstamo que garantiza, expresada en Unidades de Fomento, extendida a favor del Serviu respectivo, a 30 días, con un plazo de vigencia indefinido o que exceda a lo menos en 60 días el plazo de los dos años señalado.
 
