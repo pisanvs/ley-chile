@@ -170,9 +170,13 @@ Por su parte, el intermediario deberá acompañar en su solicitud de subsidio a 
 
 (f) Tasa de interés de la operación reprogramada.
 
-(g) Tabla de desarrollo de la operación actual y de la operación reprogramada, siempre que dicho antecedente no se encuentre detallado en el título ejecutivo de cada operación.
+(g) Uno cualquiera de los siguientes documentos:
 
-(h) Copia de los antecedentes que respalden el otorgamiento y las condiciones del crédito reprogramado, conforme éste se encontraba documentado al momento de la firma de la reprogramación, y de la rebaja de la tasa aprobada a favor del beneficiario/a.
+. El plan de pago vigente de la operación previo a la reprogramación, en formato PDF;
+
+. El resumen de plan de pago vigente de la operación, previo a la reprogramación;
+
+. Una declaración jurada firmada por el Gerente General del Intermediario Financiero, respecto del plan de pago vigente de la operación, previo a la reprogramación.
 
 El formulario de postulación junto a los demás antecedentes deberán ser enviados a CORFO por el Intermediario Financiero, por medios electrónicos especialmente habilitados para este efecto, o ingresados a través de la Oficina de Partes de CORFO, en formato papel y copiados en CD, si es que el medio electrónico no estuviera disponible en las fechas dispuestas para su operación.
 
