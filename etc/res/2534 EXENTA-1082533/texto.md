@@ -46,4 +46,6 @@ Resolución:
 
 4. Publíquese, en un periódico de circulación regional, sin perjuicio de la ulterior publicación en el Diario Oficial, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener a lo menos, la comuna, el Título y la modalidad de proyecto del cual se trate del DS Nº 255/2006, nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
 
+> **Nota.** El numeral 1°de la Resolución 2900 Exenta, Vivienda, publicada el 17.11.2015, modifica la presente norma en el sentido de comprometer recursos del Llamado Extraordinario de Condominios Sociales 2015, regulado por la resolución exenta Nº 953, de fecha 11 de febrero de 2015, a objeto de incorporar la copropiedad que la citada norma indica.
+
 Anótese, comuníquese, publíquese y archívese.- Aldo Ramaciotti Fracchia, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
