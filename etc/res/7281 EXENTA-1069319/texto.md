@@ -21,3 +21,5 @@ Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de
 SISTEMA INTEGRADO DE SUBSIDIO HABITACIONAL DECRETO Nº 1 (V. y U.), DE 2011 LLAMADO ESPECIAL DAMNIFICADOS POR SISMO 2014 MES DE OCTUBRE DE 2014
 
 .
+
+> **Nota.** El numeral 1° de la Resolución 8712 Exenta, Vivienda, publicado el 17.11.2015, modifica la presente norma en el sentido de de eliminar a la persona individualizada en la citada norma, de la nómina de postulantes seleccionados correspondiente a la Región de Tarapacá, e incluirla en la nómina de beneficiarios de la Región de La Araucanía.
