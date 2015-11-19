@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.913 EXENTA, DE 2015
+
+Por resolución exenta Nº 1.913, de fecha 4 de mayo de 2015, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que autoriza al Organismo Técnico de Capacitación denominado "Instituto de Gestión del Transporte SpA" o "IGT SpA.", RUT Nº 76.130.549-2, representado legalmente por la señora Rosa Blanca Palma Rodríguez, RUT Nº 6.948.627-4, para impartir el curso de capacitación a conductores titulares de licencia de conductor Clase A-1 obtenida con anterioridad al 8 de marzo de 1997, con el fin de optar a licencia de conductor profesional Clase A-3, en Santo Domingo Nº 979, piso 3, comuna de Santiago.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
