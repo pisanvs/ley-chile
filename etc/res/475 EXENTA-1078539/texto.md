@@ -40,7 +40,13 @@ Resolución:
 
 5. Serán Viviendas objeto del llamado, aquellas emplazadas dentro de los polígonos de los Barrios seleccionados por el Programa Recuperación de Barrios, el año 2014 y que hayan iniciado su intervención durante el año 2014.
 
-6. Podrán postular al presente llamado, además de las personas establecidas en la letra a) del artículo 16 del DS Nº 255 (V. y U.), arrendatarios que cuenten con autorización notarial del propietario.
+6. Podrán postular al presente llamado, los propietarios y ocupantes regulares de viviendas, quienes deben acreditar su condición de ocupación para que sea validada por Serviu antes del proceso de chequeo de habilidades y de la siguiente forma:
+
+1. Los propietarios acreditarán su condición mediante título de dominio o certificado de dominio vigente, o en su defecto, con una declaración jurada de acuerdo a formato entregado por Serviu.
+
+2. Los arrendatarios acreditarán su condición mediante la autorización notarial del propietario.
+
+3. Los asignatarios, comodatarios, usufructuarios u otros ocupantes regulares acreditarán su condición mediante instrumento público que lo individualice como legítimo usuario del inmueble, o mediante declaración jurada firmada por el propietario o su representante legal, o bien, a través de un certificado emitido para estos efectos por la entidad correspondiente.
 
 7. Para asegurar la participación de la mayor cantidad de familias en este proceso de selección, se podrá eximir a los postulantes de este Llamado de cumplir los siguientes requisitos definidos en el DS Nº 255:
 
@@ -57,6 +63,8 @@ Resolución:
 - **e)** del artículo 21, referente al requisito de presentar Ficha de Protección Social y los Documentos que acreditan que la vivienda que integra el proyecto es Objeto del Programa, esto en relación con el artículo 3 y la letra
 
 - **d)** del artículo 16.
+
+7.5 De lo dispuesto en el artículo 3, referido a la cantidad mínima de integrantes del grupo organizado para la Postulación Colectiva.
 
 8. Respondiendo al análisis comparativo entre los Barrios de Selección 2014 de Punta Arenas y Natales, cuyo año de inicio de intervención sea el año 2014, objeto de intervención mediante este Llamado Especial de Programa de Protección del Patrimonio Familiar en Barrios del Programa Quiero mi Barrio, se ha determinado establecer tipologías de proyectos en concordancia con los Planes Maestros de Recuperación de los respectivos Barrios, los que se desarrollan a continuación.
 
@@ -111,6 +119,8 @@ En caso de postular proyectos que no se encuentre dentro de los tipos señalados
 - Las reuniones deberán ser apoyadas con el material gráfico pertinente, el cual deberá ser aprobado por encargada social del Equipo Regional del Programa Recuperación de Barrios, previo a las exposiciones.
 
 - Considerar invitar a través de medio escrito al Equipo Municipal de Barrios a todas las reuniones asociadas al Plan de Habilitación Social.
+
+9.5 La Postulación Colectiva corresponderá a aquella que se realiza a través de un grupo organizado, con un mínimo de 5 y un máximo de 150 integrantes.
 
 10. Los Factores y el Puntaje para determinar la prelación de los postulantes, de los Barrios de las comunas de Punta Arenas y Natales, serán los siguientes:
 
