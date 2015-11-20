@@ -80,9 +80,7 @@ determinar el contorno urbano señalado en
 
 el artículo 3° de la presente resolución.
 
-> **Nota.** Los numerales 2, 3 y 4 del artículo único de la Resolución 6028 Exenta, Transportes, publicada el 19.11.2015, modifica la presente norma en el sentido de reemplazar en los numerales 5.5.6, 5.5.7 y 5.5.8 de la manera que la citada norma indica.
-
-> **Nota.** NOTA 1 Los numerales 1, 2, 3, 4 y 5 del artículo único de la Resolución 2248 Exenta, Transportes, publicada el 14.11.2018, modifica la presente norma en el sentido de reemplazar en los numerales 5.5.1, 5.5.3, 5.5.7 y 5.5.10 de la manera que la citada norma indica.
+> **Nota.** Los numerales 2, 3, 4 del artículo único de la Resolución 6028 Exenta, Transportes, publicada el 19.11.2015, modifico la presente norma en el sentido de realizar reemplazos en los numerales 5.5.6, 5.5.7, 5.5.8 de la manera que la citada norma indica.
 
 Disposiciones Transitorias
 
