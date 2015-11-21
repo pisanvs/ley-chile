@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE LA SOCIEDAD "IM TRUST S.A. SECURITIZADORA"
+
+Certifico: Que por resolución exenta Nº 311, de 2 de noviembre de 2015 de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Im Trust S.A. Securitizadora", acordada en junta extraordinaria de accionistas celebrada el 2 de septiembre de 2015, y reducida a escritura pública el 9 de septiembre del mismo año, en la 5º Notaría de Santiago de don Patricio Raby Benavente, domiciliado en Gertrudis Echenique número 30, oficina 45, Las Condes, Santiago, consistente en cambiar el nombre de la sociedad por el de "Credicorp Capital S.A. Securitizadora", modificando para estos efectos el artículo primero de los estatutos sociales.
+
+Santiago, 2 de noviembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
