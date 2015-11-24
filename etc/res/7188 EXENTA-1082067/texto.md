@@ -20,9 +20,15 @@ La urgente necesidad de atender a las familias de la comuna de Tocopilla, Regió
 
 Resolución:
 
-1.- Llámase a partir de la fecha de publicación en el Diario Oficial de la presente resolución y establézcase 2 selecciones para este llamado, la primera para el día 30 de septiembre del presente año y la segunda selección al 20 de octubre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la región si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, para la reparación de viviendas de familias damnificadas, de la comuna de Tocopilla, Región de Antofagasta, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 104 (de Interior) de 1977, y sus modificaciones.
+1.- Llámase, a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 11 de diciembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la región si esto sucede antes de esa fecha, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, para la reparación de viviendas de familias damnificadas de la comuna de Tocopilla, Región de Antofagasta, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. Nº 104 (de Interior), de 1977, y sus modificaciones. Podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con proyectos aprobados por el Serviu de la Región de Antofagasta antes de las siguientes fechas de cierre de los procesos de postulación:
 
-Las selecciones serán mensuales y podrán participar de éstas las familias que cuenten con proyectos aprobados por el SERVIU de la Región de Antofagasta, al último día hábil de cada mes.
+Primera selección: 30 de septiembre de 2015
+
+Segunda selección: 30 de octubre de 2015
+
+Tercera selección: 30 de noviembre de 2015
+
+Cuarta selección: 11 de diciembre de 2015.
 
 2.- Sólo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo, que afectó a la comuna de Tocopilla, Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con "daño reparable moderado" y "daño reparable mayor", tras la aplicación de la Ficha de Catastro extendida por el SERVIU. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 10 días hábiles para efectuarlo.
 
@@ -146,15 +152,19 @@ El postulante damnificado que tenga un subsidio vigente del Programa de Protecci
 
 El SERVIU podrá actuar como EP, según lo establecido en el resuelvo 8.4 de la presente resolución.
 
-9. Pagos de Asistencia técnica: El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que SERVIU pagará a la EP, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del resuelvo 5 de la presente resolución.
+9.- Pagos de Asistencia Técnica: El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que Serviu pagará a la EP, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del Resuelvo 5 de la presente resolución.
 
-SERVIU pagará a la EP, según corresponda, por los servicios de Asistencia técnica, el monto que proceda de acuerdo a los servicios efectivamente realizados, dividido en 2 parcialidades:
+Serviu pagará a la EP, según corresponda, por los servicios de Asistencia Técnica, el monto que proceda de acuerdo a los servicios efectivamente realizados, dividido en 2 parcialidades:
 
-Primer pago: Correspondiente a los servicios de Organización de la Demanda y Desarrollo y Postulación del Proyecto. Se pagará un 50% del valor total de la Asistencia Técnica, una vez aprobado por SERVIU el proyecto correspondiente y seleccionadas las familias. En el caso de que parte de la vivienda donde se aplica el subsidio requiera ser regularizada, la EP deberá presentar junto con la carpeta del proyecto, el permiso de edificación por los recintos no regularizados.
+Primer pago: Correspondiente a los servicios de Organización de la Demanda, Desarrollo de Proyectos y Postulación del Proyecto. Se pagará el 100% de lo correspondiente a la Asistencia Técnica del proyecto base, además de la Asistencia Técnica adicional que corresponda, según lo señalado en el informe técnico.
 
-Segundo Pago: Correspondiente a los servicios de Inspección Técnica de Obra. Se pagará por estas labores el 50% del valor total de la Asistencia Técnica, una vez que se obtenga el certificado de recepción municipal emitido por la D.O.M. respectiva, en aquellos proyectos que así lo requieran y/o una vez recepcionado el proyecto por SERVIU. En el caso que la vivienda en que se aplica el subsidio requiera regularizar parte de sus construcciones, el monto obtenido en este pago se incrementará en 5 UF, monto al cual se le podrá aumentar 2 UF por cada informe y/o certificado requerido (electricidad, agua potable, alcantarillado y gas) llegando a un máximo de 11 UF, las que serán pagadas luego de obtenida la recepción por parte de la D.O.M.
+Segundo Pago: Correspondiente a los servicios de Contratación de Obra y Fiscalización Técnica de Obra, los cuales se pagaran en 2 cuotas, de acuerdo a lo siguiente:
 
-En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescrito en el numeral 52, del artículo 6º, de dicho acto administrativo, para los servicios de Organización de la Demanda y Postulación de Proyectos y Seguimiento de Proyectos y Fiscalización Técnica de Obras.
+a) 2 UF por el contrato firmado con la empresa constructora, más 5 UF correspondientes al monto de asistencia técnica por la fiscalización técnica de obras, monto que se pagará al momento del inicio de obras en cada vivienda.
+
+b) Las 7 UF de saldo del monto correspondiente a la fiscalización técnica de obras se pagarán una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
+
+En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescito en el numeral 52 del artículo 6º de dicho acto administrativo, para los servicios de Organización de la Demanda y Postulación de Proyectos y Seguimiento de Proyectos y Fiscalización Técnica de Obras.
 
 10. Pagos del Subsidio Habitacional: Los subsidios podrán ser cobrados en la medida que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
