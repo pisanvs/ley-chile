@@ -424,6 +424,8 @@ Comuna Licantén:
 
 . La Pesca
 
+. Pichibudi
+
 Comuna Curepto:
 
 . La Trinchera
@@ -435,6 +437,8 @@ Comuna Constitución:
 . Maguillines
 
 . Los Pellines
+
+. El Parrón
 
 Comuna Chanco:
 
@@ -464,17 +468,11 @@ Comuna Arauco:
 
 . Rumena
 
-. Tubul
+. Muelle Artesanal de Tubul
 
 . Yana
 
-Comuna Cañete:
-
-. Huentelolén
-
 Comuna Cobquecura:
-
-. Buchupureo
 
 . Cobquecura
 
@@ -504,7 +502,7 @@ Comuna Lebu:
 
 . La Hacienda - Isla Mocha
 
-. Lebu
+. Puerto Pesquero Artesanal de Lebu
 
 . Los Cazones
 
@@ -515,8 +513,6 @@ Comuna Lebu:
 Comuna Lota:
 
 . Caleta Lota Bajo
-
-. Colcura
 
 . El Blanco
 
@@ -541,8 +537,6 @@ Comuna San Pedro de la Paz:
 Boca Sur
 
 Comuna Talcahuano:
-
-. Cantera
 
 . Chome
 
@@ -573,8 +567,6 @@ Comuna Tirúa:
 . Tirúa
 
 Comuna Tomé:
-
-. Cocholgue Caleta Chica
 
 . Cocholgue Caleta Grande
 
