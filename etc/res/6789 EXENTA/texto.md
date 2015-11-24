@@ -28,7 +28,7 @@ Resolución:
 
 1.1 Este subsidio se asignará a las familias que cumplan con todos los requisitos que establece esta resolución, una vez que éstas concurran a las oficinas del Serviu respectivo para hacerlo efectivo y manifiesten formalmente su interés en recibirlo. Lo anterior será sancionado posteriormente a través de resoluciones de asignación que aprueben las nóminas de beneficiados, las que serán publicadas en el Diario Oficial y en la página web del Ministerio de Vivienda y Urbanismo.
 
-1.2 Las familias podrán participar de este llamado hasta el día 30 de septiembre del presente año o hasta agotarse los recursos disponibles para este llamado, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
+1.2 Las familias podrán participar de este llamado, retirando sus tarjetas activadas del SERVIU, hasta el día 11 de diciembre del presente año, o hasta agotarse los recursos disponibles para este llamado si esto sucede antes de esa fecha, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
 
 1.3 La vigencia de los subsidios entregados a través de esta resolución será hasta el 1 de abril de 2016.
 
@@ -86,7 +86,7 @@ Resolución:
 
 Región Unidades de Fomento
 
-ANTOFAGASTA 2.626
+Antofagasta 4.000
 
 El número de familias beneficiadas en la región, alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, efectuándose la asignación por orden de llegada, siempre que cumplan los requisitos que se establecen en esta resolución, hasta enterar el total de los recursos disponibles para la región.
 
