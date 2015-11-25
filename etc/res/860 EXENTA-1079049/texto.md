@@ -116,17 +116,19 @@ Los no propietarios, podrán postular a los llamados del DS Nº 49 (V. y U.), de
 
 15. El monto subsidio se definirá en función del tipo de proyecto a abordar según modalidad:
 
-a. Subsidio Ejecución vía Constructora.
+.
 
-Para financiar obras del Título II letra b1.), y para financiar obras del Título II letra b2.), conforme al siguiente cuadro:
+b. Regularización de la vivienda.
+
+Para obras asociadas a la regularización de la vivienda, se pagará un monto del subsidio de 25 UF independiente del tramo de la comuna asociado. Tratándose de proyectos que contemplen regularización de la vivienda, la entidad patrocinante podrá solicitar en presupuesto detallado, conforme al orden de prelación definido en este llamado especial y debidamente justificado al momento de la postulación, el incremento de las 25 UF a que hace referencia la letra b) del resuelvo 15, con cargo a un monto determinado de las 55 UF que componen el subsidio base.
 
 .
 
-1. Accesibilidad Universal: Se podrá adicionar un monto de hasta 30 UF si el proyecto contempla obras para adecuar la vivienda para facilitar la movilidad de integrantes del grupo familiar que tengan discapacidad. Lo anterior será acreditado con copia de la credencial de discapacidad vigente o autorización emanada de la SEREMI.
+1. Accesibilidad Universal: Se podrá adicionar un monto de hasta 30 UF si el proyecto contempla obras para adecuar la vivienda para facilitar la movilidad de integrantes del grupo familiar que tengan discapacidad. Lo anterior será acreditado con copia de la credencial de discapacidad vigente o autorización emanada de la SEREMI. En este último caso, el SERVIU exigirá la correspondiente autorización emanada de la SEREMI, además de una declaración jurada del postulante en donde declare su condición de invalidez que le habilita para acceder al incremento por accesibilidad universal.
 
 2. Asbesto cemento. Se podrá adicionar un monto de hasta 15 UF en obras de reparación de la envolvente o de instalaciones que contemple remoción de elementos con asbesto cemento, lo que deberá ser aprobado por SERVIU a través del proyecto técnico presentado.
 
-3. Plagas: Se podrá adicionar un monto de hasta 15 UF en obras de carácter estructural o de reparación de la envolvente que contemplen erradicación y/o eliminación de plagas.
+3. Plagas: Se podrá adicionar un monto de hasta 15 UF en obras de carácter estructural o de reparación de la envolvente que contemplen erradicación y/o eliminación de plagas. Para efectos del presente llamado especial, y en vista de que los estudios científicos han considerado a la humedad como el primer agente responsable de la degradación y ataques presentes en las maderas expuestas a filtraciones en las viviendas, se considerará bajo el concepto de "Plagas", cuando exista la presencia de humedad y/o hongos y/o pudrición en la vivienda, que por acción de agentes abióticos como la lluvia sobre la madera, y que por el exceso de humedad provocada por filtraciones, provoca la aparición de hongos, que con el tiempo favorecerán a la pérdida de resistencia mecánica de la madera, además de generar cambios dimensionales e incrementos de peso, posibilitando la generación de grietas y pudriciones. Por lo anterior, el SERVIU podrá considerar dicha calificación para atender a la demanda existente en las viviendas postulantes.
 
 4. Adulto mayor: Se podrá adicionar un monto de hasta 15 UF en caso de ocupantes o residentes postulantes de viviendas beneficiadas que acrediten esta circunstancia.
 
