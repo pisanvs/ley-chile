@@ -164,7 +164,7 @@ Establécese una Comisión Técnica de Facilitación y Simplificación del Trans
 
 La Comisión Técnica de Facilitación y Simplificación del Transporte Marítimo estará compuesta por:
 
-El Jefe del Departamento de Transporte Marítimo, Fluvial y Lacustre, del Ministerio de Transportes y Telecomunicaciones, que la presidirá.
+Un representante del Ministerio de Transportes y Telecomunicaciones, que la presidirá.
 
 Un representante de la Dirección General del Territorio Marítimo y de Marina Mercante.
 
@@ -188,9 +188,15 @@ Un representante de la Asociación de Armadores de Transporte Marítimo, Fluvial
 
 Un representante de la Asociación Nacional de Agentes de Naves de Chile A.G. (ASONAVE)
 
-Actuará de Secretario de la Comisión un funcionario del Departamento Marítimo, Fluvial y Lacustre.
+Actuará de Secretario de la Comisión un funcionario del Ministerio de Transportes y Telecomunicaciones.
 
 Podrán participar en calidad de invitados, en las reuniones de la Comisión Técnica de Facilitación y Simplificación del Transporte Marítimo, representantes de otras instituciones cuando sea de interés conocer su opinión sobre algún tema en particular.
+
+#### Artículo 18º bis
+
+Establécese un Comité Sur Austral de Facilitación para las regiones de Los Lagos, Aysén y Magallanes y la Antártica Chilena, al que le corresponderá apoyar las funciones de la Comisión Técnica de Facilitación, proveyendo, para sus respectivas regiones, de información semestral sobre los resultados de los planes, proyectos o programas aplicados. Al efecto, podrá proponer a la Comisión Técnica de Facilitación las acciones o medidas que se estimen indispensables para la mejora de la conectividad y desarrollo marítimo-portuario de las regiones.
+
+El Comité estará integrado por los representantes regionales de los organismos indicados en el artículo 18º. Asimismo integrará este Comité el representante del Ministerio de Transportes y Telecomunicaciones señalado en el artículo 18 y actuará como Secretario un funcionario del mismo Ministerio.
 
 #### Artículo 19º
 
