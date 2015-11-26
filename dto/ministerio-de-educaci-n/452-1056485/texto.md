@@ -448,7 +448,7 @@ Al egreso de la educación media técnico-profesional, los estudiantes habrán d
 
 4. Atender al adulto mayor en situaciones de emergencia y accidentes, aplicando técnicas de primeros auxilios y protocolos establecidos, resguardando la seguridad individual y del grupo.
 
-5. Administrar productos farmacológicos de aplicación sencilla, tales como grageas y gotas por vía oral, aplicación de ung&uuml;entos en la piel e inyecciones intramusculares, para diferentes tratamientos de acuerdo a las instrucciones del profesional médico que los ha prescrito.
+5. Administrar productos farmacológicos de aplicación sencilla, tales como grageas y gotas por vía oral, aplicación de ungüentos en la piel e inyecciones intramusculares, para diferentes tratamientos de acuerdo a las instrucciones del profesional médico que los ha prescrito.
 
 6. Atenderlas necesidades de higiene y confort de las personas adultos mayores durante su permanencia en Establecimientos de larga estadía o domicilio, aplicando los procedimientos y técnicas ergonométricas pertinentes, respetando su privacidad, grado de autonomía, creando ambientes adecuados a sus necesidades y brindando una acogida favorable en el acompañamiento.
 
@@ -2010,6 +2010,8 @@ Al egreso de la Educación Media Técnico-Profesional, los estudiantes habrán d
 
 8. Realizar el control de calidad de los productos considerando el formato estándar y las especificaciones técnicas de éstos.
 
+> **Nota.** El numeral 1 del Artículo Único del Decreto 452, Educación, publicado el 25.11.2015, modifica la tabla inserta en el presente artículo "Sectores y Especialidades Técnico-Profesional", en el sentido de reemplazar la mención "Vitivinicultura" por "Vitivinícola".
+
 #### Artículo 2º
 
 Los planes y programas de estudio elaborados por el Ministerio de Educación de acuerdo a las bases curriculares a que se refiere el presente decreto, y aprobados por el Consejo Nacional de Educación conforme a la ley, serán obligatorios para los establecimientos educacionales que carezcan de planes y programas propios de estudio.
@@ -2050,7 +2052,9 @@ Las bases curriculares para la educación media formación diferenciada técnico
 
 #### Artículo segundo
 
-Los establecimientos educacionales que impartan las especialidades de Atención Social y Recreativa, Celulosa y Papel, Mecánica de Mantención de Aeronaves, Procesamiento de la Madera, Productos del Cuero, Secretariado, Tejidos, Textil y Ventas, reguladas en el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos de estas especialidades en 3º año de educación media hasta el año 2015.
+Los establecimientos educacionales que impartan las especialidades de Atención Social y Recreativa, Celulosa y Papel, Procesamiento de la Madera, Productos del Cuero, Secretariado, Tejidos, Textil y Ventas, reguladas en el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos de estas especialidades en 3º año de educación media hasta el año 2015.
+
+Los establecimientos educacionales que impartan la especialidad de Mecánica de Mantención de Aeronaves, también regulada por el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos en 3º año de educación media hasta el año 2017
 
 #### Artículo tercero
 
