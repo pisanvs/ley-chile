@@ -1,0 +1,21 @@
+TÉRMINO CAMPAÑA DE ERRADICACIÓN DE BROTE DE LA MOSCA DEL MEDITERRÁNEO (CERATITIS CAPITATA W.) EN LA COMUNA DE LA SERENA Y COQUIMBO
+
+Núm. 1.091 exenta.- La Serena, 12 de noviembre de 2015.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero, modificada por la Ley Nº 20.720, de 9 de enero de 2014; Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado; decreto con fuerza de ley Nº 29, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo; decreto ley Nº 3.557, de 1980, sobre Protección Agrícola, modificado por Ley Nº 20.308, de 27 de diciembre de 2008; resolución exenta Nº 3.513, de 1995, del Director Nacional del SAG, que declara a Chile como país libre de Ceratitis capitata, modificada por resolución exenta Nº 1.095, de 28 de abril de 2000; resolución exenta Nº 244, de 20 de marzo de 2015, de Director Regional del SAG, Región de Coquimbo, que establece regulaciones cuarentenarias para el control y erradicación de la Mosca del Mediterráneo (Ceratitis capitata W.) en los lugares que indica; resolución exenta Nº 347, de 22 de abril de 2015, y resolución exenta Nº 516, de 9 de junio de 2015, todas del Director Regional del SAG, Región de Coquimbo, que establece nuevas áreas de regulaciones cuarentenarias para el control y erradicación de la Mosca del Mediterráneo (Ceratitis capitata) en los lugares que se indica; resolución exenta Nº 3.399, de 13 de mayo de 2015, del Director Nacional del SAG, y resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que el Servicio Agrícola y Ganadero, en cumplimiento de la resolución exenta Nº 244, de fecha 20 de marzo de 2015, de la Dirección Regional de Coquimbo, y de sus nuevas áreas que se establecieron por resolución exenta Nº 347, de 22 de abril, y resolución exenta Nº 516, de 9 de junio, todas del año 2015, que se ha aplicado todas las medidas fitosanitarias correspondientes en el área regulada de las comunas de La Serena y Coquimbo, por un período equivalente a tres ciclos biológicos teóricos de la plaga, sin destacar la ocurrencia de nuevas capturas, y
+
+2. Que de acuerdo al modelo de días grados utilizados por el Servicio Agrícola y Ganadero para estimar los ciclos biológicos teóricos del insecto, el día 11 de noviembre de 2015 se ha cumplido el tercer ciclo biológico después de la última detección de estado inmaduro ocurrido en el área regulada el día 12 de mayo de 2015, período requerido para declarar la erradicación de la plaga y suspender regulaciones cuarentenarias en el área regulada de las comunas de La Serena y Coquimbo
+
+Resuelvo:
+
+1. Declárese libre de la Mosca del Mediterráneo [Ceratitis capitata (Wied.)] el área regulada de las comunas de La Serena y Coquimbo, Provincia de Elqui, Región de Coquimbo, establecida mediante resolución exenta Nº 244, de fecha 20 de marzo de 2015, de la Dirección Regional de Coquimbo, y de sus nuevas áreas de regulaciones que se establecieron por resolución exenta Nº 347, de 22 de abril de 2015, y resolución exenta Nº 516, de 9 de junio de 2015, y suspéndase la disposición de las medidas fitosanitarias establecidas en dicha resolución para la erradicación del brote de la Mosca del Mediterráneo, y
+
+2. Derógase la resolución exenta Nº 244, de fecha 20 de marzo de 2015, que estableció las regulaciones cuarentenarias y el área regulada en las comunas de La Serena y Coquimbo, de sus nuevas áreas que se establecieron por resolución exenta Nº 347, de 22 de abril de 2015, y resolución exenta Nº 516, de 9 de junio de 2015, todas del Director Regional del SAG, Región de Coquimbo, y aplíquese lo dispuesto en la resolución Nº 3.513, de 1995, que declara a Chile como país libre de la Mosca del Mediterráneo [Ceratitis capitata (Wied.)], modificada por la resolución 1.095, de 2000, ambas de la Dirección Nacional del Servicio Agrícola y Ganadero.
+
+Anótese, transcríbase, comuníquese y publíquese.- Jorge Esteban Fernández González, Director Regional Región de Coquimbo Servicio Agrícola y Ganadero.
