@@ -50,7 +50,13 @@ f) Dos representantes del Presidente de la República nombrados con acuerdo del 
 
 #### Artículo 4º
 
-Corresponderán al Consejo las atribuciones exclusivas de otorgar, denegar, renovar y revocar los permisos de operación de casinos de juego en el país, como asimismo las licencias de juego y los servicios anexos; todo ello sobre la base de las proposiciones que le formule el Superintendente.
+Corresponderán al Consejo las atribuciones exclusivas de otorgar, denegar, renovar y revocar los permisos de operación de casinos de juego en el país, como asimismo otorgar, ampliar o disminuir las licencias de juego y los servicios anexos; todo ello sobre la base de las proposiciones que le formule el Superintendente.
+
+Para el otorgamiento, renovación y denegación de los permisos de operación, le corresponderá pronunciarse sobre la proposición de puntaje de evaluación de ofertas técnicas efectuada por la Superintendencia, ratificándolo, solicitando su revisión o poniendo término al proceso de evaluación, según sea el caso; y aplicar los criterios que determinan a la sociedad postulante a la que se debe otorgar o renovar el permiso, conforme la normativa legal y reglamentaria.
+
+Asimismo, en la tramitación de los procesos de otorgamiento y renovación de permisos de operación, deberá participar, a través de un representante, en la audiencia de presentación de las ofertas técnicas y económicas, así como sesionar para efectos de proceder con la audiencia de apertura de las ofertas económicas.
+
+Asimismo, el Consejo deberá aprobar o rechazar, previa propuesta de la Superintendencia, las modificaciones al proyecto autorizado a una sociedad operadora, en el tiempo que media entre el otorgamiento del permiso de operación y su respectiva certificación, teniendo en consideración los criterios establecidos para ello en el reglamento para la Tramitación y Otorgamiento de Permisos de Operación de Casinos de Juego.
 
 #### Artículo 5º
 
@@ -66,9 +72,11 @@ d) Someter a aprobación de los consejeros el acta de la sesión anterior.
 
 e) Cumplir y velar por la ejecución de los acuerdos adoptados por el Consejo.
 
-f) Informar del cumplimiento de los acuerdos del Consejo o de su estado de avance, y
+f) Informar del cumplimiento de los acuerdos del Consejo o de su estado de avance.
 
-g) Las demás funciones que le asigne la ley.
+g) Nombrar, dentro de los miembros del Consejo, a la persona que participará en las audiencias de presentación de las ofertas técnicas y económicas, a quien le corresponderá custodiar y resguardar las ofertas económicas que presenten las sociedades postulantes en los términos establecidos en el Reglamento para la tramitación y otorgamiento de permisos de operación de casinos de juego; y que será el encargado de abrir los sobres en las audiencias de apertura de ofertas económicas, y
+
+h) Las demás funciones que le asigne la ley.
 
 #### Artículo 6º
 
@@ -90,7 +98,7 @@ a) Proponer al Presidente las materias de tabla.
 
 b) Despachar las citaciones a sesiones.
 
-c) Efectuar la relación a los consejeros de los expedientes de solicitud de permisos de operación y de renovación de los mismos; como asimismo de los procedimientos de revocación que procedieren y de otras materias a requerimiento del Presidente.
+c) Efectuar la relación a los consejeros de los expedientes de solicitud de permisos de operación, de renovación de los mismos, de modificaciones al proyecto autorizado en el tiempo que media entre el otorgamiento del permiso de operación y la respectiva certificación, y de ampliación o reducción de licencias de juegos y/o servicios anexos; como asimismo de los procedimientos de revocación que procedieren y de otras materias a requerimiento del Presidente.
 
 d) Redactar las actas de las sesiones y darles lectura al someterlas a aprobación, si así lo dispusiere el Presidente.
 
@@ -122,6 +130,8 @@ El quórum para celebrar válidamente las sesiones del Consejo será de cinco co
 
 Para efectos de establecer la existencia o no de quórum suficiente para sesionar, el Secretario Ejecutivo efectuará un primer y segundo llamado. El primero se hará cumplida la hora en que deba iniciarse la sesión; el segundo, deberá efectuarse después de transcurridos quince minutos del primero.
 
+Se entenderá que participan en las sesiones aquellos consejeros que, a pesar de no encontrarse físicamente presentes, están comunicados simultánea y permanentemente a través de medios tecnológicos con los demás consejeros. La Superintendencia determinará mediante instrucciones de general aplicación los medios tecnológicos autorizados para dicha comunicación. La asistencia en la sesión de los consejeros que participaron a través de los medios tecnológicos antes señalados será certificada por el Presidente y por el Secretario del Consejo Resolutivo, dejando constancia de este hecho en el acta que se levante de la respectiva sesión.
+
 De la falta de quórum para sesionar se deberá dejar constancia en un acta que se levantará al efecto, en la que además, se consignará el nombre de los consejeros asistentes e inasistentes, así como de la circunstancia de haberse despachado, oportunamente, los correspondientes avisos escritos de citación a la sesión, la cual deberá ser firmada por el Presidente y el Secretario Ejecutivo.
 
 #### Artículo 12
@@ -146,11 +156,15 @@ En caso de producirse alguna de las inhabilidades a que hace alusión el inciso 
 
 #### Artículo 15
 
-Cuando el Consejo deba resolver sobre el otorgamiento de un permiso de operación o sobre una renovación, deberá pronunciarse dentro del plazo de treinta días contado desde que quede constancia de haber recibido el Presidente del Consejo el respectivo expediente y la correspondiente proposición del Superintendente; igual término regirá tratándose de solicitudes de ampliación o reducción de licencias de juego o de servicios anexos.
+El Consejo deberá pronunciarse sobre el puntaje propuesto por la Superintendencia en la etapa de evaluación de la oferta técnica, ratificándolo, solicitando su revisión o poniendo término a la referida evaluación, en el plazo de cuarenta días contados desde la recepción del respectivo expediente por parte del Presidente del Consejo. Dicho expediente deberá contener la proposición de puntaje realizada por el Superintendente.
+
+Tratándose de la apertura de las ofertas económicas, esta deberá realizarse en sesión del Consejo Resolutivo, dentro del plazo de cinco días siguientes a la publicación de la resolución de evaluación a que se refiere la letra e) del artículo 19 de la Ley Nº 19.995, oportunidad en la que dicho Consejo deberá resolver el otorgamiento, denegación o renovación del permiso de operación solicitado, conforme la normativa legal y reglamentaria.
+
+Para efectos de las solicitudes de modificación del proyecto anteriores a la certificación que habilita para dar inicio al funcionamiento, y de ampliación o reducción de licencias de juego o de servicios anexos, conforme los artículos 28 y 29 de la Ley Nº 19.995, el Consejo deberá pronunciarse dentro del plazo de treinta días, contado desde la correspondiente proposición del Superintendente.
 
 #### Artículo 16
 
-El acuerdo del Consejo que otorgue, deniegue o renueve un permiso de operación de casino de juego deberá ser fundado, conforme a los criterios establecidos en la ley Nº 19.995 y en el decreto supremo Nº 211, de 2005, del Ministerio de Hacienda, que aprueba el reglamento para la Tramitación y Otorgamiento de los Permisos de Operación de los Casinos de Juego, y estar basado en los antecedentes que al respecto obren en poder de la Superintendencia.
+El acuerdo del Consejo que otorgue, deniegue o renueve un permiso de operación de casino de juego deberá ser fundado en los criterios que para tal efecto establece la normativa legal y reglamentaria.
 
 #### Artículo 17
 
