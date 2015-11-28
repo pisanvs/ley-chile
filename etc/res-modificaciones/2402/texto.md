@@ -1,0 +1,11 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.402, del 28 de agosto de 2015, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase la resolución (M) Nº 1.024, de fecha 8 de junio de 1995, que otorgó concesión de acuicultura de porción de agua y fondo de mar, cuya transferencia fue autorizada por resolución (M) Nº 1.572, de fecha 30 de julio de 1999, modificada por resolución Nº 1.556, de fecha 19 de agosto de 2003, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, y modificada por resolución exenta Nº 1.111, de fecha 27 de febrero de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, a Productos del Mar Ventisqueros S.A., sociedad chilena, RUT Nº 96.545.040-8, con domicilio en Avenida Juan Soler Manfredini Nº 11, Torre Plaza, piso 11, oficina 1102, Puerto Montt.
+
+2.- Reemplázase, en la resolución (M) Nº 1.024, de fecha 8 de junio de 1995 y en resolución (M) Nº 1.572 de fecha 30 de julio de 1999, el párrafo Nº 4 del resuelvo y en la resolución Nº 1.556, de fecha 19 de agosto de 2003, el párrafo Nº 2 del resuelvo, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, por el siguiente:
+
+"El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta Nº 420, de fecha 24 de abril de 1995, modificado por resolución exenta Nº 1.812, de fecha 4 de septiembre de 2001, ambos del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificado por resolución exenta Nº 3.382, de fecha 20 de diciembre de 2011, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, y modificado por resolución exenta Nº 3.416, de fecha 6 de diciembre de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura".
+
+Santiago, 9 de noviembre de 2015.- Por orden de la Subsecretaría para las Fuerzas Armadas.- José Miguel Poblete East, Abogado, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
