@@ -108,7 +108,7 @@ Las empresas transportadoras de valores deberán realizar una efectiva y eficien
 
 Los vehículos blindados, deberán tener en el techo exterior un círculo de color naranja reflectante de la luz, de a lo menos un metro de diámetro donde deberá ir escrita en color negro la identificación del transporte. Su estructura básica, constará de tres partes principales debidamente aisladas denominadas cabina del conductor, habitáculo de la tripulación y bóveda de custodia de valores. Esta última deberá contar con cerradura randómica. Las puertas del habitáculo de la tripulación, de la bóveda y de la cabina del conductor, deberán contar con cerraduras que no permitan la apertura de éstas simultáneamente. Todos los vehículos utilizados para el transporte de valores deberán tener, a lo menos, equipos de transmisión radial o de transmisión continua para mantenerse permanentemente en contacto con la central de comunicaciones de la empresa y contar, además, con un sistema de localización ya sea satelital o de efectos similares, monitoreados en línea.
 
-Estos vehículos, tendrán un blindaje de resistencia mínima a la penetración de un proyectil calibre 0.762 y sus neumáticos serán resistentes al pinchazo.
+Estos vehículos, tendrán un blindaje de resistencia mínima a la penetración de un proyectil calibre 7.62 x 39 mm y sus neumáticos serán resistentes al pinchazo. Sin perjuicio de lo anterior, en el caso de las operaciones de alto riesgo a que se refiere el artículo 13 del presente reglamento y mediante resolución fundada, la Autoridad Fiscalizadora podrán exigir que los vehículos tengan un blindaje de 7.62 x 51 mm.
 
 Asimismo, los vehículos referidos, deberán contar con a lo menos tres cámaras de televigilancia de alta resolución, que permitan la captación de imágenes nítidas, dos al interior y una al exterior de los vehículos. Una de las cámaras que se instalarán al interior, deberá estar en la cabina del conductor y la otra en el habitáculo de la tripulación. Las cámaras deberán estar debidamente resguardadas, y conectadas directamente con una central de monitoreo de la respectiva empresa transportadora. Las grabaciones realizadas por las cámaras antes referidas, deberán resguardarse a lo menos por quince días hábiles, o durante un año, en el caso de que existan antecedentes de comisión de un delito.
 
@@ -150,7 +150,7 @@ a) Aquellas que se realicen fuera de la franja horaria señalada en el artículo
 
 b) Aquellas operaciones realizadas en zonas urbanas, comprendidas en las ciudades de Viña del Mar, Valparaíso, Concepción, Temuco, Rancagua y la Región Metropolitana.
 
-Las operaciones señaladas en el presente artículo, deberán efectuarse siempre con una tripulación de cuatro vigilantes privados o una escolta de vigilantes privados de apoyo de acuerdo a las disposiciones del artículo 14º, según determine Carabineros de Chile.
+Las operaciones señaladas en el presente artículo, deberán efectuarse siempre con una tripulación de, a lo menos, cuatro vigilantes privados o una escolta de vigilantes privados de apoyo de acuerdo a las disposiciones del artículo 14º, según determine Carabineros de Chile.
 
 Dicha Autoridad determinará con audiencia de la entidad Transportadora de Valores, todos aquellos procedimientos u operaciones que sean de alto riesgo y determinará las medidas de seguridad excepcionales que proceda.
 
@@ -220,7 +220,7 @@ Las empresas de transporte de valores, estarán autorizadas para mantener los di
 
 Las operaciones que involucren apertura de la bóveda, deberán realizarse con la presencia de a lo menos una tripulación de tres vigilantes privados, en los mismos términos del artículo 6º y tendrá lugar con ocasión de las recargas o de la reposición de dinero o de asistencia técnica.
 
-Para la solución de fallas o de asistencia técnica, que involucren apertura de bóveda, las transportadoras podrán realizar esta actividad usando vehículos no blindados con el distintivo de la empresa, con una tripulación de dos vigilantes privados.
+Para la solución de fallas o de asistencia técnica, que involucren apertura de bóveda, las transportadoras podrán realizar esta actividad usando vehículos no blindados con el distintivo de la empresa, con una tripulación de, a lo menos, dos vigilantes privados.
 
 Cualquier recarga o reposición de dinero a los contenedores de los cajeros automáticos, deberá hacerse en una zona aislada del público, en términos tales que impidan a terceras personas acceder al lugar de la faena mientras ésta se realiza. Se entenderá por aislamiento idóneo para estos efectos el que se realice con barreras u otro elemento similar acorde al lugar en que se deba practicar. Lo dispuesto en el presente inciso será de cargo de la entidad en que se encuentra emplazado el respectivo cajero automático.
 
@@ -283,5 +283,9 @@ Lo dispuesto en los artículos 8 y 10 del párrafo 1º del Título III y del pá
 #### Artículo 2º
 
 Los estudios de seguridad actualmente vigentes, a que se refiere el Art. 4 del presente decreto, deberán renovarse dentro del plazo de 45 días, contados desde la publicación del presente decreto.
+
+#### Artículo 3º
+
+La obligación respecto del blindaje de resistencia mínima a la penetración de un proyectil calibre 7.62 * 39 mm de los vehículos blindados establecida en el inciso segundo del artículo 10º, deberá implementarse en todas las nuevas unidades que se adquieran por las empresas transportadoras de valores, desde la publicación del presente decreto supremo modificatorio.
 
 Anótese, tómese razón, comuníquese y publíquese.- RODRIGO PEÑAILILLO BRICEÑO, Vicepresidente de la República.- Mahmud Aleuy Peña Y Lillo, Ministro del Interior y Seguridad Pública (S).
