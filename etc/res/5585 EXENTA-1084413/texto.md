@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Por resolución exenta Nº 5.585, de 13 de noviembre de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba Contrato de Concesión 8 para la instalación y operación de cinco plantas revisoras clase B en las comunas Macul, Ñuñoa y Cerrillos, en la Región Metropolitana, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, y el concesionario "S.G.S. Chile Limitada, Sociedad de Control", con fecha 6 de noviembre de 2015, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
