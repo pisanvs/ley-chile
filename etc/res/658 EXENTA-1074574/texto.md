@@ -40,6 +40,10 @@ Sexta selección: 30 de septiembre de 2015
 
 Séptima selección: 30 de octubre de 2015
 
+Octava selección: 30 de noviembre de 2015.
+
+Las familias damnificadas que no participen de este llamado extraordinario, serán excluidas del registro de damnificados y de las fichas de catastro del Serviu.
+
 Párrafo eliminado.
 
 2.- La postulación a este llamado se podrá realizar en forma colectiva o individual.
