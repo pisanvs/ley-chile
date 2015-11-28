@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Por resolución exenta Nº 5.584, de 13 de noviembre de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba Contrato de Concesión 12 para la instalación y operación de dos plantas revisoras clase A en las comunas de San Bernardo y Renca, en la Región Metropolitana, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, y el concesionario "Revisiones Técnicas Mival Arica Ltda.", con fecha 10 de noviembre de 2015, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
