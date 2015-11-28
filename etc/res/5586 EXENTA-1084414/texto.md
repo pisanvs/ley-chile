@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Por resolución exenta Nº 5.586, de 13 de noviembre de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba Contrato de Concesión 9 para la instalación y operación de tres plantas revisoras clase AB en las comunas Melipilla, Lampa y Paine, en la Región Metropolitana, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana y el concesionario "Systech Chile Ltda.", con fecha 10 de noviembre de 2015, cuya vigencia es de ocho años contados desde la publicación del presente extracto en el Diario Oficial.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
