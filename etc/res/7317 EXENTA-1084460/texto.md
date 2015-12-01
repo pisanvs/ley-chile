@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 7.317 EXENTA, DE 19.11.2015
+
+Por la presente resolución exenta se han modificado las resoluciones exentas Nos 4.097, de 1999; 471, de 2001, y 3.452, de 2002, todas del Ministerio de Educación, que aprobaron planes y programas especiales de estudio de 1º a 4º año de educación media, al Colegio Los Andes, comuna de Vitacura, provincia de Santiago, Región Metropolitana.
+
+Además, se aprueban programas de estudio para los Sectores de Ciencia Teológica y Ética (1º a 4º año); Filosofía y Psicología (2º a 4º año); Historia de Chile (3º año); Expresión del Arte (3º año); Arte y Diseño (3º año); La Historia, una Realización del Hombre (3º año); Ciencias Experimentales: Biología (3º y 4º año); Atletismo (3º y 4º año); Argumentación y Debate (3º y 4º año); Coro (3º y 4º año); Polideportivo (3º y 4º año); Técnicas Especiales (3º y 4º año); Instrumentos Musicales (3º y 4º año); Educación Cívica (3º año); Economía (3º año); Historia Moderna y Contemporánea (4º año); Historia de Chile Contemporánea (4º año); Biología Específica (4º año); Química Avanzada (4º año); Física Intensiva (4º año); Arte y Cultura (4º año); Técnicas de la Expresión (4º año), y Geometría (4º año), que se aprueban en la presente resolución exenta.
+
+Santiago, 19 de noviembre de 2015.- Gonzalo Muñoz Stuardo, Jefe División de Educación General.
