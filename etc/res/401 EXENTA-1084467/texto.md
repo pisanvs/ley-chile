@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 401 EXENTA, DE 26 DE OCTUBRE DE 2015
+
+Por resolución exenta Nº 401, de 26 de octubre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos, ubicado en calle Ruta Q-90 Km. 4, comuna de Laja, provincia de Biobío, Región del Biobío. El tipo de terminal es Terminal de vehículos Categoría "A-2" conforme a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La flota de diseño del terminal corresponde a 40 vehículos, ello de conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones, el cual podrá ser utilizado hasta por una cantidad máxima diaria de 40 vehículos. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de vehículos taxis colectivos urbanos de Laja, cuyo responsable es la empresa Transportes Colectivos Laja S.A., nombre de fantasía "Semoff", rol único tributario Nº 76.143.004-1, representada conjunta o separadamente por don José Manuel Somoza Torres, rol único tributario Nº 5.731.812-0 y don Luis Vicente Moya Fuentes, rol único tributario Nº 8.563.835-1, con recorrido Troncal: Lavandero - San Martín - Balmaceda - Félix Eicher.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima diaria de 40 automóviles, en conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+- **C)** El administrador del terminal será don José Manuel Somoza Torres, rol único tributario Nº 5.731.812-0 con domicilio en pasaje Los Sauces Nº 247, de la comuna de Laja. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
