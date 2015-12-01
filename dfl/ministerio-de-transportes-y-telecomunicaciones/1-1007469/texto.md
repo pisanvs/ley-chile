@@ -118,15 +118,17 @@ b) en otros cruces, justo antes de la intersección;
 
 45) Vehículo para el transporte escolar: Vehículo motorizado construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad;
 
-46) Vía: Calle, camino u otro lugar destinado al tránsito;
+46) Vehículo tranvía: Vehículo motorizado destinado al transporte público remunerado de pasajeros, que se desplaza en zonas urbanas exclusivamente a través de rieles sobre la vía.
 
-47) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
+47) Vía: Calle, camino u otro lugar destinado al tránsito;
 
-48) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
+48) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
 
-49) Zona rural: Área geográfica que excluye las zonas urbanas, y
+49) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
 
-50) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
+50) Zona rural: Área geográfica que excluye las zonas urbanas, y
+
+51) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
 
 #### Artículo 3
 
@@ -1004,7 +1006,7 @@ Artículos 85.- Los servicios de locomoción colectiva de pasajeros y de taxis, 
 
 #### Artículo 86
 
-Al ser requerido por un pasajero, de palabra o mediante la señal correspondiente, o cuando haya personas que deseen subir al vehículo, el conductor estará obligado a detener su marcha completamente en el paradero más próximo. La detención deberá hacerse siempre al costado derecho de los caminos, sobre la berma, y en la vía urbana, junto a la acera.
+Al ser requerido por un pasajero, de palabra o mediante la señal correspondiente, o cuando haya personas que deseen subir al vehículo, el conductor estará obligado a detener su marcha completamente en el paradero más próximo. La detención deberá hacerse siempre al costado derecho de los caminos, sobre la berma, y en la vía urbana, junto a la acera, o al costado izquierdo cuando exista una zona destinada exclusivamente para la detención de los vehículos de transporte público remunerado de pasajeros o cuando las condiciones así lo permitan y lo autorice el Secretario Regional Ministerial de Transportes y Telecomunicaciones respectivo.
 
 #### Artículo 87
 
@@ -1460,9 +1462,11 @@ Este derecho preferente de paso no regirá en los siguientes casos:
 
 2.- En aquellos cruces donde se haya determinada la preferencia mediante signos "PARE" o "CEDA EL PASO";
 
-3.- En las zonas rurales, donde tendrá preferencia el conductor del vehículo que circule por un camino principal, con respecto al que se aproxime o llegue por una vía secundaria. Se entenderá por camino principal, el que tenga pavimento de concreto, asfalto, macadam bituminoso definitivo o los que expresamente determine y señalice la Dirección de Vialidad, y
+3.- En las zonas rurales, donde tendrá preferencia el conductor del vehículo que circule por un camino principal, con respecto al que se aproxime o llegue por una vía secundaria. Se entenderá por camino principal, el que tenga pavimento de concreto, asfalto, macadam bituminoso definitivo o los que expresamente determine y señalice la Dirección de Vialidad;
 
-4.- Respecto de los vehículos que se vayan a incorporar a una zona de tránsito en rotación.
+4.- Respecto de los vehículos que se vayan a incorporar a una zona de tránsito en rotación, y
+
+5.- En los cruces donde se aproxime un vehículo tranvía, sea por la derecha o la izquierda.
 
 #### Artículo 140
 
@@ -1546,7 +1550,7 @@ DEL ESTACIONAMIENTO Y DE LA DETENCIÓN
 
 #### Artículo 148
 
-Los vehículos deberán ser estacionados al lado derecho de la calzada en el sentido del tránsito. Las Municipalidades o la Dirección de Vialidad, podrán, en caso debidamente calificado y siempre que no entorpezcan la circulación, autorizar la detención o el estacionamiento al lado izquierdo, colocando para ello la correspondiente señalización.
+Los vehículos deberán ser estacionados al lado derecho de la calzada en el sentido del tránsito. Las Municipalidades o la Dirección de Vialidad, podrán, en caso debidamente calificado y siempre que no entorpezcan la circulación, autorizar la detención o el estacionamiento al lado izquierdo, colocando para ello la correspondiente señalización, sin perjuicio de la facultad que corresponde a los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones conforme a lo dispuesto en el artículo 86.
 
 #### Artículo 149
 

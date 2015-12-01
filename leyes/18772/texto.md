@@ -6,13 +6,15 @@ Proyecto de ley
 
 #### Artículo 1°
 
-Autorízase al Estado para desarrollar actividades empresariales de servicio público de transporte de pasajeros, mediante ferrocarriles metropolitanos urbanos y suburbanos u otros medios eléctricos complementarios y servicios anexos.
+Autorízase al Estado para desarrollar actividades empresariales de servicio público de transporte de pasajeros, mediante ferrocarriles metropolitanos urbanos y suburbanos u otros medios eléctricos complementarios, mediante buses o taxibuses, de cualquier tecnología, que presten servicios de transporte público de pasajeros en superficie, y servicios anexos.
 
 #### Artículo 2°
 
 Para el desarrollo de las actividades mencionadas en el artículo 1°, el Fisco de Chile y la Corporación de Fomento de la Producción, en conformidad a su ley orgánica, constituirán una sociedad anónima que se denominará "Empresa de Transporte de Pasajeros Metro S.A.", pudiendo usar para todos los efectos legales y comerciales el nombre de fantasía "METRO S.A.", la que se regirá por las normas de las sociedades anónimas abiertas y quedará sometida a la fiscalización de la Superintendencia de Valores y Seguros. Esta sociedad será la continuadora legal en todos los derechos y obligaciones que correspondan a la Dirección General de Metro, con la salvedad establecida en el artículo 6°.
 
 La sociedad anónima tendrá por objeto la realización de todas las actividades propias del servicio de transporte de pasajeros en ferrocarriles metropolitanos u otros medios eléctricos complementarios y las anexas a dicho giro, pudiendo con tal fin constituir o participar en sociedades y ejecutar cualquier acto u operación relacionados con el objeto social. No obstante y sólo respecto de "METRO S.A.", no podrá darse o cederse a ningún título el giro principal de transporte que se realice en las actuales vías o en las que se construyan exclusivamente por dicha sociedad.
+
+En el caso del transporte de superficie mediante buses u otros vehículos de cualquier tecnología, la sociedad podrá prestar los servicios de transporte público de pasajeros bajo un régimen de concesión de uso de vías de conformidad a la ley Nº 18.696 u otra modalidad, directamente o a través de una empresa filial o coligada, en los términos indicados en el inciso precedente.
 
 #### Artículo 3°
 
