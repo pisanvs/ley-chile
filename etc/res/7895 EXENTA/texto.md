@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIÓN DE INMUEBLE QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución exenta O1D- 7895 de 11 de noviembre de 2015, Serviu Región de Valparaíso, y según orden de Tribunal en causa rol C 2051 - 2012, del Segundo Juzgado de Letras en lo Civil de Quilpué, dispuesto expropiación adicional conforme a los artículos 51 ley 16391 y artículo 9 decreto ley 2.186 de 1978, remanente lote A Rol SIl 3505-13 Quilpué, dominio Sucesión don Alejandro Marchesini Marcheira y otros; el Lote expropiado está ubicado en Calle Aconcagua s/n, Sector Pompeya Sur, Quilpué, monto indemnización provisional $592.127.775.- fijado por Comisión Tasadora integrada por Enrique Ramos Guzmán, arquitecto, Hugo Fuentes Jara, constructor civil, e Irma Díaz Riveros, constructor civil, según informe de fecha 6/11/2015. Y todas las indemnizaciones precitas serán pagadas al contado.
