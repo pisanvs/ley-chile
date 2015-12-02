@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1298, de 16 de noviembre de 2015, se desistió de la expropiación del lote Nº 9, ordenada por decreto exento MOP. Nº 215, de 8 de abril de 2015. Téngase por no verificada la expropiación, cancélense las inscripciones del acto expropiatorio y demás inscripciones, subinscripciones y anotaciones practicadas. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º y 32º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
