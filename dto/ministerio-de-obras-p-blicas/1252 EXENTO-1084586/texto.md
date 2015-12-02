@@ -1,0 +1,1 @@
+Por Decreto Exento MOP Nº 1252, de 10 de noviembre de 2015, se desistió la expropiación del lote de terreno Nº 88L6, ordenada por Decreto Exento MOP. Nº 447, de 28 de marzo de 2013.
