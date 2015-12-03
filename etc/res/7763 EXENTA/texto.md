@@ -120,7 +120,7 @@ catastrada.
 
 13. Los subsidios habitacionales que se otorguen de conformidad a esta resolución se imputarán a los recursos dispuestos para la Región de Coquimbo en el programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el punto 5 de esta resolución.
 
-14. Para los efectos de rebajar de la resolución citada en el visto c), los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de esta unidad correspondiente al día 10 de octubre de 2015 ($25.399,98).
+14. Para los efectos de rebajar de la resolución citada en el visto c), los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de esta unidad correspondiente al día 10 de octubre de 2015 ($25.404,07).
 
 Anótese, publíquese en Diario Oficial y archívese.- Jaime Romero Álvarez, Ministro de Vivienda y Urbanismo (S).
 
