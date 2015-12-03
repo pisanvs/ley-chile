@@ -16,11 +16,9 @@ Resolución:
 
 2. Para la postulación individual, se efectuarán procesos de selección en los meses de agosto y septiembre y octubre, con los proyectos calificados en el Banco de Postulaciones dispuesto para dichos efectos hasta los días viernes 14 de agosto, 15 de septiembre y 16 de octubre, respectivamente, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
 
-3. Para la postulación colectiva, se efectuarán procesos de selección en los meses de agosto, septiembre, octubre y noviembre, con los proyectos calificados para dichos efectos hasta el último día hábil de los meses señalados en el presente inciso, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
+3. Para la postulación colectiva, se efectuarán procesos de selección en los meses de Agosto, Septiembre, Octubre, Noviembre y Diciembre, con los proyectos calificados para dichos efectos hasta el último día hábil de los meses señalados en el presente inciso, o hasta agotar la totalidad de recursos dispuestos para cada Región.
 
 4. Los recursos involucrados por Región del país para la selección de postulantes son los siguientes:
-
-.
 
 5. Las entidades patrocinantes que para el presente llamado desarrollen y presenten proyectos asociados a grupos organizados no beneficiados, que se encuentren ingresados en el Banco de Grupos sin Proyecto del DS Nº 49 (V. y U.), de 2011, a la fecha de publicación de la presente resolución en el Diario Oficial, tendrán derecho a percibir un incremento de un 25% en los honorarios correspondientes a los servicios "Plan de Acompañamiento Social Etapa de Organización de la Demanda, Diseño y Ejecución del Proyecto" y "Elaboración de Proyectos Técnicos y Contratación de Obras" establecidos en la resolución Nº 1.875 (V. y U.), de 2015, que fija procedimiento para la prestación de servicios de asistencia técnica, jurídica y social a programa de vivienda aprobado por el DS Nº 49 (V. y U.), de 2011. Con todo, las entidades patrocinantes que se acojan a lo dispuesto en este resuelvo, percibirán los honorarios de ambos servicios incrementados y de forma íntegra, debiendo efectuar el diagnóstico del grupo patrocinado al que alude la letra a) del artículo 50 del DS Nº 49 (V. y U.), de 2011, a más tardar, al término del primer mes de iniciada la ejecución de las obras.
 
@@ -41,6 +39,8 @@ En caso de resultar seleccionados, para acceder al premio al ahorro dispuesto en
 12. Los montos de subsidio a imputar corresponderán a los montos resultantes de la calificación del proyecto en el marco del DS Nº 49 (V. y U.), de 2011, incluyendo aquellos proyectos postulantes con ocasión del Resuelvo 6, precedente.
 
 13. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos o postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El numeral 2° de la Resolución 8490 Exenta, Vivienda, publicado el 09.11.2015, modifica la presente norma, en el sentido de reemplazar el segundo inciso de su resuelvo 6, sin embargo, no es posible construir el texto actualizado en los términos que la citada norma indica, porque el referido resuelvo no contiene inciso segundo.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
