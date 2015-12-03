@@ -52,27 +52,45 @@ No obstante lo dispuesto en el inciso segundo, a los profesionales regidos por l
 
 Corresponderá el viático en función del grado 31° al personal que se refiere la ley N° 8.059, sea remunerado o adhonorem.
 
+#### Artículo 4º bis
+
+El monto diario del viático para los trabajadores de planta y contrata de los ministerios y los servicios dependientes de ellos, o que se relacionen con el Presidente de la República a través de ellos, y la Contraloría General de la República, se regirá por las disposiciones de este artículo.
+
+El monto diario del viático para las autoridades de los grados A, B, y C de la escala de sueldos del artículo 1º del decreto ley Nº 249, de 1974, y para los funcionarios desde el grado 1A hasta el 4º de dicha escala, corresponderá al 12% del sueldo base mensual del grado 1A; para los funcionarios de los grados 5º a 10º corresponderá al 10% del sueldo base mensual del grado 5º; y, para los grados del 11º al 31º corresponderá al 16% del sueldo base mensual del grado 14º.
+
+El monto del viático que corresponda a los personales de las entidades señaladas en el inciso primero y cuyos trabajadores no estén encasillados en la Escala Única de Sueldos del artículo 1º del decreto ley Nº 249, de 1974, se fijará de acuerdo a la siguiente pauta:
+
+a) Los funcionarios que ocupen alguno de los cinco primeros niveles jerárquicos de la entidad respectiva tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 1A a 4º de la Escala Única de Sueldos. También tendrán derecho a este mismo viático los funcionarios F/G y grado 1B de la escala del artículo 5º del decreto ley Nº 3.551, de 1981.
+
+b) Los funcionarios que ocupen algunos de los seis niveles jerárquicos siguientes tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 5º a 10º de la Escala Única de Sueldos.
+
+c) Los funcionarios que ocupen algunos de los demás niveles jerárquicos tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 11º al 31º de la Escala Única de Sueldos.
+
+Los Servicios a los cuales les sea aplicable este artículo, deberán publicar en los respectivos sitios electrónicos institucionales la ejecución presupuestaria anual del presupuesto para cubrir los gastos de viáticos. Esta obligación se debe cumplir a más tardar en el mes de marzo del año siguiente al de la correspondiente ejecución.
+
+Las instituciones no mencionadas en este artículo seguirán afectas al artículo 4º, según corresponda.".
+
 #### Artículo 5°
 
 Si el trabajador no tuviere que pernoctar fuera del lugar de su desempeño habitual, si recibiese alojamiento por cuenta del servicio, institución o empresa empleadora o pernoctar en trenes, buques o aeronaves, sólo tendrá derecho a percibir el 40% del viático que le corresponda.
 
 #### Artículo 6°
 
-Si el trabajador, por la naturaleza de sus funciones, debe vivir en campamentos fijos, alejados de las ciudades, debidamente calificados por el Jefe Superior del servicio, institución o empresa empleadora, tendrá derecho a percibir por este concepto, un "viático de campamento", equivalente a un 30% del viático completo que le habría correspondido si se le aplicara el que establece el artículo 4° de este texto.
+Si el trabajador, por la naturaleza de sus funciones, debe vivir en campamentos fijos, alejados de las ciudades, debidamente calificados por el Jefe Superior del servicio, institución o empresa empleadora, tendrá derecho a percibir por este concepto, un "viático de campamento", equivalente a un 30% del viático completo que le habría correspondido si se le aplicara el que establece el artículo 4° o a un 35% del viático completo si se le aplicara el artículo 4º bis de este texto.
 
 El personal a que se refiere el inciso anterior que debe cumplir un cometido adicional, percibirá el viático que le correspondiere de acuerdo a las normas generales de este cuerpo reglamentario y dejará de percibir el viático de campamento.
 
 #### Artículo 7°
 
-Los trabajadores que para realizar sus labores habituales deben trasladarse diariamente a lugares alejados de centros urbanos, como faenas camineras o garitas de peaje, según calificación del Jefe superior del servicio, institución o empresa empleadora, gozarán de un "viático de faena", equivalente a un 20% del viático que le corresponda.
+Los trabajadores que para realizar sus labores habituales deben trasladarse diariamente a lugares alejados de centros urbanos, como faenas camineras o garitas de peaje, según calificación del Jefe superior del servicio, institución o empresa empleadora, gozarán de un "viático de faena", equivalente a un 20% del viático que le corresponda o a un 24% del viático que le corresponda si se le aplicara el artículo 4º bis.
 
-Este beneficio será incompatible con los establecidos en los artículos 4°, 5° y 6° anteriores.
+Este beneficio será incompatible con los establecidos en los artículos 4°, 4º bis, 5° y 6° anteriores.
 
-> **Nota.** El artículo QUINTO de la LEY 19882, publicada el 23.06.2003, establece que el viático de faena a que se refiere el presente artículo, será, para los trabajadores del Ministerio de Obras Públicas, Servicio de Tesorerías, Servicio de Impuestos Internos y Servicio Agrícola y Ganadero de un 40% del viático completo que en cada caso les corresponda.
+> **Nota.** El artículo quinto de la ley 19882, publicada el 23.06.2003, establece que el viático de faena a que se refiere el presente artículo, será, para los trabajadores del Ministerio de Obras Públicas, Servicio de Tesorerías, Servicio de Impuestos Internos y Servicio Agrícola y Ganadero de un 40% del viático completo que en cada caso les corresponda.
 
 #### Artículo 8°
 
-Los trabajadores tendrán derecho al 100% del viático completo que corresponda de acuerdo al artículo 4° de este reglamento, por los primeros 10 días, seguidos o alternados en cada mes calendario, en que deban ausentarse del lugar de su desempeño habitual en cumplimiento de cometidos o comisiones de servicio. Por los días de exceso sobre 10 en cada mes calendario, sólo tendrán derecho al 50% del viático correspondiente.
+Los trabajadores tendrán derecho al 100% del viático completo que corresponda de acuerdo al artículo 4° o 4º bis de este reglamento, por los primeros 10 días, seguidos o alternados en cada mes calendario, en que deban ausentarse del lugar de su desempeño habitual en cumplimiento de cometidos o comisiones de servicio. Por los días de exceso sobre 10 en cada mes calendario, sólo tendrán derecho al 50% del viático correspondiente.
 
 En todo caso, los trabajadores no podrán tener derecho, en cada año presupuestario, a más de 90 días, seguidos o alternados, con 100% del viático completo que les corresponda. Los días de exceso sobre 90 darán derecho al 50% del viático respectivo.
 

@@ -1080,7 +1080,7 @@ Subvención Educacional Pro- Retención de Alumnos en los Establecimientos Educa
 
 Créase una subvención anual educacional pro- retención de alumnos, que se pagará a los sostenedores de los establecimientos educacionales que acrediten haber matriculado y logrado la permanencia en las aulas o el egreso regular de ellas, según corresponda, de los alumnos que estén cursando entre 7º año de enseñanza básica y 4º año de enseñanza media, que pertenezcan a familias calificadas como indigentes, de acuerdo a los resultados obtenidos por la aplicación de la ficha CAS. El Ministerio de Planificación y Cooperación deberá certificar anualmente las familias que se encuentren en esas condiciones, en la forma que señale el reglamento.
 
-Esta subvención pro-retención de alumnos corresponderá a los montos que se indican a continuación y se entregará a los sostenedores de establecimientos educacionales subvencionados, en el mes de abril de cada año:
+Esta subvención pro-retención de alumnos corresponderá a los montos que se indican a continuación y se entregará a los sostenedores de establecimientos educacionales subvencionados, hasta el mes de junio de cada año:
 
 Primer tramo $ 50.000
 

@@ -332,6 +332,8 @@ Grados 24º al 26º:
 
 Licencia de educación media o equivalente.
 
+> **Nota.** El artículo 42 de la ley 20883, Hacienda, publicada el 02.12.2015, modifica la presente norma en el sentido que, a contar de la fecha de transformación del cargo señalado en la letra a) del citado artículo, agregar en los requisitos de la Planta de Profesionales para las funciones de Supervisión, de Dirección de Establecimientos de Educación Parvularia y Pedagógica en Establecimientos de Educación Parvularia, a continuación de las palabras "Grado 6º" la frase "y Grado 5º", en cada una de ellas.
+
 #### Artículo 3º
 
 En la planta de profesionales de la Junta Nacional de Jardines Infantiles, el número de cargos que se indican, a lo menos, serán desempeñados por profesionales que cumplan funciones de dirección de establecimientos de educación parvularia o pedagógicas: ocho cargos en grado 6º, seis cargos en grado 7º, siete cargos en grado 8º, cuatro cargos en grado 9º y dos cargos en grado 10º.
@@ -358,7 +360,9 @@ Para efectos de la presente asignación, el Ministerio de Educación, mediante d
 
 El pago de la asignación se extinguirá cuando se deje de cumplir lo establecido en el artículo 4º del presente decreto con fuerza de ley.
 
-Para los efectos de lo señalado en los incisos anteriores, se entenderá que no ha habido un desempeño efectivo de labores durante los períodos en que el personal se ha encontrado haciendo uso de permisos, licencias médicas o se ausentare de sus labores sin causa justificada.
+Para los efectos de lo señalado en los incisos anteriores, se entenderá que no ha habido un desempeño efectivo de labores durante los períodos en que el personal se ha encontrado haciendo uso de licencias médicas o se ausentare de sus labores sin causa justificada.
+
+Se entenderán como efectivamente trabajados, para los efectos del pago de la asignación a que se refiere el presente Título, el uso del descanso complementario y los permisos con goce de remuneraciones.
 
 #### Artículo 6º
 

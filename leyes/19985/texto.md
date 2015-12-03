@@ -220,6 +220,8 @@ El gasto que irrogue durante el año 2005 a los órganos y servicios públicos i
 
 Reemplázase la cantidad "$4.365.000" establecida en el artículo 7° transitorio de la ley N° 19.863, las veces que se mencione, por "$4.639.755", monto que se reajustará conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector público con posterioridad al contenido en el artículo 1° de la presente ley. Del mismo modo, reemplázase la referida cantidad, la que se reajustará en lo sucesivo, en los decretos con fuerza de ley dictados en conformidad a la facultad del artículo 7° transitorio de la ley N° 19.863.
 
+Con todo, a partir del 1 de diciembre de 2015, las cantidades señaladas en el inciso anterior no podrán superar en cada año calendario el monto promedio de las remuneraciones de carácter permanente que correspondan al subsecretario del ramo, respecto a quienes se les aplique lo dispuesto en dicho inciso.
+
 #### Artículo 32
 
 Intercálase en el inciso segundo del artículo sexto de la ley N° 19.882, la siguiente frase a continuación del punto seguido: "No obstante, el pago de la primera cuota podrá hacerse en el mes de abril de cada año.".
