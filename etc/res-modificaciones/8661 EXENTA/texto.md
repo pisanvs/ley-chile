@@ -22,9 +22,9 @@ e) La solicitud de Sr. Alcalde de Valparaíso, formulada por Ord. Nº 388, del 1
 
 Resolución:
 
-Modifícase la resolución exenta Nº 1.820 (V. y U.), de 2003, en el sentido de agregar el siguiente artículo 12º Transitorio:
+Modifícase la resolución exenta Nº 1.820 (V. y U.), de 2003, en el sentido de agregar el siguiente artículo 11º Transitorio:
 
-#### Artículo 12º
+#### Artículo 11º
 
 Transitorio: Las postulaciones de las comunas de Valparaíso, Viña del Mar y Coquimbo, de las comunas que pertenecen a las Provincias de Choapa y Limarí y a la Región de Atacama y de toda otra comuna con decreto vigente del Ministerio del Interior y Seguridad Pública que la declare Zona Afectada por Catástrofe, que participen y resulten seleccionadas en el 25º Proceso de Selección de Proyectos del Programa de Pavimentación Participativa, que realiza la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos que señalan a dichas Comunas, Provincias y/o Región como Zona Afectada por Catástrofe".
 
