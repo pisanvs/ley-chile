@@ -18,99 +18,135 @@ Delégase la facultad de firmar "por orden del Ministro" en los funcionarios del
 
 DEL MINISTRO DE EDUCACIÓN:
 
-A.- EN EL SUBSECRETARIO DE EDUCACIÓN:
+A.- En el(la) Jefe(a) de la División de Administración
 
-1. Designaciones a contrata desde el grado 4° al 8° EUS inclusive,
+General (DAG) del Ministerio de Educación.:
 
-incluyendo la facultad de realizar designaciones a contrata con cargo
+1. Designaciones a contrata desde el grado 4° al 8° EUS
 
-conservado de acuerdo al Art. 87 y 88 del DFL N° 29/2005, del
+inclusive, incluyendo la facultad de realizar
 
-Ministerio de Hacienda, que fija texto refundido, coordinado y
+designaciones a contrata con cargo conservado de
 
-sistematizado de la ley N° 18.834;
+acuerdo al Art. 87 y 88 del DFL N° 29/2005, del
+
+Ministerio de Hacienda, que fija texto refundido,
+
+coordinado y sistematizado de la ley N° 18.834;
 
 2. Autorización para efectuar permutas;
 
-B.- EN EL JEFE DEL DEPARTAMENTO DE ADMINISTRACIÓN GENERAL respecto del
+3. Términos anticipados por necesidades del servicio
 
-personal con desempeño en el Nivel Central:
+de contratos, suplencias y reemplazos.
 
-1. Designaciones a contrata desde el grado 9° al 24° EUS, incluyendo la
+4. Prórrogas de personal a contrata. Además, la
 
-facultad de realizar designaciones a contrata con cargo conservado de
+facultad de realizar prórrogas a contrata con
 
-acuerdo al Art. 87 y 88 del DFL N° 29/2005, del Ministerio de
+cargo conservado de acuerdo a los artículos 87
 
-Hacienda, que fija texto refundido, coordinado y sistematizado de la
+y 88 del DFL Nº 29, de 2004 del Ministerio de
 
-ley N° 18.834;
+Hacienda, que fija texto refundido, coordinado
 
-2. Nombramiento de suplentes, ajenos al servicio, por concepto de
+y sistematizado de la Ley Nº 18.834.
 
-licencias médicas, permisos sin goce de remuneraciones y cargos
+B.- En el(la) Jefe(a) de Recursos Humanos del Ministerio
 
-vacantes;
+de Educación, respecto del personal con desempeño
 
-3. Aceptación de renuncias voluntarias para grados 4 al 24 EUS
+en el nivel central.:
 
-inclusive;
+1. Designaciones a contrata desde el grado 9° al 24° EUS,
+
+incluyendo la facultad de realizar designaciones a
+
+contrata con cargo conservado de acuerdo al
+
+#### Artículo 87
+
+y 88 del DFL N° 29/2005, del Ministerio
+
+de Hacienda, que fija texto refundido, coordinado
+
+y sistematizado de la ley N° 18.834;
+
+2. Nombramiento de suplentes, ajenos al servicio, por
+
+concepto de licencias médicas, permisos sin goce
+
+de remuneraciones y cargos vacantes;
+
+3. Aceptación de renuncias voluntarias para grados
+
+4 al 24 EUS inclusive;
 
 4. Declaración de vacancia;
 
 5. Cese de funciones por fallecimiento.
 
-C.- EN EL SECRETARIO REGIONAL MINISTERIAL DE EDUCACIÓN, respecto del
+C.- EN EL SECRETARIO REGIONAL MINISTERIAL DE EDUCACIÓN,
 
-personal con desempeño en su territorio jurisdiccional:
+respecto del personal con desempeño en su
 
-1. Designaciones a contrata desde el grado 9° al 24° EUS inclusive,
+territorio jurisdiccional:
 
-incluyendo la facultad de realizar designaciones a contrata con cargo
+1. Designaciones a contrata desde el grado 9° al 24° EUS
 
-conservado de acuerdo al Art. 87° y 88° del DFL N° 29/2005, del
+inclusive, incluyendo la facultad de realizar
 
-Ministerio de Hacienda, que fija texto refundido, coordinado y
+designaciones a contrata con cargo conservado de
 
-sistematizado de la ley N° 18.834;
+acuerdo al Art. 87° y 88° del DFL N° 29/2005, del
 
-2. Nombramiento de suplentes ajenos al servicio, por concepto de
+Ministerio de Hacienda, que fija texto refundido,
 
-licencias médicas, permisos sin goce de remuneraciones y cargos
+coordinado y sistematizado de la ley N° 18.834;
 
-vacantes;
+2. Nombramiento de suplentes ajenos al servicio, por
 
-3. Aceptación de renuncias voluntarias para grados 9 al 24 EUS,
+concepto de licencias médicas, permisos sin goce
 
-inclusive;
+de remuneraciones y cargos vacantes;
+
+3. Aceptación de renuncias voluntarias para grados
+
+9 al 24 EUS, inclusive;
 
 4. Declaración de vacancia;
 
 5. Cese de funciones por fallecimiento;
 
-D.- EN EL JEFE DEL DEPARTAMENTO PROVINCIAL DE EDUCACIÓN, respecto del
+D.- EN EL JEFE DEL DEPARTAMENTO PROVINCIAL DE EDUCACIÓN,
 
-personal con desempeño en su territorio jurisdiccional:
+respecto del personal con desempeño en su
 
-1. Designaciones a contrata desde el grado 9° al 24° EUS inclusive,
+territorio jurisdiccional:
 
-disponibles a nivel regional, incluyendo la facultad de realizar
+1. Designaciones a contrata desde el grado 9° al 24° EUS
 
-designaciones a contrata con cargo conservado de acuerdo al Art. 87°
+inclusive, disponibles a nivel regional, incluyendo la
 
-y 88° del DFL N° 29/2005, del Ministerio de Hacienda, que fija texto
+facultad de realizar designaciones a contrata con cargo
 
-refundido, coordinado y sistematizado de la ley N° 18.834;
+conservado de acuerdo al Art. 87° y 88° del DFL N°
 
-2. Nombramiento de suplentes, ajenos al servicio, por concepto de
+29/2005, del Ministerio de Hacienda, que fija texto
 
-licencias médicas, permisos sin goce de remuneraciones y cargos
+refundido, coordinado y sistematizado de la ley
 
-vacantes;
+N° 18.834;
 
-3. Aceptación de renuncias voluntarias para grados 9 al 24 EUS
+2. Nombramiento de suplentes, ajenos al servicio, por
 
-inclusive;
+concepto de licencias médicas, permisos sin goce
+
+de remuneraciones y cargos vacantes;
+
+3. Aceptación de renuncias voluntarias para grados 9
+
+al 24 EUS inclusive;
 
 4. Declaración de vacancia;
 
