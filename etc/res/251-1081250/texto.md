@@ -234,7 +234,7 @@ III) En el orden financiero, presupuestario y patrimonial
 
 1.- Elaborar del proyecto de presupuesto de los respectivos Hospitales, para ser sometido a la aprobación de la Dirección del Servicio de Salud Atacama.
 
-2.- Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales e incorporales.
+2.- Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales e incorporales, hasta el monto máximo de 10.000 Unidades Tributarias Mensuales (UTM).
 
 En la presente delegación se entenderán incluidas las materias que se encuentran reguladas por la Ley Nº 19.886 de Bases de Contratos Administrativos y Prestación de Servicios, como también su reglamento.
 
@@ -325,7 +325,5 @@ En la presente delegación se entenderán incluidas las materias que se encuentr
 6.- Agréguese al pie de la firma de los Directores de los Hospitales "San José del Carmen" de Copiapó, Hospital Provincial del Huasco "Monseñor Fernando Ariztía Ruiz", Hospital "Florencio Vargas Díaz", Hospital de Chañaral "Jerónimo Méndez Arancibia" y Hospital de Huasco "Manuel Magalhaes Medling", la frase "Por Delegación de Facultades de la Directora del Servicio de Salud Atacama", cuando actúe en virtud de esta delegación.
 
 7.- Publíquese, el presente acto administrativo en el Diario Oficial, una que se haya tomado razón, por Contraloría Regional de Atacama.
-
-> **Nota.** El numeral 1 de la Resolución 18, Salud, publicada el 18.01.2018, modifica la presente norma en el sentido de delegar en el Director del Hospital Provincial del Huasco "Monseñor Fernando Ariztía Ruiz", las siguientes facultades: "Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales e incorporales.". Sin embargo, las facultades a delegar están contenidas en el numeral 1 de la letra C), y no en el 2 como indica el texto de la Resolución modificatoria.
 
 Anótese, comuníquese y publíquese.- Dra. Sonia Ibaceta Lorca, Directora Servicio de Salud Atacama.
