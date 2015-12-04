@@ -2900,6 +2900,70 @@ Equipamiento mediano: 10% del predio.
 
 Equipamiento mayor: 10% del predio.
 
+SUBZONA ZU5-1
+
+CONDICIONES DE USO DEL SUELO
+
+a.1 Usos Permitidos:
+
+Residencial; equipamiento social,
+
+comercio, seguridad, salud, culto
+
+y cultura, educación, deportes
+
+y servicios.
+
+Áreas verdes.
+
+a.2 Usos Prohibidos:
+
+Se prohíben las discotecas,
+
+las ferias libres y todo edificio
+
+destinado a hotel, motel,
+
+apart-hotel, pensión, hospedería,
+
+casa de acogida, albergues y
+
+hostales o similar.
+
+CONDICIONES DE EDIFICACIÓN
+
+b.1 Coeficiente Constructibilidad: 0,9.
+
+b.2 Coeficiente Ocupación de Suelo: 0,6.
+
+b.3 Sistema de Agrupamiento: Aislada,
+
+continua y pareada.
+
+b.4 Altura máxima de edificación: 2
+
+pisos más mansarda.
+
+b.5 Rasantes y distanciamiento: Según
+
+OGUC.
+
+b.6 Antejardín Mínimo: 3 metros.
+
+b.7 Estacionamiento: Según Artículo
+
+7.1.2.9. del PRMS y Cuadro del
+
+#### Artículo 36
+
+de la presente
+
+Ordenanza.
+
+b.8 Densidad Bruta Máxima: 450
+
+Hab./Ha.
+
 #### Artículo 62
 
 ZU 6 ESTACION SAN BERNARDO
