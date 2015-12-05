@@ -812,9 +812,13 @@ La publicidad y demás actividades destinadas a dar a conocer al consumidor un p
 
 La promoción del producto farmacéutico destinada a los profesionales habilitados para su prescripción, dentro de las indicaciones de utilidad terapéutica del respectivo registro sanitario, no podrá efectuarse a través de medios de comunicación social dirigidos al público en general. Dicha promoción podrá incluir la entrega de muestras médicas a estos profesionales en los términos dispuestos en los respectivos registros, para ser proporcionados, a título gratuito, a las personas que utilizan sus servicios.
 
-Quedan prohibidos la donación de productos farmacéuticos realizada con fines publicitarios y los incentivos económicos de cualquier índole, que induzcan a privilegiar el uso de determinado producto a los profesionales habilitados para prescribir y dispensar medicamentos o a los dependientes de los establecimientos de expendio y a cualquier otra persona que intervenga en la venta o administración de medicamentos.
+Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona que participe en la venta. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
 
-Se entenderá por incentivo cualquier pago, regalo, servicio o beneficio económico entregado o realizado a las personas señaladas en el inciso anterior, por parte de laboratorios farmacéuticos, droguerías, importadores o distribuidores de medicamentos, establecimientos farmacéuticos en general o por quienes los representen.
+Se entenderá por incentivo cualquier pago, regalo, servicio o beneficio económico entregado o realizado a las personas, por parte de laboratorios farmacéuticos, droguerías, importadores o distribuidores de medicamentos o establecimientos farmacéuticos, por quienes los representen o, en general, por quienes tengan algún interés en que se privilegie el uso de uno o más productos o dispositivos.
+
+Los titulares de registros, permisos o autorizaciones sanitarias, los establecimientos del área de la salud y cualquier persona natural o jurídica que participe en la producción, distribución, intermediación, comercialización, expendio o administración de productos farmacéuticos, alimentos especiales o elementos de uso médico, podrán financiar, total o parcialmente, transferir o entregar, a título gratuito o a precios preferentes, esta clase de productos a los pacientes que los requieran, sujeto a las regulaciones legales, caso en el cual el beneficiario tendrá derecho a continuar percibiendo el beneficio otorgado, en iguales o mejores condiciones, mientras subsista la utilidad terapéutica del producto de que se trate.
+
+Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo conforme al presente artículo.
 
 Sin perjuicio de lo señalado en los incisos anteriores, se permitirá la donación de productos farmacéuticos a establecimientos asistenciales sin fines de lucro, siempre que aquellos se encuentren comprendidos en el Formulario Nacional de Medicamentos.
 
@@ -941,6 +945,112 @@ f) Los elementos que se comercialicen o distribuyan a cualquier título sin cont
 g) La destinación aduanera de estos elementos se sujetará a las disposiciones de la ley Nº 18.164 y su uso y disposición deberán ser autorizados por el Instituto de Salud Pública de Chile.
 
 El costo de las certificaciones será de cargo de las personas naturales o jurídicas que las soliciten.
+
+## Título V
+
+DE LOS ENSAYOS CLÍNICOS DE PRODUCTOS FARMACÉUTICOS Y ELEMENTOS DE USO MÉDICO
+
+#### Artículo 111
+
+A.- Los productos farmacéuticos y los elementos de uso médico para ser utilizados en investigaciones científicas en seres humanos deberán contar con una autorización especial para su uso provisional, otorgada por el Instituto de Salud Pública conforme al presente Libro.
+
+La autorización especial para uso provisional con fines de investigación se requerirá para todo producto farmacéutico o dispositivo médico, sea porque no cuenten con el respectivo registro sanitario o bien, contando con éste, se pretenda su utilización de manera distinta a la registrada. Con todo, el Ministerio de Salud podrá establecer, mediante decreto supremo, la exención de esta exigencia a los elementos de uso médico cuya utilización no conlleve un riesgo relevante para las personas.
+
+Para efectuar la solicitud de autorización especial para uso provisional con fines de investigación, el solicitante deberá presentar, previa aprobación conforme a lo dispuesto en el artículo 10 de la ley Nº20.120, el protocolo de investigación, el formato de consentimiento informado, la póliza de seguros y todo otro antecedente que establezca el reglamento.
+
+Esta autorización especial no podrá tener una duración mayor a un año, contado desde la fecha de la resolución que la concede, y podrá ser renovada por períodos iguales y sucesivos, siempre que cumpla con los requisitos establecidos en este Código, en la ley Nº20.120 y en los respectivos reglamentos.
+
+Los productos farmacéuticos y elementos de uso médico que cuenten con autorización especial para uso provisional con fines de investigación sólo podrán ser destinados al uso que la misma autorización determine, quedando prohibida su tenencia, distribución y transferencia a cualquier título o su uso de manera distinta a la registrada.
+
+El Instituto de Salud Pública deberá llevar un registro público de todas las investigaciones científicas en seres humanos con productos farmacéuticos o elementos de uso médicos autorizadas para realizarse en el país, con las menciones que señale el reglamento. Dicho registro estará sujeto a las disposiciones del artículo 7º del artículo primero de la ley Nº20.285, sobre Acceso a la Información Pública.
+
+#### Artículo 111
+
+B.- El titular de la autorización, la entidad patrocinante, el investigador principal y el respectivo centro donde se realice la investigación serán responsables de notificar al Instituto de Salud Pública y al Comité Ético Científico que corresponda, en el plazo y según la forma que establezca el reglamento respectivo, de las reacciones adversas y los eventos adversos producidos con ocasión del estudio. Asimismo, serán responsables del cumplimiento de las normas sobre farmacovigilancia y tecnovigilancia conforme al reglamento.
+
+Un reglamento dictado a través del Ministerio de Salud regulará las materias de las que trata el presente artículo.
+
+#### Artículo 111
+
+C.- El paciente sujeto de ensayo clínico tendrá derecho a que, una vez terminado éste, el titular de la autorización especial para uso provisional con fines de investigación y, con posterioridad en su caso, el titular del registro sanitario del producto sanitario de que se trate, le otorgue sin costo para el paciente la continuidad del tratamiento por todo el tiempo que persista su utilidad terapéutica, conforme al protocolo de investigación respectivo.
+
+Esta obligación afectará al titular del registro sanitario, aun cuando no haya sido el titular de la autorización provisional o haya adquirido con posterioridad el registro sanitario.
+
+#### Artículo 111
+
+D.- Todo centro donde se realice investigación de productos farmacéuticos y elementos de uso médico en seres humanos deberá estar acreditado por el Instituto de Salud Pública, conforme a los estándares, exigencias y procedimientos que establezca el reglamento.
+
+La misma autoridad será competente para la fiscalización del cumplimiento de los protocolos de investigación, de los consentimientos informados, de las buenas prácticas clínicas, de las notificaciones de reacciones adversas y de eventos adversos y, en general, del cumplimiento de la normativa relacionada con esta materia.
+
+El Instituto de Salud Pública tendrá libre acceso a la información relacionada con la investigación. Toda obligación de reserva contemplada en protocolos, o convenciones y documentos en general, será inoponible a esa autoridad. Toda disposición en contravención a esta ley contenida en los referidos protocolos, convenciones y documentos es nula, sin perjuicio de la aplicación de las disposiciones contenidas en los artículos 89 y 91, letra b), de la ley Nº19.039, de Propiedad Industrial, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº3, de 2006, del Ministerio de Economía, Fomento y Reconstrucción.
+
+#### Artículo 111
+
+E.- Los titulares de las autorizaciones para uso provisional con fines de investigación serán responsables por los daños que causen con ocasión de la investigación, aunque estos se deriven de hechos o circunstancias que no se hubieren podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica, existentes en el momento de producirse los daños.
+
+Asimismo, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
+
+La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño.
+
+#### Artículo 111
+
+F.- Será obligación de los titulares de las autorizaciones especiales para uso provisional para fines de investigación de productos farmacéuticos y,o elementos de uso médico contar con una póliza de seguro por responsabilidad civil, conforme al reglamento que se dicte a través del Ministerio de Salud.
+
+A través de un decreto supremo del Ministerio de Salud se establecerá la clase de los elementos de uso médico para cuya investigación será obligatoria la presentación de pólizas de seguro.
+
+#### Artículo 111
+
+G.- Las infracciones de lo dispuesto en el presente Título serán sancionadas conforme a las normas del Libro Décimo de este Código y a las contenidas en la ley Nº20.120, sobre la investigación científica en el ser humano, su genoma, y prohíbe la clonación humana.
+
+## Título VI
+
+DE LA RESPONSABILIDAD POR PRODUCTOS SANITARIOS DEFECTUOSOS
+
+#### Artículo 111
+
+H.- Se entenderá por productos sanitarios los regulados en los Títulos I, II y IV de este Libro.
+
+Se entenderá por producto sanitario defectuoso aquél que no ofrezca la seguridad suficiente, teniendo en cuenta todas las circunstancias ligadas al producto y, especialmente, su presentación y el uso razonablemente previsible.
+
+Asimismo, un producto es defectuoso si no ofrece la misma seguridad normalmente ofrecida por los demás ejemplares de la misma serie.
+
+Un producto no podrá ser considerado defectuoso por el solo hecho de que tal producto se ponga posteriormente en circulación de forma perfeccionada.
+
+#### Artículo 111
+
+I.- Todo daño causado por el uso de un producto sanitario defectuoso dará lugar a las responsabilidades civiles y penales, según corresponda.
+
+Serán responsables de los daños los titulares de los registros o autorizaciones, los fabricantes y los importadores, según corresponda. Las personas responsables del daño lo serán solidariamente ante los perjudicados. El que hubiere respondido ante el perjudicado tendrá derecho a repetir frente a los otros responsables, según su participación en la producción del daño.
+
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud, en su calidad de órgano de la Administración del Estado, responderá en su caso, conforme a las reglas establecidas en el Título III de la ley Nº19.966, que establece un régimen de garantías en salud, pudiendo siempre repetir contra las personas señaladas en el inciso anterior. El plazo de prescripción para ejercer esta acción será de cinco años.
+
+#### Artículo 111
+
+J.- El perjudicado que pretenda obtener la reparación de los daños causados tendrá que probar el defecto, el daño y la relación de causalidad entre ambos.
+
+En los ensayos clínicos, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
+
+#### Artículo 111
+
+K.- El demandado no podrá eximirse de responsabilidad alegando que los daños ocasionados por un producto sanitario defectuoso se originan de hechos o circunstancias que no se previeron según el estado de los conocimientos científicos o técnicos existentes en el momento de su puesta en circulación o uso.
+
+#### Artículo 111
+
+L.- La acción de reparación de los daños y perjuicios previstos en este Título prescribirá a los cinco años contados desde la manifestación del daño, ya sea por el defecto del producto o por el daño que dicho defecto le ocasionó. La acción de repetición del que hubiese satisfecho la indemnización contra todos los demás responsables del daño prescribirá en el plazo de dos años contado desde el día de su pago.
+
+La acción para el resarcimiento de los daños producidos con ocasión de un ensayo clínico prescribirá en el plazo establecido en el artículo 111 E.
+
+#### Artículo 111
+
+M.- Los fabricantes e importadores de los productos sanitarios deberán contar con un seguro, aval o garantía financiera equivalente, para responder de los daños sobre la salud derivados de problemas de seguridad de los mismos, en los términos que establezca el reglamento.
+
+#### Artículo 111
+
+N.- El ejercicio de las acciones jurisdiccionales para la reparación de los daños de que trata este Título se regirá por lo dispuesto en el Párrafo II del Título III de la ley Nº 19.966.
+
+Para estos efectos, forman parte de la Red Asistencial de la que trata el artículo 17 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, los prestadores que hayan celebrado un convenio con el Fondo Nacional de Salud para el otorgamiento de prestaciones cuya cobertura se encuentra a su cargo.
+
+Asimismo, las reclamaciones por productos defectuosos o daños causados con ocasión de un ensayo clínico se presentarán ante la entidad establecida en el artículo 44 de la ley Nº 19.966 y se regirán por el procedimiento establecido en dicha norma.
 
 # Libro V
 
@@ -1216,9 +1326,9 @@ Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, 
 
 El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferior cuando razones técnicas lo aconsejen.
 
-#### Artículo 140°
+#### Artículo 140
 
-La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos.
+La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos o la persona con la que el difunto haya mantenido un acuerdo de unión civil vigente al momento de su muerte.
 
 #### Artículo 141°
 
@@ -1258,11 +1368,13 @@ El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma 
 
 Los cadáveres de personas fallecidas en establecimientos hospitalarios públicos o privados, o que se encuentren en establecimientos del Servicio Médico Legal, que no fueren reclamados dentro del plazo que señale el reglamento, podrán ser destinados a estudios e investigación científica, y sus órganos y tejidos, destinados a la elaboración de productos terapéuticos y a la realización de injertos.
 
-Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
+Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral o la persona con la que el difunto tuviere vigente un acuerdo de unión civil al momento de su muerte no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
 
 #### Artículo 148°
 
-Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil o la persona con la que haya mantenido un acuerdo de unión civil vigente al momento de su muerte, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+
+> **Nota.** El Art. 18 de la LEY 19451, publicada el 10.04.1996, dispuso que las modificaciones introducidas al presente artículo, regirán noventa días después de la fecha de su publicación.
 
 #### Artículo 149°
 
