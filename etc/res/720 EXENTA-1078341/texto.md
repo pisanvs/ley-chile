@@ -22,8 +22,6 @@ Resolución:
 
 1.- Distribúyanse los recursos disponibles para el año 2015, en el citado llamado extraordinario, en las cantidades señaladas en los dos procesos de selección indicados en el cuadro siguiente:
 
-.
-
 De existir saldo producto de Unidades de Fomento no asignadas en el mes de julio, corresponderá asignar dichos recursos al mes de selección de septiembre.
 
 2.- Apruébanse los siguientes factores regionales de prelación, a que hace referencia el resuelvo 12º de la citada resolución exenta Nº 923 (V. y U.).
@@ -45,6 +43,10 @@ Categoría 3 = Problemas en canales, bajadas de aguas lluvias y pinturas con fis
 Categoría 4 = Problemas moderados en canales o bajadas de aguas lluvia, con pinturas en correcto estado. Sólo problemas en sus bajadas de aguas lluvias o canales de aguas.
 
 Categoría 5: Correcto estado general.
+
+3.- En el caso de que, aplicando los factores de prelación indicados en el resuelvo precedente, dos o más proyectos quedasen empatados en el puntaje y no existiera disponibilidad presupuestaria para seleccionar a todos, el desempate deberá verificarse de acuerdo a los criterios indicados en la tabla que se indica a continuación, hasta completar los recursos disponibles.
+
+Conforme al cuadro anterior, se priorizará el proyecto con el puntaje más alto en el factor "Seleccionado por Programa de Recuperación de Barrios". De mantenerse el empate, se priorizará el proyecto con el puntaje más alto en el factor "Porcentaje de Familias Vulnerables". De mantenerse el empate, se priorizará el proyecto con el puntaje más alto en el factor "Participación Vecinal". De mantenerse el empate, si ninguno de los criterios anteriores genera la diferenciación necesaria, se priorizará el monto de subsidio MINVU total que más se acerque al monto disponible.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese oportunamente.- Jaime Arévalo Núñez, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Biobío.
 
