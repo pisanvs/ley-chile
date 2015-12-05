@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 592 EXENTA, DE 16 DE JUNIO DE 2015
+
+Por resolución exenta Nº 592, de 16 de junio de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Fernández y Rosas Ltda." u/o "Orion Limitada", RUT Nº 76.268.995-2, representada legalmente por las Sras. Karen Odette Rosas Antiguay y Sandra Valeska Fernández Ojeda, para impartir cursos conducentes a la obtención de licencias de conductor profesional clases A2 y A4 en la sede ubicada en calle Arturo Prat Nº 811 y taller mecánico ubicado en calle Tarapacá Nº 331, ambos de la ciudad de Osorno.
+
+Gonzalo Reyes Lobos, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos (S).
