@@ -68,9 +68,9 @@ Del Dominio, Instalación, Funcionamiento y Cierre.
 
 #### Artículo 8°
 
-Farmacia es todo establecimiento o parte de él, destinado a la venta de productos farmacéuticos y alimentos de uso médico; a la confección de productos farmacéuticos de carácter oficinal y a los que se preparen extemporáneamente conforme a fórmulas magistrales prescritas por profesionales legalmente habilitados; y al fraccionamiento de envases clínicos de productos farmacéuticos, conforme a las normas que imparta el Ministerio de Salud, mediante resolución.
+Farmacia es todo establecimiento o parte de él, destinado a la venta de productos farmacéuticos y alimentos de uso médico; a la confección de productos farmacéuticos de carácter oficinal y a los que se preparen extemporáneamente conforme a fórmulas magistrales prescritas por profesionales legalmente habilitados; y al fraccionamiento de envases clínicos de productos farmacéuticos, conforme a las normas que se indican en el presente reglamento.
 
-Además, podrán ordenar a un laboratorio de producción DS autorizado, la elaboración de productos farmacéuticos S y cosméticos, para su venta en el establecimiento, e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
+Además, podrán ordenar a un laboratorio de producción autorizado, la elaboración de productos farmacéuticos y cosméticos, para su venta en el establecimiento, e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
 
 Podrán instalarse farmacias móviles itinerantes, en las localidades y con la periodicidad y horarios que determine la autoridad sanitaria en el acto de su autorización sanitaria, destinadas al expendio al público de productos farmacéuticos, que se regirán por las disposiciones especiales que se contemplan en esta reglamentación y en subsidio por aquellas que son aplicables a las demás farmacias. Estas farmacias no podrán adquirir ni expender productos psicotrópicos o estupefacientes, elaborar productos farmacéuticos de carácter oficinal o magistral, fraccionar envases clínicos de productos farmacéuticos ni realizar las actividades a las que se refiere el siguiente artículo 9º.
 
@@ -82,11 +82,15 @@ Para practicar exámenes de laboratorio no contemplados en el inciso anterior, d
 
 #### Artículo 10°
 
-Para obtener la autorización de instalación y funcionamiento o traslado, el interesado deberá presentar al Secretaría Regional Ministerial de Salud los siguientes documentos:
+Para obtener la autorización de instalación y funcionamiento o traslado, el interesado deberá presentar al Instituto de Salud Pública los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario o del representante legal según el caso, nombre del Director Técnico y la ubicación del establecimiento.
 
-b) Declaración del químico-farmacéutico o farmacéutico que asumirá la dirección técnica de la farmacia acreditando su calidad de tal y señalando su cédula de identidad y domicilio particular, y c) Copia autorizada de los instrumentos legales que acrediten el dominio del establecimiento.
+b) Declaración del químico-farmacéutico o farmacéutico que asumirá la dirección técnica de la farmacia acreditando su calidad de tal y señalando su cédula de identidad y domicilio particular, y
+
+c) Copia autorizada de los instrumentos legales que acrediten el dominio del establecimiento.
+
+Para la exhibición y posterior expendio de medicamentos de venta directa en repisas, estanterías, góndolas, anaqueles, dispensadores u otros dispositivos similares de acceso directo al público, se deberá contar con autorización sanitaria del Instituto de Salud Pública. Igual obligación corresponderá para la modificación de la planta física que, para los mismos fines, soliciten las farmacias ya autorizadas
 
 En el caso de las farmacias móviles itinerantes, para obtener la autorización de instalación y funcionamiento, el interesado deberá adicionalmente presentar a la autoridad sanitaria la siguiente documentación:
 
@@ -130,6 +134,48 @@ Deberá mantener en una estantería exclusiva y bajo llave los estupefacientes, 
 
 En el caso de las farmacias itinerantes, el vehículo deberá contar con el equipamiento que asegure el almacenamiento, control de temperatura y conservación adecuada de los medicamentos y con la señalética apropiada, que permita su inequívoca identificación como establecimiento de expendio de farmacéutico.
 
+#### Artículo 14
+
+A: Para la exhibición y posterior expendio de medicamentos de venta directa en repisas, estanterías, góndolas, anaqueles, dispensadores u otros dispositivos similares, se podrán utilizar indistintamente, el producto propiamente tal, el envase vacío, así como otros dispositivos con imágenes o elementos que lo representen.
+
+Para estos efectos, las farmacias deberán contar con una zona exclusiva y delimitada al interior de su establecimiento, claramente identificada y que permita el acceso inmediato a los usuarios para ejercer la decisión directa de compra del medicamento.
+
+La exhibición de medicamentos propiamente tal, deberá considerar medidas de resguardo con el fin de evitar que niños o infantes alcancen o manipulen los productos, para lo cual éstos se ubicarán a partir de una altura mínima de un metro, debiendo disponer además de otras medidas que cumplan con la misma finalidad.
+
+Cuando se trate de la exhibición de envases vacíos, éstos deberán incluir la leyenda "Muestra de Exhibición", en al menos una de las caras principales, en tamaño no inferior a un cuarto de la superficie de ésta y en un color que contraste respecto de los demás elementos gráficos del envase.
+
+Los elementos representativos que se empleen para exhibir los medicamentos de venta directa, deberán ser de un tamaño de al menos 7 por 11 centímetros y tener impresas o adheridas las imágenes que sean copia fiel de la cara principal del envase secundario o principal autorizado por el Instituto de Salud Pública, para el medicamento que se trate.
+
+Los medicamentos o los elementos que los representen, deberán exhibirse indicando su precio y estar disponibles para su venta, todo ello conforme al presente reglamento.
+
+Asimismo, deberán exhibirse en grupos de acuerdo a sus categorías terapéuticas y dentro de éstas, cuando se trate de monodrogas, por principio activo y dosis por forma farmacéutica.
+
+Para los efectos de lo dispuesto en el inciso precedente, se podrán emplear las siguientes categorías terapéuticas, las cuales deberán estar visiblemente identificadas:
+
+a. Medicamentos de uso oftálmico.
+
+b. Medicamentos analgésicos, antiinflamatorios y antipiréticos.
+
+c. Medicamentos antifúngicos.
+
+d. Medicamentos antitusivos.
+
+e. Medicamentos para molestias gastrointestinales.
+
+f. Medicamentos anestésicos locales.
+
+g. Medicamentos antigripales.
+
+h. Medicamentos antialérgicos.
+
+i. Medicamentos antisépticos.
+
+j. Vitaminas y minerales.
+
+k. Otros.
+
+Las consideraciones para la ubicación, presencia o ausencia de los medicamentos o los elementos que los representen en las estanterías o dispositivos indicados en este artículo, así como los mecanismos o acciones destinados al incentivo a la venta, tales como afiches, presencia de promotores u otros similares, no podrán vulnerar lo dispuesto en el inciso 4º del artículo 100 del Código Sanitario.
+
 #### Artículo 15°
 
 Las farmacias estarán obligadas a tener en existencia en forma permanente los productos señalados en el Título IX del presente reglamento.
@@ -138,35 +184,41 @@ Las farmacias estarán obligadas a tener en existencia en forma permanente los p
 
 Las drogas deberán almacenarse en envases apropiados para su adecuada conservación, rotulados en caracteres de imprenta claramente legibles. Estos rótulos no podrán ser objeto de enmiendas ni superposiciones.
 
-#### Artículo 17°
+#### Artículo 17
 
-Las farmacias dispondrán, a lo menos, del siguiente material de consulta pública:
+Las farmacias dispondrán de al menos una copia del siguiente material de consulta, el que estará ubicado en un espacio debidamente identificado y de libre acceso al público:
 
-1.- Reglamento de:
+1. Reglamentos: de "Farmacias, Droguerías, Almacenes Farmacéuticos, Botiquines y Depósitos Autorizados"; de "Estupefacientes"; de "Productos Psicotrópicos"; y del "Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano".
 
-- Farmacias y demás establecimientos farmacéuticos;
+2. El Formulario Nacional de Medicamentos y los Petitorios de Establecimientos de Expendio Farmacéuticos.
 
-- Estupefacientes;
+3. Las monografías de productos farmacéuticos de venta directa, aprobadas por resolución del Ministro de Salud, de oficio o a propuesta del Instituto de Salud Pública.
 
-- Productos Psicotrópicos;
+4. Listados de:
 
-- Sistema Nacional de Productos Farmacéuticos, Alimentos de uso Médico y Cosméticos;
+i. Los productos que deben demostrar bioequivalencia, de acuerdo a la normativa vigente.
 
-- Un ejemplar de Farmacopea, oficial en el país;
+ii. Los medicamentos que ya han demostrado bioequivalencia. El listado deberá estar ordenado de acuerdo a su principio activo y dosis por forma farmacéutica y actualizada al menos durante los 5 primeros días de cada mes, conforme a la información disponible en la página web del Instituto de Salud Pública.
 
-- Un texto sobre tratamientos de urgencias toxicológicas;
+Al momento de expender los productos farmacéuticos deberá informarse al adquirente, conforme a la prescripción o requerimiento, la existencia de medicamentos identificados de acuerdo a su denominación común internacional, especialmente, aquellos que forman parte del petitorio mínimo al que se alude en el numeral 2 del inciso precedente.
 
-- Monografías de medicamentos, y
+Además de lo indicado en los incisos precedentes, las farmacias deberán contar con infografías instaladas en espacios visibles al público, que promuevan el uso racional de medicamentos, junto con permitir la lectura de advertencias sobre el adecuado uso y dosificación de los medicamentos con condición de venta directa, reacciones adversas a medicamentos e información relacionada con números telefónicos de líneas existentes que provean información toxicológica de forma gratuita.
 
-- Reglamento de la ley 17.934 sobre represión del tráfico ilícito de estupefacientes.
+El texto y formato de las infografías obligatorias serán aprobados por resolución del Ministro de Salud y deberán contener al menos las siguientes menciones:
 
-2.- Un ejemplar actualizado de la Nómina de Medicamentos Registrados del Formulario Nacional, aprobada por resolución del Ministerio de Salud.
+. "Antes de usar un medicamento, lea detenidamente las indicaciones contenidas en su envase y folleto de información al paciente";
+
+. "Para mayor información, consulte al profesional tratante y/o al químico farmacéutico" y,
+
+. "Para información de medicamentos y su uso racional visite www.ispch.cl y www.minsal.cl.
 
 #### Artículo 18°
 
 Las farmacias deberán poseer los siguientes Registros Oficiales:
 
-- De recetas;
+- De inspección;
+
+- De fraccionamiento de envases;
 
 - De control de Estupefacientes;
 
@@ -178,15 +230,17 @@ Estos registros serán foliados y deberán ser autorizados por la Secretaría Re
 
 Las denuncias estampadas en el Libro de Reclamos que digan relación con calidad, seguridad y eficacia de los productos farmacéuticos que se expenden en la farmacia, así como la disponibilidad de aquellos considerados en el Petitorio Farmacéutico, en la forma como establece el artículo 93, deberán ser contestadas dentro de plazo máximo de 3 días por el Director Técnico del establecimiento con copia a la SEREMI de Salud correspondiente.
 
-#### Artículo 19°
+#### Artículo 19
 
-El Registro de recetas estará destinado a:
+El registro de inspección estará destinado a:
 
-a) DEROGADA;
+a) Registrar las visitas inspectivas que practiquen funcionarios del Instituto de Salud Pública y las anotaciones y observaciones, si las hubiere.
 
-b) Registrar las visitas inspectivas que practiquen funcionarios del Secretaría Regional Ministerial de Salud y las anotaciones y observaciones, si las hubiere, y
+b) Anotar por el químico farmacéutico, la fecha en la que éste asume la Dirección técnica del establecimiento y la de su término.
 
-c) Anotar por el Químico-Farmacéutico o Farmacéutico la fecha en que asume la Dirección Técnica del establecimiento y la de su término. Las mismas anotaciones hará el profesional que lo reemplace. Además, deberán dejar constancia de su horario de atención profesional y las ausencias transitorias que deba realizar.
+Las mismas anotaciones hará el profesional que lo reemplace, en caso de ausencia temporal con ocasión de feriados legales, permisos superiores a 24 horas, licencias médicas u otros de semejante naturaleza; debiendo comunicar, además, en forma previa o inmediata al Instituto de Salud Pública de Chile, señalando el periodo en que desempeñará las funciones.
+
+c) Registrar los motivos fundados de las ausencias del Químico Farmacéutico dentro de su jornada laboral.
 
 #### Artículo 20°
 
@@ -210,6 +264,8 @@ Las farmacias funcionarán bajo la Dirección Técnica de un profesional químic
 
 Aquellos establecimientos cuya jornada de atención al público sea inferior a ocho horas, podrán contratar un profesional químico-farmacéutico o farmacéutico por el número de horas que comprende dicha jornada.
 
+En el caso que el horario de funcionamiento supere la jornada laboral del profesional, éste deberá ser reemplazado por otro químico farmacéutico, que asuma las responsabilidades y funciones del primero, en el horario correspondiente.
+
 Además en la parte interior de la farmacia y en sitio especialmente visible al público, se anunciará el nombre completo del Director del establecimiento.
 
 #### Artículo 24°
@@ -222,9 +278,9 @@ b) Despachar personalmente las recetas de productos farmacéuticos sometidos a c
 
 c) La adquisición, tenencia, custodia y expendio de estupefacientes, productos psicotrópicos, otros asimilados a estas disposiciones y los productos de venta bajo receta retenida.
 
-d) DEROGADA;
+d) Promover el uso racional de los medicamentos;
 
-e) Preparar y/o supervisar el fraccionamiento de envases clínicos de los productos farmacéuticos de acuerdo a las normas que imparta el Ministerio de Salud mediante resolución;
+e) Efectuar o supervisar el fraccionamiento de envases de medicamentos para la entrega del número de dosis requerido por la persona, según la prescripción del profesional legalmente habilitado;
 
 f) Extender copia de las recetas de medicamentos cuya condición de venta sea "Receta Retenida" o "Receta Cheque", cuando ellas sean solicitadas. La copia deberá hacerse en papel con membrete que individualice el establecimiento, la fecha en que ella se extiende y el nombre del profesional que la suscribe. En caso de que se trate de productos que por disposición de la autoridad sanitaria, esté prohibida la repetición de su despacho, dicha copia deberá indicar esta prohibición;
 
@@ -296,39 +352,59 @@ El Secretario Regional Ministerial de Salud podrá, previo sumario sanitario, en
 
 ### Párrafo IV
 
-De la Preparación y Expendio de Productos
+Del expendio, dispensación y fraccionamiento de productos farmacéuticos
 
-Farmacéuticos
+#### Artículo 32
 
-#### Artículo 32°
+El expendio de los productos farmacéuticos se hará de acuerdo a las condiciones de venta aprobadas en los respectivos registros sanitarios y rotuladas en su envase, las cuales pueden ser:
 
-El expendio de los productos farmacéuticos se hará de acuerdo a las condiciones de venta indicadas para cada uno de ellos:
+1. Venta Directa, es decir, sin receta= VD;
 
-a) Venta directa, es decir, sin receta médica;
+2. Venta bajo receta simple =R;
 
-b) Venta bajo receta médica simple = R;
+3. Venta bajo receta retenida =RR, o
 
-c) Venta bajo receta médica retenida = RR, y d) Venta bajo receta cheque = RCH.
+4. Venta bajo receta cheque =RCH.
 
 #### Artículo 33
 
-DEROGADO.
+Para los efectos del presente Reglamento, se entenderá por:
 
-#### Artículo 34°
+1. Receta: El instrumento privado, gráfico o electrónico, mediante el cual el profesional habilitado para prescribir indica a una persona identificada y previamente evaluada, como parte integrante del acto médico y por consiguiente de la relación clínica, el uso y las condiciones de empleo de un producto farmacéutico, por su denominación común internacional (D.C.I.) o su denominación de fantasía si lo prefiere.
 
-Se entiende por Receta Médica, la orden suscrita por médico cirujano, cirujano dentista, médico veterinario, matrona o cualquier otro profesional legalmente habilitado para hacerlo, con el fin de que una cantidad de cualquier medicamento o mezcla de ellos sea dispensada conforme a lo señalado por el profesional que la extiende.
+En caso que en la prescripción se individualice al producto farmacéutico por su denominación de fantasía, deberá agregarse, a modo de información, la denominación común internacional correspondiente, cuando existan medicamentos bioequivalentes certificados, condición que por el solo efecto de la ley, autoriza el intercambio del producto prescrito, en los términos del inciso siguiente.
 
-Receta magistral es aquella en que un profesional legalmente habilitado para ello prescribe una fórmula especial para un enfermo determinado, la que debe elaborarse en el momento de su presentación.
+Si el medicamento prescrito es de aquellos que deben demostrar bioequivalencia, la dispensación se realizará en los términos del artículo 34 de este Reglamento.
 
-Se entiende por Receta Médica Retenida aquella en la que se prescriba productos sujetos a esta condición de venta, y ella deberá archivarse en el establecimiento, conforme a lo dispuesto en el artículo 21° del presente reglamento.
+2. Receta magistral: Aquella en que un profesional legalmente habilitado para ello prescribe una fórmula especial para un paciente determinado, la que debe elaborarse en el momento de su presentación.
 
-Cuando se trate de la prescripción de estupefacientes y productos psicotrópicos cuya condición de venta es receta retenida ésta deberá ser impresa con los datos que señalan los respectivos reglamentos.
+3. Receta Retenida: Aquella a través de la cual se prescriben productos sujetos a esta condición de venta, la que deberá archivarse en el establecimiento, conforme a lo dispuesto en el artículo 21 del presente reglamento.
 
-Se entenderá por Receta Cheque, los formularios oficiales que formen parte de talonarios que los Servicios de Salud proporcionan a los médicos cirujanos y a las farmacias para la prescripción de estupefacientes y productos psicotrópicos.
+Cuando se trate de la prescripción de estupefacientes y productos psicotrópicos cuya condición de venta es receta retenida, ésta deberá ser impresa y extendida conforme lo disponen los respectivos reglamentos.
+
+4. Receta Cheque: Aquella por medio de la cual se prescriben productos estupefacientes o psicotrópicos y que se extiende empleando los formularios oficiales, gráficos o electrónicos, conforme a lo dispuesto en los reglamentos respectivos.
+
+#### Artículo 34
+
+La prescripción del profesional indicará el período de tiempo necesario para el tratamiento total o su repetición periódica.
+
+La prescripción de los productos a los que se refiere el artículo 98 del Código Sanitario se regulará conforme a lo dispuesto en los reglamentos específicos que rigen la materia.
+
+A su turno, el expendio de los productos farmacéuticos se hará conforme a la respectiva receta.
+
+Sin perjuicio de lo anterior, si de acuerdo a la normativa vigente el medicamento prescrito es de aquellos que deben demostrar bioequivalencia, a solicitud del requirente, el químico farmacéutico podrá, por sí mismo o en quien este delegue, expender cualquier otro bioequivalente que contenga el mismo principio activo y dosis por forma farmacéutica. Tratándose de productos que no requieren demostrar bioequivalencia se expenderá conforme a la receta.
+
+Al momento del expendio y tratándose de recetas que prescriban productos farmacéuticos no sujetos a control legal, en éstas se deberá dejar constancia de su despacho mediante timbre del establecimiento, conservando visibles todas las indicaciones señaladas en el artículo 38. Tratándose de recetas cuya dispensación sea parcial o periódica, al reverso del documento deberá dejarse constancia de los despachos realizados, indicando la cantidad de productos entregados y la fecha de recepción, con timbre de la farmacia.
+
+El Ministerio de Salud aprobará, mediante decreto, una norma técnica sobre "Buenas Prácticas de Prescripción y Dispensación.
+
+#### Artículo 34
+
+A.- Para efectos del expendio, la Receta podrá ser extendida por médico cirujano, cirujano dentista, médico veterinario, matrona o cualquier otro profesional legalmente habilitado para hacerlo.
 
 #### Artículo 35°
 
-Los cirujanos dentistas sólo podrán prescribir aquellos medicamentos necesarios para la atención odontoestomatológica sean éstos de venta directa, de venta bajo receta médica, de venta bajo receta médica retenida o productos de la lista IV, del Reglamento de Productos Psicotrópicos, en la forma y condiciones en él indicadas.
+Los cirujanos dentistas sólo podrán prescribir aquellos medicamentos necesarios para la atención odontoestomatológica inmediata y/o para el tratamiento posterior, sean éstos de venta directa, de venta bajo receta médica, de venta bajo receta médica retenida o productos de la lista IV, del Reglamento de Productos Psicotrópicos, en la forma y condiciones en él indicadas.
 
 #### Artículo 36°
 
@@ -358,9 +434,155 @@ c) Firma del profesional y fecha en que se extiende la receta.
 
 Cuando se prescriban productos farmacéuticos sometidos a controles especiales, los profesionales que lo hagan deberán cumplir estrictamente los requisitos de formulación que determinen los reglamentos pertinentes.
 
+#### Artículo 39
+
+A El propietario, el director técnico y el auxiliar de la farmacia en que se expenda un medicamento diferente al indicado en la receta, contraviniendo lo dispuesto en este Reglamento, serán sancionados conforme lo dispuesto en el Libro Décimo del Código Sanitario.
+
 #### Artículo 40
 
-DEROGADO.
+El fraccionamiento de envases de medicamentos deberá ser efectuado por el director técnico o supervisado por éste cuando la actividad sea realizada por otro profesional o por auxiliares de farmacia.
+
+Para efectos de este reglamento, se entenderá por fraccionamiento de envases de medicamentos, el proceso por el cual el Director Técnico o a quien éste supervise, extrae desde un envase clínico el número de unidades posológicas que se requieran, de acuerdo a la prescripción emitida por un profesional competente, para su dispensación al paciente, y entregándole información y orientación sobre el tratamiento indicado.
+
+El fraccionamiento procederá en medicamentos cuyo envase primario contenga de manera separada cada unidad posológica, ya sea conteniendo una o varias dosis del producto farmacéutico que se trate.
+
+Las Formas farmacéuticas que podrán fraccionarse serán:
+
+- Formas farmacéuticas líquidas en todos sus tipos y formas de administración, dispuestas en envases primarios monodosis.
+
+- Formas farmacéuticas sólidas, tales como comprimidos y cápsulas en todos sus tipos.
+
+- Formas Farmacéuticas Semisólidas, tales como óvulos o supositorios.
+
+- Polvos para reconstituir como solución acuosa, dispuestas en envases primarios monodosis.
+
+- Sistemas Terapéuticos Transdérmicos y Parches.
+
+Sin perjuicio de lo anterior, no podrán fraccionarse los productos estupefacientes y productos psicotrópicos, regulados en los Reglamentos de Estupefacientes y de Productos Psicotrópicos contenidos en los decretos supremos Nº 404 y Nº 405, ambos de 1983, del Ministerio de Salud, respectivamente.
+
+Durante el proceso de fraccionamiento, los envases primarios podrán manipularse mediante corte, división, extracción o separación, sin exponer la forma farmacéutica al ambiente, ni dañar el alveolo o reservorio en que ésta se encuentre.
+
+Queda prohibido fraccionar productos de combinación, productos oncológicos, radiofármacos, hormonas y cualquier producto farmacéutico cuya condición de almacenamiento sea refrigerado o que sea fotosensible.
+
+#### Artículo 40
+
+A.- Para fraccionar, la farmacia deberá contar en su planta física con un sector circunscrito, debidamente diferenciado de las otras secciones del establecimiento y destinado exclusivamente a la ejecución de los procedimientos respectivos.
+
+El acceso al sector de fraccionamiento se encontrará restringido al público en general.
+
+El sector deberá disponer de una superficie de material liso e impermeable, de fácil limpieza y desinfección. Asimismo, tener acceso directo a un lavamanos y contar con los instrumentos y demás implementos de uso exclusivo que sean necesarios para los procedimientos a ejecutar, considerando el tipo y forma del medicamento a fraccionar.
+
+En el caso que las labores de fraccionamiento sean realizadas en forma simultánea por dos o más personas, la farmacia deberá contar con estaciones de trabajo que aseguren la independencia de cada operación. Las estaciones deberán estar separadas entre sí por una barrera física de material liso e impermeable, de fácil limpieza y desinfección.
+
+La labor de fraccionamiento deberá realizarse por producto mediante un proceso continuo, lo que incluye la recolección de los materiales y el medicamento a fraccionar, así como la extracción de las unidades requeridas y su disposición en el envase destinado al paciente.
+
+Antes de proceder con una segunda operación, la superficie de trabajo debe quedar despejada y los productos sobrantes del procedimiento anterior deben ser almacenados en su envase respectivo u otro adecuado; debiendo evitar en todo momento confusiones, intercambios o contaminación.
+
+Sólo podrán fraccionarse envases de medicamentos cuya fecha de expiración, al momento del expendio, sea superior a los seis meses.
+
+El personal que desarrolle labores de fraccionamiento deberá ajustarse a los procedimientos respectivos.
+
+#### Artículo 40
+
+B.- Una vez fraccionados, los productos deberán contenerse en un envase de material y capacidad adecuados a su contenido, debidamente rotulado y sellado mediante cinta de seguridad adhesiva o similar.
+
+La rotulación del envase de productos fraccionados podrá realizarse por impresión, timbrado o etiquetado, siempre de manera indeleble y legible, utilizando caracteres del tipo "ARIAL" u otros tipos rectilíneos semejantes, y de un tamaño mínimo de cuerpo "7". La información a consignar en los rótulos de los envases deberá indicar al menos lo siguiente:
+
+- Número correlativo de fraccionamiento, con indicación de año con los dos últimos dígitos.
+
+- Nombre y Rut del paciente.
+
+- Datos del Producto:
+
+- Denominación Común Internacional.
+
+- Forma farmacéutica y dosis.
+
+- Dosificación y cantidad.
+
+- Vía de administración.
+
+- Nº de registro sanitario del medicamento.
+
+- Nº o números de lote del medicamento.
+
+- Fecha de vencimiento del medicamento. En caso de que se fraccione más de un lote de un medicamento, se deberá indicar solo la fecha más próxima.
+
+- Nombre, teléfono y dirección del establecimiento.
+
+Todo envase de un producto fraccionado deberá contener la siguiente frase: "Para mayor información, consulte a su prescriptor o químico farmacéutico. Visite www.ispch.cl y www.minsal.cl".
+
+#### Artículo 40
+
+C.- En los establecimientos donde se fraccione deberán existir registros, físicos o digitales, por cada receta dispensada, los que serán de responsabilidad del Director Técnico respectivo. Este registro permitirá la trazabilidad de los productos dispensados y deberá mantenerse actualizado y disponible para su fiscalización.
+
+El registro de fraccionamiento de envases deberá considerar al menos los siguientes datos:
+
+1. Nº correlativo/año asignado en la farmacia para cada fraccionamiento.
+
+2. Fecha del fraccionamiento.
+
+3. Nombre, RUT y teléfono del paciente.
+
+4. Nombre y RUT del prescriptor.
+
+5. Medicamento prescrito.
+
+6. Datos del producto:
+
+i. Denominación común internacional y nombre
+
+de fantasía, si lo hubiere
+
+ii. Forma farmacéutica y dosis.
+
+iii. Cantidad.
+
+7. Nº o Números de registro sanitario del medicamento.
+
+8. Nº o Números de lote del medicamento.
+
+9. Fecha de vencimiento del medicamento según lote.
+
+10. Nombre del químico farmacéutico que efectuó o supervisó el fraccionamiento.
+
+11. Nombre de la persona que realizó el fraccionamiento, si fuere diferente del anterior.
+
+Los registros no podrán ser alterados con enmiendas, ni dejar espacios en blanco entre las anotaciones; sin perjuicio que se realicen las correcciones que se requieran, dejando la evidencia de la misma y la firma del que autorizó el cambio y/o anulación del registro.
+
+#### Artículo 40
+
+D.- El Director Técnico de la farmacia deberá velar por la correcta ejecución de cada una de las actividades de fraccionamiento que se realicen; debiendo existir para ello procedimientos establecidos y conocidos por su personal.
+
+Para estos efectos, se deberá contar con procedimientos documentados sobre al menos las siguientes materias:
+
+. Almacenamiento de los medicamentos a fraccionar.
+
+. Recepción y almacenamiento de material de envase.
+
+. Fases del fraccionamiento, desde la preparación de la estación de trabajo hasta el envasado final y posterior despeje de la zona.
+
+. Envasado y rotulado.
+
+. Dispensación.
+
+. Higiene del personal.
+
+. Procedimientos y medidas de protección para evitar la contaminación del producto.
+
+. Limpieza general del sector de fraccionamiento.
+
+. Documentación y registros.
+
+#### Artículo 40
+
+E.- En la dispensación que realice el Director Técnico del establecimiento, o quien éste supervise, de medicamentos que hayan sido fraccionados deberá entregar, de forma verbal, la información al paciente o adquirente acerca del producto que adquiere, incluyendo las correspondientes instrucciones de administración, según la prescripción que se trate. Además, deberá entregar junto con los productos dispensados, los respectivos folletos de información al paciente, autorizados en el registro sanitario.
+
+#### Artículo 40
+
+F.- El Ministerio de Salud evaluará la implementación y cumplimiento de los artículos 40 a 40 E.
+
+A tal efecto y de acuerdo con el artículo 47 del Código Sanitario, el Ministerio, mediante una norma técnica, establecerá los datos estadísticos de relevancia para la realización de dicha evaluación. Respecto de los cuales el Instituto de Salud Pública de Chile le proporcionará información de acuerdo a los antecedentes que recabe semestralmente de las farmacias, en el ejercicio de su función de control sanitario de los productos farmacéuticos.
 
 ### Párrafo V
 
@@ -368,37 +590,55 @@ Del Horario de Atención y Turnos
 
 #### Artículo 41°
 
-El horario de atención de la farmacia será determinado por su propietario, pudiendo comprender jornada diurna, nocturna y en días no hábiles y deberá comunicarse al Secretaría Regional Ministerial de Salud y anunciarse al público mediante letrero colocado en lugar visible. No obstante, las farmacias deberán atender público en forma ininterrumpida mientras se encuentren de turno.
+El horario de atención de la farmacia será determinado por su propietario, pudiendo comprender jornada diurna, nocturna y en días no hábiles y deberá comunicarse al Instituto de Salud Pública y anunciarse al público mediante letrero colocado en lugar visible. No obstante, las farmacias deberán atender público en forma ininterrumpida mientras se encuentren de turno.
 
 Durante el horario nocturno las farmacias podrán atender público a través de una ventanilla.
 
-Sin perjuicio de lo anterior, la Secretaría Regional Ministerial de Salud podrá autorizar el funcionamiento de Farmacias de Urgencia, las que deberán permanecer abiertas y atender público las 24 horas del día, durante todo el año. En este caso deberán contar con la presencia del Director Técnico, sin que la mera ausencia constituya infracción, si ha sido registrada en el Registro de recetas.
+Sin perjuicio de lo anterior, el Instituto de Salud Pública podrá autorizar el funcionamiento de Farmacias de Urgencia, las que deberán permanecer abiertas y atender público las 24 horas del día, durante todo el año. En este caso deberán contar con la presencia del Director Técnico, sin que la mera ausencia constituya infracción, si ha sido registrada en el Registro de recetas.
 
-Tratándose de las farmacias itinerantes, su horario de funcionamiento será determinado por su propietario, y autorizado por la Seremi competente, no pudiendo ser inferior a 4 horas en cada ubicación.
+Tratándose de las farmacias itinerantes, su horario de funcionamiento será determinado por su propietario, y autorizado por el Instituto, no pudiendo ser inferior a 4 horas en cada ubicación.
 
-#### Artículo 42°
+#### Artículo 42
 
-La Secretaría Regional Ministerial de Salud fijará semestralmente los turnos de las farmacias de su territorio, los que serán obligatorios, sin perjuicio de lo dispuesto en el artículo 45°.
+El Instituto de Salud Pública fijará semestralmente los turnos de las farmacias, los que serán obligatorios, sin perjuicio de lo dispuesto en el artículo 45.
+
+Para la aplicación del presente reglamento, se entenderá por turno la apertura obligatoria de una farmacia en un horario determinado, el que se realizará previa asignación mediante resolución del Instituto, con la finalidad de asegurar una adecuada disponibilidad de medicamentos, en días inhábiles y feriados legales y en horario nocturno.
 
 Para estos efectos, dicho Servicio confeccionará antes del 30 de noviembre y del 30 de mayo de cada año, las nóminas de turnos que deberá cumplir semestralmente cada farmacia, con indicación de su nombre, ubicación, sector de la población que deberá atender y fechas en que le corresponderá cumplirlos.
 
-Una copia de esta nómina deberá remitirse dentro de los primeros quince días de los meses de diciembre y junio de cada año a la Jefatura de Carabineros de Chile y a un periódico de la localidad para su publicación.
+Una copia de esta nómina deberá remitirse dentro de los primeros quince días de los meses de diciembre y junio de cada año a la Jefatura de Carabineros de Chile y a en alguno de los medios de comunicación existentes en la localidad para su difusión.
 
-#### Artículo 43°
+#### Artículo 43
 
-La Secretaría Regional Ministerial de Salud notificará a los Directores Técnicos de farmacias, de su territorio, personalmente o por carta certificada, los turnos que deberán cumplir en el semestre correspondiente.
+El Instituto de Salud Pública notificará a los Directores Técnicos de las farmacias, personalmente o por carta certificada, los turnos que deberán cumplir en el semestre correspondiente. Sin perjuicio de lo indicado, los Directores Técnicos podrán ser notificados mediante correo electrónico, si de manera previa ellos hubiesen informado una dirección electrónica para dichos efectos.
 
-Esta notificación deberá efectuarse en la primera quincena de los meses de diciembre y junio de cada año.
+Cualquiera sea el medio de notificación, ésta deberá efectuarse en la primera quincena de los meses de diciembre y junio de cada año.
 
 #### Artículo 44°
 
 Las farmacias deberán indicar su turno mediante un cartel, que se colocará en un lugar exterior del establecimiento, fácilmente visible del público. Si no le correspondiere turno, deberán señalar, en igual forma, el nombre y ubicación de las farmacias más inmediatas a las que les corresponda turno.
 
-#### Artículo 45°
+#### Artículo 44
 
-Ninguna farmacia podrá eximirse de los turnos fijados por la Secretaría Regional Ministerial de Salud. No obstante, el Servicio podrá, en casos debidamente calificados, suspender el cumplimiento del turno por el tiempo que estime prudencial, designando en su reemplazo otra farmacia que lo haga.
+A.- Para los efectos de la fijación de los turnos, el Instituto deberá considerar datos poblacionales, así como la cantidad de farmacias, almacenes farmacéuticos y establecimientos de salud existentes en la localidad y sus respectivos horarios de atención al público, así como su accesibilidad.
 
-Las farmacias móviles itinerantes quedan eximidas de la realización de turnos.
+Para lo anterior, el Instituto deberá considerar aspectos geográficos y de transporte, relacionados con la accesibilidad de la población a los establecimientos señalados en el inciso anterior y a los medios de transporte público.
+
+En las localidades donde existan farmacias de urgencia, los turnos que asigne el Instituto no podrán exceder de la medianoche.
+
+#### Artículo 44
+
+B.- En aquellos lugares donde no existan establecimientos de expendio de medicamentos al público, el Ministerio de Salud adoptará las medidas necesarias para la adecuada disponibilidad de fármacos, a través de los establecimientos de salud.
+
+#### Artículo 45
+
+Ninguna farmacia podrá eximirse de los turnos fijados por el Instituto de Salud Pública. No obstante, en casos debidamente calificados, el Instituto podrá suspender el cumplimiento del turno por el tiempo que estime prudencial, designando en su reemplazo otra farmacia que lo haga.
+
+Sin perjuicio de lo expuesto, tratándose de aquellas farmacias que se encuentren instaladas al interior de otros establecimientos de mayor tamaño y sin acceso independiente a vías de uso público, no podrá fijárseles turnos más allá de las condiciones y horario de atención al público del establecimiento donde están insertas; en estos casos el turno deberá fijarse respecto de las farmacias cercanas a tales establecimientos.
+
+Asimismo, un director técnico de un establecimiento podrá acordar con otro, encargado de un establecimiento similar, el traspaso de la obligación de realizar un turno asignado, previa autorización del Instituto.
+
+Las farmacias móviles itinerantes estarán eximidas de la realización de turnos.
 
 ## Título III
 
@@ -482,29 +722,29 @@ El Director Técnico y, asimismo, el propietario, responderán de que la distrib
 
 ### Párrafo I
 
-#### Artículo 56°
+#### Artículo 56
 
-Almacén farmacéutico es todo establecimiento o parte de él destinado a la venta de los siguientes productos farmacéuticos:
+Almacén farmacéutico es todo establecimiento o parte de él destinado a la venta de los siguientes productos:
 
-a) De venta directa;
+a) Medicamentos de venta directa.
 
-d) De venta bajo receta médica que se señalan en el Título X del presente reglamento y aquellos de este tipo cuya condición de venta así lo disponga en su Registro, y
+b) Medicamentos de venta bajo receta médica que se señalan en el Título X del presente reglamento.
 
-c) Accesorios médicos y quirúrgicos, elementos de primeros auxilios y curación.
+c) Elementos médico-quirúrgicos, de primeros auxilios y de curación.
 
-La dirección técnica de estos establecimiento estará a cargo de un práctico de farmacia, quien deberá desempeñarla durante todo su horario de funcionamiento, siendo su ejercicio incompatible con la de otro establecimiento farmacéutico.
+Los almacenes farmacéuticos podrán instalarse de manera independiente, con acceso a vías de uso público, o como un espacio circunscrito dentro de otro establecimiento.
 
-Existirán también Almacenes Farmacéuticos Complementarios, constituidos como establecimientos o parte de ellos, destinados al expendio de productos farmacéuticos complementarios registrados como tales por el Instituto de Salud Pública.
+La dirección técnica de estos establecimientos estará a cargo de un práctico de farmacia, quien deberá desempeñarla durante todo su horario de funcionamiento, siendo su ejercicio incompatible en el mismo horario, con la de otro establecimiento farmacéutico.
 
-Ambos tipos de almacenes farmacéuticos estarán dirigidos por un Práctico de Farmacia, el que deberá cumplir con los requisitos que en cada caso se indican.
+En caso de ausencia temporal del director técnico con ocasión de feriados legales, permisos superiores a 24 horas, licencias médicas u otros de semejante naturaleza, éste podrá ser reemplazado por otro práctico de farmacia, quien deberá notificar en forma previa o inmediata al Instituto de Salud Pública de Chile, señalando el periodo en que desempeñará las funciones.
 
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
+Cuando el Director Técnico deba ausentarse por motivos justificados dentro de su jornada laboral, deberá registrar dicha situación conforme lo dispuesto en el artículo 64 de este Reglamento.
 
 #### Artículo 57°
 
 A los almacenes farmacéuticos y a los almacenes farmacéuticos complementarios les estará estrictamente prohibida la adquisición y venta de productos farmacéuticos no autorizados en el artículo anterior.
 
-De la misma manera, a estos establecimientos les estará estrictamente prohibido la preparación y el despacho de fórmulas magistrales y oficinales.
+De la misma manera, a estos establecimientos les estará estrictamente prohibido la preparación y el despacho de fórmulas magistrales y oficinales, así como el fraccionamiento de envases de medicamentos.
 
 Todas las recetas que prescriban productos farmacéuticos indicados en el Título X del presente reglamento o productos farmacéuticos complementarios, según sea el caso, que sean despachadas en el establecimiento deberán archivarse en orden correlativo o cronológico, y mantenerse a disposición de la autoridad sanitaria.
 
@@ -512,7 +752,7 @@ Todas las recetas que prescriban productos farmacéuticos indicados en el Títul
 
 #### Artículo 58°
 
-Para obtener la autorización de funcionamiento, instalación o traslado el interesado deberá presentar a la correspondiente Secretaría Regional Ministerial de Salud los siguientes documentos:
+Para obtener la autorización de funcionamiento, instalación o traslado el interesado deberá presentar al Instituto de Salud Pública los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario o representante legal según el caso, ubicación del establecimiento y nombre del Práctico de Farmacia;
 
@@ -520,21 +760,21 @@ b) La declaración del Práctico de Farmacia que asumirá la responsabilidad de 
 
 c) Copia autorizada de los instrumentos legales en los que consta el título en virtud del cual se posee el establecimiento.
 
+Para la exhibición y posterior expendio de medicamentos de venta directa en repisas, estanterías, góndolas, anaqueles, dispensadores u otros dispositivos similares de acceso directo al público, se deberá contar con autorización sanitaria del Instituto de Salud Pública. Igual obligación corresponderá para la modificación de la planta física que, para los mismos fines, soliciten los almacenes ya autorizados.
+
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
 #### Artículo 59°
 
-Todo propietario de un almacén farmacéutico o Almacén Farmacéutico Complementario, en su caso deberá comunicar por escrito al Servicio de Salud correspondiente el cierre definitivo o temporal de su establecimiento.
+Todo propietario de un almacén farmacéutico o Almacén Farmacéutico Complementario, en su caso deberá comunicar por escrito al Instituto de Salud Pública el cierre definitivo o temporal de su establecimiento.
 
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
 #### Artículo 60°
 
-El horario de atención de los almacenes farmacéuticos y almacenes farmacéuticos complementarios, en su caso será determinado por su propietario comunicado por escrito al correspondiente Servicio de Salud y anunciado al público mediante letrero colocado en lugar visible.
+El horario de atención de los almacenes farmacéuticos y almacenes farmacéuticos complementarios, en su caso será determinado por su propietario comunicado por escrito al Instituto de Salud Pública y anunciado al público mediante letrero colocado en lugar visible.
 
-Los almacenes farmacéuticos no estarán sometidos a los turnos obligatorios dispuestos para las farmacias.
-
-Sin embargo, en aquellas localidades en que no existan farmacias, la Secretaría Regional Ministerial de Salud establecerá los turnos que considere adecuados para asegurar el abastecimiento de la población. En tales casos los turnos serán obligatorios para estos establecimientos, dando cumplimiento a las normas que sobre la materia, se establecen en el Párrafo V del Título II de este reglamento.
+INCISOS ELIMINADOS.
 
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
@@ -548,45 +788,53 @@ Deberá colocar en lugar visible el nombre del Práctico de Farmacia responsable
 
 A los Almacenes Farmacéuticos Complementarios les serán aplicables las mismas normas dispuestas en los incisos anteriores para los Almacenes Farmacéuticos, sin embargo el rótulo o letrero correspondiente, al agregar su nombre comercial, no podrá contener alusiones que puedan inducir a engaño respecto de propiedades milagrosas o sobrenaturales de los medicamentos complementarios, sin que sea necesario agregar una lista de aquellos que expenden.
 
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
+A los almacenes farmacéuticos les serán aplicables las siguientes normas contenidas en el Título II de este reglamento:
 
-#### Artículo 62°
+a) Las referidas a la exhibición y expendio de medicamentos de venta directa, conforme a lo dispuesto en el artículo 14 A.
 
-Los almacenes farmacéuticos están obligados a mantener en existencia, en forma permanente los productos señalados en el Petitorio de Farmacias que les está permitido expender.
+b) Las referidas al expendio de productos farmacéuticos, contenidas en el párrafo IV, en lo que sea compatible con este Título.
 
-Esta obligación no regirá respecto de los Almacenes Farmacéuticos Complementarios.
+c) La asignación y cumplimiento de turnos del Párrafo V.
 
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
-
-#### Artículo 63°
-
-El almacén farmacéutico dispondrá de los siguientes textos:
-
-a) Un ejemplar del presente reglamento;
-
-b) Tratamiento de urgencia toxicológicas;
-
-c) Monografías de medicamentos, y
-
-d) Listado de Farmacias cercanas, con su nombre y localización.
-
-El Almacén Farmacéutico Complementario deberá contar con los siguientes textos:
-
-- Un ejemplar actualizado del Reglamento de Farmacias, Droguerías, Almacenes Farmacéuticos, Botiquines y Depósitos autorizados.
-
-- Un ejemplar actualizado del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos.
+d) La Información de precios, del Párrafo VI.
 
 > **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
 
-#### Artículo 64°
+#### Artículo 62
 
-Los Almacenes Farmacéuticos y los Almacenes Farmacéuticos Complementarios deberán poseer los siguientes registros oficiales:
+Los almacenes farmacéuticos estarán obligados a mantener en existencia, en forma permanente y siempre disponible al público, los productos que se indiquen en el Petitorio Farmacéutico Mínimo de Medicamentos correspondiente, determinado mediante resolución del Ministro de Salud, todo conforme a lo dispuesto en los artículos 94 y 101 del Código Sanitario.
 
-a) De inspección, para los efectos señalados en las letras b) y c) del artículo 19°, y
+#### Artículo 63
 
-b) De reclamos para lo señalado en el artículo 22° del presente reglamento.
+Los almacenes farmacéuticos dispondrán de al menos una copia del siguiente material de consulta, el que estará ubicado en un espacio debidamente identificado y de libre acceso:
 
-> **Nota.** Ver NOTA sobre vigencia de modificaciones introducidas por el DTO 67 en el encabezamiento de la presente norma.
+1. Del presente Reglamento y del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano.
+
+2. El Formulario Nacional de Medicamentos y de su Petitorio Mínimo Farmacéutico.
+
+3. Las monografías de productos farmacéuticos de venta directa, aprobadas por resolución del Ministro de Salud, de oficio o a propuesta del Instituto de Salud Pública.
+
+4. Listado de Farmacias cercanas, con su nombre y localización.
+
+5. Listados de:
+
+i. Los productos que deben demostrar bioequivalencia, de acuerdo a la normativa vigente.
+
+ii. Los medicamentos que ya han demostrado bioequivalencia. El listado deberá estar ordenado de acuerdo a su principio activo y dosis por forma farmacéutica y actualizada al menos durante los 5 primeros días de cada mes, conforme a la información disponible en la página web del Instituto de Salud Pública.
+
+Asimismo, les serán aplicables a los almacenes farmacéuticos las normas señaladas en los incisos 2º, 3º y 4º del artículo 17 del presente reglamento.
+
+#### Artículo 64
+
+El Almacén Farmacéutico deberá poseer los siguientes registros oficiales:
+
+a) De inspección, para los efectos señalados en el artículo 19, y
+
+b) De reclamos, para lo señalado en el artículo 22.
+
+Estos registros deberán estar foliados y previamente autorizados por el Instituto de Salud Pública de Chile, debiendo mantenerse a su disposición en todo momento y circunstancia.
+
+Las denuncias estampadas en el Libro de Reclamos que digan relación con calidad, seguridad y eficacia de los productos farmacéuticos que se expenden en el almacén, así como con la disponibilidad de aquellos considerados en su Petitorio Mínimo Farmacéutico, deberán ser contestadas dentro de plazo máximo de 3 días por el Director Técnico del establecimiento con copia al Instituto de Salud Pública de Chile.
 
 ### Párrafo II
 
@@ -697,6 +945,10 @@ Les quedará estrictamente prohibido preparar y despachar fórmulas magistrales 
 #### Artículo 79°
 
 Los botiquines que adquieran estupefacientes y productos psicotrópicos, para ser usados en el establecimiento a que pertenecen, quedarán sometidos a las disposiciones reglamentarias que gobiernan la materia.
+
+#### Artículo 79
+
+A.- Los establecimientos de asistencia médica abierta y cerrada que incorporen medicamentos a la prestación de salud y que cuenten con farmacia o botiquín, podrán disponer, por sí o por terceros autorizados, de servicios de administración, fraccionamiento y entrega de medicamentos, conforme a la norma técnica que se apruebe mediante decreto del Ministerio de Salud.
 
 ## Título VI
 

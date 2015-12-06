@@ -362,9 +362,9 @@ Cada unidad posológica podrá contener sólo un principio activo de los mencion
 
 Se exceptuarán de la exigencia de la receta cheque, las prescripciones de productos psicotrópicos que se formulen en recetarios especiales autorizados para estos efectos por los Servicios de Salud, en los establecimientos asistenciales dependientes del Sistema Nacional de Servicios de Salud, de las Fuerzas Armadas y Carabineros, y de las Universidades y en hospitales y clínicas particulares, destinadas exclusivamente al uso interno de estos establecimientos.
 
-#### Artículo 32°
+#### Artículo 32
 
-Los cirujanos dentistas sólo podrán prescribir y adquirir preparados psicotrópicos de la lista IV, para administrarlos directamente a sus pacientes y en una cantidad no superior a 30 unidades posológicas. El expendio de estos productos deberá efectuarse en las farmacias personalmente a estos profesionales, mediante el uso de recetas de su propiedad, las cuales deberán indicar que el expendio se solicita para el uso no personal sino que para el ejercicio de su profesión en terceros a los que presta servicios, quedando dichas recetas retenidas, previa individualización del profesional, y registradas en el libro al que alude el artículo 18º de este reglamento, registro que se dispondrá en una sección especialmente destinada a estas inscripciones.
+Los cirujanos dentistas podrán prescribir preparados psicotrópicos de la lista IV. Además, podrán adquirir en farmacias dichos preparados, en una cantidad no superior a 150 unidades posológicas, para administrarlos directamente a sus pacientes. En este caso, el expendio de estos productos deberá efectuarse directamente a la persona de estos profesionales, mediante el uso de recetas de su propiedad, las cuales deberán indicar que el expendio se solicita para el uso no personal sino para el ejercicio de su profesión en terceros a los que presta servicios, quedando dichas recetas retenidas, previa individualización del profesional, y registrada en el libro al que alude el artículo 18º de este reglamento, registro que se dispondrá en una sección especial destinada a estas inscripciones.
 
 Los médicos veterinarios podrán prescribir y adquirir productos psicotrópicos para utilizarlos personalmente en el tratamiento de animales, mediante órdenes autorizadas por el Servicio de Salud correspondiente, y deberán anotar en un libro especial las dosis administradas, la fecha de su utilización, la especie animal y el nombre del propietario de éste. Los productos de la lista IV podrán prescribirlos mediante las correspondientes recetas retenidas, las que sin perjuicio de ajustarse a lo dispuesto en los artículos 23 y 25 de este reglamento, deberán además consignar su uso veterinario y el nombre y cédula de identidad del dueño o responsable del animal al que se efectúa la prescripción.
 
@@ -572,6 +572,30 @@ metil-5-fenil-2-
 
 oxazolina
 
+Dimetilona o
+
+ßk-MDDMA N, N-dimetil-beta-
+
+ceto-3,4-metilen
+
+dioxianfetamina
+
+(incluye sus
+
+enantiomeros y
+
+mezcla racemica)
+
+Butilona o ßk-MBDB 1-(1,3-benzodioxol-
+
+5-il)-N-metilbutan-
+
+2-amina (incluye
+
+sus enantiomeros y
+
+mezcla racemica)
+
 Las sales de las sustancias enumeradas en esta Lista y toda sustancia alucinógena o de efectos nocivos análogos
 
 Sustancias derivadas de la feniletilamina y dimetiltriptamina con efecto alucinógenos contenidas en todo material o preparación, en cualquier cantidad de sustancias, sales, isómeros o mezclas que se indican a continuación:
@@ -740,13 +764,17 @@ AMINEPTINA (ácido 7 - [(10,
 
 dibenzo [a, d]
 
-ciclohepteno-5 il)
+ciclohepteno-5
 
-amino] heptanoico)
+il) amino]
 
-KETAMINA ±2-(2-clorofenil)-2-
+heptanoico)
 
-(metilamino)-
+KETAMINA ±2-
+
+(2-clorofenil)
+
+-2-(metilamino)-
 
 ciclohexan-1-ona.
 
@@ -1166,7 +1194,9 @@ sidnona)
 
 SIBUTRAMINA ±1-(4-clorofenil)-N,
 
-N-dimetil-alfa-(2-metilpropil)-
+N-dimetil-alfa-
+
+(2-metilpropil)-
 
 Ciclobutanometanamina.
 

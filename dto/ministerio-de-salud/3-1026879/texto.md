@@ -48,6 +48,8 @@ Para los efectos del presente reglamento, se entenderá por:
 
 6) Buenas Prácticas de Manufactura (BPM): Normas técnicas mínimas establecidas para todos los procedimientos destinados a garantizar la calidad uniforme y satisfactoria de los productos farmacéuticos, dentro de los límites aceptados y vigentes para cada uno de ellos; estas normas técnicas serán aprobadas por Decreto Supremo del Ministerio, a propuesta del Instituto.
 
+Atendida la naturaleza y empleo de los productos farmacéuticos destinados a su uso en investigaciones científicas en seres humanos, se dictarán normas específicas en relación a su manufactura, las que serán aprobadas como normas técnicas, por decreto supremo del Ministerio de Salud, a propuesta del Instituto.
+
 7) Calidad de un medicamento: Aptitud del medicamento para el uso para el cual se destina, la que está determinada por su eficacia, seguridad y estabilidad, conforme a las características de identidad, potencia, pureza y otras, conforme al respectivo registro sanitario.
 
 8) Certificado de registro sanitario: Documento extendido por la autoridad sanitaria del país productor o de procedencia, a petición del interesado, en el cual debe constar:
@@ -90,7 +92,9 @@ Para los efectos del presente reglamento, se entenderá por:
 
 24) Envase secundario: Aquel que siendo inviolable, permite además contener, proteger y conservar el envase primario.
 
-25) Envases clínicos: Aquellos destinados al uso exclusivo en farmacias o botiquines de establecimientos médico-asistenciales, para ser administrados o entregados a pacientes que se atienden en el mismo, conforme a la dosificación y forma prescrita.
+25) Envases clínicos: Aquellos destinados al uso en establecimientos de asistencia médica y farmacias, para ser administrados o entregados a pacientes o adquirentes, según corresponda.
+
+Este tipo de envases de medicamentos, además podrán ser fraccionados en farmacias o establecimientos asistenciales en conformidad a la normativa vigente.
 
 26) Equivalentes farmacéuticos: Productos farmacéuticos que contienen idénticas cantidades de los mismos principios activos o sus mismas sales o ésteres, presentados en idéntica forma farmacéutica y vía de administración, pero que no necesariamente contienen los mismos excipientes y que cumplen con las mismas o comparables especificaciones de calidad.
 
@@ -390,7 +394,7 @@ Las solicitudes presentadas por los interesados, para la venta o uso provisional
 
 #### Artículo 23°
 
-Las solicitudes para el uso provisional en investigación científica o ensayo clínico de un producto farmacéutico deberán presentarse ante el Instituto acompañadas del protocolo aprobado por el comité de ética, en los términos a que se refiere la letra c) del artículo 21°; el mismo documento deberá acompañarse cuando se trate de un producto que cuenta con registro sanitario y se pretenda su utilización de manera distinta a la autorizada.
+Las solicitudes para el uso provisional en investigación científica o ensayo clínico de un producto farmacéutico deberán presentarse ante el Instituto acompañadas del protocolo aprobado por el comité de ética, en los términos a que se refiere la letra c) del artículo 21°; el mismo documento deberá acompañarse cuando se trate de un producto que cuenta con registro sanitario y se pretenda su utilización de manera distinta a la autorizada. Asimismo, las solicitudes deberán acompañar un certificado oficial emitido por la autoridad competente del país donde se sitúe el establecimiento productor, emitido en los términos señalados en el numeral 10.a.4 del artículo 29 del presente reglamento, en lo que corresponda.
 
 #### Artículo 24°
 
@@ -3136,9 +3140,9 @@ c) Folleto de información al profesional: Documento que contendrá a lo menos l
 
 d) Folleto de información al paciente: Documento destinado a informar al paciente sobre una especialidad farmacéutica. Contendrá a lo menos la información referente a la indicación autorizada, advertencias, contraindicaciones, interacciones con otros productos, precauciones y toda otra información que la autoridad sanitaria determine en el registro, que permitan asegurar su correcto uso. El folleto de los productos farmacéuticos de venta directa, deberá señalar además información acerca de la dosificación habitual para uso en particular y su modo de empleo aprobados en el registro.
 
-#### Artículo 200°
+#### Artículo 200º
 
-La publicidad de las especialidades farmacéuticas de venta directa, podrá realizarse sin autorización previa del Instituto, debiendo para ello, reproducirse el contenido exacto, total o parcial, autorizado en los folletos de información al paciente y rótulos, que hayan sido aprobados en el respectivo registro sanitario.
+La publicidad que podrá realizarse de las especialidades farmacéuticas de venta directa, será sólo aquella autorizada previamente por el Instituto de Salud Pública. La publicidad podrá reproducir solamente el contenido exacto, total o parcial, de los folletos de información al paciente y rótulos, que hayan sido aprobados en el respectivo registro sanitario.
 
 Sólo podrá referirse a las recomendaciones terapéuticas que hayan sido aprobadas por el Instituto en el respectivo registro sanitario y, en ningún caso, podrán contener títulos, figuras, indicaciones, efectos, alusiones o menciones, que no se conformen con ello.
 
@@ -3148,7 +3152,7 @@ La publicidad que sea contraria a lo indicado precedentemente, será sancionada,
 
 No podrá hacerse publicidad de las especialidades cuya condición de venta sea receta simple, receta retenida o receta cheque.
 
-Podrán, sin embargo, anunciarse a los profesionales habilitados para su prescripción y dispensación, públicamente sin aprobación previa del Instituto, mediante avisos destinados exclusivamente a dar a conocer su introducción o existencia en el mercado, conteniendo sólo la denominación oficial aprobada, con su individualización en el rótulo principal, el nombre del laboratorio fabricante o importador y distribuidor y el distintivo del establecimiento, si lo tuviere.
+INCISO DEROGADO
 
 #### Artículo 202°
 
@@ -3158,7 +3162,7 @@ Quedará prohibida la donación, entrega o distribución gratuita de medicamento
 
 El Instituto podrá suspender o prohibir por resolución fundada la publicidad e información al profesional, de las especialidades farmacéuticas que no cumplan con las disposiciones del presente Título, sin perjuicio de la instrucción del sumario sanitario que correspondiere.
 
-Para estos efectos, el Instituto requerirá a quien corresponda, los textos de la publicidad e información de tales productos.
+Para estos efectos, el Instituto requerirá a quien corresponda, los textos de la publicidad e información de tales productos y ordenará el cese y/o retiro inmediato de la publicidad, pudiendo además, mediante resolución fundada, suspender el registro sanitario.
 
 #### Artículo 204°
 
@@ -3177,6 +3181,10 @@ Los titulares de registro sanitario, importadores, fabricantes o distribuidores 
 Quedan prohibidas las publicaciones, proyecciones, transmisiones o cualquier otro sistema de propaganda audiovisual mediante los cuales se anuncie como productos medicinales o de utilidad médica a alguno que no haya sido autorizado o reconocido como tal por la autoridad.
 
 La autoridad sanitaria podrá resolver la paralización inmediata de dicha actividad, en los términos del artículo 178º del Código Sanitario, sin perjuicio de la responsabilidad sanitaria que pueda afectar al infractor, según se determine en el correspondiente sumario.
+
+#### Artículo 207
+
+A.- Serán responsables de la realización de publicidad no autorizada, además de los titulares de los registros, todas aquellas personas naturales o jurídicas que participen en la difusión de dicha publicidad y que, sin mediar su actuación, ésta no se hubiese podido llevar a cabo.
 
 PÁRRAFO SEGUNDO:
 
@@ -3222,9 +3230,7 @@ DE LA PUBLICIDAD EN ESTABLECIMIENTOS FARMACÉUTICOS.
 
 En los establecimientos de fabricación y distribución sólo podrán anunciarse las especialidades farmacéuticas cuya condición de venta sea directa, indicando su denominación autorizada y envase aprobado y el distintivo del productor o distribuidor, si lo tuviese.
 
-Sin perjuicio de lo anterior, las empresas expendedoras podrán anunciar el precio de las especialidades farmacéuticas, cualquiera sea su condición de venta, mediante la reproducción exacta de sus rótulos en los lugares de expendio.
-
-Quedan exceptuados de estas disposiciones aquellos productos sometidos a controles especiales, tales como psicotrópicos y estupefacientes.
+INCISOS ELIMINADOS.
 
 #### Artículo 215°
 
@@ -3278,13 +3284,15 @@ PÁRRAFO SEGUNDO:
 
 DE LA EQUIVALENCIA TERAPÉUTICA.
 
-#### Artículo 221°
+#### Artículo 221º
 
-Por Decreto Supremo del Ministerio, dictado a proposición del Instituto, se aprobará la norma técnica que determinará las listas de los principios activos contenidos en los productos farmacéuticos que requieren demostrar su equivalencia terapéutica y la lista de productos farmacéuticos que servirán de referencia de los mismos.
+El Ministerio de Salud, mediante decreto, aprobará la norma técnica que determine los productos que requieren demostrar su equivalencia terapéutica, estableciendo las listas de los principios activos y de los productos farmacéuticos que servirán de referencia de los mismos, cuando corresponda; lo que podrá hacer a proposición del Instituto.
 
-Asimismo, por resolución del Ministerio se aprobarán los criterios la norma técnica que establezca los criterios necesarios para determinar los productos farmacéuticos que requieren demostrar equivalencia terapéutica.
+No requerirán demostrar bioequivalencia las especialidades farmacéuticas contempladas en las letras b), c), d) y e), del artículo 10º del presente reglamento, ni tampoco los preparados farmacéuticos.
 
-Las normas y demás procedimientos para la realización de los estudios de biodisponibilidad, así como los estudios de equivalencia terapéutica, en los casos que correspondan, serán establecidas por resolución del Ministerio, a propuesta del Instituto.
+Asimismo, por decreto del Ministerio se aprobará la norma técnica que establezca los criterios técnicos necesarios para determinar los productos farmacéuticos que requieran demostrar equivalencia terapéutica.
+
+Las normas y demás procedimientos para la realización de los estudios de biodisponibilidad así como los estudios de equivalencia terapéutica, en los casos que correspondan, serán establecidos por decreto del Ministerio, lo que podrá hacer a proposición del Instituto.
 
 ## Título XI
 
