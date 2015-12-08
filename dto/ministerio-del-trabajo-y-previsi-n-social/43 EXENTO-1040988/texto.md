@@ -24,7 +24,7 @@ El Servicio de Bienestar tendrá por finalidad elevar las condiciones de vida y 
 
 Funciones del Servicio de Bienestar:
 
-a) Otorgar y administrar beneficios vinculados a las áreas de salud, educación, asistencia, recreación, vivienda, entre otros.
+a) Otorgar y administrar beneficios vinculados a las áreas de salud, educación, asistencia, recreación, vivienda, alimentación entre otros.
 
 b) Elaborar, implementar y evaluar de manera proactiva y permanente, políticas, programas y proyectos sociales específicos, que correspondan por una parte a las necesidades e intereses de los afiliados y por la otra, que proyecten el desarrollo y el fortalecimiento de las prestaciones del Servicio de Bienestar.
 
@@ -174,9 +174,11 @@ e) Con los intereses de los préstamos que otorga el Servicio de Bienestar a sus
 
 f) Con las comisiones que perciba en virtud de los Convenios que celebre con terceros para el otorgamiento de beneficios a los afiliados.
 
-g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor, y
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor,
 
-h) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier título.
+h) con los excedentes que se produzcan en la administración del casino y de la cafetería de la Subsecretaría o de otro sistema de beneficio de alimentación que apruebe el Consejo Administrativo, como asimismo, de otras dependencias e instalaciones que le asigne el Subsecretario para las Fuerzas Armadas, destinadas al uso de sus funcionarios.
+
+i) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier título.
 
 #### Artículo 18°
 
@@ -323,6 +325,20 @@ El Servicio de Bienestar, en la medida que los recursos presupuestarios se lo pe
 #### Artículo 27°
 
 El Servicio de Bienestar podrá administrar la cafetería de la Subsecretaría para las Fuerzas Armadas, mediante la celebración de convenios con instituciones públicas o privadas, de acuerdo a la legislación vigente.
+
+#### Artículo 27 bis
+
+El Servicio de Bienestar de la Subsecretaría para las Fuerzas Armadas, podrá administrar el casino y la cafetería de la Subsecretaría u otro sistema de beneficio de alimentación que apruebe el Consejo Administrativo en beneficio de su personal. Asimismo, el Servicio de Bienestar podrá administrar otras dependencias e instalaciones que le asigne el Subsecretario para las Fuerzas Armadas, destinadas al uso de sus funcionarios.
+
+En virtud de la función anteriormente señalada, el Servicio de Bienestar de la Subsecretaría para las Fuerzas Armadas, podrá efectuar todas las acciones de dirección, planificación y organización, tendientes a lograr un óptimo funcionamiento de tales servicios.
+
+El financiamiento de la gestión de administración de los servicios anteriormente mencionados será de total cargo de la Subsecretaría para las Fuerzas Armadas.
+
+En el ejercicio de la función anteriormente señalada, el Servicio de Bienestar de la Subsecretaría para las Fuerzas Armadas se beneficiará de los excedentes que se produzcan en la administración de tales servicios dependientes y no podrá concurrir al financiamiento de los servicios que administre, con sus recursos, ni fondos de su presupuesto.
+
+La totalidad de los gastos que se generen en ocasión del ejercicio de la función de administrar el casino y la cafetería de la Subsecretaría u otro sistema de beneficio de alimentación que apruebe el Consejo Administrativo, serán de cargo de la Subsecretaría para las Fuerzas Armadas.
+
+El personal necesario para el cumplimiento de las funciones anteriormente señaladas, será proporcionado por la Subsecretaría para las Fuerzas Armadas.
 
 Párrafo Tercero
 
