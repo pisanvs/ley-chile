@@ -26,7 +26,9 @@ Considerando:
 
 Resolución:
 
-1. Llámese, a partir del 23 de noviembre de 2015, hasta día 30 de noviembre de 2015, ambas fechas inclusive, a concurso en condiciones especiales en la Región de La Araucanía, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en su modalidad de Construcción en Sitio Propio, en estado hábil, destinado a atender familias de la comuna de Freire, particularmente pertenecientes a las agrupaciones Quepe-Pelales, Peumayen y Fermín Manquilef y, familias propietarias del terreno, en virtud de lo señalado en el artículo 20, letra b), de la ley Nº 19.253, de la comuna de Lumaco.
+> **Nota.** El N° 2 de la Resolución 3508 Exenta, Vivienda, publicada el 07.12.2015, modifica la presente norma en el sentido de agregar el mes de diciembre como opción para realizar la postulación.
+
+1. Llámese, a partir del 23 de noviembre de 2015, hasta el 11 de diciembre de 2015, ambas fechas inclusive, a concurso en condiciones especiales en la Región de La Araucanía, para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en su modalidad de Construcción en Sitio Propio, en estado hábil, destinado a atender familias de la comuna de Freire, particularmente pertenecientes a las agrupaciones Quepe-Pelales, Peumayen y Fermín Manquilef y, familias propietarias del terreno, en virtud de lo señalado en el artículo 20, letra b), de la ley Nº 19.253, de la comuna de Lumaco.
 
 2. Destínese un monto de hasta 123.000 Unidades de Fomento, según lo señalado en la Res (E) Nº 5.445 de fecha 20 de julio de 2015, para la selección de los proyectos que postulen al llamado especial dispuesto por esta Resolución, destinados a la asignación de subsidios del Fondo Solidario de Elección de Vivienda.
 
