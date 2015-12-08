@@ -28,11 +28,13 @@ Autorízase a los vehículos que a continuación se indican, para circular los d
 
 Marca : Chevrolet
 
-Modelo : Captiva 4X4
+Modelo : Captiva 5 LT
+
+2.4L AWD 6 MT
 
 Año de fabricación : 2015
 
-Nº de motor : LE9141100220
+Nº de motor : LE9141400220
 
 Nº de chasis : KL1FC5DU7EB044804
 
@@ -46,7 +48,9 @@ Placa única : GXHX.27-K.
 
 Marca : Chevrolet
 
-Modelo : Captiva 4X4
+Modelo : Captiva 5 LT
+
+2.4L AWD 6 MT
 
 Año de fabricación : 2015
 
@@ -60,29 +64,15 @@ Registro Nac. de Vehículos Motorizados: GXHX.14-4
 
 Placa única : GXHX.14-4.
 
-3. Vehículo : Station Wagon
-
-Marca : Chevrolet
-
-Modelo : Captiva 4X4
-
-Año de fabricación : 2015
-
-Nº de motor : LE9133570211
-
-Nº de chasis : KL1FC5DU4EB009461
-
-Color : Plateado metálico
-
-Registro Nac. de Vehículos Motorizados: GXHX.11-K
-
-Placa única : GXHX.11-K.
+3. ELIMINADO.
 
 4. Vehículo : Station Wagon
 
 Marca : Chevrolet
 
-Modelo : Captiva 4X4
+Modelo : Captiva 5 LT
+
+2.4L AWD 6 MT
 
 Año de fabricación : 2015
 
@@ -92,15 +82,17 @@ Nº de chasis : KL1FC5DU7EB044794
 
 Color : Plata metálico
 
-Registro Nac. de Vehículos Motorizados: GXHX.20-9
+Registro Nac. de Vehículos Motorizados: GXHY.20-9
 
-Placa única : GXHX.20-9.
+Placa única : GXHY.20-9.
 
 5. Vehículo : Station Wagon
 
 Marca : Chevrolet
 
-Modelo : Captiva 4X4
+Modelo : Captiva 5 LT
+
+2.4L AWD 6 MT
 
 Año de fabricación : 2015
 
@@ -110,21 +102,23 @@ Nº de chasis : KL1FC5DU7EB048635
 
 Color : Negro
 
-Registro Nac. de Vehículos Motorizados: GXHX.13-6
+Registro Nac. de Vehículos Motorizados: GXHY.13-6
 
-Placa única : GXHX.13-6.
+Placa única : GXHY.13-6.
 
 6. Vehículo : Automóvil
 
 Marca : Hyundai
 
-Modelo : Elantra GLS Full
+Modelo : Elantra GLS
+
+Full 1.8
 
 Año de fabricación : 2013
 
 Nº de motor : G4NDBU621084
 
-Nº de chasis : KMHDU621084
+Nº de chasis : KMHDH41EADU779176
 
 Color : Gris grafito
 
@@ -142,9 +136,9 @@ Año de fabricación : 2014
 
 Nº de motor : G4NAEU362871
 
-Nº de chasis : 931104
+Nº de chasis : KMHJT81EAEU931104
 
-Color : Plateado metálico
+Color : Blanco
 
 Registro Nac. de Vehículos Motorizados: GPSX.40-9
 
