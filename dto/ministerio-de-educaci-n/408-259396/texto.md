@@ -20,23 +20,19 @@ Habrá una bonificación destinada a financiar las prácticas profesionales de l
 
 #### Artículo 2º
 
-"La Bonificación", para el año en curso, ascenderá a la suma de 62.500.- (sesenta y dos mil quinientos pesos) y se entregará al estudiante beneficiario hasta en tres cuotas a través de un sistema de pago bancario.
+La Bonificación, para el año en curso ascenderá a la suma de $65.000.- y se entregará al estudiante beneficiado, hasta en tres cuotas a través de un sistema de pago bancario.
 
 #### Artículo 3º
 
 Los requisitos de postulación que debe cumplir el estudiante beneficiario para impetrar "la Bonificación" serán:
 
-a) Ser estudiante egresado de Enseñanza Media Técnico Profesional de un establecimiento educacional regido por el D.F.L. (Ed.) Nº 2, de 1980, o decreto ley Nº 3.166, de 1980.
+a) Ser estudiante o egresado de enseñanza media técnico profesional de un establecimiento educacional regido por el DFL (Ed.) Nº 2, de 1998 o decreto ley Nº 3.166, de 1980.
 
 b) Estar matriculado en el establecimiento educacional para realizar el Plan de Práctica Profesional, de acuerdo al Decreto Exento Nº 2.516, de 2007, del Ministerio de Educación, y sus modificaciones.
 
 c) Realizar o iniciar la práctica profesional durante el año en curso.
 
-d) Disponer de los siguientes antecedentes:
-
-* El "Plan Práctica", aprobado por el director del establecimiento educacional.
-
-* Un informe del profesor del liceo que supervisa la práctica, acreditando que el estudiante realiza o inicia la práctica profesional durante el año en curso.
+d) El establecimiento educacional debe disponer de un informe del profesor del Liceo que supervisa la práctica que acredita que el estudiante realiza o inicia la práctica profesional durante el año en curso.
 
 #### Artículo 4º
 
@@ -62,7 +58,7 @@ En el ejercicio de esta función actuará conforme a sus facultades y a las norm
 
 #### Artículo 6º
 
-Las postulaciones a la Bonificación deberán realizarse directamente por los egresados de la Enseñanza Media Técnico Profesional, interesados en acceder al beneficio, a través de un sistema único de postulación, vía Internet, que estará disponible en el portal Web de la Junta Nacional de Auxilio Escolar y Becas, en el que los interesados deberán ingresar los antecedentes exigidos en el formulario dispuesto para tal efecto.
+JUNAEB regulará anualmente, a través de un Manual de Procedimientos, aprobado mediante resolución exenta, la forma y plazos de postulación y asignación del beneficio.
 
 #### Artículo 7º
 
