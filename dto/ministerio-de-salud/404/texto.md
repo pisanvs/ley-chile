@@ -68,11 +68,11 @@ Corresponderá al Instituto de Salud Pública de Chile el control de la importac
 
 Por su parte, a los Servicios de Salud les corresponderá el control de las actividades de preparación, transporte, transferencia a cualquier título, expendio, posesión, tenencia y uso de los productos estupefacientes, dentro del territorio de su competencia.
 
-#### Artículo 5°
+#### Artículo 5º
 
-La importación, exportación, tránsito, extracción, producción, fabricación, fraccionamiento, preparación, distribución, transporte, transferencia a cualquier título, expendio, posesión y tenencia de acetorfina, cannabis y su resina, cetobemidona, desomorfina, etorfina, heroína y las sales de estas substancias, en su caso, estarán prohibidas en el territorio nacional.
+La importación, exportación, tránsito, extracción, producción, fabricación, fraccionamiento, preparación, distribución, transporte, transferencia a cualquier título, expendio, posesión y tenencia de acetorfina, cannabis, resina de cannabis, extractos y tinturas de cannabis, cetobemidona, desomorfina, etorfina, heroína y las sales de estas substancias, en su caso, estarán prohibidas en el territorio nacional. Sin perjuicio de lo anterior, en casos calificados y para fines de investigación científica, el uso de estas substancias podrá ser autorizado por el Instituto de Salud Pública de Chile, en las condiciones que determine la resolución correspondiente.
 
-Con todo, en casos calificados y para fines de investigación científica, el uso de estas substancias podrá ser autorizado por el Instituto de Salud Pública de Chile, en las condiciones que determina la resolución correspondiente.
+Con todo, el Instituto de Salud Pública podrá autorizar y controlar el uso de cannabis, resina de cannabis, extractos y tinturas de cannabis para la elaboración de productos farmacéuticos de uso humano.
 
 #### Artículo 6°
 
@@ -290,6 +290,8 @@ En el caso de los productos farmacéuticos que contengan dosis sobre 10 mg. e in
 
 Para aquellos productos farmacéuticos que contengan dosis iguales o superiores a 60 mg. de codeína o etilmorfina, asociada a uno o varios ingredientes más, la condición de venta es receta cheque.
 
+Las especialidades farmacéuticas que contengan cannabis, resina de cannabis, extractos y tinturas de cannabis podrán expenderse al público en farmacias o laboratorios mediante receta médica retenida con control de existencia.
+
 > **Nota.** El N° 3 del DTO 68, Salud, publicado el 19.05.2001, dispuso que la presente modificación entrará en vigencia a los 120 días a contar de su publicación.
 
 #### Artículo 24°
@@ -464,9 +466,7 @@ DIOXAFETILO (etil 4-morfolín-2,2-
 
 difenilbutirato)
 
-CANNABIS (cáñamo índico) y su resina
-
-(resina de cáñamo índico)
+ELIMINADA
 
 CETOBEMIDONA (4-meta-hidroxifenil-1-metil-4-
 
@@ -861,6 +861,18 @@ Las sales de los estupefacientes enumerados en esta Lista, incluso las sales de 
 Lista II
 
 ACETILDIHIDROCODEINA (6-acetil-7,8-dihidrocodeína)
+
+Cannabis sumidades, floridas o con fruto,
+
+de la planta de cannabis (resina
+
+no extraída)
+
+Resina de Cannabis resina separada, en bruto o
+
+Extractos y Tinturas purificada, obtenida de la
+
+de Cannabis planta de cannabis
 
 CODEINA (3-metilmorfina)
 

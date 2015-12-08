@@ -74,6 +74,8 @@ La importación, exportación, tránsito, extracción, producción, fabricación
 
 Con todo, en casos calificados y para fines de investigación científica, el uso de estas substancias podrá ser autorizado por el Instituto de Salud Pública de Chile, en las condiciones que determine la resolución correspondiente.
 
+Sin perjuicio de lo anterior, el Instituto de Salud Pública podrá autorizar y controlar el uso de todos los isómeros de los tetrahidrocanabinoles para la elaboración de productos farmacéuticos de uso humano.
+
 #### Artículo 7°
 
 Las disposiciones del presente decreto son sin perjuicio de la aplicación a las drogas, preparados y especialidades farmacéuticas psicotrópicas de las normas de los decretos supremos: 435, de 1981 y 162 de 1982, y otras normas complementarias del Código Sanitario, en cuanto ellas sean pertinentes y compatibles con este reglamento.
@@ -277,6 +279,8 @@ Las farmacias remitirán, asimismo, al Servicio de Salud respectivo las recetas 
 Los preparados o productos psicotrópicos sólo podrán expenderse al público en farmacias o laboratorios mediante "Receta Cheque" en los casos de los productos contenidos en las Listas II y III o "Receta Médica Retenida", tratándose de los contemplados en la Lista IV, según sea su respectiva condición de venta. Ambos tipos de recetas tendrán los formatos que fije el Ministerio de Salud por Resolución.
 
 Sin perjuicio de lo anterior, en el caso de los preparados o productos farmacéuticos que contengan dosis mínimas de drogas psicotrópicas mezcladas con uno o varios ingredientes más, la autoridad sanitaria podrá disponer otra modalidad de venta.
+
+Las especialidades farmacéuticas que contengan tetrahidrocanabinoles (todos los isómeros) podrán expenderse al público en farmacias o laboratorios mediante receta médica retenida con control de existencia.
 
 Tratándose de productos psicotrópicos que se encuentren incorporados en las Listas II y III, cuyas drogas y principios activos se presenten en una forma farmacéutica que pueda acreditar que el riesgo de abuso es insignificante o nulo, la autoridad sanitaria podrá determinar o reemplazar su condición de venta a la de "Receta Médica Retenida".
 
