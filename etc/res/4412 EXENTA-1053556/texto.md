@@ -30,7 +30,9 @@ Las áreas señaladas previamente podrán ser modificadas por el Servicio, en ba
 
 5. Las naves que hayan zarpado o permanecido en áreas con presencia de PGRA en un período distinto a la época de vuelo de la hembra, quedarán exentas de presentar este certificado.
 
-6. Toda nave de transporte marítimo que arribe al país proveniente de áreas con presencia de PGRA, deberá proporcionar al SAG copia de la bitácora o lista de los puertos en donde la nave haya recalado durante los últimos 24 meses. La copia de este documento debe ser proporcionada por el representante de la nave con 24 horas de anticipación como mínimo antes del arribo de la nave a puerto chileno.
+6. Toda nave de transporte marítimo que arribe al país proveniente de áreas con presencia de PGRA, deberá proporcionar al SAG copia de la bitácora o lista de puertos en donde la nave haya recalado durante los últimos 24 meses. Este período podrá ser menos si se demuestra documentalmente que la nave tiene menos de 24 meses de navegación o que la nave cambió de armador.
+
+La copia de este documento debe ser proporcionada por el representante de la nave con 24 horas de anticipación como mínimo antes del arribo de la nave a puerto chileno.
 
 7. En el caso que el SAG determine que una nave deba ser inspeccionada, esta labor debe realizarse con luz día. En caso contrario, el SAG solicitará a la autoridad correspondiente el no otorgamiento de la Libre Plática hasta cuando existan las condiciones de luminosidad requeridas.
 
@@ -47,5 +49,7 @@ Las áreas señaladas previamente podrán ser modificadas por el Servicio, en ba
 10. Las infracciones a las normas de la presente resolución serán sancionadas de acuerdo al decreto ley N° 3.557, de 1980, sobre Protección Agrícola y la Ley N° 18.755 Orgánica del Servicio.
 
 11. La presente resolución comenzará a regir 6 meses después de su publicación en el Diario Oficial y no aplicará para las naves que hayan permanecido en áreas con presencia de PGRA con fecha anterior a dicha publicación.
+
+> **Nota.** El 1.1 del numeral 1° de la Resolución 8870 Exenta, agricultura, publicado el 09.12.2015, modifica la presente norma en el sentido de sustituir la frase "Norte de China" por "China".
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
