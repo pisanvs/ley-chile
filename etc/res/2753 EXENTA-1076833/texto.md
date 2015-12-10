@@ -34,6 +34,8 @@ Resolución:
 
 1.2 Las familias podrán participar de este llamado, retirando sus tarjetas de los SERVIU respectivos hasta el día 30 de septiembre del presente año, o hasta agotarse los recursos disponibles para este llamado, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
 
+No obstante lo anterior, el último día que Serviu podrá entregar tarjetas será el 21 de diciembre de 2015, aun cuando existan recursos disponibles para el llamado.
+
 1.3 La vigencia de los subsidios entregados a través de esta resolución será hasta el 1 de abril de 2016.
 
 2. Solo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo que afectó a la Región de Atacama y las comunas de Antofagasta y Taltal de la Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con daño reparable leve, tras la aplicación de la Ficha de Catastro extendida por el SERVIU, lo que será verificado por SERVIU en línea al momento de la postulación. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al SERVIU, el que tendrá como máximo 5 días hábiles para efectuarlo.
@@ -78,9 +80,9 @@ Resolución:
 
 Región Unidades de Fomento
 
-Antofagasta 38.600
+Antofagasta 28.600
 
-Atacama 130.000
+Atacama 140.000
 
 Total 168.600
 
