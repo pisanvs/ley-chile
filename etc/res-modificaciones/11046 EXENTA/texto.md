@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN Nº 4.406 EXENTA, DE 2015
+
+Por resolución Nº 11.046 exenta, de 1 de diciembre de 2015, de este Servicio, se modifican los resuelvos 1 a 4 de la resolución exenta Nº 4.406 de 2015 del Servicio Nacional de Pesca y Acuicultura, excluyendo a 29 embarcaciones, por no encontrarse dentro de los supuestos establecidos en el artículo 55 de la ley Nº 18.892 General de Pesca y Acuicultura, letra a), esto es no realizar actividades pesqueras extractivas por tres años sucesivos, letra d) parte final en relación con el requisito señalado en el artículo 52 letra a) del mismo cuerpo normativo y lo dispuesto en la letra f), referido al certificado de navegabilidad vigente por tres años consecutivos, o en los dos últimos literales.
+
+El texto íntegro de la resolución indicada y su respectivo informe técnico, en la que se individualizan las embarcaciones excluidas de la resolución de caducidad y sus armadores, se encuentran publicados con esta fecha en el dominio electrónico del Servicio Nacional de Pesca y Acuicultura y en el de la Subsecretaría de Pesca y Acuicultura.
+
+En Valparaíso, 1 de diciembre de 2015.- José Miguel Burgos González, Director Nacional, Servicio Nacional de Pesca y Acuicultura.
