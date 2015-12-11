@@ -22,7 +22,7 @@ Teniendo presente: Las disposiciones de los artículos 94° y 102° del Código 
 
 Resolución:
 
-1.- Dispónese que la información de seguridad de los folletos de información al paciente y al profesional, de todos los productos farmacéuticos que contengan Doxiciclina en su formulación, deberán actualizarse de forma que contengan la información que a continuación se indica:
+1.- Dispónese que la información de seguridad de los folletos de información al paciente y al profesional, de todos los productos farmacéuticos que contengan doxiciclina deberán actualizarse de forma que contengan la información que a continuación se indica, a menos que se cuente con estudios farmacocinéticos y de seguridad que avalen una forma de administración diferente:
 
 FOLLETO DE INFORMACIÓN AL PROFESIONAL Y PACIENTE:
 
