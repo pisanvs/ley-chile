@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "SOCIEDAD COMERCIAL FIBRAS RAAM LIMITADA"
+
+Mediante decreto exento Nº E-508 de 16 de noviembre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa a "Sociedad Comercial Fibras Raam Limitada", R.U.T. Nº 76.112.458-7, el inmueble fiscal ubicado en manzana A-1 Lote 1, Sector Puerto Seco, comuna de Calama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 5301-20; inscrito a nombre del Fisco en inscripción global a fs. 49 vta. Nº 57, del Registro de Propiedad del Conservador de Bienes Raíces El Loa-Calama, correspondiente al año 1928; de una superficie total aproximada de 4.806,87 m2, singularizado en el Plano Nº 02201-6.913 C.U. La concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de U.F. 274.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto productivo denominado "Fabricación de Fibra de Vidrio, H. D. P. E. Estructuras Metálicas y Arrendamiento de Vehículos". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.- Autoriza extracto,
+
+Patricio Flores Rivas, Jefe de División Jurídica.
