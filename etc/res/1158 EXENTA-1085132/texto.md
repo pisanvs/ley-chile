@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 1.158 EXENTA DE 23 DE NOVIEMBRE DE 2015
+
+Por resolución exenta Nº 1.158, de 23 de noviembre de 2015, de la Secretaría Regional Ministerial de la Región de Los Ríos, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Ríos, celebrado con los concesionarios TÜV Rheinland Andino S.A. y Revisiones Los Lagos Limitada, aprobados por las resoluciones exentas Nº 442 y Nº 443, ambas de fecha 23 de agosto de 2004, de la Secretaría Regional Ministerial de la Región de Los Lagos, hasta el día 30 de marzo de 2016 o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta región, a través de la resolución Nº 278, de 11 de diciembre de 2013, cualquiera que ocurra primero.
+
+Paz de la Maza Villalobos, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos.
