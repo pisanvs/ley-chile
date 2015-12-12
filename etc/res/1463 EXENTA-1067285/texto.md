@@ -90,6 +90,4 @@ Así también, los inspectores del Servicio Agrícola y Ganadero podrán dispone
 
 4.- Los incumplimientos de las normas y procedimientos establecidos en esta resolución serán sancionados de acuerdo al DL Nº 3.557 de 1980, sobre Protección Agrícola y la Ley Nº 18.755 Orgánica del Servicio Agrícola y Ganadero de 1989, modificada por ley Nº 19.283 de 1994.
 
-> **Nota.** El N° 1 de la Resolución 779 Exenta, publicada el 30.08.2016, modifica la presente norma en el sentido de ampliar el área bajo cuarentena que establece, para el control obligatorio de la plaga Hylotrupes bajulus al territorio regional comprendido dentro del radio de 1 kilómetro respecto del lugar de detección de la plaga, en los términos y coordenadas que dicha resolución señala.
-
 Anótese, comuníquese y publíquese.- Juan Rodrigo Sotomayor Cabrera, Director (TyP) Región de O'Higgins, Servicio Agrícola y Ganadero.
