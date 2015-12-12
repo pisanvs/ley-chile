@@ -34,7 +34,7 @@ Resolución:
 
 1. Reemplácese el resuelvo Nº1 de la resolución Nº1.084 de fecha 26 de mayo de 2015 de esta Secretaría Regional Ministerial, quedando en definitiva de la siguiente manera:
 
-1º Podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu de la Región de La Araucanía, en las siguientes fechas:
+1º Podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu de la Región de la Araucanía, en las siguientes fechas:
 
 1º Selección: 26 de junio de 2015
 
@@ -44,11 +44,9 @@ Resolución:
 
 4º Selección: 30 de noviembre de 2015
 
-5º Selección: 29 de diciembre de 2015
+5º Selección: 15 de diciembre de 2015
 
-Las postulaciones ya efectuadas correspondientes a las 1º y 2º fechas señaladas precedentemente, serán reevaluadas de acuerdo a la mayoría de los parámetros técnicos establecidos en la presente resolución.
-
-Aquellas postulaciones que no se ajusten a los estándares técnicos vigentes, se tendrán como no presentadas a postulación para todos los efectos legales, debiendo incorporarse en las fechas posteriores.
+Las postulaciones ya efectuadas correspondientes a las 1º y 2º fechas señaladas precedentemente, serán reevaluadas de acuerdo a la mayoría de los parámetros técnicos establecidos en la presente resolución. Aquellas postulaciones que no se ajusten a los estándares técnicos vigentes, se tendrán como no presentadas a postulación para todos los efectos legales, debiendo incorporarse en las fechas posteriores.
 
 2. Reemplácese el resuelvo Nº 2 de resolución Nº1.084 de fecha 26 de mayo de 2015, quedando de la siguiente manera:
 
