@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE SUBSIDIO CONCURSO "GESTIÓN DE LA INNOVACIÓN EN EL SECTOR PÚBLICO"
+
+Por resolución exenta Nº 595, de 30 octubre de 2015, se aprueba el Convenio de Subsidio Concurso "Gestión de la Innovación en el Sector Público", suscrito entre el Laboratorio de Gobierno (Corfo), la Entidad Experta Dictuc S.A. y el Instituto de Previsión Social, con fecha 15 de octubre de 2015, con el objetivo general de "Instalar un modelo sistemático y sustentable de creación de valor público, mediante el desarrollo de cultura, la adquisición de prácticas y competencias organizacionales e individuales de innovación, acompañados por instalación de una institucionalidad en un proceso retroalimentado por la ejecución de proyectos de impacto que generen evidencia temprana sobre la efectividad de las metodologías de innovación".
+
+Santiago, 4 de diciembre de 2015.- Patricio Coronado Rojo, Director Nacional.
