@@ -24,17 +24,11 @@ Se dispone la aplicación de un sistema automatizado de distribución de causas 
 
 #### Artículo segundo
 
-Radicación preferente
-
-Encontrándose actualmente capacitadas en materia concursal las juezas titulares del Segundo y Tercer Juzgado de Letras de La Serena, doña Ghislaine Louisette Landerretche Sotomayor y doña Nora Cecilia Rojas Nogerol, respectivamente, se establece un mecanismo de radicación preferente, entre dichos dos tribunales, procurando, al efecto, una repartición de trabajo aleatoria y equitativa al efectuar la distribución de las causas sobre procedimiento concursal que se presenten a la secretaría de esta Corte, de acuerdo al sistema automatizado previamente establecido.
+Derogado
 
 #### Artículo tercero
 
-Distribución excepcional al Primer Juzgado de Letras de La Serena
-
-Atendido lo dispuesto en el inciso quinto del artículo 3º de la ley Nº 20.720, en forma excepcional y por circunstancias derivadas del sistema de distribución de trabajo, en especial reflejado a través de las cargas que vayan generando los ingresos de procedimiento concursales en los tribunales con radicación preferente, el Primer Juzgado de Letras de La Serena, como tribunal competente, estará habilitado para conocer de asuntos concursales en el marco de sus atribuciones, cuando resulte necesario, lo que será resuelto por la Presidencia previa cuenta dada por el secretario, de acuerdo a lo dispuesto en el inciso segundo del artículo 176 del Código Orgánico de Tribunales y, en consecuencia, será designado para el conocimiento de estos asunto, al efectuar las distribución de las causas presentadas ante la secretaría de esta Corte.
-
-Para los efectos precedentemente dispuestos, el secretario llevará un control estadístico, mensual, por tribunal con radicación preferente, de los procedimientos concursales ingresados ante la secretaría de esta Corte y distribuidos a cada uno de ellos para su conocimiento.
+Derogado
 
 #### Artículo cuarto
 
