@@ -30,21 +30,19 @@ b) Que existe una alta demanda por participar en este llamado, se hace necesario
 
 Resolución:
 
-1º Podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu de la Región de La Araucanía, en las siguientes fechas:
+1º Podrán postular a las respectivas selecciones de este llamado los proyectos que cuenten con Certificado de Calificación otorgado por el Serviu de la Región de la Araucanía, en las siguientes fechas:
 
 1º Selección: 26 de junio de 2015
 
 2º Selección: 31 de julio de 2015
 
-3º Selección: 30 de octubre de 2015
+3º Selección: 15 de octubre de 2015
 
 4º Selección: 30 de noviembre de 2015
 
-5º Selección: 29 de diciembre de 2015
+5º Selección: 15 de diciembre de 2015
 
-Las postulaciones ya efectuadas correspondientes a las 1º y 2º fechas señaladas precedentemente, serán reevaluadas de acuerdo a la mayoría de los parámetros técnicos establecidos en la presente resolución.
-
-Aquellas postulaciones que no se ajusten a los estándares técnicos vigentes, se tendrán como no presentadas a postulación para todos los efectos legales, debiendo incorporarse en las fechas posteriores.
+Las postulaciones ya efectuadas correspondientes a las 1º y 2º fechas señaladas precedentemente, serán reevaluadas de acuerdo a la mayoría de los parámetros técnicos establecidos en la presente resolución. Aquellas postulaciones que no se ajusten a los estándares técnicos vigentes, se tendrán como no presentadas a postulación para todos los efectos legales, debiendo incorporarse en las fechas posteriores.
 
 2.- Para las familias que pertenezcan al I, II y III quintiles de vulnerabilidad medido según la ficha de protección social, de requerirse financiamiento adicional, éste será aportado por Serviu Araucanía, para viviendas de hasta 140 m² incrementándose el subsidio en hasta un máximo de 100 UF, además en casos excepcionales el subsidio podrá aumentar en 20 UF adicionales, las cuales podrán ser utilizadas para obras de regularización o bien, para cambio de cubierta solo cuando esta sea de asbesto en casos justificados, previa autorización de Serviu e informe técnico emitido por la Entidad Patrocinante respectiva, esta última opción es válida solo para viviendas que no optan a obras de regularización.
 

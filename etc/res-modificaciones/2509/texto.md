@@ -40,9 +40,13 @@ Resuelvo:
 
 3.- El número de beneficiados con recursos asignados es el que se señala en el cuadro siguiente:
 
-4.- Los recursos asignados en la primera selección según la resolución 793 de fecha 21 de abril de 2015, modificada por la resolución Nº 1.084 del 26 de mayo de 2015, por la cual se llama a postulación en las comunas de Temuco y Padre Las Casas en condiciones especiales, se distribuyen de acuerdo a lo señalado en el siguiente cuadro:
+4.- Los recursos asignados en la primera selección según la resolución Nº 793 de fecha 21 de abril de 2015 modificada por la resolución Nº 1.084 del 26 de mayo de 2015, por la cual se llama a postulación en las comunas de Temuco y Padre Las Casas en condiciones especiales, se distribuyen de acuerdo a lo señalado en el siguiente cuadro:
 
-5.- El balance general respecto a los recursos asignados para el año 2015, según circular Nº 17 del 26 de mayo 2015 y el ord. 785 del 21 de septiembre 2015 ambos emanados del Ministerio de Vivienda y Urbanismo, se detalla en la siguiente tabla:
+.
+
+5.- El balance general respecto a los recursos asignados para el año 2015 según circular Nº 17 del 26 de mayo 2015 y el Ord. 785 del 21 de septiembre 2015 ambos emanados del Ministerio de Vivienda y Urbanismo, se detalla en la siguiente tabla:
+
+.
 
 5.- Apruébense la nómina interna Nº01 de postulantes seleccionados para el otorgamiento de subsidios de mejoramiento térmico correspondientes al llamado en condiciones especiales del Programa de Protección del Patrimonio Familiar Título II establecido en el D.S. Nº 255 (V. y U.) de 2006 y sus modificaciones, la cual se adjunta, entendiéndose parte integrante de la presente resolución.
 
