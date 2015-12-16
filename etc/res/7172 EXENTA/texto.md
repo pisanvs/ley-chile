@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.172, de fecha 7 de diciembre de 2015, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 59, correspondiente al inmueble ubicado en Avda. Independencia 1120, Rol de Avalúo Nº 1647-39, de la Comuna de Independencia, Región Metropolitana, de aparente dominio de Tsang de Tsai Ka Wai, con una superficie aproximada de 162,54 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Independencia", también conocido como "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Fernando Senerman Mandel, Arquitecto; Leonardo Bastías Tessada, Constructor Civil y Loreto Isabel Hernández Ríos, Ingeniero Agrónomo, mediante informe de fecha 20 de noviembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $118.084.540, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
