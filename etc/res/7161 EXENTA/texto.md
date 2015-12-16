@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.161, de fecha 7 de diciembre de 2015, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 39, correspondiente al inmueble ubicado en Avda. Independencia 952, Rol de Avalúo Nº 1147-25, de la Comuna de Independencia, Región Metropolitana, de aparente dominio de Sociedad Comercial Jadue y Cía. L, con una superficie aproximada de 7,18 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Independencia", también conocido como "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Fernando Senerman Mandel, Arquitecto; Leonardo Bastías Tessada, Constructor Civil y Loreto Isabel Hernández Ríos, Ingeniero Agrónomo, mediante Informe de fecha 20 de noviembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $16.069.950, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
