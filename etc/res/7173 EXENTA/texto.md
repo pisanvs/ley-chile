@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.173, de fecha 7 de diciembre de 2015, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 60, correspondiente al inmueble ubicado en Avda. Independencia 1130 - 1156, Rol de Avalúo Nº 1647-40, de la Comuna de Independencia, Región Metropolitana, de aparente dominio de Soc de Invers y Adm de Inmu Ltda, con una superficie aproximada de 276,70 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Independencia", también conocido como "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Fernando Senerman Mandel, Arquitecto; Leonardo Bastías Tessada, Constructor Civil y Loreto Isabel Hernández Ríos, Ingeniero Agrónomo, mediante informe de fecha 20 de noviembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $221.060.420, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
