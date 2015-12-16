@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.266, de fecha 7 de diciembre de 2015, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 77-A, correspondiente al inmueble ubicado en Av. V. Mackenna 5557 y las otras direcciones del Conjunto Residencial Campus Universitario, Rol de Avalúo Nº 4670-1 al -12; 4671-1 al -6; 4672-1 al 16; 4673-1 al 10; 4674-1 al 8; 4675-1 al 16; 4676-1 al 8; 4677-1 al 10; 14; 15 y 16; 4678-1 al 12; 4679-1 al 16, de la Comuna de San Joaquín, Región Metropolitana, de aparente dominio de Guarda Guarda Ella, nombre del primer propietario según SII y los otros propietarios de la Comunidad Campus Universitario, con una superficie aproximada de 417,86 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Corredor de Transporte Público Vicuña Mackenna Norte". La Comisión de Peritos integrada por los señores Mufida Abuawad Elias, Arquitecto; Juan Sohrens Pendola, Arquitecto y Leonardo Bastías Tessada, Constructor Civil, mediante Informe de fecha 7 de agosto de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $183.072.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
