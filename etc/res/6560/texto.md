@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE PARTE DE LOTE DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 6.560 de fecha 04/12/2015, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Habitacional Comité Balmaceda de la comuna de Lautaro. Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 02-0 consistente en Lote número seis, en que se subdividió el inmueble urbano de mayor extensión, ubicado en la ciudad de Lautaro, según plano y memoria explicativa que corre archivado bajo el número cuatrocientos veinte final del Registro de Protocolo Lautaro del año dos mil, tiene una superficie de cero coma seis mil novecientos setenta y seis hectáreas, comuna de Lautaro. Rol de Avalúo Nº 254-50, superficie a expropiar aproximada de 382,77 metros cuadrados, de aparente dominio Sucesión intestada quedada al fallecimiento de don Enrique del Carmen Plaza Arévalo, formada por sus hijos Juan Mario Plaza Coronado, Alicia Eugenia Plaza Coronado, y por su cónyuge Alicia Ester Coronado Beroiza. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Julio Hernán Rosas Vega, Constructor Civil y Arturo Cantos Oyarzun, Arquitecto, fijó monto Indemnización Provisional en $4.018.908 según Informe Nº 02-0/2015 de fecha 03/12/2015, pagadero contado.
+
+Director Serviu Región de la Araucanía.
