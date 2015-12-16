@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE PARTE DE LOTE DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 6.564 de fecha 04/12/2015, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto Ejecución de Obras Comité Wuluf Ruka, Puerto Saavedra, Serviu Región de la Araucanía ordenó expropiación de parte del Lote Nº 02-0 Lote A Seis de uno coma treinta y una hectáreas de superficie, que es parte del lote "a", el que a su vez es parte de un predio de mayor extensión, ubicado en la comuna de Saavedra, Provincia de Cautín, Rol de Avalúo Nº 502-566, superficie a expropiar aproximada de 1.000,88 metros cuadrados, de aparente dominio de la comunidad formada por Anita del Rosario Reyes Bravo, Nubia Ruth Soto Riquelme, Cecilia del Rosario Gatica Vergara, Mónica Elizabeth Artigas Vergara, Bernardita Andrea Garabito Reyes, Eduvije del Carmen Espinoza Mellado, Yuri Rodrigo Díaz Reyes, Leyla Nataly Díaz Reyes, Gloria Eslovina del Carmen Silva Abarzúa, Mirtha Eliana Peña Peña, Miriam del Carmen Soto Riquelme, Luzmira Eliana Reyes Fierro, Mabel del Pilar Curifuta Curifuta. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Julio Hernán Rosas Vega, Constructor Civil y Arturo Cantos Oyarzún, Arquitecto, fijó monto Indemnización Provisional en $2.178.649 según Informe Nº 02-0/2015 de fecha 03/12/2015, pagadero contado.
+
+Director Serviu Región de la Araucanía.
