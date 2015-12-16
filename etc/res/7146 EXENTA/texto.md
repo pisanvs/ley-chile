@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN TOTAL O PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7.146, de fecha 7 de diciembre de 2015, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 20, correspondiente al inmueble ubicado en Av Independencia 740 P. 1 DP 101 y los otros deptos. del Condominio Las Flores de Independencia, Rol de Avalúo Nº 747-33 al 268, de la Comuna de Independencia, Región Metropolitana, de aparente dominio de Bustos Pacheco Luis Osvaldo y los otros propietarios de los deptos. del Condominio Las Flores de Independencia, con una superficie aproximada de 29,55 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Independencia", también conocido como "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Carmen Gloria Gatica Villarroel, Arquitecto; Dionisio Rodríguez Astudillo, Constructor Civil y Juan Andrés Tepper Lavanderos, Ingeniero Civil, mediante Informe de fecha 20 de noviembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $53.266.388, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
