@@ -32,33 +32,39 @@ Definiciones generales:
 
 1.2 Arrendatario: Titular del beneficio que suscribe el contrato de arrendamiento.
 
-1.3 Infraestructura sanitaria: Edificación compuesta por baño, cocina y/o lavadero, que cuenta con servicios de agua potable y sistema de evacuación de aguas servidas.
+1.3 Beneficiado o beneficiario: Es el postulante que resultó seleccionado para la asignación del subsidio de arriendo.
 
-1.4 Copago de renta: Es la parte de la renta de arrendamiento que corresponde pagar al titular del beneficio.
+1.4 Contrato activo: Es aquel contrato de arrendamiento celebrado en conformidad al presente reglamento, que ha sido aprobado por el Servicio de Vivienda y Urbanización respectivo y en virtud del cual se ha realizado el primer copago por el beneficiario.
 
-1.5 Familia monoparental: Es aquélla integrada por una madre o un padre soltero, divorciado o viudo que tenga a su cargo hijos menores de 18 años, aun cuando cumplan 18 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará a la familia como monoparental si en el Instrumento de Caracterización Socioeconómica, se identifica al postulante con cónyuge o conviviente.
+1.5 Copago de renta: Es la parte de la renta de arrendamiento que corresponde pagar al titular del beneficio.
 
-1.6 Instrumento de Caracterización Socioeconómica: La Ficha de Protección Social o el instrumento que la reemplace.
+1.6 Familia monoparental: Es aquélla integrada por una madre o un padre soltero, divorciado o viudo que tenga a su cargo hijos menores de 18 años, aun cuando cumplan 18 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará a la familia como monoparental si en el Instrumento de Caracterización Socioeconómica, se identifica al postulante con cónyuge o conviviente.
 
-1.7 Minvu: Ministerio de Vivienda y Urbanismo.
+1.7 Infraestructura sanitaria: Edificación compuesta por baño, cocina y/o lavadero, que cuenta con servicios de agua potable y sistema de evacuación de aguas servidas.
 
-1.8 Núcleo Familiar o Núcleo: Conjunto de personas declaradas por el postulante, que se encuentran incluidas en un mismo Instrumento de Caracterización Socioeconómica.
+1.8 Instrumento de Caracterización Socioeconómica: La Ficha de Protección Social o el instrumento que la reemplace.
 
-1.9 Núcleo Familiar beneficiado o Núcleo beneficiado: Todos los integrantes del Núcleo que resultó seleccionado para la asignación del subsidio de arriendo, incluido el postulante o titular del beneficio.
+1.9 Minvu: Ministerio de Vivienda y Urbanismo.
 
-1.10 Persona con discapacidad: Persona afectada por una discapacidad según lo definido en el artículo 5º de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
+1.10 Núcleo Familiar o Núcleo: Conjunto de personas declaradas por el postulante, que se encuentran incluidas en un mismo Instrumento de Caracterización Socioeconómica.
 
-1.11 Postulación: Aquélla que se realiza personalmente por el interesado o por mandato que conste por escrito y cuya firma se encuentre autorizada ante notario, en los formularios de postulación que el Serviu disponga al efecto, ya sea en forma digital o presencial.
+1.11 Núcleo Familiar beneficiado o Núcleo beneficiado: Todos los integrantes del Núcleo que resultó seleccionado para la asignación del subsidio de arriendo, incluido el postulante o titular del beneficio.
 
-1.12 Postulante hábil: Aquél que cumple con los requisitos y condiciones exigidos por este Reglamento para participar en el proceso de selección del llamado correspondiente en el que formalizó su postulación.
+1.12 Persona con discapacidad: Persona afectada por una discapacidad según lo definido en el artículo 5º de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
-1.13 Seremi: Secretaría Regional Ministerial de Vivienda y Urbanismo o Secretario Regional Ministerial de Vivienda y Urbanismo, según corresponda.
+1.13 Postulación: Aquélla que se realiza personalmente por el interesado o por mandato que conste por escrito y cuya firma se encuentre autorizada ante notario, en los formularios de postulación que el Serviu disponga al efecto, ya sea en forma digital o presencial.
 
-1.14 Serviu: Servicio de Vivienda y Urbanización.
+1.14 Postulante hábil: Aquél que cumple con los requisitos y condiciones exigidos por este Reglamento para participar en el proceso de selección del llamado correspondiente en el que formalizó su postulación.
 
-1.15 Titular del beneficio: Postulante seleccionado para la asignación del subsidio de arriendo.
+1.15 Seremi: Secretaría Regional Ministerial de Vivienda y Urbanismo o Secretario Regional Ministerial de Vivienda y Urbanismo, según corresponda.
 
-1.16 U.F.: Unidad de Fomento o Unidades de Fomento.
+1.16 Serviu: Servicio de Vivienda y Urbanización.
+
+1.17 Titular del beneficio: Postulante seleccionado para la asignación del subsidio de arriendo.
+
+1.18 U.F.: Unidad de Fomento o Unidades de Fomento.
+
+> **Nota.** El Art. primero N° 1 del Decreto 32, Vivienda, publicado el 16.12.2015, modifica el presente artículo en el sentido de reemplazar, en su N° 1.2, el N° 1.3 por 1.7 y disponer, en su N° 1.3, que los actuales numerales "1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 y 1.16 pasen a ser 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17 y 1.18.". En ambas normas se numera un N° 1.7, lo que ocasiona que la enumeración que se trata de aplicar tenga un numeral sobrante. En esta actualización no se ha considerado el "1.7" contenido en el N° 1.3, de modo que la cantidad de numerales antes y después de la modificación pueda ser coincidente.
 
 CAPÍTULO II. EL SUBSIDIO
 
@@ -66,7 +72,9 @@ CAPÍTULO II. EL SUBSIDIO
 
 #### Artículo 2º
 
-Del Subsidio de arriendo: El programa del subsidio de arriendo regulado por el presente Reglamento está destinado a dar una solución habitacional transitoria, a familias jóvenes pertenecientes hasta el tercer quintil de vulnerabilidad, pero capaces de realizar desembolsos mensuales destinados a pagar una renta de arrendamiento.
+Del subsidio de arriendo: El programa del subsidio de arriendo regulado por el presente reglamento está destinado a dar una solución habitacional transitoria, a familias pertenecientes hasta el tercer quintil de vulnerabilidad o su equivalente de acuerdo al Instrumento de Caracterización Socioeconómica vigente, pero capaces de realizar desembolsos mensuales destinados a pagar una renta de arrendamiento.
+
+Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo, podrán impartirse instrucciones a los Servicios de Vivienda y Urbanización, en adelante también Serviu, para la aplicación y/o aclaración de las disposiciones del presente reglamento.
 
 #### Artículo 3º
 
@@ -78,7 +86,17 @@ De la delimitación del subsidio: El subsidio de arriendo consistirá en un apor
 
 #### Artículo 5º
 
-Del monto del subsidio y su permanencia: El subsidio cubrirá, como máximo, 60 meses de renta. Su monto será de hasta 3 U.F. durante los primeros 36 meses, y de hasta 2,5 U.F. durante los 24 meses siguientes. No obstante lo anterior, el valor del subsidio se ajustará de manera que no supere el 80% de la renta acordada.
+Del monto del subsidio y su permanencia: El subsidio consistiráen un monto único y total de hasta 170 U.F., su monto mensual a pagar, por concepto de renta de arrendamiento, se irá descontando de acuerdo a la escala que para estos efectos se establecerá por resolución del Ministro de Vivienda y Urbanismo, según la localización geográfica de la comuna de la vivienda arrendada. Los elementos para determinar el monto mensual del subsidio serán los siguientes:
+
+a. Catástrofe u otra condición similar que haya afectado la comuna o región, disminuyendo la oferta y/o aumentando la demanda.
+
+b. Localización en zonas extremas del país o de una región.
+
+c. Estudios de mercado de oferta y demanda que permitan definir áreas de mayor o menor valor, realizados por el Minvu, y
+
+d. Información de los contratos activos correspondientes al programa regulado por el presente reglamento.
+
+El monto establecido por dicha resolución no podrá superar las 6 U.F. No obstante lo anterior, en caso que corresponda, el valor del subsidio mensual se ajustará de manera que no supere el 80% de la renta acordada.
 
 #### Artículo 6º
 
@@ -88,17 +106,17 @@ Del ahorro mínimo de postulación: El ahorro mínimo exigido para la postulaci�
 
 De la resolución que establece condiciones de postulación y aplicación del subsidio de arriendo: Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por la Dirección de Presupuestos del Ministerio de Hacienda, se determinará:
 
-a. El límite mínimo y máximo de los ingresos que deberá tener el Núcleo Familiar;
+a. El límite mínimo y máximo de los ingresos que deberá tener el Núcleo Familiar o el postulante, en su caso;
 
-b. El puntaje del Instrumento de Caracterización Socioeconómica requerido para postular; y
+b. El puntaje requerido para postular, de acuerdo a la información de vulnerabilidad establecida en el Instrumento de Caracterización Socioeconómica; y
 
 c. La fórmula para determinar el puntaje de vulnerabilidad social.
 
 #### Artículo 8º
 
-Del contrato: Para la aplicación del subsidio las partes, esto es el arrendador y el titular del beneficio, deberán suscribir en forma previa un contrato de arrendamiento, cuyo formato será proporcionado por el Minvu o, en el caso de tener un contrato de arrendamiento vigente, adecuarlo al texto antes aludido.
+Del contrato: Para la aplicación del subsidio las partes, esto es el arrendador y el titular del beneficio, deberán suscribir en forma previa un contrato de arrendamiento, cuyo formato será proporcionado por el Serviu o, en el caso de tener un contrato de arrendamiento vigente, adecuarlo al texto antes aludido.
 
-El contrato de arrendamiento deberá fijar una renta cuyo monto no podrá ser superior al establecido en la resolución a que se refiere el artículo 15 de este Reglamento. En todo caso, el monto determinado por dicha resolución no podrá ser superior a 11 U.F. mensual.
+El contrato de arrendamiento deberá fijar una renta cuyo monto no podrá ser superior al establecido en la resolución a que se refiere el artículo 15 de este Reglamento. En todo caso, el monto determinado por dicha resolución no podrá ser superior a 13 U.F. mensual.
 
 #### Artículo 9º
 
@@ -110,15 +128,15 @@ De los demás programas habitacionales: El subsidio que regula el presente Regla
 
 De la vivienda objeto del programa: El subsidio de arriendo sólo podrá ser aplicado en contratos que recaigan sobre viviendas que cumplan con las siguientes condiciones, las que deberán ser verificadas por el Serviu:
 
-a. Estar registradas en el catastro de Bienes Raíces del Servicio de Impuestos Internos, cuyo destino principal sea habitacional, lo que será revisado en línea mediante el sistema informático que provea el Minvu.
+a. Contar con un número de Rol de Avalúo otorgado por el Servicio de Impuestos Internos, y su destino principal debe ser habitacional, lo que será revisado en línea mediante el sistema informático que provea el Minvu. En caso que, conforme al Rol de Avalúo del Servicio de Impuestos Internos, el terreno en que se encuentra emplazada la vivienda tenga un destino distinto al habitacional, se verificará dicha condición con el Certificado de Recepción Municipal.
 
-b. Contar con recepción municipal, lo que deberá ser corroborado directamente por el Serviu ante la Dirección de Obras Municipales o por medio del certificado correspondiente emitido por ésta, o por la escritura pública a través de la cual el arrendador adquirió el inmueble cuando en ésta conste su recepción, o por certificación extendida por el mismo servicio en caso de viviendas construidas por los Serviu o sus antecesores legales, entre otros documentos de la misma naturaleza.
+b. Contar con recepción municipal, lo que deberá ser acreditado por medio del certificado correspondiente emitido por la Dirección de Obras Municipales, o por la escritura pública a través de la cual el arrendador adquirió el inmueble cuando en esta conste su recepción. En caso de viviendas construidas por los Serviu o sus antecesores legales, bastará la certificación extendida por el mismo servicio.
 
 c. Contar como mínimo con 3 recintos, esto es, zona estar-comedor-cocina, baño y dormitorio, lo que se comprobará por el Serviu en la visita que se indica en el artículo 34 de este Reglamento.
 
-d. Contar con el número suficiente de dormitorios de manera de evitar hacinamiento. Para ello, se verificará que el cuociente entre el número de personas que componen el Núcleo Familiar beneficiado y la cantidad de dormitorios de la vivienda no sea superior a 3.
+d. Contar con el número suficiente de dormitorios de manera de evitar hacinamiento. Para ello, en los casos en que se trate de Núcleo Familiar beneficiado, se verificará que el cuociente entre el número de personas que componen el Núcleo Familiar beneficiado y la cantidad de dormitorios de la vivienda no sea superior a 3.
 
-e. No ser aquélla que habitaba, en calidad de allegado, el Núcleo Familiar beneficiado por el presente subsidio. La condición de allegado y domicilio al momento de postular se verificará con el Instrumento de Caracterización Socioeconómica.
+e. No ser aquella que habitaba, en calidad de allegado, el Núcleo Familiar beneficiado o el beneficiario en su caso, por el presente subsidio. La condición de allegado y el domicilio al momento de postular se verificará con el Instrumento de Caracterización Socioeconómica.
 
 f. No estar ubicadas en determinadas áreas geográficas o conjuntos habitacionales donde se encuentre suspendida transitoria o indefinidamente la aplicación de subsidio, las que serán fijadas por resoluciones fundadas del Ministro de Vivienda y Urbanismo o del Seremi correspondiente, previa autorización otorgada por el Ministro.
 
@@ -130,7 +148,7 @@ g. No estar afectas a prohibición de arrendar constituida a favor del Serviu y 
 
 De los llamados a postulación: Los llamados a postulación serán nacionales, se efectuarán mediante resoluciones del Ministro de Vivienda y Urbanismo, y estarán dirigidos a dar atención a todas las regiones del país.
 
-Las resoluciones que dispongan los llamados, deberán ser publicadas en el Diario Oficial a más dar 10 días hábiles antes del inicio del período de postulación, y serán informados a través de los medios de difusión que el Minvu disponga para estos efectos.
+Las resoluciones que dispongan los llamados, deberán ser publicadas en el Diario Oficial y serán informados a través de los medios de difusión que el Minvu disponga para estos efectos.
 
 #### Artículo 12
 
@@ -156,25 +174,23 @@ c. La fecha de inicio y término del periodo de postulación; y
 
 d. El monto máximo de la renta de arrendamiento que se podrá acordar entre el arrendador y el arrendatario para los efectos de la determinación de la procedencia del subsidio.
 
-Sin perjuicio de lo señalado en este artículo, las resoluciones que dispongan los llamados podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este programa.
-
 ### Párrafo 4º — De la postulación
 
 #### Artículo 16
 
 Requisitos y antecedentes para postular: Para postular a este subsidio, los interesados deberán cumplir con los siguientes requisitos:
 
-a. Ser mayor de 18 años al momento de postular y no tener más de 30 años en el año calendario del llamado respectivo. Lo anterior se acreditará presentando Cédula Nacional de Identidad vigente y su fotocopia. En el caso de postulación a través de los sistemas informáticos que al efecto disponga el Minvu, se revisará dicha condición en línea con el Servicio de Registro Civil e Identificación.
+a. Ser mayor de 18 años al momento de postular. Lo anterior se acreditará presentando Cédula de Identidad vigente. En el caso de postulación a través de los sistemas informáticos que al efecto disponga el Minvu, se revisará dicha condición en línea con el Servicio de Registro Civil e Identificación.
 
-b. Si el postulante es de nacionalidad extranjera deberá tener permanencia definitiva de al menos 5 años en el país, lo que se acreditará presentando Cédula de Identidad para Extranjeros, su fotocopia y la del Certificado de Permanencia Definitiva, en que conste una antigüedad mínima de 5 años desde su otorgamiento hasta el momento de la postulación, conforme a las normas que regulan la residencia legal de los extranjeros en el país.
+b. Si el postulante es de nacionalidad extranjera, deberá presentar la Cédula de Identidad para Extranjeros vigente. En el caso de postulación a través de los sistemas informáticos que al efecto disponga el Minvu, esta vigencia se verificará en línea con el Servicio de Registro Civil e Identificación.
 
 c. Contar, el postulante o su cónyuge, con el ahorro mínimo en alguno de los instrumentos señalados en este Reglamento. El ahorro mínimo se acreditará de la forma establecida en el artículo 18 de este Reglamento.
 
-d. Contar con Instrumento de Caracterización Socioeconómica vigente, cuyo puntaje será consultado al momento de la postulación a través de los sistemas informáticos dispuestos para ello, el que no podrá ser superior al que se determine mediante la resolución a que se refiere el artículo 7º de este Reglamento.
+d. Contar con Instrumento de Caracterización Socioeconómica vigente, cuya información de vulnerabilidad será consultada al momento de la postulación a través de los sistemas informáticos dispuestos para ello, información que deberá cumplir con las condiciones establecidas por la Resolución a que se refiere el artículo 7º de este Reglamento.
 
-e. Contar con un Núcleo Familiar que contemple al menos al cónyuge, conviviente o hijo del postulante. Para ello se deberá presentar Declaración de Núcleo, en formulario que el Serviu respectivo proveerá para estos efectos, el que se firmará en forma presencial o por medio del sistema informático que provea el Minvu. Todas las personas que sean invocadas por el postulante como miembros de su Núcleo Familiar deberán formar parte del mismo Instrumento de Caracterización Socioeconómica. Las personas mayores de 18 años incluidas como integrantes del Núcleo Familiar, deberán aprobar la declaración con su firma, adjuntando fotocopia de su respectiva Cédula Nacional de Identidad o de forma digital, cumpliendo con las exigencias del sistema informático que provea el Minvu. Esta aprobación incluirá la autorización a que se refiere la letra g. de este artículo.
+e. Contar con un Núcleo Familiar que contemple al menos al cónyuge, conviviente o hijo del postulante. Para ello se deberá presentar Declaración de Núcleo, en formulario que el Serviu respectivo proveerá para estos efectos, el que se firmará en forma presencial o por medio del sistema informático que provea el Minvu. Todas las personas que sean invocadas por el postulante como miembros de su Núcleo Familiar deberán formar parte del mismo Instrumento de Caracterización Socioeconómica. Las personas mayores de 18 años incluidas como integrantes del Núcleo Familiar, deberán aprobar la declaración con su firma, adjuntando fotocopia de su respectiva Cédula de Identidad o de forma digital, cumpliendo con las exigencias del sistema informático que provea el Minvu. Esta aprobación incluirá la autorización a que se refiere la letra g. de este artículo.
 
-f. Contar el Núcleo Familiar con ingresos cuyo monto total cumpla con las exigencias establecidas en la resolución a que se refiere el artículo 7º de este Reglamento. Para esto, el postulante deberá declarar el monto total de ingresos del Núcleo Familiar incorporado a su Declaración de Núcleo, la cual será verificada consultando al Servicio de Impuestos Internos u otras entidades. De manera alternativa, el ingreso mínimo se podrá acreditar a través de liquidaciones de sueldo, boletas de honorarios, certificados de cotizaciones de Administradoras de Fondos de Pensiones u otros documentos similares.
+f. Contar el Núcleo Familiar con ingresos cuyo monto total cumpla con las exigencias establecidas en la resolución a que se refiere el artículo 7º de este Reglamento. Para esto, el postulante deberá declarar el monto total de sus ingresos y los del Núcleo Familiar incorporado a su respectiva Declaración, lo cual será verificado consultando al Servicio de impuestos Internos u otras entidades. Mediante circulares del Subsecretario de Vivienda y Urbanismo se establecerán los documentos con que se podrán acreditar los ingresos, en caso que no sea posible justificarlos de la forma antes señalada. De manera alternativa, el ingreso mínimo se podrá acreditar a través de liquidaciones de sueldo, boletas de honorarios, certificados de cotizaciones de Administradoras de Fondos de Pensiones u otros documentos similares.
 
 g. Otorgar autorización expresa para consultar al Servicio de Impuestos Internos o a otras entidades, acerca de sus ingresos y los de los integrantes del Núcleo Familiar declarado, para los fines específicos del programa al que se refiere este Reglamento. Asimismo, podrá otorgar autorización expresa para consultar el estado de la cuenta de ahorro en momentos posteriores a la postulación, con el objeto de contar con información que permita orientar a las familias respecto a su postulación a programas para la adquisición o construcción de viviendas.
 
@@ -202,11 +218,11 @@ a. En caso que la entidad captadora de ahorro tenga convenio de traspaso electr�
 
 b. En caso que la entidad captadora no tenga convenio de traspaso electrónico con el Minvu, el ahorro se acreditará mediante certificación emitida por dicha entidad en que conste el número, el tipo de libreta o cuenta y el saldo final.
 
-La certificación que acredite el ahorro mínimo, expresado en U.F., deberá ser extendida con la información referida al último día hábil del mes anterior al de la postulación, en formato proporcionado por el Minvu.
+La certificación que acredite el ahorro mínimo, expresado en U.F., deberá ser extendida en formato proporcionado por el Serviu y su antigüedad no excederá de 30 días contados hacia atrás desde la fecha de su postulación.
 
 #### Artículo 19
 
-De la información del ahorro: La entidad captadora informará al Serviu, por los medios electrónicos o a través de certificados, que el titular de la cuenta no ha efectuado giros ni que se le han realizado cargos, desde el último día hábil del mes anterior al del inicio del período de postulación y hasta la fecha de emisión del certificado de ahorro o de la entrega al Minvu de la información correspondiente. En caso de no contar o no entregarse esta acreditación no se considerará hábil para postular.
+De la información del ahorro: La entidad captadora informará al Serviu, por los medios electrónicos o a través de certificados, que el titular de la cuenta no ha efectuado giros ni que se le han realizado cargos, desde el último día hábil del mes anterior al del inicio del período de postulación y hasta la fecha de emisión del certificado de ahorro o de la entrega al Serviu de la información correspondiente. En caso de no contar o no entregarse esta acreditación no se considerará hábil para postular.
 
 #### Artículo 20
 
@@ -222,17 +238,21 @@ Impedimentos para postular: No podrán postular a este subsidio las personas que
 
 a. Las personas consideradas en un Instrumento de Caracterización Socioeconómica que ya contemple un Núcleo Familiar postulando a dicho llamado.
 
-b. Las que a la fecha de postular sean propietarias o asignatarias de una vivienda o de una infraestructura sanitaria o cuando lo fuere su cónyuge o conviviente, o alguno de los otros miembros de su Núcleo Familiar declarado, aun cuando la asignación provenga de una cooperativa. La no concurrencia de este impedimento se acreditará mediante una declaración jurada simple del postulante, sin perjuicio de lo cual el Minvu podrá consultar directamente al Servicio de Impuestos Internos u otras entidades, la existencia de un bien raíz habitacional a nombre del postulante o de algún otro miembro del Núcleo Familiar declarado.
+b. Las que a la fecha de postular sean propietarias o asignatarias de una vivienda o de una infraestructura sanitaria o cuando lo fuere su cónyuge o conviviente, o alguno de los otros miembros de su Núcleo Familiar declarado, aun cuando la asignación provenga de una cooperativa. La no concurrencia de este impedimento se acreditará mediante una declaración jurada simple del postulante, sin perjuicio de lo cual el Serviu podrá consultar directamente al Servicio de Impuestos Internos u otras entidades, la existencia de un bien raíz habitacional a nombre del postulante o, cuando corresponda, de algún otro miembro del Núcleo Familiar declarado.
 
 c. Las que tengan derechos en comunidad sobre una vivienda, o si los tiene su cónyuge o conviviente u otro miembro del Núcleo Familiar declarado, salvo que acredite haber cedido dichos derechos, mediante la correspondiente escritura pública inscrita.
 
 d. Las que hubieren obtenido del Serviu, de sus antecesores legales o de las Municipalidades o a través de los mecanismos del Impuesto Habitacional, una vivienda o una infraestructura sanitaria, un subsidio habitacional o una subvención municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del Serviu o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda, y lo hubieren aplicado a la adquisición o construcción de una vivienda o infraestructura sanitaria, o lo hubiere obtenido y aplicado su cónyuge o conviviente, o alguno de los otros miembros de su Núcleo Familiar declarado aunque la hubieren transferido posteriormente.
 
-e. Los titulares del beneficio del presente programa, su cónyuge o conviviente. En el caso de otros integrantes de un Núcleo Familiar beneficiado por el subsidio de arriendo, que tenían 18 años o más al momento de la postulación, no podrán postular durante tres años, contados desde la fecha en que el Núcleo Familiar egresó del programa.
+e. Los titulares del beneficio del presente programa o su cónyuge. En el caso del conviviente y de otros integrantes de un Núcleo Familiar beneficiado por el subsidio de arriendo, que tenían 18 años o más al momento de la postulación, no podrán postular durante tres años, contados desde la fecha en que el Núcleo Familiar egresó del programa.
 
 f. Las que tengan algún certificado de subsidio habitacional vigente a la fecha de la postulación a este programa, o lo tenga su cónyuge o conviviente, o algún miembro del Núcleo Familiar declarado.
 
 g. Las que estuvieren postulando a cualquier otro programa habitacional de las instituciones del Sector Vivienda o respecto de los cuales se hubiere efectuado reserva del subsidio de conformidad con el Título IV del DS Nº 120 (V. y U.), de 1995, o si lo estuviere su cónyuge o conviviente, o algún otro miembro del Núcleo Familiar declarado.
+
+h. Las que hayan sido incorporadas en otro núcleo que haya resultado beneficiado en un proceso de selección anterior o mediante asignación directa, hasta por tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados, salvo que el respectivo titular hubiere renunciado al subsidio antes del comienzo de su aplicación. Respecto de aquellos que hayan sido invocados en una declaración de núcleo siendo menores de edad, la presente limitación aplicará sólo hasta que cumplan su mayoría de edad. Para estos efectos, los integrantes del núcleo que hayan sido declarados serán registrados en los sistemas informáticos que al efecto disponga el Minvu.
+
+i. Las que no cuenten con un Núcleo Familiar. Se exceptúan los adultos mayores de 60 años de edad, considerando para estos efectos a las personas que cumplan esa edad durante el año calendario del ingreso de los antecedentes para la postulación.
 
 #### Artículo 22
 
@@ -262,6 +282,10 @@ b. Para el titular del beneficio cuando éste haya egresado del programa teniend
 
 Respecto a lo dispuesto en el artículo 21, letra f. no regirá dicho impedimento en caso de divorcio. Para acreditar el divorcio se deberá presentar al Serviu certificado de matrimonio en que conste la inscripción de la sentencia de divorcio. En el caso señalado, los integrantes del Núcleo Familiar podrán ser incluidos en el nuevo Núcleo Familiar del beneficiario que haya egresado del programa, debiendo modificarse la composición del actual Núcleo Familiar que, en todo caso, deberá cumplir con lo indicado en el artículo 16 letra e.
 
+Asimismo, tampoco se aplicará el impedimento establecido en el artículo 21 letra f. respecto de los adultos mayores que no cuenten con Núcleo Familiar, quienes podrán realizar su postulación a partir de los últimos 6 meses de vigencia de su subsidio.
+
+No regirá lo dispuesto en el artículo 21 letra g., respecto al impedimento de encontrarse postulando a cualquier otro programa habitacional, en el caso de los que se encuentren postulando al Programa del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011.
+
 #### Artículo 23
 
 Modalidad de postulación: La postulación al programa será solamente individual, pudiendo efectuarse de manera presencial o a través del sistema informático, conforme a la plataforma que habilite el Minvu.
@@ -276,7 +300,7 @@ Postulantes hábiles: Serán postulantes hábiles, los que cumplan con los requi
 
 Factores de puntaje: El puntaje que determinará la prelación de los postulantes, se calculará sumando aquellos obtenidos por éste, por cada uno de los factores que se señalan a continuación:
 
-a. 40 puntos por cada uno de los integrantes del Núcleo Familiar que forme parte de la Declaración de Núcleo, incluido el conviviente, de ser el caso, con excepción del postulante, quien en ningún caso obtendrá puntaje por este concepto.
+a. 40 puntos por cada uno de los integrantes del Núcleo Familiar señalado en la Declaración de Núcleo, incluido el conviviente, de ser el caso, exceptuando al postulante. En el caso del postulante adulto mayor que haya postulado sin Núcleo Familiar, obtendrá solo 40 puntos.
 
 b. 35 puntos si el postulante es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 18 años, incluidos los que los cumplan en el año calendario del llamado, que vivan con él y a sus expensas. No se otorgará este puntaje en caso que en el Instrumento de Caracterización Socioeconómica se identifique al postulante con cónyuge o conviviente.
 
@@ -284,13 +308,13 @@ c. 30 puntos por cada menor de hasta 5 años incluido en la Declaración de Núc
 
 d. 20 puntos por cada menor entre 6 y hasta 18 años de edad, integrantes del Núcleo Familiar identificado en la Declaración de Núcleo, sin considerar al postulante, incluidos los que cumplan 6 y 18 años durante el año calendario del llamado a postulación.
 
-e. 30 puntos por cada miembro integrante del Núcleo Familiar declarado que tenga 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado a postulación.
+e. 30 puntos por cada miembro integrante del Núcleo Familiar declarado que tenga 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado a postulación. En caso que el postulante cumpla esta condición y haya postulado sin Núcleo Familiar en conformidad a este reglamento, obtendrá 60 puntos por este concepto.
 
 f. 30 puntos por cada miembro del Núcleo Familiar declarado, incluido el postulante, que estuviere inscrito en el Registro Nacional de la Discapacidad a que se refiere el Título V de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad. La condición de discapacidad será revisada en línea con el Servicio de Registro Civil e Identificación y en su defecto podrá ser acreditada con la respectiva inscripción en el Registro Nacional de la Discapacidad.
 
 g. 100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por D.S. Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
 
-h. 20 puntos por cada integrante del Núcleo Familiar que acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, o que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
+h. 20 puntos por cada integrante del Núcleo Familiar, incluido el postulante, que a partir del año 2004 acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente.
 
 i. 20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación regulados por el presente Reglamento. Este puntaje se otorgará por cada llamado a postulación en que hubiere participado, hasta un máximo de tres, no pudiendo obtener más de 60 puntos por este concepto.
 
@@ -306,17 +330,17 @@ Donde:
 
 VHac: valor asociado al índice de hacinamiento, el cual se obtiene según la siguiente clasificación:
 
-Índice de Hacinamiento: Corresponde al cuociente entre el número personas y el número de dormitorios, calculado en base a los antecedentes consignados en el Instrumento de Caracterización Socioeconómica, de la cual forma parte el Núcleo Familiar del postulante.
+Índice de Hacinamiento: Corresponde al cuociente entre el número personas y el número de dormitorios, calculado en base a los antecedentes consignados en el Instrumento de Caracterización Socioeconómica, de la cual forma parte el postulante y su Núcleo Familiar, si correspondiere.
 
-Tipo: Corresponde a la variable Tipo de Vivienda del Instrumento de Caracterización Socioeconómica, de la cual forma parte el Núcleo Familiar del postulante, según la siguiente clasificación:
-
-.
-
-Agua: Corresponde a la variable disponibilidad de agua del Instrumento de Caracterización Socioeconómica del cual forma parte el Núcleo Familiar del postulante, según la siguiente clasificación:
+Tipo: Corresponde a la variable Tipo de Vivienda del Instrumento de Caracterización Socioeconómica, de la cual forma parte el postulante y su Núcleo Familiar, si correspondiere, según la siguiente clasificación:
 
 .
 
-Excretas: Corresponde a la variable sistema de eliminación de excretas del Instrumento de Caracterización Socioeconómica de la cual forma parte el Núcleo Familiar del postulante, según la siguiente clasificación:
+Agua: Corresponde a la variable disponibilidad de agua del Instrumento de Caracterización Socioeconómica del cual forma parte el postulante y su Núcleo Familiar, si correspondiere, según la siguiente clasificación:
+
+.
+
+Excretas: Corresponde a la variable sistema de eliminación de excretas del Instrumento de Caracterización Socioeconómica de la cual forma parte el postulante y su Núcleo Familiar, si correspondiere, según la siguiente clasificación:
 
 .
 
@@ -332,13 +356,13 @@ Aprobación de nómina de selección: Tratándose de llamados nacionales, las n�
 
 #### Artículo 28
 
-Publicación de la nómina de seleccionados: Se publicará en a lo menos un periódico de circulación nacional y en el sitio web del Minvu, o del Serviu y/o de la Seremi respectiva, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados, las que deberán contener como mínimo, el nombre, la cédula nacional de identidad del postulante y el puntaje obtenido.
+Publicación de la nómina de seleccionados: Se publicará en a lo menos un periódico de circulación nacional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados, las que deberán contener como mínimo, el nombre, la cédula nacional de identidad del postulante y el puntaje obtenido. Asimismo, las nóminas serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi respectiva.
 
 ### Párrafo 6º — De las apelaciones y sustituciones
 
 #### Artículo 29
 
-De las apelaciones: Una vez efectuada la publicación del aviso señalado en el artículo 28 del presente Reglamento, los postulantes al respectivo llamado que se sientan perjudicados tendrán un plazo de 10 días corridos, contados desde la fecha de la publicación de las nóminas a que se refiere el citado aviso, para presentar por escrito ante el Serviu las observaciones y reclamos que les mereciere la selección.
+De las apelaciones: Una vez finalizado el último proceso de selección del llamado respectivo y efectuada la publicación del aviso señalado en el artículo 28 del presente reglamento, los postulantes que se sientan perjudicados tendrán un plazo de 10 días corridos, contados desde la fecha de la publicación del citado aviso, para presentar por escrito ante el Serviu las observaciones y reclamos que les mereciere la selección.
 
 #### Artículo 30
 
@@ -366,11 +390,11 @@ Extinción: El beneficio se extinguirá y no se podrá continuar aplicando el su
 
 a. Cuando se hayan aplicado la totalidad de los aportes por concepto de subsidio.
 
-b. Si transcurrieren 7 años, contados desde la fecha de la recepción en Serviu del primer contrato de arrendamiento.
+b. Si transcurrieren 8 años, contados desde la fecha de publicación de la nómina de seleccionados.
 
-c. Si habiendo transcurrido 12 meses desde la fecha de publicación de la nómina de seleccionados, no se ha validado en el Serviu el primer contrato de arrendamiento asociado al subsidio y no se ha otorgado prórroga o nuevo plazo de vigencia del certificado de subsidio, según establece el artículo 33.
+c. Si han transcurrido 24 meses desde la fecha de publicación de la nómina de seleccionados y no se ha dado curso al primer pago del subsidio.
 
-d. Si habiendo transcurrido 12 meses desde la fecha en que el beneficiario dio aviso al Serviu del término de un contrato de arrendamiento, no se ha validado en el Serviu un nuevo contrato y no se ha otorgado prórroga o nuevo plazo de vigencia del certificado de subsidio, según establece el artículo 33.
+d. Si han transcurrido 12 meses desde la fecha en que el beneficiario dio aviso al Serviu del término de un contrato de arrendamiento, sin que se haya reiniciado el pago del subsidio ni otorgado prórroga de su vigencia, según lo establece el artículo 33.
 
 e. Si el arrendador ha invocado alguna de las causales de término inmediato del contrato de arrendamiento, según lo dispuesto en la letra c. del artículo 39, cuya causal de término deberá ser corroborada por el Serviu respectivo.
 
@@ -380,19 +404,21 @@ g. Si el titular renuncia al beneficio. Para ello, deberá dar término al contr
 
 #### Artículo 33
 
-Prórrogas o nuevo plazo de vigencia del certificado de subsidio: El Director del Serviu mediante resoluciones fundadas, podrá otorgar prórroga o un nuevo plazo de vigencia al subsidio de arriendo en algunos de los siguientes casos y siempre que no se exceda el plazo al que se refiere la letra b. del artículo precedente:
+Prórroga de vigencia del subsidio: El Director del Serviu, mediante resoluciones fundadas, podrá otorgar prórroga de vigencia del subsidio de arriendo, siempre que no exceda el plazo a que se refiere la letra b. del artículo precedente, en alguno de los siguientes casos:
 
-a. Si habiendo transcurrido 12 meses desde la fecha de publicación de la nómina de beneficiados, no se ha validado en el Serviu el primer contrato de arrendamiento asociado al subsidio.
+a. Si han transcurrido 12 meses contados desde la fecha en que el beneficiario dio aviso del término de un contrato de arrendamiento y no ha presentado al Serviu uno nuevo para su aprobación. Esta solicitud deberá realizarse dentro de los 30 días anteriores al vencimiento del plazo antes señalado.
 
-b. Si habiendo transcurrido 12 meses desde la fecha en que el beneficiario dio aviso de la finalización de un contrato de arrendamiento, el titular del beneficio no ha validado en el Serviu un nuevo contrato de arrendamiento.
+b. Si se encuentra en trámite la designación de un sustituto por fallecimiento del titular del beneficio.
 
-c. Si se encuentra en trámite la designación de un sustituto por fallecimiento del titular del beneficio.
-
-### Párrafo 8º — De la fiscalización e infracciones
+### Párrafo 8º — De la visita, fiscalización e infracciones
 
 #### Artículo 34
 
-De la visita del Serviu: El Serviu visitará la vivienda arrendada en el plazo de 60 días corridos, contados desde la fecha de la recepción en dicho servicio del contrato de arrendamiento y, en caso de incumplimiento de los requisitos que debe cumplir el contrato o la vivienda o ambos conforme a lo establecido en el presente Reglamento, se aplicará lo dispuesto en el artículo 36.
+De la visita del Serviu: El Serviu visitará la vivienda arrendada, en el plazo de 60 días corridos, contados desde la fecha en que, se haya efectuado el primer copago por el beneficiario registrado en el sistema informático que provea el Minvu, de acuerdo a lo establecido en el Capítulo 1V del presente reglamento.
+
+La visita tendrá por objeto verificar el cumplimiento de las condiciones de la vivienda definidas en este reglamento, por consiguiente, el Serviu deberá constatar, a lo menos, la dirección de la vivienda arrendada, el número de integrantes del núcleo familiar beneficiado, en su caso, residentes en la vivienda arrendada, la cantidad de recintos utilizados exclusivamente como dormitorio, el número de baños y de otros recintos existentes y el tipo vivienda.
+
+En caso que se detecte incumplimiento de los requisitos de la vivienda conforme a lo establecido en el presente reglamento, se aplicará lo dispuesto en el artículo 36.
 
 #### Artículo 35
 
@@ -420,9 +446,9 @@ De los requisitos que deben cumplir los arrendadores: Los arrendadores deberán 
 
 a. Ser dueños de la vivienda que se arrendará, lo que se acreditará mediante certificado de dominio vigente.
 
-b. No integrar un Núcleo Familiar beneficiado con subsidio de este programa que se encuentre vigente, lo que se verificará por medio del sistema informático que provea el Minvu.
+b. No encontrarse beneficiado ni integrar un Núcleo Familiar beneficiado con subsidio de este programa que se encuentre vigente, lo que se verificará por medio del sistema informático que provea el Minvu.
 
-c. No tener vínculos de parentesco por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive con el arrendatario, ni con ninguno de los miembros del Núcleo Familiar beneficiado que sean mayores de 18 años. Esta condición se revisará directamente en el Servicio de Registro Civil e Identificación. Además, se requerirá que el titular del beneficio presente una declaración jurada que indique que no existen estos vínculos.
+c. No tener vínculos de parentesco por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive con el arrendatario, ni con ninguno de los miembros del Núcleo Familiar beneficiado. Esta condición se revisará directamente en el Servicio de Registro Civil e Identificación. Además, se requerirá que el titular del beneficio presente una declaración jurada que indique que no existen estos vínculos.
 
 .
 
@@ -432,7 +458,9 @@ c. No tener vínculos de parentesco por consanguinidad o afinidad, en línea rec
 
 Del contrato tipo de arrendamiento: El contrato de arrendamiento se suscribirá entre el titular del beneficio y el dueño de la vivienda, personalmente o representado, y deberá contener todas las cláusulas establecidas en el contrato tipo proporcionado por el Serviu.
 
-Cumplidos 36 meses de vigencia del subsidio, el titular del beneficio y el dueño de la vivienda deberán suscribir un anexo del contrato, a fin de ajustar el valor de subsidio a un máximo de hasta 2,5 U.F. para los 24 meses restantes; el formato de este anexo será también proporcionado por el Serviu.
+El contrato tipo contendrá los valores del subsidio y sus ajustes conforme a la resolución a que se refiere el artículo 5º de este Reglamento. Además, contemplará la autorización del arrendador al Minvu para que este pueda verificar en cualquier momento, en la institución bancaria donde tuviere la cuenta para el pago de la renta de arrendamiento, la realización del copago por parte del arrendatario.
+
+En el sistema informático que al efecto disponga el Minvu, se registrará la vivienda arrendada según el número de rol de avalúo del Servicio de Impuestos Internos del terreno en que se emplaza, por lo que, solo podrá existir un contrato de arrendamiento vigente por número de rol. No obstante, si en un predio que cuente con un número de rol de avalúo del Servicio de Impuestos Internos, se emplazan dos o más viviendas que cumplen los requisitos a que se refiere el artículo 10 del presente reglamento, se admitirá que, por cada una de ellas, exista un contrato de arrendamiento vigente.
 
 #### Artículo 39
 
@@ -464,7 +492,7 @@ La renta mensual de arrendamiento estará compuesta por el monto del subsidio y 
 
 #### Artículo 42
 
-Duración del contrato: El contrato y su anexo comenzarán a regir a partir del día 1º del mes siguiente al de la fecha de la recepción de éste por parte del Serviu. La vigencia establecida en el contrato no podrá ser inferior a 12 meses.
+Duración del contrato: El contrato comenzará a regir a partir del día 1º del mes siguiente al de la fecha de la recepción de éste por parte del Serviu. La vigencia establecida en el contrato no podrá ser inferior a 12 meses.
 
 En caso de suscribirse un nuevo contrato de arrendamiento, el subsidio se pagará sólo por los meses que falten para cumplir con la cobertura del beneficio. Si la duración del contrato de arrendamiento es mayor a los aportes de subsidio que resten, el arrendatario, cuyo subsidio se habrá extinguido según lo indicado en la letra a. del artículo 32, deberá pagar la totalidad de la renta mensual de arrendamiento, a partir del mes siguiente al de la extinción de dicho beneficio.
 
@@ -474,7 +502,7 @@ Firma del contrato: El contrato de arrendamiento deberá ajustarse al formato ti
 
 #### Artículo 44
 
-De las exigencias del contrato: Al momento de presentar la copia del contrato de arrendamiento, el titular del beneficio deberá acompañar al Serviu los siguientes antecedentes:
+De las exigencias del contrato: Al momento de presentar la copia del contrato de arrendamiento para su aprobación en el Serviu, el titular del beneficio deberá acompañar los siguientes antecedentes:
 
 a. Declaración jurada de que la vivienda cumple con lo establecido en el artículo 10 de este Reglamento.
 
@@ -482,11 +510,11 @@ b. Los requeridos para acreditar que el arrendador cumple con los requisitos del
 
 c. Los antecedentes para el pago de la renta de arrendamiento que se acuerden en el contrato con el arrendador, tales como el número de la cuenta bancaria donde deberán realizarse los depósitos.
 
-d. Autorización otorgada por el arrendador al Minvu para que éste pueda verificar en cualquier momento, en la institución bancaria donde el primero tuviere la cuenta bancaria a que hace referencia la letra c. precedente, la realización del copago por parte del arrendatario.
+d. ELIMINADO.
 
 #### Artículo 45
 
-Término del contrato de arrendamiento: En el caso de término del contrato de arrendamiento por cualquier causa, será responsabilidad del arrendatario dar aviso al Serviu a fin de que se suspendan los pagos de los subsidios al arrendador. Este aviso deberá darse, con anterioridad al primer día del mes siguiente al de la fecha de término del contrato, en formulario elaborado por el Minvu o el Serviu con este objeto.
+Término del contrato de arrendamiento: En el caso de término del contrato de arrendamiento por cualquier causa, será responsabilidad del arrendatario dar aviso al Serviu a fin de que se suspendan los pagos de los subsidios al arrendador. Este aviso deberá darse, con anterioridad al primer día del mes siguiente al de la fecha de término del contrato, en formulario elaborado por el Serviu con este objeto.
 
 Para efectos de continuar en el programa o formalizar la renuncia a éste, se exigirá que no existan copagos de renta pendientes.
 
@@ -506,6 +534,8 @@ CAPÍTULO IV. PAGO DEL SUBSIDIO
 
 Del pago del subsidio
 
+### Párrafo 1º — Del pago del subsidio
+
 #### Artículo 47
 
 Cálculo de rentas pagadas: El pago del subsidio se hará efectivo en relación con los copagos de renta realizados por el arrendatario, de acuerdo al contrato que se haya celebrado, incluyendo en dicha cobertura el pago efectuado por concepto de garantía. El beneficio podrá ser utilizado de manera consecutiva o fragmentada, según el plazo de duración que efectivamente tengan los contratos y los plazos de vigencia establecidos en el presente decreto, hasta completar la cobertura máxima del beneficio.
@@ -522,9 +552,19 @@ Su monto dependerá del mes de cobertura del subsidio según la permanencia del 
 
 #### Artículo 50
 
-Incumplimiento en el copago de renta: En caso de incumplimiento del arrendatario de efectuar el copago de renta, el Minvu continuará realizando el aporte del subsidio hasta que el titular del beneficio acumule un incumplimiento equivalente a 3 meses de copago. Verificada dicha situación por el Minvu a través de lo dispuesto en la letra d. del artículo 44, a partir del mes siguiente, se suspenderá el pago del subsidio de ese beneficiario y éste no podrá celebrar nuevos contratos en el marco del programa. Esta regla se aplicará para cada contrato de arrendamiento que se celebre durante la vigencia del programa.
+Incumplimiento en el copago de renta: En caso de incumplimiento del beneficiario de efectuar el copago de la renta, el Minvu continuará realizando el aporte del subsidio hasta que el titular del beneficio acumule un incumplimiento equivalente a 3 meses de copago. Verificada dicha situación por el Minvu a través de la autorización a que se refiere el artículo 38, a partir del mes siguiente, se suspenderá el pago del subsidio de ese beneficiario y éste no podrá celebrar nuevos contratos en el marco del programa. Esta regla se aplicará para cada contrato de arrendamiento que se celebre durante la vigencia del programa.
 
-En cualquier caso, si no se regularizaren los pagos adeudados y existieren subsidios pagados indebidamente, se podrán ejercer las acciones legales tendientes a requerir la restitución de dichos montos al beneficiario, de acuerdo a lo establecido en el inciso final del artículo 36.
+Sin embargo, si dentro de los 3 meses siguientes a la suspensión, el beneficiario justifica el cumplimiento de los copagos pendientes, el Serviu reanudará el aporte que fue suspendido por el incumplimiento del beneficiario.
+
+En cualquier caso, si no se regularizaren los pagos adeudados y existieren subsidios pagados indebidamente, se ejercerán las acciones legales tendientes a requerir la restitución de dichos montos al beneficiario, de acuerdo a lo establecido en el inciso final del artículo 36.
+
+### Párrafo 2º — Otros subsidios
+
+#### Artículo 50 bis
+
+Gastos Operacionales: El beneficiario obtendrá un subsidio adicional destinado a financiar los gastos incurridos en la obtención de los documentos necesarios para la aplicación del Programa, a saber: copia del contrato tipo de arrendamiento firmado ante notario; copia del certificado de recepción municipal; certificado de dominio vigente y el de hipotecas, gravámenes, prohibiciones e interdicciones.
+
+Los montos del subsidio a que se refiere el presente artículo serán fijados por resoluciones del Ministro de Vivienda y Urbanismo, los que no podrán ser superiores a 3 U.F., por contrato activo. Para determinar este monto del subsidio se sacará un promedio de los costos por región de los documentos indicados en el inciso precedente.
 
 CAPÍTULO V. DEL EGRESO Y POSTULACIONES A OTROS PROGRAMAS
 
@@ -532,7 +572,7 @@ CAPÍTULO V. DEL EGRESO Y POSTULACIONES A OTROS PROGRAMAS
 
 #### Artículo 51
 
-Egreso del programa: El titular del beneficio conjuntamente con su Núcleo Familiar egresarán del programa siempre que el beneficiario se encuentre al día en el copago de las rentas que le correspondan y su subsidio se haya extinguido conforme a lo dispuesto en el artículo 32.
+Egreso del programa: El titular del beneficio y el Núcleo Familiar Beneficiado egresarán del programa siempre que el beneficiario se encuentre al día en el copago de las rentas que le correspondan y su subsidio se haya extinguido conforme a lo dispuesto en el artículo 32. Asimismo, cualquier integrante de un Núcleo Familiar beneficiado mayor de 18 años, distinto del cónyuge o el conviviente del titular del beneficio, podrá renunciar a integrar dicho Núcleo Familiar. Para que el conviviente pueda renunciar a un Núcleo Familiar beneficiado, deberá acreditar que cuenta con un Instrumento de Caracterización Socioeconómica vigente en el que no se encuentre el titular del beneficio del Núcleo al que renuncia.
 
 ### Párrafo 2º — De la postulación a programas de adquisición o construcción de viviendas
 
@@ -542,15 +582,15 @@ Postulación al Programa del Sistema Integrado de Subsidio Habitacional, regulad
 
 En estos casos, el titular del beneficio obtendrá puntaje adicional para la postulación al subsidio, en los términos que se definan en el referido decreto.
 
-Si el titular del beneficio resulta seleccionado en dicho programa, el subsidio de arriendo seguirá vigente, requiriéndose el egreso del programa de Arriendo de Vivienda para la aplicación del subsidio destinado a la adquisición o construcción de la vivienda, según lo establecido en el presente Capítulo.
+Si el titular del beneficio resulta seleccionado en dicho programa habitacional, el subsidio de arriendo seguirá vigente, requiriéndose el egreso del Programa de Arriendo de Vivienda al momento del pago del beneficio destinado a la adquisición o construcción de la vivienda, según lo establecido en el presente Capítulo.
 
 #### Artículo 53
 
-Postulación al Programa sobre Arrendamiento de Viviendas con Promesa de Compraventa, DS Nº 120 (V. y U.), de 1995: Para la postulación al Programa sobre Arrendamiento de Viviendas con Promesa de Compraventa, contenido en el DS Nº 120 (V. y U.), de 1995, el titular del beneficio y su Núcleo Familiar deberán haber egresado del Programa de Subsidio de Arriendo de Viviendas en la forma establecida en el presente Capítulo.
+Reserva de cupo de subsidio en el Programa sobre Arrendamiento de Viviendas con Promesa de Compraventa, DS Nº 120 (V. y U.), de 1995: Para la reserva de cupo de subsidio en el Programa sobre Arrendamiento de Viviendas con Promesa de Compraventa, contenido en el DS Nº 120 (V. y U.), de 1995, el titular del beneficio y su Núcleo Familiar deberán haber egresado del Programa de Subsidio de Arriendo de Viviendas en la forma establecida en el presente Capítulo.
 
 #### Artículo 54
 
-Postulación al Programa Fondo Solidario de Elección de Vivienda, DS Nº 49 (V. y U.), de 2011: Para ser considerado postulante hábil dentro de un grupo organizado correspondiente al Programa Fondo Solidario de Elección de Vivienda, contenido en el DS Nº 49 (V. y U.), de 2011, el titular del beneficio y su Núcleo Familiar deberán haber egresado del Programa de Subsidio de Arriendo de Vivienda en la forma establecida en el presente Capítulo debiendo haber transcurrido 12 meses, contados desde la fecha del egreso.
+Postulación al Programa Fondo Solidario de Elección de Vivienda, DS Nº 49 (V. y U.), de 2011: Para ser considerado postulante hábil, el titular del beneficio y su Núcleo Familiar deberán haber egresado del Programa de Subsidio de Arriendo de Vivienda en la forma establecida en el presente Capítulo, debiendo haber transcurrido 12 meses, contados desde la fecha del egreso. Este plazo no se aplicará en caso que no se haya efectuado ningún pago de subsidio correspondiente al Programa de Subsidio de Arriendo de Vivienda al momento del egreso.
 
 Segundo: Modifícase el DS Nº 1 (V. y U.), de 2011, que aprueba el Reglamento del Sistema Integrado de Subsidio Habitacional, en el siguiente sentido:
 
