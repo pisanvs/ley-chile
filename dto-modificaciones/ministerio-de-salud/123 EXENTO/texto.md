@@ -28,7 +28,7 @@ Las disposiciones de este decreto regirán desde su publicación en el Diario Of
 
 #### Artículo cuarto
 
-Otórguese como plazo, el período entre la publicación de este decreto en el Diario Oficial y el día 31 de diciembre de 2015, para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica en el caso de los productos farmacéuticos ya registrados que contengan, como monodrogas de liberación convencional o modificada, según corresponda, los principios activos señalados en el artículo primero, los que deberán realizarse respecto de los productos referentes establecidos en el mismo artículo.
+Otórguese como plazo, el período entre la publicación de este decreto en el Diario Oficial y el día 31 de diciembre de 2016, para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica en el caso de los productos farmacéuticos ya registrados que contengan, como monodrogas de liberación convencional o modificada, según corresponda, los principios activos señalados en el artículo primero, los que deberán realizarse respecto de los productos referentes establecidos en el mismo artículo.
 
 Anótese y publíquese.- Por orden del Presidente de la Republica, Jaime Mañalich Muxi, Ministro de Salud.
 

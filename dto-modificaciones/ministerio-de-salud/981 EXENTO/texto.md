@@ -34,7 +34,7 @@ Grupo A: 31 de julio de 2013
 
 Grupo B: 31 de diciembre de 2013
 
-Grupo C: 31 de diciembre de 2015
+Grupo C: 31 de diciembre de 2016
 
 * = Grupo indicado en la tabla contenida en la
 
