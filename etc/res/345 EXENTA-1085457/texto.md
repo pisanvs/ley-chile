@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE BBVA SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 345 de fecha 10 de diciembre de 2015, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de BBVA Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 25 de septiembre de 2015, reducida a escritura pública el 8 de octubre de 2015 y complementada por escritura pública de 26 de noviembre de 2015, según requerimiento efectuado por oficio Nº 25.406 de 2015, ambas otorgadas en la Notaría de don Eduardo Avello Concha, domiciliado en calle Orrego Luco 0153, Providencia, Santiago.
+
+La reforma consiste en aumentar el capital social de $2.400.000.000 dividido en 10.000 acciones sin valor nominal, de una misma serie, íntegramente suscrito y pagado, a $3.400.092.808 dividido en 14.202 acciones, mediante la emisión de 4.202 acciones por la suma de $1.000.092.808, a suscribir y pagar dentro del plazo de 3 años desde la fecha de la junta. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 10 de diciembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
