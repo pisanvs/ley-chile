@@ -1510,9 +1510,7 @@ excepción de las direcciones regionales de las
 
 regiones Metropolitana y de Valparaíso;
 
-43) Aprobar y modificar la estructura orgánica
-
-interna de la respectiva dirección regional.
+43) DEROGADO.
 
 #### Artículo segundo
 
