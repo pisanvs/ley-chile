@@ -16,7 +16,7 @@ La asignación por operador de maquinaria pesada corresponderá al 15% de la sum
 
 #### Artículo 3º
 
-El número máximo de personas con derecho a recibir la asignación será de 550 beneficiarios.
+El número máximo de personas con derecho a percibir la asignación será fijado anualmente por el Ministerio de Obras Públicas, mediante decreto fundado en criterios objetivos, expedido bajo la fórmula "Por orden del Presidente de la República" y visado por la Dirección de Presupuestos.
 
 #### Artículo 4º
 
@@ -28,9 +28,9 @@ Las asignaciones ya devengadas a partir del 1º de enero de 1996, también se li
 
 Por resolución del Jefe Superior del Servicio respectivo, visada por el Subsecretario de Obras Públicas, se individualizará a los trabajadores que accederán al beneficio
 
-La resolución que se dicte sobre la materia deberá ser puesta en conocimiento de los interesados mediante su consignación en un cartel que se ubicará en las dependencias de la Unidad Administrativa, y además en las unidades de maquinaria y maestranza, del respectivo servicio, durante ocho días hábiles consecutivos, a lo menos.
+La resolución que se dicte sobre la materia deberá ser puesta en conocimiento de los interesados, ya sea mediante su publicación impresa en los lugares de trabajo de este personal y en dependencias de la Unidad Administrativa correspondiente, o por otros medios idóneos que el Servicio respectivo disponga para este efecto.
 
-Asimismo, cada uno de los beneficiarios será notificado individualmente mediante carta certificada despachada a su domicilio.
+INCISO ELIMINADO.
 
 #### Artículo 6º
 
@@ -38,7 +38,7 @@ Si la suma de beneficiarios propuestos excediere el cupo máximo referido en el 
 
 #### Artículo 7º
 
-Para los efectos de la materia que regula el presente Reglamento y teniendo en cuenta la información proporcionada por las Jefaturas de los servicios operativos de este Ministerio, tendrán el carácter de maquinaria pesada y por ende su manejo tipificará la actividad de operador de maquinaria pesada, las siguientes: Balsa, barcaza, barrenieve, bulldozer, camión aljibe de 10 mil litrós o más, camión calibrador pesaje, camión con grúa de 10 toneladas metro o más, camión demarcador, camión distribuidor de asfalto, camión distribuidor de sal, camión distribuidor mortero asfalto, camión medidor fricción pavimento, camión medidor rugosidad pavimento, camión portador de grúa 10 toneladas - metro o más, camión reparador pavimento, camión tolva, camión tractor, camión transportador de combustible, cargador frontal, chancadora de áridos motorizada, deflectómetro de impacto, demarcador de pavimentos de 30 galones o más, distribuidora de gravilla autopropulsada, excavador cargador, excavadora, grúa telescópica autopropulsada, máquina para sondaje motorizada, martinete motorizado, motoniveladora, pavimentadora de asfalto, planta bacheadora, planta procesadora de bischofita para caminos, pala cargadora, recicladora de carpeta de camino, rodillo compactador autopropulsado de 6 toneladas o más, seleccionadora áridos de 60 toneladas/hora o más, selladora de junturas motorizada, tractor desbrozador, vehículo de oruga desplazable en nieve, tractor agrícola con pala cargadora, draga Ernesto Pinto Lagarrigue, sonda percusión, sonda rotación.
+Para los efectos de la materia que regula el presente Reglamento y teniendo en cuenta la información proporcionada por las Jefaturas de los servicios operativos de este Ministerio, tendrán el carácter de maquinaria pesada y por ende su manejo tipificará la actividad de operador de maquinaria pesada, las siguientes: balsa, barcaza, barrenieve, bulldozer, camión aljibe de 10 mil litros o más, camión calibrador pesaje, camión cama baja (rampa), camión con grúa de 10 toneladas-metro o más, camión con implemento para inspección de puentes, camión demarcador, camión distribuidor de asfalto, camión distribuidor de sal, camión distribuidor mortero asfalto, camión hinca poste señalética, camión medidor fricción pavimento, camión medidor rugosidad pavimento, camión portador de grúa 10 toneladas-metro o más, camión reparador pavimento, camión sondaje, camión tolva, camión tractor, camión transportador de combustible, cargador frontal, chancadora de áridos motorizada, deflectómetro de impacto, demarcador de pavimentos de 30 galones o más, distribuidora de gravilla autopropulsada, excavador cargador, excavadora, grúa telescópica autopropulsada, máquina para sondaje motorizada, martinete motorizado, mini-cargador, motoniveladora, pavimentadora de asfalto, planta bacheadora, planta procesadora de soluciones salinas destinada a caminos, recicladora de carpeta de camino, retroexcavadora, rodillo compactador autopropulsado de 6 toneladas o más, seleccionadora áridos de 60 toneladas/hora o más, selladora de junturas motorizada, tractor agrícola con pala cargadora, tractor agrícola sin pala, tractor desbrozador, vehículo de oruga desplazable en nieve, draga Ernesto Pinto Lagarrigue, sonda percusión, sonda rotación, sonda de rotopercusión.
 
 #### Artículo 8º
 
