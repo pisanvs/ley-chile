@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS DE RSA SEGUROS CHILE S.A.
+
+Certifico: Que por resolución exenta Nº 335, de fecha 23 de noviembre de 2015, esta Superintendencia de Valores y Seguros aprobó la modificación de estatutos de la sociedad anónima denominada RSA Seguros Chile S.A., acordada en Junta Extraordinaria de Accionistas celebrada el 22 de abril de 2015, reducida a escritura pública el 30 de abril de 2015, rectificada por escritura pública complementaria de 4 de junio de 2015 y rectificada y saneada mediante Junta Extraordinaria de Accionistas celebrada el 11 de septiembre de 2015, reducida a escritura pública el 16 de septiembre de 2015, de acuerdo a lo señalado mediante oficios ordinarios Nros. 11.415 y 15.946, ambos de 2015, todas otorgadas en la Notaría de Santiago, de doña Nancy de la Fuente Hernández; domiciliada en calle Paseo Huérfanos 1117, oficina 1.014.
+
+Se aumenta el capital social de $96.043.110.692, dividido en 5.866.399 acciones nominativas, sin valor nominal, todas de una misma serie y de igual valor, íntegramente suscrito y pagado, a $126.043.109.162.- dividido en 8.310.789 acciones, mediante la emisión de 2.444.390 acciones, por la suma de $29.999.998.470, las que deberán ser suscritas y pagadas, dentro del plazo de tres años contado desde el 22 de abril de 2015. Se modifican artículo quinto y primero transitorio de los estatutos. Otros acuerdos constan en escritura extractada.
+
+Santiago, 23 de noviembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
