@@ -872,9 +872,11 @@ e) Condiciones de estabilidad y asismicidad;
 
 f) Condiciones de incombustibilidad;
 
-g) Condiciones de salubridad, iluminación y ventilación, y
+g) Condiciones de salubridad, iluminación y ventilación;
 
-h) Dotación de servicios sanitarios y energéticos, y otras materias que señale la Ordenanza General.
+h) Dotación de servicios sanitarios y energéticos, y otras materias que señale la Ordenanza General, y
+
+i) Características de diseño, resistencia estructural y seguridad, para las edificaciones que se puedan emplazar en las áreas con riesgo de inundación, anegamiento, socavación, afloramiento potencial de napa freática, quebradas, deslizamiento o remoción en masa de materiales o sedimentos, u otras similares definidas en los planes reguladores, y, en el caso de urbanizaciones que se emplacen en tales áreas, las características de las obras de urbanización destinadas a mitigar los riesgos y facilitar la evacuación hacia zonas seguras o servir, cuando corresponda, como alternativa para el escurrimiento de las aguas.
 
 #### Artículo 106
 
