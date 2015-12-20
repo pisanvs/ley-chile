@@ -38,6 +38,8 @@ INCISOS ELIMINADOS
 
 > **Nota.** El numeral 1.2 del numero 1° de la Resolución 7439 Exenta, Vivienda, publicado el 01.10.2015, modifica la presente norma en el sentido de sustituir en la tabla inserta en la columna "Familias de Sectores Medios", las expresiones "Como mínimo un 20% y hasta un 80%." y "Como mínimo un 20% y hasta un 60%.", por "Hasta un 80%." y "Hasta un 60%.", respectivamente.
 
+> **Nota.** NOTA 1 El numeral 1° de la Resolución 9752 Exenta, Vivienda, publicado el 19.12.2015, modifica la presente norma en el sentido de agregar en la tabla inserta en la fila "2. Familias", en el punto "2.2. Sin subsidio habitacional", en la columna "Familias Vulnerables", lo siguiente ". Familias sin subsidio que cumplan con los requisitos de la modalidad individual del DS. Nº 49 (V.Y.U.), de 2011."
+
 ### Párrafo 3º — Recursos y montos de subsidios
 
 4.- Se destinará un monto a nivel nacional de 400.000 UF para el financiamiento del subsidio directo de familias con Certificado de Grupo Organizado Hábil (CGOH) o familias postulantes sin subsidio del DS Nº1, monto que será distribuido regionalmente de acuerdo a la cantidad de proyectos y postulaciones que se reciban, de familias sin subsidio asociadas a estos proyectos y que se imputarán a los recursos dispuestos para cada Programa o Sistema de Subsidio, en el año en que se aprueben las nóminas de beneficiarios asociados a los proyectos aprobados.
@@ -160,7 +162,7 @@ Si encontrándose próxima la expiración de la vigencia de la boleta bancaria d
 
 En el caso de los proyectos aprobados por la resolución exenta Nº 681, de 2013, el monto de subsidio para las familias vulnerables será el establecido en el DS Nº49 (V. y U.), de 2011.
 
-20. Las entidades patrocinantes que presentaron proyectos en los llamados dispuestos por la resoluciones exentas Nº 7.081, de 2013, y Nº 952, de 2014, y que fueron aprobados técnicamente por la Comisión Evaluadora, podrán incorporar familias, beneficiarias o no de subsidio habitacional, a los proyectos seleccionados hasta doce meses después de la recepción municipal, aplicando para las familias de sectores medios los porcentajes señalados en la tabla del número 3 de esta resolución.
+20. Las entidades patrocinantes que presentaron proyectos en los llamados dispuestos por las resoluciones exentas Nº 8.916, de 2012; Nº 681 y Nº 7.081, de 2013; y Nº 952, de 2014, todas de este Ministerio, y que fueron aprobados técnicamente por la Comisión Evaluadora, podrán incorporar familias, beneficiarias o no de subsidio habitacional, a los proyectos seleccionados hasta doce meses después de la recepción municipal, aplicando para las familias de sectores medios los porcentajes señalados en la tabla del número 3 de esta resolución, y para las familias vulnerables sin subsidio habitacional, estas deberán cumplir con los requisitos de la modalidad individual del DS. Nº 49 (V. y U.), de 2011. En todo caso, la primera nómina de familias que se presente al Serviu, deberá considerar el porcentaje mínimo de familias vulnerables establecido en cada uno de los llamados indicados anteriormente, lo que también se aplicará al llamado dispuesto por esta resolución.
 
 En el caso de los proyectos seleccionados en los llamados dispuestos por esta resolución y las resoluciones señaladas en el inciso anterior, si el proyecto cuenta con recepción municipal y cumple con el porcentaje mínimo de familias vulnerables establecido para cada llamado, la Entidad Patrocinante podrá presentar a cobro los subsidios destinados a las familias vulnerables.
 
