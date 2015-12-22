@@ -12,7 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase, la circulación de todo tipo de vehículos motorizados, desde el 9 de diciembre de 2014 hasta el 15 de diciembre de 2015, en la vía, tramo y sentido de tránsito que a continuación se indica:
+1.- Prohíbase, la circulación de todo tipo de vehículos motorizados, desde el 9 de diciembre de 2014 hasta el 31 de enero de 2016, en la vía, tramo y sentido de tránsito que a continuación se indica:
 
 2.- Podrán ingresar excepcionalmente en el tramo señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Mejoramiento Integral Infraestructura Ferroviaria, tramo Santiago - Rancagua, Paso Nos, comuna de San Bernardo".
 
