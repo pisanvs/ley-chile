@@ -262,6 +262,14 @@ A los jardines infantiles que se encuentren en el caso establecido en el inciso 
 
 El valor párvulo-mes a utilizarse para los cálculos de los artículos precedentes, en relación a los niveles educacionales, es el que se indica en los siguientes cuadros:
 
+NIVEL SALA CUNA
+
+.
+
+NIVELES MEDIO MENOR, MEDIO MAYOR, TRANSICIÓN Y GRUPOS HETEROGÉNEOS
+
+.
+
 Si el jardín infantil se encuentra ubicado en un sector rural, el valor párvulo-mes a pagar se incrementará por el factor que corresponda, de acuerdo al porcentaje de asistencia al respectivo jardín, de los párvulos por cada nivel, según la siguiente tabla:
 
 Porcentaje de asistencia de párvulos
@@ -381,6 +389,12 @@ Las entidades que se encuentren recibiendo aportes de la Junta Nacional de Jardi
 #### Artículo 28°
 
 Las entidades que con anterioridad a la entrada en vigencia del presente reglamento hayan sido autorizadas para recibir recursos de la Junta Nacional de Jardines Infantiles mediante resolución de dicho Servicio, podrán continuar siendo receptoras de los mismos de acuerdo a la disponibilidad presupuestaria de ésta.
+
+#### Artículo 29
+
+Establézcase, que el incremento del valor párvulo-mes, a que se refiere el presente decreto deberá destinarse exclusivamente para aumentar las remuneraciones del personal que se desempeña en los Jardines Infantiles Vía Transferencia de Fondos que realiza la Junta Nacional de Jardines Infantiles.
+
+Este aumento se concederá a partir del mes de julio de 2015.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
 
