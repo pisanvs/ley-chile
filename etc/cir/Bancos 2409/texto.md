@@ -2376,6 +2376,112 @@ El Gerente General de cada entidad deberá comunicar a esta Superintendencia los
 
 Las instrucciones del presente Capítulo deben ponerse en práctica a más tardar a contar del año 2004.
 
+## Capítulo 1-16
+
+OPERACIONES CON PERSONAS EXPUESTAS POLÍTICAMENTE
+
+Sin perjuicio de lo dispuesto en el Capítulo 1-14 de esta Recopilación en relación con el cumplimiento de la Ley N° 19.913, las presentes normas contienen instrucciones sobre las operaciones o contratos que se celebren con las denominadas "personas expuestas políticamente" (PEP) de que trata el N° 2 del título II de aquel Capítulo, en concordancia con lo definido al respecto por la Unidad de Análisis Financiero (UAF).
+
+El banco debe contar con políticas específicas para sus operaciones con los clientes PEP, que abarquen al menos aquellos aspectos relativos al conocimiento del cliente, el monitoreo y la aprobación de sus operaciones. Las políticas establecidas por la institución en relación con los clientes PEP deberán ser descritas en su sitio web para conocimiento del público.
+
+### 1. Operaciones o contratos con PEP
+
+Cuando se trate de operaciones o contratos que se celebren con personas expuestas políticamente, las instituciones deberán considerar en sus respectivas políticas al menos los siguientes aspectos:
+
+A) La aprobación de los créditos que se otorguen a PEP y que no correspondan a aquellos de carácter masivo que se proveen por medios remotos cuyas condiciones están estandarizadas, quedará sujeta a lo siguiente:
+
+- Los créditos que superen un monto previamente sancionado por el Directorio para el efecto, se cursarán con la revisión y ratificación, debidamente documentada, por parte de una instancia superior de primera línea.
+
+- Para obtener tales ratificaciones, se proporcionará a esa instancia superior toda la información que justifica la aprobación del crédito y sus condiciones según las políticas y procedimientos crediticios de la institución y, además, se dejará constancia del nombre de todos los ejecutivos que participaron en la aprobación que debe ser ratificada.
+
+- A falta de un nivel superior que pueda pronunciarse, como también en otras circunstancias que la institución puede establecer en razón al monto o las características del crédito, se podrá considerar al Directorio como instancia superior.
+
+B) El Directorio deberá recibir información, con la periodicidad que el mismo defina, acerca de las operaciones o contratos con PEP, incluyendo al menos lo siguiente:
+
+- Las personas expuestas políticamente que son clientes de la institución, sus productos u operaciones y las condiciones de los mismos.
+
+- Los contratos celebrados entre el banco y las PEP, en que éstas tengan la calidad de prestadores de bienes o servicios o de contrapartes comerciales de cualquier naturaleza. Junto con proporcionarse la información de todos los contratos vigentes, se informarán los celebrados durante el período trascurrido desde el último reporte, con los antecedentes que funden la decisión de la contratación.
+
+- Reporte de cumplimiento de las políticas y procedimientos aprobados por el Directorio emanado de la Auditoria Interna.
+
+Las presentes disposiciones se aplicarán también a las operaciones en que una PEP sea el "beneficiario final" según lo que establezca la Unidad de Análisis Financiero (UAF), sin perjuicio de incluir también a personas jurídicas que, según la información disponible, tienen vinculaciones con una PEP y que a juicio de la institución, requieren un tratamiento similar.
+
+Las menciones al Directorio se entenderán referidas a un comité ad-hoc de alto nivel de la entidad, en que participe el Agente o Gerente General, cuando corresponda.
+
+### 2. Formalización y control
+
+Los procedimientos que se establezcan de acuerdo con lo indicado en la presente norma, formarán parte del Manual de Políticas y Procedimientos de que trata el N° 3 del título II del Capítulo 1-14, debiendo quedar sujetos también a los controles o evaluaciones propias de las funciones del Oficial de Cumplimiento y de la auditoría interna de la institución, según lo indicado en los N°s. 4 y 8 de ese título.
+
+INDICE DE CAPÍTULOS
+
+.
+
+Materia Capítulo
+
+PERSONAS EXPUESTAS POLITICAMENTE
+
+Operaciones con personas expuestas
+
+políticamente..................................... 1-16
+
+Prevención del lavado de activos y
+
+financiamiento del terrorismo..................... 1-14
+
+PERSONAS RELACIONADAS
+
+Límite de créditos otorgados a personas
+
+relacionadas artículo 84 Nº2 de la
+
+Ley General de Bancos............................. 12-4
+
+Prohibición de otorgar créditos a
+
+directores, apoderados generales
+
+y personas relacionadas con ellos................. 12-12
+
+Operaciones de leasing............................ 8-37
+
+Bienes recibidos o adjudicados
+
+en pago de obligaciones........................... 10-1
+
+Inversiones en sociedades en el país.............. 11-6
+
+Sucursales e inversiones en bancos
+
+y otras sociedades en el exterior................. 11-7
+
+Externalización de servicios...................... 20-7
+
+PLANES DE AHORRO
+
+Planes de ahorro previsional voluntario........... 2-10
+
+PLAZAS BANCARIAS
+
+Canje y Cámara de compensación.................... 5-1
+
+PODERES A DIRECTORES
+
+Directores. Disposiciones varias.................. 1-4
+
+PRÉSTAMOS HIPOTECARIOS PARA VIVIENDA
+
+Mutuos hipotecarios endosables.................... 8-4
+
+Operaciones con letras de crédito................. 9-1
+
+Operaciones con bonos hipotecarios................ 9-2
+
+Cobranza de dividendos hipotecarios............... 8-18
+
+PROCESAMIENTO DE DATOS
+
+Externalización de servicios...................... 20-7
+
 CAPITULO 2-1 (Bancos y Financieras)
 
 MATERIA:
@@ -5126,7 +5232,7 @@ d) Los casos en que haya retención, prenda o embargo sobre los dineros correspo
 
 ### 3. Listas de acreencias y sus publicaciones
 
-Los bancos confeccionarán, en el mes de enero de cada año, una lista de las acreencias afectas a caducidad que hayan cumplido dos años de inmovilización en el curso del año calendario inmediatamente anterior. Deberán fijar dicha lista en su domicilio principal. Asimismo, deberán remitir a esta Superintendencia un archivo en formato digital que contenga esa información, a más tardar el primer día hábil bancario del mes de abril de cada año.
+Los bancos confeccionarán, en el mes de enero de cada año, una lista de las acreencias afectas a caducidad que hayan cumplido dos años de inmovilización en el curso del año calendario inmediatamente anterior. Deberán fijar dicha lista en su domicilio principal. Asimismo, deberán remitir a esta Superintendencia un archivo en formato digital que contenga esa información, a más tardar el décimo día hábil bancario del mes de febrero de cada año.
 
 El plazo de dos años a que se refiere el párrafo precedente, se cuenta desde la fecha en que la acreencia debió haber sido cobrada por su titular, o bien, desde la fecha en que se registró el último giro. En el caso de los dividendos, el plazo de caducidad comienza a regir desde la fecha en que el accionista haya tenido derecho a exigir su pago.
 
@@ -5152,11 +5258,13 @@ a) Fecha de origen de la acreencia.
 
 b) Apellido paterno, apellido materno y nombre del acreedor. Las personas jurídicas deberán ser individualizadas en la forma que aparezcan registradas en el Banco.
 
-c) Ultima dirección del acreedor conocida del Banco.
+c) RUT del acreedor.
 
-d) Origen del crédito.
+d) Ultima dirección del acreedor conocida del Banco.
 
-e) Monto exacto del crédito.
+e) Origen del crédito.
+
+f) Monto exacto del crédito.
 
 La respectiva publicación deberá iniciarse con el nombre y domicilio de la institución respectiva y a continuación se estampará el siguiente subtítulo en caracteres destacados:
 
@@ -11434,7 +11542,7 @@ El banco deberá poner especial atención en estimar la absorción futura de liq
 
 Así por ejemplo, cuando se trate de un contrato de derivado con entrega física que involucre monedas extranjeras, los montos nocionales a recibir o a entregar se registrarán en las bandas temporales que correspondan. Si el contrato involucra liquidaciones intermedias o llamadas de margen en moneda extranjera, el banco deberá estimarlas y computarlas en las bandas pertinentes. Todos esos flujos deberán reportarse en su equivalente a moneda nacional, distinguiéndose los nocionales para efectos de medir el respectivo descalce en moneda extranjera.
 
-Asimismo, cuando se trate de un contrato derivado sin entrega física, el banco reportará en las bandas que correspondan los flujos de ingreso o egreso por liquidación parcial o final. Si el contrato involucra transferencias en moneda extranjera, el banco deberá reportar su equivalente en la moneda local, distinguiéndose los flujos de efectivo para efectos de medir el respectivo descalce en moneda extranjera.
+Asimismo, cuando se trate de un contrato derivado sin entrega física, el banco reportará en las bandas que correspondan los flujos de ingreso o egreso por liquidación parcial o final. En el caso de tratarse de contratos de derivados celebrados al amparo de un contrato marco de compensación bilateral reconocido, el banco reportará en las bandas temporales pertinentes los flujos netos. Si el contrato involucra transferencias en moneda extranjera, el banco deberá reportar su equivalente en la moneda local, distinguiéndose los flujos de efectivo para efectos de medir el respectivo descalce en moneda extranjera.
 
 Para los derivados sin entrega física y compensados a través de una ECC local, el banco reportará en las bandas temporales pertinentes los flujos netos, de ingreso o egreso, que estime se generarán en el futuro a causa de reposición de márgenes, cierre o liquidación de los contratos, dadas las exposiciones futuras que el banco haya proyectado. Si estuvieren denominados en moneda extranjera, estos flujos deberán ser reportados en su equivalente en la moneda local, distinguiendo la moneda en la que se denomina el flujo de efectivo. Este tratamiento solo podrá aplicarse si la ECC cuenta con la debida autorización de funcionamiento y supervisión por parte de la SVS. En caso contrario, el banco deberá reportar los flujos de acuerdo a lo descrito en el párrafo anterior. Lo mismo podrá aplicarse a los derivados que sean compensados en una ECC extranjera que cuente con la autorización y supervisión del regulador local.
 
@@ -11478,7 +11586,7 @@ Para las filiales bancarias establecidas en el extranjero, los activos N1 compre
 
 Además de las condiciones antes indicadas, el banco deberá observar lo siguiente:
 
-i. Solo podrán incluirse en las categorías N1 o N2 los activos que sean estrictamente administrados con el claro propósito de ser utilizados como una fuente de fondos contingentes; es decir, que estén a libre disposición de la unidad que gestiona la liquidez del banco.
+i. Sólo podrán incluirse en las categorías N1 o N2 (ALAC) los activos que sean estrictamente administrados por quien tenga a cargo la gestión de liquidez del banco, con el claro propósito de ser utilizados como una fuente de fondos contingentes, o bien que se encuentren bajo su control efectivo, lo que requerirá del establecimiento de controles y sistemas de información por parte del banco, que le aseguren la capacidad operacional para convertir en efectivo estos instrumentos, en cualquier momento durante un periodo de tensión de 30 días, sin que esto pueda ser condicionado por las estrategias de negocio o de riesgos vinculadas con dichos instrumentos.
 
 ii. El superávit de activos líquidos mantenido por una filial bancaria podrá incluirse en el stock consolidado sólo si esos instrumentos están disponibles para que la matriz pueda liquidarlos en cualquier momento, inclusive en épocas de tensión.
 
@@ -11648,7 +11756,7 @@ Un depósito se considerará garantizado o asegurado si y solo si, la garantía 
 
 Cuando un flujo de efectivo pueda ser clasificado en más de una categoría de flujo de efectivo, el banco deberá escoger la categoría que signifique un mayor flujo de egreso o un menor flujo de ingreso, según sea el caso.
 
-Los flujos de efectivo denominados en una moneda indexada a la inflación podrán ser convertidos a la moneda local utilizando la inflación implícita en el precio de mercado de instrumentos financieros cuyo valor razonable sea función de una moneda indexada. En caso de que no se disponga de esa información de mercado, deberán utilizarse las expectativas oficiales de inflación del respectivo banco central.
+Elimina inciso.
 
 Si el banco fuere contractualmente el beneficiario de los flujos de ingreso de efectivo generados por instrumentos entregados en garantía, podrá computar dichos flujos de ingreso en la categoría "Activos líquidos sin propósitos de gestión de liquidez" de la Tabla 87 del MSI. En todo caso, el banco siempre deberá considerar los requerimientos adicionales de liquidez que puedan originarse de la reposición de garantías, esto deberá quedar computado en la categoría "Requerimientos adicionales de liquidez que deban constituirse por la desvalorización futura de garantías entregadas" de la Tabla 87 del MSI.
 
@@ -18891,6 +18999,10 @@ Sobre la base de la disposición antes mencionada y de conformidad con lo señal
 Los bancos deberán hacer llegar a la Superintendencia de Valores y Seguros la información acerca del grupo empresarial del que forma parte la sociedad, que ese Organismo ha exigido a las entidades sujetas a su fiscalización.
 
 Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse los datos específicos exigidos por esa Superintendencia, en las oportunidades y dentro de los plazos que para esos fines ha establecido.
+
+### III. INFORMACIÓN SOBRE COLOCACIÓN DE BONOS Y SU TASA DE INTERÉS FISCAL
+
+Aquellos bancos que emitan bonos acogidos al régimen tributario de que trata el artículo 104 de la Ley de Impuesto a la Renta, deberán informar a la Superintendencia de Valores y Seguros la tasa de interés fiscal de cada colocación, según lo establece el referido precepto legal, ciñéndose a las instrucciones impartidas por aquel ente regulador.
 
 ## Capítulo 18-13
 
