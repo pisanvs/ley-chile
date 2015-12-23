@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.410, del 28 de agosto de 2015, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Empresas Aquachile S.A., sociedad chilena, RUT 86.247.400-7, con domicilio en Cardonal s/n, Lote B, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, requerida mediante solicitud 211106007, del 26 de enero de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.117, del 27 de junio de 1997, transferida por resolución 1.464, del 30 de junio de 1999, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura a nombre de su actual titular Empresas Aquachile S.A., bajo el 7532014, modificada por resolución exenta 5.498, del 14 de julio de 2015, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Canal Guamblad, al oeste de Isla San Pedro, comuna de Quellón, provincia de Chiloé, X Región de Los Lagos.
+
+"El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución 2.003, del 2 de diciembre de 1996, modificada por resolución exenta 1.764, del 27 de junio de 2006, modificada por resolución exenta 1.562, del 18 de mayo de 2007, todas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 3.402, del 19 de diciembre de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.".
+
+Santiago, 27 de noviembre de 2015.- Por orden del Subsecretario para las Fuerzas Armadas, José Miguel Poblete East, Abogado, Jefe División Jurídica Subsecretaría para las Fuerzas Armadas.
