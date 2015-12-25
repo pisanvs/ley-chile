@@ -40,7 +40,7 @@ c) Las cargas familiares legalmente reconocidas de las personas señaladas en la
 
 Las cargas familiares reconocidas por los imponentes en otras Cajas de Previsión deberán acreditarse anualmente, mediante certificado expedido por la caja pagadora o por la institución donde presten sus servicios.
 
-d) Los padres e hijas solteras mayores de 21 años que vivan a expensas de los beneficiarios indicados en las letras a) y b) precedentes.
+d) Los padres que vivan a expensas de los beneficiarios indicados en las letras a) y b) precedentes.
 
 #### Artículo 4º
 
@@ -59,6 +59,8 @@ El Fondo de Salud se formará con los siguientes recursos:
 6) Con las subvenciones, herencias, legados o donaciones que se hicieren para las finalidades de esta ley, los que estarán exentos de todo impuesto, tasa o contribución.
 
 Estas donaciones no estarán sujetas al trámite de insinuación, cualquiera sea su cuantía.
+
+7) Con el 0,5% sobre las pensiones de retiro y montepío pagadas por esta misma Caja de Previsión, a los mayores de 65 años de edad.
 
 #### Artículo 5º
 
@@ -94,7 +96,13 @@ a) Las bonificaciones por las asistencias de salud establecidas en el artículo 
 
 Se entenderá por bonificación aquella parte del valor de la prestación que es cubierta por el Fondo de Salud, la cual será determinada para cada tipo de prestación y categoría de beneficiario en el respectivo plan de bonificación.
 
-Los funcionarios de la Caja de Previsión de la Defensa Nacional, que se encuentren cotizando en el Fondo de Salud de ésta, sus cargas familiares legales, sus padres e hijas solteras señaladas en las letras c) y d) del artículo 3º, tendrán derecho a bonificación. Estos porcentajes para el personal de la Caja y sus familiares serán iguales a los fijados para los miembros del servicio activo de la Defensa Nacional, en todo caso ellos no podrán ser superiores a los aranceles vigentes sobre la materia.
+Los Pensionados de retiro y montepío y los Funcionarios de la Caja de Previsión de la Defensa Nacional señalados en las letras
+
+- **a)** y
+
+- **b)** del artículo 3º, que se encuentren cotizando en el Fondo de Salud de ésta, sus cargas familiares legalmente reconocidas y sus padres que reúnan los requisitos de la letra
+
+- **d)** del artículo 3º, tendrán derecho a bonificación. Estos porcentajes para el personal de la Caja y sus familiares serán iguales a los fijados para los miembros del servicio activo de la Defensa Nacional, en todo caso ellos no podrán ser superiores a los aranceles vigentes sobre la materia.
 
 Corresponderá al Consejo Directivo de la Caja de Previsión de la Defensa Nacional fijar los planes de bonificación previa proposición del Vicepresidente Ejecutivo, de acuerdo con los recursos que disponga el Fondo de Salud y sus obligaciones.
 
@@ -116,7 +124,9 @@ El Fondo de Salud de la Caja de Previsión de la Defensa Nacional, podrá otorga
 
 #### Artículo 15º
 
-Para acceder al crédito establecido en el artículo anterior, los imponentes deberán estar cotizando en el Fondo de Salud, encontrarse adheridos al Fondo Solidario y contar con capacidad de crédito.
+Para acceder al crédito establecido en el artículo anterior, los imponentes deberán estar cotizando en el Fondo de Salud, encontrarse adheridos al Fondo Solidario, contar con capacidad de crédito y cumplir con el período de carencia a este último Fondo.
+
+Para estos efectos, se entenderá como período de carencia, aquel que media entre la fecha de la incorporación al Fondo Solidario y el tercer mes de aporte monetario efectivo a dicho Fondo.
 
 La Caja está facultada para efectuar los descuentos necesarios para servir dicha obligación, en las remuneraciones, pensiones de retiro y/o montepío, de conformidad a lo dispuesto en el artículo 17, del DFL Nº 31, de 1953, del Ministerio de Defensa Nacional.
 
