@@ -12812,9 +12812,9 @@ vi) El deudor no aparece con deudas directas impagas en la información que refu
 
 Las evaluaciones grupales resultan pertinentes para abordar un alto número de operaciones cuyos montos individuales son bajos y se trate de personas naturales o de empresas de tamaño pequeño. Dichas evaluaciones, así como los criterios para aplicarlas, deben ser congruentes con las efectuadas para el otorgamiento de los créditos.
 
-Las evaluaciones grupales de que se trata requieren de la conformación de grupos de créditos con características homogéneas en cuanto a tipo de deudores y condiciones pactadas, a fin de establecer, mediante estimaciones técnicamente fundamentadas y siguiendo criterios prudenciales, tanto el comportamiento de pago del grupo de que se trate como de las recuperaciones de sus créditos incumplidos y, consecuentemente, constituir las provisiones necesarias para cubrir el riesgo de la cartera.
+Para determinar las provisiones, las evaluaciones grupales de que se trata requieren de la conformación de grupos de créditos con características homogéneas en cuanto a tipo de deudores y condiciones pactadas, a fin de establecer, mediante estimaciones técnicamente fundamentadas y siguiendo criterios prudenciales, tanto el comportamiento de pago del grupo de que se trate como de las recuperaciones de sus créditos incumplidos.
 
-Los bancos podrán utilizar, en el caso en que este Organismo no disponga el uso de una metodología estándar para determinar las provisiones, dos métodos alternativos para los créditos minoristas que se evalúen en forma grupal.
+Los bancos podrán utilizar dos métodos alternativos para determinar las provisiones de los créditos minoristas que se evalúen en forma grupal.
 
 Bajo el primer método, se recurrirá a la experiencia recogida que explica el comportamiento de pago de cada grupo homogéneo de deudores y de recuperación por la vía de ejecución de garantías y acciones de cobranza cuando corresponda, para estimar directamente un porcentaje de pérdidas esperadas que se aplicará al monto de los créditos del grupo respectivo.
 
@@ -12824,7 +12824,7 @@ En ambos métodos, las pérdidas estimadas deben guardar relación con el tipo d
 
 Cuando se trate de créditos de consumo, no se considerarán las garantías para efectos de estimar la pérdida esperada.
 
-Sin perjuicio de lo anterior, para efectos de la constitución de provisiones, los bancos deberán reconocer provisiones mínimas para cada tipo de cartera de acuerdo a los métodos estándar establecidos en las presentes normas, que corresponden a una base mínima prudencial que deberá ser utilizada por las entidades, lo cual no las exime de su responsabilidad de contar con metodologías propias para efectos de la determinación de provisiones suficientes para resguardar el riesgo crediticio de sus carteras. En el contexto de lo señalado en el numeral 7.2 siguiente, esta Superintendencia podrá permitir la constitución de provisiones exclusivamente de acuerdo con los resultados de la aplicación de los métodos internos que utilice cada banco.
+Sin perjuicio de lo anterior, en la medida en que este Organismo disponga de metodologías estándar, los bancos deberán reconocer provisiones mínimas para cada tipo de cartera de acuerdo con ellas. El uso de esta base mínima prudencial para las provisiones, en ningún caso exime a las instituciones financieras de su responsabilidad de contar con metodologías propias para determinar las provisiones suficientes para resguardar el riesgo crediticio de sus carteras. En el contexto de lo señalado en el numeral 7.2 de este Capítulo, esta Superintendencia podrá permitir la constitución de provisiones exclusivamente de acuerdo con los resultados de la aplicación de los métodos internos que utilice cada banco.
 
 Los bancos deberán distinguir entre las provisiones sobre la cartera normal y sobre la cartera en incumplimiento, y las que resguardan los riesgos de los créditos contingentes asociados a esas carteras.
 
@@ -12854,7 +12854,7 @@ Podrán excluirse de la cartera en incumplimiento: a) los créditos hipotecarios
 
 Todos los créditos del deudor deberán mantenerse en la Cartera en Incumplimiento hasta tanto no se observe una normalización de su capacidad o conducta de pago, sin perjuicio de proceder al castigo de cada crédito en particular que cumpla la condición señalada en el título II del Capítulo B-2. Para remover a un deudor de la Cartera en Incumplimiento, una vez superadas las circunstancias que llevaron a clasificarlo en esta cartera según las presentes normas, deberán cumplirse al menos las siguientes condiciones copulativas:
 
-i) Ninguna obligación .del deudor con el banco presenta un atraso superior a 30 días corridos
+i) Ninguna obligación del deudor con el banco presenta un atraso superior a 30 días corridos.
 
 ii) No se le han otorgado nuevos refinanciamientos para pagar sus obligaciones.
 
@@ -13000,12 +13000,6 @@ En todo caso, para los efectos de información específica que puede solicitar e
 
 - Créditos interbancarios.
 
-- Créditos de financiamiento de estudios superiores.
-
-Compendio de Normas Contables
-
-Capítulo B-1 hoja 19
-
 - Créditos minoristas, que corresponden a un alto número de operaciones de bajo monto con personas y micros o pequeñas empresas, abarcando:
 
 - créditos y líneas de crédito auto-renovables.
@@ -13020,9 +13014,11 @@ Capítulo B-1 hoja 19
 
 - factoring.
 
-6 Pruebas de la eficacia de los métodos de evaluación utilizados
+- Créditos de financiamiento de estudios superiores.
 
-Como es natural, cualquier modelo conducente a constituir provisiones suficientes, debe ser objeto de pruebas retrospectivas para verificar su eficacia y efectuar oportunamente los ajustes que sean necesarios.
+### 6. Pruebas de la eficacia de los métodos de evaluación utilizados
+
+Como es natural, cualquier modelo conducente a estimar provisiones suficientes, debe ser objeto de pruebas retrospectivas para verificar su eficacia y efectuar oportunamente los ajustes que sean necesarios.
 
 Todos los modelos que se utilicen deben ser revisados anualmente con miras a asegurar la mejor cobertura de provisiones al cierre del ejercicio, debiendo comunicarse los resultados de esa evaluación al Directorio para los fines previstos en el numeral 7.1 siguiente.
 
@@ -13103,6 +13099,206 @@ Las provisiones constituidas sobre la cartera de colocaciones se tratarán como 
 No obstante, las provisiones adicionales que se constituyan de acuerdo con lo indicado en el Nº 9 anterior, se informarán en el pasivo según lo instruido en el Capítulo C-3, al igual que las constituidas sobre créditos contingentes.
 
 Tanto la constitución como la liberación de las provisiones adicionales a que se refiere el Nº 9, deberán ser informadas en nota a los estados financieros.
+
+Capítulo B-1
+
+Anexo Nº 1
+
+ANEXO N° 1
+
+REQUISITOS PARA LA UTILIZACIÓN DE METODOLOGÍAS INTERNAS PARA FINES DE DETERMINAR PROVISIONES POR RIESGO DE CRÉDITO EN LA CARTERA DE EVALUACION GRUPAL
+
+### I. Consideraciones generales
+
+De acuerdo con lo señalado en el N° 3 de este Capítulo B-1, los bancos podrán optar por constituir provisiones utilizando metodologías internas. Para estos efectos, las entidades deberán efectuar una presentación previa ante este Organismo con el fin de obtener su parecer en relación con su uso. Es condición indispensable que las metodologías internas que sean presentadas a esta Superintendencia se ajusten a las condiciones mínimas establecidas en el presente Anexo.
+
+Dependiendo de la decisión de la entidad financiera, tratándose de las carteras con evaluación grupal, se podrán utilizar metodologías internas siguiendo cualquiera de los dos métodos señalados en el N° 3 de este Capítulo, los que deberán ser congruentes con el tamaño y complejidad de las operaciones de crédito de la entidad bancaria.
+
+En todo caso, cualquiera sea el método utilizado o la cartera de que se trate, la estimación del riesgo debe seguir un enfoque "a través del ciclo" y no "en un punto del tiempo", acorde con el carácter prospectivo de la normativa de provisiones por riesgo de crédito.
+
+### II. Prerequisitos para presentación de metodologías internas
+
+Para solicitar la evaluación de metodologías internas para efectos de constitución de provisiones, el banco deberá satisfacer previamente lo siguiente:
+
+a) Mantener un nivel de gestión de al menos categoría B en la última evaluación de la Superintendencia, de conformidad con el Capítulo 1-13 de la Recopilación Actualizada de Normas.
+
+b) Mantener durante los últimos 2 años, la calificación "Cumplimiento Material", en la materia "Administración del Riesgo de crédito y gestión global del proceso de crédito" a que se refiere el Capítulo 1-13 antes mencionado.
+
+c) Las metodologías internas de riesgo de crédito presentadas para evaluación, han sido revisadas y aprobadas por el Directorio en una sesión especial para estos efectos, dejando evidencia en actas de su análisis y discusión para su aprobación.
+
+d) Las metodologías internas para las que se solicita evaluación, están integradas a la gestión diaria del riesgo de crédito (test de uso) por al menos dos años y forman parte de los procedimientos habituales de la institución. Es decir, que sus resultados o componentes (PI y PDI; o cualesquier otro) según sea el método, hayan sido utilizados al menos en las etapas de otorgamiento, seguimiento y cobranza de las respectivas carteras, con fines tales como: admisión de créditos, fijación de precios, establecimiento de límites, priorización en la cobranza, entre otros.
+
+e) La diferencia en la estimación de provisiones entre las metodologías internas y el método estándar, se encuentran debidamente justificadas por la entidad, en función de las características de su cartera de créditos.
+
+### III. Requisitos para las metodologías internas
+
+Para la presentación de metodologías internas a esta Superintendencia, deberán al menos cumplirse las siguientes exigencias:
+
+III.1 Requisitos generales
+
+a) Contar con áreas o funciones independientes y especializadas que permitan realizar las actividades de desarrollo, validación y seguimiento de las metodologías internas, asegurando una adecuada segregación funcional y de responsabilidades. Asimismo, mantener comités que velen por el cumplimiento de los lineamientos aprobados por el Directorio, en todos los aspectos que conciernen a las metodologías. En términos específicos, deberá estar documentado el rol de las funciones, considerando aspectos como los siguientes:
+
+i. La función de diseño y desarrollo está a cargo de confeccionar y recalibrar las metodologías internas. La subcontratación de servicios externos para esta etapa, no exime a la institución financiera de la total responsabilidad por las metodologías confeccionadas. Será el Directorio, en un acuerdo formal, quien deberá aprobar las definiciones de ámbito, perímetro y funciones, tanto de los prestadores de servicios como de la institución, asegurando la debida transferencia de conocimiento para una acabada comprensión de la estructura y funcionamiento de todos los aspectos técnicos que resulten de las prestaciones de servicios externalizadas.
+
+ii. El ámbito de la función de seguimiento, como mínimo abarca las siguientes actividades: (a) Evaluación periódica, al menos trimestral, del desempeño de las metodologías internas y sus componentes. Esto implica a su vez el análisis detallado de las eventuales deficiencias que pudiesen presentar las metodologías internas, (b) Reportes periódicos de los resultados a las distintas instancias involucradas.
+
+iii. La función de validación certifica la calidad de los datos, previo al desarrollo de las metodologías internas y en las etapas posteriores de implementación y seguimiento. Dicha certificación debe incluir al menos, para cada base de datos empleada, la existencia de un conjunto de procedimientos de control y de evaluación de la calidad de la información, conteniendo criterios y planes de acción para su rectificación en casos de deficiencias o ausencia de datos. Asimismo, es parte de sus responsabilidades, la certificación de las metodologías internas en las mencionadas etapas, velando por su confiabilidad, la observancia de las normas de este Capítulo y todas las condiciones que se establecen en el presente Anexo.
+
+b) La institución cuenta con un entorno tecnológico cuyas plataformas, interfaces, sistemas y aplicaciones, disponen de adecuados controles que aseguran la continuidad y confiabilidad de los procesos que soportan las metodologías internas, encontrándose todo eso debidamente documentado y evaluado por un área independiente.
+
+c) La entidad mantiene respaldo de la totalidad de la información y de las variables utilizadas en la construcción, validación y seguimiento del desempeño de sus metodologías internas de riesgo de crédito, de manera que sea posible para cualquier contraparte replicar íntegramente las metodologías desarrolladas.
+
+d) Las metodologías cuentan con toda la documentación técnica de respaldo, debidamente detallada e inteligible, que contiene la totalidad de los análisis realizados y las decisiones adoptadas. Adicionalmente, se dispone de manuales de usuario o de procedimientos para cada unidad organizacional que desempeña funciones relacionadas con las metodologías internas.
+
+III.2 Requisitos específicos
+
+A.- Desarrollo
+
+a) Las metodologías internas basadas en alguno de los dos métodos establecidos en el N° 3 de este Capítulo, incluyen los siguientes aspectos:
+
+i. Las metodologías internas estiman las provisiones por tipo de deudores y/o de créditos, en los segmentos o niveles que sean pertinentes para cada una las carteras de préstamos de consumo, comercial o hipotecario vivienda. Las segmentaciones de esas carteras son deseables, en la medida que permitan una mayor discriminación del riesgo y contribuyan a una mejor gestión de este, por lo que son particulares a cada entidad. Esas segmentaciones, a modo de ejemplo, pueden considerar tipo de banca, tipo de operación (normal, renegociada, u otras), tipos de crédito, o cualquier otra que sea pertinente.
+
+ii. Las metodologías de calificación (scoring, perfiles de deudores) que sean utilizadas en cualquiera de los métodos, exhiben un alto grado de predictibilidad de la calidad crediticia de los deudores, discriminación constatable entre las calificaciones que la componen y homogeneidad de deudores en cada una de ellas, sin que se observen concentraciones de estos en alguna categoría.
+
+- Cada calificación dentro de una escala de riesgo se define mediante una descripción detallada de los criterios y atributos utilizados para encasillar a los deudores. Esos criterios o atributos explican la discriminación de riesgo contenida en cada calificación.
+
+- Las escalas de riesgos se basan en un enfoque de evaluación prospectivo para calificar o asignar una puntuación a la calidad crediticia de los deudores y consideran en su construcción un horizonte mínimo de 5 años que incluye un período recesivo. Dicho horizonte puede ser excepcionado exclusivamente cuando se utilicen las escalas de riesgo de los scoring de admisión y o comportamiento.
+
+- Existe una estimación de riesgo coherente y adecuada para cada una de las puntuaciones dentro de las escalas de riesgos. Las metodologías de calificación, muestran confiabilidad y robustez en términos de discriminación de riesgo y son sometidos, periódicamente, a pruebas de validación, estabilidad, poder discriminante y backtesting.
+
+iii. La definición de incumplimiento corresponde a la establecida en el numeral 3.2 de este Capítulo, cuyo horizonte temporal de medición es de 12 meses, considerando una frecuencia de observación mensual. Para los créditos con meses de gracia o prórroga contractual en el pago de cuotas, a dicho horizonte se adicionará el número de meses que se utiliza en esa modalidad.
+
+iv. La elección de los algoritmos, métodos o modelos utilizados para la estimación, se encuentran fundamentados, documentados de manera inteligible, tanto para los usuarios internos, como para las entidades externas y supervisores.
+
+v. La estimación de la pérdida esperada constituye una medida de largo plazo, que considere como mínimo 5 años de información histórica, incluyendo una período recesivo. Se podrán ponderar observaciones, con el fin de dar mayor peso a ciertos periodos de tiempo, siempre que no exista una sub-ponderación de periodos recesivos de la economía. En el caso de que se utilicen ponderaciones, estas deben considerar criterios prudenciales y estar debidamente justificadas y sustentadas.
+
+vi. Las variables evaluadas en las metodologías, se basan en las siguientes dos dimensiones: los atributos del deudor o grupo de deudores y las características de sus créditos, cuya elección se sustenta en criterios de predicción y discriminación de riesgo; estabilidad y razonabilidad de las estimaciones. En la primera dimensión, según la cartera evaluada, se consideran al menos las características de riesgo del deudor o grupo de deudores, su carga financiera, leverage, sector de actividad económica, tamaño de la empresa, comportamiento de pago histórico interno y externo, entre otras. Para la segunda dimensión se analizan como mínimo el tipo de operación y sus mitigadores de riesgo (garantías, colaterales y avales/fiadores), la relación saldo del préstamo y valor de la garantía, el grado de prelación de los mitigadores de riesgo, el monto y morosidad de la exposición, el plazo original y residual y características de las reestructuraciones, entre otras.
+
+b) En el caso de optar por el segundo método del N° 3 de este Capítulo, para la estimación de los componentes PI y PDI, debe considerarse adicionalmente a lo señalado en la letra a) anterior, lo siguiente:
+
+i. En la determinación de la PI, independiente del tipo de algoritmo, método o modelo utilizado para la estimación, las observaciones de los deudores y/o sus créditos que no estén presentes en algún período del horizonte temporal mencionado en a).iii, son ajustadas a fin de que no exista una sub-estimación del incumplimiento de pago. En caso que la estimación de este parámetro se obtenga mediante el cálculo de tasas de incumplimientos, el ajuste consiste en ponderar las observaciones sin incumplimientos por la proporción de meses en que efectivamente los deudores y/o sus créditos fueron considerados, en relación con la ventana temporal de 1 año.
+
+ii. En caso de efectuar ponderaciones en la estimación de la componente PI, con el fin de dar mayor peso a ciertos periodos de tiempo, esta no puede distorsionar la perspectiva tendencial o de largo plazo que posee dicho componente.
+
+iii. En el caso que la entidad utilice la componente PI obtenida directamente de sus modelos de admisión y/o comportamiento, dichos modelos consideran en las etapas de desarrollo, seguimiento y validación, lo señalado en el presente Anexo.
+
+iv. Para al cálculo del componente PDI, los flujos de recuperaciones netos observados desde el incumplimiento, consideran aquellos ingresos provenientes del pago directo por parte del deudor, gestiones de cobranza, acciones judiciales y remates, adjudicación, mantención y venta de garantías; menos todos los gastos que se requieren para llevar a cabo esas acciones. Cada componente del flujo de recuperaciones netas, ya sea ingreso o egreso, es computado a su valor presente al momento del incumplimiento de la operación.
+
+v. Las tasas de interés para el descuento de los flujos de recuperación deben ser las económicamente relevantes, considerando una prima por riesgo de crédito equivalente a la contraparte y al tipo de operación, y el plazo de cada flujo.
+
+vi. El criterio o método para determinar el horizonte temporal de recuperación guarda relación y razonabilidad con el plazo y frecuencia de las recuperaciones, así como con los procesos de cobranza. Asimismo, dicho horizonte de recuperación debe ser uniforme para cada cartera, a fin de asegurar que los flujos se computen de forma homogénea.
+
+B.- Implementación, seguimiento y validación de metodologías internas
+
+a) Respecto a la implementación, los resultados obtenidos según el método 1 o 2 empleado, y los componentes (PI, PDI u otro) determinados, son aplicados de acuerdo a las segmentaciones establecidas para estos, obteniéndose el nivel de provisiones conforme a lo establecido en el presente Capítulo y en el Capítulo B-3 de este Compendio.
+
+b) Durante los dos años previos a la presentación de una solicitud, las metodologías internas cumplen los siguientes aspectos:
+
+i. Los procesos de seguimiento del desempeño de cada una de las segmentaciones definidas, de los componentes y de los resultados de las metodologías internas, son confiables y robustos, lo que se sustenta mediante pruebas empíricas y estadísticas (estabilidad poblacional, indicadores de discriminación, entre otras).
+
+ii. Determinan provisiones suficientes, sustentadas en métodos de backtesting que permiten comparar las estimaciones obtenidas de las metodologías internas con información real, acorde a las segmentaciones y predicciones efectuadas y según lo establecido en el numeral 7.1 de este Capítulo.
+
+iii. Existen informes periódicos hacia los encargados de la gestión de riesgo, a las áreas comerciales, a la alta administración y al Directorio. Los informes dan cuenta al menos de las pruebas definidas en los literales i y ii precedentes, los resultados del test de uso y el impacto que resulta de aplicar para cada cartera o segmentación, los resultados de las metodologías internas y los componentes, según sea el método, frente a escenarios base y de tensión.
+
+### IV. Presentación y contenido de solicitudes
+
+La entidad podrá presentar a esta Superintendencia sólo una solicitud por cada período de 12 meses, componiéndose esta de metodologías internas desarrolladas solo para un tipo de cartera (comercial, consumo o hipotecaria vivienda). En el caso de ser rechazada una solicitud, debido a incumplimientos que pudieran considerarse significativos, de los requisitos establecidos en la presente norma, la institución no podrá volver a presentar la misma u otra, dentro de los 12 meses siguientes.
+
+El banco deberá presentar a esta Superintendencia un documento que contenga toda la información solicitada en Anexo N° 2, cuyo total cumplimiento de los requisitos y documentación allí solicitada se encuentre previamente certificado por la función de validación y aprobado por el Directorio.
+
+### V. Revisiones de la Superintendencia
+
+V.1 Evaluación de metodologías internas
+
+El posible uso de las metodologías internas que se presenten a esta Superintendencia, dependerá del adecuado cumplimiento de los requisitos referidos en los numerales II y III del presente Anexo. Por lo tanto, si este este Organismo no tiene objeciones que formular al respecto, la entidad podrá comenzar a utilizar las metodologías aprobadas desde el momento en que sea notificada formalmente de esa situación.
+
+V.2 Seguimiento de metodologías internas por parte de la Superintendencia
+
+Este Organismo efectuará un seguimiento de las metodologías internas de riesgo de crédito, verificando su alineación con los pre-requisitos y requisitos establecidos en los numerales II y III del presente Anexo.
+
+V.3 Incumplimiento de los requisitos mínimos de metodologías internas no objetadas
+
+Junto con determinar las provisiones mediante las metodologías internas no objetadas, la entidad deberá continuar efectuando, al menos trimestralmente, los análisis indicados en b).i, ii y iii del numeral III.2, letra B. Adicionalmente, en caso que durante las revisiones de seguimiento efectuadas por la propia institución se observe cualquier incumplimiento de los requisitos establecidos en estas normas, tendrá la obligación de informar oportunamente a este Organismo, mediante carta dirigida al Superintendente, detallando los hechos.
+
+En el caso de incumplimiento de cualquiera de los pre-requisitos establecidos en las letras a) y b) del numeral II de este Anexo, el banco deberá volver a computar las provisiones según el enfoque estándar que corresponda, teniendo en consideración lo establecido en el número 3 de este Capítulo y disponiendo de un plazo de hasta tres meses para estos efectos. Se procederá de igual forma, si los resultados de las evaluaciones efectuadas por la institución o esta Superintendencia, comprometen la confiabilidad de las metodologías internas y la suficiencia de los niveles de provisiones.
+
+### VI. Disposición transitoria
+
+En prerrequisito establecido en la letra b) del título II de este Anexo, se entenderá cumplido considerando también la calificación "En cumplimiento aceptable" que se eliminó mediante la Circular N° 3.582 de 14.05.2015.
+
+Capítulo B-1
+
+Anexo Nº 2
+
+ANEXO N° 2
+
+REQUERIMIENTO DE INFORMACIÓN PARA LA SOLICITUD DE EVALUACIÓN DE METODOLOGÍAS INTERNAS DE RIESGO DE CRÉDITO
+
+1 Antecedentes Generales
+
+1.1 Aspectos de governance de las metodologías internas. Esto considera lo siguiente:
+
+a) Estatuto correspondiente a los comités relacionados con las metodologías internas, sus integrantes y las actas que den cuenta de la toma de decisiones de todo el proceso respecto de los requerimientos del Anexo N° 1.
+
+b) Manual de políticas en el que se detallen los lineamientos mencionados de desarrollo, validación, implementación, seguimiento e integración a la gestión de las metodologías internas.
+
+c) Actas de las sesiones de Directorio que den cuenta de la aprobación de los estatutos y lineamientos mencionados en los puntos a) y b) anteriores, incluyendo aquella referida en el numeral II.c del Anexo N° 1.
+
+1.2 Descripción detallada de la estructura organizacional, de las actividades y responsabilidades del Directorio, alta administración, comités y unidades funcionales que se encuentran relacionadas con las metodologías internas, incluyendo la cantidad de integrantes involucrados.
+
+1.3 Descripción de las metodologías internas que son objeto de solicitud y los criterios utilizados para la segmentación. Incluir los montos de colocaciones, provisiones, cantidad de deudores y riesgo, asociados a cada metodología y segmento, para los 2 años en que estas han estado integradas a la gestión.
+
+1.4 Documento que detalle la integración de las metodologías en la gestión de riesgo de crédito de la entidad, considerando los objetivos, alcance, funciones, métodos y componentes implementados.
+
+2 Antecedentes de las metodologías internas
+
+2.1 Entorno tecnológico
+
+a) Documento que describa el entorno tecnológico, sus sistemas fuentes (admisión, gestión, seguimiento, etc.) y los procesos dedicados a extraer la información requerida desde dichos sistemas, junto con los controles asociados a este.
+
+b) Informe de evaluación de un área técnica independiente, de los requerimientos descritos en el apartado III.1 letra b), del Anexo N° 1.
+
+2.2 Diseño de metodologías: Documento técnico que describa en forma detallada, todo el proceso de confección de las metodologías, incluyendo el sustento de cada criterio, procedimiento y decisiones adoptadas. Dicho documento al menos debe contener la siguiente información según sea aplicable:
+
+i. Período de Estudio: Definición de los períodos de observación y desempeño empleados para confeccionar la metodología interna.
+
+ii. Segmentación: Descripción de las segmentaciones y sub-segmentaciones efectuadas, incluyendo para cada período de estudio, la cantidad de casos de la población y/o muestra si esta última se ha realizado. En caso de emplear muestras, describir el método de muestreo empleado y el procedimiento de selección de estas.
+
+iii. Definición de Incumplimiento: Incluir la cantidad de casos con y sin incumplimiento respecto del tamaño de la población y/o muestra para cada segmento.
+
+iv. Variables empleadas: De acuerdo con el método que se utilice, detallar cada una de las variables consideradas (todas las que se probaron, inclusive las que finalmente fueron desechadas) en la metodología; los criterios utilizados para la elección de esas variables; su definición y nomenclatura; escala de medición; codificación y su estratificación; análisis descriptivo y exploratorio de datos realizado a dichas variables, sus resultados razonados y las acciones tomadas a partir de este análisis.
+
+v. Método directo de cálculo de porcentaje de PE: Para este tipo de metodología, además de los puntos antes descritos, se incluirá en forma detallada la totalidad de análisis efectuados que permitieron obtener la pérdida esperada bajo el primer método, de acuerdo a lo establecido en el N° 3 de este Capítulo.
+
+vi. Método basado en PI y PDI: Para este tipo de metodología, además de los puntos en i) a iv), incluir en forma detallada la totalidad de análisis efectuados para cada una de las componentes.
+
+- En el caso de la PI, especificar el algoritmo de selección de variables, los criterios empleados en ese proceso, los resultados de los distintos pasos involucrados hasta la obtención del modelo definitivo y la determinación de perfiles de clientes, cuando ello se realice. Asimismo, para el modelo escogido, incluir los test estadísticos y parámetros, tanto en la muestra de construcción como validación. Por su parte, si el cálculo de este componente se realiza directamente mediante tasas de incumplimiento, detallar el procedimiento de calibración. Finalmente, describir los distintos criterios considerados, en concordancia con los requerimientos del apartado III.2.A letra b), numerales i) y ii) del Anexo N° 1.
+
+- En el caso de la PDI, explicitar los requerimientos del apartado III.2.A letra b), numerales iv) al vi) del Anexo N° 1.
+
+vii. Ponderaciones: En caso de efectuar las ponderaciones descritas en apartado III.2.A letra a), numeral v) y letra b) numeral ii), del Anexo N° 1, especificar el método utilizado.
+
+2.3 Aplicación y seguimiento de metodologías
+
+a) Manual en el que se detalle el procedimiento de cálculo y los criterios utilizados en la aplicación mensual de la metodología interna.
+
+b) Manual en que se detalle el procedimiento de cálculo de los procesos de seguimiento del desempeño de las metodologías internas, sus segmentaciones y componentes de riesgo; así como la suficiencia de provisiones.
+
+c) Informes evolutivos de seguimiento para cada uno de los requerimientos descritos en apartado III.2.B letra b) del Anexo N° 1.
+
+2.4 Metodologías de admisión y/o comportamiento: En caso que la entidad las emplee o incorpore el resultado de estas en las metodologías internas para efectos de la determinación de provisiones, adjuntar documentación en que se describan en forma detallada, los aspectos señalados en los puntos 2.2 y 2.3 anteriores y en el apartado III.2.A letra b), numeral iii) del Anexo N° 1.
+
+2.5 Bases de Datos: Bases de datos y diccionario de variables que contengan, para cada metodología la totalidad de información empleada, de manera que permita efectuar íntegramente la réplica de su construcción y funcionamiento.
+
+a) Desarrollo de metodologías internas: Base de datos con el detalle a nivel de RUT y operación de: período de selección y seguimiento; muestra seleccionada; marca de incumplimiento; nombre de la metodología interna; segmento y sub-segmento; productos; totalidad de las variables iniciales consideradas en el análisis (originales, construidas y transformadas) y los resultados de estas y puntajes y/o perfiles según corresponda. En el caso de metodologías basadas en PI y PDI, incluir además los coeficientes de las variables; resultados de las componentes; y cualquier otra información relevante empleada en la construcción.
+
+b) Funcionamiento de metodologías internas: para el cierre de mes previo al de la solicitud de evaluación de la metodología interna, base de datos que contenga: RUT deudores sujetos a provisión; Dígito Verificador; Nombre de la metodología interna; Segmento; Sub-segmento; Código de Operación, Código de Producto; Descripción del producto; Puntaje de Admisión y Seguimiento (todo lo anterior según el formato interno de la entidad); Código de Operación de acuerdo a los archivos respectivos del MSI; Nombre de Producto (según formato Formulario M2); Totalidad de las variables involucradas en el proceso de determinación de provisiones y sus resultados (coeficientes, tasas, PI, PDI, PE, etc).
+
+c) Diccionario de variables para las bases de datos solicitadas en a) y b) anteriores, en el que se describa la nomenclatura de los campos, junto con la codificación y definición de cada una de sus categorías.
+
+3 Informes emitidos por la función de validación, que den cuenta de las revisiones efectuadas por esta a las metodologías internas presentadas a evaluación, de acuerdo con lo contemplado en el punto III.1 letra a) del Anexo N° 1.
+
+4 Informe realizado a la integración de las metodologías internas en la gestión diaria de los riesgos (test de uso), conforme con lo señalado en el apartado II letra d), del Anexo N° 1.
 
 Compendio de Normas Contables
 
