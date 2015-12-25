@@ -94,6 +94,16 @@ Corresponderá comprobar las emanaciones de los olores y la intensidad de los de
 
 Artículos 13º.- Se prohíbe en locales de expendio de bebidas alcohólicas o analcohólicas, con o sin consumo de alimentos, la presentación de espectáculos que atenten contra la moral o las buenas costumbres, como asimismo la aparición de artistas desnudos en forma parcial o total, o simulando el desnudo mediante el uso de ropas transparentes, prohibición que afectará también al personal que atiende el negocio.
 
+Asimismo, sin perjuicio de lo establecido en el artículo 40 de la ley Nº 19.925, en todo establecimiento en que se expendan bebidas alcohólicas para ser consumidas fuera del local de venta o de sus dependencias, deberá exhibirse en los lugares de pago de forma destacada y visible al público, un cartel de 60 centímetros de alto por 40 centímetros de ancho, con la siguiente leyenda:
+
+"La venta, obsequio o suministro de bebidas alcohólicas a menores de 18 años, está penada por la ley hasta con prisión".
+
+"Ley Nº 19.925, Art. 42".
+
+"Ordenanza Local para el Ejercicio del Comercio en la Comuna de Las Condes, Art. 13º".
+
+Dicho cartel será proporcionado gratuitamente por la Municipalidad, a través del Departamento de Patentes Municipales. La no exhibición del cartel antes indicado se sancionará con multa de 1 a 3 UTM.
+
 #### Artículo 14º
 
 Los establecimientos sorprendidos funcionando sin patente serán clausurados en forma inmediata y aquellos que se encuentren en mora en el pago de su patente se les cursará denuncia al Juzgado de Policía Local, dándoles un plazo para cumplir con esta obligación.
@@ -109,6 +119,10 @@ Los permisos precarios otorgados para el comercio en la vía pública, mercados 
 Todas infracción a esta ordenanza será sancionada con un multa equivalente a un mínimo de una U.T.M. y a un máximo de tres U.T.M., sin perjuicio de las sanciones que establece el D.L. Nº 3.063 Ley sobre Rentas Municipales.
 
 Las infracciones reiteradas permitirán a la Municipalidad dejar sin efecto la autorización de funcionamiento del establecimiento infractor, y en consecuencia decretar la clausura del mismo.
+
+#### Artículo TRANSITORIO
+
+Los establecimientos a que se ha hecho referencia en el numeral I precedente, tendrán un plazo de 45 días corridos para la instalación del cartel, contados desde la publicación del presente decreto.
 
 Anótese, comuníquese, publíquese y archívese.- Carlos Correa Sanfuentes, Alcalde.- Paulina Avaria Benaprés, Secretario Abogado Municipal.
 
