@@ -218,7 +218,7 @@ Los requisitos objetivos que deban cumplir los estudiantes para la asignación d
 
 En los casos que corresponda establecer la situación socioeconómica del alumno, se utilizará como instrumento de evaluación uniforme el Formulario Único de Acreditación Socioeconómica, en adelante "FUAS" que administra el Ministerio de Educación.
 
-A partir de dicho instrumento, se recabarán antecedentes que permitan clasificar la situación socioeconómica del alumno en los tramos de ingresos establecidos según la Encuesta de Caracterización Socioeconómica Nacional, CASEN, realizada por el Ministerio de Desarrollo Social, o del instrumento que la reemplace, la cual distribuye la población en deciles (o 10% de los hogares del país) ordenados en forma ascendente de acuerdo al ingreso autónomo per cápita del hogar, donde el primer decil (decil I) representa el 10% de la población con menores ingresos del país y el décimo decil (decil X) el 10% de la población con mayores ingresos.
+El procedimiento de recolección de antecedentes y de calificación de la situación socioeconómica del "FUAS" se fijará mediante el correspondiente acto administrativo.
 
 #### Artículo 14
 
@@ -274,7 +274,7 @@ La postulación a las becas señaladas en el artículo 1º del presente reglamen
 
 6. El postulante deberá aceptar los "términos y condiciones" establecidos por el Ministerio de Educación, tanto para el proceso de postulación, como para acceder al formulario de postulación (FUAS).
 
-7. Para todos los efectos, se considerará que la postulación finaliza con la presentación de los antecedentes socioeconómicos que respaldan lo declarado en el FUAS, documentos que deben ser presentados en la Institución de Educación Superior donde se encuentre matriculado el postulante, a excepción de lo dispuesto a propósito de las Becas de Estudiantes para Hijos de Profesionales de la Educación, Vocación de Profesor, de Reparación y de Reubicación.
+7. En aquellos casos que el Ministerio de Educación requiera que el estudiante presente documentos que acrediten su situación socioeconómica, se entenderá que la postulación finaliza con la presentación de los antecedentes socioeconómicos que respaldan lo declarado en el FUAS, los cuales deben ser presentados en la Institución de Educación Superior donde se encuentre matriculado el postulante.
 
 #### Artículo 19
 
