@@ -32,8 +32,6 @@ El monto definitivo a considerar para cada postulante seleccionado será determi
 
 > **Nota.** Las letras a), b) del numeral 1° de la Resolución 9963, Vivienda, publicada el 28.12.2015, modifica la presente norma en el sentido de reemplazar la primera tabla y la tercera tabla respectivamente, del resuelvo 1.
 
-> **Nota.** NOTA 1 Las letras a y b del numeral 2 de la Resolución 1929 Exenta, Vivienda, publicada el 30.08.2019, modifican la tabla del resuelvo 1 en el sentido de reemplazar en la comuna de Huara de la Región de Tarapacá, las filas 2, 4, 7, 10, 11 y 12 y en la comuna de Pozo Almonte de la Región de Tarapacá, las filas 2, 3, 4, 6, 10, 12, 13, 14 y 16 por las filas que la citada norma indica
-
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
