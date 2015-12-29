@@ -1,0 +1,43 @@
+MODIFICA RESOLUCIÓN Nº 3.445 EXENTA (V. Y U.), DE 2013, QUE APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS DEL PRIMER LLAMADO NACIONAL 2013, DEL SISTEMA INTEGRADO DE SUBSIDIO HABITACIONAL, REGULADO POR EL D.S. Nº 1 (V. Y U.), DE 2011, EN EL SENTIDO QUE INDICA
+
+Santiago, 22 de diciembre de 2015.- Hoy se resolvió lo que sigue:
+
+Núm. 9.966 exenta.
+
+Visto:
+
+El D.S. Nº 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional y sus modificaciones, en especial lo dispuesto en el inciso segundo de su artículo 27; la resolución exenta Nº 716 (V. y U.), de fecha 5 de febrero de 2013, publicada en el Diario Oficial del 8 de febrero de 2013; la resolución exenta Nº 3.445, de fecha 17 de mayo de 2013 (V. y U.), publicada en el Diario Oficial del 24 de mayo de 2013; el oficio Nº 6.431, de fecha 21 de octubre de 2015, del Director Serviu Región del Maule, por el que solicita autorización de aplicación del subsidio habitacional correspondiente al Certificado de Subsidio Habitacional Serie DS1T2 1-2013 NA02876, en la Región de Valparaíso; y
+
+Considerando:
+
+a) Que por resolución exenta Nº 716 (V. y U.), de 2013, modificada por la resolución exenta Nº 3.445 (V. y U.), de 2013, se formuló el Primer Llamado Nacional 2013 para postulación al Sistema Integrado de Subsidio Habitacional, regulado por el D.S. Nº 1 (V. y U.), de 2011;
+
+b) Que por resolución exenta Nº 3.445 (V. y U.), de 2013, se aprobaron las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al Primer Llamado Nacional 2013, realizada a través de la resolución exenta señalada en el considerando precedente, fijándose en 3.958 el número de postulantes individuales seleccionados en su Título II;
+
+c) Que entre los postulantes seleccionados por la resolución exenta Nº 3.445 (V. y U.), de 2013, señalada se incluyó, entre otros, a la persona que a continuación se individualiza, a cuyo favor se extendió el Certificado de Subsidio Habitacional que se indica:
+
+.
+
+d) Que por oficio Nº 6.431, citado en el Visto de esta resolución, el Director del Serviu Región del Maule solicitó autorización para modificar la Región de aplicación del Subsidio otorgado a la persona que se individualiza en el considerando c) de esta resolución, en la forma que se señala a continuación:
+
+.
+
+e) Que de acuerdo a los antecedentes adjuntos al oficio señalado en el considerando anterior, entre los cuales se encuentra el Certificado emitido por el Departamento de Recursos Humanos de AFP Provida S.A., permiten tener por acreditado que la beneficiaria singularizada en el considerando c) anterior y su grupo familiar, residen en la Región de Valparaíso, y habiéndose extendido su certificado para aplicar el subsidio en la Región del Maule, es procedente acoger su solicitud en el sentido de permitirle aplicarlo en la Región de Valparaíso y emitir un nuevo Certificado de Subsidio en reemplazo del anterior, dicto la siguiente:
+
+Resolución:
+
+1º.- Modifícase la resolución exenta Nº 3.445 (V. y U.), de 2013, que aprueba la nómina de postulantes seleccionados correspondiente al Primer Llamado Nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el D.S. Nº 1 (V. y U.), de 2011, en el sentido de eliminar a la persona individualizada en el considerando c) de esta resolución, de la nómina de postulantes seleccionados correspondiente a la Región del Maule, Título II, e incluirla en la nómina de beneficiarios de la Región de Valparaíso del mismo Título II.
+
+2º.- Como consecuencia de lo dispuesto en el número anterior, rebájase en uno (1) el número de postulantes seleccionados y en 230 UF el monto de recursos necesarios para financiar el subsidio directo para la atención de los postulantes seleccionados en la Región del Maule, Título II, en el Primer Llamado Nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el D.S. Nº 1 (V. y U.), de 2011, y auméntase en uno (1) el número de postulantes seleccionados y en 230 UF el monto de recursos necesarios para financiar el subsidio directo de dicho postulante, en la Región de Valparaíso, Titulo II, en el llamado referido.
+
+3º.- Atendido lo anterior, modifíquense las tablas, insertas en el resuelvo 1º y 2º de la resolución exenta Nº 3.445 (V. y U.), de 2013, por las siguientes:
+
+.
+
+4º.- Autorízase el cambio de Región de aplicación del Subsidio Habitacional de la beneficiaria individualizada en el considerando c), de la presente resolución, en el sentido de permitir su aplicación en la Región de Valparaíso.
+
+5º.- Emítase un nuevo Certificado de Subsidio Habitacional en favor de doña Loreto Elizabeth Romero Fox, Cédula de Identidad Nº 14.206.385-9, y anúlese el certificado Nº 109503 que consignaba como lugar de aplicación del beneficio la Región del Maule.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
