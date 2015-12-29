@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 459 EXENTA DE 3 DE DICIEMBRE DE 2015
+
+Por resolución exenta Nº 459, de 3 de diciembre de 2015, de la Secretaría Regional Ministerial de la Región del Biobío, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región del Biobío, celebrado con el concesionario TÜV Rheinland Andino S.A., aprobado por la resolución exenta Nº 316 de fecha 8 de noviembre de 2004 de la citada Secretaría Regional, hasta el día 31 de diciembre de 2016 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esa Región, a través de la resolución Nº 288, de 26 de diciembre de 2013, modificada por la resolución Nº 120, de 10 de abril de 2014, cualquiera que ocurra primero, y siempre que hubieren cesado las condiciones que motivan dicho acto administrativo.
+
+César Arriagada Lira, Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
