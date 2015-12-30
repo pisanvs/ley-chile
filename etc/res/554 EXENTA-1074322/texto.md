@@ -20,7 +20,7 @@ Las asignaciones de subsidio se efectuarán en forma mensual, con los inscritos 
 
 La primera selección se realizará con los inscritos en cada modalidad al último día hábil del mes en que sea publicada la presente resolución en el Diario Oficial.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 543.863 Unidades de Fomento para el Sistema Integrado de Subsidio Habitacional y de 547.448 Unidades de Fomento para el Programa Habitacional Fondo Solidario de Elección de Vivienda.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 633.400 Unidades de Fomento para el Sistema Integrado de Subsidio Habitacional y de 547.448 Unidades de Fomento para el Programa Habitacional Fondo Solidario de Elección de Vivienda.
 
 Podrán inscribirse en alguna de las modalidades de aplicación del subsidio, los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados, hubiesen estado o no residiendo en la vivienda siniestrada.
 
@@ -95,6 +95,8 @@ En caso que los damnificados que se inscriban en alguna de las alternativas a qu
 Los damnificados que residían en una zona que no fue afectada por la catástrofe y que por ello no habitaban la vivienda siniestrada, podrán inscribirse en alguna de las modalidades de aplicación del subsidio a que se refiere esta resolución, siempre y cuando no sean propietarios de otra vivienda, a menos que acrediten que esta última vivienda también se encuentra inhabitable, lo que deberá ser certificado por la Dirección de Obras Municipales respectiva.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
+
+> **Nota.** El numeral 1° de la Resolución 8416 Exenta, Vivienda, publicado el 05.11.2015, modifica la presente norma en el sentido de ampliar el plazo de postulación de las modalidades Construcción en Sitio Propio o Densificación Predial con pago de subsidio posterior, reguladas por el DS Nº 1 (V. y U.), de 2011, y de las modalidades Construcción en Sitio Propio con pago por avance de obras y Densificación Predial en condominios, reguladas por el DS Nº 49 (V. y U.), de 2011, hasta el día 30 de noviembre de 2015.
 
 ### Párrafo 2º — Modalidad de Adquisición de Viviendas nuevas o usadas.
 
