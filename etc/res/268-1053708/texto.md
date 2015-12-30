@@ -1288,53 +1288,77 @@ correspondientes a su dotación;
 
 30) Autorizar, suscribir y aprobar todos los actos
 
-administrativos y contratos necesarios para el
+administrativos y contratos necesarios para
 
-suministro de bienes muebles y provisión de
+el suministro de bienes muebles y provisión
 
-servicios que se requieran para el desarrollo de
+de servicios que se requieran para el
 
-las funciones de la dirección regional respectiva
+desarrollo de las funciones de la Dirección
 
-efectuadas a través de cualquiera de los
+Regional respectiva efectuadas a través de
 
-mecanismos de contratación contemplados en la ley
+cualquiera de los mecanismos de contratación
 
-Nº 19.886 y su reglamento, respecto de
+contemplados en la Ley Nº 19.886 y su
 
-contrataciones cuya cuantía no exceda las 2.500
+reglamento, respecto de contrataciones cuya
 
-UTM, incluida la facultad de modificar,
+cuantía no exceda las 2.500 UTM, incluida
 
-rectificar dichos actos o contratos, poner
+la facultad de modificar, rectificar
 
-término a estos últimos y de autorizar el pago a
+dichos actos o contratos, poner término a
 
-proveedores, cuando corresponda, en el evento de
+estos últimos y de autorizar el pago a
 
-no darse estricto cumplimiento a dicha normativa,
+proveedores, cuando corresponda, en el
 
-sin perjuicio de perseguir las eventuales
+evento de no darse estricto cumplimiento
 
-sanciones administrativas a que ello diere lugar
+a dicha normativa, sin perjuicio de
 
-mediante procesos disciplinarios ordenados
+perseguir las eventuales sanciones
 
-instruir por el/la director/a regional o por la
+administrativas a que ello diere lugar
 
-jefatura superior del servicio, según corresponda
+mediante procesos disciplinarios
 
-al mérito de los antecedentes.
+ordenados instruir por el/la Director/a
 
-Se excluye de la presente delegación el trato o
+Regional o por la Jefatura Superior del
 
-contratación directa contemplada en el literal c)
+Servicio, según corresponda al mérito
 
-del artículo 8º de la ley Nº 19.886 y en el
+de los antecedentes. En el caso que se
 
-número 3 del artículo 10 del reglamento de dicho
+trate de ejecución financiera del
 
-cuerpo legal;
+Programa de Fomento del Arte en la
+
+Educación, respecto de contrataciones
+
+que se efectúen mediante licitación
+
+pública, dicha delegación se aplicará
+
+respecto de aquellas cuya cuantía no
+
+exceda las 5.000 UTM.
+
+Se excluye de la presente delegación
+
+el trato o contratación directa
+
+contemplada en el literal c) del
+
+#### Artículo 8º
+
+de la Ley Nº 19,886 y en
+
+el número 3 del artículo 10 del
+
+reglamento de dicho cuerpo legal.;
 
 31) Suscribir, aprobar, modificar y poner término a
 
