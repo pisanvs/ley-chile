@@ -44,6 +44,8 @@ Resolución:
 
 3.4 Podrán postular a este llamado las familias que hayan sido beneficiadas con un subsidio del Programa de Protección del Patrimonio Familiar que aún no haya sido pagado, siempre que Serviu evalúe previamente y certifique que ambas reparaciones son compatibles.
 
+3.5 En caso de familias que hayan iniciado las reparaciones sin contar con el subsidio aún asignado, se podrá pagar las labores ya ejecutadas previa aprobación del Serviu, a través de la evaluación de un Informe Estructural que indique que las obras se ejecutaron correctamente. El Serviu podrá contratar una Asistencia Técnica para la elaboración de este informe, con lo que contará con un máximo de 7 UF para esta labor. El monto del subsidio será de un máximo de 30 UF y se le pagará directamente al beneficiario.
+
 4. Los postulantes a este llamado extraordinario estarán eximidos de cumplir los siguientes requisitos y condiciones establecidos en el DS Nº 255 (V. y U.), de 2006:
 
 4.1 De acreditar un ahorro mínimo, exigido en el artículo 9.
