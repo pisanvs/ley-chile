@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 6.051 EXENTA, DE 16 DE DICIEMBRE DE 2015
+
+Por resolución exenta Nº 6.051, de 16 de diciembre de 2015, de la Secretaría Regional Ministerial de la Región Metropolitana, se han prorrogado nuevamente los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región Metropolitana, señalados en la resolución exenta Nº 5.393, de 26 de octubre de 2015, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, hasta el día 30 de abril de 2016 respecto de todas las plantas revisoras de la concesión Nº 2 y 3; planta revisora B 1318, de la concesión Nº 4; y plantas revisoras B 1305, B 1302 y A2 1301, de la concesión Nº 1.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
