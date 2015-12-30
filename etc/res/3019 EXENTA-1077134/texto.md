@@ -206,6 +206,8 @@ El número de proyectos seleccionados en cada región alcanzará hasta la cantid
 
 7.7 De la exigencia referida al Plan de Habilitación Social, contenida en los artículos 16 letra I) y 21 letra i).
 
+7.8 De lo establecido en la letra a) del artículo 37, referido al endoso del certificado de subsidio para proceder a su pago.
+
 8. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 8.1 Sólo podrán participar de este llamado las personas inscritas en el registros de damnificados MINVU y que además cuenten con viviendas calificadas con "daño reparable moderado" y "daño reparable mayor", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo.
@@ -282,6 +284,10 @@ c) Criterio de definición regional.
 
 8.10 En este llamado se encontrarán habilitadas para desarrollar la Etapa 2 "Contratación de Obras y Fiscalización Técnica de Obras" las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la Seremi de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente.
 
+8.11 Para su ejecución, las obras se dividirán en 3 tipos: "Instalación de Colectores Solares"; "Instalación de Paneles Fotovoltaicos" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del Resuelvo 5, a excepción de los subsidios de Colectores Solares y Fotovoltaicos, señalados precedentemente. Podrán existir contratos de construcción que consideren más de un tipo de obras, o contratos específicos para cada tipo de obra. Ambas modalidades deberán dar cumplimiento a lo establecido en la letra d) del artículo 37 del DS Nº 255 (V. y U.), de 2016, respecto a la boleta de garantía.
+
+Los Serviu de las Regiones de Antofagasta y Atacama deberán solicitar el o los contratos de construcción que correspondan al tipo de obra cuyo subsidio es presentado a cobro, para proceder a su pago, además de los documentos señalados en el artículo 37 del DS Nº 255 (V. y U.), de 2016
+
 DE LA OPERATORIA:
 
 ### 9. Para este llamado, el proceso se divide en 2 etapas:
@@ -312,27 +318,27 @@ adicional que corresponda, según lo
 
 señalado en el informe técnico.
 
-Pago Etapa 2: Al SERVIU en su calidad de EP y/o a
+Pago Etapa 2: Al Serviu en su calidad de EP y/o a las EP privadas y públicas, se les pagarán los servicios de Asistencia técnica, de acuerdo a lo siguiente:
 
-las EP privadas se les pagarán los
+a) 2 UF por el o los contratos firmados con la o las Empresas Constructoras, monto que se pagará al momento de estar firmados todos los contratos, salvo el contrato asociado al proyecto Fotovoltaico, que podrá ser firmado posteriormente.
 
-servicios de Asistencia Técnica en
-
-2 cuotas, de acuerdo a lo siguiente:
-
-a) 2 UF por el contrato firmado con la Empresa Constructora, más 3 UF para las comunas de Antofagasta y Copiapó y 5 UF para el resto de las comunas señaladas en el Cuadro 2 del punto resolutivo 5 de la presente resolución, correspondientes al monto de asistencia técnica por la fiscalización técnica de obras, monto que se pagará al momento del inicio de obras en cada vivienda.
-
-b) El saldo del monto correspondiente a la Asistencia Técnica por la fiscalización técnica de obras se pagará una vez recepcionado el proyecto por SERVIU y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
+b) Los montos para Fiscalización de Obras, señalados en el cuadro 2 del punto resolutivo 5 de la presente resolución, se pagarán en la proporción que resulte de los tipos de obras que contemple el proyecto y que haya fiscalizado la EP (uno, dos o los tres tipos de obras señalados en el punto 8.11), pagándose éstas una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
 
 En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescrito en el numeral 52 del artículo 6º de dicho acto administrativo, para los servicios de Organización de la Demanda y Postulación de Proyectos y Seguimiento de Proyectos y Fiscalización Técnica de Obras.
 
 11. Los subsidios podrán ser cobrados en la medida que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
-11.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras acreditado mediante informe del fiscalizador, visado por el Serviu. Para las obras que no requieran de Permiso de Edificación, se cursarán 4 pagos divididos en avances del 25% cada uno. Para las obras que requieran de un Permiso de Edificación se realizarán 2 pagos por el 25% y un tercer pago por el de 20%, completando un 70% por avance de obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+Pagos de obras: Las obras de "Instalación de Colectores Solares" y las "Obras de Reparaciones", que no requieran de Permiso de Edificación, se cancelarán cuando estén terminadas y recepcionadas por Serviu.
 
-11.2 Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, éste podrá cobrar hasta el 70% del proyecto terminado, previa recepción del SERVIU de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+En caso que las "Obras de Reparación" hayan contemplado un permiso de edificación y el contratista cobre al finalizar la obra, este podrá cobrar hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+
+Para el caso de las obras de "Instalación de Paneles Fotovoltaicos" se podrá pagar hasta el 70% de este subsidio cuando el contratista presente a la Superintendencia de Electricidad y Combustibles (SEC) el formulario de Declaración TE 4, circunstancia que deberá acreditar al Serviu al momento de solicitar el cobro del subsidio, quedando el 30% restante retenido hasta su total tramitación en SEC.
 
 12. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Antofagasta y Atacama en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el cuadro contenido en el punto Nº 6 de esta resolución.
+
+> **Nota.** El numeral 1° de la Resolución 9275 Exenta, Vivienda, publicado el 03.12.2015, modifica la presente norma en el sentido de ratificar el día 6 de noviembre, como fecha de cierre de selección correspondiente al mes de octubre de 2015, señalado en la citada norma.
+
+> **Nota.** NOTA 1 El numeral 1.1 del numero 1 de la Resolución 10005 Exenta, Vivienda, publicado el 29.12.2015, modifica la presente norma en el sentido de reemplazar el párrafo final del cuadro dos por el siguiente "***Este pago de AT será para el desarrollo de los proyectos indicados en el Resuelvo 4.6, donde se pagará 5 UF para los proyectos CCSS y 5 UF para los Fotovoltaicos".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
