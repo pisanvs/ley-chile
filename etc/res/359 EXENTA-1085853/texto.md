@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A "RIGEL SEGUROS DE VIDA S.A."
+
+Certifico: Que por resolución exenta Nº 359, de 23 de diciembre de 2015 de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Rigel Seguros de Vida S.A.", acordada en Junta Extraordinaria de Accionistas de 2 de diciembre de 2015, cuya acta consta en escritura pública de fecha 3 de diciembre de 2015 y escritura rectificatoria de fecha 14 de diciembre de 2015, ambas otorgadas ante el notario de Santiago don Pablo Alberto González Caamaño, con domicilio en Teatinos Nº 333, entrepiso, Santiago.
+
+La modificación consiste en el aumento del capital social de $4.090.862.900.-, dividido en 130.247 acciones nominativas, de una misma serie y sin valor nominal, íntegramente suscrito y pagado, a $13.335.473.110.- dividido en 207.117 acciones nominativas, de una misma serie y sin valor nominal, mediante la capitalización de la revalorización del capital propio por $244.551.784.- sin la emisión de acciones de pago; y mediante la emisión de 76.870 acciones de pago, correspondiente a $9.000.058.426.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 23 de diciembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
