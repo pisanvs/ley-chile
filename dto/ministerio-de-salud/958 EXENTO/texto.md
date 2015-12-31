@@ -16,11 +16,11 @@ Jefa (T y P) del Departamento de Compras.
 
 Segundo Orden de Subrogancia
 
-Alejandra Patricia Pizarro Guerrero
+D. Víctor Barberis Castex
 
-RUT: 9.909.025-1
+Rut: 10.328.389-2
 
-Jefa Departamento Administración y Finanzas.
+Jefe (T y P) Departamento de Administración, Finanzas y Servicio Interno CENABAST.
 
 2.- Declárase que la Directora subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
