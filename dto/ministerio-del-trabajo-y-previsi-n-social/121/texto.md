@@ -42,7 +42,7 @@ b) No ser integrante de la planta de directivos de la Superintendencia de Seguri
 
 #### Artículo 4°
 
-Cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. Se entenderán elegidos suplentes los afiliados que tengan las siguientes mayorías. Cuando proceda, un representante titular y suplente de los afiliados serán designados por la Asociación de Funcionarios.
+Cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. En caso de empate, se tendrá por elegido al que tenga mayor antigüedad como afiliado al Servicio de Bienestar y en caso de persistir el empate, se considerará la antigüedad en la Superintendencia de Seguridad Social. Se entenderán elegidos suplentes los afiliados que tengan las siguientes mayorías. Cuando proceda, un representante titular y suplente de los afiliados serán designados por la Asociación de Funcionarios.
 
 Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de las votaciones obtenidas por ellos.
 
@@ -64,17 +64,25 @@ a) Con una cuota de incorporación que deberán pagar los afiliados por una sola
 
 b) Con los aportes que anualmente se consulten en el presupuesto de la Superintendencia de Seguridad Social y que ésta aportará conforme a las normas legales, reglamentarias y estatutarias vigentes;
 
-c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 1% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
+c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
 
-d) Con el aporte mensual de sus afiliados jubilados de hasta el 1% de sus pensiones que fijará anualmente el Consejo Administrativo más la cantidad correspondiente al aporte institucional que será de su cargo;
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 2% de sus pensiones que fijará anualmente el Consejo Administrativo más la cantidad correspondiente al aporte institucional que será de su cargo;
 
 e) Con los intereses de los préstamos que otorga el Servicio a sus afiliados;
 
 f) Con las comisiones que perciban en virtud de los convenios que celebren con terceros para el otorgamiento de beneficios a los afiliados;
 
-g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias, y
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias;
 
-h) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
+h) Con los recursos que se generen de la inversión en instrumentos que otorguen rentabilidad, y
+
+i) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
+
+#### Artículo 6º bis
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad a lo dispuesto en el artículo 3º del DL Nº1.056, de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y sólo respecto de los excedentes estacionales de caja, según lo dispuesto en el artículo 2º del DL Nº 1.263 de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados.
+
+El monto de los fondos y la forma en que serán depositados será determinado anualmente por el Consejo Administrativo.
 
 #### Artículo 7°
 
@@ -134,51 +142,75 @@ Otras Prestaciones
 
 El Servicio podrá otorgar las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
+a) Nacimiento o adopción: Se concederá una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho al beneficio en forma independiente. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción de un hijo, circunstancia que debe acreditarse con la respectiva resolución judicial.
 
 b) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1° A la persona designada expresamente para tales efectos por el afiliado;
+1º A la persona designada expresamente para tales efectos por el afiliado;
 
-2° Al cónyuge sobreviviente;
+2º Al cónyuge sobreviviente o al conviviente civil;
 
-3° A los hijos legítimos;
+3º A los hijos;
 
-4° A los hijos naturales;
+4º A los padres;
 
-5° A los padres legítimos;
+5º A la persona que acredite haber efectuado los gastos del funeral.
 
-6° A la persona que acredite haber efectuado los gastos del funeral.
+c) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio, técnico especializada o de educación superior, en algún establecimiento del Estado o reconocido por éste;
 
-c) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste;
+Se entenderá por niveles:
 
-d) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar;
+- 1º nivel de transición (Pre Kinder, 4 a 5 años).
+
+- 2º nivel de transición (Kinder, 5 a 6 años).
+
+- Educación básica.
+
+- Educación media.
+
+- Educación Técnica, Especializada y superior (Centros de Formación Técnica, Instituto Profesional y Universidad).
+
+d) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus causantes de asignación familiar;
 
 e) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 8°;
 
-f) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar, y
+f) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar;
 
 g) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiese otorgado.
 
-El monto de las ayudas contempladas en las letras a), b), c), d),
+h) Matrimonio: Se otorgará una ayuda a cada afiliado que contraiga matrimonio. Si ambos contrayentes estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio;
 
-- **e)** y
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio, y
 
-- **f)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
+j) Cumpleaños: Se concederá una ayuda a los afiliados por el día de su cumpleaños.
+
+El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), h),
+
+- **i)** y
+
+- **j)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
 
 - **g)** del artículo 29, del Reglamento General.
 
 #### Artículo 10°
 
-Para solicitar los beneficios señalados en las letras a), b), c), d) y g) del artículo 9°, el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
+Para solicitar los beneficios señalados en las letras a), b), c), d), g), h) e i del artículo 9°, el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
 
 #### Artículo 11°
 
 El Servicio podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
 
 Asimismo, el Servicio de Bienestar podrá ayudar y financiar, en beneficio de los afiliados y sus cargas familiares, actividades culturales, tales como, grupos folklóricos y de danza, formación de coros, organización de bibliotecas y actividades deportivas y recreativas, en general.
+
+Además, el Servicio celebrará y financiará las Fiestas Patrias, para sus afiliados, siempre que sus disponibilidades presupuestarias lo permitan. El Bienestar para cumplir sus finalidades, siempre que sus recursos lo permitan, podrá:
+
+a) Asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional y/o cultural, y jurídica, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad puede proporcionarle.
+
+b) Celebrar convenios con otros Servicios de Bienestar u otras entidades que otorguen prestaciones de bienestar u otras de seguridad social, tendientes a utilizar los centros recreativos o vacacionales de cualquiera de ellos, a través del arrendamiento de instalaciones o mediante convenios de prestación de servicios, que favorezcan directamente a sus beneficiarios.
+
+c) Celebrar convenios con instituciones comerciales que permitan acceder a descuentos por compras de bienes y servicios a los afiliados al Servicio.
 
 #### Artículo 11 bis
 
@@ -220,7 +252,7 @@ Para solicitar un nuevo préstamo de aquellos señalados por las letras c) y d) 
 
 #### Artículo 15°
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de crédito de casas comerciales, no podrán en ningún caso exceder del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de crédito de casas comerciales, no podrán en ningún caso exceder del 15% de la remuneración del afiliado o de su pensión, según corresponda.
 
 ## Título V — Disposiciones Generales
 
