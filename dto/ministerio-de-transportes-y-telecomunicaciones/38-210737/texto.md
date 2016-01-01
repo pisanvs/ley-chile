@@ -74,7 +74,11 @@ para el caso en que se transporte a niños de
 
 niveles educacionales prebásicos en cantidad
 
-superior a cinco: nombres, apellidos, cédula
+superior a cinco, aun cuando su presencia no sea
+
+obligatoria en los términos del referido decreto
+
+supremo Nº 38 de 1992: nombres, apellidos, cédula
 
 nacional de identidad y domicilio;
 
@@ -115,6 +119,8 @@ d) Nombre y cédula nacional de identidad de los conductores registrados, y
 e) Nombre y cédula nacional de identidad de los adultos acompañantes a que se refiere la letra d) del inciso primero del artículo 3º precedente.
 
 El certificado de inscripción, en original o en copia autorizada, deberá portarse en el respectivo vehículo cuando est' efectuando transporte escolar, lo que es sin perjuicio de la obligación de entregar copia autorizada del referido certificado en el o los establecimientos educacionales que atienda, así como a los padres o apoderados que lo requieran.
+
+Cuando existan situaciones que justifiquen la necesidad de utilizar un vehículo distinto del individualizado en el certificado de inscripción otorgado, y siempre que el vehículo que se vaya a utilizar se encuentre debidamente inscrito en el Registro de la región donde se preste el servicio, tanto el conductor como el adulto acompañante asociado al vehículo impedido, cuando corresponda en este último caso, podrán hacer uso de otro vehículo al cual no estén adscritos, portando, para esos efectos, tanto el certificado de inscripción que corresponda al vehículo impedido como al vehículo que se encuentren utilizando.
 
 #### Artículo 5º
 

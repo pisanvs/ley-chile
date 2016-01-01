@@ -36,7 +36,7 @@ Mientras los niños se encuentren descendiendo o subiendo al vehículo, se deber
 
 #### Artículo 5°
 
-El transporte escolar no podrá realizarse en un tiempo de viaje superior a una hora, desde la casa o domicilio del escolar y el colegio o viceversa.
+El transporte escolar no podrá realizarse en un tiempo de viaje superior a una hora, desde la casa o domicilio del escolar y el colegio o viceversa, sin perjuicio que pueda retrasarse debido a las condiciones especiales de vialidad y niveles de tránsito vehicular, o por razones de fuerza mayor o caso fortuito, situaciones que deberán ser informadas a los padres o apoderados.
 
 #### Artículo 6°
 
@@ -58,7 +58,7 @@ Los vehículos con que se preste servicio de transporte escolar deberán efectua
 
 Los vehículos que presten este tipo de servicios deberán cumplir con los siguientes requisitos:
 
-a) Estar pintados de color amarillo, definido en la norma chilena NCh 1927, pudiendo ser de color negro la zona ubicada inmediatamente bajo el parabrisas, donde se encuentran los pivotes de los limpiaparabrisas, y de color negro o cromado, los parachoques;
+a) Estar pintados de color amarillo, definido en la norma chilena NCh 1927, pudiendo ser de color negro la zona ubicada inmediatamente bajo el parabrisas, donde se encuentran los pivotes de los limpiaparabrisas, y de color negro o cromado, los parachoques. En el caso de los vehículos con peso bruto total igual o superior a 3.860 kilogramos y menor o igual a 5.500 kilogramos, deberán estar pintados de color blanco, o amarillo Nch 1927, pudiendo ser de color negro la zona ubicada inmediatamente bajo el parabrisas, donde se encuentran los pivotes de los limpiaparabrisas, y de color negro, blanco o cromado, los parachoques;
 
 b) Portar en la parte superior de la carrocería, un letrero con las siguientes características:
 
@@ -66,7 +66,9 @@ b) Portar en la parte superior de la carrocería, un letrero con las siguientes 
 
 - En cada cara se insertará la palabra "Escolares", con letras de 12 cm. de alto y 4 cm. de ancho;
 
-- El fondo del letrero deberá ser de color amarillo y las letras de color negro, reflectante, o iluminado, a objeto de permitir su óptima visualización quedando prohibido insertar en él cualquier otra leyenda o figura. Dicho letrero deberá ir apoyado sobre su base e instalado mediante elementos que permitan su fijación temporal para usarse cuando se transporten escolares, y
+- El fondo del letrero deberá ser de color amarillo y las letras de color negro, reflectante, o iluminado, a objeto de permitir su óptima visualización quedando prohibido insertar en él cualquier otra leyenda o figura. Dicho letrero deberá ir apoyado sobre su base e instalado mediante elementos que permitan su fijación temporal para usarse cuando se transporten escolares.
+
+Sin perjuicio de lo anterior, el referido letrero podrá reemplazarse por una identificación visible que contenga la expresión "Escolares", ubicada en el costado inferior derecho de la luneta o ventanas posteriores y en la parte inferior de una de las ventanas laterales del vehículo, en ambos costados de este, con excepción de la ventana del conductor y su acompañante. Esta identificación deberá adherirse o pintarse con letras negras y fondo amarillo, en ambos casos con características reflectantes, en un rectángulo de 36 centímetros de largo por 13 de alto, con letras de un alto de 70 milímetros y un ancho y espesor del trazo de acuerdo al tipo de letra.
 
 c) Sus asientos deberán estar dispuestos de manera que sus ocupantes queden mirando hacia el frente.
 
@@ -80,7 +82,11 @@ Se excluye del cumplimiento de los requisitos establecidos en las letras a),
 
 - **b)** y
 
-- **f)** a los vehículos con peso bruto total igual o superior a 3.860 kilogramos; asimismo, se excluye del cumplimiento del requisito de la letra
+- **f)** a los vehículos con peso bruto total superior a 5.500 kilogramos y del requisito establecido en la letra
+
+- **f)** a los vehículos con peso bruto vehicular igual o superior a 3.860 kilogramos e igual o inferior a 5.500 kilogramos. En todo caso, los vehículos con peso bruto vehicular igual o superior a 3.860 kilogramos e igual o inferior a 5.500 kilogramos, deberán portar la identificación a que se refiere el inciso segundo de la letra
+
+- **b)** precedente.; asimismo, se excluye del cumplimiento del requisito de la letra
 
 - **f)** a todo vehículo que cuente con cintas retrorreflectivas que cumplan con las exigencias que sobre estos elementos y su uso en vehículos de transporte escolar determine, por resolución, el Ministerio de Transportes y Telecomunicaciones.
 
@@ -126,7 +132,7 @@ No obstante lo señalado en la tabla del inciso tercero anterior, tratándose de
 
 La antigüedad máxima de los vehículos de peso bruto total igual o superior a 3.860 kilogramos que realicen transporte de escolares que asisten a establecimientos educacionales rurales será de veintidós (22) años.
 
-La antigüedad permitida para que un vehículo obtenga su primera revisión como transporte escolar será de cinco años o menos, excepto en las Regiones XV, I y XII donde será de siete años o menos. Lo dispuesto en este inciso no se aplicará a los vehículos de peso bruto total igual o superior a 3.860 kilogramos.
+La antigüedad máxima permitida para que un vehículo obtenga su primera revisión como transporte escolar será de siete años. Lo dispuesto en este inciso no se aplicará a los vehículos de peso bruto total igual o superior a 3.860 kilogramos, sin perjuicio que el Secretario Regional Ministerial de Transportes y Telecomunicaciones pueda, mediante resolución fundada y considerando la realidad de la región, establecer antigüedades máximas para esta clase de vehículos.
 
 La antigüedad se calculará restando al año en que se realiza el cómputo, el año de modelo del vehículo, entendiéndose por año de modelo el año de fabricación señalado en el Registro Nacional de Vehículos Motorizados.
 
@@ -146,7 +152,7 @@ Derógase el decreto N° 129-86, del Ministerio de Transportes y Telecomunicacio
 
 #### Artículo 13°
 
-Los vehículos que presten servicios de transporte remunerado de escolares, podrán exhibir en el exterior de su carrocería avisos publicitarios, los que deberán inscribirse exclusivamente sobre su costado izquierdo o derecho o ambos, dentro de un rectángulo imaginario de dimensiones máximas de 80 centímentros de ancho y 60 centímetros de alto, localizado en la parte central del respectivo costado y bajo los bordes inferiores de las ventanas. Los avisos sólo podrán ser de material flexible adhesivo o pintarse sobre la carrocería en el área señalada, estando expresamente prohibido el uso de elementos rígidos de tipo metálico, plástico, maderas u otros, adosados a ella. No se admitirán publicitar productos tales como bebidas alcohólicas, cigarrillos, o cualquier otro producto o servicio dirigido sólo a mayores de edad.
+Los vehículos que presten servicios de transporte remunerado de escolares, podrán exhibir en el exterior de su carrocería avisos publicitarios, los que deberán inscribirse exclusivamente sobre su costado izquierdo o derecho o ambos, dentro de un rectángulo imaginario de dimensiones máximas de 80 centímentros de ancho y 60 centímetros de alto, localizado en la parte central del respectivo costado y bajo los bordes inferiores de las ventanas. Los avisos sólo podrán ser de material flexible adhesivo o pintarse sobre la carrocería en el área señalada, estando expresamente prohibido el uso de elementos rígidos de tipo metálico, plástico, maderas u otros, adosados a ella. No se admitirán publicitar productos tales como bebidas alcohólicas, cigarrillos, o cualquier otro producto o servicio dirigido sólo a mayores de edad, con excepción de productos o servicios financieros, y de mantención, accesorios o repuestos de vehículos.
 
 Asimismo, los vehículos que presten servicios de transporte remunerado de escolares, podrán exhibir publicidad en el extremo inferior de la luneta trasera del vehículo, mediante el uso de una lámina adhesiva de un alto no superior a 30 centímetros, la que en todo caso no deberá obstaculizar la plena visibilidad de la tercera luz de freno.
 
