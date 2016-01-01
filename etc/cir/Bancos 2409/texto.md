@@ -6240,7 +6240,7 @@ Para el caso de los cheques que son llenados con impresoras, debe atenderse tamb
 
 ### 7. Disposiciones transitorias
 
-Las normas del presente Capítulo deben ser aplicadas a más tardar para los formularios de cheques que sean confeccionados a contar del 2 de enero de 2016 y para los formularios de los otros documentos que sean utilizados a partir del 2 de enero de 2017.
+Las normas del presente Capítulo deben ser aplicadas a más tardar para los formularios de cheques que sean confeccionados a contar del 1 de abril de 2016 y para los formularios de los otros documentos que sean utilizados a partir del 1 de abril de 2017.
 
 El stock de los formularios de cheques confeccionados con anterioridad a la vigencia de estas normas, podrá seguir siendo entregado a los usuarios, debiendo en todo caso tomarse las medidas para que todos dispongan de los nuevos formularios a más tardar el 31 de diciembre de 2017.
 
