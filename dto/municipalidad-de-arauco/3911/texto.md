@@ -24,7 +24,7 @@ Decreto:
 
 1. Modifíquese, el artículo 24 de la Ordenanza Municipal sobre derechos municipales por concesiones, permisos y servicios, en el sentido de incorporar el numeral 11, el cual tendrá el siguiente texto:
 
-"11.- Por el servicio de depósito de residuos sólidos domiciliarios u otros permitidos, en Relleno Sanitario de dominio o administración de la Municipalidad de Arauco, previo convenio, se pagará la suma de 1 UTM por tonelada.".
+"11.- Por el servicio de depósito de residuos sólidos domiciliarios u otros permitidos, en Relleno Sanitario de dominio o administración de la Municipalidad de Arauco, previo convenio, se pagará la suma de 0,5 UTM por tonelada.".
 
 2. Publíquese, el presente decreto en el Diario Oficial y en la página web de la Municipalidad.
 
