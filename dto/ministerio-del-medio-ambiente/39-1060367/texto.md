@@ -376,7 +376,7 @@ Supletoriedad. En todo lo no previsto en el presente reglamento, se aplicará su
 
 #### Artículo 26
 
-Entrada en vigencia. El presente reglamento entrará en vigencia el día 1º del mes subsiguiente al de su publicación en el Diario Oficial, excepto por lo dispuesto en su Título IV, que entrará en vigencia el 1 de enero de 2016.
+Entrada en vigencia. El presente reglamento entrará en vigencia el día 1º del mes subsiguiente al de su publicación en el Diario Oficial, excepto por lo dispuesto en su Título IV, que entrará en vigencia el 1 de enero de 2016. Sin perjuicio de lo anterior, la entrada en vigencia del literal a) del artículo 19, se suspende por el plazo de 1 año a contar del 1 de enero de 2016.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.
 
