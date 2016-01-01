@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES Nos 6.310 Y 6.311 EXENTAS, DE 2015
+
+Por resoluciones exentas Nos 6.310 y 6.311, de fecha 23 de diciembre de 2015, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueban Planes y Programas y se otorga Reconocimiento Oficial de Escuela de Conductores Profesionales "Corporación Nueva Ciaspo", RUT Nº 65.088.432-9, representada legalmente por José Esteban López Troncoso, RUT Nº 8.930.953-0, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clase A-3, en la sede ubicada en Corte Suprema Nº 195, comuna de Santiago y taller mecánico ubicado en Ramón Subercaseaux Nº 3060, comuna de Estación Central.
+
+Matías Salazar Zegers, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
