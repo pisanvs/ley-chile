@@ -442,13 +442,13 @@ transitorio: A contar de la publicación del presente decreto, las personas natu
 
 #### Artículo 2°
 
-transitorio: Hasta el 31 de diciembre de 2015:
+transitorio: Hasta el 31 de diciembre de 2016:
 
 a) Para la inscripción en el Registro como Mantenedores, no será exigible el cumplimiento del requisito de Calidad Técnica previsto en el artículo 11 del presente Reglamento, debiendo en todo caso cada proyecto u obra en que intervengan, contar con la aprobación de un profesional o técnico de aquellos a que se refiere dicho artículo 11.
 
 b) Para la inscripción en el Registro de Certificadores, no será exigible el cumplimiento del requisito de Calidad Técnica referido a la acreditación de la NCh 17020.Of2009, criterios generales para el funcionamiento de diferentes tipos de organismos que realizan inspección, o superior, establecido en el artículo 12 del presente Reglamento.
 
-Si al 31 de diciembre de 2015, los inscritos no dieren cumplimiento a los requisitos referidos en las letras a) y b) de este artículo, se procederá a dejar sin efecto la respectiva inscripción.
+Si al 31 de diciembre de 2016, los inscritos no dieren cumplimiento a los requisitos referidos en las letras a) y b) de este artículo, se procederá a dejar sin efecto la respectiva inscripción.
 
 #### Artículo 3º
 
