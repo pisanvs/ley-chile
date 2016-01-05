@@ -146,19 +146,7 @@ Si la cesación se produjere después de acordado el fallo y antes de su expedic
 
 #### Artículo 17
 
-Los Ministros y los Suplentes de Ministro del Tribunal Constitucional deberán efectuar una declaración jurada de patrimonio en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
-
-La declaración de patrimonio deberá efectuarse ante el Secretario del Tribunal, quien la mantendrá para su consulta pública.
-
-La no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
-
-El incumplimiento de la obligación de actualizar la declaración de patrimonio se sancionará con multa de cinco a quince unidades tributarias mensuales.
-
-Las sanciones a que se refieren los incisos anteriores serán aplicadas por el Tribunal Constitucional.
-
-El procedimiento se podrá iniciar de oficio por el Tribunal o por denuncia de uno de sus Ministros. La formulación de cargos dará al Ministro afectado el derecho a contestarlos en el plazo de diez días hábiles. En caso de ser necesario, el período probatorio será de ocho días. Podrán presentarse todos los medios de prueba, los que se apreciarán en conciencia. El Tribunal deberá dictar la resolución final dentro de los diez días siguientes a aquél en que se evacuó la última diligencia.
-
-No obstante lo señalado en los incisos anteriores, el infractor tendrá el plazo fatal de diez días, contado desde la notificación de la resolución que impone la multa, para presentar la declaración omitida o para corregirla. Si así lo hace, la multa se rebajará a la mitad.
+Derogado
 
 #### Artículo 18
 

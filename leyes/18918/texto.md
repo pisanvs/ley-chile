@@ -250,37 +250,15 @@ No regirá este impedimento en asuntos de índole general que interesen al gremi
 
 #### Artículo 5º
 
-C. Los diputados y senadores deberán efectuar, dentro del plazo de treinta días desde que hubieren asumido el cargo, una declaración jurada de intereses ante un notario de su domicilio o de la ciudad donde celebre sus sesiones el Congreso Nacional.
-
-Se entiende por intereses los que sean exigibles para la declaración a que se refiere el artículo 60 de la ley Nº 18.575.
-
-El original de la declaración será protocolizado en la misma notaría donde fue prestada y, en su caso, en otra correspondiente al domicilio del declarante. Además, dentro de quinto día, se remitirá copia de la protocolización a la secretaría de la respectiva Cámara, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado, a su costa. Un facsímil de las declaraciones deberá ser publicado en los sitios electrónicos de la respectiva Corporación.
-
-Los diputados y senadores deberán actualizar su declaración cada vez que se produzca un cambio en sus intereses. Los senadores deberán actualizarla, además, dentro de los treinta días siguientes al inicio de un período legislativo.
-
-Cumplidos los plazos a que se refiere este artículo, el secretario de cada Cámara dará a la publicidad la individualización de los parlamentarios que no hubieren efectuado su declaración.
+C.- Derogado
 
 #### Artículo 5º
 
-D.- Asimismo, los diputados y senadores deberán efectuar, dentro del plazo de treinta días contado desde que hubieren asumido el cargo, una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ante el Secretario General de la respectiva Corporación, quien la mantendrá para su consulta pública. Un facsímil de las declaraciones deberá ser publicado en los sitios electrónicos de la respectiva Corporación.
-
-En todo lo demás, la declaración de patrimonio se regirá por lo dispuesto en el artículo anterior. Sin perjuicio de lo establecido en el inciso precedente, la no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor. No obstante, los diputados y senadores deberán actualizar su declaración entre los sesenta y los treinta días que anteceden a una elección parlamentaria.
-
-INCISO ELIMINADO.
+D.- Derogado
 
 #### Artículo 5°
 
-E.- La no presentación oportuna de la declaración de intereses o de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales.
-
-El incumplimiento de la obligación de actualizar la declaración de intereses o la declaración de patrimonio se sancionará con multa de cinco a quince unidades tributarias mensuales.
-
-Las comisiones a que se refiere el inciso final del artículo 5° A conocerán y resolverán acerca de la aplicación de dichas sanciones a los miembros de las respectivas Corporaciones.
-
-El procedimiento podrá iniciarse de oficio por las comisiones señaladas en el inciso anterior o por denuncia de cualquier interesado. La formulación de cargos dará al parlamentario afectado el derecho de contestarlos en el plazo de diez días hábiles. En caso de ser necesario, el período probatorio será de ocho días. Podrán utilizarse todos los medios de prueba, siendo ésta apreciada en conciencia. La Comisión deberá dictar la resolución final dentro de los diez días siguientes a aquél en que se evacuó la última diligencia.
-
-No obstante lo señalado en los incisos anteriores, el infractor tendrá el plazo fatal de diez días, contado desde la notificación de la resolución que impone la multa, para presentar la declaración omitida o para corregirla. Si así lo hiciere, se podrá rebajar dicha multa.
-
-En caso de reincidencia, se sancionará al parlamentario con una multa equivalente al doble de las indicadas en los incisos primero y segundo.
+E.- Derogado
 
 #### Artículo 5°
 

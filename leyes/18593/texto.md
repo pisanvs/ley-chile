@@ -94,13 +94,13 @@ De la Competencia
 
 Corresponde a los Tribunales Electorales Regionales:
 
-1°.- Calificar las elecciones de carácter gremial y las de los grupos intermedios que tengan derecho a participar en la designación de los integrantes de los consejos comunales de organizaciones de la sociedad civil. Lo anterior no se aplicará respecto de las juntas de vecinos y demás organizaciones comunitarias regidas por la ley N° 19.418, cuyas elecciones no serán calificadas por los tribunales electorales regionales, sin perjuicio del derecho que tiene cualquier vecino afiliado a la organización para reclamar ante éstos.
+1°.- Calificar las elecciones de carácter gremial y las de los grupos intermedios, que tengan derecho a participar en la designación de los integrantes de los Consejos Regionales de Desarrollo o de los consejos comunales de organizaciones de la sociedad civil, de acuerdo con las respectivas leyes orgánicas constitucionales.
 
-Para calificar las elecciones, los gremios y grupos intermedios a que se refiere este número deberán comunicar al Tribunal respectivo la realización de toda elección que tenga lugar en ellos, dentro de quinto día de efectuada. La contravención a esta obligación, hará aplicable lo dispuesto en el inciso tercero del artículo 23.
+Con este objeto, los gremios y grupos intermedios a que se refiere este número deberán comunicar al Tribunal respectivo la realización de toda elección que tenga lugar en ellos, dentro de quinto día de efectuada. La contravención a esta obligación, hará aplicable lo dispuesto en el inciso tercero del artículo 23.
 
 El Tribunal deberá requerir los antecedentes necesarios, dentro del décimo día, contado desde el ingreso en la secretaría del Tribunal de la comunicación aludida en el inciso anterior.
 
-2°.- Conocer de las reclamaciones que se interpongan con motivo de las elecciones de carácter gremial y de las de cualesquiera otros grupos intermedios.
+2°.- Conocer de las reclamaciones que se interpongan con motivo de las elecciones de carácter gremial y de las de cualesquiera otros grupos intermedios. En el caso de los grupos intermedios no comprendidos en el número 1° de este artículo, la reclamación deberá ser formulada por, a lo menos, diez de sus miembros.
 
 3°.- Declarar las incompatibilidades que deriven de la aplicación del artículo 23 de la Constitución Política y las inhabilidades que, de acuerdo a esa norma constitucional, establezca la ley.
 
@@ -138,7 +138,7 @@ Los miembros de los Tribunales Electorales Regionales no podrán ser aprehendido
 
 #### Artículo 16
 
-Las reclamaciones a que se refiere el número 2° del artículo 10, deberán ser presentadas dentro del plazo de quince días contado desde la fecha del último escrutinio de la elección respectiva, por cualquier persona que tenga interés directo en ellas.
+Las reclamaciones a que se refiere el número 2° del artículo 10, deberán ser presentadas dentro del plazo de diez días contado desde la fecha del último escrutinio de la elección respectiva, por cualquier persona que tenga interés directo en ellas.
 
 Las incompatibilidades e inhabilidades a que se refiere el número 3° del artículo 10 podrán ser objeto de reclamación en cualquier momento. Con todo, el Tribunal podrá declararlas de oficio cuando ellas aparezcan de manifiesto.
 
@@ -164,11 +164,9 @@ Si la reclamación no cumpliere con cualquiera de los requisitos de este artícu
 
 #### Artículo 18
 
-El Tribunal ordenará, a costa del reclamante, la notificación de la reclamación mediante la publicación de un aviso, por una sola vez, en un diario de los de mayor circulación en la ciudad capital de la región, en el que se comunicará la circunstancia de haberse presentado dicha reclamación. El aviso deberá contener, además, un extracto del hecho que motiva esta última.
+El Tribunal ordenará, a costa del reclamante, la notificación de la reclamación mediante la publicación de un aviso, por una sola vez, en un diario de los de mayor circulación en la ciudad capital de la Región, en el que se comunicará la circunstancia de haberse presentado dicha reclamación. El aviso deberá contener, además, un extracto del hecho que motiva esta última.
 
-Tratándose de las organizaciones comunitarias regidas por la ley N° 19.418, el Tribunal oficiará al secretario municipal dentro de tercero día contado desde la fecha en que se admita a tramitación la reclamación, para que éste publique el reclamo en la página web institucional de la municipalidad, informe al Tribunal la fecha en que se realizó dicha publicación y remita todos los antecedentes del acto eleccionario reclamado que obren en su poder en un plazo de cinco días. La publicación se deberá mantener en la página web institucional al menos hasta que el Tribunal dicte el fallo que la resuelva. Esta notificación sustituirá a la señalada en el inciso primero.
-
-Si la reclamación se dedujere contra una persona debidamente individualizada, se dispondrá además la notificación personal a ésta, haciéndole entrega de copia íntegra de la reclamación y de la resolución en ella recaída. La notificación será practicada por el ministro de fe que designe el Tribunal, a costa del reclamante. En el caso de que la notificación no pudiere practicarse personalmente, se efectuará por cédula, la que se dejará en el correspondiente domicilio.
+Sin embargo, si se dedujere la reclamación contra una persona debidamente individualizada, se dispondrá, además, la notificación personal a ésta, haciéndole entrega de copia íntegra de la reclamación y de la resolución en ella recaída. La notificación será practicada por el ministro de fe que designe el Tribunal, a costa del reclamante. En el caso de que la notificación no pudiere practicarse personalmente, se efectuará por cédula, la que que se dejará en el correspondiente domicilio.
 
 Si dentro del plazo de diez días el reclamante no hubiere encomendado la notificación, el reclamo se tendrá por no interpuesto.
 
@@ -210,13 +208,11 @@ El Tribunal podrá condenar en costas, si lo estimare procedente. En todo caso, 
 
 El fallo del Tribunal deberá ser fundado e indicará con precisión el estado en que queda el proceso eleccionario o la situación de la materia a que se haya referido el reclamo.
 
-El Tribunal dispondrá la notificación del citado fallo por el estado diario y mediante un aviso que dé cuenta de este hecho, el que deberá publicarse en un diario de los de mayor circulación en la ciudad capital de la región, dentro del plazo de cinco días contado desde la fecha de la notificación por el estado diario. Esta notificación se practicará, además, en la forma que señala el inciso segundo del artículo 18, respecto de quienes figuren como parte o entidades interesadas en la causa, en el mismo plazo antes señalado.
-
-En caso de que la reclamación se hubiere interpuesto con motivo de la elección de una organización regida por la ley N° 19.418, el Tribunal notificará el fallo por el estado diario y oficiará dentro de tercero día al secretario municipal para que éste lo publique en la página web institucional dentro del plazo de tres días. Esta publicación deberá mantenerse por al menos cinco días en la página web, salvo que se ordene una nueva elección, en cuyo caso deberá permanecer publicado hasta la realización del nuevo proceso eleccionario.
+El Tribunal dispondrá la notificación del citado fallo por el estado diario y mediante un aviso que dé cuenta de este hecho, el que deberá publicarse en un diario de los de mayor circulación en la ciudad capital de la Región, dentro del plazo de cinco días contado desde la fecha de la notificación por el estado diario. Esta notificación se practicará, además, en la forma que señala el inciso segundo del artículo 18, respecto de quienes figuren como parte o entidades interesadas en la causa, en el mismo plazo antes señalado.
 
 #### Artículo 26
 
-Contra el fallo del Tribunal procederán los recursos de reposición y apelación.
+Contra el fallo del Tribunal sólo procederá el recurso de reposición, el que deberá interponerse dentro del plazo de cinco días contado desde su notificación. El Tribunal se pronunciará de plano respecto de la solicitud de reposición.
 
 Sin perjuicio de lo anterior, el Tribunal, de oficio o a petición de parte, podrá modificar sus resoluciones sólo si hubiere incurrido en algún error de hecho que así lo exija. La petición deberá ser formulada dentro de quinto día contado desde la notificación del fallo y el Tribunal, en ambos casos, resolverá en el plazo de 10 días contado desde dicha notificación.
 

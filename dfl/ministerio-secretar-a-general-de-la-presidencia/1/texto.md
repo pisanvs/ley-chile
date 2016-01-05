@@ -400,75 +400,39 @@ Estas actividades deberán desarrollarse siempre fuera de la jornada de trabajo 
 
 Del mismo modo son incompatibles las actividades de las ex autoridades o ex funcionarios de una institución fiscalizadora que impliquen una relación laboral con entidades del sector privado sujetas a la fiscalización de ese organismo. Esta incompatibilidad se mantendrá hasta seis meses después de haber expirado en funciones.
 
-### Párrafo 3º
+### Párrafo 3º — De la declaración de intereses y de patrimonio -Derogado
 
-De la declaración de intereses y
+#### Artículo 57°
 
-de patrimonio
+Derogado.
 
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+#### Artículo 58°
 
-#### Artículo 57
+Derogado.
 
-El Presidente de la República, los Ministros de Estado, los Subsecretarios, los Intendentes y Gobernadores, los Secretarios Regionales Ministeriales, los Jefes Superiores de Servicio, los Embajadores, los Consejeros del Consejo de Defensa del Estado, el Contralor General de la República, los oficiales generales y oficiales superiores de las Fuerzas Armadas y niveles jerárquicos equivalentes de las Fuerzas de Orden y Seguridad Pública, los Alcaldes, Concejales y Consejeros Regionales deberán presentar una declaración de intereses, dentro del plazo de treinta días contado desde la fecha de asunción del cargo.
+#### Artículo 59°
 
-Igual obligación recaerá sobre las demás autoridades y funcionarios directivos, profesionales, técnicos y fiscalizadores de la Administración del Estado que se desempeñen hasta el nivel de jefe de departamento o su equivalente.
+Derogado.
 
-La obligación de presentar declaración de intereses regirá independientemente de la declaración de patrimonio que leyes especiales impongan a esas autoridades y funcionarios.
+#### Artículo 60°
 
-#### Artículo 58
+Derogado.
 
-La declaración de intereses deberá contener la individualización de las actividades profesionales y económicas en que participe la autoridad o el funcionario.
+#### Artículo 60°
 
-#### Artículo 59
+A.- Derogado.
 
-La declaración será pública y deberá actualizarse cada cuatro años, y cada vez que ocurra un hecho relevante que la modifique.
+#### Artículo 60°
 
-Se presentará en tres ejemplares, que serán autentificados al momento de su recepción por el ministro de fe del órgano u organismo a que pertenezca el declarante o, en su defecto, ante notario. Uno de ellos será remitido a la Contraloría General de la República o a la Contraloría Regional, según corresponda, para su custodia, archivo y consulta, otro se depositará en la oficina de personal del órgano u organismo que los reciba y otro se devolverá al interesado.
+B.- Derogado.
 
-#### Artículo 60
+#### Artículo 60°
 
-Un reglamento establecerá los requisitos de las declaraciones de intereses y contendrá las demás normas necesarias para dar cumplimiento a las disposiciones de este párrafo.
+C.- Derogado.
 
-#### Artículo 60
+#### Artículo 60°
 
-A.- Sin perjuicio de la declaración de intereses a que se refiere el Párrafo anterior, las personas señaladas en el artículo 57 deberán hacer una declaración de patrimonio.
-
-También deberán hacer esta declaración todos los directores que representen al Estado en las empresas a que se refieren los incisos tercero y quinto del artículo 37 de la ley Nº 18.046, sobre Sociedades Anónimas.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
-
-#### Artículo 60
-
-B.- La declaración de patrimonio comprenderá también los bienes del cónyuge de las personas a que se refiere el artículo anterior, siempre que estén casados bajo el régimen de sociedad conyugal. No obstante, si el cónyuge es mujer, no se considerarán los bienes que ésta administre de conformidad a los artículos 150, 166 y 167 del Código Civil.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
-
-#### Artículo 60
-
-C.- La declaración de patrimonio deberá contener la individualización de los siguientes bienes:
-
-a) inmuebles del declarante, indicando las prohibiciones, hipotecas, embargos, litigios, usufructos, fideicomisos y demás gravámenes que les afecten, con mención de las respectivas inscripciones;
-
-b) vehículos motorizados, indicando su inscripción;
-
-c) valores del declarante a que se refiere el inciso primero del artículo 3º de la ley Nº 18.045, sea que se transen en Chile o en el extranjero;
-
-d) derechos que le corresponden en comunidades o en sociedades constituidas en Chile o en el extranjero.
-
-La declaración contendrá también una enunciación del pasivo, si es superior a cien unidades tributarias mensuales.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
-
-#### Artículo 60
-
-D.- La declaración de patrimonio será pública y deberá actualizarse cada cuatro años y cada vez que el declarante sea nombrado en un nuevo cargo.
-
-Sin perjuicio de lo anterior, al concluir sus funciones el declarante también deberá actualizarla.
-
-Esta declaración deberá ser presentada, dentro de los treinta días siguientes a la asunción en el cargo o la ocurrencia de algunos de los hechos que obligan a actualizarla, ante el Contralor General de la República o el Contralor Regional respectivo, quien la mantendrá para su consulta.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+D.- Derogado.
 
 ### Párrafo 4º
 
@@ -532,23 +496,11 @@ El incumplimiento de cualquiera de estas normas será sancionado con la medida d
 
 #### Artículo 65
 
-La no presentación oportuna de la declaración de intereses o de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales, aplicables a la autoridad o funcionario infractor. Transcurridos treinta días desde que la declaración fuere exigible, se presumirá incumplimiento del infractor y será aplicable lo dispuesto en los incisos siguientes.
-
-La multa será impuesta administrativamente, por resolución del jefe superior del servicio o de quien haga sus veces. Si el infractor fuere el jefe del servicio, la impondrá el superior jerárquico que corresponda, o en su defecto, el ministro a cargo de la Secretaría de Estado mediante el cual el servicio se encuentra sometido a la supervigilancia del Presidente de la República. La resolución que imponga la multa tendrá mérito ejecutivo y será impugnable en la forma y plazo prescritos por el Artículo 68.
-
-No obstante lo señalado en el inciso anterior, el infractor tendrá el plazo fatal de diez días, contado desde la notificación de la resolución de multa, para presentar la declaración omitida. Si así lo hiciere, la multa se rebajará a la mitad. Si el funcionario se muestra contumaz en la omisión, esta circunstancia será tenida en cuenta para los efectos de su calificación y se le aplicarán las sanciones disciplinarias correspondientes.
-
-El incumplimiento de la obligación de actualizar la declaración de intereses o de patrimonio se sancionará con multa de cinco a quince unidades tributarias mensuales y, en lo demás, se regirá por lo dispuesto en los incisos segundo y tercero de este Artículo.
-
-El jefe de personal o quien, en razón de sus funciones, debió haber advertido oportunamente la omisión de una declaración o de su renovación y no lo hizo, incurrirá en responsabilidad administrativa.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+Derogado
 
 #### Artículo 66
 
-La inclusión a sabiendas de datos relevantes inexactos y la omisión inexcusable de información relevante requerida por la ley en la declaración de intereses o en la de patrimonio serán tenidas en cuenta para los efectos de las calificaciones y se sancionarán disciplinariamente con multa de diez a treinta unidades tributarias mensuales.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+Derogado
 
 #### Artículo 67
 
@@ -558,7 +510,7 @@ DEROGADO
 
 #### Artículo 68
 
-Las resoluciones que impongan las multas contempladas en el Artículo 65, serán reclamables ante la Corte de Apelaciones con jurisdicción en el lugar en que debió presentarse la declaración. La reclamación deberá ser fundada, estar acompañada de los documentos probatorios en que se base y ser presentada dentro de quinto día de notificada la resolución. La reclamación será interpuesta ante la autoridad que dictó la resolución, la que dentro de los dos días hábiles siguientes deberá enviar a la Corte de Apelaciones todos los antecedentes del caso. La Corte de Apelaciones resolverá en cuenta, sin esperar la comparecencia del reclamante, dentro de los seis días hábiles siguientes de recibidos por la secretaría del tribunal los antecedentes o aquellos otros que mande agregar de oficio. La resolución de la Corte de Apelaciones no será susceptible de recurso alguno.
+Derogado
 
 ## Título IV
 

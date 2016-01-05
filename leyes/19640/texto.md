@@ -68,13 +68,7 @@ La publicidad, divulgación e información de los actos relativos a o relacionad
 
 #### Artículo 9º
 
-El Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos deberán, dentro del plazo de treinta días contado desde que hubieren asumido el cargo, efectuar una declaración jurada de intereses ante un notario de la ciudad donde ejerzan sus funciones, o ante el oficial del Registro Civil en aquellas comunas en que no hubiere notario.
-
-El original de la declaración será protocolizado en la misma notaría donde fuere prestada o en una notaría con jurisdicción en el territorio de la fiscalía a que perteneciere el declarante. Una copia de la protocolización será remitida por el declarante a la oficina de personal de la Fiscalía Nacional y de la respectiva Fiscalía Regional, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado, a su costa.
-
-La declaración deberá ser actualizada cada vez que el declarante fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del cuatrienio siguiente a la declaración, si no se hubiere efectuado un nuevo nombramiento a su respecto.
-
-La omisión de la declaración será castigada en la forma y con las sanciones que establece esta ley.
+Derogado
 
 #### Artículo 9º bis
 
@@ -82,13 +76,7 @@ Asimismo, el Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos, a
 
 #### Artículo 9º ter
 
-El Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
-
-La declaración de patrimonio deberá efectuarse ante el Fiscal Nacional. Una copia de ella deberá mantenerse, para consulta pública, en la oficina de personal de la propia Fiscalía o de la Fiscalía Regional, según el caso.
-
-La no presentación oportuna de la declaración de patrimonio o el incumplimiento de la obligación de actualizarla se sancionará en los términos establecidos en el artículo 47 de la presente ley.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+Derogado
 
 #### Artículo 10
 
@@ -510,17 +498,7 @@ Tratándose de delitos cometidos por un fiscal en el ejercicio de sus funciones,
 
 #### Artículo 47
 
-La no presentación oportuna de la declaración de intereses a que se refiere el artículo 9º por los Fiscales Regionales o los fiscales adjuntos, o el incumplimiento de la obligación de actualizarla, será sancionada con multa, impuesta administrativamente por el Fiscal Nacional o el Fiscal Regional respectivo, en su caso.
-
-No obstante lo señalado en el inciso anterior, el infractor tendrá el plazo fatal de diez días, contado desde la notificación de la resolución de multa, para presentar la declaración omitida. Si así lo hiciere, la multa se rebajará a la mitad. Si un fiscal adjunto se muestra contumaz en la omisión, se le aplicarán las medidas disciplinarias que correspondan y esa circunstancia servirá de antecedente para su calificación funcionaria.
-
-La inclusión a sabiendas de datos relevantes inexactos y la omisión inexcusable de información relevante requerida por la ley en las declaraciones de intereses y de patrimonio serán sancionadas disciplinariamente con multa de diez a treinta unidades tributarias mensuales, sin perjuicio de que serán tenidas en cuenta en la calificación funcionaria del fiscal que incurra en estas infracciones.
-
-INCISO DEROGADO
-
-Incurrirá en responsabilidad administrativa el jefe de la unidad a la que, en razón de sus funciones, correspondiere advertir la omisión de la declaración o de su actualización, si no diere oportuno cumplimiento a dicha obligación.
-
-> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a ésta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley. Dicho reglamento se encuentra contenido en el DTO 45, Secretaría General de la Presidencia, publicado el 22.03.2006.
+Derogado
 
 #### Artículo 48
 

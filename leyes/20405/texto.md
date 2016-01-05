@@ -62,7 +62,7 @@ Asimismo, solicitar, reunir y procesar el conjunto de la información existente 
 
 Para el ejercicio de sus atribuciones, el Instituto podrá solicitar la colaboración de los distintos órganos de Estado. Podrá asimismo, recibir todos los testimonios y obtener todas las informaciones y documentos necesarios para el examen de las situaciones comprendidas en el ámbito de su competencia.
 
-De igual modo, podrá comisionar a uno o más consejeros, al Director o a su personal para ingresar a recintos públicos donde una persona esté o pueda estar privada de libertad. Lo anterior es sin perjuicio de las atribuciones propias del Comité de Prevención contra la Tortura.
+De igual modo, podrá comisionar a uno o más consejeros, al Director o a su personal para ingresar a recintos públicos donde una persona esté o pueda estar privada de libertad.
 
 #### Artículo 5º
 
@@ -156,7 +156,7 @@ Los acuerdos de las comisiones referidas tendrán el carácter de recomendación
 
 #### Artículo 11
 
-Un Consejo Consultivo Nacional, en el que estarán representados los organismos sociales y académicos dedicados a la promoción y defensa de los derechos humanos y las libertades fundamentales, prestará su asesoría al Consejo y a los expertos del Comité de Prevención contra la Tortura en todas aquellas cuestiones de su competencia que requieran, para su adecuada resolución, del pronunciamiento de la sociedad civil.
+Un Consejo Consultivo Nacional, en el que estarán representados los organismos sociales y académicos dedicados a la promoción y defensa de los derechos humanos y las libertades fundamentales, prestará su asesoría al Consejo en todas aquellas cuestiones de su competencia que requieran, para su adecuada resolución, del pronunciamiento de la sociedad civil.
 
 Un reglamento interno, aprobado por los dos tercios del Consejo, establecerá su integración y determinará los casos y la forma en que se prestará dicha asesoría.
 

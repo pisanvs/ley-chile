@@ -34,6 +34,44 @@ La tasa del interés moratorio será la que rija al momento del pago de la deuda
 
 Las normas de este Código sólo rigen para la aplicación o interpretación del mismo y de las demás disposiciones legales relativas a las materias de tributación fiscal interna a que se refiere el artículo 1°, y de ellas no se podrán inferir, salvo disposición expresa en contrario, consecuencias para la aplicación, interpretación o validez de otros actos, contratos o leyes.
 
+#### Artículo 4° bis
+
+Las obligaciones tributarias establecidas en las leyes que fijen los hechos imponibles, nacerán y se harán exigibles con arreglo a la naturaleza jurídica de los hechos, actos o negocios realizados, cualquiera que sea la forma o denominación que los interesados le hubieran dado, y prescindiendo de los vicios o defectos que pudieran afectarles.
+
+El Servicio deberá reconocer la buena fe de los contribuyentes. La buena fe en materia tributaria supone reconocer los efectos que se desprendan de los actos o negocios jurídicos o de un conjunto o serie de ellos, según la forma en que estos se hayan celebrado por los contribuyentes.
+
+No hay buena fe si mediante dichos actos o negocios jurídicos o conjunto o serie de ellos, se eluden los hechos imponibles establecidos en las disposiciones legales tributarias correspondientes. Se entenderá que existe elusión de los hechos imponibles en los casos de abuso o simulación establecidos en los artículos 4° ter y 4° quáter, respectivamente.
+
+En los casos en que sea aplicable una norma especial para evitar la elusión, las consecuencias jurídicas se regirán por dicha disposición y no por los artículos 4° ter y 4° quáter.
+
+Corresponderá al Servicio probar la existencia de abuso o simulación en los términos de los artículos 4° ter y 4° quáter, respectivamente. Para la determinación del abuso o la simulación deberán seguirse los procedimientos establecidos en los artículos 4° quinquies y 160 bis.
+
+#### Artículo 4º ter
+
+Los hechos imponibles contenidos en las leyes tributarias no podrán ser eludidos mediante el abuso de las formas jurídicas. Se entenderá que existe abuso en materia tributaria cuando se evite total o parcialmente la realización del hecho gravado, o se disminuya la base imponible o la obligación tributaria, o se postergue o difiera el nacimiento de dicha obligación, mediante actos o negocios jurídicos que, individualmente considerados o en su conjunto, no produzcan resultados o efectos jurídicos o económicos relevantes para el contribuyente o un tercero, que sean distintos de los meramente tributarios a que se refiere este inciso.
+
+Es legítima la razonable opción de conductas y alternativas contempladas en la legislación tributaria. En consecuencia, no constituirá abuso la sola circunstancia que el mismo resultado económico o jurídico se pueda obtener con otro u otros actos jurídicos que derivarían en una mayor carga tributaria; o que el acto jurídico escogido, o conjunto de ellos, no genere efecto tributario alguno, o bien los genere de manera reducida o diferida en el tiempo o en menor cuantía, siempre que estos efectos sean consecuencia de la ley tributaria.
+
+En caso de abuso se exigirá la obligación tributaria que emana de los hechos imponibles establecidos en la ley.
+
+#### Artículo 4° quáter
+
+Habrá también elusión en los actos o negocios en los que exista simulación. En estos casos, los impuestos se aplicarán a los hechos efectivamente realizados por las partes, con independencia de los actos o negocios simulados. Se entenderá que existe simulación, para efectos tributarios, cuando los actos y negocios jurídicos de que se trate disimulen la configuración del hecho gravado del impuesto o la naturaleza de los elementos constitutivos de la obligación tributaria, o su verdadero monto o data de nacimiento.
+
+#### Artículo 4°
+
+quinquies.- La existencia del abuso o de la simulación a que se refieren los artículos 4° ter y 4° quáter será declarada, a requerimiento del Director, por el Tribunal Tributario y Aduanero competente, de conformidad al procedimiento establecido en el artículo 160 bis.
+
+Esta declaración sólo podrá ser requerida en la medida que el monto de las diferencias de impuestos determinadas provisoriamente por el Servicio al contribuyente respectivo, exceda la cantidad equivalente a 250 unidades tributarias mensuales a la fecha de la presentación del requerimiento.
+
+Previo a la solicitud de declaración de abuso o simulación y para los efectos de fundar el ejercicio de ésta, el Servicio deberá citar al contribuyente en los términos del artículo 63, pudiendo solicitarle los antecedentes que considere necesarios y pertinentes, incluidos aquellos que sirvan para el establecimiento de la multa del artículo 100 bis. No se aplicarán en este procedimiento los plazos del artículo 59.
+
+El Director deberá solicitar la declaración de abuso o simulación al Tribunal Tributario y Aduanero dentro de los nueve meses siguientes a la contestación de la citación a que se refiere el inciso anterior. El mismo plazo se aplicará en caso de no mediar contestación, el que se contará desde la respectiva citación. El precitado término no se aplicará cuando el remanente de plazo de prescripción de la obligación tributaria sea menor, en cuyo caso se aplicará éste último. Terminado este plazo, el Director no podrá solicitar la declaración de abuso o simulación respecto del caso por el que se citó al contribuyente o asesor.
+
+Durante el tiempo transcurrido entre la fecha en que se solicite la declaración de abuso o simulación, hasta la resolución que la resuelva, se suspenderá el cómputo de los plazos establecidos en los artículos 200 y 201.
+
+En caso que se establezca la existencia de abuso o simulación para fines tributarios, el Tribunal Tributario y Aduanero deberá así declararlo en la resolución que dicte al efecto, dejando en ella constancia de los actos jurídicos abusivos o simulados, de los antecedentes de hecho y de derecho en que funda dicha calificación, determinando en la misma resolución el monto del impuesto que resulte adeudado, con los respectivos reajustes, intereses penales y multas, ordenando al Servicio emitir la liquidación, giro o resolución que corresponda. Lo anterior, sin perjuicio de los recursos que, de acuerdo al artículo 160 bis, puedan deducir el Servicio, el contribuyente o quien resulte sancionado con las multas que pudieren aplicarse.
+
 #### Artículo 5
 
 Se faculta al Presidente de la República para dictar normas que eviten la doble tributación internacional o que eliminen o disminuyan sus efectos.
@@ -51,6 +89,10 @@ Dentro de las facultades que las leyes confieren al Servicio, corresponde:
 A. Al Director de Impuestos Internos:
 
 1°. Interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+
+Podrá, asimismo, disponer la consulta pública de proyectos de circulares, o instrucciones que estime pertinente, con el fin de que los contribuyentes o cualquier persona natural o jurídica opine sobre su contenido y efectos, o formule propuestas sobre los mismos. Con todo, las circulares e instrucciones que tengan por objeto interpretar con carácter general normas tributarias, o aquellas que modifiquen criterios interpretativos previos, deberán siempre ser consultadas.
+
+Las opiniones que se manifiesten con ocasión de las consultas a que se refiere este numeral serán de carácter público y deberán ser enviadas al Servicio a través de los medios que disponga en su oficina virtual, disponible a través de la web institucional. Las precitadas respuestas no serán vinculantes ni estará el Director obligado a pronunciarse respecto de ellas.
 
 2°. Absolver las consultas que sobre la aplicación e interpretación de las normas tributarias le formulen los funcionarios del Servicio, por conducto regular, o las autoridades.
 
@@ -116,7 +158,7 @@ Para los fines del presente Código y demás leyes tributarias, salvo que de sus
 
 5°.- Por "contribuyente", las personas naturales y jurídicas, o los administradores y tenedores de bienes ajenos afectados por impuestos.
 
-6°.- Por "representante", los guardadores, mandatarios, administradores, interventores, síndicos y cualquiera persona natural o jurídica que obre por cuenta o en beneficio de otra persona natural o jurídica.
+6°.- Por "representante", los guardadores, mandatarios, administradores, interventores, síndicos, liquidadores y cualquiera persona natural o jurídica que obre por cuenta o en beneficio de otra persona natural o jurídica.
 
 7°.- Por "persona", las personas naturales o jurídicas y los "representantes".
 
@@ -228,9 +270,9 @@ Las presentaciones que deba hacer el contribuyente, que pendan de un plazo fatal
 
 #### Artículo 11
 
-Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación o que el interesado solicite para sí ser notificado por correo electrónico. En este último caso, la notificación se entenderá efectuada en la fecha del envío del correo electrónico, certificada por un ministro de fe. El correo contendrá una trascripción de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia, y será remitido a la dirección electrónica que indique el contribuyente, quien deberá mantenerla actualizada, informando sus modificaciones al Servicio en el plazo que determine la Dirección. Cualquier circunstancia ajena al Servicio por la que el contribuyente no reciba el correo electrónico, no anulará la notificación.
+Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación o que el interesado solicite para sí ser notificado por correo electrónico. En este último caso, la notificación se entenderá efectuada en la fecha del envío del correo electrónico, certificada por un ministro de fe. El correo contendrá una trascripción de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia, y será remitido a la dirección electrónica que indique el contribuyente, quien deberá mantenerla actualizada, informando sus modificaciones al Servicio en el plazo que determine la Dirección. Cualquier circunstancia ajena al Servicio por la que el contribuyente no reciba el correo electrónico, no anulará la notificación. La solicitud del contribuyente para ser notificado por correo electrónico regirá para todas las notificaciones que en lo sucesivo deba practicarle el Servicio, sin perjuicio de lo dispuesto en el inciso final de éste artículo. En cualquier momento el contribuyente podrá dejar sin efecto esta solicitud, siempre que en dicho acto individualice un domicilio para efectos de posteriores notificaciones. Tratándose de los contribuyentes obligados a emitir documentos tributarios en formato distinto del papel, el Servicio utilizará, para los efectos indicados en el presente artículo, las mismas direcciones de correo electrónico que el contribuyente use para la emisión de tales documentos o las que hubiere señalado en sus declaraciones de impuesto. Una copia de la notificación y de la actuación se entregará digitalmente al contribuyente o su representante a la dirección de correo electrónico antes indicada. La falta de dirección de correo electrónico del representante o la no recepción de la notificación por parte de éste último no invalidarán la notificación enviada a la dirección de correo electrónico utilizada o señalada en las declaraciones de impuesto. El Servicio deberá tener y conservar un registro donde conste la no recepción de las notificaciones electrónicas cuando la dirección de correo electrónico utilizada por el contribuyente para emitir documentos o aquella señalada en sus declaraciones de impuestos presente fallas o problemas de recepción. El Servicio, además, mantendrá en su página web y a disposición del contribuyente en su sitio personal, una imagen digital de la notificación y actuación realizadas.
 
-La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
+La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de Correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
 
 No obstante, si existe domicilio postal, la carta certificada deberá ser remitida a la casilla o apartado postal o a la oficina de correos que el contribuyente haya fijado como tal. En este caso, el funcionario de correos deberá entregar la carta al interesado o a la persona a la cual éste haya conferido poder para retirar su correspondencia, debiendo estas personas firmar el recibo correspondiente.
 
@@ -255,6 +297,8 @@ Para los efectos de las notificaciones, se tendrá como domicilio el que indique
 El contribuyente podrá fijar también un domicilio postal para ser notificado por carta certificada, señalando la casilla o apartado postal u oficina de correos donde debe remitírsele la carta certificada.
 
 A falta de los domicilios señalados en los incisos anteriores, las notificaciones por cédula o por carta certificada podrán practicarse en la habitación del contribuyente o de su representante o en los lugares en que éstos ejerzan su actividad.
+
+El Servicio podrá notificar a través de su página web al contribuyente que no concurra o no fuere habido en el domicilio o domicilios declarados, cuando, en un mismo proceso de fiscalización, se hayan efectuado al menos dos intentos de notificación sin resultado, hecho que certificará el ministro de fe correspondiente. Para estos efectos, entre un intento de notificación y otro deben transcurrir al menos quince días corridos. En estos casos, la notificación se hará a través del sitio personal del contribuyente disponible en la página web del Servicio y comprenderá una imagen digital de la notificación y actuación respectivas. El Jefe de oficina dispondrá además, mediante resolución, la publicación de un resumen de la actuación por contribuyente o grupos de ellos. Un extracto de la resolución se publicará en un diario de circulación nacional y en formato de papel, indicando el rol único tributario del contribuyente respectivo, su nombre o razón social, el tipo y folio de actuación realizada, y el folio y fecha de la notificación electrónica. En ningún caso se indicarán valores o partidas revisadas. También se publicará en la página web del Servicio la referida resolución o un extracto de ella cuando comprenda a grupos de contribuyentes.
 
 #### Artículo 14
 
@@ -300,13 +344,13 @@ Los libros de contabilidad deberán ser llevados en lengua castellana y sus valo
 
 El Director determinará las medidas de control a que deberán sujetarse los libros de contabilidad y las hojas sueltas que los sustituyan en los casos contemplados en el inciso siguiente.
 
-El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales.
+El Director Regional podrá autorizar la sustitución de los libros de contabilidad y sus registros auxiliares por hojas sueltas, escritas a mano o en otra forma, o por aplicaciones informáticas o sistemas tecnológicos, consultando las garantías necesarias para el resguardo de los intereses fiscales. Cuando el contribuyente opte por llevar sus libros contables principales y sus auxiliares en hojas sueltas o en base a aplicaciones informáticas o medios electrónicos, su examen y fiscalización se podrá realizar conforme a lo dispuesto en el artículo 60 bis.
 
 Sin perjuicio de los libros de contabilidad exigidos por la ley, los contribuyentes deberán llevar los libros adicionales o auxiliares que exija el Director Regional, a su juicio exclusivo, de acuerdo con las normas que dicte para el mejor cumplimiento o fiscalización de las obligaciones tributarias.
 
 Las anotaciones en los libros a que se refieren los incisos anteriores deberán hacerse normalmente a medida que se desarrollan las operaciones.
 
-El Servicio podrá autorizar que los libros de contabilidad y los libros adicionales o auxiliares, que los contribuyentes lleven en soporte de papel, sean reemplazados por sistemas tecnológicos que reflejen claramente el movimiento y resultado de los negocios y permitan establecer con exactitud los impuestos adeudados. Para estos efectos, el Servicio certificará los sistemas que cumplan con tales requisitos.
+El Servicio podrá autorizar o disponer la obligatoriedad de que los libros de contabilidad y los libros adicionales o auxiliares, que los contribuyentes lleven en soporte de papel, sean reemplazados por sistemas tecnológicos que reflejen claramente el movimiento y resultado de los negocios y permitan establecer con exactitud los impuestos adeudados. Para estos efectos, el Servicio certificará los sistemas que cumplan con tales requisitos.
 
 #### Artículo 18
 
@@ -388,6 +432,12 @@ Corresponde al contribuyente probar con los documentos, libros de contabilidad u
 
 El Servicio no podrá prescindir de las declaraciones y antecedentes presentados o producidos por el contribuyente y liquidar otro impuesto que el que de ellos resulte, a menos que esas declaraciones, documentos, libros o antecedentes no sean fidedignos. En tal caso, el Servicio, previos los trámites establecidos en los artículos 63 y 64 practicará las liquidaciones o reliquidaciones que procedan, tasando la base imponible con los antecedentes que obren en su poder. Para obtener que se anule o modifique la liquidación o reliquidación, el contribuyente deberá desvirtuar con pruebas suficientes las impugnaciones del Servicio, en conformidad a las normas pertinentes del Libro Tercero.
 
+El Servicio podrá llevar, respecto de cada contribuyente, uno o más expedientes electrónicos de las actuaciones que realice y los antecedentes aportados por el contribuyente en los procedimientos de fiscalización. El contribuyente podrá acceder a dicho expediente a través de su sitio personal, disponible en la página web del Servicio, y será utilizado en todos los procedimientos administrativos relacionados con la fiscalización y las actuaciones del Servicio, siendo innecesario exigir nuevamente al contribuyente la presentación de los antecedentes que el expediente electrónico ya contenga. A juicio exclusivo del Servicio, se podrán excluir del expediente electrónico aquellos antecedentes que sean calificados como voluminosos, debiendo siempre contener un resumen o índice que permita identificar las actuaciones realizadas y antecedentes o documentos aportados. El expediente electrónico podrá incluir antecedentes que correspondan a terceros, siempre que sean de carácter público o que no se vulneren los deberes de reserva o secreto establecidos por ley, salvo que dichos terceros o sus representantes expresamente lo hubieren autorizado.
+
+Los funcionarios del Servicio que accedan o utilicen la información contenida en los expedientes electrónicos deberán cumplir con lo dispuesto en el artículo 35 de este Código, la ley sobre Protección de la Vida Privada, así como con las demás leyes que establezcan la reserva o secreto de las actuaciones o antecedentes que obren en los expedientes electrónicos.
+
+Los antecedentes que obren en los expedientes electrónicos podrán acompañarse en juicio en forma digital y otorgárseles valor probatorio conforme a las reglas generales.
+
 > **Nota.** El artículo décimo de la LEY 20322, publicada el 27.01.2009, interpreta la presente norma en el sentido de indicar que en los casos aquí previstos, el trámite establecido en el inciso segundo del artículo 63 del Código Tributario, es obligatorio.
 
 #### Artículo 22
@@ -412,7 +462,7 @@ Salvo disposición en contrario, los impuestos determinados en la forma indicada
 
 A petición del contribuyente podrán también girarse los impuestos con anterioridad a las oportunidades señaladas en el inciso anterior.
 
-En los casos de impuestos de recargo, retención o traslación, que no hayan sido declarados oportunamente, el Servicio podrá girar de inmediato y sin otro trámite previo, los impuestos correspondientes sobre las sumas contabilizadas, como también por las cantidades que hubieren sido devueltas o imputadas y en relación con las cuales se haya interpuesto acción penal por delito tributario. En el caso de quiebra del contribuyente, el Servicio podrá, asimismo, girar de inmediato y sin otro trámite previo, todos los impuestos adeudados por el fallido, sin perjuicio de la verificación que deberá efectuar el Fisco en conformidad con las normas generales.
+En los casos de impuestos de recargo, retención o traslación, que no hayan sido declarados oportunamente, el Servicio podrá girar de inmediato y sin otro trámite previo, los impuestos correspondientes sobre las sumas contabilizadas, como también por las cantidades que hubieren sido devueltas o imputadas y en relación con las cuales se haya interpuesto acción penal por delito tributario. En caso que el contribuyente se encuentre en un procedimiento concursal de liquidación en calidad de deudor, el Servicio podrá, asimismo, girar de inmediato y sin otro trámite previo, todos los impuestos adeudados por el deudor, sin perjuicio de la verificación que deberá efectuar el Fisco en conformidad con las normas generales.
 
 Las sumas que un contribuyente deba legalmente reintegrar, correspondientes a cantidades respecto de las cuales haya obtenido devolución o imputación, serán consideradas como impuestos sujetos a retención para los efectos de su determinación, reajustes, intereses y sanciones que procedan, y para la aplicación de lo dispuesto en la primera parte del inciso anterior.
 
@@ -427,6 +477,18 @@ No procederá el cobro con efecto retroactivo cuando el contribuyente se haya aj
 El Servicio mantendrá a disposición de los interesados, en su sitio de Internet, las circulares o resoluciones destinadas a ser conocidas por los contribuyentes en general y los oficios de la Dirección que den respuesta a las consultas sobre la aplicación e interpretación de las normas tributarias. Esta publicación comprenderá, a lo menos, las circulares, resoluciones y oficios emitidos en los últimos tres años.
 
 En caso que las circulares, dictámenes y demás documentos mencionados en el inciso 1° sean modificados, se presume de derecho que el contribuyente ha conocido tales modificaciones desde que hayan sido publicadas de acuerdo con el artículo 15°.
+
+#### Artículo 26 bis
+
+Los contribuyentes u obligados al pago de impuestos, que tuvieren interés personal y directo, podrán formular consultas sobre la aplicación de los artículos 4º bis, 4º ter y 4º quáter a los actos, contratos, negocios o actividades económicas que, para tales fines, pongan en conocimiento del Servicio.
+
+El Servicio regulará mediante resolución la forma en que se deberá presentar la consulta a que se refiere este artículo, así como los requisitos que ésta deberá cumplir. El plazo para contestar la consulta será de noventa días, contados desde la recepción de todos los antecedentes necesarios para su adecuada resolución. El Servicio podrá requerir informes o dictámenes de otros organismos, o solicitar del contribuyente el aporte de nuevos antecedentes para la resolución de la consulta.
+
+El Servicio, mediante resolución fundada, podrá ampliar el plazo de respuesta hasta por treinta días.
+
+Expirado el plazo para contestar sin que el Servicio haya emitido respuesta, se entenderá rechazada la consulta.
+
+La respuesta tendrá efecto vinculante para el Servicio únicamente con relación al consultante y el caso planteado, y deberá señalar expresamente si los actos, contratos, negocios o actividades económicas sobre las que se formuló la consulta, son o no susceptibles de ser calificadas como abuso o simulación conforme a los artículos 4º bis, 4º ter y 4º quáter. La respuesta no obligará al Servicio cuando varíen los antecedentes de hecho o de derecho en que se fundó.
 
 #### Artículo 27
 
@@ -490,9 +552,11 @@ El Director y demás funcionarios del Servicio no podrán divulgar, en forma alg
 
 El precepto anterior no obsta al examen de las declaraciones por los jueces o al otorgamiento de la información que éstos soliciten sobre datos contenidos en ellas, cuando dicho examen o información sea necesario para la prosecución de los juicios sobre impuesto y sobre alimentos; ni al examen que practiquen o a la información que soliciten los fiscales del Ministerio Público cuando investiguen hechos constitutivos de delito, ni a la publicación de datos estadísticos en forma que no puedan identificarse los informes, declaraciones o partidas respecto de cada contribuyente en particular.
 
-Para los efectos de lo dispuesto en este artículo y para el debido resguardo del eficaz cumplimiento de los procedimientos y recursos que contempla este Código, sólo el Servicio podrá revisar o examinar las declaraciones que presenten los contribuyentes, sin perjuicio de las atribuciones de los Tribunales de Justicia y de los fiscales del Ministerio Público, en su caso.
+Para los efectos de lo dispuesto en este artículo y para el debido resguardo del eficaz cumplimiento de los procedimientos y recursos que contempla este Código, sólo el Servicio podrá revisar o examinar las declaraciones que presenten los contribuyentes, sin perjuicio de las atribuciones de los Tribunales de Justicia , de los fiscales del Ministerio Público y de la Contraloría General de la República, en su caso.
 
 La información tributaria, que conforme a la ley proporcione el Servicio, solamente podrá ser usada para los fines propios de la institución que la recepciona.
+
+Sin perjuicio de lo dispuesto en los incisos precedentes, el Servicio publicará anualmente en su sitio web, información y estadística relativas al universo total de contribuyentes y al cumplimiento de las obligaciones tributarias, de acuerdo a la información existente en sus bases de datos hasta el año anterior. La publicación incluirá información sobre el total de utilidades declaradas, ingresos brutos declarados, ingresos afectos a impuesto a la renta, retiros efectivos, remesas o distribución de utilidades, gastos aceptados y rechazados, así como monto de las devoluciones de impuestos efectuadas. La publicación a que se refiere este inciso no podrá contener información que permita identificar a uno o más contribuyentes en particular. El Servicio determinará mediante resolución la forma en que se dará cumplimiento a lo dispuesto en este inciso.
 
 #### Artículo 36
 
@@ -682,7 +746,7 @@ Del examen y secreto de las declaraciones y de la facultad de tasar.
 
 #### Artículo 59
 
-Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes. Cuando se inicie una fiscalización mediante requerimiento de antecedentes que deberán ser presentados al Servicio por el contribuyente, se dispondrá del plazo fatal de nueve meses, contado desde que el funcionario a cargo de la fiscalización certifique que todos los antecedentes solicitados han sido puestos a su disposición para, alternativamente, citar para los efectos referidos en el artículo 63, liquidar o formular giros.
+Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes. Cuando se inicie una fiscalización mediante requerimiento de antecedentes que deberán ser presentados al Servicio por el contribuyente, se dispondrá del plazo de nueve meses, contado desde que el funcionario a cargo de la fiscalización certifique que todos los antecedentes solicitados han sido puestos a su disposición para, alternativamente, citar para los efectos referidos en el artículo 63, liquidar o formular giros.
 
 El plazo señalado en el inciso anterior será de doce meses, en los siguientes casos:
 
@@ -694,17 +758,19 @@ c) Cuando se revisen los efectos tributarios de procesos de reorganización empr
 
 d) Cuando se revise la contabilización de operaciones entre empresas relacionadas.
 
-No se aplicarán los plazos referidos en los incisos precedentes en los casos en que se requiera información a alguna autoridad extranjera ni en aquéllos relacionados con un proceso de recopilación de antecedentes a que se refiere el número 10 del artículo 161.
+No se aplicarán los plazos referidos en los incisos precedentes en los casos en que se requiera información a alguna autoridad extranjera ni en aquéllos relacionados con un proceso de recopilación de antecedentes a que se refiere el número 10 del artículo 161. Tampoco se aplicarán estos plazos en los casos a que se refieren los artículos 4° bis, 4° ter, 4° quáter y 4° quinquies, y los artículos 41 G y 41 H de la ley sobre Impuesto a la Renta.
 
-El Servicio dispondrá de un plazo de doce meses, contado desde la fecha de la solicitud, para fiscalizar y resolver las peticiones de devolución relacionadas con absorciones de pérdidas.
+Los jefes de oficina podrán ordenar la fiscalización de contribuyente s o entidades domiciliadas, residentes o establecidas en Chile, aun si son de otro territorio jurisdiccional, cuando éstas últimas hayan realizado operaciones o transacciones con partes relacionadas que estén siendo actualmente fiscalizadas. El Jefe de oficina que actualmente lleva la fiscalización comunicará la referida orden mediante resolución enviada al Jefe de oficina del territorio jurisdiccional del otro contribuyente o entidad. Dicha comunicación radicará la fiscalización del otro contribuyente o entidad ante el Jefe de oficina que emitió la orden, para todo efecto legal, incluyendo la solicitud de condonaciones. Tanto el reclamo que interponga el contribuyente inicialmente fiscalizado como el que interponga el contribuyente o entidad del otro territorio jurisdiccional, deberá siempre presentarse y tramitarse ante el Tribunal Tributario y Aduanero correspondiente al territorio jurisdiccional del Jefe de oficina que emitió la orden de fiscalización referida en este inciso. Para efectos de establecer si existe relación entre el contribuyente o entidad inicialmente sujeto a fiscalización y aquellos contribuyentes o entidades del otro territorio jurisdiccional, se estará a las normas del artículo 41 E de la ley sobre Impuesto a la Renta.
 
 #### Artículo 59 bis
 
-Será competente para conocer de todas las actuaciones de fiscalización posteriores la unidad del Servicio que practicó al contribuyente una notificación, de conformidad a lo dispuesto en el número 1º del artículo único de la ley Nº 18.320, o una citación, según lo dispuesto en el artículo 63.
+Será competente para conocer de todas las actuaciones de fiscalización posteriores la unidad del Servicio que practicó al contribuyente una notificación, de conformidad a lo dispuesto en el número 1º del artículo único de la ley Nº 18.320, un requerimiento de acuerdo a lo dispuesto en el artículo 59 o una citación, según lo dispuesto en el artículo 63.
 
 #### Artículo 60
 
-Con el objeto de verificar la exactitud de las declaraciones o de obtener información, el Servicio podrá examinar los inventarios, balances, libros de contabilidad y documentos del contribuyente, en todo lo que se relacione con los elementos que deban servir de base para la determinación del impuesto o con otros puntos que figuren o debieran figurar en la declaración. Con iguales fines podrá el Servicio examinar los libros y documentos de las personas obligadas a retener un impuesto.
+Con el objeto de verificar la exactitud de las declaraciones u obtener información, el Servicio podrá examinar los inventarios, balances, libros de contabilidad, documentos del contribuyente y hojas sueltas o sistemas tecnológicos que se hayan autorizado o exigido, en conformidad a los incisos cuarto y final del artículo 17, en todo lo que se relacione con los elementos que deban servir de base para la determinación del impuesto o con otros puntos que figuren o debieran figurar en la declaración. Con iguales fines podrá el Servicio examinar los libros, documentos, hojas sueltas o sistemas tecnológicos que los sustituyan, de las personas obligadas a retener un impuesto. El requerimiento de antecedentes podrá realizarse telefónicamente o por la vía más expedita posible, sin perjuicio de notificar, conforme a las reglas generales, la petición de antecedentes al contribuyente o su representante, indicando las materias consultadas, el plazo otorgado para aportar la información requerida, el que no podrá exceder de un mes contado desde el envío de la notificación. En todo caso, ésta deberá consignar que no se trata de un procedimiento de fiscalización. De no entregarse los antecedentes requeridos dentro del precitado plazo, o si los entregados contienen errores o son incompletos o inexactos, el contribuyente podrá subsanar tales defectos, en los plazos que al efecto fije el Director para el ejercicio de la facultad a que se refiere este inciso, sin que al efecto sean aplicables los previstos en el artículo 59.
+
+Si transcurridos los plazos a que se refiere el inciso anterior, el contribuyente no diera respuesta o ésta fuera incompleta, errónea o extemporánea, ello solo se considerará como un antecedente adicional en el proceso de selección de contribuyentes para fiscalización. Sin perjuicio de lo anterior, para establecer si existen antecedentes que determinen la procedencia de un proceso de fiscalización, en los términos a que se refiere el artículo 59, el Servicio podrá requerir toda la información y documentación relacionada con el correcto cumplimiento tributario.
 
 El Director Regional podrá disponer que los contribuyentes presenten, en los casos que así lo determine, un estado de situación. Podrá exigirse, además, que este estado de situación incluya el valor de costo y fecha de adquisición de los bienes que especifique el Director Regional.
 
@@ -712,15 +778,79 @@ No se incluirán en este estado de situación los bienes muebles de uso personal
 
 La confección o modificación de inventarios podrá ser presenciada por los funcionarios del Servicio autorizados, quienes, además, podrán confeccionar inventarios o confrontar en cualquier momento los inventarios del contribuyente con las existencias reales, pero sin interferir el normal desenvolvimiento de la actividad correspondiente.
 
-Este examen, confección o confrontación deberá efectuarse con las limitaciones de tiempo y forma que determine el Servicio y en cualquier lugar en que el interesado mantenga los libros, documentos, antecedentes o bienes o en otro que el Servicio señale de acuerdo con él.
+Este examen, confección o confrontación deberá efectuarse con las limitaciones de tiempo y forma que determine el Servicio y en cualquier lugar en que el interesado mantenga los libros, documentos, antecedentes o bienes o en otro que el Servicio señale de acuerdo con él. En los casos a que se refieren los incisos cuarto y final del artículo 17, el Servicio podrá efectuar por medios tecnológicos el examen de la contabilidad, libros y documentos que el contribuyente lleve por dichos medios.
 
-El Director o el Director Regional, según el caso, podrá ordenar que el inventario se confronte con al auxilio de la fuerza pública, cuando exista oposición de parte del contribuyente.
+El Director o el Director Regional, según el caso, podrá ordenar que el inventario se confronte con el auxilio de la fuerza pública, cuando exista oposición de parte del contribuyente.
 
-Con el fin de llevar a efecto la medida de que trata el inciso anterior, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que será concedida por el Jefe de Carabineros más inmediato sin más trámite que la exhibición de la resolución que ordena dicha medida, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
+Con el fin de llevar a efecto la medida de que trata el inciso anterior, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que le será concedida por el Jefe de Carabineros más inmediato sin más trámite que la exhibición de la resolución que ordena dicha medida, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 
 Para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas. Estarán exceptuados de estas obligaciones, salvo en los casos de sucesión por causa de muerte o comunidades en que sean comuneros los parientes, el cónyuge, los parientes por consanguinidad en la línea recta o dentro del cuarto grado de la colateral, el adoptante, el adoptado, los parientes por afinidad en la línea recta o dentro del segundo grado de la colateral de dichos terceros. Además estarán exceptuadas de estas obligaciones las personas obligadas a guardar el secreto profesional.
 
 No estarán obligadas a concurrir a declarar las personas indicadas en el artículo 300 del Código Procesal Penal, a las cuales el Servicio, para los fines expresados en el inciso precedente, deberá pedir declaración jurada por escrito.
+
+#### Artículo 60 bis
+
+En el caso de contribuyentes autorizados a sustituir sus libros de contabilidad y registros auxiliares por hojas sueltas escritas a mano o en otra forma, o por sistemas tecnológicos, de acuerdo al inciso cuarto del artículo 17, y en los casos del inciso final del mismo artículo, el Servicio podrá realizar los exámenes a que se refiere el artículo anterior accediendo o conectándose directamente a los referidos sistemas tecnológicos, incluyendo los que permiten la generación de libros o registros auxiliares impresos en hojas sueltas. Asimismo, el Servicio podrá ejercer esta facultad con el objeto de verificar, para fines exclusivamente tributarios, el correcto funcionamiento de dichos sistemas tecnológicos, a fin de evitar la manipulación o destrucción de datos necesarios para comprobar la correcta determinación de bases imponibles, rebajas, créditos e impuestos. Para el ejercicio de esta facultad, el Servicio deberá notificar al contribuyente, especificando el periodo en el que se llevarán a cabo los respectivos exámenes.
+
+El Servicio podrá requerir al contribuyente, su representante o al administrador de dichos sistemas tecnológicos, los perfiles de acceso o privilegios necesarios para acceder o conectarse a ellos. Una vez que acceda o se conecte, el funcionario a cargo de la fiscalización podrá examinar la información, realizar validaciones y ejecutar cualquier otra operación lógica o aritmética necesaria para los fines de la fiscalización.
+
+En caso que el contribuyente, su representante o el administrador de los sistemas tecnológicos, entrabe o de cualquier modo interfiera en la fiscalización, el Servicio deberá, mediante resolución fundada y con el mérito de los antecedentes que obren en su poder, declarar que la información requerida es sustancial y pertinente para la fiscalización, de suerte que dicha información no será admisible en un posterior procedimiento de reclamo que incida en la misma acción de fiscalización que dio origen al requerimiento, de conformidad a lo dispuesto en el artículo 132 de este Código. La determinación efectuada por el Servicio podrá impugnarse junto con la reclamación de la citación, liquidación, giro o resolución respectiva.
+
+Los resultados del procesamiento y fiscalización de los sistemas tecnológicos constarán en un informe foliado suscrito por los funcionarios que participaron en la acción de fiscalización, el que formará parte del expediente que se abra al efecto. Se entregará al contribuyente un acta detallada donde conste la información accedida o copiada o sistemas fiscalizados tecnológicamente. La información copiada será desechada al término de la revisión, sin perjuicio que en el expediente se incluirá un resumen de la información procesada. Se comunicará al contribuyente la circunstancia de haberse desechado la información electrónica en el plazo que se establezca en la resolución referida en el inciso siguiente. El resultado de estas actividades de fiscalización informática se notificará sólo en forma de citación, liquidación, giro o resolución, según proceda.
+
+El Director, mediante resolución, fijará el procedimiento, la forma y los plazos para el ejercicio de esta facultad. Serán aplicables las normas del artículo 35 a los funcionarios que participen en las actuaciones que se realicen en el ejercicio de la facultad otorgada en este artículo, incluidos los funcionarios que accedan, reciban, procesen y administren la información recopilada o copiada. Para estos efectos, el jefe de oficina ordenará identificar a los funcionarios en los respectivos expedientes, quienes deberán suscribirlos mediante firma e individualizar las actividades informáticas realizadas.
+
+#### Artículo 60 ter
+
+El Servicio podrá autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades tales como juegos y apuestas electrónicas, comercio digital de todo tipo, aplicaciones y servicios digitales, las que podrán llevar, a juicio del Servicio, una identificación digital en papel o en medios electrónicos, según proceda. Para estos efectos, el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, establecerá el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, lo que en ningún caso podrá afectar el normal desarrollo de las operaciones del contribuyente. El Servicio, a su juicio exclusivo y de manera individualizada, establecerá mediante resolución fundada los contribuyentes sujetos a estas exigencias y las especificaciones tecnológicas respectivas. Para tales efectos, el Servicio deberá notificar al contribuyente sobre el inicio de un procedimiento destinado a exigir la utilización de sistemas de control informático con al menos dos meses de anticipación a la notificación de la citada resolución. Los contribuyentes dispondrán del plazo de seis meses contados desde la notificación de la resolución para implementar y utilizar el sistema respectivo. El Servicio podrá, a petición del contribuyente, prorrogar el plazo hasta por seis meses más en casos calificados. En ningún caso se ejercerá esta facultad respecto de los contribuyentes a que se refieren los artículos 18 ter y 22 de la ley sobre Impuesto a la Renta. El incumplimiento de la obligación de utilizar estos sistemas o impedir o entrabar la revisión de su correcto uso será sancionado de conformidad al artículo 97, número 6, de este Código.
+
+#### Artículo 60 quáter
+
+El Director Regional podrá ordenar el diseño y ejecución de cualquier tipo de actividad o técnica de auditoría de entre aquellas generalmente aceptadas, sin afectar el normal desarrollo de las operaciones del contribuyente. En el ejercicio de esta facultad el Servicio podrá, en especial, realizar actividades de muestreo y puntos fijos.
+
+Para los efectos de este artículo, se entenderá por técnicas de auditoría los procedimientos destinados a fiscalizar el correcto cumplimiento de las obligaciones tributarias, principales y accesorias, de los contribuyentes, verificando que las declaraciones de impuestos sean expresión fidedigna de las operaciones registradas en sus libros de contabilidad, así como de la documentación soportante y de todas las transacciones económicas efectuadas, y que las bases imponibles, créditos, exenciones, franquicias, tasas e impuestos, estén debidamente determinados, con el objeto que, de existir diferencias, se proceda a efectuar el cobro de los tributos y recargos legales. Asimismo, se entenderá por muestreo, la técnica empleada para la selección de muestras representativas del cumplimiento de las obligaciones tributarias por parte de contribuyentes determinados, y por punto fijo, el apersonamiento de funcionarios del Servicio de Impuestos en las dependencias, declaradas o no, de la empresa o contribuyente, o en las áreas inmediatamente adyacentes a dichas dependencias, o en bodegas o recintos pertenecientes a terceros utilizados por aquellos, realizado con el fin de observar o verificar su cumplimiento tributario durante un tiempo determinado o con el fin de realizar una actividad de muestreo. El funcionario a cargo de realizar el punto fijo deberá entregar un acta a la empresa o contribuyente, consignando el hecho de haberse realizado una actividad de esta naturaleza.
+
+El Servicio podrá utilizar los resultados obtenidos para efectuar las actuaciones de fiscalización que correspondan, siempre que las actividades de auditoría, de muestreo o punto fijo, según el caso, cumplan los siguientes requisitos:
+
+Haberse repetido, en forma continua o discontinua, dentro de un periodo máximo de seis años calendario contado desde que se realice la primera actividad de auditoría, muestreo o punto fijo, según corresponda.
+
+Recoger las estacionalidades e hipótesis de fuerza mayor o caso fortuito que puedan afectar los resultados.
+
+Guardar relación con el ciclo económico o con el sector económico respectivo.
+
+Los resultados obtenidos deben ser consistentes con los resultados obtenidos en otras actividades o técnicas de auditoría, aplicados durante la misma revisión, incluyendo chequeos de consumos eléctricos, insumos, servicios, contribuyentes o entidades comparables o de la plaza, o certificaciones emitidas por entidades técnicas reconocidas por el Estado.
+
+En caso de detectarse diferencias relevantes respecto de lo registrado, informado o declarado por el contribuyente, el Servicio, sobre la base de los resultados que arrojen las actividades o técnicas de auditoria, podrá tasar la base imponible de los impuestos que corresponda, tasar el monto de los ingresos y, en general, ejercer todas las facultades de fiscalización dispuestas por la ley.
+
+Cumpliendo los requisitos señalados en el inciso tercero de este artículo, la muestra o resultado obtenido servirá de antecedente para liquidar y girar los impuestos que correspondan, conforme a las reglas generales.
+
+La metodología empleada, así como los resultados de las actividades o técnicas de auditoría a que se refiere este artículo, serán reclamables por el contribuyente conjuntamente con la liquidación, resolución o giro que el Servicio practique en base a ellas, conforme a las reglas generales.
+
+#### Artículo 60
+
+quinquies.- Los productores, fabricantes, importadores, elaboradores, envasadores, distribuidores y comerciantes de bienes afectos a impuestos específicos, que el Servicio de Impuestos Internos determine mediante resolución, deberán incorporar o aplicar a tales bienes o productos, sus envases, paquetes o envoltorios, un sistema de marcación consistente en un sello, marca, estampilla, rótulo, faja u otro elemento distintivo, como medida de control y resguardo del interés fiscal. La información electrónica para la trazabilidad originada en el sistema de marcación referido anteriormente será proporcionada al Servicio mediante los sistemas informáticos que éste disponga con arreglo al presente artículo.
+
+Los contribuyentes dispondrán del plazo de seis meses, contado desde la publicación o notificación de la resolución referida, para implementar y aplicar el sistema respectivo. El plazo podrá ser prorrogado a petición fundada del contribuyente respectivo por otros tres meses contados desde el vencimiento del plazo original.
+
+La resolución del Servicio de Impuestos Internos que determine los contribuyentes afectos a esta obligación, así como la prórroga para la aplicación e implementación del sistema, deberá ser notificada, dentro del plazo de diez días, al Servicio Nacional de Aduanas, para su debido registro y fiscalización.
+
+Un reglamento expedido por el Ministerio de Hacienda establecerá las características y especificaciones técnicas, requerimientos, forma de operación y mecanismos de contratación de los sistemas de marcación de bienes o productos, como asimismo, los requisitos que deberán cumplir los elementos distintivos, equipos, máquinas o dispositivos, los que podrán ser fabricados, incorporados, instalados o aplicados, según corresponda, por empresas que cumplan con los requisitos que allí se contemplen. Tales empresas o su personal no podrán divulgar, en forma alguna, datos relativos a las operaciones de los contribuyentes de que tomen conocimiento, ni permitirán que éstos, sus copias, o los papeles en que se contengan antecedentes de aquellas sean conocidos por persona alguna ajena al Servicio de Impuestos Internos. La infracción a lo dispuesto precedentemente, autorizará al afectado para perseguir las responsabilidades civiles y penales ante los tribunales competentes.
+
+Los contribuyentes que incurran en desembolsos directamente relacionados con la implementación y aplicación de los sistemas de marcación de bienes o productos que trata este artículo, tendrán derecho a deducirlos como crédito en contra de sus pagos provisionales obligatorios del impuesto a la renta, correspondientes a los ingresos del mes en que se haya efectuado el desembolso. El remanente que resultare, por ser inferior el pago provisional obligatorio o por no existir la obligación de efectuarlo en dicho período, podrá imputarse a cualquier otro impuesto de retención o recargo que deba pagarse en la misma fecha. El saldo que aún quedare después de las imputaciones señaladas, podrá rebajarse de los mismos impuestos en los meses siguientes, reajustado en la forma que prescribe el artículo 27 del decreto ley N° 825, de 1974. El saldo o remanente que quedare, una vez efectuadas las deducciones en el mes de diciembre de cada año, o el último mes en el caso de término de giro, según el caso, tendrá el carácter de pago provisional de aquellos a que se refiere el artículo 88 de la ley sobre impuesto a la renta, contenida en el artículo 1° del decreto ley N° 824, de 1974.
+
+Los productos o artículos gravados de acuerdo a las leyes respectivas, no podrán ser extraídos de los recintos de depósito aduanero ni de los locales o recintos particulares para el depósito de mercancías habilitados por el Director Nacional de Aduanas de conformidad al artículo 109 de la Ordenanza de Aduanas, ni de las fábricas, bodegas o depósitos, sin que los contribuyentes de que se trate hayan dado cumplimiento a la obligación que establece este artículo. En caso de incumplimiento, se considerará que tales bienes han sido vendidos o importados clandestinamente, incurriéndose en este último caso en el delito de contrabando previsto en el artículo 168 de la Ordenanza de Aduanas, salvo que se acredite haber pagado el impuesto de que se trate, antes de la notificación de la infracción.
+
+Los contribuyentes que no den cumplimiento oportuno a la obligación que establece el inciso primero serán sancionados con multa de hasta 100 unidades tributarias anuales. Detectada la infracción, sin perjuicio de la notificación de la denuncia, se concederá administrativamente un plazo no inferior a dos meses ni superior a seis para subsanar el incumplimiento; en caso de no efectuarse la corrección en el plazo concedido se notificará una nueva infracción conforme a este inciso. La aplicación de las sanciones respectivas se ajustará al procedimiento establecido en el número 2 del artículo 165.
+
+La adulteración maliciosa en cualquier forma de los productos o inventarios, o de la información que respecto de aquellos se proporcione al Servicio de Impuestos Internos, con la finalidad de determinar un impuesto inferior al que corresponda, será sancionada conforme a lo dispuesto en el inciso primero del número 4 del artículo 97.
+
+En caso de detectarse en un proceso de fiscalización especies de las reguladas en el presente artículo que no cuenten con alguno de los elementos distintivos a que se refiere el inciso primero, se aplicará la sanción establecida en el inciso sexto y el comiso de los bienes o productos respectivos.
+
+La incautación de las especies se efectuará por funcionarios del Servicio de Impuestos Internos en el momento de sorprenderse la infracción, debiendo remitirlas al recinto fiscal más próximo para su custodia y conservación. El vehículo o medio utilizado para cometer la infracción establecida en el inciso anterior no podrá continuar hacia el lugar de destino mientras no se proceda a la incautación de los bienes o productos respectivos.
+
+Para llevar a efecto las medidas de que trata el inciso anterior, se aplicará lo dispuesto en el inciso final del número 17, del artículo 97.
+
+Respecto de los bienes o productos incautados o decomisados de conformidad a la presente ley, se aplicarán en cuanto fueren compatibles las normas establecidas en el Título VIII del Libro II de la Ordenanza de Aduanas, contenida en el decreto con fuerza de ley N° 213, de 1953, cuyo texto fue fijado por el decreto con fuerza de ley N° 30, de 2005, del Ministerio de Hacienda.
 
 #### Artículo 61
 
@@ -834,7 +964,7 @@ Lo dispuesto en el inciso anterior es sin perjuicio de las inscripciones obligat
 
 #### Artículo 68
 
-Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1º, letras a) y b), 3°, 4° y 5° de los artículos 20, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, una declaración jurada sobre dicha iniciación. El Director podrá, mediante normas de carácter general, eximir de presentar esta declaración a contribuyentes o grupos de contribuyentes de escasos recursos económicos o que no tengan la preparación necesaria para confeccionarla, o bien, para sustituir esta exigencia por otros procedimientos que constituyan un trámite simplificado. Los contribuyentes favorecidos con esta facultad podrán acogerse a la exención o al régimen simplificado dentro de los noventa días siguientes a la publicación de la resolución respectiva, aun cuando no hayan cumplido oportunamente con la obligación establecida en este artículo, no siéndoles aplicable sanción alguna en ese caso. Sin embargo, el contribuyente beneficiado con esta eximición o sustitución podrá, optativamente, efectuar la declaración común de iniciación de actividades a que se refiere la primera parte de este inciso.
+Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1º, letra a), 3°, 4° y 5° de los artículos 20, contribuyentes del artículo 34 que sean propietarios o usufructuarios y exploten bienes raíces agrícolas, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, una declaración jurada sobre dicha iniciación. El Director podrá, mediante normas de carácter general, eximir de presentar esta declaración a contribuyentes o grupos de contribuyentes de escasos recursos económicos o que no tengan la preparación necesaria para confeccionarla, o bien, para sustituir esta exigencia por otros procedimientos que constituyan un trámite simplificado. Los contribuyentes favorecidos con esta facultad podrán acogerse a la exención o al régimen simplificado dentro de los noventa días siguientes a la publicación de la resolución respectiva, aun cuando no hayan cumplido oportunamente con la obligación establecida en este artículo, no siéndoles aplicable sanción alguna en ese caso. Sin embargo, el contribuyente beneficiado con esta eximición o sustitución podrá, optativamente, efectuar la declaración común de iniciación de actividades a que se refiere la primera parte de este inciso.
 
 Igualmente el Director podrá eximir de la obligación establecida en este artículo a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan rentas de capitales mobiliarios, sea producto de su tenencia o enajenación, o rentas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución, aun cuando estos contribuyentes hayan designado un representante a cargo de dichas inversiones en el país.
 
@@ -848,11 +978,17 @@ Los contribuyentes deberán poner en conocimiento de la Oficina del Servicio que
 
 Toda persona natural o jurídica que, por terminación de su giro comercial o industrial, o de sus actividades, deje de estar afecta a impuestos, deberá dar aviso por escrito al Servicio, acompañando su balance final o los antecedentes que éste estime necesario, y deberá pagar el impuesto correspondiente hasta el momento del expresado balance, dentro de los dos meses siguientes al término del giro o de sus actividades.
 
-Sin perjuicio de lo dispuesto en el artículo 71, las empresas individuales no podrán convertirse en sociedades de cualquier naturaleza, ni las sociedades aportar a otra u otras todo su activo y pasivo o fusionarse, sin dar aviso de término de giro. Sin embargo, no será necesario dar aviso de término de giro en los casos de empresas individuales que se conviertan en sociedades de cualquier naturaleza, cuando la sociedad que se crea se haga responsable solidariamente en la respectiva escritura social de todos los impuestos que se adeudaren por la empresa individual, relativos al giro o actividad respectiva, ni tampoco, en los casos de aporte de todo el activo y pasivo o fusión de sociedades, cuando la sociedad que se crea o subsista se haga responsable de todos los impuestos que se adeudaren por la sociedad aportante o fusionada, en la correspondiente escritura de aporte o fusión. No obstante, las empresas que se disuelven o desaparecen deberán efectuar un balance de término de giro a la fecha de su extinción y las sociedades que se creen o subsistan, pagar los impuestos correspondientes de la Ley de la Renta, dentro del plazo señalado en el inciso primero, y los demás impuestos dentro de los plazos legales, sin perjuicio de la responsabilidad por otros impuestos que pudieran adeudarse.
+Sin perjuicio de lo dispuesto en el artículo 71°, las empresas individuales no podrán convertirse en sociedades de cualquier naturaleza, ni las sociedades aportar a otra u otras todo su activo y pasivo o fusionarse, sin dar aviso de término de giro. Sin embargo, no será necesario dar aviso de término de giro en los casos de empresas individuales que se conviertan en sociedades de cualquier naturaleza, cuando la sociedad que se crea se haga responsable solidariamente en la respectiva escritura social de todos los impuestos que se adeudaren por la empresa individual, relativos al giro o actividad respectiva, ni tampoco, en los casos de aporte de todo el activo y pasivo o fusión de sociedades, cuando la sociedad que se crea o subsista se haga responsable de todos los impuestos que se adeudaren por la sociedad aportante o fusionada, en la correspondiente escritura de aporte o fusión. No obstante, las empresas que se disuelven o desaparecen deberán efectuar un balance de término de giro a la fecha de su extinción y las sociedades que se creen o subsistan, pagar los impuestos correspondientes de la Ley de la Renta, dentro del plazo señalado en el inciso primero, y los demás impuestos dentro de los plazos legales, sin perjuicio de la responsabilidad por otros impuestos que pudieran adeudarse.
 
 Cuando con motivo del cambio de giro, o de la transformación de una empresa social en una sociedad de cualquier especie, el contribuyente queda afecto a otro régimen tributario en el mismo ejercicio, deberán separarse los resultados afectados con cada régimen tributario sólo para los efectos de determinar los impuestos respectivos de dicho ejercicio.
 
-No podrá efectuarse disminución de capital en las sociedades sin autorización previa del Servicio.
+No podrá efectuarse disminución de capital en las sociedades sin autorización previa del Servicio. También se deberá dar este aviso en el caso de las disminuciones de capital o cuotas de fondos de inversión o en general patrimonios de afectación.
+
+Si el Servicio cuenta con antecedentes que permiten establecer que una persona, entidad o agrupación sin personalidad jurídica, ha terminado su giro o cesado en sus actividades sin que haya dado el aviso respectivo, previa citación efectuada conforme a lo dispuesto en el artículo 63 del Código Tributario, podrá liquidar y girar los impuestos correspondientes, en la misma forma que hubiera procedido si dicha persona, entidad o agrupación hubiere terminado su giro comercial o industrial, o sus actividades, según lo dispuesto en el inciso primero.
+
+En tales casos, los plazos de prescripción del artículo 200 se entenderán aumentados en un año contado desde que se notifique legalmente la citación referida, respecto de la empresa, comunidad, patrimonio de afectación o sociedad respectiva, así como de sus propietarios, comuneros, aportantes, socios o accionistas.
+
+El ejercicio de la facultad a que se refiere el inciso quinto procederá especialmente en los casos en que las personas y entidades o agrupaciones referidas, que estando obligadas a presentar declaraciones mensuales o anuales de impuesto u otra declaración obligatoria ante el Servicio, no cumpla con dicha obligación o, cumpliendo con ella, no declare rentas, operaciones afectas, exentas o no gravadas con impuestos durante un período de dieciocho meses seguidos, o dos años tributarios consecutivos, respectivamente. Asimismo, esta norma se aplicará en caso que, en el referido período o años tributarios consecutivos, no existan otros elementos o antecedentes que permitan concluir que continúa con el desarrollo del giro de sus actividades.
 
 #### Artículo 70
 
@@ -944,13 +1080,23 @@ Las municipalidades estarán obligadas a cooperar en los trabajos de tasación d
 
 Una copia de los balances y estados de situación que se presenten a los bancos y demás instituciones de crédito será enviada por estas instituciones a la Dirección Regional, en los casos particulares en que el Director Regional lo solicite.
 
+#### Artículo 84 bis
+
+La Superintendencia de Valores y Seguros y la de Bancos e Instituciones Financieras remitirán por medios electrónicos u otros sistemas tecnológicos, al Servicio, en mayo de cada año, la información que indique de los estados financieros que les haya sido entregada por las entidades sujetas a fiscalización o sujetas al deber de entregar información. Procederá también el envío de aquellos estados financieros que hayan sido modificados con posterioridad o los producidos con motivo del cese de actividades de la empresa o entidad respectiva. A la misma obligación quedarán sujetas las demás entidades fiscalizadoras que conozcan de dichos estados financieros.
+
+La Comisión Chilena del Cobre, el Servicio Nacional de Geología y Minería y los Conservadores de Minas remitirán, en la forma y plazo que señale el Servicio, la información sobre la constitución, traspaso y cierre de pertenencias, sobre obras de desarrollo y construcción, ingresos y costos mineros, entre otros antecedentes, incluyendo aquellos a que se refiere el inciso final del artículo 2° del decreto ley N° 1.349, de 1976. Igualmente, estarán obligados a remitir la información que el Servicio les solicite, los conservadores o entidades registrales que reciban o registren antecedentes sobre derechos de agua, derechos o permisos de pesca, de explotación de bosques y pozos petroleros. En estos casos, el Servicio pondrá a disposición de quienes deban informar, un procedimiento electrónico que deberán utilizar para el envío de la información.
+
+El Director del Servicio, mediante resolución, impartirá las instrucciones para el ejercicio de esta facultad.
+
 #### Artículo 85
 
 El Banco del Estado, las cajas de previsión y las instituciones bancarias y de crédito en general, remitirán al Servicio, en la forma que el Director Regional determine, las copias de las tasaciones de bienes raíces que hubieren practicado.
 
-Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras y cualquiera otra institución que realice operaciones de crédito de dinero de manera masiva de conformidad a lo dispuesto en el artículo 31 de la ley Nº 18.010, deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, en la oportunidad, forma y cantidad que el Servicio establezca. En caso alguno se podrá solicitar la información sobre las adquisiciones efectuadas por una persona determinada en el uso de las tarjetas de crédito.
+Sin perjuicio de lo dispuesto en los artículos 61 y 62, para los fines de la fiscalización de los impuestos, los Bancos e Instituciones Financieras y cualquiera otra institución que realice operaciones de crédito de dinero de manera masiva de conformidad a lo dispuesto en el artículo 31 de la ley Nº 18.010, y los administradores de sistemas tecnológicos o titulares de la información, según corresponda, deberán proporcionar todos los datos que se les soliciten relativos a las operaciones de crédito de dinero que hayan celebrado y de las garantías constituidas para su otorgamiento, así como también de las transacciones pagadas o cobradas mediante medios tecnológicos, tales como tarjetas de crédito y de débito, en la oportunidad, forma y cantidad que el Servicio establezca. En caso alguno se podrá solicitar información nominada sobre las adquisiciones efectuadas por una persona natural mediante el uso de las tarjetas de crédito o débito u otros medios tecnológicos.
 
-La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, mas que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
+La información así obtenida será mantenida en secreto y no se podrá revelar, aparte del contribuyente, más que a las personas o autoridades encargadas de la liquidación o de la recaudación de los impuestos pertinentes y de resolver las reclamaciones y recursos relativos a las mismas, salvo las excepciones legales.
+
+> **Nota.** La letra b) del número 23, del artículo 10 de la Ley 20780, publicada el 29.09.2014, ordena agregar a continuación de la palabra "otorgamiento" la frase "así como también de las transacciones pagadas o cobradas mediante medios tecnológicos, tales como tarjetas de crédito y de débito," sin considerar la coma (,) ubicada después de ella.
 
 #### Artículo 86
 
@@ -970,11 +1116,11 @@ Estarán obligadas a emitir facturas las personas que a continuación se indican
 
 2°.- Importadores, distribuidores y comerciantes mayoristas.
 
-No obstante, cuando estos contribuyentes tengan establecimientos, secciones o departamentos destinados exclusivamente a la venta directa al consumidor, podrán emitir, en relación a dichas transferencias, boletas en vez de facturas.
-
-Asimismo, tratándose de contribuyentes de difícil fiscalización, la Dirección podrá exigir que la boleta la emita el beneficiario del servicio o eximir a éste de emitir dicho documento, siempre que sustituya esta obligación con el cumplimiento de otras formalidades que resguarden debidamente el interés fiscal y se trate de una prestación ocasional que se haga como máximo en tres días dentro de cada semana. Por los servicios que presten los referidos contribuyentes de difícil fiscalización, no será aplicable la retención del impuesto prevista en el número 2 del artículo 74 de la Ley sobre Impuesto a la Renta, cuando la remuneración por el total del servicio correspondiente no exceda del 50% de una unidad tributaria mensual vigente al momento del pago.
+No obstante, cuando estos contribuyentes tengan establecimientos, secciones o departamentos destinados exclusivamente a la venta directa al consumidor, podrán emitir, en relación a dichas transferencias, boletas en vez de facturas. Asimismo, tratándose de contribuyentes de difícil fiscalización, la Dirección podrá exigir que la boleta la emita el beneficiario del servicio o eximir a éste de emitir dicho documento, siempre que sustituya esta obligación con el cumplimiento de otras formalidades que resguarden debidamente el interés fiscal y se trate de una prestación ocasional que se haga como máximo en tres días dentro de cada semana. Por los servicios que presten los referidos contribuyentes de difícil fiscalización, no será aplicable la retención del impuesto prevista en el número 2 del artículo 74 de la Ley sobre Impuesto a la Renta, cuando la remuneración por el total del servicio correspondiente no exceda del 50% de una unidad tributaria mensual vigente al momento del pago.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores y en la Ley sobre Impuesto a las Ventas y Servicio, la Dirección podrá exigir el otorgamiento de facturas o boletas respecto de cualquier ingreso, operación o transferencia que directa o indirectamente sirva de base para el cálculo de un impuesto y que aquélla determine a su juicio exclusivo, estableciendo los requisitos que éstos documentos deban reunir.
+
+Asimismo, la Dirección podrá exigir la emisión de facturas especiales o boletas especiales en medios distintos del papel, en la forma que establezca mediante resolución.
 
 La Dirección determinará, en todos los casos, el monto mínimo por el cual deban emitirse las boletas. Estos documentos deberán emitirse en el momento mismo en que se celebre el ingreso que motiva su emisión, y estarán exentos de los impuestos establecidos en la Ley sobre Impuesto de Timbres, Estampillas y Papel Sellado.
 
@@ -1000,7 +1146,7 @@ El incumplimiento de esta obligación hará responsable a la institución de tod
 
 #### Artículo 91
 
-El síndico deberá comunicar, dentro de los cinco días siguientes al de su asunción al cargo, la declaratoria de quiebra al Director Regional correspondiente al domicilio del fallido.
+El liquidador deberá comunicar, dentro de los cinco días siguientes al de su asunción al cargo, la dictación de la resolución de liquidación al Director Regional correspondiente al domicilio del fallido.
 
 #### Artículo 92
 
@@ -1096,6 +1242,10 @@ El que maliciosamente confeccione, venda o facilite, a cualquier título, guías
 
 6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por el Director o el Director Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
+El que incumpla o entrabe la obligación de implementar y utilizar sistemas tecnológicos de información conforme al artículo 60 ter, con una multa de 10 unidades tributarias anuales a 100 unidades tributarias anuales, con un límite equivalente al 10% del capital propio tributario o al 15% del capital efectivo.
+
+Los contribuyentes autorizados a sustituir sus libros de contabilidad por hojas sueltas llevadas en forma computacional y aquellos autorizados a llevar sus inventarios, balances, libros o registros contables o auxiliares y todo otro documento de carácter tributario mediante aplicaciones informáticas, medios electrónicos u otros sistemas tecnológicos, que entraben, impidan o interfieran de cualquier forma la fiscalización ejercida conforme a la ley, con una multa equivalente de 1 unidad tributaria anual a 100 unidades tributarias anuales, con un límite equivalente al 5% del capital propio tributario o al 10% del capital efectivo.
+
 7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por el Director o el Director Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
 8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cincuenta por ciento al trescientos por ciento de los impuestos eludidos y con presidio o relegación menores en su grado medio. La reincidencia será sancionada con pena de presidio o relegación menores en su grado máximo.
@@ -1168,7 +1318,7 @@ La sanción pecuniaria establecida en el inciso precedente podrá hacerse efecti
 
 19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y de retirarla del local o establecimiento del emisor, será sancionado con multa de hasta una unidad tributaria mensual en el caso de las boletas, y de hasta veinte unidades tributarias mensuales en el caso de facturas, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
 
-20°.- La deducción como gasto o uso del crédito fiscal que efectúen, en forma reiterada, los contribuyentes del impuesto de Primera Categoría de la Ley de la Renta, que no sean sociedades anónimas abiertas, de desembolsos que sean rechazados o que no den derecho a dicho crédito, de acuerdo a la Ley de la Renta o al decreto ley Nº 825, de 1974, por el hecho de ceder en beneficio personal y gratuito del propietario o socio de la empresa, su cónyuge o hijos, o de una tercera persona que no tenga relación laboral o de servicios con la empresa que justifique el desembolso o el uso del crédito fiscal, con multa de hasta el 200% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar la deducción indebida.
+20°.- La deducción como gasto o uso del crédito fiscal que efectúen, en forma reiterada, los contribuyentes del impuesto de Primera Categoría de la Ley de la Renta, que no sean sociedades anónimas abiertas, de desembolsos que sean rechazados o que no den derecho a dicho crédito, de acuerdo a la Ley de la Renta o al decreto ley Nº 825, de 1974, por el hecho de ceder en beneficio personal y gratuito del propietario o socio de la empresa, su cónyuge o hijos, o de una tercera persona que no tenga relación laboral o de servicios con la empresa que justifique el desembolso o el uso del crédito fiscal, con multa de hasta el 200% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar la deducción indebida. La misma multa se aplicará cuando el contribuyente haya deducido los gastos o hecho uso del crédito fiscal respecto de los vehículos y aquellos incurridos en supermercados y comercios similares, a que se refiere el artículo 31 de la ley sobre Impuesto a la Renta, sin cumplir con los requisitos que dicha disposición establece.
 
 21º.- La no comparecencia injustificada ante el Servicio, a un segundo requerimiento notificado al contribuyente conforme a lo dispuesto en el artículo 11, con una multa de una unidad tributaria mensual a una unidad tributaria anual, la que se aplicará en relación al perjuicio fiscal comprometido y procederá transcurridos 20 días desde el plazo de comparecencia indicado en la segunda notificación. El Servicio deberá certificar la concurrencia del contribuyente al requerimiento notificado.
 
@@ -1203,6 +1353,14 @@ Las sanciones corporales y los apremios, en su caso, se aplicarán a quien debi�
 El contador que al confeccionar o firmar cualquier declaración o balance o que como encargado de la contabilidad de un contribuyente incurriere en falsedad o actos dolosos, será sancionado con multa de una a diez unidades tributarias anuales y podrá ser castigado con presidio menor en sus grados medio a máximo, según la gravedad de la infracción, a menos que le correspondiere una pena mayor como copartícipe del delito del contribuyente, en cuyo caso se aplicará esta última. Además, se oficiará al Colegio de Contadores para los efectos de las sanciones que procedan.
 
 Salvo prueba en contrario, no se considerará dolosa o maliciosa la intervención del contador, si existe en los libros de contabilidad, o al término de cada ejercicio, la declaración firmada del contribuyente, dejando constancia de que los asientos corresponden a datos que éste ha proporcionado como fidedignos.
+
+#### Artículo 100 bis
+
+La persona natural o jurídica respecto de quien se acredite haber diseñado o planificado los actos, contratos o negocios constitutivos de abuso o simulación, según lo dispuesto en los artículos 4° ter, 4° quáter, 4° quinquies y 160 bis de este Código, será sancionado con multa de hasta el 100% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar dichas conductas indebidas, y que se determinen al contribuyente. Con todo, dicha multa no podrá superar las 100 unidades tributarias anuales.
+
+Para estos efectos, en caso que la infracción haya sido cometida por una persona jurídica, la sanción señalada será aplicada a sus directores o representantes legales si hubieren infringido sus deberes de dirección y supervisión.
+
+Para efectos de lo dispuesto en el presente artículo, el Servicio sólo podrá aplicar la multa a que se refieren los incisos precedentes cuando, en el caso de haberse deducido reclamación en contra de la respectiva liquidación, giro o resolución, ella se encuentre resuelta por sentencia firme y ejecutoriada, o cuando no se haya deducido reclamo y los plazos para hacerlo se encuentren vencidos. La prescripción de la acción para perseguir esta sanción pecuniaria será de seis años contados desde el vencimiento del plazo para declarar y pagar los impuestos eludidos.
 
 ### Párrafo 2° — .
 
@@ -1350,7 +1508,7 @@ Para resolver en primera instancia sobre la fijación de los impuestos de la Ley
 
 #### Artículo 119
 
-Derogado.
+Será competente para conocer tanto de la declaración de abuso o simulación, establecida en el artículo 4° quinquies, como de la determinación y aplicación de la multa contemplada en el artículo 100 bis, el Tribunal Tributario y Aduanero en cuyo territorio jurisdiccional tenga su domicilio el contribuyente. Tratándose de contribuyentes personas jurídicas se entenderá que el domicilio de éstas corresponde al de la matriz.
 
 #### Artículo 120
 
@@ -1471,6 +1629,8 @@ El Tribunal Tributario y Aduanero llevará los autos en la forma ordenada en los
 #### Artículo 131
 
 Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
+
+> **Nota.** La Ley 20774, publicada el 04.09.2014, modificó diversas disposiciones legales con el fin de suprimir el feriado judicial y, en particular, el Nº 3 de su Art. 1º lo eliminó del Art. 313 del Código Orgánico de Tribunales, a que se refiere el presente artículo. Conforme a su Art. 7 las referencias al feriado judicial de febrero consignadas en cualquier cuerpo legal que no se encuentren previstas expresamente en ella, se entenderán derogadas para todos los efectos legales.
 
 #### Artículo 131 bis
 
@@ -1722,6 +1882,26 @@ Derogado.
 
 No será aplicable el procedimiento de este párrafo a las reclamaciones del contribuyente por impuestos a la Ley de Timbres, Estampillas y Papel Sellado, cuando ya se hubieren pagado o cuando, con anterioridad a la presentación de la solicitud a que se refiere el inciso 1° del artículo 158, el Servicio le notifique la liquidación o cobro de tales impuestos. En estos casos se aplicará el procedimiento general contemplado en el Título II de este Libro.
 
+### Párrafo 4°
+
+Del procedimiento de declaración judicial de la existencia de abuso o simulación y de la determinación de la responsabilidad respectiva
+
+#### Artículo 160 bis
+
+El Director deberá solicitar la declaración de abuso o simulación a que se refiere el artículo 4° quinquies y, en su caso, la aplicación de la multa establecida en el artículo 100 bis ante el Tribunal Tributario y Aduanero competente, de manera fundada, acompañando los antecedentes de hecho y de derecho en que se sustenta y que permitan la determinación de los impuestos, intereses penales y multas a que dé lugar la declaración judicial a que se refiere este artículo.
+
+De la solicitud del Servicio se conferirá traslado al contribuyente y a los posibles responsables del diseño o planificación de los actos, contratos o negocios susceptibles de constituir abuso o simulación, por el término de noventa días. Su contestación deberá contener una exposición clara de los hechos y fundamentos de derecho en que basa su oposición a la declaración de abuso o simulación o, en su caso, a la responsabilidad por el diseño o planificación de los actos, contratos o negocios constitutivos de abuso o simulación.
+
+Vencido el plazo para evacuar el traslado, haya o no contestado el contribuyente o el posible responsable, el Tribunal citará a las partes a una audiencia que deberá fijarse a contar del séptimo día y no más allá del decimoquinto, contado desde la fecha de la notificación de dicha citación, con el objeto que expongan sobre los puntos planteados tanto en la solicitud como en la contestación, en caso que la hubiere. En caso que el contribuyente o el posible responsable aporten en esta audiencia nuevos antecedentes a los cuales el Servicio no haya tenido acceso previo, se le conferirá a éste un plazo de quince días para emitir los descargos pertinentes.
+
+Vencido el último plazo a que se refiere el inciso anterior, y en la medida que hubiere controversia sobre algún hecho sustancial y pertinente, el Tribunal abrirá un término probatorio por un plazo de veinte días. En contra de la resolución que fije los puntos sobre los cuales deberá recaer la prueba, sólo procederá el recurso de reposición dentro del plazo de cinco días. Concluido el término probatorio, se otorgará a las partes un plazo de cinco días para efectuar observaciones a la prueba rendida, tras lo cual el Tribunal resolverá en un plazo de veinte días. El Tribunal apreciará la prueba de acuerdo a las reglas de la sana crítica y deberá fundar su decisión teniendo en consideración la naturaleza económica de los hechos imponibles conforme a lo establecido en el artículo 4° bis.
+
+En contra de la resolución que se pronuncie sobre la solicitud procederá el recurso de apelación, el que deberá interponerse en el plazo de quince días contado desde la notificación respectiva, y se concederá en ambos efectos. La apelación se tramitará en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la Secretaría de la Corte de Apelaciones, solicite alegatos. En contra de la resolución de la Corte de Apelaciones procederá el recurso de casación en el fondo o la forma.
+
+La liquidación, giro, resolución o multa, que se emitan en cumplimiento de la sentencia firme dictada en el procedimiento que declare la existencia del abuso o de la simulación o la responsabilidad por el diseño o planificación de los actos, contratos o negocios constitutivos de abuso o simulación, no serán susceptibles de reclamo alguno. Las controversias que surjan respecto al cumplimiento de la sentencia, serán resueltas en forma incidental por el Tribunal que la dictó.
+
+En lo no establecido por este Párrafo, y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de este Libro.
+
 ## Título IV
 
 Del Procedimiento para la Aplicación de Sanciones
@@ -1810,25 +1990,33 @@ Las denuncias por las infracciones sancionadas en los números 1°, 2°, 3º, 6�
 
 2° En los casos a que se refieren los números 1º, inciso segundo, 3º, 6°, 7°, 10°, 15, 16, 17, 19, 20 y 21 del artículo 97, y artículo 109, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3° Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Tribunal Tributario y Aduanero de su jurisdicción.
+3° Notificada la infracción o giro, según sea el caso, los contribuyentes acogidos al artículo 14 ter de la ley sobre impuesto a la renta podrán, por una única vez, solicitar la sustitución de la multa respectiva por la participación obligatoria del contribuyente o su representante a programas de capacitación en materias tributarias impartidos por el Servicio de manera presencial o a distancia.
 
-4º. Formulado el reclamo, se conferirá traslado al Servicio por el término de diez días. Vencido el plazo, haya o no contestado el Servicio, el Juez Tributario y Aduanero podrá recibir la causa a prueba si estima que existen hechos substanciales y pertinentes controvertidos, abriendo un término probatorio de ocho días. En la misma resolución determinará la oportunidad en que la prueba testimonial deba rendirse. Dentro de los dos primeros días del término probatorio las partes deberán acompañar una nómina de los testigos de que piensan valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. No podrán declarar más de cuatro testigos por cada parte. En todo caso, el tribunal podrá citar a declarar a personas que no figuren en las listas de testigos o decretar otras diligencias probatorias que estime pertinentes.
+Sólo podrá solicitarse lo dispuesto en este número respecto de las multas contempladas en el artículo 97 números 1°, inciso primero, 2°, 3°, 15, 19 y 21.
+
+La solicitud de sustitución deberá presentarse dentro del plazo de reclamo a que se refiere el número 4° siguiente, individualizando a las personas que participarán en los programas de capacitación.
+
+Autorizada por el Servicio la sustitución de la multa de conformidad a lo dispuesto precedentemente, si no se diere cumplimiento a la obligación de asistencia y aprobación de los programas de capacitación a que se refiere este número, o si, habiéndose dado cumplimiento, se incurre nuevamente en las mismas conductas que motivaron la infracción o giro, se aplicará la multa originalmente sustituida, incrementada en hasta un 25%. Los plazos establecidos en los artículos 200 y 201, se suspenderán durante el periodo a que se refiere este artículo.
+
+4° Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Tribunal Tributario y Aduanero de su jurisdicción.
+
+5º. Formulado el reclamo, se conferirá traslado al Servicio por el término de diez días. Vencido el plazo, haya o no contestado el Servicio, el Juez Tributario y Aduanero podrá recibir la causa a prueba si estima que existen hechos substanciales y pertinentes controvertidos, abriendo un término probatorio de ocho días. En la misma resolución determinará la oportunidad en que la prueba testimonial deba rendirse. Dentro de los dos primeros días del término probatorio las partes deberán acompañar una nómina de los testigos de que piensan valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. No podrán declarar más de cuatro testigos por cada parte. En todo caso, el tribunal podrá citar a declarar a personas que no figuren en las listas de testigos o decretar otras diligencias probatorias que estime pertinentes.
 
 Las resoluciones dictadas en primera instancia se notificarán a las partes de conformidad con lo dispuesto en el artículo 131 bis.
 
-5º. El Juez Tributario y Aduanero resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de décimoquinto día, contado desde la notificación de dicha resolución. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague, a beneficio fiscal, una cantidad adicional equivalente al diez por ciento de la multa reajustada, y se condenará en las costas del recurso al recurrente, de acuerdo a las reglas generales.
+6º. El Juez Tributario y Aduanero resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de décimoquinto día, contado desde la notificación de dicha resolución. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague, a beneficio fiscal, una cantidad adicional equivalente al diez por ciento de la multa reajustada, y se condenará en las costas del recurso al recurrente, de acuerdo a las reglas generales.
 
 La Corte de Apelaciones verá la causa en forma preferente, en cuenta y sin esperar la comparecencia de las partes, salvo que estime conveniente el conocimiento de ella previa vista y en conformidad a las normas prescritas para los incidentes.
 
 En contra de la sentencia de segunda instancia no procederán los recursos de casación en la forma y en el fondo.
 
-6° Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita. No se aplicará en este procedimiento lo dispuesto en el inciso segundo del artículo 129.
+7° Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita. No se aplicará en este procedimiento lo dispuesto en el inciso segundo del artículo 129.
 
-7° La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+8° La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 
-8° Suprimido.
+9° Suprimido.
 
-9º La interposición de reclamo en contra de la liquidación de los impuestos originados en los hechos infraccionales sancionados en el Nº 20 del artículo 97º, suspenderá la resolución de la reclamación que se hubiere deducido en contra de la notificación de la citada infracción, hasta que la sentencia definitiva que falle el reclamo en contra de la liquidación quede ejecutoriada.
+10º La interposición de reclamo en contra de la liquidación de los impuestos originados en los hechos infraccionales sancionados en el Nº 20 del artículo 97º, suspenderá la resolución de la reclamación que se hubiere deducido en contra de la notificación de la citada infracción, hasta que la sentencia definitiva que falle el reclamo en contra de la liquidación quede ejecutoriada.
 
 ### Párrafo 3° — .
 
@@ -1862,7 +2050,7 @@ El Tesorero General de la República determinará por medio de instrucciones int
 
 El Tesorero General podrá, por resolución fundada, excluir del procedimiento ejecutivo de este Título, aquellas obligaciones tributarias en que por su escaso monto o por otras circunstancias calificadas, no resulte conveniente efectuar la cobranza judicial, resolución que podrá modificar en cualquier momento.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, el Tesorero General de la República, por resolución interna, podrá ordenar la exclusión del procedimiento ejecutivo a que se refiere este Título de los contribuyentes que, se encuentren o no demandados, tengan deudas morosas cuyo valor por cada formulario, giro u orden, no exceda del 50% de una Unidad Tributaria Mensual vigente a la fecha de la mencionada resolución.
+Sin perjuicio de lo dispuesto en el inciso anterior, el Tesorero General de la República, por resolución interna, podrá ordenar la exclusión del procedimiento ejecutivo a que se refiere este Título de los contribuyentes que, se encuentren o no demandados, tengan deudas morosas fiscales cuyo valor por cada formulario, giro u orden, no exceda de 2 UTM vigente a la fecha de la mencionada resolución.
 
 #### Artículo 170
 
@@ -1882,13 +2070,13 @@ Sin perjuicio de la ejecución, la Tesorería Comunal podrá, en forma previa, c
 
 #### Artículo 171
 
-La notificación del hecho de encontrarse en mora y el requerimiento de pago al deudor, se efectuará personalmente por el recaudador fiscal, quien actuará como ministro de fe, o bien, en las áreas urbanas, por carta certificada conforme a las normas de los incisos segundo, tercero, cuarto y quinto del artículo 11 y artículo 13, cuando así lo determine el juez sustanciador atendida las circunstancias del caso. Tratándose de la notificación personal, si el ejecutado no fuere habido, circunstancia que se acreditará con la certificación del funcionario recaudador, se le notificará por cédula en los términos prevenidos en el artículo 44 del Código de Procedimiento Civil; en este caso, no será necesario cumplir con los requisitos señalados en el inciso primero de dicho artículo, ni se necesitará nueva providencia del Tesorero respectivo para la entrega de las copias que en él se dispone. En estos dos últimos casos el plazo para oponer excepciones de que habla el artículo 177, se contará desde la fecha en que se haya practicado el primer embargo. La notificación hecha por carta certificada o por cédula, según el caso, se entenderá válida para todos los efectos legales y deberá contener copia íntegra del requerimiento. La carta certificada servirá también como medio para notificar válidamente cualquier otra resolución recaída en este procedimiento que no tenga asignada expresamente otra forma de notificación.
+La notificación del hecho de encontrarse en mora y el requerimiento de pago al deudor, se efectuará personalmente por el recaudador fiscal, quien actuará como ministro de fe, o bien, en las áreas urbanas, por carta certificada conforme a las normas de los incisos segundo, tercero, cuarto y quinto del artículo 11 y artículo 13, cuando así lo determine el juez sustanciador atendida las circunstancias del caso. Tratándose de la notificación personal, si el ejecutado no fuere habido, circunstancia que se acreditará con la certificación del funcionario recaudador, se le notificará por cédula en los términos prevenidos en el artículo 44 del Código de Procedimiento Civil; en este caso, no será necesario cumplir con los requisitos señalados en el inciso primero de dicho artículo, ni se necesitará nueva providencia del Tesorero respectivo para la entrega de las copias que en él se dispone. En estos dos últimos casos el plazo para oponer excepciones de que habla el artículo 177, se contará desde la fecha en que se haya practicado el primer embargo. La notificación hecha por carta certificada o por cédula, según el caso, se entenderá válida para todos los efectos legales y deberá contener copia íntegra del requerimiento. La carta certificada servirá también como medio para notificar válidamente cualquier otra resolución recaída en este procedimiento que no tenga asignada expresamente otra forma de notificación. Tratándose del impuesto territorial, la Tesorería podrá determinar además la empresa de correos más apropiada para el despacho de la citada carta. Será también hábil para su envío el domicilio indicado en el inciso cuarto de este artículo. Para efectos de notificar válidamente cualquier otra resolución recaída en este procedimiento que no tenga asignada expresamente otra forma de notificación, se podrá utilizar como medio idóneo para dicho fin, el envío de una carta certificada o un correo electrónico a la cuenta que haya registrado el contribuyente ante el Servicio de Impuestos Internos, debiendo quedar constancia de aquellas actuaciones en el expediente, por medio de certificación del recaudador fiscal.
 
 Practicado el requerimiento en alguna de las formas indicadas en el inciso precedente, sin que se obtenga el pago, el recaudador fiscal, personalmente, procederá a la traba del embargo; pero, tratándose de bienes raíces, el embargo no surtirá efecto respecto de terceros, sino una vez que se haya inscrito en el Conservador de Bienes Raíces correspondiente.
 
 En igual forma se procederá en caso de bienes embargados que deban inscribirse en registros especiales, tales como acciones, propiedad literaria o industrial, bienes muebles agrícolas o industriales.
 
-Además de los lugares indicados en el artículo 41° del Código de Procedimiento Civil, la notificación podrá hacerse, en el caso del impuesto territorial, en la propiedad raíz de cuya contribución se trate; sin perjuicio también de la facultad del Tesorero Comunal para habilitar, con respecto de determinadas personas, día, hora y lugar. Tratándose de otros tributos, podrá hacerse en el domicilio o residencia indicado por el contribuyente en su última declaración que corresponda al impuesto que se le cobra.
+Además de los lugares indicados en el artículo 41° del Código de Procedimiento Civil, la notificación podrá hacerse, en el caso del impuesto territorial, en la propiedad raíz de cuya contribución se trate; sin perjuicio también de la facultad del Tesorero Comunal para habilitar, con respecto de determinadas personas, día, hora y lugar. Tratándose de otros tributos, podrá hacerse en el domicilio o residencia indicado por el contribuyente en su última declaración que corresponda al impuesto que se le cobra, en el último domicilio que el contribuyente haya registrado ante el Servicio de Impuestos Internos.
 
 Para facilitar estas diligencias, los recaudadores fiscales podrán exigir de los deudores morosos una declaración jurada de sus bienes y éstos deberán proporcionarla. Si así no lo hicieren y su negativa hiciere impracticable o insuficiente el embargo, el Abogado Provincial solicitará de la Justicia Ordinaria apremios corporales en contra del rebelde.
 
@@ -2012,7 +2200,7 @@ Con todo si el traslado resultare difícil u oneroso el Juez autorizará que las
 
 La subasta de los bienes raíces será decretada por el Juez de la causa, a solicitud del respectivo Abogado Provincial, cualesquiera que sean los embargos o prohibiciones que les afecten, decretados por otros juzgados, teniendo como única tasación la que resulte de multiplicar por 1,3 veces el avalúo fiscal que esté vigente para los efectos de la contribución de bienes raíces.
 
-Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil, se reducirán en estos juicios a dos publicaciones en un diario de los de mayor circulación del departamento o de la cabecera de la provincia, si en aquél no lo hay. En dichos avisos deberán indicarse a lo menos los siguientes antecedentes: nombre del dueño del inmueble, su ubicación, tipo de impuesto y período, número de rol, si lo hubiere, y el Tribunal que conoce del juicio. El Servicio de Tesorerías deberá emplear todos los medios a su alcance para dar la mayor publicidad posible a la subasta.
+Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil se reducirán en estos juicios a dos publicaciones en un diario que tenga circulación con alcance de carácter nacional, independientemente que su soporte sea electrónico o digital, o en un periódico de los de mayor circulación de la provincia, o de la capital de la región si en aquella no lo hay. En dichos avisos deberán indicarse a lo menos los siguientes antecedentes: nombre del dueño del inmueble, su ubicación, tipo de impuesto y período, número de rol, si lo hubiere, y el Tribunal que conoce del juicio. El Servicio de Tesorerías deberá emplear todos los medios a su alcance para dar la mayor publicidad posible a la subasta.
 
 #### Artículo 186°
 
@@ -2048,9 +2236,9 @@ Se tendrá como parte en segunda instancia al respectivo Abogado Provincial, aun
 
 #### Artículo 192
 
-El Servicio de Tesorerías podrá otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado salvo que no hayan concurrido después de haber sido sancionados conforme al artículo 97, número 21, se encuentren procesados o, en su caso, acusados conforme al Código Procesal Penal, o hayan sido sancionados por delitos tributarios hasta el cumplimiento total de su pena, situaciones que el Servicio informará a Tesorería para estos efectos.
+El Servicio de Tesorerías podrá otorgar facilidades hasta de dos años, en cuotas periódicas, para el pago de los impuestos adeudados, facultad que ejercerá mediante normas o criterios de general aplicación que el Tesorero General determinará mediante resolución.
 
-Facúltase al Tesorero General de la República para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, mediante normas o criterios de general aplicación que se determinarán para estos efectos por resolución del Ministro de Hacienda.
+Facúltase al Tesorero General para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, mediante normas o criterios objetivos y de general aplicación, que se determinarán por dicho Servicio.
 
 No obstante lo dispuesto en los incisos anteriores, el Presidente de la República podrá ampliar el mencionado plazo para el pago de los impuestos atrasados de cualquiera naturaleza, en regiones o zonas determinadas, cuando a consecuencia de sismos, inundaciones, sequías prolongadas u otras circunstancias, se haya producido en dicha zona o región, una paralización o disminución notoria de la actividad económica. Se entenderán cumplidos estos requisitos, sin necesidad de declaración previa, en todas aquellas regiones o zonas en que el Presidente de la República disponga que se le apliquen las disposiciones del Título I de la Ley N° 16.282.
 
@@ -2072,9 +2260,9 @@ Los contribuyentes podrán reclamar ante el Abogado Provincial que corresponda d
 
 Los notarios, conservadores, archiveros y oficiales civiles estarán obligados a proporcionar preferentemente las copias, inscripciones y anotaciones que les pida la Tesorería Comunal. El valor de sus actuaciones lo percibirán a medida que los contribuyentes enteren en Tesorería, las respectivas costas de cobranza.
 
-#### Artículo 195°
+#### Artículo 195
 
-Los funcionarios que puedan contribuir, en razón de sus cargos, al esclarecimiento y control de la cobranza o de los derechos que el Fisco haga valer en juicio, proporcionarán oportunamente la documentación que se les solicite.
+Las instituciones públicas y privadas, bancos, instituciones financieras, administradoras de fondos de pensiones u otras personas y entidades, que mantengan información que pueda contribuir al esclarecimiento y control de la cobranza o de los derechos que el Fisco haga valer en juicio, deberán proporcionar oportunamente la documentación e información que se les solicite, sin perjuicio de lo dispuesto en la ley N° 19.628, sobre Protección de la Vida Privada, y lo señalado en el artículo 154 de la ley General de Bancos, sobre secreto bancario.
 
 #### Artículo 196°
 
