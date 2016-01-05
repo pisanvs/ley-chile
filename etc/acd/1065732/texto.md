@@ -4,7 +4,7 @@ Vistos: Lo dispuesto en el artículo 19º Nº 12 de la Constitución Política d
 
 Considerando: La importancia de la televisión, como un medio masivo, para el incremento y desarrollo de la cultura y el conocimiento, así como para la valoración del patrimonio y la identidad nacional y universal,
 
-El Consejo Nacional de Televisión, en el ejercicio de sus facultades constitucionales y legales, acordó las siguientes "Normas sobre la obligación de las concesionarias de radiodifusión televisiva de libre recepción de transmitir un mínimo de programas culturales a la semana":
+El Consejo Nacional de Televisión, en el ejercicio de sus facultades constitucionales y legales, acordó las siguientes "Normas sobre la obligación de los servicios de televisión de transmitir un mínimo de programas culturales a la semana":
 
 1. Las concesionarias de radiodifusión televisiva de libre recepción y los permisionarios de servicios limitados de televisión, estarán obligados a transmitir, a lo menos cuatro horas de programas culturales a la semana.
 
@@ -16,7 +16,7 @@ El Consejo Nacional de Televisión, en el ejercicio de sus facultades constituci
 
 5. Para los efectos del cumplimiento de esta norma, serán considerados los programas cuyos formatos y lenguaje correspondan a los de una producción para ser exhibida en un medio masivo como es la televisión. De no ser así, se deberán incorporar elementos adicionales de información, contexto o reflexión, que colaboren a una mejor apreciación de los contenidos, en cuanto a su valor, pertinencia y contribución al desarrollo cultural.
 
-6. Al menos dos de las cuatro horas de programación cultural deberán transmitirse en horarios de alta audiencia, que se fijan en este Reglamento, quedando a criterio de cada concesionaria determinar el día y la hora dentro de dichos horarios.
+6. Al menos dos de las cuatro horas de programación cultural deberán transmitirse en horarios de alta audiencia, que se fijan en este Reglamento, quedando a criterio de cada servicio de televisión determinar el día y la hora dentro de dichos horarios.
 
 7. De lunes a domingo, ambos días inclusive, el horario de alta audiencia será el comprendido entre las 18:30 Horas y las 00:00 Horas.
 
@@ -32,6 +32,8 @@ El Consejo Nacional de Televisión, en el ejercicio de sus facultades constituci
 
 13. El programa ya aceptado como cultural, para dar cumplimiento a esta norma, podrá repetirse hasta tres veces en un plazo de un año, contado desde la primera emisión del referido programa. Esto no se aplicará a permisionarios de servicios limitados de televisión.
 
-14. Los representantes legales de concesionarios o permisionarios, o quienes se encuentren legalmente habilitados para subrogarlos, deberán informar mensualmente al Consejo su programación cultural, debiendo enviar los antecedentes, por escrito, y dentro de los últimos cinco días hábiles del mes anterior al informado.
+14. Los representantes legales de concesionarios o permisionarios, o quienes se encuentren legalmente habilitados para subrogarlos, deberán informar por escrito al Consejo la programación cultural emitida, a más tardar el quinto día hábil del periodo siguiente al fiscalizado. Esta obligación deberá cumplirse al tenor de lo establecido en las directrices que cada año se distribuirán entre los servicios de televisión.
+
+15. La omisión de lo prescrito en el número anterior hará presumir el incumplimiento de la obligación de transmitir un mínimo de programación cultural en el período correspondiente; siendo obligación del respectivo servicio de televisión acreditar lo contrario.
 
 La presente normativa entrará en vigencia el primer día del mes subsiguiente a aquel en que ella sea publicada en el Diario Oficial.
