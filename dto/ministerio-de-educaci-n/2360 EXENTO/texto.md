@@ -18,27 +18,9 @@ Decreto:
 
 Declárase Monumento Nacional en la categoría de Monumento Histórico el Cerro Colo Colo, ubicado en la comuna y provincia de Arauco, VIII Región del Biobío.
 
-Los límites del área protegida corresponden al polígono señalado con las letras A-B-C-D-E-F-G-H-I-J, dado por las coordenadas geográficas Datum: Sudamericano 1969 / Huso 18 / Sistema Coordenado: UTM, que se indica a continuación y señalados en el plano adjunto, que forma parte del presente decreto:
+El área del polígono tiene una superficie aproximada de 261.740,59 m2, según se delimita por el polígono A-B-C-D-E-F-G-H-l-J-K-L-M-N-A del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
 
-A.- 648758.91 E 5876869.02 N
-
-B.- 648937.15 E 5876760.53 N
-
-C.- 648854.12 E 5876663.11 N
-
-D.- 648986.97 E 5876488.19 N
-
-E.- 648857.44 E 5876417.34 N
-
-F.- 648738.98 E 5876367.52 N
-
-G.- 648531.96 E 5876274.53 N
-
-H.- 648438.97 E 5876316.59 N
-
-I.- 648320.51 E 5876565.69 N
-
-J.- 648333.80 E 5876727.32 N
+.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.
 
