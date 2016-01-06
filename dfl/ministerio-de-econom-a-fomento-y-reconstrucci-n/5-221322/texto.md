@@ -198,11 +198,11 @@ Las cooperativas podrán considerar en su estatuto plazos o condiciones para la 
 
 Las cooperativas deberán constituir e incrementar cada año un fondo de provisión del 2% de sus remanentes, destinado sólo a la devolución de cuotas de participación, en casos excepcionales, los que deberán ser determinados en términos explícitos y claros por la junta general de socios.
 
-Estas disposiciones, con excepción del inciso primero, no serán aplicables a las cooperativas de ahorro y crédito bajo la supervisión de la Comisión para el Mercado Financiero, las cuales se regirán por sus normas especiales y por las disposiciones que establezca el Consejo del Banco Central de Chile.
+Estas disposiciones, con excepción del inciso primero, no serán aplicables a las cooperativas de ahorro y crédito bajo la supervisión de la Superintendencia de Bancos e Instituciones Financieras, las cuales se regirán por sus normas especiales y por las disposiciones que establezca el Consejo del Banco Central de Chile.
 
 La renuncia sólo podrá ser rechazada en los casos previstos en los estatutos o en otras normas aplicables a las cooperativas.
 
-La adopción de alguno de los acuerdos señalados en las letras f), h), i), n) y ñ) del artículo 23, y la modificación sustancial del objeto social, como por ejemplo aquella que implique la realización de nuevas actividades no relacionadas directa o indirectamente con el objeto original, concederá derecho al socio disidente a retirarse de la cooperativa, la que no podrá rechazar la renuncia en ningún caso.
+La adopción de alguno de los acuerdos señalados en las letras e), g), h), m) y n) del artículo 23, y la modificación sustancial del objeto social, como por ejemplo aquella que implique la realización de nuevas actividades no relacionadas directa o indirectamente con el objeto original, concederá derecho al socio disidente a retirarse de la cooperativa, la que no podrá rechazar la renuncia en ningún caso.
 
 Se considerará socio disidente a aquél que en la respectiva junta se hubiere opuesto al acuerdo pertinente o que, no habiendo concurrido a la junta, manifieste su disidencia por escrito a la cooperativa, dentro del plazo de treinta días contado desde la fecha en que se adoptó el acuerdo.
 
@@ -215,10 +215,6 @@ El consejo de administración podrá convocar a una nueva junta general que debe
 #### Artículo 19 bis
 
 Tratándose de las cooperativas de ahorro y crédito, en ningún caso podrán devolverse cuotas de participación sin que se hubieren enterado en la cooperativa previamente aportes de capital por una suma al menos equivalente al monto de las devoluciones requeridas por causa legal, reglamentaria o estatutaria, que las haga exigibles o procedentes. Dichos pagos serán exigibles y deberán efectuarse atendiendo estrictamente a la fecha en que tenga lugar la circunstancia que los causa, teniendo preferencia para su cobro el socio disidente.
-
-Se exceptúan de la prohibición establecida en el inciso precedente aquellas cooperativas de ahorro y crédito fiscalizadas por la Comisión para el Mercado Financiero, que presenten una solicitud acompañada de un plan de devolución de cuotas, el que deberá ser aprobado por dicho organismo.
-
-La Comisión para el Mercado Financiero establecerá, mediante norma de carácter general, y previo acuerdo favorable del Banco Central Chile, los requisitos y condiciones que deberán cumplir dichas cooperativas para presentar la solicitud, y el plan de devolución de cuotas referidos en el inciso anterior.
 
 La cooperativa no podrá efectuar, directa o indirectamente, repartos de remanentes o de excedentes, devoluciones de los montos enterados por sus socios a causa de la suscripción de cuotas de participación o pago de intereses al capital, si por efecto de dichos repartos, devoluciones o pagos infringiera las disposiciones que establezca el Consejo del Banco Central de Chile al efecto.
 
@@ -250,7 +246,7 @@ Los poderes para asistir con derecho a voz y voto a ellas, deberán otorgarse po
 
 No podrán ser apoderados los miembros del Consejo de Administración, de la Junta de Vigilancia, el Gerente y los trabajadores de las Cooperativas.
 
-Los apoderados deberán ser socios de la cooperativa, salvo que se trate del cónyuge o hijos del socio, o de administradores o trabajadores de éstos, en cuyo caso el poder que se otorgue deberá ser autorizado ante notario, o suscrito mediante firma electrónica avanzada.
+Los apoderados deberán ser socios de la cooperativa, salvo que se trate del cónyuge o hijos del socio, o de administradores o trabajadores de éstos, en cuyo caso el poder que se otorgue deberá ser autorizado ante notario.
 
 Ningún socio podrá representar a más de un 5% de los socios presentes o representados en una asamblea general.
 
@@ -304,7 +300,7 @@ o) La fijación de remuneración, participación o asignaciones en dinero o espe
 
 p) Las demás materias que por ley o por los estatutos correspondan a su conocimiento o a la competencia de las juntas generales de socios y, en general, cualquier materia que sea de interés social.
 
-Requerirán la conformidad de los dos tercios de los socios presentes o representados en la junta general respectiva los acuerdos relativos a las materias de las letras e), f), h), i), j), k), l), m), n) y ñ), los que deberán ser tratados sólo en juntas generales especialmente citadas con tal objeto.
+Requerirán la conformidad de los dos tercios de los socios presentes o representados en la junta general respectiva los acuerdos relativos a las materias de las letras d), e), f), h), i), j), k), l), m), n) y ñ), los que deberán ser tratados sólo en juntas generales especialmente citadas con tal objeto.
 
 Los acuerdos relativos a las demás materias de conocimiento de la junta general se adoptarán por la mayoría simple de los socios presentes o representados en ella.
 
@@ -438,7 +434,7 @@ La junta general de socios podrá autorizar la emisión de valores de oferta pú
 
 #### Artículo 36
 
-Para el cobro de los saldos insolutos de las cuotas de participación bastará como título ejecutivo una copia autorizada, o suscrita mediante firma electrónica avanzada, del acta del Consejo de Administración en la que conste el acuerdo tomado por dicho consejo en orden a su cobro judicial, acompañado del documento de suscripción correspondiente.
+Para el cobro de los saldos insolutos de las cuotas de participación bastará como título ejecutivo una copia autorizada del acta del Consejo de Administración en la que conste el acuerdo tomado por dicho consejo en orden a su cobro judicial, acompañado del documento de suscripción correspondiente.
 
 #### Artículo 37
 
@@ -458,7 +454,7 @@ a) Que su patrimonio sea mayor a 200.000 unidades de fomento.
 
 b) Que el resultado de la división entre su patrimonio y el pasivo total sea igual o superior a 2.
 
-Asimismo, se exceptúa de las disposiciones anteriores a las cooperativas de ahorro y crédito supervisadas por la Comisión para el Mercado Financiero, de trabajo, campesinas y de pescadores.
+Asimismo, se exceptúa de las disposiciones anteriores a las cooperativas de ahorro y crédito supervisadas por la Superintendencia de Bancos e Instituciones Financieras, de trabajo, campesinas y de pescadores.
 
 En el caso de las cooperativas abiertas de vivienda, deberán constituir a lo menos el 70% del remanente generado como fondo de reserva no susceptible de reparto hasta su disolución y posterior liquidación. Con todo, por acuerdo de la Junta General de Socios se podrá dar este tratamiento hasta al 100% del remanente del ejercicio.
 
@@ -598,7 +594,7 @@ Increméntase hasta el 25% el límite de descuentos voluntarios por planilla est
 
 #### Artículo 54 bis
 
-Tratándose de funcionarios del sector público, el límite para los descuentos voluntarios por planilla establecido en el artículo 96 de la ley N° 18.834, sobre Estatuto Administrativo, o bien el límite contemplado en el artículo 95 de la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales, será del 25% cuando los descuentos adicionales sean a favor de cooperativas de las que el funcionario sea socio.
+Tratándose de funcionarios del sector público, el límite para los descuentos voluntarios por planilla establecido en el artículo 96 de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, del Ministerio de Hacienda, de 2004, será del 25% cuando los descuentos adicionales sean a favor de cooperativas de las que el funcionario sea socio.
 
 Los pensionados beneficiarios de pensiones de vejez, sobrevivencia u orfandad, sea que estén afiliados al sistema público o privado de pensiones, podrán solicitar a las instituciones pagadoras el descuento de hasta el 25% del valor de sus pensiones, incluidos los créditos de auxilio social de las cajas de compensación de asignación familiar, siempre que los descuentos adicionales sean a favor de cooperativas de las que el pensionado sea socio.
 
@@ -642,7 +638,7 @@ Los consejeros, gerentes, liquidadores, inspectores de cuentas, integrantes de l
 
 Respecto de aquellas cooperativas que superen las 200.000 unidades de fomento de patrimonio, podrá aplicarse el doble de las multas señaladas precedentemente. Con todo, respecto de las cooperativas que superen las 400.000 unidades de fomento de patrimonio, podrá aplicarse el triple de esas multas.
 
-En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, que no califiquen como de importancia económica en los términos del artículo 109, y cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, las multas establecidas en el inciso primero del presente artículo deberán ser cursadas hasta por la mitad de los montos señalados.
+En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, no se cursarán multas, sino que en caso necesario el organismo fiscalizador aplicará lo dispuesto a partir del inciso quinto del presente artículo, aun cuando la infracción no sea reiterada.
 
 Para la aplicación y efecto de este artículo, se entenderá por infracción reiterada aquella transgresión que, habiendo dado origen a una multa, siga ejecutándose luego de haberse otorgado un plazo para rectificar la acción u omisión sancionada.
 
@@ -746,7 +742,7 @@ De las Cooperativas de Servicios
 
 Son cooperativas de servicio las que tengan por objeto distribuir los bienes y proporcionar servicios de toda índole, preferentemente a sus socios, con el propósito de mejorar sus condiciones ambientales y económicas y de satisfacer sus necesidades familiares, sociales, ocupacionales o culturales.
 
-Sin que la enumeración siguiente sea taxativa, las cooperativas de esta clase podrán tener el carácter de escolares, de abastecimiento y distribución de energía eléctrica, de servicios sanitarios rurales, de vivienda, de aprovisionamiento, de ahorro y crédito y también de beneficio para las actividades del hogar y de la comunidad.
+Sin que la enumeración siguiente sea taxativa, las cooperativas de esta clase podrán tener el carácter de escolares, de abastecimiento y distribución de energía eléctrica y de agua potable, de vivienda, de aprovisionamiento, de ahorro y crédito y también de beneficio para las actividades del hogar y de la comunidad.
 
 1) De las Cooperativas Escolares
 
@@ -764,7 +760,7 @@ Las cooperativas escolares estarán exentas de todos los impuestos fiscales y mu
 
 Las cooperativas escolares no distribuirán sus beneficios económicos, los cuales se dedicarán a la constitución de un fondo de reserva y un fondo de desarrollo.
 
-2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Servicios Sanitarios Rurales
+2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Agua Potable
 
 #### Artículo 72
 
@@ -788,7 +784,7 @@ Las referidas cooperativas no podrán cobrar gastos por concepto de reembolso de
 
 #### Artículo 73
 
-Las cooperativas de servicios sanitarios rurales se regirán, en lo que fuere aplicable, por las disposiciones de las leyes especiales que regulan esta actividad.
+Las cooperativas de abastecimiento y distribución de agua potable se regirán, en lo que fuere aplicable, por las disposiciones de las leyes especiales que regulan esta actividad.
 
 3) De las Cooperativas de Vivienda
 
@@ -810,7 +806,7 @@ Los dueños de terrenos ubicados en una misma comuna, que persigan como objetivo
 
 #### Artículo 76
 
-La enajenación de las cuotas de participación de las cooperativas de vivienda deberá ser previamente aprobada por el consejo de administración, debiendo efectuarse mediante instrumento privado autorizado ante notario, o suscrito mediante firma electrónica avanzada, en el que deberá constar la fecha de la sesión del consejo que la haya aprobado.
+La enajenación de las cuotas de participación de las cooperativas de vivienda deberá ser previamente aprobada por el consejo de administración, debiendo efectuarse mediante instrumento privado autorizado ante notario, en el que deberá constar la fecha de la sesión del consejo que la haya aprobado.
 
 El consejo de administración podrá rechazar la enajenación en los casos previstos en los estatutos.
 
@@ -892,7 +888,7 @@ Cada asamblea deberá elegir un consejo, cuya composición y atribuciones se fij
 
 Las cooperativas abiertas de vivienda de carácter nacional podrán contemplar en sus estatutos asambleas regionales, a las cuales deberán asistir los consejeros de programa. Sin perjuicio de las atribuciones que les confieran los estatutos y el reglamento, les corresponderá elegir un consejo regional, cuyos miembros en ejercicio representarán a los socios inscritos en las asambleas de la región respectiva, de acuerdo a lo señalado precedentemente.
 
-En todo caso, la adopción de acuerdos relativos a las materias señaladas en las letras e), f), g), h), i) y j) del artículo 23 deberá efectuarse en junta general de socios, convocada y constituida de acuerdo a las normas generales, en la cual no regirá respecto de los consejeros de asambleas de programas o regionales la limitación establecida en el inciso quinto del artículo 22 relativa al voto por poder.
+En todo caso, la adopción de acuerdos relativos a las materias señaladas en las letras d), e), f), g), h) e i) del artículo 23 deberá efectuarse en junta general de socios, convocada y constituida de acuerdo a las normas generales, en la cual no regirá respecto de los consejeros de asambleas de programas o regionales la limitación establecida en el inciso quinto del artículo 22 relativa al voto por poder.
 
 La enajenación de los bienes raíces destinados, de acuerdo al plano respectivo, a ser usados en común por una Asamblea de Programa, como las áreas de esparcimiento, recreación, reunión o desarrollo cultural de los integrantes del programa habitacional de que se trate, así como la constitución de derechos reales distintos al de dominio, sólo podrá ser efectuada por el Consejo de Administración, con acuerdo de la respectiva Asamblea.
 
@@ -920,13 +916,13 @@ f) Descontar a sus socios, letras de cambio, pagarés y otros documentos que rep
 
 g) Otorgar préstamos a sus socios, que se encuentren amparados por garantía hipotecaria, y mutuos hipotecarios endosables. El otorgamiento, cesión y administración de estos últimos se regirá por lo dispuesto en el N° 7) del artículo 69 de la Ley General de Bancos, contenida en el decreto con fuerza de ley N° 3, de 1997, siendo aplicables a los mismos, en lo pertinente, las disposiciones de las leyes N° 19.439 y N° 19.514. Al efecto, las cooperativas de ahorro y crédito, y las demás entidades indicadas en el inciso final del N° 7 del artículo 69 citado, podrán administrar y ser cesionarias, en su caso, de los mutuos hipotecarios endosables otorgados de conformidad a esta letra.
 
-Asimismo, adquirir, conservar y enajenar mutuos hipotecarios endosables otorgados por empresas bancarias de acuerdo al N° 7 del artículo 69 de la Ley General de Bancos y por otras entidades reguladas por leyes especiales que les permitan dicha clase de operaciones, con sujeción a las condiciones, requisitos y modalidades que se establezcan conforme a la letra r) de este artículo.
+Asimismo, adquirir, conservar y enajenar mutuos hipotecarios endosables otorgados por empresas bancarias de acuerdo al N° 7 del artículo 69 de la Ley General de Bancos y por otras entidades reguladas por leyes especiales que les permitan dicha clase de operaciones, con sujeción a las condiciones, requisitos y modalidades que se establezcan conforme a la letra q) de este artículo.
 
 En todo caso, las cooperativas de ahorro y crédito que actúen como cedentes de mutuos hipotecarios endosables de acuerdo a lo indicado precedentemente, sólo responderán de la existencia del crédito cedido, quedándoles expresamente vedado otorgar garantía alguna de solvencia respecto del mismo;
 
 h) Emitir letras, órdenes de pago y giros contra sus propias oficinas o corresponsales;
 
-i) Previa autorización de la Comisión para el Mercado Financiero, conceder a sus socios, préstamos en moneda nacional, mediante la emisión de letras de crédito, de conformidad con lo dispuesto en el Título XIII del decreto con fuerza de ley Nº 3, de 1997, que contiene el texto refundido y sistematizado de la Ley General de Bancos;
+i) Previa autorización de la Superintendencia de Bancos e Instituciones Financieras, conceder a sus socios, préstamos en moneda nacional, mediante la emisión de letras de crédito, de conformidad con lo dispuesto en el Título XIII del decreto con fuerza de ley Nº 3, de 1997, que contiene el texto refundido y sistematizado de la Ley General de Bancos;
 
 j) Adquirir, ceder y transferir efectos de comercio;
 
@@ -938,69 +934,39 @@ m) Adquirir, conservar y enajenar los bienes corporales muebles necesarios para 
 
 n) Emitir y operar tarjetas de crédito, para sus socios;
 
-o) Emitir y operar, para sus socios y terceros, medios de pago con provisión de fondos, con sujeción a las normas que dicte el Banco Central de Chile de conformidad a su ley orgánica constitucional;
+o) Previa autorización del organismo fiscalizador respectivo, constituir en el país sociedades filiales, ser accionistas o tener participación en una sociedad o cooperativa de apoyo al giro, en conformidad al título IX de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado por el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
 
-p) Previa autorización del organismo fiscalizador respectivo, constituir en el país sociedades filiales, ser accionistas o tener participación en una sociedad o cooperativa de apoyo al giro, en conformidad al título IX de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado por el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
+La resolución a que hace mención el artículo 73 de la señalada ley General de Bancos, respecto de las cooperativas de ahorro y crédito sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, podrá ser fundada en todo caso, en la existencia de deficiencias en su gestión que no la habilitan para acceder a la nueva actividad. En ningún caso se entenderá aprobada la solicitud en el evento previsto en el inciso segundo del citado artículo 73;
 
-La resolución a que hace mención el artículo 73 de la señalada ley General de Bancos, respecto de las cooperativas de ahorro y crédito sometidas a la fiscalización de la Comisión para el Mercado Financiero, podrá ser fundada en todo caso, en la existencia de deficiencias en su gestión que no la habilitan para acceder a la nueva actividad. En ningún caso se entenderá aprobada la solicitud en el evento previsto en el inciso segundo del citado artículo 73;
+p) Otorgar a sus clientes servicios financieros por cuenta de terceros, en la forma y condiciones que determine el órgano fiscalizador respectivo, y
 
-q) Si se trata de las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87, podrán constituir filiales que sean Administradoras de Fondos de Pensiones en conformidad a la letra p) anterior. Estas filiales se sujetarán en todo a las normas establecidas en el decreto ley N° 3.500, de 1980. En este sentido, se constituirán como sociedades anónimas especiales a las que se refiere el Título XIII de la ley N° 18.046, sobre Sociedades Anónimas, y quedarán sujetas a la fiscalización de la Superintendencia de Pensiones.
+q) Otras operaciones que autorice el Banco Central de Chile, conforme a sus facultades. Las operaciones antes señaladas sólo podrán ser ejecutadas bajo las condiciones, requisitos y modalidades que establezca el Banco Central de Chile, de conformidad a sus facultades.
 
-Las filiales de las cooperativas de ahorro y crédito constituidas como Administradoras de Fondos de Pensiones deberán observar estrictamente el giro exclusivo al cual se refiere el artículo 23 del decreto ley N° 3.500, de 1980, y no podrán ofrecer u otorgar bajo circunstancia alguna, ya sea directa o indirectamente, ni aun a título gratuito, cualquier otro servicio o producto que resulte ajeno a su giro exclusivo.
-
-La cooperativa de ahorro y crédito que mantenga como filial una sociedad Administradora de Fondos de Pensiones no podrá subordinar el otorgamiento de los servicios o productos propios de su giro a la afiliación, incorporación o permanencia de una persona en dicha sociedad Administradora de Fondos de Pensiones. Tampoco podrá supeditar el otorgamiento de condiciones más favorables en razón de tales circunstancias.
-
-r) Otorgar a sus clientes servicios financieros por cuenta de terceros, en la forma y condiciones que determine el órgano fiscalizador respectivo, y
-
-s) Otras operaciones que autorice el Banco Central de Chile, conforme a sus facultades. Las operaciones antes señaladas sólo podrán ser ejecutadas bajo las condiciones, requisitos y modalidades que establezca el Banco Central de Chile, de conformidad a sus facultades.
-
-Para la realización de la operación establecida en la letra b), las cooperativas de ahorro y crédito deberán contar con un patrimonio pagado igual o superior a 200.000 unidades de fomento, y encontrarse sometidas a la fiscalización de la Comisión para el Mercado Financiero (en adelante, la Comisión). Para la realización de las operaciones establecidas en las letras g), en lo referente a mutuos hipotecarios endosables, h), i), k), n), o) y p), las cooperativas de ahorro y crédito deberán contar con un patrimonio pagado igual o superior a 400.000 unidades de fomento, y encontrarse sometidas a la fiscalización de la Comisión.
-
-Sin perjuicio de lo establecido en el inciso precedente, las cooperativas de ahorro y crédito cuyo patrimonio sea inferior a 400.000 unidades de fomento, para efectos de emitir u operar medios de pago con provisión de fondos, deberán constituir sociedades filiales, cumpliendo con lo dispuesto en la ley que autoriza la emisión de dichos medios de pago por entidades no bancarias, y en la normativa dictada conforme a ella. Las sociedades filiales constituidas en virtud de lo dispuesto en este inciso quedarán sujetas a la fiscalización de la Comisión para el Mercado Financiero, y se entenderá a los miembros del consejo de administración como sujetos obligados a cumplir con el requisito de integridad contemplado en el artículo 28 de la Ley General de Bancos.
-
-Las cooperativas de ahorro y crédito fiscalizadas por la Comisión no podrán efectuar inversiones en cuotas de participación de otras cooperativas, salvo en los casos previstos en la letra p) y para participar en las federaciones, confederaciones e institutos auxiliares a que se refiere el capítulo III.
-
-La existencia de las filiales a que se refiere la letra q) del inciso primero deberá ser autorizada en forma previa a su constitución por la Superintendencia de Pensiones, y seguirá el procedimiento contenido en los artículos 130 y siguientes de la ley N° 18.046, en la medida en que cuenten con la autorización previa para su constitución de la Comisión para el Mercado Financiero.
+Para la realización de las operaciones establecidas en las letras b) y g), en lo referente a mutuos hipotecarios endosables, h), i), k), n) y o), en lo relacionado a la constitución de sociedades filiales, las cooperativas de ahorro y crédito deberán contar con un patrimonio igual o superior a 400.000 unidades de fomento y encontrarse sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras.
 
 #### Artículo 87
 
-Las cooperativas de ahorro y crédito cuyo patrimonio sea igual o superior a las 400.000 unidades de fomento quedarán sometidas exclusivamente a la fiscalización y control integral y permanente de la Comisión. Tales cooperativas quedarán sujetas, según determinación efectuada por la Comisión mediante norma de carácter general, dictada con sujeción a lo previsto en este artículo y en el artículo siguiente, a las disposiciones de esta ley y su reglamento, y a las del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos, en lo que fuere compatible con su naturaleza. En especial se les aplicarán las normas del Título I, los artículos 59 y 62 del Título V, en lo atingente a la evaluación de gestión, los artículos 64 y 67, del Título XIV, del Título XV, con exclusión del inciso segundo del artículo 132, artículos 154, 155 y 156, y del Título XVII. Por otra parte, sus administradores deberán cumplir los requisitos de integridad contemplados en la letra b) del artículo 28 de ésta última.
+Las cooperativas de ahorro y crédito cuyo patrimonio exceda las 400.000 unidades de fomento, quedarán sometidas a la fiscalización y control de la Superintendencia de Bancos e Instituciones Financieras, respecto de las operaciones económicas que realicen en cumplimiento de su objeto.
 
-Para efectos de lo dispuesto en el inciso anterior, la Comisión contará, además, con las facultades que este cuerpo legal y su reglamento le otorgan al Departamento de Cooperativas, especialmente las contenidas en el artículo 12, respecto de aquellas cooperativas que se pretendan constituir con un patrimonio igual o superior a las 400.000 unidades de fomento, las de las letras a), d), e), f), g) e i) de su artículo 108 y las del artículo 109, todos de esta ley, además de las que establece su ley orgánica contenida en el decreto ley N° 3.538, de 1980.
+Tales cooperativas deberán contar con las instalaciones, recursos humanos, tecnológicos, procedimientos y controles necesarios para desarrollar adecuadamente sus funciones y operaciones; su patrimonio no podrá ser inferior al 10% de sus activos ponderados por riesgo, ni inferior al 5% de sus activos totales y, en lo que sea compatible con su naturaleza, quedarán sujetas a las disposiciones de la Ley General de Bancos, cuyo texto refundido y sistematizado está contenido en el Decreto con Fuerza de Ley Nº3, de 1997. En especial se les aplicarán las normas de los Títulos I y XV, con exclusión de sus artículos 123, inciso quinto, y 132, inciso segundo, y sus administradores deberán cumplir los requisitos de integridad contemplados en la letra b) del artículo 28 de la referida Ley.
 
-En la fiscalización y dictación de normativa respecto de tales cooperativas la Comisión deberá considerar el principio de proporcionalidad, y atenderá a las características y principios fundamentales del artículo 1. Además, para la dictación de normativa que tenga claros efectos en el ámbito de competencia del Departamento de Cooperativas, la Comisión deberá requerir de éste, en el plazo que indique al efecto, un informe con el objeto de resguardar la coordinación, cooperación y colaboración entre los órganos del Estado.
-
-Lo señalado en los incisos anteriores es sin perjuicio de las facultades que se confieren al Banco Central de Chile por el artículo 7° del decreto ley N° 1.638, de 1976, en relación con el artículo 91 de su ley orgánica constitucional, para dictar normas referidas a las operaciones y funcionamiento de las cooperativas de ahorro y crédito.
-
-Las cooperativas a que se refiere este artículo deberán contar con las instalaciones, recursos humanos, tecnológicos, procedimientos y controles necesarios para desarrollar adecuadamente sus funciones y operaciones. Su patrimonio efectivo, determinado de acuerdo a las disposiciones impartidas por el Banco Central, no podrá ser inferior al 5% de sus activos totales, ni inferior al 10,5% de sus activos ponderados por riesgos de crédito, de mercado y operacional, en los casos en que resulte aplicable, netos de provisiones exigidas, medidos mediante metodologías de ponderación de riesgo que establecerá la Comisión por norma de carácter general, previo acuerdo favorable del Banco Central de Chile.
-
-Las cooperativas de ahorro y crédito cuyo patrimonio sea igual o superior a las 400.000 unidades de fomento podrán solicitar acceder a los servicios a que se refieren el inciso segundo del artículo 54 y el artículo 55 de la ley N° 18.840 orgánica constitucional del Banco Central de Chile, sujeto a que se cumplan las condiciones previstas en esos preceptos legales para fines de lo establecido en el artículo 35, número 8, de la misma ley.
-
-Por su parte, las cooperativas de ahorro y crédito fiscalizadas por la Comisión que alcancen y mantengan permanentemente un patrimonio efectivo no inferior a 800.000 unidades de fomento podrán solicitar al Banco Central de Chile acceder a las facilidades de financiamiento y refinanciamiento que éste se encuentra facultado a otorgar conforme a su ley orgánica constitucional, así como a otros servicios financieros que no impliquen financiamiento por parte de dicha institución, sujeto a que cumplan los demás requisitos que al efecto establezca el Banco en materias de solvencia, liquidez y de otros riesgos financieros u operacionales.
-
-El incumplimiento de cualquiera de las condiciones anteriores facultará al Banco Central de Chile para suspender o, en su caso, revocar el acceso a dichas facilidades y/o servicios.
-
-Para asegurar el cumplimiento de los requerimientos patrimoniales señalados en el inciso séptimo, las cooperativas de ahorro y crédito a que se refiere este artículo en ningún caso podrán efectuar, directa o indirectamente, repartos de remanentes o de excedentes ni devoluciones de los montos enterados por sus socios a causa de la suscripción de cuotas de participación o pago de intereses al capital, si por efecto de dichos repartos, devoluciones o pagos la respectiva cooperativa reduce su patrimonio por debajo del mínimo indicado en el inciso séptimo, o incurre en un déficit respecto de cualquiera de los índices patrimoniales que establece el inciso quinto de esta disposición.
-
-El resto de las cooperativas de ahorro y crédito no comprendidas en este artículo deberá someterse a las normas sobre contabilidad, auditoría, publicidad y control que determine el Departamento de Cooperativas, en conformidad a sus facultades. Asimismo, sin perjuicio de las facultades que esta ley y el decreto ley N° 3.538 otorga a la Comisión, el Departamento de Cooperativas contará con las atribuciones en materia de coordinación, desarrollo y fomento del sistema cooperativo a que se refieren las letras b) y c) del inciso tercero del artículo 108 de esta ley, respecto de las cooperativas sometidas a la fiscalización de la Comisión, y podrá para estos efectos requerir directamente a dichas cooperativas la información y antecedentes necesarios para el ejercicio de sus facultades.
-
-> **Nota.** El artículo segundo transitorio de la ley N° 21641, publicada el 30.12.2023, dispone que los nuevos incisos primero y segundo del presente artículo, comenzarán a regir dieciocho meses después de dictada la respectiva norma de carácter general por la Comisión para el Mercado Financiero.
+El resto de las cooperativas de ahorro y crédito deberá someterse a las normas sobre contabilidad, auditoría, publicidad y control que determine el Departamento de Cooperativas, en conformidad a sus facultades.
 
 #### Artículo 87 bis
 
-Asumida la supervisión y fiscalización por parte de la Comisión, las cooperativas de ahorro y crédito cuyo patrimonio sea igual o superior a las 400.000 unidades de fomento deberán acreditar, a satisfacción del organismo indicado, que cuentan con las instalaciones, recursos humanos, tecnológicos, procedimientos y controles necesarios para desarrollar adecuadamente sus funciones y operaciones.
+Asumida la supervisión y fiscalización por parte de la Superintendencia de Bancos e Instituciones Financieras, las cooperativas de ahorro y crédito cuyo patrimonio exceda las 400.000 unidades de fomento deberán acreditar, a satisfacción del organismo indicado, que cuentan con las instalaciones, recursos humanos, tecnológicos, procedimientos y controles necesarios para desarrollar adecuadamente sus funciones y operaciones. En lo que sea compatible con su naturaleza, quedarán sujetas a las disposiciones de la Ley General de Bancos, cuyo texto refundido, sistematizado y concordado está contenido en el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, con exclusión de sus artículos 123, inciso quinto, y 132, inciso segundo, y sus administradores deberán cumplir los requisitos de integridad contemplados en la letra b) del artículo 28 de la referida ley.
 
-Asimismo, el administrador provisional que se designe en conformidad al artículo 117 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que establece el texto refundido, sistematizado y concordado de la Ley General de Bancos, estará facultado para enajenar todo o parte sustancial de los activos de la referida entidad, previo informe a la junta general de socios de la cooperativa de ahorro y crédito, sobre su conveniencia económica y sus efectos en la estabilidad financiera de la cooperativa. También será aplicable a estas cooperativas, en lo pertinente, lo dispuesto en el artículo 58 bis de la presente ley. En tal caso, las facultades señaladas en dicho artículo deberán ser ejercidas por la Comisión.
+Asimismo, el administrador provisional que se designe en conformidad al artículo 24 del citado cuerpo legal estará facultado para enajenar todo o parte sustancial de los activos de la referida entidad, previo informe a la junta general de socios de la cooperativa de ahorro y crédito, sobre su conveniencia económica y sus efectos en la estabilidad financiera de la cooperativa. También será aplicable a estas cooperativas, en lo pertinente, lo dispuesto en el artículo 58 bis. En tal caso, las facultades señaladas en dicho artículo deberán ser ejercidas por la Superintendencia de Bancos e Instituciones Financieras.
 
-En todo caso, las observaciones que formule la Comisión sobre cualquiera de los aspectos mencionados en el inciso primero deberán ser resueltas dentro del plazo que aquélla determine, contado desde la fecha en que se comunique el plan de regularización correspondiente y, si así no lo hiciere, se podrán aplicar a la cooperativa cualquiera de las medidas previstas en los artículos 116 y 117 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que establece el texto refundido, sistematizado y concordado de la Ley General de Bancos, y, en último término, resolver sobre su disolución anticipada conforme al artículo 130 del mismo cuerpo legal, y decretar su liquidación forzosa.
+En todo caso, las observaciones que formule la Superintendencia sobre cualquiera de los aspectos mencionados en el inciso primero deberán ser resueltas dentro del plazo de un año contado desde la fecha en que se comunique el plan de regularización correspondiente y, si así no lo hiciere, se podrán aplicar a la cooperativa cualquiera de las medidas previstas en los artículos 20 y 24 del referido cuerpo legal y, en último término, resolver sobre su disolución anticipada conforme al artículo 130 del mismo, y decretar su liquidación forzada.
 
-En el ejercicio de sus facultades relativas a las cooperativas de ahorro y crédito, contempladas en los artículos 19 bis y 87, la Comisión deberá considerar las particularidades y el perfil de riesgo de dichas instituciones financieras no bancarias. Dicho ejercicio deberá ser compatible con las características fundamentales de las cooperativas a que se refiere el artículo 1.
+Las normas de carácter general relativas a las cooperativas de ahorro y crédito que se dicten deberán considerar las particularidades y perfil de riesgo de dichas instituciones financieras no bancarias y deberán ser compatibles con las características fundamentales de las cooperativas a que se refiere el artículo 1º de la presente ley.
 
 #### Artículo 87 ter
 
-Sin perjuicio de lo señalado en el artículo 87, aquellas cooperativas de ahorro y crédito cuyo patrimonio sea inferior a 400.000 unidades de fomento podrán voluntariamente acogerse a un procedimiento de revisión anticipada por parte de la Comisión, a costa de la cooperativa, manteniéndose en todo caso sujetas a la supervisión del Departamento de Cooperativas.
+Sin perjuicio de lo señalado en el artículo 87, aquellas cooperativas de ahorro y crédito cuyo patrimonio sea inferior a 400.000 unidades de fomento podrán voluntariamente acogerse a un procedimiento de revisión anticipada por parte de la Superintendencia de Bancos e Instituciones Financieras, a costa de la cooperativa, manteniéndose en todo caso sujetas a la supervisión del Departamento de Cooperativas.
 
-La cooperativa podrá presentar un prospecto a la Comisión, solicitando acogerse al procedimiento de revisión anticipada, el cual deberá ser acompañado de un plan de desarrollo de negocios para los siguientes tres años de funcionamiento.
+La cooperativa podrá presentar un prospecto a la Superintendencia, solicitando acogerse al procedimiento de revisión anticipada, el cual deberá ser acompañado de un plan de desarrollo de negocios para los siguientes tres años de funcionamiento.
 
 #### Artículo 88
 
@@ -1348,7 +1314,7 @@ En todo caso, las cooperativas sometidas a fiscalización deberán cumplir con l
 
 #### Artículo 9º
 
-Las cooperativas de ahorro y crédito que al 4 de mayo del 2003 se encuentren sometidas a la fiscalización de la Comisión para el Mercado Financiero en virtud de lo establecido en el artículo 4º transitorio de la Ley General de Bancos, quedarán en la situación descrita en dicho artículo y no podrán realizar las nuevas operaciones que esta ley autoriza, mientras no hayan cumplido las condiciones señaladas en el artículo 87.
+Las cooperativas de ahorro y crédito que al 4 de mayo del 2003 se encuentren sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras en virtud de lo establecido en el artículo 4º transitorio de la Ley General de Bancos, quedarán en la situación descrita en dicho artículo y no podrán realizar las nuevas operaciones que esta ley autoriza, mientras no hayan cumplido las condiciones señaladas en el artículo 87.
 
 #### Artículo 10
 
@@ -1357,26 +1323,6 @@ Las entidades que al 4 de mayo del 2003 tengan el carácter de uniones de cooper
 #### Artículo 11
 
 La ley 19.832 entró en vigencia el 4 de mayo del 2003.
-
-#### Artículo 12
-
-Las cooperativas que hayan obtenido un saldo favorable durante el ejercicio económico 2019, por acuerdo del Consejo de Administración o decisión del gerente administrador, según corresponda, podrán distribuir el excedente entre sus socios, ya sea mediante la emisión de cuotas de participación liberadas de pago o mediante la entrega en dinero en efectivo. Para ello deberán cumplir previamente las obligaciones establecidas en el artículo 38 de la presente ley, en relación con el remanente.
-
-Para llevar a cabo dicha distribución, las cooperativas deberán contar con el informe favorable de sus estados financieros por parte de la junta de vigilancia o del inspector de cuentas, según corresponda. Las cooperativas de importancia económica, conforme al artículo 109 de esta ley, deberán contar adicionalmente con el informe favorable del auditor externo.
-
-Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26 de la presente ley.
-
-#### Artículo 13
-
-Las cooperativas que hayan obtenido un saldo favorable durante el ejercicio económico 2020, por acuerdo del Consejo de Administración o decisión del gerente administrador, según corresponda, podrán distribuir el excedente entre sus socios, ya sea mediante la emisión de cuotas de participación liberadas de pago o mediante la entrega en dinero en efectivo. Para ello deberán cumplir previamente las obligaciones establecidas en el artículo 38, en relación con el remanente.
-
-Para llevar a cabo dicha distribución, las cooperativas deberán contar con el informe favorable de sus estados financieros por parte de la junta de vigilancia o del inspector de cuentas, según corresponda. Las cooperativas de importancia económica, conforme al artículo 109, deberán contar adicionalmente con el informe favorable del auditor externo.
-
-Lo anterior deberá entenderse sin perjuicio de la responsabilidad establecida en los artículos 25 y 26.
-
-#### Artículo 14
-
-Extiéndese el plazo de las cooperativas para cumplir con la obligación de celebrar Juntas Generales de Socios en los términos del artículo 6º, inciso segundo, literal f), por tres meses posteriores al término del estado de excepción constitucional de catástrofe por calamidad pública, a propósito de la pandemia de COVID-19, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, y sus prórrogas, instancia en la que deberán ser tratadas, a lo menos, las materias establecidas en los literales a), b) y c) del artículo 23, cuando corresponda, para los ejercicios que se encuentren pendientes de pronunciamiento por parte de la respectiva Junta General. Con todo, de existir otras restricciones impuestas por la autoridad que impidan la celebración de la Junta General de Socios, el plazo de tres meses para su celebración comenzará a correr desde el término de éstas.
 
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alvaro Díaz Pérez, Ministro de Economía, Fomento y Reconstrucción (S.).
 

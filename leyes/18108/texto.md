@@ -4,23 +4,7 @@ PROYECTO DE LEY:
 
 #### Artículo UNICO
 
-Los Comandantes en Jefe de las
-
-Fuerzas Armadas y el General Director de Carabineros, en
-
-sus respectivas instituciones, fijarán y podrán
-
-modificar los montos máximos de descuentos en las
-
-planillas de pago del personal a que se refieren las
-
-letras a), b), c) y d) del artículo 2° del decreto con
-
-fuerza de ley 1 (G), de 1968 y el inciso primero del
-
-#### Artículo 2°
-
-del decreto con fuerza de ley 2 (I) del mismo año, en favor de cooperativas de consumo o de vivienda mutuales, entidades aseguradoras y servicios médicos o de bienestar.
+Los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros, en sus respectivas instituciones, fijarán y podrán modificar los montos máximos de descuentos en las planillas de pago del personal a que se refieren las letras a), b), c) y d) del artículo 2° del decreto con fuerza de ley 1 (G), de 1968 y el inciso primero del artículo 2° del decreto con fuerza de ley 2 (I) del mismo año, en favor de cooperativas, mutuales, entidades aseguradoras y servicios médicos o de bienestar.
 
 Tratándose de las personas a que se refiere la letra e) del artículo 2° del mencionado decreto con fuerza de ley 1 y el inciso tercero del artículo 2° del decreto con fuerza de ley 2 citado, el monto máximo de los descuentos, para los efectos señalados en el inciso anterior, será fijado por la respectiva institución previsional y bastará la solicitud de la entidad respectiva para que ésta efectúe el descuento al pensionado o montepiado hasta el límite que se haya fijado.
 

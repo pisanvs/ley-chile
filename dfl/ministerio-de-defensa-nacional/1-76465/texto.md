@@ -2046,7 +2046,7 @@ Las remuneraciones se devengarán para el personal de planta desde la fecha de n
 
 #### Artículo 169
 
-Los Comandantes en Jefe de las Fuerzas Armadas fijarán y podrán modificar los montos máximos de descuentos voluntarios en las planillas de pago del personal, en favor de cooperativas de consumo o de vivienda, mutuales, entidades aseguradoras y servicios médicos o de bienestar social. Con todo, los descuentos voluntarios no podrán exceder del sesenta por ciento de las remuneraciones totales del personal.
+Los Comandantes en Jefe de las Fuerzas Armadas fijarán y podrán modificar los montos máximos de descuentos voluntarios en las planillas de pago del personal, en favor de cooperativas, mutuales, entidades aseguradoras y servicios médicos o de bienestar social. Con todo, los descuentos voluntarios no podrán exceder del sesenta por ciento de las remuneraciones totales del personal.
 
 #### Artículo 170
 
@@ -2284,97 +2284,21 @@ El personal afecto a este Estatuto, además del sueldo, tendrá derecho a las si
 
 a) Trienios: El personal afecto a la escala de remuneraciones de las Fuerzas Armadas gozará de trienios calculados sobre el sueldo en posesión con los siguientes porcentajes: ocho por ciento para el primero, cuatro por ciento para el segundo y tercero, tres por ciento para los trienios cuarto al séptimo y dos por ciento para los restantes.
 
-El Personal a Jornal gozará de aumentos trienales, con los siguientes porcentajes calculados sobre el salario base de que esté en posesión: cuarenta por ciento para el primero, veinte por ciento para el segundo y tercero, quince por ciento para el cuarto al séptimo, diez por ciento para el octavo y noveno y cinco por ciento para los restantes.
+El Personal a Jornal gozará de aumentos trienales con los siguientes porcentajes calculados sobre el sueldo base de que esté en posesión: siete por ciento para el primero al tercero, seis por ciento para el cuarto, cinco por ciento para el quinto al séptimo, cuatro por ciento para el octavo al décimo, tres por ciento para el onceavo al treceavo y dos por ciento para el catorceavo.
 
 Para los efectos del cálculo de este beneficio serán válidos los siguientes tiempos, siempre que no correspondan a servicios paralelos o simultáneos:
 
-1) Servicios prestados en el ejercicio activo
+1) Servicios prestados en el ejercicio activo de un empleo de planta, a contrata, a jornal y en general como trabajador en el Ejército, Armada, Fuerza Aérea, Carabineros, en el Ministerio de Defensa Nacional, en sus Servicios dependientes, y en Famae, Asmar y Enaer indistintamente. En ningún caso podrán computarse servicios a honorarios o ad-honorem.
 
-de un empleo de planta, a contrata, a jornal
+2) Los dos últimos años de estudios de las escuelas matrices de las Fuerzas Armadas, Carabineros, de la Policía de Investigaciones y de las Escuelas de Ingenieros y Pilotines de la Armada, en la Escuela de Suboficiales, de Armas y del Servicio Femenino Militar del Ejército, en las Escuelas de Grumetes y Artesanos y otras en que funcionen cursos de grumetes de la Armada y en la Escuela de Especialidades de la Fuerza Aérea, o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido como estudiante en el respectivo establecimiento.
 
-y en general como trabajador en el Ejército,
+3) La totalidad del tiempo servido como conscripto, grumete o aprendiz en el Ejército, Armada y Fuerza Aérea. Se considerará como tiempo de conscripción, respecto de quienes ingresen a las escuelas institucionales sin haber hecho el servicio militar, el primer año de estudio de dichas escuelas, aprobado con valer militar.
 
-Armada, Fuerza Aérea, Carabineros, en el
+Con todo, el tiempo computable en virtud de los números 2) y 3) no podrá exceder de tres años en total.
 
-Ministerio de Defensa Nacional, en sus
+4) El tiempo servido en la Marina Mercante Nacional será válido para los oficiales de los escalafones del Litoral, y de Prácticos de los Servicios Marítimos y para el personal de la reserva llamado al servicio activo proveniente de estos escalafones.
 
-Servicios dependientes, y en Famae, Asmar y
-
-Enaer indistintamente. En ningún caso podrán
-
-computarse servicios a honorarios o
-
-ad-honorem.
-
-2) Los dos últimos años de estudios de las
-
-escuelas matrices de las Fuerzas Armadas,
-
-Carabineros, de la Policía de Investigaciones
-
-y de las Escuelas de Ingenieros y Pilotines
-
-de la Armada, en la Escuela de Suboficiales,
-
-de Armas y del Servicio Femenino Militar del
-
-Ejército, en las Escuelas de Grumetes y
-
-Artesanos y otras en que funcionen cursos de
-
-grumetes de la Armada y en la Escuela de
-
-Especialidades de la Fuerza Aérea, o el
-
-tiempo efectivo que durante ese lapso el
-
-alumno permanezca o haya permanecido como
-
-estudiante en el respectivo establecimiento.
-
-3) La totalidad del tiempo servido como
-
-conscripto, grumete o aprendiz en el Ejército,
-
-Armada y Fuerza Aérea. Se considerará como
-
-tiempo de conscripción, respecto de quienes
-
-ingresen a las escuelas institucionales sin
-
-haber hecho el servicio militar, el primer año
-
-de estudio de dichas escuelas, aprobado con
-
-valer militar.
-
-Con todo, el tiempo computable en virtud de
-
-los números 2) y 3) no podrá exceder de tres
-
-años en total.
-
-4) El tiempo servido en la Marina Mercante
-
-Nacional será válido para los oficiales de
-
-los escalafones del Litoral, y de Prácticos
-
-de los Servicios Marítimos y para el personal
-
-de la reserva llamado al servicio activo
-
-proveniente de estos escalafones.
-
-5) Los dos últimos años o cuatro últimos
-
-semestres de estudios profesionales de los
-
-oficiales pertenecientes los escalafones de
-
-servicios profesionales y del servicio
-
-religioso.
+5) Los dos últimos años o cuatro últimos semestres de estudios profesionales de los oficiales pertenecientes los escalafones de servicios profesionales y del servicio religioso.
 
 Los profesores militares gozarán de estos mismos beneficios trienales, calculados sobre el tiempo efectivo de docencia o año lectivo cuando se trate de nombramientos sucesivos que abarquen una duración mínima de nueve meses.
 

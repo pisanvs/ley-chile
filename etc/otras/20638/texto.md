@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo único
 
-Declárase el primer sábado del mes de julio de cada año como Día Nacional de las Cooperativas.".
+Declárase el 14 de noviembre de cada año como Día Nacional de las Cooperativas.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
