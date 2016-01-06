@@ -44,31 +44,25 @@ De los Órganos y sus Atribuciones
 
 #### Artículo 3º
 
-Cada "Comité de Desarrollo Productivo Regional" tendrá un Consejo Directivo integrado de la siguiente manera:
+El Comité de Desarrollo Productivo Regional tendrá un Consejo Directivo integrado de la siguiente manera:
 
-a) Tres representantes del Intendente Regional, los que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia, previa solicitud de Corfo.
+a) Tres representantes del Intendente Regional, los que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia. Presidirá el Consejo Directivo aquel miembro que determine el Intendente.
 
-Presidirá el Consejo Directivo aquel miembro que determine el Intendente.
+b) Un(a) representante del Ministerio de Economía, Fomento y Turismo, designado por la autoridad que corresponda.
 
-b) Un representante del Ministerio de Economía, Fomento y Turismo, designado por la autoridad que corresponda, previa solicitud de Corfo.
+c) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la región, designado por el Consejo Regional, de una terna propuesta por el Intendente.
 
-c) El(la) Seremi de Economía de la región correspondiente, previa solicitud de Corfo.
+d) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el Intendente.
 
-d) Un(a) representante del Vicepresidente Ejecutivo de Corfo, designado por él.
+e) El (la) Presidente de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional.
 
-e) Un(a) representante del Gerente General del Servicio de Cooperación Técnica, designado por él, previa solicitud de Corfo.
+f) Un(a) representante del Vicepresidente Ejecutivo de Corfo, designado por él.
 
-f) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la Región, designado por el Consejo Regional, de una terna propuesta por el Intendente, previa solicitud de Corfo.
+g) Un(a) representante del Gerente General del Servicio de Cooperación Técnica, designado por él.
 
-g) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el Intendente, previa solicitud de Corfo.
+Los integrantes mencionados en los literales anteriores, con excepción de los señalados en las letras c) y d), serán reemplazados, en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia.
 
-h) El(la) Presidente de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional, previa solicitud de Corfo.
-
-i) Un Consejero Regional, elegido por la mayoría del Consejo, previa solicitud de Corfo.
-
-Los integrantes mencionados en los literales anteriores, con excepción de los señalados en las letras f) y g), serán reemplazados, en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el órgano o autoridad que haya designado al titular o aquella que lo integra, según corresponda.
-
-Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
+A todos los miembros del Comité, independiente de su calidad y por el hecho de ejercer una función pública, les serán aplicables las normas de inhabilidades establecidas en la legislación vigente para los funcionarios públicos.
 
 #### Artículo 4º
 
