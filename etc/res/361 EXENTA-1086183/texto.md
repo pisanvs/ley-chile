@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE CF SEGUROS DE VIDA S.A.
+
+Certifico: Que por resolución exenta Nº 361, de fecha 30 de diciembre de 2015, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima CF Seguros de Vida S.A., acordada en junta extraordinaria de accionistas celebrada el 17 de diciembre de 2015 y reducida a escritura pública con fecha 18 de diciembre de 2015, en la Notaría de Santiago de don Francisco Javier Leiva Carvajal, domiciliado en Agustinas Nº 1173.
+
+La reforma consiste en un aumento del capital social, de $2.333.231.350.-, dividido en 1.000 acciones, nominativas, de una sola serie, sin valor nominal y de un mismo valor, íntegramente suscrito y pagado, a $2.483.231.350.-, dividido en 1.070 acciones nominativas, de una sola serie, sin valor nominal, de igual valor cada una, mediante la emisión de 70 acciones de pago, por un monto total de $150.000.000,-, a pagar dentro del plazo de tres años contados desde el día 17 de diciembre de 2015, modificando los artículos cuarto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 30 de diciembre de 2015.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
