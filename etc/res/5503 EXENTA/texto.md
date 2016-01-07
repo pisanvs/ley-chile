@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en la Ruta 5 Sur (Autopista Central), en ambos sentidos de tránsito, entre kilómetro 27,3 (sector Los Naranjos) y kilómetro 29 (sector El Recurso), entre las 14:00 y las 14:30 horas, los días 8, 15, 22 y 29 de noviembre de 2015 y los días 6 y 13 de diciembre del presente año.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados en la Ruta 5 Sur (Autopista Central), en ambos sentidos de tránsito, entre kilómetro 27,3 (sector Los Naranjos) y kilómetro 29 (sector El Recurso), entre las 14:00 y las 14:30 horas, los días 8, 15, 22 y 29 de noviembre de 2015, los días 6, 13 y 30 de diciembre de 2015, los días 10, 12, 19 y 24 de enero de 2016 y, el 7 de febrero de 2016.
 
 2.- Podrán ingresar excepcionalmente en el tramo y horario señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Construcción Nuevo Puente Maipo".
 
