@@ -30,7 +30,17 @@ Los menores de 18 años, cuyo padre o madre tenga la calidad de refugiados recon
 
 <!-- parte:8270941 -->
 
-Eliminado.
+No podrán obtener esta gracia:
+
+1.o Los que hayan sido condenados y los que estén actualmente procesados por simples delitos o crímenes, hasta que se sobresea definitivamente a su respecto.
+
+2.o Los que no estén capacitados para ganarse la vida.
+
+3.o DEROGADO.
+
+4.o Los que practiquen o difundan doctrinas que puedan producir la alteración revolucionaria del régimen social o político o que puedan afectar a la integridad nacional.
+
+5° Los que se dediquen a trabajos ilícitos o que pugnen con las buenas costumbres, la moral o el orden público y, en general, aquellos extranjeros cuya nacionalización no se estime conveniente por razones de seguridad nacional.
 
 #### Artículo 4°
 
