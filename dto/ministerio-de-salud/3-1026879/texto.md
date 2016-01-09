@@ -1136,9 +1136,7 @@ equivalencia en un marcador vegetal, cuando
 
 corresponda.
 
-b.5. No podrán incluir sustancias estupefacientes o
-
-psicotrópicas, ni mezclas con medicamentos
+b.5 No podrán incluir mezclas con medicamentos
 
 alopáticos.
 
