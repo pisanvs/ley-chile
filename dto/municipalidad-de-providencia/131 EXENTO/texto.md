@@ -312,9 +312,9 @@ CAPITULO 3.1. NORMAS GENERALES SOBRE EL BPP
 
 #### Artículo 3
 
-1.02. Normas para Zonas de Edificación
+1.02. Normas de las zonas de
 
-y Zonas de Usos 26
+edificación y de uso de suelo 26
 
 #### Artículo 3
 
@@ -1924,13 +1924,11 @@ Todos los proyectos y obras que se realicen en el BPP, deberán cumplir con las 
 
 #### Artículo 3
 
-1.02. Normas para Zonas de Edificación y Zonas
+1.02. Normas de las zonas de edificación y de uso de suelo
 
-de Usos.
+Las normas que rigen las edificaciones en cada zona de edificación (ZE) están contenidas en el título 4 de esta OL y aparecen graficadas en el plano «PRCP 2007 - L2/4 FE. Espacio Privado: Zonas de Edificación», que forma parte de este PRCP.
 
-Las normas específicas y demás características que deben cumplir las edificaciones en cada Zona de Edificación (ZE), están contenidas en el Titulo 4 de esta OL; la extensión y ubicación de las diferentes Zonas de Edificación, se grafican en el plano "PRCP 2007. L2/4. Espacio Privado, Zonas de Edificación", el cual forma parte del presente PRCP.
-
-Las normas específicas y demás características de los usos permitidos, los usos restringidos con su tipo de restricción y los usos prohibidos en cada Zona de Uso (ZU), están contenidos en el Título 5 de la presente OL; la extensión y ubicación de las diferentes Zonas de Uso, se grafican en el plano "PRCP 2007. L3/4. Espacio Privado, Zonas de Usos", el cual forma parte del presente PRCP.
+Las normas que rigen las actividades permitidas y prohibidas en cada zona de uso de suelo (ZU) están contenidas en el título 6 de esta OL y aparecen graficadas en el plano «PRCP 2007 - L3/4. Espacio Privado: Zonas de Uso de Suelo», que forma parte de este PRCP.
 
 #### Artículo 3
 
@@ -2630,13 +2628,47 @@ El Director de Obras podrá ordenar la ejecución de obras de mantención o repa
 
 #### Artículo 4
 
-2.26. Excepción a las normas de edificación para
+2.26. Excepción a las normas de edificación para los predios con edificaciones de hasta tres pisos con destino residencial
 
-los predios ubicados en zonas de edificación
+En los predios que acojan edificaciones de hasta tres pisos con destino residencial se admitirá un coeficiente de ocupación de suelo en primer piso de 0,7. Las demás normas urbanísticas serán las establecidas para la zona de edificación y la zona de uso de suelo correspondientes.
 
-aislada con viviendas de hasta tres pisos.
+#### Artículo 4
 
-En los predios ubicados en zonas de edificación aislada con o sin adosamiento que acojan edificaciones de hasta tres pisos con destino residencial, se admitirá un coeficiente de ocupación de suelo en primer piso de 0,5. Las demás normas urbanísticas serán las establecidas para la zona de edificación y la zona de uso de suelo correspondientes.
+2.27. Excepciones a las normas de edificación para los equipamientos
+
+Podrán aplicarse las siguientes excepciones a las normas de edificación que se indican, que varían según el sistema de agrupamiento de la zona de edificación respectiva (EC, EC+A, EA/pa y EA), en los predios destinados a la construcción o habilitación de equipamiento de las siguientes clases:
+
+servicios: juzgados de policía local, registro civil, oficinas y servicios municipales;
+
+educación: salas cuna, jardines infantiles, establecimientos de educación básica, media, diferenciales o especiales;
+
+salud: centros de salud pública (policlínicos, Centros Comunitarios de Salud Mental COSAM, Centros de Salud Familiar CESFAM, Centros Comunitarios de Salud Familiar CECOF, Centros Comunitarios de Rehabilitación CCR, Centro de Salud Urbano CSU); Servicios de Atención Primaria de Urgencia (SAPU).
+
+seguridad: unidades policiales, cuarteles de bomberos;
+
+social: sedes de juntas de vecinos, centros de madres, centros del adulto mayor, centros de la juventud, centros integrales de desarrollo social, locales y centros comunitarios y sedes de organizaciones funcionales.
+
+ZONAS DE EDIFICACIÓN
+
+NORMAS DE EDIFICACIÓN CONTINUA AISLADA
+
+(EC y EC + A) (EA/pa Y EA)
+
+Coeficiente de ocupación 0,8 0,7
+
+de suelo primer piso
+
+Coeficiente de ocupación 0,8 0,7
+
+de suelos pisos superiores
+
+Coeficiente de 1,6 1,4
+
+constructibilidad
+
+Los establecimientos para las actividades de equipamiento de la clase educación antes mencionados que se ubiquen en las zonas de edificación EC3 y EA3 podrán tener una altura máxima de 4 pisos.
+
+En los predios ubicados en zonas de edificación cuyos coeficientes de ocupación de suelo y de constructibilidad excedan los indicados en el cuadro anterior, regirán las normas de edificación de la zona respectiva.
 
 ## Capítulo 4.3.
 
@@ -3176,149 +3208,93 @@ DE LAS NORMAS GENERALES DE USOS DE SUELO.
 
 #### Artículo 6
 
-1.01. Usos de Suelo por Tipo y Clase de Uso.
+1.01. Tipos de uso de suelo
 
-Conforme a lo señalado en los Art. 2.1.24. al 2.1.33. de la OGUC y para efectos de la presente OL, los Usos de Suelo se ordenan y clasifican en Tipos y en Clases de Usos; utilizando también en este caso la denominación Clases para los usos en que se ha subdividido el Tipo Infraestructura, todo de acuerdo a lo señalado en el Cuadro Nº 26 siguiente:
+Para efectos de esta Ordenanza Local, los usos de suelo se clasifican en seis tipos: residencial, equipamiento, actividades productivas, infraestructura, espacio público y área verde.
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 24
+A su vez, los tipos de uso de suelo «equipamiento» e «infraestructura» se dividen en clases.
 
-#### Artículo 6
+Los tipos de uso de suelo y las clases de equipamiento e infraestructura aparecen en el cuadro 26 a continuación.»
 
-1.02. BNUP, BPP y Tipos de Usos
+CUADRO 26
 
-correspondientes.
-
-Corresponde al BNUP el Tipo de Uso de Suelo Espacio Público, nombrado en el Art. 2.1.24. de la OGUC (referido al Sistema Vial y las Areas Verdes Públicas); éstos últimos sólo en bienes nacionales de uso público, conforme el Art. 2.1.30. de la OGUC.
-
-Corresponden al BPP los otros cinco Tipos de Usos nombrados en el Art. 2.1.24. de la OGUC: Residencial, Equipamientos, Actividades Productivas, Infraestructura y Areas Verdes que, conforme al Art. 2.1.31. de la OGUC, no sean bienes nacionales de uso público, cualquiera sea su propietario.
+.
 
 #### Artículo 6
 
-1.03. Conjuntos de Actividades Específicas
-
-según Tipos y Clases de Uso.
-
-Los Tipos y Clases de Uso definidos en el Art. 6.1.01. anterior, para efectos de limitar o fomentar la localización de actividades en las diversas Zonas de Uso del BPP, conforme lo faculta el inciso primero del Art. 2.1.32. de la OGUC, serán subdivididos en cuatro Conjuntos de Actividades Específicas permitidas, los que se indican por Tipo y Clase de Uso en el Cuadro Nº 27, siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 25
+1.02. DEROGADO
 
 #### Artículo 6
 
-1.04. Requisitos a tener presente al solicitar
-
-patentes de actividades.
-
-Los interesados en desarrollar actividades de servicio, comerciales, o productivas deberán tener presente los siguientes requisitos que deberán cumplir:
-
-a) Que los letreros y avisos de publicidad y propaganda habrán de atenerse a lo dispuesto en el Título 9 de esta OL, y tramitar el permiso para el tipo de publicidad correspondiente ante la Dirección de Obras;
-
-b) Que los espacios de antejardín no se podrán ocupar con instalaciones, exhibiciones de productos, ni estacionamientos de vehículos, excepto los elementos establecido en los Arts. 4.1.05, 4.1.10 y 4.2.23, de esta OL;
-
-c) Que la Oficina de Patentes e Inspección Local otorgará las patentes respectivas previo informe favorable de la Dirección de Obras, el que será cursado sólo una vez efectuada la recepción de las obras de adaptación que correspondan, todo en conformidad a los artículos 57 y 58 de la LGUC y las Normas de Salubridad correspondientes.
+1.03. DEROGADO
 
 #### Artículo 6
 
-1.05. Informe previo para otorgar patentes de
-
-actividades.
-
-El otorgamiento de patentes de actividades requerirá previamente del informe favorable del Director de Obras según el Artículo 58 de la LGUC. En este informe el Director de Obras verificará que las actividades que autorizará la patente solicitada -y que se desarrollarán en cada predio, edificio o local- sean concordantes con los Usos de Suelo permitidos, restringidos o prohibidos. Del mismo modo, verificará que cumplan con el conjunto de actividades específicas, de acuerdo a la Zona y con las restricciones correspondientes, en el caso de los usos restringidos.
+1.04. DEROGADO
 
 #### Artículo 6
 
-1.06. Exigencias para los establecimientos y
-
-locales.
-
-La ubicación, emplazamiento, control de molestias (ruidos) y peligrosidad (residuos contaminantes) así como otras exigencias que fijan las diversas normas, para los establecimientos y locales en que se desarrollen las actividades de los usos permitidos, así como las restricciones que deben cumplir los usos restringidos, se regirán por lo dispuesto para cada Zona de Uso en el Cap. 6.2. de la presente OL. No obstante lo anterior, los establecimientos y locales deberán cumplir con lo dispuesto en la LGUC, OGUC, PRMS y en las normas ambientales vigentes, en cuanto les fueren aplicables.
+1.05. DEROGADO
 
 #### Artículo 6
 
-1.07. Pequeños comercios y talleres en predios
-
-de viviendas unifamiliares.
-
-Las viviendas unifamiliares en predios que no sean de copropiedad podrán consultar el funcionamiento de pequeños comercios, industrias artesanales o el ejercicio de una actividad profesional, en tanto su destino principal subsista como habitacional, de acuerdo lo establece los Arts. 145, 162 y 165 de la LGUC, y el Art. 2.1.26. de la OGUC. Sin embargo, las actividades que contemplen la atención de público podrán sólo instalarse en predios esquinas o frente a áreas verdes conforme al conjunto de actividades específicas autorizado en cada Zona.
-
-Las viviendas unifamiliares en condominios podrán consultar el funcionamiento de industrias artesanales o el ejercicio profesional en tanto no atiendan público y conforme lo autorice el reglamento de copropiedad correspondiente.
+1.06. DEROGADO
 
 #### Artículo 6
 
-1.08. Excepciones de uso en Predios Especiales.
-
-Aquellos predios de las Zonas de Uso UR y UpR menores a 800 m², inscritos en el Conservador de Bienes Raíces con anterioridad a+ la fecha de publicación en el Diario Oficial del presente PRCP, y que queden rodeados por sus tres deslindes al vecino, por edificios de 6 pisos o más durante el proceso de renovación urbana, y/o por edificios de interés patrimonial, podrán destinarse a los Usos de Tipo Equipamiento, Clases: Servicios, Científico, Educación, Salud, Social, Culto y Cultura, hasta el conjunto 2 de actividades específicas para la Zona UR y hasta el conjunto 3, para la zona UpR, excepto en esta última Zona la Clase Servicios, la que podrá destinarse sólo hasta el conjunto 2. Además de lo anterior podrán gozar de las excepciones en las normas de edificación que se establecen en el Art. 4.3.15. de esta OL.
-
-El Alcalde estará facultado para autorizar excepcionalmente los usos señalados más arriba también a propiedades que, por su tamaño y condiciones de los sitios que los rodean, se encuentren imposibilitados de reedificarse de acuerdo a las normas del PRCP, previo informe al respecto del Director Jurídico y el Director de Obras Municipales.
+1.07. DEROGADO
 
 #### Artículo 6
 
-1.09. Excepciones al uso del suelo en Zonas e
+1.08. Uso de suelo en predios especiales
 
-Inmuebles Patrimoniales.
+Los predios especiales definidos en el artículo 4.3.15 de esta Ordenanza que estén emplazados en la zona de uso de suelo residencial (UR) podrán destinarse a equipamiento de las siguientes clases, siempre y cuando se haga el cambio de destino correspondiente:
 
-En los Monumentos Históricos o Zonas Típicas, así como en las Zonas e Inmuebles de Conservación Histórica, una vez solicitado el cambio de destino, si corresponde, podrán destinarse a Equipamientos Clases: Científicos, Culto y Cultura, de Servicios y Social, hasta el Conjunto 3 de actividades específicas o a Equipamientos Educacionales hasta Conjunto 4 de actividades específicas, según el Art. 6.1.03. de esta OL, además de los usos de suelo propios de la Zona donde se encuentran emplazados.
+- servicios, centros de pago, salones de belleza, lavasecos, tintorerías, servicios artesanales; oficinas, agencias, agencias de viñas o de industrias de licores establecidas fuera de la comuna; centros de llamados o de internet; notarías, correos; instituciones de salud previsional, instituciones financieras, cajas de compensación, administradoras de fondos de pensiones, compañías de seguros, bancos; productoras artísticas, audiovisuales y publicitarias;
 
-Los usos permitidos en las ZCH e ICH se fijan considerando los Conjuntos de Actividades Específicas definidos en el Art 6.1.03. de esta OL, de acuerdo al siguiente detalle:
+- científico; edificaciones destinadas principalmente a la investigación y divulgación científica, al desarrollo y transferencia tecnológica e innovación técnica;
 
-Residencial : sólo Conjuntos 1, 2 y 3.
+- educación, establecimientos de educación básica, media, diferencial o especial; institutos de idiomas, academias e institutos profesionales en carreras u oficios artísticos, educación de adultos;
 
-Equipamiento de Servicios : sólo Conjuntos 1, 2 y 3.
+- salud, terapias alternativas o complementarias;
 
-Equipamiento Científico : Conjuntos 1 al 4.
-
-Equipamiento de Seguridad : sólo Conjuntos 1, 2 y 3.
-
-Equipamiento de Educación : Conjuntos 1 al 4.
-
-Equipamiento de Salud : sólo Conjuntos 1, 2 y 3.
-
-Equipamiento Social : sólo Conjuntos 1, 2 y 3.
-
-Equipamiento de Culto
-
-y Cultura : sólo Conjuntos 1, 2 y 3.
-
-Equipamiento de Deportes : sólo Conjuntos 1, 2 y 3.
-
-Equipamiento de Esparcimiento: sólo Conjuntos 1, 2 y 3.
-
-Equipamiento de Comercio : sólo Conjuntos 1, 2 y 3.
-
-Actividades Productivas : prohibidas
-
-Infraestructura : prohibidas
-
-Queda prohibido todo uso no indicado anteriormente, específicamente locales nocturnos como pubs, discotecas, antenas de telecomunicaciones.
-
-Sin embargo, cualquiera de las ZCH e ICH podrá gozar de las excepciones contenidas en las normas de uso que se establecen en los Arts. 6.1.08. y 6.1.09. de esta OL.
-
-En todo caso, los usos propuestos no deberán alterar los valores urbanos, arquitectónicos y ambientales identificados en la ficha de evaluación respectiva.
+- culto y cultura, capillas, oratorios, iglesias, sinagogas, mezquitas, templos, parroquias; bibliotecas, galerías de arte, museos; auditorios, centros culturales, centros de convenciones; radioemisoras, prensa escrita; cines y teatros.
 
 #### Artículo 6
 
-1.10. Cambio de uso en construcción destinada
+1.09. Usos de suelo en zonas e inmuebles protegidos
 
-originalmente a Uso Residencial.
+Además de las actividades permitidas en la zona de uso de suelo donde se encuentren, los monumentos históricos, los inmuebles que pertenezcan a una zona típica, los inmuebles de conservación histórica y los inmuebles que pertenezcan a una zona de conservación histórica podrán, previo cambio de destino, destinarse a:
 
-Cuando se realice el cambio de uso Residencial, en una construcción existente destinada originalmente a vivienda, ya sea una vivienda en un predio unifamiliar o de copropiedad, por otro uso permitido o restringido en cualquier Zona de Uso, se deberán cumplir los requisitos que se establecen en el Art. 6.4.03 de la presente OL.
+- residencia: anexos de hoteles, hoteles y hosterías; hoteles de turismo;
 
-Sólo una vez verificado por la Dirección de Obras el cumplimiento de todos estos requisitos, se autorizará el cambio de destino de la propiedad otorgándole el informe favorable correspondiente mencionado en los Arts 6.1.04. y 6.1.05. anteriores.
+- equipamientos de las siguientes clases:
+
+- servicios, centros de pago, salones de belleza, lavasecos, tintorerías, servicios artesanales; oficinas, agencias, agencias de viñas o de industrias de licores establecidas fuera de la comuna; centros de llamados o de internet; notarías, correos; instituciones de salud previsional, instituciones financieras, cajas de compensación, administradoras de fondos de pensiones, compañías de seguros, bancos; productoras artísticas, audiovisuales y publicitarias;
+
+- científico, edificaciones destinadas principalmente a la investigación y divulgación científica, al desarrollo y transferencia tecnológica e innovación técnica;
+
+- educación, establecimientos de educación básica, media, diferencial o especial; institutos de idiomas, academias e institutos profesionales en carreras u oficios artísticos, educación de adultos;
+
+- salud, terapias alternativas o complementarias;
+
+- culto y cultura, capillas, oratorios, iglesias, sinagogas, mezquitas, templos, parroquias; bibliotecas, galerías de arte, museos; auditorios, centros culturales, centros de convenciones; radioemisoras, prensa escrita; cines y teatros.
+
+- comercial de los siguientes tipos: bazar, paquetería, librería, boutique; salones de té y cafeterías; restaurantes diurnos y nocturnos; tiendas de vestuario y calzado.
+
+Las actividades productivas y la infraestructura quedan expresamente prohibidas
 
 #### Artículo 6
 
-1.11. Restricciones a las patentes comerciales
-
-nocturnas.
-
-No se otorgarán patentes comerciales para funcionamiento exclusivamente en horario nocturno. Los cafés, restoranes, pubs, o locales similares, que deseen funcionar de noche deberán incluir siempre el funcionamiento diurno.
+1.10. DEROGADO
 
 #### Artículo 6
 
-1.12. Sanciones especiales a estas
+1.11. DEROGADO
 
-infracciones.
+#### Artículo 6
 
-La infracción a estas normas ocasionará las sanciones correspondientes establecidas en el Titulo I, Cap. IV de la LGUC y el Titulo 1, Cap. 3 de la OGUC, sin perjuicio de la cancelación de la patente respectiva y la clausura, si procede.
+1.12. DEROGADO
 
 ## Capítulo 6.2.
 
@@ -3326,207 +3302,127 @@ NORMAS DE LAS DISTINTAS ZONAS DE USO DEL SUELO
 
 #### Artículo 6
 
-2.01. Límites de las Zonas.
+2.01. Delimitación de las zonas de uso de suelo
 
-Los límites territoriales de las diversas Zonas de Usos del Suelo incluyen los predios graficados en los planos con la trama correspondiente y, aquellas que se grafican enfrentando vías, se extenderán, hasta una profundidad máxima de 50 metros o hasta la mitad de la distancia entre la vía que genera la norma y la vía posterior que delimita la respectiva manzana, primando la medida más restrictiva. Ello también valdrá cuando se fusionen predios.
+Los límites territoriales de las diversas zonas de uso de suelo incluyen los predios graficados en los planos con el color correspondiente; aquellas que se grafican enfrentando vías se extenderán hasta una profundidad máxima de 50 metros o hasta la mitad de la distancia entre la vía que genera la norma y la vía posterior que delimita la respectiva manzana, primando la medida más restrictiva. Ello también valdrá cuando se fusionen predios.
+
+Las diferentes zonas de uso de suelo se grafican en el plano L 3/4 «Espacio privado: zonas de usos de suelo.
 
 Los límites de las Zonas de Uso se grafican en plano PRCP 2007 - L3/4 "Espacio Privado: Zonas de Uso de Suelo".
 
 #### Artículo 6
 
-2.02. Tipos de Zonas de Uso.
+2.02. Zonas de uso de suelo
 
-Los tipos de Zonas de Uso en que se divide el territorio de Providencia y que definen los diversos usos de suelo permitidos, restringidos o prohibidos, así como los conjuntos de actividades específicas permitidas en cada una de ellas, son las que se señalan en el Cuadro Nº 28 siguiente:
+Las zonas de uso de suelo que se asigna a los predios del territorio comunal son los señalados en el cuadro 28 a continuación.»
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 26
+CUADRO 28
 
-#### Artículo 6
-
-2.03. Control de Impactos Ambientales y
-
-Restricciones Urbanas.
-
-Para aprobar el permiso y otorgar las patentes de actividades correspondientes, el Director de Obras, además de la correspondencia con los Usos de Suelo agrupados en Conjuntos de Actividades Específicas, verificará en cada proyecto que no se sobrepasen los Rangos de Impactos Ambientales máximos aceptados en cada Zona y las Restricciones Urbanas que se norman para cada Actividad Específica en la respectiva Zona de Uso del Suelo, en los Arts. 6.2.04., 6.2.05. y 6.2.06. de esta OL.
+.
 
 #### Artículo 6
 
-2.04. Impactos Ambientales.
-
-Los Impactos Ambientales posibles están referidos a tipos de contaminación que dependen del medio en que se propaga y del contaminante que se trate. Los tipos de contaminación que este Plan Regulador ha identificado, son los que se detallan en el Cuadro Nº 29 siguiente, los que son normados por los organismos sectoriales pertinentes:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 26
+2.03. DEROGADO.
 
 #### Artículo 6
 
-2.05. Rangos de Impacto Ambiental genéricos.
-
-Los Impactos Ambientales, establecidos para la clasificación de Actividades Industriales y de Bodegaje en los Arts 4.14.1. y 4.14.2. de la OGUC, se considera que constituyen cuatro Rangos genéricos de Impacto Ambiental, RIA, según el grado de impacto que pueden producir y pueden hacerse extensivos a todos los medios y contaminantes.
-
-Los cuatro Rangos de Impacto Ambiental genéricos son:
-
-RIA 1 = Inofensivo;
-
-RIA 2 = Molesto;
-
-RIA 3 = Insalubre o Contaminante, y
-
-RIA 4 = Peligroso
+2.04. DEROGADO.
 
 #### Artículo 6
 
-2.06. Asignación de Rangos Ambientales a cada
-
-Zona de Uso.
-
-La presencia de actividades potencialmente impactantes, califican el sector urbano en que se instalan, estableciéndose un Rango que define las actividades que pueden instalarse en dicha Zona.
-
-En cualquiera de las zonas de uso del territorio de Providencia sólo se admitirá Rango de Impacto Ambiental RIA 1, equivalente a Inofensivo, de acuerdo a lo señalado en el Art 4.14.2. de la OGUC.
-
-Cada Zona de Uso de suelo se puede relacionar con un Rango de Impacto Ambiental RIA, el cual establecerá los niveles máximos aceptados para dicha zona según tipo de contaminación y medio de propagación.
+2.05. DEROGADO.
 
 #### Artículo 6
 
-2.07. Restricciones por Rango de Impacto
+2.06. Establecimientos industriales y de bodegaje
 
-Ambiental.
+Los establecimientos industriales, que solo podrán ser inofensivos o molestos, se permitirán únicamente en la zona de uso de suelo UpAP e Ir.
 
-Las restricciones respecto a los Impactos Ambientales máximos se señalan en el encabezamiento superior de cada cuadro de Zona de Uso con la sigla RIA (Rango de Impacto Ambiental) seguida de un número del 1 al 4, y se refiere a los rangos máximos de impacto permitidos en cada Zona, los que se establecen en RIA 1, Inofensivo, para todas las zonas, y que según corresponda, requieran de la calificación ambiental de la SEREMI de Salud RM.
-
-Para instalarse en cualquiera de las zonas del territorio comunal, todo establecimiento de carácter industrial, bodegaje o impacto similar, deberá ser calificado como Inofensivo, dando cumplimiento así a lo señalado en el Art. 6.2.06., anterior.
-
-Por su parte, y de acuerdo a lo señalado en el Art 4º de la Ley Nº 19.749 del 16/05/02 que Establece Normas para Facilitar la Creación de Microempresas Familiares, para otorgar una patente a una microempresa familiar, así como la autorización para poder desarrollar labores profesionales, oficios, industria, artesanía o cualquier otra actividad lícita, ya sea de prestación de servicios o de producción de bienes, el municipio no considerará las limitaciones relativas a la zonificación comercial o industrial que contemplen las respectivas ordenanzas municipales ni las autorizaciones que previamente deban otorgar las autoridades sanitarias u otras que contemplen las leyes y que afecten a dicho inmueble, excepto las limitaciones o autorizaciones dispuestas en el Decreto Supremo Nº 977 de 1997, del Ministerio de Salud, que aprobó el Reglamento de Alimentos.
-
-No obstante lo anterior, las Actividades Productivas y de Servicio de carácter industrial deberán cumplir con las condiciones, requisitos y parámetros establecidos en la Circular Nº 95 del 30 de Nov de 1998, Anexo D, del MINVU en su "Pauta de Referencia de Calificación de Actividades Productivas y de Servicios de Carácter Industrial" y lo establecido en los Cap. 3.1 y 6.1. del PRMS.
-
-En los indicadores del Cuadro Nº 30 siguiente se ha limitado el desglose de Rangos sólo para el Medio Aire, mientras no se establezcan parámetros oficiales, reconocidos a nivel central, para los restantes medios de propagación.
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 27
+Los establecimientos de bodegaje quedan expresamente prohibidos en todo el territorio comunal.
 
 #### Artículo 6
 
-2.08. Restricciones a las Actividades
-
-Específicas.
-
-Serán aquellas señaladas mediante códigos (de letras y números) en la columna denominada "Restringidas" de los cuadros correspondientes a cada una de las Zonas de Uso. Los códigos generados por el cruce de las columnas y filas, del Cuadro N° 31 siguiente, establecen las condiciones a cumplir:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 27
+2.07. DEROGADO.
 
 #### Artículo 6
 
-2.09. Restricciones para la aplicación del
-
-inciso segundo del Art. 145 de la LGUC.
-
-Las actividades autorizadas por el Art. 145 de la LGUC y La Ley 19.749, para ser realizadas en edificaciones construidas con destino residencial, sin que se considere cambio de destino del inmueble, se entiende que cumplen con las siguientes condiciones:
-
-a) Permanecerá como destino principal el de vivienda, si no se ocupa más de un 50 % de la superficie de la vivienda respectiva en dicha actividad y no se instala publicidad.
-
-b) En caso de ubicarse en viviendas acogidas a la Ley de Copropiedad Inmobiliaria podrán ejercerse todas las actividades autorizadas por las Leyes citadas que cumplan con los requisitos del punto anterior y además estén expresamente permitidas en el Reglamento de Copropiedad respectivo.
+2.08. DEROGADO.
 
 #### Artículo 6
 
-2.10. Usos del Subsuelo en las diversas Zonas
-
-de Uso del Espacio Privado.
-
-En cada Zona de Uso se podrá destinar el subsuelo a todos los tipos de usos no residenciales permitidos en cada Zona. El uso residencial estará prohibido, excepto la vivienda del Conserje, las bodegas y estacionamientos para los copropietarios y los servicios comunes destinados a ellos (salas de reunión, salas cunas, lavanderías, etc). Estas construcciones deberán cumplir con las condiciones de habitabilidad que aparecen en el Capitulo 1 del Título 4 de la OGUC, y las condiciones constructivas señaladas en el Art. 2.6.3. de ese mismo cuerpo legal, en cuanto sean necesarias para las actividades específicas respectivas que alberguen .
+2.09. DEROGADO.
 
 #### Artículo 6
 
-2.11. Normas para las diversas Zonas de Usos.
-
-Las normas de las diversas Zonas de Uso de Suelo en relación con los Tipos, las Clases y Conjuntos de Actividades Específicas de los establecimientos que se permiten, restringen o prohíben, se describen separados por filas y columnas en los Arts. 6.2.12. al 6.2.18. siguientes de la presente OL.
+2.10. DEROGADO.
 
 #### Artículo 6
 
-2.12. UR - Zona de Uso Residencial.
-
-La Zona de uso UR tendrá como destino principal el Residencial, quedando todas las demás actividades subordinadas a ésta. Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
-
-Las actividades específicas permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 32 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 28
+2.11. DEROGADO.
 
 #### Artículo 6
 
-2.13. UpR - Zona de Uso Preferentemente
+2.12. Zona de uso residencial, UR
 
-Residencial.
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo residencial (UR) se consignan en el cuadro 32 a continuación:
 
-La zona de uso UpR tendrá como destino preferente el Residencial, quedando todas las demás actividades subordinadas a ésta. Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
+.
 
-Las actividades específicas permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 33 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 28 ART. 6.2.14. UpR y Er - Zona de Uso pref. Residencial
-
-y de Equipamientos restringidos.
-
-La zona de uso UpRyEr, tendrá como destinos preferentes el Residencial y Equipamiento con restricciones, todas las demás actividades estarán subordinadas a éstas. En esta zona los pisos de la edificación adosada, salvo el departamento del conserje, tendrá como destino principal el de Equipamiento de las Clases: Servicios, Científico, Culto, Cultura, Comercio y Esparcimiento, no aceptándose otro uso en ellos. Asimismo, los pisos de la edificación aislada que no tengan destino residencial, por limitación de la densidad residencial máxima, tendrán como destino obligatorio el de Equipamiento de las Clases: Comercio, Servicios, Científico, Culto, Cultura y Esparcimiento; los restantes pisos podrán destinarse a uso Residencial, siempre que se les garantice acceso independiente.
-
-Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30). Las actividades específicas permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 34 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 28
+Nota: En el cuadro 32 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
 
 #### Artículo 6
 
-2.15. UpR y E - Zona de Uso preferentemente
-
-Residencial y de Equipamientos.
-
-La zona de uso UpR y E tendrá como destino principal el Residencial y los Equipamientos, quedando todas las demás actividades subordinadas a éstas. Esta zona tendrá como destino principal el Equipamiento en todas sus Clases, no aceptándose otros usos en los pisos de la edificación adosada, salvo el departamento del conserje. Los pisos de la edificación aislada que no tengan destino residencial, por limitación de la densidad residencial máxima, tendrán como destino obligatorio el de los Equipamiento en cualquiera de sus Clases, los restantes pisos podrán destinarse para uso Residencial, siempre que se le garantice acceso independiente.
-
-Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
-
-Las actividades específicas permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 35 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 29
+2.13. DEROGADO.
 
 #### Artículo 6
 
-2.16. UpR y ECr - Zona de Uso pref. Residencial
+2.14. Zona de uso preferentemente residencial y equipamiento restringido, UpR y Er
 
-y Equipamiento de Comercio restringido.
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo preferentemente residencial y de equipamiento restringido (UpR y Er) se consignan en el cuadro 34 a continuación.
 
-La Zona de Usos UpR y ECr tendrá como destino principal el Equipamiento de las Clases: Comercio, Servicios, Científico, Culto, Cultura y Esparcimiento, no aceptándose otro uso en los pisos de la edificación continua, salvo el departamento del conserje. En todo caso en el primer piso de la edificación con frentes a calles y pasajes, sólo se aceptará la clase Comercio.
+.
 
-Los pisos de la edificación aislada que no tengan destino residencial, por limitación de la densidad residencial máxima, tendrán como destino obligatorio el de los Equipamiento Clases: Comercio, Servicios, Científico, Culto, Cultura y Esparcimiento; los restantes pisos podrán destinarse para uso Residencial, siempre que se les garantice acceso independiente.
-
-Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
-
-Las actividades permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 36 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 29
+Nota: En el cuadro 34 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
 
 #### Artículo 6
 
-2.17. UpEC - Zona de Uso preferentemente de
+2.15. Zona de uso preferentemente residencial y de equipamiento, UpR y E
 
-Equipamiento Comercial.
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo preferentemente residencial y de equipamiento (UpR y E) se consignan en el cuadro 35 a continuación.
 
-La zona de uso UpEC tendrá como destino principal el Equipamiento de las clases Comercio, Servicios, Científico, Culto, Cultura y Esparcimiento, de acuerdo con el cuadro N°37 siguiente, no aceptándose otro uso en los tres primeros pisos, salvo el departamento del conserje. En todo caso en el primer piso de la edificación con frentes a calles y pasajes, sólo se aceptará la clase Comercio. Los pisos de la edificación aislada que, por limitación de la densidad residencial máxima, no tengan uso residencial tendrán como destino obligatorio el Equipamiento Clases: Comercio, Servicios, Científico, Culto, Cultura y Esparcimiento; los restantes pisos podrán destinarse para uso Residencial, siempre que se le garantice acceso independiente.
+.
 
-Para todas las actividades de esta Zona, las Restricciones por Impacto Ambiental serán de Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
-
-Las actividades permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 37 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 30
+Nota: En el cuadro 35 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
 
 #### Artículo 6
 
-2.18. UpAP e Ir - Zona de Us o pref. de
+2.16. Zona de uso preferentemente residencial y equipamiento de comercio restringido, UpR y ECr
 
-Actividades Productivas e Industria
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo preferentemente residencial y de equipamiento comercial restringido (UpR y ECr) se consignan en el cuadro 36 a continuación.
 
-restringida.
+.
 
-La zona de uso UpAP e Ir tendrá como destino principal las actividades productivas (talleres) y la industria con restricción, quedando todas las demás actividades subordinadas a éstas. Los pisos de la edificación adosada, salvo el departamento del conserje, tendrán destino Equipamiento en todas sus Clases, excepto los prohibidos. Los pisos de la edificación aislada que, por limitación de la densidad residencial máxima, no tengan uso residencial, tendrán como destino obligatorio el Equipamiento, anteriormente señalado, los restantes pisos podrán destinarse para uso Residencial, siempre que se les garantice acceso independiente.
+Nota: En el cuadro 36 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
 
-Para todos los establecimientos de esta Zona, las Restricciones por Impacto Ambiental serán de máximo Rango 1, Inofensivo (ver Art. 6.2.07. Cuadro Nº 30).
+#### Artículo 6
 
-Las actividades permitidas, restringidas (según Art. 6.1.03, Cuadro Nº 27) y prohibidas, se consignan en el Cuadro Nº 38 siguiente:
+2.17. Zona de uso preferentemente de equipamiento comercial, UpEC
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 30
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo preferentemente de equipamiento comercial (UpEC) se consignan en el cuadro 37 a continuación.
+
+.
+
+Nota: En el cuadro 37 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
+
+#### Artículo 6
+
+2.18. Zona de uso preferentemente de actividades productivas e industria restringida, UpAP e Ir
+
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo preferentemente de actividades productivas e industria restringida (UpAP e Ir) se consignan en el cuadro 38 a continuación.
+
+.
+
+Nota: En el cuadro 38 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
 
 #### Artículo 6
 
@@ -3554,9 +3450,7 @@ O DE SERVICIOS.
 
 #### Artículo 6
 
-3.01. Limitación de las industrias permitidas.
-
-En la zona UpAP e Ir, y en todas las que se acepte el uso Industrial, sólo podrán localizarse aquellas industrias inofensivas conforme a los Rangos de Impacto Ambiental (RIA) permitidos en cada Zona, según el Cuadro N° 31 del Art. 6.2.07. de la presente OL.
+3.01. DEROGADO.
 
 #### Artículo 6
 
@@ -3570,67 +3464,27 @@ Los talleres mecánicos inofensivos y molestos podrán agregar a su función esp
 
 #### Artículo 6
 
-3.03. Establecimientos de Venta Minorista de
-
-Combustibles Líquidos.
-
-Sin perjuicio de lo dispuesto por el PRMS, los Establecimientos de Venta Minorista de Combustibles Líquidos podrán instalarse:
-
-a) En las Zonas UR, UpR, UpR y Er, UpR y E, UpR y ECr sólo en predios de sitios esquina con una superficie mínima de 500 m2 y máxima de 1.600 m2, siempre que enfrenten vías Expresas o Colectoras, que tengan un ancho mínimo de calzada de 9m y 20 m entre Líneas Oficiales, excepto en calle Pocuro.
-
-b) En las Zonas UpEC no se podrán instalar en ninguna ubicación.
-
-c) En las Zonas UpAP e Ir, en vías de mínimo 15 metros entre Líneas Oficiales y calzadas de 9 m o más, igualmente sólo en sitios esquina.
+3.03. DEROGADO.
 
 #### Artículo 6
 
-3.04. Centros de Servicio Automotríz.
-
-Podrán instalarse en Zonas UpR y Er, UpEC y UpAP e Ir, enfrentando en todos los casos vías de un ancho mínimo de 20 m entre líneas oficiales y calzadas de 9m o más; en predios cuya superficie predial mínima sea de 1.000 m2 y siempre que se trate de atención de automóviles, motonetas, motos o similares y no de maquinaria pesada (buses, tractores, camiones, etc).
-
-La construcción de estos locales se regirá por las mismas disposiciones que regulan la edificación en las correspondientes Zonas de la comuna, además de cumplir con las normas contempladas en los Arts. 7.1.3.3 y 7.1.3.4. del PRMS.
+3.04. DEROGADO.
 
 #### Artículo 6
 
-3.05. Talleres Mecánicos de Mantención.
-
-Los talleres mecánicos de Mantención definidos en el Art 1.2.01. de esta OL, no podrán instalarse en la Zonas UR, UpR y UpEC. En las Zonas UpR y Er, UpR y E y UpR y ECr sólo se aceptarán en subterráneos, asegurándose una correcta ventilación. En las Zona UpAP e Ir, podrán instalarse también a nivel de la calle o de primer piso, siempre que la propiedad no colinde con las Zonas UR, UpR o UpEC. Las exigencias de edificación serán las siguientes: adosamiento sólo con oficinas, bodegas, pañol de herramientas o baños; donde no exista adosamiento deberá ubicarse una cortina vegetal aislante consistente en un fila de árboles de hoja perenne situados a 1,50 del medianero, árboles que el usuario se obliga a mantener en buenas condiciones. Los recintos de trabajo (talleres) deberán ser cerrados, asegurándose su correcta ventilación y quedar distanciado, cualesquiera sea su altura, al menos a 3 m. de los vecinos.
-
-Para todas las Zonas en que se los permite se exigirá un estacionamiento para clientes por cada puesto de trabajo o por cada 40 m2 de taller o fracción, con un mínimo de 4 estacionamientos.
+3.05. DEROGADO.
 
 #### Artículo 6
 
-3.06. Talleres Mecánicos de Reparación.
-
-Los talleres mecánicos de Reparación definidos en el Art 1.2.01. de esta OL, sólo podrán instalarse en la Zonas UpAP e Ir, con frente a calle o a nivel de primer piso, siempre que la propiedad no colinde con las Zonas UR, UpR o UpEC. Las exigencias de edificación serán las siguientes: adosamiento sólo con oficinas, bodegas, pañol de herramientas o baños; donde no se permita adosamiento, deberá ubicarse una cortina vegetal aislante consistente en un fila de árboles de hoja perenne situados a 1,50 del medianero, árboles que el usuario se obliga a mantener en buenas condiciones. El recinto de trabajo (taller) deberá ser cerrado y quedar distanciado al menos 3 m. de los vecinos.
-
-Para todas las Zonas en que se los permite se exigirá un estacionamiento para clientes por cada puesto de trabajo o por cada 30m2 de taller o fracción con un mínimo de 6 estacionamientos.
+3.06. DEROGADO.
 
 #### Artículo 6
 
-3.07. Condiciones ambientales para locales de
-
-atención de vehículos.
-
-En todos estos locales de atención de vehículos, las condiciones de incombustibilidad, aislamiento acústico, eliminación de gases, vibraciones, olores, etc. deben ser tales que las sitúen dentro de las características de la industrias calificadas como inofensivas, requisito indispensable para localizarse en sectores donde existe también el uso comercial y habitacional.
+3.07. DEROGADO.
 
 #### Artículo 6
 
-3.08. Facultad para denunciar infracciones.
-
-La facultad para denunciar las infracciones podrán ejercerse por y conforme al Art. 20 al 25 y 161 de la LGUC.
-
-Las denuncias reiteradas y multadas por tercera vez, facultarán al Director de Obras para la clausura del local y, la clausura por dos veces para, la cancelación definitiva de la patente.
-
-Serán causales de denuncia ante el Juzgado de Policía Local por parte de los vecinos o de los Inspectores Municipales, las siguientes infracciones a la Ordenanza Local por parte de los locales de servicio a los vehículos:
-
-a) Existencia de ruidos, emanaciones o vibraciones molestas a los vecinos, producto del trabajo fuera del recinto aislado del taller o de deficiencias en el sistema de aislamiento del mismo.
-
-b) La ocupación de la calle, antejardín, veredón o vereda para trabajos mecánicos o como estacionamiento habitual de los vehículos atendidos.
-
-c) Molestias provocadas por las maniobras y pruebas de funcionamiento de los vehículos.
-
-d) Manifiesto estado de descuido o suciedad en la presentación exterior del local tanto hacia la calle como hacia los vecinos.
+3.08. DEROGADO.
 
 ## Capítulo 6.4.
 
@@ -3640,29 +3494,11 @@ DENEGACIONES EN LOS USOS
 
 #### Artículo 6
 
-4.01. Congelamientos de usos prohibidos.
-
-A partir de la fecha de publicación en el Diario Oficial de esta Ordenanza, no podrán otorgarse nuevas patentes para los usos no permitidos.
-
-Los usos existentes dentro del territorio de la Comuna que sean prohibidos por las normas de la Zona de Usos respectiva, quedarán congelados conforme al Art 62º de la LGUC. Para los Tipos de usos de suelo Actividades Productivas y de Almacenamiento y Equipamiento, Clase Comercio, además del congelamiento, no se renovará la patente, sino a su actual titular jurídico o natural.
-
-Si un uso industrial no autorizado provocase molestias o daños al vecindario, la Municipalidad tendrá la facultad, previo informe del Ministerio de Salud y de la SEREMI Metropolitana de Vivienda y Urbanismo, conforme al Art 160 de la LGUC, para fijar un plazo no inferior a un año, dentro del cual el afectado deberá retirarse de la zona. La Alcaldía podrá clausurar los establecimientos o locales comerciales e industriales que contravengan las disposiciones de la LGUC, la OGUC y esta OL, conforme lo faculta el Art 161 de la LGUC.
+4.01. DEROGADO.
 
 #### Artículo 6
 
-4.02. Restricciones a tener en cuenta previo al
-
-cambio de destino en edificios
-
-residenciales.
-
-Los interesados, en los cambios de destino de construcciones aprobadas para uso residencial a otros usos permitidos en la Zona, deberán tener presente los siguientes requisitos:
-
-a) Que los letreros y avisos de propaganda habrán de atenerse a lo dispuesto en los Artículos 2.7.10. y siguientes de la OGUC, el Título 9 de esta OL y la Ordenanza Local de Publicidad y Propaganda que la Municipalidad haya dictado o dictare al efecto.
-
-b) Que los espacios de antejardín no se podrán ocupar con instalaciones, exhibiciones de productos ni estacionamientos de vehículos, excepto lo indicado en el Art. 4.1.11. de esta OL.
-
-c) Que el municipio no otorgará las patentes respectivas si no es con informe favorable de la Dirección de Obras, la que lo dará sólo una vez efectuada la Recepción Final de las obras de adaptación que correspondiere, todo ello en conformidad a los Arts. 116 a 125 de la LGUC.
+4.02. DEROGADO.
 
 #### Artículo 6
 
@@ -3688,21 +3524,11 @@ Sólo una vez verificado por la Dirección de Obras el cumplimiento de estos req
 
 #### Artículo 6
 
-4.04. Exigencias para los Usos de Suelo
-
-Restringidos.
-
-Los usos existentes con anterioridad a la entrada en vigencia del presente PRCP, que se permitan en la respectiva zona pero se vean condicionadas con otras exigencias en la presente OL, en las intervenciones que se haga tanto en las edificaciones como en las modificaciones de las actividades específicas, deberán cumplir con dichas exigencias, conforme a lo señalado en las normas de la Zona de Usos de los Capítulos 6.1. y 6.2. de esta OL.
+4.04. DEROGADO.
 
 #### Artículo 6
 
-4.05. Denegación de obra menor y cambio de
-
-destino en propiedades afectas a
-
-expropiación.
-
-En virtud de lo señalado en el inciso 5° del Art. 59 de la LGUC, no se concederá permiso de obra menor ni cambio de uso o destino a edificaciones afectadas por expropiación parcial o total, en el área correspondiente. Solamente conforme a los Art. 62, 121, 122 y 124 de la LGUC, y cuando ello no implique un obstáculo para la oportuna ejecución de las obras programadas por el PLADECO, el Director de Obras podrá otorgar el permiso a título provisorio, siempre que el propietario del inmueble se obligue mediante escritura pública, inscrita en el Conservador de Bienes Raíces, a renunciar, al momento de la expropiación, al cobro del mayor valor por las transformaciones e instalaciones efectuadas o por cualquier otro efecto causado por el permiso otorgado.
+4.05. DEROGADO.
 
 ## Título 7
 
@@ -3861,3 +3687,7 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 > **Nota.** El numeral 3° del Decreto 792 Exento, M. de Providencia, publicado el 11.05.2015, modifica la presente norma en el sentido de que el plano "PRCP 2007 - L2/4 FE. Espacio Privado: Zonas de Edificación" en el área correspondiente a los barrios Bellavista, Las Lilas y Norte de Pocuro, Diego de Almagro (Almagro Norte y Plaza Uruguay), Santa Isabel y Las Mil Calles, Dalmacia, Los Naranjos y Keller, graficados en el plano de ubicación L1 /8 M2, de acuerdo al siguiente detalle: . Barrio Bellavista, delimitado por el polígono A-B-C-A, en el cual se reasignan zonas de edificación como se indica en el plano L2/8 M2 que incluye la situación anterior y la situación que se aprueba; . Barrio Las Lilas y Norte de Pocuro, delimitado por el polígono A-B-C-D-E-F-A, en el cual se reasignan zonas de edificación como se indica en el plano L3/8 M2 que incluye la situación anterior y la situación que se aprueba; . Barrio Diego de Almagro (Almagro Norte y Plaza Uruguay), delimitado por el polígono A-B-C-D-E-F-G-A, en el cual se reasignan zonas de edificación como se indica en el plano L4/8 M2 que incluye la situación anterior y la situación que se aprueba; . Barrio Santa Isabel y Las Mil Calles, delimitado por el polígono A-B-C-D-E-F-G-A, en el cual se reasignan zonas de edificación como se indica en el plano L5/8 M2 que incluye la situación anterior y la situación que se aprueba; . Barrio Dalmacia, delimitado por el polígono A-B-C-D-E-A, en el cual se reasignan zonas de edificación como se indica en el plano L6/8 M2 que incluye la situación anterior y la situación que se aprueba; . Barrio Los Naranjos, delimitado por el polígono A-B-C-D-E-F-G-H-I-J-K-L-A, en el cual se reasignan zonas de edificación como se indica en el plano L7/8 M2 que incluye la situación anterior y la situación que se aprueba. . Barrio Keller, delimitado por el polígono J-M-N-O-J, en el cual se reasignan zonas de edificación como se indica en el plano L7/8 M2 que incluye la situación anterior y la situación que se aprueba.
 
 > **Nota.** NOTA 1 Los numerales 4° y 5° del Decreto 792 Exento, M. de Providencia, publicado el 11.05.2015, Incorporo al cuadro Nº 23 del artículo 5.2.05 del "TÍTULO 5. ÁREAS, ZONAS E INMUEBLES PROTEGIDOS "de la ordenanza local del Plan Regulador Comunal Providencia 2007, al cual se agregan, a continuación de la fila 72 y al final del cuadro mencionado, las siguientes filas: 73 Vivienda José Manuel Infante 1411 74 Vivienda Pedro de Valdivia 998.
+
+> **Nota.** NOTA 2 El numeral 2.4 del numero 2 del Decreto 4 Exento, M. DE PROVIDENCIA, publicado el 09.01.2016, modifica la presente norma en el sentido de incorporar dos nuevas filas al final del cuadro como la citada norma indica.
+
+> **Nota.** NOTA 3 El numeral 2.5 del numero 2 del Decreto 4 Exento, M. DE PROVIDENCIA, publicado el 09.01.2016, modifica la presente norma en el sentido de incorporar dos nuevas filas al final del cuadro como la citada norma indica.
