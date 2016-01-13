@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A EMPRESA PORTUARIA ANTOFAGASTA
+
+Mediante decreto exento Nº E-537, de 15 de diciembre de 2015, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a Empresa Portuaria Antofagasta, R.U.T. Nº 73.968.300-9, el inmueble fiscal signado como Lote A, ubicado aproximadamente a 2,6 kms. al Noreste de la intersección de la Ruta 5 con la Ruta 28, del Sector La Negra, comuna Provincia y Región de Antofagasta; Rol Servicio de Impuestos Internos Nº 6770-1; amparado por la inscripción global fiscal que rola a fs. 3497 vta. Nº 3775, en el Registro de Propiedad del año 2014, del Conservador de Bienes Raíces de Antofagasta, singularizado en el plano Nº 02101-8633-C.U.; con una superficie aproximada de 301.121,22 metros cuadrados. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para que se destine el inmueble a la construcción, habilitación y mantención del proyecto "Desarrollo Plataforma Logística Área Respaldo Portuario La Negra", dentro del plazo de dos años, contado desde la fecha de suscripción de la escritura pública de concesión. Parte del terreno se podrá destinar para la habilitación de las instalaciones de una Zona Franca para mercaderías exportadas e importadas por el Paraguay, conforme al Convenio celebrado entre Chile y Paraguay, el 19 de agosto de 1968, ratificado el 16 de enero de 1970 y publicado en el Diario Oficial el 20 de febrero de 1970. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.-
+
+Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
