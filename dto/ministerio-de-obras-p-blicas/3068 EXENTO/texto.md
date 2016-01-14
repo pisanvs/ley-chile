@@ -86,6 +86,8 @@ c- El Sistema Vial Urbano que interconecta las rutas S/R y T-350, desde el lími
 
 d- El tramo urbano de la Ruta T-340, desde el límite urbano Norte hasta Ruta T-350, a través de Ruta 340.
 
+. El Sistema Vial Urbano que interconecta las Rutas T-350 y T-424, desde la Ruta T-350 hasta el límite urbano suroriente a través de: Avenida Siete, Avenida Circunvalación Sur y Ruta T-424.
+
 4º Declárense caminos públicos en las áreas urbanas de las siguientes capitales de comuna, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 FUTRONO:
@@ -125,6 +127,10 @@ b- El tramo urbano de la Ruta T-39, desde el límite urbano Poniente hasta Berna
 RÍO BUENO
 
 . El sistema vial urbano que interconecta la Ruta T-71 con la Ruta T-85, desde el límite urbano norte al límite urbano oriente a través de: 2 puentes sobre el Río Bueno; Avenida Prat; calle Carlos Condell; sistema formado por las calles Camino a Lago Ranco, Riquelme, San Martín y Camino a Lago Ranco.
+
+CORRAL
+
+. El tramo urbano de la Ruta T-450, desde el Puerto de Corral hasta el límite urbano norte a través de: Camino a Amargos, Avenida Amargos y Camino a San Carlos.
 
 5º Declárense Caminos Públicos en las áreas urbanas de las siguientes ciudades o pueblos, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
