@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.391, 31 de diciembre 2015, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Pasaje Uno 3009 C DP 42, del piso 4, Rol de avalúo Nº 4069-90, comuna de Coronel, de aparente dominio de Aravena Placencia Marta Virginia. La superficie afecta expropiación total es de 43,325750 m2 que corresponden a 42,42 m2 de superficie útil y 0,90575000 de superficie de uso común en cuanto a construcción; y, de terreno sobre el total de los derechos cuotativos comunes, corresponden a 50,772600 m2 de superficie equivalentes al 1,04166% sobre el total del condominio que es de 4874,17 m2, según plano S8R-33.322 de noviembre de 2015, para la ejecución del Proyecto de Ampliación y Alteración de Departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión de Peritos integrada por María Silva Hernández, constructor civil, Orlando Javier Paredes Vásquez, ingeniero civil, y Luis Valenzuela Arroyo, ingeniero constructor, que fijó el monto de la indemnización provisional por la expropiación total en la suma de $9.521.994, pagadera de contado.
+
+Directora Serviu Región del Biobío.
