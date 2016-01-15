@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1395, de 29 de diciembre de 2015, se modificó el numeral segundo del Decreto MOP. (Exento) Nº436, de 28 de marzo de 2013, en la parte que se refiere al nombre del propietario según rol de avalúo y al rol de avalúo de la comuna de Valdivia, que figura a nombre de COMITÉ DE VIVIENDA, rol de avalúo 2409-53, superficie 874 m2., complementando el informe de tasación emitido el 31 de marzo de 2012, mediante acta emanada de la misma comisión de 19 de junio de 2014.
+
+Fiscal del Ministerio de Obras Públicas.
