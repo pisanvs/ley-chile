@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.392, de 31 de diciembre de 2015, Serviu Región del Biobío ordenó expropiación total de inmueble ubicado en calle Estero Lagunillas Nº 2599 B Dpto. Nº 31, piso tres, población Mártires del Carbón sector Lagunillas, comuna de Coronel, Rol de Avalúo Nº 4066-49, de aparente dominio de Serviu (Montecinos Polanco Navia Yanet). La parte afecta a expropiación tiene una superficie de 42,42 m² de superficie edificada más 0,90575000 m² de superficie común, la superficie de terreno expropiado sobre el total de los derechos cuotativos comunes, corresponden a 36,85000000 m² y cuyos linderos particulares, enmarcados en el plano S8R-33.321 para el proyecto "Ejecución de la ampliación y Reparación de los departamentos y block de la población Mártires del Carbón", en el marco del proceso de reconstrucción, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por el Constructor Civil María Soledad Silva Hernández, Ingeniero Constructor Luis Gonzalo Valenzuela Arroyo, y por el Ingeniero Civil Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $7.908.113.-
+
+Directora Serviu Región del Biobío.
