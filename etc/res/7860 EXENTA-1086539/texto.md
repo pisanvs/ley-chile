@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICAN
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 7860, de fecha 28 de diciembre de 2015, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 1, correspondiente al inmueble ubicado en Av. Lo Blanco 1373 Lt. A 5, Rol de Avalúo Nº 4658-87, de la Comuna de San Bernardo, Región Metropolitana, de aparente dominio de Empresas Proulx Chile SA, con una superficie aproximada de 7.139,35 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Terreno Lo Blanco Proyecto La Esperanza de San Francisco". La Comisión de Peritos integrada por los señores Mufida Abuawad Elias, Arquitecto; Juan Sohrens Péndola, Arquitecto y Leonardo Bastías Tessada, Constructor Civil, mediante Informe de fecha 17 de diciembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $598.990.552, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
