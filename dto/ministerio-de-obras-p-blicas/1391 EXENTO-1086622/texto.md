@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1391, de 21 de diciembre de 2015, se modificó el numeral segundo del Decreto MOP. (Exento) Nº1046, de 11 de noviembre de 2014, a fin de individualizar correctamente el lote de terreno Nº45, ubicado en la comuna de La Serena, que figura a nombre de MONDACA BALCAZAR BELFOR DEL R, rol de avalúo 1033-21, superficie 115 m2., complementando el informe de tasación emitido el 19 de julio de 2014, mediante acta emanada de la misma comisión de 20 de octubre de 2014, expropiado con motivo de la obra: "Mejoramiento Camino 64D305 Altovalsol - Las Rojas - Pelicana", Comuna de La Serena, IV Región.
+
+Fiscal del Ministerio de Obras Públicas.
