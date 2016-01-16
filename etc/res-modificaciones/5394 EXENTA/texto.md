@@ -72,8 +72,4 @@ Lo anterior se cumplirá mediante un mensaje electrónico, cuyos datos se define
 
 5. La presente resolución comenzará a regir a contar del primer día hábil, del mes siguiente a su publicación en el Diario Oficial.
 
-Respecto de los operadores que se encuentran intercambiando información actualmente, se les otorga plazo hasta el 04.01.2016 para suscribir el convenio indicado en el numeral 4 precedente, adaptar !a mensajería establecida en esta resolución y realizar otras adecuaciones que puedan corresponder.
-
-Los operadores que a la expiración del plazo precedente no hubieren dado cumplimiento a la presente resolución, no podrán intercambiar electrónicamente la información a que se refiere estas instrucciones.
-
 Anótese, comuníquese, y publíquese en el Diario Oficial y en la página web del Servicio.- Gonzalo Pereira Puchy, Director Nacional de Aduanas.
