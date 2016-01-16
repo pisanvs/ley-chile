@@ -22,15 +22,15 @@ Establécese una veda biológica para el recurso Raya Dipturus sp., en el Mar Te
 
 > **Nota.** NOTA 2: El Art. único del DTO 1432 Exento, Economía, publicado el 20.12.2006, modificó la presente norma en el sentido de señalar que la veda biológica de Raya Dipturus spp., regirá entre el 1º de diciembre y el 15 de enero del año calendario siguiente, ambas fechas inclusive, en las siguientes áreas marítimas:a) Mar Territorial y la Zona Económica Exclusiva de la República, continentales e insulares, entre la I y la XII Región.b) Aguas interiores comprendidas entre el paralelo 41°28,6' L.S. y el límite sur de la XII Región
 
+> **Nota.** NOTA 3 El Decreto 14 Exento, Economía, publicado el 16.01.2016. modifica la presente norma en el sentido de de señalar que la veda biológica para los recursos Raya volantín y Raya espinosa, regirá entre el 1º de diciembre y el 31 de marzo del año calendario siguiente, ambas fechas inclusive, en las siguientes áreas: a) Mar Territorial y la Zona Económica Exclusiva de la República, continentales e insulares, entre la XV y la XII Región; b) Aguas interiores comprendidas entre el paralelo 41º28,6' L.S. y el límite sur de la XII Región.
+
 #### Artículo 2º
 
 Durante el período de veda biológica, prohíbese la captura, comercialización, transporte, procesamiento, elaboración y almacenamiento de la especie vedada y de los productos derivados de ella, incluida la Región Metropolitana en lo que corresponda, de conformidad con lo dispuesto en los artículos 110, 119 y 139 de la Ley General de Pesca y Acuicultura.
 
 #### Artículo 2º bis
 
-No obstante lo dispuesto en los artículos anteriores, durante el período de veda biológica, autorízase la captura del recurso Raya en calidad de fauna acompañante en la pesca dirigida a Congrio dorado con espinel, en el área marítima comprendida entre el límite norte de la VIII Región y el límite sur de la XII Región, la que no podrá exceder de un 15%, medido en peso, en relación a la especie objetivo, por viaje de pesca.
-
-Las capturas antes señaladas se imputarán a las fracciones autorizadas a ser extraídas en calidad de fauna acompañante de las cuotas globales anuales de captura de Raya volantín (Raja flavirostris) o Raya Dipturus spp., según corresponda al área de pesca, que se autoricen cada año calendario.
+No obstante lo dispuesto en los artículos anteriores, durante el período de veda biológica, autorízase la captura del recurso Raya volantín y Raya espinosa, en calidad de fauna acompañante en la pesca artesanal dirigida a Congrio dorado con espinel, la que no podrá exceder de un 0,5%, medido en peso, en relación a las especies objetivos, por viaje de pesca.
 
 #### Artículo 3º
 
