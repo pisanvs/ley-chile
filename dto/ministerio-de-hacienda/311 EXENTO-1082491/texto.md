@@ -26,7 +26,9 @@ Decreto:
 
 4.- Exclúyese de la aplicación de la salvaguardia provisional a las importaciones de alambrón de acero originario originarias de Canadá, México y Perú, por no representar una participación sustancial en las importaciones totales de alambrón de acero, según lo establecido en los Acuerdos Comerciales suscritos con dichos países en materia de medidas globales de salvaguardia.
 
-5.- Corresponderá al Servicio Nacional de Aduanas adoptar las medidas conducentes a controlar la correcta aplicación de la medida de salvaguardia establecida en el presente decreto.
+5.- Exclúyese de la aplicación de la salvaguardia provisional a las importaciones de alambrón de acero de calidad CHQ clasificado en los ítems 72132000, 72139110, 72139120, 72139190, 72271000, 72272000 y 72279000 del Arancel Aduanero de Chile.
+
+6.- Corresponderá al Servicio Nacional de Aduanas adoptar las medidas conducentes a controlar la correcta aplicación de la medida de salvaguardia establecida en el presente decreto.
 
 Anótese, comuníquese y publíquese.- Por orden de S.E. la Presidenta de la República, Rodrigo Valdés Pulido, Ministro de Hacienda.
 
