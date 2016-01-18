@@ -14,13 +14,13 @@ endurecido - Parte 1: Extracción
 
 y ensayo.
 
-NCh 1171/2. Of. 2001 Hormigón - Testigos de hormigón
+NCh1171/1:2012 Hormigón - Testigos de
 
-endurecido - Parte 2: Evaluación
+hormigón endurecido -
 
-de resultados de resistencia
+Parte 1: Extracción y
 
-mecánica.
+ensayo.
 
 NCh 2095/3. Of. 2001 Protección contra incendios -
 

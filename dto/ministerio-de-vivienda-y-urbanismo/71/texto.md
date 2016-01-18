@@ -12,7 +12,7 @@ Decreto:
 
 1°.- Decláranse Normas Oficiales de la República de Chile, las normas técnicas que se indican a continuación:
 
-NCh 2148.0f89 Madera laminada encolada estructural Requisitos e inspección.
+NCh2148:2013 Madera laminada encolada estructural - Requisitos métodos de muestreo e inspección.
 
 NCh 2149.0f89 Madera - Madera aserrada - Determinación del módulo de elasticidad en flexión - Método de ensayo no destructivo.
 

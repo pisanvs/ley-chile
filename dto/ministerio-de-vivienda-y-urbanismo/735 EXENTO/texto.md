@@ -8,11 +8,13 @@ Decreto:
 
 1º.- Decláranse Normas Oficiales de la República de Chile, las normas técnicas que se indican a continuación:
 
-NCh 819. Of 2009 Madera preservada - Pino radiata
+NCh819:2012 Madera preservada - Pino
 
-- Clasificación según uso y
+radiata - Clasificación
 
-riesgo en servicio y muestreo.
+según riesgo de deterioro
+
+en servicio de muestreo.
 
 NCh 1564. Of 2009 Hormigón - Determinación de la
 
