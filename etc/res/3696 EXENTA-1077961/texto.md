@@ -26,7 +26,7 @@ Resolución:
 
 1.1 Este subsidio se asignará a las familias que cumplan con todos los requisitos que establece esta resolución, una vez que concurran a las oficinas del Serviu respectivo para hacerlo efectivo y manifiesten formalmente su interés en recibirlo.
 
-1.2 Las familias podrán participar de este llamado hasta el día 30 de noviembre del presente año o hasta agotarse los recursos disponibles, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente y las nóminas de beneficiados con esta asignación serán aprobadas por resoluciones que serán publicadas en el Diario Oficial y en la página web del Ministerio de Vivienda y Urbanismo.
+1.2 Las familias podrán participar de este llamado hasta el día 30 de noviembre del presente año o hasta agotarse los recursos disponibles, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente y las nóminas de beneficiados con esta asignación serán aprobadas por resoluciones que serán publicadas en el Diario Oficial y en la página web del Ministerio de Vivienda y Urbanismo. No obstante lo anterior, el último día que Serviu podrá entregar tarjetas será el 31 de diciembre de 2015, aun cuando existan recursos disponibles para el llamado.
 
 1.3 Para todos los efectos, sólo se podrá aplicar un subsidio de mejoramiento por vivienda.
 
