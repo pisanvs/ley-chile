@@ -8,7 +8,7 @@ Decreto:
 
 1°.- Declárase Norma Oficial de la República de Chile, la norma técnica confeccionada por el Instituto Nacional de Normalización, que se indica a continuación:
 
-NCh 1498, Of. 82 Hormigón _ Agua de amasado_Requisitos.
+NCh1498:2012 Hormigón y mortero - Agua de amasado -Clasificación y requisitos.
 
 2° La norma aprobada en el número precedente, deberá ser publicada íntegramente en la revista y órgano de difusión del Instituto Nacional de Normalización, el que deberá enviar tres ejemplares de esta norma debidamente certificada su conformidad con el texto oficial, a la Contraloría General de la República y, además, proporcionará gratuitamente el mismo número de ejemplares a los organismos fiscales y semifiscales que tengan relación con la materia de que trata.
 

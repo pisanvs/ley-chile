@@ -16,8 +16,6 @@ NCh 1534/I of. 79 Mecánica de suelos-Relaciones humedad/densidad. Parte I: Mét
 
 NCh 1534/II Of. 79 Mecánica de suelos-Relaciones humedad densidad. Parte II: Métodos de compactación con pisón de 4,5 Kg. y 460 mm. de caída.
 
-> **Nota.** El numeral 5 del Decreto N° 63 Exento, Vivienda, publicado el 11.08.2025, modifica la presente norma, en el sentido de dejar sin efecto la declaración como Norma Oficial de la República de Chile la NCh163:2013 Áridos para morteros y hormigones - Requisitos, una vez cumplido el plazo de seis meses consignado en el resuelvo N° 2 del citado decreto, esto es, a partir del 12.02.2026.
-
 #### Artículo segundo
 
 Derógase la Norma "NCh 163 Of. 77 áridos para morteros y hormigones-Requisitos generales", declarada Oficial de la República de Chile por decreto supremo número 1.303, (V. y U.), de 19 de Diciembre de 1977.

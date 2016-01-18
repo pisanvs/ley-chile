@@ -20,7 +20,7 @@ NCh 1037 n76. Hormigón. Ensayo de compresión de probetas cúbicas y cilíndric
 
 NCh 1038 n76. Hormigón. Ensayo de tracción por flexión.
 
-NCh 1170 n76. Hormigón. Ensayo de tracción por hendimiento.
+NCh1170:2012 Hormigón - Ensayo de tracción por hendimiento.
 
 2º.- Las normas aprobadas por el presente decreto deberán ser publicadas íntegramente en la revista u órgano de difusión del Instituto Nacional de Normalización.
 

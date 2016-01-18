@@ -6,7 +6,7 @@ Núm. 54.- Visto: Lo solicitado por el Instituto Nacional de Normalización por 
 
 Decreto:
 
-1°.- Declárase Norma Oficial de la República de Chile, la norma técnica que se indica a continuación: NCH 2251.Of94 Aislación térmica - Resistencia térmica de materiales y elementos de construcción.
+1°.- Declárase Norma Oficial de la República de Chile, la norma técnica que se indica a continuación: NCh2251:2010 Aislación térmica - Requisitos de rotulación de materiales aislantes.
 
 2°.- Corresponderá al Instituto Nacional de Normalización publicar una minuta del presente decreto en el Diario Oficial, y el texto íntegro de esta norma en documentos oficiales del mencionado Instituto.
 

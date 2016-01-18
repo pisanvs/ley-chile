@@ -42,13 +42,15 @@ Determinación del coeficiente de
 
 absorción de agua.
 
-NCh 2457. Of. 2001 Materiales de construcción y
+NCh2457:2014 Prestaciones higrotérmicas de
 
-aislación - Determinación de la
+los productos y materiales
 
-permeabilidad al vapor de agua
+para edificios - Determinación
 
-(humedad).
+de las propiedades de
+
+transmisión de vapor de agua.
 
 NCh 2479. Of. 2001 Construcción - Recubrimientos
 

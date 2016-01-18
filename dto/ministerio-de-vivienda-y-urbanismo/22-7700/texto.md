@@ -22,7 +22,7 @@ NCH 1439 Madera - Preservantes hidrosolubles -
 
 Análisis químico clásico.
 
-NCH 2182 Hormigón y mortero - Aditivos -
+NCh2182:2010 Hormigón y morteros - Aditivos -
 
 Clasificación y requisitos.
 
