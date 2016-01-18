@@ -182,11 +182,11 @@ Los sistemas de Paneles Fotovoltaicos que se podrán aplicar en este llamado ser
 
 REGIÓN TOTAL UF
 
-Antofagasta 142.000
+Antofagasta 69.406
 
-Atacama 860.000
+Atacama 683.783
 
-Total 1.002.000
+Total 753.189
 
 El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según las tablas precedentes, incluidos los servicios de asistencia técnica que correspondan.
 
