@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A ASESORÍAS XITLA LTDA.
+
+Por resolución exenta Nº 239, de 20 de agosto de 2015, y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 133, de 29 de mayo de 2014, a Asesorías Xitla Ltda., RUT Nº 76.850.850-K, a los siguientes perfiles ocupacionales del Sector Gastronomía, Hotelería y Turismo, Subsector Gastronomía: Manipulador de Alimentos (P-5600-9412-001-V03), Auxiliar de Línea de Servicios de Casino (P-5600-5246-001-V01) y Supervisor de Línea de Servicios de Casino (P-5600-1412-003-V01); en el Subsector Hotelería: Recepcionista (P-5510-4224-001-V02) y Subsector Turismo: Informador Turístico (P-7912-4221-002-V01).-
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
