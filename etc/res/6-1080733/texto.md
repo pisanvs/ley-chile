@@ -24,7 +24,7 @@ Nómbrase a las siguientes personas como integrantes del Comité de Inversiones 
 
 1. En calidad de representantes del sector público:
 
-i. Aurora Williams Baussa, Ministra de Minería, cédula nacional de identidad Nº 8.023.134-2. En caso de ausencia o impedimento será representado por Ricardo Javier Bustos Salvagno, cédula nacional de identidad Nº 21.477.703-7.
+i. Aurora Williams Baussa, Ministra de Minería, cédula nacional de identidad Nº 8.023.134-2. En caso de ausencia o impedimento será representada por Jorge Anís Chocair Santibáñez, cédula nacional de identidad Nº 4.180.961-2
 
 ii. Máximo Pacheco Matte, Ministro de Energía, cedula nacional de identidad Nº 6.371.887-4. En caso de ausencia o impedimento será representado por Jimena Jara Quilodrán, Subsecretaria de Minería, cédula nacional de identidad Nº 12.325.879-7.
 
