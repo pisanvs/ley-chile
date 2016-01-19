@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A. PARA OPERAR NAVES QUE INDICA EN ÁREA SEÑALADA DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 12 TRANSITORIO DE LA LEY GENERAL DE PESCA Y ACUICULTURA, 2016
+
+Por resolución exenta Nº 3.585, de 30 de diciembre de 2015, de esta Subsecretaría, autorízase a la Empresa de Desarrollo Pesquero de Chile S.A., para realizar operaciones pesqueras a contar del 1º de enero del año 2016 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica "Unzen", en aguas exteriores, por fuera de las líneas de base recta, en el área marítima comprendida entre los paralelos 44º30' L.S. y 57º L.S., y con el barco fábrica "Unionsur", en aguas exteriores, por fuera de las líneas de base recta, en el área marítima comprendida entre los paralelos 47º L.S. y el 57º L.S., respecto de las áreas y recursos y sujeto a las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 30 de diciembre de 2015.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
