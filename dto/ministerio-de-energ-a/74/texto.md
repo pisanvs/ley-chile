@@ -20,7 +20,7 @@ Decreto:
 
 #### Artículo 1º
 
-Créase el Comité Interministerial de Eficiencia Energética, en adelante el "CIEE", con la misión de asesorar al Presidente de la República en la promoción e implementación coordinada de planes y programas sectoriales que contribuyan a incrementar los indicadores de reducción del consumo energético y al cumplimiento de la Estrategia Nacional de Energía en el sector público para el año 2020.
+Créase el Comité Interministerial de Eficiencia Energética, en adelante el "CIEE", con la misión de asesorar al Presidente de la República en la promoción e implementación coordinada de planes y programas sectoriales que contribuyan a incrementar los indicadores de reducción del consumo energético alineándose con la Agenda de Energía del gobierno.
 
 Al CIEE le corresponderán las siguientes funciones:
 
@@ -89,6 +89,12 @@ El Comité Interministerial de Eficiencia Energética estará constituido por lo
 - Ministro de Energía
 
 - Ministro del Medio Ambiente.
+
+- Ministro de Agricultura
+
+- Ministro de Salud
+
+- Ministro de Educación.
 
 El CIEE será presidido por el Ministro de Energía o, en caso de ausencia o impedimento de éste, por el Subsecretario de dicha Cartera de Estado. Estará integrado, además, por la Jefatura de la División de Eficiencia Energética del Ministerio de Energía y por un profesional de dicha división, teniendo este último sólo derecho a voz.
 
