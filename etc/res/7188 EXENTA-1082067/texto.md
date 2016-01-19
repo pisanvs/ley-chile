@@ -100,7 +100,9 @@ Los sistemas de Paneles Fotovoltaicos que se podrán aplicar en este llamado ser
 
 6.- El monto de los recursos que se destinarán para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución, será el siguiente:
 
-.
+REGIÓN TOTAL UF
+
+Antofagasta 17.117
 
 El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según el monto precedente, incluidos los servicios de asistencia técnica que correspondan.
 
