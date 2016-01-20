@@ -310,7 +310,7 @@ La participación del apostador en el concurso se formaliza mediante el pago del
 
 #### Artículo 15º
 
-De acuerdo a las facultades conferidas en la letra b) del artículo 5º del decreto ley Nº 1.298 de 1975, modificado por la ley Nº 19.909 de 2003, de los ingresos brutos que produzca cada concurso del sistema de pronósticos con modalidad de apuestas con premios predeterminados se destinará un 53% para premios.
+De acuerdo a las facultades conferidas en la letra b) del artículo 5º del decreto ley Nº 1.298 de 1975, modificado por la ley Nº 19.909 de 2003, de los ingresos brutos que produzca cada concurso del sistema de pronósticos con modalidad de apuestas con premios predeterminados se destinará un 55% para premios.
 
 #### Artículo 16º
 
