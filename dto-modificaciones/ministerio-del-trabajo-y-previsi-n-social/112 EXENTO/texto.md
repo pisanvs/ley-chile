@@ -100,71 +100,115 @@ De los subsidios de orden económico
 
 El Servicio de Bienestar otorgará los siguientes subsidios no sujetos a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Se otorgará un subsidio a cada afiliado que contraiga
+a) Matrimonio: Se otorgará un subsidio a cada afiliado que
 
-matrimonio. Si ambos contrayentes fueren afiliados, el subsidio se
+contraiga matrimonio. Si ambos contrayentes fueren
 
-pagará a cada uno de ellos;
+afiliados, el subsidio se pagará a cada uno de ellos;
 
-b) Nacimiento: Se otorgará al afiliado un subsidio cuando compruebe el
+b) Nacimiento: Se otorgará al afiliado un subsidio cuando
 
-nacimiento de cada hijo con el certificado correspondiente. En caso
+compruebe el nacimiento de cada hijo con el certificado
 
-de nacimientos múltiples, se otorgará este subsidio por cada hijo
+correspondiente. En caso de nacimientos múltiples, se
 
-nacido vivo.
+otorgará este subsidio por cada hijo nacido vivo.
 
 Si ambos padres son afiliados, el subsidio de nacimiento lo percibirá cada uno de ellos;
 
-c) Fallecimiento: Se otorgará un subsidio por fallecimiento del
+c) Fallecimiento: Se otorgará un subsidio por
 
-afiliado y de cada una de sus cargas familiares, incluido el
+fallecimiento del afiliado y de cada una de sus cargas
 
-mortinato a partir del quinto mes de gestación y el fallecimiento
+familiares, incluido el mortinato a partir del quinto
 
-del hijo recién nacido que no hubiere sido aún reconocido como carga
+mes de gestación y el fallecimiento del hijo recién
+
+nacido que no hubiere sido aún reconocido como carga
 
 familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se pagará en el siguiente orden de precedencia:
 
-1) A la persona que el afiliado haya designado expresamente para este
+1) A la persona que el afiliado haya designado
 
-efecto.
+expresamente para este efecto.
 
 2) Al cónyuge sobreviviente.
 
 3) A los herederos del causante.
 
-4) A la persona que haya efectuado los gastos, los que deberán ser
+4) A la persona que haya efectuado los gastos, los que
 
-debidamente acreditados.
+deberán ser debidamente acreditados.
 
 Si ambos padres son afiliados, el subsidio de fallecimiento en caso de mortinato o de fallecimiento del recién nacido que no hubiere sido aún reconocido como carga familiar lo percibirá cada uno de ellos.
 
-d) Becas de estudio: El afiliado tendrá derecho, una vez al año, al
+d) Becas de estudio: El afiliado tendrá derecho, una
 
-pago de este beneficio, cuando curse estudios regulares de enseñanza
+vez al año, al pago de este beneficio, cuando curse
 
-básica, media, técnica especializada o superior, en establecimientos
+estudios regulares de enseñanza básica, media,
 
-del Estado o reconocidos por éste, y
+técnica especializada o superior, en establecimientos
 
-e) Ayuda médica: En caso de enfermedad grave y/o tratamiento médico
+del Estado o reconocidos por éste;
 
-prolongado de alto costo, calificados como tales por el Consejo
+e) Ayuda médica: En caso de enfermedad grave y/o tratamiento
 
-Administrativo, del afiliado o de sus cargas familiares legalmente
+médico prolongado de alto costo, calificados como tales
 
-acreditadas, se podrá otorgar al afiliado un subsidio económico
+por el Consejo Administrativo, del afiliado o de
 
-complementario a los contemplados en el artículo 3º del presente
+sus cargas familiares legalmente acreditadas, se
 
-Reglamento. Se exceptúan, para estos efectos, las enfermedades y
+podrá otorgar al afiliado un subsidio económico
 
-tratamientos oncológicos del afiliado en la parte cubierta por
+complementario a los contemplados en el artículo 3º del
 
-seguros contratados por la Empresa Nacional de Minería.
+presente Reglamento. Se exceptúan, para estos efectos,
+
+las enfermedades y tratamientos oncológicos del afiliado
+
+en la parte cubierta por seguros contratados por la
+
+Empresa Nacional de Minería;
+
+f) Ayuda en caso de catástrofe natural: Subsidio
+
+de orden económico que actuará de manera complementaria
+
+a los otros beneficios establecidos en el presente
+
+reglamento, y que operará ante una situación de
+
+catástrofe derivada de eventos de la naturaleza que
+
+afecte al afiliado y/o sus cargas legalmente
+
+acreditadas. La condición de afectado por catástrofe
+
+natural deberá ser acreditada por medio de un informe
+
+social, emanado de un profesional de Empresa Nacional
+
+de Minería, que recomiende su otorgamiento al
+
+afiliado. Los montos y condiciones de este subsidio
+
+serán establecidos anualmente por el Consejo
+
+Administrativo del Servicio de Bienestar de la
+
+Empresa Nacional de Minería, y
+
+g) Acuerdo de Unión Civil: Se concederá una ayuda a los
+
+afiliados que celebren el acuerdo de unión civil. Si
+
+ambos estuvieran afiliados al Servicio, cada uno de
+
+ellos tendrá derecho a este beneficio.
 
 Párrafo Tercero
 
@@ -214,55 +258,101 @@ El afiliado, de manera previa a la obtención de cualquiera de los prestamos se�
 
 Estos descuentos en su conjunto no podrán ser superiores al quince por ciento (15%) de la remuneración total del afiliado.
 
+### Párrafo C — uarto
+
+Del Fondo de Cuentas Catastróficas
+
+#### Artículo 10º
+
+Créase un Fondo de Cuentas Catastróficas, el cual operará de manera anual y de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar, en aquellos casos en que un afiliado y/o sus cargas legalmente acreditadas, se encuentren en una situación económica catastrófica producto de una cuenta médica que supere su capacidad de pago inmediato.
+
+El Fondo operará una vez recepcionada por el afiliado la cuenta final del prestador de salud y una vez descontados los aportes económicos que debe realizar su sistema de salud particular.
+
+#### Artículo 11º
+
+El Fondo podrá ser solicitado por el afiliado cuando existan cuentas médicas debidamente acreditadas que superen el monto de un millón de pesos.
+
+El tope máximo que este Fondo podrá financiar será acordado por el Consejo Administrativo del Servicio de Bienestar, de acuerdo a las disponibilidades presupuestarias existentes.
+
+#### Artículo 12º
+
+La recuperación del Fondo se efectuará en función de los reembolsos que genere el seguro de salud complementario, el cual deberá emitir el cheque a nombre del Servicio de Bienestar de la Empresa Nacional de Minería.
+
+#### Artículo 13º
+
+Para acceder al Fondo de Cuentas Catastróficas, el beneficiario, además de encontrarse afiliado al Servicio de Bienestar y contar con un sistema de salud, sea Fonasa o Isapre, deberá encontrarse incorporado dentro de los seguros de salud complementarios, vida y catastróficos que tiene la empresa contratado a favor de sus trabajadores.
+
+Asimismo, será requisito para la procedencia del Fondo la confección de un Informe Social, emitido por un profesional de la Empresa, que recomiende la aplicación del beneficio.
+
+Párrafo Quinto
+
+De las Asistencias y Otros Beneficios
+
+#### Artículo 14º
+
+El Servicio de Bienestar de la Empresa Nacional de Minería, para cumplir con su finalidad, propenderá al progreso social, cultural, recreativo, educacional y deportivo de sus beneficiarios. Con este objeto y siempre que sus recursos lo permitan, podrá:
+
+a) Otorgar asistencia personalizada de carácter social, familiar y laboral a los afiliados, que teniendo problemas o necesidades en esas áreas, requieran de atención profesional, por ejemplo en temas de mediación familiar, orientación en temas de pensiones, planes de salud, postulación a subsidios estatales, entre otros. Lo anterior se llevará a cabo a través de entrevistas, visitas domiciliarias, informes sociales, según aconseje cada caso.
+
+b) Financiar o ayudar a financiar eventos o actividades culturales, deportivas, recreativas, festividades navideñas, actividades vacacionales, celebraciones de aniversario institucional, celebración de fiestas patrias, programas de vacunación, obras de teatro, entre otras. Lo anterior siempre que sus recursos presupuestarios lo permitan.
+
+c) Asesorar, otorgar ayuda y firmar a través del Presidente del Consejo Administrativo, convenios de cooperación con organizaciones que sean de carácter social, deportivas, recreativas, educacionales y/o culturales, y jurídica, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad pueda proporcionarle.
+
+d) Otorgar a sus afiliados/as, regalos en ocasiones especiales tales como: Cumpleaños, Fiestas Patrias, Navidad, Día del Padre, Día de la Madre, Día del Niño, Día de la Secretaria, Día de la Mujer, Nacimientos y Coronas de Caridad en caso de fallecimiento. Adicionalmente, el Servicio de Bienestar podrá otorgar estímulos laborales a sus afiliados tales como galvanos, artículos de oficina u otros similares. Los regalos y/o estímulos, podrán ser entregados en dinero o especies de acuerdo a la disponibilidad presupuestaria existente.
+
 ## Título III
 
 Del Consejo Administrativo
 
-#### Artículo 10º
+#### Artículo 15º
 
 El Servicio de Bienestar será administrado por un Consejo Administrativo compuesto de ocho miembros e integrado de la siguiente forma:
 
-a) Por el Vicepresidente Ejecutivo, en su calidad de Jefe Superior de
+a) Por el Vicepresidente Ejecutivo, en su calidad de Jefe
 
-la Empresa, o por la persona que éste designe en su reemplazo, quien
+Superior de la Empresa, o por la persona que éste
 
-lo presidirá.
+designe en su reemplazo, quien lo presidirá.
 
-b) Por dos representantes de la Empresa Nacional de Minería elegidos
+b) Por dos representantes de la Empresa Nacional de Minería
 
-por el Vicepresidente Ejecutivo de la Empresa, uno de los cuales
+elegidos por el Vicepresidente Ejecutivo de la Empresa,
 
-actuará como Vicepresidente del Consejo Administrativo y reemplazará
+uno de los cuales actuará como Vicepresidente del Consejo
 
-al Presidente en ausencia o impedimento de éste. En caso de ausencia
+Administrativo y reemplazará al Presidente en ausencia o
 
-o impedimento del Vicepresidente del Consejo Administrativo será
+impedimento de éste. En caso de ausencia o impedimento
+
+del Vicepresidente del Consejo Administrativo será
 
 reemplazado por su suplente en el cargo.
 
-c) Por el Fiscal de la empresa o el abogado de la institución que éste
+c) Por el Fiscal de la empresa o el abogado de la
 
-designe al efecto. En este último caso se deberá designar un abogado
+institución que éste designe al efecto. En este último
 
-titular y otro suplente, y
+caso se deberá designar un abogado titular y otro
 
-d) Por cuatro representantes de los trabajadores afiliados, uno de los
+suplente, y
 
-cuales será designado por el Sindicato de Trabajadores, cuando
+d) Por cuatro representantes de los trabajadores
 
-proceda, de acuerdo con lo dispuesto en el inciso tercero del
+afiliados, uno de los cuales será designado por el
 
-#### Artículo 18
+Sindicato de Trabajadores, cuando proceda, de acuerdo
+
+con lo dispuesto en el inciso tercero del artículo 18
 
 del Reglamento General.
 
 El Jefe del Servicio de Bienestar actuará como Secretario del Consejo Administrativo, teniendo derecho a voz pero no a voto. Los representantes de los trabajadores afiliados en el Consejo Administrativo, a que se refiere esta letra, deberán cumplir los requisitos establecidos en el artículo 13º de este Reglamento.
 
-#### Artículo 11º
+#### Artículo 16º
 
 Los representantes titulares y suplentes de los trabajadores afiliados al Consejo Administrativo, serán elegidos por éstos en votación directa y secreta en un solo acto. Resultarán elegidos los que obtengan las más altas mayorías, durarán dos años en sus funciones y podrán ser reelegidos hasta por dos períodos consecutivos. En caso de impedimento o ausencia temporal, serán reemplazados por los suplentes. Se entenderán elegidos suplentes los afiliados que tengan las siguientes mayorías.
 
-#### Artículo 12º
+#### Artículo 17º
 
 La elección de los representantes de los trabajadores afiliados en el Consejo Administrativo se llevará a efecto 15 días antes de la expiración de sus funciones. El escrutinio final se practicará por los integrantes a que se refieren las letras a),
 
@@ -272,33 +362,33 @@ La elección de los representantes de los trabajadores afiliados en el Consejo A
 
 - **d)** del mismo artículo, elegidos por ellos mismos y será público.
 
-#### Artículo 13º
+#### Artículo 18º
 
 Para ser elegido representante de los afiliados al Consejo Administrativo, se requiere:
 
-a) Ser afiliado del Servicio de Bienestar con una antigüedad no
+a) Ser afiliado del Servicio de Bienestar con una antigüedad
 
-inferior a seis meses;
+no inferior a seis meses;
 
-b) No ser integrante del Consejo Administrativo en representación de la
+b) No ser integrante del Consejo Administrativo en
 
-entidad empleadora;
+representación de la entidad empleadora;
 
-c) No haber sido objeto de medida disciplinaria alguna durante el año
+c) No haber sido objeto de medida disciplinaria alguna
 
-anterior de la elección, y
+durante el año anterior de la elección, y
 
-d) Estar al día en el cumplimiento de sus obligaciones con el Servicio
+d) Estar al día en el cumplimiento de sus obligaciones
 
-de Bienestar.
+con el Servicio de Bienestar.
 
-#### Artículo 14º
+#### Artículo 19º
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. En las sesiones extraordinarias sólo podrán tratarse las materias determinadas en la convocatoria o en el acuerdo que las origine.
 
 Las citaciones a ambos tipos de sesiones se harán por escrito por el Presidente del Consejo del Servicio de Bienestar, con 72 horas de anticipación a lo menos.
 
-#### Artículo 15º
+#### Artículo 20º
 
 El Consejo Administrativo sesionará a lo menos cada dos meses, con la mayoría absoluta de sus miembros, y sus decisiones se tomarán por simple mayoría, salvo las excepciones que se consignen en el presente Reglamento. En caso de empate decidirá el voto del Presidente.
 
@@ -306,59 +396,69 @@ El Consejo Administrativo sesionará a lo menos cada dos meses, con la mayoría 
 
 Del financiamiento, presupuesto y control de cuentas
 
-#### Artículo 16º
+#### Artículo 21º
 
 El Servicio de Bienestar se financiará con los siguientes recursos:
 
-a) Con una cuota de incorporación que pagarán al ingresar los
+a) Con una cuota de incorporación que pagarán al ingresar
 
-trabajadores afiliados, equivalente al 1% de sus remuneraciones
+los trabajadores afiliados, equivalente al 1% de sus
 
-mensuales imponibles para pensiones o de sus pensiones según
+remuneraciones mensuales imponibles para pensiones o
 
-corresponda;
+de sus pensiones según corresponda;
 
-b) Con un aporte de la Empresa equivalente a la cuota de incorporación
+b) Con un aporte de la Empresa equivalente a la cuota de
 
-de los trabajadores afiliados;
+incorporación de los trabajadores afiliados;
 
-c) Con un aporte mensual sobre la totalidad de las remuneraciones
+c) Con un aporte mensual sobre la totalidad de las
 
-imponibles para pensiones de los trabajadores afiliados al Servicio
+remuneraciones imponibles para pensiones de los
 
-de Bienestar, que será de cargo de la Empresa, el cual no podrá ser
+trabajadores afiliados al Servicio de Bienestar, que
+
+será de cargo de la Empresa, el cual no podrá ser
 
 inferior al 1%;
 
-d) Con un aporte mensual sobre la totalidad de las remuneraciones
+d) Con un aporte mensual sobre la totalidad de las
 
-imponibles para pensiones de los trabajadores afiliados al Servicio
+remuneraciones imponibles para pensiones de los
 
-de Bienestar, que será de cargo de éstos, el que no podrá exceder
+trabajadores afiliados al Servicio de Bienestar,
 
-del 3%;
+que será de cargo de éstos, el que no podrá
 
-e) Con un aporte mensual sobre la totalidad de su pensión de
+exceder del 3%;
 
-jubilación, de cargo de los jubilados, cuyo porcentaje deberá ser
+e) Con un aporte mensual sobre la totalidad de su
 
-igual al de la Empresa y al fijado para los afiliados activos
+pensión de jubilación, de cargo de los jubilados,
 
-indicados en la letra d) precedente;
+cuyo porcentaje deberá ser igual al de la Empresa
 
-f) Con los intereses que devenguen los préstamos en dinero;
+y al fijado para los afiliados activos indicados
 
-g) Con las donaciones, herencias, legados, aportes extraordinarios,
+en la letra d) precedente;
 
-erogaciones voluntarias y asignaciones que la empresa, los afiliados
+f) Con los intereses que devenguen los préstamos en
 
-o cualquier tercero otorgue al Servicio de Bienestar, y
+dinero;
 
-h) Con los demás bienes o recursos que adquiera o reciba a cualquier
+g) Con las donaciones, herencias, legados, aportes
 
-título.
+extraordinarios, erogaciones voluntarias y
 
-#### Artículo 17º
+asignaciones que la empresa, los afiliados o
+
+cualquier tercero otorgue al Servicio de Bienestar, y
+
+h) Con los demás bienes o recursos que adquiera o
+
+reciba a cualquier título.
+
+#### Artículo 22º
 
 Los fondos del Servicio de Bienestar deberán ser depositados en una cuenta corriente bancaria por repartición, en contra de las cuales deberán girar conjuntamente un apoderado clase "A" y "B", designados de acuerdo a la normativa interna de la Empresa.
 
@@ -366,49 +466,49 @@ Los fondos del Servicio de Bienestar deberán ser depositados en una cuenta corr
 
 Disposiciones Generales
 
-#### Artículo 18º
+#### Artículo 23º
 
 No podrá establecerse en las normas o procedimientos internos, diferencia alguna entre los afiliados con respecto a los beneficios que otorga el presente Reglamento.
 
-#### Artículo 19º
+#### Artículo 24º
 
 Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar del primer día hábil del mes siguiente de efectuado el descuento de su remuneración mensual, de la cuota de incorporación y el aporte mensual. Los subsidios y préstamos contemplados en los artículos 5º y 6º del Reglamento, podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
 
-#### Artículo 20º
+#### Artículo 25º
 
 El derecho a solicitar los beneficios que concede el Servicio de Bienestar caducará luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los trabajadores que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios comprendidos entre esta fecha y la del cese de sus funciones.
 
-#### Artículo 21º
+#### Artículo 26º
 
 Ningún miembro del Consejo Administrativo podrá votar en un asunto que le interese personalmente o pueda beneficiar a su cónyuge, a sus padres, hijos o hermanos.
 
-#### Artículo 22º
+#### Artículo 27º
 
 Todos los informes y antecedentes de que conozca el Consejo Administrativo y que se refieran a situaciones personales y familiares de los afiliados, tendrán carácter de confidenciales.
 
-#### Artículo 23º
+#### Artículo 28º
 
 El afiliado que renuncie al Servicio de Bienestar deberá pagar, a la fecha de su renuncia, en su solo acto, el total de los valores adeudados a esa fecha.
 
-#### Artículo 24º
+#### Artículo 29º
 
 El afiliado que no perciba remuneraciones de Enami por un período determinado, por permiso maternal, permiso sin goce de remuneraciones, medicina preventiva y otros, tendrá la obligación de pagar mensualmente, en forma directa al Servicio de Bienestar, el aporte y las cuotas correspondientes de sus deudas. Esto también aplicará para aquellos afiliados que se encuentren percibiendo remuneraciones de Enami de forma mensual, cuando los aportes y cuotas no se integren en su totalidad al Servicio de Bienestar.
 
 Los afiliados deberán estar al día en el cumplimiento de las obligaciones contraídas con el Servicio de Bienestar para tener derecho a los beneficios que éste les otorgue.
 
-#### Artículo 25º
+#### Artículo 30º
 
 En el caso de los Fondos a Rendir Cuenta señalados en la letra c) del artículo 6º, se dispone que, si el afiliado no diera cumplimiento en el plazo establecido, deberá descontarse de inmediato el total del fondo girado. Además, se deberá calificar la causa de la no rendición oportuna de cuenta y, en caso de engaño debidamente comprobado, el afiliado podrá ser sancionado en la forma establecida en el Reglamento General, para cuyo efecto se pondrán los antecedentes en conocimiento del Consejo Administrativo.
 
 En los casos en que el Servicio de Bienestar haya otorgado un Fondo a Rendir Cuenta para pagar atenciones médicas, los socios afiliados a una Isapre tendrán la obligación de restituir al Servicio de Bienestar las bonificaciones que perciban de éstas. En el evento que no efectúe el ingreso, el afiliado podrá ser sancionado en la forma establecida en el Reglamento General, para cuyo efecto se pondrán los antecedentes en conocimiento del Consejo Administrativo.
 
-#### Artículo 26º
+#### Artículo 31º
 
 Los traslados médicos deberán justificarse mediante la presentación de certificado médico. Podrá contemplarse por indicación médica un solo acompañante si el estado de salud así lo amerita.
 
-#### Artículo 27º
+#### Artículo 32º
 
 Las recetas médicas para compra de medicamentos extendidas para tratamientos permanentes o por períodos de tiempo prolongados, tendrán una duración de 6 meses para los efectos de invocar los beneficios del Servicio de Bienestar. Una vez vencido el plazo, el socio deberá solicitar una nueva receta médica por el tiempo que el profesional determine y el Servicio de Bienestar la bonificará por un nuevo período de 6 meses y así sucesivamente.
 
