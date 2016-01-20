@@ -80,11 +80,11 @@ No obstante lo anterior, el último día que Serviu podrá entregar tarjetas ser
 
 Región Unidades de Fomento
 
-Antofagasta 28.600
+Antofagasta 36.355,85
 
-Atacama 140.000
+Atacama 143.487,49
 
-Total 168.600
+Total 179.843,34
 
 El número de familias beneficiadas en cada Región, alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, efectuándose la asignación por orden de llegada, siempre que cumplan los requisitos que se establecen en esta resolución, hasta enterar el total de los recursos disponibles para la respectiva región.
 
