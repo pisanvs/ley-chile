@@ -28,19 +28,27 @@ Reglaméntanse los requisitos establecidos por el decreto con fuerza de ley Nº 
 
 El reconocimiento oficial del Estado es el acto administrativo en virtud del cual la autoridad confiere a un establecimiento educacional la facultad de certificar válida y autónomamente la aprobación de cada uno de los ciclos y niveles que conforman la educación regular, y de ejercer los demás derechos que le confiere la ley.
 
+Un establecimiento educacional que haya comenzado el proceso de reconocimiento oficial solo podrá iniciar actividades una vez concluido plenamente el acto administrativo de reconocimiento oficial, señalado en el título II del presente reglamento.
+
+Lo anterior no se aplica a lo dispuesto en los artículos 21 bis y 22 de este reglamento.
+
 #### Artículo 3º
 
 Todo establecimiento educacional deberá tener un sostenedor, quien será una persona jurídica de derecho público, tales como municipalidades y otras entidades creadas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
 
 Para los efectos de lo dispuesto en el inciso anterior, de acuerdo al artículo 2º del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, se entenderá por educación el proceso de aprendizaje permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad alcanzar su desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico, mediante la transmisión y el cultivo de valores, conocimientos y destrezas. Se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de nuestra identidad nacional, capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país.
 
-El representante legal y el administrador de las entidades sostenedoras de establecimientos educacionales deberán acreditar estar en posesión de un título profesional o licenciatura de al menos 8 semestres, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación; no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, y/o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, y otros que establezca la ley.
+El representante legal y el administrador de las entidades sostenedoras de establecimientos educacionales deberán acreditar estar en posesión de un título profesional o licenciatura de al menos 8 semestres, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación; no haber sido condenado, como autor, cómplice o encubridor, por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, y/o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, y otros que establezca la ley y no haber sido condenado con la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad a que se refiere el artículo 39 bis del Código Penal.
+
+Asimismo, el representante legal y el administrador de entidades sostenedoras, no debe haber sido condenado, en más de una ocasión dentro de los últimos cinco años, por un tribunal de la República por haber ejercido prácticas antisindicales, por haber incumplido la ley Nº 19.631 en cuanto al pago de las cotizaciones previsionales de sus trabajadores, o en virtud de acciones de tutela laboral por vulneración de derechos fundamentales de los trabajadores.
 
 Las sanciones de inhabilidad aplicadas por infracciones cometidas por la entidad sostenedora se entenderán aplicadas a su representante legal y administrador.
 
 #### Artículo 4º
 
 Todo establecimiento educacional deberá contar con un Proyecto Educativo que será establecido y ejercido autónomamente por cada sostenedor.
+
+Todo proyecto educativo y reglamento interno deberán resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.
 
 Una copia del proyecto educativo, en soporte papel y/o electrónico, deberá acompañarse a la solicitud de reconocimiento oficial. El Proyecto Educativo y sus modificaciones deberán cumplir con la normativa educacional vigente.
 
@@ -108,7 +116,9 @@ En caso que los establecimientos educacionales empleen los planes y programas de
 
 El establecimiento educacional deberá tener y aplicar un Reglamento de Evaluación y Promoción de los alumnos y alumnas para los niveles de educación básica y media, que se ajuste a las normas mínimas nacionales sobre evaluación y promoción.
 
-El reglamento deberá considerar, a lo menos, las formas de calificar los aprendizajes de los alumnos y alumnas y de comunicar los resultados a los estudiantes, padres y apoderados; los procedimientos que aplicará el establecimiento para determinar la situación académica final de los alumnos y alumnas; y las formas de evaluación diferenciada, sean éstas temporales o permanentes, que permitan medir los aprendizajes de todos los estudiantes que así lo requieran.
+El reglamento deberá considerar, a lo menos, las formas de calificar los aprendizajes de los alumnos y alumnas y de comunicar los resultados a los estudiantes, padres y apoderados; los procedimientos que aplicará el establecimiento para determinar la situación académica final de los alumnos y alumnas; y las formas de evaluación adaptadas, sean éstas temporales o permanentes, que permitan medir los aprendizajes de todos los estudiantes que así lo requieran. El rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.
+
+Asimismo, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esta causal les sea cancelada o no renovada su matrícula.
 
 El Reglamento de Evaluación y Promoción de alumnos y alumnas y sus modificaciones, deberá estar publicado en el sitio web del establecimiento educacional o estar disponible en dicho recinto para los estudiantes, padres y apoderados.
 
@@ -134,7 +144,7 @@ El sostenedor acompañará a la solicitud de reconocimiento oficial una relació
 
 También se acompañará una relación del personal asistente de la educación suficiente para atender las necesidades propias del establecimiento educacional, considerando el nivel y modalidad de educación que imparta el establecimiento y la cantidad de alumnos y alumnas que atienda.
 
-Los docentes, los habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar.
+Los docentes, los habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar ni a la pena de inhabilitación establecida en el artículo 30 bis del Código Penal.
 
 #### Artículo 10
 
@@ -280,13 +290,19 @@ En la educación media, se entenderá por docente idóneo al que cuente con el t
 
 #### Artículo 14
 
-El sostenedor deberá acreditar respecto de cada establecimiento educacional de su dependencia, un capital mínimo pagado, en proporción a la matrícula proyectada para el año siguiente según la tabla que se establece a continuación:
+El sostenedor deberá acreditar respecto de cada establecimiento educacional de su dependencia, un capital mínimo pagado, en proporción a la matrícula total proyectada para el año siguiente según la tabla que se establece a continuación:
 
-Lo dispuesto en el inciso anterior se acreditará mediante escritura pública de constitución de la persona jurídica o de su modificación, debidamente inscrita en el Registro de Comercio o en el Registro de Personas Jurídicas del Ministerio de Justicia, según corresponda.
+Lo dispuesto en el inciso anterior se acreditará mediante copia del instrumento constitutivo que corresponda legalmente. Si la constitución de la persona jurídica o de su modificación debe realizarse por escritura pública, ésta deberá constar inscrita:
+
+i. En caso de sociedades o empresas individuales de responsabilidad limitada, en el respectivo Registro de Comercio o en el Registro de Empresas y Sociedades creado por la ley Nº 20.659.
+
+ii. En caso de las personas jurídicas sin fines de lucro regidas por el Título XXXIII del Código Civil, en el Registro de Personas Jurídicas sin Fines de Lucro, que lleva el Servicio de Registro Civil e Identificación.
+
+iii. En caso de las personas jurídicas sin fines de lucro creadas por la ley Nº 20.845, en el Registro de Personas Jurídicas Educacionales sin Fines de Lucro, que lleva el Ministerio de Educación.
 
 En caso que el capital mínimo pagado exigido no conste en la respectiva escritura pública de constitución o modificación, deberá acompañarse copia autorizada del último balance debidamente aprobado.
 
-Para efectos de aplicar lo dispuesto en este artículo, el solicitante deberá indicar la matrícula proyectada para el año siguiente en la solicitud de reconocimiento oficial.
+Para efectos de aplicar lo dispuesto en este artículo, el solicitante deberá indicar la matrícula total proyectada de todos sus establecimientos educacionales para el año siguiente en la solicitud de reconocimiento oficial.
 
 #### Artículo 15
 
@@ -304,13 +320,15 @@ En el caso que el inmueble donde funciona el establecimiento educacional sea de 
 
 En el caso que este inmueble no sea de propiedad del solicitante la tenencia deberá acreditarse con el respectivo contrato, el cual no podrá tener una duración inferior a cinco años, y deberá ser otorgado por escritura pública e inscrito en el Conservador de Bienes Raíces respectivo. Deberá asimismo acompañarse copia de la inscripción del dominio con certificación de vigencia donde conste la anotación marginal del respectivo contrato. Esta acreditación deberá renovarse 6 meses antes del vencimiento del referido contrato.
 
+Con todo, los sostenedores que impetren subvención deberán cumplir los requisitos adicionales contemplados en la normativa educacional vigente.
+
 #### Artículo 17
 
 El solicitante deberá acreditar que dispone de mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, adecuados al nivel y modalidad de educación que imparte, considerando la cantidad de personal y el número de alumnos y alumnas que puede matricular y atender en el establecimiento educacional. Para estos efectos deberá acompañar una relación de estos elementos, que podrá ser verificada por el Ministerio de Educación.
 
 En el caso de la educación técnico profesional, el equipamiento y maquinarias de enseñanza que se utilicen deberán estar debidamente adecuados a los niveles de desarrollo del área productiva o de servicios de que se trate.
 
-El mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, se regirá por el decreto supremo Nº 548, de 1988, del Ministerio de Educación y por las resoluciones exentas Nº 1.841 y Nº 1.842, ambas de 1983, del Ministerio de Educación, o el que en el futuro reemplace estos textos normativos.
+El mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, se regirán por los decretos supremos de educación que se dicten al efecto.
 
 ## Título II
 
@@ -322,15 +340,15 @@ De la obtención del Reconocimiento Oficial
 
 #### Artículo 18
 
-La solicitud de reconocimiento oficial acompañada de todos los documentos y antecedentes que acrediten el cumplimiento de los requisitos establecidos en la ley y este reglamento deberá ingresarse en la Oficina de Partes de la Secretaría Regional Ministerial de Educación respectiva o a través del sistema web que el Ministerio de Educación dispondrá para estos efectos. Si dicha solicitud no se resolviera dentro de los noventa días posteriores a su entrega, se tendrá por aprobada. Para tal efecto, el interesado podrá alegar el silencio administrativo de acuerdo al procedimiento establecido artículo 64 de la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+La solicitud de reconocimiento oficial acompañada de todos los documentos y antecedentes que acrediten el cumplimiento de los requisitos establecidos en la ley y este reglamento deberá ingresarse en la Oficina de Partes de la Secretaría Regional Ministerial de Educación respectiva o a través del sistema web que el Ministerio de Educación dispondrá para estos efectos. Si dicha solicitud no se resolviera dentro de los noventa días posteriores a su entrega, se tendrá por aprobada. Para tal efecto, el interesado podrá alegar el silencio administrativo de acuerdo al procedimiento establecido artículo 64 de la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, individualizando el nombre y apellido del solicitante y la identificación del medio preferente para efecto de las notificaciones.
 
-Si la solicitud no reuniera todos los requisitos exigidos se requerirá al solicitante para que en el plazo de cinco días subsane las faltas o acompañe los documentos y antecedentes respectivos, con indicación de que si así no lo hiciere se tendrá por no presentada su solicitud, sin perjuicio de lo establecido en el artículo 19 inciso segundo de este Reglamento.
+Los antecedentes acompañados a la solicitud serán sometidos a una revisión por la Secretaría Ministerial de Educación respectiva. Dicha evaluación será notificada al peticionario y en el caso de que ésta presentación no reuniera los requisitos exigidos, se requerirá que en el plazo de cinco días subsane las faltas o acompañe los documentos y antecedentes respectivos, con indicación de que si así no lo hiciere se tendrá por no presentada dicha solicitud.
 
 Cualquier cambio o alteración de los antecedentes o documentos que sirven de base a la solicitud de reconocimiento oficial, deberá ser informado inmediatamente a la Secretaría Regional Ministerial de Educación respectiva, aun cuando ésta no se hubiere pronunciado sobre dicha solicitud.
 
 #### Artículo 19
 
-La solicitud de reconocimiento oficial para un establecimiento educacional nuevo deberá presentarse a más tardar el 30 de octubre del año anterior a aquel en que dicho establecimiento iniciará su funcionamiento, conjuntamente con la totalidad de la documentación requerida para estos efectos.
+La solicitud de reconocimiento oficial para un establecimiento educacional nuevo deberá presentarse a más tardar el último día hábil del mes de agosto del año anterior a aquel en que dicho establecimiento iniciará su funcionamiento, conjuntamente con la totalidad de la documentación requerida para estos efectos.
 
 INCISO ELIMINADO.
 
@@ -338,31 +356,35 @@ INCISO ELIMINADO.
 
 El Ministerio de Educación podrá otorgar el reconocimiento oficial del Estado a los establecimientos educacionales que lo haya solicitado en la forma prevista en los artículos precedentes, cuando cumplan con los aspectos técnico pedagógico, de infraestructura y jurídicos, exigidos en el decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación y en el presente Reglamento.
 
-El reconocimiento oficial se otorgará por resolución del Secretario Regional Ministerial de Educación que corresponda en la que se indicará, a lo menos, el nombre y dirección del establecimiento educacional, la identificación del sostenedor y representante legal, nivel o modalidad de educación que imparta y la capacidad de atención autorizada.
+El reconocimiento oficial se otorgará por resolución del Secretario Regional Ministerial de Educación que corresponda en la que se indicará, a lo menos, el nombre y dirección del establecimiento educacional, la identificación del sostenedor y representante legal, nivel o niveles, la modalidad de educación que imparta y la capacidad de atención autorizada, indicando el número de aulas por nivel, modalidad y la capacidad de cada una de ellas.
 
 En una misma comuna no podrá repetirse el nombre de un establecimiento educacional.
 
 #### Artículo 21
 
-Obtenido el reconocimiento oficial, un establecimiento educacional sólo requerirá nueva autorización de acuerdo con el procedimiento establecido en los artículos anteriores, para crear un nivel o una modalidad educativa distinta o una nueva especialidad en el caso de los establecimientos educacionales técnico - profesionales. En este caso, la solicitud de autorización y toda la documentación requerida para estos efectos deberá presentarse a más tardar el 30 de diciembre del año anterior a aquel en que dicho nivel, modalidad o especialidad comience su funcionamiento.
+Obtenido el reconocimiento oficial, un establecimiento educacional sólo requerirá nueva autorización de acuerdo con el procedimiento establecido en los artículos anteriores, para crear un nivel o una modalidad educativa distinta o una nueva especialidad en el caso de los establecimientos educacionales técnico - profesionales. En este caso, la solicitud de autorización y toda la documentación requerida para estos efectos deberá presentarse a más tardar el último día hábil de septiembre del año anterior a aquel en que dicho nivel, modalidad o especialidad comience su funcionamiento.
 
 #### Artículo 21 bis
 
-En caso de solicitarse un aumento en la capacidad máxima de atención del local escolar o anexo, dicha solicitud y toda la documentación exigida para tales efectos deberá presentarse a más tardar el 15 de marzo del año en que el establecimiento hará uso de esta nueva capacidad.
+En caso de solicitarse un aumento en la capacidad máxima de atención del local escolar o anexo, dicha solicitud y toda la documentación exigida para tales efectos deberá presentarse a más tardar el 30 de diciembre del año anterior a aquel en que el establecimiento hará uso de esta nueva capacidad.
 
 #### Artículo 21 ter
 
-El Secretario Regional Ministerial de Educación respectivo, a solicitud del interesado o interesada, podrá prorrogar los plazos señalados en los artículos 19, 21 y 21 bis, por resolución fundada exclusivamente en la circunstancia de no haber obtenido el certificado de recepción definitiva o parcial de obras, o el informe sanitario, de acuerdo al artículo 15, debiendo acompañarse el correspondiente comprobante del ingreso de la solicitud del permiso de edificación en la municipalidad respectiva.
+El Secretario Regional Ministerial de Educación respectivo, a solicitud del interesado, podrá prorrogar los plazos señalados en los artículos 19, 21 y 21 bis, por un plazo máximo de 2 meses, mediante resolución fundada exclusivamente en la circunstancia de no haber obtenido el certificado de recepción definitiva o parcial de obras, o el informe sanitario, debiendo acompañar el correspondiente comprobante del ingreso de la solicitud del permiso de edificación en la municipalidad respectiva. En el caso que se trate de aquellas solicitudes a que se refiere el inciso segundo del artículo 22 bis de este reglamento, la prorroga sólo podrá otorgarse hasta por 1 mes.
 
 #### Artículo 22
 
-Los establecimientos educacionales podrán ser reconocidos oficialmente con uno o más cursos del nivel de educación que indiquen, pero deberán crear en los años sucesivos los cursos necesarios para completar los ciclos que aquél comprende. Sin perjuicio de lo anterior, podrán ser reconocidos oficialmente aquellos establecimientos educacionales que inicien sus cursos a partir de séptimo año de enseñanza básica debiendo en lo sucesivo llegar a completar el ciclo de enseñanza media.
+Los establecimientos educacionales podrán ser reconocidos oficialmente con uno o más cursos del nivel de educación que indiquen, pero deberán crear en los años sucesivos los cursos necesarios para completar el nivel que aquél comprende. Sin perjuicio de lo anterior y hasta la entrada en vigencia de lo dispuesto en el artículo 25 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, podrán ser reconocidos oficialmente aquellos establecimientos educacionales que inicien sus cursos a partir de séptimo año de enseñanza básica debiendo en lo sucesivo llegar a completar el nivel de enseñanza media. Asimismo, aquellos establecimientos educacionales que posean el nivel de enseñanza básica completa a fecha de vigencia establecida en el artículo 8º transitorio del decreto con fuerza de ley citado, podrán solicitar el reconocimiento del nivel de enseñanza de educación media sin necesidad de completarlo, siempre que impartan, a lo menos, los dos primeros años de su formación general.
 
-La creación de nuevos cursos del nivel reconocido, ya sea que completen ciclos o tengan la naturaleza de paralelos, se informará al Secretario Regional Ministerial de Educación respectivo con anterioridad al inicio del año escolar en que comiencen sus actividades, acreditando documentalmente que se cuenta con capacidad suficiente autorizada -la cual se probará mediante la resolución que otorga el reconocimiento oficial o sus modificaciones posteriores-, capital mínimo pagado, suficientes aulas, personal docente y personal asistente de la educación, mobiliario adecuado, material didáctico y elementos de enseñanza, atendidas las normas legales y reglamentarias correspondientes.
+La creación de nuevos cursos del nivel reconocido, ya sea para completarlo o tengan la naturaleza de paralelos, se informará al Secretario Regional Ministerial de Educación respectivo durante el mes de enero del año escolar en que comiencen sus actividades, acreditando documentalmente que se cuenta con capacidad suficiente autorizada -la cual se probará mediante la resolución que otorga el reconocimiento oficial o sus modificaciones posteriores-, capital mínimo pagado, suficientes aulas, personal docente y personal asistente de la educación, mobiliario adecuado, material didáctico y elementos de enseñanza, atendidas las normas legales y reglamentarias correspondientes.
 
-Excepcionalmente, cuando el período extraordinario de matrícula así lo justificare, la creación de nuevos cursos podrá ser informada hasta el último día hábil del mes de marzo.
+#### Artículo 22 bis
 
-INCISO ELIMINADO.
+Las solicitudes que consideren la utilización de local anexo o complementario, de acuerdo a lo dispuesto en el decreto Nº 548, de 1988, del Ministerio de Educación, deberán presentarse en los plazos señalados en los artículos 19, 21 y 21 bis del presente decreto, según corresponda.
+
+Con todo, los sostenedores de los establecimientos educacionales que conjuntamente con cualquiera de las solicitudes a que se refiere este reglamento, deseen solicitar por primera vez la subvención del Estado, según el procedimiento prescrito en el artículo 8º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, deberán ingresar todos los antecedentes necesarios para ambos procedimientos con 3 meses de anticipación al plazo descrito en este decreto para cada solicitud, según corresponda. Estas solicitudes, deberán considerar un número proyectado de los cupos que se originarán en todo el establecimiento educacional tomando en cuenta los solicitados, de aprobarse la presentación realizada. Su forma de utilización estará reglamentada según lo establecido en el inciso decimotercero del artículo 7º ter, del decreto con fuerza de ley antes mencionado.
+
+Las Secretarías Regionales Ministeriales de Educación, en el caso de la solicitud del artículo 19 de este reglamento, deberán abocarse al inicio del procedimiento, a la revisión y cumplimiento de los requisitos señalados en el inciso segundo del artículo 8º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación. Cumplidos estos requisitos, se enviará para su ratificación por el Consejo Nacional de Educación. Aceptada la solicitud, se continuará con su procedimiento a efectos de determinar la aprobación o rechazo del reconocimiento oficial y para el derecho de impetrar la subvención que se solicita.
 
 #### Artículo 23
 
@@ -410,7 +432,7 @@ De la fiscalización
 
 #### Artículo 28
 
-Los establecimientos educacionales reconocidos oficialmente por el Estado estarán sujetos a la fiscalización de la Superintendencia de Educación, y para estos efectos deberán mantener permanentemente en el local escolar, en originales o copias autorizadas o legalizadas, debidamente actualizadas cuando corresponda, los siguientes documentos:
+Los establecimientos educacionales reconocidos oficialmente por el Estado estarán sujetos a la fiscalización de la Superintendencia de Educación, y para estos efectos deberán mantener permanentemente en el local escolar y/u oficina del sostenedor, debiendo informar a la Superintendencia de Educación la dirección en que ésta se encuentre, en originales o copias autorizadas o legalizadas, debidamente actualizadas cuando corresponda, los siguientes documentos:
 
 1.- Documento que le otorgó el reconocimiento oficial o lo declaró cooperador de la función educacional del Estado.
 
@@ -444,19 +466,13 @@ Los establecimientos educacionales reconocidos oficialmente por el Estado estar�
 
 #### Artículo 29
 
-Mediante visitas de fiscalización de los funcionarios de la Superintendencia de Educación se verificará el cumplimiento permanente de los requisitos para mantener el reconocimiento oficial. En la realización de dichas visitas no se podrá alterar el normal desenvolvimiento de las actividades pedagógicas del establecimiento educacional.
+Mediante actos de fiscalización de los funcionarios de la Superintendencia de Educación se verificará el cumplimiento permanente de los requisitos para mantener el reconocimiento oficial. En la realización de dichas visitas no se podrá alterar el normal desenvolvimiento de las actividades pedagógicas del establecimiento educacional.
 
-De la visita se dejará constancia en un acta que se extenderá en triplicado, en la que se consignarán los hechos y las observaciones que ella merezca a los funcionarios que la realicen y las que el Director o Directora estimen necesarias.
+De todo acto de fiscalización se dejará constancia en un documento, en el que se consignarán los hechos, observaciones y recomendaciones que señalen los funcionarios que lo efectúen y las que el director o directora, o quien lo represente estimen necesarias. Dicho documento deberá ser firmado por los funcionarios que lo realicen, sin perjuicio de la utilización de medios electrónicos para ello.
 
-El acta deberá ser firmada por los funcionarios que la realicen junto con el Director o Directora del establecimiento educacional o por quien lo subrogue, dejándose constancia en caso de negativa del Director o Directora a hacerlo.
+El documento contendrá, al menos, los hechos referidos a presuntas contravenciones a la normativa educacional, especificándose aquellos que pudieren ser subsanados por el sostenedor, quien deberá acreditar, en la forma y dentro del plazo que prudencialmente conceda al efecto el fiscalizador, su cumplimiento ante la respectiva dirección regional de la superintendencia de educación.
 
-El acta contendrá las observaciones referidas a incumplimiento o pérdida de los requisitos para mantener el reconocimiento oficial, especificándose aquellas observaciones que pudieren ser subsanadas por el sostenedor, quien deberá acreditar, dentro del plazo de 10 días hábiles contados desde su recepción su cumplimiento ante la respectiva Dirección Regional de la Superintendencia de Educación. En el caso que se constate un hecho que pudiese constituir una infracción a lo dispuesto en los artículos 16, 32 y 34 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, el funcionario deberá señalarlo en el acta respectiva.
-
-Un ejemplar del acta quedará en el establecimiento educacional, otro se enviará al sostenedor y el tercero quedará en la Dirección Regional de la Superintendencia de Educación respectiva.
-
-El acta podrá ser enviada a sus destinatarios a través de medios electrónicos dentro del plazo de 5 días hábiles contados desde la fecha de la visita.
-
-Las actas que contengan observaciones serán remitidas al correspondiente Director Regional de la Superintendencia de Educación para la instrucción del proceso correspondiente.
+El documento final de fiscalización, deberá ser notificado al sostenedor personalmente, por carta certificada o correo electrónico, siempre que hubiere autorizado este medio.
 
 ## Título III
 
@@ -537,6 +553,20 @@ transitorio: Tratándose de establecimientos educacionales que impartan exclusiv
 #### Artículo 3º
 
 transitorio: Por resolución fundada del Secretario Regional Ministerial respectivo, los plazos establecidos en el presente reglamento podrán ampliarse si las circunstancias lo aconsejan y con ello no se perjudican derechos, siempre que se trate de solicitudes de reconocimiento oficial que a la fecha de entrada en vigencia de este reglamento se encuentren en trámite.
+
+#### Artículo 4º
+
+transitorio: Lo dispuesto en el inciso segundo del artículo 2º del presente decreto, no será aplicable a las solicitudes de reconocimiento oficial cuya resolución se encuentre pendiente al 1º de marzo de 2016.
+
+#### Artículo 5º
+
+transitorio: Los establecimientos de educación parvularia que se encuentren funcionando sin tener reconocimiento oficial del Estado, tienen un plazo de 8 años para su obtención, a contar de la vigencia de la ley Nº 20.529 de acuerdo a lo establecido en su artículo decimoquinto transitorio y en el artículo tercero transitorio de la ley Nº 20.832.
+
+#### Artículo 6º
+
+transitorio: Los establecimientos educacionales que impartan exclusivamente enseñanza media completa bajo la estructura curricular anterior a la fecha de entrada en vigencia el artículo 8º transitorio del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, estarán exceptuados del cumplimiento de lo establecido en el inciso primero del artículo 22, del presente reglamento.".
+
+Por su parte, aquellos establecimientos que hasta el año escolar 2017, obtengan el reconocimiento oficial para impartir el nivel de educación básica, y se encuentren creando los cursos necesarios para completarlo, podrán exceptuarse de cumplir lo establecido en el inciso primero del artículo 22 del presente reglamento, siempre que impartan los primeros 6 cursos que dicho nivel comprende.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
