@@ -74,7 +74,7 @@ Los recursos asignados en la primera selección según la resolución Nº 793 de
 
 .
 
-7.- El balance general respecto a los recursos asignados para el año 2015 según circular Nº 17 del 26 de mayo 2015 y el Ord. 785 del 21 de septiembre 2015 ambos emanados del Ministerio de Vivienda y Urbanismo, se detalla en la siguiente tabla:
+7.- El balance general respecto a los recursos asignados para el año 2015 según circular Nº 17 del 26 de mayo 2015 y el Ord. 785 del 21 de septiembre 2015, ambos emanados del Ministerio de Vivienda y Urbanismo, se detalla en la siguiente tabla:
 
 .
 
@@ -84,8 +84,12 @@ Los recursos asignados en la primera selección según la resolución Nº 793 de
 
 En lo no modificado se mantienen plenamente vigentes la resolución Nº 2.509 del 13 de octubre de 2015 emanada de esta Secretaría Regional Ministerial.
 
+> **Nota.** El numeral 2° de la Resolución 119, Vivienda, publicado el 21.01.2016, modifica la presente norma en el sentido de reemplazar los montos del tercer llamado.
+
 Anótese, publíquese, y archívese.- Romina Tuma Zeidan, Secretaria Regional Ministerial de Vivienda y Urbanismo Región de La Araucanía.
 
 ..
 
 .
+
+> **Nota.** NOTA 1 El numeral 1° de la Resolución 119, Vivienda, publicado el 21.01.2016, modifica nómina, Nº Interno 003/2015 de tercera selección en las líneas que la citada norma indica.
