@@ -18,6 +18,8 @@ Resuelvo:
 
 Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
+Podrán asimismo circular excepcionalmente en el tramo comprendido entre las calles Alborada y Av. Américo Vespucio, y para el solo efecto de realizar las funciones que se indican a continuación, los vehículos utilizados para labores de mantención y conservación de paraderos por parte de la concesionaria de contrato de concesión "Estaciones de Transbordo para Transantiago", debidamente identificados por la misma para tal función
+
 2.- La presente resolución entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.

@@ -16,6 +16,8 @@ Resuelvo:
 
 1.- Establécense dos pistas bidireccionales de uso exclusivo para buses de transporte público urbano de pasajeros en la calzada central de Av. Senador Jaime Guzmán, entre Av. Jorge Hirmas y Bravo de Saravia, de la comuna de Renca. Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control, y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
+Podrán asimismo circular excepcionalmente en el tramo comprendido entre Av. Costanera (Ex Jorge Hirmas) y Caupolicán, y para el solo efecto de realizar las funciones que se indican a continuación, los vehículos utilizados para labores de mantención y conservación de paraderos por parte de la concesionaria del contrato de concesión "Estaciones de Transbordo para Transantiago", debidamente identificados por la misma para tal función.
+
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de
 
 Señalización de Tránsito.

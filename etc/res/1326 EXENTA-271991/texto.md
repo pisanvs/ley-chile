@@ -22,6 +22,8 @@ Resuelvo:
 
 Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
+Podrán asimismo circular excepcionalmente en el tramo comprendido entre las calles Esparta y Playa Ancha, y para el solo efecto de realizar las funciones que se indican a continuación, los vehículos utilizados para labores de mantención y conservación de paraderos por parte de la concesionaria del contrato de concesión "Estaciones de Transbordo para Transantiago", debidamente identificados por la misma para tal función
+
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de Señalización de Tránsito.
 
 3.- Derógase la resolución exenta N° 182, de 19 de julio de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
