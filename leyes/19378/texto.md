@@ -238,6 +238,8 @@ Los pagos que correspondan conforme al inciso anterior deberán ser efectuados d
 
 A las cantidades que perciban las municipalidades por aplicación de los incisos anteriores, no les será aplicable lo dispuesto en el artículo 11 de la ley N° 18.768.
 
+El personal que se rija por este Estatuto y que haga uso del permiso postnatal parental regulado en el artículo 197 bis del Código del Trabajo continuará gozando del total de sus remuneraciones durante dicho permiso. Lo dispuesto en los incisos cuarto, quinto y sexto de este artículo se aplicará en los mismos términos respecto de los trabajadores antes señalados que hagan uso del permiso postnatal parental.
+
 #### Artículo 20
 
 <!-- parte:8640319 -->
