@@ -6,7 +6,7 @@ Proyecto de Ley:
 
 #### Artículo único
 
-Los Servicios de Salud, las Instituciones de Salud Previsional y las Cajas de Compensación de Asignación Familiar, deberán pagar a la respectiva Municipalidad o Corporación empleadora respecto de sus funcionarios regidos por la ley N° 18.883 o de los profesionales de la educación regidos por el artículo 36, inciso tercero, de la Ley N° 19.070, acogidos a licencia médica por enfermedad, una suma equivalente al subsidio que le habría correspondido al trabajador conforme con las disposiciones del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social.
+Los Servicios de Salud, las Instituciones de Salud Previsional y las Cajas de Compensación de Asignación Familiar, deberán pagar a la respectiva Municipalidad o Corporación empleadora respecto de sus funcionarios regidos por la ley N° 18.883 o de los profesionales de la educación regidos por el artículo 36, inciso tercero, de la Ley N° 19.070, acogidos a licencia médica por enfermedad, una suma equivalente al subsidio que le habría correspondido al trabajador conforme con las disposiciones del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social. Lo dispuesto en este artículo se aplicará en los mismos términos respecto de los trabajadores antes señalados que hagan uso del permiso postnatal parental a que se refiere el artículo 197 bis del Código del Trabajo.
 
 Los pagos que correspondan conforme al inciso anterior deberán ser efectuados dentro de los diez primeros días del mes siguiente a aquel en que se haya ingresado la presentación de cobro respectiva.
 

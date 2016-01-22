@@ -174,13 +174,11 @@ Intercálase, en el artículo 17 de la ley N° 16.744, el siguiente inciso segun
 
 #### Artículo 6°
 
-Las y los funcionarios del sector público a que se refiere el inciso primero del artículo 194 del Código del Trabajo, tendrán derecho al permiso postnatal parental y al subsidio que éste origine en los mismos términos del artículo 197 bis del referido Código. A este subsidio se le aplicarán las normas correspondientes del decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978.
+Las y los funcionarios del sector público a que se refiere el inciso primero del artículo 194 del Código del Trabajo, tendrán derecho al permiso postnatal parental en los mismos términos del artículo 197 bis del referido Código.
 
-A este permiso no le será aplicable lo dispuesto en el artículo 153 del decreto con fuerza de ley N° l, del Ministerio de Salud, de 2006, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979, y de las leyes N° 18.933 y N° 18.469. Un reglamento dictado por el Ministerio de Hacienda, suscrito además por el Ministerio del Trabajo y Previsión Social, determinará la forma y el procedimiento en que la funcionaria podrá hacer uso del derecho a reincorporarse a sus funciones durante el goce de este permiso. Además, establecerá los criterios que el Servicio o Institución empleadora deberán utilizar para determinar la jornada que le corresponderá cumplir. Para ello podrá considerar la escala de remuneraciones y el grado que ella detente, entre otros factores.
+Un reglamento dictado por el Ministerio de Hacienda, suscrito además por el Ministerio del Trabajo y Previsión Social, determinará la forma y el procedimiento en que la funcionaria podrá hacer uso del derecho a reincorporarse a sus funciones durante el goce de este permiso. Además, establecerá los criterios que el Servicio o Institución empleadora deberán utilizar para determinar la jornada que le corresponderá cumplir.
 
-Las normas de este artículo serán aplicables a los funcionarios del sector público que hagan uso del permiso postnatal parental establecido en el artículo 197 bis del Código del Trabajo.
-
-Sin perjuicio de lo establecido en los incisos anteriores, las y los funcionarios continuarán percibiendo la asignación de zona a que se refiere el decreto ley N° 249, de 1973, y sus normas complementarias, así como las bonificaciones especiales que benefician a zonas extremas del país, establecidas en el artículo 3° de la ley N° 20.198, el artículo 13 de la ley Nº 20.212, el artículo 3° de la ley N° 20.250, el artículo 30 de la ley N° 20.313 y el artículo 12 de la ley N° 20.374. El pago de estas remuneraciones corresponderá al Servicio o Institución empleadora.
+INCISOS SUPRIMIDOS.
 
 #### Artículo 7°
 

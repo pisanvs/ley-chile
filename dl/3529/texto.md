@@ -380,7 +380,7 @@ b) Sustitúyese el inciso final por el siguiente:
 
 #### Artículo 38
 
-Créase el Fondo de Fomento y Desarrollo de las regiones extremas de Arica y Parinacota, Tarapacá, Aysén del Presidente Carlos Ibáñez del Campo y Magallanes y Antártica Chilena y provincias de Chiloé y de Palena, con el objeto de bonificar las inversiones y reinversiones productivas de los pequeños y medianos inversionistas. Las bonificaciones que se otorguen con cargo a dicho Fondo, serán de 20% durante los años 2012 a 2035 inclusive, del monto de cada una de las respectivas inversiones o reinversiones.
+Créase el Fondo de Fomento y Desarrollo de las regiones extremas de Arica y Parinacota, Tarapacá, Aysén del Presidente Carlos Ibáñez del Campo y Magallanes y Antártica Chilena y provincias de Chiloé y de Palena, con el objeto de bonificar las inversiones y reinversiones productivas de los pequeños y medianos inversionistas. Las bonificaciones que se otorguen con cargo a dicho Fondo, serán de 20% durante los años 2012 a 2025 inclusive, del monto de cada una de las respectivas inversiones o reinversiones.
 
 Durante los años señalados en el inciso precedente, el fondo podrá destinar anualmente hasta 2.500 millones de pesos a bonificar las inversiones y reinversiones productivas que los pequeños y medianos inversionistas realicen en las antes mencionadas regiones y provincias. Dicha cantidad se reajustará anualmente en la Ley de Presupuesto, considerando la variación que experimente el Índice de Precios al Consumidor.
 

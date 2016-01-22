@@ -106,7 +106,7 @@ Establécese, a contar del 1º de enero de 2008, un bono de modernización para 
 
 El bono de modernización contendrá los siguientes elementos:
 
-a) Un componente base, de un 9%;
+a) Un componente base, de un 10%;
 
 b) Un incremento por desempeño institucional, de hasta un 7%, de acuerdo a lo establecido en el artículo 4º bis, y
 
@@ -116,7 +116,7 @@ El monto de este bono se determinará aplicando los porcentajes señalados prece
 
 El componente base se pagará mensualmente. Los incrementos por desempeño institucional y colectivo se pagarán trimestralmente, en cuatro cuotas, en los meses de marzo, junio, septiembre y diciembre de cada año. El monto a pagar en cada cuota, será equivalente al valor acumulado en el trimestre respectivo, como resultado de la aplicación mensual de dichos incrementos.
 
-No tendrán derecho a percibir los incrementos a que se refieren los literales b) y c) precedentes, los funcionarios que sean calificados en lista condicional o deficiente, ni aquellos que, durante el año anterior al pago del mismo, no hayan prestado servicios efectivos en el Poder Judicial, en la Academia Judicial o en la Corporación Administrativa del Poder Judicial durante a lo menos seis meses, con la sola excepción de los períodos correspondientes a licencias médicas por accidentes del trabajo a que se refiere la ley Nº 16.744, incluidos los descansos previstos en los artículos 195 y 196 del Código del Trabajo.
+No tendrán derecho a percibir los incrementos a que se refieren los literales b) y c) precedentes, los funcionarios que sean calificados en lista condicional o deficiente, ni aquellos que, durante el año anterior al pago del mismo, no hayan prestado servicios efectivos en el Poder Judicial, en la Academia Judicial o en la Corporación Administrativa del Poder Judicial durante a lo menos seis meses, con la sola excepción de los períodos correspondientes a licencias médicas por accidentes del trabajo a que se refiere la ley Nº 16.744, incluidos los descansos previstos en los artículos 195 y 196, así como el permiso postnatal parental del artículo 197 bis, todos del Código del Trabajo.
 
 No obstante, el personal a quien corresponda los incrementos por desempeño institucional y por desempeño colectivo que deje de prestar servicios antes de completarse el trimestre respectivo, tendrá derecho a que estos incrementos se paguen en proporción a los meses completos efectivamente trabajados.
 

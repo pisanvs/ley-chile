@@ -14,7 +14,9 @@ Normas Generales
 
 #### Artículo 1º
 
-Quedarán afectos al presente Estatuto los profesionales de la educación que prestan servicios en los establecimientos de educación básica y media, de administración municipal o particular reconocida oficialmente, como asimismo en los de educación pre-básica subvencionados conforme al decreto con fuerza de ley Nº 5, del Ministerio de Educación, de 1992, así como en los establecimientos de educación técnico-profesional administrados por corporaciones privadas sin fines de lucro, según lo dispuesto en el decreto ley Nº 3.166, de 1980, como también quienes ocupan cargos directivos y técnico-pedagógicos en los departamentos de administración de educación municipal que por su naturaleza requieran ser servidos por profesionales de la educación.
+Quedarán afectos al presente Estatuto los profesionales de la educación que prestan servicios en los establecimientos de educación básica y media, de administración municipal o particular reconocida oficialmente, como asimismo en los de educación pre-básica subvencionados conforme al decreto con fuerza de ley Nº 2, de
+
+1998, del Ministerio de Educación, así como en los establecimientos de educación técnico-profesional administrados por corporaciones privadas sin fines de lucro, según lo dispuesto en el decreto ley Nº 3.166, de 1980, como también quienes ocupan cargos directivos y técnico-pedagógicos en los departamentos de administración de educación municipal que por su naturaleza requieran ser servidos por profesionales de la educación.
 
 #### Artículo 2º
 
@@ -54,7 +56,11 @@ La función docente es aquella de carácter profesional de nivel superior, que l
 
 #### Artículo 7º
 
-La función docente-directiva es aquella de carácter profesional de nivel superior que, sobre la base de una formación y experiencia docente específica para la función, se ocupa de lo atinente a la dirección, administración, supervisión y coordinación de la educación, y que conlleva tuición y responsabilidad adicionales directas sobre el personal docente, paradocente, administrativo, auxiliar o de servicios menores, y respecto de los alumnos. La función principal del Director de un establecimiento educacional será dirigir y liderar el proyecto educativo institucional.
+La función docente-directiva es aquella de carácter profesional de nivel superior que, sobre la base de una formación y experiencia docente específica para la función o del cumplimiento de los requisitos
+
+establecidos en el inciso final del artículo 24,
+
+se ocupa de lo atinente a la dirección, administración, supervisión y coordinación de la educación, y que conlleva tuición y responsabilidad adicionales directas sobre el personal docente, paradocente, administrativo, auxiliar o de servicios menores, y respecto de los alumnos. La función principal del Director de un establecimiento educacional será dirigir y liderar el proyecto educativo institucional.
 
 En el sector municipal, entendido en los términos del artículo 19 de esta ley, el Director complementariamente deberá gestionar administrativa y financieramente el establecimiento y cumplir las demás funciones, atribuciones y responsabilidades que le otorguen las leyes, incluidas aquéllas que les fueren delegadas en conformidad a la ley Nº 19.410.
 
@@ -64,27 +70,59 @@ Los Directores de establecimientos educacionales, para dar cumplimiento a las fu
 
 Las atribuciones señaladas podrán ser delegadas dentro del equipo directivo del establecimiento. Los Directores del sector municipal, para cumplir con las funciones complementarias que les otorga el artículo anterior, contarán con las siguientes atribuciones:
 
-a) En el ámbito administrativo: organizar y
+a) En el ámbito administrativo: Organizar,
 
-supervisar el trabajo de los docentes y
+supervisar y evaluar el trabajo de los
 
-del personal regido por la ley Nº 19.464;
+docentes y del personal regido por la
 
-proponer al sostenedor el personal a
+ley Nº 19.464. En el ejercicio de estas
 
-contrata y de reemplazo, tanto docente
+facultades podrá proponer anualmente al
 
-como regido por la ley Nº 19.464; ser
+sostenedor el término de la relación
 
-consultado en la selección de los
+laboral de hasta un 5% de los docentes
 
-profesores cuando vayan a ser
+del respectivo establecimiento, siempre
 
-destinados a ese establecimiento, y
+que hubieren resultado mal evaluados según
 
-promover una adecuada convivencia en el
+lo establecido en el artículo 70 de esta
 
-establecimiento.
+ley; proponer al sostenedor el personal a
+
+contrata y de reemplazo, tanto docente como
+
+regido por la ley Nº 19.464; designar y
+
+remover a quienes ejerzan los cargos de
+
+Subdirector, Inspector General y Jefe
+
+Técnico del establecimiento de acuerdo a
+
+lo establecido en el artículo 34 C de esta
+
+ley; ser consultado en la selección de los
+
+profesores cuando vayan a ser destinados a
+
+ese establecimiento; proponer al sostenedor
+
+los incrementos de las asignaciones
+
+contempladas en el inciso primero del
+
+#### Artículo 47
+
+y las asignaciones especiales
+
+de acuerdo a lo establecido en el inciso
+
+segundo del mismo artículo; y promover una
+
+adecuada convivencia en el establecimiento.
 
 b) En el ámbito financiero: asignar,
 
@@ -96,6 +134,12 @@ le fueren delegados en conformidad a la ley.
 
 Las funciones técnico- pedagógicas son aquellas de carácter profesional de nivel superior que, sobre la base de una formación y experiencia docente específica para cada función, se ocupan respectivamente de los siguientes campos de apoyo o complemento de la docencia: orientación educacional y vocacional, supervisión pedagógica, planificación curricular, evaluación del aprendizaje, investigación pedagógica, coordinación de procesos de perfeccionamiento docente y otras análogas que por decreto reconozca el Ministerio de Educación, previo informe de los organismos competentes.
 
+#### Artículo 8° bis
+
+Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo. Del mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa.
+
+Revestirá especial gravedad todo tipo de violencia física o psicológica cometida por cualquier medio, incluyendo los tecnológicos y cibernéticos, en contra de los profesionales de la educación. Al respecto los profesionales de la educación tendrán atribuciones para tomar medidas administrativas y disciplinarias para imponer el orden en la sala, pudiendo solicitar el retiro de alumnos; la citación del apoderado, y solicitar modificaciones al reglamento interno escolar que establezca sanciones al estudiante para propender al orden en el establecimiento.
+
 #### Artículo 9º
 
 En cada establecimiento, para los efectos de esta ley se entenderá por año laboral docente el período comprendido entre el primer día hábil del mes en que se inicia el año escolar y el último del mes inmediatamente anterior a aquel en que se inicie el año escolar siguiente.
@@ -106,7 +150,23 @@ Formación y perfeccionamiento
 
 #### Artículo 10
 
-La formación de los profesionales de la educación corresponderá a las instituciones de educación superior, de acuerdo a lo establecido en la Ley Orgánica Constitucional de Enseñanza.
+La formación de los profesionales
+
+de la educación corresponderá a las instituciones
+
+de educación superior, de acuerdo a lo establecido
+
+en el decreto con fuerza de ley Nº2, de 2009,
+
+del Ministerio de Educación, que fija el texto
+
+refundido, coordinado y sistematizado de la ley
+
+Nº 20.370, con las normas no derogadas del decreto
+
+con fuerza de ley Nº 1, de 2005, del Ministerio
+
+de Educación.
 
 #### Artículo 11
 
@@ -146,11 +206,43 @@ Participación
 
 #### Artículo 14
 
-Los profesionales de la educación tendrán derecho a participar, con carácter consultivo, en el diagnóstico, planeamiento, ejecución y evaluación de las actividades de la unidad educativa correspondiente y de las relaciones de ésta con la comunidad. De la misma manera tendrán derecho a ser consultados en los procesos de proposición de políticas educacionales en los distintos niveles del sistema.
+Los profesionales de la educación tendrán derecho a participar, con carácter consultivo, en el diagnóstico, planeamiento, ejecución y evaluación de las actividades de la unidad educativa correspondiente y de las relaciones de ésta con la comunidad.
+
+Los docentes tendrán derecho a ser consultados
+
+por el Director en la evaluación del desempeño
+
+de su función y la de todo el equipo directivo,
+
+así como en las propuestas que hará al sostenedor
+
+para mejorar el funcionamiento del establecimiento
+
+educacional.
+
+De la misma manera tendrán derecho a ser consultados en los procesos de proposición de políticas educacionales en los distintos niveles del sistema.
 
 #### Artículo 15
 
-En los establecimientos educacionales habrá Consejos de Profesores u organismos equivalentes de carácter consultivo, integrados por personal docente directivo, técnico-pedagógico y docente. Estos serán organismos técnicos en los que se expresará la opinión profesional de sus integrantes. Sin embargo, los Consejos de Profesores podrán tener carácter resolutivo en materias técnico-pedagógicas, en conformidad al proyecto educativo del establecimiento y su reglamento interno. Al mismo tiempo, en los Consejos de Profesores u organismos equivalentes se encauzará la participación de los profesionales en el cumplimiento de los objetivos y programas educacionales de alcance nacional o comunal y en el desarrollo del proyecto educativo del establecimiento. Los profesores podrán ser invitados a las reuniones de los Centros de Cursos y Centros de Padres y Apoderados, cualquiera sea su denominación.
+En los establecimientos educacionales habrá Consejos de Profesores u organismos equivalentes de carácter consultivo, integrados por personal docente directivo, técnico-pedagógico y docente. Estos serán organismos técnicos en los que se expresará la opinión profesional de sus integrantes.
+
+Los Consejos de Profesores deberán reunirse
+
+a lo menos una vez al mes, y sus reflexiones
+
+y propuestas quedarán registradas en un acta
+
+numerada de sus sesiones.
+
+Los Consejos de Profesores participarán en la
+
+elaboración de la cuenta pública del Director,
+
+y en la evaluación de su gestión, de la del
+
+equipo directivo y de todo el establecimiento.
+
+Sin embargo, los Consejos de Profesores podrán tener carácter resolutivo en materias técnico-pedagógicas, en conformidad al proyecto educativo del establecimiento y su reglamento interno. Al mismo tiempo, en los Consejos de Profesores u organismos equivalentes se encauzará la participación de los profesionales en el cumplimiento de los objetivos y programas educacionales de alcance nacional o comunal y en el desarrollo del proyecto educativo del establecimiento. Los profesores podrán ser invitados a las reuniones de los Centros de Cursos y Centros de Padres y Apoderados, cualquiera sea su denominación.
 
 ### Párrafo IV
 
@@ -202,7 +294,9 @@ Se entiende por dotación docente el número total de profesionales de la educac
 
 La dotación docente de los establecimientos educacionales de cada comuna, incluyendo a quienes desempeñen cargos y horas directivos y técnico- pedagógicos en los organismos de administración educacional del sector, será fijada a más tardar el 15 de noviembre del año anterior a aquel en que comience a regir, una vez aprobado el Plan Anual de Desarrollo Educativo Municipal por el Concejo Municipal, por el Departamento de Administración Educacional de la Municipalidad respectiva o por la Corporación Educacional correspondiente, de acuerdo con lo dispuesto en esta ley.
 
-Dicha fijación se hará conforme al número de alumnos del establecimiento por niveles y cursos y según el tipo de educación y la modalidad curricular, cuando éstas sean de carácter especial. Estas dotaciones serán comunicadas al Departamento Provincial de Educación correspondiente.
+Dicha fijación se hará conforme al número de alumnos del establecimiento por niveles y cursos y según el tipo de educación y la modalidad curricular, cuando éstas sean de carácter especial.
+
+Estas dotaciones serán determinadas por el sostenedor respectivo mediante resolución fundada. Ésta deberá publicarse en la página web del municipio o estar siempre disponible a quien lo solicite.
 
 #### Artículo 22
 
@@ -224,13 +318,7 @@ Todas estas causales para la fijación o la adecuación de la dotación docente 
 
 #### Artículo 23
 
-Las dotaciones serán determinadas por la Municipalidad respectiva mediante resolución fundada, la que se enviará conjuntamente con sus antecedentes justificatorios al Departamento Provincial de Educación correspondiente.
-
-Dentro del plazo de 15 días hábiles, el Departamento Provincial de Educación, en ejercicio de sus facultades de supervisión e inspección establecidas en el artículo 16 de la Ley Nº 18.956, podrá observar la dotación fijada, cuando la determinación se haya realizado sin respetar la relación óptima entre profesionales de la educación necesarios, horas cronológicas de trabajo semanales y número de alumnos y cursos, conforme a lo dispuesto en la letra b) del artículo 6º del decreto con fuerza de ley Nº 5, del Ministerio de Educación, de 1992, en el artículo 8º del decreto Nº 8.144 de 1980, del Ministerio de Educación, y en las normas del presente Estatuto. Esta observación en ningún caso podrá significar un incremento en la dotación determinada por la Municipalidad respectiva.
-
-Las observaciones deberán ser fundadas y expresarán criterios generales y objetivos previamente establecidos en conformidad a lo dispuesto en el inciso anterior. Se harán por escrito y contendrán una fórmula alternativa de determinación de la dotación.
-
-En el plazo de siete días, contado desde la notificación de la observación, la Municipalidad podrá aceptarla; o concordar con el Departamento Provincial de Educación en otra determinación que respete el criterio señalado en el inciso segundo de este mismo artículo. En caso contrario, teniendo presente los antecedentes, la diferencia será resuelta en conjunto por la Municipalidad respectiva y las Subsecretarías de Educación y Desarrollo Regional, que adoptarán la decisión por mayoría, dentro del plazo de siete días.
+DEROGADO.
 
 #### Artículo 24
 
@@ -246,7 +334,21 @@ Para incorporarse a la dotación del sector municipal será necesario cumplir co
 
 5.- No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por crimen o simple delito ni condenado en virtud de la ley 19.325, sobre Violencia Intrafamiliar.
 
-No obstante, los extranjeros que cumplan con los requisitos de los números 3, 4 y 5 de este artículo, podrán ser autorizados por la Secretaría Regional Ministerial Educacional correspondiente, para incorporarse a la dotación del sector. Para incorporarse a la función docente directiva y de unidades técnico-pedagógicos, los postulantes deberán cumplir con el requisito de contar, a lo menos, con perfeccionamiento en las áreas pertinentes a dicha función y una experiencia docente de cinco años.
+No obstante, los extranjeros que cumplan con los requisitos de los números 3, 4 y 5 de este artículo, podrán ser autorizados por el director del establecimiento educacional con acuerdo del Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, para incorporarse a la dotación del sector. Para incorporarse a la función docente directiva y de unidades técnico-pedagógicos, los postulantes deberán cumplir con el requisito de contar, a lo menos, con perfeccionamiento en las áreas pertinentes a dicha función y una experiencia docente de cinco años.
+
+Asimismo, podrán incorporarse a la función docente
+
+directiva quienes estén en posesión de un título
+
+profesional o licenciatura de al menos 8 semestres
+
+y hayan ejercido funciones docentes al menos durante
+
+3 años en un establecimiento educacional, sin que
+
+les sea exigible el requisito establecido en el
+
+número 4 del inciso primero del presente artículo.
 
 #### Artículo 25
 
@@ -254,13 +356,13 @@ Los profesionales de la educación se incorporan a una dotación docente en cali
 
 Son titulares los profesionales de la educación que se incorporan a una dotación docente previo concurso público de antecedentes.
 
-Tendrán calidad de contratados aquellos que desempeñan labores docentes transitorias, experimentales, optativas, especiales o de reemplazo de titulares. Las vacantes para ejercer la función docente-directiva siempre serán provistas por concurso público y el nombramiento o designación tendrá una vigencia de cinco años.
+Tendrán calidad de contratados aquellos que desempeñan labores docentes transitorias, experimentales, optativas, especiales o de reemplazo de titulares.
 
 #### Artículo 26
 
 El número de horas correspondientes a docentes en calidad de contratados en una misma Municipalidad o Corporación Educacional, no podrá exceder del 20% del total de horas de la dotación de las mismas, a menos que en la comuna no haya suficientes docentes que puedan ser integrados en calidad de titulares, en razón de no haberse presentado postulantes a los respectivos concursos, o existiendo aquéllos, no hayan cumplido con los requisitos exigidos en las bases de los mismos.
 
-Los docentes a contrata no podrán desempeñar funciones docentes directivas.
+Los docentes a contrata podrán desempeñar funciones docentes directivas.
 
 #### Artículo 27
 
@@ -268,9 +370,7 @@ La incorporación a una dotación docente en calidad de titular se hará por con
 
 #### Artículo 28
 
-Los concursos a que se refiere el artículo anterior, deberán ser publicitados, a lo menos, en un diario de circulación nacional. Las convocatorias se efectuarán dos veces al año y tendrán el carácter de nacionales, debiendo efectuarse la convocatoria de una de ellas antes del 15 de diciembre del año en que se produjo la vacante a fin de dar cumplimiento al artículo 26. Asimismo, podrá convocarse a concurso cada vez que sea imprescindible llenar la vacante producida y no fuere posible contratar a un profesional de la educación en los términos del artículo 25.
-
-Las convocatorias de carácter nacional serán comunicadas en forma previa a los Departamentos Provinciales de Educación que tengan jurisdicción en las respectivas comunas, con una antelación de, a lo menos, 30 días al cierre del concurso.
+Los concursos a que se refiere el artículo anterior, deberán ser publicitados, a lo menos, en un diario de circulación nacional. Las convocatorias se efectuarán al menos una vez al año y tendrán el carácter de nacionales, debiendo efectuarse la convocatoria de una de ellas antes del 15 de diciembre del año en que se produjo la vacante a fin de dar cumplimiento al artículo 26. Asimismo, podrá convocarse a concurso cada vez que sea imprescindible llenar la vacante producida y no fuere posible contratar a un profesional de la educación en los términos del artículo 25.
 
 #### Artículo 29
 
@@ -294,11 +394,13 @@ Los profesionales de la educación, serán designados o contratados para el dese
 
 #### Artículo 30
 
-En cada comuna se establecerán anualmente Comisiones Calificadoras de Concursos, para cada una de las siguientes funciones: a) Docente directiva y técnico-pedagógica.
+En cada comuna se establecerán anualmente Comisiones Calificadoras de Concursos, para cada una de las siguientes funciones:
+
+a) Técnico pedagógica, con excepción de la de los Jefes Técnicos.
 
 b) Docente de la enseñanza media.
 
-c) Docente de la enseñanza básica y pre- básica.
+c) Docente de la enseñanza básica y pre-básica.
 
 #### Artículo 31
 
@@ -306,115 +408,153 @@ Las Comisiones Calificadoras de Concurso estarán integradas por:
 
 a) El Director del Departamento de Administración de Educación Municipal o de la Corporación Municipal que corresponda o a quien se designe en su reemplazo.
 
-b) El Director del establecimiento que corresponda a la vacante concursable. c) Un docente elegido por sorteo entre los pares de la especialidad de la vacante a llenar.
+b) El Director del establecimiento que corresponda a la vacante concursable.
 
-Un funcionario designado por el Departamento Provincial que corresponda actuará como ministro de fe. El reglamento de esta ley establecerá las normas de constitución y funcionamiento de estas Comisiones.
+c) Un docente elegido por sorteo entre los pares de la especialidad de la vacante a llenar.
+
+El secretario municipal de la respectiva comuna actuará como ministro de fe.
 
 #### Artículo 31 bis
 
-En el caso de los concursos para llenar la vacante de Director de un establecimiento educacional, las Comisiones Calificadoras de Concursos estarán integradas por:
+Establécese el siguiente mecanismo de selección directiva para proveer las vacantes de los cargos de director de establecimientos educacionales:
 
-a) El Director del Departamento de Administración de Educación Municipal o de la Corporación Municipal que corresponda.
+Existirá una comisión calificadora integrada por el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, según corresponda; un miembro del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o un representante de este Consejo elegido de una lista de profesionales de reconocido prestigio en el ámbito educacional aprobada por el propio Consejo; y un docente perteneciente a la misma dotación municipal que se desempeñe en otro establecimiento educacional elegido por sorteo. En este último caso, el docente deberá cumplir con alguno de los siguientes requisitos: Pertenecer a la red de Maestros de Maestros o estar acreditado como Profesor de Excelencia Pedagógica, según lo dispuesto en la ley N° 19.715, o haber sido evaluado como profesor de desempeño destacado, de acuerdo a la evaluación dispuesta en el artículo 70 de esta ley.
 
-b) Un Director de otro establecimiento educacional del sostenedor que imparta el mismo nivel de enseñanza en la comuna. En el evento que no hubiese otro Director del mismo nivel, integrará cualquier Director que labore para el sostenedor en la comuna. Estos profesionales serán elegidos por sorteo entre sus pares que pudiesen integrar la comisión.
+Para efectos de conformar la comisión calificadora, en el caso que el municipio tenga un solo establecimiento educacional o que ningún docente de la dotación cumpla con los requisitos establecidos en el inciso anterior, el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal lo elegirá por sorteo entre los pertenecientes a la dotación respectiva.
 
-c) Un representante del Centro General de Padres y Apoderados del establecimiento, elegido por éstos.
+Estarán inhabilitados para formar parte de las comisiones calificadoras a que hace referencia el presente artículo quienes tengan, con cualquiera de los postulantes, una relación de parentesco hasta el segundo grado de consanguinidad y tercero por afinidad.
 
-d) Un docente elegido por sorteo de entre los profesores de la dotación del establecimiento.
+Los concursos a los cuales convocarán las respectivas municipalidades serán administrados por su Departamento de Administración de Educación Municipal o por la Corporación Municipal, según corresponda. Dichos organismos pondrán todos los antecedentes a disposición de la comisión calificadora.
 
-e) Un funcionario del respectivo departamento provincial de educación, quien actuará como ministro de fe.
-
-El reglamento establecerá las normas de constitución y de funcionamiento de esta comisión.
+Un reglamento establecerá las normas de constitución y funcionamiento de estas comisiones.
 
 #### Artículo 32
 
-Las vacantes de Directores serán provistas mediante concurso público de antecedentes y oposición. Estos concursos se desarrollarán en dos etapas: a) En la primera etapa, la Comisión Calificadora preseleccionará una quina de postulantes, de acuerdo con sus antecedentes, y
+El Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, según corresponda, deberá definir el perfil profesional del director, el que podrá considerar los siguientes aspectos: las competencias, aptitudes y certificaciones pertinentes que deberán cumplir los candidatos. Estos perfiles deberán ser aprobados por el sostenedor. Para estos efectos, el Ministerio de Educación creará un banco de perfiles profesionales de acuerdo a las necesidades de los distintos tipos de establecimientos educacionales que deberán estar siempre disponibles en su página web.
 
-b) En la segunda etapa, los postulantes preseleccionados deberán presentar una propuesta de trabajo para el establecimiento, sin perjuicio de rendir otras pruebas, las que serán establecidas a través del llamado a concurso para el cargo, que la Comisión Calificadora considere necesarias para evaluar las competencias y la idoneidad del postulante.
+El Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, según corresponda, convocará a un concurso de selección público abierto, de amplia difusión, que se comunicará a través de la página web de la respectiva municipalidad o en un diario de circulación nacional. En estos anuncios se informará, a lo menos, el perfil profesional, las competencias y aptitudes requeridas para desempeñar el cargo, el nivel referencial de remuneraciones, el plazo para la postulación y la forma en que deberán acreditarse los requisitos.
 
-En aquellas comunas que tengan menos de diez mil habitantes, el número de postulantes preseleccionados podrá ser inferior a cinco, con un mínimo de dos si no hubiera más postulantes que cumplan con los requisitos.
+En la misma fecha de la publicación mencionada en el inciso anterior, las convocatorias serán comunicadas al Ministerio de Educación con el objeto que sean ingresadas en un registro público que el Ministerio administrará para apoyar la difusión de los concursos.
 
-La Comisión Calificadora a que se refiere el artículo 31 bis precedente, evaluará los antecedentes presentados, los resultados de las pruebas realizadas y la propuesta de trabajo presentada y, conforme a ella, emitirá un informe fundado que detalle el puntaje de cada postulante que se presentará al Alcalde, quien deberá nombrar a quien figure en el primer lugar ponderado en el respectivo concurso. No obstante, por resolución fundada, podrá nombrar a quien figure en el segundo lugar de dicho concurso. El nombramiento o contrato de los Directores tendrá una vigencia de cinco años, al término del cual se deberá efectuar un nuevo concurso, en el que podrá postular el Director en ejercicio.
+Asimismo, desde la fecha de publicación del concurso, deberá estar disponible para todos los interesados la proposición de convenio de desempeño a que hace referencia el artículo 33.
 
-El reemplazo del Director titular no podrá prolongarse más allá del término del año escolar, desde que el cargo se encuentre vacante, al cabo del cual obligatoriamente deberá llamarse a concurso. Cuando el reemplazo del Director titular se deba a que éste se encuentre realizando estudios de post-título o post-grado, su reemplazo podrá extenderse hasta el plazo máximo señalado en el inciso tercero del artículo 40 de la presente ley.
+#### Artículo 32 bis
 
-El Director que no vuelva a postular o que haciéndolo pierda el concurso, seguirá desempeñándose, en el caso de existir disponibilidad en la dotación docente, en alguna de las funciones a que se refiere el artículo 5º de esta ley en establecimientos educacionales de la misma Municipalidad o Corporación. En tal caso, deberá ser designado o contratado con el mismo número de horas que servía como Director, sin necesidad de concursar. Si lo anterior, dada la dotación docente, no fuese posible, tendrá derecho a los beneficios establecidos en el inciso tercero del artículo 73 de esta ley.
+La selección será un proceso técnico de evaluación de los candidatos que incluirá, entre otros aspectos, la verificación de los requisitos solicitados en el perfil definido en el artículo anterior, entrevistas a los candidatos y la evaluación de los factores de mérito, de liderazgo y de las competencias específicas, cuya ponderación será determinada por cada sostenedor.
+
+El proceso de evaluación deberá considerar el apoyo de asesorías externas registradas en la Dirección Nacional del Servicio Civil, con la finalidad de preseleccionar los candidatos que serán entrevistados por la comisión calificadora. Estas asesorías deberán ser elegidas por el miembro de la comisión calificadora del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o su representante y podrán ser financiadas de acuerdo a lo establecido en el artículo 3° de la Ley de Calidad y Equidad de la Educación.
+
+Con posterioridad, la comisión calificadora deberá entrevistar a cada uno de los candidatos preseleccionados, proceso para el cual podrá contar con apoyo externo. Luego de ello, la comisión calificadora deberá presentar un informe con la nómina de los postulantes seleccionados. Dicha nómina contará con un mínimo de tres y un máximo de cinco candidatos, los que serán presentados al sostenedor quien podrá nombrar a cualquiera de ellos o declarar, previa resolución fundada, desierto el proceso de selección, caso en el cual se realizará un nuevo concurso.
+
+En aquellas comunas que tengan menos de diez mil habitantes el número de integrantes de la nómina podrá contener dos candidatos si no hubiera más postulantes que cumplan con los requisitos.
+
+El nombramiento del director del establecimiento educacional tendrá una duración de cinco años, sin perjuicio de lo señalado en el artículo 34 de la presente ley.
+
+Si el director designado renunciare dentro de los dos meses siguientes a su nombramiento, el sostenedor podrá designar a otro de los integrantes de la nómina presentada por la comisión calificadora para dicho cargo, sin necesidad de llamar a un nuevo concurso.
+
+Un reglamento determinará los requisitos y las tareas que deberá cumplir la asesoría externa en el proceso de preselección, considerando la matrícula, la ruralidad y otras características del establecimiento educacional respectivo.
 
 #### Artículo 33
 
-Los concursos a los cuales convocarán las respectivas Municipalidades serán administrados por su Departamento de Administración de Educación Municipal o por las Corporaciones Educacionales cuando corresponda, organismos que pondrán todos los antecedentes a disposición de la Comisión Calificadora de concursos.
+Dentro del plazo máximo de treinta días contado desde su nombramiento definitivo, los directores de establecimiento educacionales suscribirán con el respectivo sostenedor o con el representante legal de la respectiva Corporación Municipal un convenio de desempeño.
 
-Las comisiones calificadoras de concursos, previo análisis de los antecedentes relacionados con la excelencia en el desempeño profesional, la consideración de los años de servicios, asignando una mayor ponderación a los desempeñados en escuelas básicas rurales, a lo menos durante tres años y el perfeccionamiento acumulado, emitirán un informe fundado que detalle un puntaje ponderado por cada postulante. Asimismo, durante el desarrollo y para la resolución de los concursos deberán considerarse siempre las normas de transparencia, imparcialidad y objetividad, que se señalen en el reglamento de esta ley.
+Este convenio será público y en él se incluirán las metas anuales estratégicas de desempeño del cargo durante el período y los objetivos de resultados a alcanzar por el director anualmente, con los correspondientes indicadores, medios de verificación y supuestos básicos en que se basa el cumplimiento de los mismos así como las consecuencias de su cumplímiento e incumplimiento.
 
-En el caso de los concursos para proveer las vacantes docentes directivas y de unidades técnico-pedagógicos, las Comisiones Calificadoras de Concursos deberán considerar en su evaluación su desempeño anterior, el perfeccionamiento pertinente y sus competencias para desempeñar esas funciones.
+Asimismo, el convenio de desempeño deberá regular la forma de ejercer las atribuciones que la letra a) del artículo 7° bis de esta ley entrega a los directores.
 
-En el caso de los concursos para proveer la vacante de director de establecimiento educacional, las Comisiones Calificadoras de Concursos deberán considerar en su evaluación la experiencia del postulante en el ejercicio de la función docente directiva o técnico-pedagógica, la evaluación de su desempeño anterior, el perfeccionamiento pertinente, sus competencias para ser Director y la calidad de la propuesta de trabajo presentada.
+Los convenios tendrán una duración de 5 años contados desde el nombramiento del director del establecimiento educacional, al término de los cuales se deberá efectuar un nuevo concurso, en el que podrá postular el director en ejercicio. Estos concursos deberán realizarse con la anticipación necesaria para que el cargo no quede vacante.
 
-El Alcalde deberá nombrar a quien ocupe el primer lugar ponderado en cada concurso, salvo que en el caso de los Directores haga uso de la facultad excepcional prescrita en el inciso tercero del artículo 32.
-
-Sólo en caso de renuncia voluntaria de quien ocupe el primer lugar, se podrá nombrar a los siguientes en estricto orden de precedencia.
+En caso de que sea necesario reemplazar al director del establecimiento, ya sea por su ausencia o por encontrarse vacante el cargo, dicho reemplazo no podrá prolongarse más allá de seis meses desde que dejó de ejercer sus funciones, al cabo de los cuales obligatoriamente deberá llamarse a concurso.
 
 #### Artículo 34
 
-Los jefes de los Departamentos
+El Director del establecimiento educacional deberá informar al sostenedor, al Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal y a la comunidad escolar, en diciembre de cada año, el grado de cumplimiento de las metas y los objetivos establecidos en los convenios de desempeño. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales. De mutuo acuerdo entre las partes podrá modificarse dicho convenio.
 
-de Administración de Educación Municipal, sea
+Corresponderá al Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, según corresponda, determinar el grado de cumplimiento de los objetivos acordados.
 
-cual fuere su denominación, serán nombrados
+El Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal con aprobación del sostenedor podrá pedir la renuncia anticipada del director cuando el grado de cumplimiento de los objetivos acordados en el convenio de desempeño sean insuficientes de acuerdo a los mínimos que establezca. En este caso se deberá realizar un nuevo concurso sin perjuicio de lo establecido en el inciso cuarto del artículo 33.
 
-mediante un concurso público de antecedentes.
+#### Artículo 34
 
-Para este efecto, se conformará una Comisión
+A.- Los profesionales que hayan pertenecido a la respectiva dotación antes de asumir al cargo de director de establecimiento educacional, y el cese de funciones se produzca por petición de renuncia, antes de concluir el plazo de nombramiento, y no concurra una causal derivada de su responsabilidad administrativa, civil o penal, podrán continuar desempeñándose en la dotación docente en caso de que exista disponibilidad, en alguna de las funciones a que se refiere el artículo 5º de esta ley, en establecimientos educacionales de la misma Municipalidad o Corporación Municipal, sin derecho a la asignación establecida en el artículo 51 de esta ley. En el caso de que no exista disponibilidad en la respectiva dotación o cuando por resolución del sostenedor se determine que deban dejar de pertenecer a la dotación municipal, tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas en el último mes por cada año de servicio en la respectiva municipalidad o corporación, o fracción superior a seis meses, con un máximo de once descontada la asignación establecida en el artículo 51 de esta ley.
 
-Calificadora de Concursos, la que estará
+Cuando la causal de término de la relación laboral referida en el inciso anterior se aplique a profesionales que no pertenecían a la respectiva dotación docente tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses, con un máximo de seis y un mínimo de uno, descontada la asignación establecida en el artículo 51 de esta ley.
 
-integrada por los tres funcionarios de mayor
+#### Artículo 34
 
-jerarquía de la municipalidad. El Alcalde
+B.- En los casos en que el director del establecimiento educacional haya pertenecido a la respectiva dotación docente al asumir dicho cargo, y termine el período de su nombramiento sin que vuelva a postular al concurso o en caso de que lo pierda, podrá continuar desempeñándose en la respectiva dotación docente en caso de que exista disponibilidad, en alguna de las funciones a que se refiere el artículo 5º de esta ley en establecimientos educacionales de la misma Municipalidad o Corporación Municipal, sin derecho a la asignación establecida en el artículo 51 de esta ley. En el caso de que no exista disponibilidad en la respectiva dotación o cuando por resolución del sostenedor se determine que deba dejar de pertenecer a la dotación municipal, tendrá derecho a una indemnización equivalente al total de las remuneraciones devengadas en el último mes por cada año de servicio en la respectiva municipalidad o corporación, o fracción superior a seis meses con un máximo de once.
 
-resolverá el concurso sobre la base de una
+Cuando la causal de término de la relación laboral referida en el inciso anterior se aplique a profesionales que no pertenecían a la respectiva dotación docente, tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses, con un máximo de seis y un mínimo de uno.
 
-terna propuesta por dicha Comisión.
+#### Artículo 34
 
-El nombramiento de estos jefes tendrá una
+C.- Los profesionales de la educación que cumplan funciones de Subdirector, Inspector General y Jefe Técnico serán de exclusiva confianza del director del establecimiento educacional. Atendidas las necesidades de cada establecimiento educacional, el director podrá optar por no asignar todos los cargos a que hace referencia este inciso. En todo caso, quienes se desempeñen en estas funciones deberán cumplir con los requisitos establecidos en el artículo 24 de esta ley.
 
-vigencia de cinco años, al término de los
+El director podrá nombrar en los cargos mencionados en el inciso anterior a profesionales que pertenezcan a la dotación docente de la comuna respectiva. Tratándose de profesionales externos a la dotación docente de la comuna, el director del establecimiento educacional requerirá de la aprobación del sostenedor para efectuar sus nombramientos.
 
-cuales se deberá efectuar un nuevo concurso,
+Cuando cesen en sus funciones los profesionales que hayan pertenecido a la respectiva dotación docente al asumir los cargos a que se refiere este artículo, y no concurra una causal derivada de su responsabilidad administrativa, civil o penal, el sostenedor podrá optar entre que continúen desempeñándose en ella en caso de que exista disponibilidad, en alguna de las funciones a que se refiere el artículo 5º de esta ley en establecimientos educacionales de la misma Municipalidad o Corporación Municipal sin derecho a la asignación establecida en el artículo 51 de esta ley; o a poner término a su relación laboral con una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses, con un máximo de once descontada la asignación que establece el artículo 51 de esta ley.
 
-pudiendo postular el Jefe en ejercicio.
+En los casos en que los profesionales no hayan pertenecido a la respectiva dotación, sólo tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses con un máximo de seis y un mínimo de uno.
 
-Estas jefaturas serán ejercidas por un
+#### Artículo 34
 
-profesional con un grado académico en
+D.- Los Jefes de los Departamentos de Administración de Educación Municipal, sea cual fuere su denominación, serán nombrados mediante un concurso público.
 
-el área de la educación o con a lo menos
+Dichos funcionarios serán nombrados por el sostenedor entre cualquiera de quienes integren la nómina propuesta por el Sistema de Alta Dirección Pública mediante un procedimiento análogo al establecido para el nombramiento de Altos Directivos Públicos de segundo nivel jerárquico. La administración de este proceso corresponderá y será de cargo del Consejo de Alta Dirección Pública.
 
-dos años de ejercicio de administración
+Para estos efectos se constituirá una comisión calificadora que estará integrada por el sostenedor o su representante; un miembro del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o un representante de este Consejo elegido de una lista de profesionales aprobada por el propio Consejo; y un director de establecimiento educacional municipal de la respectiva comuna que haya sido electo por el sistema establecido en esta ley, el cual será elegido por sorteo. En caso de no existir directores que cumplan con estas características, el sorteo se realizará entre los directores de todos los establecimientos municipales de la comuna.
 
-educacional y, en el evento de que ningún
+#### Artículo 34
 
-profesional con estas características
+E.- El sostenedor deberá definir el perfil profesional, el que deberá considerar las competencias y aptitudes que deberán cumplir los candidatos y los desafíos del cargo.
 
-manifestare interés, podrán ser ejercidas
+A estos concursos podrán postular aquellos profesionales que estén en posesión de un título profesional o licenciatura de al menos ocho semestres. En los casos en que la persona nombrada como Jefe del Departamento de Administración de Educación Municipal no sea profesional de la educación, dicho Departamento deberá contar con la asesoría de un docente encargado del área técnico-pedagógica.
 
-por otro profesional de la educación.
+Desde la fecha de publicación del concurso, deberá estar disponible para todos los interesados la proposición de convenio de desempeño.
 
-Aquellos Jefes de Departamento de
+Si el Jefe del Departamento de Administración de Educación Municipal renunciare dentro de los dos meses siguientes a su nombramiento, el sostenedor podrá designar a otro de los integrantes de la terna presentada por la comisión calificadora para dicho cargo, sin necesidad de llamar a un nuevo concurso.
 
-Administración de Educación Municipal
+#### Artículo 34
 
-que no postulen o que haciéndolo
+F.- Dentro del plazo máximo de treinta días contado desde su nombramiento definitivo, los Jefes del Departamento de Administración de Educación Municipal suscribirán el convenio de desempeño con el respectivo sostenedor.
 
-pierdan el concurso, tendrán derecho
+Este convenio será público y en él se incluirán las metas anuales estratégicas de desempeño del cargo durante el período y los objetivos de resultados a alcanzar anualmente, con los correspondientes indicadores, medios de verificación y supuestos básicos en que se basa el cumplimiento de los mismos así como las consecuencias de su cumplimiento e incumplimiento. De mutuo acuerdo entre las partes podrá modificarse dicho convenio.
 
-a la misma indemnización que el inciso
+El Jefe del Departamento de Administración de Educación Municipal deberá informar al sostenedor y al concejo municipal anualmente el grado de cumplimiento de las metas y los objetivos. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales.
 
-final del artículo 32 de esta ley otorga
+Los nombramientos tendrán una duración de 5 años, al término de los cuales se deberá efectuar un nuevo concurso, en el que podrá postular el titular en ejercicio. Estos concursos deberán realizarse con la anticipación necesaria para que el cargo no quede vacante.
 
-a los Directores de establecimientos
+El sostenedor determinará anualmente el grado de cumplimiento de los objetivos acordados en el convenio de desempeño. Cuando éstos sean insuficientes de acuerdo a los mínimos establecidos podrá pedir la renuncia anticipada del Jefe del Departamento de Administración de Educación Municipal. En estos casos se deberá realizar un nuevo concurso.
 
-educacionales.
+En caso de que sea necesario reemplazar al Jefe del Departamento de Administración de Educación Municipal, ya sea por su ausencia o por encontrarse vacante el cargo, dicho reemplazo no podrá prolongarse más allá de seis meses desde que dejó de ejercer sus funciones, al cabo de los cuales obligatoriamente deberá llamarse a concurso.
+
+#### Artículo 34
+
+G.- Los Jefes del Departamento de Administración de Educación Municipal gozarán de una asignación de administración de educación municipal.
+
+Esta asignación se aplicará sobre la remuneración básica mínima nacional para docentes de enseñanza media y alcanzará los siguientes porcentajes mínimos de acuerdo a la matrícula municipal total de la comuna. En caso de que ésta sea de 399 o menos alumnos, será de un 25%; en caso de que sea de entre 400 y 799 alumnos, la asignación será de un 75%; en caso de que sea de 800 a 1.199 alumnos, dicha asignación será de un 150%; y si tuviese una matrícula total de 1.200 o más alumnos, será de un 200%.
+
+La asignación establecida en el inciso anterior se calculará anualmente considerando el promedio de la asistencia media del año anterior que reciba subvención escolar.
+
+#### Artículo 34
+
+H.- Los profesionales que hayan pertenecido a la respetiva dotación antes de asumir el cargo de Jefe del Departamento de Administración de Educación Municipal, y el cese de sus funciones se produzca por petición de renuncia, antes de concluir el plazo de nombramiento y no concurra una causal derivada de su responsabilidad administrativa, civil o penal podrá continuar desempeñándose en la dotación docente en caso de que exista disponibilidad, en alguna de las funciones a que se refiere el artículo 5º de esta ley, en establecimientos educacionales de la misma Municipalidad o Corporación Municipal, sin derecho a la asignación establecida en el artículo 34 G de esta ley. En el caso de que no exista disponibilidad en la respectiva dotación o cuando por resolución del sostenedor se determine que deba dejar de pertenecer a la dotación municipal, tendrá derecho a una indemnización equivalente al total de las remuneraciones devengadas en el último mes por cada año de servicio en la respectiva municipalidad o corporación, o fracción superior a seis meses con un máximo de once descontada la asignación establecida en el artículo 34 G de esta ley.
+
+Cuando la causal de término de la relación laboral referida en el inciso anterior se aplique a profesionales que no pertenecían a la respectiva dotación docente tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses, con un máximo de seis y un mínimo de uno, descontada la asignación establecida en el artículo 34 G.
+
+#### Artículo 34
+
+I.- En los casos en que el Jefe del Departamento de Administración de Educación Municipal haya pertenecido a la respectiva dotación docente al asumir dicho cargo, y termine el período de su nombramiento sin que vuelva a postular al concurso o en caso de que lo pierda, podrá continuar desempeñándose en la respectiva dotación docente si existe disponibilidad, en alguna de las funciones a que se refiere el artículo 5º de esta ley en establecimientos educacionales de la misma municipalidad o corporación municipal, sin derecho a la asignación establecida en el artículo 34 G de esta ley. En el evento de que no exista disponibilidad en la respectiva dotación o cuando por resolución del sostenedor se determine que deba dejar de pertenecer a la dotación municipal, tendrá derecho a una indemnización equivalente al total de las remuneraciones devengadas en el último mes por cada año de servicio en la respectiva municipalidad o corporación, o fracción superior a seis meses con un máximo de once.
+
+Cuando la causal de término de la relación laboral referida en el inciso anterior se aplique a profesionales que no pertenecían a la respectiva dotación docente tendrán derecho a una indemnización equivalente al total de las remuneraciones devengadas el último mes, por año de servicio o fracción superior a seis meses, con un máximo de seis y un mínimo de uno.
+
+#### Artículo 34
+
+J.- En aquellas comunas que tengan menos de 1.200 alumnos matriculados en establecimientos educacionales municipales, los concursos para Jefe del Departamento de Administración de Educación Municipal serán convocados y administrados por las municipalidades. Ésta pondrá todos los antecedentes a disposición de la comisión calificadora.
+
+La selección del Jefe del Departamento de Administración de Educación Municipal deberá someterse al procedimiento establecido para la selección de directores de establecimientos educacionales, contemplado en los artículos 31 bis y siguientes de esta ley, con excepción de la integración de la composición de la comisión calificadora. En estos casos dicha comisión deberá estar compuesta por el sostenedor o su representante; un miembro del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o un representante de este Consejo elegido de una lista de profesionales aprobada por éste; y un director de establecimiento educacional municipal de la respectiva comuna que haya sido designado por el sistema establecido en esta ley, el cual será elegido por sorteo. En caso de no existir directores que cumplan con estas características, el sorteo se realizará entre los directores de todos los establecimientos municipales de la comuna.
+
+En las situaciones a que se refiere este artículo, el número de integrantes de la nómina podrá contener dos candidatos si no hubiera más postulantes que cumplan con los requisitos.
 
 ### Párrafo III
 
@@ -439,6 +579,8 @@ Sin perjuicio de lo anterior, las Municipalidades o Corporaciones Educacionales 
 #### Artículo 38
 
 Tendrán derecho a licencia médica, entendida ésta como el derecho que tiene el profesional de la educación de ausentarse o de reducir su jornada de trabajo durante un determinado lapso, con el fin de atender al restablecimiento de la salud, en cumplimiento de una prescripción profesional certificada por un médico cirujano, cirujano dentista o matrona, según corresponda, autorizada por el competente Servicio de Salud o Institución de Salud Previsional, en su caso. Durante su vigencia el profesional de la educación continuará gozando del total de sus remuneraciones.
+
+Durante el período de permiso postnatal parental regulado en el artículo 197 bis del Código del Trabajo, los profesionales de la educación que hagan uso de él también continuarán gozando del total de sus remuneraciones.
 
 #### Artículo 39
 
@@ -492,7 +634,7 @@ b) Normas técnico-administrativas sobre estructura y funcionamiento general del
 
 c) Normas de prevención de riesgos, de higiene y de seguridad.
 
-Este Reglamento deberá ser ampliamente difundido en la comunidad escolar y se actualizará al menos una vez al año. El reglamento y sus modificaciones serán comunicados a la Dirección Provincial de Educación.
+Este Reglamento deberá ser ampliamente difundido en la comunidad escolar y se actualizará al menos una vez al año.
 
 ### Párrafo IV
 
@@ -504,7 +646,7 @@ docente
 
 Los profesionales de la educación del sector municipal gozarán de las siguientes asignaciones: de experiencia, de perfeccionamiento, de desempeño en condiciones difíciles y de responsabilidad directiva y técnico-pedagógica.
 
-Además, las Municipalidades podrán establecer incrementos en las asignaciones anteriores y asignaciones especiales de incentivo profesional, de acuerdo con los factores que se determinen en los reglamentos que al efecto dicte cada una de ellas.
+Además, las Municipalidades podrán establecer incrementos en las asignaciones anteriores y asignaciones especiales de incentivo profesional, de acuerdo con los factores que se determinen en los reglamentos que al efecto dicte cada una de ellas y a la evaluación que realicen según lo establecido en el artículo 70 bis.
 
 Las asignaciones especiales de incentivo profesional se otorgarán por razones fundadas en el mérito, tendrán el carácter de temporal o permanente y se establecerán para algunos o la totalidad de los profesionales de la educación, de uno o más de los establecimientos de la respectiva Municipalidad.
 
@@ -544,15 +686,17 @@ El reglamento fijará los grados en que se presenten las condiciones referidas e
 
 #### Artículo 51
 
-Las asignaciones de
+Las asignaciones de responsabilidad directiva y de responsabilidad técnico-pedagógica corresponderán a los profesionales de la educación que sirvan funciones superiores y alcanzarán los siguientes porcentajes mínimos calculados sobre la remuneración básica mínima nacional: a un 25% en el caso de los directores de establecimientos educacionales, a un 20% en el caso de otros directivos y de los jefes de unidades técnico-pedagógicas y a un 15% en el caso de otro personal de las unidades técnico-pedagógicas.
 
-responsabilidad directiva y de
+Para determinar el porcentaje, el Departamento de Administración de la Educación o la Corporación Educacional respectiva tendrá en cuenta, entre otras, la matrícula y la jerarquía interna de las funciones docente directivas y técnico-pedagógicas de la dotación de cada establecimiento.
 
-responsabilidad técnico-pedagógica
+Tratándose de establecimientos educacionales con una matrícula total de entre 400 y 799 alumnos, la asignación para su director será de un 37,5%. Si el establecimiento tuviese una matrícula total de 800 a 1.199 alumnos, dicha asignación será de un 75% y si tuviese una matrícula total de 1.200 o más alumnos, será de 100%. Con todo, en el caso de establecimientos educacionales con una matrícula total de hasta 150 alumnos la asignación de responsabilidad directiva y de responsabilidad técnico pedagógica no podrá exceder los porcentajes establecidos en el inciso primero. Tratándose de establecimientos educacionales con una matrícula superior a 150 alumnos e inferior a 400, la asignación del director no podrá exceder de 37,5%.
 
-corresponderán a los profesionales de la educación que sirvan funciones superiores y alcanzarán hasta los siguientes porcentajes máximos calculados sobre la remuneración básica mínima nacional: a un 25% en el caso de los directores de establecimientos educacionales, a un 20% en el caso de otros directivos y de los jefes de unidades técnico-pedagógicas y a un 15% en el caso de otro personal de las unidades técnico-pedagógicas.
+La asignación establecida en el inciso anterior, se calculará anualmente considerando el promedio de la asistencia media del año anterior que reciba subvención escolar.
 
-Para determinar el porcentaje, el Departamento de Administración de la Educación o la Corporación Educacional respectiva tendrá en cuenta la matrícula y la jerarquía interna de las funciones docente directivas y técnico-pedagógicas de la dotación de cada establecimiento.
+Los establecimientos educacionales de alta concentración de alumnos prioritarios recibirán las siguientes asignaciones adicionales: En los establecimientos educacionales con una matrícula total de entre 400 y 799 alumnos, la asignación para su director será de un 37,5%. Si el establecimiento tuviese una matrícula total de 800 a 1.199 alumnos, dicha asignación será de un 75%, y si tuviese una matrícula total de 1.200 o más alumnos, será de 100%. Para estos efectos, se entenderá por establecimiento educacional de alta concentración de alumnos prioritarios, aquellos que tengan, al menos, un 60% de concentración de alumnos prioritarios de acuerdo a la ley N° 20.248, hayan o no suscrito el convenio de igualdad de oportunidades y excelencia educativa a que se refiere dicha ley.
+
+En ningún caso los profesionales que desempeñen cargos directivos y técnico-pedagógicos de un establecimiento educacional podrán percibir asignaciones mayores a las del director del mismo establecimiento.
 
 > **Nota.** El artículo 5 transitorio de la LEY 19933, publicada el 12.02.2004, dispone que la modificación que introduce el literal "c" de su artículo 12, rige a partir del 1 de febrero de 2005.
 
@@ -716,7 +860,9 @@ La evaluación de cada docente se realizará cada cuatro años y su resultado fi
 
 Los resultados finales de la evaluación de cada profesional de la educación se considerarán como antecedente para los concursos públicos estipulados en este Título. Además, tratándose de docentes cuyos niveles de desempeño sean destacado o competente, éstos se considerarán para rendir la prueba de conocimientos disciplinarios y pedagógicos habilitante para acceder a la asignación variable por desempeño individual. Del mismo modo, se considerarán para optar a cupos o becas en actividades de perfeccionamiento o estudios de post- grado, para financiar proyectos individuales de innovación y, en general, en todas las decisiones que se tomen para seleccionar profesionales.
 
-Los profesionales de la educación que resulten evaluados con desempeño insatisfactorio, deberán someterse a nueva evaluación al año siguiente conforme a los planes de superación profesional que determine el reglamento. Si en la segunda evaluación el resultado es nuevamente insatisfactorio, el docente dejará la responsabilidad de curso para trabajar durante el año en su plan de superación profesional, debiendo el empleador asumir el gasto que representa el reemplazo del docente en el aula. Dicho docente será sometido al año siguiente a una tercera evaluación. Si el desempeño en un nivel insatisfactorio se mantuviera en la tercera evaluación anual consecutiva, el profesional de la educación dejará de pertenecer a la dotación docente.
+Cada vez que un profesional de la educación resulte evaluado con desempeño insatisfactorio, deberá ser sometido al año siguiente a una nueva evaluación, pudiendo el sostenedor exigirle que deje la responsabilidad de curso para trabajar durante el año en su plan de superación profesional, debiendo el empleador asumir el gasto que representa el reemplazo del docente en aula. Si el desempeño en el nivel insatisfactorio se mantuviera en la segunda evaluación consecutiva, el profesional de la educación dejará de pertenecer a la dotación docente. Los profesionales de la educación que resulten evaluados con desempeño básico deberán evaluarse al año subsiguiente, pudiendo el sostenedor exigirle que deje la responsabilidad de curso para trabajar durante el año en su plan de superación profesional, debiendo el empleador asumir el gasto que representa el reemplazo del docente en aula. En caso de que resulten calificados con desempeño básico en tres evaluaciones consecutivas o en forma alternada con desempeño básico o insatisfactorio durante tres evaluaciones consecutivas, dejará de pertenecer a la dotación docente.
+
+Para los efectos de lo dispuesto en el inciso segundo letra a) del artículo 7° bis de esta ley, se entenderá por mal evaluado a quienes resulten evaluados con desempeño insatisfactorio o básico.
 
 Un reglamento, que deberá dictarse en el plazo de 120 días contados desde la fecha de publicación de esta ley en el Diario Oficial, establecerá la composición y funciones de las Comisiones Comunales de Evaluación Docente, las que estarán integradas, a lo menos, por el Jefe del Departamento de Administración Municipal de Educación o el Director de la Corporación Municipal respectivo y los evaluadores pares de la comuna correspondiente; fijará los procedimientos, la periodicidad, los plazos y los demás aspectos técnicos del sistema de evaluación docente y los planes de superación profesional a los que deberán someterse los profesionales de la educación con resultados básicos e insatisfactorios; y las normas objetivas que permitan a los profesionales de la educación, a los municipios respectivos y a los equipos de gestión de los establecimientos educacionales tomar conocimiento pormenorizado de la evaluación.
 
@@ -726,15 +872,11 @@ Podrán eximirse del proceso de evaluación docente establecido en los incisos a
 
 #### Artículo 70 bis
 
-La evaluación de los profesionales de la educación que realizan funciones docente-directivas y técnico-pedagógicas, a que se refieren los artículos 5º y 6º, se realizará de conformidad al procedimiento que se indica más adelante.
+Sin perjuicio de la evaluación docente establecida en el artículo 70, los sostenedores podrán crear y administrar sistemas de evaluación que complementen a los mecanismos establecidos en esta ley para los docentes que se desempeñen en funciones de docencia de aula.
 
-La evaluación de los directores considerará, por una parte, el cumplimiento de los objetivos y metas institucionales y educacionales del establecimiento y, por otra, los objetivos y metas de desarrollo profesional establecidos anualmente mediante compromisos de gestión, de acuerdo con los estándares de desempeño de directores, definidos por el Ministerio de Educación. Los compromisos de gestión, que deberán constar por escrito, serán acordados entre el Director y el Jefe del Departamento de Administración de Educación Municipal o el Jefe de Educación de la Corporación.
+Asimismo, podrán evaluarse mediante estos sistemas quienes no ejerzan funciones de docencia de aula y quienes se desempeñen en funciones en los Departamentos de Administración de Educación Municipal.
 
-Los profesionales de la educación de nivel superior que cumplen funciones docente-directivas y técnico- pedagógicas serán evaluados por el cumplimiento de los objetivos y metas acordados con el Director, con relación a su aporte a los objetivos y metas del establecimiento y su desarrollo profesional establecidos en los compromisos de desempeño, los que deberán constar por escrito.
-
-Si el Director u otro profesional de los señalados en el inciso anterior obtiene una evaluación insatisfactoria, el Jefe del Departamento de Administración Municipal o el Jefe de Educación de la Corporación deberá establecer, en conjunto con el Director, los mecanismos de apoyo y refuerzo en las áreas deficitarias y ajustar las metas de desarrollo profesional y personal de cada uno de ellos.
-
-En la segunda oportunidad consecutiva en que se obtenga una evaluación insatisfactoria, el Concejo podrá, por los dos tercios de sus miembros, remover de su función al Director o profesional que cumpla funciones docente- directivas o técnico-pedagógicas.
+Los mecanismos, instrumentos y la forma de ponderar los resultados de la evaluación deberán ser transparentes. Estos contemplarán la medición de factores tales como habilidades personales, conductas de trabajo, conocimientos disciplinarios y nivel de aprendizaje de los alumnos, debiendo garantizar la objetividad en las calificaciones. Estas evaluaciones podrán ser llevadas a cabo directamente o a través de terceros.
 
 #### Artículo 71
 
@@ -750,9 +892,15 @@ Los profesionales de la educación que forman parte de una dotación docente del
 
 a) Por renuncia voluntaria;
 
-b) Por falta de probidad, conducta inmoral, establecidas fehacientemente en un sumario, de acuerdo al procedimiento establecido en los artículos 127 al 143 de la ley Nº 18.883, en lo que fuere pertinente, considerándose las adecuaciones reglamentarias que correspondan. En el caso que se trate de una investigación o sumario administrativo que afecte a un profesional de la educación que cumpla funciones docentes, técnico pedagógicas o directivas, la designación de fiscal deberá recaer en un profesional de la educación que realice labores similares o superiores a las del afectado, en otro establecimiento dependiente de la misma Municipalidad o Corporación. En el caso que en las comunas hubiere sólo un establecimiento educacional, el fiscal será de ese establecimiento o del Departamento de Administración Educacional Municipal. El tiempo que el fiscal -docente de aula- utilice en la investigación, deberá imputarse a sus horas de actividades curriculares no lectivas;
+b) Por falta de probidad, conducta inmoral, establecidas fehacientemente en un sumario, de acuerdo al procedimiento establecido en los artículos 127 al 143 de la ley N° 18.883, en lo que fuere pertinente, considerándose las adecuaciones reglamentarias que correspondan.
 
-c) Por incumplimiento grave de las obligaciones que impone su función, tales como la no concurrencia del docente a sus labores en forma reiterada, impuntualidades reiteradas del docente, incumplimiento de sus obligaciones docentes conforme a los planes y programas de estudio que debe impartir, abandono injustificado del aula de clases o delegación de su trabajo profesional en otras personas. d) Por término del período por el cual se efectuó el contrato;
+En el caso que se trate de una investigación o sumario administrativo que afecte a un profesional de la educación, la designación del fiscal recaerá en un profesional de la respectiva Municipalidad o Departamento de Educación Municipal o de la Corporación Municipal, designado por el sostenedor.
+
+c) Por incumplimiento grave de las obligaciones que impone su función, tales como la no concurrencia del docente a sus labores en forma reiterada, impuntualidades reiteradas del docente, incumplimiento de sus obligaciones docentes conforme a los planes y programas de estudio que debe impartir, abandono injustificado del aula de clases o delegación de su trabajo profesional en otras personas.
+
+Se entenderá por no concurrencia en forma reiterada la inasistencia del trabajador a sus labores sin causa justificada durante dos días seguidos, dos lunes en el mes o un total de tres días durante igual período de tiempo.
+
+d) Por término del período por el cual se efectuó el contrato;
 
 e) Por obtención de jubilación, pensión o renta vitalicia de un régimen previsional, en relación a las respectivas funciones docentes;
 
@@ -760,7 +908,9 @@ f) Por fallecimiento;
 
 g) Por aplicación del inciso séptimo del artículo 70.
 
-h) Por salud irrecuperable o incompatible con el desempeño de su función en conformidad a lo dispuesto en la ley Nº 18.883;
+h) Por salud irrecuperable o incompatible con el desempeño de su función en conformidad a lo dispuesto en la ley Nº 18.883.
+
+Se entenderá por salud incompatible, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, exceptuando las licencias por accidentes del trabajo, enfermedades profesionales o por maternidad;
 
 i) Por pérdida sobreviniente de algunos de los requisitos de incorporación a una dotación docente, e
 
@@ -768,29 +918,55 @@ j) Por supresión de las horas que sirvan, en conformidad con lo dispuesto en el
 
 k) Por acogerse a la renuncia anticipada conforme a lo establecido en el inciso final del artículo 70.
 
-A los profesionales de la educación que terminen una relación laboral por las causales de las letras a), c), d), g) e i), se les considerará su experiencia y su perfeccionamiento en posteriores concursos para incorporarse a otra dotación, o para reincorporarse a la misma. Corresponderá igual derecho a los Directores de establecimientos educacionales, que en virtud del artículo 32 de esta ley hayan terminado sus funciones como tales, cuando postulen, en posteriores concursos, a desempeñar un empleo correspondiente a alguna de las funciones señaladas en el artículo 5º.
+l) Por disposición del sostenedor, a proposición del director del establecimiento en el ejercicio de la facultad contemplada en el inciso tercero letra a) del artículo 7° bis de esta ley, tratándose de los docentes mal evaluados en virtud de lo dispuesto en el artículo 70 de esta ley. Para estos efectos, los establecimientos que contaren con menos de 20 docentes podrán poner término anualmente a la relación laboral de un docente.
+
+A los profesionales de la educación que terminen una relación laboral por las causales de las letras a), c), d), g) y j), se les considerará su experiencia y su perfeccionamiento en posteriores concursos para incorporarse a otra dotación, o para reincorporarse a la misma.
+
+Tratándose de los casos establecidos en las letras b) y c) precedentes, se aplicará lo establecido en el artículo 134 de la ley N° 18.883.
 
 > **Nota.** El artículo 1º transitorio de la LEY 19961, publicada el 14.08.2004, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
 #### Artículo 73
 
-El Alcalde de una Municipalidad o el representante de una Corporación que aplique la causal de término de la relación laboral contemplada en la letra i) del artículo anterior, deberá basarse obligatoriamente en la dotación aprobada en conformidad al artículo 22 de esta ley, fundamentada en el Plan Anual de Desarrollo Educativo Municipal, mediante el cual se haya resuelto la supresión total de un número determinado de horas que puedan afectar a uno o más docentes.
+El Alcalde de una Municipalidad o el representante de una Corporación que aplique la causal de término de la relación laboral contemplada en la letra j) del artículo anterior, deberá basarse obligatoriamente en la dotación aprobada en conformidad al artículo 22 de esta ley, fundamentada en el Plan Anual de Desarrollo Educativo Municipal, mediante el cual se haya resuelto la supresión total de un número determinado de horas que puedan afectar a uno o más docentes.
 
-Para determinar al profesional de la educación que, desempeñando horas de una misma asignatura o de igual nivel y especialidad de enseñanza, al que en virtud de lo establecido en el inciso anterior deba ponérsele término a su relación laboral, se deberá proceder en primer lugar con quienes tengan la calidad de contratados y, tengan sesenta o más años si son mujeres o sesenta y cinco o más años si son hombres; en segundo lugar, con los titulares que tengan sesenta o más años si son mujeres o sesenta y cinco o más años si son hombres; si esto no fuere suficiente, se proseguirá con los profesionales que, con independencia de su calidad de titulares o contratados, tengan salud incompatible para el desempeño de la función; en seguida, se ofrecerá la renuncia voluntaria a quienes se desempeñan en la misma asignatura, nivel o especialidad de enseñanza en que se requiere disminuir horas si lo anterior no fuere suficiente, contratados y luego con los con los titulares que en igualdad de condiciones tengan una inferior evaluación. Para efectos de lo dispuesto en el inciso anterior, se entenderá por salud incompatible haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los dos últimos años, exceptuando las licencias por accidentes del trabajo, enfermedades profesionales o por maternidad.
+Para determinar al profesional de la educación que, desempeñando horas de una misma asignatura o de igual nivel y especialidad de enseñanza, al que en virtud de lo establecido en el inciso anterior deba ponérsele término a su relación laboral, se deberá proceder, en primer lugar, con quienes tengan sesenta o más años si son mujeres o sesenta y cinco o más años si son hombres, y no se encuentren calificados como destacados o competentes; en segundo lugar, con los profesionales que se encuentren en edad de jubilar, independiente de su calificación. Se proseguirá con los profesionales que, no encontrándose en edad de jubilar, sean calificados como insatisfactorios o básicos; en seguida, con quienes tengan salud incompatible para el desempeño de la función, en los términos señalados en la letra h) del artículo 72; finalmente, se ofrecerá la renuncia voluntaria a quienes se desempeñan en la misma asignatura, nivel o especialidad de enseñanza en que se requiere disminuir horas, si lo anterior no fuere suficiente. Lo anterior será independiente de la calidad de titulares o contratados de los docentes.
 
-En caso de igualdad absoluta de todos los factores señalados en el inciso segundo y si no se ejerciere la opción de la renuncia voluntaria, decidirá el Alcalde o el Gerente de la Corporación respectiva, según corresponda.
+SUPRIMIDO.
 
 El decreto alcaldicio o la resolución de la Corporación deberán ser fundados y notificados a los docentes que dejan la dotación. Los profesionales de la educación, sean contratados o titulares, tendrán derecho a una indemnización de cargo del empleador, equivalente al total de las remuneraciones devengadas en el último mes que correspondan al número de horas suprimidas, por cada año de servicio en la respectiva Municipalidad o Corporación, o fracción superior a seis meses, con un máximo de once o la indemnización a todo evento que hubieren pactado con su empleador conforme al Código del Trabajo, si esta última fuere mayor. Estas indemnizaciones no serán imponibles ni constituirán renta para ningún efecto legal, salvo acuerdo en contrario respecto de las pactadas a todo evento. Si el profesional de la educación proviniere de otra Municipalidad o Corporación sin solución de continuidad, tendrá derecho a que se le considere todo el tiempo servido en esas condiciones. Mientras dichas indemnizaciones, según corresponda, no se hayan pagado, los profesionales de la educación que dejan la dotación mantendrán su derecho a las remuneraciones y demás beneficios, tanto legales como contractuales.
 
+#### Artículo 73 bis
+
+Los docentes que dejen de pertenecer a la dotación docente como consecuencia de la causal establecida en la letra g) del artículo 72 de la presente ley, tendrán derecho a una bonificación de cargo del Ministerio de Educación. Los docentes que dejen de pertenecer a la dotación docente como consecuencia de la causal establecida en la letra l) del artículo 72 de la presente ley, tendrán derecho a una bonificación de cargo del empleador. En ambos casos, esta bonificación se calculará de la siguiente forma:
+
+a) Si el promedio mensual de las 12 últimas remuneraciones anteriores al mes en que el profesional de la educación dejó de pertenecer a la dotación docente del sector municipal es inferior a 14,32 unidades tributarias mensuales, el bono será de 79,58 unidades tributarias mensuales.
+
+b) Si el promedio de remuneraciones señalado en la letra anterior es igual o superior a 14,32 unidades tributarias mensuales e inferior a 19,10 unidades tributarias mensuales, el bono será de 120,97 unidades tributarias mensuales.
+
+c) Si el promedio de remuneraciones señalado en la letra a) es igual o superior a 19,10 unidades tributarias mensuales e inferior a 23,87 unidades tributarias mensuales, el bono será de 135,29 unidades tributarias mensuales.
+
+d) Si el promedio de remuneraciones antes señalado es igual o superior a 23,87 unidades tributarias mensuales el bono será de 143,25 unidades tributarias mensuales.
+
+Sin perjuicio de lo anterior, si el profesional hubiese pactado con su empleador una indemnización a todo evento conforme al Código del Trabajo, tendrá derecho a la indemnización pactada si ésta fuese mayor.
+
+Los profesionales de la educación que deban ser evaluados de conformidad al artículo 70 de esta ley, y se negaren a ello sin causa justificada, se presumirán evaluados en el nivel de desempeño insatisfactorio, no tendrán derecho a los planes de superación profesional, mantendrán su responsabilidad de curso y la obligación de evaluarse al año siguiente.
+
+Quienes se hayan negado a ser evaluados de acuerdo al mecanismo establecido en el artículo 70 de la presente ley no tendrán derecho a bonificación o indemnización alguna.
+
+Este bono se pagará por una sola vez a los profesionales de la educación señalados en este artículo, en el mes subsiguiente a aquel en que dejen de pertenecer a la dotación docente del sector municipal, no será imponible ni tributable, será incompatible con cualquier otro beneficio homologable que se origine en una causal de similar otorgamiento.
+
 #### Artículo 74
 
-Dentro de los 5 años siguientes a la percepción de la indemnización a que se refiere el artículo anterior, el profesional de la educación que la hubiere recibido, sea en forma parcial o total, no podrá ser incorporado a la dotación docente de la misma Municipalidad o Corporación en calidad de contratado.
+Dentro de los 5 años siguientes a la percepción de las indemnizaciones a que se refieren los artículos 73 y 73 bis, el profesional de la educación que la hubiere recibido, sea en forma parcial o total, no podrá ser incorporado a la dotación docente de la misma Municipalidad o Corporación.
 
 Si un profesional de la educación que se encontrare en la situación anterior postula a un concurso en la misma Municipalidad o Corporación que le pagó la indemnización y resulta elegido, podrá optar por no devolver la indemnización recibida si acepta que en su decreto de designación o en su contrato, según corresponda, se estipule expresamente que en ningún caso se considerará como tiempo servido para ese empleador, para los efectos del eventual pago de una nueva indemnización, el mismo período de años por el cual se le pagó la anterior indemnización computado desde su reincorporación; o bien, devolverla previamente, expresada en unidades de fomento con más el interés corriente para operaciones reajustables.
 
 #### Artículo 75
 
-El hecho de que el profesional de la educación reciba parcial o totalmente la indemnización a que se refiere el artículo 73, importará la aceptación de la causal, sin perjuicio de su derecho a reclamar las diferencias que estime se le adeudan. Si el profesional de la educación estima que la Municipalidad o la Corporación, según corresponda, no observó en su caso, las condiciones y requisitos que se señalan en los incisos primero y segundo del artículo 73 de la presente ley, incurriendo, por tanto, en una ilegalidad, podrá reclamar por tal motivo ante el Tribunal del Trabajo competente, dentro de un plazo de 60 días contado desde la notificación del cese que le afecta y solicitar la reincorporación en sus funciones. En caso de acogerse el reclamo, el Juez ordenará la reincorporación del reclamante.
+El hecho de que el profesional de la educación reciba parcial o totalmente la indemnización a que se refieren los artículos 73 y 73 bis, importará la aceptación de la causal, sin perjuicio de su derecho a reclamar las diferencias que estime se le adeudan.
+
+Si el profesional de la educación estima que la Municipalidad o Corporación, según corresponda, no observó en su caso las condiciones y requisitos que señalan las causales de término de la relación laboral establecidas en la presente ley, incurriendo por tanto en una ilegalidad, podrá reclamar por tal motivo ante el tribunal de trabajo competente, dentro de un plazo de 60 días contado desde la notificación del cese que le afecta y solicitar la reincorporación en sus funciones. En caso de acogerse el reclamo, el juez ordenará la reincorporación del reclamante.
 
 #### Artículo 76
 
@@ -802,9 +978,7 @@ La renuncia parcial a la titularidad de horas, deberá ser comunicada al emplead
 
 Si por aplicación del artículo 22 es adecuada la dotación y ello representa una supresión parcial de horas, los profesionales de la educación de carácter titular que sean afectados, tendrán derecho a percibir una indemnización parcial proporcional al número de horas que dejen de desempeñar.
 
-En este caso, dicha disminución o supresión parcial podrá afectar a diferentes profesionales de la educación que desempeñen horas de la misma asignatura o de un mismo nivel o especialidad de enseñanza y que estén destinados en un mismo o en diferentes establecimientos, cuando ello sea el resultado de las necesidades o requerimientos técnico-pedagógicos, que se hayan expresado en la adecuación de la dotación y se hayan fundamentado en el Plan Anual de Desarrollo Educativo Municipal.
-
-No obstante, a igualdad de condiciones de los profesionales de la educación de un mismo establecimiento y jornada, la reducción parcial de horas afectará al profesional con una menor calificación.
+ELIMINADO.
 
 Si la supresión de que se trata excede del 50% de las horas que el profesional desempeña, éste tendrá derecho a renunciar a las restantes, con la indemnización proporcional a que estas últimas dieren lugar.
 

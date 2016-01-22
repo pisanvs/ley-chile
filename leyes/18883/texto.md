@@ -532,7 +532,7 @@ Los funcionarios no estarán obligados a trabajar las tardes de los días 17 de 
 
 #### Artículo 69
 
-Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias o permisos con goce de remuneraciones, previstos en este Estatuto, de suspensión preventiva contemplada en el artículo 134, o de caso fortuito o fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
+Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias, permiso postnatal parental o permisos con goce de remuneraciones, previstos en este Estatuto, de suspensión preventiva contemplada en el artículo 134, o de caso fortuito o fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
 
 Las deduciones de rentas motivadas por inasistencia o por atrasos injustificados, no afectarán al monto de las imposiciones y demás descuentos, los que deben calcularse sobre el total de las remuneraciones, según corresponda. Tales deducciones constituirán ingreso propio de la municipalidad empleadora.
 
@@ -844,7 +844,7 @@ Los funcionarios que se desempeñen en unidades o servicios municipales que deje
 
 El funcionario que desempeñe sus funciones en las comunas de Isla de Pascua, de Juan Fernández y de la Antártica, tendrá derecho a que su feriado se aumente en el tiempo que le demande el viaje de ida al continente y regreso a sus funciones.
 
-Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles, siempre que se trasladen a una región distinta de aquella en la que se encuentren prestando servicios o hacia fuera del país.
+Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles.
 
 #### Artículo 106
 
@@ -880,6 +880,8 @@ El límite señalado en el inciso anterior, no será aplicable en el caso de fun
 
 Se entiende por licencia médica el derecho que tiene el funcionario de ausentarse o reducir su jornada de trabajo durante un determinado lapso, con el fin de atender al restablecimiento de su salud, en cumplimiento de una prescripción profesional certificada por un médico cirujano, cirujano dentista o matrona, según corresponda, autorizada por el competente Servicio de Salud o Institución de Salud Previsional, en su caso. Durante su vigencia el funcionario continuará gozando del total de sus remuneraciones.
 
+Durante el período de permiso postnatal parental regulado en el artículo 197 bis del Código del Trabajo, los funcionarios que hagan uso de él también continuarán gozando del total de sus remuneraciones.
+
 #### Artículo 111
 
 La declaración de irrecuperabilidad de los funcionarios afiliados a una Administradora de Fondos de Pensiones será resuelta por la Comisión Médica competente, en conformidad con las normas legales que rigen a estos organismos, disposiciones a las que se sujetarán los derechos que de tal declaración emanan para el funcionario.
@@ -892,7 +894,7 @@ La declaración de irrecuperabilidad afectará a todos los empleos compatibles q
 
 #### Artículo 113
 
-En caso de que un funcionario fallezca, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
+En caso de que un funcionario fallezca, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
 
 #### Artículo 114
 
@@ -1370,9 +1372,9 @@ Corresponderá a la respectiva Comisión de Medicina Preventiva e Invalidez pron
 
 A contar de la fecha de la notificación y durante el referido plazo de seis meses el funcionario no estará obligado a trabajar y gozará de todas las remuneraciones correspondientes a su empleo, las que serán de cargo del empleador.
 
-#### Artículo 17°
+#### Artículo 17
 
-En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha de fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
+En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha del fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
 
 JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la Junta de Gobierno.-
 

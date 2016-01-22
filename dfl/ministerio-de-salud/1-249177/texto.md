@@ -788,7 +788,9 @@ Su sede será la ciudad de Santiago, sin perjuicio de las oficinas que pueda est
 
 #### Artículo 50
 
-Serán funciones del Fondo: a) Recaudar, administrar y distribuir los recursos señalados en el artículo 55 de la presente ley y fiscalizar la recaudación de los señalados en la letra b) de dicho artículo;
+Serán funciones del Fondo:
+
+a) Recaudar, administrar y distribuir los recursos señalados en el artículo 55 de la presente ley y fiscalizar la recaudación de los señalados en la letra b) de dicho artículo;
 
 b) Financiar, en todo o en parte, de acuerdo a las políticas y prioridades de salud para el país que defina el Ministerio de Salud, y a lo dispuesto en el Régimen de Prestaciones de Salud del Libro II de esta Ley, a través de aportes, pagos directos, convenios u otros mecanismos que establezca mediante resolución, las prestaciones que se otorguen a los beneficiarios del Régimen del Libro II de esta Ley en cualquiera de sus modalidades, por organismos, entidades y personas que pertenezcan o no al Sistema o dependan de éste, sean públicos o privados.
 
@@ -804,17 +806,29 @@ Tratándose de la Modalidad de Atención Institucional, el afectado podrá recur
 
 En el caso de la Modalidad de Libre Elección, será aplicable lo dispuesto en el inciso noveno del artículo 143 de esta Ley;
 
-c) Colaborar con el Ministerio de Salud en la compatibilización y Art. 1°, consolidación financiera de los proyectos de presupuesto de los Servicios de Salud y otros organismos vinculados con esa Secretaría de Estado, con el presupuesto global de Salud;
+c) Colaborar con el Ministerio de Salud en la compatibilización y consolidación financiera de los proyectos de presupuesto de los Servicios de Salud y otros organismos vinculados con esa Secretaría de Estado, con el presupuesto global de Salud;
 
-d) Colaborar con el Subsecretario de Salud Pública en la administración del financiamiento de las acciones de salud a que se refiere el inciso Art. 1°, tercero del artículo 9° de esta Ley; e) Conocer y resolver, de acuerdo con la normativa vigente, los reclamos que sus beneficiarios efectúen, conforme a los procedimientos que fije el Ministerio de Salud, sin perjuicio de la competencia de otros organismos públicos, conforme a la ley;
+d) Colaborar con el Subsecretario de Salud Pública en la administración del financiamiento de las acciones de salud a que se refiere el inciso tercero del artículo 9° de esta Ley;
 
-f) Tratar datos personales o sensibles con el fin de proteger la salud de la población o para la determinación y otorgamiento de beneficios de salud. Para los efectos previstos en este número, podrá requerir de las personas naturales o jurídicas, públicas o privadas, la información que fuera necesaria. Todo ello conforme a las normas de la ley Nº 19.628, y
+e) Asegurar el otorgamiento de las prestaciones de diagnósticos y tratamientos de alto costo, en la forma y condiciones establecidas en la ley, y administrar operativamente los recursos contemplados para el financiamiento de dichos diagnósticos y tratamientos.
 
-g) Ejercer las demás funciones y obligaciones que le asignen las leyes y reglamentos.
+f) Conocer y resolver, de acuerdo con la normativa vigente, los reclamos que sus beneficiarios efectúen, conforme a los procedimientos que fije el Ministerio de Salud, sin perjuicio de la competencia de otros organismos públicos, conforme a la ley;
+
+g) Tratar datos personales o sensibles con el fin de proteger la salud de la población o para la determinación y otorgamiento de beneficios de salud. Para los efectos previstos en este número, podrá requerir de las personas naturales o jurídicas, públicas o privadas, la información que fuera necesaria. Todo ello conforme a las normas de la ley Nº 19.628, y
+
+h) Ejercer las demás funciones y obligaciones que le asignen las leyes y reglamentos.
 
 Los beneficiarios, afiliados y sus empleadores de los sectores público y privado, entidades de previsión y demás servicios públicos, estarán obligados a proporcionar al Fondo la información necesaria que tenga relación directa con sus funciones y que éste requiera para el mejor cumplimiento de las funciones que la ley le asigna. Si los informes o antecedentes que solicite revisten el carácter de secretos o reservados por su naturaleza o por disposición especial que no tenga fuerza de ley, deberán ser mantenidos en secreto o reserva. Si tales informes o documentos secretos o reservados deban ser proporcionados por servicios, organismos o entidades públicas, lo harán por intermedio del Ministro del que dependan o mediante el cual se encuentren vinculados con el gobierno.
 
 Para efecto de lo dispuesto en la ley Nº 17.322, el Fondo Nacional de Salud tendrá las mismas atribuciones que esta ley confiere a las entidades o instituciones de previsión, aun cuando no será considerado entidad de previsión para ningún efecto.
+
+#### Artículo 50 bis
+
+El Fondo Nacional de Salud deberá informar a la Comisión Ciudadana de Vigilancia y Control del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de las materias y en las condiciones que establezca la ley.
+
+Será de responsabilidad del director del Fondo Nacional de Salud proporcionar la referida información.
+
+Asimismo, el Fondo Nacional de Salud deberá implementar y administrar el sistema de información para el otorgamiento de las prestaciones incorporadas al Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de acuerdo a la ley respectiva.
 
 #### Artículo 51
 
@@ -1100,6 +1114,8 @@ c) Atender las necesidades que en las materias de su competencia le encomiende s
 
 d) Prestar servicios de asesoría técnica a otros organismos y entidades del Sistema.
 
+e) Proveer los productos sanitarios necesarios para el otorgamiento de las prestaciones cubiertas por el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo. Asimismo, podrá proveer los productos sanitarios para tratamientos de alto costo no cubiertos por dicho Sistema, para las Fuerzas Armadas y de Orden y Seguridad y para las Instituciones de Salud Previsional, a solicitud de los organismos respectivos, previo pago anticipado de, al menos, los gastos que irrogue su importación y,o registro. Para los efectos de esta letra, la Central podrá registrar, importar, adquirir, almacenar, distribuir, transportar, arrendar y vender esos productos.
+
 ## Título II
 
 De la organización y atribuciones
@@ -1224,9 +1240,9 @@ Corresponderá esta asignación al personal que haya prestado servicios para alg
 
 #### Artículo 84
 
-El monto mensual que corresponderá a cada funcionario por concepto de asignación de desarrollo y estímulo al desempeño colectivo, se calculará sobre el letra b) sueldo base más las asignaciones establecidas en los artículos 17 y 19 de la ley Nº 19.185, y, cuando corresponda, la señalada en el artículo 2º de la ley N° 19.699.
+El monto mensual que corresponderá a cada funcionario por concepto de asignación de desarrollo y estímulo al desempeño colectivo, se calculará sobre el sueldo base más las asignaciones establecidas en los artículos 17 y 19 de la ley Nº 19.185, y, cuando corresponda, la señalada en el artículo 2º de la ley N° 19.699.
 
-El componente base ascenderá, para el personal de la planta de técnicos o asimilado a ella, al 10% aplicado sobre la base señalada en el inciso primero y, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, al 10,5% aplicado sobre la misma base de cálculo. El componente variable será, para el personal de la planta de técnicos o asimilado a ella, de 11% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,5% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas. El componente variable será, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas.
+El componente base ascenderá, para el personal de la planta de técnicos o asimilado a ella, al 10,5% aplicado sobre la base señalada en el inciso primero y, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, al 10,5% aplicado sobre la misma base de cálculo. El componente variable será, para el personal de la planta de técnicos o asimilado a ella, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas. El componente variable será, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas.
 
 > **Nota.** El artículo Décimo Transitorio de la LEY 20209, publicada el 30.07.2007, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de enero de 2007.
 
@@ -1570,9 +1586,11 @@ La Superintendencia de Salud será considerada, para todos los efectos legales, 
 
 Corresponderá a la Superintendencia supervigilar y controlar a las instituciones de salud previsional, en los términos que señale este Capítulo, el Libro III de esta Ley y las demás disposiciones legales que sean aplicables, y velar por el cumplimiento de las obligaciones que les imponga la ley en relación a las Garantías Explícitas en Salud, los contratos de salud, las leyes y los reglamentos que las rigen.
 
-Asimismo, la Superintendencia de Salud supervigilará y controlará al Fondo Nacional de Salud en todas aquellas materias que digan estricta relación con los derechos que tienen los beneficiarios del Libro II de esta Ley en las modalidades de atención institucional, de libre elección, y lo que la ley establezca como Garantías Explícitas en Salud.
+Asimismo, la Superintendencia de Salud supervigilará y controlará al Fondo Nacional de Salud en todas aquellas materias que digan estricta relación con los derechos que tienen los beneficiarios del Libro II de esta Ley en las modalidades de atención institucional, de libre elección, lo que la ley establezca como Garantías Explícitas en Salud y al Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
 
 Igualmente, concernirá a la Superintendencia la fiscalización de todos los prestadores de salud públicos y privados, sean éstos personas naturales o jurídicas, respecto de su acreditación y certificación, así como la mantención del cumplimiento de los estándares establecidos en la acreditación.
+
+De la misma manera, le corresponde el control y supervigilancia del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo. Para estos efectos, podrá regular, fiscalizar y resolver las controversias respecto de prestadores, seguros, fondos e instituciones que participen de todos los sistemas previsionales de salud, incluyendo los de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile.
 
 ### Párrafo 2°
 
@@ -1714,39 +1732,43 @@ La Superintendencia ejercerá la supervigilancia y el control del Fondo Nacional
 
 ### Párrafo 2°
 
-De la supervigilancia y control de las Garantías Explícitas en Salud
+De la Supervigilancia y Control de las Garantías Explícitas en Salud y del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo
 
 #### Artículo 115
 
-Le corresponderán a la Superintendencia las siguientes funciones y atribuciones, las que ejercerá a través de la Intendencia de Fondos y Seguros Previsionales de Salud, respecto de la supervigilancia y control de las Garantías Explícitas en Salud:
+Le corresponderán a la Superintendencia las siguientes funciones y atribuciones, las que ejercerá a través de la Intendencia de Fondos y Seguros Previsionales de Salud, respecto de la supervigilancia y control de las Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo:
 
-1.- Interpretar administrativamente las leyes, reglamentos y demás normas que rigen el otorgamiento de las Garantías Explícitas en Salud, impartir instrucciones de general aplicación y dictar órdenes para su aplicación y cumplimiento;
+1.- Interpretar administrativamente las leyes, reglamentos y demás normas que rigen el otorgamiento de las Garantías Explícitas en Salud, y de las prestaciones del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costoimpartir instrucciones de general aplicación y dictar órdenes para su aplicación y cumplimiento;
 
-2.- Fiscalizar los aspectos jurídicos y financieros, para el debido cumplimiento de las obligaciones que establecen las Garantías Explícitas en Salud;
+2.- Fiscalizar los aspectos jurídicos y financieros, para el debido cumplimiento de las obligaciones que establecen las Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo;
 
 3.- Velar por el cumplimiento de las leyes y reglamentos que los rigen y de las instrucciones que la Superintendencia emita, sin perjuicio de las facultades que pudieren corresponder a otros organismos fiscalizadores;
 
 4.- Dictar las instrucciones de carácter general que permitan la mayor claridad en las estipulaciones de los contratos de salud y los convenios que se suscriban entre los prestadores y las instituciones de salud previsional y el Fondo Nacional de Salud, con el objeto de facilitar su correcta interpretación y fiscalizar su cumplimiento, correspondiéndole especialmente velar por que éstos se ajusten a las obligaciones que establecen las Garantías Explícitas en Salud;
 
-5.- Difundir periódicamente información que permita a los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud una mejor comprensión de los beneficios y obligaciones que imponen las referidas Garantías Explícitas en Salud e informar periódicamente sobre las normas e instrucciones dictadas e interpretaciones formuladas por la Superintendencia, en relación con los beneficios y obligaciones de los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud, respecto del Régimen General de Garantías en Salud.
+5.- Dictar las instrucciones de carácter general al Fondo Nacional de Salud, instituciones de salud previsionales, prestadores e instituciones de salud de las Fuerzas Armas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile, con el objeto de facilitar la aplicación del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y el acceso a sus beneficiarios; realizar la correcta interpretación de sus normas, y fiscalizar su cumplimiento, salvo en las materias propias reguladas en el Código Sanitario;
 
-6.- Requerir de los prestadores, sean públicos o privados, las fichas clínicas u otros antecedentes médicos que sean necesarios para resolver los reclamos de carácter médico presentados ante la Superintendencia por los afiliados o beneficiarios de las instituciones fiscalizadas. La Superintendencia deberá adoptar las medidas que sean necesarias para mantener la confidencialidad de la ficha clínica;
+6.- Difundir periódicamente información que permita a los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud una mejor comprensión de los beneficios y obligaciones que imponen las referidas Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo e informar periódicamente sobre las normas e instrucciones dictadas e interpretaciones formuladas por la Superintendencia, en relación con los beneficios y obligaciones de los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud, respecto del Régimen General de Garantías en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
 
-7.- Requerir de los prestadores, tanto públicos como privados, la información que acredite el cumplimiento de las Garantías Explícitas en Salud sobre acceso, oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos;
+7.- Requerir de los prestadores, sean públicos o privados, las fichas clínicas u otros antecedentes médicos que sean necesarios para resolver los reclamos de carácter médico presentados ante la Superintendencia por los afiliados o beneficiarios de las instituciones fiscalizadas. La Superintendencia deberá adoptar las medidas que sean necesarias para mantener la confidencialidad de la ficha clínica;
 
-8.- Recibir, derivar o absolver, en su caso, las consultas y, en general, las presentaciones que formulen los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud;
+8.- Requerir de los prestadores, tanto públicos como privados, la información que acredite el cumplimiento de las Garantías Explícitas en Salud sobre acceso, oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos;
 
-9.- Dictar resoluciones de carácter obligatorio que permitan suspender transitoriamente los efectos de actos que afecten los beneficios a que tienen derecho los cotizantes y beneficiarios, en relación con las Garantías Explícitas en Salud y los contratos de salud;
+9.- Requerir de los prestadores, tanto públicos como privados, del Fondo Nacional de Salud, de la Comisión Ciudadana de Vigilancia y Control del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile y en general, de cualquier institución pública y,o privada la información que acredite el cumplimiento del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, sobre oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos. Esta facultad se extenderá al otorgamiento de las prestaciones no contempladas pero asociadas al Sistema, efectuadas en la Red de Prestadores aprobada por el Ministerio de Salud;
 
-10.- Requerir de los organismos del Estado los informes que estime necesarios para el cumplimiento de sus funciones;
+10.- Recibir, derivar o absolver, en su caso, las consultas y, en general, las presentaciones que formulen los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud;
 
-11.- Imponer las sanciones que correspondan de conformidad a la ley, y
+11.- Dictar resoluciones de carácter obligatorio que permitan suspender transitoriamente los efectos de actos que afecten los beneficios a que tienen derecho los cotizantes y beneficiarios, en relación con las Garantías Explícitas en Salud y los contratos de salud así como con el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo;
 
-12.- Las demás que contemplen las leyes.
+12.- Requerir de los organismos del Estado los informes que estime necesarios para el cumplimiento de sus funciones;
+
+13.- Imponer las sanciones que correspondan de conformidad a la ley, y
+
+14.- Las demás que contemplen las leyes.
 
 #### Artículo 116
 
-El Fondo Nacional de Salud y las instituciones de salud previsional devolverán lo pagado en exceso por el beneficiario en el otorgamiento de las prestaciones, según lo determine la Superintendencia mediante resolución, conforme a lo dispuesto en las Garantías Explícitas en Salud.
+El Fondo Nacional de Salud y las instituciones de salud previsional devolverán lo pagado en exceso por el beneficiario en el otorgamiento de las prestaciones, según lo determine la Superintendencia mediante resolución, conforme a lo dispuesto en las Garantías Explícitas en Salud y en el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
 
 Dichas resoluciones y las sanciones de pago de multa constituirán título ejecutivo para todos los efectos legales, una vez que se hayan resuelto los recursos a que se refieren los artículos siguientes o haya transcurrido el plazo para interponerlos.
 
@@ -2184,9 +2206,9 @@ La base de cálculo del subsidio establecido en este artículo será la misma de
 
 #### Artículo 153
 
-El derecho a licencia por enfermedad, descanso de maternidad o enfermedad grave del hijo menor de un año del personal afecto a la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el Decreto con Fuerza de Ley N° 29, de 2004, del Ministerio de Hacienda, se regirá por lo establecido en dicho cuerpo legal.
+El derecho a licencia por enfermedad, descanso de maternidad o enfermedad grave del hijo menor de un año y el derecho a permiso postnatal parental del personal afecto a la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el Decreto con Fuerza de Ley N° 29, de 2004, del Ministerio de Hacienda, se regirá por lo establecido en dicho cuerpo legal.
 
-Estos trabajadores tendrán derecho, durante el goce de la licencia, a la mantención del total de sus remuneraciones y su pago corresponderá al Servicio o Institución empleadora, sin perjuicio de lo dispuesto en el artículo 12 de la Ley N° 18.196.
+Estos trabajadores tendrán derecho, durante el goce de la licencia y el permiso postnatal parental, a la mantención del total de sus remuneraciones y su pago corresponderá al Servicio o Institución empleadora, sin perjuicio de lo dispuesto en el artículo 12 de la Ley N° 18.196.
 
 La parte de sus remuneraciones sobre la que no han efectuado cotización para los efectos de esta ley, será de cargo exclusivo del Servicio o Institución empleadora.
 
@@ -2612,7 +2634,7 @@ Sin perjuicio de lo anterior, los fondos afectos a la garantía y los documentos
 
 La garantía de que trata este artículo será inembargable y en ningún caso podrá ser inferior al equivalente, en moneda nacional, a dos mil unidades de fomento.
 
-En caso de cancelación del registro de una Institución de Salud Previsional, la garantía que deben mantener las Instituciones será liquidada y pagada exclusivamente por la Superintendencia, aún en caso de quiebra de la Institución, quedando, en consecuencia, dicha garantía fuera de la masa de la quiebra hasta que pierda su inembargabilidad.
+En caso de cancelación del registro de una Institución de Salud Previsional, la garantía que deben mantener las Instituciones será liquidada y pagada exclusivamente por la Superintendencia, aún en caso que la Institución se encuentre sometida a un procedimiento concursal de liquidación, quedando, en consecuencia, dicha garantía fuera de la masa hasta que pierda su inembargabilidad.
 
 #### Artículo 182
 
@@ -2737,6 +2759,8 @@ En este contrato, las partes convendrán libremente las prestaciones y beneficio
 a) Las Garantías Explícitas relativas a acceso, calidad, protección financiera y oportunidad contempladas en el Régimen General de Garantías en Salud, en conformidad a lo dispuesto en la ley que establece dicho Régimen.
 
 Asimismo, se deberá pactar un plan complementario a las Garantías Explícitas señaladas precedentemente, el que incluirá los beneficios del artículo 149 de esta Ley, y los referidos en el artículo 194 de esta ley, en tanto no sean parte de dichas Garantías Explícitas, incluyendo copagos máximos, porcentajes de cobertura y valores sobre los cuales se aplicarán, según corresponda. Este plan deberá contemplar, a lo menos, las prestaciones y la cobertura financiera que se fije como mínimo para la modalidad de libre elección que debe otorgar el Fondo Nacional de Salud, de acuerdo a lo dispuesto en el Régimen General de Garantías en Salud.
+
+Asimismo, las instituciones de salud previsional deberán informar a sus afiliados respecto de la existencia y cobertura del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, y, cuando proceda, transferir al Fondo para Diagnósticos y Tratamientos de Alto Costo los recursos que por concepto de cobertura adicional de enfermedades catastróficas corresponda otorgar. Esta última materia deberá ser reglada mediante instrucciones de la Intendencia de Fondos y Seguros Previsionales de la Superintendencia de Salud.
 
 b) El Plan de Salud Complementario, que podrá contener una o más de las siguientes modalidades para el otorgamiento de las prestaciones o beneficios:
 
@@ -3234,7 +3258,7 @@ c.- Cuando la Institución mantenga un indicador de liquidez igual o inferior a 
 
 d.- Cuando se incumpla alguna de las etapas contempladas en el Plan de Ajuste y Contingencia, y
 
-e.- Cuando se declare la quiebra de la Institución. En este caso, la existencia del síndico no obstará ni afectará en modo alguno las facultades conferidas al administrador provisional para licitar la cartera y las que posea el Superintendente para los efectos de liquidar la garantía.
+e.- Cuando se dicte la resolución de liquidación de la Institución. En este caso, la existencia del liquidador no obstará ni afectará en modo alguno las facultades conferidas al administrador provisional para licitar la cartera y las que posea el Superintendente para los efectos de liquidar la garantía.
 
 Con todo, la Superintendencia de Salud deberá aplicar lo dispuesto en el inciso anterior cuando las Instituciones, en cualquier momento, presentaren un patrimonio inferior a cinco mil unidades de fomento o una garantía por debajo de las dos mil unidades de fomento.
 
@@ -3248,7 +3272,7 @@ La Superintendencia podrá cancelar, mediante resolución fundada, el registro d
 
 grave y reiterado dentro de un período de doce meses de las obligaciones que establece la ley o de las instrucciones que imparta la Superintendencia, debidamente observado o sancionado en cada oportunidad por ésta.
 
-3.- Por quiebra de la Institución.
+3.- Por encontrarse en un procedimiento concursal de liquidación.
 
 4.- Por pérdida de la personalidad jurídica de la Institución.
 
@@ -3304,7 +3328,7 @@ Los interesados podrán impugnar los cálculos dentro de los diez días siguient
 
 d) Agotado el plazo o resueltas las impugnaciones, la Superintendencia pagará las deudas, en un término no superior a noventa días.
 
-Cuando la garantía resulte insuficiente para pagar las deudas a los afiliados de una Institución de Salud Previsional cuyo registro haya sido cancelado y se encuentre declarada en quiebra, la Intendencia de Fondos y Seguros Previsionales de Salud deberá emitir una resolución que contenga la identificación del afiliado o el prestador y el monto adeudado. Dicha resolución tendrá mérito ejecutivo y será remitida al síndico de la quiebra, para los efectos de ser considerada en el pago con cargo a la masa del fallido. Lo anterior se entiende sin perjuicio del derecho de los afiliados y prestadores de hacer valer directamente sus acreencias en la quiebra.
+Cuando la garantía resulte insuficiente para pagar las deudas a los afiliados de una Institución de Salud Previsional cuyo registro haya sido cancelado y se encuentre sometida a un procedimiento concursal de liquidación, la Intendencia de Fondos y Seguros Previsionales de Salud deberá emitir una resolución que contenga la identificación del afiliado o el prestador y el monto adeudado. Dicha resolución tendrá mérito ejecutivo y será remitida al liquidador, para los efectos de ser considerada en el pago con cargo a la masa del deudor. Lo anterior se entiende sin perjuicio del derecho de los afiliados y prestadores de hacer valer directamente sus acreencias en la procedimiento concursal de liquidación.
 
 En aquella parte que no haya podido ser solucionada con la garantía, los créditos contenidos en el numeral 2 del inciso primero de este artículo gozarán del privilegio concedido a los créditos del número 6 del artículo 2.472 del Código Civil, los que, en todo caso, se pagarán con preferencia a aquéllos, rigiendo en todo lo demás lo dispuesto en el artículo 2.473 del mismo Código.
 

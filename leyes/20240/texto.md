@@ -24,7 +24,7 @@ Tendrá derecho a percibir el bono de gestión institucional, el personal que cu
 
 a) Que haya prestado servicios durante un plazo no inferior a seis meses, en forma continua o discontinua, en el año calendario en que debió cumplirse el Compromiso de Gestión Institucional. Para estos efectos, no se considerará tiempo efectivamente trabajado el correspondiente a los permisos sin goce de remuneraciones ni a licencias médicas con la sola excepción de los períodos originados por licencias médicas por accidentes del trabajo a que se refiere la ley N° 16.744, incluidos los descansos previstos en los artículos 195 y 196, así como el permiso postnatal parental del artículo 197 bis, todos del Código del Trabajo.
 
-b) Que entre el 1 de enero y el 31 de diciembre del año en que se ejecuta el Compromiso de Gestión Institucional, no haya sido sancionado con alguna medida disciplinaria o administrativa de mayor gravedad que la amonestación privada contemplada en ley N° 19.640, que establece la ley orgánica constitucional del Ministerio Público, o en el Reglamento de Responsabilidad Administrativa de Fiscales y Funcionarios del Ministerio Público.
+b) Que no haya sido sancionado por hechos o conductas ocurridos o efectuadas durante el año en que debió cumplirse el Compromiso de Gestión Institucional, con alguna medida disciplinaria o administrativa de mayor gravedad que la amonestación privada contemplada en la ley N° 19.640 o en el Reglamento de Responsabilidad Administrativa de Fiscales y Funcionarios del Ministerio Público.
 
 c) Que no haya sido calificado con nota inferior a 5,0 en la evaluación de desempeño individual inmediatamente anterior a la fecha de pago del bono por gestión institucional.
 
@@ -70,7 +70,9 @@ Para el evento que las metas comprometidas importen un mejoramiento continuo, no
 
 #### Artículo 9°
 
-Derogado.
+Una vez refrendado el Compromiso de Gestión Institucional, éste podrá ser revisado o reformulado mediante una modificación fundada al convenio a que se refiere el artículo 6°, en la medida que en el período de ejecución se presenten causas externas calificadas y no previstas, que limiten seriamente su logro o se produzcan reducciones en el presupuesto destinado a financiar ítems relevantes para su cumplimiento.
+
+La calificación de las referidas causas y posterior revisión de las metas, será realizada, previa solicitud del Fiscal Nacional, por el Ministro de Hacienda. De acogerse las referidas causas, deberán quedar señaladas detalladamente en el Convenio Modificatorio.
 
 #### Artículo 10
 
@@ -86,21 +88,11 @@ El Fiscal Nacional deberá generar los mecanismos internos que permitan una adec
 
 #### Artículo 12
 
-Durante los primeros quince días del mes de enero de cada año, el Ministerio Público elaborará los informes sobre el grado de cumplimiento de las metas institucionales.
+Durante el mes de enero de cada año, el Ministerio Público elaborará los informes sobre el grado de cumplimiento de las metas institucionales.
 
 La entidad evaluadora a que se refiere el artículo 10 precedente deberá informar al Fiscal Nacional y al Ministro de Hacienda, a más tardar el 28 de febrero de cada año respecto del grado de cumplimiento del Compromiso de Gestión Institucional del Ministerio Público, refrendado de conformidad al artículo 6°, al 31 de diciembre del año anterior.
 
 Dicho informe deberá contener como mínimo la cifra efectiva alcanzada para cada una de las metas comprometidas, al 31 de diciembre del año anterior, además de una evaluación cualitativa que explique las principales desviaciones respecto de las metas planteadas.
-
-#### Artículo 12 bis
-
-En la fijación del grado de cumplimiento, se podrá considerar, además, la existencia de causas externas calificadas y no previstas que limiten seriamente el logro de las metas de gestión, como también las reducciones presupuestarias externas al Ministerio Público, que hubiesen afectado ítems relevantes para el cumplimiento de las metas de gestión. El Ministro de Hacienda calificará las situaciones antes señaladas y evaluará su impacto en el cumplimiento de las metas, pudiendo otorgar la ponderación máxima asignada a la o las metas afectadas, o aquella que a su juicio corresponda en función del impacto verificado.
-
-#### Artículo 12 ter
-
-En caso de que el Fiscal Nacional discrepe de los resultados de la evaluación efectuada por la entidad evaluadora externa, podrá reclamar ante el Ministro de Hacienda, a través de la Instancia Técnica, a más tardar dentro de los tres días siguientes a la notificación de la referida evaluación, consignando de manera clara y precisa las razones en las que se funda y las peticiones concretas que se someten a decisión, y acompañando los antecedentes que corresponda.
-
-El Ministro de Hacienda deberá resolver en única instancia el reclamo al cual se refiere el inciso anterior, acogiéndolo o denegándolo.
 
 #### Artículo 13
 
@@ -132,47 +124,33 @@ Esta instancia podrá ser convocada a petición del Ministro de Hacienda y el Fi
 
 #### Artículo 16
 
-El bono por desempeño colectivo basado en el grado de cumplimiento de las metas anuales fijadas para cada una de las fiscalías regionales y para la Fiscalía Nacional, a que se refieren los artículos 77 y siguientes de la ley Nº 19.640, tendrá los siguientes componentes:
+A contar del 1 de enero de 2008, el bono por desempeño individual a que se refieren los artículos 77 y siguientes de la ley Nº 19.640, tendrá los siguientes componentes:
 
 a) Componente base, de un 5%, y
 
 b) Componente variable, de hasta un 2,3%.
 
-El componente variable del bono por desempeño colectivo tendrá por objeto reconocer el cumplimiento de las metas establecidas en el programa de trabajo elaborado para cada región y para la Fiscalía Nacional, que haya sido aprobado por el Fiscal Nacional. Para estos efectos, cada Fiscal Regional deberá celebrar, antes del treinta y uno de diciembre de cada año, con el Fiscal Nacional, un convenio que contenga el programa anual de trabajo para el año siguiente, para cada Fiscalía Regional. Tratándose del programa anual de trabajo de la Fiscalía Nacional, que para este efecto estará constituida por las unidades administrativas, unidades especializadas y de apoyo de la Fiscalía Nacional y por aquellas que no dependan de una Fiscalía Regional, el Fiscal Nacional suscribirá dicho convenio con el Director Ejecutivo Nacional antes del 31 de diciembre de cada año.
-
-Este convenio deberá estar vinculado con el Compromiso de Gestión Institucional a que se refiere el artículo 5° y con las áreas prioritarias consideradas en dicho compromiso, y deberá propender a mejorar la calidad, eficiencia, eficacia y acceso de la población a los servicios que presta la Fiscalía. El convenio deberá contener las metas con sus correspondientes indicadores, ponderadores, plazos en que deberán cumplirse y medios de verificación. El Fiscal Nacional calificará las metas contenidas en los respectivos convenios y ejercerá el control y practicará la evaluación del cumplimiento de las mismas, evaluación que será de dominio público.
-
-La entidad evaluadora a que se refiere el artículo 10 también tendrá como función efectuar el proceso de verificación del grado de cumplimiento de las metas contenidas en los convenios de desempeño colectivo, sobre la base de los informes que sobre la materia hayan sido elaborados por el Fiscal Nacional a más tardar el quince de enero de cada año.
-
-El Fiscal Nacional, mediante resolución dictada a más tardar el diez de marzo de cada año, definirá el grado de cumplimiento de las metas establecidas para el año anterior, sobre la base del informe que emita la entidad evaluadora a que se refiere el artículo 10, acerca del grado de cumplimiento del compromiso de desempeño colectivo.
-
-La regulación del componente variable del bono de desempeño colectivo quedará sujeta a la normativa que al efecto fije, en el ejercicio de sus facultades, el Fiscal Nacional.
+La regulación del componente variable del bono de desempeño individual quedará sujeta a la normativa que al efecto fije, en el ejercicio de sus facultades, el Fiscal Nacional.
 
 #### Artículo 17
 
-El componente base del bono por desempeño colectivo se pagará mensualmente y se determinará aplicando el porcentaje señalado en el literal a) del artículo precedente sobre el total de la remuneración bruta mensual de carácter permanente correspondiente a los fiscales y funcionarios del Ministerio Público, percibida en el mes respectivo. Se tendrá derecho a este componente mientras se preste servicios en el Ministerio Público, con independencia del hecho de que se haya participado en el proceso de evaluación que da derecho al componente variable a que se refiere el artículo siguiente.
+El componente base del bono por desempeño individual se pagará mensualmente y se determinará aplicando el porcentaje señalado en el literal a) del artículo precedente sobre el total de la remuneración bruta mensual de carácter permanente correspondiente a los fiscales y funcionarios del Ministerio Público, percibida en el mes respectivo. Se tendrá derecho a este componente mientras se preste servicios en el Ministerio Público, con independencia del hecho de que se haya participado en el proceso de evaluación que da derecho al componente variable a que se refiere el artículo siguiente.
 
 #### Artículo 18
 
-El componente variable del bono por desempeño colectivo se pagará en el mes de marzo del año siguiente a la evaluación respectiva a quienes se encuentren en servicio a la fecha del pago, y se determinará aplicando el porcentaje señalado en el literal b) del artículo 16 sobre el total de la remuneración bruta anual de carácter permanente correspondiente a los fiscales y funcionarios del Ministerio Público, percibidas durante el año inmediatamente anterior a su pago, y según el grado de cumplimiento del convenio de desempeño colectivo de acuerdo con lo establecido en el inciso siguiente.
-
-El cumplimiento de las metas del año precedente fijadas en el convenio de desempeño colectivo, tanto de las fiscalías regionales como de la Fiscalía Nacional, darán derecho al 2,3% a que se refiere la letra b) del artículo 16 a los fiscales y funcionarios del Ministerio Público que formen parte de la fiscalía respectiva, siempre que la fiscalía haya alcanzado un grado de cumplimiento igual o superior al 90% de las metas anuales fijadas en el respectivo convenio colectivo. Si dicho grado de cumplimiento fuere inferior al 90%, pero igual o superior a un 75%, el porcentaje que corresponda pagar por el componente variable a que se refiere la letra b) del artículo 16 será de 1,15%. Todo cumplimiento inferior al 75% no dará derecho al componente variable del bono por desempeño colectivo.
-
-El grado de cumplimiento de cada meta se determinará comparando la cifra efectiva alcanzada al treinta y uno de diciembre del año respectivo con la cifra comprometida en el convenio de desempeño colectivo. El valor máximo que podrá alcanzar el grado de cumplimiento de una meta será igual a 100%.
-
-El grado de cumplimiento global del convenio de desempeño colectivo se calculará multiplicando el grado de cumplimiento de cada meta, determinado según lo establecido en inciso anterior, por el ponderador que le haya sido asignado, sumándose luego a cada uno de esos resultados parciales.
+El componente variable del bono por desempeño individual se pagará en el mes de marzo del año siguiente a la evaluación respectiva a quienes se encuentren en servicio a la fecha del pago, y se determinará aplicando el porcentaje señalado en el literal b) del artículo 16 sobre el total de la remuneración bruta anual de carácter permanente correspondiente a los fiscales y funcionarios del Ministerio Público, percibidas durante el año inmediatamente anterior a su pago.
 
 #### Artículo 19
 
-No tendrán derecho al bono por desempeño colectivo el Fiscal Nacional ni el Director Ejecutivo Nacional.
+No tendrán derecho al bono por desempeño individual el Fiscal Nacional ni el Director Ejecutivo Nacional.
 
 #### Artículo 20
 
-Los montos que se perciban por concepto de los bonos de gestión institucional y por desempeño colectivo sea en su componente base o variable, o ambos a la vez, no servirán de base de cálculo de ninguna otra remuneración. Tendrán el carácter de tributables e imponibles para fines de previsión y salud. Para determinar los impuestos e imposiciones a que se encuentren afectos el bono por gestión institucional y el componente variable del bono por desempeño colectivo, se distribuirá su monto en los meses que comprenda el período que corresponda y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducirán de la parte que, sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad.
+Los montos que se perciban por concepto de los bonos de gestión institucional y por desempeño individual sea en su componente base o variable, o ambos a la vez, no servirán de base de cálculo de ninguna otra remuneración. Tendrán el carácter de tributables e imponibles para fines de previsión y salud. Para determinar los impuestos e imposiciones a que se encuentren afectos el bono por gestión institucional y el componente variable del bono por desempeño individual, se distribuirá su monto en los meses que comprenda el período que corresponda y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducirán de la parte que, sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad.
 
 #### Artículo 21
 
-El personal que perciba los bonos de gestión institucional y por desempeño colectivo sea en su componente base o variable, o ambos a la vez, tendrá derecho a una bonificación no imponible destinada a compensar las deducciones por concepto de cotizaciones para pensiones y salud a que ellos estén afectos, cuyo monto será el que resulte de aplicar los siguientes porcentajes sobre el valor de dichos bonos, según sea el sistema o régimen previsional de afiliación del trabajador:
+El personal que perciba los bonos de gestión institucional y por desempeño individual sea en su componente base o variable, o ambos a la vez, tendrá derecho a una bonificación no imponible destinada a compensar las deducciones por concepto de cotizaciones para pensiones y salud a que ellos estén afectos, cuyo monto será el que resulte de aplicar los siguientes porcentajes sobre el valor de dichos bonos, según sea el sistema o régimen previsional de afiliación del trabajador:
 
 a) 20,5% para los afiliados al sistema del decreto ley Nº3.500, de 1980.
 
@@ -184,11 +162,7 @@ Para el personal afiliado a un sistema o régimen previsional diferente de los s
 
 #### Artículo 22
 
-De conformidad a lo previsto en el artículo 90 de la ley N° 19.640, el presupuesto anual del Ministerio Público consultará los recursos necesarios para el pago del bono por desempeño colectivo. Los recursos necesarios para el pago del bono por gestión institucional conforme al cumplimiento que para las metas correspondientes se determine de acuerdo con el artículo 14 precedente, se fijarán anualmente, en el mes de marzo, mediante un decreto del Ministerio de Hacienda expedido bajo la fórmula por "orden del Presidente de la República".
-
-#### Artículo 23
-
-Un reglamento, que será aprobado mediante resolución del Fiscal Nacional, establecerá los criterios para determinar las siguientes materias relativas al bono de gestión institucional y de desempeño colectivo: los mecanismos de control y evaluación de los objetivos de gestión; la forma de medir y ponderar los distintos elementos o indicadores a considerar; la manera de determinar los distintos porcentajes de este incremento; los procedimientos y el calendario de elaboración, fijación y evaluación de los objetivos de gestión a alcanzar; los mecanismos de participación de los funcionarios y de sus asociaciones, y toda otra norma necesaria para el adecuado otorgamiento del bono de gestión institucional. Para la dictación de este reglamento, la autoridad del Ministerio Público tomará en consideración la opinión de la Instancia Técnica.
+De conformidad a lo previsto en el artículo 90 de la ley N° 19.640, el presupuesto anual del Ministerio Público consultará los recursos necesarios para el pago del bono por desempeño individual. Los recursos necesarios para el pago del bono por gestión institucional conforme al cumplimiento que para las metas correspondientes se determine de acuerdo con el artículo 14 precedente, se fijarán anualmente, en el mes de marzo, mediante un decreto del Ministerio de Hacienda expedido bajo la fórmula por .orden del Presidente de la República..
 
 DISPOSICIONES TRANSITORIAS
 

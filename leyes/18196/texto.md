@@ -96,6 +96,8 @@ A contar del 1° de enero de 1983, respecto de los trabajadores regidos por el d
 
 A contar del 1° de enero de 1984, el Fondo Nacional de Salud deberá pagar al Servicio o Institución empleadora, igual suma respecto de los funcionarios que hagan uso del referido beneficio y que no estén afiliados a una Institución de Salud Previsional.
 
+Lo dispuesto en este artículo se aplicará en los mismos términos respecto de los funcionarios que hagan uso del permiso postnatal parental a que se refiere el artículo 197 bis del Código del Trabajo.
+
 Los pagos que correspondan conforme a los incisos anteriores deberán ser efectuados dentro de los diez primeros días del mes siguiente a aquel en que se haya ingresado la presentación de cobro respectiva.
 
 Las cantidades que no se paguen oportunamente, se reajustarán en el mismo porcentaje en que hubiere variado el índice de precios al consumidor, determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice y devengarán interes corriente.
