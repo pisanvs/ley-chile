@@ -40,39 +40,9 @@ Las referidas resoluciones de cobranzas de deudas previsionales podrán ser firm
 
 > **Nota.** NOTA 1: El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
-#### Artículo 2 bis
-
-Para hacer efectiva la obligación de seguir las acciones tendientes al cobro de las cotizaciones adeudadas y sus reajustes e intereses, las Administradoras de Fondos de Pensiones deberán mantener y financiar un sistema único de gestión de las acciones de cobranza de cotizaciones adeudadas de aquellas señaladas en el Título III del decreto ley N° 3.500, de 1980, denominado Sistema Único de Cobranza de Cotizaciones, en la forma establecida por el inciso décimo cuarto del artículo 19 del citado decreto ley. El Instituto de Previsión Social, respecto de la cotización establecida para el Seguro Social Previsional, participará en el Sistema Único y contribuirá a su financiamiento en las mismas condiciones y con las mismas facultades y obligaciones que las Administradoras.
-
-#### Artículo 2 ter
-
-En los casos en que un empleador adeude cotizaciones previsionales a trabajadores que se encuentran incorporados a distintas Administradoras de Fondos de Pensiones, éstas deberán demandar el cobro de las cotizaciones adeudadas conjuntamente, en un mismo juicio, y utilizarán para ese efecto el Sistema Único de Cobranzas de Cotizaciones de acuerdo con lo establecido en el artículo precedente, para lo cual actuarán representadas por un mandatario común. Regirán en tal caso las normas contenidas en el Título III del Libro Primero del Código de Procedimiento Civil.
-
-El Instituto de Previsión Social deberá demandar el cobro de las cotizaciones adeudadas del Seguro Social Previsional, por intermedio del Sistema a que se refiere el inciso anterior, conjuntamente con las Administradoras, en la forma a que se refiere dicho inciso.
-
-#### Artículo 2 quáter
-
-Para efectos de emitir la resolución fundada a que se refiere el artículo 2 e incoar la demanda unificada de cobro de cotizaciones, las Administradoras de Fondos de Pensiones y el Instituto de Previsión Social, a través del Sistema Único de Cobranza de Cotizaciones, deberán facultar al mandatario común para que emita en los mismos términos una Resolución Única, la que deberá:
-
-1. Individualizar a los trabajadores cuyas cotizaciones son objeto de cobro unificado.
-
-2. Indicar la o las faenas, obras, industrias, negocios o explotaciones a que las cotizaciones se refieren.
-
-3. Singularizar los períodos que comprenden las cotizaciones adeudadas, los montos de las remuneraciones por las cuales se estuviere adeudando cotizaciones y el lugar o domicilio en que se prestaron los servicios.
-
-4. Individualizar a cada una de las entidades que concurren a la cobranza unificada en la misma resolución.
-
-Para estos efectos, se entenderá legitimado activo al mandatario emisor de la Resolución Única.
-
-Los períodos incluidos en la Resolución Única deberán corresponder al mismo año calendario para todas las entidades, trabajadores y un mismo demandado.
-
-Las Administradoras de Fondos de Pensiones y el Instituto de Previsión Social no podrán emitir una Resolución Única de cobro de cotizaciones cuando previamente se ha presentado demanda por el mismo período y trabajador.
-
-La presentación de la demanda unificada no podrá comprender más de una Resolución Única.
-
 #### Artículo 3°
 
-Para los efectos dispuestos en el artículo 2, las cotizaciones que no fueren enteradas oportunamente se calcularán por las instituciones de seguridad social y se pagarán por los empleadores conforme a la tasa que haya regido a la fecha en que se devengaron las remuneraciones a que corresponden las imposiciones.
+Para los efectos dispuestos en el artículo anterior, las cotizaciones que no fueren enteradas oportunamente se calcularán por las instituciones de seguridad social y se pagarán por los empleadores conforme a la tasa que haya regido a la fecha en que se devengaron las remuneraciones a que corresponden las imposiciones.
 
 Se presumirá de derecho que se han efectuado los descuentos a que se refiere ese mismo artículo, por el solo hecho de haberse pagado total o parcialmente las respectivas remuneraciones a los trabajadores. Si se hubiere omitido practicar dichos descuentos, será de cargo del empleador el pago de las sumas que por tal concepto se adeuden.
 
@@ -110,27 +80,15 @@ Una vez deducida la acción, el tribunal procederá de oficio en todas las etapa
 
 Acogida la acción, e incoada en el tribunal, no podrá alegarse por ninguna de las partes el abandono del procedimiento.
 
-Sin embargo, cuando el juez constate y califique en forma incidental, en el mismo proceso y mediante resolución fundada, que la institución de previsión o seguridad social actuó negligentemente en el cobro judicial de las cotizaciones previsionales o de seguridad social y esta situación ha originado un perjuicio previsional directo al trabajador, ordenará que entere en el fondo respectivo el monto total de la deuda que se dejó de cobrar, con los reajustes e intereses asociados a ella, sin perjuicio de la facultad de la institución de previsión o seguridad social de repetir en contra del empleador deudor.
+Sin embargo cuando el juez constate y califique en forma incidental, en el mismo proceso y mediante resolución fundada, que la institución de previsión o seguridad social actuó negligentemente en el cobro judicial de las cotizaciones previsionales o de seguridad social y esta situación ha originado un perjuicio previsional directo al trabajador, ordenará que entere en el fondo respectivo, el monto total de la deuda que se dejó de cobrar, con los reajustes e intereses asociados a ella, sin perjuicio de la facultad de la institución de previsión o seguridad social de repetir en contra del empleador deudor.
 
 Se entenderá que existe negligencia de la institución de previsión o seguridad social cuando:
 
-a) No presenta demanda ejecutiva dentro del plazo de prescripción, si se trata de las cotizaciones declaradas y no pagadas, o no inicia las acciones ejecutivas promovidas por el trabajador conforme al artículo 4.
+- No entabla demanda ejecutiva dentro del plazo de prescripción, tratándose de las cotizaciones declaradas y no pagadas, o no continúa las acciones ejecutivas iniciadas por el trabajador en el plazo señalado en el artículo anterior.
 
-b) No solicita la medida cautelar especial establecida en el artículo 25 bis.
+- No solicita la medida cautelar especial a que alude el artículo 25 bis de la presente ley y ello genera perjuicio directo al trabajador, lo que será calificado por el juez.
 
-c) No interpone recurso de apelación conforme al artículo 8.
-
-d) No verifica créditos previsionales o de seguridad social, en el período ordinario en el procedimiento concursal del deudor, conforme a la ley N° 20.720, cuando corresponda.
-
-e) No notifica injustificadamente la demanda dentro del término de seis meses desde la resolución que le da curso.
-
-f) Paraliza la tramitación del juicio por un período superior a seis meses, ocasionado por la omisión o falta de oportunidad de gestiones procesales útiles tendientes a obtener el pago del crédito.
-
-La declaración de negligencia requerirá perjuicio previsional directo; se tramitará en la causa previsional o en el reclamo respectivo conforme a las reglas de los incidentes, por cuerda separada, y dará traslado a la institución de previsión o seguridad social.
-
-Esta declaración podrá ser iniciada por el juez, de oficio, o a petición del trabajador o su representante legal, para lo cual no será necesario patrocinio de abogado.
-
-Ejecutoriada la resolución que declara la negligencia, la institución de previsión o seguridad social deberá cumplirla dentro del plazo de cinco días, de conformidad con lo señalado en el inciso primero de este artículo.
+- No interpone los recursos legales pertinentes que franquea la ley y de ello se derive un perjuicio previsional directo para el trabajador.
 
 > **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que la incorporación del presente artículo entrará en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
@@ -158,7 +116,7 @@ En este procedimiento no procederán las reservas de acciones a que se refieren 
 
 #### Artículo 5° bis
 
-En este procedimiento, salvo en los casos de demanda unificada de cotizaciones prevista en los artículos 2 bis, 2 ter y 2 quáter, requerido de pago el deudor en conformidad al artículo 6º, la institución ejecutante podrá ampliar la demanda, incluyendo resoluciones de cobranza que se dicten respecto del mismo ejecutado que sean posteriores a aquélla o aquéllas que dieron origen a la ejecución, como asimismo, resoluciones fundadas en el Nº 2 del artículo anterior. En este caso, el nuevo requerimiento de pago se notificará por cédula o por otro medio que las partes designen.
+En este procedimiento, requerido de pago el deudor en conformidad al artículo 6º, la institución ejecutante podrá ampliar la demanda, incluyendo resoluciones de cobranza que se dicten respecto del mismo ejecutado que sean posteriores a aquélla o aquéllas que dieron origen a la ejecución, como asimismo, resoluciones fundadas en el Nº 2 del artículo anterior. En este caso, el nuevo requerimiento de pago se notificará por cédula o por otro medio que las partes designen.
 
 La oposición que se formule en este caso se tramitará por cuerda separada, sin que se suspenda el cuaderno de apremio respecto de aquellas resoluciones en las que no se opusieron excepciones o éstas fueron rechazadas.
 
@@ -166,21 +124,15 @@ La oposición que se formule en este caso se tramitará por cuerda separada, sin
 
 #### Artículo 6°
 
-La forma de las notificaciones se regirá por las normas establecidas en el Libro Primero del Código de Procedimiento Civil. No obstante, la notificación de la demanda y el requerimiento de pago se efectuarán por el modo dispuesto en el artículo 437 del Código del Trabajo, y será para estos efectos lugar habilitado cualquier domicilio que el empleador tenga registrado en la institución de previsión o de seguridad social.
+La forma de las notificaciones se regirá por las normas establecidas en el Libro I del Código de Procedimiento Civil. El requerimiento de pago podrá efectuarse personalmente o por cédula. Dichas actuaciones y las demás en que deba intervenir un ministro de fe, podrán realizarse por un empleado del mismo tribunal o por un receptor judicial.
 
-Con todo, a solicitud del ejecutante, la notificación de la demanda y requerimiento de pago podrá ser realizada por el tribunal mediante envío de correo electrónico a una casilla digital designada para tal efecto, siempre que el empleador lo haya autorizado previa y expresamente mediante declaración contenida en la planilla de pago de cotizaciones, la cual deberá acompañarse a la demanda.
+En todo caso, si alguna de las partes así lo solicita y el tribunal accede a ello, las notificaciones a su respecto podrán realizarse por medios electrónicos, o algún otro que la parte designe.
 
-En todo caso, si alguna de las partes así lo solicita y el tribunal accede a ello, las notificaciones a su respecto podrán realizarse por medios electrónicos, o por algún otro medio que la parte designe.
+La ejecutante pagará a los funcionarios a que se refiere el inciso primero, por cada actuación en que intervengan, los derechos que fije el arancel establecido por la Corte de Apelaciones respectiva, sin perjuicio de lo que en definitiva se resuelva sobre la carga de las costas.
 
-La ejecutante pagará al ministro de fe por cada actuación en que intervenga, los derechos que fije el arancel establecido por la Corte de Apelaciones respectiva, sin perjuicio de lo que en definitiva se resuelva sobre la carga de las costas.
+La notificación de la demanda, del requerimiento de pago y de la sentencia de primera instancia, podrá realizarse, excepcionalmente y sólo en localidades rurales donde exista difícil acceso para un receptor o empleado del tribunal, por Carabineros. Será también lugar hábil para efectuar el requerimiento de pago, cualquier domicilio que el empleador tenga registrado en la institución de seguridad social.
 
-La notificación de la demanda, del requerimiento de pago y de la sentencia de primera instancia podrá realizarse, excepcionalmente, por Carabineros de Chile, sólo en localidades rurales donde exista difícil acceso para un receptor o empleado del tribunal.
-
-Ningún empleado del mismo tribunal podrá practicar notificaciones, requerimientos de pago y demás actuaciones a petición de las instituciones de previsión o seguridad social, a menos que el juez se las asigne mediante resolución fundada o que la parte ejecutante sea el propio trabajador.
-
-Se entenderá notificado tácitamente de la demanda el empleador que, sin haber sido notificado judicialmente de ésta, consigne pagos de cotizaciones en el tribunal e identifique la causa en tramitación. En estos casos, el tribunal autorizará a la institución de previsión o de seguridad social el retiro de los fondos consignados.
-
-Si la consignación se efectúa por un tercero, aun sin estar emplazado el deudor, el Tribunal podrá autorizar a la institución de seguridad social para retirar los fondos, pero bajo apercibimiento de restitución dentro de tercero día, acreditada que sea la extinción de la obligación u otra causa que justifique simple error en la consignación.
+En todo caso, ningún empleado del mismo tribunal podrá practicar notificaciones, requerimientos de pago y demás actuaciones a petición de las instituciones de previsión o de seguridad social, a menos que el juez se las asigne mediante resolución fundada o que la parte ejecutante sea el propio trabajador.
 
 > **Nota.** El artículo 2º Transitorio de la LEY 19250, dispuso que entrará en vigencia a partir del primer día del mes subsiguiente a su publicación, sin perjuicio de las excepciones que señala.
 
@@ -230,9 +182,11 @@ En este procedimiento, las actuaciones procesales podrán realizarse por medios 
 
 #### Artículo 11°
 
-En caso de que el empleador sea sometido a un procedimiento concursal de liquidación, no tendrá aplicación lo dispuesto en los artículos 6, 7, 8, 9, 12, 13 y 19. Las instituciones de seguridad social verificarán sus créditos de acuerdo con la norma establecida en el artículo 170 de la ley N° 20.720, efecto para el cual servirán de título suficiente los mencionados en el artículo 4.
+En caso de quiebra del empleador, no tendrá aplicación lo dispuesto en los artículos 6°, 7°, 8°, 9°, 12°, 13° y 19°. Las instituciones de seguridad social verificarán sus créditos de acuerdo con las normas establecidas en los artículos 131 y siguientes de la ley Nº 18.175, efecto para el cual servirá de suficiente título el mencionado en el artículo 4°. Los créditos podrán ser impugnados sólo fundándose en algunas de las excepciones señaladas en el artículo 5° de esta ley.
 
 No obstante, tratándose de bienes no comprendidos en el desasimiento, las instituciones de seguridad social que puedan trabar embargo sobre ellos para proveer al pago de sus créditos, podrán recurrir, en todo caso, al procedimiento general establecido en esta ley.
+
+> **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
 #### Artículo 12°
 
@@ -261,10 +215,6 @@ Tanto la orden de apremio como su suspensión, deberán ser comunicadas a la Pol
 Sin perjuicio de lo dispuesto en los artículos 12 y 14 de esta ley, se aplicarán las penas del artículo 467 del Código Penal al que en perjuicio del trabajador o de sus derechohabientes se apropiare o distrajere el dinero proveniente de las cotizaciones que se hubiere descontado de la remuneración del trabajador.
 
 > **Nota.** El artículo 5º Transitorio de la LEY 19260, dispuso que quienes hayan incurrido en alguna de las conductas tipificadas en este artículo o en el inciso final del artículo 19 del DL 3500, de 1980, permanecerán sujetos a las disposiciones penales vigentes en la oportunidad de su ocurrencia, sin perjuicio de lo establecido en el artículo 18 del Código Penal.
-
-#### Artículo 13 bis
-
-Con la misma pena establecida en el artículo anterior se sancionará al empleador que, sin el consentimiento del trabajador, omita retener o enterar las cotizaciones previsionales de un trabajador o declare ante las instituciones de seguridad social pagarle una renta imponible o bruta menor a la real, disminuyendo el monto de las cotizaciones que debe descontar y enterar. La conducta será sancionada igualmente, si el consentimiento del trabajador ha sido obtenido por el empleador con abuso grave de su situación de necesidad, inexperiencia o incapacidad de discernimiento.
 
 #### Artículo 14°
 
@@ -392,15 +342,15 @@ Cuando los trabajadores sean varios, deberá distribuirse lo pagado entre todos 
 
 Con todo, si el saldo no resultare suficiente para cubrir la totalidad de los gravámenes de un mes determinado, se abonará proporcionalmente a lo que se adeudare por cada uno de estos conceptos en dicho mes.
 
-Corresponderá aplicar la forma de imputación establecida en el presente artículo a las sumas recuperadas por las Administradoras de Fondos de Pensiones y el Instituto de Previsión Social cuando hayan actuado mediante mandatario común.
-
 Sin perjuicio de la multa establecida en el artículo 22 a) de esta ley, los reajustes, intereses y recargos que no resultaren cubiertos, se reajustarán a su vez mensualmente en el porcentaje que haya variado el índice de precios al consumidor hasta la fecha de su pago.
+
+> **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
 #### Artículo 22
 
 d). En caso que las cotizaciones no se enteren ni declaren en el plazo establecido en el inciso primero del artículo 22 de esta ley, el empleador tendrá hasta el último día hábil del mes subsiguiente del vencimiento de aquél, para acreditar ante la institución de previsión o de seguridad social respectiva la extinción de su obligación de enterar las cotizaciones de seguridad social de sus trabajadores, debido al término o suspensión de la relación laboral que mantenían. A su vez, las instituciones de previsión o de seguridad social deberán agotar las gestiones que tengan por objeto aclarar la existencia de cotizaciones de seguridad social impagas y, en su caso, obtener el pago de aquéllas de acuerdo a las normas de carácter general que emita la Superintendencia respectiva. Transcurrido el plazo de acreditación de cese o suspensión de la relación laboral, sin que el empleador haya acreditado dicha circunstancia, se presumirá sólo para los efectos de la presente ley, que las respectivas cotizaciones están declaradas y no pagadas.
 
-Si se trata de cotizaciones previsionales del sistema de pensiones del decreto ley N° 3.500, de 1980, y de la ley N° 19.728, sobre seguro de desempleo, las Administradoras de Fondos de Pensiones y la Sociedad Administradora de Fondos de Cesantía deberán agotar las gestiones que tengan por objeto aclarar la existencia de cotizaciones previsionales impagas y, en su caso, obtener el pago de aquellas. Para estos efectos, si la Administradora de Fondos de Pensiones o la Sociedad Administradora de Fondos de Cesantía no tiene constancia del término de la relación laboral de aquellos trabajadores que registran cotizaciones previsionales impagas, deberá consultar respecto de dicha circunstancia a las Administradoras de Fondos de Pensiones, a la Sociedad Administradora de Fondos de Cesantía, al Servicio de Impuestos Internos, a la Dirección del Trabajo, a la Tesorería General de la República y a las entidades que recaudan cotizaciones previsionales, de acuerdo a lo que establezca la Superintendencia de Pensiones en una norma de carácter general. Las Administradoras de Fondos de Pensiones deberán efectuar las consultas a través del Sistema Único de Cobranza de cotizaciones a que se refiere el inciso décimo cuarto del artículo 19 del decreto ley N° 3.500, de 1980. La Superintendencia establecerá, mediante norma de carácter general, las condiciones mínimas que deberán cumplir las Administradoras de Fondos de Pensiones y la Sociedad Administradora de Fondos de Cesantía para entender agotadas las gestiones de aclaración de término o suspensión de la relación laboral, para efectos de iniciar las acciones de cobranzas por mora presunta o desestimar fundadamente la presentación de demanda, sin perjuicio de los derechos que el trabajador puede ejercer dentro del término de prescripción que se establece en el artículo 31 bis. Transcurrido el plazo de acreditación de cese o suspensión de la relación laboral, establecido en el inciso anterior, sin que se haya acreditado dicha circunstancia, si se han agotado las gestiones aclaratorias en la forma establecida por la Superintendencia de Pensiones, se presumirá sólo para los efectos del presente artículo e inicio de las gestiones de cobranza conforme a las disposiciones del artículo 19 del decreto ley N° 3.500, de 1980, que las respectivas cotizaciones están declaradas y no pagadas.
+> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
 #### Artículo 22
 
@@ -470,7 +420,9 @@ Las cotizaciones y demás aportes, como asimismo sus recargos legales, que corre
 
 #### Artículo 31° bis
 
-La prescripción que extingue las acciones para el cobro de las cotizaciones de seguridad social, multas, reajustes e intereses, será de cinco años y se contará desde el término de los respectivos servicios. No obstante, en el caso en que una Administradora de Fondos de Pensiones o la Sociedad Administradora de Fondos de Cesantía haya desestimado fundadamente la presentación de una demanda, en conformidad con lo dispuesto por el inciso sexto del artículo 19 del decreto ley N° 3.500, de 1980, y por el inciso séptimo del artículo 10 de la ley N° 19.728, el trabajador tendrá el plazo de cinco años, contado desde que la Administradora de Fondos de Pensiones o la Sociedad Administradora de Fondos de Cesantía le comunique tal decisión, para presentar su demanda de cobro en caso de considerar que existen antecedentes para ello. Transcurrido ese plazo, la acción para el cobro de las cotizaciones, multas, reajuste e intereses, prescribirá.
+La prescripción que extingue las acciones para el cobro de las cotizaciones de seguridad social, multas, reajustes e intereses, será de cinco años y se contará desde el término de los respectivos servicios.
+
+> **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que la incorporación del presente artículo entrará en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
 #### Artículo 32°
 

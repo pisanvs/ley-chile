@@ -6,6 +6,8 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 Proyecto de ley:
 
+> **Nota.** El Artículo 1 de la Ley 20531, publicada el 31.08.2011, modifica la presente norma en el sentido de ordenar que a contar del día 1 de noviembre de 2011, todas las pensiones que se encuentren percibiendo o que en el futuro perciban los beneficiarios del Sistema de Pensiones Solidarias señalados en esta ley, estarán exentas de la cotización legal del artículo 85 del decreto ley Nº 3.500, de 1980.
+
 ## Título I
 
 Sobre el Sistema de Pensiones Solidarias
@@ -66,7 +68,7 @@ c) Acreditar residencia en el territorio de la República de Chile por un lapso 
 
 Para los efectos de la letra b) del artículo anterior, se entenderá que componen un grupo familiar el eventual beneficiario y las personas que tengan respecto de aquél las siguientes calidades:
 
-a) Su cónyuge;
+a) Su cónyuge o conviviente civil;
 
 b) Sus hijos menores de dieciocho años de edad, y
 
@@ -238,6 +240,12 @@ El beneficiario de pensión básica solidaria de invalidez o del aporte previsio
 
 Con todo, la pensión autofinanciada de referencia para el pensionado de invalidez en virtud del decreto ley N° 3.500, de 1980, se calculará de acuerdo a lo dispuesto en la letra g) del artículo 2° de esta ley. En este caso, el cálculo se hará a la fecha de obtención de la pensión de invalidez considerando la edad, grupo familiar y el saldo acumulado en la cuenta de capitalización individual a esa fecha e incluirá, cuando corresponda, la o las bonificaciones establecidas en el artículo 74 de la presente ley y los intereses que haya devengado a dicha fecha.
 
+#### Artículo 23 bis
+
+Sin perjuicio de lo señalado en el inciso primero del artículo 23, las personas que sean beneficiarias de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez podrán, a contar de la fecha en que cumplan sesenta y cuatro años de edad, solicitar la pensión básica solidaria de vejez o el aporte previsional solidario de vejez, según corresponda. En este caso, la mencionada pensión de vejez o el aporte previsional solidario de vejez se devengarán a contar del día primero del mes siguiente al cumplimiento de los sesenta y cinco años de edad, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión o aporte.
+
+Respecto de las personas que hayan percibido la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez durante un lapso de veinte años o más, sea en forma continua o discontinua, se entenderá cumplido el requisito de residencia establecido en la letra c) del artículo 3°.
+
 Párrafo sexto
 
 De las normas comunes del Sistema Solidario de Vejez e Invalidez y otras disposiciones
@@ -312,7 +320,7 @@ A las personas pensionadas o imponentes de los regímenes de la Caja de Previsi�
 
 Las personas que carezcan de recursos, conforme a los mismos términos establecidos en el artículo 31 de esta ley, y gocen de pensión básica solidaria de vejez causarán asignación por muerte en los términos establecidos en el decreto con fuerza de ley N° 90, de 1979, del Ministerio del Trabajo y Previsión Social.
 
-Sin embargo, si quien hubiere hecho los gastos del funeral fuere persona distinta del cónyuge, hijos o padres del fallecido, sólo tendrá derecho a tal beneficio hasta la concurrencia del monto efectivo de su gasto, con el límite establecido en el inciso primero del artículo 6° del decreto con fuerza de ley citado en el inciso anterior, quedando el saldo hasta completar dicho límite a disposición del o la cónyuge sobreviviente, y a falta de éste, de los hijos o los padres del causante.
+Sin embargo, si quien hubiere hecho los gastos del funeral fuere persona distinta del cónyuge o conviviente civil, hijos o padres del fallecido, sólo tendrá derecho a tal beneficio hasta la concurrencia del monto efectivo de su gasto, con el límite establecido en el inciso primero del artículo 6° del decreto con fuerza de ley citado en el inciso anterior, quedando el saldo hasta completar dicho límite a disposición del o la cónyuge o conviviente civil sobreviviente, y a falta de éste, de los hijos o los padres del causante.
 
 El Instituto de Previsión Social pagará el beneficio a que se refiere este artículo con cargo a los aportes fiscales que se contemplen anualmente en su presupuesto.
 
@@ -323,6 +331,10 @@ Establécese un subsidio para las personas con discapacidad mental a que se refi
 El subsidio a que se refiere el presente artículo se reajustará a partir del 1 de enero de cada año, en el cien por ciento de la variación experimentada por el índice de precios al consumidor determinado por el Instituto Nacional de Estadísticas o el organismo que lo reemplace, entre el mes de noviembre del año anteprecedente y el de octubre del año anterior a la fecha en que opere el reajuste respectivo.
 
 Corresponderá a la Superintendencia de Seguridad Social la tuición y fiscalización de la observancia de las disposiciones sobre el subsidio a que se refiere el presente artículo, la administración financiera del mismo y el control de su desarrollo presupuestario. Para estos efectos, se aplicarán las disposiciones orgánicas de la Superintendencia y aquellas establecidas en el decreto ley mencionado en el inciso primero.
+
+#### Artículo 35 bis
+
+Las personas que sean beneficiarias del subsidio al que se refiere el artículo anterior podrán, a contar de la fecha en que cumplan diecisiete años de edad, solicitar la pensión básica solidaria de invalidez y la calificación de su invalidez, conforme a lo establecido en el artículo 17. En este caso, dicha pensión se devengará a partir de la fecha en que el beneficiario cumpla dieciocho años de edad, siempre que reúna los requisitos para que la pensión le sea otorgada.
 
 #### Artículo 36
 
@@ -1116,23 +1128,27 @@ Incorpóranse en el Seguro Social contra Riesgos de Accidentes del Trabajo y Enf
 
 Los trabajadores a que se refiere el inciso precedente quedarán obligados a pagar la cotización general básica contemplada en la letra a) del artículo 15 de la ley N° 16.744, la cotización extraordinaria del 0,05% establecida por el artículo sexto transitorio de la ley N° 19.578, y la cotización adicional diferenciada que corresponda en los términos previstos en los artículos 15 y 16 de la ley N° 16.744 y en sus respectivos reglamentos.
 
-Las cotizaciones correspondientes se calcularán sobre la base de la misma renta por la cual los referidos trabajadores efectúen sus cotizaciones para pensiones y no se considerarán renta para los efectos de la Ley sobre Impuesto a la Renta. La renta mensual imponible para estos efectos no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley N° 3.500, de 1980.
+Las cotizaciones se calcularán sobre la base de la renta que declare mensualmente el trabajador independiente, sin perjuicio de lo señalado en el inciso quinto de este artículo. Estas cotizaciones no se considerarán renta para los efectos de la ley sobre Impuesto a la Renta. La renta mensual imponible para estos efectos no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley N° 3.500, de 1980.
 
-Las referidas cotizaciones deberán pagarse mensualmente ante el organismo administrador del seguro contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales establecido en la ley N° 16.744, a que se encontrare afecto el respectivo trabajador dentro de los diez primeros días del mes siguiente a aquél en que se devengó la renta imponible. Cuando dicho plazo venza en día sábado, domingo o festivo, se prorrogará hasta el primer día hábil siguiente.
+Las referidas cotizaciones deberán pagarse mensualmente ante el organismo administrador del seguro contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales establecido en la ley N° 16.744, a que se encontrare afecto el respectivo trabajador, hasta el último día hábil del mes calendario siguiente a aquél a que corresponde la renta declarada.
 
 Con todo, para estos trabajadores independientes, se practicará cada año una reliquidación para determinar las diferencias que existieren entre la renta imponible sobre la que cotizaron en el año calendario anterior y la renta imponible anual señalada en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, determinada con los ingresos de dicho año calendario.
 
 En el caso que dichos trabajadores independientes no hubieren realizado los pagos mensuales correspondientes o que de la reliquidación practicada existieren rentas imponibles sobre las que no se hubieren efectuado las cotizaciones a que se refiere el inciso segundo, se procederá de acuerdo al artículo 92 F del decreto ley N° 3.500, de 1980, debiendo el Servicio de Impuestos Internos comunicar a la Tesorería General de la República la individualización de los afiliados independientes que deban pagar dichas cotizaciones, el monto a pagar por dichos conceptos y el correspondiente organismo administrador. La Tesorería General de la República deberá enterar al respectivo organismo administrador las correspondientes cotizaciones, con cargo a las cantidades retenidas conforme a lo dispuesto en dicha norma y hasta el monto en que tales recursos alcancen para realizar el pago.
 
-Asimismo, para los trabajadores a que se refiere este artículo, se reliquidarán los beneficios pecuniarios que se hubiesen devengado en su favor en el año calendario precedente, si procediere. Para tal efecto, se considerarán como base de cálculo de los citados beneficios, las rentas imponibles a que se refiere el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, determinadas con los ingresos de el o los respectivos años calendarios. Con todo, sólo procederá el pago de los beneficios adicionales que procedan en virtud de la reliquidación, una vez verificado que el beneficiario se encuentra al día en el pago de sus cotizaciones de seguridad social.
+Asimismo, para los trabajadores a que se refiere este artículo, se reliquidarán o concederán los beneficios pecuniarios del Seguro Social a que se refiere la ley Nº 16.744 que le hubieren correspondido en el año calendario precedente, si procediere. Para tal efecto, se considerarán como base de cálculo de los citados beneficios, las rentas imponibles a que se refiere el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, determinadas con los ingresos de el o los respectivos años calendarios. Con todo, sólo procederá el pago de los beneficios adicionales que procedan en virtud de la reliquidación, una vez verificado que el beneficiario se encuentra al día en el pago de sus cotizaciones para el Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley Nº 16.744.
 
-El organismo administrador correspondiente perseguirá el cobro de las cotizaciones que se le adeudaren de conformidad a las normas establecidas en el artículo 92 H del decreto ley N° 3.500, de 1980, para las Administradoras de Fondos de Pensiones.
+Los trabajadores independientes a que se refiere este artículo, en forma previa al entero de la primera cotización para el referido seguro, deberán registrarse en alguno de los organismos administradores del Seguro Social de la ley Nº 16.744. Para efectos de la reliquidación, los trabajadores independientes que no se encuentren adheridos a una mutualidad de empleadores se entenderán afiliados al Instituto de Seguridad Laboral.
 
-En todo caso, para tener derecho a las prestaciones de la ley N° 16.744, los trabajadores independientes de que trata el presente artículo requerirán estar al día en el pago de las cotizaciones a que se refiere el inciso segundo. Para tal efecto, se considerará que se encuentran al día quienes no registren un atraso superior a dos meses.
+Para tener derecho a las prestaciones de la ley Nº 16.744, los trabajadores independientes de que trata el presente artículo deberán estar registrados en un organismo administrador con anterioridad al accidente o al diagnóstico de la enfermedad. Además, deberán haber enterado la cotización correspondiente al mes anteprecedente a aquél en que ocurrió el accidente o tuvo lugar el diagnóstico de la enfermedad profesional, o haber pagado, a lo menos, seis cotizaciones, continuas o discontinuas, en los últimos doce meses anteriores a los mencionados siniestros, sea que aquéllas se hayan realizado en virtud de su calidad de trabajador independiente o dependiente.
+
+Con todo, el trabajador que se afilia por primera vez al Seguro Social de la ley Nº 16.744 en su calidad de independiente, durante los tres primeros meses posteriores a su registro, accederá a las prestaciones de aquél siempre que pague, a lo menos, las cotizaciones del mes en que ocurrió el accidente o se diagnosticó la enfermedad de que se trate, conforme a lo dispuesto en el inciso anterior.
 
 #### Artículo 89
 
-Lo dispuesto en los incisos primero al cuarto y final del artículo precedente, será aplicable a los trabajadores independientes a que se refiere el inciso tercero del artículo 90 del decreto ley N° 3.500, de 1980, los que podrán efectuar las cotizaciones a que se refiere el inciso segundo del artículo 88 de esta ley, siempre que en el mes correspondiente coticen para pensiones y salud.
+Lo dispuesto en los incisos primero, segundo, cuarto, octavo, noveno y final del artículo precedente, será aplicable a los trabajadores independientes a que se refiere el inciso tercero del artículo 90 del decreto ley N° 3.500, de 1980, los que podrán efectuar las cotizaciones a que se refiere el inciso segundo del artículo 88 de esta ley, siempre que en el mes correspondiente coticen para pensiones y salud.
+
+Las cotizaciones correspondientes se calcularán sobre la base de la misma renta por la cual los referidos trabajadores efectúen sus cotizaciones para pensiones y no se considerarán renta para los efectos de la ley sobre Impuesto a la Renta. La renta mensual imponible para estos efectos no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley Nº 3.500, de 1980.
 
 Queda prohibido a los respectivos organismos administradores recibir las cotizaciones de los afiliados independientes a que se refiere el presente artículo, que no fueren enteradas dentro de los plazos a que se refiere el inciso anterior.
 
@@ -2876,6 +2892,8 @@ Artículo duodécimo.- Las personas que, a la fecha de entrada en vigencia del T
 
 Las pensiones mínimas señaladas en el inciso anterior, son incompatibles con el sistema de pensiones solidarias. Sin embargo, las personas beneficiarias de dicha pensión mínima que cumplan con los requisitos establecidos para acceder al sistema solidario, podrán acogerse a él, renunciando en la respectiva solicitud a la mencionada garantía estatal.
 
+Lo dispuesto en la oración final del inciso primero no será aplicable a los convivientes civiles.
+
 #### Artículo décimo
 
 tercero.- A contar del 1 de julio de 2008 y hasta el 30 de junio de 2009, la pensión básica solidaria de vejez ascenderá a $ 60.000 y la pensión máxima con aporte solidario ascenderá a $ 70.000 El porcentaje establecido en la letra b) del artículo 3° será de 40%, para este mismo período.
@@ -3020,19 +3038,21 @@ Disposiciones transitorias del Título IV sobre la obligación de cotizar de los
 
 Artículo vigésimo noveno.- El Título IV de esta ley entrará en vigencia a contar del día 1 de enero del cuarto año siguiente, contado desde la fecha de publicación de la presente ley.
 
-Durante los tres primeros años de la entrada en vigencia del Título señalado en el inciso anterior, los trabajadores a que se refiere el inciso primero del artículo 89 del decreto ley N° 3.500, de 1980, deberán efectuar las cotizaciones del Título III del mencionado decreto ley, de acuerdo a lo dispuesto en el artículo 92 F de dicho decreto ley, salvo que en forma expresa manifiesten lo contrario. La Superintendencia de Pensiones mediante una norma de carácter general establecerá el procedimiento para el ejercicio de este derecho.
+Durante los seis primeros años de la entrada en vigencia del Título señalado en el inciso anterior, los trabajadores a que se refiere el inciso primero del artículo 89 del decreto ley N° 3.500, de 1980, deberán efectuar las cotizaciones del Título III del mencionado decreto ley, de acuerdo a lo dispuesto en el artículo 92 F de dicho decreto ley, salvo que en forma expresa manifiesten lo contrario. La Superintendencia de Pensiones mediante una norma de carácter general establecerá el procedimiento para el ejercicio de este derecho.
 
-Para efectos del inciso anterior, la renta imponible será la establecida en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, multiplicada por 0,4; 0,7; y 1 para el primer, segundo y tercer año posterior a la entrada en vigencia de las disposiciones señaladas en el inciso primero, respectivamente. No obstante durante el primer y segundo año, los trabajadores independientes a que se refiere el presente artículo, podrán efectuar las cotizaciones a que se refiere el Título III del decreto ley N° 3.500, de 1980, en forma voluntaria, por un monto superior al señalado precedentemente, no pudiendo exceder en total el límite máximo imponible señalado en el inciso primero del artículo 90 de dicho decreto ley.
+Para efectos del inciso anterior, la renta imponible de las cotizaciones para pensión será la establecida en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, multiplicada por 0,4 y 0,7 para el primer y segundo año y 1 para el tercer, cuarto, quinto y sexto año posterior a la entrada en vigencia de las disposiciones señaladas en el inciso primero, respectivamente. No obstante durante el primer y segundo año, los trabajadores independientes a que se refiere el presente artículo, podrán efectuar las cotizaciones a que se refiere el Título III del decreto ley N° 3.500, de 1980, en forma voluntaria, por un monto superior al señalado precedentemente, no pudiendo exceder en total el límite máximo imponible señalado en el inciso primero del artículo 90 de dicho decreto ley.
 
-Desde el cuarto año de la entrada en vigencia del Título mencionado en el inciso primero, dichos trabajadores estarán obligados a efectuar las cotizaciones del Título III del decreto ley N°3.500, de 1980, de acuerdo a lo dispuesto en el artículo 92 F. La cotización del 7% para financiar prestaciones de salud se realizará de acuerdo a lo dispuesto en el artículo 86 de la presente ley, a contar del día 1 de enero del séptimo año posterior a la entrada en vigencia de las disposiciones señaladas en el inciso primero. Con anterioridad a dicha fecha estas cotizaciones se realizarán de acuerdo a las normas vigentes a la época de publicación de la presente ley.
+Desde el séptimo año de la entrada en vigencia del Título mencionado en el inciso primero, dichos trabajadores estarán obligados a efectuar las cotizaciones del Título III del decreto ley N°3.500, de 1980, de acuerdo a lo dispuesto en el artículo 92 F.
 
 Con todo, no regirán las obligaciones a que se refieren los incisos precedentes, para aquellos trabajadores que tengan 55 años o más, en el caso de los hombres, o 50 años o más, en el caso de las mujeres, a la fecha a que se refiere el inciso primero.
 
-Artículo trigésimo.- Para los trabajadores independientes señalados en el artículo 89 del decreto ley N° 3.500, de 1980, las cotizaciones a que se refiere el inciso segundo del artículo 88 de esta ley, se efectuarán conforme a lo dispuesto en dicha norma con la misma gradualidad y en las mismas condiciones establecidas en los incisos segundo al cuarto del artículo precedente. Asimismo, será aplicable lo dispuesto en el inciso final del artículo vigésimo noveno transitorio.
+Artículo trigésimo.- Hasta el 31 de diciembre del año 2017, los trabajadores independientes señalados en el artículo 89 del decreto ley Nº 3.500, de 1980, podrán pagar la cotización del siete por ciento para financiar prestaciones de salud y la cotización para el Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales de la ley Nº 16.744, en forma mensual e independiente. Estos pagos se realizarán sobre la renta imponible que declaren para cada una de estas cotizaciones, la que no podrá ser inferior a un ingreso mínimo mensual ni superior al límite imponible del artículo 16 del decreto ley Nº 3.500, de 1980.
+
+En el período señalado en el inciso anterior, no se practicarán las reliquidaciones señaladas en el inciso quinto tanto del artículo 92 del decreto ley Nº 3.500, de 1980, como del artículo 88 de este cuerpo legal.
 
 Lo dispuesto en el artículo 89 de esta ley entrará en vigencia a partir del primer día del séptimo mes siguiente a la publicación de esta ley. Asimismo, a contar de dicha fecha y hasta el 31 de diciembre de 2011, podrán acogerse a lo dispuesto en el referido artículo los trabajadores independientes señalados en el artículo 89 del decreto ley N° 3.500, de 1980, conforme a su texto vigente a la fecha de publicación de la presente ley.
 
-Artículo trigésimo primero.- A contar del primer día del séptimo mes siguiente a la publicación de esta ley, a los trabajadores independientes afiliados a regímenes de pensiones administrados por el Instituto de Normalización Previsional, que se encuentren afectos al seguro de la ley N° 16.744, les serán aplicables las normas establecidas en los incisos segundo al cuarto y final del artículo 88 de esta ley. En todo caso, el límite máximo de la renta imponible será el contemplado en el artículo 1° de la ley N° 18.095.
+Artículo trigésimo primero.- A contar del primer día del séptimo mes siguiente a la publicación de esta ley, a los trabajadores independientes afiliados a regímenes de pensiones administrados por el Instituto de Normalización Previsional, que se encuentren afectos al seguro de la ley N° 16.744, les serán aplicables las normas establecidas en los incisos segundo, cuarto y noveno del artículo 88 de esta ley. La base imponible y el límite mínimo y máximo para el pago de las cotizaciones de que se trata, se regirán por lo dispuesto en el artículo 1° de la ley N° 18.095.
 
 Párrafo Quinto
 

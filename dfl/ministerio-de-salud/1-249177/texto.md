@@ -2016,7 +2016,7 @@ a) Los trabajadores dependientes de los sectores público y privado. Tratándose
 
 En todo caso, los trabajadores dependientes contratados diariamente por turnos o jornadas, que registren, al menos, sesenta días de cotizaciones en los doce meses calendario anteriores, mantendrán la calidad de afiliados durante los doce meses siguientes a aquel correspondiente a la última cotización;
 
-b) Los trabajadores independientes que coticen en cualquier régimen legal de previsión;
+b) Los trabajadores independientes que coticen para salud;
 
 c) Las personas que coticen en cualquier régimen legal de previsión en calidad de imponentes voluntarios, y
 
@@ -2172,9 +2172,9 @@ Tratándose de los trabajadores independientes a que se refiere el artículo 135
 
 1.- Contar con una licencia médica autorizada;
 
-2.- Tener doce meses de afiliación previsional anteriores al mes en el que se inicia la licencia;
+2.- Tener doce meses de afiliación a salud anteriores al mes en el que se inicia la licencia;
 
-3.- Haber enterado al menos seis meses de cotizaciones continuas o discontinuas dentro del período de doce meses de afiliación previsional anterior al mes en que se inició la licencia, y
+3.- Haber enterado al menos seis meses de cotizaciones continuas o discontinuas dentro del período de doce meses de afiliación a salud anterior al mes en que se inició la licencia, y
 
 4.- Estar al día en el pago de las cotizaciones. Se considerará al día al trabajador que hubiere pagado la cotización correspondiente al mes anterior a aquél en que se produzca la incapacidad.
 
@@ -2190,7 +2190,7 @@ El trabajador requerirá el pago del subsidio por incapacidad laboral en el resp
 
 Si la licencia se otorga en virtud de una enfermedad que ocasiona una pérdida parcial de la capacidad laboral y por ende dispone un reposo parcial, el subsidio y la remuneración se calcularán en proporción al tiempo de reposo, debiendo el empleador pagar lo que corresponda al período de la jornada efectivamente trabajada.
 
-Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones previsionales, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia.
+Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones para salud, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia.
 
 Si dentro de dicho período sólo se registraren uno o dos meses con rentas y/o subsidios, para determinar el límite del subsidio diario se dividirá por 30 ó 60 respectivamente.
 

@@ -24,7 +24,7 @@ INCISO DEROGADO
 
 #### Artículo 2°
 
-El inicio de la labor del trabajador no afiliado genera la afiliación automática al Sistema y la obligación de cotizar en una Administradora de Fondos de Pensiones, sin perjuicio de lo dispuesto para los independientes.
+El inicio de la labor del trabajador no afiliado genera la afiliación automática al Sistema y la obligación de cotizar en una Administradora de Fondos de Pensiones, sin perjuicio de lo dispuesto para los afiliados voluntarios.
 
 La afiliación es la relación jurídica entre un trabajador y el Sistema de Pensiones de Vejez, Invalidez y Sobrevivencia que origina los derechos y obligaciones que la ley establece, en especial, el derecho a las prestaciones y la obligación de cotización.
 
@@ -84,7 +84,7 @@ Sin perjuicio de lo establecido en esta ley, las afiliadas mayores de sesenta y 
 
 #### Artículo 5°
 
-Serán beneficiarios de pensión de sobrevivencia, los componentes del grupo familiar del causante, entendiéndose por tal, el o la cónyuge sobreviviente, los hijos de filiación matrimonial, de filiación no matrimonial o adoptivos, los padres y la madre o el padre de los hijos de filiación no matrimonial del causante.
+Serán beneficiarios de pensión de sobrevivencia, los componentes del grupo familiar del causante, entendiéndose por tal, el o la cónyuge o conviviente civil sobreviviente, los hijos de filiación matrimonial, de filiación no matrimonial o adoptivos, los padres y la madre o el padre de los hijos de filiación no matrimonial del causante.
 
 Cada afiliado deberá acreditar ante la respectiva Administradora, la existencia de sus eventuales beneficiarios, por los medios legales pertinentes.
 
@@ -98,11 +98,11 @@ Estas limitaciones no se aplicarán si a la época del fallecimiento la cónyuge
 
 > **Nota.** El Art. vigésimo octavo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación, y se aplicará sólo para aquellas personas que se pensionen con posterioridad a esa fecha.
 
-#### Artículo 7°
+#### Artículo 7º
 
-DEROGADO
+Para ser beneficiario o beneficiaria de pensión de sobrevivencia, el o la conviviente civil sobreviviente debe ser soltero, viudo o divorciado y haber suscrito un acuerdo de unión civil que se encuentre vigente al momento del fallecimiento del causante, a lo menos con un año de anterioridad a la fecha de dicho fallecimiento, o tres años si el acuerdo de unión civil se celebró siendo el o la causante pensionada de vejez o invalidez.
 
-> **Nota.** El Art. vigésimo octavo de la LEY 20255, publicada el 17.03.2008, dispuso que la derogación del presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
+Las limitaciones relativas a la antigüedad del acuerdo de unión civil no se aplicarán si a la época del fallecimiento la conviviente civil sobreviviente se encontrare embarazada o si quedaren hijos comunes.
 
 #### Artículo 8°
 
@@ -258,7 +258,7 @@ El tope imponible así reajustado, comenzará a regir el primer día de cada añ
 
 Con todo, el tope imponible será reajustado siempre que la variación del Índice antes mencionada sea positiva. Si fuese negativa, el tope mantendrá su valor vigente en unidades de fomento y sólo se reajustará en la oportunidad en que se produzca una variación positiva que corresponda por aplicación del inciso primero.
 
-Si un trabajador percibe simultáneamente remuneraciones de dos o más empleadores o además declara renta como trabajador independiente, todas las remuneraciones y rentas se sumarán para los efectos señalados en el inciso anterior, debiendo la Superintendencia determinar la forma en que se efectúen y enteren las cotizaciones que señala la ley. En todo caso, aquella parte de la cotización adicional destinada al financiamiento del seguro a que se refiere el artículo 59, deberá ser pagada por cada uno de los empleadores, de manera proporcional al monto que éstos paguen por concepto de remuneraciones imponibles al respectivo trabajador, sobre el total de dichas remuneraciones.
+Si un trabajador percibe simultáneamente remuneraciones de dos o más empleadores o, todas las remuneraciones se sumarán para los efectos señalados en el inciso anterior, debiendo la Superintendencia determinar la forma en que se efectúen y enteren las cotizaciones que señala la ley. En todo caso, aquella parte de la cotización adicional destinada al financiamiento del seguro a que se refiere el artículo 59, deberá ser pagada por cada uno de los empleadores, de manera proporcional al monto que éstos paguen por concepto de remuneraciones imponibles al respectivo trabajador, sobre el total de dichas remuneraciones.
 
 Los trabajadores del sector público afiliados al Sistema podrán optar, en forma definitiva mientras permanezcan en el mismo empleo, porque tengan el carácter de imponibles las asignaciones que no tienen dicha calidad, con excepción de aquellas que el Código del Trabajo declara que no constituyen remuneraciones. La mayor imponibilidad se considerará sólo para los efectos de esta ley.
 
@@ -330,7 +330,7 @@ Los incrementos que experimenten las cuotas de los fondos de pensiones no consti
 
 #### Artículo 19º
 
-Las cotizaciones establecidas en este Título deberán ser declaradas y pagadas por el empleador, el trabajador independiente o la entidad pagadora de subsidios, según corresponda, en la Administradora de Fondos de Pensiones a que se encuentre afiliado el trabajador, dentro de los diez primeros días del mes siguiente a aquél en que se devengaron las remuneraciones y rentas afectas a aquéllas, o aquel en que se autorizó la licencia médica por la entidad correspondiente, en su caso, término que se prorrogará hasta el primer día hábil siguiente si dicho plazo expirare en día sábado, domingo o festivo.
+Las cotizaciones establecidas en este Título deberán ser declaradas y pagadas por el empleador, el trabajador independiente a que se refiere el inciso tercero del artículo 90, el afiliado voluntario a que se refiere el Título IX o la entidad pagadora de subsidios, según corresponda, en la Administradora de Fondos de Pensiones a que se encuentre afiliado el trabajador, dentro de los diez primeros días del mes siguiente a aquél en que se devengaron las remuneraciones y rentas afectas a aquéllas, o aquel en que se autorizó la licencia médica por la entidad correspondiente, en su caso, término que se prorrogará hasta el primer día hábil siguiente si dicho plazo expirare en día sábado, domingo o festivo. El trabajador independiente a que se refiere el inciso primero del artículo 90 pagará las cotizaciones a que se refiere este Título, en la forma y oportunidad que establece el artículo 92 F.
 
 Para este efecto, el empleador deducirá las cotizaciones de las remuneraciones del trabajador y pagará las que sean de su cargo. Ambas cotizaciones se encontrarán afectas a lo dispuesto en el presente artículo.
 
@@ -356,7 +356,7 @@ Si en un mes determinado el reajuste e interés penal aumentado en la forma señ
 
 En todo caso, para determinar el interés penal, se aplicará la tasa vigente al día primero del mes inmediatamente anterior a aquél en que se devengue. El interés que se determine en conformidad a lo dispuesto en los incisos anteriores se capitalizará mensualmente.
 
-Las Administradoras de Fondos de Pensiones estarán obligadas a seguir las acciones tendientes al cobro de las cotizaciones adeudadas y sus reajustes e intereses, aun cuando el afiliado se hubiere cambiado de ella. La Administradora, a la cual el afiliado hubiere traspasado sus fondos podrá intervenir en el juicio en calidad de coadyuvante.
+Las Administradoras de Fondos de Pensiones estarán obligadas a seguir las acciones tendientes al cobro de las cotizaciones adeudadas y sus reajustes e intereses, aun cuando el afiliado se hubiere cambiado de ella. La Administradora, a la cual el afiliado hubiere traspasado sus fondos podrá intervenir en el juicio en calidad de coadyuvante. Con todo, las Administradoras no podrán perseguir, de conformidad con lo dispuesto en el artículo 1º de la ley Nº 17.322, el cobro de las cotizaciones previsionales adeudadas por los trabajadores independientes señalados en el artículo 89, por las rentas a que se refiere el inciso primero del artículo 90.
 
 En los juicios de cobranza de cotizaciones previsionales se aplicarán las normas sobre acumulación de autos contenidas en el Título X del Libro I del Código de Procedimiento Civil y se decretará exclusivamente a petición de cualquiera de las Administradoras de Fondos de Pensiones involucradas.
 
@@ -393,6 +393,8 @@ Los empleadores que durante los 24 meses inmediatamente anteriores a la respecti
 > **Nota.** NOTA 5: El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
 > **Nota.** NOTA 6: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
+
+> **Nota.** NOTA 7 El Número 3 b) del Artículo 86 de la Ley 20255, publicada el 17.03.2008, introduce la misma modificación indicada por el Artículo 91 Número 11 d).
 
 2. De las Cotizaciones Voluntarias, de los Depósitos Convenidos y de los Depósitos de Ahorro Previsional Voluntario
 
@@ -514,7 +516,7 @@ En caso de incumplimiento del empleador de su obligación de enterar los aportes
 
 Los aportes que efectúen empleador y trabajador, se depositarán en una cuenta individual, que se abrirá en una Administradora de Fondos de Pensiones o en alguna de las Instituciones Autorizadas, de acuerdo a lo especificado en el contrato. Dichas entidades deberán registrar separadamente en la cuenta de capitalización individual del trabajador los aportes efectuados por éste y por su empleador.
 
-Los recursos originados en los aportes efectuados por el trabajador serán siempre de su propiedad. Por su parte, los recursos originados en los aportes efectuados por el empleador serán de propiedad del trabajador una vez que se cumplan las condiciones establecidas en el contrato respectivo. De esta forma, si el contrato de ahorro establece un período mínimo de permanencia en la empresa, para que los aportes del empleador sean definitivamente de propiedad del trabajador, se requerirá que éste cumpla íntegramente dicho período o que se configure algunas de las causales establecidas expresamente en el contrato para ello. Con todo, si el contrato de trabajo terminase por la causal establecida en el artículo 161 del Código del Trabajo, los aportes del empleador pasarán a ser de propiedad del trabajador. Si el trabajador no adquiere la propiedad de los recursos originados en aportes efectuados por el empleador, éste deberá retirar dichos recursos, de acuerdo al procedimiento que determine la norma de carácter general a que se refiere el artículo 20 G.
+Los recursos originados en los aportes efectuados por el trabajador serán siempre de su propiedad. Por su parte, los recursos originados en los aportes efectuados por el empleador serán de propiedad del trabajador una vez que se cumplan las condiciones establecidas en el contrato respectivo. De esta forma, si el contrato de ahorro establece un período mínimo de permanencia en la empresa, para que los aportes del empleador sean definitivamente de propiedad del trabajador, se requerirá que éste cumpla íntegramente dicho período o que se configure algunas de las causales establecidas expresamente en el contrato para ello. Con todo, si el contrato de trabajo terminase por las causales establecidas en los artículos 161 ó 163 bis del Código del Trabajo, los aportes del empleador pasarán a ser de propiedad del trabajador. Si el trabajador no adquiere la propiedad de los recursos originados en aportes efectuados por el empleador, éste deberá retirar dichos recursos, de acuerdo al procedimiento que determine la norma de carácter general a que se refiere el artículo 20 G.
 
 A los aportes de ahorro previsional voluntario colectivo les será aplicable lo establecido en el inciso cuarto del artículo 20 y el artículo 20 D.
 
@@ -570,6 +572,8 @@ Las rentas que generen los planes de ahorro previsional voluntario colectivo no 
 
 Las cotizaciones voluntarias, los depósitos de ahorro previsional voluntario y los aportes del trabajador y del empleador para el ahorro previsional voluntario colectivo que se realicen de acuerdo a la alternativa b) del inciso primero, gozarán del beneficio tributario a que se refiere dicha letra, por la parte que no exceda a seiscientas unidades de fomento anuales por cada trabajador.
 
+Con todo, cuando las cotizaciones voluntarias, los depósitos de ahorro previsional voluntario y los aportes del trabajador para el ahorro previsional voluntario colectivo, acogidos al beneficio establecido en la letra b) del inciso primero, excedan en total de un monto máximo mensual de cincuenta unidades de fomento o de un monto máximo anual de seiscientas unidades de fomento y, por lo tanto, no hayan gozado por dicho exceso de los beneficios tributarios que establece la referida letra, y los recursos se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43 de la Ley sobre Impuesto a la Renta, se rebajará de la base de dicho tributo el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a ella representen dichos excesos de depósitos, cotizaciones y aportes. El saldo de dichos recursos, será determinado por las Administradoras de Fondos de Pensiones según establezca una norma de carácter general de la Superintendencia.
+
 > **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
 #### Artículo 20
@@ -608,37 +612,35 @@ Las Superintendencias de Pensiones, de Valores y Seguros y de Bancos e Instituci
 
 #### Artículo 21
 
-Cada trabajador podrá efectuar además, voluntariamente, en la Administradora a que se encuentra afiliado, depósitos que no tendrán el carácter de cotizaciones previsionales para los efectos de la Ley sobre Impuesto a la Renta.
+Cada trabajador podrá efectuar además, voluntariamente, en una o más Administradoras de Fondos de Pensiones, independientemente de aquélla en la cual se encuentre incorporado, depósitos que no tendrán el carácter de cotizaciones previsionales para los efectos de la Ley sobre Impuesto a la Renta.
 
-Los depósitos a que se refiere este artículo se abonarán en una cuenta personal para cada afiliado, que se denominará cuenta de ahorro voluntario, la cual será independiente de su cuenta de capitalización individual.
+Los depósitos a que se refiere este artículo se abonarán en una cuenta personal para cada afiliado, que se denominará cuenta de ahorro voluntario. Los trabajadores podrán tener una cuenta de ahorro voluntario en cada una de las Administradoras de Fondos de Pensiones, sin limitación a este respecto.
 
 Las Administradoras estarán obligadas a seguir las acciones tendientes al cobro de los depósitos que no se hubieren pagado oportunamente, cuando el afiliado les otorgue mandato explícito para ello. Para estos efectos será aplicable además, lo dispuesto en los incisos décimo al décimo séptimo del artículo 19.
 
-Mediante norma de carácter general que dictará la Superintendencia, se establecerá el número máximo de retiros de libre disposición que podrán efectuar los afiliados en cada año calendario, con cargo a su cuenta de ahorro voluntario, el que no podrá ser inferior a cuatro. Cada vez que se efectúe una modificación al número de retiros, el nuevo guarismo deberá entrar en vigencia el primer día del año calendario siguiente y se mantendrá vigente al menos durante dicho período. Los fondos existentes en dicha cuenta podrán, además, acreditarse como ahorro en dinero en los sistemas habitacionales que operan a través de los Servicios de Vivienda y Urbanización en la forma que determine el reglamento, el que también establecerá las modalidades y condiciones en que podrán realizarse los referidos retiros para aplicarse a dicha finalidad.
+Mediante norma de carácter general que dictará la Superintendencia, se establecerá el número máximo de retiros de libre disposición que podrán efectuar los afiliados en cada año calendario, con cargo a su cuenta de ahorro voluntario, el que no podrá ser inferior a cuatro, respecto de cada cuenta de ahorro voluntario. Cada vez que se efectúe una modificación al número de retiros, el nuevo guarismo deberá entrar en vigencia el primer día del año calendario siguiente y se mantendrá vigente al menos durante dicho período. Los fondos existentes en dicha cuenta podrán, además, acreditarse como ahorro en dinero en los sistemas habitacionales que operan a través de los Servicios de Vivienda y Urbanización en la forma que determine el reglamento, el que también establecerá las modalidades y condiciones en que podrán realizarse los referidos retiros para aplicarse a dicha finalidad.
 
-Los afiliados independientes podrán otorgar mandato facultando a la Administradora a que están incorporados para traspasar mensualmente fondos de su cuenta de ahorro voluntario a su cuenta de capitalización individual, a fin de cubrir las cotizaciones previsionales correspondientes, y para retirar de aquélla los fondos necesarios para enterar las demás cotizaciones previsionales en las instituciones que corresponda, en relación a la renta y por el período que señalen. La Administradora deberá aceptar el mandato, siempre que existan fondos suficientes en la cuenta de ahorro voluntario como para cumplirlo. Los traspasos y retiros a que se refiere este inciso no se contabilizarán para efectos de lo dispuesto en el inciso anterior.
+Los afiliados independientes podrán otorgar mandato facultando a la Administradora en que tienen una cuenta de ahorro voluntario para traspasar mensualmente fondos de aquélla a su cuenta de capitalización individual en la Administradora a que se encuentren incorporados, a fin de cubrir las cotizaciones previsionales correspondientes, y para retirar de aquélla los fondos necesarios para enterar las demás cotizaciones previsionales en las instituciones que corresponda, en relación a la renta y por el período que señalen. La Administradora deberá aceptar el mandato, siempre que existan fondos suficientes en la cuenta de ahorro voluntario como para cumplirlo. Los traspasos y retiros a que se refiere este inciso no se contabilizarán para efectos de lo dispuesto en el inciso anterior.
 
 Las cuentas de ahorro voluntario a que se refiere este artículo no gozarán de la inembargabilidad a que se refieren los artículos 34 y 35.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
-> **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
-
 #### Artículo 22°
 
-Los afiliados podrán optar por traspasar todo o parte de los fondos de su cuenta de ahorro voluntario a la de capitalización individual, con el objeto de cumplir con los requisitos para pensionarse según las disposiciones de esta ley. Asimismo, los pensionados podrán utilizar todo o parte del saldo de la cuenta de ahorro voluntario para incrementar el monto de su pensión. Los traspasos antes señalados no se considerarán giro para los efectos del artículo 21.
+Los afiliados podrán optar por traspasar todo o parte de los fondos de sus cuentas de ahorro voluntario a la de capitalización individual, con el objeto de cumplir con los requisitos para pensionarse según las disposiciones de esta ley. Asimismo, los pensionados podrán utilizar todo o parte del saldo de las cuentas de ahorro voluntario para incrementar el monto de su pensión. Los traspasos antes señalados no se considerarán giro para los efectos del artículo 21.
 
 Los excedentes que quedaren en la cuenta individual del afiliado después de contratada su pensión en conformidad a lo dispuesto en el Título VI, serán de libre disposición.
 
 INCISO DEROGADO
 
-Los afiliados que opten por pensionarse anticipadamente, conforme a lo dispuesto en el artículo 68, podrán traspasar parte o el total del saldo de su cuenta de ahorro voluntario, a su cuenta de capitalización individual, con el objeto de constituir el capital requerido para financiar su pensión.
+Los afiliados que opten por pensionarse anticipadamente, conforme a lo dispuesto en el artículo 68, podrán traspasar parte o el total del saldo de sus cuentas de ahorro voluntario, a su cuenta de capitalización individual, con el objeto de constituir el capital requerido para financiar su pensión.
 
 El saldo de la cuenta de ahorro voluntario de un afiliado fallecido incrementará la masa de bienes del difunto. Sin embargo, si éste hubiere cumplido con los requisitos para pensionarse, o si fuere pensionado conforme a las disposiciones de esta ley, y hubiere optado por la alternativa señalada en el inciso primero, sólo incrementará la masa de bienes del difunto el saldo que quedare después de efectuado el traspaso correspondiente.
 
-Los afiliados podrán acogerse, por su cuenta de ahorro voluntario, a las normas que se establecen en la letra B.- del artículo 57 bis de la Ley sobre Impuesto a la Renta, con excepción de los retiros que se destinen a incrementar el saldo de la cuenta de capitalización individual y a los fines indicados en el inciso quinto del artículo 21.
+Los afiliados podrán acogerse, por cada depósito de ahorro voluntario, a las normas que se establecen en la letra A.- del artículo 57 bis de la Ley sobre Impuesto a la Renta, con excepción de los retiros que se destinen a incrementar el saldo de la cuenta de capitalización individual y a los fines indicados en el inciso quinto del artículo 21, de acuerdo a lo que establezca una norma de carácter general que emitirá la Superintendencia de Pensiones. Para estos efectos, las Administradoras deberán registrar separadamente los depósitos de acuerdo al régimen tributario que haya escogido el ahorrante. Para efectos del retiro, este último podrá seleccionar el saldo sujeto a un determinado régimen tributario.
 
-En el caso que no opten por acogerse a dicha normativa, quedarán sujetos a las disposiciones generales de esa ley sobre la renta que se les determine por los retiros, que no sean los exceptuados anteriormente, que efectúen de su cuenta de ahorro voluntario.
+En el caso que no opten por acogerse a las normas que se establecen en la letra A.- del artículo 57 bis de la Ley sobre Impuesto a la Renta, quedarán sujetos a las disposiciones generales de esa ley sobre la renta que se les determine por los retiros, que no sean los exceptuados anteriormente, que efectúen de su cuenta de ahorro voluntario.
 
 Para lo dispuesto en el inciso anterior, la rentabilidad de cada retiro deberá determinarla la Administradora de la manera que se indica a continuación, sujetándose al siguiente procedimiento:
 
@@ -650,11 +652,13 @@ Para este efecto, antes de deducir el retiro, determinará la diferencia que exi
 
 c) Para calcular el nuevo saldo en unidades tributarias mensuales deberá rebajar el monto neto del retiro del capital invertido.
 
-d) Si el afiliado se cambia de Administradora, la antigua deberá informar a la nueva el saldo del capital invertido a la fecha del cambio, expresado en número de unidades tributarias mensuales.
+d) Si el trabajador traspasa todo o parte del saldo acumulado en su cuenta de ahorro voluntario, la antigua Administradora deberá informar a la nueva el saldo del capital traspasado a la fecha del cambio, expresado en número de unidades tributarias mensuales.
 
 e) La Administradora deberá emitir anualmente, antes del 31 de enero del año tributario respectivo, un certificado por cada afiliado, que efectúe retiros, el cual deberá contener la información suficiente para los efectos tributarios. El Servicio de Impuestos Internos establecerá las formalidades de este certificado.
 
 La renta que se determine, de acuerdo con el procedimiento establecido en el inciso anterior, tendrá el mismo tratamiento tributario que para el mayor valor por el rescate de las cuotas de los fondos mutuos dispone el artículo 19 del decreto ley N° 1.328, de 1976. A igual disposición legal deberán someterse las Administradoras, respecto de dicha renta. También se le aplicará a dicha renta lo dispuesto en el artículo 57 de la Ley sobre el Impuesto a la Renta para el mayor valor que se obtenga en el rescate de las cuotas de fondos mutuos.
+
+Cuando los depósitos efectuados en la cuenta de ahorro voluntario, que no hayan estado acogidos a las normas que se establecen en la letra A.- del artículo 57 bis de la Ley sobre Impuesto a la Renta, se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43 de la citada ley, se rebajará de la base de dicho tributo el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a aquélla representen tales depósitos. Este saldo será determinado por la Administradora, registrando separadamente el capital invertido, expresado en unidades tributarias mensuales, el que corresponderá a la diferencia entre los depósitos y los retiros netos, convertidos cada uno de ellos al valor que tenga dicha unidad en el mes en que se efectúen estas operaciones.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
@@ -666,9 +670,9 @@ La renta que se determine, de acuerdo con el procedimiento establecido en el inc
 
 #### Artículo 22 bis
 
-La Administradora tendrá derecho a una retribución establecida sobre la base de comisiones de cargo de los afiliados titulares de cuentas de ahorro voluntario, destinada a financiar la administración de ellas.
+La Administradora tendrá derecho a una retribución establecida sobre la base de comisiones de cargo de los titulares de cuentas de ahorro voluntario, destinada a financiar la administración de ellas.
 
-Estas comisiones serán establecidas libremente por cada Administradora, con carácter uniforme para todos los afiliados titulares de dichas cuentas.
+Estas comisiones serán establecidas libremente por cada Administradora, con carácter uniforme para todos los titulares de dichas cuentas.
 
 Las comisiones por la administración de las cuentas de ahorro voluntario sólo podrán ser establecidas como un porcentaje del saldo mantenido en ellas.
 
@@ -686,11 +690,11 @@ De las Administradoras de Fondos de Pensiones
 
 Las Administradoras de Fondos de Pensiones, denominadas también en esta ley Administradoras, serán sociedades anónimas que tendrán como objeto exclusivo administrar Fondos de Pensiones y otorgar y administrar las prestaciones y beneficios que establece esta ley.
 
-Cada Administradora deberá mantener cuatro Fondos, que se denominarán Fondo de Pensiones Tipo B, Fondo de Pensiones Tipo C, Fondo de Pensiones Tipo D y Fondo de Pensiones Tipo E. Asimismo, la Administradora podrá mantener un Fondo adicional, que se denominará Fondo de Pensiones Tipo A. Los saldos totales por cotizaciones obligatorias, por depósitos convenidos y por cotizaciones voluntarias, así como la cuenta de ahorro voluntario, podrán permanecer en distintos tipos de Fondos. A su vez, la cuenta de ahorro de indemnización, a que se refiere la ley Nº 19.010, deberá permanecer en el mismo tipo de Fondo en que se encuentren las cotizaciones obligatorias.
+Cada Administradora deberá mantener cuatro Fondos, que se denominarán Fondo de Pensiones Tipo B, Fondo de Pensiones Tipo C, Fondo de Pensiones Tipo D y Fondo de Pensiones Tipo E. Asimismo, la Administradora podrá mantener un Fondo adicional, que se denominará Fondo de Pensiones Tipo A. Los saldos totales por cotizaciones obligatorias, por depósitos convenidos y por cotizaciones voluntarias, así como la cuenta de ahorro voluntario y la cuenta de ahorro de indemnización a que se refiere el artículo 165 del Código del Trabajo, podrán permanecer en distintos tipos de Fondos. En todo caso, la cuenta de ahorro de indemnización será asignada al Fondo Tipo C, cuando el trabajador no opte por ningún tipo de Fondo.
 
-Los afiliados hombres hasta 55 años de edad y las mujeres hasta 50 años de edad, podrán optar por cualquiera de los Fondos mencionados en el inciso anterior. A su vez, los afiliados hombres desde 56 años de edad y las mujeres desde 51 años de edad, no podrán optar por el Fondo Tipo A, respecto de los saldos originados en cotizaciones obligatorias y la cuenta de ahorro de indemnización. Los afiliados pensionados por retiro programado y renta temporal y los afiliados declarados inválidos parciales mediante un primer dictamen, no podrán optar por los Fondos tipo A o B respecto de los saldos antes señalados. Con todo, las prohibiciones de este inciso no se aplicarán respecto de aquella parte de los saldos que exceda al monto necesario para financiar una pensión que cumpla con los requisitos señalados en el inciso primero del artículo 68.
+Los afiliados hombres hasta 55 años de edad y las mujeres hasta 50 años de edad, podrán optar por cualquiera de los Fondos mencionados en el inciso anterior. A su vez, los afiliados hombres desde 56 años de edad y las mujeres desde 51 años de edad, no podrán optar por el Fondo Tipo A, respecto de los saldos originados en cotizaciones obligatorias. Los afiliados pensionados por retiro programado y renta temporal y los afiliados declarados inválidos parciales mediante un primer dictamen, no podrán optar por los Fondos tipo A o B respecto de los saldos antes señalados. Con todo, las prohibiciones de este inciso no se aplicarán respecto de aquella parte de los saldos que exceda al monto necesario para financiar una pensión que cumpla con los requisitos señalados en el inciso primero del artículo 68.
 
-Si al cumplir 56 años de edad, en el caso de los afiliados hombres, y 51 años de edad, en el caso de las mujeres, su saldo por cotizaciones obligatorias y su cuenta de ahorro de indemnización se encontraren en el Fondo Tipo A, éstos deberán traspasarse a cualquiera de los restantes Fondos, dentro del plazo de 90 días, con excepción de aquel que exceda al monto necesario para financiar una pensión que cumpla con los requisitos señalados en el inciso primero del artículo 68. En caso de que el afiliado no opte por alguno de los Fondos Tipo B,C, D o E, en el plazo antes señalado, los saldos mencionados serán asignados al Fondo Tipo B en forma gradual, de acuerdo a lo establecido en el inciso sexto.
+Si al cumplir 56 años de edad, en el caso de los afiliados hombres, y 51 años de edad, en el caso de las mujeres, su saldo por cotizaciones obligatorias se encontrare en el Fondo Tipo A, éste deberá traspasarse a cualquiera de los restantes Fondos, dentro del plazo de 90 días, con excepción de aquel que exceda al monto necesario para financiar una pensión que cumpla con los requisitos señalados en el inciso primero del artículo 68. En caso de que el afiliado no opte por alguno de los Fondos Tipo B,C, D o E, en el plazo antes señalado, los saldos mencionados serán asignados al Fondo Tipo B en forma gradual, de acuerdo a lo establecido en el inciso sexto.
 
 Si al momento de producirse la afiliación al sistema, el trabajador no opta por alguno de los tipos de Fondos, será asignado a uno de aquellos de la siguiente manera:
 
@@ -700,7 +704,7 @@ b. Afiliados hombres desde 36 hasta 55 años de edad y mujeres desde 36 hasta 50
 
 c. Afiliados hombres desde 56 años y mujeres desde 51 años de edad, afiliados declarados inválidos parciales mediante un primer dictamen y pensionados por las modalidades de retiro programado o renta temporal, serán asignados al Fondo Tipo D.
 
-Cuando el afiliado haya sido asignado a un Fondo y posteriormente no haya manifestado su elección por alguno de ellos, los saldos originados en cotizaciones obligatorias, cuenta de ahorro de indemnización, cuenta de ahorro voluntario, depósitos convenidos y cotizaciones voluntarias, serán traspasados parcialmente al Fondo que corresponda de acuerdo a lo señalado en el inciso anterior, en las oportunidades y montos que a continuación se indican:
+Cuando el afiliado haya sido asignado a un Fondo y posteriormente no haya manifestado su elección por alguno de ellos, los saldos originados en cotizaciones obligatorias, cuenta de ahorro voluntario, depósitos convenidos y cotizaciones voluntarias, serán traspasados parcialmente al Fondo que corresponda de acuerdo a lo señalado en el inciso anterior, en las oportunidades y montos que a continuación se indican:
 
 a. Al cumplir el afiliado la edad para cambiar de tramo etáreo, un veinte por ciento de sus saldos totales deberán permanecer en el Fondo correspondiente al nuevo tramo.
 
@@ -760,6 +764,8 @@ Las Administradoras tendrán derecho a un crédito, contra el impuesto de primer
 
 > **Nota.** NOTA 3: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
+> **Nota.** NOTA 4 El artículo cuarto transitorio de la Ley 20552, publicada el 17.12.2011, dispone que la modificación de la última oración de la letra a), del número 5), del artículo 2° de citada ley modificatoria, se aplicará de acuerdo a la gradualidad establecida en la misma norma.
+
 #### Artículo 23 bis
 
 Las Administradoras de Fondos de Pensiones podrán encargar la función de administración de cartera de los recursos que componen el Fondo de Pensiones a sociedades anónimas de duración indefinida, cuyo objeto exclusivo sea la administración de cartera de recursos previsionales, las que deberán cumplir con los requisitos que se señalan en la presente ley y en una norma de carácter general que dictará la Superintendencia. El costo de la subcontratación será siempre de cargo de la Administradora.
@@ -818,9 +824,9 @@ c) No haber tomado parte en actuaciones, negociaciones o actos jurídicos de cua
 
 d) No encontrarse en alguna de las siguientes situaciones:
 
-i) Que se trate de un fallido no rehabilitado;
+i) Que se trate de un deudor sometido a un procedimiento concursal de liquidación vigente;
 
-ii) Que en los últimos quince años, contados desde la fecha de solicitud de la autorización de la Administradora, haya sido director, gerente, ejecutivo principal o accionista mayoritario directamente o a través de terceros, de una entidad bancaria, de una compañía de seguros del segundo grupo o de una Administradora que haya sido declarada en liquidación forzosa o quiebra, según corresponda, o sometida a administración provisional, respecto de la cual el Fisco o el Banco Central de Chile hayan incurrido en considerables pérdidas. No se considerará para estos efectos la participación de una persona por un plazo inferior a un año;
+ii) Que en los últimos quince años, contados desde la fecha de solicitud de la autorización de la Administradora, haya sido director, gerente, ejecutivo principal o accionista mayoritario directamente o a través de terceros, de una entidad bancaria, de una compañía de seguros del segundo grupo o de una Administradora que haya sido declarada en liquidación forzosa o procedimiento concursal de liquidación, según corresponda, o sometida a administración provisional, respecto de la cual el Fisco o el Banco Central de Chile hayan incurrido en considerables pérdidas. No se considerará para estos efectos la participación de una persona por un plazo inferior a un año;
 
 iii) Que registre protestos de documentos no aclarados en los últimos cinco años en número o cantidad considerable;
 
@@ -960,11 +966,11 @@ La razón social de las Administradoras deberá comprender la frase "Administrad
 
 #### Artículo 31
 
-La Administradora deberá proporcionar al afiliado, al momento de su incorporación, una libreta en la que se estampará cada vez que éste lo solicite, el número de cuotas registradas en su cuenta de capitalización individual y en su cuenta de ahorro voluntario, si correspondiere, y su valor a la fecha.
+La Administradora deberá proporcionar al afiliado, cada vez que éste lo solicite, información del saldo de las cuentas personales que posea, a través de los medios que se establezcan mediante norma de carácter general de la Superintendencia.
 
-La Administradora, cada cuatro meses, a lo menos, deberá comunicar a cada uno de sus afiliados, a su domicilio, todos los movimientos registrados en su cuenta de capitalización individual y en su cuenta de ahorro voluntario, si ésta existiere, con indicación del número de cuotas registradas, su valor y la fecha del asiento. Esta comunicación podrá suspenderse, si el afiliado no registrare movimientos por cotizaciones en su cuenta de capitalización individual en el último período informado y hasta aquél en que éstos se produzcan. Sin embargo, tratándose de la situación descrita en el inciso quinto del artículo 19, la información al afiliado no podrá interrumpirse, sino que deberá destacar el estado de morosidad que le afecta, adjuntar copia de la resolución a que hace referencia el artículo 2º de la ley Nº 17.322 y señalar el derecho que le asiste para reclamar el ejercicio de las acciones de cobro. La Administradora que suspenda el envío de información, deberá comunicar al afiliado, al menos una vez al año, respecto del estado de su cuenta de capitalización individual y de su cuenta de ahorro voluntario, si correspondiere.
+La Administradora, cada cuatro meses, a lo menos, deberá comunicar a cada uno de sus afiliados, por el medio que determine la Superintendencia mediante norma de carácter general, los movimientos registrados en su cuenta de capitalización individual y en su cuenta de ahorro voluntario, si ésta existiere, con indicación de su valor en pesos. Esta comunicación podrá suspenderse, si el afiliado no registrare movimientos por cotizaciones en su cuenta de capitalización individual en el último período informado y hasta aquél en que éstos se produzcan. Sin embargo, tratándose de la situación descrita en el inciso quinto del artículo 19, la información al afiliado no podrá interrumpirse, sino que deberá destacar el estado de morosidad que le afecta, adjuntar copia de la resolución a que hace referencia el artículo 2º de la ley Nº 17.322 y señalar el derecho que le asiste para reclamar el ejercicio de las acciones de cobro. La Administradora que suspenda el envío de información, deberá comunicar al afiliado, al menos una vez al año, respecto del estado de su cuenta de capitalización individual y de su cuenta de ahorro voluntario, si correspondiere.
 
-Conjuntamente con lo anterior, la Administradora deberá enviar al afiliado información sobre las comisiones y sobre la rentabilidad de la cuenta de capitalización individual y de la cuota del Fondo de Pensiones al que el afiliado esté adscrito. En ambos casos, se informarán los guarismos referidos a ella misma y a las restantes Administradoras para el o los períodos que determine la Superintendencia. Además, deberá informar respecto de la cotización adicional establecida en el artículo 17, separadamente, la parte que se destina al financiamiento de la Administradora y aquella que se destina al pago del seguro a que se refiere el artículo 59. Esta última, deberá ser expresada como porcentaje de la remuneración imponible del afiliado.
+Conjuntamente con lo anterior, la Administradora deberá enviar al afiliado información sobre las comisiones y sobre la rentabilidad y de la cuota del Fondo de Pensiones al que el afiliado esté adscrito. En ambos casos, se informarán los guarismos referidos a ella misma y a las restantes Administradoras para el o los períodos que determine la Superintendencia.
 
 Además, de acuerdo a las instrucciones impartidas por esta Superintendencia, las Administradoras deberán enviar a todos aquellos afiliados o beneficiarios que cumplan los requisitos para ser incluidos en el listado definido en el inciso primero del artículo 72 bis, información referida a las modalidades de pensión, sus características y al modo de optar entre ellas.
 
@@ -1012,7 +1018,7 @@ No obstante lo dispuesto en el inciso anterior, los recursos que componen los Fo
 
 A su vez, cesará también la inembargabilidad, para los efectos de dar cumplimiento forzado a las obligaciones emanadas de los contratos de carácter financiero a que se refieren las letras j) y m) del artículo 45.
 
-En caso de quiebra de la Administradora, los Fondos serán administrados y liquidados de acuerdo con lo dispuesto en el artículo 43.
+En caso que la Administradora tenga la calidad de deudor en un procedimiento concursal de liquidación, los Fondos serán administrados y liquidados de acuerdo con lo dispuesto en el artículo 43.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
@@ -1114,7 +1120,7 @@ Se aplicará lo dispuesto en el artículo 42 a la Administradora que no mantuvie
 
 Igualmente, se aplicará dicha disposición a la Administradora que fuere sorprendida más de dos veces durante un mes calendario, en una situación de déficit de Encaje.
 
-En todo caso, por cada día en que tuviere déficit de Encaje, incurrirá en una multa a beneficio fiscal, equivalente a dicho déficit, que será aplicada por la Superintendencia de Administradoras de Fondos de Pensiones.
+En todo caso, por cada día en que tuviere déficit de encaje, incurrirá en una multa a beneficio fiscal, cuyo monto no podrá ser inferior al uno por ciento ni superior al cien por ciento de dicho déficit, que será aplicada por la Superintendencia de Pensiones. Para efectos de establecer la multa, la Superintendencia deberá tener en consideración las causas que ocasionaron el déficit de encaje, el cumplimiento oportuno del plazo fijado en el inciso cuarto precedente y la cuantía del déficit.
 
 De la aplicación de esta multa, podrá reclamarse en la forma establecida en el artículo 94, N° 8.
 
@@ -1138,7 +1144,7 @@ Se disolverá por el solo Ministerio de la Ley la Administradora que no hubiere 
 
 En la liquidación de la Administradora, el Estado concurrirá como acreedor por los pagos que hubiere efectuado de acuerdo al inciso cuarto y su crédito se considerará de primera clase y gozará del privilegio establecido en el artículo 2472, N° 6 del Código Civil.
 
-Producida la disolución o quiebra de la Sociedad, sus afiliados deberán incorporarse, dentro del plazo de noventa días, a otra Administradora de Fondos de Pensiones. Si no lo hicieren, el liquidador transferirá los saldos de las cuentas a la Administradora que se determine de acuerdo a lo que disponga el reglamento.
+Producida la disolución de la Sociedad o dictada la resolución de liquidación en los términos establecidos en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, sus afiliados deberán incorporarse, dentro del plazo de noventa días, a otra Administradora de Fondos de Pensiones. Si no lo hicieren, el liquidador transferirá los saldos de las cuentas a la Administradora que se determine de acuerdo a lo que disponga el reglamento.
 
 > **Nota.** El Artículo 2º de la LEY 19.641, publicada el 28.10.1999, dispuso que las modificaciones introducidas a la presente norma, en todo lo que diga relación con la creación de un segundo Fondo de Pensiones, entrarán en vigencia al primer día del quinto mes siguiente al de su publicación en el Diario Oficial. Las otras modificaciones a la presente norma, establecidas en dicha ley, entrarán en vigencia al primer día del mes siguiente al de su publicación en el Diario Oficial.
 
@@ -1394,7 +1400,7 @@ Para efectos de las inversiones con recursos de los Fondos de Pensiones en cuota
 
 - **j)** del mismo artículo, así como para otros instrumentos definidos en el Régimen de Inversión, que incluyan comisiones en el precio, los Superintendentes de Administradoras de Fondos de Pensiones, de Bancos e Instituciones Financieras y de Valores y Seguros establecerán anualmente, a través de una resolución conjunta, debidamente fundada, y que procure reflejar valores de mercado, las comisiones máximas a ser pagadas con cargo a los Fondos de Pensiones, a los fondos mutuos, fondos de inversión y otros emisores. Al efecto, se oirá previamente a las Administradoras. Si las comisiones pagadas son mayores a las máximas establecidas, los excesos sobre estas últimas serán de cargo de las Administradoras. El procedimiento para determinar las comisiones efectivamente pagadas a los fondos mutuos y de inversión se establecerá en la citada resolución, la que definirá también la forma y periodicidad de la devolución a los Fondos de Pensiones de las comisiones que se hubieren pagado por sobre las máximas establecidas en conformidad a este inciso.
 
-La Superintendencia establecerá anualmente, a través de una resolución debidamente fundada y que procure reflejar valores de mercado, las comisiones máximas a ser pagadas con cargo a los Fondos de Pensiones a las entidades extranjeras a la que la Administradora encargue la administración de todo o parte de los recursos de los Fondos de Pensiones invertidos en títulos a que se refiere la letra j) del inciso segundo del artículo 45. Al efecto, se oirá previamente a las Administradoras. Si las comisiones pagadas fueren mayores a las máximas establecidas, los excesos sobre estas últimas serán de cargo de las Administradoras. La referida resolución definirá también la forma y periodicidad de la devolución a los Fondos de Pensiones de las comisiones que se hubieren pagado a la entidad mandataria por sobre las máximas establecidas en conformidad a este inciso.
+La Superintendencia establecerá anualmente, a través de una resolución debidamente fundada y que procure reflejar valores de mercado, las comisiones máximas a ser pagadas con cargo a los Fondos de Pensiones a las entidades extranjeras a la que la Administradora encargue la administración de todo o parte de los recursos de los Fondos de Pensiones invertidos en títulos a que se refiere la letra j) del inciso segundo del artículo 45. Estas comisiones máximas incluirán conceptos tales como: administración, transacción y custodia de los títulos a que se refiere la citada letra j), según determine la Superintendencia por norma de carácter general. Al efecto, se oirá previamente a las Administradoras. Si las comisiones pagadas fueren mayores a las máximas establecidas, los excesos sobre estas últimas serán de cargo de las Administradoras. La referida resolución definirá también la forma y periodicidad de la devolución a los Fondos de Pensiones de las comisiones que se hubieren pagado a la entidad mandataria por sobre las máximas establecidas en conformidad a este inciso.
 
 La Superintendencia informará trimestralmente las comisiones efectivamente pagadas por los Fondos de Pensiones y las administradoras a los fondos de inversión, fondos mutuos y otros emisores con comisiones implícitas, así como también las comisiones efectivamente pagadas a las entidades mandatarias. Asimismo, las Administradoras deberán publicar estas comisiones en la forma y con la periodicidad que señale la Superintendencia mediante norma de carácter general.
 
@@ -1464,11 +1470,7 @@ El citado régimen regulará además, la inversión indirecta que los Fondos de 
 
 El Régimen de Inversión no podrá establecer límites mínimos para la inversión por emisor.
 
-Si como resultado del ejercicio de una opción de conversión de bonos canjeables por acciones, se excedieran los límites individuales de inversión en el emisor, o existiendo exceso éste se incrementara, el Fondo tendrá un plazo de tres años para eliminar el monto representativo de esta conversión.
-
-Si como resultado del ejercicio de una opción para suscribir acciones de aumento de capital, se excedieran los límites individuales de inversión en el emisor, o existiendo exceso éste se incrementara, el Fondo tendrá un plazo de tres años para eliminar el monto representativo de esta suscripción.
-
-Si como resultado de recibir valores de oferta pública, como consecuencia de la enajenación de acciones de los Fondos de Pensiones en una oferta pública de adquisición de acciones, se excedieran los límites individuales de inversión en el emisor, o existiendo exceso éste se incrementara, el Fondo tendrá un plazo de tres años para eliminar el monto representativo del exceso resultante de la operación.
+INCISO SUPRIMIDO.
 
 Los límites de inversión por emisor para los instrumentos de la letra k) del artículo 45, corresponderán a los límites que resulten de asimilar el respectivo instrumento a uno de aquellos cuyo límite ya se encuentre definido en la ley o en el Régimen de Inversión. La respectiva asimilación y el límite a aplicar serán determinados por la Superintendencia de Pensiones para cada tipo de Fondo. Asimismo, si no existiera un instrumento de las mismas características para los efectos de establecer los límites por emisor, el límite respectivo será determinado por la Superintendencia de Pensiones para cada tipo de Fondo.
 
@@ -1476,13 +1478,11 @@ INCISO DEROGADO
 
 Para efectos de los límites de inversión establecidos en esta ley y en el Régimen de Inversión, los instrumentos financieros entregados en préstamo o mutuo a que se refieren las letras j) y m) del artículo 45, deberán ser considerados como una inversión del Fondo de Pensiones.
 
-En caso de que, por cualquier causa, una inversión realizada con recursos de un Fondo de Pensiones sobrepase los límites o deje de cumplir con los requisitos establecidos para su procedencia, el exceso deberá ser contabilizado en una cuenta especial en el Fondo afectado y la Administradora correspondiente no podrá realizar nuevas inversiones para este Fondo en los mismos instrumentos mientras dicha situación se mantenga. Asimismo, si una inversión realizada con recursos de los Fondos de Pensiones de una misma Administradora sobrepase algún límite aplicable a la suma de éstos o deje de cumplir con los requisitos establecidos para su procedencia, la Administradora correspondiente no podrá realizar nuevas inversiones para ninguno de los Fondos en los mismos instrumentos, mientras dicha situación se mantenga. Lo anterior será sin perjuicio de lo señalado en los incisos vigesimoquinto, vigesimosexto y vigesimoséptimo del artículo 45 y en los incisos decimoséptimo, décimoctavo y décimonoveno de este artículo. Lo anterior es sin perjuicio de la facultad del Superintendente para aplicar las sanciones administrativas que procedan.
+En caso de que, por cualquier causa, una inversión realizada con recursos de un Fondo de Pensiones sobrepase los límites o deje de cumplir con los requisitos establecidos para su procedencia, el exceso deberá ser contabilizado en una cuenta especial en el Fondo afectado y la Administradora correspondiente no podrá realizar nuevas inversiones para este Fondo en los mismos instrumentos mientras dicha situación se mantenga. Asimismo, si una inversión realizada con recursos de los Fondos de Pensiones de una misma Administradora sobrepase algún límite aplicable a la suma de éstos o deje de cumplir con los requisitos establecidos para su procedencia, la Administradora correspondiente no podrá realizar nuevas inversiones para ninguno de los Fondos en los mismos instrumentos, mientras dicha situación se mantenga. Lo anterior es sin perjuicio de la facultad del Superintendente para aplicar las sanciones administrativas que procedan.
 
 El Régimen de Inversión establecerá los mecanismos y los plazos para la eliminación de los excesos de inversión que se produzcan y, en caso que corresponda, para cubrir los déficits de inversión, en relación a los límites de inversión establecidos en esta ley y el Régimen de Inversión.
 
-Cuando se sobrepase un límite de inversión por emisor en más de un veinte por ciento del límite máximo permitido, el exceso por sobre este porcentaje deberá eliminarse dentro del plazo de tres años contado desde la fecha en que se produjo.
-
-Las inversiones en instrumentos adquiridos con recursos de los Fondos de Pensiones que dejen de cumplir con los requisitos para su procedencia, deberán enajenarse en el plazo de tres años contado desde la fecha en que se produjo el exceso.
+INCISO SUPRIMIDO.
 
 INCISO DEROGADO
 
@@ -1524,7 +1524,7 @@ Las Administradoras de Fondos de Pensiones podrán participar con recursos de lo
 
 La Superintendencia de Valores y Seguros hará llegar a la Superintendencia copia del prospecto a que alude el artículo 203 de la ley Nº 18.045, dentro de los 3 días siguientes de recibido.
 
-Asimismo, los Fondos de Pensiones podrán participar en el rescate voluntario de bonos a que se refiere el artículo 130 de la ley N° 18.045, de acuerdo a lo que establezca la Superintendencia mediante norma de carácter general.
+Asimismo, los Fondos de Pensiones podrán participar en el rescate voluntario de bonos a que se refiere el artículo 130 de la ley N° 18.045, de acuerdo a lo que establezca la Superintendencia mediante norma de carácter general. De igual manera, los Fondos de Pensiones podrán participar en procesos de estructuración financiera de emisores a través del canje de títulos del emisor, correspondiendo a la Superintendencia determinar, mediante una norma de carácter general, los requisitos para que los Fondos participen en este tipo de operaciones.
 
 Las Administradoras podrán celebrar directamente con los emisores, a nombre propio y para los Fondos de Pensiones que corresponda, contratos de promesas de suscripción y pago de cuotas de fondos de inversión a los que se refiere la ley N° 18.815, comprometiendo el aporte de recursos correspondientes a los Fondos de Pensiones que administren. Los aportes que se realicen en virtud de estos contratos deberán efectuarse contra la entrega de las cuotas respectivas.
 
@@ -1668,7 +1668,13 @@ Se entenderá por contribución el monto representativo de las cotizaciones que 
 
 La Administradora será responsable del pago de las pensiones parciales originadas por el primer dictamen de invalidez, y a enterar el aporte adicional en la cuenta de capitalización individual de los afiliados declarados inválidos totales y de los afiliados no pensionados que fallezcan, sin perjuicio del derecho a repetir en contra de quien corresponda conforme a lo establecido en el artículo 82, en los siguientes casos:
 
-a) Afiliados que se encuentren cotizando en ella. Se presume de derecho que el afiliado se encontraba cotizando, si su muerte o la declaración de invalidez se produce en el tiempo en que prestaba servicios, si se trata de un afiliado dependiente, o si hubiere cotizado en el mes calendario anterior a dichos siniestros, si se trata de un afiliado independiente, o se encontrare en la situación señalada en el artículo 92 L si se trata de un afiliado voluntario, y
+a) Afiliados que se encuentren cotizando en ella. Se presume de derecho que el afiliado se encontraba cotizando, si su muerte o la declaración de invalidez se produce en el tiempo en que prestaba servicios, si se trata de un afiliado dependiente, o se encontrare en la situación señalada en el
+
+#### Artículo 92
+
+E, si se trata de un afiliado independiente
+
+afecto al artículo 89, o se encontrare en la situación señalada en el artículo 92 L si se trata de un afiliado voluntario, y
 
 b) Afiliados trabajadores dependientes que hubieren dejado de prestar servicios por término o suspensión de éstos, cuyo fallecimiento o declaración de invalidez se produce dentro del plazo de doce meses contado desde el último día del mes en que hayan dejado de prestar servicios o éstos se hayan suspendido. Además, estos trabajadores deberán registrar, como mínimo, seis meses de cotizaciones en el año anterior al último día del mes en que hayan dejado de prestar servicios o éstos hayan sido suspendidos.
 
@@ -1756,9 +1762,25 @@ e) cincuenta por ciento para los padres que cumplan los requisitos que señala e
 
 f) quince por ciento para cada hijo que cumpla los requisitos establecidos en el artículo 8°. Este porcentaje se reducirá al once por ciento para los hijos declarados inválidos parciales al cumplir veinticuatro años de edad.
 
-Si dos o más personas invocaren la calidad de cónyuge, de madre o de padre de hijo de filiación no matrimonial de la o el causante, a la fecha de fallecimiento de estos últimos, el porcentaje que le correspondiere a cada uno de ellos se dividirá por el número de cónyuges, de madres o de padres de hijos de filiación no matrimonial que hubiere, respectivamente, con derecho de acrecer entre ellos.
+g) quince por ciento para el o la conviviente civil que cumpla los requisitos del artículo 7º, siempre que concurran hijos del o la causante con derecho a pensión, que no sean hijos comunes. Cuando no concurran dichos hijos o cuando éstos dejen de tener derecho a pensión, el porcentaje se elevará al mencionado en las letras
 
-Si al momento de producirse el fallecimiento de un causante, éste o ésta no tuvieren cónyuge con derecho a pensión, las pensiones de referencia de los hijos se incrementarán distribuyéndose por partes iguales el porcentaje establecido en la letra b) del inciso primero. De lo anterior se exceptúan los hijos que tuvieren una madre o padre con derecho a pensión establecida en la letra d) precedente.
+- **a)** o
+
+- **b)** dependiendo de si no existen o existen hijos comunes con derecho a pensión, respectivamente. Cuando concurran hijos comunes con derecho a pensión del o la causante y adicionalmente existan hijos del o la causante con derecho a pensión, que no sean comunes con el o la conviviente civil, el porcentaje de éste o ésta será el establecido en la letra
+
+- **b)** anterior, aumentándose al porcentaje establecido en la letra
+
+- **a)** precedente, en caso que tanto los hijos comunes como los no comunes dejen de tener derecho a pensión.
+
+Si dos o más personas invocaren la calidad de cónyuge, de conviviente civil, de madre o de padre de hijo de filiación no matrimonial de la o el causante, a la fecha de fallecimiento de estos últimos, el porcentaje que le correspondiere a cada uno de ellos se dividirá por el número de cónyuges, de convivientes civiles, de madres o de padres de hijos de filiación no matrimonial que hubiere, respectivamente, con derecho de acrecer entre ellos.
+
+Si al momento de producirse el fallecimiento de un causante, éste o ésta no tuvieren cónyuge con derecho a pensión, las pensiones de referencia de los hijos se incrementarán distribuyéndose por partes iguales el porcentaje establecido en la letra
+
+- **b)** del inciso primero. De lo anterior se exceptúan los hijos que tuvieren una madre o padre con derecho a pensión establecida en las letras
+
+- **d)** o
+
+- **g)** precedentes.
 
 > **Nota.** El inciso 1º del artículo segundo de la LEY 18.964, publicada el 10.03.1990, dispuso que la modificación introducida al presente artículo entrará en vigencia el día primero del quinto mes siguiente a aquel en que se publique en el Diario Oficial.
 
@@ -1782,7 +1804,7 @@ El Contrato de Seguro a que se refiere este artículo deberá convenirse sobre l
 
 INCISO SUPRIMIDO
 
-En caso de quiebra o disolución de la Administradora y mientras dure el proceso de liquidación, los descuentos que se practiquen a las cuentas de capitalización individual por concepto de comisiones, de acuerdo al artículo 29, serán destinados, en primer lugar, al pago de la prima del contrato de seguro que señala el inciso primero de este artículo, y serán inembargables en la parte que corresponda a este pago. Por otra parte, subsistirá la obligación de las Compañías de Seguros de Vida que se adjudicaron la licitación de acuerdo a lo que se establece en el artículo 59 bis de financiar las pensiones de invalidez originadas por el primer dictamen y los respectivos aportes adicionales o contribuciones, según corresponda, a la Administradora en liquidación o a la Administradora en que los afiliados involucrados se incorporen. Los fondos que la Administradora en liquidación reciba por estos conceptos serán inembargables.
+En caso que la Administradora tenga la calidad de deudor en un procedimiento concursal de liquidación o sea disuelta y mientras dure el proceso de liquidación, los descuentos que se practiquen a las cuentas de capitalización individual por concepto de comisiones, de acuerdo al artículo 29, serán destinados, en primer lugar, al pago de la prima del contrato de seguro que señala el inciso primero de este artículo, y serán inembargables en la parte que corresponda a este pago. Por otra parte, subsistirá la obligación de las Compañías de Seguros de Vida que se adjudicaron la licitación de acuerdo a lo que se establece en el artículo 59 bis de financiar las pensiones de invalidez originadas por el primer dictamen y los respectivos aportes adicionales o contribuciones, según corresponda, a la Administradora en liquidación o a la Administradora en que los afiliados involucrados se incorporen. Los fondos que la Administradora en liquidación reciba por estos conceptos serán inembargables.
 
 > **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
@@ -1820,7 +1842,7 @@ Los trabajadores que se incorporen al Sistema durante un período licitado será
 
 En caso de constitución de una nueva Administradora, ésta deberá adherir a los contratos de seguro vigentes, adquiriendo todos los derechos y obligaciones establecidos en aquéllos.
 
-En caso de quiebra de alguna de las compañías de seguros adjudicatarias de la licitación, las restantes compañías adjudicatarias asumirán el riesgo correspondiente a los siniestros ocurridos desde la quiebra de la compañía y hasta que expire el período de vigencia del contrato, pudiendo recalcularse la cotización destinada al financiamiento del seguro, a que se refiere el artículo 17, de acuerdo a lo que establezca la norma de carácter general a que se refiere el inciso primero.
+En caso de disolución o que se dicte la resolución de liquidación en los términos de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas de alguna de las compañías de seguros adjudicatarias de la licitación, las restantes compañías adjudicatarias asumirán el riesgo correspondiente a los siniestros ocurridos desde la dictación de la resolución de liquidación de la compañía y hasta que expire el período de vigencia del contrato, pudiendo recalcularse la cotización destinada al financiamiento del seguro, a que se refiere el artículo 17, de acuerdo a lo que establezca la norma de carácter general a que se refiere el inciso primero.
 
 > **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
@@ -1922,7 +1944,7 @@ De la Renta Vitalicia Inmediata y de la Renta Vitalicia Inmediata con Retiro Pro
 
 Renta Vitalicia Inmediata es aquella modalidad de pensión que contrata un afiliado con una Compañía de Seguros de Vida, en la que ésta se obliga al pago de una renta mensual, desde el momento en que se suscribe el contrato y hasta su fallecimiento y a pagar pensiones de sobrevivencia a sus beneficiarios señalados en el artículo 5°, según corresponda.
 
-El contrato de seguro a que se refiere el inciso precedente deberá ajustarse a las normas generales que dicte la Superintendencia de Valores y Seguros y tendrá el carácter de irrevocable. Las mencionadas normas deberán resguardar la naturaleza previsional de este seguro y permitir una adecuada comparación de las ofertas de pensión. En forma previa a la emisión de estas normas la Superintendencia de Valores y Seguros consultará la opinión de la Superintendencia de Pensiones. En todo caso, para el cálculo de la renta deberá considerarse el total del saldo de la cuenta individual del afiliado, salvo que éste opte por retirar excedentes de libre disposición en conformidad al inciso sexto. El monto de la renta mensual que resulte de aplicar lo anterior, podrá ser constante o variable en el tiempo. Las rentas vitalicias constantes y la parte fija de las rentas vitalicias variables, deberán expresarse en unidades de fomento. El componente variable podrá expresarse en moneda de curso legal, en moneda extranjera o en un índice asociado a carteras de inversión que sea autorizado por la misma Superintendencia. En el caso de que la renta mensual pactada sea variable, el componente fijo de la renta vitalicia deberá cumplir con el requisito que establece el inciso siguiente, a menos que se trate de una pensión de vejez anticipada, en cuyo caso el componente fijo de la renta pactada deberá ser al menos equivalente al ciento cincuenta por ciento de la pensión mínima a que se refiere el inciso antes señalado.
+El contrato de seguro a que se refiere el inciso precedente deberá ajustarse a las normas generales que dicte la Superintendencia de Valores y Seguros y tendrá el carácter de irrevocable. Las mencionadas normas deberán resguardar la naturaleza previsional de este seguro y permitir una adecuada comparación de las ofertas de pensión. En forma previa a la emisión de estas normas la Superintendencia de Valores y Seguros consultará la opinión de la Superintendencia de Pensiones. En todo caso, para el cálculo de la renta deberá considerarse el total del saldo de la cuenta individual del afiliado, salvo que éste opte por retirar excedentes de libre disposición en conformidad al inciso sexto. El monto de la renta mensual que resulte de aplicar lo anterior, podrá ser constante o variable en el tiempo. Las rentas vitalicias constantes y la parte fija de las rentas vitalicias variables, deberán expresarse en unidades de fomento. El componente variable podrá expresarse en moneda de curso legal, en moneda extranjera o en un índice asociado a carteras de inversión que sea autorizado por la misma Superintendencia. En el caso de que la renta mensual pactada sea variable, el componente fijo de la renta vitalicia deberá cumplir con el requisito que establece el inciso siguiente, a menos que se trate de una pensión de vejez anticipada, en cuyo caso el componente fijo de la renta pactada deberá ser al menos equivalente al cien por ciento de la pensión máxima con aporte solidario.
 
 Por la modalidad de renta vitalicia inmediata sólo podrán optar aquellos afiliados que puedan contratar una renta que sea igual o mayor que la pensión básica solidaria de vejez.
 
@@ -1930,7 +1952,7 @@ El contrato de seguro de renta vitalicia se perfecciona mediante la aceptación 
 
 Efectuado el traspaso a la Compañía de Seguros respectiva, entrará en vigencia el contrato y ésta será exclusivamente responsable y obligada al pago de las rentas vitalicias y pensiones de sobrevivencia contratadas, al afiliado y a sus beneficiarios, cuando corresponda.
 
-Los afiliados que contraten una renta vitalicia mayor o igual al ciento cincuenta por ciento de la pensión mínima de vejez señalada en el artículo 73 y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63, una vez pagada la prima a la compañía de seguros, podrán disponer libremente del excedente que quedare en la cuenta de capitalización individual. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
+Los afiliados que contraten una renta vitalicia mayor o igual al cien por ciento de la pensión máxima con aporte solidario y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63, una vez pagada la prima a la compañía de seguros, podrán disponer libremente del excedente que quedare en la cuenta de capitalización individual. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
 
 Sin perjuicio de lo anterior, el afiliado podrá siempre disponer de dicho excedente, para incrementar el monto de la pensión que estuviere percibiendo. En tal caso, transferirá el excedente a la compañía de seguros con la cual hubiere contratado la renta vitalicia, debiendo celebrar un nuevo contrato de seguro.
 
@@ -1946,7 +1968,21 @@ Los afiliados o beneficiarios de pensión que opten por contratar una renta vita
 
 Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que la pensión básica solidaria de vejez.
 
-Bajo esta modalidad de pensión tendrán derecho a retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual al ciento cincuenta por ciento de la pensión mínima de vejez señalada en el artículo 73 y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo siguiente. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
+Bajo esta modalidad de pensión tendrán derecho a
+
+retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual al cien por ciento de la
+
+pensión máxima con aporte solidario y al setenta por
+
+ciento del promedio de las remuneraciones percibidas
+
+y rentas declaradas, calculado según lo establecido en
+
+el artículo siguiente. Tratándose de afiliados
+
+declarados inválidos se considerará el setenta por
+
+ciento del ingreso base.
 
 No obstante lo establecido en el inciso tercero del artículo 23, los afiliados que seleccionen la modalidad de pensión definida en este artículo, y que contraten una Renta Vitalicia Inmediata constante que cumpla con los requisitos señalados en el inciso anterior, podrán optar por cualquiera de los Fondos de la Administradora, con aquella parte del saldo con la que se acogen a la modalidad de retiro programado.
 
@@ -1990,7 +2026,7 @@ Dicho cálculo deberá ajustarse anualmente, a contar de la fecha en que fue det
 
 En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, como también por que su renta temporal mensual sea ajustada al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
 
-El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual al ciento cincuenta por ciento de la pensión mínima de vejez señalada en el artículo 73 y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
+El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual al cien por ciento de la pensión máxima con aporte solidario y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
@@ -2016,7 +2052,7 @@ El afiliado que haga uso de la opción de retiro programado, para quien el saldo
 
 Se entenderá por saldo mínimo requerido el capital necesario para pagar, al afiliado y a sus beneficiarios, de acuerdo con los porcentajes establecidos en el artículo 58, una pensión equivalente al setenta por ciento del promedio de remuneraciones a que se refiere el artículo 63 o al setenta por ciento del ingreso base, cuando se trate de afiliados declarados inválidos.
 
-No obstante, el saldo mínimo requerido deberá ser mayor o igual que el capital necesario para pagar al afiliado el equivalente al ciento cincuenta por ciento de una pensión mínima de vejez garantizada por el Estado y la proporción de ésta que corresponda a cada beneficiario, vigente al momento del cálculo. Con todo, el saldo mínimo no podrá ser inferior al requerido para financiar una pensión que cumpla los requisitos antes definidos, en la modalidad de renta vitalicia inmediata sin condiciones especiales de cobertura, la que se determinará sobre la base del costo por unidad de pensión promedio de las ofertas seleccionables por el afiliado, recibidas a través del sistema de consultas.
+No obstante, el saldo mínimo requerido deberá ser mayor o igual que el capital necesario para pagar al afiliado el equivalente al cien por ciento de la pensión máxima con aporte solidario y la proporción de ésta que corresponda a cada beneficiario, vigente al momento del cálculo. Con todo, el saldo mínimo no podrá ser inferior al requerido para financiar una pensión que cumpla los requisitos antes definidos, en la modalidad de renta vitalicia inmediata sin condiciones especiales de cobertura, la que se determinará sobre la base del costo por unidad de pensión promedio de las ofertas seleccionables por el afiliado, recibidas a través del sistema de consultas.
 
 El capital necesario a que se refieren los dos incisos anteriores se calculará de la forma que señala el inciso segundo de este artículo.
 
@@ -2116,13 +2152,13 @@ Los afiliados podrán pensionarse en las condiciones prescritas en la presente l
 
 a) Obtener una pensión igual o superior al setenta por ciento del promedio de las remuneraciones imponibles percibidas y rentas declaradas, calculado según lo dispuesto en el artículo 63, y
 
-b) Obtener una pensión igual o superior al ciento
+b) Obtener una pensión igual o superior al
 
-cincuenta por ciento de la pensión mínima señalada
+ochenta por ciento de la pensión máxima con aporte
 
-en el artículo 73, vigente a la fecha en que se
+solidario, vigente a la fecha en que se acoja a
 
-acoja a pensión.
+pensión.
 
 Para los efectos de lo dispuesto en el inciso anterior, los afiliados que tuvieren derecho al Bono de Reconocimiento y a su complemento, si correspondiere, y pudieren financiar la pensión con el monto de éste o éstos más el saldo de su cuenta de capitalización individual, podrán ceder sus derechos sobre dichos documentos por el simple endoso en la forma que determine el reglamento o transfiriendo el Bono desmaterializado de acuerdo a lo dispuesto en los artículos 7 y 8 de la ley N 18.876. En estos casos, dichos documentos sólo se pagarán en las fechas de vencimiento indicadas en ellos.
 
@@ -2188,7 +2224,7 @@ Los retiros de excedente de libre disposición que se generen por opción de los
 
 El saldo que quedare en la cuenta de capitalización individual o en la cuenta de ahorro voluntario de un afiliado fallecido, que incremente la masa de bienes del difunto, estará exento del Impuesto que establece la Ley de Impuesto a las Herencias, Asignaciones y Donaciones, en la parte que no exceda de cuatro mil Unidades de Fomento.
 
-No se exigirá acreditar la posesión efectiva de la herencia al cónyuge ni a los padres e hijos legítimos o naturales del afiliado, para retirar el saldo a que se refiere el inciso anterior, en aquellos casos en que éste no exceda de cinco Unidades Tributarias anuales.
+No se exigirá acreditar la posesión efectiva de la herencia al cónyuge, ni al conviviente civil, ni a los padres e hijos del afiliado, para retirar el saldo a que se refiere el inciso anterior, en aquellos casos en que éste no exceda de cinco Unidades Tributarias anuales.
 
 > **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
 
@@ -2272,9 +2308,9 @@ DEROGADO
 
 Otórgase la garantía del Estado a los aportes adicionales y a la contribución, señalados en el artículo 53, a las rentas vitalicias señaladas en las letras a) y b) del artículo 61, a las pensiones de invalidez originadas por un primer dictamen señaladas en el artículo 54, y a la cuota mortuoria a que se refiere el artículo 88.
 
-El monto de dicha garantía estatal será equivalente al ciento por ciento de la diferencia que faltare para completar el aporte adicional, la contribución y las pensiones de invalidez originadas por un primer dictamen, en caso de que por cesación de pagos o por declaratoria de quiebra de una Compañía de Seguros obligada al pago de dichos beneficios, éstos no pudieren ser enterados o pagados total y oportunamente, circunstancias que deberán ser certificadas por la Superintendencia de Pensiones. Para estos efectos el Estado podrá licitar un seguro que cubra los beneficios antes mencionados.
+El monto de dicha garantía estatal será equivalente al ciento por ciento de la diferencia que faltare para completar el aporte adicional, la contribución y las pensiones de invalidez originadas por un primer dictamen, en caso de que por cesación de pagos o por la dictación de la resolución de liquidación de una Compañía de Seguros obligada al pago de dichos beneficios, éstos no pudieren ser enterados o pagados total y oportunamente, circunstancias que deberán ser certificadas por la Superintendencia de Pensiones. Para estos efectos el Estado podrá licitar un seguro que cubra los beneficios antes mencionados.
 
-En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente al cien por ciento de la pensión básica solidaria de vejez, en caso de que por cesación de pagos o por declaratoria de quiebra, las Compañías de Seguros no dieren cumplimiento a las obligaciones emanadas de los contratos celebrados con los afiliados en las condiciones señaladas en esta ley, o estas rentas pudieran ser pagadas con retraso, circunstancias que deberán ser certificadas por la Superintendencia de Valores y Seguros.
+En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente al cien por ciento de la pensión básica solidaria de vejez, en caso de que por cesación de pagos o por la dictación de la resolución de liquidación, las Compañías de Seguros no dieren cumplimiento a las obligaciones emanadas de los contratos celebrados con los afiliados en las condiciones señaladas en esta ley, o estas rentas pudieran ser pagadas con retraso, circunstancias que deberán ser certificadas por la Superintendencia de Valores y Seguros.
 
 La garantía estatal señalada en los incisos precedentes cubrirá aquella parte del aporte adicional, contribución, pensiones de invalidez originadas por el primer dictamen y rentas vitalicias, no pagadas por la Compañía de Seguros.
 
@@ -2282,9 +2318,9 @@ Respecto de las rentas vitalicias de montos superiores a los señalados en el in
 
 En todo caso, tratándose de rentas vitalicias, la garantía del Estado no podrá exceder, mensualmente y por cada pensionado o beneficiario, de cuarenta y cinco Unidades de Fomento, suma esta de la que se deducirá la cantidad correspondiente al pago parcial que se hubiere efectuado, en su caso.
 
-En el caso de la cuota mortuoria, la garantía del Estado operará por cesación de pagos o declaratoria de quiebra de la Compañía de Seguros a la que le correspondiere el pago, si ésta no hubiere dado cumplimiento a dicho pago.
+En el caso de la cuota mortuoria, la garantía del Estado operará por cesación de pagos o la dictación de la resolución de liquidación de la Compañía de Seguros a la que le correspondiere el pago, si ésta no hubiere dado cumplimiento a dicho pago.
 
-En los casos en que la garantía estatal hubiere operado, el Estado repetirá en contra de la fallida por el monto de lo pagado y su crédito gozará del privilegio del N° 6 del artículo 2472 del Código Civil.
+En los casos en que la garantía estatal hubiere operado, el Estado repetirá en contra de la Compañía de Seguros que tenga la calidad de deudora en un procedimiento concursal de liquidación por el monto de lo pagado y su crédito gozará del privilegio del N° 6 del artículo 2472 del Código Civil.
 
 Los créditos de los pensionados en contra de una Compañía de Seguros gozarán del privilegio establecido en el N° 5 de la disposición legal a que se refiere el inciso anterior.
 
@@ -2344,6 +2380,8 @@ Aquellos afiliados pensionados bajo la modalidad de retiro programado o renta te
 
 > **Nota.** NOTA 3 El Artículo 2 de la Ley 20531, publicada el 31.08.2011, dispone que a contar del día 1 de diciembre de 2012, la cotización legal consagrada en este artículo, será de 5% para los pensionados del sistema de pensiones establecidos en las leyes N°s 16.744, 19.234, y en el presente Decreto, siempre que cumplan con los requisitos establecidos en las letras a) y c) del artículo 3º de la ley Nº 20.255 y que integren un grupo familiar perteneciente a los cuatro primeros quintiles de la población de Chile conforme al instrumento técnico de focalización señalado en el artículo 32 de la ley antes citada. Asimismo ordena que esta rebaja no será aplicable a las pensiones de los regímenes de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile. Y, finalmente, consagra que los pensionados que sean beneficiarios del Sistema de Pensiones Solidarias se aplicarán las normas de exención de la referida cotización contenidas en el artículo 31 de la ley Nº 20.255 y en el artículo 1º de la referida ley N° 20531, según corresponda.
 
+> **Nota.** NOTA 4 El artículo segundo transitorio de la ley 20864, publicada el 15.10.2015, dispone que a contar del día 16.10.2015 y durante los doce meses siguientes, la cotización legal será del 3% para aquellos pensionados que cumplan los requisitos establecidos en el artículo 2º o segundo transitorio, ambos de la ley Nº20.531.
+
 #### Artículo 86
 
 Los trabajadores afiliados al Sistema que obtengan una pensión de invalidez total o parcial proveniente de la ley N° 16.744, del decreto con fuerza de ley N° 338, de 1960, o de cualquier otro cuerpo legal que contemple la protección contra riesgos de accidentes del trabajo o enfermedades profesionales, deberán efectuar las cotizaciones establecidas en los artículos 17 y 85 de esta ley.
@@ -2364,7 +2402,7 @@ En estos casos, los fondos acumulados en la cuenta de capitalización individual
 
 Tendrá derecho al beneficio de cuota mortuoria consistente en el retiro del equivalente a 15 Unidades de Fomento de la respectiva cuenta individual, quien, unido o no por vínculo de matrimonio o parentesco con el afiliado fallecido, acredite haberse hecho cargo de los gastos del funeral.
 
-Sin embargo, si quien hubiere hecho los gastos fuere persona distinta del cónyuge, hijos o padre del afiliado fallecido, sólo tendrá derecho a tal retiro hasta la concurrencia del monto efectivo de su gasto, con el límite de 15 Unidades de Fomento, quedando el saldo hasta completar dicha cifra a disposición del o la cónyuge sobreviviente, y a falta de éste, de los hijos o los padres del afiliado.
+Sin embargo, si quien hubiere hecho los gastos fuere persona distinta del cónyuge o conviviente civil, hijos o padre del afiliado fallecido, sólo tendrá derecho a tal retiro hasta la concurrencia del monto efectivo de su gasto, con el límite de 15 Unidades de Fomento, quedando el saldo hasta completar dicha cifra a disposición del o la cónyuge o conviviente civil sobreviviente, y a falta de éste, de los hijos o los padres del afiliado.
 
 Este pago también deberá ser efectuado, en las mismas condiciones, por la Compañía de Seguros que, en su caso, estuviere pagando una renta vitalicia.
 
@@ -2384,7 +2422,7 @@ De los Afiliados Independientes
 
 #### Artículo 89
 
-Toda persona natural que, sin estar subordinada a un empleador, ejerce una actividad mediante la cual obtiene un ingreso, podrá afiliarse al Sistema que establece esta ley.
+Toda persona natural que, sin estar subordinada a un empleador, ejerza individualmente una actividad mediante la cual obtiene rentas del trabajo de las señaladas en el inciso primero del artículo siguiente, deberá afiliarse al Sistema que establece esta ley.
 
 La primera cotización efectuada a una Administradora por un independiente, produce su afiliación al Sistema y su adscripción al Fondo por el que éste opte. En todo caso, se aplicará lo establecido en los incisos tercero y quinto del artículo 23.
 
@@ -2394,23 +2432,35 @@ La primera cotización efectuada a una Administradora por un independiente, prod
 
 #### Artículo 90
 
-La renta imponible mensual será aquella que el interesado declare mensualmente a la Administradora en que se afilie, la que no podrá ser inferior a un ingreso mínimo, ni superior al equivalente a sesenta Unidades de Fomento.
+La renta imponible será anual y corresponderá al 80% del conjunto de rentas brutas gravadas por el artículo 42, N°2, de la Ley sobre Impuesto a la Renta, obtenida por el afiliado independiente en el año calendario anterior a la declaración de dicho impuesto, la que no podrá ser inferior a un ingreso mínimo mensual, ni superior al producto de multiplicar 12 por el límite máximo imponible establecido en el inciso primero del artículo 16, para lo cual la unidad de fomento corresponderá a la del último día del mes de diciembre.
+
+Si un trabajador percibe simultáneamente rentas del inciso anterior y remuneraciones de uno o más empleadores, todas las remuneraciones imponibles y rentas imponibles del inciso anterior, se sumarán para los efectos de aplicar el límite máximo anual establecido en el inciso precedente, de acuerdo a lo que determine una norma de carácter general de la Superintendencia.
+
+Los trabajadores independientes que no perciban rentas de las señaladas en el inciso primero podrán cotizar conforme a lo establecido en el Párrafo 2° de este Título IX. No obstante, las cotizaciones de pensiones y salud efectuadas por estos trabajadores independientes, tendrán el carácter de cotizaciones previsionales para los efectos de la Ley sobre Impuesto a la Renta.
+
+Se entenderá por "año calendario" el período de doce meses que termina el 31 de diciembre.
 
 #### Artículo 91
 
-Las personas que se afilien en conformidad a las normas establecidas en este Título, tendrán derecho al Sistema de Pensiones de esta ley y las prestaciones de salud establecidas en las leyes Nos. 6.174, 10.383 y 16.781. Al efectuar la primera cotización, el afiliado deberá optar entre las prestaciones de salud establecidas en las leyes Nos. 10.383 y 16.781. Si así no lo hiciere, se entenderá que opta por las de la ley N° 10.383.
+Las personas que se afilien en conformidad a las normas establecidas en este Párrafo tendrán derecho al Sistema de Pensiones de esta ley y a las prestaciones de salud establecidas en el decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469.
 
-Si el trabajador optare por las de la ley N° 10.383, la cónyuge y los hijos tendrán los beneficios establecidos en dicha ley cuando cumplan con los requisitos que dicho cuerpo legal señala, sin perjuicio de lo dispuesto en el decreto ley N° 2.575, de 1979. Si optare por las de la ley N° 16.781, el trabajador tendrá derecho a los beneficios señalados en esa ley para sí y para su cónyuge y sus hijos hasta los 18 años o mayores de esa edad y hasta los 24 años, solteros, que sigan cursos regulares en la enseñanza básica, media, técnica o superior, y que vivan a sus expensas.
+INCISO ELIMINADO.
 
 Los trabajadores independientes que se incorporen al Sistema que establece esta ley, continuarán afectos a los regímenes de Sistema Unico de Prestaciones Familiares y de Subsidio de Cesantía, cuando a la fecha de su incorporación hubieren estado afiliados a un régimen de previsión que contemplara en su favor el beneficio de asignación familiar o el beneficio de subsidio de cesantía, mientras desempeñen la actividad que les otorgó la calidad de imponentes de dicho régimen de previsión.
 
 #### Artículo 92
 
-Los afiliados independientes estarán afectos a las cotizaciones que se establecen en el Título III y un siete por ciento destinado a financiar prestaciones de salud, que será recaudado por la Administradora y enterado en el Fondo Nacional de Salud.
+Los trabajadores independientes que en el año respectivo perciban ingresos de los señalados en el inciso primero del artículo 90, estarán afectos a las cotizaciones que se establecen en el Título III y a un siete por ciento destinado a financiar prestaciones de salud las que se enterarán en el Fondo Nacional de Salud, cuando correspondan. Dichas cotizaciones se pagarán de acuerdo a lo establecido en los incisos cuarto y quinto del presente artículo y en el artículo 92 F. Los afiliados independientes a que se refiere el inciso tercero del artículo 90, estarán afectos a las cotizaciones que se establecen en el Título III y a un siete por ciento destinado a financiar prestaciones de salud, que será recaudado por la Administradora y enterado en el Fondo Nacional de Salud.
 
-No obstante lo anterior, los afiliados a que se refiere este Título, podrán optar por el sistema de salud que se establece en los incisos tercero y siguientes del artículo 84.
+No obstante lo anterior, los afiliados a que se refiere este Párrafo, podrán optar por el sistema de salud que se establece en los incisos tercero y siguientes del artículo 84.
 
-Cuando el afiliado opte de acuerdo a lo establecido en el inciso anterior y decida pagar una cotización superior al siete por ciento, deberá así establecerlo al momento de contratar con la institución de salud respectiva. En todo caso, el cotizante gozará de la exención establecida en el artículo 18, hasta un monto máximo de 4,2 Unidades de Fomento, consideradas éstas al valor del último día del mes anterior a aquél en que se pague la cotización.
+Cuando el afiliado opte de acuerdo a lo establecido en el inciso anterior y decida pagar una cotización superior al siete por ciento, deberá así establecerlo al momento de contratar con la institución de salud respectiva. En todo caso, el cotizante gozará de la exención establecida en el artículo 18, hasta un monto máximo equivalente al siete por ciento del límite imponible que resulte de aplicar el artículo 16, considerando el valor de la unidad de fomento al último día del mes anterior a aquél en que se pague la cotización.
+
+Los trabajadores independientes señalados en el artículo 89, podrán efectuar mensualmente pagos provisionales de las cotizaciones señaladas en el Título III, las cuales deberán enterarse de acuerdo al inciso primero del artículo 19, y se imputarán a las cotizaciones de pensiones que estén obligados a pagar por el mismo año en que se efectuaron dichos pagos. En este caso, el trabajador podrá pagar la cotización de salud en la Administradora, quien la enterará en el Fondo Nacional de Salud.
+
+El trabajador independiente a que se refiere el artículo 89, deberá pagar mensualmente las cotizaciones de salud que entere en el Fondo Nacional de Salud. La renta imponible mensual será la que el afiliado declare mensualmente al Fondo Nacional de Salud o a la Administradora en el caso del inciso anterior, la que no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16. Sin perjuicio de lo anterior, cada año se practicará una reliquidación para determinar las diferencias que existieren entre las rentas imponibles que declaró mensualmente en el año calendario anterior y la renta imponible anual señalada en el inciso primero del artículo 90 determinada con los ingresos de dicho año calendario. En el caso que el trabajador independiente no hubiere realizado los pagos antes señalados o que de la reliquidación practicada existieren rentas imponibles sobre las que no se hubieren realizado cotizaciones de salud, estos pagos se efectuarán de acuerdo al artículo 92 F.
+
+No obstante lo establecido en el artículo 148 del decreto con fuerza de ley N° 1, de 2006, del Ministerio de Salud, los trabajadores independientes señalados en el artículo 89, para tener derecho a las prestaciones médicas que proporciona el Régimen de Prestaciones de Salud y a la atención en la modalidad de "libre elección", requerirán haber cotizado en el mes inmediatamente anterior a la fecha en que impetren el beneficio, o haber pagado a lo menos seis cotizaciones continuas o discontinuas en los últimos doce meses anteriores a la fecha en que se impetren los beneficios.
 
 > **Nota.** El artículo 4° de LEY 18137 publicada en el Diario Oficial de 05.07.1982, establece que las modificaciones en el Art. 2° letra d, comenzarán a regir a contar del día 1° del mes subsiguiente a la fecha de su publicación.
 
@@ -2419,6 +2469,58 @@ Cuando el afiliado opte de acuerdo a lo establecido en el inciso anterior y deci
 > **Nota.** NOTA 2: El artículo 64 de la ley N° 18.768, publicada en el "Diario Oficial" de 29 de diciembre de 1988, dispuso que, a contar del 1° de marzo de 1989, los trabajadores dependientes e independientes afiliados a instituciones de previsión fiscalizadas por la Superintendencia de Seguridad Social, deberán efectuar, para financiar las prestaciones de Salud, la cotización a que se refiere el inciso segundo del presente artículo y el artículo 92 de este decreto ley, respectivamente, aplicada sobre sus remuneraciones o rentas imponibles para Salud.
 
 > **Nota.** NOTA 3: El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
+
+#### Artículo 92
+
+A.- Las Administradoras de Fondos de Pensiones, certificarán el monto total de pagos provisionales efectuados de acuerdo al inciso cuarto del artículo 92, por el trabajador independiente en el año calendario anterior y el monto de las cotizaciones declaradas y pagadas, y declaradas y no pagadas por el o los empleadores, si dicho trabajador percibe simultáneamente remuneraciones durante ese período.
+
+A más tardar el último día del mes de febrero de cada año, las Administradoras de Fondos de Pensiones deberán remitir a los afiliados, el certificado señalado en el inciso anterior. Además, dentro de ese mismo plazo, dichas Administradoras deberán informar al Servicio de Impuestos Internos lo señalado en el inciso anterior, junto con el detalle de los saldos insolutos a que se refiere el artículo 92 G y la demás información necesaria para el cumplimiento de este Título. La Superintendencia de Pensiones y el Servicio de Impuestos Internos, mediante norma de carácter general conjunta, regularán la forma de entregar la información a que se refiere este artículo.
+
+#### Artículo 92
+
+B.- En el mes de febrero de cada año, el Fondo Nacional de Salud informará al Servicio de Impuestos Internos el monto de las cotizaciones de salud que hubiere pagado mensualmente el trabajador independiente de acuerdo a lo establecido en el inciso quinto del artículo 92, en el año calendario inmediatamente anterior a dicho mes. Además, la Superintendencia de Salud informará al Servicio de Impuestos Internos, sobre la Institución de Salud Previsional a la que se encuentren afiliados los trabajadores independientes.
+
+#### Artículo 92
+
+C.- La comisión a que tendrán derecho las administradoras de fondos de pensiones por las cotizaciones previsionales obligatorias que en virtud del artículo 89 se paguen anualmente por los trabajadores independientes afiliados a ellas, corresponderá al porcentaje promedio de las comisiones que la administradora a la que pertenezca el afiliado hubiere cobrado en el ejercicio anterior al pago de dichas cotizaciones. La Superintendencia de Pensiones dictará una norma de carácter general para su aplicación.
+
+#### Artículo 92
+
+D.- El Servicio de Impuestos Internos verificará anualmente el monto efectivo que debió pagar el afiliado independiente por concepto de las cotizaciones señaladas en el inciso primero del artículo 92. Lo anterior lo informará tanto a la Tesorería General de la República como a la administradora de fondos de pensiones en la cual se encuentre afiliado el trabajador. El reglamento establecerá la forma de determinar el cálculo de las cotizaciones obligatorias a que se encuentren afectos dichos afiliados, considerando los descuentos que procedan por las cotizaciones de pensiones y de salud enteradas en el Fondo Nacional de Salud que hubiere realizado el trabajador en su calidad de dependiente, como aquellos pagos que hubiere efectuado de conformidad a los incisos cuarto y quinto del artículo 92, todos en el año calendario inmediatamente anterior a aquel en que deba pagar sus cotizaciones como afiliado independiente y reajustados según determine este reglamento.
+
+#### Artículo 92
+
+E.- Para los efectos del seguro de invalidez y sobrevivencia, el trabajador independiente que hubiese efectuado sus cotizaciones obligatorias conforme al artículo siguiente, por una renta imponible anual de un monto igual o superior al equivalente a siete ingresos mínimos mensuales, tendrá una cobertura anual de ese seguro desde el día 1 de mayo del año en que pagó las cotizaciones hasta el día 30 de abril del año siguiente a dicho pago. En el caso que dicha renta imponible sea de un monto inferior al antes indicado, el independiente que cotice según esta modalidad, estará cubierto por el mencionado seguro en el número de meses que resulte de multiplicar 12 por la razón entre el número de cotizaciones equivalentes a ingresos mínimos mensuales y siete, contados desde el 1 de mayo del año en que pagó las cotizaciones. En todo caso, sea cual fuere el monto de la cotización enterada, el trabajador siempre estará cubierto en el mes de mayo del año en que efectúe el pago. Mediante una norma de carácter general la Superintendencia de Pensiones regulará la forma de realizar el mencionado cálculo.
+
+#### Artículo 92
+
+F.- Las cotizaciones obligatorias señaladas en el inciso primero del artículo 92, se pagarán de acuerdo al siguiente orden:
+
+i) con las cotizaciones obligatorias que hubiere realizado el trabajador independiente, en el caso que además fuere trabajador dependiente;
+
+ii) con los pagos provisionales a que se refiere el inciso cuarto del artículo 92;
+
+iii) con cargo a las cantidades retenidas o pagadas en conformidad a lo establecido en los artículos 84, 88 y 89 de la Ley sobre Impuesto a la Renta, con preeminencia a otro cobro, imputación o pago de cualquier naturaleza, y
+
+iv) con el pago efectuado directamente por el afiliado del saldo que pudiere resultar, el cual deberá efectuarse en el plazo que establezca la Superintendencia de Pensiones mediante norma de carácter general.
+
+Para efectos de lo dispuesto en el literal iii) del inciso precedente, el Servicio de Impuestos Internos comunicará a la Tesorería General de la República, en el mismo plazo que establece el artículo 97 de la Ley sobre Impuesto a la Renta, la individualización de los afiliados independientes que deban pagar las cotizaciones del Título III y la destinada a financiar prestaciones de salud del Fondo Nacional de Salud y el monto a pagar por dichos conceptos. Además deberá informarle el nombre de la Administradora de Fondos de Pensiones a la cual se encuentre afiliado el trabajador.
+
+La Tesorería General de la República deberá enterar, con cargo a las cantidades retenidas mencionadas en el inciso anterior y hasta el monto en que dichos recursos alcancen para realizar el pago respectivo, la cotización obligatoria determinada por concepto de pensiones en el fondo de pensiones de la Administradora de Fondos de Pensiones en que se encuentre incorporado el trabajador independiente para ser imputados y registrados en su cuenta de capitalización individual a título de cotizaciones obligatorias. Por otra parte, dicha Tesorería enterará las cotizaciones de salud en el Fondo Nacional de Salud.
+
+#### Artículo 92
+
+G.- Si las cantidades señaladas en el numeral iii) del inciso primero del artículo anterior fueren de un monto inferior a las cotizaciones que le faltaren por pagar, se pagarán en primer lugar las destinadas al financiamiento del seguro a que se refiere el artículo 59; en segundo lugar, las cotizaciones del Seguro Social de la ley Nº 16.744; en tercer lugar, las destinadas al financiamiento de la cotización obligatoria para pensión establecida en el inciso primero del artículo 17 y a la comisión señalada en el artículo 28; en cuarto lugar, los saldos insolutos pendientes de las cotizaciones a que se refiere el orden inmediatamente anterior, que no hubieren podido cubrirse en los años precedentes, reajustados de conformidad con lo dispuesto en el inciso décimo del artículo 19; y, en quinto lugar, las cotizaciones de salud señaladas en el inciso primero del artículo 92.
+
+#### Artículo 92
+
+H.- Al trabajador independiente señalado en el artículo 89, que sea beneficiario del aporte previsional solidario de vejez y no se encontrare al día en el pago de sus cotizaciones de pensiones, se le calculará un aporte previsional solidario reducido, para lo cual se considerará una pensión máxima con aporte solidario reducida, equivalente a la mitad de la suma de la pensión básica solidaria de vejez y de la pensión máxima con aporte solidario.
+
+La reducción a que se refiere el inciso anterior, sólo se aplicará por un número determinado de meses, contados desde que el trabajador independiente cumpla 65 años de edad. Para determinar los meses afectos a reducción, se considerará el monto total de cotizaciones de pensiones adeudadas, al que se le aplicará un interés real del 4% anual, desde el mes siguiente al que comenzaron a adeudarse y hasta la fecha en que cumpla 65 años de edad; este monto, se multiplicará por el factor de ajuste utilizado para el cálculo del aporte previsional solidario de vejez sin reducción, y el resultado que se obtenga se dividirá por la diferencia entre el aporte previsional solidario de vejez sin reducción y con reducción. El resultado que se obtenga corresponderá al número de meses durante el cual se aplicará la reducción que establece el inciso anterior. Con todo, si la cantidad que se obtuviere fuere superior a 60, se considerará esta última.
+
+#### Artículo 92
+
+I.- Los trabajadores independientes afiliados a algunas de las instituciones de previsión del régimen antigüo administradas por el Instituto de Normalización Previsional o de la Dirección de Previsión de Carabineros de Chile o en la Caja de Previsión de la Defensa Nacional, no estarán obligados a cotizar de acuerdo a las normas del presente Párrafo, y seguirán rigiéndose por las normas de sus respectivos regímenes previsionales. Estas instituciones deberán informar al Servicio de Impuestos Internos en la forma y plazo que éste determine, el nombre y Rol Único Tributario de sus afiliados.
 
 ### Párrafo 2° — .
 
@@ -2460,11 +2562,11 @@ Para efectos de la cobertura del seguro a que se refiere el inciso anterior, cua
 
 #### Artículo 92
 
-M.- Los trabajadores dependientes cuyo cónyuge posea la calidad de afiliado voluntario, podrán autorizar a sus respectivos empleadores para que les descuenten de sus remuneraciones, bajo las normas establecidas en este párrafo y en el artículo 58 del Código del Trabajo, las sumas que destinen a cotizaciones para la cuenta de capitalización individual voluntaria de su cónyuge, incluyendo la cotización adicional. El empleador enterará esta cotización en la Administradora en que se encuentre incorporado el afiliado voluntario o en la que se encuentre afiliado su trabajador dependiente, según lo que aquél determine. En el último caso, la Administradora deberá destinar los recursos pertenecientes al afiliado voluntario a la Administradora en que éste se encuentre incorporado, en la forma que la Superintendencia establezca mediante una norma de carácter general. Respecto de estas cotizaciones se aplicarán las mismas normas establecidas en el artículo 19 para los trabajadores dependientes. Con todo, cesará la referida obligación en cada uno de los meses en que proceda un pago de cotizaciones del trabajador a través de una entidad pagadora de subsidios.
+M.- Los trabajadores dependientes cuyo cónyuge o conviviente civil posea la calidad de afiliado voluntario, podrán autorizar a sus respectivos empleadores para que les descuenten de sus remuneraciones, bajo las normas establecidas en este párrafo y en el artículo 58 del Código del Trabajo, las sumas que destinen a cotizaciones para la cuenta de capitalización individual voluntaria de su cónyuge o conviviente civil, incluyendo la cotización adicional. El empleador enterará esta cotización en la Administradora en que se encuentre incorporado el afiliado voluntario o en la que se encuentre afiliado su trabajador dependiente, según lo que aquél determine. En el último caso, la Administradora deberá destinar los recursos pertenecientes al afiliado voluntario a la Administradora en que éste se encuentre incorporado, en la forma que la Superintendencia establezca mediante una norma de carácter general. Respecto de estas cotizaciones se aplicarán las mismas normas establecidas en el artículo 19 para los trabajadores dependientes. Con todo, cesará la referida obligación en cada uno de los meses en que proceda un pago de cotizaciones del trabajador a través de una entidad pagadora de subsidios.
 
 La Administradora tendrá derecho a cobrar comisión por transferencia de cotizaciones, en los mismos términos establecidos en el inciso final del artículo 20 C.
 
-Dicha cotización a nombre del cónyuge no dará derecho al trabajador dependiente a la exención tributaria a que se refiere el artículo 18 de esta ley.
+Dicha cotización a nombre del cónyuge o conviviente civil no dará derecho al trabajador dependiente a la exención tributaria a que se refiere el artículo 18 de esta ley.
 
 > **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
@@ -2554,9 +2656,9 @@ d) Deficiencias graves en los controles internos relativos a la gestión de los 
 
 e) Presunciones fundadas de que se han violado las normas sobre conflictos de interés, operaciones con personas relacionadas o el giro exclusivo de la Administradora o de las entidades de su grupo empresarial.
 
-f) Solicitud de quiebra o cesación de pagos de cualquiera de sus obligaciones significativas.
+f) Solicitud de inicio de procedimiento concursal de liquidación o cesación de pagos de cualquiera de sus obligaciones significativas.
 
-g) Declaración de quiebra o liquidación forzosa de cualquier entidad del grupo empresarial al que pertenezca la Administradora.
+g) Dictación de la resolución de liquidación o liquidación forzosa de cualquier entidad del grupo empresarial al que pertenezca la Administradora.
 
 h) Existencia de antecedentes fundados de que los Estados Financieros de la Administradora o del Fondo de Pensiones no representan su real situación financiera.
 
@@ -2568,7 +2670,7 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 
 19. Supervisar administrativamente a las Comisiones Ergonómica y de Apelaciones de la ley N° 19.404 e impartir las normas operativas que se requieran para calificar labores como trabajos pesados. Asimismo, controlar que dichas Comisiones den debido cumplimiento a las funciones que les correspondan.
 
-> **Nota.** El Art. 2º de la LEY 18398, publicada el 24.01.1985, establece que las modificaciones introducidas por la misma, entrarán a regir 120 días después de su publicación.NOTA: El artículo vigésimo segundo transitorio de la LEY 20255, publicada el 30.01.2009, dispone que el Nº 19 de la presente norma rige a contar del día primero del duodécimo mes posterior a la publicación de la presente ley.
+> **Nota.** El Art. 2º de la LEY 18398, publicada el 24.01.1985, establece que las modificaciones introducidas por la misma, entrarán a regir 120 días después de su publicación.
 
 > **Nota.** NOTA 1: El Art. 2º de la LEY 19641, publicada el 28.10.1999, establece normas sobre vigencia de la misma.
 
@@ -2577,6 +2679,8 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 > **Nota.** NOTA 3: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
 
 > **Nota.** NOTA 4: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
+
+> **Nota.** NOTA 5 El artículo vigésimo segundo transitorio de la LEY 20255, publicada el 30.01.2009, dispone que el Nº 19 de la presente norma rige a contar del día primero del duodécimo mes posterior a la publicación de la presente ley.
 
 #### Artículo 95
 
@@ -2770,7 +2874,7 @@ Las categorías disponibles y niveles señalados en el inciso anterior correspon
 
 Para ejercer la atribución a que se refiere la letra b) del artículo 99, la Comisión Clasificadora deberá solicitar al emisor respectivo una clasificación adicional, que deberá ser efectuada por un clasificador privado, elegido por aquél, de aquellos a que alude la ley N° 18.045. La clasificación adicional podrá ser solicitada cuando haya ocurrido algún hecho que a juicio de dos miembros de la Comisión Clasificadora pueda impactar negativa y sustancialmente en los resultados de la sociedad y que pueda modificar la categoría de riesgo del título.
 
-Una vez presentada la clasificación adicional, la Comisión Clasificadora podrá rechazar todas las clasificaciones de riesgo del instrumento con el voto favorable de la mayoría de los miembros asistentes a la sesión, debiendo constar en acta el fundamento del rechazo, salvo que determine que éste requiere reserva. Asimismo, podrá rechazar la menor clasificación de riesgo, en cuyo caso será necesario el voto conforme de cinco miembros.
+Una vez presentada la clasificación adicional, la Comisión Clasificadora podrá rechazar todas las clasificaciones de riesgo del instrumento con el voto favorable de la mayoría de los miembros asistentes a la sesión, debiendo constar en acta el fundamento del rechazo, salvo que determine que éste requiere reserva. Asimismo, podrá rechazar la clasificación de mayor riesgo, en cuyo caso será necesario el voto conforme de cinco miembros. En caso que el emisor no presente la tercera clasificación solicitada, se desaprobará el instrumento.
 
 Cuando se trate de instrumentos de capital de la letra j) del artículo 45, éstos se aprobarán de conformidad con los procedimientos que se establecerán por la Comisión, de acuerdo a lo dispuesto en la letra c) del artículo 99.
 
@@ -2786,7 +2890,7 @@ Las cuotas de fondos de inversión y fondos mutuos a que se refiere la letra h) 
 
 Los requisitos de aprobación considerarán una adecuada diversificación de las inversiones, el cumplimiento de los objetivos de inversión y otros aspectos que determine la Comisión Clasificadora, debiendo estos últimos darse a conocer mediante acuerdo publicado en el Diario Oficial. Adicionalmente, se considerará que al momento de la aprobación el fondo mantenga un volumen mínimo de inversión. La información necesaria para la evaluación de estos aspectos deberá ser aportada por los respectivos emisores en la forma y oportunidad que determine la Comisión Clasificadora.
 
-La especificación conceptual, la metodología de cálculo y el valor límite de los indicadores considerados en los requisitos de aprobación, los determinará la Comisión Clasificadora, previo informe favorable de la Superintendencia de Pensiones, debiendo publicarlos en el Diario Oficial.
+La especificación conceptual, la metodología de cálculo y el valor límite de los indicadores considerados en los requisitos de aprobación, los determinará la Comisión Clasificadora, debiendo publicarlos en el Diario Oficial.
 
 Los instrumentos representativos de capital aludidos en la letra j) del artículo 45, se aprobarán en función de los procedimientos que al efecto establecerá la Comisión Clasificadora, los que habrán de considerar, al menos, el riesgo país, la existencia de sistemas institucionales de fiscalización y control sobre el emisor y sus títulos en el respectivo país, y en consideración a la liquidez del título en los correspondientes mercados secundarios.
 
@@ -3082,9 +3186,9 @@ Lo dispuesto en el artículo anterior se aplicará también, en caso de disoluci
 
 #### Artículo 145
 
-En caso que algún acreedor pida la quiebra de la empresa, el juzgado deberá, sin perjuicio de lo dispuesto en el artículo 41 de la ley N° 18.876, dar aviso a la Superintendencia.
+En caso que algún acreedor pida el inicio del procedimiento concursal de liquidación de la empresa, el juzgado deberá, sin perjuicio de lo dispuesto en el artículo 41 de la ley N° 18.876, dar aviso a la Superintendencia.
 
-Si el informe que deba emitir la Superintendencia de Valores y Seguros, conforme lo dispone el artículo 41 de la ley N° 18.876, declarase la imposibilidad de que la empresa pueda responder a sus obligaciones, o bien no diera su resolución dentro del plazo fijado al efecto, la Superintendencia de Administradoras de Fondos de Pensiones dispondrá que los valores correspondientes a los Fondos de Pensiones sean depositados transitoriamente en el Banco Central de Chile o en la empresa de depósito que el Superintendente determine, quedando excluidos de la quiebra.
+Si el informe que deba emitir la Superintendencia de Valores y Seguros, conforme lo dispone el artículo 41 de la ley N° 18.876, declarase la imposibilidad de que la empresa pueda responder a sus obligaciones, o bien no diera su resolución dentro del plazo fijado al efecto, la Superintendencia de Administradoras de Fondos de Pensiones dispondrá que los valores correspondientes a los Fondos de Pensiones sean depositados transitoriamente en el Banco Central de Chile o en la empresa de depósito que el Superintendente determine, quedando excluidos del procedimiento concursal de liquidación.
 
 #### Artículo 146
 
@@ -3190,13 +3294,13 @@ c) La utilización en beneficio propio o ajeno de información relativa a operac
 
 d) La comunicación de información esencial relativa a la adquisición, enajenación y mantención de activos por cuenta de cualquiera de los Fondos a personas distintas de aquellas que estrictamente deban participar en las operaciones respectivas, en representación de la Administradora;
 
-e) La adquisición de activos que haga la Administradora para sí, dentro de los 5 días siguientes a la enajenación de éstos, efectuada por ella por cuenta de cualquiera de los Fondos, si el precio de compra es inferior al precio promedio ponderado existente en los mercados formales el día anterior al de dicha enajenación;
+e) La adquisición de activos, con excepción de cuotas de fondos mutuos que se transen directamente con el emisor, que haga la Administradora para sí, dentro de los 5 días siguientes a la enajenación de éstos, efectuada por ella por cuenta de cualquiera de los Fondos, si el precio de compra es inferior al precio promedio ponderado existente en los mercados formales el día anterior al de dicha enajenación;
 
-f) La enajenación de activos propios que haga la Administradora dentro de los 5 días siguientes a la adquisición de éstos, efectuada por ella por cuenta de cualquiera de los Fondos, si el precio de venta es superior al precio promedio ponderado existente en los mercados formales el día anterior al de dicha adquisición;
+f) La enajenación de activos propios, con excepción de cuotas de fondos mutuos que se transen directamente con el emisor, que haga la Administradora dentro de los 5 días siguientes a la adquisición de éstos, efectuada por ella por cuenta de cualquiera de los Fondos, si el precio de venta es superior al precio promedio ponderado existente en los mercados formales el día anterior al de dicha adquisición;
 
 g) La adquisición o enajenación de bienes, por cuenta de cualquiera de los Fondos, en que actúe para sí, como cedente o adquirente la Administradora;
 
-h) Las enajenaciones o adquisiciones de activos que efectúe la Administradora si resultaran ser más ventajosas para ésta que las respectivas enajenaciones o adquisiciones de éstos, efectuadas en el mismo día por cuenta de cualquiera de los Fondos; salvo si se entregara al Fondo respectivo, dentro de los dos días siguientes al de la operación, la diferencia de precio correspondiente, y
+h) Las enajenaciones o adquisiciones de activos, con excepción de cuotas de fondos mutuos que se transen directamente con el emisor, que efectúe la Administradora si resultaran ser más ventajosas para ésta que las respectivas enajenaciones o adquisiciones de éstos, efectuadas en el mismo día por cuenta de cualquiera de los Fondos; salvo si se entregara al Fondo respectivo, dentro de los dos días siguientes al de la operación, la diferencia de precio correspondiente, y
 
 i) La realización de descuentos a los beneficios que paguen a sus afiliados o beneficiarios para fines distintos a los de seguridad social o los establecidos en esta ley y que sean producto de obligaciones que éstos hubiesen adquirido con alguna entidad del grupo empresarial al cual pertenece la Administradora.
 
@@ -3428,7 +3532,7 @@ a) Incumplimiento de la obligación establecida en el inciso tercero del artícu
 
 b) Incumplimiento de la obligación establecida en el artículo 37 respecto de la rentabilidad mínima para cualquier tipo de Fondo;
 
-c) Cesación de pagos de cualquiera de sus obligaciones o en estado de notoria insolvencia; o se le solicite o se declare su quiebra;
+c) Cesación de pagos de cualquiera de sus obligaciones o en estado de notoria insolvencia; o cuando se le solicite o se declare el inicio de un procedimiento concursal de liquidación;
 
 d) En proceso de liquidación;
 
@@ -3588,7 +3692,7 @@ No podrán ser socios, administradores, dependientes que desempeñen la función
 
 a) Los procesados o condenados por delito que merezca pena aflictiva;
 
-b) Los fallidos no rehabilitados y quienes tengan prohibición de comerciar, y
+b) Los que tengan actualmente la calidad de deudor en un procedimiento concursal de liquidación, y quienes tengan prohibición de comerciar, y
 
 c) Las personas sancionadas con la revocación de su inscripción en alguno de los registros que lleven o regulen las Superintendencias de Pensiones, Valores y Seguros y Bancos e Instituciones Financieras, o los que hayan sido administradores, directores o representantes legales de una persona jurídica sancionada de igual manera, a no ser que hayan salvado su responsabilidad en la forma que prescribe la ley.
 
