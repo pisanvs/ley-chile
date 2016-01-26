@@ -812,17 +812,19 @@ La publicidad y demás actividades destinadas a dar a conocer al consumidor un p
 
 La promoción del producto farmacéutico destinada a los profesionales habilitados para su prescripción, dentro de las indicaciones de utilidad terapéutica del respectivo registro sanitario, no podrá efectuarse a través de medios de comunicación social dirigidos al público en general. Dicha promoción podrá incluir la entrega de muestras médicas a estos profesionales en los términos dispuestos en los respectivos registros, para ser proporcionados, a título gratuito, a las personas que utilizan sus servicios.
 
-Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona que participe en la venta. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
+Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
 
 Se entenderá por incentivo cualquier pago, regalo, servicio o beneficio económico entregado o realizado a las personas, por parte de laboratorios farmacéuticos, droguerías, importadores o distribuidores de medicamentos o establecimientos farmacéuticos, por quienes los representen o, en general, por quienes tengan algún interés en que se privilegie el uso de uno o más productos o dispositivos.
 
 Los titulares de registros, permisos o autorizaciones sanitarias, los establecimientos del área de la salud y cualquier persona natural o jurídica que participe en la producción, distribución, intermediación, comercialización, expendio o administración de productos farmacéuticos, alimentos especiales o elementos de uso médico, podrán financiar, total o parcialmente, transferir o entregar, a título gratuito o a precios preferentes, esta clase de productos a los pacientes que los requieran, sujeto a las regulaciones legales, caso en el cual el beneficiario tendrá derecho a continuar percibiendo el beneficio otorgado, en iguales o mejores condiciones, mientras subsista la utilidad terapéutica del producto de que se trate.
 
-Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo conforme al presente artículo.
+Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo del que trata el presente artículo.
 
 Sin perjuicio de lo señalado en los incisos anteriores, se permitirá la donación de productos farmacéuticos a establecimientos asistenciales sin fines de lucro, siempre que aquellos se encuentren comprendidos en el Formulario Nacional de Medicamentos.
 
 Los medicamentos deberán presentarse en envases que dificulten a los menores su ingesta no asistida y no podrán tener forma de dulces, golosinas, confites, figuras, juguetes o cualquier otra que promueva su consumo, según se determine en el respectivo reglamento.
+
+> **Nota.** El Art. 2° de la ley 20895, publicada el 26.01.2016, interpreta el auténtico sentido y alcance de los incisos cuarto y quinto del presente artículo 100, modificado por la ley Nº 20.850, declarando que la prohibición de incentivos que induzcan a privilegiar el uso de determinado producto farmacéutico constituye una proscripción absoluta, que afecta a los incentivos dirigidos a uno o más productos, conjunta o separadamente.
 
 #### Artículo 100 bis
 

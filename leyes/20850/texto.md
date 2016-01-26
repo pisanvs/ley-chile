@@ -430,7 +430,7 @@ Introdúcense las siguientes modificaciones en el Código Sanitario:
 
 a) Reemplázanse los incisos cuarto y quinto, por los siguientes:
 
-"Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona que participe en la venta. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
+"Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
 
 Se entenderá por incentivo cualquier pago, regalo, servicio o beneficio económico entregado o realizado a las personas, por parte de laboratorios farmacéuticos, droguerías, importadores o distribuidores de medicamentos o establecimientos farmacéuticos, por quienes los representen o, en general, por quienes tengan algún interés en que se privilegie el uso de uno o más productos o dispositivos.".
 
@@ -438,7 +438,7 @@ b) Agréganse los siguientes incisos sexto y séptimo, nuevos, pasando los actua
 
 "Los titulares de registros, permisos o autorizaciones sanitarias, los establecimientos del área de la salud y cualquier persona natural o jurídica que participe en la producción, distribución, intermediación, comercialización, expendio o administración de productos farmacéuticos, alimentos especiales o elementos de uso médico, podrán financiar, total o parcialmente, transferir o entregar, a título gratuito o a precios preferentes, esta clase de productos a los pacientes que los requieran, sujeto a las regulaciones legales, caso en el cual el beneficiario tendrá derecho a continuar percibiendo el beneficio otorgado, en iguales o mejores condiciones, mientras subsista la utilidad terapéutica del producto de que se trate.
 
-Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo conforme al presente artículo.".
+Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo del que trata el presente artículo.".
 
 2) Añádense los siguientes Títulos V y VI, nuevos, en el Libro Cuarto, a continuación del artículo 111:
 
