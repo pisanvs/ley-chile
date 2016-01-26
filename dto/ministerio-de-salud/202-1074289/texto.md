@@ -38,13 +38,13 @@ Decreto:
 
 #### Artículo 1º
 
-Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2015, ambos meses inclusive, asciende a la suma de $741.552.385.292 (Setecientos cuarenta y un mil quinientos cincuenta y dos millones, trescientos ochenta y cinco mil doscientos noventa y dos pesos).
+Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2015, ambos meses inclusive, asciende a la suma de $744.648.477.993 (Setecientos cuarenta y cuatro mil seiscientos cuarenta y ocho millones, cuatrocientos setenta y siete mil novecientos noventa y tres pesos)
 
 #### Artículo 2º
 
 El referido aporte se transferirá por mensualidades, por intermedio de la municipalidad respectiva, a cada entidad administradora de salud municipal y su monto se determina aplicando a un aporte general y básico que se detalla, los criterios de incremento o rebaja según corresponda, señalados en el artículo 49 de la ley Nº19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $4.373 (Cuatro mil trescientos setenta y tres pesos).
+a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $4.516 (Cuatro mil quinientos dieciséis pesos).
 
 b) Criterios de incremento del per cápita basal, según corresponda:
 
@@ -66,7 +66,7 @@ Tramo 4: Aquellas comunas que presentan Índice de 0,0000 a 0,7583.
 
 - Comunas rurales 20%.
 
-c) Comunas con diferentes grados de dificultad para prestar atenciones de salud. Es decir, aquellas en que la dotación de los establecimientos municipales de atención primaria de salud deba recibir la asignación de desempeño difícil a la que se hace mención en los artículos 28, 29 y 30 de la ley Nº 19.378, modificada por la ley Nº 20.157, en los artículos 77 a 80 del decreto Nº 1.889, de 1995, y en los decretos del Ministerio de Salud que los fijan. Los valores básicos mensuales determinados para estas comunas, para la realización del plan considerado en el artículo 7º de este decreto, son los que a continuación se indican:
+c) Comunas con diferentes grados de dificultad para prestar atenciones de salud. Es decir, aquellas en que la dotación de los establecimientos municipales de atención primaria de salud deba recibir la asignación de desempeño difícil a la que se hace mención en los artículos 28º, 29º y 30º de la ley Nº 19.378, modificada por la ley Nº 20.157, en los artículos 77º a 80º del decreto Nº 1.889, de 1995, y en los decretos del Ministerio de Salud que los fijan. Los valores básicos mensuales determinados para estas comunas, para la realización del plan considerado en el artículo 7º de este decreto, son los que a continuación se indican:
 
 .
 
