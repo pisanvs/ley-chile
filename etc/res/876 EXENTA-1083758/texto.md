@@ -58,8 +58,6 @@ Resolución:
 
 1. Asígnense los recursos para la selección del Segundo Llamado Especial Regional para el desarrollo de proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar D.S. 255 año 2006, para el Acondicionamiento Térmico de Vivienda, para la Zona Saturada, Plan de Descontaminación Atmosférica (P.D.A.) del Valle Central de la Región del Libertador General Bernardo O'Higgins, según lo establecido en las resoluciones exentas singularizadas en los Vistos 17) y 18) de la presente resolución, que se destinarán al financiamiento de los Subsidios y al Pago de Asistencia Técnica, según la distribución que a continuación se señala:
 
-.
-
 2. Apruébense los nóminas de postulantes seleccionados para el otorgamiento de Subsidios Habitacionales correspondientes al 2do. Llamado Regional especial para el desarrollo de proyectos del Título II Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar D.S. 255 año 2006, para el Acondicionamiento Térmico de Vivienda, para la Zona Saturada, Plan de Descontaminación Atmosférica (P.D.A.) del Valle Central de la Región del Libertador General Bernardo O'Higgins. Estas se adjuntan y se entenderán parte Integrante de la presente resolución.
 
 3. Fíjase el siguiente número de postulantes seleccionados en la Región del Libertador General Bernardo O'Higgins de acuerdo a la distribución regional de recursos consignada en las resoluciones exentas singularizadas en los Vistos 17) y 18) de la presente resolución.
