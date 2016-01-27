@@ -18,7 +18,7 @@ Resolución:
 
 .
 
-2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1, de este Ministerio, de 2011, Título I, tramos 1 y 2, y Título II, dispuesto en el número 1º de la resolución exenta Nº 953, también de este Ministerio, de 2014, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región, tramo y alternativa de postulación, según se indica en la siguiente tabla :
+2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1, de este Ministerio, de 2011, Título I, tramos 1 y 2, y Título II, dispuesto en el número 1º de la resolución exenta Nº 953, también de este Ministerio, de 2014, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región, tramo y alternativa de postulación, según se indica en la siguiente tabla:
 
 .
 
@@ -27,10 +27,6 @@ Resolución:
 .
 
 4º.- Publíquese en un periódico de circulación nacional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados conforme al número 2º de esta resolución, así como el plazo de que dispondrán los interesados para poder presentar al Serviu respectivo sus observaciones o reclamos, si correspondiere, y las nóminas de postulantes cuyas solicitudes de postulación fueron dejadas sin efecto, a que se refiere el número 3º anterior, y exhíbanse dichas nóminas en las oficinas de los Serviu.
-
-> **Nota.** El N° 1, de la Resolución 3202 Exenta, Vivienda, publicada el 25.05.2016, modifica la presente norma, en el sentido de eliminar a la persona individualizada en el considerando c) de la citada norma, de las nóminas de postulantes seleccionados correspondientes a la Región Metropolitana, Título II, e incluirla en las nóminas de beneficiarios de la Región del Libertador General Bernardo O'Higgins, del mismo Título II.
-
-> **Nota.** NOTA 1 El N° 2, de la Resolución 7748 Exenta, Vivienda, publicada el 07.12.2016, modifica la presente norma en el sentido de rectificar el Certificado de Subsidio Habitacional Serie DS1T1 1-2014 NA01109, correspondiente a doña Ginette Rosalía Bugueño Plaza, Cédula de Identidad Nº 11.723.837-7, de permitir su aplicación en la Región de Coquimbo.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
