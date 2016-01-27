@@ -26,7 +26,7 @@ Lo dispuesto en el artículo 96º del Código Sanitario; en los artículos 8º y
 
 Resolución:
 
-1. Establécese que el régimen que corresponde aplicar al producto Vitamina C Multisabor, presentado por Synthon Chile Ltda., es el propio de los Productos Farmacéuticos.
+1. Establécese que el régimen que corresponde aplicar al producto Ivarest Plus Crema, presentado por Synthon Chile Ltda., es el propio de los Productos Farmacéuticos.
 
 2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto Nº 3 de 2010, del Ministerio de Salud.
 
