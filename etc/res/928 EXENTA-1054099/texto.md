@@ -36,11 +36,11 @@ a) Delegación Completa:
 
 9. Aprobar, previa petición fundada del Beneficiario, o ratificar en su caso, la reasignación de recursos entre cuentas del presupuesto, de acuerdo con los antecedentes que lo justifiquen y que no contravenga lo dispuesto en las Bases que rigen el Programa, Convocatoria, Concurso y/o Línea de Financiamiento de postulación permanente respectivo, y lo dispuesto en las condiciones de adjudicación y/o formalización establecidas por el órgano asignador al momento de la aprobación del Proyecto.
 
-10. Proponer fundadamente al Gerente de Emprendimiento, la suspensión de la ejecución de los Proyectos, por causas no imputables al Beneficiario o al responsable de la ejecución del Proyecto.
+10. Suspender fundadamente la ejecución de los proyectos, por causas no imputables al Beneficiario o al responsable de la ejecución del Proyecto.
 
-11. Proponer fundadamente al Gerente de Emprendimiento, el término anticipado de los Proyectos, por causas imputables o no al Beneficiario o al responsable de la ejecución del Proyecto.
+11. Resolver fundadamente el término anticipado de los proyectos, por causas imputables o no al Beneficiario o al responsable de la ejecución del Proyecto.
 
-12. Decidir, de oficio o previa solicitud fundamentada del Beneficiario, la modificación de los calendarios de entrega de informes de avance y final, y de la entrega de los recursos asociados a éstos, de conformidad con las Bases, e informar a los interesados lo resuelto. En el evento que la aprobación de los cambios en los calendarios establecidos signifique cambios en el compromiso presupuestario de un año determinado, tal modificación deberá ser aprobada por el Gerente de Emprendimiento.
+12. Decidir, de oficio o previa solicitud fundamentada del Beneficiario, la modificación de los calendarios de entrega de informes de avance y final, y de la entrega de los recursos asociados a éstos, de conformidad con las Bases, e informar a los interesados lo resuelto.
 
 13. Aprobar o rechazar los informes de avance y final de los Proyectos, y comunicar a los interesados lo resuelto.
 
