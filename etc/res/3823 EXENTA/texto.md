@@ -24,7 +24,7 @@ Durante el período señalado, el SERVIU recibirá las solicitudes de inscripci�
 
 En caso que la resolución indicada en el inciso precedente no publique la nómina de postulantes beneficiados, ésta se deberá publicar en un periódico de circulación nacional o en el sitio web del MINVU o del SERVIU y/o de la SEREMI respectiva durante los 15 días posteriores a la publicación de dicha resolución. La nómina de postulantes seleccionados deberá contener a lo menos el número de cédula de identidad del postulante.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 700.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 402.904 Unidades de Fomento.
 
 Podrán inscribirse en alguna de las modalidades de aplicación del subsidio los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo. Los damnificados que fueran propietarios de la vivienda siniestrada podrán inscribirse independientemente de si hubiesen estado o no residiendo en dicha vivienda. Los damnificados no propietarios residentes de viviendas siniestradas podrán inscribirse a alguna de las modalidades, siempre que acrediten su residencia y dispongan de un sitio donde aplicar el subsidio, de acuerdo a las condiciones señaladas en el presente llamado.
 
