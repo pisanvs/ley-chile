@@ -6,7 +6,7 @@ Decreto:
 
 1° - Declárase Norma Oficial de la República de Chile, la siguiente:
 
-NCh 1842. Of 80 Accesorios de polipropileno y uniones de tubos de polipropileno para conducción de fluidos a presión - Requisitos.
+NCh 1842. Of 80 DEROGADO.
 
 2° - Corresponderá al Instituto Nacional de Normalización publicar una Minuta del presente decreto en el Diario Oficial y el texto íntegro de las normas en documentos oficiales del mencionado Instituto.
 
