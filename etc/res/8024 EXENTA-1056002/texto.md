@@ -782,11 +782,17 @@ Adicionalmente, si una vez realizada la segunda compra de la segunda etapa, qued
 
 16. Una vez terminada la intervención en la vivienda y para acreditar la finalización de las obras, se exigirá a la EP/PSAT el cumplimiento de los siguientes requisitos y documentos:
 
-16.1 Visto bueno en el sistema informático del Minvu
+16.1 Visto bueno del término del proceso,
 
-en un módulo especialmente habilitado para
+el cual podrá realizarse a través
 
-ello.
+del sistema informático del Minvu,
+
+o en su defecto, mediante un
+
+documento escrito cuyo formato
+
+será proporcionado por Serviu.
 
 16.2 Informe Técnico a que se refiere el punto
 

@@ -174,7 +174,7 @@ La segunda carga de la tarjeta sólo permitirá al beneficiario un máximo de 2 
 
 16. Una vez terminada la intervención en la vivienda, y para acreditar la finalización de las obras, se exigirá a la EP/PSAT el cumplimiento de los siguientes requisitos y documentos:
 
-16.1 Visto bueno en el sistema informático del Minvu en un módulo especialmente habilitado para ello.
+16.1 Visto bueno del término del proceso, el cual podrá realizarse a través del sistema informático del Minvu, o en su defecto, mediante un documento escrito cuyo formato será proporcionado por Serviu.
 
 16.2 Informe Técnico a que se refiere el punto 11.5 de la presente resolución, el cual deberá incorporar al final del proceso un anexo firmado por la EP/PSAT que certifique que los materiales adquiridos por el beneficiario fueron utilizados en la obra y que éstas se desarrollaron de acuerdo al apoyo técnico que él proporcionó.
 
