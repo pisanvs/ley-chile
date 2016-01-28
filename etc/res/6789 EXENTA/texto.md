@@ -84,9 +84,7 @@ Resolución:
 
 5. La cantidad de recursos que se destinará para financiar los proyectos de reparación a que se refiere el punto 1 de esta resolución, se distribuirán, según se indica a continuación:
 
-Región Unidades de Fomento
-
-Antofagasta 4.000
+.
 
 El número de familias beneficiadas en la región, alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según la tabla precedente, efectuándose la asignación por orden de llegada, siempre que cumplan los requisitos que se establecen en esta resolución, hasta enterar el total de los recursos disponibles para la región.
 
