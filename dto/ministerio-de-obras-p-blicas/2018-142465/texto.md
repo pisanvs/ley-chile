@@ -10,9 +10,7 @@ Decláranse Normas Oficiales de la República de Chile, las siguientes normas ch
 
 NCh143.Of1999 Yeso calcinado - Requisitos.
 
-NCh759.Of1999 Válvula de admisión y descarga para estan-
-
-ques de inodoros - Requisitos.
+NCh759.Of1999 DEROGADO.
 
 #### Artículo 2º
 

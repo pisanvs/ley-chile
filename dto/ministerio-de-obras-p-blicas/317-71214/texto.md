@@ -18,9 +18,7 @@ El presente Decreto se publicará en el Diario Oficial. El texto íntegro de la 
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, la norma individualizada en el Artículo 1º, se denominará como sigue:
 
-NCh2313/6.Of.97 : Aguas residuales - Métodos de análisis - Parte
-
-6: Determinación de aceites y grasas.
+NCh2313/6.Of.97 : DEROGADA.
 
 #### Artículo 3º
 

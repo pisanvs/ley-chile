@@ -22,9 +22,7 @@ El presente decreto se publicará en el Diario Oficial. El texto íntegro de la 
 
 A contar de la fecha de publicación de este decreto en el Diario Oficial, la norma individualizada en el Art. 1º se denominará como sigue:
 
-NCh 691.Of98 Agua Potable - Conducción,
-
-regulación y distribución.
+NCh 691.Of98 DEROGADO.
 
 #### Artículo 4º
 
