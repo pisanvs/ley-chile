@@ -732,7 +732,19 @@ que afecta al Salmón coho (Oncorhynchus kisutch).
 
 causada por el agente Francisella spp.
 
-14) HSMI: Enfermedad causada por el agente Piscine reovirus.
+14) HSMI: Enfermedad causada por el agente Piscine
+
+reovirus, que cuente con un diagnóstico
+
+de la técnica de PCR positivo asociado
+
+a lesiones características de la
+
+enfermedad por diagnóstico de
+
+Histología con o sin
+
+signos clínicos en los peces.
 
 15) Otras Enfermedades: Se incluirán en esta
 
