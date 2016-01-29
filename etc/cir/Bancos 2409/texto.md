@@ -5366,7 +5366,7 @@ a) Fecha de origen de la acreencia.
 
 b) Apellido paterno, apellido materno y nombre del acreedor. Las personas jurídicas deberán ser individualizadas en la forma que aparezcan registradas en el Banco.
 
-c) RUT del acreedor.
+c) Información para identificar el RUT del acreedor, cuando este sea conocido. Para dichos efectos, se registrará el número del RUT, reemplazando con la letra "X" sus cuatro últimos dígitos, además de su dígito verificador.
 
 d) Ultima dirección del acreedor conocida del Banco.
 
