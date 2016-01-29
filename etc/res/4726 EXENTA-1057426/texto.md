@@ -38,7 +38,7 @@ Esta autorización se otorgará al comprobarse que las obras e instalaciones se 
 
 #### Artículo 2º
 
-A tales efectos el concesionario deberá presentar la correspondiente solicitud de recepción de obras con la anticipación necesaria, y, a lo menos, con 30 días hábiles de antelación a la fecha de inicio de servicios establecida en el acto administrativo que autorice la instalación de que se trate.
+A tales efectos el concesionario deberá presentar la correspondiente solicitud de recepción de obras con la anticipación necesaria, y, a lo menos, con 45 días hábiles de antelación a la fecha de inicio de servicios establecida en el acto administrativo que autorice la instalación de que se trate.
 
 La solicitud de recepción de obras e instalaciones deberá estar encabezada por la siguiente información resumida:
 
