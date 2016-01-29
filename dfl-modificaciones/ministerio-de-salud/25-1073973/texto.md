@@ -14,8 +14,6 @@ Suprímense en la Planta de Personal del Servicio de Salud Bío Bío, fijada por
 
 2. En la Planta de Directivos de Carrera, del punto 1.4. de su artículo 1º:
 
-.
-
 Total Cargos Suprimidos en la Planta de Directivos: 5
 
 #### Artículo 2º
