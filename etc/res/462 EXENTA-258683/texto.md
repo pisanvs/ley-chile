@@ -232,6 +232,22 @@ Matta
 
 .
 
+Blanco Encalada Viel Exposición O-P
+
+Blanco Encalada Exposición Viel P-O
+
+Compañía Matucana Manuel Rodríguez P-O
+
+Mapocho Matucana Almirante Barroso P-O
+
+Merced José Miguel Irene Morales P-O
+
+de la Barra
+
+Merced-Monjitas Vicuña Mackenna José Miguel O-P
+
+de la Barra
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
