@@ -52,15 +52,7 @@ Brolanfetamina (DOB)
 
 Cannabis, resina de
 
-Cannabis (cáñamo índico) sumidades floridas o con
-
-frutos de la planta del género cannabis de las cuales
-
-no se ha extraído la resina, cualquiera que sea el
-
-nombre con que se designe.
-
-Cannabis, extractos y tinturas de
+ELIMINADO
 
 Catinona
 
@@ -98,9 +90,7 @@ dl-2,5-dimetoxi-4-etil-alfa-metil-feniletilamina
 
 Dihidroetorfina
 
-Dronabinol (variante estereoquímica: (-)-trans-delta-
-
-9-tetrahidrocannabinol)
+ELIMINADO
 
 Eticiclidina (PCE)
 
@@ -336,6 +326,104 @@ N-metil-1-(3,4-metilenedioxifenil)-2-butanamina o tambien denominada N-[1-(1,3-b
 
 Diisopropiltriptamina (DIPT)
 
+2-metilamino-1-(3,4-metilendioxifenil)-1-propanona (Metilona)
+
+2-etilamino-1-(3,4-metilendioxifenil)-1-propanona (Etilona)
+
+2-dimetilamino-1-(3,4-metilendioxifenil)-1-propanona (Dimetilona)
+
+2-metilamino-1-(3,4-metilendioxifenil)-1-butanona (Butilona)
+
+2-dimetilamino-1-(3,4-metilendioxifenil)-1-butanona (Dibutilona)
+
+2-etilamino-1-(3,4-metilendioxifenil)-1-butanona (Eutilona)
+
+2-metilamino-1-(3,4-metilendioxifenil)-1-pentanona (Pentilona)
+
+2-propilamino-1-(3,4-metilendioxifenil)-1-butanona (Propilbutilona)
+
+2-bencilamino-1-(3,4-metilendioxifenil)-1-butanona (BMDB)
+
+2-bencilamino-1-(3,4-metilendioxifenil)-1-propanona (BMDP)
+
+2-metilamino-1-(4-metilfenil)-1-propanona (Mefedrona)
+
+2-metilamino-1-(4-metoxifenil)-1-propanona (Metedrona)
+
+2-metilamino-1-(4-fluorofenil)-1-propanona (Flefedrona)
+
+2-metilamino-1-(3-fluorofenil)-1-propanona (Fluorometcatinona)
+
+2-metilamino-1-(fenil)-1-propanona (Etilmetcatinona)
+
+2-metilamino-1-(3,4-dimetilfenil)-1-propanona (Dimetilmetcatinona)
+
+2-etilamino-1-(fenil)-1-butanona (Etilbufedrona)
+
+2-metilamino-1-(fenil)-1-pentanona (Pentedrona)
+
+2-metilamino-1-(3-metilfenil)-1-propanona (3-Metilmetcatinona)
+
+2-etilamino-1-(4-metilfenil)-1-propanona (Metiletcatinona)
+
+2-metilamino-1-(fenil)-1-butanona (Bufedrona)
+
+2-dimetilamino-1-(fenil)-1-propanona (Dimetilpropion)
+
+2-etilamino-1-(fenil)-1-propanona (Etilpropion)
+
+2-metilamino-1-(fenil)-2-pentanona (Isopentedrona)
+
+1-(3,4-metilendioxifenil)-2-pirrolidinil-1-pentanona (MDPV)
+
+1-(3,4-metilendioxifenil)-2-metil-2-pirrolidinil-1-propanona (MDMPP)
+
+1-(3,4-metilendioxifenil)-2-(1-pirrolidinil)-1-propanona (MDPPP)
+
+1-(3,4-metirendioxifenil)-2-(1-pirrolidinil)-1-butanona (MDPBP)
+
+1-naftaleno-2-il-(2-pirrolidinil)-1-pentanona (Nafirona)
+
+1-fenil-2-(1-pirrolidinil)-1-pentanona (Alfa PVP)
+
+(naftalen-1-il) [1-(5-fluoropentil)-1H-indol-3-il] metanona (AM-2201)
+
+(4-metilnaftalen-1-il)[1-(5-fluoropentil)- 1H-indol-3-il] metanona (MAM-2201)
+
+(naftalen-1-il) [1-(5-fluoropentil)-1H-indazol-3-il] metanona (AM-2201 Indazol)
+
+(naftalen-1-il) [1-(5-fluoropentil)-1H-benzo[d]imidazol-2-il) metanona (AM-2201benzimidazol)
+
+(4-metilnaftalen-1-il) (1-pentil-1H-indol- 3-il) metanona (JWH-122)
+
+(naftalen-1-il) [ 1-pentil-1H-indazol-3-il) metanona (THJ-018)
+
+(4-etilnaftalen-1-il) [1-(5-fluoropentil)-1H-indol-3-il] metanona (EAM- 2201)
+
+(4-etilnaftalen-1-il) (1-pentil-1H-indol-3-il) metanona (JWH-210)
+
+(naftalen-1-il) [1-(5-cloropentil)-1Hindol-3-il] metanona (JWH-018 cloropentil)
+
+(naftalen-1-il) [1-(5-bromopentil)-1Hindol-3-il] metanona (JWH-018 bromopentil)
+
+N-(1-adamantil)-1-pentil-1H-indazol-3-carboxamida (APINACA)
+
+N-(1-adamantil)-1-(5-fluoropentil)-1H-indazol-3-carboxamida (5F-APINACA)
+
+N-(1-adamantil)-1-pentil-1H-indol-3-carboxamida (APICA)
+
+N-(1-adamantil)-1-(5-fluoropentil)-1H-indol-3-carboxamida (STS-135)
+
+N-(1-adamantil) (1-pentil-1H-indol-3-il) metanona (AB-001)
+
+1-bencilpiperazina) (BZP)
+
+1-(3-trifluorometilfenil) piperazina (TFMPP)
+
+1-(3-clorofenil) piperazina (mCPP)
+
+Cannabis, sumidades floridas o con frutos de la planta del género cannabis de las cuales no se ha extraído la resina.
+
 Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados,
 
 Las sales de las sustancias de esta lista, incluidas las sales de los ésteres, éteres e isómeros, a menos que estén expresamente exceptuadas.
@@ -347,6 +435,12 @@ Califícase como sustancias o drogas estupefacientes o sicotrópicas, productora
 Acetildihidrocodeína Acetilmetadol Alfameprodina Alfametadol Alfaprodina Alfentanilo Alilprodina Alobarbital Alprazolam Aminores Amobarbital Anfepramona (Dietilpropión) Anileridina Barbital Becitramida Bencilmorfina Bencetidina Benzfetamina Betacetilmetadol Betameprodina Betametadol Betaprodina Bromazepam Brotizolam Buprenorfina Butalbital Butirato de dioxafetilo Butobarbital Camazepam Catina ((+)-norpseudoefedrina) Ciclobarbital Clobazam Clonazepam Clonitaceno Clorazepato Clordiazepóxido Clotiazepam Cloxazolam Coca, hoja de Codeína Codoxima Delorazepam Dextrometorfano Dextromoramida Dextropropoxifeno Diampromida Diazepam Dietiltiambuteno Difenoxilato Difenoxina Dihidrocodeína Dihidromorfina Dimefeptanol Dimenoxadol Dimetiltiambuteno Dipipanona Drotebanol Ecgonina (sus ésteres y derivados que sean convertibles en ecgonina y cocaína) Estazolam Etclorvinol Etilanfetamina (N-etilanfetamina) Etilmetiltiambuteno Etilmorfina Etinamato Etonitaceno Etoxeridina Fenadoxona Fenampromida Fenazocina Fencamfamina Fendimetracina Fenobarbital Fenomorfán Fenoperidina Fenproporex Fentanilo Fentermina Fludiazepam Flurazepam Folcodina Furetidina Gamahidroxibutirato (GHB) Halazepam Haloxazolam Hidrato de Cloral Hidrocodona Hidromorfinol Hidromorfona Hidroxipetidina Isometadona Ketazolam Levofenacilmorfán Levometorfán Levomoramida Levorfanol Loflazepato de etilo Loprazolam Lorazepam Lormetazepam Mazindol Medazepam Mefenorex Meprobamato Mesocarbo Metadona Metadona, intermediario de la Metazocina Metildesorfina Metildihidromorfina Metilfenobarbital Metiprilona Metopón Midazolam Nimetazepam Mirofina Moramida, intermediario de la Morferidina Morfina Morfina, bromometilato de (y otros derivados de la morfina con nitrógeno pentavalente, incluidos en particular los derivados de la N-oximorfina, unos de los cuales es la N-oxicodeína) Nicocodina Nicodicodina Nicomorfina Nitrazepam Noracimetadol Norcodeína Nordazepam Norlevorfanol Normetadona Normorfina Norpipanona
 
 N-oximorfina Oxazepam Oxazolam Oxicodona Oximorfona Pemolina Pentazocina Pentobarbital Petidina Petidina, intermediario A de la Petidina, intermediario B de la Petidina, intermediario C de la Piminodina Pinazepam Pipradrol Piritramida Pirovalerona Prazepam Proheptacina Properidina Propiramo Racemetorfán Racemoramida Racemorfán Remifentanilo Secbutabarbital Sibutramina Sufentanil Tebacón Tebaína Temazepam Tetrazepam Tilidina Triazolam Trimeperidina Vinilbital Zolpidem
+
+1-(3-clorofenil)-2-(tertbutilamino)-1-propanona (Bupropion)
+
+Productos farmacéuticos elaborados en base a plantas del género cannabis Cannabis, extractos y tinturas de
+
+Dronabinol y sus variantes estereoquímicas
 
 Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados;
 
