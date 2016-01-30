@@ -34,7 +34,7 @@ El presente Reglamento regula el Programa Especial de Renovación de Buses, Mini
 
 Los gobiernos regionales estarán facultados para convocar a un proceso de renovación de buses, minibuses, trolebuses y taxibuses, y de modernización del transporte público mayor y de taxis colectivos, en su calidad de transporte público menor. El Programa Especial deberá considerar la compra de los buses, minibuses, trolebuses y taxibuses usados debiendo disponer la destrucción y conversión en chatarra de éstos, garantizando su renovación por buses, minibuses, trolebuses y taxibuses de menor antigüedad. Sin perjuicio de la conversión en chatarra antes señalada, los gobiernos regionales podrán ordenar la conservación de determinados buses, minibuses, trolebuses y taxibuses para efectos de investigación histórica o para su exhibición en museos.
 
-Los Programas de Modernización deberán considerar mecanismos o elementos que por sí o en conjunto con otros, mejoren la seguridad, calidad y eficiencia, y reduzcan la emisión de contaminantes de los vehículos.
+Los Programas de Modernización deberán considerar mecanismos o elementos que por sí o en conjunto con otros, mejoren la seguridad y reduzcan la emisión de contaminantes o mejoren la calidad y eficiencia de los vehículos.
 
 La administración del Programa Especial y de los Programas de Modernización se realizará en coordinación con el Ministerio de Transportes y Telecomunicaciones, en adelante el Ministerio, el que deberá colaborar y asesorar a los gobiernos regionales para su ejecución y fiscalización.
 
@@ -46,7 +46,7 @@ Para los efectos de este Reglamento, se entenderá por:
 
 a. Renovación: Sustitución de un bus, minibús, trolebús, taxibús o taxi colectivo por otro que lo reemplaza sujeto al cumplimiento de los requisitos del presente Reglamento.
 
-b. Modernización: Mecanismos o elementos que por sí o en conjunto con otros permitan la incorporación de tecnologías menos contaminantes y mejoras en aspectos de seguridad, calidad y eficiencia en el transporte público mayor y taxis colectivos, de conformidad a los requisitos establecidos en el presente Reglamento.
+b. Modernización: Mecanismos o elementos que por sí o en conjunto con otros permitan la incorporación de tecnologías menos contaminantes y mejoras en aspectos de seguridad o calidad y eficiencia en el transporte público mayor y taxis colectivos, de conformidad a los requisitos establecidos en el presente Reglamento.
 
 c. Beneficio por Renovación: Monto en dinero que el Gobierno Regional entrega al postulante que efectúa la renovación de un vehículo saliente, en el contexto de un Programa de Modernización.
 
@@ -374,7 +374,7 @@ Programas de Modernización Transporte Público Mayor y Taxis Colectivos
 
 Los programas de modernización para el transporte público mayor y taxis colectivos, distinto al establecido en el título siguiente, se incorpora al presente Reglamento, dando cumplimiento para ello a los requisitos establecidos en el artículo cuarto transitorio de la Ley Nº 20.378.
 
-Para ello, los Gobiernos Regionales u otros interesados, podrán proponer al Ministerio de Transportes y Telecomunicaciones, mecanismos destinados a la incorporación de tecnologías menos contaminantes y mejoras en aspectos de seguridad, calidad y eficiencia en beneficio de los usuarios.
+Para ello, los Gobiernos Regionales u otros interesados, podrán proponer al Ministerio de Transportes y Telecomunicaciones, mecanismos destinados a la incorporación de tecnologías menos contaminantes y mejoras en aspectos de seguridad o calidad y eficiencia en beneficio de los usuarios.
 
 ## Título Sexto
 
@@ -382,11 +382,11 @@ Programa de Modernización para la Renovación de Taxis Colectivos
 
 #### Artículo 17
 
-Podrán ingresar al presente Programa de Modernización, como vehículos salientes, los taxis colectivos que cumplan con los siguientes requisitos copulativos:
+Podrán ingresar al presente Programa de Modernización, como vehículos salientes, los taxis colectivos que no hayan participado previamente del mismo como vehículo saliente y cumplan con los siguientes requisitos copulativos:
 
-a. Contar con inscripción vigente a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación.
+a. Contar o haber contado con inscripción vigente a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación o al momento de la cancelación en el Registro, si el remplazo en este último se hubiese efectuado con anterioridad a la fecha de postulación. En todo caso, si se postulare al Bono de Incentivo a la Chatarrización, la referida inscripción en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación deberá estar vigente a nombre del postulante al momento de la postulación.
 
-b. Tener una antig&amp;uuml;edad mínima de 4 años. Excepcionalmente podrán participar del presente programa, vehículos con una antig&amp;uuml;edad menor a 4 años que estén imposibilitados de prestar servicios de transporte público, por pérdida total, ya sea como consecuencia de un siniestro, robo o hurto, lo que se acreditará de acuerdo a lo dispuesto en el artículo 73 bis del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
+b. Tener una antig&uuml;edad mínima de 4 años al momento de la postulación o de la cancelación en el Registro, si el reemplazo se hubiese efectuado con anterioridad a la fecha de postulación. Excepcionalmente podrán participar del presente programa, vehículos con una antig&uuml;edad menor a 4 años que estén imposibilitados de prestar servicios de transporte público, por pérdida total, ya sea como consecuencia de un siniestro, robo o hurto, lo que se acreditará de acuerdo a lo dispuesto en el artículo 73 bis del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
 
 c. Contar o haber contado con inscripción vigente el vehículo, propiedad del postulante, en el Registro, en una oportunidad al menos, dentro de los últimos 18 meses contados desde la fecha de postulación. Lo anterior es sin perjuicio del cumplimiento de los plazos y requisitos que en materia de reemplazo contempla el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
 
@@ -404,7 +404,7 @@ b. Contar con inscripción vigente del vehículo, propiedad del postulante, en e
 
 c. Tratarse de vehículos nuevos, esto es, tener un año de fabricación o modelo del vehículo anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, correspondiente al año de postulación o siguiente, y cuya inscripción corresponda al primer propietario.
 
-d. Incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad, calidad y eficiencia en beneficio de los usuarios, de acuerdo con lo establecido en el presente reglamento.
+d. Incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad o calidad y eficiencia en beneficio de los usuarios, de acuerdo con lo establecido en el presente reglamento.
 
 #### Artículo 19
 
@@ -425,6 +425,8 @@ Finalmente, se entenderá que un vehículo destinado a prestar servicio de taxi 
 El valor del beneficio por renovación a que se refiere la letra c) del artículo 3 del presente reglamento, será, en función de la tecnología y rendimiento urbano del vehículo entrante, aproximado a su entero más cercano, conforme a la información obtenida en el proceso de homologación efectuado de acuerdo a lo dispuesto en el Decreto Supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, el siguiente:
 
 .
+
+En caso que el vehículo entrante cumpla con incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad y no se encuentre comprendido en las tablas anteriores, el Beneficio por Renovación ascenderá a $300.000.
 
 Adicionalmente, el valor de beneficio por renovación, podrá incluir un bono de incentivo a la Chatarrización para las Regiones de Arica y Parinacota, Tarapacá, Aysén, Magallanes y la Antártica Chilena, equivalente a $1.200.000. Para lo anterior, se deberá manifestar la voluntad de chatarrizar el vehículo en la postulación y dar cumplimiento a todos los requisitos que para dicho efecto establece el presente reglamento para el Programa Especial en los artículos 8 y 9.
 
@@ -466,11 +468,15 @@ b) Deberá mantenerse prestando servicios de transporte público de pasajeros po
 
 c) No podrá cambiar de modalidad ni de región dentro del período indicado en el literal precedente mientras la propiedad del vehículo entrante corresponda al postulante.
 
-Disposición Transitoria
+Disposiciones Transitorias
 
-#### Artículo Transitorio
+#### Artículo Primero
 
-Los postulantes cuyos vehículos salientes han debido ser retirados de circulación por antigüedad de acuerdo a la normativa vigente, en el año 2010 o durante el año 2011, y que satisfagan a la fecha de cancelación de la inscripción en el Registro los requisitos establecidos en el artículo 4 del presente Reglamento, en lo que corresponda, con excepción del indicado en su letra c), sólo podrán postular al Programa Especial durante los 24 meses siguientes, contados desde la fecha en que el respectivo Gobierno Regional haya realizado la primera convocatoria al Programa, en conformidad a lo indicado en el artículo 2 de este Reglamento.
+Transitorio: Los postulantes cuyos vehículos salientes han debido ser retirados de circulación por antigüedad de acuerdo a la normativa vigente, en el año 2010 o durante el año 2011, y que satisfagan a la fecha de cancelación de la inscripción en el Registro los requisitos establecidos en el artículo 4 del presente Reglamento, en lo que corresponda, con excepción del indicado en su letra c), sólo podrán postular al Programa Especial durante los 24 meses siguientes, contados desde la fecha en que el respectivo Gobierno Regional haya realizado la primera convocatoria al Programa, en conformidad a lo indicado en el artículo 2 de este Reglamento.
+
+#### Artículo Segundo
+
+Transitorio: Excepcionalmente, durante las convocatorias al Programa de Modernización para la Renovación de Taxis Colectivos que se realicen durante el año 2016, en conformidad a lo indicado en el artículo 2.- de este Reglamento, podrán postular como vehículos entrantes aquéllos inscritos en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, hasta 24 meses anteriores al 1 de enero de 2016, siempre que dicha inscripción corresponda al primer propietario y en la medida que cumplan con todos los demás requisitos establecidos en el artículo 18 del mismo a la fecha de inscripción del vehículo entrante en el Registro. De la misma forma, el plazo establecido en los literales c., d., y e., del artículo 17, para el vehículo saliente, se contará desde la señalada inscripción.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.- Rodrigo Hinzpeter Kirberg, Ministro del Interior.- Rodrigo Álvarez Zenteno, Ministro de Hacienda (S).
 
