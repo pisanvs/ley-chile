@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 360 EXENTO, DE 2016
+
+Por decreto exento Nº 360, de fecha 19 de enero de 2016, de la Ilustre Municipalidad de Valdivia, y conforme lo prescribe el Plan Regulador Comunal vigente de la ciudad de Valdivia; el artículo 65 letra f) de la Ley Orgánica Constitucional de Municipalidades; artículos 6 y ss. del D.L. 2.186/1978, y artículo 59 de la Ley General de Urbanismo y Construcciones, se decretó la expropiación del Lote Nº 1, ubicado en General René Schneider Nº179, comuna de Valdivia, de 36 M2 de superficie de terreno, Rol de avalúo Nº 103-41, de aparente propiedad de doña Norma Natividad Fernández y don Leonardo Francisco Fernández Fernández, para destinarlo al Proyecto de Mejoramiento Avenida Errázuriz - Valdivia. La comisión de peritos integrada por los señores María Soledad Núñez Arroyo, ingeniero agrónomo; Yaschala Maribel Yáñez Riffo, ingeniero constructor, y Patricio Fernando Casagrande Ulloa, ingeniero civil industrial, según informe de fecha 4 de enero de 2016, determinó el monto de la indemnización provisional en $8.471.000.-, pagadera al contado.-
+
+Ilustre Municipalidad de Valdivia.
