@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 2, de 07 de enero de 2016, se modificó el numeral segundo del Decreto MOP. (Exento) Nº1245, de 10 de noviembre de 2015, a fin de individualizar correctamente el nombre del propietario, del lote de terreno Nº125, ubicado en la comuna de Osorno, que figura a nombre de QUEZADA CARDENAS SILVIA, expropiado con motivo de la obra: "CAMINO REPOSICIÓN RUTA 215-CH, SECTOR BIFURCACIÓN AEROPUERTO CARLOS HOTT - CRUCE LAS LUMAS, TRAMO KM. 3,99292 AL Km. 21,80000".
+
+Fiscal del Ministerio de Obras Públicas.
