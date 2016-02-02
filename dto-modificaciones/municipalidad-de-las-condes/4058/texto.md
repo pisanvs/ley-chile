@@ -20,15 +20,15 @@ Asimismo, sin perjuicio de lo establecido en el artículo 40 de la ley Nº 19.92
 
 "Ordenanza Local para el Ejercicio del Comercio en la Comuna de Las Condes, Art. 13º".
 
-Dicho cartel será proporcionado gratuitamente por la Municipalidad, a través del Departamento de Patentes Municipales. La no exhibición del cartel antes indicado se sancionará con multa de 1 a 3 UTM.
+Dicho cartel será proporcionado gratuitamente por la Municipalidad, a través del Departamento de Patentes Municipales, por única vez, siendo de cargo del titular de la patente las reposiciones necesarias para dar cumplimiento a lo antes señalado, fijándose el costo de reposición en 0.20 UTM, valor que se deberá incorporar a la Ordenanza Local sobre Derechos Municipales dentro del plazo de 90 días, contados desde la publicación del presente decreto. La no exhibición del cartel antes indicado se sancionará con multa de 1 a 3 UTM.
 
 II.- ARTÍCULO TRANSITORIO:
 
-Los establecimientos a que se ha hecho referencia en el numeral I precedente, tendrán un plazo de 45 días corridos para la instalación del cartel, contados desde la publicación del presente decreto.
+Los establecimientos a que se ha hecho referencia en el numeral I precedente, tendrán un plazo de 15 días corridos para la instalación del cartel, contados desde la entrega material de éstos por parte de la Municipalidad.
 
 2. En todo lo no modificado expresamente, permanece vigente lo establecido en la "Ordenanza Local para el Ejercicio del Comercio en la Comuna Las Condes", contenida en el decreto Alc. Secc. 1ª Nº 1.577 de fecha 18 de noviembre de 1982 y en los decretos Alcs. Secc. 1ª Nº 441 de 31 de marzo de 1988, Nº 945 de 8 de julio de 1988, Nº 2.158 de 16 de septiembre de 1998, modificado este último mediante decreto Alc. Secc. 1ª Nº 1.138 de 3 de mayo de 1999 y Nº 4.194 de 11 de diciembre de 2012.
 
-3. Procédase en el plazo de 90 días, contados desde la fecha de publicación del presente decreto, a la redacción del texto refundido de la Ordenanza Local para el Ejercicio del Comercio en la Comuna de Las Condes, lo que efectuará el Departamento de Patentes Municipales.
+3. Procédase en el plazo de 90 días, contados desde la fecha de publicación de este decreto, a la redacción del texto refundido de la Ordenanza Local para el Ejercicio del Comercio en la comuna de Las Condes, lo que efectuará el Departamento de Patentes Municipales.
 
 4. Publíquese el presente decreto en la página web de la Municipalidad de Las Condes y en el Diario Oficial.
 
