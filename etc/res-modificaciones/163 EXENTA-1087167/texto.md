@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 2.701 EXENTA, DE 2015, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta Nº163 de 25 de enero de 2016 de esta Subsecretaría, modifícase la resolución exenta Nº 2.701 de 2015, que autorizó a Ingeniería y Desarrollo Sustentable Faro Verde Limitada, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Seguimiento Ambiental Asociado a las RCA de Proyectos Industriales que Viertan Riles en las Cuencas de Los Ríos Toltén e Imperial, IX Región de La Araucanía" en el sentido de incorporar en su numeral 3º.-, la cuenca del Río Valdivia, en el Río Huenahue, ubicado en la XIV Región de Los Ríos, como parte de su área de estudio.
+
+Valparaíso, 25 de enero de 2016.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
