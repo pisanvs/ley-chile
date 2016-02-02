@@ -102,7 +102,7 @@ Asimismo, sin perjuicio de lo establecido en el artículo 40 de la ley Nº 19.92
 
 "Ordenanza Local para el Ejercicio del Comercio en la Comuna de Las Condes, Art. 13º".
 
-Dicho cartel será proporcionado gratuitamente por la Municipalidad, a través del Departamento de Patentes Municipales. La no exhibición del cartel antes indicado se sancionará con multa de 1 a 3 UTM.
+Dicho cartel será proporcionado gratuitamente por la Municipalidad, a través del Departamento de Patentes Municipales, por única vez, siendo de cargo del titular de la patente las reposiciones necesarias para dar cumplimiento a lo antes señalado, fijándose el costo de reposición en 0.20 UTM, valor que se deberá incorporar a la Ordenanza Local sobre Derechos Municipales dentro del plazo de 90 días, contados desde la publicación del presente decreto. La no exhibición del cartel antes indicado se sancionará con multa de 1 a 3 UTM.
 
 #### Artículo 14º
 
@@ -122,7 +122,7 @@ Las infracciones reiteradas permitirán a la Municipalidad dejar sin efecto la a
 
 #### Artículo TRANSITORIO
 
-Los establecimientos a que se ha hecho referencia en el numeral I precedente, tendrán un plazo de 45 días corridos para la instalación del cartel, contados desde la publicación del presente decreto.
+Los establecimientos a que se ha hecho referencia en el numeral I precedente, tendrán un plazo de 15 días corridos para la instalación del cartel, contados desde la entrega material de éstos por parte de la Municipalidad.
 
 Anótese, comuníquese, publíquese y archívese.- Carlos Correa Sanfuentes, Alcalde.- Paulina Avaria Benaprés, Secretario Abogado Municipal.
 
