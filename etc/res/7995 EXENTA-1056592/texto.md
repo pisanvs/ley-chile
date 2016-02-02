@@ -20,6 +20,8 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al quinto llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, Título I, Tramo 1, dispuesto en el número 1º de la resolución exenta Nº 6.674, de este Ministerio, de 2013, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Región, según se indica en la siguiente tabla:
 
+.
+
 3º.- Déjanse sin efecto las 803 solicitudes de postulación para el quinto llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, efectuado por el número 1º de la resolución exenta Nº 6.674, de este Ministerio, de 2013, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución.
 
 4º.- Publíquese en un periódico de circulación nacional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados, conforme al número 2º de esta resolución, así como el plazo de que dispondrán los interesados para poder presentar al Serviu respectivo, sus observaciones o reclamos, si correspondiere, y las nóminas de postulantes cuyas solicitudes de postulación fueron dejadas sin efecto, a que se refiere el número 3º anterior, y exhíbanse dichas nóminas en las oficinas de los Serviu.
