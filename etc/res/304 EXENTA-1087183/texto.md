@@ -1,0 +1,43 @@
+INICIO DEL PROCESO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA (EAE) DE LA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE LA FLORIDA EN EL SECTOR AVDA. DEPARTAMENTAL - TOBALABA, SEGÚN ART. 50 LGUC, CONFORME A LAS DISPOSICIONES ESTABLECIDAS EN EL ARTÍCULO 7 BIS DE LA LEY Nº 19.300
+
+Núm. 304 exenta.- Santiago, 27 de enero de 2016.
+
+Vistos:
+
+El DL 1.305; el DS 397,de 1977 (V. y U.), el DFL Nº 458, de 1975, Ley General de Urbanismo y Construcciones; el DS 47, de 1992, Ordenanza General de Urbanismo y Construcciones; la Ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón; el DS Nº 42 (V. y U.), de fecha 28 marzo de 2014, que nombra al infrascrito Secretario Ministerial Metropolitano; lo señalado en el artículo 7º bis de la Ley Nº 19.300 sobre Bases del Medio Ambiente; y el artículo 14 del Reglamento para la Evaluación Ambiental Estratégica, aprobado mediante decreto Nº 32, de fecha 17.08.2015, y publicado en el Diario Oficial con fecha 04.11.2015, y
+
+Considerando:
+
+1. Lo dispuesto en la circular Ord. Nº 398 DDU 296, de fecha 26 agosto 2015, que instruye sobre la aplicación del Art. 50 LGUC y 6.1.12. OGUC.
+
+2. El Ord. Nº 9973, de fecha 07.09.2015, del Servicio de Vivienda y Urbanización (Serviu) dirigido a Seremi de Vivienda y Urbanismo, donde solicita realizar una Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, mediante la aplicación del Art. 50 de la Ley General de Urbanismo y Construcciones, y dar inicio al proceso de Evaluación Ambiental Estratégica.
+
+3. Que el objetivo o meta que pretende alcanzar el Instrumento es modificar las normas urbanísticas del Plan Regulador Comunal de La Florida Sector Avda. Departamental - Tobalaba según Art. 50 LGUC, específicamente en el terreno de 8.959,9 m², de propiedad de Serviu Metropolitano, para facilitar la materialización en el lugar de un conjunto de viviendas sociales que beneficia a 160 familias vulnerables.
+
+4. Que la justificación de realizar Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, radica en que los terrenos adquiridos tienen factibilidad de ser ocupados por proyectos de viviendas, es decir tienen factibilidad sanitaria y no se encuentran emplazados en zonas de riesgo, sin embargo, el uso de suelo en la actualidad no permite el desarrollo de un conjunto de vivienda social, motivo por el cual el Serviu Metropolitano ha solicitado a la Seremi Minvu R.M. la aplicación del artículo 50 de la Ley General de Urbanismo y Construcciones (en adelante LGUC), para corregir esta situación.
+
+5. Que la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, se identifica como sustancial, de acuerdo al artículo 29 del Reglamento para la Evaluación Ambiental Estratégica, toda vez que introduce densidad en una zona del Plan Regulador Comunal, donde no había.
+
+6. Que el objeto de la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, es una modificación a la normativa comunal vigente, para facilitar la materialización de un conjunto de viviendas sociales que beneficie a 160 familias vulnerables, en base a atribuciones excepcionales que le otorga el artículo 50 LGUC a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, para que -a solicitud de los Servicios de Vivienda y Urbanización (Serviu)- se modifiquen las normas urbanísticas vigentes en determinados territorios de manera que puedan materializarse proyectos de viviendas destinados a resolver problemas de marginalidad urbana, a través de los programas del Ministerio de Vivienda y Urbanismo, especialmente diseñado para aquello.
+
+7. Que el ámbito de aplicación territorial de la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, corresponde a exclusivamente al terreno de propiedad del Serviu Metropolitano de 8.959,9 m², compuesto por el Lote 1, Rol SII 770-6, ubicado Avda. Tobalaba Nº 3891, y el Lote 3, Rol SII 770-8, ubicado en Avda. Tobalaba Nº 5793, comuna de La Florida. La duración de las normas urbanísticas que se aprueben estarán vigentes hasta que la Municipalidad de La Florida decida modificar su Plan Regulador Comunal en el sector.
+
+8. Que las políticas medio ambientales y de sustentabilidad que pudieran incidir en el Plan son: Política Nacional de Desarrollo Urbano. Ministerio de Vivienda y Urbanismo - Minvu. Publicada en el Diario Oficial con fecha 4 de marzo de 2014; Análisis y Evaluación del Plan Maestro de Ciclovías del Gran Santiago, Sectra (2013), elaborado por Steer Davies Gleave; Política de Áreas Verdes de la Región Metropolitana de Santiago 2012-2015. Gobierno Regional Metropolitano (2012); y Mapa de Ruido Gran Santiago. Ministerio del Medio Ambiente (2011).
+
+9. Que los objetivos ambientales del plan buscan: Intensificar el uso del suelo en terrenos ubicados al interior del área urbana y destinarlos a la vivienda social, para contrarrestar la tendencia migratoria de ésta hacia sectores apartados de la ciudad o al área rural de la región donde no existe el equipamiento y servicios suficientes; Reconvertir grandes terrenos urbanos subutilizados para destinarlos a vivienda social, capitalizando sus atributos de localización, disposición de infraestructura, equipamiento y servicios, para construir nuevos barrios que sean autosustentables e integrados a la ciudad; Mejoramiento de la calidad ambiental del sector a partir de un cambio de normativa al predio donde se proyecta el Plan Maestro Avda. Departamental - Tobalaba, el cual hoy se encuentra abandonado y utilizado como basural clandestino en sus bordes.
+
+10. Que el criterio de desarrollo sustentable planteado para la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, es: la potenciación de la integración social al interior del área urbana posibilitando la construcción de proyectos de vivienda social en terrenos que cuenten con accesibilidad, transporte público, áreas verdes, equipamiento y servicios en el entorno.
+
+11. Que la principal implicancia sobre el medio ambiente y la sustentabilidad que generaría la opción de desarrollo de la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, son los efectos sobre la trama urbana existente en el entorno, dentro de los cuales se identifica de manera preliminar el mejoramiento de la calidad ambiental del sector, el incremento de la oferta de áreas verdes públicas, la consolidación del espacio público que enfrenta el predio.
+
+12. Que los Órganos de la Administración de Estado que se convocarán a participar del proceso de Evaluación Ambiental Estratégica de la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, son los que integran el Consejo de Ministros para la Sustentabilidad, a través de sus Secretarías Regionales Ministeriales, conforme señala el artículo 9 y el artículo 10 del Reglamento para la Evaluación Ambiental Estratégica, a saber, las Secretaría Ministeriales de la Región Metropolitana de Agricultura, de Hacienda, de Salud, de Economía, Fomento y Reconstrucción, de Energía, de Obras Públicas, de Vivienda y Urbanismo, de Transportes y Telecomunicaciones, de Minería y Planificación, y además, se convoca a la Municipalidad de La Florida, en su calidad de Órgano de la Administración del Estado con competencias en el territorio donde se realizará la modificación normativa.
+
+13. Que el cronograma estimativo de la Modificación del Plan Regulador Comunal de La Florida en el Sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, es el siguiente:
+
+Resuelvo:
+
+1. Iníciese el proceso de Evaluación Ambiental Estratégica de la Modificación del Plan Regulador Comunal de La Florida en el sector Avda. Departamental - Tobalaba, según Art. 50 LGUC, conforme a lo señalado en el artículo 7 Bis de la Ley Nº 19.300, sobre Bases del Medio Ambiente para los Instrumentos de Planificación Territorial, y el artículo 14 del Reglamento para la Evaluación Ambiental Estratégica.
+
+2. Notifíquese lo resuelto a la Secretaría Ministerial del Medio Ambiente de la Región Metropolitana, sirviendo la presente resolución, como atento oficio remisor.
+
+Anótese, comuníquese y cúmplase.- Aldo Ramaciotti Fracchia, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
