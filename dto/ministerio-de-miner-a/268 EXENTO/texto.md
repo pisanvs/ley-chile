@@ -8,11 +8,11 @@ Decreto:
 
 1º Establézcase, en forma permanente, el siguiente orden de subrogación en la Secretaría Regional Ministerial de Minería de la Región de Tarapacá.
 
-1º Manuel Eduardo Morales González, RUT Nº 9.089.815-9, Secretario Regional Ministerial de Transportes y Telecomunicaciones, de la I Región de Tarapacá.
+1º Secretario Regional Ministerial de Transportes y Telecomunicaciones, de la I Región de Tarapacá.
 
-2º Lorena de las Mercedes de Ferrari Mir, RUT Nº 10.945.951-8, Secretaria Regional Ministerial de Justicia, de la I Región de Tarapacá.
+2º Secretaria Regional Ministerial de Justicia, de la I Región de Tarapacá.
 
-3º Sergio García Segura, RUT Nº 9.227.544-2, Secretario Regional Ministerial de Obras Públicas, de la I Región de Tarapacá.
+3º Secretario Regional Ministerial de Obras Públicas, de la I Región de Tarapacá.
 
 2º Déjase sin efecto el decreto supremo exento Nº 84, de 3 de febrero de 2012, del Ministerio de Minería, que establecía orden de subrogación de la Secretaría Regional Ministerial de Minería de la Región de Tarapacá.
 
