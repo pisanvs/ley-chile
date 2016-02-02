@@ -160,8 +160,6 @@ La Empresa Adjudicataria deberá otorgar libre acceso al personal encargado de l
 
 De conformidad a lo establecido en el punto 4.2.1 del artículo segundo del decreto exento Nº 201, y a lo dispuesto en los numerales 6.1 y 8.2.7 de las Bases Licitación, la Empresa Adjudicataria se obliga a constituirse en Chile como sociedad anónima de giro exclusivo de transmisión o transporte y su participación en el capital accionario de la nueva sociedad que se crea no podrá ser inferior al 99,9%, dentro de los 30 días siguientes a la fecha de publicación en el Diario Oficial del presente decreto. El incumplimiento de lo dispuesto en este numeral, dará lugar al cobro de la Boleta de Garantía señalada en el numeral 8.2.8 de las Bases de Licitación y a la anulación inmediata de la adjudicación, ante lo cual la DP actuará de acuerdo al procedimiento establecido en el numeral 10.5.2 de dichas Bases de Licitación.
 
-> **Nota.** El artículo primero del Decreto 10T, Energía, publicado el 03.05.2022, modifica el plazo de cumplimiento del Hito Relevante Nº 5, esto es, de la entrada en operación del Proyecto "Línea 2x500 kV Pichirropulli - Nueva Puerto Montt, energizada en 220 kV" establecido en el numeral 3 del imperativo 2 y en el literal del numeral 1 del imperativo 3, del presente decreto, en el sentido de prorrogar en 276 días corridos la fecha de cumplimiento del referido hito, de forma tal que en definitiva éste deberá cumplirse a más tardar el 30 de abril de 2022.
-
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Máximo Pacheco M., Ministro de Energía.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
