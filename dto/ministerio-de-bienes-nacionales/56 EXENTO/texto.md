@@ -1,0 +1,7 @@
+AUTORIZA MODIFICACIÓN DE CONTRATO DE CONCESIÓN ONEROSA DE INMUEBLE FISCAL, ADJUDICADA A "PARQUE SOLAR FOTO VOLTAICO LUZ DE ORO SpA" EN VIRTUD DEL DECRETO Nº 1.178 EXENTO, DE 4 DE OCTUBRE DE 2013, EN LA REGIÓN DE ATACAMA
+
+Mediante decreto (exento) Nº 56 de 27 de enero de 2016, se autorizó la modificación del contrato de concesión de inmueble fiscal, celebrado por escritura pública ante el Notario Público de Copiapó, don Luis Ignacio Manquehual Mery, el 17 de diciembre de 2013, entre el Fisco - Ministerio de Bienes Nacionales y Parque Solar Fotovoltaico Luz de Oro SpA, aumentando los plazos para desarrollar un proyecto de energía renovable no convencional, regulando asimismo las prórrogas para su ejecución, en el inmueble fiscal entregado en concesión, de conformidad al decreto (exento) Nº 1.178 de 2013.
+
+La modificación de contrato de concesión deberá suscribirse dentro del plazo de 30 días hábiles, contado desde la fecha de notificación del decreto (exento) Nº 56 de 27 de enero de 2016, a la concesionaria, practicada mediante carta certificada por la Secretaria Regional Ministerial de Bienes Nacionales respectiva. Los decretos mencionados en sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales.-
+
+Autoriza extracto, Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
