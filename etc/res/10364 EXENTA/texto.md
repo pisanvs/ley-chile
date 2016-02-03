@@ -26,7 +26,7 @@ Resolución:
 
 .
 
-2. Impútese la diferencia de 3.584 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos precedentes de la presente resolución, a los recursos autorizados a la Región de Atacama para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 2.820 Unidades de Fomento corresponden al subsidio directo y 764 Unidades de Fomento a la Asistencia Técnica.
+2. Impútese la diferencia de 3.584 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos precedentes de la presente resolución, a los recursos autorizados a la Región de Antofagasta para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 2.820 Unidades de Fomento corresponden al subsidio directo y 764 Unidades de Fomento a la Asistencia Técnica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
