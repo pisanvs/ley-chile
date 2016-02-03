@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "MAESTRANZA BETH Y COMPAÑÍA LIMITADA"
+
+Mediante decreto exento Nº E-50, de 22 de Enero de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa a "Maestranza Beth y Compañía Limitada", RUT Nº 78.196.220-1, el inmueble fiscal signado como Lote 4 de la Manzana E-1, ubicado en Barrio Industrial, Sector Puerto Seco, comuna de Calama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 5305-9; inscrito a nombre del Fisco en inscripción global a fs. 49 vta. Nº 57, del Registro de Propiedad del Conservador de Bienes Raíces El Loa-Calama, correspondiente al año 1928; de una superficie total aproximada de 2.025,21 metros cuadrados, singularizado en el Plano Nº 02201-6.876-C.U. La Concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 101.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto productivo denominado "Maestranza, Calderería y Servicio Gran Minería". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Patricio Flores Rivas, Abogado, Jefe de División Jurídica
