@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "EMPRESA DE CONSTRUCCIONES DANILO BERNABE CORTÉS GÁRATE E.I.R.L."
+
+Mediante decreto exento Nº E-46, de 22 de enero de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa a "Empresa de Construcciones Danilo Bernabe Cortés Gárate E.I.R.L.", RUT Nº 76.378.367-7, el inmueble fiscal signado como Lote 6b de la Manzana C-2, ubicado en Barrio Industrial, Sector Puerto Seco, comuna de Calama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 5318-9; inscrito a nombre del Fisco en inscripción global a fs. 49 vta. Nº 57, del Registro de Propiedad del Conservador de Bienes Raíces El Loa-Calama, correspondiente al año 1928; de una superficie total aproximada de 2.866,94 metros cuadrados, singularizado en el Plano Nº 02201-6.913-C.U. La concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 151.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto productivo denominado "Construcciones y Montajes". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.-
+
+Autoriza extracto, Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
