@@ -24,7 +24,7 @@ Créanse secciones juveniles femeninas en los establecimientos penitenciarios qu
 
 a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
 
-b.- Centro de Cumplimiento Penitenciario de Iquique, ubicado en calle Estación s/n, comuna y provincia de Iquique, I Región de Tarapacá.
+b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector Huantajaya, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá.
 
 c.- Centro de Detención Preventiva de Quillota, ubicado en calle Chacabuco Nº 990, comuna de Quillota, V Región de Valparaíso.
 
@@ -48,7 +48,7 @@ Créanse secciones juveniles masculinas en los establecimientos penitenciarios q
 
 a.- Complejo Penitenciario de Arica, ubicado en el sector denominado Quebrada de Acha, comuna y provincia de Arica, XV Región de Arica y Parinacota.
 
-b.- Complejo Penitenciario de Iquique, ubicado en calle Estación s/n, ciudad, comuna y provincia de Iquique, I Región de Tarapacá.
+b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector Huantajaya, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá.
 
 c.- Complejo Penitenciario de Antofagasta, ubicado en sector Salar del Carmen, comuna y provincia de Antofagasta, II Región de Antofagasta.
 
