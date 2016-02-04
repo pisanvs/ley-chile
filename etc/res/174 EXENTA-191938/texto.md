@@ -6,7 +6,7 @@ R e s u e l v o:
 
 Fíjase las siguientes normas para el arreo de animales, que se efectúe por caminos públicos de la XI Región:
 
-1º Previo al traslado de los animales el propietario de éstos deberá proveer al arriero o conductor de dicho traslado, de toda la documentación y autorizaciones operativas que procedan, otorgadas por la autoridad competente y que lo habilitan para el ejercicio de la actividad.
+1º Previo al traslado de los animales, el propietario de estos deberá avisar y dejar constancia del mismo, en la Comisaría, Tenencia o Retén de Carabineros más próximo al lugar del arreo.
 
 2º El tránsito por vías públicas, de caballerías, ganado suelto, manadas y rebaños, podrá efectuarse únicamente cuando no existan otras vías utilizables que permitan realizarlo por ellas.
 
