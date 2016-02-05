@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Las empresas constructoras tendrán derecho a deducir, del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, un crédito equivalente a todo o parte del valor de los Sistemas Solares Térmicos y de su instalación que monten en bienes corporales inmuebles destinados a la habitación construidos por ellas, según las normas y bajo los límites y condiciones que se establecen en esta ley, así como de las normas complementarias que se establezcan en el reglamento que dictarán conjuntamente al efecto los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción, en adelante "el reglamento".
+Las empresas constructoras tendrán derecho a deducir, del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, un crédito equivalente a todo o parte del valor de los Sistemas Solares Térmicos, de su instalación y mantenciones obligatorias mínimas que monten en bienes corporales inmuebles destinados a la habitación construidos por ellas, según las normas y bajo los límites y condiciones que se establecen en esta ley, así como de las normas complementarias que se establezcan en el reglamento que dictarán conjuntamente al efecto los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción, en adelante "el reglamento".
 
 #### Artículo 2º
 
@@ -24,7 +24,7 @@ d) Vivienda: Los bienes corporales inmuebles destinados a la habitación y las d
 
 #### Artículo 3º
 
-Sólo darán derecho al crédito establecido en esta ley los Sistemas Solares Térmicos que aporten al menos un 30 por ciento del promedio anual de demanda de agua caliente sanitaria estimada para la respectiva vivienda y cumplan con los demás requisitos y características técnicas que establezca el reglamento.
+Sólo darán derecho al crédito establecido en esta ley los Sistemas Solares Térmicos que aporten al menos un 30 por ciento del promedio anual de demanda de agua caliente sanitaria estimada para la respectiva vivienda, a cuyo respecto se haya suscrito un contrato para realizar, durante, a lo menos, cinco años contados desde la recepción definitiva del inmueble, las mantenciones periódicas en conformidad a lo señalado por el proveedor del sistema, que no hayan servido para percibir el subsidio establecido en el inciso primero del artículo 13, y cumplan con los demás requisitos y características técnicas que establezca el reglamento.
 
 El reglamento señalará, entre otras materias, los porcentajes mínimos de demanda promedio anual de agua caliente sanitaria exigidos, de acuerdo a la radiación solar correspondiente a cada área geográfica que se determine.
 
@@ -36,19 +36,21 @@ a) Declaración jurada en la que conste la marca, modelo y número de serie del 
 
 b) Declaración jurada donde conste que el Sistema Solar Térmico cumple con el porcentaje mínimo de demanda promedio anual de agua caliente sanitaria estimada para la respectiva vivienda establecido en el reglamento, adjuntando al efecto la respectiva memoria de cálculo.
 
+c) Copia autorizada del contrato de mantención del sistema.
+
 #### Artículo 4º
 
-El crédito por cada Sistema Solar Térmico incorporado en la construcción de una vivienda se determinará en relación al valor de los componentes que integran el Sistema Solar Térmico y su instalación, según las siguientes reglas:
+El crédito por cada Sistema Solar Térmico incorporado en la construcción de una vivienda se determinará en relación al valor de los componentes que integran el Sistema Solar Térmico, su instalación y mantenciones obligatorias mínimas, según las siguientes reglas:
 
-a) El valor de dichos sistemas y su instalación se acreditará con las facturas de compra o instalación, cuando sea obligatoria la emisión de tales documentos. En los demás casos, dichos valores podrán ser acreditados con los demás documentos que den cuenta de la adquisición, importación o instalación, según corresponda. Para efectos de los cálculos a que se refiere esta letra, el valor de los Sistemas Solares Térmicos y su instalación deberá ser convertido a unidades de fomento a la fecha de adquisición o instalación, respectivamente. Lo anterior es sin perjuicio de lo dispuesto en el artículo 64 del Código Tributario.
+a) El valor de dichos sistemas, su instalación y mantenciones obligatorias mínimas se acreditará con las facturas de compra, instalación o mantención, cuando sea obligatoria la emisión de tales documentos. En los demás casos, dichos valores podrán ser acreditados con los demás documentos que den cuenta de la adquisición, importación, instalación o mantención, según corresponda. Para efectos de los cálculos a que se refiere esta letra, el valor de los Sistemas Solares Térmicos, su instalación y mantenciones obligatorias mínimas deberá ser convertido a unidades de fomento a la fecha de adquisición o instalación, respectivamente. Lo anterior es sin perjuicio de lo dispuesto en el artículo 64 del Código Tributario.
 
 b) El monto potencial máximo del crédito por vivienda se determinará de acuerdo a la siguiente escala, considerando los valores de las viviendas respectivas que incluyen el valor del terreno y de la construcción:
 
-i) Respecto de los inmuebles cuyo valor no exceda de 2.000 unidades de fomento, el beneficio potencial máximo será equivalente a la totalidad del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio señalado no podrá exceder los valores indicados en las letras c) y d) siguientes.
+i) Respecto de los inmuebles cuyo valor no exceda de 2.000 unidades de fomento, el beneficio potencial máximo será equivalente a la totalidad del valor del respectivo Sistema Solar Térmico, su instalación y mantenciones obligatorias mínimas. En todo caso, el beneficio señalado no podrá exceder los valores indicados en las letras c) y d) siguientes.
 
-ii) Respecto de los inmuebles cuyo valor sea superior a 2.000 unidades de fomento y no exceda de 3.000 unidades de fomento, el beneficio potencial máximo será equivalente al 40% del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio no podrá exceder del 40% de los valores señalados en las letras c) y d) siguientes.
+ii) Respecto de los inmuebles cuyo valor sea superior a dos mil unidades de fomento y no exceda de tres mil unidades de fomento, el beneficio potencial máximo será equivalente al porcentaje que se obtiene del cálculo de la operación aritmética (3000-Vv)/10, donde Vv corresponde al valor de la vivienda, aplicado al valor del respectivo sistema solar térmico y su instalación y mantenciones obligatorias mínimas. En todo caso, el beneficio no podrá exceder del mismo porcentaje calculado en este numeral, aplicado a los valores señalados en las letras c) y d) siguientes.
 
-iii) Respecto de los inmuebles cuyo valor sea superior a 3.000 unidades de fomento y no exceda de 4.500 unidades de fomento, el beneficio potencial máximo será equivalente al 20% del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio no podrá exceder del 20% de los valores señalados en las letras c) y d) siguientes. Las viviendas con un valor superior al indicado no darán derecho al beneficio.
+iii) Los inmuebles cuyo valor sea superior a tres mil unidades de fomento no darán derecho al beneficio.
 
 c) En el caso en que el Sistema Solar Térmico sea utilizado sólo por una vivienda, el beneficio que establece esta ley por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la siguiente tabla:
 
@@ -64,9 +66,21 @@ Año Unidades de fomento por vivienda
 
 2013 30,0
 
+2015 33
+
+2016 33
+
+2017 28
+
+2018 20
+
+2019 15
+
+2020 8
+
 El crédito por vivienda se establecerá en los términos indicados en el literal b) anterior.
 
-d) En el caso en que el Sistema Solar Térmico sea utilizado por más de una vivienda, para el cálculo del crédito se prorrateará el valor de dicho sistema y su instalación en el número de unidades de vivienda en proporción a la demanda anual de agua caliente sanitaria de cada una de ellas, conforme al método de cálculo que establezca el reglamento, sin considerar las unidades de vivienda que no tengan acceso al uso del señalado sistema. El crédito por vivienda se establecerá en los términos establecidos en el literal b) anterior. Con todo, si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es menor a 80 metros cuadrados, el beneficio que establece esta ley por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la siguiente tabla:
+d) En el caso en que el Sistema Solar Térmico sea utilizado por más de una vivienda, para el cálculo del crédito se prorrateará el valor de dicho sistema, su instalación y mantenciones obligatorias mínimas en el número de unidades de vivienda en proporción a la demanda anual de agua caliente sanitaria de cada una de ellas, conforme al método de cálculo que establezca el reglamento, sin considerar las unidades de vivienda que no tengan acceso al uso del señalado sistema. El crédito por vivienda se establecerá en los términos establecidos en el literal b) anterior. Con todo, si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es menor a 80 metros cuadrados, el beneficio que establece esta ley por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la siguiente tabla:
 
 Año Unidades de fomento por vivienda
 
@@ -79,6 +93,18 @@ Año Unidades de fomento por vivienda
 2012 27,5
 
 2013 26,5
+
+2015 26,5
+
+2016 26,5
+
+2017 22,5
+
+2018 16
+
+2019 12
+
+2020 6,4
 
 Si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es igual o mayor a 120 metros cuadrados, el beneficio que establece esta ley por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la siguiente tabla:
 
@@ -93,6 +119,18 @@ Año Unidades de fomento por vivienda
 2012 24,0
 
 2013 23,5
+
+2015 23,5
+
+2016 23,5
+
+2017 20
+
+2018 14
+
+2019 10,5
+
+2020 5,7
 
 Si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es igual o mayor a 80 metros cuadrados pero inferior a 120 metros cuadrados, el beneficio que establece esta ley no podrá exceder del valor que se obtiene del cálculo de la siguiente operación aritmética:
 
@@ -134,31 +172,33 @@ Las empresas constructoras deberán informar al Servicio de Impuestos Internos, 
 
 El beneficio establecido en esta ley regirá después de noventa días contados desde la fecha de publicación del reglamento, sólo respecto de las viviendas cuyos permisos de construcción o las respectivas modificaciones de tales permisos se hayan otorgado a partir del 1 de enero de 2008 y que hayan obtenido su recepción municipal final a partir de dicha publicación y antes del 31 de diciembre de 2013. No obstante lo anterior, también accederán al beneficio señalado las viviendas cuya recepción municipal se obtenga después del 31 de diciembre del año 2013, cuando ésta se hubiere solicitado con anterioridad al 30 de noviembre del año 2013.
 
+Además del período señalado en el inciso precedente, dicho beneficio regirá a partir del 1 de enero de 2015 respecto de las viviendas cuyos permisos de construcción o las respectivas modificaciones de éstos se hayan otorgado a partir del 1 de enero de 2013 y obtenido su recepción municipal final a partir del 1 de enero de 2015 y antes del 31 de diciembre de 2020. No obstante, también accederán a este beneficio las viviendas cuya recepción municipal se obtenga después del 31 de diciembre de 2020, cuando ésta se hubiere solicitado con anterioridad al 30 de noviembre de ese año.
+
 #### Artículo 8º
 
 El propietario primer vendedor de una vivienda deberá responder por los daños y perjuicios que provengan de las fallas o defectos del Sistema Solar Térmico, de sus componentes y de su correcto funcionamiento, de conformidad a lo establecido en los artículos 18 y siguientes del decreto con fuerza de ley Nº 458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, entendiéndose que este tipo de sistemas se encuentran comprendidos en el número 2 del inciso séptimo del señalado artículo.
 
 En caso que la vivienda fuese de aquellas acogidas al beneficio establecido en esta ley, si se determina la responsabilidad civil del propietario primer vendedor a que se refiere el inciso anterior, adicionalmente se impondrá una multa a beneficio fiscal equivalente al monto reajustado del beneficio que se hubiere impetrado por dicha vivienda conforme a lo dispuesto por el artículo 4° de esta ley, la que se aplicará conforme al procedimiento establecido en el artículo 165 del Código Tributario.
 
-Asimismo, el propietario primer vendedor de una vivienda acogida al beneficio aludido en el inciso precedente, deberá solventar la realización de una inspección respecto del Sistema Solar Térmico a solicitud del actual propietario de la vivienda, quien podrá requerirlo dentro del primer año contado desde la recepción municipal definitiva de la misma. Esta revisión sólo podrá ser realizada por los organismos y entidades a que se refiere el número 3 del artículo 9º de esta ley. El reglamento establecerá la forma y condiciones de esta solicitud y los demás procedimientos necesarios para la realización de la inspección, entre ellos la forma en que se solicitará y efectuará la revisión de Sistemas Solares Térmicos utilizados por más de una vivienda.
+INCISO ELIMINADO.
 
 #### Artículo 9º
 
 La Superintendencia de Electricidad y Combustibles, en adelante "la Superintendencia", tendrá las siguientes atribuciones:
 
-1. Establecer y administrar un registro de Colectores Solares Térmicos y Depósitos Acumuladores que permitan acceder al beneficio tributario establecido en el artículo 1° de esta ley.
+1. Establecer y administrar un registro de Colectores Solares Térmicos y Depósitos Acumuladores que permitan acceder al beneficio tributario establecido en el artículo 1° y a los subsidios establecidos en el artículo 13 de esta ley.
 
 2. Autorizar a organismos de certificación, organismos de inspección, laboratorios de ensayos u otras entidades de control para que realicen o hagan realizar bajo su exclusiva responsabilidad las pruebas y ensayos, o la revisión documental, en su caso, que la Superintendencia estime necesarias para incluir componentes en el registro mencionado en el número anterior. Esta autorización se otorgará mediante resolución.
 
-3. Autorizar a organismos de inspección u otras entidades de control para que inspeccionen los Sistemas Solares Térmicos y realicen o hagan realizar, bajo su exclusiva responsabilidad, las pruebas y ensayos que la Superintendencia estime necesarias para constatar que cumplen con las especificaciones establecidas en el reglamento, de acuerdo a lo señalado en el inciso tercero del artículo precedente y a lo declarado en la memoria de cálculo señalada en el artículo 3° de esta ley.
+3. Autorizar a organismos de inspección u otras entidades de control para que inspeccionen los Sistemas Solares Térmicos y realicen o hagan realizar, bajo su exclusiva responsabilidad, las pruebas y ensayos que la Superintendencia estime necesarias para constatar que cumplen con las especificaciones establecidas en el reglamento y a lo declarado en la memoria de cálculo señalada en el artículo 3° de esta ley.
 
-4. Sancionar, conforme a lo establecido en el Título IV de la ley Nº 18.410, a las empresas constructoras que hubieren utilizado el beneficio tributario establecido en esta ley en caso que se compruebe que los respectivos Sistemas Solares Térmicos no cumplen con las especificaciones establecidas en el reglamento o con lo declarado en la respectiva memoria de cálculo.
+4. Sancionar, de acuerdo al Título IV de la ley Nº18.410, que Crea la Superintendencia de Electricidad y Combustibles, a las empresas constructoras que hayan accedido al beneficio tributario contenido en el artículo 1º o al subsidio establecido en el inciso primero del artículo 13, cuando se les compruebe que los respectivos sistemas solares térmicos no cumplen con las disposiciones establecidas en la ley o en el reglamento o con lo declarado en la respectiva memoria de cálculo.
 
 Para la fiscalización del cumplimiento de lo señalado en el inciso anterior, la Superintendencia podrá utilizar las revisiones realizadas por los organismos de inspección u otras entidades de control autorizadas de acuerdo al número 3. Asimismo, podrá autorizar la instalación de dispositivos de medición o de captura de información o bien, realizar inspecciones directas a las instalaciones.
 
 Los procedimientos para la autorización y control de las entidades señaladas en los números 2, 3 y 4 del inciso primero serán establecidos por la Superintendencia mediante resolución fundada de carácter general. Las entidades así autorizadas quedarán sujetas a la permanente fiscalización y supervigilancia de la Superintendencia y estarán sometidas a las sanciones establecidas en el Título IV de la ley N° 18.410.
 
-Las facultades de la Superintendencia establecidas en los números 1 y 2 precedentes regirán por el periodo de vigencia del beneficio tributario señalado en el artículo 1° de esta ley. La facultad establecida en el número 3 regirá por el término que resulte de la aplicación del artículo precedente.
+Las facultades de la Superintendencia establecidas en los números 1 y 2 precedentes regirán por el periodo de vigencia del beneficio tributario señalado en el artículo 1° de esta ley.
 
 #### Artículo 10
 
@@ -166,9 +206,9 @@ Prohíbese la comercialización de Sistemas Solares Térmicos o cualquiera de su
 
 #### Artículo 11
 
-Durante el primer semestre del tercer año a contar desde el año de publicación del reglamento, la Comisión Nacional de Energía informará a la Comisión de Hacienda de la Cámara de Diputados el número de viviendas donde se hubieren instalado los Sistemas Solares Térmicos a que se refiere esta ley en los dos años precedentes, el origen de los colectores solares instalados, el monto total de los créditos tributarios otorgados, los resultados de las acciones de fiscalización efectuadas y toda otra información que estime relevante.
+Durante el primer semestre del tercer año a contar desde el año de publicación del reglamento, la Comisión Nacional de Energía informará a la Comisión de Hacienda de la Cámara de Diputados el número de viviendas donde se hubieren instalado los Sistemas Solares Térmicos a que se refiere esta ley en los dos años precedentes, el origen de los colectores solares instalados, el monto total de los créditos tributarios otorgados, los resultados de las acciones de fiscalización efectuadas y toda otra información que estime relevante. Dicha obligación de información deberá reiterarse durante el primer semestre del año 2020 y su cumplimiento será de cargo del Ministerio de Energía.
 
-El año subsiguiente, la Comisión Nacional de Energía encargará a un organismo internacional la realización de una evaluación del impacto de la presente ley en la reducción en el consumo de combustibles derivados del petróleo, el efecto demostrativo generado a través de la instalación de Sistemas Solares Térmicos en el país y el ahorro neto producido. Esta evaluación deberá contener, además, lo indicado en el inciso precedente, respecto de los cuatro primeros años de operación de la franquicia. Esta evaluación será de público conocimiento debiendo ser publicada, en forma electrónica o digital, por la referida Comisión en el mes de diciembre del año de su elaboración.
+El año 2019, el Ministerio de Energía encargará a un organismo internacional la realización de una evaluación del impacto de la presente ley en la reducción en el consumo de combustibles derivados del petróleo, el efecto demostrativo generado a través de la instalación de Sistemas Solares Térmicos en el país y el ahorro neto producido. Esta evaluación deberá contener, además, lo indicado en el inciso precedente, respecto de los años de operación de la franquicia. Esta evaluación será de público conocimiento debiendo ser publicada, en forma electrónica o digital, por el referido Ministerio en el mes de diciembre del año de su elaboración.
 
 #### Artículo 12
 
@@ -176,9 +216,17 @@ El mayor gasto fiscal que represente la aplicación de esta ley durante el año 
 
 #### Artículo 13
 
-El Ministerio de la Vivienda y Urbanismo podrá establecer, en el Programa Fondo Solidario de Vivienda, mecanismos destinados a la utilización del beneficio tributario que establece esta ley.
+El Ministerio de la Vivienda y Urbanismo podrá establecer un programa de subsidio complementario a los habitacionales, para la instalación de sistemas solares térmicos en viviendas nuevas objeto de dichos programas. Bajo este programa se asignarán subsidios para el período comprendido entre los años 2016 y 2020, inclusive. En caso de implementarse este programa, los valores máximos del subsidio serán determinados anualmente mediante decreto expedido por el Ministerio de la Vivienda y Urbanismo, suscrito, además, por los Ministros de Hacienda y de Energía.
 
-Asimismo, el señalado Ministerio podrá establecer, en el Programa de Protección del Patrimonio Familiar, mecanismos destinados a incentivar la utilización de Sistemas Solares Térmicos en las viviendas objeto de dicho programa.
+El referido decreto establecerá mecanismos competitivos para la selección de los sistemas solares térmicos a instalar y definirá prioridades para la asignación del subsidio en determinadas regiones y,o comunas del país.
+
+A los sistemas solares térmicos acogidos a los subsidios descritos en el inciso anterior les serán aplicables los artículos 3º y 8º, inciso primero, y demás disposiciones que establezcan el Ministerio de la Vivienda y Urbanismo en esta materia. Con cargo a este subsidio se podrá financiar todo o parte del costo del sistema solar térmico y su instalación, un refuerzo en la techumbre y un programa de mantención por cinco años.
+
+Para la implementación de lo dispuesto en los incisos anteriores, la Superintendencia de Electricidad y Combustibles y los organismos públicos responsables de la ejecución del o los programas de subsidios deberán coordinar las acciones que permitan su entrega y fiscalización.
+
+Asimismo, el Ministerio de la Vivienda y Urbanismo podrá establecer, en el Programa de Protección del Patrimonio Familiar, mecanismos destinados a incentivar la utilización de sistemas solares térmicos en las viviendas objeto de dicho programa.
+
+Se prohíbe la comercialización de sistemas solares térmicos o cualquiera de sus componentes que hayan servido con anterioridad para percibir este subsidio. Esta prohibición regirá por cinco años, contados desde la recepción municipal definitiva de la obra donde se hubiesen instalado primeramente, y su incumplimiento se sancionará en la forma prevista en el inciso final del artículo 39 del decreto Nº1, de 2011, del Ministerio de la Vivienda y Urbanismo, que aprueba el reglamento del sistema integrado de subsidio habitacional.
 
 #### Artículo 14
 
@@ -187,6 +235,10 @@ Facúltase al Presidente de la República para que, mediante uno o más decretos
 #### Artículo 15
 
 Para efectos de la tasación de las viviendas sociales a que se refiere la Ley General de Urbanismo y Construcciones, aprobada por el decreto con fuerza de ley N°458, de 1975, del Ministerio de la Vivienda y Urbanismo, así como de las viviendas que postulen a programas del señalado Ministerio, no se incluirá el valor de los Sistemas Solares Térmicos a que se refiere esta ley.
+
+#### Artículo 16
+
+El Ministerio de Energía, respecto del beneficio contemplado en el artículo 1º y del subsidio señalado en el artículo 13, podrá establecer medidas o mecanismos especiales para fomentar su utilización armónica y territorialmente equitativa, con el objeto de propender a la desconcentración geográfica del uso de los sistemas solares térmicos.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

@@ -1348,6 +1348,98 @@ excedente, cuando corresponda, dentro del plazo de
 
 tres días contado desde la respectiva resolución.
 
+Asimismo, los titulares o propietarios de
+
+las obras que se realicen para establecer medios
+
+de generación renovables no convencionales, sus
+
+líneas de transmisión, subestaciones y caminos
+
+de acceso, en bienes propios o de terceros, en
+
+virtud de contratos, servidumbres, concesiones
+
+otorgadas conforme al párrafo I del Título III
+
+del decreto ley Nº1.939, del Ministerio de
+
+Tierras y Colonización, de 1977, o a algún
+
+otro título, podrán consignar la caución en
+
+los términos señalados en los incisos precedentes,
+
+generando los mismos efectos de los juicios
+
+posesorios sumarios regulados en el Título
+
+IV del Libro III del Código de Procedimiento
+
+Civil, cuando la acción que da origen a tales
+
+juicios se funde en concesiones de carácter
+
+administrativo o judicial, para la exploración
+
+o explotación de recursos minerales o
+
+geotérmicos.
+
+La consignación de la caución señalada
+
+no afectará el cumplimiento de la normativa
+
+medioambiental vigente y los convenios
+
+internacionales suscritos por Chile sobre
+
+pueblos originarios.
+
+Los efectos de la orden de paralización
+
+y,o suspensión de las obras no podrán
+
+suspenderse cuando las obras que se lleven
+
+a cabo para establecer medios de generación
+
+renovables no convencionales, y sus líneas
+
+de transmisión, subestaciones y caminos de
+
+acceso, contemplen la utilización de tierras
+
+indígenas con uso ancestral, definidas en el
+
+Convenio Nº169 de la Organización Internacional
+
+del Trabajo, o terrenos de comunidades agrícolas
+
+a las que se refiere el decreto con fuerza de
+
+ley Nº5, de 1967, del Ministerio de Agricultura,
+
+sobre comunidades agrícolas. Lo anterior no
+
+procederá si los propietarios, comuneros y,o
+
+titulares, manifiestan su acuerdo con la
+
+utilización de la caución, de conformidad
+
+con los requisitos para la manifestación de
+
+voluntad a que alude la ley Nº19.253 y la
+
+normativa precedentemente citada. Con todo,
+
+la celebración de actos o contratos deberá
+
+cumplir con las exigencias a que se refieren
+
+las disposiciones legales antes señaladas.
+
 ## Capítulo III
 
 De los Permisos Municipales
