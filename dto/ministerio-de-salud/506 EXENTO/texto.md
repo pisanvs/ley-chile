@@ -6,45 +6,45 @@ Decreto:
 
 1º Establécese, a contar del 24 de julio de 2014, el siguiente orden de subrogación del cargo de Director Servicio de Atacama, en caso de ausencia o impedimento del titular:
 
-Primer Orden de Subroqancia
+Primer orden de subroqancia
 
 Dra. Georgina Espinoza Muñoz
 
-RUT: 8.506.472-K
+C.I.: 8.506.472-K
 
-Subdirectora Médica del Servicio de Salud Atacama
+Subdirectora Médica del Servicio de Salud Atacama.
 
 Titular 33 horas.
 
-Segundo Orden de Subroqancia
+Segundo orden de subroqancia
 
 Sra. Nelly Gómez Barrios
 
-RUT: 7.862.253-9
+C.I.: 7.862.253-9
 
-Subdirectora Administrativa del Servicio de Salud Atacama
+Subdirectora Administrativa del Servicio de Salud Atacama.
 
 Titular Gr. 3º.
 
-Tercer Orden de Subroqancia
-
-Sr. Patricio Hidalgo Apablaza
-
-RUT: 10.627.951-9
-
-Director Hospital de Copiapó
-
-Titular Gr. 4º.
-
-Cuarto Orden de Subroqancia
+Tercer orden de subroqancia
 
 Sra. Julia Salas Peña
 
-RUT: 11.851.069-0
+C.I.: 11.851.069-0
 
-Subdirectora de Recursos Humanos del Servicio de Salud Atacama
+Subdirectora de Recursos Humanos Servicio de Salud Atacama.
 
-Con funciones directivas contratada Gr. 5º.
+A contrata Gr. 3º, con funciones directivas.
+
+Cuarto orden de subroqancia
+
+Sr. Patricio Hidalgo Apablaza
+
+C.I.: 10.627.951-9
+
+Director Hospital de Copiapó.
+
+Titular Grado 4.
 
 2º Declárase que el Director subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
