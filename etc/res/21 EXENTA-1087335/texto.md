@@ -1,0 +1,9 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "EIA MODIFICACIONES Y MEJORAMIENTO DEL SISTEMA DE POZAS DE EVAPORACIÓN SOLAR EN EL SALAR DE ATACAMA"
+
+De conformidad a lo dispuesto en el inciso final del artículo 53 del artículo segundo del DS Nº 95/01, del Minsegpres, Reglamento del Sistema de Evaluación de Impacto Ambiental (SEIA), se comunica a todas las organizaciones ciudadanas con personalidad jurídica y a las personas naturales, que hubieran presentado observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del proyecto "EIA Modificaciones y Mejoramiento del Sistema de Pozas de Evaporación Solar en el Salar de Atacama", sometido al SEIA por su titular Rockwood Litio Ltda., que por resolución exenta Nº 21, de fecha 20 de enero de 2016, la Comisión de Evaluación de la Región de Antofagasta calificó favorablemente el proyecto individualizado.
+
+Se dispone de un plazo de 15 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 29 de la ley Nº 19.300 sobre Bases Generales del Medio Ambiente, vigente al momento del ingreso del proyecto al SEIA.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Región de Antofagasta, ubicada en Avenida República de Croacia Nº 0336, Antofagasta; en la Ilustre Municipalidad de San Pedro de Atacama, ubicada en calle Padre Gustavo Le Paige Nº 328, San Pedro de Atacama; en la Gobernación Provincial de El Loa, ubicada en Granaderos Nº 2296, Calama. Además, podrá accederse a la resolución a través del sitio web www.sea.gob.cl.-
+
+Patricia de la Torre Vásquez, Secretaria, Comisión de Evaluación Región de Antofagasta.
