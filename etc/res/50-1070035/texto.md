@@ -68,7 +68,7 @@ d) Un representante del Ministerio Secretaría General de la Presidencia, design
 
 e) Un representante del Ministerio de Desarrollo Social, designado por el Ministro de Desarrollo Social.
 
-f) Un representante de la Subsecretaría de Desarrollo Regional y Administrativo, designado por el Ministro del Interior y Seguridad Pública, previa solicitud de CORFO.
+f) Un representante del Ministerio del Interior y Seguridad Pública, designado por el Ministro del Interior y Seguridad Pública, previa solicitud de Corfo.
 
 g) Un representante de la Dirección Nacional del Servicio Civil, designado por el Director Nacional del Servicio Civil, previa solicitud de CORFO.
 
