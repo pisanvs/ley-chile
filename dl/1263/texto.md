@@ -736,13 +736,15 @@ La Tesorería General de la República podrá mantener cuentas bancarias en el B
 
 Las cuentas en moneda nacional estarán destinadas únicamente a servir las relaciones financieras entre la Tesorería General de la República y el Banco Central.
 
-#### Artículo 34º
+#### Artículo 34°
 
 <!-- parte:8746741 -->
 
 El Servicio de Tesorerías estará facultado para devolver, compensar o imputar a otras deudas del solicitante, los ingresos efectuados por éste con manifiesto error de hecho.
 
 En los demás casos, requerirá el informe favorable del Organismo que emitió la orden del ingreso, para devolver, compensar o imputar las sumas erróneamente ingresadas.
+
+Los pagos y devoluciones de cualquier naturaleza que de acuerdo a la ley se deban efectuar por el Servicio de Tesorerías, se cursarán en la forma y por los medios que establezca dicho Servicio.
 
 #### Artículo 35°
 
