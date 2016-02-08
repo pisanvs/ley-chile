@@ -26,6 +26,8 @@ Este Servicio depende del Ministerio de Hacienda y está constituido por la Dire
 
 La Dirección Nacional estará constituida por los Departamentos Subdirecciones y Departamentos que establezca el Director con sujeción a la planta de personal del Servicio.
 
+Una de las Subdirecciones tendrá como objeto principal desarrollar políticas y programas especiales destinados a otorgar apoyo, información y asistencia a las empresas de menor tamaño a que se refiere la ley N° 20.416, y a otros contribuyentes de escaso movimiento económico, tales como los señalados en el artículo 22 de la ley sobre impuesto a la renta, con el objeto de facilitar su cumplimiento tributario.
+
 > **Nota.** El artículo 1º transitorio de la LEY 19646, establece su vigencia a contar del 1º de enero de 1999.
 
 #### Artículo 3° bis
@@ -128,9 +130,11 @@ n) Celebrar contratos de prestación de servicios a honorarios, con personas nat
 
 o) Ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio y, entre otros, comprar, construir, reparar, arrendar y dar en arrendamiento, y mantener toda clase de bienes muebles e inmuebles, y vender servicios, con entera independencia de toda otra autoridad y sin sujeción a otro requisito que las disponibilidades presupuestarias;
 
-p) Asesorar e informar al Ministro de Hacienda, cuando éste lo requiera, en materias de competencia del Servicio y en la adopción de las medidas que a su juicio sean necesarias para la mejor aplicación y fiscalización de las leyes tributarias; y proponerle las reformas legales y reglamentarias que sean aconsejables; y
+p) Asesorar e informar al Ministro de Hacienda, cuando éste lo requiera, en materias de competencia del Servicio y en la adopción de las medidas que a su juicio sean necesarias para la mejor aplicación y fiscalización de las leyes tributarias; y proponerle las reformas legales y reglamentarias que sean aconsejables;
 
-q) El Director tiene además las atribuciones y deberes que a su respecto se señalan en la presente Ley Orgánica, en el Código Tributario y en las demás disposiciones legales vigentes o que se dicten.
+q) Llevar a cabo acciones de capacitación destinadas a los contribuyentes, sus representantes y a sus colaboradores o intermediarios tributarios en materia de tributación fiscal interna y establecer acuerdos u otras acciones orientadas a promover el cumplimiento tributario; y
+
+r) El Director tiene además las atribuciones y deberes que a su respecto se señalan en la presente Ley Orgánica, en el Código Tributario y en las demás disposiciones legales vigentes o que se dicten.
 
 ## Título III
 
@@ -148,7 +152,7 @@ Los Subdirectores son asesores del Director en las materias de su especialidad, 
 
 Actúan también como delegados del Director en la evaluación de los programas de trabajo y de su desarrollo, dentro de las respectivas áreas de su especialidad.
 
-Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entienden conferidas todas las facultades que esta ley, el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales, con excepción de la facultad de aplicar las multas a que se refieren los artículos 30; 97 excepto las de sus números 1, 2 y 11; 100; 101; 102; 103; 104, y 109, todos del Código Tributario. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta ley queden sometidos a su jurisdicción, conforme a las instrucciones del Director.
+Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entienden conferidas todas las facultades que esta ley, el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta ley queden sometidos a su jurisdicción, conforme a las instrucciones del Director.
 
 #### Artículo 10°
 
@@ -358,21 +362,15 @@ Los funcionarios percibirán, como retribución a sus servicios, las remuneracio
 
 El derecho a viático de los funcionarios del Servicio se regirá por las normas legales vigentes, sin las limitaciones establecidas en el artículo 8° del decreto de Hacienda N° 262, de 4 de Abril de 1977, y sus modificaciones, y su monto diario tendrá los siguientes valores:
 
-Grados Viático completo Viático sin Viático de
+Grados Viático Completo Viático Sin Alojamiento
 
-Alojamiento Faena
+1 al 10 $ 76.798 $ 30.719
 
--
+11 al 17 $ 58.567 $ 23.427
 
-1° al 2° $ 20.000 $ 8.000 $ 4.000
+18 al 23 $ 44.200 $ 17.680
 
-4° al 5° $ 16.500 $ 6.600 $ 3.300
-
-6° al 10° $ 15.000 $ 6.000 $ 3.000
-
-11° al 17 $ 11.000 $ 4.400 $ 2.500
-
-18° al 23 $ 8.000 $ 3.200 $ 2.000
+El viático de faena para el Servicio de Impuestos Internos será el establecido en el artículo quinto de la ley Nº 19.882.
 
 Estos valores se aumentarán en el porcentaje general y a contar de igual fecha en que se conceda un reajuste general de remuneraciones para el sector público.
 

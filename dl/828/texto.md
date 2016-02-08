@@ -36,7 +36,7 @@ Los cigarros puros pagarán un impuesto de 52,6% sobre su precio de venta al con
 
 #### Artículo 4°
 
-Los paquetes, cajas o envoltorios de cigarrillos pagarán un impuesto específico equivalente a 0,0000675 unidades tributarias mensuales por cada cigarrillo que contengan; y, además, un impuesto de 62,3%, que se aplicará sobre el precio de venta al consumidor, incluido impuestos, por cada paquete, caja o envoltorio, considerándose como entero toda fracción del impuesto inferior a un peso.
+Los paquetes, cajas o envoltorios de cigarrillos pagarán un impuesto específico equivalente a 0,0010304240 unidades tributarias mensuales por cada cigarrillo que contengan; y, además, un impuesto de 30%, que se aplicará sobre el precio de venta al consumidor, incluido impuestos, por cada paquete, caja o envoltorio, considerándose como entero toda fracción del impuesto inferior a un peso.
 
 Para estos efectos, el impuesto específico deberá calcularse tomando como base la unidad tributaria mensual vigente al momento de la determinación del impuesto.
 
@@ -85,6 +85,12 @@ Queda prohibida la internación y venta de tabaco picado sin empaquetar, y la de
 Estarán exentas del impuesto de esta ley las exportaciones de cigarros, cigarrillos y tabacos ART 30° efectuadas por el fabricante nacional. Los exportadores que hayan soportado el tributo incluído en el precio de adquisición del producto o pagado al efectuar la importación, según corresponda, podrán solicitar su devolución en el mes siguiente de aquél en que se efectuó la exportación, acreditando el ingreso del impuesto en arcas fiscales mediante una declaración jurada hecha por el sujeto del impuesto, autorizada por el Servicio de Impuestos Internos, en la cual se detalle la venta, se identifique el producto y se consigne su valor e impuesto pagado, sin perjuicio de las demás exigencias que determine el Servicio de Tesorerías para acreditar la respectiva exportación.
 
 Para los efectos de la devolución del impuesto de esta ley será aplicable la reajustabilidad establecida en el artículo 27 del decreto ley N° 825, de 1974.
+
+#### Artículo 13 bis
+
+Los productores, fabricantes, importadores, elaboradores, envasadores, distribuidores y comerciantes de bienes afectos a los impuestos de esta ley, que el Servicio de Impuestos Internos determine mediante resolución, deberán implementar sistemas de trazabilidad en resguardo del interés fiscal que el Servicio podrá determinar en virtud de lo establecido en el artículo 60 quinquies del Código Tributario.
+
+INCISOS ELIMINADOS.
 
 ## Título III
 
