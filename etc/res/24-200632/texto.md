@@ -32,7 +32,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-Las disposiciones de la presente Ordenanza contienen las normas referentes al límite urbano, zonificación, usos de suelo, condiciones de subdivisión predial, de edificación, de urbanización y vialidad, las que regirán dentro del área territorial del Plan, que se grafica en los Planos PRC 01, 02, 03 y 04, en adelante los Planos, y complementan la información gráfica contenida en ellos.
+Las disposiciones de la presente Ordenanza contienen las normas referentes al límite urbano, zonificación, usos de suelo, condiciones de subdivisión predial, de edificación, de urbanización y vialidad, las que regirán dentro del área territorial del Plan, que se grafica en los Planos PRC 01, 02, 03 y 04, EPRCA-01 (modifica parcialmente PLANO PRC-02 Zonificación General), en adelante los Planos, y complementan la información gráfica contenida en ellos.
 
 #### Artículo 2
 
@@ -50,9 +50,7 @@ En conformidad a la Ley General de Urbanismo y Construcciones, corresponde a la 
 
 #### Artículo 5
 
-La inobservancia de las normas de esta Ordenanza será sancionada de acuerdo a lo previsto en el Título I, Capítulo IV, en los artículos 20º al 25º de la L.G.U.C.
-
-(D.L. Nº458 de V. y U. de 1975).
+La inobservancia de las normas de esta Ordenanza será sancionada de acuerdo a lo previsto en el Título I, Capítulo IV, en los artículos 20º al 25º de la L.G.U.C.(D.L. Nº458 de V. y U. de 1975).
 
 #### Artículo 5
 
@@ -516,9 +514,15 @@ Los cierros interiores no podrán exceder la altura de 3,5 metros.
 
 Los cierros exteriores que correspondan a antejardines deberán considerar una transparencia de un 60 % mínimo. Sólo podrán considerar muros opacos de una altura máxima de 0,85 metros sobre el nivel de suelo del espacio de uso público contiguo.
 
-Los cierros en esquinas deberán formar los ochavos previstos en los Artículos 2.5.3.;2.5.4.;2.5.5.; 2.5.6. y 2.5.7. de la Ordenanza General de Urbanismo y Construcciones.
-
 En el área definida en el Artículo 7.1 de la presente modificación, que consulten cierros que enfrenten espacios públicos en los sitios eriazos y en las propiedades abandonadas. Los cierros exteriores se ubicarán a partir de la línea oficial, entre el B.N.U.P. y el Antejardín, deberán considerar un 80% de transparencia mínima con una altura mínima de 2.00 metros, sin embargo en zonas definidas en el artículo 8 se incorpora mayor exigencia.
+
+#### Artículo 9
+
+1
+
+Ochavos.
+
+En las esquinas de todas las calles y pasajes, los muros de fachada o cierros ubicados en la línea oficial formarán ochavos de acuerdo a OGUC.
 
 #### Artículo 10
 
@@ -526,17 +530,21 @@ Antejardines.
 
 Se entenderá por antejardín el área comprendida entre la línea oficial y la línea de edificación, en la cual no podrán edificarse construcciones que constituyan superficie para efectos del cálculo del coeficiente de constructibilidad, con excepción de aquellas contempladas en este mismo artículo.
 
-Salvo indicación en contrario de esta Ordenanza en general, los antejardines serán optativos. En caso de optarse por ellos, tendrán una profundidad mínima de tres (3) metros. Sin embargo a fin de mantener características homogéneas ya existentes, se establece obligatoriedad de contemplarlos en aquellos sectores de zonas consolidadas que ya los tengan. Se entenderá que existe homogeneidad cuando a lo largo de una cuadra el 50% o más de su longitud ya disponga de antejardines. En estos casos, solo se podrá optar a profundidades de antejardines inferiores a tres metros en caso de existir homogeneidad en este aspecto (no pudiendo ser inferior a 2 metros) pudiendo aumentarse dicha profundidad a voluntad del propietario.
+Los antejardines mínimos corresponderán a los establecidos en la presente ordenanza para las diferentes zonas. En aquellas zonas del Plan Regulador Comunal, en donde la medida del antejardín mínimo está definida, el arquitecto autor del proyecto podrá establecer un ancho mayor al establecido. En aquellas zonas donde el antejardín mínimo sea libre, este será determinado por el arquitecto autor del proyecto.
 
-Las edificaciones de 10 pisos o más deberán contemplar, en caso de optar por ello o en caso de ser obligatorio, antejardín mínimo de 5 metros de profundidad. Dicha obligatoriedad se entenderá por sobre la profundidad de antejardín mínima fijada para las zonas que lo contemplen (con la excepción hecha de las zonas CC, C1a y C1b).
-
-En los planos de loteo superiores a una (1) hectárea, habrá libertad para establecer o no antejardines, cuando estos no hayan sido establecidos en el Plan Regulador.
-
-Son obligatorios los antejardines en pasajes de 8 o menos metros de ancho entre líneas oficiales.
-
-Se aceptarán construcciones ligeras en los antejardines, tales como marquesinas, pasos o estacionamientos cubiertos, glorietas o similares, siempre que no excedan el 30% de la superficie del antejardín. En los niveles superiores al primer piso, se permitirán balcones, terrazas y voladizos no superiores a 1,20 metros medidos desde la línea de edificación.
+Se aceptarán construcciones ligeras en los antejardines, tales como marquesinas, pasos o estacionamientos cubiertos, glorietas o similares, siempre que no excedan el 30% de la superficie del antejardín.
 
 Se exigirá para los Proyectos de obra nueva que se construyan, en el área definida en el Artículo 7.1 de la presente modificación, antejardines de 3,00 m en las calles y 2,00 m en pasajes, excepto en aquellas casos que las normas especificadas para cada zona o para una determinada actividad indique una medida distinta.
+
+#### Artículo 10
+
+1
+
+Cuerpos Salientes.
+
+Los cuerpos salientes en fachadas sobre el espacio público podrán salir hasta 1.80 m de la línea oficial de acuerdo a lo establecido en el Art. 2.7.1 de la OGUC.
+
+Sobre el terreno correspondiente a antejardines, en los niveles superiores al primer piso se permitirán balcones, terrazas y voladizos cuyo ancho no podrá exceder el 40% del antejardín.
 
 #### Artículo 11
 
@@ -556,311 +564,31 @@ f. En el caso de ensanche de calzada, el ancho mínimo para la detención en lí
 
 g. Las exigencias mínimas de estacionamientos para la totalidad de las edificaciones que se construyan o cambien de destino en el área comprendida en el Plan Regulador Comunal deberán cumplir en el sitio que genera la necesidad con los siguientes requerimientos mínimos:
 
-Usos Cantidad Mínima de
+(1) Adicionalmente se consultará estacionamientos de buses, camiones u otros similares, según los siguientes tramos de superficie útil construida en el proyecto:
 
-Estacionamientos
+Hasta 1.000 m2 1 Estacionamiento de 30 m2.
 
-VIVIENDA
+De 1.000 a 3.000 m2 2 Estacionamientos de 30 m2 cada uno.
 
-Conjuntos de Vivienda 1 por cada vivienda, más
+De 3.000 a 6.000 m2 3 Estacionamientos de 30 m2 cada uno.
 
-Social 15% para visitas para loteos,
+De 6.000 a 12.000 m2 4 Estacionamientos de 30 m2 cada uno.
 
-conjuntos o edificios de
+Más de 12.000 m2 5 Estacionamientos de 30 m2 cada uno.
 
-vivienda.
+(1) Adicionalmente se consultará estacionamientos de buses, camiones u otros similares, de una longitud mínima de 10,50 metros, según los siguientes tramos de superficie útil construida en el proyecto:
 
-Ley de copropiedad
+Hasta 1.000 m2. 1 Estacionamiento de 30 m2.
 
-inmobiliaria y Viviendas
+De 1.000 a 3.000 m2 2 Estacionamientos de 30 m2 cada uno.
 
-en general
+De 3.000 a 6.000 m2 3 Estacionamientos de 30 m2 cada uno.
 
-Vivienda hasta 100 m2 1 cada vivienda, más 15%
+De 6.000 a 12.000 m2 4 Estacionamientos de 30 m2 cada uno.
 
-útiles construidos para visitas para loteos,
+Más de 12.000 m2 Estacionamientos de 30 m2 cada uno.
 
-conjuntos o edificios de
-
-vivienda.
-
-Vivienda entre 100 m2 y 1,5 cada vivienda, más 15%
-
-140 m2 útiles construidos para visitas para loteos,
-
-conjuntos o edificios de
-
-vivienda.
-
-Vivienda sobre 140 m2 2 cada vivienda, más 15%
-
-útiles construidos para visitas para loteos,
-
-conjuntos o edificios de
-
-vivienda.
-
-EQUIPAMIENTO
-
-Salud
-
-Unidades de
-
-Hospitalización 0,2 por cama
-
-Unidades de Tratamiento 1 cada 120 m2 útiles
-
-construidos, más 15 % para
-
-visitas.
-
-Consultas Médicas 1 cada 75 m2 útiles
-
-construidos, más 15 % para
-
-visitas.
-
-Educación
-
-Establecimientos de
-
-Enseñanza Técnica o
-
-Superior 1 cada 30 alumnos, más 15%
-
-para visitas
-
-Establecimientos de
-
-Enseñanza Media y Básica 1 cada 80 alumnos, más 15%
-
-para visitas
-
-Establecimientos de
-
-Enseñanza Preescolar 1 cada 60 alumnos, más 15%
-
-para visitas
-
-Deportivo
-
-Casa Club, Gimnasio 1 cada 80 m2 útiles
-
-construidos.
-
-Canchas Tenis,
-
-Bowling y otras 1 por cancha
-
-Multicancha 3 por cancha
-
-Cancha Fútbol, Rugby 5 por cancha
-
-Piscinas 1 cada 12 m2 de superficie
-
-de piscina.
-
-Graderías 1 cada 25 espectadores
-
-Esparcimiento y
-
-Turismo (1)
-
-Cines, Teatros, Auditorios 1 cada 25 espectadores
-
-Hotel, Apart-Hotel,
-
-Residenciales 1 cada 8 camas
-
-Moteles 1 cada 2 camas
-
-Discotecas 1 cada 25 m2 útiles
-
-construidos.
-
-Restaurante, 1 cada 75 m2 útiles
-
-construidos.
-
-Entretenciones al aire
-
-libre, zonas de picnic 1 cada 200 m2 del predio.
-
-(1) Adicionalmente se consultará estacionamientos de
-
-buses, camiones u otros similares, según los
-
-siguientes tramos de superficie útil construida
-
-en el proyecto:
-
-Hasta 1.000 m2 1 Estacionamiento de 30 m2
-
-De 1.000 a 3.000 m2 2 Estacionamientos de 30 m2
-
-cada uno.
-
-De 3.000 a 6.000 m2 3 Estacionamientos de 30 m2
-
-cada uno.
-
-De 6.000 a 12.000 m2 4 Estacionamientos de 30 m2
-
-cada uno.
-
-Más de 12.000 m2 5 Estacionamientos de 30 m2
-
-cada uno
-
-Usos Cantidad Mínima de Estacionamientos
-
-EQUIPAMIENTO
-
-Comercio Minorista
-
-Supermercados, Mercados,
-
-Grandes Tiendas, Centros
-
-Comerciales de todo
-
-Tamaño, Agrupaciones
-
-Comerciales de más de 500 1 cada 50 m2 útiles
-
-m2 edificados construidos.
-
-Agrupación Comercial 1 cada 75 m2 útiles
-
-de 200 a 500 m2. construidos.
-
-Mínimo 3 estacionamientos
-
-Materiales de Construcción,
-
-Venta de Automóviles,
-
-Estación de Servicio
-
-Automotriz. (1) 1 cada 75 m2 construidos.
-
-Mínimo 3 estacionamientos
-
-Venta Minorista, mayorista
-
-y/o de consumo propio, de
-
-Combustibles, líquidos y
-
-Gaseosos, Venta de 1 cada 150 m2 útiles
-
-Maquinarias. (1) construidos.
-
-Mínimo 3 estacionamientos
-
-Servicios Públicos y
-
-Profesionales (1)
-
-Oficinas o Agrupaciones de 1 cada 75 m2 útiles
-
-Oficinas de más de 500 m2 construidos, más 15 % para
-
-edificados. visitas.
-
-Mínimo 3 estacionamientos
-
-Oficinas o Agrupaciones 1 cada 50 m2 útiles
-
-de Oficinas de 200 a 500 construidos, más 15 % para
-
-m2 edificados. visitas.
-
-Mínimo 3 estacionamientos
-
-Talleres
-
-Talleres inofensivos de
-
-más de 500 m2 edificados 1 cada 50 m2 útiles
-
-(1) construidos.
-
-Mínimo 3 estacionamientos
-
-Talleres inofensivos de
-
-menos de 500 m2 edificados 1 cada 75 m2 útiles
-
-construidos.
-
-Mínimo 1 estacionamiento
-
-Talleres de reparación de
-
-vehículos y garajes,
-
-además del espacio de 1 cada 50 m2 útiles
-
-trabajo. construidos.
-
-Mínimo 3 estacionamientos
-
-Industria y Almacenamiento
-
-(1)
-
-Industria, almacenamiento 1 cada 200 m2 útiles
-
-de más de 200 m2. construidos.
-
-Mínimo 3 estacionamientos
-
-Vialidad y Transporte
-
-Terminal FF.CC 10 cada andén
-
-Terminal rodoviario 3 cada andén
-
-Terminal Agropecuario y/o
-
-pesquero (2) 2 por cada local.
-
-(1) Adicionalmente se consultará estacionamientos de
-
-buses, camiones u otros similares, de una
-
-longitud mínima de 10,50 metros, según los
-
-siguientes tramos de superficie útil construida
-
-en el proyecto:
-
-Hasta 1.000 m2 1 Estacionamiento de 30 m2
-
-De 1.000 a 3.000 m2 2 Estacionamientos de 30 m2
-
-cada uno.
-
-De 3.000 a 6.000 m2 3 Estacionamientos de 30 m2
-
-cada uno.
-
-De 6.000 a 12.000 m2 4 Estacionamientos de 30 m2
-
-cada uno.
-
-Más de 12.000 m2 5 Estacionamientos de 30 m2
-
-cada uno
-
-(2) Adicionalmente los Terminales de distribución
-
-agropecuaria y/o pesquero deberán consultar un
-
-estacionamiento de 30 m2 para camiones y similares,
-
-por cada 200 m2 edificados o 500 m2 de recinto.
+2) Adicionalmente los terminales de distribución agropecuaria y/o pesquero deberán consultar un estacionamiento de 30 m2 para camiones y similares, por cada 200 m2 edificados o 500 m2 de recinto.
 
 h. Todo establecimiento que requiera de abastecimiento de mercancías, carga o descarga de materias primas, productos elaborados, movimiento de buses o camiones, combustibles, etc., deberá contar dentro del predio con un espacio específicamente dedicado a este objetivo. En especial esta disposición se refiere a establecimientos definidos como "actividades productivas" de acuerdo al artículo 8 de la presente Ordenanza.
 
@@ -887,6 +615,8 @@ distribución con superficie edificada menor a
 200 m2.
 
 ñ. Los estándares contemplados en el presente artículo no serán exigencia para los proyectos que se emplacen en la zona CC.
+
+O. Las edificaciones cuyo destino sea residencial, emplazadas en las zonas C1a, C2, C4, C1Bc, E4a, E4b, E4c y C1B, acogidas a la Ley de Copropiedad Inmobiliaria, podrán disminuir un 30% la dotación de estacionamientos exigida.
 
 Los Proyectos que se construyan, como obra nueva o cambio de destino en el área definida en el Artículo 7.1 de la presente modificación, deberán cumplir, en el mismo predio que genera la obligación, o en otros, de acuerdo a lo establecido en la Ordenanza General de Urbanismo y Construcciones, con la dotación mínima de estacionamiento que se señalan en el cuadro siguiente:
 
@@ -1134,7 +864,7 @@ prevista en el
 
 de la O.G.U.C.)
 
-Los recintos en los cuales se generen ruidos molestos, deberán tener aislación acústica de acuerdo a lo indicado en el Título IV, Capítulo 1 de la O.G.U.C., debiendo además contemplar un hall de acceso cerrado, que permita la acumulación de personas al salir y al entrar. Este recinto no podrá ser de una dimensión inferior al 20 % del recinto principal.
+Los recintos en los cuales se generen ruidos molestos, deberán tener aislación acústica de acuerdo a lo indicado en el Título IV, Capítulo 1 de la O.G.U.C., debiendo además contemplar un hall de acceso cerrado, que permita la acumulación de personas al salir y al entrar. Este recinto no podrá ser de una dimensión inferior al 20% del recinto principal.
 
 Las dependencias destinadas a oficinas y sus servicios podrán adosarse de acuerdo a las disposiciones de la O.G.U.C.
 
@@ -1229,6 +959,8 @@ La iluminación pública debe cumplir la norma de emisión para la regulación d
 Edificación de predios existentes.
 
 En el área consolidada de la ciudad en que existan predios que no cumplen con las superficies mínimas y frentes prediales mínimos establecidos en esta Ordenanza, los proyectos de construcción, reconstrucción, reparación, alteración y ampliación que se presenten para estos predios deberán aprobarse, dándose cumplimiento a las demás normas que se establecen en ella.
+
+Los proyectos que se acojan a la Ley de Copropiedad Inmobiliaria podrán disminuir hasta un 30% la exigencia de superficie predial mínima.
 
 Los proyectos de construcción, reconstrucción, reparación, alteración y ampliación, que se emplacen en predios existentes dentro del área definida en el Artículo 7.1 de la presente modificación, que no cumplan con la superficie predial mínima establecida en la presente Ordenanza, serán aprobados dando cumplimiento a las demás normas que se establecen en ella.
 
@@ -3974,17 +3706,25 @@ VER DIARIO OFICIAL DE 17.07.2002, PAGINA 17
 
 Notas:
 
-a. 75% para los proyectos que no incluya plazoletas, pasajes o galerías comerciales públicas.
+a. 0,975 para los proyectos que no incluya plazoletas, pasajes o galerías comerciales públicas.
 
-100 % para los primeros 6 pisos si el predio o proyecto de edificación incluye una plazoleta, pasaje o galería comercial públicos, abiertos o cerrados, que enfrenten o continúen a otra plazoleta, pasaje o galería comercial abiertos o cerrados existentes.
+1,00 para los primeros 7 pisos si el predio o proyecto de edificación incluye una plazoleta, pasaje o galería comercial públicos, abiertos o cerrados, que enfrenten o continúen a otra plazoleta, pasaje o galería comercial abiertos o cerrados existentes.
 
-b. Sobre la altura de 6 pisos o 16 metros se podrá levantar un piso suplementario recto y retirado 4 metros de la fachada principal, con una altura máxima de 4 metros, manteniendo la continuidad en los deslindes.
+a'. A los proyectos emplazados, en la manzana definida entre las calles Bolívar, Balmaceda, Washington y Sucre, se les aplica la siguiente normativa:
 
-c. 75% en edificios hasta 2 pisos. 65% en edificios hasta 5 pisos. 50% en edificios sobre 5 pisos.
+0,75 para los proyectos que no incluyan plazoletas, pasajes o galerías comerciales públicas. 1,00 para los primeros 6 pisos si el predio o proyecto de edificación incluye una plazoleta, pasaje o galería comercial públicos, abiertos o cerrados, que enfrenten o continúen a otra plazoleta, pasaje o galería comercial abiertos o cerrados existentes.
+
+b. Sobre la altura de 7 pisos o 19,2 metros se podrá levantar un piso suplementario recto y retirado 4 metros de la fachada principal, con una altura máxima de 4 metros, manteniendo la continuidad en los deslindes.
+
+b'. A los proyectos emplazados en la manzana definida entre las calles Bolívar, Balmaceda, Washington y Sucre, se les aplica la siguiente normativa:
+
+Sobre la altura de 6 pisos o 16 metros se podrá levantar un piso suplementario recto y retirado 4 metros de la fachada principal, con una altura máxima de 4 metros, manteniendo la continuidad en los deslindes.
+
+c. 0,975 en edificios hasta 2 piso. 0,845 en edificios hasta 5 pisos. 0,65 en edificios sobre 5 pisos.
 
 d. Según O.G.U.C. y 4 metros sobre la edificación continua en todos sus deslindes interiores.
 
-e. La altura máxima de edificación continua será de 10,5 metros en 4 pisos. Sobre esta altura se permitirá la edificación aislada, la que se regirá, conforme a rasantes y distanciamientos normados en el artículo Nº2.6.3., correspondiente al Capítulo 5º de la O.G.U.C.
+e. La altura máxima de edificación continua será de 12,6 metros en 5 pisos. Sobre esta altura se permitirá la edificación aislada, la que se regirá, conforme a rasantes y distanciamientos normados en el artículo Nº2.6.3., correspondiente al Capítulo 5º de la O.G.U.C.
 
 f. La profundidad máxima de la faja construida en edificación continua o pareada será del 65% del deslinde común para uso de equipamiento y de 75% del deslinde común para usos residencial.
 
@@ -3998,7 +3738,9 @@ También se refiere a aquellos terrenos que estando en la zona E4 no están afec
 
 j. 65% en edificios de hasta dos pisos y 50% en edificios sobre dos pisos.
 
-El artículo Nº 2, artículo 6, del Decreto 816 Exento, M. de Antofagasta, publicada el 14.07.2012, modifica la presente norma en el sentido de eliminar la zona U4
+k. En los predios ubicados en las zonas CC, C1a, C1b, C1c, C1d, C2, C3, C4, C5, C6, C7, C7a, C8, E4b, E4c, C1Bc se podrá aumentar el coeficiente de ocupación de suelo a 1,00, para el uso de equipamiento de clase comercio.
+
+L. El coeficiente de ocupación de suelo prima por sobre las disposiciones de continuidad y pareo.
 
 #### Artículo 55
 
@@ -4366,7 +4108,7 @@ USOS DEL SUELO NO PERMITIDOS Todos los no indicados.
 
 CONDICIONES DE EDIFICACION:
 
-ZONA C1Bb, C1Bc y C1Bd: VIVIENDA Y EQUIPAMIENTO
+ZONA C1Bb y C1Bd: VIVIENDA Y EQUIPAMIENTO
 
 a) Altura Máxima = 20 pisos, 61 metros, (3 metros
 
@@ -4432,17 +4174,7 @@ Mínimo = 20 mts.
 
 h) Adosamiento y Pareo = No tiene.
 
-i) Antejardín Mínimo = 5 metros en edificios hasta
-
-5 pisos.
-
-7 metros en edificios hasta
-
-14 pisos
-
-10 metros en edificios sobre
-
-14 pisos.
+i) Antejardín Mínimo = libre según artículo 10 de presente ordenanza.
 
 j) Distanciamiento
 
@@ -4452,7 +4184,9 @@ deslindes interiores.
 
 k) Agrupamiento = Aislado
 
-En los proyectos o anteproyectos a ser desarrollados en la ZUDC 01 las instalaciones eléctricas y de telecomunicaciones deberán ser subterráneas. TABLA DE VIALIDAD ZONA URBANIZABLE DE DESARROLLO CONDICIONADO ZUDC-01
+En los proyectos o anteproyectos a ser desarrollados en la ZUDC 01 las instalaciones eléctricas y de telecomunicaciones deberán ser subterráneas.
+
+TABLA DE VIALIDAD ZONA URBANIZABLE DE DESARROLLO CONDICIONADO ZUDC-01
 
 CALLE ANCHO ENTRE L.O. REFERENCIA DISTANCIA MTS
 
@@ -4674,17 +4408,7 @@ Mínimo = 20 mts.
 
 h) Continuidad y Pareo = No tiene.
 
-i) Antejardín Mínimo = 5 metros en edificios hasta
-
-5 pisos.
-
-7 metros en edificios hasta
-
-14 pisos
-
-10 metros en edificios sobre
-
-14 pisos.
+i) Antejardín Mínimo = 5.
 
 j) Distanciamiento
 
@@ -4698,9 +4422,7 @@ ZONA C2a
 
 Aplicable al polígono correspondiente a los terrenos del Patio Ferroviario Norte y Sur de Fcab, ubicados en la zona poniente del área ferroviaria, comprendido entre las calles: Av. Costanera Pérez Zújovic, Bellavista, Paraguay, Tarapacá, prolongación de Quito, Yarur Lolas, Río de Janeiro, Iquique, Zenteno, Patria Vieja, E. Ramirez y Av. Costanera Pérez Zújovic.
 
-La zona contempla las siguientes condiciones
-
-normativas:
+La zona contempla las siguientes condiciones normativas:
 
 USOS DE SUELO PERMITIDOS
 
@@ -5194,11 +4916,9 @@ Aplicable al polígono correspondiente a los terrenos del Patio Ferroviario Nort
 
 Los proyectos o anteproyectos a ser desarrollados en la ZUDC 02 y 03 deberán presentar además para obtener los permisos correspondientes, un estudio de impacto urbano (EIU) informado favorablemente por la Dirección de Obras, el cual deberá contar como mínimo con los antecedentes definidos en la tabla N°1 siguiente:
 
-TABLA N°1 CONTENIDOS MINIMOS DEL EIU PARA
+TABLA N°1 CONTENIDOS MINIMOS DEL EIU PARA ZUDC 01, 02 Y 03
 
-ZUDC 01, 02 Y 03
-
-VER DIARIO OFICIAL DE 17.07.2002, PAGINA 21
+VER DIARIO OFICIAL DE 17.07.2002, PAGINA 21.-
 
 ZUDC 04
 
@@ -5228,9 +4948,7 @@ Los proyectos o anteproyectos a ser desarrollados en las ZUDC 04, 05, 06, 07, 08
 
 El Estudio de Impacto Urbano de las ZUDC indicadas precedentemente deberá contar como mínimo con los antecedentes indicados en la Tabla N°2 siguiente:
 
-TABLA N°2 CONTENIDOS MINIMOS DEL EIU PARA
-
-ZUDC 04, 05 Y 06, 07, 08 y 09
+TABLA N°2 CONTENIDOS MINIMOS DEL EIU PARA ZUDC 04, 05 Y 06, 07, 08 y 09
 
 VER DIARIO OFICIAL DE 17.07.2002, PAGINA 22
 
@@ -5632,7 +5350,7 @@ Usos de suelos prohibidos: aquellos señalados en el artículo 21 de la presente
 
 ÁREA ARN-Q Área de Riesgo ZONA inundable o potencialmente inundable por quebrada
 
-Se reconocen en estas a las zonas inundables o potencialmente inundables, contiguas a las quebradas que constituyen los cauces de flujo de escorrentías natural de terrenos, definiéndola como zona propensa a aluviones en el sector embudo superior comprendida desde limite urbano superior hasta el límite de la futura Circunvalación
+Se reconocen en estas a las zonas inundables o potencialmente inundables, contiguas a las quebradas que constituyen los cauces de flujo de escorrentías natural de terrenos, definiéndola como zona propensa a aluviones en el sector embudo superior comprendida desde limite urbano superior hasta el límite de la futura Circunvalación.
 
 La franja de restricción corresponde a lo indicado en cuadro anterior que será medido desde el inicio del cauce embudo superior hasta la medida señalada en franjas adyacentes y paralelas a cada uno de sus bordes y que se encuentran graficadas en el plano MPRCA-N02.
 
@@ -5774,8 +5492,6 @@ complementarias.
 
 Usos de suelos prohibidos: aquellos señalados en el artículo 21 de la presente Ordenanza y, además, los destinos contemplados en los tipos que se indican a continuación:
 
-.
-
 ## Capítulo VIII
 
 VIALIDAD URBANA
@@ -5793,8 +5509,6 @@ Los perfiles geométricos viales, así como el ancho de sus calzadas, el diseño
 La vialidad estructurante del Plan Regulador de Antofagasta, se identifica y se define en sus tramos y anchos entre líneas oficiales, de acuerdo al siguiente cuadro:
 
 VER DIARIO OFICIAL DE 17.07.2002, PAGINAS 22 A 27
-
-El articulo Nº 2 artículo 9 del Decreto 816, M. de Antofagasta, publicada el 14.07.2012, modifica el presente artículo en el sentido de agregar las tablas identificadas como: N°01- N°02 - N°03- N°04 –N°05 y N°06 de la Red Vial Urbana Estructurante aplicable en el área definida en el Artículo 7.1 de la presente modificación, y graficada según plano MPRCA-N10VIALIDAD
 
 #### Artículo 58
 
@@ -6018,11 +5732,7 @@ USOS NO PERMITIDOS
 
 Todos lo no indicados.
 
-Deberá respetarse, no obstante, para las zonas de riesgo
-
-por inundación, lo establecido en el capítulo VI de la
-
-presente Ordenanza.
+Deberá respetarse, no obstante, para las zonas de riesgo por inundación, lo establecido en el capítulo VI de la presente Ordenanza.
 
 Todos los predios que colinden directamente con la Avenida Costanera en su costado oriente, entre el límite de la zona U2 y calle Subida del Desierto, y entre calle Subida del Sur y Calle Custodio Leiva (excepción hecha de las zonas especiales), se asimilarán en cuanto a sus condiciones de edificación a la siguiente tabla:
 
@@ -6132,9 +5842,7 @@ Para el caso de la Ruta 1, se establece una franja total de 110 metros de ancho,
 
 Ancho entre Líneas Oficiales.
 
-El ancho entre líneas oficiales de aquellas avenidas, calles, pasajes y sendas peatonales que no se encuentren descritas en el artículo 9de la presente ordenanza, se determinarán de acuerdo a los respectivos planos de Loteo y/o Planos Seccionales.
-
-.
+El ancho entre líneas oficiales de aquellas avenidas, calles, pasajes y sendas peatonales que no se encuentren descritas en el artículo 9 de la presente ordenanza, se determinarán de acuerdo a los respectivos planos de Loteo y/o Planos Seccionales.
 
 ## Capítulo IX
 
@@ -6186,15 +5894,17 @@ Los Sistemas Aluviales Urbanos son:
 
 14.- Quebrada El Huáscar.
 
-1.- QUEBRADA BONILLA (NORTE Y SUR) EMBUDO SUPERIOR. Definido por una franja de reserva o
+1.- QUEBRADA BONILLA (NORTE Y SUR)
 
-servidumbre de 50.00 mts. de ancho aplicada a ambos lados del eje de cauce natural de la quebrada, cuyas características se especifican en el proyecto de Ingeniería aprobado por el Ministerio de Vivienda y Urbanismo y graficados en los planos General y Específico del Seccional.
+EMBUDO SUPERIOR. Definido por una franja de reserva o servidumbre de 50.00 mts. de ancho aplicada a ambos lados del eje de cauce natural de la quebrada, cuyas características se especifican en el proyecto de Ingeniería aprobado por el Ministerio de Vivienda y Urbanismo y graficados en los planos General y Específico del Seccional.
 
 AVENIDA ALUVIAL. Definida por calle Nicolás Tirado desde la intersección con Avda. Oscar Bonilla por el Oriente, hasta Avenida Costanera por el Poniente, en la totalidad de su ancho entre líneas de edificación e incluyendo los cruces con vías transversales que se indican en el proyecto de ingeniería en una extensión de 50.00 mts. aproximadamente, a ambos lados de dichos cruces; calle Los Pimientos, entre Avenida Pedro Aguirre Cerda y Avenida Costanera en la totalidad de su ancho entre líneas de edificación e incluyendo los cruces que indica el proyecto de ingeniería respectivo, en una extensión de 50.00 mts. aproximadamente en los costados que se indican; Avenida Costanera entre calle Los Pimientos y calle Nicolás Tirado en la totalidad de su ancho y sus prolongaciones al Norte y al Sur en una Longitud de 50 mts. aproximadamente.
 
 DESEMBOCADURA. Definida en la prolongación del eje de calle Nicolás Tirado entre Avenida Costanera Norte y el mar, y, de acuerdo al proyecto de Ingeniería correspondiente.
 
-2.- QUEBRADA FARELLONES EMBUDO SUPERIOR. Definido por una franja de reserva o servidumbre de 50.00 mts. de ancho a ambos lados del eje del cauce natural de la quebrada, hasta la Avenida Circunvalación Norte y en una longitud definida en el proyecto de Ingeniería respectivo.
+2.- QUEBRADA FARELLONES
+
+EMBUDO SUPERIOR. Definido por una franja de reserva o servidumbre de 50.00 mts. de ancho a ambos lados del eje del cauce natural de la quebrada, hasta la Avenida Circunvalación Norte y en una longitud definida en el proyecto de Ingeniería respectivo.
 
 AVENIDA ALUVIAL. Definida por calle Puerto Natales desde Avenida Circunvalación Norte hasta calle Paihuano, en la totalidad de su ancho entre líneas de edificación e incluyendo todos los cruces con vías transversales; y por calle Paihuano entre calle Puerto Natales y Avenida Costanera Norte, en la totalidad de su ancho entre líneas de edificación e incluyendo todos los cruces con vías transversales que indica el proyecto de ingeniería, en una extensión de 50.00 mts. a ambos lados de los cruces; Avenida Costanera Norte desde calle Paihuano en una extensión de 600.00 mts. al Sur, en el ancho de la calzada poniente, según indica el proyecto de Ingeniería respectivo.
 
@@ -6302,7 +6012,9 @@ AVENIDA ALUVIAL: Definida por los tramos de calle Uribe entre las Avenidas Circu
 
 DESEMBOCADURA: Definida por un sistema de desagües ubicados a lo largo de calle Balmaceda y Avenida Grecia, en los puntos determinados por el respectivo Proyecto de Ingeniería.
 
-9.- QUEBRADA EL TORO EMBUDO SUPERIOR: Definido por una franja de reserva o servidumbre de 70.00 mts. de ancho aplicada a ambos lados del eje del cauce proyectado para la Quebrada El Toro, cuyas características se especifican en el Proyecto de Ingeniería aprobado por el Ministerio de Vivienda y Urbanismo y graficado en los planos General y Específico del Seccional.- Este sistema incluye un tramo de calle Bulnes, de 30.00 m. de longitud medidos al poniente de la intersección con calle Patricio Lynch, y 50.00 m. de esta última vía, medidos a ambos lados del eje de la Quebrada. AVENIDA ALUVIAL: Definida por las calles Bulnes, General Borgoño, Pistelli y Talca, en toda su extensión, desde la desembocadura del sistema antes mencionado, hasta Avenida Grecia, y con el ancho establecido por las actuales líneas edificación, excepto en el costado nor-oriente de la intersección de calle Borgoño con Avenida Angamos, en donde se consulta una expropiación. La Avenida aluvial incluye tramos de todas las calles Manuel Rodríguez, Avenida Argentina Eduardo Orchard, Galleguillos Lorca, Pasaje Niebla, Avenida Angamos y Avenida Grecia, y vías que intersectan las calles Borgoño y Talca en una longitud de 50.00 m. a ambos lados de las respectivas intersecciones, todo de conformidad al respectivo Proyecto de Ingeniería.
+9.- QUEBRADA EL TORO
+
+EMBUDO SUPERIOR: Definido por una franja de reserva o servidumbre de 70.00 mts. de ancho aplicada a ambos lados del eje del cauce proyectado para la Quebrada El Toro, cuyas características se especifican en el Proyecto de Ingeniería aprobado por el Ministerio de Vivienda y Urbanismo y graficado en los planos General y Específico del Seccional.- Este sistema incluye un tramo de calle Bulnes, de 30.00 m. de longitud medidos al poniente de la intersección con calle Patricio Lynch, y 50.00 m. de esta última vía, medidos a ambos lados del eje de la Quebrada. AVENIDA ALUVIAL: Definida por las calles Bulnes, General Borgoño, Pistelli y Talca, en toda su extensión, desde la desembocadura del sistema antes mencionado, hasta Avenida Grecia, y con el ancho establecido por las actuales líneas edificación, excepto en el costado nor-oriente de la intersección de calle Borgoño con Avenida Angamos, en donde se consulta una expropiación. La Avenida aluvial incluye tramos de todas las calles Manuel Rodríguez, Avenida Argentina Eduardo Orchard, Galleguillos Lorca, Pasaje Niebla, Avenida Angamos y Avenida Grecia, y vías que intersectan las calles Borgoño y Talca en una longitud de 50.00 m. a ambos lados de las respectivas intersecciones, todo de conformidad al respectivo Proyecto de Ingeniería.
 
 DESEMBOCADURA: Definida por un sistema de desagües ubicados a lo largo de Avenida Grecia y el paseo del Mar, en los puntos determinados por el respectivo Proyecto de Ingeniería.
 
@@ -6340,72 +6052,46 @@ EMBUDO SUPERIOR: Definido por una franja de reserva o servidumbre de 50.00 m. de
 
 AVENIDA ALUVIAL: Definido por Avenida Circunvalación Norberto Escobar desde la intersección con la boca del embudo de la Quebrada El Huáscar, hasta la intersección con el camino a Coloso, incluyendo el ancho de esta última vía en una extensión de 100.00 m. El ancho de la Avenida es el comprendido entre las líneas oficiales de edificación.
 
-DESEMBOCADURA: Definida en la prolongación del eje de la calle Norberto Escobar entre camino a Coloso y el mar, de acuerdo al Proyecto de Ingeniería correspondiente. APROBACIÓN ILUSTRE MUNICIPALIDAD DE ANTOFAGASTA
+DESEMBOCADURA: Definida en la prolongación del eje de la calle Norberto Escobar entre camino a Coloso y el mar, de acuerdo al Proyecto de Ingeniería correspondiente.
 
-APROBADO POR ACUERDO DEL CONCEJO MUNICIPAL N°___________
+APROBACIÓN ILUSTRE MUNICIPALIDAD DE ANTOFAGASTA APROBADO POR ACUERDO DEL CONCEJO MUNICIPAL N°___________ DE FECHA___________Y SANCIONADO POR DECRETO ALCALDICIO N°________ DE FECHA _____________
 
-DE FECHA___________Y SANCIONADO POR DECRETO ALCALDICIO
+Pedro Araya Ortiz, Alcalde Comuna de Antofagasta.- Rafael Garbarini Cifuentes, Abogado, Secretario Municipal Ministro de Fe.- Juan Gálvez Barnechea, Director de Obras Municipales.- Roberto Rivera Romero, Asesor Urbanista.
 
-N°________ DE FECHA _____________
+APROBACIÓN SEREMI DE VIVIENDA Y URBANISMO II REGIÓN APROBADO POR RESOLUCIÓN N°____________ DE FECHA_____________DE LA SEREMI DE VIVIENDA Y URBANISMO
 
-Pedro Araya Ortiz, Alcalde Comuna de Antofagasta.-
+Dina Tarraza Lovazzano, Secretario Regional Ministerial.- Gonzalo Godoy Barrientos, Jefe Depto. Desarrollo Urbano.- Marcia Ramos Robles, Abogado, Ministro de Fe.
 
-Rafael Garbarini Cifuentes, Abogado, Secretario Municipal
-
-Ministro de Fe.- Juan Gálvez Barnechea, Director de Obras
-
-Municipales.- Roberto Rivera Romero, Asesor Urbanista.
-
-APROBACIÓN SEREMI DE VIVIENDA Y URBANISMO II REGIÓN
-
-APROBADO POR RESOLUCIÓN N°____________ DE FECHA
-
-_____________DE LA SEREMI DE VIVIENDA Y URBANISMO
-
-Dina Tarraza Lovazzano, Secretario Regional
-
-Ministerial.- Gonzalo Godoy Barrientos, Jefe Depto.
-
-Desarrollo Urbano.- Marcia Ramos Robles, Abogado,
-
-Ministro de Fe.
-
-APROBACIÓN GOBIERNO REGIONAL II REGIÓN ANTOFAGASTA
-
-APROBADO POR ACUERDO DEL CONSEJO REGIONAL N°____________
-
-Y SANCIONADO POR RESOLUCIÓN N°______________ DE FECHA
+APROBACIÓN GOBIERNO REGIONAL II REGIÓN ANTOFAGASTA APROBADO POR ACUERDO DEL CONSEJO REGIONAL N°____________ Y SANCIONADO POR RESOLUCIÓN N°______________ DE FECHA
 
 ___________
 
-Alfonso Dulanto Rencoret, Intendente II Región.-
+Alfonso Dulanto Rencoret, Intendente II Región.- Hernán Peralta Cortés, Abogado, Secretario Ejecutivo Consejo Regional, Ministro de Fe.
 
-Hernán Peralta Cortés, Abogado, Secretario Ejecutivo
-
-Consejo Regional, Ministro de Fe.
-
-APROBACIÓN GOBIERNO REGIONAL II REGIÓN ANTOFAGASTA
-
-APROBADO POR ACUERDO DEL CONSEJO REGIONAL N°____________
-
-Y SANCIONADO POR RESOLUCIÓN N°______________ DE FECHA
+APROBACIÓN GOBIERNO REGIONAL II REGIÓN ANTOFAGASTA APROBADO POR ACUERDO DEL CONSEJO REGIONAL N°____________Y SANCIONADO POR RESOLUCIÓN N°______________ DE FECHA
 
 ___________
 
-Jorge Molina Cárcamo, Intendente II Región.- Hernán
-
-Peralta Cortés, Abogado, Asesor Jurídico Consejo
-
-Regional, Ministro de Fe.
+Jorge Molina Cárcamo, Intendente II Región.- Hernán Peralta Cortés, Abogado, Asesor Jurídico Consejo Regional, Ministro de Fe.
 
 FIRMA ARQUITECTO DIRECTOR DEL ESTUDIO
 
-Oscar Morales Nilo, Arquitecto, Secretario Comunal
-
-de Planificación.- Joel Becerra Fuentes, Arquitecto UCN,
-
-Jefe Departamento de Desarrollo Urbano Secoplan.
+Oscar Morales Nilo, Arquitecto, Secretario Comunal de Planificación.- Joel Becerra Fuentes, Arquitecto UCN, Jefe Departamento de Desarrollo Urbano Secoplan.
 
 "ANTOFAGASTA, EN LA RUTA DEL BICENTENARIO"
 
 > **Nota.** El Artículo 4 del Decreto 236 Exento, Municipalidad de Antofagasta, el presente Artículo 48 de la manera en que la citada norma indica.
+
+> **Nota.** NOTA 1 El artículo Nº 2, artículo 6, del Decreto 816 Exento, M. de Antofagasta, publicada el 14.07.2012, modifica el artículo 54 de la presente norma en el sentido de eliminar la zona U4.
+
+> **Nota.** NOTA 2 La letra i) del N° 1 del Decreto 145, M. de Antofagasta, publicado el 09.02.2016, modifica el artículo 54 de la presente norma, de acuerdo a las especificaciones técnicas que el citado decreto indica.
+
+> **Nota.** NOTA 3 El articulo Nº 2 artículo 9 del Decreto 816, M. de Antofagasta, publicada el 14.07.2012, modifica el presente artículo en el sentido de agregar las tablas identificadas como: N°01- N°02 - N°03- N°04 –N°05 y N°06 de la Red Vial Urbana Estructurante aplicable en el área definida en el Artículo 7.1 de la presente modificación, y graficada según plano MPRCA-N10VIALIDAD
+
+> **Nota.** NOTA 4 La letra k) del N° 1 del Decreto 145, M. de Antofagasta, publicado el 09.02.2016, modifica el artículo 55 de la presente norma, en las condiciones normativas para las zonas definidas en el Artículo 8 en la modificación del Plan regulador comunal sector norte de Antofagasta, de acuerdo a las especificaciones técnicas que el citado decreto indica.
+
+> **Nota.** NOTA 5 La letra l) del N° 1 del Decreto 145, M. de Antofagasta, publicado el 09.02.2016, modifica el artículo 20, Capítulo IV Zonificación, uso del suelo y normas específicas, del seccional La Chimba de Antofagasta, graficado en el plano PSCH-01, de acuerdo se especifica en la citada norma, pero que no es posible construir su texto por cuanto no se encuentra incorporado en la presente ordenanza.
+
+> **Nota.** NOTA 6 La letra m) del N° 1 del Decreto 145, M. de Antofagasta, publicado el 09.02.2016, modifica la presente norma en el sentido de agregar un nuevo artículo 56, pasando los actuales artículos 56, 57,58,59,60,61,62 y 63 a ser los artículos 57,58,59,60,61,62,63 y 64 respectivamente. Sin embargo, no es posible incorporar el texto del nuevo artículo 56, por cuanto la numeración no es correlativa.
+
+> **Nota.** NOTA 7 La letra n) del N° 1 del Decreto 145, M. de Antofagasta, publicado el 09.02.2016, modifica el artículo 62 de la presente norma(actual 63), en el sentido que la propia norma indica.
