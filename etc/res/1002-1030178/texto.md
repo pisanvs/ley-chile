@@ -188,6 +188,8 @@ d) Ordenar la instrucción de sumarios administrativos o investigaciones sumaria
 
 e) Tramitar las licencias médicas y efectuar las denuncias por accidentes en actos de servicio.
 
+f) Asignar y recibir las viviendas fiscales ubicadas en la respectiva región, debiendo informar acerca de las decisiones que se adopten de manera inmediata a la Secretaría General.
+
 Las solicitudes mediante las cuales se ejerzan los demás derechos estatutarios distintos de los indicados en el inciso precedente, deberán ser presentadas al Contralor Regional, quien las remitirá debidamente informadas al Contralor General.
 
 #### Artículo 17
