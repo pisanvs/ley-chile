@@ -1,0 +1,19 @@
+ESCRITURA DE CONSTITUCIÓN PARTIDO POLÍTICO EN FORMACIÓN ANDHA CHILE DEMOCRÁTICO
+
+Por resolución O-Nº 28, de fecha 2 de febrero de 2016, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la ley Nº 18.603.
+
+Por escritura pública de fecha 26 de enero de 2016, ante doña Myriam Amigo Arancibia, abogado, Notario Público de la Vigésimo Primera Notaría de Santiago, se constituyó como partido político la entidad denominada "Andha Chile Democrático". Su lema es "Andha por un Chile para todos". Su sigla es "Andha". No presenta símbolo.
+
+Declaración de Principios: Andha Chile Democrático, nació para impulsar y hacer posible una transformación social para el pueblo de Chile. Actualmente los grandes grupos económicos nacionales y extranjeros concentran todo el poder en la sociedad chilena. Eso les permite controlar la economía, el gobierno, los medios de comunicación y la política en general, además de explotar y saquear la naturaleza prácticamente sin ninguna limitación. El pueblo pobre, a través de su trabajo, es el creador de esa riqueza; somos millones los y las que construimos y movemos el país. Pero, sin embargo, somos esos mismos millones los y las que estamos excluidos de sus beneficios y su control. Somos una organización política de personas comunes y corrientes, que está integrada por el conjunto de la sociedad, por olvidados y olvidadas, humillados y humilladas, maestros y maestras, estudiantes, pobladores y pobladoras, mestizos y mestizas, indígenas, niños y niñas, ancianos y ancianas, trabajadores y trabajadoras, cesantes, los y las sin dientes, estafados y estafadas por la vivienda, la salud, la educación, los y las que fuimos expropiados por la fuerza de nuestra tierra. No seremos parte ni apoyaremos a ninguno de los bloques políticos actualmente existentes que están manejados por los empresarios nacionales y extranjeros; tampoco crearemos alianzas ni pactos de ningún tipo con los que sean aliados de los partidos de los ricos. La única unidad que nos interesa es la del pueblo movilizado por sus derechos.
+
+Promovemos la más amplia participación de nuestros afiliados y nuestras afiliadas en las decisiones políticas del partido. Éstas serán resueltas por el conjunto del partido y sus asambleas y comités de manera horizontal, democrática y radicalmente participativa y siempre de acuerdo a los Estatutos que el conjunto del partido colectivamente apruebe. Dadas las garantías de participación ofrecidas por la organización, no se permitirá las malas prácticas que atenten contra el proyecto de transformación social. Nuestro partido será la organización de todo el pueblo pobre chileno y, por lo tanto, nuestras asambleas y comités estarán siempre dispuestas a recibir a todo luchador y toda luchadora social que quiera trabajar para alcanzar y hacer posible la sociedad del buen vivir.
+
+La Directiva Central provisional estará compuesta por las siguientes personas: Presidente: Nora Isabel Becerra Otárola; Secretario General: Anita María José Sequeida Caro y Tesorero: Valeria Yanira Videla Pereira.
+
+El Tribunal Supremo provisional estará integrado por las siguientes personas: Presidente: Evelyn del Carmen Caroca López; Vicepresidente: Félix Antonio Marinao Flores y Secretario: Claudio Enrique Cisternas Morales.
+
+En caso de ser necesario subrogación o reemplazo por las vacantes que se produjeren por fallecimiento, renuncia, o imposibilidad, definitiva o transitoria de algún miembro de la Directiva Central o del Tribunal Supremo provisionales, éstas serán llenadas por el respectivo organismo, eligiendo al reemplazante de entre la nómina de comparecientes a la escritura de constitución, en sesión especialmente citada al efecto.
+
+El domicilio común es Pasaje Isla Evont número ocho mil setecientos treinta y ocho, comuna de Pudahuel, Santiago.-
+
+Elizabeth Cabrera Burgos, Directora (S).
