@@ -26,6 +26,8 @@ Resuelvo:
 
 1º Prohíbese la circulación de camiones cuyo peso bruto vehicular sea superior a 3.500 Kg. en la Ruta C-46, que une Vallenar y Huasco, en horarios de 07:00 a 08:30 horas y de 18:00 a 20:00 horas, excepto cuando la Dirección de Vialidad requiera ampliar, mejorar o mantener la vía, debiendo para tal efecto analizar un nuevo plan de circulación vehicular.
 
+Se exceptúan además de la restricción anterior, los vehículos de carga utilizados por la Ilustre Municipalidad de la comuna de Huasco para el traslado de desechos sanitarios desde y hacia el Sistema de Relleno Sanitario de la Provincia del Huasco, ubicado en la comuna de Vallenar. Para acreditar tal circunstancia, la Municipalidad referida entregará una identificación y/o acreditación al vehículo, que permita a la autoridad fiscalizadora, constatar en terreno que el vehículo se encuentra autorizado por el municipio para efectuar dicho servicio.
+
 2º La implementación práctica de esta medida será sometida a evaluaciones técnicas periódicas, a fin de efectuar, si fuere pertinente, las correcciones que eventualmente resulten necesarias.
 
 3º Corresponderá a la Dirección de Vialidad la instalación de la señalización correspondiente.
