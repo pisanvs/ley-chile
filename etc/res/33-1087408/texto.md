@@ -1,0 +1,17 @@
+EXTRACTO ESCRITURA DE CONSTITUCIÓN PARTIDO POLÍTICO EN FORMACIÓN "MOVIMIENTO DE IZQUIERDA REVOLUCIONARIA"
+
+Por resolución O-Nº 33, de fecha 4 de febrero de 2016, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la ley Nº 18.603.
+
+Por escritura pública de fecha 18 de enero de 2016, ante doña Viviana Andrea Viera Soto, Abogado, Notario Suplente del Titular Jorge Andrés Ossa Cuevas, Abogado Notario Público Titular de San Miguel con asiento en La Cisterna, modificada por escritura pública de fecha 28 de enero del mismo año, otorgada ante la misma Notaría, se constituyó como partido político la entidad denominada "Movimiento de Izquierda Revolucionaria". Su lema es "Por una vida digna para todos". Su sigla es "MIR". Su símbolo: una circunferencia dividida horizontalmente a la mitad, cuya parte superior es de color rojo y la parte inferior es de color negro. En el centro de la circunferencia y horizontalmente se lee MIR en color blanco y letras mayúsculas, una estrella de color blanco se ubica sobre la letra "i" sustituyendo el punto.
+
+Declaración de Principios: El Movimiento de Izquierda Revolucionaria constituye la unidad de mujeres y hombres que se comprometen a bregar, consciente y libremente, para realizar las profundas transformaciones económicas, políticas, culturales y sociales que el país requiere, a fin de lograr el desarrollo de las capacidades y cualidades de todos y todas sus habitantes permitiendo con esto el logro de una vida digna para todos. El Movimiento de Izquierda Revolucionaria es un partido revolucionario, porque buscamos de manera permanente el cambio y el desarrollo de la sociedad con una perspectiva de progreso humano en todos los planos de la vida. Ello implica la igualdad de derechos en un marco de justicia social, que garantice la satisfacción plena de las necesidades de sus habitantes, el acceso a los productos del desarrollo social, económico, cultural y científico técnico, que asegure condiciones de dignidad para todos los seres humanos que nazcan o lleguen a nuestro país.
+
+La Directiva Central provisional está integrada por las siguientes personas: Presidente: Demetrio Omar Hernández Mandiola; Secretario General: Rafael Mauricio Henríquez Sotelo y Tesorero: Pablo Francisco Salvador Toro Fuentes.
+
+El Tribunal Supremo provisional estará integrado por las siguientes personas: Presidenta: Fresia Mónica Quilodrán Ramos; Vicepresidente: Pedro Francisco Bustamante Lobos; Secretario: Carlos Santiago Morales Alfaro.
+
+En caso de fallecimiento, renuncia o cualquier otro motivo que inhabilite o imposibilite, transitoria o definitivamente a algún miembro de la Directiva Central provisional o del Tribunal Supremo provisional, antes de la constitución del Consejo General, las vacantes serán llenadas por decisión de la mayoría de los miembros de la Directiva Central provisional, de entre los suscriptores del presente instrumento. Tal norma regirá para el reemplazo o subrogación de los miembros de la Directiva Central provisional o del Tribunal Supremo provisional antes de la inscripción del partido.
+
+El domicilio común es calle Ismael Tocornal número ocho mil setecientos cuarenta y tres, comuna de San Ramón, Región Metropolitana.-
+
+Elizabeth Cabrera Burgos, Directora (S).
