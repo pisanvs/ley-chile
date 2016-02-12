@@ -42,13 +42,17 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Sonora en Frecuencia Modulada.
+- Tipo de servicio : Radiodifusión Sonora en Frecuencia
+
+Modulada.
 
 - Zona de servicio : Localidad de Reigolil, IX Región.
 
-Superficie delimitada por una intensidad de
+Superficie delimitada por una
 
-campo mayor o igual que 54 dB (?V/m), referida
+intensidad de campo mayor o igual
+
+que 54 dB (μV/m), referida
 
 al punto de emisión de la señal.
 
@@ -58,7 +62,9 @@ al punto de emisión de la señal.
 
 - Plazo término de obras : 30 días.
 
-- Plazo inicio de transmisiones : 60 días.
+- Plazo inicio de
+
+transmisiones : 60 días.
 
 - Potencia : 150 W.
 
@@ -76,15 +82,19 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Polarización : Circular.
 
-- Tipo de antenas : Anillos con reflector de esquina.
+- Tipo de antenas : Anillos con reflector
+
+de esquina.
 
 - Nº Antenas : 4.
 
-- Altura del centro de radiación : 25 m.
+- Altura del centro
 
-- Pérdidas en cables, conectores
+de radiación : 25 m.
 
-y otros : 1,4 dB.
+- Pérdidas en cables,
+
+conectores y otros : 1,4 dB.
 
 - Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
 
@@ -92,13 +102,17 @@ y otros : 1,4 dB.
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio, Planta
+- Ubicación del Estudio,
 
-Transmisora y Sistema Radiante : Reigolil, comuna de Curarrehue, IX Región.
+Planta Transmisora y
 
-- Coordenadas Geográficas : 39º 08' 13" Latitud Sur.
+Sistema Radiante : Reigolil, comuna de
 
-71º 30' 05" Longitud Oeste.
+Curarrehue, IX Región.
+
+- Coordenadas Geográficas: 39º 11' 09" Latitud Sur.
+
+71º 28' 36" Longitud Oeste.
 
 Datum WGS84.
 
