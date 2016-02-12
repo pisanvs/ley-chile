@@ -98,11 +98,11 @@ UBICACIÓN DE LAS INSTALACIONES
 
 Curarrehue, IX Región.
 
-- Coordenadas Geográficas: 39º 21' 33" Latitud Sur.
+- Coordenadas Geográficas: 39º 19' 28" Latitud Sur;
 
-71º 35' 10" Longitud Oeste.
+71º 34' 15" Longitud Oeste,
 
-Datum WGS84.
+Datum WGS-84
 
 - Ubicación de la Planta
 
