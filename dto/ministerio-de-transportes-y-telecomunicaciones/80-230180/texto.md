@@ -370,4 +370,16 @@ Lo anterior no se aplica a lo establecido en el artículo 34 precedente, el cual
 
 Las exigencias contenidas en la letra c) del artículo 17º y en la letra a) del inciso segundo del artículo 16º, serán aplicables a contar del 31 de marzo de 2006. La antigüedad máxima establecida en el artículo 17º, cuando se trate de buses, será aplicable a partir del 30 de septiembre de 2006.
 
+#### Artículo 3º
+
+En los casos en que no exista disponibilidad de prestadores de servicios de transporte privado remunerado de pasajeros autorizados, a los servicios de transporte que sean contratados por el Instituto Nacional de Estadísticas con el objeto de transportar al personal que realice labores estadísticas o censales durante los años 2016 y 2017, sólo le serán exigibles las condiciones que a continuación se indican, referidas a los vehículos:
+
+- **a)** Portar un certificado emitido por el Instituto Nacional de Estadísticas que acredité su utilización para los fines antedichos;
+
+- **b)** Llevar una nómina del personal del Instituto Nacional de Estadísticas que es transportado en el vehículo;
+
+- **c)** Portar un letrero rectangular de dimensiones de 36 cm. de largo por 13 cm. de alto, ubicado en el costado inferior derecho del parabrisas (costado opuesto del conductor), que indique la expresión "Personal INE"; y
+
+- **d)** Dar cumplimiento a las normas generales sobre condiciones técnicas, medidas de seguridad y fabricación, debiendo, en todo caso, contar con el permiso de circulación vigente, certificado de revisión técnica y de emisión de gases al día y seguro obligatorio de accidentes personales.
+
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones. Lo que transcribo para su conocimiento.- Saluda a Ud., Mauricio Carrasco Torres, Jefe Depto. Administrativo.
