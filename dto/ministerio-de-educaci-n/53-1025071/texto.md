@@ -28,15 +28,17 @@ Las exigencias de elementos de enseñanza y material didáctico mínimos que se 
 
 #### Artículo 2º bis
 
-Los establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998 y por el decreto ley Nº 3.166, de 1980, deberán manifestar en forma expresa su voluntad para recibir o rechazar los textos escolares de educación básica y media, que adquiera el Ministerio de Educación, consignándola en la plataforma que dicha Cartera de Estado disponga al efecto. Podrán aceptarlos en forma parcial, cuando algunos de ellos no se ajusten a su programa de estudio o a su proyecto educativo.
+Los establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998 y por el decreto ley Nº 3.166, de 1980, deberán manifestar en forma expresa su voluntad para recibir o rechazar los textos escolares de educación básica y media, que adquiera el Ministerio de Educación, consignándola en la plataforma que dicha Cartera de Estado disponga al efecto. No obstante haberse aceptado los textos escolares, podrán rechazarse sólo aquellos de idioma extranjero cuando éstos no se ajusten a su programa de estudio o a su proyecto educativo.
 
-Aquellos establecimientos que acepten recibir los textos escolares por parte del Ministerio de Educación, deberán entregarlos a título gratuito a los alumnos y alumnas matriculados en el establecimiento, durante el año lectivo que corresponda, así como también, aquellos textos que se encuentran dirigidos a su cuerpo docente.
+Aquellos establecimientos que acepten recibir los textos escolares por parte del Ministerio de Educación, deberán entregarlos a título gratuito a los alumnos y alumnas matriculados en el establecimiento, dentro de los 15 días siguientes al inicio del año escolar que corresponda, o a la fecha de entrega de éstos según sea del caso, así como también, aquellos textos que se encuentran dirigidos a su cuerpo docente.
 
 El Ministerio de Educación pondrá a disposición de los respectivos directores, un acta de compromiso para la recepción y entrega de los textos escolares a que se refiere el inciso anterior, la que será suscrita, incorporada al sistema informático que para tal efecto dispone el Ministerio y remitida en la forma y plazo a que se refiere el inciso 5º, por el director del establecimiento educacional.
 
 Los establecimientos educacionales que opten por rechazar los textos escolares que entrega el Ministerio de Educación, deberán informar de esta decisión a los centros de padres y apoderados y de alumnos, respectivamente. El documento informativo deberá contar con los motivos que fundamenten tal decisión, y será suscrito por el director del establecimiento educacional.
 
 Una copia del documento a que se refiere el inciso anterior, deberá ser remitida a la Secretaría Regional Ministerial de Educación que corresponda, a más tardar el último día hábil del mes de marzo del año en que serán utilizados y entregada a los padres y/o apoderados al momento de proceder a matricular a el o los alumnos.
+
+Los textos escolares a que se refiere este artículo, se entenderán aceptados cuando el establecimiento educacional no se haya pronunciado de su aceptación o rechazo en la forma establecida en el inciso primero.
 
 Cualquier incumplimiento de lo señalado en este artículo por parte del sostenedor, estará afecto al procedimiento dispuesto en el párrafo 5º del Título III de la ley Nº 20.529.
 
