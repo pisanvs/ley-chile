@@ -186,7 +186,7 @@ Asimismo, podrá modificar el presupuesto de la Superintendencia de Educación p
 
 #### Artículo cuarto
 
-A contar de la fecha de la publicación de esta ley, la Junta Nacional de Jardines Infantiles continuará ejerciendo sus labores de supervigilancia establecidas en la ley Nº 17.301, hasta la fecha en que la Superintendencia de Educación comience a ejercer las facultades de fiscalización que se le otorgan en la presente ley respecto de los establecimientos que imparten educación parvularia, de acuerdo a lo establecido en el numeral 8) del artículo segundo transitorio del presente cuerpo legal. Asimismo, continuará ejerciendo las labores de empadronamiento o autorización que le confiere la citada ley Nº 17.301, hasta 6 meses después de la entrada en funcionamiento de la Subsecretaría de Educación Parvularia y la Intendencia de Educación Parvularia de la Superintendencia de Educación.
+A contar de la fecha de la publicación de esta ley, la Junta Nacional de Jardines Infantiles continuará ejerciendo sus labores de supervigilancia establecidas en la ley Nº 17.301, hasta la fecha en que la Superintendencia de Educación comience a ejercer las facultades de fiscalización que se le otorgan en la presente ley respecto de los establecimientos que imparten educación parvularia, de acuerdo a lo establecido en el numeral 8) del artículo segundo transitorio del presente cuerpo legal. Asimismo, continuará ejerciendo las labores de empadronamiento o autorización que le confiere la citada ley Nº 17.301, hasta la entrada en vigencia del reglamento a que se refiere el artículo segundo transitorio de la ley N°20.832, que crea la Autorización de Funcionamiento de Establecimientos de Educación Parvularia.
 
 #### Artículo quinto
 
