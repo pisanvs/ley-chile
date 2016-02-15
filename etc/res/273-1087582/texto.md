@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 273, del 01/02/2016, Serviu Región del Biobío ordenó expropiación Parcial del inmueble ubicado en Av. Colón 7845, Sector Club Hípico, Rol de Avalúo 03518-00008, comuna de Hualpén, de aparente dominio de Trama Impresores S.A. La superficie afecta a expropiación parcial de terreno es de 1.020,34 m2 (Lote 8), y expropiación total de la edificación (a) con una superficie de 80,05 m2, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A / E-F-G-H-E del plano S8R-33339, son los siguientes: Norte: Tramo AB en 13,04 m con Inmueble Rol 3518-2; Tramo EF en 13,01 m con Inmueble Rol 3518-26. Oriente: Tramo BC en 10,00 m con resto del inmueble Rol 3518-3; Tramo FG en 68,65 m. con resto del Inmueble Rol 3518-8. Sur: Tramo CD en 13,03 m con Rol 3518-26; Tramo GH en 12,91 m con Inmueble Rol 3518-9. Poniente: Tramo DA en 10,00 m con Avda. Cristóbal Colón; Tramo HE en 68,65 m con Av. Cristóbal Colón. Conforme artículo 51 Ley 16.391 y DL 2.186. Comisión de Peritos integrada por la arquitecto Claudia Eugenia Marzullo García, arquitecto Cecilia María Irene Carrasco Verdugo y al ingeniero constructor Luis Gonzalo Valenzuela Arroyo, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $149.292.053.-
+
+Director Serviu Región del Biobío.
