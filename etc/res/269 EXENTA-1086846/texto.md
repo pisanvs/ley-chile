@@ -42,7 +42,7 @@ e. Eximir a las personas postulantes, de lo establecido en la letra g) del artí
 
 4. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponde.
 
-5. Mediante resolución de la Secretaría Regional Ministerial de la Región del Biobío, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá ser cursada a más tardar el día 30 de junio de 2015. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+5. Mediante resolución de la Secretaría Regional Ministerial de la Región del Biobío, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá ser cursada a más tardar el día 30 de junio de 2016. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 6. Impútase el monto de 341.827 Unidades de Fomento asignado en esta resolución, a los recursos autorizados a la Región del Biobío, para el Programa Fondo Solidario de Elección de Vivienda del año 2016.
 
