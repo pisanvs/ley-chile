@@ -26,7 +26,7 @@ La administración superior del Servicio corresponderá a un Consejo Administrat
 
 a) El Subsecretario del Medio Ambiente o la persona que éste designe en su representación, quien lo presidirá;
 
-b) El Jefe de la División Administración y Finanzas del Ministerio del Medio Ambiente;
+b) El Jefe de la División Jurídica de la Subsecretaría de Medio Ambiente o su reemplazante;
 
 c) El Jefe del Departamento Desarrollo de las Personas del Ministerio del Medio Ambiente, y
 
@@ -274,7 +274,11 @@ e) El Servicio, a través del Subsecretario del Medio Ambiente, podrá celebrar 
 
 f) El Servicio podrá poseer y/o administrar colonias, refugios, casas de huéspedes, casas de veraneo, casinos, jardines infantiles, complejos deportivos, policlínicos, postas dentales u otras instalaciones que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá al Ministerio del Medio Ambiente.
 
-Los beneficios a que se refieren las letras a) y b) podrán otorgarse mediante bonificaciones o subvenciones, tanto para actividades grupales o individuales en que se haya convocado o se permita la participación de cualquier afiliado.
+g) Celebración de festividades patrias: se podrá conceder anualmente, por una sola vez, un bono al afiliado con ocasión de la celebración de las festividades patrias.
+
+h) Celebración de cumpleaños: se podrá conceder anualmente, por una sola vez, en el mes que cumpla años, un bono al afiliado con ocasión de la celebración de su cumpleaños.
+
+Los beneficios a que se refieren las letras a), b), g) y h) podrán otorgarse mediante bonificaciones o subvenciones, tanto para actividades grupales o individuales en que se haya convocado o se permita la participación de cualquier afiliado.
 
 #### Artículo 16º
 
