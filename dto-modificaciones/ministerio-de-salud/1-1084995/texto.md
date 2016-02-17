@@ -676,9 +676,9 @@ Asimismo, por decreto del Ministerio se aprobará la norma técnica que establez
 
 Las normas y demás procedimientos para la realización de los estudios de biodisponibilidad así como los estudios de equivalencia terapéutica, en los casos que correspondan, serán establecidos por decreto del Ministerio, lo que podrá hacer a proposición del Instituto.
 
-#### Artículo Transitorio
+#### Artículo transitorio
 
-Las modificaciones a que se refieren los numerales 18, 30 y 42, todos del artículo 1 de este decreto, entrarán en vigencia en el plazo de 6 meses contado desde su publicación.
+Las modificaciones a que se refieren los numerales 17, 29 y 41, todos del artículo 1 de este decreto supremo, entrarán en vigencia en el plazo de 6 meses contado desde su publicación.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jaime Burrows Oyarzún, Ministro de Salud (S).
 
