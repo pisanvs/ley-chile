@@ -610,7 +610,7 @@ Las normas y demás procedimientos para la realización de los estudios de biodi
 
 <!-- parte:9654951 -->
 
-Las modificaciones a que se refieren los numerales 18, 30 y 42, todos del artículo 1 de este decreto, entrarán en vigencia en el plazo de 6 meses contado desde su publicación.
+Las modificaciones a que se refieren los numerales 17, 29 y 41, todos del artículo 1 de este decreto supremo, entrarán en vigencia en el plazo de 6 meses contado desde su publicación.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jaime Burrows Oyarzún, Ministro de Salud (S).
 
