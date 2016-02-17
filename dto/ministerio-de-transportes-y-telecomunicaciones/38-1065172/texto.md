@@ -494,6 +494,10 @@ Reposición equipamiento y mobiliario en oficinas y boleterías
 
 Considerando que las oficinas y boleterías regionales han sido mantenidas sólo desde el punto de vista funcional, y siguiendo la línea del mejoramiento de los servicios de Trenes Metropolitanos, es que se hace necesario renovar el equipamiento y mobiliario de las oficinas y boleterías regionales.
 
+Mejoramiento para obras de Conservación Vial y Peatonal de la Infraestructura Explanada Estación Central.
+
+La integración al Sistema de Transporte Público de Santiago del servicio de transporte ferroviario de pasajeros de trenes en el tramo Alameda-Nos, implica una nueva demanda, que se estima cercana a los 7.500 pasajeros/hora en horario punta. Dicha demanda no puede cubrirse sólo con la oferta actual de Metro, por lo que resulta necesario reordenar el espacio público y ofrecer facilidades que mejoren la accesibilidad al Sistema de Transporte Público en superficie.
+
 4.1.3 Grandes Revisiones Material Rodante
 
 El objetivo de este proyecto es mantener la disponibilidad y confiabilidad de la flota de equipos UTS444 con el proyecto de mejoramiento de equipos (Gran R). Los equipos UTS444, que operan en el servicio de mediana distancia, entre Santiago y Chillán requieren reparaciones y reacondicionamiento, con el objetivo de mantener la confiabilidad de la flota. Los plazos asociados de este subprograma corresponde al período 2014-2016 y su ejecución procede de acuerdo a las pautas del contrato de mantenimiento, que está basado en función del kilometraje recorrido.
@@ -840,6 +844,12 @@ En el Plan Trienal 2011-2013 se consideró un mejoramiento del servicio Corto La
 
 Realizar un estudio que considere distintas opciones de construcción de un sistema de transporte masivo en el Gran Concepción.
 
+4.5.3 Proyecto Construcción Extensión Coronel.
+
+En la región del Biobío se encuentra emplazado el corredor vial Coronel-Concepción, paralelo a la vía férrea, el que presenta graves problemas de congestión, que se agravan en los horarios punta. Lo anterior ha detonado la necesidad de utilizar el ferrocarril como medio de transporte alternativo, lo que a su vez obliga a extender y mejorar la infraestructura ferroviaria hasta el centro de la comuna de Coronel.
+
+La puesta en operación de esta extensión ferroviaria, permitirá a un mayor número de usuarios utilizar este modo. Además, junto al aumento de frecuencia que lleva implícito este proyecto, se logrará una efectiva descongestión en el sector, con la consecuente mejora en la calidad de vida de los habitantes de la región.
+
 4.6 Construcción Estación Cinco Pinos
 
 Contempla la construcción de la estación ferroviaria "Cinco Pinos", en la comuna de San Bernardo asociado al Servicio Rancagua Express, considerando Obras Civiles, Urbanización, desvíos de tránsito, construcción de catenaria y asistencia de operación.
@@ -876,7 +886,9 @@ Notas:
 
 6. Aportes Privados: Aportes que deben realizar los porteadores o los generadores de carga con pago inmediato o diferido, para financiar inversiones que se ejecuten en la red de EFE. En el caso de pago diferido debe firmarse un convenio entre EFE y el porteador o generador de la carga, en que éste se comprometa a determinados pagos que permitan servir la deuda que EFE contraiga para ejecutar las inversiones involucradas.
 
-> **Nota.** Las letras h, i, j, k, l y m, del N° 1 del Artículo 1° del Decreto 289, Transportes, publicado el 30.04.2015, introduce diversas modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
+> **Nota.** Las letras h, i, j, k, l y m, del N° 1 del Artículo único del Decreto 289, Transportes, publicado el 30.04.2015, introducen diversas modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
+
+> **Nota.** NOTA 1 Las letras d), e) y f) del N° 1 del Artículo único del Decreto 197, Transportes, publicado el 17.02.2016, introducen modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
 
 #### Artículo 2º
 
