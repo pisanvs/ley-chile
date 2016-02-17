@@ -22,7 +22,7 @@ Resolución:
 
 1. Llámase a postulación extraordinaria en condiciones especiales, a los arrendadores del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº52, (V. y U.), de 2013, conforme a las condiciones indicadas en la presente resolución, para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, en su Título II, Mejoramiento de la Vivienda, destinados a financiar la adquisición de materiales de construcción, para todas las comunas de la Región del Maule.
 
-2. El monto total que se destinará al financiamiento de los subsidios en el presente llamado, conforme a las disposiciones del DS Nº 255, (V. y U.), de 2006, será de 7.755 Unidades de Fomento (UF).
+2. El monto total que se destinará al financiamiento de los subsidios en el presente llamado, conforme a las disposiciones del DS Nº 255, (V. y U.), de 2006, será de 2.632 Unidades de Fomento (UF).
 
 3. Los arrendadores interesados a postular al presente llamado podrán hacerlo a partir de 30 de noviembre hasta el día 31 de diciembre de 2015.
 
