@@ -54,7 +54,7 @@ d) Forma de Emisión: la indicada en el artículo 6º;
 
 e) Transferibilidad: la transferencia del dominio de los Bonos 2014 y de las Letras 2014 se efectuará en la forma indicada en el artículo 6º, letra f), o bien letra g) inciso tercero, según corresponda;
 
-I) Fecha de Emisión: el 1 de enero de 2014;
+f) Fecha de Emisión: el 1 de enero de 2014;
 
 g) Plazo y Forma de Colocación: una o más colocaciones desde la fecha de publicación de este decreto, y hasta el 30 de diciembre de 2014, ambas fechas inclusive, mediante los procedimientos indicados en las letras a) y d) del artículo 12. Para los efectos a que hubiere lugar, dichos procedimientos constituirán el mecanismo de colocación propio de la Tesorería para estos Bonos y Letras, de manera que los primeros adquirentes deberán considerarlos como adquiridos en el "mercado primario formal";
 
