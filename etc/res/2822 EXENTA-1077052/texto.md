@@ -26,7 +26,7 @@ Las nóminas de los seleccionados serán publicadas en el sitio web del MINVU o 
 
 La primera selección se realizará con los inscritos al último día hábil del mes de mayo de 2015.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 295.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 525.000 Unidades de Fomento.
 
 Podrán inscribirse en este llamado especial los damnificados que sean propietarios, hubiesen estado o no residiendo en la vivienda siniestrada, los arrendatarios o los allegados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo. Tratándose de viviendas emplazadas en la Zona Crítica A podrán inscribirse además los propietarios de viviendas que resultaron con daño moderado y mayor conforme a la información contenida en el registro de damnificados y en la Zona Crítica B, los propietarios de viviendas que resultaron con daño mayor, zonas definidas en la resolución exenta Nº 205, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Atacama, de fecha 21 de julio de 2015.
 
