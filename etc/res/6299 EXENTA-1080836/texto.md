@@ -18,8 +18,6 @@ Resolución:
 
 .
 
-> **Nota.** El numeral 2° de la Resolución 1824 Exenta, Vivienda, publicada el 29.03.2016, rectifica la región de preferencia consignada en los Certificados de Subsidio Habitacional Serie DS1T2 7-2015 NA00194, correspondiente a doña Lissette Alejandra Michea Vallejo, Cédula de Identidad Nº 18.141.354-9 y Serie DS1T2 7-2015 NA00207, correspondiente a doña Daniela Nicole Jiménez Astorga, Cédula de Identidad Nº 18.710.928-0, en el sentido de permitirles su aplicación en las Regiones de Coquimbo y Atacama, respectivamente.
-
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
