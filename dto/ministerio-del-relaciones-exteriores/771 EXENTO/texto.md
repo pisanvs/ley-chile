@@ -36,13 +36,13 @@ Han convenido lo siguiente:
 
 #### Artículo 1
 
-1. Para el propósito de esta Convención, las zonas húmedas se dividen en áreas de ciénagas, pantanos, áreas de musgos o agua, sean éstas naturales o artificiales, permanentes o temporales, de aguas estáticas o corrientes, frescas, con helechos o saladas, incluyendo zonas de agua de mar cuya profundidad no exceda de seis metros durante la marea baja.
+1. Para el propósito de esta Convención, las zonas húmedas se dividen en áreas de ciénagas, pantanos, turberas o agua, sean éstas naturales o artificiales, permanentes o temporales, de aguas estáticas o corrientes, frescas, con helechos o saladas, incluyendo zonas de agua de mar cuya profundidad no exceda de seis metros durante la marea baja.
 
 2. Para el propósito de esta Convención las aves acuáticas las constituyen pájaros que dependen ecológicamente de las zonas húmedas.
 
 #### Artículo 2
 
-1. Cada 'Parte Contratante designará zonas húmedas apropiadas dentro de su territorio para ser incluidas en una lista de zonas Húmedas de Importancia Internacional, de ahora en adelante denominada "La Lista", la cual es conservada por la secretaría establecida en el artículo 8. Los límites de cada zona húmeda serán descritos minuciosamente como también se delimitarán en un mapa y podrán incorporarse zonas ribereñas y litorales adyacentes a las zonas húmedas, e islas o extensiones de agua marina cuya profundidad en la marea baja es mayor de seis metros, situado en las zonas húmedas, especialmente cuando éstas tienen importancia como hábitat de aves acuáticas.
+1. Cada Parte Contratante designará zonas húmedas apropiadas dentro de su territorio para ser incluidas en una lista de zonas Húmedas de Importancia Internacional, de ahora en adelante denominada "La Lista", la cual es conservada por la secretaría establecida en el artículo 8. Los límites de cada zona húmeda serán descritos minuciosamente como también se delimitarán en un mapa y podrán incorporarse zonas ribereñas y litorales adyacentes a las zonas húmedas, e islas o extensiones de agua marina cuya profundidad en la marea baja es mayor de seis metros, situado en las zonas húmedas, especialmente cuando éstas tienen importancia como hábitat de aves acuáticas.
 
 2. Las zonas húmedas deben seleccionarse para la Lista en base a su importancia internacional en términos de ecología, botánica, zoología, limnología o hidrología.
 
