@@ -38,8 +38,6 @@ Coquimbo 13.000
 
 Total 38.000
 
-> **Nota.** El numeral 2 de la Resolución 3595 Exenta, Vivienda, publicada el 16.06.2016, modifica la presente norma en el sentido de rectificar la región de preferencia consignada en los Certificados de Subsidio Habitacional Serie DS1T2 7-2015 ES00413, correspondiente a doña Marcela de Lourdes Leiva Gaete, Cédula de Identidad N° 10.213.023-5 y Serie DS1T2 7-2015 ES00428, correspondiente a doña Paola Edith Toloza Iriarte, Cédula de Identidad N° 13.914.090-7.
-
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
