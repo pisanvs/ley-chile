@@ -1,0 +1,49 @@
+EXCLUYE AL SÍNDICO EDUARDO GODOY HALES DE LA TERCERA NÓMINA NACIONAL DE SÍNDICOS
+
+Santiago, 29 de enero de 2016.- Hoy se decretó lo que sigue:
+
+Núm. 84.
+
+Vistos:
+
+Lo dispuesto en el artículo 32 Nº 10 de la Constitución Política de la República; en la ley Nº 18.175, modificada por la ley Nº 20.004, e incorporada al Libro IV del Código de Comercio, con excepción de su Título II, por la ley Nº 20.080; el decreto Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, que faculta a los Ministros de Estado para firmar "por orden del Presidente de la República"; el decreto Nº 669, de 2011, del Ministerio de Justicia, que nombra a don Eduardo Godoy Hales como Síndico de Quiebras y lo incluye en la Tercera Nómina Nacional de Síndicos; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República; en la resolución exenta Nº 5.142, de 29 de septiembre de 2015, y lo señalado en el oficio Nº 371, de 2015, ambos de la Superintendencia de Insolvencia y Reemprendimiento; y,
+
+Considerando:
+
+1.- Que, por decreto Nº 669, de 2011, del Ministerio de Justicia, se nombró a don Eduardo Godoy Hales, RUN Nº 12.661.429-2, como Síndico Privado de Quiebras y se le incluyó en la Tercera Nómina Nacional de Síndicos, fijada por decreto Nº 1.071, de 1983, del Ministerio de Justicia.
+
+2.- Que, con fecha 2 de septiembre de 2015, el Sr. Godoy Hales presentó su renuncia al cargo de Síndico Privado de Quiebras, la que fue informada desfavorablemente por la Superintendencia de Insolvencia y Reemprendimiento, según consta en oficio SIR Nº 345, de 29 de septiembre de 2015, atendido que, mediante resolución exenta Nº 5.142, de 2015, de ese mismo origen, se rechazó la respuesta otorgada por el señalado síndico respecto a la fiscalización de la que había sido objeto, manifestando que se encontraban suficientemente acreditadas las causales de exclusión contempladas en los Nos. 3 y 6 del artículo 22 del Libro IV del Código de Comercio.
+
+3.- Que, según lo señalado por la Superintendencia, el Sr. Godoy Hales fue objeto de fiscalización por su actuación en la quiebra de la Fundación Hospital San José de Puerto Varas, proceso en el que se detectó un contrato celebrado con la sociedad Asesoría e Inversiones Gofu Limitada, en la que él tiene participación societaria, y cuya representante legal era, a la fecha de la suscripción del contrato, la cónyuge del referido síndico. Junto con ello, posterior a la celebración de dicho contrato, el Sr. Godoy Hales fue designado como síndico delegado en la referida quiebra.
+
+4.- Que, por lo anterior, la Superintendencia de Insolvencia y Reemprendimiento estimó que se configuraban las causales contenidas en el artículo 22 Nº 3 y Nº 6 del Libro IV del Código de Comercio.
+
+5.- Que, respecto de la causal contenida en el numeral 3 de la citada norma, que señala que los síndicos serán excluidos "Por intervenir a cualquier título en quiebras que no estuvieren o hayan estado a su cargo, salvo las actuaciones que le correspondan en su calidad de síndico, de acreedor con anterioridad a la quiebra, de representante legal en conformidad al artículo 43 del Código Civil, y de lo previsto en el artículo 28", el Sr. Godoy Hales manifestó, en síntesis, que se le estaba imputando una infracción cometida por interpósita persona, toda vez que el interviniente en la quiebra habría sido una persona jurídica distinta de él. En tal sentido, señala que, dado que se trata de otra persona la que intervino, el hecho de que él sea socio de esa persona jurídica no implica que él mismo haya intervenido y que la expresión "a cualquier título" empleada por la norma debe ser interpretada de manera restrictiva, por estar vinculada a la potestad sancionatoria del Estado". Agrega que dicha expresión está dirigida a los síndicos en tanto personas naturales, a quienes se les prohíbe intervenir en procesos de quiebra a título personal o de un tercero, no siendo posible extenderla a personas jurídicas en las que tengan participación societaria.
+
+6.- Que, en lo referente a la causal contenida en el Nº 6 del artículo 22 citado, que dispone la exclusión de un síndico "Por proporcionar u obtener cualquier ventaja en las quiebras o cesiones de bienes en que intervenga como síndico", argumenta que él no tuvo participación alguna en la celebración y posterior ejecución del contrato cuestionado, que este se refiere únicamente a la continuidad de giro y que fue aprobado por la junta de acreedores al menos en dos ocasiones. Además, añade, la Superintendencia habría empleado un criterio de interpretación discutible, que solo se remite a su tenor literal, sin atender al criterio teleológico de la norma.
+
+7.- Que, al resolver sobre la respuesta presentada por el Sr. Godoy Hales, la Superintendencia fundamenta su rechazo en lo siguiente:
+
+a) Que, en efecto, el síndico intervino por interpósita persona, y que por "intervenir" debe estarse a su sentido natural y obvio, esto es "tomar parte en un asunto", según la definición del Diccionario de la Real Academia Española de la Lengua. Agrega que la norma, al señalar que la intervención sea a cualquier título, incluye la participación societaria del síndico, pues dicha expresión debe interpretarse de la forma más amplia de acuerdo con la historia fidedigna de la Ley Nº 20.004, que modificó el artículo 22 del Libro IV del Código de Comercio. Además, su participación estaría configurada por su participación del 99% en la sociedad GOFU Limitada. Por último, señala que no se configuró respecto del Sr. Godoy Hales ninguna de las excepciones contenidas en el mismo numeral 3 del citado artículo.
+
+b) Por otra parte, ya celebrado el contrato cuestionado, el Sr. Godoy Hales fue designado síndico delegado, pudiendo actuar en la quiebra dentro de la esfera de las atribuciones que le fueron conferidas. Por otra parte, el ser el socio mayoritario de Gofu Limitada le otorga el derecho de retirar el 99% de las utilidades obtenidas por esta, lo que constituiría una evidente ventaja de carácter económico en su favor, obtenida como fruto de un contrato celebrado en el marco de una quiebra en la que este actuaba como síndico. Agrega que, aun siendo un delegado, la delegación solo puede efectuarse en una persona que integrara la Nómina Nacional de Síndicos, sin que sea factible sustraerse de dicha calidad.
+
+c) Respecto de la función de los síndicos, la Superintendencia cita el fallo del Tribunal Constitucional de fecha 16 de noviembre de 2010, en causa rol Nº 1413-09-INA, jurisprudencia de la que se desprende que el síndico es un órgano de la quiebra, de carácter procesal, además de ser un funcionario público, no por la formalidad de su nombramiento o asunción del cargo, sino por su función, propia del Estado. A su vez, las modificaciones introducidas por la ley Nº 20.004 sancionan con la exclusión la infracción a prohibiciones relativas a la falta de probidad.
+
+8.- Que, las causales de exclusión de la Nómina Nacional de Síndicos citadas por la Superintendencia son normas de orden público que tienen por objeto velar por la observancia del principio de probidad que debe regir el actuar de los síndicos, dada la función pública que el Estado les atribuye al incluirlos en la Nómina Nacional.
+
+9.- Que, por lo anterior, de las personas que ostentan el cargo de síndico de quiebras, en su desempeño como tales, se espera una conducta intachable, asimilable a la que se encuentran obligados los funcionarios de la Administración del Estado. Por tal razón, las infracciones a su deber de probidad deben ser sancionadas en la forma en que dispone la normativa que regula su función.
+
+10.- Que, de acuerdo con la información proporcionada por la Superintendencia, queda de manifiesto que el Sr. Godoy Hales, si bien no actuó directamente como persona natural en la celebración del contrato cuestionado, como socio mayoritario de la persona jurídica contratante no puede abstraerse de los actos que esta celebre y ejecute, menos aún si ostenta la representación legal de la misma. En tal sentido, su interés como socio colisiona con sus deberes como síndico y, en tal caso, tratándose este último de una función pública, es el interés general el que debe primar por sobre el particular.
+
+Por otra parte, el síndico no ha podido desvirtuar la imputación de haber obtenido una ventaja, en este caso económica, de la quiebra en la que pasó a ejercer funciones, aun cuando estas fueran en calidad de delegado, toda vez que se pueden delegar las funciones de síndico exclusivamente en personas que integren la Nómina Nacional y no estén afectos a las inhabilidades del artículo 24 del Libro IV del Código de Comercio, según lo dispone el artículo 28 del mismo cuerpo normativo. En cuanto a la ventaja obtenida, esta resulta evidente, toda vez que, teniendo una participación social del 99% en la sociedad con la que la quiebra celebró el contrato, tendría el derecho a retirar un porcentaje equivalente de las utilidades que dicho negocio hubiere reportado.
+
+11.- Que, en atención a lo señalado precedentemente y los antecedentes acompañados, se tienen por configuradas las causales contempladas en los numerales 3 y 6 del artículo 22 del Libro IV del Código de Comercio, por lo que corresponde excluir de la señalada nómina al Sr. Godoy Hales,
+
+Decreto:
+
+Exclúyase a don Eduardo Godoy Hales, RUN Nº 12.661.429-2, de la Tercera Nómina Nacional de Síndicos en la que fue incluido mediante decreto Nº 669, de 2011, del Ministerio de Justicia.
+
+Anótese, tómese razón, publíquese y archívese.- Por orden de la Presidenta de la República, Javiera Blanco Suárez, Ministra de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Ignacio Castillo Val, Subsecretario de Justicia (S).
