@@ -15150,7 +15150,7 @@ CAPITULO C-3 hoja 13
 
 2700.3.19 Boletas de garantía
 
-2700.3.21 Cartas de garantía interbancarias
+2700.3.21 Suprimido
 
 2700.3.26 Líneas de crédito de libre disposición
 
@@ -16208,7 +16208,7 @@ En esta línea se presenta el monto de las provisiones por créditos contingente
 
 2700.3.19 Boletas de garantía
 
-2700.3.21 Cartas de garantía interbancarias
+2700.3.21 Suprimido
 
 2700.3.26 Líneas de crédito de libre disposición
 
@@ -16556,7 +16556,7 @@ A continuación se muestran las clasificaciones y codificación establecidas par
 
 4200.2.04 Boletas de garantía enteradas con pagaré
 
-4200.2.05 Cartas de garantía interbancarias
+4200.2.05 Suprimido
 
 4200.2.20 Otros
 
@@ -17260,7 +17260,7 @@ En esta línea se presentan las comisiones devengadas en el período relacionada
 
 4200.2.04 Boletas de garantía enteradas con pagaré
 
-4200.2.05 Cartas de garantía interbancarias
+4200.2.05 Suprimido.
 
 4200.2.20 Otros
 
@@ -18068,6 +18068,42 @@ INFORMACION DIVERSA:
 
 8440 BIENES RECIBIDOS EN PAGO CASTIGADOS SIN VENDER
 
+RESULTADOS VINCULADOS A LA EXPOSICION AL RIEGO OPERACIONAL
+
+8700 PERDIDA NETA POR EVENTOS DE RIEGO OPERACIONAL
+
+8710 Gastos del período
+
+8711 Fraude interno
+
+8712 Fraude externo
+
+8713 Prácticas laborales y seguridad en el negocio
+
+8714 Clientes, productos y prácticas de negocio
+
+8715 Daños a activos físicos
+
+8716 Interrupción del negocio y fallos en sistema
+
+8717 Ejecución, entrega y gestión de procesos
+
+8720 Recuperaciones de gastos en el período
+
+8721 Fraude interno
+
+8722 Fraude externo
+
+8723 Prácticas laborales y seguridad en el negocio
+
+8724 Clientes, productos y prácticas de negocio
+
+8725 Daños a activos físicos
+
+8726 Interrupción del negocio y fallos en sistema
+
+8727 Ejecución, entrega y gestión de procesos
+
 Compendio de Normas Contables
 
 CAPITULO C-3 hoja 65
@@ -18167,6 +18203,56 @@ Debe incluirse el valor de los activos que no fueron dados de baja total o parci
 8440 BIENES RECIBIDOS EN PAGO CASTIGADOS SIN VENDER
 
 Se informará el mayor valor (neto de provisiones) que tendría el activo si no se hubieran efectuado los castigos que exige la Ley General de Bancos, por los bienes recibidos en pago que aún no han sido enajenados.
+
+RESULTADOS VINCULADOS A LA EXPOSICION AL RIEGO OPERACIONAL
+
+8700 PERDIDA NETA POR EVENTOS DE RIEGO OPERACIONAL
+
+8710 Gastos del período
+
+8711 Fraude interno
+
+Pérdidas derivadas de algún tipo de actuación intencional cometida por personal del banco orientada a cometer fraude, incurriendo en prácticas o procedimientos que no son legales o no están autorizados, anteponiendo sus intereses personales a los de la organización.
+
+8712 Fraude externo
+
+Pérdidas derivadas de algún tipo de actuación orientada a cometer fraude, apropiarse de bienes o vulnerar la legislación por parte de terceros (ajenos al banco), por ejemplo, delitos informáticos y robos en sucursales.
+
+8713 Prácticas laborales y seguridad en el negocio
+
+Pérdidas derivadas de actuaciones incompatibles con la legislación o acuerdos laborales sobre empleo (despido injustificado) y seguridad laboral, así como las derivadas de reclamos por daños personales (físicos o psíquicos), incluidas aquellas relativas a acoso y discriminación.
+
+8714 Clientes, productos y prácticas de negocio
+
+Pérdidas derivadas del incumplimiento involuntario, negligente o doloso de una obligación frente a los clientes, por ejemplo, costos y responsabilidad civil asociada a temas de idoneidad, incumplimiento de obligaciones fiduciarias y prácticas de venta.
+
+8715 Daños a activos físicos
+
+Pérdidas derivadas de daños o perjuicios a activos materiales como consecuencia de desastres naturales y daños por acción humana, como son los ocasionados por acciones de terrorismo o actos vandálicos.
+
+8716 Interrupción del negocio y fallos en sistema
+
+Pérdidas derivadas de interrupciones inesperadas de la actividad y/o de la prestación de servicios motivadas por fallas en los sistemas (software, hardware y comunicaciones)
+
+8717 Ejecución, entrega y gestión de procesos
+
+Pérdidas derivadas de errores en el procesamiento de operaciones o en la gestión de procesos (gestión interna), así como de relaciones con contrapartes comerciales y proveedores (atención al cliente).
+
+8720 Recuperaciones de gastos en el período
+
+8721 Fraude interno
+
+8722 Fraude externo
+
+8723 Prácticas laborales y seguridad en el negocio
+
+8724 Clientes, productos y prácticas de negocio
+
+8725 Daños a activos físicos
+
+8726 Interrupción del negocio y fallos en sistema
+
+8727 Ejecución, entrega y gestión de procesos
 
 Compendio de Normas Contables
 
@@ -18461,6 +18547,42 @@ INFORMACION DIVERSA:
 9439 Otros activos
 
 9440 BIENES RECIBIDOS EN PAGO CASTIGADOS SIN VENDER
+
+RESULTADOS VINCULADOS A LA EXPOSICION AL RIEGO OPERACIONAL
+
+9700 PERDIDA NETA POR EVENTOS DE RIEGO OPERACIONAL
+
+9710 Gastos del período
+
+9711 Fraude interno
+
+9712 Fraude externo
+
+9713 Prácticas laborales y seguridad en el negocio
+
+9714 Clientes, productos y prácticas de negocio
+
+9715 Daños a activos físicos
+
+9716 Interrupción del negocio y fallos en sistema
+
+9717 Ejecución, entrega y gestión de procesos
+
+9720 Recuperaciones de gastos en el período
+
+9721 Fraude interno
+
+9722 Fraude externo
+
+9723 Prácticas laborales y seguridad en el negocio
+
+9724 Clientes, productos y prácticas de negocio
+
+9725 Daños a activos físicos
+
+9726 Interrupción del negocio y fallos en sistema
+
+9727 Ejecución, entrega y gestión de procesos
 
 OTRA INFORMACION:
 
