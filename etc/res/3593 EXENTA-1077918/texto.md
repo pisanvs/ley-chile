@@ -26,7 +26,7 @@ Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o
 
 La primera selección se realizará con los inscritos al último día hábil del mes de mayo de 2015,
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 56.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados, será de 76.500 Unidades de Fomento.
 
 Podrán inscribirse en este llamado especial los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo, que sean propietarios, hubiesen estado o no residiendo en la vivienda siniestrada, arrendatarios o allegados.
 
