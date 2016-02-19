@@ -6,23 +6,19 @@ Núm. 46.- Santiago, 14 de Septiembre de 1993.- Visto: Lo dispuesto por las leye
 
 El taxímetro a que alude el artículo 79° del D.S. N° 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, deberá cumplir con los siguientes requisitos:
 
-1.- Ser digital, programable e incluir una impresora tipo térmica u otra similar que no utilice el sistema de impresión por cinta y que permita la colocación de un sello por parte de
+1.- Ser digital, programable e incluir una impresora tipo térmica u otra similar que no utilice el sistema de impresión por cinta y que permita la colocación de un sello por parte de la autoridad, sin perjuicio del que debe instalar el fabricante o proveedor y en su caso, las personas naturales o jurídicas a que se refiere el artículo 3º el que contendrá la sigla N°1, A o distintivo del mismo, que lo identifique
 
-la autoridad, sin perjuicio del que debe instalar el fabricante o proveedor y en su caso, las personas naturales o jurídicas a que se refiere el artículo 3º el que contendrá la sigla N°1, A o distintivo del mismo, que lo identifique 2.- Conectarse al sistema eléctrico y al sistema sensor de distancias del vehículos, a través de uno solo cable a la vista compuesto de un máximo de 5 conductores eléctricos, prohibiéndose la existencia de cables adicionales. Los conductores eléctricos que transporten las señales desde el sistema sensor deberán contar con blindaje conectado al chasis del vehículo.
+2.- Conectarse al sistema eléctrico y al sistema sensor de distancias del vehículos, a través de uno solo cable a la vista compuesto de un máximo de 5 conductores eléctricos, prohibiéndose la existencia de cables adicionales. Los conductores eléctricos que transporten las señales desde el sistema sensor deberán contar con blindaje conectado al chasis del vehículo.
 
 3.- Contar con una batería propia que permita el funcionamiento de su reloj interno de manera independiente y deberá permitir que externamente, tanto la fecha como la hora, puedan ser ajustadas.
 
-4.- El circuito impreso que contenga el
-
-microprocesador del taxímetro y los circuitos de memoria, deberán ser encapsulados en resina epóxica u otro producto similar, de tal forma que dichos componentes y sus soldaduras no sean accesibles.
+4.- El circuito impreso que contenga el microprocesador del taxímetro y los circuitos de memoria, deberán ser encapsulados en resina epóxica u otro producto similar, de tal forma que dichos componentes y sus soldaduras no sean accesibles.
 
 Exceptúase de lo anterior a aquellos taxímetros en los cuales la memoria del programa se encuentra almacenada en el mismo circuito integrado que contiene el procesador y que, además, posea un dispositivo de bloqueo que impida su reprogramación.
 
 5.- No podrá tener más conexiones que las señaladas en el numeral 2, sin perjuicio que pueda realizar funciones adicionales de utilidad para el operador.
 
-6.- Su instalación eléctrica y accesorios deberán disponer de protecciones y fusibles a fin de no poner en riesgo la seguirdad del vehículo y la de
-
-sus ocupantes.
+6.- Su instalación eléctrica y accesorios deberán disponer de protecciones y fusibles a fin de no poner en riesgo la seguirdad del vehículo y la de sus ocupantes.
 
 7.- Estar regulado para computar el importe de la carrera considerando un valor único y fijo, determinado libremente por el operador, por los primeros 200 metros de recorrido, a través del cual se computará cada minuto de detención como equivalente a 200 metros de recorrido.
 
@@ -74,13 +70,17 @@ n) En el décimo cuarto renglón: se deberá imprimir, debajo de los valores a p
 
 o) Los renglones décimo sexto, décimo séptimo y décimo octavo deberán dejarse en blanco.
 
+p) En un décimo noveno renglón: la leyenda "TARIFA NOCTURNA", cuando corresponda.
+
+q) El renglón vigésimo deberá dejarse en blanco.
+
 Los valores a cobrar deberán encontrarse verticalmente alineados.
 
 En el boleto se podrá imprimir otras informaciones que sean de interés del operador, relativas al servicio, como por ejemplo teléfono, dirección comercial, etc., siempre y cuando éstos no alteren el formato antes descrito.
 
 10.- Poseer un sistema de bloqueo que impida que una vez iniciada la carrera, puedan modificarse los valores asociados a las variables que determinan el importe de la carrera.
 
-11.- Mientras el valor a cobrar se esté computando sobre la base de distancia recorrida, el taxímetro deberá indicar tal circunstancia mediante una señal luminosa destellante roja, en tanto que cuando el cobro se esté computando por tiempo de detención, ello se indicará con un destello verde.
+11.- Mientras el valor a cobrar se esté computando sobre la base de distancia recorrida, el taxímetro deberá indicar tal circunstancia mediante una señal luminosa destellante roja, en tanto que cuando el cobro se esté computando por tiempo de detención, ello se indicará con un destello verde. Asimismo, cuando el valor a cobrar se esté computando como tarifa nocturna, el taxímetro deberá indicar tal circunstancia mediante una señal luminosa fija de color azul, que deberá mantenerse encendida durante todo el trayecto.
 
 12.- Para efecto de computar el cobro por tiempo de detención, se considerará como detención cualquier velocidad igual o inferior a tres kilómetros por hora.
 
@@ -116,13 +116,21 @@ Cuando se active la función control y se concluya con ella, se imprimirá un co
 
 19.- La función control del taxímetro deberá realizarse pulsando una tecla distinta de las que se empleen para otras funciones y deberá estar debidamente identificada.
 
+#### Artículo 1º bis
+
+Además de los requisitos dispuestos en el artículo 1º, el taxímetro a que alude el artículo 79º del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, y siempre que ello se acredite conforme lo establecen los artículos 3 y 3 bis de la presente resolución, podrá estar regulado para computar el importe de la carrera considerando valores únicos, diferenciados para período diurno y nocturno, distintos de la bajada de bandera, conforme lo dispuesto en el párrafo tercero del numeral 7 del artículo 1º. En tal caso, al taxímetro no le será aplicable la exigencia dispuesta en el numeral 3 del artículo 1º, en lo relativo a la facultad de ajustar en forma externa la fecha y hora de su reloj interno.
+
+El cambio del valor único diurno a nocturno y viceversa deberá realizarse automáticamente, conforme al reloj interno del equipo. Para estos efectos, el sistema deberá determinar el valor correspondiente a aplicar, según la hora de inicio de la carrera, la cual además deberá ser visible para el pasajero, manteniéndose el importe así definido, aun cuando durante el trayecto cambie el horario diurno a nocturno, o viceversa.
+
+Cuando se haya aplicado el valor único nocturno el comprobante o boleto que entregue la impresora deberá indicar en el décimo noveno renglón la siguiente leyenda "TARIFA NOCTURNA", dejándose eI renglón vigésimo en blanco.
+
 #### Artículo 2°
 
 Cuando el taxímetro o su impresora presenten fallas técnicas en su funcionamiento, el vehículo en que se encuentre instalado no podrá prestar servicio público.
 
 #### Artículo 3°
 
-El Ministerio de Transportes y Telecomunicaciones establecerá, por resolución, una nómina de fabricantes o proveedores de taxímetros que hayan acreditado ante éste, que el tipo o modelo que ofrecen, cumple con los requisitos del Artículo 1°. Para este efecto, deberán acompañar, entre otros antecedentes, un listado del programa computacional en base al cual se verificó dicho cumplimiento. Este programa no podrá modificarse sin aviso previo al Ministerio y de efectuarse cambios en él deberá realizarse una nueva acreditación de cumplimiento de requisitos del respectivo tipo o modelo. En la resolución mencionada se asignará un código de identificación a cada fabricante o proveedor incluido en ella. Igualmente, el Ministerio de Transportes y Telecomunicaciones, establecerá, por resolución, una nómina de personas jurídicas que acrediten, en la forma y acompañando los antecedentes señalados en el inciso anterior, que el respectivo modelo original con las modificaciones dispuestas con posterioridad a la venta del taxímetro, el que será considerado prototipo, cumple con las exigencias del artículo 1º debiendo asignárseles un código de identificación. El Ministerio de Transportes y Telecomunicaciones, en conocimiento de denuncias sobre la participación de personas incluidas en las nóminas señaladas en los incisos anteriores, vinculadas con irregularidades o manipulaciones cometidas en cualquier tipo o modelo o prototipo de taxímetros debidamente acreditados, previo un proceso breve y sumario que permita la defensa del presunto infractor, podrá eliminarlas de la nómina respectiva. El proceso aludido se iniciará con la notificación personal de la resolución de formulación de cargos, los que deberán ser respondidos dentro del plazo fatal de cinco días hábiles contados desde la fecha de la notificación, debiendo acompañarse en esta oportunidad los medios de prueba que permitan desvirtuarlos. Transcurrido el plazo señalado, el Subsecretario de Transportes, con o en rebeldía de los descargos del presunto infractor y en mérito del proceso, absolverá o dispondrá la eliminación del transgresor de la nómina correspondiente.
+El Ministerio de Transportes y Telecomunicaciones establecerá, por resolución, una nómina de fabricantes o proveedores de taxímetros que hayan acreditado ante éste, que el tipo o modelo que ofrecen, cumple con los requisitos del Artículo 1° y del Artículo 1º bis, en su caso. Para este efecto, deberán acompañar, entre otros antecedentes, un listado del programa computacional en base al cual se verificó dicho cumplimiento. Este programa no podrá modificarse sin aviso previo al Ministerio y de efectuarse cambios en él deberá realizarse una nueva acreditación de cumplimiento de requisitos del respectivo tipo o modelo. En la resolución mencionada se asignará un código de identificación a cada fabricante o proveedor incluido en ella. Igualmente, el Ministerio de Transportes y Telecomunicaciones, establecerá, por resolución, una nómina de personas jurídicas que acrediten, en la forma y acompañando los antecedentes señalados en el inciso anterior, que el respectivo modelo original con las modificaciones dispuestas con posterioridad a la venta del taxímetro, el que será considerado prototipo, cumple con las exigencias del artículo 1º debiendo asignárseles un código de identificación. El Ministerio de Transportes y Telecomunicaciones, en conocimiento de denuncias sobre la participación de personas incluidas en las nóminas señaladas en los incisos anteriores, vinculadas con irregularidades o manipulaciones cometidas en cualquier tipo o modelo o prototipo de taxímetros debidamente acreditados, previo un proceso breve y sumario que permita la defensa del presunto infractor, podrá eliminarlas de la nómina respectiva. El proceso aludido se iniciará con la notificación personal de la resolución de formulación de cargos, los que deberán ser respondidos dentro del plazo fatal de cinco días hábiles contados desde la fecha de la notificación, debiendo acompañarse en esta oportunidad los medios de prueba que permitan desvirtuarlos. Transcurrido el plazo señalado, el Subsecretario de Transportes, con o en rebeldía de los descargos del presunto infractor y en mérito del proceso, absolverá o dispondrá la eliminación del transgresor de la nómina correspondiente.
 
 #### Artículo 3º bis
 
@@ -162,7 +170,7 @@ xv. Listado de funciones operacionales que no son requisitos, pero que son de ut
 
 xvi. Tipo y capacidad de los fusibles del taxímetro, de su instalación y su ubicación.
 
-xvii. Descripción técnica de cumplimiento de cada requisito establecido en el artículo 1º de la presente resolución.
+xvii. Descripción técnica de cumplimiento de cada requisito establecido en el artículo 1º y artículo 1º bis, en su caso, de la presente resolución.
 
 b. Manual del usuario.
 
@@ -197,6 +205,10 @@ En el caso de verificarse el incumplimiento de cualquiera de los requisitos ante
 #### Artículo 8°
 
 DEROGADO
+
+#### Artículo 9º
+
+Para verificar las condiciones de funcionamiento del taxímetro, podrá utilizarse un equipo generador de pulsos eléctricos equivalente a 1.000 Hz., que emule la señal enviada por el sensor de distancias del vehículo al taxímetro. Este equipo deberá estar dotado con los conectores necesarios para intercalarlo en una instalación típica del taxímetro en un vehículo, con el fin de inyectarle los pulsos al taxímetro y verificar el desempeño de éste.
 
 Anótese, tómese razón y publíquese.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 
