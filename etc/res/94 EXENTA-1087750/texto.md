@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº94 EXENTA, DE 29 DE ENERO DE 2016
+
+Resolución exenta Nº 94, de 29 enero de 2016, de la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins, aprueba Contrato Ad-Referéndum de Concesión 2 para operar dos Plantas Revisoras Clase AB en las comunas de Rancagua y San Vicente de Tagua Tagua, en la Región del Libertador General Bernardo O'Higgins, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins y el concesionario "Systech Chile Limitada", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
