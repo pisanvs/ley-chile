@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 96 EXENTA, DE 29 DE ENERO DE 2016
+
+Resolución exenta Nº 96, de 29 enero de 2016, de la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins, aprueba Contrato Ad-Referéndum de Concesión 4 para operar una Planta Revisora Clase B en la comuna de Rancagua y una Planta Revisora Clase AB en la comuna Santa Cruz, en la Región del Libertador General Bernardo O'Higgins, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins y el concesionario "Rocco Tiffou SpA", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
