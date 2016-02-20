@@ -912,7 +912,7 @@ Los taxis, cualquiera sea la modalidad de servicio que presten, podrán contar c
 
 b) servicio de taxi colectivo que atiende un trazado previamente establecido, y
 
-c) servicio de turismo que atiende viajes destinados principalmente a pasajeros de hoteles, aeropuertos y otros orientados a turistas y que operan con tarifa convencional.
+c) servicio de turismo que atiende viajes destinados principalmente a pasajeros de hoteles, aeropuertos y otros orientados a turistas y que operan con tarifa convencional o con taxímetro, cuando la Secretaría Regional autorice la instalación de este último.
 
 Los taxis inscritos en el Registro Nacional respecto de los que se solicite cambio de modalidad o traslado entre los Registros Regionales de Servicios de Transporte de Pasajeros deberán ser nuevos, entendiéndose por tales aquellos cuyo modelo corresponda al mismo año o al posterior a aquel en que se realice la solicitud, y cumplir con los requisitos establecidos en el presente Reglamento. Excepcionalmente, el Ministerio de Transportes y Telecomunicaciones podrá, por resolución y previo informe técnico del respectivo Secretario Regional, establecer, respecto de los traslados entre ciudades o conglomerados de ciudades de una misma Región, la misma exigencia establecida para traslados entre los Registros Regionales.
 
@@ -956,7 +956,7 @@ entendiéndose por puerta sólo aquella que permita el acceso natural de persona
 
 f) contar con sólo dos hileras de asientos en sentido transversal al vehículo;
 
-g) estar dotado de taxímetro en aquellas comunas en que su uso es obligatorio, cuando se trate de servicio de taxi básico. Los taxis colectivos y de turismo no usarán taxímetro, y
+g) estar dotado de taxímetro en aquellas comunas en que su uso es obligatorio, cuando se trate de servicio de taxi básico. Los taxis colectivos y de turismo no usarán taxímetro. No obstante lo anterior, tratándose de taxis de turismo, el Secretario Regional Ministerial podrá autorizar la instalación de taxímetros como mecanismo de cobro, en cuyo caso su uso será opcional, y
 
 h) tener antigüedad de fabricación o modelo no superior a 12 años, entendiéndose por año de modelo o fabricación el anotado en el Registro de Vehículos Motorizados. Esta exigencia no regirá para los vehículos inscritos en cualquier Registro Regional distinto al de la Región Metropolitana, los cuales podrán extender su antigüedad hasta los 15 años, siempre que a contar del año trece realicen y aprueben revisiones técnicas cada cuatro meses.
 
@@ -1034,7 +1034,7 @@ El Ministerio de Transportes y Telecomunicaciones, por resolución, podrá fijar
 
 #### Artículo 80°
 
-Los taxis que usen taxímetro como mecanismo de cobro tarifario deberán exhibir, en un lugar visible del parabrisas delantero, el valor de los primeros 200 m. de recorrido y el monto a cobrar por cada 200 m. de recorrido adicional y por cada 60 segundos de espera.
+Los taxis que usen taxímetro como mecanismo de cobro tarifario deberán exhibir, en un lugar visible del parabrisas delantero, el valor de los primeros 200 m. de recorrido y el monto a cobrar por cada 200 m. de recorrido adicional y por cada 60 segundos de espera. Tratándose de taxis de turismo, los referidos valores y montos deberán exhibirse en letreros orientados hacia el interior del vehículo, con las dimensiones y características a que se refieren los siguientes incisos. En este caso, deberá indicarse, además, que la utilización del taxímetro como mecanismo de cobro quedará a elección del usuario.
 
 El valor de los primeros 200 m. deberá anunciarse mediante un letrero de forma circular de 18 cm. de diámetro, en el cual irá inserto el valor aludido, mediante dígitos de 10 cm. de alto, 3,5 cm. de ancho y 1,0 cm. de espesor de trazo, precedido por el signo pesos. Dicho letrero deberá estar ubicado en la parte superior del parabrisas y al lado opuesto del conductor.
 
@@ -1044,7 +1044,7 @@ Los vehículos dotados de taxímetro que emitan boleto podrán llevar, además, 
 
 Los letreros señalados en los incisos precedentes serán de fondo de color blanco y las letras y números de color negro, exceptúandose el de los vehículos aludidos en el inciso precedente cuyos letreros serán de fondo color rojo y sus letras y números de color blanco reflectante.
 
-En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo.".
+En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo , lo siguiente "En el caso de taxis de turismo, las indicadas leyendas deberán constar en un letrero ubicado al interior del vehículo, cuyas dimensiones y características determinará, por resolución, el Secretario Regional Ministerial de Transportes y Telecomunicaciones.".
 
 El radio urbano dentro del cual tendrá vigencia el uso del taxímetro como mecanismo de cobro tarifario será el definido por el Secretario Regional, conforme con lo dispuesto en el artículo 6°, letra a). Para carreras que se extiendan más allá de dicho radio, la tarifa será convencional. Asimismo, para carreras que utilicen dentro de su recorrido vías entregadas en concesión, en virtud del D.S. MOP N° 900 de 1996 del Ministerio de Obras Públicas, cuya utilización le signifique al operador del taxi un pago, tanto la tarifa a cobrar por el tramo de vía concesionada a utilizar como el recorrido, serán convenidas con el usuario al inicio del viaje. Esta tarifa será adicional al precio que corresponda por cómputo del taxímetro en el total de la carrera.
 
