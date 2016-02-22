@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 40 EXENTA, DE 27 DE ENERO DE 2016
+
+Por resolución exenta Nº 40, de 27 de enero de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, se modifica la resolución exenta Nº 334, de 31 julio de 2014, de esta Secretaría Regional Ministerial, aumentándose la vigencia de los certificados de inscripción de los servicios regulados en la letra c) del resuelvo primero de la citada resolución Nº 334, de 28 a 36 meses y prorrogándose la vigencia de los certificados que vencían el 31 de enero de 2016 hasta el 30 de septiembre de 2016, considerándose, para efectos de fiscalización y control en la vía pública y plantas revisoras de la Región del Biobío, la nueva fecha de vigencia. En lo no modificado, se mantiene vigente la resolución exenta Nº 334/2014, conservando su numeración y fecha.-
+
+René Carvajal Zúñiga, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío (S).
