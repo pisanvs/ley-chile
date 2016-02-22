@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 25 EXENTA, DE 2016
+
+Resolución exenta Nº 25, de 14 de enero de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región de Magallanes y Antártica Chilena, aprueba Contrato Ad-Referéndum de Concesión 1 para operar dos Plantas Revisoras Clase AB, una de en la comuna de Punta Arenas y una en la comuna de Puerto Natales, en la XII Región de Magallanes y Antártica Chilena, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena y el concesionario "Serviden Compañía Limitada", con vigencia de nueve años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Gabriel Muñoz Ovando, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XII Región de Magallanes y Antártica Chilena.
