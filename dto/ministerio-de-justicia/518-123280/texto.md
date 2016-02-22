@@ -788,7 +788,7 @@ El cumplimiento de los requisitos formales sólo da derecho al interno a solicit
 
 Sin perjuicio de lo señalado en el artículo precedente, los permisos de salida sólo podrán concederse a quienes hayan demostrado avances efectivos en su proceso de reinserción social.
 
-Para estos efectos será fundamental el informe psicológico que dé cuenta de la conciencia de delito, del mal causado con su conducta y de la disposición al cambio, de modo que se procure, por una parte, constatar que el interno responde efectiva y positivamente a las orientaciones de los planes y programas de reinserción social y, por otra, evitar la mera instrumentalización del sistema con el fin de conseguir beneficios.
+Para estos efectos será fundamental el informe psicológico que dé cuenta de la conciencia de delito, del mal causado con su conducta y de la disposición al cambio, de modo que se procure, por una parte, constatar que el interno responde efectiva y positivamente a las orientaciones de los planes y programas de reinserción social y, por otra, evitar la mera instrumentalización del sistema con el fin de conseguir beneficios. Tratándose de la concesión de permisos a las personas a que se refiere el artículo 109 bis, el informe respectivo deberá dar cuenta, además, del arrepentimiento del interno por los hechos cometidos.
 
 Por su parte, el informe social deberá referirse expresamente a las posibilidades del interno de contar con medios o recursos de apoyo o asistencia en los términos previstos en la letra d) del artículo 110 de este Reglamento.
 
@@ -796,9 +796,13 @@ Por su parte, el informe social deberá referirse expresamente a las posibilidad
 
 La concesión, suspensión o revocación de los permisos señalados en el artículo 96 será una facultad privativa del Jefe de Establecimiento; sin embargo, sólo podrá concederlos a los internos que gocen de informe favorable del Consejo Técnico.
 
-Para estos efectos se entenderá que existe informe favorable cuando el Consejo Técnico se pronuncie positivamente acerca de la postulación del interno.
+Para estos efectos se entenderá que existe informe favorable cuando el Consejo Técnico se pronuncie positivamente acerca de la postulación del interno. Con todo, tratándose de la concesión de permisos a las personas a que se refiere el artículo 109 bis, se entenderá que el informe es favorable, cuando la unanimidad de los miembros del Consejo Técnico se pronuncie positivamente acerca de la postulación del interno al permiso de que se trate.
 
-Las sesiones de los Consejos Técnicos serán secretas y sus deliberaciones y acuerdos constarán en el acta respectiva.
+Las deliberaciones y acuerdos de las sesiones de los Consejos Técnicos constarán en el acta respectiva.
+
+#### Artículo 98 bis
+
+Sin perjuicio de lo dispuesto en el artículo anterior, para la concesión de permisos a las personas señaladas en el artículo 109 bis, se requerirá, además del informe favorable del Consejo Técnico y de la aprobación de la solicitud por parte del Jefe del Establecimiento, la ratificación de esta última por el Director Regional respectivo.
 
 #### Artículo 99
 
@@ -866,7 +870,15 @@ Cuando se trate de extranjeros condenados que tengan decreto de expulsión del p
 
 #### Artículo 109
 
-Antes de la concesión de cualquiera de los permisos de que trata este Título, deberán analizarse por el Consejo Técnico, cuando corresponda, y en todo caso por el Jefe del Establecimiento, los antecedentes que lo ameriten: la gravedad de la pena asignada al delito; el número de delitos que se le imputaren y el carácter de los mismos; la existencia de procesos pendientes; el hecho de encontrarse sujeto a alguna medida cautelar personal y la existencia de condenas anteriores cuyo cumplimiento se encontrare pendiente, atendiendo a la gravedad de los delitos de que trataren, y en general cualquier referencia relativa a la confiabilidad del beneficiario que permitan presumir que no quebrantará su condena.
+Antes de la concesión de cualquiera de los permisos de que trata este Título, deberán analizarse por el Consejo Técnico, cuando corresponda, y en todo caso por el Jefe del Establecimiento, los antecedentes que lo ameriten: la gravedad de los delitos cometidos; la gravedad de la pena asignada al delito; el número de delitos que se le imputaren y el carácter de los mismos; la existencia de procesos pendientes; el hecho de encontrarse sujeto a alguna medida cautelar personal y la existencia de condenas anteriores cuyo cumplimiento se encontrare pendiente, atendiendo a la gravedad de los delitos de que trataren, y en general cualquier referencia relativa a la confiabilidad del beneficiario que permitan presumir que no quebrantará su condena.
+
+#### Artículo 109 bis
+
+Para efectos de lo dispuesto en el artículo precedente, se entenderá que son especialmente graves los delitos de homicidio, castraciones, mutilaciones, lesiones graves gravísimas, lesiones graves, lesiones menos graves, violación, abuso sexual, secuestro, sustracción de menores, tormentos o apremios ilegítimos, asociación ilícita, inhumaciones y exhumaciones, cualquiera haya sido la denominación que dichas conductas hubieren tenido al momento de su condena, que fueren perpetrados en el contexto de violaciones a los Derechos Humanos, por agentes del Estado o por personas o grupos de personas que actuaron con la autorización, el apoyo o la aquiescencia del Estado.
+
+#### Artículo 109 ter
+
+Para poder autorizar alguno de los permisos de salida regulados en este Título a los condenados por los delitos que se señalan en el artículo precedente, éstos, además de cumplir con los requisitos generales para su obtención, deberán acreditar por cualquier medio idóneo que han aportado antecedentes serios y efectivos en causas criminales por delitos de la misma naturaleza. Para estos efectos se considerará la colaboración realizada en las causas en que actualmente se investigue, se juzgue o se haya juzgado al condenado, incluso cuando aquélla se hubiere prestado con posterioridad a la dictación de la respectiva sentencia condenatoria. La misma regla se aplicará tratándose de la colaboración prestada en causas de la misma naturaleza, seguidas en contra de otras personas.
 
 #### Artículo 110
 
@@ -910,7 +922,7 @@ La libertad por falta de mérito, la revocación de la resolución que lo somete
 
 Los Directores Regionales deberán preocuparse especialmente del cumplimiento de estas disposiciones, así como de las instrucciones que al respecto dicte internamente la Administración Penitenciaria.
 
-En ningún caso esta disposición constituye el establecimiento de una instancia superior al Alcaide en la resolución de los beneficios, sino que corresponde a una expresión de las obligaciones generales de supervisión y fiscalización que a los Directores Regionales asisten respecto de todo el quehacer penitenciario en su respectivo territorio jurisdiccional.
+Salvo en el caso de lo señalado en el artículo 98 bis, esta disposición no constituye el establecimiento de una instancia superior al Alcaide en la resolución de los beneficios, sino que corresponde a una expresión de las obligaciones generales de supervisión y fiscalización que a los Directores Regionales asisten respecto de todo el quehacer penitenciario en su respectivo territorio jurisdiccional.
 
 Los Directores Regionales informarán anualmente a la Subdirección Técnica de Gendarmería de Chile respecto del funcionamiento de los Consejos Técnicos de los establecimientos de su región y de los beneficios que hayan concedido, con indicación de los resultados que se hayan observado.
 
