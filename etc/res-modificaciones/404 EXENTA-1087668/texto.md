@@ -8,6 +8,6 @@ T.R.G. (Nacional) 301,00
 
 Manga (m) 8,32
 
-Puntal(m) 421
+Puntal(m) 4,21
 
 Valparaíso, 9 de febrero de 2016.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
