@@ -50,7 +50,9 @@ Podrán ser elegidos representantes de los afiliados las personas que cumplan lo
 
 a. Tengan a lo menos un año de antigüedad en esta Superintendencia, respecto a la fecha de cierre del padrón electoral.
 
-b. Cuenten con el patrocinio de al menos 10 afiliados del estamento respectivo.
+b. Cuenten con el patrocinio de al menos 10 afiliados al Servicio de Bienestar.
+
+c. Estar afiliado(a) al Servicio de Bienestar, con antigüedad no inferior a dos años;
 
 #### Artículo 5º
 
@@ -224,15 +226,29 @@ El Servicio de Bienestar podrá otorgar a sus afiliados/as, asignaciones, por la
 
 a. Asignación de catástrofe: A otorgarse a sus afiliados por daños sufridos en su domicilio con ocasión de movimientos sísmicos, incendios, inundación u otro tipo de catástrofe similar, que le haya afectado.
 
-b. Asignación de educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares, en los niveles prebásicos, básicos, medio, técnico o de educación superior en algún establecimiento del Estado o reconocido por éste.
+b. Asignación por fallecimiento: se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo nacido que no hubiere sido aún reconocido como carga familiar. En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-c. Asignación de becas de estudio: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados que cumpliendo los requisitos que el Consejo establezca, en términos de situación financiera y excelencia académica, becas de estudio para cursar estudios de Educación Superior en instituciones reconocidas por el Estado, previo informe social del Bienestar.
+1º A la persona designada expresamente para tales efectos por el afiliado;
 
-d. Asignación de ayuda médica: En caso de enfermedad crónica o catastrófica, con tratamiento médico prolongado y de alto costo, el Consejo podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo 22 del presente reglamento.
+2º A la persona que acredite haber efectuado los gastos del funeral;
 
-e. Bono por feriado legal: Se concederá anualmente, por una sola vez, una bonificación al afiliado que tenga derecho y haga uso efectivo de al menos 10 días seguidos de feriado legal en un mismo período. Este bono será pagado una vez tramitada la resolución exenta que lo conceda.
+3º Al cónyuge sobreviviente;
 
-f. Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiese otorgado.
+4º A los hijos;
+
+5º A los padres.
+
+La asignación por fallecimiento del mortinato o del hijo recién nacido que no hubiere sido aún reconocido como carga familiar, será percibida por cualquiera de los padres que la reclame primero, en caso que ambos sean afiliados al Servicio de Bienestar.
+
+c. Asignación de educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares, en los niveles prebásicos, básicos, medio, técnico o de educación superior en algún establecimiento del Estado o reconocido por éste.
+
+d. Asignación de becas de estudio: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados que cumpliendo los requisitos que el Consejo establezca, en términos de situación financiera y excelencia académica, becas de estudio para cursar estudios de Educación Superior en instituciones reconocidas por el Estado, previo informe social del Bienestar.
+
+e. Asignación de ayuda médica: En caso de enfermedad crónica o catastrófica, con tratamiento médico prolongado y de alto costo, el Consejo podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo 22 del presente reglamento.
+
+f. Bono por feriado legal: Se concederá anualmente, por una sola vez, una bonificación al afiliado que tenga derecho y haga uso efectivo de al menos 10 días seguidos de feriado legal en un mismo período. Este bono será pagado una vez tramitada la resolución exenta que lo conceda.
+
+g. Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiese otorgado.
 
 El Consejo Administrativo fijará, a lo menos anualmente, los montos y topes a que ascenderán las distintas asignaciones.
 
