@@ -64,8 +64,6 @@ Definiciones generales:
 
 1.18 U.F.: Unidad de Fomento o Unidades de Fomento.
 
-> **Nota.** El Art. primero N° 1 del Decreto 32, Vivienda, publicado el 16.12.2015, modifica el presente artículo en el sentido de reemplazar, en su N° 1.2, el N° 1.3 por 1.7 y disponer, en su N° 1.3, que los actuales numerales "1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 y 1.16 pasen a ser 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17 y 1.18.". En ambas normas se numera un N° 1.7, lo que ocasiona que la enumeración que se trata de aplicar tenga un numeral sobrante. En esta actualización no se ha considerado el "1.7" contenido en el N° 1.3, de modo que la cantidad de numerales antes y después de la modificación pueda ser coincidente.
-
 CAPÍTULO II. EL SUBSIDIO
 
 ### Párrafo 1º — Del programa

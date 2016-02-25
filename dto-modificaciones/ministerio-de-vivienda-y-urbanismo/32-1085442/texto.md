@@ -28,11 +28,7 @@ Modifícase el DS Nº 52 (V. y U.), de 2013, en la siguiente forma:
 
 1.2 El actual numeral "1.3" pasa a ser "1.7"
 
-1.3 Los actuales numerales "1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13,
-
-1.14, 1.15y 1.16" pasan a ser " 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13,
-
-1.14, 1.15, 1.16, 1.17 y 1.18.".
+1.3 Los actuales numerales "1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 y 1.16", pasan a ser "1.5, 1.6, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17 y 1.18.", respectivamente.".
 
 2. Sustitúyese el artículo 2º por el siguiente:
 
@@ -198,9 +194,7 @@ En caso que se detecte incumplimiento de los requisitos de la vivienda conforme 
 
 20. Modifícase el Artículo 37 en el siguiente sentido:
 
-20.1. En la letra b. insértese después de la locución
-
-"No" la frase "encontrarse beneficiado ni".
+20.1. En la letra b. insértese después de la locución "No" la frase "encontrarse beneficiado ni".
 
 20.2. Elimínase en su letra c. la frase "que sean mayores de 18 años".
 
