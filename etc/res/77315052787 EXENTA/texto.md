@@ -1,0 +1,3 @@
+AUTORÍZASE CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución ex. Nº77315052787 de fecha 11 diciembre de 2015, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Pedro Enrique Ulloa Sánchez, RUT Nº 10.359.368-9, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de especies hidrobiológicas, establecido en la resolución ex. Nº 3.311 del 30 junio de 2000 de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 1º de julio de 2000.
