@@ -40,9 +40,9 @@ Jefes de Departamento 3 19
 
 8 111
 
-9 148
+9 268
 
-10 205
+10 85
 
 -------
 
@@ -140,11 +140,7 @@ b.- Para los cargos de Piloto Inspector tener licencia de Piloto de Aeronaves, p
 
 ESPECIFICOS
 
-Grado 10 Ciento veinte cargos serán para
-
-Controladores de Tránsito Aéreo; dieciocho
-
-cargos serán para Electricistas
+Grado 10 Dieciocho cargos serán para Electricistas
 
 Aeroportuarios; veinticuatro cargos serán
 
@@ -168,9 +164,11 @@ será para Administrador Público; un cargo
 
 será para Arquitecto; un cargo será para
 
-Contador Auditor; setenta y cinco cargos
+Contador Auditor; ciento noventa y cinco
 
-serán para Controladores de Tránsito Aéreo;
+cargos serán para Controladores
+
+de Tránsito Aéreo;
 
 un cargo será para Constructor Civil;
 
