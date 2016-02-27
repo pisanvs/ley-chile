@@ -60,7 +60,7 @@ Las empresas certificadoras (Surveyor) serán responsables de los datos contenid
 
 Tanto las empresas certificadoras, terminales e importadores podrán ser fiscalizadas, de conformidad a lo dispuesto en el artículo 22 de la Ley Orgánica del Servicio de Aduanas DFL Nº 329/1979.
 
-1.4 Las empresas importadoras de combustibles sujetas a medición en la descarga o bien en su depósito en estanques, deberán mantener a disposición de las Unidades de Fiscalización, por el plazo que establece la Ordenanza de Aduanas, a contar de la fecha de la importación, todos los antecedentes y documentación asociada a la importación, comercialización y de carácter contable del producto, que permita efectuar seguimientos de trazabilidad en toda la cadena logística.
+1.4 Los despachadores de aduanas intervinientes en estas operaciones de importación de combustibles, sujetas a medición en la descarga o bien en su depósito en estanques, deberán mantener a disposición de las Unidades de Fiscalización, la carpeta del despacho por el plazo establecido en el número 3 del artículo 201 de la Ordenanza de Aduanas. Además, en caso de requerimientos de una fiscalización a posteriori, la empresa importadora deberá conservar los documentos asociados al ingreso y despacho de las mercancías, desde los recintos de depósito. Además deberá mantener los registros contables, conforme al plazo establecido por el Servicio de Impuestos Internos.
 
 ### 2. ALMACENAMIENTO Y MEDICIÓN DE ESTANQUES:
 
@@ -388,7 +388,7 @@ contingencia, el despachador que interviene
 
 deberá tramitar ante la respectiva Aduana, una
 
-SMDA manual que permita modificar la DIN,
+SMDA que permita modificar la DIN,
 
 conforme a lo dispuesto en el Manual de Pago. La
 
@@ -426,6 +426,32 @@ Aduanas, sobre el total excedido, por haberse
 
 sobrepasado el margen de tolerancia.
 
+c) No obstante lo anterior, cuando se trate de
+
+combustibles líquidos a granel, se podrá
+
+invocar el régimen preferencial aun cuando
+
+exista una diferencia entre la cantidad
+
+certificada como originaria y la cantidad
+
+resultante recepcionada según la Hoja de
+
+Medida. Para estos efectos se podrá acceder
+
+a la preferencia arancelaria hasta un 0,4%
+
+sobre el monto total consignado en el
+
+respectivo certificado de origen. El resto
+
+del exceso se deberá importar bajo régimen
+
+general.
+
+De igual forma, se deberá proceder para !a hulla bituminosa y ácido sulfúrico concentrado, presentados a gráneles sólidos, pero con una tolerancia del 0,3% sobre el monto total consignado en el respectivo certificado de origen, el resto del exceso se deberá importar bajo régimen general.
+
 8.1.3 La SMDA a que se alude en las letras a) y b),
 
 deberá presentarse dentro del plazo de tres
@@ -446,45 +472,47 @@ Estas diferencias, entre la DAPI y la DIN, generalmente se deben a variaciones e
 
 8.2.1 Tratándose de gráneles líquidos, los
 
-despachadores de Aduana deberán corregir los
+despachadores de aduana deberán
 
-valores de los DAPI conforme al resultado de la
+corregir los valores del DAPI, conforme
 
-medición final de las Hojas de Medida o
+al resultado de la medición de las Hojas de
 
-Papeleta de Recepción, según corresponda, ya
+Medida o Papeleta de Recepción, según
 
-sea que éstas contemplen mercancías en exceso o
+corresponda, ya sea que éstas contemplen
 
-en defecto, de manera que estas destinaciones
+mercancías en exceso o en defecto, de manera
 
-aduaneras de régimen suspensivo amparen la
+que esta destinación aduanera de régimen
 
-cantidad de mercancías que efectivamente fueron
+suspensivo ampare la cantidad de mercancía
 
-recibidas. Esta modificación se deberá efectuar
+que efectivamente fueron recibidas. Esta
 
-con la debida antelación a la tramitación de la
+modificación se deberá efectuar con la debida
 
-declaración que abona o cancela el DAPI,
+antelación a la tramitación de la declaración
 
-mediante la presentación manual de una SMDA en
+que cancela el DAPI, mediante la tramitación
 
-que se deberá considerar como documento de
+electrónica de una SMDA. Para estos efectos
 
-base, la respectiva Hoja de Medida Final o
+el despachador deberá contar como documento
 
-Papeleta de Recepción y el Conocimiento de
+de base en la carpeta de despacho, para
 
-Embarque, los que se deberán acompañar a esta
+futuras fiscalizaciones, la Hoja de Medida
 
-Solicitud de modificación. Estas SMDA no
+Final o Papeleta de Recepción, además del
 
-estarán sujetas a denuncia por infracción
+Conocimiento de Embarque. Esta SMDA no estará
 
-reglamentaria en la medida que las diferencias
+sujeta a denuncia por infracción reglamentaria
 
-en la cantidad de mercancías no sobrepasen la
+en la medida que las diferencias en la
+
+cantidad de mercancías no sobrepase la
 
 tolerancia del 5%.
 
@@ -561,6 +589,28 @@ descritos anteriormente, en lo pertinente.
 mermas y/o de excesos a fin de prorratearlos
 
 entre los consignatarios.
+
+No obstante lo anterior, tratándose de
+
+combustibles descargados desde una misma
+
+nave para varios consignatarios, el
+
+Almacenista no considerará para efectos
+
+del prorrateo de mermas y/o excesos a las
+
+mercancías consignadas a las FF.AA.,
+
+Carabineros de Chile y Policía de
+
+Investigaciones, es decir, entregará el
+
+total del volumen, consignado en el
+
+respectivo conocimiento de embarque, a
+
+dichos consignatarios.
 
 8.3.3 Este tipo de almacenamiento es usado por
 
