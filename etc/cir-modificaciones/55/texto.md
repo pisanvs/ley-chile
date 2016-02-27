@@ -1,0 +1,9 @@
+MODIFICA EN LO QUE INDICA EL TÍTULO VIII DE LA CIRCULAR UAF Nº 49, DE 2013, Y ARTÍCULO SEXTO DE CIRCULAR UAF Nº 54, DE 2015, AMBAS RELATIVAS A LAS RESOLUCIONES DICTADAS POR EL CONSEJO DE SEGURIDAD DE NACIONES UNIDAS EN MATERIA DE PREVENCIÓN DEL DELITO DE FINANCIAMIENTO DEL TERRORISMO
+
+Extracto de circular de la Unidad de Análisis Financiero Nº 55, de 28 de diciembre de 2015, que señala:
+
+De acuerdo a lo establecido en la ley Nº19.913, de 2003, actualizada por la ley Nº20.818, de 2015, y en concordancia con la facultad legal expresada en la letra f) del artículo 2º del mismo cuerpo legal, en cuanto a impartir instrucciones de carácter general a las personas naturales y jurídicas que ejercen una actividad económica de aquellas que la propia ley señala en su artículo 3º, y con lo indicado en el decreto supremo Nº227, de 2015, del Ministerio de Relaciones Exteriores, se han dictado las presentes instrucciones para ser cumplidas por todos los sujetos obligados, las que modifican el Título VIII de la circular UAF Nº49, de 2013, y el artículo sexto de la circular UAF Nº54, de 2015, en el sentido de agregar los listados derivados del cumplimiento de lo establecido en las resoluciones del Consejo de Seguridad de Naciones Unidas Nº1.373, de 2001, además de las listas derivadas de las siguientes resoluciones y que complementen los listados ya publicados del Comité Nº 1.267, a saber: Resoluciones Nº2.161, de 2014; Nº2.170, de 2014; Nº2.178, de 2014, y Nº2.253, de 2015, los que serán publicados en la sección "Listas de Resoluciones ONU", del sitio web institucional de la Unidad de Análisis Financiero.
+
+El texto íntegro de esta circular está publicado en la página web de la Unidad de Análisis Financiero (www.uaf.cl).-
+
+Manuel Zárate Campos, Jefe División Jurídica Unidad de Análisis Financiero.
