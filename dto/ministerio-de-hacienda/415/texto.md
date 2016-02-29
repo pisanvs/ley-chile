@@ -36,7 +36,7 @@ Una vez ingresada a trámite la solicitud, el Instituto de Previsión Social pro
 
 a) Al Servicio de Registro Civil e Identificación: La información referente a roles únicos nacionales; fecha de celebración del matrimonio; inscripción en el registro señalado en el inciso segundo del artículo 135 del Código Civil cuando corresponda; si el matrimonio hubiere terminado por cualquier causa legal; si los cónyuges se encuentran separados de conformidad con lo dispuesto en el capítulo III de la ley Nº 19.947, de Matrimonio Civil; si los cónyuges se encuentran divorciados de conformidad con la Ley de Matrimonio Civil del 10 de enero de 1884, y el estado civil de viudo o viuda, cuando corresponda.
 
-b) Al Ministerio de Planificación: La información referente al puntaje obtenido por los cónyuges como resultado de la aplicación de la Ficha de Protección Social o el instrumento que la reemplace para los efectos del artículo 5º del presente reglamento, y si los cónyuges pertenecen al mismo hogar de acuerdo a la información contenida en dicha Ficha. En el caso que el solicitante sea el viudo o la viuda, verificará si se encuentran dentro del umbral de focalización señalado en el artículo antes mencionado.
+b) Al Ministerio de Desarrollo Social: El quintil al que pertenecen los cónyuges, de acuerdo a la Calificación Socioeconómica establecida en el artículo 33 del Reglamento del artículo 5º de la ley Nº20.379 y del artículo 3º de la letra f) de la ley Nº20.530, aprobado por el decreto Nº22 de 2015, del Ministerio de Desarrollo Social, para los efectos del artículo 5º del presente reglamento, y si los cónyuges pertenecen al mismo hogar de acuerdo a la información contenida en el Registro Social de Hogares, establecido en el referido decreto. En el caso que el solicitante sea el viudo o la viuda, verificará si se encuentra dentro del umbral de focalización señalado en el artículo antes mencionado.
 
 c) A la Policía de Investigaciones de Chile: La información que ésta registre de los eventuales beneficiarios del bono, sobre entradas y salidas del territorio de la República de Chile, con el objeto de verificar el cumplimiento del requisito de residencia establecido en la letra f) del artículo 1º de la ley 20.506.
 
@@ -46,13 +46,13 @@ Con todo, el Instituto de Previsión Social podrá otorgar el bono si los cónyu
 
 #### Artículo 4º
 
-El requisito de residencia en común, establecido en la letra e) del artículo 1º de la ley Nº 20.506, se acreditará mediante la información contenida en la Ficha de Protección Social a que se refiere el decreto supremo Nº 291, de 2006, del Ministerio de Planificación.
+El requisito de residencia en común, establecido en la letra e) del artículo 1º de la ley Nº 20.506, se acreditará mediante la información contenida en el Registro Social de Hogares, a que se refiere el reglamento del artículo 5º de la ley Nº 20.379 y del artículo 3º de la letra f) de la ley Nº 20.530, aprobado por el decreto Nº22 de 2015, del Ministerio de Desarrollo Social.
 
 Los cónyuges solicitantes no estarán afectos a lo dispuesto en el inciso anterior, cuando ambos o cualquiera de ellos resida en un establecimiento de larga estadía para adultos mayores reconocido por la autoridad competente. En este caso, deberán acreditar dicha situación mediante un certificado otorgado por el mencionado establecimiento.
 
 #### Artículo 5º
 
-Para efectos de determinar si los cónyuges o el viudo o la viuda integran un hogar perteneciente a los cuatro primeros quintiles, el Instituto de Previsión Social deberá verificar que los solicitantes cuenten con un puntaje igual o inferior a 14.557 puntos como resultado de la aplicación de la Ficha de Protección Social que establece el decreto supremo Nº 291, de 2006, del Ministerio de Planificación, o el instrumento que la reemplace, a la fecha de presentación de la solicitud para acceder al bono.
+Para efectos de determinar si los cónyuges o el viudo o la viuda cumplen con el requisito de integrar un hogar perteneciente a los cuatro primeros quintiles establecido en la letra e) del artículo 1º de la ley Nº20.506, el Instituto de Previsión Social deberá verificar que los solicitantes cumplen con esta condición, de conformidad con lo establecido por la Calificación Socioeconómica a que se refiere el artículo 33 del reglamento del artículo 5º de la ley Nº20.379 y del artículo 3º letra f) de la ley Nº 20.530, aprobado por el decreto Nº 22 de 2015, del Ministerio de Desarrollo Social, a la fecha de presentación de la solicitud para acceder al bono.
 
 #### Artículo 6º
 
