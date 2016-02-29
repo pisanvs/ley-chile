@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 132 EXENTA DE 15 DE FEBRERO DE 2016
+
+Por resolución exenta Nº 132 del 15 de febrero 2016, de la Secretaría Regional Ministerial de la Región de Atacama, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Atacama, celebrado con el concesionario Revisiones Atacama Ltda., aprobado por la resolución exenta Nº 240 de fecha 14 de junio de 2004 de la citada Secretaría Regional, hasta el día 31 de mayo de 2016 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esa Región, a través de la resolución Nº 279, de 11 de diciembre de 2013, modificada por la resolución Nº 129, de 25 de abril de 2014, cualquiera que ocurra primero.-
+
+Ericka Portilla Barrios, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama.
