@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.361 del 30/12/2015, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Equiapamiento Comercial EFGH Condominio Social Marconi, Rol de Avalúo 444-142 comuna de Los Ángeles, de aparente dominio de Comuneros de la ex. Asamblea de Programa Número Doce de Cohab Limitada. La superficie afecta a expropiación parcial de terreno es de 50,00 m2, cuyos linderos particulares, enmarcados en el polígono E-F-G-H-E del plano S8R-33289-1, son los siguientes: Norponiente: Tramo EF en 25,00 m con otros propietarios. Nororiente: Tramo FG en 2,00 m con calle Ricardo Castro; Suroriente: Tramo GH en 25,00 m con resto equipamiento comercial Rol 00444-00142. Surponiente: Tramo HE en 2,00 m con Estacionamiento de la Población Pedro Lagos Rol 444-0001 al 444-00141. Conforme artículo 51 ley 16.391 y D.L. 2186. Comisión de Peritos integrada por la arquitecta María Alejandra Gutiérrez Flores, arquitecta Lía Eliana Fuentealba Rohland y arquitecta Nataly Alejandra Zúñiga Castillo, que fijó el monto de la indemnización provisional por la expropiación parcial, en la suma de $7.740.000.-
+
+Director (S) Serviu Región del Biobío.
