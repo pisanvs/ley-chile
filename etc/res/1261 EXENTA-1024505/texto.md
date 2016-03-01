@@ -116,15 +116,15 @@ Podrán adquirir la calidad de "adherentes" al Fondo Solidario todas aquellas pe
 
 2. Beneficiario de Retención Judicial por pensión alimenticia de un cotizante al Fondo de Medicina Curativa no incorporado al Fondo Solidario (sólo si es carga familiar del imponente).
 
-#### Artículo 5
+#### Artículo 5º
 
 Serán beneficiarios del Fondo Solidario:
 
-a) Los adherentes.
+a) Los adherentes
 
 b) Las cargas familiares reconocidas legalmente por los adherentes.
 
-c) Los padres e hijas solteras mayores de 21 años, que vivan a expensas del adherente, reconocidas como tales por el Departamento de Salud (cargas médicas).
+c) Los padres que vivan a expensas del adherente, reconocidos como cargas médicas por el Departamento de Salud.
 
 #### Artículo 6
 
@@ -140,7 +140,7 @@ De la Incorporación y Renuncia
 
 La incorporación al Fondo Solidario es voluntaria y debe ser solicitada por escrito por el imponente o su apoderado y tendrá una duración indefinida. Igual procedimiento podrán seguir las beneficiarias de una Retención Judicial que cumplan con el requisito de ser carga familiar del imponente.
 
-La incorporación al Fondo Solidario, si bien da derecho a acceder al crédito de medicina curativa, considera un período de carencia para el inicio de las coberturas del beneficio Complementario y Beneficio de Desgravamen, correspondiente al lapso que medie entre la fecha de la incorporación y el tercer mes de aporte monetario efectivo al Fondo.
+Los beneficios del Fondo Solidario, consideran un período de carencia para su aplicación, equivalente al lapso que medie entre la fecha de incorporación y el tercer mes de aporte efectivo al Fondo.
 
 En los casos de las(o)s beneficiaria(o)s de montepío, en los cuales el causante de la pensión se encontraba adherido al Fondo Solidario, a lo menos un año antes del mes de fallecimiento y que continúen desde su primer pago de pensión en dicho Fondo, sólo operará carencia para la cobertura del Beneficio de Desgravamen, aplicándose continuidad en el beneficio de Gastos de Hospitalización.
 
