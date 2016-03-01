@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº 34 de 12 de febrero de 2016, y de conformidad con la facultad otorgada en el art.3º letra a), 10º letra c), 14º letra e) y 105 del DFL MOP. Nº 850 de 1997, se rectifica Decreto MOP Exento Nº 903 de 24 septiembre de 2015, respecto a la superficie del Lote Nº 178, señalando que ésta es 330 m2., y no como se señala en el Decreto que se rectifica.
+
+Fiscal del Ministerio de Obras Públicas.
