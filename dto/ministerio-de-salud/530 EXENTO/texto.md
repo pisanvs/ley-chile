@@ -66,7 +66,7 @@ transitorio: Déjase establecido que los estándares generales de probidad y tra
 
 #### Artículo segundo
 
-transitorio: Déjase establecido que durante los primeros 3 (tres) meses de la entrada en vigencia de la ley, los prestadores darán cuenta del cumplimiento de los estándares que por este decreto se aprueban a través de una declaración del Director del establecimiento. Sin perjuicio de lo anterior, los postulantes deberán acompañar los medios de verificación que respaldan el cumplimiento de los estándares conforme a la norma técnica, dentro del plazo de 2 (dos) meses, contados desde la fecha de la declaración jurada. Cumplido dicho plazo, de no haberse presentado los respectivos medios de verificación, el prestador perderá la calidad de aprobado.
+transitorio: Déjase establecido que durante los primeros 3 (tres) meses de la entrada en vigencia de la ley, los prestadores darán cuenta del cumplimiento de los estándares que por este decreto se aprueban a través de una declaración del Director del establecimiento. Sin perjuicio de lo anterior, los postulantes deberán acompañar los medios de verificación que respaldan el cumplimiento de los estándares conforme a la norma técnica, dentro del plazo de 4 (cuatro) meses, contados desde la fecha de la declaración jurada. Cumplido dicho plazo, de no haberse presentado los respectivos medios de verificación, el prestador perderá la calidad de aprobado.
 
 Con todo, si la comisión asesora para la evaluación de prestadores, estima que el prestador postulante no cumple con los requisitos establecidos en los estándares indicados en esta norma técnica, podrá recomendar la no aprobación del prestador, hasta que se acompañe la totalidad de los medios de verificación exigidos por ésta.
 
