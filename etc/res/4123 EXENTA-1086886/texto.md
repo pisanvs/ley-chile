@@ -26,6 +26,8 @@ Establécense para el año 2016 los montos anuales del beneficio por renovación
 
 .
 
+En caso que el vehículo entrante cumpla con incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad y no se encuentre comprendido en las tablas anteriores, el Beneficio por Renovación ascenderá a $300.000.
+
 Adicionalmente, el bono de incentivo a la Chatarrización para las regiones de Arica y Parinacota, Tarapacá, Aysén, Magallanes y la Antártica Chilena, será equivalente a $1.200.000.
 
 Anótese, comuníquese y publíquese.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
