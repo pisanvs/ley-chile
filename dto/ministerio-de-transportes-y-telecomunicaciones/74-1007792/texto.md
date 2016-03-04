@@ -6,25 +6,27 @@ Decreto:
 
 #### Artículo 1º
 
-El reconocimiento como vehículo antiguo o histórico a que se refiere el artículo 220 de la ley 18.290, sólo podrá declararse respecto de vehículos motorizados que se encuentren debidamente conservados o restaurados a su condición original y que tengan cuarenta o más años de antigüedad, o que sin tenerlos, revistan un singular interés técnico o histórico.
+El reconocimiento como vehículo antiguo o histórico a que se refieren los artículos 218 del decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto Refundido, Coordinado y Sistematizado de la ley 18.290, de Tránsito, y 21 inciso cuarto de la ley Nº 18.483, sólo podrá declararse respecto de vehículos motorizados que se encuentren debidamente conservados o restaurados a su condición original. En el caso del artículo 218, citado, los vehículos deberán tener cuarenta o más años de antigüedad, o que sin tenerlos, revistan un singular interés técnico o histórico; tratándose del artículo 21 referido, los vehículos que se deseen importar deberán tener 50 o más años de antigüedad.
 
 La antigüedad se calculará restando al año en que se realiza el cómputo, el año de fabricación del vehículo. Si no fuere posible establecer fehacientemente el año de fabricación del vehículo se adoptará como tal el año en que el correspondiente modelo se dejó de fabricar.
 
+En el caso de los vehículos a que se refiere el inciso cuarto del artículo 21 de la ley Nº 18.483, y a efectos de obtener el reconocimiento como antiguo o histórico conforme lo dispone el artículo 2 siguiente, deberá tramitarse la respectiva destinación aduanera de régimen suspensivo. Solo una vez obtenida la resolución a que se refiere el artículo 2 citado y cumplidas las exigencias dispuestas por el Servicio Nacional de Aduanas, se podrá tramitar la respectiva declaración de importación.
+
 #### Artículo 2º
 
-El reconocimiento como vehículo antiguo o histórico deberá solicitarse fundadamente por el propietario al Secretario Regional Ministerial de Transportes y Telecomunicaciones, en adelante Secretario Regional, de la región correspondiente a su domicilio.
+El reconocimiento como vehículo antiguo o histórico deberá solicitarse fundadamente por el propietario o el importador al Secretario Regional Ministerial de Transportes y Telecomunicaciones, en adelante Secretario Regional, de la región correspondiente a su domicilio.
 
-La solicitud deberá indicar, a lo menos, el nombre y apellidos del propietario, RUT, domicilio y número telefónico; y respecto del vehículo, se indicará la marca, modelo, año de fabricación y patente única si tuviere.
+La solicitud deberá indicar, a lo menos, el nombre y apellidos del propietario o el importador, RUT, domicilio y número telefónico; y respecto del vehículo, se indicará la marca, modelo, año de fabricación y patente única si tuviere.
 
-La solicitud deberá acompañarse de un informe expedido por una institución designada por el Ministro de Transportes y Telecomunicaciones para practicar la labor de inspección e informe a que se refiere el artículo 221 de la ley 18.290, y cuya designación se hará conforme a lo señalado en el artículo 3º siguiente.
+La solicitud deberá acompañarse de un informe expedido por una institución designada por el Ministro de Transportes y Telecomunicaciones para practicar la labor de inspección e informe a que se refiere el artículo 219 del decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto Refundido, Coordinado y Sistematizado de la ley 18.290, de Tránsito, y cuya designación se hará conforme a lo señalado en el artículo 3º siguiente.
 
 El reconocimiento como vehículo antiguo o histórico se hará mediante resolución del Secretario Regional, en la que se incluirán las restricciones a la circulación que por razones de construcción afectarán al vehículo y las condiciones técnicas que no le serán exigidas en la revisión técnica.
 
-Con la resolución anterior, se entregará al propietario un distintivo, cuyas características determinará la Subsecretaría de Transportes en el que, a lo menos, conste la condición reconocida al vehículo, sea antiguo o histórico, y la individualización de la respectiva resolución.
+Con la resolución anterior, se entregará al propietario o el importador un distintivo, cuyas características determinará la Subsecretaría de Transportes en el que, a lo menos, conste la condición reconocida al vehículo, sea antiguo o histórico, y la individualización de la respectiva resolución.
 
 #### Artículo 3º
 
-Las instituciones privadas y sin fines de lucro que tengan dentro de sus objetivos fomentar la conservación de vehículos antiguos o históricos, podrán ser designadas para efectuar la labor de inspección e informe a que se refiere el artículo 221 de la ley 18.290.
+Las instituciones privadas y sin fines de lucro que tengan dentro de sus objetivos fomentar la conservación de vehículos antiguos o históricos, podrán ser designadas para efectuar la labor de inspección e informe a que se refiere el artículo 219 del decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto Refundido, Coordinado y Sistematizado de la ley 18.290, de Tránsito.
 
 La designación se formalizará mediante resolución dictada por el Ministro de Transportes y Telecomunicaciones, previa solicitud en la que deberá indicarse el nombre de la institución, RUT, domicilio, número telefónico y correo electrónico, acompañada de los instrumentos legales que acrediten su constitución, vigencia, la personería de quien comparece por ella y los antecedentes que comprueben su objeto institucional.
 
@@ -32,7 +34,7 @@ La resolución de designación podrá ser dejada sin efecto por otra resolución
 
 #### Artículo 4º
 
-El informe de la institución designada a que se refiere el artículo anterior, se expedirá después de examinar el respectivo vehículo así como los antecedentes que haya presentado el propietario. El citado informe deberá contener como mínimo, los datos de marca, modelo, año de fabricación, tipo de vehículo, color de pintura, números identificatorios y placa patente única si procediere, e incluirá cuatro fotografías en color, correspondientes a las partes delantera y trasera y a ambos laterales del vehículo. En el informe se hará referencia a las características técnicas del modelo y vehículo de que se trata, y a la condición de partes y piezas del vehículo que se estimare del caso incluir. El informe, a partir de los aspectos constructivos del vehículo, señalará las condiciones que deberán tenerse presente tanto al practicar la revisión técnica como al fijar restricciones a su circulación.
+El informe de la institución designada a que se refiere el artículo anterior, se expedirá después de examinar el respectivo vehículo así como los antecedentes que haya presentado el propietario o el importador. El citado informe deberá contener como mínimo, los datos de marca, modelo, año de fabricación, tipo de vehículo, color de pintura, números identificatorios y placa patente única si procediere, e incluirá cuatro fotografías en color, correspondientes a las partes delantera y trasera y a ambos laterales del vehículo. En el informe se hará referencia a las características técnicas del modelo y vehículo de que se trata, y a la condición de partes y piezas del vehículo que se estimare del caso incluir. El informe, a partir de los aspectos constructivos del vehículo, señalará las condiciones que deberán tenerse presente tanto al practicar la revisión técnica como al fijar restricciones a su circulación.
 
 Los costos que irrogue la elaboración del informe, serán de cargo de quien lo solicite.
 
