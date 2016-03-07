@@ -1,36 +1,36 @@
-APRUEBA REGLAMENTO QUE REGULA LOS APORTES REEMBOLSABLES DESTINADOS A INICIATIVAS DE INVERSIÓN DE LAS MUNICIPALIDADES PARA EL DESARROLLO DE LAS CIUDADES
+SUSTITUYE EL TEXTO DEL DECRETO Nº196, DE 2011, DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA, QUE APROBÓ EL REGLAMENTO QUE REGULA LOS APORTES REEMBOLSABLES DESTINADOS A INICIATIVAS DE INVERSIONES DE LAS MUNICIPALIDADES PARA EL DESARROLLO DE LAS CIUDADES
 
-Santiago, 24 de marzo de 2011.- Hoy se decretó lo que sigue:
+Núm. 1.015.- Santiago, 30 de julio de 2015.
 
-Núm. 196.- Visto: Lo dispuesto en los artículos 32 Nº6 y 35 de la Constitución Política de la República de Chile; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley de Presupuestos del Sector Público 2011, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley de Presupuestos del Sector Público vigente, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-Que, la ley Nº 20.481 de Presupuestos del Sector Público 2011 considera recursos en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, destinados a la entrega de aportes reembolsables a las municipalidades que se determinen, para el financiamiento de iniciativas de inversión para el desarrollo de las ciudades.
+1. Que, la Ley de Presupuestos del Sector Público vigente, considera recursos en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, destinados a la entrega de aportes reembolsables a las municipalidades para el financiamiento de inversiones para el desarrollo de las ciudades.
 
-Que, para la entrega de los mencionados recursos se requiere determinar un programa de acción, que se denominará Programa de Inversión Desarrollo de las Ciudades, dirigido a incentivar a las municipalidades que demuestren una gestión responsable en el manejo de sus recursos, mediante el acceso a fondos que les permitan solventar operaciones que involucren una concentración temporal de desembolsos a cambio de ingresos futuros, promoviendo de esta forma la eficiencia y la disciplina financiera.
+2. Que la citada Ley en la Glosa Nº 04 del Programa 03 del presupuesto correspondiente a la Subsecretaría de Desarrollo Regional y Administrativo dispone que la aplicación de los recursos que considera se regirá por lo establecido en el decreto supremo Nº 196, de 2011, del Ministerio del Interior y seguridad Pública.
 
-Que, el objetivo principal del Programa aludido, es procurar el diseño y aplicación de programas municipales de inversión en infraestructura comunal, aumentando la capacidad de las municipalidades para mejorar la calidad de vida de sus ciudadanos, con mayor autonomía financiera y capacidad de gestión.
+3. Que, el objetivo principal del Programa aludido, es procurar el diseño y aplicación de programas municipales de inversión en infraestructura comunal, aumentando la capacidad de las municipalidades para mejorar la calidad de vida de sus ciudadanos, con mayor autonomía financiera y capacidad de gestión.
 
-Que, la Ley de Presupuestos del Sector Público 2011, ordena la elaboración del presente reglamento para efectos de determinar las normas de procedimiento y demás requisitos necesarios para acceder a los mencionados aportes, y los montos máximos que se podrán aprobar por cada municipalidad seleccionada, entre otras materias.
+4. Que, para una mayor expedición en el desarrollo del programa respectivo es necesario sustituir el texto del decreto Nº 196, antes citado.
 
 Decreto:
 
-Apruébase el siguiente Reglamento para establecer los procedimientos, requisitos y demás normas necesarias para el otorgamiento de aportes reembolsables a las municipalidades del país, destinado al financiamiento de iniciativas de inversión para el desarrollo de las ciudades:
+#### Artículo único
+
+<!-- parte:9680833 -->
+
+Sustitúyese el texto del decreto Nº196, de 2011, del Ministerio del Interior y Seguridad Pública, que aprobó el Reglamento que regula los aportes reembolsables destinados a financiar iniciativas de inversión de las Municipalidades para el Desarrollo de las Ciudades, por el siguiente:
 
 ## Título I
 
-Disposiciones generales
+Disposiciones Generales
 
-#### Artículo 1º
-
-<!-- parte:9198547 -->
+#### Artículo 1º (art. único)
 
 El presente reglamento regula el procedimiento de acceso, postulación y selección de las municipalidades a los aportes reembolsables, destinados al financiamiento de iniciativas de inversión, en adelante "iniciativas", para el desarrollo de las ciudades, en el marco de un Programa de Inversión de Desarrollo de las Ciudades, incluido en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, en adelante "Subdere". Las municipalidades podrán postular iniciativas para su financiamiento durante el correspondiente año presupuestario.
 
-#### Artículo 2º
-
-<!-- parte:9198548 -->
+#### Artículo 2º (art. único)
 
 El Programa de Inversión Desarrollo de las Ciudades, en adelante "el Programa", tendrá como objeto la adquisición, construcción, habilitación, reposición o reparación de inmuebles y su equipamiento, vinculados exclusivamente con inversión en infraestructura urbana o edificación que contribuyan a materializar objetivos estratégicos del desarrollo comunal. Se podrá financiar iniciativas relativas a:
 
@@ -52,9 +52,7 @@ El Programa de Inversión Desarrollo de las Ciudades, en adelante "el Programa",
 
 Las municipalidades deberán dar cumplimiento a la normativa relacionada con los distintos tipos de iniciativas, así como asegurar la debida coordinación sectorial.
 
-#### Artículo 3º
-
-<!-- parte:9198549 -->
+#### Artículo 3º (art. único)
 
 A cada municipalidad se podrá autorizar hasta 250.000 UF (doscientas cincuenta mil unidades de fomento), para financiar un máximo de dos iniciativas por año presupuestario. Por su parte, cada iniciativa no podrá tener un costo inferior a 16.000 UF (diez y seis mil unidades de fomento).
 
@@ -62,15 +60,11 @@ El monto máximo a autorizar anualmente por el Programa estará determinado en l
 
 Los requisitos de evaluación técnica y económica que deberán cumplir las iniciativas tomarán como base los requerimientos para la inversión pública, definidos por el Ministerio de Desarrollo Social. La Dipres y Subdere podrán requerir otros antecedentes para verificar la evaluación técnica y económica antes mencionada.
 
-#### Artículo 4º
-
-<!-- parte:9198550 -->
+#### Artículo 4º (art. único)
 
 Los recursos que se transfieran a los municipios se incorporarán en los presupuestos municipales como endeudamiento e incrementarán la inversión municipal y/o adquisición de activos no financieros financiadas con recursos propios.
 
-#### Artículo 5º
-
-<!-- parte:9198551 -->
+#### Artículo 5º (art. único)
 
 Para efectos de lo dispuesto en este Reglamento, Subdere deberá:
 
@@ -88,9 +82,7 @@ e) Informar a Dipres, semestralmente, el descuento efectivo de aportes reembolsa
 
 Requisitos de las municipalidades para participar en el Programa
 
-#### Artículo 6º
-
-<!-- parte:9198553 -->
+#### Artículo 6º (art. único)
 
 Las municipalidades que cumplan con los siguientes requisitos, podrán postular sus iniciativas en la forma que Subdere lo informe y solicite oportunamente.
 
@@ -104,9 +96,7 @@ La municipalidad que no disponga de una evaluación de riesgo financiero deberá
 
 d) Contar con la capacidad de endeudamiento que le permita la devolución de los aportes reembolsables autorizados por el Programa. Se entenderá por capacidad de endeudamiento, la disponibilidad de fondos suficientes para cubrir el costo total del proyecto en el plazo de 8 años.
 
-#### Artículo 7º
-
-<!-- parte:9198554 -->
+#### Artículo 7º (art. único)
 
 Para determinar el requisito señalado en la letra a) del Artículo 6º anterior, Subdere verificará la situación de las municipalidades según la información del Sistema Nacional de Información Municipal (Sinim).
 
@@ -152,9 +142,7 @@ No obstante Subdere y Dipres podrán abstenerse de evaluar una iniciativa o de a
 
 Requisitos de las iniciativas postuladas al Programa
 
-#### Artículo 8º
-
-<!-- parte:9198556 -->
+#### Artículo 8º (art. único)
 
 Junto con los requisitos de postulación señalados en el artículo 6º precedente deberán acompañarse, al menos, los siguientes documentos respecto de las iniciativas:
 
@@ -176,9 +164,7 @@ h) Si la iniciativa considera la adquisición de algún inmueble, las municipali
 
 i) Con todo, las iniciativas deberán encontrarse, al momento de postular al Programa, con los antecedentes suficientes para ser licitadas en caso de ser aprobado su financiamiento.
 
-#### Artículo 9º
-
-<!-- parte:9198557 -->
+#### Artículo 9º (art. único)
 
 Una vez revisado por Subdere el cumplimiento de los requisitos señalados anteriormente, ésta enviará a Dipres las iniciativas de inversión.
 
@@ -186,9 +172,7 @@ Se podrá aprobar aportes reembolsables para iniciativas que se cofinancien con 
 
 En el caso de existir cofinanciamiento por parte del gobierno regional se requerirá del acuerdo del Consejo Regional. En el caso de existir otra fuente de financiamiento, se requerirá de un certificado emitido por la autoridad correspondiente, que dé cuenta que su presupuesto considera el monto de inversión comprometido.
 
-#### Artículo 10
-
-<!-- parte:9681504 -->
+#### Artículo 10 (art. único)
 
 En el caso que Dipres considere que existen observaciones a la evaluación de la rentabilidad social, que requieren de una re-formulación de la iniciativa o su re-evaluación, solicitará a Subdere que envíe, mediante oficio, una nueva presentación para su revisión.
 
@@ -200,43 +184,33 @@ Con todo, la elegibilidad técnica otorgada por Dipres a las iniciativas present
 
 De la autorización de los aportes reembolsables a las municipalidades
 
-#### Artículo 11
-
-<!-- parte:9681505 -->
+#### Artículo 11 (art. único)
 
 Informada por Dipres la elegibilidad de una iniciativa, Subdere mediante resolución visada por Dipres, podrá autorizar su financiamiento. En esta resolución se establecerá el monto total autorizado al municipio, las condiciones de entrega de los recursos, la estimación de los gastos anuales para la iniciativa autorizada, los plazos en que será servida la deuda, y cualquier otra condición necesaria para el cumplimiento de los compromisos entre Subdere y el municipio.
 
 Aquellas iniciativas que no obtengan financiamiento en el año que se le haya otorgado la elegibilidad, mantendrán esta condición el año siguiente. Las municipalidades deberán, si se requiere, actualizar los documentos que soliciten Subdere o Dipres.
 
-#### Artículo 12
-
-<!-- parte:9681506 -->
+#### Artículo 12 (art. único)
 
 En el caso que los recursos autorizados, en la Ley de Presupuestos Inicial, no alcanzasen para el total de iniciativas elegibles no financiadas el año anterior, se privilegiará aquellas postuladas por las municipalidades que no han obtenido anteriormente financiamiento del Programa.
 
-En igualdad de condiciones, serán priorizadas las iniciativas postuladas por municipalidades considerando su mayor dependencia del Fondo Común Municipal. Para establecer lo anterior se aplicarán los decimales necesarios que permitan realizar la priorización. el inmueble.
+En igualdad de condiciones, serán priorizadas las iniciativas postuladas por municipalidades considerando su mayor dependencia del Fondo Común Municipal. Para establecer lo anterior se aplicarán los decimales necesarios que permitan realizar la priorización.
 
 ## Título V
 
 Del convenio con el Servicio de Tesorerías y el servicio de la deuda
 
-#### Artículo 13
-
-<!-- parte:9681507 -->
+#### Artículo 13 (art. único)
 
 Con posterioridad a la total tramitación de la resolución mencionada en el artículo 11, la municipalidad deberá suscribir un convenio por cada iniciativa, con el Servicio de Tesorerías, autorizando a dicho servicio a descontar en forma automática las cuotas pactadas exclusivamente de los montos que les corresponda percibir por recaudación de impuesto territorial, de beneficio propio.
 
 Para suscribir el convenio con el Servicio de Tesorerías, el alcalde requerirá el acuerdo de los 2/3 del concejo municipal, requisito que se acreditará mediante certificación extendida por el secretario municipal, la que se entenderá parte integrante del convenio. El convenio entre la municipalidad y el Servicio de Tesorerías sólo producirá sus efectos a partir de su total tramitación. El Servicio de Tesorerías deberá remitir copia de dicho convenio a Subdere.
 
-#### Artículo 14
-
-<!-- parte:9681508 -->
+#### Artículo 14 (art. único)
 
 El pago del aporte reembolsable se efectuará en Unidades de Fomento y en cuotas anuales iguales, las que se descontarán por el Servicio de Tesorerías, de acuerdo a tabla que, mediante oficio, le remitirá Subdere. El servicio de la deuda deberá efectuarse en un plazo máximo de ocho años, que se contarán a partir de transcurrido un año desde la fecha en que se entere el último desembolso del aporte reembolsable convenido, conforme a las condiciones financieras que se establecerán en la resolución y convenio respectivo.
 
-#### Artículo 15
-
-<!-- parte:9681509 -->
+#### Artículo 15 (art. único)
 
 Sólo podrán modificarse las condiciones de pago, en monto y/o plazo, cuando ocurra alguna de las siguientes situaciones:
 
@@ -246,20 +220,16 @@ b) La recaudación de impuesto territorial de beneficio propio sea menor al mont
 
 En ambos casos, las nuevas condiciones serán establecidas en una resolución Subdere.
 
-#### Artículo 16
-
-<!-- parte:9681510 -->
+#### Artículo 16 (art. único)
 
 Una vez totalmente tramitados los actos administrativos aprobatorios del convenio celebrado con el Servicio de Tesorerías, la municipalidad estará facultada para llamar a licitación, adjudicar las iniciativas, y suscribir las contratos y adquisiciones correspondientes para su ejecución.
 
 Asimismo, Subdere sólo podrá realizar el primer desembolso una vez cumplidas las condiciones señaladas anteriormente.
 
-#### Artículo 17
-
-<!-- parte:9681511 -->
+#### Artículo 17 (art. único)
 
 El monto del impuesto territorial de beneficio propio, recaudado por el Servicio de Tesorerías, como pago de los reembolsos, deberá ser registrado por el municipio considerándolo como gasto devengado y pagado por concepto de servicio de la deuda.
 
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Hinzpeter Kirberg, Ministro del Interior y Seguridad Pública.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.- Rodrigo Valdés Pulido, Ministro de Hacienda.
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Miguel Luis Flores Vargas, Subsecretario de Desarrollo Regional y Administrativo.
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Ricardo Cifuentes Lillo, Subsecretario de Desarrollo Regional y Administrativo.
