@@ -18,8 +18,6 @@ Resolución:
 
 2°.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al segundo llamado 2012 del Sistema Integrado de Subsidio Habitacional, regulado por el DS N° 1 (V. y U.), de 2011, Títulos I y II, dispuesto en el número 1° de la resolución exenta N° 4.029, de este Ministerio, de 2012, y sus modificaciones, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región y alternativa de postulación, según se indica en la siguiente tabla:
 
-.
-
 3°.- Déjanse sin efecto las 345 solicitudes de postulación para el segundo llamado 2012 del Sistema Integrado de Subsidio Habitacional regulado por el DS N° 1 (V. y U.), de 2011, efectuado por el número 1° de la resolución exenta N° 4.029, de este Ministerio, de 2012, y sus modificaciones, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
 
 4°.- Publíquese en un periódico de circulación nacional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados conforme al número 2° de esta resolución, así como el plazo de que dispondrán los interesados para poder presentar al Serviu respectivo, sus observaciones o reclamos, si correspondiere; y las nóminas de postulantes cuyas solicitudes de postulación fueron dejadas sin efecto, a que se refiere el número 3° anterior y exhíbanse dichas nóminas en las oficinas de los Serviu.
