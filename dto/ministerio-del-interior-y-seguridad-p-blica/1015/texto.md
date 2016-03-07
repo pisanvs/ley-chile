@@ -1,26 +1,28 @@
-APRUEBA REGLAMENTO QUE REGULA LOS APORTES REEMBOLSABLES DESTINADOS A INICIATIVAS DE INVERSIÓN DE LAS MUNICIPALIDADES PARA EL DESARROLLO DE LAS CIUDADES
+SUSTITUYE EL TEXTO DEL DECRETO Nº196, DE 2011, DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA, QUE APROBÓ EL REGLAMENTO QUE REGULA LOS APORTES REEMBOLSABLES DESTINADOS A INICIATIVAS DE INVERSIONES DE LAS MUNICIPALIDADES PARA EL DESARROLLO DE LAS CIUDADES
 
-Santiago, 24 de marzo de 2011.- Hoy se decretó lo que sigue:
+Núm. 1.015.- Santiago, 30 de julio de 2015.
 
-Núm. 196.- Visto: Lo dispuesto en los artículos 32 Nº6 y 35 de la Constitución Política de la República de Chile; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley de Presupuestos del Sector Público 2011, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley de Presupuestos del Sector Público vigente, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-Que, la ley Nº 20.481 de Presupuestos del Sector Público 2011 considera recursos en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, destinados a la entrega de aportes reembolsables a las municipalidades que se determinen, para el financiamiento de iniciativas de inversión para el desarrollo de las ciudades.
+1. Que, la Ley de Presupuestos del Sector Público vigente, considera recursos en el presupuesto de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, destinados a la entrega de aportes reembolsables a las municipalidades para el financiamiento de inversiones para el desarrollo de las ciudades.
 
-Que, para la entrega de los mencionados recursos se requiere determinar un programa de acción, que se denominará Programa de Inversión Desarrollo de las Ciudades, dirigido a incentivar a las municipalidades que demuestren una gestión responsable en el manejo de sus recursos, mediante el acceso a fondos que les permitan solventar operaciones que involucren una concentración temporal de desembolsos a cambio de ingresos futuros, promoviendo de esta forma la eficiencia y la disciplina financiera.
+2. Que la citada Ley en la Glosa Nº 04 del Programa 03 del presupuesto correspondiente a la Subsecretaría de Desarrollo Regional y Administrativo dispone que la aplicación de los recursos que considera se regirá por lo establecido en el decreto supremo Nº 196, de 2011, del Ministerio del Interior y seguridad Pública.
 
-Que, el objetivo principal del Programa aludido, es procurar el diseño y aplicación de programas municipales de inversión en infraestructura comunal, aumentando la capacidad de las municipalidades para mejorar la calidad de vida de sus ciudadanos, con mayor autonomía financiera y capacidad de gestión.
+3. Que, el objetivo principal del Programa aludido, es procurar el diseño y aplicación de programas municipales de inversión en infraestructura comunal, aumentando la capacidad de las municipalidades para mejorar la calidad de vida de sus ciudadanos, con mayor autonomía financiera y capacidad de gestión.
 
-Que, la Ley de Presupuestos del Sector Público 2011, ordena la elaboración del presente reglamento para efectos de determinar las normas de procedimiento y demás requisitos necesarios para acceder a los mencionados aportes, y los montos máximos que se podrán aprobar por cada municipalidad seleccionada, entre otras materias.
+4. Que, para una mayor expedición en el desarrollo del programa respectivo es necesario sustituir el texto del decreto Nº 196, antes citado.
 
 Decreto:
 
-Apruébase el siguiente Reglamento para establecer los procedimientos, requisitos y demás normas necesarias para el otorgamiento de aportes reembolsables a las municipalidades del país, destinado al financiamiento de iniciativas de inversión para el desarrollo de las ciudades:
+#### Artículo único
+
+Sustitúyese el texto del decreto Nº196, de 2011, del Ministerio del Interior y Seguridad Pública, que aprobó el Reglamento que regula los aportes reembolsables destinados a financiar iniciativas de inversión de las Municipalidades para el Desarrollo de las Ciudades, por el siguiente:
 
 ## Título I
 
-Disposiciones generales
+Disposiciones Generales
 
 #### Artículo 1º
 
@@ -190,7 +192,7 @@ Aquellas iniciativas que no obtengan financiamiento en el año que se le haya ot
 
 En el caso que los recursos autorizados, en la Ley de Presupuestos Inicial, no alcanzasen para el total de iniciativas elegibles no financiadas el año anterior, se privilegiará aquellas postuladas por las municipalidades que no han obtenido anteriormente financiamiento del Programa.
 
-En igualdad de condiciones, serán priorizadas las iniciativas postuladas por municipalidades considerando su mayor dependencia del Fondo Común Municipal. Para establecer lo anterior se aplicarán los decimales necesarios que permitan realizar la priorización. el inmueble.
+En igualdad de condiciones, serán priorizadas las iniciativas postuladas por municipalidades considerando su mayor dependencia del Fondo Común Municipal. Para establecer lo anterior se aplicarán los decimales necesarios que permitan realizar la priorización.
 
 ## Título V
 
@@ -226,6 +228,6 @@ Asimismo, Subdere sólo podrá realizar el primer desembolso una vez cumplidas l
 
 El monto del impuesto territorial de beneficio propio, recaudado por el Servicio de Tesorerías, como pago de los reembolsos, deberá ser registrado por el municipio considerándolo como gasto devengado y pagado por concepto de servicio de la deuda.
 
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Hinzpeter Kirberg, Ministro del Interior y Seguridad Pública.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.- Rodrigo Valdés Pulido, Ministro de Hacienda.
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Miguel Luis Flores Vargas, Subsecretario de Desarrollo Regional y Administrativo.
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Ricardo Cifuentes Lillo, Subsecretario de Desarrollo Regional y Administrativo.
