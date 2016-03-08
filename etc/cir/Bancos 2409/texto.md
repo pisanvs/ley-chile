@@ -18568,21 +18568,21 @@ RESULTADOS VINCULADOS A LA EXPOSICION AL RIEGO OPERACIONAL
 
 9717 Ejecución, entrega y gestión de procesos
 
-9720 Recuperaciones de gastos en el período
+9730 Recuperaciones de gastos en el período
 
-9721 Fraude interno
+9731 Fraude interno
 
-9722 Fraude externo
+9732 Fraude externo
 
-9723 Prácticas laborales y seguridad en el negocio
+9733 Prácticas laborales y seguridad en el negocio
 
-9724 Clientes, productos y prácticas de negocio
+9734 Clientes, productos y prácticas de negocio
 
-9725 Daños a activos físicos
+9735 Daños a activos físicos
 
-9726 Interrupción del negocio y fallos en sistema
+9736 Interrupción del negocio y fallos en sistema
 
-9727 Ejecución, entrega y gestión de procesos
+9737 Ejecución, entrega y gestión de procesos
 
 OTRA INFORMACION:
 
