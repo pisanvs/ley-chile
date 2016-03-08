@@ -1,0 +1,41 @@
+DECLARA ZONA SATURADA POR MATERIAL PARTICULADO FINO RESPIRABLE MP2,5, COMO CONCENTRACIÓN DE 24 HORAS, AL VALLE CENTRAL DE LA PROVINCIA DE CURICÓ
+
+Núm. 53.- Santiago, 10 de noviembre de 2015.
+
+Visto:
+
+Lo establecido en la Constitución Política de la República de Chile, en sus artículos 19 números 8 y 9, y 32 número 6; en la Ley Nº 19.300, sobre Bases Generales del Medio Ambiente, en sus artículos 2, letra u) y 43; en el decreto con fuerza de ley (DFL) Nº 3-18.715, de 1989, del Ministerio del Interior, que precisa delimitaciones de las comunas del país, en la resolución exenta Nº 302, de 7 marzo de 2011, del Subsecretario del Medio Ambiente, que instruye sobre modificaciones al procedimiento de declaración de zona saturada y latente, a partir de la entrada en vigencia de la nueva Institucionalidad Ambiental, modificada por la resolución exenta Nº 422, de 2012, del Subsecretario del Medio Ambiente; en el DS Nº 12, de 2011, del Ministerio del Medio Ambiente, que establece la Norma Primaria de Calidad Ambiental para Material Particulado Fino Respirable MP2,5; y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República,y
+
+Considerando:
+
+1º. Que el objetivo de las normas primarias de calidad ambiental es la protección de la salud de las personas, y que la declaración de zona saturada es condición necesaria para la elaboración de un plan de descontaminación, instrumento de gestión ambiental que tienen por finalidad recuperar los niveles señalados en las normas de calidad ambiental en una zona saturada.
+
+2º. Que está vigente la Norma Primaria de Calidad Ambiental para Material Particulado Fino Respirable MP2,5, contenida en el DS Nº 12, de 2011, del Ministerio del Medio Ambiente, la que establece los estándares de calidad para el contaminante mencionado, en cincuenta microgramos por metro cúbico (50 µg/m3) y en veinte microgramos por metro cúbico (20 µg/m3), como concentración de 24 horas y anual, respectivamente.
+
+3º. Que la estación de monitoreo de calidad del aire denominada "Curicó", ubicada en la ciudad del mismo nombre, fue calificada con representatividad poblacional (EMRP) para MP2,5, por resolución exenta Nº 617, de 27 de julio de 2015, de la Superintendencia del Medio Ambiente.
+
+4º. Que la Superintendencia del Medio Ambiente, en base al resultado de las mediciones efectuadas en dicha estación de monitoreo de calidad del aire, en el periodo comprendido entre el 1 de enero de 2014 y 31 de diciembre del mismo año, mediciones validadas por dicha entidad, según consta de su Informe Técnico Cumplimiento de Normas de Calidad del Aire por MP2,5, Estación de Calidad del Aire de Curicó, concluye que la Norma Primaria para Material Particulado Fino Respirable MP2,5, como concentración de 24 horas, se encuentra sobrepasada.
+
+5º. Que por memorándum Nº 284, de 16 de septiembre de 2015, la Secretaria Regional Ministerial del Medio Ambiente de la Región del Maule, adjuntó el Informe Técnico para Declaración de Zona Saturada del Valle Central de la Provincia de Curicó, que en base a la topografía, ubicación de las fuentes emisoras, ubicación de la población y régimen de vientos, propone la definición de la zona saturada como la zona geográfica que corresponde al valle central de la Provincia de Curicó, que abarca parte de las comunas de Curicó, Teno, Rauco, Romeral, Sagrada Familia y Molina. Propone tomar como referencia los límites geográficos de las comunas mencionadas que fueron fijados por el DFL Nº 3-18.715, de 1989, del Ministerio del Interior, que precisa delimitaciones de las comunas del país, cotas de altura de terreno y accidentes geográficos, como cursos de agua, líneas de cumbres, y cerros.
+
+6º. Que conforme lo dispone el inciso primero del artículo 43 de la ley Nº 19.300, sobre Bases Generales del Medio Ambiente, la declaración de una zona del territorio como saturada o latente se hará mediante decreto supremo que llevará la firma del Ministro del Medio Ambiente y contendrá la determinación precisa del área geográfica que abarca. Llevará además la firma del Ministro de Salud, si se trata de la aplicación de normas primarias de calidad ambiental.
+
+Decreto:
+
+#### Artículo único
+
+Declárase zona saturada por Material Particulado Fino Respirable MP2,5, como concentración de 24 horas, el valle central de la Provincia de Curicó, cuyos límites, como zona saturada, serán los siguientes:
+
+Límite Norte: Corresponde al límite norte de la comuna de Teno, desde el punto de coordenadas UTM 284145 mE, 6143010 mN, hacia el este hasta la cota 600 m.s.n.m en el estero Chimbarongo (coordenadas UTM: 328394 mE, 6141804 mN).
+
+Límite Este: Curva de nivel 600 m.s.n.m en la cordillera de los Andes, desde estero Chimbarongo (coordenadas UTM: 328394 mE, 6141804 mN) hasta quebrada La Mesa (coordenadas UTM: 313644 mE, 6118477 mN); continua por la quebrada La Mesa hacia el suroeste hasta límite comunal Romeral-Curicó (coordenadas UTM: 313644 mE, 6118477 mN, 660 m.s.n.m.), al lado oeste de Loma Baya; sigue por línea recta proyectada hacia el sur hasta la cota 600 m.s.n.m. al norte del estero Chenquelmo (coordenadas UTM: 313118 mE, 6117920 mN); siguiendo por la curva de nivel 600 m.s.n.m. hacia el sureste hasta el punto ubicado al sur del estero Chenquelmo (coordenadas UTM: 316114 mE, 6114976 mN); línea recta proyectada hacia el sur hasta punto ubicado al norte del estero Upeo (coordenadas UTM: 316110 mE, 6114470 mN, 600 m.s.n.m); continúa por la curva de nivel 600 m.s.n.m hacia el sur hasta el Río Claro (coordenadas UTM: 310702mE, 6080040 mN).
+
+Límite Sur: Corresponde al límite sur de la comuna de Molina, desde el punto ubicado en la cota 600 m.s.n.m. en el río Claro, hacia el oeste hasta el límite comunal con Sagrada Familia (coordenadas UTM: 272560 mE, 6097990 mN).
+
+Límite Oeste: Límite comunal Molina-Sagrada Familia, desde el río Claro (coordenadas UTM: 272560 mE, 6097990 mN) hasta Loma Del Medio (coordenadas UTM: 272565 mE, 6099800 mN, 300 m.s.n.m.); continúa por la curva de nivel 300 m.s.n.m. ladera este Cordillera de la Costa, hasta ladera norte cerro Colin (coordenadas UTM: 281542 mE, 6122690 mN); descendiendo hacia el noreste, desde la cota 300 m.s.n.m hasta la cota 200 m.s.n.m ladera norte cerro Colin (coordenadas UTM: 281893 mE, 6123290 mN); continúa por la curva de nivel 200 m.s.n.m. hacia el suroeste hasta el punto ubicado al norte de la quebrada Pisco Negro (coordenadas UTM: 264828 mE, 6116327 mN); proyección en línea recta hacia el noroeste hasta el Río Mataquito en el punto en que se intersectan los límite de las comunas de Sagrada Familia, Rauco y Hualañé (coordenadas UTM: 263790 mE, 6117700 mN); sigue por el límite comunal de Rauco, desde el Río Mataquito (coordenadas UTM: 263790 mE, 6117700 mN), ascendiendo hacia el norte hasta cota 200 m.s.n.m. (coordenadas UTM: 263280 mE, 6118797 mN); continúa por la curva de nivel 200 m.s.n.m. por el costado norte del Río Mataquito, hacia el noreste hasta ladera sur del cerro Mocho (coordenadas UTM: 281985 mE, 6126944 mN); sigue ascendiendo hacia el norte hasta cota 300 m.s.n.m (coordenadas UTM: 282077 mE, 6127310 mN); continuando por la curva de nivel 300 m.s.n.m. ladera este Cordillera de la Costa, hasta el punto ubicado al suroeste del cerro La Higuera (coordenadas UTM: 288900 mE, 6135385 mN); siguiendo en línea recta hacia el noroeste hasta el punto de coordenadas UTM 288815 mE, 6135450 mN en la cota 300 m.s.n.m.; continúa por la curva de nivel 300 m.s.n.m., hacia el noroeste hasta el límite comunal Teno-Rauco en cerro El Almendro (coordenadas UTM: 287330 mE, 6139575 mN); continúa por el límite comunal Teno-Rauco hacia el noroeste hasta el límite con la comuna de Chépica, Región de O'Higgins (coordenadas UTM: 284145 mE, 6143010 mN).
+
+Las coordenadas UTM, corresponden al Datum WGS84, Huso 19H.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Pablo Badenier Martínez, Ministro del Medio Ambiente.- Carmen Castillo Taucher, Ministra de Salud.
+
+Lo que comunico para su conocimiento.- Marcelo Mena Carrasco, Subsecretario del Medio Ambiente.
