@@ -4,7 +4,7 @@ Núm. 4.110 exenta.- Santiago, 29 de octubre de 2015.
 
 Visto estos antecedentes:
 
-El memorando Nº 70, de fecha 13 de marzo de 2015, de Jefe Subdepartamento de Farmacia, bajo referencia F15/054, que solicita informe que entregue elementos que permitan definir la categoría al producto Valeriana 300 mg/60 cápsulas de la empresa Laboratorios MDK S.A., incautado en visita inspectiva; el memorando Nº 176 de fecha 29 de mayo de 2015, del Jefe de Subdepartamento de Farmacia a Jefa Subdepartamento Inspecciones, mediante el cual solicita fiscalizar el producto; el memorando Nº195, de fecha 26 de junio de 2015, bajo la referencia SI 103/15, de Jefa Subdepartamento Inspecciones que solicita documento oficial que clasifique a este producto a fin de cumplir con la normativa sanitaria vigente; el acuerdo de la Sesión Nº 3/15 del Comité de Expertos Asesor en Régimen de Control Aplicable, realizada el 10 de julio de 2015; la resolución exenta Nº 2.916, de fecha 25 de agosto de 2015, del Instituto de Salud Pública, que fuera publicada en el Diario Oficial del 4 de septiembre de 2015 y que abrió período de información pública en el procedimiento de régimen de control aplicable respecto de este producto, y
+El Memorando Nº 70, de fecha 13 de marzo de 2015, de Jefe Subdepartamento de Farmacia, bajo referencia F15/054, que solicita informe que entregue elementos que permitan definir la categoría al producto Valeriana 300 mg/60 Cápsulas de la empresa Apícola del Alba, incautado en visita inspectiva; el memorando Nº 176 de fecha 29 de mayo de 2015, del Jefe de Subdepartamento de Farmacia a Jefa Subdepartamento Inspecciones, mediante el cual solicita fiscalizar el producto; el memorando Nº195, de fecha 26 de junio de 2015, bajo la referencia SI 103/15, de Jefa Subdepartamento Inspecciones que solicita documento oficial que clasifique a este producto a fin de cumplir con la normativa sanitaria vigente; el acuerdo de la Sesión Nº 3/15 del Comité de Expertos Asesor en Régimen de Control Aplicable, realizada el 10 de julio de 2015; la resolución exenta Nº 2.916, de fecha 25 de agosto de 2015, del Instituto de Salud Pública, que fuera publicada en el Diario Oficial del 4 de septiembre de 2015 y que abrió período de información pública en el procedimiento de régimen de control aplicable respecto de este producto, y
 
 Considerando:
 
@@ -36,7 +36,7 @@ Lo dispuesto en el artículo 96º del Código Sanitario; en los artículos 8º y
 
 Resolución:
 
-1. Establécese que el régimen que corresponde aplicar al producto Valeriana 300 mg/60 cápsulas, de la empresa Laboratorios MDK S.A., es el propio de los Productos Farmacéuticos.
+1. Establécese que el régimen que corresponde aplicar al producto Valeriana 300 mg/60 Cápsulas, de la empresa Apícola del Alba, es el propio de los Productos Farmacéuticos.
 
 2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto Nº 3 de 2010, del Ministerio de Salud.
 
