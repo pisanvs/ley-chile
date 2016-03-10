@@ -54,6 +54,8 @@ Las situaciones de excepción deben asegurar a lo menos la intervención del com
 
 5.5 Se podrá aplicar este subsidio a viviendas que hayan obtenido recepción definitiva con posterioridad a la fecha indicada en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de esta norma y fueron recepcionadas con fecha posterior al 4 de enero de 2007, o porque la Dirección de Obras Municipales mediante la aplicación de la ley 20.251 haya regularizado el inmueble, no exigiéndole que cumpla con lo señalado en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones.
 
+Cuando los proyectos consideren la regularización de la vivienda ante la Dirección de Obras Municipales, el contratista, previa aprobación del PSAT o del ITO y del Serviu, podrá cobrar por única vez, hasta el 70% del proyecto terminado presentando la boleta bancaria equivalente al 2% del precio del contrato de construcción, quedando el saldo restante retenido hasta la presentación del respectivo certificado de recepción definitiva emitido por la DOM.
+
 6. Los proyectos deberán ingresarse en las oficinas de partes del Serviu Magallanes o de la Delegación Provincial de Puerto Natales, según proceda.
 
 7. Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a cada una de las selecciones de este llamado:
