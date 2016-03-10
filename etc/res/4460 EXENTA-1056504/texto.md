@@ -48,7 +48,7 @@ Fíjese el siguiente procedimiento para el uso, al interior de aeronaves, de las
 
 La banda de frecuencias 2.400 - 2.483,5 MHz podrá emplearse con una potencia máxima radiada que no exceda de 100 mW para el suministro de servicios de acceso a internet al interior de aeronaves, sobre 3.000 metros respecto del suelo, en el espacio aéreo nacional.
 
-Las bandas de frecuencias 5.150 - 5.250 MHz y 5.725 - 5.850 MHz podrán emplearse con una potencia máxima radiada de 100 mW en aplicaciones de entretenimiento al interior de aeronaves.
+Las bandas de frecuencias 2.400 - 2.483,5 MHz, podrán emplearse con una potencia máxima radiada de 100 mW en aplicaciones de entretenimiento al interior de aeronaves, excluido el acceso a internet.
 
 Las transmisiones de los equipos de radiocomunicación que operen en la banda 5.725 - 5.850 MHz no deberán causar interferencias a los equipos de cobro electrónico automático de peaje que operan en la banda 5.795 - 5.815 MHz, los que tendrán prioridad independientemente de la fecha de su instalación, siendo responsabilidad de la respectiva empresa operadora de la aeronave tomar todas las medidas que corresponda para dar cumplimiento a esta condición.
 
