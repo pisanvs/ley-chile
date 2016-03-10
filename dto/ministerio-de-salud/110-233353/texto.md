@@ -40,6 +40,8 @@ Circunstancia Nº 2 Que el referido cuociente, indicado en la Circunstancia prec
 
 Circunstancia Nº 3 Excepcionalmente, se considerará que puede ser calificada como indigente o carente de recursos la persona que si bien aparece registrada como causante de asignación familiar de algún afiliado a la ley Nº 18.469, acredite fehacientemente que no vive a expensas de ese afiliado y que cumple con alguna de las Circunstancias enumeradas en los Nº 1 o 2 precedentes.
 
+Circunstancia Nº 4 Tratarse de una persona inmigrante que carece de documentos o permisos de residencia, que suscribe un documento declarando su carencia de recursos.
+
 #### Artículo 3º
 
 <!-- parte:6508226 -->
