@@ -1,0 +1,1 @@
+El Servicio Nacional de Geología y Minería ha dictado la resolución exenta Nº 127, de 15 de enero de 2016, que establece el Registro Público de Auditores Externos de la ley Nº 20.551, que Regula el Cierre de Faenas e Instalaciones Mineras, cuyo texto íntegro se encuentra disponible en la página web del Servicio www.sernageomin.cl.
