@@ -36,6 +36,8 @@ Circunstancia Nº 2 Que el referido cuociente, indicado en la Circunstancia prec
 
 Circunstancia Nº 3 Excepcionalmente, se considerará que puede ser calificada como indigente o carente de recursos la persona que si bien aparece registrada como causante de asignación familiar de algún afiliado a la ley Nº 18.469, acredite fehacientemente que no vive a expensas de ese afiliado y que cumple con alguna de las Circunstancias enumeradas en los Nº 1 o 2 precedentes.
 
+Circunstancia Nº 4 Tratarse de una persona inmigrante que carece de documentos o permisos de residencia, que suscribe un documento declarando su carencia de recursos.
+
 #### Artículo 3º
 
 El Fondo Nacional de Salud mediante resolución determinará los documentos o instrumentos que permitan acreditar la identificación y clasificación de las personas como indigentes o carentes de recursos. Con tal objeto, los establecimientos de atención primaria del Sistema Nacional de Servicios de Salud deberán recepcionar la documentación que el Fondo Nacional de Salud determine y remitirla a la entidad que éste señale. Asimismo, el Fondo podrá celebrar convenios con otras entidades del Estado para el mismo objeto.
