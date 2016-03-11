@@ -46,7 +46,7 @@ Resolución:
 
 .
 
-2. Los recursos comprometidos conforme al resuelvo 1. de la presente resolución, para los postulantes cuyos reclamos fueron acogidos, se detallan en el siguiente cuadro para cada región del país, considerando los montos de subsidio referenciales, según el monto de subsidio a considerar establecido en el resuelvo 5 de la resolución exenta Nº4.758 (V. y U.), de 2015.
+2. Los recursos comprometidos conforme al resuelvo 1. de la presente resolución, para los postulantes cuyos reclamos fueron acogidos, se detallan en el siguiente cuadro para cada región del país, considerando los montos de subsidio referenciales, según el monto de subsidio a considerar establecido en el resuelvo 5 de la resolución exenta Nº4.758 (V. y U.), de 2015
 
 .
 
