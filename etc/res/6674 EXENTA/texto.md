@@ -12,6 +12,44 @@ Las personas que postulen vía internet, a través de los medios electrónicos q
 
 2º.- El monto de unidades de fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, se distribuirán regionalmente según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución, en caso de agotarse los recursos para una región, quedando excedentes en otras:
 
+Región Alternativa d e
+
+postulación individual
+
+Tramo 1Título I U.F.
+
+Arica Parinacota 18.000
+
+Tarapacá 22.050
+
+Antofagasta 38.250
+
+Atacama 36.000
+
+Coquimbo 157.500
+
+Valparaíso 292.050
+
+L. B. O'Higgins 143.550
+
+Maule 166.500
+
+Biobío 229.500
+
+La Araucanía 247.500
+
+Los Ríos 58.500
+
+Los Lagos 180.450
+
+Aysén 22.500
+
+Magallanes 6.750
+
+Metropolitana 900.900
+
+Total 2.520.000.
+
 3º.- El número de postulantes seleccionados en cada región alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo que para cada caso se fija en el número 2º de esta resolución.
 
 4º.- Para los efectos de determinar el número de Certificados de Subsidio susceptibles de financiar, se considerará un valor promedio de 450 UF.

@@ -20,7 +20,81 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al quinto llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, Título I, Tramo 1, dispuesto en el número 1º de la resolución exenta Nº 6.674, de este Ministerio, de 2013, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Región, según se indica en la siguiente tabla:
 
-.
+Región Alternativa de
+
+postulación individual
+
+Tramo 1Título I U.F.
+
+Arica Parinacota 18.000
+
+Tarapacá 22.050
+
+Antofagasta 38.250
+
+Atacama 36.000
+
+Coquimbo 157.500
+
+Valparaíso 292.050
+
+L. B. O'Higgins 143.550
+
+Maule 166.500
+
+Biobío 229.500
+
+La Araucanía 247.500
+
+Los Ríos 58.500
+
+Los Lagos 180.450
+
+Aysén 22.500
+
+Magallanes 6.750
+
+Metropolitana 900.900
+
+Total 2.520.000
+
+Región N° postulantes
+
+seleccionados
+
+## Título I — , tramo 1
+
+Arica y Parinacota 22
+
+Tarapacá 22
+
+Antofagasta 70
+
+Atacama 60
+
+Coquimbo 377
+
+Valparaíso 724
+
+Libertador Gral.Bdo.O'Higgins 364
+
+Maule 421
+
+Biobío 608
+
+La Araucanía 480
+
+Los Ríos 142
+
+Los Lagos 423
+
+Aisén del General C. Ibáñez 44
+
+Magallanes y Antártica Chilena 13
+
+Metropolitana 1.830
+
+Total 5.600
 
 3º.- Déjanse sin efecto las 803 solicitudes de postulación para el quinto llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, efectuado por el número 1º de la resolución exenta Nº 6.674, de este Ministerio, de 2013, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución.
 
