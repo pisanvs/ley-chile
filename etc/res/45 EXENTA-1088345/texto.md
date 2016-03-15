@@ -1,0 +1,13 @@
+INFORMA REALIZACIÓN DE PROCESO DE CONSULTA PREVIA A LOS PUEBLOS INDÍGENAS, SEGÚN LO ESTABLECIDO EN EL CONVENIO 169 DE LA OIT, EN EL MARCO DEL PROCESO DE EVALUACIÓN AMBIENTAL DEL ESTUDIO DE IMPACTO AMBIENTAL DEL PROYECTO "CENTRAL HIDROELÉCTRICA DE PASADA EL RINCÓN"
+
+Con fecha 26 de febrero de 2016, en el marco del proceso de evaluación ambiental del Estudio de Impacto Ambiental proyecto "Central Hidroeléctrica de Pasada El Rincón", y mediante resolución exenta Nº45 del Director (S) Regional del Servicio de Evaluación Ambiental de la Región de La Araucanía, se ha ordenado la realización de un Proceso de Consulta Indígena a los pueblos indígenas que se encuentren dentro de su área de influencia y que sean afectados directamente por aquél, por los impactos y afectaciones que en dicho acto administrativo se señalan, de conformidad a los estándares contenidos en el Convenio Nº 169 de la OIT sobre Pueblos Indígenas y Tribales en Países Independientes, el que se llevará a efecto con las Comunidades Indígenas Melivuli Meli Rallen, Francisco Meli Quidel, Esteban Trecamán, Esteban Romero de Cahuenpilli, Painetru Sahuelhue, Esteban Traipe, Jacinto Lefiñir, Francisco Ovando, Andrés Huenupi Huenchullán, Juanico Lepin, Martín Juanico Lepin, Cayumán Painenao, Juan Bautista Huichapán, Tranol Alonso, Juan Meli, Nicolás Huenchumán y Nicolás Huenchumán II de la comuna de Melipeuco, Región de La Araucanía, esto, sin perjuicio que en la eventualidad de verificarse, durante la evaluación ambiental del Proyecto, nuevos impactos significativos que pudieran afectar directamente a las comunidades que ya participan del Proceso de Consulta Indígena o a otros Grupos Humanos Pertenecientes a Pueblos Indígenas, el referido proceso ampliará su ámbito de consulta a tales nuevos impactos y/o a tales otros Grupos Humanos Pertenecientes a Pueblos Indígenas; dichos impactos y afectaciones deberán ajustarse a lo dispuesto en el artículo 11 de la Ley Nº 19.300 y al Título II del RSEIA.
+
+Los plazos, metodología, mecanismos, procedimientos y alcances de dicho proceso de consulta serán consensuados con los Grupos Humanos Pertenecientes a Pueblos Indígenas participantes del proceso de consulta.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicado en calle Vicuña Mackenna Nº 224, Temuco.
+
+. Además, podrá accederse a ella a través del sitio web www.sea.gob.cl
+
+Ricardo Moreno Fetis, Director (S) Regional Servicio de Evaluación Ambiental Región de La Araucanía.
