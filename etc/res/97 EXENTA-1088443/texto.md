@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 97 EXENTA, DE 2016
+
+Mediante resolución exenta Nº 97, de fecha 10 de febrero de 2016, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Jaime González y Compañía Limitada" o "Ruta Verde Sociedad Limitada", cuyo propietario es "Jaime González y Compañía Limitada", representada legalmente por doña Pilar Alejandra González Alvarado. La Escuela de Conductores tendrá como Director a don Marco Antonio Díaz Vilches, y su sede estará ubicada en Guacolda Nº 931, comuna de Coquimbo. Las horas pedagógicas autorizadas a la referida Escuela son 13 teóricas, 13 prácticas, con un total de 26 horas pedagógicas.-
+
+Óscar Pereira Peralta, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
