@@ -930,7 +930,7 @@ Tratándose de los vehículos de carga, de movilización colectiva o de caracter
 
 El uso de cinturón de seguridad será obligatorio para los ocupantes de los asientos delanteros. Igual obligación regirá para los ocupantes de asientos traseros de vehículos livianos, definidos por el decreto supremo Nº 211, de 1991, del Ministerio de Transportes y Telecomunicaciones, cuyo año de fabricación sea 2002 o posterior. En los servicios de transporte de pasajeros en taxis, cualquiera sea su modalidad, la responsabilidad del uso del cinturón de seguridad recae en el pasajero, salvo que dicho elemento no funcione, en cuyo caso será imputable a su propietario.
 
-Se prohíbe el traslado de menores de ocho años en los asientos delanteros en automóviles, camionetas, camiones y similares, excepto en aquellos de cabina simple.
+Se prohíbe el traslado de menores de doce años en los asientos delanteros en automóviles, camionetas, camiones y similares, excepto en aquellos de cabina simple.
 
 Los conductores, serán responsables del uso obligatorio de sillas para niños menores de cuatro años que viajen en los asientos traseros de los vehículos livianos, de acuerdo a las exigencias y el calendario que fijará el reglamento. Se exceptúan de esta obligación, los servicios de transporte de pasajeros en taxis, en cualquiera de sus modalidades.
 
@@ -2150,7 +2150,13 @@ Son infracciones o contravenciones gravísimas, las siguientes:
 
 1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE", y
 
-2.- Conducir sin haber obtenido licencia de conductor, sin perjuicio de lo dispuesto en el artículo 194.
+2.- Conducir sin haber obtenido licencia de
+
+conductor, sin perjuicio de lo dispuesto en el artículo 194.
+
+3.- Conducir un vehículo infringiendo lo dispuesto en los incisos tercero y cuarto del artículo 75.
+
+> **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
 
 #### Artículo 200
 
@@ -2218,7 +2224,7 @@ n o de frenos en condiciones deficientes;
 
 30. Cruzar una vía férrea en lugar no autorizado;
 
-31. Conducir un vehículo infringiendo lo dispuesto en el número 10 del artículo 75;
+31.- Conducir un vehículo infringiendo lo dispuesto en el número 10 y en el inciso segundo del artículo 75;
 
 32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efectúe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
 
