@@ -66,7 +66,9 @@ El contrato de arrendamiento con promesa de compraventa deberá contener, a lo m
 
 14.- Obligación para el arrendatario promitente comprador de contratar seguro de incendio, y si fuere menor de 65 años seguro de desgravamen, facultando al arrendador promitente vendedor para contratarlos por cuenta y cargo del arrendatario promitente comprador si éste no lo hiciere.
 
-15.- Obligación del arrendador promitente vendedor de ofrecer un mínimo de tres alternativas de pólizas para los seguros a que se refiere el número anterior. 16.- Obligación del arrendador promitente vendedor de ofrecer una alternativa de seguro de desempleo o de pérdida de su fuente de ingreso, al arrendatario promitente comprador, de los existentes en el mercado, pudiendo este último facultar a aquél para contratarlo por cuenta y cargo del arrendatario.
+15.- Obligación del arrendador promitente vendedor de ofrecer pólizas para los seguros a que se refiere el número anterior.
+
+16.- Obligación del arrendador promitente vendedor de ofrecer una póliza de seguro de desempleo o de pérdida de su fuente de ingreso, al arrendatario promitente comprador, de los existentes en el mercado, pudiendo este último facultar a aquél para contratarlo por cuenta y cargo del arrendatario.
 
 17.- Seguros adicionales y formación del fondo de garantía a que se refiere el artículo 44 de la Ley N° 19.281, que se pacten entre las partes.
 
@@ -158,7 +160,7 @@ De los Seguros y del Fondo de Garantía
 
 #### Artículo 17
 
-El arrendatario promitente comprador deberá asegurar contra incendio la vivienda arrendada y contratar seguro de desgravamen si fuere menor de 65 años de edad. Estos seguros deberán mantenerse vigentes durante toda la vigencia del contrato, entregando oportunamente al arrendador promitente vendedor las respectivas pólizas debidamente endosadas. Las primas de estos seguros serán de cargo del arrendatario promitente comprador. El arrendador promitente vendedor deberá ofrecer alternativas de pólizas al arrendatario promitente comprador. Si el arrendatario promitente comprador no contratare estos seguros, podrán ser contratados por el arrendador promitente vendedor a su favor, por cuenta y cargo del arrendatario promitente comprador. Si el cobro de estas primas se efectuare en cuotas periódicas, éstas deberán desglosarse en el aviso de cobro respectivo. En caso de siniestro el arrendador promitente vendedor deberá aplicar la indemnización proveniente del seguro de incendio, a la reparación de la vivienda.
+El arrendatario promitente comprador deberá asegurar contra incendio la vivienda arrendada y contratar seguro de desgravamen si fuere menor de 65 años de edad. Estos seguros deberán mantenerse vigentes durante toda la vigencia del contrato, entregando oportunamente al arrendador promitente vendedor las respectivas pólizas debidamente endosadas. Las primas de estos seguros serán de cargo del arrendatario promitente comprador. El arrendador promitente vendedor deberá ofrecer pólizas al arrendatario promitente comprador. Si el arrendatario promitente comprador no contratare estos seguros, podrán ser contratados por el arrendador promitente vendedor a su favor, por cuenta y cargo del arrendatario promitente comprador. Si el cobro de estas primas se efectuare en cuotas periódicas, éstas deberán desglosarse en el aviso de cobro respectivo. En caso de siniestro el arrendador promitente vendedor deberá aplicar la indemnización proveniente del seguro de incendio, a la reparación de la vivienda.
 
 En caso de cesión del contrato por parte del arrendatario promitente comprador corresponderá al cesionario contratar el nuevo seguro de desgravamen, aplicándose al respecto lo previsto en el inciso anterior.
 
@@ -168,13 +170,13 @@ Los contratos de arrendamiento con promesa de compraventa con aplicación del su
 
 a) Seguro de desempleo o de incapacidad temporal.
 
-Se deberá contratar un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que deberá cubrir como mínimo el pago de seis meses del aporte mensual, pudiendo aplicarse nuevamente la cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada. Para pensionados este seguro no será exigible, sin perjuicio que el interesado pueda optar por contratarlo.
+Se deberá contratar un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que deberá cubrir como mínimo el pago de seis meses del aporte mensual, pudiendo aplicarse nuevamente la cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada. Para pensionados o quienes se pensionen durante el período de vigencia del seguro contratado, este seguro no será exigible, sin perjuicio que el interesado pueda optar por contratarlo.
 
-Por los primeros cuarenta y ocho aportes mensuales, el arrendatario promitente comprador obtendrá un subsidio adicional para contribuir al financiamiento del costo de la prima, que se aplicará al pago de ésta. Este subsidio será de un monto equivalente al de la prima respectiva, con un tope igual al resultante de aplicar el factor 0,60 por mil al monto del contrato de arrendamiento con promesa de compraventa. Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará la operatoria y el procedimiento de pago a la sociedad inmobiliaria respectiva.
+Por todo el plazo de la deuda, el arrendatario promitente comprador obtendrá un subsidio adicional para contribuir al financiamiento del costo de la prima, que se aplicará al pago de ésta. Este subsidio será de un monto equivalente al de la prima respectiva, con un tope igual al resultante de aplicar el factor 0,60 por mil al monto del contrato de arrendamiento con promesa de compraventa. Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará la operatoria y el procedimiento de pago a la sociedad inmobiliaria respectiva.
 
 El arrendatario promitente comprador, otorgará mandato a la sociedad inmobiliaria para la contratación del seguro, lo que quedará estipulado en el respectivo contrato de arrendamiento con promesa de compraventa.
 
-b) Además del seguro de desgravamen exigido en el inciso primero de este artículo, que en el caso de contratos de arrendamiento con promesa de compraventa en que se hubiere aplicado subsidio habitacional se hará efectivo aun cuando el asegurado se hubiere encontrado en mora a la fecha del fallecimiento, siempre que no hubiere tenido más de 3 cuotas impagas, el arrendatario promitente comprador deberá contratar un seguro de invalidez que cubra la Invalidez Permanente Total o Parcial de a lo menos 2/3 de su capacidad, derivada de enfermedad o accidente. Este seguro se hará efectivo aun cuando el arrendatario promitente comprador se hubiere encontrado en mora a la fecha de la declaración de invalidez, siempre que a esa fecha no hubiere tenido más de 3 cuotas impagas.
+b) Además del seguro de desgravamen exigido en el inciso primero de este artículo, que en el caso de contratos de arrendamiento con promesa de compraventa en que se hubiere aplicado subsidio habitacional se hará efectivo aun cuando el asegurado se hubiere encontrado en mora a la fecha del fallecimiento, siempre que no hubiere tenido más de 3 cuotas impagas, el arrendatario promitente comprador deberá contratar un seguro de invalidez que cubra la Invalidez Permanente Total o Parcial de a lo menos 2/3 de su capacidad, derivada de enfermedad o accidente. Este seguro se hará efectivo aun cuando el arrendatario promitente comprador se hubiere encontrado en mora a la fecha de la declaración de invalidez, siempre que a esa fecha no hubiere tenido más de 3 cuotas impagas. Dicho seguro no será exigible si el arrendatario promitente comprador percibe pensión por invalidez o está pensionado; y en el caso que el arrendatario promitente comprador no reciba las pensiones señaladas, la sociedad inmobiliaria podrá evaluar si es necesaria su contratación, si el arrendatario promitente comprador presenta una invalidez preexistente o algún grado de invalidez que no haga necesaria la contratación del seguro.
 
 Si el arrendatario promitente comprador fuere mayor de 65 años y/o no pudiere contratar seguro de desgravamen, para dar curso al contrato de arrendamiento con promesa de compraventa deberá exigírsele la concurrencia de un aval u otra caución complementaria suficiente, a juicio exclusivo de la sociedad inmobiliaria.
 
@@ -182,9 +184,11 @@ c) Adicionalmente al seguro de incendio exigido en el inciso primero de este art
 
 Tratándose de viviendas en condominios tipo A) acogidas a la Ley N° 19.537, Sobre Copropiedad Inmobiliaria, se estará al 100% del valor comercial de la vivienda afectada.
 
+Para la obtención del subsidio, no será necesaria la presentación de las pólizas respectivas, debiendo el arrendatario promitente comprador otorgar mandato a la sociedad inmobiliaria para la contratación de los seguros, lo que deberá quedar estipulado en el respectivo contrato de arrendamiento.
+
 #### Artículo 18
 
-La sociedad inmobiliaria deberá ofrecer al arrendatario promitente comprador una alternativa de seguro de desempleo o de pérdida de su fuente de ingreso, que cubra el riesgo del no pago del aporte convenido y podrá contratarlo a petición del arrendatario promitente comprador, por cuenta y cargo de éste.
+La sociedad inmobiliaria deberá ofrecer al arrendatario promitente comprador una póliza de seguro de desempleo o de pérdida de su fuente de ingreso, que cubra el riesgo del no pago del aporte convenido y podrá contratarlo a petición del arrendatario promitente comprador, por cuenta y cargo de éste.
 
 #### Artículo 19
 
@@ -222,7 +226,7 @@ de Viviendas con Promesa de Compraventa
 
 Podrán solicitar el subsidio habitacional que regula este Título los titulares de las cuentas a que se refiere el Título I de la Ley N° 19.281, en adelante las cuentas o la cuenta, que cumplan con los requisitos exigidos por el presente reglamento.
 
-Este subsidio habitacional es una ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste. En el caso de sociedades inmobiliarias que celebren convenio con el Ministerio de Vivienda y Urbanismo, conforme lo señala el artículo 28 bis de este decreto, adicionalmente se otorgará un subsidio para solventar los costos de originación del contrato de arrendamiento con promesa de compraventa respectivo.
+Este subsidio habitacional es una ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste. En los casos que señala el artículo 28 bis de este decreto, adicionalmente se otorgará un subsidio destinado a solventar los costos de originación del contrato de arrendamiento con promesa de compraventa respectivo.
 
 #### Artículo 22
 
@@ -232,45 +236,23 @@ Este subsidio habitacional no podrá aplicarse al arrendamiento con promesa de c
 
 #### Artículo 23
 
-Los montos máximos de subsidio en valor actual neto que podrá solicitar el postulante, expresados en unidades de fomento, serán los siguientes:
+Los montos máximos de subsidio en valor actual neto que podrá solicitar el postulante, expresados en Unidades de Fomento, serán los siguientes:
 
-a) Todas las regiones, provincias y comunas del país, excepto las señaladas en las letras b) y c):
+a) Montos de subsidio:
 
-En ningún caso este subsidio podrá exceder del equivalente a 300 unidades de fomento.
+Si como resultado de aplicar alguna de las fórmulas para el cálculo del subsidio resultare un monto que incluya decimales, éste se ajustará al entero superior.".
 
-b) Provincia de Chiloé:
+b) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en la tabla de la letra a) de este artículo, cuyo monto no podrá ser inferior a 200 U.F.
 
-En ningún caso este subsidio podrá exceder del equivalente a 350 unidades de fomento.
+c) Tratándose de la adquisición de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios de este Título podrán obtener un subsidio que se determinará de acuerdo a lo dispuesto en la tabla de la letra a) de este artículo, cuyo monto no podrá ser inferior a 350 Unidades de Fomento, dando cumplimiento a lo establecido en las respectivas normas vigentes, de acuerdo a la ley Nº 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. De la rehabilitación del inmueble deberán generarse dos o más viviendas.
 
-c) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincia de Palena; comunas de Isla de Pascua y Juan Fernández:
+d) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en la tabla de la letra a) precedente, se adicionarán hasta 20 U.F., siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-En ningún caso este subsidio podrá exceder del equivalente a 400 unidades de fomento.
+e) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional a los determinados en la tabla de la letra a), de 100 U.F..".
 
-En donde:
+Para los efectos de la determinación del valor de la vivienda se estará al precio estipulado en el respectivo contrato de arrendamiento con promesa de compraventa, expresado en Unidades de Fomento.
 
-"P" corresponde al precio de la vivienda determinado conforme al inciso segundo de este artículo.
-
-d) En caso que el subsidio habitacional se aplique a viviendas emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, estas viviendas deberán ser nuevas, y los beneficiarios obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras a), b) o c) precedentes, cuyo monto, en ningún caso, podrá ser inferior a 200 unidades de fomento ni superior a 300 unidades de fomento, si se determina conforme a la letra a); o a 350 unidades de fomento si se determina de acuerdo a la letra b); o a 400 unidades de fomento, si se determina de acuerdo a la letra c), ya referidas.
-
-e) Tratándose de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios podrán obtener un subsidio de hasta 300 unidades de fomento, dando cumplimiento a lo establecido en las respectivas normas vigentes, a la Ley N° 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. El inmueble deberá corresponder a una construcción anterior al 18 de julio de 1959, fecha de la publicación en el Diario Oficial del DFL N° 2, de 1959, y de su rehabilitación deberán generarse dos o más viviendas.
-
-El subsidio habitacional sólo podrá aplicarse a la primera transferencia de la vivienda, que se realice luego de la rehabilitación del inmueble.
-
-f) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las letras a), b), c), d) y e) precedentes, se adicionarán hasta 20 unidades de fomento, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
-
-g) Si el beneficiario aplica el subsidio a una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional al determinado en las letras a),
-
-- **b)** y
-
-- **c)** de este artículo, cuyo monto se determinará conforme a lo siguiente, no siendo aplicable cuando se trate de los subsidios a que se refieren las letras
-
-- **d)** y
-
-- **e)** del mismo:
-
-Para los efectos de la determinación del valor de la vivienda se estará al precio estipulado en el respectivo contrato de arrendamiento con promesa de compraventa, expresado en unidades de fomento.
-
-Tratándose de viviendas acogidas a la Ley N° 19.537, Sobre Copropiedad Inmobiliaria, en el precio de la compraventa prometida podrá también estar incluido el de los estacionamientos y/o bodegas.
+Tratándose de viviendas acogidas a la ley Nº 19.537, Sobre Copropiedad Inmobiliaria, en el precio de la compraventa prometida podrá también estar incluido el de los estacionamientos y/o bodegas.
 
 #### Artículo 24
 
@@ -314,6 +296,8 @@ para cálculo de las cuotas
 
 Los decimales de la tasa así determinada, se ajustarán hacia arriba al cuarto de unidad que corresponda.
 
+Esta tasa de interés no podrá ser inferior al 2%.
+
 #### Artículo 28
 
 Los inscritos en el Registro podrán acceder al subsidio presentando copia autorizada de la escritura pública a que se redujo el contrato de arrendamiento con promesa de compraventa con constancia de su inscripción en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces o con un certificado extendido por una sociedad inmobiliaria de aquéllas a que se refiere el Título II de la ley Nº 19.281, en que conste que dicho postulante tiene aprobada la operación correspondiente faltando para su formalización sólo la firma del respectivo contrato. En mérito de este certificado o de la presentación de la escritura a que se redujo el contrato de arrendamiento debidamente inscrito, el Serviu hará reserva de un cupo de subsidio para ese postulante, el que imputará a la cantidad de subsidios dispuestos para el año en que se formalice la asignación del subsidio, conforme a lo previsto en el inciso séptimo de este artículo, informando de ello al interesado. Sin perjuicio de lo anterior, también se podrá efectuar una reserva de cupo de subsidio acreditando haber ingresado al Conservador de Bienes Raíces la escritura pública a que se redujo el contrato de arrendamiento con promesa de compraventa para sus inscripciones respectivas, o acreditando que se ha firmado el respectivo contrato de arrendamiento con promesa de compraventa por las partes. En todo caso, la fecha del contrato no podrá ser anterior a la de la inscripción del interesado en el Registro a que se refiere el artículo 24.
@@ -348,13 +332,13 @@ El pago de las cuotas del subsidio, se efectuará a sus tenedores sin presentaci
 
 #### Artículo 28 bis
 
-Para operaciones de contratos de arrendamiento con promesa de compraventa de viviendas con subsidio habitacional, en que el contrato no exceda de 500 unidades de fomento, el Ministerio de Vivienda y Urbanismo otorgará al beneficiario un subsidio adicional destinado a solventar los costos de originación y administración del contrato de arrendamiento con promesa de compraventa, denominado "Subsidio a la Originación", que será pagado a la sociedad inmobiliaria que suscribió el contrato, cuyo monto se determinará de acuerdo a la siguiente fórmula, expresándose los valores resultantes con dos decimales:
+Para operaciones de contratos de arrendamiento con promesa de compraventa de viviendas con subsidio habitacional, en que el contrato no exceda de 700 Unidades de Fomento, el Ministerio de Vivienda y Urbanismo otorgará al beneficiario un subsidio adicional destinado a solventar los costos de originación y administración del contrato de arrendamiento con promesa de compraventa, denominado "Subsidio a la Originación", que será pagado a la sociedad inmobiliaria que suscribió el contrato, cuyo monto se determinará de acuerdo a la siguiente fórmula, expresándose los valores resultantes con dos decimales:
 
-a) Para créditos hasta 100 UF
+a) Para contratos de arrendamiento con promesa de compraventa hasta 100 U.F.
 
 SO = 12 UF
 
-b) Para créditos de más de 100 y hasta 500 UF
+b) Para contratos de arrendamiento con promesa de compraventa de más de 100 y hasta 700 U.F.
 
 SO = 13,5 - 0,015 * CA
 
@@ -430,7 +414,7 @@ Con el producto del remate, al cual deben adicionarse los fondos que el arrendat
 
 Si el producto del remate no alcanzare a cubrir el saldo de la deuda, incluidas las rentas de arrendamiento devengadas y no pagadas y las costas del juicio, el Serviu enterará al arrendador promitente vendedor el saldo insoluto de la deuda, en los porcentajes que se indican, según sea dicho precio, con un tope de 200 unidades de fomento:
 
-En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso segundo del artículo 23 de este reglamento.
+En que "P" corresponde al precio de la vivienda determinado en la forma señalada en el inciso segundo del artículo 23 de este reglamento.
 
 INCISO ELIMINADO.
 
@@ -441,6 +425,32 @@ Para los efectos de lo previsto en el inciso tercero, al formular el cobro corre
 El plazo para formular el cobro a que se refiere el inciso anterior será de 60 días corridos, contados desde la notificación de la resolución ejecutoriada que apruebe la liquidación. El SERVIU correspondiente pagará la suma resultante de la liquidación respectiva dentro de los 60 días corridos siguientes al de la formulación del cobro, al valor de la Unidad de Fomento vigente a la fecha de su pago efectivo. Vencido este plazo, pagará dicha suma con el interés corriente para operaciones reajustables, calculado entre la fecha de vencimiento del plazo y la de su pago efectivo.
 
 Lo dispuesto en este artículo, sólo será aplicable en caso que el beneficiario del subsidio no hubiere cedido el contrato de arrendamiento con promesa de compraventa o sustituido la vivienda original objeto del contrato.
+
+#### Artículo 38 bis
+
+).- El beneficiario de subsidio obtenido a través de este reglamento, que haya celebrado un contrato de arrendamiento con promesa de compraventa con alguna sociedad inmobiliaria a que se refiere el Título II de la ley Nº 19.281, y que cumpla con los requisitos y condiciones señalados en este artículo, obtendrá un subsidio adicional consistente en una subvención permanente por cada aporte mensual devengado que sea pagado al día, hasta enterar el saldo insoluto del precio de venta prometido, incluido en este saldo, si lo hubiere, una reprogramación del contrato de arrendamiento con promesa de compraventa con la respectiva sociedad inmobiliaria.
+
+Para hacer uso del beneficio, el solicitante deberá haber enterado la parte del respectivo aporte mensual no cubierto con la subvención, incluidos los seguros que correspondan conforme a lo señalado en este artículo, debiendo además encontrarse al día en el servicio de su deuda. Se entenderá que el arrendatario promitente comprador se encuentra al día en el servicio de su deuda cuando paga oportunamente sus aportes mensuales y/o la cuota correspondiente del convenio de pago, si lo hubiere, no existiendo en consecuencia deuda en mora.
+
+La subvención que se otorgue será de los porcentajes que se señalan a continuación, de acuerdo al tramo de valor del correspondiente contrato:
+
+a) De un monto equivalente al 20% de cada aporte mensual, para los arrendatarios promitentes compradores cuyo contrato de arrendamiento con promesa de compraventa sea de hasta 500 Unidades de Fomento.
+
+b) De un monto equivalente al 15% de cada aporte mensual, para los arrendatarios promitentes compradores cuyo contrato de arrendamiento con promesa de compraventa sea de más de 500 y hasta 900 Unidades de Fomento.
+
+c) De un monto equivalente al 10% de cada aporte mensual, para los arrendatarios promitentes compradores cuyo contrato de arrendamiento con promesa de compraventa sea de más de 900 y hasta 1.200 Unidades de Fomento.
+
+En caso de atraso en el pago de un aporte mensual o que el arrendatario promitente comprador se encuentre en mora, éste no obtendrá la subvención correspondiente a dicho aporte mensual, lo que no afectará a la que corresponda otorgar por los posteriores aportes mensuales que pague oportunamente, siempre que al efectuar el pago de éstos se haya puesto al día en el servicio de su deuda.
+
+Para obtener la subvención a que se refiere este artículo, el arrendatario promitente comprador, su cónyuge o conviviente civil, no deberá ser propietario de otros inmuebles. Tratándose de viviendas acogidas a la ley Nº 19.537, podrán incluirse los estacionamientos y/o bodegas como parte de la vivienda a la que se aplicó el subsidio.
+
+El beneficio que regula este artículo, podrá ser impetrado por el arrendatario promitente comprador, su cónyuge o conviviente civil, conforme a lo dispuesto en la ley Nº 20.340, siempre que el arrendatario promitente comprador cumpla con los requisitos para acceder a dicho beneficio.
+
+El procedimiento para la aplicación del beneficio contemplado en este artículo, se establecerá en convenios que se suscriban entre el Minvu y las respectivas sociedades inmobiliarias o sus cesionarias.
+
+En estos casos, la subvención se pagará directamente a la respectiva sociedad inmobiliaria, previa certificación por ésta que el arrendatario promitente comprador se encuentra al día en el servicio de la deuda y que ha enterado la parte del respectivo aporte mensual no cubierto con la subvención que le corresponde conforme al presente artículo.
+
+Para el caso de deudores de sociedades inmobiliarias o sus cesionarias que no suscriban el convenio a que se refiere el inciso anterior, el Minvu implementará un mecanismo a fin de hacer efectiva la aplicación del beneficio.
 
 #### Artículo 39
 
@@ -497,6 +507,10 @@ Más de 1.000 y hasta 2000 (150 -0,05*P)% 200
 En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso tercero del artículo 23 de este reglamento.
 
 Las sociedades inmobiliarias que tuvieren vigente el convenio suscrito con el Ministerio de Vivienda y Urbanismo a que se refiere el inciso cuarto del articulo 38 del presente reglamento, podrán optar por celebrar contratos de arrendamiento con promesa de compraventa con los beneficiarios de subsidio, en los términos establecidos en el presente artículo, en cuyo caso no regirán a su respecto los topes para el seguro de remate señalados en la tabla precedente.
+
+#### Artículo 3º
+
+transitorio.- Se podrán celebrar contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, respecto de viviendas que formen parte de proyectos seleccionados conforme al DS Nº 116 (V. y U.), de 2014, los que deberán ajustarse a los precios máximos establecidos en el artículo 23 de este reglamento, pudiendo aplicarse como subsidios otorgados conforme a este decreto, los montos de subsidio dispuestos en el DS Nº 116 referido, si éstos les resultan más convenientes al beneficiario.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la Republica.- Edmundo Hermosilla Hermosilla, Ministro de Vivienda y Urbanismo.
 
