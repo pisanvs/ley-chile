@@ -248,6 +248,52 @@ Merced-Monjitas Vicuña Mackenna José Miguel O-P
 
 de la Barra
 
+Arica 5 de Abril Exposición P-O
+
+Arica Exposición 5 de Abril O-P
+
+Andes Matucana Antonio Ebner O-P
+
+Mapocho Joaquín
+
+Walker
+
+Martínez Matucana P-O
+
+Colón Escanilla Av. Independencia P-O
+
+Escanilla Gamero Colón N-S
+
+Gamero Av.Independencia Fermín Vivaceta O-P
+
+Gamero Fermín Vivaceta Escanilla P-O
+
+Santos
+
+Dumont Av. La Paz Av. Idependencia O-P
+
+Freire Esmeralda Balmaceda S-N
+
+Urmeneta Francisco Aranda San José N-S
+
+José Estrecho de Nicador Fajardo O-P
+
+Manuel Magallanes
+
+Balmaceda
+
+Estrecho de Av. Domingo José Manuel O-P
+
+Magallanes Santa María Balmaceda
+
+Av. Domingo Nicanor Fajardo Senador Jaime P-O
+
+Santa María Guzmán
+
+Av. Domingo Senador Jaime Estrecho de O-P
+
+Santa María Guzmán Magallanes
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
@@ -256,7 +302,7 @@ b) Vehículos de emergencia, del Programa de Fiscalización de la Subsecretaría
 
 c) Vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista exclusiva por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
 
-d) Buses de transporte público rural e interurbano que utilicen Av. Libertador Bernardo O'Higgins (Alameda) y, buses de transporte público rural que usen calle San Diego, siempre y cuando dichas vías se encuentren incorporadas en los respectivos certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, como parte de sus trazados
+d) Buses de transporte público de pasajeros rurales e interurbanos por aquellas vías o ejes indicados en el cuadro del Resuelvo precedente, que aparezcan en sus certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros como parte de su trazado autorizado en zona urbana.
 
 e) Vehículos utilizados para labores de mantención y conservación de paraderos por la empresa concesionaria, en cumplimiento del contrato de concesión "Estaciones de Transbordo para Transantiago", debidamente identificados por la misma para tal función, los que podrán circular, para el solo efecto de realizar las labores antes referidas, por pistas de uso exclusivo de la Av. Libertador Bernardo O'Higgins (Alameda), en ambos sentidos, y por las pistas de uso exclusivo de las siguientes vías, en los tramos y, según sentido de tránsito indicado en el presente cuadro:
 
