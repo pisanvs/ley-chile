@@ -18,11 +18,11 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 11 de julio de 2015 y hasta el 28 de noviembre de 2016, por Av. Vicuña Mackenna en los tramos que se indican:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 11 de julio de 2015 y hasta el 30 de abril de 2016, por Av. Vicuña Mackenna en los tramos que se indican:
 
 .
 
-2.- Establécese como medida de gestión de trá nsito, en forma excepcional, en el mismo período anterior, que los tramos de Av. Vicuña Mackenna que se indican en el siguiente cuadro, sean destinados como vía exclusiva para el uso de buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior, con sentido de circulación bidireccional.
+2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que los tramos de Av. Vicuña Mackenna que se indican en el siguiente cuadro, sean destinados como vía exclusiva para el uso de buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior, con sentido de circulación bidireccional.
 
 .
 
@@ -31,7 +31,5 @@ Podrán circular, además, en la referida vía exclusiva, los vehículos de emer
 3.- La referida vía exclusiva se encontrará debidamente señalizada de conformidad con el Manual de Señalización de Tránsito.
 
 4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL Nº 1, de 2007, citado en Vistos.
-
-> **Nota.** El literal i) de la letra a) del N° 1 de la Resolución 3833 Exenta, Transportes, publicada el 28.07.2016, ordena reemplazar en el numeral 1 de la presente norma la expresión: "31 de julio de 2016" por: "31 de diciembre de 2016". Sin embargo, la expresión "31 de julio de 2016", fue sustituida previamente por "28 de noviembre de 2016" por la Resolución 2807 Exenta, publicada el 02.06.2016, por lo que al momento de aplicar la referida modificación, ya no se encontraba el texto.
 
 Anótese y publíquese.- Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
