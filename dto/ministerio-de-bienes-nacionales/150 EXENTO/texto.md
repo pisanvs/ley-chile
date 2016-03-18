@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "EBCO SOLAR UNO SOCIEDAD ANÓNIMA"
+
+Mediante decreto exento Nº 150, de 9 de marzo de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Ebco Solar Uno Sociedad Anónima", RUT Nº 76.382.729-1, el inmueble fiscal compuesto por los Lotes A, B y C, ubicados en el Parque Fotovoltaico Pedro de Valdivia, Sector Pedro de Valdivia, Comuna de María Elena, provincia de Tocopilla, Región de Antofagasta; enrolados en el Servicio de Impuestos Internos con los Nºs 6901-13; 6901-14; 6901-15 respectivamente, amparado por la inscripción global que rola a Fojas 6 Nº 6, del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 1996; de una superficie total aproximada de 210,00 has, singularizados en el Plano Nº 02302-4.372-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de U.F. 1.857.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se en encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
