@@ -1,0 +1,7 @@
+CERTIFICADO
+
+Certifico: Que por resolución exenta Nº 586, de fecha 11 de marzo de 2016, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Compañía de Seguros de Vida Cámara S.A., acordada en junta extraordinaria de accionistas celebrada el 9 de febrero de 2016 y reducida a escritura pública con igual fecha, en la Décimo Octava Notaría de Santiago, de don Patricio Zaldívar Mackenna, domiciliado en Bandera Nº 341, oficina 857, comuna de Santiago.
+
+La reforma consiste en aumentar el capital social de $37.688.829.427.- dividido en 4.281.937.727 acciones nominativas, sin valor nominal, de una misma serie, del cual se encuentra suscrito y pagado la suma de $29.953.269.093.-, correspondiente a 3.403.078.178 acciones; a $49.953.269.093.- dividido en 5.675.336.453 acciones, mediante la emisión de 1.393.398.726 acciones de pago, por un monto total de $12.264.439.666.-, a pagar dentro del plazo de tres años contados desde el 9 de febrero de 2016. Se modifican los artículos quinto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 11 de marzo de 2016.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
