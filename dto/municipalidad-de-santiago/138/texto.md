@@ -8,7 +8,7 @@ Antecedentes, IDOC Nº 3010511; Acuerdo Nº 334, de fecha 8 de octubre de 2014, 
 
 Decreto:
 
-1. Promúlgase, la modificación del Plan Regulador Comunal de Santiago, aprobado por resolución Nº 26, de 7 de diciembre de 1989, de la Secretaría Regional Ministerial de la Vivienda y Urbanismo, y publicado en el Diario Oficial el día 27 de enero de 1990 y sus modificaciones posteriores, Sector 6 Club Hípico-Parque O'Higgins, de la siguiente forma:
+1. Promúlgase, la modificación del Plan Regulador Comunal de Santiago, aprobado por resolución Nº 26, de 7 de diciembre de 1989, de la Secretaría Regional Ministerial de la Vivienda y Urbanismo, y publicado en el Diario Oficial el día 27 de enero de 1990 y sus modificaciones posteriores, de la siguiente forma:
 
 2. Deróguese el Plano PRS - 02E de Zonificación Especial, a escala 1:7.800 y sus respectivas copias monocromáticas y reemplácense por el Plano PRS - 02F de Zonificación Especial, a escala 1:7.800 y sus respectivas copias monocromáticas, que en este acto se aprueban.
 
