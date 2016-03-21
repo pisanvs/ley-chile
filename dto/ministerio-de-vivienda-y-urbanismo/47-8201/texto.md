@@ -62,6 +62,14 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Area verde pública»: bien nacional de uso público que reúne las características de área verde.
 
+"Ascensor": aparato elevador, tanto vertical como inclinado o funicular, instalado en forma permanente en edificios privados o públicos, que cuenta a lo menos con una cabina, para trasladar personas entre distintos pisos o niveles.
+
+"Ascensor inclinado o funicular": ascensor que se desplaza sobre rieles guía inclinados. El ascensor inclinado está constituido por una sola cabina cuya tracción se realiza mediante adherencia o arrastre. El funicular está compuesto de dos cabinas unidas entre sí por uno o más cables tractores y donde el movimiento de subida y bajada se realiza por efecto de contrapeso.
+
+"Ascensor especial": ascensor vertical destinado preferentemente a personas con discapacidad o movilidad reducida, cuya cabina permite el ingreso de una silla de ruedas, soporta una carga nominal de hasta 400 kg y circula a una velocidad nominal no superior a 0,4 m/seg. ni inferior a 0,15 m/seg.
+
+"Ascensor vertical": ascensor que se desplaza a lo largo de rieles guía verticales.
+
 «Asentamiento humano»: lugar donde habita en forma permanente un grupo de personas, generalmente conformado por viviendas y otras construcciones complementarias.
 
 «Avenida»: DEROGADO.
@@ -186,6 +194,8 @@ a 100 personas.
 
 «Equipamiento»: construcciones destinadas a complementar las funciones básicas de habitar, producir y circular, cualquiera sea su clase o escala.
 
+"Escalera mecánica": escalera motorizada inclinada, utilizada para subir o bajar personas, en que la superficie de transporte permanece horizontal.
+
 «Espacio público»: bien nacional de uso público, destinado a circulación y esparcimiento entre otros.
 
 «Espesor de un muro»: la dimensión de la sección de un muro, medida en forma transversal al plano de éste.
@@ -196,7 +206,7 @@ a 100 personas.
 
 «Estación de servicio automotor»: lugar destinado a servicios de lavado y lubricación de automóviles, con o sin venta minorista de combustibles líquidos.
 
-«Estudio de ascensores»: evaluación de cargas, flujos y demás aspectos técnicos que determinan las características de diseño de la instalación de ascensores, para satisfacer las necesidades de un proyecto de edificación, suscrito por un profesional especialista o por el fabricante.
+"Estudio de ascensores": documento escrito que contiene la evaluación de cargas, flujos y demás aspectos técnicos que determinan la cantidad de ascensores, tanto verticales como inclinados o funiculares, su diseño y características requeridas para satisfacer las necesidades de un proyecto de edificación, realizado en base a una simulación de tráfico de estos y suscrito por un profesional especialista.
 
 «Estudio de carga combustible»: evaluación de los materiales, elementos, componentes, instalaciones y contenidos de un edificio y su clasificación, realizada conforme a las normas NCh 1916 y NCh 1993, suscrito por un profesional especialista.
 
@@ -242,7 +252,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Lote»: superficie de terreno continua resultante del proceso de división y urbanización del suelo, o de modificaciones, anexiones o sustracciones de la misma.
 
-«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de sitios resultantes, que requiere la ejecución de obras de urbanización.
+«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de predios resultantes, cuyo proyecto contempla la apertura de nuevas vías públicas, y su correspondiente urbanización.
 
 «Maestranza»: local industrial destinado a mantener, transformar, rehacer o construir cualquier clase de maquinaria, sea móvil, semifija o estacionaria, para transporte u otro fin.
 
@@ -253,6 +263,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Mediana»: isla continua, realzada altimétricamente mediante soleras, que separa flujos vehiculares.
 
 «Modificación de proyecto»: variantes, alteraciones o cambios que se solicite introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
+
+"Montacarga": aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
 
@@ -346,6 +358,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Puerta de escape»: puerta de salida que forma parte de un sistema de evacuación.
 
+"Rampa mecánica": instalación motorizada para el trasporte de personas en que la superficie de transporte permanece paralela a la dirección del movimiento, y es ininterrumpida.
+
 «Rasante»: recta imaginaria que, mediante un determinado ángulo de inclinación, define la envolvente teórica dentro de la cual puede desarrollarse un proyecto de edificación.
 
 «Recinto»: espacio abierto o cerrado destinado a una o varias actividades.
@@ -357,6 +371,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Red vial básica»: conjunto de vías existentes, que por su especial importancia para el transporte urbano, pueden ser reconocidas como tales en los instrumentos de planificación territorial.
 
 «Red vial estructurante»: conjunto de vías existentes o proyectadas, que por su especial importancia para el desarrollo del correspondiente centro urbano, deben ser definidas por el respectivo instrumento de planificación territorial.
+
+"Registro de la Ley Nº 20.296": el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
 
 «Rehabilitación de un inmueble»: recuperación o puesta en valor de una construcción, mediante obras y modificaciones que, sin desvirtuar sus condiciones originales, mejoran sus cualidades funcionales, estéticas, estructurales, de habitabilidad o de confort.
 
@@ -3868,6 +3884,10 @@ e) Los servicios higiénicos destinados a personas con discapacidad deberán se�
 
 8. Cuando se contemple la instalación de teléfonos públicos, se efectuará conforme a lo señalado en el artículo 2.2.8. de esta Ordenanza.
 
+9. Cuando se requieran ascensores, conforme al artículo 4.1.11. de este mismo Capítulo, uno de ellos deberá contar con las medidas mínimas de cabina establecidas en la letra c) del numeral 1 de ese mismo artículo.
+
+> **Nota.** El numeral 2 del artículo primero del Decreto 37. Vivienda, publicado el 21.03.2016, modifica la presente norma en el sentido de reemplazar el numeral 9, por el siguiente: "9. Cuando se requieran ascensores, conforme al artículo 4.1.11. de este mismo Capítulo, uno de ellos deberá contar con las medidas mínimas de cabina establecidas en la letra c) del numeral 1 de ese mismo artículo.". Sin embargo, la presente norma a partir de la modificación introducida por el numeral 8 del artículo primero del Decreto 50, Vivienda, publicado el 04.03.2014 no posee numeral 9, por lo que no se ha podido reemplazar.
+
 #### Artículo 4
 
 1.8. Las disposiciones de la presente Ordenanza no excluyen, en lo que no las contradigan, el cumplimiento de las normas sanitarias contenidas en el Código Sanitario y el D.F.L. Nº1, del Ministerio de Salud, de 1989.
@@ -4122,75 +4142,183 @@ La superficie de ventana para el vidrio monolítico del cálculo del U ponderado
 
 #### Artículo 4
 
-1.11. Los requerimientos mínimos de ascensores para los edificios serán los siguientes:
+1.11. Las exigencias mínimas que deberán cumplir los proyectos de edificios privados o públicos, así como los cambios de destino en relación a ascensores, montacargas y escaleras o rampas mecánicas, serán las siguientes:
 
-1. Dotación:
+1. Ascensores.
 
-a) Los edificios de 6 o más pisos de altura
+Los ascensores, tanto verticales como inclinados o funiculares que correspondan, deben cumplir las siguientes normas:
 
-deberán contemplar al menos dos ascensores con parada y acceso para todos los usuarios en todos los pisos con acceso a unidades que contemplen recintos habitables, uno de los cuales deberá cumplir con las dimensiones de cabina establecidas en el número 2 de este artículo.
+a) Dotación:
 
-En los edificios con dos o más subterráneos el ascensor de mayor capacidad deberá atender a cada uno de ellos.
+Los proyectos que a continuación se indican requerirán contar con ascensores, debiendo determinarse su cantidad, diseño y características, por el estudio de ascensores respectivo:
 
-Tratándose de ampliaciones de un piso adicional se admitirá que dicho piso no contemple acceso a ascensores.
+1) Los destinados a vivienda, de 6 o más pisos o niveles de altura, incluyendo a los subterráneos cuando correspondan a estacionamientos, bodegas o recintos de uso común y que sean bienes comunes del edificio.
 
-b) Se exceptúan de lo indicado en la letra a) precedente los edificios de vivienda de hasta 8 pisos, cuya carga de ocupación sobre el segundo piso sea inferior a 100 personas o cuya superficie útil a servir por los ascensores, en cada piso, sea inferior a 250 m2, los que podrán consultar sólo un ascensor, el cual deberá cumplir con las dimensiones horizontales de cabina establecidas en el número 2. de este artículo.
+2) Los destinados a otros usos, de 5 o más pisos de altura, incluyendo a los subterráneos.
 
-c) Los edificios de 4 o más pisos destinados a hospedaje que contemplen más de 50 habitaciones deberán consultar tres ascensores, uno de los cuales podrá ser de servicio.
+3) Los proyectos destinados a asistencia hospitalaria y larga estadía para adultos mayores deberán contar con ascensor cuando tengan 2 o más pisos o niveles, incluyendo a los subterráneos.
 
-d) Los edificios de 3 o más pisos destinados a asistencia hospitalaria deberán contemplar al menos dos ascensores monta camillas, aceptándose rampas para salvar desniveles de sólo un piso.
+En el caso de proyectos destinados a asistencia hospitalaria, al menos uno de los ascensores que contemple el proyecto deberá permitir el traslado de camillas.
 
-e) Los cambios de destino de edificios o parte de ellos que requieran uno o más ascensores deberán acompañar un informe, suscrito por profesional competente, que acredite que la capacidad de la instalación es compatible con el nuevo uso.
+Los proyectos destinados a asistencia hospitalaria y establecimientos de larga estadía para adultos mayores de hasta 2 pisos, podrán reemplazar los ascensores por rampas para salvar el desnivel, las que se diseñarán conforme a lo dispuesto en el artículo 4.1.7. de esta Ordenanza.
 
-Cuando el acceso del edificio se encuentre en un piso intermedio, que no diste más de 4 pisos hacia arriba o hacia abajo del acceso a alguna unidad que consulte recintos habitables, no se requerirán ascensores, siempre que los estacionamientos se encuentren a una distancia no mayor que la citada. Tampoco requerirán ascensores los edificios de 6 pisos cuyos pisos superiores sean dúplex.
+En caso de edificios con dos o más subterráneos destinados a estacionamientos, los ascensores que atiendan a dichos subterráneos podrán ser diferentes a los que sirven los pisos sobre el acceso principal.
 
-Los edificios de 5 o más pisos cuyos ascensores sirvan una superficie útil sobre el primer piso superior a 5.000 m2, requerirán presentar un Estudio de Ascensores que determinará la cantidad y características de los ascensores necesarios sobre la dotación mínima indicada en este artículo.
+En los casos a que se refieren los numerales 1), 2) y 3) de este literal, cada uno de los ascensores deberá contemplar parada y acceso para todos los pisos o niveles que sirve.
 
-2. Cabina:
+Cuando el acceso del edificio se encuentre en un piso intermedio, que no diste más de 4 pisos hacia arriba o hacia abajo del acceso a alguna unidad que consulte recintos habitables, no se requerirán ascensores, siempre que los estacionamientos se encuentren a una distancia no mayor que la citada. Tampoco requerirán ascensores los edificios destinados a vivienda de 6 pisos, cuyos pisos superiores sean dúplex.
 
-De los ascensores requeridos, al menos uno deberá tener las siguientes medidas mínimas de cabina:
+b) Estudio de Ascensores:
+
+Los proyectos que deban contemplar ascensores, conforme a la letra a) precedente, deberán presentar un Estudio de Ascensores para determinar las necesidades del proyecto de edificación.
+
+El estudio deberá basarse en una simulación de tráfico de los ascensores, considerando ingreso proporcional de personas en todos los pisos del edificio, incluyendo los subterráneos si el proyecto los contempla. Se deberá simular el momento máximo de subida por un intervalo de 15 minutos con 80% de ocupación máxima de las cabinas.
+
+Este estudio deberá ser suscrito por un profesional especialista y considerará al menos los siguientes antecedentes:
+
+1) Destino(s) del edificio.
+
+2) Número de pisos o niveles, altura de piso a piso y altura total.
+
+3) Definición de las paradas que constituyen accesos del edificio.
+
+4) Superficie útil de cada piso.
+
+5) Carga de ocupación por piso conforme al artículo 4.2.4. de esta Ordenanza. La carga de ocupación de las salas de espera, independientemente del destino de la edificación, se asimilarán para estos efectos a la sala de espera del destino salud, señalada en la tabla contenida en el mencionado artículo.
+
+En base a tales antecedentes, el estudio deberá cumplir con los parámetros señalados en las tablas Nº 1 o Nº 2, según corresponda.
+
+Tabla Nº 1
+
+Destino del Tiempo promedio máximo Capacidad de
+
+Edificio de espera(*) / tiempo Transporte
+
+promedio máximo de (***)
+
+llegada al destino (**)
+
+Hospedaje 35 s / 110 s Mínimo 6%
+
+Equipamiento
+
+Salud 40 s / 110 s Mínimo 8%
+
+Equipamiento
+
+Servicios 30 s / 100 s Mínimo 12%
+
+Equipamiento
+
+Servicios: 40 s / 100 s Mínimo 12%
+
+Centro Médico
+
+Otros 40 s / 110 s Mínimo 6%
+
+(*) Tiempo promedio de espera por persona para la llegada de la cabina.
+
+(**) Tiempo promedio de llegada al destino por persona desde el acceso principal.
+
+(***) Valor mínimo admisible, medido respecto del total de personas que pueda
+
+transportar en un período de 5 minutos, sobre y bajo el acceso principal.
+
+Para el cálculo de la capacidad de transporte de los proyectos destinados a grandes tiendas, centros comerciales, locales comerciales o supermercados que, además de contemplar ascensores, cuenten con escaleras y/o rampas mecánicas, podrá incorporarse en el cálculo la capacidad de transporte de dichas instalaciones, no siendo exigible en este caso cumplir con el tiempo promedio máximo de espera a que se refiere la tabla anterior.
+
+Tratándose de edificios destinados a vivienda, el estudio deberá cumplir con los parámetros señalados en la tabla Nº 2:
+
+Tabla Nº 2
+
+Destino del Intervalo de Capacidad de
+
+edificio Espera (*) Transporte (**)
+
+Vivienda Inferior a Mínimo 6%
+
+80 segundos
+
+(*) Valor máximo admisible, correspondiente al intervalo de
+
+tiempo medio de espera en el piso de acceso principal.
+
+(**) Valor mínimo admisible, medido respecto del total de
+
+personas que pueda transportar en un período de 5
+
+minutos, sobre y bajo el acceso principal.
+
+Los proyectos que contemplen destinos o actividades de distintos usos de suelo, deberán aplicar las exigencias de las tablas anteriores en forma segregada, pudiendo aplicar, en todo caso, los parámetros más exigentes a la totalidad del proyecto.
+
+c) Cabina:
+
+Los ascensores requeridos deberán tener las siguientes medidas mínimas de cabina:
 
 - profundidad : 1,40 m libre interior
 
 - ancho : 1,10 m libre interior
 
-- puerta (ancho libre): 0,80 m en edificios de
+- altura : 2,20 m libre interior
 
-vivienda de hasta 14
+- puerta : 0,90 m ancho libre de paso
 
-pisos 0,90 m en los
+La cabina destinada al transporte de pasajeros deberá estar cerrada en todos sus costados, sin otras aberturas que las definidas en las normas técnicas oficiales vigentes. En caso de emergencia, las puertas se deberán poder accionar desde el exterior.
 
-demás casos
+Las puertas de la cabina y de pisos deben ser automáticas y operar con deslizamiento horizontal.
 
-En edificios de 15 o más pisos la cabina señalada tendrá una altura libre de al menos 2,30 m, salvo que su profundidad sea no menor a 2,10 m.
+Adicionalmente, la cabina deberá cumplir con las disposiciones para personas con discapacidad indicadas en el artículo 4.1.7. de esta Ordenanza.
 
-3. Estudio de Ascensores:
+d) Caja de Ascensores:
 
-Deberá considerar al menos lo siguiente:
+La caja de ascensores terminará inferiormente en un pozo y superiormente en un espacio sobre la cabina que contemplará un recorrido libre de seguridad, calculado por el profesional especialista o por el fabricante, conforme a las normas técnicas oficiales vigentes y las especificaciones técnicas del fabricante de la instalación.
 
-a) Destino del edificio.
+Los muros de la caja de ascensores tendrán una resistencia al fuego conforme al artículo 4.3.3. de esta Ordenanza, y una resistencia mecánica suficiente para soportar las cargas que la instalación ejerce sobre ésta. Asimismo, muros, piso y cielo de la caja de ascensores deben estar construidos con materiales que no originen polvo. Las superficies internas de la caja de ascensores deben ser lisas y pintadas de color claro, aceptándose una terminación sin pintar cuando éstas sean de textura lisa. Se permitirá la instalación de ascensores y montacargas paralelos en una caja común, conforme a las especificaciones técnicas del fabricante.
 
-b) Número de pisos, altura de piso a piso y altura total.
+e) Sala de máquinas:
 
-c) Ubicación de la parada del acceso principal.
+Cuando la instalación contemple sala de máquinas, ésta tendrá una resistencia al fuego de sus elementos perimetrales de a lo menos F-60, incluidas sus puertas.
 
-d) Superficie útil de cada piso.
+No deberá utilizarse como paso o tránsito para el público y sus puertas de acceso deberán dotarse con cerraduras que permitan su abertura desde el interior, sin necesidad de llaves.
 
-e) Número de usuarios por piso, conforme al estándar del fabricante.
+Si la sala de máquinas está ubicada en el extremo superior de la caja del ascensor, las máquinas deberán descansar sobre un envigado de acero o de hormigón armado, apoyado en los muros soportantes del edificio o sobre la losa si ésta tiene la resistencia suficiente para soportar las cargas del peso propio de las máquinas y del doble de la carga máxima suspendida.
 
-En base a tales antecedentes, cuando se trate de edificios de oficinas, el estudio deberá contemplar las siguientes condiciones:
+La altura de la sala de máquinas deberá cumplir con lo señalado en las normas técnicas oficiales vigentes y con las especificaciones del fabricante.
 
-a) El intervalo de tiempo medio de partida en el piso de acceso no podrá ser superior a 45 segundos.
+Las salas de máquinas no se deben destinar a otro uso distinto al del ascensor. No deben contener canalizaciones, cables ni otros dispositivos ajenos al servicio del ascensor.
 
-b) El tiempo máximo de evacuación correspondiente a la capacidad de transporte de la instalación no podrá ser superior a 45 minutos.
+f) Pozo:
 
-c) La capacidad de transporte de la instalación, medida según el porcentaje del total de usuarios que pueda transportar en un período de 5 minutos, no podrá ser inferior al 12%, sobre y bajo el acceso principal.
+El pozo del ascensor no podrá estar sobre lugares de tránsito de personas, a menos que se lleve a terreno firme la proyección vertical del contrapeso mediante uno o varios pilares, o que se dote al contrapeso de paracaídas o se contemple una solución para disipar la energía del contrapeso en caída libre.
 
-Los planos y especificaciones técnicas de la instalación de ascensores, sean éstos requeridos o adicionales, suscritos por el fabricante o representante oficial, deberán incorporarse al expediente del proyecto con anterioridad a la recepción definitiva de las obras.
+Los planos y especificaciones técnicas de la instalación de ascensores deberán ser suscritos por el fabricante y adjuntarse a la solicitud del permiso respectivo. Dichos planos contendrán las plantas y cortes que permitan definir la obra gruesa y terminaciones de la caja de ascensores, sala de máquinas y pozo, como también las principales características y dimensiones de la cabina.
 
-La cantidad, disposición, capacidad y características de los ascensores que excedan la dotación mínima antes descrita, o los contemplados en edificios que no los requieran conforme a este artículo, serán las que determine el arquitecto del proyecto.
+Estas instalaciones deberán incorporar un sensor sísmico calibrado y cumplir con los requisitos mínimos de diseño, instalación y operación frente a sismos, contenidos en las normas técnicas oficiales vigente. Con todo, los rieles guía de los ascensores verticales siempre deberán ser en perfil "T".
 
-Estas instalaciones deberán cumplir sólo con las especificaciones del fabricante.
+Asimismo, las instalaciones de ascensores deberán estar conectadas a un sistema de emergencia eléctrico, o en su defecto contemplar baterías, que le den autonomía de funcionamiento e iluminación de emergencia, en caso que se interrumpa la alimentación normal de la instalación desde la red pública.
+
+Los ascensores no podrán proyectarse contiguos a locales habitables destinados a dormitorios, salvo que se trate de viviendas unifamiliares.
+
+Los proyectos que incorporen ascensores y no correspondan a los señalados en la letra
+
+- **a)** precedente, no requerirán del Estudio de Ascensores, sin embargo deberán cumplir con las medidas mínimas de cabina, puertas automáticas y demás características señaladas en las letras c), d),
+
+- **e)** y
+
+- **f)** de este mismo numeral, sin perjuicio de las disposiciones sobre ascensores establecidas en el artículo 4.1.7. de esta Ordenanza.
+
+Tratándose de ascensores incorporados en proyectos de viviendas unifamiliares, o en viviendas unifamiliares existentes, no requerirán del Estudio de Ascensores y las dimensiones mínimas de cabina podrán reducirse, pudiendo las puertas de piso y cabina ser batientes o plegables, en tanto operen con deslizamiento horizontal. Tratándose de ascensores especiales, las dimensiones mínimas de cabina podrán reducirse, 1 m por 1,25 m y el ancho de puertas reducirse a 0,8 m.
+
+Los ascensores electromecánicos verticales que requieran instalarse en los edificios señalados en los números 1) y 2) de la letra a) de este numeral, corresponderán a ascensores del tipo regenerativo, entendiéndose por éstos a aquellos que durante el movimiento ascendente o descendente de la cabina o el contrapeso generan energía eléctrica. Igualmente, se conformarán como ascensores del tipo regenerativo aquellos ascensores electromecánicos instalados en estos mismos edificios, que en su alteración o transformación, consideren el cambio de la velocidad nominal, la carga nominal y/o la masa de la cabina; o consideren el cambio o sustitución de la máquina o el sistema de control.
+
+2. Montacargas.
+
+Los proyectos que contemplen montacargas, deberán adjuntar a la solicitud de permiso de edificación el plano y las especificaciones técnicas de estas instalaciones, que serán suscritos por el fabricante o su representante oficial, las que indicarán la cantidad a instalarse, las características de la instalación, el tipo de carga que se transportará y la capacidad de transporte de la instalación, debiendo cumplir con las especificaciones técnicas del fabricante y con las normas técnicas oficiales vigentes.
+
+Los muros de la caja de montacargas tendrán la resistencia al fuego asignada a la caja de ascensores, señalada en el numeral precedente.
+
+3. Escaleras o rampas mecánicas.
+
+Los proyectos que contemplen escaleras o rampas mecánicas deberán adjuntar a la solicitud de permiso de edificación el plano y las especificaciones técnicas de estas instalaciones, suscritos por el fabricante o representante oficial, indicando la cantidad a instalarse y las características de la instalación, señalando su capacidad de transporte, debiendo cumplir con las especificaciones técnicas del fabricante y con las normas técnicas oficiales vigentes.
 
 #### Artículo 4
 
@@ -7068,9 +7196,9 @@ Las Direcciones de Obras Municipales con el solo mérito de la presentación de 
 
 3. Permiso de Alteración, Reparación o Reconstrucción.
 
-Se otorgará permiso para alterar, reparar o reconstruir un edificio, si la intervención aisladamente considerada cumple con todas las exigencias de la presente Ordenanza. Para estos efectos se deberá acompañar planos y especificaciones técnicas de aquellas partes del edificio que sufran cambios con respecto a los antecedentes primitivamente aprobados. Dichos planos diferenciarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar las condiciones proyectadas de seguridad y habitabilidad. Se acompañará también presupuesto informativo de las obras correspondientes.
+Se otorgará permiso para alterar, reparar o reconstruir un edificio, si la intervención aisladamente considerada cumple con todas las exigencias de la presente Ordenanza. Para estos efectos se deberá acompañar planos y especificaciones técnicas de aquellas partes del edificio que sufran cambios con respecto a los antecedentes primitivamente aprobados. Dichos planos diferenciarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar las condiciones proyectadas de seguridad y habitabilidad. Se acompañará también presupuesto informativo de las obras correspondientes. Si la intervención afectare la estructura de la edificación, se deberá acompañar la memoria de cálculo y planos de estructura, suscritos por el profesional competente.
 
-Si la intervención afectare la estructura de la edificación, se deberá acompañar la memoria de cálculo y planos de estructura, suscritos por el profesional competente.
+La instalación en edificios existentes de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, deberá cumplir lo establecido en los artículos 4.1.11. y 5.9.5. de esta Ordenanza, en lo que corresponda, además de las respectivas normas técnicas oficiales vigentes. Junto a la respectiva solicitud de permiso se deberán adjuntar los antecedentes señalados en el numeral 13 del artículo 5.1.6. de esta Ordenanza que sean pertinentes.
 
 Tratándose de alteraciones consistentes en obras de restauración, rehabilitación o remodelación de edificios ligados a Monumentos Nacionales, inmuebles o zonas de conservación histórica, tal circunstancia deberá declararse en la solicitud, debiendo en estos casos, presentarse la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
@@ -7154,7 +7282,15 @@ Los permisos de reconstrucción de edificaciones destinadas a otros usos distint
 
 Sin perjuicio de lo anterior, estos permisos deberán cumplir con las siguientes normas de esta Ordenanza:
 
-- Las del Título 4 "De la Arquitectura", relativas a normas de seguridad, habitabilidad, estabilidad y de las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, cuando corresponda.
+- Las del Título 4 "De la Arquitectura", relativas
+
+a normas de seguridad, habitabilidad, estabilidad
+
+y de las instalaciones interiores de electricidad,
+
+agua potable, alcantarillado y gas, cuando
+
+corresponda.
 
 - Las del artículo 5.1.7. referidas al proyecto de
 
@@ -7490,13 +7626,11 @@ c) Planta de todos los pisos, debidamente
 
 acotadas, señalando el o los
 
-destinos contemplados. Las cotas
+destinos contemplados. Las cotas deberán
 
-deberán ser suficientes para permitir
+ser suficientes para permitir calcular
 
-calcular la superficie edificada de
-
-cada planta.
+la superficie edificada de cada planta.
 
 d) Cortes y elevaciones que ilustren los
 
@@ -7556,7 +7690,13 @@ consulte.
 
 12.Levantamiento topográfico, debidamente acotado, con indicación de niveles, suscrito por un profesional o técnico competente y refrendado por el arquitecto proyectista, salvo que dicha información esté incorporada en las plantas de arquitectura.
 
-13.Estudio de Ascensores, cuando corresponda.
+13. Carpeta de Ascensores e Instalaciones similares, cuando el proyecto contemple dichas instalaciones, la que contendrá a su vez:
+
+a) Plano General de ascensores, montacargas, escaleras o rampas mecánicas, que individualiza cada una de estas instalaciones, en conformidad a lo dispuesto en el numeral 1 del artículo 5.9.5. de esta Ordenanza.
+
+b) Especificaciones técnicas de cada una de las instalaciones de ascensores, montacargas, escaleras o rampas mecánicas, que corresponda.
+
+c) Estudio de Ascensores, cuando corresponda.
 
 14. Plano de Accesibilidad en caso de edificios a los que se refiere el Artículo 4.1.7. de esta Ordenanza, a una escala adecuada, que grafique el cumplimiento de las normas de accesibilidad universal y discapacidad que correspondan, detallando en éste los datos usados para el cálculo de cada rampa del proyecto incluyendo esquemas en planta y corte, además del trazado y ancho de la ruta accesible, incorporando, según sea el caso, los accesos del edificio, los recintos y áreas del edificio que esta ruta conecta.
 
@@ -7566,7 +7706,7 @@ Los niveles y superficies declaradas serán responsabilidad del profesional comp
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
 
-Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de este artículo, se agregarán dos nuevas copias, una vez que el expediente se encuentre apto para el otorgamiento del permiso.
+Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de este artículo, se agregarán dos nuevas copias, una vez que el expediente se encuentre apto para el otorgamiento del permiso. Igualmente y cuando el proyecto contemple ascensores y otras instalaciones similares, se agregarán dos copias adicionales de la carpeta señalada en el numeral 13 de este artículo, con todos sus antecedentes.
 
 Las solicitudes de permiso de edificación de las construcciones industriales, de equipamiento, turismo y poblaciones, ubicadas fuera de los límites urbanos, deberán acompañar además de los antecedentes que señala este artículo, los informes favorables de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola Ganadero.
 
@@ -8028,7 +8168,7 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 4. Aviso de instalación y planos correspondientes a las redes y elementos de telecomunicaciones, cuando proceda.
 
-5. Certificados de instalaciones de ascensores y montacargas, emitido por la autoridad que corresponda y por el instalador, cuando proceda. Asimismo la certificación de aprobación de los sistemas electromecánicos o electrohidráulicos.
+5. Documentación de la instalación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, a la que se refiere el numeral 2 del artículo 5.9.5. de esta Ordenanza.
 
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
@@ -8069,6 +8209,8 @@ La resolución aprobatoria de las modificaciones al proyecto se podrá emitir en
 #### Artículo 5
 
 2.9. Las Direcciones de Obras Municipales podrán en cualquier momento, después de la recepción definitiva de una obra, fiscalizar el cumplimiento de las normas sobre seguridad, conservación de las edificaciones, accesibilidad universal y discapacidad.
+
+Asimismo, podrán fiscalizar que los edificios que tengan instalados ascensores, montacargas y escaleras o rampas mecánicas, cuenten con la mantención y certificación a que se refiere el artículo 5.9.5. de esta Ordenanza. De comprobarse que no se cuenta con dicha mantención o certificación, se aplicará lo dispuesto en el inciso final del artículo 159 bis de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 5
 
@@ -9400,69 +9542,265 @@ Los conductos de humo deberán tener en su base una puerta de registro de ajuste
 
 10. Las cañerías de alimentación de los radiadores deberán instalarse de manera que puedan dilatarse libremente y en los cruces de losas o muros deberán dejarse pasos entubados para las cañerías.
 
-Ascensores y montacargas.
+Ascensores, montacargas y escaleras o rampas mecánicas.
 
 #### Artículo 5
 
-9.5. La instalación de ascensores que formen parte de la dotación mínima exigida conforme al artículo 4.1.11. de esta Ordenanza, se ajustará a las normas chilenas oficiales que expresamente se indican y a las disposiciones siguientes:
+9.5. La instalación, mantención y certificación de los ascensores, montacargas y escaleras o rampas mecánicas, en edificios privados o públicos, además de cumplir con lo establecido en el artículo 4.1.11. de esta Ordenanza, se ajustarán a las siguientes disposiciones:
 
 1. Generalidades.
 
-Los planos de instalaciones de ascensores deberán ser suscritos por profesional especialista o por el fabricante y contendrán las plantas y cortes que permitan definir la obra gruesa y terminaciones de la caja de ascensores, sala de máquinas y pozo, como también las principales características y dimensiones de la cabina.
+La instalación, mantención y certificación de cualquiera de estas instalaciones, deberán cumplir con las normas de esta Ordenanza.
 
-Tanto las obras de construcción como de instalación deberán ejecutarse con estricto apego a los planos presentados y sus modificaciones, si las hubiere, no debiendo instalarse elementos ajenos al servicio de los ascensores que no se hubieren previsto en los planos.
+Asimismo, deberán cumplir con los requisitos de seguridad y con los procedimientos de inspección y ensayo establecidos en las normas técnicas oficiales vigentes.
 
-Durante su operación, las instalaciones de ascensores deberán cumplir las disposiciones sobre emisión de ruidos molestos generados por fuentes fijas establecidas mediante D.S. Nº 146, del Ministerio Secretaría General de la Presidencia, de 1997.
+Sin perjuicio de lo anterior, para el caso de ascensores verticales, se deberá dar cumplimiento a las siguientes normas técnicas:
 
-2. Caja del ascensor.
+- NCh 440/1 Construcción - Elevadores - Requisitos de seguridad e instalación - Parte 1: Ascensores y Montacargas Eléctricos.
 
-a) Terminará inferiormente en un pozo y superiormente en un espacio sobre la cabina que contemplará un recorrido libre de seguridad, calculado por el profesional especialista o por el fabricante, conforme a las especificaciones técnicas de la instalación.
+- NCh 440/2 Construcción - Elevadores - Requisitos de seguridad e instalación - Parte 2: Ascensores y Montacargas Hidráulicos.
 
-b) Consultará luces a una distancia vertical máxima entre ellas de 10,5 m.
+Asimismo, se deberá dar cumplimiento a las siguientes normas técnicas, según las instalaciones que correspondan:
 
-Se permitirá la instalación de ascensores y montacargas paralelos en una caja común, conforme a las especificaciones técnicas del fabricante.
+- NCh 3344/1 Seguridad de escaleras mecánicas y rampas móviles
 
-3. Sala de máquinas.
+Parte 1: Construcción e instalación.
 
-a) La resistencia al fuego de sus elementos perimetrales será a lo menos F-15.
+- NCh 3344/2 Seguridad de escaleras mecánicas y rampas móviles
 
-b) El acceso de entrada a la sala de máquinas deberá ofrecer la necesaria seguridad para el tránsito de personas y transporte de las máquinas.
+Parte 2: Reglas para la mejora de la seguridad de las escaleras mecánicas y de las rampas móviles existentes.
 
-c) La sala de máquinas no deberá utilizarse como paso o tránsito para el público y sus puertas de acceso deberán dotarse con cerraduras que permitan su abertura desde el interior, sin necesidad de llaves.
+- NCh 3362 Requisitos mínimos de diseño, instalación y operación para ascensores electromecánicos frente a sismos.
 
-d) Las dimensiones del acceso serán proporcionales al tamaño de las máquinas que deban instalarse en la sala.
+Todos los ascensores, tanto verticales como inclinados, montacargas y escaleras o rampas mecánicas de una edificación, deberán singularizarse en un Plano General de dichas instalaciones, en que se graficará cada uno de estos en la planta del primer piso del edificio, del acceso principal, o en la que corresponda al piso de salida del edificio. Dicho plano será confeccionado y firmado por el profesional especialista que suscribe el estudio de ascensores y el propietario.
 
-e) En edificios destinados a vivienda, la altura mínima de la sala será de 2,10 m. para ascensores con velocidad hasta 1,75 m/s y de 2,50 m para velocidades mayores de 1,75 m/s.
+En dicho plano, se identificará con un número único a cada ascensor, montacarga, escalera y rampa mecánica del respectivo edificio. Este número se conformará a partir del número de la comuna asignado por el Servicio de Impuestos Internos, seguido del número de rol de avalúo de la propiedad, según manzana y predio donde se emplaza el proyecto, seguido del número asignado a la respectiva instalación, compuesto por dos dígitos partiendo del "01" y una letra al final, que se asignará conforme a la siguiente nomenclatura:
 
-f) En el cielo de la sala de máquinas existirán uno o más soportes metálicos que permitan la movilidad de los elementos pesados.
+A : Ascensor Electromecánico.
 
-g) Dispondrá de acometidas independientes de fuerza y alumbrado, con interruptores y fusibles adecuados.
+E : Escalera Mecánica.
 
-h) La iluminación eléctrica de la sala será igual o superior a 200 lux, comandada por un interruptor accesible desde la puerta de acceso.
+F : Funicular.
 
-i) Si la sala de máquinas está ubicada en el extremo superior de la caja del ascensor, las máquinas deberán descansar sobre un envigado de acero o de hormigón armado, apoyado en los muros soportantes del edificio o sobre la losa si ésta tiene la resistencia suficiente para soportar las cargas del peso propio de las máquinas y del doble de la carga máxima suspendida.
+H : Ascensor Hidráulico.
 
-j) La sala de máquinas contemplará, además, los coeficientes de seguridad que indica la Norma NCh 440 o la que la reemplace.
+I : Ascensor Inclinado.
 
-k) La superficie de las aberturas para ventilación será igual o mayor al 10% de la superficie de planta de la sala de máquinas.
+R : Rampa Mecánica.
 
-4. Pozo.
+M : Montacarga.
 
-a) No podrá estar sobre lugares de tránsito de personas, a menos que se lleve a terreno firme la proyección vertical del contrapeso mediante uno o varios pilares, o que se dote al contrapeso de paracaídas o se contemple una solución para disipar la energía del contrapeso en caída libre.
+S : Ascensor Especial.
 
-b) Cuando el pozo sobrepase 1,5 m de profundidad deberá preverse una escala fija de acceso para inspección.
+En caso de rectificación de la identificación de los ascensores, tanto verticales como inclinados, montacargas y escaleras o rampas mecánicas, o por incorporación de nuevas instalaciones o eliminación de las ya existentes, respectivamente, dicho Plano General será corregido por el profesional especialista, con la firma del propietario, el que se adjuntará a la Carpeta de Ascensores e Instalaciones similares, archivada en el expediente del permiso de edificación del edificio.
 
-5. Cabina.
+2. Instalación de ascensores, montacargas y escaleras o rampas mecánicas.
 
-a) Sobre la plataforma del carro se construirá la cabina destinada al transporte de pasajeros, que deberá estar cerrada en todos sus costados sin otras aberturas que las puertas de acceso y las de evacuación. En caso de emergencia las puertas se deberán poder accionar desde el exterior.
+Deberá ser efectuada por una persona natural o jurídica con inscripción vigente en la especialidad Instaladores y en la categoría que corresponda del Registro de la ley Nº 20.296.
 
-b) Deberá cumplir con las disposiciones para personas con discapacidad indicadas en los números 10, 11, 12 y 13 del artículo 4.1.7. de esta Ordenanza.
+La instalación deberá ejecutarse con estricto apego a los planos y especificaciones que conforman el permiso respectivo y sus modificaciones, si las hubiere. En los espacios destinados a estas instalaciones, no podrán ser colocados elementos u otras instalaciones ajenas a estas.
 
-En el caso de ascensores especiales, tales como los panorámicos o hidráulicos, las características señaladas en los números 2, 3 y 4 de este artículo serán las que determine el fabricante.
+La documentación con la que se acreditará la correcta instalación de ascensores, montacargas y escaleras o rampas mecánicas, y que se encuentran operativos y en condiciones de funcionar es la siguiente:
 
-Todo tipo de ascensores y funiculares deberán contar para su funcionamiento con un certificado de revisión técnica, válido durante un año, otorgado por el fabricante o instalador y firmado por un Ingeniero Civil responsable, dirigido a la Dirección de Obras Municipales respectiva.
+a) Certificado de inscripción vigente en la especialidad Instaladores del Registro de la Ley Nº 20.296.
 
-Los montacargas, escaleras o rampas mecánicas y similares, sólo deberán cumplir con las especificaciones técnicas que determine el fabricante.
+b) Declaración Jurada del instalador que señale que todas las instalaciones de ascensores, montacargas y escaleras o rampas mecánicas cumplen con las normas técnicas oficiales vigentes, con las especificaciones técnicas del fabricante y con las de esta Ordenanza.
+
+c) Declaración Jurada del instalador que señale expresamente que para cada una de las instalaciones de ascensores, montacargas y escaleras o rampas mecánicas del proyecto, se efectuaron las inspecciones y ensayos previos a su puesta en servicio y que además se encuentran sin fallas o defectos y operativas. Para dicho efecto, en el caso de ascensores electromecánicos verticales, deberá procederse conforme señala el Anexo D de la NCh 440/1 y en el caso de ascensores hidráulicos verticales, se procederá conforme señala el Anexo D de la NCh 440/2. En el caso de ascensores inclinados o funiculares, montacargas y escaleras o rampas mecánicas deberá procederse conforme señalen para estos efectos las respectivas normas técnicas vigentes.
+
+d) Declaración Jurada del instalador, que señale que la instalación de ascensores verticales, inclinados o funiculares, y de escaleras o rampas mecánicas cuando corresponda, cumplen con la cantidad de ascensores, tanto verticales como inclinados o funiculares, diseño y características determinadas en el Estudio de Ascensores.
+
+e) Declaración de instalaciones eléctricas de ascensores, tanto verticales como inclinados, montacargas y escaleras o rampas mecánicas, cuando corresponda, inscrita por el instalador autorizado en la Superintendencia de Electricidad y Combustibles.
+
+f) En el caso de ascensores electromecánicos verticales se adjuntará además el Informe Técnico y las Certificaciones descritas en el Anexo C de la Norma NCh 440/1. En el caso de ascensores hidráulicos verticales, deberá procederse conforme señala el Anexo C de la NCh 440/2.
+
+g) Planos Mecánicos y Especificaciones Técnicas de cada una de las instalaciones de ascensores, montacargas, escaleras o rampas mecánicas, según corresponda:
+
+- Ascensores Verticales: Contendrá el plano de cada ascensor, las plantas y cortes que permitan definir la obra gruesa y terminaciones de la caja de ascensores, el pozo y el espacio o sala de máquinas, según corresponda, así como también las principales características y dimensiones de la cabina en los siguientes aspectos:
+
+- Capacidad en Kg.
+
+- Nº de Personas.
+
+- Velocidad Nominal.
+
+- Nº de Paradas.
+
+- Nº de Embarques.
+
+- Ancho y tipo de puertas.
+
+- Cargas máximas requeridas por la caja de ascensores y losa de sala de máquinas, cuando corresponda.
+
+- Ascensores Inclinados o Funiculares: Contendrá las plantas y cortes que permitan definir la obra gruesa donde se apoya la instalación y el plano de rodadura por la que se desplaza la cabina, así como también las principales características de la instalación, y las terminaciones, dimensiones, forma de acceder, y cargas máximas que soporta la cabina.
+
+- Montacargas, Rampas o Escaleras Mecánicas: Contendrá las plantas y cortes que permitan definir la obra gruesa donde se apoya la instalación, así como las terminaciones, dimensiones y cargas máximas que soporta el equipo.
+
+h) Planos de la instalación eléctrica y plano eléctrico de la línea de seguridad de todas las instalaciones.
+
+i) Plan anual de mantención para cada ascensor, tanto vertical como inclinado o funicular, montacarga, escalera o rampa mecánica, definido por el fabricante.
+
+j) Manual de Procedimientos e Inspecciones de cada ascensor, montacarga y escalera o rampa mecánica, según corresponda, proporcionados por el fabricante de la respectiva instalación.
+
+k) Manual de Uso e Instrucciones de Rescate proporcionado por el fabricante o el instalador.
+
+Las declaraciones señaladas en las letras b), c) y d) deberán haber sido emitidas con una antelación no superior a 15 días a la presentación de la solicitud de recepción definitiva.
+
+Luego de otorgada la recepción definitiva del edificio, la documentación contenida en el presente numeral, deberá archivarse en dos copias, una en la Carpeta que se encuentra en la Dirección de Obras Municipales y la otra en el respectivo edificio.
+
+Se considerarán alteraciones o transformaciones de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, el cambio o sustitución de uno o de todos los componentes de la respectiva instalación, especialmente los componentes de seguridad y tracción o suspensión determinados por el fabricante, salvo que se trate del mero reemplazo de dispositivos mecánicos o eléctricos de la instalación por otros del mismo tipo y características.
+
+En ascensores electromecánicos verticales, también se considerará alteración o transformación el cambio o sustitución de uno o de todos los componentes señalados en el Anexo E de la Norma NCh 440/1. En el caso de ascensores hidráulicos se considerará como alteración o transformación el cambio o sustitución de uno o de todos los componentes señalados en el Anexo E de la Norma NCh 440/2. La alteración o transformación de ascensores inclinados o funiculares, montacargas y escaleras o rampas mecánicas, sea por cambio o sustitución de sus componentes, o de una parte de estos, deberá conformarse a las correspondientes normas técnicas vigentes.
+
+El detalle de las alteraciones o transformaciones realizadas a las respectivas instalaciones deberán ser descritas en un Informe de Alteraciones, que junto a los respectivos planos y especificaciones técnicas que correspondan, serán entregados a la Dirección de Obras Municipales por el propietario del edificio para que sean archivados en la Carpeta de Ascensores e instalaciones similares. Todos estos documentos, y otros que sean necesarios ingresar para dar cuenta de las alteraciones realizadas, como sería el caso del nuevo plan anual de mantención, si correspondiese, serán suscritos por el propietario del edificio y por el profesional especialista a cargo de las transformaciones y reemplazarán a los existentes.
+
+Copia de estos mismos documentos se incorporarán a la Carpeta de Ascensores e Instalaciones similares archivada en el respectivo edificio y reemplazarán a los existentes en dicha Carpeta.
+
+3. Mantención de ascensores, montacargas y escaleras o rampas mecánicas.
+
+Serán responsables de la mantención los propietarios, quienes deberán celebrar el o los contratos correspondientes para estos efectos.
+
+La mantención de estas instalaciones se efectuará una vez por mes como mínimo, debiendo instalarse al interior de la cabina en el caso de ascensores, o en el exterior en un lugar visible en el resto de las instalaciones, un cuadro anual en el que se registren la fecha de mantención, la empresa y el nombre del personal técnico que la efectuó.
+
+La mantención de las instalaciones a que se refiere este artículo, deberá ser efectuada por una persona natural o jurídica con inscripción vigente en la especialidad Mantenedores del Registro de la Ley Nº20.296, quien deberá acreditar su condición de tal mediante la presentación de un certificado de inscripción vigente en el mencionado registro que deberá formar parte de los contratos respectivos, debiendo entregar además, en cada mantención que realice conforme al plan anual de mantención especificado por el fabricante, una copia del certificado que acredite la vigencia de dicha inscripción.
+
+La mantención de las instalaciones comprenderá el ejecutar las tareas definidas en el plan anual de mantención especificado por el fabricante de la instalación y las acciones preventivas y/o correctivas que procedan, de modo que garanticen el buen estado de la instalación y el funcionamiento sin riesgos para las personas, sean estos los usuarios de las instalaciones o el personal técnico que las mantiene.
+
+El mantenedor deberá entregar al propietario o al administrador, según corresponda, en cada mantención que realice, un informe en que conste el seguimiento del plan anual de mantención especificado por el fabricante y el detalle de las acciones preventivas y/o correctivas efectuadas a cada instalación. Asimismo, y cuando corresponda, en el mismo informe se comunicará qué componentes deben reemplazarse por desperfecto, desgaste, defecto de funcionamiento u otra circunstancia semejante, señalando igualmente el plazo en el cual debe estar ejecutado el respectivo remplazo.
+
+En caso que el funcionamiento de estas instalaciones presente riesgo inminente para las personas, el mantenedor deberá señalar dicha situación en el informe de mantención, detallando las fallas o defectos, a fin de que el propietario o el administrador, según corresponda, adopte las respectivas acciones, obras o reparaciones determinadas por el mantenedor.
+
+En estos casos, las instalaciones deberán ser dejadas sin servicio por el propietario o el administrador, según corresponda, y no podrán ser utilizadas hasta que se realicen las acciones, obras o reparaciones determinadas en dicho informe.
+
+En esta circunstancia, el propietario o el administrador, según corresponda, instalará un aviso en un lugar visible y próximo a dicha instalación, informando que las instalaciones han sido dejadas sin servicio. Una vez finalizadas las acciones, obras o reparaciones determinadas, el mantenedor dará su conformidad para que la instalación sea puesta en servicio. Entretanto, las instalaciones no podrán ser utilizadas.
+
+En este último caso, el aviso debe contener la siguiente información:
+
+- Título: "INSTALACIÓN NO OPERATIVA".
+
+- Motivo: presenta riesgo para las personas.
+
+- Nº Identificación de la instalación.
+
+- Tipo de instalación, sea que se trate de un ascensor vertical, ascensor inclinado o funicular, montacarga, escalera o rampa mecánica.
+
+- Fecha de la inspección.
+
+- Nombre del mantenedor.
+
+- Nº inscripción del mantenedor en el Registro de la Ley Nº 20.296.
+
+4. Certificación de ascensores, montacargas y escaleras o rampas mecánicas.
+
+Los propietarios o el administrador, tratándose de edificios acogidos al régimen de copropiedad inmobiliaria, deberán acreditar mediante un certificado emitido por una persona natural o jurídica inscrita en la especialidad Certificadores del Registro de la Ley Nº 20.296, que las instalaciones de que trata este artículo han sido adecuadamente mantenidas y que se encuentran en condiciones de seguir funcionando.
+
+Las certificaciones se realizarán conforme al destino de las edificaciones y en función de la capacidad de transporte de la instalación, según se indica en la siguiente tabla:
+
+Destino del Edificio Capacidad Periodicidad
+
+de Transporte Certificación
+
+Vivienda. Cualquiera Cada 2 años
+
+Destinos del uso de Cualquiera Cada 1 año
+
+suelo Equipamiento.
+
+Destinos del uso de hasta 8% Cada 2 años
+
+suelo: Residencial sobre 8% Cada 1 año
+
+excepto vivienda;
+
+Actividades
+
+Productivas;
+
+Infraestructura.
+
+Las edificaciones que consideren más de un destino deberán aplicar las exigencias de la tabla anterior conforme al destino predominante de la referida edificación. En caso de haber igual proporción de destinos, se aplicará la exigencia mayor.
+
+Para la certificación, el propietario o el administrador, cuando corresponda, deberá poner a disposición del certificador la Carpeta de Ascensores e Instalaciones similares señalada en el numeral 13 del artículo 5.1.6. de esta Ordenanza General. Esta contendrá además los respectivos informes de mantención del período que corresponde a la certificación y copia de todas las certificaciones efectuadas al respectivo ascensor, montacarga, rampa o escalera mecánica.
+
+La primera certificación se realizará durante el mes en que se cumplan los plazos a que se refiere la tabla anterior, según corresponda al destino del edificio, contados desde su recepción definitiva. En el caso de ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios que correspondan a obras de infraestructura ejecutadas por el Estado, a que se refiere el inciso tercero del artículo 116 del DFL Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, los plazos se contarán a partir de la fecha de término de las obras.
+
+Las certificaciones siguientes se realizarán en los mismos plazos y meses en que se hubiere practicado la primera certificación.
+
+El certificado será confeccionado para cada ascensor, montacarga y escalera o rampa mecánica usando el protocolo y formularios que para dichos efectos disponga el Ministerio de Vivienda y Urbanismo. Este certificado contendrá la siguiente información:
+
+a) Fecha de la certificación, dirección del respectivo edificio, destino de éste y capacidad de transporte.
+
+b) Identificación de la instalación de acuerdo al plano general que la singulariza, debiendo indicar si se trata de un ascensor vertical o inclinado o funicular, montacarga, escalera o rampa mecánica.
+
+c) Identificación de el o los mantenedores, y del certificador. Tratándose de la primera certificación, se deberá identificar, además, al instalador.
+
+d) Listado y fecha de las mantenciones efectuadas en la instalación desde la última certificación, el que se confeccionará sobre la base de los informes emitidos por los mantenedores.
+
+e) Declaración expresa señalando que ha sido adecuadamente mantenida y se encuentra en condiciones de seguir funcionando.
+
+f) Mes y año en que corresponde la siguiente certificación, salvo que la instalación no se encuentre en condiciones de seguir funcionando. En este último caso, procederá aplicar lo dispuesto en este artículo para las instalaciones no operativas.
+
+g) Firma del certificador.
+
+Al señalado documento deberá anexarse el certificado que acredite la vigencia de la inscripción del certificador en el Registro de la Ley Nº 20.296.
+
+El certificado deberá ser ingresado a la Dirección de Obras Municipales respectiva, por el propietario o por el administrador, según corresponda, antes del vencimiento del plazo que tiene la instalación para certificarse, y dentro de un plazo no superior a 30 días contados desde la fecha de emisión de la certificación.
+
+Una vez efectuada la certificación, el certificador en el primer piso del edificio, o en el que corresponda a su acceso principal o de salida, deberá colocar un sello de certificación en un lugar visible y perfectamente identificable del ascensor, tanto vertical como inclinado o funicular y montacarga, o en su defecto, en sus puertas exteriores. Copia de dicho sello se colocará en cada uno de los pisos que sirvan de acceso al edificio, tales como pisos destinados a estacionamientos o de acceso peatonal al respectivo edificio. Una copia de dicho sello, de menor dimensión que el original, se podrá colocar al interior de la cabina del ascensor, sea este vertical, inclinado o funicular.
+
+Para las instalaciones de escaleras o rampas mecánicas deberá colocar dicho sello en un lugar visible de éstas.
+
+El sello, a que se refiere el párrafo anterior, deberá contener, a lo menos, la siguiente información:
+
+- Título: "INSTALACIÓN CERTIFICADA".
+
+- Nº Identificación de la instalación.
+
+- Tipo de instalación, sea que se trate de un ascensor vertical, ascensor inclinado o funicular, montacarga, escalera o rampa mecánica.
+
+- Fecha de la certificación.
+
+- Mes y año de la siguiente certificación.
+
+- Nombre del certificador.
+
+- Nº inscripción del Certificador en el Registro de la Ley Nº 20.296.
+
+Se entenderá que un ascensor, montacarga, escalera o rampa mecánica ha sido adecuadamente mantenido cuando se verifique lo siguiente:
+
+a) Que cumple con los requisitos señalados en las normas técnicas oficiales vigentes que apliquen a la respectiva instalación;
+
+b) Que existe un contrato de mantención con una entidad inscrita en la especialidad de mantenedores del Registro de la Ley Nº 20.296;
+
+c) Que la instalación cuenta con los informes de mantención correspondientes al período posterior a la última certificación;
+
+d) Que se ha seguido el plan anual de mantención determinado para la respectiva instalación.
+
+En los casos en que no se hubiera realizado alguna de las mantenciones a que se refiere esta Ordenanza, no hubiesen sido hechas en los plazos señalados para ello, o no se encontraren vigentes los contratos de mantención respectivos, el certificador podrá efectuar la certificación, previa verificación de que las respectivas instalaciones se encuentran en condiciones de seguir funcionando.
+
+En los casos señalados en el inciso anterior, el certificador, además de emitir el respectivo certificado, deberá ingresar una copia de éste en la Dirección de Obras Municipales, en un plazo no superior a 15 días contados desde la fecha de emisión de la certificación, para los efectos de la aplicación de los artículos 20 y 21 de la Ley General de Urbanismo y Construcciones.
+
+En caso que el certificador determine que las instalaciones no se encuentran en condiciones de seguir funcionando, independientemente del hecho que se haya dado cumplimiento a las mantenciones obligatorias señaladas en el presente artículo, el propietario o el administrador, según corresponda, deberá dejar sin servicio la instalación e impedirá su utilización. En estos casos el certificador pondrá en conocimiento de lo anterior a la Dirección de Obras Municipales, para los efectos de la aplicación de los artículos 20 y 21 de la Ley General de Urbanismo y Construcciones.
+
+En este caso, el certificador deberá instalar un aviso en un lugar visible y próximo a dicha instalación, informando que las instalaciones han sido dejadas sin servicio, el que sólo podrá retirarse cuando se efectúe una nueva certificación, una vez que se hayan realizado acciones, obras o reparaciones necesarias para su adecuado funcionamiento. Entretanto, las instalaciones no podrán ser utilizadas.
+
+En este último caso, el aviso debe contener la siguiente información:
+
+- Título: "INSTALACIÓN NO OPERATIVA".
+
+- Motivo: sin Certificación.
+
+- Nº Identificación de la instalación.
+
+- Tipo de instalación, sea que se trate de un ascensor vertical, ascensor inclinado o funicular, montacarga, escalera o rampa mecánica.
+
+- Fecha de la inspección.
+
+- Nombre del certificador.
+
+- Nº inscripción del certificador en el Registro de la Ley Nº 20.296.
+
+La Dirección de Obras Municipales archivará los certificados ingresados en la oportunidad señalada en la Carpeta de Ascensores e Instalaciones similares, contenida en el expediente correspondiente al respectivo permiso de edificación. El no ingreso oportuno de estos certificados, también deberá ser puesto en conocimiento por la Dirección de Obras Municipales al Juzgado de Policía Local.
 
 Pavimentación de calzadas interiores.
 
