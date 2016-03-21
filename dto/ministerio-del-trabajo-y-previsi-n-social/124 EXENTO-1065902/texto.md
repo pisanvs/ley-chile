@@ -46,11 +46,7 @@ El Jefe del Servicio de Bienestar actuará como Secretario del Consejo y sólo t
 
 #### Artículo 4º
 
-Para ser representante de los afiliados, además de los requisitos indicados en el artículo 20 del Reglamento General, se requiere:
-
-a. Ser afiliado al Servicio de Bienestar con una antigüedad no inferior a dos años, y
-
-b. No ser integrante de la Planta de Directivos de la Superintendencia de Educación.
+Para ser representante de los afiliados, se deberá dar cumplimiento a los requisitos dispuestos en el artículo 20 del Reglamento General, y tener al menos un año de antigüedad como afiliado al Servicio de Bienestar.
 
 #### Artículo 5º
 
@@ -62,11 +58,13 @@ Los representantes titulares y suplentes de los afiliados, durarán dos años en
 
 #### Artículo 6º
 
-El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y serán citadas por el Jefe del Servicio de Bienestar, por escrito o por correo electrónico institucional con 3 días hábiles previo a la realización de dicha reunión y en ella se incluirá la tabla a desarrollar. De las deliberaciones y acuerdos se dejará constancia en el libro de actas, que al efecto llevará el Secretario del Consejo Administrativo y, aprobada ésta, será firmada por los miembros presentes.
+El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán cada dos meses y serán citadas por el Jefe del Servicio de Bienestar, por escrito o por correo electrónico institucional con a lo menos cinco días hábiles de antelación a su realización. Mientras que las sesiones extraordinarias debieran ser avisadas con al menos dos días hábiles a su realización, y en ambos casos las citaciones deberán incluir las tablas a desarrollar. De las deliberaciones y acuerdos se dejará constancia en Actas, que al efecto llevará el Secretario del Consejo Administrativo y una vez aprobada ésta, será firmada por los miembros presentes.
 
-A su vez, el Consejo Administrativo sesionará extraordinariamente cuando el Presidente del Consejo Administrativo convoque de oficio o a petición escrita de la mayoría de los miembros en ejercicio, o por acuerdo de éste. En esta sesión sólo podrán tratarse las materias contenidas en la citación, la que se hará en la misma forma señalada en el inciso precedente.
+A su vez el Consejo Administrativo sesionará extraordinariamente cuando el Presidente del Consejo Administrativo convoque de oficio o a petición escrita de la mayoría de los miembros en ejercicio, o por acuerdo de este. Las sesiones serán citadas por el Jefe del Servicio de Bienestar por escrito o por correo electrónico institucional. En esta sesión sólo podrán tratarse las materias contenidas en la citación, la que se hará en la misma forma señalada en el inciso precedente.
 
-El Consejo Administrativo sesionará con la mayoría absoluta de sus miembros y los acuerdos se adoptarán, en general, por simple mayoría, salvo las excepciones que se consignen en el presente Reglamento. En caso de empate, decidirá el voto de quien presida
+El Consejo Administrativo sesionará con la mayoría absoluta de sus miembros y los acuerdos se adoptarán, en general, por simple mayoría, salvo las excepciones que se consignen en el presente Reglamento. En caso de empate, decidirá el voto de quien presida.
+
+El Consejo Administrativo podrá, si lo estima conveniente, invitar a sus sesiones a personas que, por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias, quedando registro de su asistencia en la correspondiente Acta de sesión.
 
 ## Título IV
 
@@ -174,11 +172,11 @@ Subsidios de carácter social
 
 #### Artículo 13
 
-El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan, las siguientes ayudas, no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
+El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan, y por una vez en el año calendario, las siguientes ayudas o asignaciones en dinero o especie, no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
 
 a) Nacimiento o Adopción: Se podrá conceder una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres fuesen afiliados, se pagará el beneficio sólo al afiliado que lo reconozca como causante de asignación familiar. En caso de nacimientos o adopciones múltiples, se otorgarán tantas ayudas, como hijos nazcan o se adopten. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción del menor o se le reconozca como carga familiar;
 
-b) Matrimonio: Se podrá conceder una ayuda al afiliado que acredite haber contraído matrimonio. Si ambos cónyuges son afiliados, el beneficio le corresponderá a ambos;
+b) Matrimonio: Se podrá conceder una ayuda al afiliado que acredite haber contraído matrimonio o celebración de un Acuerdo de Unión Civil. Si ambos son contrayentes, el beneficio le corresponderá a ambos;
 
 c) Fallecimiento: Se podrá otorgar una ayuda en caso de fallecimiento del afiliado y de cada una de sus cargas familiares reconocidas, incluida el mortinato a partir del 5º mes de gestación y del hijo recién nacido que no hubiere sido reconocido aun como carga familiar. En el caso de muerte del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
@@ -192,15 +190,21 @@ c) Fallecimiento: Se podrá otorgar una ayuda en caso de fallecimiento del afili
 
 5. A la persona que acredite haber efectuado los gastos del funeral, hasta el monto documentado de dichos gastos, a excepción de la empresa funeraria.
 
-d) Educación: Se podrá conceder una asignación de escolaridad anual, por los afiliados y/o sus hijos cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio humanístico-científico o técnico-profesional o superior, en algún establecimiento estatal o reconocido por el Estado. Esta ayuda se hará extensible a los causantes de asignación familiar que asistan a establecimientos de educación diferencial. Asimismo, podrán otorgarse beneficios escolares especiales, tales como ayudas destinadas a los hijos del afiliado que deban recibir tratamientos, psicopedagógicos y fonoaudiológicos, en centros especializados o especialistas particulares.
+d) Educación: Se podrá conceder una asignación de escolaridad a los afiliados cuyas cargas familiares reconocidas en la institución, se encuentren cursando estudios regulares en los niveles parvulario, básico, medios y superiores, en establecimientos reconocidos por el Estado.
 
-e) Becas de Estudio: Se podrá conceder una ayuda económica en casos excepcionales destinada a complementar los gastos derivados de la educación del afiliado, o de sus cargas familiares.
+Esta asignación se extenderá al afiliado que se encuentre estudiando en algún establecimiento de educación superior en las condiciones que fije anualmente el Consejo Administrativo de Bienestar;
 
-f) Ayuda Médica: Se podrán conceder ayudas por este concepto en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, tales como diálisis, implantes, trasplantes, quimioterapia, UCI, UTI, VIH.
+e) Becas de Estudio: Se podrá conceder una ayuda económica para el afiliado y/o sus cargas familiares, como estímulo al buen rendimiento académico, y según condiciones determinadas por el Consejo Administrativo, y de acuerdo a disponibilidad presupuestaria;"
+
+f) Ayuda Médica: Se podrán conceder ayudas por este concepto al afiliado o sus cargas, en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, calificadas por el médico tratante, e informe del Jefe del Servicio de Bienestar, aprobados por el Consejo Administrativo;
 
 g) Catástrofe: Se podrá conceder ayuda en dinero o especies, al afiliado que sufra daños graves en sus bienes por situaciones imprevistas o de fuerza mayor derivadas de accidentes, siniestros, catástrofes, fenómenos naturales, incendios, terremotos o inundaciones. Para acceder a este beneficio será necesario la comprobación del hecho que lo cause, por el Jefe del Servicio de Bienestar.
 
 h) Condonación de Deudas: En caso de fallecimiento de un afiliado se entenderán automáticamente condonadas las deudas que tuviere con el Servicio de Bienestar, por concepto de préstamos que éste le hubiere otorgado.
+
+i) De vacaciones: Se podrá otorgar una ayuda en dinero o especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal en todo o parte, en el año calendario del presupuesto vigente, de acuerdo a lo establecido por el Consejo Administrativo de Bienestar;
+
+j) Ayudas Asistenciales: Se otorgará al afiliado una ayuda de carácter económico, frente a situaciones calificadas de extrema necesidad y urgencia que afecten a éste o a su núcleo familiar, situación que debe ser debidamente ponderada por el Jefe del Servicio de Bienestar y aprobados por el Consejo Administrativo.
 
 #### Artículo 14
 
@@ -246,17 +250,19 @@ Prestaciones de extensión
 
 #### Artículo 18
 
-El Servicio de Bienestar podrá:
+Cuando las posibilidades financieras y materiales del Servicio de Bienestar lo permitan, el Consejo Administrativo podrá acordar y asignar recursos en todo o en parte, orientados a lo siguiente:
 
 a) Administrar guarderías escolares, casas de huéspedes, policlínicos, refugios, casinos del personal, complejos deportivos, complejos recreativos, centros vacacionales, gimnasios, centros culturales, Salas y Salones que la Superintendencia de Educación adquiera a cualquier título y que sea para beneficio de sus afiliados;
 
-b) Financiar eventos culturales, deportivos, recreativos, artísticos y sociales que propendan el adecuado uso del tiempo libre de sus afiliados y cargas familiares;
+b) Patrocinar, organizar, asesorar, financiar y/o subvencionar actividades culturales, deportivas, recreativas, educativas, artísticas, espirituales y sociales que propendan el adecuado uso del tiempo libre de sus afiliados y cargas familiares.
 
-c) Patrocinar, asesorar y financiar cursos de desarrollo personal, actividades culturales y artísticas.
+c) Coordinar, financiar y/o subsidiar talleres que propendan a la promoción y mejoramiento de la calidad de vida de los afiliados y sus cargas familiares.
 
-d) Organizar y financiar celebraciones de Navidad y la adquisición de obsequios para sus afiliados e hijos cargas familiares hasta edades y montos que anualmente fije el Consejo Administrativo, y
+d) Promover, coordinar y financiar celebraciones de fechas especiales tales como Fiestas Patrias, Navidad, Año nuevo, Cumpleaños y otras actividades similares definidas por el Consejo Administrativo.
 
-e) Organizar, promover y financiar actividades de estímulo para sus afiliados.
+e) Otorgar a sus afiliados y cargas familiares obsequios en especies o dinero para ocasiones especiales tales como: Cumpleaños, Fiestas Patrias, Navidad, Día del Niño, Día de la Secretaria, Día de la Mujer, Día del Padre, Día de la Madre, Día del Trabajador, fiestas tradicionales, y otros similares aprobados por el Consejo Administrativo.
+
+f) Invertir en beneficios para los afiliados tales como: Vales de mercadería, supermercados, multitiendas u otros beneficios equivalentes que propendan a mejorar la economía y representen una ayuda económica de los afiliados y sus cargas familiares;
 
 ## Título VI
 
