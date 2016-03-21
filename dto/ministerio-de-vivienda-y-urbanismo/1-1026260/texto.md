@@ -130,11 +130,11 @@ De los saldos medios de ahorro. Para los efectos de obtener puntaje por concepto
 
 #### Artículo 10
 
-De la acreditación de ahorro para postular al subsidio habitacional. Para postular a los Subsidios Habitacionales que regula este reglamento, el postulante deberá acreditar haber enterado él o su cónyuge el ahorro mínimo requerido para postular en cada uno de los Títulos y tramo de precio de la vivienda, en alguno de los instrumentos señalados, para lo cual deberán presentar:
+De la acreditación de ahorro para postular al subsidio habitacional. Para postular a los Subsidios Habitacionales que regula este reglamento, la permanencia o antigüedad de la cuenta de ahorro no podrá ser inferior a 12 meses calendario completos, contados desde el día 1º del mes siguiente al de la fecha de apertura de dicha cuenta. Además, el postulante deberá acreditar haber enterado él o su cónyuge el ahorro mínimo requerido para postular en cada uno de los Títulos y tramo de precio de la vivienda, en alguno de los instrumentos señalados, para lo cual deberán presentar:
 
 a) En caso que la entidad captadora de ahorro, en adelante la entidad captadora, tenga convenio de traspaso electrónico con el Minvu, fotocopia de la libreta de ahorro o certificación emitida por la entidad captadora en que conste a lo menos el número de la cuenta y el tipo de libreta o cuenta; o una copia del Registro de Ahorro, en que se detalle número de cuenta de ahorro, la fecha de apertura y el tipo de cuenta. En todo caso deberá acompañarse mandato otorgado al Serviu respectivo para que solicite el saldo existente en la cuenta, el bloqueo de los fondos y su aplicación;
 
-b) En caso que la entidad captadora no tenga convenio de traspaso electrónico con el Minvu, certificación emitida por la entidad captadora de ahorro, en que conste el número de la cuenta y el tipo de libreta o cuenta, que acredite los saldos semestrales de ahorro que ha mantenido la cuenta, así como el saldo final.
+b) En caso que la entidad captadora no tenga convenio de traspaso electrónico con el Minvu, certificación emitida por la entidad captadora de ahorro, en que conste el número de la cuenta y el tipo de libreta o cuenta, que acredite los saldos semestrales de ahorro que ha mantenido la cuenta, así como el saldo final y la fecha de apertura de la cuenta de ahorro.
 
 La certificación que acredite el ahorro, expresado en UF, deberá ser extendida con la información referida al último día del mes anterior al de la postulación, en formato proporcionado por el Minvu.
 
@@ -279,6 +279,8 @@ n) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios a
 ñ) Tratándose de postulantes en cuyo núcleo familiar se incluyan personas que hayan efectuado el Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar y que hayan quedado en condición de Acuartelados en el proceso de selección de Contingente a partir del año 2004, para optar al puntaje establecido en el literal a) de los artículos 65 y 68, lo que será consultado en línea a la Dirección General de Movilización o en su defecto, deberán adjuntar certificado que lo acredite emitido por la respectiva Unidad de Licenciamiento del Ejército, Armada o Fuerza Aérea.
 
 o) El sitio acreditado conforme a lo señalado en la letra h) precedente, deberá contar con Certificado de Informaciones Previas emitido por la correspondiente Dirección de Obras Municipales y con Certificado de factibilidad de dación de servicios emitido por las entidades correspondientes; tratándose de los servicios de agua potable y alcantarillado, convenio suscrito de acuerdo al artículo 33 C del D.F.L. Nº 382, de 1988, del Ministerio de Obras Públicas, cuando fuere procedente, salvo que se trate de un proyecto aprobado conforme a lo señalado en el artículo 55 de la Ley General de Urbanismo y Construcciones. En el caso que el proyecto se encuentre emplazado dentro de un área en que opera un Comité de Agua Potable Rural, éste podrá certificar la factibilidad de agua potable, si corresponde.
+
+p) Tratándose de postulantes o su cónyuge o conviviente civil que sean funcionarios de las Plantas de Suboficiales y Gendarmes, o de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, para optar al puntaje establecido en el literal a) de los Artículos 65 y 68 de este reglamento, deberán adjuntar Certificado que acredite su calidad de funcionario y que sus labores permanentes se desarrollan al interior de recintos penitenciarios, otorgado por Gendarmería de Chile.
 
 ### Párrafo 5º — De los impedimentos para postular
 
@@ -982,17 +984,33 @@ De los postulantes al Título I. El Subsidio habitacional regulado por el presen
 
 #### Artículo 64
 
-Montos del subsidio y del ahorro del Título I. Los montos máximos de subsidio y el ahorro mínimo exigido para postular, según el precio máximo de la vivienda, expresados todos en U. F., serán los siguientes:
+Montos del subsidio y del ahorro mínimo para el Título I. Los montos de subsidio y el ahorro mínimo exigido para postular a este Título, según el precio máximo de vivienda para cada tramo, expresados todos en U.F. y la modalidad de aplicación del subsidio, serán los siguientes:
 
-. En que "P" corresponde al precio de vivienda de acuerdo al artículo 7º del presente reglamento.
+a) Subsidio y ahorro mínimo para postular a operaciones de adquisición de vivienda del Título I:
+
+a.1) Título I, tramo 1:
 
 Los montos de subsidio se calcularán con dos decimales.
 
-En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, los montos de subsidio indicados en la tabla precedente se adicionarán hasta con 20 UF, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
+a.2) Título I, tramo 2:
 
-Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional al determinado en la tabla precedente, cuyo monto se determinará conforme a lo siguiente:
+Los montos de subsidio se calcularán con dos decimales.
 
-. En que "P" corresponde al precio de vivienda de acuerdo al artículo 7º del presente reglamento.
+b) Subsidio y ahorro mínimo para postular a operaciones de construcción en sitio propio o densificación predial del Título I:
+
+b.1) Título I, tramo 1: No aplica.
+
+b.2) Título I, tramo 2:
+
+c) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las tablas precedentes se adicionarán hasta con 20 U.F., siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
+
+d) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio adicional de 100 U.F. a los determinados en las tablas de las letra a.1) y a.2).
+
+e) Conforme a los gastos que rinda al momento de presentar a cobro el certificado de subsidio, en el caso de una operación de construcción en sitio propio o densificación predial, el beneficiario obtendrá un subsidio adicional de hasta 15 U.F. destinado a financiar el costo de la elaboración del proyecto y gastos administrativos, tales como el permiso de edificación, recepción final municipal, certificados e inscripciones que correspondan.
+
+En el caso de operaciones de adquisición correspondientes al tramo 1, el beneficiario obtendrá un subsidio adicional de hasta 10 U.F. para el pago de los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, informe de aceptabilidad, inscripción en el Conservador de Bienes Raíces.
+
+Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
 
 #### Artículo 65
 
@@ -1021,6 +1039,8 @@ a) Grupo Familiar:
 50 puntos adicionales como postulante, en caso que éste o su cónyuge hubiesen sido propietarios de una vivienda que resultó destruida o inhabitable, debidamente certificado, de acuerdo a lo señalado en la letra a) del artículo 18 de este reglamento.
 
 40 puntos adicionales por cada integrante del grupo familiar que acredite ser voluntario Activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpos de Bomberos de Chile.
+
+40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra p) del artículo 16. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
 Para estos efectos, los miembros del núcleo familiar incluido en la Declaración de Núcleo deberán corresponder a los comprendidos en el Instrumento de Caracterización Socio Económica aplicado al postulante.
 
@@ -1072,37 +1092,23 @@ El subsidio habitacional regulado por el presente Título está dirigido a famil
 
 #### Artículo 67
 
-Monto de subsidio y del ahorro para el Título II. Los montos máximos de subsidio y el ahorro mínimo exigido para postular según el precio máximo de la vivienda, expresados todos en UF serán los siguientes:
+Montos del subsidio y del ahorro para el Titulo II. Los montos de subsidio y el ahorro mínimo exigido para postular a este Título, según el precio máximo de vivienda para cada tramo, expresados todos en U.F., serán los siguientes:
 
-a) Todas las regiones, provincias y comunas del país, excepto las señaladas en la letra b):
-
-* En que "P" corresponde al precio de vivienda de acuerdo al artículo 7º del presente reglamento.
+a) Subsidio y ahorro mínimo para postular a operaciones de adquisición de vivienda del Título II:
 
 Los montos de subsidio se calcularán con dos decimales.
 
-b) Provincia de Chiloé:
-
-c) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincia de Palena, y comunas de Isla de Pascua y Juan Fernández:
+b) Subsidio y ahorro mínimo para postular a operaciones de construcción en sitio propio o densificación predial del Título II:
 
 Los montos de subsidio se calcularán con dos decimales.
 
-d) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas, conforme a lo señalado en este reglamento, o a viviendas nuevas que formen parte de un proyecto de la Nómina de Oferta o de un proyecto habitacional, emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras a), b) o c) de este artículo, cuyo monto en ningún caso podrá ser inferior a 200 UF, ni superior a 300 UF, si se determina conforme a la letra a); 350 UF, si se determina de acuerdo a la letra b); o 400 UF, si se determina según la letra c), ya referidas.
+c) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en la tabla de la letra a) de este artículo, cuyo monto no podrá ser inferior a 200 U.F.
 
-e) Tratándose de la adquisición de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios de este Título podrán obtener un subsidio de hasta 300 Unidades de Fomento dando cumplimiento a lo establecido en las respectivas normas vigentes, de acuerdo a la ley Nº 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. De la rehabilitación del inmueble deberán generarse dos o más viviendas.
+d) Tratándose de la adquisición de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios de este Título podrán obtener un subsidio que se determinará de acuerdo a lo dispuesto en la tabla de la letra a) de este artículo, cuyo monto no podrá ser inferior a 350 Unidades de Fomento, dando cumplimiento a lo establecido en las respectivas normas vigentes, de acuerdo a la Ley Nº 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. De la rehabilitación del inmueble deberán generarse dos o más viviendas.
 
-f) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las letras a), b), c) y d) precedentes, se adicionarán hasta 20 UF, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
+e) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las tablas de las letras a) y b) precedentes se adicionarán hasta 20 U.F., siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-g) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional de hasta 100 UF al determinado en las letras
-
-- **a)** y
-
-- **b)** de este artículo. Este subsidio adicional no será aplicable cuando se trate de los subsidios a que se refieren las letras
-
-- **c)** y
-
-- **d)** de este artículo.
-
-h) ELIMINADO.
+f) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio adicional de 100 U.F. a los determinados en la tabla de la letra a).
 
 #### Artículo 68
 
@@ -1165,6 +1171,8 @@ La información del núcleo familiar será consultada directamente por el Serviu
 50 puntos adicionales como postulante, en caso que éste o su cónyuge hubiesen sido propietarios de una vivienda que resultó destruida o inhabitable, debidamente certificado, de acuerdo a lo señalado en la letra a) del artículo 18 de este reglamento.
 
 40 puntos adicionales por cada integrante del grupo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpos de Bomberos de Chile.
+
+40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra p) del artículo 16. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
 b) Puntaje por Caracterización Socioeconómica, si la tuviere:
 

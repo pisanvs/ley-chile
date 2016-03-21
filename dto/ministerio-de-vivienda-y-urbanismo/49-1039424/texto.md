@@ -108,6 +108,8 @@ m) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios a
 
 Al momento de la postulación, el interesado podrá otorgar su autorización al SERVIU para que, en caso de resultar seleccionado, entregue datos de su postulación a terceros, para el solo efecto que éstos puedan hacerle llegar información de viviendas u otra que pueda orientarlo en la elección de la solución habitacional.
 
+n) Tratándose de postulantes o su cónyuge o conviviente civil que sean funcionarios de las Plantas de Suboficiales y Gendarmes, o de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, para optar al puntaje establecido para esos efectos en la letra a) del artículo 24, deberán adjuntar Certificado que acredite su calidad de funcionario y que sus labores permanentes se desarrollan al interior de recintos penitenciarios, otorgado por Gendarmería de Chile.
+
 #### Artículo 4
 
 Impedimentos para postular y para aplicar el subsidio habitacional
@@ -495,6 +497,8 @@ a) Núcleo Familiar:
 40 puntos adicionales por cada integrante del núcleo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpo de Bomberos de Chile
 
 20 puntos por cada integrante del núcleo familiar que haya cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
+
+40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra n) del artículo 3. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
 b) Vulnerabilidad Social
 

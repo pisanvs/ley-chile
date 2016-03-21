@@ -194,6 +194,8 @@ g. Otorgar autorización expresa para consultar al Servicio de Impuestos Interno
 
 h. Presentar una Declaración Jurada de Postulación, acerca de la veracidad de la información proporcionada, de su conocimiento y de la aceptación de las obligaciones y prohibiciones dispuestas en el presente Reglamento.
 
+i. Tratándose de postulantes o su cónyuge o conviviente civil que sean funcionarios de las Plantas de Suboficiales y Gendarmes, o de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, para optar al puntaje establecido para esos efectos en la letra i. del artículo 25, deberán adjuntar Certificado que acredite su calidad de funcionario, el lugar de desempeño de sus funciones y que éstas se desarrollan de manera permanente al interior de recintos penitenciarios, otorgado por Gendarmería de Chile.
+
 #### Artículo 17
 
 De los instrumentos para mantener el ahorro: Los instrumentos para mantener y acreditar ahorro en dinero para postular al subsidio de arriendo serán los siguientes:
@@ -314,13 +316,15 @@ g. 100 puntos si el postulante o su cónyuge invoca su condición de persona rec
 
 h. 20 puntos por cada integrante del Núcleo Familiar, incluido el postulante, que a partir del año 2004 acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente.
 
-i. 20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación regulados por el presente Reglamento. Este puntaje se otorgará por cada llamado a postulación en que hubiere participado, hasta un máximo de tres, no pudiendo obtener más de 60 puntos por este concepto.
+i. 40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra i) del artículo 16. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
-j. Puntaje de Vulnerabilidad Social:
+j. 20 puntos si el postulante hábil no hubiese resultado seleccionado en uno o más llamados a postulación regulados por el presente Reglamento. Este puntaje se otorgará por cada llamado a postulación en que hubiere participado, hasta un máximo de tres, no pudiendo obtener más de 60 puntos por este concepto.
+
+k. Puntaje de Vulnerabilidad Social:
 
 La fórmula para determinar el puntaje de vulnerabilidad social se definirá en la resolución a que se alude en el artículo 7.
 
-k. Puntaje de Vulnerabilidad Habitacional (PVH): este puntaje se calculará aplicando la siguiente fórmula:
+l. Puntaje de Vulnerabilidad Habitacional (PVH): este puntaje se calculará aplicando la siguiente fórmula:
 
 PVH= 160*VHac + 40*Tipo + 20*Agua + 20*Excretas
 
