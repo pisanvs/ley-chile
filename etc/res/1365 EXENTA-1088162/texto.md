@@ -30,6 +30,10 @@ Resolución:
 
 1. Apruébase el monto de los recursos asignados en la selección del mes de enero del llamado dispuesto por la resolución exenta Nº 360 (V. y U.) de 2016, conforme al cuadro siguiente:
 
+UF del llamado UF selección Enero Saldo en UF
+
+1.000.000 5.263 994.737
+
 2. Apruébanse las nóminas de postulantes seleccionados para el otorgamiento de subsidios habitacionales correspondiente a la selección del mes de enero del llamado extraordinario del Programa de Protección del Patrimonio Familiar Título II, dispuesto en el Resuelvo Nº 1 de la resolución exenta Nº 360 (V. y U.), de 2016 y sus modificaciones, las que se adjuntan y se entenderán formar parte integrante de esta resolución. Fíjase además el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, para la Región de Coquimbo, según se indica en la siguiente tabla:
 
 3. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo Nº 3 de esta resolución.
