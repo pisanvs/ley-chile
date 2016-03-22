@@ -100,7 +100,11 @@ i. Informe de Inscripción del Registro Nacional de Testamentos
 
 12.- Derogado.
 
-13.- Derogado.
+13.- Certificados del Registro Nacional de Personas Jurídicas sin Fines de Lucro
+
+i.- Certificado de Vigencia de Persona Jurídica sin Fines de Lucro
+
+ii.- Certificado de Directorio de Persona Jurídica sin Fines de Lucro".
 
 14.- Otros Documentos
 
@@ -111,10 +115,6 @@ ii. Informes de Estado de Vigencia y Bloqueo de Documentos
 iii. Certificados Primera Filiación.
 
 2.- Dejáse sin efecto, a contar de la fecha de la presente resolución, la resolución exenta N°5.154 de fecha 16 de noviembre de 2012.
-
-> **Nota.** El numeral 4° de la Resolución 365 Exenta, Justicia, publicada el 09.12.2017, modifica la presente norma en el sentido de dejar sin efecto en lo pertinente del Acápite VII en la parte relativa al Registro Nacional de Personas Jurídicas sin Fines de Lucro.
-
-> **Nota.** NOTA 1 El numeral II de la Resolución 13 Exenta, Justicia, publicada el 26.01.2018, modifica la presente norma en el sentido de dejar sin efecto lo pertinente del Acápite IV, el Acápite VII en la parte pertinente, y el Acápite VIII, N° 14, todos de la presente norma.
 
 Anótese, comuníquese y publíquese.- Rodrigo Durán López, Director Nacional.
 
