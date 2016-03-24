@@ -8,7 +8,7 @@ Decreto:
 
 1°- Decláranse Normas Oficiales de la República de Chile las siguientes normas técnicas:
 
-NCh 431. Of 77: Construcción - Sobrecargas de nieve.
+NCh 431. Of 77: DEROGADA.
 
 NCh. 1147, Of 77: Metales duros. Ensayo de resistencia a la flexión estática.
 

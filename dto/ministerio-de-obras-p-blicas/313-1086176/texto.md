@@ -18,7 +18,7 @@ NCh 1193.0f76 Dibujo Técnico. Principio de Representación.
 
 NCh 1223.0f76 Aridos para morteros y hormigones. Determinación del material fino menor a 0,080 mm.
 
-NCh 1326 0f76 Aridos para morteros У hormigones. Determinación de huecos.
+NCh 1326 0f76 DEROGADA.
 
 2°- Corresponderá al expresado Instituto Nacional de Normalización publicar una minuta del presente decreto en el Diario Oficial y el texto íntegro de estas normas en la Revista Chilena de Racionalización, órgano oficial del mencionado Instituto.
 
