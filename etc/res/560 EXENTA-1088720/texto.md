@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 560 EXENTA, DE 27 DE AGOSTO DE 2015
+
+Por resolución exenta N° 560, de fecha 27 de agosto de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía autorizó el funcionamiento del Terminal de servicios de locomoción colectiva urbana, prestado mediante taxis colectivos, ubicado en calle Rafael Azócar N° 270, comuna de Nueva Imperial, Región de la Araucanía. El tipo de terminal es un terminal de vehículos (TV), clasificado en "Categoría A-1". La capacidad máxima del terminal corresponde a 25 vehículos, ello de conformidad al artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones, vigente a la fecha de recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **a)** Hará uso del Terminal de Vehículos el servicio de la Línea 10 de Taxis Colectivos Urbanos de Nueva Imperial, cuyo responsable es la Sociedad de Transporte Nuevos Horizontes Limitada, RUT 76.363.842-1, representada legalmente por don José Sedano Rivas, RUT Nº 17.759.473-5, y Miguel Ángel Yevilao Velásquez, RUT Nº 15.242.456-6, con recorrido troncal en la comuna de Nueva Imperial.
+
+- **b)** El Terminal podrá ser utilizado por una cantidad máxima diaria de veinticinco (25) taxis colectivos urbanos, conforme a lo dispuesto en el inciso primero del artículo 45º del DS Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
+
+- **c)** La persona jurídica encargada de la administración del terminal será la "Sociedad de Transporte Nuevos Horizontes Limitada" o "Transporte Nuevos Horizontes Ltda.", Rol Único Tributario Nº 76.363.842-1, representada legalmente por don José Sedano Rivas, RUT Nº 17.759.473-5, domiciliado en calle Aníbal Pinto Nº 585, en la comuna de Nueva Imperial, y por don Miguel Ángel Yevilao Velásquez, RUT Nº 15.242.456-6, domiciliado en calle José Joaquín Prieto Nº 01082, comuna de Nueva Imperial. El público usuario de los vehículos no podrá acceder al Terminal cuyo funcionamiento se autoriza.-
+
+Doris Tello Arriagada, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
