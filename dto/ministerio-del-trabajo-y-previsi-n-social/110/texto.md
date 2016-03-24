@@ -26,19 +26,19 @@ De la Administración
 
 #### Artículo 2°
 
-La administración del Bienestar corresponderá al Consejo Administrativo, integrado por:
+La Administración del Bienestar corresponderá al Consejo Administrativo, integrado por:
 
-a) El Director Nacional del Servicio Nacional de Geología y Minería o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) El Director Nacional del Servicio Nacional de Geología y Minería o la persona que éste designe en su reemplazo, quien lo presidirá.
 
-b) El Subdirector Nacional de Minería;
+b) El Subdirector Nacional de Minería o quien lo subrogue.
 
-c) El Jefe del Departamento Jurídico;
+c) El Subdirector Nacional de Geología o quien lo subrogue.
 
-d) El Jefe de Recursos Humanos;
+d) El Jefe del Departamento Jurídico o quien lo subrogue.
 
-e) Cuatro representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero, del artículo 18° del Reglamento General.
+e) El Jefe del Departamento de Desarrollo de las Personas o quien lo subrogue.
 
-El Jefe de Bienestar actuará como secretario del Consejo, teniendo en él derecho a voz pero no a voto.
+f) Cuatro representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero, del Artículo 18º del Reglamento General para los Servicios de Bienestar fiscalizados por la Superintendencia de Seguridad Social. El Jefe de Bienestar actuará como secretario del Consejo, teniendo derecho a voz, pero no a voto.
 
 #### Artículo 3°
 
@@ -60,7 +60,7 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. En las sesiones extraordinarias sólo podrán tratarse las materias determinadas en la convocatoria o en el acuerdo que las origina.
 
-Las sesiones ordinarias se celebrarán una vez al mes, en el día y hora que fijen sus miembros.
+Las sesiones ordinarias se celebrarán cada dos meses, en el día y hora que fije el Consejo Administrativo
 
 Las sesiones extraordinarias se celebrarán cada vez que las convoque el Presidente, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo, o por acuerdo de éste. El Jefe del Bienestar efectuará las citaciones por escrito a las sesiones ordinarias y extraordinarias, previo acuerdo con los representantes de la Institución.
 
@@ -82,13 +82,17 @@ d) Con los intereses de los préstamos que otorga el Bienestar a sus afiliados;
 
 e) Con las comisiones que perciba en virtud de los convenios que celebre con terceros para el otorgamiento de beneficios a los afiliados;
 
-f) Con los recursos provenientes de herencias, legados, donaciones y erogaciones voluntarias, y g) Con los demás bienes o recursos que el Bienestar obtenga a cualquier título.
+f) Con los recursos provenientes de herencias, legados, donaciones y erogaciones voluntarias, y
+
+g) Con los demás bienes o recursos que el Bienestar obtenga a cualquier título.
+
+h) Con los excedentes provenientes de la administración de los Servicios Dependientes, siempre que la institución que concedió dicha administración lo hubiese autorizado en la resolución correspondiente, con un tope máximo de hasta un 70% de estos ingresos, con la finalidad de otorgar mayores beneficios a los afiliados.
 
 #### Artículo 7°
 
-Los fondos del Bienestar serán depositados en la Cuenta Corriente Subsidiaria de la Cuenta Unica Fiscal del Banco del Estado de Chile y contra ella sólo podrán girar conjuntamente el Jefe de Bienestar y el Jefe de Recursos Humanos.
+Los fondos del Bienestar serán depositados en la Cuenta Corriente Subsidiaria de la Cuenta Única Fiscal del Banco del Estado de Chile y contra ella sólo podrán girar conjuntamente el Jefe de Bienestar y el Jefe de Desarrollo de las Personas.
 
-En caso de ausencia o impedimento de alguno de los giradores mencionados en el inciso precedente, será reemplazado por el Jefe del Departamento de Administración y Finanzas o el Jefe de Contabilidad, ambos del Servicio Nacional de Geología y Minería.
+En caso de ausencia o impedimento de alguno de los giradores mencionados en el inciso precedente, girarán los suplentes establecidos en la apertura de la cuenta corriente.
 
 ## Título IV
 
@@ -134,9 +138,11 @@ n) Atención obstétrica;
 
 o) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j) y m), precedentes.
 
+p) Consulta de Nutricionista (con diagnóstico médico por obesidad o derivado de alguna enfermedad crónica) e insumos necesarios para el otorgamiento de esta prestación.
+
 #### Artículo 8º Bis
 
-El Bienestar podrá contratar seguros adicionales de salud a través de compañías de seguros, con el fin de otorgar mejores beneficios a sus afiliados, y además, podrá incluir seguros que cubran enfermedades catastróficas y de Vida.
+El Bienestar podrá contratar seguros adicionales de salud, vida y/o dental a través de compañías de seguros, con el fin de otorgar mejores beneficios a sus afiliados y/o cargas familiares reconocidas en la institución. Y además podrá incluir seguros que cubran enfermedades catastróficas.
 
 Párrafo Segundo
 
@@ -146,37 +152,43 @@ Otras Prestaciones
 
 El Bienestar podrá otorgar las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Nacimiento: Se fija un ingreso mínimo reajustable por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
+a) Nacimiento: Se fija un ingreso mínimo reajustable por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples se pagará por cada hijo(a) nacido(a).
 
 b) Fallecimiento: Se fija en dos ingresos mínimos reajustables por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado;
+1. A la persona designada expresamente para tales efectos por el afiliado según declaración de beneficiario en caso que el Bienestar tenga contratado un seguro de vida;
 
 2. Al cónyuge sobreviviente;
 
-3. A los hijos legítimos;
+3. A los hijos;
 
-4. A los hijos naturales;
+4. A los padres legítimos;
 
-5. A los padres legítimos;
+5. A la persona que acredite haber efectuado los gastos del funeral.
 
-6. A la persona que acredite haber efectuado los gastos del funeral.
-
-c) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles básico y medio, en algún establecimiento del Estado o reconocido por éste; y
+c) Educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a las cargas familiares que se encuentren cursando estudios regulares en los niveles básico, medio y pre grado (universitario y/o técnicos), en algún establecimiento del Estado o reconocido por éste. Las cargas familiares deben encontrarse reconocidas en la institución; y
 
 d) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiere otorgado.
 
-El monto de la ayuda contemplada en la letra c) será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General.
+Los montos de las ayudas contempladas en las letras c) y f), serán determinados por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29º, del Reglamento General.
+
+e) Matrimonio: Al contraer matrimonio un afiliado, el Bienestar le otorgará una asignación de medio ingreso mínimo no remuneracional, siempre que las disponibilidades presupuestarias lo permitan. En caso que ambos contrayentes sean afiliados, la asignación señalada se pagará a cada uno de ellos.
+
+f) Becas de Estudio: El Bienestar podrá otorgar anualmente a sus afiliados y cargas familiares, Becas de Educación, conducentes a obtener un título de pre grado (técnico, profesional y universitario).
+
+g) Catástrofe: Se concederá una ayuda económica en dinero, no reembolsable de hasta dos ingresos mínimos no remuneracionales, para cada afiliado que sufra daños graves en su casa habitación a consecuencia de incendio, inundación o sismo. El afiliado deberá presentar la documentación requerida según lo mencionado en el artículo 10º del presente Reglamento, para acreditar dicha solicitud" y regirse de acuerdo a lo establecido en el artículo 19º, de las disposiciones generales del presente Reglamento.
+
+h) Acuerdo de Unión Civil: Al pactar el afiliado un contrato de acuerdo de unión civil, el Bienestar le otorgará una asignación de medio ingreso mínimo no remuneracional, siempre que las disponibilidades presupuestarias lo permitan. En caso que ambos afiliados pacten contrato, la asignación señalada se pagará a cada uno de ellos presentando el documento emitido para estos efectos por el Registro Civil e Identificación.
 
 #### Artículo 10°
 
-Para solicitar los beneficios señalados en las letras a), b), c) del artículo 9° el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
+Para solicitar los beneficios señalados en las letras a), b), c), d), e), f) y g) del artículo 9° el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional parte de Carabineros y/o Bomberos, según corresponda.
 
 #### Artículo 11°
 
-El Bienestar podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+El Bienestar podrá organizar, financiar o aportar en eventos culturales, deportivos, recreativos, festividades navideñas, actividades vacacionales o cualquier otra actividad que propenda a los fines antes señalados y que vayan en beneficio a sus afiliados. Asimismo, podrá otorgar un bono de navidad a sus afiliados, cuyo monto será aprobado por el Consejo Administrativo del Bienestar.
 
 Párrafo Tercero
 
@@ -186,7 +198,7 @@ De los Préstamos
 
 El Bienestar podrá conceder los préstamos no reajustables que a continuación se señalan, cuando sus recursos financieros lo permitan:
 
-a) Préstamos Médicos: Se otorgarán como complemento de las ayudas económicas a que se refiere el artículo 8° de este Reglamento.
+a) Préstamos Médicos: Se otorgarán como complemento de las ayudas económicas a que se refiere el artículo 8° de este Reglamento. El afiliado debe presentar junto con la respectiva solicitud de préstamo, el respaldo médico que justifique su solicitud.
 
 La suma que se otorgue en cada año calendario no podrá exceder de seis (6) ingresos mínimos reajustables por afiliado, y
 
@@ -194,15 +206,15 @@ b) Préstamos de Auxilio: Se otorgarán ante problemas económicos graves y otra
 
 La suma que se otorgue en cada año calendario no podrá exceder de tres (3) ingresos mínimos reajustables por afiliado.
 
-El reintegro deberá efectuarse en un plazo no superior a 15 meses, respecto de la letra a) y 10 meses de la letra b), respectivamente.
+El reintegro deberá efectuarse en un plazo no superior a 12 meses, respecto de la letra a) y 10 meses de la letra b), respectivamente.
 
 Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del afiliado, en cuyo caso los intereses correspondientes se devengarán hasta la fecha de los pagos respectivos.
 
 #### Artículo 13°
 
-La Solicitud de cualquier tipo de préstamo será suscrita, además del afiliado, por dos codeudores solidarios, que sean funcionarios de planta del Servicio Nacional de Geología y Minería con una remuneración igual o superior a la del solicitante. Uno de ellos, al menos, deberá ser afiliado al Bienestar.
+La Solicitud de cualquier tipo de préstamo será suscrita, además del afiliado, por un codeudores solidarios, que sean funcionarios de planta del Servicio Nacional de Geología y Minería con una remuneración igual o superior a la del solicitante. Uno de ellos, al menos, deberá ser afiliado al Bienestar.
 
-Para solicitar cualquier tipo de préstamo el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida al Bienestar.
+Para solicitar cualquier tipo de préstamo el afiliado deberá tener por lo menos tres meses de afiliación ininterrumpida al Bienestar.
 
 #### Artículo 14°
 
@@ -214,7 +226,7 @@ Para solicitar un nuevo préstamo de aquellos señalados en el artículo 12°, s
 
 #### Artículo 15°
 
-Las cuotas que el afiliado adeude al Bienestar por préstamos o por concepto de crédito de casas comerciales, no podrán en ningún caso exceder del 40% de su remuneración imponible para pensiones.
+Las cuotas que el afiliado adeude al Bienestar por préstamo o por concepto de crédito de casas comerciales, no podrá en ningún caso exceder del 15% del total de la remuneración percibida en el mes.
 
 ## Título V
 
@@ -234,7 +246,7 @@ Disposiciones Generales
 
 #### Artículo 18°
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse después de tres meses que el afiliado se incorpore al Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse después de tres meses que el afiliado se incorpore al Bienestar (incluye bonos, asignaciones y préstamos).
 
 #### Artículo 19°
 
@@ -245,6 +257,12 @@ Corresponderá al Consejo Administrativo determinar los procedimientos que los a
 El derecho a solicitar los beneficios que concede el Bienestar caducará luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
+
+#### Artículo 20º bis
+
+El Bienestar podrá suscribir convenios de cooperación con organizaciones, que sean de carácter social, deportivos, recreativos, educacional, salud y/o cultural, así como también con otros Servicios de Bienestar, en lo que respecta a casas de huésped, centros de veraneo, casinos, centros recreacionales, entre otros.
+
+Todos los beneficios y/o asignaciones descritas en el presente Reglamento y que otorgue el Bienestar serán entregados siempre y cuando sus recursos presupuestarios lo permitan (incluye bonos, asignaciones y préstamos).
 
 #### Artículo Transitorio
 
