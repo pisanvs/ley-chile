@@ -66,21 +66,19 @@ Islón.
 
 Amunátegui, Av. Juan Cisternas y Av. 18 de Septiembre; y Av. Colo Colo y Victoria Pinto.
 
-* El sistema vial urbano que interconecta la Ruta 41 CH con la Ruta 43, en Coquimbo, desde Av. Colo Colo hasta el límite urbano Oriente; a través de:
-
-Av. Panorámica, Ruta D-403, Raúl Bitrán, Guillermo Ulriksen y Av. Cuatro Es-quinas.
+* Eliminado.
 
 Coquimbo:
 
 * El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Sur; a través de Carretera Panamericana.
 
-* El tramo urbano de la Ruta 43, desde Camino San Ramón hasta el límite urbano Sur; a través de Camino a Ovalle.
+* El tramo urbano de la Ruta 43, desde calle Mirador Norte hasta límite urbano sur, a través de camino a Ovalle.
 
 * El tramo urbano de la Ruta D-35, desde Ruta 5 hasta Ruta 43; a través de Av. La Cantera.
 
 * Acceso al Puerto de Coquimbo, desde el Puerto hasta Ruta 5; a través de: Av. Costanera, Maipú y 25 de Mayo.
 
-* El sistema vial urbano que interconecta la Ruta 41 CH, en La Serena, con la Ruta 43, desde el límite urbano Oriente hasta Ruta 43; a través de Camino San Ramón.
+* Eliminado.
 
 . El tramo urbano del by pass Pan de Azúcar, desde el límite urbano sur oriente a la Ruta D-35 (Avenida La Cantera).
 
