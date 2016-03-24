@@ -22,7 +22,7 @@ Decreto:
 
 . La calle Mirador Norte, desde avenida Las Torres hasta la avenida Balmaceda.
 
-. La avenida Balmaceda, desde calle Mirador Norte hasta la Ruta D-403.
+. Eliminado.
 
 3.- Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se consideran como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones, su Ordenanza y de los Planes Reguladores.
 
