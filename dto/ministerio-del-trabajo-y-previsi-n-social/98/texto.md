@@ -86,7 +86,11 @@ c) Fallecimiento.- En caso de fallecimiento del afiliado, el beneficio le corres
 
 El afiliado tendrá derecho a estos beneficios en caso de muerte de su cónyuge y/o cargas familiares autorizadas, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
-d) Escolaridad.- El afiliado tendrá derecho una vez al año a una ayuda de escolaridad por cada hijo que sea carga familiar autorizada y que siga cursos de enseñanza básica, media, técnica, especializada o superior, en establecimientos del Estado o reconocidos por éste, y e) Adopción.- Cuando el afiliado compruebe la adopción de un hijo, con la respectiva sentencia judicial debidamente inscrita en el Servicio de Registro Civil e Identificación.
+d) Escolaridad.- El afiliado tendrá derecho una vez al año a una ayuda de escolaridad por cada hijo que sea carga familiar autorizada y que siga cursos de enseñanza básica, media, técnica, especializada o superior, en establecimientos del Estado o reconocidos por éste, y
+
+e) Adopción.- Cuando el afiliado compruebe la adopción de un hijo, con la respectiva sentencia judicial debidamente inscrita en el Servicio de Registro Civil e Identificación.
+
+f) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
 
 El monto de las ayudas a que se refiere este artículo será fijado anualmente por el Consejo Administrativo de acuerdo con las disponibilidades presupuestarias del Servicio de Bienestar.
 
