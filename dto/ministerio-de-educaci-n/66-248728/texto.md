@@ -22,11 +22,11 @@ La selección y determinación de los establecimientos beneficiarios de la subve
 
 #### Artículo 2º
 
-El Ministerio de Educación, a través de su División de Planificación y Presupuesto, seleccionará los establecimientos subvencionados y los regidos por el Decreto Ley Nº 3.166, de 1980, de cada región, que en conjunto representen hasta el 35% de la matricula regional y que hayan sido calificados de mejor desempeño.
+El Ministerio de Educación, a través de su División de Educación General, seleccionará los establecimientos subvencionados y los regidos por el Decreto Ley Nº 3.166, de 1980, de cada región, que en conjunto representen hasta el 35% de la matricula regional y que hayan sido calificados de mejor desempeño.
 
 En la selección de establecimientos beneficiarios debe evaluarse el total de establecimientos subvencionados y los regidos por el Decreto Ley Nº 3.166, de 1980, que hayan sido creados con anterioridad al año de la aplicación del Sistema Nacional de Evaluación de Desempeño y que se encuentren funcionando al momento de llevarse a cabo la presente evaluación.
 
-El proceso de selección se efectuará durante el mes de enero del año siguiente al de la aplicación del SNED.
+El proceso de selección se efectuará durante el primer semestre del año siguiente al de la aplicación del SNED.
 
 #### Artículo 3º
 
