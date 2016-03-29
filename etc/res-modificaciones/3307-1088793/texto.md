@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.307, del 23 de diciembre de 2015, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Acuicultura Mares Verdes S.A., sociedad chilena, RUT Nº 96.942.360-K, con domicilio en Chinquihue kilómetro 12, Puerto Montt, para incorporar el cultivo del grupo de especies mitílidos, requerida mediante solicitud Nº 212104016, de fecha 12 de diciembre de 2012, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución Nº 1.634, de fecha 16 de septiembre de 2003, del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución (M) Nº 1.350, de fecha 12 de julio de 2010, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas, a fojas 84, Nº 167, del año 2011, ubicada en Canal Chidguapi, al sureste de Punta Quiecho, Isla Chidguapi, comuna de Calbuco, provincia de Llanquihue, X Región de Los Lagos.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta Nº 971, de fecha 16 de mayo de 2002, modificado por resolución exenta Nº 3.349, de fecha 4 de octubre de 2005, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca y por resolución exenta Nº 1.649, de fecha 22 de junio de 2015, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 9 de febrero de 2016.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Abogado, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
