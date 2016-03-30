@@ -10,7 +10,7 @@ El artículo 51 de la ley Nº 16.391; el Nº 1.9 de la parte I del artículo 1º
 
 Decreto:
 
-1º.- Apruébase el siguiente Plan de Expropiaciones en la Región del Biobío, para la ejecución del Proyecto "Construcción Costanera Río Vergara", Código BIP 30113261-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el proceso presupuestario 2016, Plan que se singulariza a continuación;
+1º.- Apruébase el siguiente Plan de Expropiaciones en la Región del Biobío, Provincia del Biobío, comuna de Nacimiento, para la ejecución del Proyecto "Construcción Costanera Río Vergara", Código BIP 30113261-0, recomendado favorablemente por el Ministerio de Desarrollo Social para el proceso presupuestario 2016, Plan que se singulariza a continuación:
 
 .
 
