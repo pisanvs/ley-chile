@@ -68,7 +68,7 @@ xiv. Si el damnificado fuera a construir su vivienda en un terreno que no está 
 
 xv. Si se postula acreditando derechos en comunidad sobre un predio, se debe acompañar copia de la inscripción de dominio vigente a nombre de la comunidad, en que consten los derechos del postulante, y autorización notarial otorgada por los demás comuneros, sobre una determinada porción del terreno, a favor del interesado, y siempre que estos derechos proporcionales le permitan ejecutar el proyecto.
 
-xvi. Autorización notarial del propietario del sitio para construir una vivienda en él, en que conste además el compromiso de entregar el terreno o una porción de este en usufructo por a lo menos 15 años al postulante, su cónyuge, conviviente o conviviente civil, acompañando el plano en que se identifique la porción de terreno en que se emplazará la o las viviendas, y copia de la inscripción de dominio en favor del propietario del sitio, con certificado de vigencia, extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
+xvi. Eliminado.
 
 3. Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos y condiciones establecidos en el DS Nº 1 y el DS Nº 49, ambos de este Ministerio, de 2011, según corresponda:
 
