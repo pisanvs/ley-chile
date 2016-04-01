@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS "SECTOR JARDÍN DE LOS NARANJOS", COMUNA DE TEMUCO, PROVINCIA DE CAUTÍN, IX REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 136, del Ministerio de Obras Públicas, de fecha 3 de febrero de 2016, íntegramente tramitado el 25 de febrero de 2016, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el sector denominado "Sector Jardín Los Naranjos", comuna de Temuco, Provincia de Cautín, IX Región de la Araucanía.
+
+El área comprendida en la concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas que se otorgan se encuentra identificada y delimitada en el plano denominado "Sector Jardín de Los Naranjos, Comuna de Temuco, Provincia de Cautín, Región de la Araucanía Contenido: Plano Ampliación de Concesión Planta General", que forma parte integrante del presente decreto y archivado en la Superintendencia de Servicios Sanitarios bajo el código N° SC-09-29-C. Se espera que en el primer establecimiento (2020) el concesionario consulta dar servicio a 118 arranques de agua potable e iguales uniones domiciliarias de alcantarillado, cantidad que se mantendrá, en ambos casos, hacia el final del periodo (año 2030).
+
+El servicio público de producción de agua potable del sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a), de la respectiva Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, bienes que serán afectados a la concesión, documentos ambos, que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC-09-29-C, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 1 de marzo de 2016, en la 27ª Notaría de Santiago de don Eduardo Avello Concha y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-09-29-C.
+
+Santiago, 16 de marzo de 2016.- Gabriel Zamorano Seguel, Superintendente de Servicios Sanitarios (TyP).
