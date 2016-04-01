@@ -12,27 +12,19 @@ Incremento de las remuneraciones docentes
 
 ## Capítulo I
 
-Aumento de la bonificación proporcional
+Aumento de la bonificación proporcional. Derogado.
 
 #### Artículo 1°
 
-Sustitúyese, a partir del 1 de febrero de 2004, para los profesionales de la educación de los establecimientos educacionales del sector particular subvencionado la bonificación proporcional establecida en el artículo 8° de la ley N° 19.410, que fue reemplazada de acuerdo al artículo 1° de la ley Nº 19.715, vigente al 31 de enero de 2004, por la que resulte de aplicar los recursos dispuestos por dichas leyes y los que dispone esta ley, en todo lo que sea concerniente, y en la misma forma, condiciones y procedimientos señalados en los artículos 8° al 11 de la ley Nº 19.410. En todo caso, con los mayores recursos que se entregarán a los sostenedores de estos establecimientos por aplicación de esta ley, y antes de la determinación de la bonificación aquí señalada, los sostenedores de establecimientos educacionales particulares subvencionados deberán dar cumplimiento a lo dispuesto en el artículo 83 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 19.070.
-
-En ningún caso, el nuevo monto de la bonificación proporcional resultante podrá ser inferior al que perciben actualmente.
-
-Los montos de la bonificación proporcional vigente al 31 de enero de 2005 y al 31 de enero de 2006, serán sustituidos, a partir del 1 de febrero de 2005 y del 1 de febrero de 2006, respectivamente, conforme al procedimiento que se establece en el inciso primero de este artículo.
-
-A contar de enero de 2007, la bonificación proporcional a que se refiere este artículo será equivalente a la determinada en el año 2006, reajustada en los porcentajes en que se hubiere incrementado la unidad de subvención educacional (USE) durante el año 2006. La bonificación así determinada se incrementará en los años siguientes en igual porcentaje y oportunidad en que se hubiere reajustado la unidad de subvención educacional (USE).
-
-Los establecimientos educacionales que sean reconocidos oficialmente a partir del año escolar 2007 y hasta el 2010 deberán determinar, al primer mes del primer año en que perciban subvención educacional, la bonificación proporcional a que se refiere el presente artículo, conforme al mecanismo establecido en su inciso primero, sin contemplar en el cálculo la variable incremento del valor hora referida en el artículo 8º de la ley Nº 19.715 y en el artículo 9º de esta ley. El monto así obtenido se pagará mensualmente a los profesionales de la educación del establecimiento educacional, en conformidad al número de horas contratadas.
+Derogado.
 
 #### Artículo 2°
 
-Para los efectos de la aplicación del beneficio establecido en la letra c) del artículo 10 de la ley Nº 19.410, modificado por el artículo 2° de la ley Nº 19.598, por los sostenedores del sector particular subvencionado, deberá considerarse, además, el aumento de la subvención dispuesta por esta ley.
+Derogado.
 
-#### Artículo 3º
+#### Artículo 3°
 
-Los aumentos de las remuneraciones de los profesionales de la educación del sector municipal que se produzcan como consecuencia de la aplicación de la presente ley no se absorberán por la planilla suplementaria de que trata el inciso 2º del artículo 4º transitorio de la ley Nº 19.410.
+Derogado.
 
 ## Capítulo II
 
@@ -162,9 +154,9 @@ Destinación exclusiva del incremento de la subvención
 
 Los recursos que obtengan los sostenedores de los establecimientos educacionales del sector municipal, del sector particular subvencionado y del regido por el decreto ley Nº 3.166, de 1980, en razón de esta ley, por concepto de aumento de subvención o de aporte en su caso, serán destinados exclusivamente al pago de remuneraciones docentes.
 
-Los recursos que reciban los sostenedores de los establecimientos particulares subvencionados derivados de esta ley, por concepto de aumento de subvención, serán destinados exclusivamente al pago de los siguientes beneficios: incremento del valor hora vigente al 31 de enero de 2004; así como de los incrementos del valor hora para los años 2005 y 2006 dispuestos en el artículo 10 de esta ley y nuevo valor de la bonificación proporcional, del bono extraordinario y, cuando corresponda, planilla complementaria, establecidos en los artículos 83 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, y artículos 8°, 9° y 10 de la ley Nº 19.410.
+Los recursos que reciban los sostenedores de los establecimientos particulares subvencionados derivados de esta ley, por concepto de aumento de subvención, serán destinados exclusivamente al pago de los siguientes beneficios: incremento del valor hora vigente al 31 de enero de 2004, así como de los incrementos del valor hora para los años 2005 y 2006 dispuestos en el artículo 10 de esta ley y, cuando corresponda, planilla complementaria.
 
-Con todo, para los efectos del cumplimiento de lo establecido en el inciso primero del presente artículo, a partir del año 2007 y hasta el año 2010, en los meses de diciembre de cada año se aplicará el mecanismo dispuesto en la letra c) del artículo 10 de la ley Nº 19.410, en términos de comparar lo percibido por aplicación de los artículos 6º, 7º y 8º de la presente ley en el año de que se trate y lo pagado en similar período por concepto de incremento del valor hora, en los años en que procedió, el bono proporcional y la eventual planilla complementaria. El excedente que resultare se pagará necesariamente a los profesionales de la educación, de una sola vez, como bono extraordinario, no imponible ni tributable, proporcional a las horas de designación o contrato, durante el mes de diciembre de cada año. El Ministerio de Educación determinará los mecanismos de resguardo para la aplicación y pago de la Bonificación Proporcional y el Bono Extraordinario referidos en los incisos anteriores.
+Inciso Derogado.
 
 El incumplimiento de lo dispuesto en los incisos anteriores será considerado infracción grave, para los efectos de lo dispuesto en el decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
@@ -198,7 +190,7 @@ decreto ley Nº 3.166, de 1980
 
 #### Artículo 11
 
-Los profesionales de la educación que se desempeñen en establecimientos educacionales regidos por el decreto ley Nº 3.166, de 1980, tendrán derecho a los beneficios establecidos en los artículos 1°, 2º, 4° y 5º de esta ley.
+Los profesionales de la educación que se desempeñen en establecimientos educacionales regidos por el decreto ley Nº 3.166, de 1980, tendrán derecho a los beneficios establecidos en los artículos 4° y 5º de esta ley.
 
 Para estos efectos, durante los años 2004, 2005 y 2006 se entregará a las entidades administradoras un aporte por alumno equivalente al aumento de la subvención resultante de aplicar los artículos 6° y 7° de esta ley.
 
@@ -206,7 +198,7 @@ El procedimiento de cálculo del aporte correspondiente se efectuará en la form
 
 Los procedimientos de entrega de los recursos a las entidades administradoras de estos establecimientos, destinados a financiar el mayor aporte, serán fijados por el Ministerio de Educación y serán transferidos por la Subsecretaría de Educación, a contar desde febrero de 2004, febrero de 2005 y febrero de 2006, según corresponda, incrementando los montos permanentes establecidos en los convenios respectivos.
 
-El mayor aporte que reciban los administradores de estas instituciones deberá destinarse exclusivamente al pago de los incrementos del valor hora, de la bonificación proporcional, del bono extraordinario y de la planilla complementaria, cuando proceda.
+El mayor aporte que reciban los administradores de estas instituciones deberá destinarse exclusivamente al pago de los incrementos del valor hora y de la planilla complementaria, cuando proceda.
 
 ## Título II
 
@@ -294,35 +286,11 @@ b) Los establecimientos con mayores puntajes, que representen hasta el 35% de la
 
 #### Artículo 17
 
-Créase, para los docentes de aula del sector municipal, una Asignación Variable por Desempeño Individual para fortalecer la calidad en la educación y con el objeto de reconocer los méritos de aquellos que hayan sido evaluados como destacados o competentes. Esta asignación se regirá por las normas que a continuación se indican:
-
-a) Para tener derecho a percibir esta asignación los docentes de aula deberán cumplir los siguientes requisitos:
-
-1) Que hubiesen obtenido niveles de desempeño destacado o competente en la evaluación del desempeño profesional correspondiente a su nivel y subsector de aprendizaje, de conformidad al artículo 70 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, y
-
-2) Que aprobaren una prueba de conocimientos disciplinarios y pedagógicos, que deberá rendirse dentro de los 36 meses siguientes a la publicación de los resultados de la evaluación señalada en el numeral anterior y obtengan un nivel de logro de destacado, competente o suficiente en ella. b) La asignación variable de desempeño individual tendrá los siguientes valores mensuales, calculados sobre la Remuneración Básica Mínima Nacional, que el docente esté percibiendo a la fecha de pago:
-
-1) De un 25% de la Remuneración Básica Mínima Nacional, para los docentes de aula que, habiendo alcanzado un nivel de desempeño de destacado en su evaluación de desempeño, obtuvieren en la prueba de conocimientos disciplinarios y pedagógicos un nivel de logro también equivalente a destacado.
-
-2) De un 15% de la Remuneración Básica Mínima Nacional, para los docentes de aula que, habiendo alcanzado un nivel de desempeño de destacado o competente en su evaluación de desempeño, obtuvieren en la prueba de conocimientos disciplinarios y pedagógicos un nivel de logro equivalente, a lo menos, a competente.
-
-3) De un 5% de la Remuneración Básica Mínima Nacional, para los docentes de aula que, habiendo alcanzado un nivel de desempeño de destacado o competente en su evaluación de desempeño, obtuvieren en la prueba de conocimientos disciplinarios y pedagógicos un nivel de logro equivalente a suficiente.
-
-c) La asignación variable de desempeño individual será tributable e imponible para efectos de salud y pensiones, se devengará mensualmente y se pagará trimestralmente en los meses de marzo, junio, septiembre y diciembre de cada año, a través de los sostenedores municipales de quienes dependan los docentes beneficiados. Para determinar las imposiciones e impuestos a que se encuentra afecta, se distribuirá su monto en proporción a los meses que comprenda el período que corresponda y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducirán de la parte que sumada a las respectivas remuneraciones mensuales no exceda del límite máximo de imponibilidad.
-
-La percepción de esta asignación tendrá una duración de 4 años, si la prueba se rinde dentro de los 12 meses siguientes a la publicación de los resultados de la evaluación de desempeño; de 3 años, si la prueba se rinde entre los 13 y 24 meses siguientes a la publicación antes señalada, y de 2 años siguientes a la misma publicación si la prueba se rinde entre los 25 y 36 meses y se pagará desde el año siguiente a la fecha de rendición y aprobación de la prueba, por el sostenedor municipal donde se desempeñe el docente.
-
-d) Un reglamento dictado a través del Ministerio de Educación, que deberá ser firmado además por el Ministro de Hacienda, establecerá los mecanismos para encomendar el diseño y administración de la prueba establecida en el presente artículo y los criterios para establecer el punto de corte de los puntajes que corresponderán a las categorías de destacado, competente, suficiente y básico. e) Sin perjuicio de lo establecido en los incisos anteriores respecto de la Asignación Variable por Desempeño Individual, los profesionales que obtuvieron en la evaluación de desempeño un nivel de logro de destacado o competente y rindan la prueba de conocimientos disciplinarios y pedagógicos tendrán derecho a percibir, por una sola vez, un bono de $ 50.000.-, que no será imponible ni tributable, ni constituirá renta para los efectos legales.
-
-Este bono será de cargo fiscal y el Ministerio de Educación fijará internamente los procedimientos de entrega de los recursos a los sostenedores del sector municipal, ya sea que administren directamente las municipalidades o a través de corporaciones municipales, y además determinará los mecanismos de resguardo de su aplicación para su pago. Dichos recursos se transferirán a través de la Subsecretaría de Educación.
-
-El Ministerio de Educación fijará internamente los procedimientos de entrega de los recursos a los sostenedores municipales y los mecanismos de resguardo de su aplicación en el pago de la asignación que otorga este artículo. Dichos recursos se transferirán a través de la Subsecretaría de Educación.
+Derogado.
 
 #### Artículo 17 bis
 
-Los profesionales de la educación que reciban la Asignación Variable por Desempeño Individual establecida en el artículo precedente, mientras se desempeñen en establecimientos con una alta concentración de alumnos prioritarios recibirán dicha asignación aumentada en un 30%. Para estos efectos se entenderá por establecimiento educacional de alta concentración de alumnos prioritarios aquellos que tengan, al menos, un 60% de concentración de alumnos prioritarios de acuerdo a la ley N° 20.248, hayan o no suscrito el convenio de igualdad de oportunidades y excelencia educativa a que se refiere dicha ley.
-
-En los casos de los establecimientos que atiendan alumnos que cursen entre primero y cuarto año de educación media y, por tanto, no hayan sido identificados como prioritarios de acuerdo a lo establecido en el artículo 2° de la ley N° 20.248, el cálculo de la concentración de alumnos prioritarios a que se refiere el inciso anterior se hará en la forma que determine un reglamento dictado por el Ministerio de Educación, suscrito por el Ministerio de Hacienda.
+Derogado.
 
 #### Artículo 18
 

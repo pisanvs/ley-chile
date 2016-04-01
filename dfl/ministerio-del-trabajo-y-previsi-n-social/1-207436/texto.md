@@ -608,7 +608,7 @@ Los establecimientos mineros, industriales, comerciales o agrícolas, empresas y
 
 #### Artículo 48
 
-Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital. Para estos efectos, no se considerarán como parte del capital propio los ajustes que ordenan efectuar los números 8° y 9° del artículo 41 de la referida ley, por disposición del inciso segundo del referido número 8°.
+Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.
 
 Respecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.
 
@@ -850,7 +850,7 @@ No tendrán derecho a feriado los trabajadores de las empresas o establecimiento
 
 #### Artículo 75
 
-Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
+Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica, parvularia y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
 
 #### Artículo 75 bis
 
@@ -1478,7 +1478,19 @@ Al fallecimiento del jefe de hogar, el contrato subsistirá con los parientes qu
 
 #### Artículo 149
 
-La jornada de los trabajadores de casa particular que no vivan en la casa del empleador, no podrá exceder en ningún caso de 12 horas diarias y tendrán, dentro de esta jornada, un descanso no inferior a una hora imputable a ella.
+La jornada de los trabajadores de casa particular que no vivan en la casa del empleador estará sujeta a las siguientes reglas:
+
+a) No podrá exceder de cuarenta y cinco horas semanales, sin perjuicio de lo establecido en la letra d).
+
+b) Se podrá distribuir hasta en un máximo de seis días.
+
+c) Le será aplicable lo dispuesto en el inciso primero del artículo 34.
+
+d) Las partes podrán acordar por escrito hasta un máximo de quince horas semanales adicionales de trabajo, no acumulables a otras semanas, las que serán pagadas con un recargo no inferior al señalado en el inciso tercero del artículo 32.
+
+En caso de que el acuerdo no conste por escrito, se imputarán al máximo de quince horas semanales indicadas en esta letra, las horas trabajadas en exceso de la jornada pactada, con conocimiento del empleador.
+
+e) El período que medie entre el inicio y el término de las labores en ningún caso podrá exceder de doce horas continuas, considerando tanto la jornada como el descanso dentro de ella.
 
 Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que éste será determinado por la naturaleza de su labor, debiendo tener normalmente un descanso absoluto mínimo de 12 horas diarias. Entre el término de la jornada diaria y el inicio de la siguiente, el descanso será ininterrumpido y, normalmente, de un mínimo de 9 horas. El exceso podrá fraccionarse durante la jornada y en él se entenderá incluido el lapso destinado a las comidas del trabajador.
 
@@ -1490,11 +1502,11 @@ Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las
 
 a) Tendrán derecho a descanso semanal los días domingo.
 
+b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente.
+
 c) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
 
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
-
-> **Nota.** El numeral 4 del la Ley 20786, publicada el 27-10-2014, introdujo la siguiente letra b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente. Esta letra entrara en vigencia el 21.11.2015
 
 #### Artículo 151
 
