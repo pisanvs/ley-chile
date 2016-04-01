@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. N° 72, de 10 de marzo de 2016, se desistió parcialmente de la expropiación del lote N° 2, realizada por Decreto Exento MOP. N° 788, de 30 de septiembre de 2014, en cuanto a disminuir la superficie de dicho lote a 3.631,1 m2., expropiado para la ejecución de obra "Reposición Ruta F-560, Límite Urbano con Ruta F-50, comuna de Villa Alemana, provincia de Marga - Marga, Región de Valparaíso", Comuna de Villa Alemana, V Región de Valparaíso.
+
+Fiscal del Ministerio de Obras Públicas.
