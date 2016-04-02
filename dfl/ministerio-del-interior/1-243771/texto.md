@@ -700,23 +700,43 @@ Salvo que la ley exija un quórum distinto, los acuerdos del consejo se adoptar�
 
 #### Artículo 39
 
-Los consejeros regionales tendrán derecho a una dieta mensual de diez unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero.
+Los consejeros regionales tendrán derecho a una dieta mensual de veinte unidades tributarias mensuales, la que se percibirá por la asistencia a la totalidad de las sesiones del consejo celebradas en el mes respectivo, disminuyéndose proporcionalmente según el número de inasistencias del consejero.
 
 Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias.
 
-El intendente acordará con el consejo el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos dos.
+El Presidente del consejo regional tendrá derecho a la misma dieta que perciben los consejeros regionales, incrementada en el 20%.
 
-Asimismo, cada consejero regional tendrá derecho a percibir una dieta de dos unidades tributarias mensuales, con un máximo de seis en el mes, por la asistencia a cada sesión de comisión de las referidas en el artículo 37.
+El consejo acordará el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos dos.
 
-Tendrán también derecho a pasajes y reembolso de gastos por concepto de alimentación y alojamiento para asistir a las sesiones del consejo y de las comisiones, cuando ello les signifique trasladarse fuera de su lugar de residencia habitual. El reembolso de gastos no podrá superar, en ningún caso, el valor del viático que le corresponda al intendente en las mismas condiciones.
+Asimismo, cada consejero regional tendrá derecho a percibir una dieta de cuatro unidades tributarias mensuales, con un máximo de doce en el mes, por la asistencia a cada sesión de comisión de las referidas en el artículo 37.
+
+INCISO SUPRIMIDO.
+
+Para efectos de la percepción de la dieta y de la asignación adicional establecidas en los incisos precedentes, no serán consideradas como inasistencias aquellas que obedezcan a razones médicas o de salud que hayan sido debidamente acreditadas mediante certificado expedido por médico habilitado, presentado ante el consejo a través del secretario ejecutivo. Igualmente, para los efectos señalados y previo acuerdo del consejo, se podrá eximir a un consejero de la asistencia a sesión en razón del fallecimiento de un hijo, del cónyuge o de uno de sus padres.
+
+Asimismo, no se considerarán las inasistencias de consejeros motivadas en el cumplimiento de cometidos expresamente autorizados por el propio consejo.
+
+Cuando un consejero regional se encuentre en el desempeño de cometidos en representación del gobierno regional, tendrá derecho a percibir fondos con el objeto de cubrir sus gastos de alimentación y de alojamiento. Tales fondos no estarán sujetos a rendición y serán equivalentes al fondo del viático que corresponda al intendente respectivo por iguales conceptos. Los mismos fondos no sujetos a rendición tendrán derecho a percibir los consejeros para asistir a las sesiones del consejo y de las comisiones, cuando ello les signifique trasladarse fuera de su lugar de residencia habitual.
 
 Sin perjuicio de lo señalado, cada consejero tendrá derecho anualmente a una dieta adicional, a pagarse en el mes de enero, correspondiente a cinco unidades tributarias mensuales, siempre que durante el año calendario anterior el consejero haya asistido formalmente, a lo menos, al setenta y cinco por ciento de las sesiones celebradas por el consejo en dicho período.
 
-El consejo regional sólo podrá encomendar el cumplimiento de tareas a sus miembros, con derecho a pasajes y reembolso de gastos por concepto de alimentación y alojamiento, en la medida que exista disponibilidad presupuestaria, la que deberá certificar el secretario ejecutivo del consejo regional.
+El consejo regional sólo podrá encomendar el cumplimiento de tareas a sus miembros, con derecho a pasajes y reembolso de gastos, en la medida que exista disponibilidad presupuestaria, la que deberá certificar el secretario ejecutivo del consejo regional.
 
 El reembolso de gastos no podrá superar, en ningún caso, el valor del viático que le corresponda al intendente en las mismas condiciones.
 
 Con todo, los cometidos al extranjero que acuerde el consejo regional durante el año, no podrán significar una disposición de recursos que supere el 30% del total contemplado en el presupuesto para el pago de gastos reembolsables de los consejeros regionales. Lo anterior, deberá ser certificado previamente por la jefatura a cargo de la administración y finanzas del gobierno regional y, en todo caso, el cometido será dispuesto formalmente por el intendente regional respectivo.
+
+Los consejeros regionales podrán afiliarse al sistema de pensiones de vejez, de invalidez y de sobrevivencia, de acuerdo a lo establecido en el decreto ley Nº3.500, por el solo hecho de asumir tales funciones. Para estos efectos, los consejeros se asimilarán al régimen de los trabajadores por cuenta ajena. Las obligaciones que para estos fines se imponen a los empleadores se radicarán en los respectivos gobiernos regionales. Las cotizaciones previsionales se calcularán sobre la base de las asignaciones mensuales que a los consejeros corresponda percibir en virtud de los incisos primero, segundo y cuarto.
+
+Los consejeros regionales, por la actividad que realicen en tal condición, quedarán sujetos al seguro contra riesgo de accidentes del trabajo y enfermedades profesionales establecido en la ley Nº16.744, y gozarán de los beneficios que correspondan a la naturaleza de su cargo. El costo de este beneficio será de cargo del gobierno regional.
+
+El gobierno regional podrá financiar la capacitación de los consejeros regionales en materias de su competencia.
+
+#### Artículo 39 bis
+
+Los empleadores de las personas que ejerzan un cargo de consejero regional deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales con el objeto de asistir a las sesiones del consejo, así como también a las de las comisiones a que se refiere el artículo 37, hasta por doce horas semanales, no acumulables.
+
+Del mismo modo, se deberá conceder permisos laborales para el desempeño de cometidos en representación del gobierno regional, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario ejecutivo del consejo.
 
 #### Artículo 40
 
@@ -757,6 +777,10 @@ El consejo regional dispondrá de una secretaría, destinada a prestarle asesor�
 El consejo designará a un secretario ejecutivo que será, además, su ministro de fe y se regirá por la legislación laboral común, sin perjuicio de aplicársele las disposiciones sobre probidad administrativa contenidas en la Ley Nº 18.575. El respectivo contrato será suscrito por el intendente y la remuneración que en él se establezca no podrá exceder a la del grado 4°, Directivo Superior, de la Escala Única de Sueldos de la Administración Pública o su equivalente, incluida la asignación profesional establecida en el artículo 3° del Decreto Ley N° 479, de 1974, cuando procediere. La jornada ordinaria de trabajo del secretario ejecutivo será de 44 horas semanales.
 
 A la persona que cumpla las funciones señaladas en el inciso anterior le serán aplicables los requisitos, las incompatibilidades, causales de cesación en el cargo e inhabilidades contempladas en los artículos 31, 32, 33, 34 y 40.
+
+#### Artículo 43 bis
+
+Cada gobierno regional, en concordancia con su disponibilidad presupuestaria, deberá dotar al consejo de los medios físicos de apoyo suficientes para desarrollar, debida y oportunamente, las funciones y atribuciones que esta ley le confiere, atendido el número de consejeros existente en la región, lo que quedará consignado en el presupuesto regional.
 
 ### Párrafo 3°
 
@@ -1210,7 +1234,7 @@ Las declaraciones de candidaturas de consejeros regionales deberán ser presenta
 
 Las candidaturas a consejeros regionales podrán ser declaradas por un partido político, por un pacto de partidos, por un pacto entre un partido político e independientes, por un pacto de partidos e independientes, y por independientes.
 
-Las declaraciones de candidaturas a consejero regional que presente un pacto electoral y los subpactos comprendidos en él podrán incluir candidatos de cualquiera de los partidos que los constituyan, independientemente de si éste se encuentra legalmente constituido en la respectiva región, siempre que lo esté en la mayoría de las regiones del país y, al menos, uno de los partidos suscriptores del pacto se encuentre constituido a nivel nacional.
+El pacto electoral regirá en todas las regiones del país en que uno o más de los partidos políticos integrantes del mismo se encuentren legalmente constituidos. Las declaraciones de candidaturas a consejero regional que presente un pacto electoral y los subpactos comprendidos en él, sólo podrán incluir candidatos de los partidos políticos que se encuentren legalmente constituidos en la respectiva región.
 
 Las candidaturas a consejero regional declaradas sólo por independientes se sujetarán a los porcentajes y formalidades establecidos en los artículos 89 y 90 de la presente ley.
 
