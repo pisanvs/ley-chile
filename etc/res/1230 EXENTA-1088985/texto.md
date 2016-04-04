@@ -1,0 +1,45 @@
+DISPONE TERCERA PRÓRROGA, POR TÉRMINO QUE INDICA, DE POSTERGACIÓN DE PERMISOS DE SUBDIVISIÓN, LOTEO O URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES DISPUESTA POR DECRETO N° 1.527, SECC. 1ª, DE 2 DE JULIO DE 2015, DE LA I. MUNICIPALIDAD DE MACUL
+
+Núm. 1.230 exenta.- Santiago, 30 de marzo de 2016.
+
+Vistos:
+
+Lo dispuesto en el decreto ley N° 1.305; en el decreto con fuerza de ley N° 458, de 1975, Ley General de Urbanismo y Construcciones (LGUC); en la Ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; en el decreto supremo N° 47 de 1992, Ordenanza General de Urbanismo y Construcciones (OGUC); en el decreto supremo N° 397 (V. y U.), de 1977; en el decreto N° 42 (V. y U.), de 2014, y en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón;
+
+Considerando:
+
+1.- Que mediante oficio Ord. N° A 1838, de 29 de mayo de 2015, el señor Alcalde de la I. Municipalidad de Macul solicitó a esta Secretaría Ministerial informar favorablemente la postergación de permisos de construcción para un área de la comuna correspondiente al sector conformado por la Av. Macul, Av. Quilín, Los Olmos, Brown Sur, Madreselvas y fondo de predios ubicados al oriente de Brown Sur, entre Madreselvas y Av. Quilín, de las Unidades Vecinales N° 6 y N° 7, relativa al polígono 1-2-3-4-5-6-7-8-1, graficado en el Plano M-PRMAC-UV6-7-01 / 2015, de la comuna de Macul;
+
+2.- Que mediante ordinario oficio Ord. N° 3033, de 30 de junio de 2015, esta Seremi procedió a informar favorablemente la postergación de permisos de construcción para el área de la comuna de Macul singularizada en el párrafo precedente;
+
+3.- Que mediante decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015, de la I. Municipalidad de Macul, publicado en el Diario Oficial de 8 de julio de 2015, dispuso la postergación por un plazo de tres meses de los permisos de construcción, para el área de la comuna de Macul circunscrita en el polígono 1-2-3-4-5-6-7-8-1, graficado en el Plano M-PRMAC-UV6-7-01 / 2015, de la comuna de Macul;
+
+4.- Que mediante oficio Ord. N° A 3174, de 30 de septiembre último, el señor Administrador Municipal de la I. Municipalidad de Macul, ha solicitado una prórroga por un plazo de 3 meses, para la postergación de los permisos de construcción dispuesta mediante el mencionado decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015;
+
+5.- Que mediante resolución N° exenta 2.556 de fecha 2 de octubre de 2015, de esta Seremi, publicada en el Diario Oficial de fecha 09.10.2015, se dispuso la prórroga por un plazo de 3 meses, para la postergación de los permisos de construcción dispuesta mediante el mencionado decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015;
+
+6.- Que mediante oficio Ord. N° A 4295, del Administrador Municipal, de 9 de diciembre de 2015, el señor Administrador Municipal de la I. Municipalidad de Macul, solicitó una segunda prórroga por un plazo de 3 meses, para la postergación de los permisos de construcción dispuesta mediante el mencionado decreto N° 1.527, Secc. 1a, de 2 de julio de 2015;
+
+7.- Que mediante resolución exenta N° 14 de fecha 4 de enero de 2016, de esta Seremi, publicada en el Diario Oficial de fecha 9 de enero de 2016, se dispuso la prórroga por un plazo de 3 meses, para la postergación de los permisos de construcción dispuesta mediante el mencionado decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015;
+
+8.- Que mediante oficio Ord N° A 695, del Administrador Municipal, de 15 de marzo de 2016, el señor Administrador Municipal de la I. Municipalidad de Macul, solicitó una tercera prórroga por un plazo de 3 meses, para la postergación de los permisos de construcción dispuesta mediante el mencionado decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015;
+
+Tal solicitud se funda en que un grupo de vecinos del Sector Madreselvas interpuso un Recurso de Protección en contra del proyecto de modificación, ante la Iltma. Corte de Apelaciones de Santiago, la cual mediante fallo de fecha 4 de noviembre de 2015, ordenó al Municipio retrotraer el procedimiento de Modificación hasta antes de la primera notificación a los vecinos afectados y continuar con la sustanciación del procedimiento establecido por la ley.
+
+Por lo anterior, el Municipio acató lo resuelto en dicho fallo emitiendo el decreto alcaldicio N° 3.107 del 23 de diciembre de 2015 que dispone retrotraer el procedimiento de modificación del Proyecto y a continuación, conforme a lo dispuesto en el artículo 2.1.11 de la OGUC y en el Art. 45° de la LGUC, inició la tramitación de un nuevo proceso de exposición del Proyecto, para lo cual se dictó el decreto alcaldicio N° 387 del 11 de febrero de 2016, que dispone la publicación de dos avisos de prensa y la exposición del Proyecto en Audiencias Públicas, Sesiones ante el Consejo Comunal de Organizaciones de la Sociedad Civil y la Exposición a Público durante treinta días, en el Hall Principal del Edificio Consistorial.
+
+En el mismo tenor, el Municipio informó a esta Secretaría Ministerial que envió las cartas certificadas con los antecedentes del Proyecto de Modificación y calendario de las exposiciones del Proyecto, a través del Of. Ord. N° A 399 de 11 de febrero de 2016, a las directivas de las Juntas de Vecinos N° 6 y N° 7 del Sector Madreselvas y además a las organizaciones comunitarias involucradas, que se han publicado dos avisos de prensa, los días 25 de febrero y 3 de marzo de 2016 en el diario Las Últimas Noticias y finalmente que con fecha 5 de marzo de 2016, se iniciaron las Audiencias Públicas, donde se está exponiendo nuevamente la Modificación al PRC de Macul, Sector Madreselvas.
+
+Por lo anterior, el municipio solicitante señala la necesidad de una nueva prórroga de la postergación de permisos de construcción por un plazo de tres meses adicionales;
+
+9.- Que, mediante memorándum N° 38 de 23 de marzo de 2016, el Departamento de Desarrollo Urbano e Infraestructura de esta Seremi ha estimado atendible la preocupación municipal de proteger el sector antes individualizado de un desarrollo no deseado, para que se consolide a futuro con las normas contenidas en el proyecto de modificación del Plan Regulador Comunal en trámite de aprobación;
+
+10.- Que, conforme a lo expresado por el inciso 1° del artículo 117 de la Ley General de Urbanismo y Construcciones, que señala que "los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o Comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo", agregando su inciso 2° que "en caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado 'por orden del Presidente de la República o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna.";
+
+Resuelvo:
+
+1.- Prorrógase por tercera vez por el plazo de tres meses la postergación de permisos de construcción, dispuesta por decreto N° 1.527, Secc. 1ª, de 2 de julio de 2015, de la I. Municipalidad de Macul, publicada en el Diario Oficial de fecha 8 de julio de 2015, prorrogada por primera vez por un lapso de tres meses, mediante resolución N° 2.556 de esta Seremi, de 2 de octubre de 2015, publicada por el municipio en el Diario Oficial de fecha 9 de octubre de 2015 y prorrogada por segunda vez por resolución exenta N° 14 de fecha 4 de enero de 2016, publicada en el Diario Oficial de fecha 9 de enero del mismo año. La tercera prórroga será a contar de la expiración de la segunda prórroga de la postergación de permisos vigente, esto es, desde el día 9 de abril de 2016, para el sector conformado por la Av. Macul, Av. Quilín, Los Olmos, Brown Sur, Madreselvas y fondo de predios ubicados al oriente de Brown Sur, entre Madreselvas y Av. Quilín, de las Unidades Vecinales N° 6 y N° 7, relativa al polígono 1-2-3-4-5-6-7-8-1, graficado en el Plano M-PRMAC-UV6-7-01 / 2015, de la comuna de Macul.
+
+2.- La presente resolución deberá ser publicada en el Diario Oficial y en uno de los diarios de mayor circulación de la comuna de Macul.
+
+Anótese, comuníquese y publíquese.- Aldo Ramaciotti Fracchia, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
