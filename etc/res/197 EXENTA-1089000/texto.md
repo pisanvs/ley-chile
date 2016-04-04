@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 197 EXENTA, DE 15 DE MARZO DE 2016
+
+Por resolución exenta N° 197, de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Magallanes y Antártica Chilena, celebrado con el concesionario Revisiones Técnicas Davison Limitada, aprobado por la resolución exenta N° 326, de 3 de noviembre de 2004, de la citada Secretaría Regional, hasta el día 30 de abril de 2016, o hasta que comience a operar la nueva planta de revisión técnica concesionada en virtud del llamado a licitación pública efectuado para esta Región, a través de la resolución N° 277, de 11 de diciembre de 2013, modificada por la resolución N° 134, de 30 de abril de 2014, ambas del Ministerio de Transportes y Telecomunicaciones, cualquiera que ocurra primero.-
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
