@@ -108,7 +108,7 @@ A contar de la fecha de publicación del llamado, los interesados contarán con 
 
 Los postulantes deberán entregar por escrito, adicional a cualquier otro requerimiento de las presentes Bases, todos los antecedentes que acrediten los criterios A, B, C, D y E del punto 6 de las Bases Técnicas "Criterios de evaluación". El puntaje mínimo para adjudicarse el concurso público es de 60 puntos.
 
-La evaluación de las propuestas y selección del ganador por parte de la Comisión Evaluadora se realizará en un plazo máximo de diez días hábiles, contados desde la fecha de cierre de postulaciones al concurso.
+La evaluación de las propuestas y selección del ganador por parte de la Comisión Evaluadora se realizará en un plazo máximo de quince días hábiles, contados desde la fecha de cierre de postulaciones al concurso.
 
 Los resultados de la evaluación y el anuncio del ganador del Concurso Público serán notificados por el Ministerio, mediante carta certificada, en un plazo máximo de cinco días hábiles contados desde la resolución.
 
