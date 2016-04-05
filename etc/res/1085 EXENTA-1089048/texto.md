@@ -1,0 +1,33 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO LYPNESS CÁPSULAS
+
+Núm. 1.085 exenta.- Santiago, 21 de marzo de 2016.
+
+Visto estos antecedentes:
+
+El ordinario Nº 6.767, de fecha 30/08/13, del Seremi de Salud Región Metropolitana, que ingresara a este Instituto el 11/09/13, bajo referencia Nº 5170/13, requiere determinar el régimen que corresponde aplicar al producto Lypness Cápsulas, de la empresa Nutrapharm S.A., ya que él, junto a otros, se publicita en la página www.nutrapharmsa.com y en folletos, con propiedades terapéuticas o para atenuación de síntomas; el acuerdo de las sesiones Nos 2/14 y 1/15 del Comité de Expertos Asesor en Régimen de Control Aplicable, realizadas el 6 de agosto de 2014 y el 27 de marzo de 2015, respectivamente; la resolución exenta Nº 6.203, de fecha 23 de diciembre de 2014, del Instituto de Salud Pública, que fuera publicada en el Diario Oficial del 10 de enero de 2015 y que abrió período de información pública en el procedimiento de régimen de control aplicable respecto de este producto; Memorando A1/Nº 313, de fecha 20 de febrero de 2015, de Asesoría Jurídica, que remite a Subdepartamento Registro y Autorizaciones Sanitarias con el que acompaña antecedentes aportados por Nutrapharm S.A. con el objeto de que sea considerada en procedimiento de determinación del régimen de control aplicable de Lypness Cápsulas; oficio Nº711, de fecha 6 de mayo de 2015, que remite los antecedentes del producto Lypness Cápsulas al Minsal para su evaluación, y el ordinario B34/Nº 3626, de fecha 26 de noviembre de 2015, del Ministerio de Salud, que responde respecto de la clasificación del producto, y
+
+Considerando:
+
+Primero: Que el artículo 96 del Código Sanitario establece que será función del Instituto, entre otras, resolver el régimen de control sanitario que pudiere ser aplicable a determinadas substancias o productos, conforme a sus características o finalidad perseguida. En el mismo sentido, el artículo 8 del decreto supremo Nº 3, de 2010, del Ministerio de Salud, prescribe: "Corresponderá al Instituto determinar, mediante resolución fundada, el régimen de control que corresponda aplicar a todos aquellos productos que se atribuyan o posean algunas de las propiedades señaladas en el artículo anterior y se rotulen o anuncien como alimentos, siendo vinculante lo resuelto tanto a aquellos productos que deseen ser distribuidos y expendidos por primera vez, como a aquellos que se encuentren en circulación";
+
+Segundo: Que, en la especie, el producto Lypness Cápsulas se ha sometido al procedimiento de determinación de régimen de control aplicable, pormenorizado mediante la resolución exenta Nº 4.023, del año 2013, de este Instituto;
+
+Tercero: Que el producto corresponde a un producto en cápsulas, para el cual se declara la siguiente composición, por cada cápsula: 90,0 mg de extracto seco de hojas de té verde (*) (Camelia sinensis), 6,8 mg de polvo de frutos de Pimienta de Cayena (Capsicum annum Linn.), 25,0 mg de cafeína polvo (*), 200,0 mg de polvo de hojas de algas pardas (Undaria pinnatifida) (*), 100,0 mg de polvo de algas Spirulina (Arthrospira platensis) y excipientes Maltodextrina, estearato de magnesio ((*) Extracto de hojas de té verde: Solvente de extracción: Agua - Etanol, relación droga/extracto: 20/1);
+
+Cuarto: Que el producto tiene la siguiente finalidad de uso: "Inhibidor de la absorción de carbohidratos y grasas provenientes de la dieta.";
+
+Quinto: Que Lypness Cápsulas fue evaluado en las sesiones Nos 2/14 y 1/15, de fechas 6 de agosto de 2014 y 27 de marzo de 2015, respectivamente, del Comité de Expertos Asesor en Régimen de Control Aplicable, tal como consta en las actas correspondientes, concluyendo finalmente que él no corresponde a un producto farmacéutico ni a ningún otro tipo de producto de competencia del Instituto de Salud Pública y que se debe derivar al Minsal (art. 8º del DS Nº3, de 2010), solicitando tener en cuenta que este producto se comercializa actualmente como alimento;
+
+Sexto: Que mediante la resolución exenta Nº 6.203, de fecha 23 de diciembre de 2014, de este Instituto, que fuera publicada en el Diario Oficial del 10 de enero de 2015, se abrió período de información pública en el procedimiento administrativo de determinación del régimen de control que corresponde aplicar a este producto, de 10 días hábiles, contados desde la publicación de dicha resolución en el Diario Oficial, habiéndose formulado observaciones dentro del período de información pública iniciado por la resolución exenta Nº 6.203, de parte de Nutrapharm S.A., para este producto, las cuales fueron evaluadas en sesión Nº 1/15 del Comité de Expertos Asesor en Régimen de Control Aplicable;
+
+Séptimo: Que mediante oficio Nº 711, de fecha 6 de mayo de 2015, se remiten los antecedentes del producto Lypness Cápsulas al Minsal para su evaluación y que, a través del ordinario B34/Nº 3626, de fecha 26 de noviembre de 2015, del Ministerio de Salud, se informó a este Instituto que el producto Lypness Cápsulas corresponde a alimento, por lo que se debe regir por las disposiciones del Reglamento Sanitario de los Alimentos, DS Nº 977, de 1996, del Ministerio de Salud, y que en consideración a esto último es necesario advertir que el estearato de magnesio no se encuentra entre los aditivos permitidos en alimentos, y
+
+Teniendo presente:
+
+Lo dispuesto en el artículo 96º del Código Sanitario; en los artículos 8º y 9º del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3, de 2010, del Ministerio de Salud; la resolución exenta Nº 4.023, del 4 de diciembre de 2013, del Instituto de Salud Pública de Chile; el artículo 59º letra b), del decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469, del Ministerio de Salud; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta Nº 292, del 12 de febrero de 2014, del Instituto de Salud Pública de Chile, dicto la siguiente
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Lypness Cápsulas es el propio de los alimentos. Por lo tanto, deberá regirse por las disposiciones del Reglamento Sanitario de los Alimentos, DS Nº 977, de 1996, del Ministerio de Salud.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Departamento Agencia Nacional de Medicamentos, Instituto de Salud Pública de Chile.
