@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 356, del 26 de enero de 2016, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Salmones Maullín Limitada, sociedad chilena, RUT 79.728.530-7, con domicilio en Cardonal s/n, Lote B, Puerto Montt, para incorporar el grupo de especies salmónidos, requerido mediante solicitud 211101001, del 6 de enero de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.501, del 18 de octubre de 1995, modificada y transferida por resolución 1.465, de 10 de agosto de 2000, modificada por resolución 1.505, de fecha 20 de noviembre de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, e inscrita a nombre de su actual Salmones Maullín Limitada, bajo el 242013, del Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, ubicada al Noreste de Punta Puchegui, Isla Maillén, comuna de Puerto Montt, provincia de Llanquihue, X Región de Los Lagos.
+
+2.- "El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 1.217, de 5 de septiembre de 1995, modificada por resolución exenta 1.690, del 20 de junio de 2006, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 961, de 10 de abril de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura".
+
+Santiago, 11 de marzo de 2016.- Por orden de la Subsecretaría para las Fuerzas Armadas.- José Miguel Poblete East, Abogado, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
