@@ -1,0 +1,41 @@
+EXTRACTO ESCRITURA DE CONSTITUCIÓN PARTIDO POLÍTICO EN FORMACIÓN "PARTIDO ORDEN REPUBLICANO MI PATRIA"
+
+Por resolución O-N° 209, de fecha 11 de septiembre de 2015, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5°, inciso tercero, y para los efectos señalados en el artículo 10, ambos de la ley N° 18.603.
+
+Por escritura pública de fecha 30 de junio de 2015, ante don Gabriel Ogalde Rodríguez, abogado, Notario Público de la Tercera Notaría de Santiago, modificada por escrituras públicas de fechas 23 de julio, 4 y 8 de septiembre de 2015, otorgada ante la misma Notaría, se constituyó como partido político la entidad denominada "Partido Orden Republicano Mi Patria". Su sigla es "PORMIPATRIA". Su lema es "Por la Libertad y Grandeza de Nuestro Pueblo". Su símbolo: "Dos letras unidas, siendo la primera la letra "P", luego la letra "M", para finalizar con dos lanzas cruzadas. Bajo el símbolo se agrega la palabra PORMIPATRIA, que corresponde a la sigla abreviada que identifica al partido.
+
+Declaración de Principios:
+
+- **A)** Su finalidad principal es aunarse en una entidad patriótica, libertaria, valórica e integradora para todos los ciudadanos de la república, Pormipatria tiene como fundamento básico el interés de generar un conjunto de condiciones sociales que permitan la mayor realización espiritual y material de los chilenos. Nuestro carácter social, patriótico y cívico tiene por finalidad la búsqueda incesante del bien común, la reivindicación de los valores morales y éticos de la tradición chilena, y el respeto a todos los hombres y mujeres que han contribuido a lo largo de nuestra historia, al engrandecimiento de la nación, buscamos disminuir las inequidades al máximo, así como también erradicar el abuso y la corrupción, venga de donde venga.
+
+- **B)** Manifestamos nuestro rechazo a la competencia de clases.
+
+- **C)** Propendemos al desarrollo y progreso de la nación, como asimismo, la estabilidad política y democrática de la República de Chile, rechazando todo tipo de totalitarismo. Propiciamos un estado de derecho pleno, concepto ineludible de una sociedad ordenada y libre que avanza con paso firme hacia un estado de felicidad perenne y duradera. Abogamos por un trato judicial igualitario para todos nuestros compatriotas. Nos comprometemos a obtener, por todos los medios legales, el respeto del debido proceso conforme a las leyes vigentes, la Constitución y a los principios jurídicos inherentes al estado de derecho chileno. Queremos total transparencia, mínimo de delincuencia y máxima capacidad. Destacamos la dignidad del adulto mayor y el deber de la familia y de la sociedad de protegerlo.
+
+- **D)** Propiciamos un desarrollo sostenido y seguro, pilar básico de una sociedad educada y con buenas perspectivas laborales. La Economía debe estar al servicio del ciudadano y no el ciudadano al servicio de la Economía, y que el bienestar del Pueblo está por sobre los intereses individuales, de donde surge el rechazo y la condena a la usura y a la explotación del hombre la naturaleza. Sostenemos que no hay desarrollo verdadero cuando se atenta contra la naturaleza, y que la producción basada en su explotación indiscriminada, a largo plazo, se transforma en un atentado contra el desarrollo. Pormipatria postula un modelo de desarrollo circular, reciclado, pragmático y visionario. Este modelo privilegia la visión a largo plazo y pone su acento en la búsqueda del equilibrio ecológico, considerando al ser Humano como parte de la Naturaleza, y por ello, ligado al destino y evolución de todo el Planeta.
+
+- **E)** Manifestamos la concepción de que el trabajo es el valor económico fundamental, por sobre el Capital o el Dinero, expresado en una legislación laboral justa, el respeto de la propiedad privada y el fomento de la pequeña y mediana empresa.
+
+- **F)** Concebimos la educación pública y privada como cooperadora principal de la familia en la formación de la juventud desde la infancia. Sostenemos que es un derecho de todos los chilenos el acceso a la educación pre-básica y media de calidad y de libre elección. Apoyamos y defendemos la valorización, respeto y promoción de la cultura, lenguaje, tradiciones, costumbres e historia de las diversas regiones de Chile, así como el desarrollo de las autonomías administrativas para evitar el centralismo estatal, sin menoscabo a la dirección efectiva e intervención del gobierno central cuantas veces sea necesaria.
+
+- **G)** Sostenemos enfáticamente que, dado nuestro origen natural y espiritual, la vida en su conjunto y el ser Humano en particular, poseen una Dignidad, Libertad y Derechos intrínsecos y anteriores a cualquier orden social, jurídico, económico o político, y consecuencialmente esta dignidad, libertad y derechos son inseparables de su propia naturaleza desde el mismo momento de su concepción.
+
+- **H)** Pormipatria considera ineludible la igualdad de oportunidades. El desarrollo de las capacidades personales en un marco de igualdad de oportunidades colectivo, implica la existencia recíproca de una responsabilidad social, toda vez que el ciudadano sólo puede manifestar legítimamente dichas capacidades cuando todos han tenido las mismas oportunidades y, por ende, debe hacerse responsable del mantenimiento de estas, ya que sólo ello justifica y permite su propio desarrollo personal.
+
+- **I)** Pormipatria reconoce la diferencia en las capacidades individuales, y la propiedad privada fruto del esfuerzo y el desarrollo de dichas capacidades, nuestro principio consiste en dar a cada cual lo que le corresponde conforme a sus méritos y virtudes personales, garantizando un patrón de vida digna para el individuo y su familia. Consecuente con lo anterior, Pormipatria trabajará en la búsqueda y preservación de una política en permanente adaptación, para generar reciprocidad de intereses entre ciudadano y sociedad, con el objetivo de permitir el máximo desarrollo de las capacidades personales y con ello lograr el mayor bienestar conjunto de la sociedad.
+
+- **J)** Pormipatria no representa los intereses de algunos ni tampoco de la mayoría, sino el interés de todos y cada uno de los integrantes de la sociedad sin distinción de origen, etnia, religión o sexo.
+
+- **K)** Propiciamos la descentralización del poder y la máxima participación democrática, desde las bases. Pormipatria postula un modelo de gobierno descentralizado en la medida que contribuya a la eficacia de la gestión de la autoridad. En Pormipatria, gobernantes y gobernados se encuentran comprometidos indisolublemente en una relación dinámica, de flujo e influjo permanente en beneficio de la sociedad. El Gobierno tiene como misión fundamental fomentar el crecimiento, la creatividad, la cooperación, la adaptación y la sinergia permanente de las fuerzas sociales vitales de la sociedad.
+
+- **L)** Llamamos a todos los Chilenos, sin distinción de origen, situación social o nivel económico, a trabajar denodadamente por el surgimiento de un verdadero espíritu Social y Patriótico, que permita un futuro más libre, más justo, más digno, más sano y en mayor equilibrio para las generaciones futuras.
+
+La Directiva Central provisional estará compuesta por las siguientes personas: Presidente: Augusto Cristian Pinochet Molina; Primer Vicepresidente, Eduardo Alexis Toledo Pinto; Segundo Vicepresidente, Gastón José García Vásquez; Secretario General, Francisco Ferraris Méndez; Tesorero, José Matías Mancilla Uribe.
+
+El Tribunal Supremo provisional estará integrado por las siguientes personas: Presidente, Lautaro José Onofre Contreras Aguilera; Vicepresidente, Margarita Marambio García; Secretaria, Marta Polanco Herevia.
+
+En caso de ser necesario subrogación o reemplazo por las vacantes que se produjeren por fallecimiento, renuncia o imposibilidad definitiva o transitoria de algún miembro de la Directiva Central o del Tribunal Supremo provisionales, éstas serán llenadas por el respectivo organismo, eligiendo al reemplazante dentro de la nómina de comparecientes a la escritura de constitución, en sesión especial citada al efecto.
+
+El domicilio común es calle Antonio Varas número mil trescientos setenta y siete, comuna de Providencia, ciudad de Santiago.-
+
+Elizabeth Cabrera Burgos, Directora (S).
