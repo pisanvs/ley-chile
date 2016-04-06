@@ -1,0 +1,13 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.182, del 24 de noviembre de 2015, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Sociedad Comercial Inversiones Latitud Sur Limitada, sociedad chilena, RUT Nº 77.534.610-8, con domicilio en Pasaje Las Delicias Nº 255, Castro, para incorporar el cultivo del grupo de especies mitílidos y ostreídos, y los recursos hidrobiológicos Chondracanthus sp. y Macrocystis sp., requerida mediante solicitud Nº 213103028, de fecha 21 de agosto de 2013, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución Nº 1.928, de fecha 30 de diciembre de 1996, del Ministerio de Defensa Nacional, Subsecretaría de Marina, inscrita a nombre de Sociedad Comercial Inversiones Latitud Sur Limitada, a fojas 121, Nº 242, del año 2011, del Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas y modificada por resolución exenta Nº 2.236, de fecha 16 de marzo de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Estero Castro, al noroeste de Punta Tutil, comuna de Castro, provincia de Chiloé, X Región de Los Lagos.
+
+2.- Modifícase, en la resolución Nº 1.928, de fecha 30 de diciembre de 1996, los párrafos Nº 3 y 4 del resuelvo, en el sentido de reemplazar el objeto y el proyecto técnico de la siguiente forma:
+
+Esta concesión de acuicultura tiene por objeto único la realización de actividades de cultivo en el área concedida y deberá amparar la instalación y operación del cultivo del grupo de especies mitílidos y ostreídos, y los recursos hidrobiológicos Chondracanthus sp. y Macrocystis sp.
+
+El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta Nº 1.165, de fecha 24 de junio de 1996, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificado por resolución exenta Nº 3.468, de fecha 23 de diciembre de 2011, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y por resolución exenta Nº 575, de fecha 27 de febrero de 2015, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 4 de febrero de 2016.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Abogado, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
