@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN N° 253 EXENTA, DE 16 DE MARZO DE 2016
+
+Por resolución exenta N° 253, de 16 de marzo de 2016, de la Secretaría Regional Ministerial de la Región de Los Lagos, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Lagos, celebrado con el concesionario Revisiones Los Lagos Limitada, aprobado por la resolución exenta N° 443, de fecha 23 de agosto de 2004, de la citada Secretaría Regional, hasta el día 30 de junio de 2016 o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región, a través de la resolución N° 91, de 10 de febrero de 2014, modificada por las resoluciones N° 145, de 26 de mayo de 2014 y N°183, de 30 de julio de 2014, cualquiera que ocurra primero.-
+
+Enrique Cárdenas Inostroza, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos.
