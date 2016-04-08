@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL INSTRUCTIVO INSTITUCIONAL DENOMINADO "PROCEDIMIENTO DE INDUCCIÓN DE FUNCIONES Y TAREAS PARA MAYORDOMOS Y GUARDIAS DEPENDIENTES DE LA UNIDAD DE SEGURIDAD FÍSICA"
+
+Por resolución exenta N° 109, de 15 de marzo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba el Instructivo denominado "Procedimiento de Inducción de Funciones y Tareas para Mayordomos y Guardias Dependientes de la Unidad de Seguridad Física", con aprobación legal de la División Jurídica del Instituto, de fecha 22 de febrero de 2016, cuyo objetivo es fortalecer el correcto funcionamiento del Área de Mayordomía de la Unidad de Seguridad Física, formalizando las funciones atingentes de los Mayordomos y/o Guardias de Seguridad del Instituto de Previsión Social (IPS).
+
+Santiago, 4 de abril de 2016.- Patricio Coronado Rojo, Director Nacional.
