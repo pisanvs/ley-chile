@@ -358,6 +358,10 @@ Papudo:
 
 . El tramo urbano de la Ruta F-30-E, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de Av. Circunvalación 19 de Junio.
 
+PUCHUNCAVÍ
+
+. El sistema vial urbano que interconecta la Ruta F-30-E con la Ruta F-20, a través de Vía 2-A-8.
+
 Putaendo:
 
 . El Sistema Vial Urbano que interconecta las Rutas E-41 y E-71, dentro de los límites urbanos; a través de: Puentes Putaendo y Granalla y sus respectivas conexiones con La Costanera, La Costanera y Eduardo Weggener.
