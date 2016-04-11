@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Resolución exenta Nº 676, de 4 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, aprueba Contrato Ad-Referéndum de Concesión 5 para operar una planta revisora clase AB en la comuna de San Antonio y una planta revisora clase B en la comuna de Viña del Mar, en la Región de Valparaíso, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso y el concesionario "Applus Revisiones Técnicas de Chile S.A.", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Maritza Robledo Fernández, Secretaria Regional Ministerial de Transportes y Telecomunicaciones (S), Región de Valparaíso.
