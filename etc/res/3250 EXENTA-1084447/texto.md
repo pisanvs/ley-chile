@@ -38,6 +38,8 @@ a) Los vehículos que presten servicios urbanos y/o rurales entre las siguientes
 
 . Valparaíso - Casablanca
 
+. Valparaíso - Provincia de San Antonio
+
 b) Los vehículos que circulen en la condición de fuera de servicio, en viajes que no signifiquen transporte público de pasajeros remunerado, debiendo exhibir un letrero que así lo indique.
 
 c) Los vehículos de locomoción colectiva inscritos en el RNTPP, prestando servicio de conformidad al DS Nº 237/92, del Ministerio de Transportes y Telecomunicaciones.
