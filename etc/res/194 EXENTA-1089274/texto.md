@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 194 EXENTA, DE 14 DE MARZO DE 2016
+
+Por resolución exenta Nº 194 de 14 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se aprobaron los Planes y Programas de la Escuela de Conductores Profesionales "Capacitaciones Avansur Limitada", cuyo nombre de fantasía es "Avansur Ltda.", representada legalmente por doña Rosa Celinda Paillán Cheuquepil, cédula nacional de identidad Nº 7.560.579-K, para impartir cursos conducentes a la obtención de las licencias de conductor Clases A2, A3, A4 y A5, y se deja sin efecto la resolución exenta Nº 133/16, de esa Secretaría Regional Ministerial.-
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
