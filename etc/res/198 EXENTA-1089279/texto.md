@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 198 EXENTA, DE 15 DE MARZO DE 2016
+
+Por resolución exenta Nº 198, de 15 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Capacitaciones Avansur Limitada", cuyo nombre de fantasía es "Avansur Ltda.", representada legalmente por doña Rosa Celinda Paillán Cheuquepil, cédula nacional de identidad Nº 7.560.579-K, para impartir cursos conducentes a la obtención de la licencia de conductor Clases A2, A3, A4 y A5, en su sede ubicada en calle Croacia Nº 1198 y en su taller ubicado en Avenida Los Flamencos Altura Nº 550 Parcela C2, ambos en la comuna de Punta Arenas y se dejó sin efecto la resolución exenta Nº 134/2016, de esa Secretaría Regional Ministerial de Transportes y Telecomunicaciones.-
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena
