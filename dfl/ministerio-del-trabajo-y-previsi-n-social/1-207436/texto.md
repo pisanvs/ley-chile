@@ -790,6 +790,14 @@ El tiempo en el que los trabajadores se realicen los exámenes, será considerad
 
 Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
 
+#### Artículo 66 ter
+
+Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
+
+El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en ningún caso, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en el artículo 160, número 4, letra a), de este Código, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
+
+El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
+
 #### Artículo 67
 
 Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
