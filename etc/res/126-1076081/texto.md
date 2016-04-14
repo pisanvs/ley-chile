@@ -38,31 +38,35 @@ Resuelvo:
 
 . Clasificación de riesgo:
 
-. A las cooperativas de ahorro y crédito supervisadas por el DECOOP
+. A las cooperativas de ahorro y crédito supervisadas por
 
-que no presenten una clasificación de riesgo "A", se les podrá
+el DECOOP que no presenten una clasificación de riesgo
 
-informar de programas de asistencia técnica que tenga CORFO,
+"A", se les podrá informar de programas de asistencia
 
-para que puedan mejorar sus procedimientos e indicadores y así
+técnica que tenga CORFO, para que puedan mejorar sus
 
-puedan operar en el Programa.
+procedimientos e indicadores y así puedan operar en el
 
-. Al resto de intermediarios financieros no se le exigirá una
+Programa.
 
-clasificación de riesgo. Aquellos que no presenten una clasificación
+. Al resto de intermediarios financieros no se le exigirá
 
-de riesgo con un nivel mínimo de "BBB-" (otorgada por agencias de
+una clasificación de riesgo. Aquellos que no presenten
 
-clasificación privada), si fuera pertinente, el Comité Ejecutivo
+una clasificación de riesgo con un nivel mínimo de "BBB-"
 
-de Créditos de CORFO les podrá otorgar préstamos con cargo a esta
+(otorgada por agencias de clasificación privada), si fuera
 
-línea, pudiéndoles exigir covenants y/o establecer períodos de
+pertinente, el Comité Ejecutivo de Créditos de CORFO les
 
-tiempo para que obtengan una calificación o logren los niveles
+podrá otorgar préstamos con cargo a esta línea,
 
-mínimos señalados.
+pudiéndoles exigir covenants y/o establecer períodos de
+
+tiempo para que obtengan una calificación o logren los
+
+niveles mínimos señalados.
 
 . Historial en el otorgamiento de créditos: el intermediario financiero deberá contar con al menos un año de experiencia en el otorgamiento de préstamos comerciales, a la hora de postular como intermediario del Programa.
 
@@ -80,15 +84,15 @@ mínimos señalados.
 
 . Resultado final.
 
-. Se permite un resultado final negativo equivalente hasta un 10%
+. Se permite un resultado final negativo equivalente hasta un
 
-del patrimonio del intermediario financiero. En dicho caso,
+10% del patrimonio del intermediario financiero. En dicho
 
-CORFO revisará que el resultado final negativo sea una
+caso,CORFO revisará que el resultado final negativo sea una
 
-eventualidad y no un efecto de deterioro permanente del negocio
+eventualidad y no un efecto de deterioro permanente del
 
-del intermediario.
+negocio del intermediario.
 
 . Evaluación de intermediarios: la Gerencia de Inversión y Financiamiento será la encargada de realizar la evaluación de la situación económica financiera del intermediario financiero que solicite recursos del Programa.
 
@@ -102,17 +106,19 @@ del intermediario.
 
 . Justificación del uso de los recursos:
 
-. Con el objeto de tener mejores evaluaciones del programa, se
+. Con el objeto de tener mejores evaluaciones del programa,
 
-solicitará una rendición tanto del flujo y stock de las
+se solicitará una rendición tanto del flujo y stock de
 
-operaciones financiadas con este Programa, lo que permitirá
+las operaciones financiadas con este Programa, lo que
 
-realizar una trazabilidad de éstas.
+permitirá realizar una trazabilidad de éstas.
 
-. Agregar en la información rendida el número de trabajadores de
+. Agregar en la información rendida el número de trabajadores
 
-cada beneficiario para calcular indicadores de productividad.
+de cada beneficiario para calcular indicadores de
+
+productividad.
 
 . Acreditación de recursos: agregar en el caso de Factoring la exigencia de contar con el Contrato de Apertura de Línea de Factoring.
 
@@ -162,9 +168,11 @@ Podrán refinanciar sus créditos, factoring de facturas (excluyendo factoraje d
 
 a) Sociedades anónimas,
 
-b) Sociedades por acciones, siempre que consideren en su estructura
+b) Sociedades por acciones, siempre que consideren en su
 
-de gobierno corporativo la existencia de un Directorio,
+estructura de gobierno corporativo la existencia de
+
+un Directorio,
 
 c) Cooperativas de Ahorro y Crédito, en adelante "CAC",
 
@@ -172,113 +180,125 @@ d) Otras cooperativas que habitualmente otorguen créditos
 
 productivos de libre disponibilidad a sus afiliados,
 
-e) Cajas de Compensación de Asignación Familiar, Organismos No
+e) Cajas de Compensación de Asignación Familiar, Organismos
 
-Gubernamentales (ONGs), y
+No Gubernamentales (ONGs), y
 
-f) Fundaciones y corporaciones que cumplan con la normativa legal
+f) Fundaciones y corporaciones que cumplan con la normativa
 
-y reglamentaria vigente para este tipo de instituciones y que
+legal y reglamentaria vigente para este tipo de
 
-tengan como objetivo el financiamiento de créditos a micro y
+instituciones y que tengan como objetivo el
 
-pequeñas empresas.
+financiamiento de créditos a micro y pequeñas
+
+empresas.
 
 5.2 Requisitos.
 
 Los intermediarios que deseen participar en el Programa deberán dar cumplimiento a los siguientes requisitos:
 
-a) Poseer al menos 1 año de experiencia en el otorgamiento de
+a) Poseer al menos 1 año de experiencia en el otorgamiento
 
-préstamos comerciales, al momento de la postulación.
+de préstamos comerciales, al momento de la postulación.
 
-b) Poseer políticas y procesos de crédito y cobranza aprobados
+b) Poseer políticas y procesos de crédito y cobranza
 
-formalmente por las instancias que correspondan dentro de cada
+aprobados formalmente por las instancias que
 
-IFNB, y que incluyan una clara definición de los criterios
+correspondan dentro de cada IFNB, y que incluyan una
 
-aplicados a los segmentos de pequeña y microempresa.
+clara definición de los criterios aplicados a los
 
-c) Poseer planes de negocio de mediano plazo acordes con el
+segmentos de pequeña y microempresa.
 
-desarrollo y expansión del negocio de microcrédito productivo o
+c) Poseer planes de negocio de mediano plazo acordes con
 
-de crédito a micro y pequeñas empresas, según corresponda,
+el desarrollo y expansión del negocio de microcrédito
 
-aprobados formalmente por las instancias que correspondan dentro
+productivo o de crédito a micro y pequeñas empresas,
 
-de cada IFNB.
+según corresponda,aprobados formalmente por las
 
-d) Poseer una política de provisiones que sea consistente con los
+instancias que correspondan dentro de cada IFNB.
 
-niveles de riesgo de crédito que presente su cartera de
+d) Poseer una política de provisiones que sea consistente
 
-colocaciones.
+con los niveles de riesgo de crédito que presente su
 
-e) Poseer políticas y procesos de prevención del lavado de activos
+cartera de colocaciones.
 
-y del financiamiento del terrorismo.
+e) Poseer políticas y procesos de prevención del lavado
 
-f) Las CAC supervisadas exclusivamente por el Departamento de
+de activos y del financiamiento del terrorismo.
 
-Cooperativas del Ministerio de Economía, Fomento y Turismo, en
+f) Las CAC supervisadas exclusivamente por el
 
-adelante "el DECOOP", además de cumplir con las exigencias
+Departamento de Cooperativas del Ministerio de Economía,
 
-establecidas en el resto del numeral 5, deberán tener una
+Fomento y Turismo, en adelante "el DECOOP", además
 
-calificación de al menos el nivel denominado "A", o alguno
+de cumplir con las exigencias establecidas en el
 
-o algunos equivalentes que lo o los reemplace, en los últimos
+resto del numeral 5, deberán tener una calificación
 
-6 meses previos a la solicitud de operación como intermediario
+de al menos el nivel denominado "A", o alguno o
 
-del Programa, y haber autorizado al mencionado DECOOP a comunicar
+algunos equivalentes que lo o los reemplace,
 
-mensualmente dicha calificación a CORFO, la que emana del
+en los últimos 6 meses previos a la solicitud de
 
-"Sistema de Indicadores de Desempeño Financiero", que administra
+operación como intermediario del Programa, y haber
 
-dicho Departamento.
+autorizado al mencionado DECOOP a comunicar
 
-No obstante la CAC cumpla con el requisito de calificación mínima,
+mensualmente dicha calificación a CORFO, la que emana
 
-la aprobación del préstamo puede estar condicionada al
+del "Sistema de Indicadores de Desempeño Financiero",
 
-establecimiento de las obligaciones establecidas en el numeral 7
+que administra dicho Departamento. No obstante la CAC
 
-de esta Normativa.
+cumpla con el requisito de calificación mínima,
 
-g) Los demás IFNB que deseen operar en este Programa no se les
+la aprobación del préstamo puede estar condicionada
 
-exigirá una clasificación de riesgo. Sin perjuicio de lo anterior,
+al establecimiento de las obligaciones establecidas
 
-para aquellos que no presenten una clasificación de riesgo con
+en el numeral 7 de esta Normativa.
 
-un nivel mínimo de "BBB-" (otorgada por agencias de clasificación
+g) Los demás IFNB que deseen operar en este Programa no se
 
-privada), el Comité Ejecutivo de Créditos de CORFO, en adelante
+les exigirá una clasificación de riesgo. Sin perjuicio
 
-"el CEC", si lo estima pertinente, podrá otorgar préstamos con
+de lo anterior, para aquellos que no presenten una
 
-cargo a este Programa, pudiéndoles exigir el cumplimiento de
+clasificación de riesgo con un nivel mínimo de "BBB-"
 
-covenants o garantías reales, según lo establecido en el numeral 7
+(otorgada por agencias de clasificación privada), el
 
-de esta Normativa, y/o establecer períodos de tiempo para que
+Comité Ejecutivo de Créditos de CORFO, en adelante
 
-obtengan la clasificación de riesgo mínima.
+"el CEC", si lo estima pertinente, podrá otorgar
 
-h) Los IFNB deben cumplir con los siguientes niveles mínimos para sus
+préstamos con cargo a este Programa, pudiéndoles
 
-indicadores financieros, los cuales deben ser reportados a CORFO
+exigir el cumplimiento de covenants o garantías reales,
 
-al momento de efectuar la solicitud de ingreso como operador del
+según lo establecido en el numeral 7 de esta Normativa,
 
-Programa, debiendo dicha información ser firmada por su
+y/o establecer períodos de tiempo para que obtengan la
 
-representante legal:
+clasificación de riesgo mínima.
+
+h) Los IFNB deben cumplir con los siguientes niveles mínimos
+
+para sus indicadores financieros, los cuales deben ser
+
+reportados a CORFO al momento de efectuar la solicitud
+
+de ingreso como operador del Programa, debiendo dicha
+
+información ser firmada por su representante legal:
 
 . Solvencia: Se definen niveles mínimos de:
 
@@ -286,25 +306,31 @@ representante legal:
 
 √ 5% de capital y reservas a Activos totales
 
-. Mora: Debe presentar una tasa de mora mayor a 90 días inferior
+. Mora: Debe presentar una tasa de mora mayor a 90
 
-al 15% del stock de colocaciones. La tasa de mora se calcula
+días inferior al 15% del stock de colocaciones. La
 
-considerando la aceleración de todo el saldo del crédito a la
+tasa de mora se calcula considerando la aceleración
 
-cuota en mora más antigua.
+de todo el saldo del crédito a la cuota en mora más
 
-. Siniestralidad: Debe presentar una tasa anual de siniestro
+antigua.
 
-(castigo) inferior a 8,5% del stock de colocaciones.
+. Siniestralidad: Debe presentar una tasa anual de
 
-. Resultado final: Se permite un resultado final negativo
+siniestro (castigo) inferior a 8,5% del stock de
 
-equivalente hasta un 10% del patrimonio del intermediario
+colocaciones.
 
-financiero. En dicho caso, CORFO revisará que el resultado final
+. Resultado final: Se permite un resultado final
 
-negativo sea una eventualidad y no un efecto de deterioro
+negativo equivalente hasta un 10% del patrimonio
+
+del intermediario financiero. En dicho caso,
+
+CORFO revisará que el resultado final negativo
+
+sea una eventualidad y no un efecto de deterioro
 
 permanente del negocio del intermediario.
 
@@ -324,39 +350,47 @@ b) Política de provisiones.
 
 c) Plan de negocios.
 
-d) Política de prevención del lavado de activos y del financiamiento
+d) Política de prevención del lavado de activos y del
 
-del terrorismo.
+financiamiento del terrorismo.
 
-e) Estados financieros anuales auditados, de los 3 últimos períodos,
+e) Estados financieros anuales auditados, de los 3
 
-cuando corresponda. Si corresponde, además, pre balance
+últimos períodos, cuando corresponda. Si
 
-actualizado.
+corresponde, además, pre balance actualizado.
 
-f) Detalle de la cartera bruta de créditos con las siguientes
+f) Detalle de la cartera bruta de créditos con las
 
-aperturas, cuando corresponda para los últimos 3 períodos anuales,
+siguientes aperturas, cuando corresponda para
 
-y al menos de los últimos 2 trimestres:
+los últimos 3 períodos anuales, y al menos de
 
-(i) Por producto (consumo, comercial, hipotecario, etc.);
+los últimos 2 trimestres:
 
-(ii) Por tramo de mora (al día, 1-30 días, 31-60 días, 61-90
+(i) Por producto (consumo, comercial, hipotecario,
 
-días, 91-180 días, mayor a 180 días);
+etc.);
+
+(ii) Por tramo de mora (al día, 1-30 días, 31-60 días,
+
+61-90 días, 91-180 días, mayor a 180 días);
 
 (iii) Con y sin repactación o reprogramación.
 
-g) Detalle de la partida de provisiones, si corresponde, para los
+g) Detalle de la partida de provisiones, si corresponde,
 
-últimos 3 períodos anuales (saldo inicial, castigos,
+para los últimos 3 períodos anuales (saldo inicial,
 
-provisiones constituidas, liberación provisiones y saldo final).
+castigos, provisiones constituidas, liberación
 
-h) Toda otra información que permita determinar los indicadores
+provisiones y saldo final).
 
-financieros señalados en el literal h) del numeral 5.2.
+h) Toda otra información que permita determinar los
+
+indicadores financieros señalados en el literal h)
+
+del numeral 5.2.
 
 CORFO se reserva el derecho de solicitar al intermediario financiero mayores antecedentes, antes de resolver su solicitud de financiamiento con cargo al Programa.
 
@@ -404,13 +438,13 @@ Cuando corresponda, será de responsabilidad del IFNB informar el cumplimiento d
 
 8. Condiciones de plazo de los préstamos de refinanciamiento otorgados a los IFNB.
 
-Los préstamos, giros o desembolsos podrán o no incluir períodos de gracia para el pago de capital de hasta 18 meses, pero en todos los casos el plazo máximo del préstamo, incluyendo el período de gracia, no podrá exceder los 6 años de plazo.
+Los préstamos, giros o desembolsos podrán o no incluir periodos de gracia para el pago de capital de hasta 18 meses, pero en todos los casos el plazo máximo del préstamo, incluyendo el periodo de gracia, no podrá exceder los 6 años del plazo.
 
-Los vencimientos de capital de los préstamos serán mensuales, bimensuales, semestrales o trimestrales.
+Los vencimientos de capital de los préstamos serán mensuales, bimensuales, semestrales trimestrales o anuales.
 
 Los plazos de amortización se computarán a partir del día 15 del mes en que la Corporación efectuó cada desembolso.
 
-Los intereses se devengarán a partir de la fecha de desembolso y se pagarán mensuales, bimensuales, semestral o trimestralmente, según corresponda, venciendo la primera cuota, según la periodicidad definida (1, 2, 3 o 6 meses después del día 15 del mes en que la Corporación efectuó el desembolso).
+Los intereses se devengarán a partir de la fecha de desembolso y se pagarán mensuales, bimensuales, semestrales, trimestralmente o anualmente según corresponda, venciendo la primera cuota, según la periodicidad (1, 2, 3, 6 o 12 meses después del día 15 del mes en que la Corporación efectuó el desembolso).
 
 ### 9. Opciones de moneda y reajustabilidad
 
@@ -428,11 +462,15 @@ No obstante lo anterior, la Corporación se reserva el derecho de modificar, dur
 
 Asimismo, mediante un Acuerdo del CEC, CORFO podrá establecer períodos de vigencia para las tasas de interés que fije, menores a los 90 días, lo cual será comunicado a los IFNB.
 
+En caso de mora, la tasa pactada se elevará a la tasa máxima legal vigente a la fecha del giro, y se aplicará a contar de la fecha del incumplimiento.
+
 Por último, el CEC podrá establecer tasas de interés preferentes para la colocación de financiamientos otorgados por los IFNB a empresas beneficiarias que pertenezcan a sectores, actividades o territorios productivos prioritarios definidos por la propia Corporación. Estas tasas podrán ser establecidas para los casos de licitación o por la modalidad de ventanilla abierta.
 
 ### 11. Prepago
 
 Los préstamos otorgados por la Corporación podrán ser prepagados, computándose los intereses hasta la fecha del prepago. Para ello, el intermediario financiero deberá dar aviso a CORFO con una anticipación de al menos 2 días hábiles a la fecha estipulada por el IFNB para realizar el prepago.
+
+Los prepagos que excedan el 50% del préstamo y que se efectúen dentro de los 6 primeros meses de vigencia del mismo, quedarán sujetos a una comisión del 0,75% sobre el monto de capital prepagado. Los prepagos superiores al 50% del monto del préstamo que se efectúen dentro del periodo entre los 6 meses y los 12 meses de vigencia del préstamo, estarán sujetos a una comisión del 0,50% del monto del capital prepagado del préstamo. Prepagos posteriores estarán exentos de comisiones
 
 ### 12. Condiciones de las operaciones refinanciables
 
