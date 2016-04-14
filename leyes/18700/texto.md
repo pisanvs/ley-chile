@@ -22,13 +22,15 @@ Sólo serán consideradas en las elecciones las candidaturas que se presenten me
 
 #### Artículo 3°
 
-Las declaraciones de candidaturas deberán efectuarse por escrito, para cada acto eleccionario, ante el Director del Servicio Electoral o el respectivo Director Regional del mismo Servicio, si lo hubiere, quien les pondrá cargo y otorgará recibo.
+Las declaraciones de candidaturas deberán efectuarse por escrito, para cada acto eleccionario, ante el Servicio Electoral quien les pondrá cargo y otorgará recibo.
 
 Las declaraciones deberán efectuarse por el Presidente y el Secretario de la Directiva Central de cada partido político o de los partidos que hubieren acordado un pacto electoral o por, a lo menos, cinco de los ciudadanos que patrocinen una candidatura independiente, acompañando la nómina a que se refiere el artículo 11. En todo caso, serán acompañadas por una declaración jurada del candidato, o de un mandatario designado especialmente al efecto por escritura pública, en la cual señalará cumplir los requisitos constitucionales y legales para ser candidato y no estar afecto a inhabilidades. La declaración jurada deberá ser acompañada sólo por los antecedentes que acrediten los estudios del candidato, cuando corresponda, en los términos que disponga el Servicio Electoral. Esta declaración jurada será hecha ante notario público o ante el oficial del Registro Civil correspondiente a la comuna donde resida el candidato.
 
 La declaración de candidatura podrá presentarse en un acto separado por cada candidato.
 
 Ningún candidato podrá figurar en más de una declaración en elecciones que se celebren simultáneamente.
+
+Respecto de cada candidato se deberá acompañar la autorización al Director del Servicio Electoral para abrir la cuenta bancaria a que alude el artículo 16 de la ley Nº 19.884.
 
 #### Artículo 3° bis
 
@@ -42,9 +44,9 @@ Las declaraciones de candidaturas que presente el pacto electoral, sólo podrán
 
 De la totalidad de declaraciones de candidaturas a diputado o senador declaradas por los partidos políticos, hayan o no pactado, ni los candidatos hombres ni las candidatas mujeres podrán superar el sesenta por ciento del total respectivo. Este porcentaje será obligatorio y se calculará con independencia de la forma de nominación de las candidaturas. La infracción de lo señalado precedentemente acarreará el rechazo de todas las candidaturas declaradas a diputados o a senadores, según corresponda, del partido que no haya cumplido con este requisito.
 
-El pacto electoral deberá formalizarse ante el Director del Servicio Electoral, en forma previa al vencimiento del plazo y a las declaraciones de candidaturas, mediante la presentación de una declaración suscrita por los Presidentes y Secretarios de los partidos políticos integrantes del pacto, que deberá indicar la decisión de concurrir en lista conjunta en una elección de Parlamentarios y que existe afinidad entre sus declaraciones programáticas.
+El pacto electoral deberá formalizarse ante el Servicio Electoral, en forma previa al vencimiento del plazo y a las declaraciones de candidaturas, mediante la presentación de una declaración suscrita por los Presidentes y Secretarios de los partidos políticos integrantes del pacto, que deberá indicar la decisión de concurrir en lista conjunta en una elección de Parlamentarios y que existe afinidad entre sus declaraciones programáticas.
 
-El pacto electoral se entenderá constituido a contar de la fecha de su formalización. Los partidos políticos que hubieren constituido un pacto o una asociación con candidaturas independientes no podrán acordar otro a menos que aquél fuere dejado sin efecto. Se podrá dejar sin efecto un pacto electoral o una asociación con candidaturas independientes cuando los partidos que lo integren hayan dado cumplimiento a lo dispuesto en el artículo 29, inciso primero, de la ley N° 18.603, y exista acuerdo unánime entre ellos. Este acuerdo deberá ser comunicado al Director del Servicio Electoral, mediante una declaración suscrita por los Presidentes y Secretarios de los partidos políticos de que se trate, antes del vencimiento del plazo para presentar candidaturas.
+El pacto electoral se entenderá constituido a contar de la fecha de su formalización. Los partidos políticos que hubieren constituido un pacto o una asociación con candidaturas independientes no podrán acordar otro a menos que aquél fuere dejado sin efecto. Se podrá dejar sin efecto un pacto electoral o una asociación con candidaturas independientes cuando los partidos que lo integren hayan dado cumplimiento a lo dispuesto en el artículo 29, inciso primero, de la ley N° 18.603, y exista acuerdo unánime entre ellos. Este acuerdo deberá ser comunicado al Servicio Electoral, mediante una declaración suscrita por los Presidentes y Secretarios de los partidos políticos de que se trate, antes del vencimiento del plazo para presentar candidaturas.
 
 #### Artículo 4°
 
@@ -66,7 +68,7 @@ Las declaraciones realizadas por los partidos políticos sólo podrán ser susti
 
 Las declaraciones de candidaturas de los pactos electorales, sólo podrán ser sustituidas o modificadas por acuerdo unánime de los partidos políticos que los integren, dentro del plazo señalado en el inciso precedente.
 
-Las declaraciones de candidaturas podrán ser retiradas hasta antes de su inscripción en el registro especial a que se refiere el artículo 19. El retiro de una declaración se hará por el presidente y el secretario de la directiva central del respectivo partido. Sin embargo, el retiro de una declaración de candidatura incluida en un pacto electoral requerirá el acuerdo de todos los partidos que lo integren. El retiro de una candidatura independiente se hará ante el Director del Servicio Electoral o el Director Regional respectivo mediante solicitud suscrita personalmente por el interesado o firmada por éste ante notario.
+Las declaraciones de candidaturas podrán ser retiradas hasta antes de su inscripción en el registro especial a que se refiere el artículo 19. El retiro de una declaración se hará por el presidente y el secretario de la directiva central del respectivo partido. Sin embargo, el retiro de una declaración de candidatura incluida en un pacto electoral requerirá el acuerdo de todos los partidos que lo integren. El retiro de una candidatura independiente se hará ante el Servicio Electoral mediante solicitud suscrita personalmente por el interesado o firmada por éste ante notario.
 
 #### Artículo 6°
 
@@ -74,9 +76,21 @@ Las declaraciones de candidaturas a senadores y diputados sólo podrán hacerse 
 
 Tratándose de las declaraciones de candidaturas a Presidente de la República, éstas sólo podrán hacerse hasta las veinticuatro horas del nonagésimo día anterior a aquel en que deba realizarse la primera o única votación, o hasta los treinta días siguientes a la convocatoria que se realice para una repetición de la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República.
 
+#### Artículo 6º bis
+
+En la fecha que corresponda efectuar la declaración de las candidaturas, todos los candidatos deberán realizar una declaración de patrimonio e intereses, en los términos que señala la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses. Asimismo, deberán cumplir con dicha obligación quienes realicen una declaración de precandidatura, según lo dispuesto en el artículo 3º de la ley Nº 19.884. El Servicio Electoral dispondrá de formularios en su página web para facilitar la presentación de la declaración de patrimonio e intereses.
+
+No serán admitidas por el Servicio Electoral las declaraciones de precandidaturas e inscripciones a candidaturas de quienes no hayan efectuado la declaración de patrimonio e intereses en el plazo previsto, debiendo este organismo establecer un plazo para subsanar eventuales errores. Vencido dicho plazo, se entenderán como no presentadas las declaraciones de precandidaturas e inscripciones a candidaturas de aquellos precandidatos y candidatos que no hubieren subsanado errores o imprecisiones de la declaración de patrimonio e intereses.
+
+El Servicio Electoral remitirá, dentro de los diez días hábiles siguientes, copia de estas declaraciones al Servicio de Impuestos Internos y a la Unidad de Análisis Financiero dependiente del Ministerio de Hacienda, sin perjuicio de publicarlas en su página web.
+
+#### Artículo 6º ter
+
+En el caso de las candidaturas a Presidente de la República, sea que se trate de elecciones primarias o generales según corresponda, junto con la declaración de ellas, los candidatos deberán presentar un programa en el cual se indicarán las principales acciones, iniciativas y proyectos que se pretenden desarrollar durante su gestión. De no hacerlo, el Servicio Electoral establecerá un plazo para que se acompañe, bajo apercibimiento de tener por no presentada la candidatura según lo señalado en el inciso segundo del artículo anterior.
+
 #### Artículo 7°
 
-En las declaraciones se indicarán los nombres y las cédulas nacionales de identidad de hasta tres personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial. Esta designación podrá ser modificada hasta doce días antes de la elección. El Director del Servicio Electoral comunicará la designación a las Juntas Electorales respectivas dentro del quinto día de efectuadas o modificadas.
+En las declaraciones se indicarán los nombres y las cédulas nacionales de identidad de hasta tres personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial. Esta designación podrá ser modificada hasta doce días antes de la elección. El Servicio Electoral comunicará la designación a las Juntas Electorales respectivas dentro del quinto día de efectuadas o modificadas.
 
 Asimismo, en las declaraciones se indicarán los nombres, la cédula de identidad y domicilio del Administrador Electoral y del Administrador General Electoral, en su caso.
 
@@ -258,17 +272,23 @@ De la Propaganda y Publicidad
 
 #### Artículo 30
 
-Se entenderá por propaganda electoral la dirigida a inducir a los electores a emitir su voto por candidatos determinados o a apoyar alguna de las proposiciones sometidas a plebiscito. Dicha propaganda sólo podrá efectuarse en las oportunidades y en la forma prescrita en esta ley.
+Se entenderá por propaganda electoral, para los efectos de esta ley, todo evento o manifestación pública y la publicidad radial, escrita, en imágenes, en soportes audiovisuales u otros medios análogos, siempre que promueva a una o más personas o partidos políticos constituidos o en formación, con fines electorales. En el caso de los plebiscitos, se entenderá por propaganda aquella que induzca a apoyar alguna de las proposiciones sometidas a consideración de la ciudadanía. Dicha propaganda solo podrá efectuarse en la oportunidad y la forma prescritas en esta ley.
 
-Para los plebiscitos comunales la propaganda sólo podrá comprender las materias sometidas a consideración de los vecinos, sin aludir a asuntos ideológicos, de carácter partidista o de política contingente.
+No se entenderá como propaganda electoral la difusión de ideas o de información sobre actos políticos realizados por personas naturales. Tampoco lo serán aquellas actividades que las autoridades públicas realicen en el ejercicio de su cargo, ni aquellas actividades habituales no electorales propias del funcionamiento de los partidos políticos constituidos o en formación.
 
-El financiamiento de los gastos que se realicen en propaganda electoral o plebiscitaria sólo podrá provenir de fuentes de origen nacional.
+Para los plebiscitos comunales la propaganda solo podrá comprender las materias sometidas a consideración de los vecinos.
 
-La propaganda electoral por medio de la prensa, radioemisoras y canales de televisión sólo podrá efectuarse desde el trigésimo y hasta el tercer día anterior al de la elección o plebiscito, ambos días inclusive.
+Inciso Eliminado.
+
+Las autoridades públicas que realicen inauguraciones de obras u otros eventos o ceremonias de carácter público, desde el sexagésimo día anterior a la elección, deberán cursar invitación por escrito a tales eventos a todos los candidatos del respectivo territorio electoral. El incumplimiento de esta obligación será considerado una contravención al principio de probidad contemplado en la ley orgánica constitucional de Bases Generales de la Administración del Estado.
+
+Las empresas periodísticas de prensa escrita y las radioemisoras podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos. La contratación de este tipo de propaganda solo podrá suscribirse por el candidato, el partido político respectivo o los administradores electorales de unos y otros.
+
+La propaganda electoral por medio de la prensa y radioemisoras solo podrá desarrollarse desde el sexagésimo hasta el tercer día anterior al de la elección o plebiscito, ambos días inclusive. Solo se podrá efectuar propaganda electoral en los medios de prensa o radioemisoras que, a más tardar diez días antes del inicio del período de propaganda, informen al Servicio Electoral de sus tarifas, en la forma establecida por éste, debiendo ser publicadas en la página web del respectivo medio y del Servicio Electoral. Los medios de prensa o radioemisoras podrán adecuar oportunamente y con la debida antelación dichas tarifas, debiendo informar de ello al Servicio Electoral.
 
 Con todo, tratándose del caso previsto en el inciso segundo del artículo 26 de la Constitución Política, la propaganda electoral sólo podrá efectuarse desde el decimocuarto y hasta el tercer día anterior al de la votación, ambos días inclusive.
 
-Se prohibe la propaganda electoral en cinematógrafos y salas de exhibición de videos y la que en cualquier lugar o forma se realice por altoparlantes fijos o móviles, con la única excepción de la transmisión de discursos pronunciados en concentraciones públicas.
+Inciso Eliminado.
 
 #### Artículo 31
 
@@ -284,43 +304,85 @@ Al conjunto de las candidaturas independientes corresponderá, asimismo, un tiem
 
 En caso de plebiscito nacional, los canales de televisión deberán dar expresión al gobierno, a los partidos políticos con representación en el Congreso Nacional y a los parlamentarios independientes. El tiempo de treinta minutos diarios a que alude el inciso primero se distribuirá por mitades entre el gobierno y los que adhieran a su posición, por una parte, y los partidos y parlamentarios independientes que sustenten posiciones diferentes a la del gobierno, por la otra. Los partidos y los parlamentarios independientes que adhieran a la posición del gobierno se repartirán de común acuerdo con éste el tiempo correspondiente. A falta de acuerdo, al gobierno le corresponderá la mitad del tiempo disponible y la otra mitad se distribuirá entre los partidos políticos y los parlamentarios independientes en proporción a su representación en el Congreso Nacional. Los partidos políticos y parlamentarios independientes que sustenten posiciones diferentes a la del gobierno se repartirán el tiempo que les corresponda de común acuerdo; a falta de éste, se seguirá la proporción de su representación en el Congreso Nacional.
 
+La propaganda señalada en los incisos anteriores deberá ser transmitida desde el trigésimo y hasta el tercer día anterior a la elección o plebiscito, ambos días inclusive.
+
 Los canales de televisión de libre recepción sólo podrán transmitir propaganda electoral en los términos previstos en este artículo. Los servicios limitados de televisión no podrán, en caso alguno, transmitir propaganda electoral.
 
 Las empresas periodísticas de prensa escrita y las radioemisoras podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos.
 
+Se prohíbe la propaganda electoral en cinematógrafos y salas de exhibición de videos.
+
 #### Artículo 31 bis
 
-La distribución del tiempo a que se refieren los incisos cuarto y quinto del artículo anterior, la hará el Consejo Nacional de Radio y Televisión. Para tal efecto, dicho organismo tendrá un plazo de diez días contado desde la fecha en que las candidaturas queden inscritas en el Registro Especial a que se refiere al artículo 19.
+Tratándose de las concesionarias de servicios de radiodifusión televisiva abierta, la distribución del tiempo a que se refieren los incisos cuarto y quinto del artículo 31 la hará el Consejo Nacional de Televisión, previo informe del Servicio Electoral. Para tal efecto, dicho Consejo tendrá el plazo de diez días contado desde la fecha en que las candidaturas queden inscritas en el Registro Especial a que se refiere al artículo 19.
 
-Los acuerdos sobre la distribución del tiempo a que refiere el inciso sexto del artículo anterior, serán comunicados al Consejo Nacional de Radio y Televisión por el Presidente de la República, en representación del Gobierno y de los partidos políticos y parlamentarios independientes que adhieran a su posición, y por el presidente del partido político con mayor número de parlamentarios en el Congreso Nacional, en representación de los partidos políticos y de los parlamentarios independientes que sustenten posiciones diferentes a las del Gobierno. Dicha comunicación deberá efectuarse dentro del plazo de diez días contado desde la fecha de la convocatoria a plebiscito nacional. En caso de no existir acuerdo en cuanto a la distribución del tiempo, se podrá recurrir ante el Consejo Nacional de Radio y Televisión en el mismo plazo señalado en el inciso precedente, quien deberá resolver las discrepancias dentro del plazo de cinco días contado desde la fecha de la presentación respectiva.
+Los acuerdos sobre la distribución del tiempo a que refiere el inciso sexto del artículo 31, serán comunicados al Consejo Nacional de Televisión por el Presidente de la República, en representación del Gobierno y de los partidos políticos y parlamentarios independientes que adhieran a su posición, y por el presidente del partido político con mayor número de parlamentarios en el Congreso Nacional, en representación de los partidos políticos y de los parlamentarios independientes que sustenten posiciones diferentes a las del Gobierno. Dicha comunicación deberá efectuarse dentro del plazo de diez días contado desde la fecha de la convocatoria a plebiscito nacional. En caso de no existir acuerdo en cuanto a la distribución del tiempo, se podrá recurrir ante el Consejo Nacional de Televisión en el mismo plazo señalado en el inciso precedente, quien deberá resolver las discrepancias dentro del plazo de cinco días contado desde la fecha de la presentación respectiva.
 
-De las resoluciones del Consejo Nacional de Radio y Televisión, en relación con la distribución del tiempo y con las discrepancias a que se refieren los incisos primero y segundo, respectivamente, podrá apelarse ante el Tribunal Calificador de Elecciones dentro del plazo de 3 días contado desde la dictación de dichas resoluciones.
+De las resoluciones del Consejo Nacional de Televisión, en relación con la distribución del tiempo y con las discrepancias a que se refieren los incisos primero y segundo, respectivamente, podrá apelarse ante el Tribunal Calificador de Elecciones dentro del plazo de 3 días contado desde la dictación de dichas resoluciones.
 
 El Tribunal Calificador de Elecciones resolverá las apelaciones sumariamente dentro del plazo de cinco días contado desde la fecha de su respectiva interposición.
 
-> **Nota.** El N° 5 del Art. único de la LEY 18825, publicada el 17.08.1989, que modificó el Art. 19 N° 12 de la Constitución Política del Estado, dispuso que el "Consejo Nacional de Radio y Televisión" pasaba a llamarse "Consejo Nacional de Televisión".
+#### Artículo 31 ter
+
+Durante el plazo señalado en el inciso sexto del artículo 30, las radioemisoras deberán transmitir cada día, entre las 07:00 y las 22:00 horas, seis spots de no menos de treinta y no más de cuarenta segundos de duración con información electoral de utilidad para la ciudadanía, cuyo contenido determinará el Servicio Electoral, el que no podrá favorecer a ningún candidato o partido en particular.
+
+Lo dispuesto en el inciso primero no se aplicará a las radioemisoras que se rijan por la ley Nº 20.433, que crea los Servicios de Radiodifusión Comunitaria Ciudadana.
 
 #### Artículo 32
 
-No podrá realizarse propaganda electoral con pintura, carteles y afiches adheridos en los muros exteriores y cierros, sean éstos públicos o privados, salvo que en este último caso, medie autorización del propietario, poseedor o mero tenedor; como asimismo en los componentes y equipamiento urbanos, tales como calzadas, aceras, puentes, parques, postes, fuentes, estatuas, jardineras, escaños, semáforos y quioscos. Tampoco podrá realizarse propaganda mediante elementos que cuelguen sobre la calzada o que se adhieran de cualquier modo al tendido eléctrico, telefónico, de televisión u otros de similar naturaleza.
+Solo podrá realizarse propaganda electoral en los espacios que, de acuerdo a la Ordenanza General de la ley General de Urbanismo y Construcciones, puedan ser calificados como plazas, parques u otros espacios públicos y estén expresamente autorizados por el Servicio Electoral. Para ello, el Servicio Electoral requerirá una propuesta al Concejo Municipal respectivo, la que deberá ser aprobada en sesión pública especialmente convocada al efecto, por al menos dos tercios de sus miembros en ejercicio, y enviada al citado Servicio, a más tardar doscientos días antes de la correspondiente elección o dentro de los quince días siguientes a la publicación del decreto de convocatoria a plebiscito. A falta de dicha propuesta, el Servicio Electoral procederá sin ella. Asimismo, el referido Servicio podrá requerir la información que estime necesaria a cualquier órgano público competente. Una vez que, con dichos antecedentes o sin ellos, se haya elaborado un listado o mapa con los lugares preseleccionados, los Directores Regionales del Servicio Electoral convocarán a una reunión a las directivas regionales de los partidos políticos legalmente constituidos en la respectiva región, con el objeto de informarles los lugares que preliminarmente han sido definidos en cada comuna, con el objeto que en la misma instancia o dentro de los tres días siguientes puedan hacer llegar sus observaciones. El Servicio Electoral no estará obligado a considerarlas ni a pronunciarse sobre ellas.
 
-Las municipalidades deberán, de oficio o a petición de parte, retirar u ordenar el retiro de toda la propaganda electoral que se realice con infracción a lo dispuesto en este artículo. Los candidatos y los partidos políticos estarán obligados a reembolsar los gastos en que incurran las municipalidades en el retiro de dicha propaganda.
+Dicho Servicio regulará mediante instrucciones la distribución de los espacios públicos entre las distintas candidaturas y partidos políticos, velando por el uso equitativo de ellos y con el fin de no entorpecer el uso de estos espacios por la ciudadanía. En las referidas instrucciones, además, podrá determinar el máximo de elementos de propaganda permitidos para cada candidato o partido en una misma elección.
 
-La propaganda mediante volantes, con elementos móviles o por avisos luminosos o proyectados, sólo podrá efectuarse dentro del plazo señalado en el artículo 30. Los partidos políticos y los candidatos independientes deberán retirar tales elementos dentro de los tres días siguientes a la elección o plebiscito. En caso de no darse cumplimiento a esta obligación las municipalidades correspondientes deberán retirar esos elementos, estando facultadas para repetir en contra de los partidos políticos y candidaturas independientes, por el monto de los costos en que hubieren incurrido.
+Noventa días antes de la fecha para efectuar la declaración de candidaturas o sesenta días después de la publicación del decreto de convocatoria del plebiscito, según corresponda, se publicará en el sitio electrónico del Servicio Electoral la nómina de las plazas y parques u otros lugares públicos autorizados para efectuar propaganda electoral. Además, el Servicio Electoral publicará un plano señalando los lugares indicados en la referida nómina.
 
-Sin perjuicio de lo dispuesto en los incisos anteriores, corresponderá al concejo municipal de cada comuna determinar aquellas vías públicas en que, excepcionalmente, la propaganda electoral por medio de elementos móviles o por avisos luminosos o proyectados, no podrá desarrollarse bajo ningún concepto, por estimarse que ella pudiere afectar o interferir el normal desarrollo de las actividades cotidianas de la comuna.
+En espacios públicos no podrá realizarse propaganda mediante carteles de gran tamaño, cuyas dimensiones superen los dos metros cuadrados.
+
+Se podrá realizar propaganda por activistas o brigadistas en la vía pública, mediante el porte de banderas, lienzos u otros elementos no fijos que identifiquen la candidatura o la entrega de material impreso u otro tipo de objetos informativos.
+
+En ningún caso podrá realizarse propaganda aérea mediante aeronaves o cualquier otro tipo de elementos de desplazamiento en el espacio aéreo.
+
+Asimismo, estará prohibida toda clase de propaganda que, pese a ubicarse en lugar autorizado, destruya, modifique, altere o dañe de manera irreversible los bienes muebles o inmuebles que allí se encuentren.
+
+Los respectivos alcaldes, de oficio, a solicitud de cualquier ciudadano o a requerimiento del Servicio Electoral, deberán retirar u ordenar el retiro de toda la propaganda electoral que se realice con infracción de lo dispuesto en este artículo, y estarán obligadas a repetir en contra de los candidatos, sean independientes o estén afiliados a partidos políticos, o en contra de estos últimos, según corresponda, por el monto de los costos en que hubieren incurrido. En este caso, previa certificación del Director del Servicio Electoral, que dará cuenta de la infracción cometida y de los gastos asociados al retiro de propaganda, los respectivos alcaldes harán efectivos los montos a repetir en los reembolsos que procedan en favor del candidato o partido, según corresponda, ante la Tesorería General de la República. Cuando los respectivos alcaldes infrinjan la obligación que establece este inciso o procedan de forma arbitraria al retiro de propaganda, el Servicio Electoral remitirá los antecedentes a la Contraloría General de la República para que haga efectivas las responsabilidades administrativas que procedan. Sin perjuicio de lo anterior, cualquier particular podrá reclamar conforme al artículo 151 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.695, orgánica constitucional de Municipalidades.
+
+La propaganda electoral permitida en este artículo y en el siguiente únicamente podrá efectuarse desde el trigésimo y hasta el tercer día anteriores al de la elección, ambos inclusive, con excepción de la contemplada en el inciso quinto, que podrá realizarse desde el sexagésimo y hasta el tercer día anterior al de la elección, ambos inclusive. En caso de plebiscitos, desde el sexagésimo día hasta el tercero antes de la realización del mismo, ambos días inclusive.
+
+#### Artículo 32 bis
+
+Podrá efectuarse propaganda en espacios privados mediante carteles, afiches o letreros, siempre que medie autorización escrita del propietario, poseedor o mero tenedor del inmueble en que se encuentra y que la dimensión de esta propaganda no supere los seis metros cuadrados totales. Copia de dicha autorización deberá ser enviada al Servicio Electoral por el candidato respectivo, hasta el tercer día después de instalada. La propaganda que se localice en espacios privados deberá ser declarada como gasto, la que será valorizada por el Servicio Electoral para los efectos de calcular el límite de gasto electoral autorizado.
+
+Se prohíbe realizar propaganda electoral en bienes de propiedad privada destinados a servicios públicos o localizados en bienes de uso público, tales como vehículos de transporte de pasajeros, paradas de transporte público, estaciones de ferrocarriles o de metro, o postes del alumbrado, del tendido eléctrico, telefónicos, de televisión u otros de similar naturaleza.
+
+Las sedes oficiales y las oficinas de propaganda de los partidos políticos y de los candidatos podrán exhibir en sus frontispicios carteles, afiches u otra propaganda electoral, considerándose hasta un máximo de cinco sedes en cada comuna.
+
+#### Artículo 32 ter
+
+Solo se podrá divulgar resultados de encuestas de opinión pública referidas a preferencias electorales, hasta el décimo quinto día anterior al de la elección o plebiscito inclusiv
 
 #### Artículo 33
 
-Las sedes oficiales y las oficinas de propaganda de los partidos políticos y de los candidatos independientes, hasta un máximo de cinco en cada comuna, podrán exhibir en sus frontispicios letreros, telones, afiches u otra propaganda electoral durante los treinta días anteriores a la elección o plebiscito.
+Derogado
 
 #### Artículo 34
 
-Derogado.
+Los candidatos deberán llevar un registro de sus brigadistas, de sus sedes y de los vehículos que utilicen en sus campañas, de conformidad a las instrucciones generales que imparta el Servicio Electoral.
+
+Se considerarán brigadistas las personas que realicen acciones de difusión o información en una campaña electoral determinada y reciban algún tipo de compensación económica.
+
+Los candidatos, los jefes de campaña o las personas que estén a cargo de coordinar las labores de los brigadistas deberán denunciar los hechos que pudieren constituir delitos o faltas que involucren, de cualquier manera, a sus brigadistas, dentro de las setenta y dos horas siguientes de haber tomado conocimiento de ellos.
+
+#### Artículo 34 bis
+
+El candidato será subsidiariamente responsable de los daños dolosamente causados por actos delictuales de uno o más de sus brigadistas con motivo de los actos de propaganda electoral. La responsabilidad de los brigadistas se determinará según las reglas generales.
+
+El candidato podrá repetir en contra de los causantes del daño.
 
 #### Artículo 35
 
-Carabineros fiscalizará el cumplimiento de las disposiciones de los artículos 30 y 32, salvo en lo referente a la prensa, radio y televisión, y procederá de oficio o a petición de cualquier persona, a retirar o suprimir los elementos de propaganda que contravengan esas disposiciones, dando cuenta de lo actuado de inmediato al Juez de Policía Local competente, según el artículo 144 de esta ley.
+El Servicio Electoral en ejercicio de sus atribuciones podrá ordenar al alcalde respectivo retirar los elementos de propaganda que contravengan los artículos 30, 32 y 32 bis.
+
+Cualquier persona podrá formular las denuncias que procedan, de conformidad a lo dispuesto en la ley Nº 18.556 o directamente ante Carabineros de Chile, quienes deberán proceder a retirar o suprimir los elementos de propaganda que contravengan lo dispuesto en el artículo 32, debiendo informar de ello al Servicio Electoral. Asimismo, Carabineros de Chile podrá proceder de oficio a realizar dichos retiros.
 
 ### Párrafo 7°
 
@@ -482,7 +544,7 @@ El Servicio Electoral comunicará al Gobernador Provincial y al municipio respec
 
 Será responsabilidad de los alcaldes de las respectivas municipalidades la instalación de las Mesas Receptoras en los locales designados, debiendo aquéllos proveer las mesas, sillas, urnas y cámaras secretas necesarias, como las instalaciones de energía eléctrica para la iluminación del recinto.
 
-El Director del Servicio Electoral determinará las características de la urna, la que en todo caso tendrá cerradura y uno de sus lados más largos será de material transparente.
+El Servicio Electoral determinará las características de la urna, la que en todo caso tendrá cerradura y uno de sus lados más largos será de material transparente.
 
 La mesa será de una dimensión suficiente para permitir el trabajo expedito de los vocales, la instalación de la urna o las urnas y la realización del escrutinio.
 
@@ -562,7 +624,7 @@ Para cada Mesa Receptora deberá considerarse el siguiente material:
 
 En los padrones, formularios y sobres se deberá indicar la región y circunscripción, el número de Mesa correspondiente y el sello del Servicio Electoral. Los sobres llevarán, además, la indicación del objeto a que están destinados o de su destinatario.
 
-En la misma oportunidad el Servicio Electoral remitirá, para uso de los Delegados de las Juntas Electorales, dos ejemplares del Padrón Electoral y de la Nómina de Electores Inhabilitados de toda la Circunscripción Electoral correspondiente y los formularios de recibo de los útiles electorales por parte de los Comisarios.
+En la misma oportunidad el Servicio Electoral remitirá, para uso de los Delegados de las Juntas Electorales, dos ejemplares, uno impreso y otro en formato digital, del Padrón Electoral y de la Nómina de Electores Inhabilitados de toda la Circunscripción Electoral correspondiente y los formularios de recibo de los útiles electorales por parte de los Comisarios.
 
 #### Artículo 56
 
@@ -668,7 +730,7 @@ Después de haber sufragado y depositadas las cédulas en la urna, se procederá
 
 Si se inutilizare alguna cédula se guardará para dejar constancia de ella en el escrutinio, previa e inmediata anotación del hecho al dorso de la misma. El Presidente de la Mesa entregará otra al elector a fin de que pueda sufragar.
 
-No se podrá destinar a este objeto una cantidad de cédulas superior al diez por ciento a que se refiere el número 4° del artículo 55. Ningún elector podrá utilizar más de una cédula electoral de reemplazo, cualquiera que hubiere sido la causa de invalidación.
+No se podrá destinar a este objeto una cantidad de cédulas superior al diez por ciento a que se refiere el número 3° del artículo 55. Ningún elector podrá utilizar más de una cédula electoral de reemplazo, cualquiera que hubiere sido la causa de invalidación.
 
 Sin embargo, si inmediatamente antes de declararse cerrada la votación con arreglo al artículo siguiente, quedaren cédulas sobrantes, serán admitidas a sufragar con ellas los electores que no hayan podido hacerlo por haber inutilizado más de una cédula o por no haber encontrado cédula de reemplazo. Este derecho podrá ser ejercido sólo una por cada elector. Si el número de electores que lo reclama es mayor que el de cédulas sobrantes, se preferirá entre ellos atendiendo el orden alfabético en el Padrón de Mesa.
 
@@ -690,9 +752,9 @@ Se presume fraudulento el escrutinio de una Mesa que se practicare en un lugar d
 
 #### Artículo 70
 
-Si hubiere que practicarse más de un escrutinio, primero se realizará el de plebiscito, luego el de Presidente de la República, posteriormente el de Senadores y, por último, el de Diputados.
+Si hubiere que practicarse más de un escrutinio, primero se realizará el de plebiscito, luego el de Presidente de la República, posteriormente el de Senadores, el de Diputados y, por último, el de Consejeros Regionales
 
-En tal caso, las cédulas se separarán de acuerdo con el comicio a que se refieren y mientras se procede al escrutinio de un tipo, las restantes se guardarán en la urna.
+En tal caso, las cédulas se separarán de acuerdo con los comicios a que se refieren y mientras se procede al escrutinio de un tipo, las restantes se guardarán en la urna.
 
 #### Artículo 71
 
@@ -702,7 +764,7 @@ El escrutinio de Mesa se regirá por las normas siguientes:
 
 2) Se abrirá la urna y se separarán las cédulas de acuerdo a lo establecido en el artículo anterior;
 
-3) Se contarán las cédulas utilizadas en la votación y se firmarán al dorso por el Presidente y el Secretario o por los vocales que señale el Presidente, de lo que se dejará constancia en el acta. Si hubiere disconformidad entre el número de firmas en el cuaderno, de talones y de cédulas, se dejará constancia en el acta. Ello no obstará a que se escruten todas las cédulas que aparezcan emitidas;
+3) Se contarán las cédulas utilizadas en la votación y se firmarán al dorso por el Presidente y el Secretario o por los vocales que señale el Presidente, de lo que se dejará constancia en el acta. Si hubiere disconformidad entre el número de firmas en el Padrón de Mesa, de talones y de cédulas, se dejará constancia en el acta. Ello no obstará a que se escruten todas las cédulas que aparezcan emitidas;
 
 4) El Secretario abrirá las cédulas y el Presidente les dará lectura de viva voz;
 
@@ -1278,7 +1340,9 @@ De las Faltas y de los Delitos
 
 #### Artículo 124
 
-El Director responsable de un órgano de prensa, radioemisora o canal de televisión a través del cual se infringiere lo dispuesto en los artículos 30 ó 31, será sancionado con multa a beneficio municipal de veinte a cien unidades tributarias mensuales. Igual sanción se aplicará a la empresa propietaria o concesionaria del respectivo medio de difusión.
+El Director responsable de un órgano de prensa, radioemisora o canal de televisión a través del cual se infringiere lo dispuesto en los artículos 30, 31 bis, 31 ter y 32 ter, será sancionado con multa a beneficio fiscal de diez a doscientas unidades tributarias mensuales. Igual sanción se aplicará a la empresa propietaria o concesionaria del respectivo medio de difusión.
+
+Además de las multas que procedan conforme a este artículo, el Servicio Electoral deberá publicar en su sitio electrónico las sanciones aplicadas.
 
 #### Artículo 125
 
@@ -1286,13 +1350,13 @@ El administrador de un cinematógrafo o sala de exhibición de videos en que se 
 
 #### Artículo 126
 
-El que hiciere propaganda electoral con infracción a lo dispuesto en el inciso primero del artículo 32, será sancionado con multa a beneficio municipal de una a veinte unidades tributarias mensuales.
+El que hiciere propaganda electoral con infracción de lo dispuesto en los artículos 32 o 32 bis será sancionado con multa a beneficio municipal de diez a cien unidades tributarias mensuales.
 
-Cualquier persona podrá concurrir ante el Juez de Policía Local competente de acuerdo con el artículo 144 de esta ley, a fin de que ordene el retiro o supresión de los elementos de propaganda a que se refiere el inciso anterior.
+El que hiciere propaganda electoral fuera de los plazos establecidos en los artículos 30, 31 y 32, o con infracción a lo dispuesto en el artículo 31 bis, será sancionado con multa de veinte a doscientas unidades tributarias mensuales, a beneficio municipal, sin perjuicio de lo dispuesto por el artículo 3º de la ley Nº 19.884. Los gastos efectuados en dicha propaganda serán valorizados al doble de su precio para efectos de calcular el límite que establece el artículo 4º de la ley Nº 19.884.
+
+Cualquier persona podrá concurrir ante el Director Regional del Servicio Electoral respectivo, a fin de que ordene el retiro o supresión de los elementos de propaganda a que se refiere el inciso anterior. La denuncia dará lugar al procedimiento sancionatorio que regula la ley Nº 18.556, orgánica constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral. El Servicio Electoral habilitará un espacio en su sitio electrónico para recibir estas denuncias, las que deberán cumplir con lo dispuesto en el artículo 30 de la ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado.
 
 Caerán en comiso los elementos que se hayan utilizado para efectuar dicha propaganda.
-
-> **Nota.** El artículo único de la LEY 18991, publicada el 16.08.1990, concedió amnistía a todas las personas que hayan incurrido en infracción a las disposiciones contenidas en los artículos 126, 127, 128, 139 y 12 transitorio de esta ley, en el período comprendido entre el 1° de octubre de 1988 y el 31 de diciembre de 1989.
 
 #### Artículo 127
 

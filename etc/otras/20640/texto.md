@@ -50,6 +50,10 @@ No procederá la realización de elecciones primarias para la nominación de can
 
 Para las elecciones primarias reguladas por esta ley, en todo lo que no sea contrario a ella y en lo que le sea aplicable, regirán las disposiciones de la ley N°18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios; de la ley N°18.556, Orgánica Constitucional de Inscripciones Electorales y Servicio Electoral, de la ley N°18.695, Orgánica Constitucional de Municipalidades y de la ley N°18.603, Orgánica Constitucional de Partidos Políticos.
 
+#### Artículo 6° bis
+
+Tratándose de las elecciones primarias reguladas en esta ley, solo podrá efectuarse propaganda electoral desde el trigésimo hasta el tercer día anterior al de la elección primaria respectiva, ambos días inclusive.
+
 ### Párrafo 2°
 
 De la Decisión de Participar en las Elecciones Primarias
@@ -343,6 +347,8 @@ Se entenderá por período de campaña electoral aquel comprendido entre el día
 #### Artículo 42
 
 Los límites al gasto electoral que se aplicarán en el caso de las elecciones primarias serán equivalentes al 10% de los valores señalados en el artículo 4° de la ley N° 19.884, según el tipo de elección. Cada candidato deberá realizar una declaración jurada del gasto electoral efectuado.
+
+En el caso de los candidatos presidenciales que no resulten nominados, pero que sean declarados candidatos en una elección distinta, continuarán utilizando su cuenta bancaria electoral, conforme a las reglas generales que establece la ley Nº19.884, y les serán aplicables los límites de gasto electoral que correspondan según el tipo de elección a que sea candidato en definitiva. Lo gastado durante el período de campaña de la elección primaria será imputado a dicho límite, con un tope de veinticinco por ciento.
 
 En el caso de los candidatos nominados, el monto del gasto electoral efectivamente realizado por el candidato se rebajará del gasto máximo autorizado para la elección respectiva.
 

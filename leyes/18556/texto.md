@@ -488,7 +488,7 @@ Del Servicio Electoral
 
 #### Artículo 57
 
-Créase el Servicio Electoral, organismo autónomo, con personalidad jurídica y patrimonio propio, cuyo objeto será cumplir con las funciones que le señale la ley y que se relacionará con el Presidente de la República a través del Ministerio del Interior. Su domicilio será la capital de la República.
+El Servicio Electoral es un organismo autónomo de rango constitucional, con personalidad jurídica y patrimonio propio, cuyo objeto será cumplir con las funciones que le señale la ley. Su domicilio será la capital de la República.
 
 El activo de su patrimonio estará integrado por los fondos que anualmente destine al efecto la Ley de Presupuestos, sus ingresos propios y los demás bienes que adquiera a cualquier título.
 
@@ -496,7 +496,9 @@ Las remuneraciones de su personal estarán sujetas al régimen general aplicable
 
 #### Artículo 58
 
-El Servicio estará sometido a la fiscalización de la Contraloría General de la República en lo que concierne al examen y juzgamiento de sus cuentas de entradas y gastos y al control de legalidad de los actos del Servicio relativos a su personal y al régimen estatutario de éste.
+El Servicio Electoral estará sometido a la fiscalización de la Contraloría General de la República únicamente en lo que concierne al examen y juzgamiento de sus cuentas de entradas y gastos. Las contrataciones y nombramientos de su personal serán enviadas a la Contraloría General de la República para el solo efecto de su registro.
+
+Los actos del Servicio Electoral no estarán afectos al trámite de toma de razón.
 
 #### Artículo 59
 
@@ -504,27 +506,23 @@ Para todos los efectos legales el Servicio Electoral será el continuador y suce
 
 #### Artículo 60
 
-Corresponderá al Servicio Electoral ejercer las siguientes funciones:
+El Servicio Electoral tendrá por objeto:
 
-a) Supervigilar y fiscalizar a las Juntas Electorales establecidas en la ley N° 18.700 y velar por el cumplimiento de las normas electorales, debiendo denunciar ante la autoridad que corresponda a las personas que las infringieren, sin perjuicio de la acción pública o popular que fuere procedente.
+1) Administrar, supervigilar y fiscalizar el proceso de inscripción electoral, la elaboración y actualización de los padrones electorales y el acto electoral.
 
-b) Formar, mantener y actualizar el Registro Electoral.
+2) Supervigilar y fiscalizar el cumplimiento de las normas sobre campañas electorales y su financiamiento.
 
-c) Determinar el Padrón Electoral y la Nómina de Inhabilitados en los términos señalados en esta ley.
+3) Supervigilar y fiscalizar el cumplimiento de las normas que regulen las actividades propias y ámbitos de acción de los partidos políticos, con pleno respeto por la autonomía de estos y su financiamiento.
 
-d) Ordenar y resolver directamente sobre el diseño e impresión de formularios y demás documentos que se utilicen en el proceso de formación y actualización del Registro Electoral.
+4) Las demás materias que esta u otras leyes establezcan.
 
-e) Resolver respecto de las solicitudes de cambio de domicilio electoral y de acreditación de avecindamiento que se le presenten.
-
-f) Solicitar la colaboración y antecedentes que sean necesarios, de los distintos órganos del Estado, para el examen de las situaciones comprendidas en el ámbito de su competencia.
-
-g) Disponer la compra de los programas y equipos computacionales que utilizará en el cumplimiento de sus funciones, y los sistemas de mantención, protección y actualización de éstos.
-
-h) Las demás funciones que ésta u otras leyes establezcan.
+Al Servicio Electoral le serán aplicables las normas del Título IV del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
 
 #### Artículo 61
 
-Los órganos de dirección del Servicio Electoral serán el Consejo Directivo y su Director. Al Consejo corresponderá la dirección superior del Servicio y la dirección administrativa al Director.
+Los órganos de dirección del Servicio Electoral serán el Consejo Directivo y su Director. Al Consejo Directivo corresponderá la dirección superior del Servicio.
+
+Al Director del Servicio le corresponderá la dirección administrativa y técnica del mismo.
 
 ### Párrafo 2°
 
@@ -532,17 +530,17 @@ Del Consejo Directivo del Servicio Electoral
 
 #### Artículo 62
 
-El Consejo Directivo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado adoptado por los tres quintos de sus miembros en ejercicio. El Presidente formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
+El Consejo Directivo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio. Luego de recibida la propuesta del Presidente de la República, se realizará una audiencia pública de presentación del candidato a consejero ante la Comisión del Senado que corresponda.
 
-Los consejeros durarán ocho años en sus cargos y podrán ser designados para otro período, por una sola vez, en la forma prevista en el inciso precedente. Se renovarán por parcialidades cada cuatro años.
-
-Los consejeros elegirán de entre ellos un Presidente por mayoría de votos. En caso de ausencia o impedimento temporal, el Presidente será subrogado por el consejero que en el acto se elija. Si no se lograre mayoría, en ambos casos, se procederá por sorteo.
+Los consejeros elegirán de entre ellos un Presidente por mayoría de votos. En caso de ausencia o impedimento temporal, el Presidente será subrogado por el consejero que en el acto se elija. Si no se lograre mayoría, en ambos casos, se procederá por sorteo. La representación del Consejo en eventos protocolares nacionales e internacionales, así como en las gestiones que se desarrollen ante cualquier entidad extranjera, le corresponderá al Presidente del Consejo o a quien, en subsidio, determine el Consejo.
 
 El Presidente del Consejo durará cuatro años en el cargo y podrá ser reelegido por una sola vez. El Presidente subrogante ejercerá el cargo mientras dure la ausencia o impedimento de aquél.
 
-En caso de que un consejero cesare en su cargo por cualquier causa, se designará un nuevo consejero de conformidad con el inciso primero, dentro de los treinta días siguientes a la fecha en que tuvo lugar el hecho o circunstancia que ocasionó el cese. El nuevo consejero desempeñará su cargo hasta completar el período del consejero reemplazado.
+En caso de que un consejero cesare en su cargo por cualquier causa, se designará un nuevo consejero dentro de los treinta días siguientes a la fecha en que tuvo lugar el hecho o circunstancia que ocasionó el cese. El nuevo consejero desempeñará su cargo hasta completar el período del consejero reemplazado.
 
 Si el que cesare fuere el Presidente del Consejo, se procederá a la elección de su reemplazante una vez que se haya provisto su cargo de consejero. El nuevo Presidente desempeñará el cargo hasta completar el período del cesado.
+
+Corresponderá al Presidente del Consejo comunicar los acuerdos que adopte dicha instancia sobre las materias de su competencia, al Director del Servicio, al Tribunal Calificador de Elecciones y a los Tribunales Electorales Regionales, según corresponda.
 
 #### Artículo 63
 
@@ -552,11 +550,11 @@ Tampoco podrán ser consejeros las personas que se encuentren en alguno de los c
 
 Los consejeros no podrán estar afiliados a partidos políticos mientras ejerzan su cargo.
 
-La función de consejero no es delegable y se ejerce colectivamente, en sala legalmente constituida.
+La función de consejero no es delegable y se ejerce colectivamente, en sesiones ordinarias o extraordinarias, de conformidad a la ley.
 
 #### Artículo 64
 
-Los consejeros tendrán derecho a ser informados plena y documentadamente y en cualquier tiempo, por el Director o quien haga sus veces, sobre todo lo relacionado con el funcionamiento del Servicio. Además, tendrán derecho a revisar el Registro Electoral y los padrones electorales, con la sola limitación de no afectar el funcionamiento del Servicio.
+Inciso Eliminado.
 
 Los consejeros percibirán una dieta equivalente a treinta unidades de fomento por cada sesión a la que asistan, con un máximo de ciento veinte unidades de fomento por mes calendario.
 
@@ -570,17 +568,19 @@ a) Expiración del plazo por el que fue nombrado. Sin perjuicio de ello, éste s
 
 b) Haber cumplido los 75 años de edad.
 
-c) Renuncia, aceptada por el Presidente de la República.
+c) Renuncia por razones fundadas, aceptada por el Presidente de la República.
 
 d) Incapacidad síquica o física para el desempeño del cargo.
 
 e) Alguna causal de inhabilidad sobreviniente. El consejero que adquiera una calidad que lo inhabilite para desempeñar el cargo cesará automáticamente en él.
 
-f) Falta grave al cumplimiento de las obligaciones como consejero. Serán faltas graves la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones del Consejo, ordinarias o extraordinarias, durante un semestre calendario.
+f) Mal comportamiento o negligencia manifiesta en el cumplimiento de las obligaciones como consejero. Se entenderá como mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones, la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones del Consejo, ordinarias o extraordinarias, durante un semestre calendario.
 
-La existencia de las causales establecidas en las letras d) y e), si hubiere discusión sobre la sobreveniencia de la inhabilidad, y f) precedentes, serán declaradas por el Tribunal Calificador de Elecciones, a requerimiento del Consejo o del Ministro del Interior y Seguridad Pública en el caso de la letra f), o de cualquier persona en el caso de la letra e). El requerimiento deberá hacerse por escrito, acompañándose todos los elementos de prueba que acrediten la existencia de la causal. Se dará traslado al afectado por el término fatal de diez días para que exponga lo que estime conveniente en su defensa.
+g) Infracción grave a la Constitución o las leyes.
 
-Vencido este plazo, con o sin la respuesta del afectado, se decretará autos en relación y la causa, para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección. Tratándose de la causal de la letra d), el Tribunal, como medida para mejor resolver, podrá decretar informe pericial.
+La existencia de las causales establecidas en las letras d), e), f) y g) serán declaradas por la Corte Suprema, a requerimiento del Presidente de la República o de un tercio de los miembros en ejercicio de la Cámara de Diputados. La Corte conocerá del asunto en pleno especialmente convocado al efecto, y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio. El requerimiento deberá hacerse por escrito, acompañándose todos los elementos de prueba que acrediten la existencia de la causal. Se dará traslado al afectado por el término fatal de diez días para que exponga lo que estime conveniente en su defensa.
+
+Vencido este plazo, con o sin la respuesta del afectado, se decretará autos en relación y la causa, para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección. Tratándose de la causal de la letra d), la Corte Suprema, como medida para mejor resolver, podrá decretar informe pericial.
 
 Los consejeros y el Director tendrán el carácter de ministro de fe en las actuaciones que las leyes les encomienden.
 
@@ -594,39 +594,49 @@ El Consejo podrá sesionar en forma ordinaria o extraordinaria.
 
 Son sesiones ordinarias aquellas que determine el propio Consejo para días y horas determinadas. En ellas se tratarán todas las materias que el Presidente incluya en la tabla respectiva, la que deberá ser comunicada a los consejeros con no menos de 24 horas de anticipación a la fecha de la sesión.
 
-Por cada mes el Consejo deberá sesionar en forma ordinaria no menos de una vez y no más de tres veces.
+Por cada mes el Consejo deberá sesionar en forma ordinaria no menos de cuatro veces.
 
 Son sesiones extraordinarias aquellas en que el Consejo es convocado especialmente para conocer de modo exclusivo las materias que motivan la convocatoria. Estas sesiones serán convocadas por su Presidente, cuando exista algún asunto urgente que requiera del conocimiento del Consejo, o cuando así sea solicitado a éste, por requerimiento escrito de dos consejeros. La citación a sesión extraordinaria deberá hacerse con una anticipación no inferior a 48 horas y contendrá expresamente las materias a tratar.
 
-Los acuerdos requerirán del voto favorable de, a lo menos, cuatro consejeros. Si el Consejo no lograra el anterior quórum, deberá dejar constancia pública de su desacuerdo y las razones fundadas de las partes, convocando el Presidente del Consejo a una nueva sesión que deberá realizarse no antes de cuatro días ni después de quince, siempre que este último plazo no altere el cumplimiento de un plazo legal, donde deberá resolverse el desacuerdo con el voto conforme de, a lo menos, tres de sus miembros.
+Los acuerdos requerirán del voto favorable de la mayoría de sus miembros presentes.
 
-En todo caso, se requerirá siempre del voto conforme de, al menos, cuatro consejeros para tomar los acuerdos señalados en la letra h) del artículo 67.
+En todo caso, se requerirá siempre del voto conforme de, al menos, cuatro consejeros para adoptar los acuerdos señalados en la letra g) del artículo 67.
 
-El Servicio no podrá celebrar actos o contratos en los que uno o más consejeros tengan interés por sí o como representantes de otra persona. Se presume que existe interés directo de un consejero en toda negociación, acto, contrato u operación en la que deba intervenir él mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, o las sociedades o empresas en las cuales sea director o dueño, directo o a través de otras personas naturales o jurídicas, de un 10% o más de su capital.
+El Servicio no podrá celebrar actos o contratos en los que uno o más consejeros tengan interés por sí o como representantes de otra persona, o lo tengan su cónyuge, conviviente civil, hijos o sus parientes hasta el tercer grado de consanguinidad o segundo por afinidad. Se presume que existe interés directo de un consejero en toda negociación, acto, contrato u operación en la que deba intervenir él mismo, su cónyuge , conviviente civil, hijos o sus parientes hasta el tercer grado de consanguinidad o segundo de afinidad, o las sociedades o empresas en las cuales sea director o dueño, directo o a través de otras personas naturales o jurídicas.
+
+Los consejeros deberán abstenerse de intervenir, en razón de sus funciones, en asuntos en que tengan interés personal o en que lo tengan el cónyuge, conviviente civil, hijos o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive. Asimismo, deberán abstenerse de participar en decisiones en que exista cualquier circunstancia que les reste imparcialidad.
 
 De toda deliberación y acuerdo del Consejo se deberá dejar constancia en un libro de actas. El acta deberá ser firmada por todos los consejeros que hubieren concurrido a la sesión.
 
 #### Artículo 67
 
-Corresponderá al Consejo:
+Corresponderá al Consejo Directivo del Servicio Electoral:
 
 a) Designar a los miembros de las Juntas Electorales según propuesta del Director.
 
-b) Velar por el cumplimiento de las normas aplicables al Servicio y adoptar las medidas necesarias para asegurar su normal funcionamiento.
+b) Velar por el cumplimiento de las normas aplicables al Servicio.
 
 c) Aprobar la propuesta del presupuesto del Servicio efectuada por el Director.
 
-d) Supervisar los actos del Director y del Subdirector.
+d) Supervisar los actos del Director.
 
-e) Dar instrucciones generales sobre la aplicación de las normas electorales para su ejecución por los organismos establecidos en ellas.
+e) Aprobar los Padrones Electorales y las Nóminas de Electores Inhabilitados a los que se refiere esta ley.
 
-f) Aprobar los Padrones Electorales y la Nómina de Electores Inhabilitados a los que se refiere esta ley.
+f) Aprobar las bases para llamar a la licitación de las empresas de auditoría, seleccionarlas y conocer de sus informes.
 
-g) Aprobar las bases para llamar a la licitación de las empresas de auditoría, seleccionarlas y conocer de sus informes.
+g) Designar y remover al Director del Servicio Electoral, conforme a lo dispuesto en el artículo 68. La designación se hará a partir de una quina propuesta para el cargo por el Consejo de la Alta Dirección Pública, en conformidad a las normas del Título VI de la ley N° 19.882.
 
-h) Designar y remover al Director y Subdirector del Servicio Electoral. La designación se hará a partir de una quina propuesta para el cargo por el Consejo de la Alta Dirección Pública, en conformidad a las normas del Título VI de la ley N° 19.882.
+h) Dictar normas e instrucciones acerca de la aplicación de las disposiciones electorales, de partidos políticos y de control del gasto electoral, especialmente aquellas que correspondan a la aplicación de las leyes Nºs. 18.700, 18.603 y 19.884 que deban aplicarse en Chile o en el extranjero, según corresponda. La normativa y las resoluciones que emanen de este Consejo serán obligatorias y deberán ser sistematizadas a fin de facilitar el acceso y conocimiento de las mismas por el público en general. Esta facultad no obsta a lo establecido en el artículo 61 de la ley Nº18.603.
 
-i) Los demás asuntos que la ley le encomiende o sobre los que deba pronunciarse en virtud de sus funciones o atribuciones.
+i) Aprobar las políticas y medidas para la accesibilidad de las personas al ejercicio del sufragio.
+
+j) Pronunciarse sobre la infracción señalada en la letra a) del artículo 28 bis de la ley Nº19.884.
+
+k) Requerir el pronunciamiento del Tribunal Calificador de Elecciones en los casos en que la ley lo ordene.
+
+l) Contribuir al desarrollo de la vida democrática del país, fomentando la educación cívica electoral de los ciudadanos.
+
+m) Los demás asuntos que la ley le encomiende o sobre los que deba pronunciarse en virtud de sus funciones o atribuciones.
 
 ### Párrafo 3°
 
@@ -634,45 +644,225 @@ Del Director del Servicio Electoral
 
 #### Artículo 68
 
-El Director del Servicio Electoral será el representante legal del Servicio y el Jefe Superior de éste. Le corresponderán, especialmente, las siguientes funciones:
+El Director del Servicio Electoral será el representante legal del Servicio y el Jefe Superior de éste. Le corresponderán, especialmente, las siguientes funciones y atribuciones:
 
 a) Cumplir y hacer cumplir los acuerdos del Consejo Directivo.
 
 b) Planificar, organizar, dirigir y coordinar el funcionamiento del Servicio de conformidad con las directrices que defina el Consejo Directivo.
 
-c) Dictar los reglamentos internos necesarios para el buen funcionamiento del Servicio, previo acuerdo del Consejo Directivo.
+c) Dictar los reglamentos internos necesarios para el buen funcionamiento del Servicio.
 
-d) Nombrar al personal del Servicio y poner término a sus servicios, de conformidad a las normas estatutarias.
+d) Nombrar al personal del Servicio y poner término a sus servicios, de conformidad a las normas estatutarias. Asimismo, el Director del Servicio propondrá para su aprobación al Consejo el aumento de presupuesto para la contratación del personal transitorio necesario para los procesos electorales.
 
-e) Ejecutar los actos y celebrar las convenciones necesarias para el cumplimiento de los fines del Servicio.
+e) Ejecutar los actos, dictar las resoluciones y celebrar las convenciones necesarias para el cumplimiento de los fines del Servicio, tales como, contratar bienes y servicios para el cumplimiento de sus funciones.
 
-f) Delegar atribuciones o facultades específicas en funcionarios del Servicio.
+f) Delegar atribuciones o facultades específicas en funcionarios del Servicio, salvo la dictación de la resolución final de procedimientos sancionatorios.
 
 g) Representar al Servicio Electoral, tanto judicial como extrajudicialmente.
 
-h) Llevar el Registro de Partidos Políticos, actualizado por regiones, y ejercer las demás atribuciones y funciones que le encomienden la Ley Orgánica Constitucional de los Partidos Políticos u otras leyes.
+h) Celebrar con personas naturales o jurídicas, públicas o privadas, convenios especiales para la ejecución de estudios, investigaciones o programas, que tengan por objeto el mejor cumplimiento o la difusión de los fines del Servicio.
 
-i) Celebrar con personas naturales o jurídicas, públicas o privadas, convenios especiales para la ejecución de estudios, investigaciones o programas, que tengan por objeto el mejor cumplimiento o la difusión de los fines del Servicio.
+i) Convocar a propuestas públicas o privadas, aceptarlas o rechazarlas.
 
-j) Convocar a propuestas públicas o privadas, aceptarlas o rechazarlas.
+j) Designar y remover a los Subdirectores de conformidad a las normas del Título VI de la ley Nº19.882.
 
-k) Dictar las resoluciones generales y particulares necesarias para el ejercicio de sus atribuciones.
+k) Proponer para su aprobación al Consejo Directivo el presupuesto del Servicio.
 
-l) Contratar personal en forma transitoria, a contrata o a honorarios, a suma alzada o asimilado a grados, cuando por necesidades del Servicio así se requiera.
+l) Proponer al Consejo Directivo del Servicio Electoral los miembros de las Juntas Electorales.
 
-m) Ejercer las demás funciones que le sean delegadas por el Consejo Directivo.
+m) Proponer al Consejo Directivo los Padrones Electorales y las Nóminas de Electores Inhabilitados a los que se refiere la ley.
 
-n) Ejercer las demás funciones que le encomienden ésta u otras leyes.
+n) Proponer al Consejo Directivo, con la colaboración de los Subdirectores, las normas e instrucciones de carácter general que disponga el Párrafo 6º del Título I de la ley Nº18.700, la ley Nº18.603, la ley Nº19.884 y aquellas políticas y medidas para la accesibilidad de las personas al ejercicio del sufragio.
+
+ñ) Supervigilar y fiscalizar a las Juntas Electorales establecidas en la ley Nº18.700 y velar por el cumplimiento de las normas electorales, debiendo denunciar ante la autoridad que corresponda a las personas que las infringieren, sin perjuicio de la acción pública o popular que fuere procedente.
+
+o) Informar al Consejo Directivo del Servicio, plena y documentadamente, sobre todo lo relacionado con el funcionamiento del Servicio.
+
+p) Requerir, personalmente o a través de los Subdirectores, los antecedentes necesarios de los distintos órganos del Estado para el examen de las situaciones comprendidas en el ámbito de su competencia.
+
+q) Disponer, para la fiscalización o investigación de las materias de competencia del Servicio Electoral, la citación o el requerimiento de antecedentes a candidatos, administradores electorales, administradores generales electorales, administradores generales de fondos de partidos políticos y miembros de las directivas centrales de partidos políticos, y el ingreso a los domicilios registrados ante el Servicio Electoral por aquellas personas y a las sedes oficiales de candidatos y partidos políticos.
+
+Si de la investigación resultare fundamental el acceso a cuentas corrientes de las personas mencionadas en el párrafo anterior o el ingreso a sus domicilios particulares, deberá siempre requerir el consentimiento del afectado o la autorización judicial correspondiente.
+
+r) Resolver los procedimientos administrativos que esta ley establece, y aplicar las sanciones que correspondan de conformidad a lo dispuesto en esta ley.
+
+s) Elevar al Consejo Directivo los antecedentes respecto de infracciones graves a las normas sobre transparencia, límite y control del gasto electoral.
+
+t) Disponer la publicación en el sitio web institucional de todas aquellas resoluciones, instrucciones o normas de carácter general que el Servicio dicte.
+
+u) Ejercer las demás funciones que le encomienden esta u otras leyes y ejecutar las normas e instrucciones de general aplicación que dicte el Consejo.
+
+El Director del Servicio Electoral durará cinco años en su cargo, pudiendo ser renovado hasta por dos períodos consecutivos. Cesará en su cargo por las siguientes causales:
+
+1. Expiración del plazo por el que fue nombrado.
+
+2. Haber cumplido los 75 años de edad.
+
+3. Renuncia voluntaria, aceptada por el Consejo Directivo del Servicio Electoral.
+
+4. Incapacidad síquica o física sobreviniente para el desempeño del cargo.
+
+5. Inhabilidad sobreviniente.
+
+6. Incumplimiento grave de sus obligaciones.
+
+Las causales señaladas en los números 3, 4, 5 y 6 serán declaradas por el Consejo Directivo del Servicio Electoral, previa audiencia del Director afectado.
+
+Cuando el Director cese en su cargo por expiración del plazo por el que fue nombrado, tendrá derecho a la indemnización que señala el artículo 154 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.
+
+El Director del Servicio Electoral estará afecto a los Párrafos 5º y 6º del Título VI de la ley Nº 19.882. En este caso, el convenio de desempeño será celebrado entre el Consejo Directivo y el Director del Servicio Electoral y tendrá una duración de cinco años. Corresponderá al Consejo determinar el grado de cumplimiento de los objetivos acordados.
 
 #### Artículo 69
 
-El Director y Subdirector tendrán derecho a asistir a las sesiones de Consejo, con derecho a voz.
+La Dirección del Servicio contará con tres Subdirecciones que serán sus colaboradoras inmediatas y tendrán las funciones y atribuciones que se indican en los Párrafos 4º, 5º y 6º de este Título.
+
+Los Subdirectores deberán informar al Director del Servicio, dentro de las cuarenta y ocho horas siguientes desde que tomen conocimiento, de toda información o antecedente que corresponda fiscalizar o supervisar respecto de otro organismo o servicio de la Administración del Estado.
+
+Los Subdirectores estarán afectos al Título VI de la ley Nº 19.882. Los perfiles de los cargos de Subdirector deberán ser aprobados por el Consejo del Servicio Electoral.
+
+El Director del Servicio tendrá derecho a asistir a las sesiones del Consejo Directivo, con derecho a voz.
 
 #### Artículo 70
 
-Al Director y al Subdirector les serán aplicables las inhabilidades, prohibiciones e incompatibilidades aplicables a los consejeros.
+Al Director y a los Subdirectores les serán aplicables las inhabilidades, prohibiciones e incompatibilidades aplicables a los consejeros.
 
-### Párrafo 4°
+### Párrafo 4º
+
+De la Subdirección de Registro, Inscripciones y Acto Electoral
+
+#### Artículo 70
+
+A.- Corresponderán a la Subdirección de Registro, Inscripciones y Acto Electoral las siguientes funciones y atribuciones:
+
+a) Administrar los Padrones Electorales, para lo cual deberá formar, mantener y actualizar el Registro Electoral.
+
+b) Elaborar y presentar al Director una propuesta de los Padrones Electorales y las Nóminas de Electores Inhabilitados en los términos señalados en la ley.
+
+c) Elaborar propuestas sobre el diseño e impresión de formularios y demás documentos que se utilicen en el proceso de formación y actualización del Registro Electoral, las que serán ordenadas y resueltas por el Director del Servicio.
+
+d) Resolver las solicitudes de cambio de domicilio electoral y de acreditación de avecindamiento.
+
+e) Recepcionar, ponerles cargo y otorgar recibo de las declaraciones de candidaturas que les presenten los partidos políticos, pactos electorales y candidatos independientes. Asimismo, recibir el retiro de candidaturas independientes.
+
+f) Recepcionar los pactos electorales que los partidos políticos le presenten y recibir las comunicaciones referidas a los mismos.
+
+g) Comunicar a las Juntas Electorales las designaciones de las personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial.
+
+h) Proponer al Director la resolución que determine el número mínimo necesario de patrocinantes para candidaturas independientes.
+
+i) Colaborar con el Director en el ejercicio de las facultades y atribuciones que la ley Nº18.700 le encomienda en lo relativo al acto electoral.
+
+j) Determinar, para cada circunscripción electoral en el territorio nacional, los locales de votación en que funcionarán las mesas receptoras de sufragios.
+
+k) Determinar las características de la urna de conformidad a la ley.
+
+l) Fiscalizar que los candidatos cumplan con la normativa electoral al inscribir sus candidaturas.
+
+m) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por incumplimientos o infracciones a la normativa sobre votaciones populares y escrutinios.
+
+n) Desempeñar las demás atribuciones que esta u otras leyes le encomienden.
+
+### Párrafo 5º
+
+De la Subdirección de Control del Gasto y Financiamiento Electoral
+
+#### Artículo 70
+
+B.- Corresponderán a la Subdirección de Control del Gasto y Financiamiento Electoral las siguientes funciones y atribuciones:
+
+a) Fiscalizar y controlar el cumplimiento de las normas sobre aportes y gastos electorales, campañas electorales y propaganda electoral.
+
+b) Recepcionar, conocer y analizar las rendiciones de cuentas de campaña de los candidatos y los partidos políticos, y pronunciarse a su respecto, observándolas y proponiendo su aprobación o rechazo. Para lo anterior, podrá realizar y ordenar auditorías al estado financiero del candidato o del partido, con cargo a quien es objeto de la misma, según corresponda.
+
+c) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por incumplimientos o infracciones a las normas de la ley Nº 19.884 y al Párrafo 6º del Título I de la ley Nº 18.700.
+
+d) Mantener un sitio web que dé publicidad a la información relativa a los gastos, sean o no electorales, en que incurran los candidatos y los partidos políticos, así como del financiamiento de los mismos y de las demás materias que la ley dispone sean publicadas en dicha plataforma.
+
+e) Disponer el diseño e impresión de libros, formularios y demás documentos que sean necesarios para el control de los ingresos y gastos electorales.
+
+f) Proponer al Director del Servicio la contratación de personal necesario para el desarrollo de actos electorales y plebiscitarios.
+
+g) Desempeñar las demás funciones que esta u otras leyes le encomienden.
+
+### Párrafo 6º
+
+De la Subdirección de Partidos Políticos
+
+#### Artículo 70
+
+C.- Corresponderán a la Subdirección de Partidos Políticos las siguientes funciones y atribuciones:
+
+a) Fiscalizar y controlar el cumplimiento de la normativa sobre transparencia, elecciones internas, aportes y gastos de partidos políticos, y en general todas las obligaciones establecidas en la ley Nº 18.603.
+
+b) Supervisar el cumplimiento de lo establecido en los artículos 21 y 21 bis de la ley Nº19.884.
+
+c) Recibir las oposiciones a la formación de partidos políticos y sustanciar dicho procedimiento de oposición de conformidad a lo dispuesto en la ley Nº18.603.
+
+d) Llevar el Registro de Partidos Políticos actualizado correspondiente a cada región, según lo disponga el Director.
+
+e) Llevar el Registro general actualizado de los afiliados de los partidos políticos y recibir las renuncias de afiliación que le presenten.
+
+f) Recibir en custodia las declaraciones de intereses y patrimonio que deban efectuar aquellos miembros de las Directivas de los Partidos que señale la ley y velar por el cumplimiento de las normas que las regulan.
+
+g) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por los incumplimientos o infracciones a la normativa sobre partidos políticos.
+
+h) Ejercer las demás funciones que le encomienden esta u otras leyes.
+
+### Párrafo 7º
+
+Del procedimiento administrativo sancionador
+
+#### Artículo 70
+
+D.- Los procedimientos administrativos a que dé lugar la aplicación de esta ley se sujetarán a las reglas de este artículo:
+
+1. Podrán iniciarse de oficio por la Subdirección competente o por denuncia fundada presentada por cualquier elector ante ella.
+
+Las denuncias que se interpongan podrán ser formuladas por escrito ante la Subdirección competente, ante el Director Regional respectivo o por medio del sitio web del Servicio Electoral. En todos los casos, las denuncias deberán señalar el lugar y fecha de presentación y la individualización completa del denunciante, quien deberá suscribirla personalmente o por su mandatario o representante habilitado. Asimismo, deberá contener una descripción de los hechos concretos que se estiman constitutivos de infracción, precisando la fecha de su comisión, la norma eventualmente infringida, la disposición que establece la infracción y, en caso de estar en conocimiento, la identificación del presunto infractor.
+
+Sin embargo, la denuncia originará un procedimiento sancionatorio solo si a juicio del Subdirector respectivo resulta seria, plausible y tiene mérito suficiente. En caso contrario, se ordenará su archivo por resolución fundada, notificando de ello al interesado.
+
+Declarada admisible la denuncia se procederá conforme al número 3 de este artículo.
+
+2. La Subdirección impulsará de oficio el procedimiento. Todos los antecedentes que se recaben, presentaciones que se formulen y actos administrativos que se dicten en el procedimiento tendrán carácter reservado hasta la notificación de la resolución final, salvo respecto del denunciante y de los sujetos en contra quienes se dirige la investigación, los que tendrán acceso al expediente desde el inicio del procedimiento.
+
+3. La instrucción de oficio del procedimiento se iniciará con la notificación al presunto infractor, mediante correo electrónico o carta certificada, en su caso, dirigida al domicilio del mismo registrado en el Servicio Electoral.
+
+Dicha notificación contendrá una descripción de los hechos que se estimen constitutivos de infracción y la fecha de su verificación, la norma eventualmente infringida y el plazo para evacuar traslado.
+
+4. Las notificaciones se harán mediante correo electrónico o carta certificada, en su caso, dirigida al domicilio del presunto infractor registrado en el Servicio Electoral. La notificación por carta certificada se entenderá practicada el tercer día hábil siguiente al de su despacho en la Oficina de Correos correspondiente.
+
+5. El sujeto cuya responsabilidad se investiga tendrá un plazo de diez días, contado desde la respectiva notificación, para contestar ante la Subdirección competente, ante el Director Regional respectivo o por medio del sitio web del Servicio Electoral.
+
+6. Evacuado el traslado del presunto infractor o transcurrido el plazo otorgado para ello, la Subdirección respectiva resolverá de plano cuando pueda fundar su decisión en hechos no controvertidos que consten en el proceso o sean de pública notoriedad. En caso contrario, abrirá un término de prueba de ocho días. Dicho plazo se ampliará, en el caso que corresponda, de acuerdo al artículo 26 de la ley Nº19.880. Los funcionarios fiscalizadores del Servicio aportarán pruebas en calidad de ministros de fe.
+
+La Subdirección respectiva dará lugar a las medidas o diligencias probatorias que solicite el presunto infractor en sus descargos, siempre que resulten pertinentes y conducentes. En caso contrario, las rechazará mediante resolución motivada.
+
+7. Los hechos investigados y las responsabilidades a que estos den lugar podrán acreditarse mediante cualquier medio de prueba admisible en derecho, los que se apreciarán conforme a las reglas de la sana crítica.
+
+8. Cumplidos los trámites señalados en los numerales anteriores, el Subdirector correspondiente emitirá, dentro de cinco días, un informe en el cual propondrá la absolución o la sanción que a su juicio corresponda aplicar. Dicho informe deberá contener la individualización del o de los sujetos investigados; la relación de los hechos investigados y la forma como se ha llegado a comprobarlos, según corresponda, y la proposición al Director del Servicio Electoral de las sanciones que estimare procedente aplicar o de la absolución.
+
+9. Emitido el informe, el Subdirector correspondiente elevará los antecedentes al Director del Servicio Electoral, quien resolverá en el plazo de diez días, dictando al efecto una resolución fundada en la cual absolverá al infractor o aplicará la sanción, en su caso.
+
+No obstante lo establecido en el párrafo anterior y una vez recibido el informe del Subdirector, si el Director determina que existen antecedentes suficientes que pudieren configurar alguna de las infracciones graves señaladas en el artículo 28 bis de la ley Nº19.884, sobre Transparencia, Límite y Control del Gasto Electoral elevará dichos antecedentes al Consejo Directivo dentro del plazo de cinco días hábiles, para que éste resuelva. El Consejo Directivo tendrá el plazo de quince días hábiles contado desde la recepción de los antecedentes para resolver.
+
+En caso de que el Consejo Directivo resuelva que no se ha verificado una infracción grave devolverá los antecedentes al Director del Servicio Electoral, para que dicte resolución final, de conformidad al párrafo primero.
+
+10. De la resolución que pusiere fin a la instancia administrativa ante el Director del Servicio Electoral podrá deducirse reclamación para ante el Tribunal Calificador de Elecciones, dentro del plazo de cinco días, contado desde su notificación. El expediente se remitirá a dicho Tribunal por el Servicio Electoral, a más tardar dentro de quinto día de interpuesta la reclamación. El Tribunal fallará de acuerdo al procedimiento que establezca para tal efecto, de conformidad al artículo 12 de la ley Nº18.460.
+
+11. Contra las resoluciones del Tribunal Calificador de Elecciones no procederá recurso alguno, sin perjuicio de lo establecido en el artículo 13 de la ley Nº18.460.
+
+12. La resolución que aplica la multa tendrá mérito ejecutivo.
+
+Los plazos establecidos en este Párrafo 7º son de días hábiles, entendiéndose que son inhábiles los días sábados, los domingos y los festivos.
+
+#### Artículo 70
+
+E.- La multa será determinada por el Director del Servicio Electoral considerando la cantidad de infracciones cometidas por parte del infractor, su eventual reincidencia y la colaboración que haya prestado al Servicio antes o durante la fiscalización o investigación. El Consejo Directivo del Servicio Electoral determinará mediante instrucciones generales la forma en que deberán aplicarse estos criterios.
+
+Si en una misma campaña electoral se iniciaren procedimientos sancionatorios por más de una infracción respecto de un mismo sujeto, se acumularán tales procedimientos y se aplicará como sanción la suma de los montos de las multas a que dé lugar cada una de las infracciones constatadas.
+
+### Párrafo 8°
 
 Del personal del Servicio Electoral
 
@@ -709,6 +899,10 @@ El Director del Servicio Electoral tendrá la obligación de ordenar la difusió
 Los anuncios e impresiones ordenados por esta ley, así como los demás gastos ocasionados por funciones o prestaciones encomendados por el Servicio Electoral, serán de cargo de éste.
 
 Las cuentas pertinentes deberán ser presentadas al Servicio dentro del término de dos meses contado desde que se hubiere efectuado la prestación. Vencido este plazo sin que la cuenta hubiere sido presentada, la acción de cobro caducará.
+
+#### Artículo 76
+
+En los años en que se realicen elecciones o plebiscitos de conformidad a lo establecido en la ley Nº 18.700, el Servicio Electoral consultará en los respectivos programas presupuestarios, recursos para la contratación de personal, según lo disponga la ley de Presupuestos del Sector Público respectiva.
 
 DISPOSICIONES TRANSITORIAS
 

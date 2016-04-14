@@ -150,33 +150,17 @@ Un reglamento del Ministerio de Planificación y Cooperación, suscrito además 
 
 Tanto el registro como las resoluciones del consejo deberán encontrarse a disposición de la Contraloría General de la República, para el efecto de que ésta conozca la asignación y rendición de cuenta de estos recursos.
 
-## Título II
+## Título II — - Derogado.
 
 De los beneficios tributarios a las donaciones destinadas a entidades de carácter político
 
-#### Artículo 8º
+#### Artículo 8°
 
-Los contribuyentes a que se refiere el artículo 1º, que efectúen donaciones en dinero a los Partidos Políticos inscritos en el Servicio Electoral o a los institutos de formación política que se definen en la presente ley, podrán deducir éstas de la renta líquida imponible, una vez efectuados los ajustes previstos en los artículos 32º y 33º de la Ley sobre Impuesto a la Renta, en la forma y cumpliendo con los requisitos que a continuación se establecen:
+Derogado.
 
-1.- La donación deducible no podrá superar el equivalente al 1% de la renta líquida imponible correspondiente al ejercicio en el cual se efectúe la donación.
+#### Artículo 9°
 
-2.- El máximo señalado, se determinará deduciendo de la renta líquida previamente las donaciones a que se refiere este artículo.
-
-3.- Estas donaciones se liberarán del trámite de la insinuación y se eximirán del impuesto a las herencias y donaciones establecido en la ley Nº 16.271.
-
-4.- Para hacer uso del beneficio que establece este artículo, los donatarios, sus entidades recaudadoras o el Servicio Electoral, deberán otorgar un certificado a la entidad donante, que acredite la identidad de ésta, el monto de la donación y la fecha en que esta se efectuó, certificado que deberá ser emitido cumpliendo las formalidades y requisitos que establezca para este efecto el Servicio Electoral. Este Certificado deberán mantenerlo en su poder las entidades donantes, para ser exhibido al Servicio de Impuestos Internos cuando este así lo requiera. Sin perjuicio de lo anterior y de la reserva o secreto que la ley establezca al Servicio Electoral o a sus funcionarios, el Servicio de Impuestos Internos podrá solicitar directamente a dicho Servicio la información adicional que requiera para fiscalizar el buen uso de este beneficio, sin que pueda solicitar información sobre la identidad del donatario. La información que se proporcione en cumplimiento de lo prescrito en este número se amparará en el secreto establecido en el artículo 35º del Código Tributario.
-
-Igual beneficio y en los mismos términos precedentes, tendrán las donaciones que se efectúen directamente a candidatos a ocupar cargos de elección popular que se encuentren debidamente inscritos y siempre que las donaciones se efectúen en el período que corre desde el día en que venza el plazo para declarar candidaturas y el día de la elección respectiva. Con todo, las donaciones a que se refiere este inciso no podrán exceder, en conjunto con las señaladas en el inciso primero, del límite establecido en este artículo.
-
-Sólo podrán hacer uso de este beneficio aquellas donaciones a las que la ley otorgue el carácter de públicas o reservadas.
-
-#### Artículo 9º
-
-Para los efectos del artículo anterior se entenderá que son institutos de formación política aquellas entidades con personalidad jurídica propia y que sean señaladas por los Partidos Políticos como instituciones formadoras.
-
-Estas Instituciones deberán inscribirse en un registro que al efecto llevará el Servicio Electoral y no podrán corresponder a más de una por cada Partido Político inscrito en el Servicio Electoral.
-
-Para controlar el correcto uso del beneficio tributario que se establece en el artículo precedente, el Servicio de Impuestos Internos podrá requerir del Servicio Electoral, y este entregar, la información relativa a la formación de dichos institutos. Dicha información quedará amparada por el secreto que establece el artículo 35 del Código Tributario.
+Derogado.
 
 ## Título III
 

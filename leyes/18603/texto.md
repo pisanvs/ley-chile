@@ -86,7 +86,7 @@ Cumplidos los requisitos a que se refieren los artículos 5º y 6º, y reunido e
 
 Si transcurridos tres días fatales contados desde la expiración del plazo a que se refiere el inciso primero del artículo precedente, no se hubiere dado cumplimiento a lo dispuesto en el inciso anterior, caducará el derecho a la inscripción. El notario hará constar esta circunstancia al margen de la escritura correspondiente, a requerimiento del Director del Servicio Electoral.
 
-A la solicitud de inscripción deberá acompañarse el original o una fotocopia autorizada por notario de las declaraciones de que trata el artículo 6°, en la forma que determinen las instrucciones que para el efecto dicte el Director del Servicio Electoral. Con estas declaraciones se confeccionará una nómina de afiliados.
+A la solicitud de inscripción deberá acompañarse el original o una fotocopia autorizada por notario de las declaraciones de que trata el artículo 6°, en la forma que determinen las instrucciones que para el efecto dicte el Consejo Directivo del Servicio Electoral. Con estas declaraciones se confeccionará una nómina de afiliados.
 
 #### Artículo 8°
 
@@ -110,17 +110,17 @@ Cualquier afiliado a un partido político inscrito podrá requerir, a su costa, 
 
 #### Artículo 10
 
-Cualquier partido inscrito o en formación podrá deducir oposición a la formación de otro, sin que por esta causa se suspenda el proceso de constitución. La oposición deberá cumplir con lo prescrito en los artículos 254 y 255 del Código de Procedimiento Civil, ser escrita, llevar la firma del presidente del partido que la formule y ser presentada al Director del Servicio Electoral dentro del plazo de un mes contado desde la fecha de la publicación indicada en el inciso tercero del artículo 5°. El partido oponente será considerado como parte de la gestión.
+Cualquier partido inscrito o en formación podrá deducir oposición a la formación de otro, sin que por esta causa se suspenda el proceso de constitución. La oposición deberá cumplir con lo prescrito en los artículos 254 y 255 del Código de Procedimiento Civil, ser escrita, llevar la firma del presidente del partido que la formule y ser presentada al Servicio Electoral dentro del plazo de un mes contado desde la fecha de la publicación indicada en el inciso tercero del artículo 5°. El partido oponente será considerado como parte de la gestión.
 
-El Director del Servicio Electoral notificará por carta certificada al presidente del partido en formación el hecho de haberse presentado la oposición, le acompañará copia de la presentación a que alude el inciso anterior y dejará constancia de ello en el expediente que forme para tal efecto. El partido afectado dispondrá de diez días hábiles para contestar, sin perjuicio de lo indicado en los artículos 258, inciso segundo, y 259 del Código de Procedimiento Civil. La contestación se atendrá al artículo 309 del mismo Código.
+El Servicio Electoral notificará por carta certificada al presidente del partido en formación el hecho de haberse presentado la oposición, le acompañará copia de la presentación a que alude el inciso anterior y dejará constancia de ello en el expediente que forme para tal efecto. El partido afectado dispondrá de diez días hábiles para contestar, sin perjuicio de lo indicado en los artículos 258, inciso segundo, y 259 del Código de Procedimiento Civil. La contestación se atendrá al artículo 309 del mismo Código.
 
-Si el Director del Servicio Electoral estimare necesario abrir un término probatorio, de acuerdo a lo previsto en el artículo 318 del Código de Procedimiento Civil, lo decretará por un plazo no superior a quince días hábiles.
+Si el Servicio Electoral estimare necesario abrir un término probatorio, de acuerdo a lo previsto en el artículo 318 del Código de Procedimiento Civil, lo decretará por un plazo no superior a quince días hábiles.
 
-Dentro de los quince días hábiles siguientes al vencimiento del plazo señalado en el inciso segundo o del término probatorio, si lo hubiere, el Director del Servicio Electoral deberá pronunciarse sobre la oposición, acogiéndola o rechazándola en resolución fundada, que se publicará dentro de tercer día hábil en el Diario Oficial. El fallo se subordinará a lo dispuesto en el artículo 170 del Código de Procedimiento Civil.
+Dentro de los quince días hábiles siguientes al vencimiento del plazo señalado en el inciso segundo o del término probatorio, si lo hubiere, el Servicio Electoral deberá pronunciarse sobre la oposición, acogiéndola o rechazándola en resolución fundada, que se publicará dentro de tercer día hábil en el Diario Oficial. El fallo se subordinará a lo dispuesto en el artículo 170 del Código de Procedimiento Civil.
 
 #### Artículo 11
 
-Igualmente, cualquier partido inscrito o en formación podrá deducir oposición a la solicitud a que se refiere el artículo 7°, basada en el incumplimiento de lo dispuesto en el artículo 3°, inciso primero, o de los requisitos relativos al número de afiliados necesario para constituir un partido. La oposición deberá cumplir con las mismas formalidades señaladas en el artículo anterior y deberá ser presentada al Director del Servicio Electoral dentro del plazo de un mes contado desde la fecha de la publicación indicada en el inciso primero del artículo 9°.
+Igualmente, cualquier partido inscrito o en formación podrá deducir oposición a la solicitud a que se refiere el artículo 7°, basada en el incumplimiento de lo dispuesto en el artículo 3°, inciso primero, o de los requisitos relativos al número de afiliados necesario para constituir un partido. La oposición deberá cumplir con las mismas formalidades señaladas en el artículo anterior y deberá ser presentada al Servicio Electoral dentro del plazo de un mes contado desde la fecha de la publicación indicada en el inciso primero del artículo 9°.
 
 #### Artículo 12
 
@@ -176,7 +176,7 @@ Las personas que, estando afiliadas a un partido político, ingresaren a alguna 
 
 En los casos precedentemente señalados, antes de asumir el cargo, las personas deberán prestar declaración jurada sobre el hecho de estar o no afiliadas a un partido político.
 
-Con el mérito de dicha declaración jurada, las instituciones y organismos mencionados deberán, cuando corresponda, comunicar tal circunstancia al Director del Servicio Electoral y éste al partido político respectivo, el cual deberá cancelar la correspondiente afiliación.
+Con el mérito de dicha declaración jurada, las instituciones y organismos mencionados deberán, cuando corresponda, comunicar tal circunstancia al Servicio Electoral y éste al partido político respectivo, el cual deberá cancelar la correspondiente afiliación.
 
 Los que prestaren falsa declaración serán sancionados con la pena establecida en el artículo 210 del Código Penal.
 
@@ -186,13 +186,13 @@ Los ciudadanos, mientras cumplan el servicio militar obligatorio, no podrán afi
 
 Ningún ciudadano podrá estar afiliado a más de un partido. Para afiliarse a otro partido se deberá renunciar expresamente a la afiliación anterior, sin cuyo requisito la nueva será nula.
 
-Todo afiliado a un partido político podrá renunciar a él, en cualquier momento, sin expresión de causa. La renuncia producirá la desafiliación por el solo hecho de ser presentada al presidente del partido o al Director del Servicio Electoral. En este último caso, este funcionario deberá notificar la renuncia, por carta certificada, al presidente del partido.
+Todo afiliado a un partido político podrá renunciar a él, en cualquier momento, sin expresión de causa. La renuncia producirá la desafiliación por el solo hecho de ser presentada al presidente del partido o al Servicio Electoral. En este último caso, este funcionario deberá notificar la renuncia, por carta certificada, al presidente del partido.
 
 Una vez inscrito el partido en el Registro de Partidos Políticos y sin perjuicio de lo prescrito en los artículos 6°, 15, inciso segundo, y 17, la afiliación se realizará de acuerdo con el procedimiento que su estatuto establezca.
 
 #### Artículo 20
 
-Los partidos políticos estarán obligados a llevar un registro general actualizado de todos sus afiliados, ordenado por Regiones. Deberán, asimismo, proporcionar un duplicado de este registro al Director del Servicio Electoral y comunicar a dicho funcionario las nuevas afiliaciones y las desafiliaciones que por cualquier causa se produzcan.
+Los partidos políticos estarán obligados a llevar un registro general actualizado de todos sus afiliados, ordenado por Regiones. Deberán, asimismo, proporcionar un duplicado de este registro al Servicio Electoral y comunicar a dicho funcionario las nuevas afiliaciones y las desafiliaciones que por cualquier causa se produzcan.
 
 #### Artículo 21
 
@@ -304,25 +304,121 @@ Del financiamiento de los partidos políticos
 
 #### Artículo 33
 
-Los ingresos de los partidos políticos estarán constituidos por las cotizaciones ordinarias o extraordinarias que efectúen sus afiliados, por las donaciones, por las asignaciones testamentarias que se hagan en su favor y por los frutos y productos de los bienes de su patrimonio.
+Los ingresos de los partidos políticos estarán constituidos por las cotizaciones ordinarias o extraordinarias que efectúen sus afiliados, por las donaciones, por las asignaciones testamentarias que se hagan en su favor y por los frutos y productos de los bienes de su patrimonio. El aporte máximo en dinero que cada persona natural podrá efectuar a partidos políticos, no estando afiliada a ellos, no podrá exceder de trescientas unidades de fomento al año. El aporte máximo en dinero que cada persona natural podrá efectuar a partidos políticos, estando afiliada a ellos, no podrá exceder de quinientas unidades de fomento al año. Los partidos políticos no podrán recibir aportes de cualquier naturaleza de personas jurídicas.
 
 Los partidos inscritos o en formación sólo podrán tener ingresos de origen nacional.
+
+#### Artículo 33 bis
+
+El Estado, a través del Servicio Electoral, otorgará a los partidos políticos aportes trimestrales que deberán ser destinados a la atención de los gastos de funcionamiento del partido, la adquisición o arrendamiento de bienes inmuebles, el pago de deudas, el desarrollo de actividades de formación cívica de los ciudadanos, la preparación de candidatos a cargos de elección popular, la formación de militantes, la elaboración de estudios que apoyen la labor política y programática, el diseño de políticas públicas, la difusión de sus principios e ideas, la investigación, el fomento a la participación femenina y de los jóvenes en la política y, en general, a las actividades contempladas en el artículo 2º de esta ley. Los estudios e informes que los partidos elaboren con cargo a estos fondos serán públicos, salvo que su publicidad, comunicación o conocimiento afecte las decisiones estratégicas que pudieren adoptar los partidos políticos.
+
+Al menos un diez por ciento del total aportado a cada partido deberá utilizarse para fomentar la participación política de las mujeres.
+
+Para dar cumplimiento a lo dispuesto en el artículo 34, los partidos políticos deberán constituir anualmente una provisión destinada a la contratación de auditorías externas.
+
+Los partidos políticos, para acceder a los aportes referidos en el inciso primero, deberán cumplir con los siguientes requisitos:
+
+i. Estar constituidos de conformidad a esta ley.
+
+ii. Dar cumplimiento íntegro a las normas legales que regulan su funcionamiento y organización interna.
+
+El aporte total a repartir para cada año estará constituido por el equivalente a cero coma cero cuatro unidades de fomento multiplicado por el número de votos válidamente emitidos en la última elección de diputados a favor de candidatos inscritos en algún partido político y de candidatos independientes asociados a algún partido, según lo señale en la declaración de candidatura respectiva, de acuerdo a lo dispuesto en el artículo 3º bis de la ley Nº 18.700. Sin perjuicio de lo anterior, dicho aporte nunca podrá ser inferior a la cifra en pesos equivalente a cero coma cero cuatro unidades de fomento multiplicado por el cuarenta por ciento del total de personas con derecho a sufragio inscritas en el Padrón Electoral que haya utilizado el Servicio Electoral para la última elección de diputados, ni superior a la cifra en pesos equivalente a cero coma cero cuatro unidades de fomento multiplicado por el sesenta por ciento del referido total de personas. El resultado de este cálculo será dividido en cuatro partes iguales, a repartir trimestralmente en los meses de enero, abril, julio y octubre de cada año.
+
+La distribución de cada monto trimestral se determinará según las siguientes reglas, cuyo cumplimiento será también verificado de manera trimestral:
+
+a) El veinte por ciento del monto trimestral a repartir se distribuirá entre todos los partidos políticos que cumplan con los requisitos para optar al aporte, de manera proporcional al número de regiones en las que estén constituidos. En el caso de los partidos que estén constituidos en la totalidad de las regiones del país, se les distribuirá lo que correspondiere como si estuviesen constituidos en una región adicional.
+
+b) El ochenta por ciento restante del referido monto trimestral se distribuirá solo en favor de cada partido con representación parlamentaria y que cumpla con los requisitos para optar al aporte, a prorrata de los votos válidamente emitidos a su favor en la elección a que se refiere el inciso anterior.
+
+Para impetrar el aporte establecido en la letra b) de este artículo, se observarán las siguientes reglas:
+
+1. Si un parlamentario elegido como afiliado a un partido político que luego fue declarado disuelto o uno elegido como independiente no asociado a un partido político se afilia a alguno o concurre a la formación de uno nuevo, dicho partido podrá acceder al financiamiento establecido en la referida letra, caso en el cual se computarán en su favor los votos obtenidos por el parlamentario. Estos votos solo se contabilizarán para determinar el porcentaje de aporte que corresponde a cada partido.
+
+2. Si un parlamentario electo como afiliado de un partido político se desafiliare de él, se le restará al referido partido del total del aporte que recibe, el equivalente al cincuenta por ciento de los votos válidamente emitidos a favor de dicho parlamentario. Los fondos restantes correspondientes a estos votos no serán reasignados.
+
+3. Si un parlamentario electo como afiliado de un partido político se desafiliare de éste y se afiliare a otro partido, este último no aumentará el total del aporte que le correspondería recibir por los votos válidamente emitidos a favor de dicho parlamentario, mientras que al partido del cual se desafilió se le restará del total del aporte que recibe, el equivalente al cincuenta por ciento de los votos válidamente emitidos a favor de dicho parlamentario. Los fondos restantes correspondientes a estos votos no serán reasignados.
+
+El Servicio Electoral no efectuará transferencias a los partidos que se encuentren en mora de pagar multas al Fisco, determinadas en un procedimiento administrativo sancionatorio, o sus cuentas o balances anuales no hayan sido aprobadas por el mismo Servicio. Una vez pagadas las multas por el partido o aprobadas sus cuentas, el Servicio Electoral procederá al pago de los montos que fueron retenidos. Con todo, los montos que correspondan a cada partido solo podrán retenerse por tres trimestres, luego de lo cual, si el partido no ha cumplido, no serán distribuidos.
+
+Si al término del año calendario el partido no justificare los gastos para los cuales destinó los recursos obtenidos por el aporte, el Servicio Electoral deberá fijar un plazo fatal para dicho propósito, el que vencido sin que se realice el trámite, obligará al partido a restituir los fondos no justificados. En caso que existieren remanentes sin utilizar, y sin perjuicio del cumplimiento efectivo de lo dispuesto en el inciso segundo, estos podrán ser traspasados a ejercicios presupuestarios de años posteriores, informando de ello al Servicio Electoral.
+
+En el caso que el partido no haya cumplido con el porcentaje de gasto mínimo establecido en el inciso segundo, le será descontado de sus respectivos aportes del año siguiente un monto equivalente a lo que faltare para cumplir el referido mínimo.
+
+Para todos los efectos de este artículo, el valor de la unidad de fomento será el vigente al de la fecha del cálculo anual del total del aporte.
+
+En caso que el Estado no repartiera todos los fondos disponibles, los excesos no serán distribuidos.
 
 #### Artículo 34
 
 Para los efectos de esta ley, los partidos políticos llevarán un libro general de ingresos y egresos, uno de inventario y uno de balance, debiendo conservar la documentación que respalde sus anotaciones.
 
-El Director del Servicio Electoral, con consulta al Tribunal Calificador de Elecciones, dictará instrucciones generales y uniformes sobre la forma de llevar estos libros y de efectuar el balance.
+Deberán llevar contabilidad separada de los fondos públicos y de los aportes privados que reciban y mantener a disposición permanente del público, a través de sus sitios electrónicos, el informe mensual de sus ingresos y gastos, actualizados trimestralmente, desglosado, al menos, en las siguientes categorías:
+
+a) Cuantía global de las cuotas y aportes de sus afiliados.
+
+b) Rendimientos procedentes de su propio patrimonio.
+
+c) Ingresos procedentes de los aportes de personas naturales.
+
+d) Aportes estatales regulados en esta ley.
+
+e) Rendimientos procedentes de las actividades del partido.
+
+f) Gastos de personal.
+
+g) Gastos de adquisición de bienes y servicios o gastos corrientes.
+
+h) Gastos financieros por préstamos, distinguiendo entre préstamos de corto y largo plazo.
+
+i) Otros gastos de administración.
+
+j) Gastos de actividades de investigación.
+
+k) Gastos de actividades de educación cívica.
+
+l) Gastos de actividades de fomento a la participación femenina.
+
+m) Gastos de actividades de fomento a la participación de los jóvenes.
+
+n) Créditos, distinguiendo entre créditos de corto y largo plazo, inversiones y valores de operaciones de capital.
+
+ñ) Gastos de las actividades de preparación de candidatos a cargos de elección popular.
+
+o) Gastos de las actividades de formación de militantes.
+
+El Consejo Directivo del Servicio Electoral, con consulta al Tribunal Calificador de Elecciones, dictará instrucciones generales y uniformes sobre la forma de llevar estos libros y de efectuar el balance.
 
 El Director del Servicio Electoral solicitará los libros y la documentación anexa para su revisión e inspección, por lo menos una vez en cada año calendario, y mantendrá copia de estos antecedentes, los que quedarán a disposición del público para su consulta, de acuerdo con las normas que aquél señale.
 
+Además, los partidos políticos que reciban aportes conforme al artículo 33 bis deberán contratar auditorías externas. Dichas contrataciones solo podrán celebrarse con empresas que consten en los registros de la Superintendencia de Valores y Seguros, conforme a instrucciones del Servicio Electoral.
+
+#### Artículo 34 bis
+
+Para efectos de recibir el aporte fiscal, todo partido político beneficiario de este deberá presentar al Servicio Electoral la individualización de la cuenta corriente bancaria única y oficial del partido político en la cual se traspasarán los fondos y se supervisarán sus otros movimientos de conformidad a la ley.
+
+#### Artículo 34 ter
+
+Para optar al aporte público que establece esta ley, todo partido político deberá nombrar un profesional en calidad de Administrador General de los Fondos, con domicilio en Chile, quien será colaborador directo de la Directiva Central, en el cumplimiento de las normas y procedimientos internos. Será además responsable, en conformidad a las disposiciones generales, por el uso indebido de los fondos que el Estado entregue al partido, sin perjuicio de las responsabilidades que puedan afectar al personal a su cargo o a otras personas que hayan vulnerado la correcta utilización de dichos fondos. Este Administrador deberá contar con un título técnico o profesional de una carrera de, al menos, ocho semestres de duración.
+
+Son obligaciones del Administrador General de los Fondos de un partido las siguientes:
+
+a) Llevar la contabilidad detallada de todo ingreso y egreso de fondos, con indicación del origen y destino, la fecha de la operación y el nombre y domicilio de las personas intervinientes. La documentación de respaldo deberá conservarse durante cinco años.
+
+b) Presentar a los organismos de control la información requerida por esta ley.
+
+c) Reintegrar los aportes que reciba del Estado, en conformidad a esta ley.
+
+d) Efectuar todos los gastos con cargo a la cuenta única correspondiente del partido.
+
+Además, en periodo de campaña, el Administrador General de los Fondos de un partido podrá ser designado Administrador General Electoral y cumplir con las funciones descritas en el artículo 33 de la ley Nº 19.884, Sobre Transparencia, Límite y Control del Gasto Electoral.
+
 #### Artículo 35
 
-Los partidos políticos practicarán un balance por cada año calendario y remitirán un ejemplar del mismo al Director del Servicio Electoral. Si éste estimare necesario formular aclaraciones, requerirá del partido las informaciones y los antecedentes del caso, el que deberá proporcionarlos en el plazo prudencial que fijare dicho funcionario.
+Los partidos políticos practicarán un balance anual y remitirán un ejemplar al Servicio Electoral. Si el Servicio estimare necesario formular aclaraciones, requerirá al partido las informaciones y antecedentes del caso, el que los proporcionará en el plazo que fije el Servicio, sin perjuicio de sus facultades inspectivas.
 
-El Director del Servicio Electoral podrá rechazar el balance si no se ajustare a las anotaciones de los libros o si contuviere errores u omisiones manifiestos. En caso de no existir objeciones o si éstas fueren solucionadas, el Director del Servicio Electoral ordenará publicar el balance en el Diario Oficial, a costa del partido.
+El Servicio podrá rechazar el balance cuando no se ajuste a las anotaciones de los libros o contenga errores u omisiones manifiestos. En caso de no existir objeciones o si estas fueren subsanadas, el Servicio ordenará publicar el balance en el Diario Oficial, a costa del partido.
 
-De la resolución del Director del Servicio Electoral que rechace el balance podrá apelarse para ante el Tribunal Calificador de Elecciones, dentro de quinto día hábil de notificado el partido afectado.
+La resolución del Servicio Electoral que rechace el balance será impugnable ante el órgano que corresponda, según las reglas generales.
 
 #### Artículo 36
 
@@ -396,11 +492,11 @@ Si incurre en la situación prevista en el número 4º en una o más regiones, p
 
 #### Artículo 43
 
-La disolución del partido político, para todos los efectos legales, se formalizará mediante la cancelación de su inscripción en el Registro de Partidos Políticos, la que será efectuada por el Director del Servicio Electoral de oficio o a petición de cualquier ciudadano.
+La disolución del partido político, para todos los efectos legales, se formalizará mediante la cancelación de su inscripción en el Registro de Partidos Políticos, la que será efectuada por el Director del Servicio Electoral, previa resolución del Consejo Directivo del Servicio Electoral que así lo disponga.
 
 En el caso del número 2° del artículo anterior, la cancelación se efectuará noventa días después de comunicada al Director la sentencia de proclamación del Tribunal Calificador de Elecciones y el escrutinio general que éste haya realizado. Dentro de este plazo los partidos políticos podrán fusionarse, debiendo comunicar esta circunstancia al Director del Servicio Electoral.
 
-Asimismo, en el caso del número 4° del artículo precedente, el Director del Servicio Electoral procederá de oficio a la cancelación de la inscripción, luego de transcurridos ciento ochenta días desde que dicho Servicio haya representado al Presidente del partido la disminución de los afiliados en los términos del citado número y siempre que en este lapso no se hubieren acreditado nuevas inscripciones que completen el número mínimo de afiliados exigidos para constituir un partido.
+En el caso del número 4° del artículo precedente, el Director del Servicio Electoral procederá a la cancelación de la inscripción, luego de transcurridos ciento ochenta días desde que dicho Servicio haya representado al Presidente del partido la disminución de los afiliados en los términos del citado número y siempre que en este lapso no se hubieren acreditado nuevas inscripciones que completen el número mínimo de afiliados exigidos para constituir un partido.
 
 En contra de la resolución del Director del Servicio Electoral que cancele una inscripción, podrá apelarse para ante el Tribunal Calificador de Elecciones, excepto en los casos de los números 6° y 7° del artículo precedente.
 
@@ -456,7 +552,7 @@ Si uno o más de los afiliados o dirigentes de un partido político realizare la
 
 Las infracciones a las obligaciones establecidas en el artículo 20, serán sancionadas con multa en su grado máximo en el primer caso, en su grado medio a máximo en el segundo, y en sus grados mínimo a medio en el tercero. La multa será de cargo del partido político infractor.
 
-Sin perjuicio de la aplicación al partido político de la multa que corresponda, el presidente y el secretario del mismo quedarán inhabilitados, por un término de tres a cinco años, para ocupar cargos directivos en partidos políticos, si el Tribunal Calificador de Elecciones declara que estas infracciones han sido cometidas con participación dolosa de aquéllos. Igual sanción será aplicable a los presidentes y secretarios de los Consejos Regionales que incurrieren en las mismas conductas.
+Sin perjuicio de la aplicación al partido político de la multa que corresponda, el presidente y el secretario del mismo quedarán inhabilitados, por un término de tres a cinco años, para ocupar cargos directivos en partidos políticos, si el Director del Servicio Electoral declara que estas infracciones han sido cometidas con participación dolosa de aquéllos. Igual sanción será aplicable a los presidentes y secretarios de los Consejos Regionales que incurrieren en las mismas conductas.
 
 #### Artículo 49
 
@@ -472,11 +568,11 @@ En caso de reincidencia, se aplicará como sanción la suspensión o disolución
 
 #### Artículo 51
 
-La infracción a lo dispuesto en el artículo 34, consistente en que el partido político no lleve libros de ingresos y egresos, de inventario, de balance, o no efectúe este último, será sancionada con multa en su grado máximo. Si la infracción consistiere en no conservar la documentación que respalde las anotaciones de esos libros, en llevar esos libros o practicar tales anotaciones en forma indebida o en no entregar un ejemplar del balance al Director del Servicio Electoral, será sancionada con multa en sus grados medio a máximo. En todos estos casos, la multa será de cargo del partido político infractor.
+La infracción a lo dispuesto en el artículo 34, consistente en que el partido político no lleve libros de ingresos y egresos, de inventario, de balance, o no efectúe este último, será sancionada con multa en su grado máximo. Si la infracción consistiere en no conservar la documentación que respalde las anotaciones de esos libros, en llevar esos libros o practicar tales anotaciones en forma indebida o en no entregar un ejemplar del balance al Servicio Electoral, será sancionada con multa en sus grados medio a máximo. En todos estos casos, la multa será de cargo del partido político infractor.
 
-El partido político que no se ciña a las instrucciones generales y uniformes que imparta el Director del Servicio Electoral sobre la forma de llevar aquellos libros, será sancionado con multa en sus grados mínimo a medio.
+El partido político que no se ciña a las instrucciones generales y uniformes que imparta el Servicio Electoral sobre la forma de llevar aquellos libros, será sancionado con multa en sus grados mínimo a medio.
 
-Sin perjuicio de la aplicación de la multa que corresponda, si el Tribunal declara que estas infracciones han sido cometidas con negligencia inexcusable o con participación dolosa del presidente o del tesorero, éstos quedarán inhabilitados para ocupar cargos directivos en partidos políticos, por un término de tres años en el caso de negligencia inexcusable y de cinco años en el caso de participación dolosa. Igual sanción será aplicable a los tesoreros de los Consejos Regionales que incurrieren en las mismas conductas. Todo lo anterior se entiende sin perjuicio de la responsabilidad penal a que hubiere lugar.
+Sin perjuicio de la aplicación de la multa que corresponda, si el Director del Servicio Electoral declara que estas infracciones han sido cometidas con negligencia inexcusable o con participación dolosa del presidente o del tesorero, éstos quedarán inhabilitados para ocupar cargos directivos en partidos políticos, por un término de tres años en el caso de negligencia inexcusable y de cinco años en el caso de participación dolosa. Igual sanción será aplicable a los tesoreros de los Consejos Regionales que incurrieren en las mismas conductas. Todo lo anterior se entiende sin perjuicio de la responsabilidad penal a que hubiere lugar.
 
 En caso de reincidencia en las conductas sancionadas en el inciso primero, sin perjuicio de la multa que corresponda, se aplicará la sanción de inhabilidad contemplada en el inciso anterior.
 
@@ -488,7 +584,7 @@ Si la entidad tuviere personalidad jurídica, el tribunal podrá disponer, adem�
 
 #### Artículo 53
 
-En caso de que un partido político designe en algún cargo directivo a una persona sancionada con inhabilidad para ocuparlo, el Director del Servicio Electoral fijará al partido un plazo para llenar el cargo con persona habilitada. Vencido el plazo sin que se hubiere provisto aquel cargo conforme a la ley y mientras tal situación subsista, se aplicará al partido la pena de suspensión.
+En caso de que un partido político designe en algún cargo directivo a una persona sancionada con inhabilidad para ocuparlo, el Subdirector de Partidos Políticos del Servicio Electoral fijará al partido un plazo para llenar el cargo con persona habilitada. Vencido el plazo sin que se hubiere provisto aquel cargo conforme a la ley y mientras tal situación subsista, se aplicará al partido la pena de suspensión.
 
 #### Artículo 54
 
@@ -496,7 +592,7 @@ El plazo de prescripción para las faltas o infracciones establecidas en esta le
 
 #### Artículo 55
 
-En la aplicación de las multas, el Tribunal podrá recorrer toda la extensión en que la ley le permita imponerlas, considerando, especialmente, el caudal o las facultades del infractor. El infractor, mientras no pagare la multa, quedará suspendido de todos los derechos que le correspondan como afiliado al partido.
+En la aplicación de las multas, se podrá recorrer toda la extensión en que la ley le permita imponerlas, considerando, especialmente, el caudal o las facultades del infractor. El infractor, mientras no pagare la multa, quedará suspendido de todos los derechos que le correspondan como afiliado al partido.
 
 Si el infractor fuere un partido político, se le aplicará la pena de suspensión mientras no pagare la multa.
 
@@ -512,9 +608,11 @@ El procedimiento será el establecido en los artículos 89, 90 y 91 del Código 
 
 Las acciones para hacer efectiva la responsabilidad por las infracciones de que trata el título anterior, podrán ser ejercidas por el Director del Servicio Electoral, por el Ministro del Interior, por el respectivo Intendente Regional y por cualquier Senador, Diputado o partido político inscrito o en proceso de formación.
 
+Sin perjuicio de lo anterior, las sanciones de multa a que se refieren los artículos 50 y 51 y, en general, las que correspondan a la inobservancia del título V de esta ley, serán impuestas por el Servicio Electoral, según su ley orgánica. No obstante, cuando la sanción aplicable corresponda a la suspensión o disolución del partido o inhabilidad para ocupar cargos directivos de un partido político, se estará a lo dispuesto en este artículo.
+
 #### Artículo 57
 
-Las reclamaciones que tengan relación con la generación defectuosa del Tribunal Supremo de un partido político y que sean formuladas dentro de los noventa días siguientes a su elección o de la fecha en que experimente algún cambio en su integración, serán resueltas en única instancia y sin ulterior recurso, por el Tribunal Calificador de Elecciones, conforme al procedimiento señalado en el artículo precedente.
+Las reclamaciones que tengan relación con la generación defectuosa del Tribunal Supremo de un partido político y que sean formuladas dentro de los noventa días siguientes a su elección o de la fecha en que experimente algún cambio en su integración, serán resueltas por el Servicio Electoral, de conformidad a su ley orgánica.
 
 Dicha reclamación podrá ser interpuesta por no menos de un cuarto de los miembros del Consejo General de la representación parlamentaria del partido.
 
@@ -524,7 +622,7 @@ Las notificaciones que deban practicarse conforme a esta ley se efectuarán por 
 
 #### Artículo 59
 
-Las apelaciones que se deriven de la aplicación de esta ley y que se tramiten ante el Tribunal Calificador de Elecciones se interpondrán dentro de quinto día hábil y se sustanciarán de acuerdo con los artículos 200 a 230 del Libro I, Título XVIII del Código de Procedimiento Civil, en lo que sea pertinente, pero no procederá el trámite de expresión de agravios. El escrito de apelación se fundamentará someramente.
+Las reclamaciones que se deriven de la aplicación de esta ley y que se tramiten ante el Tribunal Calificador de Elecciones se interpondrán dentro de quinto día hábil y se sustanciarán de acuerdo con los artículos 200 a 230 del Libro I, Título XVIII del Código de Procedimiento Civil, en lo que sea pertinente, pero no procederá el trámite de expresión de agravios. El escrito de apelación se fundamentará someramente.
 
 #### Artículo 60
 
@@ -534,7 +632,7 @@ El Tribunal Calificador de Elecciones podrá imponer al Director del Servicio El
 
 #### Artículo 61
 
-El Tribunal Calificador de Elecciones podrá complementar las normas que se establecen en esta ley para las gestiones que se tramiten ante el Director del Servicio Electoral y ante el propio Tribunal, mediante autos acordados que dicte para tal efecto.
+El Tribunal Calificador de Elecciones podrá complementar las normas que se establecen en esta ley para las gestiones que se tramiten ante el propio Tribunal, mediante autos acordados que dicte para tal efecto.
 
 #### Artículo 62
 

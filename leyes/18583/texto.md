@@ -14,15 +14,17 @@ Planta/Cargos Grados Nº cargos
 
 JEFE SUPERIOR DEL SERVICIO
 
-Director 1 C1
+Director, Primer Nivel Jerárquico
+
+## Título VI — ley Nº19.882 1 C1
 
 Planta/Cargos Grados Nº cargos
 
 DIRECTIVOS AFECTOS AL TÍTULO VI LEY Nº 19.882
 
-Subdirector 2° 1
+Subdirectores 2° 3
 
-Jefes de División 3° 3
+Jefes de División 3° 8
 
 Directores Regionales 5° 8
 
@@ -40,47 +42,47 @@ Directivos 9° 5
 
 Directivos 10° 6
 
-Total Directivos 49
+Total Directivos 56
 
 ### II. PLANTA DE PROFESIONALES
 
-Profesionales 4° 2
+Profesionales 4° 4
 
-Profesionales 5° 2
+Profesionales 5° 4
 
-Profesionales 6° 2
+Profesionales 6° 5
 
-Profesionales 7° 2
+Profesionales 7° 8
 
-Profesionales 8° 2
+Profesionales 8° 8
 
-Profesionales 9° 2
+Profesionales 9° 8
 
-Profesionales 10° 3
+Profesionales 10° 5
 
-Profesionales 11° 3
+Profesionales 11° 4
 
 Profesionales 12° 4
 
-Total Profesionales 22
+Total Profesionales 50
 
 ### III. PLANTA DE TÉCNICOS
 
-Técnicos 9° 3
+Técnicos 9° 6
 
-Técnicos 10° 3
+Técnicos 10° 6
 
-Técnicos 11° 3
+Técnicos 11° 6
 
-Técnicos 12° 3
+Técnicos 12° 8
 
-Técnicos 13° 3
+Técnicos 13° 9
 
-Técnicos 14° 3
+Técnicos 14° 10
 
-Técnicos 15° 3
+Técnicos 15° 10
 
-Total Técnicos 21
+Total Técnicos 55
 
 ### IV. PLANTA DE ADMINISTRATIVOS
 
@@ -122,6 +124,8 @@ Se podrá contratar personal a contrata o a honorarios a suma alzada o asimilado
 
 El Director podrá contratar a este personal mediante resolución, previa visación de la Dirección de Presupuestos.
 
+> **Nota.** Las letras e) y f) del N° 1, del Art. 8°, de la Ley 20900, publicada el 14.04.2016, suprime en la planta de "Administrativos", doce cargos grado 18°, de la Escala Única de Sueldos, y en la planta de "Auxiliares", seis cargos grado 22°, de la Escala Única de Sueldos, respectivamente, una vez que estos quedaren vacantes por cualquier causa.
+
 #### Artículo 1º
 
 A.- Establécense los siguientes requisitos específicos para el ingreso y promoción en las plantas y cargos que a continuación se indican:
@@ -130,11 +134,11 @@ I.- PLANTA DE DIRECTIVOS.
 
 Jefe Superior del Servicio:
 
-Director, grado 1C: Abogado con más de diez años de título y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
+Director, grado 1C: Título profesional de una carrera de, a lo menos, diez semestres de duración otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de conformidad a la legislación vigente, y acreditar una experiencia profesional de, a lo menos, diez años y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
 
 Directivos afectos al Título VI de la ley Nº 19.882:
 
-- Subdirector, grado 2°: Abogado con más de diez años de título y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
+- Subdirector, grado 2°: Título profesional de una carrera de, a lo menos, diez semestres de duración otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de conformidad a la legislación vigente, y acreditar una experiencia profesional de, a lo menos, diez años y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
 
 - Jefes de División, grado 3º:
 
@@ -174,13 +178,19 @@ Profesionales, grado 4º:
 
 Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cuatro años en el sector público o privado.
 
-Profesionales, grados 5º, 6º y 7º:
+Profesionales, grados 5º, 6º y 7º, alternativamente:
 
-Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
+i) Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
 
-Profesionales, grados 8º y 9º:
+iii
 
-Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+ii) Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cinco años en el sector público o privado.
+
+Profesionales, grados 8º y 9º, alternativamente:
+
+i) Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+
+ii) Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cuatro años en el sector público o privado.
 
 Profesionales, grados 10º y 11º, alternativamente:
 
@@ -265,6 +275,46 @@ La persona estampará su firma en los lugares correspondientes, junto con la imp
 Si la persona fuere analfabeta o no vidente, la Junta Inscriptora dejará constancia de este hecho en el espacio destinado a la firma.", y
 
 c) Suprímese en la letra j) del artículo 93 la palabra "superiores".
+
+#### Artículo 4º
+
+Al Servicio Electoral le será aplicable lo dispuesto en el artículo 7º de la ley Nº19.553, con excepción de sus letras d), en cuanto a la suscripción de un convenio de desempeño; f), en cuanto a la participación de un Ministerio, y g), en cuanto a la visación de un acto administrativo por un Subsecretario, para los efectos del otorgamiento del incremento por desempeño colectivo a que se refiere la letra c) del artículo 3º de la citada ley.
+
+#### Artículo 5°
+
+El Consejo Directivo del Servicio Electoral deberá efectuar una cuenta pública en el mes de mayo de cada año. Asimismo, pondrá en conocimiento de las Comisiones del Senado y de la Cámara de Diputados que correspondan, la información relativa a la implementación de las leyes Nºs. 18.603, 19.884 y 18.700.
+
+Para efectos de lo señalado en el inciso anterior, el Director del Servicio Electoral deberá informar al Consejo, en marzo de cada año, acerca de las materias que éste solicite.
+
+#### Artículo 6º
+
+Establécese una Asignación Electoral para el personal de planta y a contrata del Servicio Electoral, la que contendrá los siguientes componentes:
+
+a) Un componente fijo.
+
+b) Un componente proporcional, que se regirá por las disposiciones del artículo 8° de esta ley.
+
+La asignación se pagará mensualmente, tendrá el carácter de imponible y tributable y no servirá de base de cálculo de ninguna otra remuneración.
+
+El personal que preste servicios por un período de tiempo inferior a un mes, tendrá derecho a que se le pague la asignación en proporción a los días completos efectivamente trabajados.
+
+#### Artículo 7°
+
+El componente fijo a que se refiere la letra a) del artículo anterior de esta ley ascenderá a $100.000 brutos mensuales.
+
+Dicho monto se reajustará conforme a los reajustes generales de remuneraciones que se otorguen a los trabajadores del sector público.
+
+#### Artículo 8º
+
+El componente proporcional a que se refiere la letra b) del artículo 6° ascenderá a un 10% de la suma de las siguientes remuneraciones, según corresponda:
+
+a) Sueldo base.
+
+b) Asignación de los artículos 17 y 18 de la ley Nº19.185.
+
+c) Asignación del artículo 19 de la ley Nº19.185.
+
+d) Asignación del artículo 6° del decreto ley Nº1.770, de 1977, del Ministerio de Hacienda.
 
 ARTICULOS TRANSITORIOS
 

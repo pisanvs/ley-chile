@@ -22,19 +22,23 @@ Asimismo, esta ley contiene normas aplicables a los órganos de la Administraci�
 
 #### Artículo 2º
 
-Para los efectos de esta ley, se entenderá por gasto electoral todo desembolso en que se incurra para el financiamiento de los equipos, oficinas y servicios de los partidos políticos y candidatos, con ocasión y a propósito de actos electorales. Sólo se considerarán gastos electorales los que se efectúen por los siguientes conceptos:
+Para los efectos de esta ley, se entenderá por gasto electoral todo desembolso o contribución avaluable en dinero, efectuado por el precandidato en lo que corresponda, el candidato, un partido político o un tercero en su favor, con ocasión y a propósito de actos electorales.
 
-a) Propaganda y publicidad dirigida, directa o
+Sólo se considerarán gastos electorales los que se efectúen por los siguientes conceptos:
 
-indirectamente, a promover el voto para un candidato o
+a) Todo evento o manifestación pública, propaganda
 
-candidatos determinados, cualquiera sea el lugar, la
+y publicidad escrita, radial, audiovisual o en imágenes,
 
-forma y medio que se utilice. Lo anterior se entiende
+dirigidos a promover a un candidato o a partidos
 
-sin perjuicio de lo dispuesto en las normas del Párrafo
+políticos, cualquiera sea el lugar, la forma y medio
 
-6º del Título I de la ley Nº 18.700.
+que se utilice. Lo anterior se entiende sin perjuicio
+
+de lo dispuesto en las normas del Párrafo 6º del Título
+
+I de la ley Nº 18.700.
 
 b) Las encuestas sobre materias electorales o
 
@@ -42,11 +46,13 @@ sociales que encarguen los candidatos o los partidos
 
 políticos, durante la campaña electoral.
 
-c) Arrendamiento de bienes muebles e inmuebles
+c) Derechos de uso o arrendamiento de bienes muebles
 
-destinados al funcionamiento de los equipos de campaña o
+e inmuebles destinados al funcionamiento de los
 
-a la celebración de actos de proselitismo electoral.
+equipos de campaña o a la celebración de actos de
+
+proselitismo electoral.
 
 d) Pagos efectuados a personas que presten
 
@@ -78,37 +84,25 @@ la fecha en que se dé cumplimiento a lo dispuesto
 
 en el inciso primero del artículo 41.
 
-g) Las erogaciones o donaciones realizadas por los
-
-candidatos a organizaciones o a personas naturales o
-
-jurídicas, mediante el patrocinio de actos culturales,
-
-deportivos o de cualquier otro tipo a celebrarse dentro
-
-del ámbito territorial respectivo.
-
-h) Gastos menores y frecuentes de campaña, tales
+g) Gastos menores y frecuentes de campaña, tales
 
 como la alimentación de personas, mantención de
 
-vehículos o de las sedes u otros similares. Estos podrán
+vehículos o de las sedes u otros similares. Estos
 
-ser rendidos, sin justificación detallada, hasta por el
+deberán ser declarados detalladamente y no podrán
 
-10% del límite total autorizado al candidato o partido
+exceder el diez por ciento del límite total autorizado
 
-político. No obstante, será responsabilidad del
+al candidato o partido político. Será responsabilidad
 
-administrador electoral mantener la documentación de
+del administrador electoral mantener la documentación
 
-respaldo o justificarla debidamente en conformidad al
+de respaldo o justificarla debidamente en conformidad
 
-#### Artículo 31
+a la letra b) del artículo 31 de esta ley.
 
-b) de esta ley.
-
-i) Gastos por trabajos de campaña, proporcionados
+h) Gastos por trabajos de campaña, proporcionados
 
 por personas con carácter voluntario, debidamente
 
@@ -120,7 +114,13 @@ Para la determinación de los gastos electorales, se entenderá por período de 
 
 Para este efecto, se considerarán gastos electorales los efectuados en dicho período, independientemente de la fecha de contratación o pago efectivo de dicho gasto, y aun cuando se encuentren pendientes de pago.
 
-Los candidatos no podrán realizar gastos electorales de propaganda dirigida directa o indirectamente a promover el voto, antes del plazo que esta ley establece y especialmente 30 días antes de su vencimiento. Si así fuere, comprobado por el Servicio Electoral después de investigar denuncias fundadas, dichos gastos se computarán dentro del monto establecido como límite en el artículo 4º de esta ley.
+Entre los noventa y los doscientos días corridos anteriores a una elección, quienes aspiren a convertirse en candidatos a Presidente de la República podrán, de forma voluntaria, efectuar una declaración de precandidatura ante el Servicio Electoral, de conformidad al artículo 3º y al Párrafo 3º del Título I de la ley Nº 18.700. En dicha oportunidad, los precandidatos deberán realizar la declaración de intereses y patrimonio contenida en el artículo 6° bis de la ley Nº 18.700 y autorizar al Servicio Electoral la apertura de la cuenta bancaria a que alude el artículo 16 de esta ley.
+
+En el período señalado en el inciso anterior, los precandidatos a Presidente de la República podrán percibir los aportes permitidos en los artículos 9º y 17 y efectuar gastos electorales. Los límites al gasto electoral que se aplicarán a los precandidatos serán equivalentes al diez por ciento de los valores señalados en el artículo 4º, para la elección presidencial.
+
+Cuando se declare la candidatura de un precandidato, éste continuará utilizando su cuenta bancaria electoral, conforme a las reglas generales que esta ley establece, y le serán aplicables los límites de gasto electoral que correspondan según el tipo de elección a que sea candidato en definitiva. Lo gastado durante el periodo de precandidatura será imputado a dicho límite, con un tope de veinticinco por ciento.
+
+Los precandidatos cuyas candidaturas no sean declaradas en definitiva deberán presentar su cuenta general de ingresos y gastos ante el Servicio Electoral al tenor del artículo 41 y, con posterioridad, el Director procederá a cerrar la cuenta bancaria electoral. En este último caso, los aportes recibidos que no hubieren sido gastados por el precandidato deberán ser devueltos a los aportantes conforme al artículo 12, a prorrata de sus aportes.
 
 ### Párrafo 2º
 
@@ -130,17 +130,17 @@ De los límites al gasto electoral
 
 Ninguna candidatura a Presidente de la República, senador, diputado, alcalde, consejero regional o concejal podrá sobrepasar, por concepto de gastos electorales, los límites que se indican en los incisos siguientes.
 
-Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de tres mil unidades de fomento, más aquella que resulte de multiplicar por cuatro centésimos de unidad de fomento los primeros doscientos mil electores, por tres centésimos de unidad de fomento los siguientes doscientos mil electores y por dos centésimos de unidad de fomento los restantes electores en la respectiva circunscripción.
+Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de mil quinientas unidades de fomento, más aquélla que resulte de multiplicar por dos centésimos de unidad de fomento los primeros doscientos mil electores, por quince milésimos de unidad de fomento los siguientes doscientos mil electores y por un centésimo de unidad de fomento los restantes electores en la respectiva circunscripción.
 
-Los candidatos a diputado no podrán exceder de la suma de mil quinientas unidades de fomento, más aquella que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en el respectivo distrito.
+Los candidatos a diputado no podrán exceder la suma de setecientas unidades de fomento, más aquélla que resulte de multiplicar por quince milésimos de unidad de fomento el número de electores en el respectivo distrito.
 
 El límite de gasto de los candidatos a alcalde no podrá exceder de la suma de ciento veinte unidades de fomento, más aquella que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en la respectiva comuna. Cada candidato a concejal podrá gastar una suma no superior a la mitad de aquella que se permita al correspondiente candidato a alcalde.
 
-El límite de gasto de los candidatos a consejeros regionales no podrá exceder de la suma de setecientas unidades de fomento, más aquella que resulte de multiplicar por dos centésimos de unidad de fomento los primeros doscientos mil electores, por un centésimo y medio de unidad de fomento los siguientes doscientos mil, por un centésimo de unidad de fomento los restantes electores de la respectiva circunscripción provincial.
+El límite de gasto de los candidatos a consejeros regionales no podrá exceder de la suma de trescientos cincuenta unidades de fomento, más aquella que resulte de multiplicar por un centésimo de unidad de fomento los primeros doscientos mil electores, por setenta y cinco diezmilésimos de unidad de fomento los siguientes doscientos mil y por cinco milésimos de unidad de fomento los restantes electores de la respectiva circunscripción provincial.
 
-En el caso de las candidaturas a Presidente de la República, el límite de gasto será equivalente a la cantidad que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en el país. No obstante, tratándose de la situación prevista en el inciso segundo del artículo 26 de la Constitución Política, dicho límite se calculará considerando como factor multiplicador un centésimo de unidad de fomento.
+En el caso de las candidaturas a Presidente de la República, el límite de gasto será equivalente a la cantidad que resulte de multiplicar por quince milésimos de unidad de fomento el número de electores en el país. No obstante, tratándose de la situación prevista en el inciso segundo del artículo 26 de la Constitución Política, dicho límite se calculará considerando como factor multiplicador un centésimo de unidad de fomento.
 
-Para los efectos de lo dispuesto en el presente artículo, el Director del Servicio Electoral establecerá por resolución que se publicará en el Diario Oficial, con ciento veinte días de anticipación a la respectiva elección, los máximos de gastos electorales permitidos.
+Para los efectos de lo dispuesto en el presente artículo, el Consejo Directivo del Servicio Electoral establecerá por resolución que se publicará en el Diario Oficial y en el sitio web del Servicio, con doscientos días de anticipación a la respectiva elección, los máximos de gastos electorales permitidos.
 
 Asimismo, para todos los efectos de esta ley, el valor de la unidad de fomento será el vigente a la fecha de la resolución a que se refiere el inciso precedente.
 
@@ -156,13 +156,15 @@ En todo caso, se presumirá gasto electoral de un partido político el efectuado
 
 El candidato o partido político que exceda el límite de gastos electorales, calculado de conformidad con lo dispuesto en los artículos precedentes, será sancionado con multa a beneficio fiscal, de acuerdo a la siguiente escala:
 
-a) El doble del exceso en la parte que no supere el 30%;
+a) El doble del exceso en la parte que no supere el 10%;
 
-b) El triple del exceso en la parte que supere el 30% y sea inferior al 50%, y
+b) El triple del exceso en la parte que supere el 10% y sea inferior al 25%, y
 
-c) El quíntuple del exceso en que hubiere incurrido, en la parte que supere el 50%.
+c) El quíntuple del exceso en que hubiere incurrido, en la parte que supere el 25%.
 
-Dicha multa se expresará en unidades de fomento. La multa será aplicada por el Director del Servicio Electoral.
+Dicha multa se expresará en unidades de fomento.
+
+La multa será aplicada por el Director del Servicio Electoral.
 
 #### Artículo 6º
 
@@ -186,19 +188,33 @@ Constituye financiamiento privado de campaña electoral toda contribución en di
 
 #### Artículo 9º
 
-Ninguna persona podrá aportar a un mismo candidato, y en una misma elección, una suma que exceda al equivalente en pesos de mil unidades de fomento en el caso de candidatos a alcalde, consejero regional o concejal; de mil doscientas cincuenta unidades de fomento tratándose de candidatos a diputado o senador y de dos mil unidades de fomento en el caso de candidatos presidenciales. No obstante, en el caso de la situación prevista en el artículo 26, inciso segundo, de la Constitución Política de la República, ésta será entendida como otra elección, pudiendo aportar hasta setecientas unidades de fomento en la misma. En todo caso, el total de aportes que una misma persona podrá hacer a distintos candidatos o a un partido político en una misma elección no podrá exceder, del equivalente en pesos, de diez mil unidades de fomento.
+Podrán efectuar aportes a campañas electorales las personas que hayan cumplido 18 años de edad. No podrán efectuar aportes a candidato alguno o partido político los Consejeros del Servicio Electoral y sus funcionarios directivos, y las personas naturales que tengan nacionalidad extranjera y residan en el extranjero.
+
+Ninguna persona podrá aportar en una misma elección y a un mismo candidato las siguientes sumas en las situaciones que se indican:
+
+a) En el caso de candidatos a alcalde o concejal, una suma que exceda del diez por ciento del límite del gasto electoral fijado para la respectiva comuna. Si dicho porcentaje excede las doscientas cincuenta unidades de fomento, el aporte no podrá superar esta suma.
+
+b) Tratándose de candidatos a consejero regional, una suma que exceda de doscientas cincuenta unidades de fomento.
+
+c) En el caso de candidatos a diputado o senador, una suma que exceda de trescientas quince unidades de fomento.
+
+d) Tratándose de candidatos presidenciales, una suma que exceda de quinientas unidades de fomento.
+
+La situación prevista en el inciso segundo del artículo 26 de la Constitución Política de la República será entendida como otra elección, pudiendo la persona aportar en ella hasta ciento setenta y cinco unidades de fomento.
+
+El Servicio Electoral publicará, en la misma fecha que la ley determina para declarar candidaturas y precandidaturas, el máximo de aportes de origen privado permitido.
 
 Para los efectos de este artículo, se presumirá que el pago de los gastos electorales a que se refiere el Título I, efectuado directa o indirectamente a través de terceras personas, constituye aporte de campaña electoral sujeto a las mismas restricciones señaladas en los incisos precedentes.
 
-Los candidatos podrán destinar al financiamiento de los gastos electorales en que incurran su propio patrimonio, así como los sueldos, asignaciones u honorarios que perciban en el ejercicio de cualquier actividad lícita, sin sobrepasar lo establecido como límite de gasto electoral por esta ley.
+Los aportes personales que los mismos candidatos efectúen en sus propias campañas no podrán ser superiores al veinticinco por ciento del gasto electoral permitido, de conformidad a lo dispuesto en el artículo 4º. En el caso de las candidaturas a Presidente de la República, dichos montos no podrán ser superiores al veinte por ciento del gasto electoral permitido, de conformidad a lo dispuesto en el artículo 4º. En el caso de las candidaturas a concejales, dichos montos no podrán sobrepasar las cincuenta unidades de fomento o el veinticinco por ciento del límite de gasto autorizado, cuando este porcentaje sea equivalente a un monto inferior a cincuenta unidades de fomento. Con todo, deberán justificar fehacientemente su origen mediante la acreditación de la fuente de dichos aportes, tales como la venta u otro acto jurídico sobre bienes muebles o inmuebles, la suscripción de créditos, los giros en cuentas bancarias, la enajenación de títulos constitutivos de obligaciones en dinero y cualquiera otra alteración de su patrimonio personal destinada al financiamiento electoral. El monto total del aporte propio que se haya realizado se determinará una vez descontados los reembolsos efectuados según lo dispuesto en el artículo 15.
 
-Los candidatos y los partidos políticos podrán rechazar cualquier aporte de campaña electoral.
+Los candidatos y los partidos políticos podrán rechazar cualquier aporte de campaña electoral, dentro de los cinco días hábiles siguientes a la notificación de la comunicación del aporte. Transcurrido dicho plazo se entenderán aceptados.
+
+Con todo, ninguna persona podrá efectuar en una misma elección de alcaldes o concejales aportes por una suma superior a mil unidades de fomento o superior a dos mil unidades de fomento tratándose de una elección de diputados, una elección de senadores, una elección de consejeros regionales o una elección presidencial.
 
 #### Artículo 10
 
-Los aportes de campaña electoral que efectúen personas jurídicas con fines de lucro requerirán decisión expresa de quienes tengan las facultades de administración, de conformidad con los acuerdos que sobre esta materia haya adoptado previamente el órgano social competente.
-
-Si el órgano de administración resuelve que los aportes deban efectuarse bajo la forma de reserva establecida en el artículo 19, le estará prohibido a los administradores o representantes de la persona jurídica, divulgar la identidad del partido o candidato donatario.
+Derogado.
 
 #### Artículo 11
 
@@ -224,13 +240,17 @@ Durante la campaña electoral, el Estado financiará y reembolsará los gastos e
 
 Tratándose de candidaturas a Presidente de la República, el Fisco financiará, en los términos del artículo 15, los gastos de campaña electoral en que incurran los candidatos y los partidos políticos que presenten candidatos.
 
-El reembolso alcanzará a una suma que no excederá el equivalente, en pesos, a tres centésimos de unidad de fomento por voto obtenido por el candidato respectivo.
+El reembolso alcanzará a una suma que no excederá el equivalente, en pesos, a cuatro centésimos de unidad de fomento por voto obtenido por el candidato respectivo.
 
 En el caso de lo dispuesto en el artículo 26, inciso segundo, de la Constitución Política de la República, dicho reembolso será de un centésimo de unidad de fomento por voto obtenido por el candidato respectivo.
 
 #### Artículo 14
 
-Al inicio del período de campaña electoral, cada partido inscrito que presente candidatos a la respectiva elección de senadores, diputados, alcaldes, consejeros regionales o concejales, tendrá derecho a que el Estado pague en su favor una cantidad de dinero equivalente al número de sufragios obtenidos en la última elección de igual naturaleza, incluidos los independientes que hubieren ido en pacto o subpacto con él, multiplicado por el equivalente en pesos a diez milésimos de unidad de fomento. Aquellos partidos que no hubieren participado en la elección de igual naturaleza anterior tendrán derecho a recibir una cantidad igual a la que corresponda al partido político que hubiere obtenido en ella el menor número de sufragios. Tratándose de candidatos independientes, se prorrateará entre todos ellos un monto similar al que le corresponda al partido que hubiere obtenido en esa elección el menor número de votos. Se entenderá por elección de igual naturaleza, aquélla en que corresponda elegir los mismos cargos, y en las mismas circunscripciones, distritos o comunas. Las cantidades indicadas en el inciso primero serán pagadas directamente por el Fisco, dentro de los cinco días siguientes a la inscripción de las candidaturas en los registros a que se refieren los artículos 19 de la ley Nº 18.700, y 115 del decreto con fuerza de ley Nº 1-19.704, a los partidos y candidatos independientes fuera del pacto que corresponda. De las sumas recibidas se deberá rendir cuenta documentada por los Administradores Generales Electorales o por los Administradores Electorales, tratándose de candidatos independientes, de conformidad con las normas previstas en el Título III de esta ley.
+Al inicio del período de campaña electoral, cada partido inscrito que presente candidatos a la respectiva elección de senadores, diputados, alcaldes, consejeros regionales o concejales, tendrá derecho a que el Estado pague en su favor una cantidad de dinero equivalente al número de sufragios obtenidos en la última elección de igual naturaleza, incluidos los independientes que hubieren ido en pacto o subpacto con él, multiplicado por el equivalente en pesos a veinte milésimos de unidad de fomento. Aquellos partidos que no hubieren participado en la elección de igual naturaleza anterior tendrán derecho a recibir una cantidad igual a la que corresponda al partido político que hubiere obtenido en ella el menor número de sufragios. Tratándose de candidatos independientes, se prorrateará entre todos ellos un monto similar al que le corresponda al partido que hubiere obtenido en esa elección el menor número de votos. Se entenderá por elección de igual naturaleza, aquélla en que corresponda elegir los mismos cargos, y en las mismas circunscripciones, distritos o comunas. Las cantidades indicadas en el inciso primero serán pagadas directamente por el Fisco, dentro de los cinco días siguientes a la inscripción de las candidaturas en los registros a que se refieren los artículos 19 de la ley Nº 18.700, y 115 del decreto con fuerza de ley Nº 1-19.704, a los partidos y candidatos independientes fuera del pacto que corresponda. De las sumas recibidas se deberá rendir cuenta documentada por los Administradores Generales Electorales o por los Administradores Electorales, tratándose de candidatos independientes, de conformidad con las normas previstas en el Título III de esta ley.
+
+Ningún partido político podrá contratar servicios con empresas que hayan sido condenadas por prácticas antisindicales o infracción de los derechos fundamentales del trabajador dentro de los dos años anteriores a la elección.
+
+Del mismo modo, no podrán contratar con empresas sancionadas, dentro del mismo plazo señalado en el inciso anterior, por infracción del decreto ley Nº 211, de 1973, que Fija Normas para la Defensa de la Libre Competencia, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
 
 #### Artículo 14 bis
 
@@ -238,7 +258,7 @@ Los endosos se regirán bajo las reglas generales aplicables a éstos.
 
 Los candidatos podrán ceder su derecho a reembolso a sus partidos cuando éstos hubieren asumido el pago correspondiente a los proveedores por bienes y servicios prestados en la campaña electoral.
 
-Los candidatos y los partidos políticos que contraten créditos con instituciones del sistema financiero, registradas ante la Superintendencia de Bancos e Instituciones Financieras, podrán otorgar a éstas un mandato por el cual el Servicio Electoral autorizará el pago de los créditos con el reembolso que se determine, ciñéndose al efecto a las instrucciones que dicte el Director del Servicio Electoral. Para ello, el Administrador Electoral o el Administrador General Electoral respectivo, deberán acreditar la obtención del crédito y la efectividad del uso de éste en la campaña electoral.
+Los candidatos y los partidos políticos que contraten créditos con instituciones del sistema financiero, registradas ante la Superintendencia de Bancos e Instituciones Financieras, podrán otorgar a éstas un mandato por el cual el Servicio Electoral autorizará el pago de los créditos con el reembolso que se determine, ciñéndose al efecto a las instrucciones que dicte el Consejo Directivo del Servicio Electoral. Para ello, el Administrador Electoral o el Administrador General Electoral respectivo, deberán acreditar la obtención del crédito y la efectividad del uso de éste en la campaña electoral.
 
 Lo dispuesto en los dos incisos precedentes deberá ser comunicado al Servicio Electoral para su pago preferente, en conformidad al procedimiento del artículo siguiente.
 
@@ -246,7 +266,7 @@ Lo dispuesto en los dos incisos precedentes deberá ser comunicado al Servicio E
 
 Finalizado el proceso electoral, y rendidas las cuentas a que se refiere el Título III de esta ley, el Fisco reembolsará a los candidatos, a los candidatos independientes que no estuvieren incluidos en un pacto o subpacto y a los partidos, los gastos electorales en que hubieren incurrido durante la campaña, de conformidad con las reglas que se indican a continuación.
 
-Dentro de los veinte días siguientes a la resolución del Director del Servicio Electoral que tiene por aprobada la cuenta de ingresos y gastos que presente el Administrador Electoral o el candidato, en su caso, el Servicio Electoral autorizará la devolución de los gastos en que hubieren incurrido los candidatos por una suma que no podrá exceder del equivalente, en pesos, a tres centésimos de unidad de fomento, multiplicado por el número de sufragios obtenidos por ellos en la respectiva elección. Esta devolución se hará directamente a los candidatos o partidos políticos, mediante el reembolso de los gastos que no hayan sido financiados por otro tipo de aportes, una vez aprobada la cuenta, lo que deberá ser acreditado mediante la presentación de facturas o boletas pendientes de pago.
+Dentro de los veinte días siguientes a la resolución del Director del Servicio Electoral que tiene por aprobada la cuenta de ingresos y gastos que presente el Administrador Electoral o el candidato, en su caso, el Servicio Electoral autorizará la devolución de los gastos en que hubieren incurrido los candidatos por una suma que no podrá exceder del equivalente, en pesos, a cuatro centésimos de unidad de fomento, multiplicado por el número de sufragios obtenidos por ellos en la respectiva elección. Esta devolución se hará directamente a los candidatos o partidos políticos, mediante el reembolso de los gastos que no hayan sido financiados por otro tipo de aportes, una vez aprobada la cuenta, lo que deberá ser acreditado mediante la presentación de facturas o boletas pendientes de pago.
 
 Si el total de los gastos rendidos por el Administrador Electoral, o el candidato en su caso, fuere inferior a la suma que resulte de la aplicación de la regla indicada en el inciso anterior, la devolución de gastos se ajustará a los efectivamente realizados.
 
@@ -258,6 +278,8 @@ Si la suma a que se refiere el inciso anterior hubiere sido inferior a la que en
 
 Será condición esencial para el envío de la autorización de pagos por parte del Servicio Electoral a la Tesorería General de la República, que la cuenta se encuentre aprobada y que los resultados de la elección estén calificados.
 
+No se procederá al reembolso que regula este artículo, respecto de los montos que estén en disputa, mientras existan procedimientos sancionatorios administrativos o penales pendientes en contra del candidato o del partido, o se hagan efectivos contra estos los derechos de repetición que regula el artículo 32 de la ley Nº 18.700. Una vez determinadas las multas mediante resolución o sentencia firme, la Tesorería General de la República las hará efectivas en los montos adeudados.
+
 #### Artículo 15 bis
 
 Si por aplicación de lo dispuesto en el inciso tercero del artículo anterior quedare un remanente de devolución que el candidato no pudiere percibir por cualquier causa, dichos remanentes pasarán al partido que hubiere declarado al candidato, hasta la suma que corresponda a los gastos en que el partido hubiere incurrido efectivamente, y siempre que la cuenta general respectiva del partido se encuentre aprobada.
@@ -268,69 +290,57 @@ De la transparencia del financiamiento
 
 #### Artículo 16
 
-Los aportes de campaña electoral serán anónimos, reservados o públicos, de conformidad con lo que se señala en los artículos siguientes.
+Todos los aportes a que se refiere el artículo 9º constarán por escrito, consignarán el nombre completo y número de cédula de identidad del aportante y deberán efectuarse únicamente a través del sistema de recepción de aportes del Servicio Electoral, por medio de transferencia electrónica o depósito bancario y, salvo aquellos señalados en el artículo siguiente, serán públicos.
+
+Cada candidato y partido político, para recibir los aportes por medio del sistema aludido en el inciso anterior, deberá autorizar al Director del Servicio Electoral a abrir una cuenta bancaria única a su nombre y cargo, autorizando irrevocablemente a dicho Director a tomar conocimiento, en cualquier momento y a su solo requerimiento, de todos y cada uno de los movimientos que esta cuenta registre, de conformidad a lo señalado en inciso primero del artículo 154 del decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican. Esta cuenta tendrá como objeto exclusivo recibir los aportes de campaña canalizados a través del Servicio Electoral, mediante el sistema de recepción de aportes y, con cargo a tales fondos, cubrir los gastos electorales.
+
+Las cuentas bancarias aperturadas para la recepción de aportes de campaña solamente podrán recibir depósitos o transferencias efectuadas por el Servicio Electoral y no podrán tener líneas de crédito asociadas. Se incluyen entre los depósitos y transferencias los créditos contratados por los candidatos y los partidos políticos conforme al artículo 14 bis de esta ley, los que también serán canalizados por el Servicio Electoral a través del sistema de recepción de aportes.
+
+Los fondos contenidos en las cuentas bancarias aperturadas para la recepción de aportes de campaña serán inembargables.
+
+Los aportes que se efectúen mediante transferencias electrónicas se harán a la cuenta del Servicio Electoral, de acuerdo al sistema de recepción de aportes de dicho Servicio. Tratándose de depósitos bancarios, deberán efectuarse en la cuenta del Servicio Electoral, de conformidad a las instrucciones que imparta dicho Servicio y utilizando el formulario que para el efecto dispondrá este Servicio, en el cual se deberá dejar constancia de la identificación de los aportantes, indicando su número de cédula de identidad, y de los destinatarios de tales aportes. El Servicio Electoral dispondrá los medios necesarios para resguardar que mediante su sistema de recepción de aportes se respeten las reglas y límites previstos en los artículos 9º y 17. Los aportes recibidos y acreditados por el Servicio Electoral deberán ser comunicados al candidato o partido político, según corresponda, señalando la identidad del aportante y el monto del aporte, dentro de los dos días hábiles siguientes a su recepción y acreditación.
+
+El candidato o partido político deberá abstenerse de realizar movimientos en la cuenta bancaria única desde la presentación de la cuenta a que alude el artículo 41 y hasta la aprobación o rechazo definitivos de la misma, luego de lo cual el Director del Servicio Electoral deberá proceder al cierre de dicha cuenta bancaria única.
 
 #### Artículo 17
 
-Podrán ser anónimos todos los aportes privados en dinero cuyo importe no supere el equivalente en pesos a veinte unidades de fomento. No obstante, cualquier aportante podrá solicitar se consigne su identidad y el monto de su contribución.
+Los aportantes podrán solicitar al Servicio Electoral mantener sin publicidad su identidad, tratándose únicamente de aportes menores cuyo monto no supere cuarenta unidades de fomento para las candidaturas a Presidente de la República; veinte unidades de fomento para las candidaturas a senador y diputado; quince unidades de fomento para las candidaturas a alcalde y a consejero regional; y diez unidades de fomento para las candidaturas a concejal.
 
-En todo caso, durante el período de campaña electoral, ningún candidato o partido político podrá recibir, por concepto de aportes anónimos, más del veinte por ciento del límite de gastos electorales definido en esta ley.
+Estos aportes menores sin publicidad de la identidad del aportante no podrán ser, en total, superiores a ciento veinte unidades de fomento para un mismo tipo de elección. El Servicio Electoral fiscalizará que ninguna persona sobrepase los montos máximos establecidos en este artículo. Asimismo, los funcionarios del Servicio Electoral deberán mantener reserva de la identidad de los aportantes, sin perjuicio de lo dispuesto en el inciso quinto del artículo 16, y les serán aplicables las normas sobre secreto bancario contenidas en el artículo 154 de la ley General de Bancos y lo dispuesto en los artículos 246 y 247 del Código Penal.
+
+Ningún candidato o partido político, durante el período de campaña electoral, podrá recibir, por concepto de aportes menores sin publicidad de la identidad del aportante, más del veinte por ciento del límite de gastos electorales definido en esta ley.
+
+Con todo, los montos aportados no podrán superar los límites que establece el artículo 9º.
 
 #### Artículo 18
 
-Todo aporte que supere el monto indicado en el artículo anterior y que represente menos del diez por ciento del total de gastos que la ley autoriza a un candidato o partido político, tendrá el carácter de reservado, siempre y cuando no exceda de seiscientas unidades de fomento para un candidato a alcalde, consejero regional o concejal; de ochocientas unidades de fomento para un candidato a diputado o senador; y de mil quinientas unidades de fomento para un candidato presidencial o de tres mil unidades de fomento para un partido político o el conjunto de sus candidatos en la respectiva elección.
-
-Sin embargo, cualquier aportante tendrá el derecho de solicitar que se consigne su identidad y el monto de su contribución.
+Derogado.
 
 #### Artículo 19
 
-Los aportes a que se refiere el artículo anterior se realizarán directamente en una cuenta única que deberá mantener al efecto el Servicio Electoral. El donante recibirá del Servicio Electoral, una vez que los fondos hayan quedado acreditados en la referida cuenta corriente, un certificado, que a solicitud del donante deberá ser electrónico, de la donación que sólo acreditará el monto total donado. El Servicio establecerá un sistema electrónico mediante el cual el donante pueda destinar su aporte a uno o más candidatos o partidos, dentro de los límites establecidos en la presente ley y hasta el monto de su donación. Para destinar su aporte, el donante que sea persona natural y que esté imposibilitado de concurrir al Servicio, podrá efectuarlo mediante mandato especial autorizado ante notario. La destinación de los aportes hechos por personas jurídicas sólo podrá hacerse por mandato especial. El sistema electrónico que establezca el Servicio deberá, además, asegurar tanto la reserva de la identidad del donante, como garantizar que éste no obtendrá documento alguno que permita identificar su donación ante el donatario o terceros. El Servicio Electoral deberá iniciar la transferencia electrónica, el primer día hábil de cada semana, a la cuenta designada por el respectivo Administrador Electoral, de la suma de los aportes que les hayan sido destinados en la semana anterior. Una fracción aleatoria de dicha suma, que no podrá ser superior a 30%, no será transferida de inmediato y sólo se tendrá por destinada en dicho día, con el objeto de ser transferida a partir del primer día hábil de la semana siguiente. El Director del Servicio definirá modelos matemáticos para determinar la fracción aleatoria con el fin de que la transferencia a los Administradores Electorales de los montos destinados ocurra con la mayor celeridad que sea compatible con su obligación de asegurar la reserva de la identidad del donante.
-
-Las normas sobre secreto bancario contenidas en el artículo 154 de la Ley General de Bancos, le serán aplicables a los funcionarios del Servicio Electoral.
-
-Las cuentas bancarias a las cuales se transferirán los aportes reservados, deberán corresponder al candidato que tenga el carácter de titular de las mismas.
-
-> **Nota.** El Nº 12 letra a) del artículo 1º de la LEY 20053, publicada el 06.09.2005, ordena eliminar la su parte final del presente inciso, a partir de la frase "Una fracción aleatoria de dicha suma", frase que no aparece en el inciso mencionado.
+Derogado.
 
 #### Artículo 20
 
-Los aportes que no tengan el carácter de anónimos o reservados de conformidad con lo establecido por los artículos 17 y 18, serán públicos.
-
-Para los efectos de determinar si las donaciones hechas a los candidatos o a los partidos o al conjunto de los candidatos de un partido deban ser públicas, deberán sumarse todas las donaciones hechas por el mismo donante al mismo candidato o partido o conjunto de candidatos de un mismo partido, en la misma elección.
-
-El Servicio Electoral determinará la forma en que las donaciones se harán públicas.
+Derogado.
 
 #### Artículo 21
 
-Tendrán el carácter de públicos los aportes mensuales que reciban los partidos políticos fuera del período señalado en el artículo 3º, cuando éstos sean de un monto igual o superior a las cien unidades de fomento por cada aportante.
-
-Los aportes mensuales cuyo importe, por aportante, sea superior a veinte unidades de fomento e inferior a cien unidades de fomento tendrán el carácter de reservados, y se aplicará a su respecto lo previsto en el artículo 19, debiendo el Servicio, para estos efectos, hacer las transferencias en las cuentas que indiquen los respectivos tesoreros de los partidos políticos.
-
-Para los efectos de la recaudación de aportes, en el período indicado en el inciso anterior, los partidos políticos podrán formar entidades recaudadoras, cuyo único giro será el de la recaudación de donaciones y cotizaciones, con el objeto de ponerlas a disposición del partido que las hubiere formado, para el pago de sus gastos normales de funcionamiento.
-
-Estas entidades se constituirán por el solo hecho de inscribirse en el Servicio Electoral por el partido correspondiente, su vigencia será indefinida, y en todo caso se extinguirá conjuntamente con la resolución que disponga la cancelación de la inscripción del partido en el Registro de Partidos Políticos. En todo caso, el partido respectivo deberá hacer publicar en el Diario Oficial un certificado emitido por el Director del Servicio Electoral en que conste la fecha de su constitución.
+También serán públicos los aportes mensuales que reciban los partidos políticos fuera del período señalado en el artículo 3º.
 
 El tesorero del respectivo partido tendrá, por el solo ministerio de la ley, la representación de la entidad recaudadora, con las facultades de administración que le acuerde la directiva central del partido.
 
-La recaudación de los aportes a que se refiere este artículo, y que no tengan carácter de reservados, se hará directamente al partido o a la entidad recaudadora, si la hubiera, dando recibo de ellos. Los recibos se otorgarán en formularios timbrados por el Servicio Electoral, de acuerdo con el formato que éste, por resolución que se publicará en el Diario Oficial, determine.
+La recaudación de los aportes se hará directamente al partido, dando recibo de ellos. Los recibos se otorgarán en formularios timbrados por el Servicio Electoral, de acuerdo con el formato que éste, por resolución que se publicará en el Diario Oficial, determine.
 
-Los partidos políticos, o la entidad recaudadora, en su caso, deberán informar mensualmente al Servicio Electoral, acerca de las donaciones que hubieren recibido y que deban ser públicas. La infracción a lo establecido en este inciso, será sancionada con multa a beneficio fiscal del triple de las cantidades no informadas.
+Los partidos políticos deberán informar mensualmente al Servicio Electoral, acerca de las donaciones que hubieren recibido. La infracción a lo establecido en este inciso, será sancionada con multa a beneficio fiscal del triple de las cantidades no informadas.
 
 #### Artículo 21 bis
 
-Los aportes que reciban los institutos de formación política inscritos por los partidos políticos ante el Servicio Electoral, serán públicos, siempre que excedan de cien unidades de fomento mensuales por cada aportante.
-
-Los aportes mensuales cuyo importe, por aportante, sea superior a veinte unidades de fomento e inferior a cien unidades de fomento tendrán el carácter de reservados, y se aplicará a su respecto lo previsto en el artículo 19, debiendo el Servicio Electoral, para estos efectos, hacer las transferencias en las cuentas que indiquen los representantes del respectivo instituto.
-
-La recaudación de los aportes a que se refiere este artículo, y que no tengan carácter de reservados, se harán directamente al instituto de formación política que corresponda, dando recibo de ellos. Los recibos se otorgarán en la forma establecida en el inciso sexto del artículo anterior.
-
-Para los efectos de este artículo, cada partido político podrá inscribir sólo un instituto de formación política.
+Los ingresos que reciban los institutos de formación política inscritos por los partidos políticos ante el Servicio Electoral serán siempre públicos. Estos solo podrán ser concedidos a dichos institutos, tanto por partidos políticos como por personas naturales. En el primer caso, deberá constar el detalle de los aportes en la cuenta mensual que los partidos deban rendir ante el Servicio Electoral, de conformidad al Título V de la ley Nº 18.603, Orgánica Constitucional de los Partidos Políticos. En el segundo caso, podrán aportar hasta veinte unidades de fomento mensuales y el instituto receptor de los aportes deberá informar al partido sobre la concesión de estos y su monto. El partido a cargo del instituto de formación política deberá informar al Servicio Electoral en un plazo de diez días hábiles contado desde la recepción de los aportes, y deberá rendirlos de conformidad a lo dispuesto en el Título V de la citada ley.
 
 #### Artículo 22
 
-Para los efectos de lo dispuesto en los artículos 20 y 21, los aportes que deban ser públicos constarán por escrito, consignándose la identidad del aportante.
-
-Se entenderá que hay constancia escrita cuando el aporte aparezca consignado en una boleta, factura, comprobante de depósito en cuenta corriente, recibo de dinero o cualquier otro documento de similar naturaleza.
+Derogado.
 
 #### Artículo 23
 
@@ -344,19 +354,31 @@ De las prohibiciones
 
 Prohíbense los aportes de campaña electoral provenientes de personas naturales o jurídicas extranjeras, con excepción de los efectuados por extranjeros habilitados legalmente para ejercer en Chile el derecho a sufragio.
 
+#### Artículo 24 bis
+
+Se prohíbe a los precandidatos y candidatos efectuar, con ocasión de la campaña electoral, y fuera de lo dispuesto en el artículo 2º, erogaciones o donaciones en dinero, o en especies, en favor de organizaciones o de personas jurídicas o de personas naturales distintas de su cónyuge o parientes.
+
 #### Artículo 25
 
-Sin perjuicio de lo dispuesto en el Párrafo 2º de este Título, los candidatos y partidos políticos no podrán recibir, directa o indirectamente, aportes de campaña electoral de los órganos de la Administración del Estado, de las empresas del Estado, ni de aquéllas en que éste, sus empresas, sociedades o instituciones tengan participación.
-
-Se prohíben, también, los aportes de campaña electoral provenientes de toda persona jurídica que reciba subvenciones o aportes del Estado, siempre que dichas subvenciones o aportes representen más del quince por ciento de sus ingresos en cualquiera de los dos últimos años calendarios, como también de aquellas que contraten con él o sus órganos la provisión de bienes, la prestación de servicios o la realización de obras, si los montos a que ascendieren los contratos respectivos representan un porcentaje superior al cuarenta por ciento del total de su facturación anual en el respectivo año calendario o en alguno de los dos años calendarios precedentes. Dicha prohibición afectará también a las personas jurídicas que, durante la campaña electoral, se encuentren postulando a licitaciones públicas o privadas con algunos de los organismos a que se refieren los incisos precedentes, siempre y cuando el monto de la licitación represente un porcentaje superior al cuarenta por ciento del total de su facturación anual en cualquiera de los dos años calendario inmediatamente anteriores. Su incumplimiento significará su eliminación del proceso licitatorio que esté en curso o la terminación anticipada del contrato que se encuentre vigente, según corresponda. Para efectos del control de estas prohibiciones, las personas jurídicas deberán estar inscritas en el Registro de Contratistas dispuesto en el artículo 16 de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios. A requerimiento del Servicio Electoral, estas personas jurídicas y los servicios públicos deberán proporcionar al Servicio todos los antecedentes de que requiera para estimar el porcentaje de la facturación anual o bianual que esta ley considera. Si tales porcentajes fueren superados, el Servicio Electoral comunicará esta situación a los órganos de la Administración del Estado, para lo cual podrá utilizar el sistema de información a que se refiere la aludida ley, para que éstos cumplan con el mandato dispuesto en la parte final del inciso tercero del artículo precitado.
+Sin perjuicio de lo dispuesto en el título V de la ley Nº 18.603, así como en el párrafo 2º de este Título, los precandidatos, los candidatos y partidos políticos no podrán recibir, directa o indirectamente, aportes de campaña electoral de los órganos de la Administración del Estado, de las empresas del Estado, ni de aquellas en que este, sus empresas, sociedades o instituciones tengan participación.
 
 #### Artículo 26
 
-No podrán efectuar aportes de campaña electoral las personas jurídicas de derecho público, o privado sin fines de lucro, con excepción de los partidos políticos.
+No podrán efectuar aportes para campaña electoral las personas jurídicas de derecho público o derecho privado, con excepción de los que realicen los partidos políticos y el Fisco, en la forma en que lo autoriza la ley.
+
+Se considerará aporte todo desembolso o contribución avaluable en dinero y, tratándose de contratos onerosos, las diferencias manifiestas entre el valor de la contraprestación y el precio de mercado.
+
+No se considerará aporte de personas jurídicas la facilitación gratuita de inmuebles de propiedad de personas jurídicas sin fines de lucro destinados habitual y gratuitamente a encuentros de la comunidad, para la realización de actividades propias de campaña. Este uso deberá ser autorizado por escrito por el representante legal de la entidad respectiva, debiendo enviarse copia de esta al Servicio Electoral por el partido, candidato o sus administradores electorales.
 
 #### Artículo 27
 
 Los funcionarios públicos no podrán realizar actividad política dentro del horario dedicado a la Administración del Estado, ni usar su autoridad, cargo o bienes de la institución para fines ajenos a sus funciones.
+
+Del mismo modo, se prohíbe a los funcionarios públicos utilizar bases de datos o cualquier medio a que tengan acceso en virtud de su cargo para fines políticos electorales.
+
+Los Ministros de Estado, Subsecretarios, Intendentes, Gobernadores, Jefes Superiores de Servicio, Jefes de División, Jefes de Departamento, Directores Regionales de Servicios Nacionales, Alcaldes o Directores de Departamentos Municipales no podrán, con ocasión del ejercicio de su cargo, ordenar ni incentivar a los funcionarios bajo su dependencia a promover, por medio de aportes o de cualquier modo, a candidatos o campañas electorales.
+
+Las contravenciones a este artículo se considerarán una infracción grave al principio de probidad.
 
 ### Párrafo 5º
 
@@ -378,7 +400,29 @@ La multa será aplicada por el Director del Servicio Electoral.
 
 Las infracciones a las normas del Párrafo 2° que cometan los candidatos o partidos políticos, serán sancionadas con multa a beneficio fiscal equivalente al triple de las sumas indebidamente recibidas, sin perjuicio de las sanciones que les correspondan a ellos o a sus representantes por delitos en que hubieren incurrido.
 
-Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a cincuenta unidades tributarias mensuales.".
+Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a cincuenta unidades tributarias mensuales.
+
+Tratándose de personas jurídicas, serán sancionadas con multa equivalente al triple del monto ilegalmente aportado.
+
+#### Artículo 27 bis
+
+El que otorgue u obtenga aportes para candidaturas o partidos políticos, de aquellos regulados por esta ley y por la ley Nº 18.603, cuyo monto excediere en un cuarenta por ciento lo permitido por la ley, sea de manera individual o en el conjunto de los aportes permitidos, será castigado con presidio menor en sus grados mínimo a medio y multa equivalente al triple de lo otorgado u obtenido.
+
+Tratándose de aportes otorgados u obtenidos por o de una persona jurídica, con infracción a lo que dispone el artículo 26, se impondrá la pena señalada en el inciso anterior, sin importar el monto del aporte, aplicándose lo dispuesto en el inciso segundo del artículo 58 del Código Procesal Penal. No obstante, excepcionalmente y siempre que se trate de aportes aislados en los que no hay habitualidad y cuyo monto global sea inferior a cincuenta unidades de fomento, el Servicio Electoral podrá no presentar denuncia o querella respecto de tales hechos, sin perjuicio de la sanción administrativa que corresponda.
+
+El ofrecimiento o la solicitud de los aportes sancionados por los incisos anteriores serán castigados con multa equivalente al doble de lo ofrecido o solicitado.
+
+El que utilice los aportes o fondos obtenidos del Fisco, en virtud de lo que prescribe la ley Nº 18.603, orgánica constitucional de los Partidos Políticos, en una finalidad distinta a la cual están destinados, será castigado con presidio menor en su grado medio.
+
+#### Artículo 27 ter
+
+El administrador electoral, el administrador general electoral o el administrador general de fondos de un partido político que, a sabiendas, en sus rendiciones de cuentas al Servicio Electoral proporcione antecedentes falsos o certifique hechos falsos, será sancionado con la pena de presidio menor en su grado máximo.
+
+#### Artículo 27 quáter
+
+Las investigaciones de los delitos descritos en los artículos 27 bis y 27 ter solo podrán ser iniciadas por denuncia o querella del Servicio Electoral, sin perjuicio del derecho de toda persona de denunciar dichas infracciones ante el mencionado Servicio.
+
+Los juzgados de garantía y los tribunales del juicio oral en lo penal deberán remitir al Consejo Directivo del Servicio Electoral las sentencias firmes y ejecutoriadas que condenen a personas por los delitos previstos en la letra b) del artículo 28 bis de esta ley, en un plazo de cinco días hábiles desde que se encuentren en dicho estado.
 
 #### Artículo 28
 
@@ -393,6 +437,20 @@ Las investigaciones y sumarios administrativos que al efecto instruya la Contral
 Sin perjuicio de los recursos administrativos o acciones judiciales que les asistan a los funcionarios infractores, la medida disciplinaria propuesta por la Contraloría General de la República será comunicada al afectado, a la autoridad superior del servicio y a la autoridad competente para aplicar la sanción respectiva.
 
 La autoridad no podrá modificar la sanción administrativa propuesta por el órgano contralor, sino a través de una resolución fundada sujeta al trámite de toma de razón.
+
+#### Artículo 28 bis
+
+Se considerarán infracciones graves a las normas sobre transparencia, límites y control del gasto electoral, las siguientes:
+
+a) Haber sobrepasado en un veinticinco por ciento el límite al gasto electoral permitido por esta ley, siempre que dicho porcentaje sea superior a cien unidades de fomento.
+
+b) Resultar condenado por los delitos previstos en los incisos primero, segundo y cuarto del artículo 27 bis; del artículo 27 ter y en el inciso primero del artículo 137 de la ley Nº 18.700.
+
+Corresponderá al Consejo Directivo del Servicio Electoral determinar que se ha verificado la infracción señalada en la letra a) precedente.
+
+Cuando el Consejo Directivo determine que se ha verificado una infracción grave, deberá remitir su resolución y los antecedentes al Tribunal Calificador de Elecciones para los efectos previstos en los artículos 60 y 125 de la Constitución Política de la República. Con este mismo objeto, el Consejo Directivo del Servicio Electoral remitirá al Tribunal Calificador de Elecciones las sentencias firmes y ejecutoriadas que condenen a personas por los delitos referidos en la letra b) del inciso primero, dentro de los tres días hábiles siguientes a aquel en que tome conocimiento de ellas.
+
+El Tribunal Calificador de Elecciones conocerá de estas infracciones graves a través de un procedimiento racional y justo, regulado en la forma que establece la ley Nº 18.460, debiendo pronunciar su sentencia previa vista de la causa y dentro del plazo de los diez días hábiles siguientes.
 
 ## Título III
 
@@ -412,11 +470,11 @@ Todo candidato a Presidente de la República, a senador o a diputado, deberá no
 
 Una misma persona podrá ejercer como Administrador Electoral para más de un candidato, siempre que las respectivas candidaturas hayan sido declaradas por un mismo partido político o pacto.
 
-El nombramiento de éste deberá efectuarse ante el Director del Servicio Electoral, al momento de la declaración de la correspondiente candidatura o en la declaración jurada a que se refiere el inciso segundo del artículo 3° de la ley N° 18.700.
+El nombramiento de éste deberá efectuarse ante el Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral, al momento de la declaración de la correspondiente candidatura o en la declaración jurada a que se refiere el inciso segundo del artículo 3° de la ley N° 18.700.
 
 La designación se formalizará por escrito, indicándose el nombre, cédula de identidad y domicilio del respectivo Administrador, quien deberá también suscribir este documento en señal de aceptación del cargo.
 
-Este nombramiento podrá ser dejado sin efecto en cualquier momento mediante comunicación del candidato correspondiente al Director del Servicio Electoral, sin perjuicio de lo dispuesto en el inciso primero del artículo 37.
+Este nombramiento podrá ser dejado sin efecto en cualquier momento mediante comunicación del candidato correspondiente al Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral, sin perjuicio de lo dispuesto en el inciso primero del artículo 37.
 
 #### Artículo 31
 
@@ -486,7 +544,7 @@ corresponda.
 
 Cualquier militante del respectivo partido político en las elecciones de Presidente de la República, de senadores, de diputados y de alcaldes, consejeros regionales y concejales, podrá ejercer el cargo de Administrador Electoral General.
 
-El nombramiento de éste deberá efectuarse por el partido político ante el Director del Servicio Electoral de conformidad a lo establecido en el inciso cuarto del artículo 30, en forma previa a las declaraciones de candidaturas.
+El nombramiento de éste deberá efectuarse por el partido político ante el Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral de conformidad a lo establecido en el inciso cuarto del artículo 30, en forma previa a las declaraciones de candidaturas.
 
 #### Artículo 33
 
@@ -496,13 +554,15 @@ a) Llevar contabilidad simplificada de los ingresos y gastos electorales del res
 
 b) Conservar, por el plazo de un año, la documentación relativa a los gastos electorales del partido político y los comprobantes de los aportes privados, cuando proceda, y requerir de los Administradores Electorales la información y documentación que corresponda a cada candidatura a su cargo.
 
-c) Remitir al Director del Servicio Electoral, en la forma y plazo establecidos en la presente ley, la información contable y la documentación relativa a los ingresos y gastos electorales del respectivo partido político, como asimismo las correspondientes a la totalidad de las candidaturas inscritas en representación del partido.
+c) Remitir al Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral, en la forma y plazo establecidos en la presente ley, la información contable y la documentación relativa a los ingresos y gastos electorales del respectivo partido político, como asimismo las correspondientes a la totalidad de las candidaturas inscritas en representación del partido.
 
 d) Mantener reserva de los antecedentes que, en tal carácter, reciba en el ejercicio de su cargo.
 
+e) Velar porque todo gasto efectuado en la campaña electoral sea publicado en el sitio electrónico que deberá llevar al efecto cada partido político.
+
 #### Artículo 34
 
-Sólo podrán ser Administradores Electorales y Administradores Generales Electorales los ciudadanos con derecho a sufragio. No obstante, no podrán ejercer ninguno de estos cargos quienes sean candidatos en una misma elección o en elecciones distintas pero efectuadas en un mismo acto eleccionario.
+Sólo podrán ser Administradores Electorales y Administradores Generales Electorales los ciudadanos con derecho a sufragio. No obstante, no podrán ejercer ninguno de estos cargos quienes hayan sido condenados por delitos tributarios o contra la fe pública, o sean candidatos en una misma elección o en elecciones distintas pero efectuadas en un mismo acto eleccionario.
 
 Tampoco podrán ejercer estos cargos los directores, gerentes y ejecutivos superiores de empresas del Estado o de aquéllas en que éste tenga participación mayoritaria, las autoridades de la Administración del Estado, los funcionarios públicos ni los alcaldes.
 
@@ -518,7 +578,7 @@ Las nóminas de los Administradores Electorales y de los Administradores General
 
 #### Artículo 37
 
-En caso de fallecimiento, renuncia, remoción o rechazo del nombramiento por parte del Servicio Electoral en los casos señalados en el artículo 34 de esta ley. de un Administrador Electoral, el candidato deberá nombrar a otro en su reemplazo, en la forma establecida para el nombramiento original. Los reemplazos sólo podrán verificarse hasta el tercer día posterior a la elección.
+En caso de fallecimiento, renuncia notificada al candidato e informada al Director del Servicio Electoral, remoción o rechazo del nombramiento por parte del Servicio Electoral en los casos señalados en el artículo 34 de esta ley de un Administrador Electoral, el candidato deberá nombrar a otro en su reemplazo, en la forma establecida para el nombramiento original. Los reemplazos sólo podrán verificarse hasta el tercer día posterior a la elección.
 
 Si el candidato no formalizare el reemplazo dentro de quinto día desde la fecha en que tuvo conocimiento de su fallecimiento o renuncia, o desde que lo removió del cargo, las funciones de administrador recaerán en el propio candidato.
 
@@ -540,7 +600,7 @@ Serán aplicables a los Administradores Electorales y a los Administradores Gene
 
 #### Artículo 40
 
-Los Administradores Electorales y los Administradores Generales Electorales, en su caso, deberán registrar todos los aportes en dinero, especies o servicios que se destinen a una campaña electoral o se reciban para el financiamiento de los gastos electorales, debidamente valorizados.
+Los Administradores Electorales y los Administradores Generales Electorales, en su caso, deberán registrar todos los aportes en dinero, especies o servicios que se destinen a una campaña electoral o se reciban para el financiamiento de los gastos electorales, debidamente valorizados. Este registro se encontrará a disposición del público en el sitio electrónico que para el efecto deberá llevar cada partido.
 
 ### Párrafo 3º
 
@@ -548,7 +608,7 @@ De la presentación y control de la contabilidad electoral
 
 #### Artículo 41
 
-Dentro de los treinta días siguientes a una elección presidencial, parlamentaria o municipal, los Administradores Generales Electorales deberán presentar al Director del Servicio Electoral una cuenta general de los ingresos y gastos electorales directamente recibidos y efectuados por el respectivo partido político.
+Dentro de los treinta días siguientes a una elección presidencial, parlamentaria o municipal, los Administradores Generales Electorales deberán presentar al Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral una cuenta general de los ingresos y gastos electorales directamente recibidos y efectuados por el respectivo partido político.
 
 Asimismo, y conjuntamente, deberán presentar una cuenta general de los ingresos y gastos electorales de la totalidad de los candidatos inscritos en representación del partido político correspondiente, que hubieren sido enviados por los Administradores Electorales.
 
@@ -560,19 +620,23 @@ La presentación de cuentas referidas en los incisos precedentes, podrá realiza
 
 #### Artículo 42
 
-El Director del Servicio Electoral deberá pronunciarse respecto de la cuenta de ingresos y gastos dentro de los treinta días siguientes de expirado el plazo a que se refiere el inciso primero del artículo anterior. Si el Director del Servicio estimare necesario un examen más acabado de los antecedentes presentados, podrá prorrogar dicho plazo, una vez, y hasta por un máximo de quince días. Vencidos estos plazos, sin que el Director del Servicio se hubiere pronunciado sobre la cuenta, ésta se entenderá aprobada. Trátandose de los actos eleccionarios regulados por la ley Nº 18.695, Orgánica Constitucional de Municipalidades, el plazo de análisis de la cuenta será de sesenta días. En los casos en que se establezca la existencia de gastos electorales no declarados, corresponderá al Director del Servicio Electoral determinar la cuantía de los mismos. Lo anterior no obstará a la aplicación, si procediere, de lo dispuesto en los artículos siguientes del presente Párrafo.
+El Director del Servicio Electoral se pronunciará respecto de la cuenta de ingresos y gastos electorales dentro de los cuarenta y cinco días siguientes de expirado el plazo a que se refiere el inciso primero del artículo anterior. Tratándose de los actos eleccionarios regulados por la ley Nº 18.695, orgánica constitucional de Municipalidades, y la ley Nº 19.175, orgánica constitucional sobre Gobierno y Administración Regional, el plazo de análisis de la cuenta será de setenta y cinco días. En los casos en que se establezca la existencia de gastos electorales no declarados, corresponderá al Director del Servicio Electoral determinar la cuantía de los mismos. Lo anterior no obstará a la aplicación, si procediere, de lo dispuesto en los artículos siguientes del presente Párrafo.
 
 #### Artículo 43
 
-Si el Director del Servicio Electoral estimare del caso observar la cuenta presentada, requerirá del Administrador Electoral o Administrador General Electoral, según corresponda, las aclaraciones, antecedentes o correcciones pertinentes, quien deberá evacuar su respuesta dentro del plazo de decimoquinto día de ser requerido.
+Si el Director del Servicio Electoral estimare del caso observar la cuenta presentada, requerirá del Administrador Electoral o Administrador General Electoral, según corresponda, las aclaraciones, antecedentes o correcciones pertinentes, quien deberá evacuar su respuesta dentro del plazo de diez días de ser requerido.
+
+Transcurrido el plazo señalado en el inciso anterior, y aun cuando no se haya recibido respuesta a las observaciones formuladas, el Director del Servicio Electoral resolverá la aprobación o el rechazo de la cuenta, dentro de los quince días siguientes.
 
 #### Artículo 44
 
 El Director del Servicio Electoral rechazará la cuenta que, no obstante lo dispuesto en el artículo anterior, finalmente no se ajustare a los documentos y comprobantes acompañados o contuviere errores u omisiones graves.
 
-La resolución del Director del Servicio Electoral que rechace una cuenta de ingresos y gastos electorales se notificará, mediante carta certificada, al Administrador General Electoral correspondiente o al Administrador Electoral, según el caso, y al partido político y candidatos respectivos.
+La resolución del Director del Servicio Electoral que rechace una cuenta de ingresos y gastos electorales se notificará, mediante correo electrónico o carta certificada, en su caso, al Administrador General Electoral correspondiente o al Administrador Electoral, según el caso, y al partido político y candidatos respectivos.
 
-El rechazo de la cuenta será sancionado con multa a beneficio fiscal, equivalente al doble de la parte de los gastos electorales que hayan sido rechazados o que no hayan sido justificados. El Director del Servicio Electoral aplicará esta multa al Administrador General Electoral o al Administrador Electoral, según el caso.
+El rechazo de la cuenta será sancionado con multa a beneficio fiscal, equivalente al doble de la parte de los gastos electorales que hayan sido rechazados o que no hayan sido justificados. El Director del Servicio Electoral aplicará esta multa al candidato que corresponda y su Administrador Electoral, quienes serán solidariamente responsables, y al Administrador General Electoral, según el caso.
+
+Con independencia del rechazo o aprobación de la cuenta, si los ingresos o gastos electorales inicialmente declarados difieren en más de un 20% de los estimados por el Servicio Electoral, y siempre que dicha diferencia sea superior a cien unidades de fomento, se aplicará una multa equivalente al quíntuple del monto que constituya dicha diferencia, sanción que será reclamable ante el Tribunal Calificador de Elecciones.
 
 #### Artículo 45
 
@@ -592,7 +656,7 @@ De la publicidad
 
 #### Artículo 48
 
-Las cuentas de los ingresos y gastos electorales presentadas ante el Director del Servicio Electoral serán públicas y cualquier persona podrá obtener, a su costa, copia de ellas. El Director del Servicio Electoral deberá publicar en Internet las cuentas de las candidaturas a Presidente de la República, senador y diputado y de los partidos políticos dentro del plazo establecido en el artículo 6º. A medida que el Servicio Electoral proceda a la revisión de las mismas, deberá actualizar la información difundida en Internet indicando si tales cuentas son aceptadas, rechazadas u observadas.
+Las cuentas de los ingresos y gastos electorales presentadas ante el Director del Servicio Electoral serán públicas y se encontrarán disponibles en el sitio electrónico del Servicio. Además, cualquier persona podrá obtener, a su costa, copia de ellas. El Director del Servicio Electoral deberá publicar en Internet las cuentas de las candidaturas a Presidente de la República, senador y diputado y de los partidos políticos dentro del plazo establecido en el artículo 6º. A medida que el Servicio Electoral proceda a la revisión de las mismas, deberá actualizar la información difundida en Internet indicando si tales cuentas son aceptadas, rechazadas u observadas.
 
 Durante el examen de las cuentas, el Director del Servicio Electoral velará porque el ejercicio del derecho establecido en el inciso anterior se compatibilice con sus labores propias.
 
@@ -630,39 +694,7 @@ Para los efectos del artículo 3º de esta ley, se entenderá que el período de
 
 #### Artículo 51
 
-Los procedimientos administrativos a que dé lugar la aplicación de la presente ley se sujetarán a las siguientes reglas:
-
-1. Podrán iniciarse de oficio, por el Servicio Electoral, o por denuncia presentada ante él. El Servicio Electoral, en ambos casos, impulsará de oficio el procedimiento, haciendo expeditos los trámites que deba cumplir el expediente y removiendo todo obstáculo que pueda afectar a su pronta y debida precisión.
-
-2. La instrucción de oficio del procedimiento se iniciará con una formulación precisa de los cargos, que se notificará al presunto infractor por carta certificada en el domicilio que tenga registrado ante el respectivo Servicio Electoral.
-
-La formulación de cargos señalará una descripción de los hechos que se estimen constitutivos de infracción y la fecha de su verificación, la norma eventualmente infringida y la disposición que establece la infracción, la sanción asignada y el plazo para formular descargos.
-
-3. La denuncia que dé inicio a un procedimiento se formulará por escrito al Servicio Electoral, señalando lugar y fecha de presentación y la individualización completa del denunciante, quien deberá suscribirla personalmente o por su mandatario o representante habilitado. Asimismo, deberá contener una descripción de los hechos concretos que se estiman constitutivos de infracción, precisando lugar y fecha de su comisión y, de ser posible, identificando al presunto infractor.
-
-Sin embargo, la denuncia originará un procedimiento sancionatorio sólo si a juicio del Servicio Electoral está revestida de seriedad y tiene mérito suficiente. En caso contrario, se podrá disponer la realización de acciones de fiscalización sobre el presunto infractor y si ni siquiera existiere mérito para ello, se ordenará el archivo de la misma por resolución fundada, notificando de ello al interesado.
-
-Declarada admisible, la denuncia será puesta en conocimiento del presunto infractor.
-
-4. Las notificaciones se harán por escrito mediante carta certificada dirigida al domicilio del presunto infractor registrado en el Servicio Electoral.
-
-5. El acusado o el denunciado tendrá un plazo de diez días hábiles, contados desde la notificación, para contestar los cargos o la denuncia.
-
-6. Recibidos los descargos o transcurrido el plazo otorgado para ello, el Servicio Electoral resolverá de plano cuando pueda fundar su decisión en hechos que consten en el proceso o sean de pública notoriedad. En caso contrario, abrirá un término de prueba de ocho días. Dicho plazo se ampliará, en el caso que corresponda, de acuerdo a los artículos 258 y 259 del Código de Procedimiento Civil.
-
-El Servicio dará lugar a las medidas o diligencias probatorias que solicite el presunto infractor en sus descargos, siempre que resulten pertinentes y conducentes. En caso contrario, las rechazará mediante resolución motivada.
-
-7. Los hechos investigados y las responsabilidades de los infractores podrán acreditarse mediante cualquier medio de prueba admisible en derecho, los que se apreciarán en conciencia.
-
-8. La resolución que ponga fin al procedimiento sancionatorio será fundada y resolverá todas las cuestiones planteadas en el expediente, pronunciándose sobre cada una de las alegaciones y defensas del imputado, y contendrá la declaración de la sanción que se imponga al infractor o su absolución.
-
-La resolución final deberá dictarse dentro de los diez días siguientes a aquel en que se haya evacuado la última diligencia ordenada en el expediente.
-
-9. De la resolución que ponga fin al procedimiento podrá deducirse reclamación para ante el Tribunal Calificador de Elecciones, dentro del plazo de quinto día contado desde su notificación. El expediente se remitirá a dicho Tribunal por el Servicio Electoral, a más tardar dentro de tercero día de interpuesta la reclamación. El Tribunal fallará de acuerdo al procedimiento que establezca de conformidad a las facultades que establece el artículo 12 de la ley Nº 18.460.
-
-10. Contra las resoluciones del Tribunal no procederá recurso alguno, sin perjuicio de lo establecido en el artículo 13 de la ley Nº 18.460.
-
-11. La resolución que aplica la multa tendrá mérito ejecutivo.
+Los procedimientos administrativos sancionatorios a que dé lugar la aplicación de esta ley se regirán por las reglas del procedimiento sancionatorio previsto en la ley Nº18.556, orgánica constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
 
 #### Artículo 52
 
@@ -675,6 +707,8 @@ Durante el período de campaña electoral, los ministerios, las intendencias, la
 #### Artículo 54
 
 Las faltas o infracciones a que se refiere la presente ley, prescribirán en el plazo de un año contado desde la fecha de la elección.
+
+La acción penal de los delitos contemplados en la presente ley prescribirá en dos años desde que se hubiere cometido el delito.
 
 TITULO FINAL
 
