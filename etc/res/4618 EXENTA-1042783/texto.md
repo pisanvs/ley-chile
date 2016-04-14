@@ -54,6 +54,8 @@ La solicitud de condonación de copagos MAI deberá hacerse por escrito, exclusi
 
 1.7.- Porcentaje de condonación que solicita.
 
+Las solicitudes de condonación de copagos MAI podrán tramitarse por medios electrónicos en los sistemas que al efecto disponga el Fondo Nacional de Salud. En estos casos, el solicitante suscribirá su petición mediante firma electrónica simple.
+
 ### 2. ANTECEDENTES
 
 Conjuntamente con la Solicitud de Condonación Deuda MAI, deberán acompañarse los siguientes documentos en fotocopias:
@@ -99,12 +101,6 @@ Deberá realizar las siguientes acciones:
 . Ingresar la Solicitud de Condonación Deuda MAI al
 
 GGPF, Módulo de Condonación Resto MAI.
-
-. Ingresar la Solicitud de Condonación Deuda MAI al
-
-sistema de Solicitudes Ciudadanas de FONASA, el que
-
-indicará un folio.
 
 . El ejecutivo entregará al solicitante, copia
 
