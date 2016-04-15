@@ -1,0 +1,1 @@
+Por Decreto Exento MOP Nº 101, de 29 de marzo de 2016, se tuvo por desistida la expropiación del lote de terreno Nº 49, ordenada por el Decreto Exento MOP Nº 2128 de 29 de noviembre de 2013, para la obra "Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Km. 10.800,00 a Km. 25.700,00".
