@@ -130,7 +130,7 @@ De la Declaración de Candidaturas
 
 #### Artículo 14
 
-Las declaraciones de candidaturas a Presidente de la República y a Parlamentario para participar en las elecciones primarias, sólo podrán hacerse hasta las veinticuatro horas del sexagésimo día anterior a aquel en que deba realizarse la elección primaria. En el caso de declaraciones de candidaturas a Alcalde, el plazo antes señalado vencerá a las veinticuatro horas del cuadragésimo día anterior a aquel en que deba realizarse la elección primaria.
+Las declaraciones de candidaturas a Presidente de la República, a Parlamentario y a Alcalde para participar en las elecciones primarias, sólo podrán hacerse hasta las veinticuatro horas del sexagésimo día anterior a aquel en que deba realizarse la elección primaria.
 
 Ningún candidato podrá figurar en más de una declaración de candidaturas.
 
