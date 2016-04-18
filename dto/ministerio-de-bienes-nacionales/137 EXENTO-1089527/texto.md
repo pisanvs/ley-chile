@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA "COMISIÓN CHILENA DE DERECHOS HUMANOS"
+
+Mediante decreto exento Nº E-137 de 6 de abril de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Comisión Chilena de Derechos Humanos", RUT Nº 71.825.600-3, el inmueble fiscal ubicado en calle Santa Lucía Nº 162, comuna y provincia de Santiago, Región Metropolitana de Santiago, Rol Servicio de Impuestos Internos Nº 69-63;,inscrito a nombre del Fisco a fojas 10.735 Nº 12.570 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1975, singularizado en el Plano Nº 13.101-1929-C.U., con una superficie aproximada de 132 metros cuadrados. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble a la asesoría de personas que se vean afectadas en sus derechos fundamentales a través de su departamento jurídico. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
