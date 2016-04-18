@@ -42,7 +42,7 @@ Para los efectos del presente Reglamento, se entenderá por:
 
 2. Adulto mayor: aquella persona natural de 60 años o más de edad, de conformidad a lo dispuesto en el artículo 1° de la ley Nº 19.828.
 
-3. Adulto mayor en situación de vulnerabilidad: aquella persona natural de 60 años o más de edad que se encuentra en situación de pobreza o menoscabo en la calidad de vida o en riesgo concreto o potencial de ello, según se desprenda de la información obtenida por aplicación de la Ficha de Protección Social o del instrumento que la reemplace y que, además, se encuentre en situación de dependencia.
+3. Adulto mayor en situación de vulnerabilidad: aquella persona natural de 60 años o más de edad que se encuentra en situación de pobreza o menoscabo en la calidad de vida o en riesgo concreto o potencial de ello, según se desprenda de la información obtenida por aplicación del instrumento de caracterización socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379, que se encuentra contenida en el Registro Social de Hogares y que, además, se encuentre en situación de dependencia.
 
 4. Proyectos de iniciativas de apoyo directo al adulto mayor residente en ELEAM: son aquellas propuestas presentadas por las instituciones postulantes, que contienen los servicios dirigidos a los adultos mayores beneficiarios del presente Reglamento, debiendo considerar la satisfacción de necesidades básicas, como alojamiento, alimentación y convivencia integral, atención médica especializada, estrategias de integración a la comunidad y protección de sus derechos, y servicios de promoción del envejecimiento activo, especialmente en las áreas física, cognitiva y social.
 
@@ -88,7 +88,7 @@ En caso que la entidad postulante sea administrador de más de un ELEAM, el proy
 
 El proyecto que se postule deberá considerar servicios para la satisfacción de necesidades básicas de los adultos mayores residentes, tales como alojamiento, alimentación y convivencia integral, atención médica especializada, estrategias de integración a la comunidad y protección de sus derechos, y servicios de promoción del envejecimiento activo, especialmente en las áreas física, cognitiva y social.
 
-El puntaje obtenido por los adultos mayores residentes en el proyecto que se postule, de acuerdo a la Ficha de Protección Social o del instrumento que la reemplace, no podrá exceder, en promedio, del puntaje de corte correspondiente al III quintil de vulnerabilidad.
+Tratándose de los adultos mayores residentes incluidos en el proyecto que se postule, éstos deberán pertenecer al 60% más vulnerable de la población nacional según la información que se desprenda por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20 379, la cual estará contenida en el Registro Social de Hogares.
 
 Para efectos de determinar los montos a transferir, el proyecto deberá postular el número de plazas residenciales de stock y flujo, acreditando que los adultos mayores residentes que ocupan dichas plazas se encuentran en situación de vulnerabilidad, de conformidad con lo establecido en el número 3 del artículo 4º, señalando el nivel de dependencia en que se encuentran, todo ello de conformidad con las bases que regulan el concurso. Asimismo, deberán indicar el número de plazas no ocupadas disponibles para residentes en situación de vulnerabilidad.
 
