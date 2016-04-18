@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 912 EXENTA, DE 2016
+
+Por resolución exenta N° 912, de fecha 30 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Auto Club Chile", cuya propietaria es doña Susana Soto Jorratt, siendo su director don Miguel Ángel Bravo Cancino, la que tendrá su lugar de funcionamiento en Av. Urmeneta N° 22, oficina N° 4, comuna de Limache. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas y 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Maritza Robledo Fernández, Secretaria Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Valparaíso.
