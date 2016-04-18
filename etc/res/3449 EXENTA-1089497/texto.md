@@ -1,0 +1,33 @@
+DISPONE LA REALIZACIÓN DE UN PROCESO DE CONSULTA A PUEBLOS INDÍGENAS, INICIA PROCEDIMIENTO ADMINISTRATIVO Y CONVOCA AL PROCESO DE CONSULTA INDÍGENA INDICADA EN EL ART. 6º DEL CONVENIO Nº 169 DE LA OIT, REGLAMENTADA EN EL DS Nº 66, DE 2013, DEL MINISTERIO DE DESARROLLO SOCIAL
+
+Núm. 3.449 exenta.- Santiago, 29 de marzo de 2016.
+
+Vistos:
+
+1. Lo dispuesto en los artículos 5º y 126 bis de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1/19.653, del Ministerio Secretaría General de la Presidencia, de 2000, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.875, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado; en la ley Nº 18.359 que crea el cargo de Subsecretario de Desarrollo Regional y Administrativo en el Ministerio del Interior; en el decreto con fuerza de ley Nº 1/18.359, de 1985, del Ministerio del Interior, que traspasa y asigna funciones a la Subsecretaría de Desarrollo Regional y Administrativo; en el decreto supremo Nº 739, de 2014, del Ministerio del Interior y Seguridad Pública, que nombra Subsecretario de Desarrollo Regional y Administrativo; en el artículo 6º Nº 1 letra a) y Nº 2 del Convenio Nº 169 Sobre Pueblos Indígenas y Tribales de la Organización Internacional del Trabajo, promulgado a través del decreto supremo Nº 236, de 2008, del Ministerio de Relaciones Exteriores; en el artículo 34 de la ley Nº 19.253, de 1993, que establece Normas sobre Protección, Fomento y Desarrollo de los Indígenas, y crea la Corporación Nacional de Desarrollo Indígena; en el decreto supremo Nº 66, de 2013, del Ministerio de Desarrollo Social, que Aprueba el Reglamento que regula el Procedimiento de Consulta Indígena en virtud del Artículo 6 Nº 1 letra a) y Nº 2 del Convenio Nº 169 de la Organización Internacional del Trabajo y deroga normativa que indica; y de conformidad con lo establecido en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón, y en las demás normas aplicables.
+
+Considerando:
+
+1. Que, la Ley Nº 20.193, que reformó la Constitución Política de la República el año 2007, incorporó el artículo 126 bis inciso primero, que estableció que son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández, encomendando al legislador establecer las leyes orgánicas constitucionales respectivas para el Gobierno y Administración de los referidos territorios, basado, tal como lo señala el Mensaje Presidencial, considerando que ambos territorios insulares constituyen zonas visiblemente delimitadas, con un aislamiento geográfico difícil de superar, que tiene efectos en las comunicaciones y en la asistencia para el desarrollo e integración, su carácter de centros de interés científico internacional por sus especiales cualidades arqueológicas en un caso, y botánicas y biológicas en el otro, su ubicación estratégica en el Océano Pacífico y su potencial turístico único y diferenciador de sus pares de la región y del resto del país.
+
+2. Que, las características geográficas del Territorio Especial de Isla de Pascua lo erigen como un entorno particularmente frágil y vulnerable, cuyo patrimonio cultural, arqueológico, ambiental y social requiere la adopción de medidas administrativas especiales debido a su aislamiento geográfico por tratarse de un espacio insular.
+
+3. Que, el Convenio Nº 169 sobre Pueblos Indígenas y Tribales en países independientes, de la Organización Internacional del Trabajo del año 1989, promulgado mediante el decreto supremo Nº 236, de 2008, del Ministerio de Relaciones Exteriores, dispone en su artículo 2º Nº 1 que: "los gobiernos deberán asumir la responsabilidad de desarrollar, con la participación de los pueblos interesados, una acción coordinada y sistemática con miras a proteger los derechos de esos pueblos y a garantizar el respeto de su integridad", y en su Nº 2 letra b), que "esta acción deberá incluir medidas: que promuevan la plena efectividad de los derechos sociales, económicos y culturales de esos pueblos, respetando su identidad social y cultural, sus costumbres y tradiciones y sus instituciones".
+
+4. Que, el referido Convenio en su artículo 6, Nº 1 letra a) y Nº 2 establece la obligación del Estado de consultar a los pueblos indígenas interesados, mediante procedimientos apropiados y en particular a través de sus instituciones representativas, cada vez que se prevean medidas legislativas y administrativas susceptibles de afectarles directamente.
+
+5. Que, con fecha 4 de marzo de 2014, entró en vigencia el decreto supremo Nº 66, de 2013, del Ministerio de Desarrollo Social, que Aprueba el Reglamento que regula el Procedimiento de Consulta Indígena en virtud del Artículo 6 Nº 1 Letra a) y Nº 2 del Convenio Nº 169 de la Organización Internacional del Trabajo.
+
+6. Que, en cumplimiento de los acuerdos adoptados en el marco de la Comisión de Desarrollo de Isla de Pascua y de la normativa precedentemente citada, es voluntad del Supremo Gobierno someter al proceso de consulta indígena la elaboración de la propuesta de Estatuto Especial de Administración del Territorio Especial de Isla de Pascua, como forma de recabar las aspiraciones e intereses del pueblo Rapa Nui y a objeto de elaborar el proyecto de ley bajo un estricto apego al principio de buena fe y al ordenamiento jurídico vigente.
+
+Resuelvo:
+
+1. Instrúyase procedimiento administrativo respecto al Proceso de Consulta Indígena sobre las materias que conformarán la elaboración de una propuesta de anteproyecto de ley que creará el Estatuto Especial de Gobierno y Administración para el Territorio de Isla de Pascua.
+
+2. Convóquese al pueblo Rapa Nui o Pascuense y sus instituciones representativas a la primera reunión de Planificación del Proceso de Consulta Indígena de conformidad a lo dispuesto en el artículo 15 del decreto supremo Nº 66, de 2013, del Ministerio de Desarrollo Social.
+
+3. Confecciónese el respectivo expediente administrativo del procedimiento de conformidad a lo dispuesto en el artículo 18 y siguientes de la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; y a lo dispuesto en el artículo 19 del decreto supremo Nº 66, de 2013, del Ministerio de Desarrollo Social.
+
+Anótese, comuníquese y publíquese.- Ricardo Cifuentes Lillo, Subsecretario de Desarrollo Regional y Administrativo.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente, Nicolás Farrán Figueroa, Jefe División de Administración y Finanzas, Subdere.
