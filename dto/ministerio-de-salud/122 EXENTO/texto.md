@@ -14,7 +14,7 @@ Decreto:
 
 Primer Orden de Subrogancia
 
-D. Manuel Elizondo Pérez Caro, Cédula de Identidad Nº 14.325.065-2, Profesional, Contrata, grado 5º EUS (con facultades directivas).
+D. Manuel Alejandro Elizondo Pérez, Cédula de Identidad Nº 14.325.065-2, Profesional, Contrata, grado 5º EUS (con facultades directivas).
 
 Segundo Orden de Subrogancia
 
