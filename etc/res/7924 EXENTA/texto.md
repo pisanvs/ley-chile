@@ -10,6 +10,8 @@ Resolución:
 
 2°.- El monto de unidades de fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del DS N° 1 (V. y U.), de 2011, se distribuirán regionalmente según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución, en caso de agotarse los recursos en una región, quedando excedentes en otras:
 
+.
+
 3°.- El número de postulantes seleccionados en cada región, alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo que para cada caso se fija en el número 2° de esta resolución.
 
 4°.- Para los efectos de determinar el número de Certificados de Subsidio susceptibles de financiar, se considerará un valor promedio de 400 UF, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de aplicar las fórmulas correspondientes, según lo indicado en el artículo 64 del DS N° 1 (V. y U.), de 2011, respectivamente, según corresponda.
