@@ -30,7 +30,7 @@ Resolución:
 
 1.2 Las familias podrán participar de este llamado, retirando sus tarjetas activadas del SERVIU, hasta el día 11 de diciembre del presente año, o hasta agotarse los recursos disponibles para este llamado si esto sucede antes de esa fecha, lo que será oportunamente difundido para conocimiento de los interesados. Las asignaciones se realizarán quincenalmente.
 
-1.3 La vigencia de los subsidios entregados a través de esta resolución será hasta el 1 de abril de 2016.
+1.3 La vigencia de los subsidios entregados a través de esta resolución será hasta el 1º de agosto de 2016.
 
 2. Solo podrán participar en este llamado extraordinario los damnificados del sistema frontal de mal tiempo que afectó a la comuna de Tocopilla, Región de Antofagasta. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con daño reparable leve, tras la aplicación de la Ficha de Catastro extendida por el Serviu, lo que será verificado por Serviu en línea al momento de la postulación. En el caso de viviendas dañadas que no hayan sido catastradas, se podrá solicitar este catastro al Serviu, el que tendrá como máximo 5 días hábiles para efectuarlo.
 
