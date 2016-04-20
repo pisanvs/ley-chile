@@ -50,25 +50,7 @@ I.N.R.V.M. : DCBB.37-1
 
 Placa única : DCBB.37
 
-FISCAL REGIONAL VII REGIÓN DEL MAULE:
-
-Vehículo : Automóvil
-
-Marca : Hyundai
-
-Modelo : Sonata YF GLS 2.0 Sun Aut.
-
-Año : 2011
-
-Motor : G4KDAA612566
-
-Chasis : KMHEC41BBBA246451
-
-Color : Gris Grafito
-
-I.N.R.V.M. : DBKW25-3
-
-Placa única : DBKW.25
+DEJA SIN EFECTO
 
 #### Artículo segundo
 
