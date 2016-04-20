@@ -112,7 +112,7 @@ b) en otros cruces, justo antes de la intersección;
 
 42) Vehículo: Medio con el cual, sobre el cual o por el cual toda persona u objeto puede ser transportado por una vía;
 
-43) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
+43) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
 
 44) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
 
