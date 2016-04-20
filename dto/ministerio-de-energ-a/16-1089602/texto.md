@@ -1,0 +1,97 @@
+OTORGA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA SOBRE EL ÁREA DENOMINADA "LATARANI 2", UBICADA EN LA COMUNA DE COLCHANE, PROVINCIA DEL TAMARUGAL, REGIÓN DE TARAPACÁ, A LA EMPRESA ENERGÍA ANDINA S.A., EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 16.- Santiago, 4 de febrero de 2016.
+
+Visto:
+
+Lo dispuesto en la ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº 1/19.653 del año 2000, del Ministerio Secretaría General de la Presidencia; en la ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el DL Nº 2.224, de 1978, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto supremo Nº 114, de 2012, del Ministerio de Energía, que aprueba Nuevo Reglamento para la Aplicación de la ley Nº 19.657 y su modificación efectuada mediante decreto supremo Nº 46, de 2015, del Ministerio de Energía; en el decreto supremo Nº 131, de 2002, del Ministerio de Minería, que faculta al Ministro de Minería, cuyo sucesor legal en materia de concesiones de energía geotérmica es el Ministro de Energía, a firmar "Por orden del Presidente de la República"; en la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", presentada por la empresa Energía Andina S.A. con fecha 14 de octubre de 2011; en el memorando DER Nº 207, de 26 de septiembre de 2014, de la División de Energías Renovables del Ministerio de Energía; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que en virtud de lo dispuesto en el artículo 10 de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica, la empresa Energía Andina S.A. presentó con fecha 14 de octubre de 2011, una solicitud de concesión de exploración de energía geotérmica sobre el área denominada "Latarani 2", ubicada en la comuna de Colchane, provincia del Tamarugal, Región de Tarapacá, sobre una superficie total de 800 hectáreas, cuyas coordenadas UTM de los vértices limitantes referidas al Datum Provisional Sudamericano La Canoa-1956, Elipsoide de Referencia Internacional de 1924, Huso 19 Sur, expresadas en metros, son las siguientes:
+
+.
+
+2. Que con fecha 7 de diciembre de 2011, don Elías Benedicto Vilches Castro, en representación de don Tiburcio Vilches Gómez, dedujo observaciones en contra de la solicitud de concesión de exploración denominada "Latarani 2". Dicha reclamación fue puesta en conocimiento de la empresa solicitante de la concesión mediante carta Minenergía Nº 1.461, de 22 de diciembre de 2011, evacuando ésta el traslado conferido mediante presentación de fecha 14 de febrero de 2012. Posteriormente, dicha reclamación fue rechazada mediante resolución exenta Nº 61, de fecha 19 de noviembre de 2014, del Ministerio de Energía, por las consideraciones en ella expuestas.
+
+3. Que mediante oficios ordinarios Nos 2.037, 2.039, 2.045, 2.046, 2.050, 2.051, 2.052 y 2.053, todos de fecha 12 de diciembre de 2011, de la Subsecretaría de Energía, dirigidos respectivamente al Ministerio de Bienes Nacionales, Ministerio de Defensa Nacional, Ministerio de Relaciones Exteriores de Chile, Dirección Nacional de Fronteras y Límites del Estado, Dirección Regional de Aguas de Tarapacá, Ministerio de Salud, Corporación Nacional Forestal y Corporación Nacional de Desarrollo Indígena, se solicitó evacuar opinión e informe acerca de los posibles conflictos de derechos e intereses existentes en el área solicitada.
+
+4. Que asimismo, mediante oficio Nº 2.038, de fecha 12 de diciembre de 2011, la Subsecretaría de Energía solicitó al Servicio Nacional de Geología y Minería evacuar informe acerca de la posible superposición de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", con alguna ya otorgada o en trámite, o bien, con alguna fuente probable de energía geotérmica de aquellas consignadas en el DS Nº 142, de 2000, del Ministerio de Minería. Asimismo, se solicitó a dicho servicio informar si la forma y cabida de la solicitud de concesión se ajusta a lo requerido por el artículo 7º de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica y si el área de la referida solicitud de concesión se superpone a concesiones mineras vigentes.
+
+5. Que la Dirección Nacional de Fronteras y Límites del Estado (Difrol), mediante oficio público RR.EE. Difrol Nº F-1.700, de fecha 16 de diciembre de 2011, manifestó su opinión favorable al otorgamiento de la concesión de exploración de energía geotérmica recaída sobre el área denominada "Latarani 2".
+
+6. Que con fecha 19 de diciembre de 2011, don Fernando Covarrubias Melero, presentó reclamación en contra de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", dándose traslado a la empresa solicitante mediante carta Minenergía Nº 1.474, de 27 de diciembre de 2011, evacuándose mediante presentación de 16 de febrero de 2012. Finalmente, dicha reclamación fue rechazada mediante resolución exenta Nº 58, de 18 de noviembre de 2014, del Ministerio de Energía, por los motivos que en ella se señalan.
+
+7. Que mediante carta de fecha 20 de diciembre de 2011, la empresa solicitante, en cumplimiento de lo dispuesto en el artículo 13 de la ley Nº 19.657, acompañó al Ministerio de Energía copia de las publicaciones del extracto de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", efectuadas con fecha 2 de noviembre de 2011, en el Diario Oficial, y su rectificación realizada con fecha 1 de diciembre de 2011; con fechas 2 y 3 de noviembre de 2011, en el diario de circulación nacional "La Tercera", y con fechas 2 y 3 de noviembre de 2011, en el diario de circulación regional "La Estrella de Iquique". Asimismo, acompañó el certificado de emisión radial, otorgado por don Enrique Mancilla Andrade, en su calidad de representante legal de la radioemisora "Dinámica FM", que da cuenta que con fecha 15 de noviembre de 2011, se realizó la emisión de tres mensajes radiales del extracto de la solicitud de concesión de exploración de energía geotérmica antes singularizada, a través de la referida radioemisora.
+
+8. Que mediante oficio ordinario Nº 11, de fecha 16 de enero de 2012, la Dirección Regional de Aguas de Tarapacá, informó que dentro del área del polígono solicitado en concesión, no existen solicitudes en trámite o derechos de aprovechamientos de aguas otorgados.
+
+9. Que mediante oficio ordinario Nº B32/426, de fecha 30 de enero de 2012, la Subsecretaría de Salud Pública, informó a esta cartera de Estado que en el área solicitada de concesión, no existen fuentes de agua declaradas como curativas de acuerdo con el DFL Nº 237, de 1931.
+
+10. Que el Servicio Nacional de Geología y Minería, mediante oficio ordinario Nº 1.950, de fecha 31 de enero de 2012, informó que el área de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", no se encuentra superpuesta a alguna otra concesión otorgada o en trámite; no recae sobre una fuente probable de energía geotérmica, su forma y cabida se ajusta a lo dispuesto en el artículo 7º de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica, y que dicha solicitud superpone a una concesión minera de exploración.
+
+11. Que sin perjuicio de lo señalado en el considerando anterior, el Servicio Nacional de Geología y Minería, mediante oficio ordinario Nº 3.101, de 16 de abril de 2012, refiriéndose a la solicitud de concesión de exploración de energía geotérmica denominada "Puchuldiza Norte", informó que el área de dicha solicitud de concesión se encontraba superpuesta a la solicitud de concesión denominada "Latarani 2". En virtud de lo anterior, y habiéndose configurado la hipótesis de licitación pública prevista en el inciso segundo del artículo 15 de la ley Nº 19.657, mediante resolución exenta Nº 63, de 27 de mayo de 2013, se puso término del procedimiento administrativo de dicha solicitud, de acuerdo a lo previsto en el artículo 40 de la ley Nº 19.880, esto es, la imposibilidad material de su continuación por causa sobreviniente. Lo anterior, con el objeto de iniciar un proceso de licitación pública, de acuerdo a lo previsto en el inciso segundo del artículo 15 de la ley Nº 19.657.
+
+12. Que con fecha 4 de diciembre de 2013, don Rüdiger Robert Trenkle en representación de la empresa MRP Chile Exploración Limitada, efectuó una presentación en el sentido de desistirse de la solicitud de concesión de exploración de energía geotérmica denominada "Puchuldiza Norte", antes referida, acogiéndose mediante resolución exenta Nº 3, de 15 de enero de 2014, ordenándose en la misma, la reanudación de la tramitación administrativa de la solicitud de concesión geotérmica denominada "Latarani 2".
+
+13. Que la Corporación Nacional Forestal, mediante oficio ordinario Nº 64, de fecha 30 de enero de 2012, remitió informe respecto de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", indicando que el área de dicha solicitud se superpone en 493,69 hectáreas al área del Parque Nacional Volcán Isluga.
+
+14. Que mediante oficio Ord. GABM Nº 159, de 16 de febrero de 2012, el Ministerio de Bienes Nacionales informó que la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2", se superpone a terrenos fiscales que forman parte del Sistema Nacional de Áreas Protegidas del Estado (SNASPE), específicamente con el Parque Nacional Volcán Isluga.
+
+15. Que el Ministerio de Defensa Nacional, mediante oficio reservado MDN.EMCO.DOPE. (R) Nº 6800/1634, de fecha 29 de febrero de 2012, informó respecto del área de concesión de exploración de energía geotérmica denominada "Latarani 2", en aquellas materias atingentes a dicha cartera de Estado, no existen inconvenientes para su otorgamiento. No obstante lo anterior, se hace presente que se encuentra superpuesta a la Zona Prohibida de actividades aéreas SC-P10, motivo por el cual los desarrollos verticales de infraestructura deberán considerar las normas de señalizaciones aeronáuticas establecidas.
+
+16. Que con fecha 26 de septiembre de 2014, la División de Energías Renovables del Ministerio de Energía, remitió a la División Jurídica memorando DER Nº 207, mediante el cual recomienda otorgar la concesión de exploración de energía geotérmica denominada "Latarani 2". Asimismo, indica las nuevas coordenadas basado en el Sistema de Referencia Geocéntrico para las Américas (Sirgas), Datum WGS 84, conforme al decreto N° 114, de 15 de noviembre de 2012, del Ministerio de Energía, que aprobó el nuevo reglamento para la aplicación de la ley Nº 19.657, sobre Concesiones de Energía Geotérmica, que reemplaza el referido Datum, las cuales se identifican a continuación:
+
+.
+
+17. Que en respuesta a la carta Minenergía Nº 156, de 5 de febrero de 2015, mediante presentación de fecha 4 de marzo de 2015, la empresa solicitante manifestó su voluntad tendiente a la obtención de la solicitud de concesión denominada "Latarani 2".
+
+18. Que mediante memorando DER Nº 200, de fecha 1 de octubre de 2015, la División de Energías Renovables del Ministerio de Energía, complementó su informe referido en el considerando 16 del presente decreto, concluyendo y recomendando que, atendido al hecho que el área de la solicitud de concesión de exploración de energía geotérmica denominada "Latarani 2" se encuentra superpuesta al Parque Nacional Volcán Isluga, las actividades exploratorias que se realicen al interior de dicho Parque Nacional deben limitarse sólo a aquellas labores de exploración superficial que no entren en conflicto con el plan de manejo del mismo, dejando las labores de perforación de pozos para aquellas zonas que no se superponen con éste. Lo anterior, por cuanto se estima que las actividades exploratorias superficiales no implican una intervención significativa del entorno y permiten avanzar en la elaboración del modelo conceptual del campo geotérmico,
+
+Decreto:
+
+Primero: Otórguese a la empresa Energía Andina S.A., RUT Nº 76.039.634-6, por el plazo de dos años contados desde la publicación del presente decreto en el Diario Oficial, la concesión de exploración de energía geotérmica sobre el área denominada "Latarani 2", ubicada en la comuna de Colchane, Provincia del Tamarugal, Región de Tarapacá, sobre una superficie total de 800 hectáreas, cuyas coordenadas UTM de los vértices limitantes referidas al Sistema de Referencia Geocéntrico para las Américas (Sirgas), Datum WGS 84, expresadas en metros, son las siguientes:
+
+.
+
+Segundo: El proyecto de exploración tiene como objetivo el desarrollo de un modelo conceptual del sistema geotérmico del área solicitada y ejecutar un conjunto de trabajos para determinar las posibilidades y potencialidades de utilización del recurso de energía geotérmica existente dentro del área solicitada de acuerdo con las características físico-químicas de los fluidos geotérmicos que sean estudiados, principalmente para la generación de energía eléctrica.
+
+Tercero: De acuerdo al proyecto presentado por la empresa, el total de la inversión comprometida para los dos años de concesión asciende a US$2.000.000 (dos millones de dólares de los Estados Unidos de Norteamérica), considerando los montos de inversión para cada una de las actividades y tiempos de realización que se indican a continuación:
+
+.
+
+Cuarto: Que en virtud de lo dispuesto por el artículo 27 del decreto supremo Nº 114, de 2012, del Ministerio de Energía, que aprueba Nuevo Reglamento para la Aplicación de la ley Nº 19.657, modificado mediante decreto supremo Nº 46, de 2015, del Ministerio de Energía, y atendido a lo señalado en el considerando 18 del presente decreto, la empresa concesionaria, dentro del área superficial de la concesión superpuesta al área del Parque Nacional Volcán Isluga, sólo podrá desarrollar trabajos exploratorios superficiales que no entren en conflicto con su plan de manejo, no pudiendo en la misma llevar a cabo perforación de pozos.
+
+Quinto: En el evento que la concesionaria optare por una prórroga de la concesión, haciendo uso del derecho establecido en el artículo 36 de la ley Nº 19.657, deberá acreditar, a lo menos, un avance no inferior al veinticinco por ciento (25%) de las actividades e inversiones proyectadas de acuerdo al programa de trabajo y montos consignados en el imperativo anterior.
+
+Sexto: La concesionaria deberá informar al Ministerio de Energía en el mes de marzo de cada año, el avance verificado durante el año calendario precedente en la ejecución del proyecto comprometido. Específicamente, deberá informar acerca de las actividades e inversiones realizadas, con indicación del porcentaje de cumplimiento a esa fecha del programa de trabajo y de las respectivas inversiones comprometidas, de acuerdo a lo señalado en el artículo segundo del presente decreto, debiendo, además, acompañar los documentos que respalden lo informado. La concesionaria podrá, asimismo, entregar los informes adicionales que estime conveniente en periodos distintos al indicado.
+
+Séptimo: Que de acuerdo a lo señalado en el considerando 15 del presente decreto, la empresa concesionaria, previo a la realización de cualquier labor en el área de concesión, en los casos de desarrollos verticales de infraestructura, deberá considerar las normas de señalizaciones aeronáuticas establecidas por la referida institución.
+
+Octavo: Lo establecido en el presente acto administrativo es sin perjuicio de las autorizaciones medioambientales que debe obtener la concesionaria en virtud de la legislación vigente.
+
+Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Máximo Pacheco M., Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcances el decreto Nº 16, de 2016, del Ministerio de Energía
+
+Nº 22.659.- Santiago, 24 de marzo de 2016.
+
+Esta Entidad de Control ha dado curso al documento del rubro, que otorga concesión de exploración de energía geotérmica sobre el área que indica, por encontrarse ajustado a derecho, pero cumple con hacer presente que ese servicio, en lo sucesivo, deberá inutilizar, con la firma y timbre del ministro de fe respectivo, las páginas en blanco de los instrumentos que se remitan para toma de razón, tal como se ha manifestado, entre otros, en los dictámenes Nos 16.548 y 65.301, ambos de 2015, de este Órgano Fiscalizador.
+
+Además, cabe precisar, por una parte, que lo indicado en su considerando 14, en el sentido que la solicitud de concesión se superpone a terrenos fiscales que forman parte del Sistema Nacional de Áreas Silvestres Protegidas del Estado (SNASPE), específicamente con el Parque Nacional Volcán Isluga, no se encuentra contenido en el Oficio Ordinario GABM Nº 159, de 2012, del Ministerio de Bienes Nacionales, sino que ello se consigna en el Memorando DER Nº 207, de 2014, del Jefe de la División de Energías Renovables del Ministerio de Energía, y que forma parte de los antecedentes acompañados al expediente administrativo, y por la otra, que las nuevas coordenadas del área de la concesión solicitada, se indican en el informe técnico que se adjunta al Memorando DER Nº 200, de 2015, de la citada División, y no como se menciona en el considerando 16 del decreto en estudio.
+
+Con los alcances que anteceden, se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Ministro de Energía
+
+Presente.
