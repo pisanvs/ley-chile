@@ -1,0 +1,11 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.304, del 23 de diciembre de 2015, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1. Modifícase la resolución 1.533, del 20 de octubre de 1998, cuya transferencia fue autorizada por resolución 893, del 29 de febrero de 2000, modificada por resolución 221, del 26 de enero de 2009, modificada y transferida por resolución 2.325, del 27 de noviembre de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas a Fs. 40 Vta., 80, año 2010, modificada por resolución 2.882, del 23 de julio de 2013, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, a Granja Marina Tornagaleones S.A., RUT 87.752.000-5, con domicilio en Diego Portales 2000, piso 9, Puerto Montt.
+
+2.- Reemplázase, en la resolución 1.533, del 20 de octubre de 1998, el párrafo 4 del resuelvo, en la resolución 893, del 29 de febrero de 2000, el párrafo 3 del resuelvo, en la resolución 2.325, del 27 de noviembre de 2009, el párrafo 3 del resuelvo, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina y en la resolución 2.882, del 23 de julio de 2013, el párrafo 2 del resuelvo, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas por el siguiente:
+
+"El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 678, del 7 de mayo de 1998, modificada por resolución exenta 1.698, del 14 de mayo de 2009, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 2.725, del 12 de octubre de 2012, modificada por resolución exenta 2.431, del 12 de septiembre de 2014, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura"
+
+Santiago, 16 de marzo de 2016.- Por orden de la Subsecretaria para las Fuerzas Armadas.- José Miguel Poblete East, Abogado, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
