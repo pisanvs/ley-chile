@@ -208,6 +208,10 @@ El número de proyectos seleccionados en cada región alcanzará hasta la cantid
 
 7.8 De lo establecido en la letra a) del artículo 37, referido al endoso del certificado de subsidio para proceder a su pago.
 
+7.9 "De lo establecido en el artículo 37 letra e), respecto a la carta del beneficiario que señala que las obras están terminadas conforme al contrato suscrito, para los casos de negativa injustificada del beneficiario recepcionar conforme las obras, siempre que se cuente con los informes del Prestador de Asistencia Técnica y del Supervisor Serviu que certifique que los trabajos fueron ejecutados conforme al proyecto y no presenten observaciones".
+
+7.10 "De lo señalado en el artículo 34, referente a que el contratista o constructor contratado para la ejecución de las obras, cuente con inscripción vigente en el Registro Nacional de Contratistas o en el Registro Nacional de Constructores de Viviendas Sociales.
+
 8. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 8.1 Sólo podrán participar de este llamado las personas inscritas en el registros de damnificados MINVU y que además cuenten con viviendas calificadas con "daño reparable moderado" y "daño reparable mayor", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo.
@@ -232,15 +236,29 @@ Diseño y Postulación", será
 
 desarrollada por el SERVIU EP.
 
-8.4.2 Etapa 2, "Contratación de Obras y
+8.4.2 "Etapa 2, "Contratación de Obras y
 
-Fiscalización Técnica de Obras",
+Fiscalización Técnica de Obras"
 
 podrá ser desarrollada por Serviu
 
 EP y/o por Entidades Patrocinantes
 
-privadas o públicas.
+privadas o públicas. Cuando el
+
+Serviu EP desarrolle esta etapa
+
+deberá regirse por lo estipulado
+
+en el DS N° 236 (V. y U), año 2002,
+
+que aprueba Bases Generales
+
+Reglamentarias de Contratación de
+
+Obras para los Servicios de Vivienda
+
+y Urbanismo
 
 8.5 En relación a los Proyectos de Mejoramiento de la Vivienda, se deberá presentar un informe técnico que contenga a lo menos los siguientes datos:
 
@@ -334,7 +352,101 @@ En caso que las "Obras de Reparación" hayan contemplado un permiso de edificaci
 
 Para el caso de las obras de "Instalación de Paneles Fotovoltaicos" se podrá pagar hasta el 70% de este subsidio cuando el contratista presente a la Superintendencia de Electricidad y Combustibles (SEC) el formulario de Declaración TE 4, circunstancia que deberá acreditar al Serviu al momento de solicitar el cobro del subsidio, quedando el 30% restante retenido hasta su total tramitación en SEC.
 
-12. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Antofagasta y Atacama en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el cuadro contenido en el punto Nº 6 de esta resolución.
+12. Título II, Subsidio Daño reparable Moderado para Mejoramiento de la Vivienda a través de la adquisición de materiales y la contratación de servicios de construcción y reparación.
+
+Destinado a la atención de las familias calificadas con daño Reparable Moderado que a la fecha no cuenten con contratos de construcción firmados.
+
+Los Subsidios de Mejoramiento del Título II, del Programa de Protección del Patrimonio Familiar, para financiar la adquisición de materiales y la contratación de servicios de construcción y reparación asociados, serán aplicados para reparar daños que no comprometan la estabilidad total de la edificación; que no requieran especialistas para su ejecución, por ejemplo las instalaciones eléctricas o sanitarias; y para aquellos casos que no tengan daño en los elementos estructurales de la vivienda.
+
+Los proyectos posibles de atender son los señalados en los resuelvo 4.1 de la presente resolución exenta.
+
+A través de esta modalidad el valor del subsidio asignado correspondiente al otorgado como "daño reparable Moderado" (monto indicado en el cuadro 1 del Resuelvo 5 de la presente resolución) y podrá utilizarse en las siguientes modalidades:
+
+a) Se podrá destinar el 100% del monto del subsidio a la compra de materiales de construcción, cuando el valor de la mano de obra sea asumido por el beneficiario.
+
+b) Se podrá destinar hasta el 40% del subsidio para pagar la mano de obra y el saldo para la compra de materiales de construcción.
+
+13. La forma de pago de los subsidios señalados precedentemente, se cancelarán de la siguiente forma:
+
+.
+
+La Entidad Patrocinante deberá verificar los avances de obras para la autorización del segundo pago.
+
+La compra de materiales a través de la tarjeta dispuesta para ello contará con 2 cargas de recursos, la primera representará el 40% del subsidio correspondiente a la compra de materiales, y la segunda el 60% restante. A través de cada carga podrán efectuarse un máximo de 2 compras.
+
+El pago de Asistencia Técnica para esta modalidad será de 7,5 UF, cancelando 3 UF una vez desarrollada las acciones que permiten realizar la primera carga de subsidio y 4,5 UF una vez terminada la intervención en la vivienda.
+
+Disposiciones específicas a proyectos a ejecutar a través de Adquisición de Materiales y Contratación de Servicios de Construcción y Reparación para Daño Moderado.
+
+14. Apruébase el listado de materiales y herramientas que podrán ser adquiridos mediante los subsidios que se entreguen en virtud del presente llamado, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma. No obstante lo anterior, en caso de ser requerido, el Serviu mediante resoluciones fundadas podrá autorizar la incorporación a dicha nómina, de nuevos materiales o herramientas. Los materiales deberán ser adquiridos en los establecimientos comerciales señalados por el Serviu, los cuales serán informados al beneficiario al momento de entrega de la tarjeta.
+
+15. La operatoria para la entrega de este subsidio especial será la siguiente:
+
+15.1 Las Familias deberán buscar a un prestador de servicios de construcción que desarrollará la reparación de la vivienda, quien presentará una propuesta de cubicación y presupuesto de los materiales de las obras a ejecutar equivalente al monto de subsidio definido para estos fines y el costo de sus servicios. Este presupuesto, será en pesos, con IVA incluido.
+
+15.2 Las familias deberán tener Contrato suscrito con una EP quien otorgará los servicios de asistencia técnica singularizados en el Resuelvo 19 de la presente resolución.
+
+15.3 Al momento de recibir la tarjeta, el beneficiario deberá suscribir ante el Serviu una declaración jurada la que deberá contener las siguientes estipulaciones:
+
+a. Manifestar su interés en cambiar de modalidad constructora a la alternativa Banco de Materiales.
+
+b. Obligarse a utilizar los materiales de construcción adquiridos mediante este subsidio, en la realización de obras de reparación de la vivienda dañada.
+
+c. Comprometerse a ejecutar las obras, siguiendo las indicaciones técnicas impartidas por el Prestador de Servicios de Asistencia Técnica.
+
+d. Declarar estar en pleno conocimiento que la mala utilización de este subsidio facultará al Serviu para solicitar la restitución parcial o total del monto de subsidio otorgado, y perseguir las acciones civiles y penales que ello implique.
+
+### 16. Compra de Materiales:
+
+Luego de recibida la tarjeta y aprobado por la EP el presupuesto de las obras, el beneficiario podrá dirigirse a un establecimiento comercial autorizado, con giro relativo a ferretería y provisión de materiales de construcción, para realizar las compra de materiales y herramientas según el presupuesto aprobado. Sólo estará permitido un máximo de cuatro compras.
+
+Al momento de la venta el proveedor deberá verificar la identidad del beneficiario con su Cédula Nacional de Identidad y entregará una factura o boleta con el detalle y cantidad de materiales adquiridos y el valor de cada uno de ellos, debiendo guardar como respaldo una copia firmada por el beneficiario en que conste que éste recibió los materiales a conformidad. Para verificar la validez de la tarjeta, el proveedor deberá acceder a la página web del Ministerio de Vivienda y Urbanismo, en la que ingresará los datos de la operación y se generará un código de validación de la misma. Los materiales provistos deberán ser de primera calidad y deberán coincidir con los que se detallan en el listado de materiales y herramientas anexo a esta resolución.
+
+Trasladados los materiales a la vivienda por el beneficiario, se iniciará la etapa de ejecución de la reparación.
+
+### 17. Pago de materiales:
+
+Para el pago a los proveedores de materiales, el Serviu solicitará lo siguiente:
+
+17.1 Código de validación de la operación, entregado por el soporte respectivo del Sistema computacional Rukan del Ministerio de Vivienda y Urbanismo.
+
+17.2 Copia de Factura o Boleta, con el detalle y cantidad de materiales entregados, y en caso de no constar en éstos, deberá acompañarse copia de la correspondiente Guía de Despacho, debiendo ambas estar firmadas por el beneficiario como forma de acreditar la recepción conforme de los materiales.
+
+17.3 Una vez presentada la Factura o Boleta al Serviu, éste dispondrá de 10 días hábiles para su revisión. El monto a pagar al proveedor será el indicado en la Boleta o Factura, luego de verificar que los materiales y herramientas adquiridos correspondan a los del listado de materiales. En caso que algunos de los elementos detallados en la Boleta o Factura no estén incluidos en el listado señalado anteriormente, se pagará la Boleta o Factura descontando el pago de tales elementos.
+
+### 18. Pago de Servicios de construcción y mejoramiento:
+
+18.1 Para el pago de la contratación de servicios de construcción, el Serviu cancelará al prestador de servicios de construcción que haya realizado las obras del proyecto, los montos correspondientes a cada etapa o carga, previo informe de visación de la Entidad Patrocinante.
+
+18.2 Tras verificar que los materiales adquiridos en la primera compra, hayan sido correctamente aplicados en la vivienda, previo informe de la EP, el Serviu cancelará al prestador de servicios de construcción el 40% del costo de sus servicios.
+
+18.3 Esto se repetirá al finalizar las obras, pagándole tras el informe final de la EP y la recepción del propietario y/o del Serviu el 60% restante de sus servicios al prestador de servicios de construcción.
+
+18.3 El pago de los servicios de construcción se realizará al prestador de servicios de construcción que sea indicado en el informe de la EP.
+
+19. De los Servicios de Asistencia Técnica: Será responsabilidad de las EP que participen de este llamado, la realización de las siguientes labores de Asistencia Técnica:
+
+19.1 Revisión de la Cubicación y presupuesto estimativo de los materiales de construcción que se requerirán para las distintas partidas de las obras de mejoramiento y/o reparación que efectuó el prestador de servicios de construcción y/o reparación. La EP ordenará el presupuesto en 2 etapas, la primera que comprenderá hasta la utilización aproximada del 40% del monto del subsidio y la segunda que deberá considerar el resto de los materiales por el equivalente al 60% restante del monto del subsidio. La conversión del monto del subsidio, desde Unidades de Fomento a pesos, se realizará con el valor UF correspondiente a la fecha de la presente resolución.
+
+19.2 Una vez aprobado el presupuesto, la EP deberá digitar en el sistema informático del Minvu el monto a utilizar en Materiales y en Servicios de construcción si corresponde, para activar la tarjeta que le permitirá al beneficiario realizar la compra de los materiales de construcción equivalentes a la primera etapa del presupuesto. En ese instante, el beneficiario dispondrá de aproximadamente el 40% del monto del subsidio con el cual podrá realizar un máximo de 2 compras en establecimientos distintos o en un mismo lugar.
+
+19.3 Una vez adquiridos los materiales de construcción, la EP deberá asesorar a las familias y/o al prestador de servicios de construcción, respecto de los procedimientos técnicos a realizar y aspectos mínimos a considerar en los distintos procesos constructivos que se ejecutarán en la propiedad.
+
+19.4 Otorgar el visto bueno de las obras, concluida la primera etapa de ejecución, con el objeto de autorizar o no, la activación de la segunda carga de la tarjeta para que el beneficiario realice la compra de los materiales que restan. Si los servicios de construcción se cancelan con cargo al subsidio, este informe técnico facultará al Serviu para cancelar la primera parte de su pago al prestador de servicios de construcción.
+
+19.5 Velar por la correcta aplicación del subsidio por parte del beneficiario, en caso contrario, informar al Serviu respecto a cualquier anomalía.
+
+19.6 Una vez terminada la intervención en la vivienda, y para acreditar la finalización de las obras, se exigirá a la EP el cumplimiento de los siguientes requisitos y documentos:
+
+19.6.1 Visto bueno en el sistema informático del Minvu en un módulo especialmente habilitado para ello.
+
+19.6.2 Informe Técnico el cual deberá incorporar al final del proceso, un anexo firmado por la EP que certifique los materiales adquiridos por el beneficiario fueron utilizados en la obra y que éstas se desarrollaron de acuerdo al apoyo técnico que él proporcionó.
+
+19.6.3 Documento suscrito por el beneficiario que indique su conformidad con el trabajo realizado por la EP, según documento tipo proporcionado por el Serviu para estos efectos.
+
+En caso de no contar con el documento a que se refiere el punto precedente, el Serviu tendrá la facultad de emitir su conformidad con el término del proceso, siempre que a juicio de dicho Servicio, se cumplan con las condiciones establecidas para este subsidio. Si los servicios de construcción se cancelan con cargo al subsidio, con estos documentos se facultará al Serviu a pagar la segunda parte de su pago al prestador de servicios de construcción.
+
+20. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las regiones de Antofagasta y Atacama en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015, según lo señalado en el cuadro contenido en el punto Nº 6 de esta resolución.
 
 > **Nota.** El numeral 1° de la Resolución 9275 Exenta, Vivienda, publicado el 03.12.2015, modifica la presente norma en el sentido de ratificar el día 6 de noviembre, como fecha de cierre de selección correspondiente al mes de octubre de 2015, señalado en la citada norma.
 
