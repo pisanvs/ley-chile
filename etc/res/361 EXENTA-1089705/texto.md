@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 361 EXENTA, DE 2016
+
+Por resolución exenta N°361 de 21 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se otorgó un plazo de 90 días corridos a contar de la fecha de fallecimiento del concesionario para poner término al funcionamiento de la Planta de Revisión Técnica Clase AB código AB 0206, de la comuna de Tocopilla, Región de Antofagasta, concesionada a Juan Páez López. En consecuencia el cierre de la Planta Revisora deberá producirse a más tardar el día 29 de mayo de 2016. Se dispuso asimismo que el Jefe Técnico de la Planta Revisora, don Jorge Adrián Varas Cáceres, será la persona responsable frente a esta Secretaría Regional Ministerial, por el correcto desempeño del establecimiento.-
+
+Waldo Valderrama Salazar, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Antofagasta.
