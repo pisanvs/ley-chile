@@ -110,15 +110,17 @@ c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de
 
 En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado.
+1. A la persona designada expresamente para tales efectos por el afiliado;
 
-2. Al cónyuge sobreviviente.
+2. Al cónyuge sobreviviente;
 
-3. A los hijos.
+3. Al conviviente civil;
 
-4. A los padres.
+4. A los hijos;
 
-5. A la persona que acredite haber efectuado los gastos del funeral
+5. A los padres;
+
+6. A la persona que acredite haber efectuado los gastos del funeral.
 
 d) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste, desde el nivel de pre-kinder hasta la enseñanza superior, en el nivel de pregrado.
 
@@ -130,7 +132,9 @@ g) Ayuda Médica Extraordinaria: en caso de enfermedad grave o catastrófica, tr
 
 h) Catástrofe: se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como la comprobación de los hechos por parte del Jefe del Servicio de Bienestar.
 
-El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General.
+i) Acuerdo de unión civil: cuando el afiliado celebre el contrato de acuerdo de unión civil. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
+
+El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), h), i) será determinado por el Consejo Administrativo, conforme a lo señalado en la letra g) del artículo 29 del Reglamento General.
 
 #### Artículo 10º
 
