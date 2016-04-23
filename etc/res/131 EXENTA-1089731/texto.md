@@ -1,0 +1,5 @@
+SE APRUEBA SEXTA EMISIÓN DE LA CONCESIÓN DEL APORTE ÚNICO DE CARÁCTER REPARATORIO LEY N° 20.874
+
+Por resolución exenta N° 131, de 31 de marzo de 2016, se aprueba la publicación de la sexta emisión del otorgamiento del aporte único de carácter reparatorio ley N° 20.874, a las Personas Reconocidas como Víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura, y a los titulares incluidos en la nómina de víctimas de prisión política y tortura elaborada por la Comisión Asesora para la Calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, conforme las leyes N° 19.992 y N° 20.405, respectivamente. Si el titular estuviere fallecido, corresponderá a su cónyuge sobreviviente el 60% del aporte del titular víctimas de prisión política y tortura.
+
+Santiago, 19 de abril de 2016.- Patricio Coronado Rojo, Director Nacional.
