@@ -1,0 +1,5 @@
+CERTIFICADO
+
+Certifico: Que por resolución exenta N° 1.151, de 15 de abril de 2016, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Securitizadora Security S.A.", acordada en junta extraordinaria de accionistas celebrada el 8 de marzo de 2016 y reducida a escritura pública con fecha 10 de marzo del mismo año, en la 18° Notaría de Santiago de don Patricio Zaldívar Mackenna domiciliado en Bandera 341, oficina 857, Santiago; consistente en el aumento de capital de la sociedad de $2.438.070.951 dividido en 5.498 acciones nominativas, de una misma serie y sin valor nominal, íntegramente suscrito y pagado, a $3.468.182.754, dividido en 10.337 acciones nominativas, de una misma serie y sin valor nominal, mediante la emisión de 4.839 nuevas acciones de pago, por un monto de $1.030.111.803, las que deberán quedar totalmente suscritas y pagadas dentro del plazo de 3 años contados desde la fecha de la junta; modificando para estos efectos los artículos quinto y primero transitorio de los estatutos sociales.
+
+Santiago, 15 de abril de 2016.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
