@@ -622,7 +622,7 @@ Otras disposiciones
 
 #### Artículo 53
 
-Métodos de ensayo utilizados para la verificación de los etilómetros evidenciales. El método de referencia utilizado para la verificación de los etilómetros evidenciales para determinar la exactitud, precisión y factores de influencia deberá ser tratable al sistema internacional de medidas. El equipo usado para verificar los etilómetros evidenciales, deberá ser periódicamente calibrado ,utilizando para ello material de referencia certificado elaborado por un instituto de metrología, nacional o extranjero.
+Métodos de ensayo utilizados para la verificación de los etilómetros evidenciales. El método de referencia utilizado para la verificación de los etilómetros evidenciales para determinar la exactitud, precisión y factores de influencia deberá ser trazable al sistema internacional de medidas. El equipo usado para verificar los etilómetros evidenciales, deberá ser periódicamente calibrado ,utilizando para ello material de referencia certificado elaborado por un instituto de metrología, nacional o extranjero.
 
 #### Artículo 54
 
