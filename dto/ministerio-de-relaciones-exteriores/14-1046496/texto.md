@@ -44,7 +44,7 @@ Cada Secretaría de Estado nombrará a sus representantes.
 
 <!-- parte:9316966 -->
 
-El Comité será presidido por un representante del Ministerio de Relaciones Exteriores designado por el Director de Política Multilateral de la mencionada Secretaría de Estado.
+El Comité será presidido por un representante del Ministerio de Relaciones Exteriores designado por el Director General de Política Exterior de la mencionada Secretaría de Estado.
 
 #### Artículo 4º
 
@@ -63,6 +63,8 @@ Las funciones del Comité serán las siguientes:
 <!-- parte:9316968 -->
 
 El Comité podrá solicitar a los organismos públicos que estime convenientes, toda aquella colaboración que se requiera para el mejor cumplimiento de sus funciones.
+
+La Agencia Nacional de Inteligencia, a través de los representantes que ésta designe, prestará de manera permanente toda aquella colaboración que se requiera para el mejor cumplimiento de las funciones del Comité.
 
 #### Artículo 6º
 
