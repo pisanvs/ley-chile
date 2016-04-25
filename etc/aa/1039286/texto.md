@@ -300,6 +300,8 @@ j) De las apelaciones que el requirente o el Servicio Electoral deduzcan en cont
 
 En estas apelaciones no procederá el trámite de hacerse parte y se verán en cuenta.
 
+k) Las sentencias de los Tribunales Electorales Regionales pronunciadas con motivo de las declaraciones de candidaturas, solicitudes de nulidad o rectificación de escrutinio en las elecciones primarias de Alcalde, de conformidad con lo dispuesto en la Ley N° 20.640, que establece el sistema de elecciones primarias para la nominación de candidatos a Presidente de la República, Parlamentarios y Alcaldes.
+
 14° Interposición del recurso. El recurso de apelación se interpondrá ante el Tribunal Electoral Regional respectivo, o ante el Director del Servicio Electoral o ante los Directores del Servicio Electoral Regionales, en su caso, para ante el Tribunal Calificador de Elecciones.
 
 15° Plazo para interponer el recurso de apelación. El recurso se interpondrá en el término fatal de cinco días hábiles, contados desde la notificación de la parte que entabla el recurso.

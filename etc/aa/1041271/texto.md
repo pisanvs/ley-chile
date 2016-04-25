@@ -34,6 +34,8 @@ j) De las reclamaciones por omisiones injustificadas o por figurar electores con
 
 k) De las solicitudes de exclusión del Padrón Electoral Auditado, de conformidad a lo dispuesto en el artículo 48 de la ley Nº 18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
 
+l) De las declaraciones de candidaturas, de las calificaciones y determinación de los candidatos nominados, como de las reclamaciones de nulidad y solicitudes de rectificación a que diere lugar la aplicación de la Ley N°20.640, que Establece el Sistema de Elecciones Primarias para la Nominación de Candidatos a Presidente de la República, Parlamentarios y Alcaldes.
+
 ## Título II
 
 Del procedimiento común
@@ -162,11 +164,11 @@ De los procedimientos especiales
 
 ## Capítulo I
 
-De los procedimientos contemplados en la ley Nº 18.695, Orgánica Constitucional de Municipalidades.
+De los procedimientos contemplados en la ley Nº 18.695, Orgánica Constitucional de Municipalidades y en la Ley N° 20.640, que Establece el Sistema de Elecciones Primarias para la Nominación de Candidatos a Presidente de la República, Parlamentarios y Alcaldes.
 
 ### Párrafo 1º
 
-De las reclamaciones en contra de las resoluciones del Director Regional del Servicio Electoral relativas a las declaraciones de candidaturas de Alcaldes y Concejales en las elecciones municipales.
+De las reclamaciones en contra de las resoluciones del Director Regional del Servicio Electoral relativas a las declaraciones de candidaturas de Alcaldes y Concejales en las elecciones municipales, y en las declaraciones de candidaturas de Alcaldes para las elecciones primarias.
 
 27º Interposición de la reclamación. Las reclamaciones deberán interponerse ante el Tribunal respectivo por los partidos políticos, debidamente representados, por el candidato agraviado, y por los candidatos independientes, personalmente o por mandatario habilitado, dentro de los cinco días corridos siguientes a la fecha de publicación de la resolución del Director Regional del Servicio Electoral que acepte o rechace la declaración de candidatura de que se trate.
 
@@ -179,6 +181,10 @@ De las reclamaciones en contra de las resoluciones del Director Regional del Ser
 31° Recursos. En contra de la resolución del Tribunal sólo procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá ser interpuesto dentro de cinco días corridos contados desde la respectiva notificación.
 
 El Tribunal comunicará al Tribunal Calificador de Elecciones, por la vía más expedita posible, la circunstancia de haberse interpuesto recurso de apelación, individualizando a las partes, candidato impugnado, y singularizando la causal o causales de impugnación o rechazo y la fecha del recurso.
+
+31 bis: El procedimiento para conocer de las calificaciones y de la determinación de los candidatos nominados, como de las reclamaciones de nulidad y solicitudes de rectificación, se ajustarán a lo prescrito por el artículo 32, inciso segundo, de la Ley N° 20.640.
+
+Los procedimientos a que dieren lugar la aplicación de la Ley N° 20.640, se regirán por los artículos 27 y siguientes de este Auto Acordado.
 
 ### Párrafo 2º
 
