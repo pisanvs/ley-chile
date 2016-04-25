@@ -1,8 +1,8 @@
-AUTO ACORDADO DEL TRIBUNAL CALIFICADOR DE ELECCIONES QUE REGULA LA TRAMITACIÓN Y LOS PROCEDIMIENTOS DERIVADOS DE LA PUBLICACIÓN DE LA LEY N° 20.640 QUE "ESTABLECE EL SISTEMA DE ELECCIONES PRIMARIAS PARA LA NOMINACIÓN DE CANDIDATOS PARA PRESIDENTE DE LA REPÚBLICA, PARLAMENTARIOS Y ALCALDES", EN EL MARCO DE LAS ELECCIONES PRESIDENCIALES Y PARLAMENTARIAS
+AUTO ACORDADO DEL TRIBUNAL CALIFICADOR DE ELECCIONES QUE REGULA LA TRAMITACIÓN Y LOS PROCEDIMIENTOS DERIVADOS DE LA PUBLICACIÓN DE LA LEY N° 20.640 QUE "ESTABLECE EL SISTEMA DE ELECCIONES PRIMARIAS PARA LA NOMINACIÓN DE CANDIDATOS PARA PRESIDENTE DE LA REPÚBLICA, PARLAMENTARIOS Y ALCALDES"
 
 En Santiago, a treinta de abril de dos mil trece, siendo las 17:00 horas, se reunió extraordinariamente el Tribunal Calificador de Elecciones bajo la presidencia del Ministro don Patricio Valdés Aldunate, y con la asistencia de los señores Ministros don Carlos Künsemüller Loebenfelder, don Haroldo Brito Cruz, don Juan Eduardo Fuentes Belmar y don Mario Ríos Santander. Actuó la Secretaria Relatora doña Carmen Gloria Valladares Moyano.
 
-Conforme a las facultades conferidas por el artículo 12 de la Ley N° 18.460, Orgánica Constitucional sobre el Tribunal Calificador de Elecciones, que establece la facultad para reglamentar el procedimiento para la tramitación de las causas y asuntos que se sustancien ante el Tribunal Calificador de Elecciones, asegurando en todo caso un racional y justo proceso, y atendida la necesidad de regular los procedimientos que son de competencia de este Tribunal conforme a la Ley Nº 20.640, Orgánica Constitucional sobre "El Sistema de Elecciones Primarias para la Nominación de Candidatos a Presidente de la República, Parlamentarios y Alcaldes", se acordó dictar el siguiente Auto
+Conforme a las facultades conferidas por artículo 96 de la Constitución Política de la República, y artículo 9°, letra f) y el artículo 12 de la Ley N° 18.460, Orgánica Constitucional sobre el Tribunal Calificador de Elecciones, que establece la facultad para reglamentar el procedimiento para la tramitación de las causas y asuntos que se sustancien ante el Tribunal Calificador de Elecciones, asegurando en todo caso un racional y justo proceso, y atendida la necesidad de regular los procedimientos que son de competencia de este Tribunal conforme a la Ley Nº 20.640, Orgánica Constitucional sobre "El Sistema de Elecciones Primarias para la Nominación de Candidatos a Presidente de la República, Parlamentarios y Alcaldes", se acordó dictar el siguiente Auto
 
 Acordado:
 
@@ -10,11 +10,11 @@ Acordado:
 
 De las reclamaciones de candidaturas relativas a la elección primaria
 
-1° Interposición de la reclamación. Las reclamaciones contra la resolución del Director del Servicio Electoral que acepta o rechaza una candidatura a elección primaria deberán interponerse ante este Tribunal Calificador de Elecciones.
+1° Interposición de la reclamación. Las reclamaciones contra la resolución del Director del Servicio Electoral que acepta o rechaza una candidatura a elección primaria deberán interponerse ante este Tribunal Calificador de Elecciones. En el caso de las candidaturas a elección primaria para Alcalde, éstas deberán interponerse ante el Tribunal Electoral Regional que corresponda.
 
 Las reclamaciones o impugnaciones deberán interponerse por los partidos políticos, debidamente representados y deberán deducirse dentro de los cinco días corridos siguientes a la fecha de publicación de la resolución del Director del Servicio Electoral que acepte o rechace la declaración de candidatura de que se trate.
 
-En todo lo no regulado por este número se aplicarán las disposiciones contenidas en los números 49 a 52 del Auto Acordado que fija el Texto Refundido, coordinado, sistematizado y actualizado de los Autos Acordados sobre funcionamiento y tramitación de las causas y asuntos que deben sustanciarse ante el Tribunal Calificador de Elecciones, publicado en el Diario Oficial el 20 de abril de 2012.
+En todo lo no regulado por este número, en relación a las candidaturas para elección primaria de Presidente de la República y de Parlamentarios, se aplicarán las disposiciones contenidas en los números 49 a 52 del Auto Acordado que fija el Texto Refundido, coordinado, sistematizado y actualizado de los Autos Acordados sobre funcionamiento y tramitación de las causas y asuntos que deben sustanciarse ante el Tribunal Calificador de Elecciones, publicado en el Diario Oficial el 20 de abril de 2012.
 
 ## Capítulo II
 
@@ -54,13 +54,17 @@ Normas comunes a la reclamación de nulidad o solicitud de rectificación de esc
 
 El Tribunal, de oficio o a petición de parte, declarará la inadmisibilidad de la reclamación de nulidad o solicitud de rectificación de escrutinio cuando no se hubiere dado cumplimiento a lo dispuesto en el inciso anterior o hubiere sido presentado fuera de plazo.
 
+### Párrafo 4° — Recursos
+
 7° Recursos. En contra de la resolución que declare inadmisible la solicitud de rectificación de escrutinios o reclamación de nulidad, de la que la acoja a tramitación, de la sentencia definitiva que resuelva la solicitud de rectificación de escrutinio o reclamación de nulidad, del escrutinio general, de la sentencia de calificación y acta de proclamación, o respecto de cualquier otra resolución que dicte el Tribunal, no procederá recurso alguno, sin perjuicio que, de oficio o a petición de parte, dentro de quinto día, el Tribunal modifique lo resuelto por haber incurrido en un error de hecho.
+
+Las apelaciones en contra de resoluciones de los Tribunales Electorales Regionales pronunciadas con motivo de las declaraciones de candidaturas para elecciones primarias de Alcalde, de las solicitudes de nulidad o rectificación de escrutinio, de conformidad con lo dispuesto en la Ley N° 20.640, serán interpuestas para ante el Tribunal Calificador de Elecciones.
 
 ## Capítulo III
 
 Ámbito de aplicación
 
-8° Aplicación. Este Auto Acordado tendrá aplicación en las elecciones primarias de candidatos a los cargos de Diputados, Senadores y Presidente de la República.
+8° Aplicación. Este Auto Acordado tendrá aplicación en las elecciones primarias de candidatos a los cargos de Diputados, Senadores y Presidente de la República y Alcaldes.
 
 Se levantó la presente acta que firman los Ministros concurrentes y autoriza la Secretaria Relatora.- Patricio Valdés Aldunate, Presidente.- Carlos Künsemüller Loebenfelder, Ministro.- Haroldo Brito Cruz, Ministro.- Juan Eduardo Fuentes Belmar, Ministro.- Mario Ríos Santander, Ministro.-
 

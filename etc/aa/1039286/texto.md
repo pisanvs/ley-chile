@@ -352,6 +352,8 @@ j) De las apelaciones que el requirente o el Servicio Electoral deduzcan en cont
 
 En estas apelaciones no procederá el trámite de hacerse parte y se verán en cuenta.
 
+k) Las sentencias de los Tribunales Electorales Regionales pronunciadas con motivo de las declaraciones de candidaturas, solicitudes de nulidad o rectificación de escrutinio en las elecciones primarias de Alcalde, de conformidad con lo dispuesto en la Ley N° 20.640, que establece el sistema de elecciones primarias para la nominación de candidatos a Presidente de la República, Parlamentarios y Alcaldes.
+
 #### Artículo 14
 
 <!-- parte:9250803 -->
