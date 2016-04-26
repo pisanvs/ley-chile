@@ -22,21 +22,19 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécese, de lunes a viernes, excepto festivos, de 07:00 a 21:00 horas, como medida de gestión de tránsito, según sentido de circulación, vía exclusiva con prioridad para transporte público urbano prestado mediante buses, en el eje y tramo que a continuación se indica:
+1.- Establécese, de lunes a viernes, excepto festivos, de 7:00 a 21:00 horas, como medida de gestión de tránsito, según sentido de circulación, vía exclusiva con prioridad para transporte público urbano prestado mediante buses, en la vía y tramo que a continuación se indica:
 
-Eje Desde Hasta
+VÍA DESDE HASTA SENTIDO
 
-Compañía – Merced José Miguel de la
+Compañía - Merced Manuel Rodríguez José Miguel
 
-Barra – Santa Lucía Manuel Rodríguez
+de la Barra P-O
 
 2.- También podrán circular por esta vía exclusiva, los siguientes vehículos:
 
-a) Taxis colectivos;
+a) Vehículos de emergencia, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, de los municipios, destinados a cumplir funciones de seguridad ciudadana y de aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales;
 
-b) Vehículos de emergencia, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, de los municipios, destinados a cumplir funciones de seguridad ciudadana y de aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales;
-
-c) Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte esta vía exclusiva con el único objetivo de acceder o egresar desde su residencia o estacionamiento habitual, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, deberán ingresar y salir de la vía exclusiva de que se trate, en el cruce más próximo al lugar en que se ubique la respectiva residencia o estacionamiento.
+b) Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte esta vía exclusiva con el único objetivo de acceder o egresar desde su residencia o estacionamiento habitual, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, deberán ingresar y salir de la vía exclusiva de que se trate, en el cruce más próximo al lugar en que se ubique la respectiva residencia o estacionamiento.
 
 3.- Modifícase la resolución exenta Nº 388, de 2 de febrero de 2007, citada en el Vistos, en el sentido de eliminar en el Resuelvo 1º la letra
 
