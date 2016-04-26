@@ -110,7 +110,7 @@ categoría 2, previo informe social
 
 de la Municipalidad.
 
-Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva Municpalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran hubieren obtenido en su Ficha de Protección Social un puntaje no superior al establecido para el primer quintil. Para estos efectos, la Municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando sus puntajes correspondientes de la Ficha de Protección Social.
+Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva municipalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran se encuentren calificadas en el "Tramo 1" del Registro Social de Hogares. Para estos efectos, la municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando el Tramo en que cada una califica en el Registro Social de Hogares.
 
 Igualmente estarán exentos de realizar el aporte financiero que requiere este Programa los Comités de Pavimentación que pertenezcan a cualquiera de los Barrios priorizados en el Programa Recuperación de Barrios, y la respectiva Municipalidad en relación a dichos proyectos.
 
@@ -550,7 +550,7 @@ El valor límite de los pavimentos y/o repavimentos para la comuna de Gral. Lago
 
 Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $64.000/m2 y $65.000/m2 y en adoquín canteado es de $64.000/m2 y $64.000/m2.
 
-En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $62.000/m2 y de adoqu�n canteado es de $60.000/m2, tanto para calles como pasajes.
+En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $62.000/m2 y de adoquín canteado es de $60.000/m2, tanto para calles como pasajes.
 
 (3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $128.000/m2 y $136.000 respectivamente, tanto para calles como para pasajes.
 
@@ -861,6 +861,10 @@ Transitorio: En atención al decreto N° 1.227, de Interior, de 2015, que señal
 #### Artículo 11º
 
 Transitorio: Las postulaciones de las comunas de Valparaíso, Viña del Mar y Coquimbo, de las NOTAcomunas que pertenecen a las Provincias de Choapa y Limarí y a la Región de Atacama y de toda otra comuna con decreto vigente del Ministerio del Interior y Seguridad Pública que la declare Zona Afectada por Catástrofe, que participen y resulten seleccionadas en el 25º Proceso de Selección de Proyectos del Programa de Pavimentación Participativa, que realiza la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos que señalan a dichas Comunas, Provincias y/o Región como Zona Afectada por Catástrofe.
+
+#### Artículo 13º
+
+transitorio: Las postulaciones válidamente ingresadas al 25º Llamado del Programa de Pavimentación Participativa, cuyos Comités de Pavimentación calificaron como "Muy Vulnerable", que en dicho proceso no resultaron seleccionadas, conformando la lista de espera, y repostulen al próximo 26º Llamado de este Programa, para todos los efectos mantendrán su calificación de "Muy Vulnerable".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
