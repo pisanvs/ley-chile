@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "ASOCIACIÓN DE LA INDUSTRIA DEL SALMÓN DE CHILE A.G. O SALMONCHILE A.G."
+
+Por resolución exenta Nº 47, de 1 de marzo de 2016 y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación otorgada mediante resolución exenta Nº 21 de 16 de enero de 2014 a "Centro de Evaluación y Certificación de Competencias Laborales Asociación de la Industria del Salmón de Chile A.G. o Salmónchile A.G.", RUT Nº 71.334.900-3, al siguiente perfil ocupacional del Sector Acuícola Pesquero, Subsector Cultivo y Crianza de Peces: Operario de Piscicultura (P-0321-9216-012-V01). La ampliación de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
