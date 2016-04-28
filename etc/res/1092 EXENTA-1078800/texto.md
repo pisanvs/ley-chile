@@ -284,13 +284,21 @@ c) Dar oportuno y adecuado trámite a la documentación de carácter privado de 
 
 d) Custodiar y almacenar la documentación original correspondiente a los flujos administrativos del Consejo, así como el respectivo inventario actualizado de los mismos y su digitalización dando cumplimiento a los plazos legales.
 
+V. Unidad de Seguimiento de Proyectos, cuyo objeto es asesorar a la autoridad del Consejo acerca del estado de cumplimiento de proyectos, convenios y transferencias correspondientes a los Programas 01 y 02 del presupuesto del Servicio, con las siguientes funciones específicas:
+
+a) Proponer acciones que permitan el seguimiento eficaz de los convenios en ejecución o programas, de acuerdo a la normativa vigente y las políticas definidas para cada línea de financiamiento.
+
+b) Verificar la ejecución de los proyectos para evaluar sus avances según convenio respectivo.
+
+c) Diseñar y proponer a la autoridad procedimientos y metodologías para realizar el seguimiento eficaz de la ejecución de los proyectos.
+
+d) Las demás que, dentro de su competencia, le instruyan las autoridades del Consejo.
+
 #### Artículo 7º
 
-Departamento de Fomento de la Cultura y las Artes, cuya misión es apoyar la creación, producción, promoción y distribución de bienes y servicios creativos a través del desarrollo y ejecución de los fondos de fomento administrados por el Consejo; implementar programas, realizar acciones y actividades tendientes al fomento de las artes y las economías creativas; y ser el interlocutor en materias estratégicas, de diseño y evaluación de impacto de programas, en coordinación con los demás Departamentos del Consejo, destinados a dichas funciones y también con otras entidades del sector público y privado, nacional e internacional.
+Departamento de Fomento de la Cultura y las Artes, cuya misión es apoyar la creación, producción, promoción y distribución de bienes y servicios creativos, a través del desarrollo y ejecución de los fondos de fomento administrados por el Consejo; implementar programas, realizar acciones y actividades tendientes al fomento de las artes y las economías creativas; y ser el interlocutor en materias estratégicas, de diseño y evaluación de impacto de programas, en coordinación con los demás Departamentos del Consejo, destinados a dichas funciones y también con otras entidades del sector público y privado, nacional e internacional.
 
-El Departamento de Fomento de la Cultura y las Artes se compondrá de los siguientes Subdepartamentos, así como de una Unidad de Gestión Administrativa:
-
-### I. Subdepartamento de Fondos de Cultura conformado por las siguientes Secretarías Ejecutivas:
+El Departamento de Fomento de la Cultura y las Artes se compondrá de las siguientes secciones y unidades:
 
 1. Secretaría Ejecutiva del Fondo Nacional de Desarrollo Cultural y las Artes, cuyas funciones son las siguientes:
 
@@ -332,6 +340,8 @@ d) Apoyar la creación de iniciativas creativas coherentes con la política cult
 
 e) Establecer vínculos de coordinación con los distintos programas del Consejo y las entidades públicas y privadas cuyas actividades se relacionen con los objetivos del Consejo concernientes al Departamento, en orden a articular territorialmente el desarrollo de las iniciativas referidas a las diversas industrias creativas, en el ámbito del Fondo para el Fomento para la Música Nacional.
 
+f) Ejecutar el Programa Escuelas de Rock y Música Popular.
+
 4. Secretaría Ejecutiva del Fondo de Fomento Audiovisual, cuyas funciones son las siguientes:
 
 a) Asistir al Ministro(a) Presidente(a) en la coordinación, apoyo y gestión administrativa tanto de concursos, postulaciones, proyectos, programas, aportes y en general, de los ámbitos ligados a la administración del Fondo de Fomento Audiovisual, dando apoyo técnico y administrativo al Consejo respectivo, a sus integrantes y asesores en lo relativo a tales materias.
@@ -346,9 +356,7 @@ e) Establecer vínculos de coordinación con los distintos programas del Consejo
 
 f) Supervisar el funcionamiento de la Comisión Fílmica, entidad encargada de promover al país como destino de producción audiovisual en mercados internacionales.
 
-II. Subdepartamento de Creación y Fomento, que tendrá bajo su dependencia las Áreas Artísticas y los Programas Transversales y estará conformado por:
-
-1. Unidad de Áreas Artísticas, cuya función es coordinar la relación del Consejo con asociaciones y representantes de disciplinas artísticas incluidas en el ámbito de acción propio del Fondo Nacional de Desarrollo Cultural y las Artes (Fondart) con el fin de identificar necesidades, diseñar e implementar políticas, programas y acciones propias, junto con articular a los actores del sector con los fondos y programas del Consejo, así como el resto de las reparticiones del Estado pertinentes al desarrollo de cada área.
+5. Unidad de Áreas Artísticas, cuya función es coordinar la relación del Consejo con asociaciones y representantes de disciplinas artísticas incluidas en el ámbito de acción propio del Fondo Nacional de Desarrollo Cultural y las Artes (Fondart) con el fin de identificar necesidades, diseñar e implementar políticas, programas y acciones propias, junto con articular a los actores del sector con los fondos y programas del Consejo, así como el resto de las reparticiones del Estado pertinentes al desarrollo de cada área.
 
 Las Áreas Artísticas son:
 
@@ -368,7 +376,7 @@ a) Fortalecer la creación fotográfica autoral.
 
 b) Apoyar la asociatividad entre los componentes del sector.
 
-c) Aumentar la circulación la obra de nuestros fotógrafos destacados y emergentes en el ámbito nacional e internacional.
+c) Aumentar la circulación de la obra de nuestros fotógrafos, destacados y emergentes en el ámbito nacional e internacional.
 
 Nuevos Medios: Los nuevos medios se definen como los nuevos lenguajes visuales y de comunicación con el uso de tecnologías cuya intensión crítica, experimental o de innovación, las redefinen como medios creativos y artísticos.
 
@@ -390,7 +398,7 @@ Teatro, cuyos objetivos son:
 
 a) Fomento disciplinar.
 
-b) Difusión..
+b) Difusión.
 
 c) Formación Teatral.
 
@@ -424,7 +432,7 @@ e) Generación de conocimiento.
 
 Artesanía, cuyos objetivos son:
 
-a) Institucionalidad e Infraestructura Sectorial.
+a) Institucionalidad e infraestructura Sectorial.
 
 b) Creadores para la Industria y el Patrimonio.
 
@@ -434,25 +442,31 @@ Diseño, cuyos objetivos son:
 
 a) Promover el Diseño como herramienta de valor (cultural y económico).
 
-b) Difundir en el exterior la obra del diseño Chileno.
+b) Difundir en el exterior la obra del diseño chileno.
 
 c) Aumentar y reforzar la participación y asociatividad del sector.
 
 d) Promover la transferencia de información.
 
-e) Promover el Diseño como herramienta de valor (cultural y económico).
-
 Arquitectura, cuyos objetivos son:
 
 a) Promover la arquitectura de excelencia.
 
-b) Fortalecer el rol de la arquitectura en la sociedad
+b) Fortalecer el rol de la arquitectura en la sociedad.
 
 c) Fomentar la internacionalización de la arquitectura chilena.
 
-2. Unidad de Programas Transversales de Fomento, cuya función es la creación y gestión de los programas transversales que contarán con recursos propios, establecidos en Ley de Presupuestos, orientados al fortalecimiento de las políticas públicas y lineamientos programáticos centrales del Consejo.
+Gastronomía, cuyos objetivos son:
 
-III. Unidad de Gestión Administrativa, cuyo objeto es la coordinación y apoyo al Departamento en los procesos y recursos requeridos para la implementación de la política pública cultural, aplicando los procedimientos de trabajo que para tal objeto definan, monitoreen, controlen y evalúen los Departamentos de Planificación y Presupuesto, Administración y Finanzas y de Gestión y Desarrollo de las Personas, para los siguientes ámbitos:
+a) Promover la gastronomía como manifestación cultural y patrimonial.
+
+b) Difusión y puesta en valor de la gastronomía nacional.
+
+e) Fomentar la internacionalización de la gastronomía chilena como expresión cultural.
+
+6. Unidad Transversal de Coordinación, cuya función es gestionar y coordinar los programas transversales del departamento, velando por su coherencia con las políticas públicas y lineamientos programáticos del Consejo. Asimismo, asesorará y apoyará a la jefatura del departamento en aquellas materias de gestión que ella le encomiende, y que no correspondan a la Unidad de Gestión Administrativa, para lo cual podrá proponer rediseños, optimizaciones y estandarizaciones.
+
+7. Unidad de Gestión Administrativa, cuyo objeto es la coordinación y apoyo al Departamento en los procesos y recursos requeridos para la implementación de la política pública cultural, aplicando los procedimientos de trabajo que para tal objeto definan, monitoreen, controlen y evalúen los Departamentos de Planificación y Presupuesto, Administración y Finanzas y de Gestión y Desarrollo de las Personas, para los siguientes ámbitos:
 
 a) Planificación y Control de Gestión:
 
@@ -462,9 +476,7 @@ b) Gestión administrativa:
 
 - Se encargará de gestionar la contratación del personal requerido para el desarrollo de las funciones departamentales.
 
-- De ejecutar los planes anuales de compras y contrataciones de bienes y servicios necesarios para la implementación de los respectivos programas.
-
-- De gestionar la suscripción de convenios con terceros, cuando corresponda.
+- De ejecutar los planes anuales de compras y contrataciones de bienes y servicios necesarios para la implementación de los respectivos programas. De gestionar la suscripción de convenios con terceros, cuando corresponda.
 
 c) Gestión Presupuestaria:
 
@@ -604,55 +616,93 @@ l) Asesorar al Ministro(a) Presidente(a) en toda materia referida a los Pueblos 
 
 #### Artículo 11º
 
-Departamento de Patrimonio Cultural, cuya misión es promover un desarrollo cultural armónico, pluralista y equitativo entre los habitantes del país, a través de la preservación, promoción y difusión del patrimonio cultural chileno, adoptando iniciativas públicas que estimulen una participación activa de la ciudadanía en el logro de tales fines. Como así mismo velar por la definición e implementación de políticas públicas, vinculadas a la puesta en valor, salvaguardia, valorización y uso sustentable del patrimonio cultural, tanto de nacionales como de alcance regional, que respeten las particularidades locales.
+Departamento de Patrimonio Cultural, cuya misión es promover un desarrollo cultural armónico, pluralista y equitativo entre los habitantes del país, a través de la preservación y difusión del patrimonio cultural, implementando políticas e iniciativas públicas vinculadas al registro e inventario, investigación, preservación y salvaguardia, puesta en valor y uso sustentable del patrimonio cultural, así como la instalación de mecanismos de transmisión y promoción del patrimonio cultural, que estimulen una participación activa de la ciudadanía en el logro de tales fines.
 
 Las funciones generales y transversales del Departamento de Patrimonio Cultural son:
 
-a) Asesorar al Ministro(a) Presidente en toda materia referida a Patrimonio Cultural, material e inmaterial, como así mismo a los otros departamentos y unidades del Consejo.
+a) Asesorar al Ministro(a) Presidente en toda materia referida a Patrimonio Cultural y a los otros departamentos y unidades del Consejo.
 
 b) Desarrollar y ejecutar los programas del Consejo en materias de Patrimonio Cultural.
 
 c) Apoyar la regionalización y propiciar condiciones que apunten a la descentralización en la planificación y desarrollo de programas referidos al patrimonio cultural, junto con colaborar con la gestión de las Direcciones Regionales en la materia.
 
-d) Representar al servicio en materias de patrimonio cultural, junto con colaborar y coordinar acciones conjuntas con la Dirección de Bibliotecas y Museos (DIBAM), el Consejo de Monumentos Nacionales y otros organismos públicos y privados, para la elaboración y ejecución de políticas públicas en materia de patrimonio cultural, que se ajusten a las normativas nacionales y derivadas de convenciones y recomendaciones internacionales, considerando proponer actualizaciones de las mismas.
+d) Representar al servicio en materias de patrimonio cultural, junto con colaborar y coordinar acciones conjuntas con la Dirección de Bibliotecas, Archivos y Museos (DIBAM), el Consejo de Monumentos Nacionales y otros organismos públicos y privados, para la elaboración y ejecución de políticas públicas en materia de patrimonio cultural, que se ajusten a las normativas nacionales y derivadas de convenciones y recomendaciones internacionales, considerando proponer actualizaciones de las mismas.
+
+e) Contribuir a la investigación, implementación y transferencia de nuevas metodologías y estrategias en los ámbitos de la rentabilización social, fomento, ciencia y tecnología y otros, aplicables al patrimonio cultural; que permitan un tratamiento integral y sistémico del mismo y una relación entre la política patrimonial con diversas políticas sectoriales.
+
+f) Generar y difundir información, junto con promover el desarrollo del conocimiento del patrimonio cultural y facilitar orientaciones, para fomentar y ampliar las capacidades de cultores/as, personas y sus organizaciones, en torno a bienes y expresiones del mismo.
+
+El Departamento de Patrimonio Cultural está integrado por las siguientes Sección y Unidades:
+
+I. Sección de Gestión Patrimonial: El objetivo de esta sección es la formulación, desarrollo e implementación de estrategias y programas del Departamento de Patrimonio Cultural para contribuir a la conservación, promoción y difusión del patrimonio cultural expresadas a través de su múltiple diversidad de categorías y manifestaciones en su vinculación en el territorio y en cada una de las regiones. Sus funciones son las siguientes:
+
+a) Coordinar, formular y desarrollar programas que permitan el desarrollo de líneas de actuación orientados a la investigación, documentación, preservación, puesta en valor y difusión del Patrimonio Cultural.
+
+b) Propiciar la formulación y aplicación de criterios y protocolos de actuación para la salvaguardia y preservación del patrimonio cultural.
+
+c) Velar por un enfoque interdisciplinario en la toma de decisiones en materias de Patrimonio Cultural.
+
+d) Planificar, diseñar y resguardar la correcta implementación de las actividades programáticas, para focalizar y generar una adecuada cobertura social, territorial y de contenido respecto de la política cultural vigente, en relación a los Programas del Departamento.
+
+e) Monitorear y reportar periódicamente respecto a los programas del departamento y apoyar la formulación, reformulación y ampliación de estos.
+
+f) Asesorar y generar coordinaciones con otros departamentos y unidades del Consejo para generar sinergia en las acciones que se emprendan.
+
+g) Apoyar la regionalización y propiciar condiciones que apunten a la descentralización en la planificación y desarrollo de programas referidos al patrimonio cultural, junto con colaborar con la gestión de las Direcciones Regionales.
+
+h) Implementar los instrumentos de seguimiento y reporte de las acciones en el territorio respecto del cumplimiento de los objetivos de las políticas culturales y metas institucionales.
+
+i) Promover la realización de proyectos de investigación, documentación, salvaguardia, preservación y puesta en valor y difusión, que contribuyan a la gestión del patrimonio cultural, en sus varias manifestaciones e incluyendo aquellas categorías de patrimonio emergentes como: paisajes culturales, itinerarios culturales, patrimonio industrial, patrimonio rural y artístico.
+
+La Sección de Gestión Patrimonial contará con las siguientes unidades:
+
+1. Unidad de Patrimonio Inmaterial cuyo objetivo es velar por la salvaguardia del Patrimonio Cultural Inmaterial en el país, atendiendo a que sus funciones específicas son las siguientes:
+
+a) Generar y promover la identificación, registro, localización, investigación, promoción, puesta en valor, sustentabilidad y transmisión de información, criterios y valores para la salvaguardia de las manifestaciones del patrimonio cultural inmaterial.
+
+b) Implementar la Convención para la Salvaguardia del Patrimonio Cultural Inmaterial e instrumentos derivados.
+
+c) Identificar, generar e instalar herramientas, procesos, metodología y criterios acordes a la salvaguardia requerida, para lo cual deberá:
+
+i. Elaborar expedientes y planes de salvaguarda de patrimonio inmaterial y/o programas afines; y,
+
+ii. Desarrollar, implementar y gestionar el inventario de manifestaciones del patrimonio inmaterial a través de Sistema de Información para la Gestión Patrimonial (SIGPA), según lineamientos de la convención y atendiendo a criterios de interoperabilidad de información en el Estado.
+
+d) Contribuir al desarrollo, diseño, ejecución y evaluación de los programas del departamento.
+
+2. Unidad de Territorio: cuyo objetivo es propiciar una mirada integral del patrimonio, velando por la implementación de acciones con una amplia cobertura territorial y social, focalizando y direccionando de acuerdo a la política cultural vigente. Sus funciones específicas son las siguientes:
+
+a) Contribuir al desarrollo, diseño, ejecución y evaluación de los programas del Departamento.
+
+b) Coordinación y orientación a los encargados regionales de patrimonio en la ejecución de actividades programáticas.
+
+c) Velar por la reportabilidad de las acciones programáticas en el Sistema de Información Patrimonial de manera de contar con información fehaciente y actualizada de la cobertura social y territorial que conlleve la ejecución de los programas.
+
+d) Suministrar insumos técnicos a la Unidad de Infraestructura y al Departamento Jurídico del Consejo en las convocatorias y los procesos asociados al Fondo del Patrimonio y aquellos relativos al patrimonio cultural.
 
 e) Contribuir a la investigación, implementación y transferencia de nuevas metodologías y estrategias en los ámbitos de la rentabilización social, fomento, ciencia y tecnología y otros, aplicables al patrimonio cultural, que permitan un tratamiento integral y sistémico del mismo y una relación entre la política patrimonial con diversas políticas sectoriales.
 
-f) Generar y difundir información, junto con promover el desarrollo del conocimiento del patrimonio cultural y facilitar orientaciones, para fomentar y ampliar las capacidades de cultores(as), personas y sus organizaciones, en torno a bienes y expresiones del mismo.
+f) Apoyar la instalación de criterios y herramientas que permitan la interoperabilidad entre desarrollos del ámbito patrimonial en el Estado.
 
-El Departamento de Patrimonio Cultural está integrado por las siguientes Secciones y Unidades:
+g) Propiciar la coordinación interinstitucional para la mirada territorial del patrimonio cultural, en la búsqueda de mecanismos colaborativos de gestión.
 
-I. Sección de Patrimonio Cultural Material, cuyo objetivo consiste en desarrollar estrategias y programas a nivel nacional para contribuir a la conservación y puesta en valor del patrimonio cultural material en sus diversas expresiones y manifestaciones. Son funciones de esta Sección las siguientes:
+h) Apoyar el desarrollo de investigaciones, proyectos y actuaciones en materia de conservación y restauración del patrimonio cultural en diversas categorías.
 
-a) Realizar y coordinar la identificación, registro, investigación, inventarios y diagnósticos de bienes y expresiones del patrimonio cultural material.
+3. Unidad de Extensión: cuyo objetivo es apoyar la difusión de los valores del patrimonio cultural a través de instancias de educación patrimonial, participación y promoción. Sus funciones específicas son las siguientes:
 
-b) Sistematizar, producir, recopilar y gestionar información disponible de instituciones públicas, sociedad civil y privada respecto del patrimonio cultural material.
+a) Contribuir al desarrollo, diseño, ejecución y evaluación de los programas del Departamento.
 
-c) Formular, implementar y coordinar estrategias de difusión y promoción en el tratamiento y valorización del patrimonio material.
+b) Colaborar en la instalación de capacidades técnicas al interior del Departamento y de la institución en materia de Patrimonio Cultural.
 
-d) Desarrollar e implementar planes, programas y herramientas para el manejo y actuación en patrimonio cultural material.
+c) Generar y difundir información sobre los valores, atributos y expresiones del Patrimonio Cultural.
 
-e) Generar e implementar procesos participativos e instancias asociativas, público privadas, para el ejercicio de responsabilidades compartidas vinculadas al patrimonio cultural material.
+d) Promover el desarrollo del conocimiento del Patrimonio Cultural y facilitar orientaciones, para fortalecer las capacidades de cultores(as), personas y sus organizaciones, en torno a bienes y expresiones del mismo.
 
-f) Apoyar la recuperación, conservación, restauración e intervención de bienes que forman parte del patrimonio cultural construido, sean de dominio público o privado.
+e) Establecer planes de formación sobre Patrimonio Cultural dirigido a actores locales y territoriales, niños y jóvenes, promoviendo y organizando actividades formativas a través de instancias de educación patrimonial.
 
-g) Definir las directrices, orientaciones y focalizaciones técnicas del Programa Fondo del Patrimonio en coordinación con el Departamento de Infraestructura y así como de otros Fondos e iniciativas que el servicio disponga en materia de patrimonio cultural.
+f) Propiciar el desarrollo de programas y proyectos de turismo cultural que contribuyan a la sostenibilidad del Patrimonio Cultural.
 
-II. Sección de Patrimonio Cultural Inmaterial, cuyo objetivo consiste en desarrollar estrategias y programas a nivel nacional para salvaguardar la diversidad cultural del país expresada a través de su patrimonio cultural inmaterial. Son funciones de esta Sección las siguientes:
-
-a) Implementar la Convención de Patrimonio Cultural Inmaterial e instrumentos derivados.
-
-b) Ejecutar y facilitar la identificación, registro y localización, investigación, promoción, puesta en valor, sustentabilidad y transmisión para la salvaguardia del patrimonio cultural inmaterial.
-
-c) Elaborar y gestionar los inventarios de patrimonio cultural inmaterial que se deben confeccionar según lineamientos de la convención, que insumen las decisiones de la política pública en materia de Patrimonio Cultural Inmaterial.
-
-d) Desarrollar e implementar planes y programas para la salvaguardia del patrimonio cultural inmaterial en ámbitos como turismo cultural, educación patrimonial, entre otros.
-
-e) Consolidar instancias externas de participación para la resolución compartida en materias de patrimonio cultural inmaterial.
-
-f) Participar en instancias externas para la salvaguardia del patrimonio cultural inmaterial.
-
-III. Unidad de Gestión Administrativa, cuyo objeto es la coordinación y apoyo al Departamento en los procesos y recursos requeridos para la implementación de la política pública cultural, aplicando los procedimientos de trabajo que para tal objeto definan, monitoreen, controlen y evalúen los Departamentos de Planificación y Presupuesto, Administración y Finanzas y de Gestión y Desarrollo de las Personas, para los siguientes ámbitos:
+II. Unidad de Gestión Administrativa, cuyo objeto es la coordinación y apoyo al Departamento en los procesos y recursos requeridos para la implementación de la política pública cultural, aplicando los procedimientos de trabajo que para tal objeto definan, monitoreen, controlen y evalúen los Departamentos de Planificación y Presupuesto, Administración y Finanzas y de Gestión y Desarrollo de las Personas, para los siguientes ámbitos:
 
 a) Planificación y Control de Gestión:
 
@@ -662,9 +712,9 @@ b) Gestión administrativa:
 
 - Se encargará de gestionar la contratación del personal requerido para el desarrollo de las funciones departamentales.
 
-- De ejecutar los planes anuales de compras y contrataciones de bienes y servicios necesarios para la implementación de los respectivos programas.
+- De ejecutar los planes anuales de compras y contrataciones de bienes y servicios necesarios para la implementación de los respectivos programas del Departamento.
 
-- De gestionar la suscripción de convenios con terceros, cuando corresponda.
+- De gestionar la suscripción de convenios con terceros.
 
 c) Gestión Presupuestaria:
 
@@ -932,33 +982,17 @@ f) Realizar la evaluación de los contenidos programáticos, expresados en la po
 
 ### II. Sección de Estadísticas Culturales y Artísticas, cuyas funciones son:
 
-a) Diseñar, elaborar, ejecutar, o licitar estudios cuantitativos cuyas temáticas sean pertinentes a las prioridades culturales del Consejo.
+a) Diseñar, ejecutar y/o licitar operaciones estadísticas y estudios, en colaboración con instituciones públicas, privadas o del tercer sector, cuyas temáticas sean pertinentes a la misión del Consejo.
 
-b) Diseñar operaciones estadísticas propias y en colaboración con instituciones públicas, privadas o del tercer sector.
+b) Analizar los resultados derivados de operaciones estadísticas (propias o de terceros), y de estudios del ámbito cultural, visualizando los contextos, sectoriales, socioeconómicos y territoriales.
 
-c) Realizar el seguimiento y control de calidad de los procesos de recolección, validación y explotación de la información de las operaciones promovidas desde el Departamento de Estudios y su transferencia al Consejo.
+c) Diseñar y aplicar estándares de control de calidad a los procesos de recolección, validación y explotación de la información cultural, promovidas desde el Departamento de Estudios.
 
-d) Desarrollar los procesos de mantenimiento de las diversas bases de datos que se gestionan a través del Departamento de Estudios.
+d) Participar de instancias nacionales e internacionales que trabajen las ciencias estadísticas como base para diseñar y elaborar políticas culturales.
 
-e) Participar de instancias nacionales e internacionales que trabajen las ciencias estadísticas como base para diseñar y elaborar políticas culturales.
+e) Desarrollar y operar el sistema de información cultural de Chile.
 
-f) Desarrollar y operar el sistema de información cultural de Chile.
-
-### III. Sección de Contenidos y Transferencias, cuyas funciones son:
-
-a) Diseñar, elaborar, ejecutar, o licitar estudios que faciliten la acción programática del Consejo.
-
-b) Diseñar, elaborar y materializar espacios e instancias amplias y específicas, que promuevan diálogos reflexivos, de manera diferenciada, entre el Consejo y otros servicios públicos.
-
-c) Construir y participar de instancias que permitan crear y fortalecer alianzas, colaboraciones e intercambios de conocimientos y experiencias sobre el campo cultural, entre el Consejo y centros de investigación, universidades u otras organizaciones públicas y privadas, así como, agentes relevantes del sector, a nivel local, regional y nacional e internacional.
-
-d) Realizar estudios y publicaciones en materias de su competencia.
-
-e) Recopilar, conservar, clasificar y difundir documentos, estudios y publicaciones emanados desde el Consejo, cuyo tema principal sea la problemática de la cultura y las artes.
-
-f) Gestionar la adquisición de documentos, estudios y publicaciones nacionales e internacionales, que tengan como tema principal la problemática de la cultura y las artes.
-
-g) Poner a disposición de la ciudadanía, material temático emanado o adquirido por el Consejo, través de una plataforma web y un espacio físico.
+f) Poner a disposición de la ciudadanía, material temático emanado o adquirido por el Consejo.
 
 CAPÍTULO III: Del Comité Asesor de Gestión Interna.
 
