@@ -20,9 +20,9 @@ Apruébase el siguiente Reglamento que regula el Subsidio de calefacción denomi
 
 Disposiciones generales
 
-#### Artículo 1°
+#### Artículo 1º
 
-El "Subsidio de Calefacción" se regirá por las disposiciones contenidas en la Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002 de la Ley de Presupuestos del Sector Público del año respectivo, este Reglamento y las demás normas aplicables. El "Subsidio de Calefacción" será administrado por el Fondo de Solidaridad e Inversión Social en adelante "Fosis", al que le corresponderá, especialmente, verificar el cumplimiento de los requisitos para acceder a él, concederlo y extinguirlo.
+El "Subsidio de Calefacción" se regirá por las disposiciones contenidas en la Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002 de la Ley Nº 20.882 de Presupuestos del Sector Público para el año 2016, este Reglamento y las demás normas aplicables. El "Subsidio de Calefacción" será administrado por el Fondo de Solidaridad e Inversión Social en adelante "Fosis", al que le corresponderá, especialmente, verificar el cumplimiento de los requisitos para acceder a él, concederlo y extinguirlo.
 
 Para estos efectos, el Fosis utilizará la información que se desprenda por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379, y cualquier otra información disponible a que tenga acceso en el Registro de Información Social del Ministerio de Desarrollo Social.
 
@@ -32,11 +32,11 @@ Corresponderá al Fosis dictar el o los actos administrativos a que diere lugar 
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-a) Subsidio: El subsidio de calefacción denominado "Subsidio de Calefacción" a que se refiere la respectiva Ley de Presupuestos para el Sector Público en la Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, y que tiene por finalidad la atención de familias de la Región de Aysén.
+a) Subsidio: El subsidio de calefacción denominado "Subsidio de Calefacción" a que se refiere la Ley Nº 20.882, de Presupuestos para el Sector Público año 2016, en la Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, y que tiene por finalidad la atención de familias de la Región de Aysén.
 
 b) Beneficiarios: Aquellas familias a que se refiere el artículo 5º del presente Reglamento. Para estos efectos se entenderá familia en los términos de la letra d) del artículo 3º del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social."
 
-c) Glosa: Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, de la Ley respectiva de Presupuestos para el Sector Público.
+c) Glosa: Glosa 13 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, de la Ley Nº 20.882 de Presupuestos para el Sector Público año 2016.
 
 d) Calificación Socioeconómica: Ordenación de las unidades de análisis que forman parte del Registro Social de Hogares, que podrá ser estratificada por quintiles, deciles, percentiles o tramos, en función de los ingresos de los integrantes de la unidad de análisis y otros atributos que sean necesarios, lo cual se expresará en términos de puntaje o indicador.
 
@@ -54,7 +54,7 @@ Focalización.- Este bono será focalizado preferentemente en familias que perte
 
 #### Artículo 5º
 
-Beneficiarios.- Podrán ser beneficiarios del Subsidio de Calefacción, aquellas familias que tengan domicilio en la Región de Aysén y que al primer día hábil del mes de marzo del año de otorgamiento del beneficio pertenezcan preferentemente hasta el tramo 80 según la Calificación Socioeconómica a que se refiere el artículo 33º del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social. Para tal efecto, el tramo 80 corresponde al cuarto quintil de vulnerabilidad a que alude la Glosa 13 asociada a la Asignación 002 "Programa de Desarrollo Social" del Subtítulo 33, ítem 01, de la Partida 21, Capítulo 02, Programa 01 de la Ley de Presupuestos del Sector Público del año respectivo.
+Beneficiarios.- Podrán ser beneficiarios del Subsidio de Calefacción, aquellas familias que tengan domicilio en la Región de Aysén y que al primer día hábil del mes de marzo de 2016 pertenezcan preferentemente hasta el tramo 80 según la Calificación Socioeconómica a que se refiere el artículo 33º del decreto supremo Nº 22, de 2015, del Ministerio de Desarrollo Social.
 
 #### Artículo 6º
 
@@ -96,7 +96,7 @@ Pago y Entidad Pagadora: El pago del Subsidio será de responsabilidad de Fosis,
 
 Dicho pago deberá efectuarse dentro de los 60 días siguientes a la fecha de su concesión, y podrá realizarse mediante transferencia electrónica de fondos, depósito en cuenta bancaria, vale vista o pago presencial.
 
-Para tal efecto, se contemplan gastos administrativos para la implementación del pago del Subsidio de Calefacción, hasta un 18% máximo anual del monto total de los recursos asignados para gasto de administración en la Glosa 12 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, en la respectiva Ley de Presupuestos para el Sector Público.
+Para tal efecto, se contemplan gastos administrativos para la implementación del pago del Subsidio de Calefacción, se podrán incluir hasta $57.341.000.- (cincuenta y siete millones trescientos cuarenta y un mil pesos) para gastos de administración, de los recursos asignados en virtud de la Glosa 12 de la Partida 21, Capítulo 02, Programa 01, Subtítulo 33, Ítem 01, Asignación 002, de la Ley Nº 20.882 de Presupuestos para el Sector Público año 2016.
 
 #### Artículo 10º
 
