@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.973 EXENTA, DE 25 DE ABRIL DE 2016
+
+Por resolución exenta Nº 1.973, de 25 de abril de 2016, de la Secretaría Regional Ministerial de la Región Metropolitana, se han prorrogado nuevamente los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región Metropolitana, hasta el día 28 de octubre de 2016, respecto de todas las plantas revisoras de la concesión Nº 2 y 5; planta revisora B 1318, de la concesión Nº 4; plantas revisoras B 1305, y A2 1301, de la concesión Nº1 y plantas revisoras B 1312, B 1313, B 1315 y A2 1311 de la concesión Nº 3.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
