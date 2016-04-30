@@ -24,33 +24,23 @@ Fíjase el siguiente Procedimiento para la Aplicación Práctica del Programa Co
 
 5. Todos los proyectos deberán postular y concursar a la etapa de Diseño, la que será financiada en su totalidad por el presupuesto sectorial del MINVU.
 
-6. Una vez concluido y aprobado el Diseño del proyecto, éste ingresará a su etapa de ejecución manteniendo su calidad de proyecto seleccionado en el programa, sin concursar nuevamente, cumpliendo los requisitos que establezca el Sistema Nacional de Inversiones. El financiamiento para la ejecución de la obra estará compuesto por el presupuesto sectorial MINVU y el aporte municipal establecido en el anexo Nº 1 de esta resolución. Estos proyectos serán prioritarios en el programa presupuestario del año vigente o siguiente.
+6. Una vez concluido y aprobado el Diseño del proyecto, este ingresará a su etapa de Ejecución manteniendo su calidad de proyecto seleccionado en el programa, sin concursar nuevamente, cumpliendo los requisitos que establezca el Sistema Nacional de Inversiones. El financiamiento para la ejecución de la obra estará compuesto por el presupuesto sectorial MINVU y el aporte municipal establecido en el anexo Nº 1 de esta Resolución. Estos proyectos serán prioritarios en el programa presupuestario del año vigente o siguiente.
 
-También podrán concurrir con su aporte otras entidades al financiamiento parcial o total.
+Los aportes mínimos que corresponden a cada municipio se han definido en función de los Ingresos Propios Permanentes (SINIM 2014), la tasa de pobreza por ingresos según comunas (CASEN 2013) y el número de habitantes por comuna (Censo 2012).
+
+También podrán concurrir al financiamiento del proyecto otras entidades con su aporte parcial o total.
 
 Dichos aportes pueden constituirse como:
 
-. Entrega de dinero en efectivo.
+. Entrega de dinero en efectivo
 
-. Entrega de un terreno para construir una obra.
+. Entrega de un terreno para construir una obra. En este caso el terreno debe constituirse en un bien nacional de uso público o aplicar la figura de comodato a favor del municipio por un período mínimo de 30 años, formalizado antes de aprobar la inversión.
 
-En este caso el terreno debe constituirse en un
-
-bien nacional de uso público o aplicar la figura
-
-de comodato a favor del municipio por un período
-
-mínimo de 50 años, formalizado antes de aprobar
-
-la inversión.
-
-. Construcción directa de la obra con o sin
-
-entrega de terreno.
+. Construcción directa de la obra con o sin entrega de terreno.
 
 Cualquiera sea la forma en que se materialice el aporte, deberá ajustarse a las normas vigentes que regulan la materia.
 
-El aporte de otras entidades en ningún caso podrá reemplazar el aporte municipal establecido en el numeral 13 de esta resolución.
+El aporte de otras entidades en ningún caso podrá reemplazar el aporte municipal a que se refiere el presente numeral.
 
 7. Desde el inicio de la postulación el nombre del proyecto deberá indicar el nivel de la intervención propuesto. Para ello se asignarán las categorías que se definen a continuación:
 
@@ -110,7 +100,7 @@ intervenir.
 
 II-1 Postulación
 
-8. Para la postulación de los proyectos al Concurso se deberán presentar los siguientes antecedentes, los que se clasifican según sean documentos e indicadores. Estos se requieren para que la comisión evaluadora califique los proyectos según se detalla en el capítulo III De la Selección y Priorización de las Propuestas:
+8. Para la postulación de los proyectos al Concurso se deberán presentar los siguientes antecedentes, que se clasifican según sean documentos e indicadores, conforme a lo indicado en el presente numeral. Estos documentos e indicadores son necesarios para que la comisión evaluadora califique los proyectos, según se detalla en el numeral 11-2, sobre Selección y Priorización de las propuestas:
 
 Documentos
 
@@ -190,7 +180,7 @@ medioambiental.
 
 f) Contrato de comodato a favor del municipio, por
 
-un plazo mínimo de 50 años, en caso que las
+un plazo mínimo de 30 años, en caso que las
 
 obras deban ejecutarse en terrenos de propiedad
 
@@ -408,11 +398,11 @@ vegetal, equipamiento e infraestructura
 
 adecuada.
 
-9. Excepcionalmente, de existir proyectos con diseño terminado, que no han sido financiados por el Programa de Espacios Públicos, podrán postular al Concurso para financiar su etapa de ejecución. En estos casos el diseño deberá contar con la aprobación del Serviu, de los demás servicios involucrados, y cumplir los requisitos del Sistema Nacional de Inversiones.
+9. Eliminado.
 
 II-2 Selección y Priorización:
 
-10. La Seremi, conjuntamente con el Serviu, revisará los proyectos presentados para efectos de validar la postulación. Sólo los proyectos que hayan presentado los antecedentes señalados en los numerales 8 y 9 de esta resolución serán evaluados por una Comisión Regional que estará integrada por las siguientes personas:
+10. La Seremi, conjuntamente con el Serviu, revisará los proyectos presentados para efectos de validar la postulación. Sólo los proyectos que hayan presentado los antecedentes señalados en los numeral 8 de esta resolución serán evaluados por una Comisión Regional que estará integrada por las siguientes personas:
 
 . El Secretario Regional Ministerial de Vivienda y
 
@@ -446,6 +436,8 @@ A. Población Comunal:
 
 Puntaje asociado al tamaño de la comuna, según el rango de población:
 
+.
+
 B. Población Beneficiada:
 
 Puntaje asociado a la cantidad de habitantes dentro del área de alcance peatonal, considerando una distancia de 500 metros medidos desde el perímetro del proyecto. El puntaje se asignará de acuerdo a la población residente dentro del área de alcance peatonal. En caso de no tener disponible la información de población, alternativamente podrá asignarse puntaje de acuerdo al valor de la densidad poblacional en el área de alcance peatonal, según la siguiente tabla:
@@ -456,11 +448,13 @@ Puntaje asociado a la superficie de área verde por habitante existente en la co
 
 D. Focalización Socioeconómica de la Población Beneficiada:
 
-Puntaje asociado al nivel socioeconómico de la población beneficiada, de acuerdo a la Tasa de Pobreza e Indigencia comunal establecida por Mideso (encuesta CASEN 2006).
+Puntaje asociado al nivel socioeconómico de la población beneficiada, de acuerdo a la Tasa de Pobreza e Indigencia comunal establecida por Mideso (Encuesta CASEN 2013).
+
+.
 
 El puntaje por focalización comunal para todas las comunas del país se incluye en el anexo Nº2 de la presente resolución.
 
-E. Diseño:
+E. DIAGNOSTICO:
 
 Puntaje que establece una escala para determinar en qué medida la propuesta de diseño responde a un diagnóstico de necesidades de la comuna y al entorno existente. Se basa en el promedio de tres puntajes parciales: Sustentabilidad, Localización Patrimonial y Participación Ciudadana, según se describe a continuación:
 
