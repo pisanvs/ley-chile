@@ -1,0 +1,7 @@
+EXTRACTO RESOLUCIÓN Nº 275 EXENTA, DE 5 DE ABRIL DE 2016
+
+Por resolución exenta Nº 275, de 5 de abril 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de La Araucanía, se prorrogaron los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de La Araucanía, celebrados con los concesionarios "TÜV Rheinland Andino S.A." y "Applus Revisiones Técnicas de Chile S.A.", aprobados mediante las resoluciones exentas Nº 535 y Nº 539, de 25 de noviembre de 2004 y de 1 de diciembre de 2004, respectivamente, de la citada Secretaría Regional, hasta las fechas establecidas en la tabla que se inserta o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región, a través de la resolución Nº 90, de 10 de febrero de 2014, modificada por la resolución Nº 190, de 12 de agosto de 2014, cualquiera que ocurra primero, y siempre que hubieren cesado las condiciones que motivan este acto administrativo, las que serán determinadas por el Ministerio de Transportes y Telecomunicaciones en cuanto a su oportunidad y mérito, en forma discrecional, en ejercicio de sus potestades públicas.
+
+.
+
+Doris Tello Arriagada, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de La Araucanía.
