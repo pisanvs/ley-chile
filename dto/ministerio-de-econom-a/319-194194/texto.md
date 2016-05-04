@@ -630,7 +630,7 @@ El cumplimiento de las medidas previstas en los programas sanitarios serán de c
 
 Se elaborarán programas sanitarios generales que comprendan, al menos, las siguientes actividades:
 
-a) procedimientos de limpieza y desinfección de materiales, implementos, equipos, infraestructura, personal, vestuario, calzado, embarcaciones de los centros de cultivo;
+a) procedimientos de limpieza y desinfección de redes materiales, implementos, equipos, infraestructura, personal, vestuario, calzado, embarcaciones de los centros de cultivo;
 
 b) manejo sanitario de los alimentos;
 
@@ -654,9 +654,7 @@ k) ELIMINADO.
 
 l) procedimiento de aplicación y de control de los tratamientos terapéuticos y profilácticos, incluyendo las respectivas metodologías de análisis.
 
-m) Operación de centros de acopio.
-
-n) procedimientos de muestreo y transporte de
+m) procedimientos de muestreo y transporte de
 
 muestras, técnicas de diagnóstico de las
 
@@ -666,25 +664,23 @@ datos que deben ser utilizados por los
 
 laboratorios de diagnóstico;
 
-ñ) procedimientos y medidas a aplicar ante
+n) procedimientos y medidas a aplicar ante
 
-contingencias o emergencias sanitarias;
+contingencias o emergencias sanitarias, lo
 
-o) técnicas y métodos de desinfección de afluentes y
+que incluirá toma de muestras, traslado y análisis
+
+de diagnóstico;
+
+ñ) técnicas y métodos de desinfección de afluentes y
 
 efluentes y sus modos de control;
 
-p) procedimiento para determinar la calidad de smolt;
+o) procedimiento para determinar la calidad de smolt;
 
-q) ELIMINADO.
+p) Eliminado.
 
-r) información estrictamente necesaria que deban
-
-llevar los centros de cultivo y los prestadores de
-
-servicios sometidos al presente reglamento para
-
-garantizar la trazabilidad de sus actividades.
+q) Eliminado.
 
 En virtud de las actividades establecidas en las letras f) y l), los titulares de los centros de cultivo deberán informar mensualmente al Servicio la utilización de vacunas, antimicrobianos y de todo otro tipo de tratamientos terapéuticos. Asimismo, los titulares deberán informar, en la forma que establezcan los programas sanitarios antes señalados, los resultados de los tratamientos aplicados.
 
@@ -796,7 +792,7 @@ Asimismo el Servicio deberá anualmente emitir un informe que dé cuenta del uso
 
 #### Artículo 17º
 
-Los establecimientos que realicen actividades sometidas a las disposiciones del presente reglamento deberán mantener manuales de operación elaborados a partir de los programas generales y específicos. Dichos manuales podrán ser requeridos por el Servicio para efectos de fiscalizar las actividades que se realizan en dichos establecimientos.
+Derogado
 
 ## Título V
 
@@ -870,7 +866,7 @@ La distancia entre los centros de cultivo integrantes de una agrupación de conc
 
 a) Relocalizaciones de las concesiones integrantes de una agrupación de concesiones que se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos y sanitarios del área en cuestión que funde el nuevo posicionamiento de las concesiones. Dicha propuesta de ordenamiento consistirá en un conjunto de propuestas de relocalización individual para las concesiones integrantes de la agrupación, debiendo indicarse las coordenadas geográficas del sector en que se propone se relocalice cada concesión y fundando, conforme a antecedentes técnicos, los casos en que no se requiera relocalizar alguna concesión de la agrupación en particular. Los titulares que acepten la propuesta formulada, deberán ingresar a tramitación la relocalización individual correspondiente.
 
-Esta facultad sólo podrá ser ejercida por una vez por cada agrupación de concesiones y en ningún caso las concesiones podrán quedar a una distancia inferior a 200 metros.
+En ningún caso las concesiones podrán quedar a una distancia inferior a 200 metros.
 
 b) Relocalización de una concesión integrante de una agrupación, al interior de ella o fusiones de concesiones o de fracciones de concesiones integrantes de la misma agrupación. Sólo procederá la aplicación de esta excepción si se cumplen los siguientes requisitos:
 
@@ -882,6 +878,10 @@ iii. El desplazamiento no puede implicar, en ningún caso, disminuir la distanci
 
 iv. El desplazamiento no podrá realizarse para relocalizar concesiones o efectuar fusiones con una o más concesiones que provengan desde fuera de la agrupación de concesiones.
 
+#### Artículo 20 ter
+
+El sector que ha sido dejado libre por una concesión relocalizada en otro sector, no podrá volver a ser utilizado para relocalizar una concesión ni para una concesión nueva. Asimismo, para el cálculo de las distancias que deben cumplir las solicitudes de relocalización y las de solicitudes de concesión de acuicultura, se considerará que permanece ocupado el sitio que ha sido dejado libre por una concesión que ha sido relocalizada en otro sector.
+
 ## Título VI
 
 De los centros de cultivo
@@ -890,119 +890,95 @@ De los centros de cultivo
 
 De las medidas aplicables a todos los centros de cultivo.
 
-#### Artículo 21°
+#### Artículo 21
 
-Todos los ingresos y salidas de especies hidrobiológicas vivas o muertas del centro de cultivo deberán registrarse indicando al menos: especie, número, peso en gramos y estado de desarrollo de los individuos, nombre o código asignado al lote o grupo, historia del origen de los ejemplares, centro de cultivo de origen y destino, medio de transporte y copia de los documentos que acredite la condición sanitaria exigidos por la normativa vigente y los documentos que autorizaron el transporte.
-
-#### Artículo 21 bis
-
-Todos los centros de cultivo deberán realizar el monitoreo de enfermedades de alto riesgo de Lista 2 y 3, que no cuenten con un programa sanitario específico y que sean determinadas por resolución de la Subsecretaría.
-
-El monitoreo consistirá en la realización de muestreos de los ejemplares en cultivo, con una periodicidad a definir por enfermedad, previo informe técnico del Servicio, por resolución de la Subsecretaría, los que serán analizados por laboratorios de diagnóstico reconocidos y sus resultados serán informados al Servicio.
+El Servicio podrá establecer un monitoreo de enfermedades de alto riesgo para una o para varias enfermedades de la Lista 2 o 3 que no cuenten con un programa de vigilancia específico. Dicho monitoreo no podrá extenderse por más de un año, vencido el cual el Servicio deberá evaluar la pertinencia de establecer un programa de vigilancia específico.
 
 #### Artículo 21 ter
 
-Los titulares de los centros de cultivo deberán dar cumplimiento a las medidas generales y específicas establecidas en el presente reglamento para dichos centros y las dispuestas en los programas sanitarios.
+Los titulares de los centros de cultivo deberán dar cumplimiento a las medidas generales y específicas establecidas en el presente reglamento para dichos centros y las dispuestas en los programas sanitarios generales y específicos que sean aplicables a las diversas actividades de que trata este reglamento.
 
 Los centros de cultivo deberán dejar constancia de las visitas que haga un médico veterinario indicando el motivo de la visita, los hallazgos sanitarios más relevantes y la evolución de los diagnósticos, tratamientos terapéuticos, medidas profilácticas y toma de muestras para análisis de laboratorios.
 
-La infraestructura del centro de cultivo deberá tener las características de seguridad que permitan proteger a las especies hidrobiológicas del ataque de depredadores, tanto en unidades de cultivo dispuestas en tierra como en unidades dispuestas en río, lago, estuario o mar. Los implementos usados no deberán afectar el estado de salud de las especies hidrobiológicas y deberán permitir la inspección diaria de toda la población del centro de cultivo, el retiro diario de las mortalidades, la prevención del escape de los ejemplares en cultivo y el ingreso de especies silvestres. Además, deberá permitir su correcta limpieza y desinfección, en los casos que corresponda y los materiales utilizados deberán facilitar todas estas acciones.
+Inciso Eliminado.
 
 #### Artículo 22º
 
-Los centros de cultivo deberán mantener registros sanitarios actualizados de cada grupo de organismos existente, indicando entre otros, enfermedades o infecciones presentadas, signología clínica asociada, diagnósticos de laboratorio, mortalidades, clasificación y manejo de las mismas, medidas profilácticos, vacunaciones y tratamientos terapéuticos realizados y el profesional responsable de los mismos, adjuntando los comprobantes o las copias que respalden los tratamientos quimioterápicos o medidas profilácticas utilizadas, así como toda información adicional que el Servicio disponga a través de los Programas Sanitarios.
+Los centros de cultivo deberán mantener los comprobantes o las copias que respalden los tratamientos quimioterápicos o medidas profilácticas utilizadas, así como toda información adicional que el Servicio disponga a través de los Programas Sanitarios.
 
-La información a que se refiere el inciso anterior, deberá ser remitida al Servicio mensualmente, en el formato que al efecto éste disponga, salvo en el caso de las mortalidades en que se aplicará lo dispuesto en el artículo siguiente.
+El Servicio deberá disponer la frecuencia y el formato de entrega de información en los programas sanitarios.
 
 #### Artículo 22
 
-A. Deberá realizarse el retiro diario de las mortalidades de peces de cada unidad de cultivo, y registrada diariamente, salvo en el caso de los centros de incubación de ovas en que el retiro de mortalidades se realizará conforme a la estrategia productiva, debiendo informarse al Servicio semanalmente, con la periodicidad del retiro de mortalidades que se hubiera determinado. Semanalmente deberá informarse al Servicio el número de mortalidades clasificada según su causa.
+A. Deberá realizarse el retiro diario de las mortalidades de peces de cada unidad de cultivo, salvo en el caso de los centros de incubación de ovas en que el retiro de mortalidades se realizará conforme a la estrategia productiva.
 
-Los registros deberán consignar las unidades en que no se registró mortalidad y los días en que por condiciones climáticas u otros eventos no se pudo extraer la mortalidad de las unidades de cultivo.
+Inciso Eliminado.
 
-En todo centro de cultivo se deberá disponer de ropa desechable o de ropa que pueda ser lavada y desinfectada, de uso exclusivo para el manejo de la mortalidad. Se deberá, además, contar con implementos de protección que impidan el contacto directo de los manipuladores con la mortalidad. El manejo de la mortalidad deberá siempre impedir el vertimiento de la misma al medio ambiente o sobre las estructuras de los centros que no estén destinadas a esta función.
+El manejo de la mortalidad deberá siempre impedir el vertimiento de la misma al medio ambiente o sobre las estructuras de los centros que no estén destinadas a esta función.
 
-Todo centro deberá contar con sistemas de extracción, clasificación, manejo y desnaturalización de, mortalidades y procedimientos de desinfección asociados, descritos en un manual que, además, deberá establecer los métodos, los equipos y materiales a utilizar, los procedimientos de necropsia y el personal responsable y capacitado para ejecutar cada una de las operaciones. Deberán mantenerse los registros diarios de las actividades realizadas.
+Todo centro deberá contar con sistemas de extracción, clasificación, manejo y desnaturalización de, mortalidades.
 
-Todos los procedimientos que se apliquen en el centro, deberán ser higiénicos que eviten posibles contaminaciones cruzadas y utilicen materiales específicamente destinados a cada propósito.
+Inciso Eliminado.
 
-El sistema de extracción de mortalidad debe ser eficiente y seguro, procurando no alterar las especies en cultivo. Si la extracción de mortalidad se realiza mediante buceo, deberá darse cumplimiento a las siguientes condiciones:
+El sistema de extracción de mortalidad debe ser eficaz y seguro, procurando no alterar las especies en cultivo. Si la extracción de mortalidad se realiza mediante buceo, los implementos deberán ser de uso exclusivo de cada centro.
 
-a) El equipo de buceo deberá ser de uso exclusivo de cada centro, deberá lavarse y desinfectarse, previo a su utilización y con posterioridad a ella y además, cada vez que haya traslado desde un tren de jaulas a otro. Además, los equipos deberán ser almacenados adecuadamente, en un lugar único para este fin y debidamente delimitado. Igualmente, debe contarse con una embarcación de uso exclusivo durante la faena de buceo.
-
-b) Los buzos deberán disponer las mortalidades en el menor tiempo posible en los contenedores destinados para este propósito.
-
-c) Se deberá limpiar y desinfectar las superficies de los botes utilizados y los pasillos del centro de cultivo.
-
-d) Antes y después del uso del equipo empleado para la recolección de mortalidades, deberá desinfectarse, debiendo existir un sistema de registros de dicha actividad.
-
-La mortalidad diaria de los centros de cultivo de peces ubicados en tierra, en mar y en agua dulce será sometida a ensilaje o incineración dentro de las 24 horas.
+La mortalidad diaria de los centros de cultivo de peces ubicados en tierra, en mar y en agua dulce será sometida a ensilaje o incineración. En el caso del ensilaje deberá realizarse dentro de las 24 horas. En el caso de la incineración deberá realizarse en un plazo máximo de 3 días desde su extracción desde la jaula de cultivo, o cuando la cantidad de mortalidad extraída alcance como máximo el 75% de la capacidad del incinerador. El acopio de tránsito deberá hacerse en compartimentos estancos, y se deberán aplicar productos que desnaturalicen el material biológico.
 
 INCISO ELIMINADO.
 
 El almacenamiento temporal de mortalidades hacia su disposición final deberá efectuarse en las condiciones que señale el programa sanitario general correspondiente.
 
-La mantención de sistemas automáticos de extracción de mortalidad deberá encontrarse al día conforme a las recomendaciones del fabricante y los instrumentos utilizados en la extracción de mortalidad deberán ser limpiados y desinfectados después de su uso.
+Inciso Eliminado.
 
 Se prohíbe la extracción de mortalidad desde balsas jaulas mediante levantamiento o la ruptura de las redes peceras.
 
-Para la realización de necropsias, cada centro de cultivo deberá disponer de un área exclusiva. Deberá asegurarse que los fluidos resultantes se dispongan en un recipiente y en ningún caso sean esparcidos en el medio y deberán ser sometidos al sistema de tratamiento de mortalidad. El procedimiento se deberá realizar sobre una superficie lavable y desinfectable y de uso exclusivo. En esta misma área se hará la clasificación de la mortalidad de acuerdo al procedimiento previsto en el programa sanitario general.
+Para la realización de necropsias, cada centro de cultivo deberá disponer de un área exclusiva. Deberá asegurarse que los fluidos resultantes en ningún caso sean esparcidos en el medio y deberán ser destinados al sistema de tratamiento de mortalidad. En esta misma área se hará la clasificación de la mortalidad de acuerdo al procedimiento previsto en el programa sanitario general.
 
-Cada centro de cultivo deberá contar con un sistema exclusivo de desnaturalización de mortalidad. En un manual se deberán consignar los aspectos relevantes del funcionamiento del método utilizado.
+Cada centro de cultivo deberá contar con un sistema exclusivo de desnaturalización de mortalidad.
 
-Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro de cultivo. El sistema de disposición final de mortalidad deberá ser exclusivo para cada centro de cultivo. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular.
+Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las jaulas. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular.
 
-Todos los centros de cultivo deberán informar al Servicio el método adoptado para la disposición final de las mortalidades y los respectivos planes de contingencia en caso de falla del sistema adoptado o la superación de biomasa a procesar diariamente.
+Todos los centros de cultivo deberán tener planes de contingencia en caso de falla del sistema adoptado o la superación de biomasa a procesar diariamente.
 
-Ante fallas técnicas del método de desnaturalización adoptado o fallas en los retiros de los residuos de mortalidad, los titulares deberán presentar en su plan de contingencia una alternativa de manejo y solicitar la aprobación al Servicio.
+Inciso Eliminado.
 
-La maquinaria y materiales de ensilaje deberán ubicarse en forma independiente de las demás instalaciones del centro.
+El ensilaje se realizará en contenedores estancos y de material resistente.
 
-El ensilaje se realizará en contenedores estancos y de material resistente al ácido.
+Inciso Eliminado.
 
-Todos los equipos usados en el ensilaje deben ser lavados con posterioridad al procedimiento.
-
-Todos los trasvasijes del producto del ensilaje deberán realizarse mediante sistemas de bombeo y acople, que sean herméticos y resistentes al producto transportado y con una estructura que impida absolutamente el vertimiento y escurrimiento de la mezcla.
+Todos los trasvasijes del producto del ensilaje deberán realizarse mediante sistemas de bombeo y acople, que sean estancos y resistentes al producto transportado.
 
 El producto del ensilaje sólo podrá destinarse a una planta reductora que cuente con sistemas de tratamiento de residuos sólidos y líquidos.
 
-Sin perjuicio de lo anterior, el producto del ensilaje podrá tener un destino diverso en los casos autorizados por la autoridad competente, previa aprobación de la metodología de tratamiento y proceso.
+Sin perjuicio de lo anterior, el producto del ensilaje podrá tener un destino diverso en los casos autorizados por la autoridad competente.
 
-El sistema de incineración deberá ser hermético, contar con dispositivos que garanticen la temperatura mínima requerida para asegurar la total destrucción de los patógenos causantes de enfermedades de alto riesgo y cumplir los demás requisitos que correspondan conforme a la normativa vigente.
+El sistema de incineración deberá asegurar la total destrucción de los patógenos causantes de enfermedades de alto riesgo y cumplir los demás requisitos que correspondan conforme a la normativa vigente.
 
 Los centros de cultivo de peces ubicados en tierra, podrán además someter sus mortalidades a un sistema de compostaje.
 
-El diseño de la estructura y el procedimiento de compostaje deberán asegurar que todo el material alcance la temperatura, tiempo de exposición y proporción de carbono y nitrógeno requerida. La temperatura debe ser monitoreada diariamente en diferentes estratos de la pila de compostaje.
+Todos los sistemas de desnaturalización de mortalidad deberán asegurar la destrucción o inactivación de patógenos causantes de enfermedades de alto riesgo. Dichos sistemas deberán ser autorizados por el Servicio.
 
-El compostaje no debe ser utilizado en caso de brote de enfermedades de alto riesgo.
+El compostaje no debe ser utilizado en caso de brote de enfermedades de alto riesgo, de acuerdo lo indique el programa sanitario general correspondiente.
 
-Todo sistema de manejo de la mortalidad deberá realizarse sometiéndose a las condiciones indicadas y a los procedimientos específicos que sean incluidos en el programa sanitario general o específico que corresponda, de lo cual se deberá llevar un registro diario.
+Inciso Eliminado.
 
-Sin perjuicio de lo anterior, en el evento que el Servicio determine la existencia de mortalidades masivas, de conformidad con el Programa Sanitario General respectivo, éste podrá ordenar otros sistemas de tratamiento y disposición de mortalidad, de conformidad con el ordenamiento jurídico.
-
-#### Artículo 22
-
-B. Todo centro deberá contar con equipos de uso exclusivo. Antes de la utilización de un equipo en una jaula éste deberá ser limpiado y desinfectado.
-
-El traslado y transporte de artes de cultivo deberá efectuarse en contenedores estancos, sin vías de evacuación, rígidos o flexibles, sellados y etiquetados. Sin perjuicio de las disposiciones establecidas en el artículo 9º del DS Nº320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, o la normativa que lo reemplace, las redes peceras y loberas deberán ser etiquetadas o selladas, otorgándoles un número de identificación. Los contenedores deberán ser de dimensiones que permitan el traslado de las redes peceras y loberas sin que sobresalgan de las paredes o superen la altura del contenedor y con una cubierta. Se prohíbe el traslado de redes peceras y loberas en contacto directo con la cubierta de la embarcación, con la bodega o en rampas de camiones o similares. Tales redes deberán ser clasificadas a su llegada al taller de lavado, desinfección, mantención o reparación, dependiendo de su procedencia. Asimismo, los artes de cultivo deberán ser clasificadas a su llegada al taller de lavado dependiendo de su procedencia.
-
-Las redes deberán ser trasladadas, limpiadas y desinfectadas de acuerdo al procedimiento previsto en el programa sanitario general correspondiente. Los talleres de redes deberán contar con un área sucia y un área limpia separadas o de uso exclusivo y contar con un sistema de trazabilidad de las redes.
-
-En caso de disposición final, los artes de cultivo deberán ser dispuestos en un vertedero industrial, debidamente autorizado, conforme a la normativa vigente.
-
-Con todo, en el evento que la disposición final contemple la reutilización de los artes de cultivo para otros fines, éstos deberán ser previamente desinfectados de conformidad con el programa sanitario general o específico vigente.
-
-En los casos señalados en el inciso 3º del presente artículo, la disposición final de los artes de cultivo se efectuará en lugares debidamente autorizados.
-
-El lavado y limpieza de artes de cultivo efectuado en cualquiera de las formas que contemple el Decreto Supremo a que se refiere el artículo 87 de la ley, deberá considerar la desinfección del efluente líquido cuando los artes de cultivo se encuentren o provengan desde centros ubicados en zonas de vigilancia o zona infectada.
-
-Prohíbese la limpieza in situ de redes en centros de cultivo en los que se haya constatado la presencia de un agente de enfermedad de alto riesgo de Lista 1 o de Lista 2 con programa sanitario específico, salvo que en este último caso así lo disponga el mismo programa.
+En el evento que el Servicio determine la existencia de mortalidades masivas, de conformidad con el Programa Sanitario General respectivo, éste podrá ordenar otros sistemas de tratamiento y disposición de mortalidad, de conformidad con el ordenamiento jurídico.
 
 #### Artículo 22
 
-C. Todos los desechos generados por los centros de cultivo deberán ser dispuestos en contenedores que permitan un adecuado acopio y transporte. El traslado a lugares autorizados para el depósito, se deberá hacer impidiendo derrames. Los contenedores utilizados para el acopio y traslado de desechos fuera del centro, deberán ser desinfectados antes de reingresar a éste.
+B. Inciso Eliminado
 
-La limpieza rutinaria de los equipos deberá ser realizada de conformidad con los programas sanitarios generales, dejándose constancia en un registro de conformidad con lo dispuesto en dichos programas, por personas capacitadas del mismo centro de cultivo o prestadores de servicios externos.
+El traslado y transporte de las redes que están en contacto directo con los peces y de las redes loberas deberá efectuarse en contenedores estancos. Sin perjuicio de las disposiciones establecidas en el artículo 9º del DS Nº320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, o la normativa que lo reemplace, las redes peceras y loberas deberán ser etiquetadas o selladas, otorgándoles un número de identificación. Los contenedores deberán ser de dimensiones que permitan el traslado de las redes peceras y loberas sin que sobresalgan de las paredes o superen la altura del contenedor y con una cubierta. Se prohíbe el traslado de redes peceras y loberas en contacto directo con la cubierta de la embarcación, con la bodega o en rampas de camiones o similares.
+
+Inciso Eliminado.
+
+Prohíbese la limpieza in situ de redes en centros de cultivo en los que se haya constatado la presencia de un agente o enfermedad de alto riesgo de Lista 1 o de Lista 2 con programa sanitario específico, salvo que en este último caso así lo disponga el mismo programa.
+
+#### Artículo 22
+
+C. Todos los desechos generados por los centros de cultivo deberán ser dispuestos en contenedores que permitan un adecuado acopio y transporte. El traslado a lugares autorizados para el depósito, se deberá hacer impidiendo derrames.
+
+Inciso Eliminado.
 
 #### Artículo 22
 
@@ -1020,7 +996,7 @@ a) la ejecución de los programas de vigilancia epidemiológica;
 
 b) antes del transporte de peces obtenidos desde centros emplazados en mar que sean destinados a la reproducción; y,
 
-c) la realización de los muestreos que deban efectuarse de conformidad con los programas específicos de vigilancia y control.
+c) la realización de los muestreos que deban efectuarse de conformidad con los programas sanitarios.
 
 Para emitir la certificación, el certificador deberá al menos:
 
@@ -1046,59 +1022,43 @@ anteriores.
 
 #### Artículo 22
 
-G. Los titulares de los centros de cultivo deberán capacitar a las personas que realizan las actividades sometidas al presente reglamento y se deberá dejar constancia de la misma.
+G. Derogado.
 
 #### Artículo 22
 
-H. Todos los centros de cultivo deberán desarrollar un programa de desinfección. Este programa deberá cumplir con lo señalado en el Programa Sanitario General de Limpieza y Desinfección.
+H. Inciso Eliminado.
 
-En los centros de cultivo se deberá mantener registro de los procedimientos rutinarios de limpieza y desinfección aplicados, con el objetivo de minimizar el riesgo de infección de los ejemplares de cultivo a través de fómites, sean elementos, materiales o equipos, manteniendo la documentación de respaldo e identificando al empleado responsable de su implementación.
+Inciso Eliminado.
 
-Todos los procedimientos de desinfección deberán usar agentes de limpieza y desinfección registrados por el Ministerio de Salud y autorizados por la Dirección General del Territorio Marítimo y cumplir la normativa vigente sobre emisión. Los productos de limpieza y desinfectantes deberán mantenerse en adecuadas condiciones de almacenamiento, rotulados y debidamente cerrados mientras no se usan. Además, deberá mantenerse archivada la ficha técnica de los detergentes y desinfectantes en uso, tanto para consulta del personal técnico de la empresa como de funcionarios del Servicio que inspeccionen el centro. Asimismo, deberá mantenerse registros de los proveedores y fechas de adquisición de detergentes y desinfectantes.
+Todos los procedimientos de desinfección deberán usar agentes de limpieza y desinfección registrados por el Ministerio de Salud y autorizados por la Dirección General del Territorio Marítimo y cumplir la normativa vigente sobre emisión. Los productos de limpieza y desinfectantes ajustarse a las condiciones indicadas en el programa sanitario respectivo.
 
 Un programa sanitario establecerá las condiciones de uso, frecuencia y tiempo de utilización de los desinfectantes autorizados para la desinfección de las instalaciones en las diversas etapas de cultivo, para lo cual se consultará al Ministerio de Salud y a la Dirección General del Territorio Marítimo y Marina Mercante Nacional, en lo que sea pertinente.
 
 En los casos que corresponda y dependiendo del tipo de producto almacenado, se deberá contar con los métodos de inactivación de los principios activos, con el objetivo de evitar la incorporación directa del producto al medio ambiente, o daño a las especies en cultivo o a las especies silvestres.
 
-La limpieza y desinfección exigida en el presente reglamento, deberán ser realizadas de conformidad con el programa sanitario general respectivo, por personas debidamente capacitadas. Deberá dejarse constancia en un registro de los procesos de desinfección. El Servicio elaborará una nómina de los prestadores de servicios de desinfección, previa verificación del cumplimiento de los siguientes requisitos:
+La limpieza y desinfección exigida en el presente reglamento, deberán ser realizadas de conformidad con el programa sanitario general respectivo, y en el caso que se realice por prestación de servicios, deberá realizarse por personas inscritas en el registro a que se refiere el artículo 122 letra m) de la ley. El Servicio elaborará una nómina de los prestadores de servicios de desinfección, previa verificación del cumplimiento de los siguientes requisitos:
 
 a) Contar con personal capacitado cuyas labores deberán estar supervisadas por un "técnico responsable en terreno".
 
 b) Contar con equipos y materiales para llevar a cabo los procedimientos de desinfección previstos en los programas sanitarios y en sus manuales de procedimientos técnicos..
 
-c) Las dependencias de quienes presten servicios de limpieza y desinfección de las instalaciones, deberán cumplir, además, las siguientes especificaciones:
+c) Eliminada.
 
-i. Dependencias de trabajo de uso exclusivo;
-
-ii. Construcción con piso y paredes sólidas, lavables y no porosas;
-
-iii. Conexión a la red de alcantarillado;
-
-iv. disponer de agua corriente fría y caliente;
-
-v. Disponer de una sala exclusiva para almacenar los equipos y materiales desinfectados;
-
-vi. Disponer de una bodega donde se almacenen los detergentes y desinfectantes.
-
-En los casos que la desinfección se realice en embarcaciones, no deberá acreditarse lo señalado en la letra c) numeral iii.
+Inciso Eliminado.
 
 Las personas naturales o jurídicas que realicen limpieza y desinfección, en terreno, de estructuras, medios de transporte terrestres o marítimos, deberán contar con equipos portátiles. Además, deberán garantizar que los equipos cumplan la función señalada.
 
-El Servicio llevará la nómina de las personas respecto de las cuales haya verificado el cumplimiento de los requisitos antes mencionados cuando lo hayan solicitado voluntariamente.
+Inciso Eliminado.
 
-En los casos en que el lavado, limpieza y desinfección se realice en los centros de cultivo sin la prestación de servicios de terceros, se deberá contar con un profesional responsable de las actividades.
+En los casos en que el lavado, limpieza y desinfección se realice en los centros de cultivo sin la prestación de servicios de terceros, se deberá contar con un profesional responsable de las actividades y se deberá dejar registro de ellas.
 
-Los equipos e implementos utilizados en la faena de limpieza y desinfección deberán ser lavados, enjuagados y desinfectados con agua dulce al término de cada faena. Debe mantenerse registro de los procedimientos efectuados, del personal involucrado y archivo de los documentos tributarios por la compra de detergentes y desinfectantes, los cuales deberán estar a disposición del Servicio.
+Inciso Eliminado.
 
-Un programa sanitario establecerá los registros que deberán llevar quienes realicen desinfección.
-
-Una vez terminada la faena de limpieza, lavado y desinfección, el prestador de servicios deberá entregar un acta de desinfección foliada y en triplicado, emitida por el responsable técnico. El original deberá quedar en la empresa a la que se le prestó el servicio, la segunda copia debe entregarse al Servicio y la tercera copia debe quedar archivada en la empresa que realizó la faena de limpieza, lavado y desinfección. En los casos en que el lavado, limpieza y desinfección haya sido efectuada en el centro de cultivo sin la prestación de servicios de terceros, deberá quedar registro de dicha actividad, lo que será objeto de fiscalización por parte del Servicio.
-
-El certificado emitido para los medios de transporte tendrá una validez exclusiva para el traslado por el cual se está desinfectando. Terminado dicho traslado, el medio de transporte deberá proceder a una nueva faena de limpieza, lavado y desinfección al cual se le deberá adjuntar su respectivo certificado.
+El certificado emitido para los medios de transporte tendrá una validez exclusiva para el traslado por el cual se está desinfectando.
 
 #### Artículo 22
 
-I. Las personas que voluntariamente hayan solicitado incorporarse en la nómina del Servicio a que se refiere el artículo 22 H, entregarán un acta de desinfección que dará cuenta que el procedimiento ha sido realizado conforme al programa sanitario general correspondiente en los siguientes casos:
+I. Las personas que realicen la desinfección como prestación de servicios, entregarán un acta de desinfección que dará cuenta que el procedimiento ha sido realizado conforme al programa sanitario general correspondiente en los siguientes casos:
 
 a) previo al traslado de especies vivas, gametos, cosecha, mortalidades y sus productos, en los medios de transporte;
 
@@ -1106,15 +1066,15 @@ b) los movimientos de equipos, materiales y redes entre centros o entre zonas de
 
 c) cuando así lo requiera un programa sanitario específico.
 
-En los casos en que se utilicen los servicios de personas que no hayan solicitado incorporarse en la nómina, el programa sanitario correspondiente determinará la forma en que el centro de cultivo acreditará el cumplimiento del procedimiento de desinfección.
+Inciso Eliminado.
 
 #### Artículo 22
 
 J. Deberá certificarse que el proceso de limpieza y desinfección ha sido realizado de acuerdo al procedimiento señalado en el programa sanitario general correspondiente, por un certificador de desinfección, en los siguientes casos:
 
-a) la desinfección que debe realizarse a las estructuras, equipos y redes peceras y loberas, inmediatamente después de producido el despoblamiento de los centros de cultivo que hayan sido declarados positivos a una infección o enfermedad de lista 1 o de lista 2 sometida a un programa específico de control;
+a) la desinfección que debe realizarse a las estructuras, equipos y redes que están en contacto directo con los peces y las redes loberas, inmediatamente después de producido el despoblamiento de los centros de cultivo que hayan sido declarados positivos a una infección o enfermedad de lista 1 o de lista 2 sometida a un programa específico de control;
 
-b) la desinfección que debe realizarse en forma previa al inicio de los descansos sanitarios coordinados señalados en el presente reglamento;
+b) la desinfección que debe realizarse en forma previa al inicio de los descansos sanitarios coordinados en los casos en que un programa sanitario específico así lo requiera por configurarse una condición de riesgo definida en el mismo programa;
 
 c) la desinfección de los medios de transporte que hayan trasladado peces vivos, muertos por eliminación o cosechas de centros con diagnóstico de enfermedades lista 1 o lista 2 con programa sanitario específico, si así lo indica este último, y que con posterioridad requieran trasladar ejemplares libres de estas enfermedades;
 
@@ -1128,23 +1088,23 @@ K. El Servicio establecerá los formatos tipo del certificado de desinfección, 
 
 #### Artículo 22
 
-L. Todo centro de cultivo deberá contar con un protocolo de bioseguridad consignado en un manual y con señaléticas físicas y barreras sanitarias de uso obligatorio que impidan la entrada, diseminación y salida de patógenos, las que deberán ubicarse en el ingreso y salida del recinto, y entre sectores diferenciados dentro del centro de cultivo, los que deberán cumplir con las condiciones indicadas en los programas sanitarios.
+L. Derogado
 
 #### Artículo 22
 
-M. Los productos utilizados para la alimentación de especies hidrobiológicas, y sin perjuicio de lo estipulado en otros reglamentos, deberán cumplir con los procedimientos que aseguren su inocuidad y deberán ser sometidos al manejo estipulado en el programa sanitario general correspondiente.
+M. Los productos utilizados para la alimentación de especies hidrobiológicas, y sin perjuicio de lo estipulado en otros reglamentos, deberán ser sometidos al manejo estipulado en el programa sanitario general correspondiente.
 
 En todo centro de cultivo se deberá mantener claramente la identificación de las diferentes salas y unidades de cultivo, según corresponda, y la correcta identificación de los filtros sanitarios. Se deberán indicar, asimismo, claramente las unidades de cultivo que estén siendo sometidas a algún tipo de tratamiento farmacológico.
 
 #### Artículo 22
 
-N. Derogado.
+N. Todos los equipos que sean empleados en las diversas actividades realizadas en los centros de cultivo deberán encontrarse en adecuadas condiciones de mantención conforme a las recomendaciones del fabricante y deberán ser utilizados de acuerdo con estas últimas.
 
 #### Artículo 22
 
-Ñ. Los centros de cultivo serán clasificados según su nivel de bioseguridad. Una resolución de la Subsecretaría, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo, el puntaje y los rangos de la clasificación.
+Ñ. Los centros de cultivo serán clasificados según su nivel de bioseguridad. Una resolución de la Subsecretaría, previo informe técnico, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo, el puntaje y los rangos de la clasificación.
 
-La clasificación de bioseguridad por cada centro de cultivo será efectuada por el Servicio conforme a la resolución antes señalada y se utilizará como referencia para la elaboración del plan anual de vigilancia epidemiológica y de fiscalización, así como para clasificar la agrupación de concesiones a la que está integrado el centro respectivo y la fijación de densidades que se realice de conformidad con el artículo 86 bis de la ley.
+La clasificación de bioseguridad por cada centro de cultivo será efectuada por el Servicio conforme a la resolución antes señalada.
 
 La clasificación de los centros será publicada en la página web del Servicio.
 
@@ -1162,7 +1122,7 @@ Los estudios técnicos que elabore la Subsecretaría de Pesca para la determinac
 
 A. Los centros de mar que mantengan reproductores deberán tener una distancia de al menos 7 millas náuticas con otros centros de mar, sean de cultivo o de acopio, sin que se entienda interrumpida por los accidentes geográficos. La distancia entre centros que mantengan reproductores no podrá ser menor a 2,5 millas náuticas, sin que se entienda interrumpida por accidentes geográficos.
 
-La densidad de cultivo para centros de reproducción en mar será establecida por la Subsecretaría mediante resolución.
+La densidad de cultivo para centros de reproducción en mar podrá ser establecida por la Subsecretaría mediante resolución.
 
 #### Artículo 23
 
@@ -1192,7 +1152,7 @@ De la reproducción en pisciculturas
 
 E. Sólo se podrán trasladar reproductores desde centros de mar hacia pisciculturas destinadas a reproducción que tengan ovas u otras etapas de desarrollo, cuando estas últimas cuenten con circuitos de agua independientes para los reproductores, debiendo garantizarse además la independencia operativa y barreras físicas y químicas que permitan mantener una correcta separación entre los estadios de desarrollo.
 
-El traslado de reproductores desde el mar hacia pisciculturas, deberá estar respaldado por la certificación del estado de salud por parte de un certificador sanitario.
+El traslado de reproductores desde el mar hacia pisciculturas, deberá estar respaldado por la certificación del estado de salud por parte de un certificador sanitario. El Servicio denegará el traslado o establecerá medidas de mitigación en caso que la certificación dé cuenta de una condición de riesgo de los ejemplares.
 
 Los titulares de pisciculturas que destinen un grupo o grupos de especies hidrobiológicas a reproducción, manteniéndolas todo su ciclo de vida en dichos centros, deberán informarlo al Servicio. El grupo de especies respectivo deberá ser sometido a los planes de vigilancia y control sanitario que establezca el Servicio. Se deberán garantizar los suministros de agua de acuerdo a lo indicado en el inciso 1º.
 
@@ -1206,25 +1166,25 @@ F. Los reproductores que darán origen a las ovas producidas en el país deberá
 
 No se deberán usar los reproductores que con el examen individual hayan resultado positivos a enfermedades de alto riesgo, debiendo ser sacrificados. Asimismo, no se deberán usar los gametos provenientes de dichos reproductores y las ovas que resulten de padres positivos deberán ser destruidas mediante el procedimiento descrito en el programa sanitario correspondiente o por un sistema autorizado por el Servicio.
 
-Los utensilios deberán ser debidamente desinfectados o esterilizados.
+Inciso Eliminado.
 
 #### Artículo 23
 
-G. La obtención de gametos únicamente podrá realizarse en pisciculturas. Cada centro de cultivo destinado a la obtención de gametos deberá contar con un manual de procedimientos técnicos de obtención y eliminación de gametos positivos.
+G. La obtención de gametos únicamente podrá realizarse en pisciculturas.
 
 El titular del centro de cultivo deberá informar al Servicio con al menos 48 horas de anticipación el inicio del proceso del desove de conformidad con el programa sanitario correspondiente.
 
-El lugar del centro en que se realice el desove deberá tener ese objeto exclusivo y encontrarse separado físicamente de las demás dependencias, ser de material lavable y desinfectable y deberá asegurar que en la obtención de gametos no ocurra contaminación cruzada entre los diferentes especímenes a desovar. La sala deberá contar con barreras sanitarias. Los residuos sólidos orgánicos, resultantes del proceso, incluidos las carcasas de los reproductores, se deberán disponer conjuntamente con la mortalidad del centro. Los residuos líquidos resultantes del proceso de desove se deberán disponer en el efluente o conforme se estipule un programa de control específico. Se deberá indicar la disposición final de los materiales o elementos físicos utilizados en el proceso. La sala deberá ser lavada y desinfectada al término de cada jornada de desove dejando registro de la acción.
+El lugar del centro en que se realice el desove deberá tener ese objeto exclusivo y encontrarse separado físicamente de las demás dependencias, ser de material lavable y desinfectable y deberá asegurar que en la obtención de gametos no ocurra contaminación cruzada entre los diferentes especímenes a desovar. La sala deberá contar con barreras sanitarias. Los residuos sólidos orgánicos, resultantes del proceso, incluidos las carcasas de los reproductores, se deberán disponer conjuntamente con la mortalidad del centro. Los residuos líquidos resultantes del proceso de desove se deberán disponer en el efluente o conforme se estipule en el programa sanitario correspondiente.
 
 Al momento del desove, a cada reproductor se le deberá asignar un número único que permita la trazabilidad de los gametos obtenidos.
 
 Cada centro de cultivo destinado a la producción de gametos deberá contar con una sala de obtención y preparación de muestras para análisis de laboratorio, la cual debe tener separación física de la sala en la cual se realiza el desove y de otras zonas. Los procedimientos específicos para la toma de muestras, traslado y análisis de diagnóstico a realizar serán incorporados por el Servicio en un programa sanitario general.
 
-En el caso de conservación de gametos, la información referida a su origen deberá ser trazable y se deberán tener sistemas de bioseguridad que impidan contaminaciones cruzadas.
+En el caso de conservación de gametos, la información referida a su origen deberá ser trazable.
 
 #### Artículo 23
 
-H. Los centros de cultivo deberán mantener registros sanitarios de conformidad con el programa sanitario respectivo.
+H. Derogado
 
 ### Párrafo 5º
 
@@ -1242,7 +1202,7 @@ b) Contar con una barrera natural o artificial que impida la migración de los p
 
 J. En ningún caso se podrá preservar gametos provenientes de padres que hayan resultado positivos al examen individual.
 
-La eliminación de gametos y ovas que hayan resultado positivos a las enfermedades chequeadas, deberá ser respaldada documentadamente por el laboratorio de diagnóstico que realizó el chequeo sanitario de los reproductores requiriendo para este procedimiento la presencia de un médico veterinario, quien dejará una constancia de la destrucción. La eliminación de ovas positivas se deberá realizar antes de realizar manejo de shocking.
+La eliminación de gametos y ovas que hayan resultado positivos a las enfermedades chequeadas, deberá ser respaldada documentadamente por el laboratorio de diagnóstico que realizó el chequeo sanitario de los reproductores dejando una constancia de la destrucción. La eliminación de ovas positivas se deberá realizar antes de realizar manejo de shocking.
 
 Se deberá realizar la desinfección de las ovas en forma previa a la incubación. Los centros que reciban ova ojo deberán realizar desinfección de las mismas. El Servicio establecerá el procedimiento de desinfección adecuado mediante un programa sanitario general.
 
@@ -1260,7 +1220,7 @@ Los centros de cultivo en que se realice incubación deberán poseer una sala ex
 
 M. La aplicación de productos farmacológicos deberá ser documentada y avalada por un médico veterinario, de conformidad con el Título XI de este reglamento.
 
-La clasificación, registro y disposición final de la mortalidad deberá realizarse de acuerdo al procedimiento previsto en el programa sanitario general de mortalidades.
+Inciso Eliminado.
 
 Cada centro de incubación de ova verde deberá mantener respaldo de los análisis de laboratorio realizados a los padres y la constancia de eliminación de gametos positivos. No se considerará necesario que esta documentación esté disponible en los centros que reciban únicamente ova ojo.
 
@@ -1274,25 +1234,25 @@ N. Dentro de este párrafo se comprenden normas referidas a pisciculturas que fu
 
 Las pisciculturas que posean más de una especie, cepa o grupo productivo deberán tener identificada claramente la ubicación de los ejemplares y deberán controlar los registros de mortalidad por separado.
 
-Cada centro deberá llevar registro del número ingresado desde la etapa productiva o fisiológica en que los ejemplares ingresaron al sistema productivo manteniendo actualizado el número final restando los traslados, mortalidades o eliminaciones, debidamente documentadas.
+Inciso Eliminado.
 
-En el caso de existir mezcla de diferentes grupos o cepas productivas, se deberá dejar registro. Deberán existir registros de todos los movimientos de especies hidrobiológicas entre salas, estanques y entre jaulas según corresponda.
+En el caso de existir mezcla de diferentes grupos o cepas productivas, se deberá dejar registro.
 
 #### Artículo 23
 
 Ñ. Anualmente, los centros de cultivo de peces ubicados en ríos y lagos deberán retirar todos los ejemplares por el plazo mínimo de un mes. Dicho descanso deberá ser coordinado entre los centros de cultivo que se ubiquen en el mismo río o lago, lo que se determinará por resolución del Servicio.
 
-Se deberá realizar la limpieza y desinfección de las estructuras del centro, para lo cual se deberá retirar la totalidad de las redes peceras y loberas. Se deberá realizar la limpieza y desinfección de las estructuras que se encuentran sobre el nivel del agua, incluidas las embarcaciones de apoyo y los puntos de embarque y desembarque del centro, todo lo cual deberá ser certificado por un certificador de desinfección.
+Se deberá realizar la limpieza y desinfección de las estructuras del centro.
 
-Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie por ciclo productivo y deberán retirar todos los peces de un grupo antes del ingreso de otro, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un período productivo deberá realizarse en un plazo máximo de sesenta, setenta y cinco o noventa días corridos, dependiendo si el centro se encuentra clasificado en bioseguridad baja, media o alta, respectivamente, de conformidad con el procedimiento a que se refiere el artículo 22 Ñ. Vencido el período de siembra de un ciclo productivo, no será posible ingresar nuevos ejemplares al centro hasta que se hayan cumplido las etapas de cosecha, descanso y desinfección correspondientes a dicho ciclo.
+Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie por ciclo productivo, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un ciclo productivo deberá realizarse en un plazo máximo de sesenta, setenta y cinco o noventa días corridos, dependiendo si el centro se encuentra clasificado en bioseguridad baja, media o alta, respectivamente, de conformidad con el procedimiento a que se refiere el artículo 22 Ñ. Vencido el período de siembra de un ciclo productivo, no será posible ingresar nuevos ejemplares al centro hasta que se hayan cumplido las etapas de cosecha, descanso y desinfección correspondientes a dicho ciclo.
 
-Antes del inicio de la siembra en centros de smoltificación, los titulares deberán presentar al Servicio los planes de contingencia. La siembra de ejemplares sólo se podrá llevar a cabo si cuentan con la aprobación por parte del Servicio de dichos planes. El Servicio se pronunciará en el plazo de tres días hábiles, pudiendo solicitar la corrección de los planes presentados si así lo estimase necesario.
+Inciso Eliminado.
 
 #### Artículo 23
 
 O. Los centros emplazados en estuarios, dedicados a alevinaje o smoltificación, se someterán a los descansos sanitarios coordinados establecidos por el Servicio para la agrupación de concesiones dentro de la cual se encuentre la concesión.
 
-Los centros emplazados en ríos, lagos y estuarios, dedicados a alevinaje o smoltificación, deberán realizar la selección o graduación, desdobles o el movimiento de balsas jaulas asegurando el buen estado sanitario de los peces, previo manejo. Se prohibe el manejo de peces enfermos.
+Los centros emplazados en ríos, lagos y estuarios, dedicados a alevinaje o smoltificación, deberán realizar la selección o graduación, desdobles o el movimiento de balsas jaulas asegurando el buen estado sanitario de los peces, previo manejo. Se prohibe el manejo de peces enfermos sin autorización del Servicio.
 
 Los centros de smoltificación emplazados en ríos, lagos y estuarios, sólo podrá trasladar peces hacia centros de engorda, dando cumplimiento a las demás norma referidas a traslados establecidas en el presente reglamento.
 
@@ -1322,13 +1282,13 @@ De los centros de engorda
 
 #### Artículo 23
 
-R. Los centros de cultivo de engorda de peces deberán realizar la siembra de todos los ejemplares en el plazo máximo de tres meses, pudiendo rebajarse a dos meses conforme se disponga en el programa sanitario específico que corresponda. La siembra de nuevos ejemplares sólo podrá realizarse una vez cumplidas las siguientes condiciones:
+R. Los centros de cultivo de engorda de peces deberán realizar la siembra de todos los ejemplares en el plazo máximo de tres meses contados desde el primer ingreso de ejemplares, pudiendo rebajarse a dos meses conforme se disponga en el programa sanitario específico que corresponda. La siembra de nuevos ejemplares sólo podrá realizarse una vez cumplidas las siguientes condiciones:
 
 a) Haber realizado la cosecha completa de los ejemplares ingresados previamente;
 
-b) Haber limpiado y desinfectado las estructuras de contacto directo con los ejemplares en cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo que se trate de redes de cobre, en cuyo caso el titular del centro de cultivo podrá presentar, seis meses antes que corresponda realizar el retiro, un informe técnico que acredite la condición biocida. En estos casos, la Subsecretaría podrá autorizar, por resolución, el no retiro de las redes de cobre respectivas. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de efectuada la cosecha total del centro y deberá culminar en un máximo de 45 días corridos.
+b) Haber limpiado y desinfectado las estructuras de contacto directo con los ejemplares en cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo que se trate de estructuras que cumplan la misma función de las redes peceras y loberas, en cuyo caso el titular del centro de cultivo podrá presentar, seis meses antes que corresponda realizar el retiro, un informe técnico que acredite la condición biocida. En estos casos, la Subsecretaría podrá autorizar, por resolución, el no retiro de las estructuras que cumplan la misma función de las redes peceras y loberas, cuya tecnología permita su permanencia en el agua por un tiempo mayor. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de efectuada la cosecha total del centro y deberá culminar en un máximo de 45 días corridos.
 
-c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares por el plazo mínimo de un mes o el que se haya dispuesto en el programa sanitario específico que corresponda. El período de cese de operaciones se iniciará al momento en que se hayan retirado desde el centro todos los peces en cultivo, la fecha del inicio del período de descanso deberá ser informado al Servicio.
+c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares por el plazo mínimo de un mes o el que se haya dispuesto en el programa sanitario específico que corresponda. El período de cese de operaciones se iniciará al momento en que se hayan retirado desde el centro todos los peces en cultivo, En forma previa al inicio del período de descanso, el titular de la concesión deberá informar por escrito a la oficina del Servicio de la jurisdicción de la concesión de acuicultura, la fecha efectiva del inicio del período de descanso..
 
 En el caso de las agrupaciones de concesiones, se estará a lo dispuesto en el artículo 58 K.
 
@@ -1336,25 +1296,41 @@ No podrán trasladarse peces, en ningún estado de desarrollo entre centros de m
 
 #### Artículo 24
 
-En la siembra en mar sólo se podrá mezclar peces de hasta tres orígenes.
+En la siembra en mar sólo se podrá mezclar peces de hasta tres orígenes de la misma especie, por ciclo productivo. Los centros de cultivo que efectúan smoltificación deberán informar esa actividad en las declaraciones de abastecimiento y operación que presentan al Servicio, de acuerdo al formato que este último disponga.
 
-La condición de smoltificación deberá ser acreditada mediante análisis de laboratorio. La metodología de análisis deberá establecerse en el programa sanitario general correspondiente.
+Se permitirá la siembra de ejemplares hasta por el doble del número de peces por estructura de cultivo que se hubiera permitido por aplicación de la resolución a que se refiere el artículo 58 Q, siempre que se cumplan las siguientes condiciones:
 
-La siembra deberá ser a número final. En los casos de emergencia sanitaria, se requerirá autorización del Servicio para realizar desdobles como medida de control de una enfermedad de alto riesgo o de acuerdo a un programa sanitario específico.
+a) La opción podrá ejercerse respecto de todas o una parte de las jaulas del centro de cultivo;
 
-El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. En el caso que una agrupación no esté operando en el período productivo vigente, deberá entregar su plan de siembra seis meses antes de iniciar la siembra. Una vez recibidos, los planes de siembra deberán ser remitidos al Servicio en formato electrónico. El Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad. El pronunciamiento del Servicio acerca del cumplimiento de los requisitos antes señalados, deberá emitirse por resolución.
+b) Se respete el número máximo de ejemplares autorizados a sembrar en el centro;
 
-El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso.
+c) Se realice el desdoble de los ejemplares ingresados a las jaulas respectivas antes del inicio del séptimo mes de terminada la siembra del ciclo productivo correspondiente o antes que se alcance un peso promedio de un kilo en los ejemplares de la jaula, lo que ocurra primero;
 
-En el plazo de un mes, contado desde el término de la siembra del ciclo o período productivo, el titular de la concesión deberá presentar una declaración jurada al Servicio en que deje constancia del número total de ejemplares efectivamente sembrados en el centro de cultivo. Asimismo, dentro los 15 días corridos siguientes al término de la cosecha, el titular del centro de cultivo deberá presentar una declaración jurada al Servicio, en que deje constancia del número total de ejemplares efectivamente cosechados y su destino.
+d) El desdoble deberá tener por resultado la redistribución de los peces entre las jaulas informadas en la declaración de siembra correspondiente, dando cumplimiento al número máximo de peces por jaula establecido para el centro conforme a la resolución a que se refiere el artículo 58 Q;
+
+e) Se informe al Servicio haber optado por esta alternativa al momento de solicitar la autorización de siembra y dar aviso una semana antes de la fecha para iniciar el desdoble y el plazo en el que se finalizará la nueva distribución;
+
+f) Se deberá mantener la trazabilidad de los ejemplares e informar la nueva distribución de los ejemplares conforme al reglamento de entrega de información establecido por DS Nº 129, de 2013, del Ministerio de Economía, Fomento y Turismo.
+
+En virtud del desdoble que se realice conforme las condiciones indicadas en el inciso anterior, se podrán eliminar ejemplares por razones productivas o sanitarias, lo que no será considerado pérdida conforme al artículo 24 A hasta por un máximo del 5% del total de la siembra efectiva del ciclo productivo respectivo. En el caso que los ejemplares a manejar presenten enfermedad o agente de enfermedad de alto riesgo, sometida a programa de control, se actuará de acuerdo a lo que indique el programa específico respectivo.
+
+En los casos en que el titular del centro de cultivo requiera realizar desdobles en condiciones diferentes a las indicadas en los incisos anteriores, deberá requerir la autorización del Servicio. Con todo, las eliminaciones de ejemplares que se originen en estas autorizaciones serán consideradas pérdidas conforme a las reglas generales.
+
+El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Una vez dictada la resolución que fija la densidad de cultivo para la agrupación respectiva y previo a realizar la siembra efectiva del centro de cultivo, el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
+
+El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso, para lo cual se dispondrá de un formulario en la página web de la Subsecretaría..
+
+En el plazo de un mes, contado desde el término de la siembra del ciclo productivo, el titular de la concesión deberá presentar una declaración jurada a la Subsecretaría en que deje constancia del número total de ejemplares efectivamente sembrados en el centro de cultivo. Asimismo, dentro los 15 días corridos siguientes al término de la cosecha, el titular del centro de cultivo deberá presentar una declaración jurada a la Subsecretaría, en que deje constancia del número total de ejemplares efectivamente cosechados y su destino.
+
+Las declaraciones antes señaladas deberán ser entregadas de acuerdo al formato disponible en la página web de la Subsecretaría.
 
 #### Artículo 24
 
-A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y las cosechas contabilizadas hasta un mes antes del término de aquél, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio.
+A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y las cosechas cuyo destino final sea una planta elaboradora de productos para consumo humano directo, contabilizadas hasta un mes antes del término del ciclo productivo, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio. No se considerarán pérdidas, asimismo, los ejemplares que sean eliminados por el desdoble que sea realizado conforme lo indicado en el artículo 24.
 
-Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación.
+Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja conforme a la clasificación de bioseguridad establecida por la Subsecretaría, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación.
 
-Los equipos contadores de peces y estimadores de biomasa deberán ser certificados por personas inscritas de conformidad con el artículo 122 letra k) de la ley.
+Los equipos contadores de peces y estimadores de biomasa serán acreditados por el fabricante del equipo y declarados ante el Servicio, en el formato que pondrá a disposición en su sitio electrónico. Sólo se podrá considerar hasta en un máximo de 2% el error en que hayan podido incurrir los equipos contadores de peces y estimadores de biomasa. Este porcentaje de error será contabilizado a favor del centro de cultivo. El porcentaje de error sólo podrá ser aplicado en los casos en que el titular del centro de cultivo no haya realizado rectificaciones ni correcciones de ninguna naturaleza a la información entregada al Servicio conforme al reglamento de entrega de información a que se refiere el artículo 63 de la ley durante todo el ciclo y período productivo respectivo.
 
 Por resolución de la Subsecretaría se establecerán los tramos de la clasificación de bioseguridad de los centros de cultivo, considerando las pérdidas del ciclo productivo y el porcentaje de reducción de siembra para el ciclo productivo siguiente que corresponda a cada tramo.
 
@@ -1439,6 +1415,18 @@ Los camiones cisternas o tolvas que trasladen residuos sólidos o líquidos a un
 La transformación, sacrificio, desangrado y eviscerado de especies hidrobiológicas en que se hubiere comprobado la presencia de una enfermedad de alto riesgo clasificada en Lista 1 o clasificada en Lista 2 sujeta a un programa sanitario de control o erradicación, sólo podrá realizarse en plantas de procesamiento o reductoras y centros de faenamiento que acrediten ante el Servicio disponer un sistema de tratamiento de residuos líquidos y sólidos destinado a destruir agentes infecciosos para las especies hidrobiológicas o en las que el Servicio hubiere determinado que el método de procesamiento utilizado, asegura su eliminación.
 
 Con todo, la transformación, sacrificio, desangrado y eviscerado de salmónidos sólo podrá realizarse en plantas de proceso y en los centros de faenamiento que cuenten con un sistema de tratamiento de efluentes para eliminar patógenos, que sea compatible con la salud y bienestar de las especies hidrobiológicas y que estén debidamente aprobadas por la normativa vigente.
+
+#### Artículo 33 bis
+
+Las redes deberán ser trasladadas, limpiadas y desinfectadas de acuerdo al procedimiento previsto en el programa sanitario general correspondiente. Los talleres de redes deberán contar con un área sucia y un área limpia separadas o de uso exclusivo y contar con un sistema de trazabilidad de las redes.
+
+Las redes deberán ser clasificadas a su llegada al taller de lavado, desinfección, mantención o reparación, dependiendo de su procedencia.
+
+En caso de disposición final, las redes que están en contacto directo con los peces deberán ser dispuestas en un vertedero industrial, debidamente autorizado, conforme a la normativa vigente.
+
+Con todo, en el evento que la disposición final contemple la reutilización para otros fines de las redes que están en contacto directo con los peces, éstas deberán ser previamente desinfectadas de conformidad con el programa sanitario general o específico vigente.
+
+El lavado y limpieza de las redes que están en contacto directo con los peces efectuado en cualquiera de las formas que contemple el decreto supremo a que se refiere el artículo 87 de la ley, deberá considerar la desinfección del efluente líquido cuando las redes peceras se encuentren o provengan desde centros ubicados en zonas de vigilancia o zona infectada.
 
 #### Artículo 34º
 
@@ -1544,7 +1532,7 @@ Del transporte
 
 El transporte y traslado dentro del territorio nacional de especies hidrobiológicas vivas o muertas, en cualquier estado de desarrollo, deberá sujetarse al cumplimiento de las siguientes condiciones, sin perjuicio de lo establecido en los programas sanitarios:
 
-a) el transporte de las especies desde el lugar de origen hasta su destino final debe efectuarse en el menor tiempo posible, en contenedores estancos, rígidos o flexibles, anti derrame o goteo, sin vías de evacuación, cubiertos de plástico. Se deberá usar contenedores exclusivos para cada proceso, lo cual deberá estar debidamente señalado y etiquetado. Para el caso del transporte de gametos u ovas fecundadas se deberán usar contenedores de primer uso debidamente rotulados.
+a) el transporte de las especies desde el lugar de origen hasta su destino final debe efectuarse en el menor tiempo posible, en contenedores estancos, rígidos o flexibles, anti derrame o goteo, sin vías de evacuación. Se deberá usar contenedores exclusivos para cada proceso, lo cual deberá estar debidamente señalado y etiquetado. Para el caso del transporte de gametos u ovas fecundadas se deberán usar contenedores de primer uso debidamente rotulados.
 
 b) ELIMINADA;
 
@@ -1554,35 +1542,13 @@ d) en caso de utilizar agua para el transporte terrestre, los vehículos deberá
 
 e) durante el traslado los individuos serán manipulados y mantenidos en condiciones que protejan la vida y estado sanitario de los ejemplares, incluyendo la renovación del agua, si es necesario;
 
-f) el agua utilizada en el transporte terrestre solamente podrá ser cambiada en instalaciones autorizadas por el Servicio, de manera de mantener la calidad sanitaria de los ejemplares transportados, así como la del cuerpo de agua receptor. El listado con estas instalaciones estará disponible en la página web del Servicio. Los medios de transporte terrestre deberán utilizar una tecnología o procedimiento que asegure que no se produce la diseminación de patógenos.
+f) Eliminada.
 
 g) los ejemplares deberán estar debidamente identificados, indicando lugar de origen, destino y especie. El listado con estas instalaciones estará disponible en la página web del Servicio.
 
 h) el envío deberá ir acompañado de un documento que acredite la procedencia de las especies transportadas conforme a la normativa vigente;
 
-i) En el caso de traslado de peces, los medios de
-
-transporte que carguen agua en un lugar diferente
-
-al de origen de los peces, deberán desinfectarla o
-
-usar agua de pozos profundos o cargar en lugares
-
-autorizados por el Servicio. En el caso de
-
-recambio de agua durante el transporte, deberán
-
-darse cumplimiento a idénticas exigencias. El
-
-Servicio emitirá por resolución las
-
-características técnicas exigidas a cada tipo de
-
-desinfección y las concentraciones de los
-
-desinfectantes que garanticen la destrucción de
-
-patógenos.
+i) En el caso de traslado de peces, los medios de transporte que carguen agua en un lugar diferente al de origen de los peces, deberán desinfectarla o usar agua de pozos profundos. En el caso de recambio de agua durante el transporte, deberá darse cumplimiento a idénticas exigencias.
 
 j) ELIMINADO.
 
@@ -1620,15 +1586,15 @@ No obstante lo anterior, quedará prohibido el movimiento de especies hidrobiol�
 
 Deberán desinfectarse los embalajes y todos los elementos empleados en el transporte.
 
-La limpieza y desinfección deberán ser acreditados, mediante un acta de desinfección. Dicha acta deberá consignar, al menos, la patente o matrícula del medio de transporte, la fecha y hora de desinfección, los productos usados en el proceso y el responsable de la aplicación. En el caso de medios de transporte que cuenten con sistemas automáticos de desinfección, los procedimientos deberán estar debidamente respaldados por los registros correspondientes, no siendo necesaria la emisión de un acta de desinfección. No obstante esta situación deberá ser informada al Servicio.
+En el caso de medios de transporte que cuenten con sistemas automáticos de desinfección, los procedimientos deberán estar debidamente respaldados por los registros correspondientes, no siendo necesaria la emisión de un acta de desinfección. No obstante esta situación deberá ser informada al Servicio.
 
-Las embarcaciones que retiren artes de cultivo de los centros deberán contar con una bomba de aspersión para desinfectar las superficies y los pisos de cubierta, antes y después del retiro de éstas.
+Inciso Eliminado
 
-Todos los medios de transporte que sean utilizados para trasladar especies hidrobiológicas desde o hacia centros de cultivo, centros de acopio, centros de faenamiento o plantas de proceso, deberán ser limpiados y desinfectados en forma previa a la carga y con posterioridad a la descarga, conforme lo disponga el programa sanitario correspondiente.
+Todos los medios de transporte que sean utilizados para trasladar especies hidrobiológicas desde o hacia centros de cultivo, centros de acopio, centros de faenamiento o plantas de proceso, deberán ser limpiados y desinfectados en forma previa a la carga, conforme lo disponga el programa sanitario correspondiente.
 
 El procedimiento de limpieza y desinfección de los medios de transporte y de los contendedores utilizados, se realizará conforme al programa sanitario general correspondiente. Se exigirá siempre el mayor nivel de limpieza y desinfección al ingreso y salida de zonas infectadas y al transporte de reproductores o smolts que se realice en un medio de transporte utilizado previamente en el transporte de peces de cosecha o mortalidades.
 
-Las embarcaciones que retiren mortalidades desde los centros de cultivo deberán contar con bombas de aspersión para desinfectar la superficie de los pisos de cubierta antes y después del retiro de éstas.
+Inciso Eliminado.
 
 #### Artículo 49
 
@@ -1912,7 +1878,7 @@ K. En el caso de la siembra de nuevos ejemplares a realizarse en cualquier centr
 
 a) Haber realizado la cosecha completa de los ejemplares ingresados previamente;
 
-b) Haber limpiado y desinfectado las instalaciones del centro de cultivo, los equipos, las estructuras que se encuentran sobre el nivel del agua, las embarcaciones de apoyo del centro y sus puntos de embarque y desembarque y las estructuras de contacto directo con los ejemplares de cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo en el caso de las redes de cobre, en que podrá aplicarse lo dispuesto en la letra b) del artículo 23 R. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de siete días corridos, contados desde la fecha en que haya terminado la cosecha total del centro. Dicho proceso deberá culminarse en un máximo de 45 días corridos, contados desde el término de la cosecha total, y
+b) Haber limpiado y desinfectado las instalaciones del centro de cultivo, los equipos, las estructuras que se encuentran sobre el nivel del agua, las embarcaciones de apoyo del centro y sus puntos de embarque y desembarque y las estructuras de contacto directo con los ejemplares de cultivo. Para tales efectos, se deberán retirar las redes peceras y loberas, salvo en el caso de las estructuras que cumplan la misma función de las redes peceras y loberas, en que podrá aplicarse lo dispuesto en la letra b) del artículo 23 R. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de siete días corridos, contados desde la fecha en que haya terminado la cosecha total del centro. Dicho proceso deberá culminarse en un máximo de 45 días corridos, contados desde el término de la cosecha total, y
 
 c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares, por el período que corresponda a la agrupación de conformidad con el artículo 58 G. El período de cese de operaciones se iniciará al momento en que se hayan retirado desde el centro todos los ejemplares en cultivo.
 
@@ -2011,6 +1977,8 @@ La reclamación de la densidad fijada, así como su revisión al término del ci
 #### Artículo 58
 
 R. No se fijará densidad de cultivo por agrupación en el caso que las concesiones integrantes de la agrupación nunca hayan operado, cualquiera sea el motivo. En estos casos, cuando todos o algunos de los centros de cultivo integrantes de la agrupación inicien su operación, deberán hacerlo sometiéndose a la densidad de cultivo para centros de engorda, fijada por resolución vigente del Servicio. La densidad de cultivo por agrupación en estos casos, será fijada una vez cumplido el primer período productivo con operación de las concesiones integrantes de la agrupación.
+
+Las concesiones nuevas entregadas por la Autoridad Marítima antes de seis meses del inicio del descanso coordinado, fijado para la agrupación, deberán hacer entrega de su plan de siembra de conformidad con el artículo 24 y quedarán sometidas a la densidad de cultivo que sea fijada para la agrupación respectiva. Las concesiones nuevas entregadas por la Autoridad Marítima en una fecha posterior a los seis meses antes del inicio del descanso coordinado, fijado para la agrupación o en una fecha posterior, sea del descanso o del período productivo, no se someterán a la densidad de cultivo de la misma sino a la que haya fijado el Servicio para los centros de cultivo de engorda. Estas disposiciones no serán aplicables a las concesiones que hayan sido otorgadas en virtud de una relocalización.
 
 A la densidad de cultivo que hubiere fijado el Servicio por resolución vigente para centros de engorda quedarán también sometidas las agrupaciones en que hayan operado menos del 10% de las concesiones integrantes de las mismas en los dos últimos períodos productivos y siempre que hayan obtenido una clasificación de bioseguridad alta, de conformidad con el artículo 24 A.
 
@@ -2258,7 +2226,7 @@ h) Identificación de las embarcaciones sancionadas de conformidad con el articu
 
 D. Los centros de cultivo y demás establecimientos que realicen actividades sometidas a las disposiciones del presente reglamento, deberán mantener, en formato papel o digital, manuales de operación elaborados a partir de los programas sanitarios generales y específicos. Dichos manuales podrán ser requeridos por el Servicio para fiscalizar las actividades realizadas en el establecimiento. Los manuales deberán estar disponibles para la fiscalización del Servicio y para las personas encargadas de aplicarlos.
 
-El titular de cada establecimiento deberá asegurar la capacitación de las personas encargadas de aplicar los manuales de operación al menos una vez al año y dentro del proceso de inducción de nuevo personal encargado de aplicarlos.
+Inciso Eliminado.
 
 ## Título XVIII
 
@@ -2286,13 +2254,13 @@ La toma de muestras, en cualquier centro de cultivo, deberá considerar la sedac
 
 Los resultados de análisis de laboratorio serán parte de la validación que emita el médico veterinario o el certificador sanitario, según corresponda.
 
-El programa sanitario respectivo establecerá el tiempo de validez de los informe de resultados de análisis emitidos por un laboratorio de diagnóstico, el que no podrá ser inferior a una semana ni superior a un mes, lo que se determinará en cada caso en atención a la patogenia y conocimiento científico de la enfermedad, agente patógeno en cuestión.
+El programa sanitario respectivo establecerá el tiempo de validez de los informes de resultados de análisis emitidos por un laboratorio de diagnóstico, en atención a la patogenia y conocimiento científico de la enfermedad o agente patógeno en cuestión. En ningún caso la validez de los análisis será fijada en un plazo inferior a una semana. En el caso de los resultados negativos no podrá ser superior a un mes y en el de los resultados positivos se estará al programa.
 
 El formato del certificado sanitario que deberán utilizar los certificadores sanitarios estará disponible en su correspondiente programa sanitario general.
 
 ELIMINADO
 
-El certificado del estado sanitario de los ejemplares acreditará la ausencia de enfermedades de alto riesgo y sus agentes causales, el cumplimiento del monitoreo sanitario y el uso de vacunas.
+El certificado del estado sanitario de los ejemplares acreditará la condición sanitaria al momento de la visita, incluyendo el historial sanitario y productivo de los ejemplares.
 
 Esta certificación será exigible en los casos contemplados en el artículo 24 bis y cada vez que sean requeridos en un programa sanitario.
 

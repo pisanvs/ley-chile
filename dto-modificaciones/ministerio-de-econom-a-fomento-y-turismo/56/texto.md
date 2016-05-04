@@ -1904,7 +1904,7 @@ La aplicación de la condición prevista en el artículo 47 bis letra a) para lo
 
 #### Artículo 9º
 
-La exigencia señalada en el artículo 57 inciso 2º del presente reglamento que consiste en que cada tratamiento antimicrobiano deberá estar respaldado por la realización de un antibiograma o CIM comenzará a regir tres años después de la publicación del reglamento en el Diario Oficial.
+La exigencia señalada en el artículo 57 inciso 2º del presente reglamento que consiste en que cada tratamiento antimicrobiano deberá estar respaldado por la realización de un antibiograma o CIM comenzará a regir seis años después de la publicación del reglamento en el Diario Oficial.
 
 #### Artículo 10º
 
