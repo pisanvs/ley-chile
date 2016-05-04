@@ -86,6 +86,8 @@ Los propietarios podrán, de conformidad a las reglas generales, otorgar un mand
 
 Del mismo modo podrán solicitar el subsidio aquellos propietarios de los mencionados vehículos cuando hayan estado inscritos en el Registro al 30 de octubre del año de aplicación del subsidio y con posterioridad a dicha fecha, hayan cancelado la inscripción de su vehículo en el referido Registro y efectuado su reemplazo, siempre que a la fecha de la solicitud del subsidio el vehículo que ingresa en reemplazo del vehículo cancelado, se encuentre con inscripción vigente en el mismo Registro.
 
+También podrán solicitar el subsidio los propietarios de los mencionados vehículos que se inscriban en el Registro con posterioridad al 30 de octubre y hasta el 1 de diciembre del año de su aplicación, y que en todo caso se encuentren inscritos y vigentes en el referido Registro al momento de solicitar el subsidio.
+
 #### Artículo 6°
 
 <!-- parte:8891447 -->
@@ -114,7 +116,7 @@ f) Declaración Jurada del solicitante efectuada ante Notario Público que consi
 
 g) En el caso de personas jurídicas, certificado que acredite estar inscrito en el Registro de Personas Jurídicas Receptoras de Fondos Públicos a que se refiere la ley Nº 19.862.
 
-El Ministerio pondrá a disposición del Servicio de Tesorerías, por medios electrónicos, la información del Registro existente al 30 de octubre del año de aplicación del subsidio, además de la información del Registro actualizada durante todo el período de postulación, para verificar que el o los vehículos cumplan con los requisitos establecidos en el artículo 5º en su numeral primero y toda la información necesaria para realizar el pago de los saldos que correspondan.
+El Ministerio pondrá a disposición del Servicio de Tesorerías, por medios electrónicos, la información del Registro existente al 30 de octubre y al 1 de diciembre del año de aplicación del subsidio, además de la información del Registro actualizada durante todo el período de postulación, para verificar que el o los vehículos cumplan con los requisitos establecidos en el artículo 5º en su numeral primero y toda la información necesaria para realizar el pago de los saldos que correspondan.
 
 #### Artículo 8º
 
