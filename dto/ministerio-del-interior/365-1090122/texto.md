@@ -6,7 +6,7 @@ Núm. 365.- Vistos estos antecedentes y lo informado por la Dirección General d
 
 Decreto:
 
-1°- Otórgase a la Empresa de los Ferrocarriles del Estado concesión definitiva de servicio privado destinada a establecer, operar y explotar una línea de transporte de energía eléctrica de 66 Kv. entre la S E. Tres Esquinas de Endesa y la subestación rectificadora de energía eléctrica que la Empresa de los Ferrocarriles del Estado instalará en la estación ferroviaria de Bulnes, provincia de Ñuble. El objeto de esta línea es suministrar energía eléctrica a la subestación rectificadora de Bulnes destinada a la electrificación del ferrocarril longitudinal Sur.
+1º- Otórguese a la Empresa de los Ferrocarriles del Estado, concesión definitiva para establecer una línea de transporte de energía eléctrica de 66 kV, entre la S.E. Tres Esquinas de Endesa y la subestación rectificadora de energía eléctrica que la Empresa de los Ferrocarriles del Estado instalará en la estación ferroviaria de Bulnes, provincia de Ñuble. El objeto de esta línea es suministrar energía eléctrica a la subestación rectificadora de Bulnes destinada a la electrificación del ferrocarril longitudinal Sur.
 
 2°- Apruébanse los planos generales de la línea y los especiales de servidumbres, los que quedarán archivados en la Dirección de Servicios Eléctricos y de Gas y autorízase a dicha Repartición para que exija las modificaciones de detalle que sean necesarias en las obras.
 
