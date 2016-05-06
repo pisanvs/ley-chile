@@ -26,6 +26,8 @@ Resuelvo:
 
 a) A partir del 26 de enero de 2016, como área reglamentada para el mercado de China el polígono de 43 vértices, determinado por las siguientes coordenadas UTM, señaladas a continuación:
 
+.
+
 b) El polígono que determina el área reglamentada incorpora completamente a la comuna de Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, La Cisterna, La Florida, La Granja, La Reina, Lo Espejo, Lo Prado, Macul, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramón, Independencia, Las Condes, Vitacura, Quilicura, Huechuraba, Maipú, Pudahuel y parcialmente las siguientes comunas: La Pintana, Puente Alto, San Bernardo, Til-Til, Lampa, Colina, Lo Barnechea, Curacaví, Peñaflor, Calera de Tango, Padre Hurtado, San José de Maipo.
 
 2. Dispónese la ejecución de las siguientes medidas fitosanitarias en el área reglamentada:
@@ -46,11 +48,11 @@ c) Otras medidas que el Servicio determine.
 
 7. Los productos hospederos de "Mosca del Mediterráneo" producidos dentro del área reglamentada, cuyo destino sea el mercado de China, deben ser embalados y manejados sólo al interior de dicha área y deberán cumplir todos los requisitos fitosanitarios establecidos por este mercado, a menos que exista alguna indicación oficial de este país de destino que permita otras prácticas.
 
-8. Toda fruta producida fuera del área reglamentada y que ingrese a ésta para embalarse se considera cuarentenada, por lo tanto deberá cumplir con los requisitos fitosanitarios correspondientes al mercado de China, atendida su nueva condición sanitaria.
+8. Toda fruta producida fuera del área reglamentada y que ingrese a ésta se considera cuarentenada, por lo tanto deberá cumplir con los requisitos fitosanitarios correspondientes al mercado de China, atendida su nueva condición sanitaria.
 
-9. Toda fruta producida y embalada fuera del área reglamentada, que requiera ingresar a ésta ya sea para almacenaje y/o inspección, deberá hacerlo con las medidas de resguardo definidas por el mercado de China.
+### 9. Eliminado
 
-10. En caso que fruta producida y embalada fuera del área reglamentada y que ingresó a ésta con medidas de resguardo y requiera ser inspeccionada para su exportación al mercado de China, los envases abiertos sólo podrán ser reincorporados al resto del lote, si esta actividad se realiza en instalaciones cerradas, con temperatura ambiente igual o menor a 8 ºC y previamente autorizadas por el Servicio. De no cumplirse lo anterior, las cajas inspeccionadas no deberán ser exportadas al mercado de China.
+### 10. Eliminado
 
 11. Para los envíos de fruta destinada a China que se exporten por vía aérea (Aeropuerto AMB), éstos deberán venir preparados desde origen cumpliendo con los requisitos correspondientes. (Información disponible en la página web del Servicio).
 
