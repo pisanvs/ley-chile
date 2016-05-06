@@ -14,7 +14,7 @@ Por cada integrante del núcleo familiar que exceda de tres, el ingreso máximo 
 
 El ingreso mensual del núcleo familiar corresponderá al ingreso bruto menos los descuentos legales.
 
-2º.- El puntaje de la Ficha de Protección Social del Núcleo Familiar postulante no podrá exceder de 13.484 puntos.
+2º.- El Núcleo Familiar postulante deberá pertenecer al 70% más vulnerable de la población nacional, de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379.
 
 3º.- La fórmula para determinar el puntaje de vulnerabilidad social en la postulación es la siguiente:
 
