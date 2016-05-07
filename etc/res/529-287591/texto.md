@@ -270,6 +270,4 @@ Sin perjuicio de lo anterior, durante igual período, las embarcaciones que tran
 
 - La segunda etapa, inmediatamente concluida la primera, será aplicable a toda la Región de Los Lagos, sin excepción.
 
-> **Nota.** El numeral 1° de la Resolución 9582 Exenta, Economía, publicada el 16.12.2016, modifica el presente artículo transitorio en el sentido de prorrogar por seis meses el plazo que en él se establece, manteniéndose su aplicación sólo a los wellboats que descarguen en la Bahía de Quellón.
-
 Anótese, comuníquese y publíquese.- Alejandro Covarrubias Pérez, Director Nacional de Pesca (S).
