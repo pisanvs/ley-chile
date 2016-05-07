@@ -1,0 +1,5 @@
+MODIFICACIÓN INTRODUCIDA POR LA LEY Nº 20.899, AL ARTÍCULO 9º DE LA LEY ORGÁNICA DEL SERVICIO DE IMPUESTOS INTERNOS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 24, del 3 de mayo de 2016, que instruye sobre la modificación introducida por la ley Nº 20.899, al artículo 9º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del decreto con fuerza de ley Nº 7, del Ministerio de Hacienda, de 1980, que faculta al Subdirector de Fiscalización y al Director de Grandes Contribuyentes del Servicio de Impuestos Internos para aplicar las multas que se indican.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2016.
