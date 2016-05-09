@@ -1,0 +1,7 @@
+CERTIFICADO
+
+Certifico: Que por resolución exenta Nº 1.326, de fecha 26 de abril de 2016, esta Superintendencia de Valores y Seguros aprobó la modificación de estatutos de la sociedad anónima denominada Chilena Consolidada Seguros Generales S.A., acordada en Junta Extraordinaria de Accionistas celebrada el 23 de diciembre de 2015, reducida a escritura pública el 30 de diciembre de 2015, rectificada por escrituras públicas complementarias de 2 de marzo de 2016 y de 23 de marzo de 2016, todas otorgadas en la Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos 979, séptimo piso, de acuerdo a lo señalado en oficios ordinarios Nos 4674 y 6777, ambos de 2016.
+
+Se aumenta el capital social de $13.157.117.868, dividido en 68.098.166 acciones, sin valor nominal, íntegramente suscrito y pagado, a $20.156.942.868, dividido en 88.993.166 acciones, sin valor nominal, mediante la emisión de 20.895.000 acciones, por la suma de $6.999.825.000, las que deberán ser suscritas y pagadas, dentro del plazo de tres años contado desde la fecha de la junta. Se modifican artículo quinto y primero transitorio de los estatutos. Otros acuerdos constan en escritura extractada.
+
+Santiago, 26 de abril de 2016.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
