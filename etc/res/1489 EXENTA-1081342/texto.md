@@ -24,7 +24,7 @@ NODOS - PLATAFORMA PARA LA PESCA ARTESANAL
 
 ### 1. OBJETO:
 
-Los "Nodos - Plataforma para el Desarrollo de la Pesca Artesanal", creados como Caso Especial, en el marco del instrumento Nodos para la Competitividad, tienen por objeto desarrollar proyectos que permitan apoyar la articulación y coordinación de actores asociados a la pesca artesanal y facilitar la incorporación de capacidades y competencias de gestión, metodologías, herramientas y buenas prácticas en las unidades productivas y en la cadena productiva para acceder a mercados de mayor valor, contribuyendo a mejorar su competitividad.
+Los "Nodos - Plataforma para el Desarrollo de la Pesca Artesanal", también denominados "Nodos - Plataforma para la Pesca Artesanal", tienen por objeto desarrollar proyectos que permitan apoyar la articulación y coordinación de actores asociados a la pesca artesanal y facilitar la incorporación de capacidades y competencias de gestión, metodologías, herramientas y buenas prácticas en las unidades productivas y en la cadena productiva para acceder a mercados de mayor valor, contribuyendo a mejorar su competitividad.
 
 Los objetivos específicos de estos proyectos son:
 
@@ -73,5 +73,7 @@ Para todo lo que expresamente no se ha regulado en este Acuerdo, regirán las no
 ### II. Facúltase la ejecución inmediata del presente Acuerdo, sin perjuicio de la posterior tramitación y firma del Acta"
 
 > **Nota.** El numeral II de la Resolución 2206 Exenta, Economía, publicada el 24.12.2015, modifica la presente norma en el sentido de prorrogar la fecha máxima para la aprobación de estos proyectos hasta el 30 de abril de 2016.
+
+> **Nota.** NOTA 1 La letra a del numeral I de la Resolución 750 Exenta, Economía, publicada el 09.05.2016, modifica la presente norma en el sentido de prorrogar la fecha máxima para la aprobación de estos proyectos hasta el 30 de junio de 2016.
 
 Anótese y publíquese en el Diario Oficial.- Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
