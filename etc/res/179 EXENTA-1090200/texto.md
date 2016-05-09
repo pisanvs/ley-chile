@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN Y CONTRATO DE COMODATO SUSCRITOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUBSECRETARÍA DE SALUD PÚBLICA
+
+Por resolución exenta N° 179, de 29 de abril de 2016, se aprueba el Convenio de Colaboración y Contrato de Comodato, suscritos con fecha 1 de marzo de 2016, entre este Instituto de Previsión Social y la Subsecretaría de Salud Pública, con la finalidad de coordinar desde el ámbito de sus respectivas áreas de desempeño y atribuciones legales, una mutua cooperación, aportando acciones en torno a la integración social y al mejoramiento de la calidad de vida de sus usuarios y su entorno familiar, en cuyo contexto el IPS entrega en comodato de inmueble de su propiedad, ubicado en calle Castellón N° 435 de la comuna de Concepción, Región del Biobío.
+
+Santiago, 3 de mayo de 2016.- Patricio Coronado Rojo, Director Nacional.- María Verónica Eckholt Williamson, Jefa Departamento Transparencia y Documentación.
