@@ -222,9 +222,11 @@ Estará prohibida la instalación de cerquillos u otras estructuras destinadas a
 
 #### Artículo 11º
 
-Los centros con sistemas de producción extensivo ubicados en porciones de agua y fondo deberán mantener una distancia mínima de 200 metros entre sí y de 400 metros respecto de centros con sistemas de producción intensivo. Quedarán excluidos de esta exigencia los cultivos de macroalgas fijadas al sustrato.
+Los centros con sistemas de producción extensivo ubicados en porciones de agua y fondo deberán mantener una distancia mínima de 200 metros entre sí y de 400 metros respecto de centros con sistemas de producción intensivo. Quedarán excluidos de esta exigencia los cultivos de macroalgas.
 
 INCISO ELIMINADO.
+
+> **Nota.** El artículo 2 del Decreto 7, Economía, publicado el 09.05.2016, modifica la presente norma en el sentido de eliminar el inciso 2. Sin embargo, el citado inciso fue eliminado por el Artículo 1 del Decreto 20, Economía, publicado el 22.05.2015.
 
 #### Artículo 12º
 
@@ -306,7 +308,7 @@ No podrá ingresarse nuevos ejemplares a los centros de cultivo mientras no se c
 
 Sin perjuicio de lo anterior, esta medida no regirá en el caso que la autoridad competente no se hubiere pronunciado en el plazo de tres meses contados desde la fecha de entrega de los resultados de la INFA.
 
-En el caso de centros que no se encuentren en operación, no será exigible la entrega de la INFA. Con todo, en forma previa al ingreso de ejemplares al centro, se requerirá contar con una INFA cuyos resultados acrediten la condición a que se refiere el inciso 6° del presente artículo, y deberá haberse realizado conforme lo establezca la resolución señalada en el artículo 16 del presente reglamento.
+En el caso de los centros de cultivo que no se encuentren en operación y cuyo último INFA no haya tenido resultados negativos, no será exigible la entrega de INFA, salvo que hubieren transcurrido cinco años desde la fecha de la última cosecha de ejemplares, entendiéndose por tal, la fecha en que se produzca el total despoblamiento del centro de cultivo respectivo.". En tal caso, en forma previa al ingreso de ejemplares al centro se deberá contar con un INFA que acredite la condición a que se refiere el inciso 6º de este artículo.
 
 La información ambiental deberá ser entregada al Servicio local, el cual remitirá copia del mismo a la Subsecretaría. En caso de inconsistencia técnica en la información ambiental entregada o ante disconformidad entre los antecedentes contenidos en ella y aquellos con que cuente el Servicio, éste podrá exigir información complementaria.
 

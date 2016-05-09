@@ -48,7 +48,11 @@ b) Agrégase una nueva letra x):
 
 "x) Piscicultura: centro de cultivo emplazado en un terreno cualquiera sea su régimen de propiedad o uso, que se abastece de aguas provenientes de derechos de aprovechamiento de aguas o de aguas provenientes del ejercicio de una concesión marítima, inscrito en el Registro Nacional de Acuicultura.".
 
-2. Elimínase el inciso 2º del artículo 11.
+2. Modifícase el artículo 11 en el sentido siguiente:
+
+a) Elimínase en el inciso 1º la frase "fijadas al sustrato".
+
+b) Elimínase el inciso 2º.
 
 3. Agrégase al inciso 2º del artículo 13 la siguiente oración final: "En el caso que este tipo de cultivo se encuentre emplazado en las regiones XV, I, II, llI o IV, no se aplicará la distancia señalada.".
 
