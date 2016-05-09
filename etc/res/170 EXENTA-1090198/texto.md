@@ -1,0 +1,5 @@
+SE APRUEBA MODIFICACIÓN DE CONVENIO DE COLABORACIÓN SUSCRITO EL 17.05.2012, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN CON LA FINALIDAD DE INCORPORAR EL SISTEMA DE AUTENTICACIÓN PARA EL OTORGAMIENTO DE "CLAVE ÚNICA"
+
+Por resolución exenta N° 170, de 25 de abril de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba el documento Modificación de Convenio de Colaboración, de 01.04.2016, suscrito con el Servicio de Registro Civil e Identificación, con la finalidad de incorporar al Convenio matriz aprobado por la resolución exenta N° 283, de 22.06.2012, el sistema de autenticación para el otorgamiento de "Clave Única", que beneficia a los usuarios de este Instituto que requieran acceder a los diversos trámites del Estado.
+
+Santiago, 3 de mayo de 2016.- Patricio Coronado Rojo, Director Nacional.
