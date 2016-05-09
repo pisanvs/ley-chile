@@ -40,19 +40,13 @@ b) EJE SAN DIEGO - BANDERA
 
 Eliminado.
 
-c) EJE SAN ANTONIO - SAN FRANCISCO
+c) SAN FRANCISCO
 
 Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-San Antonio Ismael Av. Libertador Habitual N-S
-
-Valdés Bernardo
-
-Vergara O'Higgins
-
-(Alameda)
+Eliminado.
 
 San Francisco Av. Placer Habitual N-S
 
@@ -64,21 +58,11 @@ O'Higgins
 
 (Alameda)
 
-d) EJE COMPAÑÍA - MERCED
+EJE COMPAÑÍA - MERCED
 
-VÍA DESDE HASTA SENTIDO VÍA
+Eliminado.
 
-EXCLUSIVA
-
-COMPAÑÍA Manuel Plaza de Habitual P-O
-
-MERCED Rodríguez Armas
-
-Plaza de Santa Habitual P-O
-
-Armas Lucía
-
-e) SANTO DOMINGO
+d) SANTO DOMINGO
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -90,7 +74,7 @@ Valdés Rodríguez O-P
 
 Vergara
 
-f) AV. JOSÉ JOAQUÍN PÉREZ
+e) AV. JOSÉ JOAQUÍN PÉREZ
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -100,7 +84,7 @@ AV. JOSÉ Av. Teniente Av. Walker Sólo calzada
 
 JOAQUÍN PÉREZ Cruz Martínez P-O
 
-g) SAN PABLO
+f) SAN PABLO
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -110,7 +94,7 @@ SAN PABLO Av. La Barros Sólo calzada
 
 Estrella Arana P-O
 
-h) IRARRÁZAVAL
+g) IRARRÁZAVAL
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -122,7 +106,7 @@ Bustamante norte de
 
 O-P
 
-i) SAN MARTÍN
+h) SAN MARTÍN
 
 Vía Desde Hasta Sentido Vía
 
@@ -138,89 +122,19 @@ O'Higgins
 
 (Alameda)
 
-Si durante la vigencia de una Alerta Sanitaria por concentración ambiental de material particulado fino MP 2.5, se declara, por la Secretaría Regional Ministerial Metropolitana de Salud, condición de preemergencia o emergencia ambiental, de conformidad con el artículo 5 del DS Nº 12, de 2011, del Ministerio del Medio Ambiente; salvo en días sábados, domingos y festivos; en forma adicional a las vías ya indicadas, funcionarán extraordinariamente entre las 7:30 hrs. y las 10:00 hrs. y, entre las 17:00 y las 21:00 hrs., como vías exclusivas y, mientras persista dicha condición ambiental, aquellas que se indican en el siguiente cuadro, según sus tramos y sentidos de tránsito:
+Si durante el período de vigencia de una Alerta o Emergencia Sanitaria por concentración ambiental de material particulado fino respirable MP 2.5 u otro contaminante atmosférico que ponga en riesgo la salud de la población, o bien, durante el período de aplicación del plan operacional de gestión de episodios críticos, dispuesto en el DS N° 66 del Ministerio Secretaría General de la Presidencia, que revisa, reformula y actualiza Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana (PPDA), se declara, por la autoridad competente, condición de preemergencia o emergencia, operarán también como vías exclusivas de transporte público, en horarios de 7:30 a 10:00 horas y de 17:00 a 21:00 horas, aquellas que se indican en el siguiente cuadro, según sus tramos y sentidos de tránsito:
 
-VÍA EXCLUSIVA DESDE HASTA SENTIDO
+N° VÍA EXCLUSIVA DESDE HASTA SENTIDO
 
-Av. Los Av. Américo Av. 5 de Ambos
+General José Av. Av. Sur-Norte
 
-Pajaritos Vespucio Abril sentidos
+Artigas-Av. Sucre Providencia
 
-Gran Avenida Placer Av. Ambos
+Los Leones
 
-José Miguel Departamen- sentidos
+1
 
-Carrera tal
-
-San Diego Placer Tarapacá Sur-Norte
-
-Nataniel Cox Padre BioBío Norte-Sur
-
-Miguel de
-
-Olivares
-
-Amunátegui Av. General Sur-Norte
-
-Libertador Mackenna
-
-Bernardo
-
-O' Higgins
-
-(Alameda)
-
-Av. Vicuña Barón Av. Sur-Norte
-
-Mackenna Pierre de Libertador
-
-Coubertin Bernardo
-
-O' Higgins
-
-(Alameda)
-
-Av. Vicuña Anahi Av. Sur-Norte
-
-Mackenna Departamen-
-
-Oriente tal
-
-Av. Vicuña Av.
-
-Mackenna Departamen- Don Pepe Norte-Sur
-
-Poniente tal
-
-Av. Santa Av. Av. Ambos
-
-Rosa Lo Ovalle Américo sentidos
-
-Vespucio
-
-Av. Tobalaba Av. Troncos Norte-Sur
-
-Providencia Viejos
-
-Av. Tobalaba Troncos Av. Sur-Norte
-
-Viejos Apoquindo
-
-San Pablo Matucana Teatinos Poniente-
-
-Oriente
-
-Francisco Román Tobalaba Poniente-
-
-Bilbao Diaz Oriente
-
-Francisco Tobalaba Av. Oriente-
-
-Bilbao Vicuña Poniente
-
-Mackenna
-
-Eje Los Lota Sucre Norte-Sur
+Av Los Lota Sucre Norte-Sur
 
 Leones-
 
@@ -230,61 +144,61 @@ José
 
 Artigas
 
-Eje Los Sucre Av. Sur-Norte
+2 San Diego Av. Tarapacá Sur-Norte
 
-Leones- Providencia
+Manuel
 
-General
+Antonio
 
-José
+Matta
 
-Artigas
+3 Nataliel Tarapacá Av. Norte-Sur
 
-Recoleta Dorsal Av. Ambos
+Cox Manuel
 
-Cardenal sentidos
+Antonio
 
-José
+Matta
 
-María
+Matucana San Pablo Erasmo Norte-Sur
 
-Caro
+Escala
 
-Independencia Dorsal Aníbal Norte-Sur
+4
 
-Pinto
+Matucana Av. San Pablo Sur-Norte
 
-Independencia Echeverría Dorsal Sur-Norte
+Libertador
 
-Puente Padre Santa Av. Norte-Sur
+Bernardo
 
-Hurtado- María Cardenal
+O'Higgins
 
-Bandera José
+(Alameda)
 
-María
+5 Chacabuco Erasmo Av. Norte-Sur
 
-Caro
+Escala Libertador
 
-Puente Av. Av. Santa Sur-Norte
+Bernardo
 
-La Paz Cardenal María
+O'Higgins
 
-José
+(Alameda)
 
-María
+6 Av. Barón Av. Sur-Norte
 
-Caro
+Vicuña Pierrede Libertador
 
-Av. La Paz Santa Echeverría Sur-Norte
+Mackenna Coubertin Bernardo
 
-María
+O'Higgins
 
-Echeverría Av. Independen- Oriente-
+(Alameda)
 
-La Paz cia Poniente
+Las referidas vías exclusivas funcionarán sólo mientras persista la declaración ambiental correspondiente, de lunes a viernes, excepto festivos.
 
-Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga restricción vehicular, según último dígito de placa patente, durante los aludidos episodios de preemergencia y emergencia ambiental por PM 2.5, podrá disponer que sólo parte de las vías, tramos y/o sentidos de tránsito indicados en el cuadro, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los ya señalados.
+Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga la restricción vehicular que corresponda, según último dígito de placa patente, durante los aludidos episodios de preemergencia y emergencia ambiental, podrá disponer que sólo parte de las vías y tramos indicados en el cuadro anterior, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los establecidos.
 
 2.- Los vehículos que podrán circular por estas
 
