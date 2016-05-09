@@ -24,6 +24,8 @@ Resolución:
 
 Nº de cupos de subsidios para proyectos seleccionados
 
+.
+
 4º.- Una vez suscrito el convenio a que se refiere el artículo 9º del DS Nº 116 (V. y U.), de 2014, la entidad desarrolladora podrá realizar la postulación de las familias interesadas en dicho proyecto, en los plazos y condiciones establecidas en el DS Nº 116 (V. y U.), de 2014.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
