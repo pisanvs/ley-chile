@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados hasta el 9 de abril de 2016, en calle Los Aromos entre calle Van Buren y Avda. Luis Flores, de la comuna de Copiapó
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados hasta el 06 de mayo de 2016, en calle Los Aromos entre calle Van Buren y Avda. Luis Flores, de la comuna de Copiapó
 
 2.- Los servicios de transporte público, que en su recorrido tengan como vías las señaladas en el Resuelvo N° 1 anterior, deberán adoptar alguna de las vías alternativas que se indican a continuación:
 
