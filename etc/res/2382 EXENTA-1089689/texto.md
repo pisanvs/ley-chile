@@ -16,7 +16,7 @@ La necesidad de dar pronta solución habitacional a las familias que forman part
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.), de 2011, cuyo texto fue reemplazado por el artículo primero del DS N° 105 (V. y U.), de 2014, en la alternativa de postulación individual, para personas que formen parte del Registro de Familias del Programa Campamentos del Ministerio de Vivienda y Urbanismo, de las Regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Coquimbo, de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía, de Los Ríos y de Los Lagos.
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.), de 2011, cuyo texto fue reemplazado por el artículo primero del DS N° 105 (V. y U.), de 2014, en la alternativa de postulación individual, para personas que formen parte del Registro de Familias del Programa Campamentos del Ministerio de Vivienda y Urbanismo, de las Regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama, de Coquimbo, de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía, de Los Ríos y de Los Lagos.
 
 2. Las postulaciones se recibirán a partir del día lunes 9 de mayo de 2016 y hasta el día viernes 20 de mayo de 2016. Aquellas postulaciones que habiendo sido recibidas físicamente, no hayan sido ingresadas al sistema informático en el periodo indicado, podrán digitarse en diferido, para lo cual se entregará un comprobante de recepción de los antecedentes a la persona postulante, comprobante que en ningún caso implicará que se trata de una postulación hábil. La fecha máxima para la digitación de postulaciones en diferido será hasta el día viernes 27 de mayo de 2016, inclusive.
 
@@ -26,9 +26,9 @@ Resolución:
 
 5. Cada Serviu, mediante oficio dirigido a la División de Política Habitacional, deberá informar el cumplimiento del ahorro indicado en el resuelvo precedente. Este documento, que deberá ser remitido a más tardar el día 31 de mayo de 2016, deberá contener una nómina con el detalle del nombre, cédula de identidad, entidad financiera y número de cuenta de ahorro respectiva de las personas postulantes. El oficio no libera al Serviu de ingresar dichos datos en el sistema informático respectivo.
 
-6. Las personas postulantes de este llamado, deberán estar incorporadas en el Registro Social de Hogares o bien contar con Ficha de Protección Social, registrada en el último proceso de postulación correspondiente a los años 2014 o 2015, según corresponda.
+6. Las personas postulantes de este llamado, deberán estar incorporadas en el Registro Social de Hogares del Ministerio de Desarrollo Social.
 
-7. Exímese a las personas postulantes de este llamado de pertenecer al primer quintil de vulnerabilidad, considerando Carencia Habitacional de la Ficha de Protección Social o de pertenecer al 40% más vulnerable de la población, según clasificación socioeconómica del Registro Social de Hogares.
+7. Sin perjuicio de la incorporación en el Registro Social de Hogares del Ministerio de Desarrollo Social, no importará el tramo que presente la persona postulante conforme la calificación socioeconómica que dicho mecanismo determine.
 
 8. Autorízase la postulación de personas de 50 años o más, o que los cumplan en el presente año, que no acrediten núcleo familiar.
 
