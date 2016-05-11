@@ -176,11 +176,11 @@ Los cargos deberán ser precisos, determinados, circunstanciados y concretos, ba
 
 Si en el sumario se establecieren hechos en que, a juicio del fiscal instructor, se encontrare comprometida, además, la responsabilidad pecuniaria del inculpado, se dejará constancia de ello en el cargo.
 
-Los cargos requerirán la aprobación del Jefe de la Unidad de Sumarios de la Fiscalía o del Jefe de la Unidad Jurídica en las Contralorías Regionales.
+Inciso Eliminado.
 
 #### Artículo 27º
 
-El inculpado tendrá un plazo de diez días, contado desde la fecha de notificación de los cargos, para formular sus descargos y defensas, el que podrá ser prorrogado por el fiscal por otros cinco días.
+El inculpado tendrá un plazo de cinco días, contado desde la fecha de notificación de los cargos, para formular sus descargos y defensas, el que podrá ser prorrogado por el fiscal por otros cinco días.
 
 #### Artículo 28º
 
@@ -198,7 +198,7 @@ El fiscal instructor podrá disponer, hasta antes de la Vista Fiscal, la prácti
 
 #### Artículo 31º
 
-Terminado el período probatorio, el inculpado tendrá un plazo de tres días para realizar observaciones a la prueba rendida.
+Derogado
 
 #### Artículo 32º
 
@@ -214,9 +214,7 @@ La Vista Fiscal se elevará al Jefe de la Unidad de Sumarios de la Fiscalía o a
 
 #### Artículo 35º
 
-La Vista Fiscal aprobada será notificada a cada inculpado para que, si lo estima conveniente, formule sus observaciones por escrito para ante el Contralor General o Contralor Regional, en su caso, dentro del plazo de diez días, contado desde la respectiva notificación.
-
-Con todo, tratándose de procedimientos disciplinarios instruidos por las Contralorías Regionales, el Contralor Regional deberá elevar las observaciones referidas en el inciso anterior al Contralor General, a través de la Fiscalía, en caso que la propuesta de medida disciplinaria sea superior a la de multa.
+La Vista Fiscal aprobada por el Jefe de la Unidad de Sumarios o por el Jefe de la Unidad Jurídica, en su caso, se elevará al Contralor General o al Contralor Regional según corresponda.
 
 #### Artículo 36º
 
