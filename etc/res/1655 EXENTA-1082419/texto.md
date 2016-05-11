@@ -56,6 +56,14 @@ Excepcionalmente, el beneficiario podrá solicitar ejecutar el estudio con perso
 
 Esta situación de excepcionalidad será calificada y resuelta por la Gerencia de Desarrollo Competitivo de CORFO. En este caso, CORFO no podrá cofinanciar las horas hombre de personal de la propia empresa o con participación propietaria, remitiéndose sólo a cofinanciar gastos asociados a los estudios, tales como de pasajes, estadía, adquisición de información, entre otros, cuando califiquen a juicio de CORFO.
 
+Esta misma restricción se aplicará en el caso de empresas relacionadas con la beneficiaria, o con aquellas en que se presente algún conflicto de interés, entendiendo por tales situaciones, cuando el ejecutor del estudio, ya sea persona natural o jurídica, tenga algún porcentaje de participación en el capital de la empresa beneficiaria o representación o participación en sus órganos de decisión y viceversa.
+
+Excepcionalmente, el beneficiario podrá solicitar ejecutar el estudio con personal propio, lo cual sólo podrá autorizarse cuando se trate de la ejecución de estudios, que por su grado de complejidad y especialización, las capacidades requeridas para realizarlos no se encuentren disponibles fuera de la empresa.
+
+Esta situación de excepcionalidad será calificada y resuelta por la Gerencia de Desarrollo Competitivo de Corfo. En este caso, Corfo podrá cofinanciar las horas hombre de personal remitiéndose sólo a cofinanciar otros gastos asociados a los estudios, tales como gastos de pasajes, estadía, adquisición de información, entre otros, cuando califiquen a juicio de Corfo.
+
+Esta misma restricción se aplicará en el caso de empresas relacionadas con la beneficiaria, o con aquellas en que se presente algún conflicto de interés.
+
 ### 3. SUBSIDIO
 
 3.1 Objeto del Subsidio
@@ -310,8 +318,10 @@ La supervisión, coordinación y orientación del Programa será efectuada por l
 
 En conformidad con lo dispuesto en el literal D y E de la resolución (A) Nº 28, de 2013, de CORFO, que aprueba el Texto Refundido del Reglamento del Comité de Asignación de Fondos -CAF- y Comités de Asignación Zonal de Fondos -CAZ-, corresponderá al Gerente de Desarrollo Competitivo dictar los actos y resoluciones correspondientes y de suscribir y llevar a efecto los contratos que permitan formalizar los proyectos aprobados por el Comité.
 
-### 8. VIGENCIA DEL PROGRAMA
+### 8. Ejecución de los Acuerdos
 
-El Programa operará de manera indefinida.
+En conformidad con lo dispuesto en el literal D y E de la resolución (A) N°28, de 2013, de Corfo, que aprueba el Texto Refundido del Reglamento del Comité de Asignación de Fondos -CAF- y Comités de Asignación Zonal de Fondos -CAZ-, corresponderá al Gerente de Desarrollo Competitivo dictar los actos y resoluciones correspondientes y de suscribir y llevar a efecto los contratos que permitan formalizar los proyectos aprobados por el Comité.
+
+Corresponderá a la Gerencia de Desarrollo Competitivo, mediante sus Directores Subgerentes, según sea el caso, ejecutar los actos administrativos restantes para la eficiente y oportuna ejecución de los estudios.
 
 Anótese, comuníquese y publíquese.- Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
