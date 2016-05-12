@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO NACIONAL DE LA DISCAPACIDAD
+
+Por resolución exenta Nº 183, de 29 de abril de 2016, se aprueba el Convenio de Colaboración, suscrito con fecha de 18 de diciembre de 2015, entre este Instituto de Previsión Social y el Servicio Nacional de la Discapacidad, con la finalidad de incorporar en ambas entidades, la variable de inclusión social, destinada a asegurar la igualdad de oportunidades de las personas con discapacidad, a través de la promoción de acciones de información, participación y acceso en las políticas de recursos humanos que se implementen al efecto.
+
+Santiago, 4 de mayo de 2016.- Patricio Coronado Rojo, Director Nacional.- María Verónica Eckholt Williamson, Jefa Departamento Transparencia y Documentación.
