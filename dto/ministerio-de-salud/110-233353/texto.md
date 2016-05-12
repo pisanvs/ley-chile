@@ -32,7 +32,7 @@ De conformidad con los conceptos definidos precedentemente, se considerarán com
 
 Circunstancia Nº 1 Que el Ingreso Mensual del Hogar al que se pertenece, no exceda el Ingreso Mínimo Mensual y que, al dividir dicho Ingreso Mensual del Hogar por el número de personas que integran ese Hogar, el cuociente no exceda del 25% del Ingreso Mínimo Mensual.
 
-Circunstancia Nº 2 Que el referido cuociente, indicado en la Circunstancia precedente, si bien excede el 25% del Ingreso Mínimo Mensual, no supera el corte de puntaje de la Ficha de Caracterización Socioeconómica (Ficha CAS), determinado para estos efectos por el Ministerio de Planificación y Coordinación y el Fondo Nacional de Salud, con aprobación de los Ministerios de Salud y de Hacienda.
+Circunstancia Nº 2 Que el referido cuociente, indicado en la Circunstancia precedente, si bien excede el 25% del Ingreso Mínimo Mensual, el Hogar se encuentra ubicado en un determinado tramo de Calificación Socioeconómica al que hace referencia el decreto Nº 22, de 2015, del Ministerio de Desarrollo Social, el cual será determinado para estos efectos por este último y el Fondo Nacional de Salud, con aprobación de los Ministerios de Salud y de Hacienda.
 
 Circunstancia Nº 3 Excepcionalmente, se considerará que puede ser calificada como indigente o carente de recursos la persona que si bien aparece registrada como causante de asignación familiar de algún afiliado a la ley Nº 18.469, acredite fehacientemente que no vive a expensas de ese afiliado y que cumple con alguna de las Circunstancias enumeradas en los Nº 1 o 2 precedentes.
 
@@ -53,6 +53,10 @@ El Fondo Nacional de Salud con el objeto de establecer mecanismos de control nec
 #### Artículo 6º
 
 El presente decreto supremo comenzará a regir desde la fecha de su publicación en el Diario Oficial y a partir de ese momento quedará sin efecto toda otra norma reglamentaria, resolución o disposición que fuere contraria o inconciliable con las contenidas en este decreto supremo.
+
+#### Artículo primero
+
+transitorio.- En tanto no se determine el tramo de Calificación Socioeconómica al que hace referencia el decreto Nº 22, de 2015, del Ministerio de Desarrollo Social, seguirá vigente el corte de puntaje original.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Pedro García Aspillaga, Ministro de Salud.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
