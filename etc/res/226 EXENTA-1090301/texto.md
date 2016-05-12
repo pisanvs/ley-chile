@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N°226 EXENTA, DE 27 DE ABRIL DE 2016
+
+Resolución exenta N°226 de 27 de abril de 2016, de la Secretaría Regional Ministerial de la Región del Libertador General Bernardo O'Higgins, aprueba Contrato Ad-Referéndum de Concesión 1 para operar una Planta Revisora Clase AB en la comuna de Rancagua, una Planta Revisora Clase AB en la comuna Litueche, y una Planta Revisora Clase B en la comuna de Rancagua, en la Región del Libertador General Bernardo O'Higgins, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones del Libertador General Bernardo O' Higgins y el concesionario "Chilena de Revisiones Técnicas SpA", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Francisco Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VI Región del Libertador General Bernardo O' Higgins.
