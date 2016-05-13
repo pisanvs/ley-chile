@@ -36,13 +36,13 @@ d) Quema de zarzamoras u otra vegetación cuando se trate de construir y limpiar
 
 e) Quemas de especies vegetales consideradas perjudiciales, y
 
-f) Quemas en terrenos de aptitud preferentemente forestal y con el fin de habilitarlos para cultivos silvopecuarios o con fines de manejo silvícola, siempre que no se infrinja el Decreto Ley Nº 701, artículo 5º de la Ley de Bosques y demás disposiciones sobre protección pertinentes.
+f) Quemas en terrenos de aptitud preferentemente forestal y con el fin de habilitarlos para cultivos silvopecuarios o con fines de manejo silvícola, siempre que no se infrinja el Decreto Ley Nº 701, artículo 5º de la Ley de Bosques, la Ley N° 20.283, Sobre Recuperación del Bosque Nativo y Fomento Forestal y demás disposiciones sobre protección pertinentes.
 
 #### Artículo 4º
 
-En todo caso, el propietario o poseedor del predio deberá manifestar ante la Corporación Nacional Forestal, con la debida anticipación, su voluntad de usar el fuego en forma de Quema Controlada.
+En todo caso, el propietario o poseedor del predio deberá manifestar ante la Corporación Nacional Forestal, a lo menos con un día de anticipación, su voluntad de usar el fuego en forma de Quema Controlada.
 
-Para tal fin, tanto en la Oficina Regional, Provincial o de Area de la Corporación más cercana a la ubicación del predio, como así también en otros lugares que ésta determine, los interesados podrán retirar y entregar el correspondiente formulario del Aviso de Quema.
+Para tal fin, los interesados deberán avisar de su intención de realizar una quema controlada, recurriendo a la Oficina Regional, Provincial o de Área de la Corporación más cercana a la ubicación del predio, como en las Municipalidades que ésta determine o a través del Sistema de Asistencia de Quemas que la Corporación habilite para tales fines en su página web.
 
 #### Artículo 5º
 
@@ -78,17 +78,17 @@ El empleo del fuego, en conformidad a este decreto, no exime al usuario de su ob
 
 La fiscalización del cumplimiento de este decreto corresponderá a la Corporación Nacional Forestal, al Servicio Agrícola y Ganadero y a Carabineros de Chile, sin perjuicio de la acción pública que conceda la Ley de Bosques.
 
-#### Artículo 12º
+#### Artículo 12°
 
-En la Región de Atacama las facultades que se le otorgan a la Corporación Nacional Forestal por el presente Reglamento, serán ejercidas por Carabineros de Chile.
+En las regiones de Arica y Parinacota, Tarapacá, Antofagasta y Atacama, las atribuciones que otorga el presente reglamento a la Corporación Nacional Forestal también podrán ser ejercidas por Carabineros de Chile.
 
 #### Artículo 13º
 
 Conocerá de las infracciones a las normas del presente Reglamento, el Juez de Letras en lo Criminal que corresponda.
 
-#### Artículo 14º
+#### Artículo 14°
 
-El presente Reglamento no será aplicable en las Regiones de Tarapacá y Antofagasta.
+El presente Reglamento será aplicable en todo el territorio nacional.
 
 #### Artículo 15º
 
