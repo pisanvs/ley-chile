@@ -2132,6 +2132,8 @@ El Salitre
 
 Lusitania
 
+15 Casa Losada Av. Libertad 702 138-1
+
 #### Artículo 15
 
 ANTENAS. Para la instalación de antenas se deberá dar cumplimiento a:
@@ -2184,7 +2186,7 @@ V6 N S6 Villanelo
 
 V6-a M S7 Uno Oriente
 
-V6-b Restricción S8 Vial Central
+Restricción S8 Vial Central
 
 Esteros Oriente.
 
@@ -2206,7 +2208,7 @@ E1 S12 A.E.U.B-14d
 
 Universidad
 
-E2 Viña del Mar
+Viña del Mar
 
 E3
 
@@ -3236,157 +3238,7 @@ Estacionamiento Vehicular de la presente
 
 Ordenanza.
 
-Zona V6 - b.
-
-1. Usos del suelo:
-
-1.1. Usos permitidos.
-
-1.1.1. Residencial:
-
-Vivienda.
-
-Hoteles, Hosterías.
-
-1.1.2. Equipamiento:
-
-Comercio: Restaurante, Local Comercial.
-
-Culto; Cultura: Museo, Biblioteca, Sala de
-
-Concierto, Teatro, Casa de la Cultura, Cine.
-
-Deporte: Cancha, Piscina, Centro deportivo
-
-y Gimnasio;
-
-Educación;
-
-Salud: clínica, posta, dispensario y
-
-consultorio;
-
-Seguridad;
-
-Servicios: Oficinas de profesionales, Correo,
-
-Telégrafo y servicios de utilidad pública.
-
-Servicios artesanales inofensivos.
-
-Social;
-
-1.1.3. Espacio Público;
-
-1.1.4. Area Verde: Parques Plazas Jardines y Juegos
-
-Infantiles.
-
-1.1.5. En el área comprendida entre las calles 12
-
-Norte,-14 Norte, y 1 Oriente-límite Oriente
-
-de Zona V6-B, se autorizará Centro Comercial,
-
-Grandes Supermercados, y Grandes Multitiendas.
-
-Para ello las condiciones de edificación y
-
-subdivisión predial aplicables a estos
-
-destinos serán los definidos para la Zona E5.
-
-1.2. Usos prohibidos: Todos los no consignados en
-
-los numerales anteriores.
-
-2. Condiciones de subdivisión y edificación:
-
-2.1. Superficie predial mínima: 500 m2.
-
-2.2. Frente predial mínimo: 16 m.
-
-2.3. Coeficiente máximo de ocupación del suelo:
-
-a) Para edificaciones de hasta 9 metros de
-
-altura: 0,50.
-
-b) Para edificaciones de más de 9 metros de
-
-altura: 0,30.
-
-2.4. Coeficiente máximo de constructibilidad:
-
-Se determinará de acuerdo a la Tabla Nº1
-
-incluida en el Artículo 6 de la presente
-
-Ordenanza
-
-2.5. Tipo de agrupamiento: Aislado y Pareado. La
-
-edificación pareada no podrá sobrepasar el
-
-30% de la longitud del deslinde común.
-
-2.6. Altura máxima: se determinará de acuerdo a las
-
-rasantes establecidas en la Ordenanza de la
-
-Ley General de Urbanismo y Construcciones.
-
-2.7. Distanciamientos y rasantes: se deberá aplicar
-
-lo establecido en la Ordenanza de la Ley
-
-General de Urbanismo y Construcciones.
-
-2.8. Antejardín de Tipo A con los siguientes anchos
-
-mínimos:
-
-- Para edificaciones de hasta 9 metros de
-
-altura: 3 m
-
-- Para edificaciones de más de 9 metros de
-
-altura: 6 m
-
-La aplicación de esta condición deberá impedir
-
-que edificaciones o parte de ellas con una
-
-altura menor a 9 metros se construyan a menos
-
-de 3 metros de distancia de la línea oficial
-
-de la propiedad y edificaciones o parte de
-
-ellas con una altura mayor a 9 metros se
-
-construyan a menos de 6 metros de dicha línea
-
-oficial.
-
-2.9. Densidad neta máxima: se determinará de
-
-acuerdo a la Tabla Nº1 incluida en el
-
-#### Artículo 6
-
-de la presente Ordenanza,
-
-dependiendo de la superficie predial.
-
-2.10. Estacionamientos: Según se establece en
-
-Capítulo V y Tabla Dotaciones Mínimas de
-
-Estacionamiento Vehicular de la presente
-
-Ordenanza.
+Zona V6 - b. Eliminado.
 
 Zona V 7.
 
@@ -3898,205 +3750,7 @@ Estacionamiento Vehicular de la presente
 
 Ordenanza.
 
-Zona E2.
-
-1. Usos del suelo:
-
-1.1. Usos permitidos.
-
-1.1.1. Residencial:
-
-Vivienda.
-
-Hoteles, Moteles, Residenciales, Hospederías,
-
-Hosterías.
-
-1.1.2. Equipamiento:
-
-Comercio;
-
-Nota: Las Estaciones de Servicio Automotor,
-
-sólo se permitirán las existentes legalmente
-
-autorizadas.
-
-Culto; Cultura: Museo, Biblioteca, Sala de
-
-Concierto, Teatro, Auditorio, Casa de la
-
-Cultura, Cine.
-
-Deporte: Centro Deportivo, cancha, piscina
-
-y gimnasio;
-
-Educación;
-
-Esparcimiento: Casino;
-
-Salud: clínica, posta, dispensario,
-
-consultorio;
-
-Seguridad;
-
-Servicios: Servicios Públicos, Servicios
-
-Profesionales; Servicios artesanales
-
-inofensivos;
-
-Social;
-
-1.1.3. Actividades Productivas "inofensivas":
-
-Talleres.
-
-1.1.5. Espacio Público;
-
-1.1.6. Area Verde: Parques, Plazas, Jardines y Juegos
-
-Infantiles.
-
-1.2. Usos prohibidos: Todos los no consignados en
-
-los numerales anteriores.
-
-2. Condiciones de subdivisión y edificación:
-
-2.1. Superficie predial mínima: 500 m2
-
-2.2. Frente predial mínimo: 20 m.
-
-2.3. Coeficiente máximo de ocupación del suelo:
-
-0.50
-
-2.4. Coeficiente máximo de constructibilidad:
-
-se determinará de acuerdo a la Tabla Nº1
-
-incluida en el Artículo 6 de la presente
-
-Ordenanza.
-
-2.5. Tipo de agrupamiento: a) Continuo: hasta 10.50
-
-metros y sobre dicha altura, sólo se permitirá
-
-edificación aislada. b) Aislado.
-
-2.6. Altura máxima:
-
-a) Para edificación continua 10.50 metros.
-
-b) Para edificación aislada se determinará
-
-de acuerdo a las rasantes establecidas en la
-
-Ordenanza de la Ley General de Urbanismo y
-
-Construcciones incluyendo la edificación sobre
-
-la edificación continua.
-
-2.7. Distanciamientos y rasantes: para edificación
-
-aislada y continua se aplicará lo establecido
-
-en la Ordenanza General de Urbanismo y
-
-Construcciones, incluyendo edificación aislada
-
-sobre edificación continua, donde las rasantes
-
-y distanciamientos se aplicarán a partir de
-
-los 10.50 m.
-
-2.8. Antejardín: de Tipo A o B con un ancho mínimo
-
-de 6 metros.
-
-2.9. Cuerpos Salientes.
-
-En la edificación aislada, sobre la
-
-edificación continua, sólo se permitirán
-
-cuerpos salientes, destinados a balcones,
-
-terrazas, jardineras u otros elementos
-
-ornamentales análogos, cuya área de fachada,
-
-no podrá exceder, más de un 50% de la
-
-superficie de la fachada. Dichos cuerpos
-
-salientes podrán sobresalir hasta 1,3 m como
-
-máximo a partir de la línea de edificación y
-
-a una altura no inferior a 14,00 m medidos
-
-desde el nivel del piso de la acera.
-
-2.10. Densidad neta máxima: se determinará de
-
-acuerdo a la Tabla Nº1, incluida en el
-
-#### Artículo 6
-
-de la presente Ordenanza,
-
-dependiendo de la superficie predial.
-
-2.11. Estacionamientos: Según se establece en
-
-Capítulo V y Tabla Dotaciones Mínimas de
-
-Estacionamiento Vehicular de la presente
-
-Ordenanza.
-
-2.12. Para Estaciones de Servicio Automotor, locales
-
-de exhibición y venta de vehículos livianos,
-
-así como las obras de ampliación y/o
-
-reconstrucción de locales preexistentes
-
-requerirán para su aprobación de un standard
-
-de calidad mínima, para ello constructivamente
-
-deberán ser clasificadas en la tabla de
-
-valores unitarios de construcción MINVU-S.I.I.
-
-en la clasificación A,B,C, y/o D, en las
-
-categorías (1) Superior (2) Buena.
-
-Para Estaciones de Servicio Automotor y
-
-Centros de Mantención y Reparación Automotor,
-
-les será aplicable lo señalado en el Capítulo
-
-VII de la presente Ordenanza.
-
-Para locales con destino exhibición de
-
-vehículos livianos, deberá dar cumplimiento a
-
-lo establecido en el Artículo 33 del Capítulo
-
-VI de la presente Ordenanza.
+Zona E2. Eliminado.
 
 Zona E3.
 
@@ -6044,7 +5698,7 @@ Vías locales proyectadas. Las condiciones y estándar de diseño, para las vía
 
 b) Vías Existentes.
 
-Todas las vías públicas existentes de la comuna con tránsito vehicular, que tengan un ancho entre líneas oficiales de menos de 12 metros y hasta 8 metros o aquellas cuya calzada no sea inferior a 6 metros, serán clasificadas como vías locales.
+Todas las vías públicas existentes de la comuna con tránsito vehicular, que tengan un ancho entre líneas oficiales de menos de 12 metros y hasta 8 metros, cuya calzada no sea inferior a 6 metros, serán clasificadas como vías locales.
 
 c) Vialidad Estructurante.
 
@@ -7115,6 +6769,22 @@ ofrezca la menor tarifa por la prestación de los
 servicios sanitarios.
 
 VER DIARIO OFICIAL DE 13.12.2003, PAGINAS 36 - 37
+
+> **Nota.** El Decreto 10928, Municipalidad de Viña Del Mar, publicado el 17.09.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses el otorgamiento permisos de edificación, urbanización, loteo y subdivisión en el sector de la Cuenca Sur del Estero de Reñaca, en el perímetro comprendido entre el Estero de Reñaca por el norte; Avda. Gómez Carreño y Avda. Alejandro Navarrete por el sur y sur poniente; Jardín del Mar por el poniente; y Glorias Navales y Expresos Viña por el oriente, según polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-1, graficado en "Plano Área Estudio - Cuenca Estero de Reñaca Sector Sur.
+
+> **Nota.** NOTA 1 El I y II del numeral 2° Decreto 14520, Municipalidad de Viña Del Mar, publicado el 27.11.2015, modifica la presente norma en el sentido de agrega modificaciones al artículo 14 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 El III del numeral 2° Decreto 14520, Municipalidad de Viña Del Mar, publicado el 27.11.2015, modifica la presente norma en el sentido de agrega modificaciones al artículo 17 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 3 El I, numeral 1° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar, a continuación del Anexo 7 memoria explicativa de la Modificación al Plan Regulador Comunal, "Actualización Zona V11-A del fundo naval Las Salinas", el Anexo 8 correspondiente a la memoria explicativa de la modificación al Plan regulador Comunal "Sector Población Vergara".
+
+> **Nota.** NOTA 4 El I, numeral 2° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar el capítulo XI y los artículos 49° y 50°, en los términos que la citada norma indica, los que sin embargo, no son posibles de incorporar debido a que no coincide la numeración en el texto.
+
+> **Nota.** NOTA 5 El I, numeral 4° I, y numeral 5° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifican la presente norma en el sentido de agregar al listado de Inmuebles de Conservación Histórica, detallado en el artículo 14.7, cuatro nuevas zonas numerales: 14.7.6, 14.7.7, 14.7.8, 14.7.9 y 14.7.10., como asimismo, agregando un nuevo numeral 14.9, respectivamnete, en los términos que dicha norma señala, los cuales sin embargo, no son incorporadas al presente texto por cuanto el último numeral del referido artículo es el 14.5.
+
+> **Nota.** NOTA 6 El I, numeral 8° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar al Artículo 16 "Zonas y Áreas" a la columna "Zonas Urbanas", las zonas V8, V9, E6-c, E6-c1, E7-c, E7-c1 y E8-1; la Zona de Conservación Histórica N° 5 Palacio Carrasco, la Zona de Conservación Histórica N° 6 Palacio Rioja, la Zona de Conservación Histórica N° 7 Palacio Astoreca y la Zona de Conservación Histórica N° 8 Iglesia Carmelitas.
+
+> **Nota.** NOTA 7 El I, numeral 9° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar, en su artículo 17 en "Normas de usos de suelo, condiciones de subdivisión y edificación", las siguientes zonas, según se detalla en la referida norma: Zona V8, Zona V9, Zona E6-c, Zona E6-c1, Zona E7-c, Zona E7-c1 y Zona E8-1.
 
 II.- Anótese, comuníquese y publíquese estos documentos en el Diario Oficial, para finalizar el trámite legal y archívese.- Jorge Kaplan Meyer, Alcalde.- José Mora Carrasco, Secretario Municipal (S).
 
