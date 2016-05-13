@@ -3156,7 +3156,7 @@ Predial Mínima 4.000 m2 4.000 m2
 
 Frente predial mínimo 30 mts 30 mts
 
-Antejardín mínimo 15 mts 15 mts
+Antejardín mínimo 5 mts 5 mts
 
 Coeficiente de
 
@@ -3248,7 +3248,7 @@ Predial Mínima 4.000 m²
 
 Frente Predial mínimo 30 mts
 
-Antejardín mínimo 15 mts
+Antejardín mínimo 5 mts
 
 Coeficiente de ocupación
 
@@ -3450,7 +3450,7 @@ Predial Mínima 4.000 m2
 
 Frente predial mínimo 30 mts
 
-Antejardín mínimo 15 mts
+Antejardín mínimo 5 mts
 
 Coeficiente de ocupación
 
@@ -3909,3 +3909,7 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 > **Nota.** NOTA 12 La letra a) del artículo 2° del Decreto 6789, Municipalidad de Lo Barnechea, publicado el 22.12.2013, modifica la presente norma en el sentido de incorporar el plano MPRC-LB-17, que precisa el límite de aplicación de la Zona J "La Dehesa" y modificar la lámina 7 del Plano PRC-LB-1 "Zonificación" del Plan Regulador Comunal de Lo Barnechea.
 
 > **Nota.** NOTA 13 La letra a) del artículo único del Decreto 5655, Municipalidad de Lo Barnechea, publicado el 01.10.2015, modifica la presente norma en el sentido de reemplazar las filas del artículo 20, indicadas en la citada norma.
+
+> **Nota.** NOTA 14 La letra a) del artículo único del Decreto 5794, Municipalidad de Lo Barnechea, publicado el 03.10.2015, modifica el polígono de la última fila, descrito en el cuadro bajo el título "Equipamiento de Educación" para el establecimiento Nº VIII, en el sentido que, donde dice "36-37-38-39-40-41-42-43-44-45-46-39" debe decir "36-37-38-39-40-41-42-43-36".
+
+> **Nota.** NOTA 15 La letra a) del Artículo Único del Decreto 1614, Municipalidad de Lo Barnechea, publicado el 13.05.2016, modifica el cuadro inserto en el articulo 11 del presente anexo de la manera que el citado Decreto indica.
