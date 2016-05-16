@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.881, de fecha 21 de abril de 2016, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 22, correspondiente al inmueble ubicado en Avda. Independencia 699, Rol de Avalúo N° 648-79, de la comuna de Independencia, Región Metropolitana, de aparente dominio de Empresa de Transporte de Pasajeros, con una superficie aproximada de 71,83 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación Corredor de Transporte Público Independencia", también conocido como "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Carmen Gloria Gatica Villarroel, Arquitecto; Dionisio Rodríguez Astudillo, Constructor Civil y Juan Andrés Tepper Lavanderos, Ingeniero Civil, mediante Informe de fecha 30 de diciembre de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $40.287.364, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.
+
+Director Serviu Metropolitano.
