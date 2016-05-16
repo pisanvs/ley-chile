@@ -90,6 +90,8 @@ Organismos Sectoriales que participan en la implementación de los planes de pre
 
 . Superintendencia de Electricidad y Combustibles.
 
+. Servicio Nacional de Geología y Minería.
+
 Los organismos públicos que tienen asignada una o más medidas en planes de prevención y/o descontaminación, para lo cual actúan de acuerdo al ejercicio de atribuciones legales propias, y que informarán a la Superintendencia su estado de avance para efectos de su función de verificación, son los siguientes:
 
 . Dirección de Obras Municipales.
@@ -120,6 +122,8 @@ Los organismos públicos que tienen asignada una o más medidas en planes de pre
 
 Actividades de Fiscalización Ambiental comprendidas en el programa y subprogramas de Planes de Prevención y/o Descontaminación Ambiental. Durante el año 2016, se ejecutarán las siguientes actividades de fiscalización ambiental respecto de aquellas medidas asociadas al control de emisiones de fuentes fijas y comercialización de leña, según sea el caso, en las regiones del país en las cuales se encuentra vigente un Plan de Prevención y/o Descontaminación.
 
+> **Nota.** La letra b) de la Resolución 404 Exenta, Medio Ambiente, publicada el 16.05.2016 modifica la tabla inserta en el presente artículo, en el sentido de incorporar en la columna Región/ Decreto Supremo, a continuación de la fila referida al Plan de Descontaminación para la zona circundante, a la fundición de Potrerillos de la División Salvador de Codelco Chile, la siguiente fila: "N° 59 de 2014, del Ministerio de Medio Ambiente. Establece Plan de Descontaminación Atmosférica para la Localidad de Andacollo y Sectores Aledaños", y en la columna Actividades de Fiscalización Ambiental, agregar en la misma fila "10"
+
 #### Artículo quinto
 
 Indicador de Desempeño. Para efectos de lo establecido en el artículo 17 de la Ley Orgánica de la Superintendencia del Medio Ambiente, se considerará como indicador de desempeño el porcentaje de cumplimiento, que se expresa como la razón entre las actividades de fiscalización ambiental ejecutadas y las actividades de fiscalización ambiental consideradas en el programa y subprogramas de Fiscalización Ambiental respectivo del año 2016, fijándose como meta el 90% de las actividades de fiscalización.
@@ -144,6 +148,10 @@ Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontamin
 
 Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontaminación de la Superintendencia de Electricidad y Combustibles. Durante el año 2016, la Superintendencia de Electricidad y Combustibles ejecutará las siguientes actividades de fiscalización, sobre la base de la asignación presupuestaria indicada.
 
+#### Artículo décimo
+
+bis. Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontaminación del Servicio Nacional de Geología y Minería. Durante el año 2016, el Servicio Nacional de Geología y Minería ejecutará las siguientes actividades de fiscalización, sobre la base de la asignación presupuestaria indicada.
+
 Artículo undécimo. Período de Gestión de Episodios Críticos. De conformidad a lo establecido en la letra g) del artículo 16 de la Ley Orgánica de la Superintendencia del Medio Ambiente, respecto de los Planes de Prevención y/o Descontaminación que contengan normas sobre gestión de episodios críticos, la Superintendencia podrá establecer otros programas y subprogramas de fiscalización ambiental.
 
 Artículo duodécimo. Actividades no programadas. Las denuncias que admita a trámite la Superintendencia del Medio Ambiente de conformidad a la ley, las autodenuncias formuladas por los sujetos fiscalizados y los programas de cumplimiento aprobados por la Superintendencia, podrán dar origen a actividades de fiscalización en los términos establecidos en el artículo 19 de la Ley Orgánica de la Superintendencia del Medio Ambiente.
@@ -159,6 +167,8 @@ tercero. Estado de avance de planes urbanos. La Superintendencia, en ejercicio d
 . Decreto Nº 15 de 2013, del Ministerio del Medio Ambiente. Establece Plan de Descontaminación Atmosférica para el valle central de la Región del Libertador General Bernardo O'Higgins.
 
 . Decreto Nº 8 de 2015, del Ministerio del Medio Ambiente. Establece el Plan de Descontaminación Atmosférica por MP 2,5, para las comunas de Temuco y Padres Las Casas y de actualización del Plan de Descontaminación por MP10, para las mismas comunas.
+
+. Decreto N° 59 de 2014, del Ministerio de Medio Ambiente. Plan de Descontaminación Atmosférica para la Localidad de Andacollo y Sectores Aledaños.
 
 Para ello, los organismos públicos que participan en la implementación de medidas de cada plan por medio del ejercicio de atribuciones legales propias, registrarán e informarán periodicamente a la Superintendencia sobre el estado de avance, como asimismo, cualquier dificultad detectada en ello.
 
