@@ -1,0 +1,5 @@
+MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.899, A LOS ARTÍCULOS 17, 60, 60 BIS, 60 TER, 60 QUÁTER, 60 QUINQUIES Y 69 DEL CÓDIGO TRIBUTARIO
+
+Extracto de circular del Servicio de Impuestos Internos N° 30 del 10 de mayo de 2016, que instruye sobre las modificaciones introducidas por la ley N° 20.899, a los artículos 17, 60, 60 bis, 60 ter, 60 quáter, 60 quinquies y 69 del Código Tributario, en materia de reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos, y su examen por parte del Servicio de Impuestos Internos; utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades; actividades de muestreo o punto fijo; trazabilidad fiscal; y término de giro. Modifica las circulares Nos 47, 50, 54, 57 y 59, todas de 2015. Complementa la circular N° 58, de 2015.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2016.
