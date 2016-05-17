@@ -1,0 +1,5 @@
+DEJA SIN EFECTO CALIDAD DE AGENTE RETENEDOR IVA
+
+La VIII Dirección Regional Concepción del SII, por resolución Ex. Nº 77316057275 de fecha 25 de abril de 2016, deja sin efecto a Arrocera Santa Marta Limitada, RUT Nº 78.120.800-0, a partir del día siguiente a la publicación de esta resolución, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de Harina, Arroz, Trigo y Productos Silvestres, de acuerdo a la facultad establecida en el dispositivo Nº 17 de la resolución Ex. Nº 5.282 del 30/11/2000, dispositivo Nº 16 de la resolución Ex. Nº 1.341 del 22/02/2000, dispositivo Nº 19 de la resolución Ex. Nº 192 del 24/12/2010 y el dispositivo Nº 14 de la resolución Ex. Nº 4.095 del 25/08/2000, todas ellas de la Dirección Nacional del SII.
+
+Concepción, 5 de mayo de 2016.- Jorge Lara Arriagada, Director Regional.
