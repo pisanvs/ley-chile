@@ -24,8 +24,6 @@ El área protegida tiene una superficie aproximada de 271,17 mts.2 según se del
 
 ..
 
-> **Nota.** El Decreto 25, Culturas, artes y patrimonio, publicado el 07.10.2021, modifica el presente decreto en el sentido de reemplazar su nombre por "Londres 38. Espacio de Memorias. Ex centro clandestino de detención, tortura, ejecución y desaparición forzada"; de reconocer los valores patrimoniales, significados de memoria y derechos humanos, y atributos patrimoniales, establecidos en las actas de las sesiones extraordinarias del Consejo de Monumentos Nacionales de fecha 17 de marzo y 16 de junio, ambas del año 2021; y de delimitar el Monumento Histórico, según lo establecido en el plano de límites oficial Nº 006-2021.
-
 Anótese y publíquese.- Por orden del Presidente de la República, Sergio Bitar Chacra, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Pedro Montt Leiva, Subsecretario de Educación.
