@@ -1,0 +1,5 @@
+DECLARA FORMALMENTE ABIERTO E PROCESO DE OTORGAMIENTO DE PERMISO DE OPERACIÓN PARA UN CASINO DE JUEGO EN LA COMUNA DE PUERTO VARAS
+
+Por resolución exenta N° 193 de 2016, Superintendencia de Casinos de Juego declara formalmente abierto el proceso de otorgamiento de un permiso de operación para un casino ubicado en la comuna de Puerto Varas. Bases técnicas podrán ser descargadas del sitio www.scj.gob.cl/otorgamiento o retiradas en las dependencias ubicadas en calle Morandé N° 360, piso 11, comuna de Santiago. Descarga de bases podrá efectuarse desde el 13.05.2016 hasta el 3.11.2016; en tanto, el retiro de bases podrá igualmente ser realizado desde el 16.05.2016 hasta el 3.11.2016. Se fija como fecha de entrega de las ofertas técnicas y económicas el 4.11.2016 a las 11:00, en el Hotel Gran Palace, calle Huérfanos N° 1178, comuna de Santiago.
+
+Santiago, 12 de mayo de 2016.- Daniel García Fernández, Superintendente de Casinos de Juego (TyP).
