@@ -8,7 +8,7 @@ Amplíase, con los siguientes profesionales, la lista de peritos para la VIII Re
 
 Arquitectos:
 
-Joaquín Enrique Ramón Mendoza Larral Andrés Rainer Schulz Villanueva Fernando José Senerman Mandel Marcela Cecilia Cobarrubias Bravo Claudio Andrés Correa Barahona Patricia Alejandra Bunster Fuenzalida Jimena Francisca Asenjo Burgos Victoria Adriana Bravo Costa Paulina Lorena Jadue Zaror
+Joaquín Enrique Ramón Mendoza Larral Andrés Rainer Schulz Villanueva Fernando José Senerman Mandel Marcela Cecilia Cobarrubias Bravo Claudio Andrés Correa Barahona Patricia Alejandra Bunster Fuenzalida Jimena Francisca Asenjo Burgos Victoria Adriana Blanco Costa Paulina Lorena Jadue Zaror
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.
 
