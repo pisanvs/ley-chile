@@ -374,7 +374,7 @@ c) Identificación de las partes requirentes: empleador y trabajador (o sindicat
 
 d) Fundamentos de la regularización.
 
-La regularización podrá efectuarse dentro de los 5 años siguientes a la respectiva calificación. En caso contrario, se deberá presentar un nuevo requerimiento de calificación.
+Inciso Derogado.
 
 3º. La presente resolución entrará en vigencia a contar de su publicación en el Diario Oficial.
 
