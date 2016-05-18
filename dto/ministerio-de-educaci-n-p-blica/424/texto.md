@@ -12,6 +12,8 @@ Visto: Lo dispuesto en la Ley N° 17.288; acuerdo de sesión de 2 de Octubre de 
 
 Declárase Monumento Histórico la construcción de calle Moneda N° 650 de Santiago que cierra el gran cuadrilátero de la Biblioteca Nacional.
 
+El área protegida por el presente decreto se encuentra incorporada al polígono a que alude el inciso segundo del artículo único del decreto supremo N° 1.290, de 1976, del Ministerio de Educación Pública.
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Raúl Allard Neumann, Subsecretario de Educación.

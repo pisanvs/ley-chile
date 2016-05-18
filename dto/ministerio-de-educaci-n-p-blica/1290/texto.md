@@ -22,6 +22,36 @@ e) El Correo Central, ubicado en la Plaza de Armas esquina de calle Puente.
 
 f) La Municipalidad de Santiago, ubicado en la Plaza de Armas esquina de calle 21 de Mayo.
 
+El área protegida para el Edificio de la Biblioteca Nacional, que comprende lo dispuesto en la letra a) del presente decreto y las construcciones y sectores a que se refieren respectivamente los artículos únicos, de los decretos supremos N° 424, de 1991 y N° 620, de 1996, ambos del Ministerio de Educación Pública, tiene una superficie aproximada de 9.616,05 mts.2, según se delimita por el polígono A-B-C-D-E-F-G-H-A del plano adjunto que forma parte del presente decreto.
+
+TRAMO DESCRIPCIÓN
+
+A - B Límite Sur, solera norte de Av. Libertador Bernardo O'Higgins.
+
+B - C Límite Poniente, solera oriente de calle Enrique Mac-Iver.
+
+C - D Límite Norte, solera sur de calle Moneda.
+
+D - E Límite Oriente, desde línea de solera hasta deslinde oriente
+
+con predio del Monumento Histórico Edificio del Archivo Nacional.
+
+E - F Límite Sur, deslinde sur con predio del Monumento Histórico
+
+Edificio del Archivo Nacional.
+
+F - G Límite Oriente, deslinde oriente con predio del Monumento
+
+Histórico Edificio del Archivo Nacional.
+
+G - H Límite Norte, deslinde con predio del Monumento Histórico
+
+Edificio del Archivo Nacional.
+
+H - A Límite Oriente, deslinde oriente con predio del Monumento
+
+Histórico Archivo Nacional hasta encuentro con línea de solera.
+
 Tómese razón, comuníquese y publíquese. - AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Luis Niemann Núñez, Contralmirante, Ministro de Educación Pública.
 
 Lo que transcribo a usted para su conocimiento.-Saluda atentamente a usted.- Alfredo Prieto Bafalluy, Subsecretario de Educación Pública.

@@ -18,6 +18,8 @@ D e c r e t o:
 
 Amplíase la declaración de Monumento Histórico de la Biblioteca Nacional a los sectores indicados I, II y III del plano que se adjunta y que forma parte del presente decreto, sectores que actualmente ocupan los jardines de dicho edificio.
 
+El área protegida por el presente decreto se encuentra incorporada al polígono a que alude el inciso segundo del artículo único del decreto supremo N° 1.290, de 1976, del Ministerio de Educación Pública.
+
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, José Pablo Arellano Marín, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Jaime Pérez de Arce Araya, Subsecretario de Educación.
