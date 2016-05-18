@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN Nº 107, DE 19 DE ABRIL DE 2016
+
+Por decreto de Educación Nº 107, de fecha 19 de abril de 2016, y de conformidad con lo dispuesto en el DL Nº 3.166, de 1980, y su Reglamento fijado por DS Nº 5.077, del mismo año, ley Nº 20.845 y DFL Nº 2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 27 de enero de 2016 entre el Ministerio de Educación y la Corporación Educacional Instituto del Mar, con el objeto de aprobar e incorporar al respectivo convenio de administración, un Anexo denominado "Aporte Por Gratuidad de la Ley Nº 20.845" que permita que el establecimiento educacional regido por el decreto ley Nº 3.166, de 1980, que administra esa entidad, sea beneficiado con dicho aporte.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
