@@ -12,7 +12,7 @@ R e s u e l v o:
 
 1º Autorízase en la Región de Aysén, inscribir minibuses en el Registro Nacional de Servicios de Transporte de Pasajeros para prestar los servicios rurales o interurbanos y viceversa, señalados a continuación:
 
-Puerto Aysén-Villa Mañiguales; Puerto Aysén-Puerto Cisnes; Puerto Aysén-La Junta; Chile Chico-Sector Chacras; Chile Chico-Cochrane; Chile Chico-Puerto Murta; Cochrane-Villa O'Higgins; Cochrane-San Lorenzo; Cochrane-Puerto Río Tranquilo; Coyhaique-El Gato; Coyhaique-Puerto Ingeniero Ibáñez; Coyhaique-Villa Mañiguales; Coyhaique-Villa Cerro Castillo; Coyhaique- Lago La Paloma; Coyhaique-Valle Simpson; Coyhaique-Seis Lagunas; Coy-haique-Lago Pollux; Coyhaique-Lago Caro; Coyhaique-Balmaceda; Coyhaique-Lago Verde; Coyhaique-La Tapera; Coyhaique-Puerto Cisnes; La Junta-Puerto Cisnes y Melinka-Repollal.
+Puerto Aysén-Villa Mañiguales; Puerto Aysén-Puerto Cisnes; Puerto Aysén-La Junta; Chile Chico-Sector Chacras; Chile Chico-Cochrane; Chile Chico-Puerto Murta; Cochrane-Villa O'Higgins; Cochrane-San Lorenzo; Cochrane-Puerto Río Tranquilo; Coyhaique-El Gato; Coyhaique-Puerto Ingeniero Ibáñez; Coyhaique-Villa Mañiguales; Coyhaique-Villa Cerro Castillo; Coyhaique- Lago La Paloma; Coyhaique-Valle Simpson; Coyhaique-Seis Lagunas; Coy-haique-Lago Pollux; Coyhaique-Lago Caro; Coyhaique-Balmaceda; Coyhaique-Lago Verde; Coyhaique-La Tapera; La Junta-Puerto Cisnes y Melinka-Repollal.
 
 2º Deróganse las resoluciones exentas Nº(s) 17/2000 y 26/2000, citadas en Visto.
 
@@ -31,5 +31,7 @@ Puerto Aysén-Villa Mañiguales; Puerto Aysén-Puerto Cisnes; Puerto Aysén-La J
 > **Nota.** NOTA 6 La Resolución 363 Exenta, Transportes, publicada el 14.11.2011, modifica la presente norma, en el sentido de incorporar, para la prestación de servicios rurales e interurbanos con minibuses, los siguientes tramos: Chile Chico - Fachinal; Ibáñez - El Claro; Puerto Aguirre - Caleta Andrade; Coyhaique - Villa Frei; Villa O'Higgins - Bahía Bahamóndez.
 
 > **Nota.** NOTA 7 La Resolución 87 Exenta, Transportes, publicada el 19.03.2015, modifica la presente norma, en el sentido de incorporar para la prestación de servicios rurales e interurbanos con minibuses, el siguiente tramo:Caleta Tortel - Villa O'Higgins.
+
+> **Nota.** NOTA 8 El numeral 1.2 de la Resolución 148 Exenta, Transportes, publicada el 19.05.2016. modifica la presente norma en el sentido de incorporar los siguientes servicios: Cochrane-El Maitén; Cochrane-Colonia Norte; Coyhaique-Lago Verde; Coyhaique-Alto Mañihuales; Coyhaique-Raúl Marín Balmaceda; Chile Chico-Fachinal.
 
 Anótese y publíquese, Alejandro Bórquez Riquelme.- Secretario Regional Ministerial Transportes y Telecomunicaciones Region de Aysén.
