@@ -72,7 +72,7 @@ Si en el ejercicio de sus funciones, los miembros del Consejo accedieran a infor
 
 Desígnanse como integrantes del Consejo Fiscal Asesor a las siguientes personas por el plazo que se indica:
 
-1.- Sr. Eduardo Engel Goetz, RUT Nº 5.392.519-7, por cuatro años.
+1.- Señor José Alfonso Yáñez Henríquez, RUT 5.365.117-8, hasta el 31 de mayo de 2018.
 
 2.- Sra. Andrea Repetto Lisboa, RUT Nº 8.795.355-6, por cuatro años.
 
@@ -82,7 +82,7 @@ Desígnanse como integrantes del Consejo Fiscal Asesor a las siguientes personas
 
 5.- Sr. Gonzalo Sanhueza Dueñas, RUT Nº 8.813.539-3, por cuatro años.
 
-Asimismo, desígnase como Presidente y Vicepresidente del Consejo Asesor Fiscal a don Eduardo Engel Goetz y a doña Andrea Repetto Lisboa, respectivamente.
+Asimismo, desígnase como Presidenta y Vicepresidente del Consejo Fiscal Asesor a doña Andrea Repetto Lisboa y a don Hermann González Bravo, respectivamente.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
