@@ -102,7 +102,7 @@ S/R Nuevo Trazado, Sector: Boyeruca - Puente
 
 Llico.
 
-J-956 Lipim�vida - Llico por El Alto.
+J-956 Lipimávida - Llico por El Alto.
 
 J-840 Pichibudi - Variante El Aquelarre.
 
@@ -143,6 +143,8 @@ CAUQUENES:
 CURICÓ:
 
 . El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Sur, a través de Ruta 5 Sur.
+
+. El tramo urbano de la Ruta J-615, desde la Ruta 5 hasta el límite urbano oriente, a través de: Camino a Zapallar.
 
 ELIMINADO
 
