@@ -162,7 +162,11 @@ Las viviendas que registren el tipo de daño precedentemente indicado podrán se
 
 4.3 Incremento de Subsidio de Mejoramiento red de alcantarillado: Se incrementará hasta en 80 UF el monto del subsidio otorgado en las modalidades descritas en los puntos 4.1 y 4.2, de conformidad a lo indicado en la tabla inserta en el resuelvo 5º de este acto administrativo. Las obras que podrán financiarse en la vivienda con este incremento deberán estar destinadas a la reposición de la red de agua potable y a la reposición de la red de alcantarillado, cuando ésta esté tapada desde la unión domiciliaria hasta el último artefacto, pudiendo incluir la red interior. Lo señalado precedentemente también aplica para las viviendas con sistemas particular de alcantarillado y agua potable.
 
+En casos calificados por SERVIU, se podrá disponer de un máximo de 40 UF del monto señalado en el párrafo anterior, a la reposición de artefactos sanitarios y revestimientos cerámicos de piso y/o muro de la sala de baño.
+
 4.4 Incremento de Subsidio de Ampliación de la Vivienda: Para la modalidad descrita precedentemente en los puntos 4.1 y 4.2, se podrá incrementar mediante un subsidio adicional de hasta 200 UF el monto de subsidio, cuando se requiera la reposición de recintos que hayan sido o deban ser demolidos y se deba construir un nuevo recinto.
+
+Cuando no sea necesaria la reposición del recinto, se podrá disponer parte del monto señalado en el párrafo precedente, a obras de reparación de la vivienda tales como cielo, tabiques, instalaciones eléctricas u otros.
 
 4.5 Incremento de Subsidio para Regularización: Las modalidades descritas en los puntos 4.1 y 4.2 de la presente resolución tendrán un incremento de hasta 30 UF adicionales para financiar las adecuaciones constructivas exigidas por la DOM al momento de aprobar el permiso de edificación y recepcionar las obras. Mediante resolución del Director Serviu se podrán establecer zonas donde este incremento podrá ser de hasta 80 UF.
 
@@ -302,9 +306,13 @@ c) Criterio de definición regional.
 
 8.10 En este llamado se encontrarán habilitadas para desarrollar la Etapa 2 "Contratación de Obras y Fiscalización Técnica de Obras" las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la Seremi de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente.
 
-8.11 Para su ejecución, las obras se dividirán en 3 tipos: "Instalación de Colectores Solares"; "Instalación de Paneles Fotovoltaicos" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del Resuelvo 5, a excepción de los subsidios de Colectores Solares y Fotovoltaicos, señalados precedentemente. Podrán existir contratos de construcción que consideren más de un tipo de obras, o contratos específicos para cada tipo de obra. Ambas modalidades deberán dar cumplimiento a lo establecido en la letra d) del artículo 37 del DS Nº 255 (V. y U.), de 2016, respecto a la boleta de garantía.
+8.11 Para la Región de Atacama la ejecución de las obras se dividirán en 3 tipos: "Instalación de Colectores Solares"; "Instalación de Paneles Fotovoltaicos" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del resuelvo 5, a excepción de los subsidios de Colectores Solares y Fotovoltaicos, señalados precedentemente.
 
-Los Serviu de las Regiones de Antofagasta y Atacama deberán solicitar el o los contratos de construcción que correspondan al tipo de obra cuyo subsidio es presentado a cobro, para proceder a su pago, además de los documentos señalados en el artículo 37 del DS Nº 255 (V. y U.), de 2016
+Para la Región de Antofagasta la ejecución de las obras se dividirán en 4 tipos: "Instalación de Colectores Solares"; "Instalación de Paneles Fotovoltaicos", "Regularizaciones" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del resuelvo 5, a excepción de los subsidios de Colectores Solares, regularización y Fotovoltaicos.
+
+Podrán existir contratos de construcción que consideren más de un tipo de obras, o contratos específicos para cada tipo de obra. Ambas modalidades deberán dar cumplimiento a lo establecido en la letra d) del artículo 37 del DS N° 255 (V. y U.) de 2016, respecto a la boleta de garantía.
+
+Los SERVIU de las regiones de Antofagasta y Atacama deberán solicitar el o los contratos de construcción que correspondan al tipo de obra cuyo subsidio es presentado a cobro, para proceder a su pago, además de los documentos señalados en el artículo 37 del DS N° 255 (V. y U.) de 2016
 
 DE LA OPERATORIA:
 
@@ -340,7 +348,7 @@ Pago Etapa 2: Al Serviu en su calidad de EP y/o a las EP privadas y públicas, s
 
 a) 2 UF por el o los contratos firmados con la o las Empresas Constructoras, monto que se pagará al momento de estar firmados todos los contratos, salvo el contrato asociado al proyecto Fotovoltaico, que podrá ser firmado posteriormente.
 
-b) Los montos para Fiscalización de Obras, señalados en el cuadro 2 del punto resolutivo 5 de la presente resolución, se pagarán en la proporción que resulte de los tipos de obras que contemple el proyecto y que haya fiscalizado la EP (uno, dos o los tres tipos de obras señalados en el punto 8.11), pagándose éstas una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
+b) Los montos para Fiscalización de Obras, señalados en el cuadro 2 del punto resolutivo 5 de la presente resolución, se pagarán en la proporción que resulte de los tipos de obras que contemple el proyecto y que haya fiscalizado la EP (uno, dos, tres o cuatro tipos de obras señalados en el punto 8.11), pagándose éstas una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
 
 En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescrito en el numeral 52 del artículo 6º de dicho acto administrativo, para los servicios de Organización de la Demanda y Postulación de Proyectos y Seguimiento de Proyectos y Fiscalización Técnica de Obras.
 
