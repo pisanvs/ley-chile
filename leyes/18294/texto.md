@@ -4,15 +4,9 @@ La Junta de Gobierno de la República de Chile ha dado su aprobación al siguien
 
 PROYECTO DE LEY:
 
-#### Artículo 1°
+#### Artículo 1
 
-EL gasto anual máximo en personal de las Municipalidades de la Región Metropolitana de Santiago, no podrá exceder, respecto de cada una de ellas, del 35% (treinta y cinco por ciento) del rendimiento estimado de los ingresos que les correspondan en conformidad a lo establecido en los artículos 3° N° 1; 6° al 9° del título III, en los títulos IV, V, VI, VIII y artículo 44 N° 1 del título IX de la Ley de Rentas Municipales.
-
-Asimismo, la dotación máxima de personal de las Municipalidades de la Región Metropolitana de Santiago, cuyas comunas tengan una población superior a 15.000 habitantes, no podrá exceder, respecto de cada una de ellas, de la relación de dos funcionarios por cada mil habitantes de la comuna respectiva.
-
-La relación que establece el inciso segundo de este artículo no regirá respecto de la Municipalidad de Santiago. No obstante, dicho municipio no podrá reponer la parte de su dotación que sea traspasada a Municipalidades de otras comunas.
-
-> **Nota.** El artículo 67 de la LEY 18382, dispuso que las normas establecidas en los artículos 1º permanente y 2º transitorio de esta, respecto de las Municipalidades de la Región Metropolitana de Santiago, regirán, asimismo, para todas las Municipalidades del país.
+Derogado.
 
 #### Artículo 2°
 

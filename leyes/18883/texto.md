@@ -20,11 +20,13 @@ Sin perjuicio de lo señalado en el inciso anterior, la dotación de las municip
 
 Los empleos a contrata durarán, como máximo, sólo hasta el 31 de diciembre de cada año y los empleados que los sirvan cesarán en sus funciones en esa fecha, por el solo ministerio de la ley, salvo que hubiere sido dispuesta la prórroga con treinta días de anticipación, a lo menos.
 
-Los cargos a contrata, en su conjunto, no podrán representar un gasto superior al veinte por ciento del gasto de remuneraciones de la planta municipal. Sin embargo, en las municipalidades con planta de menos de veinte cargos, podrán contratarse hasta cuatro personas.
+Los cargos a contrata, en su conjunto, no podrán representar un gasto superior al cuarenta por ciento del gasto de remuneraciones de la planta municipal. Sin embargo, en las municipalidades con planta de menos de veinte cargos, podrán contratarse hasta ocho personas.
 
 Podrán existir empleos a contrata con jornada parcial y, en tal caso, la correspondiente remuneración será proporcional a dicha jornada.
 
 Los empleos a contrata deberán ajustarse a las posiciones relativas que se contempla para el personal de la planta de Profesionales, de Técnicos, de Admninistrativos y de Auxiliares, o de los escalafones vigentes en su caso, de la respectiva municipalidad, según sea la función que se encomienda. Los grados que se asignen a los empleos a contrata no podrán exceder el tope máximo ue se contempla para el personal de las plantas de Profesionales, Técnicos, Administrativos y Auxiliares a que se refiere el artículo 11.
+
+El gasto anual en personal no podrá exceder, respecto de cada municipalidad, del 42% (cuarenta y dos por ciento) de los ingresos propios percibidos en el año anterior. Se entenderá por gasto en personal el que se irrogue para cubrir las remuneraciones correspondientes al personal de planta y a contrata. Asimismo, se considerarán en dicho gasto los honorarios a suma alzada pagados a personas naturales, honorarios asimilados a grado, jornales, remuneraciones reguladas por el Código del Trabajo, suplencias y reemplazos, personal a trato y/o temporal y alumnos en práctica. A su vez, los ingresos propios percibidos serán considerados como la suma de los ingresos propios permanentes señalados en el artículo 38 del decreto ley N° 3.063, de 1979, sobre Rentas Municipales, incluyendo la totalidad de la recaudación por concepto de permisos de circulación y patentes municipales, más los ingresos por participación en el Fondo Común Municipal indicados en el artículo 14 de la ley N° 18.695, orgánica constitucional de Municipalidades. Sólo para los efectos del cálculo del gasto anual en personal que dispone el presente artículo, no se considerarán los pagos que realice el municipio por concepto de la asignación de zona establecida en el artículo 7° del decreto ley N° 249, del Ministerio de Hacienda, promulgado el año 1973 y publicado el año 1974, otorgada por el artículo 25 del decreto ley N° 3.551, del Ministerio de Hacienda, promulgado el año 1980 y publicado el año 1981; de la bonificación establecida en el artículo 3° de la ley N° 20.198, ni de la bonificación compensatoria del artículo 29 de la ley N° 20.717, destinada a los beneficiarios de la mencionada bonificación del artículo 3° de la ley N° 20.198.
 
 #### Artículo 3°
 
@@ -90,9 +92,49 @@ Son subrogantes aquellos funcionarios que entran a desempeñar el empleo del tit
 
 Para los efectos de la carrera funcionaria, cada municipalidad sólo podrá tener las siguientes plantas de personal: de Directivos, de Profesionales, de Jefaturas, de Técnicos, de Administrativos y de Auxiliares.
 
+Las plantas municipales establecidas de acuerdo al inciso anterior tendrán las siguientes posiciones relativas:
+
+Alcaldes del grado 1 al 6
+
+Directivos del grado 3 al 10
+
+Profesionales del grado 5 al 12
+
+Jefaturas del grado 7 al 12
+
+Técnicos del grado 9 al 17
+
+Administrativos del grado 11 al 18
+
+Auxiliares del grado 13 al 20.
+
+Para los efectos de establecer el grado asignado al cargo de alcalde dentro de la planta municipal respectiva al momento de fijarla o modificarla de conformidad a lo dispuesto por el artículo 49 bis de la ley N° 18.695, los municipios deberán ajustarse a la categoría en que se encuentren según el total de sus ingresos anuales percibidos o el número de habitantes de la comuna, a su elección. Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, y suscrito además por el Ministro de Hacienda, fijará las categorías según los criterios antes indicados y el rango de grados posibles para cada categoría, sin que pueda dicho reglamento de manera alguna significar una disminución de remuneraciones o grado al alcalde, o algún miembro de cualquier escalafón de la municipalidad. Dicho reglamento deberá dictarse en los seis meses siguientes a la publicación de esta ley. En caso que no se dicte el reglamento dentro de plazo, los municipios igualmente podrán modificar sus respectivas plantas.
+
 #### Artículo 8°
 
 La carrera funcionaria se iniciará con el ingreso a un cargo de planta, y se extenderá hasta el cargo de jerarquía inmediatamente inferior al de alcalde.
+
+Para el ingreso y la promoción en los cargos de las plantas de personal de las municipalidades se deberá cumplir con los siguientes requisitos:
+
+1) Plantas de Directivos: Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
+
+No obstante, para los cargos de dirección destinados al mando superior de las unidades que se indican seguidamente, deberán cumplirse los requisitos específicos que se señalan:
+
+a) Para la unidad de obras municipales se requerirá título de arquitecto, de ingeniero civil, de ingeniero constructor civil o de constructor civil, otorgado por una institución de educación superior del Estado o reconocida por éste.
+
+b) En la unidad de asesoría jurídica se requerirá título de abogado, habilitado para el ejercicio de la profesión.
+
+2) Plantas de Profesionales: Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
+
+3) Plantas de Jefaturas: título profesional universitario o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste, o título técnico que cumpla los requisitos fijados para la planta de técnicos.
+
+4) Plantas de Técnicos: Título técnico de nivel superior otorgado por una institución de educación superior del Estado o reconocida por éste, en el área que la municipalidad lo requiera; o, en su caso, título técnico de nivel medio, en el área que la municipalidad lo requiera, otorgado por una institución de educación del Estado o reconocida por éste; o haber aprobado, a lo menos, cuatro semestres de una carrera profesional impartida por una institución del Estado o reconocida por éste, en el área que la municipalidad lo requiera.
+
+5) Plantas de Administrativos: Licencia de educación media o su equivalente.
+
+6) Plantas de Auxiliares: Haber aprobado la educación básica o encontrarse en posesión de estudios equivalentes. Para el ingreso o la promoción a cargos que impliquen el desarrollo de funciones de chofer, será necesario estar en posesión de la licencia de conducir que corresponda según el vehículo que se asignará a su conducción.
+
+Las plantas podrán considerar requisitos específicos para determinados cargos.
 
 #### Artículo 9°
 
@@ -158,6 +200,8 @@ De la Carrera Funcionaria
 
 El ingreso a los cargos de planta en calidad de titular se hará por concurso público y procederá en el último grado de la planta respectiva, salvo que existan vacantes de grados superiores a éste que no hubieren podido proveerse mediante ascensos.
 
+Las municipalidades deberán dictar un reglamento de concurso público.
+
 Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho a postular en igualdad de condiciones.
 
 #### Artículo 16
@@ -165,6 +209,8 @@ Todas las personas que cumplan con los requisitos correspondientes tendrán el d
 El concurso consistirá en un procedimiento técnico y objetivo que se utilizará para seleccionar el personal que se propondrá al alcalde, debiéndose evaluar los antecedentes que presenten los postulantes y las pruebas que hubieren rendido, si así se exigiere, de acuerdo a las características de los cargos que se van a proveer.
 
 En cada concurso deberán considerarse a lo menos los siguientes factores: los estudios y cursos de formación educacional y de capacitación; la experiencia laboral, y las aptitudes específicas para el desempeño de la función. La municipalidad los determinará previamente y establecerá la forma en que ellos serán ponderados y el puntaje mínimo para ser considerado postulante idóneo.
+
+No obstante lo anterior, en el caso de los requisitos para cargos directivos municipales, éstos podrán considerar perfiles ocupacionales definidos por el Programa Academia de Capacitación Municipal y Regional de la Subsecretaría de Desarrollo Regional y Administrativo, a que se refieren los artículos 4° y siguientes de la ley N° 20.742.
 
 #### Artículo 17
 
@@ -200,7 +246,7 @@ El concurso podrá ser declarado total o parcialmente desierto, sólo por falta 
 
 #### Artículo 20
 
-El alcalde seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
+El alcalde seleccionará a una de las personas propuestas con especial consideración de los factores señalados en el inciso segundo del artículo 16 y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
 
 #### Artículo 21
 
@@ -230,7 +276,7 @@ Aquellas actividades que sólo exijan asistencia y las que tengan una extensión
 
 #### Artículo 25
 
-Las municipalidades deberán considerar en sus programas de capacitación y perfeccionamiento el tipo y características de la comuna y su beneficio para la eficiencia en el cumplimiento de las funciones municipales.
+Las municipalidades deberán considerar en sus programas de capacitación y perfeccionamiento el tipo y características de la comuna y su beneficio para la eficiencia en el cumplimiento de las funciones municipales. Dichos programas deberán contemplar, a lo menos, cursos sobre derecho administrativo, probidad administrativa, contabilidad y gestión financiera municipal, estas dos últimas materias preferentemente para aquellos funcionarios que se desempeñen en áreas afines.
 
 Estas actividades podrán también llevarse a cabo mediante convenios con organismos públicos o privados, nacionales, extranjeros o internacionales.
 

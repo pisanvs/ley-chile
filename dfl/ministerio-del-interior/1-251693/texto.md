@@ -118,9 +118,11 @@ La gestión municipal contará, a lo menos, con los siguientes instrumentos:
 
 a) El plan comunal de desarrollo y sus programas;
 
-b) El plan regulador comunal, y
+b) El plan regulador comunal;
 
-c) El presupuesto municipal anual.
+c) El presupuesto municipal anual, y
+
+d) La política de recursos humanos.
 
 #### Artículo 7º
 
@@ -430,7 +432,7 @@ d) En general, aplicar las normas generales sobre tránsito y transporte públic
 
 La unidad encargada de administración y finanzas tendrá las siguientes funciones:
 
-a) Asesorar al alcalde en la administración del personal de la municipalidad.
+a) Asesorar al alcalde en la administración del personal de la municipalidad. Además, deberá informar trimestralmente al concejo municipal sobre las contrataciones de personal realizadas en el trimestre anterior, individualizando al personal, su calidad jurídica, estamento, grado de remuneración y, respecto del personal a honorarios contratado con cargo al subtítulo 21, ítem 03, del presupuesto municipal, el detalle de los servicios prestados. También, en la primera sesión de cada año del concejo, deberá informar a éste sobre el escalafón de mérito del personal municipal y un reporte sobre el registro del personal enviado y tramitado en la Contraloría General de la República en el año inmediatamente anterior.
 
 b) Asesorar al alcalde en la administración financiera de los bienes municipales, para lo cual le corresponderá específicamente:
 
@@ -503,6 +505,12 @@ El cargo de administrador municipal será incompatible con todo otro empleo, fun
 #### Artículo 31
 
 La organización interna de la municipalidad, así como las funciones específicas que se asignen a las unidades respectivas, su coordinación o subdivisión, deberán ser reguladas mediante un reglamento municipal dictado por el alcalde, con acuerdo del concejo conforme lo dispone la letra k) del artículo 65.
+
+Asimismo, en este reglamento, las municipalidades podrán crear unidades que estimen necesarias para su funcionamiento, pudiendo asignarle funciones de las unidades designadas en los artículos 21, 22, 23, 25 y 27 de esta ley, las cuales, en dicho caso, no serán ejercidas por aquellas mientras sean asignadas a la nueva unidad.
+
+Para la creación de dichas unidades será necesario contar con el debido financiamiento municipal y con un informe fundado que justifique su necesidad y acredite su debido financiamiento, elaborado por las unidades de Administración Municipal, la Dirección de Administración y Finanzas y la Secretaría Comunal de Planificación. En este caso, el reglamento deberá ser aprobado por los dos tercios de los concejales en ejercicio, debiendo mediar un plazo de, a lo menos, quince días hábiles entre el conocimiento de éste y su aprobación.
+
+La destinación de un funcionario a una nueva unidad deberá considerar su experiencia laboral, su formación técnica y profesional en relación a la nueva unidad, y no podrá significar detrimento en su grado ni en sus remuneraciones.
 
 ### Párrafo 5º
 
@@ -642,6 +650,86 @@ En el sistema legal de remuneración de las municipalidades se procurará aplica
 
 La municipalidad velará permanentemente por la carrera funcionaria y el cumplimiento de las normas y principios de carácter técnico y profesional establecidos en este párrafo, y asegurará tanto la igualdad de oportunidades de ingreso a ella como la capacitación y el perfeccionamiento de sus integrantes.
 
+#### Artículo 49 bis
+
+Los alcaldes, a través de un reglamento municipal, podrán fijar o modificar las plantas del personal de las municipalidades, estableciendo el número de cargos para cada planta y fijar sus grados, de conformidad al Título II del decreto ley N° 3.551, del Ministerio de Hacienda, promulgado el año 1980 y publicado el año 1981.
+
+Sin perjuicio de lo dispuesto en el artículo 53, el reglamento que se dicte ejerciendo la potestad reconocida en el inciso anterior estará sometido al trámite de toma de razón ante la Contraloría General de la República y se publicará en el Diario Oficial.
+
+Para el ejercicio de esta facultad se deberán considerar los siguientes límites y requisitos:
+
+1. El límite de gasto en personal vigente a la fecha del reglamento respectivo.
+
+2. La disponibilidad presupuestaria. El cálculo de la disponibilidad presupuestaria y su proyección deberán considerar los ingresos propios y el gasto en personal de los tres años precedentes al proceso de fijación o modificación de las plantas; todo lo cual deberá ser certificado previamente por los jefes de las unidades de administración y finanzas y control de la municipalidad respectiva.
+
+3. Disponer de escalafón de mérito del personal actualizado, conforme a lo dispuesto en los artículos 49 y 50 de la ley N° 18.883.
+
+4. En caso que se incremente el número total de cargos en la planta de personal, a lo menos un 75% (setenta y cinco por ciento) de los nuevos cargos que se creen deberán requerir título profesional o técnico.
+
+5. Los alcaldes deberán consultar a las asociaciones de funcionarios regidos por la ley N° 18.883 existentes en la respectiva municipalidad, en el proceso de elaboración de la planta de personal. Para tal efecto, se deberá constituir un comité bipartito, integrado paritariamente por representantes del alcalde y de las asociaciones de funcionarios existentes en la municipalidad.
+
+Su opinión deberá ser presentada al concejo municipal en ejercicio con anterioridad a la readecuación de la planta y no será vinculante.
+
+En las municipalidades donde no existan asociaciones de funcionarios, o éstas no se encuentren vigentes, representarán a los funcionarios aquellos que sean elegidos en votación secreta efectuada para tal efecto, debiendo representar a distintos estamentos.
+
+6. Los alcaldes deberán presentar la propuesta de planta de personal y del reglamento que la contenga al concejo municipal, la que deberá ser aprobada por los dos tercios de sus integrantes en ejercicio.
+
+7. El concejo municipal no podrá aumentar el número de cargos ni modificar los grados que contenga la proposición y sólo podrá reducir o rechazar la proposición de planta.
+
+8. La municipalidad deberá remitir copia del reglamento que determine la planta respectiva y sus antecedentes a la Subsecretaría de Desarrollo Regional y Administrativo, dentro de los sesenta días posteriores a su dictación.
+
+9. Lo dispuesto en el inciso quinto del artículo 5° de la ley N° 15.231, en el artículo 7° de la ley N° 19.602 y en el artículo 16 de esta ley, en lo atingente a la posición de los cargos que allí se indican.
+
+En caso que la fijación de la nueva planta haya considerado una proyección de ingresos y gastos para la municipalidad determinada con negligencia inexcusable, se entenderá que se configurará causal de notable abandono de deberes, tanto de parte del alcalde como del o de los concejales que hayan participado de tal decisión. Para dichos efectos se procederá según lo dispuesto en la letra c) del artículo 60, en la letra f) del artículo 76 y en el artículo 77.
+
+El o los concejales que hubieren votado por rechazar la propuesta de planta podrán recurrir al Tribunal Electoral Regional para solicitar que declare el notable abandono de deberes, según lo dispuesto en el inciso anterior, dentro del plazo de treinta días hábiles contado desde la aprobación de la planta por parte del concejo municipal. Con todo, el alcalde deberá remitir a la Contraloría General de la República el reglamento a que se refiere el inciso primero de este artículo, una vez transcurrido el plazo precedentemente señalado, sin que se haya interpuesto la acción que establece el inciso anterior o una vez que el Tribunal Electoral Regional haya rechazado la acción. Lo dispuesto en este inciso será certificado por el Secretario del Tribunal Electoral Regional.
+
+#### Artículo 49 ter
+
+Para los procesos de encasillamiento del personal que se originen en la fijación o modificación de plantas de personal de conformidad al procedimiento dispuesto en el artículo precedente, se seguirán las normas siguientes:
+
+a) Los funcionarios de las plantas de directivos, profesionales, jefaturas, técnicos, administrativos y auxiliares se encasillarán en cargos de igual grado al que tenían a la fecha del encasillamiento, manteniendo el orden del escalafón de mérito. Si en las nuevas plantas no existieren los grados que tenían los funcionarios, por haber variado los grados de ingreso a ellas, éstos se encasillarán en el último grado que se consulte en la nueva planta.
+
+En el ejercicio de esta facultad, los alcaldes podrán encasillar de acuerdo al escalafón de mérito, a los funcionarios titulares en una planta distinta a la que éstos pertenecen en la medida que hayan quedado vacantes luego de la provisión indicada en el párrafo anterior, siempre que se cumplan los requisitos propios del cargo y, además, los siguientes:
+
+i.- Que el funcionario, a lo menos tres años antes, esté realizando las funciones propias del estamento de la planta en que se encasilla.
+
+ii.- Que el funcionario acepte previamente, por escrito, el traspaso.
+
+b) Una vez encasillado el personal de la letra a) precedente en los cargos que queden vacantes, se encasillará a los funcionarios a contrata asimilados a las referidas plantas, que se encuentren en servicio al 31 de diciembre del año anterior al del inicio del plazo para ejercer la facultad de dictación del reglamento que fija o modifica la planta de personal.
+
+Los funcionarios a contrata señalados en el párrafo anterior sólo podrán ser encasillados siempre que tengan, a lo menos, cinco años de servicios continuos en la respectiva municipalidad anteriores al encasillamiento, cumplan con los requisitos generales y específicos del cargo correspondiente, y se encuentren calificados en lista N° 1, de distinción, o lista N° 2, buena.
+
+El nombramiento deberá realizarse en un cargo vacante que corresponda a la misma planta y grado al cual se encontraban asimilados. Con todo, aquellos funcionarios que hubieren experimentado mejoramiento de grado remuneratorio en los últimos treinta y seis meses anteriores al encasillamiento sólo podrán ser encasillados en el grado que tenían con anterioridad a dicho mejoramiento.
+
+En caso que existan más funcionarios a contrata que cargos vacantes, la provisión de éstos se efectuará, en primer término, de acuerdo al resultado de la última calificación obtenida y, en caso de empate, conforme a la antigüedad de servicio en la respectiva municipalidad y, en el evento de mantenerse la igualdad, decidirá el alcalde.
+
+c) Una vez practicado el procedimiento anterior, los cargos que queden vacantes se proveerán con los funcionarios señalados en la letra a) anterior, de acuerdo a los artículos 51, 52, 53 y 54 de la ley N° 18.883. Si después de este procedimiento quedaren aún cargos vacantes, éstos se proveerán en conformidad a lo estatuido en el Párrafo I del Título II de la citada ley.
+
+d) Lo dispuesto en este artículo quedará sujeto a las siguientes restricciones, respecto del personal al que afecte:
+
+i.- El encasillamiento no podrá tener como consecuencia, ni podrá ser considerado como causal de término de servicios, cesación de funciones o término de la relación laboral del personal.
+
+ii.- No podrá significar pérdida del empleo, disminución de sus remuneraciones, excepto en el caso contemplado en el párrafo tercero del literal b), ni modificación de derechos previsionales.
+
+iii.- Cualquier diferencia de remuneraciones deberá ser pagada por planilla suplementaria, la que se absorberá por los futuros mejoramientos de remuneraciones que correspondan a los funcionarios, excepto los derivados de reajustes generales que se otorguen a los trabajadores del sector público. Dicha planilla mantendrá la misma imponibilidad que aquella de las remuneraciones que compensa. Además, a la planilla suplementaria se le aplicará el reajuste general antes indicado.
+
+iv.- Los funcionarios encasillados conservarán la asignación de antigüedad que tengan reconocida, como también el tiempo computable para dicho reconocimiento.
+
+#### Artículo 49 quáter
+
+La facultad conferida en el artículo 49 bis podrá ejercerse cada ocho años, y dentro de los dos años siguientes a contar del cumplimiento de dicho período, siempre que se cumplan los requisitos y límites que establece esta ley.
+
+En caso de corresponder hacer uso de la citada facultad en un año en el que se realicen elecciones municipales, dicho derecho podrá ejercerse sólo durante el año siguiente a éstas.
+
+El reglamento municipal que modifique o fije la nueva planta entrará en vigencia el 1 de enero del año siguiente al de su publicación en el Diario Oficial.
+
+La facultad establecida en el artículo 49 ter deberá ejercerse dentro de los ciento ochenta días siguientes a la entrada en vigencia del reglamento municipal que modifique o fije la planta respectiva. En el caso que procediere la realización de concursos públicos, éstos deberán efectuarse en el plazo de un año contado desde la citada fecha.
+
+#### Artículo 49
+
+quinquies.- Para todos los efectos legales, la participación de los funcionarios municipales en la determinación de la planta municipal no se entenderá como una vulneración al número 6 del artículo 62 de la ley N° 18.575 y al número 1 del artículo 12 de la ley N° 19.880.
+
 ### Párrafo 7º
 
 Fiscalización
@@ -698,7 +786,7 @@ Disposiciones generales
 
 El alcalde es la máxima autoridad de la municipalidad y en tal calidad le corresponderá su dirección y administración superior y la supervigilancia de su funcionamiento.
 
-En la condición antedicha, el alcalde deberá presentar, oportunamente y en forma fundada, a la aprobación del concejo, el plan comunal de desarrollo, el presupuesto municipal, el plan regulador, las políticas de la unidad de servicios de salud y educación y demás incorporados a su gestión, y las políticas y normas generales sobre licitaciones, adquisiciones, concesiones y permisos.
+En la condición antedicha, el alcalde deberá presentar, oportunamente y en forma fundada, a la aprobación del concejo, el plan comunal de desarrollo, el presupuesto municipal, el plan regulador, las políticas de la unidad de servicios de salud y educación y demás incorporados a su gestión, y las políticas y normas generales sobre licitaciones, adquisiciones, concesiones y permisos. Además, deberá presentar para aprobación del concejo la política de recursos humanos, la cual deberá contemplar, a lo menos, los mecanismos de reclutamiento y selección; promoción y capacitación, y egreso. En este proceso los alcaldes podrán considerar la opinión de un comité bipartito conformado en los términos del número 5 del artículo 49 bis. Dicha política podrá incluir también diversos planes piloto relacionados con el recurso humano, a fin de permitir un mejor desempeño laboral.
 
 #### Artículo 57
 
@@ -920,9 +1008,11 @@ e) Los convenios celebrados con otras instituciones, públicas o privadas, así 
 
 f) Las modificaciones efectuadas al patrimonio municipal;
 
-g) Los indicadores más relevantes que den cuenta de la gestión en los servicios de educación y salud, cuando estos sean de administración municipal, tales como el número de colegios y alumnos matriculados; de los resultados obtenidos por los alumnos en las evaluaciones oficiales que se efectúen por el Ministerio de Educación; de la situación previsional del personal vinculado a las áreas de educación y salud; del grado de cumplimiento de las metas sanitarias y de salud a nivel comunal, y
+g) Los indicadores más relevantes que den cuenta de la gestión en los servicios de educación y salud, cuando estos sean de administración municipal, tales como el número de colegios y alumnos matriculados; de los resultados obtenidos por los alumnos en las evaluaciones oficiales que se efectúen por el Ministerio de Educación; de la situación previsional del personal vinculado a las áreas de educación y salud; del grado de cumplimiento de las metas sanitarias y de salud a nivel comunal;
 
-h) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
+h) El estado de la aplicación de la política de recursos humanos, y
+
+i) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
 
 Un extracto de la cuenta pública del alcalde deberá ser difundido a la comunidad. Sin perjuicio de lo anterior, la cuenta íntegra efectuada por el alcalde deberá estar a disposición de los ciudadanos para su consulta.
 

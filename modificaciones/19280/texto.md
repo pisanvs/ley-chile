@@ -122,43 +122,11 @@ f) Intercálase en el artículo 97, letra g), entre la palabra "planta" la prepo
 
 #### Artículo 11
 
-Las plantas municipales establecidas de acuerdo al artículo 7° de la ley N° 18.883, Estatuto Administrativo de los funcionarios municipales, tendrán las siguientes posiciones relativas:
-
-Alcaldes del grado 1 al 6
-
-Directivos del grado 3 al 10
-
-Profesionales del grado 5 al 12
-
-Jefaturas del grado 8 al 12
-
-Técnicos del grado 10 al 17
-
-Administrativos del grado 12 al 18
-
-Auxiliares del grado 14 al 20
+Derogado
 
 #### Artículo 12
 
-Establécense los siguientes requisitos para el ingreso y la promoción en los cargos de las plantas de personal de las municipalidades:
-
-1) Plantas de Directivos: título profesional universitario o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por un establecimiento de educación superior del Estado o reconocido por éste.
-
-No obstante, para los cargos de dirección destinados al mando superior de las unidades que se indican seguidamente, deberán cumplirse los requisitos específicos que se señalan:
-
-a) Para la unidad de Obras Municipales se requerirá título de arquitecto, de ingeniero civil o de constructor civil.
-
-b) En la unidad de Asesoría Jurídica se requerirá título de abogado.
-
-2) Plantas de Profesionales: Título profesional universitario o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por un establecimiento de educación superior del Estado o reconocido por éste.
-
-3) Plantas de Jefaturas: Título profesional universitario o título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por un establecimiento de educación superior del Estado o reconocido por éste, o título técnico que cumpla requisitos fijados para la planta de técnicos.
-
-4) Plantas de Técnicos: Título otorgado por un Instituto o Establecimiento de Educación Superior del Estado o reconocido por éste, en el área que la Municipalidad lo requiera; o, en su caso, título otorgado por un Establecimiento de Educación Media Técnico-Profesional del Estado o reconocido por éste, en el área que la Municipalidad lo requiera; o haber aprobado, a lo menos, 4 semestres de una carrera profesional impartida por una Universidad o Instituto Profesional del Estado o reconocido por éste, en el área que la Municipalidad lo requiera.
-
-5) Plantas de Administrativos: Licencia de Educación Media o su equivalente.
-
-6) Plantas de Auxiliares: Haber aprobado la educación básica o encontrarse en posesión de estudios equivalentes. Para el ingreso o la promoción a cargos que impliquen el desarrollo de funciones de chofer, será necesario estar en posesión de la licencia de conducir que corresponda según el vehículo que se asignará a su conducción.
+Derogado
 
 #### Artículo 13
 
