@@ -66,11 +66,9 @@ Conjuntamente con la Solicitud de Condonación Deuda MAI, deberán acompañarse 
 
 2.3.- Cuenta y/o factura emitida por el establecimiento asistencial. Este documento debe tener la firma del responsable de su emisión y el timbre del establecimiento de salud correspondiente.
 
+En el caso de las solicitudes de condonación de deudas relativas a prestaciones cubiertas por las Garantías Explícitas en Salud (GES) no será necesario acompañar este documento.
+
 2.4.- Si el solicitante es un trabajador dependiente debe adjuntar:
-
-. Última liquidación de sueldo.
-
-. Licencia médica actualizada y emitida por la institución correspondiente.
 
 . Finiquito del titular solicitante. En caso de cesantía, presentar documento que acredite su situación.
 
@@ -78,13 +76,11 @@ Conjuntamente con la Solicitud de Condonación Deuda MAI, deberán acompañarse 
 
 . Última declaración de impuestos presentada ante el Servicio de Impuestos Internos.
 
-. Certificado de cotizaciones de AFP.
-
-. Licencia médica.
-
 2.6.- El Formulario de Informe Social para solicitar la Condonación de Copagos MAI, debe presentarse exclusivamente mediante el Formato presentado en el Anexo 2, destinado a emitir el Informe Social del Municipio o establecimiento correspondiente, otorgado por un profesional debidamente acreditado para estos fines, que avale las circunstancias socio-económicas que justifican la condonación solicitada.
 
 2.7.- Certificado médico que acredite la enfermedad o problema de salud crónica o terminal del paciente, con la firma del médico responsable de su emisión.
+
+En el caso de las solicitudes de condonación de deudas relativas a prestaciones cubiertas por las Garantías Explícitas en Salud (GES) no será necesario acompañar este documento.
 
 3.- ENTIDADES QUE INTERVIENEN EN EL PROCEDIMIENTO DE LA CONDONACIÓN DE COPAGOS DEUDA MAI
 
