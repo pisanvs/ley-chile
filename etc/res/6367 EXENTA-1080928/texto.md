@@ -12,11 +12,13 @@ Resolución:
 
 1º.- Apruébase la nómina de damnificados seleccionados para la asignación del subsidio habitacional regulado por el DS Nº 1 (V. y U.), de 2011, en la modalidad de adquisición de viviendas, correspondiente al mes de julio de 2015, para el llamado especial dispuesto por el resuelvo 1º de la resolución exenta Nº 3.593, de este Ministerio, de 2015, nómina que se entenderá forma parte integrante de esta resolución, y fíjase el número de subsidios asignados por Región conforme se señala en la siguiente tabla:
 
-Nº de subsidios asignados del DS Nº1 (V. y U.), de 2011
+Nº asignados
 
 Región de aplicación Total
 
-Los Lagos 11
+Los Ríos 1
+
+Los Lagos 10
 
 Total 11
 
@@ -26,7 +28,9 @@ Unidades de Fomento
 
 Región de aplicación Total
 
-Los Lagos 9.900
+Los Ríos 900
+
+Los Lagos 9.000
 
 Total 9.900
 
