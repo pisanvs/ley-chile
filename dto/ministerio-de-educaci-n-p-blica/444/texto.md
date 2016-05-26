@@ -10,6 +10,10 @@ Que, dicho inmueble se encuentra anexo a la Biblioteca Nacional, formando con el
 
 Declárase Monumento Histórico el edificio del Archivo Nacional ubicado en la ciudad de Santiago, Región Metropolitana.
 
+El área protegida tiene una superficie aproximada de 3.130,08 mts.2, según se delimita por el polígono A-B-C-D-E-F-G-H-A del plano adjunto que forma parte del presente decreto.
+
+..
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Raúl Allard Neumann, Subsecretario de Educación.
