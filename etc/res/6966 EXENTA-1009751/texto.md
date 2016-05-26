@@ -50,9 +50,9 @@ d) 18,8 - 19,3 GHz espacio - Tierra
 
 28,6 - 29,1 GHz Tierra - espacio
 
-e) 19,7 - 20,2 GHz espacio - Tierra
+e) 19,7 - 21,2 GHz espacio - Tierra
 
-29,5 - 30,0 GHz Tierra - espacio
+29,5 - 31,0 GHz Tierra - Espacio
 
 Nota: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
 
@@ -68,7 +68,17 @@ Las concesiones o permisos se otorgarán por orden de llegada sin concurso públ
 
 Los terminales de usuario se podrán ubicar en cualquier parte dentro de la zona de servicio autorizada y podran reubicarse de acuerdo a la demanda. Para el caso de las concesiones, dichos terminales constituyen radioestaciones móviles para efectos del numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones.
 
-#### Artículo 6º
+#### Artículo 6°
+
+Se permitirá el uso de las bandas 19,7-20,2 GHz (espacio-Tierra) y 29,5-30,0 GHz (Tierra-espacio) por estaciones terrenas en movimiento que se comuniquen con estaciones espaciales geoestacionarias del servicio fijo por satélite, debidamente inscritas ante la UIT.
+
+Con el objeto de asegurar la protección de todas las redes y sistemas de otros servicios que operen en las bandas de frecuencias mencionadas, las estaciones terrenas en movimiento se mantendrán dentro del conjunto de límites de los acuerdos de coordinación de las redes de satélites a que esté asociada la estación terrena o, de no existir tales acuerdos, se deberán cumplir los niveles de densidad de p.i.r.e. fuera del eje indicados en el Anexo 1 de la resolución (CMR-15) de la UIT relativa a la "Utilización de las bandas de frecuencias de 19,7-20,2 GHz y 29,5-30,0 GHz por estaciones terrenas en movimiento que se comuniquen con estaciones espaciales geoestacionarias del servicio fijo por satélite".
+
+Será obligación de las concesionarias o permisionarias del servicio, garantizar que cuentan con un mecanismo de vigilancia y control permanente con el fin de deshabilitar la transmisión de estaciones terrenas en movimiento en caso sospechoso de interferencia causada por tales estaciones, para lo cual deberán identificar un punto de contacto. Asimismo, las concesionarias o permisionarias del servicio deberán asegurar que las estaciones terrenas en movimiento emplean técnicas de rastreo del satélite del servicio fijo asociado y que son resistentes a la captura y seguimiento de satélites de la órbita geoestacionaria adyacentes.
+
+Las estaciones terrenas en movimiento reguladas en el presente artículo no se utilizarán para aplicaciones de seguridad de la vida humana, ni se dependerá de ellas para este fin.
+
+#### Artículo 7º
 
 Deróguese la resolución exenta Nº 561, de 2003, de la Subsecretaría de Telecomunicaciones, que fijó la norma técnica para el uso de las bandas de frecuencias 18,8 - 19,3 GHz, 19,7 - 20,2 GHz, 28,6 - 29,1 GHz y 29,5 - 30,0 GHz.
 
