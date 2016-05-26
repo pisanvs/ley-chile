@@ -1,0 +1,5 @@
+AMPLÍA ALCANCE DE ACREDITACIÓN A "CONSEJO REGIONAL MINERO DE COQUIMBO A.G. O CORMINCO A.G."
+
+Por resolución exenta Nº 48, de 1 de marzo de 2016, y conforme lo dispuesto en la ley Nº 20.267, que crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo, y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social, se amplía el alcance de la acreditación como Centro de Evaluación y Certificación de Competencias Laborales, otorgada mediante resolución exenta Nº 64, de 3 de marzo de 2014, a "Consejo Regional Minero de Coquimbo A.G. o Corminco A.G.", RUT Nº 65.051.253-7, a los siguientes perfiles ocupacionales del Sector Manufactura Metálica, Subsector Metalúrgico Metalmecánico: Auxiliar de Aseo Plantas Industriales (P-2500-9112-001-V01), Mantenedor Eléctrico (P-2500-7412-001-V01) y Soldador (P-2500-7212-001-V02). La ampliación de la acreditación tendrá vigencia durante el plazo que dure la acreditación del Centro.-
+
+Ximena Concha Bañados, Secretaria Ejecutiva Comisión del Sistema Nacional de Certificación de Competencias Laborales.
