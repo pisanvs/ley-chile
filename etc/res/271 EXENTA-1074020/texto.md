@@ -12,7 +12,7 @@ Resolución:
 
 2º.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atención de los damnificados asignados con subsidio habitacional a que se refiere el número anterior, por Región y modalidad de aplicación del subsidio, según se indica en la siguiente tabla:
 
-.
+..
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
