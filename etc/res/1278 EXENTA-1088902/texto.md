@@ -102,11 +102,15 @@ o) Vehículos destinados a la recolección de basura.
 
 p) Vehículos que presten servicios de transporte público remunerado de pasajeros.
 
-El que solicite acogerse a alguna de las excepciones contempladas en las letras e),
+q) Vehículos de misiones diplomáticas, consulares y organizaciones internacionales que circulen con placas patente de gracia, otorgadas por el Ministerio de Relaciones Exteriores, de color celeste con relieves en blanco, cuyo código alfanumérico esté compuesto de dos letras, seguido de dos números",
 
-- **k)** o
+r) Vehículos destinados a la carga, como camionetas, camiones y otros similares, habilitados especial y directamente por empresas productoras y/o distribuidoras de servicios eléctricos, de agua potable, gas y de telecomunicaciones, para atender situaciones de emergencia que afecten gravemente el suministro de los mismos a la población. En estos casos la solicitud de exención sólo podrá ser requerida por dichas empresas
 
-- **m)** precedentes, deberá obtener autorización previa de esta Secretaría Regional Ministerial, la que se otorgará mediante resolución, debiendo acreditar el interesado que se encuentra en alguna de las situaciones que en ellas se describe. El documento en que conste dicha autorización o su copia, deberá portarse siempre en el vehículo.
+El que solicite acogerse a alguna de las excepciones contempladas en las letras
+
+- **m)** y
+
+- **r)** precedentes, deberá obtener autorización previa de esta Secretaría Regional Ministerial, la que se otorgará mediante resolución, debiendo acreditar el interesado que se encuentra en alguna de las situaciones que en ellas se describe. El documento en que conste dicha autorización o su copia, deberá portarse siempre en el vehículo.
 
 Las referidas autorizaciones estarán sujetas a los plazos y demás modalidades que el Secretario Regional determine en cada caso.
 
