@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución exenta Nº 1.569, de 20 de mayo de 2016, de esta Subsecretaría, declárase la caducidad de las resoluciones exentas Nº 388 de 2005, Nº 2.856 de 2007 y Nº 2.345 de 2008, todas de esta Subsecretaría, que autorizaron a Pesquera Lota Vedde Limitada Aries y Compañía Comandita por Acciones, hoy Lota Protein S.A., para realizar actividades pesqueras extractivas con la nave en construcción "BEC Nº 388 de 2005", respecto de los recursos y en las áreas marítimas que en cada una de ellas se indica, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en visto de la resolución extractada.
+
+Valparaíso, 20 de mayo de 2016.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
