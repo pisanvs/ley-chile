@@ -34,7 +34,7 @@ Para los efectos de este reglamento, se entenderá por:
 
 a) Entidad Desarrolladora: Corresponderá a personas naturales o a personas jurídicas, tales como empresas constructoras, inmobiliarias, cooperativas abiertas de vivienda, corporaciones y fundaciones, que presente proyectos habitacionales a este programa para su desarrollo y/o ejecución.
 
-b) Familias Vulnerables: Las pertenecientes al primer quintil según el Instrumento de caracterización socioeconómica vigente, en adelante los postulantes, y/o beneficiarios que tengan un subsidio del Programa Fondo Solidario de Vivienda en modalidad Adquisición de Viviendas Existentes, regulado por el Título XV del Capítulo Primero del DS Nº 174 (V. y U.), de 2005, Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, de los llamados especiales de Segunda Oportunidad, regulados por la resoluciones exentas Nº 262 y Nº 8.761 (V. y U.), ambas de 2013, y del Título I, Tramo 1, del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1 (V. y U.), de 2011.
+b) Familias Vulnerables: Las que pertenezcan hasta el 40% más vulnerable de la población nacional, de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379, en adelante los postulantes, y/o beneficiarios que tengan un subsidio del Programa Fondo Solidario de Vivienda en modalidad Adquisición de Viviendas Existentes, regulado por el Título XV del Capítulo Primero del DS Nº 174 (V. y U.), de 2005, Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, de los llamados especiales de Segunda Oportunidad, regulados por la resoluciones exentas Nº 262 y Nº 8.761 (V. y U.), ambas de 2013, y del Título I, Tramo 1, del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1 (V. y U.), de 2011.
 
 c) Familias de Sectores Medios: Las que se incorporarán a los proyectos a que se refiere el presente reglamento, en adelante los postulantes y/o los beneficiarios que tengan un subsidio del Sistema Integrado de Subsidio Habitacional, del Título I, Tramo 2, o del Título II, regulados por el DS Nº 1 (V. y U.), de 2011.
 
@@ -78,7 +78,7 @@ b) No podrán postular a este subsidio el interesado o alguno de los integrantes
 
 1. Si el interesado, su cónyuge o conviviente, o algún otro miembro familiar declarado, se encuentra postulando a otro programa habitacional.
 
-2. Las familias vulnerables que no acrediten núcleo familiar, salvo que se trate de las personas exceptuadas en la letra g) del artículo 15 del DS Nº 49 (V. y U.), de 2011.
+2. Las familias vulnerables que no acrediten núcleo familiar, salvo que se trate de las personas exceptuadas en la letra h) del artículo 4 del DS Nº 49 (V. y U.), de 2011, en su texto reemplazado por el DS Nº 105 (V. y U.), de 2014.
 
 3. Aquellas personas pertenecientes a familias de sectores medios cuyo ingreso familiar sea superior al tope máximo establecido en la resolución exenta Nº 3.818 (V. y U.), de 2014, o aquella que la reemplace para quienes postulan al Título II del Sistema Integrado del Subsidio Habitacional. El interesado deberá otorgar la autorización correspondiente para consultar al Servicio de Impuestos Internos u otra entidad acerca de los ingresos de los integrantes del núcleo familiar declarado.
 
@@ -156,7 +156,7 @@ En caso que el proyecto obtenga una recepción parcial, el cálculo del porcenta
 
 Bono por Captación de Subsidios.
 
-Las familias de sectores medios podrán beneficiarse del bono por captación de subsidios, el que se determinará de acuerdo a los porcentajes de familias vulnerables y de sectores medios que se integren al proyecto y que hayan sido beneficiados con un subsidio habitacional en llamados efectuados hasta el 31 de diciembre de 2014; este bono será adicional al bono de integración social. Los montos del bono por captación de subsidios serán los siguientes, de acuerdo a los porcentajes indicados:
+Las familias de sectores medios podrán beneficiarse del bono por captación de subsidios, el que se determinará de acuerdo a los porcentajes de familias vulnerables y de sectores medios que se integren al proyecto y que hayan sido beneficiados con un subsidio habitacional en llamados efectuados hasta el 31 de diciembre de 2015; este bono será adicional al bono de integración social. Los montos del bono por captación de subsidios serán los siguientes, de acuerdo a los porcentajes indicados:
 
 Para determinar el bono por captación de subsidios se considerarán los subsidios captados hasta la fecha de recepción municipal del proyecto. En caso que el proyecto obtenga una recepción parcial, el cálculo del bono por captación de subsidios se efectuará con la demanda captada a la fecha de dicha recepción parcial sobre el total de viviendas del proyecto.
 
@@ -298,7 +298,7 @@ Además, el Minvu podrá entregar a las entidades desarrolladoras que hayan susc
 
 Si se excediere el plazo antes fijado para la recepción municipal de las obras, se producirá la caducidad automática de la reserva de los subsidios correspondientes que se hubiere efectuado, se dejará sin efecto el bono de integración social y se hará efectiva la boleta bancaria de garantía que cauciona el crédito de enlace, si lo hubiere.
 
-Si con posterioridad a la fecha de recepción municipal quedasen viviendas disponibles en los proyectos a que se refiere este reglamento, éstas podrán ser vendidas sin la aplicación de un subsidio y sólo se mantendrán los beneficios de este reglamento si las viviendas son vendidas a beneficiados de subsidio de alguno de los programas citados en las letras b) y c) del artículo 2º del presente reglamento, hasta 12 meses después de le fecha de recepción municipal.
+Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los proyectos a que se refiere este Reglamento, podrán incorporarse familias de sectores vulnerables y de sectores medios, y beneficiarios de subsidio de alguno de los programas citados en las letras b) y c) del artículo 2º de este decreto, manteniendo los beneficios de este Reglamento, hasta 12 meses después de la fecha de recepción municipal; o ser vendidas sin la aplicación de un subsidio.
 
 Si con posterioridad a la fecha de recepción municipal se produce la renuncia de uno o más beneficiarios de subsidio y consecuencia de esas renuncias no se cumple el porcentaje de familias vulnerables y/o se disminuye el porcentaje de captación de subsidios determinados, la entidad desarrolladora podrá efectuar reemplazos hasta 12 meses después de la fecha de recepción municipal, siempre que el reemplazante sea un beneficiario de subsidio.
 
