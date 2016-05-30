@@ -24,7 +24,7 @@ Calzada Período
 
 Norte 25 de abril a 7 de mayo de 2016
 
-Sur 9 de mayo a 20 de mayo de 2016
+Sur 9 de mayo a 31 de mayo de 2016
 
 2. Podrán circular excepcionalmente en el tramo y períodos señalados, los vehículos de emergencia, los destinados a cumplir funciones en las obras descritas y, aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.
 
