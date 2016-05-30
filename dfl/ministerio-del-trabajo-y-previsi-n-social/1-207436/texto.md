@@ -432,6 +432,22 @@ La jornada de trabajo se dividirá en dos partes, dejándose entre ellas, a lo m
 
 Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso continuo. En caso de duda de si una determinada labor está o no sujeta a esta excepción, decidirá la Dirección del Trabajo mediante resolución de la cual podrá reclamarse ante el Juzgado de Letras del Trabajo en los términos previstos en el artículo 31.
 
+#### Artículo 34 bis
+
+Sin perjuicio de lo dispuesto en el artículo precedente, los trabajadores de restaurantes que atiendan directamente al público podrán pactar la interrupción de la jornada diaria por más de media y hasta por cuatro horas, en tanto la suma de las horas efectivamente trabajadas no sobrepase los límites semanales y diarios señalados en los artículos 22 y 28. Cada trabajador podrá optar por permanecer en el lugar de trabajo, pero el empleador no podrá requerir de su parte, en este lapso, la prestación de servicios de ninguna naturaleza; la infracción de esta obligación será sancionada con una multa de 60 unidades tributarias mensuales.
+
+Las referidas horas de interrupción no serán imputables a la jornada diaria, pero su exceso sobre media hora deberá remunerarse de común acuerdo entre las partes en el pacto referido, sin que pueda acordarse un monto inferior al valor por hora correspondiente a uno y medio ingreso mínimo mensual en base a una jornada de cuarenta y cinco horas semanales. En caso que el período de colación fuere imputable a la jornada de trabajo, no corresponderá remunerar conforme a esta disposición el tiempo que ya estuviese imputado a la jornada. El empleador deberá costear el transporte de ida y regreso del trabajador a otro lugar, dentro del radio urbano respectivo, durante las horas de interrupción.
+
+El pacto deberá incluir a todos los trabajadores que atienden público y constar por escrito. El empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto.
+
+Se podrá incorporar en el pacto a trabajadores de los establecimientos señalados que, sin atender directamente al público, sean de difícil reemplazo, en atención a su condición técnica, profesional o a su experiencia en una determinada especialidad y a las características de la prestación de sus servicios. Al efecto, el empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto y de los antecedentes que acrediten las circunstancias señaladas en este inciso.
+
+El pacto deberá ser acordado con la o las organizaciones sindicales a las que pertenezcan los trabajadores involucrados y podrá extenderse hasta por seis meses, renovables de común acuerdo. En caso de no existir aquellas, el acuerdo deberá celebrarse en forma colectiva con dichos trabajadores, ante un ministro de fe. Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindical, se requerirá de su consentimiento expreso, manifestado por escrito.
+
+La distribución de la jornada pactada conforme al presente artículo no será compatible con aquella señalada en el artículo 27.
+
+Durante las interrupciones de la jornada de trabajo a que se refieren los incisos precedentes, el trabajador se encontrará bajo la cobertura del seguro a que se refiere el Título III del Libro II.
+
 ### Párrafo 4º
 
 Descanso semanal
@@ -455,6 +471,8 @@ En cada año calendario que los días 18 y 19 de septiembre sean días martes y 
 #### Artículo 36
 
 El descanso y las obligaciones y prohibiciones establecidas al respecto en los dos artículos anteriores empezarán a más tardar a las 21 horas del día anterior al domingo o festivo y terminarán a las 6 horas del día siguiente de éstos, salvo las alteraciones horarias que se produzcan con motivo de la rotación en los turnos de trabajo.
+
+En el caso de los trabajadores de hoteles, restaurantes, pubs, bares, discotecas y similares, las labores realizadas en el día anterior a un día de descanso deberán finalizar, a más tardar, a las 00:00 horas. En casos justificados, se podrá traspasar dicho límite hasta en tres horas, las que deberán pagarse con un recargo del cien por ciento sobre el valor de la hora ordinaria correspondiente al sueldo convenido. Con todo, el trabajador deberá tener un descanso no inferior a treinta y tres horas continuas, a partir del término de los servicios en la jornada que antecede a un día de descanso.
 
 #### Artículo 37
 
@@ -488,7 +506,9 @@ Las empresas exceptuadas del descanso dominical deberán otorgar un día de desc
 
 No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
 
-Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero y cuarto, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
+En el caso de los trabajadores de casinos de juego, hoteles, pubs, discotecas, restaurantes, clubes, bares y similares, y de los operadores de turismo, la distribución de la jornada ordinaria semanal deberá sujetarse a lo dispuesto en los incisos tercero y cuarto, salvo que las partes acuerden distribuir la jornada semanal de tal forma que el trabajador cuente con, a lo menos, veintinueve domingos de descanso en el lapso de un año o, alternativamente, con quince domingos de descanso en el lapso de seis meses. La distribución de los días domingos deberá ser acordada por escrito en el contrato de trabajo o en un anexo del mismo y no podrá considerar la prestación de servicios por más de tres domingos en forma consecutiva. Si a la fecha de terminación del contrato, el trabajador no hubiere hecho uso de los descansos en día domingo a que tiene derecho conforme la proporción que establece este inciso, el empleador deberá pagar dichos días en el respectivo finiquito. Este pago deberá efectuarse con el recargo contemplado en el inciso tercero del artículo 32 y no podrá ser imputado al pago del feriado proporcional, en su caso.
+
+Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero, cuarto y quinto las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
 
 Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de higiene y seguridad son compatibles con el referido sistema.
 
@@ -749,6 +769,12 @@ En caso de término del contrato de trabajo, el empleador estará obligado a pag
 #### Artículo 64
 
 En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
+
+Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
+
+Tratándose de pagos con tarjetas de crédito u otros títulos de crédito, el empleador deberá liquidar y enterar dichas sumas en la fecha en que acuerde con sus trabajadores, plazo que no podrá exceder de siete días hábiles desde que se recibieron del cliente. En estos casos, el empleador deberá entregar al trabajador copia del vale o comprobante en que conste la cantidad total pagada y el valor del servicio o producto adquirido. Tratándose de eventos especiales organizados por el empleador y que sean pagados con posterioridad a su celebración, este plazo se extenderá hasta la fecha de pago de la respectiva factura, cuando la propina esté incorporada a ella.
+
+Si las propinas no son pagadas en efectivo, los plazos contenidos en el inciso anterior podrán extenderse excepcionalmente cuando, producto del aislamiento geográfico de la zona en que se encuentre el establecimiento, unido ello a la falta de medios electrónicos de pago, no sea posible entregar las propinas en el tiempo establecido.
 
 #### Artículo 64 Bis
 
@@ -2846,15 +2872,15 @@ e) la autoridad competente declare inconveniente para el estado de gravidez.
 
 Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales e industriales y de servicios administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras. El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
 
-Las salas cunas deberán reunir las condiciones de higiene y seguridad que determine el reglamento.
+Las salas cunas señaladas en el inciso anterior deberán contar con autorización de funcionamiento o reconocimiento oficial del Estado, ambos otorgados por el Ministerio de Educación.
 
-Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previo informe favorable de la Junta Nacional de Jardines Infantiles, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
+Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previa autorización del Ministerio de Educación, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
 
 En los períodos de vacaciones determinados por el Ministerio de Educación, los establecimientos educacionales podrán ser facilitados para ejercer las funciones de salas cunas. Para estos efectos, la Junta Nacional de Jardines Infantiles podrá celebrar convenios con el Servicio Nacional de la Mujer, las municipalidades u otras entidades públicas o privadas.
 
 Se entenderá que el empleador cumple con la obligación señalada en este artículo si paga los gastos de sala cuna directamente al establecimiento al que la mujer trabajadora lleve sus hijos menores de dos años.
 
-El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
+El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de funcionamiento o reconocimiento oficial del Ministerio de Educación.
 
 INCISO SUPRIMIDO
 
@@ -2866,11 +2892,11 @@ Lo anterior se aplicará, además, si la madre fallece, salvo que el padre haya 
 
 #### Artículo 204
 
-Cuando se trate de construir o transformar salas cunas, los propietarios de los establecimientos respectivos deberán someter previamente los planos a la aprobación de la comisión técnica del plan nacional de edificaciones escolares del Ministerio de Educación Pública.
+Derogado
 
 #### Artículo 205
 
-El mantenimiento de las salas cunas será de costo exclusivo del empleador, quien deberá tener una persona competente a cargo de la atención y cuidado de los niños, la que deberá estar, preferentemente, en posesión del certificado de auxiliar de enfermería otorgado por la autoridad competente.
+El mantenimiento de las salas cunas será de costo exclusivo del o los empleadores, quienes deberán tener una persona competente a cargo de la atención y cuidado de los niños, en los términos establecidos en las normas sobre autorización de funcionamiento o reconocimiento oficial, según corresponda.
 
 #### Artículo 206
 
@@ -2898,7 +2924,7 @@ Asimismo, ejercerá este derecho la trabajadora o el trabajador al que se le hay
 
 #### Artículo 207
 
-Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
+Corresponde a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este Título, sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
 
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 
@@ -2920,9 +2946,9 @@ En igual sanción incurrirán los empleadores por cuya culpa las instituciones q
 
 Sin perjuicio de la sanción anterior, será de cargo directo de dichos empleadores el pago de los subsidios que correspondieren a sus trabajadoras.
 
-Los recursos que se obtengan por la aplicación de este artículo, deberán ser traspasados por el Fisco a la Junta Nacional de Jardines Infantiles, dentro de los treinta días siguientes al respectivo ingreso.
+La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo , sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
 
-La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo y a la Junta Nacional de Jardines Infantiles.
+> **Nota.** El numeral 5 letra a, de la Ley 20832, Educación, publicada el 05.05.2015, eliminó el inciso penúltimo de este artículo.
 
 ## Título III
 
