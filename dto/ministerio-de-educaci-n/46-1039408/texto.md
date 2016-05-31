@@ -134,6 +134,12 @@ Para la ejecución de esta línea, se podrán financiar convenios con institucio
 
 Se incluyen en esta línea, entre otros, actividades de diagnóstico, estudios y proyectos sobre la infraestructura de las edificaciones existentes de los Centros de Formación Técnica, desarrollo de diseños de arquitectura y especialidades, así como la revisión de los antecedentes técnicos, legales y regularización de títulos de dominio de dichos centros.
 
+5. Mejorar la gestión de la Educación Municipal.
+
+Esta línea tiene como objetivo contribuir en la mejora de la gestión de los equipos de educación municipal, tanto departamentos de educación como corporaciones municipales, a través de un acompañamiento y asesoramiento efectivo, en ámbitos técnico-pedagógicos y administrativo-financieros, lo cual permitirá mejorar la calidad de la educación de los establecimientos educacionales.
+
+Para la ejecución de esta línea, se podrán financiar convenios con instituciones públicas y/o privadas.
+
 #### Artículo 3º
 
 Convenios de colaboración y transferencia.
