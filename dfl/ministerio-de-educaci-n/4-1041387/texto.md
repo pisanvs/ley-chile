@@ -10,23 +10,19 @@ Decreto con fuerza de ley:
 
 Fíjase la siguiente planta de personal de la Superintendencia de Educación, en adelante la Superintendencia:
 
-Jefe Superior de Servicio, Primer Nivel Jerárquico, Título VI de la ley N° 19.882.
+1.- PLANTA DE DIRECTIVOS
 
-Directivos, Segundo Nivel Jerárquico, Título VI de la ley N° 19.882.
+1.1.- Jefe Superior de Servicio, Primer Nivel Jerárquico, Título VI de la ley Nº 19.882.
 
-Directivos afectos al artículo 8º del DFL N° 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.
+.
 
-Planta de Profesionales:
+1.2.- Directivos, Segundo Nivel Jerárquico, Título VI de la ley Nº 19.882.
 
-Planta de Fiscalizadores:
+.
 
-Planta de Técnicos:
+1.3.- Directivos afectos al artículo 8º del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo
 
-Planta de Administrativos:
-
-Planta de Auxiliares:
-
-> **Nota.** El artículo 9 de la Ley 20835, Educación, publicada el 05.05.2015, modifica la presente norma en el sentido de crear en la planta de personal de la Superintendencia de Educación un cargo de "Intendente de Educación Parvularia", directivo afecto al segundo nivel jerárquico a que se refiere el Título VI de la ley Nº 19.882, grado 2.
+.
 
 #### Artículo 2°
 
@@ -42,7 +38,7 @@ Título profesional de una carrera de, a lo menos, 10 semestres de duración, ot
 
 II.- Directivos Segundo Nivel Jerárquico. Título VI de la ley Nº 19.882.
 
-a. Jefes de División.
+a. Jefes de División e Intendente de Educación Parvularia.
 
 Contar con:
 
@@ -98,17 +94,27 @@ b) Título profesional de una carrera de, a lo menos, 8 semestres de duración, 
 
 V.- Planta de Fiscalizadores.
 
-Grados 10º, 11°, 12° y 13º, contar alternativamente con:
+Grados 10º, 11º y 12º, contar alternativamente con:
 
-a) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
+a) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
 
-b) Título Técnico de Nivel Superior o su equivalente otorgado por un establecimiento de educación superior del Estado o reconocido por este y acreditar una experiencia laboral como técnico de nivel superior no inferior a seis años en el sector público o privado.
+b) Título técnico de nivel superior o su equivalente otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar una experiencia laboral como técnico de nivel superior no inferior a seis años en el sector público o privado.
 
-Grados, 14º, 15° y 16º, contar alternativamente con:
+Grado 13º, contar alternativamente con:
 
-a) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+a) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
 
-b) Título Técnico de Nivel Superior o su equivalente otorgado por un establecimiento de educación superior del Estado o reconocido por este y acreditar una experiencia laboral como técnico de nivel superior no inferior a cinco años en el sector público o privado.
+b) Título técnico de nivel superior o su equivalente otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar una experiencia laboral como técnico de nivel superior no inferior a seis años en el sector público o privado.
+
+c) Haber sido traspasado en virtud de la ley Nº 20.529, mediante el decreto supremo Nº 338, de 2012, del Ministerio de Educación, proveniente de los cargos de los estamentos administrativos, técnicos o directivos del Ministerio de Educación, y que en virtud de dicho decreto haya sido encasillado en un cargo de titular en la planta de fiscalizadores de la Superintendencia de Educación o traspasado a un cargo a contrata asimilado a dicha planta o haya sido encasillado en un cargo de titular en la planta de técnicos o administrativos de esa Superintendencia. Además, quienes hayan sido encasillados en la planta de técnicos y administrativos deberán haber sido traspasados a contrata asimilada a la planta de fiscalizadores por el referido decreto.
+
+Grados 14°, 15° y 16°, contar alternativamente con:
+
+a) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+
+b) Título técnico de nivel superior o su equivalente otorgado por un establecimiento de educación superior del Estado o reconocido por éste y acreditar una experiencia laboral como técnico de nivel superior no inferior a cinco años en el sector público o privado.
+
+c) Haber sido traspasado en virtud de la ley Nº 20.529, mediante el decreto supremo Nº 338, de 2012, del Ministerio de Educación, proveniente de los cargos de los estamentos administrativos, técnicos o directivos del Ministerio de Educación, y que en virtud de dicho decreto haya sido encasillado en un cargo de titular en la planta de fiscalizadores de la Superintendencia de Educación o traspasado a un cargo a contrata asimilado a dicha planta o haya sido encasillado en un cargo de titular en la planta de técnicos o administrativos de esa Superintendencia. Además, quienes hayan sido encasillados en la planta de técnicos y administrativos deberán haber sido traspasados a contrata asimilada a la planta de fiscalizadores por el referido decreto.
 
 VI.- Planta Técnicos.
 
