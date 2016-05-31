@@ -26,6 +26,8 @@ Apruébase el siguiente plan de estudio para 3º y 4º año medio de formación 
 
 .
 
+* Para aquellos establecimientos educacionales sin JEC, las horas de Libre Disposición se reducen a 2 horas semanales, permaneciendo las horas de Formación General y Formación Diferenciada en igual cantidad que para los establecimientos educacionales con JEC.
+
 #### Artículo 2º
 
 <!-- parte:9633479 -->
@@ -95,6 +97,10 @@ Apruébanse los programas de estudio para 3º y 4º año medio de formación dif
 31. Tripulación de Naves Mercantes y Especiales.
 
 32. Vestuario y Confección Textil.
+
+33.- Atención de Párvulos.
+
+34.- Atención de Enfermería.
 
 #### Artículo 3º
 
