@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 183 de 5 de mayo de 2016, se modificó el numeral segundo del Decreto MOP (Exento) N° 2606 de 31 de octubre de 2012, que ordenó la expropiación, entre otros, del Lote N° 108, en la parte que se refiere al nombre del propietario según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 108, RIQUELME MONTENO CELINDA DEL CARMEN, superficie 113,13 m2., rol de avalúo 3721-16, Comuna de Talca. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
