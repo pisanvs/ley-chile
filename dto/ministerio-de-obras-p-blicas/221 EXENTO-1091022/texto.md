@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 221 de 17 de mayo de 2016, se tuvo por desistida la expropiación del lote de terreno N° 117 para la obra: "Proyecto: Camino Internacional Ruta 60 CH. Sector 1: Km. 0.000,00 al Km. 53.779,50. Tramo 2: Km. 19.500,00 al Km. 46.100,00", ordenada por Decreto Exento MOP N° 1019 de 31 de mayo de 2011. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
