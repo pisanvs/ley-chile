@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 223 de 17 de mayo de 2016, se modificó el numeral segundo del Decreto MOP (Exento) N° 2099 de 22 de noviembre de 2013, que ordenó la expropiación del Lote N° 131, en la parte que se refiere al nombre del propietario y rol de avalúo según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 131, SOZA ANDRADES JUAN FRANCISCO, superficie 68,77 m2., rol de avalúo 3722-9, Comuna de Talca. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
