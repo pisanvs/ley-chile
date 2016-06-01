@@ -768,6 +768,20 @@ Una ley establecerá la naturaleza y las formas de asignación, división, trans
 
 Los actos administrativos que se dicten por los Ministerios o servicios para la ejecución o implementación de normas de calidad, emisión y planes de prevención o descontaminación, señalados en tales instrumentos, deberán contar siempre con informe previo del Ministerio del Medio Ambiente.
 
+### Párrafo 6° — bis
+
+De la certificación, rotulación y etiquetado
+
+#### Artículo 48 ter
+
+Corresponderá al Ministerio del Medio Ambiente otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que sean voluntariamente solicitados y cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de acuerdo a los requisitos que establezca el reglamento.
+
+Asimismo, el reglamento deberá determinar el procedimiento al cual se sujetará el otorgamiento de los certificados, rótulos y etiquetas. El Ministerio podrá encomendar a entidades técnicas la verificación del cumplimiento de los requisitos que señale el reglamento. La acreditación, autorización y control de dichas entidades se regirá por lo dispuesto en el reglamento a que hace referencia el artículo 3º, letra c), de la Ley Orgánica de la Superintendencia del Medio Ambiente.
+
+Dicha Superintendencia será la encargada de fiscalizar el debido cumplimiento de las disposiciones de que trata este artículo.
+
+La infracción de esta normativa será sancionada de conformidad a lo dispuesto en el Título III de la ley orgánica de la Superintendencia del Medio Ambiente, encontrándose ésta facultada, además, para revocar el certificado, rótulo o etiqueta como sanción. Sin perjuicio de lo anterior, la falsificación o utilización maliciosa de los certificados, rótulos o etiquetas será sancionada según lo establecido en los artículos 193, 194 y 196, según corresponda, del Código Penal.
+
 ### Párrafo 7°
 
 Del procedimiento de reclamo
@@ -963,6 +977,8 @@ r) Establecer convenios de colaboración con gobiernos regionales y municipalida
 s) Participar en el procedimiento de evaluación ambiental estratégica de las políticas y planes que promuevan los diversos órganos de la Administración de conformidad a lo señalado en la presente ley.
 
 t) Generar y recopilar la información técnica y científica precisa para la prevención de la contaminación y la calidad ambiental, en particular lo referente a las tecnologías, la producción, gestión y transferencias de residuos, la contaminación atmosférica y el impacto ambiental.
+
+t bis) Otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, en conformidad a la ley.
 
 u) Administrar la información de los programas de monitoreo de calidad del aire, agua y suelo, proporcionada por los organismos competentes, cuando corresponda.
 
@@ -1175,6 +1191,8 @@ d) Las herencias y legados que acepte, lo que deberá hacer con beneficio de inv
 Los proyectos serán calificados por una Comisión presidida por el Intendente e integrada por los Secretarios Regionales Ministeriales del Medio Ambiente, de Salud, de Economía, Fomento y Reconstrucción, de Energía, de Obras Públicas, de Agricultura, de Vivienda y Urbanismo, de Transportes y Telecomunicaciones, de Minería, y de Planificación, y el Director Regional del Servicio, quien actuará como secretario.
 
 Las Direcciones Regionales de Evaluación Ambiental conformarán un comité técnico integrado por el Secretario Regional Ministerial del Medio Ambiente, quien lo presidirá, y el Director Regional de Evaluación Ambiental, los directores regionales de los servicios públicos que tengan competencia en materia del medio ambiente, incluido el Gobernador Marítimo correspondiente, y el Consejo de Monumentos Nacionales. Este comité elaborará un acta de evaluación de cada proyecto la que será de libre acceso a los interesados.
+
+> **Nota.** El Artículo Único de la Ley 20473, publicada el 13.11.2010, otorga, transitoriamente, las facultades fiscalizadoras y sancionadoras que indica a la comisión señalada en el presente Artículo.
 
 #### Artículo 87
 
