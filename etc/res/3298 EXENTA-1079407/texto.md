@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 11 de julio de 2015 y hasta el 30 de abril de 2016, por Av. Vicuña Mackenna en los tramos que se indican:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 11 de julio de 2015 y hasta el 28 de noviembre de 2016, por Av. Vicuña Mackenna en los tramos que se indican:
 
 .
 
@@ -31,5 +31,7 @@ Podrán circular, además, en la referida vía exclusiva, los vehículos de emer
 3.- La referida vía exclusiva se encontrará debidamente señalizada de conformidad con el Manual de Señalización de Tránsito.
 
 4.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL Nº 1, de 2007, citado en Vistos.
+
+> **Nota.** El literal ii) de la letra a) del número 1 de la Resolución 2807 Exenta, Transportes, publicada 02.06.2016, modifica la presente norma en el sentido de sustituir en el cuadro inserto las expresiones "Santa Elena" y "Juan Mitjans" por la expresión: "Celia Solar".
 
 Anótese y publíquese.- Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
