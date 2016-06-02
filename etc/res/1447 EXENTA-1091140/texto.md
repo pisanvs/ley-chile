@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.447 EXENTA, DE 2016 , QUE APRUEBA PROGRAMA DE ENSEÑANZA PARA OBTENCIÓN CLASE B A ESCUELA DE CONDUCTORES NO PROFESIONALES "EVOLUTION"
+
+Por resolución exenta N° 1.447, de fecha 17 de mayo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Evolution", cuyo propietario y director es don Javier Valenzuela Durán, la que tendrá su lugar de funcionamiento en calle San Ignacio N° 575, comuna de Valparaíso. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas y 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Mauricio Candia Llancas, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Valparaíso.
