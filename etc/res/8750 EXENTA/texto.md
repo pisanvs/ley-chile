@@ -16,8 +16,6 @@ Resolución:
 
 1º.- Modifícase la resolución exenta Nº6.324, de este Ministerio, de 2014, y sus modificaciones, en el sentido de sustituir la tabla inserta en su número 2º por la siguiente, fijándose un nuevo monto de Unidades de Fomento que se destinarán al financiamiento del subsidio directo y una nueva distribución de recursos por Título, Región, tramo y alternativa de postulación, de la que resulta la siguiente distribución del monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados:
 
-.
-
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al tercer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1, de este Ministerio, de 2011, Título I, tramos 1 y 2, y Título II, dispuesto en el número 1º de la resolución exenta Nº 6.324 y sus modificaciones, también de este Ministerio, de 2014, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región, tramo y alternativa de postulación, según se indica en la siguiente tabla:
 
 3º.- Déjanse sin efecto las 1.151 solicitudes de postulación para el tercer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1, de este Ministerio, de 2011, efectuado por el número 1º de la resolución exenta Nº 6.324 y sus modificaciones, también de este Ministerio, de 2014, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
