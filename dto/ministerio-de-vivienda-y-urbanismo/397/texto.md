@@ -42,25 +42,23 @@ f) Velar por el estricto cumplimiento por parte del SERVIU de los planes, progra
 
 g) En general, dar cumplimiento a las tareas que les encomienden las leyes y los reglamentos vigentes.
 
-#### Artículo 3º
+#### Artículo 3°
 
-Las SecretarÌas Regionales Ministeriales de Vivienda y Urbanismo estarán constituidas por un Secretario Ministerial, que será su jefe, y los siguientes Departamentos:
+Las Secretarías Regionales Ministeriales de Vivienda y Urbanismo estarán constituidas por un Secretario Ministerial, que será su jefe, y las siguientes unidades:
 
-a) De Planes y Programas de Vivienda;
+a) Departamento de Planes y Programas de Vivienda y Equipamiento;
 
-b) De Desarrollo Urbano;
+b) Departamento de Desarrollo Urbano e Infraestructura;
 
-c) De Planes y Programas de Ciudad;
+c) Sección Jurídica;
 
-d) Jurídico;
+d) Sección de Administración y Finanzas;
 
-e) De Administración;
+e) Sección de Coordinación Provincial y Comunal;
 
-f) De Coordinación Provincial y Comunal;
+f) Sección de Difusión y Relaciones Públicas; y
 
-g) De Difusión y Relaciones Públicas, y
-
-h) De Auditoría Interna Regional.
+g) Sección de Auditoría Interna Regional.
 
 ### Párrafo 2°
 
@@ -78,7 +76,7 @@ A cada Secretario Ministerial de Vivienda y Urbanismo, en su jurisdicción, le c
 
 a) Integrar las diferentes comisiones en que al Ministerio le corresponda estar representado a nivel de su región, y convocar y presidir las que se deban formar con participación de la Secretaría y del SERVIU;
 
-b) Constituir y presidir, para el estudio y análisis en común de la actividad del sector, una Comisión de Asesoría y Coordinación que se integrará con el Director del SERVIU, que la presidirá en ausencia del Secretario Ministerial, y con los Jefes de los Departamentos de Planes y Programas de Vivienda, de Desarrollo Urbano, y de Planes y Programas de Ciudad de la Secretaría Ministerial, y con los Jefes de los Departamentos Técnicos de Construcciones y Urbanización, de Proyectos de Ciudad, de Operaciones Habitacionales y de Finanzas del Serviu.
+b) Constituir y presidir, para el estudio y análisis en común de la actividad del sector, una Comisión de Asesoría y Coordinación que se integrará con el Director del SERVIU, que la presidirá en ausencia del Secretario Ministerial, y con los Jefes del Departamento de Planes y Programas de Vivienda y Equipamiento y del Departamento Desarrollo Urbano e Infraestructura, ambos de la Secretaría Ministerial, y con los Jefes de los Departamentos Técnicos de Construcciones y Urbanización, de Operaciones Habitacionales y de Finanzas del Serviu.
 
 Dicha Comisión tendrá carácter permanente y deberá convocarse a lo menos una vez al mes, dejándose constancia en acta de sus deliberaciones. Corresponderá al Secretario Ministerial o al Director del SERVIU, en ausencia del primero, convocar a sesiones de la comisión referida.
 
@@ -148,59 +146,61 @@ Los Secretarios Ministeriales de Vivienda y Urbanismo podrán delegar sus atribu
 
 #### Artículo 9°
 
-En caso de ausencia o impedimento temporal, el Secretario Ministerial será subrogado por el Jefe del Departamento de Planes y Programas de Vivienda, por el Jefe del Departamento de Desarrollo Urbano y por el Jefe del Departamento de Planes y Programas de Ciudad, en el orden señalado.
+En caso de ausencia o impedimento temporal, el Secretario Ministerial será subrogado por el Jefe del Departamento de Planes y Programas de Vivienda y Equipamiento y por el Jefe del Departamento de Desarrollo Urbano e Infraestructura, en el orden señalado.
 
 ## Título II
 
-De los Departamentos de Trabajo
+De los Departamentos y Secciones de Trabajo
 
 ### Párrafo 1°
 
-Del Departamento de Planes y Programas de Vivienda
+Del Departamento de Planes y Programas de Vivienda y Equipamiento.
 
 #### Artículo 10
 
-El Departamento de Planes y Programas de Vivienda estará encargado preferentemente de colaborar con el Secretario Regional Ministerial en el ejercicio de las siguientes funciones:
+El Departamento de Planes y Programas de Vivienda y Equipamiento estará encargado preferentemente de colaborar con el Secretario Regional Ministerial en el ejercicio de las siguientes funciones:
 
 a) Evaluar la necesidad habitacional de la región a través de indicadores que permitan al Secretario Ministerial un balance permanente de los requerimientos reales, actuales y futuros, de vivienda y equipamiento;
 
-b) Preparar los antecedentes y estudios que permitan a la Secretaría Ministerial, con participación de las autoridades y organismos regionales, la planificación y programación para la ejecución de obras habitacionales, de conformidad a los recursos asignados a la región;
+b) Preparar los antecedentes y estudios que permitan a la Secretaría Ministerial, con participación de las autoridades y organismos regionales, la planificación y programación para la ejecución de obras, de conformidad a los recursos asignados a la región;
 
 c) Velar por el cumplimiento del reglamento en lo relativo a postulaciones y asignaciones de viviendas que deba realizar el SERVIU;
 
 ch) Informar al Secretario Ministerial sobre las reservas y distribución de viviendas que proponga el SERVIU para entidades públicas o privadas;
 
-d) Estudiar y proponer los programas financieros y sus prioridades para realizar los planes regionales en materia de vivienda;
+d) Estudiar y proponer los programas financieros y sus prioridades para realizar los planes regionales en materia de vivienda, equipamiento comunitario y urbanismo;
 
-e) Participar en la Confección del anteproyecto del Presupuesto Regional del ámbito vivienda;
+e) Participar en la Confección del anteproyecto del Presupuesto Regional;
 
-f) Analizar e informar al Secretario Ministerial el anteproyecto de Presupuesto Corriente y de Capital del SERVIU y la distribución o redistribución de las partidas del ámbito vivienda;
+f) Analizar e informar al Secretario Ministerial el anteproyecto de Presupuesto Corriente y de Capital del SERVIU y la distribución o redistribución de sus partidas;
 
-g) Conocer e informar sobre los ingresos del ámbito de la vivienda que perciban la Secretaría y el SERVIU;
+g) Conocer e informar sobre los ingresos que perciban la Secretaría y el SERVIU;
 
-h) Supervigilar la correcta ejecución presupuestaria del Sector en la región en el ámbito vivienda, conforme a los planes de inversión aprobados, informando al Secretario Ministerial;
+h) Supervigilar la correcta ejecución presupuestaria del Sector en la región, conforme a los planes de inversión aprobados, informando al Secretario Ministerial;
 
-i) Analizar e informar el Balance anual del ámbito vivienda del SERVIU en la región;
+i) Analizar e informar el Balance anual del SERVIU en la región;
 
-j) Proponer al Secretario Ministerial, para su información oportuna al Intendente, el plan anual de trabajo del ámbito vivienda del Sector;
+j) Proponer al Secretario Ministerial, para su información oportuna al Intendente, el plan anual de trabajo del Sector;
 
 k) Conocer los informes sobre el déficit habitacional que preparen los Comités Habitacionales Comunales, informando al Secretario Ministerial, para los efectos de otorgar aprobación a los planes de trabajo que presenten.
 
-Conocer e informar en conjunto con el Departamento de Desarrollo Urbano para la aprobación por el Secretario Ministerial, los acuerdos de los Consejos de dichos Comités, en lo relativo especialmente a expropiaciones, implementación de planes y programas, contratación de obras y de créditos, destino de fondos o bienes a otros comités, calificación de poblaciones en situación de emergencia, llamado a propuestas públicas o privadas, u otorgamiento de mandato para la ejecución de obras:
+Conocer e informar en conjunto con el Departamento de Desarrollo Urbano e Infraestructura para la aprobación por el Secretario Ministerial, los acuerdos de los Consejos de dichos Comités, en lo relativo especialmente a expropiaciones, implementación de planes y programas, contratación de obras y de créditos, destino de fondos o bienes a otros comités, calificación de poblaciones en situación de emergencia, llamado a propuestas públicas o privadas, u otorgamiento de mandato para la ejecución de obras:
 
 l) Analizar la distribución de fondos recaudados conforme al artículo 14° N° 2, del DL. N° 1.088, entre los Comités Habitacionales Comunales de la región, y cumplir las funciones que entrega a los Secretarios Ministeriales de Vivienda y Urbanismo, el decreto ley N° 1.519, de 1976, sobre Impuesto Habitacional;
 
-m) Supervigilar el cumplimiento de los programas de viviendas sociales en cuanto a plazos, avance de obras e inversión y;
+m) Supervigilar el cumplimiento de los programas de viviendas sociales en cuanto a plazos, avance de obras e inversión;
 
-n) En general, efectuar todos los estudios y acopio de antecedentes que permitan al Secretario Ministerial participar en la elaboración de los Planes y Programas del Sector del ámbito vivienda, velar por su cumplimiento y evaluar sus resultados, proponiendo las medidas e Instrucciones que sean necesarias para su materialización.
+n) Inscribir, calificar, autorizar, certificar y realizar todas las actuaciones, trámites y gestiones que permitan al Secretario Ministerial un acertado manejo del Registro de Contratistas y
+
+ñ) En general, efectuar todos los estudios y acopio de antecedentes que permitan al Secretario Ministerial participar en la elaboración de los Planes y Programas del Sector, velar por su cumplimiento y evaluar sus resultados, proponiendo las medidas e Instrucciones que sean necesarias para su materialización.
 
 ### Párrafo 2°
 
-Del Departamento de Desarrollo Urbano
+Del Departamento de Desarrollo Urbano e Infraestructura
 
 #### Artículo 11
 
-El Departamento de Desarrollo Urbano deberá colaborar con el Secretario Ministerial en todas las materias propias de su especialidad, para lo cual ejercerá las siguientes funciones:
+El Departamento de Desarrollo Urbano e Infraestructura deberá colaborar con el Secretario Ministerial en todas las materias propias de su especialidad, para lo cual ejercerá las siguientes funciones:
 
 a) Estudiar y proponer un Plan Regional de Desarrollo Urbano, teniendo presente las políticas nacionales y regionales de desarrollo económico, social y territorial;
 
@@ -264,53 +264,37 @@ _Resolver las reclamaciones relativas a permisos y recepciones de "viviendas eco
 
 _Resolver las apelaciones interpuestas por los afectados contra las resoluciones del Servicio de Impuestos Internos que privan de franquicias, beneficios y exenciones a las "viviendas económicas" que no mantengan los requisitos, características y demás condiciones que les confirieron tal calidad.
 
-j) Inscribir, calificar, autorizar, certificar y realizar todas las actuaciones, trámites y gestiones que permitan al Secretario Ministerial un acertado manejo del Registro de Contratistas.
+j) Efectuar la evaluación de la infraestructura sanitaria existente y de los recursos potenciales para su ampliación, dimensionando las posibilidades de crecimiento de las áreas urbanas.
+
+k) Efectuar la coordinación con el Servicio Fiscal a cargo del Agua Potable y Alcantarillado, a fin de relacionar sus programas de inversión con los planes de viviendas regionales.
+
+l) Definir los standards sanitarios regionales para la elaboración de los proyectos del sector vivienda.
+
+m) Efectuar los estudios de la vialidad urbana contenida en los Planes Reguladores, definiendo los proyectos de vías para su ejecución a través del SERVIU.
+
+n) Elaborar los planes de conservación de pavimentos, y
+
+ñ) Coordinar el enlace de la vialidad urbana con los proyectos de vialidad regional del Ministerio de Obras Públicas.
 
 ### Párrafo 2º — bis
 
-Del Departamento de Planes y Programas de Ciudad
+Del Departamento de Planes y Programas de Ciudad.- Derogado
 
 #### Artículo 11 bis
 
-El Departamento de Planes y Programas de Ciudad estará encargado de colaborar con el Secretario Ministerial, para lo cual ejercerá las siguientes funciones:
-
-a) Asesorar, informar, intervenir y consultar, a solicitud del Secretario Ministerial, en todo lo relativo a la gestión de la inversión de las obras de infraestructura urbana en la región;
-
-b) Proponer al Secretario Ministerial, en materias de inversión en obras de infraestructura urbana y previo informe del Serviu, el presupuesto anual de inversión, los programas financieros asociados y sus prioridades;
-
-c) Mantener una permanente relación con otros departamentos de la Seremi, con el Serviu, con el Minvu y con otras entidades u organismos del Estado, y realizar las gestiones necesarias para la concepción, formulación y ejecución de los programas de obras y proyectos de infraestructura urbana;
-
-d) Designar un profesional encargado de coordinar las acciones entre organismos regionales y del nivel central para el desarrollo de los proyectos urbanos en la región;
-
-e) Llevar a cabo, con el apoyo del Serviu, la formulación de proyectos de inversión de obras de infraestructura urbana y la obtención de las recomendaciones de inversión correspondientes;
-
-f) Supervigilar las gestiones que realice el Serviu para la identificación de recursos asociados a los programas de obras de infraestructura urbana en el presupuesto del Servicio;
-
-g) Supervigilar al Serviu en la redacción y preparación de bases de licitación y términos de referencia para la contratación de servicios asociados a la implementación de planes y programas de infraestructura urbana, integrando a sus miembros en las comisiones de evaluación y técnicas correspondientes;
-
-h) Realizar la coordinación con los organismos correspondientes para el financiamiento y la ejecución de las obras de vialidad urbana contenida en los instrumentos de planificación;
-
-i) Monitorear, a solicitud del Secretario Ministerial, el avance físico y financiero de la cartera de proyectos de inversión en programas de obras y proyectos de infraestructura urbana y elaborar los informes y evaluaciones correspondientes;
-
-j) Supervigilar al Serviu en la formulación y cumplimiento de presupuestos y cronogramas asociados al avance físico y financiero de los programas de obras y proyectos de infraestructura urbana;
-
-k) Velar por la realización de todas aquellas gestiones destinadas a la obtención de las autorizaciones necesarias para la correcta ejecución de los estudios, diseños y obras asociados a programas de infraestructura urbana;
-
-l) Preparar los programas de adquisición de terrenos y emitir los informes favorables a las expropiaciones que proponga el Serviu, conforme a lo dispuesto en el inciso segundo del artículo 51º de la ley 16.391, asociados a los proyectos de obras de infraestructura;
-
-m) Proponer modificaciones a las leyes, reglamentos o normativas asociadas al desarrollo de programas de obras y proyectos de infraestructura urbana.
+Derogado
 
 ### Párrafo 3°
 
-Del Departamento Jurídico
+De la Sección Jurídica
 
 #### Artículo 12°
 
-Al Departamento Jurídico le corresponderá:
+A la Sección Jurídica le corresponderá:
 
 a) Velar por el cumplimiento de las leyes y reglamentos vigentes, dependiendo técnicamente de la División Jurídica del Ministerio de Vivienda y Urbanismo, sin perjuicio de las facultades de la Contraloría General de la República.
 
-b) Asesorar al Secretario Regional Ministerial y a los demás Departamentos de la Secretaría en materias de derecho.
+b) Asesorar al Secretario Regional Ministerial y a los Departamentos y Secciones de la Secretaría en materias de derecho.
 
 c) Formular al Departamento Jurídico del SERVIU las sugerencias que tiendan a la uniformidad de procedimientos y criterios jurídicos.
 
@@ -324,11 +308,11 @@ g) En general, asesorar, informar, intervenir y consultar, a solicitud del Secre
 
 ### Párrafo 4°
 
-Del Departamento de Administración
+De la Sección de Administración y Finanzas
 
 #### Artículo 13°
 
-Corresponderá al Departamento de Administración:
+Corresponderá a la Sección de Administración y Finanzas:
 
 a) Cumplir, a nivel regional, la política de administración general y de gestión de personal determinada por el Ministerio;
 
@@ -354,11 +338,11 @@ k) En general, adoptar todas las medidas que sean necesarias para un mejor manej
 
 ### Párrafo 5°
 
-Del Departamento de Difusión y Relaciones Públicas
+De la Sección de Difusión y Relaciones Públicas
 
 #### Artículo 14°
 
-Al Departamento de Difusión y Relaciones Públicas le corresponderá:
+A la Sección de Difusión y Relaciones Públicas le corresponderá:
 
 a) Asesorar a la Secretaría en sus relaciones con los demás servicios de la región y con la comunidad;
 
@@ -370,23 +354,23 @@ d) Preparar los actos públicos en que deba intervenir la Secretaría o los orga
 
 ### Párrafo 6°
 
-Del Departamento de Coordinación Provincial y Comunal
+De la Sección de Coordinación Provincial y Comunal
 
 #### Artículo 15°
 
-El Departamento de Coordinación Provincial y Comunal asesorará a la Secretaría, velando por la mejor vinculación y coordinación de sus Departamentos con el SERVIU y con los demás servicios de la Administración, sea que ellos tengan jurisdicción regional, provincial o comunal y, en general, con todos los organismos regionales.
+La Sección de Coordinación Provincial y Comunal asesorará a la Secretaría, velando por la mejor vinculación y coordinación de sus Unidades con el SERVIU y con los demás servicios de la Administración, sea que ellos tengan jurisdicción regional, provincial o comunal y, en general, con todos los organismos regionales.
 
 ### Párrafo 7º
 
-Del Departamento de Auditoría Interna Regional
+De la Sección de Auditoría Interna Regional
 
 #### Artículo 16º
 
-La misión del Departamento de Auditoría Interna Regional será, en general, prestar apoyo y asesorar al Secretario Regional Ministerial, en su ámbito de competencia, en la supervisión, fiscalización, control y evaluación en materias de orden administrativo, contable y financiero.
+La misión de la Sección de Auditoría Interna Regional será, en general, prestar apoyo y asesorar al Secretario Regional Ministerial, en su ámbito de competencia, en la supervisión, fiscalización, control y evaluación en materias de orden administrativo, contable y financiero.
 
-El Departamento de Auditoría Interna Regional dependerá del Secretario Regional Ministerial y coordinará su acción con el nivel central a través del Departamento de Auditoría Interna Ministerial.
+La Sección de Auditoría Interna Regional dependerá del Secretario Regional Ministerial y coordinará su acción con el nivel central a través del Departamento de Auditoría Interna Ministerial.
 
-Corresponderá en especial al Departamento de Auditoría Interna Regional, en el ámbito de su respectivo territorio jurisdiccional, las funciones que a continuación se señalan, sin que esta enunciación tenga carácter taxativo:
+Corresponderá en especial a la Sección de Auditoría Interna Regional, en el ámbito de su respectivo territorio jurisdiccional, las funciones que a continuación se señalan, sin que esta enunciación tenga carácter taxativo:
 
 a) Aplicar el Plan Anual Nacional de Auditoría aprobado por el Subsecretario de Vivienda y Urbanismo;
 
@@ -396,9 +380,9 @@ c) Promover la existencia de sistemas de control interno a nivel regional, en la
 
 d) Formular recomendaciones al Secretario Regional Ministerial para los efectos de mejorar los sistemas de control, procedimientos y normas, en materia de Auditoría Interna a nivel regional, verificando su implementación, cuando corresponda;
 
-e) Mantener una nómina y control de los reparos formulados por la Contraloría General de la República o por la Contraloría Regional sobre materias de orden presupuestario, financiero, contable o informático, informando al Secretario Regional Ministerial acerca de las acciones que adopten las unidades competentes para subsanarlos.
+e) Mantener una nómina y control de los reparos formulados por la Contraloría General de la República o por la Contraloría Regional sobre materias de orden presupuestario, financiero, contable o informático, informando al Secretario Regional Ministerial acerca de las acciones que adopten los Departamentos y Secciones competentes para subsanarlos.
 
-Los informes u observaciones que emita el Departamento de Auditoría Interna Regional en el ejercicio de sus funciones, se entregarán exclusivamente al Secretario Regional Ministerial y al Departamento de Auditoría Interna Ministerial.
+Los informes u observaciones que emita a la Sección de Auditoría Interna Regional en el ejercicio de sus funciones, se entregarán exclusivamente al Secretario Regional Ministerial y al Departamento de Auditoría Interna Ministerial.
 
 Anótese, tómese razón, publiquese e insértese en la Recopilación de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Carlos Granifo Harms, Ministro de Vivienda y Urbanismo.
 
