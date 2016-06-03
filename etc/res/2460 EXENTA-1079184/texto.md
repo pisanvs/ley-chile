@@ -74,7 +74,7 @@ Para la materialización de las inversiones en dichos instrumentos financieros, 
 
 2.3. Las inversiones que se realicen respecto de cada uno de los Fondos que administra la Caja, no podrán significar la postergación de los beneficios y pagos legales.
 
-2.4. Para evaluar cada inversión se consultarán a lo menos 10 cotizaciones. Sin embargo, el mínimo de cotizaciones acordadas podrá ser menor a las dispuestas, si las condiciones del mercado no permiten su cumplimiento.
+2.4. Para evaluar cada inversión, se consultarán, a lo menos, siete cotizaciones. Sin embargo, el mínimo de cotizaciones podrá ser menor a las dispuestas, si las condiciones del mercado no permiten su cumplimiento en el siguiente sentido:
 
 2.5 El Vicepresidente Ejecutivo deberá informar al Honorable Consejo respecto a las inversiones realizadas, para su ratificación y orientaciones o políticas futuras a seguir. Para tal efecto acompañará la respectiva Acta de Fiscalización de la División o Departamento encargado de la Auditoría Interna.
 
@@ -89,5 +89,7 @@ En el caso del personal en servicio activo de las Fuerzas Armadas, el delegado a
 6. Aprobar las transacciones judiciales y extrajudiciales de la Caja que no excedan de 1.000 Unidades Tributarias Mensuales.
 
 La presente delegación regirá a contar del 1º de julio de 2015, hasta el 30 de junio de 2017, sin perjuicio de la facultad del Honorable Consejo de revocarla, total o parcialmente, cuando lo estime pertinente y de la obligación del Vicepresidente Ejecutivo de dar cuenta de los actos ejecutados en virtud de ella.
+
+> **Nota.** El numeral 2.4 de la presente norma ha sido actualizado de la manera en que ha sido publicado.
 
 Anótese, publíquese y archívese.- Cristián Rojas Gruzmacher, Vicepresidente Ejecutivo.
