@@ -302,6 +302,8 @@ CRITERIO 12: AUTORREGULACIÓN Y MEJORAMIENTO CONTINUO.
 
 Los Criterios de Evaluación para la Acreditación de Carreras Profesionales, Carreras Profesionales con Licenciatura y Programas de Licenciatura, descritos en la presente resolución entrarán a regir una vez transcurridos doce meses contados desde la publicación de la presente resolución en el Diario Oficial, fecha a partir de la cual se entenderán derogados los Criterios Generales de Evaluación para Carreras Profesionales y los Criterios Generales de Evaluación para Licenciaturas.
 
+Sin perjuicio de lo anterior, en los procesos de acreditación de las carreras de pedagogía cuya acreditación, de acuerdo a la ley 20.903, sólo puede ser otorgada por la Comisión Nacional de Acreditación, y respecto de los cuales se entregue el informe de autoevaluación durante el año 2016, se podrá utilizar, a elección de la institución, los nuevos criterios descritos en esta resolución, o los Criterios de Evaluación de Carreras de Educación.
+
 #### Artículo primero
 
 transitorio: Los Criterios de Evaluación Específicos de carreras o programas que por acuerdo de la Comisión no hubiesen sido sustituidos, dentro del periodo de tiempo de doce meses consignados en el Artículo Segundo, se mantendrán vigentes aunque sujetos a las condiciones generales definidas en los presentes criterios en todo aquello que los modifique, supla o complemente.
