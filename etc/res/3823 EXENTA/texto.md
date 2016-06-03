@@ -348,11 +348,25 @@ sean necesarias para la correcta ejecución del proyecto.
 
 iii. Proyecto de mitigaciones de riesgo, si corresponde.
 
-iv. Contrato de Construcción en formato tipo provisto por el SERVIU,
+iv. Contrato de Construcción en formato tipo provisto por el Serviu,
 
 entre la familia y la empresa constructora, pudiendo agruparse
 
 familias integrantes del mismo territorio en un solo contrato.
+
+En el caso de los proyectos regulados por el DS N° 49 (V. y U.),
+
+de 2011, a desarrollarse en la Región de Atacama, el
+
+contratista estará eximido de lo establecido en el inciso
+
+séptimo del artículo 29 de dicho decreto, respecto a estar
+
+inscrito en el Registro Nacional de Contratistas del Ministerio
+
+de Vivienda y Urbanismo o en el Registro Nacional de
+
+Constructores de Viviendas Sociales, Modalidad Privada.
 
 h) Las obras de construcción deberán iniciarse a más tardar en 15 días corridos después de la fecha de otorgado el Permiso de Edificación.
 
