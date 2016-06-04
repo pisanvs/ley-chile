@@ -62,7 +62,7 @@ Para postular como beneficiarios del Programa, en cualquiera de las líneas, los
 
 a. Tener 60 años o más;
 
-b. Contar con Ficha de Protección Social;
+b. Contar con Registro Social de Hogares;
 
 c. Pertenecer al quintil I, II o III de acuerdo al puntaje de Carencia Habitacional (Rukan), correspondiente a la plataforma informática del Ministerio de Vivienda y Urbanismo, la cual contiene, entre otras aplicaciones, una base de datos histórica con la población beneficiaria de sus programas;
 
@@ -110,7 +110,7 @@ Sin embargo, durante la etapa de evaluación de los antecedentes, el Servicio po
 
 El Servicio seleccionará a los postulantes a cada línea del programa según estricto orden de puntaje y de acuerdo a los cupos disponibles con los que cuente para cada una de ellas.
 
-Los criterios de selección serán el puntaje ficha de protección social, el puntaje de carencia habitacional, las necesidades de apoyos y los cuidados para la realización de actividades de la vida diaria, la disponibilidad de apoyos, el nivel de dependencia, la existencia de red social o familiar, presentar situación de maltrato y salud compatible con el programa, lo que será determinado en las bases de cada concurso.
+Los criterios de selección serán la información que se desprenda por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, el puntaje de carencia habitacional, las necesidades de apoyos y los cuidados para la realización de actividades de la vida diaria, la disponibilidad de apoyos, el nivel de dependencia, la existencia de red social o familiar, presentar situación de maltrato y salud compatible con el programa, lo que será determinado en las bases de cada concurso.
 
 ## Título IV
 
