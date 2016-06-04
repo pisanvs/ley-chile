@@ -44,33 +44,39 @@ d) Un representante de asociación de sostenedores de establecimientos particula
 
 e) Un representante de asociación de sostenedores de establecimientos particulares pagados.
 
-f) Un representante de asociación de padres y apoderados.
+f) Un representante de asociación de sostenedores de jardines infantiles.
 
-g) Un representante de asociación de profesores.
+g) Un representante de asociación de padres y apoderados.
 
-h) Un representante de asociación de asistentes de la educación.
+h) Un representante de asociación de profesores.
 
-i) Un representante de asociación de estudiantes de educación media.
+i) Un representante de asociación de asistentes de la educación.
 
-j) Dos representantes de otras asociaciones sin fines de lucro que no sean de las señaladas anteriormente, que estén relacionados con el tema de educación y que manifiesten interés en participar.
+j) Un representante de asociación de educadoras de párvulos.
+
+k) Un representante de asociación de estudiantes de educación media.
+
+l) Cuatro representantes de otras asociaciones sin fines de lucro que no sean de las señaladas anteriormente, que estén relacionados con el tema de educación y que manifiesten su interés en participar.
 
 #### Artículo 4º
 
-Designación de integrantes. El Director Ejecutivo y el Secretario serán designados por el Superintendente de Educación, mediante la correspondiente resolución.
+Designación de Integrantes. El Director Ejecutivo y el Secretario serán designados por el Superintendente de Educación, mediante la correspondiente resolución.
 
-La designación del resto de los consejeros se realizará conforme el siguiente procedimiento.
+La designación del resto de los consejeros se realizará conforme al siguiente procedimiento:
 
-I) La Superintendencia de Educación habilitará en su página web, durante el mes de octubre del año que corresponda, un formulario de inscripción.
+### I. La Superintendencia de Educación habilitará en su página web un formulario de inscripción
 
-II) Podrán inscribirse todas las asociaciones sin fines de lucro de todo el país, que se encuentren inscritas en el Registro Nacional de personas jurídicas sin fines de lucro del Servicio de Registro Civil e Identificación, acompañando el certificado de vigencia respectivo, y el certificado de la composición de los órganos de dirección y administración que otorga el Registro Civil, con un máximo de 1 mes de antigüedad.
+II. Podrán inscribirse todas las agrupaciones o asociaciones sin fines de lucro de todo el país, que se encuentren inscritas en el Registro nacional de personas jurídicas sin fines de lucro del Registro Civil e Identificación, acompañando el certificado de vigencia respectivo con la nómina del directorio, con un máximo de 60 días de antigüedad a la fecha de presentación o que no estando inscritas, acrediten debidamente su organización y representatividad.
 
-III) Durante el mes de noviembre, cada dos años, la Superintendencia de Educación publicará en su página web la fecha y el lugar en que se realizará el sorteo, a través del cual se seleccionará, entre las organizaciones que manifiesten su interés en integrar el Consejo según el procedimiento indicado, a los consejeros para los próximos dos años escolares. Todas las personas que hubieran manifestado su interés en integrar el Consejo según el procedimiento indicado, podrán asistir al sorteo.
+III. La Superintendencia de Educación publicará en su página web la fecha y lugar en que se realizará el sorteo, a través del cual se seleccionará, entre las organizaciones que manifiesten su interés en integrar el Consejo según el procedimiento indicado, a los consejeros para los próximos dos años escolares. Todas las organizaciones que hubieran manifestado su interés de integrar el Consejo según el procedimiento indicado, podrán asistir al sorteo.
 
-IV) La resolución de la Superintendencia de Educación que señale a las instituciones seleccionadas, se publicará en la página web institucional y se notificará a los interesados vía correo electrónico o carta certificada. Las instituciones seleccionadas tendrán que manifestar la aceptación del cargo formalmente y designar a su representante, mediante documento dirigido al Secretario del Consejo, firmado por la persona que figura en el certificado respectivo como presidente, secretario o administrador dentro del plazo de 30 días hábiles. En caso que alguna de las instituciones seleccionadas no cumpla con este trámite, dentro de los 5 días hábiles siguientes, el Secretario citará a un nuevo sorteo el que se realizará dentro del plazo de 15 días hábiles, contados desde la fecha de citación, con la participación de los inscritos no seleccionados, si los hubiere.
+IV. La resolución de la Superintendencia de Educación que señale a las instituciones seleccionadas, se publicará en la página web institucional y se notificará a los interesados vía correo electrónico o carta certificada. Las instituciones seleccionadas tendrán que manifestar la aceptación al cargo y designar a su representante, mediante documento dirigido al Secretario del Consejo, firmado por el presidente, secretario o administrador, dentro del plazo de 30 días hábiles. En caso de que alguna de las instituciones seleccionadas no cumpla con este trámite, dentro de los 5 días hábiles siguientes, el Secretario citará a un nuevo sorteo, el que se realizará dentro del plazo de 15 días hábiles, contados desde la fecha de citación, con la participación de los inscritos no seleccionados, si los hubiere.
 
 #### Artículo 5º
 
-Duración y renovación. La totalidad de los consejeros miembros se renovará cada 2 años, a través del mismo procedimiento señalado en los artículos precedentes, a excepción del Director y Secretario quienes, permanecerán en sus cargos en tanto hayan cumplido con las labores asignadas y cuenten con la confianza del Superintendente de Educación.
+Duración y renovación. La totalidad de los consejeros miembros se renovará cada 2 años, a través del mismo procedimiento señalado en los artículos precedentes, a excepción del Director y el Secretario quienes permanecerán en sus cargos en tanto hayan cumplido con las labores asignadas y cuenten con la confianza del Superintendente de Educación.
+
+Un mes antes del término del periodo de ejercicio de los consejeros, el Secretario convocará a elección de consejeros, mediante una publicación en la página web institucional, fijando un plazo determinado para la inscripción de las organizaciones que manifiesten su interés en participar en el Consejo. En caso de no presentarse suficientes candidatos para integrar el Consejo de la Sociedad Civil, se procederá a una nueva convocatoria.
 
 #### Artículo 6º
 
@@ -94,9 +100,9 @@ En estos casos, si la vacancia se produce faltando a una o más sesiones ordinar
 
 #### Artículo 8º
 
-Sesiones. El Consejo sesionará de forma ordinaria con una periodicidad trimestral.
+Sesiones. El Consejo sesionará de forma ordinaria con una periodicidad trimestral. El Secretario del Consejo deberá convocar y citar a sesión ordinaria a cada consejero, con al menos 10 días de anticipación, indicando la fecha y lugar de la realización de la mencionada sesión, mediante correo electrónico registrado para tal efecto.
 
-Podrá sesionar de manera extraordinaria, por un máximo de cuatro veces en cada año, previa solicitud del Director Ejecutivo del Consejo.
+El Consejo podrá sesionar de manera extraordinaria, por un máximo de 4 veces en cada año, previa solicitud del Director Ejecutivo del Consejo. El Secretario del Consejo deberá convocar y citar a sesión extraordinaria a cada consejero, con al menos 5 días de anticipación, indicando la fecha y lugar de la realización de la mencionada sesión, mediante correo electrónico registrado para tal efecto.
 
 #### Artículo 9º
 
@@ -138,6 +144,6 @@ Disposiciones transitorias
 
 #### Artículo 1º
 
-Para la designación de los primeros integrantes del Consejo de la Sociedad Civil de la Superintendencia de Educación, se habilitará hasta el día 30 de mayo del presente año en la página web institucional, un sistema a través del cual las personas que cumplan con los requisitos establecidos en el artículo 3º, puedan manifestar su interés en integrar el Consejo, para que durante el mes de junio de 2015 se efectúe el sorteo al que se refiere el artículo 4º.
+Para la designación de los primeros integrantes del Consejo de la Sociedad Civil de la Superintendencia de Educación, se habilitará en la página web institucional, un sistema a través del cual las personas que cumplan con los requisitos establecidos en el artículo 3º, podrán manifestar su interés en integrar el Consejo.
 
 Anótese, comuníquese y publíquese.- Alexis Ramírez Orellana, Superintendente (TP).
