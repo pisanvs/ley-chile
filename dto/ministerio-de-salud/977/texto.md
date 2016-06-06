@@ -426,7 +426,7 @@ Además, deberán contar con autorización sanitaria otorgada por la autoridad s
 
 Los establecimientos de producción, elaboración, preservación y envase de alimentos deberán cumplir con las Buenas Prácticas de Fabricación (BPF) mencionadas en este reglamento, en forma sistematizada y auditable.
 
-Además, aquellos que la autoridad sanitaria determine dentro de su correspondiente área de competencia, según los criterios establecidos en la norma técnica que para tales efectos dicte el Ministerio de Salud, deberán implementar las metodologías de Análisis de Peligros y Puntos Críticos de Control (HACCP), en toda su línea de producción, conforme lo establecido en la Norma Chilena Oficial NCh 2861. Of2004, declarada Oficial de la República de Chile por resolución exenta Nº 241, de 14 de abril de 2004, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial del 21 de abril de 2004.
+Además, aquellos que la autoridad sanitaria determine dentro de su correspondiente área de competencia, según los criterios establecidos por resolución del Ministerio de Salud, deberán implementar las metodologías de Análisis de Peligros y Puntos Críticos de Control (HACCP), en toda su línea de producción, conforme lo establecido en la Norma Técnica que, para tales efectos, dicte ese mismo Ministerio.
 
 #### Artículo 70
 
@@ -494,6 +494,8 @@ e) Hielo granizado saborizado con jarabes naturales o artificiales, en la medida
 
 f) Quesos y cecinas provenientes de fábricas autorizadas, fraccionados y envasados en las mismas fábricas, siempre y cuando dichos puestos de venta dispongan de un sistema de frío que permita mantener a temperatura de refrigeración (máximo 5º C) los productos alimenticios antes señalados. En el caso de cecinas crudas maduradas, éstas podrán mantenerse sin refrigeración, pero en lugar seco y fresco (máximo 12º C). Queda prohibido el fraccionamiento de los alimentos anteriormente mencionados en tales puestos
 
+g) Frutas y verduras frescas lavadas, trozadas o peladas y envasadas provenientes de establecimientos autorizados para dichos fines, siempre que dichos puestos de venta dispongan de un sistema de frío que permita mantener a temperatura de refrigeración (máximo 5° C) los productos alimenticios antes señalados. Los envases deberán cubrir totalmente los alimentos y constituir una barrera eficaz contra la contaminación.
+
 Las implementaciones exigidas precedentemente para la comercialización de los productos alimenticios señalados en la letra d) deberán mantenerse en perfectas condiciones, en forma permanente.
 
 > **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que las modificaciones introducidas al presente artículo rigen a contar de 180 días desde su publicación.
@@ -512,7 +514,7 @@ c) Los cilindros de gas deberán estar instalados y ser utilizados cumpliendo co
 
 #### Artículo 74
 
-b.- Los quioscos, casetas y carros podrán freír, hornear y expender masas sin relleno, vegetales procesados y empanadas de queso, además de elaborar y expender infusiones de té y café, emparedados fríos y calientes a base de cecinas cocidas, cumpliendo los siguientes requisitos:
+b.- Los quioscos, casetas y carros podrán freír, hornear y expender: masas sin relleno, empanadas de queso y productos vegetales. Asimismo, podrán expender frutas y verduras frescas lavadas, trozadas o peladas y demás vegetales procesados y envasados provenientes de establecimientos autorizados para dichos fines. Además, de elaborar y expender infusiones de té, café y demás estimulantes y fruitivos, emparedados fríos y calientes a base de cecinas cocidas, cumpliendo los siguientes requisitos:
 
 a) Carro o soporte físico de la instalación de material sólido, lavable, de tamaño suficiente. y deberá contar con una estructura protegida que delimite el espacio de manipulación de alimentos.
 
@@ -539,8 +541,6 @@ Todas las materias primas utilizadas deberán provenir de establecimientos autor
 Los manipuladores de alimentos deberán dar cumplimiento a las medidas estipuladas en el Título I Párrafo VI. "De los requisitos de higiene del personal", del presente reglamento.
 
 Para otorgar la autorización la autoridad sanitaria deberá disponer de los antecedentes que acrediten que el lugar en que se ubicará el quiosco, carro o caseta está determinado para tales efectos por la autoridad comunal correspondiente.
-
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
 
 #### Artículo 75
 
@@ -832,7 +832,17 @@ Para productos alimenticios deshidratados, que se consuman reconstituidos, la po
 
 33) Alimento de referencia: aquel alimento homólogo que sirve como patrón de comparación para realizar y destacar una modificación nutricional, restringido al descriptor reducido y sus sinónimos. Este alimento de referencia deberá estar presente en el mercado y ser de propia fabricación y, sólo en su defecto, se podrán considerar otros alimentos homólogos, también presentes en el mercado.
 
+34) Publicidad: Toda forma de promoción, comunicación, re
+
+comendación, propaganda, información o acción destinada a promover el consumo de un determinado producto.
+
+34) Gluten: fracción proteínica del trigo, centeno, cebada, avena o sus variedades híbridas y derivados de los mismos, que algunas personas no toleran y que es insoluble en agua y en 0,5M NaCI.
+
+35) Prolaminas: fracción del gluten que puede extraerse con etanol al 40-70%. La prolamina del trigo es la gliadina, la del centeno es la secalina, la de la cebada es la hordeína y la de la avena es la avenina
+
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+
+> **Nota.** NOTA 1 El N° 2 del Art. 1° del Decreto 12, Salud, publicado el 17.12.2013, modificó la presente norma en el sentido de incorporar un nuevo Nro. 34 "Publicidad". Posteriormente, el N° 1 del Art. 1° del Decreto 134, Salud, publicado el 14.01.2015, incorporó los nuevos Nros. 34 "Gluten" y 35 "Prolaminas", por lo que el N° 34 quedó repetido.
 
 #### Artículo 107
 
@@ -4762,33 +4772,27 @@ Del té
 
 #### Artículo 452
 
-Té, sin otra denominación es el producto obtenido de hojas tiernas, yemas, pecíolos o pedúnculos, sanos y limpios de las especies del género Thea, preparado por deshidratación, con o sin fermentación.
+Té, sin otra denominación es el producto obtenido de hojas tiernas, yemas, pecíolos o pedúnculos, sanos y limpios de las especies del género Thea, preparado por deshidratación, con o sin fermentación/oxidación enzimática.
 
 #### Artículo 453
 
-De acuerdo con el proceso de fermentación, el té se clasifica en:
+Las materias primas para la elaboración de los distintos tipos de té deben cumplir con los siguientes requisitos:
 
-Té verde o té sin fermentar, tipo chino
+a) Contener un máximo de:
 
-Té negro o té fermentado
+20% de tallos, pecíolos o pedúnculos en conjunto.
 
-Té pardo o té parcialmente fermentado
+12% de humedad.
 
-Estos tres tipos de té elaborados deben cumplir con los siguientes requisitos:
+8% de cenizas totales y 1% de cenizas insolubles en ácido clorhídrico
 
-a) contener un máximo de :
+al 10%, ambos expresados en base seca.
 
-2O% de tallos, pecíolos o pedúnculos en conjunto 12% de humedad
+b) Contener un mínimo, expresado en base seca, de 1% de cafeína.
 
-8% de cenizas totales y 1% de cenizas insolubles en ácido clorhídrico al 1O%, ambos expresados en base seca;
+Los té elaborados podrán comercializarse en distintas formas, hojas, molido, bolsitas preparadas o líquida como infusión o reconstituida con agua, ya sea solo o en mezcla, los que, al igual que todos los alimentos, deben rotularse y comercializarse de acuerdo a lo establecido en el Título II, párrafo II, del Reglamento Sanitario de los Alimentos, de acuerdo a sus características y composición.
 
-b) contener un mínimo, expresado en base seca, de :
-
-1% de cafeína
-
-24% de extracto acuoso en el té negro
-
-28% de extracto acuoso en el té verde
+Té en polvo soluble o té instantáneo es el producto resultante de la deshidratación del extracto obtenido, exclusivamente, a partir del té hasta consistencia de polvo. No debe tener menos de 2,0% de cafeína en base seca y su humedad no debe ser mayor a 5%.
 
 ### Párrafo II
 
@@ -4801,6 +4805,10 @@ Yerba Mate es el producto constituido por hojas, ramas jóvenes, brotes, pecíol
 a) contener un mínimo de 0,7% de cafeína y de 25% de extracto acuoso, expresados en base seca;
 
 b) no contener más de 11% de humedad 9% de cenizas totales, 1,5% de cenizas insolubles en ácido clorhídrico al 10% y 30% de palos que no pasen por un tamiz con perforaciones de 70 mm de largo y 2,5 mm de ancho.
+
+c) no contener sustancias vegetales extrañas: máximo 1,0%, semillas de yerba mate: máximo 1,0% y no deberá estar quemada, alterada o agotada.
+
+La yerba mate podrá comercializarse en distintas formas, hojas, polvo, preparada o líquida como infusión o reconstituida con agua, ya sea sola o en mezcla, los que al igual que todos los alimentos deben rotularse y comercializarse según lo establecido en el Título II, párrafo II, del Reglamento Sanitario de los Alimentos, de acuerdo a sus características y composición."
 
 ### Párrafo III
 
@@ -4816,6 +4824,8 @@ Café soluble o café instantáneo es el producto resultante de la deshidrataci�
 
 El café soluble o instantáneo descafeinado no deberá tener más de 0,3% de cafeína, expresado en base seca.
 
+El café tostado y café soluble o instantáneo, descafeinado o no, se podrá comercializar en distintas formas, grano, polvo, preparados o líquidos como infusión o reconstituidos con agua, ya sea solo o en mezcla, los que, al igual que todos los alimentos, deben rotularse y comercializarse según lo establecido en el Título II, párrafo II, del Reglamento Sanitario de los Alimentos, de acuerdo a sus características y composición.
+
 #### Artículo 457
 
 Sucedáneos del café son aquellos productos de origen vegetal (soya, higo, achicoria u otros), que desecados y/o tostados o tostados con azúcar o en mezcla, permiten la preparación de infusiones semejantes a la del café. La naturaleza de sucedáneo de café debe estar claramente indicada en el rótulo.
@@ -4823,6 +4833,8 @@ Sucedáneos del café son aquellos productos de origen vegetal (soya, higo, achi
 #### Artículo 458
 
 Sucedáneo del café instantáneo o soluble es el producto resultante de la deshidratación del extracto acuoso de los sucedáneos del café mencionados en el artículo anterior. Su humedad no será mayor a 5% . La naturaleza de sucedáneo de café instantáneo o soluble deberá estar claramente indicada en el rótulo.
+
+Los sucedáneos del café y los sucedáneos del café soluble o instantáneo se podrán comercializar en distintas formas, polvo, preparados o líquidos como infusión o reconstituidos con agua, ya sea solo o en mezcla, los que, al igual que todos los alimentos, deben rotularse y comercializarse según lo establecido en el Título II, del párrafo II, del Reglamento Sanitario de los Alimentos, de acuerdo a sus características y composición.
 
 ### Párrafo IV
 
@@ -4855,6 +4867,8 @@ Las hierbas aromáticas no deberán tener materias o sustancias contaminantes en
 #### Artículo 464
 
 Las hierbas aromáticas deben envasarse en materiales apropiados que permitan conservar en condiciones óptimas su sabor y aroma.
+
+Las hierbas aromáticas se podrán comercializar en distintas formas, hojas, polvo o bolsitas, preparada o líquida como infusión o reconstituidas con agua, ya sea solas o en mezcla, las que, al igual que todos los alimentos, deben rotularse y comercializarse según lo establecido en el Título II, párrafo II, del Reglamento Sanitario de los Alimentos, de acuerdo a sus características y composición.
 
 ## Título XXV
 
@@ -5836,7 +5850,7 @@ Las harinas libres de gluten destinadas a la panificación, así como el pan lib
 
 #### Artículo 518
 
-El término "Libre de gluten" y el logo o símbolo de la espiga tachada, sólo podrán utilizarse cuando el resultado del análisis de laboratorio del producto alimenticio sea no detectable para prolaminas de los cereales establecidos en el artículo 516, de acuerdo a la técnica analítica que para estos efectos determine el Instituto de Salud Pública. La frase "libre de gluten" se rotulará en las proximidades del nombre del producto, con caracteres de buen realce, tamaño y visibilidad.
+El término "Libre de gluten" y el logo o símbolo de la espiga tachada, solo podrán utilizarse cuando el resultado del análisis de laboratorio del producto alimenticio no sobrepase 3 mg/kg de gluten de los cereales establecidos en el artículo 516, del producto listo para su entrega al consumidor final, de acuerdo a las técnicas analíticas que, para estos efectos, determine el Instituto de Salud Pública de Chile. La expresión "Libre de gluten" se rotulará en las proximidades del nombre del producto, con caracteres de buen realce, tamaño y visibilidad.
 
 ### Párrafo VII
 
