@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.418 EXENTA, DE 2016
+
+Por resolución exenta Nº 1.418, de fecha 13 de mayo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Autokam", cuya propietaria es doña Karina Henríquez Vega, siendo su directora doña Mónica Paola Leiva Andaur, la que tendrá su lugar de funcionamiento en Avenida Normandie Nº 2193, comuna de Quintero. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas y 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Mauricio Candia Llancas, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
