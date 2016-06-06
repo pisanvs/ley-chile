@@ -122,6 +122,8 @@ El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios 
 
 7.7 De la exigencia referida al Plan de Habilitación Social, contenida en los artículos 16, letra l) y 21 letra i).
 
+7.8 "De lo establecido en la letra a) del artículo 37, referido al endoso del certificado de subsidio para proceder a su pago.
+
 8.- Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 8.1 Sólo podrán participar de este llamado las personas inscritas en los registros de damnificados MINVU y que además cuenten con viviendas calificadas con "daño reparable moderado" y "daño reparable mayor", según lo establecido en la ficha de catastro del Ministerio de Vivienda y Urbanismo.
@@ -138,7 +140,7 @@ Podrán postular los damnificados que hayan iniciado el trámite de regularizaci
 
 El postulante damnificado que tenga un subsidio vigente del Programa de Protección del Patrimonio Familiar podrá postular en este llamado. En caso que las obras del subsidio regular se encuentren iniciadas, SERVIU deberá evaluar si corresponde ejecutar la obra o paralizarla, hasta la aplicación del subsidio. En estos casos se podrá considerar como causal de prórroga del certificado de subsidio la paralización de la obra. En el caso de los damnificados que postulan en calidad de arrendatarios y que paralelamente se encuentren postulando a otros Programas Habitacionales de este Ministerio, se permitirá su postulación a este llamado, siempre que el postulante exprese su aceptación por escrito de la suspensión transitoria de su otra postulación.
 
-8.4 Para este llamado podrán participar tanto Entidades Patrocinantes (EP) privadas como públicas y SERVIU en calidad EP en todas las áreas, es decir, en la "Organización de la Demanda y Postulación de los Proyectos" y en la "Gestión de Proyectos e Inspección Técnica de Obras", y deberán presentar una carpeta del proyecto de Mejoramiento de la Vivienda, que contenga los antecedentes que se señalan a continuación, debidamente aprobados por SERVIU:
+8.4 Para este llamado podrán participar tanto Prestadores de Asistencia Técnica (PSAT) y Serviu en calidad de PSAT en todas sus áreas, es decir, en la "Organización de la Demanda y Postulación de los Proyectos" y en la "Gestión de Proyectos e Inspección Técnica de Obras", y deberán presentar una carpeta del proyecto de Mejoramiento de la Vivienda, que contenga los antecedentes que se señalan a continuación, debidamente aprobados por SERVIU:
 
 8.4.1 Descripción de las obras a ejecutar.
 
@@ -150,29 +152,41 @@ El postulante damnificado que tenga un subsidio vigente del Programa de Protecci
 
 8.5 Para las selecciones de este llamado, se aplicarán los factores de puntaje indicados en el artículo 28 del DS Nº 255 (V. y U.), de 2006, en todo aquello que no se contraponga con lo dispuesto en la presente resolución.
 
-8.6 En este llamado se encontrarán habilitadas para postular proyectos las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la SEREMI de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del SERVIU. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente.
+8.6 En este llamado se encontrarán habilitadas para postular proyectos los PSAT con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la SEREMI de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del SERVIU. Tratándose de Municipios que participen como PSAT, no será exigible la suscripción del Convenio Marco correspondiente.
 
-El SERVIU podrá actuar como EP, según lo establecido en el resuelvo 8.4 de la presente resolución.
+El SERVIU podrá actuar como PSAT, según lo establecido en el resuelvo 8.4 de la presente resolución.
 
-9.- Pagos de Asistencia Técnica: El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que Serviu pagará a la EP, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del Resuelvo 5 de la presente resolución.
+8.7 No se exigirá lo establecido en el artículo 37 letra e), respecto a la carta del beneficiario señalando que las obras están terminadas conforme al contrato suscrito, para los casos de negativa injustificada del beneficiario para recepcionar conforme las obras, siempre que se cuente con los informes del Prestador de Asistencia Técnica y del Supervisor Serviu que certifique que los trabajos fueron ejecutados conforme al proyecto y no presenten observaciones.
 
-Serviu pagará a la EP, según corresponda, por los servicios de Asistencia Técnica, el monto que proceda de acuerdo a los servicios efectivamente realizados, dividido en 2 parcialidades:
+8.8 Cuando el Serviu desarrolle labores de PSAT, la contratación de obras la podrá realizar conforme a lo señalado en el DS Nº 255 (V. y U.) de 2016 y el pago de éstas se realizará en la forma señalada en la presente resolución exenta.
+
+8.9 Para su ejecución, las obras se dividirán en 4 tipos: "Instalación de Colectores Solares", "Instalación de Paneles Fotovoltaicos", "Regularización" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del Resuelvo 5, a excepción de los subsidios de Colectores Solares, Fotovoltaicos y Regularización señalados precedentemente.
+
+Podrán existir contratos de construcción que consideren más de un tipo de obras, o contratos específicos para cada tipo de obra. Ambas modalidades deberán dar cumplimiento a lo establecido en la letra d) del artículo 37 del DS Nº 255 (V. y U.) de 2016, respecto a la boleta de garantía.
+
+El Serviu de la Región de Antofagasta deberá solicitar el o los contratos de construcción que correspondan al tipo de obra cuyo subsidio es presentado a cobro, para proceder a su pago, además de los documentos señalados en el artículo 37 del DS Nº 255 (V y U.) de 2016.
+
+9.- Pagos de Asistencia Técnica: El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que Serviu pagará al PSAT, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del Resuelvo 5 de la presente resolución.
+
+Serviu pagará al PSAT, según corresponda, por los servicios de Asistencia Técnica, el monto que proceda de acuerdo a los servicios efectivamente realizados, dividido en 2 parcialidades:
 
 Primer pago: Correspondiente a los servicios de Organización de la Demanda, Desarrollo de Proyectos y Postulación del Proyecto. Se pagará el 100% de lo correspondiente a la Asistencia Técnica del proyecto base, además de la Asistencia Técnica adicional que corresponda, según lo señalado en el informe técnico.
 
 Segundo Pago: Correspondiente a los servicios de Contratación de Obra y Fiscalización Técnica de Obra, los cuales se pagaran en 2 cuotas, de acuerdo a lo siguiente:
 
-a) 2 UF por el contrato firmado con la empresa constructora, más 5 UF correspondientes al monto de asistencia técnica por la fiscalización técnica de obras, monto que se pagará al momento del inicio de obras en cada vivienda.
+a) "2 UF por el o los contratos firmados con la o las Empresas Constructoras, monto que se pagará al momento de estar firmados todos los contratos, salvo el contrato asociado al proyecto Fotovoltaico, que podrá, si corresponde, ser firmado posteriormente.
 
-b) Las 7 UF de saldo del monto correspondiente a la fiscalización técnica de obras se pagarán una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
+b) Los montos para Fiscalización de Obras, señalados en el cuadro 2 del punto resolutivo 5 de la presente resolución, se pagarán en la proporción que resulte de los tipos de obras que contemple el proyecto y que haya fiscalizado el PSAT (uno, dos, tres o cuatro tipos de obras señalados en el punto 8.7), pagándose éstas una vez recepcionado el proyecto por Serviu y/o que se obtenga el certificado de recepción municipal emitido por la DOM respectiva, en aquellos proyectos que así lo requieran.
 
 En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución Nº 533 (V. y U.), de 1997, en especial lo prescito en el numeral 52 del artículo 6º de dicho acto administrativo, para los servicios de Organización de la Demanda y Postulación de Proyectos y Seguimiento de Proyectos y Fiscalización Técnica de Obras.
 
 10. Pagos del Subsidio Habitacional: Los subsidios podrán ser cobrados en la medida que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
-10.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras acreditado mediante informe del fiscalizador, visado por el SERVIU. Para las obras que no requieran de Permiso de Edificación, se cursarán 4 pagos divididos en avances del 25% cada uno. Para las obras que requieran de un Permiso de Edificación se realizarán 2 pagos por el 25% y un tercer pago por el de 20%, completando un 70% por avance de obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+10.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras acreditado mediante informe del fiscalizador, visado por el Serviu. Para las obras que no requieran de Permiso de Edificación, se cursarán 4 pagos divididos en avances del 25% cada uno. Para las obras que requieran de un Permiso de Edificación se realizarán pagos en porcentajes de un 30% hasta el 90% y el 10% restante quedará retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
-10.2 Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, este podrá cobrar hasta el 70% del proyecto terminado, previa recepción del SERVIU de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la D.O.M.
+10.2 Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, este podrá cobrar hasta el 90% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 10% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+
+En el caso que la obra se tramite considerando las disposiciones especiales contenidas en el artículo 5.1.4 en su numeral 7º de la Ordenanza General de Urbanismo y Construcciones (OGUC), se pagará el 100% del subsidio cuando la obra esté terminada y recepcionada por Serviu.
 
 11. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para la Región de Antofagasta en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2015.
 
