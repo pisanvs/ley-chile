@@ -70,13 +70,13 @@ El valor en pesos de dicha unidad reajustable, será el que corresponda al día 
 
 3.3. Órgano Competente para la Asignación del Subsidio
 
-La aprobación de los proyectos y la asignación del subsidio corresponderá al Comité de Asignación Zonal de Fondos - CAZ, con competencia en la región que realice el llamado a Concurso, en única instancia y por simple mayoría. La composición y funcionamiento del CAZ se encuentra regulado en la resolución (A) Nº 28, de 2013, del Vicepresidente Ejecutivo de Corfo.
+La aprobación de los proyectos y la asignación de subsidios a los mismos serán resueltas por el Comité de Asignación Zonal de Fondos -CAZ- respectivo; o por el Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o el Subcomité, en aquellas regiones en las que los Comités de Desarrollo Productivo Regional hayan entrado en funcionamiento y una vez dictado el acto administrativo que define su competencia para conocer y aprobar proyectos que postulen a este instrumento.
 
 Asimismo, el CAZ establecerá el plazo de vigencia de sus Acuerdos, para efectos de la formalización del contrato de subsidio en que se regularán las condiciones del otorgamiento del subsidio y de ejecución del proyecto.
 
 ### 4. POSTULACIÓN
 
-La modalidad de postulación será mediante Concursos Públicos que se convocarán en cada región del país.
+La modalidad de postulación será mediante concursos o mediante el mecanismo de postulación permanente o ventanilla abierta, para la presentación de proyectos en cada Región del país.
 
 Los requisitos de postulación y documentos a acompañar serán regulados en las Bases respectivas dictadas por cada Dirección Regional, en base al formato aprobado por el Gerente de Competitividad.
 
@@ -170,11 +170,27 @@ El beneficiario deberá hacer entrega de un Informe Técnico y Financiero, cuyas
 
 ### 11. SUPERVISIÓN DEL PROGRAMA
 
-La orientación, supervisión, coordinación y seguimiento del Programa será efectuada por la Gerencia de Competitividad de Corfo.
+La supervisión, coordinación y orientación del Programa será efectuada por la Gerencia de Desarrollo Competitivo de Corfo.
+
+La evaluación, supervisión, administración y seguimiento de los proyectos que resultaren beneficiados con subsidio, podrá ser realizada directamente por Corfo o a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI), con Convenio Marco vigente con la Corporación, a los que les resulta aplicable lo dispuesto en el Reglamento de Agentes Operadores Intermediarios de Corfo.
+
+La Gerencia de Desarrollo Competitivo de Corfo, el Director Regional de Corfo o el Director Ejecutivo del Comité de Desarrollo Productivo Regional respectivo, determinará, en base a criterios técnicos tales como la disponibilidad de RR.HH, de apoyo y priorizaciones sectoriales, entre otros, en qué situaciones operará con el apoyo de los AOI, hecho que será comunicado al beneficiario del subsidio.
+
+Para el caso en que Corfo decida operar con tales Agentes Operadores Intermediarios, por la supervisión, administración y seguimiento de los proyectos éstos percibirán, a título de overhead, un porcentaje de hasta el 7% del monto de subsidio otorgado.
+
+En el caso que Corfo decida, además, operar con tales Agentes Operadores Intermediarios para que presten apoyo en la etapa de postulación y/o evaluación, éstos percibirán a título de overhead, un porcentaje de hasta el 10% del monto del subsidio otorgado.
+
+Si un Programa terminare anticipadamente, el Director Regional o Director Ejecutivo de los Comités de Desarrollo Productivo Regional, deberá determinar fundadamente el monto o porcentaje de pago por este concepto que deberá efectuarse al Agente Operador Intermediario.
+
+El subsidio aprobado podrá transferirse en una o más cuotas, a título de anticipo o de reembolso. Para el caso de otorgarse como anticipo, el monto de éste deberá ser caucionado mediante los documentos que se establezcan en el Reglamento del presente instrumento.
+
+Cualquiera sea la modalidad de entrega del subsidio, se deberá rendir cuenta de la inversión de los recursos del subsidio otorgado en conformidad a lo dispuesto en la resolución Nº 30, de 2015, de la Contraloría General de la República.
+
+El Comité de Asignación de Fondos -CAF-, por decisión fundada, podrá variar las normas referentes a los beneficiarios, tipo de proyectos, cofinanciamiento, monto mínimo de inversión y trasferencia a Agentes Operadores Intermediarios, cuando algún sector económico, territorio o zona geográfica así lo requiera, o en atención a la magnitud de una emergencia o catástrofe.
 
 ### 12. EJECUCIÓN DE LOS ACUERDOS
 
-Los Directores Regionales de las regiones correspondientes dictarán las resoluciones y suscribirán los contratos que permitan formalizar los subsidios aprobados en virtud de este Programa.
+Los Directores Regionales o los Directores Ejecutivos de los Comités de Desarrollo Productivo Regional correspondientes, según lo señalado en el numeral 3.3 precedente, dictarán las resoluciones y suscribirán los contratos que permitan formalizar los subsidios aprobados por el Comité, incluidos, en el caso de los Directores Ejecutivos mencionados, aquellos que deban imputarse o pagarse con recursos del presupuesto de la Corporación o que le hayan sido transferidos en administración, para ser ejecutados en la Región respectiva.
 
 ### 13. VIGENCIA DEL PROGRAMA
 
