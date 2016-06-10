@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONVENIO DE COLABORACIÓN" SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL FONDO DE SOLIDARIDAD E INVERSIÓN SOCIAL"
+
+Por resolución exenta Nº 233, de 20 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba la "Modificación de Convenio de Colaboración", suscrito el 25 de febrero de 2016, entre este Instituto de Previsión Social y el Fondo de Solidaridad e Inversión Social, con la finalidad de incorporar al convenio matriz, precisiones y especificaciones relativas a su objeto, en lo relativo a los trámites y servicios propios del Fosis, en la forma de determinados servicios y aportes que agreguen valor al quehacer del IPS y responsabilidades de los Administradores de cada servicio.
+
+Santiago, 6 de junio de 2016.- Patricio Coronado Rojo, Director Nacional.
