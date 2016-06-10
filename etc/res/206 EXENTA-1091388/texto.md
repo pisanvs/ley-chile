@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL INSTRUCTIVO INSTITUCIONAL DENOMINADO "INFORMES PARA CERTIFICADO DE IMPOSICIONES DE LAS TRES EX CAJAS PRINCIPALES DE PREVISIÓN: SERVICIO SEGURO SOCIAL, CAJA DE PREVISIÓN DE EMPLEADOS PARTICULARES Y CAJA NACIONAL DE EMPLEADOS PÚBLICOS Y PERIODISTAS", PARA LOS ANALISTAS DEL SUBDEPARTAMENTO MANTENCIÓN E INFORMES DE LA DIVISIÓN BENEFICIOS
+
+Por resolución exenta Nº 206, de 10 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba el Instructivo Institucional denominado "Informes para Certificado de Imposiciones de las tres Ex Cajas principales de Previsión: Servicio Seguro Social, Caja de Previsión de Empleados Particulares y Caja Nacional de Empleados Públicos y Periodistas", con aprobación de la División Jurídica del Instituto, de 19 de abril de 2016, cuyo objetivo es establecer el procedimiento para procesar las solicitudes de Certificados de Imposiciones de los imponentes de dichos regímenes de previsión.
+
+Santiago, 6 de junio de 2016.- Patricio Coronado Rojo, Director Nacional.
