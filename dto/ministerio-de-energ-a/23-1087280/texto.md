@@ -114,6 +114,8 @@ Los valores base para los índices antes definidos, corresponden a los que a con
 
 Para aquellas instalaciones calificadas como troncales y cuyo ingreso en operación es posterior al año 2016, aplicarán las mismas fórmulas de indexación señaladas anteriormente desde el momento de su operación.
 
+> **Nota.** Las letras a, b y c del numeral 1 del Artículo Único del Decreto 6, Energía, publicado el 10.06.2016, modifican las tablas N° 6, N° 8 y N° 10, insertas en el presente artículo, en los términos que la citada norma indica.
+
 #### Artículo Segundo
 
 Fíjanse las condiciones de aplicación para la determinación del pago por los servicios de transporte en sistemas de transmisión troncal para el cuadrienio 2016-2019.
@@ -124,7 +126,7 @@ El cálculo de peajes de inyección, peajes de retiro y el cálculo de cargos ú
 
 En las fechas y modalidad que el presente decreto establece, la DP deberá elaborar, hacer públicos y comunicar a los usuarios del sistema de transmisión troncal, informes que contengan los siguientes cálculos y montos de pago:
 
-a. Informe anual de uso esperado de las instalaciones del sistema de transmisión troncal que considera los pagos mensuales por peaje de inyección, retiro y cargos únicos, así como también el ingreso tarifario esperado por tramo, para cada uno de los años calendario del período 2016-2019, en adelante "Período Tarifario", conforme señala la condición establecida en el numeral 2. del presente artículo. El informe correspondiente al año 2016 deberá comunicarse a más tardar 60 días corridos después de publicado el presente decreto en el Diario Oficial; y el informe correspondiente al año 2017 deberá comunicarse dentro de los 60 días corridos después de emitido el informe correspondiente al año 2016. Para los restantes años del Período Tarifario, dicho informe deberá comunicarse antes del 31 de diciembre del año anterior respectivo;
+a. Informe anual de uso esperado de las instalaciones del sistema de transmisión troncal que considera los pagos mensuales por peaje de inyección, retiro y cargos únicos, así como también el ingreso tarifario esperado por tramo, para cada uno de los años calendario del período 2016-2019, en adelante "Período Tarifario", conforme señala la condición establecida en el numeral 2. del presente artículo. El informe correspondiente al año 2016 deberá comunicarse a más tardar 60 días corridos después de publicado el presente decreto en el Diario Oficial. Para los restantes años del Período Tarifario, dicho informe deberá comunicarse antes del 31 de diciembre del año anterior respectivo;
 
 b. Informe de revisión anual de los cálculos señalados en la letra anterior, para los informes correspondientes al Período Tarifario, conforme se señala en el numeral 3. del presente artículo. Cada informe deberá comunicarse antes del 31 de marzo del año siguiente a cada año del Período Tarifario.
 
@@ -164,7 +166,7 @@ j) Cargos únicos por uso del sistema de transmisión troncal aplicable a usuari
 
 k) Para aquellos tramos conformados por instalaciones pertenecientes a distintos propietarios, sean éstos equipos mayores o instalaciones comunes, el informe de la DP deberá especificar en forma separada el VATT de las instalaciones que componen el tramo, en base al Informe Técnico de la Comisión al que se refiere el Visto Nº 15 del presente decreto. La DP deberá calcular los pagos conforme a lo señalado en el presente decreto para cada propietario, teniendo presente el VATT establecido para las instalaciones de cada propietario en el decreto respectivo. Para el caso de tramos cuyo VATT está compuesto por valores licitados en conformidad al artículo 96º de la Ley y valores calculados en virtud de un proceso tarifario, la DP deberá calcular el pago por separado, de manera tal que cada uno de los propietarios reciba el 100% de su VATT respectivo.
 
-l) La DP del CDEC deberá asignar el A.V.I. de las Labores de Ampliación a que se refiere el numeral 2.1 del artículo primero de este decreto. Dicha asignación se deberá realizar a los tramos de las instalaciones troncales que correspondan.
+l) La DP del CDEC deberá asignar el A.V.I. de las Labores de Ampliación a que se refiere el numeral 2.1 del artículo primero de este decreto. Dicha asignación se deberá realizar a los tramos de las instalaciones troncales indicados en la Tabla 6 del numeral 2.1. del artículo primero del presente decreto.
 
 2.2. BASES DE CÁLCULO
 
