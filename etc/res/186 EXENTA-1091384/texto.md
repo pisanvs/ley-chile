@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL INSTRUCTIVO INSTITUCIONAL DENOMINADO "PROCEDIMIENTO GESTIÓN DE FELICITACIONES, SUGERENCIAS Y RECLAMOS PARA LOS CANALES DE ATENCIÓN"
+
+Por resolución exenta Nº186, de 3 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba el Instructivo denominado "Procedimiento de Gestión de Felicitaciones, Sugerencias y Reclamos para los Canales de Atención", con aprobación de la División Jurídica del Instituto, de 7 de abril de 2016, cuyo objetivo es definir un Sistema que centralice la información de requerimientos de usuarios, en el ámbito de su interacción con el IPS, que signifiquen sugerencias para mejorar el servicio, una felicitación por la gestión efectuada o un reclamo generado en el incumplimiento de sus expectativas.
+
+Santiago, 6 de junio de 2016.- Patricio Coronado Rojo, Director Nacional.
