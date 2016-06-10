@@ -1,0 +1,5 @@
+SE APRUEBA LA "POLÍTICA DE GESTIÓN DE INCIDENTES DE SEGURIDAD DE LA INFORMACIÓN", INSERTA EN EL SISTEMA DE SEGURIDAD DE LA INFORMACIÓN DEL INSTITUTO DE PREVISIÓN SOCIAL, APROBADA POR RESOLUCIÓN EXENTA Nº 657, DE 2015
+
+Por resolución exenta Nº 223, de 18 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba la "Política de Gestión de Incidentes de Seguridad de la Información", con aprobación legal de la División Jurídica del Instituto, de 19 de abril de 2016, el inserta en el Sistema de Seguridad de la Información del IPS, con la finalidad de asegurar con acciones preventivas y correctivas oportunas, la ocurrencia de eventos y debilidades detectados, método y enfoque consistente en la gestión de incidentes en el marco de referencia y responsabilidades en la notificación, registro y solución.
+
+Santiago, 6 de junio de 2016.- Patricio Coronado Rojo, Director Nacional.
