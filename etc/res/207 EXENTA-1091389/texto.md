@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN DE CONVENIO DE COLABORACIÓN PARA EL USO DE LOS SERVICIOS DE SALA CUNA Y JARDÍN INFANTIL INSTITUCIONAL" SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL
+
+Por resolución exenta Nº 207, de 10 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba la "Modificación de Convenio de Colaboración para el Uso de los Servicios de Sala Cuna y Jardín Infantil Institucional", suscrito el 30 de marzo de 2016, entre este Instituto de Previsión Social y el Instituto de Seguridad Laboral, con la finalidad de modificar la cláusula sexta del Convenio de Colaboración suscrito por las partes el 29 de diciembre de 2010, referida a la estipulación de coordinadores.
+
+Santiago, 6 de junio de 2016.- Patricio Coronado Rojo, Director Nacional.
