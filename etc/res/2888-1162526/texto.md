@@ -1,0 +1,5 @@
+DECLARACIÓN AMERICANA SOBRE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS
+
+(Aprobada en la segunda sesión plenaria, celebrada el 14 de junio de 2016)
+
+Descargar DECLARACIÓN AMERICANA SOBRE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS .pdf (PDF, 325 K)
