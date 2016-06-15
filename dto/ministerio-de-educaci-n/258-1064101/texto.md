@@ -14,15 +14,11 @@ Decreto:
 
 Desígnanse, a contar de la fecha del presente decreto, a las personas que se indican a continuación, como integrantes del Consejo Directivo del Comité Innova Chile:
 
-1.- Doña María Elena Boisier Pons, RUN Nº 7.251.296-0, representando a la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt).
+1.- Don Christian Humberto Nicolai Orellana, RUN Nº 6.069.948-8, representando a la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt).
 
-Don Gonzalo Andrés Jordán Fresno, RUN Nº 3.560.524-K, como primer suplente.
+2.- Don Mario Andrés Hamuy Wackenhut, RUN Nº 7.199.610-7, como primer suplente.
 
-Doña María Isabel Meneses Cabellos, RUN Nº 7.114.289-2, como segunda suplente.
-
-2.- Don Francisco Javier Martínez Concha, RUN Nº 6.460.797-9, representando al Ministerio de Educación.
-
-Don Pablo Francisco Alfaro Palominos, RUN Nº 14.045.107-K, como único suplente.
+3.- Don Khaled Mohamed Awad, RUN Nº 14.526.080-9, como segundo suplente.
 
 #### Artículo 2º
 
