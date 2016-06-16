@@ -232,37 +232,39 @@ Podrán postular los damnificados que hayan iniciado el trámite de regularizaci
 
 El postulante damnificado que tenga un subsidio vigente del Programa de Protección del Patrimonio Familiar podrá postular en este llamado. En caso que las obras del subsidio regular se encuentren iniciadas, SERVIU deberá evaluar si corresponde ejecutar la obra o paralizarla, hasta la aplicación del subsidio; en estos casos se podrá considerar como causal de prórroga la paralización de la obra. En el caso de los damnificados que postulan en calidad de arrendatarios y que paralelamente se encuentren postulando a otros Programas Habitacionales de este Ministerio, se permitirá su postulación a este llamado, siempre que el postulante exprese su aceptación por escrito de la suspensión transitoria de su otra postulación.
 
-8.4 Para este llamado podrán participar tanto EP privadas como públicas y Serviu en calidad de Entidad Patrocinante (EP), según las siguientes Etapas:
+8.4 Para este llamado podrán participar tanto Prestadores de Servicios de Asistencia Técnica (PSAT) como el Serviu en calidad de PSAT, según las siguientes Etapas:
 
-8.4.1 Etapa 1, "Organización de la Demanda,
+8.4.1 Etapa 1 "Organización de
 
-Diseño y Postulación", será
+la Demanda, Diseño y
 
-desarrollada por el SERVIU EP.
+Postulación", será
 
-8.4.2 "Etapa 2, "Contratación de Obras y
+desarrollada por el Serviu
 
-Fiscalización Técnica de Obras"
+en calidad de PSAT.
 
-podrá ser desarrollada por Serviu
+8.4.2 Etapa 2 "Contratación de Obras
 
-EP y/o por Entidades Patrocinantes
+e Inspección Técnica de Obras",
 
-privadas o públicas. Cuando el
+podrá ser desarrollada por los
 
-Serviu EP desarrolle esta etapa
+PSAT y/o por el Serviu PSAT. Cuando
 
-deberá regirse por lo estipulado
+el Serviu desarrolle labores de PSAT,
 
-en el DS N° 236 (V. y U), año 2002,
+la contratación de obras la realizarán
 
-que aprueba Bases Generales
+los beneficiarios conforme a lo
 
-Reglamentarias de Contratación de
+señalado en el DS N° 255 (V. y U.) de
 
-Obras para los Servicios de Vivienda
+2006 y el pago de éstas se realizará en
 
-y Urbanismo
+la forma señalada en la presente
+
+resolución exenta
 
 8.5 En relación a los Proyectos de Mejoramiento de la Vivienda, se deberá presentar un informe técnico que contenga a lo menos los siguientes datos:
 
@@ -292,7 +294,7 @@ o regularización.
 
 8.8 Se podrá realizar la postulación de los proyectos sin que estos estén asociados a una empresa constructora.
 
-8.9 Previo al inicio de la Etapa 2, "Contratación de Obras y Fiscalización Técnica de Obras", Serviu zonificará las comunas afectadas, las que serán ofertadas a las EP privadas y públicas y mediante resolución del Director Serviu se seleccionarán de acuerdo a los siguientes criterios:
+8.9 Previo al inicio de la Etapa 2, "Contratación de Obras y Fiscalización Técnica de Obras", Serviu zonificará las comunas afectadas, las que serán ofertadas a los PSAT y mediante resolución del Director Serviu se seleccionarán de acuerdo a los siguientes criterios:
 
 a) Años de experiencia laboral acreditable
 
@@ -304,7 +306,7 @@ por cada fiscalizador técnico.
 
 c) Criterio de definición regional.
 
-8.10 En este llamado se encontrarán habilitadas para desarrollar la Etapa 2 "Contratación de Obras y Fiscalización Técnica de Obras" las EP con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la Seremi de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente.
+8.10 En este llamado se encontrarán habilitadas para desarrollar la Etapa 2 "Contratación de Obras y Fiscalización Técnica de Obras" los PSAT con convenio marco regional vigente en cualquier región del país. En caso que no cuenten con convenio marco en la región afectada por la catástrofe, deberán previamente suscribir un addéndum al convenio en la Seremi de Vivienda y Urbanismo en la cual mantiene el convenio vigente, en el que se dejará constancia de la habilitación para participar de este llamado extraordinario y de las demás condiciones que se estimen pertinentes para la protección de los intereses de los postulantes, beneficiarios y del Serviu. Tratándose de Municipios que participen como EP, no será exigible la suscripción del Convenio Marco correspondiente.
 
 8.11 Para la Región de Atacama la ejecución de las obras se dividirán en 3 tipos: "Instalación de Colectores Solares"; "Instalación de Paneles Fotovoltaicos" y "Obras de Reparaciones", estas últimas compuestas por los subsidios señalados en el Cuadro 1.-, del resuelvo 5, a excepción de los subsidios de Colectores Solares y Fotovoltaicos, señalados precedentemente.
 
@@ -318,13 +320,13 @@ DE LA OPERATORIA:
 
 ### 9. Para este llamado, el proceso se divide en 2 etapas:
 
-9.1 Etapa 1, Organización de la Demanda, Diseño y Postulación: Esta etapa será desarrollada por el SERVIU en calidad de EP, sea que la ejecute de forma directa con sus propios profesionales o con el apoyo de personas naturales y jurídicas contratadas para dicha labor. Para la referida contratación, SERVIU contará con los recursos señalados en el cuadro 2 del punto 5 de la presente resolución. Dentro de sus funciones deberá visitar las viviendas siniestradas, desarrollar los proyectos, ingresar las carpetas de regularización a la DOM cuando corresponda, calificar los proyectos, digitar las postulaciones y seleccionar las EP privadas y públicas que desarrollarán la segunda etapa.
+9.1 Etapa 1, Organización de la Demanda, Diseño y Postulación: Esta etapa será desarrollada por el SERVIU en calidad de EP, sea que la ejecute de forma directa con sus propios profesionales o con el apoyo de personas naturales y jurídicas contratadas para dicha labor. Para la referida contratación, SERVIU contará con los recursos señalados en el cuadro 2 del punto 5 de la presente resolución. Dentro de sus funciones deberá visitar las viviendas siniestradas, desarrollar los proyectos, ingresar las carpetas de regularización a la DOM cuando corresponda, calificar los proyectos, digitar las postulaciones y seleccionar los PSAT y públicas que desarrollarán la segunda etapa.
 
 9.2 Etapa 2, Contratación de Obras y Fiscalización Técnica de Obras: Esta etapa puede ser desarrollada por SERVIU en su calidad de EP y/o por EP privadas y públicas, quienes deberán contratar a las empresas constructoras, realizar las fiscalizaciones de obras en terreno, elaborar informes de avances de obra, y las certificaciones de estos; también apoyar a las constructoras para el cobro de los certificados de subsidio.
 
 DE LOS PAGOS DE ASISTENCIA TÉCNICA Y DEL SUBSIDIO:
 
-10. El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que SERVIU pagará a la EP, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del resuelvo 5 de la presente resolución.
+10. El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que SERVIU pagará a la PSAT, será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el Cuadro 2 del resuelvo 5 de la presente resolución.
 
 Pago Etapa 1: Correspondiente a los servicios de
 
@@ -344,7 +346,7 @@ adicional que corresponda, según lo
 
 señalado en el informe técnico.
 
-Pago Etapa 2: Al Serviu en su calidad de EP y/o a las EP privadas y públicas, se les pagarán los servicios de Asistencia técnica, de acuerdo a lo siguiente:
+Pago Etapa 2: Al Serviu en su calidad de EP y/o a los PSAT, se les pagarán los servicios de Asistencia técnica, de acuerdo a lo siguiente:
 
 a) 2 UF por el o los contratos firmados con la o las Empresas Constructoras, monto que se pagará al momento de estar firmados todos los contratos, salvo el contrato asociado al proyecto Fotovoltaico, que podrá ser firmado posteriormente.
 
@@ -354,11 +356,21 @@ En todo aquello que no se contraponga con lo dispuesto en la presente resolució
 
 11. Los subsidios podrán ser cobrados en la medida que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
+Para la Región de Atacama las formas de pago son las siguientes:
+
 Pagos de obras: Las obras de "Instalación de Colectores Solares" y las "Obras de Reparaciones", que no requieran de Permiso de Edificación, se cancelarán cuando estén terminadas y recepcionadas por Serviu.
 
 En caso que las "Obras de Reparación" hayan contemplado un permiso de edificación y el contratista cobre al finalizar la obra, este podrá cobrar hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
-Para el caso de las obras de "Instalación de Paneles Fotovoltaicos" se podrá pagar hasta el 70% de este subsidio cuando el contratista presente a la Superintendencia de Electricidad y Combustibles (SEC) el formulario de Declaración TE 4, circunstancia que deberá acreditar al Serviu al momento de solicitar el cobro del subsidio, quedando el 30% restante retenido hasta su total tramitación en SEC.
+Para el caso de las obras de "Instalación de Paneles Fotovoltaicos" se podrá pagar hasta el 70% de este subsidio cuando el contratista presente a la Superintendencia de Electricidad y Combustibles (SEC) el formulario de Declaración TE 4, circunstancia que deberá acreditar al Serviu al momento de solicitar el cobro del subsidio, quedando el 30% restante retenido hasta la firma del contrato entre el propietario del inmueble y la empresa distribuidora eléctrica local y, la puesta en servicio del panel fotovoltaico conectado a la red.
+
+Para la Región de Antofagasta las formas de pago son las siguientes:
+
+Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras acreditado mediante informe del fiscalizador, visado por el Serviu. Para las obras que no requieran de Permiso de Edificación, se cursaran 4 pagos divididos en avances del 25% cada uno. Para las obras que requieran de un Permiso de Edificación se realizarán pagos en porcentajes de un 30% hasta el 90% y el 10% restante quedará retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+
+Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, este podrá cobrar hasta el 90% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 10% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+
+En el caso que la obra se tramite considerando las disposiciones especiales contenidas en el artículo 5.1.4 en su numeral 7° de la Ordenanza General de Urbanismo y Construcciones (OGUC), se pagará el 100% del subsidio cuando la obra esté terminada y recepcionada por Serviu.
 
 12. Título II, Subsidio Daño reparable Moderado para Mejoramiento de la Vivienda a través de la adquisición de materiales y la contratación de servicios de construcción y reparación.
 
