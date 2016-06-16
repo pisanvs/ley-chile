@@ -94,7 +94,15 @@ iii. Se les delega la facultad de representar legalmente al Servicio para el sol
 
 2. A efecto de cumplir con eficiencia y eficacia las facultades que la ley y el reglamento otorgan al Director del Servicio de Salud Viña del Mar - Quillota en materia financiera, se delega en el Subdirector de Recursos Físicos y Financieros y/o en el Jefe del Departamento de Desarrollo Institucional las siguientes facultades:
 
-a) La facultad de efectuar compras de bienes y servicios, siempre que la compra se ampare en una licitación pública. Esta delegación incluye la facultad de contratar, dictar la resolución aprobatoria del contrato y otorgar todos los actos que permitan el cumplimiento del objeto de la licitación, y la oportuna modificación de las bases administrativas, las especificaciones técnicas y demás antecedentes de la licitación; comprende también todos los actos tendientes a cumplir el objeto del contrato, tales como la modificación, resciliación, aplicación de multas y liquidación del mismo.
+a) La facultad de efectuar compras de bienes y servicios.
+
+Esta delegación incluye la facultad de contratar mediante convenio marco, licitación pública, licitación privada o trato directo; la facultad dictar la resolución aprobatoria del contrato y otorgar todos los actos que permitan el cumplimiento del objeto de compra pública, y la oportuna aprobación o modificación de las bases administrativas, las especificaciones técnicas o los términos de referencia.
+
+La delegación comprende la facultad de autorizar el aprobar el pago de lo comprado y la de aprobar la modificación, resciliación o liquidación del contrato correspondiente.
+
+Incluye la facultad de declarar inadmisibles las ofertas cuando éstas no cumplieren con los requisitos establecidos en las bases; la facultad de declarar desierta una licitación cuando no se presenten ofertas, o bien, cuando éstas no resulten convenientes a los intereses del Servicio, cumpliendo el requisito de resolución fundada que exige el art. 9 de la Ley de Bases sobre Contratos administrativos de suministro y prestación de servicios; la facultad de nombrar integrantes de comisiones evaluadoras; la facultad de nombrar y remover referentes técnicos y asesores técnicos de reconocido prestigio en las materias técnicas a revisar en los procesos de licitación.
+
+Incluye la facultad de aplicar multas, cobrar las garantías o terminar anticipadamente el contrato.
 
 b) La facultad de aceptar donaciones en dinero hasta 250 UTM, siempre que se acepte con beneficio de inventario.
 
