@@ -1870,7 +1870,7 @@ excepción de las calles Maipú
 
 y Bilbao con un antejardín
 
-obligatorio de mínimo 2,50
+obligatorio de mínimo 2,20
 
 metros
 
