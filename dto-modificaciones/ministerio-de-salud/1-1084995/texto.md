@@ -680,6 +680,8 @@ Las normas y demás procedimientos para la realización de los estudios de biodi
 
 Las modificaciones a que se refieren los numerales 17, 29 y 41, todos del artículo 1 de este decreto supremo, entrarán en vigencia en el plazo de 6 meses contado desde su publicación.
 
+Exceptúase de lo dispuesto en el inciso anterior, la norma contenida en el inciso 4° del artículo 38 del DS N° 466/84, introducido por el numeral 17 del artículo 1° del decreto supremo N° 1, de 2015, la que entrará en vigencia el día 30 de junio de 2017.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jaime Burrows Oyarzún, Ministro de Salud (S).
 
 Transcribo para su conocimiento decreto afecto Nº 1 de 02-01-2015.- Saluda atentamente a Ud., Jaime Burrows Oyarzún, Subsecretario de Salud Pública.
