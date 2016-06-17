@@ -5882,6 +5882,26 @@ artesanales, tripulantes de naves
 
 especiales y trabajadores de planta.
 
+k) Proyectos y programas de fomento y
+
+desarrollo al cultivo y repoblamiento de
+
+algas dirigidos a titulares de concesiones
+
+de acuicultura que cuenten con el cultivo
+
+de algas dentro de su proyecto técnico
+
+aprobado por la Subsecretaría de Pesca y
+
+Acuicultura y que califiquen como micro o
+
+pequeña empresa, de conformidad con la
+
+ley N°20.416, y que tengan vinculación con
+
+la acuicultura o la pesca artesanal.
+
 El Fondo será administrado por el Consejo de Administración Pesquera, integrado por el Ministro de Economía, Fomento y Reconstrucción, quien lo presidirá; el Ministro de Hacienda o un representante permanente designado por éste; el Ministro del Trabajo y Previsión Social o un representante permanente designado por éste; el Subsecretario de Pesca y el Director Nacional de Pesca.
 
 Los recursos que contemple este Fondo para cada año calendario deberán distribuirse para los objetivos que señala el inciso primero de este artículo, priorizándose los fines contenidos en las letras d) y e).
