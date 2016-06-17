@@ -14,11 +14,13 @@ DE LOS OBJETIVOS Y ALCANCES
 
 #### Artículo 1
 
-Este reglamento tiene por objeto establecer las normas complementarias en relación a los preceptos, límites y condiciones que se señalan en la Ley Nº 20.365, en relación al crédito que las empresas constructoras tienen derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, por todo o parte del valor de los Sistemas Solares Térmicos y de su instalación que monten en bienes corporales inmuebles destinados a la habitación, construidos por ellas; como, asimismo, precisar los requisitos mínimos que deben cumplir los señalados Sistemas Solares Térmicos y su instalación; y, en general, regular las demás materias que la ley citada ordena reglamentar.
+Este reglamento tiene por objeto establecer las normas complementarias en relación a los preceptos, límites y condiciones que se señalan en la ley Nº 20.365, en relación al crédito que las empresas constructoras tienen derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, por todo o parte del valor de los Sistemas Solares Térmicos, de su instalación y mantenciones obligatorias mínimas que monten en bienes corporales inmuebles destinados a la habitación, construidos por ellas; y en relación a los Sistemas Solares Térmicos acogidos a los subsidios regulados en el inciso primero del artículo 13º de la ley Nº 20.365, sin perjuicio de las demás disposiciones que establezca el Ministerio de Vivienda y Urbanismo en esta materia.
+
+Asimismo, el presente reglamento tiene por objeto precisar los requisitos mínimos que deben cumplir los señalados Sistemas Solares Térmicos, su instalación y mantenciones obligatorias mínimas; y, en general, regular las demás materias que la ley citada ordena reglamentar.
 
 #### Artículo 2
 
-Las disposiciones del presente reglamento regulan el procedimiento administrativo para obtener el beneficio tributario que establece la Ley N° 20.365, los requerimientos técnicos de los Sistemas Solares Térmicos y de su instalación y el procedimiento de inspección de dichos sistemas.
+Las disposiciones del presente reglamento regulan el procedimiento administrativo para obtener el beneficio tributario que establece el artículo 1º de la ley Nº 20.365 y los requerimientos técnicos de los Sistemas Solares Térmicos, de su instalación y mantenciones obligatorias mínimas, que se acojan al artículo 1º o al artículo 13º de la ley Nº 20.365.
 
 ## Capítulo II
 
@@ -32,7 +34,7 @@ Las empresas constructoras y el propietario primer vendedor de las viviendas don
 
 Al Servicio de Impuestos Internos, en adelante el Servicio o el SII, en ejercicio de las atribuciones que le confiere su Estatuto Orgánico y el Código Tributario para la aplicación y fiscalización administrativa de las disposiciones tributarias, le corresponderá la aplicación, implementación y control de las disposiciones de índole tributaria contenidas en la Ley y el presente reglamento, así como la aplicación de las sanciones por infracciones de dicha naturaleza, contempladas expresamente en el ordenamiento legal.
 
-La Superintendencia de Electricidad y Combustibles, en adelante la Superintendencia o la SEC, será el organismo encargado del establecimiento y administración del registro de Colectores Solares Térmicos y Depósitos Acumuladores y de la autorización de los organismos, laboratorios y entidades de control que se indican en el Artículo 9º de la Ley, así como también en lo concerniente a los procedimientos que dicho organismo establezca para otorgar tales autorizaciones y ejercer el control correspondiente, sin perjuicio de su facultad para sancionar, conforme a lo establecido en el Título IV de la ley Nº 18.410, a las empresas constructoras que hubieren utilizado el beneficio tributario establecido en la Ley, en caso de comprobarse que los Sistemas Solares Térmicos no cumplen con las especificaciones definidas en este reglamento o con lo declarado en la respectiva memoria de cálculo.
+La Superintendencia de Electricidad y Combustibles, en adelante la Superintendencia o la SEC, será el organismo encargado del establecimiento y administración del registro de Colectores Solares Térmicos y Depósitos Acumuladores y de la autorización de los organismos, laboratorios y entidades de control que se indican en el Artículo 9º de la Ley, así como también en lo concerniente a los procedimientos que dicho organismo establezca para otorgar tales autorizaciones y ejercer el control correspondiente, sin perjuicio de su facultad para sancionar, conforme a lo establecido en el Título IV de la ley Nº 18.410, a las empresas constructoras que hayan accedido al beneficio tributario contenido en el artículo 1º o cuyos equipos hayan sido parte del subsidio establecido en el inciso primero del artículo 13º de la ley, en caso de comprobarse que los Sistemas Solares Térmicos no cumplen con las especificaciones definidas en la Ley, en este reglamento o con lo declarado en la respectiva memoria de cálculo.
 
 El Servicio, mediante resolución, determinará la oportunidad y forma en que las empresas constructoras le deberán informar lo indicado en el inciso quinto del artículo 6º de la Ley.
 
@@ -100,67 +102,31 @@ DEL BENEFICIO TRIBUTARIO
 
 #### Artículo 6
 
-El crédito por cada Sistema Solar Térmico incorporado en la construcción de una vivienda se determinará en relación al valor de los componentes que integran el Sistema Solar Térmico y su instalación, según las siguientes reglas:
+El crédito por cada Sistema Solar Térmico incorporado en la construcción de una vivienda se determinará en relación al valor de los componentes que integran el Sistema Solar Térmico , su instalación y mantenciones obligatorias mínimas, según las siguientes reglas:
 
-a) El valor de dichos sistemas y su instalación se acreditará con las facturas de compra o instalación, cuando sea obligatoria la emisión de tales documentos. En los demás casos, dichos valores podrán ser acreditados con los demás documentos que den cuenta de la adquisición, importación o instalación, según corresponda. Para efectos de los cálculos a que se refiere esta letra, el valor de los Sistemas Solares Térmicos y su instalación deberá ser convertido a unidades de fomento a la fecha de adquisición o instalación, respectivamente. Lo anterior es sin perjuicio de lo dispuesto en el artículo 64 del Código Tributario.
+a) El valor de dichos sistemas, su instalación y mantenciones obligatorias mínimas se acreditará con las facturas de compra, instalación o mantención, cuando sea obligatoria la emisión de tales documentos. En los demás casos, dichos valores podrán ser acreditados con los demás documentos que den cuenta de la adquisición, importación, instalación o mantención, según corresponda. Para efectos de los cálculos a que se refiere esta letra, el valor de los Sistemas Solares Térmicos, su instalación y mantenciones obligatorias mínimas deberá ser convertido a unidades de fomento a la fecha de adquisición o instalación, respectivamente. Lo anterior es sin perjuicio de lo dispuesto en el artículo 64 del Código Tributario.
 
 b) El monto potencial máximo del crédito por vivienda se determinará de acuerdo a la siguiente escala, considerando los valores de las viviendas respectivas que incluyen el valor del terreno y de la construcción:
 
-i) Respecto de los inmuebles cuyo valor no exceda de 2.000 unidades de fomento, el beneficio potencial máximo será equivalente a la totalidad del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio señalado no podrá exceder los valores indicados en las letras c) y d) siguientes.
+i) Respecto de los inmuebles cuyo valor no exceda de 2.000 unidades de fomento, el beneficio potencial máximo será equivalente a la totalidad del valor del respectivo Sistema Solar Térmico, su instalación y mantenciones obligatorias mínimas. En todo caso, el beneficio señalado no podrá exceder los valores indicados en las letras c) y d) siguientes.
 
-ii) Respecto de los inmuebles cuyo valor sea superior a 2.000 unidades de fomento y no exceda de 3.000 unidades de fomento, el beneficio potencial máximo será equivalente al 40% del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio no podrá exceder del 40% de los valores señalados en las letras c) y d) siguientes.
+ii) Respecto de los inmuebles cuyo valor sea superior a 2.000 unidades de fomento y no exceda de 3.000 unidades de fomento, el beneficio potencial máximo será equivalente al porcentaje que se obtiene del cálculo de la operación aritmética (3000-Vv)/10, donde Vv corresponde al valor de la vivienda, aplicado al valor del respectivo sistema solar térmico, su instalación y mantenciones obligatorias mínimas. En todo caso, el beneficio no podrá exceder del mismo porcentaje calculado en este numeral, aplicado a los valores señalados en las letras c) y d) siguientes.
 
-iii) Respecto de los inmuebles cuyo valor sea superior a 3.000 unidades de fomento y no exceda de 4.500 unidades de fomento, el beneficio potencial máximo será equivalente al 20% del valor del respectivo Sistema Solar Térmico y su instalación. En todo caso, el beneficio no podrá exceder del 20% de los valores señalados en las letras c) y d) siguientes. Las viviendas con un valor superior al indicado no darán derecho al beneficio.
+iii) Los inmuebles cuyo valor sea superior a 3.000 unidades de fomento no darán derecho al beneficio.
 
 c) En el caso en que el Sistema Solar Térmico sea utilizado sólo por una vivienda, el beneficio tributario por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la Tabla Nº 1 siguiente:
 
-Tabla Nº 1
-
-Año Unidades de Fomento por vivienda
-
-2009 32.5
-
-2010 32.0
-
-2011 31.5
-
-2012 31.0
-
-2013 30.0
+.
 
 El crédito por vivienda se establecerá en los términos indicados en la letra b) anterior.
 
-d) En el caso en que el Sistema Solar Térmico sea utilizado por más de una vivienda, para el cálculo del crédito se prorrateará el valor de dicho sistema y su instalación en el número de unidades de vivienda en proporción a la demanda anual de agua caliente sanitaria de cada una de ellas, calculada conforme a lo indicado en los artículos 24, 25 y 26 de este reglamento, sin considerar las unidades de vivienda que no tengan acceso al uso del señalado sistema. El crédito por vivienda se establecerá en los términos establecidos en la letra b) anterior. Con todo, si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es menor a 80 metros cuadrados, el beneficio tributario por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la Tabla Nº 2 siguiente:
+d) En el caso en que el Sistema Solar Térmico sea utilizado por más de una vivienda, para el cálculo del crédito se prorrateará el valor de dicho sistema, su instalación y mantenciones obligatorias mínimas en el número de unidades de vivienda en proporción a la demanda anual de agua caliente sanitaria de cada una de ellas, calculada conforme a lo indicado en los artículos 24, 25 y 26 de este reglamento, sin considerar las unidades de vivienda que no tengan acceso al uso del señalado sistema. El crédito por vivienda se establecerá en los términos establecidos en la letra b) anterior. Con todo, si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es menor a 80 metros cuadrados, el beneficio tributario por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la Tabla Nº 2 siguiente:
 
-Tabla Nº 2
-
-Año Unidades de Fomento por vivienda
-
-2009 29.5
-
-2010 29.0
-
-2011 28.0
-
-2012 27.5
-
-2013 26.5
+.
 
 Si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es igual o mayor a 120 metros cuadrados, el beneficio tributario por cada vivienda no podrá exceder, en el respectivo año, del equivalente a las unidades de fomento que se señalan en la Tabla Nº 3 siguiente:
 
-Tabla Nº 3
-
-Año Unidades de Fomento por vivienda
-
-2009 26.0
-
-2010 25.5
-
-2011 24.5
-
-2012 24.0
-
-2013 23.5
+.
 
 Si la superficie instalada de Colectores Solares Térmicos utilizados por más de una vivienda es igual o mayor a 80 metros cuadrados pero inferior a 120 metros cuadrados, el beneficio tributario no podrá exceder del valor que se obtiene del cálculo de la siguiente operación aritmética:
 
@@ -200,6 +166,8 @@ Por un plazo de cinco años contados desde la recepción municipal definitiva de
 
 El incumplimiento de esta prohibición será sancionado en la forma prevista en el inciso primero, del número 4°, del artículo 97 del Código Tributario, por el tribunal competente, de acuerdo a lo previsto en la normativa procesal aplicable a los delitos tributarios.
 
+Asimismo, se prohíbe la comercialización de Sistemas Solares Térmicos o cualquiera de sus componentes que hayan servido con anterioridad para percibir el subsidio contemplado en el artículo 13º de la ley. Esta prohibición regirá por cinco años, contados desde la recepción municipal definitiva de la obra donde se hubiesen instalado primeramente, y su incumplimiento se sancionará en la forma prevista en el inciso final del artículo 39 del decreto Nº 1, de 2011, del Ministerio de Vivienda y Urbanismo, que aprueba el reglamento del sistema integrado de subsidio habitacional y deroga el DS Nº 40, de 2004, y el capítulo segundo del DS Nº 174, de 2005.
+
 ## Capítulo V
 
 REQUERIMIENTOS TÉCNICOS DE LOS SST
@@ -224,9 +192,11 @@ d) Un sistema de regulación y control que se encarga de asegurar el correcto fu
 
 e) Adicionalmente, en el caso de un SST Indirecto, un sistema de intercambio que realiza la transferencia de energía térmica captada desde el sistema de captación o circuito primario, al agua caliente que se consume.
 
+Adicionalmente, podrán estar integrados por un dispositivo destinado al tratamiento de la dureza del agua de la red, para prevenir o disminuir las incrustaciones de sales en las tuberías y en cualquier componente del SST.
+
 #### Artículo 10
 
-La SEC mantendrá un registro actualizado de colectores solares térmicos y depósitos acumuladores que permitan acceder al beneficio tributario establecido por la Ley.
+La SEC mantendrá un registro actualizado de colectores solares térmicos y depósitos acumuladores que permitan acceder al beneficio tributario establecido en el artículo 1º y a los subsidios establecidos en el artículo 13º de la Ley.
 
 #### Artículo 11
 
@@ -390,7 +360,7 @@ El diseño del SST deberá incluir algún método de prevención de la formació
 
 #### Artículo 23
 
-Sólo darán derecho al crédito establecido en la Ley los Sistemas Solares Térmicos que aporten la Contribución Solar Mínima correspondiente a cada zona climática, definida según su radiación solar, que se indica en la Tabla Nº 4.
+Sólo darán derecho al crédito establecido en la Ley y a los subsidios establecidos en el artículo 13º de la misma, los Sistemas Solares Térmicos que aporten la Contribución Solar Mínima correspondiente a cada zona climática, definida según su radiación solar, que se indica en la Tabla Nº 4.
 
 El Ministerio de Energía, en ejercicio de sus atribuciones, dictará una norma técnica estableciendo el algoritmo que se utilizará para la verificación del cumplimiento de la contribución solar mínima exigida así como el margen de tolerancia en la verificación, el que en todo caso no superará el 15% de la contribución solar mínima exigida para cada zona climática, la que además contendrá, para cada comuna, la siguiente información: zona climática, valores promedios de temperatura ambiente, temperatura del agua, latitud media, factor modificador de la radiación incidente a una superficie inclinada, radiación solar global media anual sobre superficie horizontal y radiación solar global y difusa media mensual sobre superficie horizontal.
 
@@ -436,7 +406,7 @@ Documentación
 
 #### Artículo 28
 
-La empresa constructora, a efectos de acreditar tanto la instalación como los componentes de los SST, deberá presentar al Municipio, al momento de la recepción municipal definitiva de la obra, los documentos Declaración Jurada 1 y Declaración Jurada 2 que se indican en las letras a y b de este artículo.
+La empresa constructora, a efectos de acreditar tanto la instalación como los componentes de los SST, deberá presentar a la Superintendencia y al Municipio, al momento de la recepción municipal definitiva de la obra, los documentos Declaración Jurada 1 y Declaración Jurada 2 que se indican en las letras a) y b) de este artículo y una copia autorizada del contrato de mantención del Sistema Solar Térmico instalado. Dicho contrato contemplará la realización, durante a lo menos cinco años contados desde la recepción municipal definitiva del inmueble, de las mantenciones periódicas mínimas que permitan mantener la validez de la garantía de funcionamiento de los SST bajo los términos señalados en el inciso primero del artículo 8º de la ley Nº 20.365. La frecuencia y demás características de dichas mantenciones deberán estar en conformidad a lo señalado por el proveedor del sistema para las condiciones particulares de instalación y operación del SST, tales como, las climáticas y las del agua sanitaria. Para todos los efectos corresponderá a la Superintendencia la fiscalización de la obligación de mantención de los sistemas y componentes de acuerdo a lo establecido en el contrato, por el fabricante y/o la naturaleza del equipo.
 
 Asimismo, la empresa constructora deberá entregar una copia de estos documentos al propietario de la vivienda al momento de la entrega del SST y deberá enviar los antecedentes de la memoria de cálculo que la Superintendencia requiera, en la forma y medios que ésta establezca.
 
@@ -468,15 +438,13 @@ Anexo Memoria de Cálculo
 
 Parte 1: Antecedentes Generales del Proyecto
 
+.
+
 Nota: Viviendas tipo están caracterizadas por el número de dormitorios y el tramo del valor de la vivienda al que pertenece según lo siguiente:
 
 Tramo 1: Menor o igual a 2000 UF;
 
 Tramo 2: Mayor que 2000 UF y menor o igual que 3000 UF;
-
-Tramo 3: Mayor que 3000 UF y menor o igual a 4500 UF;
-
-Tramo 4: Mayor que 4500 UF.
 
 Parte 2: Información Técnica del SST
 
@@ -537,6 +505,10 @@ V: el volumen del depósito de acumulación solar [litros].
 2. Los SST con un volumen de acumulación mayor a 2 m3 deberán llevar válvulas de corte u otros sistemas adecuados para cortar flujos no intencionados al exterior del depósito en caso de daños del sistema.
 
 3. Los acumuladores deberán estar completamente aislados de forma tal de reducir las pérdidas de calor. El espesor mínimo del aislamiento estará dado por la siguiente ecuación:
+
+.
+
+4. Los sistemas de acumulación deberán cumplir con las especificaciones técnicas que al efecto indicará el Ministerio de Energía, en ejercicio de sus atribuciones, mediante norma técnica.
 
 ### Párrafo II — .- Conexiones de los acumuladores
 
@@ -740,7 +712,7 @@ La vivienda deberá ser entregada con el montaje completo del SST, incluyendo la
 
 #### Artículo 42
 
-La empresa constructora deberá entregar al propietario un manual de uso y mantenimiento con un diagrama de la instalación donde se identifiquen los equipos, los dispositivos de control y de medición y el sentido del flujo.
+La empresa constructora deberá entregar al propietario la información relevante respecto al contrato de mantención suscrito, relativa a la individualización de quien realizará las mantenciones, las actividades de mantención previstas y sus plazos. Asimismo, la empresa constructora deberá entregar al propietario un manual de uso y mantenimiento con un diagrama de la instalación donde se identifiquen los equipos, los dispositivos de control y de medición y el sentido del flujo.
 
 El manual de uso y mantenimiento deberá abordar al menos los siguientes tópicos:
 
@@ -754,13 +726,15 @@ DE LA INSPECCIÓN
 
 #### Artículo 43
 
-El propietario primer vendedor de una vivienda acogida al beneficio tributario deberá solventar la realización de una inspección respecto del SST a solicitud del actual propietario de la vivienda. En conformidad a lo dispuesto en la letra d) del artículo 2º de la Ley, dicha obligación dejará de existir en caso que propietarios posteriores hubieren cambiado el destino del bien corporal inmueble a uno distinto al habitacional.
+Respecto de aquellos Sistemas Solares Térmicos instalados en inmuebles que hayan solicitado la recepción municipal antes del 30 de noviembre de 2013, y que se hayan acogido al beneficio tributario contemplado en el artículo 1º de la ley Nº 20.365, les será aplicable lo establecido en el presente artículo y en los artículos 44, 45, 46 y 47 siguientes.
 
-La inspección antedicha sólo podrá ser realizada por los organismos de inspección u otras entidades de control autorizadas por la SEC, autorización que se otorgará para que realicen o hagan realizar, bajo su exclusiva responsabilidad, las pruebas y ensayos que la SEC, mediante resolución, estime necesarias para constatar que los SST cumplen con las especificaciones establecidas en el presente reglamento y a lo declarado en la memoria de cálculo.
+El propietario primer vendedor de una vivienda acogida al beneficio tributario de la ley Nº 20.365 deberá solventar la realización de una inspección del SST a solicitud del actual propietario de la vivienda. Esta revisión sólo podrá ser realizada por los organismos y entidades a que se refiere el artículo 9º, número 3, de la ley Nº 20.365. En conformidad a lo dispuesto en la letra d) del artículo 2º de la ley, dicha obligación dejará de existir en caso que propietarios posteriores hubieren cambiado el destino del bien corporal inmueble a uno distinto al habitacional.
 
 #### Artículo 44
 
 El actual propietario de la vivienda podrá requerir al propietario primer vendedor la realización de la inspección dentro del primer año contado desde la recepción municipal definitiva de la vivienda, mediante una solicitud por escrito, que deberá comunicarse mediante carta certificada o por cualquier otro medio que se hubiere convenido, siempre que permita dejar constancia de la fecha de recepción de la solicitud, la que deberá proporcionar la información indicada en el siguiente Formulario de Solicitud de Inspección a Sistemas Solares Térmicos:
+
+.
 
 El propietario primer vendedor, en un plazo de quince días corridos contado desde la fecha de recepción de la solicitud de inspección, deberá responder en la forma indicada en el inciso precedente al actual propietario de la vivienda su aceptación o su rechazo fundado. Sólo se podrá rechazar una solicitud de inspección si ésta no se ajusta a lo estipulado en el presente reglamento. En caso de rechazo, el actual propietario de la vivienda, dentro del plazo de veinte días corridos contado desde la fecha de recepción de la respuesta, podrá presentar un reclamo ante la Superintendencia, la que, una vez requeridos los antecedentes del caso y previa audiencia del primer vendedor, resolverá sobre la materia de conformidad con sus atribuciones.
 
@@ -784,15 +758,23 @@ Los organismos de inspección, una vez efectuada ésta, deberán informar al pro
 
 #### Artículo 48
 
-El propietario primer vendedor de una vivienda deberá responder por los daños y perjuicios que provengan de las fallas o defectos del Sistema Solar Térmico, de sus componentes y de su correcto funcionamiento, de conformidad a lo establecido en los artículos 18 y siguientes del decreto con fuerza de ley Nº 458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, entendiéndose que este tipo de sistemas se encuentran comprendidos en el número 2 del inciso séptimo del señalado artículo.
+El propietario primer vendedor de una vivienda que fue acogida al beneficio establecido en el artículo 1º o al subsidio señalado en el artículo 13º de la Ley Nº 20.365 deberá responder por los daños y perjuicios que provengan de las fallas o defectos del Sistema Solar Térmico, de sus componentes y de su correcto funcionamiento, de conformidad a lo establecido en los artículos 18 y siguientes del decreto con fuerza de ley Nº 458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, entendiéndose que este tipo de sistemas se encuentran comprendidos en el número 2 del inciso séptimo del señalado artículo.
 
-Si se determina la responsabilidad civil del propietario primer vendedor a que se refiere el inciso anterior, y la vivienda fuese de aquellas acogidas al beneficio establecido en la Ley, el Servicio impondrá una multa a beneficio fiscal equivalente al monto reajustado del beneficio que se hubiere impetrado por dicha vivienda, la que se aplicará conforme al procedimiento establecido en el numeral 2 del artículo 165 del Código Tributario. Para estos efectos, el interesado podrá ejercer el derecho que le confiere el artículo 164 del Código Tributario.
+Si se determina la responsabilidad civil del propietario primer vendedor a que se refiere el inciso anterior, y la vivienda fuese de aquellas acogidas al beneficio establecido en el artículo 1° de la Ley, el Servicio impondrá una multa a beneficio fiscal equivalente al monto reajustado del beneficio que se hubiere impetrado por dicha vivienda, la que se aplicará conforme al procedimiento establecido en el numeral 2 del artículo 165 del Código Tributario. Para estos efectos, el interesado podrá ejercer el derecho que le confiere el artículo 164 del Código Tributario.
 
-Si la inspección determinara que el SST, sus componentes o su funcionamiento presentan fallas o defectos, el propietario primer vendedor de la vivienda deberá responder por ellos conforme lo indicado en el inciso primero de este artículo.
+Inciso Suprimido.
+
+## Capítulo VIII
+
+De los reclamos
+
+#### Artículo 49
+
+Sin perjuicio de la facultad para resolver reclamos de la Superintendencia, conforme a lo dispuesto en el numeral 17 del artículo 3 de la ley Nº 18.410, los propietarios de una vivienda acogida al beneficio tributario de la ley Nº 20.365 o al subsidio del artículo 13º del mismo cuerpo normativo, podrán presentar a la Superintendencia reclamos que se susciten con relación a la ejecución de las mantenciones obligatorias mínimas.
 
 #### Artículo Final
 
-Las disposiciones del presente reglamento comenzarán a regir desde la fecha de su publicación.
+Derogado
 
 DISPOSICIONES TRANSITORIAS
 
