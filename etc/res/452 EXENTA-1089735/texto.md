@@ -22,6 +22,14 @@ Resolución:
 
 1.- Dispónense como plazos de recepción de expedientes a esta Seremi, mediante su ingreso por Oficina de Partes, ubicada en Rengo N° 384 Concepción, entre las 9:00 y las 13:30 horas, en el Llamado Extraordinario 2016, a postulación para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en la modalidad regulada por su Capítulo II, de la atención a Condominios de Viviendas Sociales, los siguientes:
 
+.
+
+Si por razones inimputables a los PSAT, los expedientes presentados al llamado extraordinario 2016 de Condominios de Viviendas Sociales no son revisados dentro de los plazos respectivos, excepcionalmente serán incorporados de oficio para el siguiente proceso de selección dispuesto por la referida resolución exenta, sin necesidad de que los PSAT ingresen nuevamente los expedientes en la Seremi.
+
+2- Distribúyase los recursos disponibles para el año 2016, en el citado Llamado Extraordinario. en las cantidades señaladas en el cuadro siguiente:
+
+.
+
 Los excedentes del primer proceso de selección, se sumarán a los recursos del segundo, en caso de existir. El tercer proceso de selección, sólo se realizará si resultaren excedentes de los dos procesos previos.
 
 3.- Defínanse los siguientes factores regionales de prelación, de acuerdo a lo dispuesto en el Resuelvo N° 17 de la resolución exenta N° 1.290 (V. y U.) de 2016:
