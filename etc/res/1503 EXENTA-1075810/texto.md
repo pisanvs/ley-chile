@@ -40,4 +40,6 @@ Técnica diagnóstica de Brucelosis Bovina en suero:
 
 5. Derógase la resolución exenta Nº 6.552, de 2013, del Servicio.
 
+6. Se aceptarán como oficiales los resultados de las pruebas diagnósticas efectuadas por los laboratorios veterinarios de diagnóstico privado y equipos de muestreo y diagnóstico de Brucelosis bovina en ferias ganaderas, en el marco del Programa Nacional de Erradicación de Brucelosis bovina, que hayan iniciado el proceso de autorización de terceros hasta el día 15 de julio de 2016.
+
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional.
