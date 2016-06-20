@@ -164,7 +164,11 @@ Los artículos reglamentados que sean reexportados a Chile desde un tercer país
 
 #### Artículo 28
 
-Los artículos reglamentados de origen chileno que hayan sido rechazados en el punto de entrada del país importador por la autoridad fitosanitaria correspondiente y que no hayan sufrido contaminación por plagas consideradas cuarentenarias, sólo podrán ingresar al territorio nacional con el Certificado Fitosanitario oficial que amparó la exportación, en original o copia, adjuntando el documento oficial emitido por la autoridad fitosanitaria del país importador en que conste las razones del rechazo.
+Los artículos reglamentados de origen chileno que sean devueltos sin haber sido importados por el país de destino, podrán reingresar a Chile en los siguientes casos:
+
+a) Cuando hayan sido rechazados en el punto de entrada del país importador por la autoridad fitosanitaria correspondiente y siempre que no hayan sufrido contaminación por plagas consideradas cuarentenarias. Sólo podrán ingresar al territorio nacional, con el certificado fitosanitario oficial que amparó la exportación, en original o copia, adjuntando el documento oficial emitido por la autoridad fitosanitaria del país importador en que consten las razones del rechazo.
+
+b) Cuando hayan sido devueltos por motivos comerciales o aduaneros, sin participación de la autoridad fitosanitaria correspondiente y siempre que no hayan sufrido contaminación por plagas consideradas cuarentenarias. Sólo podrán ingresar al territorio nacional, con el certificado fitosanitario oficial que amparó la exportación, en original y carta del importador explicando los motivos de la devolución. El producto deberá haber permanecido en la zona primaria del país importador sin ser desconsolidado o manipulado. El regreso a Chile debe ser en el mismo contenedor o envase (muestras) en el cual salió de Chile, con su sello correspondiente intacto. Si no fue sellado, solo se aceptará reingreso en un plazo no superior a 70 días corridos posteriores a su exportación desde Chile, para embarques marítimos, dependiendo de su destino. Para embarques aéreos no más de siete días corridos.
 
 #### Artículo 29
 
