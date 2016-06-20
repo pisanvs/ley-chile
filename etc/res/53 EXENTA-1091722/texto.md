@@ -1,0 +1,7 @@
+OTORGA POR UNA SOLA VEZ EL PLAZO QUE SE INDICA PARA INFORMAR AL SII DE LAS MODIFICACIONES RELACIONADAS CON LA ACTUALIZACIÓN DE LOS SOCIOS Y COMUNEROS; Y EL PORCENTAJE DE PARTICIPACIÓN EN EL CAPITAL Y/O UTILIDADES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 53 del 15 de junio de 2016, que establece:
+
+Se otorga por una sola vez, a los contribuyentes que estén en incumplimiento del deber de poner en conocimiento de este Servicio la actualización de la información relativa al retiro, incorporación o cambios de socios de sociedades de personas, sociedades de hecho, sociedades en comandita por acciones respecto de sus socios gestores, sociedades de profesionales clasificadas en la Primera o Segunda Categoría de la Ley de la Renta; y de comuneros de comunidades cualquiera que sea la forma en que determinen su renta en la Primera Categoría, ya sea, mediante contabilidad completa, simplificada o renta presunta; y de la variación que puedan sufrir los porcentajes de participación en el capital y las utilidades, de conformidad a las normas establecidas en la resolución exenta Nº55, del 2003, tienen plazo solo hasta el día 31 de julio de 2016, para dar cumplimiento a dicha obligación.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de junio de 2016.
