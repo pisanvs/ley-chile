@@ -14,19 +14,9 @@ Decreto:
 
 Primero: Créase la Comisión Asesora de Ética de la Investigación en Salud (CMEIS), entidad que tendrá como objetivo esencial asesorar a las autoridades del Ministerio de Salud en la resolución de problemáticas en el campo de la Bioética, especialmente en materia de investigaciones científicas biomédicas desarrolladas en seres humanos, y en lo referido a la acreditación y funcionamiento de los Comités Ético Científicos en los establecimientos que los constituyan.
 
-Segundo. La Comisión estará constituida por los siguientes integrantes:
+Segundo. La Comisión estará constituida por cinco miembros de reconocida idoneidad y experiencia, tanto en el campo de la ética de la investigación científica como en sistemas de regulación referidos a esta materia. Éstos serán seleccionados y nombrados por la Ministra de Salud, en resolución destinada a este efecto.
 
-a. Dra. Gladys Bórquez Estefó, C.I. 6.649.073-4
-
-b. Dra. Sofía Salas Ibarra, C.I. 6.067.345-4
-
-c. Dra. María Inés Gómez Bradford, C.I. 6.446.991-6
-
-d. María Angélica Sotomayor Saavedra, C.I. 5.205.474-5
-
-e. Dr. Patricio Valdés García, C.I. 7.652.117-4.
-
-Los miembros de la Comisión antes señalados, no percibirán remuneración alguna por su desempeño.
+Los miembros de la Comisión desempeñarán sus servicios ad honorem.
 
 Tercero. La Comisión podrá invitar a sus sesiones y solicitar la colaboración de cualquier persona experta y/o profesional del Ministerio de Salud, de los Servicios de Salud y de representantes de otras instituciones públicas o privadas que estime conveniente, en las materias de su cometido.
 
@@ -53,6 +43,8 @@ Iniciada una sesión, se someterá a la aprobación de la Comisión el acta corr
 Las actas tendrán numeración correlativa y en ellas se contendrá la información respecto del lugar, día, hora de inicio y término de la sesión; el nombre del Presidente de la Comisión; la nómina de los asistentes; un resumen fiel de todo lo ocurrido durante la sesión, y los acuerdos adoptados.
 
 Séptimo. Corresponderá al Gabinete del Subsecretario de Salud Pública, por intermedio de su Oficina Ministerial de Bioética, brindar el apoyo administrativo que requiera el trabajo de la CMEIS, incluyendo la facilitación de dependencias para sus sesiones, los elementos necesarios para un adecuado trabajo.
+
+Octavo. La Subsecretaría de Salud Pública, podrá financiar los pasajes y hospedaje de los miembros de la Comisión y colaboradores externos requeridos, que concurran desde regiones diferentes a la Metropolitana, y proveerá de almuerzo y/o colación, cuando sea pertinente
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Jaime Burrows Oyarzún, Ministro de Salud (S).
 
