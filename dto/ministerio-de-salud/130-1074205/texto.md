@@ -22,19 +22,9 @@ Primero: Créase la Comisión Asesora de Ética de la Investigación en Salud (C
 
 <!-- parte:9554066 -->
 
-Segundo. La Comisión estará constituida por los siguientes integrantes:
+Segundo. La Comisión estará constituida por cinco miembros de reconocida idoneidad y experiencia, tanto en el campo de la ética de la investigación científica como en sistemas de regulación referidos a esta materia. Éstos serán seleccionados y nombrados por la Ministra de Salud, en resolución destinada a este efecto.
 
-a. Dra. Gladys Bórquez Estefó, C.I. 6.649.073-4
-
-b. Dra. Sofía Salas Ibarra, C.I. 6.067.345-4
-
-c. Dra. María Inés Gómez Bradford, C.I. 6.446.991-6
-
-d. María Angélica Sotomayor Saavedra, C.I. 5.205.474-5
-
-e. Dr. Patricio Valdés García, C.I. 7.652.117-4.
-
-Los miembros de la Comisión antes señalados, no percibirán remuneración alguna por su desempeño.
+Los miembros de la Comisión desempeñarán sus servicios ad honorem.
 
 #### Artículo tercero
 
@@ -81,6 +71,12 @@ Las actas tendrán numeración correlativa y en ellas se contendrá la informaci
 <!-- parte:9554071 -->
 
 Séptimo. Corresponderá al Gabinete del Subsecretario de Salud Pública, por intermedio de su Oficina Ministerial de Bioética, brindar el apoyo administrativo que requiera el trabajo de la CMEIS, incluyendo la facilitación de dependencias para sus sesiones, los elementos necesarios para un adecuado trabajo.
+
+#### Artículo octavo
+
+<!-- parte:9710416 -->
+
+Octavo. La Subsecretaría de Salud Pública, podrá financiar los pasajes y hospedaje de los miembros de la Comisión y colaboradores externos requeridos, que concurran desde regiones diferentes a la Metropolitana, y proveerá de almuerzo y/o colación, cuando sea pertinente
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Jaime Burrows Oyarzún, Ministro de Salud (S).
 
