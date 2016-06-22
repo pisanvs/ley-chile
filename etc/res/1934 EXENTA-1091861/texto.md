@@ -1,0 +1,7 @@
+DEJA SIN EFECTO AJUDICACIONES A INVERSIONES E INMOBILIARIA CORONEL LIMITADA DE CUOTA DE RESERVA PARA CONSUMO HUMANO QUE INDICA Y AUTORIZA EL LLAMADO A SUBASTA PÚBLICA DE REASIGNACIÓN
+
+Por resolución exenta N°1.934, de 16 de junio de 2016, déjense sin efecto las adjudicaciones de los lotes de la cuota de reserva para consumo humano a favor de Inversiones e Inmobiliaria Coronel Limitada, RUT N° 76.263.710-3, domiciliada en calle B, sitio 9, manzana B, Parque Industrial, Coronel, según se detalla en la resolución extractada, de conformidad con el artículo 18 del DS N° 173, de 2013, del Ministerio de Economía, Fomento y Turismo.
+
+Autorícese el llamado mediante licitación pública a participar en subasta de reasignación de cuota de reserva para consumo humano de las empresas de menor tamaño, correspondiente a los lotes cuyas asignaciones se dejan sin efecto mediante la resolución extractada, de conformidad con lo establecido en el inciso segundo del artículo 18 del DS N° 173 de 2013, del Ministerio de Economía, Fomento y Turismo, mediante dos avisos, debiendo publicarse el primer aviso con a lo menos quince días corridos de anterioridad a la subasta. En dicha subasta, no podrá participar la empresa de menor tamaño individualizada en el párrafo anterior.
+
+Valparaíso, 16 de junio de 2016.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
