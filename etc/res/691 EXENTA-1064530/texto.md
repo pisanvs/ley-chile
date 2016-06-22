@@ -90,19 +90,11 @@ A.- En el/la Jefe/a de la División de Administración General, o en quien lo su
 
 36. Dictar los actos administrativos que autorizan pagos de cualquier índole a proveedores de la Superintendencia o reembolsos al personal de ésta, siempre que los montos no superen las 500 UTM.
 
-37. Dar respuesta a los reclamos que formulen los proveedores en el Sistema de Informaci�n de Compras y Contratación Pública, según los términos y condiciones de uso de dicho Sistema.
+37. Dar respuesta a los reclamos que formulen los proveedores en el Sistema de Información de Compras y Contratación Pública, según los términos y condiciones de uso de dicho Sistema.
 
 38. Dictar actos administrativos que disponen altas, bajas, asignación de traslado de bienes muebles, con o sin enajenación, incluidos los vehículos fiscales.
 
 B.- En el/la Jefe/a de División Fiscalía o en quien lo subrogue, las siguientes funciones:
-
-1. Conocer y resolver los recursos de reclamación administrativa, en que las sanciones a aplicar, correspondan a las dispuestas en las letras a) y b) del artículo 73 de la ley Nº 20.529.
-
-2. Interpretar administrativamente, en materias de su competencia, las leyes, reglamentos y normas técnicas que rigen las entidades y materias fiscalizadas, elaborar instrucciones de general aplicación y dictar órdenes para su cumplimiento, según lo dispuesto en el artículo 100 letra g) de la ley Nº 20.529.
-
-3. Emitir oficios necesarios para el retiro de actos administrativos de la Superintendencia de Educación, desde la Contraloría General de la República.
-
-4. Responder solicitudes o requerimientos que presenten instituciones públicas y/o privadas a la Superintendencia de Educación.
 
 5. Conocer y resolver los recursos ordinarios y extraordinarios que dispone la ley Nº 19.880, que se relacionen con las sanciones señaladas en el numeral 1, incluidos aquellos recursos que digan relación únicamente con el pronunciamiento referido a la procedencia o no del reintegro.
 
