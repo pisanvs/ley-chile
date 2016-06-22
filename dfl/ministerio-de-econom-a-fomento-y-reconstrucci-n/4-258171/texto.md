@@ -2824,7 +2824,7 @@ La Comisión deberá diseñar, coordinar y dirigir la realización de tales proc
 
 Las empresas concesionarias de distribución deberán sujetarse a lo dispuesto en las respectivas bases y a lo requerido por la Comisión para la realización de los procesos de licitación, de conformidad a lo dispuesto en los incisos cuarto y final del presente artículo.
 
-Los aspectos administrativos y de gestión que dispongan las bases respectivas serán de responsabilidad de las concesionarias de distribución licitantes, así como todos los gastos necesarios para el desarrollo del proceso de licitación.
+Los aspectos administrativos y de gestión que dispongan las bases respectivas serán de responsabilidad de las concesionarias de distribución licitantes, así como todos los gastos necesarios para el desarrollo del proceso de licitación. Dentro de estos gastos se comprenderán, entre otros, aquellos que tengan por objeto el financiamiento de actividades de gestión, tales como arriendo de locales, gastos de notaría u otros, y de actividades que tengan por objeto convocar a potenciales participantes, dentro o fuera del territorio nacional, en las que podrán participar representantes del sector público o privado.
 
 Las licitaciones públicas a que se refiere este artículo deberán cumplir con los principios de no discriminación arbitraria, transparencia y estricta sujeción a las bases de licitación. La información contenida en las ofertas de los proponentes será de dominio público a través de un medio electrónico.
 
@@ -2850,7 +2850,7 @@ El informe final contemplará, además, una proyección de los procesos de licit
 
 Una vez elaborado el informe a que se refiere el artículo anterior, la Comisión dispondrá la convocatoria de la licitación que corresponda, en caso de determinar la necesidad de realizarla. Para tal efecto, la Comisión elaborará las bases de licitación. Una vez elaboradas las bases de licitación, la Comisión las remitirá a través de medios electrónicos a las concesionarias de distribución licitantes, las cuales podrán efectuar observaciones a las mismas en los plazos y condiciones que establezca el reglamento. Dichas bases serán aprobadas por la Comisión mediante resolución exenta, la cual deberá ser publicada en el sitio web de la Comisión.
 
-La Comisión establecerá en las bases las condiciones de la licitación, las cuales especificarán, a lo menos, la cantidad de energía a licitar, los bloques de suministro requeridos para tal efecto; el período de suministro que debe cubrir la oferta, el cual no podrá ser superior a veinte años; los puntos del sistema eléctrico en el cual se efectuará el suministro; las condiciones, criterios y metodologías que serán empleados para realizar la evaluación económica de las ofertas, a los efectos de la adjudicación a que se refiere el artículo 134º, y un contrato tipo de suministro de energía para servicio público de distribución a que se refiere el inciso primero del artículo 7º de la ley, que regirá las relaciones entre la concesionaria de distribución y la empresa generadora adjudicataria respectiva.
+La Comisión establecerá en las bases las condiciones de la licitación, las cuales especificarán, a lo menos, la cantidad de energía a licitar, los bloques de suministro requeridos para tal efecto; el período de suministro que debe cubrir la oferta, el cual no podrá ser superior a veinte años; los puntos del sistema eléctrico en el cual se efectuará el suministro; las condiciones, criterios y metodologías que serán empleados para realizar la evaluación económica de las ofertas, a los efectos de la adjudicación a que se refiere el artículo 134º, y un contrato tipo de suministro de energía para servicio público de distribución a que se refiere el inciso primero del artículo 7º de la ley, que regirá las relaciones entre la concesionaria de distribución y la empresa generadora adjudicataria respectiva. Asimismo, las bases podrán regular la destinación que se dará a los recursos obtenidos por la venta de estas mismas, la que en todo caso deberá limitarse a la realización de actividades vinculadas directamente con aspectos administrativos, de gestión, difusión o publicidad de los procesos licitatorios, en los términos dispuestos en el inciso cuarto del artículo 131 de esta ley.
 
 Las bases de licitación podrán agrupar en un mismo proceso los requerimientos de suministro de distintas concesionarias de distribución.
 
@@ -3402,11 +3402,27 @@ Los concesionarios de servicio público de distribución deberán traspasar a su
 
 En caso de que el precio promedio de energía de una concesionaria, determinado para la totalidad de su zona de concesión, sobrepase en más del 5% el promedio ponderado del precio de energía calculado para todas las concesionarias de los sistemas eléctricos cuya capacidad instalada de generación sea superior a 200 megawatts el precio promedio de tal concesionaria deberá ajustarse de modo de suprimir dicho exceso, el que será absorbido en los precios promedio de los demás concesionarios, a prorrata de las respectivas energías suministradas para clientes regulados. Para efectos de la comparación señalada, los precios promedio deberán referirse a una misma subestación eléctrica.
 
-Las reliquidaciones entre empresas concesionarias a que dé origen el mecanismo señalado en el inciso anterior serán calculadas por las Direcciones de Peajes de los CDEC respectivos, de manera coordinada.
+Adicionalmente, en aquellas comunas intensivas en generación eléctrica ubicadas en los sistemas eléctricos con capacidad instalada superior a 200 megawatts, se aplicará un descuento a la componente de energía del precio de nudo establecido en el punto de conexión con las instalaciones de distribución que las concesionarias de distribución traspasan a los suministros sometidos a regulación de precios. Este descuento se efectuará luego de aplicado el mecanismo contemplado en el artículo 191 y se calculará en función del Factor de Intensidad de cada comuna, de acuerdo a la siguiente escala:
+
+.
+
+El Factor de Intensidad de cada comuna será calculado por la Comisión sobre la base de los datos que ésta obtenga para tales efectos, e informado al Ministerio con ocasión de la fijación de precios semestral a que se refiere el artículo 158. Los descuentos señalados serán absorbidos por los suministros sometidos a regulación de precios de las comunas no intensivas en generación, a través de un cargo en la componente de energía del precio de nudo establecido en el punto de conexión con las instalaciones de distribución.
+
+Junto con lo anterior, en aquellas comunas en que se emplacen centrales cuya energía eléctrica generada, en su conjunto, sea mayor al 5% de la energía eléctrica generada por las centrales interconectadas a los sistemas de capacidad instalada superior a 200 megawatts, se aplicará un descuento adicional al establecido en el inciso anterior. Los descuentos adicionales a que dé lugar la aplicación del presente inciso serán absorbidos por todos los suministros de clientes sometidos a regulación de precios de las comunas no intensivas en generación. El descuento se aplicará en la misma forma señalada en los incisos anteriores y de acuerdo a la siguiente tabla:
+
+.
+
+Para estos efectos, se considerará como energía eléctrica generada por una central generadora, aquella energía que ha inyectado al sistema durante los doce meses continuos anteriores al mes en que comience el proceso de fijación de precios a que se refiere el inciso cuarto. Será deber de cada CDEC informar a la Comisión la cantidad de energía eléctrica generada por generadora, para que las considere en el informe técnico a que se refiere el artículo 158. Sin perjuicio de lo anterior, en caso que una determinada comuna favorecida por el mencionado descuento pase a aportar menos del 5% sobre la energía generada, la comuna recibirá un descuento equivalente al 7,5% hasta la siguiente fijación semestral, en los mismos términos indicados en los incisos anteriores.
+
+Para el caso de las centrales hidráulicas productoras de energía eléctrica, cuyas instalaciones principales, tales como la bocatoma, la sala de máquina, la represa y el embalse, se emplacen en el territorio de más de una comuna, la metodología señalada en los incisos tercero al sexto anteriores será aplicable a todas las comunas donde se emplace la central, de acuerdo al Factor de Intensidad de dichas comunas y a su porcentaje de aporte a la energía generada. Lo anterior también aplicará para el caso de las centrales definidas en el literal ab) del artículo 225 que se emplacen en el territorio de más de una comuna. Para efectos de determinar la ubicación de las centrales generadoras, la Comisión podrá requerir a otros servicios o autoridades antecedentes sobre la ubicación de éstas.
+
+Las reliquidaciones entre empresas concesionarias a que dé origen el mecanismo señalado en el presente artículo serán calculadas por las Direcciones de Peajes de los CDEC respectivos, de manera coordinada.
 
 La reliquidación que pueda efectuarse entre concesionarios de servicio público de distribución no afectará la obligación del concesionario respectivo de pagar a su suministrador el precio íntegro de la energía y potencia recibida.
 
-INCISO SUPRIMIDO Los procedimientos para dar cumplimiento a lo establecido en este artículo se contendrán en el reglamento.
+Los procedimientos para dar cumplimiento a lo establecido en este artículo se contendrán en el reglamento.
+
+Para efecto de la aplicación del presente artículo, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por los CDEC y la Comisión.
 
 #### Artículo 158º
 
@@ -3672,6 +3688,8 @@ Los valores resultantes no formarán parte del valor agregado de distribución, 
 
 Los precios así determinados serán sometidos a revisión y determinación de nuevos valores con ocasión del proceso de fijación de tarifas de suministros de distribución sin perjuicio de que, en cualquier momento, cuando el Tribunal de Defensa de la Libre Competencia así lo determine, el Ministerio de Energía, mediante decreto, formalice su descalificación como servicio sujeto a fijación de precios.
 
+Sin perjuicio de lo señalado en los incisos anteriores, con ocasión del proceso de fijación de tarifas de suministro de distribución, éstas podrán considerar algunos de los servicios a los que se refiere el número 4 del artículo 147, que hayan sido previamente objeto de fijación de precios, dentro del valor agregado de distribución.
+
 #### Artículo 185º
 
 Con los valores agregados resultantes del artículo precedente y los precios de nudo que correspondan, la Comisión estructurará un conjunto de tarifas básicas preliminares, de acuerdo al criterio expresado en el artículo 181° de la presente ley. Deberán existir tantas tarifas básicas como empresas y sectores de distribución de cada empresa se hayan definido.
@@ -3719,6 +3737,10 @@ A más tardar, dentro de los treinta días siguientes a la publicación del resp
 #### Artículo 191º
 
 Durante el período de vigencia de las fórmulas tarifarias, las tarifas máximas que las empresas podrán cobrar a sus clientes se obtendrán aplicando a dichas fórmulas las variaciones de los índices de precios que en ellas se establezcan. Aquellos índices de precios que sean entregados oficialmente por el Instituto Nacional de Estadísticas, pueden ser aplicados automáticamente por las empresas distribuidoras. Otros índices de precios, tales como el índice de precios del conductor de cobre, serán elaborados por la Comisión e informados a las empresas a requerimiento de éstas para ser aplicados. En todo caso, cada vez que las empresas distribuidoras reajusten sus tarifas, deberán previamente comunicar los nuevos valores a la Comisión y a la Superintendencia, y publicarlos en un diario de circulación nacional.
+
+Sin perjuicio de lo anterior, en el conjunto de los sistemas eléctricos con capacidad instalada superior a 1.500 kilowatts, las tarifas máximas que las empresas distribuidoras podrán cobrar por suministro a usuarios residenciales no podrán superar el promedio simple de éstas, calculadas sobre la base de un consumo tipo, incrementado en un 10% del mismo, considerando una muestra representativa. En caso que dichas tarifas excedan este porcentaje, deberá aplicarse un ajuste a la componente contemplada en el número 3 del artículo 182. Si a pesar de ello no se lograre alcanzar el porcentaje antes mencionado, se aplicará el máximo descuento obtenido, sin que procedan ajustes adicionales. Las diferencias serán absorbidas progresivamente por todos los demás suministros sometidos a regulación de precios que estén bajo el promedio señalado, con excepción de aquellos usuarios residenciales cuyo consumo promedio mensual de energía del año calendario anterior sea menor o igual a 200 kWh, de modo que no varíe la recaudación total inicial. Sin perjuicio de lo anterior, las tarifas correspondientes a aquellos usuarios residenciales que deban absorber las diferencias señaladas, no podrán resultar superiores al promedio simple de éstas. Con todo, la absorción de las diferencias aludidas anteriormente por parte de los clientes residenciales cuyo consumo promedio mensual de energía del año calendario anterior haya sido mayor a 200 kWh y menor o igual a 240 kWh, será proporcional a la correspondiente para consumos mayores a 240 kWh conforme a lo siguiente: 20% para el intervalo mayor a 200 kWh y menor o igual a 210 kWh, 40% para el intervalo mayor a 210 kWh y menor o igual a 220 kWh, 60% para el intervalo mayor a 220 kWh y menor o igual a 230 kWh y 80% para el intervalo mayor a 230 kWh y menor o igual a 240 kWh.
+
+Los ajustes y recargos a que dé origen el mecanismo señalado serán fijados en el decreto que dicte el Ministerio de Energía con ocasión de la fijación de precios semestral a que se refiere el artículo 158, previo informe técnico de la Comisión. A su vez, las transferencias entre empresas distribuidoras a que den origen las diferencias de facturación producto de la aplicación del mecanismo antes mencionado serán calculadas por los CDEC respectivos, de manera coordinada. El mecanismo de reliquidación de las diferencias de facturación entre empresas concesionarias de distribución será establecido por la Comisión mediante Resolución Exenta. Para estos efectos, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por los CDEC y la Comisión. La entrega de información errónea, incompleta o elaborada a partir de antecedentes no fidedignos dará lugar a las sanciones establecidas en el Título IV de la ley N° 18.410, que crea la Superintendencia de Electricidad y Combustibles.
 
 #### Artículo 192º
 
@@ -4064,13 +4086,17 @@ aa) Medios de generación renovables no convencionales: los que presentan cualqu
 
 5) Aquellos cuya fuente de energía primaria sea la energía eólica, correspondiente a la energía cinética del viento.
 
-6) Aquellos cuya fuente de energía primaria sea la energía de los mares, correspondiente a toda forma de energía mecánica producida por el movimiento de las mareas, de las olas y de las corrientes, así como la obtenida del gradiente térmico de los mares.
+6) Aquellos cuya fuente de energía primaria sea la energía de los mares, correspondiente a |toda forma de energía mecánica producida por el movimiento de las mareas, de las olas y de las corrientes, así como la obtenida del gradiente térmico de los mares.
 
 7) Otros medios de generación determinados fundadamente por la Comisión, que utilicen energías renovables para la generación de electricidad, contribuyan a diversificar las fuentes de abastecimiento de energía en los sistemas eléctricos y causen un bajo impacto ambiental, conforme a los procedimientos que establezca el reglamento.
 
 ab) Energía renovable no convencional: aquella energía eléctrica generada por medios de generación renovables no convencionales.
 
 ac) Instalación de cogeneración eficiente: instalación en la que se genera energía eléctrica y calor en un solo proceso de elevado rendimiento energético cuya potencia máxima suministrada al sistema sea inferior a 20.000 kilowatts y que cumpla los requisitos establecidos en el reglamento.
+
+ad) Factor de Intensidad: se define como la razón entre la capacidad de generación instalada en cada comuna, expresada en kilowatts, y su número de clientes sometidos a regulación de precios.
+
+ae) Comuna Intensiva en Generación: comuna cuyo Factor de Intensidad es igual o mayor a 2,5 kW/N° Clientes Regulados.
 
 ## Título IX
 
