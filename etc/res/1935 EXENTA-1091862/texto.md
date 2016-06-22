@@ -1,0 +1,7 @@
+DEJA SIN EFECTO ADJUDICACIONES A SUPERMERCADOS LONGAVÍ S.A. DE CUOTA DE RESERVA PARA CONSUMO HUMANO QUE INDICA Y AUTORIZA EL LLAMADO A SUBASTA PÚBLICA DE REASIGNACIÓN
+
+Por resolución exenta Nº 1.935, de 16 de junio de 2016, déjense sin efecto las adjudicaciones de los lotes de la cuota de reserva para consumo humano a favor de Supermercados Longaví S.A., RUT Nº 96.733.630-0, domiciliada en Del Aserradero Nº 24, Lote 15, Parque Industrial, Lota, según se detalla en la resolución extractada, de conformidad con el artículo 18 del DS Nº 173, de 2013, del Ministerio de Economía, Fomento y Turismo.
+
+Autorícese el llamado mediante licitación pública a participar en subasta de reasignación de cuota de reserva para consumo humano de las empresas de menor tamaño, correspondiente a los lotes cuyas asignaciones se dejan sin efecto mediante la resolución extractada, de conformidad con lo establecido en el inciso segundo del artículo 18 del DS Nº 173, de 2013, del Ministerio de Economía, Fomento y Turismo, mediante dos avisos, debiendo publicarse el primer aviso con a lo menos quince días corridos de anterioridad a la subasta. En dicha subasta no podrá participar la empresa de menor tamaño individualizada en el párrafo anterior.
+
+Valparaíso, 16 de junio de 2016.- Raúl Súnico Galdames, Subsecretario de Pesca y Acuicultura.
