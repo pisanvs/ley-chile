@@ -54,6 +54,8 @@ El proyecto técnico deberá acompañarse del listado de equipos que se proponen
 
 Dicho proyecto deberá considerar que la zona de servicio para las transmisiones digitales debe corresponder a la zona de servicio de las transmisiones analógicas que se reemplazan, las cuales serán estimadas teóricamente considerando las probabilidades de que se supere el respectivo valor del campo eléctrico en el contorno en un 90% de las ubicaciones y 50% del tiempo. A tales efectos, podrán realizarse los ajustes que sean necesarios, incluyendo la posibilidad de incorporar en la nueva concesión estaciones adicionales para cumplir con las obligaciones de zona de servicio.
 
+En caso que la estimación teórica de la zona de servicio de una estación analógica, realizada de conformidad con el método de cálculo establecido en la resolución exenta N° 3.518, de 2015, de la Subsecretaría de Telecomunicaciones, y sus modificaciones, no cubra la o las localidades atendidas por las transmisiones analógicas, dicha zona de servicio se determinará considerando la recepción, en la práctica, de la señal analógica.
+
 Para el caso de compartición de infraestructura entre dos o más concesionarias en que se proponga una zona de servicio común, ésta podrá ser la que resulte de la superposición de las zonas de servicio analógicas que se reúnen. Cada concesionaria deberá presentar el correspondiente proyecto técnico, no obstante ser éste el mismo, suscrito por sus respectivos representantes técnicos y legales.
 
 Sin perjuicio de lo anterior, estará permitida además la tolerancia de un 30% de aumento de la zona de servicio en la dirección de mayor cambio, respecto de la zona de servicio de la estación analógica que se reemplace. Lo dispuesto en el presente inciso quedará, en todos los casos, sujeto a su factibilidad técnica.
@@ -90,7 +92,7 @@ Las concesionarias deberán asegurar calidad de recepción de su señal, dentro 
 
 #### Artículo 8º
 
-Los proyectos técnicos deberán ser presentados al Consejo Nacional de Televisión con una antelación no menor a 10 meses respecto del inicio de servicio señalado en la solicitud de otorgamiento o modificación de concesión presentada para efectos de la transición, el que no podrá ser superior a los máximos establecidos en la ley y el Plan TVD. En el caso de solicitudes que hayan declarado un plazo de inicio del servicio que no permita cumplir con el plazo señalado, deberán presentar sus proyectos en el plazo máximo de 2 meses contado desde la fecha de publicación en el Diario Oficial de la presente resolución.
+Los proyectos técnicos deberán ser presentados al Consejo Nacional de Televisión con una antelación no menor a 8 meses respecto del inicio de servicio señalado en la solicitud de otorgamiento o modificación de concesión presentada para efectos de la transición, el que no podrá ser superior a los máximos establecidos en la Ley y el Plan TVD. Dicho plazo de anticipación no será aplicable en el caso de solicitudes que hayan declarado un plazo de inicio del servicio que no permita cumplir con aquél, cuyos proyectos deberán presentarse en el plazo máximo de 3 meses contado desde la fecha de publicación en el Diario Oficial de la presente resolución.
 
 La Subsecretaría emitirá informe técnico respecto de los proyectos que se hubieren presentado de conformidad al artículo anterior y que le hubieren sido trasladados por el Consejo, pronunciándose sobre cada uno de ellos, considerando el cumplimiento de los requisitos formales y técnicos establecidos en la normativa aplicable.
 
@@ -138,18 +140,14 @@ En caso que la concesionaria desee utilizar una torre de alguna estación ya aut
 
 El certificado deberá acompañarse en original o copia simple y no deberá tener una antigüedad mayor a 60 días, contados desde la fecha de recepción de los antecedentes.
 
-### 7. Plazo de inicio del servicio
-
-Todos los plazos contados desde la fecha en que se notifique al interesado de la total tramitación de la respectiva resolución del Consejo que otorgue la concesión.
-
-### 8. De las construcciones e instalaciones
+### 7. De las construcciones e instalaciones
 
 Las construcciones e instalaciones relativas a las obras civiles (torre de antena, edificios, etc.) deberán cumplir con la Ordenanza Municipal respectiva y con la normativa de urbanismo y construcción.
 
 En cuanto a las obras eléctricas, deberá cumplirse con la normativa de la Superintendencia de Electricidad y Combustibles.
 
-9. Categoría de concesionaria (nacional, regional o local), según corresponda de conformidad a las concesiones analógicas de que es titular la concesionaria al momento de presentar su solicitud de migración.
+8. Categoría de concesionaria (nacional, regional o local), según corresponda de conformidad a las concesiones analógicas de que es titular la concesionaria al momento de presentar su solicitud de migración.
+
+CÁLCULOS CON 72 RADIALES FORMULARIO PROYECTO TÉCNICO PARA LA TRANSICIÓN ANÁLOGO-DIGITAL DEL SERVICIO DE RADIODIFUSIÓN TELEVISIVA
 
 ..
-
-.
