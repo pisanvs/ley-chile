@@ -20,8 +20,6 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al segundo llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011, Títulos I y II, dispuesto en el número 1º de la resolución exenta Nº 4.289, de este Ministerio, de 2013, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región y alternativa de postulación, según se indica en la siguiente tabla:
 
-.
-
 3º.- Déjanse sin efecto las 455 solicitudes de postulación para el segundo llamado nacional 2013 del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1 (V. y U.), de 2011, efectuado por el número 1º de la resolución exenta Nº 4.289, de este Ministerio, de 2013, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
 
 .
