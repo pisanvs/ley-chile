@@ -44,9 +44,9 @@ H. Que el decreto con fuerza de ley Nº1 del año 2000, que fija el texto refund
 
 Resolución:
 
-1. Deléguese en las Secretarías Regionales Ministeriales de Vivienda y Urbanismo la facultad de firmar y aprobar los convenios de transferencia de recursos por un monto inferior a 5.000 UTM, en el marco del Programa de Recuperación de Barrios y del Programa Campamentos, conforme a la Partida 18, Capítulo 01, Programas 04 y 02 de la ley Nº20.882, que aprueba el presupuesto del sector público correspondiente al año 2016.
+1.- Delégase en las Secretarías Regionales Ministeriales de Vivienda y Urbanismo la facultad de suscribir los convenios celebrados en el marco del Programa de Recuperación de Barrios y del Programa Campamentos, conforme a la Partida 18, Capítulo 01, Programas 04 y 02 de la ley Nº 20.882 de Presupuesto del Sector Público, correspondiente al año 2016.
 
-2. Ratifícanse los convenios suscritos por las Secretarías Regionales Ministeriales y las resoluciones dictadas al efecto, que aprueban los mismos, en el marco del Programa de Recuperación de Barrios y el Programa Campamentos, de acuerdo al inciso tercero del artículo 13 de la ley 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
+2.- Delégase en las Secretarías Regionales Ministeriales de Vivienda y Urbanismo la facultad de aprobar, mediante el correspondiente acto administrativo, los convenios celebrados en el marco del Programa de Recuperación de Barrios y del Programa Campamentos y aquellos de transferencia de recursos cuyo monto no exceda las 5.000 UTM, celebrados en el marco del Programa de Recuperación de Barrios y del Programa Campamentos, conforme a la Partida 18, Capítulo 01, Programas 04 y 02 de la ley Nº 20.882 de Presupuesto del Sector Público, correspondiente al año 2016.
 
 3. Notifíquese la presente resolución a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo.
 
