@@ -262,8 +262,6 @@ Cuando se obtenga el incremento a que se alude en este resuelvo, el valor de la 
 
 33. Los subsidios habitacionales que se otorguen conforme a esta Resolución se imputarán a los recursos dispuestos en la Resolución Exenta N° 8.816 (V. y U.), de 2010, para el Plan de Reconstrucción del Fondo Solidario de Vivienda.
 
-34. En el caso que familias seleccionadas, en la forma que indica la presente resolución, renuncien a su beneficio o que éste sea eliminado por otra causa, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la modalidad de autoconstrucción asistida, del Programa Fondo Solidario de Vivienda.
-
-35. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el Serviu, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
+34. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el Serviu, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.

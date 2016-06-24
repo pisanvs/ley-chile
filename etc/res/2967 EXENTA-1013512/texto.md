@@ -312,7 +312,7 @@ El número de postulantes seleccionados en cada Región alcanzará hasta el núm
 
 9. Tratándose de operaciones de adquisición de viviendas nuevas, la asesoría técnica y jurídica a que se refiere el artículo 63 bis, del DS 174 (V. y U.) de 2005, podrá ser realizada por la parte vendedora.
 
-10. En el caso que familias con beneficio otorgado renuncien al subsidio, o que el postulante sea eliminado por no cumplir con los requisitos que se establecen en esta resolución o que el subsidio alcance su fecha de vencimiento sin ser aplicado, el Ministerio de Vivienda y Urbanismo podrá sustituir dichas familias, destinando los recursos provenientes de esos subsidios a la modalidad de Adquisición de Vivienda Construida, Autoconstrucción Asistida,Construcción en Sitio Propio o Construcción en Sitio Propio con Proyecto Tipo, siempre que los nuevos beneficiarios cumplan con los requisitos para la obtención de los subsidios establecidos para cada modalidad en las resoluciones que llaman a los concursos correspondientes, citadas en los Visto de esta resolución. Para los casos en que se destinen los recursos a un nuevo beneficiario de la modalidad de Adquisición de Vivienda Construida, o se destinen a una modalidad distinta de acuerdo a lo señalado en el párrafo anterior, la sustitución será sancionada mediante una resolución del Serviu, cuya copia deberá ser enviada al Ministerio de Vivienda y Urbanismo.
+10. SUPRIMIDO.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
