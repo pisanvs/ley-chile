@@ -232,9 +232,9 @@ Los postulantes que presenten alguna discapacidad que les produzca impedimento o
 
 #### Artículo 25
 
-Los canales de la televisión abierta y los proveedores de televisión por cable, deberán aplicar mecanismos de comunicación audiovisual que posibiliten a la población con discapacidad auditiva el acceso a su programación en los casos que corresponda, según lo determine el reglamento que al efecto dictarán conjuntamente los Ministerios de Planificación, de Transportes y Telecomunicaciones y Secretaría General de Gobierno.
+Los concesionarios de servicios de radiodifusión televisiva de libre recepción y los permisionarios de servicios limitados de televisión deberán aplicar mecanismos de comunicación audiovisual que posibiliten a las personas en situación de discapacidad auditiva el acceso a su programación en los casos que corresponda, según lo determine el reglamento que al efecto se dictará a través de los Ministerios de Desarrollo Social, de Transportes y Telecomunicaciones y Secretaría General de Gobierno.
 
-Toda campaña de servicio público financiada con fondos públicos, la propaganda electoral, debates presidenciales y cadenas nacionales que se difundan a través de medios televisivos o audiovisuales, deberán ser transmitidas o emitidas con subtitulado y lengua de señas.
+Las campañas de servicio público financiadas con fondos públicos, la propaganda electoral, los debates presidenciales, las cadenas nacionales, los informativos de la Oficina Nacional de Emergencia del Ministerio del Interior y Seguridad Pública y los bloques noticiosos transmitidos por situaciones de emergencia o calamidad pública que se difundan a través de medios televisivos o audiovisuales deberán ser transmitidos o emitidos subtitulados y en lenguaje de señas, en las formas, modalidades y condiciones que establezca el reglamento indicado en el inciso precedente.
 
 #### Artículo 26
 
@@ -388,9 +388,9 @@ De las exenciones arancelarias
 
 Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
 
-Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$31.577, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 37.319. Dichas cantidades se actualizarán anualmente.
+Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.739,89.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 35.148,58.- Dichas cantidades se actualizarán anualmente.
 
-Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 54.543, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 51.370,94.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
 Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
