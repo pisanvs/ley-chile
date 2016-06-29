@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN N° 322 EXENTA, DE 25 DE MAYO DE 2016
+
+Por resolución exenta Nº 322, de 25 de mayo de 2016, de la Secretaría Regional Ministerial de la Región de Atacama, se ha prorrogado el contrato de la concesión dos (2) para la operación de un establecimiento que practique revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la comuna de Vallenar, planta revisora clase AB 0301, de la Región de Atacama, celebrado con el concesionario Revisiones Atacama Ltda., aprobado por la resolución exenta Nº 240, de fecha 14 de junio de 2004, de esta Secretaría Regional, hasta el día 5 de julio de 2016 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región.-
+
+Ericka Portilla Barrios, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama.
