@@ -102,9 +102,11 @@ o) Vehículos destinados a la recolección de basura.
 
 p) Vehículos que presten servicios de transporte público remunerado de pasajeros.
 
-q) Vehículos de misiones diplomáticas, consulares y organizaciones internacionales que circulen con placas patente de gracia, otorgadas por el Ministerio de Relaciones Exteriores, de color celeste con relieves en blanco, cuyo código alfanumérico esté compuesto de dos letras, seguido de dos números",
+q) Vehículos de misiones diplomáticas, consulares y organizaciones internacionales que circulen con placas patente de gracia, otorgadas por el Ministerio de Relaciones Exteriores, de color celeste con relieves en blanco, cuyo código alfanumérico esté compuesto de dos letras, seguido de cuatro números,
 
-r) Vehículos destinados a la carga, como camionetas, camiones y otros similares, habilitados especial y directamente por empresas productoras y/o distribuidoras de servicios eléctricos, de agua potable, gas y de telecomunicaciones, para atender situaciones de emergencia que afecten gravemente el suministro de los mismos a la población. En estos casos la solicitud de exención sólo podrá ser requerida por dichas empresas
+r) Vehículos destinados a la carga, como camionetas, camiones y otros similares, habilitados especial y directamente por empresas productoras y/o distribuidoras de servicios eléctricos, de agua potable, gas y de telecomunicaciones, para atender situaciones de emergencia que afecten gravemente el suministro de los mismos a la población. En estos casos la solicitud de exención sólo podrá ser requerida por dichas empresas.
+
+s) Vehículos de transporte remunerado de escolares regidos por el DS Nº 38, de 1992, del Ministerio de Transportes y Telecomunicaciones.
 
 El que solicite acogerse a alguna de las excepciones contempladas en las letras
 
