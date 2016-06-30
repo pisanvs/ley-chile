@@ -28,7 +28,7 @@ a3) Entre Chañarcillo y Atacama, calzada completa.
 
 a4) Entre Infante y Avenida Circunvalación, calzada completa.
 
-b) FECHA DE SUSPENSIÓN: A partir del 15 de febrero de 2016, hasta el 9 de junio de 2016.
+b) FECHA DE SUSPENSIÓN: A partir del 15 de febrero de 2016, hasta el 11 de julio de 2016.
 
 c) DESVÍOS LOCOMOCIÓN COLECTIVA:
 
