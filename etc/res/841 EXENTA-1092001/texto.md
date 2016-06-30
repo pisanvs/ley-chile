@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 841 EXENTA, DE 20 DE JUNIO DE 2016
+
+Por resolución exenta Nº 841, de 20 de junio de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Ríos, celebrados con los concesionarios TÜV Rheinland Andino S.A. y Revisiones Los Lagos Limitada, a excepción de la planta revisora AB1005 de la comuna de Valdivia, hasta el día 30 de diciembre de 2016 o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta región, a través de la resolución Nº 278, de 11 de diciembre de 2013, cualquiera que ocurra primero.-
+
+Lucía Rojas Ibarra, Secretaria Regional Ministerial de Transportes Y Telecomunicaciones de la Región de Los Ríos (S).
