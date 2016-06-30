@@ -24,7 +24,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados en los ramales de acceso Sur que se encuentran en la ruta 90 de la ciudad de San Fernando, a objeto de ejecutar las obras del proyecto "Ampliación y Reposición de la Ruta 90 (Ex Ruta I-50), sector San Fernando Cruce Ruta I-860, Tramo Dm. 0.000 al Dm. 560.000 (Hacia San Fernando) y Dm. 0.000 al Dm 2.345,000 (Hacia Santa Cruz)", a contar de las 8:00 horas del día 10 de febrero de 2016 y hasta las 00:00 horas del 10 de junio de 2016. El corte de tránsito se representa gráficamente por medio del Plano de Desvíos de Tránsito, el que se entiende formar parte integrante del presente instrumento.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados en los ramales de acceso Sur que se encuentran en la ruta 90 de la ciudad de San Fernando, a objeto de ejecutar las obras del proyecto "Ampliación y Reposición de la Ruta 90 (Ex Ruta I-50), sector San Fernando Cruce Ruta I-860, Tramo Dm. 0.000 al Dm. 560.000 (Hacia San Fernando) y Dm. 0.000 al Dm 2.345,000 (Hacia Santa Cruz)", a contar de las 8:00 horas del día 10 de febrero de 2016 y hasta las 00:00 horas del 30 de junio de 2016. El corte de tránsito se representa gráficamente por medio del Plano de Desvíos de Tránsito, el que se entiende formar parte integrante del presente instrumento.
 
 2. Los ramales que se cierran para la correcta ejecución de los trabajos son:
 
