@@ -82,11 +82,11 @@ d) Haber obtenido algún beneficio anterior de Serviu, o de sus antecesores lega
 
 - **a)** y
 
-- **g)** del artículo 4 del DS Nº 49 (V. y U.), de 2011, y las letras
+- **g)** del artículo 4 del DS N° 49 (V. y U.), de 2011, y las letras
 
 - **a)** y
 
-- **e)** del artículo 17 del DS Nº 1 (V. y U.), de 2011.
+- **e)** del artículo 17 del DS Nº 1 (V. y U.), de 2011. En el caso de las personas inscritas que sean propietarias de una caseta sanitaria que se encuentre en buen estado de conservación, al monto de subsidio base otorgado, se le descontarán 40 Unidades de Fomento.
 
 e) Del impedimento a que se refiere la letra h), del artículo 4 del DS Nº 49 (V. y U.), de 2011, para damnificados unipersonales, que no acrediten núcleo familiar.
 
@@ -122,6 +122,8 @@ f) El contratista de las obras para el caso de la modalidad a que se refiere el 
 
 9. La presente modalidad corresponderá a proyectos de construcción de la vivienda del damnificado, en el sitio acreditado de acuerdo a la letra d) del Resuelvo 2., mediante el programa regulado por el DS Nº 49 (V. y U.), de 2011.
 
+En el caso de los proyectos a realizarse en la presente modalidad, la ejecución de las obras de construcción de las viviendas podrá ser llevada a cabo mediante el procedimiento de autoconstrucción asistida, de acuerdo lo establecido en la resolución exenta Nº 7.115 (V. y U.), de fecha 15 de septiembre de 2015, que regula la ejecución de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda, mediante el citado procedimiento, para las tipologías de Construcción en Sitio Propio y Densificación Predial.
+
 10. Los subsidios a los que podrá optar el damnificado para financiar la construcción de la vivienda, según su zona de emplazamiento, serán de hasta los montos que se establecen en la siguiente tabla:
 
 .
@@ -152,19 +154,17 @@ v. Plazo en que ingresará el proyecto definitivo al Serviu, consignado en la Fi
 
 b) El proyecto deberá acompañarse de los siguientes antecedentes:
 
-i. Ingreso de solicitud de Permiso de Edificación o Anteproyecto aprobado por la Dirección de Obras Municipales.
+i. Permiso de Edificación aprobado por la Dirección de Obras Municipales.
 
-ii. Planos de arquitectura y estructuras.
+ii. De no contarse con el permiso señalado en el numeral anterior, podrá acompañarse la solicitud de aprobación de éste, o la solicitud de aprobación de Anteproyecto de obras de edificación, ante la Dirección de Obras Municipales. En lugar de lo señalado, en los casos que corresponda, la autorización de proyectos de agua potable y/o alcantarillado particular ante el Ministerio de Salud, podrá reemplazarse por la solicitud de aprobación de estos proyectos. Con todo, los permisos de edificación aprobados deberán presentarse conforme a lo dispuesto en el párrafo 4º de esta resolución.
 
-iii. Planos de especialidades.
+iii. Planos de arquitectura.
 
 iv. Especificaciones Técnicas.
 
 v. Presupuesto de obras.
 
-vi. Proyecto de mitigaciones de riesgo, si corresponde.
-
-vii. Contrato de Construcción con la empresa que ejecutará las obras.
+vi. Proyecto y presupuesto de mitigaciones de riesgo, si corresponde.
 
 c) Acta suscrita por el postulante o por los integrantes del grupo de personas damnificadas y la Entidad Patrocinante que los represente, incluidos en la Ficha Resumen del Proyecto, incorporando a lo menos nombre y número de cédula de identidad de cada integrante del grupo; en ambos casos, en el acta se debe acreditar la conformación como grupo y la constancia de la aprobación del proyecto general y de los proyectos propuestos para cada familia. No se requerirá la conformación del grupo como persona jurídica.
 
@@ -192,6 +192,8 @@ En el caso que las observaciones fueran respondidas dentro del plazo, el Serviu 
 
 Para inscribirse en esta modalidad de aplicación del subsidio, además de lo señalado en la letra d) del número 2 de esta resolución, el interesado deberá presentar permiso de edificación otorgado por la Dirección de Obras Municipales, que acredite que la vivienda se construirá en el sitio en el cual el interesado tiene derechos y el o los respectivos planos de arquitectura.
 
+En caso de no contar con el señalado permiso de edificación, el interesado deberá presentar la solicitud de este permiso ante la Dirección de Obras Municipales. En los casos que corresponda, en lugar de la solicitud del permiso, se podrá presentar la autorización de proyectos de agua potable y/o alcantarillado particular ante el Ministerio de Salud. No obstante para el inicio de obras deberá contar con la aprobación del permiso de edificación correspondiente.
+
 21. El valor máximo de vivienda a cuya construcción se podrá aplicar el subsidio será de 2.000 Unidades de Fomento, y será financiado con el subsidio, con aportes propios, si los hubiere, y/o con un crédito hipotecario, de ser el caso.
 
 Si el beneficiario requiere de un crédito hipotecario complementario, para enterar el financiamiento de la vivienda se aplicará, en lo que fuera procedente, lo estipulado en el Título III: De los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda, del DS Nº 1 (V. y U.), de 2011.
@@ -203,6 +205,10 @@ El beneficiario obtendrá además los siguientes subsidios adicionales:
 a) Si el beneficiario o uno o más integrantes del núcleo familiar declarado estuvieren inscritos en el Registro Nacional de la Discapacidad, al monto de subsidio señalado en el inciso primero de este número, se adicionarán 20 Unidades de Fomento, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presenten tal condición de discapacidad en el núcleo familiar del postulante. Si el beneficiario o uno o más integrantes del núcleo familiar declarado e inscrito en el Registro Nacional de Discapacidad se encuentren en situación de movilidad reducida, lo que se acreditará mediante un certificado emitido por la Comisión de Medicina Preventiva e Invalidez de la Seremi de Salud correspondiente o el organismo competente, en que se califique dicha situación, o a través de una consulta en línea al Servicio de Registro Civil e Identificación, al monto de subsidio señalado en el inciso primero de este número se adicionarán hasta 80 Unidades de Fomento, debiendo darse cumplimiento a los términos y condiciones establecidos en la letra f) del artículo 35 del DS Nº 49 (V. y U.), de 2011.
 
 b) Conforme a los gastos que rinda al momento de presentar a cobro el certificado de subsidio, el beneficiario obtendrá un subsidio adicional de hasta 50 Unidades de Fomento por la prestación de servicios de Asistencia Técnica, destinados a financiar el costo de la elaboración del proyecto y gastos administrativos tales como el permiso de edificación y recepción final municipal. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
+
+c) Subsidio para demolición, limpieza y retiro de escombros, de hasta 100 Unidades de Fomento, para los casos en que no apliquen los fondos de la Subdere para estas partidas, debiendo incluir para su procedencia, en forma detallada, el presupuesto de obras y las especificaciones técnicas correspondientes.
+
+d) Subsidio para obras de habilitación del terreno, de hasta 100 Unidades de Fomento, debiendo incluir en el presupuesto de obras y en las especificaciones técnicas del proyecto, el detalle correspondiente a éstas. Este subsidio financiará obras destinadas a fundaciones especiales, preparación, contención y/o mejoramiento del terreno, conexión a redes públicas u otras obras que el Director del Serviu de la Región de Coquimbo autorice, relacionadas con la habilitación del terreno.
 
 23. El Certificado de Subsidio Habitacional, tendrá una vigencia de doce meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado por seis meses más mediante resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Coquimbo.
 
@@ -233,6 +239,8 @@ Además, para las modalidades a las que se refiere el presente llamado, las disp
 c) En los proyectos específicos a desarrollar, se podrá utilizar parte de la estructura, elementos constructivos y/o instalaciones domiciliarias de la vivienda declarada como irrecuperable, que sean posibles de reutilizar, no siendo necesaria la demolición total del inmueble.
 
 d) La vivienda que se construya con aplicación de este subsidio, no podrá estar emplazada en un área de riesgo determinada en el respectivo instrumento de planificación territorial, ni en otras zonas en que se considere que hay riesgo para la población, establecidas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia. La determinación de estas zonas será para el solo efecto de identificar aquellas en que el subsidio no podrá ser aplicado.
+
+e) El Serviu de la Región de Coquimbo podrá aprobar modelos de vivienda tipo presentados por empresas proveedoras, los que deberán cumplir con las condiciones establecidas en el presente párrafo, en cuyo caso no se evaluarán los antecedentes de arquitectura y estructura de la vivienda al ingreso del proyecto, salvo la solución de fundaciones, los antecedentes relativos a la calidad y habilitación del suelo, las adecuaciones y mitigaciones que sean necesarias con motivo de las características específicas del lugar de emplazamiento.
 
 29. Para el pago de las modalidades correspondientes al DS Nº 49 (V. y U.), de 2011, el Serviu podrá otorgar, sin necesidad de contar con avance de obra, un primer anticipo a cuenta del pago del subsidio de hasta un 40% del monto de éste, contra la presentación de boleta bancaria de garantía por el mismo monto solicitado, extendida con una vigencia que exceda en 90 días corridos la vigencia del subsidio respectivo, sin perjuicio que pueda ser prorrogada. Dicha boleta será extendida en los mismos términos establecidos en el inciso tercero, del artículo 71, del DS Nº 49 (V. y U.), de 2011.
 
@@ -265,6 +273,10 @@ Estos préstamos se otorgarán mediante resoluciones del Director del Serviu de 
 El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de los dos años, señalados anteriormente, descontado del subsidio a pagar el monto correspondiente de restituir.
 
 Si, encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que cauciona el préstamo la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de la boleta bancaria o reemplazarla por otra de las mismas características, por el monto adeudado del préstamo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de dos años desde el otorgamiento del préstamo, en caso que éste no se haya restituido en su totalidad.
+
+> **Nota.** El N° 1 de la Resolución 3973, Vivienda, publicada el 01.07.2016, dispuso un nuevo plazo para recibir solicitudes de inscripción al llamado especial efectuado por la presente resolución, a contar de su publicación y hasta el último día hábil del mes de septiembre de 2016. La misma norma dispuso además la convalidación de lo actuado por el Serviu Región de Coquimbo entre el día 1 de junio de 2016 y el día anterior a su publicación en el Diario Oficial, relativo de la recepción de solicitudes presentadas durante esos días.
+
+> **Nota.** NOTA 1 La letra c del numeral 2 de la Resolución 3973 Exenta, Vivienda, publicada el 01.07.2016, modifica el cuadro inserto en el numeral 10 de la presente norma en el sentido de sustituir la descripción del Subsidio de Habilitación, contenido en la segunda columna por la siguiente: "En los términos establecidos en la letra h) del artículo 35 del DS Nº 49 (V. y U.), de 2011 y además contemplar obras de conexión a redes públicas u obras que el Serviu autorice relacionadas con la habilitación del terreno.".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
