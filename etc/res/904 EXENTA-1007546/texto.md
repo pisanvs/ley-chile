@@ -250,9 +250,9 @@ Phillip Morris
 
 - South Partners: Liqun cajetilla dura de 20 unidades.
 
-- Tabacos Apolo: Indie Box Azul.
+- Tabacos Apolo: Indy Box Azul.
 
-- Tabacos Apolo: Indie Box Rojo.
+- Tabacos Apolo: Indy Box Rojo.
 
 - Tabacos Apolo: Latino Box Azul 20.
 
