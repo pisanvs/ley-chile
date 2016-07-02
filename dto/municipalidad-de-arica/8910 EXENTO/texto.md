@@ -1,0 +1,43 @@
+POSTERGA PERMISOS Y SUBDIVISIÓN, LOTEO O URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES, CORRESPONDIENTES A SITIOS QUE INDICA
+
+Núm. 8.910 exento.- Arica, 27 de mayo de 2016.
+
+Vistos:
+
+a) Ord. Nº 607 de la Directora de Obras Municipales de Arica, de fecha 19 de febrero de 2015, solicitando a Srta. María Ángel Castillo, Asesoría Jurídica Ilustre Municipalidad de Arica, propone dictar la resolución que determine la postergación por 3 meses prorrogables de otorgar Permisos de cualquier naturaleza a que se refiere el artículo 117º de la Ley General de Urbanismo y Construcciones para el Área comprendida entre las calles Andacollo, La Paz, Capitán Ávalos, Costado Norte Cementerio Parque de Arica, Avda. 43 Loteo Agtima, Avda. Cerro Chuño, Calle 1 (Prolongación El Tofo), Capitán Ávalos, Linderos, Andacollo.
+
+b) Ord. Nº 624 de Dr. Salvador Urrutia Cárdenas, Sr. Alcalde de Arica, de fecha 4 de marzo de 2015, solicitando a la Secretaria Regional Ministerial de Vivienda y Urbanismo, la aprobación para dictar la resolución que determine la postergación por 3 meses, prorrogables, para otorgar permisos de cualquier naturaleza, de conformidad con lo establecido en el artículo 117º de la Ley General de Urbanismo y Construcciones, en concordancia con lo dispuesto en el artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones, para el área comprendida entre las calles Andacollo, La Paz, Capitán Ávalos, Costado Norte Cementerio Parque de Arica, Avda. 43 Loteo Agtima, Avda. Cerro Chuño, Calle 1 (Prolongación El Tofo), Capitán Ávalos, Linderos, Andacollo. Fundado en que dicho sector, forma parte del nuevo Plano Regulador de la Ciudad de Arica, en el cual se considera como Área ZSX-6, Zona Subcentro 6 (Equipamiento e Infraestructura).
+
+c) Ord. Nº 224 de Sra. Gladys Acuña Rosales, Secretaría Regional Ministerial de Vivienda y Urbanismo Región de Arica y Parinacota, de fecha 23 de marzo de 2015, en respuesta al Sr. Alcalde, Dr. Salvador Urrutia Cárdenas, por lo que aportar los antecedentes que fundamentan la propuesta acogida al artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones, así mismo esta Seremi considera que el área solicitada es excesiva, dado que en el sector existen proyectos que están en proceso de ejecución y otros por licitar.
+
+d) Ord. Nº 3392 de Dr. Salvador Urrutia Cárdenas, Sr. Alcalde de Arica, de fecha 16 de octubre de 2015, en respuesta a Sra. Evelyn Muller Jara, Secretaría Regional Ministerial de Vivienda y Urbanismo Región de Arica y Parinacota, indicando que se encuentra en estudio la Modificación del Plan Regulador Comunal, según Convenio Ad Referéndum de Cooperación, de fecha 8 de julio de 2013, suscrito entre esta Cooperación Edilicia y la Secretaria Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota. Aprobado mediante resolución exenta Nº 450, de fecha 22 de agosto de 2013, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Arica y Parinacota y, por decreto alcaldicio Nº 11.406, de fecha 21 de agosto de 2013, de la Municipalidad de Arica.
+
+e) Ord. Nº 969 de Sra. Evelyn Muller Jara, Secretaria Regional Ministerial de Vivienda y Urbanismo Región de Arica y Parinacota, de fecha 20 de octubre de 2015, en respuesta al Ord. Nº 3392 de fecha 16 de octubre de 2015, al Sr. Alcalde, Dr. Salvador Urrutia Cárdenas, informa favorablemente la postergación de permisos de subdivisión, loteo o urbanización predial y de construcciones, acogidos al artículo 117° de la Ley General de Urbanismo y Construcciones y lo dispuesto en el artículo 1.4.18 de La Ordenanza General de Urbanismo y Construcciones, correspondiente al Sitio L del Barrio Industrial ubicado entre las calles El Tenniente, La Paz, Chapiquiña y Andacollo, y del Sitio F del Barrio Industrial ubicado entre las calles Linderos, Av. Capitán Ávalos y calle Chapiquiña.
+
+f) Ord. Nº 3724 de don Gastón Baeza Cortés, Director de Obras Municipales (S), de fecha 18 de diciembre de 2015, en respuesta a Dr. Salvador Urrutia Cárdenas, Sr Alcalde de Arica, exponiendo y solicitando dictar resolución que determine la postergación para otorgar permisos de cualquier naturaleza en conformidad a lo indicado en el artículo 117 de la Ley General de Urbanismo y Construcciones y lo dispuesto en el artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones en terrenos en los cuales se acopiaron y se procesaron minerales desechados o procesados con altos contenidos de plomo y arsénico y como resultado de ello se encuentran contaminados por la presencia de estos polimetales, lo cual es de conocimiento generalizado por la comunidad y más particularizado en autoridades e instituciones públicas.
+
+g) Conforme al artículo 117º de la Ley General de Urbanismo y Construcciones, y el Artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones.
+
+h) Artículo 177º de la Ley General de Urbanismo y Construcciones, que establece lo siguiente: "Artículo 117º.- Los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo. En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado "por orden del Presidente de la República" o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna.".
+
+i) Artículo 1.4.18º de la Ley General de Urbanismo y Construcciones, que establece lo siguiente: "Artículo 1.4.18º.- Las postergaciones de otorgamiento de permisos de subdivisión, loteo o urbanización predial y de edificaciones y sus prórrogas, a que se refiere el artículo 117 de la Ley General de Urbanismo y Construcciones, se regirán por el siguiente procedimiento:
+
+1. Se entenderá que un sector de la comuna está afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o Comunal, cuando se dé alguna de las siguientes circunstancias:
+
+a) Que el Alcalde haya aprobado, por resolución, el estudio para la modificación del Plan Regulador Comunal existente.
+
+b) Que la Secretaría Regional Ministerial de Vivienda y Urbanismo haya resuelto la modificación del Plan Regulador Intercomunal existente. En ambos casos, la resolución que dispone la postergación debe ser fundada y acompañarse de los antecedentes necesarios para informar adecuadamente a cualquier interesado.
+
+2. La vigencia de las postergaciones y sus prórrogas comenzará desde la fecha de publicación en el Diario Oficial de los decretos o resoluciones que las dispongan. Con todo, las postergaciones no afectarán a las solicitudes presentadas con anterioridad a la fecha de dicha publicación. En todo caso un mismo predio no podrá estar afecto a postergación de permisos por un mismo estudio sobre modificaciones del Plan Regulador lntercomunal o Comunal por más de 12 meses.
+
+k) Las facultades que me confiere la Ley N° 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+Acógese al Artículo 117º de la Ley General de Urbanismo y Construcciones y lo dispuesto en el artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones, en consideración a los antecedentes expuestos, informa favorablemente la postergación de permisos y subdivisión, loteo o urbanización predial y de construcciones, correspondiente al Sitio L del Barrio Industrial ubicado entre las calles El Teniente, La Paz, Chapiquiña y Andacollo y del Sitio F del Barrio Industrial ubicado entre las calles Linderos, Av. Capitán Ávalos y calle Chapiquiña. Producto que en dichos terrenos se acopió y procesó minerales desechados o procesados con altos contenidos de plomo y arsénico.
+
+Tendrán presente este decreto alcaldicio la Dirección de Administración y Finanzas, Asesoría Jurídica, Dirección de Control, Dirección de Obras Municipales y Secretaría Municipal.
+
+Anótese, notifíquese y archívese.- Salvador Urrutia Cárdenas, Alcalde de Arica.- Carlos Castillo Galleguillos, Secretario Municipal.
+
+Lo que transcribo a Ud. para su conocimiento y fines procedentes.- Carlos Castillo Galleguillos, Secretario Municipal.
