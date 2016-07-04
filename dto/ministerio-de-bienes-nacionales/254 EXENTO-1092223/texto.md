@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA "I. MUNICIPALIDAD DE SIERRA GORDA"
+
+Mediante decreto exento Nº E-254, de 16 de junio de 2016, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "I. Municipalidad de Sierra Gorda", RUT Nº 69.253.200-7, el inmueble fiscal ubicado a 0,5 kilómetros al Suroeste de la localidad de Sierra Gorda, comuna de Sierra Gorda, provincia y Región de Antofagasta, Rol Servicio de Impuestos Internos Nº 6032-1, amparado por inscripción global a nombre del Fisco, que rola a fojas 1.381 Nº 1.640, del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 1982, singularizado en el Plano Nº 02103-8.200-C.U., con una superficie aproximada de 8.511,77 metros cuadrados. La concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble al uso y funcionamiento de la Planta de Aguas Servidas de la localidad de Sierra Gorda y efectuar las mantenciones y mejoras de sus instalaciones. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe de División Jurídica.
