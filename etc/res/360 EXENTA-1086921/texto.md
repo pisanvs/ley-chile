@@ -194,7 +194,7 @@ Respecto a los subsidios correspondientes a Proyectos con Daño Moderado (Banco 
 
 La Entidad Patrocinante deberá verificar los avances de obras para la autorización del segundo pago.
 
-La compra de materiales a través de la tarjeta dispuesta para ello contará con 2 cargas de recursos. La primera representará el 40% del subsidio correspondiente a la compra de materiales, y la segunda el 60% restante. A través de cada carga podrán efectuarse 4 compras.
+La compra de materiales a través de la tarjeta dispuesta para ello contará con 2 cargas de recursos. La primera representará el 40% del subsidio correspondiente a la compra de materiales, y la segunda el 60% restante. A través de cada carga podrán efectuarse 2 compras.
 
 Disposiciones específicas para proyectos a ejecutar a través de Adquisición de Materiales y Contratación de Servicios de Construcción y Reparación para Daño Moderado.
 
@@ -244,7 +244,7 @@ c) Una vez presentada la Factura o Boleta al Serviu, éste dispondrá de 10 día
 
 14.1 Para el pago de la contratación de servicios de construcción y reparación, el Serviu deberá pagar los montos correspondientes a cada etapa o carga a la persona que haya realizado los servicios de construcción y reparación relacionados con el proyecto.
 
-14.2 Tras efectuar la Entidad Patrocinante una primera visita a la vivienda a reparar, evaluará la propuesta de cubicación y presupuesto de los materiales realizada por el prestador de servicios de construcción, la que en caso de ser autorizada permitirá la activación de la primera carga de compra de materiales.
+14.2 Tras efectuar la Entidad Patrocinante una primera visita a la vivienda a reparar, evaluará la propuesta de cubicación y presupuesto de los materiales realizada por el prestador de servicios de construcción, la que en caso de ser autorizada por SERVIU permitirá la activación de la primera carga de compra de materiales.
 
 14.3 Para la realización del primer pago de servicios de construcción, la EP deberá efectuar una visita a la vivienda afectada, donde verificará que los materiales adquiridos a través de la primera carga de la tarjeta sean los que se señalaban en el presupuesto aprobado, instancia que permitirá además, autorizar la segunda carga de compra de materiales, según lo dispuesto en el punto 15.10, letra c) de la presente resolución.
 
@@ -260,7 +260,7 @@ Será responsabilidad de las EP que participen de este llamado, la realización 
 
 15.3 La EP ordenará el presupuesto de los materiales y servicios de construcción en 2 etapas, la primera que comprenderá hasta la utilización aproximada del 40% del monto del subsidio y la segunda que deberá considerar el resto de los materiales por el equivalente al 60% restante del monto del subsidio. La conversión del monto del subsidio, desde Unidades de Fomento a pesos, se realizará con el valor UF correspondiente a la fecha de la presente resolución.
 
-15.4 Una vez aprobado el presupuesto de los materiales y servicios de construcción, la EP deberá digitar en el sistema informático del Minvu el monto a utilizar en materiales y en servicios de construcción, si corresponde, para activar la tarjeta del Banco de Materiales que le permitirá al beneficiario realizar la compra de los materiales de construcción equivalentes a la primera etapa del presupuesto. En ese instante, el beneficiario dispondrá de aproximadamente el 40% del monto del subsidio con el cual podrá realizar un máximo de 2 compras en establecimientos distintos o en un mismo lugar.
+15.4 Una vez aprobado por SERVIU el presupuesto de los materiales y servicios de construcción, la EP deberá digitar en el sistema informático del Minvu el monto a utilizar en materiales y en servicios de construcción, si corresponde, para activar la tarjeta del Banco de Materiales que le permitirá al beneficiario realizar la compra de los materiales de construcción equivalentes a la primera etapa del presupuesto. En ese instante, el beneficiario dispondrá de aproximadamente el 40% del monto del subsidio con el cual podrá realizar un máximo de 2 compras en establecimientos distintos o en un mismo lugar.
 
 15.5 Una vez adquiridos los materiales de construcción, la EP deberá asesorar a las familias y/o al prestador de servicios de construcción respecto de los procedimientos técnicos a realizar y aspectos mínimos a considerar en los distintos procesos constructivos que se ejecutarán en la propiedad.
 
@@ -305,6 +305,8 @@ Disposiciones específicas para Daño Moderado y/o Daño Mayor.
 17.8 Permiso de Edificación, si corresponde.
 
 18. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para la Región de Coquimbo en el Programa regulado por el DS Nº 255 (V. y U.), de 2006, para el año 2016.
+
+> **Nota.** El numeral 3 de la Resolución 3489 Exenta, Vivienda, Publicada el 08.06.2016, modifica la presente norma en el sentido de aprobar el monto de los recursos asignados en la selección del mes de abril y modifícar el monto asignado en el mes de febrero conforme a lo que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
