@@ -34,6 +34,6 @@ Elimínese, en el artículo primero la letra "B.- En el/la Jefe/a de División F
 
 3.- Dispóngase que en todo lo no modificado, rige plenamente la resolución exenta Nº 691, de fecha 14 de julio de 2014, de esta Superintendencia de Educación.
 
-4.- Déjese sin efecto a contar de la total tramitación de la presente resolución, la resolución exenta Nº 691, que "Complementa resolución exenta Nº 691, de 2014, en los términos que indica", de fecha 9 de junio de 2015, de esta Superintendencia de Educación.
+4.- Déjese sin efecto, a contar de la total tramitación de la presente resolución, la resolución exenta Nº 690, que "Complementa resolución exenta Nº 691, de 2014, en los términos que indica", de fecha 9 de junio de 2015, de esta Superintendencia de Educación.
 
 Anótese, regístrese, comuníquese y publíquese.- Alexis Ramírez Orellana, Superintendente, Superintendencia de Educación.
