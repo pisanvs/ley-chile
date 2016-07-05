@@ -818,7 +818,7 @@ i) Incurrir, a sabiendas, en alguna causal de inhabilitación, o permitir que in
 
 <!-- parte:8642851 -->
 
-Los fiscales deberán abstenerse de emitir opiniones acerca de los casos que tuvieren a su cargo.
+Los fiscales deberán abstenerse de emitir opiniones y dar a conocer antecedentes de investigaciones a su cargo a terceros ajenos a la investigación, fuera de los casos previstos en la ley o en las instrucciones impartidas por el Fiscal Nacional.
 
 #### Artículo 65
 
