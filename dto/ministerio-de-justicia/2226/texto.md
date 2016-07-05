@@ -3066,17 +3066,23 @@ El que matare a un carabinero que se encontrare en el ejercicio de sus funciones
 
 El que hiriere, golpeare o maltratare de obra a un carabinero que se encontrare en el ejercicio de sus funciones, será castigado:
 
-1º. Con la pena de presidio mayor en su grado medio, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+1º. Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
-2º. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+2º. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
 3º. Con presidio menor en grado medio a máximo, si le causare lesiones menos graves.
 
-4º. Con presidio menor en su grado mínimo, o multa de seis a once unidades tributarias mensuales si le ocasionare lesiones leves.
+4º. Con presidio menor en su grado mínimo si le ocasionare lesiones leves.
 
 #### Artículo 416 ter
 
-Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un Carabinero en el ejercicio de sus funciones.
+Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un carabinero en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
+
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
 
 #### Artículo 417
 

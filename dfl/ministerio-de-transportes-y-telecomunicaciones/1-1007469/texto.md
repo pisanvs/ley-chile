@@ -1792,6 +1792,8 @@ Se presumirá la culpabilidad del o de los que no lo hicieren y abandonaren el l
 
 Asimismo, se presumirá la responsabilidad del conductor que no cumpla lo establecido en el artículo 176 y abandonare el lugar del accidente.
 
+En todo caso, para hacer efectivos los seguros de daños a terceros o propios, el interesado deberá informar el siniestro mediante declaración jurada simple presentada ante la respectiva compañía aseguradora, y no se requerirá de otros actos o documentos expedidos por la autoridad policial, tales como constancias o denuncias.
+
 #### Artículo 169
 
 De las infracciones a los preceptos del tránsito será responsable el conductor del vehículo.

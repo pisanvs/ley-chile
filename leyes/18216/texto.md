@@ -30,9 +30,17 @@ Tampoco podrá el tribunal aplicar las penas señaladas en el inciso primero a l
 
 Para los efectos de esta ley, no se considerarán las condenas por crimen o simple delito cumplidas, respectivamente, diez o cinco años antes de la comisión del nuevo ilícito.
 
+Igualmente, si una misma sentencia impusiere a la persona dos o más penas privativas de libertad, se sumará su duración, y el total que así resulte se considerará como la pena impuesta a efectos de su eventual sustitución y para la aplicación de la pena mixta del artículo 33.
+
 #### Artículo 2°
 
 En los casos de faltas, regirá lo dispuesto en el artículo 398 del Código Procesal Penal o en la ley Nº 18.287, según sea el tribunal que conozca del proceso.
+
+#### Artículo 2° bis
+
+Las penas del artículo 1° y el régimen del artículo 33 sólo serán aplicables por los delitos previstos en los artículos 433, 436 inciso primero, 440, 443, 443 bis y 448 bis del Código Penal, a aquellos condenados respecto de quienes se tome la muestra biológica para la obtención de la huella genética, de acuerdo a las previsiones de la ley N°19.970, sin perjuicio del cumplimiento de los requisitos que, para cada una de las penas sustitutivas o para el régimen intensivo del artículo 33, establecen esta ley y su reglamento.
+
+Para el cumplimiento de lo dispuesto en el inciso anterior, el tribunal deberá ordenar la diligencia señalada en la respectiva sentencia. En aquellos casos en que el condenado, debidamente notificado, no compareciere para tales efectos, el tribunal podrá revocar la pena sustitutiva y ordenar que se cumpla la pena efectiva.
 
 ## Título I
 
@@ -98,7 +106,7 @@ La reclusión parcial podrá disponerse:
 
 a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia no excediere de tres años;
 
-b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito, o lo hubiese sido a una pena privativa o restrictiva de libertad que no excediere de dos años, o a más de una, siempre que en total no superaren de dicho límite. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito. No obstante lo anterior, si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubieren sido impuestas dos reclusiones parciales, no será procedente la aplicación de esta pena sustitutiva, y
+b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito, o lo hubiese sido a una pena privativa o restrictiva de libertad que no excediere de dos años, o a más de una, siempre que en total no superaren de dicho límite. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito. No obstante lo anterior, si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubieren sido impuestas dos reclusiones parciales, no será procedente la aplicación de esta pena sustitutiva. Respecto de los delitos comprendidos en los Párrafos 1 a 4 bis del Título IX del Libro Segundo y en el artículo 456 bis A, todos del Código Penal, con excepción de aquellos contemplados en los artículos 438; 448, inciso primero, y 448 quinquies de ese cuerpo legal, no será procedente la aplicación de esta pena sustitutiva si dentro de los diez o cinco años anteriores, según corresponda, a la comisión del nuevo crimen o simple delito, le hubiere sido impuesta al condenado una reclusión parcial, y
 
 c) Si existieren antecedentes laborales, educacionales o de otra naturaleza similar que justificaren la pena, así como si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito, permitieren presumir que la pena de reclusión parcial lo disuadirá de cometer nuevos ilícitos.
 

@@ -104,7 +104,7 @@ Tercera.-Falta de provocación suficiente por parte del que se defiende.
 
 Inciso Derogado.
 
-5.° El que obra en defensa de la persona o derechos de su cónyuge, de sus parientes consanguíneos legítimos en toda la línea recta y en la colateral hasta el cuarto grado inclusive, de sus afines legítimos en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
+5.° El que obra en defensa de la persona o derechos de su cónyuge, de su conviviente civil, de sus parientes consanguíneos en toda la línea recta y en la colateral hasta el cuarto grado, de sus afines en toda la línea recta y en la colateral hasta el segundo grado, de sus padres o hijos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
 
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 
@@ -220,7 +220,7 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 
 Es circunstancia atenuante o agravante, según la naturaleza y accidentes del delito.
 
-Ser el agraviado cónyuge, pariente legítimo por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, padre o hijo natural o ilegítimo reconocido del ofensor.
+Ser el agraviado cónyuge o conviviente civil, pariente por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, padre o hijo del ofensor.
 
 ## Título Segundo
 
@@ -262,7 +262,7 @@ Son encubridores los que con conocimiento de la perpetración de un crimen o de 
 
 4.° Acogiendo, receptando o protegiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles auxilios o noticias para que se guarden, precavan o salven.
 
-Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge o de sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, con sólo la excepción de los que se hallaren comprendidos en el número 1.° de este artículo.
+Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge, de su conviviente civil, o de sus parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, de sus padres o hijos, con la sola excepción de los que se hallaren comprendidos en el número 1° de este artículo.
 
 ## Título Tercero
 
@@ -452,7 +452,7 @@ La imposición del presidio perpetuo calificado importa la privación de liberta
 
 1.ª No se podrá conceder la libertad condicional sino una vez transcurridos cuarenta años de privación de libertad efectiva, debiendo en todo caso darse cumplimiento a las demás normas y requisitos que regulen su otorgamiento y revocación;
 
-2.ª El condenado no podrá ser favorecido con ninguno de los beneficios que contemple el reglamento de establecimientos penitenciarios, o cualquier otro cuerpo legal o reglamentario, que importe su puesta en libertad, aun en forma transitoria. Sin perjuicio de ello, podrá autorizarse su salida, con las medidas de seguridad que se requieran, cuando su cónyuge o alguno de sus padres o hijos se encontrare en inminente riesgo de muerte o hubiere fallecido;
+2.ª El condenado no podrá ser favorecido con ninguno de los beneficios que contemple el reglamento de establecimientos penitenciarios, o cualquier otro cuerpo legal o reglamentario, que importe su puesta en libertad, aun en forma transitoria. Sin perjuicio de ello, podrá autorizarse su salida, con las medidas de seguridad que se requieran, cuando su cónyuge, su conviviente civil, o alguno de sus padres o hijos se encontrare en inminente riesgo de muerte o hubiere fallecido;
 
 3.ª No se favorecerá al condenado por las leyes que concedan amnistía ni indultos generales, salvo que se le hagan expresamente aplicables. Asimismo, sólo procederá a su respecto el indulto particular por razones de Estado o por el padecimiento de un estado de salud grave e irrecuperable, debidamente acreditado, que importe inminente riesgo de muerte o inutilidad física de tal magnitud que le impida valerse por sí mismo. En todo caso el beneficio del indulto deberá ser concedido de conformidad a las normas legales que lo regulen.
 
@@ -1428,7 +1428,7 @@ Tampoco tiene aplicación respecto de los cafés, tabernas, posadas y demás cas
 
 El que abriere o registrare la correspondencia o los papeles de otro sin su voluntad, sufrirá la pena de reclusión menor en su grado medio si divulgare o se aprovechare de los secretos que ellos contienen, y en el caso contrario la de reclusión menor en su grado mínimo.
 
-Esta disposición no es aplicable entre cónyuges, ni a los padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus hijos o menores que se hallen bajo su dependencia.
+Esta disposición no es aplicable entre cónyuges, convivientes civiles, ni a los padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus hijos o menores que se hallen bajo su dependencia.
 
 Tampoco es aplicable a aquellas personas a quienes por leyes o reglamentos especiales, les es lícito instruirse de correspondencia ajena.
 
@@ -2276,7 +2276,7 @@ Cometen atentado contra la autoridad:
 
 1.° Los que sin alzarse públicamente emplean fuerza o intimidación para alguno de los objetos señalados en los arts. 121 y 126.
 
-2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, cuando aquélla o éstos ejercieron funciones de su cargo.
+2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, carabineros, funcionarios de la Policía de Investigaciones o de Gendarmería de Chile, cuando aquélla o éstos ejercieron funciones de su cargo.
 
 #### Artículo 262
 
@@ -2552,7 +2552,7 @@ Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
 
 Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
 
-Quedará exento de las penas a que se refiere este artículo el cónyuge, los parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, y el padre, hijo natural o ilegítimo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
+Quedará exento de las penas a que se refiere este artículo el cónyuge, el conviviente civil, los parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, y el padre, hijo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
 
 ### XI. De las amenazas de atentado contra las personas y propiedades
 
@@ -3578,9 +3578,11 @@ El que sin la voluntad de su dueño y con ánimo de lucrarse se apropia cosa mue
 
 El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado:
 
-1.o) Con presidio mayor en su grado medio a presidio perpetuo calificado cuando, con motivo u ocasión del robo, se cometiere, además, homicidio, violación o alguna de las lesiones comprendidas en los artículos 395, 396 y 397 N.o 1.
+1°. Con presidio mayor en su grado máximo a presidio perpetuo calificado cuando, con motivo u ocasión del robo, se cometiere, además, homicidio o violación.
 
-2.o) Con presidio mayor en su grado medio a máximo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o se cometieren lesiones de las que trata el N.o 2 del artículo 397.
+2°. Con presidio mayor en su grado máximo a presidio perpetuo cuando, con motivo u ocasión del robo, se cometiere alguna de las lesiones comprendidas en los artículos 395, 396 y 397, número 1°.
+
+3°. Con presidio mayor en su grado medio a máximo cuando se cometieren lesiones de las que trata el número 2° del artículo 397 o cuando las víctimas fueren retenidas bajo rescate o por un lapso mayor a aquel que resulte necesario para la comisión del delito.
 
 #### Artículo 434
 
@@ -3748,7 +3750,15 @@ Durante el curso del procedimiento dichos bienes serán incautados de conformida
 
 #### Artículo 449
 
-Derogado.
+Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 bis, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69 y se aplicarán las reglas que a continuación se señalan:
+
+1ª. Dentro del límite del grado o grados señalados por la ley como pena al delito, el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes concurrentes, así como a la mayor o menor extensión del mal causado, fundamentándolo en su sentencia.
+
+2ª. Tratándose de condenados reincidentes en los términos de las circunstancias agravantes de los numerales 15 y 16 del artículo 12, el tribunal deberá, para los efectos de lo señalado en la regla anterior, excluir el grado mínimo de la pena si ésta es compuesta, o el mínimum si consta de un solo grado.
+
+#### Artículo 449 bis
+
+Será circunstancia agravante de los delitos contemplados en los Párrafos 1, 2, 3, 4 y 4 bis de este Título, y del descrito en el artículo 456 bis A, el hecho de que el imputado haya actuado formando parte de una agrupación u organización de dos o más personas destinada a cometer dichos hechos punibles, siempre que ésta o aquélla no constituyere una asociación ilícita de que trata el Párrafo 10 del Título VI del Libro Segundo.
 
 #### Artículo 450
 
@@ -3790,9 +3800,9 @@ En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 
 1°) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito habitual o que por cualquiera otra condición favorezcan la impunidad.
 
-2° Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
+2°) Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad física;
 
-3°) Ser dos o más los malhechores;
+3°) Suprimida;
 
 4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
 
@@ -3817,6 +3827,8 @@ Cuando el objeto de la receptación sean vehículos motorizados o cosas que form
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 
 Tratándose del delito de abigeato la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
+
+Si el valor de lo receptado excediere de cuatrocientas unidades tributarias mensuales, se impondrá el grado máximo de la pena o el máximun de la pena que corresponda en cada caso.
 
 ### VI. De la usurpación
 
@@ -4156,6 +4168,8 @@ Están exentos de responsabilidad criminal y sujetos únicamente a la civil por 
 
 5.° Los cónyuges.
 
+6.° Los convivientes civiles.
+
 La excepción de este artículo no es aplicable a los extraños que participaren del delito, ni tampoco entre cónyuges cuando se trate de los delitos de daños indicados en el párrafo anterior.
 
 Además, esta exención no será aplicable cuando la víctima sea una persona mayor de sesenta años.
@@ -4312,7 +4326,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
 
-3.° Derogado.
+3.° El que impidiere el ejercicio de las funciones fiscalizadoras de los inspectores municipales.
 
 4.° El que no diere los partes de defunción, contraviniendo a la ley o reglamentos.
 

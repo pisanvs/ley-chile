@@ -64,11 +64,13 @@ e) Custodiar y atender a las personas privadas de libertad en las siguientes cir
 
 f) Contribuir a la reinserción social de las personas privadas de libertad, mediante la ejecución de acciones tendientes a eliminar su peligrosidad y lograr su reintegración al grupo social;
 
-g) Asistir en el medio libre a las personas que accedan al mismo por encontrarse cumpliendo condenas o por otra causa legal, en las condiciones que señalen los reglamentos, y
+g) Asistir en el medio libre a las personas que accedan al mismo por encontrarse cumpliendo condenas o por otra causa legal, en las condiciones que señalen los reglamentos;
 
 h) Resguardar la seguridad interna de los recintos donde funcionan el Ministerio de Justicia, la Corte Suprema y en general los Tribunales de Justicia que determine el Presidente de la República por decreto supremo, sin perjuicio de las atribuciones de las fuerzas de orden.
 
-i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe.
+i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe, y
+
+j) Administrar el dispositivo de monitoreo telemático, de conformidad a lo dispuesto en la ley N° 18.216 y el reglamento respectivo.
 
 El régimen penitenciario es incompatible con todo privilegio o discriminación arbitraria, y sólo considerará aquellas diferencias exigidas por políticas de segmentación encaminadas a la reinserción social y a salvaguardar la seguridad del imputado y condenado y de la sociedad.
 
@@ -192,13 +194,13 @@ a) Desarrollar y gestionar las actividades de educación, trabajo, deportes, rec
 
 b) Supervisar técnicamente los servicios que se prestan en los establecimientos concesionados.
 
-c) Ejercer el control y gestionar los programas de atención y asistencia de los condenados que gocen de medidas alternativas a la reclusión.
+c) Ejercer el control y gestionar los programas de atención y asistencia de los condenados que cumplan penas sustitutivas a la reclusión.
 
 d) Gestionar los planes y programas de asistencia de las personas que habiendo cumplido sus condenas, requieran de apoyo para su reinserción social.
 
 e) Diseñar, supervisar y controlar técnicamente los programas y proyectos que se adjudiquen para el apoyo de la reinserción social en los diferentes sistemas.
 
-f) Generar y mantener bases de datos estadísticos de la población privada de libertad y sujeta a una de las medidas establecidas en la ley N° 18.216, relativas a sus características socioeconómicas, el quebrantamiento de la pena, la reincidencia luego del cumplimiento de la condena, y todas aquellas que establezcan otras leyes y reglamentos.
+f) Generar y mantener bases de datos estadísticos de la población privada de libertad y que cumpla una de las penas sustitutivas establecidas en la ley N° 18.216, relativas a sus características socioeconómicas, el quebrantamiento de la pena, la reincidencia luego del cumplimiento de la condena, y todas aquellas que establezcan otras leyes y reglamentos.
 
 La Jefatura de esta Subdirección será asumida por el Subdirector Técnico quien será designado por el Director Nacional, de conformidad con lo dispuesto en el Título VI de la ley N° 19.882.
 
@@ -300,17 +302,23 @@ A.- El que matare a un miembro de Gendarmería de Chile durante el desempeño de
 
 B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado:
 
-1. Con la pena de presidio mayor en su grado medio, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+1. Con la pena de presidio mayor en su grado medio a máximo, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
-2. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+2. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
 3. Con presidio menor en su grado medio a máximo, si le causare lesiones menos graves.
 
-4. Con presidio menor en su grado mínimo, o multa de seis a once unidades tributarias mensuales, si le ocasionare lesiones leves.
+4. Con presidio menor en su grado mínimo, si le ocasionare lesiones leves.
 
 #### Artículo 15
 
-C.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando los delitos que estos preceptos establecen se cometan contra un funcionario de Gendarmería de Chile que se encontrare en el desempeño de sus funciones o en razón de ellas.
+C.- Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un miembro de Gendarmería de Chile en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
+
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
 
 #### Artículo 15
 

@@ -134,7 +134,7 @@ Incorporación de huellas genéticas de imputados al Registro de Condenados. Cua
 
 Si no se hubiere determinado la huella genética del imputado durante el procedimiento criminal, en la sentencia condenatoria el tribunal ordenará que se determine, previa toma de muestras biológicas si fuere necesario, y se incluya en el Registro de Condenados. Lo anterior sólo tendrá lugar cuando se condenare al imputado por alguno de los siguientes delitos:
 
-a) los previstos en los artículos 141, 142, 150 A, 150 B, 296 Nºs. 1 y 2, 313 d, 315, 316, 348, 352, 395, 396, 397 Nº 1, 401, 403 bis, 433, 436 inciso primero, 440, 474, 475, 476, y 480 del Código Penal;
+a) los previstos en los artículos 141, 142, 150 A, 150 B, 296 Nºs. 1 y 2, 313 d, 315, 316, 348, 352, 395, 396, 397 Nº 1, 401, 403 bis, 433, 436 inciso primero, 440, 443, 443 bis, 448 bis, 474, 475, 476, y 480 del Código Penal;
 
 b) los previstos en los Párrafos 1º, 5º, 6º y 7º del Título VII y 1º y 2º del Título VIII del Libro Segundo del Código Penal, y
 
