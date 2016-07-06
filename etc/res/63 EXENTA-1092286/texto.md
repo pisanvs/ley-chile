@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos, Nº 63, de 30 de junio de 2016, que autoriza a las instituciones sin fines de lucro, Fundación Manos a la Obra, RUT Nº 65.077.895-2; Parroquia de Sta. Cruz, RUT Nº 70.021.530-K; Arzobispado de Santiago Parroquia Jesús Obrero, RUT Nº 81.795.195-3; Fundación Refugio de Cristo, RUT Nº 70.015.560-9; Corporación Hogar Belén, RUT Nº 72.758.100-6; Misión Evangélica San Pablo de Chile, RUT Nº 71.318.900-6, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de junio de 2016.
