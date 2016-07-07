@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN Nº106, DE 19 DE ABRIL DE 2016
+
+Por decreto de Educación Nº106, de fecha 19 de abril de 2016, y de conformidad con lo dispuesto en el DL Nº3.166, de 1980, y su Reglamento fijado por DS Nº5.077, del mismo año, ley Nº20.845 y DFL Nº2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 27 de enero de 2016 entre el Ministerio de Educación y la Corporación de Capacitación y Educación Industrial y Minería, con el objeto de aprobar e incorporar a los respectivos convenios de administración, un Anexo denominado "Aporte por Gratuidad de la ley Nº20.845" que permita que los establecimientos educacionales regidos por el decreto ley Nº3.166, de 1980, que administra esa entidad, sean beneficiados con dicho aporte.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
