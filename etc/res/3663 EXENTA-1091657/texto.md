@@ -48,7 +48,7 @@ g) De la exigencia de la letra a) del inciso cuarto del artículo 37, sobre la p
 
 h) De lo establecido en el artículo 46, letras a) y b) referido a la calidad de propietario para acceder a un subsidio del Título II.
 
-4. Podrán postular al presente llamado, proyectos en Condominios de Viviendas Económicas construidos o financiados por las instituciones de previsión social fusionadas en el Instituto de Previsión Social (IPS), Cooperativas o Municipalidades, los cuales presenten deterioro físico y posean una antigüedad superior a 5 años.
+4. Podrán postular al presente llamado, proyectos en Condominios de Viviendas Económicas construidos o financiados por las instituciones de previsión social fusionadas en el Instituto de Previsión Social (IPS), Cooperativas o Municipalidades, los cuales presenten deterioro físico y posean una antigüedad superior a 5 años. Asimismo, podrán ser objeto de este llamado, aquellos Condominios de Viviendas Económicas con una antigüedad mínima de 25 años, que presenten graves condiciones de deterioro u obsolescencia en sus bienes comunes, constituyendo un riesgo para sus habitantes, certificadas por el respectivo Seremi conforme a lo señalado en el resuelvo 8, independientemente del origen de su financiamiento o de la entidad a cargo de su construcción.
 
 Para todos los efectos, se comprenderá como Vivienda Económica aquella descrita en el artículo 162 del DFL Nº 458, de 1975, Ley General de Urbanismo y Construcciones.
 
@@ -112,6 +112,8 @@ El resultado de esta evaluación, será sancionado mediante un acta de la Comisi
 
 Sin perjuicio de lo anterior, podrán financiarse con este subsidio todas las reparaciones al interior de la vivienda previstas como consecuencia de la intervención en los bienes comunes, restituyendo a lo menos al estado previo a la intervención, siempre que dicho ítem no exceda el 15% del monto destinado a la reparación y/o mejoramiento de bienes comunes, considerando el subsidio base y los incrementos señalados en el resuelvo 15 de la presente resolución.
 
+Aquellos Condominios de Viviendas Económicas que no hubiesen sido construidos y/o financiados por las instituciones de previsión social fusionadas en el Instituto de Previsión Social (IPS), Cooperativas o Municipalidades, podrán destinar los recursos descritos en el inciso primero del presente resuelvo, únicamente para la ejecución de aquellas obras que permitan subsanar las graves condiciones de deterioro u obsolescencia en los bienes comunes, identificadas en la certificación otorgada por la respectiva Seremi.
+
 15. Se podrá incrementar el subsidio base, señalado en el resuelvo precedente, con:
 
 a) Incremento para ambientes salinos: Tratándose de condominios de vivienda emplazados en comunas costeras, se podrá adicionar hasta 5 UF por cada unidad de vivienda que forme parte del proyecto postulado, a fin de contrarrestar los efectos corrosivos provocados por ambientes de alta salinidad, los cuales aceleran el deterioro de elementos tales como: escalas, cierres perimetrales y celosías, entre otros.
@@ -122,7 +124,7 @@ c) Incremento para plagas: Se podrá adicionar hasta 2,5 UF por cada unidad de v
 
 d) Incremento de riesgo: En casos de extrema necesidad, relativos a fallas graves en redes de servicios u otras situaciones que representen un riesgo manifiesto para las familias, el Seremi, podrá autorizar al Serviu, previo informe técnico que lo fundamente, a incrementar el subsidio en hasta 25 UF por cada unidad de vivienda que forme parte del proyecto postulado, para la intervención de redes de servicios, tratamiento de suelos, reparaciones estructurales, muros de contención, refuerzo de taludes, reparación o recambio de ascensores, entre otros.
 
-Para optar a los incrementos y/o adiciones expresadas, la Seremi deberá autorizarlos en la resolución que declara al condominio como objeto del programa, para lo cual podrá requerir antecedentes complementarios a los establecidos en el resuelvo 7 de la presente resolución, a fin de acreditar la pertinencia del financiamiento.
+Sólo podrán optar a los incrementos y/o adiciones descritos en el presente resuelvo, aquellos Condominios de Viviendas Económicas construidos o financiados por las instituciones de previsión social fusionadas en el Instituto de Previsión Social (IPS), Cooperativas o Municipalidades, los que deberán ser autorizados por la Seremi mediante la resolución exenta que declara al condominio como objeto del Programa. Con dicho objetivo, la Seremi podrá requerir antecedentes complementarios a los establecidos en el resuelvo 7 de la presente resolución, a fin de acreditar la pertinencia del financiamiento.
 
 Los recursos otorgados en virtud de los puntos b), c), y d) del presente resuelvo, deberán destinarse íntegramente a las partidas que correspondan al propósito para el que fueron aprobados. No obstante, las partidas de obras que habilitan cualquiera de los incrementos, podrán ser complementadas con recursos del subsidio base. Excepcionalmente, si ejecutadas las partidas asociadas a los incrementos para la remoción de elementos con asbesto cemento y plagas, se generasen excedentes de recursos que no superen el 10% del presupuesto aprobado para dichos complementos, éstos se podrán utilizar en otras partidas del Título II, bajo autorización expresa del Departamento de Obras del Serviu respectivo.
 
@@ -132,11 +134,15 @@ a) Condominios cuyas unidades no poseen ampliaciones irregulares (construcciones
 
 b) Postulaciones en las cuales se haya incrementado el ahorro mínimo exigido para cada unidad o postulante, de acuerdo al incremento de ahorro descrito para cada uno de los tipos de proyecto correspondientes.
 
+c) Condominios de Viviendas Económicas, construidos o financiados por las instituciones de previsión social fusionadas en el Instituto de Previsión Social (IPS), Cooperativas o Municipalidades.
+
 El subsidio adicional considerará los siguientes montos máximos, según tramo y tipos de proyecto a incorporar:
 
 .
 
 Los recursos otorgados a través del subsidio adicional descrito en el presente resuelvo, solo podrán utilizarse para financiar obras de Acondicionamiento Térmico o Eficiencia Energética, según corresponda, no pudiendo traspasar dichos montos a otras partidas del proyecto de reparación y/o mejoramiento de bienes comunes, ni entre sí.
+
+Las partidas mínimas a ejecutar mediante la aplicación de este subsidio, adicional, serán las contenidas en el punto 2 del documento aprobado en la letra a) de la resolución exenta 2.880 (V. y U.), de 2016. Adicionalmente, los estándares técnicos exigibles serán los contenidos en la tabla número 2, aprobada en la letra c) de la resolución exenta, antes mencionada.
 
 17. En el caso de copropiedades que requieran intervenir partidas en bienes comunes, cuya ejecución de obras implique acceder a las unidades, se requerirá, al momento de presentar los proyectos a Serviu, una autorización jurada simple de parte de cada uno de los jefes de hogar ocupantes de las unidades a las que sea necesario ingresar.
 
