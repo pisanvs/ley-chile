@@ -38,7 +38,7 @@ Resolución:
 
 1. Llámase a postulación extraordinaria en condiciones especiales, a todas las familias que cumplan con los requisitos que se establecen para el presente proceso de postulación, en modalidad individual o colectiva, para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, correspondientes al Título II, Mejoramiento de la Vivienda, destinados al financiamiento de subsidios de Acondicionamiento Térmico para viviendas emplazadas en zonas de las comunas vinculadas a los Planes de Descontaminación Atmosférica (PDA) a que se refieren los decretos citados en los Vistos e), f), g), h), i) y j) de la presente resolución, excepto en la Región de O'Higgins, donde sólo se abordarán las comunas o partes de éstas emplazadas en la zona térmica 3.
 
-2. Las familias interesadas en participar de este llamado podrán postular a partir del mes de junio del presente año hasta el último día hábil del mes de octubre, siendo los procesos de selección de carácter regional, los cuales se realizarán durante los meses de julio, septiembre y noviembre. La Región de O'Higgins tendrá un cierre adicional cuyo proceso de selección se efectuará en agosto.
+2. Los cierres de las postulaciones de este llamado serán los meses de junio, julio, agosto y octubre, pudiendo cada Serviu definir en cuales de estas selecciones participará. Sólo podrán participar de estas selecciones los proyectos calificados hasta el último día hábil de esos meses. Los procesos de selección serán de carácter regional y se realizarán durante los meses de julio, agosto, septiembre y noviembre.
 
 3. Las regiones y comunas que podrán participar del presente llamado, así como los recursos que se destinarán al financiamiento de los referidos subsidios habitacionales, serán los que se indican en la tabla inserta a continuación:
 
@@ -90,13 +90,19 @@ Todos los proyectos que se apliquen en viviendas sociales aplicarán el crédito
 
 5.1 De los postulantes:
 
-5.1.1 Los postulantes a este llamado deberán ser propietarios o arrendatarios de la vivienda con la que postulan. En el caso de postulantes arrendatarios, deberán presentar al momento de la postulación la autorización escrita por parte del propietario.
+5.1.1 Los postulantes a este llamado deberán ser propietarios o arrendatarios de la vivienda con la que postulan. En el caso de postulantes arrendatarios, deberán presentar al momento de la postulación la autorización escrita por parte del propietario. En el caso de inmuebles pertenecientes a una sucesión hereditaria, podrá postular uno de los comuneros. En cuyo caso deberá acompañar copia de la inscripción especial de herencia. Si ésta no se hubiere practicado aún, deberá presentar copia de la inscripción de dominio a favor del causante, acreditando su calidad de heredero con copia del auto de posesión efectiva otorgada por el tribunal competente, en caso de sucesiones testadas, o del acto administrativo que acoja a trámite la solicitud de posesión efectiva ante el Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
 
 5.1.2 Podrán postular al presente llamado familias que cuenten con más de una propiedad habitacional, en cuyos casos sólo podrán postular una vivienda en calidad de propietario.
 
 5.1.3 Deberán contar con el ahorro mínimo al que se refiere el punto 4.1 de la presente resolución.
 
-5.1.4 Podrán postular al presente llamado familias que hayan resultado beneficiadas con un subsidio de Acondicionamiento Térmico del Programa de Protección del Patrimonio Familiar, hasta el año 2009 inclusive, siempre y cuando el subsidio no haya permitido el acondicionamiento completo de la vivienda.
+5.1.4 Podrán postular al presente llamado familias que hayan resultado beneficiadas anteriormente con un subsidio del Título II del Programa de Protección del Patrimonio Familiar. Además podrán postular familias que hayan sido beneficiadas con un subsidio de Acondicionamiento Térmico, hasta el año 2009 inclusive, siempre y cuando ese subsidio no haya permitido el acondicionamiento completo de la vivienda.
+
+5.1.5 No se exigirá a las familias postulantes contar con el instrumento de Caracterización Socioeconómica. No obstante sólo podrán postular al Incremento por Complejidad Técnica para Familias Vulnerables de este llamado, las familias hasta el 3º Quintil de Vulnerabilidad o hasta el 60% de la población más vulnerable del país de conformidad a la información provista por el Registro Social de Hogares. Esto, se calculará según lo señalado a continuación:
+
+a) Para las personas que postularon en los años 2014 y 2015, se considerará el puntaje de la Ficha de Protección Social (FPS) que registraron en la última postulación en los llamados del Programa de Protección del Patrimonio.
+
+b) Las familias que no postularon en los años señalados precedentemente, se les considerará la Calificación Socioeconómica (CSE) del Registro Social de Hogares.
 
 5.2 De las Viviendas Objeto del llamado:
 
