@@ -90,7 +90,7 @@ e) Emitir los oficios que procedan en relación con recursos y consultas que der
 
 f) Llevar un registro de cargos pecuniarios que afecten a funcionarios públicos de la región;
 
-g) Pronunciarse sobre solicitudes de condonaciones de remuneraciones percibidas indebidamente siempre que el total de la deuda no exceda de 50 UTM y la concesión de facilidades sin limitación de montos, dentro de las políticas aplicadas por la Contraloría General en esta materia;
+g) Pronunciarse sobre solicitudes de condonaciones de remuneraciones percibidas indebidamente y la concesión de facilidades, dentro de las políticas aplicadas por la Contraloría General en esta materia;
 
 h) Aceptar, cancelar y hacer efectivas las fianzas que deben rendir los funcionarios públicos de la región y llevar los registros de las mismas;
 
