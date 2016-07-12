@@ -38,7 +38,11 @@ Sin perjuicio de lo anterior, la cantidad de alumnos que se encuentren en alguna
 
 B.- Total de Subsidios al Semestre
 
-Con cargo al Fondo de subsidios de becas, CORFO financiará hasta 400 subsidios semestralmente, que beneficiarán a alumnos nuevos y a alumnos que asistan regularmente al Centro de Formación Técnica-CFT.
+Con cargo al Fondo de Subsidios de Becas, Corfo financiará hasta 400 subsidios semestralmente, que beneficiarán tanto a alumnos nuevos como alumnos regulares.
+
+Para el caso en que la demanda no permitiere asignar el número de subsidios señalados, el saldo disponible de recursos podrá ser destinado a financiar un último semestre de titulación o un quinto semestre para cursar asignaturas pendientes, previa autorización del Director Ejecutivo del "Comité de Desarrollo Productivo Regional de la Región del Bío-Bío".
+
+En ningún caso el número de subsidios otorgados podrá ser inferior a 300. Si la demanda no permitiere asignar este número, sólo podrá utilizarse para los fines señalados en el párrafo anterior, el saldo de recursos que exceda el cálculo del financiamiento de las 300 becas, o la matrícula real si ésta fuere superior a ese número, y los 400 subsidios contemplados, más los recursos derivados de deserciones u otra causa.
 
 C.- Tipo de Subsidios
 
@@ -58,13 +62,13 @@ El monto máximo a subvencionar a través de este Fondo por alumno será, tratá
 
 Los interesados que cumplan los requisitos exigidos para acceder a este Fondo de Subsidio para Becas podrán postular a los dos subsidios previstos en este Reglamento, pudiendo ser beneficiados por más de un tipo de subsidio en distintos períodos académicos cada vez. No obstante, en ningún caso, una misma persona podrá ser beneficiada por ambos subsidios en forma simultánea o con otro subsidio estatal que tenga el mismo objeto, salvo que en este último caso se trate de una beca complementaria por el saldo hasta completar el 100% del arancel.
 
-Con cargo al Fondo de Subsidio de Becas, se podrá financiar hasta cuatro semestres académicos continuos o discontinuos por alumno. Sin perjuicio de ello, con cargo al saldo de las subvenciones y becas que, debido a la deserción de los alumnos beneficiarios u otra causa, en definitiva no haya sido destinado al financiamiento de alguno de esos semestres, se podrá financiar un quinto semestre para cursar asignaturas pendientes, conforme lo determine la Reglamentación del CFT Lebu. Para ello, previamente el CFT Lebu deberá rendir cuenta a Corfo señalando las subvenciones que no serán utilizadas.
+Con cargo al Fondo de Subsidio de Becas, se podrá financiar hasta cuatro semestres académicos continuos o discontinuos por alumno. En tanto, con cargo al saldo de las subvenciones y becas transferidas y no empleadas por deserción u otra causa, se podrá financiar un quinto semestre para cursar asignaturas pendientes, conforme lo determine la reglamentación del CFT Lebu. Para ello, previamente el CFT deberá rendir cuenta de dichos saldos a Corfo, a través del Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío".
 
-Además, los alumnos que hayan sido beneficiarios del Fondo de Subsidio de Becas podrán recibir financiamiento, con los mismos remanentes de recursos por una vez, para un último semestre de titulación, con el tope indicado precedentemente.
+Además, los alumnos que hayan sido beneficiarios del Fondo de Subsidio de Becas, podrán recibir financiamiento, con los mismos remanentes de recursos, y prioritariamente por una vez, para un último semestre de titulación, con el tope indicado anteriormente.
 
 Los saldos referidos deberán ser empleados primeramente para subsidiar a los alumnos que se encuentren en proceso de titulación, y sólo una vez que la subvención de dichos alumnos se encuentre íntegramente cubierta, podrán emplearse para subsidiar alumnos que deban cursar un quinto semestre con el objeto de completar asignaturas pendientes. En el caso de que no existan fondos suficientes para cubrir íntegramente todas las subvenciones correspondientes al semestre de titulación o al quinto semestre de asignaturas pendientes, según corresponda, los fondos existentes serán prorrateados entre los alumnos que corresponda.
 
-Para cada uno de los casos (calificados o excepcionales) será resorte del CFT recopilar los antecedentes de los alumnos y proponer al Director Regional de la CORFO todos aquellos casos que ameriten una situación de excepción. En definitiva, le corresponderá al Director Regional de la Corfo, mediante resolución fundada, determinar si procede o no una situación de excepción.
+Para cada uno de los casos (calificados o excepcionales) será resorte del CFT recopilar los antecedentes de los alumnos y proponer al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" todos aquellos casos que ameriten una situación de excepción. En definitiva, le corresponderá al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío", mediante resolución fundada, determinar si procede o no una situación de excepció.
 
 Para la asignación de estas subvenciones los beneficiarios deberán residir en las comunas de Lota, Coronel o en las comunas de la Provincia de Arauco.
 
@@ -84,7 +88,7 @@ Con cargo al Fondo de Subsidios para Becas de Excelencia Académica se financiar
 
 Tratándose de alumnos regulares que se encuentren cursando carrera en el CFT, su condición para continuar con el subsidio es haber obtenido en el semestre anterior una calificación promedio igual o superior a 5.0 en una escala de 1 a 7 y satisfacer las demás exigencias contenidas en el punto II.1.4.
 
-Para la postulación a este subsidio CORFO elaborará una ficha denominada "Ficha de Postulación a la beca por excelencia académica", la cual será confeccionada con la participación del CFT, donde se señalará claramente los antecedentes que cada postulante deberá adjuntar, que permitan acreditar los requisitos que el presente Reglamento define para ser beneficiado por la beca de excelencia académica. Con dicha información el CFT confeccionará la lista de los postulantes al beneficio de estas becas, la que hará llegar a CORFO con los antecedentes acreditados y una propuesta de priorización, para que se determine los alumnos seleccionados y se proceda a la transferencia de los subsidios que correspondan.
+Para la postulación a este subsidio, Corfo elaborará una ficha denominada "Ficha de Postulación a la Beca por Excelencia Académica", la cual será confeccionada con la participación del CFT, donde se señalará claramente los antecedentes que cada postulante deberá adjuntar, que permitan acreditar los requisitos que el presente Reglamento define para ser beneficiado por la beca de excelencia académica. Con dicha información, el CFT confeccionará la lista de los postulantes al beneficio de estas becas, la que hará llegar al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" con los antecedentes acreditados y una propuesta de priorización, para que se detemine los alumnos seleccionados y se proceda a la transferencia de los subsidios que correspondan.
 
 II.1.2. Monto de la Subvención
 
@@ -176,11 +180,13 @@ Para estos efectos la dirección del CFT deberá mantener permanentemente inform
 
 El alumno que obtiene un promedio de notas igual o superior a 5 podrá postular preferentemente a los cupos de alumnos nuevos del subsidio de Becas de Excelencia Académica.
 
-III. PROCESO DE POSTULACIÓN, EVALUACIÓN Y SELECCIÓN III.1. Administración del Proceso
+### III. PROCESO DE POSTULACIÓN, EVALUACIÓN Y SELECCIÓN
+
+III.1. Administración del Proceso
 
 El proceso técnico administrativo de postulación y propuesta de selección de los postulantes a estos programas, estará a cargo de la entidad administradora del CFT Lebu, conforme al convenio que para estos efectos se suscribirá entre CORFO y la referida entidad.
 
-Le corresponderá al Director Regional de CORFO adjudicar las becas mediante resolución fundada.
+Le corresponderá al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" adjudicar las becas mediante resolución fundada.
 
 III.2. Postulación y/o Renovación de las Subvenciones
 
@@ -196,7 +202,7 @@ Durante este período, también podrán postular a los Programas los que por ret
 
 III.3. Evaluación y Selección
 
-Para la postulación a ambos subsidios CORFO elaborará una ficha denominada "Ficha de Postulación", la cual será confeccionada con la participación del CFT, donde se señalarán claramente los antecedentes que cada postulante deberá adjuntar, que permitan acreditar los requisitos que el presente Reglamento define para ser beneficiario, tanto por la beca de excelencia académica como por la beca por situación socio-económica. Con dicha información el CFT confeccionará la lista de los postulantes al beneficio de cada una de estas becas y una propuesta de priorización, la que hará llegar a la CORFO junto con los respectivos antecedentes, para que el Director Regional de la CORFO -mediante resolución fundada- determine si los alumnos incluidos en la nómina cumplen o no con los requisitos para obtener una de las becas reguladas en el presente Reglamento y, según ello, proceda a efectuar la transferencia de los subsidios que correspondan.
+Para la postulación a ambos subsidios, Corfo elaborará una ficha denominada "Ficha de Postulación", la cual será confeccionada con la participación del CFT, donde se señalará claramente los antecedentes que cada postulante deberá adjuntar, que permitan acreditar los requisitos que el presente Reglamento define para ser beneficiario, tanto por la beca de excelencia académica como por la beca de situación socioeconómica. Con dicha información, el CFT confeccionará la lista de los postulantes al beneficio de cada una de estas becas y una propuesta de priorización, la que hará llegar al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" junto con los respectivos antecedentes, para que éste, mediante resolución fundada, determine si los alumnos incluidos en la nómina cumplen o no con los requisitos para obtener una de las becas reguladas en el presente Reglamento y, según ello, proceda a efectuar la transferencia de los subsidios que correspondan.
 
 El CFT Lebu, como encargado de la administración del proceso de postulación, deberá comprobar que los postulantes acompañen la documentación pertinente a cada una de las subvenciones que se establecen en este Reglamento.
 
@@ -206,7 +212,7 @@ CORFO establecerá y aplicará criterios y pautas de evaluación y selección de
 
 IV.1. Aprobación de las Subvenciones
 
-Una vez culminado el proceso de postulación y recepción de antecedentes de los postulantes, el CFT Lebu deberá remitir al Director Regional de CORFO un informe con los resultados del mismo con una propuesta de los postulantes nuevos, como también de los que se encuentren en proceso de renovación de beneficio y que han dado cumplimiento a los requisitos y exigencias que este Reglamento establece. A dicho informe deberá adjuntarse toda la documentación que lo fundamente y, en su caso, todo otro antecedente que la Dirección Regional de la CORFO estimare necesario.
+Una vez culminado el proceso de postulación y recepción de antecedentes de los postulantes, el CFT Lebu deberá remitir al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" un informe con los resultados del mismo, con una propuesta de los postulantes nuevos, como también de los que se encuentren en proceso de renovación del beneficio y que han dado cumplimiento a los requisitos y exigencias que este Reglamento establece. A dicho informe deberá adjuntarse toda la documentación que lo fundamente, y, en su caso, todo otro antecedente que el Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" estimare necesario.
 
 Los subsidios que procedan se entregarán a la entidad que opere el Centro de Formación Técnica-CFT Lebu.
 
@@ -216,17 +222,15 @@ Los recursos para el financiamiento del programa provendrán del presupuesto de 
 
 IV.3. Pago de las Subvenciones
 
-El pago de las subvenciones descritas en el presente Reglamento se efectuará al inicio de cada semestre académico, una vez que se encuentre totalmente tramitada la resolución del Director Regional de la Corporación en la Región del Bío-Bío, que identifique a los alumnos beneficiados y el tipo de beca asignada y disponga la transferencia de los subsidios que correspondan.
+Los subsidios que procedan se entregarán a la entidad que opere el Centro de Formación Técnica - CFT Lebu. El pago se efectuará una vez que se encuentre totalmente tramitada la resolución del Director Ejecutivo del "Comité de Desarrollo Productivo Regional de la Región del Bío-Bío", en la que se identifique a los beneficiarios y el tipo de beca otorgada y disponga la transferencia de los recursos.
 
 ### V. EVALUACIÓN DE LAS OPERACIONES
 
-La Dirección Regional de la CORFO tendrá las más amplias facultades para la evaluación de todas los operaciones involucradas en los programas contenidos en el Fondo de Subsidios para Becas y para verificar el cumplimiento de todas las obligaciones que el presente Reglamento establezca tanto a los postulantes, a los alumnos y a la entidad encargada de la administración del CFT Lebu. Asimismo CORFO podrá realizar, si lo estima pertinente, evaluaciones periódicas externas, para lo cual el CFT entregará toda la información solicitada.
+El Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío", por sí y/o a través de quien éste designe, tendrá las más amplias facultades para la evaluación de todas las operaciones involucradas en los programas contenidos en el Fondo de Subsidios para Becas y para verificar el cumplimiento de todas las obligaciones que el presente Reglamento establezca tanto a los postulantes, a los alumnos y a la entidad encargada de la administración del CFT Lebu. Asimismo, Corfo podrá realizar, si lo estima pertinente, evaluaciones periódicas externas, para lo cual el CFT entregará toda la información solicitada.
 
-### VI. ATRIBUCIONES DEL DIRECTOR REGIONAL
+### VI. Atribuciones del Director Ejecutivo del Comité de Desarrollo Productivo Regional del Bío-Bío
 
-DE CORFO
-
-Al Director Regional de la Región del Bío-Bío le corresponderá verificar si un alumno cumple con los requisitos para acceder a una de las becas reguladas en el presente Reglamento; fijará el monto de las transferencias y, en general, podrá adoptar todas las medidas que sean necesarias y convenientes para la adecuada, transparente y eficiente operación del Fondo.
+Al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-Bío" le corresponderá verificar si un alumno cumple con los requisitos para acceder a una de las becas reguladas en el presente reglamento; fijará el monto de las transferencias y, en general, podrá adoptar todas las medidas que sean necesarias y convenientes para la adecuada, transparente y eficiente operación del Fondo
 
 ### VII. DURACIÓN DEL PROGRAMA
 
