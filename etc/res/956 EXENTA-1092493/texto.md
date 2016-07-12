@@ -1,30 +1,24 @@
-PONE EN EJECUCIÓN ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, QUE APRUEBA LA CREACIÓN, EN EL MARCO DEL INSTRUMENTO "PROGRAMAS DE APOYO A LA REACTIVACIÓN - PAR" LA TIPOLOGÍA DE INTERVENCIÓN "PAR - PESCA ARTESANAL Y MITILICULTURA LOS LAGOS"
+PONE EN EJECUCIÓN ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS-CAF, QUE MODIFICA, EN EL MARCO DEL INSTRUMENTO "PROGRAMAS DE APOYO A LA REACTIVACIÓN-PAR" LA TIPOLOGÍA DE INTERVENCIÓN "PAR - PESCA ARTESANAL Y MITILICULTURA LOS LAGOS"
 
-Núm. 588 exenta.- Santiago 6 de mayo de 2016.
+Núm. 956 exenta.- Santiago, 5 de julio de 2016.
 
 Visto:
 
-1. La resolución (A) N° 91, de 2015, del Vicepresidente Ejecutivo de Corfo, que entrega la facultad al Comité de Asignación de Fondos - CAF para modificar las normas referentes a los beneficiarios, cofinanciamiento, transferencias a Agentes Operadores Intermediarios y duración de las etapas de los instrumentos que componen el Sistema de Fomento a la Calidad y la Productividad, cuando algún sector económico, territorio, zona geográfica determinada o tipología de intervención así lo requiera.
+1. La resolución (A) Nº 91, de 2015, entrega la facultad al Comité de Asignación de Fondos - CAF para modificar las normas referentes a los beneficiarios, cofinanciamiento, transferencias a Agentes Operadores Intermediarios y duración de las etapas de los instrumentos que componen el Sistema de Fomento a la Calidad y a la Productividad, cuando algún sector económico, territorio, zona geográfica determinada o tipología de intervención así lo requiera.
 
-2. El Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 10/2016, celebrada el 3 de mayo de 2016, que aprobó crear la Tipología de Intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos" en el marco del Instrumento Programa de Apoyo a la Reactivación - PAR".
+2. La resolución (E) Nº 588, de 2016, del Gerente de Desarrollo Competitivo, que aprobó el texto refundido del Reglamento de la Tipología de intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos", en el marco del Instrumento Programa de Apoyo a la Reactivación - PAR.
 
-3. Lo dispuesto en el artículo 3° de la Ley N° 19.880 que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+3. El Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 14/2016, celebrada el 21 de junio de 2016, que aprobó modificar la Tipología de Intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos" en el marco del Instrumento Programa de Apoyo a la Reactivación - PAR.
 
-4. Las facultades que me confiere la resolución (A) N° 91, de 2015, ya citada; la resolución (E) N° 219, de 2015, modificada por las resoluciones (E) N° 255, N° 293 y N° 300, todas de 2015 y N° 19 de 2016, todas de Personal de Corfo, que me asignó funciones como Gerente de Desarrollo Competitivo; y lo dispuesto en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+4. Lo dispuesto en el artículo 3º de la Ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+
+5. Las facultades que me confiere la resolución (A) Nº 91, de 2015, del Vicepresidente Ejecutivo de Corfo, ya señalada; la resolución (E) Nº 219, de 2015, modificada por las resoluciones (E) Nº 255, Nº 293 y Nº 300, todas de 2015 y Nº 19 de 2016, todas de Personal de Corfo, que me asignó funciones como Gerente de Desarrollo Competitivo y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Resuelvo:
 
-1. Ejecútase el Acuerdo del Comité de Asignación de Fondos - CAF, adoptado en la Sesión N° 10/2016, celebrada el 3 de mayo de 2016, que aprobó la creación de la Tipología de Intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos".
+1. Ejecútase el Acuerdo del Comité de Asignación de Fondos - CAF, adoptado en la Sesión Nº 14/2016, celebrada el 21 de junio de 2016, que aprobó modificar la Tipología de Intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos" en el marco del Instrumento Programa de Apoyo a la Reactivación - PAR.
 
-2. Apruébase, en el marco del instrumento "Programa de Apoyo a la Reactivación - PAR", la creación, como Tipología de Intervención, del "PAR - Pesca Artesanal y Mitilicultura Los Lagos".
-
-PROGRAMA DE APOYO A LA REACTIVACIÓN – PAR PAR - PESCA ARTESANAL Y MITILICULTURA LOS LAGOS
-
-1. Su objeto es mejorar el potencial productivo y fortalecer la gestión de las empresas del sector Pesca Artesanal y Mitilicultura de la zona costera de la Región de Los Lagos, afectados por la marea roja, a través del desarrollo de competencias y capacidades y del cofinanciamiento de la inversión que les permitan acceder a nuevas oportunidades de negocios y/o mantener los existentes.
-
-El financiamiento y cofinanciamiento para estos proyectos, sólo podrá tener como origen recursos extrapresupuestarios.
-
-2. Será requisito para postular a esta Tipología que se encuentre vigente la Declaración de Zona de Catástrofe aprobada por decreto supremo N° 499, del Ministerio del Interior y Seguridad Pública, de fecha 29 de abril de 2016.
+2. Modifícase la Tipología de Intervención "PAR - Pesca Artesanal y Mitilicultura Los Lagos", aprobada mediante Acuerdo adoptado en Sesión N° 10-2016, celebrada con fecha 3 de mayo de 2016, en el marco del instrumento "Programa de Apoyo a la Reactivación - PAR", en el sentido de reemplazar los numerales 3, 4 y 5 por los siguientes:
 
 ### 3. De los Beneficiarios:
 
@@ -66,10 +60,6 @@ El proyecto de inversión y/o el plan de trabajo específico de cada beneficiari
 
 - 5.1. Postulación con Proyecto de Inversión: hasta $400.000.- (cuatrocientos mil pesos) por cada beneficiario.
 
-- 5.2. Postulación con Proyecto de Estudios PSMB: hasta $200.000.- (doscientos mil pesos) por cada beneficiario.
-
-6. Se podrán aceptar gastos desde la fecha del Comité de Asignación Zonal de Fondos - CAZ que aprobó el proyecto.
-
-7. En todo lo que expresamente no se ha regulado en este Acuerdo, regirán las normas generales del instrumento "Programa de Apoyo a la Reactivación - PAR", aprobadas por la resolución (E) N° 1.398, de 2014, o la norma que la reemplace o sustituya.
+- 5.2. Postulación con Proyecto de Estudios PSMB: hasta $200.000.- (doscientos mil pesos) por cada beneficiario".
 
 Anótese y publíquese en el Diario Oficial.- Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
