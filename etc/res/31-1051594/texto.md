@@ -84,7 +84,7 @@ Serán atribuciones del Consejo Directivo sesionando en Pleno:
 
 a) Proponer al Vicepresidente Ejecutivo de la Corporación la adopción de planes o políticas destinadas a la promoción del desarrollo y la innovación tecnológica en el país, como asimismo, la organización que estime necesario para esto.
 
-b) Aprobar iniciativas de apoyo al emprendimiento, a la innovación empresarial, a la inversión en investigación y desarrollo (I + D), a la generación de bienes públicos para la innovación y a la transferencia tecnológica, determinando el objetivo general de éstas y los resultados esperados, y estableciendo expresamente, en cada caso, si el Director Ejecutivo estará facultado para la creación de uno o más Programas o Instrumentos de Financiamiento.
+b) Aprobar iniciativas de apoyo al emprendimiento, a la innovación empresarial, a la inversión en investigación y desarrollo (I + D), a la generación de bienes públicos para la innovación y a la transferencia tecnológica, identificando el problema y/o desafío a resolver y la estrategia general de intervención. Asimismo, deberá establecer expresamente, en cada caso, si el Director Ejecutivo estará facultado para la creación de uno o más Programas o Instrumentos de Financiamiento.
 
 c) Resolver fundadamente las solicitudes de asignación de recursos a proyectos, programas o acciones específicas de apoyo a la innovación, cuya naturaleza, fines, magnitud o impacto, aconsejen su revisión en pleno, de conformidad a las Bases que rijan el instrumento en particular.
 
@@ -106,7 +106,7 @@ a) Resolver fundadamente, previa evaluación, las solicitudes de financiamiento 
 
 b) Resolver fundadamente, respecto de proyectos en ejecución, las solicitudes de modificaciones de monto de cofinanciamiento y cambio de beneficiario, previo análisis de los antecedentes legales y técnicos pertinentes, lo anterior de conformidad con lo dispuesto en las Bases que regulen el instrumento.
 
-c) Definir y modificar, en relación a iniciativas de apoyo aprobadas por el Consejo Directivo de acuerdo a lo dispuesto en el numeral 5, letra b, precedente, los siguientes elementos técnicos: montos y porcentajes máximos de cofinanciamiento, definición de los potenciales beneficiarios y criterios de evaluación. Si el Consejo Directivo facultare al Director Ejecutivo para crear más de un Programa o Instrumento de Financiamiento, éste podrá omitir fundadamente uno o más criterios de evaluación, adecuándolo a la situación de una zona geográfica, al menos regional, o a una temática en particular.
+c) Definir y modificar, en relación a iniciativas de apoyo aprobadas por el Consejo Directivo de acuerdo a lo dispuesto en el numeral 5, letra b), precedente, uno o más objetivos generales y resultados esperados, respecto a los cuales, podrá definir uno o más conjuntos de elementos técnicos, los cuales se componen por: montos y porcentajes máximos de cofinanciamiento, definición de los potenciales beneficiarios y criterios de evaluación. Si el Consejo Directivo facultare al Director Ejecutivo para crear más de un Programa o Instrumento de Financiamiento, éste podrá omitir fundadamente uno o más criterios de evaluación, adecuándolos a la situación de una zona geográfica, al menos regional, o a una temática en particular.
 
 #### Artículo 8°
 
