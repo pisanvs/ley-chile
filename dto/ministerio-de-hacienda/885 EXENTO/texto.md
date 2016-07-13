@@ -198,23 +198,7 @@ I.R.N.V.M. : DDKJ. 56-9
 
 Ciudad : Coyhaique.
 
-13.Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano DCab DXS 4WD 2.4
-
-Año : 2011
-
-Color : Rojo Perlado
-
-Nº Motor : KA24858904Z
-
-Nº Chasis : N1CDUD22ZO051144
-
-I.R.N.V.M. : CVHH. 65-6
-
-Ciudad : Puerto Aysén.
+13.Eliminado.
 
 14.Vehículo : Camioneta
 
