@@ -330,25 +330,7 @@ Destinación : Servicio Nacional de Aduanas
 
 28.- ELIMINADO.
 
-29.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner 1.9
-
-Año : 2007
-
-Color : Blanco blanquise
-
-Nº Motor : 10DXFZ6059381
-
-Chasis Nº : 7JOO5492
-
-I.R.N.V.M. : WW.8052-8
-
-Destinación : Servicio Nacional de Aduanas
-
-(VALPARAÍSO)
+29.- Eliminado.
 
 30.- Vehículo . Camioneta
 
