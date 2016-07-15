@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 306, de 24 de junio de 2016, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 10-2, Rol de avalúo 1237-80, Comuna de Yumbel, superficie 541 m2., para la obra CONCESIÓN AUTOPISTA CONCEPCIÓN - CABRERO, SECTOR A2: CABRERO PONIENTE - EL PINO TRAMO 5, COMUNAS DE YUMBEL Y FLORIDA, PROVINCIA DE BIO BIO y CONCEPCION, VIII REGION DEL BIO BIO. La comisión de peritos, integrada por Pamela Andrea Campos López, Cristian Andrés Cáceres Vargas y Pablo Alex Mansilla Aravena, fijó el valor de tasación con fecha 18 de marzo de 2016, acordándose la indemnización con su propietaria MARÍA RAQUEL REBOLLEDO REBOLLEDO, en la cantidad de $722.326.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
