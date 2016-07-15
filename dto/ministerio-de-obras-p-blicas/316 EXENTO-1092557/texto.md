@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 316 de 30 de junio de 2016, se tuvo por desistida la expropiación del lote de terreno Nº 6-4 para la obra: "Concesión Ruta 160. Tramo Tres Pinos - Acceso Norte a Coronel Tramo A, Sector II: Acceso Norte a Lota - Ramadillas. Subtramo Km. 27.050,00 - Km. 33.800,00", ordenada por Decreto Exento MOP Nº 102 de 19 de marzo de 2015. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º y 32º del Decreto Ley Nº 2186, de 1978.
