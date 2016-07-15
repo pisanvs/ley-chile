@@ -1,0 +1,5 @@
+MODIFICA NÓMINA DE BENEFICIARIOS DE SUBSIDIO HABITACIONAL
+
+Por resolución exenta Nº 1.634 (Serviu RM), de fecha 4 de abril de 2016, se modifica nómina original de beneficiarios de subsidio habitacional DS Nº 174, de V. y U., del año 2005, del proyecto "Nuevo Imperio", en el sentido de eliminar a la beneficiaria Sra. Claudia Verónica Mariman Cáceres, RUT 15.962.802-7. En virtud de lo dispuesto en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado, la resolución exenta podrá ser objeto del recurso de reposición establecido en el artículo 59, pudiendo en un plazo de 5 días hábiles, contados a partir de la fecha de publicación, presentar por escrito su recurso dirigido al Serviu Metropolitano, Oficina de Información, Reclamos y Sugerencias (OIRS), ubicado en calle Arturo Prat Nº 80, comuna de Santiago, en el horario de atención de público desde las 09:00 hasta las 14:00 horas.-
+
+Director Serviu Metropolitano.
