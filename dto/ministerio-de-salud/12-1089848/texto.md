@@ -56,13 +56,25 @@ Las facultades señaladas en los números 1, 2 y 3 de este artículo deberán se
 
 #### Artículo 3º
 
-Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por la Secretaría Regional Ministerial de Salud de la Región de Los Lagos, para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dicha autoridad estime necesarias para enfrentar esta emergencia.
+Otórgase al Instituto de Salud Pública de Chile facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+
+1º.- Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
+
+2º.- Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
+
+3º.- Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
+
+#### Artículo 3º
+
+Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por la Secretaría Regional Ministerial de Salud de la Región de Los Lagos y por el Instituto de Salud Pública de Chile, para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar esta emergencia.
 
 Lo anterior, de conformidad con lo señalado en los convenios que previamente se hayan celebrado o corresponda celebrar con las entidades privadas, en los casos que la prestación de sus servicios sea necesaria.
 
-#### Artículo 4º
+> **Nota.** El numeral 1 del artículo 1° del Decreto 27, Salud, publicado el 19.07.2016, agrega un nuevo artículo 3° pasando los actuales artículos 3º y 4º a ser 4º y 5º respectivamente, sin embargo, el numeral 2 del artículo 1° modifica el artículo 3° sin cambiar su numeración.
 
-Los efectos de este decreto tendrán vigencia hasta el día 20 de julio de 2016, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispónese que sus efectos terminarán anticipadamente respecto de aquella área, localidad o comuna que la Seremi de Salud de la Región de Los Lagos, mediante resolución, declare que se encuentra libre de marea roja.
+#### Artículo 5º
+
+Los efectos de este decreto tendrán vigencia hasta el día 31 de diciembre de 2016, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispónese que sus efectos terminarán anticipadamente respecto de aquella área, localidad o comuna que la Seremi de Salud de la Región de Los Lagos, mediante resolución, declare que se encuentra libre de marea roja.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Carmen Castillo Taucher, Ministra de Salud.
 
