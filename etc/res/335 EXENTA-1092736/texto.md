@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 335 EXENTA, DE 5 DE JULIO DE 2016
+
+Por resolución exenta N° 335, de 5 de julio de 2016, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador Bernardo O'Higgins, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Escuela de Conductores Catalina Reinoso Bustos E.I.R.L.", cuyo nombre de fantasía es "Rally Autoescuela Profesional de Conducción E.I.R.L.", RUT: 76.535.579-6, representada legalmente por doña Catalina del Pilar Reinoso Bustos, para impartir cursos conducentes a la obtención de licencia profesional clases A2, A3, A4 y A5, en su sede ubicada en Avenida Cachapoal 129, y taller mecánico en Avenida Cachapoal 689, ambos de la comuna de Rancagua.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
