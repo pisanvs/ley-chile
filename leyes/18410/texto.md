@@ -574,7 +574,7 @@ Son infracciones gravísimas los hechos, actos u omisiones que contravengan las 
 
 1) Hayan producido la muerte o lesión grave a las personas, en los términos del artículo 397, Nº 1º, del Código Penal;
 
-2) Hayan entregado información falseada que pueda afectar el normal funcionamiento del mercado o los procesos de regulación de precios;
+2) Hayan entregado información falseada o bien, hayan omitido información, que pueda afectar el normal funcionamiento del mercado o los procesos de regulación de precios, en los casos que la ley autoriza a la Superintendencia, la Comisión Nacional de Energía, el Ministerio de Energía o el Coordinador Independiente del Sistema Eléctrico Nacional para exigirla;
 
 3) Hayan afectado a la generalidad de los usuarios o clientes abastecidos por el infractor, en forma significativa;
 
@@ -596,7 +596,7 @@ Son infracciones graves, los hechos, actos u omisiones que contravengan las disp
 
 5) No acaten las órdenes e instrucciones de la autoridad y, en el caso de un sistema eléctrico, incumplan las órdenes impartidas por el respectivo organismo coordinador de la operación, de lo cual se deriven los riesgos a que se refieren los números anteriores;
 
-6) Constituyan una negativa a entregar información en los casos que la ley autorice a la Superintendencia, Ministerio de Energía o a la Comisión Nacional de Energía para exigirla;
+6) Constituyan una negativa a entregar información en los casos que la ley autorice a la Superintendencia, la Comisión Nacional de Energía, el Ministerio de Energía o el Coordinador Independiente del Sistema Eléctrico Nacional para exigirla o bien, su entrega sea injustificadamente incompleta, errónea o tardía;
 
 7) Conlleven alteración de los precios o de las cantidades suministradas, en perjuicio de los usuarios, u
 
