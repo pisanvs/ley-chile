@@ -1,38 +1,32 @@
-REGLAMENTA LA EJECUCIÓN DE LA ASIGNACIÓN PRESUPUESTARIA "CONVENIO MARCO UNIVERSIDADES ESTATALES"
+MODIFICA DECRETO Nº 48, DE 2015, DEL MINISTERIO DE EDUCACIÓN, QUE REGLAMENTA LA EJECUCIÓN DE LA ASIGNACIÓN PRESUPUESTARIA "CONVENIO MARCO UNIVERSIDADES ESTATALES"
 
-Núm. 48.- Santiago, 4 de febrero de 2015.
+Núm. 69.- Santiago, 29 de febrero de 2016.
 
 Considerando:
 
-Que la Ley N° 20.798, de Presupuestos del Sector Público para el año 2015, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 807 y Subtítulo 33, Ítem 03, Asignación 410, consigna recursos para el Fondo "Convenio Marco Universidades Estatales" por un monto total de M$ 34.080.000.
+Que, la Ley Nº 20.882, de Presupuestos del Sector Público para el año 2016, en su Partida 09, Capítulo 01, Programa 29, Subtítulo 24, Ítem 03, Asignación 807 y Subtítulo 33, Ítem 03, Asignación 410, modificada por la ley Nº 20.890 de 2015, consigna recursos para el Fondo "Convenio Marco Universidades Estatales", por un monto total de M$46.539.594.-
 
-Que la Glosa 15 del Programa 30, antes mencionado, indica que estos recursos se entregarán a las universidades estatales en los términos y condiciones que se establezcan mediante decreto del Ministerio de Educación, con la visación del Ministerio de Hacienda, en el que se indicará el contenido mínimo de los respectivos convenios y el monto de los mismos que no podrá exceder el presente año presupuestario. Estos compromisos se organizarán en torno a los siguientes ejes: Fortalecimiento Institucional, Investigación e Innovación, Formación de Profesores y Vinculación con el Medio.
+Que la glosa 07 del Programa 29, antes mencionado, indica que estos recursos se entregarán a las universidades estatales en conformidad al decreto Nº 48 de 2015 del Ministerio de Educación, y sus modificaciones. Sin perjuicio de lo anterior, hasta un 40% de estos recursos serán entregados durante el primer semestre, en proporción a lo asignado a cada institución el año 2015 por este concepto.
 
-Que en virtud de lo anterior, es necesario dictar el acto administrativo correspondiente que reglamente el Fondo "Convenio Marco Universidades Estatales", y
+Que, en virtud de lo anterior, y con la finalidad de ejecutar la asignación presupuestaria "Convenio Marco Universidades Estatales", es necesario modificar la normativa que la regula, con el objeto de adecuarlo a nuevas necesidades, recoger cambios legales y, de esa manera, contribuir al desarrollo de la educación superior chilena, y;
 
 Visto:
 
-Lo dispuesto en el artículo 32 N° 6 y en el artículo 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la Ley N° 20.798, de Presupuestos del Sector Público para el año 2015, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 807 y Subtítulo 33, Ítem 03, Asignación 410, y en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre Exención del Trámite de Toma de Razón.
+Lo dispuesto en el artículo 32 Nº 6 y en el artículo 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la Ley Nº 20.882, de Presupuestos del Sector Público para el año 2016, en su Partida 09, Capítulo 01, Programa 29, Subtítulo 24, Ítem 03, Asignación 807 y Subtítulo 33, Ítem 03, Asignación 410; en el decreto Nº 48, de 2015, del Ministerio de Educación; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República que fija Normas sobre Exención del Trámite de Toma de Razón,
 
 Decreto:
 
-## Título I — Línea General
+#### Artículo único
 
-#### Artículo 1º
+Modifícase el decreto Nº 48, de 2015, del Ministerio de Educación, de la siguiente manera:
 
-Objeto
+1.- Agrégase antes del "Artículo 1°: Objeto", el siguiente título nuevo:
 
-El Fondo "Convenio Marco Universidades Estatales" tiene por objeto la celebración de convenios entre el Ministerio de Educación y las universidades estatales, con el fin de desarrollar los siguientes ejes:
+## Título I — Línea General".
 
-1.- Fortalecimiento Institucional
+2.- Reemplázase el Artículo 2º por el siguiente:
 
-2.- Investigación e Innovación
-
-3.- Vinculación con el Medio
-
-4.- Formación de Profesores, en caso que la universidad cuente con carreras de formación de profesores.
-
-#### Artículo 2°
+#### Artículo 2º
 
 Distribución de los recursos
 
@@ -108,35 +102,25 @@ El valor obtenido para cada indicador para cada una de las universidades pertene
 
 4.- Finalmente, para obtener el monto a distribuir a una institución de una determinada categoría por concepto de Elemento de Desempeño, se calculará qué porcentaje representa el promedio obtenido por ésta de acuerdo al numeral 2, dentro de la suma obtenida de acuerdo al numeral 3, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal para la categoría respectiva, obtenido de acuerdo a lo señalado en el párrafo primero del mismo.
 
-Al monto final obtenido de la suma indicada en el inciso primero del presente artículo, deberá deducírsele los recursos que anteriormente se hayan asignado a la respectiva universidad, en virtud del inciso primero de la Glosa 07, relativa a la asignación "Convenio Marco Universidades Estatales
+Al monto final obtenido de la suma indicada en el inciso primero del presente artículo, deberá deducírsele los recursos que anteriormente se hayan asignado a la respectiva universidad, en virtud del inciso primero de la Glosa 07, relativa a la asignación "Convenio Marco Universidades Estatales".".
 
-#### Artículo 3°
+3.- Sustitúyase el Artículo 3º por el siguiente:
+
+#### Artículo 3º
 
 Montos a distribuir por institución
 
-Mediante el acto administrativo correspondiente, se determinarán los montos a distribuir de acuerdo a lo señalado en el artículo 2º del presente Reglamento.
+Mediante el acto administrativo correspondiente, se determinarán los montos a distribuir de acuerdo a lo señalado en el artículo 2º del presente Reglamento.".
 
-#### Artículo 4°
+4.- Modifícase el artículo 4º de la siguiente forma:
 
-Contenido mínimo de los convenios
+a. Sustitúyase en el inciso primero, la frase "de la asignación "Convenio Marco Universidades Estatales"", por "del presente Título".
 
-Los convenios que se celebren en el marco del presente Título estipularán, al menos, lo siguiente:
+b. Reemplázase en el literal d), la frase "759, de 2003", por "30, de 2015".
 
-a. Objetivos del convenio, los que deberán circunscribirse dentro de al menos uno de los cuatro ejes señalados en el Artículo 1° del presente reglamento.
+c. Sustitúyase el literal e), por el siguiente: "e) Un proyecto, que deberá considerar, a lo menos, actividades e hitos comprometidos por la Universidad y acordados con el Ministerio.".
 
-b. Reglas de traspaso de fondos y procedimientos de adquisiciones.
-
-c. Informes del estado de avance de los compromisos establecidos en los convenios.
-
-d. Procedimiento de rendición de cuentas, el que deberá ajustarse a la resolución N° 30, de 2015, de la Contraloría General de la República, o la normativa que la reemplace.
-
-e. Un proyecto, que deberá considerar, a lo menos, actividades e hitos comprometidos por la Universidad y acordados con el Ministerio.
-
-f. Causales de suspensión y de término anticipado del convenio.
-
-g. Obligación de devolución de los recursos observados, no ejecutados y/o no rendidos, al término del plazo de ejecución del convenio de desempeño.
-
-h. Plazos de ejecución y vigencia.
+5.- Agrégase, a continuación del Artículo 4º, el siguiente Título II nuevo:
 
 ## Título II — Mejoramiento de la Calidad
 
@@ -186,6 +170,6 @@ g. Obligación de devolución de los recursos observados, no ejecutados y/o no r
 
 h. Plazos de ejecución y vigencia.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Valentina Karina Quiroga Canahuate, Ministra de Educación (S).
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Adriana Delpiano Puelma, Ministra de Educación.
 
-Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud.,Vivien Villagrán Acuña, Subsecretaria de Educación (S).
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
