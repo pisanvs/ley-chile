@@ -1,32 +1,26 @@
-ESTABLECE FORMA Y CONDICIONES DE ASIGNACIÓN DE LOS RECURSOS BASAL POR DESEMPEÑO UNIVERSIDADES ART. 1º DFL (ED.) Nº 4, DE 1981
+MODIFICA DECRETO Nº 40, DE 2015, DEL MINISTERIO DE EDUCACIÓN, QUE ESTABLECE FORMA Y CONDICIONES DE ASIGNACIÓN DE LOS RECURSOS BASAL POR DESEMPEÑO UNIVERSIDADES ART. 1° DFL (ED.) Nº 4 DE 1981
 
-Núm. 40.- Santiago, 2 de febrero de 2015.
+Núm. 73.- Santiago, 10 de marzo de 2016.
 
 Considerando:
 
-Que, la Ley Nº 20.798, de Presupuestos del Sector Público para el año 2015, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 218 y Subtítulo 33, Ítem 03, Asignación 409, consigna recursos Basal por Desempeño Universidades Art. 1º DFL (Ed). Nº4 de 1981.
+Que, la Ley Nº 20.882, de Presupuestos del Sector Público para el año 2016, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 218 y Subtítulo 33, Ítem 03, Asignación 409, consigna recursos Basal por Desempeño Universidades Art. 1° DFL. (Ed). Nº 4 de 1981.
 
-Que, la glosa 12 del Programa 30, antes mencionado, señala que estos recursos se asignarán a las universidades privadas incluidas en el artículo 10 del decreto con fuerza de ley (Ed.) Nº4, de 1981, y a lo menos el 75% de ellos se asignarán a las instituciones cuya casa central esté localizada fuera de la Región Metropolitana de Santiago. Asimismo, la glosa mencionada indica que mediante decreto del Ministerio de Educación, suscrito por el Ministerio de Hacienda se establecerá la forma y condiciones bajo las que se asignan estos recursos.
+Que, la glosa 11 del Programa 30, antes mencionado, señala que estos recursos se asignarán a las universidades privadas incluidas en el artículo 1° del decreto con fuerza de ley (Ed.) N° 4, de 1981, y a lo menos el 75% de ellos se asignarán a las instituciones cuya casa central esté localizada fuera de la Región Metropolitana de Santiago, en los términos establecidos en el decreto Nº 40, de 2015, del Ministerio de Educación y sus modificaciones.
 
-Que, en virtud de lo anterior, es necesario dictar el acto administrativo correspondiente que reglamente la asignación "Basal por Desempeño Universidades Art. 1º DFL (Ed). Nº 4 de 1981", y;
+Que, en virtud de lo anterior, y con la finalidad de ejecutar la asignación presupuestaria "Basal por Desempeño Universidades Art. 1º DFL. (Ed.) Nº 4 de 1981", es necesario modificar la normativa que la regula, con el objeto de adecuarla a nuevas necesidades, recoger cambios legales y, de esa manera, contribuir al desarrollo de la educación superior chilena, y;
 
 Visto:
 
-Lo dispuesto en el artículo 32 Nº6 y en el artículo 35 de la Constitución Política de la República de Chile; en la Ley Nº 20.798, de Presupuestos del Sector Público para el año 2015, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 218 y Subtítulo 33, Ítem 03, Asignación 409; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón,
+Lo dispuesto en el artículo 32 Nº 6 y en el artículo 35 de la Constitución Política de la República de Chile; en la Ley Nº 20.882, de Presupuestos del Sector Público para el año 2016, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 218 y Subtítulo 33, Ítem 03, Asignación 409; en el decreto Nº 40, de 2015, del Ministerio de Educación; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre Exención del Trámite de Toma de Razón,
 
 Decreto:
 
-#### Artículo 1º
+#### Artículo único
 
-Objeto
+Modifícase el decreto Nº 40, de 2015, del Ministerio de Educación, de la siguiente manera:
 
-La asignación "Basal por Desempeño Universidades Art. 1º DFL (Ed). Nº 4 de 1981", tiene por objeto apoyar el desarrollo de las funciones propias de las universidades, particularmente aquellas distintas a la docencia.
-
-#### Artículo 2º
-
-Beneficiarios
-
-Los recursos considerados se asignarán a las universidades privadas incluidas en el artículo 1º del decreto con fuerza de ley (Ed.) Nº4, de 1981, y a lo menos el 75% de ellos se asignarán a las instituciones cuya casa central esté localizada fuera de la Región Metropolitana de Santiago.
+1.- Reemplázase el Artículo 3º por el siguiente:
 
 #### Artículo 3º
 
@@ -100,16 +94,14 @@ El valor obtenido para cada indicador para cada una de las universidades pertene
 
 Con todo, si de acuerdo al cálculo de distribución de recursos contemplado en el presente artículo, la suma a asignar a las instituciones beneficiarias cuya casa central esté localizada dentro de la Región Metropolitana de Santiago supera el 25% del total de la asignación "Basal por Desempeño Universidades Art. 1º DFL (Ed). Nº 4 de 1981", deberá restarse a dichas instituciones lo que exceda el mencionado porcentaje, en proporción a los montos que les correspondería recibir, distribuyéndose posteriormente estos fondos entre las instituciones beneficiarias cuya casa central esté localizada fuera de la Región Metropolitana de Santiago, en partes iguales.
 
-Al monto final obtenido de la suma indicada en el inciso primero del presente artículo, deberá deducírsele los recursos que anteriormente se hayan asignado a la respectiva universidad, en virtud del inciso segundo de la Glosa 11, relativa a la asignación "Basal por Desempeño Universidades Art. 1º DFL (Ed.) Nº 4 de 1981.
+Al monto final obtenido de la suma indicada en el inciso primero del presente artículo, deberá deducírsele los recursos que anteriormente se hayan asignado a la respectiva universidad, en virtud del inciso segundo de la Glosa 11, relativa a la asignación "Basal por Desempeño Universidades Art. 1º DFL (Ed.) Nº 4 de 1981".
 
-#### Artículo 4º
+2.- Modifícase el inciso primero del Artículo 4º de la siguiente forma:
 
-Rendición de cuentas
+a. Reemplazase la frase "759, de 2003", por: "30, de 2015".
 
-Las universidades beneficiarias rendirán cuenta de los recursos aportados por el Ministerio conforme a los procedimientos establecidos en la resolución Nº30, de 2015, de la Contraloría General de la República, o la normativa que la reemplace. Esta rendición deberá presentarse semestralmente, dentro de los quince (15) días hábiles siguientes al mes que corresponda.
+b. Sustitúyase la frase "cinco (5)", por "quince (15)".
 
-Los respectivos actos administrativos que transfieran los montos correspondientes al presente fondo fijarán el proceso de revisión de la mencionada rendición de cuentas.
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Adriana Delpiano Puelma, Ministra de Educación.- Rodrigo Valdés Pulido, Ministro de Hacienda.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Valentina Karina Quiroga Canahuate, Ministra de Educación (S).- Alejandro Micco Aguayo, Ministro de Hacienda (S).
-
-Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud.- Vivien Villagrán Acuña, Subsecretaria de Educación (S).
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
