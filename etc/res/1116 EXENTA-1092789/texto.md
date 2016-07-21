@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.116 EXENTA, DE 11 DE JUNIO DE 2016
+
+Por resolución exenta Nº 1.116, de 11 de junio de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se han prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Lagos, celebrados con los concesionarios TÜV Rheinland Andino S.A. y Revisiones Los Lagos Limitada, hasta el día 30 de diciembre de 2016, a excepción de la planta revisora AB1007 de la comuna de Puerto Montt, o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región, a través de la resolución Nº 91, de 10 de febrero de 2014, cualquiera que ocurra primero.-
+
+Jean Paul Jouannet Valderrama, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Los Lagos.
