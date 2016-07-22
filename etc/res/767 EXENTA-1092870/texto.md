@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 767 EXENTA, DE 6 DE JULIO DE 2016
+
+Mediante resolución exenta Nº 767, de fecha 6 de julio de 2016, de esta Secretaría Regional, se modificó resolución exenta Nº 1.159 de 2014 que otorgó Reconocimiento Oficial a la Escuela de Conductores Profesionales o Clase A, denominada Escuela de Conductores Latinoamericana S.p.A., nombre de fantasía "Instituto Latinoamericano de Capacitación S.p.A.", RUT.: 76.330.682-8, en el sentido de reemplazar en el resuelvo Nº 1 donde dice: "La escuela de conductores estará ubicada en Chacabuco N°261, oficinas 3 y 4, Curicó, y su taller mecánico en Los Vidales, sitio 3, Curicó", por lo siguiente: "La escuela de conductores estará ubicada en Sargento Aldea Nº 688, oficina Nº 1, Curicó y su taller mecánico en calle Zaragoza Nº 869, Curicó". En lo no modificado, se mantiene vigente el texto original de la resolución exenta Nº 1.159 de 2014.-
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones, Región del Maule.
