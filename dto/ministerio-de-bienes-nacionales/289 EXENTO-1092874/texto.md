@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "PARQUE SOLAR INTI LAGUNAS SPA"
+
+Mediante decreto exento N° 289, de 28 de junio de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Parque Solar Inti Lagunas SpA", RUT N° 76.427.785-6, el inmueble fiscal ubicado en la Ruta A-85 km. 2.800, del lugar denominado Camino a Huatacondo, comuna de Pozo Almonte, provincia de Tamarugal, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con el N° 4601-20; amparado por la inscripción global que rola a fojas 1078 N° 1747 del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011; de una superficie aproximada de 62,00 ha., singularizado en el Plano N° 01401-2.267-C.R. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 327,36.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
