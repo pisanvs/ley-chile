@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A "ACCIONA ENERGÍA CHILE SPA"
+
+Mediante decreto exento Nº 290, de 28 de junio de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Acciona Energía Chile SpA", RUT Nº 76.492.150-K, el inmueble fiscal ubicado en el Sector Pampa Austral, al oeste de Camino Público C-115 B, altura Km. 22 aproximadamente, comuna y provincia de Chañaral, Región de Atacama; enrolado en el Servicio de Impuestos Internos con el Nº 7000-23; amparado por la inscripción global que rola a fojas 46 Nº 53 del Registro de Propiedad del Conservador de Bienes Raíces de Chañaral, correspondiente al año 1940; de una superficie aproximada de 150,01 ha., singularizado en el Plano Nº 03201-1825-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.650,11.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
