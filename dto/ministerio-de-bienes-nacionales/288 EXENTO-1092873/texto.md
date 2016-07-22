@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA, A "SOCIEDAD COMERCIAL E INDUSTRIAL SELTEC LIMITADA"
+
+Mediante decreto exento N° 288, de 28 de junio de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Sociedad Comercial e Industrial Seltec Limitada", RUT. N° 78.760.160-K, el inmueble fiscal ubicado en la Ruta A-5 S/N°, en la localidad de Pampa Camarones, comuna de Camarones, provincia de Arica, Región de Arica y Parinacota; enrolado en el Servicio de Impuestos Internos con el N° 3495-1; amparado por la inscripción global que rola a fojas N° 25 vta. N° 60 del Registro de Propiedad del Conservador de Bienes Raíces de Arica, correspondiente al año 1935; de una superficie total aproximada de 176,05 hás, singularizado en el Plano N° 15102-1951-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de U.F. 933,24.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.- Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
