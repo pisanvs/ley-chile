@@ -1,0 +1,7 @@
+CERTIFICADO
+
+Certifico: Que por resolución exenta Nº 2.183, de fecha 17 de junio de 2016, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Compañía de Seguros de Crédito Coface Chile S.A., acordada en junta extraordinaria de accionistas celebrada con fecha 31 de diciembre de 2015 y reducida a escritura pública el 14 de enero de 2016, en la Trigésimo Sexta Notaría de Santiago, de don Juan Ignacio Carmona Zúñiga, domiciliado en Paseo Ahumada Nº 312, oficina Nº 236, modificada por escrituras públicas de fechas 10 de marzo de 2016 y 14 de abril de 2016, según lo observado en oficios Nº 5.338 de 2016 y Nº 7.762 de 2016, respectivamente, ambas otorgadas en la Notaría ya singularizada.
+
+La reforma consiste en aumentar el capital social de $3.853.878.863.-, dividido en 7.000 acciones nominativas, sin valor nominal, íntegramente suscrito y pagado, a $5.187.170.572.-, dividido en 8.667 acciones, mediante la emisión de 1.667 acciones liberadas de pago, capitalizando utilidades por un monto total de $1.333.291.709.-. Se modifican los artículos cuarto permanente y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 17 de junio de 2016.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
