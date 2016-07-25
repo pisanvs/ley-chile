@@ -26,6 +26,8 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al segundo llamado nacional 2015 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1, de este Ministerio, de 2011, Título I, tramos 1 y 2, y Título II, dispuesto en el número 1º de la resolución exenta Nº 8.244, también de este Ministerio, de 2015, y sus modificaciones, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, región, tramo y alternativa de postulación, según se indica en la siguiente tabla:
 
+.
+
 3º.- Déjanse sin efecto las 746 solicitudes de postulación para el segundo llamado nacional 2015 del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1, de este Ministerio, de 2011, efectuado por el número 1º de la resolución exenta Nº 8.244, también de este Ministerio, de 2015, y sus modificaciones, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
 
 .
