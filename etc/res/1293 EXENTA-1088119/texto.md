@@ -256,7 +256,13 @@ e) Conforme a los gastos que rinda al momento de presentar a cobro el certificad
 
 19. El Certificado de Subsidio Habitacional tendrá una vigencia de doce meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado por seis meses más mediante resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la región que corresponda.
 
-20. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y letras a) e i) del artículo 34 del DS Nº 1 (V. y U.), 2011.
+20. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y letras
+
+- **a)** e
+
+- **i)** del artículo 34 del DS Nº 1 (V. y U.), 2011. El subsidio para la instalación de Paneles Fotovoltaicos a que se refiere la letra
+
+- **c)** del resuelvo 18 de esta resolución, podrá ser pagado hasta 180 días después del vencimiento del certificado de subsidio habitacional, en forma independiente a los otros subsidios señalados en el resuelvo aludido, una vez que cuente con la correspondiente certificación de la Superintendencia de Electricidad y Combustibles (SEC).
 
 En el caso que el beneficiario tenga derechos en comunidad sobre el sitio, no se exigirá que los ceda para el pago del subsidio.
 
