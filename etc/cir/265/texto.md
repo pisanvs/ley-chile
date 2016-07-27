@@ -68,7 +68,7 @@ La información a consignar en el inventario de consulta, considerará como mín
 
 - Monto a pagar ($) individualizado por RUN afiliado y número de licencia
 
-- Número o correlativo interno y fecha de solicitud (cuando no se haya presentado solicitud de cobro deberá señalar textualmente "Pendiente de Solicitud").
+- Número o correlativo interno y fecha de solicitud, en el evento que la isapre capture este dato. Cuando no se haya presentado solicitud de cobro deberá señalar textualmente "Pendiente de Solicitud".
 
 Adicionalmente, las instituciones de salud deberán implementar en la misma aplicación, una vez realizada la consulta, la posibilidad de cobrar parcialmente o en su totalidad los montos adeudados que allí se presentan mediante una solicitud de pago directa cursada a través del mismo medio electrónico, empleando para ello, un formato de petición que deberá permitir que la entidad requirente del pago se identifique, consignando su razón social y RUT, debiéndose acompañar además, un texto tipo que indique expresamente que el empleador que se individualiza está "solicitando formalmente" el cobro del o los subsidios dispuestos para su reembolso. Este medio de consulta complementariamente deberá permitir que el empleador requirente, en caso que existan discrepancias con el listado de subsidios adeudados que pone a su disposición la isapre, pueda adjuntar o cargar un archivo con el detalle o las presentaciones que respaldan su solicitud. Se deberá adjuntar en la ubicación o sitio que se ha dispuesto para agregar el archivo, un texto que especifique el contenido mínimo de este último, el que deberá contar con la identificación del afiliado (RUN y Nombre) y de la licencia que se está adeudando.
 
@@ -78,7 +78,7 @@ Las diferencias que surjan no podrán suspender o impedir la solicitud del pago 
 
 Este mecanismo deberá contemplar expresamente la opción de retirar las sumas adeudadas de manera presencial en las sucursales de la isapre o bien mediante transferencia electrónica, en cuyo caso se deberá considerar una modalidad de ingreso de los datos necesarios para poder llevar a cabo el traspaso, como por ejemplo, nombre de la entidad bancaria, número de la cuenta bancaria institucional, correo electrónico del empleador para contacto y posterior envío de las liquidaciones de pago de subsidio, etc.
 
-Cuando se opte por el pago del monto adeudado mediante transferencia electrónica, esta opción deberá contemplar un texto tipo, por medio del cual quede de manifiesto la declaración en que el empleador autoriza el reembolso a través del depósito en la cuenta corriente respectiva.
+Cuando se opte por el pago del monto adeudado mediante transferencia electrónica, esta opción deberá contemplar un texto tipo, para que quede de manifiesto la declaración mediante la cual el empleador autoriza expresamente el reembolso a través del depósito en la cuenta corriente que éste designe.
 
 Las isapres deberán conservar el registro de la confirmación de la transferencia electrónica efectuada exitosamente, así como del envío de la liquidación de subsidios respectiva, que permita acreditar el cumplimiento del pago del subsidio adeudado.
 
@@ -122,7 +122,7 @@ La información deberá remitirse en una copia junto con el Informe Complementar
 
 ### IV. DISPOSICIONES TRANSITORIAS
 
-La isapre a más tardar el 5 de septiembre de 2016, a modo de verificación, deberá remitir a este Organismo de Control la ubicación o dirección de acceso a la aplicación desarrollada en su página web institucional, con la información que tenga disponible hasta ese momento. Para facilitar la etapa de prueba, así como el monitoreo permanente por parte de esta Superintendencia, la institución de salud previsional deberá asignar una clave con permiso restrictivo, destinada sólo a la lectura de los datos que se despliegue en dicha aplicación.
+La isapre a más tardar el 2 de noviembre de 2016, a modo de verificación, deberá remitir a este Organismo de Control la ubicación o dirección de acceso a la aplicación desarrollada en su página web institucional, con la información que tenga disponible hasta ese momento. Para facilitar la etapa de prueba, así como el monitoreo permanente por parte de esta Superintendencia, la institución de salud previsional deberá asignar una clave con permiso restrictivo, destinada sólo a la lectura de los datos que se despliegue en dicha aplicación.
 
 Se deberá acompañar además, un manual de uso y/o impresiones de pantalla alusivas a la demostración de su funcionamiento, explicando claramente la forma en que opera la misma junto con un archivo Excel que contenga 10 casos de prueba susceptibles de validar en la aplicación, de acuerdo a los campos definidos en el archivo de la letra d).
 
@@ -130,8 +130,8 @@ Se deberá acompañar además, un manual de uso y/o impresiones de pantalla alus
 
 La presente circular entrará en vigencia a partir de la fecha de su publicación en el Diario Oficial.
 
-No obstante lo anterior, el primer envío a la Superintendencia del inventario de la cuenta Subsidio por pagar, conformado por el inventario correspondiente a los cheques o documentos caducados por subsidios y a los subsidios por pagar a empleadores públicos y privados con convenio, se efectuará el 2 de noviembre de 2016, y deberá representar los saldos contables correspondientes a dichas cuentas, que forman parte del Informe Financiero Mensual de septiembre de 2016.
+No obstante lo anterior, el primer envío a la Superintendencia del inventarío de la cuenta Subsidio por pagar, conformado por el inventario correspondiente a los cheques o documentos caducados por subsidios y a los subsidios por pagar a empleadores públicos y privados con convenio, se efectuará el 2 de enero de 2017, y deberá representar los saldos contables correspondientes a dichas cuentas, que forman parte del Informe Financiero Mensual de noviembre de 2016.
 
-En lo que respecta a la habilitación del servicio de consulta de subsidios pendientes de cobro, ubicada en el portal web de las isapres, deberá encontrarse operativo a contar del 2 de noviembre de 2016, conforme a las especificaciones mínimas a que se hace referencia en la letra c) de la presente circular.
+En lo que respecta a la habilitación del servicio de consulta de subsidios pendientes de cobro, ubicada en el portal web de las isapres, deberá encontrarse operativo a contar del 2 de enero de 2017, conforme a las especificaciones mínimas a que se hace referencia en la letra c) de la presente circular.
 
 Nydia Contardo Guerra, Intendente de Fondos y Seguros Previsionales de Salud.
