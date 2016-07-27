@@ -1,0 +1,5 @@
+POLÍTICA DE CONDONACIÓN DE INTERESES Y SANCIONES PECUNIARIAS RESPECTO DE INFRACCIONES QUE INDICA; CONDONACIÓN DE INTERESES EN EL CASO DE DEUDAS POR CONCEPTO DE IMPUESTO TERRITORIAL, SUPERVISIÓN DE LA CONCESIÓN DEL BENEFICIO Y POLÍTICA DE TRANSPARENCIA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 50 del 20 de julio de 2016 que establece política de condonación de intereses y sanciones pecuniarias que se impongan por infracciones a las obligaciones tributarias contempladas en el artículo 97 Nº 1 inciso 1º, Nº 2 y Nº 11 del Código Tributario, condonación de intereses en el caso de deudas por concepto de impuesto territorial, supervisión de la concesión del beneficio y política de transparencia. Deroga circulares 21 y 41, ambas de 2013 y 89, de 2015.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y aparecerá en el Boletín del SII en julio, de 2016.
