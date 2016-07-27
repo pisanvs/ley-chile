@@ -1492,9 +1492,9 @@ En las querellas contra los jueces no será necesaria la declaración previa de 
 
 #### Artículo 144
 
-El conocimiento de las infracciones sancionadas en los artículos 124, 125, 126, 127, 138, 139 y 142, corresponderá al Juez de Policía Local de la comuna donde se cometieron tales infracciones, de acuerdo con el procedimiento establecido en la ley N° 18.287, y siempre que éste fuere abogado. En caso contrario deberá ocurrirse al Juez de Policía Local abogado de la comuna más cercana.
+El conocimiento de las infracciones sancionadas en los artículos 138 y 139, corresponderá al Juez de Policía Local de la comuna donde se cometieron tales infracciones, de acuerdo con el procedimiento establecido en la ley N° 18.287, y siempre que éste fuere abogado. En caso contrario deberá ocurrirse al Juez de Policía Local abogado de la comuna más cercana.
 
-Las infracciones sancionadas en el artículo 124 se entenderán cometidas en la comuna en que el órgano de prensa, radioemisora o canal de televisión tuviere su domicilio legal.
+Sin perjuicio de lo anterior, el conocimiento de las infracciones sancionadas en los artículos 124, 125, 126 y 127, y en general la fiscalización de lo dispuesto en el Párrafo 6° del Título I corresponderá al Servicio Electoral, de conformidad a su ley orgánica.
 
 #### Artículo 145
 
