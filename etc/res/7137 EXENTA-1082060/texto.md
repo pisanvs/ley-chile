@@ -12,11 +12,9 @@ Resolución:
 
 1º.- Apruébase la nómina de damnificados seleccionados para la asignación del subsidio habitacional regulado por el DS Nº1 (V. y U.), de 2011, en la modalidad de adquisición de viviendas correspondiente al mes de agosto de 2015, para el llamado especial dispuesto por el resuelvo 1º de la resolución exenta Nº 2.822, de este Ministerio, de 2015, nómina que se entenderá forma parte integrante de esta resolución, y fíjase el número de subsidios asignados por región conforme se señala en la siguiente tabla:
 
-.
-
 2º.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atención de los damnificados asignados con subsidio habitacional a que se refiere el número anterior, por región según se señala en la siguiente tabla:
 
-..
+.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
