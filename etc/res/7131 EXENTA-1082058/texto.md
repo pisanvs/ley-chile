@@ -12,7 +12,31 @@ Resolución:
 
 1º.- Apruébase la nómina de damnificados seleccionados para la asignación del subsidio habitacional regulado por el DS Nº 1 (V. y U.), de 2011, en la modalidad de adquisición de viviendas, correspondiente al mes de agosto de 2015, para el llamado especial dispuesto por el Resuelvo 1º de la resolución exenta Nº 3.593, de este Ministerio, de 2015, nómina que se entenderá forma parte integrante de esta resolución; y fíjase el número de subsidios asignados en la Región de Los Lagos conforme se señala en la siguiente tabla:
 
+N° asignados
+
+Región de
+
+aplicación Total
+
+Valparaíso 1
+
+Los Lagos 14
+
+Total 15
+
 2º.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio directo para la atención de los damnificados asignados con subsidio habitacional a que se refiere el número anterior, en la Región de Los Lagos, según se señala en la siguiente tabla:
+
+Unidades de Fomento
+
+Región de
+
+aplicación Total
+
+Valparaíso 900
+
+Los Lagos 12.600
+
+Total 13.500
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
