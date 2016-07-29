@@ -18,6 +18,8 @@ Resolución:
 
 2º.- Apruébanse las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al tercer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1, de este Ministerio, de 2011, Título I, tramos 1 y 2, y Título II, dispuesto en el número 1º de la resolución exenta Nº 6.324 y sus modificaciones, también de este Ministerio, de 2014, nóminas que se entenderá forman parte integrante de esta resolución, y fíjase el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el número anterior, por Título, Región, tramo y alternativa de postulación, según se indica en la siguiente tabla:
 
+.
+
 3º.- Déjanse sin efecto las 1.151 solicitudes de postulación para el tercer llamado nacional 2014 del Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1, de este Ministerio, de 2011, efectuado por el número 1º de la resolución exenta Nº 6.324 y sus modificaciones, también de este Ministerio, de 2014, presentadas por las personas individualizadas en las nóminas que se acompañan, por las causales que en cada caso se expresan; dichas nóminas forman parte integrante de la presente resolución:
 
 .
