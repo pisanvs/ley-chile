@@ -12,6 +12,8 @@ Las personas que postulen en forma individual vía internet a través de los med
 
 2º.- El monto de Unidades de Fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del DS Nº 1, de 2011, se distribuirán regionalmente, por título y alternativa de postulación, según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución, en caso de agotarse los recursos para una región, título y/o alternativa, quedando excedentes en otras:
 
+.
+
 3º.- El número de postulantes seleccionados en cada región dentro del respectivo título y modalidad de postulación, alcanzará hasta el número de certificados de subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo que para cada caso se fija en el número 2º de esta resolución.
 
 4º.- Para los efectos de determinar el número de certificados de subsidio susceptibles de financiar, tratándose de postulaciones al título I y II, se considerarán los valores promedios que a continuación se indican, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de aplicar las fórmulas correspondientes, según lo indicado en los artículos 64 y 67 del DS Nº 1 (V. y U.), de 2011, respectivamente, según corresponda:
