@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.047 EXENTA, DE 7 DE JULIO DE 2016
+
+Por resolución exenta Nº 2.047, de fecha 7 de julio de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Eric Vladimir Bocaz Ibacache E.I.R.L.", RUT Nº 76.598.158-1, cuyo nombre de fantasía es "Centenario Escuela de Conductores E.I.R.L.", siendo su director don Eric Bocaz Ibacache, la que tendrá su lugar de funcionamiento en Avenida Centenario Nº 1152, comuna de Quilpué. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas y 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Mauricio Candia Llancas, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
