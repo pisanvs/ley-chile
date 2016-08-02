@@ -174,6 +174,8 @@ c) Ayuda médica: En caso de enfermedad grave y tratamiento médico de alto cost
 
 d) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar.
 
+e) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el Acuerdo de Unión Civil. Si ambos estuvieren afiliados al Servicio, cada uno tendrá derecho a este beneficio.
+
 #### Artículo 11
 
 El Bienestar podrá destinar un porcentaje de dinero fijado por el Consejo Administrativo, mientras su presupuesto lo permita, para la adquisición a precio mayorista de bienes de consumo de primera necesidad, beneficiando así a los afiliados y su grupo familiar, especialmente a los de regiones extremas del país con costos inferiores a los de mercado.
