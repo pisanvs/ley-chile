@@ -38,27 +38,31 @@ c. El Jefe del Departamento Jurídico o a quien éste designe, y
 
 d. Tres representantes de los afiliados, uno de los cuales será designado, cuando proceda, por la Asociación de Funcionarios, con arreglo a lo dispuesto en el inciso 3° del artículo 18 del Reglamento General; los dos restantes, serán elegidos por los afiliados.
 
-El Jefe del Servicio de Bienestar actuará como Secretario del Consejo y sólo tendrá derecho a voz.
+El Jefe/a o Encargado/a del Servicio de Bienestar actuará como Secretario del Consejo y sólo tendrá derecho a voz.
 
 #### Artículo 4°
 
-Para ser representante de los afiliados, además de los requisitos indicados en el artículo 20 del Reglamento General, se requiere:
+Para ser representante de los afiliados en el Consejo Administrativo, se requiere:
 
-a. Ser afiliado al Servicio de Bienestar con una antigüedad no inferior a dos años, y
+a) Ser afiliado al Servicio de Bienestar con una antigüedad no inferior a un año;
 
-b. No ser integrante de la Planta de Directivos de la Agencia de Calidad de la Educación.
+b) No ser integrante del Consejo Administrativo en representación de la entidad empleadora;
+
+c) No haber sido objeto de medida disciplinaria alguna durante el año anterior a la elección;
+
+d) Estar al día en el cumplimiento de sus obligaciones con el Servicio de Bienestar.
 
 #### Artículo 5°
 
-Los representantes de los afiliados que integren el Consejo Administrativo, serán elegidos en votación popular, la que se realizará cada dos años en el tercer cuatrimestre, en la fecha y con los procedimientos que acordará el Consejo Administrativo, donde cada afiliado tendrá derecho a un voto, derecho que no podrá ser delegado.
+Los representantes de los afiliados que integren el Consejo Administrativo, serán elegidos en votación popular, la que se realizará cada dos años en el primer cuatrimestre, en la fecha y con los procedimientos que acordará el Consejo Administrativo, donde cada afiliado tendrá derecho a un voto, derecho que no podrá ser delegado.
 
-Cada afiliado votará por una sola persona y se elegirán como representantes de los afiliados aquellos que obtengan las más altas mayorías. En caso de empate, será electo el afiliado más antiguo. Se entenderán elegidos como suplentes aquellos que sigan en el orden de las votaciones obtenidas y reemplazarán a los titulares, cuando proceda, siguiendo el mismo orden.
+Cada afiliado votará por una sola persona y se elegirán como representantes de los afiliados aquellos que obtengan las más altas mayorías. En caso de empate, será electo el afiliado más antiguo en el Servicio de Bienestar y en caso de persistir el empate, se considerará la antigüedad en la Agencia de Calidad de la Educación. Se entenderán elegidos como suplentes aquellos que sigan en el orden de las votaciones obtenidas y reemplazarán a los titulares, cuando proceda, siguiendo el mismo orden.
 
 Los representantes titulares y suplentes de los afiliados que sean elegidos por votación popular, durarán dos años en sus funciones y no podrán ser reelectos para el período siguiente.
 
 #### Artículo 6°
 
-El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán mensualmente, en el día y hora que fijen sus miembros en la primera sesión del año y serán citadas por el Jefe del Servicio de Bienestar, por escrito.
+El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizarán a lo menos una vez cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y serán citadas por el Jefe/a o Encargado/a del Servicio de Bienestar, por correo electrónico.
 
 A su vez, el Consejo sesionará extraordinariamente cuando el Presidente del Consejo convoque de oficio o a petición escrita de la mayoría de los miembros en ejercicio, o por acuerdo de éste. En esta sesión sólo podrán tratarse las materias contenidas en la citación, la que se hará en la misma forma señalada en el inciso precedente.
 
@@ -74,7 +78,7 @@ a) Una cuota de incorporación que deberán pagar los afiliados no superior al 2
 
 b) Con los aportes que anualmente se consulten en el presupuesto de la Agencia de Calidad de la Educación y que ésta aportará conforme a las disposiciones legales, reglamentarias y estatutarias vigentes;
 
-c) Con el aporte mensual de sus afiliados en servicio activo, cuyo monto no podrá ser superior a un 1% de las remuneraciones imponibles para pensiones y que fijará anualmente el Consejo Administrativo;
+c) Con el aporte mensual de sus afiliados en servicio activo, cuyo monto no podrá ser superior a un 1% de las remuneraciones imponibles para pensiones y que fijará anualmente el Consejo Administrativo, la cual se pagará con la cuota de incorporación;
 
 d) Con el aporte mensual de los afiliados jubilados de hasta un 1% de sus pensiones, que será fijado anualmente por el Consejo Administrativo, más la cantidad correspondiente al aporte institucional, la cual será de cargo del afiliado jubilado;
 
@@ -90,7 +94,7 @@ i) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
 
 #### Artículo 8°
 
-Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal y contra ella podrán girar conjuntamente el Jefe del Servicio y la persona que para dichos efectos sea designada anualmente por el Consejo Administrativo. En caso de ausencia o impedimento de los giradores mencionados, podrán girar en calidad de suplentes los funcionarios que hayan sido designados en dicha calidad por el Consejo Administrativo.
+Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal y contra ella podrán girar conjuntamente el Jefe/a o Encargado/a del Servicio de Bienestar y la persona que para dichos efectos sea designada anualmente por el Consejo Administrativo. En caso de ausencia o impedimento de los giradores mencionados, podrán girar en calidad de suplentes los funcionarios que hayan sido designados en dicha calidad por el Consejo Administrativo.
 
 ## Título V
 
@@ -106,7 +110,7 @@ Atención médica y odontológica
 
 #### Artículo 10
 
-El Servicio podrá otorgar, en la medida que sus recursos lo permitan, ayudas de carácter médico a sus afiliados, y a sus cargas familiares, por los siguientes conceptos:
+El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan, ayudas de carácter médico a sus afiliados, y a sus cargas familiares, por los siguientes conceptos:
 
 a) Consulta médica, consulta médica domiciliaria, interconsulta y junta médica;
 
@@ -144,7 +148,7 @@ El Consejo Administrativo determinará, a lo menos, una vez al año, los porcent
 
 #### Artículo 11
 
-El Servicio podrá implementar y financiar acciones de fomento y prevención de la salud mediante la organización y administración de clínicas médicas o dentales, en cuyo caso deberá cumplirse lo siguiente:
+El Servicio de Bienestar podrá implementar y financiar acciones de fomento y prevención de la salud mediante la organización y administración de clínicas médicas o dentales, en cuyo caso deberá cumplirse lo siguiente:
 
 1.- Cada profesional de la clínica deberá solicitar al encargado de compras los materiales, medicamentos, instrumental o servicios respectivos con indicación de cantidades, marcas, procedencias y otras indicaciones que sean necesarias.
 
@@ -156,17 +160,19 @@ Subsidios de carácter social
 
 #### Artículo 12
 
-El Servicio podrá otorgar las siguientes ayudas, no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
+El Servicio de Bienestar podrá otorgar las siguientes ayudas, no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
 
 a) Nacimiento o Adopción: Se concederá una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres fuesen afiliados, se pagará el beneficio sólo al afiliado que lo registre como carga. En caso de nacimientos o adopciones múltiples, se otorgarán tantas ayudas, como hijos nazcan o se adopten. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción del menor o se le reconozca como carga familiar;
 
 b) Matrimonio: Se concederá una ayuda al afiliado que acredite haber contraído matrimonio. Si ambos cónyuges son afiliados, el beneficio le corresponderá a ambos;
 
-c) Fallecimiento: Se otorgará una ayuda en caso de fallecimiento del afiliado y de cada una de sus cargas familiares reconocidas, incluida el mortinato a partir del 5° mes de gestación y del hijo recién nacido que no hubiere sido reconocido aun como carga familiar. En el caso de muerte del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
+c) Acuerdo de unión civil: Se concederá una ayuda al afiliado que acredite haber realizado un Acuerdo de Unión Civil. Si ambos convivientes civiles son afiliados, el beneficio le corresponderá a ambos.
+
+d) Fallecimiento: Se otorgará una ayuda en caso de fallecimiento del afiliado y de cada una de sus cargas familiares reconocidas, incluida el mortinato a partir del 5° mes de gestación y del hijo recién nacido que no hubiere sido reconocido aun como carga familiar. En el caso de muerte del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
 1. A la persona designada expresamente por el afiliado.
 
-2. Al o la cónyuge sobreviviente.
+2. Al o la cónyuge sobreviviente o al conviviente civil..
 
 3. A los hijos.
 
@@ -174,15 +180,15 @@ c) Fallecimiento: Se otorgará una ayuda en caso de fallecimiento del afiliado y
 
 5. A la persona que acredite haber efectuado los gastos del funeral, hasta el monto documentado de dichos gastos, a excepción de la empresa funeraria.
 
-d) Educación: Se concederá una asignación de escolaridad anual, por los afiliados o sus hijos cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio humanístico-científico o técnico-profesional o superior, en algún establecimiento estatal o reconocido por el Estado. Esta ayuda se hará extensible a las cargas familiares que asistan a establecimientos de educación diferencial. Asimismo, podrán otorgarse beneficios escolares especiales, tales como ayudas destinadas a los hijos del afiliado que deban recibir tratamientos, psicopedagógicos y fonoaudiológicos, en centros especializados o especialistas particulares.
+e) Educación: Se concederá una asignación de escolaridad anual, por los afiliados o sus cargas familiares que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio humanístico-científico o técnico-profesional o superior, en algún establecimiento estatal o reconocido por el Estado. Esta ayuda se hará extensible a las cargas familiares que asistan a establecimientos de educación diferencial. Asimismo, podrán otorgarse beneficios escolares especiales, tales como ayudas destinadas a los hijos del afiliado que deban recibir tratamientos, psicopedagógicos y fonoaudiológicos, en centros especializados o especialistas particulares.
 
-e) Becas de Estudio: Se podrá conceder una ayuda económica en casos excepcionales destinada a complementar los gastos derivados de la educación del afiliado, o de sus cargas familiares.
+f) Becas de Estudio: Se podrá conceder una ayuda económica en casos excepcionales destinada a complementar los gastos derivados de la educación del afiliado, o de sus cargas familiares.
 
-f) Ayuda Médica: Se podrán conceder ayudas por este concepto en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, tales como diálisis, implantes, trasplantes, quimioterapia, UCI, UTI, VIH.
+g) Ayuda Médica: Se podrán conceder ayudas por este concepto en caso de enfermedades que requieran tratamientos de alto costo y/o prolongados, tales como diálisis, implantes, trasplantes, quimioterapia, UCI, UTI, VIH.
 
-g) Catástrofe: Se concederá ayuda en dinero o especies, al afiliado que sufran daños graves en sus bienes por situaciones imprevistas o de fuerza mayor derivadas de accidentes, siniestros, catástrofes, fenómenos naturales, incendios, terremotos o inundaciones. Para acceder a este beneficio será necesario la comprobación del hecho que lo cause, por el Jefe del Servicio.
+h) Catástrofe: Se concederá ayuda en dinero o especies, al afiliado que sufran daños graves en sus bienes por situaciones imprevistas o de fuerza mayor derivadas de accidentes, siniestros, catástrofes, fenómenos naturales, incendios, terremotos o inundaciones. Para acceder a este beneficio será necesario la comprobación del hecho que lo cause, por el Jefe del Servicio.
 
-h) Condonación de Deudas: En caso de fallecimiento de un afiliado se entenderán automáticamente condonadas todas las deudas que tuviere con el Servicio.
+i) Condonación de Deudas: En caso de fallecimiento de un afiliado se entenderán automáticamente condonadas todas las deudas que tuviere con el Servicio.
 
 #### Artículo 13
 
@@ -194,7 +200,7 @@ De los préstamos
 
 #### Artículo 14
 
-El Servicio podrá conceder, cuando sus recursos financieros lo permitan, los siguientes préstamos reajustables:
+El Servicio de Bienestar podrá conceder, cuando sus recursos financieros lo permitan, los siguientes préstamos reajustables:
 
 a) Médicos y Dentales: Se otorgará como complemento a los beneficios señalados en el artículo 10.
 
@@ -204,7 +210,7 @@ c) Habitacionales: Se podrán otorgar para:
 
 . Reparar o ampliar una vivienda propia, y
 
-. Ahorro para la adquisición de vivienda propia. Este préstamo no podrá otorgarse a dos socios del Servicio respecto del mismo inmueble.
+. Ahorro para la adquisición de vivienda propia. Este préstamo no podrá otorgarse a dos socios del Servicio de Bienestar respecto del mismo inmueble.
 
 d) De Auxilio: Se podrán otorgar ante problemas económicos graves y otras causas justificadas, situaciones que deberán calificar el Consejo Administrativo, y
 
@@ -212,7 +218,7 @@ e) Personales: Se podrán otorgar con el objeto de propender al mejoramiento de 
 
 #### Artículo 15
 
-Los montos máximos de los préstamos señalados en el artículo anterior, serán determinados anualmente por el Consejo Administrativo, y deberán reintegrarse en un plazo máximo de treinta y seis (36) meses, considerando sus distintos montos y circunstancias, en cuotas mensuales, iguales y sucesivas que serán descontadas a partir del mes siguiente al de su otorgamiento. Los préstamos devengarán el interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorgue el préstamo de que se trate. Tanto para el caso de las ayudas como de los préstamos, el Consejo Administrativo deberá elaborar la reglamentación necesaria en la que se especifique la documentación requerida para su obtención, plazos, etc. Sin perjuicio de lo anterior, para solicitar cualquier préstamo se requiere una antigüedad de, a lo menos, seis (6) meses como afiliados y la constitución de la garantía de dos codeudores solidarios que sean funcionarios de la Agencia de Calidad de la Educación.
+Los montos máximos de los préstamos señalados en el artículo anterior, serán determinados anualmente por el Consejo Administrativo, y deberán reintegrarse en un plazo máximo de treinta y seis (36) meses, considerando sus distintos montos y circunstancias, en cuotas mensuales, iguales y sucesivas que serán descontadas a partir del mes siguiente al de su otorgamiento. Los préstamos devengarán el interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorgue el préstamo de que se trate. Tanto para el caso de las ayudas como de los préstamos, el Consejo Administrativo deberá elaborar la reglamentación necesaria en la que se especifique la documentación requerida para su obtención, plazos, etc. Sin perjuicio de lo anterior, para solicitar cualquier préstamo se requiere una antigüedad de, a lo menos, seis (6) meses como afiliados y la constitución de la garantía de dos codeudores solidarios que sean afiliados al Servicio de Bienestar de la Agencia de Calidad de la Educación.
 
 ### Párrafo 4°
 
@@ -244,7 +250,7 @@ Disposiciones Generales
 
 El personal de la Agencia de Calidad de la Educación, que se encontrare afiliado al Servicio de Bienestar con antelación a la fecha de dictación del presente decreto, se entenderá que cumple con las exigencias de antigüedad y permanencia que el Reglamento establece para la dación de beneficios y estará eximido de pagar la cuota de incorporación o afiliación.
 
-Los afiliados de bienestar tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el servicio a contar del mes siguiente de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al servicio, o dentro de los plazos especiales establecidos en el presente reglamento.
+Los afiliados de bienestar tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el servicio de Bienestar a contar del mes siguiente de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al servicio, o dentro de los plazos especiales establecidos en el presente reglamento.
 
 #### Artículo 19
 
@@ -264,11 +270,7 @@ Queda expresamente excluida de dicha facultad, la de contratar personal, la cual
 
 ## Artículos transitorios
 
-#### Artículo primero
-
-El requisito de antigüedad señalado en el artículo 4°, letra a), del presente Reglamento sólo será exigible a partir del tercer año contado desde el inicio de funciones de la Agencia de Calidad de la Educación.
-
-#### Artículo segundo
+#### Artículo único
 
 La elección de los representantes de los afiliados en el Consejo Administrativo, se efectuará dentro del plazo de 30 días contados desde la fecha de publicación del presente reglamento y asumirán a contar del día 1° del mes siguiente a aquel en que se realice la votación.
 
