@@ -302,6 +302,14 @@ acuerdo a pauta especial preparada por el Servicio de
 
 Bienestar.
 
+k) Acuerdo de Unión Civil: Se concederá una
+
+ayuda a los afiliados que celebren el Acuerdo de Unión
+
+Civil. Si ambos estuvieren afiliados al Servicio,
+
+cada uno de ellos tendrá derecho a este beneficio.
+
 #### Artículo 10
 
 <!-- parte:6262268 -->
