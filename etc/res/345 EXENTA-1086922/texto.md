@@ -18,9 +18,13 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 23 de enero de 2016 hasta el 31 de agosto de 2016, por la calzada Oriente de Av. Vicuña Mackenna, entre calle Av. Carlos Valdovinos y Av. Departamental, comunas de Macul, Ñuñoa y San Joaquín.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 30 de julio de 2016 y hasta el 31 de octubre de 2016, por Av. Vicuña Mackenna en los tramos que se indican en el siguiente cuadro:
 
-2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que las pistas, de Av. Vicuña Mackenna Poniente, entre Av. Carlos Valdovinos y Av. Departamental, sean destinadas al uso exclusivo de buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior.
+.
+
+2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que los tramos de Av. Vicuña Mackenna que se indican en el siguiente cuadro, sean destinados como vía exclusiva para el uso de buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior, con sentido de circulación bidireccional.
+
+.
 
 Podrán circular, además, en las referidas pistas y tramo de uso exclusivo los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa Nacional de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control, los vehículos municipales destinados a cumplir funciones de apoyo a la función policial que se encuentren debidamente identificados, los destinados a cumplir funciones en las obras relacionadas con el proyecto "Construcción Corredor de Transporte Público Avda. Vicuña Mackenna Norte. Tramo IV" y aquellos vehículos que requieran ingresar o egresar hacia o desde su lugar de residencia, trabajo o servicio.
 
