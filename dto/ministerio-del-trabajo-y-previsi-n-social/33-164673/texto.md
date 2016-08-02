@@ -262,6 +262,14 @@ acuerdo a pauta especial preparada por el Servicio de
 
 Bienestar.
 
+k) Acuerdo de Unión Civil: Se concederá una
+
+ayuda a los afiliados que celebren el Acuerdo de Unión
+
+Civil. Si ambos estuvieren afiliados al Servicio,
+
+cada uno de ellos tendrá derecho a este beneficio.
+
 Artículo N°10.- El Bienestar podrá otorgar préstamos sociales a sus afiliados, los que serán reajustables y cuando sus recursos lo permitan, por las siguientes causales; a) Médicos: Como suplemento a las prestaciones
 
 contempladas en el artículo N°8.
