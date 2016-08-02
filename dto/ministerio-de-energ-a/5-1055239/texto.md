@@ -158,7 +158,7 @@ Corresponde a la aprobación por parte de los organismos competentes del Estudio
 
 La obtención de la Resolución de Calificación Ambiental se comprobará mediante la verificación de la emisión de tal resolución por parte del órgano competente. La admisibilidad de la solicitud de concesión se comprobará con la emisión del oficio correspondiente por parte del Ministerio de Energía.
 
-Este hito deberá cumplirse dentro de los 636 días corridos siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
+Este hito deberá cumplirse dentro de los 876 días corridos siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
 
 c) Hito Relevante Nº 3: Construcción de las Fundaciones.
 
