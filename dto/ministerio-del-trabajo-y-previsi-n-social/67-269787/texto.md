@@ -140,13 +140,15 @@ g) Catástrofe: Por daños sufridos en el patrimonio del afiliado con ocasión d
 
 h) Desgravamen: En caso de fallecimiento del afiliado, se entenderán condonadas las deudas que tuviere pendientes con el Servicio, de conformidad a las circunstancias y forma que establezca el Consejo Administrativo.
 
+i) Acuerdo de Unión Civil: se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá a este beneficio.
+
 Para requerir las ayudas deberán acreditarse los hechos mediante la presentación de los certificados correspondientes.
 
 El monto de las ayudas contempladas en las letras
 
 - **a)** hasta
 
-- **g)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
+- **i)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
 
 - **g)** del artículo 29 del Reglamento General.
 
