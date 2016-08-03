@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "EMPRESA SOL DEL NORTE SOCIEDAD ANÓNIMA"
+
+Mediante decreto exento N° E-311, de 7 de julio de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Empresa Sol del Norte Sociedad Anónima", RUT N° 96.991.550-2, el inmueble fiscal ubicado en la Manzana K, Lote 8, sector Puerto Seco, comuna de Calama, provincia El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el N° 5311-8; inscrito a nombre del Fisco a fojas 49 vuelta N° 57, del Registro de Propiedad del Conservador de Bienes Raíces de El Loa Calama, correspondiente al año 1928; de una superficie aproximada de 5.030,52 m2, singularizado en el Plano N° 02201-6.938-C.U. La Concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 318.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de "Transporte Público, Privado y Servicios Asociados". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
