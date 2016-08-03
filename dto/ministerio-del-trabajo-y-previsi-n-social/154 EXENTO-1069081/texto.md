@@ -40,7 +40,7 @@ Los representantes titulares y suplentes de los afiliados ante el Consejo serán
 
 Se entenderán elegidos suplentes los afiliados que tengan las siguientes mayorías. Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de las votaciones obtenidas por ellos, en caso de empate, se aplicará el procedimiento del inciso anterior.
 
-Los representantes de los afiliados durarán 2 años en sus funciones no pudiendo ser reelectos por períodos consecutivos; y, cesarán en sus cargos de acuerdo a lo estipulado en el artículo 21 del Reglamento General.
+Los representantes de los funcionarios durarán dos años en sus funciones, pudiendo ser reelegidos hasta por un período, y cesarán en sus cargos de acuerdo a lo dispuesto en el artículo 21º del Reglamento General.
 
 #### Artículo 3º
 
@@ -59,6 +59,10 @@ b) Informar a la Superioridad de la Institución los requerimientos de infraestr
 El Consejo sesionará en forma ordinaria, bimensualmente, en el día, hora y lugar que fijen sus miembros en la primera sesión del año. Las sesiones ordinarias serán convocadas por el Jefe del Servicio, mediante citación escrita o correo electrónico, con cinco días hábiles de anticipación de la fecha que fije los integrantes del Consejo.
 
 Las sesiones extraordinarias se efectuarán cuando proceda, conforme al artículo 23 del Reglamento General y, serán citados por escrito por el Presidente del Consejo, a lo menos con 5 días hábiles de anticipación.
+
+El Consejo Administrativo sesionará con la mayoría absoluta de sus miembros y sus acuerdos se adoptarán, en general, por simple mayoría, salvo las excepciones consignadas en el presente reglamento y en el Reglamento General. En caso de empate, decidirá el voto de quien presida.
+
+El Consejo Administrativo podrá invitar a sus sesiones a otras personas que, por la naturaleza de sus funciones, puedan realizar algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
 
 ## Título III
 
@@ -140,7 +144,7 @@ p) Insumos necesarios para el otorgamiento de las prestaciones de letras b, d, g
 
 q) Medicamentos para enfermedades crónicas.
 
-El Servicio podrá financiar con cargo a sus recursos, de acuerdo con sus disponibilidades presupuestarias, la contratación de seguros de vida para sus afiliados y seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios afiliados puedan concurrir a sufragar dichos seguros.
+El Servicio de Bienestar, con el propósito de mejorar el nivel de atención de sus afiliados y cargas familiares y dependiendo de los recursos presupuestarios, podrá contratar, subsidiar y/o financiar parcial o totalmente seguros colectivos de vida, salud, dental y catastrófico en su favor, sin perjuicio que los beneficiarios puedan concurrir al pago de seguros de características similares o idénticas condiciones. En caso que, al momento de su fallecimiento, el afiliado mantenga vigente un seguro de vida contratado, subsidiado y/o financiado parcial o totalmente por el Servicio de Bienestar, no se otorgará la ayuda por fallecimiento del afiliado establecida en el artículo Nº 9, letra e) del presente Reglamento.
 
 ### Párrafo 2º
 
@@ -150,11 +154,11 @@ De la Atención Económica
 
 El Servicio otorgará las siguientes ayudas no sujetas a restitución, siempre y cuando sus disponibilidades presupuestarias lo permitan, las que se fijarán anualmente por el Consejo:
 
-a) Matrimonio: Se concederá una ayuda, por una sola vez, cuando el afiliado contraiga matrimonio, el que acreditará con el correspondiente certificado. Si ambos contrayentes fueren afiliados al Servicio, ambos tendrán derecho a solicitar el beneficio íntegro en forma independiente;
+a) Matrimonio o Acuerdo de Unión Civil: Se concederá una ayuda, por una sola vez, cuando el afiliado contraiga matrimonio o celebre Acuerdo de Unión Civil, lo que se acreditará mediante el correspondiente certificado. Si ambos contrayentes o celebrantes fueren funcionarios del Servicio, ambos tendrán derecho a solicitar el beneficio íntegro en forma independiente;
 
 b) Nacimiento o adopción: Podrá concederle al afiliado que acredite, mediante el respectivo certificado, el nacimiento de cada hijo. Si ambos padres fueran afiliados al Servicio, cada uno tendrá derecho a recibir el beneficio íntegro de forma independiente. En el caso de adopción, el beneficio podrá solicitarse una vez que se haya otorgado la tuición para adopción del menor, o se le reconozca como carga familiar;
 
-c) Educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares reconocidas como tales que se encuentren cursando estudios regulares en los niveles pre-básico (kinder), básicos, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste, previa presentación de certificado de alumno regular;
+c) Educación: Se concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares reconocidas como tales que se encuentren cursando estudios regulares en alguno de los niveles educativos establecidos por el Ministerio de Educación, en algún establecimiento del Estado o reconocido por éste, previa presentación del certificado de alumno regular;
 
 d) Becas de estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar en caso de necesidad económica y excelencia académica, calificada por el Consejo Administrativo mediante informe social emitido por el Servicio, becas de estudios a los afiliados estudiantes y/o sus cargas familiares que cursen estudios de Educación Superior en Instituciones reconocidas por el Estado. La calificación de excelencia académica será establecida anualmente por el Consejo en su primera sesión ordinaria;
 
@@ -266,17 +270,19 @@ Otras Prestaciones
 
 Cuando las posibilidades financieras y materiales del Servicio así lo permitan, el Consejo podrá acordar asignar recursos orientados a los siguientes objetivos:
 
-a) Actividades culturales y/o sociales;
+a) Financiamiento total o parcial de actividades que propendan al progreso cultural, educacional y/o artístico de sus afiliados y cargas familiares.;
 
-b) Cultura física y deportiva;
+b) Financiamiento total o parcial de actividades deportivas y/o de integración, para los afiliados y sus cargas familiares.;
 
 c) Participación en la organización y/o financiamiento de la celebración de las festividades aniversarias de la Superintendencia del Medio Ambiente.
 
-d) Organizar la Fiesta de Navidad para los afiliados del Servicio y sus cargas familiares hasta 12 años;
+d) Participación en la organización y/o financiamiento de actividades de celebración de los cumpleaños de los afiliados, Día de la Madre, Día del Padre, Día Internacional de la Mujer, Día de la Secretaria, Fiestas Patrias, Fiesta de Navidad y/u otras celebraciones o festividades. Además, con ocasión de dichas actividades, el Servicio de Bienestar podrá entregar regalos a sus afiliados y, en el caso de la Fiesta de Navidad, a las cargas familiares de hasta 12 años de edad.;
 
 e) El Servicio, a través del Superintendente del Medio Ambiente, podrá celebrar convenios con empresas destinados a obtener ventas de toda clase de bienes, mercadería o servicios para satisfacer las necesidades de sus afiliados.
 
-Asimismo, se podrán celebrar convenios con otros Servicios de Bienestar o con profesionales, u otras entidades que otorguen prestaciones de bienestar social, del área de la salud o seguridad social; Instituciones Previsionales, Compañías de Seguros y Empresas de Alimentación o Casino, y
+Asimismo, se podrán celebrar convenios con otros Servicios de Bienestar o con profesionales, u otras entidades que otorguen prestaciones de bienestar social, del área de la salud o seguridad social; Instituciones Previsionales, Compañías de Seguros y Empresas de Alimentación o Casino.
+
+En ningún caso, el Servicio de Bienestar será responsable de las deudas contraídas por los afiliados por los convenios suscritos con terceros, siendo los afiliados los únicos deudores directos frente a estos.
 
 f) El Servicio podrá administrar colonias, refugios, casas de huéspedes, casas de veraneo, casinos, jardines infantiles, complejos deportivos, policlínicos, postas dentales u otras instalaciones que la Superintendencia del Medio Ambiente adquiera a cualquier título y que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá a la Superintendencia del Medio Ambiente.
 
@@ -292,7 +298,7 @@ Disposiciones Generales
 
 #### Artículo 17º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento. El derecho a solicitar los beneficios que concede el Servicio caducará luego de transcurridos diez meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento. El derecho a solicitar los beneficios que concede el Servicio caducará dentro de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los funcionarios jubilados, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la de cese de sus funciones.
 
