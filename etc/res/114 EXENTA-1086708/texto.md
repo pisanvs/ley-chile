@@ -22,11 +22,11 @@ Resuelvo:
 
 1.- Autorízase la realización de la actividad deportiva-recreativa denominada "Ciclorecreovía" durante todos los días domingo a partir del 10 de enero de 2016 y hasta el 25 de diciembre de 2016, entre las 9:00 y las 14:00 horas, utilizándose para ello las siguientes Vías:
 
-Cardenal José María Caro, entre Av. Vicuña Mackenna y José Miguel de la Barra; José Miguel de la Barra (calzada poniente) entre Cardenal José María Caro y Monjitas; eje Monjitas - calle Plaza de Armas - Catedral, desde José Miguel de la Barra hasta Matucana.
+Cardenal José María Caro, entre Av. Vicuña Mackenna y José Miguel de la Barra; José Miguel de la Barra (calzada poniente) entre Cardenal José María Caro y Monjitas; eje Monjitas - calle Plaza de Armas - Catedral, desde José Miguel de la Barra hasta Manuel Rodríguez.
 
-2.- Prohíbase, desde las 7:00 horas hasta las 15:00 horas, durante todos los días domingo, a partir del 10 de enero de 2016 y hasta el 25 de diciembre de 2016, la circulación de todo tipo de vehículos motorizados por Cardenal José María Caro, entre Av. Vicuña Mackenna y Puente Patronato; José Miguel de la Barra (calzada poniente) entre Cardenal José María Caro y Monjitas; eje Monjitas - calle Plaza de Armas - Catedral, desde José Miguel de la Barra hasta Matucana.
+2.- Prohíbase, desde las 7:00 horas hasta las 15:00 horas, durante todos los días domingo, a partir del 10 de enero de 2016 y hasta el 25 de diciembre de 2016, la circulación de todo tipo de vehículos motorizados por Cardenal José María Caro, entre Av. Vicuña Mackenna y Puente Patronato; José Miguel de la Barra (calzada poniente) entre Cardenal José María Caro y Monjitas; eje Monjitas - calle Plaza de Armas - Catedral, desde José Miguel de la Barra hasta Manuel Rodríguez.
 
-3.- Adóptense, por parte del responsable del evento, todas las medidas de seguridad y condiciones especiales establecidas en el Anexo Nº 1, el que se entiende formar parte integrante del presente instrumento.
+3.- Adóptense, por parte del responsable del evento, todas las medidas de seguridad y condiciones especiales establecidas en el Anexo Nº 1 resolución exenta 114/2016, el que se entiende formar parte integrante del presente instrumento.
 
 4.- La entidad organizadora deberá adoptar y/o coordinar con Carabineros de Chile todas las medidas de seguridad para la realización del evento.
 
