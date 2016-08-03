@@ -28,13 +28,13 @@ Del procedimiento de cobro
 
 #### Artículo 2º
 
-Corresponderá a la Tesorería Municipal la cobranza de las obligaciones en dinero por contribuciones de patentes, permisos o derechos municipales morosos; para lo cual elaborará la nómina de contribuyentes morosos, que contendrá la individualización completa del deudor y su domicilio, con especificaciones del período y cantidad adeudada por concepto de contribuciones de patentes, permisos, derechos municipales u otros, más reajustes, intereses y multas devengadas. Dicha nómina será elaborada mensualmente.
+Corresponderá al Departamento de Rentas y Finanzas la cobranza de las obligaciones en dinero por contribuciones de patentes, permisos o derechos municipales morosos; para lo cual elaborará la nómina de contribuyentes morosos, que contendrá la individualización completa del deudor y su domicilio, con especificaciones del período y cantidad adeudada por concepto de contribuciones de patentes, permisos, derechos municipales u otros, más reajustes, intereses y multas devengadas. Dicha nómina será elaborada mensualmente.
 
 La nómina de contribuyentes morosos y su respectiva deuda será certificada por el Secretario Municipal; la deuda acreditada mediante el correspondiente certificado que emita el Secretario Municipal tendrá mérito ejecutivo en conformidad al artículo 47 del Decreto Nº 2.385 de 1996 que fija el texto refundido y sistematizado del Decreto Ley Nº 3.063 de 1979, sobre Rentas Municipales.
 
 #### Artículo 3º
 
-Con el mérito de la certificación de deuda morosa elaborada por el Secretario Municipal, la Tesorería Municipal en conjunto con la Dirección de Administración y Finanzas y la Dirección Jurídica, elaborarán la nómina de los contribuyentes que serán requeridos de pago a través del procedimiento de cobranza judicial o extrajudicial que establece la presente Ordenanza.
+Con el mérito de la certificación de deuda morosa elaborada por el Secretario Municipal, el Departamento de Rentas y Finanzas y la Dirección Jurídica, elaborarán la nómina de los contribuyentes que serán requeridos de pago a través del procedimiento de cobranza judicial o extrajudicial que establece la presente Ordenanza.
 
 La acción judicial para el cobro de contribuciones de patentes, permisos y derechos municipales morosos será deducida ante el tribunal ordinario competente y se someterá a las normas del juicio ejecutivo establecidas en el Código de Procedimiento Civil. Sin perjuicio de lo anterior, la Municipalidad podrá solicitar la suspensión del procedimiento de ejecución y apremio, en casos debidamente justificados, siempre y cuando el deudor lo haya solicitado previamente, fundado en su posibilidad de suscribir convenio de pago o por haber realizado pago parcial.
 
@@ -76,7 +76,7 @@ Los pagos parciales no acreditarán por sí solos que el contribuyente se encuen
 
 #### Artículo 9º
 
-El Tesorero Municipal, en cualquier momento, de oficio o a petición de parte, podrá corregir los errores o vicios de forma de que adolezca la nómina de contribuyentes morosos. Si el error de forma incide en el cálculo de la deuda morosa, ésta deberá ser calculada nuevamente y certificada por el Secretario Municipal, en conformidad a lo dispuesto por el artículo 2º de la presente Ordenanza.
+El Jefe del Departamento de Rentas y Finanzas, en cualquier momento, de oficio o a petición de parte, podrá corregir los errores o vicios de forma de que adolezca la nómina de contribuyentes morosos. Si el error de forma incide en el cálculo de la deuda morosa, ésta deberá ser calculada nuevamente y certificada por el Secretario Municipal, en conformidad a lo dispuesto por el artículo 2º de la presente Ordenanza.
 
 #### Artículo 10º
 
@@ -86,13 +86,13 @@ La Tesorería Municipal exigirá el pago de contribuciones de patentes, permisos
 
 #### Artículo 11º
 
-La Tesorería Municipal previo informe de la Dirección de Administración y Finanzas y de la Unidad a quien corresponde la fiscalización del pago, podrá otorgar facilidades hasta de un año en cuotas periódicas, para el pago de las contribuciones de patentes, permisos y derechos municipales adeudados, más reajustes e intereses devengados, a aquellos contribuyentes que lo soliciten dentro del plazo de diez (10) días contados desde la última notificación que señala el artículo 4º de la presente Ordenanza y que acrediten su imposibilidad de cancelar la deuda al contado.
+El Departamento de Rentas y Finanzas y la Unidad a quien corresponda la fiscalización del pago, previo informe de ellas, podrá otorgar facilidades hasta de un año en cuotas periódicas, para el pago de las contribuciones de patentes, permisos y derechos municipales adeudados, más reajustes e intereses devengados, a aquellos contribuyentes que lo soliciten dentro del plazo de diez (10) días contados desde la última notificación que señala el artículo 4º de la presente Ordenanza y que acrediten su imposibilidad de cancelar la deuda al contado.
 
-Para autorizar la suscripción del convenio de pago el informe emitido por la Dirección de Administración y Finanzas y la Unidad a quien corresponda la fiscalización deberá ser favorable. Este informe será desfavorable cuando se trate de deudores morosos que registren reiteradas o graves infracciones a las normas legales o a las Ordenanzas Municipales vigentes.
+Para autorizar la suscripción del convenio de pago el informe emitido por el Departamento de Rentas y Finanzas y la Unidad a quien corresponda la fiscalización deberá ser favorable. Este informe será desfavorable cuando se trate de deudores morosos que registren reiteradas o graves infracciones a las normas legales o a las Ordenanzas Municipales vigentes.
 
-Sin perjuicio de lo anterior, en casos sociales calificados, la Dirección de Administración y Finanzas podrá requerir informe a la Dirección de Desarrollo Comunitario, para aquellos deudores que fundamenten su petición en base a criterios socioeconómicos.
+Sin perjuicio de lo anterior, en casos sociales calificados, el Departamento de Rentas y Finanzas podrá requerir informe a la Dirección de Desarrollo Comunitario, para aquellos deudores que fundamenten su petición en base a criterios socioeconómicos.
 
-En caso de que el informe sea favorable, la Dirección de Administración y Finanzas y la Unidad a la cual corresponda la fiscalización, deberán pronunciarse respecto a la periodicidad de las cuotas, atendido el monto del mismo y su naturaleza.
+En caso de que el informe sea favorable, el Departamento de Rentas y Finanzas y la Unidad a la cual corresponda la fiscalización, deberán pronunciarse respecto a la periodicidad de las cuotas, atendido el monto del mismo y su naturaleza.
 
 Las facilidades de pago se establecerán en un convenio de pago tipo que preparará la Asesoría Jurídica Municipal, el que será suscrito por el deudor moroso y el Sr. Alcalde o el funcionario a quien se le haya delegado la facultad de suscribir dicho instrumento.
 
