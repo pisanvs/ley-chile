@@ -26,9 +26,9 @@ Quedarán exentos en forma automática del pago del 100% de la tarifa de aseo do
 
 1. Aquellos cuya vivienda o unidad habitacional a la que se otorga el servicio tenga un avalúo fiscal igual o inferior a las 225 Unidades Tributarias Mensuales.
 
-2. Aquellos cuyo grupo familiar esté integrado por discapacitado, enfermo catastrófico o postrado severo, siempre que mantenga Ficha de Protección Social (FPS) o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna.
+2. Aquellos cuyo grupo familiar esté integrado por discapacitado, enfermo catastrófico o postrado severo, siempre que mantenga Registro Social de Hogares (RSH) vigente en la comuna.
 
-3. Aquellos jefes(as) de hogar cuyo grupo familiar registre un puntaje en la Ficha de Protección Social igual o inferior a 8.500 puntos, o aquel puntaje que en el futuro refleje el 1º quintil de vulnerabilidad.
+3. Aquellos jefes(a) de hogar cuyo grupo familiar se encuentre comprendido en el Tramo 1 del Registro Social de Hogares, esto es, hogares calificados en el 40% de menores ingresos o mayor vulnerabilidad.
 
 #### Artículo 37
 
@@ -42,7 +42,7 @@ El procedimiento para otorgar la exención referida en el artículo anterior ser
 
 #### Artículo 38
 
-Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención total, siempre y cuando registren Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna y acrediten además alguno de los siguientes requisitos:
+Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención total, siempre y cuando mantengan Registro Social de Hogares, vigente en la comuna y acrediten además alguno de los siguientes requisitos:
 
 1. Pensionado, montepiado, jubilado o adulto mayor (mujer sobre 60 años y hombre sobre 65 años), jefe de hogar, cuyo ingreso mensual no sea superior a seis UTM.
 
@@ -50,7 +50,7 @@ Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere 
 
 #### Artículo 39
 
-Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención del 50% de su valor, siempre y cuando registren Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna y acrediten además el siguiente requisito: Jefe(a) de hogar cuyo grupo familiar registre un puntaje en la Ficha de Protección Social superior a 8.501 e inferior a 13.484 puntos, o el puntaje que en el futuro refleje el 2º o 3º quintil de vulnerabilidad.
+Los poseedores a cualquier título de un inmueble cuyo avalúo fiscal no supere las 500 UTM y que se encuentre afecto al pago de tarifa de aseo domiciliario, podrán solicitar la exención del 50% de su valor, siempre y cuando mantengan Registro Social de Hogares o el instrumento o indicador socioeconómico que lo reemplace, vigente en la comuna y acrediten además el siguiente requisito: Jefe(a) de hogar cuyo grupo familiar mantenga Registro Social de Hogares en los Tramos 1 (hogares calificados en el 40% de menores ingresos o mayor vulnerabilidad), 2 (hogares calificados entre el 41% y el 50% de menores ingresos o mayor vulnerabilidad) y 3 (hogares calificados entre el 51% y el 60% de menores ingresos o mayor vulnerabilidad).
 
 #### Artículo 40
 
@@ -58,7 +58,7 @@ Las personas que deseen beneficiarse de las exenciones referidas en los dos art�
 
 El benefició de exención total o parcial podrá ser renovado para el año siguiente a solicitud expresa del beneficiario y sólo se otorgará en el caso de mantenerse las condiciones. El otorgamiento de una exención total o parcial o su renovación será analizada e informada por la Dirección de Desarrollo Comunitario y por el Departamento de Rentas Municipales.
 
-Será causal de caducidad del beneficio la detección de falsificación en los datos entregados al municipio para solicitar la exención, el cambio de domicilio del beneficiario, la pérdida del requisito del puntaje de Ficha de Protección Social o el instrumento o indicador socioeconómico que lo reemplace, cuando no solicite su renovación y, en general, cuando el interesado pierda los requisitos que ameritaban la exención parcial o total.
+Será causal de caducidad del beneficio la detección de falsificación en los datos entregados al municipio para solicitar la exención, el cambio de domicilio del beneficiario, la pérdida del Tramo en el Registro Social de Hogares que lo beneficiaba, cuando no solicite su renovación y, en general, cuando el interesado pierda los requisitos que ameritaban la exención parcial o total.
 
 #### Artículo 41
 
