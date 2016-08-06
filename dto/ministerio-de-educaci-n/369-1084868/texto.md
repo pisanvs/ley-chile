@@ -1135,3 +1135,397 @@ OA 6
 Este objetivo, que apunta al espíritu crítico mediante el desarrollo de la apertura de mente, incluye las reflexiones propias de los y las estudiantes con respecto a sus experiencias musicales personales, la comprensión de los contextos, la relación con otras asignaturas así como el estudio y comprensión del rol que cumplen las personas que se dedican o se relacionan con la música a nivel profesional y en diferentes situaciones. El crecimiento se logrará mediante la profundidad de las reflexiones así como con la variedad de situaciones a las cuales se expondrán.
 
 .
+
+BASES CURRICULARES
+
+7° BÁSICO A 2° MEDIO
+
+ORIENTACIÓN
+
+UNIDAD DE CURRÍCULUM Y EVALUACIÓN
+
+MINISTERIO DE EDUCACIÓN
+
+JULIO 2015
+
+BASES CURRICULARES DE ORIENTACIÓN
+
+BASES CURRICULARES ORIENTACIÓN DE 7° BÁSICO A 2° MEDIO
+
+Introducción
+
+La Orientación como asignatura
+
+La Orientación se integra como un componente del currículum para establecer y promover propósitos formativos en áreas de desarrollo relevantes para la vida de las y los estudiantes y que deben ser logrados a lo largo de la educación escolar.
+
+El concepto de orientación presenta al menos dos acepciones. Si bien se encuentran relacionadas, es importante distinguirlas y especificar cuál de los sentidos fundamenta estas Bases Curriculares.
+
+Por una parte, la Orientación es un aspecto inherente al proceso educativo, presente en todas las asignaturas y experiencias de aprendizaje de las alumnas y los alumnos. Se trata de una línea de trabajo educativo que involucra las distintas áreas de acción al interior de un establecimiento, con el fin de favorecer el desarrollo de los recursos y potencialidades de los y las estudiantes y su crecimiento como seres individuales y sociales.
+
+Por otra parte, se entiende por Orientación una asignatura específica del currículum. Su función es fortalecer el desarrollo de los propósitos formativos en el área, pero con la particularidad de constituir un espacio privilegiado, y específicamente diseñado, para alcanzar estas metas de manera sistemática y planificada.
+
+Las Bases Curriculares que se presentan a continuación están elaboradas para la Orientación en el segundo sentido, es decir, en tanto asignatura que forma parte del currículum. No obstante, es necesario subrayar que esta, como propuesta, no agota ni absorbe la totalidad de ocupaciones y responsabilidades que la labor orientadora, como aspecto inherente al proceso educativo, debe desarrollar en cada institución escolar.
+
+Bajo el concepto de asignatura, Orientación está concebida como un espacio para que las y los estudiantes puedan elaborar y reflexionar en torno a aspectos y dimensiones relevantes y significativas en sus experiencias de vida. Esto involucra tanto los intereses, inquietudes y necesidades que las alumnas y los alumnos manifiesten como las condiciones, situaciones y experiencias que les planteen interrogantes o desafíos en términos de su bienestar y desarrollo personal, ético, social y/o afectivo.
+
+Al mismo tiempo, lo que confiere a la asignatura su especificidad consiste en que este tipo de aspectos deben ser abordados y elaborados bajo criterios pedagógicos y formativos consistentes con los objetivos que se definen para Orientación. Es decir, deben ser tratados en relación con un propósito de aprendizaje claro y coherente con las Bases Curriculares correspondientes.
+
+La asignatura de Orientación se incorpora como un componente del currículum escolar para contribuir al fortalecimiento del sentido formativo que la Ley General de Educación le confiere a la educación escolar, el que supone una noción de calidad amplia e integral. De acuerdo a esta ley, la educación es entendida como un "proceso de aprendizaje permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad alcanzar su desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico, mediante el cultivo de valores, conocimientos y destrezas"1.
+
+-----------------------------------------------------
+
+1 Ley General de Educación, art. 2
+
+Si bien la asignatura de Orientación contribuye a promover estas finalidades, no está concebida como la única instancia responsable de su logro. Se trata de propósitos generales de la educación cuya consecución está también asociada tanto a los demás componentes del currículum como a otros instrumentos o iniciativas relevantes dentro del sistema escolar, entre los que cabe destacar los Otros Indicadores de Calidad Educativa evaluados por la Agencia de Calidad2. La articulación entre las acciones desarrolladas en torno a estos distintos elementos resulta clave para establecer una oferta formativa consistente con una aproximación amplia e integrada de calidad educativa.
+
+Perfil de la y el estudiante
+
+Esta asignatura está formulada en función de una determinada visión, elaborada a partir de los propósitos generales de la educación, la cual se expresa en un perfil de estudiante hacia el cual están orientados los Objetivos de Aprendizaje planteados. Se trata entonces de un referente genérico que va marcando el sentido de estos objetivos y no de un perfil de egreso entendido en términos técnicos, es decir, como una descripción de competencias específicas a ser verificadas como logros de la asignatura.
+
+En particular, se busca promover aquellas condiciones que contribuyen a que las y los estudiantes, una vez terminada la educación escolar, hayan desarrollado las condiciones que les permiten conducir sus vidas y participar en sociedad de manera autónoma, asumiendo un rol activo en la definición de sus proyectos personales y en las decisiones relativas a su trayectoria.
+
+Parte importante de esta autonomía comprende la capacidad de ir construyendo y sosteniendo aproximaciones personales ante su propia vida y su entorno, lo que implica la toma de decisiones respecto de sí mismas y sí mismos y respecto de su participación en el entorno social. De igual forma, involucra asumir posturas personales y autónomas ante circunstancias, situaciones y dilemas a los que se pueden ver enfrentadas y enfrentados.
+
+Asimismo, la autonomía que busca promover la asignatura debe fundarse en un marco de principios y criterios básicos. No se trata de una autonomía entendida como desapego a referentes religiosos y sociales entre otros o compromisos, sino, por el contrario, se refiere a una autonomía ejercida en función del juicio y la toma de decisiones de cada individuo, sustentada en la responsabilidad personal. Esto supone tanto un compromiso consigo mismo, en función del propio bienestar y desarrollo, como con los otros y con los espacios de participación de los que forme parte.
+
+Estos lineamientos son elaborados contemplando como horizonte formativo el ejercicio de una autonomía que se despliega en sintonía con los principios y propósitos hacia los cuales se orienta la educación, es decir, en consideración del desarrollo del potencial de cada persona y de la posibilidad de vivir de manera plena, de la participación activa en una sociedad libre, democrática e inclusiva, y de la contribución que de manera responsable se realice al desarrollo del país.
+
+Por último, las Bases Curriculares de Orientación promueven las relaciones sociales e interpersonales de las y los estudiantes, intencionando la consistencia de estas con los principios relevantes para el desarrollo de la vida democrática. De esta forma, buscan el reconocimiento y valoración de la dignidad y equidad de derechos de todas las personas; la resolución pacífica de conflictos, considerando el diálogo y la escucha atenta hacia el otro, el involucramiento y la responsabilidad ante asuntos que convoquen a la comunidad de la que se es parte; y la participación y toma de decisiones democráticas.
+
+Función de acompañamiento de la profesora o el profesor jefe en la asignatura de Orientación
+
+El acompañamiento docente es toda acción realizada por el profesor o la profesora jefe que promueva tanto a nivel individual como comunitario el desarrollo de los alumnos y las alumnas en tanto seres individuales que pertenecen a una comunidad curso.
+
+Este desarrollo se enmarca dentro de los objetivos planteados por la educación y, en específico, en el rol del profesor o de la profesora jefe como orientador u orientadora del curso, para lo cual son fundamentales las habilidades personales que el o la docente desarrolle y despliegue en el cumplimiento de esta labor.
+
+Las estrategias de acompañamiento se organizan y despliegan en forma dinámica. Estas estrategias deben sustentarse en un diagnóstico del grupo y de cada estudiante en particular, en el que se detecten y analicen fortalezas y debilidades, así como en la Misión del establecimiento expresada mediante su Proyecto Educativo Institucional.
+
+Es importante señalar que el propósito del acompañamiento y, por tanto, el rol específico de la o el docente en este proceso es desplegar y desarrollar los objetivos planteados por el currículum de Orientación y constituirse así en una práctica que permite el logro de estos.
+
+-------------------------------------------
+
+2 Los Otros Indicadores de Calidad Educativa evaluados por la Agencia de Calidad son Autoestima académica y motivación escolar, Clima de convivencia escolar, Participación y formación ciudadana, Hábitos de vida saludable, Asistencia escolar, Retención escolar, Equidad de género y Titulación técnico-profesional.
+
+A nivel individual, las acciones que implican el acompañamiento docente se relacionan con la observación de cada estudiante: el conocimiento de la etapa de desarrollo que enfrenta, sus metas, sus desafíos, su realidad particular y su relación con el aprendizaje.
+
+En este sentido, establecer una relación de confianza a nivel personal, así como ser un comunicador empático y efectivo, posibilita desarrollar una consejería orientada a los procesos de crecimiento y cambio que facilita que el alumno y la alumna adquiera mayor y mejor conocimiento de sí mismo y de sus posibilidades de desarrollo y cambio. Por tanto, la capacidad comunicativa y orientadora de la o el docente es una habilidad fundamental para el logro de estos propósitos.
+
+Los medios posibles de utilizar en el acompañamiento individual son las entrevistas y conversaciones personales con cada estudiante, así como con otras y otros docentes involucrados en el proceso de enseñanza, y la comunicación con las familias, con las que se espera establecer una relación de colaboración que integre a los padres o cuidadores responsables de los alumnos y las alumnas en forma activa y efectiva en el proceso de desarrollo personal.
+
+Lo anterior implica que el o la docente debe construir acuerdos con todos los involucrados, generar alianzas y definir en conjunto caminos posibles de desarrollo basados en los recursos personales, además de mediar en las dificultades que puedan surgir, acompañando en la búsqueda de soluciones efectivas.
+
+A nivel grupal, el acompañamiento de la profesora o el profesor jefe está orientado al crecimiento y desarrollo de la comunidad, mediante la observación y orientación de los intereses y motivaciones del grupo, así como de sus dificultades y conflictos.
+
+Es por medio de esta orientación que el curso despliega su capacidad de autorganizarse, desarrolla su originalidad como grupo y genera relaciones inclusivas que valoran y respetan la diversidad y el aporte de cada estudiante al grupo en su totalidad. Esto último es la base para resguardar el respeto a los derechos de cada uno.
+
+Las acciones vinculadas al acompañamiento a nivel grupal se relacionan con la conducción directa, por parte de la o el docente, de la Orientación como asignatura. De esta manera, la profesora o el profesor debe desarrollar este espacio en forma planificada y sistemática, acompañar el Consejo de curso y retroalimentar los procesos de aprendizaje, las metas y los desafíos propuestos a nivel grupal de manera permanente, para que el curso desarrolle sus potencialidades como grupo.
+
+Asimismo, las jornadas, en cuanto a instancias de reflexión, son un medio propicio para que el curso se observe a sí mismo, evaluando sus metas y replanteándose caminos de desarrollo acorde a su etapa vital. De esta manera, son espacios que facilitan el diseño y evaluación de acciones que promueven la formación y participación activa de los y las estudiantes en su proceso de crecimiento.
+
+Lo anterior implica una gran responsabilidad y, al mismo tiempo, una oportunidad para generar prácticas que faciliten el ejercicio del rol de la profesora y el profesor jefe como educadores que sostienen y propician el desarrollo integral tanto de cada estudiante como de los cursos que tienen a cargo.
+
+Enfoque de la asignatura
+
+Las Bases Curriculares de Orientación están construidas sobre nociones y consideraciones básicas, las que se exponen a continuación.
+
+1. La y el estudiante entendido como ser social e individual: la asignatura busca favorecer el desarrollo de las alumnas y los alumnos considerando que son sujetos que se reconocen como individuos, pero que a la vez poseen un carácter social que los constituye como tales. Es decir, se asume que su desarrollo involucra tanto una esfera individual como una social.
+
+El reconocimiento y distinción de estos dos ámbitos resulta relevante para identificar los desafíos formativos que asume la asignatura. No obstante, el reconocerlos no implica una visión de ellos como elementos de naturaleza contrapuesta ni como dimensiones paralelas y diferenciadas; por el contrario, se asume que están configurados articuladamente y que el desarrollo de uno de ellos involucra aspectos asociados al otro.
+
+2. Carácter promotor y preventivo de la asignatura: las Bases Curriculares de la asignatura tienen un carácter principalmente promotor y formativo, es decir, están concebidas con el propósito de favorecer el desarrollo integral de las y los estudiantes. No obstante, los aprendizajes definidos para Orientación tienen al mismo tiempo una naturaleza preventiva y protectora ante conductas y situaciones de riesgo que dificultan o alteran el bienestar de las alumnas y los alumnos y de quienes les rodean. Esto implica que, si bien el horizonte final en torno al cual se articula la asignatura consiste en promover el desarrollo pleno en los ámbitos personal, social y ético, este se complementa con el fortalecimiento de herramientas para enfrentar eventuales riesgos y desafíos a los que las y los estudiantes se pueden ver expuestos.
+
+3. Integración de conocimientos, habilidades y actitudes: los Objetivos de Aprendizaje de la asignatura involucran la integración de conocimientos, habilidades y actitudes. No obstante, estos no se configuran como una simple suma o agregación de estas tres dimensiones, sino que se integran para conformar el objetivo como una sola unidad. De esta forma, conocimientos, habilidades y actitudes constituyen más bien ámbitos involucrados en un mismo propósito, lo que favorece la formación integral de la persona3.
+
+Énfasis de la asignatura
+
+Como se afirmó previamente, la asignatura contempla ciertos horizontes formativos generales. Estos son considerados referentes en función de los cuales se encauzan los propósitos de aprendizaje, en razón de su relevancia para concebir el desarrollo de las y los estudiantes en tanto sujetos individuales y seres sociales.
+
+Los énfasis considerados para la asignatura de Orientación son los siguientes:
+
+1. Formación en perspectiva de Derechos Humanos: los Derechos Humanos suponen un marco de principios y orientaciones éticas que orientan el desarrollo individual y social que se promueve por medio de Orientación.
+
+Desde el punto de vista de la formación en Derechos Humanos, la principal contribución de la asignatura consiste en promover que las y los educandos, de manera creciente, se vinculen con otras personas y con su entorno social cotidiano en coherencia con estos principios y que los pongan en práctica de manera consciente como referentes para su acción y para el ejercicio de su propio juicio. De esta forma, la asignatura aspira a que desarrollen una aproximación hacia sus experiencias de vida y hacia su realidad social en forma coherente con los criterios de igualdad de derechos y dignidad, inclusión y no discriminación. Esto supone la intencionalidad de actuar de manera consciente en base a estos criterios y de evaluar las situaciones que pueden constatar en su entorno y en su propia experiencia sobre la base de estos criterios, considerando, además, tanto el resguardo de su dignidad y sus derechos como los de otras personas o grupos.
+
+Por lo tanto, el foco de la asignatura está puesto en que las y los estudiantes desplieguen estos criterios como marcos y referentes de acción para sus vidas. Aquellos aprendizajes orientados específicamente a la comprensión y dominio de las bases conceptuales, históricas y éticas relevantes para la formación en Derechos Humanos son desarrollados mediante otros componentes del currículum.
+
+2. Contribución a la formación ciudadana: este énfasis es adoptado tomando en consideración que la formación para la ciudadanía no se inscribe exclusivamente en los aprendizajes a desarrollar en Orientación.
+
+En este sentido, cabe señalar que el aporte que se realiza desde la asignatura a la formación ciudadana trasciende el formato de aprendizajes referidos a contenidos conceptuales, ya que consiste en promover que las y los estudiantes desarrollen y valoren formas de convivencia y relaciones interpersonales cotidianas consistentes con los principios asociados a la vida democrática.
+
+Específicamente, la asignatura de Orientación busca contribuir a que en sus espacios de participación directa, las y los estudiantes puedan desarrollar formas de relacionarse, organizarse y participar que resulten afines con los procesos de deliberación, debate, toma de decisiones y respeto por los acuerdos que forman parte de la participación democrática. Al mismo tiempo, desde la asignatura se busca desarrollar un sentido de pertenencia, involucramiento y compromiso con los espacios de participación de los que forman parte, incorporando en esto el sentido de responsabilidad para con estos escenarios y las personas que los conforman.
+
+Pese a que en el presente contexto estas formas de participación son promovidas en función del quehacer en situaciones escolares o próximas, la asignatura intenciona también una proyección progresiva hacia espacios sociales de mayor amplitud. De esta forma, se busca contribuir a generar condiciones para una posterior participación de las y los estudiantes en la vida pública como ciudadanos en ejercicio pleno de derechos de una manera consistente con los principios pertinentes para el mantenimiento y desarrollo de la democracia.
+
+-------------------------------------------
+
+3 Por este motivo, a diferencia de otras asignaturas, en el caso de Orientación no se presenta un listado en el que se especifique de manera separada e independiente los distintos conocimientos, habilidades y actitudes relacionadas con la asignatura. Realizar una presentación de estos tres tipos de elementos de una manera independiente unos de otros implicaría desvirtuar el sentido que estos tienen dentro de Orientación.
+
+4 Al igual que lo señalado en torno a la óptica de derechos humanos, la contribución que se realiza desde orientación a la formación ciudadana presenta una condición de complementariedad especialmente relevante con la asignatura Historia, Geografía y Ciencias Sociales
+
+3. Elaboración de procesos asociados con la pubertad y la adolescencia: la asignatura de Orientación busca contribuir al desarrollo de aprendizajes relevantes para que las y los estudiantes enfrenten los procesos y desafíos vinculados a la pubertad y adolescencia. De esta forma, se propicia por medio de esta propuesta que puedan abordar de manera comprensiva las transformaciones asociadas a la sexualidad y a la afectividad, que reconozcan sus diversas dimensiones y expresiones y que aborden de manera reflexiva e informada las interrogantes y dilemas asociadas a estos ámbitos.
+
+Al mismo tiempo, se busca que construyan aprendizajes relevantes desde el punto de vista de los procesos que se despliegan en la adolescencia en torno a la elaboración y el desarrollo de la propia identidad. La adolescencia constituye un período clave en la dinámica de conformación de la misma, en tanto las personas comienzan a buscar respuestas personales respecto de "quién ser", "dónde quiero llegar", "qué hacer" y "con quién hacerlo". La asignatura de Orientación promueve que lleven a cabo procesos involucrados en dar respuestas a estas interrogantes, elaborando visiones comprensivas de sí mismos sustentadas en la integración de las diversas dimensiones y ámbitos de la vida. En igual sentido, la asignatura busca favorecer a que las y los estudiantes desarrollen de manera comprensiva y reflexiva proyecciones de sí mismas y sí mismos hacia el futuro, lo que facilita la toma de diversas decisiones que deben enfrentar dada la etapa en la que se encuentran.
+
+De esta manera, la Orientación contribuye a un proceso de aprendizaje continuo, a la construcción del proyecto de vida de la y el estudiante, pues este se forja a partir del propósito personal que cada una y cada uno se propone en diferentes ámbitos de la vida con el fin de desarrollarse. De este modo, las decisiones que se toman en el día a día durante la adolescencia constituyen el camino por el cual se materializa el proyecto vital durante este período.
+
+4. Compromiso con el bienestar: la asignatura de Orientación busca aportar al desarrollo, adopción y promoción de estilos de vida saludables. Esto implica incentivar prácticas cotidianas que fortalezcan el bienestar y el crecimiento. Al mismo tiempo, las Bases Curriculares procuran el desarrollo de conocimientos y habilidades que contribuyan a hacer frente a situaciones de riesgo ante las cuales las y los estudiantes se pueden ver expuestos. Bajo la óptica adoptada en la asignatura, este compromiso con el bienestar no se entiende exclusivamente en función de la preocupación y responsabilidad de cada individuo respecto de las condiciones que refieren a su propia vida, sino que considera, además, un compromiso con el bienestar de otras personas o conjuntos de personas.
+
+Lo anterior es abordado en las Bases de esta asignatura contemplando que en la etapa de la adolescencia aumenta la exposición a circunstancias de riesgo de distinto tipo, ya sea relacionadas con el consumo de sustancias, conductas de carácter violento, conductas sexuales riesgosas o situaciones de otro orden que pueden afectar la integridad de las y los estudiantes. Esto hace que en esta etapa del ciclo vital cobre relevancia desarrollar estrategias de afrontamiento y habilidades personales que les posibiliten tomar decisiones orientadas hacia el bienestar propio y el de los demás.
+
+Organización curricular
+
+Ejes
+
+Las Bases Curriculares de Orientación establecen Objetivos de Aprendizaje que se organizan en cinco ejes temáticos. El ordenamiento en torno a estos ejes responde al propósito de agrupar los aprendizajes en función de su afinidad en los ámbitos involucrados.
+
+Mediante el conjunto de aprendizajes establecidos para estos cinco ejes, las Bases Curriculares definen los propósitos específicos que se espera lograr en consideración de los horizontes y lineamientos formativos generales de la asignatura.
+
+Crecimiento personal
+
+Este eje promueve el desarrollo de las y los estudiantes por medio del reconocimiento de que cada uno de ellos es un individuo único, original y valioso que crece en contacto con una comunidad, y que tiene las facultades de conocerse, y la capacidad de proyectarse y de superarse tomando en cuenta sus capacidades y limitaciones.
+
+Un primer aspecto de este eje es el conocimiento progresivo de sí mismo y de sí misma, que permite al y a la estudiante desarrollar una visión integrada de quién es, considerando cada ámbito de su vida. Con esta finalidad, los Objetivos de Aprendizaje de este eje fomentan la reflexión sobre su historia, lo que vive actualmente y sus proyecciones a futuro, lo que favorece el logro de una identidad integrada y la construcción de un proyecto de vida acorde a esta.
+
+Un segundo elemento contemplado en este eje se refiere a la vida afectiva, con especial atención en la sexualidad. Los objetivos establecidos en relación con este aspecto buscan favorecer una aproximación hacia la sexualidad y la vida afectiva de manera comprensiva, atendiendo a consideraciones y criterios relevantes en función del desarrollo personal, así como del respeto, responsabilidad y cuidado de sí mismo y de los otros.
+
+Bienestar y autocuidado
+
+Este eje temático promueve estilos de vida saludable, en atención al bienestar de las y los estudiantes, entendiendo la salud como el completo estado de bienestar biopsicosocial y espiritual, y no solo la ausencia de enfermedad. De este modo, se promueve una forma educativa de potenciar la salud, en forma propositiva y con decisiones factibles de realizar.
+
+Esta dimensión supone que las y los estudiantes pueden asumir de manera responsable las opciones por su propio bienestar y las competencias para favorecer el autocuidado, considerando las consecuencias de sus acciones, tanto a corto como a largo plazo. Para lograrlo, los Objetivos de Aprendizaje definen propósitos en torno a capacidades y actitudes esperadas para llevar a cabo líneas de acción que favorezcan este estilo de vida saludable.
+
+Por otra parte, este eje temático contempla también Objetivos de Aprendizaje orientados al desarrollo de condiciones que les posibiliten enfrentar situaciones de riesgo, especialmente aquellas que pueden resultar de mayor relevancia en la adolescencia, la que se caracteriza por ser una etapa de exploración y experimentación. Entre estas situaciones de riesgo se destacan la violencia, el consumo de sustancias y las conductas sexuales riesgosas, y se espera que cada establecimiento aborde aquellas que tengan una mayor prevalencia y relevancia en su contexto particular, para responder así a las necesidades específicas de su realidad5.
+
+Relaciones interpersonales
+
+Los objetivos de este eje se focalizan en aquellas relaciones en las que participan las y los estudiantes con otras personas y que se manifiestan en distintos ámbitos de su vida, ya sea en el espacio escolar como en el comunitario, familiar u otros. Al mismo tiempo, involucra aquellas relaciones que se establecen mediante redes de comunicación virtual. Este eje está orientado a promover relaciones interpersonales conforme a criterios y modalidades consistentes con la observancia del respeto por la dignidad y los derechos de otras personas y de sí mismos, y que involucren a la vez formas pacíficas de vincularse con otros.
+
+Por un lado, los Objetivos de Aprendizaje de este eje promueven la disposición y sensibilidad para analizar interacciones en función de su consistencia con los principios vinculados a los Derechos Humanos. Estos Objetivos promueven también la comprensión de la relevancia de asumir compromisos y desafíos ante situaciones que no son consistentes con el bienestar propio y de los demás, con el respeto por la dignidad de todo ser humano, la valoración de la diversidad, el reconocimiento de la equidad de derechos y con el respeto y ejercicio de los Derechos Humanos.
+
+Por otro lado, se promueve como parte de este eje la resolución de los conflictos interpersonales de manera constructiva. Así, se reconoce que los conflictos y las diferencias de opinión son inherentes a las interacciones humanas y se propicia una resolución positiva de dichos conflictos por medio de la cual se favorezca la convivencia pacífica. Para lograr lo anterior, los Objetivos de la asignatura promueven habilidades de diálogo, empatía y reciprocidad, además de la valoración de compromisos y acuerdos que cautelen los intereses de todas las partes involucradas.
+
+Pertenencia y participación democrática
+
+Este eje desarrolla el sentido de pertenencia e involucramiento de las y los estudiantes en los espacios sociales de los que forman parte y fomenta el compromiso y responsabilidad ante estos. Para tales efectos, este eje promueve la capacidad de insertarse en estos espacios por medio del desarrollo de herramientas y estrategias que permitan la integración responsable, activa y democrática de las alumnas y los alumnos, demostrando respeto por los otros y por los acuerdos tomados.
+
+En primer lugar, los Objetivos de Aprendizaje de este eje procuran que las y los estudiantes comprendan que forman parte de espacios y contextos sociales que los trascienden, pero que a la vez se ven configurados por la participación y contribución de cada uno de sus miembros. En esta línea, los Objetivos de Aprendizaje favorecen una actitud de interés y sensibilidad ante los asuntos de carácter público, promoviendo, al mismo tiempo, una participación e involucramiento activo por medio de la realización de acciones y la adopción de compromisos de participación en sus espacios de acción cotidianos.
+
+----------------------------------------------
+
+5 Cabe destacar que, si bien se entregan pautas generales sobre diversas temáticas, Orientación no constituye en sí misma un programa para la prevención de las conductas de riesgo mencionadas. Es decir, la instalación de estos temas en el eje de Bienestar y Autocuidado sienta las bases para la discusión y trabajo formativo sobre el tema, pero se reconoce que, si se busca trabajar contenidos en una mayor profundidad, cada establecimiento educacional deberá implementar programas específicos y contextualizados con el fin de abordar los Objetivos de Aprendizaje de este eje.
+
+En segundo lugar, el eje promueve la capacidad creciente de los y las estudiantes de organizar y tomar de manera autónoma decisiones en los espacios de participación en los que se encuentran inmersos, sobre la base de procedimientos y formas de participación propias de la convivencia democrática, es decir, garantizando el respeto por la dignidad de todas las personas y la búsqueda de acuerdos y toma de decisiones por medio del diálogo y la deliberación. Al mismo tiempo, estos Objetivos de Aprendizaje buscan promover la participación democrática mediante el reconocimiento e involucramiento de las instancias de participación o representación existentes para las y los educandos, y así desarrollar la capacidad de organizarse y de llevar a cabo iniciativas de manera colaborativa y comprometida.
+
+Gestión y proyección del aprendizaje
+
+Este eje promueve el desarrollo de hábitos y actitudes que favorecen el aprendizaje y que son relevantes para el desarrollo intelectual y académico de las y los estudiantes, lo que les permite la exploración y el esclarecimiento vocacional. A la vez, suscita que comiencen a establecer relaciones entre la manera de enfrentar sus estudios y sus responsabilidades y las proyecciones que esta tarea tiene en relación con su proyecto de vida.
+
+En específico, se busca que, en educación media, las alumnas y los alumnos sean capaces de establecer metas de aprendizaje y monitorear sus logros demostrando un compromiso y rol activo en su aprendizaje personal, empleando estrategias específicas para facilitarlo, tanto para satisfacer sus intereses como los propósitos del aprendizaje escolar, y recurriendo a distintas fuentes y vías posibles de información. Esta autonomía creciente en relación con el aprendizaje cobra aún más relevancia en los cursos más avanzados, en que este se instala como un medio importante para definir las opciones académicas y laborales en las que se visualizan a futuro, definiendo así una dimensión importante del proyecto de vida que asumirán.
+
+En este sentido, se promueve la valoración del aprendizaje y del esfuerzo, considerando el papel central que ambos juegan en la realización personal, en tanto posibilitan los proyectos de vida, el desarrollo de los intereses y la integración de dichos aspectos en el concepto que tienen de sí mismos. Así, este eje fomenta la reflexión sobre las posibilidades futuras, como también el reconocimiento del aprendizaje como un medio privilegiado para lograrlas.
+
+Dado que las y los estudiantes de 1° y 2° medio están próximos a comenzar experiencias educativas diferenciadas según sigan la modalidad artística, técnico-profesional o humanista-científica, es necesario considerar en qué sentido los aprendizajes de este eje resultan relevantes en estos contextos educativos.
+
+Para estos efectos, es clave considerar las posibles direcciones o rumbos que dicho recorrido formativo adopte. Al mismo tiempo, resulta necesario que las y los estudiantes reconozcan que la construcción de este proyecto supone dinámicas de aprendizaje ante las cuales deben asumir un compromiso no solo en la educación escolar, sino que también a lo largo de la vida laboral y de eventuales estudios futuros.
+
+En directa relación con esto, se espera que esta asignatura contribuya a que las y los estudiantes comiencen a elaborar una visión respecto de su posible proyecto de vida y a comprender la relación que existe entre la construcción de este, sus aprendizajes y la manera personal de comprometerse con su desarrollo.
+
+Consideraciones sobre la implementación
+
+Dado que Orientación tiene algunas características que la distinguen de las demás asignaturas que forman parte del currículum, es necesario plantear algunas precisiones relativas a su implementación.
+
+Rol de la o el docente a cargo de la asignatura y lugar del Consejo de curso
+
+La asignatura de Orientación que se establece en estas Bases Curriculares no requiere de recursos tecnológicos adicionales a los que ya existen en los establecimientos, sin embargo, considera contemplar espacios formativos para que el o la profesional a cargo (normalmente el profesor o la profesora jefe) ejerza las funciones de acompañamiento y apoyo a las y los estudiantes ante los diversos desafíos, dilemas y experiencias a las que se ven enfrentados.
+
+La labor de acompañamiento es el proceso mediante el cual este o esta profesional lleva a cabo funciones, tanto a nivel individual con cada alumno y alumna como a nivel grupal con el curso, que facilitan el desarrollo integral de los y las estudiantes, en tanto personas en proceso de formación y en tanto grupo con características propias y originales.
+
+El acompañamiento requiere del desarrollo de habilidades personales, como la generación de una relación basada en la confianza y la capacidad de comunicarse de manera efectiva y empática, lo que facilita que las acciones adoptadas para los propósitos de conducción tengan más posibilidades de generar las condiciones para el logro de los propósitos formativos de la asignatura (Anexo 3).
+
+Algunas acciones que involucra el proceso de acompañamiento se relacionan con entrevistas personales a las y los estudiantes, a sus familiares o a profesionales vinculados con el curso.
+
+A su vez, la promoción y desarrollo del grupo curso implica acciones que promuevan la autogestión, la reflexión y el conocimiento de intereses y motivaciones grupales que faciliten el desarrollo de habilidades, actitudes, valores y fortalezas propias del curso.
+
+De esta manera, la asignatura se constituye como un espacio para el desarrollo de propósitos de participación y convivencia tradicionalmente asociados al Consejo de curso. No obstante, cabe señalar que cada institución escolar es libre de otorgar espacios de tiempo diferenciados para estos dos ámbitos, ya sea utilizando tiempo de libre disposición o alternando el uso de los tiempos establecidos para la asignatura.
+
+La labor de acompañamiento y apoyo que supone la asignatura de Orientación debe ser concebida sin perder de vista que uno de sus propósitos centrales consiste en favorecer progresivamente la autonomía de las y los estudiantes. Esto significa que el y la docente deben modular los niveles de autorregulación y soporte que entreguen de acuerdo a las necesidades formativas de las y los jóvenes y al nivel de desarrollo que posean respecto de las herramientas que promueve la asignatura. De esta forma, se espera que las profesoras y los profesores entreguen espacios crecientes de libertad y autogestión, en la medida que se hayan ido desarrollando los conocimientos, habilidades y criterios, por medio del trabajo guiado y del acompañamiento responsable.
+
+Articulación con otras asignaturas, iniciativas e instancias de trabajo formativo
+
+Orientación promueve aprendizajes directamente relacionados con los Objetivos de Aprendizaje Transversal (OAT), lo que facilita la articulación con otras asignaturas, instancias y líneas de trabajo llevadas a cabo en el establecimiento, constituyendo un elemento central para la implementación de la asignatura. Por ello resulta de vital importancia que la labor docente sea el resultado de un trabajo conjunto y colaborativo con otros equipos y profesionales de la institución escolar, tales como orientador, encargado de convivencia escolar, equipos de apoyo psicosocial y coordinador CRA, entre otros. Esto permitirá contar con los apoyos de articulación y con las orientaciones profesionales necesarias, para poder enmarcar la labor realizada dentro de los lineamientos estratégicos y formativos adoptados por el establecimiento.
+
+Así también la asignatura de Orientación busca promover y resaltar por sobre todo ámbitos preventivos y formativos que pudieran ser complementarios a otras líneas de trabajo, iniciativas o proyectos que se estén desarrollando dentro de la institución. En atención a esto, resulta clave configurar el trabajo en la asignatura de manera que opere en forma articulada con estas instancias cuando sus propósitos y actividades se intersecten con los de Orientación. Ante este tipo de situaciones, las Bases de Orientación deben ser consideradas como un instrumento flexible que reconoce que, en determinadas ocasiones, algunos de sus Objetivos de Aprendizaje pueden estar siendo desarrollados en otras asignaturas, por ejemplo, en Educación Física y Salud, con respecto a la promoción del bienestar y autocuidado; Biología, en cuanto a la formación en educación afectiva y sexual; Historia, Geografía y Ciencias Sociales, desde la mirada de fomentar el sentido de pertenencia y formación ciudadana; entre otras, así como mediante otras instancias o iniciativas específicas. En estos casos, las instituciones no deben considerarse obligadas a cubrir en el contexto de la asignatura de Orientación aquellos Objetivos de Aprendizaje que estén siendo promovidos en algún espacio distinto. No obstante, este es un espacio de flexibilidad que puede hacerse efectivo solo en tanto el establecimiento ofrezca garantías de contar con oportunidades pedagógicas que faciliten el logro de dichos aprendizajes en contextos distintos del de Orientación.
+
+Evaluación
+
+La evaluación de aprendizajes constituye un aspecto relevante dentro del proceso de formación en Orientación. Esta evaluación debe ser desarrollada con una finalidad formativa. Esto implica que la evaluación debe cumplir la función de proveer información relevante respecto del proceso de aprendizaje de las y los estudiantes en relación con los Objetivos de Aprendizaje planteados en las Bases, con el fin de reconocer sus necesidades formativas y, sobre esta base, entregar la retroalimentación necesaria para adoptar decisiones pedagógicas pertinentes.
+
+No obstante, en esta asignatura la evaluación no debe estar asociada a una calificación que incida en el promedio ni en la promoción de las alumnas y los alumnos hacia cursos posteriores. Esto se debe a que los aprendizajes de Orientación involucran procesos personales y actitudinales y no solo el dominio de conocimientos y habilidades. Se trata, por lo tanto, de procesos que pueden ser desarrollados de acuerdo a distintos ritmos que no es oportuno forzar y que, en último término, éticamente no corresponde que se impongan como exigencias de logro para la calificación o promoción escolar.
+
+7° y 8° básico | ORIENTACIÓN
+
+OBJETIVOS DE APRENDIZAJE
+
+EJE CRECIMIENTO PERSONAL
+
+(OA 1)
+
+Construir en forma individual y colectiva representaciones positivas de sí mismos, incorporando sus características, motivaciones, intereses y capacidades, y considerando las experiencias de cambio asociadas a la pubertad y adolescencia.
+
+(OA 2)
+
+Analizar, considerando sus experiencias e inquietudes, la importancia que tiene para el desarrollo personal la integración de las distintas dimensiones de la sexualidad, el cuidado del cuerpo y la intimidad, discriminando formas de relacionarse en un marco de respeto y utilizando fuentes de información apropiadas para su desarrollo personal.
+
+EJE BIENESTAR Y AUTOCUIDADO
+
+(OA 3)
+
+Identificar situaciones que puedan exponer a las y los adolescentes al consumo de sustancias nocivas para el organismo, conductas sexuales riesgosas, conductas violentas, entre otras problemáticas, reconociendo la importancia de desarrollar estrategias para enfrentarlas, y contar con recursos tales como la comunicación asertiva y la ayuda de personas significativas y/o especializadas, dentro o fuera del establecimiento.
+
+(OA 4)
+
+Integrar a su vida cotidiana acciones que favorezcan el bienestar y la vida saludable en el plano personal y en la comunidad escolar, optando por una alimentación saludable y un descanso apropiado, realizando actividad física o practicando deporte, resguardando la intimidad e integridad del cuerpo e incorporando medidas de seguridad en el uso de redes sociales, entre otros.
+
+EJE RELACIONES INTERPERSONALES
+
+(OA 5)
+
+Analizar sus relaciones, presenciales o virtuales por medio de las redes sociales, y las de su entorno inmediato atendiendo a los derechos de las personas involucradas, considerando los principios de igualdad, dignidad, inclusión y no discriminación, identificando circunstancias en las que no se ha actuado conforme a estos derechos y reconociendo el impacto en el bienestar de quienes se vean involucrados.
+
+(OA 6)
+
+Resolver conflictos y desacuerdos mediante el diálogo, la escucha empática y la búsqueda de soluciones en forma respetuosa y sin violencia, reconociendo que el conflicto es una oportunidad de aprendizaje y desarrollo inherente a las relaciones humanas.
+
+EJE PERTENENCIA Y PARTICIPACIÓN DEMOCRÁTICA
+
+(OA 7)
+
+Reconocer intereses, inquietudes, problemas o necesidades compartidas con su grupo de pertenencia, ya sea dentro del curso u otros espacios de participación, y colaborar para alcanzar metas comunes valorando el trabajo en equipo y los aportes de cada uno de sus miembros.
+
+(OA 8)
+
+Elaborar acuerdos orientados al logro de fines compartidos por el curso utilizando los espacios de participación disponibles, como Consejo de curso, asambleas, encuentros u otros, contribuyendo democráticamente mediante el diálogo, el debate y el reconocimiento de representantes democráticamente electos, y respetando la diversidad de opiniones y el derecho de hombres y mujeres.
+
+EJE GESTIÓN Y PROYECCIÓN DEL APRENDIZAJE
+
+(OA 9)
+
+Reconocer sus intereses, motivaciones, necesidades y capacidades, comprendiendo la relevancia del aprendizaje escolar sistemático tanto para la exploración y desarrollo de estos como para la elaboración de sus proyectos personales.
+
+(OA 10)
+
+Gestionar de manera autónoma su propio proceso de aprendizaje escolar por medio del establecimiento de metas progresivas de aprendizaje, la definición de líneas de acción para lograrlas, el monitoreo de logros y la redefinición de acciones que resulten necesarias.
+
+1° y 2° medio | ORIENTACIÓN
+
+OBJETIVOS DE APRENDIZAJE
+
+EJE CRECIMIENTO PERSONAL
+
+(OA 1)
+
+Comparar distintas alternativas posibles de su proyecto de vida, en los ámbitos laboral, familiar u otros, considerando sus intereses, condiciones, capacidades y la manera en que las propias decisiones y experiencias pueden influir en que estas alternativas se hagan realidad.
+
+(OA 2)
+
+Analizar de manera fundamentada temáticas y situaciones relacionadas con la sexualidad y los vínculos afectivos, en función de valores como el respeto hacia todo ser humano, la responsabilidad y el cuidado de sí mismo y de los demás, considerando el resguardo de la salud, la intimidad, la integridad física y emocional.
+
+EJE BIENESTAR Y AUTOCUIDADO
+
+(OA 3)
+
+Evaluar, en sí mismo y en su entorno, situaciones problemáticas y/o de riesgos relacionadas con el consumo de sustancias, conductas sexuales riesgosas y la violencia, entre otros, e identificar y recurrir a redes de apoyo a las que pueden pedir ayuda, como familia, profesores, instituciones de salud, centros comunitarios y fonos y páginas web especializadas, entre otros.
+
+(OA 4)
+
+Promover y llevar a cabo de manera autónoma acciones que favorezcan la vida saludable a nivel personal y social, manifestando interés y preocupación ante problemas y situaciones de su entorno y de sus vidas (cuidado de la alimentación, manejo adecuado del estrés, uso positivo del tiempo de ocio, prevención de riesgos y seguridad personal en situaciones cotidianas, entre otros).
+
+EJE RELACIONES INTERPERSONALES
+
+(OA 5)
+
+Promover en su entorno relaciones interpersonales constructivas, sean estas presenciales o por medio de las redes sociales, sobre la base del análisis de situaciones, considerando los derechos de las personas acorde a los principios de igualdad, dignidad, inclusión y no discriminación.
+
+(OA 6)
+
+Discriminar alternativas para la resolución de conflictos en un marco de derechos que promueva la búsqueda de acuerdos que beneficien a las partes involucradas y que impliquen el compromiso recíproco.
+
+EJE PARTICIPACIÓN Y PERTENENCIA
+
+(OA 7)
+
+Evaluar en su entorno social e institucional cercano, como curso, establecimiento, barrio u otro, instancias en las que pueda participar o contribuir a la resolución de problemáticas a partir del reconocimiento de sí mismo y de los demás como sujetos de derecho, considerando aspectos como el respeto por la dignidad, la diversidad, la equidad de género, la inclusión, la participación democrática, la justicia y el bienestar.
+
+(OA 8)
+
+Desarrollar iniciativas orientadas a promover el respeto, la justicia, el buen trato, las relaciones pacíficas y el bien común en el propio curso y la comunidad escolar, participando en instancias colectivas, como el Consejo de curso, órganos de representación estudiantil u otros, de manera colaborativa y democrática, mediante el diálogo y el debate respetuoso ante la diversidad de opiniones.
+
+EJE GESTIÓN Y DESARROLLO DEL APRENDIZAJE
+
+(OA 9)
+
+Contrastar diversos posibles caminos a seguir en el desarrollo de su proyecto de vida, tomando en cuenta distintas opciones laborales y académicas y reconociendo sus habilidades e intereses.
+
+(OA 10)
+
+Diseñar aspectos de su posible proyecto de vida considerando elementos como habilidades, motivaciones, metas personales, posibilidades y limitaciones, asumiendo el desafío de tomar decisiones coherentes con estos elementos y actuando, basándose en ellos, de manera perseverante y esforzada.
+
+Referencias bibliográficas
+
+Banz, C., Mena, I., Romagnoli, C. & Valdés, A. M. (2008). Convivencia escolar. Documento Valoras UC. Santiago de Chile: Pontificia Universidad Católica.
+
+Casullo, M. & Cayssials, A. (1994). Proyecto de Vida y Decisión Vocacional. Buenos Aires: Ediciones Paidós.
+
+Convención Sobre los Derechos del Niño, 1989. Aprobada por la Asamblea General de las Naciones Unidas el 20 de noviembre de 1989. Disponible en www.unicef.org
+
+Cox, C., Reimers, F. & Jaramillo, R. (2005). Educar para la Ciudadanía y la Democracia en las Américas: Una Agenda para la Acción. Washington D.C.: Banco Interamericano del Desarrollo.
+
+Cuadra, H. & Florenzano, R. (2003). Subjective Well-being: Towards a Positive Psychology. Revista de Psicología de la Universidad de Chile, Vol. XII, N°1, 83-96. Santiago de Chile, Disponible en www.revistapsicologia.uchile.cl/index.php/RDP/article/.../17380/18144.
+
+Decreto supremo Nº 91. Reglamenta asignación para Convivencia Escolar y Prevención del consumo de drogas. Diario Oficial de la República de Chile. Santiago, publicado el 28 de mayo 2011: Ministerio de Educación.
+
+Declaración de las Naciones Unidas Sobre Educación y Formación en Materia de Derechos Humanos 66/137-2011. Resolución aprobada por la Asamblea General de Naciones Unidas el 19 de diciembre de 2011.
+
+Declaración Universal de los Derechos Humanos. 1948. Aprobada por la Asamblea General de Naciones Unidas el 10 de diciembre de 1948: Ministerio de Educación.
+
+Decreto Supremo de Educación 232-2002. Objetivos Fundamentales y Contenidos Mínimos Obligatorios de la Educación Básica. Santiago, 17 de octubre de 2002: Ministerio de Educación Chile.
+
+Decreto Supremo 439-2012. Establece Bases Curriculares para la Educación Básica. Santiago, publicado el 28 de enero de 2012: Ministerio de Educación.
+
+Decreto Supremo 614-2013. Establece Bases Curriculares 7° y 8° básico - 1° y 2° medio. Santiago, publicado el 04 de marzo de 2014: Ministerio de Educación.
+
+García, J. Dewey, J. (1916/1995). Democracia y Educación. Madrid: Morata.
+
+Durlak, J., Weissberg, R., Schellinger, K., Dymnicki, A. & Taylor, R. (2011). The Impact of Enhancing Students' Social and Emotional Learning: A Meta Analysis of School Based universal Interventions. Child Development, 82(1), 405-432.
+
+Erikson, E. (2000). El Ciclo Vital Completado. Buenos Aires: Ed. Paidós.
+
+González, M.I. & Ramírez, L. (2011). Guía Práctica de Consejería para Adolescentes y Jóvenes. Orientaciones Generales. Santiago de Chile: Ministerio de Salud.
+
+Ley Nº 20.370. Ley General de Educación. Biblioteca del Congreso Nacional de Chile. Santiago, 12 de septiembre de 2009.
+
+Magendzo. (2007). Formación de Estudiantes Deliberantes para una Democracia Deliberativa. Revista electrónica Iberoamericana sobre Calidad, eficacia y Cambio en Educación. 5(4), 70-82, disponible en http: //www.rinace.net/arts/vol5num4/art4.htm.
+
+Circular Mineduc 600-2008. Lineamientos y directrices para promover el desarrollo de la Orientación en el sistema escolar. Ministerio de Educación. 18 de febrero de 1991.
+
+Gobierno de Chile. Ministerio de Educación. (2006). Conceptos Clave para la Resolución Pacífica de Conflictos en el Ámbito Escolar. Mineduc, Unidad de Apoyo a la Transversalidad.
+
+Gobierno de Chile. Ministerio de Educación y Unicef. (2009). Reuniones de Apoderados: Acercando a las Familias a la Escuela.
+
+Gobierno de Chile. Ministerio de Educación. (2014). Otros Indicadores de Calidad Educativa. Mineduc, Unidad de Currículum y Evaluación.
+
+Silva R, M. (2001). Sexualidad y Adolescencia. Santiago de Chile: Ed. Universidad Católica, Chile.
+
+Torrego, J. C. (Coordinador). (2006). Modelo Integrado de Mejora de la Convivencia. Estrategias de mediación y tratamiento de conflictos. Barcelona: Ed. Graó.
+
+Unesco. (2010). Orientaciones y Técnicas Internacionales sobre Educación en Sexualidad. UNESCO.
+
+Anexos
+
+Anexo
+
+Tabla de progresión de Objetivos de Aprendizaje
+
+..
+
+.
