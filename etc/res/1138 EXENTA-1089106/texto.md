@@ -50,8 +50,6 @@ b) Elimínase del cuadro inserto la siguiente fila:
 
 6.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N°1, de 2007, citado en vistos.
 
-7.- La vía exclusiva que por este acto se establece mantendrá su vigencia hasta el 6 de agosto de 2016 o hasta la fecha de término de las obras de remodelación indicadas, si ello ocurriere primero.
-
-8.- La presente resolución entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial.
+7.- La presente resolución entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
