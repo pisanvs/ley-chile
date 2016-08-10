@@ -1086,13 +1086,15 @@ No podrán ser candidatos a alcalde o a concejal:
 
 a) Los ministros de Estado, los subsecretarios, los secretarios regionales ministeriales, los intendentes, los gobernadores, los consejeros regionales, los parlamentarios, los miembros del consejo del Banco Central y el Contralor General de la República;
 
-b) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, así como los del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los miembros de las Fuerzas Armadas, Carabineros e Investigaciones, y
+b) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, de la Contraloría General de la República, así como los del Tribunal Constitucional, del Tribunal de Defensa de la Libre Competencia, del Tribunal de Contratación Pública, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los consejeros del Consejo para la Transparencia, y los miembros activos de las Fuerzas Armadas y de Orden y Seguridad Pública, y
 
 c) Las personas que a la fecha de inscripción de sus candidaturas tengan vigente o suscriban, por sí o por terceros, contratos o cauciones ascendentes a doscientas unidades tributarias mensuales o más, con la respectiva municipalidad. Tampoco podrán serlo quienes tengan litigios pendientes con la municipalidad, a menos que se refieran al ejercicio de derechos propios, de su cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive.
 
 Igual prohibición regirá respecto de los directores, administradores, representantes y socios titulares del diez por ciento o más de los derechos de cualquier clase de sociedad, cuando ésta tenga contratos o cauciones vigentes ascendentes a doscientas unidades tributarias mensuales o más, o litigios pendientes, con la municipalidad.
 
 Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva.
+
+> **Nota.** La modificación al Art. 74, letra b), dispuesta por el Art. 1º Nº 13 de la Ley 20742, publicada el 01.04.2014, regirá a contar de la fecha en que deban declararse las candidaturas a las elecciones municipales del año 2016, esto es, 1º de agosto del citado año.
 
 #### Artículo 75
 
@@ -1642,11 +1644,13 @@ Para determinar los candidatos elegidos en una lista que corresponda a un pacto 
 
 Posteriormente, se repetirá el procedimiento descrito en el artículo 122, considerando para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso, todo ello con el objeto de determinar el número de candidatos que elige cada integrante del pacto.
 
-Determinado el número que elige cada integrante del pacto electoral, se repetirá el procedimiento descrito en el artículo 123, para determinar quiénes son los candidatos electos de cada integrante del pacto, considerando también para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso. En el caso de un subpacto que incluya candidatos de uno o más partidos e independientes, los candidatos tendrán igual derecho de preferencia dentro del subpacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual.
+Determinado el número que elige cada integrante del pacto electoral, se repetirá el procedimiento descrito en el artículo 123, para determinar quiénes son los candidatos electos de cada integrante del pacto, considerando también para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso.
+
+No obstante lo dispuesto en los incisos precedentes, en el caso de una lista que consista en un pacto electoral suscrito entre un partido político y uno o más independientes, y siempre que en dicho pacto electoral no se incluyan subpactos, los candidatos tendrán igual derecho de preferencia dentro del pacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual. Asimismo, en el caso de un subpacto que incluya candidatos de uno o más partidos e independientes, los candidatos tendrán igual derecho de preferencia dentro del subpacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual.
 
 #### Artículo 125
 
-Las listas que incluyan pactos entre partidos políticos o subpactos podrán incluir una o más candidaturas independientes. Cuando un pacto electoral incluya la postulación de uno o más independientes, para los efectos de determinar los cargos a elegir en la lista los votos de cada candidato independiente, que no forme parte de un subpacto, se considerarán separada o individualmente, como si lo fueran de un partido político integrante del pacto.
+Las listas que incluyan pactos entre partidos políticos o subpactos podrán incluir una o más candidaturas independientes.
 
 #### Artículo 126
 
