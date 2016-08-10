@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE ISLA DE PASCUA"
+
+Mediante decreto exento N° E-336, de 25 de julio de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Isla de Pascua", RUT N° 69.061.800-1, el inmueble fiscal signado como Parte del Sitio s/n de la Manzana 39, ubicado en calle Ara Roa Rakei con calle Tu'u Koihu, del lugar denominado Hanga Roa Urbano, comuna y provincia de Isla de Pascua, Región de Valparaíso; amparado por inscripción global a nombre del Fisco que rola a fs. 1 N° 1, del Registro de Propiedad del Conservador de Bienes Raíces de Isla de Pascua, correspondiente al año 1966; singularizado en el Plano N° 05201-5.764-C.U.; con una superficie aproximada de 1.967 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para llevar a cabo remodelación de la edificación pública, donde funciona el Mercado Artesanal y la Oficina Comunal de la Mujer en el marco de un Convenio suscrito con el Servicio Nacional de la Mujer. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Jefe de División Jurídica.
