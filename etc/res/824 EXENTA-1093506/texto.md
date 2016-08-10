@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 824 EXENTA, DE 2016
+
+Mediante resolución exenta N° 824, de fecha 21.07.2016, de esta Secretaría Regional, se otorgó Reconocimiento Oficial a la Escuela de Conductores Profesionales o Clase A, denominada Escuela de Conductores Profesionales Patricio Osvaldo Guíñez Sandoval, RUT: 9.663.264-9, nombre de fantasía "Fénix Chile", representada legalmente por don Patricio Osvaldo Guíñez Sandoval, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A2, A3, A4 y A5. La Escuela de Conductores estará ubicada en 1 Norte, entre 11 y 12 Oriente, Nº 1803, Of. 3 y 4, Talca, y su taller mecánico en 22 Oriente Nº 1340, Talca.-
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
