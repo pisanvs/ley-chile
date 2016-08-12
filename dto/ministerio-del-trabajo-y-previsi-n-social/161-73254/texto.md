@@ -80,11 +80,19 @@ El Servicio de Bienestar podrá otorgar a sus afiliados y cargas familiares, los
 
 #### Artículo 9º
 
-El Servicio de Bienestar dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican: a) Matrimonio: Cuando el afiliado contraiga
+El Servicio de Bienestar dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-matrimonio. Si ambos contrayentes fuesen afiliados, la
+a) Matrimonio y Acuerdo de Unión Civil: Cuando
 
-ayuda se pagará a cada uno de ellos en forma independiente;
+el afiliado contraiga matrimonio o celebre un
+
+Acuerdo de Unión Civil en los términos de la
+
+ley 20.830. Si ambos contrayentes fuesen
+
+afiliados, la ayuda se pagará a cada uno
+
+de ellos en forma independiente.;
 
 b) Nacimiento: Por el nacimiento de cada hijo del
 
@@ -247,6 +255,12 @@ Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines 
 El Servicio de Bienestar podrá celebrar la festividad de Navidad para sus afiliados y sus cargas familiares, de acuerdo a sus recursos financieros.
 
 El Consejo Administrativo fijará anualmente el porcentaje del presupuesto que deberá destinarse para estos efectos.
+
+El Servicio de Bienestar otorgará a sus afiliados un regalo de Navidad en el mes de diciembre de cada año, según disponibilidad presupuestaria. Se otorgará este beneficio a los afiliados que tengan, a lo menos, 6 aportes continuos los meses inmediatamente anteriores al 1 de diciembre de cada año en que se entrega el beneficio.
+
+#### Artículo 15 bis
+
+El Servicio de Bienestar, con cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, podrá adquirir productos farmacéuticos e insumos de uso médico, para su venta a sus afiliados y/o cargas familiares.
 
 #### Artículo 16º
 
