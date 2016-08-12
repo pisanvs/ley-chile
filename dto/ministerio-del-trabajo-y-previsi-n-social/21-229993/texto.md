@@ -158,6 +158,8 @@ h) De ayuda médica: Se otorgará una ayuda en dinero o en especie, complementar
 
 i) De vacaciones: Se otorgará una ayuda en dinero o en especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal.
 
+j) Acuerdo de Unión Civil: Se otorgará a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 Artículo Nº 12.- El Bienestar podrá financiar, con cargo a sus recursos propios, la contratación de seguros de vida para sus afiliados. Asimismo, podrá financiar seguros de salud, a fin de solventar los gastos de sus afiliados y/o cargas familiares, que no se encuentren cubiertos por los respectivos sistemas de salud previsional. Todo lo anterior, de acuerdo a la disponibilidad presupuestaria del Bienestar, sin perjuicio que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
 
 Artículo Nº 13.- El Bienestar podrá financiar con cargo a sus propios recursos, becas de: alimentación, educación, movilización u otro tipo, según lo establezca el Consejo, a fin de solventar los gastos en que deban incurrir sus afiliados y/o cargas familiares. Lo anterior, sin perjuicio, que los propios beneficiarios puedan concurrir a sufragar dichos gastos. Las becas serán otorgadas con el acuerdo de los dos tercios del Consejo, previa evaluación conforme a una pauta especial preparada por el Servicio de Bienestar.
