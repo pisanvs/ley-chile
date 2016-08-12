@@ -202,6 +202,8 @@ h) De ayuda médica: Se otorgará una ayuda en dinero o en especie, complementar
 
 i) De vacaciones: Se otorgará una ayuda en dinero o en especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal.
 
+j) Acuerdo de Unión Civil: Se otorgará a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 #### Artículo 12
 
 <!-- parte:6495798 -->
