@@ -1,0 +1,5 @@
+SE DELEGA FACULTAD PARA OPERAR CUENTAS CORRIENTES DEL INSTITUTO DE PREVISIÓN SOCIAL DEL NIVEL CENTRAL QUE SE SEÑALA
+
+Por resolución exenta N° 245, de 31 de mayo de 2016, del Director Nacional del Instituto de Previsión Social, se delega facultad para operar cuentas corrientes en los funcionarios del Departamento de Finanzas del Instituto de Previsión Social, la facultad de girar cheques, retirar talonarios, retirar cartolas, retirar cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, acceder a claves secretas o password de los sistemas computacionales que ofrecen los bancos, lo que permitirá efectuar transferencias de fondos, consultas saldos, emitir cartolas provisorias, acceder a información financiera y de autorizar a otros funcionarios del IPS para retirar talonarios, documentos, cheques protestados y cartolas de las cuentas corrientes utilizadas en el Nivel Central.
+
+Santiago, 3 de agosto de 2016.- Patricio Coronado Rojo, Director Nacional.
