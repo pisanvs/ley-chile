@@ -182,6 +182,8 @@ familiar.
 
 5) Bono por Catástrofes: Se concederá por una sola vez un subsidio en dinero a los afiliados que, a consecuencia de incendios, sismos o inundaciones, sufran pérdida de bienes del hogar acreditados con Informe Social del Servicio de Bienestar. En caso de resultar afectados dos o más afiliados de una misma familia cohabitantes en una sola vivienda, el monto de la ayuda que determine anualmente el Consejo Administrativo se entregará solamente a uno de ellos. Vistos antecedentes, el Jefe del Servicio actuará en forma inmediata ante el siniestro, informando con posterioridad al Consejo Administrativo en la sesión ordinaria siguiente.
 
+6) Bono por Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 #### Artículo 12º
 
 Para otorgar los subsidios, el Servicio de Bienestar exigirá el cumplimiento del artículo 44º del Reglamento General, los correspondientes certificados de matrimonio, nacimiento o fallecimiento y los demás informes o antecedentes que estime necesarios para respaldar los pagos a que hubiere lugar.
