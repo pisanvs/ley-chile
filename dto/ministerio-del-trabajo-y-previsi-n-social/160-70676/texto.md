@@ -86,7 +86,7 @@ a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fu
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente, el nacimiento de un hijo.
 
-Si ambos padres fuesen afiliados, el beneficio lo percibirá la madre. En caso de nacimientos múltiples, se otorgarán tantas ayudas como hijos nazcan.
+Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho a este beneficio.
 
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
 
@@ -119,6 +119,8 @@ La gravedad de los hechos será calificada y cuantificada por la Asistente Socia
 h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiere otorgado.
 
 El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias del Servicio no pudiendo exceder de dos ingresos mínimos mensuales por ayuda.
+
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
 
 #### Artículo 10º
 
