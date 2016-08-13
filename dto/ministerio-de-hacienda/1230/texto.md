@@ -1340,6 +1340,16 @@ y todo tipo de
 
 operaciones aduaneras
 
+3. Melinka
+
+Rampa fiscal Permanente Paso de personas y todo
+
+La Puntilla tipo de operaciones
+
+Rampa costanera aduaneras.
+
+Huilliches
+
 P. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUNTA ARENAS:
 
 Punto Habilitado Habilitación Operaciones aduaneras
