@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE SAN CLEMENTE
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.544, del 4 de julio de 2016, conforme artículo 5º transitorio Código Aguas, dejó sin efecto la resolución exenta Nº 2.685 de 19 de mayo de 2016, aclaró y complementó resolución exenta del Servicio Agrícola y Ganadero N° 2.493, de 27 de noviembre de 1987, que aprobó el Estudio Técnico de División de los División de Derechos de Aprovechamiento de Aguas del predio denominado "Resto del Predio Rústico denominado Hacienda El Colorado" y del Proyecto de Parcelación "El Colorado", ubicado en la comuna de San Clemente, Región del Maule, en el sentido de distribuir y establecer en unidad de volumen por unidad de tiempo, los derechos de aprovechamiento de aguas del Canal Maule Norte, derivado del río Maule, para los sectores excluido y expropiado del predio y de las unidades del proyecto. Estableció las características de los derechos de aprovechamiento de los mismos son superficiales, de uso consuntivo y de ejercicio permanente y continuo, el nombre del Álveo que corresponde al río Maule y la ubicación de la bocatoma Armerillo en el río Maule, provincia de Talca.
+
+Publicación hecha conforme artículo 13° ley N° 18.377.-
+
+Director Nacional.
