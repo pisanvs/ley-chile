@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE ROMERAL
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.549 del 4 de julio de 2016 conforme artículo 5° transitorio del Código de Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero N° 627, de fecha 9 de marzo de 1981, que aprobó el Proyecto de Distribución de Aguas del Proyecto de Parcelación "Los Maquis", formado por el predio denominado "Fundo El Peñón", ubicado en la comuna de Romeral, Región del Maule, en el sentido de especificar el nombre del álveo, de canal El Peñón, que deriva del río Teno, su captación se sitúa en la provincia Curicó. Las características de los derechos de aprovechamiento son aguas superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13° de la ley N° 18.377.- Director Nacional.
