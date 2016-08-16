@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 395, de 21 de julio de 2016, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 15, Rol de avalúo 1117-35, Comuna de Castro, superficie 15.359 m2., para la obra "CONSTRUCCIÓN BY PASS CASTRO EN CHILOÉ", Provincia de Chiloé, Región de Los Lagos. La comisión de peritos, integrada por Sonia Catalina Gallegos Blanch, Norman Estanislao Calderón Pontiggia y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 23 de abril de 2013, complementada por Acta de 3 de agosto de 2015, acordándose la indemnización con su propietario CARLOS ROMEO SALDIVIA VILLEGAS, en la cantidad de $113.578.752.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+.
