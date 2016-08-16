@@ -1,0 +1,5 @@
+EXPROPIA PROPIEDADES QUE INDICA
+
+Por decreto alcaldicio Nº 3.167, de 22 de julio de 2016, y en base a la facultad otorgada por los artículos 5º, 6º, 7º y 17º del DL 2.186 de 1978. Modificado por el D.L. 2.869 de 1979 y ley 18.932, Ley Orgánica de Procedimiento de Expropiación, artículos 42, 48, 51 y 83 del DFL de Vivienda Nº 458, de 1976, artículo 19 Nº 24 de la Constitución Política de la República y facultades que otorgan artículos 5º, 10º, 33º de la Ley 18.695, Orgánica de Municipalidades, se expropió con fines de utilidad pública, para prolongación calle Manuel Antonio Varas comuna de Bulnes, propiedades rol Avalúo Fiscal 19-177 y 19-176 comuna de Bulnes, que figuran a nombre de Raquel Herrera Puentes y Sucesión Sepúlveda Herrera, superficie 222,60 mt2 rol 19-177 y 75,70 ,mt2 rol 19-176. La Comisión de Peritos, fijó con fecha 12 de mayo de 2016, en la cantidad de $7.796.788 por la superficie expropiada en lote rol Nº 19-177 y $2.651.468 por la superficie lote rol Nº 19-176. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.
+
+Ilustre Municipalidad de Bulnes.
