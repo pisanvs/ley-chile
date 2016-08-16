@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 471, de 22 de julio de 2016, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 87-A, Rol de avalúo 1203-34, Comuna de Castro, superficie 11.219 m2., para la obra "CONSTRUCCIÓN BY PASS CASTRO EN CHILOÉ", Provincia de Chiloé, Región de Los Lagos. La comisión de peritos, integrada por Sonia Catalina Gallegos Blanch, Norman Estanislao Calderón Pontiggia y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 5 de febrero de 2015, acordándose la indemnización con su propietario JUAN ALONSO CÁRCAMO OJEDA, en la cantidad de $22.506.932.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+.
