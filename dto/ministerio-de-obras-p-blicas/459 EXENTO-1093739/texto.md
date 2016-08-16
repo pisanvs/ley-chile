@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 459, de 22 de julio de 2016, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 160, Rol de avalúo 502-22, Comuna de Río Bueno, superficie 567 m2., para la obra "REPOSICIÓN PAV. T-85 S: RÍO BUENO - CAYURRUCA", COMUNA DE RÍO BUENO, PROVINCIA DEL RANCO, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por Patricio Fernando Casagrande Ulloa, María Isabel Ríos Marcuello y María Soledad Núñez Arroyo, fijó el valor de tasación con fecha 1 de abril de 2015, complementada por Acta de 4 de mayo de 2015, acordándose la indemnización con su propietario RAÚL HERNÁN BOBADILLA ORTEGA, en la cantidad de $20.776.028.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
