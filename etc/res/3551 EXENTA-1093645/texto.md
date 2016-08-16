@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE ROMERAL
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.551 del 4 de julio de 2016 conforme artículo 5º transitorio del Código de Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero N° 3.597, rectificada por resolución exenta Nº 1.601 de 17 de julio de 1981, de fecha 30 de diciembre de 1980, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de Parcelación "La Unión", formado por los predios denominados "El Calabozo", "Parte del Fundo El Peñón y Resto del Fundo El Peñón", ubicados en la comuna de Romeral, Región del Maule, en el sentido de especificar el nombre del álveo, de canal Cardonal y canal Maqui-Chico, que derivan del río Teno, sus captaciones se sitúan en la provincia Curicó. Las características de los derechos de aprovechamiento son aguas superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.- Director Nacional.
