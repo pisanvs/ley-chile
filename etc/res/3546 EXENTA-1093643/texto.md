@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE ROMERAL
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 3.546 de 4 de julio de 2016 conforme artículo 5º transitorio del Código de Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 1.862, de fecha 19 de diciembre de 1984, se aprobó el Estudio Técnico de División de Derechos de Aprovechamiento de Aguas de los predios "Parte de La Hijuela Nº 1 de La Antigua Hacienda Guaico Nº 3", "Hijuela Nº 3 del Plano de División del Fundo El Guaico Nº 3" y "San Francisco de Guaico o Guaico Centro" y del Proyecto de Parcelación "San Manuel", ubicado en la comuna de Romeral, Región del Maule, en el sentido de especificar el nombre del álveo de los canales Socavón, Calabozo Norte y Sur y canal Alto o Socavón Sur, que corresponde al río Teno, su captación se sitúa en la provincia Curicó. Las características de los derechos de aprovechamiento corresponden a aguas superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.- Director Nacional
