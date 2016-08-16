@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE ROMERAL
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.545 de 4 de julio de 2016, conforme artículo 5º transitorio del Código de Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero N° 3.596, de fecha 30 de diciembre de 1980, que aprobó el Proyecto de distribución de aguas para atender al riego de las parcelas del Proyecto de Parcelación "Los Alisos", ubicado en la comuna de Teno, Región del Maule, en el sentido de especificar el nombre del álveo del canal Los Alisos, que corresponde al río Teno y su captación se sitúa en la provincia Curicó. Las características de los derechos de aprovechamiento corresponden a aguas superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.- Director Nacional.
