@@ -1,0 +1,7 @@
+RECTIFICA PUBLICACIÓN EFECTUADA CON FECHA 1 DE OCTUBRE DE 2014, EN EL SENTIDO QUE INDICA A CONTINUACIÓN
+
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.061, de fecha 23 de junio de 2016, de la Dirección del Serviu Metropolitano, modifica resolución exenta N° 4.569, de fecha 16 de septiembre de 2014, de la Dirección del Serviu Metropolitano, que dispuso la expropiación de parte del inmueble ubicado en Av. Vicuña Mackenna 1962, Rol de avalúo N° 3601-2, de la comuna de Ñuñoa, individualizado en el Plano de Expropiación como Lote N° 1, de aparente dominio de Consorcio Inmobiliario S.A., con una superficie aproximada de 74,38 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Corredor de Transporte Público Vicuña Mackenna Norte". La comisión peritos integrada por los señores María Cristina Camus Palacios, arquitecto; Gustavo Picero García, arquitecto y Solange Lagos Díaz, arquitecto, mediante informe de fecha 16 de septiembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $40.148.506, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Director Serviu Metropolitano.
