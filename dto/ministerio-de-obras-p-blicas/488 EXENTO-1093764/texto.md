@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 488, de 27 de julio de 2016, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 22, 24 y 29, para la obra: MEJORAMIENTO RUTA J-55 SECTOR: LA UNIÓN - LOS QUEÑES, que figura a nombre de PIZARRO BUSTAMANTE LUIS, ARANEDA GUTIÉRREZ TALIDIA y CARO OLIVER RENÉ, roles de avalúo 59-37, 59-129 y 59-114, Comuna de ROMERAL, VII REGIÓN, superficies 3.056, 95 y 505 m2, respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de marzo de 2015, fijó el monto de la indemnización provisional en la cantidad de $11.984.452 para el lote N° 22, $862.615 para el lote N° 24, y $4.584.585 para el lote N° 29. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+.
