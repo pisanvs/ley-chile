@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N° 358 de 12 de julio de 2016, se modificó el numeral segundo del Decreto (Exento) MOP N° 78 de 15 de marzo de 2016, que ordenó la expropiación del Lote N° 1, en la parte que se refiere al nombre del propietario según rol de avalúo y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 1, CEA ROMERO VICENTE, rol de avalúo 336-67, Comuna de LAJA, superficie 650 m2. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
