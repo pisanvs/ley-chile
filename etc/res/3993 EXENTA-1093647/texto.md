@@ -1,0 +1,5 @@
+DERECHOS DE AGUA COMUNA DE MELIPILLA
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.993, de 25 de julio de 2016, conforme artículo 5° transitorio Código Aguas, complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 3.403, de fecha 5 de noviembre de 2002, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de parte de la Cooperativa de Reforma Agraria Asignataria "Rumai Limitada", formado por el predio denominado "Hijuela Octava del Fundo o Hacienda Rumai" ubicado en la comuna de Melipilla, Región Metropolitana, en el sentido de especificar que las características de los derechos de aprovechamiento del canal San José, son aguas superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13° Ley N° 18.377.- Director Nacional.
