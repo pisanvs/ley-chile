@@ -66,7 +66,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 4°
 
-Los efectos de este decreto tendrán vigencia hasta el día 11 de agosto de 2016, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispónese que sus efectos terminarán anticipadamente respecto de aquella área, localidad o comuna que la SEREMI de Salud de la Región de Los Ríos, mediante resolución, declare que se encuentra libre de marea roja.
+Los efectos de este decreto tendrán vigencia hasta el día 30 de octubre de 2016, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispónese que sus efectos terminarán anticipadamente respecto de aquella área, localidad o comuna que la SEREMI de Salud de la Región de Los Ríos, mediante resolución, declare que se encuentra libre de marea roja.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Carmen Castillo Taucher, Ministra de Salud.
 
