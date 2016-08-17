@@ -32,7 +32,7 @@ Podrán inscribirse en este llamado especial los damnificados individualizados e
 
 a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo e individualizados en la resolución exenta N° 1.186, ya citada.
 
-b) Presentar y suscribir declaración jurada con el compromiso de demoler la vivienda ubicada en la zona de peligro con alta probabilidad de ocurrencia de lahares antes del pago del subsidio al que se refiere la presente resolución, situación que deberá ser verificada por Serviu Región de Los Lagos previo a autorizar el respectivo pago.
+b) Presentar y suscribir declaración jurada con el compromiso de demoler la vivienda ubicada en la zona de peligro con alta probabilidad de ocurrencia de lahares, en un plazo máximo de 90 días corridos contados a partir de la fecha de pago del subsidio que se asignará a través del presente llamado especial. Esta situación deberá ser verificada por Serviu Región de Los Lagos al cumplirse el plazo establecido. El incumplimiento por parte del beneficiario del compromiso antes señalado, dará derecho al Serviu Región de Los Lagos para exigir la restitución de la totalidad de los dineros recibidos por concepto de subsidios, al valor de la Unidad de Fomento vigente a la fecha de la restitución.
 
 c) Acompañar declaración de Núcleo Familiar según formato provisto por el Serviu. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Sólo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
 
@@ -74,7 +74,7 @@ Conforme a los gastos que el beneficiario rinda al Serviu, obtendrá un subsidio
 
 11. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y 33 del DS N° 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda como mínimo con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
-Además, para autorizar el pago del subsidio, Serviu deberá verificar que la vivienda ubicada en zona de peligro con alta probabilidad de ocurrencia de lahares, fue demolida de acuerdo a lo señalado en la letra b) del resuelvo 2 de esta resolución.
+Inciso Eliminado.
 
 Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, de acuerdo a lo señalado en la letra c) del artículo 35 del DS N° 1 (V. y U.), de 2011.
 
