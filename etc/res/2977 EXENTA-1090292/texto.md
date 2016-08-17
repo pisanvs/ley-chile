@@ -106,11 +106,15 @@ f) Proyecto de Ampliación en Viviendas de igual o menos de 30 metros cuadrados.
 
 A estos tipos de Proyectos Focalizados, señalados en el punto 2.2 precedente, se le otorgará al total del grupo, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y/o ampliación de una vivienda. Los puntajes serán los estipulados en el siguiente cuadro:
 
-3. Para participar de este llamado los proyectos deben contar con calificación hasta el 17 de junio de 2016.
+3. Para participar de este llamado los proyectos deben contar con calificación hasta los días 17 de junio, 14 de septiembre y 30 de noviembre de 2016.
 
 4. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
-Nota: De los recursos asignados a la Región del Biobío en cuadro precedente, se podrá destinar en la selección de este llamado hasta un 15%, para atender a la provincia de Arauco.
+.
+
+Nota: De los recursos asignados a la Región del Biobío en las tablas precedentes se podrá destinar para cada selección de este llamado hasta un 15% para atender la provincia de Arauco.
+
+Los montos disponibles regionalmente para la tercera selección serán inicialmente los mismos que se indican en el cuadro para la segunda selección, pero podrán variar al adicionarle el saldo disponible tras efectuar la segunda selección y al descontarle las asignaciones directas que se hubieren realizado en las regiones con anterioridad al 2 de noviembre de 2016.
 
 5. El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los Servicios de Asistencia Técnica que correspondan.
 
@@ -300,7 +304,7 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 16. Se considerarán como Viviendas Objeto del Programa para este llamado, las señaladas en la letra e) del artículo 21 del DS 255 (V. y U.), de 2006, en relación con el artículo 3° del mismo decreto; las viviendas en que el avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento a la fecha de la presente resolución, lo que será acreditado presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF; o las viviendas cuyo avalúo fiscal total sea igual o inferior a 950 Unidades de Fomento, a la fecha de la presente resolución, lo que será acreditado presentando el Certificado de Avalúo Fiscal Simple.
 
-17. No podrán participar en este llamado aquellos proyectos referidos al Capítulo Segundo del DS N° 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales, a excepción de aquellos proyectos de Condominios de Vivienda Social que postulen al Título I, en proyectos de Mejoramiento del Terreno de la Copropiedad.
+17. No podrán participar en este llamado los proyectos para la atención de Condominios de Viviendas Sociales del Capítulo Segundo del DS Nº 255 (V. y U.) del 2006.
 
 18. Para participar en este proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Título al que postula, según lo indicado en el artículo 9° del DS Nº 255 (V. y U.), de 2006.
 
