@@ -1,0 +1,9 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DE BANCO INTERNACIONAL
+
+Certifico que por resolución N° 234 de 19 de julio de 2016, se aprobaron las reformas introducidas a los estatutos de Banco Internacional, acordada en la Junta Extraordinaria de Accionistas celebrada en Santiago el día 19 de abril de 2016, cuya acta fue reducida a escritura pública el 20 de mayo de 2016, en la Notaría de Santiago de don Patricio Raby Benavente.
+
+Extracto de la reforma:
+
+1. Se acordó incorporar las siguientes modificaciones sobre aspectos relacionados con la organización interna de la sociedad: El Directorio del Banco contará con dos directores con la calidad de independientes si el controlador nombrase un número igual o superior a siete directores en el Banco; y con tres directores con calidad de independientes, si el número de directores nombrado por el controlador fuere igual o superior a ocho directores; el Presidente del Comité de Auditoría del Banco deberá ser un director con calidad de independiente, a la vez que el segundo director con calidad de independiente formará parte del Comité de Crédito y Riesgo; a más tardar, el año dos mil diecinueve se incorpora un tercer director con la calidad de independiente al Directorio, quien además deberá ser miembro del Comité de Auditoría, y la exposición crediticia del Banco en los sectores de construcción e inmobiliario considerados en su conjunto, tendrá una limitación consistente en que la exposición crediticia total en ambos sectores, tomados en forma conjunta, no podrá representar más de uno coma ocho veces su patrimonio efectivo y a contar del año dos mil veintidós deberá ser como máximo una vez dicho patrimonio.
+
+Santiago, 19 de julio de 2016.- Eric Parrado Herrera, Superintendente de Bancos e Instituciones Financieras.
