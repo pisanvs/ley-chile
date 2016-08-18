@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 1 de febrero de 2016 y hasta el 1 de agosto de 2016, por la calzada oriente de la Ruta 5 Norte, entre los km 14.4 y 17.4, en las comunas de Quilicura y Lampa.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 1 de febrero de 2016 y hasta el 30 de agosto de 2016, por la calzada oriente de la Ruta 5 Norte, entre los km 14.4 y 17.4, en las comunas de Quilicura y Lampa.
 
 Podrán ingresar excepcionalmente en el tramo y horario señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Conversión Estándar Urbano del Acceso a Santiago Ruta 5 Norte, Región Metropolitana, Concesión Tramo Santiago - Los Vilos".
 
