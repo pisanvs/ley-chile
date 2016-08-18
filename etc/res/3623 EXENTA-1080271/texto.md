@@ -18,9 +18,9 @@ Considerando:
 
 Resuelvo:
 
-1. Autorízase a la ilustre Municipalidad de Puente Alto la realización de la actividad deportiva - recreativa denominada "Calle Activa" durante todos los días domingo a partir del 9 de agosto de 2015 y hasta el 31 de julio de 2016, entre las 09:00 y las 14:00 horas, en la comuna de Puente Alto, utilizándose para ello las siguientes vías y tramos:
+1. Autorízase a la ilustre Municipalidad de Puente Alto la realización de la actividad deportiva - recreativa denominada "Calle Activa" durante todos los días domingo a partir del 9 de agosto de 2015 y hasta el 30 de julio de 2017, entre las 09:00 y las 14:00 horas, en la comuna de Puente Alto, utilizándose para ello las siguientes vías y tramos:
 
-2. Prohíbase, entre las 09:00 y las 14:00 horas, durante todos los días domingos, a partir del 9 de agosto de 2015 y hasta el 31 de julio de 2016, la circulación de todo tipo de vehículos motorizados en la comuna de Puente Alto, en las siguientes vías y tramos:
+2. Prohíbase, entre las 09:00 y las 14:00 horas, durante todos los días domingos, a partir del 9 de agosto de 2015 y hasta el 30 de julio de 2017, la circulación de todo tipo de vehículos motorizados en la comuna de Puente Alto, en las siguientes vías y tramos:
 
 3. Adóptense, por parte de la entidad organizadora todas las medidas de seguridad y condicionantes establecidas en el Anexo Nº 1, el que se entiende forma parte integrante del presente instrumento, en especial, deberá coordinar con Carabineros de Chile las medidas pertinentes.
 
