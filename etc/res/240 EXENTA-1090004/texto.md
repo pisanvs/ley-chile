@@ -58,12 +58,4 @@ C-35 0,00 – 86,00
 
 7.- La presente resolución entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial.
 
-> **Nota.** El numeral 1° de la Resolución 542 Exenta, Transportes, publicada el 17.11.2016, modifica la presente norma en el sentido de prorrogar hasta el 30 de noviembre de 2016, la prohibición de circulación de vehículos motorizados, la sustitución de fechas "31 de octubre" por "30 de noviembre de 2016" no se pudo realizar, por no existir el 30 de octubre en la presente norma.
-
-> **Nota.** NOTA 1 El numeral 1° de la Resolución 563 Exenta, Transportes, publicada el 29.12.2016, modifica la presente norma en el sentido de prorrogar hasta el 31 de diciembre de 2016, la prohibición de circulación de vehículos motorizados, la sustitución de fechas "30 de noviembre de 2016" por "31 de diciembre de 2016" no se pudo realizar, por no existir el 30 de noviembre de 2016 en la presente norma.
-
-> **Nota.** NOTA 2 El numeral 1° de la Resolución 609 Exenta, Transportes, publicada el 27.01.2017, modifica la presente norma en el sentido de prorrogar hasta el 31 de enero de 2017, la prohibición de circulación de vehículos motorizados, la sustitución de fechas "31 de diciembre de 2016" por "31 de enero de 2017" no se pudo realizar, por no existir el 31 de diciembre de 2016 en la presente norma.
-
-> **Nota.** NOTA 3 El numeral 1° de la Resolución 23 Exenta, Transportes, publicada el 17.02.2017, modifica la presente norma en el sentido de prorrogar hasta el 28 de febrero de 2017, la prohibición de circulación de vehículos motorizados, la sustitución de fechas "31 de enero de 2017" por "28 de febrero de 2017" no se pudo realizar, por no existir el 31 de diciembre de 2016 en la presente norma.
-
 Anótese y publíquese.- Ericka Natalia Portilla Barrios, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
