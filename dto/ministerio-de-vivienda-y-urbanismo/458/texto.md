@@ -524,7 +524,7 @@ Corresponderá a la Secretaría Regional de Vivienda y Urbanismo respectiva caut
 
 Con dicho objeto, cuando sea necesario subdividir y urbanizar terrenos rurales para complementar alguna actividad industrial con viviendas, dotar de equipamiento a algún sector rural, o habilitar un balneario o campamento turístico, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado, la autorización que otorgue la Secretaría Regional del Ministerio de Agricultura requerirá del informe previo favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo. Este informe señalará el grado de urbanización que deberá tener esa división predial, conforme a lo que establezca la Ordenanza General de Urbanismo y Construcciones.
 
-Igualmente, las construcciones industriales, de equipamiento, turismo, y poblaciones, fuera de los límites urbanos, requerirán, previamente a la aprobación correspondiente de la Dirección de Obras Municipales, del informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola que correspondan.
+Igualmente, las construcciones industriales, de infraestructura, de equipamiento, turismo, y poblaciones, fuera de los límites urbanos, requerirán, previamente a la aprobación correspondiente de la Dirección de Obras Municipales, del informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola que correspondan. El mismo informe será exigible a las obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado.
 
 #### Artículo 56°
 
@@ -938,7 +938,9 @@ La construcción, reconstrucción, reparación, alteración, ampliación y demol
 
 Deberán cumplir con esta obligación las urbanizaciones y construcciones fiscales, semifiscales, de corporaciones o empresas autónomas del Estado y de las Fuerzas Armadas, de las Fuerzas de Orden y Seguridad Pública y de Gendarmería de Chile.
 
-No requerirán permiso las obras de infraestructura que ejecute el Estado, ni las obras urbanas o rurales de carácter ligero o provisorio, en la forma que determine la Ordenanza General.
+Las construcciones destinadas a equipamiento de salud, educación, seguridad y culto, cuya carga de ocupación sea inferior a 1.000 personas, se entenderán siempre admitidas cuando se emplacen en el área rural y, en estos casos, para la obtención del permiso de edificación requerirán contar con el informe previo favorable a que se refiere el inciso tercero del artículo 55 de esta ley, el que señalará, además de las condiciones de urbanización, las normas urbanísticas aplicables a la edificación.
+
+No requerirán permiso las obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado, sin perjuicio de lo establecido en el inciso final del artículo 55, ni las obras urbanas o rurales de carácter ligero o provisorio, en la forma que determine la Ordenanza General.
 
 Sin perjuicio de lo establecido en el inciso segundo, las obras de carácter militar de las Fuerzas Armadas, las de carácter policial de las Fuerzas de Orden y Seguridad Pública y las de carácter penitenciario, destinadas a sus fines propios, sean urbanas o rurales, no requerirán de los permisos a que se refiere el inciso primero de este artículo ni estarán sometidas a inspecciones o recepciones de ningún tipo por las Direcciones de Obras Municipales mientras tengan este carácter. En igual forma no les serán aplicables las limitaciones ni autorizaciones establecidas en el artículo 55. Estas excepciones se extenderán igualmente, a las demás obras ubicadas dentro del mismo predio en que se emplacen las construcciones a que se refiere este inciso, aun cuando estén destinadas a su equipamiento o al uso habitacional. Todas estas obras deberán ajustarse a las Normas Técnicas, a la Ordenanza General y al Plan Regulador respectivo, en su caso. Concluidas las obras, el propietario deberá presentar una declaración ante la Dirección de Obras Municipales, indicando el destino de las edificaciones e individualizando a las personas a quienes pudiere corresponder algún grado de responsabilidad de conformidad a los artículos 17 y 18 de esta ley.
 
@@ -1517,6 +1519,8 @@ Sin perjuicio de las multas que se contemplan en el artículo 20°, la infracci�
 El Director de Obras Municipales, mediante resolución fundada, podrá ordenar la paralización de cualquier obra en los casos en que hubiere lugar a ello.
 
 Comprobado que una obra se estuviere ejecutando sin el permiso correspondiente o en disconformidad con él, o con ausencia de supervisión técnica, o que ello implique un riesgo no cubierto, sin perjuicio de las sanciones que corresponda, ordenará de inmediato su paralización, fijando un plazo prudencial para que se proceda a subsanar las observaciones que se formulen.
+
+Lo mismo podrá ordenarse tratándose de obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado sin el informe favorable que exige el inciso final del artículo 55, sin perjuicio de las responsabilidades administrativas de los infractores de esta norma.
 
 #### Artículo 147°
 
