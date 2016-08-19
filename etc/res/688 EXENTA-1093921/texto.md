@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 688 EXENTA, DE 26 DE NOVIEMBRE DE 2015
+
+Por resolución exenta Nº 688, de 26 de noviembre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de "Fénix Conductores Limitada", RUT 76.418.911-6, conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores representada legalmente por Patricia Madina Avendaño tendrá como Director a Raúl Percy Barrantes Mariño y su sede estará ubicada en Hermano Claudio Nº 385, comuna de Rancagua. Las horas pedagógicas autorizadas a la referida escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
