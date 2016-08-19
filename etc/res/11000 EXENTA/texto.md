@@ -44,6 +44,8 @@ Resuelvo:
 
 1.- Establezcase a contar de la total tramitación del presente instrumento, los valores de publicación, ejemplares e impresiones en el Diario Oficial de la República de Chile, conforme a la siguiente tabla:
 
+.
+
 No obstante lo anterior, estos valores de cobro no serán aplicables a aquellas publicaciones cuyos montos, gratuidad o exención de pago, hayan sido fijados expresamente por leyes especiales vigentes, en cuyo caso prevalecerán estas últimas.
 
 2.- Téngase presente que la tabla singularizada en el resuelvo anterior, deberá exhibirse al público en las oficinas del Diario Oficial, ubicadas en calle Doctor Torres Boonen 511, Comuna de Providencia, en esta ciudad y publicarse en el sitio web del Diario Oficial www.diarioficial.cl
