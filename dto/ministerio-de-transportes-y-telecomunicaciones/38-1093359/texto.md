@@ -226,6 +226,10 @@ Además, en atención a lo establecido por el artículo 24° bis inciso 5° de l
 
 .
 
+2.4. Facilidades Necesarias para Establecer y Operar el Sistema Multiportador.
+
+.
+
 II. Las tarifas fijadas en el numeral I. anterior están expresadas en valores netos, en pesos ($) al 31 de diciembre de 2014, y tienen el carácter de máximas, no pudiendo discriminarse entre usuarios de una misma categoría en su aplicación, en conformidad a lo dispuesto en el artículo 30° H de la ley.
 
 ### III. Las tarifas, expresadas en pesos por segundo, sólo podrán ser aplicadas a comunicaciones completadas
