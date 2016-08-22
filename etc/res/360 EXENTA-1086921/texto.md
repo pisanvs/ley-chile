@@ -78,6 +78,8 @@ Estos incrementos, si se aplican simultáneamente, podrán complementarse entre 
 
 Incremento de Subsidio para Regularización: El subsidio otorgado se incrementará en 35 U.F. adicionales, para financiar las adecuaciones constructivas exigidas por la DOM al momento de aprobar el permiso de edificación y recepcionar las obras.
 
+Estos incrementos se complementarán al subsidio base según corresponda y el valor total resultante deberá distribuirse entre los servicios de construcción como en la compra de materiales, según lo dispuesto en el Visto 9 de la presente resolución. Para la aplicación de cualquiera de los incrementos señalados anteriormente se requerirá que dichas partidas se ejecuten a través de servicios de construcción especializados según temática, quienes deberán trabajar en una misma vivienda con aquellos servicios de construcción no especializados a cargo del resto de las partidas del proyecto. Para el pago de ambos servicios, el Serviu deberá distribuir en 2 pagos dicha cancelación: una, para los servicios de construcción especializada, para la cual se aceptará una boleta de honorarios y la segunda, para aquellos servicios no especializados, aceptando en este caso una boleta de terceros.
+
 3.2 Modalidad Daño Reparable Moderado y/o Mayor, para la asignación de Subsidios de Mejoramiento del Título II, en su tipología de Seguridad y Habitabilidad de la Vivienda del Programa de Protección del Patrimonio Familiar.
 
 Se aplicará para reparar daños estructurales severos que merman la capacidad de resistencia del inmueble, quedando comprometida su estabilidad, como también para reparar aquellos daños que no comprometan la estabilidad total de la edificación. Estos proyectos están asociados a una Empresa Constructora.
