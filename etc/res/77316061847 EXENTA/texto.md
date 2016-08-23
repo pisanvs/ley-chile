@@ -1,0 +1,5 @@
+REVOCA CALIDAD DE AGENTE RETENEDOR DE IVA
+
+La IX Dirección Regional de Temuco del SII, por resolución Ex. N° 77316061847, de fecha 11/08/2016, deja sin efecto la resolución N° Ex. 765, del 22.04.2004, de la XVI Dirección Metropolitana Santiago Sur del Servicio, publicada en el Diario Oficial de fecha 2 de junio de 2004, que otorga la calidad de agente retenedor de cambio de sujeto de derecho del Impuesto al Valor Agregado en las operaciones de contrato de instalación o confección de especialidades que contraten, a contar de la fecha de esta publicación, al contribuyente Ingeniería y Construcción Sobarzo Limitada, RUT N° 78.801.340-K, conforme a lo dispuesto en la resolución N° Ex. 46/2003 de la Dirección Nacional del Servicio, publicada en el Diario Oficial de fecha 05.09.2003, modificada por resolución Ex. N° 63/2003, publicada en el Diario Oficial de fecha 05.11.2003, la resolución Ex. N° 115, de 29.12.2004, publicada en Diario Oficial del 05.01.2005 y la resolución Ex. N° 142, de 26.12.2005, publicada en Diario Oficial del 29.12.2005.-
+
+Lidia del Carmen Castillo Alarcón, Directora Regional.
