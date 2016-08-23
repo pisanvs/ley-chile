@@ -1276,6 +1276,8 @@ En las pisciculturas de recirculación o con sistema mixto de cultivo, en caso q
 
 Las pisciculturas que reciban ejemplares o gametos desde pisciculturas que sean clasificadas en bioseguridad baja de conformidad con el artículo 22 Ñ, sólo podrán enviar los ejemplares hacia centros de engorda.
 
+Las pisciculturas que mantengan reproductores deberán contar con tratamiento de efluentes. Exceptúase de esta exigencia a las pisciculturas que toman y descargan agua de un mismo curso o cuerpo de agua que nace, corre y muere dentro de la misma heredad.
+
 ### Párrafo 7º
 
 De los centros de engorda
@@ -1323,6 +1325,8 @@ El titular de la concesión deberá comunicar a la Subsecretaría el momento en 
 En el plazo de un mes, contado desde el término de la siembra del ciclo productivo, el titular de la concesión deberá presentar una declaración jurada a la Subsecretaría en que deje constancia del número total de ejemplares efectivamente sembrados en el centro de cultivo. Asimismo, dentro los 15 días corridos siguientes al término de la cosecha, el titular del centro de cultivo deberá presentar una declaración jurada a la Subsecretaría, en que deje constancia del número total de ejemplares efectivamente cosechados y su destino.
 
 Las declaraciones antes señaladas deberán ser entregadas de acuerdo al formato disponible en la página web de la Subsecretaría.
+
+En el caso que la declaración de siembra efectiva no coincida con lo declarado como proyección de siembra para el período productivo respectivo, se hará la denuncia por información falsa conforme al artículo 113 de la ley, salvo que se acredite la existencia de los peces que se había proyectado sembrar.
 
 #### Artículo 24
 
@@ -1846,23 +1850,21 @@ j) Planes de contingencia coordinados indicando en forma específica los eventos
 
 k) Plan de manejo coordinado de desechos de los centros de cultivo integrantes de la agrupación;
 
-l) Reducción del número total de ejemplares a ingresar en la agrupación en el período productivo siguiente en relación al número total de ejemplares ingresados en el período inmediatamente anterior, y
-
-m) Porcentaje de reducción de siembra, cuya determinación se regirá por los artículos 59 a 64 del presente reglamento.
-
-n) Otra medida sanitaria destinada a mejorar el desempeño ambiental o sanitario de la agrupación, lo que será calificado por el Servicio, previo informe técnico fundado.
+l) Otra medida sanitaria destinada a mejorar el desempeño ambiental o sanitario de la agrupación, lo que será calificado por el Servicio, previo informe técnico fundado.
 
 La adopción de acuerdos requerirá la mayoría absoluta de las concesiones de la agrupación, dentro de la cual deberá encontrarse al menos el 70% de las concesiones cuyos titulares declaren su intención de operar en el siguiente período productivo. Estos últimos deberán comprometerse a no operar en el período productivo subsiguiente si por cualquier causa desisten de su intención de operar en el primer período en que debía entrar a regir el plan de manejo, salvo que la no operación haya sido consecuencia de la obtención de INFA que dé cuenta de una condición anaeróbica en el centro que se había previsto operar.
 
-En el caso de la medida indicada en la letra a), se requerirá la unanimidad para la adopción del acuerdo. El quórum estará siempre referido al total de las concesiones existentes en la agrupación y no al número de titulares. En el caso de la medida indicada en la letra m), se requerirá la unanimidad, salvo que concurran al acuerdo la mayoría absoluta de los titulares de las concesiones de la agrupación y que con la siembra autorizada a quienes no concurran al acuerdo, no se exceda de la siembra de la agrupación establecida de conformidad con los artículos 59 y siguientes del presente reglamento. En tal caso, quienes no hayan aprobado la medida de porcentaje de reducción de siembra se someterán a la siembra que tengan autorizada individualmente y a la densidad de cultivo fijada para la agrupación de concesiones respectiva.
+En el caso de la medida indicada en la letra a), se requerirá la unanimidad para la adopción del acuerdo. El quórum estará siempre referido al total de las concesiones existentes en la agrupación y no al número de titulares.
 
-En ningún caso el plan de manejo será un instrumento para impedir la operación o establecer la reducción del número de peces de las concesiones que no han concurrido al acuerdo.
+En ningún caso el plan de manejo será un instrumento para impedir la operación de las concesiones que no han concurrido al acuerdo.
 
 El descanso voluntario de las concesiones que se encuentren ubicadas en las franjas de distancia obligatoria entre las macro-zonas establecidas por la Subsecretaría, no requerirá el acuerdo de los titulares de concesiones integrantes de la agrupación. Dicho descanso se entenderá incluido en el plan de manejo de la agrupación respectiva con la sola manifestación de voluntad de su titular.
 
+En el caso de los descansos a que se refieren las letras b) y f), el plan de manejo solo podrácontemplarlos por un período productivo.
+
 Los acuerdos deberán constar en un instrumento firmado ante notario público por los titulares de los centros de cultivo o sus representantes legales. En el caso que uno o más titulares de las concesiones hubieren arrendado o celebrado otro contrato en virtud del cual un tercero realizará la operación del centro de cultivo en el período productivo siguiente, deberá manifestarse la voluntad del contratante adjuntando copia del contrato respectivo, el que en todo caso deberá contar con la inscripción en el registro de concesiones de acuicultura que lleva la Subsecretaría para las Fuerzas Armadas.
 
-El plan de manejo deberá ser presentado al Servicio al menos con un mes de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo. Solo para incorporar al plan de manejo la medida referida en la letra m) o para presentar un plan de manejo que consista solo en ella, los plazos de presentación y aprobación ante el Servicio serán los establecidos en el artículo 62 del presente reglamento.
+El plan de manejo deberá ser presentado al Servicio al menos con un mes de anticipación al inicio de un nuevo período o ciclo productivo, según corresponda. Deberá ser aprobado por resolución del Servicio en el plazo de un mes desde su presentación y su cumplimiento será fiscalizado por el Servicio. En el caso que de conformidad con el artículo 58 G el descanso coordinado de la agrupación sea de dos meses, el Servicio tendrá el plazo de dos semanas para aprobar el respectivo plan de manejo.
 
 Dos o más agrupaciones de concesiones podrán presentar un plan de manejo conjunto siguiendo el procedimiento antes indicado, el que deberá estar referido a todas las agrupaciones que lo hayan acordado.
 
@@ -1870,7 +1872,11 @@ Cada agrupación de concesiones deberá designar un coordinador de la misma, y c
 
 #### Artículo 58
 
-J. DEROGADO.
+J. El titular de una o más concesiones dentro de una agrupación de concesiones podrá suscribir un programa de manejo aplicable a todos sus centros de cultivo que se encuentren dentro de la misma agrupación, adoptando, por uno o más de un período productivo, el porcentaje de reducción de siembra individual cuya determinación se regirá por los artículos 59 a 64 de este reglamento.
+
+Podrá incorporarse además al programa de manejo individual la medida de aumento de hasta un 3% en el número de peces por período productivo, en el caso que su o sus centros de cultivo obtengan una clasificación de bioseguridad alta.
+
+El programa de manejo será suscrito por el titular mediante instrumento autorizado ante Notario y deberá ser aprobado por la Subsecretaría.
 
 #### Artículo 58
 
@@ -1886,11 +1892,11 @@ En el caso que el centro de cultivo, integrante de una agrupación, no opere en 
 
 #### Artículo 58
 
-L. La Subsecretaría podrá establecer, previo informe técnico y con consulta al panel de expertos de que trata el artículo 64 B, macro-zonas cuyo objetivo será favorecer la biocontención de una emergencia sanitaria de tal forma de evitar la diseminación de un foco de enfermedad o infección, según corresponda. El establecimiento de las macro-zonas deberá fundarse en los antecedentes oceanográficos pertinentes.
+L. La Subsecretaría podrá establecer, previo informe técnico, macro-zonas cuyo objetivo será favorecer la biocontención de una emergencia sanitaria de tal forma de evitar la diseminación de un foco de enfermedad o infección, según corresponda. El establecimiento de las macro-zonas deberá fundarse en los antecedentes oceanográficos pertinentes.
 
 Las macro-zonas estarán compuestas por dos o más agrupaciones de concesiones y en lo posible, deberán contar con infraestructura que permita que el transporte en ella se realice en forma independiente del tránsito por otras macro-zonas. Se deberá considerar una distancia entre macro zonas de al menos 5 millas náuticas, las que se medirán entre las concesiones periféricas de cada agrupación.
 
-El informe técnico que proponga las macro-zonas deberá indicar medidas que aseguren, cuando corresponda, que los centros de cultivo existentes que interrumpen la distancia de 5 millas entre macro-zonas sean reubicados u otra medida alternativa de efecto similar. Sobre la propuesta de macro-zonas y de las medidas se pronunciará el panel de expertos a que se refiere el inciso anterior.
+El informe técnico que proponga las macro-zonas deberá indicar medidas que aseguren, cuando corresponda, que los centros de cultivo existentes que interrumpen la distancia de 5 millas entre macro-zonas sean reubicados u otra medida alternativa de efecto similar.
 
 Ante una emergencia sanitaria, inmediatamente se aplicará la restricción del movimiento de las embarcaciones que presten servicios de acuicultura entre macro-zonas.
 
@@ -1918,23 +1924,21 @@ a) Ambiental: INFAs de los centros de cultivo integrantes de la agrupación, cuy
 
 b) Sanitario: Pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y las cosechas contabilizadas hasta un mes antes del término de aquél, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio, y
 
-c) Productivo: Comparación entre la proyección de siembra de la agrupación para el período productivo siguiente con el quiebre sanitario. Para tales efectos, se considerará como proyección de siembra el número total de ejemplares a sembrar en el período productivo siguiente en los centros de cultivo integrantes de la agrupación, declarados por sus titulares de conformidad con el artículo 24.
+c) Productivo: Comparación entre la proyección de siembra de la agrupación para el período productivo siguiente y la siembra efectiva en el período productivo anterior. Para tales efectos, se considerará como proyección de siembra el número total de ejemplares a sembrar en el período productivo siguiente en los centros de cultivo integrantes de la agrupación, declarados por sus titulares de conformidad con el artículo 24.
 
-Una resolución de la Subsecretaría, que se publicará en su página de dominio electrónico y en extracto en el Diario Oficial, previo informe técnico y consulta al panel de expertos a que se refiere el artículo 64 B, fijará el puntaje y la ponderación que se asignará a cada elemento antes señalado.
+Una resolución de la Subsecretaría, que se publicará en su página de dominio electrónico y en extracto en el Diario Oficial, previo informe técnico, fijará el puntaje y la ponderación que se asignará a cada elemento antes señalado.
 
 La clasificación de las agrupaciones será publicada en la página de dominio electrónico de la Subsecretaría y del Servicio, de conformidad con el artículo 174 de la ley.
 
 #### Artículo 58
 
-O. El quiebre sanitario de cada agrupación se determinará de acuerdo a los tramos de pérdidas obtenidos por la agrupación de concesiones en el período productivo inmediatamente anterior. En los casos que las concesiones integrantes de la agrupación no hayan operado en los dos últimos períodos productivos, se considerará el último período en que operaron.
+O. Para la determinación de la densidad de cultivo, en los casos que las concesiones integrantes de la agrupación no hayan operado en los dos últimos períodos productivos, se considerará el último período en que operaron.
 
-A cada tramo le corresponderá un porcentaje de aumento o disminución del número de peces ingresados en el período anterior, dando por resultado el quiebre sanitario del período productivo siguiente, de acuerdo con la siguiente tabla:
-
-La tabla antes señalada se aplicará sucesivamente a cada período productivo conforme a los resultados del período inmediatamente anterior.
+Inciso Eliminado.
 
 De conformidad con el artículo 71 B, el Servicio emitirá a partir del cuarto mes de iniciado el período productivo, trimestralmente, un reporte con la información ambiental y de pérdidas de los centros de cultivo integrantes de la agrupación.
 
-A partir de la clasificación de bioseguridad en alta, media o baja obtenida por la agrupación, se determinará una densidad de cultivo para la misma, expresada en kg/m³ y en el número máximo de ejemplares a ingresar a la agrupación de concesiones en el período productivo siguiente. No se podrá ingresar un mayor número de peces a la agrupación de concesiones a aquel que resulte de la aplicación de los porcentajes antes señalados, salvo lo indicado en el artículo 58 T inciso 1º.
+A partir de la clasificación de bioseguridad en alta, media o baja obtenida por la agrupación, se determinará una densidad de cultivo para la misma, expresada en kg/m³ y en el número máximo de ejemplares a ingresar a la agrupación de concesiones en el período productivo siguiente. No se podrá ingresar un mayor número de peces a la agrupación de concesiones a aquel que resulte de la fijación de la densidad, salvo lo indicado en el artículo 58 T inciso 1º.
 
 #### Artículo 58
 
@@ -1984,7 +1988,7 @@ A la densidad de cultivo que hubiere fijado el Servicio por resolución vigente 
 
 #### Artículo 58
 
-S. En los casos en que la agrupación hubiere obtenido una clasificación en bioseguridad media o baja, la densidad de cultivo que se hubiere fijado para la misma no será aplicable a los centros de cultivo integrantes de la agrupación que hubieren obtenido individualmente una clasificación en bioseguridad alta, correspondiente al tramo de pérdidas inferiores al 13%, conforme al artículo 24 A. En tal caso, la densidad aplicable corresponderá a aquella que será fijada conforme a la resolución a que se refiere el artículo 24 A. En el caso que dentro del período productivo respectivo se hubiesen realizado dos ciclos, se considerará la segunda clasificación de bioseguridad obtenida por el centro de cultivo.
+S. En los casos en que la agrupación hubiere obtenido una clasificación en bioseguridad media o baja, la densidad de cultivo que se hubiere fijado para la misma no será aplicable a los centros de cultivo integrantes de la agrupación que hubieren obtenido individualmente una clasificación en bioseguridad alta, correspondiente al tramo de pérdidas inferiores al 5%, conforme al artículo 24 A. En tal caso, la densidad aplicable corresponderá a aquella que será fijada conforme a la resolución a que se refiere el artículo 24 A. En el caso que dentro del período productivo respectivo se hubiesen realizado dos ciclos, se considerará la segunda clasificación de bioseguridad obtenida por el centro de cultivo.
 
 #### Artículo 58
 
@@ -2018,7 +2022,7 @@ Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamaci�
 
 #### Artículo 58
 
-U. La Subsecretaría mantendrá en su sitio de dominio electrónico tablas que den cuenta de los valores que se obtengan como quiebres sanitarios, densidad de cultivo de las agrupaciones, número máximo de peces a ingresar en ellas y por centro de cultivo, de acuerdo a los diversos rangos de la clasificación de bioseguridad.
+U. La Subsecretaría mantendrá en su sitio de dominio electrónico tablas que den cuenta de los valores que se obtengan como densidad de cultivo de las agrupaciones, número máximo de peces a ingresar en ellas y por centro de cultivo, de acuerdo a los diversos rangos de la clasificación de bioseguridad.
 
 #### Artículo 58
 
@@ -2026,45 +2030,51 @@ V. Las disposiciones del presente Título, no se aplicarán a la especie Salmón
 
 #### Artículo 59
 
-La densidad de cultivo no se aplicará en los casos en que los titulares de las concesiones integrantes de la agrupación de concesiones hubieren acordado incorporar la medida de porcentaje de reducción de siembra en el plan de manejo aprobado por el Servicio o presentar uno para establecer dicha medida, de conformidad con las disposiciones siguientes.
+La densidad de cultivo no se aplicará en caso que el titular de una o más concesiones de la misma agrupación suscriba un programa de manejo para someter a la medida de porcentaje de reducción de siembra individual a los centros de cultivo de que sea titular dentro de dicha agrupación para el próximo período productivo. Tampoco se aplicará la densidad de cultivo de que trata este Título en caso que el titular de una o más concesiones de la misma agrupación ya tenga vigente un programa de manejo suscrito por más de un período productivo, que haya incluido la medida de porcentaje de reducción de siembra individual para todos los centros de cultivo de que sea titular dentro de la agrupación. Con todo, aun en caso de tener vigente un programa de manejo individual suscrito por más de un período productivo, no se aplicará la medida de porcentaje de reducción de siembra individual si se verifica la condición señalada en el inciso 2° del artículo 60.
 
 #### Artículo 60
 
-Conforme al desempeño sanitario obtenido durante cada periodo productivo, la Subsecretaría elaborará la propuesta de porcentaje de reducción de siembra a aplicar en el próximo periodo productivo, lo que comprenderá el número total de ejemplares de peces que será posible ingresar a la agrupación en el próximo período productivo, sea que se realicen uno o dos ciclos productivos. Cuando corresponda, dicho porcentaje se ajustará al término de cada periodo productivo para el próximo, conforme al desempeño sanitario obtenido durante aquel.
+Conforme al desempeño sanitario obtenido durante cada período productivo, la Subsecretaría elaborará la propuesta de porcentaje de reducción de siembra, lo que comprenderá el número total de ejemplares de peces que será posible ingresar a los centros de cultivo del mismo titular en el próximo período productivo, sea que se realicen uno o dos ciclos productivos. Cuando corresponda, dicho porcentaje se ajustará al término de cada período productivo para el próximo, conforme al desempeño sanitario obtenido durante aquel.
 
-El porcentaje de reducción de siembra por agrupación será determinada por la Subsecretaría considerando las variables que a continuación se indican en el período productivo inmediatamente anterior:
+En ningún caso será procedente el porcentaje de reducción de siembra individual cuando todos los centros de cultivo del mismo titular hayan obtenido pérdidas superiores a 20% en el período productivo anterior.
 
-a) Pérdidas de la agrupación, conforme lo indicado en el artículo 58 Ñ letra b) del presente reglamento.
+El porcentaje de reducción de siembra individual será determinado por la Subsecretaría considerando las variables que a continuación se indican en el período productivo inmediatamente anterior:
 
-b) Indicadores sanitarios de todos los centros de cultivo de la agrupación, asociados a una enfermedad o infección sometida a un programa específico de control, que se vean deteriorados en la medida en que aumentan los niveles de biomasa.
+a) Pérdidas del o de los centros de cultivo del mismo titular, conforme a lo indicado al artículo 24 A de este reglamento.
 
-Una resolución de la Subsecretaría fijará los indicadores sanitarios que deberán ser considerados en el caso de la letra b) y la ponderación de las variables indicadas en las letras a) y b). Asimismo, establecerá en los casos que sea procedente, los porcentajes en que la siembra de la agrupación correspondiente al último periodo productivo, deberá ser disminuida para el próximo período productivo, conforme al desempeño sanitario obtenido por la agrupación.
+b) Indicadores sanitarios de todos los centros de cultivo del mismo titular, asociados a una enfermedad o infección sometida a un programa específico de control, que se vean deteriorados en la medida en que aumentan los niveles de biomasa.
+
+Una resolución de la Subsecretaría fijará los indicadores sanitarios que deberán ser considerados en el caso de la letra b) y la ponderación de las variables indicadas en las letras a) y b). La misma resolución establecerá los porcentajes de reducción de siembra individual que sean procedentes, conforme a la clasificación de bioseguridad del o de los centros de cultivo del mismo titular, según corresponda.
 
 #### Artículo 61
 
-La distribución del porcentaje de reducción de siembra entre los centros de cultivo integrantes de la agrupación será determinada por sus titulares e incorporada en el plan de manejo. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental del centro de cultivo respectivo.
+La distribución del porcentaje de reducción de siembra individual en el caso que el titular tenga dos o más centros, deberá ser incorporado a un programa de manejo. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental de cada uno de los centros de cultivo respectivos.
 
-No podrá incorporarse al plan de manejo un porcentaje de reducción de siembra menor al propuesto por la Subsecretaría que tenga el efecto de reemplazar la medida de densidad de cultivo de la agrupación.
+No podrá incorporarse al programa de manejo un porcentaje de reducción de siembra menor al propuesto por la Subsecretaría que tenga el efecto de reemplazar la medida de densidad de cultivo de la agrupación aplicable al centro. En caso que el porcentaje de reducción de siembra sea mayor al propuesto por la Subsecretaría, será aprobado para el período productivo siguiente. Sin embargo, para el cálculo correspondiente al período productivo subsiguiente, será considerado el porcentaje que hubiere sido propuesto originalmente por la Subsecretaría y no el que finalmente se suscribió.
 
-En todo caso, todos los centros de cultivo integrantes de la agrupación quedarán sometidos a la densidad de cultivo para centros de engorda establecida por resolución vigente del Servicio.
+Todos los centros de cultivo sometidos a un porcentaje de reducción de siembra individual, quedarán sometidos a la densidad de cultivo para centros de engorda establecida por resolución vigente del Servicio.
+
+Si al término del período productivo los centros de cultivo del mismo titular son clasificados en bioseguridad alta, el titular podrá aumentar hasta en un 3% el número de peces a sembrar en el período siguiente.
 
 #### Artículo 62
 
-La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de la agrupación de concesiones conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma.
+La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de las concesiones de cada agrupación conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma.
 
-La circunstancia de incorporar el porcentaje de reducción de siembra propuesto por la Subsecretaría en el plan de manejo vigente o la presentación de un plan que consista en dicha medida, en reemplazo de la densidad de cultivo por agrupación, deberá ser informada a la Subsecretaría en el plazo establecido para remitir las observaciones a la propuesta de densidad.
+El programa de manejo mediante el cual el titular optará por someterse al porcentaje de reducción de siembra individual, en reemplazo de la aplicación de la densidad de cultivo por agrupación al o a los centros de su titularidad, deberá ser presentado a la Subsecretaría en el plazo establecido para remitir las observaciones a la propuesta de densidad. La Subsecretaría tendrá el plazo de 7 días hábiles para aprobar o rechazar el programa de manejo.
 
-La modificación o presentación del plan de manejo que incorpore la medida de porcentaje de reducción de siembra y su distribución para el próximo período productivo entre los centros de cultivo integrantes de la agrupación, deberá efectuarse ante el Servicio en el plazo de cinco días hábiles contados desde la comunicación a la Subsecretaría a que se refiere el artículo anterior. El Servicio tendrá el plazo de siete días hábiles para aprobar o rechazar la medida propuesta.
+La Subsecretaría deberá señalar los centros que quedan sometidos a porcentaje de reducción de siembra individual en la resolución que fija la densidad de cultivo de la agrupación.
 
 #### Artículo 63
 
-El Servicio comunicará a la Subsecretaría la circunstancia de no haber aprobado el porcentaje de reducción de siembra incorporada al plan de manejo por ser inferior al propuesto, no contar con el quórum exigido, haber sido presentado el plan de manejo fuera de plazo o por el incumplimiento de cualquier otro requisito.
+La Subsecretaría rechazará el porcentaje de reducción de siembra individual por ser inferior al determinado por la Subsecretaría, por no proceder esta opción respecto de todos los centros de cultivo del titular por haber incurrido en la condición señalada en el inciso 2° del artículo 60 o por incumplimiento de cualquier otro requisito.
 
-De verificarse la condición indicada en el inciso anterior, la Subsecretaría deberá dictar la resolución de densidad de cultivo de la agrupación, quedando los titulares de los centros integrantes de la agrupación sometidos a ella, sin perjuicio de la reclamación que sea procedente de conformidad con el artículo 86 bis de la ley.
+De verificarse algunas de las condiciones indicadas en el inciso anterior, la resolución de la Subsecretaría que fije la densidad de cultivo de la agrupación deberá incorporar a los centros de cultivo respecto de los cuales se rechazó el porcentaje de reducción de siembra individual, todos los cuales quedarán sometidos a dicha densidad.
 
 #### Artículo 64
 
-En el evento que el plan de manejo que incorpore la medida de porcentaje de reducción de siembra o su modificación para tal efecto, sea aprobado por el Servicio, se comunicará a la Subsecretaría, quedando los titulares de los centros integrantes de la agrupación sometidos a ella.
+En los casos en que se aplique el porcentaje de reducción de siembra individual, no se aplicará la reducción de siembra prevista en el artículo 24 A para los centros de cultivo sometidos a dicho porcentaje.
+
+Todos los centros de cultivo de un titular dentro de una misma agrupación deberán quedar sometidos a idéntico régimen, sea de densidad de cultivo o de porcentaje de reducción de siembra individual.
 
 ## Título XV
 
@@ -2076,17 +2086,11 @@ A. La Subsecretaría y el Servicio podrán consultar expertos nacionales e inter
 
 #### Artículo 64
 
-B. Existirá un panel de expertos de carácter consultivo integrado por cinco miembros elegidos por el Ministro de Economía, Fomento y Turismo, los que tendrán que emitir opinión en las siguientes materias:
-
-a) Sobre la propuesta de macro-zonas que formule la Subsecretaría, y,
-
-b) Sobre la metodología para establecer el puntaje asignado a los diversos elementos que conforman la clasificación de los centros de cultivo y de las agrupaciones de concesiones.
-
-Dicho panel de expertos deberá emitir su pronunciamiento en el plazo de un mes desde que sea requerido y se prescindirá de él en caso contrario.
+B. Eliminado.
 
 #### Artículo 64
 
-C. Los expertos deberán contar con un título profesional vinculado a las ciencias del mar, medicina veterinaria, ciencias económicas u otra carrera de ciencias con especialización en materias ambientales, recursos naturales o administración y acreditar experiencia profesional de al menos 10 años. El nombramiento de los expertos durará un año, pudiendo renovarse por una sola vez.
+C. Eliminado
 
 ## Título XVI
 
