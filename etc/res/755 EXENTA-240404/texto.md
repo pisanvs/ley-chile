@@ -230,7 +230,9 @@ También podrá emplearse, para aplicaciones inductivas, la banda 7.400 - 8.800 
 
 j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW y, al exterior de inmuebles con 20 mW, en ambos casos técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
 
-j.4) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servicio fijo, con las siguientes características técnicas:
+j.4) Operen, en la banda de 925 a 928 MHz, con una potencia máxima radiada de 1 W con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
+
+j.5) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servicio fijo, con las siguientes características técnicas:
 
 - Potencia máxima de salida del transmisor: 10 dBm.
 
@@ -238,7 +240,7 @@ j.4) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servic
 
 - Potencia máxima radiada: 50 dBm.
 
-j.5) Equipos de banda ultra-ancha (conocidos por la sigla en inglés UWB), entendiéndose como tales los que operen con un ancho de banda fraccional igual o superior a 0,20 o un ancho de banda a -10 dB (B-10) igual o superior a 500 MHz, independientemente del ancho de banda fraccional.
+j.6) Equipos de banda ultra-ancha (conocidos por la sigla en inglés UWB), entendiéndose como tales los que operen con un ancho de banda fraccional igual o superior a 0,20 o un ancho de banda a -10 dB (B-10) igual o superior a 500 MHz, independientemente del ancho de banda fraccional.
 
 Para estos efectos el ancho fraccional se define como: Bf = B-10 / fC
 
@@ -246,15 +248,15 @@ donde fC es la frecuencia central del ancho de banda a -10 dB.
 
 Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las disposiciones establecidas en el Apéndice 1 de la presente resolución y no deben ser empleados para el funcionamiento de juguetes ni operarse a bordo de aeronaves, barcos o satélites.
 
-j.6) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
+j.7) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
 
-j.7) Operen, al interior de inmuebles, en la banda de frecuencias de 57 a 64 GHz, con las siguientes características técnicas:
+j.8) Operen, al interior de inmuebles, en la banda de frecuencias de 57 a 64 GHz, con las siguientes características técnicas:
 
 - Potencia máxima de salida del transmisor: 500 mW.
 
 - Potencia máxima radiada: 43 dBm.
 
-j.8) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una P.I.R.E. máxima, medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
+j.9) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una P.I.R.E. máxima, medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
 
 Estos equipos no podrán emplearse en aeronaves, satélites y sensores de perturbaciones de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija.
 
