@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 83, de 19 de agosto de 2016, que autoriza a las Instituciones sin fines de lucro, Centro de Rehabilitación Esperanza Juvenil, RUT Nº 65.769.920-9; Corporación para la Prevención Rehabilitación e Integración Social de Personas con Problemas de Adicción Cristo Obrero, RUT Nº 65.100.532-9; Fundación para la Fibromialgia Abracitos de Algodón, RUT Nº 65.116.917-8, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2016.
