@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 689 EXENTA, DE 26 DE NOVIEMBRE DE 2015
+
+Por resolución exenta N° 689, de 26 de noviembre de 2015, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se aprobaron los Planes y Programas de estudio de los Cursos A3, A4 y A5 a la Escuela de Conductores Profesionales denominada "Fénix Capacitaciones Limitada", RUT 76.089.226-2, representada legalmente por Patricia Ester de Lourdes Madina Avendaño, cédula de identidad N° 10.956.536-9, localizada en Membrillar N° 93, comuna de Rancagua, para impartir el curso conducente a la obtención de la licencia profesional Clase A3, A4 y A5; y se modificaron las resoluciones exentas Nos 101 y 102 de 2015, de esta Secretaría Regional.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
