@@ -2012,6 +2012,8 @@ Al egreso de la Educación Media Técnico-Profesional, los estudiantes habrán d
 
 > **Nota.** El numeral 1 del Artículo Único del Decreto 452, Educación, publicado el 25.11.2015, modifica la tabla inserta en el presente artículo "Sectores y Especialidades Técnico-Profesional", en el sentido de reemplazar la mención "Vitivinicultura" por "Vitivinícola".
 
+> **Nota.** NOTA 1 La letra a)del artículo 2° del Decreto 154, Educación, publicado 29.08.2016, modifica la presente norma en el sentido de agregar la nueva especialidad de Mecánica de Mantenimiento de Aeronaves en la tabla "Sectores y especialidades de la Formación Técnico-Profesional" en el sector Metalmecánica, la nueva especialidad de Mecánica de Mantenimiento de Aeronaves.
+
 #### Artículo 2º
 
 Los planes y programas de estudio elaborados por el Ministerio de Educación de acuerdo a las bases curriculares a que se refiere el presente decreto, y aprobados por el Consejo Nacional de Educación conforme a la ley, serán obligatorios para los establecimientos educacionales que carezcan de planes y programas propios de estudio.
@@ -2034,7 +2036,7 @@ En caso que dichos planes y programas sean aprobados en el período de vacacione
 
 #### Artículo 5º
 
-El Ministerio de Educación otorgará el título de Técnico de Nivel Medio a los alumnos egresados que hayan cumplido con las exigencias establecidas en las presentes Bases Curriculares y con la práctica profesional, de acuerdo a lo estipulado en el decreto exento Nº 2.516, de 2007, del Ministerio de Educación.
+El Ministerio de Educación otorgará el título de Técnico de Nivel Medio a los alumnos egresados que hayan cumplido con las exigencias establecidas en las presentes Bases Curriculares y con la práctica profesional, de acuerdo a lo estipulado en el decreto exento Nº 2.516, de 2007, del Ministerio de Educacióno aquel que en el futuro lo reemplace.
 
 #### Artículo 6º
 
@@ -2050,11 +2052,13 @@ Asimismo, deróganse el artículo 2º y el artículo transitorio del decreto sup
 
 Las bases curriculares para la educación media formación diferenciada técnico-profesional que se establecen en el presente decreto, entrarán en vigencia el año 2016. No obstante lo anterior, aquellos establecimientos educacionales que deseen presentar planes y programas propios de acuerdo a las bases curriculares establecidas por el presente decreto, podrán hacerlo a partir de la publicación de este.
 
+Las bases curriculares para la educación media formación diferenciada técnico-profesional de la especialidad de Mecánica de Mantenimiento de Aeronaves, que se establecen en el presente decreto, entrarán en vigencia a contar del año 2017 para tercer año y desde el año 2018 para cuarto año, ambos del nivel de educación media. Lo anterior, sin perjuicio de la presentación de planes y programas propios que realicen los establecimientos educacionales.
+
 #### Artículo segundo
 
 Los establecimientos educacionales que impartan las especialidades de Atención Social y Recreativa, Celulosa y Papel, Procesamiento de la Madera, Productos del Cuero, Secretariado, Tejidos, Textil y Ventas, reguladas en el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos de estas especialidades en 3º año de educación media hasta el año 2015.
 
-Los establecimientos educacionales que impartan la especialidad de Mecánica de Mantención de Aeronaves, también regulada por el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos en 3º año de educación media hasta el año 2017
+Los establecimientos educacionales que impartan la especialidad de Mecánica de Mantención de Aeronaves, también regulada por el decreto supremo Nº 220, de 1998, del Ministerio de Educación, podrán matricular alumnos en 3º año de educación media hasta el año 2016
 
 #### Artículo tercero
 
