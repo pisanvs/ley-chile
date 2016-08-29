@@ -148,7 +148,9 @@ El Consejo Administrativo del Servicio determinará anualmente los porcentajes d
 
 En los casos que resultaren saldos impagos de la deuda de préstamo correspondiente al socio jubilado, no condonada y que el socio jubilado no pueda dar cumplimiento, los socios codeudores solidarios mantendrán su responsabilidad.
 
-Para otorgar las ayudas descritas en las letras a), b), c), d), e), f), g), h), i) y j), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios, enfermedad, catástrofe, traslado médico, certificado médico de enfermedad invalidante o inhabilitante, en su caso.
+k) Bono por Acuerdo de Unión Civil: Cuando el afiliado celebre un contrato de Acuerdo de Unión Civil, tendrá derecho a percibir una asignación por este concepto. Si ambos convivientes fuesen afiliados, la asignación se pagará a cada uno en forma independiente. Excepcionalmente se concederá y pagará retroactivamente el Bono por Acuerdo de Unión Civil a los afiliados que hayan celebrado el acuerdo a contar de la entrada en vigencia de la ley N° 20.830, es decir, 13 de octubre de 2015. Debiendo hacer efectivo este, en un plazo máximo de tres meses a contar de la total tramitación del presente beneficio.
+
+Para otorgar las ayudas descritas en las letras a), b), c), d), e), f), g), h), i), j) y k) se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios, enfermedad, catástrofe, traslado médico, certificado médico de enfermedad invalidante o inhabilitante, acta inscrita en el Registro Especial de Acuerdos de Unión Civil a cargo del Servicio de Registro Civil e Identificación en su caso.
 
 El Consejo del Servicio determinará anualmente los porcentajes y el monto máximo al que podrá ascender cada beneficio.
 
