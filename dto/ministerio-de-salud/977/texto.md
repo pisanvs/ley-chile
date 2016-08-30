@@ -832,17 +832,9 @@ Para productos alimenticios deshidratados, que se consuman reconstituidos, la po
 
 33) Alimento de referencia: aquel alimento homólogo que sirve como patrón de comparación para realizar y destacar una modificación nutricional, restringido al descriptor reducido y sus sinónimos. Este alimento de referencia deberá estar presente en el mercado y ser de propia fabricación y, sólo en su defecto, se podrán considerar otros alimentos homólogos, también presentes en el mercado.
 
-34) Publicidad: Toda forma de promoción, comunicación, re
-
-comendación, propaganda, información o acción destinada a promover el consumo de un determinado producto.
-
-34) Gluten: fracción proteínica del trigo, centeno, cebada, avena o sus variedades híbridas y derivados de los mismos, que algunas personas no toleran y que es insoluble en agua y en 0,5M NaCI.
-
-35) Prolaminas: fracción del gluten que puede extraerse con etanol al 40-70%. La prolamina del trigo es la gliadina, la del centeno es la secalina, la de la cebada es la hordeína y la de la avena es la avenina
+34) Publicidad: Toda forma de promoción, comunicación, recomendación, propaganda, información o acción destinada a promover el consumo de un determinado producto.
 
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
-
-> **Nota.** NOTA 1 El N° 2 del Art. 1° del Decreto 12, Salud, publicado el 17.12.2013, modificó la presente norma en el sentido de incorporar un nuevo Nro. 34 "Publicidad". Posteriormente, el N° 1 del Art. 1° del Decreto 134, Salud, publicado el 14.01.2015, incorporó los nuevos Nros. 34 "Gluten" y 35 "Prolaminas", por lo que el N° 34 quedó repetido.
 
 #### Artículo 107
 
@@ -918,7 +910,11 @@ Además los productos importados deberán cumplir con todas las disposiciones de
 
 #### Artículo 109
 
-La información en el rótulo deberá estar en idioma castellano, pudiendo repetirse eventualmente en otro idioma. Los datos deberán señalarse con caracteres visibles, indelebles y fáciles de leer en circunstancias normales de compra y uso. No se permitirá sobreimpresión o cualquiera modificación de la información contenida en el rótulo original, salvo autorización por escrito de la autoridad sanitaria, con excepción de los productos importados cuya rotulación esté en otro idioma o no cumpla con las exigencias del presente reglamento en lo que a rotulación se refiere.
+La información en el rótulo deberá estar en idioma castellano, pudiendo repetirse eventualmente en otro idioma. Los datos deberán señalarse con caracteres visibles, indelebles y fáciles de leer en circunstancias normales de compra y uso. No se permitirá sobreimpresión o cualquier modificación de la información contenida en el rótulo original, salvo autorización por escrito de la autoridad sanitaria, con las siguientes excepciones:
+
+1) Los productos importados cuya rotulación esté en otro idioma o no cumpla con las exigencias del presente reglamento en lo que a rotulación se refiere;
+
+2) Los productos que utilicen la sobreimpresión o modificación de la información en el rótulo en conformidad a las disposiciones del artículo 120 bis del presente reglamento, incluyendo el ajuste de la información nutricional que debe declararse o eliminando información incompatible con dicho descriptor, cuando corresponda.
 
 #### Artículo 110
 
@@ -931,6 +927,24 @@ En aquellos alimentos o productos alimenticios que contengan saborizantes/aromat
 Para destacar la ausencia de nutrientes, factores alimentarios o ingredientes, natural o normalmente ausentes en un alimento, deberá hacerse en términos genéricos y no como una característica exclusiva del alimento que lo declara.
 
 > **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
+
+#### Artículo 110 bis
+
+Tratándose de cualquier alimento o producto alimenticio que, en su composición nutricional, contenga energía, sodio, azúcares o grasa saturada en cantidades superiores a las establecidas en la Tabla Nº1 del artículo 120 bis de este reglamento, no se podrá realizar publicidad dirigida a menores de 14 años, cualquiera sea el lugar donde ésta se realice.
+
+Para estos efectos, se podrá considerar que la publicidad está dirigida a este grupo etario si emplea, entre otros elementos, personajes y figuras infantiles, animaciones, dibujos animados, juguetes, música infantil, si contempla la presencia de personas o animales que atraigan el interés de menores de 14 años, o si contiene declaraciones o argumentos fantásticos acerca del producto o sus efectos, voces infantiles, lenguaje o expresiones propias de niños, o situaciones que representen su vida cotidiana, como son la escuela, el recreo o los juegos infantiles. Esta calificación deberá ser fundada.
+
+De igual manera, en la publicidad de estos alimentos no se podrán utilizar aplicaciones interactivas, juegos, concursos u otros elementos similares, dirigidos a menores de 14 años.
+
+Del mismo modo, también se entiende que la publicidad de tales alimentos o productos alimenticios está dirigida a menores de 14 años, cuando se realiza en programas o sitios web dirigidos a ese público objetivo; o cuando estos programas o sitios web capten una audiencia de menores de 14 años, mayor al 20%. Tampoco podrán publicitarse dichos alimentos o productos alimenticios en espacios publicitarios durante, entre o inmediatamente antes o después de la difusión de dichos programas o sitios web.
+
+Los alimentos o productos alimenticios que, en su composición nutricional, contengan energía, sodio, azúcares o grasa saturada en cantidades superiores a las establecidas en la Tabla Nº1 del artículo 120 bis de este reglamento, no podrán ofrecerse o entregarse gratuitamente a los menores de 14 años, ni utilizar ganchos comerciales dirigidos a éstos, no relacionados con la promoción propia del producto, tales como: juguetes, accesorios, adhesivos, incentivos u otros similares.
+
+Estos alimentos o productos alimenticios no se podrán expender, comercializar, promocionar ni publicitar dentro de los establecimientos de educación parvularia, básica o media.
+
+La publicidad de estos alimentos que se efectúe por medios de comunicación masivos, deberá llevar un mensaje que promueva hábitos de vida saludable, cuyas características serán determinadas por decreto supremo del Ministerio de Salud dictado "por orden del Presidente de la República".
+
+Se exceptuarán de las disposiciones de este artículo, los alimentos o las mezclas de éstos, a los que no se les haya añadido azúcares, miel, jarabes, sodio o grasas saturadas.
 
 #### Artículo 111
 
@@ -978,7 +992,7 @@ Los valores que figuren en la declaración de nutrientes deberán ser valores me
 
 Los límites de tolerancia para los valores de los nutrientes declarados en el rótulo, serán los siguientes:
 
-Para aquellos alimentos que en su rotulación declaren mensajes nutricionales o saludables y para aquellos que utilicen descriptores nutricionales, los límites de tolerancia para el valor declarado del nutriente en cuestión, serán los siguientes:
+Para aquellos alimentos que en su rotulación declaren mensajes nutricionales o saludables y para aquellos que utilicen descriptores nutricionales, con excepción de aquellos que rotulen el descriptor del artículo 120 bis del presente reglamento, los límites de tolerancia para el valor declarado del nutriente en cuestión, serán los siguientes:
 
 i) cuando los nutrientes y factores alimentarios
 
@@ -1004,7 +1018,15 @@ deberán estar presentes en una cantidad
 
 menor o igual al valor declarado en
 
-el rótulo.
+el rótulo. La tolerancia anteriormente
+
+descrita, aplicará también para los
+
+descriptores nutricionales referidos
+
+en el artículo 120 bis del presente
+
+reglamento.
 
 Para aquellos alimentos que en su rotulación no destaquen mensajes nutricionales o saludables, ni utilicen descriptores nutricionales, los límites de tolerancia para el etiquetado nutricional serán los siguientes:
 
@@ -1165,6 +1187,72 @@ En la declaración de propiedades nutricionales de los alimentos no se podrán u
 Los descriptores: libre, bajo aporte, reducido y liviano en colesterol sólo podrán aplicarse a alimentos que sean libres de grasa trans (máximo 0,2 g de ácidos grasos trans por porción de consumo habitual) y que contengan por porción de consumo habitual máximo 2 g de grasa saturada.
 
 Los alimentos que usen los descriptores que a continuación se indican, deberán ceñirse a lo establecido en el artículo 113 de este reglamento:
+
+#### Artículo 120 bis
+
+Cuando a un alimento o producto alimenticio se le haya adicionado sodio, azúcares o grasas saturadas, y su contenido supere el valor establecido en la Tabla Nº 1 del presente artículo, deberá rotular la o las características nutricionales relativas al nutriente adicionado. En el caso de la energía, se deberá rotular su contenido cuando se le haya adicionado azúcares, miel, jarabes, o grasas saturadas, y se supere el valor establecido en la referida tabla.
+
+Tabla Nº1: Límites de contenido de energía, sodio, azúcares totales y grasas saturadas en alimentos.
+
+.
+
+Se exceptuarán de la obligación de rotulación, indicada en el inciso primero del presente artículo, los siguientes alimentos o productos alimenticios:
+
+A. Los alimentos o las mezclas de éstos, a los que no se les haya añadido azúcares, miel, jarabes, sodio o grasas saturadas.
+
+B. Los alimentos que se comercialicen a granel, los porcionados, los fraccionados y los preparados a solicitud del público, aunque éstos se envasen al momento de la venta.
+
+C. Los siguientes alimentos del Título XXVIII, "De los Alimentos para Regímenes Especiales":
+
+c.1 Párrafo II de las fórmulas para lactantes.
+
+c.2 Párrafo III de las preparaciones comerciales de alimentos infantiles
+
+(colados y picados), salvo aquellas que tengan adición de azúcares.
+
+c.3 Párrafo IV de los alimentos para uso infantil procesados a base de
+
+cereales, salvo aquellos que tengan adición de azúcares.
+
+c.4 Párrafo V de los alimentos para uso médico o medicinal.
+
+c.5 Párrafo VII de los alimentos para regímenes de control de peso.
+
+D. Los siguientes alimentos del Título XXIX, "De los Suplementos Alimentarios y de los Alimentos para Deportistas":
+
+d.1 Párrafo I, de los suplementos alimentarios.
+
+d.2 En el Párrafo II, de los alimentos para deportistas, aquellos que
+
+cumplan con los requisitos descritos en las letras a), b), c) y d)
+
+del artículo 540.
+
+E. Los edulcorantes de mesa libres de azúcar y calorías, regulados en el artículo 146 del presente reglamento.
+
+Para los efectos de este artículo, se entenderá que un alimento es sólido o líquido según la unidad de medida utilizada en la declaración del contenido neto del alimento, es decir, será sólido si su contenido neto está expresado en gramos u otra medida equivalente, o líquido si su contenido neto está expresado en mililitros u otra medida equivalente. En el caso de los productos alimenticios que se consuman reconstituidos, se entenderá como sólido o líquido, según como sea el producto listo para consumir, de acuerdo a las instrucciones de reconstitución.
+
+La forma de destacar las características nutricionales indicadas en el inciso primero de este artículo será rotulando un símbolo octagonal de fondo color negro y borde blanco, y en su interior el texto "ALTO EN", seguido de: "GRASAS SATURADAS", "SODIO", "AZÚCARES" o "CALORÍAS", en uno o más símbolos independientes, según corresponda. Las letras del texto deberán ser mayúsculas y de color blanco. Además, en el mismo símbolo, deberá inscribirse en letras blancas, la frase "Ministerio de Salud", según el diagrama Nº 1 del presente artículo.
+
+El o los símbolos referidos se ubicarán en la cara principal de la etiqueta de los productos.
+
+Las dimensiones del o los símbolos referidos estarán determinadas de acuerdo al área de la cara principal de la etiqueta, según el cuadro siguiente:
+
+Cuadro Nº1: Dimensiones de símbolo.
+
+.
+
+En el caso de los envases cuya área de la cara principal de la etiqueta sea entre 30 cm² y menor a 60 cm², podrán rotularse el o los símbolos en otra cara visible del envase.
+
+Cuando corresponda rotular más de un símbolo con el descriptor "ALTO EN", éstos deberán estar dispuestos uno junto al otro. El o los símbolos deberán rotularse de modo visible, indeleble y fácil de leer en circunstancias normales de compra y uso. En ningún caso, podrán ser cubiertos total o parcialmente.
+
+Se exceptuarán de rotular el o los símbolos con el descriptor "ALTO EN" los alimentos envasados cuya área de la cara principal de la etiqueta sea menor a 30 cm², en cuyo caso este o estos símbolos deberán rotularse en el envase mayor que los contenga.
+
+Cuando un alimento rotule el descriptor "ALTO EN", no podrá declarar, en su rótulo o en su publicidad, las propiedades nutricionales descritas en el artículo 120 del presente reglamento, cuando se trate del mismo nutriente o energía.
+
+Cuando la información especificada en este artículo no haya sido considerada en el diseño de la gráfica original de la rotulación, se permitirá adherirla en la etiqueta o envase, de modo indeleble, y de acuerdo al tamaño, ubicación y demás características establecidas en este reglamento.
+
+.
 
 #### Artículo 121
 
@@ -2512,7 +2600,7 @@ De la congelacion de los alimentos
 
 #### Artículo 186
 
-Alimentos congelados son aquellos, naturales o elaborados, que han sido sometidos, mediante un equipo apropiado, a un proceso térmico hasta que el producto alcance una temperatura de -18ºC en el centro térmico.
+Alimentos congelados son aquellos, naturales o elaborados, que han sido sometidos, mediante un equipo apropiado, a un proceso térmico hasta que el producto alcance una temperatura de -18°C en el centro térmico. En la rotulación de los productos alimenticios congelados envasados que se expendan al público en tal condición, se deberá indicar en forma clara y legible la expresión "PRODUCTO CONGELADO", salvo los helados comestibles definidos en el artículo 243.
 
 #### Artículo 187
 
@@ -2536,7 +2624,11 @@ El transporte local de los alimentos congelados destinados a la distribución a 
 
 #### Artículo 192
 
-Los alimentos congelados deberán ofrecerse a la venta en vitrinas congeladoras o conservadoras destinadas a ese fin. Estas deberán ser capaces de funcionar y mantener la temperatura del producto a -18ºC y estar provistas de termómetros. Se podrá tolerar por períodos breves un aumento de la temperatura del producto, pero no se permitirá que esta sobrepase los -12ºC.
+Cuando los alimentos congelados se ofrezcan a la venta en esta condición deberán mantenerse en vitrinas congeladoras o conservadoras destinadas a ese fin, las que deberán ser capaces de mantener la temperatura del producto a -18°C y estar provistas de termómetros. Se podrá tolerar, por periodos breves, un aumento de la temperatura del producto sin que sobrepase los -12°C.
+
+Se podrán descongelar para su venta al consumidor final siempre que el proceso de descongelación se realice en establecimientos autorizados para elaborar alimentos, a temperaturas adecuadas al producto y en condiciones de higiene que garanticen la inocuidad del mismo, las que deberán mantenerse hasta la venta. Respecto de estos productos descongelados, se deberá observar estricto cumplimiento de la totalidad de las obligaciones establecidas en el presente reglamento para los alimentos frescos o refrigerados, según corresponda a sus nuevas condiciones de almacenamiento.
+
+Se deberá indicar en la rotulación del envase del producto descongelado o mediante un cartel junto a los alimentos descongelados que se expendan a granel, la fecha de elaboración original o lote de producción, la fecha de descongelación y la fecha de vencimiento, de acuerdo a la condición actual de producto descongelado. Además, en el mismo rótulo o cartel, según corresponda, se deberá indicar en forma clara y legible la expresión "PRODUCTO DESCONGELADO. NO VOLVER A CONGELAR". Asimismo, deberán ser informadas en el envase las nuevas condiciones de almacenamiento del producto descongelado. Las informaciones anteriores deberán ser aplicadas al rótulo por el establecimiento descongelador, para lo cual, en el caso de ser necesaria la sobreimpresión del etiquetado, no se requerirá la autorización de la Autoridad Sanitaria, contemplada en el artículo 109 del presente reglamento. Se eximen de la obligación de informar la condición de descongelado y la prohibición de volver a congelar exclusivamente los productos de panadería, masas horneadas o fritas, que no tengan relleno o estén rellenas con algunos de los productos señalados en los Títulos XVIII y XIX que se expendan a granel para su consumo inmediato.
 
 #### Artículo 193
 
@@ -4892,11 +4984,9 @@ Las vitrinas en que se exhiban comidas o platos preparados deberán cumplir con 
 
 #### Artículo 468
 
-Las comidas o platos preparados que se presenten envasados para la venta, que se expendan para llevar en porciones y/o variedades predefinidas por el elaborador deberán rotularse con el nombre del alimento, nombre del representante legal, dirección del establecimiento elaborador del alimento, número y fecha de la resolución sanitaria que autorizó el funcionamiento de dicho establecimiento de alimentos y nombre de la autoridad sanitaria que la emitió, fecha de elaboración, fecha de vencimiento o plazo de duración del producto, instrucciones para el almacenamiento, contenido neto, tamaño de la porción y la siguiente información nutricional por 100 gramos o 100 mililitros y por porción de consumo habitual: Valor energético en kcal, las cantidades de proteínas, carbohidratos disponibles y grasa en gramos, y la cantidad de sodio en miligramos. Excepcionalmente, en el caso de aquellos alimentos que contengan una cantidad igual o menor a 35 mg. de sodio por porción se aceptará como alternativa a la cuantificación obligatoria, la declaración de que el alimento no contiene más de 35 mg. de sodio por porción.
+Las comidas o platos preparados que se presenten envasados para la venta, que se expendan para llevar en porciones y/o variedades predefinidas por el elaborador deberán rotularse con el nombre del alimento, domicilio del establecimiento elaborador del alimento, nombre del representante legal de este último, número y fecha de la resolución sanitaria que autorizó el funcionamiento de dicho establecimiento de alimentos y nombre de la autoridad sanitaria que la emitió, fecha de elaboración, fecha de vencimiento o plazo de duración del producto, instrucciones para el almacenamiento, contenido neto y toda la información descrita en el artículo 115 del presente reglamento, salvo el número de porciones por envase.
 
-Esta información deberá estar impresa en el envase o contenida en una etiqueta adherida al mismo.
-
-> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+Esta información deberá estar impresa en el envase o contenida en una etiqueta adherida al mismo, de modo visible, indeleble y fácil de leer en circunstancias normales de compra y uso.
 
 ## Título XXVI
 
