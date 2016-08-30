@@ -104,9 +104,11 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 8°) Los comprendidos en los tratados celebrados con otras potencias;
 
-9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República, y
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República;
 
-10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años.
+10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años, y
+
+11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos.
 
 #### Artículo 7°
 
@@ -2242,11 +2244,9 @@ El conocimiento de esas excepciones corresponde al tribunal en lo civil.
 
 #### Artículo 175
 
-En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, se dividirá el ejercicio de la jurisdicción, estableciéndose un turno entre todos los jueces, salvo que la ley hubiere cometido a uno de ellos el conocimiento de determinadas especies de causas.
+En las comunas o agrupaciones de comunas en donde hubiere más de un juez de letras, deberá presentarse ante la secretaría del Primer Juzgado de Letras toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe a aquel de ellos que lo hará.
 
-El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
-
-Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
+Esta designación se efectuará mediante un sistema informático idóneo, asignando a cada causa un número de orden según su naturaleza. En todo caso, deberá velar por una distribución equitativa entre los distintos tribunales.
 
 Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a los tribunales de juicio oral en lo penal, que se regirán por las normas especiales que los regulan.
 
@@ -2262,15 +2262,11 @@ Derogado.
 
 #### Artículo 178
 
-No obstante lo dispuesto en el artículo 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
+No obstante lo dispuesto en los artículos 175 y 176, serán de la competencia del Juez que hubiere sido designado anteriormente, las demandas en juicios que se hayan iniciado por medidas prejudiciales, por medidas preparatorias de la vía ejecutiva o mediante la notificación previa ordenada por el artículo 758 del Código de Procedimiento Civil; todas las gestiones que se susciten con motivo de un juicio ya iniciado y aquellas a que dé lugar el cumplimiento de una sentencia, fuera del caso previsto en la parte final del artículo 114.
 
 #### Artículo 179
 
-No están sujetos a lo dispuesto en el artículo 176 el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales, ni los asuntos de jurisdicción voluntaria.
-
-La jurisdicción en estos casos será ejercida por el juez letrado de turno, a menos que se trate de negocios derivados del conocimiento que otro juzgado tuviere de un determinado asunto, en cuyo caso la jurisdicción podrá también ser ejercida por éste.
-
-Asimismo, en el territorio jurisdiccional de la Corte de Apelaciones de Santiago el turno para el conocimiento de los asuntos de que trata el presente artículo y demás que leyes especiales dispongan será ejercido simultáneamente por cinco jueces letrados en la forma establecida en el inciso segundo del artículo 175.
+Estarán sujetos a lo dispuesto en los artículos 175 y 176, según el caso, el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales y los asuntos de jurisdicción voluntaria.
 
 #### Artículo 180
 
@@ -2446,7 +2442,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 6.930 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.220 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.235 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.450 pesos.
 
 #### Artículo 199
 
@@ -4425,6 +4421,8 @@ Una vez protocolizados, valdrán como instrumentos públicos:
 4.- Las actas de ofertas de pago; y
 
 5.- Los instrumentos otorgados en el extranjero, las transcripciones y las traducciones efectuadas por el intérprete oficial o los peritos nombrados al efecto por el juez competente y debidamente legalizadas, que sirvan para otorgar escrituras en Chile.
+
+Sin perjuicio de lo anterior, los documentos públicos que hayan sido autenticados mediante el sistema de apostilla, según lo dispuesto en el artículo 345 bis del Código de Procedimiento Civil, no requerirán de protocolización para tener el valor de instrumentos públicos. La apostilla no requerirá certificación de ninguna clase para ser considerada auténtica.
 
 4). De las copias de escrituras públicas y documentos protocolizados y de los documentos privados.
 

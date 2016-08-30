@@ -48,7 +48,7 @@ El que ejecute o celebre, individual o colectivamente, cualquier hecho, acto o c
 
 Se considerarán, entre otros, como hechos, actos o convenciones que impiden, restringen o entorpecen la libre competencia o que tienden a producir dichos efectos, los siguientes:
 
-a) Los acuerdos expresos o tácitos entre competidores, o las prácticas concertadas entre ellos, que les confieran poder de mercado y que consistan en fijar precios de venta, de compra u otras condiciones de comercialización, limitar la producción, asignarse zonas o cuotas de mercado, excluir competidores o afectar el resultado de procesos de licitación.
+a) Los acuerdos o prácticas concertadas que involucren a competidores entre sí, y que consistan en fijar precios de venta o de compra, limitar la producción, asignarse zonas o cuotas de mercado o afectar el resultado de procesos de licitación, así como los acuerdos o prácticas concertadas que, confiriéndoles poder de mercado a los competidores, consistan en determinar condiciones de comercialización o excluir a actuales o potenciales competidores.
 
 b) La explotación abusiva por parte de un agente económico, o un conjunto de ellos, de una posición dominante en el mercado, fijando precios de compra o de venta, imponiendo a una venta la de otro producto, asignando zonas o cuotas de mercado o imponiendo a otros abusos semejantes.
 
@@ -57,6 +57,14 @@ c) Las prácticas predatorias, o de competencia desleal, realizadas con el objet
 #### Artículo 4º
 
 No podrán otorgarse concesiones, autorizaciones, ni actos que impliquen conceder monopolios para el ejercicio de actividades económicas, salvo que la ley lo autorice.
+
+#### Artículo 4° bis
+
+La adquisición, por parte de una empresa o de alguna entidad integrante de su grupo empresarial, de participación, directa o indirecta, en más del 10% del capital de una empresa competidora, considerando tanto sus participaciones propias como aquellas administradas por cuenta de terceros, deberá ser informada a la Fiscalía Nacional Económica a más tardar sesenta días después de su perfeccionamiento. El Fiscal Nacional Económico podrá instruir investigación respecto de dichos actos con el objeto de comprobar infracciones al artículo 3º.
+
+La obligación de informar establecida en el inciso anterior sólo se aplicará en el evento que la empresa adquirente, o su grupo empresarial, según corresponda, y la empresa cuya participación se adquiere tengan, cada una por separado, ingresos anuales por ventas, servicios y otras actividades del giro que excedan las cien mil unidades de fomento en el último año calendario.
+
+En caso que se infrinja la obligación de informar establecida en este artículo, podrán aplicarse las medidas del artículo 26, así como aquellas medidas preventivas, correctivas o prohibitivas que resulten necesarias.
 
 ## Título II
 
@@ -92,19 +100,13 @@ En caso de ausencia o impedimento del Presidente del Tribunal, éste sesionará 
 
 El nombramiento de los integrantes del Tribunal de Defensa de la Libre Competencia se hará efectivo por el Presidente de la República mediante decreto supremo del Ministerio de Economía, Fomento y Reconstrucción suscrito, además, por el Ministro de Hacienda.
 
-Es incompatible el cargo de integrante del Tribunal con la condición de:
+Los integrantes del Tribunal tendrán dedicación exclusiva en el desempeño de su cargo durante el período para el cual fueron nombrados. En consecuencia, no podrán prestar servicios de ningún tipo a personas naturales o jurídicas, o ejercer en cualquier forma aquellas actividades propias del título o calidad profesional que poseen.
 
-a) Funcionario público;
+Los ministros suplentes no tendrán dedicación exclusiva. Sin embargo, el desempeño de su cargo es incompatible con la condición de asesor o prestador de servicios profesionales en materias que digan relación con la libre competencia a personas naturales o jurídicas sometidas a la jurisdicción del Tribunal. Se considerará que asesora o presta servicios profesionales si percibe cualquier clase de remuneración, honorario o regalía de parte de personas naturales o jurídicas que asesoran o prestan servicios profesionales en dichas materias.
 
-b) Administrador, gerente, trabajador dependiente de sociedades anónimas abiertas o sometidas a las reglas de estas sociedades, como asimismo, de sus matrices, filiales, coligantes o coligadas, y
+No obstante lo dispuesto en los incisos anteriores, el desempeño como integrante del Tribunal será compatible con los cargos docentes, hasta por doce horas semanales.
 
-c) Asesor o prestador de servicios profesionales en materias que digan relación con la libre competencia a personas naturales o jurídicas sometidas a la jurisdicción del Tribunal, considerándose también que asesora o presta servicios profesionales si percibe cualquier clase de remuneración, honorario o regalía de personas naturales o jurídicas que asesoran o prestan servicios profesionales en dichas materias.
-
-Los ministros suplentes sólo estarán afectos a la incompatibilidad señalada en la letra c) precedente.
-
-Las personas que al momento de su nombramiento, o durante el ejercicio del cargo, ostenten cualquiera de las condiciones señaladas en el inciso séptimo de este artículo, deberán renunciar a ellas.
-
-No obstante lo dispuesto en los incisos anteriores, el desempeño como integrante del Tribunal será compatible con los cargos docentes.
+Inciso Suprimido.
 
 #### Artículo 7º
 
@@ -142,13 +144,13 @@ Los miembros del Tribunal podrán perder su competencia para conocer determinado
 
 En todo caso, se presume de derecho que el ministro titular o suplente, según corresponda, también estará inhabilitado cuando:
 
-a) El interés en esa causa sea de su cónyuge o de sus parientes hasta el tercer grado de consanguinidad o segundo de afinidad, o de personas que estén ligadas al mismo por vínculos de adopción, o de las empresas o sociedades en las cuales estas mismas personas sean sus representantes legales, mandatarios, directores, gerentes o desempeñen otros cargos directivos, posean directamente o por intermedio de otras personas naturales o jurídicas un porcentaje del capital de la sociedad superior al 10%, o que les permita elegir o hacer elegir uno o más de sus administradores, o ejerzan una influencia decisiva en la administración o gestión de la sociedad según lo dispuesto por el artículo 99 de la ley Nº18.045, de Mercado de Valores, y
+a) El interés en esa causa sea de su cónyuge, conviviente civil o de sus parientes hasta el tercer grado de consanguinidad o segundo de afinidad, o de personas que estén ligadas al mismo por vínculos de adopción, o de las empresas o sociedades en las cuales estas mismas personas sean sus representantes legales, mandatarios, directores, gerentes o desempeñen otros cargos directivos, posean directamente o por intermedio de otras personas naturales o jurídicas un porcentaje del capital de la sociedad superior al 10%, o que les permita elegir o hacer elegir uno o más de sus administradores, o ejerzan una influencia decisiva en la administración o gestión de la sociedad según lo dispuesto por el artículo 99 de la ley Nº18.045, de Mercado de Valores, y
 
-b) Asesore o preste servicios profesionales a personas naturales o jurídicas que tengan la calidad de parte en esa causa, o lo haya hecho en los dos años anteriores a la fecha de ingreso de aquélla o durante la investigación por parte de la Fiscalía Nacional Económica que la haya originado.
+b) Haya asesorado o prestado servicios profesionales a personas naturales o jurídicas que tengan la calidad de parte o interviniente en la causa, durante los dos años anteriores a la fecha de ingreso de aquélla o durante la investigación por parte de la Fiscalía Nacional Económica que la haya originado.
 
-Sin perjuicio de lo dispuesto en los incisos octavo, noveno y décimo del artículo 6°, será causal de recusación respecto de los integrantes titulares o suplentes, haber sido asesor o prestador de servicios de alguna de las partes durante el año que preceda a la notificación de la demanda o la publicación del decreto que ordena la iniciación del procedimiento del artículo 31; la existencia de relaciones laborales, comerciales, societarias o en comunidades de carácter profesional, con los abogados o asesores de alguna de las partes, o el desempeño o ejercicio profesional en las mismas dependencias, oficinas o inmuebles con estos últimos, aun cuando ello no revista participación en ingresos o el desarrollo de funciones comunes o coordinadas.
+Sin perjuicio de lo dispuesto en los incisos octavo y noveno del artículo 6°, será causal de recusación respecto de los integrantes titulares o suplentes, haber sido asesor o prestador de servicios de alguna de las partes durante el año que preceda a la notificación de la demanda o la publicación del decreto que ordena la iniciación del procedimiento del artículo 31; haber tenido relaciones laborales, comerciales, societarias o en comunidades de carácter profesional, con los abogados o asesores de alguna de las partes, o el desempeño o ejercicio profesional en las mismas dependencias, oficinas o inmuebles con estos últimos, aun cuando ello no revista participación en ingresos o el desarrollo de funciones comunes o coordinadas dentro de los dos años anteriores a la fecha en que le corresponda conocer del asunto.
 
-Asimismo, será causal de recusación que el ministro asesore o preste servicios profesionales a personas naturales o jurídicas que tengan o hayan tenido en los dos años anteriores a la fecha de ingreso de la causa en cuestión, la calidad de contraparte de las personas a que se refiere la letra b) del inciso segundo de este artículo, en algún proceso judicial o de negociación comercial, que pueda afectar la imparcialidad del ministro.
+Asimismo, será causal de recusación que el ministro haya asesorado o prestado servicios profesionales a personas naturales o jurídicas que hayan tenido, en los dos años anteriores a la fecha de ingreso de la causa en cuestión, la calidad de contraparte de las personas a que se refiere la letra b) del inciso segundo de este artículo, en algún proceso judicial o de negociación comercial, que pueda afectar la imparcialidad del ministro.
 
 La causal invocada podrá ser aceptada por el integrante afectado.
 
@@ -162,7 +164,7 @@ A los miembros del Tribunal se les aplicarán los artículos 319 a 331 del Códi
 
 #### Artículo 11 bis
 
-Sin perjuicio de las incompatibilidades establecidas en el artículo 6°, los integrantes titulares y suplentes del Tribunal no podrán ser administradores, gerentes o trabajadores dependientes, ni asesorar o prestar servicios profesionales, a personas naturales o jurídicas que hayan tenido la calidad de parte en alguna causa que conoció el respectivo ministro, por el plazo de un año contado desde que dicho ministro cesó en su cargo, salvo que la dictación de la sentencia sobre una causa que hubiera conocido el ministro se encontrare pendiente, en cuyo caso el término de un año se contará desde la notificación de la sentencia.
+Sin perjuicio de lo establecido en los incisos octavo y noveno del artículo 6°, los integrantes titulares y suplentes del Tribunal no podrán ser administradores, gerentes o trabajadores dependientes, ni asesorar o prestar servicios profesionales, a personas naturales o jurídicas que hayan tenido la calidad de parte en alguna causa que conoció el respectivo ministro, por el plazo de un año contado desde que dicho ministro cesó en su cargo, salvo que la dictación de la sentencia sobre una causa que hubiera conocido el ministro se encontrare pendiente, en cuyo caso el término de un año se contará desde la notificación de la sentencia.
 
 La infracción de esta prohibición será sancionada con inhabilitación absoluta para desempeñar cargos públicos por el período de cinco años y con una multa a beneficio fiscal equivalente al último año de remuneraciones percibidas en el cargo, sanciones que serán aplicadas por la Corte Suprema a requerimiento de cualquier interesado.
 
@@ -190,7 +192,7 @@ d) Incapacidad sobreviniente.
 
 Se entiende por tal, aquélla que impide al integrante ejercer el cargo por un período de tres meses consecutivos o de seis meses en un año.
 
-e) Incurrir en cualquiera de los casos contemplados en los incisos octavo y siguientes del artículo 6º.
+e) No cumplir lo dispuesto en los incisos octavo y noveno del artículo 6°.
 
 Las medidas de las letras c), d) y e) precedentes se harán efectivas por la Corte Suprema, a petición del Presidente del Tribunal o de dos de sus miembros, sin perjuicio de las facultades disciplinarias de la Corte Suprema.
 
@@ -292,11 +294,11 @@ El Tribunal de Defensa de la Libre Competencia tendrá las siguientes atribucion
 
 1) Conocer, a solicitud de parte o del Fiscal Nacional Económico, las situaciones que pudieren constituir infracciones a la presente ley;
 
-2) Conocer, a solicitud de quien tenga interés legítimo, o del Fiscal Nacional Económico, los asuntos de carácter no contencioso que puedan infringir las disposiciones de la presente ley, sobre hechos, actos o contratos existentes o por celebrarse, para lo cual, podrá fijar las condiciones que deberán ser cumplidas en tales hechos, actos o contratos;
+2) Conocer, a solicitud de quienes sean parte o tengan interés legítimo en los hechos, actos o contratos existentes o por celebrarse distintos de las operaciones de concentración a las que se refiere el Título IV, o del Fiscal Nacional Económico, los asuntos de carácter no contencioso que puedan infringir las disposiciones de esta ley, para lo cual podrá fijar las condiciones que deberán ser cumplidas en tales hechos, actos o contratos;
 
 3) Dictar instrucciones de carácter general de conformidad a la ley, las cuales deberán considerarse por los particulares en los actos o contratos que ejecuten o celebren y que tuvieren relación con la libre competencia o pudieren atentar contra ella;
 
-4) Proponer al Presidente de la República, a través del Ministro de Estado que corresponda, la modificación o derogación de los preceptos legales y reglamentarios que estime contrarios a la libre competencia, como también la dictación de preceptos legales o reglamentarios cuando sean necesarios para fomentar la competencia o regular el ejercicio de determinadas actividades económicas que se presten en condiciones no competitivas; y
+4) Proponer al Presidente de la República, a través del Ministro de Estado que corresponda, la modificación o derogación de los preceptos legales y reglamentarios que estime contrarios a la libre competencia, como también la dictación de preceptos legales o reglamentarios cuando sean necesarios para fomentar la competencia o regular el ejercicio de determinadas actividades económicas que se presten en condiciones no competitivas. En todo caso, el ministro receptor de la propuesta deberá manifestar su parecer sobre ésta. La respuesta será publicada en el sitio electrónico institucional del Tribunal, de la Fiscalía y del Ministerio de que se trate;
 
 5) Las demás que le señalen las leyes.
 
@@ -314,15 +316,17 @@ Las acciones contempladas en esta ley, prescriben en el plazo de tres años, con
 
 Sin perjuicio de lo anterior, las acciones para perseguir las conductas previstas en la letra a) del artículo 3° prescribirán en el plazo de cinco años, y el cómputo de la prescripción no se iniciará mientras se mantengan en el mercado los efectos imputables a la conducta objeto de la acción.
 
-Asimismo, las medidas que se determinen para prevenir, corregir o sancionar un atentado a la libre competencia, prescriben en dos años, contados desde que se encuentre firme la sentencia definitiva que las imponga. Esta prescripción se interrumpe por actos cautelares o compulsivos del Tribunal, del Fiscal Nacional Económico o del demandante particular.
+Asimismo, las multas que se impongan para sancionar un atentado a la libre competencia, prescriben en dos años, contados desde que se encuentre firme la sentencia definitiva que las imponga. Esta prescripción se interrumpe por actos cautelares o compulsivos del Tribunal, del Fiscal Nacional Económico o del demandante particular.
 
-La prescripción de las acciones y la de las medidas que se determinen para prevenir, corregir o sancionar un atentado a la libre competencia, no se suspenden a favor de ninguna persona.
+La prescripción de las acciones y la de las multas que se impongan para sancionar un atentado a la libre competencia, no se suspenden a favor de ninguna persona.
 
 Sin perjuicio de las disposiciones generales, las acciones civiles derivadas de un atentado a la libre competencia prescriben en el plazo de cuatro años, contado desde que se encuentre ejecutoriada la sentencia definitiva.
 
 #### Artículo 21º
 
 La notificación del requerimiento o de la demanda, con su respectiva resolución, será practicada personalmente por un ministro de fe, entregando copia íntegra de la resolución y de los antecedentes que la motivan. El Tribunal podrá disponer que se entregue sólo un extracto de estos documentos.
+
+Se podrá notificar a las filiales o agencias constituidas en Chile de una empresa extranjera, los requerimientos o demandas que se deduzcan en su contra por infracciones de esta ley, y carecerá de valor cualquier limitación estatutaria de dicha filial o agencia.
 
 La resolución que reciba la causa a prueba deberá notificarse por cédula. Transcurridos 30 días hábiles, contados desde la dictación de dicha resolución sin que ésta se hubiere notificado, el Tribunal procederá a notificarla de conformidad con el inciso cuarto.
 
@@ -336,9 +340,7 @@ Tendrán el carácter de ministro de fe para la práctica de las diligencias pre
 
 #### Artículo 22º
 
-Vencido el plazo establecido en el artículo 20, sea que se hubiere evacuado o no el traslado por los interesados, el Tribunal podrá llamar a las partes a conciliación. De no considerarlo pertinente o habiendo fracasado dicho trámite, recibirá la causa a prueba por un término fatal y común de veinte días hábiles. Acordada una conciliación, el Tribunal se pronunciará sobre ella dándole su aprobación, siempre que no atente contra la libre competencia.
-
-En contra de la resolución que apruebe una conciliación podrá deducirse, por personas admitidas a litigar que no hubieren sido parte en ella, el recurso de reclamación a que se refiere el artículo 27.
+Vencido el plazo establecido en el artículo 20, sea que se hubiere evacuado o no el traslado por los interesados, el Tribunal podrá llamar a las partes a conciliación. De no considerarlo pertinente o habiendo fracasado dicho trámite, recibirá la causa a prueba por un término fatal y común de veinte días hábiles. Acordada una conciliación, el Tribunal se pronunciará sobre ella dándole su aprobación, siempre que no atente contra la libre competencia. En contra de la resolución que apruebe una conciliación podrá deducirse, por personas admitidas a litigar que no hubieren sido parte en ella, el recurso de reclamación a que se refiere el artículo 27.
 
 Serán admisibles los medios de prueba indicados en el artículo 341 del Código de Procedimiento Civil y todo indicio o antecedente que, en concepto del Tribunal, sea apto para establecer los hechos pertinentes. El Tribunal podrá decretar, en cualquier estado de la causa y aun después de su vista, cuando resulte indispensable para aclarar aquellos hechos que aún parezcan obscuros y dudosos la práctica de las diligencias probatorias que estime convenientes.
 
@@ -346,7 +348,9 @@ Las partes que deseen rendir prueba testimonial deberán presentar una lista de 
 
 Las diligencias a que dé lugar la inspección personal del Tribunal, la absolución de posiciones o la recepción de la prueba testimonial, serán practicadas ante el miembro que el Tribunal designe en cada caso, el que podrá efectuar las preguntas que estime convenientes, impedir que las declaraciones y las preguntas de las partes se desvíen hacia aspectos irrelevantes o inadmisibles y resolver de plano las objeciones que le fuesen formuladas.
 
-Las actuaciones probatorias que hayan de practicarse fuera del territorio de la Región Metropolitana de Santiago, podrán ser conducidas a través del correspondiente juez de letras, garantizando su fidelidad y rápida expedición por cualquier medio idóneo.
+Se podrá decretar un término probatorio extraordinario para rendir prueba fuera de la Región Metropolitana de Santiago, cuando el Tribunal de Defensa de la Libre Competencia declare que existe motivo fundado para ello.
+
+Estas diligencias podrán ser conducidas a través del juez de letras correspondiente, quien garantizará su fidelidad y rápida expedición por cualquier medio idóneo.
 
 Las demás actuaciones serán practicadas a través del funcionario de planta del Tribunal que se designe al efecto.
 
@@ -388,9 +392,13 @@ a) Modificar o poner término a los actos, contratos, convenios, sistemas o acue
 
 b) Ordenar la modificación o disolución de las sociedades, corporaciones y demás personas jurídicas de derecho privado que hubieren intervenido en los actos, contratos, convenios, sistemas o acuerdos a que se refiere la letra anterior;
 
-c) Aplicar multas a beneficio fiscal hasta por una suma equivalente a veinte mil unidades tributarias anuales y, en el caso de sancionar una conducta prevista en la letra a) del artículo 3°, hasta por una suma equivalente a treinta mil unidades tributarias anuales. Las multas podrán ser impuestas a la persona jurídica correspondiente, a sus directores, administradores y a toda persona que haya intervenido en la realización del acto respectivo. Las multas aplicadas a personas naturales no podrán pagarse por la persona jurídica en la que ejercieron funciones ni por los accionistas o socios de la misma. Asimismo, tampoco podrán ser pagadas por cualquiera otra entidad perteneciente al mismo grupo empresarial en los términos señalados por el artículo 96 de la Ley de Mercado de Valores, ni por los accionistas o socios de éstas. En el caso de las multas aplicadas a personas jurídicas, responderán solidariamente del pago de las mismas sus directores, administradores y aquellas personas que se hayan beneficiado del acto respectivo, siempre que hubieren participado en la realización del mismo.
+c) Aplicar multas a beneficio fiscal hasta por una suma equivalente al treinta por ciento de las ventas del infractor correspondientes a la línea de productos o servicios asociada a la infracción durante el período por el cual ésta se haya extendido o hasta el doble del beneficio económico reportado por la infracción. En el evento de que no sea posible determinar las ventas ni el beneficio económico obtenido por el infractor, el Tribunal podrá aplicar multas hasta por una suma equivalente a sesenta mil unidades tributarias anuales. Las multas podrán ser impuestas a la persona jurídica correspondiente, a sus directores, administradores y a toda persona que haya intervenido en la realización del acto respectivo. Las multas aplicadas a personas naturales no podrán pagarse por la persona jurídica en la que ejercieron funciones ni por los accionistas o socios de la misma. Asimismo, tampoco podrán ser pagadas por cualquiera otra entidad perteneciente al mismo grupo empresarial en los términos señalados por el artículo 96 de la ley N°18.045, de Mercado de Valores, ni por los accionistas o socios de éstas. En el caso de las multas aplicadas a personas jurídicas, responderán solidariamente del pago de las mismas sus directores, administradores y aquellas personas que se hayan beneficiado del acto respectivo, siempre que hubieren participado en la realización del mismo.
 
-Para la determinación de las multas se considerarán, entre otras, las siguientes circunstancias: el beneficio económico obtenido con motivo de la infracción, la gravedad de la conducta, la calidad de reincidente del infractor y, para los efectos de disminuir la multa, la colaboración que éste haya prestado a la Fiscalía antes o durante la investigación.
+Para la determinación de las multas se considerarán, entre otras, las siguientes circunstancias: el beneficio económico obtenido con motivo de la infracción, en caso que lo hubiese; la gravedad de la conducta, el efecto disuasivo, la calidad de reincidente por haber sido condenado previamente por infracciones anticompetitivas durante los últimos diez años, la capacidad económica del infractor y la colaboración que éste haya prestado a la Fiscalía antes o durante la investigación;
+
+d) En el caso de las conductas previstas en la letra a) del artículo 3°, podrá imponer, además, la prohibición de contratar a cualquier título con órganos de la administración centralizada o descentralizada del Estado, con organismos autónomos o con instituciones, organismos, empresas o servicios en los que el Estado efectúe aportes, con el Congreso Nacional y el Poder Judicial, así como la prohibición de adjudicarse cualquier concesión otorgada por el Estado, hasta por el plazo de cinco años contado desde que la sentencia definitiva quede ejecutoriada;
+
+La aplicación de las sanciones previstas en este artículo será compatible con aquellas de carácter penal establecidas en la presente ley y con la determinación de la indemnización de perjuicios que prevé el artículo 30.
 
 #### Artículo 27º
 
@@ -418,15 +426,19 @@ Si cumplido el plazo el afectado no acreditare el pago de la multa, el Tribunal 
 
 Las normas contenidas en los Libros I y II del Código de Procedimiento Civil se aplicarán supletoriamente al procedimiento mencionado en los artículos precedentes, en todo aquello que no sean incompatibles con él.
 
-#### Artículo 30º
+#### Artículo 30°
 
-La acción de indemnización de perjuicios a que haya lugar, con motivo de la dictación por el Tribunal de Defensa de la Libre Competencia de una sentencia definitiva ejecutoriada, se interpondrá ante el tribunal civil competente de conformidad a las reglas generales, y se tramitará de acuerdo al procedimiento sumario, establecido en el Libro III del Título XI del Código de Procedimiento Civil.
+La acción de indemnización de perjuicios a que haya lugar con motivo de la dictación por el Tribunal de Defensa de la Libre Competencia de una sentencia definitiva ejecutoriada, se interpondrá ante ese mismo Tribunal y se tramitará de acuerdo al procedimiento sumario establecido en el Título XI del Libro Tercero del Código de Procedimiento Civil. Las resoluciones pronunciadas en este procedimiento, salvo la sentencia definitiva, sólo serán susceptibles del recurso de reposición, al que podrá darse tramitación incidental o ser resuelto de plano. Sólo será susceptible de recurso de reclamación, para ante la Corte Suprema, la sentencia definitiva.
 
-El tribunal civil competente, al resolver sobre la indemnización de perjuicios, fundará su fallo en las conductas, hechos y calificación jurídica de los mismos, establecidos en la sentencia del Tribunal de Defensa de la Libre Competencia, dictada con motivo de la aplicación de la presente ley.
+Al resolver sobre la acción de indemnización de perjuicios, el Tribunal de Defensa de la Libre Competencia fundará su fallo en los hechos establecidos en su sentencia que sirvan de antecedente a la demanda. El Tribunal apreciará la prueba de acuerdo a las reglas de la sana crítica.
+
+La indemnización de perjuicios comprenderá todos los daños causados durante el período en que se haya extendido la infracción.
+
+La acción de indemnización de perjuicios derivados de los acuerdos sancionados en el Título V de la presente ley se sustanciará conforme a lo establecido en este artículo, y respecto de ellos no podrán interponerse acciones civiles en el procedimiento penal.
 
 #### Artículo 31º
 
-El ejercicio de las atribuciones a que se refieren los números 2) y 3) del artículo 18, así como la emisión de los informes que le sean encomendados al Tribunal en virtud de disposiciones legales especiales, se someterán al siguiente procedimiento:
+El ejercicio de las atribuciones a que se refieren los números 2), 3) y 4) del artículo 18, así como la emisión de los informes que le sean encomendados al Tribunal en virtud de disposiciones legales especiales, se someterán al siguiente procedimiento:
 
 1) El decreto que ordene la iniciación del procedimiento se publicará en el Diario Oficial y en el sitio de Internet del Tribunal y se notificará, por oficio, a la Fiscalía Nacional Económica, a las autoridades que estén directamente concernidas y a los agentes económicos que, a juicio exclusivo del Tribunal, estén relacionados con la materia, para que, en un plazo no inferior a quince días hábiles, éstos y quienes tengan interés legítimo puedan aportar antecedentes.
 
@@ -818,9 +830,11 @@ Asimismo, el Fiscal Nacional Económico podrá disponer de oficio o a petición 
 
 Lo anterior es sin perjuicio que en un proceso en curso y previo traslado, se aplique lo dispuesto en el inciso octavo del artículo 22, o que se ordene por el tribunal otorgar copias de piezas del expediente que no se hayan agregado al proceso, suprimiendo en ellas todas las referencias que pudieren revelar las identidades u objeto de protección aludidos precedentemente.
 
-El Fiscal Nacional Económico podrá disponer que no se dé noticia del inicio de una investigación al afectado, con autorización del Tribunal de Defensa de la Libre Competencia;
+El Fiscal Nacional Económico podrá disponer que no se dé noticia del inicio de una investigación al afectado, con autorización del Tribunal de Defensa de la Libre Competencia.
 
-b) Actuar como parte, representando el interés general de la colectividad en el orden económico, ante el Tribunal de Defensa de la Libre Competencia y los tribunales de justicia, con todos los deberes y atribuciones que le correspondan en esa calidad. Exceptúanse las investigaciones criminales y causas de esa naturaleza.
+En todos los demás casos, los afectados tendrán acceso al expediente de la investigación que se siga en su contra, sin perjuicio de aquellas piezas declaradas reservadas o confidenciales, de conformidad a lo dispuesto en esta letra y en el artículo 42;
+
+b) Actuar como parte, representando el interés general de la colectividad en el orden económico, ante el Tribunal de Defensa de la Libre Competencia y los tribunales de justicia, con todos los deberes y atribuciones que le orrespondan en esa calidad.
 
 Ante la Corte Suprema, el Fiscal Nacional Económico, por sí o por delegado, podrá defender o impugnar los fallos del Tribunal de Defensa de la Libre Competencia.
 
@@ -842,21 +856,27 @@ h) Solicitar a los particulares las informaciones y los antecedentes que estime 
 
 Esta solicitud deberá ser fundada y se presentará a la Fiscalía Nacional Económica dentro de los cinco días siguientes a la comunicación del requerimiento, cuyos efectos se suspenderán desde el momento en que se efectúa la respectiva presentación.
 
-El Tribunal de Defensa de la Libre Competencia conocerá y resolverá dicha solicitud en su sesión más próxima, con informe verbal o escrito del Fiscal Nacional Económico, y su pronunciamiento no será susceptible de recurso alguno;
+El Tribunal de Defensa de la Libre Competencia conocerá y resolverá dicha solicitud en su sesión más próxima, con informe verbal o escrito del Fiscal Nacional Económico, y su pronunciamiento no será susceptible de recurso alguno.
+
+Quienes, con el fin de dificultar, desviar o eludir el ejercicio de las atribuciones de la Fiscalía Nacional Económica, oculten información que les haya sido solicitada por la Fiscalía o le proporcionen información falsa, incurrirán en la pena de presidio menor en sus grados mínimo a medio. Para la aplicación de dichas penas, el Fiscal Nacional Económico remitirá los antecedentes respectivos al Ministerio Público. Esta comunicación tendrá el carácter de denuncia para los efectos del artículo 53 del Código Procesal Penal.
+
+Quienes estén obligados a dar respuesta a las solicitudes de información efectuadas por el Fiscal Nacional Económico e injustificadamente no respondan o respondan sólo parcialmente, serán sancionados con una multa a beneficio fiscal de hasta dos unidades tributarias anuales por cada día de atraso, de conformidad con el procedimiento establecido en el artículo 39 ter, sin perjuicio de lo dispuesto en el inciso primero del artículo 42;
 
 i) Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales o incorporales que integren el patrimonio del Servicio, incluso aquellos que permitan enajenar y transferir el dominio y transigir respecto de derechos, acciones y obligaciones, sean contractuales o extracontractuales;
 
 Las transacciones a que se refiere el inciso anterior deberán ser aprobadas por resolución del Ministerio de Hacienda, cuando se trate de sumas superiores a dos mil unidades de fomento;
 
-j) Llamar a declarar, o pedir declaración por escrito, a los representantes, administradores, asesores y dependientes de las entidades o personas que pudieren tener conocimiento de hechos, actos o convenciones objeto de investigaciones y a toda otra persona que hubiere ejecutado y celebrado con ellas actos y convenciones de cualquier naturaleza, respecto de algún hecho cuyo conocimiento estime necesario para el cumplimiento de sus funciones;
+j) Llamar a declarar, o pedir declaración por escrito o por cualquier medio que garantice la fidelidad de la declaración, ratificada al término de la misma por quien la prestó, a los representantes, administradores, asesores y dependientes de las entidades o personas que pudieren tener conocimiento de hechos, actos o convenciones objeto de investigaciones y a toda otra persona que hubiere ejecutado y celebrado con ellas actos y convenciones de cualquier naturaleza, respecto de algún hecho cuyo conocimiento estime necesario para el cumplimiento de sus funciones.
+
+Quienes injustificadamente no comparezcan a declarar, habiendo sido previamente citados en conformidad a esta letra, serán sancionados con una multa a beneficio fiscal de una unidad tributaria mensual a una unidad tributaria anual, de conformidad con el procedimiento establecido en el artículo 39 ter, sin perjuicio de lo dispuesto en el inciso primero del artículo 42;
 
 k) Requerir de los organismos técnicos del Estado los informes que estime necesarios y contratar los servicios de peritos o técnicos;
 
-l) Celebrar convenios o memorándum de entendimiento con otros servicios públicos y universidades, en materias de cooperación recíproca. Asimismo, celebrar convenios con agencias u otros organismos extranjeros que tengan por objeto promover o defender la libre competencia en las actividades económicas;
+l) Celebrar convenios o memorándum de entendimiento con otros servicios públicos y universidades, en materias de cooperación recíproca. Asimismo, celebrar convenios con agencias u otros organismos extranjeros que tengan por objeto promover o jefender la libre competencia en las actividades económicas;
 
 m) Convenir con otros servicios públicos y organismos del Estado la transferencia electrónica de información, que no tenga el carácter de secreta o reservada de acuerdo a la ley, para facilitar el cumplimiento de sus funciones. Asimismo y previa resolución fundada del Fiscal Nacional Económico, podrá convenir la interconexión electrónica con organismos o instituciones privadas. Del mismo modo, podrá convenir esta interconexión con organismos públicos extranjeros u organizaciones internacionales, con los cuales haya celebrado convenios o memorándum de entendimiento;
 
-n) En casos graves y calificados de investigaciones destinadas a acreditar conductas de las descritas en la letra a) del artículo 3°, solicitar, mediante petición fundada y con la aprobación previa del Tribunal de Defensa de la Libre Competencia, autorización al Ministro de la Corte de Apelaciones que corresponda de acuerdo al turno, para que Carabineros o la Policía de Investigaciones, bajo la dirección del funcionario de la Fiscalía Nacional Económica que indique la solicitud, proceda a:
+n) En casos graves y calificados de investigaciones destinadas a acreditar conductas de las descritas en la letra a) del artículo 3°, solicitar, mediante petición fundada y con la aprobación previa del Tribunal de Defensa de la Libre Competencia, autorización al Ministro de la Corte de Apelaciones de Santiago que corresponda de acuerdo al turno, para que Carabineros o la Policía de Investigaciones, bajo la dirección del funcionario de la Fiscalía Nacional Económica que indique la solicitud, proceda a:
 
 n.1) Entrar a recintos públicos o privados y, si fuere necesario, a allanar y descerrajar;
 
@@ -876,35 +896,67 @@ Las expresiones "fiscal" o "Ministerio Público" a que hacen referencia las disp
 
 En caso que la Fiscalía no cumpliere con alguno de los requisitos o formalidades indicados en el párrafo cuarto, los afectados podrán reclamar ante el Ministro de Corte de Apelaciones a que se refiere el párrafo primero, el que resolverá de forma inmediata, en una sola audiencia, sin forma de juicio y oyendo a las partes.
 
-Los resultados de las actuaciones establecidas en el párrafo primero, no podrán ser utilizados como medios de prueba en el procedimiento ante el Tribunal, cuando el desempeño o ejercicio de ellas hubiere tenido lugar fuera de los supuestos establecidos en la ley o cuando no se hubieren cumplido los requisitos previstos para su procedencia y hubiere sido declarado así, en la forma señalada en el párrafo precedente, por el Ministro de Corte de Apelaciones allí referido.
+Acogido a tramitación el reclamo, se citará a la audiencia respectiva para el quinto día hábil. A la audiencia deberán comparecer los afectados y la Fiscalía Nacional Económica, debidamente representados, con todos los antecedentes o medios de prueba con los que cuenten para fundar sus respectivas posiciones. El reclamo deberá ser interpuesto dentro del plazo de diez días corridos, desde que aparezca o se acredite que quien deba reclamar tuvo o debió tener conocimiento del vicio o defecto que funda el reclamo. Los afectados deberán reclamar en un único acto de todos los incumplimientos relativos a una misma diligencia investigativa o actuación. Como medida para mejor resolver, el Ministro de Corte de Apelaciones podrá decretar, de oficio o a petición de parte, todas las medidas que estime convenientes. De la decisión del Ministro podrá apelarse para ante la Corte de Apelaciones de Santiago, dentro de quinto día. La apelación se conocerá con preferencia a otros asuntos, sin que proceda la suspensión de la vista de la causa por la causal del N° 5 del artículo 165 del Código de Procedimiento Civil. En contra de la sentencia que resuelva la apelación no procederá recurso alguno.
+
+Los resultados de las actuaciones establecidas en el párrafo primero, no podrán ser utilizados como medios de prueba en el procedimiento ante los tribunales, cuando el desempeño o ejercicio de ellas hubiere tenido lugar fuera de los supuestos establecidos en la ley o cuando no se hubieren cumplido los requisitos previstos para su procedencia y hubiere sido declarado así, en la forma señalada en el párrafo precedente, por el Ministro de Corte de Apelaciones allí referido.
 
 Los antecedentes que se obtengan en virtud del ejercicio de las facultades contenidas en esta letra, no podrán ser utilizados por la Fiscalía en ninguna otra investigación, salvo que medie una nueva autorización judicial;
 
 ñ) Suscribir acuerdos extrajudiciales con los agentes económicos involucrados en sus investigaciones, con el objeto de cautelar la libre competencia en los mercados.
 
-El Tribunal tomará conocimiento del acuerdo en una sola audiencia, sin forma de juicio, convocada especialmente al efecto, dentro del quinto día hábil de recibidos los antecedentes, durante la cual podrá escuchar alegatos de las partes comparecientes al acuerdo. El Tribunal deberá aprobar o rechazar el acuerdo en un plazo máximo de quince días hábiles, contados desde la fecha de la audiencia. Estas resoluciones una vez ejecutoriadas serán vinculantes para las partes que comparecieron al acuerdo y en su contra sólo procederá el recurso de reposición, y
+El Tribunal tomará conocimiento del acuerdo en una sola audiencia, sin forma de juicio, convocada especialmente al efecto, dentro del quinto día hábil de recibidos los antecedentes, durante la cual podrá escuchar alegatos de las partes comparecientes al acuerdo, así como el parecer de quienes tengan interés legítimo. Se presumirá que tienen interés legítimo el Servicio Nacional del Consumidor y las asociaciones de consumidores establecidas en la ley N°19.496. El Tribunal deberá aprobar o rechazar el acuerdo en un plazo máximo de quince días hábiles, contados desde la fecha de la audiencia. Estas resoluciones una vez ejecutoriadas serán vinculantes para las partes que comparecieron al acuerdo y en su contra sólo procederá el recurso de reposición;
 
-o) Las demás que señalen las leyes.
+o) Fijar los umbrales y recibir las notificaciones a que se refiere el artículo 48, sometiéndolas al procedimiento contemplado en el Título IV de esta ley;
 
-#### Artículo 39 bis
+p) Realizar estudios sobre la evolución competitiva de los mercados, en cuyo caso podrá ejercer las facultades contempladas en las letras f), g), h), j), k), l) y m) de este artículo y efectuar recomendaciones a órganos del Estado y agentes económicos.
 
-El que ejecute una conducta prevista en la letra a) del artículo 3° podrá acceder a una reducción o exención de la multa cuando aporte a la Fiscalía Nacional Económica antecedentes que conduzcan a la acreditación de dicha conducta y a la determinación de los responsables.
+En el ejercicio de las facultades contempladas en las letras h) y j) de este artículo, las personas naturales y los representantes de personas jurídicas a los que el Fiscal Nacional Económico pudiere irrogar perjuicio a sus intereses, podrán solicitar al Tribunal de Defensa de la Libre Competencia dejar sin efecto total o parcialmente el respectivo requerimiento en la forma establecida en los párrafos segundo y tercero de la letra h);
 
-Para acceder a uno de estos beneficios, el ejecutor de la conducta deberá cumplir los siguientes requisitos:
+q) Proponer fundadamente al Presidente de la República, a través del ministro de Estado que corresponda, la modificación o derogación de los preceptos legales o reglamentarios que estime contrarios a la libre competencia, como también la dictación de preceptos legales o reglamentarios cuando sean necesarios para fomentar la competencia o regular el ejercicio de determinadas actividades económicas que se presten en condiciones no competitivas. Este tipo de proposiciones tendrán siempre como antecedente una investigación o un estudio sobre la evolución competitiva de los mercados;
+
+r) Interponer querella criminal por los delitos establecidos en el artículo 62 y en el inciso sexto del artículo 39 bis;
+
+s) Dictar instrucciones a las que habrá de sujetarse el ejercicio de las atribuciones y el cumplimiento de los deberes acerca de los que trata este artículo, y
+
+t) Las demás que señalen las leyes.
+
+#### Artículo 39° bis
+
+El que intervenga en alguna de las conductas previstas en la letra
+
+- **a)** del artículo 3° podrá ser eximido de la disolución contemplada en la letra
+
+- **b)** del artículo 26 y obtener una exención o reducción de la multa a que se refiere la letra
+
+- **c)** de dicho artículo, en su caso, cuando aporte a la Fiscalía Nacional Económica antecedentes que conduzcan a la acreditación de dicha conducta y a la determinación de los responsables.
+
+Para acceder a uno de estos beneficios, quien intervenga en la conducta deberá cumplir los siguientes requisitos:
 
 1.- Proporcionar antecedentes precisos, veraces y comprobables que representen un aporte efectivo a la constitución de elementos de prueba suficientes para fundar un requerimiento ante el Tribunal;
 
-2.- Abstenerse de divulgar la solicitud de estos beneficios hasta que la Fiscalía haya formulado el requerimiento u ordene archivar los antecedentes de la solicitud, y
+2.- Abstenerse de divulgar la solicitud de estos beneficios hasta que la Fiscalía haya formulado el requerimiento u ordene archivar los antecedentes de la solicitud, salvo que la Fiscalía autorice expresamente su divulgación, y
 
 3.- Poner fin a su participación en la conducta inmediatamente después de presentar su solicitud.
 
-Para acceder a la exención de la multa, además de cumplir los requisitos señalados en el inciso anterior, el ejecutor de la conducta deberá ser el primero que aporte los antecedentes a la Fiscalía, dentro del grupo de responsables de la conducta imputada.
+Para acceder a la exención de la disolución o multa, en su caso, además de cumplir los requisitos señalados en el inciso anterior, quien intervenga en la conducta deberá ser el primero que aporte los antecedentes a la Fiscalía, dentro del grupo de responsables de la conducta imputada.
 
-Para acceder a una reducción de la multa, además de cumplir los requisitos señalados en el inciso segundo, el ejecutor de la conducta deberá aportar antecedentes adicionales a los presentados por quien primero acompañó antecedentes a la Fiscalía en virtud de este artículo. En todo caso, la rebaja de la multa que solicite el Fiscal en su requerimiento, no podrá ser superior al 50% de la mayor multa solicitada para los demás ejecutores de la conducta que no pueden acogerse a los beneficios de este artículo.
+Para acceder a una reducción de la multa, además de cumplir los requisitos señalados en el inciso segundo, quien intervenga en la conducta deberá aportar antecedentes adicionales a los presentados por el primero que haya acompañado antecedentes a la Fiscalía en virtud de este artículo. En todo caso, la rebaja de la multa que solicite el Fiscal en su requerimiento se limitará exclusivamente al segundo que haya aportado antecedentes y no podrá ser superior al 50% de la multa que de otro modo habría sido solicitada.
 
-En su requerimiento el Fiscal individualizará a cada ejecutor de la conducta que cumplió los requisitos para acceder al beneficio de exención o reducción de la multa. Si el Tribunal diere por acreditada la conducta, no podrá aplicar multa a quien haya sido individualizado como acreedor de una exención, como tampoco una multa mayor a la solicitada por el Fiscal a quien haya sido individualizado como acreedor de una reducción de la misma, salvo que se acredite durante el proceso que dicho acreedor fue el organizador de la conducta ilícita coaccionando a los demás a participar en ella.
+En su requerimiento el Fiscal individualizará a cada interviniente en la conducta que haya cumplido con los requisitos para acceder a cualquiera de los beneficios a que se refiere el inciso primero. Si el Tribunal diere por acreditada la conducta, no podrá aplicar la disolución o multa a quien haya sido individualizado como beneficiario de una exención, como tampoco una multa mayor a la solicitada por el Fiscal a quien haya sido individualizado como acreedor de una reducción de la misma, salvo que se acredite durante el proceso que dicho acreedor fue el organizador de la conducta ilícita coaccionando a los demás a participar en ella.
 
-Quien alegue la existencia de la conducta prevista en la letra a) del artículo 3°, fundado a sabiendas en antecedentes falsos o fraudulentos con el propósito de perjudicar a otros agentes económicos acogiéndose a los beneficios de este artículo, será sancionado conforme a lo establecido en el artículo 210 del Código Penal.
+Quien alegue la existencia de la conducta prevista en la letra a) del artículo 3°, fundado a sabiendas en antecedentes falsos o fraudulentos con el propósito de perjudicar a otros agentes económicos acogiéndose a los beneficios de este artículo, será sancionado con la pena de presidio menor en su grado máximo.
+
+Las investigaciones de los hechos constitutivos de dicho delito sólo serán iniciadas por querella formulada por la Fiscalía Nacional Económica, sin que sea aplicable, para estos efectos, lo dispuesto en el artículo 166 del Código Procesal Penal.
+
+La solicitud de los beneficios contemplados en el presente artículo constituirá un hecho o información esencial para los efectos de lo establecido en el inciso segundo del artículo 10 de la ley Nº18.045, de Mercado de Valores, respecto de aquellas entidades que están inscritas en el Registro de Valores al que se refiere la misma ley. Tanto la existencia de la referida solicitud como su contenido constituirán hechos o antecedentes reservados, en los términos del inciso tercero del mismo artículo.
+
+En ningún caso este régimen de exenciones o reducciones podrá extenderse a la indemnización de los perjuicios que tuviere lugar.
+
+#### Artículo 39° ter
+
+Para efectos de aplicar la multa establecida en las letras h) y j) del artículo 39 y determinar su monto, o en su caso, desestimar su aplicación, el Fiscal Nacional Económico solicitará al Tribunal citar al infractor a una audiencia que se realizará el quinto día posterior a su notificación. En esa audiencia el infractor podrá exponer sus descargos y, con el mérito de la solicitud de la Fiscalía y de los descargos presentados por el infractor o en su rebeldía, el Tribunal acogerá o rechazará la solicitud del Fiscal Nacional Económico y, de ser procedente, fijará el monto de la multa en la misma audiencia. Contra la resolución del Tribunal sólo procederá el recurso de reposición, el que deberá ser interpuesto en el acto. En cuanto a la ejecución de estas resoluciones se estará a lo dispuesto en el artículo 28. La inasistencia injustificada del infractor válidamente citado no afectará a la validez de la audiencia ni lo resuelto en ella.
+
+La circunstancia de haber concurrido a la decisión en el marco de este procedimiento no será causal de inhabilidad de los ministros del Tribunal de Defensa de la Libre Competencia para conocer de un eventual proceso.
 
 #### Artículo 40º
 
@@ -922,9 +974,9 @@ La Fiscalía deberá recibir e investigar, según corresponda, las denuncias que
 
 Las personas que entorpezcan las investigaciones que instruya la Fiscalía Nacional Económica en el ámbito de sus funciones, podrán ser apremiadas con arresto hasta por 15 días.
 
-La orden de arresto se dará por el juez letrado con jurisdicción en lo criminal que sea competente según las reglas generales, a requerimiento del Fiscal Nacional Económico, previa autorización de el Tribunal de Defensa de la Libre Competencia.
+La orden de arresto se dará por el juez letrado con jurisdicción en lo criminal que sea competente según las reglas generales, a requerimiento del Fiscal Nacional Económico, previa autorización del Tribunal de Defensa de la Libre Competencia.
 
-Los funcionarios y demás personas que presten servicios en la Fiscalía Nacional Económica, estarán obligados a guardar reserva sobre toda información, dato o antecedente de que puedan imponerse con motivo u ocasión del ejercicio de sus labores y, especialmente, aquellos obtenidos en virtud de las facultades indicadas en letras a), g), h) y n) del artículo 39, y en el artículo 41. Sin perjuicio de lo anterior, tales antecedentes podrán utilizarse para el cumplimiento de las funciones de la Fiscalía Nacional Económica y el ejercicio de las acciones ante el Tribunal de Defensa de la Libre Competencia o los tribunales de justicia.
+Los funcionarios y demás personas que presten servicios en la Fiscalía Nacional Económica, estarán obligados a guardar reserva sobre toda información, dato o antecedente de que puedan imponerse con motivo u ocasión del ejercicio de sus labores y, especialmente, aquellos obtenidos en virtud de las facultades indicadas en letras a), g), h), n), o), p) y q) del artículo 39, y en el artículo 41. Sin perjuicio de lo anterior, tales antecedentes podrán utilizarse para el cumplimiento de las funciones de la Fiscalía Nacional Económica y el ejercicio de las acciones ante el Tribunal de Defensa de la Libre Competencia o los tribunales de justicia.
 
 La infracción a esta prohibición se castigará con las penas indicadas en los artículos 246, 247 y 247 bis del Código Penal, y con las sanciones disciplinarias que puedan aplicarse administrativamente por la misma falta. Asimismo, serán aplicables las normas de responsabilidad funcionaria y del Estado contempladas en la ley Nº19.880, en el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N°18.834, sobre Estatuto Administrativo, y en la ley N° 18.575, sobre Bases Generales de la Administración del Estado.
 
@@ -953,6 +1005,60 @@ Las presentaciones de los particulares dirigidas a la Fiscalía Nacional Económ
 Si se tratare de presentaciones que deban hacerse dentro de determinado plazo, se entenderán efectuadas desde la fecha de presentación en la respectiva Intendencia o Gobernación.
 
 El Intendente o Gobernador, según el caso, deberá designar a un Secretario Regional Ministerial, jefe de servicio o abogado de su dependencia, según proceda, para la recepción y emisión de dichas comunicaciones, dentro de las veinticuatro horas de recibidas, a la Fiscalía Nacional Económica.
+
+## Título V
+
+De las Sanciones Penales
+
+#### Artículo 62°
+
+El que celebre u ordene celebrar, ejecute u organice un acuerdo que involucre a dos o más competidores entre sí, para fijar precios de venta o de compra de bienes o servicios en uno o más mercados; limitar su producción o provisión; dividir, asignar o repartir zonas o cuotas de mercado; o afectar el resultado de licitaciones realizadas por empresas públicas, privadas prestadoras de servicios públicos, u órganos públicos, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+
+Asimismo, será castigado con inhabilitación absoluta temporal, en su grado máximo, para ejercer el cargo de director o gerente de una sociedad anónima abierta o sujeta a normas especiales, el cargo de director o gerente de empresas del Estado o en las que éste tenga participación, y el cargo de director o gerente de una asociación gremial o profesional.
+
+Para determinar las penas establecidas en los dos incisos anteriores, el tribunal no tomará en consideración lo dispuesto en los artículos 67 a 69 del Código Penal ni las reglas especiales de determinación de las penas establecidas en otras leyes y, en su lugar, aplicará lo siguiente:
+
+1. Si no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal podrá recorrer toda la extensión de la pena señalada por la ley al aplicarla.
+
+2. Tratándose de la pena establecida en el inciso primero, si concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado inferior. Si concurren una o más agravantes y ninguna atenuante, aplicará la pena en su grado superior.
+
+3. Tratándose de la pena establecida en el inciso segundo, si concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado mínimo. Si concurren una o más agravantes y ninguna atenuante, la impondrá en su grado máximo. Para determinar en tales casos el mínimo y máximo de la pena, se dividirá por la mitad el período de su duración: la más alta de estas partes formará el máximo y la más baja el mínimo.
+
+4. Si concurren circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras, y también considerará la extensión del mal producido por el delito.
+
+5. El tribunal no podrá imponer una pena que sea mayor o menor al marco fijado por la ley, salvo que procedan las circunstancias establecidas en los artículos 51 a 54 del Código Penal.
+
+Será aplicable lo previsto en la ley N°18.216, conforme a las reglas generales. Sin embargo, la ejecución de la respectiva pena sustitutiva quedará en suspenso por un año, tiempo durante el cual el condenado deberá cumplir en forma efectiva la pena privativa de libertad a la que fuere sancionado.
+
+#### Artículo 63°
+
+Estarán exentos de responsabilidad penal por el delito tipificado en el artículo 62 aquellas personas que primero hayan aportado a la Fiscalía Nacional Económica antecedentes de conformidad al artículo 39 bis. El requerimiento del Fiscal Nacional Económico individualizará a las personas exentas de responsabilidad penal y dicha calidad será así declarada por el Tribunal de Defensa de la Libre Competencia.
+
+Las personas indicadas en el inciso anterior deberán proporcionar al Ministerio Público y al tribunal competente los mismos antecedentes que previamente entregaron a la Fiscalía Nacional Económica, y deberán prestar declaración en calidad de testigo en la forma dispuesta por el artículo 191 del Código Procesal Penal, declaración que será incorporada al juicio oral de la manera prevista en el artículo 331 del mencionado Código.
+
+Si el testigo legalmente citado no compareciere sin justa causa o se negare a ratificar su declaración prestada ante la Fiscalía Nacional Económica, y así lo declarare el juez de garantía competente a petición del Ministerio Público, o incurriere en alguna de las conductas previstas en los artículos 206 o 269 bis del Código Penal, será privado de la exención de responsabilidad penal que establece este artículo. La sanción respectiva se acumulará materialmente a la que corresponda según lo dispuesto en el artículo 62. En contra de la resolución del juez de garantía que privare de la exención de responsabilidad penal procederá el recurso de apelación, que se concederá en ambos efectos.
+
+Se le rebajará en un grado la pena determinada, según lo que dispone el inciso tercero del artículo 62, a aquellas personas que hayan aportado a la Fiscalía Nacional Económica antecedentes adicionales de conformidad al inciso cuarto del artículo 39 bis. El requerimiento del Fiscal Nacional Económico individualizará a los beneficiarios de rebaja de la pena y dicha calidad será así declarada por el Tribunal de Defensa de la Libre Competencia.
+
+Respecto de las personas consignadas en el inciso anterior no se aplicará lo dispuesto en el inciso cuarto del artículo 62 cuando comparezcan ante el Ministerio Público y el tribunal competente y ratifiquen su declaración prestada ante la Fiscalía Nacional Económica, salvo que el requerimiento de esta última involucre únicamente a dos competidores entre sí y que uno de dichos competidores tenga la calidad de acreedor del beneficio de exención de multa declarada por el Tribunal de Defensa de la Libre Competencia, en los términos del artículo 39 bis.
+
+#### Artículo 64°
+
+Las investigaciones de los hechos señalados en el inciso primero del artículo 62 sólo se podrán iniciar por querella formulada por la Fiscalía Nacional Económica, la que podrá interponerla una vez que la existencia del acuerdo haya sido establecida por sentencia definitiva ejecutoriada del Tribunal de Defensa de la Libre Competencia, sin que sea admisible denuncia o cualquier otra querella. Para estos efectos, no se aplicará lo dispuesto en el artículo 166 del Código Procesal Penal.
+
+El Fiscal Nacional Económico deberá interponer querella en aquellos casos en que se tratare de hechos que comprometieren gravemente la libre competencia en los mercados.
+
+El Fiscal Nacional Económico deberá emitir una decisión fundada en caso que, habiéndose cumplido los requisitos establecidos en el inciso primero, decidiere no interponer querella por los hechos señalados en el inciso primero del artículo 62.
+
+La interposición de la querella o la decisión de no formularla deberá tener lugar a más tardar en el plazo de seis meses, contado desde que se encuentre ejecutoriada la sentencia definitiva pronunciada por el Tribunal de Defensa de la Libre Competencia.
+
+En su querella, la Fiscalía Nacional Económica informará la circunstancia de haber obtenido autorización judicial para realizar una o más de las medidas a que se refieren los numerales n.1 a n.4 de la letra n) del artículo 39, así como el hecho de haber realizado o no dichas diligencias. El Ministerio Público podrá solicitar al Tribunal de Defensa de la Libre Competencia el alzamiento de la confidencialidad o reserva de determinadas piezas de su expediente para su utilización en el proceso penal.
+
+Para los efectos de su incorporación al proceso penal, se entenderá que las copias de los registros, evidencias y demás antecedentes que hayan sido recabados por la Fiscalía Nacional Económica, a partir de diligencias realizadas con autorización judicial de un ministro de Corte de Apelaciones, cumplen con lo dispuesto por el artículo 9º del Código Procesal Penal.
+
+#### Artículo 65°
+
+La acción penal para la persecución del delito descrito en el artículo 62 prescribirá en el plazo de diez años, contado desde que se encuentre ejecutoriada la sentencia definitiva pronunciada por el Tribunal de Defensa de la Libre Competencia.
 
 Disposiciones transitorias
 
