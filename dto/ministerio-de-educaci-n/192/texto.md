@@ -38,11 +38,11 @@ Las adquisiciones que se realicen en virtud de la presente delegación deberán 
 
 2.- Arrendamientos de:
 
-a) Bienes inmuebles para el uso del Ministerio de Educación, hasta por un período de cinco años, reservándose el Ministerio el derecho de desahuciar el contrato con un máximo de tres meses de anticipación, sujetándose el pago de las rentas a la existencia de fondos suficientes en el presupuesto.
+a) Bienes inmuebles para el uso del Ministerio de Educación, hasta por un periodo de cinco años, reservándose el Ministerio el derecho de desahuciar el contrato con un máximo de tres meses de anticipación, sujetándose el pago de las rentas a la existencia de fondos suficientes en el presupuesto.
 
 - Ministro de Educación:
 
-Arrendamientos cuya renta anual sea superior a 1.000 UTM y no exceda de 3.000 U.T.M.
+Arrendamientos cuya renta anual sea superior a 1.000 U.T.M. y no exceda de 5.000 U.T.M.
 
 - Subsecretario de Educación:
 
