@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "INVERSIONES PETRICIO Y PETRICIO LIMITADA"
+
+Mediante decreto exento Nº E-407, de 24 de agosto de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Inversiones Petricio y Petricio Limitada", RUT Nº 76.158.190-2, el inmueble fiscal que corresponde al Lote 5 de la Manzana E-2, ubicado en el Sector puerto Seco, comuna de Calama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el Nº 5315-7; amparado por inscripción global a nombre del Fisco que rola a fojas 49 vta. Nº 57, del Registro de Propiedad del Conservador de Bienes Raíces de El Loa - Calama, correspondiente al año 1928; de una superficie aproximada de 2.017,90 m2, singularizado en el Plano Nº 02201-6.876-C.U. La Concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 101,00.
+
+La Concesión se otorga para desarrollar en el inmueble el proyecto "Operación de Planta Embotelladora". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
