@@ -70,7 +70,9 @@ Para la merluza común en estado fresco, la declaración de stock deberá consid
 
 2. Para la acreditación de origen de los traslados o transferencias del stock, en forma total o parcial, el interesado deberá solicitar, en la oficina del Servicio donde efectuó la declaración señalada en el numeral precedente, la respectiva visación del documento tributario.
 
-3. Tratándose de la acreditación de origen para el traslado o transferencia de recurso fresco o producto fresco -enfriado almacenado en stock-, sólo procederá el trámite de visación hasta las 18:00 hrs. del día 02 de septiembre, permitiéndose su comercialización hasta las 23:59 hrs, del mismo día 02 de septiembre, para lo cual deberán coordinarse en forma previa con cada oficina del Servicio.
+3. Tratándose de la acreditación de origen para el traslado o transferencia del recurso Merluza común en estado fresco y/o fresco enfriado, sólo procederá el trámite de visación de documentos tributarios y la presentación de declaraciones de stock, hasta las 18:00 horas del primer día de iniciado el período de veda, permitiéndose su traslado y/o transferencia hasta el cuarto día del inicio del periodo de veda.
+
+Tratándose de productos congelados derivados del recurso Merluza común, el plazo para la presentación de las declaraciones de stock es hasta las 18:00 horas del primer día de iniciado el periodo de veda, no teniendo restricciones para su traslado y/o transferencia, previa visación del documento tributario correspondiente, siempre y cuando se acredite su procedencia en centros de elaboración debidamente autorizados para el efecto.
 
 4. Los usuarios que mantengan stocks del recurso merluza común, o de sus productos derivados, deberán tener a disposición de los fiscalizadores, al momento de la inspección, toda la documentación que acredite el origen legal del recurso o producto conforme a la normativa pesquera vigente.
 
