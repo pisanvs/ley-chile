@@ -1,0 +1,23 @@
+NOTIFICACIÓN
+
+Res. Ex Nº 1.407 de 16-06-2016; Vistos: Ley 18755 Orgánica del Servicio Agrícola y Ganadero; Decreto ley Nº 3.557/1980 sobre Protección Agrícola; Resolución exenta Nº 4287/2014; Resolución en Nº1/2015, la cual designa al Director Regional SAG RM. Considerando Que, la denuncia efectuada por un inspector del Servicio Agrícola y Ganadero, constituye presunción legal de haberse cometido la infracción, de conformidad a lo dispuesto en el inciso tercero, del artículo 12, de la ley 18.755. Considerando
+
+- **1.-** Que, a fojas 1 rola Acta de Denuncia y Citación Nº13-3388, de fecha 03-02-2016, complementada por informe de fojas 2, cursada a Pedro Juan Armijo Aguirre, con domicilio en Copacabana Nº476, comuna de Estación Central, Región Metropolitana, por haberse comprobado la siguiente infracción: Comercializador, compra y transporte fruta sin contar con su POT aprobado y firmado para la temporada 2015-2016.
+
+- **2.-** Que, a fojas 4 rolan descargos presentados por escrito por el denunciado quien en síntesis expuso: Asume su responsabilidad la cual no sucederá nuevamente, ya que su inexperiencia le jugó en contra.
+
+- **3.-** Que, el resuelvo 7mo de la resolución exenta 4287 expresa: "Los productores afectados deberán presentar al SAG un Plan Operacional de Trabajo (POT), el cual contendrá el programa de control para Lobesia botrana, un catastro de las especies y variedades presentes en el huerto o predio, el destino final de la producción de Vitis vinífera, o de alguna otra especie vegetal sobre la cual se haya establecido una resolución para el control de la plaga, y el manejo de los desechos, cuando corresponda. Este POT deberá ser revisado por esta autoridad para verificar si establece medidas fitosanitarias, plazo y condiciones de cumplimiento que garanticen el control y/o erradicación de la plaga, el cual deberá ser autorizado mediante resolución del Director Regional o Jefe de Oficina correspondiente que esté a cargo del control oficial de Lobesia botrana. De igual modo, todos aquellos que utilicen frutos, plantas, partes de plantas o cualquier otro artículo reglamentado que sea susceptible de transportar o dispersar la plaga en sus procesos de producción, o comercialización o prestación de servicios, tales como Plantas Frigoríficas o Exportadoras; embaladoras de fruta fresca (packing); elaboradoras de vino; elaboradoras de pisco; elaboradoras de jugo; elaboradoras de fruta en conserva; deshidratadoras; secaderos de frutas; empresas de congelados; comercializadores o intermediarios; centros de acopio; viveros de vides o especies reglamentadas o que comercialicen vides especies reglamentadas; empresas prestadoras de servicios o arriendo de maquinaria agrícola, que operen al interior de áreas reglamentadas o con plantas o productos regulados por esta resolución u otra generada al amparo de ésta y que sean provenientes de un área reglamentada, deberán presentar un POT para funcionar de un modo que asegure los objetivos del Control Obligatorio de Lobesia botrana. El Plan Operacional de Trabajo aprobado por el Servicio tendrá carácter obligatorio y será fiscalizado y sancionado por esta autoridad conforme a lo establecido en el DL Nº 3.557, sobre Protección Agrícola.
+
+- **5.-** Que, las alegaciones hechas por el denunciado no permite desvirtuar los hechos descritos en el Acta de Denuncia y Citación de fojas 1, lo que constituye infracción a lo dispuesto en el Resuelvo 7mo de la resolución 4.287/2014, toda vez que no presenta su POT antes de trabajar en la compra y transporte de artículos reglamentados.
+
+- **6.-** Que, por lo anterior se procede a aplicar sanción al denunciado, teniendo en consideración que es primera vez citado a este tribunal administrativo. Resuelvo:
+
+- **1.-** Aplícase al Sr. Pedro Juan Armijo Aguirre una multa equivalente a 1 Unidad Tributaria Mensual, vigente a la fecha del pago.
+
+- **2.-** El infractor deberá cancelar la multa en las oficinas del Servicio, ubicadas en Avenida Portales 3396, comuna de Estación Central, dentro del décimo día hábil de ejecutoriada la presente resolución.
+
+- **3.-** El afectado podrá recurrir por vía de revisión ante el Director Nacional del Servicio Agrícola y Ganadero para lo cual tendrá 10 días hábiles contados desde la notificación de la presente resolución.
+
+- **4.-** Si en el acto de la notificación no fuera habido el infractor, ésta se hará a cualquier persona mayor de edad que se encontrare en el domicilio.-
+
+Firma: Óscar Enrique Concha Díaz, Director SAG, Región Metropolitana de Santiago.
