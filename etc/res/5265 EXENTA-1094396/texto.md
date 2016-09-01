@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.933, de 14 de julio de 2016, rectificada por resolución exenta Nº 5.265, de 2 de agosto de 2016, ambas de Serviu Región de Valparaíso, se dispuso expropiación conforme al artículo 51 de la ley 16.391; decreto ley 2.186 de 1978 y decreto exento Nº 88 de 9 de mayo de 2016 del Minvu, del siguiente inmueble: Lote 1A ubicado en Fundo El Pajonal Vía Central, Cerro Merced, comuna de Valparaíso, Rol SII 9306-1 parte, presunto dominio Úrsula Riegel Berg, monto indemnización provisional en $442.592.596; el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por Irma Díaz Riveros (constructor civil), Hugo Fuentes Jara (constructor civil) y Enrique Ramos Guzmán (arquitecto), según informe de fecha diciembre de 2015, que será pagada al contado.
+
+.
