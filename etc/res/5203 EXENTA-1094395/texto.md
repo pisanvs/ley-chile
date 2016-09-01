@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.934, de 14 de julio de 2016, rectificada por resolución exenta Nº 5.203, de 1 de agosto de 2016, ambas de Serviu Región de Valparaíso, se dispuso expropiación conforme al artículo 51 de la ley 16.391; decreto ley 2.186 de 1978 y decreto exento Nº 88 de 9 de mayo de 2016 del Minvu, del siguiente inmueble: Lote A ubicado en calle El Vergel Nº 1073, Cerro La Cruz, comuna de Valparaíso, Rol SII 6181-169 parte, presunto dominio Adán Simeón Werner Schott Salazar, monto indemnización provisional en $13.313.800; el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por Irma Díaz Riveros (constructor civil), Hugo Fuentes Jara (constructor civil) y Enrique Ramos Guzmán (arquitecto), según informe de fecha diciembre de 2015, que será pagada al contado.
+
+.
