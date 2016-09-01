@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.941, de 15 de julio de 2016, rectificada por resolución exenta Nº 5.266, de 2 de agosto de 2016, ambas de Serviu Región de Valparaíso, se dispuso expropiación conforme al artículo 51 de la ley 16.391; decreto ley 2.186 de 1978 y decreto exento Nº 88 de 9 de mayo de 2016 del Minvu, del siguiente inmueble: Lote 27 ubicado en calle La Fontaine Nº 171, Cerro El Litre, comuna de Valparaíso, Rol SII 5106-6, presunto dominio Sandra Labrín Donoso, monto indemnización provisional en $12.080.760; el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por Irma Díaz Riveros (constructor civil), Hugo Fuentes Jara (constructor civil) y Enrique Ramos Guzmán (arquitecto), según informe de fecha diciembre de 2015, que será pagada al contado.
+
+.
