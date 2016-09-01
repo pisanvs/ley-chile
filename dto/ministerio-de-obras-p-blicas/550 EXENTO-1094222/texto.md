@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 550 de 11 de agosto de 2016, se tuvo por desistida la expropiación del lote de terreno N° 188L3, para la obra: "PROYECTO LÍNEA 3 LA REINA - HUECHURABA, SECTOR: AV. GRECIA - AV. VICUÑA MACKENNA", ordenada por Decreto Exento MOP N° 273 de 29 de abril de 2015. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N° 2186, de 1978.
