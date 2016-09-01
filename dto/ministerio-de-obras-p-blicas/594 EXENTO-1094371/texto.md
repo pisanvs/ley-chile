@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 594, de 22 de agosto de 2016, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 349-3, superficie 413 m2, Rol de Avalúo N° 264-167, Comuna de Florida, para la obra: CONCESIÓN AUTOPISTA CONCEPCIÓN - CABRERO, SECTOR A2: CABRERO PONIENTE - EL PINO TRAMO 5, COMUNAS DE YUMBEL Y FLORIDA, PROVINCIA DE BIOBÍO Y CONCEPCIÓN, VIII REGIÓN DEL BIOBÍO. La Comisión de Peritos integrada por PAMELA ANDREA CAMPOS LÓPEZ, CRISTIAN ANDRÉS CÁCERES VARGAS y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 18 de marzo de 2016, acordándose la indemnización con su propietario SERGIO EDGARDO ROZAS JARA, en la cantidad de $495.332.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978. Fiscalía MOP.
+
+.
