@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 556, de 11 de agosto de 2016, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 6, 7 y 8, para la obra: REPOSICIÓN RUTA 11 CH, S: ARICA TAMBO QUEMADO KM. 36-60, que figura a nombre de HUANCA MAMANI ANÍBAL ARTURO, HUANCA MAMANI ANÍBAL ARTURO y HUANCA MAMANI ANÍBAL ARTURO, roles de avalúo 3200-121, 3200-121 y 3200-141, Comuna de ARICA, XV REGIÓN, superficies 294, 83 y 612 m2 respectivamente. La Comisión de Peritos integrada por LUIS BERNARDO AGUILERA CABRERA, PATRICIO FERNANDO CASAGRANDE ULLOA y NORMAN ESTANISLAO CALDERÓN PONTIGGIA, mediante informe de tasación de 3 de marzo de 2015, fijó el monto de la indemnización provisional en la cantidad de $3.243.000 para el lote N° 6, $734.048 para el lote N° 7, y $1.530.000 para el lote N° 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
