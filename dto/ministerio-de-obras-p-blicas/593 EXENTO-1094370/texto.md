@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 593, de 22 de agosto de 2016, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N°s. 9 y 9-1, superficies 13.668 y 5.900 m2, Rol de Avalúo N° 136-183, Comuna de Mostazal, para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: SANTIAGO - TALCA, SECTOR TERCERAS PISTAS TRAMO III KM. 58.240,00 - KM. 69.000,00, PROVINCIA DE CACHAPOAL, VI REGIÓN DEL LIB. GRAL. B. O'HIGGINS. La Comisión de Peritos integrada por RICARDO ANTONIO STRICKLER, DANILO ALEJANDRO BASIS QUEIROLO y PAOLA ANDREA DOMINGO PORCELLA, fijó el valor de tasación con fecha 25 de agosto de 2015, acordándose la indemnización con su propietaria MARÍA SOLEDAD RUIZ DIEGO, en la cantidad de $254.342.353.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
