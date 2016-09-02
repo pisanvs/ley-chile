@@ -42,6 +42,10 @@ Tercero: Deberán, los armadores pesqueros industriales y/o artesanales, o su ma
 
 ### 6. Nombre Y RUT del Patrón y/o Capitán de la embarcación
 
+El Servicio acogerá o denegará la solicitud de inscripción, mediante acto administrativo fundado, en un plazo de tres días hábiles, contados desde la recepción de la solicitud de inscripción.
+
+Tercero bis: Los armadores pesqueros industriales y/o artesanales, cuyas embarcaciones no presenten sistemas de refrigeración, deberán almacenar, transportar y desembarcar los recursos capturados en cajas con hielo, para efectos de su conservación, cuando el destino del recurso es para consumo humano directo. Asimismo, si el destino del recurso desembarcado es carnada, deberán ser almacenados, transportados y desembarcados en cajas con sal, para efectos de su conservación.
+
 Cuarto: Cúmplase, para el transporte y comercialización de los recursos hidrobiológicos extraídos y desembarcados con fines de consumo humano y/o carnada, durante el período de veda, con la acreditación del origen legal mediante la presentación de documentos tributarios debidamente visados en forma presencial por el Servicio Nacional de Pesca y Acuicultura.
 
 Que, el documento tributario que se presente para visación deberá contener, al menos, la siguiente información:
